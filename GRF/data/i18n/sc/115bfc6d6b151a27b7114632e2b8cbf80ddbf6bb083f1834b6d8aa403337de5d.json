@@ -1,12 +1,12 @@
 {
     "IEZ4CA": {
-        "en": "Suspicious Mound",
-        "pt": "Montinho Duvidoso",
-        "es": "Montículo Sospechoso"
+        "en-US": "Suspicious Mound",
+        "pt-BR": "Montinho Duvidoso",
+        "es-ES": "Montículo Sospechoso"
     },
     "IUZ4CA": {
-        "en": "Faceworm Larva",
-        "pt": "Larva de Verme",
-        "es": "Larva de Lombrirosto"
+        "en-US": "Faceworm Larva",
+        "pt-BR": "Larva de Verme",
+        "es-ES": "Larva de Lombrirosto"
     }
 }

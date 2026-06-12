@@ -1,17 +1,17 @@
 {
     "4KErBw": {
-        "en": "admin",
-        "pt": "admin",
-        "es": "admin"
+        "en-US": "admin",
+        "pt-BR": "admin",
+        "es-ES": "admin"
     },
     "4aErBw": {
-        "en": "member",
-        "pt": "member",
-        "es": "miembro"
+        "en-US": "member",
+        "pt-BR": "member",
+        "es-ES": "miembro"
     },
     "4qErBw": {
-        "en": "notify",
-        "pt": "notify",
-        "es": "notificar a"
+        "en-US": "notify",
+        "pt-BR": "notify",
+        "es-ES": "notificar a"
     }
 }

@@ -1,627 +1,627 @@
 {
     "IO7ZCA": {
-        "en": "Immortal_Furnace",
-        "pt": "Braseiro Imortal",
-        "es": "Horno_Inmortal"
+        "en-US": "Immortal_Furnace",
+        "pt-BR": "Braseiro Imortal",
+        "es-ES": "Horno_Inmortal"
     },
     "Ie7ZCA": {
-        "en": "Abysmal Knight",
-        "pt": "Cavaleiro do Abismo",
-        "es": "Abysmal Knight"
+        "en-US": "Abysmal Knight",
+        "pt-BR": "Cavaleiro do Abismo",
+        "es-ES": "Abysmal Knight"
     },
     "Iu7ZCA": {
-        "en": "Nightmare Terror",
-        "pt": "Pesadelo Sombrio",
-        "es": "Nightmare Terror"
+        "en-US": "Nightmare Terror",
+        "pt-BR": "Pesadelo Sombrio",
+        "es-ES": "Nightmare Terror"
     },
     "I+7ZCA": {
-        "en": "Nightmare",
-        "pt": "Pesadelo",
-        "es": "Nightmare"
+        "en-US": "Nightmare",
+        "pt-BR": "Pesadelo",
+        "es-ES": "Nightmare"
     },
     "JO7ZCA": {
-        "en": "All monsters on the 76th level have been defeated.",
-        "pt": "Todos os monstros no 76º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel76 fueron derrotados."
+        "en-US": "All monsters on the 76th level have been defeated.",
+        "pt-BR": "Todos os monstros no 76º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel76 fueron derrotados."
     },
     "Je7ZCA": {
-        "en": "Remaining Monsters on 76th Level - {0}",
-        "pt": "Monstros restantes no 76º andar - {0}",
-        "es": "Monstruos restantes del nivel76: {0}."
+        "en-US": "Remaining Monsters on 76th Level - {0}",
+        "pt-BR": "Monstros restantes no 76º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel76: {0}."
     },
     "Ju7ZCA": {
-        "en": "Banshee",
-        "pt": "Banshee",
-        "es": "Banshee"
+        "en-US": "Banshee",
+        "pt-BR": "Banshee",
+        "es-ES": "Banshee"
     },
     "J+7ZCA": {
-        "en": "Wraith Dead",
-        "pt": "Aparição",
-        "es": "Wraith Dead"
+        "en-US": "Wraith Dead",
+        "pt-BR": "Aparição",
+        "es-ES": "Wraith Dead"
     },
     "KO7ZCA": {
-        "en": "Evil Druid",
-        "pt": "Druída Maligno",
-        "es": "Evil Druid"
+        "en-US": "Evil Druid",
+        "pt-BR": "Druída Maligno",
+        "es-ES": "Evil Druid"
     },
     "Ke7ZCA": {
-        "en": "Wraith",
-        "pt": "Alma Penada",
-        "es": "Wraith"
+        "en-US": "Wraith",
+        "pt-BR": "Alma Penada",
+        "es-ES": "Wraith"
     },
     "Ku7ZCA": {
-        "en": "Wind Ghost",
-        "pt": "Xamã do Vento",
-        "es": "Wind Ghost"
+        "en-US": "Wind Ghost",
+        "pt-BR": "Xamã do Vento",
+        "es-ES": "Wind Ghost"
     },
     "K+7ZCA": {
-        "en": "All monsters on the 77th level have been defeated.",
-        "pt": "Todos os monstros no 77º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel77 fueron derrotados."
+        "en-US": "All monsters on the 77th level have been defeated.",
+        "pt-BR": "Todos os monstros no 77º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel77 fueron derrotados."
     },
     "LO7ZCA": {
-        "en": "Remaining Monsters on 77th Level - {0}",
-        "pt": "Monstros restantes no 77º andar - {0}",
-        "es": "Monstruos restantes del nivel77: {0}."
+        "en-US": "Remaining Monsters on 77th Level - {0}",
+        "pt-BR": "Monstros restantes no 77º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel77: {0}."
     },
     "Le7ZCA": {
-        "en": "Sword Guardian",
-        "pt": "Cavaleiro Guardião",
-        "es": "Sword Guardian"
+        "en-US": "Sword Guardian",
+        "pt-BR": "Cavaleiro Guardião",
+        "es-ES": "Sword Guardian"
     },
     "Lu7ZCA": {
-        "en": "Bloody Knight",
-        "pt": "Cavaleiro Sanguinário",
-        "es": "Bloody Knight"
+        "en-US": "Bloody Knight",
+        "pt-BR": "Cavaleiro Sanguinário",
+        "es-ES": "Bloody Knight"
     },
     "L+7ZCA": {
-        "en": "Dullahan",
-        "pt": "Dullahan",
-        "es": "Dullahan"
+        "en-US": "Dullahan",
+        "pt-BR": "Dullahan",
+        "es-ES": "Dullahan"
     },
     "MO7ZCA": {
-        "en": "Raydric",
-        "pt": "Raydric",
-        "es": "Raydric"
+        "en-US": "Raydric",
+        "pt-BR": "Raydric",
+        "es-ES": "Raydric"
     },
     "Me7ZCA": {
-        "en": "All monsters on the 78th level have been defeated.",
-        "pt": "Todos os monstros no 78º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel78 fueron derrotados."
+        "en-US": "All monsters on the 78th level have been defeated.",
+        "pt-BR": "Todos os monstros no 78º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel78 fueron derrotados."
     },
     "Mu7ZCA": {
-        "en": "Remaining Monsters on 78th Level - {0}",
-        "pt": "Monstros restantes no 78º andar - {0}",
-        "es": "Monstruos restantes del nivel78: {0}."
+        "en-US": "Remaining Monsters on 78th Level - {0}",
+        "pt-BR": "Monstros restantes no 78º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel78: {0}."
     },
     "M+7ZCA": {
-        "en": "Hydrolancer",
-        "pt": "Hydrolancer",
-        "es": "Hydrolancer"
+        "en-US": "Hydrolancer",
+        "pt-BR": "Hydrolancer",
+        "es-ES": "Hydrolancer"
     },
     "NO7ZCA": {
-        "en": "Ferus",
-        "pt": "Ferus",
-        "es": "Ferus"
+        "en-US": "Ferus",
+        "pt-BR": "Ferus",
+        "es-ES": "Ferus"
     },
     "Ne7ZCA": {
-        "en": "Ferus",
-        "pt": "Ferus",
-        "es": "Ferus"
+        "en-US": "Ferus",
+        "pt-BR": "Ferus",
+        "es-ES": "Ferus"
     },
     "Nu7ZCA": {
-        "en": "Deleter",
-        "pt": "Deletério",
-        "es": "Deleter"
+        "en-US": "Deleter",
+        "pt-BR": "Deletério",
+        "es-ES": "Deleter"
     },
     "N+7ZCA": {
-        "en": "Petite",
-        "pt": "Petite",
-        "es": "Petite"
+        "en-US": "Petite",
+        "pt-BR": "Petite",
+        "es-ES": "Petite"
     },
     "OO7ZCA": {
-        "en": "All monsters on the 79th level have been defeated.",
-        "pt": "Todos os monstros no 79º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel79 fueron derrotados."
+        "en-US": "All monsters on the 79th level have been defeated.",
+        "pt-BR": "Todos os monstros no 79º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel79 fueron derrotados."
     },
     "Oe7ZCA": {
-        "en": "Remaining Monsters on 79th Level - {0}",
-        "pt": "Monstros restantes no 79º andar - {0}",
-        "es": "Monstruos restantes del nivel79: {0}."
+        "en-US": "Remaining Monsters on 79th Level - {0}",
+        "pt-BR": "Monstros restantes no 79º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel79: {0}."
     },
     "Ou7ZCA": {
-        "en": "Fallen Bishop",
-        "pt": "Bispo Decadente",
-        "es": "Fallen Bishop"
+        "en-US": "Fallen Bishop",
+        "pt-BR": "Bispo Decadente",
+        "es-ES": "Fallen Bishop"
     },
     "O+7ZCA": {
-        "en": "Necromancer",
-        "pt": "Necromante",
-        "es": "Necromancer"
+        "en-US": "Necromancer",
+        "pt-BR": "Necromante",
+        "es-ES": "Necromancer"
     },
     "PO7ZCA": {
-        "en": "All monsters on the 80th level have been defeated.",
-        "pt": "Todos os monstros no 80º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel80 fueron derrotados."
+        "en-US": "All monsters on the 80th level have been defeated.",
+        "pt-BR": "Todos os monstros no 80º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel80 fueron derrotados."
     },
     "Pe7ZCA": {
-        "en": "Remaining Monsters on 80th Level - {0}",
-        "pt": "Monstros restantes no 80º andar - {0}",
-        "es": "Monstruos restantes del nivel80: {0}."
+        "en-US": "Remaining Monsters on 80th Level - {0}",
+        "pt-BR": "Monstros restantes no 80º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel80: {0}."
     },
     "Pu7ZCA": {
-        "en": "Mysteltainn",
-        "pt": "Mysteltainn",
-        "es": "Mysteltainn"
+        "en-US": "Mysteltainn",
+        "pt-BR": "Mysteltainn",
+        "es-ES": "Mysteltainn"
     },
     "P+7ZCA": {
-        "en": "Ogretooth",
-        "pt": "Tirfing",
-        "es": "Ogretooth"
+        "en-US": "Ogretooth",
+        "pt-BR": "Tirfing",
+        "es-ES": "Ogretooth"
     },
     "QO7ZCA": {
-        "en": "Executioner",
-        "pt": "Executor",
-        "es": "Executioner"
+        "en-US": "Executioner",
+        "pt-BR": "Executor",
+        "es-ES": "Executioner"
     },
     "Qe7ZCA": {
-        "en": "All monsters on the 81st level have been defeated.",
-        "pt": "Todos os monstros no 81º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel81 fueron derrotados."
+        "en-US": "All monsters on the 81st level have been defeated.",
+        "pt-BR": "Todos os monstros no 81º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel81 fueron derrotados."
     },
     "Qu7ZCA": {
-        "en": "Remaining Monsters on 81st Level - {0}",
-        "pt": "Monstros restantes no 81º andar - {0}",
-        "es": "Monstruos restantes del nivel81: {0}."
+        "en-US": "Remaining Monsters on 81st Level - {0}",
+        "pt-BR": "Monstros restantes no 81º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel81: {0}."
     },
     "Q+7ZCA": {
-        "en": "Agav",
-        "pt": "Agav",
-        "es": "Agav"
+        "en-US": "Agav",
+        "pt-BR": "Agav",
+        "es-ES": "Agav"
     },
     "RO7ZCA": {
-        "en": "Bloody Murderer",
-        "pt": "Serial Killer",
-        "es": "Bloody Murderer"
+        "en-US": "Bloody Murderer",
+        "pt-BR": "Serial Killer",
+        "es-ES": "Bloody Murderer"
     },
     "Re7ZCA": {
-        "en": "Skogul",
-        "pt": "Skogul",
-        "es": "Skogul"
+        "en-US": "Skogul",
+        "pt-BR": "Skogul",
+        "es-ES": "Skogul"
     },
     "Ru7ZCA": {
-        "en": "Injustice",
-        "pt": "Injustiçado",
-        "es": "Injustice"
+        "en-US": "Injustice",
+        "pt-BR": "Injustiçado",
+        "es-ES": "Injustice"
     },
     "R+7ZCA": {
-        "en": "All monsters on the 82nd level have been defeated.",
-        "pt": "Todos os monstros no 82º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel82 fueron derrotados."
+        "en-US": "All monsters on the 82nd level have been defeated.",
+        "pt-BR": "Todos os monstros no 82º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel82 fueron derrotados."
     },
     "SO7ZCA": {
-        "en": "Remaining Monsters on 82nd Level - {0}",
-        "pt": "Monstros restantes no 82º andar - {0}",
-        "es": "Monstruos restantes del nivel82: {0}."
+        "en-US": "Remaining Monsters on 82nd Level - {0}",
+        "pt-BR": "Monstros restantes no 82º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel82: {0}."
     },
     "Se7ZCA": {
-        "en": "Skeggiold",
-        "pt": "Skeggiold",
-        "es": "Skeggiold"
+        "en-US": "Skeggiold",
+        "pt-BR": "Skeggiold",
+        "es-ES": "Skeggiold"
     },
     "Su7ZCA": {
-        "en": "Dark Illusion",
-        "pt": "Ilusão das Trevas",
-        "es": "Dark Illusion"
+        "en-US": "Dark Illusion",
+        "pt-BR": "Ilusão das Trevas",
+        "es-ES": "Dark Illusion"
     },
     "S+7ZCA": {
-        "en": "Gryphon",
-        "pt": "Grifo",
-        "es": "Gryphon"
+        "en-US": "Gryphon",
+        "pt-BR": "Grifo",
+        "es-ES": "Gryphon"
     },
     "TO7ZCA": {
-        "en": "Chimera",
-        "pt": "Quimera",
-        "es": "Chimera"
+        "en-US": "Chimera",
+        "pt-BR": "Quimera",
+        "es-ES": "Chimera"
     },
     "Te7ZCA": {
-        "en": "All monsters on the 83rd level have been defeated.",
-        "pt": "Todos os monstros no 83º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel83 fueron derrotados."
+        "en-US": "All monsters on the 83rd level have been defeated.",
+        "pt-BR": "Todos os monstros no 83º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel83 fueron derrotados."
     },
     "Tu7ZCA": {
-        "en": "Remaining Monsters on 83rd Level - {0}",
-        "pt": "Monstros restantes no 83º andar - {0}",
-        "es": "Monstruos restantes del nivel83: {0}."
+        "en-US": "Remaining Monsters on 83rd Level - {0}",
+        "pt-BR": "Monstros restantes no 83º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel83: {0}."
     },
     "T+7ZCA": {
-        "en": "Succubus",
-        "pt": "Succubus",
-        "es": "Succubus"
+        "en-US": "Succubus",
+        "pt-BR": "Succubus",
+        "es-ES": "Succubus"
     },
     "UO7ZCA": {
-        "en": "Owl Duke",
-        "pt": "Duque Coruja",
-        "es": "Owl Duke"
+        "en-US": "Owl Duke",
+        "pt-BR": "Duque Coruja",
+        "es-ES": "Owl Duke"
     },
     "Ue7ZCA": {
-        "en": "Owl Baron",
-        "pt": "Barão Coruja",
-        "es": "Owl Baron"
+        "en-US": "Owl Baron",
+        "pt-BR": "Barão Coruja",
+        "es-ES": "Owl Baron"
     },
     "Uu7ZCA": {
-        "en": "Incubus",
-        "pt": "Incubus",
-        "es": "Incubus"
+        "en-US": "Incubus",
+        "pt-BR": "Incubus",
+        "es-ES": "Incubus"
     },
     "U+7ZCA": {
-        "en": "All monsters on the 84th level have been defeated.",
-        "pt": "Todos os monstros no 84º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel84 fueron derrotados."
+        "en-US": "All monsters on the 84th level have been defeated.",
+        "pt-BR": "Todos os monstros no 84º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel84 fueron derrotados."
     },
     "VO7ZCA": {
-        "en": "Remaining Monsters on 84th Level - {0}",
-        "pt": "Monstros restantes no 84º andar - {0}",
-        "es": "Monstruos restantes del nivel84: {0}."
+        "en-US": "Remaining Monsters on 84th Level - {0}",
+        "pt-BR": "Monstros restantes no 84º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel84: {0}."
     },
     "Ve7ZCA": {
-        "en": "Ifrit",
-        "pt": "Ifrit",
-        "es": "Ifrit"
+        "en-US": "Ifrit",
+        "pt-BR": "Ifrit",
+        "es-ES": "Ifrit"
     },
     "Vu7ZCA": {
-        "en": "All monsters on the 85th level have been defeated.",
-        "pt": "Todos os monstros no 85º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel85 fueron derrotados."
+        "en-US": "All monsters on the 85th level have been defeated.",
+        "pt-BR": "Todos os monstros no 85º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel85 fueron derrotados."
     },
     "V+7ZCA": {
-        "en": "Remaining Monsters on 85th Level - {0}",
-        "pt": "Monstros restantes no 85º andar - {0}",
-        "es": "Monstruos restantes del nivel85: {0}."
+        "en-US": "Remaining Monsters on 85th Level - {0}",
+        "pt-BR": "Monstros restantes no 85º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel85: {0}."
     },
     "WO7ZCA": {
-        "en": "Majoruros",
-        "pt": "Majoruros",
-        "es": "Majoruros"
+        "en-US": "Majoruros",
+        "pt-BR": "Majoruros",
+        "es-ES": "Majoruros"
     },
     "We7ZCA": {
-        "en": "All monsters on the 86th level have been defeated.",
-        "pt": "Todos os monstros no 86º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel86 fueron derrotados."
+        "en-US": "All monsters on the 86th level have been defeated.",
+        "pt-BR": "Todos os monstros no 86º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel86 fueron derrotados."
     },
     "Wu7ZCA": {
-        "en": "Remaining Monsters on 86th Level - {0}",
-        "pt": "Monstros restantes no 86º andar - {0}",
-        "es": "Monstruos restantes del nivel86: {0}."
+        "en-US": "Remaining Monsters on 86th Level - {0}",
+        "pt-BR": "Monstros restantes no 86º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel86: {0}."
     },
     "W+7ZCA": {
-        "en": "Salamander",
-        "pt": "Salamandra",
-        "es": "Salamander"
+        "en-US": "Salamander",
+        "pt-BR": "Salamandra",
+        "es-ES": "Salamander"
     },
     "XO7ZCA": {
-        "en": "Kasa",
-        "pt": "Kasa",
-        "es": "Kasa"
+        "en-US": "Kasa",
+        "pt-BR": "Kasa",
+        "es-ES": "Kasa"
     },
     "Xe7ZCA": {
-        "en": "Lava Golem",
-        "pt": "Golem de Lava",
-        "es": "Lava Golem"
+        "en-US": "Lava Golem",
+        "pt-BR": "Golem de Lava",
+        "es-ES": "Lava Golem"
     },
     "Xu7ZCA": {
-        "en": "Gajomart",
-        "pt": "Gajomart",
-        "es": "Gajomart"
+        "en-US": "Gajomart",
+        "pt-BR": "Gajomart",
+        "es-ES": "Gajomart"
     },
     "X+7ZCA": {
-        "en": "All monsters on the 87th level have been defeated.",
-        "pt": "Todos os monstros no 87º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel87 fueron derrotados."
+        "en-US": "All monsters on the 87th level have been defeated.",
+        "pt-BR": "Todos os monstros no 87º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel87 fueron derrotados."
     },
     "YO7ZCA": {
-        "en": "Remaining Monsters on 87th Level - {0}",
-        "pt": "Monstros restantes no 87º andar - {0}",
-        "es": "Monstruos restantes del nivel87: {0}."
+        "en-US": "Remaining Monsters on 87th Level - {0}",
+        "pt-BR": "Monstros restantes no 87º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel87: {0}."
     },
     "Ye7ZCA": {
-        "en": "Anubis",
-        "pt": "Anubis",
-        "es": "Anubis"
+        "en-US": "Anubis",
+        "pt-BR": "Anubis",
+        "es-ES": "Anubis"
     },
     "Yu7ZCA": {
-        "en": "Ancient Mummy",
-        "pt": "Mumia Anciã",
-        "es": "Ancient Mummy"
+        "en-US": "Ancient Mummy",
+        "pt-BR": "Mumia Anciã",
+        "es-ES": "Ancient Mummy"
     },
     "Y+7ZCA": {
-        "en": "Khalitzburg",
-        "pt": "Khalitzburg",
-        "es": "Khalitzburg"
+        "en-US": "Khalitzburg",
+        "pt-BR": "Khalitzburg",
+        "es-ES": "Khalitzburg"
     },
     "ZO7ZCA": {
-        "en": "All monsters on the 88th level have been defeated.",
-        "pt": "Todos os monstros no 88º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel88 fueron derrotados."
+        "en-US": "All monsters on the 88th level have been defeated.",
+        "pt-BR": "Todos os monstros no 88º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel88 fueron derrotados."
     },
     "Ze7ZCA": {
-        "en": "Remaining Monsters on 88th Level - {0}",
-        "pt": "Monstros restantes no 88º andar - {0}",
-        "es": "Monstruos restantes del nivel88: {0}."
+        "en-US": "Remaining Monsters on 88th Level - {0}",
+        "pt-BR": "Monstros restantes no 88º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel88: {0}."
     },
     "Zu7ZCA": {
-        "en": "Odium of Thanatos",
-        "pt": "Odium de Thanatos",
-        "es": "Odium of Thanatos"
+        "en-US": "Odium of Thanatos",
+        "pt-BR": "Odium de Thanatos",
+        "es-ES": "Odium of Thanatos"
     },
     "Z+7ZCA": {
-        "en": "Despero of Thanatos",
-        "pt": "Despero de Thanatos",
-        "es": "Despero of Thanatos"
+        "en-US": "Despero of Thanatos",
+        "pt-BR": "Despero de Thanatos",
+        "es-ES": "Despero of Thanatos"
     },
     "aO7ZCA": {
-        "en": "Maero of Thanatos",
-        "pt": "Maero de Thanatos",
-        "es": "Maero of Thanatos"
+        "en-US": "Maero of Thanatos",
+        "pt-BR": "Maero de Thanatos",
+        "es-ES": "Maero of Thanatos"
     },
     "ae7ZCA": {
-        "en": "Dolor of Thanatos",
-        "pt": "Pesar de Thanatos",
-        "es": "Dolor of Thanatos"
+        "en-US": "Dolor of Thanatos",
+        "pt-BR": "Pesar de Thanatos",
+        "es-ES": "Dolor of Thanatos"
     },
     "au7ZCA": {
-        "en": "All monsters on the 89th level have been defeated.",
-        "pt": "Todos os monstros no 89º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel89 fueron derrotados."
+        "en-US": "All monsters on the 89th level have been defeated.",
+        "pt-BR": "Todos os monstros no 89º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel89 fueron derrotados."
     },
     "a+7ZCA": {
-        "en": "Remaining Monsters on 89th Level - {0}",
-        "pt": "Monstros restantes no 89º andar - {0}",
-        "es": "Monstruos restantes del nivel89: {0}."
+        "en-US": "Remaining Monsters on 89th Level - {0}",
+        "pt-BR": "Monstros restantes no 89º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel89: {0}."
     },
     "bO7ZCA": {
-        "en": "Valkyrie Randgris",
-        "pt": "Valquíria Randgris",
-        "es": "Valkyrie Randgris"
+        "en-US": "Valkyrie Randgris",
+        "pt-BR": "Valquíria Randgris",
+        "es-ES": "Valkyrie Randgris"
     },
     "be7ZCA": {
-        "en": "Baroness of Retribution",
-        "pt": "Baronesa da Retribuição",
-        "es": "Baroness of Retribution"
+        "en-US": "Baroness of Retribution",
+        "pt-BR": "Baronesa da Retribuição",
+        "es-ES": "Baroness of Retribution"
     },
     "bu7ZCA": {
-        "en": "Lady Solace",
-        "pt": "Senhora do Conforto",
-        "es": "Lady Solace"
+        "en-US": "Lady Solace",
+        "pt-BR": "Senhora do Conforto",
+        "es-ES": "Lady Solace"
     },
     "b+7ZCA": {
-        "en": "False Angel",
-        "pt": "Anjo Fajuto",
-        "es": "False Angel"
+        "en-US": "False Angel",
+        "pt-BR": "Anjo Fajuto",
+        "es-ES": "False Angel"
     },
     "cO7ZCA": {
-        "en": "All monsters on the 90th level have been defeated.",
-        "pt": "Todos os monstros no 90º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel90 fueron derrotados."
+        "en-US": "All monsters on the 90th level have been defeated.",
+        "pt-BR": "Todos os monstros no 90º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel90 fueron derrotados."
     },
     "ce7ZCA": {
-        "en": "Remaining Monsters on 90th Level - {0}",
-        "pt": "Monstros restantes no 90º andar - {0}",
-        "es": "Monstruos restantes del nivel90: {0}."
+        "en-US": "Remaining Monsters on 90th Level - {0}",
+        "pt-BR": "Monstros restantes no 90º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel90: {0}."
     },
     "cu7ZCA": {
-        "en": "Cecil Damon",
-        "pt": "Cecil Damon",
-        "es": "Cecil Damon"
+        "en-US": "Cecil Damon",
+        "pt-BR": "Cecil Damon",
+        "es-ES": "Cecil Damon"
     },
     "c+7ZCA": {
-        "en": "Bow Guardian",
-        "pt": "Guardião Arqueiro",
-        "es": "Bow Guardian"
+        "en-US": "Bow Guardian",
+        "pt-BR": "Guardião Arqueiro",
+        "es-ES": "Bow Guardian"
     },
     "dO7ZCA": {
-        "en": "Kavach Icarus",
-        "pt": "Kavach Ícaro",
-        "es": "Kavach Icarus"
+        "en-US": "Kavach Icarus",
+        "pt-BR": "Kavach Ícaro",
+        "es-ES": "Kavach Icarus"
     },
     "de7ZCA": {
-        "en": "All monsters on the 91st level have been defeated.",
-        "pt": "Todos os monstros no 91º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel91 fueron derrotados."
+        "en-US": "All monsters on the 91st level have been defeated.",
+        "pt-BR": "Todos os monstros no 91º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel91 fueron derrotados."
     },
     "du7ZCA": {
-        "en": "Remaining Monsters on 91st Level - {0}",
-        "pt": "Monstros restantes no 91º andar - {0}",
-        "es": "Monstruos restantes del nivel91: {0}."
+        "en-US": "Remaining Monsters on 91st Level - {0}",
+        "pt-BR": "Monstros restantes no 91º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel91: {0}."
     },
     "d+7ZCA": {
-        "en": "Kathryne Keyron",
-        "pt": "Kathryne Keyron",
-        "es": "Kathryne Keyron"
+        "en-US": "Kathryne Keyron",
+        "pt-BR": "Kathryne Keyron",
+        "es-ES": "Kathryne Keyron"
     },
     "eO7ZCA": {
-        "en": "Elder",
-        "pt": "Ancião",
-        "es": "Elder"
+        "en-US": "Elder",
+        "pt-BR": "Ancião",
+        "es-ES": "Elder"
     },
     "ee7ZCA": {
-        "en": "Laurell Weinder",
-        "pt": "Laurell Weinder",
-        "es": "Laurell Weinder"
+        "en-US": "Laurell Weinder",
+        "pt-BR": "Laurell Weinder",
+        "es-ES": "Laurell Weinder"
     },
     "eu7ZCA": {
-        "en": "Marduk",
-        "pt": "Marduk",
-        "es": "Marduk"
+        "en-US": "Marduk",
+        "pt-BR": "Marduk",
+        "es-ES": "Marduk"
     },
     "e+7ZCA": {
-        "en": "All monsters on the 92nd level have been defeated.",
-        "pt": "Todos os monstros no 92º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel92 fueron derrotados."
+        "en-US": "All monsters on the 92nd level have been defeated.",
+        "pt-BR": "Todos os monstros no 92º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel92 fueron derrotados."
     },
     "fO7ZCA": {
-        "en": "Remaining Monsters on 92nd Level - {0}",
-        "pt": "Monstros restantes no 92º andar - {0}",
-        "es": "Monstruos restantes del nivel92: {0}."
+        "en-US": "Remaining Monsters on 92nd Level - {0}",
+        "pt-BR": "Monstros restantes no 92º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel92: {0}."
     },
     "fe7ZCA": {
-        "en": "Seyren Windsor",
-        "pt": "Seyren Windsor",
-        "es": "Seyren Windsor"
+        "en-US": "Seyren Windsor",
+        "pt-BR": "Seyren Windsor",
+        "es-ES": "Seyren Windsor"
     },
     "fu7ZCA": {
-        "en": "Wanderer",
-        "pt": "Andarilho",
-        "es": "Wanderer"
+        "en-US": "Wanderer",
+        "pt-BR": "Andarilho",
+        "es-ES": "Wanderer"
     },
     "f+7ZCA": {
-        "en": "All monsters on the 93rd level have been defeated.",
-        "pt": "Todos os monstros no 93º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel93 fueron derrotados."
+        "en-US": "All monsters on the 93rd level have been defeated.",
+        "pt-BR": "Todos os monstros no 93º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel93 fueron derrotados."
     },
     "gO7ZCA": {
-        "en": "Remaining Monsters on 93rd Level - {0}",
-        "pt": "Monstros restantes no 93º andar - {0}",
-        "es": "Monstruos restantes del nivel93: {0}."
+        "en-US": "Remaining Monsters on 93rd Level - {0}",
+        "pt-BR": "Monstros restantes no 93º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel93: {0}."
     },
     "ge7ZCA": {
-        "en": "All monsters on the 94th level have been defeated.",
-        "pt": "Todos os monstros no 94º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel94 fueron derrotados."
+        "en-US": "All monsters on the 94th level have been defeated.",
+        "pt-BR": "Todos os monstros no 94º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel94 fueron derrotados."
     },
     "gu7ZCA": {
-        "en": "Remaining Monsters on 94th Level - {0}",
-        "pt": "Monstros restantes no 94º andar - {0}",
-        "es": "Monstruos restantes del nivel94: {0}."
+        "en-US": "Remaining Monsters on 94th Level - {0}",
+        "pt-BR": "Monstros restantes no 94º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel94: {0}."
     },
     "g+7ZCA": {
-        "en": "Beelzebub",
-        "pt": "Belzebu",
-        "es": "Beelzebub"
+        "en-US": "Beelzebub",
+        "pt-BR": "Belzebu",
+        "es-ES": "Beelzebub"
     },
     "hO7ZCA": {
-        "en": "Hunter Fly",
-        "pt": "Mosca Caçadora",
-        "es": "Hunter Fly"
+        "en-US": "Hunter Fly",
+        "pt-BR": "Mosca Caçadora",
+        "es-ES": "Hunter Fly"
     },
     "he7ZCA": {
-        "en": "Steel Chonchon",
-        "pt": "Chonchon de Aço",
-        "es": "Steel Chonchon"
+        "en-US": "Steel Chonchon",
+        "pt-BR": "Chonchon de Aço",
+        "es-ES": "Steel Chonchon"
     },
     "hu7ZCA": {
-        "en": "Dragon Fly",
-        "pt": "Libélula",
-        "es": "Dragon Fly"
+        "en-US": "Dragon Fly",
+        "pt-BR": "Libélula",
+        "es-ES": "Dragon Fly"
     },
     "h+7ZCA": {
-        "en": "Chonchon",
-        "pt": "Chonchon",
-        "es": "Chonchon"
+        "en-US": "Chonchon",
+        "pt-BR": "Chonchon",
+        "es-ES": "Chonchon"
     },
     "iO7ZCA": {
-        "en": "All monsters on the 95th level have been defeated.",
-        "pt": "Todos os monstros no 95º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel95 fueron derrotados."
+        "en-US": "All monsters on the 95th level have been defeated.",
+        "pt-BR": "Todos os monstros no 95º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel95 fueron derrotados."
     },
     "ie7ZCA": {
-        "en": "Remaining Monsters on 95th Level - {0}",
-        "pt": "Monstros restantes no 95º andar - {0}",
-        "es": "Monstruos restantes del nivel95: {0}."
+        "en-US": "Remaining Monsters on 95th Level - {0}",
+        "pt-BR": "Monstros restantes no 95º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel95: {0}."
     },
     "iu7ZCA": {
-        "en": "Valkyrie",
-        "pt": "Valkyrie",
-        "es": "Valkyrie"
+        "en-US": "Valkyrie",
+        "pt-BR": "Valkyrie",
+        "es-ES": "Valkyrie"
     },
     "i+7ZCA": {
-        "en": "Skeggiold",
-        "pt": "Skeggiold",
-        "es": "Skeggiold"
+        "en-US": "Skeggiold",
+        "pt-BR": "Skeggiold",
+        "es-ES": "Skeggiold"
     },
     "jO7ZCA": {
-        "en": "All monsters on the 96th level have been defeated.",
-        "pt": "Todos os monstros do nível 96 foram derrotados.",
-        "es": "Todos los monstruos del nivel96 fueron derrotados."
+        "en-US": "All monsters on the 96th level have been defeated.",
+        "pt-BR": "Todos os monstros do nível 96 foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel96 fueron derrotados."
     },
     "je7ZCA": {
-        "en": "Remaining Monsters on 96th Level - {0}",
-        "pt": "Monstros restantes no 96º nível - {0}",
-        "es": "Monstruos restantes del nivel96: {0}."
+        "en-US": "Remaining Monsters on 96th Level - {0}",
+        "pt-BR": "Monstros restantes no 96º nível - {0}",
+        "es-ES": "Monstruos restantes del nivel96: {0}."
     },
     "ju7ZCA": {
-        "en": "Incarnation of Morroc",
-        "pt": "Encarnação de Morroc",
-        "es": "Incarnation of Morroc"
+        "en-US": "Incarnation of Morroc",
+        "pt-BR": "Encarnação de Morroc",
+        "es-ES": "Incarnation of Morroc"
     },
     "j+7ZCA": {
-        "en": "All monsters on the 97th level have been defeated.",
-        "pt": "Todos os monstros no 97º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel97 fueron derrotados."
+        "en-US": "All monsters on the 97th level have been defeated.",
+        "pt-BR": "Todos os monstros no 97º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel97 fueron derrotados."
     },
     "kO7ZCA": {
-        "en": "Remaining Monsters on 97th Level - {0}",
-        "pt": "Monstros restantes no 97º andar - {0}",
-        "es": "Monstruos restantes del nivel97: {0}."
+        "en-US": "Remaining Monsters on 97th Level - {0}",
+        "pt-BR": "Monstros restantes no 97º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel97: {0}."
     },
     "ke7ZCA": {
-        "en": "Margaretha Sorin",
-        "pt": "Margaretha Sorin",
-        "es": "Margaretha Sorin"
+        "en-US": "Margaretha Sorin",
+        "pt-BR": "Margaretha Sorin",
+        "es-ES": "Margaretha Sorin"
     },
     "ku7ZCA": {
-        "en": "Eremes Guile",
-        "pt": "Eremes Guile",
-        "es": "Eremes Guile"
+        "en-US": "Eremes Guile",
+        "pt-BR": "Eremes Guile",
+        "es-ES": "Eremes Guile"
     },
     "k+7ZCA": {
-        "en": "Howard Alt-Eisen",
-        "pt": "Howard Alt-Eisen",
-        "es": "Howard Alt-Eisen"
+        "en-US": "Howard Alt-Eisen",
+        "pt-BR": "Howard Alt-Eisen",
+        "es-ES": "Howard Alt-Eisen"
     },
     "lO7ZCA": {
-        "en": "All monsters on the 98th level have been defeated.",
-        "pt": "Todos os monstros no 98º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel98 fueron derrotados."
+        "en-US": "All monsters on the 98th level have been defeated.",
+        "pt-BR": "Todos os monstros no 98º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel98 fueron derrotados."
     },
     "le7ZCA": {
-        "en": "Remaining Monsters on 98th Level - {0}",
-        "pt": "Monstros restantes no 98º andar - {0}",
-        "es": "Monstruos restantes del nivel98: {0}."
+        "en-US": "Remaining Monsters on 98th Level - {0}",
+        "pt-BR": "Monstros restantes no 98º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel98: {0}."
     },
     "lu7ZCA": {
-        "en": "All monsters on the 99th level have been defeated.",
-        "pt": "Todos os monstros no 99º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel99 fueron derrotados."
+        "en-US": "All monsters on the 99th level have been defeated.",
+        "pt-BR": "Todos os monstros no 99º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel99 fueron derrotados."
     },
     "l+7ZCA": {
-        "en": "Remaining Monsters on 99th Level - {0}",
-        "pt": "Monstros restantes no 99º andar - {0}",
-        "es": "Monstruos restantes del nivel99: {0}."
+        "en-US": "Remaining Monsters on 99th Level - {0}",
+        "pt-BR": "Monstros restantes no 99º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel99: {0}."
     },
     "mO7ZCA": {
-        "en": "Please enter the password.",
-        "pt": "Por favor digite a senha.",
-        "es": "Introduce la contraseña."
+        "en-US": "Please enter the password.",
+        "pt-BR": "Por favor digite a senha.",
+        "es-ES": "Introduce la contraseña."
     },
     "me7ZCA": {
-        "en": "This NPC manages the tower from the 76th to the 99th levels.\nPlease enter the level number to open.\n(ex: 1F»1, 17F»17)",
-        "pt": "Este NPC cuida do 76º ao 99º andar da torre.\nPor favor, digite o número do nível a ser aberto.\n(ex.: 1º andar » 1; 17º andar » 17)",
-        "es": "Este NPC gestiona la torre desde el nivel 76 al 99.\nIntroduce el número del nivel que deseas abrir.\nPor ejemplo: P1»1, P17»17."
+        "en-US": "This NPC manages the tower from the 76th to the 99th levels.\nPlease enter the level number to open.\n(ex: 1F»1, 17F»17)",
+        "pt-BR": "Este NPC cuida do 76º ao 99º andar da torre.\nPor favor, digite o número do nível a ser aberto.\n(ex.: 1º andar » 1; 17º andar » 17)",
+        "es-ES": "Este NPC gestiona la torre desde el nivel 76 al 99.\nIntroduce el número del nivel que deseas abrir.\nPor ejemplo: P1»1, P17»17."
     },
     "mu7ZCA": {
-        "en": "You can only enter a number from 76 to 99.",
-        "pt": "Você só pode digitar um número de 76 a 99.",
-        "es": "Solo puedes introducir un número del 76 al 99."
+        "en-US": "You can only enter a number from 76 to 99.",
+        "pt-BR": "Você só pode digitar um número de 76 a 99.",
+        "es-ES": "Solo puedes introducir un número del 76 al 99."
     },
     "m+7ZCA": {
-        "en": "{0}FGate102tower",
-        "pt": "{0}FGate102tower",
-        "es": "{0}FGate102tower"
+        "en-US": "{0}FGate102tower",
+        "pt-BR": "{0}FGate102tower",
+        "es-ES": "{0}FGate102tower"
     },
     "nO7ZCA": {
-        "en": "*** Level {0} is now being opened. ***",
-        "pt": "*** O nível {0} está sendo aberto. ***",
-        "es": "*** El nivel {0} se está abriendo. ***"
+        "en-US": "*** Level {0} is now being opened. ***",
+        "pt-BR": "*** O nível {0} está sendo aberto. ***",
+        "es-ES": "*** El nivel {0} se está abriendo. ***"
     }
 }

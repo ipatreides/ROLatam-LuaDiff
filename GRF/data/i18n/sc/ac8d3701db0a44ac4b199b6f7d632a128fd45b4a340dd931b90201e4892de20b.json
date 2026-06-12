@@ -1,254 +1,254 @@
 {
     "YKLcBw": {
-        "ko": "연청",
-        "en": "Epsilon",
-        "pt": "Epsilon",
-        "es": "Épsilon"
+        "ko-KR": "연청",
+        "en-US": "Epsilon",
+        "pt-BR": "Epsilon",
+        "es-ES": "Épsilon"
     },
     "YaLcBw": {
-        "ko": "[연청]\n바르밀 티켓을 사용하시려면 손님 등록이 필요합니다.\n전투 특화된 동료들을 분양해드립니다.",
-        "en": "[Epsilon]\nTo use Varmeal Ticket, customer registration is required.\nWe provide combat-specialized companions.",
-        "pt": "[Epsilon]\nPara usar o Vale Varmida, é necessário registrar-se primeiro.\nForneço equipamentos especializados em combate.",
-        "es": "[Épsilon]\nPara usar Vale Varmida, es necesario registrar al cliente.\nTe asignaremos compañeros especializados en combate."
+        "ko-KR": "[연청]\n바르밀 티켓을 사용하시려면 손님 등록이 필요합니다.\n전투 특화된 동료들을 분양해드립니다.",
+        "en-US": "[Epsilon]\nTo use Varmeal Ticket, customer registration is required.\nWe provide combat-specialized companions.",
+        "pt-BR": "[Epsilon]\nPara usar o Vale Varmida, é necessário registrar-se primeiro.\nForneço equipamentos especializados em combate.",
+        "es-ES": "[Épsilon]\nPara usar Vale Varmida, es necesario registrar al cliente.\nTe asignaremos compañeros especializados en combate."
     },
     "YqLcBw": {
-        "ko": "- 선행 퀘스트가 있습니다. -",
-        "en": "- There is a prerequisite quest. -",
-        "pt": "- Há uma missão pré-requisito. -",
-        "es": "- Hay una misión previa. -"
+        "ko-KR": "- 선행 퀘스트가 있습니다. -",
+        "en-US": "- There is a prerequisite quest. -",
+        "pt-BR": "- Há uma missão pré-requisito. -",
+        "es-ES": "- Hay una misión previa. -"
     },
     "Y6LcBw": {
-        "ko": "[연청]\n가방이 가득 찼습니다. 소지 무게와 소지 물품 수량을 확인 뒤 다시 말을 걸어 주세요.",
-        "en": "[Epsilon]\nYour bag is full. Please check your weight limit and item count, then talk to me again.",
-        "pt": "[Epsilon]\nSeu inventário está cheio. Verifique o peso e a quantidade de itens que está carregando e fale comigo novamente.",
-        "es": "[Épsilon]\nLa bolsa está llena. Revisa el peso que llevas y la cantidad de objetos, y luego vuelve a hablar conmigo."
+        "ko-KR": "[연청]\n가방이 가득 찼습니다. 소지 무게와 소지 물품 수량을 확인 뒤 다시 말을 걸어 주세요.",
+        "en-US": "[Epsilon]\nYour bag is full. Please check your weight limit and item count, then talk to me again.",
+        "pt-BR": "[Epsilon]\nSeu inventário está cheio. Verifique o peso e a quantidade de itens que está carregando e fale comigo novamente.",
+        "es-ES": "[Épsilon]\nLa bolsa está llena. Revisa el peso que llevas y la cantidad de objetos, y luego vuelve a hablar conmigo."
     },
     "ZKLcBw": {
-        "ko": "[연청]\n바르밀 티켓을 사용해서 오토매틱 방어구를 교환해드립니다.\n전투 특화된 동료들을 분양해드립니다.",
-        "en": "[Epsilon]\nWe will exchange Automatron equipment using Varmeal Ticket.\nWe provide combat-specialized companions.",
-        "pt": "[Epsilon]\nTroque seu Vale Varmida por um Automatron.\nForneço equipamentos especializados em combate.",
-        "es": "[Épsilon]\nUsando Vale Varmida, te cambiaremos por equipo Automatron.\nTe asignaremos compañeros especializados en combate."
+        "ko-KR": "[연청]\n바르밀 티켓을 사용해서 오토매틱 방어구를 교환해드립니다.\n전투 특화된 동료들을 분양해드립니다.",
+        "en-US": "[Epsilon]\nWe will exchange Automatron equipment using Varmeal Ticket.\nWe provide combat-specialized companions.",
+        "pt-BR": "[Epsilon]\nTroque seu Vale Varmida por um Automatron.\nForneço equipamentos especializados em combate.",
+        "es-ES": "[Épsilon]\nUsando Vale Varmida, te cambiaremos por equipo Automatron.\nTe asignaremos compañeros especializados en combate."
     },
     "ZaLcBw": {
-        "ko": "교환 안내",
-        "en": "Exchange Guide",
-        "pt": "Avisos",
-        "es": "Guía de intercambio"
+        "ko-KR": "교환 안내",
+        "en-US": "Exchange Guide",
+        "pt-BR": "Avisos",
+        "es-ES": "Guía de intercambio"
     },
     "ZqLcBw": {
-        "ko": "아머, 엔진윙, 레그 교환",
-        "en": "Armor, Engine, Leg Exchange",
-        "pt": "Trocar Equipamentos",
-        "es": "Intercambio de Armadura, Motor y Piernas"
+        "ko-KR": "아머, 엔진윙, 레그 교환",
+        "en-US": "Armor, Engine, Leg Exchange",
+        "pt-BR": "Trocar Equipamentos",
+        "es-ES": "Intercambio de Armadura, Motor y Piernas"
     },
     "Z6LcBw": {
-        "ko": "부스터, 배틀칩 교환",
-        "en": "Accessories Exchange",
-        "pt": "Trocar Acessórios",
-        "es": "Intercambio de Accesorios"
+        "ko-KR": "부스터, 배틀칩 교환",
+        "en-US": "Accessories Exchange",
+        "pt-BR": "Trocar Acessórios",
+        "es-ES": "Intercambio de Accesorios"
     },
     "aKLcBw": {
-        "ko": "취소",
-        "en": "Cancel",
-        "pt": "Cancelar",
-        "es": "Cancelar"
+        "ko-KR": "취소",
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
     },
     "aaLcBw": {
-        "ko": "[연청]\n^FF0000오토매틱 아머, 엔진윙, 레그^000000는 ^0000CD+9 제련된 일루시온 아머, 엔진윙, 레그와 바르밀 티켓 900장^000000을 주시면 교환해 드립니다.",
-        "en": "[Epsilon]\n^FF0000Automatron Armor, Engine, Leg^000000 can be exchanged if you give ^0000CD+9 refined Illusion Armor, Engine, Leg and Varmeal Tickets^000000.",
-        "pt": "[Epsilon]\nOs Equipamentos Automatron são versões aprimoradas dos ^0000CDIlusión^000000. Portanto, eles precisam estar ^FF0000refinados no +9^000000.",
-        "es": "[Épsilon]\n^FF0000La Armadura Automática, Engine Wing y Piernas^000000 se intercambian si entregas ^0000CDuna Armadura, Engine Wing y Piernas Illusion refinadas a +9 y Vales Varmida^000000."
+        "ko-KR": "[연청]\n^FF0000오토매틱 아머, 엔진윙, 레그^000000는 ^0000CD+9 제련된 일루시온 아머, 엔진윙, 레그와 바르밀 티켓 900장^000000을 주시면 교환해 드립니다.",
+        "en-US": "[Epsilon]\n^FF0000Automatron Armor, Engine, Leg^000000 can be exchanged if you give ^0000CD+9 refined Illusion Armor, Engine, Leg and Varmeal Tickets^000000.",
+        "pt-BR": "[Epsilon]\nOs Equipamentos Automatron são versões aprimoradas dos ^0000CDIlusión^000000. Portanto, eles precisam estar ^FF0000refinados no +9^000000.",
+        "es-ES": "[Épsilon]\n^FF0000La Armadura Automática, Engine Wing y Piernas^000000 se intercambian si entregas ^0000CDuna Armadura, Engine Wing y Piernas Illusion refinadas a +9 y Vales Varmida^000000."
     },
     "aqLcBw": {
-        "ko": "[연청]\n^FF0000오토매틱 부스터, 배틀칩^000000은 ^0000CD일루시온 부스터, 배틀칩과 바르밀 티켓 1500장^000000을 주시면 교환해 드립니다.",
-        "en": "[Epsilon]\n^FF0000Automatron Booster, Battle Chip^000000 can be exchanged if you give ^0000CDIllusion Booster, Battle Chip and Varmeal Tickets^000000.",
-        "pt": "[Epsilon]\nAlém do ^0000CDrefinamento^000000, serão necessários ^FF0000Vale Varmida^000000 para realizar a troca. Verifique as quantidades no seu inventário.",
-        "es": "[Épsilon]\n^FF0000El Booster Automático y Battle Chip^000000 se intercambian si entregas ^0000CDun Booster y Battle Chip Illusion y Vales Varmida^000000."
+        "ko-KR": "[연청]\n^FF0000오토매틱 부스터, 배틀칩^000000은 ^0000CD일루시온 부스터, 배틀칩과 바르밀 티켓 1500장^000000을 주시면 교환해 드립니다.",
+        "en-US": "[Epsilon]\n^FF0000Automatron Booster, Battle Chip^000000 can be exchanged if you give ^0000CDIllusion Booster, Battle Chip and Varmeal Tickets^000000.",
+        "pt-BR": "[Epsilon]\nAlém do ^0000CDrefinamento^000000, serão necessários ^FF0000Vale Varmida^000000 para realizar a troca. Verifique as quantidades no seu inventário.",
+        "es-ES": "[Épsilon]\n^FF0000El Booster Automático y Battle Chip^000000 se intercambian si entregas ^0000CDun Booster y Battle Chip Illusion y Vales Varmida^000000."
     },
     "a6LcBw": {
-        "ko": "[연청]\n교환하고자 하는 장비를 인벤토리에 넣어 두고 대화를 진행하셔야 교환을 진행할 수 있습니다. ^FF0000교환하고자 하는 장비는 교환을 원하는 한 개만 인벤토리에 넣고 진행해 주세요.^000000",
-        "en": "[Epsilon]\n^FF0000Please proceed with only one piece of the equipment you want to exchange in your inventory.^000000",
-        "pt": "[Epsilon]\nMantenha no inventário ^FF0000apenas o equipamento que deseja trocar^000000. Isso evitará que você troque um equipamento importante indevidamente.",
-        "es": "[Épsilon]\n^FF0000Para el intercambio, continúa con solo un equipo en el inventario: el que deseas intercambiar.^000000"
+        "ko-KR": "[연청]\n교환하고자 하는 장비를 인벤토리에 넣어 두고 대화를 진행하셔야 교환을 진행할 수 있습니다. ^FF0000교환하고자 하는 장비는 교환을 원하는 한 개만 인벤토리에 넣고 진행해 주세요.^000000",
+        "en-US": "[Epsilon]\n^FF0000Please proceed with only one piece of the equipment you want to exchange in your inventory.^000000",
+        "pt-BR": "[Epsilon]\nMantenha no inventário ^FF0000apenas o equipamento que deseja trocar^000000. Isso evitará que você troque um equipamento importante indevidamente.",
+        "es-ES": "[Épsilon]\n^FF0000Para el intercambio, continúa con solo un equipo en el inventario: el que deseas intercambiar.^000000"
     },
     "bKLcBw": {
-        "ko": "[연청]\n그럼, 전투 특화된 동료들을 무사히 분양받아 가세요.",
-        "en": "[Epsilon]\nIf there are several equipments in the inventory that comply with the exchange conditions, ^FF0000one of them will be exchanged at random^000000.",
-        "pt": "[Epsilon]\nSe houver vários equipamentos no inventário que atendam às condições de troca, ^FF0000um deles será trocado aleatoriamente^000000.",
-        "es": "[Épsilon]\nSi hay varios equipos en el inventario que cumplen las condiciones de intercambio, ^FF0000uno de ellos se intercambiará al azar^000000."
+        "ko-KR": "[연청]\n그럼, 전투 특화된 동료들을 무사히 분양받아 가세요.",
+        "en-US": "[Epsilon]\nIf there are several equipments in the inventory that comply with the exchange conditions, ^FF0000one of them will be exchanged at random^000000.",
+        "pt-BR": "[Epsilon]\nSe houver vários equipamentos no inventário que atendam às condições de troca, ^FF0000um deles será trocado aleatoriamente^000000.",
+        "es-ES": "[Épsilon]\nSi hay varios equipos en el inventario que cumplen las condiciones de intercambio, ^FF0000uno de ellos se intercambiará al azar^000000."
     },
     "baLcBw": {
-        "ko": "[연청]\n인벤토리에 교환 조건에 맞는 장비가 여러 개 있을 경우, 그중 무작위 한 개와 교환됩니다.\n꼭 ^FF0000교환을 원하는 장비 한 개만 가지고 있는 상태에서 교환을 진행해 주세요.^000000",
-        "en": "[Epsilon]\nRemember: Cards, Refinements, and Enchantments from the equipment ^FF0000will be lost^000000.\nExchanged equipment will not receive cards and refinements from the previous equipment.",
-        "pt": "[Epsilon]\nLembre-se: Cartas, Refinos e Encantos do equipamento ^FF0000serão perdidos^000000.\nOs equipamentos trocados não receberão cartas e refinos do equipamento anterior.",
-        "es": "[Épsilon]\nAtención: Las cartas, mejoras y encantamientos del equipo ^FF0000se perderán ^000000.\nEl equipo intercambiado no recibirá cartas ni mejoras del equipo anterior."
+        "ko-KR": "[연청]\n인벤토리에 교환 조건에 맞는 장비가 여러 개 있을 경우, 그중 무작위 한 개와 교환됩니다.\n꼭 ^FF0000교환을 원하는 장비 한 개만 가지고 있는 상태에서 교환을 진행해 주세요.^000000",
+        "en-US": "[Epsilon]\nRemember: Cards, Refinements, and Enchantments from the equipment ^FF0000will be lost^000000.\nExchanged equipment will not receive cards and refinements from the previous equipment.",
+        "pt-BR": "[Epsilon]\nLembre-se: Cartas, Refinos e Encantos do equipamento ^FF0000serão perdidos^000000.\nOs equipamentos trocados não receberão cartas e refinos do equipamento anterior.",
+        "es-ES": "[Épsilon]\nAtención: Las cartas, mejoras y encantamientos del equipo ^FF0000se perderán ^000000.\nEl equipo intercambiado no recibirá cartas ni mejoras del equipo anterior."
     },
     "bqLcBw": {
-        "ko": "[연청]\n취소하셨습니다.",
-        "en": "[Epsilon]\nYou have canceled.",
-        "pt": "[Epsilon]\nCancelado.",
-        "es": "[Épsilon]\nHas cancelado."
+        "ko-KR": "[연청]\n취소하셨습니다.",
+        "en-US": "[Epsilon]\nYou have canceled.",
+        "pt-BR": "[Epsilon]\nCancelado.",
+        "es-ES": "[Épsilon]\nHas cancelado."
     },
     "b6LcBw": {
-        "ko": "예청",
-        "en": "Upsilon",
-        "pt": "Upsilon",
-        "es": "Upsilon"
+        "ko-KR": "예청",
+        "en-US": "Upsilon",
+        "pt-BR": "Upsilon",
+        "es-ES": "Upsilon"
     },
     "cKLcBw": {
-        "ko": "[예청]\n바르밀 티켓을 사용하시려면 손님 등록이 필요합니다.\n전투 특화된 동료들의 능력을 향상해드립니다.",
-        "en": "[Upsilon]\nTo use Varmeal Ticket, customer registration is required.\nWe enhance the abilities of combat-specialized companions.",
-        "pt": "[Upsilon]\nPara usar Vale Varmida, é necessário registrar-se como cliente.\nForneço Automódulos aleatórios para encantar seu Automatron.",
-        "es": "[Upsilon]\nPara usar Vale Varmida, es necesario registrar al cliente.\nMejoraremos las habilidades de los compañeros especializados en combate."
+        "ko-KR": "[예청]\n바르밀 티켓을 사용하시려면 손님 등록이 필요합니다.\n전투 특화된 동료들의 능력을 향상해드립니다.",
+        "en-US": "[Upsilon]\nTo use Varmeal Ticket, customer registration is required.\nWe enhance the abilities of combat-specialized companions.",
+        "pt-BR": "[Upsilon]\nPara usar Vale Varmida, é necessário registrar-se como cliente.\nForneço Automódulos aleatórios para encantar seu Automatron.",
+        "es-ES": "[Upsilon]\nPara usar Vale Varmida, es necesario registrar al cliente.\nMejoraremos las habilidades de los compañeros especializados en combate."
     },
     "caLcBw": {
-        "ko": "[예청]\n가방이 가득 찼습니다. 소지 무게와 소지 물품 수량을 확인 뒤 다시 말을 걸어 주세요.",
-        "en": "[Upsilon]\nYour bag is full. Please check your weight limit and item count, then talk to me again.",
-        "pt": "[Upsilon]\nSeu inventário está cheio. Verifique o peso e a quantidade de itens que está carregando e fale comigo novamente.",
-        "es": "[Upsilon]\nLa bolsa está llena. Revisa el peso que llevas y la cantidad de objetos, y luego vuelve a hablar conmigo."
+        "ko-KR": "[예청]\n가방이 가득 찼습니다. 소지 무게와 소지 물품 수량을 확인 뒤 다시 말을 걸어 주세요.",
+        "en-US": "[Upsilon]\nYour bag is full. Please check your weight limit and item count, then talk to me again.",
+        "pt-BR": "[Upsilon]\nSeu inventário está cheio. Verifique o peso e a quantidade de itens que está carregando e fale comigo novamente.",
+        "es-ES": "[Upsilon]\nLa bolsa está llena. Revisa el peso que llevas y la cantidad de objetos, y luego vuelve a hablar conmigo."
     },
     "cqLcBw": {
-        "ko": "[예청]\n오토매틱 모듈, 또는 물리 오토매틱 개량 장치, 마법 오토매틱 개량 장치를 지급해드립니다.\n전투 특화된 동료들의 능력을 향상해드립니다.",
-        "en": "[Upsilon]\nWe will provide Automodule, or a Physical Auto Upgrade Device, or a Magical Auto Upgrade Device.\nWe enhance the abilities of your Automatron.",
-        "pt": "[Upsilon]\nTroque seu Vale Varmida por um Aprimorador Físico ou Mágico.\nForneço Automódulos aleatórios para encantar seu Automatron.",
-        "es": "[Upsilon]\nTe entregaremos Módulo Automático, o un dispositivo de mejora automática física, o un dispositivo de mejora automática mágica.\nMejoraremos las habilidades de los Automatron."
+        "ko-KR": "[예청]\n오토매틱 모듈, 또는 물리 오토매틱 개량 장치, 마법 오토매틱 개량 장치를 지급해드립니다.\n전투 특화된 동료들의 능력을 향상해드립니다.",
+        "en-US": "[Upsilon]\nWe will provide Automodule, or a Physical Auto Upgrade Device, or a Magical Auto Upgrade Device.\nWe enhance the abilities of your Automatron.",
+        "pt-BR": "[Upsilon]\nTroque seu Vale Varmida por um Aprimorador Físico ou Mágico.\nForneço Automódulos aleatórios para encantar seu Automatron.",
+        "es-ES": "[Upsilon]\nTe entregaremos Módulo Automático, o un dispositivo de mejora automática física, o un dispositivo de mejora automática mágica.\nMejoraremos las habilidades de los Automatron."
     },
     "c6LcBw": {
-        "ko": "설명",
-        "en": "Description",
-        "pt": "Informações",
-        "es": "Descripción"
+        "ko-KR": "설명",
+        "en-US": "Description",
+        "pt-BR": "Informações",
+        "es-ES": "Descripción"
     },
     "dKLcBw": {
-        "ko": "오토매틱 모듈 획득",
-        "en": "Obtain Automodule",
-        "pt": "Obter Automódulo aleatório",
-        "es": "Obtuviste Módulo Automático."
+        "ko-KR": "오토매틱 모듈 획득",
+        "en-US": "Obtain Automodule",
+        "pt-BR": "Obter Automódulo aleatório",
+        "es-ES": "Obtuviste Módulo Automático."
     },
     "daLcBw": {
-        "ko": "물리 오토매틱 개량 장치 획득",
-        "en": "Obtain Physical Auto Upgrade Device",
-        "pt": "Obter Aprimorador Físico",
-        "es": "Obtuviste el dispositivo de mejora automática física."
+        "ko-KR": "물리 오토매틱 개량 장치 획득",
+        "en-US": "Obtain Physical Auto Upgrade Device",
+        "pt-BR": "Obter Aprimorador Físico",
+        "es-ES": "Obtuviste el dispositivo de mejora automática física."
     },
     "dqLcBw": {
-        "ko": "마법 오토매틱 개량 장치 획득",
-        "en": "Obtain Magical Auto Upgrade Device",
-        "pt": "Obter Aprimorador Mágico",
-        "es": "Obtuviste el dispositivo de mejora automática mágica."
+        "ko-KR": "마법 오토매틱 개량 장치 획득",
+        "en-US": "Obtain Magical Auto Upgrade Device",
+        "pt-BR": "Obter Aprimorador Mágico",
+        "es-ES": "Obtuviste el dispositivo de mejora automática mágica."
     },
     "d6LcBw": {
-        "ko": "[예청]\n^FF0000오토매틱 모듈^000000은 ^0000CD바르밀 티켓 90장^000000으로 구하실 수 있습니다.\n^FF0000에픽 모듈을 제외한 무작위 오토매틱 모듈 1개^000000로 교환해 드립니다.",
-        "en": "[Upsilon]\nYou can obtain ^FF0000Automodule^000000 with ^0000CD90 Varmeal Ticket^000000.\nWe will exchange it for ^FF00001 random Automodule excluding Epic Modules^000000.",
-        "pt": "[Upsilon]\nPor ^0000CD90x Vale Varmida^000000, lhe darei 1x ^FF0000Automódulo aleatório^000000.\nPor este método, você não consegue um ^FF0000Automódulo H- (Habilidade)^000000.",
-        "es": "[Upsilon]\nPuede obtener Módulo Automático con ^0000CD90 Vale Varmida^000000.\nSe lo cambiaré por ^FF00001 Módulo Automático aleatorio, excluyendo los módulos épicos^000000."
+        "ko-KR": "[예청]\n^FF0000오토매틱 모듈^000000은 ^0000CD바르밀 티켓 90장^000000으로 구하실 수 있습니다.\n^FF0000에픽 모듈을 제외한 무작위 오토매틱 모듈 1개^000000로 교환해 드립니다.",
+        "en-US": "[Upsilon]\nYou can obtain ^FF0000Automodule^000000 with ^0000CD90 Varmeal Ticket^000000.\nWe will exchange it for ^FF00001 random Automodule excluding Epic Modules^000000.",
+        "pt-BR": "[Upsilon]\nPor ^0000CD90x Vale Varmida^000000, lhe darei 1x ^FF0000Automódulo aleatório^000000.\nPor este método, você não consegue um ^FF0000Automódulo H- (Habilidade)^000000.",
+        "es-ES": "[Upsilon]\nPuede obtener Módulo Automático con ^0000CD90 Vale Varmida^000000.\nSe lo cambiaré por ^FF00001 Módulo Automático aleatorio, excluyendo los módulos épicos^000000."
     },
     "eKLcBw": {
-        "ko": "[예청]\n^FF0000물리 오토매틱 개량 장치, 마법 오토매틱 개량 장치^000000는 두 가지 재화 중 한 가지로 교환하실 수 있습니다.\n^0000CD바르밀 티켓 45장, 또는 150만 제니로 무작위 1개 교환^000000하실 수 있습니다.",
-        "en": "[Upsilon]\n^FF0000Physical Auto Upgrade Device and Magical Auto Upgrade Device^000000 can be exchanged with one of two currencies.\nYou can exchange ^0000CD45 Varmeal Ticket, or 1,500,000 Zeny for 1 random item^000000.",
-        "pt": "[Upsilon]\nPara obter 1x ^FF0000Aprimorador Físico ou Mágico^000000, há duas opções:\n^0000CD45x Vale Varmida^000000 ou ^0000CD1.500.000 zeny^000000.",
-        "es": "[Upsilon]\nEl ^FF0000dispositivo de mejora automática física y el dispositivo de mejora automática mágica^000000 se pueden canjear con una de dos monedas.\nPuede canjear ^0000CD45 Vale Varmida o 1.500.000 zeny por ^0000001 aleatorio^000000."
+        "ko-KR": "[예청]\n^FF0000물리 오토매틱 개량 장치, 마법 오토매틱 개량 장치^000000는 두 가지 재화 중 한 가지로 교환하실 수 있습니다.\n^0000CD바르밀 티켓 45장, 또는 150만 제니로 무작위 1개 교환^000000하실 수 있습니다.",
+        "en-US": "[Upsilon]\n^FF0000Physical Auto Upgrade Device and Magical Auto Upgrade Device^000000 can be exchanged with one of two currencies.\nYou can exchange ^0000CD45 Varmeal Ticket, or 1,500,000 Zeny for 1 random item^000000.",
+        "pt-BR": "[Upsilon]\nPara obter 1x ^FF0000Aprimorador Físico ou Mágico^000000, há duas opções:\n^0000CD45x Vale Varmida^000000 ou ^0000CD1.500.000 zeny^000000.",
+        "es-ES": "[Upsilon]\nEl ^FF0000dispositivo de mejora automática física y el dispositivo de mejora automática mágica^000000 se pueden canjear con una de dos monedas.\nPuede canjear ^0000CD45 Vale Varmida o 1.500.000 zeny por ^0000001 aleatorio^000000."
     },
     "eaLcBw": {
-        "ko": "[예청]\n그럼 전투 특화된 동료들, 무사히 능력 향상하세요.",
-        "en": "[Upsilon]\nThen, battle-specialized comrades, safely enhance your abilities.",
-        "pt": "[Upsilon]\nÉ sempre um prazer fazer negócios com você.",
-        "es": "[Upsilon]\nEntonces, compañeros especializados en combate, mejoren sus habilidades a salvo."
+        "ko-KR": "[예청]\n그럼 전투 특화된 동료들, 무사히 능력 향상하세요.",
+        "en-US": "[Upsilon]\nThen, battle-specialized comrades, safely enhance your abilities.",
+        "pt-BR": "[Upsilon]\nÉ sempre um prazer fazer negócios com você.",
+        "es-ES": "[Upsilon]\nEntonces, compañeros especializados en combate, mejoren sus habilidades a salvo."
     },
     "eqLcBw": {
-        "ko": "[예청]\n<ITEM>[바르밀 티켓]<INFO>1000103</INFO></ITEM>, 90장을 ^FF0000에픽 모듈을 제외한 무작위 오토매틱 모듈 1개^000000로 교환해 드립니다.",
-        "en": "[Upsilon]\nWe will exchange 90 <ITEM>[Varmeal Ticket]<INFO>1000103</INFO></ITEM> for ^FF00001 random Automodule excluding Epic Modules^000000.",
-        "pt": "[Upsilon]\nVocê receberá ^FF00001x Automódulo aleatório (exceto H-)^000000 ao custo de 90x <ITEM>[Vale Varmida]<INFO>1000103</INFO></ITEM>.",
-        "es": "[Upsilon]\nCambiaré 90 <ITEM>[Vale Varmida]<INFO>1000103</INFO></ITEM> por ^FF00001 Módulo Automático aleatorio, excluyendo los módulos épicos^000000."
+        "ko-KR": "[예청]\n<ITEM>[바르밀 티켓]<INFO>1000103</INFO></ITEM>, 90장을 ^FF0000에픽 모듈을 제외한 무작위 오토매틱 모듈 1개^000000로 교환해 드립니다.",
+        "en-US": "[Upsilon]\nWe will exchange 90 <ITEM>[Varmeal Ticket]<INFO>1000103</INFO></ITEM> for ^FF00001 random Automodule excluding Epic Modules^000000.",
+        "pt-BR": "[Upsilon]\nVocê receberá ^FF00001x Automódulo aleatório (exceto H-)^000000 ao custo de 90x <ITEM>[Vale Varmida]<INFO>1000103</INFO></ITEM>.",
+        "es-ES": "[Upsilon]\nCambiaré 90 <ITEM>[Vale Varmida]<INFO>1000103</INFO></ITEM> por ^FF00001 Módulo Automático aleatorio, excluyendo los módulos épicos^000000."
     },
     "e6LcBw": {
-        "ko": "교환한다.",
-        "en": "Exchange.",
-        "pt": "Trocar",
-        "es": "Canjear."
+        "ko-KR": "교환한다.",
+        "en-US": "Exchange.",
+        "pt-BR": "Trocar",
+        "es-ES": "Canjear."
     },
     "fKLcBw": {
-        "ko": "교환하지 않는다.",
-        "en": "Do not exchange.",
-        "pt": "Não trocar",
-        "es": "No lo cambio."
+        "ko-KR": "교환하지 않는다.",
+        "en-US": "Do not exchange.",
+        "pt-BR": "Não trocar",
+        "es-ES": "No lo cambio."
     },
     "faLcBw": {
-        "ko": "[예청]\n<ITEM>[바르밀 티켓]<INFO>1000103</INFO></ITEM> 장수가 모자랍니다. 다시 확인 부탁드립니다.",
-        "en": "[Upsilon]\nYou do not have enough <ITEM>[Varmeal Ticket]<INFO>1000103</INFO></ITEM>. Please check again.",
-        "pt": "[Upsilon]\nPor favor, verifique novamente a quantidade de <ITEM>[Vale Varmida]<INFO>1000103</INFO></ITEM>.",
-        "es": "[Upsilon]\nNo tiene suficientes <ITEM>[Vale Varmida]<INFO>1000103</INFO></ITEM>. Por favor, vuelva a comprobarlo."
+        "ko-KR": "[예청]\n<ITEM>[바르밀 티켓]<INFO>1000103</INFO></ITEM> 장수가 모자랍니다. 다시 확인 부탁드립니다.",
+        "en-US": "[Upsilon]\nYou do not have enough <ITEM>[Varmeal Ticket]<INFO>1000103</INFO></ITEM>. Please check again.",
+        "pt-BR": "[Upsilon]\nPor favor, verifique novamente a quantidade de <ITEM>[Vale Varmida]<INFO>1000103</INFO></ITEM>.",
+        "es-ES": "[Upsilon]\nNo tiene suficientes <ITEM>[Vale Varmida]<INFO>1000103</INFO></ITEM>. Por favor, vuelva a comprobarlo."
     },
     "fqLcBw": {
-        "ko": "[예청]\n에픽 모듈을 제외한 무작위 오토매틱 모듈 1개로 교환해 드렸습니다.",
-        "en": "[Upsilon]\nWe have exchanged it for ^FF00001 random Automodule excluding Epic Modules^000000.",
-        "pt": "[Upsilon]\nTroca realizada com sucesso. Você recebeu 1 Automódulo aleatório (exceto H-).",
-        "es": "[Upsilon]\nSe lo cambié por 1 Módulo Automático aleatorio, excluyendo los módulos épicos."
+        "ko-KR": "[예청]\n에픽 모듈을 제외한 무작위 오토매틱 모듈 1개로 교환해 드렸습니다.",
+        "en-US": "[Upsilon]\nWe have exchanged it for ^FF00001 random Automodule excluding Epic Modules^000000.",
+        "pt-BR": "[Upsilon]\nTroca realizada com sucesso. Você recebeu 1 Automódulo aleatório (exceto H-).",
+        "es-ES": "[Upsilon]\nSe lo cambié por 1 Módulo Automático aleatorio, excluyendo los módulos épicos."
     },
     "f6LcBw": {
-        "ko": "[예청]\n문제가 발생했습니다. 다시 확인 부탁드립니다.",
-        "en": "[Upsilon]\nA problem has occurred. Please check again.",
-        "pt": "[Upsilon]\nOcorreu um problema. Por favor, verifique novamente.",
-        "es": "[Upsilon]\nSe produjo un problema. Por favor, vuelva a comprobarlo."
+        "ko-KR": "[예청]\n문제가 발생했습니다. 다시 확인 부탁드립니다.",
+        "en-US": "[Upsilon]\nA problem has occurred. Please check again.",
+        "pt-BR": "[Upsilon]\nOcorreu um problema. Por favor, verifique novamente.",
+        "es-ES": "[Upsilon]\nSe produjo un problema. Por favor, vuelva a comprobarlo."
     },
     "gKLcBw": {
-        "ko": "[예청]\n취소하셨습니다.",
-        "en": "[Upsilon]\nYou have canceled.",
-        "pt": "[Upsilon]\nCancelado.",
-        "es": "[Upsilon]\nHa cancelado."
+        "ko-KR": "[예청]\n취소하셨습니다.",
+        "en-US": "[Upsilon]\nYou have canceled.",
+        "pt-BR": "[Upsilon]\nCancelado.",
+        "es-ES": "[Upsilon]\nHa cancelado."
     },
     "gaLcBw": {
-        "ko": "[예청]\n<ITEM>[바르밀 티켓]<INFO>1000103</INFO></ITEM>, 45장 또는 150만 제니를 ^FF0000무작위 물리 오토매틱 개량 장치 1개^000000로 교환해 드립니다.",
-        "en": "[Upsilon]\nWe will exchange 45 <ITEM>[Varmeal Ticket]<INFO>1000103</INFO></ITEM> or 1,500,000 Zeny for ^FF00001 random Physical Auto Upgrade Device^000000.",
-        "pt": "[Upsilon]\nVocê receberá ^FF00001x Aprimorador Físico aleatório^000000 ao custo de 1.500.000 zeny ou 45x <ITEM>[Vale Varmida]<INFO>1000103</INFO></ITEM>",
-        "es": "[Upsilon]\nCambiaré 45 <ITEM>[Vale Varmida]<INFO>1000103</INFO></ITEM> o 1.500.000 zeny por ^FF00001 dispositivo de mejora automática física aleatorio^000000."
+        "ko-KR": "[예청]\n<ITEM>[바르밀 티켓]<INFO>1000103</INFO></ITEM>, 45장 또는 150만 제니를 ^FF0000무작위 물리 오토매틱 개량 장치 1개^000000로 교환해 드립니다.",
+        "en-US": "[Upsilon]\nWe will exchange 45 <ITEM>[Varmeal Ticket]<INFO>1000103</INFO></ITEM> or 1,500,000 Zeny for ^FF00001 random Physical Auto Upgrade Device^000000.",
+        "pt-BR": "[Upsilon]\nVocê receberá ^FF00001x Aprimorador Físico aleatório^000000 ao custo de 1.500.000 zeny ou 45x <ITEM>[Vale Varmida]<INFO>1000103</INFO></ITEM>",
+        "es-ES": "[Upsilon]\nCambiaré 45 <ITEM>[Vale Varmida]<INFO>1000103</INFO></ITEM> o 1.500.000 zeny por ^FF00001 dispositivo de mejora automática física aleatorio^000000."
     },
     "gqLcBw": {
-        "ko": "바르밀 티켓으로 교환한다.",
-        "en": "Exchange with Varmeal Ticket.",
-        "pt": "Trocar por Vale Varmida",
-        "es": "Canjear por Vale Varmida."
+        "ko-KR": "바르밀 티켓으로 교환한다.",
+        "en-US": "Exchange with Varmeal Ticket.",
+        "pt-BR": "Trocar por Vale Varmida",
+        "es-ES": "Canjear por Vale Varmida."
     },
     "g6LcBw": {
-        "ko": "150만 제니로 교환한다.",
-        "en": "Exchange with 1,500,000 Zeny.",
-        "pt": "Trocar por 1.500.000 zeny",
-        "es": "Canjear por 1.500.000 zeny."
+        "ko-KR": "150만 제니로 교환한다.",
+        "en-US": "Exchange with 1,500,000 Zeny.",
+        "pt-BR": "Trocar por 1.500.000 zeny",
+        "es-ES": "Canjear por 1.500.000 zeny."
     },
     "hKLcBw": {
-        "ko": "[예청]\n가지고 계신 제니가 부족합니다. 다시 확인 부탁드립니다.",
-        "en": "[Upsilon]\nYou do not have enough Zeny. Please check again.",
-        "pt": "[Upsilon]\nVocê não tem zeny suficiente. Por favor, verifique novamente.",
-        "es": "[Upsilon]\nNo tiene suficiente zeny. Por favor, vuelva a comprobarlo."
+        "ko-KR": "[예청]\n가지고 계신 제니가 부족합니다. 다시 확인 부탁드립니다.",
+        "en-US": "[Upsilon]\nYou do not have enough Zeny. Please check again.",
+        "pt-BR": "[Upsilon]\nVocê não tem zeny suficiente. Por favor, verifique novamente.",
+        "es-ES": "[Upsilon]\nNo tiene suficiente zeny. Por favor, vuelva a comprobarlo."
     },
     "haLcBw": {
-        "ko": "[예청]\n무작위 물리 오토매틱 개량 장치 1개로 교환해 드렸습니다.",
-        "en": "[Upsilon]\nWe have exchanged it for 1 random Physical Auto Upgrade Device.",
-        "pt": "[Upsilon]\nTroca realizada com sucesso. Você recebeu 1 Aprimorador Físico aleatório.",
-        "es": "[Upsilon]\nSe lo cambié por 1 dispositivo de mejora automática física aleatorio."
+        "ko-KR": "[예청]\n무작위 물리 오토매틱 개량 장치 1개로 교환해 드렸습니다.",
+        "en-US": "[Upsilon]\nWe have exchanged it for 1 random Physical Auto Upgrade Device.",
+        "pt-BR": "[Upsilon]\nTroca realizada com sucesso. Você recebeu 1 Aprimorador Físico aleatório.",
+        "es-ES": "[Upsilon]\nSe lo cambié por 1 dispositivo de mejora automática física aleatorio."
     },
     "hqLcBw": {
-        "ko": "[예청]\n<ITEM>[바르밀 티켓]<INFO>1000103</INFO></ITEM>, 45장 또는 150만 제니를 ^FF0000무작위 마법 오토매틱 개량 장치 1개^000000로 교환해 드립니다.",
-        "en": "[Upsilon]\nWe will exchange 45 <ITEM>[Varmeal Ticket]<INFO>1000103</INFO></ITEM> or 1,500,000 Zeny for ^FF00001 random Magical Auto Upgrade Device^000000.",
-        "pt": "[Upsilon]\nVocê receberá ^FF00001x Aprimorador Mágico aleatório^000000 ao custo de 1.500.000 zeny ou 45x <ITEM>[Vale Varmida]<INFO>1000103</INFO></ITEM>",
-        "es": "[Upsilon]\nCambiaré 45 <ITEM>[Vale Varmida]<INFO>1000103</INFO></ITEM> o 1.500.000 zeny por ^FF00001 dispositivo de mejora automática mágica aleatorio^000000."
+        "ko-KR": "[예청]\n<ITEM>[바르밀 티켓]<INFO>1000103</INFO></ITEM>, 45장 또는 150만 제니를 ^FF0000무작위 마법 오토매틱 개량 장치 1개^000000로 교환해 드립니다.",
+        "en-US": "[Upsilon]\nWe will exchange 45 <ITEM>[Varmeal Ticket]<INFO>1000103</INFO></ITEM> or 1,500,000 Zeny for ^FF00001 random Magical Auto Upgrade Device^000000.",
+        "pt-BR": "[Upsilon]\nVocê receberá ^FF00001x Aprimorador Mágico aleatório^000000 ao custo de 1.500.000 zeny ou 45x <ITEM>[Vale Varmida]<INFO>1000103</INFO></ITEM>",
+        "es-ES": "[Upsilon]\nCambiaré 45 <ITEM>[Vale Varmida]<INFO>1000103</INFO></ITEM> o 1.500.000 zeny por ^FF00001 dispositivo de mejora automática mágica aleatorio^000000."
     },
     "h6LcBw": {
-        "ko": "[예청]\n무작위 마법 오토매틱 개량 장치 1개로 교환해 드렸습니다.",
-        "en": "[Upsilon]\nWe have exchanged it for 1 random Magical Auto Upgrade Device.",
-        "pt": "[Upsilon]\nTroca realizada com sucesso. Você recebeu 1 Aprimorador Mágico aleatório.",
-        "es": "[Upsilon]\nSe lo cambié por 1 dispositivo de mejora automática mágica aleatorio."
+        "ko-KR": "[예청]\n무작위 마법 오토매틱 개량 장치 1개로 교환해 드렸습니다.",
+        "en-US": "[Upsilon]\nWe have exchanged it for 1 random Magical Auto Upgrade Device.",
+        "pt-BR": "[Upsilon]\nTroca realizada com sucesso. Você recebeu 1 Aprimorador Mágico aleatório.",
+        "es-ES": "[Upsilon]\nSe lo cambié por 1 dispositivo de mejora automática mágica aleatorio."
     },
     "iKLcBw": {
-        "ko": "큐브레인",
-        "en": "Cuberain",
-        "pt": "Chuvubo",
-        "es": "Lluvubo"
+        "ko-KR": "큐브레인",
+        "en-US": "Cuberain",
+        "pt-BR": "Chuvubo",
+        "es-ES": "Lluvubo"
     },
     "iaLcBw": {
-        "ko": "[큐브레인]\n^0000CD4제련^000000 이상의 일루시온 방어구와 오토매틱 방어구를 순식간에 ^FF00007제련^000000으로 강화해 드리는 강화 큐브를 판매합니다.\n바르문트 저택 기술력은 세계 제일!",
-        "en": "[Cuberain]\nWe sell an Enchant Cube that instantly upgrades Illusion Armor and Automatron Armor of ^0000CDRefine +4^000000 or higher to ^FF0000Refine +7^000000.\nThe technology of the Varmunt Mansion is the best in the world!",
-        "pt": "[Chuvubo]\nForneço Cubos para refinar um equipamento ^FF0000Ilusión^000000 ou ^FF0000Automatron^000000 direto para o ^0000CD+7^000000!\nA tecnologia da mansão Varmunt é a melhor do mundo!",
-        "es": "[Lluvubo]\nVendemos cubos de refinamiento que refuerzan al instante a ^FF00007 de refinamiento^000000 las armaduras Illusion y las armaduras automáticas con ^0000CD4 de refinamiento^000000 o más.\n¡La tecnología de la mansión Varmunt es la mejor del mundo!"
+        "ko-KR": "[큐브레인]\n^0000CD4제련^000000 이상의 일루시온 방어구와 오토매틱 방어구를 순식간에 ^FF00007제련^000000으로 강화해 드리는 강화 큐브를 판매합니다.\n바르문트 저택 기술력은 세계 제일!",
+        "en-US": "[Cuberain]\nWe sell an Enchant Cube that instantly upgrades Illusion Armor and Automatron Armor of ^0000CDRefine +4^000000 or higher to ^FF0000Refine +7^000000.\nThe technology of the Varmunt Mansion is the best in the world!",
+        "pt-BR": "[Chuvubo]\nForneço Cubos para refinar um equipamento ^FF0000Ilusión^000000 ou ^FF0000Automatron^000000 direto para o ^0000CD+7^000000!\nA tecnologia da mansão Varmunt é a melhor do mundo!",
+        "es-ES": "[Lluvubo]\nVendemos cubos de refinamiento que refuerzan al instante a ^FF00007 de refinamiento^000000 las armaduras Illusion y las armaduras automáticas con ^0000CD4 de refinamiento^000000 o más.\n¡La tecnología de la mansión Varmunt es la mejor del mundo!"
     }
 }

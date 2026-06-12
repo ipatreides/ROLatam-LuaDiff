@@ -1,602 +1,602 @@
 {
     "IEBhDA": {
-        "ko": "밖으로 나간다.",
-        "en": "Exit.",
-        "pt": "Sair.",
-        "es": "Salir."
+        "ko-KR": "밖으로 나간다.",
+        "en-US": "Exit.",
+        "pt-BR": "Sair.",
+        "es-ES": "Salir."
     },
     "IUBhDA": {
-        "ko": "그만 둔다.",
-        "en": "I quit.",
-        "pt": "Vou parar por aqui.",
-        "es": "Ya basta."
+        "ko-KR": "그만 둔다.",
+        "en-US": "I quit.",
+        "pt-BR": "Vou parar por aqui.",
+        "es-ES": "Ya basta."
     },
     "IkBhDA": {
-        "ko": "윱",
-        "en": "Yoop",
-        "pt": "Yup",
-        "es": "Yup"
+        "ko-KR": "윱",
+        "en-US": "Yoop",
+        "pt-BR": "Yup",
+        "es-ES": "Yup"
     },
     "I0BhDA": {
-        "ko": "[윱]\n으으…\n실패 할 줄이야…",
-        "en": "[Yoop]\nUgh...\nI can't believe I failed...",
-        "pt": "[Yup]\nUgh…\nNão achei que fosse dar errado…",
-        "es": "[Yup]\nUf…\nNo pensé que fallaría…"
+        "ko-KR": "[윱]\n으으…\n실패 할 줄이야…",
+        "en-US": "[Yoop]\nUgh...\nI can't believe I failed...",
+        "pt-BR": "[Yup]\nUgh…\nNão achei que fosse dar errado…",
+        "es-ES": "[Yup]\nUf…\nNo pensé que fallaría…"
     },
     "JEBhDA": {
-        "ko": "[윱]\n지금은 일단 밖에 나갔다가 처음부터 다시 도전하는 게 좋겠어.",
-        "en": "[Yoop]\nFor now, you should go outside and come back in to restart from the beginning.",
-        "pt": "[Yup]\nPor enquanto, é melhor sair e tentar de novo desde o início.",
-        "es": "[Yup]\nPor ahora, mejor sal y vuelve a intentarlo desde el principio."
+        "ko-KR": "[윱]\n지금은 일단 밖에 나갔다가 처음부터 다시 도전하는 게 좋겠어.",
+        "en-US": "[Yoop]\nFor now, you should go outside and come back in to restart from the beginning.",
+        "pt-BR": "[Yup]\nPor enquanto, é melhor sair e tentar de novo desde o início.",
+        "es-ES": "[Yup]\nPor ahora, mejor sal y vuelve a intentarlo desde el principio."
     },
     "JUBhDA": {
-        "ko": "윱 : 줄기 아래쪽 출구로 나가면 돼.",
-        "en": "Yoop: You can use the exit under the stem.",
-        "pt": "Yup: É só sair pela saída na parte de baixo do tronco.",
-        "es": "Yup: Solo tienes que salir por la salida que está debajo del tallo."
+        "ko-KR": "윱 : 줄기 아래쪽 출구로 나가면 돼.",
+        "en-US": "Yoop: You can use the exit under the stem.",
+        "pt-BR": "Yup: É só sair pela saída na parte de baixo do tronco.",
+        "es-ES": "Yup: Solo tienes que salir por la salida que está debajo del tallo."
     },
     "JkBhDA": {
-        "ko": "[윱]\n돌아가서 에그노로리아님을 만나보는 게 좋겠어.",
-        "en": "[Yoop]\nYou should go back and talk to Egnoloria.",
-        "pt": "[Yup]\nÉ melhor voltar e encontrar a Senhora Egnororia.",
-        "es": "[Yup]\nSerá mejor que regreses y hables con la señora Egnororia."
+        "ko-KR": "[윱]\n돌아가서 에그노로리아님을 만나보는 게 좋겠어.",
+        "en-US": "[Yoop]\nYou should go back and talk to Egnoloria.",
+        "pt-BR": "[Yup]\nÉ melhor voltar e encontrar a Senhora Egnororia.",
+        "es-ES": "[Yup]\nSerá mejor que regreses y hables con la señora Egnororia."
     },
     "J0BhDA": {
-        "ko": "윱 : 여긴 에그노로리아님의 방이야.",
-        "en": "Yoop: This is Egnoloria's chamber.",
-        "pt": "Yup: Este é o quarto da Senhora Egnorolia.",
-        "es": "Yup: Esta es la habitación de la señora Egnorolia."
+        "ko-KR": "윱 : 여긴 에그노로리아님의 방이야.",
+        "en-US": "Yoop: This is Egnoloria's chamber.",
+        "pt-BR": "Yup: Este é o quarto da Senhora Egnorolia.",
+        "es-ES": "Yup: Esta es la habitación de la señora Egnorolia."
     },
     "KEBhDA": {
-        "ko": "마기 : 와아아!!!",
-        "en": "Maggie: Whoa!",
-        "pt": "Magi: Uauuu!!!",
-        "es": "Magi: ¡Guauuu!!!"
+        "ko-KR": "마기 : 와아아!!!",
+        "en-US": "Maggie: Whoa!",
+        "pt-BR": "Magi: Uauuu!!!",
+        "es-ES": "Magi: ¡Guauuu!!!"
     },
     "KUBhDA": {
-        "ko": "마기 : 에그노로리아님은 이런 곳에서 살고 계시는구나!",
-        "en": "Maggie: So this is where Egnoloria lives!",
-        "pt": "Magi: A Senhora Egnororia mora num lugar assim!",
-        "es": "Magi: ¡Así que Egnororia vive en un lugar como este!"
+        "ko-KR": "마기 : 에그노로리아님은 이런 곳에서 살고 계시는구나!",
+        "en-US": "Maggie: So this is where Egnoloria lives!",
+        "pt-BR": "Magi: A Senhora Egnororia mora num lugar assim!",
+        "es-ES": "Magi: ¡Así que Egnororia vive en un lugar como este!"
     },
     "KkBhDA": {
-        "ko": "마기 : 굉장해!",
-        "en": "Maggie: Incredible!",
-        "pt": "Magi: Incrível!",
-        "es": "Magi: ¡Qué increíble!"
+        "ko-KR": "마기 : 굉장해!",
+        "en-US": "Maggie: Incredible!",
+        "pt-BR": "Magi: Incrível!",
+        "es-ES": "Magi: ¡Qué increíble!"
     },
     "K0BhDA": {
-        "ko": "마기 : 그런데 방에 마음대로 막 들어와도 괜찮은 건가요?",
-        "en": "Maggie: By the way, can we enter her chamber without asking her first?",
-        "pt": "Magi: Mas tudo bem entrar no quarto assim, sem pedir permissão?",
-        "es": "Magi: Pero, ¿no pasa nada si entramos así sin más en la habitación?"
+        "ko-KR": "마기 : 그런데 방에 마음대로 막 들어와도 괜찮은 건가요?",
+        "en-US": "Maggie: By the way, can we enter her chamber without asking her first?",
+        "pt-BR": "Magi: Mas tudo bem entrar no quarto assim, sem pedir permissão?",
+        "es-ES": "Magi: Pero, ¿no pasa nada si entramos así sin más en la habitación?"
     },
     "LEBhDA": {
-        "ko": "윱 : 쉿!!!",
-        "en": "Yoop: Shh!!!",
-        "pt": "Yup: Shhh!!!",
-        "es": "Yup: ¡Shhh!!!"
+        "ko-KR": "윱 : 쉿!!!",
+        "en-US": "Yoop: Shh!!!",
+        "pt-BR": "Yup: Shhh!!!",
+        "es-ES": "Yup: ¡Shhh!!!"
     },
     "LUBhDA": {
-        "ko": "윱 : 조용히 해!",
-        "en": "Yoop: Be quiet!",
-        "pt": "Yup: Fica quieto!",
-        "es": "Yup: ¡Cállate!"
+        "ko-KR": "윱 : 조용히 해!",
+        "en-US": "Yoop: Be quiet!",
+        "pt-BR": "Yup: Fica quieto!",
+        "es-ES": "Yup: ¡Cállate!"
     },
     "LkBhDA": {
-        "ko": "윱 : 주무시고 계시니까 떠들면 안돼!",
-        "en": "Yoop: She's sleeping right now!",
-        "pt": "Yup: Ela tá dormindo, então não dá pra fazer barulho!",
-        "es": "Yup: ¡Está durmiendo, así que no puedes hacer ruido!"
+        "ko-KR": "윱 : 주무시고 계시니까 떠들면 안돼!",
+        "en-US": "Yoop: She's sleeping right now!",
+        "pt-BR": "Yup: Ela tá dormindo, então não dá pra fazer barulho!",
+        "es-ES": "Yup: ¡Está durmiendo, así que no puedes hacer ruido!"
     },
     "L0BhDA": {
-        "ko": "마기 : 앗!!! 네!!!!!",
-        "en": "Maggie: Oh! Okay!",
-        "pt": "Magi: Ah!!! Sim!!!!!",
-        "es": "Magi: ¡Ay! ¡Sí!"
+        "ko-KR": "마기 : 앗!!! 네!!!!!",
+        "en-US": "Maggie: Oh! Okay!",
+        "pt-BR": "Magi: Ah!!! Sim!!!!!",
+        "es-ES": "Magi: ¡Ay! ¡Sí!"
     },
     "MEBhDA": {
-        "ko": "윱 : 그럼 이제부터 너희들이 할 일을 주마.",
-        "en": "Yoop: Alright, now I'll tell you what to do.",
-        "pt": "Yup: Então, vou te dar a tarefa que vocês vão fazer a partir de agora.",
-        "es": "Yup: Bueno, ahora te diré lo que tienen que hacer."
+        "ko-KR": "윱 : 그럼 이제부터 너희들이 할 일을 주마.",
+        "en-US": "Yoop: Alright, now I'll tell you what to do.",
+        "pt-BR": "Yup: Então, vou te dar a tarefa que vocês vão fazer a partir de agora.",
+        "es-ES": "Yup: Bueno, ahora te diré lo que tienen que hacer."
     },
     "MUBhDA": {
-        "ko": "윱 : 너희들의 임무는 에그노로리아님이 편하게 주무실 수 있도록 이 마력의 샘을 최적의 환경으로 만드는 거다.",
-        "en": "Yoop: Your job is to turn this Mana Spring into a perfect place for Egnoloria to sleep.",
-        "pt": "Yup: A missão de vocês é preparar esta fonte de magia para que a Senhora Egnorolia possa dormir tranquilamente.",
-        "es": "Yup: Tu misión es crear el ambiente ideal en esta fuente de magia para que la señora Egnororia pueda dormir tranquila."
+        "ko-KR": "윱 : 너희들의 임무는 에그노로리아님이 편하게 주무실 수 있도록 이 마력의 샘을 최적의 환경으로 만드는 거다.",
+        "en-US": "Yoop: Your job is to turn this Mana Spring into a perfect place for Egnoloria to sleep.",
+        "pt-BR": "Yup: A missão de vocês é preparar esta fonte de magia para que a Senhora Egnorolia possa dormir tranquilamente.",
+        "es-ES": "Yup: Tu misión es crear el ambiente ideal en esta fuente de magia para que la señora Egnororia pueda dormir tranquila."
     },
     "MkBhDA": {
-        "ko": "윱 : 먼저 오른쪽 작은 방에 있는 통에 살라만다의 불타는 심장을 넣어서 마력의 샘을 따뜻하게 만들어야 해.",
-        "en": "Yoop: First, heat the Mana Spring. Put a Salamander's Burning Heart into the container in the small room on the right side.",
-        "pt": "Yup: Primeiro, vocês precisam colocar o coração em chamas da salamandra no recipiente que está no quartinho à direita para aquecer a fonte de magia.",
-        "es": "Yup: Primero, tienes que meter el corazón ardiente de la salamandra en el recipiente que está en la habitación pequeña de la derecha para calentar la fuente de magia."
+        "ko-KR": "윱 : 먼저 오른쪽 작은 방에 있는 통에 살라만다의 불타는 심장을 넣어서 마력의 샘을 따뜻하게 만들어야 해.",
+        "en-US": "Yoop: First, heat the Mana Spring. Put a Salamander's Burning Heart into the container in the small room on the right side.",
+        "pt-BR": "Yup: Primeiro, vocês precisam colocar o coração em chamas da salamandra no recipiente que está no quartinho à direita para aquecer a fonte de magia.",
+        "es-ES": "Yup: Primero, tienes que meter el corazón ardiente de la salamandra en el recipiente que está en la habitación pequeña de la derecha para calentar la fuente de magia."
     },
     "M0BhDA": {
-        "ko": "마기 : 넵! 어서 가요. {0}님!!",
-        "en": "Maggie: Okay. Let's go, {0}!",
-        "pt": "Magi: Sim! Vamos lá, {0}!!",
-        "es": "Magi: ¡Sí! ¡Vamos, {0}!"
+        "ko-KR": "마기 : 넵! 어서 가요. {0}님!!",
+        "en-US": "Maggie: Okay. Let's go, {0}!",
+        "pt-BR": "Magi: Sim! Vamos lá, {0}!!",
+        "es-ES": "Magi: ¡Sí! ¡Vamos, {0}!"
     },
     "NEBhDA": {
-        "ko": "윱 : 자 인간……",
-        "en": "Yoop: Now, human...",
-        "pt": "Yup: Ora, humano……",
-        "es": "Yup: Bueno, humano..."
+        "ko-KR": "윱 : 자 인간……",
+        "en-US": "Yoop: Now, human...",
+        "pt-BR": "Yup: Ora, humano……",
+        "es-ES": "Yup: Bueno, humano..."
     },
     "NUBhDA": {
-        "ko": "윱 : 지금부터 그 시건방진 녀석을 소환해 내도록……",
-        "en": "Yoop: Summon that arrogant fairy now.",
-        "pt": "Yup: A partir de agora, vamos invocar aquele cara insolente...",
-        "es": "Yup: A partir de ahora, vamos a invocar a ese chavito insolente..."
+        "ko-KR": "윱 : 지금부터 그 시건방진 녀석을 소환해 내도록……",
+        "en-US": "Yoop: Summon that arrogant fairy now.",
+        "pt-BR": "Yup: A partir de agora, vamos invocar aquele cara insolente...",
+        "es-ES": "Yup: A partir de ahora, vamos a invocar a ese chavito insolente..."
     },
     "NkBhDA": {
-        "ko": "윱 : 먼저 이 앞의 오른쪽 방에 물의 정기가 있다.",
-        "en": "Yoop: First, there's the Water Essence in the room in front of you to the right.",
-        "pt": "Yup: Primeiro, há uma essência de água no quarto à direita, ali à frente.",
-        "es": "Yup: Primero, en la habitación de la derecha que está frente a ti hay energía del agua."
+        "ko-KR": "윱 : 먼저 이 앞의 오른쪽 방에 물의 정기가 있다.",
+        "en-US": "Yoop: First, there's the Water Essence in the room in front of you to the right.",
+        "pt-BR": "Yup: Primeiro, há uma essência de água no quarto à direita, ali à frente.",
+        "es-ES": "Yup: Primero, en la habitación de la derecha que está frente a ti hay energía del agua."
     },
     "N0BhDA": {
-        "ko": "윱 : 날 소환했을 때를 떠올리면서 물의 정기에 마법을 쏟아 부으면 세즈를 소환할 방법을 저절로 알게 될 거야.",
-        "en": "Yoop: Think about how you summoned me as you pour your magic onto the Water Essence. You'll know how to summon Shez.",
-        "pt": "Yup: Se você derramar magia sobre a essência da água enquanto relembra o momento em que me invocou, vai descobrir naturalmente como invocar Sez.",
-        "es": "Yup: Si te concentras en cómo me invocaste y derramas tu magia sobre la esencia del agua, descubrirás por ti mismo cómo invocar a Sez."
+        "ko-KR": "윱 : 날 소환했을 때를 떠올리면서 물의 정기에 마법을 쏟아 부으면 세즈를 소환할 방법을 저절로 알게 될 거야.",
+        "en-US": "Yoop: Think about how you summoned me as you pour your magic onto the Water Essence. You'll know how to summon Shez.",
+        "pt-BR": "Yup: Se você derramar magia sobre a essência da água enquanto relembra o momento em que me invocou, vai descobrir naturalmente como invocar Sez.",
+        "es-ES": "Yup: Si te concentras en cómo me invocaste y derramas tu magia sobre la esencia del agua, descubrirás por ti mismo cómo invocar a Sez."
     },
     "OEBhDA": {
-        "ko": "마기",
-        "en": "Maggie",
-        "pt": "Magi",
-        "es": "Magi"
+        "ko-KR": "마기",
+        "en-US": "Maggie",
+        "pt-BR": "Magi",
+        "es-ES": "Magi"
     },
     "OUBhDA": {
-        "ko": "뜨거운 통",
-        "en": "Hot Container",
-        "pt": "Caixa de calor",
-        "es": "Caliente"
+        "ko-KR": "뜨거운 통",
+        "en-US": "Hot Container",
+        "pt-BR": "Caixa de calor",
+        "es-ES": "Caliente"
     },
     "OkBhDA": {
-        "ko": "불타는 심장을 넣는다.",
-        "en": "Put Burning Heart.",
-        "pt": "Coloque o coração em chamas.",
-        "es": "Mete el corazón ardiente."
+        "ko-KR": "불타는 심장을 넣는다.",
+        "en-US": "Put Burning Heart.",
+        "pt-BR": "Coloque o coração em chamas.",
+        "es-ES": "Mete el corazón ardiente."
     },
     "O0BhDA": {
-        "ko": "- 뜨거운 통에 불타는 심장을 넣자 마력의 샘이 따듯하게 데워지기 시작했다. -",
-        "en": "- When I put the Burning Heart into the hot container, the air in the Mana Spring started warming up. -",
-        "pt": "- Assim que coloquei o coração em chamas no caldeirão quente, a fonte de magia começou a aquecer suavemente. -",
-        "es": "- En cuanto metiste el corazón ardiente en el recipiente caliente, la fuente de magia empezó a calentarse. -"
+        "ko-KR": "- 뜨거운 통에 불타는 심장을 넣자 마력의 샘이 따듯하게 데워지기 시작했다. -",
+        "en-US": "- When I put the Burning Heart into the hot container, the air in the Mana Spring started warming up. -",
+        "pt-BR": "- Assim que coloquei o coração em chamas no caldeirão quente, a fonte de magia começou a aquecer suavemente. -",
+        "es-ES": "- En cuanto metiste el corazón ardiente en el recipiente caliente, la fuente de magia empezó a calentarse. -"
     },
     "PEBhDA": {
-        "ko": "- 아무 일도 일어나지 않았다. -",
-        "en": "- Nothing happened. -",
-        "pt": "- Nada aconteceu. -",
-        "es": "- No pasó nada. -"
+        "ko-KR": "- 아무 일도 일어나지 않았다. -",
+        "en-US": "- Nothing happened. -",
+        "pt-BR": "- Nada aconteceu. -",
+        "es-ES": "- No pasó nada. -"
     },
     "PUBhDA": {
-        "ko": "끓고 있는 냄비",
-        "en": "Boiling Pot",
-        "pt": "Panela fervendo",
-        "es": "Olla hirviendo"
+        "ko-KR": "끓고 있는 냄비",
+        "en-US": "Boiling Pot",
+        "pt-BR": "Panela fervendo",
+        "es-ES": "Olla hirviendo"
     },
     "PkBhDA": {
-        "ko": "인어의 심장을 넣는다.",
-        "en": "Put Mermaid's Heart.",
-        "pt": "Coloco o coração da sereia.",
-        "es": "Mete el corazón de la sirena."
+        "ko-KR": "인어의 심장을 넣는다.",
+        "en-US": "Put Mermaid's Heart.",
+        "pt-BR": "Coloco o coração da sereia.",
+        "es-ES": "Mete el corazón de la sirena."
     },
     "P0BhDA": {
-        "ko": "- 끓고 있는 냄비에 인어의 심장을 넣자 마력의 샘이 촉촉해지기 시작했다. -",
-        "en": "- When I put the Mermaid's Heart into the boiling pot, the air in the Mana Spring started becoming more humid. -",
-        "pt": "- Assim que coloquei o coração da sereia na panela fervente, a fonte de magia começou a ficar úmida. -",
-        "es": "- Al poner el corazón de sirena en la olla hirviendo, la fuente de magia empezó a humedecerse. -"
+        "ko-KR": "- 끓고 있는 냄비에 인어의 심장을 넣자 마력의 샘이 촉촉해지기 시작했다. -",
+        "en-US": "- When I put the Mermaid's Heart into the boiling pot, the air in the Mana Spring started becoming more humid. -",
+        "pt-BR": "- Assim que coloquei o coração da sereia na panela fervente, a fonte de magia começou a ficar úmida. -",
+        "es-ES": "- Al poner el corazón de sirena en la olla hirviendo, la fuente de magia empezó a humedecerse. -"
     },
     "QEBhDA": {
-        "ko": "푹신한 바닥",
-        "en": "Soft Floor",
-        "pt": "Solo fofo",
-        "es": "Suelo mullido"
+        "ko-KR": "푹신한 바닥",
+        "en-US": "Soft Floor",
+        "pt-BR": "Solo fofo",
+        "es-ES": "Suelo mullido"
     },
     "QUBhDA": {
-        "ko": "- 푹신한 바닥에 이그드라실의 씨앗을 심자 작은 싹이 자라났다. -",
-        "en": "- When I planted the Yggdrasil Seed in the soft floor, it grew into a small sprout. -",
-        "pt": "- Ao plantar a semente de Yggdrasil no chão macio, um pequeno broto cresceu. -",
-        "es": "- Al plantar la semilla de Yggdrasil en el suelo esponjoso, brotó un pequeño brote. -"
+        "ko-KR": "- 푹신한 바닥에 이그드라실의 씨앗을 심자 작은 싹이 자라났다. -",
+        "en-US": "- When I planted the Yggdrasil Seed in the soft floor, it grew into a small sprout. -",
+        "pt-BR": "- Ao plantar a semente de Yggdrasil no chão macio, um pequeno broto cresceu. -",
+        "es-ES": "- Al plantar la semilla de Yggdrasil en el suelo esponjoso, brotó un pequeño brote. -"
     },
     "QkBhDA": {
-        "ko": "윱 : 좋아!!!",
-        "en": "Yoop: Good job!",
-        "pt": "Yup: Ótimo!!!",
-        "es": "Yup: ¡Genial!"
+        "ko-KR": "윱 : 좋아!!!",
+        "en-US": "Yoop: Good job!",
+        "pt-BR": "Yup: Ótimo!!!",
+        "es-ES": "Yup: ¡Genial!"
     },
     "Q0BhDA": {
-        "ko": "마기 : 휴~",
-        "en": "Maggie: Whew.",
-        "pt": "Magi: Ufa~",
-        "es": "Magi: Uf~"
+        "ko-KR": "마기 : 휴~",
+        "en-US": "Maggie: Whew.",
+        "pt-BR": "Magi: Ufa~",
+        "es-ES": "Magi: Uf~"
     },
     "REBhDA": {
-        "ko": "윱 : 온도와 습도는 잘 맞춰진 것 같으니 에그노로리아님도 편안하게 깊은잠을…",
-        "en": "Yoop: Now, the temperature and humidity seem just right, so Lady Egnoloria should be able to sleep soundly and deeply...",
-        "pt": "Yup: Parece que a temperatura e a umidade estão bem ajustadas, então que a Senhora Egnorória também tenha um sono profundo e tranquilo...",
-        "es": "Yup: Parece que la temperatura y la humedad están bien ajustadas, así que que Egnororia también duerma plácidamente..."
+        "ko-KR": "윱 : 온도와 습도는 잘 맞춰진 것 같으니 에그노로리아님도 편안하게 깊은잠을…",
+        "en-US": "Yoop: Now, the temperature and humidity seem just right, so Lady Egnoloria should be able to sleep soundly and deeply...",
+        "pt-BR": "Yup: Parece que a temperatura e a umidade estão bem ajustadas, então que a Senhora Egnorória também tenha um sono profundo e tranquilo...",
+        "es-ES": "Yup: Parece que la temperatura y la humedad están bien ajustadas, así que que Egnororia también duerma plácidamente..."
     },
     "RUBhDA": {
-        "ko": "윱 : 갸아아아악! 에그노로리아님!!!!!",
-        "en": "Yoop: Gyaaaah! Egnoloria-nim!!!!!",
-        "pt": "Yup: Gyaaaaaa! Egno-ro-ria!!!!!",
-        "es": "Yup: ¡Gyaaaaaaah! ¡Egnororia!"
+        "ko-KR": "윱 : 갸아아아악! 에그노로리아님!!!!!",
+        "en-US": "Yoop: Gyaaaah! Egnoloria-nim!!!!!",
+        "pt-BR": "Yup: Gyaaaaaa! Egno-ro-ria!!!!!",
+        "es-ES": "Yup: ¡Gyaaaaaaah! ¡Egnororia!"
     },
     "RkBhDA": {
-        "ko": "마기 : 앗!!! 에그노로리아님!!!!",
-        "en": "Maggie: Ah! Egnoloria!",
-        "pt": "Magi: Ah!!! Senhora Egnorória!!!!",
-        "es": "Magi: ¡Ay! ¡Egnororia!"
+        "ko-KR": "마기 : 앗!!! 에그노로리아님!!!!",
+        "en-US": "Maggie: Ah! Egnoloria!",
+        "pt-BR": "Magi: Ah!!! Senhora Egnorória!!!!",
+        "es-ES": "Magi: ¡Ay! ¡Egnororia!"
     },
     "R0BhDA": {
-        "ko": "마기 : 성공이에요!!",
-        "en": "Maggie: It worked!",
-        "pt": "Magi: Conseguiu!!",
-        "es": "Magi: ¡Lo logramos!!"
+        "ko-KR": "마기 : 성공이에요!!",
+        "en-US": "Maggie: It worked!",
+        "pt-BR": "Magi: Conseguiu!!",
+        "es-ES": "Magi: ¡Lo logramos!!"
     },
     "SEBhDA": {
-        "ko": "윱 : 그럼 다음은 줄기를 타고 쭉 올라가면 보이는 오른쪽 방이야!",
-        "en": "Yoop: Now, climb up the stem and enter the room on the right side.",
-        "pt": "Yup: Então, a próxima é a sala à direita que aparece quando você sobe pelo tronco!",
-        "es": "Yup: ¡Entonces, lo siguiente es la habitación de la derecha que se ve al subir por el tallo!"
+        "ko-KR": "윱 : 그럼 다음은 줄기를 타고 쭉 올라가면 보이는 오른쪽 방이야!",
+        "en-US": "Yoop: Now, climb up the stem and enter the room on the right side.",
+        "pt-BR": "Yup: Então, a próxima é a sala à direita que aparece quando você sobe pelo tronco!",
+        "es-ES": "Yup: ¡Entonces, lo siguiente es la habitación de la derecha que se ve al subir por el tallo!"
     },
     "SUBhDA": {
-        "ko": "윱 : 방에 들어가서 끓고 있는 냄비에 인어의 심장을 넣으면 마력의 샘이 촉촉해 질 거야!!",
-        "en": "Yoop: Put your Mermaid's Heart into the boiling pot in there to make the air less dry!!",
-        "pt": "Yup: Entra no quarto e coloca o coração da sereia na panela que está fervendo, e a fonte de magia vai ficar cheia de energia!!",
-        "es": "Yup: ¡Entra en la habitación y mete el corazón de sirena en la olla que está hirviendo, y la fuente de magia se humedecerá!"
+        "ko-KR": "윱 : 방에 들어가서 끓고 있는 냄비에 인어의 심장을 넣으면 마력의 샘이 촉촉해 질 거야!!",
+        "en-US": "Yoop: Put your Mermaid's Heart into the boiling pot in there to make the air less dry!!",
+        "pt-BR": "Yup: Entra no quarto e coloca o coração da sereia na panela que está fervendo, e a fonte de magia vai ficar cheia de energia!!",
+        "es-ES": "Yup: ¡Entra en la habitación y mete el corazón de sirena en la olla que está hirviendo, y la fuente de magia se humedecerá!"
     },
     "SkBhDA": {
-        "ko": "마기 : 어서 가요!! {0}님!!",
-        "en": "Magi: Hurry up!! {0}!!",
-        "pt": "Magi: Vamos logo!! {0}!!",
-        "es": "Magi: ¡Vamos rápido!! ¡{0}!"
+        "ko-KR": "마기 : 어서 가요!! {0}님!!",
+        "en-US": "Magi: Hurry up!! {0}!!",
+        "pt-BR": "Magi: Vamos logo!! {0}!!",
+        "es-ES": "Magi: ¡Vamos rápido!! ¡{0}!"
     },
     "S0BhDA": {
-        "ko": "윱 : 앗!!! 불씨를 노리는 녀석들이!!!!!!",
-        "en": "Yoop: Ah!!! They're after the embers!!!!!!",
-        "pt": "Yup: Ah!!! Aqueles caras que estão de olho na brasa!!!!!!",
-        "es": "Yup: ¡Ay!!! ¡Los que buscan la chispa!"
+        "ko-KR": "윱 : 앗!!! 불씨를 노리는 녀석들이!!!!!!",
+        "en-US": "Yoop: Ah!!! They're after the embers!!!!!!",
+        "pt-BR": "Yup: Ah!!! Aqueles caras que estão de olho na brasa!!!!!!",
+        "es-ES": "Yup: ¡Ay!!! ¡Los que buscan la chispa!"
     },
     "TEBhDA": {
-        "ko": "불을 노리는 자",
-        "en": "Fire Thief",
-        "pt": "Aqueles que querem roubar o fogo",
-        "es": "Los que buscan el fuego"
+        "ko-KR": "불을 노리는 자",
+        "en-US": "Fire Thief",
+        "pt-BR": "Aqueles que querem roubar o fogo",
+        "es-ES": "Los que buscan el fuego"
     },
     "TUBhDA": {
-        "ko": "윱 : 불을 지켜야해!!",
-        "en": "Yoop: Protect the fire!",
-        "pt": "Yup: Temos que proteger o fogo!!",
-        "es": "Yup: ¡Hay que proteger el fuego!!"
+        "ko-KR": "윱 : 불을 지켜야해!!",
+        "en-US": "Yoop: Protect the fire!",
+        "pt-BR": "Yup: Temos que proteger o fogo!!",
+        "es-ES": "Yup: ¡Hay que proteger el fuego!!"
     },
     "TkBhDA": {
-        "ko": "윱 : 으아아아아아!!!!!",
-        "en": "Yoop: Waaah!",
-        "pt": "Yup: Aaaaaaaah!!!!!",
-        "es": "Yup: ¡¡¡¡Aaaaaaah!!!!!"
+        "ko-KR": "윱 : 으아아아아아!!!!!",
+        "en-US": "Yoop: Waaah!",
+        "pt-BR": "Yup: Aaaaaaaah!!!!!",
+        "es-ES": "Yup: ¡¡¡¡Aaaaaaah!!!!!"
     },
     "T0BhDA": {
-        "ko": "윱 : 그 녀석들을 전부 해치워 줘!!!!!",
-        "en": "Yoop: Please take care of them all!!!!!",
-        "pt": "Yup: Acaba com todos aqueles caras!!!!!",
-        "es": "Yup: ¡Acaba con todos esos tipos!!!!!"
+        "ko-KR": "윱 : 그 녀석들을 전부 해치워 줘!!!!!",
+        "en-US": "Yoop: Please take care of them all!!!!!",
+        "pt-BR": "Yup: Acaba com todos aqueles caras!!!!!",
+        "es-ES": "Yup: ¡Acaba con todos esos tipos!!!!!"
     },
     "UEBhDA": {
-        "ko": "윱 : 앗… 불이 꺼져버렸다!",
-        "en": "Yoop: Ah! The fire is put out!",
-        "pt": "Yup: Ah... A chama se apagou!",
-        "es": "Yup: ¡Ay… se apagó el fuego!"
+        "ko-KR": "윱 : 앗… 불이 꺼져버렸다!",
+        "en-US": "Yoop: Ah! The fire is put out!",
+        "pt-BR": "Yup: Ah... A chama se apagou!",
+        "es-ES": "Yup: ¡Ay… se apagó el fuego!"
     },
     "UUBhDA": {
-        "ko": "윱 : 처음부터 다시해봐.",
-        "en": "Yoop: You should start over.",
-        "pt": "Yup: Começa de novo.",
-        "es": "Yup: Empieza de nuevo desde el principio."
+        "ko-KR": "윱 : 처음부터 다시해봐.",
+        "en-US": "Yoop: You should start over.",
+        "pt-BR": "Yup: Começa de novo.",
+        "es-ES": "Yup: Empieza de nuevo desde el principio."
     },
     "UkBhDA": {
-        "ko": "마기 : 또 성공이에요!!",
-        "en": "Maggie: We did it again!",
-        "pt": "Magi: Conseguiu de novo!!",
-        "es": "Magi: ¡¡Lo lograste otra vez!!"
+        "ko-KR": "마기 : 또 성공이에요!!",
+        "en-US": "Maggie: We did it again!",
+        "pt-BR": "Magi: Conseguiu de novo!!",
+        "es-ES": "Magi: ¡¡Lo lograste otra vez!!"
     },
     "U0BhDA": {
-        "ko": "윱 : 그럼 다음은 중앙의 줄기로 올라가서 방 한가운데에 이그드라실의 씨앗을 심는거다!!!",
-        "en": "Yoop: Now, climb up the central stem and plant your Yggdrasil Seed in the center of the chamber.",
-        "pt": "Yup: Então, agora sobe pelo tronco central e planta a semente de Yggdrasil bem no meio da sala!!!",
-        "es": "Yup: ¡¡¡Entonces lo siguiente es subir por el tronco central y plantar la semilla de Yggdrasil en medio de la habitación!!!"
+        "ko-KR": "윱 : 그럼 다음은 중앙의 줄기로 올라가서 방 한가운데에 이그드라실의 씨앗을 심는거다!!!",
+        "en-US": "Yoop: Now, climb up the central stem and plant your Yggdrasil Seed in the center of the chamber.",
+        "pt-BR": "Yup: Então, agora sobe pelo tronco central e planta a semente de Yggdrasil bem no meio da sala!!!",
+        "es-ES": "Yup: ¡¡¡Entonces lo siguiente es subir por el tronco central y plantar la semilla de Yggdrasil en medio de la habitación!!!"
     },
     "VEBhDA": {
-        "ko": "윱 : 앗!!! 습기를 노리는 녀석들이!!!!!!",
-        "en": "Yoop: Ah!!! They're after the moisture!!!!!!",
-        "pt": "Yup: Ah!!! Aqueles caras que estão atrás da umidade!!!!!!",
-        "es": "Yup: ¡Ay! ¡Los que buscan la humedad!"
+        "ko-KR": "윱 : 앗!!! 습기를 노리는 녀석들이!!!!!!",
+        "en-US": "Yoop: Ah!!! They're after the moisture!!!!!!",
+        "pt-BR": "Yup: Ah!!! Aqueles caras que estão atrás da umidade!!!!!!",
+        "es-ES": "Yup: ¡Ay! ¡Los que buscan la humedad!"
     },
     "VUBhDA": {
-        "ko": "물을 노리는 자",
-        "en": "The moisture thief",
-        "pt": "Aqueles que querem a água",
-        "es": "Los que buscan el agua"
+        "ko-KR": "물을 노리는 자",
+        "en-US": "The moisture thief",
+        "pt-BR": "Aqueles que querem a água",
+        "es-ES": "Los que buscan el agua"
     },
     "VkBhDA": {
-        "ko": "윱 : 물을 지켜야해!!",
-        "en": "Yoop: Protect the water!",
-        "pt": "Yup: Temos que proteger a água!!",
-        "es": "Yup: ¡Hay que proteger el agua!"
+        "ko-KR": "윱 : 물을 지켜야해!!",
+        "en-US": "Yoop: Protect the water!",
+        "pt-BR": "Yup: Temos que proteger a água!!",
+        "es-ES": "Yup: ¡Hay que proteger el agua!"
     },
     "V0BhDA": {
-        "ko": "윱 : 갸악!!!!!",
-        "en": "Yoop: Giaaak!!!!!",
-        "pt": "Yup: Gyaaa!!!!!",
-        "es": "Yup: ¡¡¡¡Ay!!!!!"
+        "ko-KR": "윱 : 갸악!!!!!",
+        "en-US": "Yoop: Giaaak!!!!!",
+        "pt-BR": "Yup: Gyaaa!!!!!",
+        "es-ES": "Yup: ¡¡¡¡Ay!!!!!"
     },
     "WEBhDA": {
-        "ko": "윱 : 어디서 이렇게 계속 나오는 거야!!!!",
-        "en": "Yoop: Where do they keep coming from?!!!!",
-        "pt": "Yup: De onde é que eles continuam a aparecer assim!!!!",
-        "es": "Yup: ¡¡¡¿De dónde siguen saliendo tantos?!!!!"
+        "ko-KR": "윱 : 어디서 이렇게 계속 나오는 거야!!!!",
+        "en-US": "Yoop: Where do they keep coming from?!!!!",
+        "pt-BR": "Yup: De onde é que eles continuam a aparecer assim!!!!",
+        "es-ES": "Yup: ¡¡¡¿De dónde siguen saliendo tantos?!!!!"
     },
     "WUBhDA": {
-        "ko": "윱 : 앗… 건조해…",
-        "en": "Yoop: Ah... it's dry...",
-        "pt": "Yup: Ah... tá seco...",
-        "es": "Yup: Ay… qué seco…"
+        "ko-KR": "윱 : 앗… 건조해…",
+        "en-US": "Yoop: Ah... it's dry...",
+        "pt-BR": "Yup: Ah... tá seco...",
+        "es-ES": "Yup: Ay… qué seco…"
     },
     "WkBhDA": {
-        "ko": "마스터 에그노로리아 : 그러기엔 네 녀석의 목소리가 너무 시끄럽다고 생각하지 않느냐?",
-        "en": "Master Egnoloria: Don't you think you're way too loud for that?",
-        "pt": "Mestre Egnororia: Você não acha que a sua voz está barulhenta demais para isso?",
-        "es": "Maestra Egnororia: ¿No crees que tu voz es demasiado ruidosa para eso?"
+        "ko-KR": "마스터 에그노로리아 : 그러기엔 네 녀석의 목소리가 너무 시끄럽다고 생각하지 않느냐?",
+        "en-US": "Master Egnoloria: Don't you think you're way too loud for that?",
+        "pt-BR": "Mestre Egnororia: Você não acha que a sua voz está barulhenta demais para isso?",
+        "es-ES": "Maestra Egnororia: ¿No crees que tu voz es demasiado ruidosa para eso?"
     },
     "W0BhDA": {
-        "ko": "마스터 에그노로리아 : 호오……",
-        "en": "Master Egnoloria: Hoo...",
-        "pt": "Mestre Egnororia: Hoo...",
-        "es": "Maestro Egnororia: Hoo..."
+        "ko-KR": "마스터 에그노로리아 : 호오……",
+        "en-US": "Master Egnoloria: Hoo...",
+        "pt-BR": "Mestre Egnororia: Hoo...",
+        "es-ES": "Maestro Egnororia: Hoo..."
     },
     "XEBhDA": {
-        "ko": "마스터 에그노로리아 : 내가 보기에도 꽤나 흥미롭구나.",
-        "en": "Master Egnoloria: You really are interesting.",
-        "pt": "Mestre Egnororia: Acho isso bem interessante.",
-        "es": "Maestro Egnororia: A mí también me parece bastante interesante."
+        "ko-KR": "마스터 에그노로리아 : 내가 보기에도 꽤나 흥미롭구나.",
+        "en-US": "Master Egnoloria: You really are interesting.",
+        "pt-BR": "Mestre Egnororia: Acho isso bem interessante.",
+        "es-ES": "Maestro Egnororia: A mí también me parece bastante interesante."
     },
     "XUBhDA": {
-        "ko": "셰즈 : 꺄악!!!!!!!!",
-        "en": "Shez: Kyaaak!",
-        "pt": "Shez: Gaaah!!!!!!!!",
-        "es": "Shez: ¡Aaaargh!"
+        "ko-KR": "셰즈 : 꺄악!!!!!!!!",
+        "en-US": "Shez: Kyaaak!",
+        "pt-BR": "Shez: Gaaah!!!!!!!!",
+        "es-ES": "Shez: ¡Aaaargh!"
     },
     "XkBhDA": {
-        "ko": "셰즈 : 꺄악!!!!!!!!",
-        "en": "Shez: Kyaaak!",
-        "pt": "Shez: Gaaah!!!!!!!!",
-        "es": "Shez: ¡Aaaargh!"
+        "ko-KR": "셰즈 : 꺄악!!!!!!!!",
+        "en-US": "Shez: Kyaaak!",
+        "pt-BR": "Shez: Gaaah!!!!!!!!",
+        "es-ES": "Shez: ¡Aaaargh!"
     },
     "X0BhDA": {
-        "ko": "셰즈 : 날 소환하다니 무슨 짓이에요!!!",
-        "en": "Shez: How dare you summon me!!!",
-        "pt": "Shez: Como ousaste me invocar?! O que estás fazendo!!!",
-        "es": "Shez: ¡¿Qué es esto de invocarme?!"
+        "ko-KR": "셰즈 : 날 소환하다니 무슨 짓이에요!!!",
+        "en-US": "Shez: How dare you summon me!!!",
+        "pt-BR": "Shez: Como ousaste me invocar?! O que estás fazendo!!!",
+        "es-ES": "Shez: ¡¿Qué es esto de invocarme?!"
     },
     "YEBhDA": {
-        "ko": "셰즈 : 윱님이 시킨 거죠?!? 그렇죠?!",
-        "en": "Shez: Yoop asked them, didn't he?!? Right?!",
-        "pt": "Shez: Foi o Yup quem mandou, não foi?!? Não foi?!",
-        "es": "Shez: ¡¿Te lo mandó Yup-nim?! ¿¡Verdad?!"
+        "ko-KR": "셰즈 : 윱님이 시킨 거죠?!? 그렇죠?!",
+        "en-US": "Shez: Yoop asked them, didn't he?!? Right?!",
+        "pt-BR": "Shez: Foi o Yup quem mandou, não foi?!? Não foi?!",
+        "es-ES": "Shez: ¡¿Te lo mandó Yup-nim?! ¿¡Verdad?!"
     },
     "YUBhDA": {
-        "ko": "셰즈 : 이런식으로 복수하다니 못됐어!!!",
-        "en": "Shez: How can you do this to me? You're so mean!",
-        "pt": "Shez: Vingar-se assim é maldade!!!",
-        "es": "Shez: ¡Qué mal que te vengues así!"
+        "ko-KR": "셰즈 : 이런식으로 복수하다니 못됐어!!!",
+        "en-US": "Shez: How can you do this to me? You're so mean!",
+        "pt-BR": "Shez: Vingar-se assim é maldade!!!",
+        "es-ES": "Shez: ¡Qué mal que te vengues así!"
     },
     "YkBhDA": {
-        "ko": "윱 : 후후…",
-        "en": "Yoop: Heh heh heh...",
-        "pt": "Yup: Huhu…",
-        "es": "Yup: Jeje..."
+        "ko-KR": "윱 : 후후…",
+        "en-US": "Yoop: Heh heh heh...",
+        "pt-BR": "Yup: Huhu…",
+        "es-ES": "Yup: Jeje..."
     },
     "Y0BhDA": {
-        "ko": "윱 : 그러게 적당히 놀렸어야지……",
-        "en": "Yoop: You should have stopped when I asked you nicely.",
-        "pt": "Yup: É, eu devia ter brincado só um pouquinho...",
-        "es": "Yup: Te lo dije, debías haberte burlado un poco más..."
+        "ko-KR": "윱 : 그러게 적당히 놀렸어야지……",
+        "en-US": "Yoop: You should have stopped when I asked you nicely.",
+        "pt-BR": "Yup: É, eu devia ter brincado só um pouquinho...",
+        "es-ES": "Yup: Te lo dije, debías haberte burlado un poco más..."
     },
     "ZEBhDA": {
-        "ko": "윱 : 자 인간 그럼 다음은 이베인이다.",
-        "en": "Yoop: Now, human. I want Ivane now.",
-        "pt": "Yup: Bom, humano, então o próximo é Ibein.",
-        "es": "Yup: Bueno, humano, el siguiente es Ibein."
+        "ko-KR": "윱 : 자 인간 그럼 다음은 이베인이다.",
+        "en-US": "Yoop: Now, human. I want Ivane now.",
+        "pt-BR": "Yup: Bom, humano, então o próximo é Ibein.",
+        "es-ES": "Yup: Bueno, humano, el siguiente es Ibein."
     },
     "ZUBhDA": {
-        "ko": "윱 : 길을 따라 올라가면 보이는 왼쪽 방이지……",
-        "en": "Yoop: Follow the path upward and enter the room on the left side.",
-        "pt": "Yup: É o quarto à esquerda que aparece quando você sobe pelo caminho...",
-        "es": "Yup: Es la habitación de la izquierda que se ve al subir por el pasillo..."
+        "ko-KR": "윱 : 길을 따라 올라가면 보이는 왼쪽 방이지……",
+        "en-US": "Yoop: Follow the path upward and enter the room on the left side.",
+        "pt-BR": "Yup: É o quarto à esquerda que aparece quando você sobe pelo caminho...",
+        "es-ES": "Yup: Es la habitación de la izquierda que se ve al subir por el pasillo..."
     },
     "ZkBhDA": {
-        "ko": "셰즈 : 심술쟁이!!!",
-        "en": "Shez: Meanie!!!",
-        "pt": "Shez: Malandro!!!",
-        "es": "Shez: ¡Qué malhumorado!"
+        "ko-KR": "셰즈 : 심술쟁이!!!",
+        "en-US": "Shez: Meanie!!!",
+        "pt-BR": "Shez: Malandro!!!",
+        "es-ES": "Shez: ¡Qué malhumorado!"
     },
     "Z0BhDA": {
-        "ko": "윱 : 이젠 잘 알겠지?",
-        "en": "Yoop: You know what to do, right?",
-        "pt": "Yup: Agora já entende, né?",
-        "es": "Yup: ¿Ya lo entiendes, no?"
+        "ko-KR": "윱 : 이젠 잘 알겠지?",
+        "en-US": "Yoop: You know what to do, right?",
+        "pt-BR": "Yup: Agora já entende, né?",
+        "es-ES": "Yup: ¿Ya lo entiendes, no?"
     },
     "aEBhDA": {
-        "ko": "윱 : 같은 방법으로 흙의 정기에 마법을 쏟아 부어라.",
-        "en": "Yoop: Pour your magic onto the Earth Essence there, just like the last time.",
-        "pt": "Yup: Usa o mesmo método para derramar magia sobre a energia da terra.",
-        "es": "Yup: Haz lo mismo y vierte la magia en la energía de la tierra."
+        "ko-KR": "윱 : 같은 방법으로 흙의 정기에 마법을 쏟아 부어라.",
+        "en-US": "Yoop: Pour your magic onto the Earth Essence there, just like the last time.",
+        "pt-BR": "Yup: Usa o mesmo método para derramar magia sobre a energia da terra.",
+        "es-ES": "Yup: Haz lo mismo y vierte la magia en la energía de la tierra."
     },
     "aUBhDA": {
-        "ko": "물의 정기",
-        "en": "Water Essence",
-        "pt": "Elemento Água",
-        "es": "Elemento del agua"
+        "ko-KR": "물의 정기",
+        "en-US": "Water Essence",
+        "pt-BR": "Elemento Água",
+        "es-ES": "Elemento del agua"
     },
     "akBhDA": {
-        "ko": "물의 조각",
-        "en": "Water Fragment",
-        "pt": "Fragmento de Água",
-        "es": "Fragmento de agua"
+        "ko-KR": "물의 조각",
+        "en-US": "Water Fragment",
+        "pt-BR": "Fragmento de Água",
+        "es-ES": "Fragmento de agua"
     },
     "a0BhDA": {
-        "ko": "윱 : 앗… 물의 정기가 사라져 버렸어…",
-        "en": "Yoop: Ah... the Water Essence has vanished...",
-        "pt": "Yup: Ah... a energia da água desapareceu...",
-        "es": "Yup: ¡Ay… la energía del agua se ha esfumado…!"
+        "ko-KR": "윱 : 앗… 물의 정기가 사라져 버렸어…",
+        "en-US": "Yoop: Ah... the Water Essence has vanished...",
+        "pt-BR": "Yup: Ah... a energia da água desapareceu...",
+        "es-ES": "Yup: ¡Ay… la energía del agua se ha esfumado…!"
     },
     "bEBhDA": {
-        "ko": "윱 : 셰즈를 소환하지 못하다니… 처음부터 다시해봐.",
-        "en": "Yoop: You failed to summon Shez. Try again from the start.",
-        "pt": "Yup: Não consegues invocar o Shez... Começa de novo.",
-        "es": "Yup: ¿No pudiste invocar a Shez? Vuelve a empezar desde el principio."
+        "ko-KR": "윱 : 셰즈를 소환하지 못하다니… 처음부터 다시해봐.",
+        "en-US": "Yoop: You failed to summon Shez. Try again from the start.",
+        "pt-BR": "Yup: Não consegues invocar o Shez... Começa de novo.",
+        "es-ES": "Yup: ¿No pudiste invocar a Shez? Vuelve a empezar desde el principio."
     },
     "bUBhDA": {
-        "ko": "이베인 : 어머!",
-        "en": "Ivane: Oh?",
-        "pt": "Ibein: Nossa!",
-        "es": "Ibein: ¡Vaya!"
+        "ko-KR": "이베인 : 어머!",
+        "en-US": "Ivane: Oh?",
+        "pt-BR": "Ibein: Nossa!",
+        "es-ES": "Ibein: ¡Vaya!"
     },
     "bkBhDA": {
-        "ko": "이베인 :소문의 그분이군요.",
-        "en": "Ivane: So that's the one everyone's been talking about.",
-        "pt": "Ivein: É você, de quem tanto se fala.",
-        "es": "Ivein: Así que tú eres de quien tanto se habla."
+        "ko-KR": "이베인 :소문의 그분이군요.",
+        "en-US": "Ivane: So that's the one everyone's been talking about.",
+        "pt-BR": "Ivein: É você, de quem tanto se fala.",
+        "es-ES": "Ivein: Así que tú eres de quien tanto se habla."
     },
     "b0BhDA": {
-        "ko": "이베인 : 윱님을 소환했다는 이야기를 들었을 때부터 느끼고는 있었지만, 저희까지 모두 소환해 내다니 정말 대단한 능력입니다.",
-        "en": "Ivane: I've felt it since I heard you summoned Yoop, but to summon us all as well? Truly remarkable power.",
-        "pt": "Ivein: Eu já tinha percebido isso desde que ouvi falar que você invocou o Yup, mas conseguir invocar todos nós também? É realmente uma habilidade incrível.",
-        "es": "Ivein: Lo intuí desde que oí que habías invocado a Yup, pero que hayas podido invocarnos a todos nosotros también es una habilidad realmente impresionante."
+        "ko-KR": "이베인 : 윱님을 소환했다는 이야기를 들었을 때부터 느끼고는 있었지만, 저희까지 모두 소환해 내다니 정말 대단한 능력입니다.",
+        "en-US": "Ivane: I've felt it since I heard you summoned Yoop, but to summon us all as well? Truly remarkable power.",
+        "pt-BR": "Ivein: Eu já tinha percebido isso desde que ouvi falar que você invocou o Yup, mas conseguir invocar todos nós também? É realmente uma habilidade incrível.",
+        "es-ES": "Ivein: Lo intuí desde que oí que habías invocado a Yup, pero que hayas podido invocarnos a todos nosotros también es una habilidad realmente impresionante."
     },
     "cEBhDA": {
-        "ko": "윱 : 헤헹 어때!",
-        "en": "Yoop: Hah hah! How do you like it?",
-        "pt": "Yup: Hehe, e aí!",
-        "es": "Yup: ¡Jeje, ¿qué te parece!"
+        "ko-KR": "윱 : 헤헹 어때!",
+        "en-US": "Yoop: Hah hah! How do you like it?",
+        "pt-BR": "Yup: Hehe, e aí!",
+        "es-ES": "Yup: ¡Jeje, ¿qué te parece!"
     },
     "cUBhDA": {
-        "ko": "윱 : 너희들도 소환 당해보니까!!!!",
-        "en": "Yoop: Now you know what it's like to get summoned like this!!!!",
-        "pt": "Yup: Agora que vocês também foram invocados!!!!",
-        "es": "Yup: ¡Ahora que ustedes también han sido convocados!"
+        "ko-KR": "윱 : 너희들도 소환 당해보니까!!!!",
+        "en-US": "Yoop: Now you know what it's like to get summoned like this!!!!",
+        "pt-BR": "Yup: Agora que vocês também foram invocados!!!!",
+        "es-ES": "Yup: ¡Ahora que ustedes también han sido convocados!"
     },
     "ckBhDA": {
-        "ko": "윱 : 부끄럽지?!",
-        "en": "Yoop: Aren't you ashamed?!",
-        "pt": "Yup: Não dá vergonha?!",
-        "es": "Yup: ¿Te da vergüenza, no?"
+        "ko-KR": "윱 : 부끄럽지?!",
+        "en-US": "Yoop: Aren't you ashamed?!",
+        "pt-BR": "Yup: Não dá vergonha?!",
+        "es-ES": "Yup: ¿Te da vergüenza, no?"
     },
     "c0BhDA": {
-        "ko": "윱 : 막!!! 분하고 억울하지?!",
-        "en": "Yoop: Angry, too. Aren't you?",
-        "pt": "Yup: Não é mesmo!!! Ficam com raiva e se sentem injustiçados, né?!",
-        "es": "Yup: ¡¡¡Te da rabia y te sientes injustamente tratado, ¿no?!"
+        "ko-KR": "윱 : 막!!! 분하고 억울하지?!",
+        "en-US": "Yoop: Angry, too. Aren't you?",
+        "pt-BR": "Yup: Não é mesmo!!! Ficam com raiva e se sentem injustiçados, né?!",
+        "es-ES": "Yup: ¡¡¡Te da rabia y te sientes injustamente tratado, ¿no?!"
     },
     "dEBhDA": {
-        "ko": "셰즈 : 뭐 그 정도까진……",
-        "en": "Shez: Well, not exactly.",
-        "pt": "Shez: Bem, até esse ponto não...",
-        "es": "Shez: Bueno, hasta ese punto no..."
+        "ko-KR": "셰즈 : 뭐 그 정도까진……",
+        "en-US": "Shez: Well, not exactly.",
+        "pt-BR": "Shez: Bem, até esse ponto não...",
+        "es-ES": "Shez: Bueno, hasta ese punto no..."
     },
     "dUBhDA": {
-        "ko": "셰즈 : 윱님도 소환할 정도의 인간이니까 나도 소환 당할 수 있구나 하는 거죠.",
-        "en": "Shez: If they can summon Yoop, they can summon anyone.",
-        "pt": "Shez: É que, já que o Yup é o tipo de pessoa que pode ser convocada, eu também posso ser convocado, né.",
-        "es": "Shez: Es que, si hasta a ti te convocan, significa que a mí también me pueden convocar."
+        "ko-KR": "셰즈 : 윱님도 소환할 정도의 인간이니까 나도 소환 당할 수 있구나 하는 거죠.",
+        "en-US": "Shez: If they can summon Yoop, they can summon anyone.",
+        "pt-BR": "Shez: É que, já que o Yup é o tipo de pessoa que pode ser convocada, eu também posso ser convocado, né.",
+        "es-ES": "Shez: Es que, si hasta a ti te convocan, significa que a mí también me pueden convocar."
     },
     "dkBhDA": {
-        "ko": "이베인 : 정말 대단해요.",
-        "en": "Ivane: That's really impressive.",
-        "pt": "Ibein: É realmente incrível.",
-        "es": "Ivein: Eres realmente increíble."
+        "ko-KR": "이베인 : 정말 대단해요.",
+        "en-US": "Ivane: That's really impressive.",
+        "pt-BR": "Ibein: É realmente incrível.",
+        "es-ES": "Ivein: Eres realmente increíble."
     },
     "d0BhDA": {
-        "ko": "윱 : 아니 왜 그렇게 시시한 반응이야!!!!",
-        "en": "Yoop: What? This is not the reaction I expected!",
-        "pt": "Yup: Não, por que essa reação tão sem graça!!!!",
-        "es": "Yup: ¡¿Pero por qué esa reacción tan aburrida?!"
+        "ko-KR": "윱 : 아니 왜 그렇게 시시한 반응이야!!!!",
+        "en-US": "Yoop: What? This is not the reaction I expected!",
+        "pt-BR": "Yup: Não, por que essa reação tão sem graça!!!!",
+        "es-ES": "Yup: ¡¿Pero por qué esa reacción tan aburrida?!"
     },
     "eEBhDA": {
-        "ko": "셰즈 : 시시하다뇨!",
-        "en": "Shez: What do you mean, boring?!",
-        "pt": "Shez: Que reação sem graça é essa!",
-        "es": "Shez: ¡¿Insignificante, dices?!"
+        "ko-KR": "셰즈 : 시시하다뇨!",
+        "en-US": "Shez: What do you mean, boring?!",
+        "pt-BR": "Shez: Que reação sem graça é essa!",
+        "es-ES": "Shez: ¡¿Insignificante, dices?!"
     },
     "eUBhDA": {
-        "ko": "셰즈 : 전 지금 이 인간의 정령 친화도에 대해 꽤나 놀랐다구요!",
-        "en": "Shez: I'm quite surprised by this human's affinity with elementals!",
-        "pt": "Shez: Eu fiquei bem surpreso com a afinidade desse humano com os espíritos!",
-        "es": "Shez: ¡Me ha sorprendido bastante la afinidad de este humano con los espíritus!"
+        "ko-KR": "셰즈 : 전 지금 이 인간의 정령 친화도에 대해 꽤나 놀랐다구요!",
+        "en-US": "Shez: I'm quite surprised by this human's affinity with elementals!",
+        "pt-BR": "Shez: Eu fiquei bem surpreso com a afinidade desse humano com os espíritos!",
+        "es-ES": "Shez: ¡Me ha sorprendido bastante la afinidad de este humano con los espíritus!"
     },
     "ekBhDA": {
-        "ko": "이베인 : 저도 꽤나 흥미롭다고 생각해요.",
-        "en": "Ivane: I find them interesting, too.",
-        "pt": "Ivein: Eu também acho bem interessante.",
-        "es": "Ivein: A mí también me parece bastante interesante."
+        "ko-KR": "이베인 : 저도 꽤나 흥미롭다고 생각해요.",
+        "en-US": "Ivane: I find them interesting, too.",
+        "pt-BR": "Ivein: Eu também acho bem interessante.",
+        "es-ES": "Ivein: A mí también me parece bastante interesante."
     },
     "e0BhDA": {
-        "ko": "윱 : 으악!!!!!!!!!!",
-        "en": "Yoop: Waah!",
-        "pt": "Yup: Aaaargh!!!!!!!!!!",
-        "es": "Yup: ¡Aaah!"
+        "ko-KR": "윱 : 으악!!!!!!!!!!",
+        "en-US": "Yoop: Waah!",
+        "pt-BR": "Yup: Aaaargh!!!!!!!!!!",
+        "es-ES": "Yup: ¡Aaah!"
     },
     "fEBhDA": {
-        "ko": "셰즈 : 이 목소리는!!!",
-        "en": "Shez: Is that...?",
-        "pt": "Shez: Essa voz!!!",
-        "es": "Shez: ¡Esta voz!"
+        "ko-KR": "셰즈 : 이 목소리는!!!",
+        "en-US": "Shez: Is that...?",
+        "pt-BR": "Shez: Essa voz!!!",
+        "es-ES": "Shez: ¡Esta voz!"
     },
     "fUBhDA": {
-        "ko": "윱 : 에...에그노로리아님!!!!!!!!!!!",
-        "en": "Yoop: E-Egnoloria-nim!!!!!!!!!!!",
-        "pt": "Yup: E... Egnorolia-sama!!!!!!!!!!!",
-        "es": "Yup: ¡E... Egnorolia-sama!!!!!!!!!!!"
+        "ko-KR": "윱 : 에...에그노로리아님!!!!!!!!!!!",
+        "en-US": "Yoop: E-Egnoloria-nim!!!!!!!!!!!",
+        "pt-BR": "Yup: E... Egnorolia-sama!!!!!!!!!!!",
+        "es-ES": "Yup: ¡E... Egnorolia-sama!!!!!!!!!!!"
     },
     "fkBhDA": {
-        "ko": "땅의 정기",
-        "en": "Earth Essence",
-        "pt": "A Energia da Terra",
-        "es": "La energía de la tierra"
+        "ko-KR": "땅의 정기",
+        "en-US": "Earth Essence",
+        "pt-BR": "A Energia da Terra",
+        "es-ES": "La energía de la tierra"
     },
     "f0BhDA": {
-        "ko": "땅의 조각",
-        "en": "Fragment of the Earth",
-        "pt": "Fragmento da Terra",
-        "es": "Fragmento de tierra"
+        "ko-KR": "땅의 조각",
+        "en-US": "Fragment of the Earth",
+        "pt-BR": "Fragmento da Terra",
+        "es-ES": "Fragmento de tierra"
     },
     "gEBhDA": {
-        "ko": "윱 : 앗… 땅의 정기가 사라져 버렸어…",
-        "en": "Yoop: Ah... the Earth Essence has vanished...",
-        "pt": "Yup: Ah... A energia da terra desapareceu...",
-        "es": "Yup: ¡Ay… la energía de la tierra se ha esfumado…!"
+        "ko-KR": "윱 : 앗… 땅의 정기가 사라져 버렸어…",
+        "en-US": "Yoop: Ah... the Earth Essence has vanished...",
+        "pt-BR": "Yup: Ah... A energia da terra desapareceu...",
+        "es-ES": "Yup: ¡Ay… la energía de la tierra se ha esfumado…!"
     },
     "gUBhDA": {
-        "ko": "윱 : 이베인을 소환하지 못하다니… 처음부터 다시해봐.",
-        "en": "Yoop: You failed to summon Ivane. Try again from the start.",
-        "pt": "Yup: Não consegui invocar Ivein… Vamos tentar de novo desde o início.",
-        "es": "Yup: ¿No pude invocar a Ivein?… Inténtalo de nuevo desde el principio."
+        "ko-KR": "윱 : 이베인을 소환하지 못하다니… 처음부터 다시해봐.",
+        "en-US": "Yoop: You failed to summon Ivane. Try again from the start.",
+        "pt-BR": "Yup: Não consegui invocar Ivein… Vamos tentar de novo desde o início.",
+        "es-ES": "Yup: ¿No pude invocar a Ivein?… Inténtalo de nuevo desde el principio."
     },
     "gkBhDA": {
-        "ko": "셰즈",
-        "en": "Shez",
-        "pt": "Shez",
-        "es": "Shez"
+        "ko-KR": "셰즈",
+        "en-US": "Shez",
+        "pt-BR": "Shez",
+        "es-ES": "Shez"
     },
     "g0BhDA": {
-        "ko": "이베인",
-        "en": "Ivane",
-        "pt": "Ivein",
-        "es": "Ivein"
+        "ko-KR": "이베인",
+        "en-US": "Ivane",
+        "pt-BR": "Ivein",
+        "es-ES": "Ivein"
     }
 }

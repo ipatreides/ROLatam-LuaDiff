@@ -1,290 +1,290 @@
 {
     "gA7YBw": {
-        "ko": "루키",
-        "en": "Rookie",
-        "pt": "Lukie",
-        "es": "Lukie"
+        "ko-KR": "루키",
+        "en-US": "Rookie",
+        "pt-BR": "Lukie",
+        "es-ES": "Lukie"
     },
     "gQ7YBw": {
-        "ko": "[루키]\n어, 이쪽은 아직 조사 중이에요. 모험가님.\n아직 무슨 위험 요소가 있을지 모르니 가까이 오지 마세요.",
-        "en": "[Rookie]\nUh, we’re still investigating this area, Adventurer.\nWe don’t know what dangers might be here yet, so please don’t come any closer.",
-        "pt": "[Lukie]\nAh, este lado ainda está sendo investigado, viajante.\nAinda não sabemos o tamanho do perigo, então não se aproxime.",
-        "es": "[Lukie]\nEh, esta zona aún está en investigación, trotamundos.\nComo todavía no sabemos qué peligros puede haber, no se acerque."
+        "ko-KR": "[루키]\n어, 이쪽은 아직 조사 중이에요. 모험가님.\n아직 무슨 위험 요소가 있을지 모르니 가까이 오지 마세요.",
+        "en-US": "[Rookie]\nUh, we’re still investigating this area, Adventurer.\nWe don’t know what dangers might be here yet, so please don’t come any closer.",
+        "pt-BR": "[Lukie]\nAh, este lado ainda está sendo investigado, viajante.\nAinda não sabemos o tamanho do perigo, então não se aproxime.",
+        "es-ES": "[Lukie]\nEh, esta zona aún está en investigación, trotamundos.\nComo todavía no sabemos qué peligros puede haber, no se acerque."
     },
     "gg7YBw": {
-        "ko": "[루키]\n이 수로에서 흘러나오는 물도 보기에는 깨끗해 보이지만, 먼저 조금 떠 가서 성분 조사를 의뢰하려고요.",
-        "en": "[Rookie]\nThe water flowing out of this canal looks clean, but I’m going to take a sample first and request an analysis of its contents.",
-        "pt": "[Lukie]\nA água que sai deste canal parece limpa, mas primeiro vou pegar uma amostra e solicitar uma análise.",
-        "es": "[Lukie]\nEl agua que fluye desde este canal también parece limpia a simple vista, pero primero voy a recoger un poco y pedir un análisis de sus componentes."
+        "ko-KR": "[루키]\n이 수로에서 흘러나오는 물도 보기에는 깨끗해 보이지만, 먼저 조금 떠 가서 성분 조사를 의뢰하려고요.",
+        "en-US": "[Rookie]\nThe water flowing out of this canal looks clean, but I’m going to take a sample first and request an analysis of its contents.",
+        "pt-BR": "[Lukie]\nA água que sai deste canal parece limpa, mas primeiro vou pegar uma amostra e solicitar uma análise.",
+        "es-ES": "[Lukie]\nEl agua que fluye desde este canal también parece limpia a simple vista, pero primero voy a recoger un poco y pedir un análisis de sus componentes."
     },
     "gw7YBw": {
-        "ko": "[루키]\n이곳엔 상상 이상인 것들이 즐비해서... 마치 멀쩡해 보이는 것들도 경계해야만 한다는 사실이 매분 매초 일깨워지네요.",
-        "en": "[Rookie]\nThis place is filled with things beyond imagination...\nIt reminds me every moment that we have to be wary even of things that look perfectly fine.",
-        "pt": "[Lukie]\nEste lugar está cheio de coisas além da imaginação... A cada minuto, a cada segundo, isso me faz lembrar que devemos ficar atentos até mesmo com o que parece normal.",
-        "es": "[Lukie]\nEste lugar está lleno de cosas más allá de lo imaginable...\nMe recuerda a cada minuto y cada segundo que incluso lo que parece normal debe ser vigilado."
+        "ko-KR": "[루키]\n이곳엔 상상 이상인 것들이 즐비해서... 마치 멀쩡해 보이는 것들도 경계해야만 한다는 사실이 매분 매초 일깨워지네요.",
+        "en-US": "[Rookie]\nThis place is filled with things beyond imagination...\nIt reminds me every moment that we have to be wary even of things that look perfectly fine.",
+        "pt-BR": "[Lukie]\nEste lugar está cheio de coisas além da imaginação... A cada minuto, a cada segundo, isso me faz lembrar que devemos ficar atentos até mesmo com o que parece normal.",
+        "es-ES": "[Lukie]\nEste lugar está lleno de cosas más allá de lo imaginable...\nMe recuerda a cada minuto y cada segundo que incluso lo que parece normal debe ser vigilado."
     },
     "hA7YBw": {
-        "ko": "[알림]\n - 가방이 가득 찼습니다. 소지 무게와 소지 물품 수량 확인 뒤 다시 말을 걸어 주세요. -",
-        "en": "[Notice]\n - Your inventory is full. Please check your weight and item count, then speak to me again. -",
-        "pt": "[Aviso]\n - A mochila está cheia. Verifique o peso e a quantidade de itens, e depois fale novamente. -",
-        "es": "[Aviso]\n - Tu inventario está lleno. Comprueba el peso y el número de objetos y vuelve a hablar conmigo. -"
+        "ko-KR": "[알림]\n - 가방이 가득 찼습니다. 소지 무게와 소지 물품 수량 확인 뒤 다시 말을 걸어 주세요. -",
+        "en-US": "[Notice]\n - Your inventory is full. Please check your weight and item count, then speak to me again. -",
+        "pt-BR": "[Aviso]\n - A mochila está cheia. Verifique o peso e a quantidade de itens, e depois fale novamente. -",
+        "es-ES": "[Aviso]\n - Tu inventario está lleno. Comprueba el peso y el número de objetos y vuelve a hablar conmigo. -"
     },
     "hQ7YBw": {
-        "ko": "[루키]\n아… 이거 참. 이게, 이거인 것 같은데… 또 잘 안 열리네. 뻑뻑해서 그런가?",
-        "en": "[Rookie]\nAh... honestly. I think this is it... but it still won’t open. Is it stuck?",
-        "pt": "[Lukie]\nAh... puxa. Acho que é... não sei... mas não abre de novo. Será que é porque está emperrado?",
-        "es": "[Lukie]\nAy... la verdad es que creo que ya está... pero sigue sin abrirse. \n¿Se habrá atascado?"
+        "ko-KR": "[루키]\n아… 이거 참. 이게, 이거인 것 같은데… 또 잘 안 열리네. 뻑뻑해서 그런가?",
+        "en-US": "[Rookie]\nAh... honestly. I think this is it... but it still won’t open. Is it stuck?",
+        "pt-BR": "[Lukie]\nAh... puxa. Acho que é... não sei... mas não abre de novo. Será que é porque está emperrado?",
+        "es-ES": "[Lukie]\nAy... la verdad es que creo que ya está... pero sigue sin abrirse. \n¿Se habrá atascado?"
     },
     "hg7YBw": {
-        "ko": "[고니]\n……",
-        "en": "[Goni]\n……",
-        "pt": "[Gonie]\n……",
-        "es": "[Goni]\n……"
+        "ko-KR": "[고니]\n……",
+        "en-US": "[Goni]\n……",
+        "pt-BR": "[Gonie]\n……",
+        "es-ES": "[Goni]\n……"
     },
     "hw7YBw": {
-        "ko": "[루키]\n아, 해 주겠다고? 고마워, 고니.",
-        "en": "[Rookie]\nOh, you’ll do it for me? Thanks, Goni.",
-        "pt": "[Lukie]\nAh, você vai me ajudar, Gonie? Obrigado.",
-        "es": "[Lukie]\nAh, ¿vas a hacerlo tú? \nGracias, Goni."
+        "ko-KR": "[루키]\n아, 해 주겠다고? 고마워, 고니.",
+        "en-US": "[Rookie]\nOh, you’ll do it for me? Thanks, Goni.",
+        "pt-BR": "[Lukie]\nAh, você vai me ajudar, Gonie? Obrigado.",
+        "es-ES": "[Lukie]\nAh, ¿vas a hacerlo tú? \nGracias, Goni."
     },
     "iA7YBw": {
-        "ko": "[고니]\n……\n…………",
-        "en": "[Goni]\n……\n…………",
-        "pt": "[Gonie]\n……\n…………",
-        "es": "[Goni]\n……\n…………"
+        "ko-KR": "[고니]\n……\n…………",
+        "en-US": "[Goni]\n……\n…………",
+        "pt-BR": "[Gonie]\n……\n…………",
+        "es-ES": "[Goni]\n……\n…………"
     },
     "iQ7YBw": {
-        "ko": "[고니]\n……\n…………\n………………",
-        "en": "[Goni]\n……\n…………\n………………",
-        "pt": "[Gonie]\n……\n…………\n………………",
-        "es": "[Goni]\n……\n…………\n………………"
+        "ko-KR": "[고니]\n……\n…………\n………………",
+        "en-US": "[Goni]\n……\n…………\n………………",
+        "pt-BR": "[Gonie]\n……\n…………\n………………",
+        "es-ES": "[Goni]\n……\n…………\n………………"
     },
     "ig7YBw": {
-        "ko": "[루키]\n어, 고니. 그거 정말이야? 호오, 그렇구나. 재미있네……",
-        "en": "[Rookie]\nUh, Goni. Is that true? Hoh, I see. Interesting……",
-        "pt": "[Lukie]\nAh, Gonie. Isso é verdade? Oh, entendo. Interessante……",
-        "es": "[Lukie]\nEh, Goni. \n¿De verdad? \nOh, ya veo. \nQué interesante……"
+        "ko-KR": "[루키]\n어, 고니. 그거 정말이야? 호오, 그렇구나. 재미있네……",
+        "en-US": "[Rookie]\nUh, Goni. Is that true? Hoh, I see. Interesting……",
+        "pt-BR": "[Lukie]\nAh, Gonie. Isso é verdade? Oh, entendo. Interessante……",
+        "es-ES": "[Lukie]\nEh, Goni. \n¿De verdad? \nOh, ya veo. \nQué interesante……"
     },
     "iw7YBw": {
-        "ko": "[엘류미나]\n뭐야, 그 표정은? 난 진실만 말했어! 거기가 출입구야!\n이 상황에서 거짓말을 할 리가 없잖아. 거짓말을 하면 그게 바보 아냐?!",
-        "en": "[Eliumina]\nWhat’s with that look? I only told the truth! That’s the entrance!\nWhy would I lie in a situation like this? If I lied, wouldn’t that make me an idiot?!",
-        "pt": "[Elyumina]\nO quê? Eu só falei a verdade! Essa é a entrada!\nNão tenho motivos para mentir numa situação dessas. Eu seria muito burra de mentir na situação que estou, não acha?!",
-        "es": "[Eliumina]\n¿Qué pasa con esa mirada? \n¡Yo solo dije la verdad! \n¡Ahí está la entrada!\nNo voy a mentir en esta situación. \n¡Si miento, ¿no sería una idiota?!"
+        "ko-KR": "[엘류미나]\n뭐야, 그 표정은? 난 진실만 말했어! 거기가 출입구야!\n이 상황에서 거짓말을 할 리가 없잖아. 거짓말을 하면 그게 바보 아냐?!",
+        "en-US": "[Eliumina]\nWhat’s with that look? I only told the truth! That’s the entrance!\nWhy would I lie in a situation like this? If I lied, wouldn’t that make me an idiot?!",
+        "pt-BR": "[Elyumina]\nO quê? Eu só falei a verdade! Essa é a entrada!\nNão tenho motivos para mentir numa situação dessas. Eu seria muito burra de mentir na situação que estou, não acha?!",
+        "es-ES": "[Eliumina]\n¿Qué pasa con esa mirada? \n¡Yo solo dije la verdad! \n¡Ahí está la entrada!\nNo voy a mentir en esta situación. \n¡Si miento, ¿no sería una idiota?!"
     },
     "jA7YBw": {
-        "ko": "[루키]\n누가 뭐라고 했나? 입구 찾았어.\n하지만 안에서 봉쇄돼 있더라. 고니 힘으로도 못 열도록 말이야. 그게 재밌다는 거였는데.",
-        "en": "[Rookie]\nWho said anything? We found the entrance.\nBut it’s sealed from the inside. Even Goni can’t open it. That’s what I found amusing.",
-        "pt": "[Lukie]\nQuem disse que você estava mentindo? Eu encontrei a entrada.\nMas está bloqueada por dentro. Nem Gonie consegue abrir. Por isso falei que era interessante.",
-        "es": "[Lukie]\n¿Quién dijo aque estas mintiendo? \nEncontré la entrada.\nPero estaba bloqueada por dentro. \nComo para que ni siquiera la fuerza de Goni pudiera abrirla. \nEso era lo interesante."
+        "ko-KR": "[루키]\n누가 뭐라고 했나? 입구 찾았어.\n하지만 안에서 봉쇄돼 있더라. 고니 힘으로도 못 열도록 말이야. 그게 재밌다는 거였는데.",
+        "en-US": "[Rookie]\nWho said anything? We found the entrance.\nBut it’s sealed from the inside. Even Goni can’t open it. That’s what I found amusing.",
+        "pt-BR": "[Lukie]\nQuem disse que você estava mentindo? Eu encontrei a entrada.\nMas está bloqueada por dentro. Nem Gonie consegue abrir. Por isso falei que era interessante.",
+        "es-ES": "[Lukie]\n¿Quién dijo aque estas mintiendo? \nEncontré la entrada.\nPero estaba bloqueada por dentro. \nComo para que ni siquiera la fuerza de Goni pudiera abrirla. \nEso era lo interesante."
     },
     "jQ7YBw": {
-        "ko": "[루키]\n혹시 안이랑 말을 맞췄는지 확인해야 했는데, 그럴 필요는 없어졌네.\n너 생각보다 더 좋은 녀석이구나. 네 말마따나 바보도 아니고.",
-        "en": "[Rookie]\nI was going to check whether you’d coordinated your story with whoever’s inside, but there’s no need for that anymore.\nYou’re a better one than I thought. And like you said, you’re not an idiot either.",
-        "pt": "[Lukie]\nEu precisava confirmar se tinham combinado algo lá dentro, mas não vai mais ser necessário.\nVocê é melhor do que eu pensava. E, como você disse, também não é burra.",
-        "es": "[Lukie]\nTenía que comprobar si se habían puesto de acuerdo con los de dentro, pero ya no hace falta.\nEres mejor de lo que pensaba. \nY como dices, tampoco eres una idiota."
+        "ko-KR": "[루키]\n혹시 안이랑 말을 맞췄는지 확인해야 했는데, 그럴 필요는 없어졌네.\n너 생각보다 더 좋은 녀석이구나. 네 말마따나 바보도 아니고.",
+        "en-US": "[Rookie]\nI was going to check whether you’d coordinated your story with whoever’s inside, but there’s no need for that anymore.\nYou’re a better one than I thought. And like you said, you’re not an idiot either.",
+        "pt-BR": "[Lukie]\nEu precisava confirmar se tinham combinado algo lá dentro, mas não vai mais ser necessário.\nVocê é melhor do que eu pensava. E, como você disse, também não é burra.",
+        "es-ES": "[Lukie]\nTenía que comprobar si se habían puesto de acuerdo con los de dentro, pero ya no hace falta.\nEres mejor de lo que pensaba. \nY como dices, tampoco eres una idiota."
     },
     "jg7YBw": {
-        "ko": "엘류미나 : …누굴 놀려! 아악!",
-        "en": "Eliumina : …Don’t make fun of me! Aah!",
-        "pt": "Elyumina : …Tá me zoando?",
-        "es": "Eliumina : …¡No te burles de mí! ¡Aaah!"
+        "ko-KR": "엘류미나 : …누굴 놀려! 아악!",
+        "en-US": "Eliumina : …Don’t make fun of me! Aah!",
+        "pt-BR": "Elyumina : …Tá me zoando?",
+        "es-ES": "Eliumina : …¡No te burles de mí! ¡Aaah!"
     },
     "jw7YBw": {
-        "ko": "[루키]\n모험가님, 리벨리온은 여기를 포위하고 당분간 주변을 조사할 거예요.\n저곳이 어디인지 알았으니 물러날 수 없죠.",
-        "en": "[Rookie]\nAdventurer, Rebellion will surround this place and investigate the area for a while.\nNow that we know where that place is, we can’t back down.",
-        "pt": "[Lukie]\nViajante, a Rebelião vai investigar os arredores por enquanto.\nAgora que sabemos onde fica a entrada, não podemos recuar.",
-        "es": "[Lukie]\nTrotamundos, la rebelión rodeará este lugar y, por el momento, investigará los alrededores.\nAhora que sabemos dónde está, no podemos retirarnos."
+        "ko-KR": "[루키]\n모험가님, 리벨리온은 여기를 포위하고 당분간 주변을 조사할 거예요.\n저곳이 어디인지 알았으니 물러날 수 없죠.",
+        "en-US": "[Rookie]\nAdventurer, Rebellion will surround this place and investigate the area for a while.\nNow that we know where that place is, we can’t back down.",
+        "pt-BR": "[Lukie]\nViajante, a Rebelião vai investigar os arredores por enquanto.\nAgora que sabemos onde fica a entrada, não podemos recuar.",
+        "es-ES": "[Lukie]\nTrotamundos, la rebelión rodeará este lugar y, por el momento, investigará los alrededores.\nAhora que sabemos dónde está, no podemos retirarnos."
     },
     "kA7YBw": {
-        "ko": "[루키]\n우리와는 은원이 깊은 정부와 기업. 그 두 집단과 손을 잡든 잡지 않든 일루시온에게서는 저 바르문트의 유산을 반드시 탈환해야 합니다.",
-        "en": "[Rookie]\nThe government and corporations, with whom we have deep grudges. Whether we join hands with those two groups or not, we must reclaim that Varmunt legacy from Illusion.",
-        "pt": "[Lukie]\nA Rebelião tem uma cicatriz profunda com o Governo e a Corporação. Independente de nos juntarmos à eles ou não, é nosso dever resgatar o legado de Varmunt das mãos da Ilusión, custe o que custar.",
-        "es": "[Lukie]\nEl gobierno y las empresas, con quienes tenemos una enemistad profunda. \nNos aliemos o no con esos dos grupos, debemos recuperar sin falta ese legado de Varmunt de manos de Illusion."
+        "ko-KR": "[루키]\n우리와는 은원이 깊은 정부와 기업. 그 두 집단과 손을 잡든 잡지 않든 일루시온에게서는 저 바르문트의 유산을 반드시 탈환해야 합니다.",
+        "en-US": "[Rookie]\nThe government and corporations, with whom we have deep grudges. Whether we join hands with those two groups or not, we must reclaim that Varmunt legacy from Illusion.",
+        "pt-BR": "[Lukie]\nA Rebelião tem uma cicatriz profunda com o Governo e a Corporação. Independente de nos juntarmos à eles ou não, é nosso dever resgatar o legado de Varmunt das mãos da Ilusión, custe o que custar.",
+        "es-ES": "[Lukie]\nEl gobierno y las empresas, con quienes tenemos una enemistad profunda. \nNos aliemos o no con esos dos grupos, debemos recuperar sin falta ese legado de Varmunt de manos de Illusion."
     },
     "kQ7YBw": {
-        "ko": "[루키]\n하지만 지금 당장은 말씀드린 대로 입구가 봉쇄되어 있지요.\n정보를 더 얻게 되면 연락드릴게요. 그러니 당분간 한숨 돌리도록 하세요.",
-        "en": "[Rookie]\nBut for now, as I said, the entrance is sealed.\nI’ll contact you when we learn more, so take a breather for the time being.",
-        "pt": "[Lukie]\nMas a entrada está bloqueada, por enquanto.\nQuando obtivermos mais informações, entraremos em contato. Então, por favor, descanse um pouco.",
-        "es": "[Lukie]\nPero por ahora, como le dije, la entrada está bloqueada.\nCuando obtengamos más información, me pondré en contacto. \nAsí que, por el momento, tómese un respiro."
+        "ko-KR": "[루키]\n하지만 지금 당장은 말씀드린 대로 입구가 봉쇄되어 있지요.\n정보를 더 얻게 되면 연락드릴게요. 그러니 당분간 한숨 돌리도록 하세요.",
+        "en-US": "[Rookie]\nBut for now, as I said, the entrance is sealed.\nI’ll contact you when we learn more, so take a breather for the time being.",
+        "pt-BR": "[Lukie]\nMas a entrada está bloqueada, por enquanto.\nQuando obtivermos mais informações, entraremos em contato. Então, por favor, descanse um pouco.",
+        "es-ES": "[Lukie]\nPero por ahora, como le dije, la entrada está bloqueada.\nCuando obtengamos más información, me pondré en contacto. \nAsí que, por el momento, tómese un respiro."
     },
     "kg7YBw": {
-        "ko": "[엘레나 볼코바]\n아, 그렇지. 엘류미나도 당분간은 이곳에 억류할 예정이다.\n지금으로서는 일루시온에 대해 가장 많은 정보를 가진 자이니 바깥으로 내돌릴 수는 없지.",
-        "en": "[Elena Volkova]\nAh, right. We also plan to detain Eliumina here for the time being.\nFor now, she’s the one with the most information about Illusion, so we can’t let her go back outside.",
-        "pt": "[Elena Bolkova]\nAh, é mesmo. Também pretendemos manter a Elyumina detida aqui por enquanto.\nNo momento, ela é quem tem mais informações sobre a Ilusión, então não podemos deixá-la livre.",
-        "es": "[Elena Volkova]\nAh, cierto. \nTambién planeo retener aquí a Eliumina por un tiempo.\nPor ahora es quien tiene más información sobre Illusion, así que no podemos dejarla salir."
+        "ko-KR": "[엘레나 볼코바]\n아, 그렇지. 엘류미나도 당분간은 이곳에 억류할 예정이다.\n지금으로서는 일루시온에 대해 가장 많은 정보를 가진 자이니 바깥으로 내돌릴 수는 없지.",
+        "en-US": "[Elena Volkova]\nAh, right. We also plan to detain Eliumina here for the time being.\nFor now, she’s the one with the most information about Illusion, so we can’t let her go back outside.",
+        "pt-BR": "[Elena Bolkova]\nAh, é mesmo. Também pretendemos manter a Elyumina detida aqui por enquanto.\nNo momento, ela é quem tem mais informações sobre a Ilusión, então não podemos deixá-la livre.",
+        "es-ES": "[Elena Volkova]\nAh, cierto. \nTambién planeo retener aquí a Eliumina por un tiempo.\nPor ahora es quien tiene más información sobre Illusion, así que no podemos dejarla salir."
     },
     "kw7YBw": {
-        "ko": "[엘레나 볼코바]\n우리가 감시하면서 이곳에서 얻을 수 있는 파손된 무기를 우리가 쓸 수 있도록 개조할 수 있는지 시켜 볼 생각이야.",
-        "en": "[Elena Volkova]\nWhile we keep watch, I’m thinking of having her see whether she can modify the damaged weapons we can obtain here so that we can use them.",
-        "pt": "[Elena Bolkova]\nEnquanto a vigiamos, veja se é possível adaptar as Armas Danificadas para que possamos usá-las.",
-        "es": "[Elena Volkova]\nMientras la vigilamos, pienso hacer que intente ver si puede modificar las armas dañadas que se puedan obtener aquí para que podamos usarlas."
+        "ko-KR": "[엘레나 볼코바]\n우리가 감시하면서 이곳에서 얻을 수 있는 파손된 무기를 우리가 쓸 수 있도록 개조할 수 있는지 시켜 볼 생각이야.",
+        "en-US": "[Elena Volkova]\nWhile we keep watch, I’m thinking of having her see whether she can modify the damaged weapons we can obtain here so that we can use them.",
+        "pt-BR": "[Elena Bolkova]\nEnquanto a vigiamos, veja se é possível adaptar as Armas Danificadas para que possamos usá-las.",
+        "es-ES": "[Elena Volkova]\nMientras la vigilamos, pienso hacer que intente ver si puede modificar las armas dañadas que se puedan obtener aquí para que podamos usarlas."
     },
     "lA7YBw": {
-        "ko": "[엘레나 볼코바]\n너도 혹시 관심 있다면 똘똘한 <NAVI>[부하]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>녀석들이 관리할 예정이니 가서 물어보도록 해.",
-        "en": "[Elena Volkova]\nIf you are interested as well, the capable <NAVI>[Subordinate]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI> fellows will be in charge, so go and ask them.",
-        "pt": "[Elena Bolkova]\nSe você tiver interesse, vou deixar algumas pessoas da minha tropa encarregadas disso. Elas estão <NAVI>[nesse local]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>.",
-        "es": "[Elena Volkova]\nSi a ti también te interesa, los listos de <NAVI>[Subordinado]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI> se encargarán de gestionarlo, así que ve y pregúntales."
+        "ko-KR": "[엘레나 볼코바]\n너도 혹시 관심 있다면 똘똘한 <NAVI>[부하]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>녀석들이 관리할 예정이니 가서 물어보도록 해.",
+        "en-US": "[Elena Volkova]\nIf you are interested as well, the capable <NAVI>[Subordinate]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI> fellows will be in charge, so go and ask them.",
+        "pt-BR": "[Elena Bolkova]\nSe você tiver interesse, vou deixar algumas pessoas da minha tropa encarregadas disso. Elas estão <NAVI>[nesse local]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>.",
+        "es-ES": "[Elena Volkova]\nSi a ti también te interesa, los listos de <NAVI>[Subordinado]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI> se encargarán de gestionarlo, así que ve y pregúntales."
     },
     "lQ7YBw": {
-        "ko": "[루키]\n이 주변에 아직 할 일이 꽤 많으니, 혹시 한가해지신다면 주변의 일손을 좀 도와주셔도 좋고요.\n그럼 행운을 빕니다, 모험가님! 새로운 정보을 알게 되면 연락드릴게요!",
-        "en": "[Rookie]\nThere is still quite a bit of work to do around here, so if you find yourself with some free time, you could help out with the work nearby.\nThen I wish you good luck, Adventurer! If I learn any new information, I will contact you!",
-        "pt": "[Lukie]\nAinda há bastante coisa a fazer por aqui. Se quiser, pode ficar e ajudar um pouco.\nBem, boa sorte, viajante! Se eu tiver de novas informações, entrarei em contato!",
-        "es": "[Lukie]\nAún queda bastante trabajo por aquí, así que, si se queda con tiempo libre, también podría echar una mano por los alrededores.\n¡Entonces, le deseo buena suerte, trotamundos!\n¡Si me entero de nueva información, me pondré en contacto con usted!"
+        "ko-KR": "[루키]\n이 주변에 아직 할 일이 꽤 많으니, 혹시 한가해지신다면 주변의 일손을 좀 도와주셔도 좋고요.\n그럼 행운을 빕니다, 모험가님! 새로운 정보을 알게 되면 연락드릴게요!",
+        "en-US": "[Rookie]\nThere is still quite a bit of work to do around here, so if you find yourself with some free time, you could help out with the work nearby.\nThen I wish you good luck, Adventurer! If I learn any new information, I will contact you!",
+        "pt-BR": "[Lukie]\nAinda há bastante coisa a fazer por aqui. Se quiser, pode ficar e ajudar um pouco.\nBem, boa sorte, viajante! Se eu tiver de novas informações, entrarei em contato!",
+        "es-ES": "[Lukie]\nAún queda bastante trabajo por aquí, así que, si se queda con tiempo libre, también podría echar una mano por los alrededores.\n¡Entonces, le deseo buena suerte, trotamundos!\n¡Si me entero de nueva información, me pondré en contacto con usted!"
     },
     "lg7YBw": {
-        "ko": "[루키]\n정보를 더 얻게 되면 연락드릴게요. 그러니 당분간 한숨 돌리도록 하세요.\n엘류미나도 당분간은 여기서 맡아야겠지요.",
-        "en": "[Rookie]\nIf I obtain more information, I will contact you. So for the time being, please take a breather.\nEliumina will probably have to stay here for the time being as well.",
-        "pt": "[Lukie]\nSe eu conseguir mais informações, eu avisarei você. Então, descanse um pouco.\nElyumina também vai ficar encarregada daqui por enquanto, viu?",
-        "es": "[Lukie]\nSi consigo más información, me pondré en contacto con usted. \nAsí que, por ahora, tómese un respiro.\nEliumina también tendrá que encargarse de esto aquí por el momento."
+        "ko-KR": "[루키]\n정보를 더 얻게 되면 연락드릴게요. 그러니 당분간 한숨 돌리도록 하세요.\n엘류미나도 당분간은 여기서 맡아야겠지요.",
+        "en-US": "[Rookie]\nIf I obtain more information, I will contact you. So for the time being, please take a breather.\nEliumina will probably have to stay here for the time being as well.",
+        "pt-BR": "[Lukie]\nSe eu conseguir mais informações, eu avisarei você. Então, descanse um pouco.\nElyumina também vai ficar encarregada daqui por enquanto, viu?",
+        "es-ES": "[Lukie]\nSi consigo más información, me pondré en contacto con usted. \nAsí que, por ahora, tómese un respiro.\nEliumina también tendrá que encargarse de esto aquí por el momento."
     },
     "lw7YBw": {
-        "ko": "[루키]\n저희가 감시하면서 이곳에서 얻을 수 있는 파손된 무기를 우리가 쓸 수 있도록 개조하도록 제안해 볼 예정이에요.",
-        "en": "[Rookie]\nWhile we keep watch, we plan to propose modifying the broken weapons that can be obtained here so that we can use them.",
-        "pt": "[Lukie]\nEnquanto isso, veja se Armas Danificadas podem ser modificadas para que possamos usá-las.",
-        "es": "[Lukie]\nMientras vigilamos, planeamos proponer que adaptemos las armas dañadas que se pueden obtener aquí para que podamos usarlas."
+        "ko-KR": "[루키]\n저희가 감시하면서 이곳에서 얻을 수 있는 파손된 무기를 우리가 쓸 수 있도록 개조하도록 제안해 볼 예정이에요.",
+        "en-US": "[Rookie]\nWhile we keep watch, we plan to propose modifying the broken weapons that can be obtained here so that we can use them.",
+        "pt-BR": "[Lukie]\nEnquanto isso, veja se Armas Danificadas podem ser modificadas para que possamos usá-las.",
+        "es-ES": "[Lukie]\nMientras vigilamos, planeamos proponer que adaptemos las armas dañadas que se pueden obtener aquí para que podamos usarlas."
     },
     "mA7YBw": {
-        "ko": "[루키]\n모험가님도 혹시 관심 있으시다면 볼코바 대장님 <NAVI>[부하들]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI> 쪽에서 관리하고 있으니 가서 물어보세요.",
-        "en": "[Rookie]\nIf you are interested as well, Adventurer, Captain Bolkova is managing things over by the <NAVI>[Subordinates]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>, so go and ask.",
-        "pt": "[Lukie]\nSe tiver interesse, a capitã Bolkova está gerenciando isso com os outros <NAVI>[Insurgentes]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>.",
-        "es": "[Lukie]\nSi a usted también le interesa, el capitán Volkova lo está gestionando por el lado de <NAVI>[Subordinados]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>, así que vaya y pregunte."
+        "ko-KR": "[루키]\n모험가님도 혹시 관심 있으시다면 볼코바 대장님 <NAVI>[부하들]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI> 쪽에서 관리하고 있으니 가서 물어보세요.",
+        "en-US": "[Rookie]\nIf you are interested as well, Adventurer, Captain Bolkova is managing things over by the <NAVI>[Subordinates]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>, so go and ask.",
+        "pt-BR": "[Lukie]\nSe tiver interesse, a capitã Bolkova está gerenciando isso com os outros <NAVI>[Insurgentes]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>.",
+        "es-ES": "[Lukie]\nSi a usted también le interesa, el capitán Volkova lo está gestionando por el lado de <NAVI>[Subordinados]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>, así que vaya y pregunte."
     },
     "mQ7YBw": {
-        "ko": "^4D4DFF 130Lv 이상 진행 가능한 퀘스트가 있습니다.^000000",
-        "en": "^4D4DFF There is a quest available for Lv 130 and above.^000000",
-        "pt": "^4D4DFFHá uma missão a partir do nível 130.^000000",
-        "es": "^4D4DFF Hay una misión disponible a partir de Lv 130.^000000"
+        "ko-KR": "^4D4DFF 130Lv 이상 진행 가능한 퀘스트가 있습니다.^000000",
+        "en-US": "^4D4DFF There is a quest available for Lv 130 and above.^000000",
+        "pt-BR": "^4D4DFFHá uma missão a partir do nível 130.^000000",
+        "es-ES": "^4D4DFF Hay una misión disponible a partir de Lv 130.^000000"
     },
     "mg7YBw": {
-        "ko": "[루키]\n마침 잘 오셨어요.\n간밤에 여기 입구를 뜯어 냈답니다. 엘류미나 말로는 무슨 반발 어쩌고 장치가 내부에서 망가진 것 같다고 하는데 ….",
-        "en": "[Rookie]\nYou came at just the right time.\nLast night, we tore off the entrance here. Eliumina says some kind of backlash device seems to have broken inside, but….",
-        "pt": "[Lukie]\nChegou na hora certa!\nOntem à noite, conseguimos abrir o canal! Segundo Elyumina, parece que algum tipo de dispositivo quebrou lá dentro...",
-        "es": "[Lukie]\nLlegó justo a tiempo.\nAnoche arrancamos la entrada de aquí. \nSegún Eliumina, parece que algún dispositivo de rechazo o algo así se rompió por dentro …."
+        "ko-KR": "[루키]\n마침 잘 오셨어요.\n간밤에 여기 입구를 뜯어 냈답니다. 엘류미나 말로는 무슨 반발 어쩌고 장치가 내부에서 망가진 것 같다고 하는데 ….",
+        "en-US": "[Rookie]\nYou came at just the right time.\nLast night, we tore off the entrance here. Eliumina says some kind of backlash device seems to have broken inside, but….",
+        "pt-BR": "[Lukie]\nChegou na hora certa!\nOntem à noite, conseguimos abrir o canal! Segundo Elyumina, parece que algum tipo de dispositivo quebrou lá dentro...",
+        "es-ES": "[Lukie]\nLlegó justo a tiempo.\nAnoche arrancamos la entrada de aquí. \nSegún Eliumina, parece que algún dispositivo de rechazo o algo así se rompió por dentro …."
     },
     "mw7YBw": {
-        "ko": "[루키]\n일루시온과 하트헌터들이 내부에서 입구를 틀어막기 위한 장치 중 하나였나 봐요.\n결과적으로 뜯어내고 진입이 가능하게 됐으니 다행이죠.",
-        "en": "[Rookie]\nIt seems Illusion and the Heart Hunters had one of the devices inside meant to block off the entrance.\nIn the end, we tore it off and can enter now, so that is a relief.",
-        "pt": "[Lukie]\nParece que a Ilusión e os Caça-Coração tinham um dos dispositivos de bloqueio da entrada.\nNo fim, conseguimos arrancar e agora dá para entrar!",
-        "es": "[Lukie]\nParece que Illusion y los Cazacorazones tenían uno de los dispositivos para bloquear la entrada desde dentro.\nPor suerte, al final lo arrancamos y ahora se puede entrar."
+        "ko-KR": "[루키]\n일루시온과 하트헌터들이 내부에서 입구를 틀어막기 위한 장치 중 하나였나 봐요.\n결과적으로 뜯어내고 진입이 가능하게 됐으니 다행이죠.",
+        "en-US": "[Rookie]\nIt seems Illusion and the Heart Hunters had one of the devices inside meant to block off the entrance.\nIn the end, we tore it off and can enter now, so that is a relief.",
+        "pt-BR": "[Lukie]\nParece que a Ilusión e os Caça-Coração tinham um dos dispositivos de bloqueio da entrada.\nNo fim, conseguimos arrancar e agora dá para entrar!",
+        "es-ES": "[Lukie]\nParece que Illusion y los Cazacorazones tenían uno de los dispositivos para bloquear la entrada desde dentro.\nPor suerte, al final lo arrancamos y ahora se puede entrar."
     },
     "nA7YBw": {
-        "ko": "[루키]\n이미 리벨리온 일부는 진입한 상태랍니다.\n아무래도 일루시온들이 작정을 한 모양인지 내부에 잔뜩 변형된 실험체들이 가득이에요.",
-        "en": "[Rookie]\nSome of Rebellion have already entered.\nIt seems the Illusions are determined, because the inside is full of heavily mutated test subjects.",
-        "pt": "[Lukie]\nUma parte da Rebelião já entrou.\nParece que a Ilusión queria esconder muita coisa, porque lá dentro está cheio de cobaias deformadas.",
-        "es": "[Lukie]\nUna parte de Rebellion ya ha entrado.\nParece que los Illusion se lo han propuesto, porque dentro está lleno de sujetos de experimento deformados."
+        "ko-KR": "[루키]\n이미 리벨리온 일부는 진입한 상태랍니다.\n아무래도 일루시온들이 작정을 한 모양인지 내부에 잔뜩 변형된 실험체들이 가득이에요.",
+        "en-US": "[Rookie]\nSome of Rebellion have already entered.\nIt seems the Illusions are determined, because the inside is full of heavily mutated test subjects.",
+        "pt-BR": "[Lukie]\nUma parte da Rebelião já entrou.\nParece que a Ilusión queria esconder muita coisa, porque lá dentro está cheio de cobaias deformadas.",
+        "es-ES": "[Lukie]\nUna parte de Rebellion ya ha entrado.\nParece que los Illusion se lo han propuesto, porque dentro está lleno de sujetos de experimento deformados."
     },
     "nQ7YBw": {
-        "ko": "[루키]\n그래도 먼저 들어간 친구들이 어느정도 길정리는 해두었을테니까요. 모험가님도 준비가 되셨으면 진입하시죠.",
-        "en": "[Rookie]\nStill, the friends who went in first should have cleared the way to some extent. If you are ready, Adventurer, let us enter.",
-        "pt": "[Lukie]\nMesmo assim, nossos colegas que entraram primeiro devem ter limpado o caminho até certo ponto. Se você quiser, podemos entrar.",
-        "es": "[Lukie]\nAun así, los amigos que entraron primero seguramente ya habrán despejado el camino en cierta medida. \nSi usted está listo, trotamundos, entremos."
+        "ko-KR": "[루키]\n그래도 먼저 들어간 친구들이 어느정도 길정리는 해두었을테니까요. 모험가님도 준비가 되셨으면 진입하시죠.",
+        "en-US": "[Rookie]\nStill, the friends who went in first should have cleared the way to some extent. If you are ready, Adventurer, let us enter.",
+        "pt-BR": "[Lukie]\nMesmo assim, nossos colegas que entraram primeiro devem ter limpado o caminho até certo ponto. Se você quiser, podemos entrar.",
+        "es-ES": "[Lukie]\nAun así, los amigos que entraron primero seguramente ya habrán despejado el camino en cierta medida. \nSi usted está listo, trotamundos, entremos."
     },
     "ng7YBw": {
-        "ko": "[루키]\n아무래도 항상 문을 열어두기에는 안쪽의 녀석들이 신경 쓰여서 이렇게 오실때까지 기다리고 있었답니다.",
-        "en": "[Rookie]\nI could not leave the door open all the time, since I was worried about the ones inside, so I have been waiting like this until you came.",
-        "pt": "[Lukie]\nAcho que não dá para deixar a entrada sempre aberta, porque me preocupo com os monstros lá dentro, então eu estava esperando você chegar.",
-        "es": "[Lukie]\nComo no podemos dejar la puerta siempre abierta por culpa de los de dentro, he estado esperando así hasta que usted viniera."
+        "ko-KR": "[루키]\n아무래도 항상 문을 열어두기에는 안쪽의 녀석들이 신경 쓰여서 이렇게 오실때까지 기다리고 있었답니다.",
+        "en-US": "[Rookie]\nI could not leave the door open all the time, since I was worried about the ones inside, so I have been waiting like this until you came.",
+        "pt-BR": "[Lukie]\nAcho que não dá para deixar a entrada sempre aberta, porque me preocupo com os monstros lá dentro, então eu estava esperando você chegar.",
+        "es-ES": "[Lukie]\nComo no podemos dejar la puerta siempre abierta por culpa de los de dentro, he estado esperando así hasta que usted viniera."
     },
     "nw7YBw": {
-        "ko": "[루키]\n …. 으음, 어쩐지 전 항상 문지기 노릇을 하는 기분인데요?\n그것도 모험가님 전용의? 기분 탓이겠죠? 하핫.",
-        "en": "[Rookie]\n …. Hmm, somehow I always feel like I am playing the gatekeeper?\nAnd one just for you, Adventurer? It must be my imagination. Haha.",
-        "pt": "[Lukie]\n.... Heh, de algum jeito, acabo sempre fazendo o papel de porteiro.\nE SEU porteiro, ainda por cima! Deve ser só impressão, né? Haha.",
-        "es": "[Lukie]\n….\nMmm, por alguna razón siento que siempre hago de portero.\n¿Y encima exclusivo para usted, trotamundos? \nSerá cosa mía, ¿no? \nJaja."
+        "ko-KR": "[루키]\n …. 으음, 어쩐지 전 항상 문지기 노릇을 하는 기분인데요?\n그것도 모험가님 전용의? 기분 탓이겠죠? 하핫.",
+        "en-US": "[Rookie]\n …. Hmm, somehow I always feel like I am playing the gatekeeper?\nAnd one just for you, Adventurer? It must be my imagination. Haha.",
+        "pt-BR": "[Lukie]\n.... Heh, de algum jeito, acabo sempre fazendo o papel de porteiro.\nE SEU porteiro, ainda por cima! Deve ser só impressão, né? Haha.",
+        "es-ES": "[Lukie]\n….\nMmm, por alguna razón siento que siempre hago de portero.\n¿Y encima exclusivo para usted, trotamundos? \nSerá cosa mía, ¿no? \nJaja."
     },
     "oA7YBw": {
-        "ko": "[루키]\n모험가님께서 원하신다면 언제든 출입 가능하도록 준비만반으로 대기할테니 언제든 말씀해 주세요.",
-        "en": "[Rookie]\nIf you wish, Adventurer, I will stand by fully prepared so that you can come and go at any time, so please tell me whenever you like.",
-        "pt": "[Lukie]\nSe quiser, ficarei de prontidão, totalmente preparado para permitir a entrada e saída a qualquer momento, então é só me avisar.",
-        "es": "[Lukie]\nSi usted lo desea, estaré en máxima alerta para que pueda entrar y salir cuando quiera, así que dígamelo en cualquier momento."
+        "ko-KR": "[루키]\n모험가님께서 원하신다면 언제든 출입 가능하도록 준비만반으로 대기할테니 언제든 말씀해 주세요.",
+        "en-US": "[Rookie]\nIf you wish, Adventurer, I will stand by fully prepared so that you can come and go at any time, so please tell me whenever you like.",
+        "pt-BR": "[Lukie]\nSe quiser, ficarei de prontidão, totalmente preparado para permitir a entrada e saída a qualquer momento, então é só me avisar.",
+        "es-ES": "[Lukie]\nSi usted lo desea, estaré en máxima alerta para que pueda entrar y salir cuando quiera, así que dígamelo en cualquier momento."
     },
     "oQ7YBw": {
-        "ko": "[루키]\n그럼 가보실까요?\n대현자가 남긴 거대한 저택으로.",
-        "en": "[Rookie]\nShall we go?\nTo the enormous mansion the Great Sage left behind.",
-        "pt": "[Lukie]\nEntão, vamos?\nPara a enorme mansão deixada pelo Grande Sábio!",
-        "es": "[Lukie]\n¿Entonces, vamos?\nA la enorme mansión que dejó el Gran Sabio."
+        "ko-KR": "[루키]\n그럼 가보실까요?\n대현자가 남긴 거대한 저택으로.",
+        "en-US": "[Rookie]\nShall we go?\nTo the enormous mansion the Great Sage left behind.",
+        "pt-BR": "[Lukie]\nEntão, vamos?\nPara a enorme mansão deixada pelo Grande Sábio!",
+        "es-ES": "[Lukie]\n¿Entonces, vamos?\nA la enorme mansión que dejó el Gran Sabio."
     },
     "og7YBw": {
-        "ko": "가자!",
-        "en": "Let's go!",
-        "pt": "Vamos!",
-        "es": "¡Vamos!"
+        "ko-KR": "가자!",
+        "en-US": "Let's go!",
+        "pt-BR": "Vamos!",
+        "es-ES": "¡Vamos!"
     },
     "ow7YBw": {
-        "ko": "지금은 아니야.",
-        "en": "Not right now.",
-        "pt": "Agora não.",
-        "es": "Ahora no."
+        "ko-KR": "지금은 아니야.",
+        "en-US": "Not right now.",
+        "pt-BR": "Agora não.",
+        "es-ES": "Ahora no."
     },
     "pA7YBw": {
-        "ko": "[루키]\n선발대가 내부 정리를 했다곤 하지만 간간히 이쪽으로 뭔가가 튀어나오려고 해서 애 먹었거든요?\n우선 진입 지역을 알려드릴게요.",
-        "en": "[Rookie]\nThey say the advance party cleaned up inside, but every now and then something tries to jump out this way, so it gave us trouble, you know?\nFirst, I will show you the entry area.",
-        "pt": "[Lukie]\nMesmo que nossa tropa tenha limpado lá dentro, de vez em quando alguma coisa tentava sair por esse cano, e isso deu trabalho, sabe?\nPrimeiro, vou lhe passar informações.",
-        "es": "[Lukie]\nAunque el grupo de avanzada haya limpiado el interior, de vez en cuando algo intentaba salir por aquí y nos dio problemas, ¿sabe?\nPrimero le indicaré la zona de entrada."
+        "ko-KR": "[루키]\n선발대가 내부 정리를 했다곤 하지만 간간히 이쪽으로 뭔가가 튀어나오려고 해서 애 먹었거든요?\n우선 진입 지역을 알려드릴게요.",
+        "en-US": "[Rookie]\nThey say the advance party cleaned up inside, but every now and then something tries to jump out this way, so it gave us trouble, you know?\nFirst, I will show you the entry area.",
+        "pt-BR": "[Lukie]\nMesmo que nossa tropa tenha limpado lá dentro, de vez em quando alguma coisa tentava sair por esse cano, e isso deu trabalho, sabe?\nPrimeiro, vou lhe passar informações.",
+        "es-ES": "[Lukie]\nAunque el grupo de avanzada haya limpiado el interior, de vez en cuando algo intentaba salir por aquí y nos dio problemas, ¿sabe?\nPrimero le indicaré la zona de entrada."
     },
     "pQ7YBw": {
-        "ko": "[루키]\n모험가님께서 진입할 이 구멍은 …. 우리가 입구라고 부르고 있지만 사실상 출구죠.\n하수관이니까요.\n이 하수관을 따라 들어가면 거대한 하수처리장이 나와요.",
-        "en": "[Rookie]\nThis hole you will enter through, Adventurer, is…. We call it the entrance, but it is practically the exit.\nBecause it is a sewer.\nIf you go in along this sewer, you will come to a huge Sewage Treatment Plant.",
-        "pt": "[Lukie]\nEste cano por onde você vai entrar é... nós chamamos de entrada, mas na verdade é uma saída.\nPorque é um esgoto.\nSe você entrar seguindo este esgoto, vai encontrar uma enorme Estação de Tratamento de Esgoto.",
-        "es": "[Lukie]\nEste agujero por el que usted entrará es… aunque lo llamamos entrada, en realidad es la salida.\nPorque es una alcantarilla.\nSi entra siguiendo esta alcantarilla, aparecerá una enorme Planta de Tratamiento de Aguas Residuales."
+        "ko-KR": "[루키]\n모험가님께서 진입할 이 구멍은 …. 우리가 입구라고 부르고 있지만 사실상 출구죠.\n하수관이니까요.\n이 하수관을 따라 들어가면 거대한 하수처리장이 나와요.",
+        "en-US": "[Rookie]\nThis hole you will enter through, Adventurer, is…. We call it the entrance, but it is practically the exit.\nBecause it is a sewer.\nIf you go in along this sewer, you will come to a huge Sewage Treatment Plant.",
+        "pt-BR": "[Lukie]\nEste cano por onde você vai entrar é... nós chamamos de entrada, mas na verdade é uma saída.\nPorque é um esgoto.\nSe você entrar seguindo este esgoto, vai encontrar uma enorme Estação de Tratamento de Esgoto.",
+        "es-ES": "[Lukie]\nEste agujero por el que usted entrará es… aunque lo llamamos entrada, en realidad es la salida.\nPorque es una alcantarilla.\nSi entra siguiendo esta alcantarilla, aparecerá una enorme Planta de Tratamiento de Aguas Residuales."
     },
     "pg7YBw": {
-        "ko": "[루키]\n하수처리장을 지나면 제 1 연구소의 마력발전소에요.\n저택 전체를 지탱하는 거대한 발전소 같았어요.",
-        "en": "[Rookie]\nAfter passing the Sewage Treatment Plant, it is the magic power plant of the 1st Laboratory.\nIt seemed like a massive power plant supporting the entire mansion.",
-        "pt": "[Lukie]\nDepois de passar pela Estação de Tratamento de Esgoto, fica a 1ª Usina de Energia Mágica.\nParece ser uma geradora de energia enorme que sustenta a mansão inteira.",
-        "es": "[Lukie]\nAl pasar la Planta de Tratamiento de Aguas Residuales, está la central de energía mágica del Laboratorio 1.\nParecía una enorme central que sostiene toda la mansión."
+        "ko-KR": "[루키]\n하수처리장을 지나면 제 1 연구소의 마력발전소에요.\n저택 전체를 지탱하는 거대한 발전소 같았어요.",
+        "en-US": "[Rookie]\nAfter passing the Sewage Treatment Plant, it is the magic power plant of the 1st Laboratory.\nIt seemed like a massive power plant supporting the entire mansion.",
+        "pt-BR": "[Lukie]\nDepois de passar pela Estação de Tratamento de Esgoto, fica a 1ª Usina de Energia Mágica.\nParece ser uma geradora de energia enorme que sustenta a mansão inteira.",
+        "es-ES": "[Lukie]\nAl pasar la Planta de Tratamiento de Aguas Residuales, está la central de energía mágica del Laboratorio 1.\nParecía una enorme central que sostiene toda la mansión."
     },
     "pw7YBw": {
-        "ko": "[루키]\n마력발전소를 통해 저택의 정원으로 나갈 수 있어요.\n저택의 관리자들이 근처에 있을테니 제일 먼저 그들부터 만나야합니다.",
-        "en": "[Rookie]\nThrough the magic power plant, you can go out to the mansion's garden.\nThe mansion's administrators will be nearby, so you must meet them first.",
-        "pt": "[Lukie]\nVocê chegará no jardim da mansão se sair pela usina de energia mágica.\nAs administradoras da mansão devem estar por perto, então você precisa encontrá-las primeiro.",
-        "es": "[Lukie]\nA través de la central de energía mágica puede salir al jardín de la mansión.\nLos administradores de la mansión estarán cerca, así que primero debe reunirse con ellos."
+        "ko-KR": "[루키]\n마력발전소를 통해 저택의 정원으로 나갈 수 있어요.\n저택의 관리자들이 근처에 있을테니 제일 먼저 그들부터 만나야합니다.",
+        "en-US": "[Rookie]\nThrough the magic power plant, you can go out to the mansion's garden.\nThe mansion's administrators will be nearby, so you must meet them first.",
+        "pt-BR": "[Lukie]\nVocê chegará no jardim da mansão se sair pela usina de energia mágica.\nAs administradoras da mansão devem estar por perto, então você precisa encontrá-las primeiro.",
+        "es-ES": "[Lukie]\nA través de la central de energía mágica puede salir al jardín de la mansión.\nLos administradores de la mansión estarán cerca, así que primero debe reunirse con ellos."
     },
     "qA7YBw": {
-        "ko": "관리자?",
-        "en": "Administrator?",
-        "pt": "Administradoras?",
-        "es": "¿Administrador?"
+        "ko-KR": "관리자?",
+        "en-US": "Administrator?",
+        "pt-BR": "Administradoras?",
+        "es-ES": "¿Administrador?"
     },
     "qQ7YBw": {
-        "ko": "[루키]\n들어가보시면 알아요. 막무가내로 침입한 일루시온들 때문에 그들도 큰 곤란을 겪는 모양이니까요.",
-        "en": "[Rookie]\nYou’ll understand once you go in. It seems they’re having a lot of trouble as well because of the Illusions who barged in without warning.",
-        "pt": "[Lukie]\nVocê vai entender quando entrar. Parece que elas também estão tendo grandes problemas por causa da invasão da Ilusión.",
-        "es": "[Lukie]\nSi entras, lo sabrás. \nParece que ellos también están pasando por grandes dificultades por culpa de los Illusion que irrumpieron sin miramientos."
+        "ko-KR": "[루키]\n들어가보시면 알아요. 막무가내로 침입한 일루시온들 때문에 그들도 큰 곤란을 겪는 모양이니까요.",
+        "en-US": "[Rookie]\nYou’ll understand once you go in. It seems they’re having a lot of trouble as well because of the Illusions who barged in without warning.",
+        "pt-BR": "[Lukie]\nVocê vai entender quando entrar. Parece que elas também estão tendo grandes problemas por causa da invasão da Ilusión.",
+        "es-ES": "[Lukie]\nSi entras, lo sabrás. \nParece que ellos también están pasando por grandes dificultades por culpa de los Illusion que irrumpieron sin miramientos."
     },
     "qg7YBw": {
-        "ko": "[루키]\n저희 말고도 자원한 모험가들 다수가 먼저 진입했어요.\n하수처리장 내부가 제법 복잡해서 길을 잃을 수도 있다고 하니까요.",
-        "en": "[Rookie]\nMany volunteer adventurers went in ahead of us, too.\nThey say the inside of the Sewage Treatment Plant is quite complicated, so you could get lost.",
-        "pt": "[Lukie]\nAlém de nós, muitos aventureiros voluntários já entraram antes.\nDizem que o interior da Estação de Tratamento de Esgoto é bem complexo, então você pode acabar se perdendo.",
-        "es": "[Lukie]\nAdemás de nosotros, muchos trotamundoss voluntarios entraron primero.\nDicen que el interior de Planta de Tratamiento de Aguas Residuales es bastante complejo, así que podrías perderte."
+        "ko-KR": "[루키]\n저희 말고도 자원한 모험가들 다수가 먼저 진입했어요.\n하수처리장 내부가 제법 복잡해서 길을 잃을 수도 있다고 하니까요.",
+        "en-US": "[Rookie]\nMany volunteer adventurers went in ahead of us, too.\nThey say the inside of the Sewage Treatment Plant is quite complicated, so you could get lost.",
+        "pt-BR": "[Lukie]\nAlém de nós, muitos aventureiros voluntários já entraram antes.\nDizem que o interior da Estação de Tratamento de Esgoto é bem complexo, então você pode acabar se perdendo.",
+        "es-ES": "[Lukie]\nAdemás de nosotros, muchos trotamundoss voluntarios entraron primero.\nDicen que el interior de Planta de Tratamiento de Aguas Residuales es bastante complejo, así que podrías perderte."
     },
     "qw7YBw": {
-        "ko": "[루키]\n혹시라도 ^4D4DFF낙오된 동료가 있다면 함께 이동^000000해 주세요.\n어찌되었든 손님으로 등록하기 전에는 안전제일이니까요.",
-        "en": "[Rookie]\nIf there are any ^4D4DFFstraggling companions, please move together with them^000000.\nIn any case, safety comes first until you’re registered as a guest.",
-        "pt": "[Lukie]\nSe você tiver algum conhecido que tenha ficado para trás, por favor, ^4D4DFFandem juntos^000000.\nLembre-e, segurança em primeiro lugar!",
-        "es": "[Lukie]\nSi acaso hay ^4D4DFFalgún compañero rezagado, desplázate junto a él^000000.\nSea como sea, antes de registrarte como invitado, la seguridad es lo primero."
+        "ko-KR": "[루키]\n혹시라도 ^4D4DFF낙오된 동료가 있다면 함께 이동^000000해 주세요.\n어찌되었든 손님으로 등록하기 전에는 안전제일이니까요.",
+        "en-US": "[Rookie]\nIf there are any ^4D4DFFstraggling companions, please move together with them^000000.\nIn any case, safety comes first until you’re registered as a guest.",
+        "pt-BR": "[Lukie]\nSe você tiver algum conhecido que tenha ficado para trás, por favor, ^4D4DFFandem juntos^000000.\nLembre-e, segurança em primeiro lugar!",
+        "es-ES": "[Lukie]\nSi acaso hay ^4D4DFFalgún compañero rezagado, desplázate junto a él^000000.\nSea como sea, antes de registrarte como invitado, la seguridad es lo primero."
     },
     "rA7YBw": {
-        "ko": "[루키]\n그럼 이쪽으로.",
-        "en": "[Rookie]\nThen, this way.",
-        "pt": "[Lukie]\nBem, venha por aqui.",
-        "es": "[Lukie]\nEntonces, por aquí."
+        "ko-KR": "[루키]\n그럼 이쪽으로.",
+        "en-US": "[Rookie]\nThen, this way.",
+        "pt-BR": "[Lukie]\nBem, venha por aqui.",
+        "es-ES": "[Lukie]\nEntonces, por aquí."
     },
     "rQ7YBw": {
-        "ko": "[루키]\n언제든 준비가 되면 말을 걸어주세요.",
-        "en": "[Rookie]\nSpeak to me whenever you’re ready.",
-        "pt": "[Lukie]\nAssim que quiser entrar, fale comigo a qualquer momento.",
-        "es": "[Lukie]\nCuando estés listo, háblame en cualquier momento."
+        "ko-KR": "[루키]\n언제든 준비가 되면 말을 걸어주세요.",
+        "en-US": "[Rookie]\nSpeak to me whenever you’re ready.",
+        "pt-BR": "[Lukie]\nAssim que quiser entrar, fale comigo a qualquer momento.",
+        "es-ES": "[Lukie]\nCuando estés listo, háblame en cualquier momento."
     },
     "rg7YBw": {
-        "ko": "[루키]\n어서 이 하수관을 통해 저택으로 진입하세요.\n먼저 간 동료들이 대부분 정리 해 두었답니다.",
-        "en": "[Rookie]\nHurry and enter the mansion through this sewer pipe.\nMost of the companions who went ahead have already taken care of things.",
-        "pt": "[Lukie]\nRápido, entre na mansão por este cano de esgoto.\nA tropa que entrou primeiro já deixou tudo organizado.",
-        "es": "[Lukie]\nEntra en la mansión por esta alcantarilla.\nLa mayoría de los compañeros que fueron antes ya lo han dejado todo despejado."
+        "ko-KR": "[루키]\n어서 이 하수관을 통해 저택으로 진입하세요.\n먼저 간 동료들이 대부분 정리 해 두었답니다.",
+        "en-US": "[Rookie]\nHurry and enter the mansion through this sewer pipe.\nMost of the companions who went ahead have already taken care of things.",
+        "pt-BR": "[Lukie]\nRápido, entre na mansão por este cano de esgoto.\nA tropa que entrou primeiro já deixou tudo organizado.",
+        "es-ES": "[Lukie]\nEntra en la mansión por esta alcantarilla.\nLa mayoría de los compañeros que fueron antes ya lo han dejado todo despejado."
     },
     "rw7YBw": {
-        "ko": "[루키]\n모험가님과 함께 하는 길은 정말 새롭네요.\n요즘은 정말 살아있다는 기분이 들어요.",
-        "en": "[Rookie]\nTraveling with you, Adventurer, feels truly new.\nThese days, I really feel like I’m alive.",
-        "pt": "[Lukie]\nO caminho ao lado é realmente algo novo.\nToda essa aventura me faz agradecer por estar vivo e com saúde.",
-        "es": "[Lukie]\nEl camino junto a ti, trotamundos, es realmente nuevo.\nÚltimamente, de verdad siento que estoy vivo."
+        "ko-KR": "[루키]\n모험가님과 함께 하는 길은 정말 새롭네요.\n요즘은 정말 살아있다는 기분이 들어요.",
+        "en-US": "[Rookie]\nTraveling with you, Adventurer, feels truly new.\nThese days, I really feel like I’m alive.",
+        "pt-BR": "[Lukie]\nO caminho ao lado é realmente algo novo.\nToda essa aventura me faz agradecer por estar vivo e com saúde.",
+        "es-ES": "[Lukie]\nEl camino junto a ti, trotamundos, es realmente nuevo.\nÚltimamente, de verdad siento que estoy vivo."
     }
 }

@@ -1,112 +1,112 @@
 {
     "YLkLAw": {
-        "en": "[Swordman Classroom]",
-        "pt": "[Turma dos Espadachins]",
-        "es": "[Aula de Espadachín]"
+        "en-US": "[Swordman Classroom]",
+        "pt-BR": "[Turma dos Espadachins]",
+        "es-ES": "[Aula de Espadachín]"
     },
     "YbkLAw": {
-        "en": "[Rest Area]",
-        "pt": "[Salão]",
-        "es": "[Zona de descanso]"
+        "en-US": "[Rest Area]",
+        "pt-BR": "[Salão]",
+        "es-ES": "[Zona de descanso]"
     },
     "YrkLAw": {
-        "en": "[Taekwon Classroom]",
-        "pt": "[Turma dos Taekwons]",
-        "es": "[Aula de Taekwon]"
+        "en-US": "[Taekwon Classroom]",
+        "pt-BR": "[Turma dos Taekwons]",
+        "es-ES": "[Aula de Taekwon]"
     },
     "Y7kLAw": {
-        "en": "[Gunslinger Classroom]",
-        "pt": "[Turma dos Justiceiros]",
-        "es": "[Aula de Pistolero]"
+        "en-US": "[Gunslinger Classroom]",
+        "pt-BR": "[Turma dos Justiceiros]",
+        "es-ES": "[Aula de Pistolero]"
     },
     "ZLkLAw": {
-        "en": "[Archer Classroom]",
-        "pt": "[Turma dos Arqueiros]",
-        "es": "[Aula de Arquero]"
+        "en-US": "[Archer Classroom]",
+        "pt-BR": "[Turma dos Arqueiros]",
+        "es-ES": "[Aula de Arquero]"
     },
     "ZbkLAw": {
-        "en": "[Mage Classroom]",
-        "pt": "[Turma dos Magos]",
-        "es": "[Aula de Mago]"
+        "en-US": "[Mage Classroom]",
+        "pt-BR": "[Turma dos Magos]",
+        "es-ES": "[Aula de Mago]"
     },
     "ZrkLAw": {
-        "en": "[Thief Classroom]",
-        "pt": "[Turma dos Gatunos]",
-        "es": "[Aula de Ladrón]"
+        "en-US": "[Thief Classroom]",
+        "pt-BR": "[Turma dos Gatunos]",
+        "es-ES": "[Aula de Ladrón]"
     },
     "Z7kLAw": {
-        "en": "[Ninja Classroom]",
-        "pt": "[Turma dos Ninjas]",
-        "es": "[Aula de Ninja]"
+        "en-US": "[Ninja Classroom]",
+        "pt-BR": "[Turma dos Ninjas]",
+        "es-ES": "[Aula de Ninja]"
     },
     "aLkLAw": {
-        "en": "[Merchant Classroom]",
-        "pt": "[Turma dos Mercadores]",
-        "es": "[Aula de Comerciante]"
+        "en-US": "[Merchant Classroom]",
+        "pt-BR": "[Turma dos Mercadores]",
+        "es-ES": "[Aula de Comerciante]"
     },
     "abkLAw": {
-        "en": "[Acolyte Classroom]",
-        "pt": "[Turma dos Noviços]",
-        "es": "[Aula de Acólito]"
+        "en-US": "[Acolyte Classroom]",
+        "pt-BR": "[Turma dos Noviços]",
+        "es-ES": "[Aula de Acólito]"
     },
     "arkLAw": {
-        "en": "[Criatura Office]",
-        "pt": "[Sala do Diretor]",
-        "es": "[Oficina del director]"
+        "en-US": "[Criatura Office]",
+        "pt-BR": "[Sala do Diretor]",
+        "es-ES": "[Oficina del director]"
     },
     "a7kLAw": {
-        "en": "[Swordman Classroom]",
-        "pt": "[Turma dos Espadachins]",
-        "es": "[Aula de Espadachín]"
+        "en-US": "[Swordman Classroom]",
+        "pt-BR": "[Turma dos Espadachins]",
+        "es-ES": "[Aula de Espadachín]"
     },
     "bLkLAw": {
-        "en": "[Rest Area]",
-        "pt": "[Salão]",
-        "es": "[Zona de descanso]"
+        "en-US": "[Rest Area]",
+        "pt-BR": "[Salão]",
+        "es-ES": "[Zona de descanso]"
     },
     "bbkLAw": {
-        "en": "[Taekwon Classroom]",
-        "pt": "[Turma dos Taekwons]",
-        "es": "[Aula de Taekwon]"
+        "en-US": "[Taekwon Classroom]",
+        "pt-BR": "[Turma dos Taekwons]",
+        "es-ES": "[Aula de Taekwon]"
     },
     "brkLAw": {
-        "en": "[Gunslinger Classroom]",
-        "pt": "[Turma dos Justiceiros]",
-        "es": "[Aula de Pistolero]"
+        "en-US": "[Gunslinger Classroom]",
+        "pt-BR": "[Turma dos Justiceiros]",
+        "es-ES": "[Aula de Pistolero]"
     },
     "b7kLAw": {
-        "en": "[Archer Classroom]",
-        "pt": "[Turma dos Arqueiros]",
-        "es": "[Aula de Arquero]"
+        "en-US": "[Archer Classroom]",
+        "pt-BR": "[Turma dos Arqueiros]",
+        "es-ES": "[Aula de Arquero]"
     },
     "cLkLAw": {
-        "en": "[Mage Classroom]",
-        "pt": "[Turma dos Magos]",
-        "es": "[Aula de Mago]"
+        "en-US": "[Mage Classroom]",
+        "pt-BR": "[Turma dos Magos]",
+        "es-ES": "[Aula de Mago]"
     },
     "cbkLAw": {
-        "en": "[Thief Classroom]",
-        "pt": "[Turma dos Gatunos]",
-        "es": "[Aula de Ladrón]"
+        "en-US": "[Thief Classroom]",
+        "pt-BR": "[Turma dos Gatunos]",
+        "es-ES": "[Aula de Ladrón]"
     },
     "crkLAw": {
-        "en": "[Ninja Classroom]",
-        "pt": "[Turma dos Ninjas]",
-        "es": "[Aula de Ninja]"
+        "en-US": "[Ninja Classroom]",
+        "pt-BR": "[Turma dos Ninjas]",
+        "es-ES": "[Aula de Ninja]"
     },
     "c7kLAw": {
-        "en": "[Merchant Classroom]",
-        "pt": "[Turma dos Mercadores]",
-        "es": "[Aula de Comerciante]"
+        "en-US": "[Merchant Classroom]",
+        "pt-BR": "[Turma dos Mercadores]",
+        "es-ES": "[Aula de Comerciante]"
     },
     "dLkLAw": {
-        "en": "[Acolyte Classroom]",
-        "pt": "[Turma dos Noviços]",
-        "es": "[Aula de Acólito]"
+        "en-US": "[Acolyte Classroom]",
+        "pt-BR": "[Turma dos Noviços]",
+        "es-ES": "[Aula de Acólito]"
     },
     "dbkLAw": {
-        "en": "[Criatura Office]",
-        "pt": "[Sala do Diretor]",
-        "es": "[Oficina del director]"
+        "en-US": "[Criatura Office]",
+        "pt-BR": "[Sala do Diretor]",
+        "es-ES": "[Oficina del director]"
     }
 }

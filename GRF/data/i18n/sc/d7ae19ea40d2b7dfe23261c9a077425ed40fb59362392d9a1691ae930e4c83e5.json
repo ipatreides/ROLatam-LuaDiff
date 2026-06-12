@@ -1,297 +1,297 @@
 {
     "YGjm": {
-        "en": "Voice of Reaper: I can feel strong power.",
-        "pt": "Voz do Ceifador: Posso sentir um grande poder.",
-        "es": "Voz del Cosechador: Puedo sentir un fuerte poder."
+        "en-US": "Voice of Reaper: I can feel strong power.",
+        "pt-BR": "Voz do Ceifador: Posso sentir um grande poder.",
+        "es-ES": "Voz del Cosechador: Puedo sentir un fuerte poder."
     },
     "YWjm": {
-        "en": "Seyren {0}summoned.",
-        "pt": "Seyren {0}invocado.",
-        "es": "Se invocó a {0}Seyren."
+        "en-US": "Seyren {0}summoned.",
+        "pt-BR": "Seyren {0}invocado.",
+        "es-ES": "Se invocó a {0}Seyren."
     },
     "Ymjm": {
-        "en": "Howard {0}summoned.",
-        "pt": "Howard {0}invocado.",
-        "es": "Se invocó a {0}Howard."
+        "en-US": "Howard {0}summoned.",
+        "pt-BR": "Howard {0}invocado.",
+        "es-ES": "Se invocó a {0}Howard."
     },
     "Y2jm": {
-        "en": "Eremes {0}summoned.",
-        "pt": "Eremes {0}invocado.",
-        "es": "Se invocó a {0}Eremes."
+        "en-US": "Eremes {0}summoned.",
+        "pt-BR": "Eremes {0}invocado.",
+        "es-ES": "Se invocó a {0}Eremes."
     },
     "ZGjm": {
-        "en": "Kathryne {0}summoned.",
-        "pt": "Kathryne {0}invocado.",
-        "es": "Se invocó a {0}Kathryne."
+        "en-US": "Kathryne {0}summoned.",
+        "pt-BR": "Kathryne {0}invocado.",
+        "es-ES": "Se invocó a {0}Kathryne."
     },
     "ZWjm": {
-        "en": "Magaleta {0}summoned.",
-        "pt": "Magaleta {0}invocado.",
-        "es": "Se invocó a {0}Margarita."
+        "en-US": "Magaleta {0}summoned.",
+        "pt-BR": "Magaleta {0}invocado.",
+        "es-ES": "Se invocó a {0}Margarita."
     },
     "Zmjm": {
-        "en": "Cecil {0}summoned.",
-        "pt": "Cecil {0}invocado.",
-        "es": "Se invocó a {0}Cecil."
+        "en-US": "Cecil {0}summoned.",
+        "pt-BR": "Cecil {0}invocado.",
+        "es-ES": "Se invocó a {0}Cecil."
     },
     "Z2jm": {
-        "en": "Randel {0}summoned.",
-        "pt": "Randel {0}invocado.",
-        "es": "Se invocó a {0}Randel."
+        "en-US": "Randel {0}summoned.",
+        "pt-BR": "Randel {0}invocado.",
+        "es-ES": "Se invocó a {0}Randel."
     },
     "aGjm": {
-        "en": "Flamel {0}summoned.",
-        "pt": "Flamel {0}invocado.",
-        "es": "Se invocó a {0}Flamel."
+        "en-US": "Flamel {0}summoned.",
+        "pt-BR": "Flamel {0}invocado.",
+        "es-ES": "Se invocó a {0}Flamel."
     },
     "aWjm": {
-        "en": "Gertie {0}summoned.",
-        "pt": "Gertie {0}invocado.",
-        "es": "Se invocó a {0}Gertie."
+        "en-US": "Gertie {0}summoned.",
+        "pt-BR": "Gertie {0}invocado.",
+        "es-ES": "Se invocó a {0}Gertie."
     },
     "amjm": {
-        "en": "Celia {0}summoned.",
-        "pt": "Celia {0}invocado.",
-        "es": "Se invocó a {0}Celia."
+        "en-US": "Celia {0}summoned.",
+        "pt-BR": "Celia {0}invocado.",
+        "es-ES": "Se invocó a {0}Celia."
     },
     "a2jm": {
-        "en": "Chen {0}summoned.",
-        "pt": "Chen {0}invocado.",
-        "es": "Se invocó a {0}Chen."
+        "en-US": "Chen {0}summoned.",
+        "pt-BR": "Chen {0}invocado.",
+        "es-ES": "Se invocó a {0}Chen."
     },
     "bGjm": {
-        "en": "Trentini {0}summoned.",
-        "pt": "Trentini {0}invocado.",
-        "es": "Se invocó a {0}Trentini."
+        "en-US": "Trentini {0}summoned.",
+        "pt-BR": "Trentini {0}invocado.",
+        "es-ES": "Se invocó a {0}Trentini."
     },
     "bWjm": {
-        "en": "Alphoccio {0}summoned.",
-        "pt": "Alphoccio {0}invocado.",
-        "es": "Se invocó a {0}Alphoccio."
+        "en-US": "Alphoccio {0}summoned.",
+        "pt-BR": "Alphoccio {0}invocado.",
+        "es-ES": "Se invocó a {0}Alphoccio."
     },
     "bmjm": {
-        "en": "The Fallen Soldier 13 types of bosses management",
-        "pt": "Rastreador de MVPs",
-        "es": "Rastreador de MVPs"
+        "en-US": "The Fallen Soldier 13 types of bosses management",
+        "pt-BR": "Rastreador de MVPs",
+        "es-ES": "Rastreador de MVPs"
     },
     "b2jm": {
-        "en": "[Boss Summon Info.]",
-        "pt": "[Rastreador de MVPs]",
-        "es": "[Rastreador de MVPs]"
+        "en-US": "[Boss Summon Info.]",
+        "pt-BR": "[Rastreador de MVPs]",
+        "es-ES": "[Rastreador de MVPs]"
     },
     "cGjm": {
-        "en": "Boss: Guillotine Cross Eremes\nCoordinate: lhz_dun_n.gat {0} {1}",
-        "pt": "MVP: Sicário Eremes\nCoordenada: lhz_dun_n.gat {0} {1}",
-        "es": "MVP: Cortador Eremes\nCoordenada: lhz_dun_n.gat {0} {1}"
+        "en-US": "Boss: Guillotine Cross Eremes\nCoordinate: lhz_dun_n.gat {0} {1}",
+        "pt-BR": "MVP: Sicário Eremes\nCoordenada: lhz_dun_n.gat {0} {1}",
+        "es-ES": "MVP: Cortador Eremes\nCoordenada: lhz_dun_n.gat {0} {1}"
     },
     "cWjm": {
-        "en": "Boss: Archbishop Margaretha\nCoordinate: lhz_dun_n.gat {0} {1}",
-        "pt": "MVP: Arcebispa Margaretha\nCoordenada: lhz_dun_n.gat {0} {1}",
-        "es": "MVP: Arzobispa Margaretha\nCoordenada: lhz_dun_n.gat {0} {1}"
+        "en-US": "Boss: Archbishop Margaretha\nCoordinate: lhz_dun_n.gat {0} {1}",
+        "pt-BR": "MVP: Arcebispa Margaretha\nCoordenada: lhz_dun_n.gat {0} {1}",
+        "es-ES": "MVP: Arzobispa Margaretha\nCoordenada: lhz_dun_n.gat {0} {1}"
     },
     "cmjm": {
-        "en": "Boss: Ranger Cecil\nCoordinate: lhz_dun_n.gat {0} {1}",
-        "pt": "MVP: Sentinela Cecil\nCoordenada: lhz_dun_n.gat {0} {1}",
-        "es": "MVP: Errante Cecil\nCoordenada: lhz_dun_n.gat {0} {1}"
+        "en-US": "Boss: Ranger Cecil\nCoordinate: lhz_dun_n.gat {0} {1}",
+        "pt-BR": "MVP: Sentinela Cecil\nCoordenada: lhz_dun_n.gat {0} {1}",
+        "es-ES": "MVP: Errante Cecil\nCoordenada: lhz_dun_n.gat {0} {1}"
     },
     "c2jm": {
-        "en": "Boss: Mechanic Howard\nCoordinate: lhz_dun_n.gat {0} {1}",
-        "pt": "MVP: Mecânico Howard\nCoordenada: lhz_dun_n.gat {0} {1}",
-        "es": "MVP: Mecánico Howard\nCoordenada: lhz_dun_n.gat {0} {1}"
+        "en-US": "Boss: Mechanic Howard\nCoordinate: lhz_dun_n.gat {0} {1}",
+        "pt-BR": "MVP: Mecânico Howard\nCoordenada: lhz_dun_n.gat {0} {1}",
+        "es-ES": "MVP: Mecánico Howard\nCoordenada: lhz_dun_n.gat {0} {1}"
     },
     "dGjm": {
-        "en": "Boss: Warlock Kathryne\nCoordinate: lhz_dun_n.gat {0} {1}",
-        "pt": "MVP: Arcana Kathryne\nCoordenada: lhz_dun_n.gat {0} {1}",
-        "es": "MVP: Bruja Kathryne\nCoordenada: lhz_dun_n.gat {0} {1}"
+        "en-US": "Boss: Warlock Kathryne\nCoordinate: lhz_dun_n.gat {0} {1}",
+        "pt-BR": "MVP: Arcana Kathryne\nCoordenada: lhz_dun_n.gat {0} {1}",
+        "es-ES": "MVP: Bruja Kathryne\nCoordenada: lhz_dun_n.gat {0} {1}"
     },
     "dWjm": {
-        "en": "Boss: Rune Knight Seyren\nCoordinate: lhz_dun_n.gat {0} {1}",
-        "pt": "MVP: Cavaleiro Rúnico Seyren\nCoordenada: lhz_dun_n.gat {0} {1}",
-        "es": "MVP: Caballero Rúnico Seyren\nCoordenada: lhz_dun_n.gat {0} {1}"
+        "en-US": "Boss: Rune Knight Seyren\nCoordinate: lhz_dun_n.gat {0} {1}",
+        "pt-BR": "MVP: Cavaleiro Rúnico Seyren\nCoordenada: lhz_dun_n.gat {0} {1}",
+        "es-ES": "MVP: Caballero Rúnico Seyren\nCoordenada: lhz_dun_n.gat {0} {1}"
     },
     "dmjm": {
-        "en": "Boss: Royal Guard Randel\nCoordinate: lhz_dun_n.gat {0} {1}",
-        "pt": "MVP: Guardião Real Randel\nCoordenada: lhz_dun_n.gat {0} {1}",
-        "es": "MVP: Guardia Real Randel\nCoordenada: lhz_dun_n.gat {0} {1}"
+        "en-US": "Boss: Royal Guard Randel\nCoordinate: lhz_dun_n.gat {0} {1}",
+        "pt-BR": "MVP: Guardião Real Randel\nCoordenada: lhz_dun_n.gat {0} {1}",
+        "es-ES": "MVP: Guardia Real Randel\nCoordenada: lhz_dun_n.gat {0} {1}"
     },
     "d2jm": {
-        "en": "Boss: Generic Flamel\nCoordinate: lhz_dun_n.gat {0} {1}",
-        "pt": "MVP: Bioquímico Flamel\nCoordenada: lhz_dun_n.gat {0} {1}",
-        "es": "MVP: Genetista Flamel\nCoordenada: lhz_dun_n.gat {0} {1}"
+        "en-US": "Boss: Generic Flamel\nCoordinate: lhz_dun_n.gat {0} {1}",
+        "pt-BR": "MVP: Bioquímico Flamel\nCoordenada: lhz_dun_n.gat {0} {1}",
+        "es-ES": "MVP: Genetista Flamel\nCoordenada: lhz_dun_n.gat {0} {1}"
     },
     "eGjm": {
-        "en": "Boss: Sorcerer Celia\nCoordinate: lhz_dun_n.gat {0} {1}",
-        "pt": "MVP: Feiticeira Celia\nCoordenada: lhz_dun_n.gat {0} {1}",
-        "es": "MVP: Conjuradora Celia\nCoordenada: lhz_dun_n.gat {0} {1}"
+        "en-US": "Boss: Sorcerer Celia\nCoordinate: lhz_dun_n.gat {0} {1}",
+        "pt-BR": "MVP: Feiticeira Celia\nCoordenada: lhz_dun_n.gat {0} {1}",
+        "es-ES": "MVP: Conjuradora Celia\nCoordenada: lhz_dun_n.gat {0} {1}"
     },
     "eWjm": {
-        "en": "Boss: Sura Chen\nCoordinate: lhz_dun_n.gat {0} {1}",
-        "pt": "MVP: Shura Chen\nCoordenada: lhz_dun_n.gat {0} {1}",
-        "es": "MVP: Sura Chen\nCoordenada: lhz_dun_n.gat {0} {1}"
+        "en-US": "Boss: Sura Chen\nCoordinate: lhz_dun_n.gat {0} {1}",
+        "pt-BR": "MVP: Shura Chen\nCoordenada: lhz_dun_n.gat {0} {1}",
+        "es-ES": "MVP: Sura Chen\nCoordenada: lhz_dun_n.gat {0} {1}"
     },
     "emjm": {
-        "en": "Boss: Shadow Chaser Gertie\nCoordinate: lhz_dun_n.gat {0} {1}",
-        "pt": "MVP: Renegada Gertie\nCoordenada: lhz_dun_n.gat {0} {1}",
-        "es": "MVP: Perseguidora Gertie\nCoordenada: lhz_dun_n.gat {0} {1}"
+        "en-US": "Boss: Shadow Chaser Gertie\nCoordinate: lhz_dun_n.gat {0} {1}",
+        "pt-BR": "MVP: Renegada Gertie\nCoordenada: lhz_dun_n.gat {0} {1}",
+        "es-ES": "MVP: Perseguidora Gertie\nCoordenada: lhz_dun_n.gat {0} {1}"
     },
     "e2jm": {
-        "en": "Boss: Minstrel Alphoccio\nCoordinate: lhz_dun_n.gat {0} {1}",
-        "pt": "MVP: Trovador Alphoccio\nCoordenada: lhz_dun_n.gat {0} {1}",
-        "es": "MVP: Maestro Alphoccio\nCoordenada: lhz_dun_n.gat {0} {1}"
+        "en-US": "Boss: Minstrel Alphoccio\nCoordinate: lhz_dun_n.gat {0} {1}",
+        "pt-BR": "MVP: Trovador Alphoccio\nCoordenada: lhz_dun_n.gat {0} {1}",
+        "es-ES": "MVP: Maestro Alphoccio\nCoordenada: lhz_dun_n.gat {0} {1}"
     },
     "fGjm": {
-        "en": "Boss: Wanderer Trentini\nCoordinate: lhz_dun_n.gat {0} {1}",
-        "pt": "MVP: Musa Trentini\nCoordenada: lhz_dun_n.gat {0} {1}",
-        "es": "MVP: Nómada Trentini\nCoordenada: lhz_dun_n.gat {0} {1}"
+        "en-US": "Boss: Wanderer Trentini\nCoordinate: lhz_dun_n.gat {0} {1}",
+        "pt-BR": "MVP: Musa Trentini\nCoordenada: lhz_dun_n.gat {0} {1}",
+        "es-ES": "MVP: Nómada Trentini\nCoordenada: lhz_dun_n.gat {0} {1}"
     },
     "fWjm": {
-        "en": "Currently waiting for boss summon. Please wait.",
-        "pt": "Por favor, aguarde. Esperando chegada do MVP.",
-        "es": "Por favor, espere. Esperando la llegada del MVP."
+        "en-US": "Currently waiting for boss summon. Please wait.",
+        "pt-BR": "Por favor, aguarde. Esperando chegada do MVP.",
+        "es-ES": "Por favor, espere. Esperando la llegada del MVP."
     },
     "fmjm": {
-        "en": "Voice of Reaper : You were not a real warrior.",
-        "pt": "Você não é forte o suficiente...",
-        "es": "No eres lo suficientemente fuerte..."
+        "en-US": "Voice of Reaper : You were not a real warrior.",
+        "pt-BR": "Você não é forte o suficiente...",
+        "es-ES": "No eres lo suficientemente fuerte..."
     },
     "f2jm": {
-        "en": "Guillotine Cross Eremes",
-        "pt": "Sicário Eremes",
-        "es": "Cortador Eremes"
+        "en-US": "Guillotine Cross Eremes",
+        "pt-BR": "Sicário Eremes",
+        "es-ES": "Cortador Eremes"
     },
     "gGjm": {
-        "en": "Voice of Reaper : Eremes, Finally you are here. It's been a long time.",
-        "pt": "Eremes, finalmente você chegou...",
-        "es": "Eremes, finalmente llegaste..."
+        "en-US": "Voice of Reaper : Eremes, Finally you are here. It's been a long time.",
+        "pt-BR": "Eremes, finalmente você chegou...",
+        "es-ES": "Eremes, finalmente llegaste..."
     },
     "gWjm": {
-        "en": "Archbishop Margaretha",
-        "pt": "Arcebispa Margaretha",
-        "es": "Arzobispa Margaretha"
+        "en-US": "Archbishop Margaretha",
+        "pt-BR": "Arcebispa Margaretha",
+        "es-ES": "Arzobispa Margaretha"
     },
     "gmjm": {
-        "en": "Voice of Reaper : Margaretha, Finally you are here. It's been a long time.",
-        "pt": "Margaretha, finalmente você chegou...",
-        "es": "Margaretha, finalmente llegaste..."
+        "en-US": "Voice of Reaper : Margaretha, Finally you are here. It's been a long time.",
+        "pt-BR": "Margaretha, finalmente você chegou...",
+        "es-ES": "Margaretha, finalmente llegaste..."
     },
     "g2jm": {
-        "en": "Ranger Cecil",
-        "pt": "Sentinela Cecil",
-        "es": "Errante Cecil"
+        "en-US": "Ranger Cecil",
+        "pt-BR": "Sentinela Cecil",
+        "es-ES": "Errante Cecil"
     },
     "hGjm": {
-        "en": "Voice of Reaper : Cecil, Finally you are here. It's been a long time.",
-        "pt": "Cecil, finalmente você chegou...",
-        "es": "Cecil, finalmente llegaste..."
+        "en-US": "Voice of Reaper : Cecil, Finally you are here. It's been a long time.",
+        "pt-BR": "Cecil, finalmente você chegou...",
+        "es-ES": "Cecil, finalmente llegaste..."
     },
     "hWjm": {
-        "en": "Mechanic Howard",
-        "pt": "Mecânico Howard",
-        "es": "Mecánico Howard"
+        "en-US": "Mechanic Howard",
+        "pt-BR": "Mecânico Howard",
+        "es-ES": "Mecánico Howard"
     },
     "hmjm": {
-        "en": "Voice of Reaper : Howard, Finally you are here. It's been a long time.",
-        "pt": "Howard, finalmente você chegou...",
-        "es": "Howard, finalmente llegaste..."
+        "en-US": "Voice of Reaper : Howard, Finally you are here. It's been a long time.",
+        "pt-BR": "Howard, finalmente você chegou...",
+        "es-ES": "Howard, finalmente llegaste..."
     },
     "h2jm": {
-        "en": "Warlock Kathryne",
-        "pt": "Arcana Kathryne",
-        "es": "Bruja Kathryne"
+        "en-US": "Warlock Kathryne",
+        "pt-BR": "Arcana Kathryne",
+        "es-ES": "Bruja Kathryne"
     },
     "iGjm": {
-        "en": "Voice of Reaper : Kathryne, Finally you are here. It's been a long time.",
-        "pt": "Kathryne, finalmente você chegou...",
-        "es": "Kathryne, finalmente llegaste..."
+        "en-US": "Voice of Reaper : Kathryne, Finally you are here. It's been a long time.",
+        "pt-BR": "Kathryne, finalmente você chegou...",
+        "es-ES": "Kathryne, finalmente llegaste..."
     },
     "iWjm": {
-        "en": "Rune Knight Seyren",
-        "pt": "Cavaleiro Rúnico Seyren",
-        "es": "Caballero Rúnico Seyren"
+        "en-US": "Rune Knight Seyren",
+        "pt-BR": "Cavaleiro Rúnico Seyren",
+        "es-ES": "Caballero Rúnico Seyren"
     },
     "imjm": {
-        "en": "Voice of Reaper : Seyren, Finally you are here. It's been a long time.",
-        "pt": "Seyren, finalmente você chegou...",
-        "es": "Seyren, finalmente llegaste..."
+        "en-US": "Voice of Reaper : Seyren, Finally you are here. It's been a long time.",
+        "pt-BR": "Seyren, finalmente você chegou...",
+        "es-ES": "Seyren, finalmente llegaste..."
     },
     "i2jm": {
-        "en": "Royal Guard Randel",
-        "pt": "Guardião Real Randel",
-        "es": "Guardia Real Randel"
+        "en-US": "Royal Guard Randel",
+        "pt-BR": "Guardião Real Randel",
+        "es-ES": "Guardia Real Randel"
     },
     "jGjm": {
-        "en": "Voice of Reaper : Randel, Finally you are here. It's been a long time.",
-        "pt": "Randel, finalmente você chegou...",
-        "es": "Randel, finalmente llegaste..."
+        "en-US": "Voice of Reaper : Randel, Finally you are here. It's been a long time.",
+        "pt-BR": "Randel, finalmente você chegou...",
+        "es-ES": "Randel, finalmente llegaste..."
     },
     "jWjm": {
-        "en": "Generic Flamel",
-        "pt": "Genéricos Flamel",
-        "es": "Genetista Flamel"
+        "en-US": "Generic Flamel",
+        "pt-BR": "Genéricos Flamel",
+        "es-ES": "Genetista Flamel"
     },
     "jmjm": {
-        "en": "Voice of Reaper : Flamel, Finally you are here. It's been a long time.",
-        "pt": "Flamel, finalmente você chegou...",
-        "es": "Flamel, finalmente llegaste..."
+        "en-US": "Voice of Reaper : Flamel, Finally you are here. It's been a long time.",
+        "pt-BR": "Flamel, finalmente você chegou...",
+        "es-ES": "Flamel, finalmente llegaste..."
     },
     "j2jm": {
-        "en": "Sorcerer Celia",
-        "pt": "Feiticeira Celia",
-        "es": "Conjuradora Celia"
+        "en-US": "Sorcerer Celia",
+        "pt-BR": "Feiticeira Celia",
+        "es-ES": "Conjuradora Celia"
     },
     "kGjm": {
-        "en": "Voice of Reaper : Celia, Finally you are here. It's been a long time.",
-        "pt": "Celia, finalmente você chegou...",
-        "es": "Celia, finalmente llegaste..."
+        "en-US": "Voice of Reaper : Celia, Finally you are here. It's been a long time.",
+        "pt-BR": "Celia, finalmente você chegou...",
+        "es-ES": "Celia, finalmente llegaste..."
     },
     "kWjm": {
-        "en": "Sura Chen",
-        "pt": "Shura Chen",
-        "es": "Sura Chen"
+        "en-US": "Sura Chen",
+        "pt-BR": "Shura Chen",
+        "es-ES": "Sura Chen"
     },
     "kmjm": {
-        "en": "Voice of Reaper : Chen, Finally you are here. It's been a long time.",
-        "pt": "Chen, finalmente você chegou...",
-        "es": "Chen, finalmente llegaste..."
+        "en-US": "Voice of Reaper : Chen, Finally you are here. It's been a long time.",
+        "pt-BR": "Chen, finalmente você chegou...",
+        "es-ES": "Chen, finalmente llegaste..."
     },
     "k2jm": {
-        "en": "Shadow Chaser Gertie",
-        "pt": "Renegado Gertie",
-        "es": "Perseguidora Gertie"
+        "en-US": "Shadow Chaser Gertie",
+        "pt-BR": "Renegado Gertie",
+        "es-ES": "Perseguidora Gertie"
     },
     "lGjm": {
-        "en": "Voice of Reaper : Gertie, Finally you are here. It's been a long time.",
-        "pt": "Gertie, finalmente você chegou...",
-        "es": "Gertie, finalmente llegaste..."
+        "en-US": "Voice of Reaper : Gertie, Finally you are here. It's been a long time.",
+        "pt-BR": "Gertie, finalmente você chegou...",
+        "es-ES": "Gertie, finalmente llegaste..."
     },
     "lWjm": {
-        "en": "Minstrel Alphoccio",
-        "pt": "Trovador Alphoccio",
-        "es": "Maestro Alphoccio"
+        "en-US": "Minstrel Alphoccio",
+        "pt-BR": "Trovador Alphoccio",
+        "es-ES": "Maestro Alphoccio"
     },
     "lmjm": {
-        "en": "Voice of Reaper : Alphoccio, Finally you are here. It's been a long time.",
-        "pt": "Alphoccio, finalmente você chegou...",
-        "es": "Alphoccio, finalmente llegaste..."
+        "en-US": "Voice of Reaper : Alphoccio, Finally you are here. It's been a long time.",
+        "pt-BR": "Alphoccio, finalmente você chegou...",
+        "es-ES": "Alphoccio, finalmente llegaste..."
     },
     "l2jm": {
-        "en": "Wanderer Trentini",
-        "pt": "Wanderer Trentini",
-        "es": "Nómada Trentini"
+        "en-US": "Wanderer Trentini",
+        "pt-BR": "Wanderer Trentini",
+        "es-ES": "Nómada Trentini"
     },
     "mGjm": {
-        "en": "Voice of Reaper : Trentini, Finally you are here. It's been a long time.",
-        "pt": "Trentini, finalmente você chegou...",
-        "es": "Trentini, finalmente llegaste..."
+        "en-US": "Voice of Reaper : Trentini, Finally you are here. It's been a long time.",
+        "pt-BR": "Trentini, finalmente você chegou...",
+        "es-ES": "Trentini, finalmente llegaste..."
     },
     "mWjm": {
-        "en": "Voice of Reaper : See you soon.",
-        "pt": "Vejo você em breve...",
-        "es": "Te veré pronto..."
+        "en-US": "Voice of Reaper : See you soon.",
+        "pt-BR": "Vejo você em breve...",
+        "es-ES": "Te veré pronto..."
     },
     "mmjm": {
-        "en": "Voice of Reaper : Come, what a true warrior.",
-        "pt": "Que combatente formidável...",
-        "es": "Qué combatiente formidable..."
+        "en-US": "Voice of Reaper : Come, what a true warrior.",
+        "pt-BR": "Que combatente formidável...",
+        "es-ES": "Qué combatiente formidable..."
     }
 }

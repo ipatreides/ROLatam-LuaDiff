@@ -1,32 +1,32 @@
 {
     "QNUFCA": {
-        "en": "Cat Paw Shrimp Merchant",
-        "pt": "Mercador Doram",
-        "es": "Comerciante de Camarón"
+        "en-US": "Cat Paw Shrimp Merchant",
+        "pt-BR": "Mercador Doram",
+        "es-ES": "Comerciante de Camarón"
     },
     "QdUFCA": {
-        "en": "Here are the shrimps, carrots and catnip!",
-        "pt": "Camarões, Cenouras e mais só aqui! Miau!",
-        "es": "¡Aquí están los camarones, las zanahorias y la hierba gatera!"
+        "en-US": "Here are the shrimps, carrots and catnip!",
+        "pt-BR": "Camarões, Cenouras e mais só aqui! Miau!",
+        "es-ES": "¡Aquí están los camarones, las zanahorias y la hierba gatera!"
     },
     "QtUFCA": {
-        "en": "Buy",
-        "pt": "Comprar",
-        "es": "Comprar."
+        "en-US": "Buy",
+        "pt-BR": "Comprar",
+        "es-ES": "Comprar."
     },
     "Q9UFCA": {
-        "en": "Sell",
-        "pt": "Vender",
-        "es": "Vender."
+        "en-US": "Sell",
+        "pt-BR": "Vender",
+        "es-ES": "Vender."
     },
     "RNUFCA": {
-        "en": "Cancel",
-        "pt": "Cancelar",
-        "es": "Cancelar."
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar."
     },
     "RdUFCA": {
-        "en": "Come back again soon!",
-        "pt": "Te vejo na próxima!",
-        "es": "¡Regresa pronto!"
+        "en-US": "Come back again soon!",
+        "pt-BR": "Te vejo na próxima!",
+        "es-ES": "¡Regresa pronto!"
     }
 }

@@ -1,1147 +1,1147 @@
 {
     "gC3iAQ": {
-        "en": "Designer Heidam",
-        "pt": "Designer Heidam",
-        "es": "Diseñador Heidam"
+        "en-US": "Designer Heidam",
+        "pt-BR": "Designer Heidam",
+        "es-ES": "Diseñador Heidam"
     },
     "gS3iAQ": {
-        "en": "- Please wait !! -\n- You have too many items on you. -\n- Cannot give you anymore. -\n- Clear some space, -\n- then try again. -",
-        "pt": "- Atenção! -\n- Você tem muitos itens. -\n- Não pode prosseguir. -\n- Reorganize o inventário -\n- e tente novamente. -",
-        "es": "- ¡Atención! -\n-Tienes muchos artículos. -\n-No puedes continuar.  -\n- Reorganizar el inventario -\n- y vuelve a intentarlo. -"
+        "en-US": "- Please wait !! -\n- You have too many items on you. -\n- Cannot give you anymore. -\n- Clear some space, -\n- then try again. -",
+        "pt-BR": "- Atenção! -\n- Você tem muitos itens. -\n- Não pode prosseguir. -\n- Reorganize o inventário -\n- e tente novamente. -",
+        "es-ES": "- ¡Atención! -\n-Tienes muchos artículos. -\n-No puedes continuar.  -\n- Reorganizar el inventario -\n- y vuelve a intentarlo. -"
     },
     "gi3iAQ": {
-        "en": "[Designer Heidam]\nI am Designer Heidam, who has all kinds of cool costumes in the World.\nIf you have any Nyangvines with you, come look for Designer Heidam!",
-        "pt": "[Designer Heidam]\nEu sou Designer Heidam, estilista e fashion designer de Rune-Midgard.\nEu troco alguns Visuais por Baú de Pedras!",
-        "es": "[Diseñador Heidam]\nSoy diseñador Heidam, estilista y diseñador de moda de Rune-Midgard.\n¡Cambiaré algunas Disfraz por cofres de piedra!"
+        "en-US": "[Designer Heidam]\nI am Designer Heidam, who has all kinds of cool costumes in the World.\nIf you have any Nyangvines with you, come look for Designer Heidam!",
+        "pt-BR": "[Designer Heidam]\nEu sou Designer Heidam, estilista e fashion designer de Rune-Midgard.\nEu troco alguns Visuais por Baú de Pedras!",
+        "es-ES": "[Diseñador Heidam]\nSoy diseñador Heidam, estilista y diseñador de moda de Rune-Midgard.\n¡Cambiaré algunas Disfraz por cofres de piedra!"
     },
     "gy3iAQ": {
-        "en": "Exchange Nyangvines for costume",
-        "pt": "Trocar 10 MiauMiau por Visual aleatório",
-        "es": "Intercambia 10 Miaufruto por un Disfraz aleatorio"
+        "en-US": "Exchange Nyangvines for costume",
+        "pt-BR": "Trocar 10 MiauMiau por Visual aleatório",
+        "es-ES": "Intercambia 10 Miaufruto por un Disfraz aleatorio"
     },
     "hC3iAQ": {
-        "en": "Exchange costume for random enchant box",
-        "pt": "Trocar visual por Baú de Pedras Visuais",
-        "es": "Intercambio de Cofres de Piedra por Disfraz"
+        "en-US": "Exchange costume for random enchant box",
+        "pt-BR": "Trocar visual por Baú de Pedras Visuais",
+        "es-ES": "Intercambio de Cofres de Piedra por Disfraz"
     },
     "hS3iAQ": {
-        "en": "Continue conversation",
-        "pt": "Continuar a conversa",
-        "es": "Continuar la conversación"
+        "en-US": "Continue conversation",
+        "pt-BR": "Continuar a conversa",
+        "es-ES": "Continuar la conversación"
     },
     "hi3iAQ": {
-        "en": "^FF0000[Caution]^000000\n^FF0000Exchange 10 Nyangvines for a random costume item.^000000\n^FF0000Exchanged items cannot be refunded nor turned back to Nyangvine.^000000",
-        "pt": "^FF0000[Aviso]^000000\n^FF0000Você trocará 10 MiauMiau por 1 Visual aleatório.^000000\n^FF0000Os itens trocados não serão reembolsados.^000000",
-        "es": "^FF0000[Advertencia]^000000\n^FF0000Intercambiarás 10 Miaufruto por 1 Disfraz aleatorio.^000000\n^FF0000Los artículos cambiados no serán reembolsados.^000000"
+        "en-US": "^FF0000[Caution]^000000\n^FF0000Exchange 10 Nyangvines for a random costume item.^000000\n^FF0000Exchanged items cannot be refunded nor turned back to Nyangvine.^000000",
+        "pt-BR": "^FF0000[Aviso]^000000\n^FF0000Você trocará 10 MiauMiau por 1 Visual aleatório.^000000\n^FF0000Os itens trocados não serão reembolsados.^000000",
+        "es-ES": "^FF0000[Advertencia]^000000\n^FF0000Intercambiarás 10 Miaufruto por 1 Disfraz aleatorio.^000000\n^FF0000Los artículos cambiados no serán reembolsados.^000000"
     },
     "hy3iAQ": {
-        "en": "Continue",
-        "pt": "Continuar",
-        "es": "Continuar"
+        "en-US": "Continue",
+        "pt-BR": "Continuar",
+        "es-ES": "Continuar"
     },
     "iC3iAQ": {
-        "en": "Quit",
-        "pt": "Sair",
-        "es": "Salir"
+        "en-US": "Quit",
+        "pt-BR": "Sair",
+        "es-ES": "Salir"
     },
     "iS3iAQ": {
-        "en": "- Not enough Nyangvine. -",
-        "pt": "- Você não tem MiauMiau suficiente. -",
-        "es": "- No tienes suficiente Miaufruto. -"
+        "en-US": "- Not enough Nyangvine. -",
+        "pt-BR": "- Você não tem MiauMiau suficiente. -",
+        "es-ES": "- No tienes suficiente Miaufruto. -"
     },
     "ii3iAQ": {
-        "en": "[Designer Heidam]\nWow~ \nBest scent ever always. Lord.. It is killing me.\nOh, sorry. Here's the best item for you.",
-        "pt": "[Designer Heidam]\nUau! \nEu adoro esse cheiro de MiauMiau ... Tão gostoso.\nAh, perdão. Vamos aos negócios.",
-        "es": "[Diseñador Heidam]\n¡Guau!\nMe encanta este olor de Miaufruto... Tan delicioso.\nOh, lo siento. Vamos a ponernos manos a la obra."
+        "en-US": "[Designer Heidam]\nWow~ \nBest scent ever always. Lord.. It is killing me.\nOh, sorry. Here's the best item for you.",
+        "pt-BR": "[Designer Heidam]\nUau! \nEu adoro esse cheiro de MiauMiau ... Tão gostoso.\nAh, perdão. Vamos aos negócios.",
+        "es-ES": "[Diseñador Heidam]\n¡Guau!\nMe encanta este olor de Miaufruto... Tan delicioso.\nOh, lo siento. Vamos a ponernos manos a la obra."
     },
     "iy3iAQ": {
-        "en": "- Heidam checks his pocket looking for the exchange reward. -",
-        "pt": "- Heidam começa a revirar a mochila. -",
-        "es": "- Heidam comienza a hurgar en su mochila. -"
+        "en-US": "- Heidam checks his pocket looking for the exchange reward. -",
+        "pt-BR": "- Heidam começa a revirar a mochila. -",
+        "es-ES": "- Heidam comienza a hurgar en su mochila. -"
     },
     "jC3iAQ": {
-        "en": "- Exchange failed due to lack of Nyangvine. -",
-        "pt": "- A troca foi cancelada por falta de MiauMiau . -",
-        "es": "- El cambio fue cancelado por falta de Miaufruto. -"
+        "en-US": "- Exchange failed due to lack of Nyangvine. -",
+        "pt-BR": "- A troca foi cancelada por falta de MiauMiau . -",
+        "es-ES": "- El cambio fue cancelado por falta de Miaufruto. -"
     },
     "jS3iAQ": {
-        "en": "[Designer Heidam]\nHere you go~!!!\nI'll just take those Nyangvines from you~",
-        "pt": "[Designer Heidam]\nAqui está seu Visual!!!\nE eu vou ficar com esses MiauMiau ~!",
-        "es": "[Diseñador Heidam]\n¡¡¡Aquí está tu Disfraz!!!\n¡Y me quedaré con esos Miaufruto~!"
+        "en-US": "[Designer Heidam]\nHere you go~!!!\nI'll just take those Nyangvines from you~",
+        "pt-BR": "[Designer Heidam]\nAqui está seu Visual!!!\nE eu vou ficar com esses MiauMiau ~!",
+        "es-ES": "[Diseñador Heidam]\n¡¡¡Aquí está tu Disfraz!!!\n¡Y me quedaré con esos Miaufruto~!"
     },
     "ji3iAQ": {
-        "en": "[Designer Heidam]\n............",
-        "pt": "[Designer Heidam]\n............",
-        "es": "[Diseñador Heidam]\n............"
+        "en-US": "[Designer Heidam]\n............",
+        "pt-BR": "[Designer Heidam]\n............",
+        "es-ES": "[Diseñador Heidam]\n............"
     },
     "jy3iAQ": {
-        "en": "[{0}]\nThis item is useless to me! Do you have anything else?",
-        "pt": "[{0}]\nEsse Visual é inútil para mim! Você tem outro melhor?",
-        "es": "[{0}]\n¡Esta mirada no me sirve! ¿Tienes uno mejor?"
+        "en-US": "[{0}]\nThis item is useless to me! Do you have anything else?",
+        "pt-BR": "[{0}]\nEsse Visual é inútil para mim! Você tem outro melhor?",
+        "es-ES": "[{0}]\n¡Esta mirada no me sirve! ¿Tienes uno mejor?"
     },
     "kC3iAQ": {
-        "en": "[Designer Heidam]\nOh, then I can exchange it for a box of costume enchantment items.",
-        "pt": "[Designer Heidam]\nAh, se não gostou, posso trocar seu Visual por um Baú de Pedras Visuais!",
-        "es": "[Diseñador Heidam]\n¡Ah, y si no te gusta, puedo cambiar tu Look por un Cofre de Piedra Visual!"
+        "en-US": "[Designer Heidam]\nOh, then I can exchange it for a box of costume enchantment items.",
+        "pt-BR": "[Designer Heidam]\nAh, se não gostou, posso trocar seu Visual por um Baú de Pedras Visuais!",
+        "es-ES": "[Diseñador Heidam]\n¡Ah, y si no te gusta, puedo cambiar tu Look por un Cofre de Piedra Visual!"
     },
     "kS3iAQ": {
-        "en": "- Rummaging -",
-        "pt": "- Vasculhando -",
-        "es": "- Hurgando -"
+        "en-US": "- Rummaging -",
+        "pt-BR": "- Vasculhando -",
+        "es-ES": "- Hurgando -"
     },
     "ki3iAQ": {
-        "en": "Costume Rabbit Ear Hat",
-        "pt": "Cartola da Mekoro",
-        "es": "Sombrero de orejas de conejo decorativo"
+        "en-US": "Costume Rabbit Ear Hat",
+        "pt-BR": "Cartola da Mekoro",
+        "es-ES": "Sombrero de orejas de conejo decorativo"
     },
     "ky3iAQ": {
-        "en": "[Designer Heidam]\nI see that you have a ^3131FF{0}^000000. Do you want to exchange this with a costume enchantment box?",
-        "pt": "[Designer Heidam]\nDeseja trocar ^3131FF{0}^000000 por um Baú de Pedras Visuais?",
-        "es": "[Diseñador Heidam]\n¿Te gustaría intercambiar ^3131FF{0}^000000 por un cofre de piedra?"
+        "en-US": "[Designer Heidam]\nI see that you have a ^3131FF{0}^000000. Do you want to exchange this with a costume enchantment box?",
+        "pt-BR": "[Designer Heidam]\nDeseja trocar ^3131FF{0}^000000 por um Baú de Pedras Visuais?",
+        "es-ES": "[Diseñador Heidam]\n¿Te gustaría intercambiar ^3131FF{0}^000000 por un cofre de piedra?"
     },
     "lC3iAQ": {
-        "en": "Exchange",
-        "pt": "Trocar",
-        "es": "Cambiar"
+        "en-US": "Exchange",
+        "pt-BR": "Trocar",
+        "es-ES": "Cambiar"
     },
     "lS3iAQ": {
-        "en": "Look for something else",
-        "pt": "Não, tente outro visual",
-        "es": "No, prueba con otro look"
+        "en-US": "Look for something else",
+        "pt-BR": "Não, tente outro visual",
+        "es-ES": "No, prueba con otro look"
     },
     "li3iAQ": {
-        "en": "Stop Exchanging",
-        "pt": "Encerrar a troca",
-        "es": "Cerrar el intercambio"
+        "en-US": "Stop Exchanging",
+        "pt-BR": "Encerrar a troca",
+        "es-ES": "Cerrar el intercambio"
     },
     "ly3iAQ": {
-        "en": "[Designer Heidam]\nHow did the item disappear?\nLet me check you for another item to exchange...",
-        "pt": "[Designer Heidam]\nUé? O item desapareceu!\nVamos fazer outra troca, sim?",
-        "es": "[Diseñador Heidam]\n¿Eh? ¡Falta el articulo!\nHagamos otro intercambio, ¿de acuerdo?"
+        "en-US": "[Designer Heidam]\nHow did the item disappear?\nLet me check you for another item to exchange...",
+        "pt-BR": "[Designer Heidam]\nUé? O item desapareceu!\nVamos fazer outra troca, sim?",
+        "es-ES": "[Diseñador Heidam]\n¿Eh? ¡Falta el articulo!\nHagamos otro intercambio, ¿de acuerdo?"
     },
     "mC3iAQ": {
-        "en": "[Designer Heidam]\nExchange Completed.\nLet me check you for another item to exchange...",
-        "pt": "[Designer Heidam]\nTroca concluída.\nVamos fazer outra troca, sim?",
-        "es": "[Diseñador Heidam]\nIntercambio completado.\nHagamos otro intercambio, ¿de acuerdo?"
+        "en-US": "[Designer Heidam]\nExchange Completed.\nLet me check you for another item to exchange...",
+        "pt-BR": "[Designer Heidam]\nTroca concluída.\nVamos fazer outra troca, sim?",
+        "es-ES": "[Diseñador Heidam]\nIntercambio completado.\nHagamos otro intercambio, ¿de acuerdo?"
     },
     "mS3iAQ": {
-        "en": "[Designer Heidam]\nMeow? Where are you going?",
-        "pt": "[Designer Heidam]\nMiau? Onde você está indo?",
-        "es": "[Diseñador Heidam]\n¿Maullido? ¿Adónde vas?"
+        "en-US": "[Designer Heidam]\nMeow? Where are you going?",
+        "pt-BR": "[Designer Heidam]\nMiau? Onde você está indo?",
+        "es-ES": "[Diseñador Heidam]\n¿Maullido? ¿Adónde vas?"
     },
     "mi3iAQ": {
-        "en": "[Designer Heidam]\nGuess that is all.",
-        "pt": "[Designer Heidam]\nAcho que isso é tudo.",
-        "es": "[Diseñador Heidam]\nCreo que eso es todo."
+        "en-US": "[Designer Heidam]\nGuess that is all.",
+        "pt-BR": "[Designer Heidam]\nAcho que isso é tudo.",
+        "es-ES": "[Diseñador Heidam]\nCreo que eso es todo."
     },
     "my3iAQ": {
-        "en": "Look more",
-        "pt": "Procure mais um pouco",
-        "es": "Mira un poco más allá"
+        "en-US": "Look more",
+        "pt-BR": "Procure mais um pouco",
+        "es-ES": "Mira un poco más allá"
     },
     "nC3iAQ": {
-        "en": "[Designer Heidam]\nBye~",
-        "pt": "[Designer Heidam]\nTchaaaau!",
-        "es": "[Diseñador Heidam]\n¡Adiós!"
+        "en-US": "[Designer Heidam]\nBye~",
+        "pt-BR": "[Designer Heidam]\nTchaaaau!",
+        "es-ES": "[Diseñador Heidam]\n¡Adiós!"
     },
     "nS3iAQ": {
-        "en": "[Designer Heidam]\nThough I look out of shape right now, I used to be a well known fashion model and designer!",
-        "pt": "[Designer Heidam]\nSei que pareço um brutamontes, mas eu sou um gênio sensível da moda!",
-        "es": "[Diseñador Heidam]\nSé que sueno como un bruto, pero soy un genio de la moda sensible."
+        "en-US": "[Designer Heidam]\nThough I look out of shape right now, I used to be a well known fashion model and designer!",
+        "pt-BR": "[Designer Heidam]\nSei que pareço um brutamontes, mas eu sou um gênio sensível da moda!",
+        "es-ES": "[Diseñador Heidam]\nSé que sueno como un bruto, pero soy un genio de la moda sensible."
     },
     "ni3iAQ": {
-        "en": "[Designer Heidam]\nDon't pity me! I am well aware of my looks, but I like who I am inside.",
-        "pt": "[Designer Heidam]\nNão se engane pela minha aparência, eu sei que o que importa mesmo é quem eu sou.",
-        "es": "[Diseñador Heidam]\nNo te dejes engañar por mi apariencia, sé que lo que realmente importa es quién soy."
+        "en-US": "[Designer Heidam]\nDon't pity me! I am well aware of my looks, but I like who I am inside.",
+        "pt-BR": "[Designer Heidam]\nNão se engane pela minha aparência, eu sei que o que importa mesmo é quem eu sou.",
+        "es-ES": "[Diseñador Heidam]\nNo te dejes engañar por mi apariencia, sé que lo que realmente importa es quién soy."
     },
     "ny3iAQ": {
-        "en": "[Designer Heidam]\nEven if the present is not flashy, through Fashion Stone customers can watch the process of shining beautifully. I'm satisfied with this.",
-        "pt": "[Designer Heidam]\nVisual é uma questão de gosto pessoal. Enquanto uns preferem roupas mais chamativas e brilhantes, outros gostam de algo mais discreto. Minha satisfação é ver todos felizes.",
-        "es": "[Diseñador Heidam]\nLo visual es una cuestión de gusto personal. Mientras algunos prefieren ropa más llamativa y brillante, otros prefieren algo más discreto. Mi satisfacción es ver a todos felices."
+        "en-US": "[Designer Heidam]\nEven if the present is not flashy, through Fashion Stone customers can watch the process of shining beautifully. I'm satisfied with this.",
+        "pt-BR": "[Designer Heidam]\nVisual é uma questão de gosto pessoal. Enquanto uns preferem roupas mais chamativas e brilhantes, outros gostam de algo mais discreto. Minha satisfação é ver todos felizes.",
+        "es-ES": "[Diseñador Heidam]\nLo visual es una cuestión de gusto personal. Mientras algunos prefieren ropa más llamativa y brillante, otros prefieren algo más discreto. Mi satisfacción es ver a todos felices."
     },
     "oC3iAQ": {
-        "en": "C Chicken Beak",
-        "pt": "[Visual] Bico de Galinha",
-        "es": "Disfraz Pico de Pollo"
+        "en-US": "C Chicken Beak",
+        "pt-BR": "[Visual] Bico de Galinha",
+        "es-ES": "Disfraz Pico de Pollo"
     },
     "oS3iAQ": {
-        "en": "Costume Helm",
-        "pt": "[Visual] Elmo de Sucata",
-        "es": "Disfraz Yelmo"
+        "en-US": "Costume Helm",
+        "pt-BR": "[Visual] Elmo de Sucata",
+        "es-ES": "Disfraz Yelmo"
     },
     "oi3iAQ": {
-        "en": "C Captain Carocc's Hat",
-        "pt": "[Visual] Chapéu do Timoneiro",
-        "es": "Disfraz Sombrero de Capitán Carocc"
+        "en-US": "C Captain Carocc's Hat",
+        "pt-BR": "[Visual] Chapéu do Timoneiro",
+        "es-ES": "Disfraz Sombrero de Capitán Carocc"
     },
     "oy3iAQ": {
-        "en": "C Kitsune Mask Hood",
-        "pt": "[Visual] Capuz de Gatinho Fofinho",
-        "es": "Disfraz Capucha de Máscara Kitsune"
+        "en-US": "C Kitsune Mask Hood",
+        "pt-BR": "[Visual] Capuz de Gatinho Fofinho",
+        "es-ES": "Disfraz Capucha de Máscara Kitsune"
     },
     "pC3iAQ": {
-        "en": "C Dragon Turtle Hat",
-        "pt": "[Visual] Casco de Espinhoso",
-        "es": "Disfraz Sombrero de Tortuga Dragón"
+        "en-US": "C Dragon Turtle Hat",
+        "pt-BR": "[Visual] Casco de Espinhoso",
+        "es-ES": "Disfraz Sombrero de Tortuga Dragón"
     },
     "pS3iAQ": {
-        "en": "Costume Robo Eye",
-        "pt": "[Visual] Visor do Ciborgue",
-        "es": "Disfraz Ojo Robótico"
+        "en-US": "Costume Robo Eye",
+        "pt-BR": "[Visual] Visor do Ciborgue",
+        "es-ES": "Disfraz Ojo Robótico"
     },
     "pi3iAQ": {
-        "en": "C Monochrome RibbonHat",
-        "pt": "[Visual] Lacinhos Monocromáticos",
-        "es": "Disfraz Sombrero de Cinta Monocromático"
+        "en-US": "C Monochrome RibbonHat",
+        "pt-BR": "[Visual] Lacinhos Monocromáticos",
+        "es-ES": "Disfraz Sombrero de Cinta Monocromático"
     },
     "py3iAQ": {
-        "en": "Costume Ifrit Mask",
-        "pt": "[Visual] Máscara de Ifrit",
-        "es": "Disfraz Máscara Ifrit"
+        "en-US": "Costume Ifrit Mask",
+        "pt-BR": "[Visual] Máscara de Ifrit",
+        "es-ES": "Disfraz Máscara Ifrit"
     },
     "qC3iAQ": {
-        "en": "C Wings of Raguel",
-        "pt": "[Visual] Asas de Raquel",
-        "es": "Disfraz Alas de Raguel"
+        "en-US": "C Wings of Raguel",
+        "pt-BR": "[Visual] Asas de Raquel",
+        "es-ES": "Disfraz Alas de Raguel"
     },
     "qS3iAQ": {
-        "en": "Costume Satto Hat",
-        "pt": "[Visual] Chapéu de Ministro",
-        "es": "Disfraz Sombrero Satto"
+        "en-US": "Costume Satto Hat",
+        "pt-BR": "[Visual] Chapéu de Ministro",
+        "es-ES": "Disfraz Sombrero Satto"
     },
     "qi3iAQ": {
-        "en": "C White Wizard Hat",
-        "pt": "[Visual] Mestre Arcanista Branco",
-        "es": "Disfraz Sombrero de Mago Blanco"
+        "en-US": "C White Wizard Hat",
+        "pt-BR": "[Visual] Mestre Arcanista Branco",
+        "es-ES": "Disfraz Sombrero de Mago Blanco"
     },
     "qy3iAQ": {
-        "en": "Costume Cookie Hat",
-        "pt": "[Visual] Gorro de Cookie",
-        "es": "Disfraz Sombrero de Galleta"
+        "en-US": "Costume Cookie Hat",
+        "pt-BR": "[Visual] Gorro de Cookie",
+        "es-ES": "Disfraz Sombrero de Galleta"
     },
     "rC3iAQ": {
-        "en": "Costume Earth Planet",
-        "pt": "[Visual] Planeta Terra",
-        "es": "Disfraz Planeta Tierra"
+        "en-US": "Costume Earth Planet",
+        "pt-BR": "[Visual] Planeta Terra",
+        "es-ES": "Disfraz Planeta Tierra"
     },
     "rS3iAQ": {
-        "en": "Costume Blazing Sun",
-        "pt": "[Visual] Sol Risonho",
-        "es": "Disfraz Sol Llameante"
+        "en-US": "Costume Blazing Sun",
+        "pt-BR": "[Visual] Sol Risonho",
+        "es-ES": "Disfraz Sol Llameante"
     },
     "ri3iAQ": {
-        "en": "Costume Observer",
-        "pt": "[Visual] Rastreador Sofisticado",
-        "es": "Disfraz Observador"
+        "en-US": "Costume Observer",
+        "pt-BR": "[Visual] Rastreador Sofisticado",
+        "es-ES": "Disfraz Observador"
     },
     "ry3iAQ": {
-        "en": "[Costume] 24 Bolt",
-        "pt": "[Visual] Parafuso a Mais",
-        "es": "[Disfraz] Tornillos"
+        "en-US": "[Costume] 24 Bolt",
+        "pt-BR": "[Visual] Parafuso a Mais",
+        "es-ES": "[Disfraz] Tornillos"
     },
     "sC3iAQ": {
-        "en": "[Costume] Sheep Hat",
-        "pt": "[Visual] Gorro de Carneirinho",
-        "es": "[Disfraz] Sombrero de Oveja"
+        "en-US": "[Costume] Sheep Hat",
+        "pt-BR": "[Visual] Gorro de Carneirinho",
+        "es-ES": "[Disfraz] Sombrero de Oveja"
     },
     "sS3iAQ": {
-        "en": "[Costume] Twin Red Ribbon",
-        "pt": "[Visual] Laços da Paixão",
-        "es": "[Disfraz] Cinta Roja Gemela"
+        "en-US": "[Costume] Twin Red Ribbon",
+        "pt-BR": "[Visual] Laços da Paixão",
+        "es-ES": "[Disfraz] Cinta Roja Gemela"
     },
     "si3iAQ": {
-        "en": "[Costume] Flying Helmet",
-        "pt": "[Visual] Capacete do Aeronauta",
-        "es": "[Disfraz] Casco Volador"
+        "en-US": "[Costume] Flying Helmet",
+        "pt-BR": "[Visual] Capacete do Aeronauta",
+        "es-ES": "[Disfraz] Casco Volador"
     },
     "sy3iAQ": {
-        "en": "[Costume] Sheep's Horns",
-        "pt": "[Visual] Chifres de Ovelhinha",
-        "es": "[Disfraz] Cuernos de Oveja"
+        "en-US": "[Costume] Sheep's Horns",
+        "pt-BR": "[Visual] Chifres de Ovelhinha",
+        "es-ES": "[Disfraz] Cuernos de Oveja"
     },
     "tC3iAQ": {
-        "en": "[Costume] Chicken Hat",
-        "pt": "[Visual] Cocoricuca",
-        "es": "[Disfraz] Sombrero de Gallina"
+        "en-US": "[Costume] Chicken Hat",
+        "pt-BR": "[Visual] Cocoricuca",
+        "es-ES": "[Disfraz] Sombrero de Gallina"
     },
     "tS3iAQ": {
-        "en": "[Costume] Pirate Dagger",
-        "pt": "[Visual] Faca de Pirata",
-        "es": "[Disfraz] Daga de Pirata"
+        "en-US": "[Costume] Pirate Dagger",
+        "pt-BR": "[Visual] Faca de Pirata",
+        "es-ES": "[Disfraz] Daga de Pirata"
     },
     "ti3iAQ": {
-        "en": "[Costume] Yellow Hat",
-        "pt": "[Visual] Chapéu Amarelo com Pluma",
-        "es": "[Disfraz] Sombrero Amarillo"
+        "en-US": "[Costume] Yellow Hat",
+        "pt-BR": "[Visual] Chapéu Amarelo com Pluma",
+        "es-ES": "[Disfraz] Sombrero Amarillo"
     },
     "ty3iAQ": {
-        "en": "[Costume] Zorro Mask",
-        "pt": "[Visual] Máscara de Zorro",
-        "es": "[Disfraz] Máscara del Zorro"
+        "en-US": "[Costume] Zorro Mask",
+        "pt-BR": "[Visual] Máscara de Zorro",
+        "es-ES": "[Disfraz] Máscara del Zorro"
     },
     "uC3iAQ": {
-        "en": "[Costume] Odin Mask",
-        "pt": "[Visual] Máscara de Odin",
-        "es": "[Disfraz] Máscara de Odín"
+        "en-US": "[Costume] Odin Mask",
+        "pt-BR": "[Visual] Máscara de Odin",
+        "es-ES": "[Disfraz] Máscara de Odín"
     },
     "uS3iAQ": {
-        "en": "[Costume] Samurai Mask",
-        "pt": "[Visual] Máscara do Xogum",
-        "es": "[Disfraz] Máscara de Samurái"
+        "en-US": "[Costume] Samurai Mask",
+        "pt-BR": "[Visual] Máscara do Xogum",
+        "es-ES": "[Disfraz] Máscara de Samurái"
     },
     "ui3iAQ": {
-        "en": "[Costume] Dragon Skull",
-        "pt": "[Visual] Crânio Ancião",
-        "es": "[Disfraz] Yelmo del Dragón"
+        "en-US": "[Costume] Dragon Skull",
+        "pt-BR": "[Visual] Crânio Ancião",
+        "es-ES": "[Disfraz] Yelmo del Dragón"
     },
     "uy3iAQ": {
-        "en": "[Costume] Eremes Scarf",
-        "pt": "[Visual] Cachecol do Eremes",
-        "es": "[Disfraz] Bufanda de Eremes"
+        "en-US": "[Costume] Eremes Scarf",
+        "pt-BR": "[Visual] Cachecol do Eremes",
+        "es-ES": "[Disfraz] Bufanda de Eremes"
     },
     "vC3iAQ": {
-        "en": "[Costume] Darkness Helm",
-        "pt": "[Visual] Elmo das Trevas",
-        "es": "[Disfraz] Yelmo de la Oscuridad"
+        "en-US": "[Costume] Darkness Helm",
+        "pt-BR": "[Visual] Elmo das Trevas",
+        "es-ES": "[Disfraz] Yelmo de la Oscuridad"
     },
     "vS3iAQ": {
-        "en": "[Costume] General's Sword",
-        "pt": "[Visual] Espada do General",
-        "es": "[Disfraz] Espada del General"
+        "en-US": "[Costume] General's Sword",
+        "pt-BR": "[Visual] Espada do General",
+        "es-ES": "[Disfraz] Espada del General"
     },
     "vi3iAQ": {
-        "en": "[Costume] Floating Shield",
-        "pt": "[Visual] Escudo Quântico",
-        "es": "[Disfraz] Escudo Volador"
+        "en-US": "[Costume] Floating Shield",
+        "pt-BR": "[Visual] Escudo Quântico",
+        "es-ES": "[Disfraz] Escudo Volador"
     },
     "vy3iAQ": {
-        "en": "[Costume] Neon Half Long",
-        "pt": "[Visual] Peruca Longa de Neon",
-        "es": "[Disfraz] Peluca Medio Largo de Neon"
+        "en-US": "[Costume] Neon Half Long",
+        "pt-BR": "[Visual] Peruca Longa de Neon",
+        "es-ES": "[Disfraz] Peluca Medio Largo de Neon"
     },
     "wC3iAQ": {
-        "en": "[Costume] Twin Cannons",
-        "pt": "[Visual] Canhões Gêmeos",
-        "es": "[Disfraz] Cañones Gemelos"
+        "en-US": "[Costume] Twin Cannons",
+        "pt-BR": "[Visual] Canhões Gêmeos",
+        "es-ES": "[Disfraz] Cañones Gemelos"
     },
     "wS3iAQ": {
-        "en": "[Costume] Super Drone A1000",
-        "pt": "[Visual] Super Drone A1000",
-        "es": "[Disfraz] Super Drone A1000"
+        "en-US": "[Costume] Super Drone A1000",
+        "pt-BR": "[Visual] Super Drone A1000",
+        "es-ES": "[Disfraz] Super Drone A1000"
     },
     "wi3iAQ": {
-        "en": "[Costume] Open Air Headset",
-        "pt": "[Visual] Fones de Última Geração",
-        "es": "[Disfraz] Auriculares de Aire Abierto"
+        "en-US": "[Costume] Open Air Headset",
+        "pt-BR": "[Visual] Fones de Última Geração",
+        "es-ES": "[Disfraz] Auriculares de Aire Abierto"
     },
     "wy3iAQ": {
-        "en": "[Costume] Barrel Helm",
-        "pt": "[Visual] Elmo Reforçado",
-        "es": "[Disfraz] Casco de Barril"
+        "en-US": "[Costume] Barrel Helm",
+        "pt-BR": "[Visual] Elmo Reforçado",
+        "es-ES": "[Disfraz] Casco de Barril"
     },
     "xC3iAQ": {
-        "en": "[Costume] Cyber Cat Ear Headphones",
-        "pt": "[Visual] Fones de Ouvido Nekomimi",
-        "es": "[Disfraz] Auriculares con Orejas de Cybergato"
+        "en-US": "[Costume] Cyber Cat Ear Headphones",
+        "pt-BR": "[Visual] Fones de Ouvido Nekomimi",
+        "es-ES": "[Disfraz] Auriculares con Orejas de Cybergato"
     },
     "xS3iAQ": {
-        "en": "[Costume] Alchemist Mask",
-        "pt": "[[Visual] Máscara do Alquimista",
-        "es": "[Disfraz] Mascara de Alquimista"
+        "en-US": "[Costume] Alchemist Mask",
+        "pt-BR": "[[Visual] Máscara do Alquimista",
+        "es-ES": "[Disfraz] Mascara de Alquimista"
     },
     "xi3iAQ": {
-        "en": "[Costume] Mecha Cat Ears",
-        "pt": "[Visual] Orelhas Metálicas de Gatinho",
-        "es": "[Disfraz] Orejas de Mecha Gato"
+        "en-US": "[Costume] Mecha Cat Ears",
+        "pt-BR": "[Visual] Orelhas Metálicas de Gatinho",
+        "es-ES": "[Disfraz] Orejas de Mecha Gato"
     },
     "xy3iAQ": {
-        "en": "[Costume] Steampunk Hat",
-        "pt": "[Visual] Cartola Steampunk",
-        "es": "[Disfraz] Sombrero Steampunk"
+        "en-US": "[Costume] Steampunk Hat",
+        "pt-BR": "[Visual] Cartola Steampunk",
+        "es-ES": "[Disfraz] Sombrero Steampunk"
     },
     "yC3iAQ": {
-        "en": "[Costume] Mechanical Plant Hat",
-        "pt": "[[Visual] Chapéu Cyberpunk Florido",
-        "es": "[Disfraz] Sombrero de Planta Mecánica"
+        "en-US": "[Costume] Mechanical Plant Hat",
+        "pt-BR": "[[Visual] Chapéu Cyberpunk Florido",
+        "es-ES": "[Disfraz] Sombrero de Planta Mecánica"
     },
     "yS3iAQ": {
-        "en": "[Costume] Cyclops Visor",
-        "pt": "[Visual] Visor Futurista",
-        "es": "[Disfraz] Visor de Ciclope"
+        "en-US": "[Costume] Cyclops Visor",
+        "pt-BR": "[Visual] Visor Futurista",
+        "es-ES": "[Disfraz] Visor de Ciclope"
     },
     "yi3iAQ": {
-        "en": "[Costume] Charleston's Antenna",
-        "pt": "[Visual] Antena de Charleston",
-        "es": "[Disfraz] Antena de Charleston"
+        "en-US": "[Costume] Charleston's Antenna",
+        "pt-BR": "[Visual] Antena de Charleston",
+        "es-ES": "[Disfraz] Antena de Charleston"
     },
     "yy3iAQ": {
-        "en": "[Costume] Mech Feather Hairband",
-        "pt": "[Visual] Tiara com Asas Mecânicas",
-        "es": "[Disfraz] Diadema con Alas Mecanicas"
+        "en-US": "[Costume] Mech Feather Hairband",
+        "pt-BR": "[Visual] Tiara com Asas Mecânicas",
+        "es-ES": "[Disfraz] Diadema con Alas Mecanicas"
     },
     "zC3iAQ": {
-        "en": "[Costume] Satellite Hairband",
-        "pt": "[Visual] Tiara de Satélite",
-        "es": "[Disfraz] Diadema Satélite"
+        "en-US": "[Costume] Satellite Hairband",
+        "pt-BR": "[Visual] Tiara de Satélite",
+        "es-ES": "[Disfraz] Diadema Satélite"
     },
     "zS3iAQ": {
-        "en": "[Designer Heidam]\nWow~\nBest scent ever always. Lord.. It is killing me.\nOh, sorry. Here's the best item for you.",
-        "pt": "[Designer Heidam]\nUau! \nEu adoro esse cheiro de MiauMiau ... Tão gostoso.\nAh, perdão. Vamos aos negócios.",
-        "es": "[Diseñador Heidam]\n¡Guau!\nMe encanta este olor de Miaufruto... Tan delicioso.\nOh, lo siento. Vamos a ponernos manos a la obra."
+        "en-US": "[Designer Heidam]\nWow~\nBest scent ever always. Lord.. It is killing me.\nOh, sorry. Here's the best item for you.",
+        "pt-BR": "[Designer Heidam]\nUau! \nEu adoro esse cheiro de MiauMiau ... Tão gostoso.\nAh, perdão. Vamos aos negócios.",
+        "es-ES": "[Diseñador Heidam]\n¡Guau!\nMe encanta este olor de Miaufruto... Tan delicioso.\nOh, lo siento. Vamos a ponernos manos a la obra."
     },
     "zi3iAQ": {
-        "en": "[Costume] Ear Of Black Cat",
-        "pt": "[Visual] Orelhas de Gata Preta",
-        "es": "[Disfraz] Orejas de Gato Negro"
+        "en-US": "[Costume] Ear Of Black Cat",
+        "pt-BR": "[Visual] Orelhas de Gata Preta",
+        "es-ES": "[Disfraz] Orejas de Gato Negro"
     },
     "zy3iAQ": {
-        "en": "[Costume] Cat Eyes",
-        "pt": "[Visual] Olhos Felinos",
-        "es": "[Disfraz] Ojos de Gato"
+        "en-US": "[Costume] Cat Eyes",
+        "pt-BR": "[Visual] Olhos Felinos",
+        "es-ES": "[Disfraz] Ojos de Gato"
     },
     "0C3iAQ": {
-        "en": "[Costume] Bubble Gum in Mouth",
-        "pt": "[Visual] Chiclete na Boca",
-        "es": "[Disfraz] Chiclé en Boca"
+        "en-US": "[Costume] Bubble Gum in Mouth",
+        "pt-BR": "[Visual] Chiclete na Boca",
+        "es-ES": "[Disfraz] Chiclé en Boca"
     },
     "0S3iAQ": {
-        "en": "[Costume] Soul of Neko",
-        "pt": "[Visual] Miaura",
-        "es": "[Disfraz] Alma de Neko"
+        "en-US": "[Costume] Soul of Neko",
+        "pt-BR": "[Visual] Miaura",
+        "es-ES": "[Disfraz] Alma de Neko"
     },
     "0i3iAQ": {
-        "en": "[Costume] Kitten Lace Hairband",
-        "pt": "[Visual] Faixa de Gatinhos",
-        "es": "[Disfraz] Diadema de Encaje con Gatito"
+        "en-US": "[Costume] Kitten Lace Hairband",
+        "pt-BR": "[Visual] Faixa de Gatinhos",
+        "es-ES": "[Disfraz] Diadema de Encaje con Gatito"
     },
     "0y3iAQ": {
-        "en": "[Costume] Dwarf Beard",
-        "pt": "[Visual] Barba Viking",
-        "es": "[Disfraz] Barba de Enano"
+        "en-US": "[Costume] Dwarf Beard",
+        "pt-BR": "[Visual] Barba Viking",
+        "es-ES": "[Disfraz] Barba de Enano"
     },
     "1C3iAQ": {
-        "en": "[Costume] Cat's Mouth",
-        "pt": "[Visual] Boca de Gatinho",
-        "es": "[Disfraz] Hocico de Gato"
+        "en-US": "[Costume] Cat's Mouth",
+        "pt-BR": "[Visual] Boca de Gatinho",
+        "es-ES": "[Disfraz] Hocico de Gato"
     },
     "1S3iAQ": {
-        "en": "[Costume] White Cat Ears Hat",
-        "pt": "[Visual] Cartola do Gatomaníaco",
-        "es": "[Disfraz] Gorro con Orejas de Gato Blanco"
+        "en-US": "[Costume] White Cat Ears Hat",
+        "pt-BR": "[Visual] Cartola do Gatomaníaco",
+        "es-ES": "[Disfraz] Gorro con Orejas de Gato Blanco"
     },
     "1i3iAQ": {
-        "en": "[Costume] Punkish Cat Ears",
-        "pt": "[Visual] Touca de Patinhas",
-        "es": "[Disfraz] Orejas de Gato Hinchadas"
+        "en-US": "[Costume] Punkish Cat Ears",
+        "pt-BR": "[Visual] Touca de Patinhas",
+        "es-ES": "[Disfraz] Orejas de Gato Hinchadas"
     },
     "1y3iAQ": {
-        "en": "[Costume] White Cat",
-        "pt": "[Visual] Gata Branca",
-        "es": "[Disfraz] Gato Blanco"
+        "en-US": "[Costume] White Cat",
+        "pt-BR": "[Visual] Gata Branca",
+        "es-ES": "[Disfraz] Gato Blanco"
     },
     "2C3iAQ": {
-        "en": "[Costume] Short Haired Cat Ears",
-        "pt": "[Visual] Peruca Curta de Gatinho",
-        "es": "[Disfraz] Peluca Corta de Gato"
+        "en-US": "[Costume] Short Haired Cat Ears",
+        "pt-BR": "[Visual] Peruca Curta de Gatinho",
+        "es-ES": "[Disfraz] Peluca Corta de Gato"
     },
     "2S3iAQ": {
-        "en": "[Costume] Warm Black Cat Muffler",
-        "pt": "[Visual] Gatchecol Preto",
-        "es": "[Disfraz] Bufanda de Gatito Negro"
+        "en-US": "[Costume] Warm Black Cat Muffler",
+        "pt-BR": "[Visual] Gatchecol Preto",
+        "es-ES": "[Disfraz] Bufanda de Gatito Negro"
     },
     "2i3iAQ": {
-        "en": "[Costume] Halloween Cat Short",
-        "pt": "[Visual] Peruca Curta de Gatinha",
-        "es": "[Disfraz] Peluca Corta de Gatito"
+        "en-US": "[Costume] Halloween Cat Short",
+        "pt-BR": "[Visual] Peruca Curta de Gatinha",
+        "es-ES": "[Disfraz] Peluca Corta de Gatito"
     },
     "2y3iAQ": {
-        "en": "[Costume] Happy Cat",
-        "pt": "[Visual] Felina Cauda-Longa",
-        "es": "[Disfraz] Gato Sentimental"
+        "en-US": "[Costume] Happy Cat",
+        "pt-BR": "[Visual] Felina Cauda-Longa",
+        "es-ES": "[Disfraz] Gato Sentimental"
     },
     "3C3iAQ": {
-        "en": "[Costume] White Cat On Shoulder",
-        "pt": "[Visual] Gato Branco Viajante",
-        "es": "[Disfraz] Gato Blanco en Hombros"
+        "en-US": "[Costume] White Cat On Shoulder",
+        "pt-BR": "[Visual] Gato Branco Viajante",
+        "es-ES": "[Disfraz] Gato Blanco en Hombros"
     },
     "3S3iAQ": {
-        "en": "[Designer Heidam]\nEven if the present is not flashy, through Fashion Stone customers can watch the process of shining beautifully. I'm satisfied with this.",
-        "pt": "[Designer Heidam]\nVisual é uma questão de gosto pessoal. Enquanto uns preferem roupas mais chamativas e brilhantes, outros gostam de algo mais discreto. Minha satisfação é ver todos felizes.",
-        "es": "[Diseñador Heidam]\nLo visual es una cuestión de gusto personal. Mientras algunos prefieren ropa más llamativa y brillante, otros prefieren algo más discreto. Mi satisfacción es ver a todos felices."
+        "en-US": "[Designer Heidam]\nEven if the present is not flashy, through Fashion Stone customers can watch the process of shining beautifully. I'm satisfied with this.",
+        "pt-BR": "[Designer Heidam]\nVisual é uma questão de gosto pessoal. Enquanto uns preferem roupas mais chamativas e brilhantes, outros gostam de algo mais discreto. Minha satisfação é ver todos felizes.",
+        "es-ES": "[Diseñador Heidam]\nLo visual es una cuestión de gusto personal. Mientras algunos prefieren ropa más llamativa y brillante, otros prefieren algo más discreto. Mi satisfacción es ver a todos felices."
     },
     "3i3iAQ": {
-        "en": "[Costume] Witch's Cat Hat",
-        "pt": "[Visual] Chapéu da Bruxa Felina",
-        "es": "[Disfraz] Sombrero de la Bruja Felina"
+        "en-US": "[Costume] Witch's Cat Hat",
+        "pt-BR": "[Visual] Chapéu da Bruxa Felina",
+        "es-ES": "[Disfraz] Sombrero de la Bruja Felina"
     },
     "3y3iAQ": {
-        "en": "[Costume] Sorcery Hood",
-        "pt": "[Visual] Capuz de Feitiçaria",
-        "es": "[Disfraz] Capucha de Hechicería"
+        "en-US": "[Costume] Sorcery Hood",
+        "pt-BR": "[Visual] Capuz de Feitiçaria",
+        "es-ES": "[Disfraz] Capucha de Hechicería"
     },
     "4C3iAQ": {
-        "en": "[Costume] Skull Hood",
-        "pt": "[Visual] Capuz de Caveira",
-        "es": "[Disfraz] Capucha de Calavera"
+        "en-US": "[Costume] Skull Hood",
+        "pt-BR": "[Visual] Capuz de Caveira",
+        "es-ES": "[Disfraz] Capucha de Calavera"
     },
     "4S3iAQ": {
-        "en": "[Costume] Gothic Pumpkin Handicraft",
-        "pt": "[Visual] Abóbora Gótica",
-        "es": "[Disfraz] Calabaza Gótica"
+        "en-US": "[Costume] Gothic Pumpkin Handicraft",
+        "pt-BR": "[Visual] Abóbora Gótica",
+        "es-ES": "[Disfraz] Calabaza Gótica"
     },
     "4i3iAQ": {
-        "en": "[Costume] Bouncing Devilings",
-        "pt": "[Visual] Devilings Saltitantes",
-        "es": "[Disfraz] Devilings Saltarines"
+        "en-US": "[Costume] Bouncing Devilings",
+        "pt-BR": "[Visual] Devilings Saltitantes",
+        "es-ES": "[Disfraz] Devilings Saltarines"
     },
     "4y3iAQ": {
-        "en": "[Costume] Black Witch Hat",
-        "pt": "[Visual] Chapéu da Bruxa Sombria",
-        "es": "[Disfraz] Sombrero de la Bruja Oscura"
+        "en-US": "[Costume] Black Witch Hat",
+        "pt-BR": "[Visual] Chapéu da Bruxa Sombria",
+        "es-ES": "[Disfraz] Sombrero de la Bruja Oscura"
     },
     "5C3iAQ": {
-        "en": "[Costume] Morroc's Servants",
-        "pt": "[Visual] Servos de Morroc",
-        "es": "[Disfraz] Sirvientes de Morroc"
+        "en-US": "[Costume] Morroc's Servants",
+        "pt-BR": "[Visual] Servos de Morroc",
+        "es-ES": "[Disfraz] Sirvientes de Morroc"
     },
     "5S3iAQ": {
-        "en": "[Costume] Midnight Candle",
-        "pt": "[Visual] Velas Sinistras",
-        "es": "[Disfraz] Velas Siniestras"
+        "en-US": "[Costume] Midnight Candle",
+        "pt-BR": "[Visual] Velas Sinistras",
+        "es-ES": "[Disfraz] Velas Siniestras"
     },
     "5i3iAQ": {
-        "en": "[Costume] Freyja Blink Eyes",
-        "pt": "[Visual] Piscadela de Freya",
-        "es": "[Disfraz] Guiño de Freya"
+        "en-US": "[Costume] Freyja Blink Eyes",
+        "pt-BR": "[Visual] Piscadela de Freya",
+        "es-ES": "[Disfraz] Guiño de Freya"
     },
     "5y3iAQ": {
-        "en": "[Costume] Vampire Familiar",
-        "pt": "[Visual] Orelhas de Vampiro",
-        "es": "[Disfraz] Orejas de Vampiro"
+        "en-US": "[Costume] Vampire Familiar",
+        "pt-BR": "[Visual] Orelhas de Vampiro",
+        "es-ES": "[Disfraz] Orejas de Vampiro"
     },
     "6C3iAQ": {
-        "en": "[Costume] Dark Horn",
-        "pt": "[Visual] Chifres Rochosos",
-        "es": "[Disfraz] Cuernos Rocosos"
+        "en-US": "[Costume] Dark Horn",
+        "pt-BR": "[Visual] Chifres Rochosos",
+        "es-ES": "[Disfraz] Cuernos Rocosos"
     },
     "6S3iAQ": {
-        "en": "[Costume] Devil Whisper",
-        "pt": "[Visual] Fantasma Travesso",
-        "es": "[Disfraz] Fantasma Travieso"
+        "en-US": "[Costume] Devil Whisper",
+        "pt-BR": "[Visual] Fantasma Travesso",
+        "es-ES": "[Disfraz] Fantasma Travieso"
     },
     "6i3iAQ": {
-        "en": "[Costume] Guillotine Cross Low Pony",
-        "pt": "[Visual] Peruca Sicária Marrom",
-        "es": "[Disfraz] Peluca Sicaria Marrón"
+        "en-US": "[Costume] Guillotine Cross Low Pony",
+        "pt-BR": "[Visual] Peruca Sicária Marrom",
+        "es-ES": "[Disfraz] Peluca Sicaria Marrón"
     },
     "6y3iAQ": {
-        "en": "[Costume] Bat Stole",
-        "pt": "[Visual] Estola do Demônio",
-        "es": "[Disfraz] Estola del Demonio"
+        "en-US": "[Costume] Bat Stole",
+        "pt-BR": "[Visual] Estola do Demônio",
+        "es-ES": "[Disfraz] Estola del Demonio"
     },
     "7C3iAQ": {
-        "en": "Deviruchi Backpack",
-        "pt": "Mochila de Deviruchi",
-        "es": "Mochila de Deviruchi"
+        "en-US": "Deviruchi Backpack",
+        "pt-BR": "Mochila de Deviruchi",
+        "es-ES": "Mochila de Deviruchi"
     },
     "7S3iAQ": {
-        "en": "[Costume] Wolf Masquerade",
-        "pt": "[Visual] Lobo Mascarado",
-        "es": "[Disfraz] Mascarada de Lobo"
+        "en-US": "[Costume] Wolf Masquerade",
+        "pt-BR": "[Visual] Lobo Mascarado",
+        "es-ES": "[Disfraz] Mascarada de Lobo"
     },
     "7i3iAQ": {
-        "en": "[Costume] Golden Peony Hat",
-        "pt": "[Visual] Chapéu de Peônia Dourada",
-        "es": "[Disfraz] Sombrero de Peonía Dorada"
+        "en-US": "[Costume] Golden Peony Hat",
+        "pt-BR": "[Visual] Chapéu de Peônia Dourada",
+        "es-ES": "[Disfraz] Sombrero de Peonía Dorada"
     },
     "7y3iAQ": {
-        "en": "[Costume] Crowned Princess Ribbon",
-        "pt": "[Visual] Laço com Coroa",
-        "es": "[Disfraz] Moña de Princesa Coronada"
+        "en-US": "[Costume] Crowned Princess Ribbon",
+        "pt-BR": "[Visual] Laço com Coroa",
+        "es-ES": "[Disfraz] Moña de Princesa Coronada"
     },
     "8C3iAQ": {
-        "en": "[Costume] Lion King Crown",
-        "pt": "[Visual] Coroa do Leão Rei",
-        "es": "[Disfraz] Corona del Rey León"
+        "en-US": "[Costume] Lion King Crown",
+        "pt-BR": "[Visual] Coroa do Leão Rei",
+        "es-ES": "[Disfraz] Corona del Rey León"
     },
     "8S3iAQ": {
-        "en": "[Costume] Mini Crown",
-        "pt": "[Visual] Minicoroa",
-        "es": "[Disfraz] Mini Corona"
+        "en-US": "[Costume] Mini Crown",
+        "pt-BR": "[Visual] Minicoroa",
+        "es-ES": "[Disfraz] Mini Corona"
     },
     "8i3iAQ": {
-        "en": "[Costume] Garnet Tiara",
-        "pt": "[Visual] Tiara Adornada com Rubi",
-        "es": "[Disfraz] Tiara de Granate"
+        "en-US": "[Costume] Garnet Tiara",
+        "pt-BR": "[Visual] Tiara Adornada com Rubi",
+        "es-ES": "[Disfraz] Tiara de Granate"
     },
     "8y3iAQ": {
-        "en": "[Costume] Exploding Wave",
-        "pt": "[Visual] Fúria dos Shuras",
-        "es": "[Disfraz] Onda Explosiva"
+        "en-US": "[Costume] Exploding Wave",
+        "pt-BR": "[Visual] Fúria dos Shuras",
+        "es-ES": "[Disfraz] Onda Explosiva"
     },
     "9C3iAQ": {
-        "en": "[Costume] White Tiger",
-        "pt": "[Visual] Tigre Branco",
-        "es": "[Disfraz] Tigre Blanco"
+        "en-US": "[Costume] White Tiger",
+        "pt-BR": "[Visual] Tigre Branco",
+        "es-ES": "[Disfraz] Tigre Blanco"
     },
     "9S3iAQ": {
-        "en": "[Costume] Blue Rose Eyepatch",
-        "pt": "[Visual] Tapa-Olho Floreado",
-        "es": "[Disfraz] Parche en el Ojo de Rosa Azul"
+        "en-US": "[Costume] Blue Rose Eyepatch",
+        "pt-BR": "[Visual] Tapa-Olho Floreado",
+        "es-ES": "[Disfraz] Parche en el Ojo de Rosa Azul"
     },
     "9i3iAQ": {
-        "en": "[Costume] Twin Wave Roll Hair",
-        "pt": "[Visual] Peruca da Princesa Mestiça",
-        "es": "[Disfraz] Peinado Ola Gemela"
+        "en-US": "[Costume] Twin Wave Roll Hair",
+        "pt-BR": "[Visual] Peruca da Princesa Mestiça",
+        "es-ES": "[Disfraz] Peinado Ola Gemela"
     },
     "9y3iAQ": {
-        "en": "[Costume] Honorable Knight Cloak",
-        "pt": "[Visual] Capa de Cavaleiro",
-        "es": "[Disfraz] Capa del Caballero Honorable"
+        "en-US": "[Costume] Honorable Knight Cloak",
+        "pt-BR": "[Visual] Capa de Cavaleiro",
+        "es-ES": "[Disfraz] Capa del Caballero Honorable"
     },
     "+C3iAQ": {
-        "en": "[Costume] Wig of Nyar",
-        "pt": "[Visual] Peruca de Nyar",
-        "es": "[Disfraz] Peluca de Nyar"
+        "en-US": "[Costume] Wig of Nyar",
+        "pt-BR": "[Visual] Peruca de Nyar",
+        "es-ES": "[Disfraz] Peluca de Nyar"
     },
     "+S3iAQ": {
-        "en": "[Costume] Imperial Glory",
-        "pt": "[Visual] Ombreiras Prateadas",
-        "es": "[Disfraz] Gloria Imperial"
+        "en-US": "[Costume] Imperial Glory",
+        "pt-BR": "[Visual] Ombreiras Prateadas",
+        "es-ES": "[Disfraz] Gloria Imperial"
     },
     "+i3iAQ": {
-        "en": "[Costume] Scarlet Rose",
-        "pt": "[Visual] Rosa da Sedução",
-        "es": "[Disfraz] Rosa Escarlata"
+        "en-US": "[Costume] Scarlet Rose",
+        "pt-BR": "[Visual] Rosa da Sedução",
+        "es-ES": "[Disfraz] Rosa Escarlata"
     },
     "+y3iAQ": {
-        "en": "[Costume] Royal Scepter",
-        "pt": "[Visual] Cetro da Realeza",
-        "es": "[Disfraz] Cetro Real"
+        "en-US": "[Costume] Royal Scepter",
+        "pt-BR": "[Visual] Cetro da Realeza",
+        "es-ES": "[Disfraz] Cetro Real"
     },
     "/C3iAQ": {
-        "en": "[Costume] Christmas Tree Hat",
-        "pt": "[Visual] Árvore de Natal",
-        "es": "[Disfraz] Árbol de Navidad"
+        "en-US": "[Costume] Christmas Tree Hat",
+        "pt-BR": "[Visual] Árvore de Natal",
+        "es-ES": "[Disfraz] Árbol de Navidad"
     },
     "/S3iAQ": {
-        "en": "[Costume] Angel Marcher Hat",
-        "pt": "[Visual] Chapéu da Banda Sagrada",
-        "es": "[Disfraz] Sombrero de la Banda Sagrada"
+        "en-US": "[Costume] Angel Marcher Hat",
+        "pt-BR": "[Visual] Chapéu da Banda Sagrada",
+        "es-ES": "[Disfraz] Sombrero de la Banda Sagrada"
     },
     "/i3iAQ": {
-        "en": "[Costume] Snowysnow Hat",
-        "pt": "[Visual] Chapéu do Jack Frost",
-        "es": "[Disfraz] Sombrero de Jack Frost"
+        "en-US": "[Costume] Snowysnow Hat",
+        "pt-BR": "[Visual] Chapéu do Jack Frost",
+        "es-ES": "[Disfraz] Sombrero de Jack Frost"
     },
     "/y3iAQ": {
-        "en": "[Costume] Angel Spirit",
-        "pt": "[Visual] Espírito Angelical",
-        "es": "[Disfraz] Espíritu Angelical"
+        "en-US": "[Costume] Angel Spirit",
+        "pt-BR": "[Visual] Espírito Angelical",
+        "es-ES": "[Disfraz] Espíritu Angelical"
     },
     "AC7iAQ": {
-        "en": "[Costume] Louise Red Hat",
-        "pt": "[Visual] Chapéu da Catherine Johnson",
-        "es": "[Disfraz] Sombrero de Catherine Johnson"
+        "en-US": "[Costume] Louise Red Hat",
+        "pt-BR": "[Visual] Chapéu da Catherine Johnson",
+        "es-ES": "[Disfraz] Sombrero de Catherine Johnson"
     },
     "AS7iAQ": {
-        "en": "[Costume] Snow Bear Hood",
-        "pt": "[Visual] Touca de Urso Polar",
-        "es": "[Disfraz] Gorro de Oso Polar"
+        "en-US": "[Costume] Snow Bear Hood",
+        "pt-BR": "[Visual] Touca de Urso Polar",
+        "es-ES": "[Disfraz] Gorro de Oso Polar"
     },
     "Ai7iAQ": {
-        "en": "[Costume] Bell Ribbon",
-        "pt": "[Visual] Lacinho com Sinos",
-        "es": "[Disfraz] Moño con Campanas"
+        "en-US": "[Costume] Bell Ribbon",
+        "pt-BR": "[Visual] Lacinho com Sinos",
+        "es-ES": "[Disfraz] Moño con Campanas"
     },
     "Ay7iAQ": {
-        "en": "[Costume] Twinkling Star",
-        "pt": "[Visual] Estrelinha Lumma",
-        "es": "[Disfraz] Estrellita Lumma"
+        "en-US": "[Costume] Twinkling Star",
+        "pt-BR": "[Visual] Estrelinha Lumma",
+        "es-ES": "[Disfraz] Estrellita Lumma"
     },
     "BC7iAQ": {
-        "en": "[Costume] Baby Penguin",
-        "pt": "[Visual] Pequeno Pinguim",
-        "es": "[Disfraz] Pequeño Pingüino"
+        "en-US": "[Costume] Baby Penguin",
+        "pt-BR": "[Visual] Pequeno Pinguim",
+        "es-ES": "[Disfraz] Pequeño Pingüino"
     },
     "BS7iAQ": {
-        "en": "[Costume] Ice Wing Ears",
-        "pt": "[Visual] Asinhas do Inverno",
-        "es": "[Disfraz] Alas de Invierno"
+        "en-US": "[Costume] Ice Wing Ears",
+        "pt-BR": "[Visual] Asinhas do Inverno",
+        "es-ES": "[Disfraz] Alas de Invierno"
     },
     "Bi7iAQ": {
-        "en": "[Costume] Chilly Breath",
-        "pt": "[Visual] Hálito Gelado",
-        "es": "[Disfraz] Aliento Helado"
+        "en-US": "[Costume] Chilly Breath",
+        "pt-BR": "[Visual] Hálito Gelado",
+        "es-ES": "[Disfraz] Aliento Helado"
     },
     "By7iAQ": {
-        "en": "[Costume] Stall Of Angel",
-        "pt": "[Visual] Estola Angelical",
-        "es": "[Disfraz] Estola Angelical"
+        "en-US": "[Costume] Stall Of Angel",
+        "pt-BR": "[Visual] Estola Angelical",
+        "es-ES": "[Disfraz] Estola Angelical"
     },
     "CC7iAQ": {
-        "en": "[Costume] Ice Tails",
-        "pt": "[Visual] Peruca da Princesa do Gelo",
-        "es": "[Disfraz] Peluca de la Princesa de Hielo"
+        "en-US": "[Costume] Ice Tails",
+        "pt-BR": "[Visual] Peruca da Princesa do Gelo",
+        "es-ES": "[Disfraz] Peluca de la Princesa de Hielo"
     },
     "CS7iAQ": {
-        "en": "[Costume] Back Ribbon Bell",
-        "pt": "[Visual] Sino Espalhafatoso",
-        "es": "[Disfraz] Campana Llamativa"
+        "en-US": "[Costume] Back Ribbon Bell",
+        "pt-BR": "[Visual] Sino Espalhafatoso",
+        "es-ES": "[Disfraz] Campana Llamativa"
     },
     "Ci7iAQ": {
-        "en": "[Costume] Snow Powder",
-        "pt": "[Visual] Aura Nevada",
-        "es": "[Disfraz] Aura Nevada"
+        "en-US": "[Costume] Snow Powder",
+        "pt-BR": "[Visual] Aura Nevada",
+        "es-ES": "[Disfraz] Aura Nevada"
     },
     "Cy7iAQ": {
-        "en": "[Costume] Blue Beach Hat",
-        "pt": "[Visual] Chapéu de Praia Azul",
-        "es": "[Disfraz] Sombrero de Playa Azul"
+        "en-US": "[Costume] Blue Beach Hat",
+        "pt-BR": "[Visual] Chapéu de Praia Azul",
+        "es-ES": "[Disfraz] Sombrero de Playa Azul"
     },
     "DC7iAQ": {
-        "en": "[Costume] Beach Ball",
-        "pt": "[Visual] Bola de Praia",
-        "es": "[Disfraz] Pelota de Playa"
+        "en-US": "[Costume] Beach Ball",
+        "pt-BR": "[Visual] Bola de Praia",
+        "es-ES": "[Disfraz] Pelota de Playa"
     },
     "DS7iAQ": {
-        "en": "[Costume] Summer Sunglasses",
-        "pt": "[Visual] Óculos Veraneio",
-        "es": "[Disfraz] Gafas de Verano"
+        "en-US": "[Costume] Summer Sunglasses",
+        "pt-BR": "[Visual] Óculos Veraneio",
+        "es-ES": "[Disfraz] Gafas de Verano"
     },
     "Di7iAQ": {
-        "en": "[Costume] White Tiger Glasses",
-        "pt": "[Visual] Óculos do Tigre Branco",
-        "es": "[Disfraz] Gafas del Tigre Blanco"
+        "en-US": "[Costume] White Tiger Glasses",
+        "pt-BR": "[Visual] Óculos do Tigre Branco",
+        "es-ES": "[Disfraz] Gafas del Tigre Blanco"
     },
     "Dy7iAQ": {
-        "en": "[Costume] Yellow Bandana",
-        "pt": "[Visual] Bandana Amarelada",
-        "es": "[Disfraz] Bandana Amarillenta"
+        "en-US": "[Costume] Yellow Bandana",
+        "pt-BR": "[Visual] Bandana Amarelada",
+        "es-ES": "[Disfraz] Bandana Amarillenta"
     },
     "EC7iAQ": {
-        "en": "[Costume] Braided Chocolate Wig",
-        "pt": "[Visual] Peruca Trançada de Chocolate",
-        "es": "[Disfraz] Peluca Trenzada de Chocolate"
+        "en-US": "[Costume] Braided Chocolate Wig",
+        "pt-BR": "[Visual] Peruca Trançada de Chocolate",
+        "es-ES": "[Disfraz] Peluca Trenzada de Chocolate"
     },
     "ES7iAQ": {
-        "en": "[Costume] ArchAngeling Tiara",
-        "pt": "[Visual] Tiara dos ArchAngeling",
-        "es": "[Disfraz] Tiara de los ArchAngeling"
+        "en-US": "[Costume] ArchAngeling Tiara",
+        "pt-BR": "[Visual] Tiara dos ArchAngeling",
+        "es-ES": "[Disfraz] Tiara de los ArchAngeling"
     },
     "Ei7iAQ": {
-        "en": "[Costume] Solar Prominence",
-        "pt": "[Visual] Proeminência Solar",
-        "es": "[Disfraz] Protuberancia Solar"
+        "en-US": "[Costume] Solar Prominence",
+        "pt-BR": "[Visual] Proeminência Solar",
+        "es-ES": "[Disfraz] Protuberancia Solar"
     },
     "Ey7iAQ": {
-        "en": "[Costume] Brother Keen Eye",
-        "pt": "[Visual] Óculos Sensuais",
-        "es": "[Disfraz] Gafas Sensuales"
+        "en-US": "[Costume] Brother Keen Eye",
+        "pt-BR": "[Visual] Óculos Sensuais",
+        "es-ES": "[Disfraz] Gafas Sensuales"
     },
     "FC7iAQ": {
-        "en": "[Costume] Fishbone Hair",
-        "pt": "[Visual] Peruca de Sereia",
-        "es": "[Disfraz] Peluca de Sirena"
+        "en-US": "[Costume] Fishbone Hair",
+        "pt-BR": "[Visual] Peruca de Sereia",
+        "es-ES": "[Disfraz] Peluca de Sirena"
     },
     "FS7iAQ": {
-        "en": "[Costume] Flame Scarf",
-        "pt": "[Visual] Cachecol em Chamas",
-        "es": "[Disfraz] Bufanda en Llamas"
+        "en-US": "[Costume] Flame Scarf",
+        "pt-BR": "[Visual] Cachecol em Chamas",
+        "es-ES": "[Disfraz] Bufanda en Llamas"
     },
     "Fi7iAQ": {
-        "en": "[Costume] Blueberry Popsicle",
-        "pt": "[Visual] Picolé de Mirtilo",
-        "es": "[Disfraz] Paleta de Arándano"
+        "en-US": "[Costume] Blueberry Popsicle",
+        "pt-BR": "[Visual] Picolé de Mirtilo",
+        "es-ES": "[Disfraz] Paleta de Arándano"
     },
     "Fy7iAQ": {
-        "en": "[Costume] Summer Sensation",
-        "pt": "[Visual] Sensação de Verão",
-        "es": "[Disfraz] Sensación de Verano"
+        "en-US": "[Costume] Summer Sensation",
+        "pt-BR": "[Visual] Sensação de Verão",
+        "es-ES": "[Disfraz] Sensación de Verano"
     },
     "GC7iAQ": {
-        "en": "[Costume] Poring Float",
-        "pt": "[Visual] Boia de Poring",
-        "es": "[Disfraz] Flotador de Poring"
+        "en-US": "[Costume] Poring Float",
+        "pt-BR": "[Visual] Boia de Poring",
+        "es-ES": "[Disfraz] Flotador de Poring"
     },
     "GS7iAQ": {
-        "en": "[Costume] Hunting Net",
-        "pt": "[Visual] Rede de Caça",
-        "es": "[Disfraz] Red de Caza"
+        "en-US": "[Costume] Hunting Net",
+        "pt-BR": "[Visual] Rede de Caça",
+        "es-ES": "[Disfraz] Red de Caza"
     },
     "Gi7iAQ": {
-        "en": "[Costume] Chung E Shinyon Cap",
-        "pt": "[Visual] Bao-Bao da Chung E",
-        "es": "[Disfraz] Bao-Bao de Chung E"
+        "en-US": "[Costume] Chung E Shinyon Cap",
+        "pt-BR": "[Visual] Bao-Bao da Chung E",
+        "es-ES": "[Disfraz] Bao-Bao de Chung E"
     },
     "Gy7iAQ": {
-        "en": "[Costume] Necromancer's Hood",
-        "pt": "[Visual] Capuz do Necromante",
-        "es": "[Disfraz] Capucha del Nigromante"
+        "en-US": "[Costume] Necromancer's Hood",
+        "pt-BR": "[Visual] Capuz do Necromante",
+        "es-ES": "[Disfraz] Capucha del Nigromante"
     },
     "HC7iAQ": {
-        "en": "[Costume] Experimental Goat Cap",
-        "pt": "[Visual] Amstir Cobaia",
-        "es": "[Disfraz] Cobaya Amstir"
+        "en-US": "[Costume] Experimental Goat Cap",
+        "pt-BR": "[Visual] Amstir Cobaia",
+        "es-ES": "[Disfraz] Cobaya Amstir"
     },
     "HS7iAQ": {
-        "en": "[Costume] Drooping Baby Desert Wolf",
-        "pt": "[Visual] Boneco de Filhote de Lobo",
-        "es": "[Disfraz] Muñeco de Bebé Lobo"
+        "en-US": "[Costume] Drooping Baby Desert Wolf",
+        "pt-BR": "[Visual] Boneco de Filhote de Lobo",
+        "es-ES": "[Disfraz] Muñeco de Bebé Lobo"
     },
     "Hi7iAQ": {
-        "en": "[Costume] Gryphon Hat",
-        "pt": "[Visual] Bebê Grifo",
-        "es": "[Disfraz] Bebé Grifo"
+        "en-US": "[Costume] Gryphon Hat",
+        "pt-BR": "[Visual] Bebê Grifo",
+        "es-ES": "[Disfraz] Bebé Grifo"
     },
     "Hy7iAQ": {
-        "en": "[Costume] Queen Scaraba Crown",
-        "pt": "[Visual] Coroa da Rainha Scaraba",
-        "es": "[Disfraz] Corona de la Reina Scaraba"
+        "en-US": "[Costume] Queen Scaraba Crown",
+        "pt-BR": "[Visual] Coroa da Rainha Scaraba",
+        "es-ES": "[Disfraz] Corona de la Reina Scaraba"
     },
     "IC7iAQ": {
-        "en": "[Costume] Deviruchi Apron",
-        "pt": "[Visual] Avental de Deviruchi",
-        "es": "[Disfraz] Delantal de Deviruchi"
+        "en-US": "[Costume] Deviruchi Apron",
+        "pt-BR": "[Visual] Avental de Deviruchi",
+        "es-ES": "[Disfraz] Delantal de Deviruchi"
     },
     "IS7iAQ": {
-        "en": "[Costume] Wonder Egg Basket",
-        "pt": "[Visual] Cesta de Ovos Coloridos",
-        "es": "[Disfraz] Canasta de Huevos de Colores"
+        "en-US": "[Costume] Wonder Egg Basket",
+        "pt-BR": "[Visual] Cesta de Ovos Coloridos",
+        "es-ES": "[Disfraz] Canasta de Huevos de Colores"
     },
     "Ii7iAQ": {
-        "en": "[Costume] Maero Disguise",
-        "pt": "[Visual] Disfarce de Maero",
-        "es": "[Disfraz] Mascarita de Maero"
+        "en-US": "[Costume] Maero Disguise",
+        "pt-BR": "[Visual] Disfarce de Maero",
+        "es-ES": "[Disfraz] Mascarita de Maero"
     },
     "Iy7iAQ": {
-        "en": "[Costume] Helm of the Dead",
-        "pt": "[Visual] Elmo do Senhor da Morte",
-        "es": "[Disfraz] Yelmo del Señor de los Muertos"
+        "en-US": "[Costume] Helm of the Dead",
+        "pt-BR": "[Visual] Elmo do Senhor da Morte",
+        "es-ES": "[Disfraz] Yelmo del Señor de los Muertos"
     },
     "JC7iAQ": {
-        "en": "[Costume] Wood Goblin Nose",
-        "pt": "[Visual] Nariz de Galho",
-        "es": "[Disfraz] Nariz de Madera"
+        "en-US": "[Costume] Wood Goblin Nose",
+        "pt-BR": "[Visual] Nariz de Galho",
+        "es-ES": "[Disfraz] Nariz de Madera"
     },
     "JS7iAQ": {
-        "en": "[Costume] Face Crasher",
-        "pt": "[Visual] Torta de Baunilha",
-        "es": "[Disfraz] Pastel de Vainilla"
+        "en-US": "[Costume] Face Crasher",
+        "pt-BR": "[Visual] Torta de Baunilha",
+        "es-ES": "[Disfraz] Pastel de Vainilla"
     },
     "Ji7iAQ": {
-        "en": "[Costume] Shadowbender",
-        "pt": "[Visual] Dobra das Trevas",
-        "es": "[Disfraz] Aura de la Oscuridad"
+        "en-US": "[Costume] Shadowbender",
+        "pt-BR": "[Visual] Dobra das Trevas",
+        "es-ES": "[Disfraz] Aura de la Oscuridad"
     },
     "Jy7iAQ": {
-        "en": "[Costume] Valkyrie Randgris Wig",
-        "pt": "[Visual] Peruca da Valquíria Randgris",
-        "es": "[Disfraz] Peluca de la Valquiria Randgris"
+        "en-US": "[Costume] Valkyrie Randgris Wig",
+        "pt-BR": "[Visual] Peruca da Valquíria Randgris",
+        "es-ES": "[Disfraz] Peluca de la Valquiria Randgris"
     },
     "KC7iAQ": {
-        "en": "[Costume] Baphomet's Scythe",
-        "pt": "[Visual] Foice de Bafomé",
-        "es": "[Disfraz] Guadaña de Baphomet"
+        "en-US": "[Costume] Baphomet's Scythe",
+        "pt-BR": "[Visual] Foice de Bafomé",
+        "es-ES": "[Disfraz] Guadaña de Baphomet"
     },
     "KS7iAQ": {
-        "en": "^nItemID^31176",
-        "pt": "^nItemID^31176",
-        "es": "^nItemID^31176"
+        "en-US": "^nItemID^31176",
+        "pt-BR": "^nItemID^31176",
+        "es-ES": "^nItemID^31176"
     },
     "Ki7iAQ": {
-        "en": "^nItemID^400793",
-        "pt": "^nItemID^400793",
-        "es": "^nItemID^400793"
+        "en-US": "^nItemID^400793",
+        "pt-BR": "^nItemID^400793",
+        "es-ES": "^nItemID^400793"
     },
     "Ky7iAQ": {
-        "en": "^nItemID^31188",
-        "pt": "^nItemID^31188",
-        "es": "^nItemID^31188"
+        "en-US": "^nItemID^31188",
+        "pt-BR": "^nItemID^31188",
+        "es-ES": "^nItemID^31188"
     },
     "LC7iAQ": {
-        "en": "^nItemID^19883",
-        "pt": "^nItemID^19883",
-        "es": "^nItemID^19883"
+        "en-US": "^nItemID^19883",
+        "pt-BR": "^nItemID^19883",
+        "es-ES": "^nItemID^19883"
     },
     "LS7iAQ": {
-        "en": "^nItemID^20046",
-        "pt": "^nItemID^20046",
-        "es": "^nItemID^20046"
+        "en-US": "^nItemID^20046",
+        "pt-BR": "^nItemID^20046",
+        "es-ES": "^nItemID^20046"
     },
     "Li7iAQ": {
-        "en": "^nItemID^400254",
-        "pt": "^nItemID^400254",
-        "es": "^nItemID^400254"
+        "en-US": "^nItemID^400254",
+        "pt-BR": "^nItemID^400254",
+        "es-ES": "^nItemID^400254"
     },
     "Ly7iAQ": {
-        "en": "^nItemID^31313",
-        "pt": "^nItemID^31313",
-        "es": "^nItemID^31313"
+        "en-US": "^nItemID^31313",
+        "pt-BR": "^nItemID^31313",
+        "es-ES": "^nItemID^31313"
     },
     "MC7iAQ": {
-        "en": "^nItemID^410396",
-        "pt": "^nItemID^410396",
-        "es": "^nItemID^410396"
+        "en-US": "^nItemID^410396",
+        "pt-BR": "^nItemID^410396",
+        "es-ES": "^nItemID^410396"
     },
     "MS7iAQ": {
-        "en": "^nItemID^31302",
-        "pt": "^nItemID^31302",
-        "es": "^nItemID^31302"
+        "en-US": "^nItemID^31302",
+        "pt-BR": "^nItemID^31302",
+        "es-ES": "^nItemID^31302"
     },
     "Mi7iAQ": {
-        "en": "^nItemID^410108",
-        "pt": "^nItemID^410108",
-        "es": "^nItemID^410108"
+        "en-US": "^nItemID^410108",
+        "pt-BR": "^nItemID^410108",
+        "es-ES": "^nItemID^410108"
     },
     "My7iAQ": {
-        "en": "^nItemID^31670",
-        "pt": "^nItemID^31670",
-        "es": "^nItemID^31670"
+        "en-US": "^nItemID^31670",
+        "pt-BR": "^nItemID^31670",
+        "es-ES": "^nItemID^31670"
     },
     "NC7iAQ": {
-        "en": "^nItemID^420570",
-        "pt": "^nItemID^420570",
-        "es": "^nItemID^420570"
+        "en-US": "^nItemID^420570",
+        "pt-BR": "^nItemID^420570",
+        "es-ES": "^nItemID^420570"
     },
     "NS7iAQ": {
-        "en": "^nItemID^31330",
-        "pt": "^nItemID^31330",
-        "es": "^nItemID^31330"
+        "en-US": "^nItemID^31330",
+        "pt-BR": "^nItemID^31330",
+        "es-ES": "^nItemID^31330"
     },
     "Ni7iAQ": {
-        "en": "^nItemID^480460",
-        "pt": "^nItemID^480460",
-        "es": "^nItemID^480460"
+        "en-US": "^nItemID^480460",
+        "pt-BR": "^nItemID^480460",
+        "es-ES": "^nItemID^480460"
     },
     "Ny7iAQ": {
-        "en": "^nItemID^480176",
-        "pt": "^nItemID^480176",
-        "es": "^nItemID^480176"
+        "en-US": "^nItemID^480176",
+        "pt-BR": "^nItemID^480176",
+        "es-ES": "^nItemID^480176"
     },
     "OC7iAQ": {
-        "en": "^nItemID^400225",
-        "pt": "^nItemID^400225",
-        "es": "^nItemID^400225"
+        "en-US": "^nItemID^400225",
+        "pt-BR": "^nItemID^400225",
+        "es-ES": "^nItemID^400225"
     },
     "OS7iAQ": {
-        "en": "^nItemID^400183",
-        "pt": "^nItemID^400183",
-        "es": "^nItemID^400183"
+        "en-US": "^nItemID^400183",
+        "pt-BR": "^nItemID^400183",
+        "es-ES": "^nItemID^400183"
     },
     "Oi7iAQ": {
-        "en": "^nItemID^20257",
-        "pt": "^nItemID^20257",
-        "es": "^nItemID^20257"
+        "en-US": "^nItemID^20257",
+        "pt-BR": "^nItemID^20257",
+        "es-ES": "^nItemID^20257"
     },
     "Oy7iAQ": {
-        "en": "^nItemID^20241",
-        "pt": "^nItemID^20241",
-        "es": "^nItemID^20241"
+        "en-US": "^nItemID^20241",
+        "pt-BR": "^nItemID^20241",
+        "es-ES": "^nItemID^20241"
     },
     "PC7iAQ": {
-        "en": "^nItemID^31815",
-        "pt": "^nItemID^31815",
-        "es": "^nItemID^31815"
+        "en-US": "^nItemID^31815",
+        "pt-BR": "^nItemID^31815",
+        "es-ES": "^nItemID^31815"
     },
     "PS7iAQ": {
-        "en": "^nItemID^31576",
-        "pt": "^nItemID^31576",
-        "es": "^nItemID^31576"
+        "en-US": "^nItemID^31576",
+        "pt-BR": "^nItemID^31576",
+        "es-ES": "^nItemID^31576"
     },
     "Pi7iAQ": {
-        "en": "^nItemID^31201",
-        "pt": "^nItemID^31201",
-        "es": "^nItemID^31201"
+        "en-US": "^nItemID^31201",
+        "pt-BR": "^nItemID^31201",
+        "es-ES": "^nItemID^31201"
     },
     "Py7iAQ": {
-        "en": "^nItemID^410200",
-        "pt": "^nItemID^410200",
-        "es": "^nItemID^410200"
+        "en-US": "^nItemID^410200",
+        "pt-BR": "^nItemID^410200",
+        "es-ES": "^nItemID^410200"
     },
     "QC7iAQ": {
-        "en": "^nItemID^410219",
-        "pt": "^nItemID^410219",
-        "es": "^nItemID^410219"
+        "en-US": "^nItemID^410219",
+        "pt-BR": "^nItemID^410219",
+        "es-ES": "^nItemID^410219"
     },
     "QS7iAQ": {
-        "en": "^nItemID^410226",
-        "pt": "^nItemID^410226",
-        "es": "^nItemID^410226"
+        "en-US": "^nItemID^410226",
+        "pt-BR": "^nItemID^410226",
+        "es-ES": "^nItemID^410226"
     },
     "Qi7iAQ": {
-        "en": "^nItemID^410157",
-        "pt": "^nItemID^410157",
-        "es": "^nItemID^410157"
+        "en-US": "^nItemID^410157",
+        "pt-BR": "^nItemID^410157",
+        "es-ES": "^nItemID^410157"
     },
     "Qy7iAQ": {
-        "en": "^nItemID^31816",
-        "pt": "^nItemID^31816",
-        "es": "^nItemID^31816"
+        "en-US": "^nItemID^31816",
+        "pt-BR": "^nItemID^31816",
+        "es-ES": "^nItemID^31816"
     },
     "RC7iAQ": {
-        "en": "^nItemID^420067",
-        "pt": "^nItemID^420067",
-        "es": "^nItemID^420067"
+        "en-US": "^nItemID^420067",
+        "pt-BR": "^nItemID^420067",
+        "es-ES": "^nItemID^420067"
     },
     "RS7iAQ": {
-        "en": "^nItemID^31693",
-        "pt": "^nItemID^31693",
-        "es": "^nItemID^31693"
+        "en-US": "^nItemID^31693",
+        "pt-BR": "^nItemID^31693",
+        "es-ES": "^nItemID^31693"
     },
     "Ri7iAQ": {
-        "en": "^nItemID^480472",
-        "pt": "^nItemID^480472",
-        "es": "^nItemID^480472"
+        "en-US": "^nItemID^480472",
+        "pt-BR": "^nItemID^480472",
+        "es-ES": "^nItemID^480472"
     },
     "Ry7iAQ": {
-        "en": "^nItemID^19690",
-        "pt": "^nItemID^19690",
-        "es": "^nItemID^19690"
+        "en-US": "^nItemID^19690",
+        "pt-BR": "^nItemID^19690",
+        "es-ES": "^nItemID^19690"
     },
     "SC7iAQ": {
-        "en": "^nItemID^19805",
-        "pt": "^nItemID^19805",
-        "es": "^nItemID^19805"
+        "en-US": "^nItemID^19805",
+        "pt-BR": "^nItemID^19805",
+        "es-ES": "^nItemID^19805"
     },
     "SS7iAQ": {
-        "en": "^nItemID^19807",
-        "pt": "^nItemID^19807",
-        "es": "^nItemID^19807"
+        "en-US": "^nItemID^19807",
+        "pt-BR": "^nItemID^19807",
+        "es-ES": "^nItemID^19807"
     },
     "Si7iAQ": {
-        "en": "^nItemID^31403",
-        "pt": "^nItemID^31403",
-        "es": "^nItemID^31403"
+        "en-US": "^nItemID^31403",
+        "pt-BR": "^nItemID^31403",
+        "es-ES": "^nItemID^31403"
     },
     "Sy7iAQ": {
-        "en": "^nItemID^31735",
-        "pt": "^nItemID^31735",
-        "es": "^nItemID^31735"
+        "en-US": "^nItemID^31735",
+        "pt-BR": "^nItemID^31735",
+        "es-ES": "^nItemID^31735"
     },
     "TC7iAQ": {
-        "en": "^nItemID^400343",
-        "pt": "^nItemID^400343",
-        "es": "^nItemID^400343"
+        "en-US": "^nItemID^400343",
+        "pt-BR": "^nItemID^400343",
+        "es-ES": "^nItemID^400343"
     },
     "TS7iAQ": {
-        "en": "^nItemID^400495",
-        "pt": "^nItemID^400495",
-        "es": "^nItemID^400495"
+        "en-US": "^nItemID^400495",
+        "pt-BR": "^nItemID^400495",
+        "es-ES": "^nItemID^400495"
     },
     "Ti7iAQ": {
-        "en": "^nItemID^410194",
-        "pt": "^nItemID^410194",
-        "es": "^nItemID^410194"
+        "en-US": "^nItemID^410194",
+        "pt-BR": "^nItemID^410194",
+        "es-ES": "^nItemID^410194"
     },
     "Ty7iAQ": {
-        "en": "^nItemID^410429",
-        "pt": "^nItemID^410429",
-        "es": "^nItemID^410429"
+        "en-US": "^nItemID^410429",
+        "pt-BR": "^nItemID^410429",
+        "es-ES": "^nItemID^410429"
     },
     "UC7iAQ": {
-        "en": "^nItemID^420014",
-        "pt": "^nItemID^420014",
-        "es": "^nItemID^420014"
+        "en-US": "^nItemID^420014",
+        "pt-BR": "^nItemID^420014",
+        "es-ES": "^nItemID^420014"
     },
     "US7iAQ": {
-        "en": "^nItemID^420016",
-        "pt": "^nItemID^420016",
-        "es": "^nItemID^420016"
+        "en-US": "^nItemID^420016",
+        "pt-BR": "^nItemID^420016",
+        "es-ES": "^nItemID^420016"
     },
     "Ui7iAQ": {
-        "en": "^nItemID^480221",
-        "pt": "^nItemID^480221",
-        "es": "^nItemID^480221"
+        "en-US": "^nItemID^480221",
+        "pt-BR": "^nItemID^480221",
+        "es-ES": "^nItemID^480221"
     },
     "Uy7iAQ": {
-        "en": "^nItemID^480223",
-        "pt": "^nItemID^480223",
-        "es": "^nItemID^480223"
+        "en-US": "^nItemID^480223",
+        "pt-BR": "^nItemID^480223",
+        "es-ES": "^nItemID^480223"
     },
     "VC7iAQ": {
-        "en": "^nItemID^480360",
-        "pt": "^nItemID^480360",
-        "es": "^nItemID^480360"
+        "en-US": "^nItemID^480360",
+        "pt-BR": "^nItemID^480360",
+        "es-ES": "^nItemID^480360"
     },
     "VS7iAQ": {
-        "en": "^nItemID^31415",
-        "pt": "^nItemID^31415",
-        "es": "^nItemID^31415"
+        "en-US": "^nItemID^31415",
+        "pt-BR": "^nItemID^31415",
+        "es-ES": "^nItemID^31415"
     },
     "Vi7iAQ": {
-        "en": "^nItemID^480167",
-        "pt": "^nItemID^480167",
-        "es": "^nItemID^480167"
+        "en-US": "^nItemID^480167",
+        "pt-BR": "^nItemID^480167",
+        "es-ES": "^nItemID^480167"
     },
     "Vy7iAQ": {
-        "en": "^nItemID^20570",
-        "pt": "^nItemID^20570",
-        "es": "^nItemID^20570"
+        "en-US": "^nItemID^20570",
+        "pt-BR": "^nItemID^20570",
+        "es-ES": "^nItemID^20570"
     },
     "WC7iAQ": {
-        "en": "^nItemID^420088",
-        "pt": "^nItemID^420088",
-        "es": "^nItemID^420088"
+        "en-US": "^nItemID^420088",
+        "pt-BR": "^nItemID^420088",
+        "es-ES": "^nItemID^420088"
     },
     "WS7iAQ": {
-        "en": "^nItemID^31538",
-        "pt": "^nItemID^31538",
-        "es": "^nItemID^31538"
+        "en-US": "^nItemID^31538",
+        "pt-BR": "^nItemID^31538",
+        "es-ES": "^nItemID^31538"
     },
     "Wi7iAQ": {
-        "en": "^nItemID^420207",
-        "pt": "^nItemID^420207",
-        "es": "^nItemID^420207"
+        "en-US": "^nItemID^420207",
+        "pt-BR": "^nItemID^420207",
+        "es-ES": "^nItemID^420207"
     },
     "Wy7iAQ": {
-        "en": "^nItemID^31624",
-        "pt": "^nItemID^31624",
-        "es": "^nItemID^31624"
+        "en-US": "^nItemID^31624",
+        "pt-BR": "^nItemID^31624",
+        "es-ES": "^nItemID^31624"
     },
     "XC7iAQ": {
-        "en": "^nItemID^20255",
-        "pt": "^nItemID^20255",
-        "es": "^nItemID^20255"
+        "en-US": "^nItemID^20255",
+        "pt-BR": "^nItemID^20255",
+        "es-ES": "^nItemID^20255"
     },
     "XS7iAQ": {
-        "en": "^nItemID^31535",
-        "pt": "^nItemID^31535",
-        "es": "^nItemID^31535"
+        "en-US": "^nItemID^31535",
+        "pt-BR": "^nItemID^31535",
+        "es-ES": "^nItemID^31535"
     },
     "Xi7iAQ": {
-        "en": "^nItemID^19762",
-        "pt": "^nItemID^19762",
-        "es": "^nItemID^19762"
+        "en-US": "^nItemID^19762",
+        "pt-BR": "^nItemID^19762",
+        "es-ES": "^nItemID^19762"
     },
     "Xy7iAQ": {
-        "en": "^nItemID^31483",
-        "pt": "^nItemID^31483",
-        "es": "^nItemID^31483"
+        "en-US": "^nItemID^31483",
+        "pt-BR": "^nItemID^31483",
+        "es-ES": "^nItemID^31483"
     },
     "YC7iAQ": {
-        "en": "^nItemID^400730",
-        "pt": "^nItemID^400730",
-        "es": "^nItemID^400730"
+        "en-US": "^nItemID^400730",
+        "pt-BR": "^nItemID^400730",
+        "es-ES": "^nItemID^400730"
     },
     "YS7iAQ": {
-        "en": "^nItemID^19512",
-        "pt": "^nItemID^19512",
-        "es": "^nItemID^19512"
+        "en-US": "^nItemID^19512",
+        "pt-BR": "^nItemID^19512",
+        "es-ES": "^nItemID^19512"
     },
     "Yi7iAQ": {
-        "en": "^nItemID^31424",
-        "pt": "^nItemID^31424",
-        "es": "^nItemID^31424"
+        "en-US": "^nItemID^31424",
+        "pt-BR": "^nItemID^31424",
+        "es-ES": "^nItemID^31424"
     },
     "Yy7iAQ": {
-        "en": "^nItemID^31439",
-        "pt": "^nItemID^31439",
-        "es": "^nItemID^31439"
+        "en-US": "^nItemID^31439",
+        "pt-BR": "^nItemID^31439",
+        "es-ES": "^nItemID^31439"
     },
     "ZC7iAQ": {
-        "en": "^nItemID^20022",
-        "pt": "^nItemID^20022",
-        "es": "^nItemID^20022"
+        "en-US": "^nItemID^20022",
+        "pt-BR": "^nItemID^20022",
+        "es-ES": "^nItemID^20022"
     }
 }

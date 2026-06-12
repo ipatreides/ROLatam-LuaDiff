@@ -1,27 +1,27 @@
 {
     "gKgSAQ": {
-        "en": "^3355FFThe temple's\nentrance is locked.^000000",
-        "pt": "^3355FFA entrada do templo está trancada.^000000",
-        "es": "^3355FFLa entrada del\ntemplo está cerrada.^000000"
+        "en-US": "^3355FFThe temple's\nentrance is locked.^000000",
+        "pt-BR": "^3355FFA entrada do templo está trancada.^000000",
+        "es-ES": "^3355FFLa entrada del\ntemplo está cerrada.^000000"
     },
     "gagSAQ": {
-        "en": "Kick Door",
-        "pt": "Chutar a Porta",
-        "es": "Patear puerta."
+        "en-US": "Kick Door",
+        "pt-BR": "Chutar a Porta",
+        "es-ES": "Patear puerta."
     },
     "gqgSAQ": {
-        "en": "Smash Door with Weapon",
-        "pt": "Destruir a Porta com uma Arma",
-        "es": "Golpear puerta con arma."
+        "en-US": "Smash Door with Weapon",
+        "pt-BR": "Destruir a Porta com uma Arma",
+        "es-ES": "Golpear puerta con arma."
     },
     "g6gSAQ": {
-        "en": "[Priestess Nemma]\nPlease don't do that!",
-        "pt": "[Sacerdotisa Nemma]\nPor favor, não faça isso!",
-        "es": "[Sacerdotisa Nemma]\n¡No hagas eso!"
+        "en-US": "[Priestess Nemma]\nPlease don't do that!",
+        "pt-BR": "[Sacerdotisa Nemma]\nPor favor, não faça isso!",
+        "es-ES": "[Sacerdotisa Nemma]\n¡No hagas eso!"
     },
     "hKgSAQ": {
-        "en": "[Priestess Nema]\nPlease don't do that!",
-        "pt": "[Sacerdotisa Nemma]\nPor favor, não faça isso!",
-        "es": "[Sacerdotisa Nemma]\n¡No hagas eso!"
+        "en-US": "[Priestess Nema]\nPlease don't do that!",
+        "pt-BR": "[Sacerdotisa Nemma]\nPor favor, não faça isso!",
+        "es-ES": "[Sacerdotisa Nemma]\n¡No hagas eso!"
     }
 }

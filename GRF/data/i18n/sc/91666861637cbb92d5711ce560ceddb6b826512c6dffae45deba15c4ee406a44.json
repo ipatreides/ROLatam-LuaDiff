@@ -1,27 +1,27 @@
 {
     "QNlYAQ": {
-        "en": "Tool Dealer",
-        "pt": "Comerciante de Ferramentas",
-        "es": "Distribuidor de herramientas"
+        "en-US": "Tool Dealer",
+        "pt-BR": "Comerciante de Ferramentas",
+        "es-ES": "Distribuidor de herramientas"
     },
     "QdlYAQ": {
-        "en": "Armor Dealer",
-        "pt": "Comerciante de Armaduras",
-        "es": "Distribuidor de armaduras"
+        "en-US": "Armor Dealer",
+        "pt-BR": "Comerciante de Armaduras",
+        "es-ES": "Distribuidor de armaduras"
     },
     "QtlYAQ": {
-        "en": "Weapon Dealer",
-        "pt": "Comerciante de Armas",
-        "es": "Distribuidor de armas"
+        "en-US": "Weapon Dealer",
+        "pt-BR": "Comerciante de Armas",
+        "es-ES": "Distribuidor de armas"
     },
     "Q9lYAQ": {
-        "en": "Fruit Gardener",
-        "pt": "Comerciante de Frutas",
-        "es": "Jardinero frutero"
+        "en-US": "Fruit Gardener",
+        "pt-BR": "Comerciante de Frutas",
+        "es-ES": "Jardinero frutero"
     },
     "RNlYAQ": {
-        "en": "Vendor from Milk Ranch",
-        "pt": "Comerciante de Leite",
-        "es": "Vendedor de Milk Ranch"
+        "en-US": "Vendor from Milk Ranch",
+        "pt-BR": "Comerciante de Leite",
+        "es-ES": "Vendedor de Milk Ranch"
     }
 }

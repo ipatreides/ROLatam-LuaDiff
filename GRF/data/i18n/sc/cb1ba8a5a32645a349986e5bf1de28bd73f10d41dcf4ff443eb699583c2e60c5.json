@@ -1,380 +1,380 @@
 {
     "AKiWDA": {
-        "ko": "Merde",
-        "en": "Ascundaiga",
-        "pt": "Ascundaiga",
-        "es": "Ascundaiga"
+        "ko-KR": "Merde",
+        "en-US": "Ascundaiga",
+        "pt-BR": "Ascundaiga",
+        "es-ES": "Ascundaiga"
     },
     "AaiWDA": {
-        "ko": "- 진행할 수 없습니다 -",
-        "en": "- Cannot proceed -",
-        "pt": "- Não é possível prosseguir -",
-        "es": "- No se puede proceder -"
+        "ko-KR": "- 진행할 수 없습니다 -",
+        "en-US": "- Cannot proceed -",
+        "pt-BR": "- Não é possível prosseguir -",
+        "es-ES": "- No se puede proceder -"
     },
     "AqiWDA": {
-        "ko": "[Merde]\n안녕하세요. 무엇을 도와드릴까요??",
-        "en": "[Ascundaiga]\nHello. What can I help you with?",
-        "pt": "[Ascundaiga]\nOlá. Como posso ajudá-lo?",
-        "es": "[Ascundaiga]\nHola. ¿Cómo puedo ayudarte?"
+        "ko-KR": "[Merde]\n안녕하세요. 무엇을 도와드릴까요??",
+        "en-US": "[Ascundaiga]\nHello. What can I help you with?",
+        "pt-BR": "[Ascundaiga]\nOlá. Como posso ajudá-lo?",
+        "es-ES": "[Ascundaiga]\nHola. ¿Cómo puedo ayudarte?"
     },
     "A6iWDA": {
-        "ko": "[Merde]\n저는 Battle Pass 정보를 확인하는 Merde 입니다.\n궁금한 점이 있거나 Battle Pass 보상을 받고 싶다면 말씀해 주세요.",
-        "en": "[Ascundaiga]\nI am Ascundaiga, here to check your Battle Pass information.\nIf you have any questions or want to receive Battle Pass rewards, please let me know.",
-        "pt": "[Ascundaiga]\nEu sou a Ascundaiga, estou aqui para verificar suas informações do Passe de Batalha.\nSe você tiver alguma dúvida ou quiser receber recompensas do Passe de Batalha, por favor, avise.",
-        "es": "[Ascundaiga]\nSoy Ascundaiga, estoy aquí para verificar tu información del Pase de Batalla.\nSi tienes alguna duda o quieres recibir recompensas del Pase de Batalla, por favor avísame."
+        "ko-KR": "[Merde]\n저는 Battle Pass 정보를 확인하는 Merde 입니다.\n궁금한 점이 있거나 Battle Pass 보상을 받고 싶다면 말씀해 주세요.",
+        "en-US": "[Ascundaiga]\nI am Ascundaiga, here to check your Battle Pass information.\nIf you have any questions or want to receive Battle Pass rewards, please let me know.",
+        "pt-BR": "[Ascundaiga]\nEu sou a Ascundaiga, estou aqui para verificar suas informações do Passe de Batalha.\nSe você tiver alguma dúvida ou quiser receber recompensas do Passe de Batalha, por favor, avise.",
+        "es-ES": "[Ascundaiga]\nSoy Ascundaiga, estoy aquí para verificar tu información del Pase de Batalla.\nSi tienes alguna duda o quieres recibir recompensas del Pase de Batalla, por favor avísame."
     },
     "BKiWDA": {
-        "ko": "레벨 확인",
-        "en": "Check Level",
-        "pt": "Verificar Nível",
-        "es": "Verificar Nivel"
+        "ko-KR": "레벨 확인",
+        "en-US": "Check Level",
+        "pt-BR": "Verificar Nível",
+        "es-ES": "Verificar Nivel"
     },
     "BaiWDA": {
-        "ko": "보상 수령",
-        "en": "Claim Rewards",
-        "pt": "Resgatar Recompensas",
-        "es": "Reclamar Recompensas"
+        "ko-KR": "보상 수령",
+        "en-US": "Claim Rewards",
+        "pt-BR": "Resgatar Recompensas",
+        "es-ES": "Reclamar Recompensas"
     },
     "BqiWDA": {
-        "ko": "Battle Pass 업그레이드",
-        "en": "Upgrade Battle Pass",
-        "pt": "Atualizar Passe de Batalha",
-        "es": "Actualizar Pase de Batalla"
+        "ko-KR": "Battle Pass 업그레이드",
+        "en-US": "Upgrade Battle Pass",
+        "pt-BR": "Atualizar Passe de Batalha",
+        "es-ES": "Actualizar Pase de Batalla"
     },
     "B6iWDA": {
-        "ko": "취소",
-        "en": "Cancel",
-        "pt": "Cancelar",
-        "es": "Cancelar"
+        "ko-KR": "취소",
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
     },
     "CKiWDA": {
-        "ko": "[Merde]\n현재 보유한 레벨과 포인트는\n레벨 {0} 그리고 {1} 포인트",
-        "en": "[Ascundaiga]\nYour current level and points are:\nLevel {0} and {1} points",
-        "pt": "[Ascundaiga]\nSeu nível e pontos atuais são:\nNível {0} e {1} pontos",
-        "es": "[Ascundaiga]\nTu nivel y puntos actuales son:\nNivel {0} y {1} puntos"
+        "ko-KR": "[Merde]\n현재 보유한 레벨과 포인트는\n레벨 {0} 그리고 {1} 포인트",
+        "en-US": "[Ascundaiga]\nYour current level and points are:\nLevel {0} and {1} points",
+        "pt-BR": "[Ascundaiga]\nSeu nível e pontos atuais são:\nNível {0} e {1} pontos",
+        "es-ES": "[Ascundaiga]\nTu nivel y puntos actuales son:\nNivel {0} y {1} puntos"
     },
     "CaiWDA": {
-        "ko": "[Merde]\n진행할 항목을 선택해 주세요.",
-        "en": "[Ascundaiga]\nPlease select an item to proceed.",
-        "pt": "[Ascundaiga]\nPor favor, selecione um item para prosseguir.",
-        "es": "[Ascundaiga]\nPor favor, selecciona un ítem para proceder."
+        "ko-KR": "[Merde]\n진행할 항목을 선택해 주세요.",
+        "en-US": "[Ascundaiga]\nPlease select an item to proceed.",
+        "pt-BR": "[Ascundaiga]\nPor favor, selecione um item para prosseguir.",
+        "es-ES": "[Ascundaiga]\nPor favor, selecciona un ítem para proceder."
     },
     "CqiWDA": {
-        "ko": "Normal Battle Pass 보상 수령",
-        "en": "Claim Normal Battle Pass Rewards",
-        "pt": "Resgatar Recompensas do Passe de Batalha Normal",
-        "es": "Reclamar Recompensas del Pase de Batalla Normal"
+        "ko-KR": "Normal Battle Pass 보상 수령",
+        "en-US": "Claim Normal Battle Pass Rewards",
+        "pt-BR": "Resgatar Recompensas do Passe de Batalha Normal",
+        "es-ES": "Reclamar Recompensas del Pase de Batalla Normal"
     },
     "C6iWDA": {
-        "ko": "Premium Battle Pass 보상 수령",
-        "en": "Claim Premium Battle Pass Rewards",
-        "pt": "Resgatar Recompensas do Passe de Batalha Premium",
-        "es": "Reclamar Recompensas del Pase de Batalla Premium"
+        "ko-KR": "Premium Battle Pass 보상 수령",
+        "en-US": "Claim Premium Battle Pass Rewards",
+        "pt-BR": "Resgatar Recompensas do Passe de Batalha Premium",
+        "es-ES": "Reclamar Recompensas del Pase de Batalla Premium"
     },
     "DKiWDA": {
-        "ko": "[Merde]\nNormal Battle Pass가 필요합니다.",
-        "en": "[Ascundaiga]\nA Normal Battle Pass is required.",
-        "pt": "[Ascundaiga]\nUm Passe de Batalha Normal é necessário.",
-        "es": "[Ascundaiga]\nSe requiere un Pase de Batalla Normal."
+        "ko-KR": "[Merde]\nNormal Battle Pass가 필요합니다.",
+        "en-US": "[Ascundaiga]\nA Normal Battle Pass is required.",
+        "pt-BR": "[Ascundaiga]\nUm Passe de Batalha Normal é necessário.",
+        "es-ES": "[Ascundaiga]\nSe requiere un Pase de Batalla Normal."
     },
     "DaiWDA": {
-        "ko": "[Merde]\n보상을 계산 중입니다.",
-        "en": "[Ascundaiga]\nCalculating rewards.",
-        "pt": "[Ascundaiga]\nCalculando recompensas.",
-        "es": "[Ascundaiga]\nCalculando recompensas."
+        "ko-KR": "[Merde]\n보상을 계산 중입니다.",
+        "en-US": "[Ascundaiga]\nCalculating rewards.",
+        "pt-BR": "[Ascundaiga]\nCalculando recompensas.",
+        "es-ES": "[Ascundaiga]\nCalculando recompensas."
     },
     "DqiWDA": {
-        "ko": "[Merde]\n보상을 지급합니다.",
-        "en": "[Ascundaiga]\nIssuing rewards.",
-        "pt": "[Ascundaiga]\nDistribuindo recompensas.",
-        "es": "[Ascundaiga]\nDistribuyendo recompensas."
+        "ko-KR": "[Merde]\n보상을 지급합니다.",
+        "en-US": "[Ascundaiga]\nIssuing rewards.",
+        "pt-BR": "[Ascundaiga]\nDistribuindo recompensas.",
+        "es-ES": "[Ascundaiga]\nDistribuyendo recompensas."
     },
     "D6iWDA": {
-        "ko": "[Merde]\n받을 수 있는 보상은 모두 지급되었습니다.\nNormal Battle Pass는 레벨 100까지만 보상을 받을 수 있습니다.",
-        "en": "[Ascundaiga]\nAll available rewards have been issued.\nThe Normal Battle Pass can only receive rewards up to level 100.",
-        "pt": "[Ascundaiga]\nTodas as recompensas disponíveis foram distribuídas.\nO Passe de Batalha Normal só pode receber recompensas até o nível 100.",
-        "es": "[Ascundaiga]\nTodas las recompensas disponibles han sido distribuidas.\nEl Pase de Batalla Normal solo puede recibir recompensas hasta el nivel 100."
+        "ko-KR": "[Merde]\n받을 수 있는 보상은 모두 지급되었습니다.\nNormal Battle Pass는 레벨 100까지만 보상을 받을 수 있습니다.",
+        "en-US": "[Ascundaiga]\nAll available rewards have been issued.\nThe Normal Battle Pass can only receive rewards up to level 100.",
+        "pt-BR": "[Ascundaiga]\nTodas as recompensas disponíveis foram distribuídas.\nO Passe de Batalha Normal só pode receber recompensas até o nível 100.",
+        "es-ES": "[Ascundaiga]\nTodas las recompensas disponibles han sido distribuidas.\nEl Pase de Batalla Normal solo puede recibir recompensas hasta el nivel 100."
     },
     "EKiWDA": {
-        "ko": "[Merde]\n추가 보상을 받으려면 Premium Battle Pass로 업그레이드해야 합니다.",
-        "en": "[Ascundaiga]\nTo receive additional rewards, you must upgrade to a Premium Battle Pass.",
-        "pt": "[Ascundaiga]\nPara receber recompensas adicionais, você deve atualizar para um Passe de Batalha Premium.",
-        "es": "[Ascundaiga]\nPara recibir recompensas adicionales, debes actualizar a un Pase de Batalla Premium."
+        "ko-KR": "[Merde]\n추가 보상을 받으려면 Premium Battle Pass로 업그레이드해야 합니다.",
+        "en-US": "[Ascundaiga]\nTo receive additional rewards, you must upgrade to a Premium Battle Pass.",
+        "pt-BR": "[Ascundaiga]\nPara receber recompensas adicionais, você deve atualizar para um Passe de Batalha Premium.",
+        "es-ES": "[Ascundaiga]\nPara recibir recompensas adicionales, debes actualizar a un Pase de Batalla Premium."
     },
     "EaiWDA": {
-        "ko": "[Merde]\n지금 Premium Battle Pass로 업그레이드하시겠습니까?",
-        "en": "[Ascundaiga]\nWould you like to upgrade to a Premium Battle Pass now?",
-        "pt": "[Ascundaiga]\nGostaria de atualizar para um Passe de Batalha Premium agora?",
-        "es": "[Ascundaiga]\n¿Te gustaría actualizar a un Pase de Batalla Premium ahora?"
+        "ko-KR": "[Merde]\n지금 Premium Battle Pass로 업그레이드하시겠습니까?",
+        "en-US": "[Ascundaiga]\nWould you like to upgrade to a Premium Battle Pass now?",
+        "pt-BR": "[Ascundaiga]\nGostaria de atualizar para um Passe de Batalha Premium agora?",
+        "es-ES": "[Ascundaiga]\n¿Te gustaría actualizar a un Pase de Batalla Premium ahora?"
     },
     "EqiWDA": {
-        "ko": "바로 업그레이드",
-        "en": "Upgrade Now",
-        "pt": "Atualizar Agora",
-        "es": "Actualizar Ahora"
+        "ko-KR": "바로 업그레이드",
+        "en-US": "Upgrade Now",
+        "pt-BR": "Atualizar Agora",
+        "es-ES": "Actualizar Ahora"
     },
     "E6iWDA": {
-        "ko": "[Merde]\n업그레이드에는 냥다래열매 49개가 필요합니다.\n계속 진행하시겠습니까?",
-        "en": "[Ascundaiga]\nThe upgrade requires 49 Nyangvine.\nDo you wish to proceed?",
-        "pt": "[Ascundaiga]\nA atualização requer 49 MiauMiau.\nVocê deseja prosseguir?",
-        "es": "[Ascundaiga]\nLa actualización requiere 49 Miaufruto.\n¿Deseas proceder?"
+        "ko-KR": "[Merde]\n업그레이드에는 냥다래열매 49개가 필요합니다.\n계속 진행하시겠습니까?",
+        "en-US": "[Ascundaiga]\nThe upgrade requires 49 Nyangvine.\nDo you wish to proceed?",
+        "pt-BR": "[Ascundaiga]\nA atualização requer 49 MiauMiau.\nVocê deseja prosseguir?",
+        "es-ES": "[Ascundaiga]\nLa actualización requiere 49 Miaufruto.\n¿Deseas proceder?"
     },
     "FKiWDA": {
-        "ko": "진행",
-        "en": "Proceed",
-        "pt": "Prosseguir",
-        "es": "Proceder"
+        "ko-KR": "진행",
+        "en-US": "Proceed",
+        "pt-BR": "Prosseguir",
+        "es-ES": "Proceder"
     },
     "FaiWDA": {
-        "ko": "[Merde]\n냥다래열매 49개가 필요합니다. 수량이 부족합니다.",
-        "en": "[Ascundaiga]\n49 Nyangvine are required. You do not have enough.",
-        "pt": "[Ascundaiga]\n49 MiauMiau são necessários. Você não tem o suficiente.",
-        "es": "[Ascundaiga]\nSe requieren 49 Miaufruto. No tienes suficientes."
+        "ko-KR": "[Merde]\n냥다래열매 49개가 필요합니다. 수량이 부족합니다.",
+        "en-US": "[Ascundaiga]\n49 Nyangvine are required. You do not have enough.",
+        "pt-BR": "[Ascundaiga]\n49 MiauMiau são necessários. Você não tem o suficiente.",
+        "es-ES": "[Ascundaiga]\nSe requieren 49 Miaufruto. No tienes suficientes."
     },
     "FqiWDA": {
-        "ko": "[Merde]\n처리가 완료되었습니다.\n이제 Premium 항목을 선택해 추가 보상을 받을 수 있습니다.",
-        "en": "[Ascundaiga]\nProcessing is complete.\nYou can now select Premium items to receive additional rewards.",
-        "pt": "[Ascundaiga]\nO processamento está completo.\nAgora você pode selecionar itens Premium para receber recompensas adicionais.",
-        "es": "[Ascundaiga]\nEl procesamiento está completo.\nAhora puedes seleccionar ítems Premium para recibir recompensas adicionales."
+        "ko-KR": "[Merde]\n처리가 완료되었습니다.\n이제 Premium 항목을 선택해 추가 보상을 받을 수 있습니다.",
+        "en-US": "[Ascundaiga]\nProcessing is complete.\nYou can now select Premium items to receive additional rewards.",
+        "pt-BR": "[Ascundaiga]\nO processamento está completo.\nAgora você pode selecionar itens Premium para receber recompensas adicionais.",
+        "es-ES": "[Ascundaiga]\nEl procesamiento está completo.\nAhora puedes seleccionar ítems Premium para recibir recompensas adicionales."
     },
     "F6iWDA": {
-        "ko": "[Merde]\n이미 Premium 회원입니다.\nPremium 보상 항목을 선택해 추가 보상을 확인/수령할 수 있습니다.",
-        "en": "[Ascundaiga]\nYou are already a Premium member.\nYou can select Premium reward items to check/claim additional rewards.",
-        "pt": "[Ascundaiga]\nVocê já é um membro Premium.\nVocê pode selecionar itens de recompensa Premium para verificar/resgatar recompensas adicionais.",
-        "es": "[Ascundaiga]\nYa eres un miembro Premium.\nPuedes seleccionar ítems de recompensa Premium para verificar/reclamar recompensas adicionales."
+        "ko-KR": "[Merde]\n이미 Premium 회원입니다.\nPremium 보상 항목을 선택해 추가 보상을 확인/수령할 수 있습니다.",
+        "en-US": "[Ascundaiga]\nYou are already a Premium member.\nYou can select Premium reward items to check/claim additional rewards.",
+        "pt-BR": "[Ascundaiga]\nVocê já é um membro Premium.\nVocê pode selecionar itens de recompensa Premium para verificar/resgatar recompensas adicionais.",
+        "es-ES": "[Ascundaiga]\nYa eres un miembro Premium.\nPuedes seleccionar ítems de recompensa Premium para verificar/reclamar recompensas adicionales."
     },
     "GKiWDA": {
-        "ko": "[Merde]\n모든 보상이 정상적으로 지급되었습니다.\n현재 레벨 {0} 까지 지급되었습니다\n다음 레벨까지 남은 포인트는 {1}",
-        "en": "[Ascundaiga]\nAll rewards have been issued successfully.\nIssued up to current level {0}.\nPoints remaining until next level: {1}",
-        "pt": "[Ascundaiga]\nTodas as recompensas foram distribuídas com sucesso.\nDistribuídas até o nível atual {0}.\nPontos restantes até o próximo nível: {1}",
-        "es": "[Ascundaiga]\nTodas las recompensas han sido distribuidas exitosamente.\nDistribuidas hasta el nivel actual {0}.\nPuntos restantes hasta el siguiente nivel: {1}"
+        "ko-KR": "[Merde]\n모든 보상이 정상적으로 지급되었습니다.\n현재 레벨 {0} 까지 지급되었습니다\n다음 레벨까지 남은 포인트는 {1}",
+        "en-US": "[Ascundaiga]\nAll rewards have been issued successfully.\nIssued up to current level {0}.\nPoints remaining until next level: {1}",
+        "pt-BR": "[Ascundaiga]\nTodas as recompensas foram distribuídas com sucesso.\nDistribuídas até o nível atual {0}.\nPontos restantes até o próximo nível: {1}",
+        "es-ES": "[Ascundaiga]\nTodas las recompensas han sido distribuidas exitosamente.\nDistribuidas hasta el nivel actual {0}.\nPuntos restantes hasta el siguiente nivel: {1}"
     },
     "GaiWDA": {
-        "ko": "[Merde]\nPremium Battle Pass가 필요합니다.",
-        "en": "[Ascundaiga]\nA Premium Battle Pass is required.",
-        "pt": "[Ascundaiga]\nUm Passe de Batalha Premium é necessário.",
-        "es": "[Ascundaiga]\nSe requiere un Pase de Batalla Premium."
+        "ko-KR": "[Merde]\nPremium Battle Pass가 필요합니다.",
+        "en-US": "[Ascundaiga]\nA Premium Battle Pass is required.",
+        "pt-BR": "[Ascundaiga]\nUm Passe de Batalha Premium é necessário.",
+        "es-ES": "[Ascundaiga]\nSe requiere un Pase de Batalla Premium."
     },
     "GqiWDA": {
-        "ko": "[Merde]\nSealed Low Guarantee Ticket 보상은 이미 수령했습니다.",
-        "en": "[Ascundaiga]\nThe Sealed Low Guarantee Ticket reward has already been claimed.",
-        "pt": "[Ascundaiga]\nA recompensa do [Evento] Envelope de Baixo Refino já foi resgatada.",
-        "es": "[Ascundaiga]\nLa recompensa del [Evento] Sobre de Baja Refinación ya ha sido reclamada."
+        "ko-KR": "[Merde]\nSealed Low Guarantee Ticket 보상은 이미 수령했습니다.",
+        "en-US": "[Ascundaiga]\nThe Sealed Low Guarantee Ticket reward has already been claimed.",
+        "pt-BR": "[Ascundaiga]\nA recompensa do [Evento] Envelope de Baixo Refino já foi resgatada.",
+        "es-ES": "[Ascundaiga]\nLa recompensa del [Evento] Sobre de Baja Refinación ya ha sido reclamada."
     },
     "G6iWDA": {
-        "ko": "[Merde]\nSealed High Guarantee Ticket 보상은 이미 수령했습니다.",
-        "en": "[Ascundaiga]\nThe Sealed High Guarantee Ticket reward has already been claimed.",
-        "pt": "[Ascundaiga]\nA recompensa do [Evento] Envelope de Alto Refino já foi resgatada.",
-        "es": "[Ascundaiga]\nLa recompensa del [Evento] Sobre de Alta Refinación ya ha sido reclamada."
+        "ko-KR": "[Merde]\nSealed High Guarantee Ticket 보상은 이미 수령했습니다.",
+        "en-US": "[Ascundaiga]\nThe Sealed High Guarantee Ticket reward has already been claimed.",
+        "pt-BR": "[Ascundaiga]\nA recompensa do [Evento] Envelope de Alto Refino já foi resgatada.",
+        "es-ES": "[Ascundaiga]\nLa recompensa del [Evento] Sobre de Alta Refinación ya ha sido reclamada."
     },
     "HKiWDA": {
-        "ko": "[Merde]\nCostume Sweet Valkyrie Wings 보상은 이미 수령했습니다.",
-        "en": "[Ascundaiga]\nThe Costume Sweet Valkyrie Wings reward has already been claimed.",
-        "pt": "[Ascundaiga]\nA recompensa da [Visual] Asa Doce de Valquíria já foi resgatada.",
-        "es": "[Ascundaiga]\nLa recompensa del [Visual] Ala Dulce de Valquiria ya ha sido reclamada."
+        "ko-KR": "[Merde]\nCostume Sweet Valkyrie Wings 보상은 이미 수령했습니다.",
+        "en-US": "[Ascundaiga]\nThe Costume Sweet Valkyrie Wings reward has already been claimed.",
+        "pt-BR": "[Ascundaiga]\nA recompensa da [Visual] Asa Doce de Valquíria já foi resgatada.",
+        "es-ES": "[Ascundaiga]\nLa recompensa del [Visual] Ala Dulce de Valquiria ya ha sido reclamada."
     },
     "HaiWDA": {
-        "ko": "[Merde]\n레벨 100 이후 Special Enchant Racing Shoes Coin 보상을 계산합니다.",
-        "en": "[Ascundaiga]\nCalculating Special Enchant Racing Shoes Coin rewards after level 100.",
-        "pt": "[Ascundaiga]\nCalculando recompensas de Moedas de Sapatos de Corrida com Encantamento Especial após o nível 100.",
-        "es": "[Ascundaiga]\nCalculando recompensas de Monedas de Zapatos de Carrera con Encantamiento Especial después del nivel 100."
+        "ko-KR": "[Merde]\n레벨 100 이후 Special Enchant Racing Shoes Coin 보상을 계산합니다.",
+        "en-US": "[Ascundaiga]\nCalculating Special Enchant Racing Shoes Coin rewards after level 100.",
+        "pt-BR": "[Ascundaiga]\nCalculando recompensas de Moedas de Sapatos de Corrida com Encantamento Especial após o nível 100.",
+        "es-ES": "[Ascundaiga]\nCalculando recompensas de Monedas de Zapatos de Carrera con Encantamiento Especial después del nivel 100."
     },
     "HqiWDA": {
-        "ko": "[Merde]\n해당 보상을 받으면 Special Enchant Racing Shoes Coin 수량이 30000을 초과하게 됩니다.\n따라서 진행할 수 없습니다. 먼저 인벤토리를 정리해 주세요.",
-        "en": "[Ascundaiga]\nClaiming this reward would cause your Special Enchant Racing Shoes Coin quantity to exceed 30,000.\nTherefore, you cannot proceed. Please organize your inventory first.",
-        "pt": "[Ascundaiga]\nResgatar esta recompensa faria com que sua quantidade de Moedas de Sapatos de Corrida com Encantamento Especial excedesse 30.000.\nPortanto, você não pode prosseguir. Por favor, organize seu inventário primeiro.",
-        "es": "[Ascundaiga]\nReclamar esta recompensa haría que tu cantidad de Monedas de Zapatos de Carrera con Encantamiento Especial excediera 30,000.\nPor lo tanto, no puedes proceder. Por favor, organiza tu inventario primero."
+        "ko-KR": "[Merde]\n해당 보상을 받으면 Special Enchant Racing Shoes Coin 수량이 30000을 초과하게 됩니다.\n따라서 진행할 수 없습니다. 먼저 인벤토리를 정리해 주세요.",
+        "en-US": "[Ascundaiga]\nClaiming this reward would cause your Special Enchant Racing Shoes Coin quantity to exceed 30,000.\nTherefore, you cannot proceed. Please organize your inventory first.",
+        "pt-BR": "[Ascundaiga]\nResgatar esta recompensa faria com que sua quantidade de Moedas de Sapatos de Corrida com Encantamento Especial excedesse 30.000.\nPortanto, você não pode prosseguir. Por favor, organize seu inventário primeiro.",
+        "es-ES": "[Ascundaiga]\nReclamar esta recompensa haría que tu cantidad de Monedas de Zapatos de Carrera con Encantamiento Especial excediera 30,000.\nPor lo tanto, no puedes proceder. Por favor, organiza tu inventario primero."
     },
     "H6iWDA": {
-        "ko": "[Merde]\nSpecial Enchant Racing Shoes Coin은 1회에 20000개를 초과하여 받을 수 없습니다. 초과분은 먼저 지급되며, 남은 수량은 다시 대화하여 수령해 주세요.",
-        "en": "[Ascundaiga]\nYou cannot claim more than 20,000 Special Enchant Racing Shoes Coins at once. The exceeding amount will be issued first, and the remaining quantity must be claimed by talking again.",
-        "pt": "[Ascundaiga]\nVocê não pode resgatar mais de 20.000 Moedas de Sapatos de Corrida com Encantamento Especial de uma vez. O valor excedente será distribuído primeiro, e a quantidade restante deve ser resgatada falando novamente.",
-        "es": "[Ascundaiga]\nNo puedes reclamar más de 20,000 Monedas de Zapatos de Carrera con Encantamiento Especial de una vez. El monto excedente se distribuirá primero, y la cantidad restante debe ser reclamada hablando nuevamente."
+        "ko-KR": "[Merde]\nSpecial Enchant Racing Shoes Coin은 1회에 20000개를 초과하여 받을 수 없습니다. 초과분은 먼저 지급되며, 남은 수량은 다시 대화하여 수령해 주세요.",
+        "en-US": "[Ascundaiga]\nYou cannot claim more than 20,000 Special Enchant Racing Shoes Coins at once. The exceeding amount will be issued first, and the remaining quantity must be claimed by talking again.",
+        "pt-BR": "[Ascundaiga]\nVocê não pode resgatar mais de 20.000 Moedas de Sapatos de Corrida com Encantamento Especial de uma vez. O valor excedente será distribuído primeiro, e a quantidade restante deve ser resgatada falando novamente.",
+        "es-ES": "[Ascundaiga]\nNo puedes reclamar más de 20,000 Monedas de Zapatos de Carrera con Encantamiento Especial de una vez. El monto excedente se distribuirá primero, y la cantidad restante debe ser reclamada hablando nuevamente."
     },
     "IKiWDA": {
-        "ko": "[Merde]\n아직 보상을 받을 수 있는 레벨이 아닙니다.\n현재 레벨 {0} 까지 지급되었습니다\n다음 레벨까지 남은 포인트는 {1}",
-        "en": "[Ascundaiga]\nYou are not yet at a level where you can claim rewards.\nIssued up to current level {0}.\nPoints remaining until next level: {1}",
-        "pt": "[Ascundaiga]\nVocê ainda não está em um nível onde pode resgatar recompensas.\nDistribuídas até o nível atual {0}.\nPontos restantes até o próximo nível: {1}",
-        "es": "[Ascundaiga]\nAún no estás en un nivel donde puedes reclamar recompensas.\nDistribuidas hasta el nivel actual {0}.\nPuntos restantes hasta el siguiente nivel: {1}"
+        "ko-KR": "[Merde]\n아직 보상을 받을 수 있는 레벨이 아닙니다.\n현재 레벨 {0} 까지 지급되었습니다\n다음 레벨까지 남은 포인트는 {1}",
+        "en-US": "[Ascundaiga]\nYou are not yet at a level where you can claim rewards.\nIssued up to current level {0}.\nPoints remaining until next level: {1}",
+        "pt-BR": "[Ascundaiga]\nVocê ainda não está em um nível onde pode resgatar recompensas.\nDistribuídas até o nível atual {0}.\nPontos restantes até o próximo nível: {1}",
+        "es-ES": "[Ascundaiga]\nAún no estás en un nivel donde puedes reclamar recompensas.\nDistribuidas hasta el nivel actual {0}.\nPuntos restantes hasta el siguiente nivel: {1}"
     },
     "IaiWDA": {
-        "ko": "[Merde]\n모든 보상이 정상적으로 지급되었습니다.\n현재 레벨 {0} 까지 지급되었습니다\n다음 레벨까지 남은 포인트는 {1}",
-        "en": "[Ascundaiga]\nAll rewards have been issued successfully.\nIssued up to current level {0}.\nPoints remaining until next level: {1}",
-        "pt": "[Ascundaiga]\nTodas as recompensas foram distribuídas com sucesso.\nDistribuídas até o nível atual {0}.\nPontos restantes até o próximo nível: {1}",
-        "es": "[Ascundaiga]\nTodas las recompensas han sido distribuidas exitosamente.\nDistribuidas hasta el nivel actual {0}.\nPuntos restantes hasta el siguiente nivel: {1}"
+        "ko-KR": "[Merde]\n모든 보상이 정상적으로 지급되었습니다.\n현재 레벨 {0} 까지 지급되었습니다\n다음 레벨까지 남은 포인트는 {1}",
+        "en-US": "[Ascundaiga]\nAll rewards have been issued successfully.\nIssued up to current level {0}.\nPoints remaining until next level: {1}",
+        "pt-BR": "[Ascundaiga]\nTodas as recompensas foram distribuídas com sucesso.\nDistribuídas até o nível atual {0}.\nPontos restantes até o próximo nível: {1}",
+        "es-ES": "[Ascundaiga]\nTodas las recompensas han sido distribuidas exitosamente.\nDistribuidas hasta el nivel actual {0}.\nPuntos restantes hasta el siguiente nivel: {1}"
     },
     "IqiWDA": {
-        "ko": "[Merde]\n계속 진행할 항목을 선택해 주세요.",
-        "en": "[Ascundaiga]\nPlease select an item to continue.",
-        "pt": "[Ascundaiga]\nPor favor, selecione um item para continuar.",
-        "es": "[Ascundaiga]\nPor favor, selecciona un ítem para continuar."
+        "ko-KR": "[Merde]\n계속 진행할 항목을 선택해 주세요.",
+        "en-US": "[Ascundaiga]\nPlease select an item to continue.",
+        "pt-BR": "[Ascundaiga]\nPor favor, selecione um item para continuar.",
+        "es-ES": "[Ascundaiga]\nPor favor, selecciona un ítem para continuar."
     },
     "I6iWDA": {
-        "ko": "Premium Battle Pass로 업그레이드",
-        "en": "Upgrade to Premium Battle Pass",
-        "pt": "Atualizar para Passe de Batalha Premium",
-        "es": "Actualizar a Pase de Batalla Premium"
+        "ko-KR": "Premium Battle Pass로 업그레이드",
+        "en-US": "Upgrade to Premium Battle Pass",
+        "pt-BR": "Atualizar para Passe de Batalha Premium",
+        "es-ES": "Actualizar a Pase de Batalla Premium"
     },
     "JKiWDA": {
-        "ko": "Pass 레벨 업그레이드",
-        "en": "Upgrade Pass Level",
-        "pt": "Atualizar Nível do Passe",
-        "es": "Actualizar Nivel del Pase"
+        "ko-KR": "Pass 레벨 업그레이드",
+        "en-US": "Upgrade Pass Level",
+        "pt-BR": "Atualizar Nível do Passe",
+        "es-ES": "Actualizar Nivel del Pase"
     },
     "JaiWDA": {
-        "ko": "[Merde]\n일반 패스가 없어 진행할 수 없습니다.",
-        "en": "[Ascundaiga]\nYou do not have a regular pass, so you cannot proceed.",
-        "pt": "[Ascundaiga]\nVocê não tem um passe regular, portanto não pode prosseguir.",
-        "es": "[Ascundaiga]\nNo tienes un pase regular, por lo tanto no puedes proceder."
+        "ko-KR": "[Merde]\n일반 패스가 없어 진행할 수 없습니다.",
+        "en-US": "[Ascundaiga]\nYou do not have a regular pass, so you cannot proceed.",
+        "pt-BR": "[Ascundaiga]\nVocê não tem um passe regular, portanto não pode prosseguir.",
+        "es-ES": "[Ascundaiga]\nNo tienes un pase regular, por lo tanto no puedes proceder."
     },
     "JqiWDA": {
-        "ko": "[Merde]\n이미 Premium Battle Pass 상태입니다.",
-        "en": "[Ascundaiga]\nYou are already in Premium Battle Pass status.",
-        "pt": "[Ascundaiga]\nVocê já está no status de Passe de Batalha Premium.",
-        "es": "[Ascundaiga]\nYa estás en estado de Pase de Batalla Premium."
+        "ko-KR": "[Merde]\n이미 Premium Battle Pass 상태입니다.",
+        "en-US": "[Ascundaiga]\nYou are already in Premium Battle Pass status.",
+        "pt-BR": "[Ascundaiga]\nVocê já está no status de Passe de Batalha Premium.",
+        "es-ES": "[Ascundaiga]\nYa estás en estado de Pase de Batalla Premium."
     },
     "J6iWDA": {
-        "ko": "[Merde]\n특별 프로모션 업그레이드는 1회만 가능합니다.\n레벨과 함께 업그레이드하면 비용이 더 저렴합니다.\n계속 진행할 항목을 선택해 주세요.",
-        "en": "[Ascundaiga]\nThe special promotion upgrade is only available once.\nUpgrading with levels together is cheaper.\nPlease select an item to continue.",
-        "pt": "[Ascundaiga]\nA atualização promocional especial está disponível apenas uma vez.\nAtualizar juntamente com níveis é mais barato.\nPor favor, selecione um item para continuar.",
-        "es": "[Ascundaiga]\nLa actualización promocional especial está disponible solo una vez.\nActualizar junto con niveles es más barato.\nPor favor, selecciona un ítem para continuar."
+        "ko-KR": "[Merde]\n특별 프로모션 업그레이드는 1회만 가능합니다.\n레벨과 함께 업그레이드하면 비용이 더 저렴합니다.\n계속 진행할 항목을 선택해 주세요.",
+        "en-US": "[Ascundaiga]\nThe special promotion upgrade is only available once.\nUpgrading with levels together is cheaper.\nPlease select an item to continue.",
+        "pt-BR": "[Ascundaiga]\nA atualização promocional especial está disponível apenas uma vez.\nAtualizar juntamente com níveis é mais barato.\nPor favor, selecione um item para continuar.",
+        "es-ES": "[Ascundaiga]\nLa actualización promocional especial está disponible solo una vez.\nActualizar junto con niveles es más barato.\nPor favor, selecciona un ítem para continuar."
     },
     "KKiWDA": {
-        "ko": "업그레이드( 냥다래열매 49)",
-        "en": "Upgrade (49 Nyangvine)",
-        "pt": "Atualizar (49 MiauMiau)",
-        "es": "Actualizar (49 Miaufruto)"
+        "ko-KR": "업그레이드( 냥다래열매 49)",
+        "en-US": "Upgrade (49 Nyangvine)",
+        "pt-BR": "Atualizar (49 MiauMiau)",
+        "es-ES": "Actualizar (49 Miaufruto)"
     },
     "KaiWDA": {
-        "ko": "업그레이드 + 25레벨( 냥다래열매 115)",
-        "en": "Upgrade + 25 Levels (115 Nyangvine)",
-        "pt": "Atualizar + 25 Níveis (115 MiauMiau)",
-        "es": "Actualizar + 25 Niveles (115 Miaufruto)"
+        "ko-KR": "업그레이드 + 25레벨( 냥다래열매 115)",
+        "en-US": "Upgrade + 25 Levels (115 Nyangvine)",
+        "pt-BR": "Atualizar + 25 Níveis (115 MiauMiau)",
+        "es-ES": "Actualizar + 25 Niveles (115 Miaufruto)"
     },
     "KqiWDA": {
-        "ko": "업그레이드 + 100레벨( 냥다래열매 295)",
-        "en": "Upgrade + 100 Levels (295 Nyangvine)",
-        "pt": "Atualizar + 100 Níveis (295 MiauMiau)",
-        "es": "Actualizar + 100 Niveles (295 Miaufruto)"
+        "ko-KR": "업그레이드 + 100레벨( 냥다래열매 295)",
+        "en-US": "Upgrade + 100 Levels (295 Nyangvine)",
+        "pt-BR": "Atualizar + 100 Níveis (295 MiauMiau)",
+        "es-ES": "Actualizar + 100 Niveles (295 Miaufruto)"
     },
     "K6iWDA": {
-        "ko": "[Merde]\n냥다래열매 115개가 필요합니다. 수량이 부족합니다.",
-        "en": "[Ascundaiga]\n115 Nyangvine are required. You do not have enough.",
-        "pt": "[Ascundaiga]\n115 MiauMiau são necessários. Você não tem o suficiente.",
-        "es": "[Ascundaiga]\nSe requieren 115 Miaufruto. No tienes suficientes."
+        "ko-KR": "[Merde]\n냥다래열매 115개가 필요합니다. 수량이 부족합니다.",
+        "en-US": "[Ascundaiga]\n115 Nyangvine are required. You do not have enough.",
+        "pt-BR": "[Ascundaiga]\n115 MiauMiau são necessários. Você não tem o suficiente.",
+        "es-ES": "[Ascundaiga]\nSe requieren 115 Miaufruto. No tienes suficientes."
     },
     "LKiWDA": {
-        "ko": "[Merde]\n냥다래열매 295개가 필요합니다. 수량이 부족합니다.",
-        "en": "[Ascundaiga]\n295 Nyangvine are required. You do not have enough.",
-        "pt": "[Ascundaiga]\n295 MiauMiau são necessários. Você não tem o suficiente.",
-        "es": "[Ascundaiga]\nSe requieren 295 Miaufruto. No tienes suficientes."
+        "ko-KR": "[Merde]\n냥다래열매 295개가 필요합니다. 수량이 부족합니다.",
+        "en-US": "[Ascundaiga]\n295 Nyangvine are required. You do not have enough.",
+        "pt-BR": "[Ascundaiga]\n295 MiauMiau são necessários. Você não tem o suficiente.",
+        "es-ES": "[Ascundaiga]\nSe requieren 295 Miaufruto. No tienes suficientes."
     },
     "LaiWDA": {
-        "ko": "[Merde]\n이용 규칙을 읽어 주세요.\n1. Battle Pass 레벨 업그레이드는 레벨당 냥다래열매 3개가 필요합니다.\n또는 특별 티켓으로 대체 결제할 수도 있습니다.\n2. 업그레이드한 레벨은 Normal과 Premium에 모두 적용됩니다.\n3. 레벨 1은 Battle Pass EXP 10입니다.",
-        "en": "[Ascundaiga]\nPlease read the usage rules.\n1. Battle Pass level upgrade requires 3 Nyangvine per level.\nAlternatively, you can use a special ticket for payment.\n2. Upgraded levels apply to both Normal and Premium.\n3. Level 1 is Battle Pass EXP 10.",
-        "pt": "[Ascundaiga]\nPor favor, leia as regras de uso.\n1. A atualização de nível do Passe de Batalha requer 3 MiauMiau por nível.\nAlternativamente, você pode usar um bilhete especial para pagamento.\n2. Os níveis atualizados se aplicam tanto ao Normal quanto ao Premium.\n3. O Nível 1 é 10 de EXP do Passe de Batalha.",
-        "es": "[Ascundaiga]\nPor favor, lee las reglas de uso.\n1. La actualización de nivel del Pase de Batalla requiere 3 Miaufruto por nivel.\nAlternativamente, puedes usar un boleto especial para el pago.\n2. Los niveles actualizados se aplican tanto al Normal como al Premium.\n3. El Nivel 1 es 10 de EXP del Pase de Batalla."
+        "ko-KR": "[Merde]\n이용 규칙을 읽어 주세요.\n1. Battle Pass 레벨 업그레이드는 레벨당 냥다래열매 3개가 필요합니다.\n또는 특별 티켓으로 대체 결제할 수도 있습니다.\n2. 업그레이드한 레벨은 Normal과 Premium에 모두 적용됩니다.\n3. 레벨 1은 Battle Pass EXP 10입니다.",
+        "en-US": "[Ascundaiga]\nPlease read the usage rules.\n1. Battle Pass level upgrade requires 3 Nyangvine per level.\nAlternatively, you can use a special ticket for payment.\n2. Upgraded levels apply to both Normal and Premium.\n3. Level 1 is Battle Pass EXP 10.",
+        "pt-BR": "[Ascundaiga]\nPor favor, leia as regras de uso.\n1. A atualização de nível do Passe de Batalha requer 3 MiauMiau por nível.\nAlternativamente, você pode usar um bilhete especial para pagamento.\n2. Os níveis atualizados se aplicam tanto ao Normal quanto ao Premium.\n3. O Nível 1 é 10 de EXP do Passe de Batalha.",
+        "es-ES": "[Ascundaiga]\nPor favor, lee las reglas de uso.\n1. La actualización de nivel del Pase de Batalla requiere 3 Miaufruto por nivel.\nAlternativamente, puedes usar un boleto especial para el pago.\n2. Los niveles actualizados se aplican tanto al Normal como al Premium.\n3. El Nivel 1 es 10 de EXP del Pase de Batalla."
     },
     "LqiWDA": {
-        "ko": "1 Level",
-        "en": "1 Level",
-        "pt": "1 Nível",
-        "es": "1 Nivel"
+        "ko-KR": "1 Level",
+        "en-US": "1 Level",
+        "pt-BR": "1 Nível",
+        "es-ES": "1 Nivel"
     },
     "L6iWDA": {
-        "ko": "10 Level",
-        "en": "10 Levels",
-        "pt": "10 Níveis",
-        "es": "10 Niveles"
+        "ko-KR": "10 Level",
+        "en-US": "10 Levels",
+        "pt-BR": "10 Níveis",
+        "es-ES": "10 Niveles"
     },
     "MKiWDA": {
-        "ko": "50 Level",
-        "en": "50 Levels",
-        "pt": "50 Níveis",
-        "es": "50 Niveles"
+        "ko-KR": "50 Level",
+        "en-US": "50 Levels",
+        "pt-BR": "50 Níveis",
+        "es-ES": "50 Niveles"
     },
     "MaiWDA": {
-        "ko": "[Merde]\nBattle Pass 레벨은 3000을 초과할 수 없습니다.",
-        "en": "[Ascundaiga]\nThe Battle Pass level cannot exceed 3000.",
-        "pt": "[Ascundaiga]\nO nível do Passe de Batalha não pode exceder 3000.",
-        "es": "[Ascundaiga]\nEl nivel del Pase de Batalla no puede exceder 3000."
+        "ko-KR": "[Merde]\nBattle Pass 레벨은 3000을 초과할 수 없습니다.",
+        "en-US": "[Ascundaiga]\nThe Battle Pass level cannot exceed 3000.",
+        "pt-BR": "[Ascundaiga]\nO nível do Passe de Batalha não pode exceder 3000.",
+        "es-ES": "[Ascundaiga]\nEl nivel del Pase de Batalla no puede exceder 3000."
     },
     "MqiWDA": {
-        "ko": "[Merde]\n비용은 냥다래열매 3개 또는 특별 티켓 1장입니다.\n어떤 방식으로 결제하시겠습니까?",
-        "en": "[Ascundaiga]\nThe cost is 3 Nyangvine or 1 special ticket.\nWhich payment method would you like to use?",
-        "pt": "[Ascundaiga]\nO custo é de 3 MiauMiau ou 1 bilhete especial.\nQual método de pagamento você gostaria de usar?",
-        "es": "[Ascundaiga]\nEl costo es de 3 Miaufruto o 1 boleto especial.\n¿Qué método de pago te gustaría usar?"
+        "ko-KR": "[Merde]\n비용은 냥다래열매 3개 또는 특별 티켓 1장입니다.\n어떤 방식으로 결제하시겠습니까?",
+        "en-US": "[Ascundaiga]\nThe cost is 3 Nyangvine or 1 special ticket.\nWhich payment method would you like to use?",
+        "pt-BR": "[Ascundaiga]\nO custo é de 3 MiauMiau ou 1 bilhete especial.\nQual método de pagamento você gostaria de usar?",
+        "es-ES": "[Ascundaiga]\nEl costo es de 3 Miaufruto o 1 boleto especial.\n¿Qué método de pago te gustaría usar?"
     },
     "M6iWDA": {
-        "ko": "냥다래열매",
-        "en": "Nyangvine",
-        "pt": "MiauMiau",
-        "es": "Miaufruto"
+        "ko-KR": "냥다래열매",
+        "en-US": "Nyangvine",
+        "pt-BR": "MiauMiau",
+        "es-ES": "Miaufruto"
     },
     "NKiWDA": {
-        "ko": "특별 티켓",
-        "en": "Special Ticket",
-        "pt": "Bilhete Especial",
-        "es": "Boleto Especial"
+        "ko-KR": "특별 티켓",
+        "en-US": "Special Ticket",
+        "pt-BR": "Bilhete Especial",
+        "es-ES": "Boleto Especial"
     },
     "NaiWDA": {
-        "ko": "[Merde]\n냥다래열매을 잊지 말고 준비해 주세요.",
-        "en": "[Ascundaiga]\nPlease don't forget to prepare your Nyangvine.",
-        "pt": "[Ascundaiga]\nPor favor, não se esqueça de preparar seus MiauMiau.",
-        "es": "[Ascundaiga]\nPor favor, no olvides preparar tus Miaufruto."
+        "ko-KR": "[Merde]\n냥다래열매을 잊지 말고 준비해 주세요.",
+        "en-US": "[Ascundaiga]\nPlease don't forget to prepare your Nyangvine.",
+        "pt-BR": "[Ascundaiga]\nPor favor, não se esqueça de preparar seus MiauMiau.",
+        "es-ES": "[Ascundaiga]\nPor favor, no olvides preparar tus Miaufruto."
     },
     "NqiWDA": {
-        "ko": "[Merde]\n업그레이드 후 레벨이 3000을 초과하여 진행할 수 없습니다.",
-        "en": "[Ascundaiga]\nThe level after upgrade would exceed 3000, so you cannot proceed.",
-        "pt": "[Ascundaiga]\nO nível após a atualização excederia 3000, portanto você não pode prosseguir.",
-        "es": "[Ascundaiga]\nEl nivel después de la actualización excedería 3000, por lo tanto no puedes proceder."
+        "ko-KR": "[Merde]\n업그레이드 후 레벨이 3000을 초과하여 진행할 수 없습니다.",
+        "en-US": "[Ascundaiga]\nThe level after upgrade would exceed 3000, so you cannot proceed.",
+        "pt-BR": "[Ascundaiga]\nO nível após a atualização excederia 3000, portanto você não pode prosseguir.",
+        "es-ES": "[Ascundaiga]\nEl nivel después de la actualización excedería 3000, por lo tanto no puedes proceder."
     },
     "N6iWDA": {
-        "ko": "[Merde]\n처리가 완료되었습니다.\nBattle Pass EXP 10이 증가했습니다.",
-        "en": "[Ascundaiga]\nProcessing is complete.\nBattle Pass EXP has increased by 10.",
-        "pt": "[Ascundaiga]\nO processamento está completo.\nA EXP do Passe de Batalha aumentou em 10.",
-        "es": "[Ascundaiga]\nEl procesamiento está completo.\nEl EXP del Pase de Batalla ha aumentado en 10."
+        "ko-KR": "[Merde]\n처리가 완료되었습니다.\nBattle Pass EXP 10이 증가했습니다.",
+        "en-US": "[Ascundaiga]\nProcessing is complete.\nBattle Pass EXP has increased by 10.",
+        "pt-BR": "[Ascundaiga]\nO processamento está completo.\nA EXP do Passe de Batalha aumentou em 10.",
+        "es-ES": "[Ascundaiga]\nEl procesamiento está completo.\nEl EXP del Pase de Batalla ha aumentado en 10."
     },
     "OKiWDA": {
-        "ko": "[Merde]\n필요한 티켓을 가져와 주세요.",
-        "en": "[Ascundaiga]\nPlease bring the required ticket.",
-        "pt": "[Ascundaiga]\nPor favor, traga o bilhete necessário.",
-        "es": "[Ascundaiga]\nPor favor, trae el boleto requerido."
+        "ko-KR": "[Merde]\n필요한 티켓을 가져와 주세요.",
+        "en-US": "[Ascundaiga]\nPlease bring the required ticket.",
+        "pt-BR": "[Ascundaiga]\nPor favor, traga o bilhete necessário.",
+        "es-ES": "[Ascundaiga]\nPor favor, trae el boleto requerido."
     },
     "OaiWDA": {
-        "ko": "[Merde]\n비용은 냥다래열매 30개 또는 특별 티켓 10장입니다.\n어떤 방식으로 결제하시겠습니까?",
-        "en": "[Ascundaiga]\nThe cost is 30 Nyangvine or 10 special tickets.\nWhich payment method would you like to use?",
-        "pt": "[Ascundaiga]\nO custo é de 30 MiauMiau ou 10 bilhetes especiais.\nQual método de pagamento você gostaria de usar?",
-        "es": "[Ascundaiga]\nEl costo es de 30 Miaufruto o 10 boletos especiales.\n¿Qué método de pago te gustaría usar?"
+        "ko-KR": "[Merde]\n비용은 냥다래열매 30개 또는 특별 티켓 10장입니다.\n어떤 방식으로 결제하시겠습니까?",
+        "en-US": "[Ascundaiga]\nThe cost is 30 Nyangvine or 10 special tickets.\nWhich payment method would you like to use?",
+        "pt-BR": "[Ascundaiga]\nO custo é de 30 MiauMiau ou 10 bilhetes especiais.\nQual método de pagamento você gostaria de usar?",
+        "es-ES": "[Ascundaiga]\nEl costo es de 30 Miaufruto o 10 boletos especiales.\n¿Qué método de pago te gustaría usar?"
     },
     "OqiWDA": {
-        "ko": "[Merde]\n냥다래열매을 충분히 준비해 주세요.",
-        "en": "[Ascundaiga]\nPlease prepare enough Nyangvine.",
-        "pt": "[Ascundaiga]\nPor favor, prepare MiauMiau suficientes.",
-        "es": "[Ascundaiga]\nPor favor, prepara suficientes Miaufruto."
+        "ko-KR": "[Merde]\n냥다래열매을 충분히 준비해 주세요.",
+        "en-US": "[Ascundaiga]\nPlease prepare enough Nyangvine.",
+        "pt-BR": "[Ascundaiga]\nPor favor, prepare MiauMiau suficientes.",
+        "es-ES": "[Ascundaiga]\nPor favor, prepara suficientes Miaufruto."
     },
     "O6iWDA": {
-        "ko": "[Merde]\n처리가 완료되었습니다.\nBattle Pass EXP 100이 증가했습니다.",
-        "en": "[Ascundaiga]\nProcessing is complete.\nBattle Pass EXP has increased by 100.",
-        "pt": "[Ascundaiga]\nO processamento está completo.\nA EXP do Passe de Batalha aumentou em 100.",
-        "es": "[Ascundaiga]\nEl procesamiento está completo.\nEl EXP del Pase de Batalla ha aumentado en 100."
+        "ko-KR": "[Merde]\n처리가 완료되었습니다.\nBattle Pass EXP 100이 증가했습니다.",
+        "en-US": "[Ascundaiga]\nProcessing is complete.\nBattle Pass EXP has increased by 100.",
+        "pt-BR": "[Ascundaiga]\nO processamento está completo.\nA EXP do Passe de Batalha aumentou em 100.",
+        "es-ES": "[Ascundaiga]\nEl procesamiento está completo.\nEl EXP del Pase de Batalla ha aumentado en 100."
     },
     "PKiWDA": {
-        "ko": "[Merde]\n필요한 티켓을 충분히 가져와 주세요.",
-        "en": "[Ascundaiga]\nPlease bring enough required tickets.",
-        "pt": "[Ascundaiga]\nPor favor, traga bilhetes necessários suficientes.",
-        "es": "[Ascundaiga]\nPor favor, trae suficientes boletos requeridos."
+        "ko-KR": "[Merde]\n필요한 티켓을 충분히 가져와 주세요.",
+        "en-US": "[Ascundaiga]\nPlease bring enough required tickets.",
+        "pt-BR": "[Ascundaiga]\nPor favor, traga bilhetes necessários suficientes.",
+        "es-ES": "[Ascundaiga]\nPor favor, trae suficientes boletos requeridos."
     },
     "PaiWDA": {
-        "ko": "[Merde]\n비용은 냥다래열매 150개 또는 특별 티켓 50장입니다.\n어떤 방식으로 결제하시겠습니까?",
-        "en": "[Ascundaiga]\nThe cost is 150 Nyangvine or 50 special tickets.\nWhich payment method would you like to use?",
-        "pt": "[Ascundaiga]\nO custo é de 150 MiauMiau ou 50 bilhetes especiais.\nQual método de pagamento você gostaria de usar?",
-        "es": "[Ascundaiga]\nEl costo es de 150 Miaufruto o 50 boletos especiales.\n¿Qué método de pago te gustaría usar?"
+        "ko-KR": "[Merde]\n비용은 냥다래열매 150개 또는 특별 티켓 50장입니다.\n어떤 방식으로 결제하시겠습니까?",
+        "en-US": "[Ascundaiga]\nThe cost is 150 Nyangvine or 50 special tickets.\nWhich payment method would you like to use?",
+        "pt-BR": "[Ascundaiga]\nO custo é de 150 MiauMiau ou 50 bilhetes especiais.\nQual método de pagamento você gostaria de usar?",
+        "es-ES": "[Ascundaiga]\nEl costo es de 150 Miaufruto o 50 boletos especiales.\n¿Qué método de pago te gustaría usar?"
     },
     "PqiWDA": {
-        "ko": "[Merde]\n처리가 완료되었습니다.\nBattle Pass EXP 500이 증가했습니다.",
-        "en": "[Ascundaiga]\nProcessing is complete.\nBattle Pass EXP has increased by 500.",
-        "pt": "[Ascundaiga]\nO processamento está completo.\nA EXP do Passe de Batalha aumentou em 500.",
-        "es": "[Ascundaiga]\nEl procesamiento está completo.\nEl EXP del Pase de Batalla ha aumentado en 500."
+        "ko-KR": "[Merde]\n처리가 완료되었습니다.\nBattle Pass EXP 500이 증가했습니다.",
+        "en-US": "[Ascundaiga]\nProcessing is complete.\nBattle Pass EXP has increased by 500.",
+        "pt-BR": "[Ascundaiga]\nO processamento está completo.\nA EXP do Passe de Batalha aumentou em 500.",
+        "es-ES": "[Ascundaiga]\nEl procesamiento está completo.\nEl EXP del Pase de Batalla ha aumentado en 500."
     }
 }

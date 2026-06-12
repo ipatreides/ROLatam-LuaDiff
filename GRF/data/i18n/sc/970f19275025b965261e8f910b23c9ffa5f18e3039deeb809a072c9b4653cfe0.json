@@ -1,194 +1,194 @@
 {
     "4LziBw": {
-        "ko": "보안 구역 경계에서 물러 서십시오. 인증되지 않은 외부인의 접근을 금지합니다.",
-        "en": "Step back from the security zone boundary. Access by unauthorized outsiders is prohibited.",
-        "pt": "Afaste-se! O acesso ao Jardim Secreto é restrito.",
-        "es": "Retroceda del perímetro de la zona de seguridad. Se prohíbe el acceso a intrusos no autorizados."
+        "ko-KR": "보안 구역 경계에서 물러 서십시오. 인증되지 않은 외부인의 접근을 금지합니다.",
+        "en-US": "Step back from the security zone boundary. Access by unauthorized outsiders is prohibited.",
+        "pt-BR": "Afaste-se! O acesso ao Jardim Secreto é restrito.",
+        "es-ES": "Retroceda del perímetro de la zona de seguridad. Se prohíbe el acceso a intrusos no autorizados."
     },
     "4bziBw": {
-        "ko": "[화원 출입 담당자]\n관리자 전용모드",
-        "en": "[Garden Access Officer]\nAdministrator-only Mode",
-        "pt": "[Gerente do Jardim]\nModo exclusivo do administrador",
-        "es": "[Encargado de acceso al Jardín]\nModo exclusivo para administradores"
+        "ko-KR": "[화원 출입 담당자]\n관리자 전용모드",
+        "en-US": "[Garden Access Officer]\nAdministrator-only Mode",
+        "pt-BR": "[Gerente do Jardim]\nModo exclusivo do administrador",
+        "es-ES": "[Encargado de acceso al Jardín]\nModo exclusivo para administradores"
     },
     "4rziBw": {
-        "ko": "스킵",
-        "en": "Skip",
-        "pt": "Ignorar",
-        "es": "Saltar"
+        "ko-KR": "스킵",
+        "en-US": "Skip",
+        "pt-BR": "Ignorar",
+        "es-ES": "Saltar"
     },
     "47ziBw": {
-        "ko": "쿨타임초기화",
-        "en": "Reset Cooldown",
-        "pt": "Reiniciar tempo de espera",
-        "es": "Reiniciar tiempo de reutilización"
+        "ko-KR": "쿨타임초기화",
+        "en-US": "Reset Cooldown",
+        "pt-BR": "Reiniciar tempo de espera",
+        "es-ES": "Reiniciar tiempo de reutilización"
     },
     "5LziBw": {
-        "ko": "시나리오 완료상태로 변경",
-        "en": "Change to Scenario Completed Status",
-        "pt": "Concluir missão de acesso",
-        "es": "Cambiar al estado de escenario completado"
+        "ko-KR": "시나리오 완료상태로 변경",
+        "en-US": "Change to Scenario Completed Status",
+        "pt-BR": "Concluir missão de acesso",
+        "es-ES": "Cambiar al estado de escenario completado"
     },
     "5bziBw": {
-        "ko": "[화원 출입 담당자]\n등록되지 않은 외부인의 접촉을 감지했습니다.",
-        "en": "[Garden Access Officer]\nContact from an unregistered outsider has been detected.",
-        "pt": "[Gerente do Jardim]\nDetectado usuário não registrado.",
-        "es": "[Encargado de acceso al Jardín]\nSe ha detectado contacto de un intruso no registrado."
+        "ko-KR": "[화원 출입 담당자]\n등록되지 않은 외부인의 접촉을 감지했습니다.",
+        "en-US": "[Garden Access Officer]\nContact from an unregistered outsider has been detected.",
+        "pt-BR": "[Gerente do Jardim]\nDetectado usuário não registrado.",
+        "es-ES": "[Encargado de acceso al Jardín]\nSe ha detectado contacto de un intruso no registrado."
     },
     "5rziBw": {
-        "ko": "[화원 출입 담당자]\n파티 책임자에 해당하는 권한을 제시하지 않으면 다음 단계로 진행할 수 없습니다.",
-        "en": "[Garden Access Officer]\nYou cannot proceed to the next step unless you present the authority corresponding to the party leader.",
-        "pt": "[Gerente do Jardim]\nNão será possível prosseguir sem a autoridade correspondente ao líder do grupo.",
-        "es": "[Encargado de acceso al Jardín]\nSi no presenta la autorización correspondiente al líder del grupo, no podrá avanzar al siguiente paso."
+        "ko-KR": "[화원 출입 담당자]\n파티 책임자에 해당하는 권한을 제시하지 않으면 다음 단계로 진행할 수 없습니다.",
+        "en-US": "[Garden Access Officer]\nYou cannot proceed to the next step unless you present the authority corresponding to the party leader.",
+        "pt-BR": "[Gerente do Jardim]\nNão será possível prosseguir sem a autoridade correspondente ao líder do grupo.",
+        "es-ES": "[Encargado de acceso al Jardín]\nSi no presenta la autorización correspondiente al líder del grupo, no podrá avanzar al siguiente paso."
     },
     "57ziBw": {
-        "ko": "^0000FF던전의 출입 후유증이 사라지지 않았습니다. 이 시간동안에는 던전의 출입이 불가능합니다.",
-        "en": "^0000FFThe aftereffects of entering the dungeon have not worn off. You cannot enter the dungeon during this time.",
-        "pt": "^0000FFVocê ainda está sob efeito do tempo de espera. Não é possível entrar na instância.",
-        "es": "^0000FFLos efectos posteriores de la entrada a la mazmorra no han desaparecido. Durante este tiempo, no es posible entrar a la mazmorra."
+        "ko-KR": "^0000FF던전의 출입 후유증이 사라지지 않았습니다. 이 시간동안에는 던전의 출입이 불가능합니다.",
+        "en-US": "^0000FFThe aftereffects of entering the dungeon have not worn off. You cannot enter the dungeon during this time.",
+        "pt-BR": "^0000FFVocê ainda está sob efeito do tempo de espera. Não é possível entrar na instância.",
+        "es-ES": "^0000FFLos efectos posteriores de la entrada a la mazmorra no han desaparecido. Durante este tiempo, no es posible entrar a la mazmorra."
     },
     "6LziBw": {
-        "ko": "숨겨진 화원",
-        "en": "Hidden Garden",
-        "pt": "Jardim Secreto",
-        "es": "Jardín Oculto"
+        "ko-KR": "숨겨진 화원",
+        "en-US": "Hidden Garden",
+        "pt-BR": "Jardim Secreto",
+        "es-ES": "Jardín Oculto"
     },
     "6bziBw": {
-        "ko": "^FF0000입장^000000",
-        "en": "^FF0000Enter^000000",
-        "pt": "^FF0000Entrar^000000",
-        "es": "^FF0000Entrar^000000"
+        "ko-KR": "^FF0000입장^000000",
+        "en-US": "^FF0000Enter^000000",
+        "pt-BR": "^FF0000Entrar^000000",
+        "es-ES": "^FF0000Entrar^000000"
     },
     "6rziBw": {
-        "ko": "인증이 완료된 관리자는 내부로 입장 가능합니다.",
-        "en": "Administrators with completed authentication may enter inside.",
-        "pt": "Podem entrar.",
-        "es": "Los administradores con autenticación completada pueden entrar al interior."
+        "ko-KR": "인증이 완료된 관리자는 내부로 입장 가능합니다.",
+        "en-US": "Administrators with completed authentication may enter inside.",
+        "pt-BR": "Podem entrar.",
+        "es-ES": "Los administradores con autenticación completada pueden entrar al interior."
     },
     "67ziBw": {
-        "ko": "[화원 출입 담당자]\n권한을 분실한 관리자일 경우 본인 인증 절차를 통해 권한 재발급을 받을 수 있습니다.",
-        "en": "[Garden Access Officer]\nIf you are an administrator who has lost their authorization, you can have it reissued through an identity verification procedure.",
-        "pt": "[Gerente do Jardim]\nSe perdeu a autorização, é possível restabelecê-la por meio do procedimento de autenticação de identidade.",
-        "es": "[Encargado de acceso al Jardín]\nSi es un administrador que ha perdido su autorización, puede recibir una reemisión de la autorización mediante el procedimiento de verificación de identidad."
+        "ko-KR": "[화원 출입 담당자]\n권한을 분실한 관리자일 경우 본인 인증 절차를 통해 권한 재발급을 받을 수 있습니다.",
+        "en-US": "[Garden Access Officer]\nIf you are an administrator who has lost their authorization, you can have it reissued through an identity verification procedure.",
+        "pt-BR": "[Gerente do Jardim]\nSe perdeu a autorização, é possível restabelecê-la por meio do procedimento de autenticação de identidade.",
+        "es-ES": "[Encargado de acceso al Jardín]\nSi es un administrador que ha perdido su autorización, puede recibir una reemisión de la autorización mediante el procedimiento de verificación de identidad."
     },
     "7LziBw": {
-        "ko": "그만두고 물러난다",
-        "en": "Stop and withdraw",
-        "pt": "Desistir",
-        "es": "Desistir y retirarse"
+        "ko-KR": "그만두고 물러난다",
+        "en-US": "Stop and withdraw",
+        "pt-BR": "Desistir",
+        "es-ES": "Desistir y retirarse"
     },
     "7bziBw": {
-        "ko": "본인 인증",
-        "en": "Identity Verification",
-        "pt": "Autenticar",
-        "es": "Verificación de identidad"
+        "ko-KR": "본인 인증",
+        "en-US": "Identity Verification",
+        "pt-BR": "Autenticar",
+        "es-ES": "Verificación de identidad"
     },
     "7rziBw": {
-        "ko": "[화원 출입 담당자]\n현명한 선택입니다.",
-        "en": "[Garden Access Officer]\nA wise choice.",
-        "pt": "[Gerente do Jardim]\nÉ uma escolha sábia.",
-        "es": "[Encargado de acceso al Jardín]\nEs una elección sabia."
+        "ko-KR": "[화원 출입 담당자]\n현명한 선택입니다.",
+        "en-US": "[Garden Access Officer]\nA wise choice.",
+        "pt-BR": "[Gerente do Jardim]\nÉ uma escolha sábia.",
+        "es-ES": "[Encargado de acceso al Jardín]\nEs una elección sabia."
     },
     "77ziBw": {
-        "ko": "^0000FF본인 인증 절차 실패^000000",
-        "en": "^0000FFIdentity verification procedure failed^000000",
-        "pt": "^0000FFFalha no procedimento de autenticação de identidade^000000",
-        "es": "^0000FFFallo en el procedimiento de verificación de identidad^000000"
+        "ko-KR": "^0000FF본인 인증 절차 실패^000000",
+        "en-US": "^0000FFIdentity verification procedure failed^000000",
+        "pt-BR": "^0000FFFalha no procedimento de autenticação de identidade^000000",
+        "es-ES": "^0000FFFallo en el procedimiento de verificación de identidad^000000"
     },
     "8LziBw": {
-        "ko": "[보안구역 출입 담당자]\n관리자 전용모드",
-        "en": "[Security Zone Access Officer]\nAdministrator-only Mode",
-        "pt": "[Gerente da Área de Segurança]\nModo exclusivo do administrador",
-        "es": "[Encargado de acceso a la zona de seguridad]\nModo exclusivo para administradores"
+        "ko-KR": "[보안구역 출입 담당자]\n관리자 전용모드",
+        "en-US": "[Security Zone Access Officer]\nAdministrator-only Mode",
+        "pt-BR": "[Gerente da Área de Segurança]\nModo exclusivo do administrador",
+        "es-ES": "[Encargado de acceso a la zona de seguridad]\nModo exclusivo para administradores"
     },
     "8bziBw": {
-        "ko": "노멀미션 초기화",
-        "en": "Reset Normal Mission",
-        "pt": "Reiniciar missão normal",
-        "es": "Reiniciar misión normal"
+        "ko-KR": "노멀미션 초기화",
+        "en-US": "Reset Normal Mission",
+        "pt-BR": "Reiniciar missão normal",
+        "es-ES": "Reiniciar misión normal"
     },
     "8rziBw": {
-        "ko": "하드미션 초기화",
-        "en": "Reset Hard Mission",
-        "pt": "Reiniciar missão difícil",
-        "es": "Reiniciar misión difícil"
+        "ko-KR": "하드미션 초기화",
+        "en-US": "Reset Hard Mission",
+        "pt-BR": "Reiniciar missão difícil",
+        "es-ES": "Reiniciar misión difícil"
     },
     "87ziBw": {
-        "ko": "시나리오모드로 돌아감",
-        "en": "Return to Scenario Mode",
-        "pt": "Voltar à missão de acesso",
-        "es": "Volver al modo escenario"
+        "ko-KR": "시나리오모드로 돌아감",
+        "en-US": "Return to Scenario Mode",
+        "pt-BR": "Voltar à missão de acesso",
+        "es-ES": "Volver al modo escenario"
     },
     "9LziBw": {
-        "ko": "[보안구역 출입 담당자]\n신분이 증명되신 분이군요, 보안구역 출입이 가능합니다. 무엇을 도와드릴까요?",
-        "en": "[Security Area Access Officer]\nYour identity has been verified, so you may enter the security area. How may I help you?",
-        "pt": "[Gerente da Área de Segurança]\nIdentidade confirmada. Você pode acessar a área de segurança. Em que posso ajudar?",
-        "es": "[Responsable de acceso a la zona de seguridad]\nYa ha demostrado su identidad, puede acceder a la zona de seguridad. ¿En qué puedo ayudarle?"
+        "ko-KR": "[보안구역 출입 담당자]\n신분이 증명되신 분이군요, 보안구역 출입이 가능합니다. 무엇을 도와드릴까요?",
+        "en-US": "[Security Area Access Officer]\nYour identity has been verified, so you may enter the security area. How may I help you?",
+        "pt-BR": "[Gerente da Área de Segurança]\nIdentidade confirmada. Você pode acessar a área de segurança. Em que posso ajudar?",
+        "es-ES": "[Responsable de acceso a la zona de seguridad]\nYa ha demostrado su identidad, puede acceder a la zona de seguridad. ¿En qué puedo ayudarle?"
     },
     "9bziBw": {
-        "ko": "본인인증",
-        "en": "Identity Verification",
-        "pt": "Autenticar identidade",
-        "es": "Verificación de identidad"
+        "ko-KR": "본인인증",
+        "en-US": "Identity Verification",
+        "pt-BR": "Autenticar identidade",
+        "es-ES": "Verificación de identidad"
     },
     "9rziBw": {
-        "ko": "입장",
-        "en": "Enter",
-        "pt": "Entrar",
-        "es": "Entrar"
+        "ko-KR": "입장",
+        "en-US": "Enter",
+        "pt-BR": "Entrar",
+        "es-ES": "Entrar"
     },
     "97ziBw": {
-        "ko": "[보안구역 출입 담당자]\n알겠습니다.",
-        "en": "[Security Area Access Officer]\nUnderstood.",
-        "pt": "[Gerente da Área de Segurança]\nEntendido.",
-        "es": "[Responsable de acceso a la zona de seguridad]\nEntendido."
+        "ko-KR": "[보안구역 출입 담당자]\n알겠습니다.",
+        "en-US": "[Security Area Access Officer]\nUnderstood.",
+        "pt-BR": "[Gerente da Área de Segurança]\nEntendido.",
+        "es-ES": "[Responsable de acceso a la zona de seguridad]\nEntendido."
     },
     "+LziBw": {
-        "ko": "[보안구역 출입 담당자]\n파티 책임자만 인증 가능합니다. 책임자 분에게 맡기시죠.",
-        "en": "[Security Area Access Officer]\nOnly the party leader can be verified. Leave it to the leader.",
-        "pt": "[Gerente da Área de Segurança]\nApenas o líder do grupo pode se autenticar. Deixe isso com o líder.",
-        "es": "[Responsable de acceso a la zona de seguridad]\nSolo el líder del grupo puede verificarse. Déjeselo al líder."
+        "ko-KR": "[보안구역 출입 담당자]\n파티 책임자만 인증 가능합니다. 책임자 분에게 맡기시죠.",
+        "en-US": "[Security Area Access Officer]\nOnly the party leader can be verified. Leave it to the leader.",
+        "pt-BR": "[Gerente da Área de Segurança]\nApenas o líder do grupo pode se autenticar. Deixe isso com o líder.",
+        "es-ES": "[Responsable de acceso a la zona de seguridad]\nSolo el líder del grupo puede verificarse. Déjeselo al líder."
     },
     "+bziBw": {
-        "ko": "^FF0000제 2 보안구역 출입신청^000000",
-        "en": "^FF0000Apply for Entry to Security Area 2^000000",
-        "pt": "^FF0000Solicitar acesso à zona 2^000000",
-        "es": "^FF0000Solicitud de acceso a la Zona de seguridad 2^000000"
+        "ko-KR": "^FF0000제 2 보안구역 출입신청^000000",
+        "en-US": "^FF0000Apply for Entry to Security Area 2^000000",
+        "pt-BR": "^FF0000Solicitar acesso à zona 2^000000",
+        "es-ES": "^FF0000Solicitud de acceso a la Zona de seguridad 2^000000"
     },
     "+rziBw": {
-        "ko": "제 1 보안구역 출입신청",
-        "en": "Apply for Entry to Security Area 1",
-        "pt": "Solicitar acesso à área 1",
-        "es": "Solicitud de acceso a la Zona de seguridad 1"
+        "ko-KR": "제 1 보안구역 출입신청",
+        "en-US": "Apply for Entry to Security Area 1",
+        "pt-BR": "Solicitar acesso à área 1",
+        "es-ES": "Solicitud de acceso a la Zona de seguridad 1"
     },
     "+7ziBw": {
-        "ko": "제 1 보안구역",
-        "en": "Security Area 1",
-        "pt": "Zona de Segurança 1",
-        "es": "Zona de seguridad 1"
+        "ko-KR": "제 1 보안구역",
+        "en-US": "Security Area 1",
+        "pt-BR": "Zona de Segurança 1",
+        "es-ES": "Zona de seguridad 1"
     },
     "/LziBw": {
-        "ko": "제 2 보안구역",
-        "en": "Security Area 2",
-        "pt": "Zona de Segurança 2",
-        "es": "Zona de seguridad 2"
+        "ko-KR": "제 2 보안구역",
+        "en-US": "Security Area 2",
+        "pt-BR": "Zona de Segurança 2",
+        "es-ES": "Zona de seguridad 2"
     },
     "/bziBw": {
-        "ko": "^FF0000제 2 보안구역^000000",
-        "en": "^FF0000Security Area 2^000000",
-        "pt": "^FF0000Zona de Segurança 2^000000",
-        "es": "^FF0000Zona de seguridad 2^000000"
+        "ko-KR": "^FF0000제 2 보안구역^000000",
+        "en-US": "^FF0000Security Area 2^000000",
+        "pt-BR": "^FF0000Zona de Segurança 2^000000",
+        "es-ES": "^FF0000Zona de seguridad 2^000000"
     },
     "/rziBw": {
-        "ko": "제 1 보안구역",
-        "en": "Security Area 1",
-        "pt": "Zona de Segurança 1",
-        "es": "Zona de seguridad 1"
+        "ko-KR": "제 1 보안구역",
+        "en-US": "Security Area 1",
+        "pt-BR": "Zona de Segurança 1",
+        "es-ES": "Zona de seguridad 1"
     },
     "/7ziBw": {
-        "ko": "[보안구역 출입 담당자]\n파티 책임자가 모든 출입허가를 완료한 장소로만 이동 가능합니다. 발급받은 출입 지역을 다시 확인하십시오.",
-        "en": "[Security Area Access Officer]\nYou may only move to locations for which the party leader has completed all entry permits. Please check your issued access area again.",
-        "pt": "[Gerente da Área de Segurança]\nVocê só pode se mover para locais em que o líder do grupo concluiu todas as permissões de acesso. Verifique novamente a área de acesso emitida.",
-        "es": "[Responsable de acceso a la zona de seguridad]\nSolo puede desplazarse a lugares para los que el líder del grupo haya completado todos los permisos de acceso. Verifique de nuevo la zona de acceso emitida."
+        "ko-KR": "[보안구역 출입 담당자]\n파티 책임자가 모든 출입허가를 완료한 장소로만 이동 가능합니다. 발급받은 출입 지역을 다시 확인하십시오.",
+        "en-US": "[Security Area Access Officer]\nYou may only move to locations for which the party leader has completed all entry permits. Please check your issued access area again.",
+        "pt-BR": "[Gerente da Área de Segurança]\nVocê só pode se mover para locais em que o líder do grupo concluiu todas as permissões de acesso. Verifique novamente a área de acesso emitida.",
+        "es-ES": "[Responsable de acceso a la zona de seguridad]\nSolo puede desplazarse a lugares para los que el líder del grupo haya completado todos los permisos de acceso. Verifique de nuevo la zona de acceso emitida."
     }
 }

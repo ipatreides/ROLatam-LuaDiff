@@ -1,1001 +1,1001 @@
 {
     "wPaEBQ": {
-        "en": "Hypno Faz Tudo",
-        "pt": "Hypno Faz Tudo"
+        "en-US": "Hypno Faz Tudo",
+        "pt-BR": "Hypno Faz Tudo"
     },
     "wfaEBQ": {
-        "en": "[Hypno]\nWho are you?\n????????????",
-        "pt": "[Hypno]\nWho are you?\n????????????"
+        "en-US": "[Hypno]\nWho are you?\n????????????",
+        "pt-BR": "[Hypno]\nWho are you?\n????????????"
     },
     "wvaEBQ": {
-        "en": "[Hypno]\nOh, you got it. Go ahead then.\nBe careful! Don't touch what you don't know\nIt may bug your character forever!",
-        "pt": "[Hypno]\nOh, you got it. Go ahead then.\nBe careful! Don't touch what you don't know\nIt may bug your character forever!"
+        "en-US": "[Hypno]\nOh, you got it. Go ahead then.\nBe careful! Don't touch what you don't know\nIt may bug your character forever!",
+        "pt-BR": "[Hypno]\nOh, you got it. Go ahead then.\nBe careful! Don't touch what you don't know\nIt may bug your character forever!"
     },
     "w/aEBQ": {
-        "en": "[Hypno]\nas you want!",
-        "pt": "[Hypno]\nas you want!"
+        "en-US": "[Hypno]\nas you want!",
+        "pt-BR": "[Hypno]\nas you want!"
     },
     "xPaEBQ": {
-        "en": "[Hypno]\nwrong password.",
-        "pt": "[Hypno]\nwrong password."
+        "en-US": "[Hypno]\nwrong password.",
+        "pt-BR": "[Hypno]\nwrong password."
     },
     "xfaEBQ": {
-        "en": "[Hypno]\nWhich service do you need?",
-        "pt": "[Hypno]\nWhich service do you need?\n¡¡\n^330099Choose :B^000000"
+        "en-US": "[Hypno]\nWhich service do you need?",
+        "pt-BR": "[Hypno]\nWhich service do you need?\n¡¡\n^330099Choose :B^000000"
     },
     "xvaEBQ": {
-        "en": "^FAC0CCChoose :B^000000",
-        "pt": "[01]need nothing[01]"
+        "en-US": "^FAC0CCChoose :B^000000",
+        "pt-BR": "[01]need nothing[01]"
     },
     "x/aEBQ": {
-        "en": "[01]need nothing[01]",
-        "pt": "[02]save point[02]"
+        "en-US": "[01]need nothing[01]",
+        "pt-BR": "[02]save point[02]"
     },
     "yPaEBQ": {
-        "en": "[02]save point[02]",
-        "pt": "[03]job change[03]"
+        "en-US": "[02]save point[02]",
+        "pt-BR": "[03]job change[03]"
     },
     "yfaEBQ": {
-        "en": "[03]job change[03]",
-        "pt": "[04]reset service[04]"
+        "en-US": "[03]job change[03]",
+        "pt-BR": "[04]reset service[04]"
     },
     "yvaEBQ": {
-        "en": "[04]reset service[04]",
-        "pt": "[05]skill service[05]"
+        "en-US": "[04]reset service[04]",
+        "pt-BR": "[05]skill service[05]"
     },
     "y/aEBQ": {
-        "en": "[05]skill service[05]",
-        "pt": "[06]Riding service[06]"
+        "en-US": "[05]skill service[05]",
+        "pt-BR": "[06]Riding service[06]"
     },
     "zPaEBQ": {
-        "en": "[06]Riding service[06]",
-        "pt": "[07]Cart service[07]"
+        "en-US": "[06]Riding service[06]",
+        "pt-BR": "[07]Cart service[07]"
     },
     "zfaEBQ": {
-        "en": "[07]Cart service[07]",
-        "pt": "[08]Falcon service[08]"
+        "en-US": "[07]Cart service[07]",
+        "pt-BR": "[08]Falcon service[08]"
     },
     "zvaEBQ": {
-        "en": "[08]Falcon service[08]",
-        "pt": "[09]Buff service[09]"
+        "en-US": "[08]Falcon service[08]",
+        "pt-BR": "[09]Buff service[09]"
     },
     "z/aEBQ": {
-        "en": "[09]Buff service[09]",
-        "pt": "[10]Removal service[10]"
+        "en-US": "[09]Buff service[09]",
+        "pt-BR": "[10]Removal service[10]"
     },
     "0PaEBQ": {
-        "en": "[10]Removal service[10]",
-        "pt": "[]^006633Quest, Guest item Setting^000000"
+        "en-US": "[10]Removal service[10]",
+        "pt-BR": "[]^006633Quest, Guest item Setting^000000"
     },
     "0faEBQ": {
-        "en": "[]^615182Quest, Guest item Setting^000000",
-        "pt": "[Hypno]\nwhy do you waste your time?"
+        "en-US": "[]^615182Quest, Guest item Setting^000000",
+        "pt-BR": "[Hypno]\nwhy do you waste your time?"
     },
     "0vaEBQ": {
-        "en": "[Hypno]\nwhy do you waste your time?",
-        "pt": "[Hypno]\nsave point and storage service"
+        "en-US": "[Hypno]\nwhy do you waste your time?",
+        "pt-BR": "[Hypno]\nsave point and storage service"
     },
     "0/aEBQ": {
-        "en": "[Hypno]\nsave point and storage service",
-        "pt": "save point"
+        "en-US": "[Hypno]\nsave point and storage service",
+        "pt-BR": "save point"
     },
     "1PaEBQ": {
-        "en": "save point",
-        "pt": "storage"
+        "en-US": "save point",
+        "pt-BR": "storage"
     },
     "1faEBQ": {
-        "en": "storage",
-        "pt": "[Hypno]\nyour character is saved on this map"
+        "en-US": "storage",
+        "pt-BR": "[Hypno]\nyour character is saved on this map"
     },
     "1vaEBQ": {
-        "en": "[Hypno]\nyour character is saved on this map",
-        "pt": "[Hypno]\nopening storage-"
+        "en-US": "[Hypno]\nyour character is saved on this map",
+        "pt-BR": "[Hypno]\nopening storage-"
     },
     "1/aEBQ": {
-        "en": "[Hypno]\nopening storage-",
-        "pt": "[Hypno]\njob change service"
+        "en-US": "[Hypno]\nopening storage-",
+        "pt-BR": "[Hypno]\njob change service"
     },
     "2PaEBQ": {
-        "en": "[Hypno]\njob change service",
-        "pt": "1st job change"
+        "en-US": "[Hypno]\njob change service",
+        "pt-BR": "1st job change"
     },
     "2faEBQ": {
-        "en": "1st job change",
-        "pt": "2nd job change"
+        "en-US": "1st job change",
+        "pt-BR": "2nd job change"
     },
     "2vaEBQ": {
-        "en": "2nd job change",
-        "pt": "Rebirth"
+        "en-US": "2nd job change",
+        "pt-BR": "Rebirth"
     },
     "2/aEBQ": {
-        "en": "Rebirth",
-        "pt": "3rd job change"
+        "en-US": "Rebirth",
+        "pt-BR": "3rd job change"
     },
     "3PaEBQ": {
-        "en": "3rd job change",
-        "pt": "extended"
+        "en-US": "3rd job change",
+        "pt-BR": "extended"
     },
     "3faEBQ": {
-        "en": "extended",
-        "pt": "[Hypno]\nyou have chosen 1st job change service\nyou need job level 10."
+        "en-US": "extended",
+        "pt-BR": "[Hypno]\nyou have chosen 1st job change service\nyou need job level 10."
     },
     "3vaEBQ": {
-        "en": "[Hypno]\nyou have chosen 1st job change service\nyou need job level 10.",
-        "pt": "[Hypno]\nyou have to reach to job level 10."
+        "en-US": "[Hypno]\nyou have chosen 1st job change service\nyou need job level 10.",
+        "pt-BR": "[Hypno]\nyou have to reach to job level 10."
     },
     "3/aEBQ": {
-        "en": "[Hypno]\nyou have to reach to job level 10.",
-        "pt": "[Hypno]\nyou got remaining skill point"
+        "en-US": "[Hypno]\nyou have to reach to job level 10.",
+        "pt-BR": "[Hypno]\nyou got remaining skill point"
     },
     "4PaEBQ": {
-        "en": "[Hypno]\nyou got remaining skill point",
-        "pt": "[Hypno]\nOK you can change your job\nwhat would you be??"
+        "en-US": "[Hypno]\nyou got remaining skill point",
+        "pt-BR": "[Hypno]\nOK you can change your job\nwhat would you be??"
     },
     "4faEBQ": {
-        "en": "[Hypno]\nOK you can change your job\nwhat would you be??",
-        "pt": "quit service"
+        "en-US": "[Hypno]\nOK you can change your job\nwhat would you be??",
+        "pt-BR": "quit service"
     },
     "4vaEBQ": {
-        "en": "quit service",
-        "pt": "Sword man"
+        "en-US": "quit service",
+        "pt-BR": "Sword man"
     },
     "4/aEBQ": {
-        "en": "Sword man",
-        "pt": "Magician"
+        "en-US": "Sword man",
+        "pt-BR": "Magician"
     },
     "5PaEBQ": {
-        "en": "Magician",
-        "pt": "Archer"
+        "en-US": "Magician",
+        "pt-BR": "Archer"
     },
     "5faEBQ": {
-        "en": "Archer",
-        "pt": "Merchant"
+        "en-US": "Archer",
+        "pt-BR": "Merchant"
     },
     "5vaEBQ": {
-        "en": "Merchant",
-        "pt": "Thief"
+        "en-US": "Merchant",
+        "pt-BR": "Thief"
     },
     "5/aEBQ": {
-        "en": "Thief",
-        "pt": "acolyte"
+        "en-US": "Thief",
+        "pt-BR": "acolyte"
     },
     "6PaEBQ": {
-        "en": "acolyte",
-        "pt": "[Hypno]\nYou got nothing to deal with? Alright, bye then."
+        "en-US": "acolyte",
+        "pt-BR": "[Hypno]\nYou got nothing to deal with? Alright, bye then."
     },
     "6faEBQ": {
-        "en": "[Hypno]\nYou got nothing to deal with? Alright, bye then.",
-        "pt": "[Hypno]\nswordman job change done."
+        "en-US": "[Hypno]\nYou got nothing to deal with? Alright, bye then.",
+        "pt-BR": "[Hypno]\nswordman job change done."
     },
     "6vaEBQ": {
-        "en": "[Hypno]\nswordman job change done.",
-        "pt": "[Hypno]\nmagician job change done."
+        "en-US": "[Hypno]\nswordman job change done.",
+        "pt-BR": "[Hypno]\nmagician job change done."
     },
     "6/aEBQ": {
-        "en": "[Hypno]\nmagician job change done.",
-        "pt": "[Hypno]\narcher job change done."
+        "en-US": "[Hypno]\nmagician job change done.",
+        "pt-BR": "[Hypno]\narcher job change done."
     },
     "7PaEBQ": {
-        "en": "[Hypno]\narcher job change done.",
-        "pt": "[Hypno]\nmerchant job change done."
+        "en-US": "[Hypno]\narcher job change done.",
+        "pt-BR": "[Hypno]\nmerchant job change done."
     },
     "7faEBQ": {
-        "en": "[Hypno]\nmerchant job change done.",
-        "pt": "[Hypno]\nThief job change done."
+        "en-US": "[Hypno]\nmerchant job change done.",
+        "pt-BR": "[Hypno]\nThief job change done."
     },
     "7vaEBQ": {
-        "en": "[Hypno]\nThief job change done.",
-        "pt": "[Hypno]\nacolyte job change done."
+        "en-US": "[Hypno]\nThief job change done.",
+        "pt-BR": "[Hypno]\nacolyte job change done."
     },
     "7/aEBQ": {
-        "en": "[Hypno]\nacolyte job change done.",
-        "pt": "[Hypno]\nonly novice can change job through this service"
+        "en-US": "[Hypno]\nacolyte job change done.",
+        "pt-BR": "[Hypno]\nonly novice can change job through this service"
     },
     "8PaEBQ": {
-        "en": "[Hypno]\nonly novice can change job through this service",
-        "pt": "[Hypno]\nyou have chosen 1st job change service\nyou need job level 40."
+        "en-US": "[Hypno]\nonly novice can change job through this service",
+        "pt-BR": "[Hypno]\nyou have chosen 1st job change service\nyou need job level 40."
     },
     "8faEBQ": {
-        "en": "[Hypno]\nyou have chosen 1st job change service\nyou need job level 40.",
-        "pt": "[Hypno]\nyou have to reach to job level 40."
+        "en-US": "[Hypno]\nyou have chosen 1st job change service\nyou need job level 40.",
+        "pt-BR": "[Hypno]\nyou have to reach to job level 40."
     },
     "8vaEBQ": {
-        "en": "[Hypno]\nyou have to reach to job level 40.",
-        "pt": "[Hypno]\nOK you can change your job\nWhat would you like to be??"
+        "en-US": "[Hypno]\nyou have to reach to job level 40.",
+        "pt-BR": "[Hypno]\nOK you can change your job\nWhat would you like to be??"
     },
     "8/aEBQ": {
-        "en": "[Hypno]\nOK you can change your job\nWhat would you like to be??",
-        "pt": "knight"
+        "en-US": "[Hypno]\nOK you can change your job\nWhat would you like to be??",
+        "pt-BR": "knight"
     },
     "9PaEBQ": {
-        "en": "knight",
-        "pt": "crusader"
+        "en-US": "knight",
+        "pt-BR": "crusader"
     },
     "9faEBQ": {
-        "en": "crusader",
-        "pt": "[Hypno]\nChoose the step you want."
+        "en-US": "crusader",
+        "pt-BR": "[Hypno]\nChoose the step you want."
     },
     "9vaEBQ": {
-        "en": "[Hypno]\nChoose the step you want.",
-        "pt": "I now want to change my job"
+        "en-US": "[Hypno]\nChoose the step you want.",
+        "pt-BR": "I now want to change my job"
     },
     "9/aEBQ": {
-        "en": "I now want to change my job",
-        "pt": "Send me to the step before job change"
+        "en-US": "I now want to change my job",
+        "pt-BR": "Send me to the step before job change"
     },
     "+PaEBQ": {
-        "en": "Send me to the step before job change",
-        "pt": "[Hypno]\nknight job change done."
+        "en-US": "Send me to the step before job change",
+        "pt-BR": "[Hypno]\nknight job change done."
     },
     "+faEBQ": {
-        "en": "[Hypno]\nknight job change done.",
-        "pt": "[Hypno]\nAlright. You are ready to get a new job. Do you need to teleport to the job change place?"
+        "en-US": "[Hypno]\nknight job change done.",
+        "pt-BR": "[Hypno]\nAlright. You are ready to get a new job. Do you need to teleport to the job change place?"
     },
     "+vaEBQ": {
-        "en": "[Hypno]\nAlright. You are ready to get a new job. Do you need to teleport to the job change place?",
-        "pt": "no"
+        "en-US": "[Hypno]\nAlright. You are ready to get a new job. Do you need to teleport to the job change place?",
+        "pt-BR": "no"
     },
     "+/aEBQ": {
-        "en": "no",
-        "pt": "Yes, please"
+        "en-US": "no",
+        "pt-BR": "Yes, please"
     },
     "/PaEBQ": {
-        "en": "Yes, please",
-        "pt": "[Hypno]\nOk!."
+        "en-US": "Yes, please",
+        "pt-BR": "[Hypno]\nOk!."
     },
     "/faEBQ": {
-        "en": "[Hypno]\nOk!.",
-        "pt": "[Hypno]\nbye!!"
+        "en-US": "[Hypno]\nOk!.",
+        "pt-BR": "[Hypno]\nbye!!"
     },
     "/vaEBQ": {
-        "en": "[Hypno]\nbye!!",
-        "pt": "change my job now"
+        "en-US": "[Hypno]\nbye!!",
+        "pt-BR": "change my job now"
     },
     "//aEBQ": {
-        "en": "change my job now",
-        "pt": "right before job change"
+        "en-US": "change my job now",
+        "pt-BR": "right before job change"
     },
     "APeEBQ": {
-        "en": "right before job change",
-        "pt": "[Hypno]\ncrusader job change done."
+        "en-US": "right before job change",
+        "pt-BR": "[Hypno]\ncrusader job change done."
     },
     "AfeEBQ": {
-        "en": "[Hypno]\ncrusader job change done.",
-        "pt": "wizard"
+        "en-US": "[Hypno]\ncrusader job change done.",
+        "pt-BR": "wizard"
     },
     "AveEBQ": {
-        "en": "wizard",
-        "pt": "sage"
+        "en-US": "wizard",
+        "pt-BR": "sage"
     },
     "A/eEBQ": {
-        "en": "sage",
-        "pt": "[Hypno]\nwizard job change done."
+        "en-US": "sage",
+        "pt-BR": "[Hypno]\nwizard job change done."
     },
     "BPeEBQ": {
-        "en": "[Hypno]\nwizard job change done.",
-        "pt": "[Hypno]\nsage job change done."
+        "en-US": "[Hypno]\nwizard job change done.",
+        "pt-BR": "[Hypno]\nsage job change done."
     },
     "BfeEBQ": {
-        "en": "[Hypno]\nsage job change done.",
-        "pt": "hunter"
+        "en-US": "[Hypno]\nsage job change done.",
+        "pt-BR": "hunter"
     },
     "BveEBQ": {
-        "en": "hunter",
-        "pt": "bard//dancer"
+        "en-US": "hunter",
+        "pt-BR": "bard//dancer"
     },
     "B/eEBQ": {
-        "en": "bard//dancer",
-        "pt": "[Hypno]\nhunter job change done."
+        "en-US": "bard//dancer",
+        "pt-BR": "[Hypno]\nhunter job change done."
     },
     "CPeEBQ": {
-        "en": "[Hypno]\nhunter job change done.",
-        "pt": "[Hypno]\nas you are female Character, dancer job change done."
+        "en-US": "[Hypno]\nhunter job change done.",
+        "pt-BR": "[Hypno]\nas you are female Character, dancer job change done."
     },
     "CfeEBQ": {
-        "en": "[Hypno]\nas you are female Character, dancer job change done.",
-        "pt": "[Hypno]\nas you are male Character, bard job change done."
+        "en-US": "[Hypno]\nas you are female Character, dancer job change done.",
+        "pt-BR": "[Hypno]\nas you are male Character, bard job change done."
     },
     "CveEBQ": {
-        "en": "[Hypno]\nas you are male Character, bard job change done.",
-        "pt": "black smith"
+        "en-US": "[Hypno]\nas you are male Character, bard job change done.",
+        "pt-BR": "black smith"
     },
     "C/eEBQ": {
-        "en": "black smith",
-        "pt": "Alchmist"
+        "en-US": "black smith",
+        "pt-BR": "Alchmist"
     },
     "DPeEBQ": {
-        "en": "Alchmist",
-        "pt": "[Hypno]\nblack smith job change done."
+        "en-US": "Alchmist",
+        "pt-BR": "[Hypno]\nblack smith job change done."
     },
     "DfeEBQ": {
-        "en": "[Hypno]\nblack smith job change done.",
-        "pt": "[Hypno]\nalchemist job change done."
+        "en-US": "[Hypno]\nblack smith job change done.",
+        "pt-BR": "[Hypno]\nalchemist job change done."
     },
     "DveEBQ": {
-        "en": "[Hypno]\nalchemist job change done.",
-        "pt": "assasin"
+        "en-US": "[Hypno]\nalchemist job change done.",
+        "pt-BR": "assasin"
     },
     "D/eEBQ": {
-        "en": "assasin",
-        "pt": "rogue"
+        "en-US": "assasin",
+        "pt-BR": "rogue"
     },
     "EPeEBQ": {
-        "en": "rogue",
-        "pt": "[Hypno]\nassassin job change done."
+        "en-US": "rogue",
+        "pt-BR": "[Hypno]\nassassin job change done."
     },
     "EfeEBQ": {
-        "en": "[Hypno]\nassassin job change done.",
-        "pt": "[Hypno]\nrogue job change done."
+        "en-US": "[Hypno]\nassassin job change done.",
+        "pt-BR": "[Hypno]\nrogue job change done."
     },
     "EveEBQ": {
-        "en": "[Hypno]\nrogue job change done.",
-        "pt": "priest"
+        "en-US": "[Hypno]\nrogue job change done.",
+        "pt-BR": "priest"
     },
     "E/eEBQ": {
-        "en": "priest",
-        "pt": "Monk"
+        "en-US": "priest",
+        "pt-BR": "Monk"
     },
     "FPeEBQ": {
-        "en": "Monk",
-        "pt": "[Hypno]\npriest job change done."
+        "en-US": "Monk",
+        "pt-BR": "[Hypno]\npriest job change done."
     },
     "FfeEBQ": {
-        "en": "[Hypno]\npriest job change done.",
-        "pt": "[Hypno]\nmonk job change done."
+        "en-US": "[Hypno]\npriest job change done.",
+        "pt-BR": "[Hypno]\nmonk job change done."
     },
     "FveEBQ": {
-        "en": "[Hypno]\nmonk job change done.",
-        "pt": "[Hypno]\nyou don't have second job to be changed."
+        "en-US": "[Hypno]\nmonk job change done.",
+        "pt-BR": "[Hypno]\nyou don't have second job to be changed."
     },
     "F/eEBQ": {
-        "en": "[Hypno]\nyou don't have second job to be changed.",
-        "pt": "[Hypno]\nyou have chosen Rebirth service\nI need to check if you already reached to level 99, and you shouldn't hold any point remained."
+        "en-US": "[Hypno]\nyou don't have second job to be changed.",
+        "pt-BR": "[Hypno]\nyou have chosen Rebirth service\nI need to check if you already reached to level 99, and you shouldn't hold any point remained."
     },
     "GPeEBQ": {
-        "en": "[Hypno]\nyou have chosen Rebirth service\nI need to check if you already reached to level 99, and you shouldn't hold any point remained.",
-        "pt": "[Hypno]\nSorry but you can't. You are not yet in level 99."
+        "en-US": "[Hypno]\nyou have chosen Rebirth service\nI need to check if you already reached to level 99, and you shouldn't hold any point remained.",
+        "pt-BR": "[Hypno]\nSorry but you can't. You are not yet in level 99."
     },
     "GfeEBQ": {
-        "en": "[Hypno]\nSorry but you can't. You are not yet in level 99.",
-        "pt": "[Hypno]\nNo way. You still have some points. Go to spend all of them."
+        "en-US": "[Hypno]\nSorry but you can't. You are not yet in level 99.",
+        "pt-BR": "[Hypno]\nNo way. You still have some points. Go to spend all of them."
     },
     "GveEBQ": {
-        "en": "[Hypno]\nNo way. You still have some points. Go to spend all of them.",
-        "pt": "[Hypno]\nEverything seems correct!\nDo you want to transcend instantly?"
+        "en-US": "[Hypno]\nNo way. You still have some points. Go to spend all of them.",
+        "pt-BR": "[Hypno]\nEverything seems correct!\nDo you want to transcend instantly?"
     },
     "G/eEBQ": {
-        "en": "[Hypno]\nEverything seems correct!\nDo you want to transcend instantly?",
-        "pt": "Transcend"
+        "en-US": "[Hypno]\nEverything seems correct!\nDo you want to transcend instantly?",
+        "pt-BR": "Transcend"
     },
     "HPeEBQ": {
-        "en": "Transcend",
-        "pt": "karma initialization"
+        "en-US": "Transcend",
+        "pt-BR": "karma initialization"
     },
     "HfeEBQ": {
-        "en": "karma initialization",
-        "pt": "[Hypno]\nAlright. You can come back whenever you want."
+        "en-US": "karma initialization",
+        "pt-BR": "[Hypno]\nAlright. You can come back whenever you want."
     },
     "HveEBQ": {
-        "en": "[Hypno]\nAlright. You can come back whenever you want.",
-        "pt": "[Hypno]\njob_karma initialized."
+        "en-US": "[Hypno]\nAlright. You can come back whenever you want.",
+        "pt-BR": "[Hypno]\njob_karma initialized."
     },
     "H/eEBQ": {
-        "en": "[Hypno]\njob_karma initialized.",
-        "pt": "[Hypno]\nOne!"
+        "en-US": "[Hypno]\njob_karma initialized.",
+        "pt-BR": "[Hypno]\nOne!"
     },
     "IPeEBQ": {
-        "en": "[Hypno]\nOne!",
-        "pt": "[Hypno]\nTwo!!"
+        "en-US": "[Hypno]\nOne!",
+        "pt-BR": "[Hypno]\nTwo!!"
     },
     "IfeEBQ": {
-        "en": "[Hypno]\nTwo!!",
-        "pt": "[Hypno]\nThree!!!"
+        "en-US": "[Hypno]\nTwo!!",
+        "pt-BR": "[Hypno]\nThree!!!"
     },
     "IveEBQ": {
-        "en": "[Hypno]\nThree!!!",
-        "pt": "[Hypno]\nIt seems that your job cannot transcend."
+        "en-US": "[Hypno]\nThree!!!",
+        "pt-BR": "[Hypno]\nIt seems that your job cannot transcend."
     },
     "I/eEBQ": {
-        "en": "[Hypno]\nIt seems that your job cannot transcend.",
-        "pt": "[Hypno]\nFirst Aid, Play Dead Skill gained!!\nTranscendance Completed!! Congratulations!"
+        "en-US": "[Hypno]\nIt seems that your job cannot transcend.",
+        "pt-BR": "[Hypno]\nFirst Aid, Play Dead Skill gained!!\nTranscendance Completed!! Congratulations!"
     },
     "JPeEBQ": {
-        "en": "[Hypno]\nFirst Aid, Play Dead Skill gained!!\nTranscendance Completed!! Congratulations!",
-        "pt": "[Hypno]\nDo you want to change your job after Rebirth??\nI am going to check if your job level is 10 and if the point is still remained."
+        "en-US": "[Hypno]\nFirst Aid, Play Dead Skill gained!!\nTranscendance Completed!! Congratulations!",
+        "pt-BR": "[Hypno]\nDo you want to change your job after Rebirth??\nI am going to check if your job level is 10 and if the point is still remained."
     },
     "JfeEBQ": {
-        "en": "[Hypno]\nDo you want to change your job after Rebirth??\nI am going to check if your job level is 10 and if the point is still remained.",
-        "pt": "[Hypno]\nNo you can't. You haven't reached to Job level 10. Go to get the level 10."
+        "en-US": "[Hypno]\nDo you want to change your job after Rebirth??\nI am going to check if your job level is 10 and if the point is still remained.",
+        "pt-BR": "[Hypno]\nNo you can't. You haven't reached to Job level 10. Go to get the level 10."
     },
     "JveEBQ": {
-        "en": "[Hypno]\nNo you can't. You haven't reached to Job level 10. Go to get the level 10.",
-        "pt": "[Hypno]\nSorry. You need to spend the remaining skill point. Come back after doing it."
+        "en-US": "[Hypno]\nNo you can't. You haven't reached to Job level 10. Go to get the level 10.",
+        "pt-BR": "[Hypno]\nSorry. You need to spend the remaining skill point. Come back after doing it."
     },
     "J/eEBQ": {
-        "en": "[Hypno]\nSorry. You need to spend the remaining skill point. Come back after doing it.",
-        "pt": "[Hypno]\nOK. You can change your job.\nDo you wish to change now?"
+        "en-US": "[Hypno]\nSorry. You need to spend the remaining skill point. Come back after doing it.",
+        "pt-BR": "[Hypno]\nOK. You can change your job.\nDo you wish to change now?"
     },
     "KPeEBQ": {
-        "en": "[Hypno]\nOK. You can change your job.\nDo you wish to change now?",
-        "pt": "Change job now"
+        "en-US": "[Hypno]\nOK. You can change your job.\nDo you wish to change now?",
+        "pt-BR": "Change job now"
     },
     "KfeEBQ": {
-        "en": "Change job now",
-        "pt": "[Hypno]\nAlright. You can come back whenever you want"
+        "en-US": "Change job now",
+        "pt-BR": "[Hypno]\nAlright. You can come back whenever you want"
     },
     "KveEBQ": {
-        "en": "[Hypno]\nAlright. You can come back whenever you want",
-        "pt": "[Hypno]\nHigh Swordman Job Change Completed!! Congratulations!"
+        "en-US": "[Hypno]\nAlright. You can come back whenever you want",
+        "pt-BR": "[Hypno]\nHigh Swordman Job Change Completed!! Congratulations!"
     },
     "K/eEBQ": {
-        "en": "[Hypno]\nHigh Swordman Job Change Completed!! Congratulations!",
-        "pt": "[Hypno]\nHigh Acolyte Job Change Completed!! Congratulations!"
+        "en-US": "[Hypno]\nHigh Swordman Job Change Completed!! Congratulations!",
+        "pt-BR": "[Hypno]\nHigh Acolyte Job Change Completed!! Congratulations!"
     },
     "LPeEBQ": {
-        "en": "[Hypno]\nHigh Acolyte Job Change Completed!! Congratulations!",
-        "pt": "[Hypno]\nHigh Magician Job Change Completed!! Congratulations!"
+        "en-US": "[Hypno]\nHigh Acolyte Job Change Completed!! Congratulations!",
+        "pt-BR": "[Hypno]\nHigh Magician Job Change Completed!! Congratulations!"
     },
     "LfeEBQ": {
-        "en": "[Hypno]\nHigh Magician Job Change Completed!! Congratulations!",
-        "pt": "[Hypno]\nHigh Merchant Job Change Completed!! Congratulations!"
+        "en-US": "[Hypno]\nHigh Magician Job Change Completed!! Congratulations!",
+        "pt-BR": "[Hypno]\nHigh Merchant Job Change Completed!! Congratulations!"
     },
     "LveEBQ": {
-        "en": "[Hypno]\nHigh Merchant Job Change Completed!! Congratulations!",
-        "pt": "[Hypno]\nHigh Archer Job Change Completed!! Congratulations!"
+        "en-US": "[Hypno]\nHigh Merchant Job Change Completed!! Congratulations!",
+        "pt-BR": "[Hypno]\nHigh Archer Job Change Completed!! Congratulations!"
     },
     "L/eEBQ": {
-        "en": "[Hypno]\nHigh Archer Job Change Completed!! Congratulations!",
-        "pt": "[Hypno]\nHigh Thief Job Change Completed!! Congratulations!"
+        "en-US": "[Hypno]\nHigh Archer Job Change Completed!! Congratulations!",
+        "pt-BR": "[Hypno]\nHigh Thief Job Change Completed!! Congratulations!"
     },
     "MPeEBQ": {
-        "en": "[Hypno]\nHigh Thief Job Change Completed!! Congratulations!",
-        "pt": "[Hypno]\nYou are not supposed to be here. How did you get in here?"
+        "en-US": "[Hypno]\nHigh Thief Job Change Completed!! Congratulations!",
+        "pt-BR": "[Hypno]\nYou are not supposed to be here. How did you get in here?"
     },
     "MfeEBQ": {
-        "en": "[Hypno]\nYou are not supposed to be here. How did you get in here?",
-        "pt": "[Hypno]\nYou already want to do transcended 2nd job change?\nI need to check if you already reached to job level 40, and you shouldn't hold any point remained."
+        "en-US": "[Hypno]\nYou are not supposed to be here. How did you get in here?",
+        "pt-BR": "[Hypno]\nYou already want to do transcended 2nd job change?\nI need to check if you already reached to job level 40, and you shouldn't hold any point remained."
     },
     "MveEBQ": {
-        "en": "[Hypno]\nYou already want to do transcended 2nd job change?\nI need to check if you already reached to job level 40, and you shouldn't hold any point remained.",
-        "pt": "[Hypno]\nSorry but you can't. You have to reach to Job level 40. Go to get it."
+        "en-US": "[Hypno]\nYou already want to do transcended 2nd job change?\nI need to check if you already reached to job level 40, and you shouldn't hold any point remained.",
+        "pt-BR": "[Hypno]\nSorry but you can't. You have to reach to Job level 40. Go to get it."
     },
     "M/eEBQ": {
-        "en": "[Hypno]\nSorry but you can't. You have to reach to Job level 40. Go to get it.",
-        "pt": "[Hypno]\nOK. You have no problem to change your job.\nDo you wish to do it now??"
+        "en-US": "[Hypno]\nSorry but you can't. You have to reach to Job level 40. Go to get it.",
+        "pt-BR": "[Hypno]\nOK. You have no problem to change your job.\nDo you wish to do it now??"
     },
     "NPeEBQ": {
-        "en": "[Hypno]\nOK. You have no problem to change your job.\nDo you wish to do it now??",
-        "pt": "Want job change"
+        "en-US": "[Hypno]\nOK. You have no problem to change your job.\nDo you wish to do it now??",
+        "pt-BR": "Want job change"
     },
     "NfeEBQ": {
-        "en": "Want job change",
-        "pt": "[Hypno]\nLord Knight Job Change Completed!!! Congratulations!"
+        "en-US": "Want job change",
+        "pt-BR": "[Hypno]\nLord Knight Job Change Completed!!! Congratulations!"
     },
     "NveEBQ": {
-        "en": "[Hypno]\nLord Knight Job Change Completed!!! Congratulations!",
-        "pt": "[Hypno]\nHigh Priest Job Change Completed!!! Congratulations!"
+        "en-US": "[Hypno]\nLord Knight Job Change Completed!!! Congratulations!",
+        "pt-BR": "[Hypno]\nHigh Priest Job Change Completed!!! Congratulations!"
     },
     "N/eEBQ": {
-        "en": "[Hypno]\nHigh Priest Job Change Completed!!! Congratulations!",
-        "pt": "[Hypno]\nHigh Wizard Job Change Completed!! Congratulations!"
+        "en-US": "[Hypno]\nHigh Priest Job Change Completed!!! Congratulations!",
+        "pt-BR": "[Hypno]\nHigh Wizard Job Change Completed!! Congratulations!"
     },
     "OPeEBQ": {
-        "en": "[Hypno]\nHigh Wizard Job Change Completed!! Congratulations!",
-        "pt": "[Hypno]\nWhithsmith Job Change Completed!! Congratulations!"
+        "en-US": "[Hypno]\nHigh Wizard Job Change Completed!! Congratulations!",
+        "pt-BR": "[Hypno]\nWhithsmith Job Change Completed!! Congratulations!"
     },
     "OfeEBQ": {
-        "en": "[Hypno]\nWhithsmith Job Change Completed!! Congratulations!",
-        "pt": "[Hypno]\nSpiner Job Change Completed!!! Congratulations!"
+        "en-US": "[Hypno]\nWhithsmith Job Change Completed!! Congratulations!",
+        "pt-BR": "[Hypno]\nSpiner Job Change Completed!!! Congratulations!"
     },
     "OveEBQ": {
-        "en": "[Hypno]\nSpiner Job Change Completed!!! Congratulations!",
-        "pt": "[Hypno]\nAssassin Cross Job Change Completed!! Congratulations!"
+        "en-US": "[Hypno]\nSpiner Job Change Completed!!! Congratulations!",
+        "pt-BR": "[Hypno]\nAssassin Cross Job Change Completed!! Congratulations!"
     },
     "O/eEBQ": {
-        "en": "[Hypno]\nAssassin Cross Job Change Completed!! Congratulations!",
-        "pt": "[Hypno]\nPaladin Job Change Completed!!! Congratulations!"
+        "en-US": "[Hypno]\nAssassin Cross Job Change Completed!! Congratulations!",
+        "pt-BR": "[Hypno]\nPaladin Job Change Completed!!! Congratulations!"
     },
     "PPeEBQ": {
-        "en": "[Hypno]\nPaladin Job Change Completed!!! Congratulations!",
-        "pt": "[Hypno]\nChampion Job Change Completed!!! Congratulations!"
+        "en-US": "[Hypno]\nPaladin Job Change Completed!!! Congratulations!",
+        "pt-BR": "[Hypno]\nChampion Job Change Completed!!! Congratulations!"
     },
     "PfeEBQ": {
-        "en": "[Hypno]\nChampion Job Change Completed!!! Congratulations!",
-        "pt": "[Hypno]\nProfessor Job Change Completed!!! Congratulations!"
+        "en-US": "[Hypno]\nChampion Job Change Completed!!! Congratulations!",
+        "pt-BR": "[Hypno]\nProfessor Job Change Completed!!! Congratulations!"
     },
     "PveEBQ": {
-        "en": "[Hypno]\nProfessor Job Change Completed!!! Congratulations!",
-        "pt": "[Hypno]\nCreator Job Change Completed!!! Congratulations!"
+        "en-US": "[Hypno]\nProfessor Job Change Completed!!! Congratulations!",
+        "pt-BR": "[Hypno]\nCreator Job Change Completed!!! Congratulations!"
     },
     "P/eEBQ": {
-        "en": "[Hypno]\nCreator Job Change Completed!!! Congratulations!",
-        "pt": "[Hypno]\nStoker Job Change Completed!! Congratulations!"
+        "en-US": "[Hypno]\nCreator Job Change Completed!!! Congratulations!",
+        "pt-BR": "[Hypno]\nStoker Job Change Completed!! Congratulations!"
     },
     "QPeEBQ": {
-        "en": "[Hypno]\nStoker Job Change Completed!! Congratulations!",
-        "pt": "[Hypno]\nCrown Job Change Completed!!! Congratulations!"
+        "en-US": "[Hypno]\nStoker Job Change Completed!! Congratulations!",
+        "pt-BR": "[Hypno]\nCrown Job Change Completed!!! Congratulations!"
     },
     "QfeEBQ": {
-        "en": "[Hypno]\nCrown Job Change Completed!!! Congratulations!",
-        "pt": "[Hypno]\nGypsy Job Change Completed!! Congratulations!"
+        "en-US": "[Hypno]\nCrown Job Change Completed!!! Congratulations!",
+        "pt-BR": "[Hypno]\nGypsy Job Change Completed!! Congratulations!"
     },
     "QveEBQ": {
-        "en": "[Hypno]\nGypsy Job Change Completed!! Congratulations!",
-        "pt": "[Hypno]\nHow come you are here? You are not supposed to be here."
+        "en-US": "[Hypno]\nGypsy Job Change Completed!! Congratulations!",
+        "pt-BR": "[Hypno]\nHow come you are here? You are not supposed to be here."
     },
     "Q/eEBQ": {
-        "en": "[Hypno]\nHow come you are here? You are not supposed to be here.",
-        "pt": "[Hypno]\nYou seem to have transcended already or to have a job not possible to change."
+        "en-US": "[Hypno]\nHow come you are here? You are not supposed to be here.",
+        "pt-BR": "[Hypno]\nYou seem to have transcended already or to have a job not possible to change."
     },
     "RPeEBQ": {
-        "en": "[Hypno]\nYou seem to have transcended already or to have a job not possible to change.",
-        "pt": "[Hypno]\nYou've chosen the 3rd Job Change Service.\nI'm going to check up if you are level 99 and Job level 50, also if you have spent all skill points you had."
+        "en-US": "[Hypno]\nYou seem to have transcended already or to have a job not possible to change.",
+        "pt-BR": "[Hypno]\nYou've chosen the 3rd Job Change Service.\nI'm going to check up if you are level 99 and Job level 50, also if you have spent all skill points you had."
     },
     "RfeEBQ": {
-        "en": "[Hypno]\nYou've chosen the 3rd Job Change Service.\nI'm going to check up if you are level 99 and Job level 50, also if you have spent all skill points you had.",
-        "pt": "[Hypno]\nSorry. You are not yet level 99. Go to get more level for yourself."
+        "en-US": "[Hypno]\nYou've chosen the 3rd Job Change Service.\nI'm going to check up if you are level 99 and Job level 50, also if you have spent all skill points you had.",
+        "pt-BR": "[Hypno]\nSorry. You are not yet level 99. Go to get more level for yourself."
     },
     "RveEBQ": {
-        "en": "[Hypno]\nSorry. You are not yet level 99. Go to get more level for yourself.",
-        "pt": "[Hypno]\nNo you can't. You don't have a job level of 50. Come back after you reach to job level 50."
+        "en-US": "[Hypno]\nSorry. You are not yet level 99. Go to get more level for yourself.",
+        "pt-BR": "[Hypno]\nNo you can't. You don't have a job level of 50. Come back after you reach to job level 50."
     },
     "R/eEBQ": {
-        "en": "[Hypno]\nNo you can't. You don't have a job level of 50. Come back after you reach to job level 50.",
-        "pt": "[Hypno]\nHey. You still have skill points. Come back after spending all of them!"
+        "en-US": "[Hypno]\nNo you can't. You don't have a job level of 50. Come back after you reach to job level 50.",
+        "pt-BR": "[Hypno]\nHey. You still have skill points. Come back after spending all of them!"
     },
     "SPeEBQ": {
-        "en": "[Hypno]\nHey. You still have skill points. Come back after spending all of them!",
-        "pt": "[Hypno]\nOK. No problem with job change.\nFor your information, non transcended job also can get 3rd job change.\nThen you want to carry on job change now?"
+        "en-US": "[Hypno]\nHey. You still have skill points. Come back after spending all of them!",
+        "pt-BR": "[Hypno]\nOK. No problem with job change.\nFor your information, non transcended job also can get 3rd job change.\nThen you want to carry on job change now?"
     },
     "SfeEBQ": {
-        "en": "[Hypno]\nOK. No problem with job change.\nFor your information, non transcended job also can get 3rd job change.\nThen you want to carry on job change now?",
-        "pt": "job change"
+        "en-US": "[Hypno]\nOK. No problem with job change.\nFor your information, non transcended job also can get 3rd job change.\nThen you want to carry on job change now?",
+        "pt-BR": "job change"
     },
     "SveEBQ": {
-        "en": "job change",
-        "pt": "[Hypno]\nRune Knight job change done."
+        "en-US": "job change",
+        "pt-BR": "[Hypno]\nRune Knight job change done."
     },
     "S/eEBQ": {
-        "en": "[Hypno]\nRune Knight job change done.",
-        "pt": "[Hypno]\nWarlock job change done."
+        "en-US": "[Hypno]\nRune Knight job change done.",
+        "pt-BR": "[Hypno]\nWarlock job change done."
     },
     "TPeEBQ": {
-        "en": "[Hypno]\nWarlock job change done.",
-        "pt": "[Hypno]\nRanger job change done."
+        "en-US": "[Hypno]\nWarlock job change done.",
+        "pt-BR": "[Hypno]\nRanger job change done."
     },
     "TfeEBQ": {
-        "en": "[Hypno]\nRanger job change done.",
-        "pt": "[Hypno]\nMechanic job change done."
+        "en-US": "[Hypno]\nRanger job change done.",
+        "pt-BR": "[Hypno]\nMechanic job change done."
     },
     "TveEBQ": {
-        "en": "[Hypno]\nMechanic job change done.",
-        "pt": "[Hypno]\nGuillotine Cross job change done."
+        "en-US": "[Hypno]\nMechanic job change done.",
+        "pt-BR": "[Hypno]\nGuillotine Cross job change done."
     },
     "T/eEBQ": {
-        "en": "[Hypno]\nGuillotine Cross job change done.",
-        "pt": "[Hypno]\nArchbishop job change done."
+        "en-US": "[Hypno]\nGuillotine Cross job change done.",
+        "pt-BR": "[Hypno]\nArchbishop job change done."
     },
     "UPeEBQ": {
-        "en": "[Hypno]\nArchbishop job change done.",
-        "pt": "[Hypno]\nI'm sorry that I cannot get you to Right Before Job Change step"
+        "en-US": "[Hypno]\nArchbishop job change done.",
+        "pt-BR": "[Hypno]\nI'm sorry that I cannot get you to Right Before Job Change step"
     },
     "UfeEBQ": {
-        "en": "[Hypno]\nI'm sorry that I cannot get you to Right Before Job Change step",
-        "pt": "[Hypno]\nRoyal Guard job change done."
+        "en-US": "[Hypno]\nI'm sorry that I cannot get you to Right Before Job Change step",
+        "pt-BR": "[Hypno]\nRoyal Guard job change done."
     },
     "UveEBQ": {
-        "en": "[Hypno]\nRoyal Guard job change done.",
-        "pt": "[Hypno]\nSorcerer job change done."
+        "en-US": "[Hypno]\nRoyal Guard job change done.",
+        "pt-BR": "[Hypno]\nSorcerer job change done."
     },
     "U/eEBQ": {
-        "en": "[Hypno]\nSorcerer job change done.",
-        "pt": "[Hypno]\nMinstrel job change done."
+        "en-US": "[Hypno]\nSorcerer job change done.",
+        "pt-BR": "[Hypno]\nMinstrel job change done."
     },
     "VPeEBQ": {
-        "en": "[Hypno]\nMinstrel job change done.",
-        "pt": "[Hypno]\nWanderer job change done."
+        "en-US": "[Hypno]\nMinstrel job change done.",
+        "pt-BR": "[Hypno]\nWanderer job change done."
     },
     "VfeEBQ": {
-        "en": "[Hypno]\nWanderer job change done.",
-        "pt": "[Hypno]\nGenetic job change done."
+        "en-US": "[Hypno]\nWanderer job change done.",
+        "pt-BR": "[Hypno]\nGenetic job change done."
     },
     "VveEBQ": {
-        "en": "[Hypno]\nGenetic job change done.",
-        "pt": "[Hypno]\nShadow Chaser job change done."
+        "en-US": "[Hypno]\nGenetic job change done.",
+        "pt-BR": "[Hypno]\nShadow Chaser job change done."
     },
     "V/eEBQ": {
-        "en": "[Hypno]\nShadow Chaser job change done.",
-        "pt": "[Hypno]\nSura job change done."
+        "en-US": "[Hypno]\nShadow Chaser job change done.",
+        "pt-BR": "[Hypno]\nSura job change done."
     },
     "WPeEBQ": {
-        "en": "[Hypno]\nSura job change done.",
-        "pt": "[Hypno]\nYour job hasn't got developped yet for 3rd Job.~"
+        "en-US": "[Hypno]\nSura job change done.",
+        "pt-BR": "[Hypno]\nYour job hasn't got developped yet for 3rd Job.~"
     },
     "WfeEBQ": {
-        "en": "[Hypno]\nYour job hasn't got developped yet for 3rd Job.~",
-        "pt": "[Hypno]\nYou have chosen the extended Job change service.\nI need to check if you got to 10 of Job level and has no skill point left."
+        "en-US": "[Hypno]\nYour job hasn't got developped yet for 3rd Job.~",
+        "pt-BR": "[Hypno]\nYou have chosen the extended Job change service.\nI need to check if you got to 10 of Job level and has no skill point left."
     },
     "WveEBQ": {
-        "en": "[Hypno]\nYou have chosen the extended Job change service.\nI need to check if you got to 10 of Job level and has no skill point left.",
-        "pt": "[Hypno]\nSorry. You are not yet 10 of Job level. Come back after you get it."
+        "en-US": "[Hypno]\nYou have chosen the extended Job change service.\nI need to check if you got to 10 of Job level and has no skill point left.",
+        "pt-BR": "[Hypno]\nSorry. You are not yet 10 of Job level. Come back after you get it."
     },
     "W/eEBQ": {
-        "en": "[Hypno]\nSorry. You are not yet 10 of Job level. Come back after you get it.",
-        "pt": "[Hypno]\nNo you can't. You still hold some skill points left. Come back after spending them all."
+        "en-US": "[Hypno]\nSorry. You are not yet 10 of Job level. Come back after you get it.",
+        "pt-BR": "[Hypno]\nNo you can't. You still hold some skill points left. Come back after spending them all."
     },
     "XPeEBQ": {
-        "en": "[Hypno]\nNo you can't. You still hold some skill points left. Come back after spending them all.",
-        "pt": "[Hypno]\nOK. You can carry on job change.\nWhich job do you wish??\nRemember that you can be Super Novice only if you got to level 45 or higher."
+        "en-US": "[Hypno]\nNo you can't. You still hold some skill points left. Come back after spending them all.",
+        "pt-BR": "[Hypno]\nOK. You can carry on job change.\nWhich job do you wish??\nRemember that you can be Super Novice only if you got to level 45 or higher."
     },
     "XfeEBQ": {
-        "en": "[Hypno]\nOK. You can carry on job change.\nWhich job do you wish??\nRemember that you can be Super Novice only if you got to level 45 or higher.",
-        "pt": "Super Novice"
+        "en-US": "[Hypno]\nOK. You can carry on job change.\nWhich job do you wish??\nRemember that you can be Super Novice only if you got to level 45 or higher.",
+        "pt-BR": "Super Novice"
     },
     "XveEBQ": {
-        "en": "Super Novice",
-        "pt": "Taekwon Boy/Girl"
+        "en-US": "Super Novice",
+        "pt-BR": "Taekwon Boy/Girl"
     },
     "X/eEBQ": {
-        "en": "Taekwon Boy/Girl",
-        "pt": "Ninja"
+        "en-US": "Taekwon Boy/Girl",
+        "pt-BR": "Ninja"
     },
     "YPeEBQ": {
-        "en": "Ninja",
-        "pt": "Gunslinger"
+        "en-US": "Ninja",
+        "pt-BR": "Gunslinger"
     },
     "YfeEBQ": {
-        "en": "Gunslinger",
-        "pt": "[Hypno]\nNo way. Super Novice needs 45 or higher of level to change. Come back after you get it."
+        "en-US": "Gunslinger",
+        "pt-BR": "[Hypno]\nNo way. Super Novice needs 45 or higher of level to change. Come back after you get it."
     },
     "YveEBQ": {
-        "en": "[Hypno]\nNo way. Super Novice needs 45 or higher of level to change. Come back after you get it.",
-        "pt": "[Hypno]\nSuper Novice job change done."
+        "en-US": "[Hypno]\nNo way. Super Novice needs 45 or higher of level to change. Come back after you get it.",
+        "pt-BR": "[Hypno]\nSuper Novice job change done."
     },
     "Y/eEBQ": {
-        "en": "[Hypno]\nSuper Novice job change done.",
-        "pt": "[Hypno]\nTaekwon job change done."
+        "en-US": "[Hypno]\nSuper Novice job change done.",
+        "pt-BR": "[Hypno]\nTaekwon job change done."
     },
     "ZPeEBQ": {
-        "en": "[Hypno]\nTaekwon job change done.",
-        "pt": "[Hypno]\nNinja job change done."
+        "en-US": "[Hypno]\nTaekwon job change done.",
+        "pt-BR": "[Hypno]\nNinja job change done."
     },
     "ZfeEBQ": {
-        "en": "[Hypno]\nNinja job change done.",
-        "pt": "[Hypno]\nGunslinger job change done."
+        "en-US": "[Hypno]\nNinja job change done.",
+        "pt-BR": "[Hypno]\nGunslinger job change done."
     },
     "ZveEBQ": {
-        "en": "[Hypno]\nGunslinger job change done.",
-        "pt": "[Hypno]\nYou've chosen extended job change service.\nYour current job is Teakwon.\nI need to check if you are in 40 or higher of Job level, and if you have spent all skill points."
+        "en-US": "[Hypno]\nGunslinger job change done.",
+        "pt-BR": "[Hypno]\nYou've chosen extended job change service.\nYour current job is Teakwon.\nI need to check if you are in 40 or higher of Job level, and if you have spent all skill points."
     },
     "Z/eEBQ": {
-        "en": "[Hypno]\nYou've chosen extended job change service.\nYour current job is Teakwon.\nI need to check if you are in 40 or higher of Job level, and if you have spent all skill points.",
-        "pt": "[Hypno]\nSorry. You have reached to Job Level 40. Come back after you get it."
+        "en-US": "[Hypno]\nYou've chosen extended job change service.\nYour current job is Teakwon.\nI need to check if you are in 40 or higher of Job level, and if you have spent all skill points.",
+        "pt-BR": "[Hypno]\nSorry. You have reached to Job Level 40. Come back after you get it."
     },
     "aPeEBQ": {
-        "en": "[Hypno]\nSorry. You have reached to Job Level 40. Come back after you get it.",
-        "pt": "[Hypno]\nSorry. You still have some skill points. Spend all before carrying out job change."
+        "en-US": "[Hypno]\nSorry. You have reached to Job Level 40. Come back after you get it.",
+        "pt-BR": "[Hypno]\nSorry. You still have some skill points. Spend all before carrying out job change."
     },
     "afeEBQ": {
-        "en": "[Hypno]\nSorry. You still have some skill points. Spend all before carrying out job change.",
-        "pt": "[Hypno]\nOK. You have no problem to do it.\nWhich job do you want??"
+        "en-US": "[Hypno]\nSorry. You still have some skill points. Spend all before carrying out job change.",
+        "pt-BR": "[Hypno]\nOK. You have no problem to do it.\nWhich job do you want??"
     },
     "aveEBQ": {
-        "en": "[Hypno]\nOK. You have no problem to do it.\nWhich job do you want??",
-        "pt": "Star Gladiator"
+        "en-US": "[Hypno]\nOK. You have no problem to do it.\nWhich job do you want??",
+        "pt-BR": "Star Gladiator"
     },
     "a/eEBQ": {
-        "en": "Star Gladiator",
-        "pt": "Soul Linker"
+        "en-US": "Star Gladiator",
+        "pt-BR": "Soul Linker"
     },
     "bPeEBQ": {
-        "en": "Soul Linker",
-        "pt": "[Hypno]\nStar Gladiator job change done."
+        "en-US": "Soul Linker",
+        "pt-BR": "[Hypno]\nStar Gladiator job change done."
     },
     "bfeEBQ": {
-        "en": "[Hypno]\nStar Gladiator job change done.",
-        "pt": "[Hypno]\nSoul linker job change done."
+        "en-US": "[Hypno]\nStar Gladiator job change done.",
+        "pt-BR": "[Hypno]\nSoul linker job change done."
     },
     "bveEBQ": {
-        "en": "[Hypno]\nSoul linker job change done.",
-        "pt": "[Hypno]\nYou've chosen extended job change service.\nYour current job is Ninja.\nBut I can't change you into Kagerou or Oboro.\nYou have to complete the quest by yourself."
+        "en-US": "[Hypno]\nSoul linker job change done.",
+        "pt-BR": "[Hypno]\nYou've chosen extended job change service.\nYour current job is Ninja.\nBut I can't change you into Kagerou or Oboro.\nYou have to complete the quest by yourself."
     },
     "b/eEBQ": {
-        "en": "[Hypno]\nYou've chosen extended job change service.\nYour current job is Ninja.\nBut I can't change you into Kagerou or Oboro.\nYou have to complete the quest by yourself.",
-        "pt": "[Hypno]\nYou've chosen extended job change service.\nYour current job is Gunslinger.\nBut Gunslinger cannot change the job."
+        "en-US": "[Hypno]\nYou've chosen extended job change service.\nYour current job is Ninja.\nBut I can't change you into Kagerou or Oboro.\nYou have to complete the quest by yourself.",
+        "pt-BR": "[Hypno]\nYou've chosen extended job change service.\nYour current job is Gunslinger.\nBut Gunslinger cannot change the job."
     },
     "cPeEBQ": {
-        "en": "[Hypno]\nYou've chosen extended job change service.\nYour current job is Gunslinger.\nBut Gunslinger cannot change the job.",
-        "pt": "[Hypno]\nYou've chosen super novice 2 job change service."
+        "en-US": "[Hypno]\nYou've chosen extended job change service.\nYour current job is Gunslinger.\nBut Gunslinger cannot change the job.",
+        "pt-BR": "[Hypno]\nYou've chosen super novice 2 job change service."
     },
     "cfeEBQ": {
-        "en": "[Hypno]\nYou've chosen super novice 2 job change service.",
-        "pt": "[Hypno]\nOK. No problem with job change.\nChoose the step you want."
+        "en-US": "[Hypno]\nYou've chosen super novice 2 job change service.",
+        "pt-BR": "[Hypno]\nOK. No problem with job change.\nChoose the step you want."
     },
     "cveEBQ": {
-        "en": "[Hypno]\nOK. No problem with job change.\nChoose the step you want.",
-        "pt": "[Hypno]\nYou are not able to change to extended job or you have already changed your job."
+        "en-US": "[Hypno]\nOK. No problem with job change.\nChoose the step you want.",
+        "pt-BR": "[Hypno]\nYou are not able to change to extended job or you have already changed your job."
     },
     "c/eEBQ": {
-        "en": "[Hypno]\nYou are not able to change to extended job or you have already changed your job.",
-        "pt": "[Hypno]\nYou've chosen Reset Service.\nYou are allowed to hold till 1000 of weight."
+        "en-US": "[Hypno]\nYou are not able to change to extended job or you have already changed your job.",
+        "pt-BR": "[Hypno]\nYou've chosen Reset Service.\nYou are allowed to hold till 1000 of weight."
     },
     "dPeEBQ": {
-        "en": "[Hypno]\nYou've chosen Reset Service.\nYou are allowed to hold till 1000 of weight.",
-        "pt": "[Hypno]\nOh, yeah! And then\nI am just going to check the weight,\nSo if you don't want to get into any trouble,\nGo away and remove your Peco, Falcon, Worg,\nDragon, Gryphon, or Cart before doing it."
+        "en-US": "[Hypno]\nYou've chosen Reset Service.\nYou are allowed to hold till 1000 of weight.",
+        "pt-BR": "[Hypno]\nOh, yeah! And then\nI am just going to check the weight,\nSo if you don't want to get into any trouble,\nGo away and remove your Peco, Falcon, Worg,\nDragon, Gryphon, or Cart before doing it."
     },
     "dfeEBQ": {
-        "en": "[Hypno]\nOh, yeah! And then\nI am just going to check the weight,\nSo if you don't want to get into any trouble,\nGo away and remove your Peco, Falcon, Worg,\nDragon, Gryphon, or Cart before doing it.",
-        "pt": "[Hypno]\nDid I not tell you that the weight allowed is till 1000?"
+        "en-US": "[Hypno]\nOh, yeah! And then\nI am just going to check the weight,\nSo if you don't want to get into any trouble,\nGo away and remove your Peco, Falcon, Worg,\nDragon, Gryphon, or Cart before doing it.",
+        "pt-BR": "[Hypno]\nDid I not tell you that the weight allowed is till 1000?"
     },
     "dveEBQ": {
-        "en": "[Hypno]\nDid I not tell you that the weight allowed is till 1000?",
-        "pt": "[Hypno]\nAlright, everything seems OK.\nThen which reset service do you need?"
+        "en-US": "[Hypno]\nDid I not tell you that the weight allowed is till 1000?",
+        "pt-BR": "[Hypno]\nAlright, everything seems OK.\nThen which reset service do you need?"
     },
     "d/eEBQ": {
-        "en": "[Hypno]\nAlright, everything seems OK.\nThen which reset service do you need?",
-        "pt": "Skill Reset"
+        "en-US": "[Hypno]\nAlright, everything seems OK.\nThen which reset service do you need?",
+        "pt-BR": "Skill Reset"
     },
     "ePeEBQ": {
-        "en": "Skill Reset",
-        "pt": "Status Reset"
+        "en-US": "Skill Reset",
+        "pt-BR": "Status Reset"
     },
     "efeEBQ": {
-        "en": "Status Reset",
-        "pt": "[Hypno]\nSkill Reset Done!! Bye."
+        "en-US": "Status Reset",
+        "pt-BR": "[Hypno]\nSkill Reset Done!! Bye."
     },
     "eveEBQ": {
-        "en": "[Hypno]\nSkill Reset Done!! Bye.",
-        "pt": "[Hypno]\nStatus Reset Done!! Bye."
+        "en-US": "[Hypno]\nSkill Reset Done!! Bye.",
+        "pt-BR": "[Hypno]\nStatus Reset Done!! Bye."
     },
     "e/eEBQ": {
-        "en": "[Hypno]\nStatus Reset Done!! Bye.",
-        "pt": "Energy Coat"
+        "en-US": "[Hypno]\nStatus Reset Done!! Bye.",
+        "pt-BR": "Energy Coat"
     },
     "fPeEBQ": {
-        "en": "Energy Coat",
-        "pt": "Element Fire"
+        "en-US": "Energy Coat",
+        "pt-BR": "Element Fire"
     },
     "ffeEBQ": {
-        "en": "Element Fire",
-        "pt": "Element Water"
+        "en-US": "Element Fire",
+        "pt-BR": "Element Water"
     },
     "fveEBQ": {
-        "en": "Element Water",
-        "pt": "Element Wind"
+        "en-US": "Element Water",
+        "pt-BR": "Element Wind"
     },
     "f/eEBQ": {
-        "en": "Element Wind",
-        "pt": "Element Ground"
+        "en-US": "Element Wind",
+        "pt-BR": "Element Ground"
     },
     "gPeEBQ": {
-        "en": "Element Ground",
-        "pt": "Create Converter"
+        "en-US": "Element Ground",
+        "pt-BR": "Create Converter"
     },
     "gfeEBQ": {
-        "en": "Create Converter",
-        "pt": "Get all"
+        "en-US": "Create Converter",
+        "pt-BR": "Get all"
     },
     "gveEBQ": {
-        "en": "Get all",
-        "pt": "[Hypno]\nYou are not qualified to get it. bye!!"
+        "en-US": "Get all",
+        "pt-BR": "[Hypno]\nYou are not qualified to get it. bye!!"
     },
     "g/eEBQ": {
-        "en": "[Hypno]\nYou are not qualified to get it. bye!!",
-        "pt": "[Hypno]\nYou need to learn how to ride a Peco peco first."
+        "en-US": "[Hypno]\nYou are not qualified to get it. bye!!",
+        "pt-BR": "[Hypno]\nYou need to learn how to ride a Peco peco first."
     },
     "hPeEBQ": {
-        "en": "[Hypno]\nYou need to learn how to ride a Peco peco first.",
-        "pt": "[Hypno]\nYou are already riding a Peco peco."
+        "en-US": "[Hypno]\nYou need to learn how to ride a Peco peco first.",
+        "pt-BR": "[Hypno]\nYou are already riding a Peco peco."
     },
     "hfeEBQ": {
-        "en": "[Hypno]\nYou are already riding a Peco peco.",
-        "pt": "[Hypno]\nYou need to learn how to ride a Dragon first."
+        "en-US": "[Hypno]\nYou are already riding a Peco peco.",
+        "pt-BR": "[Hypno]\nYou need to learn how to ride a Dragon first."
     },
     "hveEBQ": {
-        "en": "[Hypno]\nYou need to learn how to ride a Dragon first.",
-        "pt": "[Hypno]\nYou are already riding a Dragon."
+        "en-US": "[Hypno]\nYou need to learn how to ride a Dragon first.",
+        "pt-BR": "[Hypno]\nYou are already riding a Dragon."
     },
     "h/eEBQ": {
-        "en": "[Hypno]\nYou are already riding a Dragon.",
-        "pt": "[Hypno]\nYou need to learn how to ride a Gryphon first."
+        "en-US": "[Hypno]\nYou are already riding a Dragon.",
+        "pt-BR": "[Hypno]\nYou need to learn how to ride a Gryphon first."
     },
     "iPeEBQ": {
-        "en": "[Hypno]\nYou need to learn how to ride a Gryphon first.",
-        "pt": "[Hypno]\nYou are already riding a Gryphon."
+        "en-US": "[Hypno]\nYou need to learn how to ride a Gryphon first.",
+        "pt-BR": "[Hypno]\nYou are already riding a Gryphon."
     },
     "ifeEBQ": {
-        "en": "[Hypno]\nYou are already riding a Gryphon.",
-        "pt": "[Hypno]\nYou are not qualified to do it. bye!!"
+        "en-US": "[Hypno]\nYou are already riding a Gryphon.",
+        "pt-BR": "[Hypno]\nYou are not qualified to do it. bye!!"
     },
     "iveEBQ": {
-        "en": "[Hypno]\nYou are not qualified to do it. bye!!",
-        "pt": "[Hypno]\nYou are already equipped with a Cart."
+        "en-US": "[Hypno]\nYou are not qualified to do it. bye!!",
+        "pt-BR": "[Hypno]\nYou are already equipped with a Cart."
     },
     "i/eEBQ": {
-        "en": "[Hypno]\nYou are already equipped with a Cart.",
-        "pt": "[Hypno]\nCome back after you gain 'Pushcart Skill'."
+        "en-US": "[Hypno]\nYou are already equipped with a Cart.",
+        "pt-BR": "[Hypno]\nCome back after you gain 'Pushcart Skill'."
     },
     "jPeEBQ": {
-        "en": "[Hypno]\nCome back after you gain 'Pushcart Skill'.",
-        "pt": "[Hypno]\nYou are not a Merchant job nor Super Novice"
+        "en-US": "[Hypno]\nCome back after you gain 'Pushcart Skill'.",
+        "pt-BR": "[Hypno]\nYou are not a Merchant job nor Super Novice"
     },
     "jfeEBQ": {
-        "en": "[Hypno]\nYou are not a Merchant job nor Super Novice",
-        "pt": "[Hypno]\nYou are having another animal. You need to get rid of him first."
+        "en-US": "[Hypno]\nYou are not a Merchant job nor Super Novice",
+        "pt-BR": "[Hypno]\nYou are having another animal. You need to get rid of him first."
     },
     "jveEBQ": {
-        "en": "[Hypno]\nYou are having another animal. You need to get rid of him first.",
-        "pt": "[Hypno]\nGo to learn how to ride a Falcon first."
+        "en-US": "[Hypno]\nYou are having another animal. You need to get rid of him first.",
+        "pt-BR": "[Hypno]\nGo to learn how to ride a Falcon first."
     },
     "j/eEBQ": {
-        "en": "[Hypno]\nGo to learn how to ride a Falcon first.",
-        "pt": "[Hypno]\nYou already got a Falcon."
+        "en-US": "[Hypno]\nGo to learn how to ride a Falcon first.",
+        "pt-BR": "[Hypno]\nYou already got a Falcon."
     },
     "kPeEBQ": {
-        "en": "[Hypno]\nYou already got a Falcon.",
-        "pt": "[Hypno]\nYou are not the one to have a Falcon."
+        "en-US": "[Hypno]\nYou already got a Falcon.",
+        "pt-BR": "[Hypno]\nYou are not the one to have a Falcon."
     },
     "kfeEBQ": {
-        "en": "[Hypno]\nYou are not the one to have a Falcon.",
-        "pt": "[Hypno]\nDo you need a PC cafe Buff? Then choose one among them."
+        "en-US": "[Hypno]\nYou are not the one to have a Falcon.",
+        "pt-BR": "[Hypno]\nDo you need a PC cafe Buff? Then choose one among them."
     },
     "kveEBQ": {
-        "en": "[Hypno]\nDo you need a PC cafe Buff? Then choose one among them.",
-        "pt": "(1)str8agi6dex4atk32flee5"
+        "en-US": "[Hypno]\nDo you need a PC cafe Buff? Then choose one among them.",
+        "pt-BR": "(1)str8agi6dex4atk32flee5"
     },
     "k/eEBQ": {
-        "en": "(1)str8agi6dex4atk32flee5",
-        "pt": "(2)int8dex6vit4matk40"
+        "en-US": "(1)str8agi6dex4atk32flee5",
+        "pt-BR": "(2)int8dex6vit4matk40"
     },
     "lPeEBQ": {
-        "en": "(2)int8dex6vit4matk40",
-        "pt": "(3)dex8agi6luk4atk24matk24"
+        "en-US": "(2)int8dex6vit4matk40",
+        "pt-BR": "(3)dex8agi6luk4atk24matk24"
     },
     "lfeEBQ": {
-        "en": "(3)dex8agi6luk4atk24matk24",
-        "pt": "(4)all6atk24matk24"
+        "en-US": "(3)dex8agi6luk4atk24matk24",
+        "pt-BR": "(4)all6atk24matk24"
     },
     "lveEBQ": {
-        "en": "(4)all6atk24matk24",
-        "pt": "[Hypno]\nWoooooooooooow!"
+        "en-US": "(4)all6atk24matk24",
+        "pt-BR": "[Hypno]\nWoooooooooooow!"
     },
     "l/eEBQ": {
-        "en": "[Hypno]\nWoooooooooooow!",
-        "pt": "[Hypno]\nGot it? See you then!!"
+        "en-US": "[Hypno]\nWoooooooooooow!",
+        "pt-BR": "[Hypno]\nGot it? See you then!!"
     },
     "mPeEBQ": {
-        "en": "[Hypno]\nGot it? See you then!!",
-        "pt": "[Hypno]\nDo you need a Removal Service? What do you need to remove from your inventory?"
+        "en-US": "[Hypno]\nGot it? See you then!!",
+        "pt-BR": "[Hypno]\nDo you need a Removal Service? What do you need to remove from your inventory?"
     },
     "mfeEBQ": {
-        "en": "[Hypno]\nDo you need a Removal Service? What do you need to remove from your inventory?",
-        "pt": "Item"
+        "en-US": "[Hypno]\nDo you need a Removal Service? What do you need to remove from your inventory?",
+        "pt-BR": "Item"
     },
     "mveEBQ": {
-        "en": "Item",
-        "pt": "Zeny"
+        "en-US": "Item",
+        "pt-BR": "Zeny"
     },
     "m/eEBQ": {
-        "en": "Zeny",
-        "pt": "[Hypno]\nInput the ID No. of the Item to be removed\nDon't cry out or regret after you lose it."
+        "en-US": "Zeny",
+        "pt-BR": "[Hypno]\nInput the ID No. of the Item to be removed\nDon't cry out or regret after you lose it."
     },
     "nPeEBQ": {
-        "en": "[Hypno]\nInput the ID No. of the Item to be removed\nDon't cry out or regret after you lose it.",
-        "pt": "[Hypno]\nInput the quantity of the item to be returned.\nIf it's an equipment, you must input 1 only.\n^FF0000 Min.1 - Max.10000 ^000000"
+        "en-US": "[Hypno]\nInput the ID No. of the Item to be removed\nDon't cry out or regret after you lose it.",
+        "pt-BR": "[Hypno]\nInput the quantity of the item to be returned.\nIf it's an equipment, you must input 1 only.\n^FF0000 Min.1 - Max.10000 ^000000"
     },
     "nfeEBQ": {
-        "en": "[Hypno]\nInput the quantity of the item to be returned.\nIf it's an equipment, you must input 1 only.\n^FF0000 Min.1 - Max.10000 ^000000",
-        "pt": "[Hypno]\nYou don't have ^FF0000{}^000000 ^0000CD{}^000000."
+        "en-US": "[Hypno]\nInput the quantity of the item to be returned.\nIf it's an equipment, you must input 1 only.\n^FF0000 Min.1 - Max.10000 ^000000",
+        "pt-BR": "[Hypno]\nYou don't have ^FF0000{}^000000 ^0000CD{}^000000."
     },
     "nveEBQ": {
-        "en": "[Hypno]\nYou don't have ^FF0000{}^000000 ^0000FF{}^000000.",
-        "pt": "[Hypno]\nOK, ^FF0000{}^000000 ^0000CD{}^000000 is/are removed well. bye!!"
+        "en-US": "[Hypno]\nYou don't have ^FF0000{}^000000 ^0000FF{}^000000.",
+        "pt-BR": "[Hypno]\nOK, ^FF0000{}^000000 ^0000CD{}^000000 is/are removed well. bye!!"
     },
     "n/eEBQ": {
-        "en": "[Hypno]\nOK, ^FF0000{}^000000 ^0000FF{}^000000 is/are removed well. bye!!",
-        "pt": "[Hypno]\nYou want to remove your Zeny? right?."
+        "en-US": "[Hypno]\nOK, ^FF0000{}^000000 ^0000FF{}^000000 is/are removed well. bye!!",
+        "pt-BR": "[Hypno]\nYou want to remove your Zeny? right?."
     },
     "oPeEBQ": {
-        "en": "[Hypno]\nYou want to remove your Zeny? right?.",
-        "pt": "ALL-IN"
+        "en-US": "[Hypno]\nYou want to remove your Zeny? right?.",
+        "pt-BR": "ALL-IN"
     },
     "ofeEBQ": {
-        "en": "ALL-IN",
-        "pt": "How much?"
+        "en-US": "ALL-IN",
+        "pt-BR": "How much?"
     },
     "oveEBQ": {
-        "en": "How much?",
-        "pt": "[Hypno]\nThanks. I'm happy to get it. Umahahaha"
+        "en-US": "How much?",
+        "pt-BR": "[Hypno]\nThanks. I'm happy to get it. Umahahaha"
     },
     "o/eEBQ": {
-        "en": "[Hypno]\nThanks. I'm happy to get it. Umahahaha",
-        "pt": "[Hypno]\nHow much do you want to return?\n^FF0000 Min. 1 - Max. 999999999 ^000000"
+        "en-US": "[Hypno]\nThanks. I'm happy to get it. Umahahaha",
+        "pt-BR": "[Hypno]\nHow much do you want to return?\n^FF0000 Min. 1 - Max. 999999999 ^000000"
     },
     "pPeEBQ": {
-        "en": "[Hypno]\nHow much do you want to return?\n^FF0000 Min. 1 - Max. 999999999 ^000000",
-        "pt": "[Hypno]\nWhat do you want me to get back while you have nothing."
+        "en-US": "[Hypno]\nHow much do you want to return?\n^FF0000 Min. 1 - Max. 999999999 ^000000",
+        "pt-BR": "[Hypno]\nWhat do you want me to get back while you have nothing."
     },
     "pfeEBQ": {
-        "en": "[Hypno]\nWhat do you want me to get back while you have nothing.",
-        "pt": "[Hypno]\nThanks haha."
+        "en-US": "[Hypno]\nWhat do you want me to get back while you have nothing.",
+        "pt-BR": "[Hypno]\nThanks haha."
     },
     "pveEBQ": {
-        "en": "[Hypno]\nThanks haha.",
-        "pt": "[Hypno]\n'Setting Service Starts."
+        "en-US": "[Hypno]\nThanks haha.",
+        "pt-BR": "[Hypno]\n'Setting Service Starts."
     },
     "p/eEBQ": {
-        "en": "[Hypno]\n'Setting Service Starts.",
-        "pt": "[]QUEST SETTING"
+        "en-US": "[Hypno]\n'Setting Service Starts.",
+        "pt-BR": "[]QUEST SETTING"
     },
     "qPeEBQ": {
-        "en": "[]QUEST SETTING",
-        "pt": "[]GUEST SETTING"
+        "en-US": "[]QUEST SETTING",
+        "pt-BR": "[]GUEST SETTING"
     },
     "qfeEBQ": {
-        "en": "[]GUEST SETTING",
-        "pt": "[Hypno]\nQuest setting. Please input the quest number.\nRange is '1000 - 9999999' | the others will cancel the service."
+        "en-US": "[]GUEST SETTING",
+        "pt-BR": "[Hypno]\nQuest setting. Please input the quest number.\nRange is '1000 - 9999999' | the others will cancel the service."
     },
     "qveEBQ": {
-        "en": "[Hypno]\nQuest setting. Please input the quest number.\nRange is '1000 - 9999999' | the others will cancel the service.",
-        "pt": "[Hypno]\nYou have input Quest No. {}. Continue?"
+        "en-US": "[Hypno]\nQuest setting. Please input the quest number.\nRange is '1000 - 9999999' | the others will cancel the service.",
+        "pt-BR": "[Hypno]\nYou have input Quest No. {}. Continue?"
     },
     "q/eEBQ": {
-        "en": "[Hypno]\nYou have input Quest No. {}. Continue?",
-        "pt": "[Hypno]\nService Finished."
+        "en-US": "[Hypno]\nYou have input Quest No. {}. Continue?",
+        "pt-BR": "[Hypno]\nService Finished."
     },
     "rPeEBQ": {
-        "en": "[Hypno]\nService Finished.",
-        "pt": "[]setquest"
+        "en-US": "[Hypno]\nService Finished.",
+        "pt-BR": "[]setquest"
     },
     "rfeEBQ": {
-        "en": "[]setquest",
-        "pt": "[]erasequest"
+        "en-US": "[]setquest",
+        "pt-BR": "[]erasequest"
     },
     "rveEBQ": {
-        "en": "[]erasequest",
-        "pt": "[]completequest"
+        "en-US": "[]erasequest",
+        "pt-BR": "[]completequest"
     },
     "r/eEBQ": {
-        "en": "[]completequest",
-        "pt": "[]recall_completequest"
+        "en-US": "[]completequest",
+        "pt-BR": "[]recall_completequest"
     },
     "sPeEBQ": {
-        "en": "[]recall_completequest",
-        "pt": "[Hypno]\nQuest Setting Completed."
+        "en-US": "[]recall_completequest",
+        "pt-BR": "[Hypno]\nQuest Setting Completed."
     },
     "sfeEBQ": {
-        "en": "[Hypno]\nQuest Setting Completed.",
-        "pt": "[Hypno]\nGuest Item Setting Service.\nPlease input the Guest Item ID number\nthe range is between 3000 and 4000.\n^FF0000If you input the DB Name, it won't work.^000000"
+        "en-US": "[Hypno]\nQuest Setting Completed.",
+        "pt-BR": "[Hypno]\nGuest Item Setting Service.\nPlease input the Guest Item ID number\nthe range is between 3000 and 4000.\n^FF0000If you input the DB Name, it won't work.^000000"
     },
     "sveEBQ": {
-        "en": "[Hypno]\nGuest Item Setting Service.\nPlease input the Guest Item ID number\nthe range is between 3000 and 4000.\n^FF0000If you input the DB Name, it won't work.^000000",
-        "pt": "[Hypno]\nPlease input the number only between 3000 and 4000."
+        "en-US": "[Hypno]\nGuest Item Setting Service.\nPlease input the Guest Item ID number\nthe range is between 3000 and 4000.\n^FF0000If you input the DB Name, it won't work.^000000",
+        "pt-BR": "[Hypno]\nPlease input the number only between 3000 and 4000."
     },
     "s/eEBQ": {
-        "en": "[Hypno]\nPlease input the number only between 3000 and 4000.",
-        "pt": "[Hypno]\nGuest Item:^FF0000{}^000000\nCurrent Amt: ^FF0000{}^000000\nInput the number you want for the Guest item.\n^FF0000Range: 0 - 30000\nover 30000 cancels the service.^000000"
+        "en-US": "[Hypno]\nPlease input the number only between 3000 and 4000.",
+        "pt-BR": "[Hypno]\nGuest Item:^FF0000{}^000000\nCurrent Amt: ^FF0000{}^000000\nInput the number you want for the Guest item.\n^FF0000Range: 0 - 30000\nover 30000 cancels the service.^000000"
     },
     "tPeEBQ": {
-        "en": "[Hypno]\nGuest Item:^FF0000{}^000000\nCurrent Amt: ^FF0000{}^000000\nInput the number you want for the Guest item.\n^FF0000Range: 0 - 30000\nover 30000 cancels the service.^000000",
-        "pt": "[Hypno]\nGuest Item:^FF0000{}^000000\nCurrent Amt: ^FF0000{}^000000\nAmt to be Changed: ^FF0000{}^000000\nWant to continue?"
+        "en-US": "[Hypno]\nGuest Item:^FF0000{}^000000\nCurrent Amt: ^FF0000{}^000000\nInput the number you want for the Guest item.\n^FF0000Range: 0 - 30000\nover 30000 cancels the service.^000000",
+        "pt-BR": "[Hypno]\nGuest Item:^FF0000{}^000000\nCurrent Amt: ^FF0000{}^000000\nAmt to be Changed: ^FF0000{}^000000\nWant to continue?"
     },
     "tfeEBQ": {
-        "en": "[Hypno]\nGuest Item:^FF0000{}^000000\nCurrent Amt: ^FF0000{}^000000\nAmt to be Changed: ^FF0000{}^000000\nWant to continue?",
-        "pt": "[]Change"
+        "en-US": "[Hypno]\nGuest Item:^FF0000{}^000000\nCurrent Amt: ^FF0000{}^000000\nAmt to be Changed: ^FF0000{}^000000\nWant to continue?",
+        "pt-BR": "[]Change"
     },
     "tveEBQ": {
-        "en": "[]Change",
-        "pt": "[]Do not Change"
+        "en-US": "[]Change",
+        "pt-BR": "[]Do not Change"
     },
     "t/eEBQ": {
-        "en": "[]Do not Change",
-        "pt": "[Hypno]\nGuest Item:^FF0000{}^000000\nPrevious Amt: ^FF0000{}^000000\nChanged Amt: ^FF0000{}^000000\nChange Completed."
+        "en-US": "[]Do not Change",
+        "pt-BR": "[Hypno]\nGuest Item:^FF0000{}^000000\nPrevious Amt: ^FF0000{}^000000\nChanged Amt: ^FF0000{}^000000\nChange Completed."
     },
     "uPeEBQ": {
-        "en": "[Hypno]\nGuest Item:^FF0000{}^000000\nPrevious Amt: ^FF0000{}^000000\nChanged Amt: ^FF0000{}^000000\nChange Completed.",
-        "pt": "[Hypno]\nService finished."
+        "en-US": "[Hypno]\nGuest Item:^FF0000{}^000000\nPrevious Amt: ^FF0000{}^000000\nChanged Amt: ^FF0000{}^000000\nChange Completed.",
+        "pt-BR": "[Hypno]\nService finished."
     },
     "ufeEBQ": {
-        "en": "[Hypno]\nService finished."
+        "en-US": "[Hypno]\nService finished."
     }
 }

@@ -1,1427 +1,1427 @@
 {
     "gMizCA": {
-        "en": "Switch",
-        "pt": "Interruptor",
-        "es": "Interruptor"
+        "en-US": "Switch",
+        "pt-BR": "Interruptor",
+        "es-ES": "Interruptor"
     },
     "gcizCA": {
-        "en": "2F",
-        "pt": "2º andar",
-        "es": "2º piso"
+        "en-US": "2F",
+        "pt-BR": "2º andar",
+        "es-ES": "2º piso"
     },
     "gsizCA": {
-        "en": "5F",
-        "pt": "5º andar",
-        "es": "5º piso"
+        "en-US": "5F",
+        "pt-BR": "5º andar",
+        "es-ES": "5º piso"
     },
     "g8izCA": {
-        "en": "Boss (1002)",
-        "pt": "Chefe (1002)",
-        "es": "Jefe (1002)"
+        "en-US": "Boss (1002)",
+        "pt-BR": "Chefe (1002)",
+        "es-ES": "Jefe (1002)"
     },
     "hMizCA": {
-        "en": "Leviathan Ingrata",
-        "pt": "Leviatã Ingrata",
-        "es": "Leviatán Ingrata"
+        "en-US": "Leviathan Ingrata",
+        "pt-BR": "Leviatã Ingrata",
+        "es-ES": "Leviatán Ingrata"
     },
     "hcizCA": {
-        "en": "[Leviathan]\nDang, I used my limited edition summoning booster and all I got was this stinking human. Are you kidding me?",
-        "pt": "[Leviatã]\nUé... eu invoquei um Humano ao invés de um Auxiliar?",
-        "es": "[Leviatán]\n¿Eh... invoqué a un Humano en lugar de un Auxiliar?"
+        "en-US": "[Leviathan]\nDang, I used my limited edition summoning booster and all I got was this stinking human. Are you kidding me?",
+        "pt-BR": "[Leviatã]\nUé... eu invoquei um Humano ao invés de um Auxiliar?",
+        "es-ES": "[Leviatán]\n¿Eh... invoqué a un Humano en lugar de un Auxiliar?"
     },
     "hsizCA": {
-        "en": "Leviathan: Dang, I used my limited edition summoning booster and all I got was this stinking human. Are you kidding me?",
-        "pt": "Leviatã: Ué... eu invoquei um Humano ao invés de um Auxiliar?",
-        "es": "Leviatán: ¿Eh... invoqué a un Humano en lugar de un Auxiliar?"
+        "en-US": "Leviathan: Dang, I used my limited edition summoning booster and all I got was this stinking human. Are you kidding me?",
+        "pt-BR": "Leviatã: Ué... eu invoquei um Humano ao invés de um Auxiliar?",
+        "es-ES": "Leviatán: ¿Eh... invoqué a un Humano en lugar de un Auxiliar?"
     },
     "h8izCA": {
-        "en": "Destroy all boosters. Cards are reconstructed from the Summon Amplifier.",
-        "pt": "Elimine os monstros e colete as Cartas.",
-        "es": "Elimina a los monstruos y recolecta las Cartas."
+        "en-US": "Destroy all boosters. Cards are reconstructed from the Summon Amplifier.",
+        "pt-BR": "Elimine os monstros e colete as Cartas.",
+        "es-ES": "Elimina a los monstruos y recolecta las Cartas."
     },
     "iMizCA": {
-        "en": "[Leviathan]\nThis isn't even worth a card.",
-        "pt": "[Leviatã]\nSe não fizer isso, nenhuma Carta Dourada vai aparecer.",
-        "es": "[Leviatán]\nSi no lo haces, no aparecerá ninguna Carta Dorada."
+        "en-US": "[Leviathan]\nThis isn't even worth a card.",
+        "pt-BR": "[Leviatã]\nSe não fizer isso, nenhuma Carta Dourada vai aparecer.",
+        "es-ES": "[Leviatán]\nSi no lo haces, no aparecerá ninguna Carta Dorada."
     },
     "icizCA": {
-        "en": "Leviathan: This isn't even worth a card.",
-        "pt": "Leviatã: Se não fizer isso, nenhuma Carta Dourada vai aparecer.",
-        "es": "Leviatán: Si no lo haces, no aparecerá ninguna Carta Dorada."
+        "en-US": "Leviathan: This isn't even worth a card.",
+        "pt-BR": "Leviatã: Se não fizer isso, nenhuma Carta Dourada vai aparecer.",
+        "es-ES": "Leviatán: Si no lo haces, no aparecerá ninguna Carta Dorada."
     },
     "isizCA": {
-        "en": "[Ziz]\nToo bad. I spent all my hard-earned money and got something that doesn't even drop a card when I kill it.",
-        "pt": "[Ziz]\nUma pena eu ter me esforçado tanto e não ter conseguido coletar Cartas o bastante.",
-        "es": "[Ziz]\nQué pena que me esforcé tanto y no pude recolectar suficientes Cartas."
+        "en-US": "[Ziz]\nToo bad. I spent all my hard-earned money and got something that doesn't even drop a card when I kill it.",
+        "pt-BR": "[Ziz]\nUma pena eu ter me esforçado tanto e não ter conseguido coletar Cartas o bastante.",
+        "es-ES": "[Ziz]\nQué pena que me esforcé tanto y no pude recolectar suficientes Cartas."
     },
     "i8izCA": {
-        "en": "Ziz: Too bad. I spent all my hard-earned money and got something that doesn't even drop a card when I kill it.",
-        "pt": "Ziz: Uma pena eu ter me esforçado tanto e não ter conseguido coletar Cartas o bastante.",
-        "es": "Ziz: Qué pena que me esforcé tanto y no pude recolectar suficientes Cartas."
+        "en-US": "Ziz: Too bad. I spent all my hard-earned money and got something that doesn't even drop a card when I kill it.",
+        "pt-BR": "Ziz: Uma pena eu ter me esforçado tanto e não ter conseguido coletar Cartas o bastante.",
+        "es-ES": "Ziz: Qué pena que me esforcé tanto y no pude recolectar suficientes Cartas."
     },
     "jMizCA": {
-        "en": "[Leviathan]\n......",
-        "pt": "[Leviatã]\n......",
-        "es": "[Leviatán]\n......"
+        "en-US": "[Leviathan]\n......",
+        "pt-BR": "[Leviatã]\n......",
+        "es-ES": "[Leviatán]\n......"
     },
     "jcizCA": {
-        "en": "Leviathan: ...",
-        "pt": "Leviatã: ......",
-        "es": "Leviatán: ......"
+        "en-US": "Leviathan: ...",
+        "pt-BR": "Leviatã: ......",
+        "es-ES": "Leviatán: ......"
     },
     "jsizCA": {
-        "en": "The summoner has ceased card reconfiguration. Prepare for the next summon.",
-        "pt": "Prepare-se para uma nova leva de monstros.",
-        "es": "Prepárate para una nueva oleada de monstruos."
+        "en-US": "The summoner has ceased card reconfiguration. Prepare for the next summon.",
+        "pt-BR": "Prepare-se para uma nova leva de monstros.",
+        "es-ES": "Prepárate para una nueva oleada de monstruos."
     },
     "j8izCA": {
-        "en": "[Leviathan]\nHey, I wanna pick another booster. I've got an idea for an experiment...",
-        "pt": "[Leviatã]\nEi, vou tentar invocar mais um Auxiliar. Pode ser que ajudem.",
-        "es": "[Leviatán]\nOye, voy a intentar invocar otro Auxiliar. Quizás puedan ayudar."
+        "en-US": "[Leviathan]\nHey, I wanna pick another booster. I've got an idea for an experiment...",
+        "pt-BR": "[Leviatã]\nEi, vou tentar invocar mais um Auxiliar. Pode ser que ajudem.",
+        "es-ES": "[Leviatán]\nOye, voy a intentar invocar otro Auxiliar. Quizás puedan ayudar."
     },
     "kMizCA": {
-        "en": "Leviathan: Hey, I wanna pick another booster. I've got an idea for an experiment...",
-        "pt": "Leviatã: Ei, vou tentar invocar mais um Auxiliar. Pode ser que ajudem.",
-        "es": "Leviatán: Oye, voy a intentar invocar otro Auxiliar. Quizás puedan ayudar."
+        "en-US": "Leviathan: Hey, I wanna pick another booster. I've got an idea for an experiment...",
+        "pt-BR": "Leviatã: Ei, vou tentar invocar mais um Auxiliar. Pode ser que ajudem.",
+        "es-ES": "Leviatán: Oye, voy a intentar invocar otro Auxiliar. Quizás puedan ayudar."
     },
     "kcizCA": {
-        "en": "[Ziz]\nOh....",
-        "pt": "[Ziz]\nCéus....",
-        "es": "[Ziz]\nCielos...."
+        "en-US": "[Ziz]\nOh....",
+        "pt-BR": "[Ziz]\nCéus....",
+        "es-ES": "[Ziz]\nCielos...."
     },
     "ksizCA": {
-        "en": "Ziz: Oh...",
-        "pt": "Ziz: Céus...",
-        "es": "Ziz: Cielos..."
+        "en-US": "Ziz: Oh...",
+        "pt-BR": "Ziz: Céus...",
+        "es-ES": "Ziz: Cielos..."
     },
     "k8izCA": {
-        "en": "[Ziz]\nI get it. Sure.\nLet me use them when you're done.",
-        "pt": "[Ziz]\nNão sei o que houve.\nO jeito é tentar com o que nós temos.",
-        "es": "[Ziz]\nNo sé qué pasó.\nLa única opción es intentarlo con lo que tenemos."
+        "en-US": "[Ziz]\nI get it. Sure.\nLet me use them when you're done.",
+        "pt-BR": "[Ziz]\nNão sei o que houve.\nO jeito é tentar com o que nós temos.",
+        "es-ES": "[Ziz]\nNo sé qué pasó.\nLa única opción es intentarlo con lo que tenemos."
     },
     "lMizCA": {
-        "en": "Ziz: I get it. Sure. Let me use them when you're done.",
-        "pt": "Ziz: Não sei o que houve. O jeito é tentar com o que nós temos.",
-        "es": "Ziz: No sé qué pasó. La única opción es intentarlo con lo que tenemos."
+        "en-US": "Ziz: I get it. Sure. Let me use them when you're done.",
+        "pt-BR": "Ziz: Não sei o que houve. O jeito é tentar com o que nós temos.",
+        "es-ES": "Ziz: No sé qué pasó. La única opción es intentarlo con lo que tenemos."
     },
     "lcizCA": {
-        "en": "[Leviathan]\nHow considerate of you.\nUse them to your heart's content, if you're still alive by then.",
-        "pt": "[Leviatã]\nObrigada pela sua consideração.\nEspero que cheguem vivos até o final.",
-        "es": "[Leviatán]\nGracias por tu consideración.\nEspero que lleguen vivos al final."
+        "en-US": "[Leviathan]\nHow considerate of you.\nUse them to your heart's content, if you're still alive by then.",
+        "pt-BR": "[Leviatã]\nObrigada pela sua consideração.\nEspero que cheguem vivos até o final.",
+        "es-ES": "[Leviatán]\nGracias por tu consideración.\nEspero que lleguen vivos al final."
     },
     "lsizCA": {
-        "en": "Leviathan: Use them to your heart's content, if you're still alive by then.",
-        "pt": "Leviatã: Obrigada pela sua consideração. Espero que cheguem vivos até o final.",
-        "es": "Leviatán: Gracias por tu consideración. Espero que lleguen vivos al final."
+        "en-US": "Leviathan: Use them to your heart's content, if you're still alive by then.",
+        "pt-BR": "Leviatã: Obrigada pela sua consideração. Espero que cheguem vivos até o final.",
+        "es-ES": "Leviatán: Gracias por tu consideración. Espero que lleguen vivos al final."
     },
     "l8izCA": {
-        "en": "[Ziz]\nGood luck.",
-        "pt": "[Ziz]\nDê o seu melhor.",
-        "es": "[Ziz]\nDa lo mejor de ti."
+        "en-US": "[Ziz]\nGood luck.",
+        "pt-BR": "[Ziz]\nDê o seu melhor.",
+        "es-ES": "[Ziz]\nDa lo mejor de ti."
     },
     "mMizCA": {
-        "en": "Ziz: Good luck.",
-        "pt": "Ziz: Dê o seu melhor.",
-        "es": "Ziz: Da lo mejor de ti."
+        "en-US": "Ziz: Good luck.",
+        "pt-BR": "Ziz: Dê o seu melhor.",
+        "es-ES": "Ziz: Da lo mejor de ti."
     },
     "mcizCA": {
-        "en": "[Leviathan]\nYou there. You don't want to die, do you? If you work for me, I'll spare your life.",
-        "pt": "[Leviatã]\nVocês não deveriam morrer, mas se nos ajudar, podemos deixar vocês viverem.",
-        "es": "[Leviatán]\nUstedes no deberían morir, pero si nos ayudan, podemos dejarlos vivir."
+        "en-US": "[Leviathan]\nYou there. You don't want to die, do you? If you work for me, I'll spare your life.",
+        "pt-BR": "[Leviatã]\nVocês não deveriam morrer, mas se nos ajudar, podemos deixar vocês viverem.",
+        "es-ES": "[Leviatán]\nUstedes no deberían morir, pero si nos ayudan, podemos dejarlos vivir."
     },
     "msizCA": {
-        "en": "Leviathan: You there. You don't want to die, do you? If you work for me, I'll spare your life.",
-        "pt": "Leviatã: Vocês não deveriam morrer, mas se nos ajudar, podemos deixar vocês viverem.",
-        "es": "Leviatán: Ustedes no deberían morir, pero si nos ayudan, podemos dejarlos vivir."
+        "en-US": "Leviathan: You there. You don't want to die, do you? If you work for me, I'll spare your life.",
+        "pt-BR": "Leviatã: Vocês não deveriam morrer, mas se nos ajudar, podemos deixar vocês viverem.",
+        "es-ES": "Leviatán: Ustedes no deberían morir, pero si nos ayudan, podemos dejarlos vivir."
     },
     "m8izCA": {
-        "en": "[Leviathan]\nI am Leviathan Ingrata, Duelist of the Valkyrie's Goldhouse.",
-        "pt": "[Leviatã]\nEu sou Leviatã Ingrata. Duelista da Casa do Brilho Dourado.",
-        "es": "[Leviatán]\nYo soy Leviatán Ingrata. Duelista de la Casa del Brillo Dorado."
+        "en-US": "[Leviathan]\nI am Leviathan Ingrata, Duelist of the Valkyrie's Goldhouse.",
+        "pt-BR": "[Leviatã]\nEu sou Leviatã Ingrata. Duelista da Casa do Brilho Dourado.",
+        "es-ES": "[Leviatán]\nYo soy Leviatán Ingrata. Duelista de la Casa del Brillo Dorado."
     },
     "nMizCA": {
-        "en": "Leviathan: I am Leviathan Ingrata, Duelist of the Valkyrie's Goldhouse.",
-        "pt": "Leviatã: Eu sou Leviatã Ingrata. Duelista da Casa do Brilho Dourado.",
-        "es": "Leviatán: Yo soy Leviatán Ingrata. Duelista de la Casa del Brillo Dorado."
+        "en-US": "Leviathan: I am Leviathan Ingrata, Duelist of the Valkyrie's Goldhouse.",
+        "pt-BR": "Leviatã: Eu sou Leviatã Ingrata. Duelista da Casa do Brilho Dourado.",
+        "es-ES": "Leviatán: Yo soy Leviatán Ingrata. Duelista de la Casa del Brillo Dorado."
     },
     "ncizCA": {
-        "en": "[Leviathan Ingrata]",
-        "pt": "[Leviatã Ingrata]",
-        "es": "[Leviatán Ingrata]"
+        "en-US": "[Leviathan Ingrata]",
+        "pt-BR": "[Leviatã Ingrata]",
+        "es-ES": "[Leviatán Ingrata]"
     },
     "nsizCA": {
-        "en": "Cat, how dare you look at me?",
-        "pt": "O que você quer, felino?",
-        "es": "¿Qué quieres, felino?"
+        "en-US": "Cat, how dare you look at me?",
+        "pt-BR": "O que você quer, felino?",
+        "es-ES": "¿Qué quieres, felino?"
     },
     "n8izCA": {
-        "en": "Human, how dare you look at me?",
-        "pt": "O que você quer, humano?",
-        "es": "¿Qué quieres, humano?"
+        "en-US": "Human, how dare you look at me?",
+        "pt-BR": "O que você quer, humano?",
+        "es-ES": "¿Qué quieres, humano?"
     },
     "oMizCA": {
-        "en": "Execute summon command: Megingjard of Abyss expansion pack.",
-        "pt": "Invocando monstros do baralho [Abismo Megingjard].",
-        "es": "Invocando monstruos del deck [Abismo Megingjard]."
+        "en-US": "Execute summon command: Megingjard of Abyss expansion pack.",
+        "pt-BR": "Invocando monstros do baralho [Abismo Megingjard].",
+        "es-ES": "Invocando monstruos del deck [Abismo Megingjard]."
     },
     "ocizCA": {
-        "en": "Leviathan: I am beyond your perception. You can't lay your hands on me, even in your dreams.",
-        "pt": "Leviatã: Eu sou um ser além do seu conhecimento. Você não será capaz de tocar em um único fio de cabelo de mim.",
-        "es": "Leviatán: Soy un ser más allá de tu comprensión. No serás capaz de tocar un solo cabello de mi cabeza."
+        "en-US": "Leviathan: I am beyond your perception. You can't lay your hands on me, even in your dreams.",
+        "pt-BR": "Leviatã: Eu sou um ser além do seu conhecimento. Você não será capaz de tocar em um único fio de cabelo de mim.",
+        "es-ES": "Leviatán: Soy un ser más allá de tu comprensión. No serás capaz de tocar un solo cabello de mi cabeza."
     },
     "osizCA": {
-        "en": "Leviathan: You'll have to collect cards for me here.",
-        "pt": "Leviatã: Você deve coletar algumas cartas para mim.",
-        "es": "Leviatán: Debes recolectar algunas cartas para mí."
+        "en-US": "Leviathan: You'll have to collect cards for me here.",
+        "pt-BR": "Leviatã: Você deve coletar algumas cartas para mim.",
+        "es-ES": "Leviatán: Debes recolectar algunas cartas para mí."
     },
     "o8izCA": {
-        "en": "Be cautious. Summons will be dismissed when the summoner dies.",
-        "pt": "Tenha cuidado. Se morrer, a invocação é interrompida.",
-        "es": "Ten cuidado. Si mueres, la invocación se interrumpe."
+        "en-US": "Be cautious. Summons will be dismissed when the summoner dies.",
+        "pt-BR": "Tenha cuidado. Se morrer, a invocação é interrompida.",
+        "es-ES": "Ten cuidado. Si mueres, la invocación se interrumpe."
     },
     "pMizCA": {
-        "en": "Leviathan: That was easy. We'd better procure the human summoning formula for next time.",
-        "pt": "Leviatã: Você parece útil. Acho que vou invocar mais gente na próxima.",
-        "es": "Leviatán: Pareces útil. Creo que invocaré más gente la próxima vez."
+        "en-US": "Leviathan: That was easy. We'd better procure the human summoning formula for next time.",
+        "pt-BR": "Leviatã: Você parece útil. Acho que vou invocar mais gente na próxima.",
+        "es-ES": "Leviatán: Pareces útil. Creo que invocaré más gente la próxima vez."
     },
     "pcizCA": {
-        "en": "Leviathan: Keep it up.",
-        "pt": "Leviatã: Boa sorte.",
-        "es": "Leviatán: Buena suerte."
+        "en-US": "Leviathan: Keep it up.",
+        "pt-BR": "Leviatã: Boa sorte.",
+        "es-ES": "Leviatán: Buena suerte."
     },
     "psizCA": {
-        "en": "Rare and above cards are automatically sent to the Summoner's inventory.",
-        "pt": "Cartas de nível [Raro] ou superior irão direto para o Duelista.",
-        "es": "Las cartas de nivel [Raro] o superior irán directamente al Duelista."
+        "en-US": "Rare and above cards are automatically sent to the Summoner's inventory.",
+        "pt-BR": "Cartas de nível [Raro] ou superior irão direto para o Duelista.",
+        "es-ES": "Las cartas de nivel [Raro] o superior irán directamente al Duelista."
     },
     "p8izCA": {
-        "en": "Normal boosters may contain",
-        "pt": "Cuidado com os Roborings...",
-        "es": "Cuidado con los Roborings..."
+        "en-US": "Normal boosters may contain",
+        "pt-BR": "Cuidado com os Roborings...",
+        "es-ES": "Cuidado con los Roborings..."
     },
     "qMizCA": {
-        "en": "a single Ultra Hyper Rare card may be contained in one pack.",
-        "pt": "Eles poderão coletar suas cartas do chão.",
-        "es": "Ellos podrían recolectar tus cartas del suelo."
+        "en-US": "a single Ultra Hyper Rare card may be contained in one pack.",
+        "pt-BR": "Eles poderão coletar suas cartas do chão.",
+        "es-ES": "Ellos podrían recolectar tus cartas del suelo."
     },
     "qcizCA": {
-        "en": "Ziz Ingrata",
-        "pt": "Ziz Ingrata",
-        "es": "Ziz Ingrata"
+        "en-US": "Ziz Ingrata",
+        "pt-BR": "Ziz Ingrata",
+        "es-ES": "Ziz Ingrata"
     },
     "qsizCA": {
-        "en": "[Ziz Ingrata]",
-        "pt": "[Ziz Ingrata]",
-        "es": "[Ziz Ingrata]"
+        "en-US": "[Ziz Ingrata]",
+        "pt-BR": "[Ziz Ingrata]",
+        "es-ES": "[Ziz Ingrata]"
     },
     "q8izCA": {
-        "en": "Normal Booster A",
-        "pt": "Reforço A",
-        "es": "Refuerzo A"
+        "en-US": "Normal Booster A",
+        "pt-BR": "Reforço A",
+        "es-ES": "Refuerzo A"
     },
     "rMizCA": {
-        "en": "Normal Booster B",
-        "pt": "Reforço B",
-        "es": "Refuerzo B"
+        "en-US": "Normal Booster B",
+        "pt-BR": "Reforço B",
+        "es-ES": "Refuerzo B"
     },
     "rcizCA": {
-        "en": "Normal Booster pack card reconfiguration complete.",
-        "pt": "Invocação e Coleta de cartas concluída.",
-        "es": "Invocación y Recolección de cartas completada."
+        "en-US": "Normal Booster pack card reconfiguration complete.",
+        "pt-BR": "Invocação e Coleta de cartas concluída.",
+        "es-ES": "Invocación y Recolección de cartas completada."
     },
     "rsizCA": {
-        "en": "Leviathan: Rats! Empty handed again!",
-        "pt": "Leviatã: Mais um problema!",
-        "es": "Leviatán: ¡Otro problema!"
+        "en-US": "Leviathan: Rats! Empty handed again!",
+        "pt-BR": "Leviatã: Mais um problema!",
+        "es-ES": "Leviatán: ¡Otro problema!"
     },
     "r8izCA": {
-        "en": "Ziz: Fufufu.",
-        "pt": "Ziz: Tsc, tsc, tsc.",
-        "es": "Ziz: Tsc, tsc, tsc."
+        "en-US": "Ziz: Fufufu.",
+        "pt-BR": "Ziz: Tsc, tsc, tsc.",
+        "es-ES": "Ziz: Tsc, tsc, tsc."
     },
     "sMizCA": {
-        "en": "[Ziz]\nCan I let them pick up the cards?",
-        "pt": "[Ziz]\nVamos deixar as cartas aí para serem coletadas?",
-        "es": "[Ziz]\n¿Dejamos las cartas ahí para que sean recolectadas?"
+        "en-US": "[Ziz]\nCan I let them pick up the cards?",
+        "pt-BR": "[Ziz]\nVamos deixar as cartas aí para serem coletadas?",
+        "es-ES": "[Ziz]\n¿Dejamos las cartas ahí para que sean recolectadas?"
     },
     "scizCA": {
-        "en": "Ziz: Can I let them pick up the cards?",
-        "pt": "Ziz: Vamos deixar as cartas aí para serem coletadas?",
-        "es": "Ziz: ¿Dejamos las cartas ahí para que sean recolectadas?"
+        "en-US": "Ziz: Can I let them pick up the cards?",
+        "pt-BR": "Ziz: Vamos deixar as cartas aí para serem coletadas?",
+        "es-ES": "Ziz: ¿Dejamos las cartas ahí para que sean recolectadas?"
     },
     "ssizCA": {
-        "en": "[Leviathan]\nLet them be... Hey, can I get another...",
-        "pt": "[Leviatã]\nDeixa... precisam de muitas...",
-        "es": "[Leviatán]\nDéjalas... necesitan muchas..."
+        "en-US": "[Leviathan]\nLet them be... Hey, can I get another...",
+        "pt-BR": "[Leviatã]\nDeixa... precisam de muitas...",
+        "es-ES": "[Leviatán]\nDéjalas... necesitan muchas..."
     },
     "s8izCA": {
-        "en": "Leviathan: Let them be... Hey, can I get another...",
-        "pt": "Leviatã: Deixa... Ei, se pegarem mais algumas...",
-        "es": "Leviatán: Déjalas... Oye, si consiguen algunas más..."
+        "en-US": "Leviathan: Let them be... Hey, can I get another...",
+        "pt-BR": "Leviatã: Deixa... Ei, se pegarem mais algumas...",
+        "es-ES": "Leviatán: Déjalas... Oye, si consiguen algunas más..."
     },
     "tMizCA": {
-        "en": "[Leviathan]\nNever mind. I don't have any free summon points.",
-        "pt": "[Leviatã]\nNão, não haverá mais invocações aqui.",
-        "es": "[Leviatán]\nNo, no habrá más invocaciones aquí."
+        "en-US": "[Leviathan]\nNever mind. I don't have any free summon points.",
+        "pt-BR": "[Leviatã]\nNão, não haverá mais invocações aqui.",
+        "es-ES": "[Leviatán]\nNo, no habrá más invocaciones aquí."
     },
     "tcizCA": {
-        "en": "Leviathan: Never mind. I don't have any free summon points.",
-        "pt": "Leviatã: ...Não, não haverá mais invocações aqui.",
-        "es": "Leviatán: ...No, no habrá más invocaciones aquí."
+        "en-US": "Leviathan: Never mind. I don't have any free summon points.",
+        "pt-BR": "Leviatã: ...Não, não haverá mais invocações aqui.",
+        "es-ES": "Leviatán: ...No, no habrá más invocaciones aquí."
     },
     "tsizCA": {
-        "en": "[Ziz]\nAll right, my turn. Hey, you. If you want to leave here alive, you'd best get yourself back in there.",
-        "pt": "[Ziz]\nOk. É a minha vez. Pessoal, se quiserem sair vivos, tentem novamente.",
-        "es": "[Ziz]\nOk. Es mi turno. Gente, si quieren salir con vida, inténtenlo de nuevo."
+        "en-US": "[Ziz]\nAll right, my turn. Hey, you. If you want to leave here alive, you'd best get yourself back in there.",
+        "pt-BR": "[Ziz]\nOk. É a minha vez. Pessoal, se quiserem sair vivos, tentem novamente.",
+        "es-ES": "[Ziz]\nOk. Es mi turno. Gente, si quieren salir con vida, inténtenlo de nuevo."
     },
     "t8izCA": {
-        "en": "Ziz: All right, my turn. Hey, you. If you want to leave here alive, you'd best get yourself back in there.",
-        "pt": "Ziz: Ok. É a minha vez. Pessoal, se quiserem sair vivos, tentem novamente.",
-        "es": "Ziz: Ok. Es mi turno. Gente, si quieren salir con vida, inténtenlo de nuevo."
+        "en-US": "Ziz: All right, my turn. Hey, you. If you want to leave here alive, you'd best get yourself back in there.",
+        "pt-BR": "Ziz: Ok. É a minha vez. Pessoal, se quiserem sair vivos, tentem novamente.",
+        "es-ES": "Ziz: Ok. Es mi turno. Gente, si quieren salir con vida, inténtenlo de nuevo."
     },
     "uMizCA": {
-        "en": "Execute summon command: Bangs of Fenrir limited edition expansion pack.",
-        "pt": "Invocando monstros do baralho [Franja de Fenrir].",
-        "es": "Invocando monstruos del deck [Franja de Fenrir]."
+        "en-US": "Execute summon command: Bangs of Fenrir limited edition expansion pack.",
+        "pt-BR": "Invocando monstros do baralho [Franja de Fenrir].",
+        "es-ES": "Invocando monstruos del deck [Franja de Fenrir]."
     },
     "ucizCA": {
-        "en": "Ziz: Hey, don't get all dumbstruck. Keep at it.",
-        "pt": "Ziz: Parem de brincar e trabalhem~.",
-        "es": "Ziz: Dejen de jugar y pónganse a trabajar~."
+        "en-US": "Ziz: Hey, don't get all dumbstruck. Keep at it.",
+        "pt-BR": "Ziz: Parem de brincar e trabalhem~.",
+        "es-ES": "Ziz: Dejen de jugar y pónganse a trabajar~."
     },
     "usizCA": {
-        "en": "Leviathan: I'll see what you pick and try again.",
-        "pt": "Leviatã: Vou invocar mais uma leva.",
-        "es": "Leviatán: Voy a invocar una oleada más."
+        "en-US": "Leviathan: I'll see what you pick and try again.",
+        "pt-BR": "Leviatã: Vou invocar mais uma leva.",
+        "es-ES": "Leviatán: Voy a invocar una oleada más."
     },
     "u8izCA": {
-        "en": "Ziz: Haha... If I get a good one, will you trade me something good for it?",
-        "pt": "Ziz: Haha... Você quer colecionar cartas para trocar?",
-        "es": "Ziz: Jaja... ¿Quieres coleccionar cartas para intercambiar?"
+        "en-US": "Ziz: Haha... If I get a good one, will you trade me something good for it?",
+        "pt-BR": "Ziz: Haha... Você quer colecionar cartas para trocar?",
+        "es-ES": "Ziz: Jaja... ¿Quieres coleccionar cartas para intercambiar?"
     },
     "vMizCA": {
-        "en": "Leviathan: You promised to battle later.",
-        "pt": "Leviatã: A gente vê isso depois.",
-        "es": "Leviatán: Eso lo vemos después."
+        "en-US": "Leviathan: You promised to battle later.",
+        "pt-BR": "Leviatã: A gente vê isso depois.",
+        "es-ES": "Leviatán: Eso lo vemos después."
     },
     "vcizCA": {
-        "en": "Limited edition expansion packs:",
-        "pt": "Neste pacote de edição limitada:",
-        "es": "En este paquete de edición limitada:"
+        "en-US": "Limited edition expansion packs:",
+        "pt-BR": "Neste pacote de edição limitada:",
+        "es-ES": "En este paquete de edición limitada:"
     },
     "vsizCA": {
-        "en": "a single Super Ultra Hyper Rare card may be contained in one pack.",
-        "pt": "... você não conseguiu uma Carta Super Rara.",
-        "es": "... no conseguiste una Carta Súper Rara."
+        "en-US": "a single Super Ultra Hyper Rare card may be contained in one pack.",
+        "pt-BR": "... você não conseguiu uma Carta Super Rara.",
+        "es-ES": "... no conseguiste una Carta Súper Rara."
     },
     "v8izCA": {
-        "en": "Limited Booster B",
-        "pt": "Reforço B",
-        "es": "Refuerzo B"
+        "en-US": "Limited Booster B",
+        "pt-BR": "Reforço B",
+        "es-ES": "Refuerzo B"
     },
     "wMizCA": {
-        "en": "EXP Card",
-        "pt": "Roboring",
-        "es": "Roboring"
+        "en-US": "EXP Card",
+        "pt-BR": "Roboring",
+        "es-ES": "Roboring"
     },
     "wcizCA": {
-        "en": "Limited Booster A",
-        "pt": "Reforço A",
-        "es": "Refuerzo A"
+        "en-US": "Limited Booster A",
+        "pt-BR": "Reforço A",
+        "es-ES": "Refuerzo A"
     },
     "wsizCA": {
-        "en": "Bangs of Fenrir limited edition expansion pack reconfiguration complete.",
-        "pt": "Invocação de monstros do baralho [Franja de Fenrir] concluída.",
-        "es": "Invocación de monstruos del deck [Franja de Fenrir] completada."
+        "en-US": "Bangs of Fenrir limited edition expansion pack reconfiguration complete.",
+        "pt-BR": "Invocação de monstros do baralho [Franja de Fenrir] concluída.",
+        "es-ES": "Invocación de monstruos del deck [Franja de Fenrir] completada."
     },
     "w8izCA": {
-        "en": "Too bad. You didn't get a Super Ultra Hyper Rare.",
-        "pt": "Uma pena. Não apareceu algo Super Super Raro.",
-        "es": "Qué pena. No apareció algo Súper Súper Raro."
+        "en-US": "Too bad. You didn't get a Super Ultra Hyper Rare.",
+        "pt-BR": "Uma pena. Não apareceu algo Super Super Raro.",
+        "es-ES": "Qué pena. No apareció algo Súper Súper Raro."
     },
     "xMizCA": {
-        "en": "Leviathan: Hey, what did you get?",
-        "pt": "Leviatã: Ei, o que saiu?",
-        "es": "Leviatán: Oye, ¿qué salió?"
+        "en-US": "Leviathan: Hey, what did you get?",
+        "pt-BR": "Leviatã: Ei, o que saiu?",
+        "es-ES": "Leviatán: Oye, ¿qué salió?"
     },
     "xcizCA": {
-        "en": "Ziz: I got a Rare. Good enough to pour some resources into.",
-        "pt": "Ziz: Só algo menos raro, mas que vale a pena investir.",
-        "es": "Ziz: Solo algo menos raro, pero que vale la pena invertir."
+        "en-US": "Ziz: I got a Rare. Good enough to pour some resources into.",
+        "pt-BR": "Ziz: Só algo menos raro, mas que vale a pena investir.",
+        "es-ES": "Ziz: Solo algo menos raro, pero que vale la pena invertir."
     },
     "xsizCA": {
-        "en": "Ziz: Some helping hands have finally arrived. Why won't you bother collecting any resources?",
-        "pt": "Ziz: Você não tá coletando nada?",
-        "es": "Ziz: ¿No estás recolectando nada?"
+        "en-US": "Ziz: Some helping hands have finally arrived. Why won't you bother collecting any resources?",
+        "pt-BR": "Ziz: Você não tá coletando nada?",
+        "es-ES": "Ziz: ¿No estás recolectando nada?"
     },
     "x8izCA": {
-        "en": "Leviathan: Why are you trying to help me?",
-        "pt": "Leviatã: Por que você quer saber?",
-        "es": "Leviatán: ¿Por qué quieres saber?"
+        "en-US": "Leviathan: Why are you trying to help me?",
+        "pt-BR": "Leviatã: Por que você quer saber?",
+        "es-ES": "Leviatán: ¿Por qué quieres saber?"
     },
     "yMizCA": {
-        "en": "Ziz: What's wrong with helping someone? Humans, if you go out that way, you can go outside. See you there.",
-        "pt": "Ziz: Eu poderia te ajudar... Viajantes, há um caminho que leva para outro andar. Vejo vocês lá.",
-        "es": "Ziz: Yo podría ayudarte... Viajeros, hay un camino que lleva a otro piso. Los veo allí."
+        "en-US": "Ziz: What's wrong with helping someone? Humans, if you go out that way, you can go outside. See you there.",
+        "pt-BR": "Ziz: Eu poderia te ajudar... Viajantes, há um caminho que leva para outro andar. Vejo vocês lá.",
+        "es-ES": "Ziz: Yo podría ayudarte... Viajeros, hay un camino que lleva a otro piso. Los veo allí."
     },
     "ycizCA": {
-        "en": "Leviathan: ... That's awfully suspicious.",
-        "pt": "Leviatã: ...Estranho.",
-        "es": "Leviatán: ...Extraño."
+        "en-US": "Leviathan: ... That's awfully suspicious.",
+        "pt-BR": "Leviatã: ...Estranho.",
+        "es-ES": "Leviatán: ...Extraño."
     },
     "ysizCA": {
-        "en": "Leviathan: Ziz, what have you got up your sleeve?",
-        "pt": "Leviatã: Ziz. Qual seu plano?",
-        "es": "Leviatán: Ziz. ¿Cuál es tu plan?"
+        "en-US": "Leviathan: Ziz, what have you got up your sleeve?",
+        "pt-BR": "Leviatã: Ziz. Qual seu plano?",
+        "es-ES": "Leviatán: Ziz. ¿Cuál es tu plan?"
     },
     "y8izCA": {
-        "en": "An additional duelist has entered the resource collection area.",
-        "pt": "Um duelista adicional entrou na Sala de Recursos.",
-        "es": "Un duelista adicional entró en la Sala de Recursos."
+        "en-US": "An additional duelist has entered the resource collection area.",
+        "pt-BR": "Um duelista adicional entrou na Sala de Recursos.",
+        "es-ES": "Un duelista adicional entró en la Sala de Recursos."
     },
     "zMizCA": {
-        "en": "Ziz: I didn't bring them here, but with this many people...",
-        "pt": "Ziz: Eu não trouxe você aqui, mas... já que está aqui.",
-        "es": "Ziz: Yo no te traje aquí, pero... ya que estás aquí."
+        "en-US": "Ziz: I didn't bring them here, but with this many people...",
+        "pt-BR": "Ziz: Eu não trouxe você aqui, mas... já que está aqui.",
+        "es-ES": "Ziz: Yo no te traje aquí, pero... ya que estás aquí."
     },
     "zcizCA": {
-        "en": "Ziz: What do you say we gather some resources and get ourselves a Beta Booster?",
-        "pt": "Ziz: Que tal unir nossos esforços para um baralho melhor?",
-        "es": "Ziz: ¿Qué tal si unimos nuestros esfuerzos para un deck mejor?"
+        "en-US": "Ziz: What do you say we gather some resources and get ourselves a Beta Booster?",
+        "pt-BR": "Ziz: Que tal unir nossos esforços para um baralho melhor?",
+        "es-ES": "Ziz: ¿Qué tal si unimos nuestros esfuerzos para un deck mejor?"
     },
     "zsizCA": {
-        "en": "Be cautious.",
-        "pt": "Por favor, tome cuidado.",
-        "es": "Por favor, ten cuidado."
+        "en-US": "Be cautious.",
+        "pt-BR": "Por favor, tome cuidado.",
+        "es-ES": "Por favor, ten cuidado."
     },
     "z8izCA": {
-        "en": "Leviathan: Wow! That's nice.",
-        "pt": "Leviatã: Opa! Isso é bom.",
-        "es": "Leviatán: ¡Opa! Eso es bueno."
+        "en-US": "Leviathan: Wow! That's nice.",
+        "pt-BR": "Leviatã: Opa! Isso é bom.",
+        "es-ES": "Leviatán: ¡Opa! Eso es bueno."
     },
     "0MizCA": {
-        "en": "Leviathan: But why are you trying to help me? Unless... Might I defeat the Beta Booster this time?",
-        "pt": "Leviatã: ...Por que você está tentando me ajudar? Acha que não sei me virar sozinha?",
-        "es": "Leviatán: ...¿Por qué intentas ayudarme? ¿Crees que no puedo valerme por mí misma?"
+        "en-US": "Leviathan: But why are you trying to help me? Unless... Might I defeat the Beta Booster this time?",
+        "pt-BR": "Leviatã: ...Por que você está tentando me ajudar? Acha que não sei me virar sozinha?",
+        "es-ES": "Leviatán: ...¿Por qué intentas ayudarme? ¿Crees que no puedo valerme por mí misma?"
     },
     "0cizCA": {
-        "en": "Leviathan: I almost got destroyed last time...",
-        "pt": "Leviatã: Eu quase consegui da última vez...",
-        "es": "Leviatán: Casi lo logré la última vez..."
+        "en-US": "Leviathan: I almost got destroyed last time...",
+        "pt-BR": "Leviatã: Eu quase consegui da última vez...",
+        "es-ES": "Leviatán: Casi lo logré la última vez..."
     },
     "0sizCA": {
-        "en": "Ziz: It doesn't really matter to me what happens to you here.",
-        "pt": "Ziz: Bem, eu não me importo se você se for incapaz de lutar aqui.",
-        "es": "Ziz: Bueno, a mí no me importa si te vuelves incapaz de luchar aquí."
+        "en-US": "Ziz: It doesn't really matter to me what happens to you here.",
+        "pt-BR": "Ziz: Bem, eu não me importo se você se for incapaz de lutar aqui.",
+        "es-ES": "Ziz: Bueno, a mí no me importa si te vuelves incapaz de luchar aquí."
     },
     "08izCA": {
-        "en": "Ziz: If we're given a chance, shouldn't we at least try?",
-        "pt": "Ziz: Se a oportunidade surgir, que tal tentar?",
-        "es": "Ziz: Si surge la oportunidad, ¿qué tal si lo intentas?"
+        "en-US": "Ziz: If we're given a chance, shouldn't we at least try?",
+        "pt-BR": "Ziz: Se a oportunidade surgir, que tal tentar?",
+        "es-ES": "Ziz: Si surge la oportunidad, ¿qué tal si lo intentas?"
     },
     "1MizCA": {
-        "en": "[Levi*****] used a Collect Resources ticket.",
-        "pt": "[Leviatã] usou uma ampulheta para abrir um pacote.",
-        "es": "[Leviatán] usó un reloj de arena para abrir un paquete."
+        "en-US": "[Levi*****] used a Collect Resources ticket.",
+        "pt-BR": "[Leviatã] usou uma ampulheta para abrir um pacote.",
+        "es-ES": "[Leviatán] usó un reloj de arena para abrir un paquete."
     },
     "1cizCA": {
-        "en": "Leviathan: Humans, look around and destroy the Resource Boosters.",
-        "pt": "Leviatã: Viajantes, destruam as Máquinas Beta.",
-        "es": "Leviatán: Viajeros, destruyan las Máquinas Beta."
+        "en-US": "Leviathan: Humans, look around and destroy the Resource Boosters.",
+        "pt-BR": "Leviatã: Viajantes, destruam as Máquinas Beta.",
+        "es-ES": "Leviatán: Viajeros, destruyan las Máquinas Beta."
     },
     "1sizCA": {
-        "en": "Ziz: Yeah, that's it.",
-        "pt": "Ziz: Isso deve bastar.",
-        "es": "Ziz: Eso debería bastar."
+        "en-US": "Ziz: Yeah, that's it.",
+        "pt-BR": "Ziz: Isso deve bastar.",
+        "es-ES": "Ziz: Eso debería bastar."
     },
     "18izCA": {
-        "en": "You can collect resources that will be used to synthesize cards.",
-        "pt": "Alguns materais deste lugar podem ser trocados por itens.",
-        "es": "Algunos materiales de este lugar pueden ser intercambiados por objetos."
+        "en-US": "You can collect resources that will be used to synthesize cards.",
+        "pt-BR": "Alguns materais deste lugar podem ser trocados por itens.",
+        "es-ES": "Algunos materiales de este lugar pueden ser intercambiados por objetos."
     },
     "2MizCA": {
-        "en": "Leviathan: When you collect all the resources, come to the Synthesis Room. It's north of here.",
-        "pt": "Leviatã: Quando eliminar todos, siga para a próxima sala ao norte.",
-        "es": "Leviatán: Cuando eliminen a todos, diríjanse a la siguiente sala al norte."
+        "en-US": "Leviathan: When you collect all the resources, come to the Synthesis Room. It's north of here.",
+        "pt-BR": "Leviatã: Quando eliminar todos, siga para a próxima sala ao norte.",
+        "es-ES": "Leviatán: Cuando eliminen a todos, diríjanse a la siguiente sala al norte."
     },
     "2cizCA": {
-        "en": "Ziz: If you don't know the location, ask me. I'll tell you.",
-        "pt": "Ziz: Fale comigo para saber a localização das Máquinas.",
-        "es": "Ziz: Háblame para saber la ubicación de las Máquinas."
+        "en-US": "Ziz: If you don't know the location, ask me. I'll tell you.",
+        "pt-BR": "Ziz: Fale comigo para saber a localização das Máquinas.",
+        "es-ES": "Ziz: Háblame para saber la ubicación de las Máquinas."
     },
     "2sizCA": {
-        "en": "[Ziz Ingrata]\nI'll gladly give you directions. Ask me anything you'd like to know.",
-        "pt": "[Ziz Ingrata]\nEste corpo vai orientar você. Tire todas as suas dúvidas.",
-        "es": "[Ziz Ingrata]\nEste cuerpo te guiará. Resuelve todas tus dudas."
+        "en-US": "[Ziz Ingrata]\nI'll gladly give you directions. Ask me anything you'd like to know.",
+        "pt-BR": "[Ziz Ingrata]\nEste corpo vai orientar você. Tire todas as suas dúvidas.",
+        "es-ES": "[Ziz Ingrata]\nEste cuerpo te guiará. Resuelve todas tus dudas."
     },
     "28izCA": {
-        "en": "Where are the Resource Boosters?",
-        "pt": "Onde estão as Máquinas Beta?",
-        "es": "¿Dónde están las Máquinas Beta?"
+        "en-US": "Where are the Resource Boosters?",
+        "pt-BR": "Onde estão as Máquinas Beta?",
+        "es-ES": "¿Dónde están las Máquinas Beta?"
     },
     "3MizCA": {
-        "en": "Where is the Synthesis Room?",
-        "pt": "Onde fica a Sala de Síntese?",
-        "es": "¿Dónde queda la Sala de Síntesis?"
+        "en-US": "Where is the Synthesis Room?",
+        "pt-BR": "Onde fica a Sala de Síntese?",
+        "es-ES": "¿Dónde queda la Sala de Síntesis?"
     },
     "3cizCA": {
-        "en": "Where am I?",
-        "pt": "Onde eu estou?",
-        "es": "¿Dónde estoy?"
+        "en-US": "Where am I?",
+        "pt-BR": "Onde eu estou?",
+        "es-ES": "¿Dónde estoy?"
     },
     "3sizCA": {
-        "en": "Who are you?",
-        "pt": "Quem é você?",
-        "es": "¿Quién eres tú?"
+        "en-US": "Who are you?",
+        "pt-BR": "Quem é você?",
+        "es-ES": "¿Quién eres tú?"
     },
     "38izCA": {
-        "en": "[Ziz Ingrata]\nThe sacrificial Resource Boosters are usually summoned around here.",
-        "pt": "[Ziz Ingrata]\nVocê encontrará as Máquinas nos locais indicados no mini-mapa.",
-        "es": "[Ziz Ingrata]\nEncontrarás las Máquinas en los lugares indicados en el mini-mapa."
+        "en-US": "[Ziz Ingrata]\nThe sacrificial Resource Boosters are usually summoned around here.",
+        "pt-BR": "[Ziz Ingrata]\nVocê encontrará as Máquinas nos locais indicados no mini-mapa.",
+        "es-ES": "[Ziz Ingrata]\nEncontrarás las Máquinas en los lugares indicados en el mini-mapa."
     },
     "4MizCA": {
-        "en": "[Ziz Ingrata]\nRight, once you've defeated all the Resource Boosters, come to the Synthesis Room. I marked the location of the Synthesis Room on the map.",
-        "pt": "[Ziz Ingrata]\nDepois que eliminar todas as Máquinas Beta, vá para a Sala de Síntese... indicada no mini-mapa.",
-        "es": "[Ziz Ingrata]\nDespués de que elimines todas las Máquinas Beta, ve a la Sala de Síntesis... indicada en el mini-mapa."
+        "en-US": "[Ziz Ingrata]\nRight, once you've defeated all the Resource Boosters, come to the Synthesis Room. I marked the location of the Synthesis Room on the map.",
+        "pt-BR": "[Ziz Ingrata]\nDepois que eliminar todas as Máquinas Beta, vá para a Sala de Síntese... indicada no mini-mapa.",
+        "es-ES": "[Ziz Ingrata]\nDespués de que elimines todas las Máquinas Beta, ve a la Sala de Síntesis... indicada en el mini-mapa."
     },
     "4cizCA": {
-        "en": "[Ziz Ingrata]\nYou already heard my conversation with Leviathan. You're brave to ask me such a question.\nDidn't that kid already tell you? We're duelists here to play 'Valkyrie's Goldhouse.'",
-        "pt": "[Ziz Ingrata]\nÉ muita coragem de sua parte perguntar sobre minha conversa com Leviatã.\nAquele doutor não te contou? Nós duas somos Duelistas e viemos jogar [Casa do Brilho Dourado].",
-        "es": "[Ziz Ingrata]\nEs mucha audacia de tu parte preguntar sobre mi conversación con Leviatán.\n¿Acaso ese doctor no te contó? Nosotras dos somos Duelistas y vinimos a jugar [Casa del Brillo Dorado]."
+        "en-US": "[Ziz Ingrata]\nYou already heard my conversation with Leviathan. You're brave to ask me such a question.\nDidn't that kid already tell you? We're duelists here to play 'Valkyrie's Goldhouse.'",
+        "pt-BR": "[Ziz Ingrata]\nÉ muita coragem de sua parte perguntar sobre minha conversa com Leviatã.\nAquele doutor não te contou? Nós duas somos Duelistas e viemos jogar [Casa do Brilho Dourado].",
+        "es-ES": "[Ziz Ingrata]\nEs mucha audacia de tu parte preguntar sobre mi conversación con Leviatán.\n¿Acaso ese doctor no te contó? Nosotras dos somos Duelistas y vinimos a jugar [Casa del Brillo Dorado]."
     },
     "4sizCA": {
-        "en": "[Ziz Ingrata]\nThis is 'The King's Heel.' Check the information board for more information. Not that it's very important, though.",
-        "pt": "[Ziz Ingrata]\nEste lugar é [Aos Pés do Rei]. Consulte o quadro de informações para obter detalhes. Mas não é importante.",
-        "es": "[Ziz Ingrata]\nEste lugar es [A los Pies del Rey]. Consulta el tablero de información para obtener detalles. Pero no es importante."
+        "en-US": "[Ziz Ingrata]\nThis is 'The King's Heel.' Check the information board for more information. Not that it's very important, though.",
+        "pt-BR": "[Ziz Ingrata]\nEste lugar é [Aos Pés do Rei]. Consulte o quadro de informações para obter detalhes. Mas não é importante.",
+        "es-ES": "[Ziz Ingrata]\nEste lugar es [A los Pies del Rey]. Consulta el tablero de información para obtener detalles. Pero no es importante."
     },
     "48izCA": {
-        "en": "[Ziz Ingrata]\nWhere's the information board? I forgot. I told you it wasn't important. I barely have time to memorize even the important things.\nGo find it yourself.",
-        "pt": "[Ziz Ingrata]\nA localização da placa? Eu disse que não era importante. Não há tempo suficiente para lembrar das coisas menos importantes.\nMelhor você procurar por conta própria.",
-        "es": "[Ziz Ingrata]\n¿La ubicación del tablero? Dije que no era importante. No hay tiempo suficiente para recordar cosas menos importantes.\nMejor busca por tu cuenta."
+        "en-US": "[Ziz Ingrata]\nWhere's the information board? I forgot. I told you it wasn't important. I barely have time to memorize even the important things.\nGo find it yourself.",
+        "pt-BR": "[Ziz Ingrata]\nA localização da placa? Eu disse que não era importante. Não há tempo suficiente para lembrar das coisas menos importantes.\nMelhor você procurar por conta própria.",
+        "es-ES": "[Ziz Ingrata]\n¿La ubicación del tablero? Dije que no era importante. No hay tiempo suficiente para recordar cosas menos importantes.\nMejor busca por tu cuenta."
     },
     "5MizCA": {
-        "en": "[Ziz Ingrata]\nI'm Ziz Ingrata. I'm a duelist here. My name is Ziz, and it is also Ingrata.\nIngrata is a hard name for humans to remember, so it's gone now.",
-        "pt": "[Ziz Ingrata]\nEu sou Ziz Ingrata, uma duelista. Ingrata não é um sobrenome.\nIngrata é um termo antigo que veio do Latim.",
-        "es": "[Ziz Ingrata]\nYo soy Ziz Ingrata, una duelista. Ingrata no es un apellido.\nIngrata es un término antiguo que vino del Latín."
+        "en-US": "[Ziz Ingrata]\nI'm Ziz Ingrata. I'm a duelist here. My name is Ziz, and it is also Ingrata.\nIngrata is a hard name for humans to remember, so it's gone now.",
+        "pt-BR": "[Ziz Ingrata]\nEu sou Ziz Ingrata, uma duelista. Ingrata não é um sobrenome.\nIngrata é um termo antigo que veio do Latim.",
+        "es-ES": "[Ziz Ingrata]\nYo soy Ziz Ingrata, una duelista. Ingrata no es un apellido.\nIngrata es un término antiguo que vino del Latín."
     },
     "5cizCA": {
-        "en": "[Ziz Ingrata]\nThe name probably does not exist in your world.",
-        "pt": "[Ziz Ingrata]\nEssa língua desapareceu no seu mundo, provavelmente.",
-        "es": "[Ziz Ingrata]\nEsa lengua probablemente desapareció en tu mundo."
+        "en-US": "[Ziz Ingrata]\nThe name probably does not exist in your world.",
+        "pt-BR": "[Ziz Ingrata]\nEssa língua desapareceu no seu mundo, provavelmente.",
+        "es-ES": "[Ziz Ingrata]\nEsa lengua probablemente desapareció en tu mundo."
     },
     "5sizCA": {
-        "en": "All Resource Boosters have been recovered. This can be checked in the Synthesis Room.",
-        "pt": "Máquinas Beta derrotadas. Dirija-se à Sala de Síntese.",
-        "es": "Máquinas Beta derrotadas. Dirígete a la Sala de Síntesis."
+        "en-US": "All Resource Boosters have been recovered. This can be checked in the Synthesis Room.",
+        "pt-BR": "Máquinas Beta derrotadas. Dirija-se à Sala de Síntese.",
+        "es-ES": "Máquinas Beta derrotadas. Dirígete a la Sala de Síntesis."
     },
     "58izCA": {
-        "en": "Resource Booster recovered. {0} Resource Boosters remain.",
-        "pt": "Máquina Beta eliminada. Restam {0} unidades.",
-        "es": "Máquina Beta eliminada. Quedan {0} unidades."
+        "en-US": "Resource Booster recovered. {0} Resource Boosters remain.",
+        "pt-BR": "Máquina Beta eliminada. Restam {0} unidades.",
+        "es-ES": "Máquina Beta eliminada. Quedan {0} unidades."
     },
     "6MizCA": {
-        "en": "Resource Booster",
-        "pt": "Máquina Beta",
-        "es": "Máquina Beta"
+        "en-US": "Resource Booster",
+        "pt-BR": "Máquina Beta",
+        "es-ES": "Máquina Beta"
     },
     "6cizCA": {
-        "en": "Free Distribution Card",
-        "pt": "Máquina Alfa",
-        "es": "Máquina Alfa"
+        "en-US": "Free Distribution Card",
+        "pt-BR": "Máquina Alfa",
+        "es-ES": "Máquina Alfa"
     },
     "6sizCA": {
-        "en": "[Ziz]",
-        "pt": "[Ziz Ingrata]",
-        "es": "[Ziz Ingrata]"
+        "en-US": "[Ziz]",
+        "pt-BR": "[Ziz Ingrata]",
+        "es-ES": "[Ziz Ingrata]"
     },
     "68izCA": {
-        "en": "Cat, you're here.",
-        "pt": "Você veio, felino.",
-        "es": "Viniste, felino."
+        "en-US": "Cat, you're here.",
+        "pt-BR": "Você veio, felino.",
+        "es-ES": "Viniste, felino."
     },
     "7MizCA": {
-        "en": "Human, you're here.",
-        "pt": "Você veio, humano.",
-        "es": "Viniste, humano."
+        "en-US": "Human, you're here.",
+        "pt-BR": "Você veio, humano.",
+        "es-ES": "Viniste, humano."
     },
     "7cizCA": {
-        "en": "Ziz: Small things, you're here.",
-        "pt": "Ziz: As criaturinhas chegaram.",
-        "es": "Ziz: Las criaturitas han llegado."
+        "en-US": "Ziz: Small things, you're here.",
+        "pt-BR": "Ziz: As criaturinhas chegaram.",
+        "es-ES": "Ziz: Las criaturitas han llegado."
     },
     "7sizCA": {
-        "en": "[Ziz]\nAs I mentioned, this is the Synthesis Room. I've never used that Leviathan over there before.",
-        "pt": "[Ziz]\nEssa é a Sala de Síntese. Nunca vim aqui junto com a Leviatã.",
-        "es": "[Ziz]\nEsta es la Sala de Síntesis. Nunca había venido aquí junto con Leviatán."
+        "en-US": "[Ziz]\nAs I mentioned, this is the Synthesis Room. I've never used that Leviathan over there before.",
+        "pt-BR": "[Ziz]\nEssa é a Sala de Síntese. Nunca vim aqui junto com a Leviatã.",
+        "es-ES": "[Ziz]\nEsta es la Sala de Síntesis. Nunca había venido aquí junto con Leviatán."
     },
     "78izCA": {
-        "en": "Ziz: As I mentioned, this is the Synthesis Room. I've never used that Leviathan over there before.",
-        "pt": "Ziz: Essa é a Sala de Síntese. Nunca vim aqui junto com a Leviatã.",
-        "es": "Ziz: Esta es la Sala de Síntesis. Nunca había venido aquí junto con Leviatán."
+        "en-US": "Ziz: As I mentioned, this is the Synthesis Room. I've never used that Leviathan over there before.",
+        "pt-BR": "Ziz: Essa é a Sala de Síntese. Nunca vim aqui junto com a Leviatã.",
+        "es-ES": "Ziz: Esta es la Sala de Síntesis. Nunca había venido aquí junto con Leviatán."
     },
     "8MizCA": {
-        "en": "Leviathan: Quit it.",
-        "pt": "Leviatã: Interessante.",
-        "es": "Leviatán: Interesante."
+        "en-US": "Leviathan: Quit it.",
+        "pt-BR": "Leviatã: Interessante.",
+        "es-ES": "Leviatán: Interesante."
     },
     "8cizCA": {
-        "en": "[Ziz]\nWe've reached a compromise while you were on your way. We're not going to dispose of you because you've worked hard to collect resources.",
-        "pt": "[Ziz]\nNós duas concluímos que você é útil, portanto, não vamos te eliminar.",
-        "es": "[Ziz]\nLas dos concluimos que eres útil, por lo tanto, no vamos a eliminarte."
+        "en-US": "[Ziz]\nWe've reached a compromise while you were on your way. We're not going to dispose of you because you've worked hard to collect resources.",
+        "pt-BR": "[Ziz]\nNós duas concluímos que você é útil, portanto, não vamos te eliminar.",
+        "es-ES": "[Ziz]\nLas dos concluimos que eres útil, por lo tanto, no vamos a eliminarte."
     },
     "8sizCA": {
-        "en": "Ziz: We've reached a compromise while you were on your way. We're not going to dispose of you because you've worked hard to collect resources.",
-        "pt": "Ziz: Nós duas concluímos que você é útil, portanto, não vamos te eliminar.",
-        "es": "Ziz: Las dos concluimos que eres útil, por lo tanto, no vamos a eliminarte."
+        "en-US": "Ziz: We've reached a compromise while you were on your way. We're not going to dispose of you because you've worked hard to collect resources.",
+        "pt-BR": "Ziz: Nós duas concluímos que você é útil, portanto, não vamos te eliminar.",
+        "es-ES": "Ziz: Las dos concluimos que eres útil, por lo tanto, no vamos a eliminarte."
     },
     "88izCA": {
-        "en": "[Ziz]\nNormally, from here would be the Leviathan's ordeal... But I employed a bit of hacking.",
-        "pt": "[Ziz]\nEm vez disso, de agora em diante... você vai se submeter aos testes da Leviatã.",
-        "es": "[Ziz]\nEn cambio, de ahora en adelante... te someterás a las pruebas de Leviatán."
+        "en-US": "[Ziz]\nNormally, from here would be the Leviathan's ordeal... But I employed a bit of hacking.",
+        "pt-BR": "[Ziz]\nEm vez disso, de agora em diante... você vai se submeter aos testes da Leviatã.",
+        "es-ES": "[Ziz]\nEn cambio, de ahora en adelante... te someterás a las pruebas de Leviatán."
     },
     "9MizCA": {
-        "en": "Ziz: Normally, from here would be the Leviathan's ordeal... But I employed a bit of hacking.",
-        "pt": "Ziz: Em vez disso, de agora em diante... você vai se submeter aos testes da Leviatã.",
-        "es": "Ziz: En cambio, de ahora en adelante... te someterás a las pruebas de Leviatán."
+        "en-US": "Ziz: Normally, from here would be the Leviathan's ordeal... But I employed a bit of hacking.",
+        "pt-BR": "Ziz: Em vez disso, de agora em diante... você vai se submeter aos testes da Leviatã.",
+        "es-ES": "Ziz: En cambio, de ahora en adelante... te someterás a las pruebas de Leviatán."
     },
     "9cizCA": {
-        "en": "[Ziz]\nLeviathan, in the King's Heel control room, appears to be dealing with a synthesized Beta Booster...",
-        "pt": "[Ziz]\nParece que ela está sintetizando uma nova leva de monstros...",
-        "es": "[Ziz]\nParece que está sintetizando una nueva oleada de monstruos..."
+        "en-US": "[Ziz]\nLeviathan, in the King's Heel control room, appears to be dealing with a synthesized Beta Booster...",
+        "pt-BR": "[Ziz]\nParece que ela está sintetizando uma nova leva de monstros...",
+        "es-ES": "[Ziz]\nParece que está sintetizando una nueva oleada de monstruos..."
     },
     "9sizCA": {
-        "en": "Ziz: Leviathan, in the King's Heel control room, appears to be dealing with a synthesized Beta Booster...",
-        "pt": "Ziz: Parece que ela está sintetizando uma nova leva de monstros...",
-        "es": "Ziz: Parece que está sintetizando una nueva oleada de monstruos..."
+        "en-US": "Ziz: Leviathan, in the King's Heel control room, appears to be dealing with a synthesized Beta Booster...",
+        "pt-BR": "Ziz: Parece que ela está sintetizando uma nova leva de monstros...",
+        "es-ES": "Ziz: Parece que está sintetizando una nueva oleada de monstruos..."
     },
     "98izCA": {
-        "en": "[Ziz]\nStart here by defeating all the Beta Boosters, climb up the wall behind that control robot, then, finally, play ^0000FFCharleston Ingrata's^000000 false replica event.",
-        "pt": "[Ziz]\nVocê elimina os monstros, vai atrás desse robô e reproduz o código da ^0000FFCharleston^000000 que estava incorreto.",
-        "es": "[Ziz]\nTú eliminas a los monstruos, vas tras ese robot y reproduces el código de la ^0000FFCharleston^000000 que estaba incorrecto."
+        "en-US": "[Ziz]\nStart here by defeating all the Beta Boosters, climb up the wall behind that control robot, then, finally, play ^0000FFCharleston Ingrata's^000000 false replica event.",
+        "pt-BR": "[Ziz]\nVocê elimina os monstros, vai atrás desse robô e reproduz o código da ^0000FFCharleston^000000 que estava incorreto.",
+        "es-ES": "[Ziz]\nTú eliminas a los monstruos, vas tras ese robot y reproduces el código de la ^0000FFCharleston^000000 que estaba incorrecto."
     },
     "+MizCA": {
-        "en": "Ziz: Start here by defeating all the beta boosters, climb up the wall behind that control robot, then, finally, play Charleston Ingrata's false replica event.",
-        "pt": "Ziz: Você elimina os monstros, vai atrás desse robô e reproduz o código da Charleston que estava incorreto.",
-        "es": "Ziz: Tú eliminas a los monstruos, vas tras ese robot y reproduces el código de la Charleston que estaba incorrecto."
+        "en-US": "Ziz: Start here by defeating all the beta boosters, climb up the wall behind that control robot, then, finally, play Charleston Ingrata's false replica event.",
+        "pt-BR": "Ziz: Você elimina os monstros, vai atrás desse robô e reproduz o código da Charleston que estava incorreto.",
+        "es-ES": "Ziz: Tú eliminas a los monstruos, vas tras ese robot y reproduces el código de la Charleston que estaba incorrecto."
     },
     "+cizCA": {
-        "en": "[Leviathan]\nHey, Ziz. Why are you helping me so much? You trying to put me in your debt?\nSince when were we this close?",
-        "pt": "[Leviatã]\nHaha~ Ziz, isso é dívida de jogo?\nDesde quando tem interesse em me ajudar?",
-        "es": "[Leviatán]\nJaja~ Ziz, ¿esto es deuda de juego?\n¿Desde cuándo tienes interés en ayudarme?"
+        "en-US": "[Leviathan]\nHey, Ziz. Why are you helping me so much? You trying to put me in your debt?\nSince when were we this close?",
+        "pt-BR": "[Leviatã]\nHaha~ Ziz, isso é dívida de jogo?\nDesde quando tem interesse em me ajudar?",
+        "es-ES": "[Leviatán]\nJaja~ Ziz, ¿esto es deuda de juego?\n¿Desde cuándo tienes interés en ayudarme?"
     },
     "+sizCA": {
-        "en": "Leviathan: Hey, Ziz. Why are you helping me so much? You trying to put me in your debt? Since when were we this close?",
-        "pt": "Leviatã: Haha~ Ziz, isso é dívida de jogo? Desde quando tem interesse em me ajudar?",
-        "es": "Leviatán: Jaja~ Ziz, ¿esto es deuda de juego? ¿Desde cuándo tienes interés en ayudarme?"
+        "en-US": "Leviathan: Hey, Ziz. Why are you helping me so much? You trying to put me in your debt? Since when were we this close?",
+        "pt-BR": "Leviatã: Haha~ Ziz, isso é dívida de jogo? Desde quando tem interesse em me ajudar?",
+        "es-ES": "Leviatán: Jaja~ Ziz, ¿esto es deuda de juego? ¿Desde cuándo tienes interés en ayudarme?"
     },
     "+8izCA": {
-        "en": "[Ziz]\nI don't know. In a past life, perhaps?",
-        "pt": "[Ziz]\nNão sei. Vidas passadas?",
-        "es": "[Ziz]\nNo lo sé. ¿Vidas pasadas?"
+        "en-US": "[Ziz]\nI don't know. In a past life, perhaps?",
+        "pt-BR": "[Ziz]\nNão sei. Vidas passadas?",
+        "es-ES": "[Ziz]\nNo lo sé. ¿Vidas pasadas?"
     },
     "/MizCA": {
-        "en": "Ziz: I don't know. In a past life, perhaps?",
-        "pt": "Ziz: Não sei. Vidas passadas?",
-        "es": "Ziz: No lo sé. ¿Vidas pasadas?"
+        "en-US": "Ziz: I don't know. In a past life, perhaps?",
+        "pt-BR": "Ziz: Não sei. Vidas passadas?",
+        "es-ES": "Ziz: No lo sé. ¿Vidas pasadas?"
     },
     "/cizCA": {
-        "en": "[Ziz]\nI'm kidding.",
-        "pt": "[Ziz]\nBrincadeirinha.",
-        "es": "[Ziz]\nEs broma."
+        "en-US": "[Ziz]\nI'm kidding.",
+        "pt-BR": "[Ziz]\nBrincadeirinha.",
+        "es-ES": "[Ziz]\nEs broma."
     },
     "/sizCA": {
-        "en": "Ziz: I'm kidding.",
-        "pt": "Ziz: Brincadeirinha.",
-        "es": "Ziz: Es broma."
+        "en-US": "Ziz: I'm kidding.",
+        "pt-BR": "Ziz: Brincadeirinha.",
+        "es-ES": "Ziz: Es broma."
     },
     "/8izCA": {
-        "en": "[Leviathan]\n(Sigh)\nDid you hear that? We'll begin.",
-        "pt": "[Leviatã]\nCerto...\nVocê ouviu? Vamos começar.",
-        "es": "[Leviatán]\nBien...\n¿Escuchaste? Vamos a comenzar."
+        "en-US": "[Leviathan]\n(Sigh)\nDid you hear that? We'll begin.",
+        "pt-BR": "[Leviatã]\nCerto...\nVocê ouviu? Vamos começar.",
+        "es-ES": "[Leviatán]\nBien...\n¿Escuchaste? Vamos a comenzar."
     },
     "AMmzCA": {
-        "en": "Leviathan: Sigh... Did you hear that? We'll begin.",
-        "pt": "Leviatã: Certo... Você ouviu? Vamos começar.",
-        "es": "Leviatán: Bien... ¿Escuchaste? Vamos a comenzar."
+        "en-US": "Leviathan: Sigh... Did you hear that? We'll begin.",
+        "pt-BR": "Leviatã: Certo... Você ouviu? Vamos começar.",
+        "es-ES": "Leviatán: Bien... ¿Escuchaste? Vamos a comenzar."
     },
     "AcmzCA": {
-        "en": "Now that all the Resource Boosters have been recovered... Synthesize the Beta Booster.",
-        "pt": "Agora que as Máquinas Beta foram eliminadas... estamos sintetizando.",
-        "es": "Ahora que las Máquinas Beta fueron eliminadas... estamos sintetizando."
+        "en-US": "Now that all the Resource Boosters have been recovered... Synthesize the Beta Booster.",
+        "pt-BR": "Agora que as Máquinas Beta foram eliminadas... estamos sintetizando.",
+        "es-ES": "Ahora que las Máquinas Beta fueron eliminadas... estamos sintetizando."
     },
     "AsmzCA": {
-        "en": "Ziz: All right, hacking successful.",
-        "pt": "Ziz: Ok, a operação foi um sucesso.",
-        "es": "Ziz: Ok, la operación fue un éxito."
+        "en-US": "Ziz: All right, hacking successful.",
+        "pt-BR": "Ziz: Ok, a operação foi um sucesso.",
+        "es-ES": "Ziz: Ok, la operación fue un éxito."
     },
     "A8mzCA": {
-        "en": "Replication successful.",
-        "pt": "Reprodução bem-sucedida.",
-        "es": "Reproducción exitosa."
+        "en-US": "Replication successful.",
+        "pt-BR": "Reprodução bem-sucedida.",
+        "es-ES": "Reproducción exitosa."
     },
     "BMmzCA": {
-        "en": "Leviathan: What should I do now?",
-        "pt": "Leviatã: O que devo fazer agora?",
-        "es": "Leviatán: ¿Qué debo hacer ahora?"
+        "en-US": "Leviathan: What should I do now?",
+        "pt-BR": "Leviatã: O que devo fazer agora?",
+        "es-ES": "Leviatán: ¿Qué debo hacer ahora?"
     },
     "BcmzCA": {
-        "en": "Beta Booster Piece",
-        "pt": "Máquina Quebrada",
-        "es": "Máquina Rota"
+        "en-US": "Beta Booster Piece",
+        "pt-BR": "Máquina Quebrada",
+        "es-ES": "Máquina Rota"
     },
     "BsmzCA": {
-        "en": "Be aware and be safe.",
-        "pt": "Por favor, tome cuidado.",
-        "es": "Por favor, ten cuidado."
+        "en-US": "Be aware and be safe.",
+        "pt-BR": "Por favor, tome cuidado.",
+        "es-ES": "Por favor, ten cuidado."
     },
     "B8mzCA": {
-        "en": "Ziz: If there's anything good, take it. If not, discard it. Recover all the beta starters along the outside wall, then come to Charleston Ingrata's room.",
-        "pt": "Ziz: Após eliminá-los siga para a Sala da Charleston.",
-        "es": "Ziz: Después de eliminarlos dirígete a la Sala de la Charleston."
+        "en-US": "Ziz: If there's anything good, take it. If not, discard it. Recover all the beta starters along the outside wall, then come to Charleston Ingrata's room.",
+        "pt-BR": "Ziz: Após eliminá-los siga para a Sala da Charleston.",
+        "es-ES": "Ziz: Después de eliminarlos dirígete a la Sala de la Charleston."
     },
     "CMmzCA": {
-        "en": "Leviathan: Okay.",
-        "pt": "Leviatã: Entendido.",
-        "es": "Leviatán: Entendido."
+        "en-US": "Leviathan: Okay.",
+        "pt-BR": "Leviatã: Entendido.",
+        "es-ES": "Leviatán: Entendido."
     },
     "CcmzCA": {
-        "en": "For beta cards...",
-        "pt": "Você abriu um pacote de Baralho...",
-        "es": "Abriste un paquete de Deck..."
+        "en-US": "For beta cards...",
+        "pt-BR": "Você abriu um pacote de Baralho...",
+        "es-ES": "Abriste un paquete de Deck..."
     },
     "CsmzCA": {
-        "en": "Super Rare is the highest level.",
-        "pt": "...mas não conseguiu uma Carta Rara.",
-        "es": "...pero no conseguiste una Carta Rara."
+        "en-US": "Super Rare is the highest level.",
+        "pt-BR": "...mas não conseguiu uma Carta Rara.",
+        "es-ES": "...pero no conseguiste una Carta Rara."
     },
     "C8mzCA": {
-        "en": "As this is a replica, its design and illustration may differ from its release date.",
-        "pt": "Por ser uma réplica, as ilustrações podem ser diferentes da versão original.",
-        "es": "Por ser una réplica, las ilustraciones pueden ser diferentes de la versión original."
+        "en-US": "As this is a replica, its design and illustration may differ from its release date.",
+        "pt-BR": "Por ser uma réplica, as ilustrações podem ser diferentes da versão original.",
+        "es-ES": "Por ser una réplica, las ilustraciones pueden ser diferentes de la versión original."
     },
     "DMmzCA": {
-        "en": "The description uses the same rules as the current release, so the activation order may be different from the time of sale.",
-        "pt": "As regras do jogo de cartas são as mesmas da versão anterior.",
-        "es": "Las reglas del juego de cartas son las mismas de la versión anterior."
+        "en-US": "The description uses the same rules as the current release, so the activation order may be different from the time of sale.",
+        "pt-BR": "As regras do jogo de cartas são as mesmas da versão anterior.",
+        "es-ES": "Las reglas del juego de cartas son las mismas de la versión anterior."
     },
     "DcmzCA": {
-        "en": "The manner in which this event is activated is subject to change without notice.",
-        "pt": "Entretanto, as regras podem mudar sem aviso prévio.",
-        "es": "Sin embargo, las reglas pueden cambiar sin previo aviso."
+        "en-US": "The manner in which this event is activated is subject to change without notice.",
+        "pt-BR": "Entretanto, as regras podem mudar sem aviso prévio.",
+        "es-ES": "Sin embargo, las reglas pueden cambiar sin previo aviso."
     },
     "DsmzCA": {
-        "en": "Beta Booster Fragment",
-        "pt": "Máquina Enguiçada",
-        "es": "Máquina Averiada"
+        "en-US": "Beta Booster Fragment",
+        "pt-BR": "Máquina Enguiçada",
+        "es-ES": "Máquina Averiada"
     },
     "D8mzCA": {
-        "en": "Cat, you better climb this wall and get out quick.",
-        "pt": "Felino, saia subindo aquela parede.",
-        "es": "Felino, sal subiendo por esa pared."
+        "en-US": "Cat, you better climb this wall and get out quick.",
+        "pt-BR": "Felino, saia subindo aquela parede.",
+        "es-ES": "Felino, sal subiendo por esa pared."
     },
     "EMmzCA": {
-        "en": "Human, you better climb this wall and get out quick.",
-        "pt": "Humano, saia subindo aquela parede.",
-        "es": "Humano, sal subiendo por esa pared."
+        "en-US": "Human, you better climb this wall and get out quick.",
+        "pt-BR": "Humano, saia subindo aquela parede.",
+        "es-ES": "Humano, sal subiendo por esa pared."
     },
     "EcmzCA": {
-        "en": "(Static) Commencing 1st round beta starter summoning.",
-        "pt": "BEEEP............ 1ª rodada de monstros iniciada.",
-        "es": "BEEEP............ 1ª ronda de monstruos iniciada."
+        "en-US": "(Static) Commencing 1st round beta starter summoning.",
+        "pt-BR": "BEEEP............ 1ª rodada de monstros iniciada.",
+        "es-ES": "BEEEP............ 1ª ronda de monstruos iniciada."
     },
     "EsmzCA": {
-        "en": "1st round beta starter",
-        "pt": "Máquina Alfa",
-        "es": "Máquina Alfa"
+        "en-US": "1st round beta starter",
+        "pt-BR": "Máquina Alfa",
+        "es-ES": "Máquina Alfa"
     },
     "E8mzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Broken Piece of Urn of Holy Determination.",
-        "pt": "Beta eliminado. Raro: Carta Jarro Sagrado.",
-        "es": "Beta eliminado. Raro: Carta Jarra Sagrada."
+        "en-US": "Successfully unsealed beta starter. Rare: Broken Piece of Urn of Holy Determination.",
+        "pt-BR": "Beta eliminado. Raro: Carta Jarro Sagrado.",
+        "es-ES": "Beta eliminado. Raro: Carta Jarra Sagrada."
     },
     "FMmzCA": {
-        "en": "Successfully unsealed beta starter. Rare: A forgotten treasure: Valkyrie's Tears.",
-        "pt": "Beta eliminado. Raro: Carta Tesouro Esquecido.",
-        "es": "Beta eliminado. Raro: Carta Tesoro Olvidado."
+        "en-US": "Successfully unsealed beta starter. Rare: A forgotten treasure: Valkyrie's Tears.",
+        "pt-BR": "Beta eliminado. Raro: Carta Tesouro Esquecido.",
+        "es-ES": "Beta eliminado. Raro: Carta Tesoro Olvidado."
     },
     "FcmzCA": {
-        "en": "Successfully unsealed beta starter. Kaiho's Missing Glasses.",
-        "pt": "Beta eliminado. Raro: Carta Óculos do Lorde Kaho.",
-        "es": "Beta eliminado. Raro: Carta Gafas del Lord Kaho."
+        "en-US": "Successfully unsealed beta starter. Kaiho's Missing Glasses.",
+        "pt-BR": "Beta eliminado. Raro: Carta Óculos do Lorde Kaho.",
+        "es-ES": "Beta eliminado. Raro: Carta Gafas del Lord Kaho."
     },
     "FsmzCA": {
-        "en": "Successfully unsealed beta starter. Clean Snow Crystal.",
-        "pt": "Beta eliminado. Raro: Carta Bola de Neve.",
-        "es": "Beta eliminado. Raro: Carta Bola de Nieve."
+        "en-US": "Successfully unsealed beta starter. Clean Snow Crystal.",
+        "pt-BR": "Beta eliminado. Raro: Carta Bola de Neve.",
+        "es-ES": "Beta eliminado. Raro: Carta Bola de Nieve."
     },
     "F8mzCA": {
-        "en": "Successfully unsealed beta starter. Goblin Fencing Master.",
-        "pt": "Beta eliminado. Raro: Carta Goblin da Espada.",
-        "es": "Beta eliminado. Raro: Carta Duende de la Espada."
+        "en-US": "Successfully unsealed beta starter. Goblin Fencing Master.",
+        "pt-BR": "Beta eliminado. Raro: Carta Goblin da Espada.",
+        "es-ES": "Beta eliminado. Raro: Carta Duende de la Espada."
     },
     "GMmzCA": {
-        "en": "Successfully unsealed beta starter. Goblin Pot Master.",
-        "pt": "Beta eliminado. Raro: Carta Goblin do Vaso.",
-        "es": "Beta eliminado. Raro: Carta Duende del Jarrón."
+        "en-US": "Successfully unsealed beta starter. Goblin Pot Master.",
+        "pt-BR": "Beta eliminado. Raro: Carta Goblin do Vaso.",
+        "es-ES": "Beta eliminado. Raro: Carta Duende del Jarrón."
     },
     "GcmzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Goblin Double Frying Pan Reader.",
-        "pt": "Beta eliminado. Raro: Carta Goblin da Airfryer.",
-        "es": "Beta eliminado. Raro: Carta Duende de la Airfryer."
+        "en-US": "Successfully unsealed beta starter. Rare: Goblin Double Frying Pan Reader.",
+        "pt-BR": "Beta eliminado. Raro: Carta Goblin da Airfryer.",
+        "es-ES": "Beta eliminado. Raro: Carta Duende de la Airfryer."
     },
     "GsmzCA": {
-        "en": "2nd round beta starter",
-        "pt": "2º Beta",
-        "es": "2º Beta"
+        "en-US": "2nd round beta starter",
+        "pt-BR": "2º Beta",
+        "es-ES": "2º Beta"
     },
     "G8mzCA": {
-        "en": "The 2nd round beta starter has been summoned. Player, please move.",
-        "pt": "2º Beta invocado. Duelistas, sigam em frente.",
-        "es": "2º Beta invocado. Duelistas, sigan adelante."
+        "en-US": "The 2nd round beta starter has been summoned. Player, please move.",
+        "pt-BR": "2º Beta invocado. Duelistas, sigam em frente.",
+        "es-ES": "2º Beta invocado. Duelistas, sigan adelante."
     },
     "HMmzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Dragon's Nest Pot.",
-        "pt": "Beta eliminado. Raro: Carta Ninho de Dragão.",
-        "es": "Beta eliminado. Raro: Carta Nido de Dragón."
+        "en-US": "Successfully unsealed beta starter. Rare: Dragon's Nest Pot.",
+        "pt-BR": "Beta eliminado. Raro: Carta Ninho de Dragão.",
+        "es-ES": "Beta eliminado. Raro: Carta Nido de Dragón."
     },
     "HcmzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Ordeal of the Plains.",
-        "pt": "Beta eliminado. Raro: Carta Provações nas Planícies.",
-        "es": "Beta eliminado. Raro: Carta Pruebas en las Llanuras."
+        "en-US": "Successfully unsealed beta starter. Rare: Ordeal of the Plains.",
+        "pt-BR": "Beta eliminado. Raro: Carta Provações nas Planícies.",
+        "es-ES": "Beta eliminado. Raro: Carta Pruebas en las Llanuras."
     },
     "HsmzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Cut-As-You-Please Rat Tail.",
-        "pt": "Beta eliminado. Raro: Carta Rabo de Gato Frágil.",
-        "es": "Beta eliminado. Raro: Carta Cola de Gato Frágil."
+        "en-US": "Successfully unsealed beta starter. Rare: Cut-As-You-Please Rat Tail.",
+        "pt-BR": "Beta eliminado. Raro: Carta Rabo de Gato Frágil.",
+        "es-ES": "Beta eliminado. Raro: Carta Cola de Gato Frágil."
     },
     "H8mzCA": {
-        "en": "Successfully unsealed beta starter. Super Rare: Black Rose.",
-        "pt": "Beta foi eliminado. Super Raro: Carta Rosa Negra.",
-        "es": "Beta fue eliminado. Súper Raro: Carta Rosa Negra."
+        "en-US": "Successfully unsealed beta starter. Super Rare: Black Rose.",
+        "pt-BR": "Beta foi eliminado. Super Raro: Carta Rosa Negra.",
+        "es-ES": "Beta fue eliminado. Súper Raro: Carta Rosa Negra."
     },
     "IMmzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Monkey With Banana.",
-        "pt": "Beta eliminado. Raro: Carta Yoyo com Banana.",
-        "es": "Beta eliminado. Raro: Carta Yoyo con Banana."
+        "en-US": "Successfully unsealed beta starter. Rare: Monkey With Banana.",
+        "pt-BR": "Beta eliminado. Raro: Carta Yoyo com Banana.",
+        "es-ES": "Beta eliminado. Raro: Carta Yoyo con Banana."
     },
     "IcmzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Monkey Holding a Pineapple.",
-        "pt": "Beta eliminado. Raro: Carta Yoyo com Pêssego.",
-        "es": "Beta eliminado. Raro: Carta Yoyo con Durazno."
+        "en-US": "Successfully unsealed beta starter. Rare: Monkey Holding a Pineapple.",
+        "pt-BR": "Beta eliminado. Raro: Carta Yoyo com Pêssego.",
+        "es-ES": "Beta eliminado. Raro: Carta Yoyo con Durazno."
     },
     "IsmzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Monkey Holding a Pomegranate.",
-        "pt": "Beta eliminado. Raro: Carta Yoyo com Três Oitão.",
-        "es": "Beta eliminado. Raro: Carta Yoyo con Ametralhadora."
+        "en-US": "Successfully unsealed beta starter. Rare: Monkey Holding a Pomegranate.",
+        "pt-BR": "Beta eliminado. Raro: Carta Yoyo com Três Oitão.",
+        "es-ES": "Beta eliminado. Raro: Carta Yoyo con Ametralhadora."
     },
     "I8mzCA": {
-        "en": "3rd round beta starter",
-        "pt": "3º Beta",
-        "es": "3º Beta"
+        "en-US": "3rd round beta starter",
+        "pt-BR": "3º Beta",
+        "es-ES": "3º Beta"
     },
     "JMmzCA": {
-        "en": "Starter's Wrapping Paper",
-        "pt": "Porteiro",
-        "es": "Portero"
+        "en-US": "Starter's Wrapping Paper",
+        "pt-BR": "Porteiro",
+        "es-ES": "Portero"
     },
     "JcmzCA": {
-        "en": "The 3rd round beta starter has been summoned. Player, please move.",
-        "pt": "3º Beta invocado. Duelistas, prossigam.",
-        "es": "3º Beta invocado. Duelistas, prosigan."
+        "en-US": "The 3rd round beta starter has been summoned. Player, please move.",
+        "pt-BR": "3º Beta invocado. Duelistas, prossigam.",
+        "es-ES": "3º Beta invocado. Duelistas, prosigan."
     },
     "JsmzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Ingrata's Eye.",
-        "pt": "Beta eliminado. Raro: Carta Olho de Ingrata.",
-        "es": "Beta eliminado. Raro: Carta Ojo de Ingrata."
+        "en-US": "Successfully unsealed beta starter. Rare: Ingrata's Eye.",
+        "pt-BR": "Beta eliminado. Raro: Carta Olho de Ingrata.",
+        "es-ES": "Beta eliminado. Raro: Carta Ojo de Ingrata."
     },
     "J8mzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Ratisma's Swamp Monster.",
-        "pt": "Beta eliminado. Raro: Carta Monstro do Pântano.",
-        "es": "Beta eliminado. Raro: Carta Monstruo del Pantano."
+        "en-US": "Successfully unsealed beta starter. Rare: Ratisma's Swamp Monster.",
+        "pt-BR": "Beta eliminado. Raro: Carta Monstro do Pântano.",
+        "es-ES": "Beta eliminado. Raro: Carta Monstruo del Pantano."
     },
     "KMmzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Un Grilly's Spring.",
-        "pt": "Beta eliminado. Raro: Carta Fonte da Ganância.",
-        "es": "Beta eliminado. Raro: Carta Fuente de la Codicia."
+        "en-US": "Successfully unsealed beta starter. Rare: Un Grilly's Spring.",
+        "pt-BR": "Beta eliminado. Raro: Carta Fonte da Ganância.",
+        "es-ES": "Beta eliminado. Raro: Carta Fuente de la Codicia."
     },
     "KcmzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Transplant Memory.",
-        "pt": "Beta eliminado. Raro: Carta Implante de Memória.",
-        "es": "Beta eliminado. Raro: Carta Implante de Memoria."
+        "en-US": "Successfully unsealed beta starter. Rare: Transplant Memory.",
+        "pt-BR": "Beta eliminado. Raro: Carta Implante de Memória.",
+        "es-ES": "Beta eliminado. Raro: Carta Implante de Memoria."
     },
     "KsmzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Meteor Bear Volcanoa.",
-        "pt": "Beta eliminado. Raro: Carta Meteoros Vulcânicos.",
-        "es": "Beta eliminado. Raro: Carta Meteoros Volcánicos."
+        "en-US": "Successfully unsealed beta starter. Rare: Meteor Bear Volcanoa.",
+        "pt-BR": "Beta eliminado. Raro: Carta Meteoros Vulcânicos.",
+        "es-ES": "Beta eliminado. Raro: Carta Meteoros Volcánicos."
     },
     "K8mzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Vita's Workshop.",
-        "pt": "Beta eliminado. Raro: Carta Loja do Mercante.",
-        "es": "Beta eliminado. Raro: Carta Tienda del Mercader."
+        "en-US": "Successfully unsealed beta starter. Rare: Vita's Workshop.",
+        "pt-BR": "Beta eliminado. Raro: Carta Loja do Mercante.",
+        "es-ES": "Beta eliminado. Raro: Carta Tienda del Mercader."
     },
     "LMmzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Cursed Obsidian Dagger.",
-        "pt": "Beta eliminado. Raro: Carta Adaga de Obsidiana.",
-        "es": "Beta eliminado. Raro: Carta Daga de Obsidiana."
+        "en-US": "Successfully unsealed beta starter. Rare: Cursed Obsidian Dagger.",
+        "pt-BR": "Beta eliminado. Raro: Carta Adaga de Obsidiana.",
+        "es-ES": "Beta eliminado. Raro: Carta Daga de Obsidiana."
     },
     "LcmzCA": {
-        "en": "4th round beta starter",
-        "pt": "4º Beta",
-        "es": "4º Beta"
+        "en-US": "4th round beta starter",
+        "pt-BR": "4º Beta",
+        "es-ES": "4º Beta"
     },
     "LsmzCA": {
-        "en": "The 4th round beta starter has been summoned. Player, please move.",
-        "pt": "4º Beta invocado. Duelistas, prossigam.",
-        "es": "4º Beta invocado. Duelistas, prosigan."
+        "en-US": "The 4th round beta starter has been summoned. Player, please move.",
+        "pt-BR": "4º Beta invocado. Duelistas, prossigam.",
+        "es-ES": "4º Beta invocado. Duelistas, prosigan."
     },
     "L8mzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Orima's Great Record.",
-        "pt": "Beta eliminado. Raro: Carta Canção de Orima.",
-        "es": "Beta eliminado. Raro: Carta Canción de Orima."
+        "en-US": "Successfully unsealed beta starter. Rare: Orima's Great Record.",
+        "pt-BR": "Beta eliminado. Raro: Carta Canção de Orima.",
+        "es-ES": "Beta eliminado. Raro: Carta Canción de Orima."
     },
     "MMmzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Mind Barrier.",
-        "pt": "Beta eliminado. Raro: Carta Muro das Lamentações.",
-        "es": "Beta eliminado. Raro: Carta Muro de las Lamentaciones."
+        "en-US": "Successfully unsealed beta starter. Rare: Mind Barrier.",
+        "pt-BR": "Beta eliminado. Raro: Carta Muro das Lamentações.",
+        "es-ES": "Beta eliminado. Raro: Carta Muro de las Lamentaciones."
     },
     "McmzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Dust to Mountain.",
-        "pt": "Beta eliminado. Raro: Carta Do Pó à Montanha.",
-        "es": "Beta eliminado. Raro: Carta Del Polvo a la Montaña."
+        "en-US": "Successfully unsealed beta starter. Rare: Dust to Mountain.",
+        "pt-BR": "Beta eliminado. Raro: Carta Do Pó à Montanha.",
+        "es-ES": "Beta eliminado. Raro: Carta Del Polvo a la Montaña."
     },
     "MsmzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Call of Time.",
-        "pt": "Beta eliminado. Raro: Carta O Chamado do Tempo.",
-        "es": "Beta eliminado. Raro: Carta La Llamada del Tiempo."
+        "en-US": "Successfully unsealed beta starter. Rare: Call of Time.",
+        "pt-BR": "Beta eliminado. Raro: Carta O Chamado do Tempo.",
+        "es-ES": "Beta eliminado. Raro: Carta La Llamada del Tiempo."
     },
     "M8mzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Library Key.",
-        "pt": "Beta eliminado. Raro: Carta Chave da Biblioteca.",
-        "es": "Beta eliminado. Raro: Carta Llave de la Biblioteca."
+        "en-US": "Successfully unsealed beta starter. Rare: Library Key.",
+        "pt-BR": "Beta eliminado. Raro: Carta Chave da Biblioteca.",
+        "es-ES": "Beta eliminado. Raro: Carta Llave de la Biblioteca."
     },
     "NMmzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Mountain to Dust.",
-        "pt": "Beta eliminado. Raro: Carta Da Montanha ao Pó.",
-        "es": "Beta eliminado. Raro: Carta De la Montaña al Polvo."
+        "en-US": "Successfully unsealed beta starter. Rare: Mountain to Dust.",
+        "pt-BR": "Beta eliminado. Raro: Carta Da Montanha ao Pó.",
+        "es-ES": "Beta eliminado. Raro: Carta De la Montaña al Polvo."
     },
     "NcmzCA": {
-        "en": "Successfully unsealed beta starter. Rare: Flame's Consciousness.",
-        "pt": "Beta eliminado. Raro: Carta Ritual das Chamas.",
-        "es": "Beta eliminado. Raro: Carta Ritual de las Llamas."
+        "en-US": "Successfully unsealed beta starter. Rare: Flame's Consciousness.",
+        "pt-BR": "Beta eliminado. Raro: Carta Ritual das Chamas.",
+        "es-ES": "Beta eliminado. Raro: Carta Ritual de las Llamas."
     },
     "NsmzCA": {
-        "en": "(Static noise) Please move to ...",
-        "pt": "BEEEP...... Por favor, siga em frente.",
-        "es": "BEEEP...... Por favor, sigue adelante."
+        "en-US": "(Static noise) Please move to ...",
+        "pt-BR": "BEEEP...... Por favor, siga em frente.",
+        "es-ES": "BEEEP...... Por favor, sigue adelante."
     },
     "N8mzCA": {
-        "en": "[Leviathan]\nZiz, what happens if they find out we hacked it?",
-        "pt": "[Leviatã]\n...Ziz, o que acontece se você for pego inflingindo as regras?",
-        "es": "[Leviatán]\n...Ziz, ¿qué pasa si te pillan infringiendo las reglas?"
+        "en-US": "[Leviathan]\nZiz, what happens if they find out we hacked it?",
+        "pt-BR": "[Leviatã]\n...Ziz, o que acontece se você for pego inflingindo as regras?",
+        "es-ES": "[Leviatán]\n...Ziz, ¿qué pasa si te pillan infringiendo las reglas?"
     },
     "OMmzCA": {
-        "en": "Leviathan: Ziz, what happens if they find out we hacked it?",
-        "pt": "Leviatã: Ziz, o que acontece se você for pego inflingindo as regras?",
-        "es": "Leviatán: Ziz, ¿qué pasa si te pillan infringiendo las reglas?"
+        "en-US": "Leviathan: Ziz, what happens if they find out we hacked it?",
+        "pt-BR": "Leviatã: Ziz, o que acontece se você for pego inflingindo as regras?",
+        "es-ES": "Leviatán: Ziz, ¿qué pasa si te pillan infringiendo las reglas?"
     },
     "OcmzCA": {
-        "en": "[Ziz]\nDidn't you read the information board? Guess not, that's why you're asking me now. I figured you knew.",
-        "pt": "[Ziz]\nPor que quer saber disso? Deve ter alguma regra no quadro de informações.",
-        "es": "[Ziz]\n¿Por qué quieres saber eso? Debe haber alguna regla en el tablero de información."
+        "en-US": "[Ziz]\nDidn't you read the information board? Guess not, that's why you're asking me now. I figured you knew.",
+        "pt-BR": "[Ziz]\nPor que quer saber disso? Deve ter alguma regra no quadro de informações.",
+        "es-ES": "[Ziz]\n¿Por qué quieres saber eso? Debe haber alguna regla en el tablero de información."
     },
     "OsmzCA": {
-        "en": "Ziz: Didn't you read the information board? Guess not, that's why you're asking me now. I figured you knew.",
-        "pt": "Ziz: Por que quer saber disso? Deve ter alguma regra no quadro de informações.",
-        "es": "Ziz: ¿Por qué quieres saber eso? Debe haber alguna regla en el tablero de información."
+        "en-US": "Ziz: Didn't you read the information board? Guess not, that's why you're asking me now. I figured you knew.",
+        "pt-BR": "Ziz: Por que quer saber disso? Deve ter alguma regra no quadro de informações.",
+        "es-ES": "Ziz: ¿Por qué quieres saber eso? Debe haber alguna regla en el tablero de información."
     },
     "O8mzCA": {
-        "en": "[Leviathan]\nInformation board? I've never seen that!",
-        "pt": "[Leviatã]\nQuadro de Informações? Nunca vi isso!",
-        "es": "[Leviatán]\n¿Tablero de Información? ¡Nunca lo vi!"
+        "en-US": "[Leviathan]\nInformation board? I've never seen that!",
+        "pt-BR": "[Leviatã]\nQuadro de Informações? Nunca vi isso!",
+        "es-ES": "[Leviatán]\n¿Tablero de Información? ¡Nunca lo vi!"
     },
     "PMmzCA": {
-        "en": "Leviathan: Information board? I've never seen that!",
-        "pt": "Leviatã: Quadro de Informações? Nunca vi isso!",
-        "es": "Leviatán: ¿Tablero de Información? ¡Nunca lo vi!"
+        "en-US": "Leviathan: Information board? I've never seen that!",
+        "pt-BR": "Leviatã: Quadro de Informações? Nunca vi isso!",
+        "es-ES": "Leviatán: ¿Tablero de Información? ¡Nunca lo vi!"
     },
     "PcmzCA": {
-        "en": "[Ziz]\nIt's on the information board and also in the Terms and Conditions that you signed when you entered, though I doubt you read it...",
-        "pt": "[Ziz]\nSe não tiver no quadro, deve estar no contrato que você deveria ter lido... antes de entrar aqui.",
-        "es": "[Ziz]\nSi no está en el tablero, debe estar en el contrato que deberías haber leído... antes de entrar aquí."
+        "en-US": "[Ziz]\nIt's on the information board and also in the Terms and Conditions that you signed when you entered, though I doubt you read it...",
+        "pt-BR": "[Ziz]\nSe não tiver no quadro, deve estar no contrato que você deveria ter lido... antes de entrar aqui.",
+        "es-ES": "[Ziz]\nSi no está en el tablero, debe estar en el contrato que deberías haber leído... antes de entrar aquí."
     },
     "PsmzCA": {
-        "en": "Ziz: It's on the information board and also in the Terms and Conditions that you signed when you entered, though I doubt you read it...",
-        "pt": "Ziz: Se não tiver no quadro, deve estar no contrato que você deveria ter lido... antes de entrar aqui.",
-        "es": "Ziz: Si no está en el tablero, debe estar en el contrato que deberías haber leído... antes de entrar aquí."
+        "en-US": "Ziz: It's on the information board and also in the Terms and Conditions that you signed when you entered, though I doubt you read it...",
+        "pt-BR": "Ziz: Se não tiver no quadro, deve estar no contrato que você deveria ter lido... antes de entrar aqui.",
+        "es-ES": "Ziz: Si no está en el tablero, debe estar en el contrato que deberías haber leído... antes de entrar aquí."
     },
     "P8mzCA": {
-        "en": "[Leviathan]\nYou deceived me! You crook, sea squirt, sea cucumber, sea anemone! In the Summon Room I made!",
-        "pt": "[Leviatã]\nVocê me enganou!!! Sua lata velha, carro rebaixado, ronco de moto sem escapamento!!",
-        "es": "[Leviatán]\n¡¡¡Me engañaste!!! ¡¡Cacharro viejo, carro rebajado, ruido de moto sin escape!!"
+        "en-US": "[Leviathan]\nYou deceived me! You crook, sea squirt, sea cucumber, sea anemone! In the Summon Room I made!",
+        "pt-BR": "[Leviatã]\nVocê me enganou!!! Sua lata velha, carro rebaixado, ronco de moto sem escapamento!!",
+        "es-ES": "[Leviatán]\n¡¡¡Me engañaste!!! ¡¡Cacharro viejo, carro rebajado, ruido de moto sin escape!!"
     },
     "QMmzCA": {
-        "en": "Leviathan: You deceived me! You crook, sea squirt, sea cucumber, sea anemone! In the Summon Room I made!",
-        "pt": "Leviatã: Você me enganou!!! Sua lata velha, carro rebaixado, ronco de moto sem escapamento!!",
-        "es": "Leviatán: ¡¡¡Me engañaste!!! ¡¡Cacharro viejo, carro rebajado, ruido de moto sin escape!!"
+        "en-US": "Leviathan: You deceived me! You crook, sea squirt, sea cucumber, sea anemone! In the Summon Room I made!",
+        "pt-BR": "Leviatã: Você me enganou!!! Sua lata velha, carro rebaixado, ronco de moto sem escapamento!!",
+        "es-ES": "Leviatán: ¡¡¡Me engañaste!!! ¡¡Cacharro viejo, carro rebajado, ruido de moto sin escape!!"
     },
     "QcmzCA": {
-        "en": "[Ziz]\nMinimal rollback to the Summon Room opening, decompose into maximum molecular units... Don't worry too much. If we don't get caught, we'll pass through just fine.",
-        "pt": "[Ziz]\nEsta é a Sala de Invocação... Não se preocupe, você vai sair dessa em segurança.",
-        "es": "[Ziz]\nEsta es la Sala de Invocación... No te preocupes, saldrás de esta a salvo."
+        "en-US": "[Ziz]\nMinimal rollback to the Summon Room opening, decompose into maximum molecular units... Don't worry too much. If we don't get caught, we'll pass through just fine.",
+        "pt-BR": "[Ziz]\nEsta é a Sala de Invocação... Não se preocupe, você vai sair dessa em segurança.",
+        "es-ES": "[Ziz]\nEsta es la Sala de Invocación... No te preocupes, saldrás de esta a salvo."
     },
     "QsmzCA": {
-        "en": "Ziz: Minimal rollback to the Summon Room opening, decompose into maximum molecular units... Don't worry too much. If we don't get caught, we'll pass through just fine.",
-        "pt": "Ziz: Esta é a Sala de Invocação... Não se preocupe, você vai sair dessa em segurança.",
-        "es": "Ziz: Esta es la Sala de Invocación... No te preocupes, saldrás de esta a salvo."
+        "en-US": "Ziz: Minimal rollback to the Summon Room opening, decompose into maximum molecular units... Don't worry too much. If we don't get caught, we'll pass through just fine.",
+        "pt-BR": "Ziz: Esta é a Sala de Invocação... Não se preocupe, você vai sair dessa em segurança.",
+        "es-ES": "Ziz: Esta es la Sala de Invocación... No te preocupes, saldrás de esta a salvo."
     },
     "Q8mzCA": {
-        "en": "[Leviathan]\nHey!",
-        "pt": "[Leviatã]\nEi!!!",
-        "es": "[Leviatán]\n¡¡¡Oye!!!"
+        "en-US": "[Leviathan]\nHey!",
+        "pt-BR": "[Leviatã]\nEi!!!",
+        "es-ES": "[Leviatán]\n¡¡¡Oye!!!"
     },
     "RMmzCA": {
-        "en": "Leviathan: Hey!",
-        "pt": "Leviatã: Ei!!!",
-        "es": "Leviatán: ¡¡¡Oye!!!"
+        "en-US": "Leviathan: Hey!",
+        "pt-BR": "Leviatã: Ei!!!",
+        "es-ES": "Leviatán: ¡¡¡Oye!!!"
     },
     "RcmzCA": {
-        "en": "[Ziz]\nTo summon Charleston, the summoner must submit at least four rare or higher level cards as an offering... You always have bad luck with cards, so I helped you to get here.",
-        "pt": "[Ziz]\nPara invocar Charleston, você precisava coletar 4 Cartas Raras, eu só quis te ajudar.",
-        "es": "[Ziz]\nPara invocar a Charleston, necesitabas recolectar 4 Cartas Raras, solo quise ayudarte."
+        "en-US": "[Ziz]\nTo summon Charleston, the summoner must submit at least four rare or higher level cards as an offering... You always have bad luck with cards, so I helped you to get here.",
+        "pt-BR": "[Ziz]\nPara invocar Charleston, você precisava coletar 4 Cartas Raras, eu só quis te ajudar.",
+        "es-ES": "[Ziz]\nPara invocar a Charleston, necesitabas recolectar 4 Cartas Raras, solo quise ayudarte."
     },
     "RsmzCA": {
-        "en": "Ziz: To summon Charleston, the summoner must submit at least four rare or higher level cards as an offering... You always have bad luck with cards, so I helped you to get here.",
-        "pt": "Ziz: Para invocar Charleston, você precisava coletar 4 Cartas Raras, eu só quis te ajudar.",
-        "es": "Ziz: Para invocar a Charleston, necesitabas recolectar 4 Cartas Raras, solo quise ayudarte."
+        "en-US": "Ziz: To summon Charleston, the summoner must submit at least four rare or higher level cards as an offering... You always have bad luck with cards, so I helped you to get here.",
+        "pt-BR": "Ziz: Para invocar Charleston, você precisava coletar 4 Cartas Raras, eu só quis te ajudar.",
+        "es-ES": "Ziz: Para invocar a Charleston, necesitabas recolectar 4 Cartas Raras, solo quise ayudarte."
     },
     "R8mzCA": {
-        "en": "[Ziz]\nMy intentions are endlessly pure.\nAll right, the offering table to place the cards should be right in front of you.",
-        "pt": "[Ziz]\nMinha intenção foi boa.\nAgora, diante dos seus olhos, aparecerá uma plataforma para colocar essas cartas.",
-        "es": "[Ziz]\nMi intención fue buena.\nAhora, ante tus ojos, aparecerá una plataforma para colocar esas cartas."
+        "en-US": "[Ziz]\nMy intentions are endlessly pure.\nAll right, the offering table to place the cards should be right in front of you.",
+        "pt-BR": "[Ziz]\nMinha intenção foi boa.\nAgora, diante dos seus olhos, aparecerá uma plataforma para colocar essas cartas.",
+        "es-ES": "[Ziz]\nMi intención fue buena.\nAhora, ante tus ojos, aparecerá una plataforma para colocar esas cartas."
     },
     "SMmzCA": {
-        "en": "Ziz: All right, the offering table to place the cards should be right in front of you.",
-        "pt": "Ziz: Agora, diante dos seus olhos, aparecerá uma plataforma para colocar essas cartas.",
-        "es": "Ziz: Ahora, ante tus ojos, aparecerá una plataforma para colocar esas cartas."
+        "en-US": "Ziz: All right, the offering table to place the cards should be right in front of you.",
+        "pt-BR": "Ziz: Agora, diante dos seus olhos, aparecerá uma plataforma para colocar essas cartas.",
+        "es-ES": "Ziz: Ahora, ante tus ojos, aparecerá una plataforma para colocar esas cartas."
     },
     "ScmzCA": {
-        "en": "[Ziz]\nIt's too late. You must call Charleston Ingrata.",
-        "pt": "[Ziz]\nHora de chamar a Charleston 03...",
-        "es": "[Ziz]\nHora de llamar a la Charleston 03..."
+        "en-US": "[Ziz]\nIt's too late. You must call Charleston Ingrata.",
+        "pt-BR": "[Ziz]\nHora de chamar a Charleston 03...",
+        "es-ES": "[Ziz]\nHora de llamar a la Charleston 03..."
     },
     "SsmzCA": {
-        "en": "Ziz: It's too late. You must call Charleston Ingrata.",
-        "pt": "Ziz: Hora de chamar a Charleston 03...",
-        "es": "Ziz: Hora de llamar a la Charleston 03..."
+        "en-US": "Ziz: It's too late. You must call Charleston Ingrata.",
+        "pt-BR": "Ziz: Hora de chamar a Charleston 03...",
+        "es-ES": "Ziz: Hora de llamar a la Charleston 03..."
     },
     "S8mzCA": {
-        "en": "Cat, you're here. Well done.",
-        "pt": "Você veio, felino. Agradeço seu esforço.",
-        "es": "Viniste, felino. Agradezco tu esfuerzo."
+        "en-US": "Cat, you're here. Well done.",
+        "pt-BR": "Você veio, felino. Agradeço seu esforço.",
+        "es-ES": "Viniste, felino. Agradezco tu esfuerzo."
     },
     "TMmzCA": {
-        "en": "Human, you're here. Well done.",
-        "pt": "Você veio, humano. Agradeço seu esforço.",
-        "es": "Viniste, humano. Agradezco tu esfuerzo."
+        "en-US": "Human, you're here. Well done.",
+        "pt-BR": "Você veio, humano. Agradeço seu esforço.",
+        "es-ES": "Viniste, humano. Agradezco tu esfuerzo."
     },
     "TcmzCA": {
-        "en": "Talk to Leviathan.",
-        "pt": "Fale com Leviatã.",
-        "es": "Habla con Leviatán."
+        "en-US": "Talk to Leviathan.",
+        "pt-BR": "Fale com Leviatã.",
+        "es-ES": "Habla con Leviatán."
     },
     "TsmzCA": {
-        "en": "If your leader is among you, please speak to Leviathan.",
-        "pt": "O líder do grupo deve falar com Leviatã.",
-        "es": "El líder del grupo debe hablar con Leviatán."
+        "en-US": "If your leader is among you, please speak to Leviathan.",
+        "pt-BR": "O líder do grupo deve falar com Leviatã.",
+        "es-ES": "El líder del grupo debe hablar con Leviatán."
     },
     "T8mzCA": {
-        "en": "Execute summon command: Invalid Relics of Charleston Ingrata old expansion pack replica.",
-        "pt": "Sacrificando 4 cartas, 'Charleston 03' será invocada.",
-        "es": "Sacrificando 4 cartas, 'Charleston 03' será invocada."
+        "en-US": "Execute summon command: Invalid Relics of Charleston Ingrata old expansion pack replica.",
+        "pt-BR": "Sacrificando 4 cartas, 'Charleston 03' será invocada.",
+        "es-ES": "Sacrificando 4 cartas, 'Charleston 03' será invocada."
     },
     "UMmzCA": {
-        "en": "Ziz: Charleston, long time no see. I'm happy to see you again.",
-        "pt": "Ziz: Charleston, já faz um tempo.",
-        "es": "Ziz: Charleston, ya hace un tiempo."
+        "en-US": "Ziz: Charleston, long time no see. I'm happy to see you again.",
+        "pt-BR": "Ziz: Charleston, já faz um tempo.",
+        "es-ES": "Ziz: Charleston, ya hace un tiempo."
     },
     "UcmzCA": {
-        "en": "Destroy Charleston Ingrata. Cards are reconstructed from the Summon Amplifier.",
-        "pt": "Elimine a Charleston 03.",
-        "es": "Elimina a la Charleston 03."
+        "en-US": "Destroy Charleston Ingrata. Cards are reconstructed from the Summon Amplifier.",
+        "pt-BR": "Elimine a Charleston 03.",
+        "es-ES": "Elimina a la Charleston 03."
     },
     "UsmzCA": {
-        "en": "Leviathan: The card that comes out will be mine anyway!",
-        "pt": "Leviatã: Se a carta dela cair, será minha!",
-        "es": "Leviatán: ¡Si su carta cae, será mía!"
+        "en-US": "Leviathan: The card that comes out will be mine anyway!",
+        "pt-BR": "Leviatã: Se a carta dela cair, será minha!",
+        "es-ES": "Leviatán: ¡Si su carta cae, será mía!"
     },
     "U8mzCA": {
-        "en": "Levi9-1",
-        "pt": "Levi9-1",
-        "es": "Levi9-1"
+        "en-US": "Levi9-1",
+        "pt-BR": "Levi9-1",
+        "es-ES": "Levi9-1"
     },
     "VMmzCA": {
-        "en": "Ziz: I hope they don't find out that you hacked!",
-        "pt": "Ziz: Espero que você não esteja roubando.",
-        "es": "Ziz: Espero que no estés robando."
+        "en-US": "Ziz: I hope they don't find out that you hacked!",
+        "pt-BR": "Ziz: Espero que você não esteja roubando.",
+        "es-ES": "Ziz: Espero que no estés robando."
     },
     "VcmzCA": {
-        "en": "Leviathan: You're the one who hacked!",
-        "pt": "Leviatã: Você me enganou!",
-        "es": "Leviatán: ¡Me engañaste!"
+        "en-US": "Leviathan: You're the one who hacked!",
+        "pt-BR": "Leviatã: Você me enganou!",
+        "es-ES": "Leviatán: ¡Me engañaste!"
     },
     "VsmzCA": {
-        "en": "Replica events may have different probability than old event.",
-        "pt": "Cartas Raras do Pacote de Baralho têm chances baixas.",
-        "es": "Las Cartas Raras del Paquete de Deck tienen probabilidades bajas."
+        "en-US": "Replica events may have different probability than old event.",
+        "pt-BR": "Cartas Raras do Pacote de Baralho têm chances baixas.",
+        "es-ES": "Las Cartas Raras del Paquete de Deck tienen probabilidades bajas."
     },
     "V8mzCA": {
-        "en": "Charleston Ingrata",
-        "pt": "Charleston 03",
-        "es": "Charleston 03"
+        "en-US": "Charleston Ingrata",
+        "pt-BR": "Charleston 03",
+        "es-ES": "Charleston 03"
     },
     "WMmzCA": {
-        "en": "Charleston Ingrata",
-        "pt": "Charleston 03",
-        "es": "Charleston 03"
+        "en-US": "Charleston Ingrata",
+        "pt-BR": "Charleston 03",
+        "es-ES": "Charleston 03"
     },
     "WcmzCA": {
-        "en": "Re-check the summon information for the invalid object.",
-        "pt": "A Charleston está muito longe.",
-        "es": "La Charleston está muy lejos."
+        "en-US": "Re-check the summon information for the invalid object.",
+        "pt-BR": "A Charleston está muito longe.",
+        "es-ES": "La Charleston está muy lejos."
     },
     "WsmzCA": {
-        "en": "boss",
-        "pt": "chefe",
-        "es": "jefe"
+        "en-US": "boss",
+        "pt-BR": "chefe",
+        "es-ES": "jefe"
     },
     "W8mzCA": {
-        "en": "First Edition Printed Token",
-        "pt": "Máquina com Falha",
-        "es": "Máquina con Falla"
+        "en-US": "First Edition Printed Token",
+        "pt-BR": "Máquina com Falha",
+        "es-ES": "Máquina con Falla"
     },
     "XMmzCA": {
-        "en": "Crystal Ball of Chaos",
-        "pt": "Bomba",
-        "es": "Bomba"
+        "en-US": "Crystal Ball of Chaos",
+        "pt-BR": "Bomba",
+        "es-ES": "Bomba"
     },
     "XcmzCA": {
-        "en": "[Ziz Ingrata]\nYou'll be able to go back with your life intact, just like I promised.\nI don't know from where you originally came, but according to the information obtained from hacking into the server, if you press your left shoulder like this, your nose like this...",
-        "pt": "Tenho péssimas notícias, felino.",
-        "es": "Tengo pésimas noticias, felino."
+        "en-US": "[Ziz Ingrata]\nYou'll be able to go back with your life intact, just like I promised.\nI don't know from where you originally came, but according to the information obtained from hacking into the server, if you press your left shoulder like this, your nose like this...",
+        "pt-BR": "Tenho péssimas notícias, felino.",
+        "es-ES": "Tengo pésimas noticias, felino."
     },
     "XsmzCA": {
-        "en": "Human, I have bad news.",
-        "pt": "Tenho péssimas notícias, humano.",
-        "es": "Tengo pésimas noticias, humano."
+        "en-US": "Human, I have bad news.",
+        "pt-BR": "Tenho péssimas notícias, humano.",
+        "es-ES": "Tengo pésimas noticias, humano."
     },
     "X8mzCA": {
-        "en": "It's time to say goodbye.",
-        "pt": "É hora de dizer adeus.",
-        "es": "Es hora de decir adiós."
+        "en-US": "It's time to say goodbye.",
+        "pt-BR": "É hora de dizer adeus.",
+        "es-ES": "Es hora de decir adiós."
     },
     "YMmzCA": {
-        "en": "[Ziz Ingrata]\nYou'll be able to go back with your life intact, just like I promised. \nI don't know from where you originally came, but according to the information obtained from hacking into the server, if you press your left shoulder like this, your nose like this...",
-        "pt": "[Ziz Ingrata]\nComo prometido, você retornará com vida. Não sei de onde você veio, mas de acordo com as informações que vi quando estava hackeando o servidor, eu posso teleportar você...",
-        "es": "[Ziz Ingrata]\nComo lo prometido, regresarás con vida. No sé de dónde viniste, pero de acuerdo con la información que vi cuando estaba hackeando el servidor, puedo teletransportarte..."
+        "en-US": "[Ziz Ingrata]\nYou'll be able to go back with your life intact, just like I promised. \nI don't know from where you originally came, but according to the information obtained from hacking into the server, if you press your left shoulder like this, your nose like this...",
+        "pt-BR": "[Ziz Ingrata]\nComo prometido, você retornará com vida. Não sei de onde você veio, mas de acordo com as informações que vi quando estava hackeando o servidor, eu posso teleportar você...",
+        "es-ES": "[Ziz Ingrata]\nComo lo prometido, regresarás con vida. No sé de dónde viniste, pero de acuerdo con la información que vi cuando estaba hackeando el servidor, puedo teletransportarte..."
     },
     "YcmzCA": {
-        "en": "[Ziz Ingrata]\nYes. Close your eyes, click your heels together three times, think of your home, and you'll be there.\nWill you go back?",
-        "pt": "[Ziz Ingrata]\nBem, basta tomar uma decisão.\nVocê gostaria de voltar?",
-        "es": "[Ziz Ingrata]\nBueno, basta con tomar una decisión.\n¿Te gustaría volver?"
+        "en-US": "[Ziz Ingrata]\nYes. Close your eyes, click your heels together three times, think of your home, and you'll be there.\nWill you go back?",
+        "pt-BR": "[Ziz Ingrata]\nBem, basta tomar uma decisão.\nVocê gostaria de voltar?",
+        "es-ES": "[Ziz Ingrata]\nBueno, basta con tomar una decisión.\n¿Te gustaría volver?"
     },
     "YsmzCA": {
-        "en": "Go back.",
-        "pt": "Voltar.",
-        "es": "Regresar."
+        "en-US": "Go back.",
+        "pt-BR": "Voltar.",
+        "es-ES": "Regresar."
     },
     "Y8mzCA": {
-        "en": "Don't go back.",
-        "pt": "Não voltar.",
-        "es": "No regresar."
+        "en-US": "Don't go back.",
+        "pt-BR": "Não voltar.",
+        "es-ES": "No regresar."
     },
     "ZMmzCA": {
-        "en": "[Ziz]\nAll right... Close your eyes...",
-        "pt": "[Ziz]\nOk... Agora, feche os olhos...",
-        "es": "[Ziz]\nOk... Ahora, cierra los ojos..."
+        "en-US": "[Ziz]\nAll right... Close your eyes...",
+        "pt-BR": "[Ziz]\nOk... Agora, feche os olhos...",
+        "es-ES": "[Ziz]\nOk... Ahora, cierra los ojos..."
     },
     "ZcmzCA": {
-        "en": "[Ziz]\nOne, two, three!",
-        "pt": "[Ziz]\nUm, dois, três!",
-        "es": "[Ziz]\n¡Uno, dos, tres!"
+        "en-US": "[Ziz]\nOne, two, three!",
+        "pt-BR": "[Ziz]\nUm, dois, três!",
+        "es-ES": "[Ziz]\n¡Uno, dos, tres!"
     },
     "ZsmzCA": {
-        "en": "[Leviathan]\nI'll let it slide and keep my promise.\nYou guys, I don't know how you were summoned here,\nbut you're the first humans to go back home alive.\nAsk Ziz over there how to go back.",
-        "pt": "[Ziz]\nVocê quer se despedir de Leviatã, primeiro? Que gentileza.\nDa próxima vez que vocês se encontrarem novamente, zombe da Leviatã como se fosse a primeira vez. Hehehe.\nEu me diverti muito hoje.",
-        "es": "[Ziz]\n¿Quieres despedirte de Leviatán primero? Qué gentileza.\nLa próxima vez que se encuentren, burlate de Leviatán como si fuera la primera vez. Hehehe.\nMe divertí mucho hoy."
+        "en-US": "[Leviathan]\nI'll let it slide and keep my promise.\nYou guys, I don't know how you were summoned here,\nbut you're the first humans to go back home alive.\nAsk Ziz over there how to go back.",
+        "pt-BR": "[Ziz]\nVocê quer se despedir de Leviatã, primeiro? Que gentileza.\nDa próxima vez que vocês se encontrarem novamente, zombe da Leviatã como se fosse a primeira vez. Hehehe.\nEu me diverti muito hoje.",
+        "es-ES": "[Ziz]\n¿Quieres despedirte de Leviatán primero? Qué gentileza.\nLa próxima vez que se encuentren, burlate de Leviatán como si fuera la primera vez. Hehehe.\nMe divertí mucho hoy."
     },
     "Z8mzCA": {
-        "en": "[Leviathan]\nGack! It's all wrong.\nAll... wrong...\nCould we not have been caught?",
-        "pt": "[Leviatã]\nNhaaa~.... Está tudo errado.\nTudo... tudo errado...\nSerá que é possível sem ser pega?",
-        "es": "[Leviatán]\nNhaaa~.... Todo está mal.\nTodo... todo mal...\n¿Será posible sin que me pillen?"
+        "en-US": "[Leviathan]\nGack! It's all wrong.\nAll... wrong...\nCould we not have been caught?",
+        "pt-BR": "[Leviatã]\nNhaaa~.... Está tudo errado.\nTudo... tudo errado...\nSerá que é possível sem ser pega?",
+        "es-ES": "[Leviatán]\nNhaaa~.... Todo está mal.\nTodo... todo mal...\n¿Será posible sin que me pillen?"
     },
     "aMmzCA": {
-        "en": "[Leviathan]\nI'll let it slide and keep my promise.\nYou guys, I don't know how you were summoned here, \nbut you're the first humans to go back home alive.\nAsk Ziz over there how to go back.",
-        "pt": "[Leviatã]\n...Eu vou deixar você ir. Foi a nossa promessa.\nVocê foi o primeiro humano que voltou com vida da invocação.\nFale com Ziz para saber como sair.",
-        "es": "[Leviatán]\n...Voy a dejarte ir. Fue nuestra promesa.\nFuiste el primer humano que regresó con vida de la invocación.\nHabla con Ziz para saber cómo salir."
+        "en-US": "[Leviathan]\nI'll let it slide and keep my promise.\nYou guys, I don't know how you were summoned here, \nbut you're the first humans to go back home alive.\nAsk Ziz over there how to go back.",
+        "pt-BR": "[Leviatã]\n...Eu vou deixar você ir. Foi a nossa promessa.\nVocê foi o primeiro humano que voltou com vida da invocação.\nFale com Ziz para saber como sair.",
+        "es-ES": "[Leviatán]\n...Voy a dejarte ir. Fue nuestra promesa.\nFuiste el primer humano que regresó con vida de la invocación.\nHabla con Ziz para saber cómo salir."
     },
     "acmzCA": {
-        "en": "finalcall",
-        "pt": "finalcall",
-        "es": "finalcall"
+        "en-US": "finalcall",
+        "pt-BR": "finalcall",
+        "es-ES": "finalcall"
     },
     "asmzCA": {
-        "en": "The summon command for the old expansion pack replica 'Invalid Relics of Charleston Ingrata' has been completed.",
-        "pt": "O duelo que envolvia as cartas de 'Charleston' foi concluído.",
-        "es": "El duelo que involucraba las cartas de 'Charleston' fue concluido."
+        "en-US": "The summon command for the old expansion pack replica 'Invalid Relics of Charleston Ingrata' has been completed.",
+        "pt-BR": "O duelo que envolvia as cartas de 'Charleston' foi concluído.",
+        "es-ES": "El duelo que involucraba las cartas de 'Charleston' fue concluido."
     },
     "a8mzCA": {
-        "en": "Leviathan: I knew it...",
-        "pt": "Leviatã: Pois é...",
-        "es": "Leviatán: Pues sí..."
+        "en-US": "Leviathan: I knew it...",
+        "pt-BR": "Leviatã: Pois é...",
+        "es-ES": "Leviatán: Pues sí..."
     },
     "bMmzCA": {
-        "en": "Ziz: The summon was a success.",
-        "pt": "Ziz: A convocação em si foi bem-sucedida.",
-        "es": "Ziz: La convocación en sí fue exitosa."
+        "en-US": "Ziz: The summon was a success.",
+        "pt-BR": "Ziz: A convocação em si foi bem-sucedida.",
+        "es-ES": "Ziz: La convocación en sí fue exitosa."
     },
     "bcmzCA": {
-        "en": "Summon Room 16777215: Leviathan Ingrata. Use system bug.",
-        "pt": "Sala de Convocação 16777215: Leviatã Ingrata. Bug encontrado.",
-        "es": "Sala de Convocación 16777215: Leviatán Ingrata. Error encontrado."
+        "en-US": "Summon Room 16777215: Leviathan Ingrata. Use system bug.",
+        "pt-BR": "Sala de Convocação 16777215: Leviatã Ingrata. Bug encontrado.",
+        "es-ES": "Sala de Convocación 16777215: Leviatán Ingrata. Error encontrado."
     },
     "bsmzCA": {
-        "en": "Leviathan: Gawd...",
-        "pt": "Leviatã: Ah...",
-        "es": "Leviatán: Ah..."
+        "en-US": "Leviathan: Gawd...",
+        "pt-BR": "Leviatã: Ah...",
+        "es-ES": "Leviatán: Ah..."
     },
     "b8mzCA": {
-        "en": "Ziz: We'll have to use a different code next time.",
-        "pt": "Ziz: Vixi... Acho que você tem que usar um código diferente na próxima vez.",
-        "es": "Ziz: Vaya... Creo que tienes que usar un código diferente la próxima vez."
+        "en-US": "Ziz: We'll have to use a different code next time.",
+        "pt-BR": "Ziz: Vixi... Acho que você tem que usar um código diferente na próxima vez.",
+        "es-ES": "Ziz: Vaya... Creo que tienes que usar un código diferente la próxima vez."
     },
     "cMmzCA": {
-        "en": "Leviathan: Hey, you! You planned this from the beginning!",
-        "pt": "Leviatã: Ei, você...! Essa era sua intenção desde o começo!",
-        "es": "Leviatán: ¡Oye, tú...! ¡Esa era tu intención desde el principio!"
+        "en-US": "Leviathan: Hey, you! You planned this from the beginning!",
+        "pt-BR": "Leviatã: Ei, você...! Essa era sua intenção desde o começo!",
+        "es-ES": "Leviatán: ¡Oye, tú...! ¡Esa era tu intención desde el principio!"
     },
     "ccmzCA": {
-        "en": "Ziz: It's okay. I found 3,141,519 faults in the system. You'll have plenty to do.",
-        "pt": "Ziz: Tudo bem, há um total de 3.141.519 lacunas no sistema que descobrimos. Você também não vai se cansar disso.",
-        "es": "Ziz: Está bien, hay un total de 3.141.519 lagunas en el sistema que descubrimos. Tampoco te vas a aburrir de esto."
+        "en-US": "Ziz: It's okay. I found 3,141,519 faults in the system. You'll have plenty to do.",
+        "pt-BR": "Ziz: Tudo bem, há um total de 3.141.519 lacunas no sistema que descobrimos. Você também não vai se cansar disso.",
+        "es-ES": "Ziz: Está bien, hay un total de 3.141.519 lagunas en el sistema que descubrimos. Tampoco te vas a aburrir de esto."
     },
     "csmzCA": {
-        "en": "After using the Summon Room, Leviathan Ingrata's records are rolled back.",
-        "pt": "Após a convocação, os registros de Leviatã Ingrata serão reiniciados.",
-        "es": "Después de la convocación, los registros de Leviatán Ingrata serán reiniciados."
+        "en-US": "After using the Summon Room, Leviathan Ingrata's records are rolled back.",
+        "pt-BR": "Após a convocação, os registros de Leviatã Ingrata serão reiniciados.",
+        "es-ES": "Después de la convocación, los registros de Leviatán Ingrata serán reiniciados."
     },
     "c8mzCA": {
-        "en": "Ziz: And I'll remember.",
-        "pt": "Ziz: Mas eu vou lembrar.",
-        "es": "Ziz: Pero yo voy a recordar."
+        "en-US": "Ziz: And I'll remember.",
+        "pt-BR": "Ziz: Mas eu vou lembrar.",
+        "es-ES": "Ziz: Pero yo voy a recordar."
     },
     "dMmzCA": {
-        "en": "Leviathan: Ziz!",
-        "pt": "Leviatã: Ziz!",
-        "es": "Leviatán: ¡Ziz!"
+        "en-US": "Leviathan: Ziz!",
+        "pt-BR": "Leviatã: Ziz!",
+        "es-ES": "Leviatán: ¡Ziz!"
     },
     "dcmzCA": {
-        "en": "Ziz: You're my only friend.",
-        "pt": "Ziz: Afinal, você é minha única amiga.",
-        "es": "Ziz: Después de todo, eres mi única amiga."
+        "en-US": "Ziz: You're my only friend.",
+        "pt-BR": "Ziz: Afinal, você é minha única amiga.",
+        "es-ES": "Ziz: Después de todo, eres mi única amiga."
     },
     "dsmzCA": {
-        "en": "Leviathan: I'm not your friend!",
-        "pt": "Leviatã: Eu não sou sua amiga!",
-        "es": "Leviatán: ¡No soy tu amiga!"
+        "en-US": "Leviathan: I'm not your friend!",
+        "pt-BR": "Leviatã: Eu não sou sua amiga!",
+        "es-ES": "Leviatán: ¡No soy tu amiga!"
     },
     "d8mzCA": {
-        "en": "Vending Machine",
-        "pt": "Máquina de Vendas",
-        "es": "Máquina de Ventas"
+        "en-US": "Vending Machine",
+        "pt-BR": "Máquina de Vendas",
+        "es-ES": "Máquina de Ventas"
     },
     "eMmzCA": {
-        "en": "- The Vending Machine is broken. It looks like someone kicked it. -",
-        "pt": "- A máquina de vendas está quebrada. Há vestígios de amassados de alguém que a chutou. -",
-        "es": "- La máquina de ventas está rota. Hay rastros de golpes de alguien que la pateó. -"
+        "en-US": "- The Vending Machine is broken. It looks like someone kicked it. -",
+        "pt-BR": "- A máquina de vendas está quebrada. Há vestígios de amassados de alguém que a chutou. -",
+        "es-ES": "- La máquina de ventas está rota. Hay rastros de golpes de alguien que la pateó. -"
     },
     "ecmzCA": {
-        "en": "- It's hard to tell what the displayed items in the Vending Machine are for, but it's clear that only useless things are sold. -",
-        "pt": "- Olhando atentamente para a máquina de vendas, não consegui dizer para que serviam os itens expostos, mas estava claro que apenas coisas inúteis estavam sendo vendidas. -",
-        "es": "- Mirando atentamente la máquina de ventas, no pude decir para qué servían los objetos exhibidos, pero estaba claro que solo se vendían cosas inútiles. -"
+        "en-US": "- It's hard to tell what the displayed items in the Vending Machine are for, but it's clear that only useless things are sold. -",
+        "pt-BR": "- Olhando atentamente para a máquina de vendas, não consegui dizer para que serviam os itens expostos, mas estava claro que apenas coisas inúteis estavam sendo vendidas. -",
+        "es-ES": "- Mirando atentamente la máquina de ventas, no pude decir para qué servían los objetos exhibidos, pero estaba claro que solo se vendían cosas inútiles. -"
     },
     "esmzCA": {
-        "en": "- There are lots of shredded cards under the Vending Machine. -",
-        "pt": "- Há muitos pedaços rasgados de carta embaixo da máquina de vendas. -",
-        "es": "- Hay muchos pedazos rasgados de carta debajo de la máquina de ventas. -"
+        "en-US": "- There are lots of shredded cards under the Vending Machine. -",
+        "pt-BR": "- Há muitos pedaços rasgados de carta embaixo da máquina de vendas. -",
+        "es-ES": "- Hay muchos pedazos rasgados de carta debajo de la máquina de ventas. -"
     },
     "e8mzCA": {
-        "en": "- The Vending Machine looks around for a while and spoke to you in a hushed voice. -",
-        "pt": "- A máquina de vendas olhou em volta por um momento e falou em voz baixa. -",
-        "es": "- La máquina de ventas miró a su alrededor por un momento y habló en voz baja. -"
+        "en-US": "- The Vending Machine looks around for a while and spoke to you in a hushed voice. -",
+        "pt-BR": "- A máquina de vendas olhou em volta por um momento e falou em voz baixa. -",
+        "es-ES": "- La máquina de ventas miró a su alrededor por un momento y habló en voz baja. -"
     },
     "fMmzCA": {
-        "en": "- It's hard to figure out what it's trying to say, but it seems like it's telling you to pick a new card because something scary is ahead. -",
-        "pt": "- Não consegui entender o que ela estava dizendo, mas acho que disse que se você seguir em frente daqui, vai acontecer algo assustador, então compre uma nova carta. -",
-        "es": "- No pude entender lo que decía, pero creo que dijo que si sigues adelante desde aquí, pasará algo aterrador, así que compra una nueva carta. -"
+        "en-US": "- It's hard to figure out what it's trying to say, but it seems like it's telling you to pick a new card because something scary is ahead. -",
+        "pt-BR": "- Não consegui entender o que ela estava dizendo, mas acho que disse que se você seguir em frente daqui, vai acontecer algo assustador, então compre uma nova carta. -",
+        "es-ES": "- No pude entender lo que decía, pero creo que dijo que si sigues adelante desde aquí, pasará algo aterrador, así que compra una nueva carta. -"
     },
     "fcmzCA": {
-        "en": "- You tell the Vending Machine that you are a card, not a player. It seems very disappointed. -",
-        "pt": "- Quando respondi que não era um duelista, a máquina de vendas pareceu desapontada. -",
-        "es": "- Cuando respondí que no era un duelista, la máquina de ventas pareció decepcionada. -"
+        "en-US": "- You tell the Vending Machine that you are a card, not a player. It seems very disappointed. -",
+        "pt-BR": "- Quando respondi que não era um duelista, a máquina de vendas pareceu desapontada. -",
+        "es-ES": "- Cuando respondí que no era un duelista, la máquina de ventas pareció decepcionada. -"
     },
     "fsmzCA": {
-        "en": "- You hear a purring noise from the top of the Vending Machine. -",
-        "pt": "- Houve um ronronar vindo de cima da máquina de vendas. -",
-        "es": "- Hubo un ronroneo viniendo de arriba de la máquina de ventas. -"
+        "en-US": "- You hear a purring noise from the top of the Vending Machine. -",
+        "pt-BR": "- Houve um ronronar vindo de cima da máquina de vendas. -",
+        "es-ES": "- Hubo un ronroneo viniendo de arriba de la máquina de ventas. -"
     },
     "f8mzCA": {
-        "en": "- The thing that purred tells you not to get shredded. -",
-        "pt": "- A coisa que estava ronronando disse para não rasgar dessa vez. -",
-        "es": "- La cosa que ronroneaba dijo que no la rasgaras esta vez. -"
+        "en-US": "- The thing that purred tells you not to get shredded. -",
+        "pt-BR": "- A coisa que estava ronronando disse para não rasgar dessa vez. -",
+        "es-ES": "- La cosa que ronroneaba dijo que no la rasgaras esta vez. -"
     },
     "gMmzCA": {
-        "en": "- You tell the Vending Machine that you are a card, not a player. The purring thing yawns and closes its eyes.-",
-        "pt": "- Quando respondi que não era um duelista, a coisa ronronante bocejou e fechou os olhos. -",
-        "es": "- Cuando respondí que no era un duelista, la cosa ronroneante bostezó y cerró los ojos. -"
+        "en-US": "- You tell the Vending Machine that you are a card, not a player. The purring thing yawns and closes its eyes.-",
+        "pt-BR": "- Quando respondi que não era um duelista, a coisa ronronante bocejou e fechou os olhos. -",
+        "es-ES": "- Cuando respondí que no era un duelista, la cosa ronroneante bostezó y cerró los ojos. -"
     },
     "gcmzCA": {
-        "en": "- There are lots of shredded cards under the Vending Machine. Probably because there is no trash can nearby. -",
-        "pt": "- Tem muitos pedaços rasgados de carta embaixo da máquina de vendas. Acho que é porque não tem lata de lixo aqui. -",
-        "es": "- Hay muchos pedazos rasgados de carta debajo de la máquina de ventas. Creo que es porque no hay bote de basura aquí. -"
+        "en-US": "- There are lots of shredded cards under the Vending Machine. Probably because there is no trash can nearby. -",
+        "pt-BR": "- Tem muitos pedaços rasgados de carta embaixo da máquina de vendas. Acho que é porque não tem lata de lixo aqui. -",
+        "es-ES": "- Hay muchos pedazos rasgados de carta debajo de la máquina de ventas. Creo que es porque no hay bote de basura aquí. -"
     },
     "gsmzCA": {
-        "en": "Guide",
-        "pt": "Aviso",
-        "es": "Aviso"
+        "en-US": "Guide",
+        "pt-BR": "Aviso",
+        "es-ES": "Aviso"
     },
     "g8mzCA": {
-        "en": "-- There is a sign. --\n-- Though the lettering is indiscernible --\n-- You are still able to read it. --",
-        "pt": "-- Há um aviso. --\n-- É um texto desconhecido, mas --\n-- de alguma forma eu posso ler. --",
-        "es": "-- Hay un aviso. --\n-- Es un texto desconocido, pero --\n-- de alguna manera puedo leerlo. --"
+        "en-US": "-- There is a sign. --\n-- Though the lettering is indiscernible --\n-- You are still able to read it. --",
+        "pt-BR": "-- Há um aviso. --\n-- É um texto desconhecido, mas --\n-- de alguma forma eu posso ler. --",
+        "es-ES": "-- Hay un aviso. --\n-- Es un texto desconocido, pero --\n-- de alguna manera puedo leerlo. --"
     },
     "hMmzCA": {
-        "en": "... When you pick 'Valkyrie's Goldhouse' Summon Booster Pack, be careful not to bother other users. Don't break someone down into their molecular components just because they took someone else's cards or they touched your cards.",
-        "pt": "...Ao participar da [Casa do Brilho Dourado], não incomode os duelistas que estão no jogo e não roube as cartas de outras pessoas.",
-        "es": "...Al participar en la [Casa del Brillo Dorado], no molestes a los duelistas que están en el juego y no robes las cartas de otras personas."
+        "en-US": "... When you pick 'Valkyrie's Goldhouse' Summon Booster Pack, be careful not to bother other users. Don't break someone down into their molecular components just because they took someone else's cards or they touched your cards.",
+        "pt-BR": "...Ao participar da [Casa do Brilho Dourado], não incomode os duelistas que estão no jogo e não roube as cartas de outras pessoas.",
+        "es-ES": "...Al participar en la [Casa del Brillo Dorado], no molestes a los duelistas que están en el juego y no robes las cartas de otras personas."
     },
     "hcmzCA": {
-        "en": "In the event of an illegitimate card pack summon, be aware that the player can get rolled back to when the Summon Room was first created or get broken down to the maximum molecular level.",
-        "pt": "Observe que se um baralho de cartas for convocado de forma ilegal, se for denunciado, o duelista pode sofrer consequências severas.",
-        "es": "Observa que si un deck de cartas es convocado de forma ilegal, si es denunciado, el duelista puede sufrir consecuencias severas."
+        "en-US": "In the event of an illegitimate card pack summon, be aware that the player can get rolled back to when the Summon Room was first created or get broken down to the maximum molecular level.",
+        "pt-BR": "Observe que se um baralho de cartas for convocado de forma ilegal, se for denunciado, o duelista pode sofrer consequências severas.",
+        "es-ES": "Observa que si un deck de cartas es convocado de forma ilegal, si es denunciado, el duelista puede sufrir consecuencias severas."
     },
     "hsmzCA": {
-        "en": "Remember: Sportsmanship!\nKing's Heel Duel House\nManager",
-        "pt": "Vamos respeitar os duelistas.\nCasa de Duelo Aos Pés do Rei.\nGerente Baek",
-        "es": "Respetemos a los duelistas.\nCasa de Duelo A los Pies del Rey.\nGerente Baek"
+        "en-US": "Remember: Sportsmanship!\nKing's Heel Duel House\nManager",
+        "pt-BR": "Vamos respeitar os duelistas.\nCasa de Duelo Aos Pés do Rei.\nGerente Baek",
+        "es-ES": "Respetemos a los duelistas.\nCasa de Duelo A los Pies del Rey.\nGerente Baek"
     },
     "h8mzCA": {
-        "en": "Restrooms are outside the store.\n...",
-        "pt": "Os sanitários ficam do lado de fora.\n...",
-        "es": "Los sanitarios están afuera.\n..."
+        "en-US": "Restrooms are outside the store.\n...",
+        "pt-BR": "Os sanitários ficam do lado de fora.\n...",
+        "es-ES": "Los sanitarios están afuera.\n..."
     },
     "iMmzCA": {
-        "en": "- Unable to continue: inventory is full. -",
-        "pt": "- Reorganize seu inventário e tente novamente. -",
-        "es": "- Reorganiza tu inventario e inténtalo de nuevo. -"
+        "en-US": "- Unable to continue: inventory is full. -",
+        "pt-BR": "- Reorganize seu inventário e tente novamente. -",
+        "es-ES": "- Reorganiza tu inventario e inténtalo de nuevo. -"
     },
     "icmzCA": {
-        "en": "...The Summon Room's Booster and Starter Summon Principle recreates the lifeform or machinery at the preliminary coordinates, e.g., the Summon Room original location.",
-        "pt": "...Os princípios de invocação reproduzem a aparência das criaturas.",
-        "es": "...Los principios de invocación reproducen la apariencia de las criaturas."
+        "en-US": "...The Summon Room's Booster and Starter Summon Principle recreates the lifeform or machinery at the preliminary coordinates, e.g., the Summon Room original location.",
+        "pt-BR": "...Os princípios de invocação reproduzem a aparência das criaturas.",
+        "es-ES": "...Los principios de invocación reproducen la apariencia de las criaturas."
     },
     "ismzCA": {
-        "en": "The matter in question is not materialized on a molecular level. For your entertainment, the King's Heel strives for ethically conscious practices.",
-        "pt": "Essa reprodução faz parte do entretenimento. [Aos Pés do Rei] visa uma gestão com a máxima consciência.",
-        "es": "Esta reproducción es parte del entretenimiento. [A los Pies del Rey] busca una gestión con la máxima conciencia."
+        "en-US": "The matter in question is not materialized on a molecular level. For your entertainment, the King's Heel strives for ethically conscious practices.",
+        "pt-BR": "Essa reprodução faz parte do entretenimento. [Aos Pés do Rei] visa uma gestão com a máxima consciência.",
+        "es-ES": "Esta reproducción es parte del entretenimiento. [A los Pies del Rey] busca una gestión con la máxima conciencia."
     },
     "i8mzCA": {
-        "en": "In addition, highly intelligent lifeforms and machinery are not included.",
-        "pt": "E não inclui organismos ou dispositivos sencientes.",
-        "es": "Y no incluye organismos o dispositivos sensibles."
+        "en-US": "In addition, highly intelligent lifeforms and machinery are not included.",
+        "pt-BR": "E não inclui organismos ou dispositivos sencientes.",
+        "es-ES": "Y no incluye organismos o dispositivos sensibles."
     },
     "jMmzCA": {
-        "en": "Some unremoved wildlife and machinery may be present in the Summon Room.\nAny delays experienced during your playtime will be appropriately compensated, so apply in advance now.",
-        "pt": "Alguns monstros que não foram removidos podem estar presentes.\nCaso queira uma compensação, inscreva-se com antecedência agora.",
-        "es": "Algunos monstruos que no fueron removidos pueden estar presentes.\nSi quieres una compensación, inscríbete con anticipación ahora."
+        "en-US": "Some unremoved wildlife and machinery may be present in the Summon Room.\nAny delays experienced during your playtime will be appropriately compensated, so apply in advance now.",
+        "pt-BR": "Alguns monstros que não foram removidos podem estar presentes.\nCaso queira uma compensação, inscreva-se com antecedência agora.",
+        "es-ES": "Algunos monstruos que no fueron removidos pueden estar presentes.\nSi quieres una compensación, inscríbete con anticipación ahora."
     },
     "jcmzCA": {
-        "en": "Check compensation status.",
-        "pt": "Inscrever-se.",
-        "es": "Inscribirse."
+        "en-US": "Check compensation status.",
+        "pt-BR": "Inscrever-se.",
+        "es-ES": "Inscribirse."
     },
     "jsmzCA": {
-        "en": "Goodbye.",
-        "pt": "Ignorar.",
-        "es": "Ignorar."
+        "en-US": "Goodbye.",
+        "pt-BR": "Ignorar.",
+        "es-ES": "Ignorar."
     },
     "j8mzCA": {
-        "en": "Players may only sign up once per day based on their internal clock.\n...",
-        "pt": "Você só pode se inscrever uma vez por dia.\n...",
-        "es": "Solo puedes inscribirte una vez por día.\n..."
+        "en-US": "Players may only sign up once per day based on their internal clock.\n...",
+        "pt-BR": "Você só pode se inscrever uma vez por dia.\n...",
+        "es-ES": "Solo puedes inscribirte una vez por día.\n..."
     },
     "kMmzCA": {
-        "en": "^4D4DFFEXP Card^000000 and wild ^4D4DFFStep^000000 coexist in this Summon Room.\nStep doesn't bite or is poisonous, but remove it if it interrupts your play.",
-        "pt": "Essa casa de duelo tem ^4D4DFFRoborings^000000 à solta.\nEles podem ser inconvenientes durante os jogos.",
-        "es": "Esta casa de duelo tiene ^4D4DFFRoborings^000000 sueltos.\nPueden ser inconvenientes durante los juegos."
+        "en-US": "^4D4DFFEXP Card^000000 and wild ^4D4DFFStep^000000 coexist in this Summon Room.\nStep doesn't bite or is poisonous, but remove it if it interrupts your play.",
+        "pt-BR": "Essa casa de duelo tem ^4D4DFFRoborings^000000 à solta.\nEles podem ser inconvenientes durante os jogos.",
+        "es-ES": "Esta casa de duelo tiene ^4D4DFFRoborings^000000 sueltos.\nPueden ser inconvenientes durante los juegos."
     },
     "kcmzCA": {
-        "en": "Until old expansion pack replica is reconfigured in the highest level area of the Summon Room, when ^4D4DFFEXP Card^000000 and 50 wild ^4D4DFFStep^000000 are destroyed,\nthe exit sign will compensate for the delay.",
-        "pt": "Se você eliminar ^4D4DFF50 Roborings^000000 haverá uma compensação.\nEla será paga somente no final do duelo.",
-        "es": "Si eliminas ^4D4DFF50 Roborings^000000 habrá una compensación.\nSe pagará solamente al final del duelo."
+        "en-US": "Until old expansion pack replica is reconfigured in the highest level area of the Summon Room, when ^4D4DFFEXP Card^000000 and 50 wild ^4D4DFFStep^000000 are destroyed,\nthe exit sign will compensate for the delay.",
+        "pt-BR": "Se você eliminar ^4D4DFF50 Roborings^000000 haverá uma compensação.\nEla será paga somente no final do duelo.",
+        "es-ES": "Si eliminas ^4D4DFF50 Roborings^000000 habrá una compensación.\nSe pagará solamente al final del duelo."
     },
     "ksmzCA": {
-        "en": "Delay has been confirmed.\nIf you reconfigure the old expansion pack replica in the highest level area of the Summon Room, the exit sign will compensate you.\nWe apologize for any inconvenience.",
-        "pt": "Confirmamos sua inscrição.\nSe você conseguir finalizar a instância, o Aviso no final do duelo irá recompensar você.\nLamentamos qualquer problema que os Roborings tenham causado.",
-        "es": "Confirmamos tu inscripción.\nSi logras finalizar la instancia, el Aviso al final del duelo te recompensará.\nLamentamos cualquier problema que los Roborings hayan causado."
+        "en-US": "Delay has been confirmed.\nIf you reconfigure the old expansion pack replica in the highest level area of the Summon Room, the exit sign will compensate you.\nWe apologize for any inconvenience.",
+        "pt-BR": "Confirmamos sua inscrição.\nSe você conseguir finalizar a instância, o Aviso no final do duelo irá recompensar você.\nLamentamos qualquer problema que os Roborings tenham causado.",
+        "es-ES": "Confirmamos tu inscripción.\nSi logras finalizar la instancia, el Aviso al final del duelo te recompensará.\nLamentamos cualquier problema que los Roborings hayan causado."
     },
     "k8mzCA": {
-        "en": "The offer has been given out from this Summon Room.\nAt the King's Heel, we give our outmost to provide our players with optimal service and fun games.",
-        "pt": "A inscrição foi concluída.\nNós da [Aos Pés do Rei] continuaremos nos esforçando para fornecer a você um melhor serviço e mais jogos divertidos.",
-        "es": "La inscripción fue completada.\nNosotros de [A los Pies del Rey] continuaremos esforzándonos para brindarte un mejor servicio y juegos más divertidos."
+        "en-US": "The offer has been given out from this Summon Room.\nAt the King's Heel, we give our outmost to provide our players with optimal service and fun games.",
+        "pt-BR": "A inscrição foi concluída.\nNós da [Aos Pés do Rei] continuaremos nos esforçando para fornecer a você um melhor serviço e mais jogos divertidos.",
+        "es-ES": "La inscripción fue completada.\nNosotros de [A los Pies del Rey] continuaremos esforzándonos para brindarte un mejor servicio y juegos más divertidos."
     },
     "lMmzCA": {
-        "en": "-- The letters on the sign became quiet. --",
-        "pt": "-- O texto ficou ilegível. --",
-        "es": "-- El texto se volvió ilegible. --"
+        "en-US": "-- The letters on the sign became quiet. --",
+        "pt-BR": "-- O texto ficou ilegível. --",
+        "es-ES": "-- El texto se volvió ilegible. --"
     },
     "lcmzCA": {
-        "en": "Check insurance",
-        "pt": "Aviso",
-        "es": "Aviso"
+        "en-US": "Check insurance",
+        "pt-BR": "Aviso",
+        "es-ES": "Aviso"
     },
     "lsmzCA": {
-        "en": "-- In the event of unexpected play delays, players are entitled to compensation.\nCheck insurance policy.",
-        "pt": "...Uma compensação será fornecida caso tenha se inscrito no início do jogo.\nVerificando sua inscrição neste momento.",
-        "es": "...Se proporcionará una compensación si te inscribiste al inicio del juego.\nVerificando tu inscripción en este momento."
+        "en-US": "-- In the event of unexpected play delays, players are entitled to compensation.\nCheck insurance policy.",
+        "pt-BR": "...Uma compensação será fornecida caso tenha se inscrito no início do jogo.\nVerificando sua inscrição neste momento.",
+        "es-ES": "...Se proporcionará una compensación si te inscribiste al inicio del juego.\nVerificando tu inscripción en este momento."
     },
     "l8mzCA": {
-        "en": "Delay reason has been verified.\nDispensing compensation.\nWe apologize for any inconvenience.",
-        "pt": "Inscrição confirmada.\nSua compensação será paga.\nLamentamos muito por qualquer interrupção no seu serviço.",
-        "es": "Inscripción confirmada.\nTu compensación será pagada.\nLamentamos mucho cualquier interrupción en tu servicio."
+        "en-US": "Delay reason has been verified.\nDispensing compensation.\nWe apologize for any inconvenience.",
+        "pt-BR": "Inscrição confirmada.\nSua compensação será paga.\nLamentamos muito por qualquer interrupção no seu serviço.",
+        "es-ES": "Inscripción confirmada.\nTu compensación será pagada.\nLamentamos mucho cualquier interrupción en tu servicio."
     },
     "mMmzCA": {
-        "en": "At the King's Heel, we give our outmost to provide our players with optimal service and fun games.",
-        "pt": "Nós da [Aos Pés do Rei] continuaremos nos esforçando para fornecer a você um melhor serviço e mais jogos divertidos.",
-        "es": "Nosotros de [A los Pies del Rey] continuaremos esforzándonos para brindarte un mejor servicio y juegos más divertidos."
+        "en-US": "At the King's Heel, we give our outmost to provide our players with optimal service and fun games.",
+        "pt-BR": "Nós da [Aos Pés do Rei] continuaremos nos esforçando para fornecer a você um melhor serviço e mais jogos divertidos.",
+        "es-ES": "Nosotros de [A los Pies del Rey] continuaremos esforzándonos para brindarte un mejor servicio y juegos más divertidos."
     },
     "mcmzCA": {
-        "en": "No insurance policy.",
-        "pt": "Não há inscrição.",
-        "es": "No hay inscripción."
+        "en-US": "No insurance policy.",
+        "pt-BR": "Não há inscrição.",
+        "es-ES": "No hay inscripción."
     },
     "msmzCA": {
-        "en": "There weren't enough wild steps to constitute for a delay reason.",
-        "pt": "A quantidade de Roboring eliminada é insuficiente para uma compensação.",
-        "es": "La cantidad de Roboring eliminada es insuficiente para una compensación."
+        "en-US": "There weren't enough wild steps to constitute for a delay reason.",
+        "pt-BR": "A quantidade de Roboring eliminada é insuficiente para uma compensação.",
+        "es-ES": "La cantidad de Roboring eliminada es insuficiente para una compensación."
     },
     "m8mzCA": {
-        "en": "Cat, I have bad news.",
-        "pt": "Gato, tenho más notícias.",
-        "es": "Gato, tengo malas noticias."
+        "en-US": "Cat, I have bad news.",
+        "pt-BR": "Gato, tenho más notícias.",
+        "es-ES": "Gato, tengo malas noticias."
     },
     "nMmzCA": {
-        "en": "[Ziz]\nAre you going to say goodbye to Leviathan? That's nice of you.\nNext time you see Leviathan, make fun of him like you're meeting him for the first time. Hahaha.\nToday was lots of fun.",
-        "pt": "[Ziz]\nVocê vai se despedir do Leviatã? Que legal da sua parte.\nNa próxima vez que você vir o Leviatã, tire sarro dele como se estivessem se conhecendo pela primeira vez. Kkkk.\nHoje foi muito divertido.",
-        "es": "[Ziz]\n¿Vas a despedirte de Leviatán? Qué amable de tu parte.\nLa próxima vez que veas a Leviatán, búrlate de él como si fuera la primera vez que lo conoces. Jajaja.\nHoy fue muy divertido."
+        "en-US": "[Ziz]\nAre you going to say goodbye to Leviathan? That's nice of you.\nNext time you see Leviathan, make fun of him like you're meeting him for the first time. Hahaha.\nToday was lots of fun.",
+        "pt-BR": "[Ziz]\nVocê vai se despedir do Leviatã? Que legal da sua parte.\nNa próxima vez que você vir o Leviatã, tire sarro dele como se estivessem se conhecendo pela primeira vez. Kkkk.\nHoje foi muito divertido.",
+        "es-ES": "[Ziz]\n¿Vas a despedirte de Leviatán? Qué amable de tu parte.\nLa próxima vez que veas a Leviatán, búrlate de él como si fuera la primera vez que lo conoces. Jajaja.\nHoy fue muy divertido."
     }
 }

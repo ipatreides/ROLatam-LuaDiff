@@ -1,632 +1,632 @@
 {
     "4DIp": {
-        "en": "Manuk Gardener",
-        "pt": "Jardineiro de Manuk",
-        "es": "Jardinero de Manuk"
+        "en-US": "Manuk Gardener",
+        "pt-BR": "Jardineiro de Manuk",
+        "es-ES": "Jardinero de Manuk"
     },
     "4TIp": {
-        "en": "- You can't start this quest because you have too many items in your inventory. -",
-        "pt": "- Não é possível iniciar essa missão porque você tem muitos itens em seu inventário. -",
-        "es": "-No puedes iniciar la misión porque tienes demasiados objetos en el inventario.-"
+        "en-US": "- You can't start this quest because you have too many items in your inventory. -",
+        "pt-BR": "- Não é possível iniciar essa missão porque você tem muitos itens em seu inventário. -",
+        "es-ES": "-No puedes iniciar la misión porque tienes demasiados objetos en el inventario.-"
     },
     "4jIp": {
-        "en": "[Strom]\nHello.\nYou're a human right?\nMy name is Strom.",
-        "pt": "[Strom]\nOlá.\nVocê é um ser humano, certo?\nMeu nome é Strom.",
-        "es": "[Strom]\nHola.\nEres un ser humano, ¿no?\nMe llamo Strom."
+        "en-US": "[Strom]\nHello.\nYou're a human right?\nMy name is Strom.",
+        "pt-BR": "[Strom]\nOlá.\nVocê é um ser humano, certo?\nMeu nome é Strom.",
+        "es-ES": "[Strom]\nHola.\nEres un ser humano, ¿no?\nMe llamo Strom."
     },
     "4zIp": {
-        "en": "[Strom]\nBut, you guys seem so weak.\nYou don't have solid skin nor enough power.",
-        "pt": "[Strom]\nMas vocês parecem tão fracos.\nNão têm pele sólida nem poder suficiente.",
-        "es": "[Strom]\nPero ustedes parecen muy débiles.\nNo tienen piel sólida ni el poder suficiente."
+        "en-US": "[Strom]\nBut, you guys seem so weak.\nYou don't have solid skin nor enough power.",
+        "pt-BR": "[Strom]\nMas vocês parecem tão fracos.\nNão têm pele sólida nem poder suficiente.",
+        "es-ES": "[Strom]\nPero ustedes parecen muy débiles.\nNo tienen piel sólida ni el poder suficiente."
     },
     "5DIp": {
-        "en": "[Strom]\nHow did you guys get here?",
-        "pt": "[Strom]\nComo vocês chegaram aqui?",
-        "es": "[Strom]\n¿Cómo llegaron hasta aquí?"
+        "en-US": "[Strom]\nHow did you guys get here?",
+        "pt-BR": "[Strom]\nComo vocês chegaram aqui?",
+        "es-ES": "[Strom]\n¿Cómo llegaron hasta aquí?"
     },
     "5TIp": {
-        "en": "Your language seems gentle, but it seems like you are here to create more tension...",
-        "pt": "Sua linguagem parece gentil, mas parece que você está aqui para criar mais tensão...",
-        "es": "Su idioma parece amable, pero parece que vinieron para generar más tensión…"
+        "en-US": "Your language seems gentle, but it seems like you are here to create more tension...",
+        "pt-BR": "Sua linguagem parece gentil, mas parece que você está aqui para criar mais tensão...",
+        "es-ES": "Su idioma parece amable, pero parece que vinieron para generar más tensión…"
     },
     "5jIp": {
-        "en": "Keep the peace.",
-        "pt": "Manter a paz.",
-        "es": "Responder pacíficamente."
+        "en-US": "Keep the peace.",
+        "pt-BR": "Manter a paz.",
+        "es-ES": "Responder pacíficamente."
     },
     "5zIp": {
-        "en": "...",
-        "pt": "...",
-        "es": "…"
+        "en-US": "...",
+        "pt-BR": "...",
+        "es-ES": "…"
     },
     "6DIp": {
-        "en": "[{0}]\nYes, we humans are smaller than you... but...\nwe have been training ourselves to be strong.",
-        "pt": "[{0}]\nSim, nós, humanos, somos menores que vocês... mas...\nestamos treinando para sermos fortes.",
-        "es": "[{0}]\nSí, los humanos somos más pequeños que ustedes… pero…\nnos entrenamos para ser fuertes."
+        "en-US": "[{0}]\nYes, we humans are smaller than you... but...\nwe have been training ourselves to be strong.",
+        "pt-BR": "[{0}]\nSim, nós, humanos, somos menores que vocês... mas...\nestamos treinando para sermos fortes.",
+        "es-ES": "[{0}]\nSí, los humanos somos más pequeños que ustedes… pero…\nnos entrenamos para ser fuertes."
     },
     "6TIp": {
-        "en": "[{0}]\nNow let me show you that\nwe can match your strength!",
-        "pt": "[{0}]\nAgora vou te mostrar que\npodemos igualar sua força!",
-        "es": "[{0}]\nAhora, ¡déjame demostrarte que\npodemos igualar su fuerza!"
+        "en-US": "[{0}]\nNow let me show you that\nwe can match your strength!",
+        "pt-BR": "[{0}]\nAgora vou te mostrar que\npodemos igualar sua força!",
+        "es-ES": "[{0}]\nAhora, ¡déjame demostrarte que\npodemos igualar su fuerza!"
     },
     "6jIp": {
-        "en": "[Strom]\nAnyway...\nSome bad things happened to my one of my colleagues in that cave you found recently.",
-        "pt": "[Strom]\nEnfim...\nAlgumas coisas ruins aconteceram com um dos meus colegas naquela caverna que você encontrou recentemente.",
-        "es": "[Strom]\nEn fin…\nA uno de mis colegas le sucedió algo malo en esa cueva que encontraron hace poco."
+        "en-US": "[Strom]\nAnyway...\nSome bad things happened to my one of my colleagues in that cave you found recently.",
+        "pt-BR": "[Strom]\nEnfim...\nAlgumas coisas ruins aconteceram com um dos meus colegas naquela caverna que você encontrou recentemente.",
+        "es-ES": "[Strom]\nEn fin…\nA uno de mis colegas le sucedió algo malo en esa cueva que encontraron hace poco."
     },
     "6zIp": {
-        "en": "[Strom]\nThere're monsters called. ^4D4DFFRata^000000and ^4D4DFFDueyrr^000000.\nIf you terminate them, I would regard you as a decent and strong person.",
-        "pt": "[Strom]\nExistem monstros chamados. ^4D4DFFRata^000000e ^4D4DFFDueyrr^000000.\nSe você acabar com eles, eu te considerarei uma pessoa decente e forte.",
-        "es": "[Strom]\nHay unos monstruos que se llaman ^4D4DFFRata^000000 y ^4D4DFFDuneyrr^000000.\nSi los matas, te consideraré una persona fuerte y decente."
+        "en-US": "[Strom]\nThere're monsters called. ^4D4DFFRata^000000and ^4D4DFFDueyrr^000000.\nIf you terminate them, I would regard you as a decent and strong person.",
+        "pt-BR": "[Strom]\nExistem monstros chamados. ^4D4DFFRata^000000e ^4D4DFFDueyrr^000000.\nSe você acabar com eles, eu te considerarei uma pessoa decente e forte.",
+        "es-ES": "[Strom]\nHay unos monstruos que se llaman ^4D4DFFRata^000000 y ^4D4DFFDuneyrr^000000.\nSi los matas, te consideraré una persona fuerte y decente."
     },
     "7DIp": {
-        "en": "[Strom]\n...Um.\nLet me consider that suggestion.",
-        "pt": "[Strom]\n... Hum.\nDeixe-me considerar essa sugestão.",
-        "es": "[Strom]\n…Mmm.\nDéjame considerar tu ofrecimiento."
+        "en-US": "[Strom]\n...Um.\nLet me consider that suggestion.",
+        "pt-BR": "[Strom]\n... Hum.\nDeixe-me considerar essa sugestão.",
+        "es-ES": "[Strom]\n…Mmm.\nDéjame considerar tu ofrecimiento."
     },
     "7TIp": {
-        "en": "[{0}]\nYes, human beings can be stronger when all they work together.",
-        "pt": "[{0}]\nSim, os seres humanos podem ser mais fortes quando todos trabalham juntos.",
-        "es": "[{0}]\nSí, los seres humanos pueden ser más fuertes cuando trabajan en conjunto."
+        "en-US": "[{0}]\nYes, human beings can be stronger when all they work together.",
+        "pt-BR": "[{0}]\nSim, os seres humanos podem ser mais fortes quando todos trabalham juntos.",
+        "es-ES": "[{0}]\nSí, los seres humanos pueden ser más fuertes cuando trabajan en conjunto."
     },
     "7jIp": {
-        "en": "[Strom]\nI'm sorry that I didn't take you guys seriously.\nYou're quite decent soldiers, so please visit Manuk.",
-        "pt": "[Strom]\nSinto muito por não tê-los levado a sério.\nVocês são soldados muito decentes, então, por favor, visitem Manuk.",
-        "es": "[Strom]\nLamento no haberlos tomado en serio.\nSon soldados bastante decentes, así que pueden visitar Manuk."
+        "en-US": "[Strom]\nI'm sorry that I didn't take you guys seriously.\nYou're quite decent soldiers, so please visit Manuk.",
+        "pt-BR": "[Strom]\nSinto muito por não tê-los levado a sério.\nVocês são soldados muito decentes, então, por favor, visitem Manuk.",
+        "es-ES": "[Strom]\nLamento no haberlos tomado en serio.\nSon soldados bastante decentes, así que pueden visitar Manuk."
     },
     "7zIp": {
-        "en": "[Strom]\nPlease take these coins.\nYou can find anything you need with these coins.",
-        "pt": "[Strom]\nFique com essas moedas.\nVocê pode encontrar tudo o que precisa com elas.",
-        "es": "[Strom]\nToma estas monedas, por favor.\nCon ellas, podrás encontrar todo lo que necesites."
+        "en-US": "[Strom]\nPlease take these coins.\nYou can find anything you need with these coins.",
+        "pt-BR": "[Strom]\nFique com essas moedas.\nVocê pode encontrar tudo o que precisa com elas.",
+        "es-ES": "[Strom]\nToma estas monedas, por favor.\nCon ellas, podrás encontrar todo lo que necesites."
     },
     "8DIp": {
-        "en": "[Strom]\nIf you want to show you're so strong...\nPlease find and defeat the Rata and Duneyrr in the cave.",
-        "pt": "[Strom]\nSe você quiser mostrar que é muito forte...\nEncontre e derrote Rata e Duneyrr na caverna.",
-        "es": "[Strom]\nSi quieres demostrar que son tan fuertes…\nencuentra y derrota a Rata y a Duneyrr; están en la cueva."
+        "en-US": "[Strom]\nIf you want to show you're so strong...\nPlease find and defeat the Rata and Duneyrr in the cave.",
+        "pt-BR": "[Strom]\nSe você quiser mostrar que é muito forte...\nEncontre e derrote Rata e Duneyrr na caverna.",
+        "es-ES": "[Strom]\nSi quieres demostrar que son tan fuertes…\nencuentra y derrota a Rata y a Duneyrr; están en la cueva."
     },
     "8TIp": {
-        "en": "[Strom]\nIt's pretty cold here, but we can bear the weather.",
-        "pt": "[Strom]\nEstá muito frio aqui, mas podemos aguentar o clima.",
-        "es": "[Strom]\nAquí hace bastante frío, pero podemos soportar el clima."
+        "en-US": "[Strom]\nIt's pretty cold here, but we can bear the weather.",
+        "pt-BR": "[Strom]\nEstá muito frio aqui, mas podemos aguentar o clima.",
+        "es-ES": "[Strom]\nAquí hace bastante frío, pero podemos soportar el clima."
     },
     "8jIp": {
-        "en": "[Strom]\nBut you're different.\nTo bear this weather, you should wear Hillslion fur...\njust cheer up.",
-        "pt": "[Strom]\nMas você é diferente.\nPara aguentar esse clima, seria melhor usar pele de Leão da Montanha...\nAnime-se.",
-        "es": "[Strom]\nPero ustedes son diferentes.\nPara soportar este clima, deben usar pieles de León de montaña…\n¡Arriba el ánimo!"
+        "en-US": "[Strom]\nBut you're different.\nTo bear this weather, you should wear Hillslion fur...\njust cheer up.",
+        "pt-BR": "[Strom]\nMas você é diferente.\nPara aguentar esse clima, seria melhor usar pele de Leão da Montanha...\nAnime-se.",
+        "es-ES": "[Strom]\nPero ustedes son diferentes.\nPara soportar este clima, deben usar pieles de León de montaña…\n¡Arriba el ánimo!"
     },
     "8zIp": {
-        "en": "[Manuk Garten]\nH heakden Qauedh Ihehe?\nEHadkiekd O pekdh?\nLehdhak Gehdah?",
-        "pt": "[Manuk Garten]\nH heakden Qauedh Ihehe?\nEHadkiekd O pekdh?\nLehdhak Gehdah?",
-        "es": "[Galten de Manuk]\n¿H heakden Qauedh Ihehe?\n¿EHadkiekd O pekdh?\n¿Lehdhak Gehdah?"
+        "en-US": "[Manuk Garten]\nH heakden Qauedh Ihehe?\nEHadkiekd O pekdh?\nLehdhak Gehdah?",
+        "pt-BR": "[Manuk Garten]\nH heakden Qauedh Ihehe?\nEHadkiekd O pekdh?\nLehdhak Gehdah?",
+        "es-ES": "[Galten de Manuk]\n¿H heakden Qauedh Ihehe?\n¿EHadkiekd O pekdh?\n¿Lehdhak Gehdah?"
     },
     "9DIp": {
-        "en": "Manuk Engineer",
-        "pt": "Engenheiro Manuk",
-        "es": "Ingeniero Manuk"
+        "en-US": "Manuk Engineer",
+        "pt-BR": "Engenheiro Manuk",
+        "es-ES": "Ingeniero Manuk"
     },
     "9TIp": {
-        "en": "- You can't start quest since you are overweighed with too many items. -",
-        "pt": "- Não é possível iniciar a missão porque você está com muitos itens. -",
-        "es": "-No puedes comenzar la misión porque te sobrecargaste con demasiados objetos.-"
+        "en-US": "- You can't start quest since you are overweighed with too many items. -",
+        "pt-BR": "- Não é possível iniciar a missão porque você está com muitos itens. -",
+        "es-ES": "-No puedes comenzar la misión porque te sobrecargaste con demasiados objetos.-"
     },
     "9jIp": {
-        "en": "[Manuk Engineer]\nThe Bradium you gave me is working quite well.\nIt should be enough for now.",
-        "pt": "[Engenheiro Manuk]\nO Bradium que você me deu está funcionando muito bem.\nDeve ser suficiente por enquanto.",
-        "es": "[Ingeniero Manuk]\nEl Bradium que me diste funciona bastante bien.\nPor ahora, debería ser suficiente."
+        "en-US": "[Manuk Engineer]\nThe Bradium you gave me is working quite well.\nIt should be enough for now.",
+        "pt-BR": "[Engenheiro Manuk]\nO Bradium que você me deu está funcionando muito bem.\nDeve ser suficiente por enquanto.",
+        "es-ES": "[Ingeniero Manuk]\nEl Bradium que me diste funciona bastante bien.\nPor ahora, debería ser suficiente."
     },
     "9zIp": {
-        "en": "[Manuk Engineer]\nThe Bradium you gave me is working quite well.\nCome back to me later and I should have more work for you.",
-        "pt": "[Engenheiro Manuk]\nO Bradium que você me deu está funcionando muito bem.\nVolte para mim mais tarde e eu terei mais trabalho para você.",
-        "es": "[Ingeniero Manuk]\nEl Bradium que me diste funciona bastante bien.\nVuelve más tarde y quizás tenga más trabajo para ti."
+        "en-US": "[Manuk Engineer]\nThe Bradium you gave me is working quite well.\nCome back to me later and I should have more work for you.",
+        "pt-BR": "[Engenheiro Manuk]\nO Bradium que você me deu está funcionando muito bem.\nVolte para mim mais tarde e eu terei mais trabalho para você.",
+        "es-ES": "[Ingeniero Manuk]\nEl Bradium que me diste funciona bastante bien.\nVuelve más tarde y quizás tenga más trabajo para ti."
     },
     "+DIp": {
-        "en": "[Manuk Engineer]\nWow, you're good.\nYou're quite helpful.\nI hope that you will continue to assist us later.",
-        "pt": "[Engenheiro Manuk]\nUau, você sabe o que faz.\nVocê é bem útil.\nEspero que continue a nos ajudar mais tarde.",
-        "es": "[Ingeniero Manuk]\nVaya, lo lograste.\nEres bastante útil.\nEspero que sigas ayudándonos más adelante."
+        "en-US": "[Manuk Engineer]\nWow, you're good.\nYou're quite helpful.\nI hope that you will continue to assist us later.",
+        "pt-BR": "[Engenheiro Manuk]\nUau, você sabe o que faz.\nVocê é bem útil.\nEspero que continue a nos ajudar mais tarde.",
+        "es-ES": "[Ingeniero Manuk]\nVaya, lo lograste.\nEres bastante útil.\nEspero que sigas ayudándonos más adelante."
     },
     "+TIp": {
-        "en": "[Manuk Engineer]\nWhat's up?\nYou're not prepared yet.",
-        "pt": "[Engenheiro Manuk]\nE aí?\nVocê ainda não se preparou.",
-        "es": "[Ingeniero Manuk]\n¿Qué sucede?\nAún no tienes todo."
+        "en-US": "[Manuk Engineer]\nWhat's up?\nYou're not prepared yet.",
+        "pt-BR": "[Engenheiro Manuk]\nE aí?\nVocê ainda não se preparou.",
+        "es-ES": "[Ingeniero Manuk]\n¿Qué sucede?\nAún no tienes todo."
     },
     "+jIp": {
-        "en": "[Manuk Engineer]\nHello.\nThis is where we refine stones.",
-        "pt": "[Engenheiro Manuk]\nOlá.\nÉ aqui que refinamos as pedras.",
-        "es": "[Ingeniero Manuk]\nHola.\nAquí refinamos las piedras."
+        "en-US": "[Manuk Engineer]\nHello.\nThis is where we refine stones.",
+        "pt-BR": "[Engenheiro Manuk]\nOlá.\nÉ aqui que refinamos as pedras.",
+        "es-ES": "[Ingeniero Manuk]\nHola.\nAquí refinamos las piedras."
     },
     "+zIp": {
-        "en": "About colleting stones.",
-        "pt": "Sobre a coleta de pedras.",
-        "es": "Sobre la recolección de piedras."
+        "en-US": "About colleting stones.",
+        "pt-BR": "Sobre a coleta de pedras.",
+        "es-ES": "Sobre la recolección de piedras."
     },
     "/DIp": {
-        "en": "About the usage of stones.",
-        "pt": "Sobre o uso de pedras.",
-        "es": "Sobre el uso de las piedras."
+        "en-US": "About the usage of stones.",
+        "pt-BR": "Sobre o uso de pedras.",
+        "es-ES": "Sobre el uso de las piedras."
     },
     "/TIp": {
-        "en": "[Manuk Engineer]\nTo prevent our bodies from becoming numb, we need Bradium.\nFrom the Bradium we can extract a special element that we need to survive.",
-        "pt": "[Engenheiro Manuk]\nPara evitar que nossos corpos fiquem dormentes, precisamos de Bradium.\nDo Bradium, podemos extrair um elemento especial de que precisamos para sobreviver.",
-        "es": "[Ingeniero Manuk]\nNecesitamos Bradium para evitar que se entumezcan nuestros cuerpos.\nDel Bradium, extraemos un elemento especial que necesitamos para sobrevivir."
+        "en-US": "[Manuk Engineer]\nTo prevent our bodies from becoming numb, we need Bradium.\nFrom the Bradium we can extract a special element that we need to survive.",
+        "pt-BR": "[Engenheiro Manuk]\nPara evitar que nossos corpos fiquem dormentes, precisamos de Bradium.\nDo Bradium, podemos extrair um elemento especial de que precisamos para sobreviver.",
+        "es-ES": "[Ingeniero Manuk]\nNecesitamos Bradium para evitar que se entumezcan nuestros cuerpos.\nDel Bradium, extraemos un elemento especial que necesitamos para sobrevivir."
     },
     "/jIp": {
-        "en": "[Manuk Engineer]\nThe mining industry is primary here since our lives depend on it.\nBut the mine has become clogged.",
-        "pt": "[Engenheiro Manuk]\nO setor de mineração é primordial aqui, já que nossas vidas dependem dele.\nMas a mina está entupida.",
-        "es": "[Ingeniero Manuk]\nAquí la industria minera es primordial, ya que nuestras vidas dependen de ella.\nPero la mina se atascó."
+        "en-US": "[Manuk Engineer]\nThe mining industry is primary here since our lives depend on it.\nBut the mine has become clogged.",
+        "pt-BR": "[Engenheiro Manuk]\nO setor de mineração é primordial aqui, já que nossas vidas dependem dele.\nMas a mina está entupida.",
+        "es-ES": "[Ingeniero Manuk]\nAquí la industria minera es primordial, ya que nuestras vidas dependen de ella.\nPero la mina se atascó."
     },
     "/zIp": {
-        "en": "[Manuk Engineer]\nI've already heard that you guys are good soldiers.\nWould you mind terminating the Bradium Golem, and bringing back some Bradium for me?",
-        "pt": "[Engenheiro Manuk]\nJá ouvi dizer que vocês são bons soldados.\nVocês se importariam de acabar com o Golem de Bradium e trazer um pouco de Bradium para mim?",
-        "es": "[Ingeniero Manuk]\nYa me enteré de que son buenos soldados.\n¿Te molestaría acabar con el Gólem de bradium y traerme un poco de ese material?"
+        "en-US": "[Manuk Engineer]\nI've already heard that you guys are good soldiers.\nWould you mind terminating the Bradium Golem, and bringing back some Bradium for me?",
+        "pt-BR": "[Engenheiro Manuk]\nJá ouvi dizer que vocês são bons soldados.\nVocês se importariam de acabar com o Golem de Bradium e trazer um pouco de Bradium para mim?",
+        "es-ES": "[Ingeniero Manuk]\nYa me enteré de que son buenos soldados.\n¿Te molestaría acabar con el Gólem de bradium y traerme un poco de ese material?"
     },
     "ADMp": {
-        "en": "Sure, I don't mind.",
-        "pt": "Claro, não me importo.",
-        "es": "Claro que sí."
+        "en-US": "Sure, I don't mind.",
+        "pt-BR": "Claro, não me importo.",
+        "es-ES": "Claro que sí."
     },
     "ATMp": {
-        "en": "Nope, I can't.",
-        "pt": "Não, não posso.",
-        "es": "No, no puedo."
+        "en-US": "Nope, I can't.",
+        "pt-BR": "Não, não posso.",
+        "es-ES": "No, no puedo."
     },
     "AjMp": {
-        "en": "[Manuk Engineer]\nThen take this mission.\nPlease hunt Bradium Golem and bring me 20 blended Bradium.",
-        "pt": "[Engenheiro Manuk]\nEntão aceite esta missão.\nCace o Golem de Bradium e me traga 20 Bradium misturados.",
-        "es": "[Ingeniero Manuk]\nEntonces acepta esta misión.\nCaza a un Gólem de bradium y tráeme 20 unidades de Bradium fundido."
+        "en-US": "[Manuk Engineer]\nThen take this mission.\nPlease hunt Bradium Golem and bring me 20 blended Bradium.",
+        "pt-BR": "[Engenheiro Manuk]\nEntão aceite esta missão.\nCace o Golem de Bradium e me traga 20 Bradium misturados.",
+        "es-ES": "[Ingeniero Manuk]\nEntonces acepta esta misión.\nCaza a un Gólem de bradium y tráeme 20 unidades de Bradium fundido."
     },
     "AzMp": {
-        "en": "[Manuk Engineer]\nOh, this is our fate.\nHow could I be so naive to depend on others?",
-        "pt": "[Engenheiro Manuk]\nAh, esse é o nosso destino.\nComo pude ser tão ingênuo a ponto de depender dos outros?",
-        "es": "[Ingeniero Manuk]\nOh, estamos condenados.\n¿Cómo pude actuar con tanta ingenuidad y depender así de los demás?"
+        "en-US": "[Manuk Engineer]\nOh, this is our fate.\nHow could I be so naive to depend on others?",
+        "pt-BR": "[Engenheiro Manuk]\nAh, esse é o nosso destino.\nComo pude ser tão ingênuo a ponto de depender dos outros?",
+        "es-ES": "[Ingeniero Manuk]\nOh, estamos condenados.\n¿Cómo pude actuar con tanta ingenuidad y depender así de los demás?"
     },
     "BDMp": {
-        "en": "[Manuk Engineer]\nWe refine Bradium and extract special things from it...\nThen form that into an injection.\nWhen it is refined it is used to maintain our body cycles.",
-        "pt": "[Engenheiro Manuk]\nNós refinamos o Bradium e extraímos coisas especiais dele...\nDepois, transformamos em uma injeção.\nQuando refinado, o usamos para manter nossos ciclos corporais.",
-        "es": "[Ingeniero Manuk]\nRefinamos el Bradium y extraemos cosas especiales de él…\nLuego, con eso, preparamos una inyección.\nUna vez que se refina, se usa para mantener nuestros ciclos corporales."
+        "en-US": "[Manuk Engineer]\nWe refine Bradium and extract special things from it...\nThen form that into an injection.\nWhen it is refined it is used to maintain our body cycles.",
+        "pt-BR": "[Engenheiro Manuk]\nNós refinamos o Bradium e extraímos coisas especiais dele...\nDepois, transformamos em uma injeção.\nQuando refinado, o usamos para manter nossos ciclos corporais.",
+        "es-ES": "[Ingeniero Manuk]\nRefinamos el Bradium y extraemos cosas especiales de él…\nLuego, con eso, preparamos una inyección.\nUna vez que se refina, se usa para mantener nuestros ciclos corporales."
     },
     "BTMp": {
-        "en": "[Manuk Engineer]\nThat's why we are quite advanced in this industry.\nOther industries are also well developed... but...",
-        "pt": "[Engenheiro Manuk]\nÉ por isso que estamos bastante avançados nesse setor.\nOutros setores também estão bem desenvolvidos... mas...",
-        "es": "[Ingeniero Manuk]\nPor eso estamos tan avanzados en esta industria.\nLas demás industrias también están bastante desarrolladas… Pero…"
+        "en-US": "[Manuk Engineer]\nThat's why we are quite advanced in this industry.\nOther industries are also well developed... but...",
+        "pt-BR": "[Engenheiro Manuk]\nÉ por isso que estamos bastante avançados nesse setor.\nOutros setores também estão bem desenvolvidos... mas...",
+        "es-ES": "[Ingeniero Manuk]\nPor eso estamos tan avanzados en esta industria.\nLas demás industrias también están bastante desarrolladas… Pero…"
     },
     "BjMp": {
-        "en": "[Manuk Engineer]\nThis is our top priority because it is crucial for our survival.",
-        "pt": "[Engenheiro Manuk]\nEssa é nossa prioridade máxima porque é crucial para nossa sobrevivência.",
-        "es": "[Ingeniero Manuk]\nEs nuestra prioridad máxima porque es crucial para nuestra supervivencia."
+        "en-US": "[Manuk Engineer]\nThis is our top priority because it is crucial for our survival.",
+        "pt-BR": "[Engenheiro Manuk]\nEssa é nossa prioridade máxima porque é crucial para nossa sobrevivência.",
+        "es-ES": "[Ingeniero Manuk]\nEs nuestra prioridad máxima porque es crucial para nuestra supervivencia."
     },
     "BzMp": {
-        "en": "[Manuk Engineer]\nAEHKakdhf?\nHdkheoh Tadhieh!\nPdlehhhg Thdae.",
-        "pt": "[Engenheiro Manuk]\nAEHKakdhf?\nHdkheoh Tadhieh!\nPdlehhhg Thdae.",
-        "es": "[Ingeniero Manuk]\n¿AEHKakdhf?\n¡Hdkheoh Tadhieh!\nPdlehhhg Thdae."
+        "en-US": "[Manuk Engineer]\nAEHKakdhf?\nHdkheoh Tadhieh!\nPdlehhhg Thdae.",
+        "pt-BR": "[Engenheiro Manuk]\nAEHKakdhf?\nHdkheoh Tadhieh!\nPdlehhhg Thdae.",
+        "es-ES": "[Ingeniero Manuk]\n¿AEHKakdhf?\n¡Hdkheoh Tadhieh!\nPdlehhhg Thdae."
     },
     "CDMp": {
-        "en": "Laphine craftsman",
-        "pt": "Artesão Laphine",
-        "es": "Artesano Laphine"
+        "en-US": "Laphine craftsman",
+        "pt-BR": "Artesão Laphine",
+        "es-ES": "Artesano Laphine"
     },
     "CTMp": {
-        "en": "- You can't start the quest since you are overweight. -",
-        "pt": "- Não é possível iniciar a missão porque você está acima do peso. -",
-        "es": "-No puedes comenzar la misión porque te sobrecargaste.-"
+        "en-US": "- You can't start the quest since you are overweight. -",
+        "pt-BR": "- Não é possível iniciar a missão porque você está acima do peso. -",
+        "es-ES": "-No puedes comenzar la misión porque te sobrecargaste.-"
     },
     "CjMp": {
-        "en": "[Laphine craftsman]\nThe Fluorescent Liquid and Crystalized Teardrop were quite helpful to us.\nThose should be sufficient for a while.",
-        "pt": "[Artesão Laphine]\nO Líquido Fluorescente e a Lágrima Cristalizada foram bastante úteis para nós.\nDevem ser suficientes por um tempo.",
-        "es": "[Artesano Laphine]\nEl Líquido fluorescente y la Lágrima cristalizada nos ayudaron mucho.\nDeberían ser suficientes por un tiempo."
+        "en-US": "[Laphine craftsman]\nThe Fluorescent Liquid and Crystalized Teardrop were quite helpful to us.\nThose should be sufficient for a while.",
+        "pt-BR": "[Artesão Laphine]\nO Líquido Fluorescente e a Lágrima Cristalizada foram bastante úteis para nós.\nDevem ser suficientes por um tempo.",
+        "es-ES": "[Artesano Laphine]\nEl Líquido fluorescente y la Lágrima cristalizada nos ayudaron mucho.\nDeberían ser suficientes por un tiempo."
     },
     "CzMp": {
-        "en": "[Laphine craftsman]\nThe Fluorescent Liquid and Crystalized Teardrop were quite helpful to us.\nSee ya.",
-        "pt": "[Artesão Laphine]\nO Líquido Fluorescente e o Lágrima Cristalizada foram bastante úteis para nós.\nAté mais.",
-        "es": "[Artesano Laphine]\nEl Líquido fluorescente y la Lágrima cristalizada nos ayudaron mucho.\nNos vemos."
+        "en-US": "[Laphine craftsman]\nThe Fluorescent Liquid and Crystalized Teardrop were quite helpful to us.\nSee ya.",
+        "pt-BR": "[Artesão Laphine]\nO Líquido Fluorescente e o Lágrima Cristalizada foram bastante úteis para nós.\nAté mais.",
+        "es-ES": "[Artesano Laphine]\nEl Líquido fluorescente y la Lágrima cristalizada nos ayudaron mucho.\nNos vemos."
     },
     "DDMp": {
-        "en": "[Laphine craftsman]\nWow you did a great job.\nToday we got enough material.\nI hope you can assist us later.",
-        "pt": "[Artesão Laphine]\nUau, você fez um ótimo trabalho!\nHoje conseguimos material suficiente.\nEspero que possa nos ajudar mais tarde.",
-        "es": "[Artesano Laphine]\nVaya, hiciste un gran trabajo.\nTenemos suficiente material para hoy.\nEspero que puedas ayudarnos en otro momento."
+        "en-US": "[Laphine craftsman]\nWow you did a great job.\nToday we got enough material.\nI hope you can assist us later.",
+        "pt-BR": "[Artesão Laphine]\nUau, você fez um ótimo trabalho!\nHoje conseguimos material suficiente.\nEspero que possa nos ajudar mais tarde.",
+        "es-ES": "[Artesano Laphine]\nVaya, hiciste un gran trabajo.\nTenemos suficiente material para hoy.\nEspero que puedas ayudarnos en otro momento."
     },
     "DTMp": {
-        "en": "[Laphine craftsman]\nWhat can I help you with?\nNot yet done with my request?",
-        "pt": "[Artesão Laphine]\nEm que posso ajudar?\nAinda não encerrou meu pedido?",
-        "es": "[Artesano Laphine]\n¿En qué puedo ayudarte?\n¿Todavía no terminaste con mi solicitud?"
+        "en-US": "[Laphine craftsman]\nWhat can I help you with?\nNot yet done with my request?",
+        "pt-BR": "[Artesão Laphine]\nEm que posso ajudar?\nAinda não encerrou meu pedido?",
+        "es-ES": "[Artesano Laphine]\n¿En qué puedo ayudarte?\n¿Todavía no terminaste con mi solicitud?"
     },
     "DjMp": {
-        "en": "[Laphine craftsman]\nWhat's up??\nI need to make more decorations for the Yai.",
-        "pt": "[Artesão Laphine]\nE aí?\nPreciso fazer mais decorações para o Yai.",
-        "es": "[Artesano Laphine]\n¿Qué pasa?\nNecesito hacer más cosas para decorar el yai."
+        "en-US": "[Laphine craftsman]\nWhat's up??\nI need to make more decorations for the Yai.",
+        "pt-BR": "[Artesão Laphine]\nE aí?\nPreciso fazer mais decorações para o Yai.",
+        "es-ES": "[Artesano Laphine]\n¿Qué pasa?\nNecesito hacer más cosas para decorar el yai."
     },
     "DzMp": {
-        "en": "May I help you?",
-        "pt": "Posso ajudá-lo?",
-        "es": "¿Puedo ayudarte?"
+        "en-US": "May I help you?",
+        "pt-BR": "Posso ajudá-lo?",
+        "es-ES": "¿Puedo ayudarte?"
     },
     "EDMp": {
-        "en": "What's a Yai?",
-        "pt": "O que é um Yai?",
-        "es": "¿Qué es un yai?"
+        "en-US": "What's a Yai?",
+        "pt-BR": "O que é um Yai?",
+        "es-ES": "¿Qué es un yai?"
     },
     "ETMp": {
-        "en": "[Laphine craftsman]\nYou want to help?\nThis place is being used for battle but it is also our home.",
-        "pt": "[Artesão Laphine]\nVocê quer ajudar?\nEste lugar está sendo usado para a batalha, mas também é nosso lar.",
-        "es": "[Artesano Laphine]\n¿Quieres ayudar?\nEste lugar se está usando para luchar, pero también es nuestro hogar."
+        "en-US": "[Laphine craftsman]\nYou want to help?\nThis place is being used for battle but it is also our home.",
+        "pt-BR": "[Artesão Laphine]\nVocê quer ajudar?\nEste lugar está sendo usado para a batalha, mas também é nosso lar.",
+        "es-ES": "[Artesano Laphine]\n¿Quieres ayudar?\nEste lugar se está usando para luchar, pero también es nuestro hogar."
     },
     "EjMp": {
-        "en": "[Laphine craftsman]\nWe prefer to be alone so we must each have our own Yai.\nThough we are in a military base we should take care of each Yai.",
-        "pt": "[Artesão Laphine]\nPreferimos ficar sozinhos, então cada um precisa ter seu próprio Yai.\nApesar de estarmos em uma base militar, devemos cuidar de cada Yai.",
-        "es": "[Artesano Laphine]\nPreferimos estar a solas, así que cada persona tiene su propio yai.\nAunque estemos en una base militar, igual debemos cuidar todos los yais."
+        "en-US": "[Laphine craftsman]\nWe prefer to be alone so we must each have our own Yai.\nThough we are in a military base we should take care of each Yai.",
+        "pt-BR": "[Artesão Laphine]\nPreferimos ficar sozinhos, então cada um precisa ter seu próprio Yai.\nApesar de estarmos em uma base militar, devemos cuidar de cada Yai.",
+        "es-ES": "[Artesano Laphine]\nPreferimos estar a solas, así que cada persona tiene su propio yai.\nAunque estemos en una base militar, igual debemos cuidar todos los yais."
     },
     "EzMp": {
-        "en": "[Laphine craftsman]\nI am not a soldier but we hope all of us to be as confident as they are.\nI would like to support all Laphine with my skills.",
-        "pt": "[Artesão Laphine]\nNão sou soldado, mas esperamos que todos nós sejamos tão confiantes quanto eles.\nGostaria de apoiar todas as Laphine com minhas habilidades.",
-        "es": "[Artesano Laphine]\nNo soy soldado, pero esperamos que todos tengamos la misma confianza que ellos.\nMe gustaría poder ayudar a todos los laphines con mis habilidades."
+        "en-US": "[Laphine craftsman]\nI am not a soldier but we hope all of us to be as confident as they are.\nI would like to support all Laphine with my skills.",
+        "pt-BR": "[Artesão Laphine]\nNão sou soldado, mas esperamos que todos nós sejamos tão confiantes quanto eles.\nGostaria de apoiar todas as Laphine com minhas habilidades.",
+        "es-ES": "[Artesano Laphine]\nNo soy soldado, pero esperamos que todos tengamos la misma confianza que ellos.\nMe gustaría poder ayudar a todos los laphines con mis habilidades."
     },
     "FDMp": {
-        "en": "[Laphine craftsman]\nSo I want to help make decorations for everyone's Yai.\nI need more materials to make them.",
-        "pt": "[Artesão Laphine]\nEntão, quero ajudar a fazer decorações para os Yais de todos.\nPreciso de mais materiais para fazê-los.",
-        "es": "[Artesano Laphine]\nAsí que quiero ayudar haciendo cosas para decorar todos los yais.\nY para eso necesito más materiales."
+        "en-US": "[Laphine craftsman]\nSo I want to help make decorations for everyone's Yai.\nI need more materials to make them.",
+        "pt-BR": "[Artesão Laphine]\nEntão, quero ajudar a fazer decorações para os Yais de todos.\nPreciso de mais materiais para fazê-los.",
+        "es-ES": "[Artesano Laphine]\nAsí que quiero ayudar haciendo cosas para decorar todos los yais.\nY para eso necesito más materiales."
     },
     "FTMp": {
-        "en": "[Laphine craftsman]\nI heard that a water ghost has been appearing in the cave.\nCan you bring me 15 Crystallized Teardrop and 15 Fluorescent Liquid 15.",
-        "pt": "[Artesão Laphine]\nOuvi dizer que um fantasma da água está aparecendo na caverna.\nVocê pode me trazer 15 Lágrima Cristalizada e 15 Líquido Fluorescente?",
-        "es": "[Artesano Laphine]\nEscuché que estuvo apareciendo un Fantasma de agua en la cueva.\n¿Puedes traerme 15 Lágrimas cristalizadas y 15 Líquidos fluorescentes?"
+        "en-US": "[Laphine craftsman]\nI heard that a water ghost has been appearing in the cave.\nCan you bring me 15 Crystallized Teardrop and 15 Fluorescent Liquid 15.",
+        "pt-BR": "[Artesão Laphine]\nOuvi dizer que um fantasma da água está aparecendo na caverna.\nVocê pode me trazer 15 Lágrima Cristalizada e 15 Líquido Fluorescente?",
+        "es-ES": "[Artesano Laphine]\nEscuché que estuvo apareciendo un Fantasma de agua en la cueva.\n¿Puedes traerme 15 Lágrimas cristalizadas y 15 Líquidos fluorescentes?"
     },
     "FjMp": {
-        "en": "Yes.",
-        "pt": "Sim.",
-        "es": "Sí."
+        "en-US": "Yes.",
+        "pt-BR": "Sim.",
+        "es-ES": "Sí."
     },
     "FzMp": {
-        "en": "Sorry.",
-        "pt": "Desculpe.",
-        "es": "Lo siento."
+        "en-US": "Sorry.",
+        "pt-BR": "Desculpe.",
+        "es-ES": "Lo siento."
     },
     "GDMp": {
-        "en": "[Laphine craftsman]\nPlease take my favor.\nCan you bring me 15 Crystallized Teardrop and 15 Fluorescent Liquid 15?",
-        "pt": "[Artesão Laphine]\nAceite meu pedido, por favor.\nVocê pode me trazer 15 Lágrima Cristalizada e 15 Líquido Fluorescente?",
-        "es": "[Artesano Laphine]\nPor favor, acepta mi solicitud.\n¿Puedes traerme 15 Lágrimas cristalizadas y 15 Líquidos fluorescentes?"
+        "en-US": "[Laphine craftsman]\nPlease take my favor.\nCan you bring me 15 Crystallized Teardrop and 15 Fluorescent Liquid 15?",
+        "pt-BR": "[Artesão Laphine]\nAceite meu pedido, por favor.\nVocê pode me trazer 15 Lágrima Cristalizada e 15 Líquido Fluorescente?",
+        "es-ES": "[Artesano Laphine]\nPor favor, acepta mi solicitud.\n¿Puedes traerme 15 Lágrimas cristalizadas y 15 Líquidos fluorescentes?"
     },
     "GTMp": {
-        "en": "[Laphine craftsman]\nYes, I'm sure that you have your own business to attend to.\nI feel embarrassed asking a favor from you Laphine.",
-        "pt": "[Artesão Laphine]\nSim, tenho certeza de que você tem seus próprios assuntos a tratar.\nQue vergonha pedir um favor a você.",
-        "es": "[Artesano Laphine]\nSí, seguro tienes muchas cosas que hacer.\nMe da vergüenza pedirte un favor a ti, laphine."
+        "en-US": "[Laphine craftsman]\nYes, I'm sure that you have your own business to attend to.\nI feel embarrassed asking a favor from you Laphine.",
+        "pt-BR": "[Artesão Laphine]\nSim, tenho certeza de que você tem seus próprios assuntos a tratar.\nQue vergonha pedir um favor a você.",
+        "es-ES": "[Artesano Laphine]\nSí, seguro tienes muchas cosas que hacer.\nMe da vergüenza pedirte un favor a ti, laphine."
     },
     "GjMp": {
-        "en": "[Laphine craftsman]\nBut, why are you trying to be involved in our business yet you won't take up our request?",
-        "pt": "[Artesão Laphine]\nMas, por que você está tentando se envolver em nossos negócios e não aceita nosso pedido?",
-        "es": "[Artesano Laphine]\n¿Pero por qué intentas meterte en nuestros asuntos y no aceptas nuestra solicitud?"
+        "en-US": "[Laphine craftsman]\nBut, why are you trying to be involved in our business yet you won't take up our request?",
+        "pt-BR": "[Artesão Laphine]\nMas, por que você está tentando se envolver em nossos negócios e não aceita nosso pedido?",
+        "es-ES": "[Artesano Laphine]\n¿Pero por qué intentas meterte en nuestros asuntos y no aceptas nuestra solicitud?"
     },
     "GzMp": {
-        "en": "[Laphine craftsman]\nYai....\nAll grown Laphine have one.\nThey're essential for all Laphine to live in since we are very private people.",
-        "pt": "[Artesão Laphine]\nYai...\ntodas as Laphine adultos têm um.\nSão essenciais para todas as Laphine viverem, já que somos pessoas muito reservadas.",
-        "es": "[Artesano Laphine]\nYais…\nTodos los laphines adultos tienen uno.\nSon esenciales para los laphines, ya que somos personas muy reservadas."
+        "en-US": "[Laphine craftsman]\nYai....\nAll grown Laphine have one.\nThey're essential for all Laphine to live in since we are very private people.",
+        "pt-BR": "[Artesão Laphine]\nYai...\ntodas as Laphine adultos têm um.\nSão essenciais para todas as Laphine viverem, já que somos pessoas muito reservadas.",
+        "es-ES": "[Artesano Laphine]\nYais…\nTodos los laphines adultos tienen uno.\nSon esenciales para los laphines, ya que somos personas muy reservadas."
     },
     "HDMp": {
-        "en": "It's a house...?",
-        "pt": "É uma casa...?",
-        "es": "¿Es una casa…?"
+        "en-US": "It's a house...?",
+        "pt-BR": "É uma casa...?",
+        "es-ES": "¿Es una casa…?"
     },
     "HTMp": {
-        "en": "[Laphine craftsman]\nYes...\nThat's it. We sometimes invite our friends or guests to our Yai.\nAnd decorations for Yai are quite important to us...",
-        "pt": "[Artesão Laphine]\nSim...\nÉ isso aí. Às vezes, convidamos nossos amigos ou hóspedes para o nosso Yai.\nE as decorações para o Yai são muito importantes para nós...",
-        "es": "[Artesano Laphine]\nSí…\nEso es. A veces invitamos amigos o huéspedes al yai.\nY para nosotros es muy importante que el yai esté decorado…"
+        "en-US": "[Laphine craftsman]\nYes...\nThat's it. We sometimes invite our friends or guests to our Yai.\nAnd decorations for Yai are quite important to us...",
+        "pt-BR": "[Artesão Laphine]\nSim...\nÉ isso aí. Às vezes, convidamos nossos amigos ou hóspedes para o nosso Yai.\nE as decorações para o Yai são muito importantes para nós...",
+        "es-ES": "[Artesano Laphine]\nSí…\nEso es. A veces invitamos amigos o huéspedes al yai.\nY para nosotros es muy importante que el yai esté decorado…"
     },
     "HjMp": {
-        "en": "[Laphine craftsman]\nWe Laphine care about ourselves and our Yai as well.",
-        "pt": "[Artesão Laphine]\nNós, Laphine, nos preocupamos conosco e com nosso Yai também.",
-        "es": "[Artesano Laphine]\nLos laphines nos cuidamos y cuidamos a nuestros yais."
+        "en-US": "[Laphine craftsman]\nWe Laphine care about ourselves and our Yai as well.",
+        "pt-BR": "[Artesão Laphine]\nNós, Laphine, nos preocupamos conosco e com nosso Yai também.",
+        "es-ES": "[Artesano Laphine]\nLos laphines nos cuidamos y cuidamos a nuestros yais."
     },
     "HzMp": {
-        "en": "[Laphine craftsman]\nWe are far away from our hometown now...\nIf we don't have this kind of hobby, there's nothing to enjoy here.",
-        "pt": "[Artesão Laphine]\nEstamos longe de nossa cidade natal agora...\nSe não tivermos esse tipo de hobby, não haverá nada para aproveitar aqui.",
-        "es": "[Artesano Laphine]\nAhora estamos muy lejos de nuestro pueblo natal…\nSin este tipo de pasatiempos, no hay nada para divertirse."
+        "en-US": "[Laphine craftsman]\nWe are far away from our hometown now...\nIf we don't have this kind of hobby, there's nothing to enjoy here.",
+        "pt-BR": "[Artesão Laphine]\nEstamos longe de nossa cidade natal agora...\nSe não tivermos esse tipo de hobby, não haverá nada para aproveitar aqui.",
+        "es-ES": "[Artesano Laphine]\nAhora estamos muy lejos de nuestro pueblo natal…\nSin este tipo de pasatiempos, no hay nada para divertirse."
     },
     "IDMp": {
-        "en": "[Laphine craftsman]\nIf it's not that important to you, can you let me do it first?\nSince I should finish up all of this decoration stuff today.\nI am quite busy.",
-        "pt": "[Artesão Laphine]\nSe não for tão importante para você, pode me deixar fazer isso primeiro?\nJá que preciso terminar todas essas coisas de decoração hoje.\nEstou bastante ocupado.",
-        "es": "[Artesano Laphine]\nSi no te molesta mucho, ¿podrías dejarme hacerlo primero?\nYa que hoy debo terminar con todas estas decoraciones.\nTengo mucho que hacer."
+        "en-US": "[Laphine craftsman]\nIf it's not that important to you, can you let me do it first?\nSince I should finish up all of this decoration stuff today.\nI am quite busy.",
+        "pt-BR": "[Artesão Laphine]\nSe não for tão importante para você, pode me deixar fazer isso primeiro?\nJá que preciso terminar todas essas coisas de decoração hoje.\nEstou bastante ocupado.",
+        "es-ES": "[Artesano Laphine]\nSi no te molesta mucho, ¿podrías dejarme hacerlo primero?\nYa que hoy debo terminar con todas estas decoraciones.\nTengo mucho que hacer."
     },
     "ITMp": {
-        "en": "[Laphine craftsman]\nYur,Dur AnoVa?\nWha? Dieb OsaDur .. \nah..RuffThus NeAsh. man nesAsh OdesAlah ?",
-        "pt": "[Artesão Laphine]\nYur, Dur AnoVa?\nWha? Dieb OsaDur ... \nah...RuffThus NeAsh. man nesAsh OdesAlah ?",
-        "es": "[Artesano Laphine]\n¿Yur,Dur AnoVa?\n¿Qu…? Dieb OsaDur .. \n¿ah..RuffThus NeAsh. man nesAsh OdesAlah?"
+        "en-US": "[Laphine craftsman]\nYur,Dur AnoVa?\nWha? Dieb OsaDur .. \nah..RuffThus NeAsh. man nesAsh OdesAlah ?",
+        "pt-BR": "[Artesão Laphine]\nYur, Dur AnoVa?\nWha? Dieb OsaDur ... \nah...RuffThus NeAsh. man nesAsh OdesAlah ?",
+        "es-ES": "[Artesano Laphine]\n¿Yur,Dur AnoVa?\n¿Qu…? Dieb OsaDur .. \n¿ah..RuffThus NeAsh. man nesAsh OdesAlah?"
     },
     "IjMp": {
-        "en": "Pet Breeder",
-        "pt": "Criador de Mascote",
-        "es": "Criador de Mascotas"
+        "en-US": "Pet Breeder",
+        "pt-BR": "Criador de Mascote",
+        "es-ES": "Criador de Mascotas"
     },
     "IzMp": {
-        "en": "- You can't start quest since you are overweight -",
-        "pt": "- Você não pode começar a busca, pois está carregando coisas demais -",
-        "es": "(No puedes comenzar la misión porque te sobrecargaste)."
+        "en-US": "- You can't start quest since you are overweight -",
+        "pt-BR": "- Você não pode começar a busca, pois está carregando coisas demais -",
+        "es-ES": "(No puedes comenzar la misión porque te sobrecargaste)."
     },
     "JDMp": {
-        "en": "[Laphine craftsman]\nYur,Dur AnoVa?\nWha? Dieb OsaDur ..\nah..RuffThus NeAsh. man nesAsh OdesAlah ?",
-        "pt": "[Pinedel]\nPor que não está funcionando, Tabb?\nDeveria estar funcionando.",
-        "es": "[Pinedel]\n¿Por qué no funciona, Tabb?\nDebería funcionar."
+        "en-US": "[Laphine craftsman]\nYur,Dur AnoVa?\nWha? Dieb OsaDur ..\nah..RuffThus NeAsh. man nesAsh OdesAlah ?",
+        "pt-BR": "[Pinedel]\nPor que não está funcionando, Tabb?\nDeveria estar funcionando.",
+        "es-ES": "[Pinedel]\n¿Por qué no funciona, Tabb?\nDebería funcionar."
     },
     "JTMp": {
-        "en": "[Tabb]\nThat's very dangerous. Do you want to die..?!",
-        "pt": "[Tabb]\nÉ muito perigoso. Você quer morrer?!",
-        "es": "[Tabb]\nEs muy peligroso. ¡¿Quieres morirte…?!"
+        "en-US": "[Tabb]\nThat's very dangerous. Do you want to die..?!",
+        "pt-BR": "[Tabb]\nÉ muito perigoso. Você quer morrer?!",
+        "es-ES": "[Tabb]\nEs muy peligroso. ¡¿Quieres morirte…?!"
     },
     "JjMp": {
-        "en": "[Pinedel]\nAre you ignoring cute pets??\nWe've been able to get Pickys and even Zealotus!",
-        "pt": "[Pinedel]\nVocê está ignorando os bichinhos fofos de estimação?!\nConseguimos pegar Pickys e até Zealotus!",
-        "es": "[Pinedel]\n¿Ignoras a las adorables mascotas?\n¡Logramos obtener a algunos Picky! ¡Y hasta a algunos Zealotus!"
+        "en-US": "[Pinedel]\nAre you ignoring cute pets??\nWe've been able to get Pickys and even Zealotus!",
+        "pt-BR": "[Pinedel]\nVocê está ignorando os bichinhos fofos de estimação?!\nConseguimos pegar Pickys e até Zealotus!",
+        "es-ES": "[Pinedel]\n¿Ignoras a las adorables mascotas?\n¡Logramos obtener a algunos Picky! ¡Y hasta a algunos Zealotus!"
     },
     "JzMp": {
-        "en": "[Tabb]\nNo way, even if you ask me...\nHillslion is very adorable...\nBut you can't.",
-        "pt": "[Tabb]\nDe jeito nenhum, mesmo se você me perguntar...\nO Leão da Montanha é muito adorável...\nMas você não pode.",
-        "es": "[Tabb]\nNi lo sueñes, ni aunque me lo pidas por favor…\nEl León de montaña es muy lindo…\nPero no puedes."
+        "en-US": "[Tabb]\nNo way, even if you ask me...\nHillslion is very adorable...\nBut you can't.",
+        "pt-BR": "[Tabb]\nDe jeito nenhum, mesmo se você me perguntar...\nO Leão da Montanha é muito adorável...\nMas você não pode.",
+        "es-ES": "[Tabb]\nNi lo sueñes, ni aunque me lo pidas por favor…\nEl León de montaña es muy lindo…\nPero no puedes."
     },
     "KDMp": {
-        "en": "[Pinedel]\nThen let me know why you object to this.",
-        "pt": "[Pinedel]\nEntão me diga por que você se opõe a isso.",
-        "es": "[Pinedel]\nEntonces dime por qué te opones."
+        "en-US": "[Pinedel]\nThen let me know why you object to this.",
+        "pt-BR": "[Pinedel]\nEntão me diga por que você se opõe a isso.",
+        "es-ES": "[Pinedel]\nEntonces dime por qué te opones."
     },
     "KTMp": {
-        "en": "[Tabb]\nIt's too dangerous. I've trained monsters before.\nHillslions look cute and adorable, but it's not very realistic.",
-        "pt": "[Tabb]\nÉ muito perigoso. Eu já treinei monstros antes.\nOs Leões da Montanha parecem fofos e adoráveis, mas não são muito realistas.",
-        "es": "Es demasiado peligroso. Yo solía entrenar monstruos.\nLos Leones de montaña parecen tiernos y adorables, pero hacer esto es muy poco realista."
+        "en-US": "[Tabb]\nIt's too dangerous. I've trained monsters before.\nHillslions look cute and adorable, but it's not very realistic.",
+        "pt-BR": "[Tabb]\nÉ muito perigoso. Eu já treinei monstros antes.\nOs Leões da Montanha parecem fofos e adoráveis, mas não são muito realistas.",
+        "es-ES": "Es demasiado peligroso. Yo solía entrenar monstruos.\nLos Leones de montaña parecen tiernos y adorables, pero hacer esto es muy poco realista."
     },
     "KjMp": {
-        "en": "[Tabb]\nCan't you see that?\nI've tried to train them... but I couldn't.\nHow can we can train them as a cute pet...?",
-        "pt": "[Tabb]\nNão consegue ver?\nEu tentei treiná-los... mas não consegui.\nComo podemos treiná-los como um mascote fofo...?",
-        "es": "[Tabb]\n¿No te das cuenta?\nYo mismo intenté entrenarlos… Y no pude.\n¿Cómo crees que podríamos entrenarlos para que sean mascotas adorables?"
+        "en-US": "[Tabb]\nCan't you see that?\nI've tried to train them... but I couldn't.\nHow can we can train them as a cute pet...?",
+        "pt-BR": "[Tabb]\nNão consegue ver?\nEu tentei treiná-los... mas não consegui.\nComo podemos treiná-los como um mascote fofo...?",
+        "es-ES": "[Tabb]\n¿No te das cuenta?\nYo mismo intenté entrenarlos… Y no pude.\n¿Cómo crees que podríamos entrenarlos para que sean mascotas adorables?"
     },
     "KzMp": {
-        "en": "[Tabb]\nIt would definitely try to escape from us...\nThen he would become very awful..\nI don't agree with this.",
-        "pt": "[Tabb]\nEle definitivamente tentaria escapar da gente...\nE isso seria muito terrível...\nNão concordo com isso.",
-        "es": "[Tabb]\nSin dudas intentaría escapar…\nEntonces las cosas se pondrían muy feas…\nNo estoy de acuerdo."
+        "en-US": "[Tabb]\nIt would definitely try to escape from us...\nThen he would become very awful..\nI don't agree with this.",
+        "pt-BR": "[Tabb]\nEle definitivamente tentaria escapar da gente...\nE isso seria muito terrível...\nNão concordo com isso.",
+        "es-ES": "[Tabb]\nSin dudas intentaría escapar…\nEntonces las cosas se pondrían muy feas…\nNo estoy de acuerdo."
     },
     "LDMp": {
-        "en": "[Pinedel]\nNah....\nCan't we control them with magical power?\nWe've done it before......",
-        "pt": "[Pinedel]\nNah...\nNão podemos controlá-los com poder mágico?\nJá fizemos isso antes...",
-        "es": "[Pinedel]\nBah…\n¿No podemos controlarlos con el poder mágico?\nYa lo hicimos antes…"
+        "en-US": "[Pinedel]\nNah....\nCan't we control them with magical power?\nWe've done it before......",
+        "pt-BR": "[Pinedel]\nNah...\nNão podemos controlá-los com poder mágico?\nJá fizemos isso antes...",
+        "es-ES": "[Pinedel]\nBah…\n¿No podemos controlarlos con el poder mágico?\nYa lo hicimos antes…"
     },
     "LTMp": {
-        "en": "- They just continue to argue -",
-        "pt": "- Eles simplesmente continuam discutindo -",
-        "es": "(Solo siguen discutiendo)."
+        "en-US": "- They just continue to argue -",
+        "pt-BR": "- Eles simplesmente continuam discutindo -",
+        "es-ES": "(Solo siguen discutiendo)."
     },
     "LjMp": {
-        "en": "[Pinedel]\nAh, Tabb isn't flexible at all.\nHey there! What's up??",
-        "pt": "[Pinedel]\nAh, o Tabb não é nada flexível.\nOlá! E aí?",
-        "es": "[Pinedel]\nAh, Tabb no es para nada flexible.\n¡Hola! ¿Qué pasa?"
+        "en-US": "[Pinedel]\nAh, Tabb isn't flexible at all.\nHey there! What's up??",
+        "pt-BR": "[Pinedel]\nAh, o Tabb não é nada flexível.\nOlá! E aí?",
+        "es-ES": "[Pinedel]\nAh, Tabb no es para nada flexible.\n¡Hola! ¿Qué pasa?"
     },
     "LzMp": {
-        "en": "Notice for criminal report",
-        "pt": "Notificação para denúncia criminal",
-        "es": "Aviso de búsqueda de delincuente."
+        "en-US": "Notice for criminal report",
+        "pt-BR": "Notificação para denúncia criminal",
+        "es-ES": "Aviso de búsqueda de delincuente."
     },
     "MDMp": {
-        "en": "Cute pet investigation.",
-        "pt": "Investigação de mascotes fofos.",
-        "es": "Investigación sobre mascotas adorables."
+        "en-US": "Cute pet investigation.",
+        "pt-BR": "Investigação de mascotes fofos.",
+        "es-ES": "Investigación sobre mascotas adorables."
     },
     "MTMp": {
-        "en": "[Pinedel]\nHave you hunted the Runaway Dandelion?\nOk, I accept you.\nHere's something Rin was storing here.",
-        "pt": "[Pinedel]\nVocê já caçou o Dandelion Fugitivo?\nCerto, aceito você.\nAqui está uma coisa que a Rin estava guardando aqui.",
-        "es": "[Pinedel]\n¿Cazaste al miembro de Diente de León fugitivo?\nEstá bien.\nToma esto que Rin estaba guardando aquí."
+        "en-US": "[Pinedel]\nHave you hunted the Runaway Dandelion?\nOk, I accept you.\nHere's something Rin was storing here.",
+        "pt-BR": "[Pinedel]\nVocê já caçou o Dandelion Fugitivo?\nCerto, aceito você.\nAqui está uma coisa que a Rin estava guardando aqui.",
+        "es-ES": "[Pinedel]\n¿Cazaste al miembro de Diente de León fugitivo?\nEstá bien.\nToma esto que Rin estaba guardando aquí."
     },
     "MjMp": {
-        "en": "[Pinedel]\nThis is Rin's cherished treasure box...\nThis is enough payment, right?",
-        "pt": "[Pinedel]\nEsta é a caixa do tesouro da Rin...\nÉ pagamento suficiente, certo?",
-        "es": "[Pinedel]\nEs la preciada Caja del tesoro de Rin…\nEs suficiente como pago, ¿no?"
+        "en-US": "[Pinedel]\nThis is Rin's cherished treasure box...\nThis is enough payment, right?",
+        "pt-BR": "[Pinedel]\nEsta é a caixa do tesouro da Rin...\nÉ pagamento suficiente, certo?",
+        "es-ES": "[Pinedel]\nEs la preciada Caja del tesoro de Rin…\nEs suficiente como pago, ¿no?"
     },
     "MzMp": {
-        "en": "[Pinedel]\nI know you haven't terminated the Runaway Dandelion yet...\nDon't take me for a fool.",
-        "pt": "[Pinedel]\nSei que você ainda não exterminou o Dandelion Fugitivo...\nNão ache que sou idiota.",
-        "es": "[Pinedel]\nSé que aún no acabaste con el miembro de Diente de León fugitivo…\nNo me tomes por tonta."
+        "en-US": "[Pinedel]\nI know you haven't terminated the Runaway Dandelion yet...\nDon't take me for a fool.",
+        "pt-BR": "[Pinedel]\nSei que você ainda não exterminou o Dandelion Fugitivo...\nNão ache que sou idiota.",
+        "es-ES": "[Pinedel]\nSé que aún no acabaste con el miembro de Diente de León fugitivo…\nNo me tomes por tonta."
     },
     "NDMp": {
-        "en": "[Pinedel]\nI will forward everything to Rin.\nShe'll love it.\nJust tell her your name {0} .",
-        "pt": "[Pinedel]\nVou encaminhar tudo para a Rin.\nEla vai adorar.\nBasta dizer a ela seu nome, {0} .",
-        "es": "[Pinedel]\nLe comunicaré todo a Rin.\nLe va a encantar.\nSolo dile tu nombre, {0}."
+        "en-US": "[Pinedel]\nI will forward everything to Rin.\nShe'll love it.\nJust tell her your name {0} .",
+        "pt-BR": "[Pinedel]\nVou encaminhar tudo para a Rin.\nEla vai adorar.\nBasta dizer a ela seu nome, {0} .",
+        "es-ES": "[Pinedel]\nLe comunicaré todo a Rin.\nLe va a encantar.\nSolo dile tu nombre, {0}."
     },
     "NTMp": {
-        "en": "[Pinedel]\nI can remember that I've heard about you from Rin.\nBut Rin likes you, so that must mean that you're nice.",
-        "pt": "[Pinedel]\nEu me lembro que ouvi falar de você pela Rin.\nMas a Rin gosta de você, então isso deve significar que você é legal.",
-        "es": "[Pinedel]\nRecuerdo haber oído a Rin hablar de ti.\nPero le caes bien a Rin, y eso significa que eres agradable."
+        "en-US": "[Pinedel]\nI can remember that I've heard about you from Rin.\nBut Rin likes you, so that must mean that you're nice.",
+        "pt-BR": "[Pinedel]\nEu me lembro que ouvi falar de você pela Rin.\nMas a Rin gosta de você, então isso deve significar que você é legal.",
+        "es-ES": "[Pinedel]\nRecuerdo haber oído a Rin hablar de ti.\nPero le caes bien a Rin, y eso significa que eres agradable."
     },
     "NjMp": {
-        "en": "[Pinedel]\nSeaching for a criminal?\nI'm not sure that you're involved in it.",
-        "pt": "[Pinedel]\nProcurando por um criminoso?\nNão sei bem se você se envolveu nisso.",
-        "es": "[Pinedel]\n¿Buscas un delincuente?\nNo creo que te hayas involucrado."
+        "en-US": "[Pinedel]\nSeaching for a criminal?\nI'm not sure that you're involved in it.",
+        "pt-BR": "[Pinedel]\nProcurando por um criminoso?\nNão sei bem se você se envolveu nisso.",
+        "es-ES": "[Pinedel]\n¿Buscas un delincuente?\nNo creo que te hayas involucrado."
     },
     "NzMp": {
-        "en": "[Pinedel]\nOh! Nice!\nI can go through this study deeper with your assistance.",
-        "pt": "[Pinedel]\nLegal!\nPosso aprofundar nesse estudo com sua ajuda.",
-        "es": "[Pinedel]\n¡Oh! ¡Qué bueno!\nSi me ayudas, puedo avanzar en esta investigación."
+        "en-US": "[Pinedel]\nOh! Nice!\nI can go through this study deeper with your assistance.",
+        "pt-BR": "[Pinedel]\nLegal!\nPosso aprofundar nesse estudo com sua ajuda.",
+        "es-ES": "[Pinedel]\n¡Oh! ¡Qué bueno!\nSi me ayudas, puedo avanzar en esta investigación."
     },
     "ODMp": {
-        "en": "[Pinedel]\nI will try to make these Dragon eggs into cute pets.\nDon't expect much!\nCome back after a day to check on the progress.",
-        "pt": "[Pinedel]\nVou tentar transformar esses Ovos de Draco em mascotes.\nNão espere muito!\nVolte amanhã para checar o progresso.",
-        "es": "[Pinedel]\nIntentaré convertir estos Huevos de dragón en mascotas adorables.\n¡No te ilusiones mucho!\nVuelve dentro de un día para revisar el progreso."
+        "en-US": "[Pinedel]\nI will try to make these Dragon eggs into cute pets.\nDon't expect much!\nCome back after a day to check on the progress.",
+        "pt-BR": "[Pinedel]\nVou tentar transformar esses Ovos de Draco em mascotes.\nNão espere muito!\nVolte amanhã para checar o progresso.",
+        "es-ES": "[Pinedel]\nIntentaré convertir estos Huevos de dragón en mascotas adorables.\n¡No te ilusiones mucho!\nVuelve dentro de un día para revisar el progreso."
     },
     "OTMp": {
-        "en": "[Pinedel]\nDraco was being kept in the nest just before hatching. Please collect 10 Dragon eggs for me.\nYou know, those are hard to hatch in captivity.",
-        "pt": "[Pinedel]\nO Draco estava sendo mantido no ninho pouco antes da eclosão. Por favor, colete 10 Ovos de Draco para mim.\nSabe, eles são difíceis de chocar em cativeiro.",
-        "es": "[Pinedel]\nEl Dragón estaba en el nido justo antes de eclosionar. Recolecta 10 Huevos de dragón.\nEs difícil hacerlos eclosionar en cautiverio."
+        "en-US": "[Pinedel]\nDraco was being kept in the nest just before hatching. Please collect 10 Dragon eggs for me.\nYou know, those are hard to hatch in captivity.",
+        "pt-BR": "[Pinedel]\nO Draco estava sendo mantido no ninho pouco antes da eclosão. Por favor, colete 10 Ovos de Draco para mim.\nSabe, eles são difíceis de chocar em cativeiro.",
+        "es-ES": "[Pinedel]\nEl Dragón estaba en el nido justo antes de eclosionar. Recolecta 10 Huevos de dragón.\nEs difícil hacerlos eclosionar en cautiverio."
     },
     "OjMp": {
-        "en": "[Pinedel]\nThose eggs are about to hatch now.\nI will have to investigate these back home.\nI hope they can become nice cute pets soon.",
-        "pt": "[Pinedel]\nEsses ovos estão prestes a eclodir agora.\nTerei que investigá-los em casa.\nEspero que eles possam se tornar mascotes bonitinhos em breve.",
-        "es": "[Pinedel]\nEsos huevos ya están por eclosionar.\nTendré que investigarlos en casa.\nEspero que pronto se conviertan en mascotas adorables."
+        "en-US": "[Pinedel]\nThose eggs are about to hatch now.\nI will have to investigate these back home.\nI hope they can become nice cute pets soon.",
+        "pt-BR": "[Pinedel]\nEsses ovos estão prestes a eclodir agora.\nTerei que investigá-los em casa.\nEspero que eles possam se tornar mascotes bonitinhos em breve.",
+        "es-ES": "[Pinedel]\nEsos huevos ya están por eclosionar.\nTendré que investigarlos en casa.\nEspero que pronto se conviertan en mascotas adorables."
     },
     "OzMp": {
-        "en": "[Pinedel]\nThose eggs are about to hatch now.\nI will investigate those back home.\nFor now I still need more time.",
-        "pt": "[Pinedel]\nEsses ovos estão prestes a eclodir agora.\nVou investigá-los em casa.\nPor enquanto, ainda preciso de mais tempo.",
-        "es": "[Pinedel]\nEsos huevos ya están por eclosionar.\nLos investigaré en casa.\nPor ahora, necesito más tiempo."
+        "en-US": "[Pinedel]\nThose eggs are about to hatch now.\nI will investigate those back home.\nFor now I still need more time.",
+        "pt-BR": "[Pinedel]\nEsses ovos estão prestes a eclodir agora.\nVou investigá-los em casa.\nPor enquanto, ainda preciso de mais tempo.",
+        "es-ES": "[Pinedel]\nEsos huevos ya están por eclosionar.\nLos investigaré en casa.\nPor ahora, necesito más tiempo."
     },
     "PDMp": {
-        "en": "[Pinedel]\nCan you come back here tomorrow?",
-        "pt": "[Pinedel]\nVocê pode voltar aqui amanhã?",
-        "es": "[Pinedel]\n¿Puedes volver mañana?"
+        "en-US": "[Pinedel]\nCan you come back here tomorrow?",
+        "pt-BR": "[Pinedel]\nVocê pode voltar aqui amanhã?",
+        "es-ES": "[Pinedel]\n¿Puedes volver mañana?"
     },
     "PTMp": {
-        "en": "[Pinedel]\nThose egge are about to hatch.\nI will have to investigate these back home.\nI hope they can become nice cute pets soon.",
-        "pt": "[Pinedel]\nEsses ovos estão prestes a eclodir.\nTerei que investigá-los em casa.\nEspero que eles possam se tornar mascotes bonitinhos em breve.",
-        "es": "[Pinedel]\nEsos huevos están por eclosionar.\nTendré que investigarlos en casa.\nEspero que pronto se conviertan en mascotas adorables."
+        "en-US": "[Pinedel]\nThose egge are about to hatch.\nI will have to investigate these back home.\nI hope they can become nice cute pets soon.",
+        "pt-BR": "[Pinedel]\nEsses ovos estão prestes a eclodir.\nTerei que investigá-los em casa.\nEspero que eles possam se tornar mascotes bonitinhos em breve.",
+        "es-ES": "[Pinedel]\nEsos huevos están por eclosionar.\nTendré que investigarlos en casa.\nEspero que pronto se conviertan en mascotas adorables."
     },
     "PjMp": {
-        "en": "[Pinedel]\nDo you want to help me gather more Dragon eggs today?\nI want to try many things with those eggs.",
-        "pt": "[Pinedel]\nVocê quer me ajudar a coletar mais Ovos de Draco hoje?\nQuero testar muitas coisas com esses ovos.",
-        "es": "[Pinedel]\n¿Quieres ayudarme a reunir más Huevos de dragón?\nQuiero probar muchas cosas con los huevos."
+        "en-US": "[Pinedel]\nDo you want to help me gather more Dragon eggs today?\nI want to try many things with those eggs.",
+        "pt-BR": "[Pinedel]\nVocê quer me ajudar a coletar mais Ovos de Draco hoje?\nQuero testar muitas coisas com esses ovos.",
+        "es-ES": "[Pinedel]\n¿Quieres ayudarme a reunir más Huevos de dragón?\nQuiero probar muchas cosas con los huevos."
     },
     "PzMp": {
-        "en": "Sure.",
-        "pt": "Com certeza.",
-        "es": "Claro."
+        "en-US": "Sure.",
+        "pt-BR": "Com certeza.",
+        "es-ES": "Claro."
     },
     "QDMp": {
-        "en": "Sorry, I can't.",
-        "pt": "Desculpe, mas não posso.",
-        "es": "Lo siento, no puedo."
+        "en-US": "Sorry, I can't.",
+        "pt-BR": "Desculpe, mas não posso.",
+        "es-ES": "Lo siento, no puedo."
     },
     "QTMp": {
-        "en": "[Pinedel]\nThen I ask you to bring 10 eggs to me.",
-        "pt": "[Pinedel]\nEntão peço que você traga 10 ovos para mim.",
-        "es": "[Pinedel]\nEntonces te pido que me traigas 10 Huevos."
+        "en-US": "[Pinedel]\nThen I ask you to bring 10 eggs to me.",
+        "pt-BR": "[Pinedel]\nEntão peço que você traga 10 ovos para mim.",
+        "es-ES": "[Pinedel]\nEntonces te pido que me traigas 10 Huevos."
     },
     "QjMp": {
-        "en": "[Pinedel]\nOk. You have your own business here.\nGo ahead.",
-        "pt": "[Pinedel]\nTá. Você tem mais o que fazer aqui.\nPode ir.",
-        "es": "[Pinedel]\nEstá bien. Tienes tus propias cosas que hacer aquí.\nAdelante."
+        "en-US": "[Pinedel]\nOk. You have your own business here.\nGo ahead.",
+        "pt-BR": "[Pinedel]\nTá. Você tem mais o que fazer aqui.\nPode ir.",
+        "es-ES": "[Pinedel]\nEstá bien. Tienes tus propias cosas que hacer aquí.\nAdelante."
     },
     "QzMp": {
-        "en": "[Pinedel]\nI am investigating cute pets.\nAsh-vacuum has several monsters that I think could become cute pets.",
-        "pt": "[Pinedel]\nEstou investigando mascotes fofos.\nO Ash-vacuum tem vários monstros que eu acho que poderiam se tornar mascotes fofos.",
-        "es": "[Pinedel]\nEstoy investigando a las mascotas adorables.\nHay varios monstruos en Ash Vacuum que creo que podrían convertirse en mascotas adorables."
+        "en-US": "[Pinedel]\nI am investigating cute pets.\nAsh-vacuum has several monsters that I think could become cute pets.",
+        "pt-BR": "[Pinedel]\nEstou investigando mascotes fofos.\nO Ash-vacuum tem vários monstros que eu acho que poderiam se tornar mascotes fofos.",
+        "es-ES": "[Pinedel]\nEstoy investigando a las mascotas adorables.\nHay varios monstruos en Ash Vacuum que creo que podrían convertirse en mascotas adorables."
     },
     "RDMp": {
-        "en": "[Pinedel]\nThe objective is one Dragon egg!\nCan you bring me a Dragon Egg?",
-        "pt": "[Pinedel]\nO objetivo é um Ovo de Draco!\nVocê pode me trazer um deles?",
-        "es": "[Pinedel]\n¡El objetivo es un Huevo de dragón!\n¿Puedes traerme un Huevo de dragón?"
+        "en-US": "[Pinedel]\nThe objective is one Dragon egg!\nCan you bring me a Dragon Egg?",
+        "pt-BR": "[Pinedel]\nO objetivo é um Ovo de Draco!\nVocê pode me trazer um deles?",
+        "es-ES": "[Pinedel]\n¡El objetivo es un Huevo de dragón!\n¿Puedes traerme un Huevo de dragón?"
     },
     "RTMp": {
-        "en": "Nope.",
-        "pt": "Não.",
-        "es": "No."
+        "en-US": "Nope.",
+        "pt-BR": "Não.",
+        "es-ES": "No."
     },
     "RjMp": {
-        "en": "[Pinedel]\nThere would be Dragon nest in the cave you found out.\nThere should be nice Dragon Eggs.",
-        "pt": "[Pinedel]\nDeve ter um ninho de dragão na caverna que você descobriu, com bons Ovos de Draco nele.",
-        "es": "[Pinedel]\nDebería haber un nido de Dragón en la cueva que descubriste.\nAllí debería haber lindos Huevos de dragón."
+        "en-US": "[Pinedel]\nThere would be Dragon nest in the cave you found out.\nThere should be nice Dragon Eggs.",
+        "pt-BR": "[Pinedel]\nDeve ter um ninho de dragão na caverna que você descobriu, com bons Ovos de Draco nele.",
+        "es-ES": "[Pinedel]\nDebería haber un nido de Dragón en la cueva que descubriste.\nAllí debería haber lindos Huevos de dragón."
     },
     "RzMp": {
-        "en": "[Pinedel]\nPlease collect 10 Draco Eggs.\nLet's work together to make them as pets.",
-        "pt": "[Pinedel]\nPor favor, colete 10 Ovos de Draco.\nVamos trabalhar juntos para transformá-los em mascotes.",
-        "es": "[Pinedel]\nRecolecta 10 Huevos de Dragón.\nTrabajemos en equipo para convertirlos en mascotas."
+        "en-US": "[Pinedel]\nPlease collect 10 Draco Eggs.\nLet's work together to make them as pets.",
+        "pt-BR": "[Pinedel]\nPor favor, colete 10 Ovos de Draco.\nVamos trabalhar juntos para transformá-los em mascotes.",
+        "es-ES": "[Pinedel]\nRecolecta 10 Huevos de Dragón.\nTrabajemos en equipo para convertirlos en mascotas."
     },
     "SDMp": {
-        "en": "[Pinedel]\nI know it's not the easiest task.\nBut I refuse to give up.\nI will make it into a cute pet someday.",
-        "pt": "[Pinedel]\nSei que não é a tarefa mais fácil.\nMas me recuso a desistir.\nUm dia, vou transformá-lo em um mascote.",
-        "es": "[Pinedel]\nSé que no es una tarea muy fácil.\nPero me niego a rendirme.\nAlgún día lo convertiré en una mascota adorable."
+        "en-US": "[Pinedel]\nI know it's not the easiest task.\nBut I refuse to give up.\nI will make it into a cute pet someday.",
+        "pt-BR": "[Pinedel]\nSei que não é a tarefa mais fácil.\nMas me recuso a desistir.\nUm dia, vou transformá-lo em um mascote.",
+        "es-ES": "[Pinedel]\nSé que no es una tarea muy fácil.\nPero me niego a rendirme.\nAlgún día lo convertiré en una mascota adorable."
     },
     "STMp": {
-        "en": "[Tabb]\nWould you just give up making exogamous beings into cute pets...",
-        "pt": "[Tabb]\nVocê desistiria de transformar seres exogâmicos em bichinhos fofos...?",
-        "es": "[Tabb]\n¡¿Quieres dejar de convertir a esos seres de diferentes razas en mascotas adorables…?!"
+        "en-US": "[Tabb]\nWould you just give up making exogamous beings into cute pets...",
+        "pt-BR": "[Tabb]\nVocê desistiria de transformar seres exogâmicos em bichinhos fofos...?",
+        "es-ES": "[Tabb]\n¡¿Quieres dejar de convertir a esos seres de diferentes razas en mascotas adorables…?!"
     },
     "SjMp": {
-        "en": "[Pinedel]\nTabb doesn't have any guts!",
-        "pt": "[Pinedel]\nTabb não tem coragem!",
-        "es": "[Pinedel]\n¡Tabb no tiene agallas!"
+        "en-US": "[Pinedel]\nTabb doesn't have any guts!",
+        "pt-BR": "[Pinedel]\nTabb não tem coragem!",
+        "es-ES": "[Pinedel]\n¡Tabb no tiene agallas!"
     },
     "SzMp": {
-        "en": "Notice for criminal",
-        "pt": "Notificação para crime",
-        "es": "Aviso de 'Se busca'"
+        "en-US": "Notice for criminal",
+        "pt-BR": "Notificação para crime",
+        "es-ES": "Aviso de 'Se busca'"
     },
     "TDMp": {
-        "en": "[Wanted]\n^FFFFFF_^000000\nWanted: Dandelion\nRequester: Rin\nReward : treasure box.\n^FFFFFF_^000000\nNotice : We thought that all of the Dandelion gang were terminated.\nBut they weren't.\nI've heard that there was a Dandelion's black clothing found in Ash-Vacuum.\nThere were some problems...\nI need someone to find the Dandelion and terminate them.\nI can provide a treasure box that I cherish.\nI've heard a rumor that he's in a cave somewhere..!\n^FFFFFF_^000000\nPS> They have a bad reputation...\nSo you may not want to go alone...\n^FFFFFF_^000000\nPSS> I can't reward you directly...\n'Pinedel will reward you once the deed is done..!\n^FFFFFF_^000000",
-        "pt": "[Procurado]\n^FFFFFF_^000000\nProcura-se: Dandelion\nSolicitante: Rin\nRecompensa: caixa do tesouro.\n^FFFFFF_^000000\nAviso : Pensamos que todos os membros da gangue Dandelion haviam sido eliminados.\nMas não foram.\nOuvi dizer que a roupa preta de um Dandelion foi encontrada em Ash-Vacuum.\nHouve alguns problemas...\nPreciso de alguém para encontrar o Dandelion e acabar com ele.\nPosso fornecer uma caixa de tesouro que eu prezo.\nOuvi um boato de que ele está em uma caverna em algum lugar...!\n^FFFFFF_^000000\nPS> Eles têm uma reputação ruim...\nPortanto, talvez você não queira ir sozinho...\n^FFFFFF_^000000\nPSS> Não posso recompensá-lo diretamente...\nPinedel o recompensará quando a ação for concluída...!\n^FFFFFF_^000000",
-        "es": "[Se busca]\n^FFFFFF_^000000\nSe busca: Diente de León.\nSolicitante: Rin.\nPremio: Caja del tesoro.\n^FFFFFF_^000000\nAviso: Pensábamos que habíamos acabado con toda la pandilla Diente de León.\nPero no era así.\nEscuché que encontraron la ropa negra de un miembro de Diente de León en Ash Vacuum.\nHubo algunos problemas…\nNecesito que alguien encuentre al miembro de Diente de León y acabe con él.\nPuedo pagarte con una Caja del tesoro que valoro mucho.\n¡Escuché el rumor de que está en alguna cueva!\n^FFFFFF_^000000\nP.D.: Tiene mala reputación.\nAsí que quizás no quieras ir sin compañía…\n^FFFFFF_^000000\nP.D. 2: No puedo darte la recompensa en persona.\n¡Una vez que esté hecho, Pinedel te entregará el premio!\n^FFFFFF_^000000"
+        "en-US": "[Wanted]\n^FFFFFF_^000000\nWanted: Dandelion\nRequester: Rin\nReward : treasure box.\n^FFFFFF_^000000\nNotice : We thought that all of the Dandelion gang were terminated.\nBut they weren't.\nI've heard that there was a Dandelion's black clothing found in Ash-Vacuum.\nThere were some problems...\nI need someone to find the Dandelion and terminate them.\nI can provide a treasure box that I cherish.\nI've heard a rumor that he's in a cave somewhere..!\n^FFFFFF_^000000\nPS> They have a bad reputation...\nSo you may not want to go alone...\n^FFFFFF_^000000\nPSS> I can't reward you directly...\n'Pinedel will reward you once the deed is done..!\n^FFFFFF_^000000",
+        "pt-BR": "[Procurado]\n^FFFFFF_^000000\nProcura-se: Dandelion\nSolicitante: Rin\nRecompensa: caixa do tesouro.\n^FFFFFF_^000000\nAviso : Pensamos que todos os membros da gangue Dandelion haviam sido eliminados.\nMas não foram.\nOuvi dizer que a roupa preta de um Dandelion foi encontrada em Ash-Vacuum.\nHouve alguns problemas...\nPreciso de alguém para encontrar o Dandelion e acabar com ele.\nPosso fornecer uma caixa de tesouro que eu prezo.\nOuvi um boato de que ele está em uma caverna em algum lugar...!\n^FFFFFF_^000000\nPS> Eles têm uma reputação ruim...\nPortanto, talvez você não queira ir sozinho...\n^FFFFFF_^000000\nPSS> Não posso recompensá-lo diretamente...\nPinedel o recompensará quando a ação for concluída...!\n^FFFFFF_^000000",
+        "es-ES": "[Se busca]\n^FFFFFF_^000000\nSe busca: Diente de León.\nSolicitante: Rin.\nPremio: Caja del tesoro.\n^FFFFFF_^000000\nAviso: Pensábamos que habíamos acabado con toda la pandilla Diente de León.\nPero no era así.\nEscuché que encontraron la ropa negra de un miembro de Diente de León en Ash Vacuum.\nHubo algunos problemas…\nNecesito que alguien encuentre al miembro de Diente de León y acabe con él.\nPuedo pagarte con una Caja del tesoro que valoro mucho.\n¡Escuché el rumor de que está en alguna cueva!\n^FFFFFF_^000000\nP.D.: Tiene mala reputación.\nAsí que quizás no quieras ir sin compañía…\n^FFFFFF_^000000\nP.D. 2: No puedo darte la recompensa en persona.\n¡Una vez que esté hecho, Pinedel te entregará el premio!\n^FFFFFF_^000000"
     },
     "TTMp": {
-        "en": "Do you accept Rin's request?",
-        "pt": "Você aceita a solicitação de Rin?",
-        "es": "¿Aceptas la solicitud de Rin?"
+        "en-US": "Do you accept Rin's request?",
+        "pt-BR": "Você aceita a solicitação de Rin?",
+        "es-ES": "¿Aceptas la solicitud de Rin?"
     },
     "TjMp": {
-        "en": "I accept that request.",
-        "pt": "Aceito essa solicitação.",
-        "es": "Acepto la solicitud."
+        "en-US": "I accept that request.",
+        "pt-BR": "Aceito essa solicitação.",
+        "es-ES": "Acepto la solicitud."
     },
     "TzMp": {
-        "en": "No, I can't.",
-        "pt": "Não, não posso.",
-        "es": "No, no puedo."
+        "en-US": "No, I can't.",
+        "pt-BR": "Não, não posso.",
+        "es-ES": "No, no puedo."
     },
     "UDMp": {
-        "en": "I accepted Rin's request.",
-        "pt": "Aceitei o pedido de Rin.",
-        "es": "Acepté la solicitud de Rin."
+        "en-US": "I accepted Rin's request.",
+        "pt-BR": "Aceitei o pedido de Rin.",
+        "es-ES": "Acepté la solicitud de Rin."
     },
     "UTMp": {
-        "en": "No, I won't get involved in it.",
-        "pt": "Não, não vou me envolver nisso.",
-        "es": "No, no me voy a involucrar."
+        "en-US": "No, I won't get involved in it.",
+        "pt-BR": "Não, não vou me envolver nisso.",
+        "es-ES": "No, no me voy a involucrar."
     },
     "UjMp": {
-        "en": "I've already decided to take the request.",
-        "pt": "Eu já decidi aceitar a solicitação.",
-        "es": "Ya decidí aceptar la solicitud."
+        "en-US": "I've already decided to take the request.",
+        "pt-BR": "Eu já decidi aceitar a solicitação.",
+        "es-ES": "Ya decidí aceptar la solicitud."
     },
     "UzMp": {
-        "en": "There must be someone who remove the wanted notice paper.",
-        "pt": "Deve haver alguém para remover o pôster de procurado.",
-        "es": "Seguro alguien quitará el cartel de Se busca."
+        "en-US": "There must be someone who remove the wanted notice paper.",
+        "pt-BR": "Deve haver alguém para remover o pôster de procurado.",
+        "es-ES": "Seguro alguien quitará el cartel de Se busca."
     },
     "VDMp": {
-        "en": "Dragon Egg",
-        "pt": "Ovo de Draco",
-        "es": "Huevo de dragón"
+        "en-US": "Dragon Egg",
+        "pt-BR": "Ovo de Draco",
+        "es-ES": "Huevo de dragón"
     },
     "VTMp": {
-        "en": "- You can't start quest since you are overweighed. -",
-        "pt": "- Você não pode iniciar a busca porque está com excesso de peso. -",
-        "es": "(No puedes comenzar la misión porque llevas mucho peso)."
+        "en-US": "- You can't start quest since you are overweighed. -",
+        "pt-BR": "- Você não pode iniciar a busca porque está com excesso de peso. -",
+        "es-ES": "(No puedes comenzar la misión porque llevas mucho peso)."
     },
     "VjMp": {
-        "en": "We just got fresh eggs from the nest.",
-        "pt": "Acabamos de receber ovos frescos do ninho.",
-        "es": "Acabamos de recibir huevos frescos del nido."
+        "en-US": "We just got fresh eggs from the nest.",
+        "pt-BR": "Acabamos de receber ovos frescos do ninho.",
+        "es-ES": "Acabamos de recibir huevos frescos del nido."
     },
     "VzMp": {
-        "en": "- You can't start quest since you are overweighed -",
-        "pt": "- Você não pode iniciar a busca poqrue está com excesso de peso -",
-        "es": "(No puedes comenzar la misión porque llevas mucho peso)."
+        "en-US": "- You can't start quest since you are overweighed -",
+        "pt-BR": "- Você não pode iniciar a busca poqrue está com excesso de peso -",
+        "es-ES": "(No puedes comenzar la misión porque llevas mucho peso)."
     },
     "WDMp": {
-        "en": "We just got fresh eggs from the dragon nest.",
-        "pt": "Acabamos de pegar ovos frescos do ninho do dragão.",
-        "es": "Acabamos de recibir huevos frescos del nido de Dragón."
+        "en-US": "We just got fresh eggs from the dragon nest.",
+        "pt-BR": "Acabamos de pegar ovos frescos do ninho do dragão.",
+        "es-ES": "Acabamos de recibir huevos frescos del nido de Dragón."
     },
     "WTMp": {
-        "en": "Egg Keeper Draco",
-        "pt": "Guardião de ovos Draco",
-        "es": "Cuidador de huevos Draco"
+        "en-US": "Egg Keeper Draco",
+        "pt-BR": "Guardião de ovos Draco",
+        "es-ES": "Cuidador de huevos Draco"
     },
     "WjMp": {
-        "en": "Egg Keeper Draco",
-        "pt": "Guardião de ovos Draco",
-        "es": "Cuidador de huevos Draco"
+        "en-US": "Egg Keeper Draco",
+        "pt-BR": "Guardião de ovos Draco",
+        "es-ES": "Cuidador de huevos Draco"
     },
     "WzMp": {
-        "en": "Stranger",
-        "pt": "Estrangeiro",
-        "es": "Extraño"
+        "en-US": "Stranger",
+        "pt-BR": "Estrangeiro",
+        "es-ES": "Extraño"
     },
     "XDMp": {
-        "en": "Runaway Dandelion",
-        "pt": "Dandelion Fugitivo",
-        "es": "Diente de León fugitivo"
+        "en-US": "Runaway Dandelion",
+        "pt-BR": "Dandelion Fugitivo",
+        "es-ES": "Diente de León fugitivo"
     },
     "XTMp": {
-        "en": "- You are carrying too many items to proceed with this quest. -",
-        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
-        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
+        "en-US": "- You are carrying too many items to proceed with this quest. -",
+        "pt-BR": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es-ES": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

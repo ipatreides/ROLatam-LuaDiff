@@ -1,686 +1,686 @@
 {
     "YDjEBw": {
-        "ko": "디엔",
-        "en": "Dien",
-        "pt": "Dien",
-        "es": "Dien"
+        "ko-KR": "디엔",
+        "en-US": "Dien",
+        "pt-BR": "Dien",
+        "es-ES": "Dien"
     },
     "YTjEBw": {
-        "ko": "리드쉬",
-        "en": "Ridsh",
-        "pt": "Ridsh",
-        "es": "Ridsh"
+        "ko-KR": "리드쉬",
+        "en-US": "Ridsh",
+        "pt-BR": "Ridsh",
+        "es-ES": "Ridsh"
     },
     "YjjEBw": {
-        "ko": "[리드쉬]\n어머?\n여긴 왠 일이야?",
-        "en": "[Ridsh]\nOh?\nWhat brings you here?",
-        "pt": "[Ridsh]\nHã?\nO que você está fazendo aqui?",
-        "es": "[Ridsh]\n¿Eh?\n¿Qué estás haciendo aquí?"
+        "ko-KR": "[리드쉬]\n어머?\n여긴 왠 일이야?",
+        "en-US": "[Ridsh]\nOh?\nWhat brings you here?",
+        "pt-BR": "[Ridsh]\nHã?\nO que você está fazendo aqui?",
+        "es-ES": "[Ridsh]\n¿Eh?\n¿Qué estás haciendo aquí?"
     },
     "YzjEBw": {
-        "ko": "리드쉬: 어머? 여긴 왠일이야?",
-        "en": "Ridsh: Oh? What brings you here?",
-        "pt": "Ridsh: Hã? O que você está fazendo aqui?",
-        "es": "Ridsh: ¿Eh? ¿Qué estás haciendo aquí?"
+        "ko-KR": "리드쉬: 어머? 여긴 왠일이야?",
+        "en-US": "Ridsh: Oh? What brings you here?",
+        "pt-BR": "Ridsh: Hã? O que você está fazendo aqui?",
+        "es-ES": "Ridsh: ¿Eh? ¿Qué estás haciendo aquí?"
     },
     "ZDjEBw": {
-        "ko": "[리드쉬]\n곤란하네에~~\n우리가 여기 있는걸 아무한테도 들키면 안 되는데~~",
-        "en": "[Ridsh]\nOh no~~\nNo one can find out that we're here~~",
-        "pt": "[Ridsh]\nQue situação~\nNinguém deveria saber que estamos aqui.",
-        "es": "[Ridsh]\nQué situación~\nNadie debería saber que estamos aquí."
+        "ko-KR": "[리드쉬]\n곤란하네에~~\n우리가 여기 있는걸 아무한테도 들키면 안 되는데~~",
+        "en-US": "[Ridsh]\nOh no~~\nNo one can find out that we're here~~",
+        "pt-BR": "[Ridsh]\nQue situação~\nNinguém deveria saber que estamos aqui.",
+        "es-ES": "[Ridsh]\nQué situación~\nNadie debería saber que estamos aquí."
     },
     "ZTjEBw": {
-        "ko": "리드쉬: 곤란하네에~~ 우리가 여기 있는걸 아무한테도 들키면 안 되는데~~",
-        "en": "Ridsh: Oh no~~ We can't let anyone find out that we're here~~",
-        "pt": "Ridsh: Que situação~ Ninguém deveria saber que estamos aqui.",
-        "es": "Ridsh: Qué situación~ Nadie debería saber que estamos aquí."
+        "ko-KR": "리드쉬: 곤란하네에~~ 우리가 여기 있는걸 아무한테도 들키면 안 되는데~~",
+        "en-US": "Ridsh: Oh no~~ We can't let anyone find out that we're here~~",
+        "pt-BR": "Ridsh: Que situação~ Ninguém deveria saber que estamos aqui.",
+        "es-ES": "Ridsh: Qué situación~ Nadie debería saber que estamos aquí."
     },
     "ZjjEBw": {
-        "ko": "[디엔]\n얘도 참!\n왜 괜히 겁주고 그러니!",
-        "en": "[Dien]\nYou’re too much!\nWhy are you scaring me for no reason!",
-        "pt": "[Dien]\nAh, pare!\nAssim, você os assusta.",
-        "es": "[Dien]\nAh, basta.\nAsí los asustas."
+        "ko-KR": "[디엔]\n얘도 참!\n왜 괜히 겁주고 그러니!",
+        "en-US": "[Dien]\nYou’re too much!\nWhy are you scaring me for no reason!",
+        "pt-BR": "[Dien]\nAh, pare!\nAssim, você os assusta.",
+        "es-ES": "[Dien]\nAh, basta.\nAsí los asustas."
     },
     "ZzjEBw": {
-        "ko": "디엔: 얘도 참! 왜 괜히 겁주고 그러니!",
-        "en": "Dien: Oh, come on! Why are you trying to scare me for no reason!",
-        "pt": "Dien: Ah, pare! Assim, você os assusta.",
-        "es": "Dien: Ah, basta. Así los asustas."
+        "ko-KR": "디엔: 얘도 참! 왜 괜히 겁주고 그러니!",
+        "en-US": "Dien: Oh, come on! Why are you trying to scare me for no reason!",
+        "pt-BR": "Dien: Ah, pare! Assim, você os assusta.",
+        "es-ES": "Dien: Ah, basta. Así los asustas."
     },
     "aDjEBw": {
-        "ko": "[디엔]\n{0}님 안녕하세요.\n저희가 지금 좀 할 일이 있어서 왔는데…\n애들한테 알려지면 좀 곤란해서요.",
-        "en": "[Dien]\nHello, {0}.\nWe're here because we have something to take care of right now...\nIt would be a bit troublesome if the others found out.",
-        "pt": "[Dien]\nOi, {0}.\nEstamos aqui para fazer uma coisinha...\nnão podemos deixar que os outros saibam onde estamos.",
-        "es": "[Dien]\nHola, {0}.\nEstamos aquí para hacer una cosita…\nno podemos dejar que los demás sepan dónde estamos."
+        "ko-KR": "[디엔]\n{0}님 안녕하세요.\n저희가 지금 좀 할 일이 있어서 왔는데…\n애들한테 알려지면 좀 곤란해서요.",
+        "en-US": "[Dien]\nHello, {0}.\nWe're here because we have something to take care of right now...\nIt would be a bit troublesome if the others found out.",
+        "pt-BR": "[Dien]\nOi, {0}.\nEstamos aqui para fazer uma coisinha...\nnão podemos deixar que os outros saibam onde estamos.",
+        "es-ES": "[Dien]\nHola, {0}.\nEstamos aquí para hacer una cosita…\nno podemos dejar que los demás sepan dónde estamos."
     },
     "aTjEBw": {
-        "ko": "디엔: {0}님 안녕하세요.",
-        "en": "Dien: Hello, {0}.",
-        "pt": "Dien: Oi, {0}.",
-        "es": "Dien: Hola, {0}."
+        "ko-KR": "디엔: {0}님 안녕하세요.",
+        "en-US": "Dien: Hello, {0}.",
+        "pt-BR": "Dien: Oi, {0}.",
+        "es-ES": "Dien: Hola, {0}."
     },
     "ajjEBw": {
-        "ko": "디엔: 저희가 지금 좀 할 일이 있어서 왔는데… 애들한테 알려지면 좀 곤란해서요.",
-        "en": "Dien: We're here because we have something to take care of right now... It would be a bit troublesome if the others found out.",
-        "pt": "Dien: Estamos aqui para fazer uma coisinha... não podemos deixar que os outros saberem onde estamos.",
-        "es": "Dien: Estamos aquí para hacer una cosita… no podemos dejar que los demás sepan dónde estamos."
+        "ko-KR": "디엔: 저희가 지금 좀 할 일이 있어서 왔는데… 애들한테 알려지면 좀 곤란해서요.",
+        "en-US": "Dien: We're here because we have something to take care of right now... It would be a bit troublesome if the others found out.",
+        "pt-BR": "Dien: Estamos aqui para fazer uma coisinha... não podemos deixar que os outros saberem onde estamos.",
+        "es-ES": "Dien: Estamos aquí para hacer una cosita… no podemos dejar que los demás sepan dónde estamos."
     },
     "azjEBw": {
-        "ko": "[디엔]\n저희를 여기서 본 걸 비밀로 해주시면…",
-        "en": "[Dien]\nIf you keep it a secret that you saw us here…",
-        "pt": "[Dien]\nPor favor, não conte para ninguém que nos viu aqui...",
-        "es": "[Dien]\nPor favor, no le digas a nadie que nos viste aquí…"
+        "ko-KR": "[디엔]\n저희를 여기서 본 걸 비밀로 해주시면…",
+        "en-US": "[Dien]\nIf you keep it a secret that you saw us here…",
+        "pt-BR": "[Dien]\nPor favor, não conte para ninguém que nos viu aqui...",
+        "es-ES": "[Dien]\nPor favor, no le digas a nadie que nos viste aquí…"
     },
     "bDjEBw": {
-        "ko": "디엔: 저희를 여기서 본 걸 비밀로 해주시면…",
-        "en": "Dien: If you keep it a secret that you saw us here…",
-        "pt": "Dien: Por favor, não conte para ninguém que nos viu aqui...",
-        "es": "Dien: Por favor, no le digas a nadie que nos viste aquí…"
+        "ko-KR": "디엔: 저희를 여기서 본 걸 비밀로 해주시면…",
+        "en-US": "Dien: If you keep it a secret that you saw us here…",
+        "pt-BR": "Dien: Por favor, não conte para ninguém que nos viu aqui...",
+        "es-ES": "Dien: Por favor, no le digas a nadie que nos viste aquí…"
     },
     "bTjEBw": {
-        "ko": "[리드쉬]\n언니~~\n이야기하고 있는데 부수면 어떡해!",
-        "en": "[Ridsh]\nSis~~\nHow could you break it while we were talking!",
-        "pt": "[Ridsh]\nMulher, pelo amor de Deus.\nVocê tinha que fazer isso enquanto a gente conversava?!",
-        "es": "[Ridsh]\nMujer, por el amor de Dios.\n¿Tenías que hacer eso mientras hablábamos?"
+        "ko-KR": "[리드쉬]\n언니~~\n이야기하고 있는데 부수면 어떡해!",
+        "en-US": "[Ridsh]\nSis~~\nHow could you break it while we were talking!",
+        "pt-BR": "[Ridsh]\nMulher, pelo amor de Deus.\nVocê tinha que fazer isso enquanto a gente conversava?!",
+        "es-ES": "[Ridsh]\nMujer, por el amor de Dios.\n¿Tenías que hacer eso mientras hablábamos?"
     },
     "bjjEBw": {
-        "ko": "리드쉬: 언니~~ 이야기하고 있는데 부수면 어떡해!",
-        "en": "Ridsh: Sis~~ How could you break it while we were talking!",
-        "pt": "Ridsh: Mulher, pelo amor de Deus. Você tinha que fazer isso enquanto a gente conversava?!",
-        "es": "Ridsh: Mujer, por el amor de Dios. ¿Tenías que hacer eso mientras hablábamos?"
+        "ko-KR": "리드쉬: 언니~~ 이야기하고 있는데 부수면 어떡해!",
+        "en-US": "Ridsh: Sis~~ How could you break it while we were talking!",
+        "pt-BR": "Ridsh: Mulher, pelo amor de Deus. Você tinha que fazer isso enquanto a gente conversava?!",
+        "es-ES": "Ridsh: Mujer, por el amor de Dios. ¿Tenías que hacer eso mientras hablábamos?"
     },
     "bzjEBw": {
-        "ko": "[코트네스]\n어머~\n그래?\n못 봤다 얘~",
-        "en": "[Cotness]\nOh my~\nReally?\nI didn't see that, dear~",
-        "pt": "[Cotness]\nOh~\nVocê estava?\nEu não vi~",
-        "es": "[Cotness]\nOh~\n¿Estabas ahí?\nNo te vi~"
+        "ko-KR": "[코트네스]\n어머~\n그래?\n못 봤다 얘~",
+        "en-US": "[Cotness]\nOh my~\nReally?\nI didn't see that, dear~",
+        "pt-BR": "[Cotness]\nOh~\nVocê estava?\nEu não vi~",
+        "es-ES": "[Cotness]\nOh~\n¿Estabas ahí?\nNo te vi~"
     },
     "cDjEBw": {
-        "ko": "코트네스: 어머! 그래? 못 봤다 얘~",
-        "en": "Cotness: Oh my! Really? I didn't see that~",
-        "pt": "Cotness: Oh~ Você estava? Eu não vi~",
-        "es": "Cotness: Oh~ ¿Estabas ahí? No te vi~"
+        "ko-KR": "코트네스: 어머! 그래? 못 봤다 얘~",
+        "en-US": "Cotness: Oh my! Really? I didn't see that~",
+        "pt-BR": "Cotness: Oh~ Você estava? Eu não vi~",
+        "es-ES": "Cotness: Oh~ ¿Estabas ahí? No te vi~"
     },
     "cTjEBw": {
-        "ko": "[코트네스]\n그런데 어쩌지?\n벌써 몰려오고 있는데.",
-        "en": "[Cotness]\nBut what should we do?\nThey're already coming this way.",
-        "pt": "[Cotness]\nDesculpem-me.\nMas eu já estou abrindo caminho.",
-        "es": "[Cotness]\nDiscúlpenme.\nPero ya estoy abriendo camino."
+        "ko-KR": "[코트네스]\n그런데 어쩌지?\n벌써 몰려오고 있는데.",
+        "en-US": "[Cotness]\nBut what should we do?\nThey're already coming this way.",
+        "pt-BR": "[Cotness]\nDesculpem-me.\nMas eu já estou abrindo caminho.",
+        "es-ES": "[Cotness]\nDiscúlpenme.\nPero ya estoy abriendo camino."
     },
     "cjjEBw": {
-        "ko": "코트네스: 그런데 어쩌지? 벌써 몰려오고 있는데.",
-        "en": "Cotness: But what should we do? They're already coming this way.",
-        "pt": "Cotness: Desculpem-me. Mas eu já estou abrindo caminho.",
-        "es": "Cotness: Discúlpenme. Pero ya estoy abriendo camino."
+        "ko-KR": "코트네스: 그런데 어쩌지? 벌써 몰려오고 있는데.",
+        "en-US": "Cotness: But what should we do? They're already coming this way.",
+        "pt-BR": "Cotness: Desculpem-me. Mas eu já estou abrindo caminho.",
+        "es-ES": "Cotness: Discúlpenme. Pero ya estoy abriendo camino."
     },
     "czjEBw": {
-        "ko": "[리드쉬]\n어쩔 수 없네~~\n이왕 이렇게 된 거 같이 가줘야겠어.",
-        "en": "[Ridsh]\nI guess there's no other choice~~\nSince it's come to this, I'll have to go with you.",
-        "pt": "[Ridsh]\nBom~\nSe é assim, você vai ter que vir junto com a gente.",
-        "es": "[Ridsh]\nBueno~\nSi es así, tendrás que venir con nosotras."
+        "ko-KR": "[리드쉬]\n어쩔 수 없네~~\n이왕 이렇게 된 거 같이 가줘야겠어.",
+        "en-US": "[Ridsh]\nI guess there's no other choice~~\nSince it's come to this, I'll have to go with you.",
+        "pt-BR": "[Ridsh]\nBom~\nSe é assim, você vai ter que vir junto com a gente.",
+        "es-ES": "[Ridsh]\nBueno~\nSi es así, tendrás que venir con nosotras."
     },
     "dDjEBw": {
-        "ko": "리드쉬: 어쩔 수 없네~~ 이왕 이렇게 된 거 같이 가줘야 겠어.",
-        "en": "Ridsh: I guess there's no other choice~~ Since it's come to this, I'll have to go with you.",
-        "pt": "Ridsh: Bom~ Se é assim, você vai ter que vir junto com a gente.",
-        "es": "Ridsh: Bueno~ Si es así, tendrás que venir con nosotras."
+        "ko-KR": "리드쉬: 어쩔 수 없네~~ 이왕 이렇게 된 거 같이 가줘야 겠어.",
+        "en-US": "Ridsh: I guess there's no other choice~~ Since it's come to this, I'll have to go with you.",
+        "pt-BR": "Ridsh: Bom~ Se é assim, você vai ter que vir junto com a gente.",
+        "es-ES": "Ridsh: Bueno~ Si es así, tendrás que venir con nosotras."
     },
     "dTjEBw": {
-        "ko": "[디엔]\n위험하니까 잘 따라와요.",
-        "en": "[Dien]\nIt's dangerous, so stay close to me.",
-        "pt": "[Dien]\nÉ perigoso, fique perto da gente.",
-        "es": "[Dien]\nEs peligroso, mantente cerca de nosotras."
+        "ko-KR": "[디엔]\n위험하니까 잘 따라와요.",
+        "en-US": "[Dien]\nIt's dangerous, so stay close to me.",
+        "pt-BR": "[Dien]\nÉ perigoso, fique perto da gente.",
+        "es-ES": "[Dien]\nEs peligroso, mantente cerca de nosotras."
     },
     "djjEBw": {
-        "ko": "디엔: 위험하니까 잘 따라와요.",
-        "en": "Dien: It's dangerous, so stay close to me.",
-        "pt": "Dien: É perigoso, fique perto da gente.",
-        "es": "Dien: Es peligroso, mantente cerca de nosotras."
+        "ko-KR": "디엔: 위험하니까 잘 따라와요.",
+        "en-US": "Dien: It's dangerous, so stay close to me.",
+        "pt-BR": "Dien: É perigoso, fique perto da gente.",
+        "es-ES": "Dien: Es peligroso, mantente cerca de nosotras."
     },
     "dzjEBw": {
-        "ko": "[리드쉬]\n파티로 움직일 때는 파티장의 말을 듣는 게 좋아.\n다들 하고싶은 대로만 하다간 엉망진창이 되어 버릴 거라구.",
-        "en": "[Ridsh]\nWhen you're moving as a party, it's best to listen to the party leader.\nIf everyone just does whatever they want, things will end up a complete mess.",
-        "pt": "[Ridsh]\nQuando você estiver em um grupo, deixe que o líder tome as decisões.\nSe todos fizerem o que querem, vai ser uma bagunça.",
-        "es": "[Ridsh]\nCuando estés en un grupo, deja que el líder tome las decisiones.\nSi todos hacen lo que quieren, será un caos."
+        "ko-KR": "[리드쉬]\n파티로 움직일 때는 파티장의 말을 듣는 게 좋아.\n다들 하고싶은 대로만 하다간 엉망진창이 되어 버릴 거라구.",
+        "en-US": "[Ridsh]\nWhen you're moving as a party, it's best to listen to the party leader.\nIf everyone just does whatever they want, things will end up a complete mess.",
+        "pt-BR": "[Ridsh]\nQuando você estiver em um grupo, deixe que o líder tome as decisões.\nSe todos fizerem o que querem, vai ser uma bagunça.",
+        "es-ES": "[Ridsh]\nCuando estés en un grupo, deja que el líder tome las decisiones.\nSi todos hacen lo que quieren, será un caos."
     },
     "eDjEBw": {
-        "ko": "[리드쉬]\n어머?\n여기 있으면 안돼~",
-        "en": "[Ridsh]\nOh my?\nYou shouldn't be here~",
-        "pt": "[Ridsh]\nHã?\nVocê não deveria estar aqui~",
-        "es": "[Ridsh]\n¿Eh?\nNo deberías estar aquí~"
+        "ko-KR": "[리드쉬]\n어머?\n여기 있으면 안돼~",
+        "en-US": "[Ridsh]\nOh my?\nYou shouldn't be here~",
+        "pt-BR": "[Ridsh]\nHã?\nVocê não deveria estar aqui~",
+        "es-ES": "[Ridsh]\n¿Eh?\nNo deberías estar aquí~"
     },
     "eTjEBw": {
-        "ko": "코트네스",
-        "en": "Cotness",
-        "pt": "Cotness",
-        "es": "Cotness"
+        "ko-KR": "코트네스",
+        "en-US": "Cotness",
+        "pt-BR": "Cotness",
+        "es-ES": "Cotness"
     },
     "ejjEBw": {
-        "ko": "코트네스: 이쪽이에요~~",
-        "en": "Cotness: This way~~",
-        "pt": "Cotness: Por aqui~~",
-        "es": "Cotness: Por aquí~~"
+        "ko-KR": "코트네스: 이쪽이에요~~",
+        "en-US": "Cotness: This way~~",
+        "pt-BR": "Cotness: Por aqui~~",
+        "es-ES": "Cotness: Por aquí~~"
     },
     "ezjEBw": {
-        "ko": "디엔: 어머…깜짝이야!",
-        "en": "Dien: Oh my... you startled me!",
-        "pt": "Dien: Ei-- Esperem!",
-        "es": "Dien: ¡Eh— Esperen!"
+        "ko-KR": "디엔: 어머…깜짝이야!",
+        "en-US": "Dien: Oh my... you startled me!",
+        "pt-BR": "Dien: Ei-- Esperem!",
+        "es-ES": "Dien: ¡Eh— Esperen!"
     },
     "fDjEBw": {
-        "ko": "디엔: 이쪽은 우리가 맡을 테니까. 거기 징그러운 놈들 좀 처리해줘요!",
-        "en": "Dien: We'll handle things over here. Please take care of those creepy ones over there!",
-        "pt": "Dien: Nós cuidamos desse lado. Vocês eliminam essas criaturas aí!",
-        "es": "Dien: Nosotras nos encargamos de este lado. ¡Ustedes eliminen a esas criaturas!"
+        "ko-KR": "디엔: 이쪽은 우리가 맡을 테니까. 거기 징그러운 놈들 좀 처리해줘요!",
+        "en-US": "Dien: We'll handle things over here. Please take care of those creepy ones over there!",
+        "pt-BR": "Dien: Nós cuidamos desse lado. Vocês eliminam essas criaturas aí!",
+        "es-ES": "Dien: Nosotras nos encargamos de este lado. ¡Ustedes eliminen a esas criaturas!"
     },
     "fTjEBw": {
-        "ko": "트윈 카푸트",
-        "en": "Twin Kaput",
-        "pt": "Caput",
-        "es": "Gemelos Caput"
+        "ko-KR": "트윈 카푸트",
+        "en-US": "Twin Kaput",
+        "pt-BR": "Caput",
+        "es-ES": "Gemelos Caput"
     },
     "fjjEBw": {
-        "ko": "돌로르",
-        "en": "Dolor",
-        "pt": "Dolor",
-        "es": "Dolor"
+        "ko-KR": "돌로르",
+        "en-US": "Dolor",
+        "pt-BR": "Dolor",
+        "es-ES": "Dolor"
     },
     "fzjEBw": {
-        "ko": "리드쉬 : 우리가 적을 상대할 동안 아래쪽에 있는 기계 좀 꺼줘.",
-        "en": "Ridsh: While we deal with the enemies, please turn off the machine down below.",
-        "pt": "Ridsh: Desligue as máquinas enquanto lidamos com os monstros.",
-        "es": "Ridsh: Apaguen las máquinas mientras lidiamos con los monstruos."
+        "ko-KR": "리드쉬 : 우리가 적을 상대할 동안 아래쪽에 있는 기계 좀 꺼줘.",
+        "en-US": "Ridsh: While we deal with the enemies, please turn off the machine down below.",
+        "pt-BR": "Ridsh: Desligue as máquinas enquanto lidamos com os monstros.",
+        "es-ES": "Ridsh: Apaguen las máquinas mientras lidiamos con los monstruos."
     },
     "gDjEBw": {
-        "ko": "수상한 기계",
-        "en": "Suspicious Machine",
-        "pt": "Máquina Suspeita",
-        "es": "Máquina Sospechosa"
+        "ko-KR": "수상한 기계",
+        "en-US": "Suspicious Machine",
+        "pt-BR": "Máquina Suspeita",
+        "es-ES": "Máquina Sospechosa"
     },
     "gTjEBw": {
-        "ko": "리드쉬 : 좋았어! 다시 철길을 따라 위로 이동하자!",
-        "en": "Ridsh: Alright! Let's move up along the railroad tracks again!",
-        "pt": "Ridsh: Certo! Vamos seguir a ferrovia!",
-        "es": "Ridsh: ¡Bien! ¡Sigamos la vía del tren!"
+        "ko-KR": "리드쉬 : 좋았어! 다시 철길을 따라 위로 이동하자!",
+        "en-US": "Ridsh: Alright! Let's move up along the railroad tracks again!",
+        "pt-BR": "Ridsh: Certo! Vamos seguir a ferrovia!",
+        "es-ES": "Ridsh: ¡Bien! ¡Sigamos la vía del tren!"
     },
     "gjjEBw": {
-        "ko": "- 바닥으로 이어진\n  파이프가 보인다. -",
-        "en": "- You see a pipe leading down to the floor. -",
-        "pt": "- Há um cano conectado no chão -\nO que quer fazer?",
-        "es": "- Hay una tubería conectada al suelo -\n¿Qué quieres hacer?"
+        "ko-KR": "- 바닥으로 이어진\n  파이프가 보인다. -",
+        "en-US": "- You see a pipe leading down to the floor. -",
+        "pt-BR": "- Há um cano conectado no chão -\nO que quer fazer?",
+        "es-ES": "- Hay una tubería conectada al suelo -\n¿Qué quieres hacer?"
     },
     "gzjEBw": {
-        "ko": "부순다.",
-        "en": "Breaks it.",
-        "pt": "Destruir.",
-        "es": "Destruir."
+        "ko-KR": "부순다.",
+        "en-US": "Breaks it.",
+        "pt-BR": "Destruir.",
+        "es-ES": "Destruir."
     },
     "hDjEBw": {
-        "ko": "그냥 둔다.",
-        "en": "Leave it as is.",
-        "pt": "Ignorar.",
-        "es": "Ignorar."
+        "ko-KR": "그냥 둔다.",
+        "en-US": "Leave it as is.",
+        "pt-BR": "Ignorar.",
+        "es-ES": "Ignorar."
     },
     "hTjEBw": {
-        "ko": "- 파이프를 부수자\n  기이한 소음을 내며\n  기계가 멈췄다. -",
-        "en": "- Let's break the pipe.\n  With a strange noise,\n  the machine stopped. -",
-        "pt": "- Você destruiu o cano -\n- a máquina fez um barulho -\n- mas parou de funcionar -",
-        "es": "- Destruiste la tubería -\n- la máquina hizo un ruido -\n- pero dejó de funcionar -"
+        "ko-KR": "- 파이프를 부수자\n  기이한 소음을 내며\n  기계가 멈췄다. -",
+        "en-US": "- Let's break the pipe.\n  With a strange noise,\n  the machine stopped. -",
+        "pt-BR": "- Você destruiu o cano -\n- a máquina fez um barulho -\n- mas parou de funcionar -",
+        "es-ES": "- Destruiste la tubería -\n- la máquina hizo un ruido -\n- pero dejó de funcionar -"
     },
     "hjjEBw": {
-        "ko": "- 아무 일도\n  일어나지 않았다. -",
-        "en": "- Nothing happened. -",
-        "pt": "- Você decidiu ignorar e -\n- nada aconteceu -",
-        "es": "- Decidiste ignorarla y -\n- no pasó nada -"
+        "ko-KR": "- 아무 일도\n  일어나지 않았다. -",
+        "en-US": "- Nothing happened. -",
+        "pt-BR": "- Você decidiu ignorar e -\n- nada aconteceu -",
+        "es-ES": "- Decidiste ignorarla y -\n- no pasó nada -"
     },
     "hzjEBw": {
-        "ko": "위험해 보이는 기계",
-        "en": "A machine that looks dangerous",
-        "pt": "Máquina Perigosa",
-        "es": "Máquina Peligrosa"
+        "ko-KR": "위험해 보이는 기계",
+        "en-US": "A machine that looks dangerous",
+        "pt-BR": "Máquina Perigosa",
+        "es-ES": "Máquina Peligrosa"
     },
     "iDjEBw": {
-        "ko": "[디엔]\n어머! 과연 버려진 폐광이라고 생각되지 않는 정밀한 장치네요.",
-        "en": "[Dien]\nOh my! This is such a precise device, it's hard to believe it's from an abandoned mine.",
-        "pt": "[Dien]\nHmmm! Essa máquina não combina com uma mineradora abandonada.",
-        "es": "[Dien]\n¡Hmmm! Esta máquina no encaja con una mina abandonada."
+        "ko-KR": "[디엔]\n어머! 과연 버려진 폐광이라고 생각되지 않는 정밀한 장치네요.",
+        "en-US": "[Dien]\nOh my! This is such a precise device, it's hard to believe it's from an abandoned mine.",
+        "pt-BR": "[Dien]\nHmmm! Essa máquina não combina com uma mineradora abandonada.",
+        "es-ES": "[Dien]\n¡Hmmm! Esta máquina no encaja con una mina abandonada."
     },
     "iTjEBw": {
-        "ko": "[디엔]\n반대쪽에 있는 기계를 망가뜨리지 않으면 지나갈 수 없겠어요!",
-        "en": "[Dien]\nWe won't be able to get through unless we destroy the machine on the other side!",
-        "pt": "[Dien]\nAcho que não conseguiremos avançar sem destruir essa máquina!",
-        "es": "[Dien]\n¡Creo que no podremos avanzar sin destruir esta máquina!"
+        "ko-KR": "[디엔]\n반대쪽에 있는 기계를 망가뜨리지 않으면 지나갈 수 없겠어요!",
+        "en-US": "[Dien]\nWe won't be able to get through unless we destroy the machine on the other side!",
+        "pt-BR": "[Dien]\nAcho que não conseguiremos avançar sem destruir essa máquina!",
+        "es-ES": "[Dien]\n¡Creo que no podremos avanzar sin destruir esta máquina!"
     },
     "ijjEBw": {
-        "ko": "[디엔]\n바로 돌파하기엔 위험 하니까 아래쪽으로 돌아서 기계가 있는 곳으로 들어가죠!",
-        "en": "[Dien]\nIt's too dangerous to break through directly, so let's go around to the lower side and enter where the machine is!",
-        "pt": "[Dien]\nÉ muito perigoso fazer isso direto daqui. Vamos fazer um desvio lá embaixo!",
-        "es": "[Dien]\nEs muy peligroso hacerlo desde aquí. ¡Hagamos un desvío por abajo!"
+        "ko-KR": "[디엔]\n바로 돌파하기엔 위험 하니까 아래쪽으로 돌아서 기계가 있는 곳으로 들어가죠!",
+        "en-US": "[Dien]\nIt's too dangerous to break through directly, so let's go around to the lower side and enter where the machine is!",
+        "pt-BR": "[Dien]\nÉ muito perigoso fazer isso direto daqui. Vamos fazer um desvio lá embaixo!",
+        "es-ES": "[Dien]\nEs muy peligroso hacerlo desde aquí. ¡Hagamos un desvío por abajo!"
     },
     "izjEBw": {
-        "ko": "[디엔]\n어머~\n미안하지만 파티장님이 오시면 가도록 하죠.",
-        "en": "[Dien]\nOh my~\nSorry, but let's wait until the party leader arrives before we go.",
-        "pt": "[Dien]\nOh~\nVamos aguardar a decisão do líder do seu grupo.",
-        "es": "[Dien]\nOh~\nEsperemos la decisión del líder de tu grupo."
+        "ko-KR": "[디엔]\n어머~\n미안하지만 파티장님이 오시면 가도록 하죠.",
+        "en-US": "[Dien]\nOh my~\nSorry, but let's wait until the party leader arrives before we go.",
+        "pt-BR": "[Dien]\nOh~\nVamos aguardar a decisão do líder do seu grupo.",
+        "es-ES": "[Dien]\nOh~\nEsperemos la decisión del líder de tu grupo."
     },
     "jDjEBw": {
-        "ko": "두꺼운 전선",
-        "en": "Thick Wire",
-        "pt": "Fio grosso",
-        "es": "Cable Grueso"
+        "ko-KR": "두꺼운 전선",
+        "en-US": "Thick Wire",
+        "pt-BR": "Fio grosso",
+        "es-ES": "Cable Grueso"
     },
     "jTjEBw": {
-        "ko": "리드쉬 : 아직 기계가 다 꺼지지 않았어. 위를 더 살펴 봐.",
-        "en": "Ridsh: The machines haven't all been shut down yet. Check upstairs some more.",
-        "pt": "Ridsh: Nem todas as máquinas desligaram. Confira outros lugares.",
-        "es": "Ridsh: No todas las máquinas se apagaron. Revisa otros lugares."
+        "ko-KR": "리드쉬 : 아직 기계가 다 꺼지지 않았어. 위를 더 살펴 봐.",
+        "en-US": "Ridsh: The machines haven't all been shut down yet. Check upstairs some more.",
+        "pt-BR": "Ridsh: Nem todas as máquinas desligaram. Confira outros lugares.",
+        "es-ES": "Ridsh: No todas las máquinas se apagaron. Revisa otros lugares."
     },
     "jjjEBw": {
-        "ko": "리드쉬 : 좋아! 길이 열렸다 다시 철길을 따라 위로 이동하자!",
-        "en": "Ridsh: Great! The path is open. Let's follow the railway and move upward again!",
-        "pt": "Ridsh: Perfeito! Um caminho se abriu! Vamos seguir a ferrovia de novo!",
-        "es": "Ridsh: ¡Perfecto! ¡Se abrió un camino! ¡Sigamos la vía del tren otra vez!"
+        "ko-KR": "리드쉬 : 좋아! 길이 열렸다 다시 철길을 따라 위로 이동하자!",
+        "en-US": "Ridsh: Great! The path is open. Let's follow the railway and move upward again!",
+        "pt-BR": "Ridsh: Perfeito! Um caminho se abriu! Vamos seguir a ferrovia de novo!",
+        "es-ES": "Ridsh: ¡Perfecto! ¡Se abrió un camino! ¡Sigamos la vía del tren otra vez!"
     },
     "jzjEBw": {
-        "ko": "디엔: 어머! 과연 버려진 폐광이라고 생각되지 않는 정밀한 장치네요.",
-        "en": "Dien: Oh my! This is such a precise device, it's hard to believe it's from an abandoned mine.",
-        "pt": "Dien: Hmmm! Essa máquina não combina com uma mineradora abandonada.",
-        "es": "Dien: ¡Hmmm! Esta máquina no encaja con una mina abandonada."
+        "ko-KR": "디엔: 어머! 과연 버려진 폐광이라고 생각되지 않는 정밀한 장치네요.",
+        "en-US": "Dien: Oh my! This is such a precise device, it's hard to believe it's from an abandoned mine.",
+        "pt-BR": "Dien: Hmmm! Essa máquina não combina com uma mineradora abandonada.",
+        "es-ES": "Dien: ¡Hmmm! Esta máquina no encaja con una mina abandonada."
     },
     "kDjEBw": {
-        "ko": "디엔: 반대쪽에 있는 기계를 망가뜨리지 않으면 지나갈 수 없겠어요!",
-        "en": "Dien: We won't be able to get through unless we destroy the machine on the other side!",
-        "pt": "Dien: Acho que não conseguiremos avançar sem destruir essa máquina!",
-        "es": "Dien: ¡Creo que no podremos avanzar sin destruir esta máquina!"
+        "ko-KR": "디엔: 반대쪽에 있는 기계를 망가뜨리지 않으면 지나갈 수 없겠어요!",
+        "en-US": "Dien: We won't be able to get through unless we destroy the machine on the other side!",
+        "pt-BR": "Dien: Acho que não conseguiremos avançar sem destruir essa máquina!",
+        "es-ES": "Dien: ¡Creo que no podremos avanzar sin destruir esta máquina!"
     },
     "kTjEBw": {
-        "ko": "디엔: 바로 돌파하기엔 위험 하니까 아래쪽으로 돌아서 기계가 있는 곳으로 들어가죠!",
-        "en": "Dien: It's too dangerous to break through directly, so let's go around below and enter where the machine is!",
-        "pt": "Dien: É muito perigoso fazer isso direto daqui. Vamos fazer um desvio lá embaixo!",
-        "es": "Dien: Es muy peligroso hacerlo desde aquí. ¡Hagamos un desvío por abajo!"
+        "ko-KR": "디엔: 바로 돌파하기엔 위험 하니까 아래쪽으로 돌아서 기계가 있는 곳으로 들어가죠!",
+        "en-US": "Dien: It's too dangerous to break through directly, so let's go around below and enter where the machine is!",
+        "pt-BR": "Dien: É muito perigoso fazer isso direto daqui. Vamos fazer um desvio lá embaixo!",
+        "es-ES": "Dien: Es muy peligroso hacerlo desde aquí. ¡Hagamos un desvío por abajo!"
     },
     "kjjEBw": {
-        "ko": "[디엔]\n어머! 이 앞은 대체 뭘까요?",
-        "en": "[Dien]\nOh my! What could possibly be up ahead?",
-        "pt": "[Dien]\nOh! O que diabos é isso na minha frente?",
-        "es": "[Dien]\n¡Oh! ¿Qué demonios es eso frente a mí?"
+        "ko-KR": "[디엔]\n어머! 이 앞은 대체 뭘까요?",
+        "en-US": "[Dien]\nOh my! What could possibly be up ahead?",
+        "pt-BR": "[Dien]\nOh! O que diabos é isso na minha frente?",
+        "es-ES": "[Dien]\n¡Oh! ¿Qué demonios es eso frente a mí?"
     },
     "kzjEBw": {
-        "ko": "[코트네스]\n이쪽 문은 너무 단단한걸?\n부수려면 시간이 좀 걸리겠어~",
-        "en": "[Cotness]\nThis door is way too sturdy, huh?\nIt'll take some time to break it down~",
-        "pt": "[Cotness]\nEssa porta é bem pesada.\nVou levar um tempo para destruí-la~",
-        "es": "[Cotness]\nEsta puerta es muy pesada.\nMe tomará un tiempo destruirla~"
+        "ko-KR": "[코트네스]\n이쪽 문은 너무 단단한걸?\n부수려면 시간이 좀 걸리겠어~",
+        "en-US": "[Cotness]\nThis door is way too sturdy, huh?\nIt'll take some time to break it down~",
+        "pt-BR": "[Cotness]\nEssa porta é bem pesada.\nVou levar um tempo para destruí-la~",
+        "es-ES": "[Cotness]\nEsta puerta es muy pesada.\nMe tomará un tiempo destruirla~"
     },
     "lDjEBw": {
-        "ko": "코트네스: 이쪽 문은 너무 단단한걸? 부수려면 시간이 좀 걸리겠어~",
-        "en": "Cotness: This door is too sturdy, isn't it? It'll take some time to break it down~",
-        "pt": "Cotness: Essa porta é bem pesada. Vou levar um tempo para destruí-la~",
-        "es": "Cotness: Esta puerta es muy pesada. Me tomará un tiempo destruirla~"
+        "ko-KR": "코트네스: 이쪽 문은 너무 단단한걸? 부수려면 시간이 좀 걸리겠어~",
+        "en-US": "Cotness: This door is too sturdy, isn't it? It'll take some time to break it down~",
+        "pt-BR": "Cotness: Essa porta é bem pesada. Vou levar um tempo para destruí-la~",
+        "es-ES": "Cotness: Esta puerta es muy pesada. Me tomará un tiempo destruirla~"
     },
     "lTjEBw": {
-        "ko": "[디엔]\n어머!\n오른쪽 길로 가면 문을 부수지 않고도 철길로 다시 들어갈 수 있을 것 같아요.",
-        "en": "[Dien]\nOh my!\nIf we take the path to the right, I think we can get back onto the railway without having to break down the door.",
-        "pt": "[Dien]\nOh!\nAcho que podemos contornar a porta se formos à direita da ferrovia.",
-        "es": "[Dien]\n¡Oh!\nCreo que podemos rodear la puerta si vamos a la derecha de la vía."
+        "ko-KR": "[디엔]\n어머!\n오른쪽 길로 가면 문을 부수지 않고도 철길로 다시 들어갈 수 있을 것 같아요.",
+        "en-US": "[Dien]\nOh my!\nIf we take the path to the right, I think we can get back onto the railway without having to break down the door.",
+        "pt-BR": "[Dien]\nOh!\nAcho que podemos contornar a porta se formos à direita da ferrovia.",
+        "es-ES": "[Dien]\n¡Oh!\nCreo que podemos rodear la puerta si vamos a la derecha de la vía."
     },
     "ljjEBw": {
-        "ko": "디엔: 어머! 오른쪽 길로 가면 문을 부수지 않고도 철길로 다시 들어갈 수 있을 것 같아요.",
-        "en": "Dien: Oh! If we take the path to the right, I think we can get back onto the railway without breaking down the door.",
-        "pt": "Dien: Oh! Acho que podemos contornar a porta se formos à direita da ferrovia.",
-        "es": "Dien: ¡Oh! Creo que podemos rodear la puerta si vamos a la derecha de la vía."
+        "ko-KR": "디엔: 어머! 오른쪽 길로 가면 문을 부수지 않고도 철길로 다시 들어갈 수 있을 것 같아요.",
+        "en-US": "Dien: Oh! If we take the path to the right, I think we can get back onto the railway without breaking down the door.",
+        "pt-BR": "Dien: Oh! Acho que podemos contornar a porta se formos à direita da ferrovia.",
+        "es-ES": "Dien: ¡Oh! Creo que podemos rodear la puerta si vamos a la derecha de la vía."
     },
     "lzjEBw": {
-        "ko": "[코트네스]\n파티장님은 안계신가?",
-        "en": "[Cotness]\nIs the party leader not here?",
-        "pt": "[Cotness]\nO líder do grupo está bem?",
-        "es": "[Cotness]\n¿El líder del grupo está bien?"
+        "ko-KR": "[코트네스]\n파티장님은 안계신가?",
+        "en-US": "[Cotness]\nIs the party leader not here?",
+        "pt-BR": "[Cotness]\nO líder do grupo está bem?",
+        "es-ES": "[Cotness]\n¿El líder del grupo está bien?"
     },
     "mDjEBw": {
-        "ko": "[디엔]\n파티장님은 아직 안오셨나요?",
-        "en": "[Dien]\nHas the party leader not arrived yet?",
-        "pt": "[Dien]\nO líder do grupo ainda não está aqui?",
-        "es": "[Dien]\n¿El líder del grupo aún no ha llegado?"
+        "ko-KR": "[디엔]\n파티장님은 아직 안오셨나요?",
+        "en-US": "[Dien]\nHas the party leader not arrived yet?",
+        "pt-BR": "[Dien]\nO líder do grupo ainda não está aqui?",
+        "es-ES": "[Dien]\n¿El líder del grupo aún no ha llegado?"
     },
     "mTjEBw": {
-        "ko": "[디엔]\n이쪽 보다는 오른쪽 길로 가는게 좋을 것 같아요.",
-        "en": "[Dien]\nI think it would be better to take the path on the right rather than this way.",
-        "pt": "[Dien]\nAcho que deveríamos seguir pela direita ao invés de vir por aqui.",
-        "es": "[Dien]\nCreo que deberíamos ir por la derecha en lugar de venir por aquí."
+        "ko-KR": "[디엔]\n이쪽 보다는 오른쪽 길로 가는게 좋을 것 같아요.",
+        "en-US": "[Dien]\nI think it would be better to take the path on the right rather than this way.",
+        "pt-BR": "[Dien]\nAcho que deveríamos seguir pela direita ao invés de vir por aqui.",
+        "es-ES": "[Dien]\nCreo que deberíamos ir por la derecha en lugar de venir por aquí."
     },
     "mjjEBw": {
-        "ko": "디엔: 이쪽 보다는 오른쪽 길로 가는게 좋을 것 같아요.",
-        "en": "Dien: I think it would be better to take the path on the right rather than this way.",
-        "pt": "Dien: Acho que deveríamos seguir pela direita ao invés de vir por aqui.",
-        "es": "Dien: Creo que deberíamos ir por la derecha en lugar de venir por aquí."
+        "ko-KR": "디엔: 이쪽 보다는 오른쪽 길로 가는게 좋을 것 같아요.",
+        "en-US": "Dien: I think it would be better to take the path on the right rather than this way.",
+        "pt-BR": "Dien: Acho que deveríamos seguir pela direita ao invés de vir por aqui.",
+        "es-ES": "Dien: Creo que deberíamos ir por la derecha en lugar de venir por aquí."
     },
     "mzjEBw": {
-        "ko": "[리드쉬]\n꺄악!",
-        "en": "[Ridsh]\nEek!",
-        "pt": "[Ridsh]\n*Grito*",
-        "es": "[Ridsh]\n*Grito*"
+        "ko-KR": "[리드쉬]\n꺄악!",
+        "en-US": "[Ridsh]\nEek!",
+        "pt-BR": "[Ridsh]\n*Grito*",
+        "es-ES": "[Ridsh]\n*Grito*"
     },
     "nDjEBw": {
-        "ko": "리드쉬: 꺄악!",
-        "en": "Ridsh: Kyaa!",
-        "pt": "Ridsh: *Grito*",
-        "es": "Ridsh: *Grito*"
+        "ko-KR": "리드쉬: 꺄악!",
+        "en-US": "Ridsh: Kyaa!",
+        "pt-BR": "Ridsh: *Grito*",
+        "es-ES": "Ridsh: *Grito*"
     },
     "nTjEBw": {
-        "ko": "[에스트]\n이런…\n슬금슬금 어딜 몰래 가시나 했더니 이런 곳에서 뭘 하는 건가요?",
-        "en": "[Est]\nOh my...\nI was wondering where you were sneaking off to, and it turns out you’re doing something here?",
-        "pt": "[Est]\nOra, ora...\nO que as veteranas da Rebelião fazem se esgueirando por aqui?",
-        "es": "[Est]\nVaya, vaya…\n¿Qué hacen las veteranas de la Rebelión escabulléndose por aquí?"
+        "ko-KR": "[에스트]\n이런…\n슬금슬금 어딜 몰래 가시나 했더니 이런 곳에서 뭘 하는 건가요?",
+        "en-US": "[Est]\nOh my...\nI was wondering where you were sneaking off to, and it turns out you’re doing something here?",
+        "pt-BR": "[Est]\nOra, ora...\nO que as veteranas da Rebelião fazem se esgueirando por aqui?",
+        "es-ES": "[Est]\nVaya, vaya…\n¿Qué hacen las veteranas de la Rebelión escabulléndose por aquí?"
     },
     "njjEBw": {
-        "ko": "에스트: 슬금슬금 어딜 몰래 가시나 했더니 이런 곳에서 뭘 하는 건가요?",
-        "en": "Est: I was wondering where you were sneaking off to, and it turns out you’re doing something here?",
-        "pt": "Est: Ora, ora... O que as veteranas da Rebelião fazem se esgueirando por aqui?",
-        "es": "Est: Vaya, vaya… ¿Qué hacen las veteranas de la Rebelión escabulléndose por aquí?"
+        "ko-KR": "에스트: 슬금슬금 어딜 몰래 가시나 했더니 이런 곳에서 뭘 하는 건가요?",
+        "en-US": "Est: I was wondering where you were sneaking off to, and it turns out you’re doing something here?",
+        "pt-BR": "Est: Ora, ora... O que as veteranas da Rebelião fazem se esgueirando por aqui?",
+        "es-ES": "Est: Vaya, vaya… ¿Qué hacen las veteranas de la Rebelión escabulléndose por aquí?"
     },
     "nzjEBw": {
-        "ko": "[에스트]\n괜히 문제 일으키지 마시고 돌아가서 우아하게 홍차나 드세요.",
-        "en": "[Est]\nPlease don't cause any unnecessary trouble. Just go back and enjoy your tea gracefully.",
-        "pt": "[Est]\nSaiam daqui! Voltem pra fila do INSS!",
-        "es": "[Est]\n¡Fuera de aquí! ¡Vuelvan a hacer fila en la pensión!"
+        "ko-KR": "[에스트]\n괜히 문제 일으키지 마시고 돌아가서 우아하게 홍차나 드세요.",
+        "en-US": "[Est]\nPlease don't cause any unnecessary trouble. Just go back and enjoy your tea gracefully.",
+        "pt-BR": "[Est]\nSaiam daqui! Voltem pra fila do INSS!",
+        "es-ES": "[Est]\n¡Fuera de aquí! ¡Vuelvan a hacer fila en la pensión!"
     },
     "oDjEBw": {
-        "ko": "에스트: 괜히 문제 일으키지 마시고 돌아가서 우아하게 홍차나 드세요.",
-        "en": "Est: Please don't cause any unnecessary trouble. Just go back and enjoy your tea with grace.",
-        "pt": "Est: Saiam daqui! Voltem pra fila do INSS!",
-        "es": "Est: ¡Fuera de aquí! ¡Vuelvan a hacer fila en la pensión!"
+        "ko-KR": "에스트: 괜히 문제 일으키지 마시고 돌아가서 우아하게 홍차나 드세요.",
+        "en-US": "Est: Please don't cause any unnecessary trouble. Just go back and enjoy your tea with grace.",
+        "pt-BR": "Est: Saiam daqui! Voltem pra fila do INSS!",
+        "es-ES": "Est: ¡Fuera de aquí! ¡Vuelvan a hacer fila en la pensión!"
     },
     "oTjEBw": {
-        "ko": "[리드쉬]\n흥!\n그러는 너도 어차피 몰래 온 거 아냐?",
-        "en": "[Ridsh]\nHmph!\nAren't you sneaking around here too?",
-        "pt": "[Ridsh]\nQuieta!\nVocê não veio escondida aqui, também?",
-        "es": "[Ridsh]\n¡Cállate!\n¿Tú también viniste aquí a escondidas?"
+        "ko-KR": "[리드쉬]\n흥!\n그러는 너도 어차피 몰래 온 거 아냐?",
+        "en-US": "[Ridsh]\nHmph!\nAren't you sneaking around here too?",
+        "pt-BR": "[Ridsh]\nQuieta!\nVocê não veio escondida aqui, também?",
+        "es-ES": "[Ridsh]\n¡Cállate!\n¿Tú también viniste aquí a escondidas?"
     },
     "ojjEBw": {
-        "ko": "리드쉬: 흥! 그러는 너도 어차피 몰래 온 거 아냐?",
-        "en": "Ridsh: Hmph! Aren't you sneaking around here as well?",
-        "pt": "Ridsh: Quieta! Você não veio escondida aqui, também?",
-        "es": "Ridsh: ¡Cállate! ¿Tú también viniste aquí a escondidas?"
+        "ko-KR": "리드쉬: 흥! 그러는 너도 어차피 몰래 온 거 아냐?",
+        "en-US": "Ridsh: Hmph! Aren't you sneaking around here as well?",
+        "pt-BR": "Ridsh: Quieta! Você não veio escondida aqui, também?",
+        "es-ES": "Ridsh: ¡Cállate! ¿Tú también viniste aquí a escondidas?"
     },
     "ozjEBw": {
-        "ko": "[에스트]\n감시 차 따라온 것뿐입니다.\n잠깐만 눈을 떼도 사고를 치시니 어디 걱정이 돼서 가만히 있을 수 있어야지요.",
-        "en": "[Est]\nI just followed the surveillance car.\nYou always get into trouble the moment I take my eyes off you, so of course I can't just sit back and not worry.",
-        "pt": "[Est]\nApenas segui vocês.\nApesar de idosas, vocês vivem se metendo em confusão porque não sossegam.",
-        "es": "[Est]\nSolo las seguí.\nA pesar de ser mayores, siempre se meten en problemas porque no se quedan quietas."
+        "ko-KR": "[에스트]\n감시 차 따라온 것뿐입니다.\n잠깐만 눈을 떼도 사고를 치시니 어디 걱정이 돼서 가만히 있을 수 있어야지요.",
+        "en-US": "[Est]\nI just followed the surveillance car.\nYou always get into trouble the moment I take my eyes off you, so of course I can't just sit back and not worry.",
+        "pt-BR": "[Est]\nApenas segui vocês.\nApesar de idosas, vocês vivem se metendo em confusão porque não sossegam.",
+        "es-ES": "[Est]\nSolo las seguí.\nA pesar de ser mayores, siempre se meten en problemas porque no se quedan quietas."
     },
     "pDjEBw": {
-        "ko": "에스트: 감시 차 따라온 것뿐입니다.",
-        "en": "Est: I just followed the surveillance car.",
-        "pt": "Est: Apenas segui vocês.",
-        "es": "Est: Solo las seguí."
+        "ko-KR": "에스트: 감시 차 따라온 것뿐입니다.",
+        "en-US": "Est: I just followed the surveillance car.",
+        "pt-BR": "Est: Apenas segui vocês.",
+        "es-ES": "Est: Solo las seguí."
     },
     "pTjEBw": {
-        "ko": "에스트: 잠깐만 눈을 떼도 사고를 치시니 어디 걱정이 돼서 가만히 있을 수 있어야지요.",
-        "en": "Est: I can't take my eyes off you for even a moment without you getting into trouble, so of course I can't just sit back without worrying.",
-        "pt": "Est: Apesar de idosas, vocês vivem se metendo em confusão porque não sossegam.",
-        "es": "Est: A pesar de ser mayores, siempre se meten en problemas porque no se quedan quietas."
+        "ko-KR": "에스트: 잠깐만 눈을 떼도 사고를 치시니 어디 걱정이 돼서 가만히 있을 수 있어야지요.",
+        "en-US": "Est: I can't take my eyes off you for even a moment without you getting into trouble, so of course I can't just sit back without worrying.",
+        "pt-BR": "Est: Apesar de idosas, vocês vivem se metendo em confusão porque não sossegam.",
+        "es-ES": "Est: A pesar de ser mayores, siempre se meten en problemas porque no se quedan quietas."
     },
     "pjjEBw": {
-        "ko": "[리드쉬]\n네 도움 같은 거 필요 없거든?",
-        "en": "[Ridsh]\nI don't need your help, okay?",
-        "pt": "[Ridsh]\nNós não precisamos da sua ajuda, ok?",
-        "es": "[Ridsh]\nNo necesitamos tu ayuda, ¿ok?"
+        "ko-KR": "[리드쉬]\n네 도움 같은 거 필요 없거든?",
+        "en-US": "[Ridsh]\nI don't need your help, okay?",
+        "pt-BR": "[Ridsh]\nNós não precisamos da sua ajuda, ok?",
+        "es-ES": "[Ridsh]\nNo necesitamos tu ayuda, ¿ok?"
     },
     "pzjEBw": {
-        "ko": "리드쉬: 네 도움 같은 거 필요 없거든?",
-        "en": "Ridsh: I don't need your help, okay?",
-        "pt": "Ridsh: Nós não precisamos da sua ajuda, ok?",
-        "es": "Ridsh: No necesitamos tu ayuda, ¿ok?"
+        "ko-KR": "리드쉬: 네 도움 같은 거 필요 없거든?",
+        "en-US": "Ridsh: I don't need your help, okay?",
+        "pt-BR": "Ridsh: Nós não precisamos da sua ajuda, ok?",
+        "es-ES": "Ridsh: No necesitamos tu ayuda, ¿ok?"
     },
     "qDjEBw": {
-        "ko": "[에스트]\n방금 꺄악이라고 하지 않았나요?\n잘못들은 것 같지는 않은데 말이죠?",
-        "en": "[Est]\nDidn't you just scream \"kyaa\"?  \nI'm pretty sure I didn't mishear it, you know?",
-        "pt": "[Est]\nMas você não gritou?\nOuvi muito bem seu gritinho.",
-        "es": "[Est]\n¿Pero no gritaste?\nEscuché perfectamente tu gritito."
+        "ko-KR": "[에스트]\n방금 꺄악이라고 하지 않았나요?\n잘못들은 것 같지는 않은데 말이죠?",
+        "en-US": "[Est]\nDidn't you just scream \"kyaa\"?  \nI'm pretty sure I didn't mishear it, you know?",
+        "pt-BR": "[Est]\nMas você não gritou?\nOuvi muito bem seu gritinho.",
+        "es-ES": "[Est]\n¿Pero no gritaste?\nEscuché perfectamente tu gritito."
     },
     "qTjEBw": {
-        "ko": "에스트: 방금 꺄악이라고 하지 않았나요? 잘못들은 것 같지는 않은데 말이죠?",
-        "en": "Est: Didn't you just scream \"kyaa\"? I don't think I misheard it, did I?",
-        "pt": "Est: Mas você não gritou? Ouvi muito bem seu gritinho.",
-        "es": "Est: ¿Pero no gritaste? Escuché perfectamente tu gritito."
+        "ko-KR": "에스트: 방금 꺄악이라고 하지 않았나요? 잘못들은 것 같지는 않은데 말이죠?",
+        "en-US": "Est: Didn't you just scream \"kyaa\"? I don't think I misheard it, did I?",
+        "pt-BR": "Est: Mas você não gritou? Ouvi muito bem seu gritinho.",
+        "es-ES": "Est: ¿Pero no gritaste? Escuché perfectamente tu gritito."
     },
     "qjjEBw": {
-        "ko": "[코트네스]\n얘들이 정말~~\n그만 좀 싸워라.",
-        "en": "[Cotness]\nYou guys, seriously~~\nStop fighting already.",
-        "pt": "[Cotness]\nCalma, meninas~\nParem de se bicar.",
-        "es": "[Cotness]\nTranquilas, chicas~\nDejen de pelear."
+        "ko-KR": "[코트네스]\n얘들이 정말~~\n그만 좀 싸워라.",
+        "en-US": "[Cotness]\nYou guys, seriously~~\nStop fighting already.",
+        "pt-BR": "[Cotness]\nCalma, meninas~\nParem de se bicar.",
+        "es-ES": "[Cotness]\nTranquilas, chicas~\nDejen de pelear."
     },
     "qzjEBw": {
-        "ko": "코트네스: 얘들이 정말~~ 그만 좀 싸워라.",
-        "en": "Cotness: You guys, seriously~~ stop fighting already.",
-        "pt": "Cotness: Calma, meninas~ Parem de se bicar.",
-        "es": "Cotness: Tranquilas, chicas~ Dejen de pelear."
+        "ko-KR": "코트네스: 얘들이 정말~~ 그만 좀 싸워라.",
+        "en-US": "Cotness: You guys, seriously~~ stop fighting already.",
+        "pt-BR": "Cotness: Calma, meninas~ Parem de se bicar.",
+        "es-ES": "Cotness: Tranquilas, chicas~ Dejen de pelear."
     },
     "rDjEBw": {
-        "ko": "[디엔]\n어떻게 그렇게 볼 때마다 싸우니?",
-        "en": "[Dien]\nHow do you end up fighting every time you see each other?",
-        "pt": "[Dien]\nFico pasma com a energia que vocês têm para discutir.",
-        "es": "[Dien]\nMe asombra la energía que tienen para discutir."
+        "ko-KR": "[디엔]\n어떻게 그렇게 볼 때마다 싸우니?",
+        "en-US": "[Dien]\nHow do you end up fighting every time you see each other?",
+        "pt-BR": "[Dien]\nFico pasma com a energia que vocês têm para discutir.",
+        "es-ES": "[Dien]\nMe asombra la energía que tienen para discutir."
     },
     "rTjEBw": {
-        "ko": "디엔: 어떻게 그렇게 볼 때마다 싸우니?",
-        "en": "Dien: Why do you always end up fighting every time you see each other?",
-        "pt": "Dien: Fico pasma com a energia que vocês têm para discutir.",
-        "es": "Dien: Me asombra la energía que tienen para discutir."
+        "ko-KR": "디엔: 어떻게 그렇게 볼 때마다 싸우니?",
+        "en-US": "Dien: Why do you always end up fighting every time you see each other?",
+        "pt-BR": "Dien: Fico pasma com a energia que vocês têm para discutir.",
+        "es-ES": "Dien: Me asombra la energía que tienen para discutir."
     },
     "rjjEBw": {
-        "ko": "[코트네스]\n그러게 기운도 좋다니까~\n난 나이가 들어서 그런지 싸우기도 귀찮더라.",
-        "en": "[Cotness]\nYou really are full of energy~\nMaybe it's because I'm getting older, but I just can't be bothered to fight anymore.",
-        "pt": "[Cotness]\nEu também~\nEu tenho preguiça dessas duas.",
-        "es": "[Cotness]\nYo también~\nMe da pereza escuchar a estas dos."
+        "ko-KR": "[코트네스]\n그러게 기운도 좋다니까~\n난 나이가 들어서 그런지 싸우기도 귀찮더라.",
+        "en-US": "[Cotness]\nYou really are full of energy~\nMaybe it's because I'm getting older, but I just can't be bothered to fight anymore.",
+        "pt-BR": "[Cotness]\nEu também~\nEu tenho preguiça dessas duas.",
+        "es-ES": "[Cotness]\nYo también~\nMe da pereza escuchar a estas dos."
     },
     "rzjEBw": {
-        "ko": "코트네스: 그러게 기운도 좋다니까~ 난 나이가 들어서 그런지 싸우기도 귀찮더라.",
-        "en": "Cotness: You're right, you sure have a lot of energy~ Maybe it's because I'm getting older, but I find fighting to be such a bother these days.",
-        "pt": "Cotness: Eu também~ Eu tenho preguiça dessas duas.",
-        "es": "Cotness: Yo también~ Me da pereza escuchar a estas dos."
+        "ko-KR": "코트네스: 그러게 기운도 좋다니까~ 난 나이가 들어서 그런지 싸우기도 귀찮더라.",
+        "en-US": "Cotness: You're right, you sure have a lot of energy~ Maybe it's because I'm getting older, but I find fighting to be such a bother these days.",
+        "pt-BR": "Cotness: Eu também~ Eu tenho preguiça dessas duas.",
+        "es-ES": "Cotness: Yo también~ Me da pereza escuchar a estas dos."
     },
     "sDjEBw": {
-        "ko": "[디엔]\n언니도 그래?",
-        "en": "[Dien]Do you feel the same way, too, sis?",
-        "pt": "[Dien]\nConcordo.",
-        "es": "[Dien]\nEstoy de acuerdo."
+        "ko-KR": "[디엔]\n언니도 그래?",
+        "en-US": "[Dien]Do you feel the same way, too, sis?",
+        "pt-BR": "[Dien]\nConcordo.",
+        "es-ES": "[Dien]\nEstoy de acuerdo."
     },
     "sTjEBw": {
-        "ko": "디엔: 언니도 그래?",
-        "en": "Dien: You feel the same way, sis?",
-        "pt": "Dien: Concordo.",
-        "es": "Dien: Estoy de acuerdo."
+        "ko-KR": "디엔: 언니도 그래?",
+        "en-US": "Dien: You feel the same way, sis?",
+        "pt-BR": "Dien: Concordo.",
+        "es-ES": "Dien: Estoy de acuerdo."
     },
     "sjjEBw": {
-        "ko": "[코트네스]\n그래~\n피곤하니까 얼른 끝내고 돌아가자.\n이쪽에 길 열렸어.",
-        "en": "[Cotness]\nYeah~\nI'm tired, so let's finish up quickly and head back.\nThe path has opened up over here.",
-        "pt": "[Cotness]\nEnfim~\nEstou cansada, vamos terminar isso logo.\nA passagem está aberta por aqui.",
-        "es": "[Cotness]\nEn fin~\nEstoy cansada, terminemos esto de una vez.\nEl paso está abierto por aquí."
+        "ko-KR": "[코트네스]\n그래~\n피곤하니까 얼른 끝내고 돌아가자.\n이쪽에 길 열렸어.",
+        "en-US": "[Cotness]\nYeah~\nI'm tired, so let's finish up quickly and head back.\nThe path has opened up over here.",
+        "pt-BR": "[Cotness]\nEnfim~\nEstou cansada, vamos terminar isso logo.\nA passagem está aberta por aqui.",
+        "es-ES": "[Cotness]\nEn fin~\nEstoy cansada, terminemos esto de una vez.\nEl paso está abierto por aquí."
     },
     "szjEBw": {
-        "ko": "코트네스: 그래~ 피곤하니까 얼른 끝내고 돌아가자. 이쪽에 길 열렸어.",
-        "en": "Cotness: Yeah~ I'm tired, so let's finish up quickly and head back. The path has opened over here.",
-        "pt": "Cotness: Enfim~ Estou cansada, vamos terminar isso logo. A passagem está aberta por aqui.",
-        "es": "Cotness: En fin~ Estoy cansada, terminemos esto de una vez. El paso está abierto por aquí."
+        "ko-KR": "코트네스: 그래~ 피곤하니까 얼른 끝내고 돌아가자. 이쪽에 길 열렸어.",
+        "en-US": "Cotness: Yeah~ I'm tired, so let's finish up quickly and head back. The path has opened over here.",
+        "pt-BR": "Cotness: Enfim~ Estou cansada, vamos terminar isso logo. A passagem está aberta por aqui.",
+        "es-ES": "Cotness: En fin~ Estoy cansada, terminemos esto de una vez. El paso está abierto por aquí."
     },
     "tDjEBw": {
-        "ko": "[리드쉬]\n파티장은?",
-        "en": "[Ridsh]\nWhere's the party leader?",
-        "pt": "[Ridsh]\nCadê seu líder?",
-        "es": "[Ridsh]\n¿Dónde está tu líder?"
+        "ko-KR": "[리드쉬]\n파티장은?",
+        "en-US": "[Ridsh]\nWhere's the party leader?",
+        "pt-BR": "[Ridsh]\nCadê seu líder?",
+        "es-ES": "[Ridsh]\n¿Dónde está tu líder?"
     },
     "tTjEBw": {
-        "ko": "에스트",
-        "en": "Est",
-        "pt": "Est",
-        "es": "Est"
+        "ko-KR": "에스트",
+        "en-US": "Est",
+        "pt-BR": "Est",
+        "es-ES": "Est"
     },
     "tjjEBw": {
-        "ko": "하트헌터 벨라레",
-        "en": "Heart Hunter Bellare",
-        "pt": "Caça-Coração Bellare",
-        "es": "Cazacorazones Bellare"
+        "ko-KR": "하트헌터 벨라레",
+        "en-US": "Heart Hunter Bellare",
+        "pt-BR": "Caça-Coração Bellare",
+        "es-ES": "Cazacorazones Bellare"
     },
     "tzjEBw": {
-        "ko": "베네눔",
-        "en": "Venom",
-        "pt": "Venenum",
-        "es": "Venenum"
+        "ko-KR": "베네눔",
+        "en-US": "Venom",
+        "pt-BR": "Venenum",
+        "es-ES": "Venenum"
     },
     "uDjEBw": {
-        "ko": "하트헌터 사나레",
-        "en": "Heart Hunter Sanare",
-        "pt": "Caça-Coração Sanare",
-        "es": "Cazacorazones Sanare"
+        "ko-KR": "하트헌터 사나레",
+        "en-US": "Heart Hunter Sanare",
+        "pt-BR": "Caça-Coração Sanare",
+        "es-ES": "Cazacorazones Sanare"
     },
     "uTjEBw": {
-        "ko": "- 소지하고 계신 아이템이 너무 많습니다.\n인벤토리를 정리하고 다시 시도해 주시기 바랍니다. -",
-        "en": "- You are carrying too many items.\nPlease organize your inventory and try again. -",
-        "pt": "- Você tem muitos itens.\nPor favor, limpe seu inventário e tente novamente. -",
-        "es": "- Tienes demasiados objetos.\nPor favor, organiza tu inventario e inténtalo de nuevo. -"
+        "ko-KR": "- 소지하고 계신 아이템이 너무 많습니다.\n인벤토리를 정리하고 다시 시도해 주시기 바랍니다. -",
+        "en-US": "- You are carrying too many items.\nPlease organize your inventory and try again. -",
+        "pt-BR": "- Você tem muitos itens.\nPor favor, limpe seu inventário e tente novamente. -",
+        "es-ES": "- Tienes demasiados objetos.\nPor favor, organiza tu inventario e inténtalo de nuevo. -"
     },
     "ujjEBw": {
-        "ko": "[디엔]\n후 드디어…\n이 문만 넘어 가면…\n…",
-        "en": "[Dien]\nPhew, finally...\nIf I can just get past this door...\n...",
-        "pt": "[Dien]\nFinalmente...\nAgora é só passar por essa porta...\n...",
-        "es": "[Dien]\nPor fin…\nAhora solo queda cruzar esta puerta…\n…"
+        "ko-KR": "[디엔]\n후 드디어…\n이 문만 넘어 가면…\n…",
+        "en-US": "[Dien]\nPhew, finally...\nIf I can just get past this door...\n...",
+        "pt-BR": "[Dien]\nFinalmente...\nAgora é só passar por essa porta...\n...",
+        "es-ES": "[Dien]\nPor fin…\nAhora solo queda cruzar esta puerta…\n…"
     },
     "uzjEBw": {
-        "ko": "[에스트]\n놈들이 더 몰려오기 전에 어서 가죠.",
-        "en": "[Est]\nLet's hurry and go before more of them show up.",
-        "pt": "[Est]\nVamos entrando antes que mais inimigos apareçam.",
-        "es": "[Est]\nEntremos antes de que aparezcan más enemigos."
+        "ko-KR": "[에스트]\n놈들이 더 몰려오기 전에 어서 가죠.",
+        "en-US": "[Est]\nLet's hurry and go before more of them show up.",
+        "pt-BR": "[Est]\nVamos entrando antes que mais inimigos apareçam.",
+        "es-ES": "[Est]\nEntremos antes de que aparezcan más enemigos."
     },
     "vDjEBw": {
-        "ko": "[디엔]\n어머나?",
-        "en": "[Dien]\nOh my?",
-        "pt": "[Dien]\nMinha nossa!!!",
-        "es": "[Dien]\n¡¡¡Dios mío!!!"
+        "ko-KR": "[디엔]\n어머나?",
+        "en-US": "[Dien]\nOh my?",
+        "pt-BR": "[Dien]\nMinha nossa!!!",
+        "es-ES": "[Dien]\n¡¡¡Dios mío!!!"
     },
     "vTjEBw": {
-        "ko": "[에스트]\n?",
-        "en": "[Est]\n?",
-        "pt": "[Est]\n?",
-        "es": "[Est]\n¿?"
+        "ko-KR": "[에스트]\n?",
+        "en-US": "[Est]\n?",
+        "pt-BR": "[Est]\n?",
+        "es-ES": "[Est]\n¿?"
     },
     "vjjEBw": {
-        "ko": "[리드쉬]\n왜?",
-        "en": "[Ridsh]\nWhy?",
-        "pt": "[Ridsh]\nO quê?",
-        "es": "[Ridsh]\n¿Qué?"
+        "ko-KR": "[리드쉬]\n왜?",
+        "en-US": "[Ridsh]\nWhy?",
+        "pt-BR": "[Ridsh]\nO quê?",
+        "es-ES": "[Ridsh]\n¿Qué?"
     },
     "vzjEBw": {
-        "ko": "[디엔]\n어머머머머머머머머!\n어쩜 좋아!",
-        "en": "[Dien]\nOh my goodness!\nWhat should I do!",
-        "pt": "[Dien]\nAh, não, não, não, não!\nO que eu fiz?!",
-        "es": "[Dien]\n¡No, no, no, no!\n¡¿Qué hice?!"
+        "ko-KR": "[디엔]\n어머머머머머머머머!\n어쩜 좋아!",
+        "en-US": "[Dien]\nOh my goodness!\nWhat should I do!",
+        "pt-BR": "[Dien]\nAh, não, não, não, não!\nO que eu fiz?!",
+        "es-ES": "[Dien]\n¡No, no, no, no!\n¡¿Qué hice?!"
     },
     "wDjEBw": {
-        "ko": "[리드쉬]\n왜 그러는데?",
-        "en": "[Ridsh]\nWhat's wrong?",
-        "pt": "[Ridsh]\nO que você fez?",
-        "es": "[Ridsh]\n¿Qué hiciste?"
+        "ko-KR": "[리드쉬]\n왜 그러는데?",
+        "en-US": "[Ridsh]\nWhat's wrong?",
+        "pt-BR": "[Ridsh]\nO que você fez?",
+        "es-ES": "[Ridsh]\n¿Qué hiciste?"
     },
     "wTjEBw": {
-        "ko": "[디엔]\n그걸 두고 왔나 봐.",
-        "en": "[Dien]\nIt looks like you left that behind.",
-        "pt": "[Dien]\nEu acho que eu esqueci lá atrás.",
-        "es": "[Dien]\nCreo que lo olvidé atrás."
+        "ko-KR": "[디엔]\n그걸 두고 왔나 봐.",
+        "en-US": "[Dien]\nIt looks like you left that behind.",
+        "pt-BR": "[Dien]\nEu acho que eu esqueci lá atrás.",
+        "es-ES": "[Dien]\nCreo que lo olvidé atrás."
     },
     "wjjEBw": {
-        "ko": "[리드쉬]\n그거 라니?",
-        "en": "[Ridsh]\nIs that it?",
-        "pt": "[Ridsh]\nEsqueceu o quê?",
-        "es": "[Ridsh]\n¿Olvidaste qué?"
+        "ko-KR": "[리드쉬]\n그거 라니?",
+        "en-US": "[Ridsh]\nIs that it?",
+        "pt-BR": "[Ridsh]\nEsqueceu o quê?",
+        "es-ES": "[Ridsh]\n¿Olvidaste qué?"
     },
     "wzjEBw": {
-        "ko": "[디엔]\n내 부적!!\n그게 없으면 불안하단 말야.",
-        "en": "[Dien]\nMy talisman!!\nI feel uneasy without it.",
-        "pt": "[Dien]\nMeu amuleto da sorte!!\nNão posso continuar sem ele.",
-        "es": "[Dien]\n¡¡Mi amuleto de la suerte!!\nNo puedo continuar sin él."
+        "ko-KR": "[디엔]\n내 부적!!\n그게 없으면 불안하단 말야.",
+        "en-US": "[Dien]\nMy talisman!!\nI feel uneasy without it.",
+        "pt-BR": "[Dien]\nMeu amuleto da sorte!!\nNão posso continuar sem ele.",
+        "es-ES": "[Dien]\n¡¡Mi amuleto de la suerte!!\nNo puedo continuar sin él."
     },
     "xDjEBw": {
-        "ko": "[리드쉬]\n아니 여태 여기까지 잘 와 놓고?!",
-        "en": "[Ridsh]\nWhat, you made it all the way here and now this?!",
-        "pt": "[Ridsh]\nUé?! Você chegou até aqui sem ele...",
-        "es": "[Ridsh]\n¿Eh?! Llegaste hasta aquí sin él…"
+        "ko-KR": "[리드쉬]\n아니 여태 여기까지 잘 와 놓고?!",
+        "en-US": "[Ridsh]\nWhat, you made it all the way here and now this?!",
+        "pt-BR": "[Ridsh]\nUé?! Você chegou até aqui sem ele...",
+        "es-ES": "[Ridsh]\n¿Eh?! Llegaste hasta aquí sin él…"
     },
     "xTjEBw": {
-        "ko": "[디엔]\n…",
-        "en": "[Dien]\n…",
-        "pt": "[Dien]\n...",
-        "es": "[Dien]\n…"
+        "ko-KR": "[디엔]\n…",
+        "en-US": "[Dien]\n…",
+        "pt-BR": "[Dien]\n...",
+        "es-ES": "[Dien]\n…"
     },
     "xjjEBw": {
-        "ko": "[리드쉬]\n아… 정말이지…\n알았어.",
-        "en": "[Ridsh]\nAh... seriously...\nAlright.",
-        "pt": "[Ridsh]\nAi, Dien... Você só pode estar brincando...\nUrgh.",
-        "es": "[Ridsh]\nAy, Dien… tienes que estar bromeando…\nUrgh."
+        "ko-KR": "[리드쉬]\n아… 정말이지…\n알았어.",
+        "en-US": "[Ridsh]\nAh... seriously...\nAlright.",
+        "pt-BR": "[Ridsh]\nAi, Dien... Você só pode estar brincando...\nUrgh.",
+        "es-ES": "[Ridsh]\nAy, Dien… tienes que estar bromeando…\nUrgh."
     },
     "xzjEBw": {
-        "ko": "[리드쉬]\n마지막 문은 우리가 열고 있을 테니까 ^FF0000클라나 네미에리^000000에 다녀와 주지 않을래?",
-        "en": "[Ridsh]\nWe'll be opening the last door, so could you go to ^FF0000Clana Nemieri^000000 for us?",
-        "pt": "[Ridsh]\nAs veteranas vão abrir essa última porta. Viajante, você pode voltar para ^FF0000Clana Nemieri^000000?",
-        "es": "[Ridsh]\nLas veteranas abrirán esta última puerta. Trotamundos, ¿puedes volver a ^FF0000Clana Nemieri^000000?"
+        "ko-KR": "[리드쉬]\n마지막 문은 우리가 열고 있을 테니까 ^FF0000클라나 네미에리^000000에 다녀와 주지 않을래?",
+        "en-US": "[Ridsh]\nWe'll be opening the last door, so could you go to ^FF0000Clana Nemieri^000000 for us?",
+        "pt-BR": "[Ridsh]\nAs veteranas vão abrir essa última porta. Viajante, você pode voltar para ^FF0000Clana Nemieri^000000?",
+        "es-ES": "[Ridsh]\nLas veteranas abrirán esta última puerta. Trotamundos, ¿puedes volver a ^FF0000Clana Nemieri^000000?"
     },
     "yDjEBw": {
-        "ko": "[리드쉬]\n어차피 거기서 대기중인 사람들도 불러야 하고 이대로는 디엔 언니가 꼼짝도 안 할 것 같거든.",
-        "en": "[Ridsh]\nAnyway, we need to call the people waiting over there too, and I don't think Dien will budge at all like this.",
-        "pt": "[Ridsh]\nVou ter que pedir reforços para entrar de todo jeito. E você aproveita e pega o que a minha irmã quer.",
-        "es": "[Ridsh]\nTendré que pedir refuerzos de todas formas. Y ya que estás, trae lo que mi hermana quiere."
+        "ko-KR": "[리드쉬]\n어차피 거기서 대기중인 사람들도 불러야 하고 이대로는 디엔 언니가 꼼짝도 안 할 것 같거든.",
+        "en-US": "[Ridsh]\nAnyway, we need to call the people waiting over there too, and I don't think Dien will budge at all like this.",
+        "pt-BR": "[Ridsh]\nVou ter que pedir reforços para entrar de todo jeito. E você aproveita e pega o que a minha irmã quer.",
+        "es-ES": "[Ridsh]\nTendré que pedir refuerzos de todas formas. Y ya que estás, trae lo que mi hermana quiere."
     },
     "yTjEBw": {
-        "ko": "[리드쉬]\n언니 그거 어디에 있는지 언니가 좀 말해줘.",
-        "en": "[Ridsh]\nSis, can you tell me where that is?",
-        "pt": "[Ridsh]\nDien, diga onde está.",
-        "es": "[Ridsh]\nDien, dime dónde está."
+        "ko-KR": "[리드쉬]\n언니 그거 어디에 있는지 언니가 좀 말해줘.",
+        "en-US": "[Ridsh]\nSis, can you tell me where that is?",
+        "pt-BR": "[Ridsh]\nDien, diga onde está.",
+        "es-ES": "[Ridsh]\nDien, dime dónde está."
     },
     "yjjEBw": {
-        "ko": "[디엔]\n어머나!\n그래 주면 정말 고맙죠!",
-        "en": "[Dien]\nOh my!\nI'd really appreciate it if you could do that!",
-        "pt": "[Dien]\nAi! Graças a Deus!\nMuito obrigada!",
-        "es": "[Dien]\n¡Ah! ¡Gracias a Dios!\n¡Muchas gracias!"
+        "ko-KR": "[디엔]\n어머나!\n그래 주면 정말 고맙죠!",
+        "en-US": "[Dien]\nOh my!\nI'd really appreciate it if you could do that!",
+        "pt-BR": "[Dien]\nAi! Graças a Deus!\nMuito obrigada!",
+        "es-ES": "[Dien]\n¡Ah! ¡Gracias a Dios!\n¡Muchas gracias!"
     },
     "yzjEBw": {
-        "ko": "[디엔]\n나이가 드니까 먼 길 오가는 것도 힘들어서…\n부탁 좀 할게요.",
-        "en": "[Dien]\nAs I get older, traveling long distances has become difficult...\nCould you do me a favor?",
-        "pt": "[Dien]\nNão ia ter físico para dar tantas voltas...\nObrigada.",
-        "es": "[Dien]\nNo tendría fuerzas para dar tantas vueltas…\nGracias."
+        "ko-KR": "[디엔]\n나이가 드니까 먼 길 오가는 것도 힘들어서…\n부탁 좀 할게요.",
+        "en-US": "[Dien]\nAs I get older, traveling long distances has become difficult...\nCould you do me a favor?",
+        "pt-BR": "[Dien]\nNão ia ter físico para dar tantas voltas...\nObrigada.",
+        "es-ES": "[Dien]\nNo tendría fuerzas para dar tantas vueltas…\nGracias."
     },
     "zDjEBw": {
-        "ko": "[디엔]\n^FF0000제 방에 들어가서 창가에 있는 서랍장 중에 왼쪽 서랍장 위를 보면 긴 화병 옆에 동그란 장식함이 있을 거에요.^000000",
-        "en": "[Dien]\nIf you go into my room and look at the top of the left drawer among the dressers by the window, you should see a round An ornamental box next to the tall vase.^000000",
-        "pt": "[Dien]\n^FF0000Vá até Clana Nemieri, entre no meu quarto e encontre uma Caixa Decorada.^000000",
-        "es": "[Dien]\n^FF0000Ve con Clana Nemieri, entra a mi habitación y encuentra una Caja Decorada.^000000"
+        "ko-KR": "[디엔]\n^FF0000제 방에 들어가서 창가에 있는 서랍장 중에 왼쪽 서랍장 위를 보면 긴 화병 옆에 동그란 장식함이 있을 거에요.^000000",
+        "en-US": "[Dien]\nIf you go into my room and look at the top of the left drawer among the dressers by the window, you should see a round An ornamental box next to the tall vase.^000000",
+        "pt-BR": "[Dien]\n^FF0000Vá até Clana Nemieri, entre no meu quarto e encontre uma Caixa Decorada.^000000",
+        "es-ES": "[Dien]\n^FF0000Ve con Clana Nemieri, entra a mi habitación y encuentra una Caja Decorada.^000000"
     },
     "zTjEBw": {
-        "ko": "[디엔]\n그 안에 있으니까 꺼내 오시면 돼요.",
-        "en": "[Dien]\nIt's inside, so you just need to take it out and bring it to me.",
-        "pt": "[Dien]\nMeu amuleto da sorte está lá, só pegá-lo e trazer aqui.",
-        "es": "[Dien]\nMi amuleto de la suerte está allí. Solo tómalo y tráelo aquí."
+        "ko-KR": "[디엔]\n그 안에 있으니까 꺼내 오시면 돼요.",
+        "en-US": "[Dien]\nIt's inside, so you just need to take it out and bring it to me.",
+        "pt-BR": "[Dien]\nMeu amuleto da sorte está lá, só pegá-lo e trazer aqui.",
+        "es-ES": "[Dien]\nMi amuleto de la suerte está allí. Solo tómalo y tráelo aquí."
     },
     "zjjEBw": {
-        "ko": "[리드쉬]\n아참!\n우리가 여기 있다는 말은 절대 하면 안 된다?",
-        "en": "[Ridsh]\nOh, right!\nYou absolutely must not tell anyone that we're here, okay?",
-        "pt": "[Ridsh]\nAh, sim!\nE não diga a ninguém que estamos aqui, viu?",
-        "es": "[Ridsh]\n¡Ah, sí!\nY no le digas a nadie que estamos aquí, ¿entendido?"
+        "ko-KR": "[리드쉬]\n아참!\n우리가 여기 있다는 말은 절대 하면 안 된다?",
+        "en-US": "[Ridsh]\nOh, right!\nYou absolutely must not tell anyone that we're here, okay?",
+        "pt-BR": "[Ridsh]\nAh, sim!\nE não diga a ninguém que estamos aqui, viu?",
+        "es-ES": "[Ridsh]\n¡Ah, sí!\nY no le digas a nadie que estamos aquí, ¿entendido?"
     },
     "zzjEBw": {
-        "ko": "[리드쉬]\n피곤해!\n집에 가고 싶어 졌어.",
-        "en": "[Ridsh]\nI'm tired!\nI want to go home now.",
-        "pt": "[Ridsh]\nEstou cansada!\nEu quero ir para casa.",
-        "es": "[Ridsh]\nEstoy cansada.\nQuiero irme a casa."
+        "ko-KR": "[리드쉬]\n피곤해!\n집에 가고 싶어 졌어.",
+        "en-US": "[Ridsh]\nI'm tired!\nI want to go home now.",
+        "pt-BR": "[Ridsh]\nEstou cansada!\nEu quero ir para casa.",
+        "es-ES": "[Ridsh]\nEstoy cansada.\nQuiero irme a casa."
     },
     "0DjEBw": {
-        "ko": "[에스트]\n어서 다음 지역으로 가고 싶군.",
-        "en": "[Est]\nI can't wait to move on to the next area.",
-        "pt": "[Est]\nEu estou louca para ver o que tem lá dentro.",
-        "es": "[Est]\nEstoy ansiosa por ver qué hay dentro."
+        "ko-KR": "[에스트]\n어서 다음 지역으로 가고 싶군.",
+        "en-US": "[Est]\nI can't wait to move on to the next area.",
+        "pt-BR": "[Est]\nEu estou louca para ver o que tem lá dentro.",
+        "es-ES": "[Est]\nEstoy ansiosa por ver qué hay dentro."
     },
     "0TjEBw": {
-        "ko": "[코트네스]\n가끔은 이렇게 산책도 해줘야죠~",
-        "en": "[Cotness]\nSometimes, you just have to go for a walk like this~",
-        "pt": "[Cotness]\nÀs vezes faz bem para o corpo explodir umas portas e deitar o inimigo na base da surra~",
-        "es": "[Cotness]\nA veces le hace bien al cuerpo volar unas puertas y tumbar al enemigo a golpes~"
+        "ko-KR": "[코트네스]\n가끔은 이렇게 산책도 해줘야죠~",
+        "en-US": "[Cotness]\nSometimes, you just have to go for a walk like this~",
+        "pt-BR": "[Cotness]\nÀs vezes faz bem para o corpo explodir umas portas e deitar o inimigo na base da surra~",
+        "es-ES": "[Cotness]\nA veces le hace bien al cuerpo volar unas puertas y tumbar al enemigo a golpes~"
     }
 }

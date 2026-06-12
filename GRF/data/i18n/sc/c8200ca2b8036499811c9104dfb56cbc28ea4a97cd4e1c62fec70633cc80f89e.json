@@ -1,452 +1,452 @@
 {
     "wAj/BQ": {
-        "ko": "팔파도라",
-        "en": "Palpadora",
-        "pt": "Papoula",
-        "es": "Papola"
+        "ko-KR": "팔파도라",
+        "en-US": "Palpadora",
+        "pt-BR": "Papoula",
+        "es-ES": "Papola"
     },
     "wQj/BQ": {
-        "ko": "팔파도라 : 큰 멜론 컨테스트에 참여하세요~ 멋진 상품이 기다리고 있습니다!",
-        "en": "Palpadora: Join the Big Melon Contest! Wonderful prizes await you!",
-        "pt": "Papoula: Participe do Concurso do Melão~ Prêmios incríveis estão esperando por você!",
-        "es": "Papola: ¡Participa en el Concurso del Gran Melón~ Te esperan premios increíbles!"
+        "ko-KR": "팔파도라 : 큰 멜론 컨테스트에 참여하세요~ 멋진 상품이 기다리고 있습니다!",
+        "en-US": "Palpadora: Join the Big Melon Contest! Wonderful prizes await you!",
+        "pt-BR": "Papoula: Participe do Concurso do Melão~ Prêmios incríveis estão esperando por você!",
+        "es-ES": "Papola: ¡Participa en el Concurso del Gran Melón~ Te esperan premios increíbles!"
     },
     "wgj/BQ": {
-        "ko": "<멜론 축제>",
-        "en": "<Melon Festival>",
-        "pt": "<Festival do Melão>",
-        "es": "<Festival del Melón>"
+        "ko-KR": "<멜론 축제>",
+        "en-US": "<Melon Festival>",
+        "pt-BR": "<Festival do Melão>",
+        "es-ES": "<Festival del Melón>"
     },
     "wwj/BQ": {
-        "ko": "- 소지하고 계신 아이템이 많아 퀘스트를 진행할 수 없습니다. -",
-        "en": "- You have too many items in your possession and cannot proceed with the quest. -",
-        "pt": "- Você está com muitos itens e não pode prosseguir com a missão. -",
-        "es": "- Tienes demasiados objetos y no puedes continuar con la misión. -"
+        "ko-KR": "- 소지하고 계신 아이템이 많아 퀘스트를 진행할 수 없습니다. -",
+        "en-US": "- You have too many items in your possession and cannot proceed with the quest. -",
+        "pt-BR": "- Você está com muitos itens e não pode prosseguir com a missão. -",
+        "es-ES": "- Tienes demasiados objetos y no puedes continuar con la misión. -"
     },
     "xAj/BQ": {
-        "ko": "[팔파도라]\n또 오셨군요!\n으음, 오늘 이미 참여하셨죠?\n오늘은 더이상 기록 교체는\n할 수 없지만, 상품 교환은\n접수하고 있답니다.",
-        "en": "[Palpadora]\nYou're back!\nHmm, you've already participated today, haven't you?\nYou can't change your record again today,\nbut I am accepting prize exchanges.",
-        "pt": "[Papoula]\nVocê voltou!\nHmm, você já participou hoje, não foi?\nNão é mais possível trocar o recorde hoje,\nmas estou aceitando trocas de prêmios.",
-        "es": "[Papola]\n¡Has vuelto!\nMmm, ya participaste hoy, ¿no?\nYa no puedes cambiar tu récord por hoy,\npero sí estoy aceptando intercambios de premios."
+        "ko-KR": "[팔파도라]\n또 오셨군요!\n으음, 오늘 이미 참여하셨죠?\n오늘은 더이상 기록 교체는\n할 수 없지만, 상품 교환은\n접수하고 있답니다.",
+        "en-US": "[Palpadora]\nYou're back!\nHmm, you've already participated today, haven't you?\nYou can't change your record again today,\nbut I am accepting prize exchanges.",
+        "pt-BR": "[Papoula]\nVocê voltou!\nHmm, você já participou hoje, não foi?\nNão é mais possível trocar o recorde hoje,\nmas estou aceitando trocas de prêmios.",
+        "es-ES": "[Papola]\n¡Has vuelto!\nMmm, ya participaste hoy, ¿no?\nYa no puedes cambiar tu récord por hoy,\npero sí estoy aceptando intercambios de premios."
     },
     "xQj/BQ": {
-        "ko": "[팔파도라]\n큰 멜론 컨테스트에\n도전하시겠어요?\n참가비는 ^4D4DFF수상한 멜론 1개^000000입니다.",
-        "en": "[Palpadora]\nWould you like to challenge\nthe Big Melon Contest?\nThe entry fee is ^4D4DFF1 Suspicious Melon^000000.",
-        "pt": "[Papoula]\nGostaria de desafiar\no Concurso do Melão?\nA taxa de inscrição é ^4D4DFF1 Melão Suspeito^000000.",
-        "es": "[Papola]\n¿Te gustaría participar\nen el Concurso del Gran Melón?\nLa cuota de inscripción es ^4D4DFF1 Melón Sospechoso^000000."
+        "ko-KR": "[팔파도라]\n큰 멜론 컨테스트에\n도전하시겠어요?\n참가비는 ^4D4DFF수상한 멜론 1개^000000입니다.",
+        "en-US": "[Palpadora]\nWould you like to challenge\nthe Big Melon Contest?\nThe entry fee is ^4D4DFF1 Suspicious Melon^000000.",
+        "pt-BR": "[Papoula]\nGostaria de desafiar\no Concurso do Melão?\nA taxa de inscrição é ^4D4DFF1 Melão Suspeito^000000.",
+        "es-ES": "[Papola]\n¿Te gustaría participar\nen el Concurso del Gran Melón?\nLa cuota de inscripción es ^4D4DFF1 Melón Sospechoso^000000."
     },
     "xgj/BQ": {
-        "ko": "그래도 도전한다.",
-        "en": "Challenge anyway.",
-        "pt": "Desafiar mesmo assim.",
-        "es": "Participar aun así."
+        "ko-KR": "그래도 도전한다.",
+        "en-US": "Challenge anyway.",
+        "pt-BR": "Desafiar mesmo assim.",
+        "es-ES": "Participar aun así."
     },
     "xwj/BQ": {
-        "ko": "달콤이 코인을 경품과 교환한다.",
-        "en": "Exchange Sweet Coins for prizes.",
-        "pt": "Trocar Meloedas por prêmios.",
-        "es": "Cambiar Monedas Dulces por premios."
+        "ko-KR": "달콤이 코인을 경품과 교환한다.",
+        "en-US": "Exchange Sweet Coins for prizes.",
+        "pt-BR": "Trocar Meloedas por prêmios.",
+        "es-ES": "Cambiar Monedas Dulces por premios."
     },
     "yAj/BQ": {
-        "ko": "다음에 온다.",
-        "en": "Come back later.",
-        "pt": "Voltar depois.",
-        "es": "Volver después."
+        "ko-KR": "다음에 온다.",
+        "en-US": "Come back later.",
+        "pt-BR": "Voltar depois.",
+        "es-ES": "Volver después."
     },
     "yQj/BQ": {
-        "ko": "현재 최고기록을 확인한다.",
-        "en": "Check current high score.",
-        "pt": "Verificar o recorde atual.",
-        "es": "Verificar el récord actual."
+        "ko-KR": "현재 최고기록을 확인한다.",
+        "en-US": "Check current high score.",
+        "pt-BR": "Verificar o recorde atual.",
+        "es-ES": "Verificar el récord actual."
     },
     "ygj/BQ": {
-        "ko": "다시 설명을 듣는다.",
-        "en": "Hear the explanation again.",
-        "pt": "Ouvir a explicação novamente.",
-        "es": "Escuchar la explicación otra vez."
+        "ko-KR": "다시 설명을 듣는다.",
+        "en-US": "Hear the explanation again.",
+        "pt-BR": "Ouvir a explicação novamente.",
+        "es-ES": "Escuchar la explicación otra vez."
     },
     "ywj/BQ": {
-        "ko": "[팔파도라]\n좋아요! 어디어디...",
-        "en": "[Palpadora]\nAlright! Let's see, let's see...",
-        "pt": "[Papoula]\nCerto! Vamos ver, vamos ver...",
-        "es": "[Papola]\n¡Bien! A ver, a ver..."
+        "ko-KR": "[팔파도라]\n좋아요! 어디어디...",
+        "en-US": "[Palpadora]\nAlright! Let's see, let's see...",
+        "pt-BR": "[Papoula]\nCerto! Vamos ver, vamos ver...",
+        "es-ES": "[Papola]\n¡Bien! A ver, a ver..."
     },
     "zAj/BQ": {
-        "ko": "[팔파도라]\n이크, 모험가님은 지금\n^4D4DFF수상한 멜론^000000을 한 개도\n갖고 있지 않으신데요?\n^4D4DFF커다란 달콤이^000000라는 멜론을 닮은\n몬스터를 쓰러뜨리면 손에 넣을\n수 있답니다. 파이팅!",
-        "en": "[Palpadora]\nEek, Adventurer, you don't have\na single ^4D4DFFSuspicious Melon^000000 right now!\nYou can get one by defeating a monster\nthat looks like a melon called ^4D4DFFHuge Meloring^000000.\nGood luck!",
-        "pt": "[Papoula]\nViajante, você não tem\nnenhum ^4D4DFFMelão Suspeito^000000 agora!\nÉ possível conseguir um derrotando um monstro\nchamado ^4D4DFFMeloring Gigante^000000, que se parece com um melão.\nBoa sorte!",
-        "es": "[Papola]\n¡Uy, trotamundos, ahora mismo no tienes\nni un ^4D4DFFMelón Sospechoso^000000!\nPuedes conseguir uno derrotando a un monstruo\nllamado ^4D4DFFMeloring Gigante^000000, que se parece a un melón.\n¡Ánimo!"
+        "ko-KR": "[팔파도라]\n이크, 모험가님은 지금\n^4D4DFF수상한 멜론^000000을 한 개도\n갖고 있지 않으신데요?\n^4D4DFF커다란 달콤이^000000라는 멜론을 닮은\n몬스터를 쓰러뜨리면 손에 넣을\n수 있답니다. 파이팅!",
+        "en-US": "[Palpadora]\nEek, Adventurer, you don't have\na single ^4D4DFFSuspicious Melon^000000 right now!\nYou can get one by defeating a monster\nthat looks like a melon called ^4D4DFFHuge Meloring^000000.\nGood luck!",
+        "pt-BR": "[Papoula]\nViajante, você não tem\nnenhum ^4D4DFFMelão Suspeito^000000 agora!\nÉ possível conseguir um derrotando um monstro\nchamado ^4D4DFFMeloring Gigante^000000, que se parece com um melão.\nBoa sorte!",
+        "es-ES": "[Papola]\n¡Uy, trotamundos, ahora mismo no tienes\nni un ^4D4DFFMelón Sospechoso^000000!\nPuedes conseguir uno derrotando a un monstruo\nllamado ^4D4DFFMeloring Gigante^000000, que se parece a un melón.\n¡Ánimo!"
     },
     "zQj/BQ": {
-        "ko": "[팔파도라]\n빠밤~! 오늘 가져오신\n멜론의 크기는!\n아쉽게도 {0}mm네요.\n다음에 또 도전하세요!\n여기 참가상 드릴게요.",
-        "en": "[Palpadora]\nBam~! The size of the melon you brought today is...\nUnfortunately, {0}mm.\nPlease try again next time!\nHere's your participation prize.",
-        "pt": "[Papoula]\nBam~! O tamanho do melão que você trouxe hoje é...\nInfelizmente, {0}mm.\nPor favor, tente novamente amanhã!\nAqui está o seu prêmio de participação.",
-        "es": "[Papola]\n¡Bam~! ¡El tamaño del melón que trajiste hoy es...\nLamentablemente, {0}mm!\n¡Inténtalo de nuevo la próxima vez!\nAquí tienes tu premio de participación."
+        "ko-KR": "[팔파도라]\n빠밤~! 오늘 가져오신\n멜론의 크기는!\n아쉽게도 {0}mm네요.\n다음에 또 도전하세요!\n여기 참가상 드릴게요.",
+        "en-US": "[Palpadora]\nBam~! The size of the melon you brought today is...\nUnfortunately, {0}mm.\nPlease try again next time!\nHere's your participation prize.",
+        "pt-BR": "[Papoula]\nBam~! O tamanho do melão que você trouxe hoje é...\nInfelizmente, {0}mm.\nPor favor, tente novamente amanhã!\nAqui está o seu prêmio de participação.",
+        "es-ES": "[Papola]\n¡Bam~! ¡El tamaño del melón que trajiste hoy es...\nLamentablemente, {0}mm!\n¡Inténtalo de nuevo la próxima vez!\nAquí tienes tu premio de participación."
     },
     "zgj/BQ": {
-        "ko": "[팔파도라]\n빠밤~! 오늘 가져오신\n멜론의 크기는!\n바로 {0}mm!\n에이, 조금 아쉽다.\n다음에 또 도전하세요!\n여기 우량상 드릴게요.",
-        "en": "[Palpadora]\nBam~! The size of the melon you brought today is...\n{0}mm!\nAww, so close.\nPlease try again next time!\nHere's your Excellence Prize.",
-        "pt": "[Papoula]\nBam~! O tamanho do melão que você trouxe hoje é...\n{0}mm!\nAww, por pouco.\nPor favor, tente novamente amanhã!\nAqui está o seu Prêmio de Excelência.",
-        "es": "[Papola]\n¡Bam~! ¡El tamaño del melón que trajiste hoy es...\n¡Nada más y nada menos que {0}mm!\nAy, qué lastimita.\n¡Inténtalo de nuevo la próxima vez!\nAquí tienes tu Premio a la Excelencia."
+        "ko-KR": "[팔파도라]\n빠밤~! 오늘 가져오신\n멜론의 크기는!\n바로 {0}mm!\n에이, 조금 아쉽다.\n다음에 또 도전하세요!\n여기 우량상 드릴게요.",
+        "en-US": "[Palpadora]\nBam~! The size of the melon you brought today is...\n{0}mm!\nAww, so close.\nPlease try again next time!\nHere's your Excellence Prize.",
+        "pt-BR": "[Papoula]\nBam~! O tamanho do melão que você trouxe hoje é...\n{0}mm!\nAww, por pouco.\nPor favor, tente novamente amanhã!\nAqui está o seu Prêmio de Excelência.",
+        "es-ES": "[Papola]\n¡Bam~! ¡El tamaño del melón que trajiste hoy es...\n¡Nada más y nada menos que {0}mm!\nAy, qué lastimita.\n¡Inténtalo de nuevo la próxima vez!\nAquí tienes tu Premio a la Excelencia."
     },
     "zwj/BQ": {
-        "ko": "[팔파도라]\n빠밤~! 오늘 가져오신\n멜론의 크기는!\n바로 {0}mm!\n수상수상상 증정!! 축하드립니다!\n또 도전해 주세요!",
-        "en": "[Palpadora]\nBam~! The size of the melon you brought today is...\n{0}mm!\nSuspicious Suspicious Prize!! Congratulations!\nPlease challenge us again!",
-        "pt": "[Papoula]\nBam~! O tamanho do melão que você trouxe hoje é...\n{0}mm!\nPrêmio Suspeito Suspeito!! Parabéns!\nPor favor, nos desafie novamente!",
-        "es": "[Papola]\n¡Bam~! ¡El tamaño del melón que trajiste hoy es...\n¡Nada más y nada menos que {0}mm!\n¡¡Premio Sospechosísimo!! ¡Felicidades!\n¡Por favor, desafíanos otra vez!"
+        "ko-KR": "[팔파도라]\n빠밤~! 오늘 가져오신\n멜론의 크기는!\n바로 {0}mm!\n수상수상상 증정!! 축하드립니다!\n또 도전해 주세요!",
+        "en-US": "[Palpadora]\nBam~! The size of the melon you brought today is...\n{0}mm!\nSuspicious Suspicious Prize!! Congratulations!\nPlease challenge us again!",
+        "pt-BR": "[Papoula]\nBam~! O tamanho do melão que você trouxe hoje é...\n{0}mm!\nPrêmio Suspeito Suspeito!! Parabéns!\nPor favor, nos desafie novamente!",
+        "es-ES": "[Papola]\n¡Bam~! ¡El tamaño del melón que trajiste hoy es...\n¡Nada más y nada menos que {0}mm!\n¡¡Premio Sospechosísimo!! ¡Felicidades!\n¡Por favor, desafíanos otra vez!"
     },
     "0Aj/BQ": {
-        "ko": "[팔파도라]\n오오, 크다! 오늘 가져오신\n멜론의 크기는!\n바로 {0}mm!\n측정불가상!! 측정불가상입니다!\n다음에 또 도전해 주세요!",
-        "en": "[Palpadora]\nOoh, it's huge! The size of the melon you brought today is...\n{0}mm!\nUnmeasurable Prize!! It's the Unmeasurable Prize!\nPlease challenge us again next time!",
-        "pt": "[Papoula]\nOoh, é enorme! O tamanho do melão que você trouxe hoje é...\n{0}mm!\nPrêmio Imensurável!! É o Prêmio Imensurável!\nPor favor, nos desafie novamente amanhã!",
-        "es": "[Papola]\n¡Ooh, qué grande! ¡El tamaño del melón que trajiste hoy es...\n¡Nada más y nada menos que {0}mm!\n¡¡Premio Inmedible!! ¡Es el Premio Inmedible!\n¡Por favor, desafíanos de nuevo la próxima vez!"
+        "ko-KR": "[팔파도라]\n오오, 크다! 오늘 가져오신\n멜론의 크기는!\n바로 {0}mm!\n측정불가상!! 측정불가상입니다!\n다음에 또 도전해 주세요!",
+        "en-US": "[Palpadora]\nOoh, it's huge! The size of the melon you brought today is...\n{0}mm!\nUnmeasurable Prize!! It's the Unmeasurable Prize!\nPlease challenge us again next time!",
+        "pt-BR": "[Papoula]\nOoh, é enorme! O tamanho do melão que você trouxe hoje é...\n{0}mm!\nPrêmio Imensurável!! É o Prêmio Imensurável!\nPor favor, nos desafie novamente amanhã!",
+        "es-ES": "[Papola]\n¡Ooh, qué grande! ¡El tamaño del melón que trajiste hoy es...\n¡Nada más y nada menos que {0}mm!\n¡¡Premio Inmedible!! ¡Es el Premio Inmedible!\n¡Por favor, desafíanos de nuevo la próxima vez!"
     },
     "0Qj/BQ": {
-        "ko": "[팔파도라]\n흠흠, 맛있는 냄새...!\n<ITEM>[달콤이 코인]<INFO>25655</INFO></ITEM>을 갖고 계시네요!\n큰 멜론 컨테스트의 상품 한 가지와 교환하시겠어요?",
-        "en": "[Palpadora]\nHmm, smells delicious...!\nYou have <ITEM>Sweet Coin<INFO>25655</INFO></ITEM>!\nWould you like to exchange it for one of the Big Melon Contest prizes?",
-        "pt": "[Papoula]\nHmm, cheiro delicioso...!\nVocê tem <ITEM>Meloeda<INFO>25655</INFO></ITEM>!\nGostaria de trocá-la por um dos prêmios do Concurso do Melão?",
-        "es": "[Papola]\nMmm, qué rico huele...!\n¡Tienes [<ITEM>Moneda Dulce<INFO>25655</INFO></ITEM>]!\n¿Te gustaría cambiarla por uno de los premios del Concurso del Gran Melón?"
+        "ko-KR": "[팔파도라]\n흠흠, 맛있는 냄새...!\n<ITEM>[달콤이 코인]<INFO>25655</INFO></ITEM>을 갖고 계시네요!\n큰 멜론 컨테스트의 상품 한 가지와 교환하시겠어요?",
+        "en-US": "[Palpadora]\nHmm, smells delicious...!\nYou have <ITEM>Sweet Coin<INFO>25655</INFO></ITEM>!\nWould you like to exchange it for one of the Big Melon Contest prizes?",
+        "pt-BR": "[Papoula]\nHmm, cheiro delicioso...!\nVocê tem <ITEM>Meloeda<INFO>25655</INFO></ITEM>!\nGostaria de trocá-la por um dos prêmios do Concurso do Melão?",
+        "es-ES": "[Papola]\nMmm, qué rico huele...!\n¡Tienes [<ITEM>Moneda Dulce<INFO>25655</INFO></ITEM>]!\n¿Te gustaría cambiarla por uno de los premios del Concurso del Gran Melón?"
     },
     "0gj/BQ": {
-        "ko": "교환한다.",
-        "en": "Exchange.",
-        "pt": "Trocar.",
-        "es": "Cambiar."
+        "ko-KR": "교환한다.",
+        "en-US": "Exchange.",
+        "pt-BR": "Trocar.",
+        "es-ES": "Cambiar."
     },
     "0wj/BQ": {
-        "ko": "설명을 다시 듣는다.",
-        "en": "Hear the explanation again.",
-        "pt": "Ouvir a explicação novamente.",
-        "es": "Escuchar la explicación otra vez."
+        "ko-KR": "설명을 다시 듣는다.",
+        "en-US": "Hear the explanation again.",
+        "pt-BR": "Ouvir a explicação novamente.",
+        "es-ES": "Escuchar la explicación otra vez."
     },
     "1Aj/BQ": {
-        "ko": "<ITEM>[달콤이 코인]<INFO>25655</INFO></ITEM>이 부족합니다.",
-        "en": "You don't have enough <ITEM>Sweet Coin<INFO>25655</INFO></ITEM>.",
-        "pt": "Você não tem [<ITEM>Meloeda<INFO>25655</INFO></ITEM>] suficiente.",
-        "es": "No tienes suficientes [<ITEM>Monedas Dulces<INFO>25655</INFO></ITEM>]."
+        "ko-KR": "<ITEM>[달콤이 코인]<INFO>25655</INFO></ITEM>이 부족합니다.",
+        "en-US": "You don't have enough <ITEM>Sweet Coin<INFO>25655</INFO></ITEM>.",
+        "pt-BR": "Você não tem [<ITEM>Meloeda<INFO>25655</INFO></ITEM>] suficiente.",
+        "es-ES": "No tienes suficientes [<ITEM>Monedas Dulces<INFO>25655</INFO></ITEM>]."
     },
     "1Qj/BQ": {
-        "ko": "[팔파도라]\n여기 있습니다!\n마음에 드시면 좋겠어요!",
-        "en": "[Palpadora]\nHere you go!\nI hope you like it!",
-        "pt": "[Papoula]\nAqui está!\nEspero que goste!",
-        "es": "[Papola]\n¡Aquí tienes!\n¡Espero que te guste!"
+        "ko-KR": "[팔파도라]\n여기 있습니다!\n마음에 드시면 좋겠어요!",
+        "en-US": "[Palpadora]\nHere you go!\nI hope you like it!",
+        "pt-BR": "[Papoula]\nAqui está!\nEspero que goste!",
+        "es-ES": "[Papola]\n¡Aquí tienes!\n¡Espero que te guste!"
     },
     "1gj/BQ": {
-        "ko": "[팔파도라]\n으음...? 혹시 가방이 가득 차셨나요? 코인이 없으신가요? 다시 한 번 확인해 주시겠어요?",
-        "en": "[Palpadora]\nHmm...? Is your inventory full? Or don't you have any coins? Could you check once more?",
-        "pt": "[Papoula]\nHmm...? Seu inventário está cheio? Ou você não tem moedas? Poderia verificar novamente?",
-        "es": "[Papola]\nMmm... ¿Tu inventario está lleno? ¿O no tienes monedas? ¿Podrías revisar una vez más?"
+        "ko-KR": "[팔파도라]\n으음...? 혹시 가방이 가득 차셨나요? 코인이 없으신가요? 다시 한 번 확인해 주시겠어요?",
+        "en-US": "[Palpadora]\nHmm...? Is your inventory full? Or don't you have any coins? Could you check once more?",
+        "pt-BR": "[Papoula]\nHmm...? Seu inventário está cheio? Ou você não tem moedas? Poderia verificar novamente?",
+        "es-ES": "[Papola]\nMmm... ¿Tu inventario está lleno? ¿O no tienes monedas? ¿Podrías revisar una vez más?"
     },
     "1wj/BQ": {
-        "ko": "[팔파도라]\n마음이 바뀌면 다시 오세요~",
-        "en": "[Palpadora]\nCome back again if you change your mind~",
-        "pt": "[Papoula]\nVolte novamente se mudar de ideia~",
-        "es": "[Papola]\n¡Vuelve si cambias de idea~"
+        "ko-KR": "[팔파도라]\n마음이 바뀌면 다시 오세요~",
+        "en-US": "[Palpadora]\nCome back again if you change your mind~",
+        "pt-BR": "[Papoula]\nVolte novamente se mudar de ideia~",
+        "es-ES": "[Papola]\n¡Vuelve si cambias de idea~"
     },
     "2Aj/BQ": {
-        "ko": "[팔파도라]\n<ITEM>[달콤이 코인]<INFO>25655</INFO></ITEM>은 제가 좋아하는 물건이랍니다.\n멜론이 아니라서 크기는 잴 수 없지만, 잡히는 물건 하나 정도와는 바꿔 드릴 수 있을 만큼...!",
-        "en": "[Palpadora]\n[<ITEM>Sweet Coin<INFO>25655</INFO></ITEM>] is something I really like.\nIt's not a melon, so I can't measure its size, but it's enough to exchange for about one item I can get my hands on...!",
-        "pt": "[Papoula]\n[<ITEM>Meloeda<INFO>25655</INFO></ITEM>] é algo que eu realmente gosto.\nNão é um melão, então não posso medir o tamanho dela.\nMas você pode trocá-la por um item que estiver a meu alcance!",
-        "es": "[Papola]\nLa [<ITEM>Moneda Dulce<INFO>25655</INFO></ITEM>] es algo que me gusta mucho.\nNo es un melón, así que no puedo medir su tamaño.\n¡Pero puedes cambiarla por un objeto que esté a mi alcance!"
+        "ko-KR": "[팔파도라]\n<ITEM>[달콤이 코인]<INFO>25655</INFO></ITEM>은 제가 좋아하는 물건이랍니다.\n멜론이 아니라서 크기는 잴 수 없지만, 잡히는 물건 하나 정도와는 바꿔 드릴 수 있을 만큼...!",
+        "en-US": "[Palpadora]\n[<ITEM>Sweet Coin<INFO>25655</INFO></ITEM>] is something I really like.\nIt's not a melon, so I can't measure its size, but it's enough to exchange for about one item I can get my hands on...!",
+        "pt-BR": "[Papoula]\n[<ITEM>Meloeda<INFO>25655</INFO></ITEM>] é algo que eu realmente gosto.\nNão é um melão, então não posso medir o tamanho dela.\nMas você pode trocá-la por um item que estiver a meu alcance!",
+        "es-ES": "[Papola]\nLa [<ITEM>Moneda Dulce<INFO>25655</INFO></ITEM>] es algo que me gusta mucho.\nNo es un melón, así que no puedo medir su tamaño.\n¡Pero puedes cambiarla por un objeto que esté a mi alcance!"
     },
     "2Qj/BQ": {
-        "ko": "[팔파도라]\n후후... 기대에 부응하는 물건을 드릴지는 잘 모르겠지만요.",
-        "en": "[Palpadora]\nHehe... though I'm not sure I'll give you something that meets your expectations.",
-        "pt": "[Papoula]\nHehe... embora eu não tenha certeza se vou te dar algo que atenda às suas expectativas.",
-        "es": "[Papola]\nJeje... aunque no sé si te daré algo que cumpla con tus expectativas."
+        "ko-KR": "[팔파도라]\n후후... 기대에 부응하는 물건을 드릴지는 잘 모르겠지만요.",
+        "en-US": "[Palpadora]\nHehe... though I'm not sure I'll give you something that meets your expectations.",
+        "pt-BR": "[Papoula]\nHehe... embora eu não tenha certeza se vou te dar algo que atenda às suas expectativas.",
+        "es-ES": "[Papola]\nJeje... aunque no sé si te daré algo que cumpla con tus expectativas."
     },
     "2gj/BQ": {
-        "ko": "[팔파도라]\n<ITEM>[달콤이 코인]<INFO>25655</INFO></ITEM>을 갖고 계시지 않은 것 같은데요?\n다시 한 번 확인해 주세요.",
-        "en": "[Palpadora]\nIt seems you don't have any <ITEM>Sweet Coin<INFO>25655</INFO></ITEM>.\nPlease check again.",
-        "pt": "[Papoula]\nParece que você não tem nenhuma <ITEM>Meloeda<INFO>25655</INFO></ITEM>.\nPor favor, verifique novamente.",
-        "es": "[Papola]\nParece que no tienes ninguna [<ITEM>Moneda Dulce<INFO>25655</INFO></ITEM>].\nPor favor, revisa otra vez."
+        "ko-KR": "[팔파도라]\n<ITEM>[달콤이 코인]<INFO>25655</INFO></ITEM>을 갖고 계시지 않은 것 같은데요?\n다시 한 번 확인해 주세요.",
+        "en-US": "[Palpadora]\nIt seems you don't have any <ITEM>Sweet Coin<INFO>25655</INFO></ITEM>.\nPlease check again.",
+        "pt-BR": "[Papoula]\nParece que você não tem nenhuma <ITEM>Meloeda<INFO>25655</INFO></ITEM>.\nPor favor, verifique novamente.",
+        "es-ES": "[Papola]\nParece que no tienes ninguna [<ITEM>Moneda Dulce<INFO>25655</INFO></ITEM>].\nPor favor, revisa otra vez."
     },
     "2wj/BQ": {
-        "ko": "[팔파도라]\n또 오세요~~",
-        "en": "[Palpadora]\nCome back again~~",
-        "pt": "[Papoula]\nVolte novamente~~",
-        "es": "[Papola]\n¡Vuelve pronto~~"
+        "ko-KR": "[팔파도라]\n또 오세요~~",
+        "en-US": "[Palpadora]\nCome back again~~",
+        "pt-BR": "[Papoula]\nVolte novamente~~",
+        "es-ES": "[Papola]\n¡Vuelve pronto~~"
     },
     "3Aj/BQ": {
-        "ko": "[팔파도라]\n올해 컨테스트 참가자 중\n현재 최고 기록은\n바로 ^0000FF{0}님^000000의\n수상한 멜론! ^0000FF{1}mm^000000입니다!",
-        "en": "[Palpadora]\nAmong this year's contest participants,\nthe current high score is\n^0000FF{0}'s^000000\nSuspicious Melon! ^0000FF{1}mm^000000!",
-        "pt": "[Papoula]\nEntre os participantes do concurso deste ano,\no recorde atual é\no Melão Suspeito de ^0000FF{0}^000000! ^0000FF{1}mm^000000!",
-        "es": "[Papola]\nEntre los participantes del concurso de este año,\nel récord actual es\n¡el Melón Sospechoso de ^0000FF{0}^000000! ¡^0000FF{1}mm^000000!"
+        "ko-KR": "[팔파도라]\n올해 컨테스트 참가자 중\n현재 최고 기록은\n바로 ^0000FF{0}님^000000의\n수상한 멜론! ^0000FF{1}mm^000000입니다!",
+        "en-US": "[Palpadora]\nAmong this year's contest participants,\nthe current high score is\n^0000FF{0}'s^000000\nSuspicious Melon! ^0000FF{1}mm^000000!",
+        "pt-BR": "[Papoula]\nEntre os participantes do concurso deste ano,\no recorde atual é\no Melão Suspeito de ^0000FF{0}^000000! ^0000FF{1}mm^000000!",
+        "es-ES": "[Papola]\nEntre los participantes del concurso de este año,\nel récord actual es\n¡el Melón Sospechoso de ^0000FF{0}^000000! ¡^0000FF{1}mm^000000!"
     },
     "3Qj/BQ": {
-        "ko": "[팔파도라]\n저는 게펜 멜론 축제의\n일환으로 진행중인\n큰 멜론 컨테스트 담당자,\n팔파도라입니다.",
-        "en": "[Palpadora]\nI am Palpadora, the person in charge of the Big Melon Contest,\nheld as part of the Geffen Melon Festival.",
-        "pt": "[Papoula]\nEu sou Papoula, a pessoa responsável pelo Concurso do Melão,\nrealizado como parte do Festival do Melão de Geffen.",
-        "es": "[Papola]\nSoy Papola, la encargada del Concurso del Gran Melón,\nque se celebra como parte del Festival del Melón de Geffen."
+        "ko-KR": "[팔파도라]\n저는 게펜 멜론 축제의\n일환으로 진행중인\n큰 멜론 컨테스트 담당자,\n팔파도라입니다.",
+        "en-US": "[Palpadora]\nI am Palpadora, the person in charge of the Big Melon Contest,\nheld as part of the Geffen Melon Festival.",
+        "pt-BR": "[Papoula]\nEu sou Papoula, a pessoa responsável pelo Concurso do Melão,\nrealizado como parte do Festival do Melão de Geffen.",
+        "es-ES": "[Papola]\nSoy Papola, la encargada del Concurso del Gran Melón,\nque se celebra como parte del Festival del Melón de Geffen."
     },
     "3gj/BQ": {
-        "ko": "[팔파도라]\n하루에 한 번, 직접 입수한\n^4D4DFF수상한 멜론^000000을 컨테스트에\n제출하는 정도의 쉬운 참가!\n화려한 경품이 당신을\n기다리고 있습니다!",
-        "en": "[Palpadora]\nEasy participation — just submit a ^4D4DFFSuspicious Melon^000000 you obtained yourself once a day!\nGorgeous prizes await you!",
-        "pt": "[Papoula]\nÉ fácil participar: basta enviar uma vez por dia um ^4D4DFFMelão Suspeito^000000 obtido por você!\nPrêmios magníficos estão esperando!",
-        "es": "[Papola]\nEs muy fácil participar: solo tienes que entregar un ^4D4DFFMelón Sospechoso^000000 que hayas conseguido tú mismo una vez al día.\n¡Premios fabulosos te esperan!"
+        "ko-KR": "[팔파도라]\n하루에 한 번, 직접 입수한\n^4D4DFF수상한 멜론^000000을 컨테스트에\n제출하는 정도의 쉬운 참가!\n화려한 경품이 당신을\n기다리고 있습니다!",
+        "en-US": "[Palpadora]\nEasy participation — just submit a ^4D4DFFSuspicious Melon^000000 you obtained yourself once a day!\nGorgeous prizes await you!",
+        "pt-BR": "[Papoula]\nÉ fácil participar: basta enviar uma vez por dia um ^4D4DFFMelão Suspeito^000000 obtido por você!\nPrêmios magníficos estão esperando!",
+        "es-ES": "[Papola]\nEs muy fácil participar: solo tienes que entregar un ^4D4DFFMelón Sospechoso^000000 que hayas conseguido tú mismo una vez al día.\n¡Premios fabulosos te esperan!"
     },
     "3wj/BQ": {
-        "ko": "[팔파도라]\n상품 교환 횟수는 제한이 없지만\n^4D4DFF큰 멜론 컨테스트^000000는 하루에\n한 번만 도전 가능한 점!\n양해해 주시기 바랍니다.\n큰 멜론을 가져와서 자랑해 주세요!",
-        "en": "[Palpadora]\nThere's no limit on how many times you can exchange prizes,\nbut you can only challenge the ^4D4DFFBig Melon Contest^000000 once a day!\nPlease understand.\nBring a big melon and show it off!",
-        "pt": "[Papoula]\nNão há limite para quantas vezes você pode trocar prêmios,\nmas você só pode desafiar o ^4D4DFFConcurso do Melão^000000 uma vez por dia!\nPor favor, entenda.\nTraga um melão grande e mostre-o!",
-        "es": "[Papola]\nNo hay límite en cuántas veces puedes cambiar premios,\npero solo puedes desafiar al ^4D4DFFConcurso del Gran Melón^000000 una vez al día.\nPor favor, entiéndelo.\n¡Trae un melón grande y muéstralo!"
+        "ko-KR": "[팔파도라]\n상품 교환 횟수는 제한이 없지만\n^4D4DFF큰 멜론 컨테스트^000000는 하루에\n한 번만 도전 가능한 점!\n양해해 주시기 바랍니다.\n큰 멜론을 가져와서 자랑해 주세요!",
+        "en-US": "[Palpadora]\nThere's no limit on how many times you can exchange prizes,\nbut you can only challenge the ^4D4DFFBig Melon Contest^000000 once a day!\nPlease understand.\nBring a big melon and show it off!",
+        "pt-BR": "[Papoula]\nNão há limite para quantas vezes você pode trocar prêmios,\nmas você só pode desafiar o ^4D4DFFConcurso do Melão^000000 uma vez por dia!\nPor favor, entenda.\nTraga um melão grande e mostre-o!",
+        "es-ES": "[Papola]\nNo hay límite en cuántas veces puedes cambiar premios,\npero solo puedes desafiar al ^4D4DFFConcurso del Gran Melón^000000 una vez al día.\nPor favor, entiéndelo.\n¡Trae un melón grande y muéstralo!"
     },
     "4Aj/BQ": {
-        "ko": "[팔파도라]\n크기에 따라 ^4D4DFF참가상, 우량상,^000000\n^4D4DFF수상수상상, 측정불가상^000000 4단계의\n경품을 증정하니 많이많이\n참여해 주시기 바랍니다~",
-        "en": "[Palpadora]\nDepending on the size, we give out four levels of prizes:\n^4D4DFFParticipation Prize, Excellence Prize,^000000\n^4D4DFFSuspicious Suspicious Prize, and Unmeasurable Prize^000000.\nPlease join us many, many times~",
-        "pt": "[Papoula]\nDependendo do tamanho, oferecemos quatro níveis de prêmios:\n^4D4DFFPrêmio de Participação, Prêmio de Excelência,^000000\n^4D4DFFPrêmio Suspeito Suspeito e Prêmio Imensurável^000000.\nPor favor, participe muitas, muitas vezes~",
-        "es": "[Papola]\nSegún su tamaño, entregamos cuatro niveles de premios:\n^4D4DFFPremio de Participación, Premio a la Excelencia,^000000\n^4D4DFFPremio Sospechosísimo y Premio Inmedible^000000.\n¡Por favor, participa muchas, muchas veces~"
+        "ko-KR": "[팔파도라]\n크기에 따라 ^4D4DFF참가상, 우량상,^000000\n^4D4DFF수상수상상, 측정불가상^000000 4단계의\n경품을 증정하니 많이많이\n참여해 주시기 바랍니다~",
+        "en-US": "[Palpadora]\nDepending on the size, we give out four levels of prizes:\n^4D4DFFParticipation Prize, Excellence Prize,^000000\n^4D4DFFSuspicious Suspicious Prize, and Unmeasurable Prize^000000.\nPlease join us many, many times~",
+        "pt-BR": "[Papoula]\nDependendo do tamanho, oferecemos quatro níveis de prêmios:\n^4D4DFFPrêmio de Participação, Prêmio de Excelência,^000000\n^4D4DFFPrêmio Suspeito Suspeito e Prêmio Imensurável^000000.\nPor favor, participe muitas, muitas vezes~",
+        "es-ES": "[Papola]\nSegún su tamaño, entregamos cuatro niveles de premios:\n^4D4DFFPremio de Participación, Premio a la Excelencia,^000000\n^4D4DFFPremio Sospechosísimo y Premio Inmedible^000000.\n¡Por favor, participa muchas, muchas veces~"
     },
     "4Qj/BQ": {
-        "ko": "[팔파도라]\n어서오세요, 어서오세요!\n마법도시 게펜에서는 지금\n멜론 축제가 한창이랍니다!\n^4D4DFF큰 멜론 컨테스트^000000에 한 번\n도전해 보는 건 어떠세요?",
-        "en": "[Palpadora]\nWelcome, welcome!\nThe Melon Festival is now in full swing in the magical city of Geffen!\nHow about trying the ^4D4DFFBig Melon Contest^000000?",
-        "pt": "[Papoula]\nBem-vindos, bem-vindos!\nO Festival do Melão está a todo vapor na cidade mágica de Geffen!\nQue tal experimentar o ^4D4DFFConcurso do Melão^000000?",
-        "es": "[Papola]\n¡Bienvenidos, bienvenidas!\n¡El Festival del Melón está en su apogeo en la ciudad mágica de Geffen!\n¿Qué tal si pruebas el ^4D4DFFConcurso del Gran Melón^000000?"
+        "ko-KR": "[팔파도라]\n어서오세요, 어서오세요!\n마법도시 게펜에서는 지금\n멜론 축제가 한창이랍니다!\n^4D4DFF큰 멜론 컨테스트^000000에 한 번\n도전해 보는 건 어떠세요?",
+        "en-US": "[Palpadora]\nWelcome, welcome!\nThe Melon Festival is now in full swing in the magical city of Geffen!\nHow about trying the ^4D4DFFBig Melon Contest^000000?",
+        "pt-BR": "[Papoula]\nBem-vindos, bem-vindos!\nO Festival do Melão está a todo vapor na cidade mágica de Geffen!\nQue tal experimentar o ^4D4DFFConcurso do Melão^000000?",
+        "es-ES": "[Papola]\n¡Bienvenidos, bienvenidas!\n¡El Festival del Melón está en su apogeo en la ciudad mágica de Geffen!\n¿Qué tal si pruebas el ^4D4DFFConcurso del Gran Melón^000000?"
     },
     "4gj/BQ": {
-        "ko": "[팔파도라]\n크기에 따라 ^4D4DFF참가상, 우량상,^000000\n^4D4DFF수상수상상, 측정불가상^000000 4단계로 추첨권 대신 사용될 <ITEM>[달콤이 코인]<INFO>25655</INFO></ITEM>을 드리니까요~\n많이 참여해 주시기 바랍니다~",
-        "en": "[Palpadora]\nDepending on the size, we'll give you ^4D4DFFSweet Coins^000000 to use instead of lottery tickets, across four levels:\n^4D4DFFParticipation Prize, Excellence Prize,^000000\n^4D4DFFSuspicious Suspicious Prize, and Unmeasurable Prize^000000~\nPlease join us many times~",
-        "pt": "[Papoula}\nDependendo do tamanho, daremos a você ^4D4DFFMeloedas^000000 para usar em vez de bilhetes de loteria, em quatro níveis:\n^4D4DFFPrêmio de Participação, Prêmio de Excelência,^000000\n^4D4DFFPrêmio Suspeito Suspeito e Prêmio Imensurável^000000~\nPor favor, participe muitas vezes~",
-        "es": "[Papola]\nSegún su tamaño, te daré ^4D4DFFMonedas Dulces^000000 para que uses en lugar de boletos de lotería, en cuatro niveles:\n^4D4DFFPremio de Participación, Premio a la Excelencia,^000000\n^4D4DFFPremio Sospechosísimo y Premio Inmedible^000000~\n¡Por favor, participa muchas veces~"
+        "ko-KR": "[팔파도라]\n크기에 따라 ^4D4DFF참가상, 우량상,^000000\n^4D4DFF수상수상상, 측정불가상^000000 4단계로 추첨권 대신 사용될 <ITEM>[달콤이 코인]<INFO>25655</INFO></ITEM>을 드리니까요~\n많이 참여해 주시기 바랍니다~",
+        "en-US": "[Palpadora]\nDepending on the size, we'll give you ^4D4DFFSweet Coins^000000 to use instead of lottery tickets, across four levels:\n^4D4DFFParticipation Prize, Excellence Prize,^000000\n^4D4DFFSuspicious Suspicious Prize, and Unmeasurable Prize^000000~\nPlease join us many times~",
+        "pt-BR": "[Papoula}\nDependendo do tamanho, daremos a você ^4D4DFFMeloedas^000000 para usar em vez de bilhetes de loteria, em quatro níveis:\n^4D4DFFPrêmio de Participação, Prêmio de Excelência,^000000\n^4D4DFFPrêmio Suspeito Suspeito e Prêmio Imensurável^000000~\nPor favor, participe muitas vezes~",
+        "es-ES": "[Papola]\nSegún su tamaño, te daré ^4D4DFFMonedas Dulces^000000 para que uses en lugar de boletos de lotería, en cuatro niveles:\n^4D4DFFPremio de Participación, Premio a la Excelencia,^000000\n^4D4DFFPremio Sospechosísimo y Premio Inmedible^000000~\n¡Por favor, participa muchas veces~"
     },
     "4wj/BQ": {
-        "ko": "[팔파도라]\n자자, 큰 멜론 컨테스트에\n참여하실 분 안 계신가요?\n참가비는 ^4D4DFF수상한 멜론 1개^000000입니다.",
-        "en": "[Palpadora]\nCome on, come on, anyone want to participate in the Big Melon Contest?\nThe entry fee is ^4D4DFF1 Suspicious Melon^000000.",
-        "pt": "[Papoula]\nVamos, vamos, alguém quer participar do Concurso do Melão?\nA taxa de inscrição é ^4D4DFF1 Melão Suspeito^000000.",
-        "es": "[Papola]\n¡Vamos, vamos, ¿alguien quiere participar en el Concurso del Gran Melón?\nLa cuota de inscripción es ^4D4DFF1 Melón Sospechoso^000000."
+        "ko-KR": "[팔파도라]\n자자, 큰 멜론 컨테스트에\n참여하실 분 안 계신가요?\n참가비는 ^4D4DFF수상한 멜론 1개^000000입니다.",
+        "en-US": "[Palpadora]\nCome on, come on, anyone want to participate in the Big Melon Contest?\nThe entry fee is ^4D4DFF1 Suspicious Melon^000000.",
+        "pt-BR": "[Papoula]\nVamos, vamos, alguém quer participar do Concurso do Melão?\nA taxa de inscrição é ^4D4DFF1 Melão Suspeito^000000.",
+        "es-ES": "[Papola]\n¡Vamos, vamos, ¿alguien quiere participar en el Concurso del Gran Melón?\nLa cuota de inscripción es ^4D4DFF1 Melón Sospechoso^000000."
     },
     "5Aj/BQ": {
-        "ko": "수상한 멜론을 내민다.",
-        "en": "Offer a Suspicious Melon.",
-        "pt": "Oferecer um Melão Suspeito.",
-        "es": "Ofrecer un Melón Sospechoso."
+        "ko-KR": "수상한 멜론을 내민다.",
+        "en-US": "Offer a Suspicious Melon.",
+        "pt-BR": "Oferecer um Melão Suspeito.",
+        "es-ES": "Ofrecer un Melón Sospechoso."
     },
     "5Qj/BQ": {
-        "ko": "지나간다.",
-        "en": "Walk past.",
-        "pt": "Passar.",
-        "es": "Pasar de largo."
+        "ko-KR": "지나간다.",
+        "en-US": "Walk past.",
+        "pt-BR": "Passar.",
+        "es-ES": "Pasar de largo."
     },
     "5gj/BQ": {
-        "ko": "설명을 다시 듣고 싶어요.",
-        "en": "I want to hear the explanation again.",
-        "pt": "Quero ouvir a explicação novamente.",
-        "es": "Quiero escuchar la explicación otra vez."
+        "ko-KR": "설명을 다시 듣고 싶어요.",
+        "en-US": "I want to hear the explanation again.",
+        "pt-BR": "Quero ouvir a explicação novamente.",
+        "es-ES": "Quiero escuchar la explicación otra vez."
     },
     "5wj/BQ": {
-        "ko": "[팔파도라]\n빠밤~! 오늘 가져오신\n멜론의 크기는!\n아쉽게도{0}mm네요.\n다음에 또 도전하세요!\n여기 참가상 드릴게요.",
-        "en": "[Palpadora]\nBam~! The size of the melon you brought today is...\nUnfortunately, {0}mm.\nPlease try again next time!\nHere's your participation prize.",
-        "pt": "[Papoula]\nBam~! O tamanho do melão que você trouxe hoje é...\nInfelizmente, {0}mm.\nPor favor, tente novamente amanhã!\nAqui está o seu prêmio de participação.",
-        "es": "[Papola]\n¡Bam~! ¡El tamaño del melón que trajiste hoy es...\nLamentablemente, {0}mm.\n¡Inténtalo de nuevo la próxima vez!\nAquí tienes tu premio de participación."
+        "ko-KR": "[팔파도라]\n빠밤~! 오늘 가져오신\n멜론의 크기는!\n아쉽게도{0}mm네요.\n다음에 또 도전하세요!\n여기 참가상 드릴게요.",
+        "en-US": "[Palpadora]\nBam~! The size of the melon you brought today is...\nUnfortunately, {0}mm.\nPlease try again next time!\nHere's your participation prize.",
+        "pt-BR": "[Papoula]\nBam~! O tamanho do melão que você trouxe hoje é...\nInfelizmente, {0}mm.\nPor favor, tente novamente amanhã!\nAqui está o seu prêmio de participação.",
+        "es-ES": "[Papola]\n¡Bam~! ¡El tamaño del melón que trajiste hoy es...\nLamentablemente, {0}mm.\n¡Inténtalo de nuevo la próxima vez!\nAquí tienes tu premio de participación."
     },
     "6Aj/BQ": {
-        "ko": "[팔파도라]\n빠밤~! 오늘 가져오신\n멜론의 크기는!\n바로 {0}mm!\n최고기록과 타이기록이라 아쉽네요.\n하지만 사이즈상 참가상을 드립니다!\n다음에 또 도전해 주세요.",
-        "en": "[Palpadora]\nBam~! The size of the melon you brought today is...\n{0}mm!\nIt's a tie with the high score: that's unfortunate.\nBut based on size, I'll give you the participation prize!\nPlease challenge us again next time.",
-        "pt": "[Papoula]\nBam~! O tamanho do melão que você trouxe hoje é...\n{0}mm!\nÉ um empate com o recorde, que pena.\nMas com base no tamanho, vou te dar o prêmio de participação!\nPor favor, nos desafie novamente amanhã.",
-        "es": "[Papola]\n¡Bam~! ¡El tamaño del melón que trajiste hoy es...\nNada más y nada menos que {0}mm!\nEs un empate con el récord, qué pena.\n¡Pero por el tamaño, te daré el premio de participación!\n¡Por favor, desafíanos de nuevo la próxima vez!"
+        "ko-KR": "[팔파도라]\n빠밤~! 오늘 가져오신\n멜론의 크기는!\n바로 {0}mm!\n최고기록과 타이기록이라 아쉽네요.\n하지만 사이즈상 참가상을 드립니다!\n다음에 또 도전해 주세요.",
+        "en-US": "[Palpadora]\nBam~! The size of the melon you brought today is...\n{0}mm!\nIt's a tie with the high score: that's unfortunate.\nBut based on size, I'll give you the participation prize!\nPlease challenge us again next time.",
+        "pt-BR": "[Papoula]\nBam~! O tamanho do melão que você trouxe hoje é...\n{0}mm!\nÉ um empate com o recorde, que pena.\nMas com base no tamanho, vou te dar o prêmio de participação!\nPor favor, nos desafie novamente amanhã.",
+        "es-ES": "[Papola]\n¡Bam~! ¡El tamaño del melón que trajiste hoy es...\nNada más y nada menos que {0}mm!\nEs un empate con el récord, qué pena.\n¡Pero por el tamaño, te daré el premio de participación!\n¡Por favor, desafíanos de nuevo la próxima vez!"
     },
     "6Qj/BQ": {
-        "ko": "[팔파도라]\n어디... 오오오! 크다!!\n기록 갱신! {0}mm의 멜론을\n가져오신 {1}님의 우승!\n하지만 사이즈상 참가상을\n증정해 드립니다. 축하드립니다!\n다음에 또 도전해 주세요!",
-        "en": "[Palpadora]\nLet's see... Oooh! It's huge!!\nRecord broken! Winning with a {0}mm melon brought by {1}!\nBut based on size, I'll give you the participation prize. Congratulations!\nPlease challenge us again next time!",
-        "pt": "[Papoula]\nDeixe-me ver... Oooh! É enorme!!\nRecorde quebrado! Vencendo com um melão de {0}mm trazido por {1}!\nMas com base no tamanho, vou te dar o prêmio de participação. Parabéns!\nPor favor, nos desafie novamente amanhã!",
-        "es": "[Papola]\nA ver... ¡Oooh! ¡Qué grande!!\n¡Récord superado! ¡Ganador con un melón de {0}mm traído por {1}!\nPero por el tamaño, te daré el premio de participación. ¡Felicidades!\n¡Por favor, desafíanos de nuevo la próxima vez!"
+        "ko-KR": "[팔파도라]\n어디... 오오오! 크다!!\n기록 갱신! {0}mm의 멜론을\n가져오신 {1}님의 우승!\n하지만 사이즈상 참가상을\n증정해 드립니다. 축하드립니다!\n다음에 또 도전해 주세요!",
+        "en-US": "[Palpadora]\nLet's see... Oooh! It's huge!!\nRecord broken! Winning with a {0}mm melon brought by {1}!\nBut based on size, I'll give you the participation prize. Congratulations!\nPlease challenge us again next time!",
+        "pt-BR": "[Papoula]\nDeixe-me ver... Oooh! É enorme!!\nRecorde quebrado! Vencendo com um melão de {0}mm trazido por {1}!\nMas com base no tamanho, vou te dar o prêmio de participação. Parabéns!\nPor favor, nos desafie novamente amanhã!",
+        "es-ES": "[Papola]\nA ver... ¡Oooh! ¡Qué grande!!\n¡Récord superado! ¡Ganador con un melón de {0}mm traído por {1}!\nPero por el tamaño, te daré el premio de participación. ¡Felicidades!\n¡Por favor, desafíanos de nuevo la próxima vez!"
     },
     "6gj/BQ": {
-        "ko": "[팔파도라]\n빠밤~! 오늘 가져오신\n멜론의 크기는!\n바로 {0}mm!\n우량상 증정!! 축하드립니다!\n최고기록과 타이기록이라 아쉽네요.\n다음에 또 도전해 주세요!",
-        "en": "[Palpadora]\nBam~! The size of the melon you brought today is...\n{0}mm!\nExcellence Prize!! Congratulations!\nIt's a tie with the high score, that's unfortunate.\nPlease challenge us again next time!",
-        "pt": "[Papoula]\nBam~! O tamanho do melão que você trouxe hoje é...\n{0}mm!\nPrêmio de Excelência!! Parabéns!\nÉ um empate com o recorde, que pena.\nPor favor, nos desafie novamente amanhã!",
-        "es": "[Papola]\n¡Bam~! ¡El tamaño del melón que trajiste hoy es...\nNada más y nada menos que {0}mm!\n¡¡Premio a la Excelencia!! ¡Felicidades!\nEs un empate con el récord, qué pena.\n¡Por favor, desafíanos de nuevo la próxima vez!"
+        "ko-KR": "[팔파도라]\n빠밤~! 오늘 가져오신\n멜론의 크기는!\n바로 {0}mm!\n우량상 증정!! 축하드립니다!\n최고기록과 타이기록이라 아쉽네요.\n다음에 또 도전해 주세요!",
+        "en-US": "[Palpadora]\nBam~! The size of the melon you brought today is...\n{0}mm!\nExcellence Prize!! Congratulations!\nIt's a tie with the high score, that's unfortunate.\nPlease challenge us again next time!",
+        "pt-BR": "[Papoula]\nBam~! O tamanho do melão que você trouxe hoje é...\n{0}mm!\nPrêmio de Excelência!! Parabéns!\nÉ um empate com o recorde, que pena.\nPor favor, nos desafie novamente amanhã!",
+        "es-ES": "[Papola]\n¡Bam~! ¡El tamaño del melón que trajiste hoy es...\nNada más y nada menos que {0}mm!\n¡¡Premio a la Excelencia!! ¡Felicidades!\nEs un empate con el récord, qué pena.\n¡Por favor, desafíanos de nuevo la próxima vez!"
     },
     "6wj/BQ": {
-        "ko": "[팔파도라]\n어디... 오오오! 크다!!\n기록 갱신! {0}mm의 멜론을\n가져오신 {1}님의 우승!\n하지만 사이즈상 우량상을\n증정해 드립니다. 축하드립니다!\n다음에 또 도전해 주세요!",
-        "en": "[Palpadora]\nLet's see... Oooh! It's huge!!\nRecord broken! Winning with a {0}mm melon brought by {1}!\nBut based on size, I'll give you the Excellence Prize. Congratulations!\nPlease challenge us again next time!",
-        "pt": "[Papoula]\nDeixe-me ver... Oooh! É enorme!!\nRecorde quebrado! Vencendo com um melão de {0}mm trazido por {1}!\nMas com base no tamanho, vou te dar o Prêmio de Excelência. Parabéns!\nPor favor, nos desafie novamente amanhã!",
-        "es": "[Papola]\nA ver... ¡Oooh! ¡Qué grande!!\n¡Récord superado! ¡Ganador con un melón de {0}mm traído por {1}!\nPero por el tamaño, te daré el Premio a la Excelencia. ¡Felicidades!\n¡Por favor, desafíanos de nuevo la próxima vez!"
+        "ko-KR": "[팔파도라]\n어디... 오오오! 크다!!\n기록 갱신! {0}mm의 멜론을\n가져오신 {1}님의 우승!\n하지만 사이즈상 우량상을\n증정해 드립니다. 축하드립니다!\n다음에 또 도전해 주세요!",
+        "en-US": "[Palpadora]\nLet's see... Oooh! It's huge!!\nRecord broken! Winning with a {0}mm melon brought by {1}!\nBut based on size, I'll give you the Excellence Prize. Congratulations!\nPlease challenge us again next time!",
+        "pt-BR": "[Papoula]\nDeixe-me ver... Oooh! É enorme!!\nRecorde quebrado! Vencendo com um melão de {0}mm trazido por {1}!\nMas com base no tamanho, vou te dar o Prêmio de Excelência. Parabéns!\nPor favor, nos desafie novamente amanhã!",
+        "es-ES": "[Papola]\nA ver... ¡Oooh! ¡Qué grande!!\n¡Récord superado! ¡Ganador con un melón de {0}mm traído por {1}!\nPero por el tamaño, te daré el Premio a la Excelencia. ¡Felicidades!\n¡Por favor, desafíanos de nuevo la próxima vez!"
     },
     "7Aj/BQ": {
-        "ko": "[팔파도라]\n빠밤~! 오늘 가져오신\n멜론의 크기는!\n바로 {0}mm!\n수상수상상 증정!! 축하드립니다!\n하지만 기록에는 못 미치네요.\n아쉽지만 또 도전해 주세요!",
-        "en": "[Palpadora]\nBam~! The size of the melon you brought today is...\n{0}mm!\nSuspicious Suspicious Prize!! Congratulations!\nBut it didn't make the record.\nUnfortunate, but please try again!",
-        "pt": "[Papoula]\nBam~! O tamanho do melão que você trouxe hoje é...\n{0}mm!\nPrêmio Suspeito Suspeito!! Parabéns!\nMas não atingiu o recorde.\nQue pena, mas tente novamente!",
-        "es": "[Papola]\n¡Bam~! ¡El tamaño del melón que trajiste hoy es...\nNada más y nada menos que {0}mm!\n¡¡Premio Sospechosísimo!! ¡Felicidades!\nPero no alcanzó el récord.\nQué pena, pero ¡inténtalo de nuevo!"
+        "ko-KR": "[팔파도라]\n빠밤~! 오늘 가져오신\n멜론의 크기는!\n바로 {0}mm!\n수상수상상 증정!! 축하드립니다!\n하지만 기록에는 못 미치네요.\n아쉽지만 또 도전해 주세요!",
+        "en-US": "[Palpadora]\nBam~! The size of the melon you brought today is...\n{0}mm!\nSuspicious Suspicious Prize!! Congratulations!\nBut it didn't make the record.\nUnfortunate, but please try again!",
+        "pt-BR": "[Papoula]\nBam~! O tamanho do melão que você trouxe hoje é...\n{0}mm!\nPrêmio Suspeito Suspeito!! Parabéns!\nMas não atingiu o recorde.\nQue pena, mas tente novamente!",
+        "es-ES": "[Papola]\n¡Bam~! ¡El tamaño del melón que trajiste hoy es...\nNada más y nada menos que {0}mm!\n¡¡Premio Sospechosísimo!! ¡Felicidades!\nPero no alcanzó el récord.\nQué pena, pero ¡inténtalo de nuevo!"
     },
     "7Qj/BQ": {
-        "ko": "[팔파도라]\n빠밤~! 오늘 가져오신\n멜론의 크기는!\n바로 {0}mm!\n수상수상상 증정!! 축하드립니다!\n최고기록과 타이기록이라 아쉽네요.\n다음에 또 도전해 주세요!",
-        "en": "[Palpadora]\nBam~! The size of the melon you brought today is...\n{0}mm!\nSuspicious Suspicious Prize!! Congratulations!\nIt's a tie with the high score, so unfortunate.\nPlease challenge us again next time!",
-        "pt": "[Papoula]\nBam~! O tamanho do melão que você trouxe hoje é...\n{0}mm!\nPrêmio Suspeito Suspeito!! Parabéns!\nÉ um empate com o recorde, que pena.\nPor favor, nos desafie novamente amanhã!",
-        "es": "[Papola]\n¡Bam~! ¡El tamaño del melón que trajiste hoy es...\nNada más y nada menos que {0}mm!\n¡¡Premio Sospechosísimo!! ¡Felicidades!\nEs un empate con el récord, qué pena.\n¡Por favor, desafíanos de nuevo la próxima vez!"
+        "ko-KR": "[팔파도라]\n빠밤~! 오늘 가져오신\n멜론의 크기는!\n바로 {0}mm!\n수상수상상 증정!! 축하드립니다!\n최고기록과 타이기록이라 아쉽네요.\n다음에 또 도전해 주세요!",
+        "en-US": "[Palpadora]\nBam~! The size of the melon you brought today is...\n{0}mm!\nSuspicious Suspicious Prize!! Congratulations!\nIt's a tie with the high score, so unfortunate.\nPlease challenge us again next time!",
+        "pt-BR": "[Papoula]\nBam~! O tamanho do melão que você trouxe hoje é...\n{0}mm!\nPrêmio Suspeito Suspeito!! Parabéns!\nÉ um empate com o recorde, que pena.\nPor favor, nos desafie novamente amanhã!",
+        "es-ES": "[Papola]\n¡Bam~! ¡El tamaño del melón que trajiste hoy es...\nNada más y nada menos que {0}mm!\n¡¡Premio Sospechosísimo!! ¡Felicidades!\nEs un empate con el récord, qué pena.\n¡Por favor, desafíanos de nuevo la próxima vez!"
     },
     "7gj/BQ": {
-        "ko": "[팔파도라]\n어디... 오오오! 크다!!\n기록 갱신! {0}mm의 멜론을\n가져오신 {1}님의 우승!\n하지만 사이즈상 수상수상상을\n증정해 드립니다. 축하드립니다!\n다음에 또 도전해 주세요!",
-        "en": "[Palpadora]\nLet's see... Oooh! It's huge!!\nRecord broken! Winning with a {0}mm melon brought by {1}!\nBut based on size, I'll give you the Suspicious Suspicious Prize. Congratulations!\nPlease challenge us again next time!",
-        "pt": "[Papoula]\nDeixe-me ver... Oooh! É enorme!!\nRecorde quebrado! Vencendo com um melão de {0}mm trazido por {1}!\nMas com base no tamanho, vou te dar o Prêmio Suspeito Suspeito. Parabéns!\nPor favor, nos desafie novamente amanhã!",
-        "es": "[Papola]\nA ver... ¡Oooh! ¡Qué grande!!\n¡Récord superado! ¡Ganador con un melón de {0}mm traído por {1}!\nPero por el tamaño, te daré el Premio Sospechosísimo. ¡Felicidades!\n¡Por favor, desafíanos de nuevo la próxima vez!"
+        "ko-KR": "[팔파도라]\n어디... 오오오! 크다!!\n기록 갱신! {0}mm의 멜론을\n가져오신 {1}님의 우승!\n하지만 사이즈상 수상수상상을\n증정해 드립니다. 축하드립니다!\n다음에 또 도전해 주세요!",
+        "en-US": "[Palpadora]\nLet's see... Oooh! It's huge!!\nRecord broken! Winning with a {0}mm melon brought by {1}!\nBut based on size, I'll give you the Suspicious Suspicious Prize. Congratulations!\nPlease challenge us again next time!",
+        "pt-BR": "[Papoula]\nDeixe-me ver... Oooh! É enorme!!\nRecorde quebrado! Vencendo com um melão de {0}mm trazido por {1}!\nMas com base no tamanho, vou te dar o Prêmio Suspeito Suspeito. Parabéns!\nPor favor, nos desafie novamente amanhã!",
+        "es-ES": "[Papola]\nA ver... ¡Oooh! ¡Qué grande!!\n¡Récord superado! ¡Ganador con un melón de {0}mm traído por {1}!\nPero por el tamaño, te daré el Premio Sospechosísimo. ¡Felicidades!\n¡Por favor, desafíanos de nuevo la próxima vez!"
     },
     "7wj/BQ": {
-        "ko": "[팔파도라]\n오오, 크다! 오늘 가져오신\n멜론의 크기는!\n바로 {0}mm!\n측정불가상!! 측정불가상입니다!\n하지만 기록에는 못 미치네요.\n아쉽지만 또 도전해 주세요!",
-        "en": "[Palpadora]\nOoh, it's huge! The size of the melon you brought today is...\n{0}mm!\nUnmeasurable Prize!! It's the Unmeasurable Prize!\nBut it didn't make the record.\nUnfortunate, but please try again!",
-        "pt": "[Papoula]\nOoh, é enorme! O tamanho do melão que você trouxe hoje é...\n{0}mm!\nPrêmio Imensurável!! É o Prêmio Imensurável!\nMas não atingiu o recorde.\nQue pena, mas tente novamente!",
-        "es": "[Papola]\n¡Ooh, qué grande! ¡El tamaño del melón que trajiste hoy es...\nNada más y nada menos que {0}mm!\n¡¡Premio Inmedible!! ¡Es el Premio Inmedible!\nPero no alcanzó el récord.\nQué pena, pero ¡inténtalo de nuevo!"
+        "ko-KR": "[팔파도라]\n오오, 크다! 오늘 가져오신\n멜론의 크기는!\n바로 {0}mm!\n측정불가상!! 측정불가상입니다!\n하지만 기록에는 못 미치네요.\n아쉽지만 또 도전해 주세요!",
+        "en-US": "[Palpadora]\nOoh, it's huge! The size of the melon you brought today is...\n{0}mm!\nUnmeasurable Prize!! It's the Unmeasurable Prize!\nBut it didn't make the record.\nUnfortunate, but please try again!",
+        "pt-BR": "[Papoula]\nOoh, é enorme! O tamanho do melão que você trouxe hoje é...\n{0}mm!\nPrêmio Imensurável!! É o Prêmio Imensurável!\nMas não atingiu o recorde.\nQue pena, mas tente novamente!",
+        "es-ES": "[Papola]\n¡Ooh, qué grande! ¡El tamaño del melón que trajiste hoy es...\nNada más y nada menos que {0}mm!\n¡¡Premio Inmedible!! ¡Es el Premio Inmedible!\nPero no alcanzó el récord.\nQué pena, pero ¡inténtalo de nuevo!"
     },
     "8Aj/BQ": {
-        "ko": "[팔파도라]\n오오, 크다! 오늘 가져오신\n멜론의 크기는!\n바로 {0}mm!\n측정불가상 증정입니다!! 축하드려요!\n최고기록과 타이기록이라 아쉽네요.\n다음에 또 도전해 주세요!",
-        "en": "[Palpadora]\nOoh, it's huge! The size of the melon you brought today is...\n{0}mm!\nUnmeasurable Prize!! Congratulations!\nIt's a tie with the high score, so unfortunate.\nPlease challenge us again next time!",
-        "pt": "[Papoula]\nOoh, é enorme! O tamanho do melão que você trouxe hoje é...\n{0}mm!\nPrêmio Imensurável!! Parabéns!\nÉ um empate com o recorde, que pena.\nPor favor, nos desafie novamente amanhã!",
-        "es": "[Papola]\n¡Ooh, qué grande! ¡El tamaño del melón que trajiste hoy es...\nNada más y nada menos que {0}mm!\n¡¡Entrega del Premio Inmedible!! ¡Felicidades!\nEs un empate con el récord, qué pena.\n¡Por favor, desafíanos de nuevo la próxima vez!"
+        "ko-KR": "[팔파도라]\n오오, 크다! 오늘 가져오신\n멜론의 크기는!\n바로 {0}mm!\n측정불가상 증정입니다!! 축하드려요!\n최고기록과 타이기록이라 아쉽네요.\n다음에 또 도전해 주세요!",
+        "en-US": "[Palpadora]\nOoh, it's huge! The size of the melon you brought today is...\n{0}mm!\nUnmeasurable Prize!! Congratulations!\nIt's a tie with the high score, so unfortunate.\nPlease challenge us again next time!",
+        "pt-BR": "[Papoula]\nOoh, é enorme! O tamanho do melão que você trouxe hoje é...\n{0}mm!\nPrêmio Imensurável!! Parabéns!\nÉ um empate com o recorde, que pena.\nPor favor, nos desafie novamente amanhã!",
+        "es-ES": "[Papola]\n¡Ooh, qué grande! ¡El tamaño del melón que trajiste hoy es...\nNada más y nada menos que {0}mm!\n¡¡Entrega del Premio Inmedible!! ¡Felicidades!\nEs un empate con el récord, qué pena.\n¡Por favor, desafíanos de nuevo la próxima vez!"
     },
     "8Qj/BQ": {
-        "ko": "[팔파도라]\n어디... 오오오! 세상에나!!!!\n기록 갱신! {0}mm의 멜론을\n가져오신 {1}님의 우승!\n측정불가상!!!!!!!\n여기 상품을 드립니다!!\n우승 축하드립니다!!",
-        "en": "[Palpadora]\nLet's see... Oooh! Oh my!!!!\nRecord broken! Winning with a {0}mm melon brought by {1}!\nUnmeasurable Prize!!!!!!!\nHere is your prize!!\nCongratulations on your win!!",
-        "pt": "[Papoula]\nDeixe-me ver... Oooh! Minha nossa!!!!\nRecorde quebrado! Vencendo com um melão de {0}mm trazido por {1}!\nPrêmio Imensurável!!!!!!!\nAqui está o seu prêmio!!\nParabéns pela sua vitória!!",
-        "es": "[Papola]\nA ver... ¡Oooh! ¡Dios mío!!!!\n¡Récord superado! ¡Ganador con un melón de {0}mm traído por {1}!\n¡¡¡¡¡Premio Inmedible!!!!!!!\n¡Aquí tienes tu premio!!\n¡¡Felicidades por tu victoria!!"
+        "ko-KR": "[팔파도라]\n어디... 오오오! 세상에나!!!!\n기록 갱신! {0}mm의 멜론을\n가져오신 {1}님의 우승!\n측정불가상!!!!!!!\n여기 상품을 드립니다!!\n우승 축하드립니다!!",
+        "en-US": "[Palpadora]\nLet's see... Oooh! Oh my!!!!\nRecord broken! Winning with a {0}mm melon brought by {1}!\nUnmeasurable Prize!!!!!!!\nHere is your prize!!\nCongratulations on your win!!",
+        "pt-BR": "[Papoula]\nDeixe-me ver... Oooh! Minha nossa!!!!\nRecorde quebrado! Vencendo com um melão de {0}mm trazido por {1}!\nPrêmio Imensurável!!!!!!!\nAqui está o seu prêmio!!\nParabéns pela sua vitória!!",
+        "es-ES": "[Papola]\nA ver... ¡Oooh! ¡Dios mío!!!!\n¡Récord superado! ¡Ganador con un melón de {0}mm traído por {1}!\n¡¡¡¡¡Premio Inmedible!!!!!!!\n¡Aquí tienes tu premio!!\n¡¡Felicidades por tu victoria!!"
     },
     "8gj/BQ": {
-        "ko": "[팔파도라]\n짜잔...!\n마음에 드셨음 좋겠어요!\n그럼 또 기다릴게요.",
-        "en": "[Palpadora]\nTa-da...!\nI hope you like it!\nI'll be waiting for you again.",
-        "pt": "[Papoula]\nTa-dá...!\nEspero que goste!\nEstarei esperando por você novamente.",
-        "es": "[Papola]\n¡Ta-dá...!\n¡Espero que te guste!\nEntonces, te esperaré otra vez."
+        "ko-KR": "[팔파도라]\n짜잔...!\n마음에 드셨음 좋겠어요!\n그럼 또 기다릴게요.",
+        "en-US": "[Palpadora]\nTa-da...!\nI hope you like it!\nI'll be waiting for you again.",
+        "pt-BR": "[Papoula]\nTa-dá...!\nEspero que goste!\nEstarei esperando por você novamente.",
+        "es-ES": "[Papola]\n¡Ta-dá...!\n¡Espero que te guste!\nEntonces, te esperaré otra vez."
     },
     "8wj/BQ": {
-        "ko": "[팔파도라]\n어어? 좋은 걸로 바꿔드린다니까요?\n^4D4DFF커다란 달콤이^000000를 사냥하면\n한 번씩 나오는데, 큰 건 정말\n커서 가져오는 것도 일이라고요.\n하지만 그런 걸 가져오시면!\n좋은 상품이! 따단!!",
-        "en": "[Palpadora]\nHuh? I said I'd give you something good, didn't I?\nWhen you hunt ^4D4DFFHuge Meloring^000000, they drop one sometimes,\nand the big ones are really huge, so just bringing one is a feat.\nBut when you bring something like that!\nA great prize! Ta-dan!!",
-        "pt": "[Papoula]\nHã? Eu disse que te daria algo bom, não foi?\nQuando você caça um ^4D4DFFMeloring Gigante^000000, eles derrubam um de vez em quando.\nE podem ser enormes, então trazer um já é um feito.\nMas quando você traz algo assim...\nUm grande prêmio! Ta-dan!!",
-        "es": "[Papola]\n¿Eh? ¡Te dije que te daría algo bueno!\nCuando cazas un ^4D4DFFMeloring Gigante^000000, a veces dejan caer uno.\nY pueden ser tan grandes que traer uno ya es todo un logro.\nPero cuando traes algo así...\n¡Un gran premio! ¡Ta-dán!"
+        "ko-KR": "[팔파도라]\n어어? 좋은 걸로 바꿔드린다니까요?\n^4D4DFF커다란 달콤이^000000를 사냥하면\n한 번씩 나오는데, 큰 건 정말\n커서 가져오는 것도 일이라고요.\n하지만 그런 걸 가져오시면!\n좋은 상품이! 따단!!",
+        "en-US": "[Palpadora]\nHuh? I said I'd give you something good, didn't I?\nWhen you hunt ^4D4DFFHuge Meloring^000000, they drop one sometimes,\nand the big ones are really huge, so just bringing one is a feat.\nBut when you bring something like that!\nA great prize! Ta-dan!!",
+        "pt-BR": "[Papoula]\nHã? Eu disse que te daria algo bom, não foi?\nQuando você caça um ^4D4DFFMeloring Gigante^000000, eles derrubam um de vez em quando.\nE podem ser enormes, então trazer um já é um feito.\nMas quando você traz algo assim...\nUm grande prêmio! Ta-dan!!",
+        "es-ES": "[Papola]\n¿Eh? ¡Te dije que te daría algo bueno!\nCuando cazas un ^4D4DFFMeloring Gigante^000000, a veces dejan caer uno.\nY pueden ser tan grandes que traer uno ya es todo un logro.\nPero cuando traes algo así...\n¡Un gran premio! ¡Ta-dán!"
     },
     "9Aj/BQ": {
-        "ko": "[팔파도라]\n...회수된 수상한 멜론은\n어디다 쓰냐고요?\n...후후.\n수상한 곳은 아니니 걱정하지\n않으셔도 될... 거예요.\n...후후후.",
-        "en": "[Palpadora]\n...What do we do with the collected Suspicious Melons, you ask?\n...Hehe.\nI'm sure you don't need to worry... it's nothing suspicious.\n...Hehehe.",
-        "pt": "[Papoula]\n...O que fazemos com os Melões Suspeitos coletados, você pergunta?\n...Hehe.\nTenho certeza de que você não precisa se preocupar... não é nada suspeito.\n...Hehehe.",
-        "es": "[Papola]\n...¿Que para qué se usan los Melones Sospechosos recolectados?\n...Jeje.\nSeguro que no tienes que preocuparte... no es nada sospechoso.\n...Jejeje."
+        "ko-KR": "[팔파도라]\n...회수된 수상한 멜론은\n어디다 쓰냐고요?\n...후후.\n수상한 곳은 아니니 걱정하지\n않으셔도 될... 거예요.\n...후후후.",
+        "en-US": "[Palpadora]\n...What do we do with the collected Suspicious Melons, you ask?\n...Hehe.\nI'm sure you don't need to worry... it's nothing suspicious.\n...Hehehe.",
+        "pt-BR": "[Papoula]\n...O que fazemos com os Melões Suspeitos coletados, você pergunta?\n...Hehe.\nTenho certeza de que você não precisa se preocupar... não é nada suspeito.\n...Hehehe.",
+        "es-ES": "[Papola]\n...¿Que para qué se usan los Melones Sospechosos recolectados?\n...Jeje.\nSeguro que no tienes que preocuparte... no es nada sospechoso.\n...Jejeje."
     },
     "9Qj/BQ": {
-        "ko": "말론",
-        "en": "Mellon",
-        "pt": "Mellon",
-        "es": "Mellon"
+        "ko-KR": "말론",
+        "en-US": "Mellon",
+        "pt-BR": "Mellon",
+        "es-ES": "Mellon"
     },
     "9gj/BQ": {
-        "ko": "말론 : 혹시 수상한 멜론이 필요한가?",
-        "en": "Mellon: Do you need a Suspicious Melon by any chance?",
-        "pt": "Mellon: Você precisa de um Melão Suspeito por acaso?",
-        "es": "Mellon: ¿Necesitas un Melón Sospechoso por casualidad?"
+        "ko-KR": "말론 : 혹시 수상한 멜론이 필요한가?",
+        "en-US": "Mellon: Do you need a Suspicious Melon by any chance?",
+        "pt-BR": "Mellon: Você precisa de um Melão Suspeito por acaso?",
+        "es-ES": "Mellon: ¿Necesitas un Melón Sospechoso por casualidad?"
     },
     "9wj/BQ": {
-        "ko": "[말론]\n후우...\n말하지 않아도 알아.\n...바꿔 주길 원하지?",
-        "en": "[Mellon]\nPhew...\nI know without you saying.\n...You want to make a trade, don't you?",
-        "pt": "[Mellon]\nUfa...\nEu sei sem você dizer.\n...Você quer fazer uma troca, não quer?",
-        "es": "[Mellon]\nFuu...\nLo sé sin que me lo digas.\n...¿Quieres hacer un cambio, verdad?"
+        "ko-KR": "[말론]\n후우...\n말하지 않아도 알아.\n...바꿔 주길 원하지?",
+        "en-US": "[Mellon]\nPhew...\nI know without you saying.\n...You want to make a trade, don't you?",
+        "pt-BR": "[Mellon]\nUfa...\nEu sei sem você dizer.\n...Você quer fazer uma troca, não quer?",
+        "es-ES": "[Mellon]\nFuu...\nLo sé sin que me lo digas.\n...¿Quieres hacer un cambio, verdad?"
     },
     "+Aj/BQ": {
-        "ko": "[말론]\n^4D4DFF달콤한 멜론 10개^000000를 가져와...\n^4D4DFF수상한 멜론^000000을 원한다면.",
-        "en": "[Mellon]\nBring me ^4D4DFF10 Sweet Melons^000000...\nif you want a ^4D4DFFSuspicious Melon^000000.",
-        "pt": "[Mellon]\nTraga-me ^4D4DFF10 Melões Amarelos^000000...\nse você quiser um ^4D4DFFMelão Suspeito^000000.",
-        "es": "[Mellon]\nTráeme ^4D4DFF10 Melones Dulces^000000...\nsi quieres un ^4D4DFFMelón Sospechoso^000000."
+        "ko-KR": "[말론]\n^4D4DFF달콤한 멜론 10개^000000를 가져와...\n^4D4DFF수상한 멜론^000000을 원한다면.",
+        "en-US": "[Mellon]\nBring me ^4D4DFF10 Sweet Melons^000000...\nif you want a ^4D4DFFSuspicious Melon^000000.",
+        "pt-BR": "[Mellon]\nTraga-me ^4D4DFF10 Melões Amarelos^000000...\nse você quiser um ^4D4DFFMelão Suspeito^000000.",
+        "es-ES": "[Mellon]\nTráeme ^4D4DFF10 Melones Dulces^000000...\nsi quieres un ^4D4DFFMelón Sospechoso^000000."
     },
     "+Qj/BQ": {
-        "ko": "바꿔줘",
-        "en": "Trade.",
-        "pt": "Trocar.",
-        "es": "Cambiar."
+        "ko-KR": "바꿔줘",
+        "en-US": "Trade.",
+        "pt-BR": "Trocar.",
+        "es-ES": "Cambiar."
     },
     "+gj/BQ": {
-        "ko": "여기서 뭐하는 거야?",
-        "en": "What are you doing here?",
-        "pt": "O que você está fazendo aqui?",
-        "es": "¿Qué haces aquí?"
+        "ko-KR": "여기서 뭐하는 거야?",
+        "en-US": "What are you doing here?",
+        "pt-BR": "O que você está fazendo aqui?",
+        "es-ES": "¿Qué haces aquí?"
     },
     "+wj/BQ": {
-        "ko": "필요 없어",
-        "en": "Not interested.",
-        "pt": "Não estou interessado.",
-        "es": "No me interesa."
+        "ko-KR": "필요 없어",
+        "en-US": "Not interested.",
+        "pt-BR": "Não estou interessado.",
+        "es-ES": "No me interesa."
     },
     "/Aj/BQ": {
-        "ko": "[말론]\n몇 개를 원하지?",
-        "en": "[Mellon]\nHow many do you want?",
-        "pt": "[Mellon]\nQuantos você quer?",
-        "es": "[Mellon]\n¿Cuántos quieres?"
+        "ko-KR": "[말론]\n몇 개를 원하지?",
+        "en-US": "[Mellon]\nHow many do you want?",
+        "pt-BR": "[Mellon]\nQuantos você quer?",
+        "es-ES": "[Mellon]\n¿Cuántos quieres?"
     },
     "/Qj/BQ": {
-        "ko": "[말론]\n어차피 달콤한 멜론은\n누가 생산해도 상관이 없는데\n게펜에서 집중적으로\n관리했던 물건이거든.",
-        "en": "[Mellon]\nIt doesn't matter who produces Sweet Melons anyway,\nbut these were items that Geffen managed intensively.",
-        "pt": "[Mellon]\nNão importa quem produz os Melões Amarelos,\nmas estes eram itens que Geffen geria intensivamente.",
-        "es": "[Mellon]\nNo importa quién produzca los Melones Dulces,\npero estos eran objetos que Geffen administraba intensivamente."
+        "ko-KR": "[말론]\n어차피 달콤한 멜론은\n누가 생산해도 상관이 없는데\n게펜에서 집중적으로\n관리했던 물건이거든.",
+        "en-US": "[Mellon]\nIt doesn't matter who produces Sweet Melons anyway,\nbut these were items that Geffen managed intensively.",
+        "pt-BR": "[Mellon]\nNão importa quem produz os Melões Amarelos,\nmas estes eram itens que Geffen geria intensivamente.",
+        "es-ES": "[Mellon]\nNo importa quién produzca los Melones Dulces,\npero estos eran objetos que Geffen administraba intensivamente."
     },
     "/gj/BQ": {
-        "ko": "[말론]\n하지만 올해는\n사정이 좀 다르니 나는\n이 기회를 놓칠 생각이 없어.\n내 거래가 시세에 맞으면\n너나 나나 좋은 거 아닌가?",
-        "en": "[Mellon]\nHowever, things are a bit different this year,\nso I have no intention of missing this opportunity.\nIf my trade matches the market price,\nit's good for both you and me, isn't it?",
-        "pt": "[Mellon]\nNo entanto, as coisas estão um pouco diferentes este ano,\nentão não tenho intenção de perder esta oportunidade.\nSe a minha troca corresponder ao preço de mercado,\né bom para você e para mim, não é?",
-        "es": "[Mellon]\nPero este año las cosas son un poco diferentes,\nasí que no pienso perder esta oportunidad.\nSi mi cambio se ajusta al precio del mercado,\nes bueno para ti y para mí, ¿no?"
+        "ko-KR": "[말론]\n하지만 올해는\n사정이 좀 다르니 나는\n이 기회를 놓칠 생각이 없어.\n내 거래가 시세에 맞으면\n너나 나나 좋은 거 아닌가?",
+        "en-US": "[Mellon]\nHowever, things are a bit different this year,\nso I have no intention of missing this opportunity.\nIf my trade matches the market price,\nit's good for both you and me, isn't it?",
+        "pt-BR": "[Mellon]\nNo entanto, as coisas estão um pouco diferentes este ano,\nentão não tenho intenção de perder esta oportunidade.\nSe a minha troca corresponder ao preço de mercado,\né bom para você e para mim, não é?",
+        "es-ES": "[Mellon]\nPero este año las cosas son un poco diferentes,\nasí que no pienso perder esta oportunidad.\nSi mi cambio se ajusta al precio del mercado,\nes bueno para ti y para mí, ¿no?"
     },
     "/wj/BQ": {
-        "ko": "[말론]\n잘 해보자고, 모험가.",
-        "en": "[Mellon]\nLet's do this right, adventurer.",
-        "pt": "[Mellon]\nVamos fazer isso direito, viajante.",
-        "es": "[Mellon]\nHagámoslo bien, trotamundos."
+        "ko-KR": "[말론]\n잘 해보자고, 모험가.",
+        "en-US": "[Mellon]\nLet's do this right, adventurer.",
+        "pt-BR": "[Mellon]\nVamos fazer isso direito, viajante.",
+        "es-ES": "[Mellon]\nHagámoslo bien, trotamundos."
     },
     "AAn/BQ": {
-        "ko": "[말론]\n후후, 지금은 그렇겠지.\n언젠가 필요하게 되면\n찾아오도록 해.",
-        "en": "[Mellon]\nHehe, that might be the case for now.\nWhen you need it someday,\ncome find me.",
-        "pt": "[Mellon]\nHehe, isso pode ser verdade por enquanto.\nQuando você precisar, me procure.",
-        "es": "[Mellon]\nJeje, por ahora será así.\nCuando algún día los necesites,\nven a buscarme."
+        "ko-KR": "[말론]\n후후, 지금은 그렇겠지.\n언젠가 필요하게 되면\n찾아오도록 해.",
+        "en-US": "[Mellon]\nHehe, that might be the case for now.\nWhen you need it someday,\ncome find me.",
+        "pt-BR": "[Mellon]\nHehe, isso pode ser verdade por enquanto.\nQuando você precisar, me procure.",
+        "es-ES": "[Mellon]\nJeje, por ahora será así.\nCuando algún día los necesites,\nven a buscarme."
     },
     "AQn/BQ": {
-        "ko": "자동판매기",
-        "en": "Vending Machine",
-        "pt": "Máquina de Venda Automática",
-        "es": "Máquina Expendedora"
+        "ko-KR": "자동판매기",
+        "en-US": "Vending Machine",
+        "pt-BR": "Máquina de Venda Automática",
+        "es-ES": "Máquina Expendedora"
     },
     "Agn/BQ": {
-        "ko": "- 소지하고 계신 아이템이 많아 자동판매기를 이용하실 수 없습니다. -",
-        "en": "- You have too many items in your possession and cannot use the vending machine. -",
-        "pt": "- Você está com muitos itens e não pode usar a máquina de venda automática. -",
-        "es": "- Tienes demasiados objetos en tu poder y no puedes usar la máquina expendedora. -"
+        "ko-KR": "- 소지하고 계신 아이템이 많아 자동판매기를 이용하실 수 없습니다. -",
+        "en-US": "- You have too many items in your possession and cannot use the vending machine. -",
+        "pt-BR": "- Você está com muitos itens e não pode usar a máquina de venda automática. -",
+        "es-ES": "- Tienes demasiados objetos en tu poder y no puedes usar la máquina expendedora. -"
     },
     "Awn/BQ": {
-        "ko": "[디저트 자동판매기]\n재료가 품절되었습니다.\n관리자와 상담해 주세요.\n띠로리.",
-        "en": "[Dessert Vending Machine]\nThe ingredients are sold out.\nPlease consult the manager.\nDing-dori.",
-        "pt": "[Máquina de Venda Automática de Sobremesas]\nOs ingredientes estão esgotados.\nPor favor, consulte o gerente.\nDing-dori.",
-        "es": "[Máquina Expendedora de Postres]\nLos ingredientes están agotados.\nPor favor, consulta con el administrador.\nDing-dori."
+        "ko-KR": "[디저트 자동판매기]\n재료가 품절되었습니다.\n관리자와 상담해 주세요.\n띠로리.",
+        "en-US": "[Dessert Vending Machine]\nThe ingredients are sold out.\nPlease consult the manager.\nDing-dori.",
+        "pt-BR": "[Máquina de Venda Automática de Sobremesas]\nOs ingredientes estão esgotados.\nPor favor, consulte o gerente.\nDing-dori.",
+        "es-ES": "[Máquina Expendedora de Postres]\nLos ingredientes están agotados.\nPor favor, consulta con el administrador.\nDing-dori."
     },
     "BAn/BQ": {
-        "ko": "맛있는~ 멜론이 왔어요~",
-        "en": "Delicious~ melon has arrived~",
-        "pt": "Melão delicioso~ chegou~",
-        "es": "Llegó un melón~ delicioso~"
+        "ko-KR": "맛있는~ 멜론이 왔어요~",
+        "en-US": "Delicious~ melon has arrived~",
+        "pt-BR": "Melão delicioso~ chegou~",
+        "es-ES": "Llegó un melón~ delicioso~"
     },
     "BQn/BQ": {
-        "ko": "맛있는~ 멜론이 왔어요~ 띠로링~",
-        "en": "Delicious~ melon has arrived~ Ding-doring~",
-        "pt": "Melão delicioso~ chegou~ Ding-doring~",
-        "es": "Llegó un melón~ delicioso~ Ding-doring~"
+        "ko-KR": "맛있는~ 멜론이 왔어요~ 띠로링~",
+        "en-US": "Delicious~ melon has arrived~ Ding-doring~",
+        "pt-BR": "Melão delicioso~ chegou~ Ding-doring~",
+        "es-ES": "Llegó un melón~ delicioso~ Ding-doring~"
     },
     "Bgn/BQ": {
-        "ko": "지금 기록은 {0}님의\n^0000FF{1}mm^000000입니다.\n2020년 멜론페스타 글로벌바를 초기화합니다.",
-        "en": "The current record is {0}'s ^0000FF{1}mm^000000.\nResetting the Melon Festa global bar.",
-        "pt": "O recorde atual é de {0} com ^0000FF{1}mm^000000.\nReiniciando a barra global da Feira do Melão.",
-        "es": "El récord actual es de {0} con ^0000FF{1}mm^000000.\nReiniciando la barra global de la Feria del Melón."
+        "ko-KR": "지금 기록은 {0}님의\n^0000FF{1}mm^000000입니다.\n2020년 멜론페스타 글로벌바를 초기화합니다.",
+        "en-US": "The current record is {0}'s ^0000FF{1}mm^000000.\nResetting the Melon Festa global bar.",
+        "pt-BR": "O recorde atual é de {0} com ^0000FF{1}mm^000000.\nReiniciando a barra global da Feira do Melão.",
+        "es-ES": "El récord actual es de {0} con ^0000FF{1}mm^000000.\nReiniciando la barra global de la Feria del Melón."
     },
     "Bwn/BQ": {
-        "ko": "아니오",
-        "en": "No",
-        "pt": "Não",
-        "es": "No"
+        "ko-KR": "아니오",
+        "en-US": "No",
+        "pt-BR": "Não",
+        "es-ES": "No"
     },
     "CAn/BQ": {
-        "ko": "예",
-        "en": "Yes",
-        "pt": "Sim",
-        "es": "Sí"
+        "ko-KR": "예",
+        "en-US": "Yes",
+        "pt-BR": "Sim",
+        "es-ES": "Sí"
     },
     "CQn/BQ": {
-        "ko": "아라감",
-        "en": "Aragon",
-        "pt": "Aragon",
-        "es": "Aragon"
+        "ko-KR": "아라감",
+        "en-US": "Aragon",
+        "pt-BR": "Aragon",
+        "es-ES": "Aragon"
     },
     "Cgn/BQ": {
-        "ko": "지금 기록은 {0}님의\n^0000FF{1}mm^000000입니다.\n초기화 완료되었습니다.",
-        "en": "The current record is {0}'s ^0000FF{1}mm^000000.\nReset complete.",
-        "pt": "O recorde atual é de {0} com ^0000FF{1}mm^000000.\nReinicialização concluída.",
-        "es": "El récord actual es de {0} con ^0000FF{1}mm^000000.\nReinicio completado."
+        "ko-KR": "지금 기록은 {0}님의\n^0000FF{1}mm^000000입니다.\n초기화 완료되었습니다.",
+        "en-US": "The current record is {0}'s ^0000FF{1}mm^000000.\nReset complete.",
+        "pt-BR": "O recorde atual é de {0} com ^0000FF{1}mm^000000.\nReinicialização concluída.",
+        "es-ES": "El récord actual es de {0} con ^0000FF{1}mm^000000.\nReinicio completado."
     }
 }

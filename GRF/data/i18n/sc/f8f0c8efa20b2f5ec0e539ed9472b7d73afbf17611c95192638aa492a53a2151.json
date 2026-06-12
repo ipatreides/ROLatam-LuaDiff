@@ -1,487 +1,487 @@
 {
     "AHNV": {
-        "en": "Laphine Soldier",
-        "pt": "Soldado Laphine",
-        "es": "Túnel de troncos"
+        "en-US": "Laphine Soldier",
+        "pt-BR": "Soldado Laphine",
+        "es-ES": "Túnel de troncos"
     },
     "AXNV": {
-        "en": "Hazy Forest",
-        "pt": "Floresta Nebulosa",
-        "es": "Bosque brumoso"
+        "en-US": "Hazy Forest",
+        "pt-BR": "Floresta Nebulosa",
+        "es-ES": "Bosque brumoso"
     },
     "AnNV": {
-        "en": "[Laphine Soldier]\nAre you going into the forest?",
-        "pt": "[Soldado Laphine]\nVocê está indo para a floresta?",
-        "es": "[Soldado Laphine]\n¿Entrarás al bosque?"
+        "en-US": "[Laphine Soldier]\nAre you going into the forest?",
+        "pt-BR": "[Soldado Laphine]\nVocê está indo para a floresta?",
+        "es-ES": "[Soldado Laphine]\n¿Entrarás al bosque?"
     },
     "A3NV": {
-        "en": "[Laphine Soldier]\n...Are you sure you're not doing too much?\nI think you'd better get some rest.\nYou'll only wear yourself out.",
-        "pt": "[Soldado Laphine]\n...Tem certeza de que não está fazendo demais?\nAcho que é melhor descansar um pouco.\nVocê só vai se desgastar.",
-        "es": "[Soldado Laphine]\n…¿No estás haciendo demasiado?\nCreo que sería mejor que descanses.\nSolo te cansarás más."
+        "en-US": "[Laphine Soldier]\n...Are you sure you're not doing too much?\nI think you'd better get some rest.\nYou'll only wear yourself out.",
+        "pt-BR": "[Soldado Laphine]\n...Tem certeza de que não está fazendo demais?\nAcho que é melhor descansar um pouco.\nVocê só vai se desgastar.",
+        "es-ES": "[Soldado Laphine]\n…¿No estás haciendo demasiado?\nCreo que sería mejor que descanses.\nSolo te cansarás más."
     },
     "BHNV": {
-        "en": "[Laphine Soldier]\nI don't think the authority will give you permission, either.\nEven a Sapha would be stopped from entering the forest.",
-        "pt": "[Soldado Laphine]\nTambém não acho que as autoridades lhe darão permissão.\nAté mesmo um Sapha seria impedido de entrar na floresta.",
-        "es": "[Soldado Laphine]\nTampoco creo que la autoridad te dé permiso.\nNi siquiera un sapha podría entrar al bosque."
+        "en-US": "[Laphine Soldier]\nI don't think the authority will give you permission, either.\nEven a Sapha would be stopped from entering the forest.",
+        "pt-BR": "[Soldado Laphine]\nTambém não acho que as autoridades lhe darão permissão.\nAté mesmo um Sapha seria impedido de entrar na floresta.",
+        "es-ES": "[Soldado Laphine]\nTampoco creo que la autoridad te dé permiso.\nNi siquiera un sapha podría entrar al bosque."
     },
     "BXNV": {
-        "en": "How can you speak Rune-Midgardian?",
-        "pt": "Como você pode falar rune-midgardiano?",
-        "es": "¿Cómo puedes hablar el idioma de Rune-Midgard?"
+        "en-US": "How can you speak Rune-Midgardian?",
+        "pt-BR": "Como você pode falar rune-midgardiano?",
+        "es-ES": "¿Cómo puedes hablar el idioma de Rune-Midgard?"
     },
     "BnNV": {
-        "en": "[Laphine Soldier]\nDo I?\nActually I'm not speaking your language.\nI'm speaking Laphine language.",
-        "pt": "[Soldado Laphine]\nEu falo?\nNa verdade, não estou falando a sua língua.\nEstou falando a língua laphine.",
-        "es": "[Soldado Laphine]\n¿Ah, sí?\nEn realidad, no hablo tu idioma.\nEstoy hablando en el idioma laphine."
+        "en-US": "[Laphine Soldier]\nDo I?\nActually I'm not speaking your language.\nI'm speaking Laphine language.",
+        "pt-BR": "[Soldado Laphine]\nEu falo?\nNa verdade, não estou falando a sua língua.\nEstou falando a língua laphine.",
+        "es-ES": "[Soldado Laphine]\n¿Ah, sí?\nEn realidad, no hablo tu idioma.\nEstoy hablando en el idioma laphine."
     },
     "B3NV": {
-        "en": "[Laphine Soldier]\nBut it's one of the mysteries of Bifrost.\nThat we can understand each other even if we speak different languages.",
-        "pt": "[Soldado Laphine]\nMas esse é um dos mistérios da Bifrost.\nO fato de podermos nos entender mesmo quando falamos idiomas diferentes.",
-        "es": "[Soldado Laphine]\nPero es uno de los misterios de Bifrost.\nQue podamos entendernos aunque hablemos idiomas distintos."
+        "en-US": "[Laphine Soldier]\nBut it's one of the mysteries of Bifrost.\nThat we can understand each other even if we speak different languages.",
+        "pt-BR": "[Soldado Laphine]\nMas esse é um dos mistérios da Bifrost.\nO fato de podermos nos entender mesmo quando falamos idiomas diferentes.",
+        "es-ES": "[Soldado Laphine]\nPero es uno de los misterios de Bifrost.\nQue podamos entendernos aunque hablemos idiomas distintos."
     },
     "CHNV": {
-        "en": "[Laphine Soldier]\nTo be able to talk with everybody...\nPerhaps that's the power of Bifrost.",
-        "pt": "[Soldado Laphine]\nSer capaz de conversar com todo mundo...\nTalvez esse seja o poder da Bifrost.",
-        "es": "[Soldado Laphine]\nPoder hablar con todo el mundo…\nTal vez ese sea el poder de Bifrost."
+        "en-US": "[Laphine Soldier]\nTo be able to talk with everybody...\nPerhaps that's the power of Bifrost.",
+        "pt-BR": "[Soldado Laphine]\nSer capaz de conversar com todo mundo...\nTalvez esse seja o poder da Bifrost.",
+        "es-ES": "[Soldado Laphine]\nPoder hablar con todo el mundo…\nTal vez ese sea el poder de Bifrost."
     },
     "CXNV": {
-        "en": "[Laphine Soldier]\nYou human adventurers are incredible.\nYou're always going into the forest, where no one else dares to go.",
-        "pt": "[Soldado Laphine]\nVocês, aventureiros humanos, são incríveis.\nEstão sempre entrando na floresta, onde ninguém mais se atreve a ir.",
-        "es": "[Soldado Laphine]\nUstedes los humanos trotamundos son increíbles.\nSiempre metiéndose en el bosque, donde nadie más se atreve a ir."
+        "en-US": "[Laphine Soldier]\nYou human adventurers are incredible.\nYou're always going into the forest, where no one else dares to go.",
+        "pt-BR": "[Soldado Laphine]\nVocês, aventureiros humanos, são incríveis.\nEstão sempre entrando na floresta, onde ninguém mais se atreve a ir.",
+        "es-ES": "[Soldado Laphine]\nUstedes los humanos trotamundos son increíbles.\nSiempre metiéndose en el bosque, donde nadie más se atreve a ir."
     },
     "CnNV": {
-        "en": "[Laphine Soldier]\nPhew. But I have to report to the authority\neveryone who goes into the forest, just in case.",
-        "pt": "[Soldado Laphine]\nUfa. Mas tenho que informar à autoridade sobre\ntodos que entrarem na floresta, por precaução.",
-        "es": "[Soldado Laphine]\nFiu. Pero tengo que informar a la autoridad\nde todo aquel que entre al bosque, por si acaso."
+        "en-US": "[Laphine Soldier]\nPhew. But I have to report to the authority\neveryone who goes into the forest, just in case.",
+        "pt-BR": "[Soldado Laphine]\nUfa. Mas tenho que informar à autoridade sobre\ntodos que entrarem na floresta, por precaução.",
+        "es-ES": "[Soldado Laphine]\nFiu. Pero tengo que informar a la autoridad\nde todo aquel que entre al bosque, por si acaso."
     },
     "C3NV": {
-        "en": "[Laphine Soldier]\nYou'll get permission\nafter you register.\nAre you going to venture into the Hazy Forest?",
-        "pt": "[Soldado Laphine]\nVocê receberá permissão\ndepois de se registrar.\nVai se aventurar na Floresta Nebulosa?",
-        "es": "[Soldado Laphine]\nTe darán permiso\nuna vez que te registres.\n¿Te adentrarás en el Bosque brumoso?"
+        "en-US": "[Laphine Soldier]\nYou'll get permission\nafter you register.\nAre you going to venture into the Hazy Forest?",
+        "pt-BR": "[Soldado Laphine]\nVocê receberá permissão\ndepois de se registrar.\nVai se aventurar na Floresta Nebulosa?",
+        "es-ES": "[Soldado Laphine]\nTe darán permiso\nuna vez que te registres.\n¿Te adentrarás en el Bosque brumoso?"
     },
     "DHNV": {
-        "en": "Venture into the Hazy Forest.",
-        "pt": "Aventurar-se na Floresta Nebulosa.",
-        "es": "Adentrarme al Bosque brumoso."
+        "en-US": "Venture into the Hazy Forest.",
+        "pt-BR": "Aventurar-se na Floresta Nebulosa.",
+        "es-ES": "Adentrarme al Bosque brumoso."
     },
     "DXNV": {
-        "en": "Give up.",
-        "pt": "Desistir.",
-        "es": "Rendirme."
+        "en-US": "Give up.",
+        "pt-BR": "Desistir.",
+        "es-ES": "Rendirme."
     },
     "DnNV": {
-        "en": "[Laphine Soldier]\nParty Name {0}...\nParty Leader Name {1}...\nHmm...",
-        "pt": "[Soldado Laphine]\nNome do grupo {0}...\nNome do líder do grupo {1}...\nHmm...",
-        "es": "[Soldado Laphine]\nNombre del grupo: {0}…\nNombre del líder del grupo: {1}…\nMmm…"
+        "en-US": "[Laphine Soldier]\nParty Name {0}...\nParty Leader Name {1}...\nHmm...",
+        "pt-BR": "[Soldado Laphine]\nNome do grupo {0}...\nNome do líder do grupo {1}...\nHmm...",
+        "es-ES": "[Soldado Laphine]\nNombre del grupo: {0}…\nNombre del líder del grupo: {1}…\nMmm…"
     },
     "D3NV": {
-        "en": "[Laphine Soldier]\nIt's dangerous in the forest.\n...Why don't you just go back today?",
-        "pt": "[Soldado Laphine]\nA floresta é perigosa.\n...Por que você não volta hoje?",
-        "es": "[Soldado Laphine]\nEl bosque es peligroso.\n…¿Por qué no regresas por hoy?"
+        "en-US": "[Laphine Soldier]\nIt's dangerous in the forest.\n...Why don't you just go back today?",
+        "pt-BR": "[Soldado Laphine]\nA floresta é perigosa.\n...Por que você não volta hoje?",
+        "es-ES": "[Soldado Laphine]\nEl bosque es peligroso.\n…¿Por qué no regresas por hoy?"
     },
     "EHNV": {
-        "en": "[Laphine Soldier]\nParty Name {0}...\nParty Leader Name {1}...\nI've got it. I've written them down on the report here.",
-        "pt": "[Soldado Laphine]\nNome do grupo {0}...\nNome do líder do grupo {1}...\nJá sei. Eu anotei no relatório aqui.",
-        "es": "[Soldado Laphine]\nNombre del grupo: {0}…\nNombre del líder del grupo: {1}…\nLo tengo. Los anoté aquí en el informe."
+        "en-US": "[Laphine Soldier]\nParty Name {0}...\nParty Leader Name {1}...\nI've got it. I've written them down on the report here.",
+        "pt-BR": "[Soldado Laphine]\nNome do grupo {0}...\nNome do líder do grupo {1}...\nJá sei. Eu anotei no relatório aqui.",
+        "es-ES": "[Soldado Laphine]\nNombre del grupo: {0}…\nNombre del líder del grupo: {1}…\nLo tengo. Los anoté aquí en el informe."
     },
     "EXNV": {
-        "en": "[Laphine Soldier]\nYou'll get permission soon.\nNow go to the log tunnel, the only way to get into the Hazy Forest.\nYou understand?",
-        "pt": "[Soldado Laphine]\nVocê receberá permissão em breve.\nAgora vá para o túnel de madeira, a única maneira de entrar na Floresta Nebulosa.\nEntendeu?",
-        "es": "[Soldado Laphine]\nPronto tendrás permiso.\nAhora ve al túnel de leños, la única forma de entrar al Bosque brumoso.\n¿Entiendes?"
+        "en-US": "[Laphine Soldier]\nYou'll get permission soon.\nNow go to the log tunnel, the only way to get into the Hazy Forest.\nYou understand?",
+        "pt-BR": "[Soldado Laphine]\nVocê receberá permissão em breve.\nAgora vá para o túnel de madeira, a única maneira de entrar na Floresta Nebulosa.\nEntendeu?",
+        "es-ES": "[Soldado Laphine]\nPronto tendrás permiso.\nAhora ve al túnel de leños, la única forma de entrar al Bosque brumoso.\n¿Entiendes?"
     },
     "EnNV": {
-        "en": "[Laphine Soldier]\nWe can't go against the forest,\nbut maybe you humans can.\nGood luck!",
-        "pt": "[Soldado Laphine]\nNão podemos ir contra a floresta,\nmas talvez vocês, humanos, possam.\nBoa sorte!",
-        "es": "[Soldado Laphine]\nNo podemos desafiar al bosque,\npero quizá ustedes, los humanos, sí.\n¡Buena suerte!"
+        "en-US": "[Laphine Soldier]\nWe can't go against the forest,\nbut maybe you humans can.\nGood luck!",
+        "pt-BR": "[Soldado Laphine]\nNão podemos ir contra a floresta,\nmas talvez vocês, humanos, possam.\nBoa sorte!",
+        "es-ES": "[Soldado Laphine]\nNo podemos desafiar al bosque,\npero quizá ustedes, los humanos, sí.\n¡Buena suerte!"
     },
     "E3NV": {
-        "en": "[Laphine Soldier]\nWell, you've made the right decision.\nThat's what's good for you.",
-        "pt": "[Soldado Laphine]\nBem, você tomou a decisão certa.\nIsso é o que é bom para você.",
-        "es": "[Soldado Laphine]\nBueno, tomaste la decisión correcta.\nEso es lo que te conviene."
+        "en-US": "[Laphine Soldier]\nWell, you've made the right decision.\nThat's what's good for you.",
+        "pt-BR": "[Soldado Laphine]\nBem, você tomou a decisão certa.\nIsso é o que é bom para você.",
+        "es-ES": "[Soldado Laphine]\nBueno, tomaste la decisión correcta.\nEso es lo que te conviene."
     },
     "FHNV": {
-        "en": "[Laphine Soldier]\nWhere's your party leader?\nWhere's your party leader?\nIt's dangerous in there.",
-        "pt": "[Soldado Laphine]\nOnde está o líder de seu grupo?\nOnde está o líder de seu grupo?\nÉ perigoso lá dentro.",
-        "es": "[Soldado Laphine]\n¿Dónde está tu líder del grupo?\n¿Dónde está tu líder del grupo?\nEs peligroso ahí dentro."
+        "en-US": "[Laphine Soldier]\nWhere's your party leader?\nWhere's your party leader?\nIt's dangerous in there.",
+        "pt-BR": "[Soldado Laphine]\nOnde está o líder de seu grupo?\nOnde está o líder de seu grupo?\nÉ perigoso lá dentro.",
+        "es-ES": "[Soldado Laphine]\n¿Dónde está tu líder del grupo?\n¿Dónde está tu líder del grupo?\nEs peligroso ahí dentro."
     },
     "FXNV": {
-        "en": "[Laphine Soldier]\nI see you've been into the forest before.\nOkay, at least the forest won't reject you.\nHowever...",
-        "pt": "[Soldado Laphine]\nVejo que já esteve na floresta antes.\nOk, pelo menos a floresta não te rejeitará.\nNo entanto...",
-        "es": "[Soldado Laphine]\nVeo que ya has estado en el bosque.\nBien, al menos el bosque no te rechazará.\nSin embargo…"
+        "en-US": "[Laphine Soldier]\nI see you've been into the forest before.\nOkay, at least the forest won't reject you.\nHowever...",
+        "pt-BR": "[Soldado Laphine]\nVejo que já esteve na floresta antes.\nOk, pelo menos a floresta não te rejeitará.\nNo entanto...",
+        "es-ES": "[Soldado Laphine]\nVeo que ya has estado en el bosque.\nBien, al menos el bosque no te rechazará.\nSin embargo…"
     },
     "FnNV": {
-        "en": "[Laphine Soldier]\nPut yourself in my shoes, the entrance guard, and let me meet the representative of your party.\nI have to discuss some things with him/her.",
-        "pt": "[Soldado Laphine]\nColoque-se no meu lugar, o guarda da entrada, e deixe-me conhecer o representante do seu grupo.\nTenho que discutir algumas coisas com ele.",
-        "es": "[Soldado Laphine]\nPonte en mi lugar como guardia de la entrada y permíteme conocer al representante de tu grupo.\nDebo discutir algunas cosas con esa persona."
+        "en-US": "[Laphine Soldier]\nPut yourself in my shoes, the entrance guard, and let me meet the representative of your party.\nI have to discuss some things with him/her.",
+        "pt-BR": "[Soldado Laphine]\nColoque-se no meu lugar, o guarda da entrada, e deixe-me conhecer o representante do seu grupo.\nTenho que discutir algumas coisas com ele.",
+        "es-ES": "[Soldado Laphine]\nPonte en mi lugar como guardia de la entrada y permíteme conocer al representante de tu grupo.\nDebo discutir algunas cosas con esa persona."
     },
     "F3NV": {
-        "en": "[Laphine Soldier]\nWell, well, well, aren't you being too rash?\nWhy don't you at least organize a party?",
-        "pt": "[Soldado Laphine]\nOra, ora, ora, não está sendo muito precipitado?\nPor que você não organiza pelo menos um grupo?",
-        "es": "[Soldado Laphine]\nVaya, vaya, vaya, ¿no te estás precipitando?\n¿Por qué no organizas al menos un grupo?"
+        "en-US": "[Laphine Soldier]\nWell, well, well, aren't you being too rash?\nWhy don't you at least organize a party?",
+        "pt-BR": "[Soldado Laphine]\nOra, ora, ora, não está sendo muito precipitado?\nPor que você não organiza pelo menos um grupo?",
+        "es-ES": "[Soldado Laphine]\nVaya, vaya, vaya, ¿no te estás precipitando?\n¿Por qué no organizas al menos un grupo?"
     },
     "GHNV": {
-        "en": "Log Tunnel",
-        "pt": "Túnel de registro",
-        "es": "Flor misteriosa"
+        "en-US": "Log Tunnel",
+        "pt-BR": "Túnel de registro",
+        "es-ES": "Flor misteriosa"
     },
     "GXNV": {
-        "en": "I see you've been into the forest before.\nThe Wandering Dragon has been vanquished already.\nWait until the timer has expired to re-enter.",
-        "pt": "Vejo que já esteve na floresta antes.\nO Dragão Errante já foi derrotado.\nAguarde até que o cronômetro expire para entrar novamente.",
-        "es": "Veo que ya has estado en el bosque.\nEl Dragón errante ya ha sido derrotado.\nEspera hasta que termine el temporizador para volver a entrar."
+        "en-US": "I see you've been into the forest before.\nThe Wandering Dragon has been vanquished already.\nWait until the timer has expired to re-enter.",
+        "pt-BR": "Vejo que já esteve na floresta antes.\nO Dragão Errante já foi derrotado.\nAguarde até que o cronômetro expire para entrar novamente.",
+        "es-ES": "Veo que ya has estado en el bosque.\nEl Dragón errante ya ha sido derrotado.\nEspera hasta que termine el temporizador para volver a entrar."
     },
     "GnNV": {
-        "en": "I see the forest through the log tunnel.\nIt looks like I can enter the forest through the log tunnel.",
-        "pt": "Vejo a floresta através do túnel de toras.\nParece que posso entrar na floresta por esse túnel.",
-        "es": "Veo el bosque a través del túnel de leños.\nParece que puedo entrar al bosque por el túnel de leños."
+        "en-US": "I see the forest through the log tunnel.\nIt looks like I can enter the forest through the log tunnel.",
+        "pt-BR": "Vejo a floresta através do túnel de toras.\nParece que posso entrar na floresta por esse túnel.",
+        "es-ES": "Veo el bosque a través del túnel de leños.\nParece que puedo entrar al bosque por el túnel de leños."
     },
     "G3NV": {
-        "en": "Enter the tunnel.",
-        "pt": "Entre no túnel.",
-        "es": "Entrar al túnel."
+        "en-US": "Enter the tunnel.",
+        "pt-BR": "Entre no túnel.",
+        "es-ES": "Entrar al túnel."
     },
     "HHNV": {
-        "en": "[Laphine Soldier]\nThe Maze of the Hazy Forest\nSomething doesn't feel right. Looks like something dangerous is going on, so you'd better turn back today.",
-        "pt": "[Soldado Laphine]\nO labirinto da floresta nebulosa\nAlgo não parece certo. Parece que algo perigoso está acontecendo, então é melhor voltar hoje.",
-        "es": "[Soldado Laphine]\nEl Laberinto del Bosque brumoso.\nAlgo no va bien. Parece peligroso ahí delante, así que será mejor que vuelvas por hoy."
+        "en-US": "[Laphine Soldier]\nThe Maze of the Hazy Forest\nSomething doesn't feel right. Looks like something dangerous is going on, so you'd better turn back today.",
+        "pt-BR": "[Soldado Laphine]\nO labirinto da floresta nebulosa\nAlgo não parece certo. Parece que algo perigoso está acontecendo, então é melhor voltar hoje.",
+        "es-ES": "[Soldado Laphine]\nEl Laberinto del Bosque brumoso.\nAlgo no va bien. Parece peligroso ahí delante, así que será mejor que vuelvas por hoy."
     },
     "HXNV": {
-        "en": "You try to crawl into the log, but some mysterious power pushes you back with a gush of wind.\nIt seems like you can't force your way into the forest.",
-        "pt": "Você tenta se arrastar para dentro do tronco, mas um poder misterioso te empurra para trás com um jato de vento.\nParece que você não consegue forçar sua entrada na floresta.",
-        "es": "Intentas arrastrarte por el leño, pero un poder misterioso te empuja hacia atrás con una ráfaga de viento.\nParece que no se puede entrar al bosque por la fuerza."
+        "en-US": "You try to crawl into the log, but some mysterious power pushes you back with a gush of wind.\nIt seems like you can't force your way into the forest.",
+        "pt-BR": "Você tenta se arrastar para dentro do tronco, mas um poder misterioso te empurra para trás com um jato de vento.\nParece que você não consegue forçar sua entrada na floresta.",
+        "es-ES": "Intentas arrastrarte por el leño, pero un poder misterioso te empuja hacia atrás con una ráfaga de viento.\nParece que no se puede entrar al bosque por la fuerza."
     },
     "HnNV": {
-        "en": "[Laphine Soldier]\nHey, look!\nAre you going alone?\nThat's impossible. Too rash.\nTeam up with some friends and go together!",
-        "pt": "[Soldado Laphine]\nEi, olhe aqui!\nVocê está indo sozinho?\nIsso é impossível. É muito difícil.\nArrume alguns amigos e vá com eles!",
-        "es": "[Soldado Laphine]\n¡Eh, mira!\n¿No irás con nadie?\nEs imposible. Demasiado precipitado.\n¡Forma un equipo con algunos amigos y vayan juntos!"
+        "en-US": "[Laphine Soldier]\nHey, look!\nAre you going alone?\nThat's impossible. Too rash.\nTeam up with some friends and go together!",
+        "pt-BR": "[Soldado Laphine]\nEi, olhe aqui!\nVocê está indo sozinho?\nIsso é impossível. É muito difícil.\nArrume alguns amigos e vá com eles!",
+        "es-ES": "[Soldado Laphine]\n¡Eh, mira!\n¿No irás con nadie?\nEs imposible. Demasiado precipitado.\n¡Forma un equipo con algunos amigos y vayan juntos!"
     },
     "H3NV": {
-        "en": "{0} party's {1} member {2} enters",
-        "pt": "{1}, do grupo {0}, entrou em {2}.",
-        "es": "El miembro {1} del grupo {0} entra a {2}."
+        "en-US": "{0} party's {1} member {2} enters",
+        "pt-BR": "{1}, do grupo {0}, entrou em {2}.",
+        "es-ES": "El miembro {1} del grupo {0} entra a {2}."
     },
     "IHNV": {
-        "en": "The world beyond the log tunnel looks dark and suffocating.\nYour instinct is screaming that this forest is dangerous.",
-        "pt": "O mundo além do túnel de toras parece escuro e sufocante.\nSeu instinto está gritando que essa floresta é perigosa.",
-        "es": "El mundo más allá del túnel de leños parece oscuro y asfixiante.\nTu instinto te dice a gritos que el bosque es peligroso."
+        "en-US": "The world beyond the log tunnel looks dark and suffocating.\nYour instinct is screaming that this forest is dangerous.",
+        "pt-BR": "O mundo além do túnel de toras parece escuro e sufocante.\nSeu instinto está gritando que essa floresta é perigosa.",
+        "es-ES": "El mundo más allá del túnel de leños parece oscuro y asfixiante.\nTu instinto te dice a gritos que el bosque es peligroso."
     },
     "IXNV": {
-        "en": "Mysterious Flower",
-        "pt": "Flor Misteriosa",
-        "es": "Dama que huele a flores"
+        "en-US": "Mysterious Flower",
+        "pt-BR": "Flor Misteriosa",
+        "es-ES": "Dama que huele a flores"
     },
     "InNV": {
-        "en": "It's a giant flower with mysterious energy.\nIt's reacting to the Mysterious Flower Seeds you have with you.",
-        "pt": "É uma flor gigante com energia misteriosa.\nEla está reagindo às Sementes de Flor Misteriosa que você tem.",
-        "es": "Es una flor gigante con una energía misteriosa.\nEstá reaccionando a las semillas de la Flor misteriosa que llevas contigo."
+        "en-US": "It's a giant flower with mysterious energy.\nIt's reacting to the Mysterious Flower Seeds you have with you.",
+        "pt-BR": "É uma flor gigante com energia misteriosa.\nEla está reagindo às Sementes de Flor Misteriosa que você tem.",
+        "es-ES": "Es una flor gigante con una energía misteriosa.\nEstá reaccionando a las semillas de la Flor misteriosa que llevas contigo."
     },
     "I3NV": {
-        "en": "Observe the reaction.",
-        "pt": "Observe a reação.",
-        "es": "Observar la reacción."
+        "en-US": "Observe the reaction.",
+        "pt-BR": "Observe a reação.",
+        "es-ES": "Observar la reacción."
     },
     "JHNV": {
-        "en": "Stop the reaction.",
-        "pt": "Interrompa a reação.",
-        "es": "Detener la reacción."
+        "en-US": "Stop the reaction.",
+        "pt-BR": "Interrompa a reação.",
+        "es-ES": "Detener la reacción."
     },
     "JXNV": {
-        "en": "The flower started to shake violently\nand swing forward as if trying to send the seeds as far away as possible!!!",
-        "pt": "A flor começou a se agitar violentamente\ne balançou para frente como se estivesse tentando mandar as sementes para o mais longe possível!!!",
-        "es": "¡La flor empezó a temblar violentamente\ne inclinarse hacia delante como si tratara de lanzar las semillas lo más lejos posible!"
+        "en-US": "The flower started to shake violently\nand swing forward as if trying to send the seeds as far away as possible!!!",
+        "pt-BR": "A flor começou a se agitar violentamente\ne balançou para frente como se estivesse tentando mandar as sementes para o mais longe possível!!!",
+        "es-ES": "¡La flor empezó a temblar violentamente\ne inclinarse hacia delante como si tratara de lanzar las semillas lo más lejos posible!"
     },
     "JnNV": {
-        "en": "As you hold onto the Mysterious Flower Seeds tightly,\nthe flower shakes violently and then becomes calm again.",
-        "pt": "Ao segurar firme as sementes da Flor Misteriosa,\nela se agita violentamente e depois se acalma de novo.",
-        "es": "Mientras sujetas con fuerza las semillas de la Flor misteriosa,\nla flor tiembla violentamente, pero luego vuelve a calmarse."
+        "en-US": "As you hold onto the Mysterious Flower Seeds tightly,\nthe flower shakes violently and then becomes calm again.",
+        "pt-BR": "Ao segurar firme as sementes da Flor Misteriosa,\nela se agita violentamente e depois se acalma de novo.",
+        "es-ES": "Mientras sujetas con fuerza las semillas de la Flor misteriosa,\nla flor tiembla violentamente, pero luego vuelve a calmarse."
     },
     "J3NV": {
-        "en": "It's a giant flower with mysterious energy.\nIt looks like it has some special use, but you're not sure what.",
-        "pt": "É uma flor gigante com uma energia misteriosa.\nParece que ela tem algum uso especial, mas você não sabe ao certo qual.",
-        "es": "Es una flor gigante con una energía misteriosa.\nParece que tiene algún uso especial, pero no sabes con certeza cuál."
+        "en-US": "It's a giant flower with mysterious energy.\nIt looks like it has some special use, but you're not sure what.",
+        "pt-BR": "É uma flor gigante com uma energia misteriosa.\nParece que ela tem algum uso especial, mas você não sabe ao certo qual.",
+        "es-ES": "Es una flor gigante con una energía misteriosa.\nParece que tiene algún uso especial, pero no sabes con certeza cuál."
     },
     "KHNV": {
-        "en": "Flower Smelling Lady",
-        "pt": "Dama com cheiro de flor",
-        "es": "Hombre Perspicaz"
+        "en-US": "Flower Smelling Lady",
+        "pt-BR": "Dama com cheiro de flor",
+        "es-ES": "Hombre Perspicaz"
     },
     "KXNV": {
-        "en": "[Flower Smelling Lady]\nI need rest.\nI'm too tired to talk to you.\nI'm sorry.",
-        "pt": "[Dama com cheiro de flor]\nPreciso descansar.\nEstou muito cansada para falar com você.\nDesculpe-me.",
-        "es": "[Mujer oliendo flores]\nNecesito descansar.\nEstoy demasiado cansada para hablar contigo.\nLo siento."
+        "en-US": "[Flower Smelling Lady]\nI need rest.\nI'm too tired to talk to you.\nI'm sorry.",
+        "pt-BR": "[Dama com cheiro de flor]\nPreciso descansar.\nEstou muito cansada para falar com você.\nDesculpe-me.",
+        "es-ES": "[Mujer oliendo flores]\nNecesito descansar.\nEstoy demasiado cansada para hablar contigo.\nLo siento."
     },
     "KnNV": {
-        "en": "[Nidhoggur the Guardian]\nI've been waiting for you.\nI'm still confused, but I know what I did wrong.",
-        "pt": "[Guardiã Nidhogg]\nEu estava esperando por você.\nAinda estou confuso, mas sei o que fiz de errado.",
-        "es": "[Nidhogg, la guardiana]\nTe estaba esperando.\nSigo confundida, pero sé lo que hice mal."
+        "en-US": "[Nidhoggur the Guardian]\nI've been waiting for you.\nI'm still confused, but I know what I did wrong.",
+        "pt-BR": "[Guardiã Nidhogg]\nEu estava esperando por você.\nAinda estou confuso, mas sei o que fiz de errado.",
+        "es-ES": "[Nidhogg, la guardiana]\nTe estaba esperando.\nSigo confundida, pero sé lo que hice mal."
     },
     "K3NV": {
-        "en": "[Nidhoggur the Guardian]\nIf it weren't for you, I would still be wandering in the abyssal darkness.\nI thank you, from the bottom of my heart.",
-        "pt": "[Guardiã Nidhogg]\nSe não fosse por você, eu ainda estaria vagando na escuridão abissal.\nLhe agradeço do fundo do meu coração.",
-        "es": "[Nidhogg, la guardiana]\nSi no fuera por ti, seguiría vagando en la oscuridad del abismo.\nTe lo agradezco de todo corazón."
+        "en-US": "[Nidhoggur the Guardian]\nIf it weren't for you, I would still be wandering in the abyssal darkness.\nI thank you, from the bottom of my heart.",
+        "pt-BR": "[Guardiã Nidhogg]\nSe não fosse por você, eu ainda estaria vagando na escuridão abissal.\nLhe agradeço do fundo do meu coração.",
+        "es-ES": "[Nidhogg, la guardiana]\nSi no fuera por ti, seguiría vagando en la oscuridad del abismo.\nTe lo agradezco de todo corazón."
     },
     "LHNV": {
-        "en": "[Nidhoggur the Guardian]\nI'm ashamed of myself, falling for the sweet but empty words that came to me in my loneliness.\n....",
-        "pt": "[Guardiã Nidhogg]\nEstou envergonhado de mim mesmo por ter me apaixonado pelas palavras doces, mas vazias, que vieram até mim em minha solidão.\n....",
-        "es": "[Nidhogg, la guardiana]\nMe avergüenzo de mí misma, de haber creído en las palabras dulces pero vacías que vinieron a mí en la soledad.\n...."
+        "en-US": "[Nidhoggur the Guardian]\nI'm ashamed of myself, falling for the sweet but empty words that came to me in my loneliness.\n....",
+        "pt-BR": "[Guardiã Nidhogg]\nEstou envergonhado de mim mesmo por ter me apaixonado pelas palavras doces, mas vazias, que vieram até mim em minha solidão.\n....",
+        "es-ES": "[Nidhogg, la guardiana]\nMe avergüenzo de mí misma, de haber creído en las palabras dulces pero vacías que vinieron a mí en la soledad.\n...."
     },
     "LXNV": {
-        "en": "[Nidhoggur the Guardian]\nI don't deserve to be a guardian any more.\nA dragon gone crazy is not a guardian any more.",
-        "pt": "[Guardiã Nidhogg]\nEu não mereço mais ser um guardião.\nUm dragão enlouquecido não é mais um guardião.",
-        "es": "[Nidhogg, la guardiana]\nYa no merezco ser una guardiana.\nUn Dragón que enloqueció ya no es un guardián."
+        "en-US": "[Nidhoggur the Guardian]\nI don't deserve to be a guardian any more.\nA dragon gone crazy is not a guardian any more.",
+        "pt-BR": "[Guardiã Nidhogg]\nEu não mereço mais ser um guardião.\nUm dragão enlouquecido não é mais um guardião.",
+        "es-ES": "[Nidhogg, la guardiana]\nYa no merezco ser una guardiana.\nUn Dragón que enloqueció ya no es un guardián."
     },
     "LnNV": {
-        "en": "[Loki]\nYggdrasil doesn't think so.\nNidi, don't forget your duties.",
-        "pt": "[Loki]\nYggdrasil não pensa assim.\nNidi, não se esqueça de seus deveres.",
-        "es": "[Loki]\nYggdrasil no lo cree así.\nNidi, no olvides tus deberes."
+        "en-US": "[Loki]\nYggdrasil doesn't think so.\nNidi, don't forget your duties.",
+        "pt-BR": "[Loki]\nYggdrasil não pensa assim.\nNidi, não se esqueça de seus deveres.",
+        "es-ES": "[Loki]\nYggdrasil no lo cree así.\nNidi, no olvides tus deberes."
     },
     "L3NV": {
-        "en": "[Nidhoggur the Guardian]\nAre you...?\nI see...\nI thought I was forsaken...",
-        "pt": "[Guardiã Nidhogg]\nVocê é...?\nEstou vendo...\nPensei que estava abandonado...",
-        "es": "[Nidhogg, la guardiana]\n¿Estás…?\nYa veo…\nCreí que me habían abandonado…"
+        "en-US": "[Nidhoggur the Guardian]\nAre you...?\nI see...\nI thought I was forsaken...",
+        "pt-BR": "[Guardiã Nidhogg]\nVocê é...?\nEstou vendo...\nPensei que estava abandonado...",
+        "es-ES": "[Nidhogg, la guardiana]\n¿Estás…?\nYa veo…\nCreí que me habían abandonado…"
     },
     "MHNV": {
-        "en": "The Guardian slowly looked away as if deep in thought.",
-        "pt": "O Guardião desviou o olhar devagar, como se estivesse pensando profundamente.",
-        "es": "La guardiana apartó lentamente la mirada, como si estuviera sumida en sus pensamientos."
+        "en-US": "The Guardian slowly looked away as if deep in thought.",
+        "pt-BR": "O Guardião desviou o olhar devagar, como se estivesse pensando profundamente.",
+        "es-ES": "La guardiana apartó lentamente la mirada, como si estuviera sumida en sus pensamientos."
     },
     "MXNV": {
-        "en": "-She seems to be deep in thought.-",
-        "pt": "-Ela parece estar pensando profundamente. -",
-        "es": "(Parece estar sumida en sus pensamientos)."
+        "en-US": "-She seems to be deep in thought.-",
+        "pt-BR": "-Ela parece estar pensando profundamente. -",
+        "es-ES": "(Parece estar sumida en sus pensamientos)."
     },
     "MnNV": {
-        "en": "[Nidhoggur the Guardian]\nI haven't gotten all of my powers back.\nI'm sorry I can't protect you.",
-        "pt": "[Guardiã Nidhogg]\nNão recuperei todos os meus poderes.\nDesculpe-me por não poder te proteger.",
-        "es": "[Nidhogg, la guardiana]\nNo he recuperado todos mis poderes.\nSiento no poder protegerte."
+        "en-US": "[Nidhoggur the Guardian]\nI haven't gotten all of my powers back.\nI'm sorry I can't protect you.",
+        "pt-BR": "[Guardiã Nidhogg]\nNão recuperei todos os meus poderes.\nDesculpe-me por não poder te proteger.",
+        "es-ES": "[Nidhogg, la guardiana]\nNo he recuperado todos mis poderes.\nSiento no poder protegerte."
     },
     "M3NV": {
-        "en": "[Nidhoggur the Guardian]\nLoki said...\nthat I won't cry from loneliness again.\nThat I will always have new friends like you...",
-        "pt": "[Guardiã Nidhogg]\nLoki disse...\nque eu não vou chorar de solidão novamente.\nQue sempre terei novos amigos como você...",
-        "es": "[Nidhogg, la guardiana]\nLoki dijo…\nque no volveré a llorar por la soledad.\nQue siempre tendré nuevos amigos como tú…"
+        "en-US": "[Nidhoggur the Guardian]\nLoki said...\nthat I won't cry from loneliness again.\nThat I will always have new friends like you...",
+        "pt-BR": "[Guardiã Nidhogg]\nLoki disse...\nque eu não vou chorar de solidão novamente.\nQue sempre terei novos amigos como você...",
+        "es-ES": "[Nidhogg, la guardiana]\nLoki dijo…\nque no volveré a llorar por la soledad.\nQue siempre tendré nuevos amigos como tú…"
     },
     "NHNV": {
-        "en": "[Nidhoggur the Guardian]\n...I've lost everything, but I'm happy now.",
-        "pt": "[Guardiã Nidhogg]\n...perdi tudo, mas agora estou feliz.",
-        "es": "[Nidhogg, la guardiana]\n…Lo perdí todo, pero ahora soy feliz."
+        "en-US": "[Nidhoggur the Guardian]\n...I've lost everything, but I'm happy now.",
+        "pt-BR": "[Guardiã Nidhogg]\n...perdi tudo, mas agora estou feliz.",
+        "es-ES": "[Nidhogg, la guardiana]\n…Lo perdí todo, pero ahora soy feliz."
     },
     "NXNV": {
-        "en": "Sharp Eye'd Man",
-        "pt": "Jovem Desconfiado",
-        "es": "Administrador de la Nube Forestal"
+        "en-US": "Sharp Eye'd Man",
+        "pt-BR": "Jovem Desconfiado",
+        "es-ES": "Administrador de la Nube Forestal"
     },
     "NnNV": {
-        "en": "- You have too many items to do this quest. -",
-        "pt": "- Você tem itens demais para fazer essa missão. -",
-        "es": "-Tienes demasiados objetos para esta misión.-"
+        "en-US": "- You have too many items to do this quest. -",
+        "pt-BR": "- Você tem itens demais para fazer essa missão. -",
+        "es-ES": "-Tienes demasiados objetos para esta misión.-"
     },
     "N3NV": {
-        "en": "He won't look at you. It's like he's not interested at all.",
-        "pt": "Ele não olha para você. É como se não estivesse nem um pouco interessado.",
-        "es": "No te presta atención. No muestra interés alguno."
+        "en-US": "He won't look at you. It's like he's not interested at all.",
+        "pt-BR": "Ele não olha para você. É como se não estivesse nem um pouco interessado.",
+        "es-ES": "No te presta atención. No muestra interés alguno."
     },
     "OHNV": {
-        "en": "[Loki]\nSo you've passed through the forest.\nIt seems Niddy has something to say to you.",
-        "pt": "[Loki]\nEntão você passou pela floresta.\nParece que Niddy tem algo a lhe dizer.",
-        "es": "[Loki]\nAsí que has atravesado el bosque.\nParece que Niddy tiene algo que decirte."
+        "en-US": "[Loki]\nSo you've passed through the forest.\nIt seems Niddy has something to say to you.",
+        "pt-BR": "[Loki]\nEntão você passou pela floresta.\nParece que Niddy tem algo a lhe dizer.",
+        "es-ES": "[Loki]\nAsí que has atravesado el bosque.\nParece que Niddy tiene algo que decirte."
     },
     "OXNV": {
-        "en": "[Loki]\nNidhoggur was one of the guardians of the World Tree.\nBut he abandoned his duties as a guardian when he gave in to Satan Morroc's temptation.",
-        "pt": "[Loki]\nNidhoggur era um dos guardiões da Árvore do Mundo.\nMas ele abandonou seus deveres como guardião quando cedeu à tentação de Imperador Morroc.",
-        "es": "[Loki]\nNidhogg era uno de los guardianes del Árbol mundial.\nPero abandonó sus deberes de guardiana cuando cedió a la tentación de Satán Morroc."
+        "en-US": "[Loki]\nNidhoggur was one of the guardians of the World Tree.\nBut he abandoned his duties as a guardian when he gave in to Satan Morroc's temptation.",
+        "pt-BR": "[Loki]\nNidhoggur era um dos guardiões da Árvore do Mundo.\nMas ele abandonou seus deveres como guardião quando cedeu à tentação de Imperador Morroc.",
+        "es-ES": "[Loki]\nNidhogg era uno de los guardianes del Árbol mundial.\nPero abandonó sus deberes de guardiana cuando cedió a la tentación de Satán Morroc."
     },
     "OnNV": {
-        "en": "[Loki]\nSome fools performed a ritual to break the seal that held Satan Morroc.\nBut the ritual didn't work right. The servant of Satan Morroc failed to break the seal.",
-        "pt": "[Loki]\nAlguns tolos realizaram um ritual para quebrar o lacre que prendia o Imperador Morroc.\nMas o ritual não funcionou direito. O servo de Imperador Morroc não conseguiu quebrar o lacre.",
-        "es": "[Loki]\nUnos tontos hicieron un ritual para romper el sello que retenía a Satán Morroc.\nPero el ritual salió mal. El siervo de Satán Morroc no logró romper el sello."
+        "en-US": "[Loki]\nSome fools performed a ritual to break the seal that held Satan Morroc.\nBut the ritual didn't work right. The servant of Satan Morroc failed to break the seal.",
+        "pt-BR": "[Loki]\nAlguns tolos realizaram um ritual para quebrar o lacre que prendia o Imperador Morroc.\nMas o ritual não funcionou direito. O servo de Imperador Morroc não conseguiu quebrar o lacre.",
+        "es-ES": "[Loki]\nUnos tontos hicieron un ritual para romper el sello que retenía a Satán Morroc.\nPero el ritual salió mal. El siervo de Satán Morroc no logró romper el sello."
     },
     "O3NV": {
-        "en": "[Loki]\nBut the seal is so weak that it can break open any time.\nIt's Yggdrasil the World Tree's will that has kept the seal from breaking.",
-        "pt": "[Loki]\nMas o lacre é tão fraco que pode se romper a qualquer momento.\nFoi a vontade de Yggdrasil, a Árvore do Mundo, que impediu que o lacre se rompesse.",
-        "es": "[Loki]\nPero el sello es tan débil que puede romperse en cualquier momento.\nFue la voluntad de Yggdrasil, el Árbol mundial, la que impidió que se rompiera el sello."
+        "en-US": "[Loki]\nBut the seal is so weak that it can break open any time.\nIt's Yggdrasil the World Tree's will that has kept the seal from breaking.",
+        "pt-BR": "[Loki]\nMas o lacre é tão fraco que pode se romper a qualquer momento.\nFoi a vontade de Yggdrasil, a Árvore do Mundo, que impediu que o lacre se rompesse.",
+        "es-ES": "[Loki]\nPero el sello es tan débil que puede romperse en cualquier momento.\nFue la voluntad de Yggdrasil, el Árbol mundial, la que impidió que se rompiera el sello."
     },
     "PHNV": {
-        "en": "[Nidhoggur the Guardian]\nThat's right. The power of the World Tree is linked to the whole world.\nWhen the bond between the guardians and Yggdrasil broke, Yggdrasil became unstable.",
-        "pt": "[Guardiã Nidhogg]\nÉ isso mesmo. O poder da Árvore do Mundo está ligado ao mundo inteiro.\nQuando o vínculo entre os guardiões e a Yggdrasil se rompeu, a Yggdrasil ficou instável.",
-        "es": "[Nidhogg, la guardiana]\nAsí es. El poder del Árbol mundial está conectado con todo el mundo.\nCuando el vínculo entre los guardianes e Yggdrasil se rompió, Yggdrasil se volvió inestable."
+        "en-US": "[Nidhoggur the Guardian]\nThat's right. The power of the World Tree is linked to the whole world.\nWhen the bond between the guardians and Yggdrasil broke, Yggdrasil became unstable.",
+        "pt-BR": "[Guardiã Nidhogg]\nÉ isso mesmo. O poder da Árvore do Mundo está ligado ao mundo inteiro.\nQuando o vínculo entre os guardiões e a Yggdrasil se rompeu, a Yggdrasil ficou instável.",
+        "es-ES": "[Nidhogg, la guardiana]\nAsí es. El poder del Árbol mundial está conectado con todo el mundo.\nCuando el vínculo entre los guardianes e Yggdrasil se rompió, Yggdrasil se volvió inestable."
     },
     "PXNV": {
-        "en": "[Nidhoggur the Guardian]\nThat's why all those disasters happened to Yggdrasil.\nAs the World Tree became unstable, the influence it had on the seal grew weak.",
-        "pt": "[Guardiã Nidhogg]\nÉ por isso que todos esses desastres aconteceram com Yggdrasil.\nÀ medida que a Árvore do Mundo se tornava instável, a influência que ela exercia sobre o lacre enfraquecia.",
-        "es": "[Nidhogg, la guardiana]\nPor eso le ocurrieron todos esos desastres a Yggdrasil.\nA medida que el Árbol mundial se volvió inestable, la influencia que ejercía sobre el sello se debilitó."
+        "en-US": "[Nidhoggur the Guardian]\nThat's why all those disasters happened to Yggdrasil.\nAs the World Tree became unstable, the influence it had on the seal grew weak.",
+        "pt-BR": "[Guardiã Nidhogg]\nÉ por isso que todos esses desastres aconteceram com Yggdrasil.\nÀ medida que a Árvore do Mundo se tornava instável, a influência que ela exercia sobre o lacre enfraquecia.",
+        "es-ES": "[Nidhogg, la guardiana]\nPor eso le ocurrieron todos esos desastres a Yggdrasil.\nA medida que el Árbol mundial se volvió inestable, la influencia que ejercía sobre el sello se debilitó."
     },
     "PnNV": {
-        "en": "[Loki]\nAnd Satan Morroc broke himself free from the seal.\nAlthough it seems like he used most of his powers just to break the seal...",
-        "pt": "[Loki]\nE Imperador Morroc se libertou do lacre.\nEmbora pareça que ele tenha usado a maior parte de seus poderes apenas para quebrar o lacre...",
-        "es": "[Loki]\nY Satán Morroc logró liberarse de él.\nAunque parece que usó la mayoría de sus poderes solo para romperlo…"
+        "en-US": "[Loki]\nAnd Satan Morroc broke himself free from the seal.\nAlthough it seems like he used most of his powers just to break the seal...",
+        "pt-BR": "[Loki]\nE Imperador Morroc se libertou do lacre.\nEmbora pareça que ele tenha usado a maior parte de seus poderes apenas para quebrar o lacre...",
+        "es-ES": "[Loki]\nY Satán Morroc logró liberarse de él.\nAunque parece que usó la mayoría de sus poderes solo para romperlo…"
     },
     "P3NV": {
-        "en": "[Nidhoggur the Guardian]\nIt's all my fault.\nI couldn't break free from Satan Morroc's temptation.\nFor too... too long..",
-        "pt": "[Guardiã Nidhogg]\nA culpa é toda minha.\nNão consegui me libertar da tentação do Imperador Morroc.\nPor muito... muito tempo...",
-        "es": "[Nidhogg, la guardiana]\nTodo es mi culpa.\nNo pude librarme de la tentación de Satán Morroc.\nDurante mucho… mucho tiempo…"
+        "en-US": "[Nidhoggur the Guardian]\nIt's all my fault.\nI couldn't break free from Satan Morroc's temptation.\nFor too... too long..",
+        "pt-BR": "[Guardiã Nidhogg]\nA culpa é toda minha.\nNão consegui me libertar da tentação do Imperador Morroc.\nPor muito... muito tempo...",
+        "es-ES": "[Nidhogg, la guardiana]\nTodo es mi culpa.\nNo pude librarme de la tentación de Satán Morroc.\nDurante mucho… mucho tiempo…"
     },
     "QHNV": {
-        "en": "[Nidhoggur the Guardian]\n...I wanted to be relieved of my thousands of years of loneliness.\nI wasn't in my right mind then.\nIt was none other than I that broke my bond with Yggdrasil.",
-        "pt": "[Guardiã Nidhogg]\n...eu queria me livrar dos meus milhares de anos de solidão.\nNão estava em meu juízo perfeito na época.\nFoi somente eu quem rompeu meu vínculo com Yggdrasil.",
-        "es": "[Nidhogg, la guardiana]\n…quise acabar con mis miles de años de soledad.\nNo pensaba con claridad en ese entonces.\nYo misma rompí mi vínculo con Yggdrasil."
+        "en-US": "[Nidhoggur the Guardian]\n...I wanted to be relieved of my thousands of years of loneliness.\nI wasn't in my right mind then.\nIt was none other than I that broke my bond with Yggdrasil.",
+        "pt-BR": "[Guardiã Nidhogg]\n...eu queria me livrar dos meus milhares de anos de solidão.\nNão estava em meu juízo perfeito na época.\nFoi somente eu quem rompeu meu vínculo com Yggdrasil.",
+        "es-ES": "[Nidhogg, la guardiana]\n…quise acabar con mis miles de años de soledad.\nNo pensaba con claridad en ese entonces.\nYo misma rompí mi vínculo con Yggdrasil."
     },
     "QXNV": {
-        "en": "[Nidhoggur the Guardian]\nI lost control of myself, and did what I shouldn't have done.\nThe other side of me became a shadow and a reckless tyrant.",
-        "pt": "[Guardiã Nidhogg]\nPerdi o controle de mim mesmo e fiz o que não deveria ter feito.\nO outro lado de mim se tornou uma sombra e um tirano imprudente.",
-        "es": "[Nidhogg, la guardiana]\nPerdí el control e hice lo que no debía.\nMi otra mitad se convirtió en una sombra y en una tirana insensata."
+        "en-US": "[Nidhoggur the Guardian]\nI lost control of myself, and did what I shouldn't have done.\nThe other side of me became a shadow and a reckless tyrant.",
+        "pt-BR": "[Guardiã Nidhogg]\nPerdi o controle de mim mesmo e fiz o que não deveria ter feito.\nO outro lado de mim se tornou uma sombra e um tirano imprudente.",
+        "es-ES": "[Nidhogg, la guardiana]\nPerdí el control e hice lo que no debía.\nMi otra mitad se convirtió en una sombra y en una tirana insensata."
     },
     "QnNV": {
-        "en": "[Nidhoggur the Guardian]\nFacing the world, I realized...\nI felt too great a sense of loss... it was much more painful than the loneliness I had endured for thousands of years.",
-        "pt": "[Guardiã Nidhogg]\nAo encarar o mundo, percebi...\nEu sentia uma sensação de perda muito grande... era muito mais dolorosa do que a solidão que eu havia suportado por milhares de anos.",
-        "es": "[Nidhogg, la guardiana]\nAl enfrentarme al mundo, me di cuenta de que…\nsentía una pérdida enorme… Era mucho más dolorosa que la soledad que había soportado durante miles de años."
+        "en-US": "[Nidhoggur the Guardian]\nFacing the world, I realized...\nI felt too great a sense of loss... it was much more painful than the loneliness I had endured for thousands of years.",
+        "pt-BR": "[Guardiã Nidhogg]\nAo encarar o mundo, percebi...\nEu sentia uma sensação de perda muito grande... era muito mais dolorosa do que a solidão que eu havia suportado por milhares de anos.",
+        "es-ES": "[Nidhogg, la guardiana]\nAl enfrentarme al mundo, me di cuenta de que…\nsentía una pérdida enorme… Era mucho más dolorosa que la soledad que había soportado durante miles de años."
     },
     "Q3NV": {
-        "en": "[Nidhoggur the Guardian]\nThat's how I was left alone.\nI felt too great a sense of loss... it was much more painful than the loneliness I had endured for thousands of years.",
-        "pt": "[Guardiã Nidhogg]\nFoi assim que fiquei sozinho.\nTive uma sensação de perda muito grande... foi muito mais dolorosa do que a solidão que suportei por milhares de anos.",
-        "es": "[Nidhogg, la guardiana]\nAsí es como me quedé sola.\nsentía una pérdida enorme… Era mucho más dolorosa que la soledad que había soportado durante miles de años."
+        "en-US": "[Nidhoggur the Guardian]\nThat's how I was left alone.\nI felt too great a sense of loss... it was much more painful than the loneliness I had endured for thousands of years.",
+        "pt-BR": "[Guardiã Nidhogg]\nFoi assim que fiquei sozinho.\nTive uma sensação de perda muito grande... foi muito mais dolorosa do que a solidão que suportei por milhares de anos.",
+        "es-ES": "[Nidhogg, la guardiana]\nAsí es como me quedé sola.\nsentía una pérdida enorme… Era mucho más dolorosa que la soledad que había soportado durante miles de años."
     },
     "RHNV": {
-        "en": "[Nidhoggur the Guardian]\nSo I became a sinner, forgotten to the world.",
-        "pt": "[Guardiã Nidhogg]\nEntão me tornei um pecador, esquecido pelo mundo.",
-        "es": "[Nidhogg, la guardiana]\nY así me convertí en una pecadora, olvidada por el mundo."
+        "en-US": "[Nidhoggur the Guardian]\nSo I became a sinner, forgotten to the world.",
+        "pt-BR": "[Guardiã Nidhogg]\nEntão me tornei um pecador, esquecido pelo mundo.",
+        "es-ES": "[Nidhogg, la guardiana]\nY así me convertí en una pecadora, olvidada por el mundo."
     },
     "RXNV": {
-        "en": "[Loki]\nIt's not too late.\nYou're still a guardian.\nYou still have things to do.",
-        "pt": "[Loki]\nNão é tarde demais.\nVocê ainda é um guardião.\nAinda tem coisas a fazer.",
-        "es": "[Loki]\nNo es demasiado tarde.\nSigues siendo una guardiana.\nAún tienes cosas que hacer."
+        "en-US": "[Loki]\nIt's not too late.\nYou're still a guardian.\nYou still have things to do.",
+        "pt-BR": "[Loki]\nNão é tarde demais.\nVocê ainda é um guardião.\nAinda tem coisas a fazer.",
+        "es-ES": "[Loki]\nNo es demasiado tarde.\nSigues siendo una guardiana.\nAún tienes cosas que hacer."
     },
     "RnNV": {
-        "en": "[Nidhoggur the Guardian]\n... Oh, yes. It's late, but I have to fulfill my duties as a guardian.\nNow I know. I'll destroy Satan Morroc with my own hands.\nI will fulfill my duties as a guardian.",
-        "pt": "[Guardiã Nidhogg]\n... Ah, sim. É tarde, mas tenho que cumprir meus deveres como guardião.\nAgora eu sei. Destruirei Imperador Morroc com minhas próprias mãos.\nCumprirei meus deveres como guardião.",
-        "es": "[Nidhogg, la guardiana]\n… Ah, sí. Es tarde, pero tengo que cumplir mis deberes de guardiana.\nAhora lo sé. Destruiré a Satán Morroc con mis propias manos.\nCumpliré mis deberes de guardiana."
+        "en-US": "[Nidhoggur the Guardian]\n... Oh, yes. It's late, but I have to fulfill my duties as a guardian.\nNow I know. I'll destroy Satan Morroc with my own hands.\nI will fulfill my duties as a guardian.",
+        "pt-BR": "[Guardiã Nidhogg]\n... Ah, sim. É tarde, mas tenho que cumprir meus deveres como guardião.\nAgora eu sei. Destruirei Imperador Morroc com minhas próprias mãos.\nCumprirei meus deveres como guardião.",
+        "es-ES": "[Nidhogg, la guardiana]\n… Ah, sí. Es tarde, pero tengo que cumplir mis deberes de guardiana.\nAhora lo sé. Destruiré a Satán Morroc con mis propias manos.\nCumpliré mis deberes de guardiana."
     },
     "R3NV": {
-        "en": "You're not alone.",
-        "pt": "Você não está sozinho.",
-        "es": "No estás sola."
+        "en-US": "You're not alone.",
+        "pt-BR": "Você não está sozinho.",
+        "es-ES": "No estás sola."
     },
     "SHNV": {
-        "en": "Those are very important duties.",
-        "pt": "São deveres muito importantes.",
-        "es": "Esos son deberes muy importantes."
+        "en-US": "Those are very important duties.",
+        "pt-BR": "São deveres muito importantes.",
+        "es-ES": "Esos son deberes muy importantes."
     },
     "SXNV": {
-        "en": "[Nidhoggur the Guardian]\nYou're right.\nIt may be why I haven't been forsaken - to realize that I'm not alone.\nYou are a kind soul.",
-        "pt": "[Guardiã Nidhogg]\nTem razão.\nTalvez seja por isso que eu não tenha sido abandonado - para perceber que não estou sozinho.\nVocê é uma alma bondosa.",
-        "es": "[Nidhogg, la guardiana]\nEstás en lo cierto.\nTal vez sea la razón por la cual no me abandonaron: para entender que no estoy sola.\nEres muy amable."
+        "en-US": "[Nidhoggur the Guardian]\nYou're right.\nIt may be why I haven't been forsaken - to realize that I'm not alone.\nYou are a kind soul.",
+        "pt-BR": "[Guardiã Nidhogg]\nTem razão.\nTalvez seja por isso que eu não tenha sido abandonado - para perceber que não estou sozinho.\nVocê é uma alma bondosa.",
+        "es-ES": "[Nidhogg, la guardiana]\nEstás en lo cierto.\nTal vez sea la razón por la cual no me abandonaron: para entender que no estoy sola.\nEres muy amable."
     },
     "SnNV": {
-        "en": "[Nidhoggur the Guardian]\nBut this is my atonement.\nI'm happy, though.\nI don't have to fight the loneliness any more.",
-        "pt": "[Guardiã Nidhogg]\nMas essa é a minha expiação.\nMas estou feliz.\nNão preciso mais lutar contra a solidão.",
-        "es": "[Nidhogg, la guardiana]\nPero esta es mi redención.\nDe todos modos estoy contenta.\nYa no tengo que luchar contra la soledad."
+        "en-US": "[Nidhoggur the Guardian]\nBut this is my atonement.\nI'm happy, though.\nI don't have to fight the loneliness any more.",
+        "pt-BR": "[Guardiã Nidhogg]\nMas essa é a minha expiação.\nMas estou feliz.\nNão preciso mais lutar contra a solidão.",
+        "es-ES": "[Nidhogg, la guardiana]\nPero esta es mi redención.\nDe todos modos estoy contenta.\nYa no tengo que luchar contra la soledad."
     },
     "S3NV": {
-        "en": "[Nidhoggur the Guardian]\n{0}...\nThanks for listening to my long story.",
-        "pt": "[Guardiã Nidhogg]\n{0}...\nObrigado por ouvir minha longa história.",
-        "es": "[Nidhogg, la guardiana]\n{0}…\nGracias por escuchar mi larga historia."
+        "en-US": "[Nidhoggur the Guardian]\n{0}...\nThanks for listening to my long story.",
+        "pt-BR": "[Guardiã Nidhogg]\n{0}...\nObrigado por ouvir minha longa história.",
+        "es-ES": "[Nidhogg, la guardiana]\n{0}…\nGracias por escuchar mi larga historia."
     },
     "THNV": {
-        "en": "[Nidhoggur the Guardian]\nIt's what I always have with me.\nI'm sure it will protect you someday.",
-        "pt": "[Guardiã Nidhogg]\nÉ o que eu sempre tenho comigo.\nTenho certeza de que ele te protegerá algum dia.",
-        "es": "[Nidhogg, la guardiana]\nLlevo esto conmigo siempre.\nEstoy segura de que algún día te protegerá."
+        "en-US": "[Nidhoggur the Guardian]\nIt's what I always have with me.\nI'm sure it will protect you someday.",
+        "pt-BR": "[Guardiã Nidhogg]\nÉ o que eu sempre tenho comigo.\nTenho certeza de que ele te protegerá algum dia.",
+        "es-ES": "[Nidhogg, la guardiana]\nLlevo esto conmigo siempre.\nEstoy segura de que algún día te protegerá."
     },
     "TXNV": {
-        "en": "[Loki]\n(Removes his scarf from around his neck and hands it to you.)",
-        "pt": "[Loki]\n(Retira o cachecol do pescoço e o entrega a você).",
-        "es": "[Loki]\n(Se quita el pañuelo del cuello y te lo entrega)."
+        "en-US": "[Loki]\n(Removes his scarf from around his neck and hands it to you.)",
+        "pt-BR": "[Loki]\n(Retira o cachecol do pescoço e o entrega a você).",
+        "es-ES": "[Loki]\n(Se quita el pañuelo del cuello y te lo entrega)."
     },
     "TnNV": {
-        "en": "[Nidhoggur the Guardian]\nMay the blessing of Mother Yggdrasil be with you...",
-        "pt": "[Guardiã Nidhogg]\nQue a bênção da Mãe Yggdrasil esteja com você...",
-        "es": "[Nidhogg, la guardiana]\nQue la bendición de la Madre Yggdrasil esté contigo…"
+        "en-US": "[Nidhoggur the Guardian]\nMay the blessing of Mother Yggdrasil be with you...",
+        "pt-BR": "[Guardiã Nidhogg]\nQue a bênção da Mãe Yggdrasil esteja com você...",
+        "es-ES": "[Nidhogg, la guardiana]\nQue la bendición de la Madre Yggdrasil esté contigo…"
     },
     "T3NV": {
-        "en": "[Loki]\nI'll be staying here for a while.\nWe may meet again.",
-        "pt": "[Loki]\nVou ficar aqui por um tempo.\nTalvez nos encontremos novamente.",
-        "es": "[Loki]\nMe quedaré aquí un tiempo.\nPuede que volvamos a vernos."
+        "en-US": "[Loki]\nI'll be staying here for a while.\nWe may meet again.",
+        "pt-BR": "[Loki]\nVou ficar aqui por um tempo.\nTalvez nos encontremos novamente.",
+        "es-ES": "[Loki]\nMe quedaré aquí un tiempo.\nPuede que volvamos a vernos."
     },
     "UHNV": {
-        "en": "[Loki]\nThe day when Satan Morroc reveals his despicable nature...\nI will be waiting for him.",
-        "pt": "[Loki]\nO dia em que Imperador Morroc revelar sua natureza desprezível...\nEu estarei esperando por ele.",
-        "es": "[Loki]\nEl día en que Satán Morroc revele su naturaleza despreciable…\nlo estaré esperando."
+        "en-US": "[Loki]\nThe day when Satan Morroc reveals his despicable nature...\nI will be waiting for him.",
+        "pt-BR": "[Loki]\nO dia em que Imperador Morroc revelar sua natureza desprezível...\nEu estarei esperando por ele.",
+        "es-ES": "[Loki]\nEl día en que Satán Morroc revele su naturaleza despreciable…\nlo estaré esperando."
     },
     "UXNV": {
-        "en": "Hazy Forest admin",
-        "pt": "Administrador da Floresta Nebulosa",
-        "es": "Piedra de purificación"
+        "en-US": "Hazy Forest admin",
+        "pt-BR": "Administrador da Floresta Nebulosa",
+        "es-ES": "Piedra de purificación"
     },
     "UnNV": {
-        "en": "Please enter the password",
-        "pt": "Digite a senha",
-        "es": "Introduce la contraseña."
+        "en-US": "Please enter the password",
+        "pt-BR": "Digite a senha",
+        "es-ES": "Introduce la contraseña."
     },
     "U3NV": {
-        "en": "Generate Purification Stone",
-        "pt": "Gerar Pedra de Purificação",
-        "es": "Crear Piedra de purificación."
+        "en-US": "Generate Purification Stone",
+        "pt-BR": "Gerar Pedra de Purificação",
+        "es-ES": "Crear Piedra de purificación."
     },
     "VHNV": {
-        "en": "Remove Purification Stone",
-        "pt": "Remover a Pedra de Purificação",
-        "es": "Eliminar Piedra de purificación."
+        "en-US": "Remove Purification Stone",
+        "pt-BR": "Remover a Pedra de Purificação",
+        "es-ES": "Eliminar Piedra de purificación."
     },
     "VXNV": {
-        "en": "Turn Entrance NPC OFF",
-        "pt": "Desativar o NPC de entrada",
-        "es": "DESACTIVAR NPC de la entrada."
+        "en-US": "Turn Entrance NPC OFF",
+        "pt-BR": "Desativar o NPC de entrada",
+        "es-ES": "DESACTIVAR NPC de la entrada."
     },
     "VnNV": {
-        "en": "Turn Entrance NPC ON",
-        "pt": "Ativar o NPC de entrada",
-        "es": "ACTIVAR NPC de la entrada."
+        "en-US": "Turn Entrance NPC ON",
+        "pt-BR": "Ativar o NPC de entrada",
+        "es-ES": "ACTIVAR NPC de la entrada."
     },
     "V3NV": {
-        "en": "Cancel",
-        "pt": "Cancelar",
-        "es": "Cancelar."
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar."
     },
     "WHNV": {
-        "en": "Create the Purification Stone that stays for 30 minutes.",
-        "pt": "Criar a Pedra de Purificação que permanece por 30 minutos.",
-        "es": "Crea la Piedra de purificación que permanece durante 30 minutos."
+        "en-US": "Create the Purification Stone that stays for 30 minutes.",
+        "pt-BR": "Criar a Pedra de Purificação que permanece por 30 minutos.",
+        "es-ES": "Crea la Piedra de purificación que permanece durante 30 minutos."
     },
     "WXNV": {
-        "en": "Destroy the Purification Stone immediately",
-        "pt": "Destruir a Pedra de Purificação imediatamente",
-        "es": "Destruye la Piedra de purificación de inmediato."
+        "en-US": "Destroy the Purification Stone immediately",
+        "pt-BR": "Destruir a Pedra de Purificação imediatamente",
+        "es-ES": "Destruye la Piedra de purificación de inmediato."
     },
     "WnNV": {
-        "en": "The Entrance NPC at bif_fild01 161 355 is now OFF.",
-        "pt": "O NPC de entrada em bif_fild01 161 355 agora está desligado.",
-        "es": "El NPC de la entrada en bif_fild 01161355 ahora está DESACTIVADO."
+        "en-US": "The Entrance NPC at bif_fild01 161 355 is now OFF.",
+        "pt-BR": "O NPC de entrada em bif_fild01 161 355 agora está desligado.",
+        "es-ES": "El NPC de la entrada en bif_fild 01161355 ahora está DESACTIVADO."
     },
     "W3NV": {
-        "en": "The Entrance NPC at bif_fild01 161 355 is now ON.",
-        "pt": "O NPC de entrada em bif_fild01 161 355 agora está ligado.",
-        "es": "El NPC de la entrada en bif_fild 01161355 ahora está ACTIVADO."
+        "en-US": "The Entrance NPC at bif_fild01 161 355 is now ON.",
+        "pt-BR": "O NPC de entrada em bif_fild01 161 355 agora está ligado.",
+        "es-ES": "El NPC de la entrada en bif_fild 01161355 ahora está ACTIVADO."
     },
     "XHNV": {
-        "en": "You have canceled it.",
-        "pt": "Você cancelou.",
-        "es": "Lo cancelaste."
+        "en-US": "You have canceled it.",
+        "pt-BR": "Você cancelou.",
+        "es-ES": "Lo cancelaste."
     },
     "XXNV": {
-        "en": "Enter the password exactly.",
-        "pt": "Digite a senha com exatidão.",
-        "es": "Introduce la contraseña de forma precisa."
+        "en-US": "Enter the password exactly.",
+        "pt-BR": "Digite a senha com exatidão.",
+        "es-ES": "Introduce la contraseña de forma precisa."
     },
     "XnNV": {
-        "en": "Purification Stone",
-        "pt": "Pedra de Purificação",
-        "es": "Guardia Eclage"
+        "en-US": "Purification Stone",
+        "pt-BR": "Pedra de Purificação",
+        "es-ES": "Guardia Eclage"
     },
     "X3NV": {
-        "en": "The Purification Stone will be destroyed in one minute",
-        "pt": "A Pedra de Purificação será destruída em um minuto",
-        "es": "La Piedra de purificación se destruirá en un minuto."
+        "en-US": "The Purification Stone will be destroyed in one minute",
+        "pt-BR": "A Pedra de Purificação será destruída em um minuto",
+        "es-ES": "La Piedra de purificación se destruirá en un minuto."
     },
     "YHNV": {
-        "en": "^0000FFThe records and aftereffect related to the Endless Tower have been removed. You can generate and enter the Endless Tower again.^000000",
-        "pt": "^0000FFOs registros e efeitos posteriores relacionados à Torre Infinita foram removidos. Você pode gerar e entrar na Torre Infinita novamente.^000000",
-        "es": "^0000FFSe han eliminado los registros y las secuelas relacionados con la Torre infinita. Puedes generar la Torre infinita y entrar de nuevo.^000000"
+        "en-US": "^0000FFThe records and aftereffect related to the Endless Tower have been removed. You can generate and enter the Endless Tower again.^000000",
+        "pt-BR": "^0000FFOs registros e efeitos posteriores relacionados à Torre Infinita foram removidos. Você pode gerar e entrar na Torre Infinita novamente.^000000",
+        "es-ES": "^0000FFSe han eliminado los registros y las secuelas relacionados con la Torre infinita. Puedes generar la Torre infinita y entrar de nuevo.^000000"
     }
 }

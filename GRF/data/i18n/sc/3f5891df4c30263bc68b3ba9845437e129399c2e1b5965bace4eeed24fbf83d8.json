@@ -1,1327 +1,1327 @@
 {
     "QB+yDA": {
-        "en": "Yanoma",
-        "pt": "Yanoma",
-        "es": "Yanoma"
+        "en-US": "Yanoma",
+        "pt-BR": "Yanoma",
+        "es-ES": "Yanoma"
     },
     "QR+yDA": {
-        "en": "Explorer's League",
-        "pt": "Liga dos Desbravadores",
-        "es": "Liga de los Exploradores"
+        "en-US": "Explorer's League",
+        "pt-BR": "Liga dos Desbravadores",
+        "es-ES": "Liga de los Exploradores"
     },
     "Qh+yDA": {
-        "en": "^FF0000You are carrying too many items. Please free up some inventory space and try again.^000000",
-        "pt": "^FF0000Você está carregando muitos itens. Libere um pouco de espaço no seu inventário e tente novamente.^000000",
-        "es": "^FF0000Estás cargando demasiados objetos. Libera un poco de espacio en tu inventario e inténtalo de nuevo.^000000"
+        "en-US": "^FF0000You are carrying too many items. Please free up some inventory space and try again.^000000",
+        "pt-BR": "^FF0000Você está carregando muitos itens. Libere um pouco de espaço no seu inventário e tente novamente.^000000",
+        "es-ES": "^FF0000Estás cargando demasiados objetos. Libera un poco de espacio en tu inventario e inténtalo de nuevo.^000000"
     },
     "Qx+yDA": {
-        "en": "[Yanoma]",
-        "pt": "[Yanoma]",
-        "es": "[Yanoma]"
+        "en-US": "[Yanoma]",
+        "pt-BR": "[Yanoma]",
+        "es-ES": "[Yanoma]"
     },
     "RB+yDA": {
-        "en": "Hello, {0}.\nThe Explorer's League is here to encourage you to explore instances.",
-        "pt": "Oi, {0}.\nA Liga dos Desbravadores está aqui para te incentivar a explorar instâncias.",
-        "es": "Hola, {0}.\nLa Liga de los Exploradores está aquí para animarte a explorar mazmorras."
+        "en-US": "Hello, {0}.\nThe Explorer's League is here to encourage you to explore instances.",
+        "pt-BR": "Oi, {0}.\nA Liga dos Desbravadores está aqui para te incentivar a explorar instâncias.",
+        "es-ES": "Hola, {0}.\nLa Liga de los Exploradores está aquí para animarte a explorar mazmorras."
     },
     "RR+yDA": {
-        "en": "I exchange your <ITEM>[Explorer's Coins]<INFO>1002750</INFO></ITEM> for Equipment and Consumables.\nWhat do you say?",
-        "pt": "Eu troco suas <ITEM>[Moedas do Explorador]<INFO>1001011</INFO></ITEM> por Equipamentos e Consumíveis.\nO que me diz?",
-        "es": "Cambio tus <ITEM>[Moneda de los Exploradores]<INFO>1002750</INFO></ITEM> por Equipo y Consumibles.\n¿Qué dices?"
+        "en-US": "I exchange your <ITEM>[Explorer's Coins]<INFO>1002750</INFO></ITEM> for Equipment and Consumables.\nWhat do you say?",
+        "pt-BR": "Eu troco suas <ITEM>[Moedas do Explorador]<INFO>1001011</INFO></ITEM> por Equipamentos e Consumíveis.\nO que me diz?",
+        "es-ES": "Cambio tus <ITEM>[Moneda de los Exploradores]<INFO>1002750</INFO></ITEM> por Equipo y Consumibles.\n¿Qué dices?"
     },
     "Rh+yDA": {
-        "en": "Consumables Shop",
-        "pt": "Loja de Consumíveis",
-        "es": "Tienda de Consumibles"
+        "en-US": "Consumables Shop",
+        "pt-BR": "Loja de Consumíveis",
+        "es-ES": "Tienda de Consumibles"
     },
     "Rx+yDA": {
-        "en": "Equipment Shop",
-        "pt": "Loja de Equipamentos",
-        "es": "Tienda de Equipo"
+        "en-US": "Equipment Shop",
+        "pt-BR": "Loja de Equipamentos",
+        "es-ES": "Tienda de Equipo"
     },
     "SB+yDA": {
-        "en": "^0000FFConsumables^000000?\nJust a moment...",
-        "pt": "^0000FFConsumíveis^000000?\nSó um momento...",
-        "es": "^0000FF¿Consumibles^000000?\nSólo un momento..."
+        "en-US": "^0000FFConsumables^000000?\nJust a moment...",
+        "pt-BR": "^0000FFConsumíveis^000000?\nSó um momento...",
+        "es-ES": "^0000FF¿Consumibles^000000?\nSólo un momento..."
     },
     "SR+yDA": {
-        "en": "^0000FFEquipment^000000?\nJust a moment...",
-        "pt": "^0000FFEquipamentos^000000?\nSó um momento...",
-        "es": "^0000FF¿Equipo^000000?\nSólo un momento..."
+        "en-US": "^0000FFEquipment^000000?\nJust a moment...",
+        "pt-BR": "^0000FFEquipamentos^000000?\nSó um momento...",
+        "es-ES": "^0000FF¿Equipo^000000?\nSólo un momento..."
     },
     "Sh+yDA": {
-        "en": "Aztek",
-        "pt": "Aztek",
-        "es": "Aztek"
+        "en-US": "Aztek",
+        "pt-BR": "Aztek",
+        "es-ES": "Aztek"
     },
     "Sx+yDA": {
-        "en": "[Aztek]",
-        "pt": "[Aztek]",
-        "es": "[Aztek]"
+        "en-US": "[Aztek]",
+        "pt-BR": "[Aztek]",
+        "es-ES": "[Aztek]"
     },
     "TB+yDA": {
-        "en": "Hello, {0}.\nWelcome to the Explorer's League main building.",
-        "pt": "Oi, {0}.\nSeja bem-vindo ao prédio principal da Liga dos Desbravadores.",
-        "es": "Hola, {0}.\nBienvenido al edificio principal de la Liga de los Exploradores."
+        "en-US": "Hello, {0}.\nWelcome to the Explorer's League main building.",
+        "pt-BR": "Oi, {0}.\nSeja bem-vindo ao prédio principal da Liga dos Desbravadores.",
+        "es-ES": "Hola, {0}.\nBienvenido al edificio principal de la Liga de los Exploradores."
     },
     "TR+yDA": {
-        "en": "Quests A",
-        "pt": "Missões A",
-        "es": "Misiones A"
+        "en-US": "Quests A",
+        "pt-BR": "Missões A",
+        "es-ES": "Misiones A"
     },
     "Th+yDA": {
-        "en": "[Quests A]\n^FF0000You are carrying too many items. Please free up some inventory space and try again.^000000",
-        "pt": "[Missões A]\n^FF0000Você está carregando muitos itens. Libere um pouco de espaço no seu inventário e tente novamente.^000000",
-        "es": "[Misiones A]\n^FF0000Tienes demasiados objetos. Libera un poco de espacio en tu inventario e inténtalo de nuevo.^000000"
+        "en-US": "[Quests A]\n^FF0000You are carrying too many items. Please free up some inventory space and try again.^000000",
+        "pt-BR": "[Missões A]\n^FF0000Você está carregando muitos itens. Libere um pouco de espaço no seu inventário e tente novamente.^000000",
+        "es-ES": "[Misiones A]\n^FF0000Tienes demasiados objetos. Libera un poco de espacio en tu inventario e inténtalo de nuevo.^000000"
     },
     "Tx+yDA": {
-        "en": "[Quests A]\n^FF0000You are overweight. Please free up some inventory space and try again.^000000",
-        "pt": "[Missões A]\n^FF0000Você está acima do peso. Libere um pouco de espaço no seu inventário e tente novamente.^000000",
-        "es": "[Misiones A]\n^FF0000Estás sobrecargado. Libera un poco de espacio en tu inventario e inténtalo de nuevo.^000000"
+        "en-US": "[Quests A]\n^FF0000You are overweight. Please free up some inventory space and try again.^000000",
+        "pt-BR": "[Missões A]\n^FF0000Você está acima do peso. Libere um pouco de espaço no seu inventário e tente novamente.^000000",
+        "es-ES": "[Misiones A]\n^FF0000Estás sobrecargado. Libera un poco de espacio en tu inventario e inténtalo de nuevo.^000000"
     },
     "UB+yDA": {
-        "en": "[Quests A]\nWelcome, {0}.\nWhat would you like?\n-----------------------\n^FF0000As soon as you turn in a quest, you receive a new one, but must wait for the cooldown.^000000",
-        "pt": "[Missões A]\nBoas vindas, {0}.\nO que você deseja?\n-----------------------\n^FF0000Assim que você entrega uma missão, você já recebe uma nova, mas deve aguardar o tempo de recarga.^000000",
-        "es": "[Misiones A]\nBienvenido, {0}.\n¿Qué deseas?\n-----------------------\n^FF0000Al entregar una misión, recibes otra nueva, pero debes esperar el tiempo de de espera.^000000"
+        "en-US": "[Quests A]\nWelcome, {0}.\nWhat would you like?\n-----------------------\n^FF0000As soon as you turn in a quest, you receive a new one, but must wait for the cooldown.^000000",
+        "pt-BR": "[Missões A]\nBoas vindas, {0}.\nO que você deseja?\n-----------------------\n^FF0000Assim que você entrega uma missão, você já recebe uma nova, mas deve aguardar o tempo de recarga.^000000",
+        "es-ES": "[Misiones A]\nBienvenido, {0}.\n¿Qué deseas?\n-----------------------\n^FF0000Al entregar una misión, recibes otra nueva, pero debes esperar el tiempo de de espera.^000000"
     },
     "UR+yDA": {
-        "en": "Report quests",
-        "pt": "Reportar missões",
-        "es": "Entregar misiones"
+        "en-US": "Report quests",
+        "pt-BR": "Reportar missões",
+        "es-ES": "Entregar misiones"
     },
     "Uh+yDA": {
-        "en": "Quest status",
-        "pt": "Status das missões",
-        "es": "Estado de las misiones"
+        "en-US": "Quest status",
+        "pt-BR": "Status das missões",
+        "es-ES": "Estado de las misiones"
     },
     "Ux+yDA": {
-        "en": "Accept quests",
-        "pt": "Pegar missões",
-        "es": "Aceptar misiones"
+        "en-US": "Accept quests",
+        "pt-BR": "Pegar missões",
+        "es-ES": "Aceptar misiones"
     },
     "VB+yDA": {
-        "en": "Abandon quests",
-        "pt": "Desistir das missões",
-        "es": "Abandonar misiones"
+        "en-US": "Abandon quests",
+        "pt-BR": "Desistir das missões",
+        "es-ES": "Abandonar misiones"
     },
     "VR+yDA": {
-        "en": "Cancel",
-        "pt": "Cancelar",
-        "es": "Cancelar"
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
     },
     "Vh+yDA": {
-        "en": "[Quests A]\n^FF0000You can only carry up to 30,000 units of the same item. Please store these items in the warehouse.^000000",
-        "pt": "[Missões A]\n^FF0000Você só pode carregar até 30.000 unidades de um mesmo item. Por favor, guarde esses itens no armazém.^000000",
-        "es": "[Misiones A]\n^FF0000Sólo puedes cargar hasta 30 000 unidades del mismo objeto. Por favor, guarda esos objetos en el almacén.^000000"
+        "en-US": "[Quests A]\n^FF0000You can only carry up to 30,000 units of the same item. Please store these items in the warehouse.^000000",
+        "pt-BR": "[Missões A]\n^FF0000Você só pode carregar até 30.000 unidades de um mesmo item. Por favor, guarde esses itens no armazém.^000000",
+        "es-ES": "[Misiones A]\n^FF0000Sólo puedes cargar hasta 30 000 unidades del mismo objeto. Por favor, guarda esos objetos en el almacén.^000000"
     },
     "Vx+yDA": {
-        "en": "[Quests A]\nThank you very much.",
-        "pt": "[Missões A]\nMuito obrigada.",
-        "es": "[Misiones A]\nMuchas gracias."
+        "en-US": "[Quests A]\nThank you very much.",
+        "pt-BR": "[Missões A]\nMuito obrigada.",
+        "es-ES": "[Misiones A]\nMuchas gracias."
     },
     "WB+yDA": {
-        "en": "[Quests A]\nNo quests to report.",
-        "pt": "[Missões A]\nNenhuma missão a reportar.",
-        "es": "[Misiones A]\nNo hay misiones para informar."
+        "en-US": "[Quests A]\nNo quests to report.",
+        "pt-BR": "[Missões A]\nNenhuma missão a reportar.",
+        "es-ES": "[Misiones A]\nNo hay misiones para informar."
     },
     "WR+yDA": {
-        "en": "[Quests A]\nThese are the quest statuses.",
-        "pt": "[Missões A]\nEsses são os status das missões.",
-        "es": "[Misiones A]\nEstos son los estados de las misiones."
+        "en-US": "[Quests A]\nThese are the quest statuses.",
+        "pt-BR": "[Missões A]\nEsses são os status das missões.",
+        "es-ES": "[Misiones A]\nEstos son los estados de las misiones."
     },
     "Wh+yDA": {
-        "en": "^888888Pending^000000",
-        "pt": "^888888Em espera^000000",
-        "es": "^888888En espera^000000"
+        "en-US": "^888888Pending^000000",
+        "pt-BR": "^888888Em espera^000000",
+        "es-ES": "^888888En espera^000000"
     },
     "Wx+yDA": {
-        "en": "^FF0000Complete^000000",
-        "pt": "^FF0000Completa^000000",
-        "es": "^FF0000Completada^000000"
+        "en-US": "^FF0000Complete^000000",
+        "pt-BR": "^FF0000Completa^000000",
+        "es-ES": "^FF0000Completada^000000"
     },
     "XB+yDA": {
-        "en": "^0000FFIn Progress^000000",
-        "pt": "^0000FFEm curso^000000",
-        "es": "^0000FFEn curso^000000"
+        "en-US": "^0000FFIn Progress^000000",
+        "pt-BR": "^0000FFEm curso^000000",
+        "es-ES": "^0000FFEn curso^000000"
     },
     "XR+yDA": {
-        "en": "^888888Unlocked^000000",
-        "pt": "^888888Liberada^000000",
-        "es": "^888888Disponible^000000"
+        "en-US": "^888888Unlocked^000000",
+        "pt-BR": "^888888Liberada^000000",
+        "es-ES": "^888888Disponible^000000"
     },
     "Xh+yDA": {
-        "en": "[Status]\nOrc's Memory",
-        "pt": "[Status]\nBatalha dos Orcs",
-        "es": "[Estado]\nBatalla de los Orcos"
+        "en-US": "[Status]\nOrc's Memory",
+        "pt-BR": "[Status]\nBatalha dos Orcs",
+        "es-ES": "[Estado]\nBatalla de los Orcos"
     },
     "Xx+yDA": {
-        "en": "Geffen Magic Tournament",
-        "pt": "Torneio de Magia",
-        "es": "Torneo de Magia"
+        "en-US": "Geffen Magic Tournament",
+        "pt-BR": "Torneio de Magia",
+        "es-ES": "Torneo de Magia"
     },
     "YB+yDA": {
-        "en": "Sarah's Memory",
-        "pt": "Memórias de Sarah",
-        "es": "Memoria de Sarah"
+        "en-US": "Sarah's Memory",
+        "pt-BR": "Memórias de Sarah",
+        "es-ES": "Memoria de Sarah"
     },
     "YR+yDA": {
-        "en": "Ghost Palace",
-        "pt": "Palácio das Mágoas",
-        "es": "Palacio Fantasma"
+        "en-US": "Ghost Palace",
+        "pt-BR": "Palácio das Mágoas",
+        "es-ES": "Palacio Fantasma"
     },
     "Yh+yDA": {
-        "en": "Room of Consciousness",
-        "pt": "Salão de Ymir",
-        "es": "Salón de Ymir"
+        "en-US": "Room of Consciousness",
+        "pt-BR": "Salão de Ymir",
+        "es-ES": "Salón de Ymir"
     },
     "Yx+yDA": {
-        "en": "Bangugot Hospital",
-        "pt": "Hospital Abandonado",
-        "es": "Hospital Bangugot"
+        "en-US": "Bangugot Hospital",
+        "pt-BR": "Hospital Abandonado",
+        "es-ES": "Hospital Bangugot"
     },
     "ZB+yDA": {
-        "en": "King's Heel",
-        "pt": "Aos Pés do Rei",
-        "es": "A los Pies del Rey"
+        "en-US": "King's Heel",
+        "pt-BR": "Aos Pés do Rei",
+        "es-ES": "A los Pies del Rey"
     },
     "ZR+yDA": {
-        "en": "Horror Toy Factory",
-        "pt": "Fábrica do Terror",
-        "es": "Fábrica de Juguetes de Terror"
+        "en-US": "Horror Toy Factory",
+        "pt-BR": "Fábrica do Terror",
+        "es-ES": "Fábrica de Juguetes de Terror"
     },
     "Zh+yDA": {
-        "en": "Shadowed Dream",
-        "pt": "Sonho Sombrio",
-        "es": "Sueños y Sombras"
+        "en-US": "Shadowed Dream",
+        "pt-BR": "Sonho Sombrio",
+        "es-ES": "Sueños y Sombras"
     },
     "Zx+yDA": {
-        "en": "Faceworm Nest",
-        "pt": "Covil de Vermes",
-        "es": "Nido de Lombrirrostro"
+        "en-US": "Faceworm Nest",
+        "pt-BR": "Covil de Vermes",
+        "es-ES": "Nido de Lombrirrostro"
     },
     "aB+yDA": {
-        "en": "[Quests A]\nIt seems you have received all the quests.",
-        "pt": "[Missões A]\nParece que você recebeu todas as missões.",
-        "es": "[Misiones A]\nParece que has recibido todas las misiones."
+        "en-US": "[Quests A]\nIt seems you have received all the quests.",
+        "pt-BR": "[Missões A]\nParece que você recebeu todas as missões.",
+        "es-ES": "[Misiones A]\nParece que has recibido todas las misiones."
     },
     "aR+yDA": {
-        "en": "[Quests A]\n^FF0000By the way, as soon as you complete a quest, I automatically record it.^000000",
-        "pt": "[Missões A]\n^FF0000A propósito, assim que você completa uma missão, eu já registro ela automaticamente.^000000",
-        "es": "[Misiones A]\n^FF0000Por cierto, en cuanto completas una misión, la registro automáticamente.^000000"
+        "en-US": "[Quests A]\n^FF0000By the way, as soon as you complete a quest, I automatically record it.^000000",
+        "pt-BR": "[Missões A]\n^FF0000A propósito, assim que você completa uma missão, eu já registro ela automaticamente.^000000",
+        "es-ES": "[Misiones A]\n^FF0000Por cierto, en cuanto completas una misión, la registro automáticamente.^000000"
     },
     "ah+yDA": {
-        "en": "[Quests A]\n[^0000FFAbandon a quest^000000]\nMeans removing the quest from your quest window.",
-        "pt": "[Missões A]\n[^0000FFDesistir de uma missão^000000]\nSignifica remover a missão da sua janela de missões.",
-        "es": "[Misiones A]\n[^0000FFAbandonar una misión^000000]\nSignifica eliminar la misión de tu ventana de misiones."
+        "en-US": "[Quests A]\n[^0000FFAbandon a quest^000000]\nMeans removing the quest from your quest window.",
+        "pt-BR": "[Missões A]\n[^0000FFDesistir de uma missão^000000]\nSignifica remover a missão da sua janela de missões.",
+        "es-ES": "[Misiones A]\n[^0000FFAbandonar una misión^000000]\nSignifica eliminar la misión de tu ventana de misiones."
     },
     "ax+yDA": {
-        "en": "[Quests A]\nWhich quest did you take?",
-        "pt": "[Missões A]\nQue missão você pegou?",
-        "es": "[Misiones A]\n¿Qué misión aceptaste?"
+        "en-US": "[Quests A]\nWhich quest did you take?",
+        "pt-BR": "[Missões A]\nQue missão você pegou?",
+        "es-ES": "[Misiones A]\n¿Qué misión aceptaste?"
     },
     "bB+yDA": {
-        "en": "^0000FF",
-        "pt": "^0000FF",
-        "es": "^0000FF"
+        "en-US": "^0000FF",
+        "pt-BR": "^0000FF",
+        "es-ES": "^0000FF"
     },
     "bR+yDA": {
-        "en": "^888888",
-        "pt": "^888888",
-        "es": "^888888"
+        "en-US": "^888888",
+        "pt-BR": "^888888",
+        "es-ES": "^888888"
     },
     "bh+yDA": {
-        "en": "Orc's Memory^000000",
-        "pt": "Batalha dos Orcs^000000",
-        "es": "Batalla de los Orcos^000000"
+        "en-US": "Orc's Memory^000000",
+        "pt-BR": "Batalha dos Orcs^000000",
+        "es-ES": "Batalla de los Orcos^000000"
     },
     "bx+yDA": {
-        "en": "Geffen Magic Tournament^000000",
-        "pt": "Torneio de Magia^000000",
-        "es": "Torneo de Magia^000000"
+        "en-US": "Geffen Magic Tournament^000000",
+        "pt-BR": "Torneio de Magia^000000",
+        "es-ES": "Torneo de Magia^000000"
     },
     "cB+yDA": {
-        "en": "Sarah's Memory^000000",
-        "pt": "Memórias de Sarah^000000",
-        "es": "Memoria de Sarah^000000"
+        "en-US": "Sarah's Memory^000000",
+        "pt-BR": "Memórias de Sarah^000000",
+        "es-ES": "Memoria de Sarah^000000"
     },
     "cR+yDA": {
-        "en": "Ghost Palace^000000",
-        "pt": "Palácio das Mágoas^000000",
-        "es": "Palacio Fantasma^000000"
+        "en-US": "Ghost Palace^000000",
+        "pt-BR": "Palácio das Mágoas^000000",
+        "es-ES": "Palacio Fantasma^000000"
     },
     "ch+yDA": {
-        "en": "Room of Consciousness^000000",
-        "pt": "Salão de Ymir^000000",
-        "es": "Salón de Ymir^000000"
+        "en-US": "Room of Consciousness^000000",
+        "pt-BR": "Salão de Ymir^000000",
+        "es-ES": "Salón de Ymir^000000"
     },
     "cx+yDA": {
-        "en": "Bangugot Hospital^000000",
-        "pt": "Hospital Abandonado^000000",
-        "es": "Hospital Bangugot^000000"
+        "en-US": "Bangugot Hospital^000000",
+        "pt-BR": "Hospital Abandonado^000000",
+        "es-ES": "Hospital Bangugot^000000"
     },
     "dB+yDA": {
-        "en": "King's Heel^000000",
-        "pt": "Aos Pés do Rei^000000",
-        "es": "A los Pies del Rey^000000"
+        "en-US": "King's Heel^000000",
+        "pt-BR": "Aos Pés do Rei^000000",
+        "es-ES": "A los Pies del Rey^000000"
     },
     "dR+yDA": {
-        "en": "Horror Toy Factory^000000",
-        "pt": "Fábrica do Terror^000000",
-        "es": "Fábrica de Juguetes de Terror^000000"
+        "en-US": "Horror Toy Factory^000000",
+        "pt-BR": "Fábrica do Terror^000000",
+        "es-ES": "Fábrica de Juguetes de Terror^000000"
     },
     "dh+yDA": {
-        "en": "Shadowed Dream^000000",
-        "pt": "Sonho Sombrio^000000",
-        "es": "Sueños y Sombras^000000"
+        "en-US": "Shadowed Dream^000000",
+        "pt-BR": "Sonho Sombrio^000000",
+        "es-ES": "Sueños y Sombras^000000"
     },
     "dx+yDA": {
-        "en": "Faceworm Nest^000000",
-        "pt": "Covil de Vermes^000000",
-        "es": "Nido de Lombrirrostro^000000"
+        "en-US": "Faceworm Nest^000000",
+        "pt-BR": "Covil de Vermes^000000",
+        "es-ES": "Nido de Lombrirrostro^000000"
     },
     "eB+yDA": {
-        "en": "Accept all quests",
-        "pt": "Pegar todas as missões",
-        "es": "Aceptar todas las misiones"
+        "en-US": "Accept all quests",
+        "pt-BR": "Pegar todas as missões",
+        "es-ES": "Aceptar todas las misiones"
     },
     "eR+yDA": {
-        "en": "[Quests A]\nAlright, if you change your mind, I'll be here.",
-        "pt": "[Missões A]\nTudo bem, se mudar de ideia, estarei aqui.",
-        "es": "[Misiones A]\nEstá bien, si cambias de idea, aquí estaré."
+        "en-US": "[Quests A]\nAlright, if you change your mind, I'll be here.",
+        "pt-BR": "[Missões A]\nTudo bem, se mudar de ideia, estarei aqui.",
+        "es-ES": "[Misiones A]\nEstá bien, si cambias de idea, aquí estaré."
     },
     "eh+yDA": {
-        "en": "[Quests A]\nThis quest has already been completed today.",
-        "pt": "[Missões A]\nEssa missão já foi completada hoje.",
-        "es": "[Misiones A]\nEsta misión ya fue completada hoy."
+        "en-US": "[Quests A]\nThis quest has already been completed today.",
+        "pt-BR": "[Missões A]\nEssa missão já foi completada hoje.",
+        "es-ES": "[Misiones A]\nEsta misión ya fue completada hoy."
     },
     "ex+yDA": {
-        "en": "[Quests A]\nYou have already accepted this quest.",
-        "pt": "[Missões A]\nVocê já aceitou essa missão.",
-        "es": "[Misiones A]\nYa has aceptado esta misión."
+        "en-US": "[Quests A]\nYou have already accepted this quest.",
+        "pt-BR": "[Missões A]\nVocê já aceitou essa missão.",
+        "es-ES": "[Misiones A]\nYa has aceptado esta misión."
     },
     "fB+yDA": {
-        "en": "[Quests A]\nYou don't have any quests to abandon.",
-        "pt": "[Missões A]\nVocê não possui nenhuma missão para desistir.",
-        "es": "[Misiones A]\nNo tienes ninguna misión para abandonar."
+        "en-US": "[Quests A]\nYou don't have any quests to abandon.",
+        "pt-BR": "[Missões A]\nVocê não possui nenhuma missão para desistir.",
+        "es-ES": "[Misiones A]\nNo tienes ninguna misión para abandonar."
     },
     "fR+yDA": {
-        "en": "[Quests A]\nWhich quest do you wish to abandon?",
-        "pt": "[Missões A]\nQue missão deseja desistir?",
-        "es": "[Misiones A]\n¿Qué misión deseas abandonar?"
+        "en-US": "[Quests A]\nWhich quest do you wish to abandon?",
+        "pt-BR": "[Missões A]\nQue missão deseja desistir?",
+        "es-ES": "[Misiones A]\n¿Qué misión deseas abandonar?"
     },
     "fh+yDA": {
-        "en": "Abandon all",
-        "pt": "Desistir de todas",
-        "es": "Abandonar todas"
+        "en-US": "Abandon all",
+        "pt-BR": "Desistir de todas",
+        "es-ES": "Abandonar todas"
     },
     "fx+yDA": {
-        "en": "No",
-        "pt": "Não",
-        "es": "No"
+        "en-US": "No",
+        "pt-BR": "Não",
+        "es-ES": "No"
     },
     "gB+yDA": {
-        "en": "Yes",
-        "pt": "Sim",
-        "es": "Sí"
+        "en-US": "Yes",
+        "pt-BR": "Sim",
+        "es-ES": "Sí"
     },
     "gR+yDA": {
-        "en": "[Quests A]\nOk, come back if you change your mind.",
-        "pt": "[Missões A]\nOk, volte quando mudar de ideia.",
-        "es": "[Misiones A]\nEstá bien, vuelve cuando cambies de idea."
+        "en-US": "[Quests A]\nOk, come back if you change your mind.",
+        "pt-BR": "[Missões A]\nOk, volte quando mudar de ideia.",
+        "es-ES": "[Misiones A]\nEstá bien, vuelve cuando cambies de idea."
     },
     "gh+yDA": {
-        "en": "[Quests A]\nI didn't find any quest.",
-        "pt": "[Missões A]\nNão encontrei nenhuma missão.",
-        "es": "[Misiones A]\nNo encontré ninguna misión."
+        "en-US": "[Quests A]\nI didn't find any quest.",
+        "pt-BR": "[Missões A]\nNão encontrei nenhuma missão.",
+        "es-ES": "[Misiones A]\nNo encontré ninguna misión."
     },
     "gx+yDA": {
-        "en": "[Quests A]\nDone, quest canceled.",
-        "pt": "[Missões A]\nPronto, missão cancelada.",
-        "es": "[Misiones A]\nListo, misión cancelada."
+        "en-US": "[Quests A]\nDone, quest canceled.",
+        "pt-BR": "[Missões A]\nPronto, missão cancelada.",
+        "es-ES": "[Misiones A]\nListo, misión cancelada."
     },
     "hB+yDA": {
-        "en": "Quests B",
-        "pt": "Missões B",
-        "es": "Misiones B"
+        "en-US": "Quests B",
+        "pt-BR": "Missões B",
+        "es-ES": "Misiones B"
     },
     "hR+yDA": {
-        "en": "[Quests B]\n^FF0000You are carrying too many items. Please free up some inventory space and try again.^000000",
-        "pt": "[Missões B]\n^FF0000Você está carregando muitos itens. Libere um pouco de espaço no seu inventário e tente novamente.^000000",
-        "es": "[Misiones B]\n^FF0000Tienes demasiados objetos. Libera un poco de espacio en tu inventario e inténtalo de nuevo.^000000"
+        "en-US": "[Quests B]\n^FF0000You are carrying too many items. Please free up some inventory space and try again.^000000",
+        "pt-BR": "[Missões B]\n^FF0000Você está carregando muitos itens. Libere um pouco de espaço no seu inventário e tente novamente.^000000",
+        "es-ES": "[Misiones B]\n^FF0000Tienes demasiados objetos. Libera un poco de espacio en tu inventario e inténtalo de nuevo.^000000"
     },
     "hh+yDA": {
-        "en": "[Quests B]\n^FF0000You are overweight. Please free up some inventory space and try again.^000000",
-        "pt": "[Missões B]\n^FF0000Você está acima do peso. Libere um pouco de espaço no seu inventário e tente novamente.^000000",
-        "es": "[Misiones B]\n^FF0000Estás sobrecargado. Libera un poco de espacio en tu inventario e inténtalo de nuevo.^000000"
+        "en-US": "[Quests B]\n^FF0000You are overweight. Please free up some inventory space and try again.^000000",
+        "pt-BR": "[Missões B]\n^FF0000Você está acima do peso. Libere um pouco de espaço no seu inventário e tente novamente.^000000",
+        "es-ES": "[Misiones B]\n^FF0000Estás sobrecargado. Libera un poco de espacio en tu inventario e inténtalo de nuevo.^000000"
     },
     "hx+yDA": {
-        "en": "[Quests B]\nWelcome, {0}.\nWhat would you like?\n-----------------------\n^FF0000As soon as you turn in a quest, you receive a new one, but must wait for the cooldown.^000000",
-        "pt": "[Missões B]\nBoas vindas, {0}.\nO que você deseja?\n-----------------------\n^FF0000Assim que você entrega uma missão, você já recebe uma nova, mas deve aguardar o tempo de recarga.^000000",
-        "es": "[Misiones B]\nBienvenido, {0}.\n¿Qué deseas?\n-----------------------\n^FF0000Al entregar una misión, recibes otra nueva, pero debes esperar el tiempo de de espera.^000000"
+        "en-US": "[Quests B]\nWelcome, {0}.\nWhat would you like?\n-----------------------\n^FF0000As soon as you turn in a quest, you receive a new one, but must wait for the cooldown.^000000",
+        "pt-BR": "[Missões B]\nBoas vindas, {0}.\nO que você deseja?\n-----------------------\n^FF0000Assim que você entrega uma missão, você já recebe uma nova, mas deve aguardar o tempo de recarga.^000000",
+        "es-ES": "[Misiones B]\nBienvenido, {0}.\n¿Qué deseas?\n-----------------------\n^FF0000Al entregar una misión, recibes otra nueva, pero debes esperar el tiempo de de espera.^000000"
     },
     "iB+yDA": {
-        "en": "[Quests B]\n^FF0000You can only carry up to 30,000 units of the same item. Please store these items in the warehouse.^000000",
-        "pt": "[Missões B]\n^FF0000Você só pode carregar até 30.000 unidades de um mesmo item. Por favor, guarde esses itens no armazém.^000000",
-        "es": "[Misiones B]\n^FF0000Sólo puedes cargar hasta 30 000 unidades del mismo objeto. Por favor, guarda esos objetos en el almacén.^000000"
+        "en-US": "[Quests B]\n^FF0000You can only carry up to 30,000 units of the same item. Please store these items in the warehouse.^000000",
+        "pt-BR": "[Missões B]\n^FF0000Você só pode carregar até 30.000 unidades de um mesmo item. Por favor, guarde esses itens no armazém.^000000",
+        "es-ES": "[Misiones B]\n^FF0000Sólo puedes cargar hasta 30 000 unidades del mismo objeto. Por favor, guarda esos objetos en el almacén.^000000"
     },
     "iR+yDA": {
-        "en": "[Quests B]\nThank you very much.",
-        "pt": "[Missões B]\nMuito obrigada.",
-        "es": "[Misiones B]\nMuchas gracias."
+        "en-US": "[Quests B]\nThank you very much.",
+        "pt-BR": "[Missões B]\nMuito obrigada.",
+        "es-ES": "[Misiones B]\nMuchas gracias."
     },
     "ih+yDA": {
-        "en": "[Quests B]\nNo quests to report.",
-        "pt": "[Missões B]\nNenhuma missão a reportar.",
-        "es": "[Misiones B]\nNo hay misiones para informar."
+        "en-US": "[Quests B]\nNo quests to report.",
+        "pt-BR": "[Missões B]\nNenhuma missão a reportar.",
+        "es-ES": "[Misiones B]\nNo hay misiones para informar."
     },
     "ix+yDA": {
-        "en": "[Quests B]\nThese are the quest statuses.",
-        "pt": "[Missões B]\nEsses são os status das missões.",
-        "es": "[Misiones B]\nEstos son los estados de las misiones."
+        "en-US": "[Quests B]\nThese are the quest statuses.",
+        "pt-BR": "[Missões B]\nEsses são os status das missões.",
+        "es-ES": "[Misiones B]\nEstos son los estados de las misiones."
     },
     "jB+yDA": {
-        "en": "[Status]\nLast Room",
-        "pt": "[Status]\nSala Final",
-        "es": "[Estado]\nSala Final"
+        "en-US": "[Status]\nLast Room",
+        "pt-BR": "[Status]\nSala Final",
+        "es-ES": "[Estado]\nSala Final"
     },
     "jR+yDA": {
-        "en": "Nidhoggur's Nest",
-        "pt": "Ninho de Nidhogg",
-        "es": "Nido de Nidhogg"
+        "en-US": "Nidhoggur's Nest",
+        "pt-BR": "Ninho de Nidhogg",
+        "es-ES": "Nido de Nidhogg"
     },
     "jh+yDA": {
-        "en": "Bakonawa Lake",
-        "pt": "Lago Bakonawa",
-        "es": "Escondite de Bakonawa"
+        "en-US": "Bakonawa Lake",
+        "pt-BR": "Lago Bakonawa",
+        "es-ES": "Escondite de Bakonawa"
     },
     "jx+yDA": {
-        "en": "Buwaya Cave",
-        "pt": "Caverna de Buwaya",
-        "es": "Caverna de Buwaya"
+        "en-US": "Buwaya Cave",
+        "pt-BR": "Caverna de Buwaya",
+        "es-ES": "Caverna de Buwaya"
     },
     "kB+yDA": {
-        "en": "Advanced Old Glastheim",
-        "pt": "Glastheim Sombria",
-        "es": "Glastheim Sombría"
+        "en-US": "Advanced Old Glastheim",
+        "pt-BR": "Glastheim Sombria",
+        "es-ES": "Glastheim Sombría"
     },
     "kR+yDA": {
-        "en": "Sarah vs Fenrir",
-        "pt": "Sarah vs Fenrir",
-        "es": "Sarah vs Fenrir"
+        "en-US": "Sarah vs Fenrir",
+        "pt-BR": "Sarah vs Fenrir",
+        "es-ES": "Sarah vs Fenrir"
     },
     "kh+yDA": {
-        "en": "Devil's Tower",
-        "pt": "Torre do Demônio",
-        "es": "Torre del Demonio"
+        "en-US": "Devil's Tower",
+        "pt-BR": "Torre do Demônio",
+        "es-ES": "Torre del Demonio"
     },
     "kx+yDA": {
-        "en": "Isle of Bios",
-        "pt": "Ilha Bios",
-        "es": "Isla Bios"
+        "en-US": "Isle of Bios",
+        "pt-BR": "Ilha Bios",
+        "es-ES": "Isla Bios"
     },
     "lB+yDA": {
-        "en": "Temple of Demon God",
-        "pt": "Templo do Demônio Rei",
-        "es": "Templo del Rey Demonio"
+        "en-US": "Temple of Demon God",
+        "pt-BR": "Templo do Demônio Rei",
+        "es-ES": "Templo del Rey Demonio"
     },
     "lR+yDA": {
-        "en": "Werner Laboratory",
-        "pt": "Laboratório Werner",
-        "es": "Laboratorio Werner"
+        "en-US": "Werner Laboratory",
+        "pt-BR": "Laboratório Werner",
+        "es-ES": "Laboratorio Werner"
     },
     "lh+yDA": {
-        "en": "[Quests B]\nIt seems you have received all the quests.",
-        "pt": "[Missões B]\nParece que você recebeu todas as missões.",
-        "es": "[Misiones B]\nParece que has recibido todas las misiones."
+        "en-US": "[Quests B]\nIt seems you have received all the quests.",
+        "pt-BR": "[Missões B]\nParece que você recebeu todas as missões.",
+        "es-ES": "[Misiones B]\nParece que has recibido todas las misiones."
     },
     "lx+yDA": {
-        "en": "[Quests B]\n^FF0000By the way, as soon as you complete a quest, I automatically record it.^000000",
-        "pt": "[Missões B]\n^FF0000A propósito, assim que você completa uma missão, eu já registro ela automaticamente.^000000",
-        "es": "[Misiones B]\n^FF0000Por cierto, en cuanto completas una misión, la registro automáticamente.^000000"
+        "en-US": "[Quests B]\n^FF0000By the way, as soon as you complete a quest, I automatically record it.^000000",
+        "pt-BR": "[Missões B]\n^FF0000A propósito, assim que você completa uma missão, eu já registro ela automaticamente.^000000",
+        "es-ES": "[Misiones B]\n^FF0000Por cierto, en cuanto completas una misión, la registro automáticamente.^000000"
     },
     "mB+yDA": {
-        "en": "[Quests B]\n[^0000FFAbandon a quest^000000]\nMeans removing the quest from your quest window.",
-        "pt": "[Missões B]\n[^0000FFDesistir de uma missão^000000]\nSignifica remover a missão da sua janela de missões.",
-        "es": "[Misiones B]\n[^0000FFAbandonar una misión^000000]\nSignifica eliminar la misión de tu ventana de misiones."
+        "en-US": "[Quests B]\n[^0000FFAbandon a quest^000000]\nMeans removing the quest from your quest window.",
+        "pt-BR": "[Missões B]\n[^0000FFDesistir de uma missão^000000]\nSignifica remover a missão da sua janela de missões.",
+        "es-ES": "[Misiones B]\n[^0000FFAbandonar una misión^000000]\nSignifica eliminar la misión de tu ventana de misiones."
     },
     "mR+yDA": {
-        "en": "[Quests B]\nWhich quest did you take?",
-        "pt": "[Missões B]\nQue missão você pegou?",
-        "es": "[Misiones B]\n¿Qué misión aceptaste?"
+        "en-US": "[Quests B]\nWhich quest did you take?",
+        "pt-BR": "[Missões B]\nQue missão você pegou?",
+        "es-ES": "[Misiones B]\n¿Qué misión aceptaste?"
     },
     "mh+yDA": {
-        "en": "Last Room^000000",
-        "pt": "Sala Final^000000",
-        "es": "Sala Final^000000"
+        "en-US": "Last Room^000000",
+        "pt-BR": "Sala Final^000000",
+        "es-ES": "Sala Final^000000"
     },
     "mx+yDA": {
-        "en": "Nidhoggur's Nest^000000",
-        "pt": "Ninho de Nidhogg^000000",
-        "es": "Nido de Nidhogg^000000"
+        "en-US": "Nidhoggur's Nest^000000",
+        "pt-BR": "Ninho de Nidhogg^000000",
+        "es-ES": "Nido de Nidhogg^000000"
     },
     "nB+yDA": {
-        "en": "Bakonawa Lake^000000",
-        "pt": "Lago Bakonawa^000000",
-        "es": "Lago Bakonawa^000000"
+        "en-US": "Bakonawa Lake^000000",
+        "pt-BR": "Lago Bakonawa^000000",
+        "es-ES": "Lago Bakonawa^000000"
     },
     "nR+yDA": {
-        "en": "Buwaya Cave^000000",
-        "pt": "Caverna de Buwaya^000000",
-        "es": "Caverna de Buwaya^000000"
+        "en-US": "Buwaya Cave^000000",
+        "pt-BR": "Caverna de Buwaya^000000",
+        "es-ES": "Caverna de Buwaya^000000"
     },
     "nh+yDA": {
-        "en": "Advanced Old Glastheim^000000",
-        "pt": "Glastheim Sombria^000000",
-        "es": "Glastheim Sombría^000000"
+        "en-US": "Advanced Old Glastheim^000000",
+        "pt-BR": "Glastheim Sombria^000000",
+        "es-ES": "Glastheim Sombría^000000"
     },
     "nx+yDA": {
-        "en": "Sarah vs Fenrir^000000",
-        "pt": "Sarah vs Fenrir^000000",
-        "es": "Sarah vs Fenrir^000000"
+        "en-US": "Sarah vs Fenrir^000000",
+        "pt-BR": "Sarah vs Fenrir^000000",
+        "es-ES": "Sarah vs Fenrir^000000"
     },
     "oB+yDA": {
-        "en": "Devil's Tower^000000",
-        "pt": "Torre do Demônio^000000",
-        "es": "Torre del Demonio^000000"
+        "en-US": "Devil's Tower^000000",
+        "pt-BR": "Torre do Demônio^000000",
+        "es-ES": "Torre del Demonio^000000"
     },
     "oR+yDA": {
-        "en": "Isle of Bios^000000",
-        "pt": "Ilha Bios^000000",
-        "es": "Isla Bios^000000"
+        "en-US": "Isle of Bios^000000",
+        "pt-BR": "Ilha Bios^000000",
+        "es-ES": "Isla Bios^000000"
     },
     "oh+yDA": {
-        "en": "Temple of Demon God^000000",
-        "pt": "Templo do Demônio Rei^000000",
-        "es": "Templo del Rey Demonio^000000"
+        "en-US": "Temple of Demon God^000000",
+        "pt-BR": "Templo do Demônio Rei^000000",
+        "es-ES": "Templo del Rey Demonio^000000"
     },
     "ox+yDA": {
-        "en": "Werner Laboratory^000000",
-        "pt": "Laboratório Werner^000000",
-        "es": "Laboratorio Werner^000000"
+        "en-US": "Werner Laboratory^000000",
+        "pt-BR": "Laboratório Werner^000000",
+        "es-ES": "Laboratorio Werner^000000"
     },
     "pB+yDA": {
-        "en": "[Quests B]\nAlright, if you change your mind, I'll be here.",
-        "pt": "[Missões B]\nTudo bem, se mudar de ideia, estarei aqui.",
-        "es": "[Misiones B]\nEstá bien, si cambias de idea, aquí estaré."
+        "en-US": "[Quests B]\nAlright, if you change your mind, I'll be here.",
+        "pt-BR": "[Missões B]\nTudo bem, se mudar de ideia, estarei aqui.",
+        "es-ES": "[Misiones B]\nEstá bien, si cambias de idea, aquí estaré."
     },
     "pR+yDA": {
-        "en": "[Quests B]\nThis quest has already been completed today.",
-        "pt": "[Missões B]\nEssa missão já foi completada hoje.",
-        "es": "[Misiones B]\nEsta misión ya fue completada hoy."
+        "en-US": "[Quests B]\nThis quest has already been completed today.",
+        "pt-BR": "[Missões B]\nEssa missão já foi completada hoje.",
+        "es-ES": "[Misiones B]\nEsta misión ya fue completada hoy."
     },
     "ph+yDA": {
-        "en": "[Quests B]\nYou have already accepted this quest.",
-        "pt": "[Missões B]\nVocê já aceitou essa missão.",
-        "es": "[Misiones B]\nYa has aceptado esta misión."
+        "en-US": "[Quests B]\nYou have already accepted this quest.",
+        "pt-BR": "[Missões B]\nVocê já aceitou essa missão.",
+        "es-ES": "[Misiones B]\nYa has aceptado esta misión."
     },
     "px+yDA": {
-        "en": "[Quests B]\nYou don't have any quests to abandon.",
-        "pt": "[Missões B]\nVocê não possui nenhuma missão para desistir.",
-        "es": "[Misiones B]\nNo tienes ninguna misión para abandonar."
+        "en-US": "[Quests B]\nYou don't have any quests to abandon.",
+        "pt-BR": "[Missões B]\nVocê não possui nenhuma missão para desistir.",
+        "es-ES": "[Misiones B]\nNo tienes ninguna misión para abandonar."
     },
     "qB+yDA": {
-        "en": "[Quests B]\nWhich quest do you wish to abandon?",
-        "pt": "[Missões B]\nQue missão deseja desistir?",
-        "es": "[Misiones B]\n¿Qué misión deseas abandonar?"
+        "en-US": "[Quests B]\nWhich quest do you wish to abandon?",
+        "pt-BR": "[Missões B]\nQue missão deseja desistir?",
+        "es-ES": "[Misiones B]\n¿Qué misión deseas abandonar?"
     },
     "qR+yDA": {
-        "en": "[Quests B]\nOk, come back if you change your mind.",
-        "pt": "[Missões B]\nOk, volte quando mudar de ideia.",
-        "es": "[Misiones B]\nOk, vuelve cuando cambies de idea."
+        "en-US": "[Quests B]\nOk, come back if you change your mind.",
+        "pt-BR": "[Missões B]\nOk, volte quando mudar de ideia.",
+        "es-ES": "[Misiones B]\nOk, vuelve cuando cambies de idea."
     },
     "qh+yDA": {
-        "en": "[Quests B]\nI didn't find any quest.",
-        "pt": "[Missões B]\nNão encontrei nenhuma missão.",
-        "es": "[Misiones B]\nNo encontré ninguna misión."
+        "en-US": "[Quests B]\nI didn't find any quest.",
+        "pt-BR": "[Missões B]\nNão encontrei nenhuma missão.",
+        "es-ES": "[Misiones B]\nNo encontré ninguna misión."
     },
     "qx+yDA": {
-        "en": "[Quests B]\nDone, quest canceled.",
-        "pt": "[Missões B]\nPronto, missão cancelada.",
-        "es": "[Misiones B]\nListo, misión cancelada."
+        "en-US": "[Quests B]\nDone, quest canceled.",
+        "pt-BR": "[Missões B]\nPronto, missão cancelada.",
+        "es-ES": "[Misiones B]\nListo, misión cancelada."
     },
     "rB+yDA": {
-        "en": "Quests C",
-        "pt": "Missões C",
-        "es": "Misiones C"
+        "en-US": "Quests C",
+        "pt-BR": "Missões C",
+        "es-ES": "Misiones C"
     },
     "rR+yDA": {
-        "en": "[Quests C]\n^FF0000You are carrying too many items. Please free up some inventory space and try again.^000000",
-        "pt": "[Missões C]\n^FF0000Você está carregando muitos itens. Libere um pouco de espaço no seu inventário e tente novamente.^000000",
-        "es": "[Misiones C]\n^FF0000Estás cargando demasiados objetos. Libera un poco de espacio en tu inventario e inténtalo de nuevo.^000000"
+        "en-US": "[Quests C]\n^FF0000You are carrying too many items. Please free up some inventory space and try again.^000000",
+        "pt-BR": "[Missões C]\n^FF0000Você está carregando muitos itens. Libere um pouco de espaço no seu inventário e tente novamente.^000000",
+        "es-ES": "[Misiones C]\n^FF0000Estás cargando demasiados objetos. Libera un poco de espacio en tu inventario e inténtalo de nuevo.^000000"
     },
     "rh+yDA": {
-        "en": "[Quests C]\n^FF0000You are overweight. Please free up some inventory space and try again.^000000",
-        "pt": "[Missões C]\n^FF0000Você está acima do peso. Libere um pouco de espaço no seu inventário e tente novamente.^000000",
-        "es": "[Misiones C]\n^FF0000Estás sobrecargado. Libera un poco de espacio en tu inventario e inténtalo de nuevo.^000000"
+        "en-US": "[Quests C]\n^FF0000You are overweight. Please free up some inventory space and try again.^000000",
+        "pt-BR": "[Missões C]\n^FF0000Você está acima do peso. Libere um pouco de espaço no seu inventário e tente novamente.^000000",
+        "es-ES": "[Misiones C]\n^FF0000Estás sobrecargado. Libera un poco de espacio en tu inventario e inténtalo de nuevo.^000000"
     },
     "rx+yDA": {
-        "en": "[Quests C]\nWelcome, {0}.\nWhat would you like?\n-----------------------\n^FF0000As soon as you turn in a quest, you receive a new one, but must wait for the cooldown.^000000",
-        "pt": "[Missões C]\nBoas vindas, {0}.\nO que você deseja?\n-----------------------\n^FF0000Assim que você entrega uma missão, você já recebe uma nova, mas deve aguardar o tempo de recarga.^000000",
-        "es": "[Misiones C]\nBienvenido, {0}.\n¿Qué deseas?\n-----------------------\n^FF0000Tan pronto como entregas una misión, recibes una nueva, pero debes esperar el tiempo de espera.^000000"
+        "en-US": "[Quests C]\nWelcome, {0}.\nWhat would you like?\n-----------------------\n^FF0000As soon as you turn in a quest, you receive a new one, but must wait for the cooldown.^000000",
+        "pt-BR": "[Missões C]\nBoas vindas, {0}.\nO que você deseja?\n-----------------------\n^FF0000Assim que você entrega uma missão, você já recebe uma nova, mas deve aguardar o tempo de recarga.^000000",
+        "es-ES": "[Misiones C]\nBienvenido, {0}.\n¿Qué deseas?\n-----------------------\n^FF0000Tan pronto como entregas una misión, recibes una nueva, pero debes esperar el tiempo de espera.^000000"
     },
     "sB+yDA": {
-        "en": "[Quests C]\n^FF0000You can only carry up to 30,000 units of the same item. Please store these items in the warehouse.^000000",
-        "pt": "[Missões C]\n^FF0000Você só pode carregar até 30.000 unidades de um mesmo item. Por favor, guarde esses itens no armazém.^000000",
-        "es": "[Misiones C]\n^FF0000Sólo puedes cargar hasta 30.000 unidades del mismo objeto. Por favor, guarda esos objetos en el almacén.^000000"
+        "en-US": "[Quests C]\n^FF0000You can only carry up to 30,000 units of the same item. Please store these items in the warehouse.^000000",
+        "pt-BR": "[Missões C]\n^FF0000Você só pode carregar até 30.000 unidades de um mesmo item. Por favor, guarde esses itens no armazém.^000000",
+        "es-ES": "[Misiones C]\n^FF0000Sólo puedes cargar hasta 30.000 unidades del mismo objeto. Por favor, guarda esos objetos en el almacén.^000000"
     },
     "sR+yDA": {
-        "en": "[Quests C]\nThank you very much.",
-        "pt": "[Missões C]\nMuito obrigada.",
-        "es": "[Misiones C]\nMuchas gracias."
+        "en-US": "[Quests C]\nThank you very much.",
+        "pt-BR": "[Missões C]\nMuito obrigada.",
+        "es-ES": "[Misiones C]\nMuchas gracias."
     },
     "sh+yDA": {
-        "en": "[Quests C]\nNo quests to report.",
-        "pt": "[Missões C]\nNenhuma missão a reportar.",
-        "es": "[Misiones C]\nNo hay misiones para informar."
+        "en-US": "[Quests C]\nNo quests to report.",
+        "pt-BR": "[Missões C]\nNenhuma missão a reportar.",
+        "es-ES": "[Misiones C]\nNo hay misiones para informar."
     },
     "sx+yDA": {
-        "en": "[Quests C]\nThese are the quest statuses.",
-        "pt": "[Missões C]\nEsses são os status das missões.",
-        "es": "[Misiones C]\nEstos son los estados de las misiones."
+        "en-US": "[Quests C]\nThese are the quest statuses.",
+        "pt-BR": "[Missões C]\nEsses são os status das missões.",
+        "es-ES": "[Misiones C]\nEstos son los estados de las misiones."
     },
     "tB+yDA": {
-        "en": "[Status]\nPoring Village",
-        "pt": "[Status]\nVila dos Porings",
-        "es": "[Estado]\nAldea de los Porings"
+        "en-US": "[Status]\nPoring Village",
+        "pt-BR": "[Status]\nVila dos Porings",
+        "es-ES": "[Estado]\nAldea de los Porings"
     },
     "tR+yDA": {
-        "en": "Octopus Cave",
-        "pt": "Caverna do Polvo",
-        "es": "Caverna del Pulpo"
+        "en-US": "Octopus Cave",
+        "pt-BR": "Caverna do Polvo",
+        "es-ES": "Caverna del Pulpo"
     },
     "th+yDA": {
-        "en": "EDDA Arunafeltz",
-        "pt": "Quarto Crescente",
-        "es": "Edda Arunafeltz"
+        "en-US": "EDDA Arunafeltz",
+        "pt-BR": "Quarto Crescente",
+        "es-ES": "Edda Arunafeltz"
     },
     "tx+yDA": {
-        "en": "OS Search",
-        "pt": "Missão OS",
-        "es": "Misión OS"
+        "en-US": "OS Search",
+        "pt-BR": "Missão OS",
+        "es-ES": "Misión OS"
     },
     "uB+yDA": {
-        "en": "Old Glastheim",
-        "pt": "Maldição de Glastheim",
-        "es": "Maldición de Glastheim"
+        "en-US": "Old Glastheim",
+        "pt-BR": "Maldição de Glastheim",
+        "es-ES": "Maldición de Glastheim"
     },
     "uR+yDA": {
-        "en": "Heart Hunter War Base",
-        "pt": "Base Militar",
-        "es": "Base Militar"
+        "en-US": "Heart Hunter War Base",
+        "pt-BR": "Base Militar",
+        "es-ES": "Base Militar"
     },
     "uh+yDA": {
-        "en": "Wolfchev's Laboratory",
-        "pt": "Laboratório de Wolfchev",
-        "es": "Laboratorio de Wolfchev"
+        "en-US": "Wolfchev's Laboratory",
+        "pt-BR": "Laboratório de Wolfchev",
+        "es-ES": "Laboratorio de Wolfchev"
     },
     "ux+yDA": {
-        "en": "COR Memorial",
-        "pt": "Memorial COR",
-        "es": "Memorial COR"
+        "en-US": "COR Memorial",
+        "pt-BR": "Memorial COR",
+        "es-ES": "Memorial COR"
     },
     "vB+yDA": {
-        "en": "Sky Fortress",
-        "pt": "Fortaleza Aérea",
-        "es": "Fortaleza Aérea"
+        "en-US": "Sky Fortress",
+        "pt-BR": "Fortaleza Aérea",
+        "es-ES": "Fortaleza Aérea"
     },
     "vR+yDA": {
-        "en": "Morse's Cave",
-        "pt": "Caverna de Mors",
-        "es": "Caverna de Mors"
+        "en-US": "Morse's Cave",
+        "pt-BR": "Caverna de Mors",
+        "es-ES": "Caverna de Mors"
     },
     "vh+yDA": {
-        "en": "[Quests C]\nIt seems you have received all the quests.",
-        "pt": "[Missões C]\nParece que você recebeu todas as missões.",
-        "es": "[Misiones C]\nParece que has recibido todas las misiones."
+        "en-US": "[Quests C]\nIt seems you have received all the quests.",
+        "pt-BR": "[Missões C]\nParece que você recebeu todas as missões.",
+        "es-ES": "[Misiones C]\nParece que has recibido todas las misiones."
     },
     "vx+yDA": {
-        "en": "[Quests C]\n^FF0000By the way, as soon as you complete a quest, I automatically record it.^000000",
-        "pt": "[Missões C]\n^FF0000A propósito, assim que você completa uma missão, eu já registro ela automaticamente.^000000",
-        "es": "[Misiones C]\n^FF0000Por cierto, tan pronto como completas una misión, yo la registro automáticamente.^000000"
+        "en-US": "[Quests C]\n^FF0000By the way, as soon as you complete a quest, I automatically record it.^000000",
+        "pt-BR": "[Missões C]\n^FF0000A propósito, assim que você completa uma missão, eu já registro ela automaticamente.^000000",
+        "es-ES": "[Misiones C]\n^FF0000Por cierto, tan pronto como completas una misión, yo la registro automáticamente.^000000"
     },
     "wB+yDA": {
-        "en": "[Quests C]\n[^0000FFAbandon a quest^000000]\nMeans removing the quest from your quest window.",
-        "pt": "[Missões C]\n[^0000FFDesistir de uma missão^000000]\nSignifica remover a missão da sua janela de missões.",
-        "es": "[Misiones C]\n[^0000FFAbandonar una misión^000000]\nSignifica eliminar la misión de tu ventana de misiones."
+        "en-US": "[Quests C]\n[^0000FFAbandon a quest^000000]\nMeans removing the quest from your quest window.",
+        "pt-BR": "[Missões C]\n[^0000FFDesistir de uma missão^000000]\nSignifica remover a missão da sua janela de missões.",
+        "es-ES": "[Misiones C]\n[^0000FFAbandonar una misión^000000]\nSignifica eliminar la misión de tu ventana de misiones."
     },
     "wR+yDA": {
-        "en": "[Quests C]\nWhich quest did you take?",
-        "pt": "[Missões C]\nQue missão você pegou?",
-        "es": "[Misiones C]\n¿Qué misión aceptaste?"
+        "en-US": "[Quests C]\nWhich quest did you take?",
+        "pt-BR": "[Missões C]\nQue missão você pegou?",
+        "es-ES": "[Misiones C]\n¿Qué misión aceptaste?"
     },
     "wh+yDA": {
-        "en": "Poring Village^000000",
-        "pt": "Vila dos Porings^000000",
-        "es": "Aldea de los Porings^000000"
+        "en-US": "Poring Village^000000",
+        "pt-BR": "Vila dos Porings^000000",
+        "es-ES": "Aldea de los Porings^000000"
     },
     "wx+yDA": {
-        "en": "Octopus Cave^000000",
-        "pt": "Caverna do Polvo^000000",
-        "es": "Caverna del Pulpo^000000"
+        "en-US": "Octopus Cave^000000",
+        "pt-BR": "Caverna do Polvo^000000",
+        "es-ES": "Caverna del Pulpo^000000"
     },
     "xB+yDA": {
-        "en": "EDDA Arunafeltz^000000",
-        "pt": "Quarto Crescente^000000",
-        "es": "Edda Arunafeltz^000000"
+        "en-US": "EDDA Arunafeltz^000000",
+        "pt-BR": "Quarto Crescente^000000",
+        "es-ES": "Edda Arunafeltz^000000"
     },
     "xR+yDA": {
-        "en": "OS Search^000000",
-        "pt": "Missão OS^000000",
-        "es": "Misión OS^000000"
+        "en-US": "OS Search^000000",
+        "pt-BR": "Missão OS^000000",
+        "es-ES": "Misión OS^000000"
     },
     "xh+yDA": {
-        "en": "Old Glastheim^000000",
-        "pt": "Maldição de Glastheim^000000",
-        "es": "Maldición de Glastheim^000000"
+        "en-US": "Old Glastheim^000000",
+        "pt-BR": "Maldição de Glastheim^000000",
+        "es-ES": "Maldición de Glastheim^000000"
     },
     "xx+yDA": {
-        "en": "Heart Hunter War Base^000000",
-        "pt": "Base Militar^000000",
-        "es": "Base Militar^000000"
+        "en-US": "Heart Hunter War Base^000000",
+        "pt-BR": "Base Militar^000000",
+        "es-ES": "Base Militar^000000"
     },
     "yB+yDA": {
-        "en": "Wolfchev's Laboratory^000000",
-        "pt": "Laboratório de Wolfchev^000000",
-        "es": "Laboratorio de Wolfchev^000000"
+        "en-US": "Wolfchev's Laboratory^000000",
+        "pt-BR": "Laboratório de Wolfchev^000000",
+        "es-ES": "Laboratorio de Wolfchev^000000"
     },
     "yR+yDA": {
-        "en": "COR Memorial^000000",
-        "pt": "Memorial COR^000000",
-        "es": "Memorial COR^000000"
+        "en-US": "COR Memorial^000000",
+        "pt-BR": "Memorial COR^000000",
+        "es-ES": "Memorial COR^000000"
     },
     "yh+yDA": {
-        "en": "Sky Fortress^000000",
-        "pt": "Fortaleza Aérea^000000",
-        "es": "Fortaleza Aérea^000000"
+        "en-US": "Sky Fortress^000000",
+        "pt-BR": "Fortaleza Aérea^000000",
+        "es-ES": "Fortaleza Aérea^000000"
     },
     "yx+yDA": {
-        "en": "Morse's Cave^000000",
-        "pt": "Caverna de Mors^000000",
-        "es": "Caverna de Mors^000000"
+        "en-US": "Morse's Cave^000000",
+        "pt-BR": "Caverna de Mors^000000",
+        "es-ES": "Caverna de Mors^000000"
     },
     "zB+yDA": {
-        "en": "[Quests C]\nAlright, if you change your mind, I'll be here.",
-        "pt": "[Missões C]\nTudo bem, se mudar de ideia, estarei aqui.",
-        "es": "[Misiones C]\nEstá bien, si cambias de idea, aquí estaré."
+        "en-US": "[Quests C]\nAlright, if you change your mind, I'll be here.",
+        "pt-BR": "[Missões C]\nTudo bem, se mudar de ideia, estarei aqui.",
+        "es-ES": "[Misiones C]\nEstá bien, si cambias de idea, aquí estaré."
     },
     "zR+yDA": {
-        "en": "[Quests C]\nThis quest has already been completed today.",
-        "pt": "[Missões C]\nEssa missão já foi completada hoje.",
-        "es": "[Misiones C]\nEsta misión ya fue completada hoy."
+        "en-US": "[Quests C]\nThis quest has already been completed today.",
+        "pt-BR": "[Missões C]\nEssa missão já foi completada hoje.",
+        "es-ES": "[Misiones C]\nEsta misión ya fue completada hoy."
     },
     "zh+yDA": {
-        "en": "[Quests C]\nYou have already accepted this quest.",
-        "pt": "[Missões C]\nVocê já aceitou essa missão.",
-        "es": "[Misiones C]\nYa has aceptado esta misión."
+        "en-US": "[Quests C]\nYou have already accepted this quest.",
+        "pt-BR": "[Missões C]\nVocê já aceitou essa missão.",
+        "es-ES": "[Misiones C]\nYa has aceptado esta misión."
     },
     "zx+yDA": {
-        "en": "[Quests C]\nYou don't have any quests to abandon.",
-        "pt": "[Missões C]\nVocê não possui nenhuma missão para desistir.",
-        "es": "[Misiones C]\nNo tienes ninguna misión para abandonar."
+        "en-US": "[Quests C]\nYou don't have any quests to abandon.",
+        "pt-BR": "[Missões C]\nVocê não possui nenhuma missão para desistir.",
+        "es-ES": "[Misiones C]\nNo tienes ninguna misión para abandonar."
     },
     "0B+yDA": {
-        "en": "[Quests C]\nWhich quest do you wish to abandon?",
-        "pt": "[Missões C]\nQue missão deseja desistir?",
-        "es": "[Misiones C]\n¿Qué misión deseas abandonar?"
+        "en-US": "[Quests C]\nWhich quest do you wish to abandon?",
+        "pt-BR": "[Missões C]\nQue missão deseja desistir?",
+        "es-ES": "[Misiones C]\n¿Qué misión deseas abandonar?"
     },
     "0R+yDA": {
-        "en": "[Quests C]\nOk, come back if you change your mind.",
-        "pt": "[Missões C]\nOk, volte quando mudar de ideia.",
-        "es": "[Misiones C]\nOk, vuelve cuando cambies de idea."
+        "en-US": "[Quests C]\nOk, come back if you change your mind.",
+        "pt-BR": "[Missões C]\nOk, volte quando mudar de ideia.",
+        "es-ES": "[Misiones C]\nOk, vuelve cuando cambies de idea."
     },
     "0h+yDA": {
-        "en": "[Quests C]\nI didn't find any quest.",
-        "pt": "[Missões C]\nNão encontrei nenhuma missão.",
-        "es": "[Misiones C]\nNo encontré ninguna misión."
+        "en-US": "[Quests C]\nI didn't find any quest.",
+        "pt-BR": "[Missões C]\nNão encontrei nenhuma missão.",
+        "es-ES": "[Misiones C]\nNo encontré ninguna misión."
     },
     "0x+yDA": {
-        "en": "[Quests C]\nDone, quest canceled.",
-        "pt": "[Missões C]\nPronto, missão cancelada.",
-        "es": "[Misiones C]\nListo, misión cancelada."
+        "en-US": "[Quests C]\nDone, quest canceled.",
+        "pt-BR": "[Missões C]\nPronto, missão cancelada.",
+        "es-ES": "[Misiones C]\nListo, misión cancelada."
     },
     "1B+yDA": {
-        "en": "Quests D",
-        "pt": "Missões D",
-        "es": "Misiones D"
+        "en-US": "Quests D",
+        "pt-BR": "Missões D",
+        "es-ES": "Misiones D"
     },
     "1R+yDA": {
-        "en": "^FF0000You are overweight. Please free up some inventory space and try again.^000000",
-        "pt": "^FF0000Você está acima do peso. Libere um pouco de espaço no seu inventário e tente novamente.^000000",
-        "es": "^FF0000Estás sobrecargado. Libera un poco de espacio en tu inventario e inténtalo de nuevo.^000000"
+        "en-US": "^FF0000You are overweight. Please free up some inventory space and try again.^000000",
+        "pt-BR": "^FF0000Você está acima do peso. Libere um pouco de espaço no seu inventário e tente novamente.^000000",
+        "es-ES": "^FF0000Estás sobrecargado. Libera un poco de espacio en tu inventario e inténtalo de nuevo.^000000"
     },
     "1h+yDA": {
-        "en": "[Coin Converter]\nWelcome, {0}.\nWhat would you like?",
-        "pt": "[Conversora de Moedas]\nBoas vindas, {0}.\nO que você deseja?",
-        "es": "[Conversor de Monedas]\nBienvenido, {0}.\n¿Qué deseas?"
+        "en-US": "[Coin Converter]\nWelcome, {0}.\nWhat would you like?",
+        "pt-BR": "[Conversora de Moedas]\nBoas vindas, {0}.\nO que você deseja?",
+        "es-ES": "[Conversor de Monedas]\nBienvenido, {0}.\n¿Qué deseas?"
     },
     "1x+yDA": {
-        "en": "Convert Equipment",
-        "pt": "Converter Equipamentos",
-        "es": "Convertir Equipo"
+        "en-US": "Convert Equipment",
+        "pt-BR": "Converter Equipamentos",
+        "es-ES": "Convertir Equipo"
     },
     "2B+yDA": {
-        "en": "Convert Items",
-        "pt": "Converter Itens",
-        "es": "Convertir Objetos"
+        "en-US": "Convert Items",
+        "pt-BR": "Converter Itens",
+        "es-ES": "Convertir Objetos"
     },
     "2R+yDA": {
-        "en": "[Coin Converter]\nDo you want to transform your instance equipment into Explorer's Coins?",
-        "pt": "[Conversora de Moedas]\nDeseja transformar seus equipamentos das instâncias em Moedas dos Desbravadores?",
-        "es": "[Conversor de Monedas]\n¿Deseas transformar tu equipo de mazmorras en Monedas del Explorador?"
+        "en-US": "[Coin Converter]\nDo you want to transform your instance equipment into Explorer's Coins?",
+        "pt-BR": "[Conversora de Moedas]\nDeseja transformar seus equipamentos das instâncias em Moedas dos Desbravadores?",
+        "es-ES": "[Conversor de Monedas]\n¿Deseas transformar tu equipo de mazmorras en Monedas del Explorador?"
     },
     "2h+yDA": {
-        "en": "Yes!",
-        "pt": "Sim!",
-        "es": "¡Sí!"
+        "en-US": "Yes!",
+        "pt-BR": "Sim!",
+        "es-ES": "¡Sí!"
     },
     "2x+yDA": {
-        "en": "No.",
-        "pt": "Não.",
-        "es": "No."
+        "en-US": "No.",
+        "pt-BR": "Não.",
+        "es-ES": "No."
     },
     "3B+yDA": {
-        "en": "Evil Slayer Bow",
-        "pt": "Arco Esconjurante",
-        "es": "Arco Cazador del Mal"
+        "en-US": "Evil Slayer Bow",
+        "pt-BR": "Arco Esconjurante",
+        "es-ES": "Arco Cazador del Mal"
     },
     "3R+yDA": {
-        "en": "Evil Slayer Staff",
-        "pt": "Cajado Esconjurante",
-        "es": "Bastón Cazador del Mal"
+        "en-US": "Evil Slayer Staff",
+        "pt-BR": "Cajado Esconjurante",
+        "es-ES": "Bastón Cazador del Mal"
     },
     "3h+yDA": {
-        "en": "Evil Slayer Sword",
-        "pt": "Espada Esconjurante",
-        "es": "Espada Cazador del Mala"
+        "en-US": "Evil Slayer Sword",
+        "pt-BR": "Espada Esconjurante",
+        "es-ES": "Espada Cazador del Mala"
     },
     "3x+yDA": {
-        "en": "Evil Slayer Katar",
-        "pt": "Katar Esconjurante",
-        "es": "Katar Cazador del Mal"
+        "en-US": "Evil Slayer Katar",
+        "pt-BR": "Katar Esconjurante",
+        "es-ES": "Katar Cazador del Mal"
     },
     "4B+yDA": {
-        "en": "Evil Slayer Mace",
-        "pt": "Maça Esconjurante",
-        "es": "Maza Cazador del Mala"
+        "en-US": "Evil Slayer Mace",
+        "pt-BR": "Maça Esconjurante",
+        "es-ES": "Maza Cazador del Mala"
     },
     "4R+yDA": {
-        "en": "Evil Slayer Dagger",
-        "pt": "Punhal Esconjurante",
-        "es": "Daga Cazador del Mala"
+        "en-US": "Evil Slayer Dagger",
+        "pt-BR": "Punhal Esconjurante",
+        "es-ES": "Daga Cazador del Mala"
     },
     "4h+yDA": {
-        "en": "Airship's Boots",
-        "pt": "Coturnos de Comissário",
-        "es": "Botas de Azafata"
+        "en-US": "Airship's Boots",
+        "pt-BR": "Coturnos de Comissário",
+        "es-ES": "Botas de Azafata"
     },
     "4x+yDA": {
-        "en": "Airship's Uniform",
-        "pt": "Uniforme de Comissário",
-        "es": "Uniforme de Azafata"
+        "en-US": "Airship's Uniform",
+        "pt-BR": "Uniforme de Comissário",
+        "es-ES": "Uniforme de Azafata"
     },
     "5B+yDA": {
-        "en": "Airship's Manteau",
-        "pt": "Manto do Comissário",
-        "es": "Capa del Azafata"
+        "en-US": "Airship's Manteau",
+        "pt-BR": "Manto do Comissário",
+        "es-ES": "Capa del Azafata"
     },
     "5R+yDA": {
-        "en": "Ceremonial Sword",
-        "pt": "Espada Cerimonial",
-        "es": "Espada Ceremonial"
+        "en-US": "Ceremonial Sword",
+        "pt-BR": "Espada Cerimonial",
+        "es-ES": "Espada Ceremonial"
     },
     "5h+yDA": {
-        "en": "Heavy Sword",
-        "pt": "Espada Pesada",
-        "es": "Espada Pesada"
+        "en-US": "Heavy Sword",
+        "pt-BR": "Espada Pesada",
+        "es-ES": "Espada Pesada"
     },
     "5x+yDA": {
-        "en": "Staff of Geffen",
-        "pt": "Cajado de Geffen",
-        "es": "Bastón de Geffen"
+        "en-US": "Staff of Geffen",
+        "pt-BR": "Cajado de Geffen",
+        "es-ES": "Bastón de Geffen"
     },
     "6B+yDA": {
-        "en": "Goldsmithing Dagger",
-        "pt": "Adaga Folheada a Ouro",
-        "es": "Daga Enchapada en Oro"
+        "en-US": "Goldsmithing Dagger",
+        "pt-BR": "Adaga Folheada a Ouro",
+        "es-ES": "Daga Enchapada en Oro"
     },
     "6R+yDA": {
-        "en": "Engraved Armor",
-        "pt": "Armadura Filigranada",
-        "es": "Armadura Filigrana"
+        "en-US": "Engraved Armor",
+        "pt-BR": "Armadura Filigranada",
+        "es-ES": "Armadura Filigrana"
     },
     "6h+yDA": {
-        "en": "Ferlock Uniform",
-        "pt": "Uniforme do Ferlock",
-        "es": "Uniforme de Ferlock"
+        "en-US": "Ferlock Uniform",
+        "pt-BR": "Uniforme do Ferlock",
+        "es-ES": "Uniforme de Ferlock"
     },
     "6x+yDA": {
-        "en": "Ferlock Manteau",
-        "pt": "Sobretudo do Ferlock",
-        "es": "Sobretodo de Ferlock"
+        "en-US": "Ferlock Manteau",
+        "pt-BR": "Sobretudo do Ferlock",
+        "es-ES": "Sobretodo de Ferlock"
     },
     "7B+yDA": {
-        "en": "Ferlock Boots",
-        "pt": "Botas do Ferlock",
-        "es": "Botas de Ferlock"
+        "en-US": "Ferlock Boots",
+        "pt-BR": "Botas do Ferlock",
+        "es-ES": "Botas de Ferlock"
     },
     "7R+yDA": {
-        "en": "Vicious Mind Dagger",
-        "pt": "Adaga Sobrenatural",
-        "es": "Daga de Mente Viciosa"
+        "en-US": "Vicious Mind Dagger",
+        "pt-BR": "Adaga Sobrenatural",
+        "es-ES": "Daga de Mente Viciosa"
     },
     "7h+yDA": {
-        "en": "Vicious Mind Bow",
-        "pt": "Arco Sobrenatural",
-        "es": "Arco de Mente Viciosa"
+        "en-US": "Vicious Mind Bow",
+        "pt-BR": "Arco Sobrenatural",
+        "es-ES": "Arco de Mente Viciosa"
     },
     "7x+yDA": {
-        "en": "Vicious Mind Harpoon",
-        "pt": "Arpão Sobrenatural",
-        "es": "Arpón de Mente Viciosa"
+        "en-US": "Vicious Mind Harpoon",
+        "pt-BR": "Arpão Sobrenatural",
+        "es-ES": "Arpón de Mente Viciosa"
     },
     "8B+yDA": {
-        "en": "Vicious Mind Staff",
-        "pt": "Cajado Sobrenatural",
-        "es": "Bastón de Mente Viciosa"
+        "en-US": "Vicious Mind Staff",
+        "pt-BR": "Cajado Sobrenatural",
+        "es-ES": "Bastón de Mente Viciosa"
     },
     "8R+yDA": {
-        "en": "Vicious Mind Scepter",
-        "pt": "Cetro Sobrenatural",
-        "es": "Cetro de Mente Viciosa"
+        "en-US": "Vicious Mind Scepter",
+        "pt-BR": "Cetro Sobrenatural",
+        "es-ES": "Cetro de Mente Viciosa"
     },
     "8h+yDA": {
-        "en": "Vicious Mind Whip",
-        "pt": "Chicote Sobrenatural",
-        "es": "Látigo de Mente Viciosa"
+        "en-US": "Vicious Mind Whip",
+        "pt-BR": "Chicote Sobrenatural",
+        "es-ES": "Látigo de Mente Viciosa"
     },
     "8x+yDA": {
-        "en": "Vicious Mind Sword",
-        "pt": "Espada Sobrenatural",
-        "es": "Espada de Mente Viciosa"
+        "en-US": "Vicious Mind Sword",
+        "pt-BR": "Espada Sobrenatural",
+        "es-ES": "Espada de Mente Viciosa"
     },
     "9B+yDA": {
-        "en": "Vicious Mind Katar",
-        "pt": "Katar Sobrenatural",
-        "es": "Katar de Mente Viciosa"
+        "en-US": "Vicious Mind Katar",
+        "pt-BR": "Katar Sobrenatural",
+        "es-ES": "Katar de Mente Viciosa"
     },
     "9R+yDA": {
-        "en": "Vicious Mind Book",
-        "pt": "Livro Sobrenatural",
-        "es": "Libro de Mente Viciosa"
+        "en-US": "Vicious Mind Book",
+        "pt-BR": "Livro Sobrenatural",
+        "es-ES": "Libro de Mente Viciosa"
     },
     "9h+yDA": {
-        "en": "Vicious Mind Mace",
-        "pt": "Maça Sobrenatural",
-        "es": "Maza de Mente Viciosa"
+        "en-US": "Vicious Mind Mace",
+        "pt-BR": "Maça Sobrenatural",
+        "es-ES": "Maza de Mente Viciosa"
     },
     "9x+yDA": {
-        "en": "Vicious Mind Axe",
-        "pt": "Machado Sobrenatural",
-        "es": "Hacha de Mente Viciosa"
+        "en-US": "Vicious Mind Axe",
+        "pt-BR": "Machado Sobrenatural",
+        "es-ES": "Hacha de Mente Viciosa"
     },
     "+B+yDA": {
-        "en": "Vicious Mind Pike",
-        "pt": "Pique Sobrenatural",
-        "es": "Pica de Mente Viciosa"
+        "en-US": "Vicious Mind Pike",
+        "pt-BR": "Pique Sobrenatural",
+        "es-ES": "Pica de Mente Viciosa"
     },
     "+R+yDA": {
-        "en": "Vicious Mind Pistol",
-        "pt": "Pistola Sobrenatural",
-        "es": "Pistola de Mente Viciosa"
+        "en-US": "Vicious Mind Pistol",
+        "pt-BR": "Pistola Sobrenatural",
+        "es-ES": "Pistola de Mente Viciosa"
     },
     "+h+yDA": {
-        "en": "Vicious Mind Fist",
-        "pt": "Punho Sobrenatural",
-        "es": "Puño de Mente Viciosa"
+        "en-US": "Vicious Mind Fist",
+        "pt-BR": "Punho Sobrenatural",
+        "es-ES": "Puño de Mente Viciosa"
     },
     "+x+yDA": {
-        "en": "Vicious Mind Saber",
-        "pt": "Sabre Sobrenatural",
-        "es": "Sable de Mente Viciosa"
+        "en-US": "Vicious Mind Saber",
+        "pt-BR": "Sabre Sobrenatural",
+        "es-ES": "Sable de Mente Viciosa"
     },
     "/B+yDA": {
-        "en": "Vicious Mind Shuriken",
-        "pt": "Shuriken Sobrenatural",
-        "es": "Shuriken de Mente Viciosa"
+        "en-US": "Vicious Mind Shuriken",
+        "pt-BR": "Shuriken Sobrenatural",
+        "es-ES": "Shuriken de Mente Viciosa"
     },
     "/R+yDA": {
-        "en": "Vicious Mind Violin",
-        "pt": "Viollino Sobrenatural",
-        "es": "Violino de Mente Viciosa"
+        "en-US": "Vicious Mind Violin",
+        "pt-BR": "Viollino Sobrenatural",
+        "es-ES": "Violino de Mente Viciosa"
     },
     "/h+yDA": {
-        "en": "Is that all?",
-        "pt": "Isso é tudo?",
-        "es": "¿Eso es todo?"
+        "en-US": "Is that all?",
+        "pt-BR": "Isso é tudo?",
+        "es-ES": "¿Eso es todo?"
     },
     "/x+yDA": {
-        "en": "Check again",
-        "pt": "Verifique de novo",
-        "es": "Verificar de nuevo"
+        "en-US": "Check again",
+        "pt-BR": "Verifique de novo",
+        "es-ES": "Verificar de nuevo"
     },
     "ACCyDA": {
-        "en": "^980078Operation canceled.^000000",
-        "pt": "^980078Operação cancelada.^000000",
-        "es": "^980078Operación cancelada.^000000"
+        "en-US": "^980078Operation canceled.^000000",
+        "pt-BR": "^980078Operação cancelada.^000000",
+        "es-ES": "^980078Operación cancelada.^000000"
     },
     "ASCyDA": {
-        "en": "[Coin Converter]\n^3131FF{0}^000000\nis equivalent to {1}x Explorer's Coin.\n^FF0000You will lose cards, enchants, or refines applied to this item.^000000",
-        "pt": "[Conversora de Moedas]\n^3131FF{0}^000000\nequivale a {1}x Moeda dos Desbravadores.\n^FF0000Você vai perder carta, encanto ou refino aplicado nesse item.^000000",
-        "es": "[Conversor de Monedas]\n^3131FF{0}^000000\nequivale a {1}x Moneda del Explorador.\n^FF0000Perderás carta, encantamiento o refinamiento aplicado en este objeto.^000000"
+        "en-US": "[Coin Converter]\n^3131FF{0}^000000\nis equivalent to {1}x Explorer's Coin.\n^FF0000You will lose cards, enchants, or refines applied to this item.^000000",
+        "pt-BR": "[Conversora de Moedas]\n^3131FF{0}^000000\nequivale a {1}x Moeda dos Desbravadores.\n^FF0000Você vai perder carta, encanto ou refino aplicado nesse item.^000000",
+        "es-ES": "[Conversor de Monedas]\n^3131FF{0}^000000\nequivale a {1}x Moneda del Explorador.\n^FF0000Perderás carta, encantamiento o refinamiento aplicado en este objeto.^000000"
     },
     "AiCyDA": {
-        "en": "Exchange",
-        "pt": "Trocar",
-        "es": "Intercambiar"
+        "en-US": "Exchange",
+        "pt-BR": "Trocar",
+        "es-ES": "Intercambiar"
     },
     "AyCyDA": {
-        "en": "Don't exchange",
-        "pt": "Não trocar",
-        "es": "No intercambiar"
+        "en-US": "Don't exchange",
+        "pt-BR": "Não trocar",
+        "es-ES": "No intercambiar"
     },
     "BCCyDA": {
-        "en": "[Coin Converter]\nThe item disappeared. What happened?",
-        "pt": "[Conversora de Moedas]\nO item desapareceu. O que houve?",
-        "es": "[Conversor de Monedas]\nEl objeto desapareció. ¿Qué sucedió?"
+        "en-US": "[Coin Converter]\nThe item disappeared. What happened?",
+        "pt-BR": "[Conversora de Moedas]\nO item desapareceu. O que houve?",
+        "es-ES": "[Conversor de Monedas]\nEl objeto desapareció. ¿Qué sucedió?"
     },
     "BSCyDA": {
-        "en": "[Coin Converter]\nExchange completed.",
-        "pt": "[Conversora de Moedas]\nTroca realizada.",
-        "es": "[Conversor de Monedas]\nIntercambio realizado."
+        "en-US": "[Coin Converter]\nExchange completed.",
+        "pt-BR": "[Conversora de Moedas]\nTroca realizada.",
+        "es-ES": "[Conversor de Monedas]\nIntercambio realizado."
     },
     "BiCyDA": {
-        "en": "[Coin Converter]\nOpening the exchange system.",
-        "pt": "[Conversora de Moedas]\nAbrindo o sistema de permuta.",
-        "es": "[Conversor de Monedas]\nAbriendo el sistema de intercambio."
+        "en-US": "[Coin Converter]\nOpening the exchange system.",
+        "pt-BR": "[Conversora de Moedas]\nAbrindo o sistema de permuta.",
+        "es-ES": "[Conversor de Monedas]\nAbriendo el sistema de intercambio."
     },
     "ByCyDA": {
-        "en": "Teleporter",
-        "pt": "Teleportador",
-        "es": "Teletransportador"
+        "en-US": "Teleporter",
+        "pt-BR": "Teleportador",
+        "es-ES": "Teletransportador"
     },
     "CCCyDA": {
-        "en": "[Teleporter]\nSelect your destination.\nTicket price: 20,000 zeny.",
-        "pt": "[Teleportador]\nSelecione seu destino.\nValor da passagem: 20.000 zeny.",
-        "es": "[Teletransportador]\nSelecciona tu destino.\nValor del pasaje: 20.000 zeny."
+        "en-US": "[Teleporter]\nSelect your destination.\nTicket price: 20,000 zeny.",
+        "pt-BR": "[Teleportador]\nSelecione seu destino.\nValor da passagem: 20.000 zeny.",
+        "es-ES": "[Teletransportador]\nSelecciona tu destino.\nValor del pasaje: 20.000 zeny."
     },
     "CSCyDA": {
-        "en": "Dimensional Space",
-        "pt": "Espaço Dimensional",
-        "es": "Espacio Dimensional"
+        "en-US": "Dimensional Space",
+        "pt-BR": "Espaço Dimensional",
+        "es-ES": "Espacio Dimensional"
     },
     "CiCyDA": {
-        "en": "Old Glastheim",
-        "pt": "Maldição de Glastheim",
-        "es": "Maldición de Glastheim"
+        "en-US": "Old Glastheim",
+        "pt-BR": "Maldição de Glastheim",
+        "es-ES": "Maldición de Glastheim"
     },
     "CyCyDA": {
-        "en": "Endless Tower",
-        "pt": "Torre sem Fim",
-        "es": "Torre sin Fin"
+        "en-US": "Endless Tower",
+        "pt-BR": "Torre sem Fim",
+        "es-ES": "Torre sin Fin"
     },
     "DCCyDA": {
-        "en": "Orc's Memory",
-        "pt": "Batalha dos Orcs",
-        "es": "Batalla de los Orcos"
+        "en-US": "Orc's Memory",
+        "pt-BR": "Batalha dos Orcs",
+        "es-ES": "Batalla de los Orcos"
     },
     "DSCyDA": {
-        "en": "Room of Consciousness",
-        "pt": "Salão de Ymir",
-        "es": "Salón de Ymir"
+        "en-US": "Room of Consciousness",
+        "pt-BR": "Salão de Ymir",
+        "es-ES": "Salón de Ymir"
     },
     "DiCyDA": {
-        "en": "Wolfchev's Laboratory",
-        "pt": "Laboratório de Wolfchev",
-        "es": "Laboratorio de Wolfchev"
+        "en-US": "Wolfchev's Laboratory",
+        "pt-BR": "Laboratório de Wolfchev",
+        "es-ES": "Laboratorio de Wolfchev"
     },
     "DyCyDA": {
-        "en": "Verus",
-        "pt": "Verus",
-        "es": "Verus"
+        "en-US": "Verus",
+        "pt-BR": "Verus",
+        "es-ES": "Verus"
     },
     "ECCyDA": {
-        "en": "Ash Vacuum",
-        "pt": "Ash Vacuum",
-        "es": "Ash Vacuum"
+        "en-US": "Ash Vacuum",
+        "pt-BR": "Ash Vacuum",
+        "es-ES": "Ash Vacuum"
     },
     "ESCyDA": {
-        "en": "Clana Nemieri",
-        "pt": "Clana Nemieri",
-        "es": "Clana Nemieri"
+        "en-US": "Clana Nemieri",
+        "pt-BR": "Clana Nemieri",
+        "es-ES": "Clana Nemieri"
     },
     "EiCyDA": {
-        "en": "Port Malaya",
-        "pt": "Porto Malaya",
-        "es": "Puerto Malaya"
+        "en-US": "Port Malaya",
+        "pt-BR": "Porto Malaya",
+        "es-ES": "Puerto Malaya"
     },
     "EyCyDA": {
-        "en": "Sealed Shrine",
-        "pt": "Altar do Selo",
-        "es": "Altar del Sello"
+        "en-US": "Sealed Shrine",
+        "pt-BR": "Altar do Selo",
+        "es-ES": "Altar del Sello"
     },
     "FCCyDA": {
-        "en": "Horror Toy Factory",
-        "pt": "Fábrica do Terror",
-        "es": "Fábrica del Terror"
+        "en-US": "Horror Toy Factory",
+        "pt-BR": "Fábrica do Terror",
+        "es-ES": "Fábrica del Terror"
     },
     "FSCyDA": {
-        "en": "EDDA Arunafeltz",
-        "pt": "Quarto Crescente",
-        "es": "Edda Arunafeltz"
+        "en-US": "EDDA Arunafeltz",
+        "pt-BR": "Quarto Crescente",
+        "es-ES": "Edda Arunafeltz"
     },
     "FiCyDA": {
-        "en": "Tower of Geffen",
-        "pt": "Túmulo do Monarca",
-        "es": "Tumba del Monarca"
+        "en-US": "Tower of Geffen",
+        "pt-BR": "Túmulo do Monarca",
+        "es-ES": "Tumba del Monarca"
     },
     "FyCyDA": {
-        "en": "Pharos Island",
-        "pt": "Espaço Infinito",
-        "es": "Espacio Infinito"
+        "en-US": "Pharos Island",
+        "pt-BR": "Espaço Infinito",
+        "es-ES": "Espacio Infinito"
     },
     "GCCyDA": {
-        "en": "[Teleporter]\n^FF0000Dimensional Space^000000\nSelect your destination.",
-        "pt": "[Teleportador]\n^FF0000Espaço Dimensional^000000\nSelecione seu destino.",
-        "es": "[Teletransportador]\n^FF0000Espacio Dimensional^000000\nSelecciona tu destino."
+        "en-US": "[Teleporter]\n^FF0000Dimensional Space^000000\nSelect your destination.",
+        "pt-BR": "[Teleportador]\n^FF0000Espaço Dimensional^000000\nSelecione seu destino.",
+        "es-ES": "[Teletransportador]\n^FF0000Espacio Dimensional^000000\nSelecciona tu destino."
     },
     "GSCyDA": {
-        "en": "Geffen Magic Tournament",
-        "pt": "Torneio de Magia",
-        "es": "Torneo de Magia"
+        "en-US": "Geffen Magic Tournament",
+        "pt-BR": "Torneio de Magia",
+        "es-ES": "Torneo de Magia"
     },
     "GiCyDA": {
-        "en": "Sarah's Memory",
-        "pt": "Memórias de Sarah",
-        "es": "Memorias de Sarah"
+        "en-US": "Sarah's Memory",
+        "pt-BR": "Memórias de Sarah",
+        "es-ES": "Memorias de Sarah"
     },
     "GyCyDA": {
-        "en": "Ghost Palace",
-        "pt": "Palácio das Mágoas",
-        "es": "Palacio de las Penas"
+        "en-US": "Ghost Palace",
+        "pt-BR": "Palácio das Mágoas",
+        "es-ES": "Palacio de las Penas"
     },
     "HCCyDA": {
-        "en": "Airplane Invasion",
-        "pt": "Invasão ao Aeroplano",
-        "es": "Invasión al Aeroplano"
+        "en-US": "Airplane Invasion",
+        "pt-BR": "Invasão ao Aeroplano",
+        "es-ES": "Invasión al Aeroplano"
     },
     "HSCyDA": {
-        "en": "Faceworm Nest",
-        "pt": "Covil de Vermes",
-        "es": "Guarida de Gusanos"
+        "en-US": "Faceworm Nest",
+        "pt-BR": "Covil de Vermes",
+        "es-ES": "Guarida de Gusanos"
     },
     "HiCyDA": {
-        "en": "Sarah vs Fenrir",
-        "pt": "Sarah vs Fenrir",
-        "es": "Sarah vs Fenrir"
+        "en-US": "Sarah vs Fenrir",
+        "pt-BR": "Sarah vs Fenrir",
+        "es-ES": "Sarah vs Fenrir"
     },
     "HyCyDA": {
-        "en": "Devil's Tower",
-        "pt": "Torre do Demônio",
-        "es": "Torre del Demonio"
+        "en-US": "Devil's Tower",
+        "pt-BR": "Torre do Demônio",
+        "es-ES": "Torre del Demonio"
     },
     "ICCyDA": {
-        "en": "Shadowed Dream",
-        "pt": "Sonho Sombrio",
-        "es": "Sueño Sombrío"
+        "en-US": "Shadowed Dream",
+        "pt-BR": "Sonho Sombrio",
+        "es-ES": "Sueño Sombrío"
     },
     "ISCyDA": {
-        "en": "[Teleporter]\nHave a good trip!",
-        "pt": "[Teleportador]\nTenha uma boa viagem!",
-        "es": "[Teletransportador]\n¡Ten un buen viaje!"
+        "en-US": "[Teleporter]\nHave a good trip!",
+        "pt-BR": "[Teleportador]\nTenha uma boa viagem!",
+        "es-ES": "[Teletransportador]\n¡Ten un buen viaje!"
     },
     "IiCyDA": {
-        "en": "[Teleporter]\nYou don't have 20,000 zeny.",
-        "pt": "[Teleportador]\nVocê não tem 20.000 zeny.",
-        "es": "[Teletransportador]\nNo tienes 20.000 zeny."
+        "en-US": "[Teleporter]\nYou don't have 20,000 zeny.",
+        "pt-BR": "[Teleportador]\nVocê não tem 20.000 zeny.",
+        "es-ES": "[Teletransportador]\nNo tienes 20.000 zeny."
     },
     "IyCyDA": {
-        "en": "[Teleporter]\n^FF0000Verus^000000\nSelect your destination.",
-        "pt": "[Teleportador]\n^FF0000Verus^000000\nSelecione seu destino.",
-        "es": "[Teletransportador]\n^FF0000Verus^000000\nSelecciona tu destino."
+        "en-US": "[Teleporter]\n^FF0000Verus^000000\nSelect your destination.",
+        "pt-BR": "[Teleportador]\n^FF0000Verus^000000\nSelecione seu destino.",
+        "es-ES": "[Teletransportador]\n^FF0000Verus^000000\nSelecciona tu destino."
     },
     "JCCyDA": {
-        "en": "King's Heel",
-        "pt": "Aos Pés do Rei",
-        "es": "A los Pies del Rey"
+        "en-US": "King's Heel",
+        "pt-BR": "Aos Pés do Rei",
+        "es-ES": "A los Pies del Rey"
     },
     "JSCyDA": {
-        "en": "Central Laboratory",
-        "pt": "Laboratório Central",
-        "es": "Laboratorio Central"
+        "en-US": "Central Laboratory",
+        "pt-BR": "Laboratório Central",
+        "es-ES": "Laboratorio Central"
     },
     "JiCyDA": {
-        "en": "Last Room",
-        "pt": "Sala Final",
-        "es": "Sala Final"
+        "en-US": "Last Room",
+        "pt-BR": "Sala Final",
+        "es-ES": "Sala Final"
     },
     "JyCyDA": {
-        "en": "[Teleporter]\nSince you completed the access quest, the teleport will be free! Have a good trip.",
-        "pt": "[Teleportador]\nComo você completou a missão de acesso, o teleporte vai ser gratuito! Tenha uma boa viagem.",
-        "es": "[Teletransportador]\n¡Como completaste la misión de acceso, el teletransporte será gratuito! Ten un buen viaje."
+        "en-US": "[Teleporter]\nSince you completed the access quest, the teleport will be free! Have a good trip.",
+        "pt-BR": "[Teleportador]\nComo você completou a missão de acesso, o teleporte vai ser gratuito! Tenha uma boa viagem.",
+        "es-ES": "[Teletransportador]\n¡Como completaste la misión de acceso, el teletransporte será gratuito! Ten un buen viaje."
     },
     "KCCyDA": {
-        "en": "[Teleporter]\n^FF0000Ash Vacuum^000000\nSelect your destination.",
-        "pt": "[Teleportador]\n^FF0000Ash Vacuum^000000\nSelecione seu destino.",
-        "es": "[Teletransportador]\n^FF0000Ash Vacuum^000000\nSelecciona tu destino."
+        "en-US": "[Teleporter]\n^FF0000Ash Vacuum^000000\nSelect your destination.",
+        "pt-BR": "[Teleportador]\n^FF0000Ash Vacuum^000000\nSelecione seu destino.",
+        "es-ES": "[Teletransportador]\n^FF0000Ash Vacuum^000000\nSelecciona tu destino."
     },
     "KSCyDA": {
-        "en": "Nidhoggur's Nest",
-        "pt": "Ninho de Nidhogg",
-        "es": "Nido de Nidhogg"
+        "en-US": "Nidhoggur's Nest",
+        "pt-BR": "Ninho de Nidhogg",
+        "es-ES": "Nido de Nidhogg"
     },
     "KiCyDA": {
-        "en": "Fire Cave",
-        "pt": "Caverna de Fogo",
-        "es": "Caverna de Fuego"
+        "en-US": "Fire Cave",
+        "pt-BR": "Caverna de Fogo",
+        "es-ES": "Caverna de Fuego"
     },
     "KyCyDA": {
-        "en": "[Teleporter]\n^FF0000Clana Nemieri^000000\nSelect your destination.",
-        "pt": "[Teleportador]\n^FF0000Clana Nemieri^000000\nSelecione seu destino.",
-        "es": "[Teletransportador]\n^FF0000Clana Nemieri^000000\nSelecciona tu destino."
+        "en-US": "[Teleporter]\n^FF0000Clana Nemieri^000000\nSelect your destination.",
+        "pt-BR": "[Teleportador]\n^FF0000Clana Nemieri^000000\nSelecione seu destino.",
+        "es-ES": "[Teletransportador]\n^FF0000Clana Nemieri^000000\nSelecciona tu destino."
     },
     "LCCyDA": {
-        "en": "Heart Hunter War Base",
-        "pt": "Base Militar",
-        "es": "Base Militar"
+        "en-US": "Heart Hunter War Base",
+        "pt-BR": "Base Militar",
+        "es-ES": "Base Militar"
     },
     "LSCyDA": {
-        "en": "COR District",
-        "pt": "Distrito COR",
-        "es": "Distrito COR"
+        "en-US": "COR District",
+        "pt-BR": "Distrito COR",
+        "es-ES": "Distrito COR"
     },
     "LiCyDA": {
-        "en": "[Teleporter]\n^FF0000Port Malaya^000000\nSelect your destination.",
-        "pt": "[Teleportador]\n^FF0000Porto Malaya^000000\nSelecione seu destino.",
-        "es": "[Teletransportador]\n^FF0000Puerto Malaya^000000\nSelecciona tu destino."
+        "en-US": "[Teleporter]\n^FF0000Port Malaya^000000\nSelect your destination.",
+        "pt-BR": "[Teleportador]\n^FF0000Porto Malaya^000000\nSelecione seu destino.",
+        "es-ES": "[Teletransportador]\n^FF0000Puerto Malaya^000000\nSelecciona tu destino."
     },
     "LyCyDA": {
-        "en": "Abandoned Hospital",
-        "pt": "Hospital Abandonado",
-        "es": "Hospital Abandonado"
+        "en-US": "Abandoned Hospital",
+        "pt-BR": "Hospital Abandonado",
+        "es-ES": "Hospital Abandonado"
     },
     "MCCyDA": {
-        "en": "Buwaya Cave",
-        "pt": "Caverna de Buwaya",
-        "es": "Caverna de Buwaya"
+        "en-US": "Buwaya Cave",
+        "pt-BR": "Caverna de Buwaya",
+        "es-ES": "Caverna de Buwaya"
     },
     "MSCyDA": {
-        "en": "Bakonawa Lake",
-        "pt": "Lago de Bakonawa",
-        "es": "Lago Bakonawa"
+        "en-US": "Bakonawa Lake",
+        "pt-BR": "Lago de Bakonawa",
+        "es-ES": "Lago Bakonawa"
     },
     "MiCyDA": {
-        "en": "[Teleporter]\nUnfortunately, you have not completed the quest to access this map.\nYour teleport has been denied.",
-        "pt": "[Teleportador]\nInfelizmente, você não completou a missão para acessar esse mapa.\nSeu teleporte foi negado.",
-        "es": "[Teletransportador]\nInfortunadamente, no has completado la misión para acceder a este mapa.\nTu teletransporte ha sido denegado."
+        "en-US": "[Teleporter]\nUnfortunately, you have not completed the quest to access this map.\nYour teleport has been denied.",
+        "pt-BR": "[Teleportador]\nInfelizmente, você não completou a missão para acessar esse mapa.\nSeu teleporte foi negado.",
+        "es-ES": "[Teletransportador]\nInfortunadamente, no has completado la misión para acceder a este mapa.\nTu teletransporte ha sido denegado."
     },
     "MyCyDA": {
-        "en": "Order Official",
-        "pt": "Oficial da Ordem",
-        "es": "Oficial de la Orden"
+        "en-US": "Order Official",
+        "pt-BR": "Oficial da Ordem",
+        "es-ES": "Oficial de la Orden"
     },
     "NCCyDA": {
-        "en": "[Suspicious Woman]",
-        "pt": "[Mulher Suspeita]",
-        "es": "[Mujer Sospechosa]"
+        "en-US": "[Suspicious Woman]",
+        "pt-BR": "[Mulher Suspeita]",
+        "es-ES": "[Mujer Sospechosa]"
     },
     "NSCyDA": {
-        "en": "Hello, {0}.\nI am an Agent of the Explorer's League, a group that encourages you to explore instances.\nWhat do you desire?",
-        "pt": "Oi, {0}.\nSou uma Agente da Liga dos Desbravadores, grupo que te incentiva a explorar instâncias.\nO que você deseja?",
-        "es": "Hola, {0}.\nSoy una Agente de la Liga de Exploradores, grupo que te anima a explorar mazmorras.\n¿Qué deseas?"
+        "en-US": "Hello, {0}.\nI am an Agent of the Explorer's League, a group that encourages you to explore instances.\nWhat do you desire?",
+        "pt-BR": "Oi, {0}.\nSou uma Agente da Liga dos Desbravadores, grupo que te incentiva a explorar instâncias.\nO que você deseja?",
+        "es-ES": "Hola, {0}.\nSoy una Agente de la Liga de Exploradores, grupo que te anima a explorar mazmorras.\n¿Qué deseas?"
     },
     "NiCyDA": {
-        "en": "Explorer's League?",
-        "pt": "Liga dos Desbravadores?",
-        "es": "¿Liga de Exploradores?"
+        "en-US": "Explorer's League?",
+        "pt-BR": "Liga dos Desbravadores?",
+        "es-ES": "¿Liga de Exploradores?"
     },
     "NyCyDA": {
-        "en": "The ^FF0000Explorer's League^000000 is located in Alberta and grants Explorer's Coins every time you complete an instance quest.\nIf you wish, I can teleport you to our headquarters.",
-        "pt": "A ^FF0000Liga dos Desbravadores^000000 está localizada em Alberta e garante Moedas dos Desbravadores toda vez que você completa uma missão de instância.\nSe você quiser, posso teleportar você para a nossa sede.",
-        "es": "La ^FF0000Liga de Exploradores^000000 está ubicada en Alberta y garantiza Monedas del Explorador cada vez que completas una misión de mazmorra.\nSi quieres, puedo teletransportarte a nuestra sede."
+        "en-US": "The ^FF0000Explorer's League^000000 is located in Alberta and grants Explorer's Coins every time you complete an instance quest.\nIf you wish, I can teleport you to our headquarters.",
+        "pt-BR": "A ^FF0000Liga dos Desbravadores^000000 está localizada em Alberta e garante Moedas dos Desbravadores toda vez que você completa uma missão de instância.\nSe você quiser, posso teleportar você para a nossa sede.",
+        "es-ES": "La ^FF0000Liga de Exploradores^000000 está ubicada en Alberta y garantiza Monedas del Explorador cada vez que completas una misión de mazmorra.\nSi quieres, puedo teletransportarte a nuestra sede."
     },
     "OCCyDA": {
-        "en": "I'll stay here",
-        "pt": "Vou ficar aqui",
-        "es": "Me quedaré aquí"
+        "en-US": "I'll stay here",
+        "pt-BR": "Vou ficar aqui",
+        "es-ES": "Me quedaré aquí"
     },
     "OSCyDA": {
-        "en": "^FF0000Teleport^000000",
-        "pt": "^FF0000Teleportar^000000",
-        "es": "^FF0000Teletransportar^000000"
+        "en-US": "^FF0000Teleport^000000",
+        "pt-BR": "^FF0000Teleportar^000000",
+        "es-ES": "^FF0000Teletransportar^000000"
     },
     "OiCyDA": {
-        "en": "No problem, see you later.",
-        "pt": "Sem problemas, até logo.",
-        "es": "Sin problemas, hasta luego."
+        "en-US": "No problem, see you later.",
+        "pt-BR": "Sem problemas, até logo.",
+        "es-ES": "Sin problemas, hasta luego."
     },
     "OyCyDA": {
-        "en": "Don't forget to take a quest from the signboards.",
-        "pt": "Não se esque a de pegar uma missão nas plaquinhas.",
-        "es": "No te olvides de tomar una misión en los letreros."
+        "en-US": "Don't forget to take a quest from the signboards.",
+        "pt-BR": "Não se esque a de pegar uma missão nas plaquinhas.",
+        "es-ES": "No te olvides de tomar una misión en los letreros."
     },
     "PCCyDA": {
-        "en": "I exchange your <ITEM>[Explorer's Coins]<INFO>1002750</INFO></ITEM> for Equipment and Consumables.\nWhat do you say?",
-        "pt": "Eu troco suas <ITEM>[Moedas dos Desbravadores]<INFO>1002750</INFO></ITEM> por Equipamentos e Consumíveis.\nO que me diz?",
-        "es": "Intercambio tus <ITEM>[Monedas de los Exploradores]<INFO>1002750</INFO></ITEM> por Equipo y Consumibles.\n¿Qué te parece?"
+        "en-US": "I exchange your <ITEM>[Explorer's Coins]<INFO>1002750</INFO></ITEM> for Equipment and Consumables.\nWhat do you say?",
+        "pt-BR": "Eu troco suas <ITEM>[Moedas dos Desbravadores]<INFO>1002750</INFO></ITEM> por Equipamentos e Consumíveis.\nO que me diz?",
+        "es-ES": "Intercambio tus <ITEM>[Monedas de los Exploradores]<INFO>1002750</INFO></ITEM> por Equipo y Consumibles.\n¿Qué te parece?"
     },
     "PSCyDA": {
-        "en": "{0}{1}",
-        "pt": "{0}{1}",
-        "es": "{0}{1}"
+        "en-US": "{0}{1}",
+        "pt-BR": "{0}{1}",
+        "es-ES": "{0}{1}"
     },
     "PiCyDA": {
-        "en": "{0}{1}",
-        "pt": "{0}{1}",
-        "es": "{0}{1}"
+        "en-US": "{0}{1}",
+        "pt-BR": "{0}{1}",
+        "es-ES": "{0}{1}"
     },
     "PyCyDA": {
-        "en": "{0}{1}",
-        "pt": "{0}{1}",
-        "es": "{0}{1}"
+        "en-US": "{0}{1}",
+        "pt-BR": "{0}{1}",
+        "es-ES": "{0}{1}"
     },
     "QCCyDA": {
-        "en": "{0}{1}",
-        "pt": "{0}{1}",
-        "es": "{0}{1}"
+        "en-US": "{0}{1}",
+        "pt-BR": "{0}{1}",
+        "es-ES": "{0}{1}"
     },
     "QSCyDA": {
-        "en": "{0}{1}",
-        "pt": "{0}{1}",
-        "es": "{0}{1}"
+        "en-US": "{0}{1}",
+        "pt-BR": "{0}{1}",
+        "es-ES": "{0}{1}"
     },
     "QiCyDA": {
-        "en": "{0}{1}",
-        "pt": "{0}{1}",
-        "es": "{0}{1}"
+        "en-US": "{0}{1}",
+        "pt-BR": "{0}{1}",
+        "es-ES": "{0}{1}"
     },
     "QyCyDA": {
-        "en": "{0}{1}",
-        "pt": "{0}{1}",
-        "es": "{0}{1}"
+        "en-US": "{0}{1}",
+        "pt-BR": "{0}{1}",
+        "es-ES": "{0}{1}"
     },
     "RCCyDA": {
-        "en": "{0}{1}",
-        "pt": "{0}{1}",
-        "es": "{0}{1}"
+        "en-US": "{0}{1}",
+        "pt-BR": "{0}{1}",
+        "es-ES": "{0}{1}"
     },
     "RSCyDA": {
-        "en": "{0}{1}",
-        "pt": "{0}{1}",
-        "es": "{0}{1}"
+        "en-US": "{0}{1}",
+        "pt-BR": "{0}{1}",
+        "es-ES": "{0}{1}"
     },
     "RiCyDA": {
-        "en": "{0}{1}",
-        "pt": "{0}{1}",
-        "es": "{0}{1}"
+        "en-US": "{0}{1}",
+        "pt-BR": "{0}{1}",
+        "es-ES": "{0}{1}"
     },
     "RyCyDA": {
-        "en": "^0000FF",
-        "pt": "^0000FF",
-        "es": "^0000FF"
+        "en-US": "^0000FF",
+        "pt-BR": "^0000FF",
+        "es-ES": "^0000FF"
     },
     "SCCyDA": {
-        "en": "^888888",
-        "pt": "^888888",
-        "es": "^888888"
+        "en-US": "^888888",
+        "pt-BR": "^888888",
+        "es-ES": "^888888"
     }
 }

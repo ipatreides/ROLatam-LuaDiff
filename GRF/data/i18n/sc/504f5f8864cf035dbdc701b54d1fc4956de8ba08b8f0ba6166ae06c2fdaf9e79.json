@@ -1,142 +1,142 @@
 {
     "4Dh1CA": {
-        "en": "2",
-        "pt": "2",
-        "es": "2"
+        "en-US": "2",
+        "pt-BR": "2",
+        "es-ES": "2"
     },
     "4Th1CA": {
-        "en": "Please try again after installing a special item.",
-        "pt": "Tente novamente depois de instalar um item especial.",
-        "es": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
+        "en-US": "Please try again after installing a special item.",
+        "pt-BR": "Tente novamente depois de instalar um item especial.",
+        "es-ES": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
     },
     "4jh1CA": {
-        "en": "[Time controller]\nWhat time zone do you want to return?",
-        "pt": "[Time Manager]\nEscolha a etapa da instância.",
-        "es": "[Controlador de tiempo]\n¿A qué zona horaria quieres regresar?"
+        "en-US": "[Time controller]\nWhat time zone do you want to return?",
+        "pt-BR": "[Time Manager]\nEscolha a etapa da instância.",
+        "es-ES": "[Controlador de tiempo]\n¿A qué zona horaria quieres regresar?"
     },
     "4zh1CA": {
-        "en": "change to difficulty level",
-        "pt": "Ajustar dificuldade",
-        "es": "Cambiar a nivel de dificultad."
+        "en-US": "change to difficulty level",
+        "pt-BR": "Ajustar dificuldade",
+        "es-ES": "Cambiar a nivel de dificultad."
     },
     "5Dh1CA": {
-        "en": "1section start",
-        "pt": "1ª area",
-        "es": "Iniciar sección 1."
+        "en-US": "1section start",
+        "pt-BR": "1ª area",
+        "es-ES": "Iniciar sección 1."
     },
     "5Th1CA": {
-        "en": "2section start",
-        "pt": "2ª area",
-        "es": "Iniciar sección 2."
+        "en-US": "2section start",
+        "pt-BR": "2ª area",
+        "es-ES": "Iniciar sección 2."
     },
     "5jh1CA": {
-        "en": "3section start",
-        "pt": "3ª area",
-        "es": "Iniciar sección 3."
+        "en-US": "3section start",
+        "pt-BR": "3ª area",
+        "es-ES": "Iniciar sección 3."
     },
     "5zh1CA": {
-        "en": "4section start",
-        "pt": "4ª area",
-        "es": "Iniciar sección 4."
+        "en-US": "4section start",
+        "pt-BR": "4ª area",
+        "es-ES": "Iniciar sección 4."
     },
     "6Dh1CA": {
-        "en": "Boss Start",
-        "pt": "Start Boss",
-        "es": "Iniciar jefe."
+        "en-US": "Boss Start",
+        "pt-BR": "Start Boss",
+        "es-ES": "Iniciar jefe."
     },
     "6Th1CA": {
-        "en": "Treasure box",
-        "pt": "Baú do Mercador",
-        "es": "Caja del tesoro."
+        "en-US": "Treasure box",
+        "pt-BR": "Baú do Mercador",
+        "es-ES": "Caja del tesoro."
     },
     "6jh1CA": {
-        "en": "Turn all treasure boxes on",
-        "pt": "Ativar todos os Baús",
-        "es": "Activar todas las cajas del tesoro."
+        "en-US": "Turn all treasure boxes on",
+        "pt-BR": "Ativar todos os Baús",
+        "es-ES": "Activar todas las cajas del tesoro."
     },
     "6zh1CA": {
-        "en": "normal",
-        "pt": "Normal",
-        "es": "Normal."
+        "en-US": "normal",
+        "pt-BR": "Normal",
+        "es-ES": "Normal."
     },
     "7Dh1CA": {
-        "en": "hard",
-        "pt": "Difícil",
-        "es": "Difícil."
+        "en-US": "hard",
+        "pt-BR": "Difícil",
+        "es-ES": "Difícil."
     },
     "7Th1CA": {
-        "en": "Next round or boss changed to normal difficulty level",
-        "pt": "change to normal difficulty from next round or boss",
-        "es": "La siguiente ronda o jefe cambió a nivel de dificultad normal."
+        "en-US": "Next round or boss changed to normal difficulty level",
+        "pt-BR": "change to normal difficulty from next round or boss",
+        "es-ES": "La siguiente ronda o jefe cambió a nivel de dificultad normal."
     },
     "7jh1CA": {
-        "en": "Next round or boss changed to hard difficulty level",
-        "pt": "change to hard difficulty from next round or boss",
-        "es": "La siguiente ronda o jefe cambió a nivel de dificultad difícil."
+        "en-US": "Next round or boss changed to hard difficulty level",
+        "pt-BR": "change to hard difficulty from next round or boss",
+        "es-ES": "La siguiente ronda o jefe cambió a nivel de dificultad difícil."
     },
     "7zh1CA": {
-        "en": "Faceworm time attack has started.",
-        "pt": "Os Vermes com Rosto acordaram.",
-        "es": "Comenzó el ataque contrarreloj de Lombrirrostros."
+        "en-US": "Faceworm time attack has started.",
+        "pt-BR": "Os Vermes com Rosto acordaram.",
+        "es-ES": "Comenzó el ataque contrarreloj de Lombrirrostros."
     },
     "8Dh1CA": {
-        "en": "Now I see a hole of big thing that came out after I got rid of it. This hole is big enough to go through to other areas.",
-        "pt": "Após matá-lo, apareceu um buraco grande o bastante para acessar a próxima área.",
-        "es": "Ahora veo el agujero de la cosa enorme que salió después de deshacerme de ella. Este agujero es lo suficientemente grande para pasar a otras zonas."
+        "en-US": "Now I see a hole of big thing that came out after I got rid of it. This hole is big enough to go through to other areas.",
+        "pt-BR": "Após matá-lo, apareceu um buraco grande o bastante para acessar a próxima área.",
+        "es-ES": "Ahora veo el agujero de la cosa enorme que salió después de deshacerme de ella. Este agujero es lo suficientemente grande para pasar a otras zonas."
     },
     "8Th1CA": {
-        "en": "I hear something loud from south. It looks like a nest of the thing that we just killed.",
-        "pt": "Ouvi um barulho ao sul.",
-        "es": "Escucho algo fuerte que viene del sur. Parece el nido de la cosa que acabamos de matar."
+        "en-US": "I hear something loud from south. It looks like a nest of the thing that we just killed.",
+        "pt-BR": "Ouvi um barulho ao sul.",
+        "es-ES": "Escucho algo fuerte que viene del sur. Parece el nido de la cosa que acabamos de matar."
     },
     "8jh1CA": {
-        "en": "I hear a pile of stones are rolling down from south. It might be a passgae to lead somewhere.",
-        "pt": "Uma pilha de pedras desmoronou ao sul. Pode ter aberto uma passagem.",
-        "es": "Escucho que una pila de piedras se derrumba desde el sur. Quizá sea un camino que conduce a algún lado."
+        "en-US": "I hear a pile of stones are rolling down from south. It might be a passgae to lead somewhere.",
+        "pt-BR": "Uma pilha de pedras desmoronou ao sul. Pode ter aberto uma passagem.",
+        "es-ES": "Escucho que una pila de piedras se derrumba desde el sur. Quizá sea un camino que conduce a algún lado."
     },
     "8zh1CA": {
-        "en": "I hear a pile of stones are rolling down. It seems that another passage is found.",
-        "pt": "Uma pilha de pedras está desmoronando. Parece que abriu outra passagem.",
-        "es": "Escucho un montón de piedras rodando cuesta abajo. Parece que hay otro camino."
+        "en-US": "I hear a pile of stones are rolling down. It seems that another passage is found.",
+        "pt-BR": "Uma pilha de pedras está desmoronando. Parece que abriu outra passagem.",
+        "es-ES": "Escucho un montón de piedras rodando cuesta abajo. Parece que hay otro camino."
     },
     "9Dh1CA": {
-        "en": "{0}numbers of",
-        "pt": "Dificuldade - {0} jogadores",
-        "es": "{0}cantidad de"
+        "en-US": "{0}numbers of",
+        "pt-BR": "Dificuldade - {0} jogadores",
+        "es-ES": "{0}cantidad de"
     },
     "9Th1CA": {
-        "en": "[Boss manage]\nWhat time zone do you want to return?",
-        "pt": "[Boss Control]\nEscolha a etapa da instância.",
-        "es": "[Jefe de administración]\n¿A qué zona horaria quieres regresar?"
+        "en-US": "[Boss manage]\nWhat time zone do you want to return?",
+        "pt-BR": "[Boss Control]\nEscolha a etapa da instância.",
+        "es-ES": "[Jefe de administración]\n¿A qué zona horaria quieres regresar?"
     },
     "9jh1CA": {
-        "en": "Stop",
-        "pt": "Cancelar",
-        "es": "Detener."
+        "en-US": "Stop",
+        "pt-BR": "Cancelar",
+        "es-ES": "Detener."
     },
     "9zh1CA": {
-        "en": "1Boss",
-        "pt": "1º Boss",
-        "es": "Jefe1."
+        "en-US": "1Boss",
+        "pt-BR": "1º Boss",
+        "es-ES": "Jefe1."
     },
     "+Dh1CA": {
-        "en": "2Boss",
-        "pt": "2º Boss",
-        "es": "Jefe2."
+        "en-US": "2Boss",
+        "pt-BR": "2º Boss",
+        "es-ES": "Jefe2."
     },
     "+Th1CA": {
-        "en": "3Boss",
-        "pt": "3º Boss",
-        "es": "Jefe3."
+        "en-US": "3Boss",
+        "pt-BR": "3º Boss",
+        "es-ES": "Jefe3."
     },
     "+jh1CA": {
-        "en": "4Boss",
-        "pt": "4º Boss",
-        "es": "Jefe4."
+        "en-US": "4Boss",
+        "pt-BR": "4º Boss",
+        "es-ES": "Jefe4."
     },
     "+zh1CA": {
-        "en": "Final Boss",
-        "pt": "Final Boss",
-        "es": "Jefe final."
+        "en-US": "Final Boss",
+        "pt-BR": "Final Boss",
+        "es-ES": "Jefe final."
     }
 }

@@ -1,32 +1,32 @@
 {
     "oPAZ": {
-        "en": "Mysterious Sunflower",
-        "pt": "Girassol Misterioso",
-        "es": "Girasol misterioso"
+        "en-US": "Mysterious Sunflower",
+        "pt-BR": "Girassol Misterioso",
+        "es-ES": "Girasol misterioso"
     },
     "ofAZ": {
-        "en": "-It's an amazingly huge sunflower; as big as a human! ... You feel something mysterious emanating from the flower.-",
-        "pt": "- É um girassol enorme, do tamanho de um homem. Uma sensação misteriosa vem da flor. -",
-        "es": "-Es un girasol asombrosamente enorme; ¡tan grande como un ser humano! ... Sientes que algo misterioso emana de la flor."
+        "en-US": "-It's an amazingly huge sunflower; as big as a human! ... You feel something mysterious emanating from the flower.-",
+        "pt-BR": "- É um girassol enorme, do tamanho de um homem. Uma sensação misteriosa vem da flor. -",
+        "es-ES": "-Es un girasol asombrosamente enorme; ¡tan grande como un ser humano! ... Sientes que algo misterioso emana de la flor."
     },
     "ovAZ": {
-        "en": "Hold the stem.",
-        "pt": "Segurar o caule.",
-        "es": "Sujeta el tallo."
+        "en-US": "Hold the stem.",
+        "pt-BR": "Segurar o caule.",
+        "es-ES": "Sujeta el tallo."
     },
     "o/AZ": {
-        "en": "Do nothing.",
-        "pt": "Não fazer nada.",
-        "es": "No hacer nada."
+        "en-US": "Do nothing.",
+        "pt-BR": "Não fazer nada.",
+        "es-ES": "No hacer nada."
     },
     "pPAZ": {
-        "en": "It's too scary to touch unknown things.",
-        "pt": "É muito assustador tocar em coisas desconhecidas.",
-        "es": "Da demasiado miedo tocar cosas desconocidas."
+        "en-US": "It's too scary to touch unknown things.",
+        "pt-BR": "É muito assustador tocar em coisas desconhecidas.",
+        "es-ES": "Da demasiado miedo tocar cosas desconocidas."
     },
     "pfAZ": {
-        "en": "It's an amazingly huge sunflower, as big as the size of a human.\nFeeling something mysterious from the flower.",
-        "pt": "É um girassol enorme, do tamanho de um homem.\nUma sensação misteriosa vem da flor.",
-        "es": "Es un girasol asombrosamente enorme, del tamaño de un ser humano.\nSintiendo algo misterioso de la flor."
+        "en-US": "It's an amazingly huge sunflower, as big as the size of a human.\nFeeling something mysterious from the flower.",
+        "pt-BR": "É um girassol enorme, do tamanho de um homem.\nUma sensação misteriosa vem da flor.",
+        "es-ES": "Es un girasol asombrosamente enorme, del tamaño de un ser humano.\nSintiendo algo misterioso de la flor."
     }
 }

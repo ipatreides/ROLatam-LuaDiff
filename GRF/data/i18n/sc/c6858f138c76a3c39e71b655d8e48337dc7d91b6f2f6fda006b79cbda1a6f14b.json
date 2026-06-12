@@ -1,37 +1,37 @@
 {
     "4HHUAQ": {
-        "en": "Arrow Merchant",
-        "pt": "Vendedor de Flecha",
-        "es": "Comerciante de Flechas"
+        "en-US": "Arrow Merchant",
+        "pt-BR": "Vendedor de Flecha",
+        "es-ES": "Comerciante de Flechas"
     },
     "4XHUAQ": {
-        "en": "[Arrow Merchant]\nHello. Would you like to purchase arrows or exchange quivers?",
-        "pt": "[Vendedor de Flecha]\nOlá. Você gostaria de comprar flechas ou criar aljavas?",
-        "es": "[Comerciante de Flechas]\nHola. ¿Quieres comprar flechas o intercambiar carcajes?"
+        "en-US": "[Arrow Merchant]\nHello. Would you like to purchase arrows or exchange quivers?",
+        "pt-BR": "[Vendedor de Flecha]\nOlá. Você gostaria de comprar flechas ou criar aljavas?",
+        "es-ES": "[Comerciante de Flechas]\nHola. ¿Quieres comprar flechas o intercambiar carcajes?"
     },
     "4nHUAQ": {
-        "en": "Buy Arrows",
-        "pt": "Comprar Flechas",
-        "es": "Comprar flechas."
+        "en-US": "Buy Arrows",
+        "pt-BR": "Comprar Flechas",
+        "es-ES": "Comprar flechas."
     },
     "43HUAQ": {
-        "en": "Exchange Quivers",
-        "pt": "Criar Aljavas",
-        "es": "Intercambiar carcajes."
+        "en-US": "Exchange Quivers",
+        "pt-BR": "Criar Aljavas",
+        "es-ES": "Intercambiar carcajes."
     },
     "5HHUAQ": {
-        "en": "Sell items",
-        "pt": "Vender meus itens",
-        "es": "Vender objetos."
+        "en-US": "Sell items",
+        "pt-BR": "Vender meus itens",
+        "es-ES": "Vender objetos."
     },
     "5XHUAQ": {
-        "en": "Cancel",
-        "pt": "Cancelar",
-        "es": "Cancelar."
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar."
     },
     "5nHUAQ": {
-        "en": "[Arrow Merchant]\nFeel free to look around.",
-        "pt": "[Vendedor de Flecha]\nSinta-se à vontade para dar uma olhada.",
-        "es": "[Comerciante de Flechas]\nNo dudes en mirar lo que quieras."
+        "en-US": "[Arrow Merchant]\nFeel free to look around.",
+        "pt-BR": "[Vendedor de Flecha]\nSinta-se à vontade para dar uma olhada.",
+        "es-ES": "[Comerciante de Flechas]\nNo dudes en mirar lo que quieras."
     }
 }

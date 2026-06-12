@@ -1,692 +1,692 @@
 {
     "AL/FBw": {
-        "ko": "[시간의 관리자]\nEP17_1_EVT04 PPL 추가",
-        "en": "[Time Manager]\nEP17_1_EVT04 PPL added",
-        "pt": "[Gerente do Tempo]\nAdicionar PPL EP17_1_EVT04",
-        "es": "[Administrador del Tiempo]\nAgregar PPL EP17_1_EVT04"
+        "ko-KR": "[시간의 관리자]\nEP17_1_EVT04 PPL 추가",
+        "en-US": "[Time Manager]\nEP17_1_EVT04 PPL added",
+        "pt-BR": "[Gerente do Tempo]\nAdicionar PPL EP17_1_EVT04",
+        "es-ES": "[Administrador del Tiempo]\nAgregar PPL EP17_1_EVT04"
     },
     "Ab/FBw": {
-        "ko": "취소",
-        "en": "Cancel",
-        "pt": "Cancelar",
-        "es": "Cancelar"
+        "ko-KR": "취소",
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
     },
     "Ar/FBw": {
-        "ko": "점령지 초기화",
-        "en": "Stronghold reset",
-        "pt": "Redefinir área ocupada",
-        "es": "Reiniciar área ocupada"
+        "ko-KR": "점령지 초기화",
+        "en-US": "Stronghold reset",
+        "pt-BR": "Redefinir área ocupada",
+        "es-ES": "Reiniciar área ocupada"
     },
     "A7/FBw": {
-        "ko": "보스시작",
-        "en": "Boss Start",
-        "pt": "Iniciar chefão",
-        "es": "Iniciar jefe"
+        "ko-KR": "보스시작",
+        "en-US": "Boss Start",
+        "pt-BR": "Iniciar chefão",
+        "es-ES": "Iniciar jefe"
     },
     "BL/FBw": {
-        "ko": "#swat{0}",
-        "en": "#swat{0}",
-        "pt": "#swat{0}",
-        "es": "#swat{0}"
+        "ko-KR": "#swat{0}",
+        "en-US": "#swat{0}",
+        "pt-BR": "#swat{0}",
+        "es-ES": "#swat{0}"
     },
     "Bb/FBw": {
-        "ko": "## 송신 메세지 입력 ##",
-        "en": "## Enter transmission message ##",
-        "pt": "## Envie uma mensagem ##",
-        "es": "## Enviar mensaje ##"
+        "ko-KR": "## 송신 메세지 입력 ##",
+        "en-US": "## Enter transmission message ##",
+        "pt-BR": "## Envie uma mensagem ##",
+        "es-ES": "## Enviar mensaje ##"
     },
     "Br/FBw": {
-        "ko": "북상한 뮤턴트와 교전발생",
-        "en": "Engaged in combat with the northbound Mutant.",
-        "pt": "Mutantes seguindo ao norte!",
-        "es": "¡Mutantes avanzando hacia el norte!"
+        "ko-KR": "북상한 뮤턴트와 교전발생",
+        "en-US": "Engaged in combat with the northbound Mutant.",
+        "pt-BR": "Mutantes seguindo ao norte!",
+        "es-ES": "¡Mutantes avanzando hacia el norte!"
     },
     "B7/FBw": {
-        "ko": "소규모 뮤턴트와 교전중",
-        "en": "Engaging with small-scale mutants.",
-        "pt": "Vamos enfrentar uns Mutantes",
-        "es": "Vamos a enfrentarnos a unos Mutantes"
+        "ko-KR": "소규모 뮤턴트와 교전중",
+        "en-US": "Engaging with small-scale mutants.",
+        "pt-BR": "Vamos enfrentar uns Mutantes",
+        "es-ES": "Vamos a enfrentarnos a unos Mutantes"
     },
     "CL/FBw": {
-        "ko": "아~! 집에 가고싶다!",
-        "en": "Ah~! I want to go home!",
-        "pt": "Ah~! Eu quero embora!",
-        "es": "¡Ah~! ¡Quiero ir a casa!"
+        "ko-KR": "아~! 집에 가고싶다!",
+        "en-US": "Ah~! I want to go home!",
+        "pt-BR": "Ah~! Eu quero embora!",
+        "es-ES": "¡Ah~! ¡Quiero ir a casa!"
     },
     "Cb/FBw": {
-        "ko": "{0}: {1}",
-        "en": "{0}: {1}",
-        "pt": "{0}: {1}",
-        "es": "{0}: {1}"
+        "ko-KR": "{0}: {1}",
+        "en-US": "{0}: {1}",
+        "pt-BR": "{0}: {1}",
+        "es-ES": "{0}: {1}"
     },
     "Cr/FBw": {
-        "ko": "{0}: {1}",
-        "en": "{0}: {1}",
-        "pt": "{0}: {1}",
-        "es": "{0}: {1}"
+        "ko-KR": "{0}: {1}",
+        "en-US": "{0}: {1}",
+        "pt-BR": "{0}: {1}",
+        "es-ES": "{0}: {1}"
     },
     "C7/FBw": {
-        "ko": "{0}: {1}",
-        "en": "{0}: {1}",
-        "pt": "{0}: {1}",
-        "es": "{0}: {1}"
+        "ko-KR": "{0}: {1}",
+        "en-US": "{0}: {1}",
+        "pt-BR": "{0}: {1}",
+        "es-ES": "{0}: {1}"
     },
     "DL/FBw": {
-        "ko": "에코측 교전중. 이쪽도 지원이 필요하다",
-        "en": "Echo side is engaged in combat. We need support here as well.",
-        "pt": "Equipe Eco precisa de apoio!",
-        "es": "¡El Equipo Eco necesita apoyo!"
+        "ko-KR": "에코측 교전중. 이쪽도 지원이 필요하다",
+        "en-US": "Echo side is engaged in combat. We need support here as well.",
+        "pt-BR": "Equipe Eco precisa de apoio!",
+        "es-ES": "¡El Equipo Eco necesita apoyo!"
     },
     "Db/FBw": {
-        "ko": "교전이 있었으나 현재 종료상태다.",
-        "en": "There was a battle, but it has now ended.",
-        "pt": "Houve uma luta, mas agora acabou.",
-        "es": "Hubo una batalla, pero ya terminó."
+        "ko-KR": "교전이 있었으나 현재 종료상태다.",
+        "en-US": "There was a battle, but it has now ended.",
+        "pt-BR": "Houve uma luta, mas agora acabou.",
+        "es-ES": "Hubo una batalla, pero ya terminó."
     },
     "Dr/FBw": {
-        "ko": "살려줘!!",
-        "en": "Help me!!",
-        "pt": "SOS!!",
-        "es": "¡¡SOS!!"
+        "ko-KR": "살려줘!!",
+        "en-US": "Help me!!",
+        "pt-BR": "SOS!!",
+        "es-ES": "¡¡SOS!!"
     },
     "D7/FBw": {
-        "ko": "## 수신 메세지 ##\n## 알파 교신두절 추정좌표 오스카 시에라 알파 52 177 ##",
-        "en": "## Incoming Message ##\n## Alpha communication lost, estimated coordinates Oscar Sierra Alpha 52 177 ##",
-        "pt": "## Mensagem recebida ##\n## Equipe Alfa desconectada. Coordenadas estimadas das outras Equipes: 52 177 ##",
-        "es": "## Mensaje recibido ##\n## Equipo Alfa desconectado. Coordenadas estimadas de los otros Equipos: 52 177 ##"
+        "ko-KR": "## 수신 메세지 ##\n## 알파 교신두절 추정좌표 오스카 시에라 알파 52 177 ##",
+        "en-US": "## Incoming Message ##\n## Alpha communication lost, estimated coordinates Oscar Sierra Alpha 52 177 ##",
+        "pt-BR": "## Mensagem recebida ##\n## Equipe Alfa desconectada. Coordenadas estimadas das outras Equipes: 52 177 ##",
+        "es-ES": "## Mensaje recibido ##\n## Equipo Alfa desconectado. Coordenadas estimadas de los otros Equipos: 52 177 ##"
     },
     "EL/FBw": {
-        "ko": "## 교신상태 아님 ##",
-        "en": "## Not in communication status ##",
-        "pt": "## Sem comunicação ##",
-        "es": "## Sin comunicación ##"
+        "ko-KR": "## 교신상태 아님 ##",
+        "en-US": "## Not in communication status ##",
+        "pt-BR": "## Sem comunicação ##",
+        "es-ES": "## Sin comunicación ##"
     },
     "Eb/FBw": {
-        "ko": "## 지휘관만 사용가능 ##",
-        "en": "## Only the commander can use this. ##",
-        "pt": "## Apenas líder do grupo ##",
-        "es": "## Solo líder del grupo ##"
+        "ko-KR": "## 지휘관만 사용가능 ##",
+        "en-US": "## Only the commander can use this. ##",
+        "pt-BR": "## Apenas líder do grupo ##",
+        "es-ES": "## Solo líder del grupo ##"
     },
     "Er/FBw": {
-        "ko": "[에스트]\n브리핑에 집중하도록.",
-        "en": "[Est]\nFocus on the briefing.",
-        "pt": "[Est Loveloy]\nFoco nas instruções.",
-        "es": "[Est Loveloy]\nConcéntrense en las instrucciones."
+        "ko-KR": "[에스트]\n브리핑에 집중하도록.",
+        "en-US": "[Est]\nFocus on the briefing.",
+        "pt-BR": "[Est Loveloy]\nFoco nas instruções.",
+        "es-ES": "[Est Loveloy]\nConcéntrense en las instrucciones."
     },
     "E7/FBw": {
-        "ko": "??????: 에코측으로 3초후 뮤턴트전용 펄스탄 투하 예정.",
-        "en": "??????: Echo side will deploy a mutant-only Pulse Bomb in 3 seconds.",
-        "pt": "???: Uma bomba será lançada na área da Equipe Eco em 3 segundos.",
-        "es": "???: Se lanzará una bomba en el área del Equipo Eco en 3 segundos."
+        "ko-KR": "??????: 에코측으로 3초후 뮤턴트전용 펄스탄 투하 예정.",
+        "en-US": "??????: Echo side will deploy a mutant-only Pulse Bomb in 3 seconds.",
+        "pt-BR": "???: Uma bomba será lançada na área da Equipe Eco em 3 segundos.",
+        "es-ES": "???: Se lanzará una bomba en el área del Equipo Eco en 3 segundos."
     },
     "FL/FBw": {
-        "ko": "??????: 에코좌표 뮤턴트 무력화 지원 완료.",
-        "en": "??????: Echo coordinates mutant neutralization support complete.",
-        "pt": "???: Neutralização de mutantes pela Equipe Eco concluída.",
-        "es": "???: Neutralización de mutantes por el Equipo Eco completada."
+        "ko-KR": "??????: 에코좌표 뮤턴트 무력화 지원 완료.",
+        "en-US": "??????: Echo coordinates mutant neutralization support complete.",
+        "pt-BR": "???: Neutralização de mutantes pela Equipe Eco concluída.",
+        "es-ES": "???: Neutralización de mutantes por el Equipo Eco completada."
     },
     "Fb/FBw": {
-        "ko": "에스트: 전방에 생체가스가 살포되고 있는걸 확인했고 현재 정화 작업중이다.",
-        "en": "Est: We've confirmed that biogas is being dispersed ahead, and purification is currently in progress.",
-        "pt": "Est: Estamos tentando neutralizar esse biogás aqui na frente.",
-        "es": "Est: Estamos intentando neutralizar este biogás justo enfrente."
+        "ko-KR": "에스트: 전방에 생체가스가 살포되고 있는걸 확인했고 현재 정화 작업중이다.",
+        "en-US": "Est: We've confirmed that biogas is being dispersed ahead, and purification is currently in progress.",
+        "pt-BR": "Est: Estamos tentando neutralizar esse biogás aqui na frente.",
+        "es-ES": "Est: Estamos intentando neutralizar este biogás justo enfrente."
     },
     "Fr/FBw": {
-        "ko": "에스트: 가까이 가기만해도 즉사하니 정화작업이 끝나기 전까진 움직이지 말도록...",
-        "en": "Est: You'll die instantly just by getting close, so don't move until the purification process is complete...",
-        "pt": "Est: Se chegar perto, você morrerá instantaneamente. Não se mova até neutralizarmos...",
-        "es": "Est: Si te acercas, morirás al instante. No te muevas hasta que lo neutralicemos..."
+        "ko-KR": "에스트: 가까이 가기만해도 즉사하니 정화작업이 끝나기 전까진 움직이지 말도록...",
+        "en-US": "Est: You'll die instantly just by getting close, so don't move until the purification process is complete...",
+        "pt-BR": "Est: Se chegar perto, você morrerá instantaneamente. Não se mova até neutralizarmos...",
+        "es-ES": "Est: Si te acercas, morirás al instante. No te muevas hasta que lo neutralicemos..."
     },
     "F7/FBw": {
-        "ko": "에스트: 일단 우리는 이곳에 몇군데의 거점이 있는지. 얼마나 많은 개체가 잠복해 있는지 모른다.",
-        "en": "Est: First of all, we don't know how many bases there are here or how many entities are lurking around.",
-        "pt": "Est: Não sabemos quantas bases inimigas existem aqui.",
-        "es": "Est: No sabemos cuántas bases enemigas existen aquí."
+        "ko-KR": "에스트: 일단 우리는 이곳에 몇군데의 거점이 있는지. 얼마나 많은 개체가 잠복해 있는지 모른다.",
+        "en-US": "Est: First of all, we don't know how many bases there are here or how many entities are lurking around.",
+        "pt-BR": "Est: Não sabemos quantas bases inimigas existem aqui.",
+        "es-ES": "Est: No sabemos cuántas bases enemigas existen aquí."
     },
     "GL/FBw": {
-        "ko": "에스트: 정보가 없을땐 정보를 만드는것이 우리의 임무지. 지금부터 3개조로 나뉘어 이곳을 수색하고 제압한다.",
-        "en": "Est: When there’s no information, it’s our job to create it. From now on, we’ll split into three teams to search and secure this area.",
-        "pt": "Est: Então, vamos nos dividir em 3 grupos para vasculhar e dominar este lugar.",
-        "es": "Est: Así que nos dividiremos en 3 grupos para rastrear y asegurar este lugar."
+        "ko-KR": "에스트: 정보가 없을땐 정보를 만드는것이 우리의 임무지. 지금부터 3개조로 나뉘어 이곳을 수색하고 제압한다.",
+        "en-US": "Est: When there’s no information, it’s our job to create it. From now on, we’ll split into three teams to search and secure this area.",
+        "pt-BR": "Est: Então, vamos nos dividir em 3 grupos para vasculhar e dominar este lugar.",
+        "es-ES": "Est: Así que nos dividiremos en 3 grupos para rastrear y asegurar este lugar."
     },
     "Gb/FBw": {
-        "ko": "에스트:  알파팀은 , 남쪽수로 주변까지 수색을 시작하도록.",
-        "en": "Est: Alpha Team, begin your search around the southern waterway.",
-        "pt": "Est: Equipe Alfa, sigam pelos canais ao sul.",
-        "es": "Est: Equipo Alfa, avancen por los canales del sur."
+        "ko-KR": "에스트:  알파팀은 , 남쪽수로 주변까지 수색을 시작하도록.",
+        "en-US": "Est: Alpha Team, begin your search around the southern waterway.",
+        "pt-BR": "Est: Equipe Alfa, sigam pelos canais ao sul.",
+        "es-ES": "Est: Equipo Alfa, avancen por los canales del sur."
     },
     "Gr/FBw": {
-        "ko": "에스트:  브라보팀, 나와 함께 동쪽의 경계선 직전까지를 훑게 될 것이다.",
-        "en": "Est: Bravo Team, you will be sweeping the area with me up to just before the eastern boundary.",
-        "pt": "Est: Equipe Bravo, venham comigo para o leste.",
-        "es": "Est: Equipo Bravo, vengan conmigo hacia el este."
+        "ko-KR": "에스트:  브라보팀, 나와 함께 동쪽의 경계선 직전까지를 훑게 될 것이다.",
+        "en-US": "Est: Bravo Team, you will be sweeping the area with me up to just before the eastern boundary.",
+        "pt-BR": "Est: Equipe Bravo, venham comigo para o leste.",
+        "es-ES": "Est: Equipo Bravo, vengan conmigo hacia el este."
     },
     "G7/FBw": {
-        "ko": "에스트: 에코팀은 {0}의 지휘를 받아 백업을 담당한다. 일단 이곳을 봉쇄하고 외부로 나가는 개체가 없도록 막아라.",
-        "en": "Est: The Echo Team is under the command of {0} and is responsible for backup. First, secure this area and make sure that nothing gets out.",
-        "pt": "Est: Equipe Eco, fiquem aqui e sigam as ordens de {0}.",
-        "es": "Est: Equipo Eco, quédense aquí y sigan las órdenes de {0}."
+        "ko-KR": "에스트: 에코팀은 {0}의 지휘를 받아 백업을 담당한다. 일단 이곳을 봉쇄하고 외부로 나가는 개체가 없도록 막아라.",
+        "en-US": "Est: The Echo Team is under the command of {0} and is responsible for backup. First, secure this area and make sure that nothing gets out.",
+        "pt-BR": "Est: Equipe Eco, fiquem aqui e sigam as ordens de {0}.",
+        "es-ES": "Est: Equipo Eco, quédense aquí y sigan las órdenes de {0}."
     },
     "HL/FBw": {
-        "ko": "에스트: 우리가 지원을 요청할 상황이 생겨선 안되겠지만 만약 그런 상황이 생긴다면 에코팀이 투입된다.",
-        "en": "We should never be in a situation where we need to request support, but if such a situation arises, the Echo Team will be deployed.",
-        "pt": "Est: Se algo acontecer conosco, a Equipe Eco entrará em ação.",
-        "es": "Est: Si algo nos sucede, el Equipo Eco entrará en acción."
+        "ko-KR": "에스트: 우리가 지원을 요청할 상황이 생겨선 안되겠지만 만약 그런 상황이 생긴다면 에코팀이 투입된다.",
+        "en-US": "We should never be in a situation where we need to request support, but if such a situation arises, the Echo Team will be deployed.",
+        "pt-BR": "Est: Se algo acontecer conosco, a Equipe Eco entrará em ação.",
+        "es-ES": "Est: Si algo nos sucede, el Equipo Eco entrará en acción."
     },
     "Hb/FBw": {
-        "ko": "화학물처리반: 생체 가스시설 잠금 처리완료! 잔여 가스의 방출이 앞으로 몇분간 지속될 예정이다.",
-        "en": "Chemical Processing Unit: Biochemical gas facility lockdown complete! Residual gas release is expected to continue for the next few minutes.",
-        "pt": "Esquadrão Anti-Gás: Biogás neutralizado, mas o cheiro continuará por alguns minutos.",
-        "es": "Escuadrón Antigás: Biogás neutralizado, pero el olor persistirá por algunos minutos."
+        "ko-KR": "화학물처리반: 생체 가스시설 잠금 처리완료! 잔여 가스의 방출이 앞으로 몇분간 지속될 예정이다.",
+        "en-US": "Chemical Processing Unit: Biochemical gas facility lockdown complete! Residual gas release is expected to continue for the next few minutes.",
+        "pt-BR": "Esquadrão Anti-Gás: Biogás neutralizado, mas o cheiro continuará por alguns minutos.",
+        "es-ES": "Escuadrón Antigás: Biogás neutralizado, pero el olor persistirá por algunos minutos."
     },
     "Hr/FBw": {
-        "ko": "에스트: 시간이 되었군. 우린 움직인다. {0} 부대는 지원팀 이니 일단 이곳에서 대기하고 교신에 대응하도록.",
-        "en": "Est: It's time. We're moving out. {0} squad is the support team, so stay here for now and respond to communications.",
-        "pt": "Est: Avante, tropa! {0} e a Equipe Eco ficarão aqui para dar suporte.",
-        "es": "Est: ¡Avancen, tropa! {0} y el Equipo Eco se quedarán aquí brindando apoyo."
+        "ko-KR": "에스트: 시간이 되었군. 우린 움직인다. {0} 부대는 지원팀 이니 일단 이곳에서 대기하고 교신에 대응하도록.",
+        "en-US": "Est: It's time. We're moving out. {0} squad is the support team, so stay here for now and respond to communications.",
+        "pt-BR": "Est: Avante, tropa! {0} e a Equipe Eco ficarão aqui para dar suporte.",
+        "es-ES": "Est: ¡Avancen, tropa! {0} y el Equipo Eco se quedarán aquí brindando apoyo."
     },
     "H7/FBw": {
-        "ko": "알파: 알파 남쪽으로 접근중이다. 에코 방면으로 북상하는 뮤턴트 다수 발견.",
-        "en": "Alpha: Approaching from the south of Alpha. Multiple mutants spotted moving north toward Echo.",
-        "pt": "Alfa: Estamos indo para o sul. Tem vários mutantes indo na direção da Equipe Eco. Câmbio.",
-        "es": "Alfa: Nos dirigimos al sur. Hay varios mutantes moviéndose hacia el Equipo Eco. Cambio."
+        "ko-KR": "알파: 알파 남쪽으로 접근중이다. 에코 방면으로 북상하는 뮤턴트 다수 발견.",
+        "en-US": "Alpha: Approaching from the south of Alpha. Multiple mutants spotted moving north toward Echo.",
+        "pt-BR": "Alfa: Estamos indo para o sul. Tem vários mutantes indo na direção da Equipe Eco. Câmbio.",
+        "es-ES": "Alfa: Nos dirigimos al sur. Hay varios mutantes moviéndose hacia el Equipo Eco. Cambio."
     },
     "IL/FBw": {
-        "ko": "에스트: 감도 양호, 에코 대응 준비하고 특이점 발생시 송신바람.",
-        "en": "Est: Signal is good, prepare for echo response and transmit if any anomalies occur.",
-        "pt": "Est: A Equipe Eco nos avisará se avistarem algo. Câmbio.",
-        "es": "Est: El Equipo Eco nos avisará si detectan algo. Cambio."
+        "ko-KR": "에스트: 감도 양호, 에코 대응 준비하고 특이점 발생시 송신바람.",
+        "en-US": "Est: Signal is good, prepare for echo response and transmit if any anomalies occur.",
+        "pt-BR": "Est: A Equipe Eco nos avisará se avistarem algo. Câmbio.",
+        "es-ES": "Est: El Equipo Eco nos avisará si detectan algo. Cambio."
     },
     "Ib/FBw": {
-        "ko": "알파: 알파 남쪽 배수로 부근 뮤턴트 다수 발견. 교전예정이다.",
-        "en": "Alpha: Multiple mutants spotted near the southern drainage of Alpha. Preparing to engage.",
-        "pt": "Alfa: Estamos nos preparando para lidar com mutantes ao sul. Câmbio.",
-        "es": "Alfa: Nos estamos preparando para enfrentar mutantes al sur. Cambio."
+        "ko-KR": "알파: 알파 남쪽 배수로 부근 뮤턴트 다수 발견. 교전예정이다.",
+        "en-US": "Alpha: Multiple mutants spotted near the southern drainage of Alpha. Preparing to engage.",
+        "pt-BR": "Alfa: Estamos nos preparando para lidar com mutantes ao sul. Câmbio.",
+        "es-ES": "Alfa: Nos estamos preparando para enfrentar mutantes al sur. Cambio."
     },
     "Ir/FBw": {
-        "ko": "에스트: ----수신양호",
-        "en": "Est: ----Reception is good",
-        "pt": "Est: ---- Entendido.",
-        "es": "Est: ---- Entendido."
+        "ko-KR": "에스트: ----수신양호",
+        "en-US": "Est: ----Reception is good",
+        "pt-BR": "Est: ---- Entendido.",
+        "es-ES": "Est: ---- Entendido."
     },
     "I7/FBw": {
-        "ko": "에스트: 알파, 교전 종료후 특이사항 송신바람.",
-        "en": "Est: Alpha, please report any unusual occurrences after the engagement ends.",
-        "pt": "Est: Alfa, solicito informações da sua batalha. Câmbio.",
-        "es": "Est: Alfa, solicito información de su combate. Cambio."
+        "ko-KR": "에스트: 알파, 교전 종료후 특이사항 송신바람.",
+        "en-US": "Est: Alpha, please report any unusual occurrences after the engagement ends.",
+        "pt-BR": "Est: Alfa, solicito informações da sua batalha. Câmbio.",
+        "es-ES": "Est: Alfa, solicito información de su combate. Cambio."
     },
     "JL/FBw": {
-        "ko": "알파: 배수로 부근 뮤턴트 클리어. 잔여 생체반응 확인했다. 2차 교전 대기중.",
-        "en": "Alpha: Mutant near the drainage cleared. Detected remaining bio-signs. Awaiting secondary engagement.",
-        "pt": "Alfa: Limpamos a área, mas detectamos movimentações. Preparando-se para a segunda batalha. Câmbio.",
-        "es": "Alfa: Área despejada, pero detectamos movimiento. Preparándonos para el segundo combate. Cambio."
+        "ko-KR": "알파: 배수로 부근 뮤턴트 클리어. 잔여 생체반응 확인했다. 2차 교전 대기중.",
+        "en-US": "Alpha: Mutant near the drainage cleared. Detected remaining bio-signs. Awaiting secondary engagement.",
+        "pt-BR": "Alfa: Limpamos a área, mas detectamos movimentações. Preparando-se para a segunda batalha. Câmbio.",
+        "es-ES": "Alfa: Área despejada, pero detectamos movimiento. Preparándonos para el segundo combate. Cambio."
     },
     "Jb/FBw": {
-        "ko": "에스트: 알파측 수신양호. 에코 현재상황 송신바람.",
-        "en": "Est: Alpha side, reception is good. Echo, please transmit your current status.",
-        "pt": "Est: Entendido, Alfa. Equipe Eco, solicito informações da sua situação. Câmbio.",
-        "es": "Est: Entendido, Alfa. Equipo Eco, solicito información de su situación. Cambio."
+        "ko-KR": "에스트: 알파측 수신양호. 에코 현재상황 송신바람.",
+        "en-US": "Est: Alpha side, reception is good. Echo, please transmit your current status.",
+        "pt-BR": "Est: Entendido, Alfa. Equipe Eco, solicito informações da sua situação. Câmbio.",
+        "es-ES": "Est: Entendido, Alfa. Equipo Eco, solicito información de su situación. Cambio."
     },
     "Jr/FBw": {
-        "ko": "에스트: {0}!! 현재상황 응답바람!!",
-        "en": "Est: {0}!! Please respond to the current situation!!",
-        "pt": "Est: {0}, RESPONDA!! Câmbio.",
-        "es": "Est: ¡{0}, RESPONDA! Cambio."
+        "ko-KR": "에스트: {0}!! 현재상황 응답바람!!",
+        "en-US": "Est: {0}!! Please respond to the current situation!!",
+        "pt-BR": "Est: {0}, RESPONDA!! Câmbio.",
+        "es-ES": "Est: ¡{0}, RESPONDA! Cambio."
     },
     "J7/FBw": {
-        "ko": "에스트: 에코측 수신 매끄럽지 못하다. 재송신 바람.",
-        "en": "Est: Echo reception is not clear. Please retransmit.",
-        "pt": "Est: Equipe Eco, a transmissão está falhando. Não te ouço. Câmbio.",
-        "es": "Est: Equipo Eco, la transmisión está fallando. No los escucho. Cambio."
+        "ko-KR": "에스트: 에코측 수신 매끄럽지 못하다. 재송신 바람.",
+        "en-US": "Est: Echo reception is not clear. Please retransmit.",
+        "pt-BR": "Est: Equipe Eco, a transmissão está falhando. Não te ouço. Câmbio.",
+        "es-ES": "Est: Equipo Eco, la transmisión está fallando. No los escucho. Cambio."
     },
     "KL/FBw": {
-        "ko": "알파: 매복이다! 현재 좌표 오스카 시에라 알파 9......@$%**!",
-        "en": "Alpha: It's an ambush! Current coordinates Oscar Sierra Alpha 9......@$%**!",
-        "pt": "Alfa: AAH! Emboscada! Coordenadas atuais: 9......@$%**!",
-        "es": "Alfa: ¡AAH! ¡Emboscada! Coordenadas actuales: 9......@$%**!"
+        "ko-KR": "알파: 매복이다! 현재 좌표 오스카 시에라 알파 9......@$%**!",
+        "en-US": "Alpha: It's an ambush! Current coordinates Oscar Sierra Alpha 9......@$%**!",
+        "pt-BR": "Alfa: AAH! Emboscada! Coordenadas atuais: 9......@$%**!",
+        "es-ES": "Alfa: ¡AAH! ¡Emboscada! Coordenadas actuales: 9......@$%**!"
     },
     "Kb/FBw": {
-        "ko": "에스트: 알파 좌표 재송신바람. 알파!!! 응답바람!!",
-        "en": "Est: Please retransmit the Alpha coordinates. Alpha!!! Respond!!",
-        "pt": "Est: Retransmita as coordenadas Alfa. Alfa!!! Responda!!",
-        "es": "Est: Retransmite las coordenadas, Alfa. ¡¡¡Alfa!!! ¡¡Responde!!"
+        "ko-KR": "에스트: 알파 좌표 재송신바람. 알파!!! 응답바람!!",
+        "en-US": "Est: Please retransmit the Alpha coordinates. Alpha!!! Respond!!",
+        "pt-BR": "Est: Retransmita as coordenadas Alfa. Alfa!!! Responda!!",
+        "es-ES": "Est: Retransmite las coordenadas, Alfa. ¡¡¡Alfa!!! ¡¡Responde!!"
     },
     "Kr/FBw": {
-        "ko": "알파: ----치이이이이이이이-----!!!!!!!",
-        "en": "Alpha: ----AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!!",
-        "pt": "Alpha: ----AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!!",
-        "es": "Alpha: ----AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!!"
+        "ko-KR": "알파: ----치이이이이이이이-----!!!!!!!",
+        "en-US": "Alpha: ----AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!!",
+        "pt-BR": "Alpha: ----AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!!",
+        "es-ES": "Alpha: ----AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!!"
     },
     "K7/FBw": {
-        "ko": "에스트: 젠장!... 에코측 알파 좌표로 지원가능한지 확인바람",
-        "en": "Est: Damn it!... Check if support can be provided to Echo at the Alpha coordinates.",
-        "pt": "Est: Droga!... Solicitando reforços da Equipe Eco, AGORA!",
-        "es": "Est: ¡Maldición!... Solicitando refuerzos del Equipo Eco, ¡AHORA!"
+        "ko-KR": "에스트: 젠장!... 에코측 알파 좌표로 지원가능한지 확인바람",
+        "en-US": "Est: Damn it!... Check if support can be provided to Echo at the Alpha coordinates.",
+        "pt-BR": "Est: Droga!... Solicitando reforços da Equipe Eco, AGORA!",
+        "es-ES": "Est: ¡Maldición!... Solicitando refuerzos del Equipo Eco, ¡AHORA!"
     },
     "LL/FBw": {
-        "ko": "에스트: {0}! 알파 좌표로 지원가능한지 확인바람!",
-        "en": "Est: {0}! Please check if support is possible at the Alpha coordinates!",
-        "pt": "Est: {0}! Preciso que ajude a Equipe Alfa! Câmbio.",
-        "es": "Est: ¡{0}! ¡Necesito que ayudes al Equipo Alfa! Cambio."
+        "ko-KR": "에스트: {0}! 알파 좌표로 지원가능한지 확인바람!",
+        "en-US": "Est: {0}! Please check if support is possible at the Alpha coordinates!",
+        "pt-BR": "Est: {0}! Preciso que ajude a Equipe Alfa! Câmbio.",
+        "es-ES": "Est: ¡{0}! ¡Necesito que ayudes al Equipo Alfa! Cambio."
     },
     "Lb/FBw": {
-        "ko": "??????: 여기는 폭스트롯. 지상 포격 지원이 준비되었다 지원 필요한 좌표 송신바란다.",
-        "en": "??????: This is Foxtrot. Ground bombardment support is ready. Please transmit the coordinates where support is needed.",
-        "pt": "???: Quem fala é Foxtrot, da equipe de bombardeio. Por favor, envie as coordenadas necessárias. Câmbio.",
-        "es": "???: Habla Foxtrot, del equipo de bombardeo. Por favor, envíe las coordenadas necesarias. Cambio."
+        "ko-KR": "??????: 여기는 폭스트롯. 지상 포격 지원이 준비되었다 지원 필요한 좌표 송신바란다.",
+        "en-US": "??????: This is Foxtrot. Ground bombardment support is ready. Please transmit the coordinates where support is needed.",
+        "pt-BR": "???: Quem fala é Foxtrot, da equipe de bombardeio. Por favor, envie as coordenadas necessárias. Câmbio.",
+        "es-ES": "???: Habla Foxtrot, del equipo de bombardeo. Por favor, envíe las coordenadas necesarias. Cambio."
     },
     "Lr/FBw": {
-        "ko": "에스트: 알파는 응답없다. {0}측에 지원사격 부탁한다. 좌표 오스카 시에라 알파 32 356",
-        "en": "Est: Alpha is unresponsive. Requesting covering fire from {0}. Coordinates: Oscar Sierra Alpha 32 356.",
-        "pt": "Est: Alfa não responde. Dê apoio a {0}. Coordenadas 32 356. Câmbio.",
-        "es": "Est: Alfa no responde. Brinde apoyo a {0}. Coordenadas 32 356. Cambio."
+        "ko-KR": "에스트: 알파는 응답없다. {0}측에 지원사격 부탁한다. 좌표 오스카 시에라 알파 32 356",
+        "en-US": "Est: Alpha is unresponsive. Requesting covering fire from {0}. Coordinates: Oscar Sierra Alpha 32 356.",
+        "pt-BR": "Est: Alfa não responde. Dê apoio a {0}. Coordenadas 32 356. Câmbio.",
+        "es-ES": "Est: Alfa no responde. Brinde apoyo a {0}. Coordenadas 32 356. Cambio."
     },
     "L7/FBw": {
-        "ko": "??????: 폭스트롯 좌표 수신완료. 뮤턴트 전용탄에 아군 피해가 없도록 주의 바란다",
-        "en": "??????: Fox Trot coordinates received. Please be careful to avoid friendly fire with the mutant-exclusive rounds.",
-        "pt": "???: Recebido. Equipe Eco, protejam-se dos estilhaços da bomba. Câmbio.",
-        "es": "???: Recibido. Equipo Eco, protéjanse de los escombros de la bomba. Cambio."
+        "ko-KR": "??????: 폭스트롯 좌표 수신완료. 뮤턴트 전용탄에 아군 피해가 없도록 주의 바란다",
+        "en-US": "??????: Fox Trot coordinates received. Please be careful to avoid friendly fire with the mutant-exclusive rounds.",
+        "pt-BR": "???: Recebido. Equipe Eco, protejam-se dos estilhaços da bomba. Câmbio.",
+        "es-ES": "???: Recibido. Equipo Eco, protéjanse de los escombros de la bomba. Cambio."
     },
     "ML/FBw": {
-        "ko": "에스트: 교전 상황종료.",
-        "en": "Est: Combat situation ended.",
-        "pt": "Est: Ocupação concluída.",
-        "es": "Est: Ocupación completada."
+        "ko-KR": "에스트: 교전 상황종료.",
+        "en-US": "Est: Combat situation ended.",
+        "pt-BR": "Est: Ocupação concluída.",
+        "es-ES": "Est: Ocupación completada."
     },
     "Mb/FBw": {
-        "ko": "에스트: 무전으로 알파와의 마지막 교신장소로 추정되는 좌표를 송신하겠다. 무전기 이동 후 지원바란다.",
-        "en": "Est: I will transmit the coordinates of the last known communication point with Alpha via radio. Please move your radio and provide support.",
-        "pt": "Est: Compartilhando última localização da Equipe Alfa. Use o rádio para se comunicar.",
-        "es": "Est: Compartiendo última ubicación del Equipo Alfa. Use la radio para comunicarse."
+        "ko-KR": "에스트: 무전으로 알파와의 마지막 교신장소로 추정되는 좌표를 송신하겠다. 무전기 이동 후 지원바란다.",
+        "en-US": "Est: I will transmit the coordinates of the last known communication point with Alpha via radio. Please move your radio and provide support.",
+        "pt-BR": "Est: Compartilhando última localização da Equipe Alfa. Use o rádio para se comunicar.",
+        "es-ES": "Est: Compartiendo última ubicación del Equipo Alfa. Use la radio para comunicarse."
     },
     "Mr/FBw": {
-        "ko": "미완성 카푸트#{0}",
-        "en": "Unfinished Kaput#{0}",
-        "pt": "Caput Deformado#{0}",
-        "es": "Caput Deformado#{0}"
+        "ko-KR": "미완성 카푸트#{0}",
+        "en-US": "Unfinished Kaput#{0}",
+        "pt-BR": "Caput Deformado#{0}",
+        "es-ES": "Caput Deformado#{0}"
     },
     "M7/FBw": {
-        "ko": "미완성 돌로르#{0}",
-        "en": "Unfinished Dolor#{0}",
-        "pt": "Dolor Deformada#{0}",
-        "es": "Dolor Deformada#{0}"
+        "ko-KR": "미완성 돌로르#{0}",
+        "en-US": "Unfinished Dolor#{0}",
+        "pt-BR": "Dolor Deformada#{0}",
+        "es-ES": "Dolor Deformada#{0}"
     },
     "NL/FBw": {
-        "ko": "미완성 벨라레#{0}",
-        "en": "Incomplete Bellare#{0}",
-        "pt": "Bellare Deformado#{0}",
-        "es": "Bellare Deformado#{0}"
+        "ko-KR": "미완성 벨라레#{0}",
+        "en-US": "Incomplete Bellare#{0}",
+        "pt-BR": "Bellare Deformado#{0}",
+        "es-ES": "Bellare Deformado#{0}"
     },
     "Nb/FBw": {
-        "ko": "알파팀의 흔적은 보이지않는다.바닥엔 교신기 뿐이다.",
-        "en": "There is no sign of the Alpha Team. Only a communicator lies on the ground.",
-        "pt": "Alfa desaparecida. Câmbio.",
-        "es": "Alfa desaparecido. Cambio."
+        "ko-KR": "알파팀의 흔적은 보이지않는다.바닥엔 교신기 뿐이다.",
+        "en-US": "There is no sign of the Alpha Team. Only a communicator lies on the ground.",
+        "pt-BR": "Alfa desaparecida. Câmbio.",
+        "es-ES": "Alfa desaparecido. Cambio."
     },
     "Nr/FBw": {
-        "ko": "에스트: {0}. 주변에 다른 흔적은 없는지 보고바람.",
-        "en": "Est: {0}. Check if there are any other traces nearby.",
-        "pt": "Est: {0}, procure por mais rastros, por favor. Câmbio.",
-        "es": "Est: {0}, busque más rastros, por favor. Cambio."
+        "ko-KR": "에스트: {0}. 주변에 다른 흔적은 없는지 보고바람.",
+        "en-US": "Est: {0}. Check if there are any other traces nearby.",
+        "pt-BR": "Est: {0}, procure por mais rastros, por favor. Câmbio.",
+        "es-ES": "Est: {0}, busque más rastros, por favor. Cambio."
     },
     "N7/FBw": {
-        "ko": "특별히 없다.",
-        "en": "Nothing in particular.",
-        "pt": "Nada encontrado. Câmbio.",
-        "es": "Nada encontrado. Cambio."
+        "ko-KR": "특별히 없다.",
+        "en-US": "Nothing in particular.",
+        "pt-BR": "Nada encontrado. Câmbio.",
+        "es-ES": "Nada encontrado. Cambio."
     },
     "OL/FBw": {
-        "ko": "에스트: 브라보팀은 동쪽 수색이 완료되었다.",
-        "en": "Est: Bravo Team has completed the search in the east.",
-        "pt": "Est: Equipe Bravo completou a ocupação no leste.",
-        "es": "Est: El Equipo Bravo completó la ocupación en el este."
+        "ko-KR": "에스트: 브라보팀은 동쪽 수색이 완료되었다.",
+        "en-US": "Est: Bravo Team has completed the search in the east.",
+        "pt-BR": "Est: Equipe Bravo completou a ocupação no leste.",
+        "es-ES": "Est: El Equipo Bravo completó la ocupación en el este."
     },
     "Ob/FBw": {
-        "ko": "에스트: 남쪽으로 이동예정이다. 이동 좌표를 전송하겠다. 이동시 습격에 대비 바란다.",
-        "en": "Est: We will be moving south. I will transmit the coordinates. Please be prepared for an ambush during the move.",
-        "pt": "Est: Nós vamos para o sul. Vamos enviar as coordenadas para caso uma emboscada aconteça.",
-        "es": "Est: Nos dirigimos al sur. Enviaremos las coordenadas en caso de una emboscada."
+        "ko-KR": "에스트: 남쪽으로 이동예정이다. 이동 좌표를 전송하겠다. 이동시 습격에 대비 바란다.",
+        "en-US": "Est: We will be moving south. I will transmit the coordinates. Please be prepared for an ambush during the move.",
+        "pt-BR": "Est: Nós vamos para o sul. Vamos enviar as coordenadas para caso uma emboscada aconteça.",
+        "es-ES": "Est: Nos dirigimos al sur. Enviaremos las coordenadas en caso de una emboscada."
     },
     "Or/FBw": {
-        "ko": "## 이동 좌표 수신 ##",
-        "en": "## Receiving movement coordinates ##",
-        "pt": "## Coordenadas recebidas ##",
-        "es": "## Coordenadas recibidas ##"
+        "ko-KR": "## 이동 좌표 수신 ##",
+        "en-US": "## Receiving movement coordinates ##",
+        "pt-BR": "## Coordenadas recebidas ##",
+        "es-ES": "## Coordenadas recibidas ##"
     },
     "O7/FBw": {
-        "ko": "에스트: {0} 들리나? 교신 가능하다면 응답바람",
-        "en": "Est: {0}, can you hear me? Please respond if you can communicate.",
-        "pt": "Est: {0}, na escuta? Por favor, me responda. Câmbio.",
-        "es": "Est: {0}, ¿me copia? Por favor, responda. Cambio."
+        "ko-KR": "에스트: {0} 들리나? 교신 가능하다면 응답바람",
+        "en-US": "Est: {0}, can you hear me? Please respond if you can communicate.",
+        "pt-BR": "Est: {0}, na escuta? Por favor, me responda. Câmbio.",
+        "es-ES": "Est: {0}, ¿me copia? Por favor, responda. Cambio."
     },
     "PL/FBw": {
-        "ko": "중간 거점 점령 완료",
-        "en": "Intermediate base captured.",
-        "pt": "Ocupação concluída.",
-        "es": "Ocupación completada."
+        "ko-KR": "중간 거점 점령 완료",
+        "en-US": "Intermediate base captured.",
+        "pt-BR": "Ocupação concluída.",
+        "es-ES": "Ocupación completada."
     },
     "Pb/FBw": {
-        "ko": "잔여 뮤턴트 생존 반응 - {0}",
-        "en": "Remaining mutant survival response - {0}",
-        "pt": "Mutantes remanescentes -{0}",
-        "es": "Mutantes restantes -{0}"
+        "ko-KR": "잔여 뮤턴트 생존 반응 - {0}",
+        "en-US": "Remaining mutant survival response - {0}",
+        "pt-BR": "Mutantes remanescentes -{0}",
+        "es-ES": "Mutantes restantes -{0}"
     },
     "Pr/FBw": {
-        "ko": "에스트: {0} 들리나?",
-        "en": "Est: {0}, can you hear me?",
-        "pt": "Est: {0}, na escuta?",
-        "es": "Est: {0}, ¿me copia?"
+        "ko-KR": "에스트: {0} 들리나?",
+        "en-US": "Est: {0}, can you hear me?",
+        "pt-BR": "Est: {0}, na escuta?",
+        "es-ES": "Est: {0}, ¿me copia?"
     },
     "P7/FBw": {
-        "ko": "에스트: 2차 탐색 좌표를 전송한다. 좌표 기록을 유실하지 않도록 주의바란다.",
-        "en": "Est: Transmitting secondary search coordinates. Please be careful not to lose the coordinate records.",
-        "pt": "Est: Enviando nova localização. Não a perca.",
-        "es": "Est: Enviando nueva ubicación. No la pierdas."
+        "ko-KR": "에스트: 2차 탐색 좌표를 전송한다. 좌표 기록을 유실하지 않도록 주의바란다.",
+        "en-US": "Est: Transmitting secondary search coordinates. Please be careful not to lose the coordinate records.",
+        "pt-BR": "Est: Enviando nova localização. Não a perca.",
+        "es-ES": "Est: Enviando nueva ubicación. No la pierdas."
     },
     "QL/FBw": {
-        "ko": "{0}: 이동 경로에 소대병력의 뮤턴트 발견.",
-        "en": "{0}: Mutants from the squad have been spotted along the route.",
-        "pt": "Est: {0}, busque por vestígios na área. Câmbio.",
-        "es": "Est: {0}, busque vestigios en el área. Cambio."
+        "ko-KR": "{0}: 이동 경로에 소대병력의 뮤턴트 발견.",
+        "en-US": "{0}: Mutants from the squad have been spotted along the route.",
+        "pt-BR": "Est: {0}, busque por vestígios na área. Câmbio.",
+        "es-ES": "Est: {0}, busque vestigios en el área. Cambio."
     },
     "Qb/FBw": {
-        "ko": "에스트: 대화가 통하는 개체가 보인다면 생포. 그 외에는... 전부 제압하기 바란다.",
-        "en": "Est: If you see any entities capable of communication, capture them. As for the rest... subdue them all.",
-        "pt": "{m_name}: Mutantes encontrados pelo caminho. Câmbio.",
-        "es": "{m_name}: Mutantes encontrados en el camino. Cambio."
+        "ko-KR": "에스트: 대화가 통하는 개체가 보인다면 생포. 그 외에는... 전부 제압하기 바란다.",
+        "en-US": "Est: If you see any entities capable of communication, capture them. As for the rest... subdue them all.",
+        "pt-BR": "{m_name}: Mutantes encontrados pelo caminho. Câmbio.",
+        "es-ES": "{m_name}: Mutantes encontrados en el camino. Cambio."
     },
     "Qr/FBw": {
-        "ko": "에스트: {0} 아직 생존해있나?",
-        "en": "Est: {0}, are you still alive?",
-        "pt": "Est: Elimine todos esses mutantes, mesmo aqueles que sabem se comunicar.",
-        "es": "Est: Elimine a todos esos mutantes, incluso a los que saben comunicarse."
+        "ko-KR": "에스트: {0} 아직 생존해있나?",
+        "en-US": "Est: {0}, are you still alive?",
+        "pt-BR": "Est: Elimine todos esses mutantes, mesmo aqueles que sabem se comunicar.",
+        "es-ES": "Est: Elimine a todos esos mutantes, incluso a los que saben comunicarse."
     },
     "Q7/FBw": {
-        "ko": "{0}: 에코팀 아직 생존중 남쪽 합류 지점으로 이동중이다",
-        "en": "{0}: Echo Team is still alive and moving to the southern rendezvous point.",
-        "pt": "{0}: Equipe Eco ainda viva e se mudando para a confluência sul. Câmbio.",
-        "es": "{0}: Equipo Eco aún con vida y moviéndose hacia la confluencia sur. Cambio."
+        "ko-KR": "{0}: 에코팀 아직 생존중 남쪽 합류 지점으로 이동중이다",
+        "en-US": "{0}: Echo Team is still alive and moving to the southern rendezvous point.",
+        "pt-BR": "{0}: Equipe Eco ainda viva e se mudando para a confluência sul. Câmbio.",
+        "es-ES": "{0}: Equipo Eco aún con vida y moviéndose hacia la confluencia sur. Cambio."
     },
     "RL/FBw": {
-        "ko": "에스트: 브라보팀은 동쪽 끝을 우회하여 합류지점으로 이동중이다.",
-        "en": "Est: Bravo Team is moving to the rendezvous point by circling around the eastern edge.",
-        "pt": "Est: Equipe Bravo está se dirigindo para o leste. Câmbio.",
-        "es": "Est: El Equipo Bravo se dirige hacia el este. Cambio."
+        "ko-KR": "에스트: 브라보팀은 동쪽 끝을 우회하여 합류지점으로 이동중이다.",
+        "en-US": "Est: Bravo Team is moving to the rendezvous point by circling around the eastern edge.",
+        "pt-BR": "Est: Equipe Bravo está se dirigindo para o leste. Câmbio.",
+        "es-ES": "Est: El Equipo Bravo se dirige hacia el este. Cambio."
     },
     "Rb/FBw": {
-        "ko": "{0}: 브라보팀 무사히 합류하길 빈다",
-        "en": "{0}: I hope Bravo Team joins us safely.",
-        "pt": "{0}: Então estamos indo de encontro à Equipe Bravo. Câmbio.",
-        "es": "{0}: Entonces nos dirigimos al encuentro del Equipo Bravo. Cambio."
+        "ko-KR": "{0}: 브라보팀 무사히 합류하길 빈다",
+        "en-US": "{0}: I hope Bravo Team joins us safely.",
+        "pt-BR": "{0}: Então estamos indo de encontro à Equipe Bravo. Câmbio.",
+        "es-ES": "{0}: Entonces nos dirigimos al encuentro del Equipo Bravo. Cambio."
     },
     "Rr/FBw": {
-        "ko": "에스트: 에코팀의 생존을 기원한다.",
-        "en": "Est: Wishing for the survival of the Echo Team.",
-        "pt": "Est: Entendido. Nos veremos em breve, Equipe Eco.",
-        "es": "Est: Entendido. Nos veremos pronto, Equipo Eco."
+        "ko-KR": "에스트: 에코팀의 생존을 기원한다.",
+        "en-US": "Est: Wishing for the survival of the Echo Team.",
+        "pt-BR": "Est: Entendido. Nos veremos em breve, Equipe Eco.",
+        "es-ES": "Est: Entendido. Nos veremos pronto, Equipo Eco."
     },
     "R7/FBw": {
-        "ko": "????: 크르르르...",
-        "en": "????: Grrrr...",
-        "pt": "???: Grrrrr...",
-        "es": "???: Grrrrr..."
+        "ko-KR": "????: 크르르르...",
+        "en-US": "????: Grrrr...",
+        "pt-BR": "???: Grrrrr...",
+        "es-ES": "???: Grrrrr..."
     },
     "SL/FBw": {
-        "ko": "????#001",
-        "en": "????#001",
-        "pt": "????#001",
-        "es": "????#001"
+        "ko-KR": "????#001",
+        "en-US": "????#001",
+        "pt-BR": "????#001",
+        "es-ES": "????#001"
     },
     "Sb/FBw": {
-        "ko": "관등성명을 대라!",
-        "en": "State your name and rank!",
-        "pt": "Identifiquem-se!",
-        "es": "¡Identifíquense!"
+        "ko-KR": "관등성명을 대라!",
+        "en-US": "State your name and rank!",
+        "pt-BR": "Identifiquem-se!",
+        "es-ES": "¡Identifíquense!"
     },
     "Sr/FBw": {
-        "ko": "소속과 군번을 말해라 병사!!",
-        "en": "State your affiliation and service number, soldier!!",
-        "pt": "Diga-me sua afiliação e número militar, soldado!!",
-        "es": "¡Dígame su afiliación y número militar, soldado!"
+        "ko-KR": "소속과 군번을 말해라 병사!!",
+        "en-US": "State your affiliation and service number, soldier!!",
+        "pt-BR": "Diga-me sua afiliação e número militar, soldado!!",
+        "es-ES": "¡Dígame su afiliación y número militar, soldado!"
     },
     "S7/FBw": {
-        "ko": "빌어먹을 뮤턴트놈들!! 다 죽여버려!!",
-        "en": "Damn mutant bastards!! I'll kill them all!!",
-        "pt": "Malditos mutantes!! Mate todos eles!!",
-        "es": "¡Malditos mutantes! ¡Mátenlos a todos!"
+        "ko-KR": "빌어먹을 뮤턴트놈들!! 다 죽여버려!!",
+        "en-US": "Damn mutant bastards!! I'll kill them all!!",
+        "pt-BR": "Malditos mutantes!! Mate todos eles!!",
+        "es-ES": "¡Malditos mutantes! ¡Mátenlos a todos!"
     },
     "TL/FBw": {
-        "ko": "나를 아무리 괴롭혀도 한마디도 해줄 수 없다!",
-        "en": "No matter how much you torment me, I won't say a single word!",
-        "pt": "Não importa o quanto você me torture, não falarei uma palavra!",
-        "es": "¡No importa cuánto me torturen, no diré una sola palabra!"
+        "ko-KR": "나를 아무리 괴롭혀도 한마디도 해줄 수 없다!",
+        "en-US": "No matter how much you torment me, I won't say a single word!",
+        "pt-BR": "Não importa o quanto você me torture, não falarei uma palavra!",
+        "es-ES": "¡No importa cuánto me torturen, no diré una sola palabra!"
     },
     "Tb/FBw": {
-        "ko": "네놈들은 누구의 명령으로 온거지?!",
-        "en": "Under whose orders have you come?!",
-        "pt": "Quem enviou você aqui?!",
-        "es": "¡¿Quién los envió aquí?!"
+        "ko-KR": "네놈들은 누구의 명령으로 온거지?!",
+        "en-US": "Under whose orders have you come?!",
+        "pt-BR": "Quem enviou você aqui?!",
+        "es-ES": "¡¿Quién los envió aquí?!"
     },
     "Tr/FBw": {
-        "ko": "리벨리온의 전사는 절대 굴복하지 않는다!",
-        "en": "The warriors of Rebellion never surrender!",
-        "pt": "Os membros da Rebelião nunca se renderão!",
-        "es": "¡Los miembros de la Rebelión jamás se rendirán!"
+        "ko-KR": "리벨리온의 전사는 절대 굴복하지 않는다!",
+        "en-US": "The warriors of Rebellion never surrender!",
+        "pt-BR": "Os membros da Rebelião nunca se renderão!",
+        "es-ES": "¡Los miembros de la Rebelión jamás se rendirán!"
     },
     "T7/FBw": {
-        "ko": "????: 넌... !!",
-        "en": "????: You...!!",
-        "pt": "????: Você é... !!",
-        "es": "????: ¡Tú eres...!!"
+        "ko-KR": "????: 넌... !!",
+        "en-US": "????: You...!!",
+        "pt-BR": "????: Você é... !!",
+        "es-ES": "????: ¡Tú eres...!!"
     },
     "UL/FBw": {
-        "ko": "에스트: 날 아는가?",
-        "en": "Est: Do you know me?",
-        "pt": "Est: Você me conhece?",
-        "es": "Est: ¿Me conoces?"
+        "ko-KR": "에스트: 날 아는가?",
+        "en-US": "Est: Do you know me?",
+        "pt-BR": "Est: Você me conhece?",
+        "es-ES": "Est: ¿Me conoces?"
     },
     "Ub/FBw": {
-        "ko": "^FF0000- 인벤토리가 가득 찼습니다. 소지 무게와 소지 물품 수량 확인 뒤 진행해 주십시오. -^000000",
-        "en": "^FF0000- Your inventory is full. Please check your carrying weight and the number of items you have before proceeding. -^000000",
-        "pt": "^FF0000- Seu inventário está cheio. Verifique o peso e a quantidade de itens que você tem antes de continuar. -^000000",
-        "es": "^FF0000- Tu inventario está lleno. Verifica el peso y la cantidad de objetos antes de continuar. -^000000"
+        "ko-KR": "^FF0000- 인벤토리가 가득 찼습니다. 소지 무게와 소지 물품 수량 확인 뒤 진행해 주십시오. -^000000",
+        "en-US": "^FF0000- Your inventory is full. Please check your carrying weight and the number of items you have before proceeding. -^000000",
+        "pt-BR": "^FF0000- Seu inventário está cheio. Verifique o peso e a quantidade de itens que você tem antes de continuar. -^000000",
+        "es-ES": "^FF0000- Tu inventario está lleno. Verifica el peso y la cantidad de objetos antes de continuar. -^000000"
     },
     "Ur/FBw": {
-        "ko": "미구엘에 대해 묻는다.",
-        "en": "Ask about Miguel.",
-        "pt": "Quem é Miguel?",
-        "es": "¿Quién es Miguel?"
+        "ko-KR": "미구엘에 대해 묻는다.",
+        "en-US": "Ask about Miguel.",
+        "pt-BR": "Quem é Miguel?",
+        "es-ES": "¿Quién es Miguel?"
     },
     "U7/FBw": {
-        "ko": "[에스트]\n{0}, 지금은 그에 대해선 말하고 싶은 기분이 아니야.",
-        "en": "[Est]\n{0}, I don't feel like talking about that right now.",
-        "pt": "[Est Loveloy]\nNão quero falar sobre ele agora, {0}.",
-        "es": "[Est Loveloy]\nNo quiero hablar de él ahora, {0}."
+        "ko-KR": "[에스트]\n{0}, 지금은 그에 대해선 말하고 싶은 기분이 아니야.",
+        "en-US": "[Est]\n{0}, I don't feel like talking about that right now.",
+        "pt-BR": "[Est Loveloy]\nNão quero falar sobre ele agora, {0}.",
+        "es-ES": "[Est Loveloy]\nNo quiero hablar de él ahora, {0}."
     },
     "VL/FBw": {
-        "ko": "연구기록에 관해 묻는다",
-        "en": "Ask about the research records.",
-        "pt": "E sobre os registros mencionados?",
-        "es": "¿Y sobre los registros que mencionaste?"
+        "ko-KR": "연구기록에 관해 묻는다",
+        "en-US": "Ask about the research records.",
+        "pt-BR": "E sobre os registros mencionados?",
+        "es-ES": "¿Y sobre los registros que mencionaste?"
     },
     "Vb/FBw": {
-        "ko": "[에스트]\n북동쪽을 경유하며 확인해보니 철길 건너에 연구단지로 추정되는곳이 보였다.",
-        "en": "[Est]\nAfter passing through the northeast, I saw what appeared to be a research complex across the railroad tracks.",
-        "pt": "[Est Loveloy]\nQuando dei uma olhada ao nordeste, vi um lugar que parece ser um complexo de pesquisa do outro lado da ferrovia.",
-        "es": "[Est Loveloy]\nCuando miré hacia el noreste, vi un lugar que parece un complejo de investigación al otro lado de la vía férrea."
+        "ko-KR": "[에스트]\n북동쪽을 경유하며 확인해보니 철길 건너에 연구단지로 추정되는곳이 보였다.",
+        "en-US": "[Est]\nAfter passing through the northeast, I saw what appeared to be a research complex across the railroad tracks.",
+        "pt-BR": "[Est Loveloy]\nQuando dei uma olhada ao nordeste, vi um lugar que parece ser um complexo de pesquisa do outro lado da ferrovia.",
+        "es-ES": "[Est Loveloy]\nCuando miré hacia el noreste, vi un lugar que parece un complejo de investigación al otro lado de la vía férrea."
     },
     "Vr/FBw": {
-        "ko": "[에스트]\n아마 미구엘이... 말했던 기록은 그곳 어딘가에 있겠지. 난 곧바로 다른 작전에 투입이라 힘들겠군.",
-        "en": "[Est]\nMiguel probably... mentioned that the records are somewhere in that place. It’ll be tough for me since I’m being sent straight into another operation.",
-        "pt": "[Est Loveloy]\nProvavelmente é a localização do registro que Miguel mencionou, mas não posso ir lá, agora. Já tenho uma outra missão depois dessa.",
-        "es": "[Est Loveloy]\nProbablemente sea la ubicación del registro que mencionó Miguel, pero no puedo ir allí ahora. Tengo otra misión después de esta."
+        "ko-KR": "[에스트]\n아마 미구엘이... 말했던 기록은 그곳 어딘가에 있겠지. 난 곧바로 다른 작전에 투입이라 힘들겠군.",
+        "en-US": "[Est]\nMiguel probably... mentioned that the records are somewhere in that place. It’ll be tough for me since I’m being sent straight into another operation.",
+        "pt-BR": "[Est Loveloy]\nProvavelmente é a localização do registro que Miguel mencionou, mas não posso ir lá, agora. Já tenho uma outra missão depois dessa.",
+        "es-ES": "[Est Loveloy]\nProbablemente sea la ubicación del registro que mencionó Miguel, pero no puedo ir allí ahora. Tengo otra misión después de esta."
     },
     "V7/FBw": {
-        "ko": "[에스트]\n일단 이곳에서 우리가 할일은 더 없을 것 같다.",
-        "en": "[Est]\nIt seems like there's nothing more for us to do here for now.",
-        "pt": "[Est Loveloy]\nPor enquanto, acho que não temos mais nada para fazer aqui.",
-        "es": "[Est Loveloy]\nPor ahora, creo que no tenemos nada más que hacer aquí."
+        "ko-KR": "[에스트]\n일단 이곳에서 우리가 할일은 더 없을 것 같다.",
+        "en-US": "[Est]\nIt seems like there's nothing more for us to do here for now.",
+        "pt-BR": "[Est Loveloy]\nPor enquanto, acho que não temos mais nada para fazer aqui.",
+        "es-ES": "[Est Loveloy]\nPor ahora, creo que no tenemos nada más que hacer aquí."
     },
     "WL/FBw": {
-        "ko": "이동을 권한다.",
-        "en": "I recommend moving.",
-        "pt": "Vamos sair.",
-        "es": "Vámonos."
+        "ko-KR": "이동을 권한다.",
+        "en-US": "I recommend moving.",
+        "pt-BR": "Vamos sair.",
+        "es-ES": "Vámonos."
     },
     "Wb/FBw": {
-        "ko": "[에스트]\n그래. 이동하지. 시간이 많이 지체되었다.",
-        "en": "[Est]\nAlright. Let's move. We've already wasted a lot of time.",
-        "pt": "[Est Loveloy]\nSim. Vamos embora. Perdemos muito tempo aqui.",
-        "es": "[Est Loveloy]\nSí. Vámonos. Perdimos demasiado tiempo aquí."
+        "ko-KR": "[에스트]\n그래. 이동하지. 시간이 많이 지체되었다.",
+        "en-US": "[Est]\nAlright. Let's move. We've already wasted a lot of time.",
+        "pt-BR": "[Est Loveloy]\nSim. Vamos embora. Perdemos muito tempo aqui.",
+        "es-ES": "[Est Loveloy]\nSí. Vámonos. Perdimos demasiado tiempo aquí."
     },
     "Wr/FBw": {
-        "ko": "[에스트]\n{0}, 살아 남아서 다시 보게될 줄은 몰랐어. 꽤 하는군 그래",
-        "en": "[Est]\n{0}, I didn't expect to see you again, alive. You're quite impressive.",
-        "pt": "[Est Loveloy]\nEu apostei que você não iria sobreviver, {0}, mas você foi muito bem.",
-        "es": "[Est Loveloy]\nAposté a que no sobrevivirías, {0}, pero lo hiciste muy bien."
+        "ko-KR": "[에스트]\n{0}, 살아 남아서 다시 보게될 줄은 몰랐어. 꽤 하는군 그래",
+        "en-US": "[Est]\n{0}, I didn't expect to see you again, alive. You're quite impressive.",
+        "pt-BR": "[Est Loveloy]\nEu apostei que você não iria sobreviver, {0}, mas você foi muito bem.",
+        "es-ES": "[Est Loveloy]\nAposté a que no sobrevivirías, {0}, pero lo hiciste muy bien."
     },
     "W7/FBw": {
-        "ko": "쓰러져있는 뮤턴트에 대해 묻는다",
-        "en": "Ask about the collapsed mutant.",
-        "pt": "E esse mutante no chão?",
-        "es": "¿Y ese mutante en el suelo?"
+        "ko-KR": "쓰러져있는 뮤턴트에 대해 묻는다",
+        "en-US": "Ask about the collapsed mutant.",
+        "pt-BR": "E esse mutante no chão?",
+        "es-ES": "¿Y ese mutante en el suelo?"
     },
     "XL/FBw": {
-        "ko": "[에스트]\n글쎄 그런걸 묻는다 해도... 나도 말하는 뮤턴트는 완전 처음이거든.",
-        "en": "[Est]\nWell, even if you ask me something like that... This is actually my first time seeing a talking mutant too.",
-        "pt": "[Est Loveloy]\nSei lá... é a primeira vez que eu vejo um mutante que fala.",
-        "es": "[Est Loveloy]\nNo lo sé... es la primera vez que veo un mutante que habla."
+        "ko-KR": "[에스트]\n글쎄 그런걸 묻는다 해도... 나도 말하는 뮤턴트는 완전 처음이거든.",
+        "en-US": "[Est]\nWell, even if you ask me something like that... This is actually my first time seeing a talking mutant too.",
+        "pt-BR": "[Est Loveloy]\nSei lá... é a primeira vez que eu vejo um mutante que fala.",
+        "es-ES": "[Est Loveloy]\nNo lo sé... es la primera vez que veo un mutante que habla."
     },
     "Xb/FBw": {
-        "ko": "[????]\n... 에스트?",
-        "en": "[????]\n... Est?",
-        "pt": "[????]\n... Est?",
-        "es": "[????]\n... ¿Est?"
+        "ko-KR": "[????]\n... 에스트?",
+        "en-US": "[????]\n... Est?",
+        "pt-BR": "[????]\n... Est?",
+        "es-ES": "[????]\n... ¿Est?"
     },
     "Xr/FBw": {
-        "ko": "[에스트]\n내 이름을 어떻게 알지? 넌 누구냐! 솔직하게 말하면 최소한 고통스럽지 않게 끝내주마.",
-        "en": "[Est]\nHow do you know my name? Who are you! If you tell me honestly, at least I'll make sure your end isn't painful.",
-        "pt": "[Est Loveloy]\nComo você sabe meu nome? Quem é você? Fale a verdade se quiser morrer tranquilamente.",
-        "es": "[Est Loveloy]\n¿Cómo sabes mi nombre? ¿Quién eres? Di la verdad si quieres morir en paz."
+        "ko-KR": "[에스트]\n내 이름을 어떻게 알지? 넌 누구냐! 솔직하게 말하면 최소한 고통스럽지 않게 끝내주마.",
+        "en-US": "[Est]\nHow do you know my name? Who are you! If you tell me honestly, at least I'll make sure your end isn't painful.",
+        "pt-BR": "[Est Loveloy]\nComo você sabe meu nome? Quem é você? Fale a verdade se quiser morrer tranquilamente.",
+        "es-ES": "[Est Loveloy]\n¿Cómo sabes mi nombre? ¿Quién eres? Di la verdad si quieres morir en paz."
     },
     "X7/FBw": {
-        "ko": "[????]\n에스트... 리벨리온 유령소대의... 미구엘 아저씨를 기억하나?",
-        "en": "[????]\nEst... Rebellion Do you remember Miguel from the Ghost Squad?",
-        "pt": "[????]\nEst... Você se lembra do sr. Miguel... do Pelotão Fantasma da Rebelião...?",
-        "es": "[????]\nEst... ¿recuerdas al Sr. Miguel... del Pelotón Fantasma de la Rebelión...?"
+        "ko-KR": "[????]\n에스트... 리벨리온 유령소대의... 미구엘 아저씨를 기억하나?",
+        "en-US": "[????]\nEst... Rebellion Do you remember Miguel from the Ghost Squad?",
+        "pt-BR": "[????]\nEst... Você se lembra do sr. Miguel... do Pelotão Fantasma da Rebelião...?",
+        "es-ES": "[????]\nEst... ¿recuerdas al Sr. Miguel... del Pelotón Fantasma de la Rebelión...?"
     },
     "YL/FBw": {
-        "ko": "[에스트]\n네놈이 어떻게 그 이름을...",
-        "en": "[Est]\nHow do you know that name...?",
-        "pt": "[Est Loveloy]\nComo você o conhece...?",
-        "es": "[Est Loveloy]\n¿Cómo lo conoces...?"
+        "ko-KR": "[에스트]\n네놈이 어떻게 그 이름을...",
+        "en-US": "[Est]\nHow do you know that name...?",
+        "pt-BR": "[Est Loveloy]\nComo você o conhece...?",
+        "es-ES": "[Est Loveloy]\n¿Cómo lo conoces...?"
     },
     "Yb/FBw": {
-        "ko": "[????]\n하... 하하... 아직 기억하고 있었구나.",
-        "en": "[????]\nHa... haha... You still remember, huh.",
-        "pt": "[????]\nHa... ha ha... Você ainda se lembra...",
-        "es": "[????]\nJa... ja ja... aún lo recuerdas..."
+        "ko-KR": "[????]\n하... 하하... 아직 기억하고 있었구나.",
+        "en-US": "[????]\nHa... haha... You still remember, huh.",
+        "pt-BR": "[????]\nHa... ha ha... Você ainda se lembra...",
+        "es-ES": "[????]\nJa... ja ja... aún lo recuerdas..."
     },
     "Yr/FBw": {
-        "ko": "^0000FF뮤턴트의 목에 걸린 인식표가 눈에 띈다^000000",
-        "en": "^0000FFA dog tag hanging around the mutant's neck catches your eye^000000",
-        "pt": "^0000FFO mutante aponta para uma placa de identificação no pescoço^000000",
-        "es": "^0000FFEl mutante señala una placa de identificación en su cuello^000000"
+        "ko-KR": "^0000FF뮤턴트의 목에 걸린 인식표가 눈에 띈다^000000",
+        "en-US": "^0000FFA dog tag hanging around the mutant's neck catches your eye^000000",
+        "pt-BR": "^0000FFO mutante aponta para uma placa de identificação no pescoço^000000",
+        "es-ES": "^0000FFEl mutante señala una placa de identificación en su cuello^000000"
     },
     "Y7/FBw": {
-        "ko": "인식표를 뜯어 에스트에게 넘긴다.",
-        "en": "Tear off the identification tag and hand it over to Est.",
-        "pt": "Pegar e entregar a Est.",
-        "es": "Tomarla y entregársela a Est."
+        "ko-KR": "인식표를 뜯어 에스트에게 넘긴다.",
+        "en-US": "Tear off the identification tag and hand it over to Est.",
+        "pt-BR": "Pegar e entregar a Est.",
+        "es-ES": "Tomarla y entregársela a Est."
     },
     "ZL/FBw": {
-        "ko": "[에스트]\n미...구엘...?",
-        "en": "[Est]\nMi...guel...?",
-        "pt": "[Est Loveloy]\n... Mi-Miguel?",
-        "es": "[Est Loveloy]\n... ¿Mi-Miguel?"
+        "ko-KR": "[에스트]\n미...구엘...?",
+        "en-US": "[Est]\nMi...guel...?",
+        "pt-BR": "[Est Loveloy]\n... Mi-Miguel?",
+        "es-ES": "[Est Loveloy]\n... ¿Mi-Miguel?"
     },
     "Zb/FBw": {
-        "ko": "[미구엘]\n... 에스트, 마지막에 보는게... 네 얼굴이라... 다행이구나.",
-        "en": "[Miguel]\n... Est, I'm glad... that the last thing I see... is your face.",
-        "pt": "[Miguel]\n...Est, estou feliz que a última coisa que eu vou ver antes de morrer... é o seu rosto.",
-        "es": "[Miguel]\n...Est, me alegra que lo último que veré antes de morir... sea tu rostro."
+        "ko-KR": "[미구엘]\n... 에스트, 마지막에 보는게... 네 얼굴이라... 다행이구나.",
+        "en-US": "[Miguel]\n... Est, I'm glad... that the last thing I see... is your face.",
+        "pt-BR": "[Miguel]\n...Est, estou feliz que a última coisa que eu vou ver antes de morrer... é o seu rosto.",
+        "es-ES": "[Miguel]\n...Est, me alegra que lo último que veré antes de morir... sea tu rostro."
     },
     "Zr/FBw": {
-        "ko": "[에스트]\n미구엘 아저씨!? 이게 어떻게 된거야!",
-        "en": "[Est]\nMiguel!? What happened here!?",
-        "pt": "[Est Loveloy]\nMiguel!? Como isso aconteceu?!",
-        "es": "[Est Loveloy]\n¡Miguel! ¡¿Cómo pasó esto?!"
+        "ko-KR": "[에스트]\n미구엘 아저씨!? 이게 어떻게 된거야!",
+        "en-US": "[Est]\nMiguel!? What happened here!?",
+        "pt-BR": "[Est Loveloy]\nMiguel!? Como isso aconteceu?!",
+        "es-ES": "[Est Loveloy]\n¡Miguel! ¡¿Cómo pasó esto?!"
     },
     "Z7/FBw": {
-        "ko": "[미구엘]\n죽기전에...옛 동료들을 보고싶었지... 그 소원을 오늘 푸는구나.",
-        "en": "[Miguel]\nBefore I die... I wanted to see my old comrades again... Today, that wish is finally coming true.",
-        "pt": "[Miguel]\nAntes de morrer... eu queria ver meus antigos colegas... hoje, esse desejo foi realizado.",
-        "es": "[Miguel]\nAntes de morir... quería ver a mis antiguos compañeros... hoy, ese deseo se cumplió."
+        "ko-KR": "[미구엘]\n죽기전에...옛 동료들을 보고싶었지... 그 소원을 오늘 푸는구나.",
+        "en-US": "[Miguel]\nBefore I die... I wanted to see my old comrades again... Today, that wish is finally coming true.",
+        "pt-BR": "[Miguel]\nAntes de morrer... eu queria ver meus antigos colegas... hoje, esse desejo foi realizado.",
+        "es-ES": "[Miguel]\nAntes de morir... quería ver a mis antiguos compañeros... hoy, ese deseo se cumplió."
     },
     "aL/FBw": {
-        "ko": "[에스트]\n아저씨! 이 모습은 뭐야. 대체 무슨일을 당한거야!",
-        "en": "[Est]\nMister! What happened to you? Why do you look like this? What on earth happened!",
-        "pt": "[Est Loveloy]\nMiguel! Por que você está desse jeito?!",
-        "es": "[Est Loveloy]\n¡Miguel! ¡¿Por qué estás así?!"
+        "ko-KR": "[에스트]\n아저씨! 이 모습은 뭐야. 대체 무슨일을 당한거야!",
+        "en-US": "[Est]\nMister! What happened to you? Why do you look like this? What on earth happened!",
+        "pt-BR": "[Est Loveloy]\nMiguel! Por que você está desse jeito?!",
+        "es-ES": "[Est Loveloy]\n¡Miguel! ¡¿Por qué estás así?!"
     },
     "ab/FBw": {
-        "ko": "[미구엘]\n크윽... 시간이 얼마... 남지 않은것 같구나... 잘 들어라 에스트.",
-        "en": "[Miguel]\nUgh... It seems I don't have much time left... Listen carefully, Est.",
-        "pt": "[Miguel]\nUgh... não tenho muito tempo... ouça com atenção, Est.",
-        "es": "[Miguel]\nUgh... no me queda mucho tiempo... escucha con atención, Est."
+        "ko-KR": "[미구엘]\n크윽... 시간이 얼마... 남지 않은것 같구나... 잘 들어라 에스트.",
+        "en-US": "[Miguel]\nUgh... It seems I don't have much time left... Listen carefully, Est.",
+        "pt-BR": "[Miguel]\nUgh... não tenho muito tempo... ouça com atenção, Est.",
+        "es-ES": "[Miguel]\nUgh... no me queda mucho tiempo... escucha con atención, Est."
     },
     "ar/FBw": {
-        "ko": "[미구엘]\n이곳 어딘가에... 레겐쉬름의 미친 연구성과를... 기록해둔 곳이 있을거다.",
-        "en": "[Miguel]\nSomewhere around here... there must be a place where the insane research results of Regenschirm are recorded.",
-        "pt": "[Miguel]\nEm algum lugar daqui... existe um registro... das pesquisas antiéticas da Regenschirm.",
-        "es": "[Miguel]\nEn algún lugar de aquí... existe un registro... de las investigaciones poco éticas de Regenschirm."
+        "ko-KR": "[미구엘]\n이곳 어딘가에... 레겐쉬름의 미친 연구성과를... 기록해둔 곳이 있을거다.",
+        "en-US": "[Miguel]\nSomewhere around here... there must be a place where the insane research results of Regenschirm are recorded.",
+        "pt-BR": "[Miguel]\nEm algum lugar daqui... existe um registro... das pesquisas antiéticas da Regenschirm.",
+        "es-ES": "[Miguel]\nEn algún lugar de aquí... existe un registro... de las investigaciones poco éticas de Regenschirm."
     },
     "a7/FBw": {
-        "ko": "[미구엘]\n그걸 찾아... 그럼 나에 대한것도... 이곳의 설명안되는 일들도 알 수 있을거야.",
-        "en": "[Miguel]\nIf you find that... then you'll also be able to learn about me... and the things in this place that can't be explained.",
-        "pt": "[Miguel]\nEncontre esse registro... Assim você vai descobrir o que aconteceu... e as coisas inexplicáveis daqui.",
-        "es": "[Miguel]\nEncuentra ese registro... así descubrirás lo que pasó... y las cosas inexplicables de este lugar."
+        "ko-KR": "[미구엘]\n그걸 찾아... 그럼 나에 대한것도... 이곳의 설명안되는 일들도 알 수 있을거야.",
+        "en-US": "[Miguel]\nIf you find that... then you'll also be able to learn about me... and the things in this place that can't be explained.",
+        "pt-BR": "[Miguel]\nEncontre esse registro... Assim você vai descobrir o que aconteceu... e as coisas inexplicáveis daqui.",
+        "es-ES": "[Miguel]\nEncuentra ese registro... así descubrirás lo que pasó... y las cosas inexplicables de este lugar."
     },
     "bL/FBw": {
-        "ko": "[에스트]\n아저씨! 정신차려!! 나가자. 나가면 살 수 있을거야!",
-        "en": "[Est]\nMister! Get a hold of yourself!! Let's get out of here. If we go outside, we can survive!",
-        "pt": "[Est Loveloy]\nMiguel! Calma! Vamos sair daqui, você não precisa morrer!",
-        "es": "[Est Loveloy]\n¡Miguel! ¡Tranquilo! ¡Salgamos de aquí, no tienes que morir!"
+        "ko-KR": "[에스트]\n아저씨! 정신차려!! 나가자. 나가면 살 수 있을거야!",
+        "en-US": "[Est]\nMister! Get a hold of yourself!! Let's get out of here. If we go outside, we can survive!",
+        "pt-BR": "[Est Loveloy]\nMiguel! Calma! Vamos sair daqui, você não precisa morrer!",
+        "es-ES": "[Est Loveloy]\n¡Miguel! ¡Tranquilo! ¡Salgamos de aquí, no tienes que morir!"
     },
     "bb/FBw": {
-        "ko": "[미구엘]\n에스트... 여전히 정이 많구나...그런 마음은... 전장에서 독...이라고.. 가르쳤...지 않...느냐...",
-        "en": "[Miguel]\nEst... You're still so compassionate... Didn't I teach you... that such feelings... are poison... on the battlefield...?",
-        "pt": "[Miguel]\nEst... você ainda tem o coração mole... você me ensinou que isso... não era...",
-        "es": "[Miguel]\nEst... aún tienes el corazón blando... tú me enseñaste que eso... no era..."
+        "ko-KR": "[미구엘]\n에스트... 여전히 정이 많구나...그런 마음은... 전장에서 독...이라고.. 가르쳤...지 않...느냐...",
+        "en-US": "[Miguel]\nEst... You're still so compassionate... Didn't I teach you... that such feelings... are poison... on the battlefield...?",
+        "pt-BR": "[Miguel]\nEst... você ainda tem o coração mole... você me ensinou que isso... não era...",
+        "es-ES": "[Miguel]\nEst... aún tienes el corazón blando... tú me enseñaste que eso... no era..."
     },
     "br/FBw": {
-        "ko": "[에스트]\n아저씨!! 아저씨!!",
-        "en": "[Est]\nMister!! Mister!!",
-        "pt": "[Est Loveloy]\nMiguel!! Miguel!!",
-        "es": "[Est Loveloy]\n¡¡Miguel!! ¡¡Miguel!!"
+        "ko-KR": "[에스트]\n아저씨!! 아저씨!!",
+        "en-US": "[Est]\nMister!! Mister!!",
+        "pt-BR": "[Est Loveloy]\nMiguel!! Miguel!!",
+        "es-ES": "[Est Loveloy]\n¡¡Miguel!! ¡¡Miguel!!"
     },
     "b7/FBw": {
-        "ko": "[미구엘]\n......",
-        "en": "[Miguel]\n......",
-        "pt": "[Miguel]\n.........",
-        "es": "[Miguel]\n........."
+        "ko-KR": "[미구엘]\n......",
+        "en-US": "[Miguel]\n......",
+        "pt-BR": "[Miguel]\n.........",
+        "es-ES": "[Miguel]\n........."
     },
     "cL/FBw": {
-        "ko": "^0000FF이미 숨이 끊긴 것 같다^000000",
-        "en": "^0000FFIt seems to have already stopped breathing^000000",
-        "pt": "^0000FFEle não respira.^000000",
-        "es": "^0000FFNo respira.^000000"
+        "ko-KR": "^0000FF이미 숨이 끊긴 것 같다^000000",
+        "en-US": "^0000FFIt seems to have already stopped breathing^000000",
+        "pt-BR": "^0000FFEle não respira.^000000",
+        "es-ES": "^0000FFNo respira.^000000"
     },
     "cb/FBw": {
-        "ko": "[????]\n크르르... 넌 레겐쉬름의 끄나풀이 아닌가보군. 저 자와 할 말이 있으니 비켜주겠나.",
-        "en": "[????]\nGrrr... You must not be one of Regenchirm's lackeys. I have something to discuss with that person, so would you step aside?",
-        "pt": "[????]\nUgh... Se você não é da Regenschirm, deixe-me falar com ela, por favor...",
-        "es": "[????]\nUgh... Si no eres de Regenschirm, por favor... déjame hablar con ella..."
+        "ko-KR": "[????]\n크르르... 넌 레겐쉬름의 끄나풀이 아닌가보군. 저 자와 할 말이 있으니 비켜주겠나.",
+        "en-US": "[????]\nGrrr... You must not be one of Regenchirm's lackeys. I have something to discuss with that person, so would you step aside?",
+        "pt-BR": "[????]\nUgh... Se você não é da Regenschirm, deixe-me falar com ela, por favor...",
+        "es-ES": "[????]\nUgh... Si no eres de Regenschirm, por favor... déjame hablar con ella..."
     },
     "cr/FBw": {
-        "ko": "^0000FF생명력이 다 해가는지 힘이 없이 말하는 뮤턴트^000000",
-        "en": "The mutant, speaking weakly as if its life is coming to an end^000000",
-        "pt": "^0000FFO mutante parece estar perdendo fôlego^000000",
-        "es": "^0000FFEl mutante parece estar perdiendo el aliento^000000"
+        "ko-KR": "^0000FF생명력이 다 해가는지 힘이 없이 말하는 뮤턴트^000000",
+        "en-US": "The mutant, speaking weakly as if its life is coming to an end^000000",
+        "pt-BR": "^0000FFO mutante parece estar perdendo fôlego^000000",
+        "es-ES": "^0000FFEl mutante parece estar perdiendo el aliento^000000"
     }
 }

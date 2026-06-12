@@ -1,1057 +1,1057 @@
 {
     "4G2BCA": {
-        "en": "Controller",
-        "pt": "Controlador Temporal",
-        "es": "Controlador"
+        "en-US": "Controller",
+        "pt-BR": "Controlador Temporal",
+        "es-ES": "Controlador"
     },
     "4W2BCA": {
-        "en": "Please try again after installing a special item.",
-        "pt": "Tente novamente depois de instalar um item especial.",
-        "es": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
+        "en-US": "Please try again after installing a special item.",
+        "pt-BR": "Tente novamente depois de instalar um item especial.",
+        "es-ES": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
     },
     "4m2BCA": {
-        "en": "[Time controller]\nWant a time travel?",
-        "pt": "[Controlador Temporal]\nQuer fazer uma viagem no tempo?",
-        "es": "[Controlador del tiempo]\n¿Quieres viajar en el tiempo?"
+        "en-US": "[Time controller]\nWant a time travel?",
+        "pt-BR": "[Controlador Temporal]\nQuer fazer uma viagem no tempo?",
+        "es-ES": "[Controlador del tiempo]\n¿Quieres viajar en el tiempo?"
     },
     "422BCA": {
-        "en": "No",
-        "pt": "Não",
-        "es": "No."
+        "en-US": "No",
+        "pt-BR": "Não",
+        "es-ES": "No."
     },
     "5G2BCA": {
-        "en": "Sector 2 Start",
-        "pt": "Começar do Setor 2",
-        "es": "Iniciar sector2."
+        "en-US": "Sector 2 Start",
+        "pt-BR": "Começar do Setor 2",
+        "es-ES": "Iniciar sector2."
     },
     "5W2BCA": {
-        "en": "Sector 3 Start(Domun on)",
-        "pt": "Começar do Setor 3 (Domun Ativa)",
-        "es": "Iniciar sector3 (Domun)."
+        "en-US": "Sector 3 Start(Domun on)",
+        "pt-BR": "Começar do Setor 3 (Domun Ativa)",
+        "es-ES": "Iniciar sector3 (Domun)."
     },
     "5m2BCA": {
-        "en": "Sector 4 Start(Holgren on)",
-        "pt": "Começar do Setor 4 (Holgren Ativa)",
-        "es": "Iniciar sector4 (Holgren)."
+        "en-US": "Sector 4 Start(Holgren on)",
+        "pt-BR": "Começar do Setor 4 (Holgren Ativa)",
+        "es-ES": "Iniciar sector4 (Holgren)."
     },
     "522BCA": {
-        "en": "Sector 4 Boss Start(Himmelmez on)",
-        "pt": "Começar do Chefe do Setor 4 (Himmelmez Ativa)",
-        "es": "Iniciar jefe de sector4 (Himmelmez)."
+        "en-US": "Sector 4 Boss Start(Himmelmez on)",
+        "pt-BR": "Começar do Chefe do Setor 4 (Himmelmez Ativa)",
+        "es-ES": "Iniciar jefe de sector4 (Himmelmez)."
     },
     "6G2BCA": {
-        "en": "Secret room setting",
-        "pt": "Configuração da Sala secreta",
-        "es": "Configuración de sala secreta."
+        "en-US": "Secret room setting",
+        "pt-BR": "Configuração da Sala secreta",
+        "es-ES": "Configuración de sala secreta."
     },
     "6W2BCA": {
-        "en": "Khalitzburg Knightage",
-        "pt": "Khalitzburg",
-        "es": "Khalitzburg Knightage"
+        "en-US": "Khalitzburg Knightage",
+        "pt-BR": "Khalitzburg",
+        "es-ES": "Khalitzburg Knightage"
     },
     "6m2BCA": {
-        "en": "[Khalitzburg Knightage]\nMy work shift will be over soon, but the next crew is not coming.",
-        "pt": "[Khalitzburg]\nMeu turno vai acabar em breve, mas a próxima equipe ainda não veio.",
-        "es": "[Caballera de Khalitzburg]\nMi turno de trabajo terminará pronto, pero el siguiente equipo aún no ha llegado."
+        "en-US": "[Khalitzburg Knightage]\nMy work shift will be over soon, but the next crew is not coming.",
+        "pt-BR": "[Khalitzburg]\nMeu turno vai acabar em breve, mas a próxima equipe ainda não veio.",
+        "es-ES": "[Caballera de Khalitzburg]\nMi turno de trabajo terminará pronto, pero el siguiente equipo aún no ha llegado."
     },
     "622BCA": {
-        "en": "White knight",
-        "pt": "Cavaleiro Branco",
-        "es": "Caballero blanco"
+        "en-US": "White knight",
+        "pt-BR": "Cavaleiro Branco",
+        "es-ES": "Caballero blanco"
     },
     "7G2BCA": {
-        "en": "[White knight]\nAre you with Varmunt? Commander is waiting for you.",
-        "pt": "[Cavaleiro Branco]\nVocê está com o Sr. Varmunt? O comandante está te esperando.",
-        "es": "[Caballero Blanco]\n¿Estás con Varmunt? El comandante te está esperando."
+        "en-US": "[White knight]\nAre you with Varmunt? Commander is waiting for you.",
+        "pt-BR": "[Cavaleiro Branco]\nVocê está com o Sr. Varmunt? O comandante está te esperando.",
+        "es-ES": "[Caballero Blanco]\n¿Estás con Varmunt? El comandante te está esperando."
     },
     "7W2BCA": {
-        "en": "[Khalitzburg Knightage]\nI had a weird dream last night. My mom was in it... Wonder if she is ok...",
-        "pt": "[Khalitzburg]\nEu tive um sonho esquisito ontem à noite. Minha mãe estava nele... Será que ela está bem?...",
-        "es": "[Caballera de Khalitzburg]\nAnoche tuve un sueño extraño. Estaba mi madre… Me pregunto si estará bien…"
+        "en-US": "[Khalitzburg Knightage]\nI had a weird dream last night. My mom was in it... Wonder if she is ok...",
+        "pt-BR": "[Khalitzburg]\nEu tive um sonho esquisito ontem à noite. Minha mãe estava nele... Será que ela está bem?...",
+        "es-ES": "[Caballera de Khalitzburg]\nAnoche tuve un sueño extraño. Estaba mi madre… Me pregunto si estará bien…"
     },
     "7m2BCA": {
-        "en": "[White knight]\nPlease do not make a mess here.",
-        "pt": "[Cavaleiro Branco]\nPor favor, não faça bagunça aqui.",
-        "es": "[Caballero Blanco]\nPor favor, no desordenes."
+        "en-US": "[White knight]\nPlease do not make a mess here.",
+        "pt-BR": "[Cavaleiro Branco]\nPor favor, não faça bagunça aqui.",
+        "es-ES": "[Caballero Blanco]\nPor favor, no desordenes."
     },
     "722BCA": {
-        "en": "[Khalitzburg Knightage]\nOrders please.",
-        "pt": "[Khalitzburg]\nOrdem, por favor.",
-        "es": "[Caballera de Khalitzburg]\nOrden, por favor."
+        "en-US": "[Khalitzburg Knightage]\nOrders please.",
+        "pt-BR": "[Khalitzburg]\nOrdem, por favor.",
+        "es-ES": "[Caballera de Khalitzburg]\nOrden, por favor."
     },
     "8G2BCA": {
-        "en": "[White knight]\nHow do you know Varmunt? I heard that he's not really a friendly man...",
-        "pt": "[Cavaleiro Branco]\nComo você conhece o Sr. Varmunt? Eu fiquei sabendo que ele não é uma pessoa muito amigável...",
-        "es": "[Caballero Blanco]\n¿Cómo conoces a Varmunt? Escuché que no es una persona muy amigable…"
+        "en-US": "[White knight]\nHow do you know Varmunt? I heard that he's not really a friendly man...",
+        "pt-BR": "[Cavaleiro Branco]\nComo você conhece o Sr. Varmunt? Eu fiquei sabendo que ele não é uma pessoa muito amigável...",
+        "es-ES": "[Caballero Blanco]\n¿Cómo conoces a Varmunt? Escuché que no es una persona muy amigable…"
     },
     "8W2BCA": {
-        "en": "[Khalitzburg Knightage]\nDoesn't this castle seem weird all of a sudden? Something's not quite right.",
-        "pt": "[Khalitzburg]\nEsse castelo não ficou estranho de repente? Alguma coisa não está certa.",
-        "es": "[Caballera de Khalitzburg]\n¿No te parece raro este castillo de repente? Algo no está bien."
+        "en-US": "[Khalitzburg Knightage]\nDoesn't this castle seem weird all of a sudden? Something's not quite right.",
+        "pt-BR": "[Khalitzburg]\nEsse castelo não ficou estranho de repente? Alguma coisa não está certa.",
+        "es-ES": "[Caballera de Khalitzburg]\n¿No te parece raro este castillo de repente? Algo no está bien."
     },
     "8m2BCA": {
-        "en": "[White knight]\nI do not like to chat during work.",
-        "pt": "[Cavaleiro Branco]\nEu não gosto de conversas durante o expediente de trabalho.",
-        "es": "[Caballero Blanco]\nNo me gusta charlar durante el trabajo."
+        "en-US": "[White knight]\nI do not like to chat during work.",
+        "pt-BR": "[Cavaleiro Branco]\nEu não gosto de conversas durante o expediente de trabalho.",
+        "es-ES": "[Caballero Blanco]\nNo me gusta charlar durante el trabajo."
     },
     "822BCA": {
-        "en": "[Khalitzburg Knightage]\n...",
-        "pt": "[Khalitzburg]\n...",
-        "es": "[Caballera de Khalitzburg]\n…"
+        "en-US": "[Khalitzburg Knightage]\n...",
+        "pt-BR": "[Khalitzburg]\n...",
+        "es-ES": "[Caballera de Khalitzburg]\n…"
     },
     "9G2BCA": {
-        "en": "[White knight]\nWhat can I do for you?",
-        "pt": "[Cavaleiro Branco]\nEm que posso ajudar?",
-        "es": "[Caballero Blanco]\n¿En qué te puedo ayudar?"
+        "en-US": "[White knight]\nWhat can I do for you?",
+        "pt-BR": "[Cavaleiro Branco]\nEm que posso ajudar?",
+        "es-ES": "[Caballero Blanco]\n¿En qué te puedo ayudar?"
     },
     "9W2BCA": {
-        "en": "[Khalitzburg Knightage]\nIs there something you need?",
-        "pt": "[Khalitzburg]\nEstá precisando de alguma coisa?",
-        "es": "[Caballera de Khalitzburg]\n¿Necesitas algo?"
+        "en-US": "[Khalitzburg Knightage]\nIs there something you need?",
+        "pt-BR": "[Khalitzburg]\nEstá precisando de alguma coisa?",
+        "es-ES": "[Caballera de Khalitzburg]\n¿Necesitas algo?"
     },
     "9m2BCA": {
-        "en": "[Khalitzburg Knightage]\nSomething you want to tell me?",
-        "pt": "[Khalitzburg]\nVocê quer me contar alguma coisa?",
-        "es": "[Caballera de Khalitzburg]\n¿Hay algo que quieras decirme?"
+        "en-US": "[Khalitzburg Knightage]\nSomething you want to tell me?",
+        "pt-BR": "[Khalitzburg]\nVocê quer me contar alguma coisa?",
+        "es-ES": "[Caballera de Khalitzburg]\n¿Hay algo que quieras decirme?"
     },
     "922BCA": {
-        "en": "[White knight]\nMy work shift will be over soon, but the next crew is not coming.",
-        "pt": "[Cavaleiro Branco]\nMeu turno vai acabar em breve, mas a próxima equipe ainda não veio.",
-        "es": "[Caballera de Khalitzburg]\nMi turno de trabajo terminará pronto, pero el siguiente equipo aún no ha llegado."
+        "en-US": "[White knight]\nMy work shift will be over soon, but the next crew is not coming.",
+        "pt-BR": "[Cavaleiro Branco]\nMeu turno vai acabar em breve, mas a próxima equipe ainda não veio.",
+        "es-ES": "[Caballera de Khalitzburg]\nMi turno de trabajo terminará pronto, pero el siguiente equipo aún no ha llegado."
     },
     "+G2BCA": {
-        "en": "[Khalitzburg Knightage]\nAre you with Varmunt? Commander is waiting for you.",
-        "pt": "[Khalitzburg]\nVocê está com o Sr. Varmunt? O comandante está te esperando.",
-        "es": "[Caballera de Khalitzburg]\n¿Estás con Varmunt? El comandante te está esperando."
+        "en-US": "[Khalitzburg Knightage]\nAre you with Varmunt? Commander is waiting for you.",
+        "pt-BR": "[Khalitzburg]\nVocê está com o Sr. Varmunt? O comandante está te esperando.",
+        "es-ES": "[Caballera de Khalitzburg]\n¿Estás con Varmunt? El comandante te está esperando."
     },
     "+W2BCA": {
-        "en": "[Khalitzburg Knightage]\nOrder please.",
-        "pt": "[Khalitzburg]\nOrdem, por favor.",
-        "es": "[Caballera de Khalitzburg]\nOrden, por favor."
+        "en-US": "[Khalitzburg Knightage]\nOrder please.",
+        "pt-BR": "[Khalitzburg]\nOrdem, por favor.",
+        "es-ES": "[Caballera de Khalitzburg]\nOrden, por favor."
     },
     "+m2BCA": {
-        "en": "Varmunt",
-        "pt": "Varmunt",
-        "es": "Varmunt"
+        "en-US": "Varmunt",
+        "pt-BR": "Varmunt",
+        "es-ES": "Varmunt"
     },
     "+22BCA": {
-        "en": "[Varmunt]\nAre you the one ^0000FFHerico^000000 sent to help me?",
-        "pt": "[Varmunt]\nFoi você quem o ^0000FFHerico^000000 mandou para me ajudar?",
-        "es": "[Varmunt]\n¿Eres la persona que ^0000FFHerico^000000 envió para ayudarme?"
+        "en-US": "[Varmunt]\nAre you the one ^0000FFHerico^000000 sent to help me?",
+        "pt-BR": "[Varmunt]\nFoi você quem o ^0000FFHerico^000000 mandou para me ajudar?",
+        "es-ES": "[Varmunt]\n¿Eres la persona que ^0000FFHerico^000000 envió para ayudarme?"
     },
     "/G2BCA": {
-        "en": "Varmunt: Are you the one Herico sent to help me?",
-        "pt": "Varmunt: Foi você quem o Herico mandou para me ajudar??",
-        "es": "Varmunt: ¿Eres la persona que Herico envió para ayudarme?"
+        "en-US": "Varmunt: Are you the one Herico sent to help me?",
+        "pt-BR": "Varmunt: Foi você quem o Herico mandou para me ajudar??",
+        "es-ES": "Varmunt: ¿Eres la persona que Herico envió para ayudarme?"
     },
     "/W2BCA": {
-        "en": "[Varmunt]\nWhere's your leader? I need his help.",
-        "pt": "[Varmunt]\nOnde está o seu líder? Eu preciso da ajuda dele.",
-        "es": "[Varmunt]\n¿Dónde está tu líder? Necesito su ayuda."
+        "en-US": "[Varmunt]\nWhere's your leader? I need his help.",
+        "pt-BR": "[Varmunt]\nOnde está o seu líder? Eu preciso da ajuda dele.",
+        "es-ES": "[Varmunt]\n¿Dónde está tu líder? Necesito su ayuda."
     },
     "/m2BCA": {
-        "en": "Oh. Well I...",
-        "pt": "Oh. Bem, eu...",
-        "es": "Ah. Bueno, yo…"
+        "en-US": "Oh. Well I...",
+        "pt-BR": "Oh. Bem, eu...",
+        "es-ES": "Ah. Bueno, yo…"
     },
     "/22BCA": {
-        "en": "[{0}]\nAh yes, I am. Herico told me to meet you.",
-        "pt": "[{0}]\nAh sim, sou eu. Herico me disse pra te encontrar, sábio Varmunt.",
-        "es": "[{0}]\nAh, sí. Soy yo. Herico me dijo que te buscara."
+        "en-US": "[{0}]\nAh yes, I am. Herico told me to meet you.",
+        "pt-BR": "[{0}]\nAh sim, sou eu. Herico me disse pra te encontrar, sábio Varmunt.",
+        "es-ES": "[{0}]\nAh, sí. Soy yo. Herico me dijo que te buscara."
     },
     "AG6BCA": {
-        "en": "Ah yes, I am. Herico told me to meet you.",
-        "pt": "Ah sim, sou eu. Herico me disse pra te encontrar, sábio Varmunt.",
-        "es": "Ah, sí. Herico me dijo que te conociera."
+        "en-US": "Ah yes, I am. Herico told me to meet you.",
+        "pt-BR": "Ah sim, sou eu. Herico me disse pra te encontrar, sábio Varmunt.",
+        "es-ES": "Ah, sí. Herico me dijo que te conociera."
     },
     "AW6BCA": {
-        "en": "[Varmunt]\nWe don't have much time. We must report to Sir. Heinrich about Himmelmez' invasion.",
-        "pt": "[Varmunt]\nNão temos muito tempo. Precisamos relatar para o Sir Heinrich sobre a invasão de Himmelmez.",
-        "es": "[Varmunt]\nNo tenemos mucho tiempo. Debemos informar al Sr.Heinrich sobre la invasión de Himmelmez."
+        "en-US": "[Varmunt]\nWe don't have much time. We must report to Sir. Heinrich about Himmelmez' invasion.",
+        "pt-BR": "[Varmunt]\nNão temos muito tempo. Precisamos relatar para o Sir Heinrich sobre a invasão de Himmelmez.",
+        "es-ES": "[Varmunt]\nNo tenemos mucho tiempo. Debemos informar al Sr.Heinrich sobre la invasión de Himmelmez."
     },
     "Am6BCA": {
-        "en": "Varmunt: We don't have much time. We must report to Sir. Heinrich about Himmelmez' invasion.",
-        "pt": "Varmunt: Não temos muito tempo. Precisamos relatar para o Sir Heinrich sobre a invasão de Himmelmez.",
-        "es": "Varmunt: No tenemos mucho tiempo. Debemos informar al Señor. Heinrich sobre la invasión de Himmelmez."
+        "en-US": "Varmunt: We don't have much time. We must report to Sir. Heinrich about Himmelmez' invasion.",
+        "pt-BR": "Varmunt: Não temos muito tempo. Precisamos relatar para o Sir Heinrich sobre a invasão de Himmelmez.",
+        "es-ES": "Varmunt: No tenemos mucho tiempo. Debemos informar al Señor. Heinrich sobre la invasión de Himmelmez."
     },
     "A26BCA": {
-        "en": "Himmelmez...",
-        "pt": "Himmelmez...",
-        "es": "Himmelmez…"
+        "en-US": "Himmelmez...",
+        "pt-BR": "Himmelmez...",
+        "es-ES": "Himmelmez…"
     },
     "BG6BCA": {
-        "en": "[{0}]\nWho is Himmelmez?",
-        "pt": "[{0}]\nQuem é Himmelmez?",
-        "es": "[{0}]\n¿Quién es Himmelmez?"
+        "en-US": "[{0}]\nWho is Himmelmez?",
+        "pt-BR": "[{0}]\nQuem é Himmelmez?",
+        "es-ES": "[{0}]\n¿Quién es Himmelmez?"
     },
     "BW6BCA": {
-        "en": "Who is Himmelmez?",
-        "pt": "Quem é Himmelmez?",
-        "es": "¿Quién es Himmelmez?"
+        "en-US": "Who is Himmelmez?",
+        "pt-BR": "Quem é Himmelmez?",
+        "es-ES": "¿Quién es Himmelmez?"
     },
     "Bm6BCA": {
-        "en": "[Varmunt]\nHerico didn't tell you?",
-        "pt": "[Varmunt]\nHeinrich não te contou nem as coisas básicas?",
-        "es": "[Varmunt]\n¿Herico no te lo dijo?"
+        "en-US": "[Varmunt]\nHerico didn't tell you?",
+        "pt-BR": "[Varmunt]\nHeinrich não te contou nem as coisas básicas?",
+        "es-ES": "[Varmunt]\n¿Herico no te lo dijo?"
     },
     "B26BCA": {
-        "en": "Varmunt: Herico didn't tell you?",
-        "pt": "Heinrich não te contou nem as coisas básicas?",
-        "es": "Varmunt: ¿Herico no te lo dijo?"
+        "en-US": "Varmunt: Herico didn't tell you?",
+        "pt-BR": "Heinrich não te contou nem as coisas básicas?",
+        "es-ES": "Varmunt: ¿Herico no te lo dijo?"
     },
     "CG6BCA": {
-        "en": "[Varmunt]\nShe is the Ruler of Death, Dead man's Valkyrie. Himmelmez is looking to take the heart of Ymir from us.",
-        "pt": "[Varmunt]\nSenhora da Morte, Valquíria dos Mortos. Himmelmez quer roubar de nós o coração de Ymir.",
-        "es": "[Varmunt]\nEs la soberana de la muerte, la valkiria de los muertos. Himmelmez intenta quitarnos el corazón de Ymir."
+        "en-US": "[Varmunt]\nShe is the Ruler of Death, Dead man's Valkyrie. Himmelmez is looking to take the heart of Ymir from us.",
+        "pt-BR": "[Varmunt]\nSenhora da Morte, Valquíria dos Mortos. Himmelmez quer roubar de nós o coração de Ymir.",
+        "es-ES": "[Varmunt]\nEs la soberana de la muerte, la valkiria de los muertos. Himmelmez intenta quitarnos el corazón de Ymir."
     },
     "CW6BCA": {
-        "en": "Varmunt: She is the Ruler of Death, Dead man's Valkyrie. Himmelmez is looking to take the heart of Ymir from us.",
-        "pt": "Varmunt: Senhora da Morte, Valquíria dos Mortos. Himmelmez quer roubar de nós o coração de Ymir.",
-        "es": "Varmunt: Es la soberana de la muerte, la valquiria del hombre muerto. Himmelmez busca quitarnos el corazón de Ymir."
+        "en-US": "Varmunt: She is the Ruler of Death, Dead man's Valkyrie. Himmelmez is looking to take the heart of Ymir from us.",
+        "pt-BR": "Varmunt: Senhora da Morte, Valquíria dos Mortos. Himmelmez quer roubar de nós o coração de Ymir.",
+        "es-ES": "Varmunt: Es la soberana de la muerte, la valquiria del hombre muerto. Himmelmez busca quitarnos el corazón de Ymir."
     },
     "Cm6BCA": {
-        "en": "[Varmunt]\nShe might even destroy this whole castle if she wanted to.",
-        "pt": "[Varmunt]\nSe for necessário, ela destruirá todo o castelo...",
-        "es": "[Varmunt]\nPodría incluso destruir todo el castillo si quisiera."
+        "en-US": "[Varmunt]\nShe might even destroy this whole castle if she wanted to.",
+        "pt-BR": "[Varmunt]\nSe for necessário, ela destruirá todo o castelo...",
+        "es-ES": "[Varmunt]\nPodría incluso destruir todo el castillo si quisiera."
     },
     "C26BCA": {
-        "en": "Varmunt: She might even destroy this whole castle if she wanted to.",
-        "pt": "Varmunt: Se for necessário, ela destruirá todo o castelo...",
-        "es": "Varmunt: Podría incluso destruir todo el castillo si quisiera."
+        "en-US": "Varmunt: She might even destroy this whole castle if she wanted to.",
+        "pt-BR": "Varmunt: Se for necessário, ela destruirá todo o castelo...",
+        "es-ES": "Varmunt: Podría incluso destruir todo el castillo si quisiera."
     },
     "DG6BCA": {
-        "en": "[Varmunt]\nHurry! Report to Sir, Heinrich about Himmelmez. I must check the defense barrier here!",
-        "pt": "[Varmunt]\nRápido! Relate para o Sir Heinrich sobre Himmelmez. Eu devo verificar as barreiras de defesa aqui!",
-        "es": "[Varmunt]\n¡Date prisa! Informa al señor Heinrich sobre Himmelmez. ¡Debo comprobar la barrera de defensa aquí!"
+        "en-US": "[Varmunt]\nHurry! Report to Sir, Heinrich about Himmelmez. I must check the defense barrier here!",
+        "pt-BR": "[Varmunt]\nRápido! Relate para o Sir Heinrich sobre Himmelmez. Eu devo verificar as barreiras de defesa aqui!",
+        "es-ES": "[Varmunt]\n¡Date prisa! Informa al señor Heinrich sobre Himmelmez. ¡Debo comprobar la barrera de defensa aquí!"
     },
     "DW6BCA": {
-        "en": "Varmunt: Hurry! Report to Sir, Heinrich about Himmelmez. I must check the defense barrier here!",
-        "pt": "Varmunt: Rápido! Relate para o Sir Heinrich sobre Himmelmez. Eu devo verificar as barreiras de defesa aqui!",
-        "es": "Varmunt: ¡Date prisa! Informe al señor Heinrich sobre Himmelmez. ¡Debo comprobar la barrera de defensa aquí!"
+        "en-US": "Varmunt: Hurry! Report to Sir, Heinrich about Himmelmez. I must check the defense barrier here!",
+        "pt-BR": "Varmunt: Rápido! Relate para o Sir Heinrich sobre Himmelmez. Eu devo verificar as barreiras de defesa aqui!",
+        "es-ES": "Varmunt: ¡Date prisa! Informe al señor Heinrich sobre Himmelmez. ¡Debo comprobar la barrera de defensa aquí!"
     },
     "Dm6BCA": {
-        "en": "Heinrich",
-        "pt": "Heinrich",
-        "es": "Heinrich"
+        "en-US": "Heinrich",
+        "pt-BR": "Heinrich",
+        "es-ES": "Heinrich"
     },
     "D26BCA": {
-        "en": "[Heinrich]\nWhere is your leader? I must talk to him.",
-        "pt": "[Heinrich]\nOnde está o seu líder? Eu preciso falar com ele.",
-        "es": "[Heinrich]\n¿Dónde está tu líder? Debo hablar con él."
+        "en-US": "[Heinrich]\nWhere is your leader? I must talk to him.",
+        "pt-BR": "[Heinrich]\nOnde está o seu líder? Eu preciso falar com ele.",
+        "es-ES": "[Heinrich]\n¿Dónde está tu líder? Debo hablar con él."
     },
     "EG6BCA": {
-        "en": "Sir, Heinrich. Varmunt...",
-        "pt": "Sir Heinrich. Você deveria verificar o castelo agora...",
-        "es": "Señor Heinrich, Varmunt…"
+        "en-US": "Sir, Heinrich. Varmunt...",
+        "pt-BR": "Sir Heinrich. Você deveria verificar o castelo agora...",
+        "es-ES": "Señor Heinrich, Varmunt…"
     },
     "EW6BCA": {
-        "en": "[{0}]\nSir, Heinrich. Do you know what is happening in the castle now?",
-        "pt": "[{0}]\nSenhor Heinrich. Você sabe o que está acontecendo no castelo agora?",
-        "es": "[{0}]\nSeñor, Heinrich. ¿Sabes lo que está pasando ahora en el castillo?"
+        "en-US": "[{0}]\nSir, Heinrich. Do you know what is happening in the castle now?",
+        "pt-BR": "[{0}]\nSenhor Heinrich. Você sabe o que está acontecendo no castelo agora?",
+        "es-ES": "[{0}]\nSeñor, Heinrich. ¿Sabes lo que está pasando ahora en el castillo?"
     },
     "Em6BCA": {
-        "en": "Sir, Heinrich. Do you know what is happening in the castle now?",
-        "pt": "Senhor Heinrich. Você sabe o que está acontecendo no castelo agora?",
-        "es": "Señor, Heinrich. ¿Sabes lo que está pasando ahora en el castillo?"
+        "en-US": "Sir, Heinrich. Do you know what is happening in the castle now?",
+        "pt-BR": "Senhor Heinrich. Você sabe o que está acontecendo no castelo agora?",
+        "es-ES": "Señor, Heinrich. ¿Sabes lo que está pasando ahora en el castillo?"
     },
     "E26BCA": {
-        "en": "[Heinrich]\nAren't you the adventurer that came along with Varmunt?",
-        "pt": "[Heinrich]\nVocê não é o aventureiro que veio junto com o Sr. Varmunt?",
-        "es": "[Heinrich]\n¿No eres el trotamundos que vino con Varmunt?"
+        "en-US": "[Heinrich]\nAren't you the adventurer that came along with Varmunt?",
+        "pt-BR": "[Heinrich]\nVocê não é o aventureiro que veio junto com o Sr. Varmunt?",
+        "es-ES": "[Heinrich]\n¿No eres el trotamundos que vino con Varmunt?"
     },
     "FG6BCA": {
-        "en": "Heinrich: Aren't you the adventurer that came along with Varmunt?",
-        "pt": "Hennrich: Você não é o aventureiro que veio junto com o Sr. Varmunt?",
-        "es": "Heinrich: ¿No eres tú el aventurero que vino con Varmunt?"
+        "en-US": "Heinrich: Aren't you the adventurer that came along with Varmunt?",
+        "pt-BR": "Hennrich: Você não é o aventureiro que veio junto com o Sr. Varmunt?",
+        "es-ES": "Heinrich: ¿No eres tú el aventurero que vino con Varmunt?"
     },
     "FW6BCA": {
-        "en": "[Heinrich]\nWhat is it? Something wrong with the castle?",
-        "pt": "[Heinrich]\nO que é isso? Algo errado com o castelo?",
-        "es": "[Heinrich]\n¿Qué sucede? ¿Pasa algo en el castillo?"
+        "en-US": "[Heinrich]\nWhat is it? Something wrong with the castle?",
+        "pt-BR": "[Heinrich]\nO que é isso? Algo errado com o castelo?",
+        "es-ES": "[Heinrich]\n¿Qué sucede? ¿Pasa algo en el castillo?"
     },
     "Fm6BCA": {
-        "en": "Heinrich: What is it? Something wrong with the castle?",
-        "pt": "Hennrich: O que é isso? Algo errado com o castelo?",
-        "es": "Heinrich: ¿Qué sucede? ¿Le pasa algo al castillo?"
+        "en-US": "Heinrich: What is it? Something wrong with the castle?",
+        "pt-BR": "Hennrich: O que é isso? Algo errado com o castelo?",
+        "es-ES": "Heinrich: ¿Qué sucede? ¿Le pasa algo al castillo?"
     },
     "F26BCA": {
-        "en": "Himmelmez' invasion...",
-        "pt": "Invasão da Himmelmez...",
-        "es": "La invasión de Himmelmez…"
+        "en-US": "Himmelmez' invasion...",
+        "pt-BR": "Invasão da Himmelmez...",
+        "es-ES": "La invasión de Himmelmez…"
     },
     "GG6BCA": {
-        "en": "[{0}]\nDead man's Valkyrie, Himmelmez is coming to take the Ymir's Heart piece hidden inside this castle!",
-        "pt": "[{0}]\nA Valquíria dos Mortos, Himmelmez, está vindo pegar o Pedaço do Coração de Ymir que está escondido dentro do castelo!",
-        "es": "[{0}]\nHimmelmez, la Valkiria de los muertos, ¡viene a llevarse la Pieza del Corazón de Ymir que se esconde en este castillo!"
+        "en-US": "[{0}]\nDead man's Valkyrie, Himmelmez is coming to take the Ymir's Heart piece hidden inside this castle!",
+        "pt-BR": "[{0}]\nA Valquíria dos Mortos, Himmelmez, está vindo pegar o Pedaço do Coração de Ymir que está escondido dentro do castelo!",
+        "es-ES": "[{0}]\nHimmelmez, la Valkiria de los muertos, ¡viene a llevarse la Pieza del Corazón de Ymir que se esconde en este castillo!"
     },
     "GW6BCA": {
-        "en": "Dead man's Valkyrie, Himmelmez is coming to take the Ymir's Heart piece hidden inside this castle!",
-        "pt": "A Valquíria dos Mortos, Himmelmez, está vindo pegar o Pedaço do Coração de Ymir que está escondido dentro do castelo!",
-        "es": "Himmelmez, la Valkiria de los muertos, viene a por la pieza del Corazón de Ymir que se esconde en este castillo"
+        "en-US": "Dead man's Valkyrie, Himmelmez is coming to take the Ymir's Heart piece hidden inside this castle!",
+        "pt-BR": "A Valquíria dos Mortos, Himmelmez, está vindo pegar o Pedaço do Coração de Ymir que está escondido dentro do castelo!",
+        "es-ES": "Himmelmez, la Valkiria de los muertos, viene a por la pieza del Corazón de Ymir que se esconde en este castillo"
     },
     "Gm6BCA": {
-        "en": "[Heinrich]\nHaha. Funny. Do you really think that is possible?",
-        "pt": "[Heinrich]\nHaha. Engraçado. Você realmente acha que isso é possível?",
-        "es": "[Heinrich]\nJa, ja. Qué gracioso. ¿De verdad crees que es posible?"
+        "en-US": "[Heinrich]\nHaha. Funny. Do you really think that is possible?",
+        "pt-BR": "[Heinrich]\nHaha. Engraçado. Você realmente acha que isso é possível?",
+        "es-ES": "[Heinrich]\nJa, ja. Qué gracioso. ¿De verdad crees que es posible?"
     },
     "G26BCA": {
-        "en": "Heinrich: Haha. Funny. Do you really think that is possible?",
-        "pt": "Hennrich: Haha. Engraçado. Você realmente acha que isso é possível?",
-        "es": "Heinrich: Ja, ja. Gracioso. ¿De verdad cree que es posible?"
+        "en-US": "Heinrich: Haha. Funny. Do you really think that is possible?",
+        "pt-BR": "Hennrich: Haha. Engraçado. Você realmente acha que isso é possível?",
+        "es-ES": "Heinrich: Ja, ja. Gracioso. ¿De verdad cree que es posible?"
     },
     "HG6BCA": {
-        "en": "[Varmunt]\nI'm not kidding, Sir. Heinrich. If I'm correct, then she will be here very soon.",
-        "pt": "[Varmunt]\nNão estou brincando, Senhor Heinrich. Se eu estiver certo, ela estará aqui em breve.",
-        "es": "[Varmunt]\nNo estoy bromeando, señor Heinrich. Si no me equivoco, llegará muy pronto."
+        "en-US": "[Varmunt]\nI'm not kidding, Sir. Heinrich. If I'm correct, then she will be here very soon.",
+        "pt-BR": "[Varmunt]\nNão estou brincando, Senhor Heinrich. Se eu estiver certo, ela estará aqui em breve.",
+        "es-ES": "[Varmunt]\nNo estoy bromeando, señor Heinrich. Si no me equivoco, llegará muy pronto."
     },
     "HW6BCA": {
-        "en": "Varmunt: I'm not kidding, Sir. Heinrich. If I'm correct, then she will be here very soon.",
-        "pt": "Varmunt: Não estou brincando, Senhor Heinrich. Se eu estiver certo, ela estará aqui em breve.",
-        "es": "Varmunt: No bromeo, señor. Heinrich. Si no me equivoco, llegará muy pronto."
+        "en-US": "Varmunt: I'm not kidding, Sir. Heinrich. If I'm correct, then she will be here very soon.",
+        "pt-BR": "Varmunt: Não estou brincando, Senhor Heinrich. Se eu estiver certo, ela estará aqui em breve.",
+        "es-ES": "Varmunt: No bromeo, señor. Heinrich. Si no me equivoco, llegará muy pronto."
     },
     "Hm6BCA": {
-        "en": "[Varmunt]\nWe must hide the heart piece to a safe place before Himmelmez' attack starts!",
-        "pt": "[Varmunt]\nVocê pode confiar nesse homem. Nós precisamos esconder o pedaço do coração em um lugar seguro antes que o ataque da Himmelmez comece!",
-        "es": "[Varmunt]\n¡Debemos esconder la pieza del corazón en un lugar seguro antes de que comience el ataque de Himmelmez!"
+        "en-US": "[Varmunt]\nWe must hide the heart piece to a safe place before Himmelmez' attack starts!",
+        "pt-BR": "[Varmunt]\nVocê pode confiar nesse homem. Nós precisamos esconder o pedaço do coração em um lugar seguro antes que o ataque da Himmelmez comece!",
+        "es-ES": "[Varmunt]\n¡Debemos esconder la pieza del corazón en un lugar seguro antes de que comience el ataque de Himmelmez!"
     },
     "H26BCA": {
-        "en": "Varmunt: We must hide the heart piece to a safe place before Himmelmez' attack starts!",
-        "pt": "Varmunt: Você pode confiar nesse homem. Nós precisamos esconder o pedaço do coração em um lugar seguro antes que o ataque da Himmelmez comece!",
-        "es": "Varmunt: ¡Debemos esconder el trozo de corazón en un lugar seguro antes de que comience el ataque de Himmelmez!"
+        "en-US": "Varmunt: We must hide the heart piece to a safe place before Himmelmez' attack starts!",
+        "pt-BR": "Varmunt: Você pode confiar nesse homem. Nós precisamos esconder o pedaço do coração em um lugar seguro antes que o ataque da Himmelmez comece!",
+        "es-ES": "Varmunt: ¡Debemos esconder el trozo de corazón en un lugar seguro antes de que comience el ataque de Himmelmez!"
     },
     "IG6BCA": {
-        "en": "Even if you don't believe me...",
-        "pt": "Mesmo que não acredite em mim...",
-        "es": "Aunque no me creas…"
+        "en-US": "Even if you don't believe me...",
+        "pt-BR": "Mesmo que não acredite em mim...",
+        "es-ES": "Aunque no me creas…"
     },
     "IW6BCA": {
-        "en": "[{0}]\nI can't make you believe me, but there's no time to argue!",
-        "pt": "[{0}]\nEu não posso forçar você a acreditar em mim, mas não temos tempo pra discutir!",
-        "es": "[{0}]\nNo puedo hacer que me creas, ¡pero no hay tiempo para discutir!"
+        "en-US": "[{0}]\nI can't make you believe me, but there's no time to argue!",
+        "pt-BR": "[{0}]\nEu não posso forçar você a acreditar em mim, mas não temos tempo pra discutir!",
+        "es-ES": "[{0}]\nNo puedo hacer que me creas, ¡pero no hay tiempo para discutir!"
     },
     "Im6BCA": {
-        "en": "I can't make you believe me, but there's no time to argue!",
-        "pt": "Eu não posso forçar você a acreditar em mim, mas não temos tempo pra discutir!",
-        "es": "No puedo hacer que me creas, ¡pero no hay tiempo para discutir!"
+        "en-US": "I can't make you believe me, but there's no time to argue!",
+        "pt-BR": "Eu não posso forçar você a acreditar em mim, mas não temos tempo pra discutir!",
+        "es-ES": "No puedo hacer que me creas, ¡pero no hay tiempo para discutir!"
     },
     "I26BCA": {
-        "en": "[Heinrich]\nThank you for the help. But, we don't even have our king with us right now.",
-        "pt": "[Heinrich]\nObrigado pela ajuda. Mas o rei nem está aqui no momento.",
-        "es": "[Heinrich]\nGracias por la ayuda. Pero ni siquiera nuestro rey está con nosotros en este momento."
+        "en-US": "[Heinrich]\nThank you for the help. But, we don't even have our king with us right now.",
+        "pt-BR": "[Heinrich]\nObrigado pela ajuda. Mas o rei nem está aqui no momento.",
+        "es-ES": "[Heinrich]\nGracias por la ayuda. Pero ni siquiera nuestro rey está con nosotros en este momento."
     },
     "JG6BCA": {
-        "en": "Heinrich: Thank you for the help. But, we don't even have our king with us right now.",
-        "pt": "Hennrich: Obrigado pela ajuda. Mas o rei nem está aqui no momento.",
-        "es": "Heinrich: Gracias por la ayuda. Pero, ni siquiera tenemos a nuestro rey con nosotros en este momento."
+        "en-US": "Heinrich: Thank you for the help. But, we don't even have our king with us right now.",
+        "pt-BR": "Hennrich: Obrigado pela ajuda. Mas o rei nem está aqui no momento.",
+        "es-ES": "Heinrich: Gracias por la ayuda. Pero, ni siquiera tenemos a nuestro rey con nosotros en este momento."
     },
     "JW6BCA": {
-        "en": "[Heinrich]\nWe cannot risk moving the heart just because some stranger says so.",
-        "pt": "[Heinrich]\nNós não podemos assumir um risco tão grande por causa de um aviso de um estranho...",
-        "es": "[Heinrich]\nNo podemos arriesgarnos a mover el corazón solo porque un desconocido lo dice."
+        "en-US": "[Heinrich]\nWe cannot risk moving the heart just because some stranger says so.",
+        "pt-BR": "[Heinrich]\nNós não podemos assumir um risco tão grande por causa de um aviso de um estranho...",
+        "es-ES": "[Heinrich]\nNo podemos arriesgarnos a mover el corazón solo porque un desconocido lo dice."
     },
     "Jm6BCA": {
-        "en": "Heinrich: We cannot risk moving the heart just because some stranger says so.",
-        "pt": "Hennrich: Nós não podemos assumir um risco tão grande por causa de um aviso de um estranho...",
-        "es": "Heinrich: No podemos arriesgarnos a mover el corazón sólo porque lo diga un desconocido."
+        "en-US": "Heinrich: We cannot risk moving the heart just because some stranger says so.",
+        "pt-BR": "Hennrich: Nós não podemos assumir um risco tão grande por causa de um aviso de um estranho...",
+        "es-ES": "Heinrich: No podemos arriesgarnos a mover el corazón sólo porque lo diga un desconocido."
     },
     "J26BCA": {
-        "en": "????'s : Muahahahaha~!",
-        "pt": "???: Muahahahaha!",
-        "es": "¿¿¿¿????: ¡Ja, ja, ja, ja, ja, ja, ja!"
+        "en-US": "????'s : Muahahahaha~!",
+        "pt-BR": "???: Muahahahaha!",
+        "es-ES": "¿¿¿¿????: ¡Ja, ja, ja, ja, ja, ja, ja!"
     },
     "KG6BCA": {
-        "en": "Himmelmez",
-        "pt": "Himmelmez",
-        "es": "Himmelmez"
+        "en-US": "Himmelmez",
+        "pt-BR": "Himmelmez",
+        "es-ES": "Himmelmez"
     },
     "KW6BCA": {
-        "en": "Heinrich: Who are you?",
-        "pt": "Heinrich: Quem é você!?",
-        "es": "Heinrich: ¿Quién eres?"
+        "en-US": "Heinrich: Who are you?",
+        "pt-BR": "Heinrich: Quem é você!?",
+        "es-ES": "Heinrich: ¿Quién eres?"
     },
     "Km6BCA": {
-        "en": "Himmelmez: Well well~ Am I interrupting you? Weren't you expecting me?",
-        "pt": "Himmelmez: Ora, ora... Estou interrompendo alguma coisa?",
-        "es": "Himmelmez: Bueno, bueno… ¿Te interrumpo? ¿No me estabas esperando?"
+        "en-US": "Himmelmez: Well well~ Am I interrupting you? Weren't you expecting me?",
+        "pt-BR": "Himmelmez: Ora, ora... Estou interrompendo alguma coisa?",
+        "es-ES": "Himmelmez: Bueno, bueno… ¿Te interrumpo? ¿No me estabas esperando?"
     },
     "K26BCA": {
-        "en": "Varmunt: Himmelmez!! Already!",
-        "pt": "Varmunt: Himmelmez! Mas já?!",
-        "es": "Varmunt: ¡¡Himmelmez!! ¡Ya!"
+        "en-US": "Varmunt: Himmelmez!! Already!",
+        "pt-BR": "Varmunt: Himmelmez! Mas já?!",
+        "es-ES": "Varmunt: ¡¡Himmelmez!! ¡Ya!"
     },
     "LG6BCA": {
-        "en": "Himmelmez: My name is Lisa Khan Himmelmez. Master of Dullahan, Dead man's Valkyrie, that's what they call me.",
-        "pt": "Himmelmez: Meu nome é Lisa Khan Himmelmez. Também conhecida como a Valquíria dos Mortos.",
-        "es": "Himmelmez: Mi nombre es Lisa Khan Himmelmez. Maestra de Dullahan y la Valkiria de los muertos."
+        "en-US": "Himmelmez: My name is Lisa Khan Himmelmez. Master of Dullahan, Dead man's Valkyrie, that's what they call me.",
+        "pt-BR": "Himmelmez: Meu nome é Lisa Khan Himmelmez. Também conhecida como a Valquíria dos Mortos.",
+        "es-ES": "Himmelmez: Mi nombre es Lisa Khan Himmelmez. Maestra de Dullahan y la Valkiria de los muertos."
     },
     "LW6BCA": {
-        "en": "Heinrich: Aren't you a little too feminine to be the Ruler of death? We are not afraid of you...",
-        "pt": "Heinrich: 'Valquíria dos Mortos'? Acha que temos medo de você?",
-        "es": "Heinrich: ¿No eres un poco femenina para ser la soberana de la muerte? No te tenemos miedo…"
+        "en-US": "Heinrich: Aren't you a little too feminine to be the Ruler of death? We are not afraid of you...",
+        "pt-BR": "Heinrich: 'Valquíria dos Mortos'? Acha que temos medo de você?",
+        "es-ES": "Heinrich: ¿No eres un poco femenina para ser la soberana de la muerte? No te tenemos miedo…"
     },
     "Lm6BCA": {
-        "en": "Himmelmez: Let's see if you can relax like that after you find out where your king is.",
-        "pt": "Himmelmez: Vamos ver se você mantém essa pose de durão depois de saber o que aconteceu com o seu rei...",
-        "es": "Himmelmez: Veamos si puedes relajarte después de saber dónde está tu rey."
+        "en-US": "Himmelmez: Let's see if you can relax like that after you find out where your king is.",
+        "pt-BR": "Himmelmez: Vamos ver se você mantém essa pose de durão depois de saber o que aconteceu com o seu rei...",
+        "es-ES": "Himmelmez: Veamos si puedes relajarte después de saber dónde está tu rey."
     },
     "L26BCA": {
-        "en": "Heinrich: What?",
-        "pt": "Heinrich: O quê?!",
-        "es": "Heinrich: ¿Qué?"
+        "en-US": "Heinrich: What?",
+        "pt-BR": "Heinrich: O quê?!",
+        "es-ES": "Heinrich: ¿Qué?"
     },
     "MG6BCA": {
-        "en": "Himmelmez: Hmm, now I have your attention do I not?",
-        "pt": "Himmelmez: Hmm, agora você ficou com medo, né?",
-        "es": "Himmelmez: Mm, ahora tengo tu atención, ¿no?"
+        "en-US": "Himmelmez: Hmm, now I have your attention do I not?",
+        "pt-BR": "Himmelmez: Hmm, agora você ficou com medo, né?",
+        "es-ES": "Himmelmez: Mm, ahora tengo tu atención, ¿no?"
     },
     "MW6BCA": {
-        "en": "Himmelmez: You don't want the king's position, just wait for him to come back. I like your purity.",
-        "pt": "Himmelmez: Você não questiona nada, só espera pelo retorno do seu amado rei... Quanta inocência.",
-        "es": "Himmelmez: Si no quieres saber la ubicación del rey, solo espera a que vuelva. Me gusta tu pureza."
+        "en-US": "Himmelmez: You don't want the king's position, just wait for him to come back. I like your purity.",
+        "pt-BR": "Himmelmez: Você não questiona nada, só espera pelo retorno do seu amado rei... Quanta inocência.",
+        "es-ES": "Himmelmez: Si no quieres saber la ubicación del rey, solo espera a que vuelva. Me gusta tu pureza."
     },
     "Mm6BCA": {
-        "en": "Himmelmez: It's a pity to meet you in a situation like this.",
-        "pt": "Himmelmez: É uma pena conhecê-los sob esta circunstância.",
-        "es": "Himmelmez: Es una pena conocerte en una situación así."
+        "en-US": "Himmelmez: It's a pity to meet you in a situation like this.",
+        "pt-BR": "Himmelmez: É uma pena conhecê-los sob esta circunstância.",
+        "es-ES": "Himmelmez: Es una pena conocerte en una situación así."
     },
     "M26BCA": {
-        "en": "Heinrich: My king is visiting the Rune-Midgard royal family. He's not back yet.",
-        "pt": "Heinrich: Meu rei está visitando a família real de Rune-Midgard. Ele deverá voltar em breve.",
-        "es": "Heinrich: Mi rey está visitando a la familia real de Rune-Midgarts. Aún no volvió."
+        "en-US": "Heinrich: My king is visiting the Rune-Midgard royal family. He's not back yet.",
+        "pt-BR": "Heinrich: Meu rei está visitando a família real de Rune-Midgard. Ele deverá voltar em breve.",
+        "es-ES": "Heinrich: Mi rey está visitando a la familia real de Rune-Midgarts. Aún no volvió."
     },
     "NG6BCA": {
-        "en": "Heinrich: And now you are trying to trick me, what has happened to him?!",
-        "pt": "Heinrich: Onde você está tentando chegar com essa historinha?!",
-        "es": "Heinrich: Y ahora intentas engañarme, ¡¿qué le sucedió?!"
+        "en-US": "Heinrich: And now you are trying to trick me, what has happened to him?!",
+        "pt-BR": "Heinrich: Onde você está tentando chegar com essa historinha?!",
+        "es-ES": "Heinrich: Y ahora intentas engañarme, ¡¿qué le sucedió?!"
     },
     "NW6BCA": {
-        "en": "Himmelmez: Well~ I would love to sit down and explain for you, but I'm kind of busy today~",
-        "pt": "Himmelmez: Beeeeem... Eu adoraria explicar tudo mastigadinho, porque é uma bela 'historinha', mas estou meio ocupada hoje.",
-        "es": "Himmelmez: Bueno, me encantaría sentarme a explicártelo, pero tengo cosas que hacer."
+        "en-US": "Himmelmez: Well~ I would love to sit down and explain for you, but I'm kind of busy today~",
+        "pt-BR": "Himmelmez: Beeeeem... Eu adoraria explicar tudo mastigadinho, porque é uma bela 'historinha', mas estou meio ocupada hoje.",
+        "es-ES": "Himmelmez: Bueno, me encantaría sentarme a explicártelo, pero tengo cosas que hacer."
     },
     "Nm6BCA": {
-        "en": "Himmelmez: I have business to take care of. My minions will treat you well enough for me~",
-        "pt": "Himmelmez: Tenho coisas mais importantes para resolver agora. Meus ajudantes vão cuidar bem de vocês.",
-        "es": "Himmelmez: Tengo asuntos de los que ocuparme. Mis secuaces te tratarán bien de mi parte."
+        "en-US": "Himmelmez: I have business to take care of. My minions will treat you well enough for me~",
+        "pt-BR": "Himmelmez: Tenho coisas mais importantes para resolver agora. Meus ajudantes vão cuidar bem de vocês.",
+        "es-ES": "Himmelmez: Tengo asuntos de los que ocuparme. Mis secuaces te tratarán bien de mi parte."
     },
     "N26BCA": {
-        "en": "Heinrich: She probably already knows where the Ymir's heart piece is.",
-        "pt": "Heinrich: É provável que ela já saiba onde o fragmento do Coração de Ymir está.",
-        "es": "Heinrich: Probablemente ya sabe dónde está la Pieza del corazón de Ymir."
+        "en-US": "Heinrich: She probably already knows where the Ymir's heart piece is.",
+        "pt-BR": "Heinrich: É provável que ela já saiba onde o fragmento do Coração de Ymir está.",
+        "es-ES": "Heinrich: Probablemente ya sabe dónde está la Pieza del corazón de Ymir."
     },
     "OG6BCA": {
-        "en": "Heinrich: All Khalitzburg and White Knights should follow me now...",
-        "pt": "Heinrich: Todas as Khalitzburgs e Cavaleiros Brancos... Sigam-me!",
-        "es": "Heinrich: Todos los Caballeros Blancos y las Caballeras de Khalitzburg deben seguirme ahora…"
+        "en-US": "Heinrich: All Khalitzburg and White Knights should follow me now...",
+        "pt-BR": "Heinrich: Todas as Khalitzburgs e Cavaleiros Brancos... Sigam-me!",
+        "es-ES": "Heinrich: Todos los Caballeros Blancos y las Caballeras de Khalitzburg deben seguirme ahora…"
     },
     "OW6BCA": {
-        "en": "Khalitzburg",
-        "pt": "Khalitzburg",
-        "es": "Khalitzburg"
+        "en-US": "Khalitzburg",
+        "pt-BR": "Khalitzburg",
+        "es-ES": "Khalitzburg"
     },
     "Om6BCA": {
-        "en": "Abysmal Knight",
-        "pt": "Cavaleiro Sombrio",
-        "es": "Caballero Abismal"
+        "en-US": "Abysmal Knight",
+        "pt-BR": "Cavaleiro Sombrio",
+        "es-ES": "Caballero Abismal"
     },
     "O26BCA": {
-        "en": "Arrgg... My body",
-        "pt": "Argh... Meu corpo dói...",
-        "es": "Ay… mi cuerpo."
+        "en-US": "Arrgg... My body",
+        "pt-BR": "Argh... Meu corpo dói...",
+        "es-ES": "Ay… mi cuerpo."
     },
     "PG6BCA": {
-        "en": "My throat is burning!",
-        "pt": "Minha garganta! Está queimando!!!",
-        "es": "¡Me quema la garganta!"
+        "en-US": "My throat is burning!",
+        "pt-BR": "Minha garganta! Está queimando!!!",
+        "es-ES": "¡Me quema la garganta!"
     },
     "PW6BCA": {
-        "en": "Save me, Sir. Heinrich!",
-        "pt": "Salve-nos, Lorde Heinrich!",
-        "es": "¡Sálveme, señor Heinrich!"
+        "en-US": "Save me, Sir. Heinrich!",
+        "pt-BR": "Salve-nos, Lorde Heinrich!",
+        "es-ES": "¡Sálveme, señor Heinrich!"
     },
     "Pm6BCA": {
-        "en": "Kkkghk... Gggahuk",
-        "pt": "Arrrgh... uuUUAAAAAARGH!!!",
-        "es": "Kkkghk… gggahuk."
+        "en-US": "Kkkghk... Gggahuk",
+        "pt-BR": "Arrrgh... uuUUAAAAAARGH!!!",
+        "es-ES": "Kkkghk… gggahuk."
     },
     "P26BCA": {
-        "en": "I feel sick to my stomach urrgg",
-        "pt": "Parece que tem um buraco no lugar do meu estômago...",
-        "es": "Me siento mal del estómago, aaah…"
+        "en-US": "I feel sick to my stomach urrgg",
+        "pt-BR": "Parece que tem um buraco no lugar do meu estômago...",
+        "es-ES": "Me siento mal del estómago, aaah…"
     },
     "QG6BCA": {
-        "en": "Can someone...",
-        "pt": "Alguém... Por favor...",
-        "es": "¿Puede alguien…"
+        "en-US": "Can someone...",
+        "pt-BR": "Alguém... Por favor...",
+        "es-ES": "¿Puede alguien…"
     },
     "QW6BCA": {
-        "en": "Help me...",
-        "pt": "Me ajude...",
-        "es": "Ayúdame..."
+        "en-US": "Help me...",
+        "pt-BR": "Me ajude...",
+        "es-ES": "Ayúdame..."
     },
     "Qm6BCA": {
-        "en": "My stomach is burning...",
-        "pt": "Minha barriga está queimando...",
-        "es": "Me quema el estómago…"
+        "en-US": "My stomach is burning...",
+        "pt-BR": "Minha barriga está queimando...",
+        "es-ES": "Me quema el estómago…"
     },
     "Q26BCA": {
-        "en": "I am so thirsty.",
-        "pt": "Estou com tanta sede...",
-        "es": "Tengo mucha sed."
+        "en-US": "I am so thirsty.",
+        "pt-BR": "Estou com tanta sede...",
+        "es-ES": "Tengo mucha sed."
     },
     "RG6BCA": {
-        "en": "Oh...No... I can't die yet...",
-        "pt": "Não posso morrer agora...",
-        "es": "Oh… no… No puedo morir todavía…"
+        "en-US": "Oh...No... I can't die yet...",
+        "pt-BR": "Não posso morrer agora...",
+        "es-ES": "Oh… no… No puedo morir todavía…"
     },
     "RW6BCA": {
-        "en": "Mom...",
-        "pt": "Mãe... É você?",
-        "es": "Mamá…"
+        "en-US": "Mom...",
+        "pt-BR": "Mãe... É você?",
+        "es-ES": "Mamá…"
     },
     "Rm6BCA": {
-        "en": "I don't want to die.",
-        "pt": "Eu não quero morrer.",
-        "es": "no quiero morir."
+        "en-US": "I don't want to die.",
+        "pt-BR": "Eu não quero morrer.",
+        "es-ES": "no quiero morir."
     },
     "R26BCA": {
-        "en": "Don't leave me alone, help me.",
-        "pt": "Não nos abandone, por favor...",
-        "es": "No me abandones, ayúdame."
+        "en-US": "Don't leave me alone, help me.",
+        "pt-BR": "Não nos abandone, por favor...",
+        "es-ES": "No me abandones, ayúdame."
     },
     "SG6BCA": {
-        "en": "Aaarrrrrhhhh",
-        "pt": "AAAAAAAAARGH",
-        "es": "¡Aaarrrrrhhhh!"
+        "en-US": "Aaarrrrrhhhh",
+        "pt-BR": "AAAAAAAAARGH",
+        "es-ES": "¡Aaarrrrrhhhh!"
     },
     "SW6BCA": {
-        "en": "Anybody there? I can't see!!!",
-        "pt": "Alguém aí? Eu não consigo ver nada!!!",
-        "es": "¿Hay alguien ahí? ¡¡¡No puedo ver!!!"
+        "en-US": "Anybody there? I can't see!!!",
+        "pt-BR": "Alguém aí? Eu não consigo ver nada!!!",
+        "es-ES": "¿Hay alguien ahí? ¡¡¡No puedo ver!!!"
     },
     "Sm6BCA": {
-        "en": "Help me! I don't wanna die!!",
-        "pt": "ME AJUDEM! Eu não quero morrer!!!",
-        "es": "¡Ayuda! ¡¡No quiero morir!!"
+        "en-US": "Help me! I don't wanna die!!",
+        "pt-BR": "ME AJUDEM! Eu não quero morrer!!!",
+        "es-ES": "¡Ayuda! ¡¡No quiero morir!!"
     },
     "S26BCA": {
-        "en": "Sir. Heinrich. Save me...",
-        "pt": "Lorde Heinrich, me salve...",
-        "es": "Señor. Heinrich. Ayuda…"
+        "en-US": "Sir. Heinrich. Save me...",
+        "pt-BR": "Lorde Heinrich, me salve...",
+        "es-ES": "Señor. Heinrich. Ayuda…"
     },
     "TG6BCA": {
-        "en": "I miss my sister...",
-        "pt": "Gostaria de poder dar um último abraço na minha irmã...",
-        "es": "Extraño a mi hermana…"
+        "en-US": "I miss my sister...",
+        "pt-BR": "Gostaria de poder dar um último abraço na minha irmã...",
+        "es-ES": "Extraño a mi hermana…"
     },
     "TW6BCA": {
-        "en": "Not like this, I want to leave!",
-        "pt": "Minha vida não pode acabar dessa forma!",
-        "es": "¡No quiero irme así!"
+        "en-US": "Not like this, I want to leave!",
+        "pt-BR": "Minha vida não pode acabar dessa forma!",
+        "es-ES": "¡No quiero irme así!"
     },
     "Tm6BCA": {
-        "en": "I can't be dead, not like this.",
-        "pt": "Eu não acredito que tudo vai acabar assim.",
-        "es": "No puedo morir, no así."
+        "en-US": "I can't be dead, not like this.",
+        "pt-BR": "Eu não acredito que tudo vai acabar assim.",
+        "es-ES": "No puedo morir, no así."
     },
     "T26BCA": {
-        "en": "Water... Someone give me water...",
-        "pt": "Água... Eu imploro. Água...",
-        "es": "Agua… Que alguien me dé agua…"
+        "en-US": "Water... Someone give me water...",
+        "pt-BR": "Água... Eu imploro. Água...",
+        "es-ES": "Agua… Que alguien me dé agua…"
     },
     "UG6BCA": {
-        "en": "Kkkrrrruughgh...",
-        "pt": "Uuuuuuugh...",
-        "es": "Kkkrrrruughgh…"
+        "en-US": "Kkkrrrruughgh...",
+        "pt-BR": "Uuuuuuugh...",
+        "es-ES": "Kkkrrrruughgh…"
     },
     "UW6BCA": {
-        "en": "Heinrich: My men... This can't be happening!",
-        "pt": "Heinrich: Estas são as minhas tropas... Isso não pode estar acontecendo!",
-        "es": "Heinrich: Mis hombres… ¡Esto no puede estar pasando!"
+        "en-US": "Heinrich: My men... This can't be happening!",
+        "pt-BR": "Heinrich: Estas são as minhas tropas... Isso não pode estar acontecendo!",
+        "es-ES": "Heinrich: Mis hombres… ¡Esto no puede estar pasando!"
     },
     "Um6BCA": {
-        "en": "Varmunt: Sir. Heinrich, they're all monsters. You need to give them rest!",
-        "pt": "Varmunt: Lorde Heinrich, agora eles são apenas monstros. Tire-os desse sofrimento!",
-        "es": "Varmunt: Señor. Heinrich, son todos monstruos. ¡Necesita darles un descanso!"
+        "en-US": "Varmunt: Sir. Heinrich, they're all monsters. You need to give them rest!",
+        "pt-BR": "Varmunt: Lorde Heinrich, agora eles são apenas monstros. Tire-os desse sofrimento!",
+        "es-ES": "Varmunt: Señor. Heinrich, son todos monstruos. ¡Necesita darles un descanso!"
     },
     "U26BCA": {
-        "en": "Heinrich: I'm so sorry...",
-        "pt": "Heinrich: Eu... Sinto muito...",
-        "es": "Heinrich: Lo siento mucho…"
+        "en-US": "Heinrich: I'm so sorry...",
+        "pt-BR": "Heinrich: Eu... Sinto muito...",
+        "es-ES": "Heinrich: Lo siento mucho…"
     },
     "VG6BCA": {
-        "en": "Heinrich: I am sorry, my knights! Forgive me!",
-        "pt": "Heinrich: Sinto muito por todos vocês! Me perdoem!",
-        "es": "Heinrich: ¡Lo siento, mis Caballeros! ¡Perdónenme!"
+        "en-US": "Heinrich: I am sorry, my knights! Forgive me!",
+        "pt-BR": "Heinrich: Sinto muito por todos vocês! Me perdoem!",
+        "es-ES": "Heinrich: ¡Lo siento, mis Caballeros! ¡Perdónenme!"
     },
     "VW6BCA": {
-        "en": "Sir Heinrich: Death to all!",
-        "pt": "Sir Heinrich: Vocês não pertencem mais a este mundo!",
-        "es": "Sr.Heinrich: ¡Muerte a todos!"
+        "en-US": "Sir Heinrich: Death to all!",
+        "pt-BR": "Sir Heinrich: Vocês não pertencem mais a este mundo!",
+        "es-ES": "Sr.Heinrich: ¡Muerte a todos!"
     },
     "Vm6BCA": {
-        "en": "Sir Heinrich: Go back to the darkness!",
-        "pt": "Sir Heinrich: Voltem à escuridão!",
-        "es": "Sir Heinrich: ¡Vuelve a la oscuridad!"
+        "en-US": "Sir Heinrich: Go back to the darkness!",
+        "pt-BR": "Sir Heinrich: Voltem à escuridão!",
+        "es-ES": "Sir Heinrich: ¡Vuelve a la oscuridad!"
     },
     "V26BCA": {
-        "en": "Heinrich : I killed my own men...",
-        "pt": "Heinrich : Eu acabei com eles com as minhas mãos...",
-        "es": "Heinrich: Maté a mis propios hombres…"
+        "en-US": "Heinrich : I killed my own men...",
+        "pt-BR": "Heinrich : Eu acabei com eles com as minhas mãos...",
+        "es-ES": "Heinrich: Maté a mis propios hombres…"
     },
     "WG6BCA": {
-        "en": "Varmunt : Sir. Heinrich! We don't have much time!",
-        "pt": "Varmunt : Lorde Heinrich! Não temos muito tempo!",
-        "es": "Varmunt: Señor. ¡Heinrich! ¡No tenemos mucho tiempo!"
+        "en-US": "Varmunt : Sir. Heinrich! We don't have much time!",
+        "pt-BR": "Varmunt : Lorde Heinrich! Não temos muito tempo!",
+        "es-ES": "Varmunt: Señor. ¡Heinrich! ¡No tenemos mucho tiempo!"
     },
     "WW6BCA": {
-        "en": "Varmunt : If you hurry now, there's a chance!",
-        "pt": "Varmunt : Se nos apressarmos, ainda teremos chance de acabar com isso!",
-        "es": "Varmunt : Si te das prisa ahora, ¡hay una oportunidad!"
+        "en-US": "Varmunt : If you hurry now, there's a chance!",
+        "pt-BR": "Varmunt : Se nos apressarmos, ainda teremos chance de acabar com isso!",
+        "es-ES": "Varmunt : Si te das prisa ahora, ¡hay una oportunidad!"
     },
     "Wm6BCA": {
-        "en": "Heinrich : Varmunt is right. Now is not the time for mourning.",
-        "pt": "Heinrich : Você... Tem razão. Agora não é hora de lamentar.",
-        "es": "Heinrich : Varmunt tiene razón. No es momento de lamentarse."
+        "en-US": "Heinrich : Varmunt is right. Now is not the time for mourning.",
+        "pt-BR": "Heinrich : Você... Tem razão. Agora não é hora de lamentar.",
+        "es-ES": "Heinrich : Varmunt tiene razón. No es momento de lamentarse."
     },
     "W26BCA": {
-        "en": "Heinrich : I have a request to you followers.",
-        "pt": "Heinrich : Tenho algo a pedir para vocês.",
-        "es": "Heinrich : Tengo un pedido para ustedes, seguidores."
+        "en-US": "Heinrich : I have a request to you followers.",
+        "pt-BR": "Heinrich : Tenho algo a pedir para vocês.",
+        "es-ES": "Heinrich : Tengo un pedido para ustedes, seguidores."
     },
     "XG6BCA": {
-        "en": "Heinrich : Himmelmez can turn living beings into monsters.",
-        "pt": "Heinrich : Himmelmez é capaz de transformar qualquer ser em monstro.",
-        "es": "Heinrich : Himmelmez puede convertir a los seres vivos en monstruos."
+        "en-US": "Heinrich : Himmelmez can turn living beings into monsters.",
+        "pt-BR": "Heinrich : Himmelmez é capaz de transformar qualquer ser em monstro.",
+        "es-ES": "Heinrich : Himmelmez puede convertir a los seres vivos en monstruos."
     },
     "XW6BCA": {
-        "en": "Heinrich : But, there might still be survivors here.",
-        "pt": "Heinrich : Mas talvez ainda tenham sobreviventes por aqui.",
-        "es": "Heinrich : Pero aún podría haber sobrevivientes aquí."
+        "en-US": "Heinrich : But, there might still be survivors here.",
+        "pt-BR": "Heinrich : Mas talvez ainda tenham sobreviventes por aqui.",
+        "es-ES": "Heinrich : Pero aún podría haber sobrevivientes aquí."
     },
     "Xm6BCA": {
-        "en": "Heinrich : Destroy the monsters and find any survivors.",
-        "pt": "Heinrich : Acabe com os monstros, mas resgate os sobreviventes.",
-        "es": "Heinrich : Destruyan a los monstruos y encuentren a los sobrevivientes."
+        "en-US": "Heinrich : Destroy the monsters and find any survivors.",
+        "pt-BR": "Heinrich : Acabe com os monstros, mas resgate os sobreviventes.",
+        "es-ES": "Heinrich : Destruyan a los monstruos y encuentren a los sobrevivientes."
     },
     "X26BCA": {
-        "en": "Heinrich : Varmunt and I will chase Himmelmez.",
-        "pt": "Heinrich : Eu e Varmunt perseguiremos Himmelmez.",
-        "es": "Heinrich : Varmunt y yo perseguiremos a Himmelmez."
+        "en-US": "Heinrich : Varmunt and I will chase Himmelmez.",
+        "pt-BR": "Heinrich : Eu e Varmunt perseguiremos Himmelmez.",
+        "es-ES": "Heinrich : Varmunt y yo perseguiremos a Himmelmez."
     },
     "YG6BCA": {
-        "en": "Varmunt : We need your help. Please don't let us down.",
-        "pt": "Varmunt : A ajuda de vocês é essencial. Contamos com vocês.",
-        "es": "Varmunt : Necesitamos su ayuda. Por favor, no nos fallen."
+        "en-US": "Varmunt : We need your help. Please don't let us down.",
+        "pt-BR": "Varmunt : A ajuda de vocês é essencial. Contamos com vocês.",
+        "es-ES": "Varmunt : Necesitamos su ayuda. Por favor, no nos fallen."
     },
     "YW6BCA": {
-        "en": "Heinrich : Very well, Varmunt. Let's find Himmelmez.",
-        "pt": "Heinrich : Muito bem, Varmunt. Vamos atrás de Himmelmez.",
-        "es": "Heinrich : Muy bien, Varmunt. Encontremos a Himmelmez."
+        "en-US": "Heinrich : Very well, Varmunt. Let's find Himmelmez.",
+        "pt-BR": "Heinrich : Muito bem, Varmunt. Vamos atrás de Himmelmez.",
+        "es-ES": "Heinrich : Muy bien, Varmunt. Encontremos a Himmelmez."
     },
     "Ym6BCA": {
-        "en": "A portal has opened to the west.",
-        "pt": "Um portal foi aberto a oeste.",
-        "es": "Se abrió un portal al oeste."
+        "en-US": "A portal has opened to the west.",
+        "pt-BR": "Um portal foi aberto a oeste.",
+        "es-ES": "Se abrió un portal al oeste."
     },
     "Y26BCA": {
-        "en": "Corrupted steward",
-        "pt": "Zumbi Sombrio",
-        "es": "Mayordomo corrupto"
+        "en-US": "Corrupted steward",
+        "pt-BR": "Zumbi Sombrio",
+        "es-ES": "Mayordomo corrupto"
     },
     "ZG6BCA": {
-        "en": "Corrupted monk",
-        "pt": "Alma Penada Sombria",
-        "es": "Monje corrupto"
+        "en-US": "Corrupted monk",
+        "pt-BR": "Alma Penada Sombria",
+        "es-ES": "Monje corrupto"
     },
     "ZW6BCA": {
-        "en": "Grand Chamberlain in pain",
-        "pt": "Carniçal Sombrio",
-        "es": "Gran Chambelán dolorido"
+        "en-US": "Grand Chamberlain in pain",
+        "pt-BR": "Carniçal Sombrio",
+        "es-ES": "Gran Chambelán dolorido"
     },
     "Zm6BCA": {
-        "en": "Himmelmez' curse is getting weaker. Find any survivors!",
-        "pt": "A maldição de Himmelmez está ficando mais fraca. Procure pelos sobreviventes!",
-        "es": "La maldición de Himmelmez se está debilitando. ¡Encuentren a los sobrevivientes!"
+        "en-US": "Himmelmez' curse is getting weaker. Find any survivors!",
+        "pt-BR": "A maldição de Himmelmez está ficando mais fraca. Procure pelos sobreviventes!",
+        "es-ES": "La maldición de Himmelmez se está debilitando. ¡Encuentren a los sobrevivientes!"
     },
     "Z26BCA": {
-        "en": "Altar boy Domun",
-        "pt": "Domun",
-        "es": "Acólito Domun"
+        "en-US": "Altar boy Domun",
+        "pt-BR": "Domun",
+        "es-ES": "Acólito Domun"
     },
     "aG6BCA": {
-        "en": "[Altar boy Domun]\nSave me! Save me!!!",
-        "pt": "[Domun]\nMe salve! Me salve, por favor!",
-        "es": "[Acólito Domun]\n¡Sálvenme! ¡Sálvenme!"
+        "en-US": "[Altar boy Domun]\nSave me! Save me!!!",
+        "pt-BR": "[Domun]\nMe salve! Me salve, por favor!",
+        "es-ES": "[Acólito Domun]\n¡Sálvenme! ¡Sálvenme!"
     },
     "aW6BCA": {
-        "en": "Save me! Save me!!!",
-        "pt": "Me salve! Me salve, por favor!",
-        "es": "¡Sálvenme! ¡Sálvame!"
+        "en-US": "Save me! Save me!!!",
+        "pt-BR": "Me salve! Me salve, por favor!",
+        "es-ES": "¡Sálvenme! ¡Sálvame!"
     },
     "am6BCA": {
-        "en": "[Altar boy Domun]\nSave me, save me please...",
-        "pt": "[Domun]\nMe tire daqui, por favor...",
-        "es": "[Acólito Domun]\nSálvenme, sálvenme, por favor…"
+        "en-US": "[Altar boy Domun]\nSave me, save me please...",
+        "pt-BR": "[Domun]\nMe tire daqui, por favor...",
+        "es-ES": "[Acólito Domun]\nSálvenme, sálvenme, por favor…"
     },
     "a26BCA": {
-        "en": "Hold on! Are you the only survivor?",
-        "pt": "Acalme-se! Você é o único sobrevivente?",
-        "es": "¡Un momento! ¿Eres el único sobreviviente?"
+        "en-US": "Hold on! Are you the only survivor?",
+        "pt-BR": "Acalme-se! Você é o único sobrevivente?",
+        "es-ES": "¡Un momento! ¿Eres el único sobreviviente?"
     },
     "bG6BCA": {
-        "en": "[{0}]\nHold on! Are you the only survivor?",
-        "pt": "[{0}]\nAcalme-se! Você é o único sobrevivente?",
-        "es": "[{0}]\n¡Un momento! ¿Eres el único sobreviviente?"
+        "en-US": "[{0}]\nHold on! Are you the only survivor?",
+        "pt-BR": "[{0}]\nAcalme-se! Você é o único sobrevivente?",
+        "es-ES": "[{0}]\n¡Un momento! ¿Eres el único sobreviviente?"
     },
     "bW6BCA": {
-        "en": "Hold on! Are you the only survivor?",
-        "pt": "Acalme-se! Você é o único sobrevivente?",
-        "es": "¡Un momento! ¿Eres el único sobreviviente?"
+        "en-US": "Hold on! Are you the only survivor?",
+        "pt-BR": "Acalme-se! Você é o único sobrevivente?",
+        "es-ES": "¡Un momento! ¿Eres el único sobreviviente?"
     },
     "bm6BCA": {
-        "en": "[Altar boy Domun]\nChamberlains... monks... They all turned into monsters. I couldn't do anything.",
-        "pt": "[Domun]\nTodos... Todos eles... Se transformaram em monstros. Eu não pude fazer nada...",
-        "es": "[Acólito Domun]\nChambelanes.… monjes… Todos se convirtieron en monstruos. No pude hacer nada."
+        "en-US": "[Altar boy Domun]\nChamberlains... monks... They all turned into monsters. I couldn't do anything.",
+        "pt-BR": "[Domun]\nTodos... Todos eles... Se transformaram em monstros. Eu não pude fazer nada...",
+        "es-ES": "[Acólito Domun]\nChambelanes.… monjes… Todos se convirtieron en monstruos. No pude hacer nada."
     },
     "b26BCA": {
-        "en": "Altar boy Domun: Chamberlains... monks... They all turned into monsters. I couldn't do anything.",
-        "pt": "Domun: Todos... Todos eles... Se transformaram em monstros. Eu não pude fazer nada...",
-        "es": "Acólito Domun: Chambelanes... monjes... Todos se convirtieron en monstruos. No podía hacer nada."
+        "en-US": "Altar boy Domun: Chamberlains... monks... They all turned into monsters. I couldn't do anything.",
+        "pt-BR": "Domun: Todos... Todos eles... Se transformaram em monstros. Eu não pude fazer nada...",
+        "es-ES": "Acólito Domun: Chambelanes... monjes... Todos se convirtieron en monstruos. No podía hacer nada."
     },
     "cG6BCA": {
-        "en": "[Altar boy Domun]\nAll I could do was... Just hide in here... Nothing, nothing I could do...",
-        "pt": "[Domun]\nEu... Só me escondi... E assisti a tudo de longe...",
-        "es": "[Acólito Domun]\nTodo lo que podía hacer era… Solo esconderme aquí… No había nada, nada que pudiera hacer…"
+        "en-US": "[Altar boy Domun]\nAll I could do was... Just hide in here... Nothing, nothing I could do...",
+        "pt-BR": "[Domun]\nEu... Só me escondi... E assisti a tudo de longe...",
+        "es-ES": "[Acólito Domun]\nTodo lo que podía hacer era… Solo esconderme aquí… No había nada, nada que pudiera hacer…"
     },
     "cW6BCA": {
-        "en": "Altar boy Domun: All I could do was... Just hide in here... Nothing, nothing I could do...",
-        "pt": "Domun: Eu... Só me escondi... E assisti a tudo de longe...",
-        "es": "Acólito Domun: Todo lo que podía hacer era... Sólo escóndete aquí... Nada, nada que pudiera hacer..."
+        "en-US": "Altar boy Domun: All I could do was... Just hide in here... Nothing, nothing I could do...",
+        "pt-BR": "Domun: Eu... Só me escondi... E assisti a tudo de longe...",
+        "es-ES": "Acólito Domun: Todo lo que podía hacer era... Sólo escóndete aquí... Nada, nada que pudiera hacer..."
     },
     "cm6BCA": {
-        "en": "Pull it together!",
-        "pt": "Acalme-se!!!",
-        "es": "¡Reacciona!"
+        "en-US": "Pull it together!",
+        "pt-BR": "Acalme-se!!!",
+        "es-ES": "¡Reacciona!"
     },
     "c26BCA": {
-        "en": "[{0}]\nWake up kid! Go east and find the middle passage to the outside! That is safe!",
-        "pt": "[{0}]\nAcalme-se! Lembre-se de que você teve a sorte de sobreviver a tudo isso. Vá para leste e encontre o caminho para a saída!",
-        "es": "[{0}]\n¡Despierta, niño! ¡Ve hacia el este y encuentra el pasaje medio medio hacia el exterior! ¡Eso es seguro!"
+        "en-US": "[{0}]\nWake up kid! Go east and find the middle passage to the outside! That is safe!",
+        "pt-BR": "[{0}]\nAcalme-se! Lembre-se de que você teve a sorte de sobreviver a tudo isso. Vá para leste e encontre o caminho para a saída!",
+        "es-ES": "[{0}]\n¡Despierta, niño! ¡Ve hacia el este y encuentra el pasaje medio medio hacia el exterior! ¡Eso es seguro!"
     },
     "dG6BCA": {
-        "en": "Wake up kid! Go east and find the middle passage to the outside! That is safe!",
-        "pt": "Acalme-se! Lembre-se de que você teve a sorte de sobreviver a tudo isso. Vá para leste e encontre o caminho para a saída!",
-        "es": "¡Despierta niño! Ve hacia el este y encuentra el pasadizo del medio hacia el exterior ¡Eso es seguro!"
+        "en-US": "Wake up kid! Go east and find the middle passage to the outside! That is safe!",
+        "pt-BR": "Acalme-se! Lembre-se de que você teve a sorte de sobreviver a tudo isso. Vá para leste e encontre o caminho para a saída!",
+        "es-ES": "¡Despierta niño! Ve hacia el este y encuentra el pasadizo del medio hacia el exterior ¡Eso es seguro!"
     },
     "dW6BCA": {
-        "en": "[Altar boy Domun]\nTo the east passage? Alone? How?",
-        "pt": "[Domun]\n...Como? Sozinho?",
-        "es": "[Acólito Domun]\n¿Al pasaje del este? ¿Sin ayuda? ¿Cómo?"
+        "en-US": "[Altar boy Domun]\nTo the east passage? Alone? How?",
+        "pt-BR": "[Domun]\n...Como? Sozinho?",
+        "es-ES": "[Acólito Domun]\n¿Al pasaje del este? ¿Sin ayuda? ¿Cómo?"
     },
     "dm6BCA": {
-        "en": "Altar boy Domun: To the east passage? Alone? How?",
-        "pt": "Domun: ...Como? Sozinho?",
-        "es": "Acólito Domun: ¿Al pasaje este? ¿Solo? ¿Cómo?"
+        "en-US": "Altar boy Domun: To the east passage? Alone? How?",
+        "pt-BR": "Domun: ...Como? Sozinho?",
+        "es-ES": "Acólito Domun: ¿Al pasaje este? ¿Solo? ¿Cómo?"
     },
     "d26BCA": {
-        "en": "I will give you a weapon.",
-        "pt": "Sim. Eu o darei uma arma",
-        "es": "Te daré un arma."
+        "en-US": "I will give you a weapon.",
+        "pt-BR": "Sim. Eu o darei uma arma",
+        "es-ES": "Te daré un arma."
     },
     "eG6BCA": {
-        "en": "[{0}]\nHere's a weapon. Just close your eyes and swing for those monsters.",
-        "pt": "[{0}]\nPegue esta arma. Se encontrar um inimigo no caminho, acerte-o com o máximo de força que conseguir.",
-        "es": "[{0}]\nAquí hay un arma. Cierra los ojos y golpea a esos monstruos."
+        "en-US": "[{0}]\nHere's a weapon. Just close your eyes and swing for those monsters.",
+        "pt-BR": "[{0}]\nPegue esta arma. Se encontrar um inimigo no caminho, acerte-o com o máximo de força que conseguir.",
+        "es-ES": "[{0}]\nAquí hay un arma. Cierra los ojos y golpea a esos monstruos."
     },
     "eW6BCA": {
-        "en": "Here's a weapon. Just close your eyes and swing for those monsters.",
-        "pt": "Pegue esta arma. Se encontrar um inimigo no caminho, acerte-o com o máximo de força que conseguir.",
-        "es": "Aquí hay un arma. Cierra los ojos y golpea a esos monstruos."
+        "en-US": "Here's a weapon. Just close your eyes and swing for those monsters.",
+        "pt-BR": "Pegue esta arma. Se encontrar um inimigo no caminho, acerte-o com o máximo de força que conseguir.",
+        "es-ES": "Aquí hay un arma. Cierra los ojos y golpea a esos monstruos."
     },
     "em6BCA": {
-        "en": "[Altar boy Domun]\nOk, I... I'll try.",
-        "pt": "[Domun]\nOk, Eu... Eu vou tentar.",
-        "es": "[Acólito Domun]\nMuy bien, yo… Lo intentaré."
+        "en-US": "[Altar boy Domun]\nOk, I... I'll try.",
+        "pt-BR": "[Domun]\nOk, Eu... Eu vou tentar.",
+        "es-ES": "[Acólito Domun]\nMuy bien, yo… Lo intentaré."
     },
     "e26BCA": {
-        "en": "Altar boy Domun: Ok, I... I'll try.",
-        "pt": "Domun: Ok, Eu... Eu vou tentar.",
-        "es": "Acólito Domun: Vale, yo... Lo intentaré."
+        "en-US": "Altar boy Domun: Ok, I... I'll try.",
+        "pt-BR": "Domun: Ok, Eu... Eu vou tentar.",
+        "es-ES": "Acólito Domun: Vale, yo... Lo intentaré."
     },
     "fG6BCA": {
-        "en": "A portal has opened to the east.",
-        "pt": "Um portal se abriu para leste.",
-        "es": "Se abrió un portal al este."
+        "en-US": "A portal has opened to the east.",
+        "pt-BR": "Um portal se abriu para leste.",
+        "es-ES": "Se abrió un portal al este."
     },
     "fW6BCA": {
-        "en": "A dead man",
-        "pt": "Homem caído",
-        "es": "Hombre muerto"
+        "en-US": "A dead man",
+        "pt-BR": "Homem caído",
+        "es-ES": "Hombre muerto"
     },
     "fm6BCA": {
-        "en": "Maggot",
-        "pt": "Arclouse Sombrio",
-        "es": "Gusano"
+        "en-US": "Maggot",
+        "pt-BR": "Arclouse Sombrio",
+        "es-ES": "Gusano"
     },
     "f26BCA": {
-        "en": "Decomposed blacksmith",
-        "pt": "Ferreiro decomposto",
-        "es": "Herrero descompuesto"
+        "en-US": "Decomposed blacksmith",
+        "pt-BR": "Ferreiro decomposto",
+        "es-ES": "Herrero descompuesto"
     },
     "gG6BCA": {
-        "en": "Outraged refiner",
-        "pt": "Refinador indignado",
-        "es": "Refinador indignado"
+        "en-US": "Outraged refiner",
+        "pt-BR": "Refinador indignado",
+        "es-ES": "Refinador indignado"
     },
     "gW6BCA": {
-        "en": "Holgren the Destroyer",
-        "pt": "Holgren, a Destruidora",
-        "es": "Holgren el Destructor"
+        "en-US": "Holgren the Destroyer",
+        "pt-BR": "Holgren, a Destruidora",
+        "es-ES": "Holgren el Destructor"
     },
     "gm6BCA": {
-        "en": "[Holgren the Destroyer]\nDie!! You shall die!!!",
-        "pt": "[Holgren, a Destruidora]\nMorram! Morram todoooooos!!!",
-        "es": "[Holgren, el destructor]\n¡Muere! ¡¡¡Morirás!!!"
+        "en-US": "[Holgren the Destroyer]\nDie!! You shall die!!!",
+        "pt-BR": "[Holgren, a Destruidora]\nMorram! Morram todoooooos!!!",
+        "es-ES": "[Holgren, el destructor]\n¡Muere! ¡¡¡Morirás!!!"
     },
     "g26BCA": {
-        "en": "Holgren the Destroyer: Die!! You shall die!!!",
-        "pt": "Holgren, a Destruidora: Morram! Morram todoooooos!!!",
-        "es": "Holgren, el destructor: ¡Muere! ¡¡¡Morirás!!!"
+        "en-US": "Holgren the Destroyer: Die!! You shall die!!!",
+        "pt-BR": "Holgren, a Destruidora: Morram! Morram todoooooos!!!",
+        "es-ES": "Holgren, el destructor: ¡Muere! ¡¡¡Morirás!!!"
     },
     "hG6BCA": {
-        "en": "[Holgren the Destroyer]\nYou human?",
-        "pt": "[Holgren, a Destruidora]\nVocê é humano?",
-        "es": "[Holgren, el destructor]\n¿Eres humano?"
+        "en-US": "[Holgren the Destroyer]\nYou human?",
+        "pt-BR": "[Holgren, a Destruidora]\nVocê é humano?",
+        "es-ES": "[Holgren, el destructor]\n¿Eres humano?"
     },
     "hW6BCA": {
-        "en": "Relax! I'm not a monster!",
-        "pt": "Relaxa! Não sou um monstro!",
-        "es": "¡Relájate! ¡No soy un monstruo!"
+        "en-US": "Relax! I'm not a monster!",
+        "pt-BR": "Relaxa! Não sou um monstro!",
+        "es-ES": "¡Relájate! ¡No soy un monstruo!"
     },
     "hm6BCA": {
-        "en": "[{0}]\nRelax! I am Human. Are you alone? Anyone else here?",
-        "pt": "[{0}]\nCalma! Calma! Sim, eu humana. Você está sozinho? Tem mais alguém vivo?",
-        "es": "[{0}]\n¡Relájate! Soy humano. ¿Estás solo? ¿Hay alguien más aquí?"
+        "en-US": "[{0}]\nRelax! I am Human. Are you alone? Anyone else here?",
+        "pt-BR": "[{0}]\nCalma! Calma! Sim, eu humana. Você está sozinho? Tem mais alguém vivo?",
+        "es-ES": "[{0}]\n¡Relájate! Soy humano. ¿Estás solo? ¿Hay alguien más aquí?"
     },
     "h26BCA": {
-        "en": "Relax! I am Human. Are you alone? Anyone else here?",
-        "pt": "Calma! Calma! Sim, eu humana. Você está sozinho? Tem mais alguém vivo?",
-        "es": "¡Relájate! Soy humano. ¿Estás solo? ¿Hay alguien más aquí?"
+        "en-US": "Relax! I am Human. Are you alone? Anyone else here?",
+        "pt-BR": "Calma! Calma! Sim, eu humana. Você está sozinho? Tem mais alguém vivo?",
+        "es-ES": "¡Relájate! Soy humano. ¿Estás solo? ¿Hay alguien más aquí?"
     },
     "iG6BCA": {
-        "en": "[Holgren the Destroyer]\nIt's only me alive.",
-        "pt": "[Holgren, a Destruidora]\nNão. Só eu estou viva.",
-        "es": "[Holgren, el destructor]\nSolo yo estoy vivo."
+        "en-US": "[Holgren the Destroyer]\nIt's only me alive.",
+        "pt-BR": "[Holgren, a Destruidora]\nNão. Só eu estou viva.",
+        "es-ES": "[Holgren, el destructor]\nSolo yo estoy vivo."
     },
     "iW6BCA": {
-        "en": "Holgren the Destroyer: It's only me alive.",
-        "pt": "Holgren, a Destruidora: Não. Só eu estou viva.",
-        "es": "Holgren el Destructor: Sólo vivo yo."
+        "en-US": "Holgren the Destroyer: It's only me alive.",
+        "pt-BR": "Holgren, a Destruidora: Não. Só eu estou viva.",
+        "es-ES": "Holgren el Destructor: Sólo vivo yo."
     },
     "im6BCA": {
-        "en": "It's dangerous here...",
-        "pt": "É bem perigoso ficar aqui",
-        "es": "Es peligroso aquí…"
+        "en-US": "It's dangerous here...",
+        "pt-BR": "É bem perigoso ficar aqui",
+        "es-ES": "Es peligroso aquí…"
     },
     "i26BCA": {
-        "en": "[{0}]\nIt's dangerous here. You know the way to the middle passage? Can you move?",
-        "pt": "[{0}]\nEstá muito perigoso aqui. Você consegue andar? Se sim, vá até a saída!",
-        "es": "[{0}]\nEsto es peligroso. ¿Conoces el camino hacia el pasaje medio? ¿Puedes moverte?"
+        "en-US": "[{0}]\nIt's dangerous here. You know the way to the middle passage? Can you move?",
+        "pt-BR": "[{0}]\nEstá muito perigoso aqui. Você consegue andar? Se sim, vá até a saída!",
+        "es-ES": "[{0}]\nEsto es peligroso. ¿Conoces el camino hacia el pasaje medio? ¿Puedes moverte?"
     },
     "jG6BCA": {
-        "en": "It's dangerous here. You know the way to the middle passage? Can you move?",
-        "pt": "Está muito perigoso aqui. Você consegue andar? Se sim, vá até a saída!",
-        "es": "Esto es peligroso. ¿Conoces el camino hacia el pasaje central? ¿Puedes moverte?"
+        "en-US": "It's dangerous here. You know the way to the middle passage? Can you move?",
+        "pt-BR": "Está muito perigoso aqui. Você consegue andar? Se sim, vá até a saída!",
+        "es-ES": "Esto es peligroso. ¿Conoces el camino hacia el pasaje central? ¿Puedes moverte?"
     },
     "jW6BCA": {
-        "en": "[Holgren the Destroyer]\nYes, I can move. I need to get out of here.",
-        "pt": "[Holgren, a Destruidora]\nSim, consigo me mover. Vou sair daqui o quanto antes!",
-        "es": "[Holgren, el destructor]\nSí, puedo moverme. Necesito salir de aquí."
+        "en-US": "[Holgren the Destroyer]\nYes, I can move. I need to get out of here.",
+        "pt-BR": "[Holgren, a Destruidora]\nSim, consigo me mover. Vou sair daqui o quanto antes!",
+        "es-ES": "[Holgren, el destructor]\nSí, puedo moverme. Necesito salir de aquí."
     },
     "jm6BCA": {
-        "en": "Holgren the Destroyer: Yes, I can move. I need to get out of here.",
-        "pt": "Holgren, a Destruidora: Sim, consigo me mover. Vou sair daqui o quanto antes!",
-        "es": "Holgren el Destructor: Sí, puedo moverme. Necesito salir de aquí."
+        "en-US": "Holgren the Destroyer: Yes, I can move. I need to get out of here.",
+        "pt-BR": "Holgren, a Destruidora: Sim, consigo me mover. Vou sair daqui o quanto antes!",
+        "es-ES": "Holgren el Destructor: Sí, puedo moverme. Necesito salir de aquí."
     },
     "j26BCA": {
-        "en": "Be safe...",
-        "pt": "Cuidado...",
-        "es": "Cuídate…"
+        "en-US": "Be safe...",
+        "pt-BR": "Cuidado...",
+        "es-ES": "Cuídate…"
     },
     "kG6BCA": {
-        "en": "[{0}]\nSorry, I can't go with you.",
-        "pt": "[{0}]\nSinto muito, mas não posso te acompanhar.",
-        "es": "[{0}]\nLo siento, no puedo ir contigo."
+        "en-US": "[{0}]\nSorry, I can't go with you.",
+        "pt-BR": "[{0}]\nSinto muito, mas não posso te acompanhar.",
+        "es-ES": "[{0}]\nLo siento, no puedo ir contigo."
     },
     "kW6BCA": {
-        "en": "Sorry, I can't go with you.",
-        "pt": "Sinto muito, mas não posso te acompanhar.",
-        "es": "Lo siento, no puedo ir contigo."
+        "en-US": "Sorry, I can't go with you.",
+        "pt-BR": "Sinto muito, mas não posso te acompanhar.",
+        "es-ES": "Lo siento, no puedo ir contigo."
     },
     "km6BCA": {
-        "en": "[Holgren the Destroyer]\nIt's ok. You've already done enough. I can help myself. Good luck to you too.",
-        "pt": "[Holgren, a Destruidora]\nTudo bem, você já me ajudou bastante. Consigo me virar. Boa sorte!",
-        "es": "[Holgren, el destructor]\nEstá bien. Ya hiciste suficiente. Puedo hacerlo. Buena suerte a ti también."
+        "en-US": "[Holgren the Destroyer]\nIt's ok. You've already done enough. I can help myself. Good luck to you too.",
+        "pt-BR": "[Holgren, a Destruidora]\nTudo bem, você já me ajudou bastante. Consigo me virar. Boa sorte!",
+        "es-ES": "[Holgren, el destructor]\nEstá bien. Ya hiciste suficiente. Puedo hacerlo. Buena suerte a ti también."
     },
     "k26BCA": {
-        "en": "Holgren the Destroyer: It's ok. You've already done enough. I can help myself. Good luck to you too.",
-        "pt": "Holgren, a Destruidora: Tudo bem, você já me ajudou bastante. Consigo me virar. Boa sorte!",
-        "es": "Holgren el Destructor: Está bien. Ya has hecho bastante. Puedo ayudarme a mí mismo. Buena suerte a ti también."
+        "en-US": "Holgren the Destroyer: It's ok. You've already done enough. I can help myself. Good luck to you too.",
+        "pt-BR": "Holgren, a Destruidora: Tudo bem, você já me ajudou bastante. Consigo me virar. Boa sorte!",
+        "es-ES": "Holgren el Destructor: Está bien. Ya has hecho bastante. Puedo ayudarme a mí mismo. Buena suerte a ti también."
     },
     "lG6BCA": {
-        "en": "A portal has appeared to the northwest.",
-        "pt": "Um portal apareceu a noroeste.",
-        "es": "Apareció un portal al noroeste."
+        "en-US": "A portal has appeared to the northwest.",
+        "pt-BR": "Um portal apareceu a noroeste.",
+        "es-ES": "Apareció un portal al noroeste."
     },
     "lW6BCA": {
-        "en": "Corrupted palace guard",
-        "pt": "Raydric Sombrio",
-        "es": "Guardia del palacio corrupto"
+        "en-US": "Corrupted palace guard",
+        "pt-BR": "Raydric Sombrio",
+        "es-ES": "Guardia del palacio corrupto"
     },
     "lm6BCA": {
-        "en": "Wandering Archer",
-        "pt": "Arqueiro Sombrio",
-        "es": "Arquero Sombrio"
+        "en-US": "Wandering Archer",
+        "pt-BR": "Arqueiro Sombrio",
+        "es-ES": "Arquero Sombrio"
     },
     "l26BCA": {
-        "en": "Hungry palace guard",
-        "pt": "Guarda do palácio com fome",
-        "es": "Arquero Sombrio"
+        "en-US": "Hungry palace guard",
+        "pt-BR": "Guarda do palácio com fome",
+        "es-ES": "Arquero Sombrio"
     },
     "mG6BCA": {
-        "en": "Outraged Archer",
-        "pt": "Arqueiro indignado",
-        "es": "Arquero Indignado"
+        "en-US": "Outraged Archer",
+        "pt-BR": "Arqueiro indignado",
+        "es-ES": "Arquero Indignado"
     },
     "mW6BCA": {
-        "en": "Himmelmez : Not bad. Thought you would be dead by now by my creatures~",
-        "pt": "Himmelmez: Nada mau. Eu pensei que minhas criaturas já tivessem te matado!",
-        "es": "Himmelmez: Nada mal. Pensé que mis criaturas ya te habrían matado."
+        "en-US": "Himmelmez : Not bad. Thought you would be dead by now by my creatures~",
+        "pt-BR": "Himmelmez: Nada mau. Eu pensei que minhas criaturas já tivessem te matado!",
+        "es-ES": "Himmelmez: Nada mal. Pensé que mis criaturas ya te habrían matado."
     },
     "mm6BCA": {
-        "en": "Himmelmez : I'll wait for you at the north of the castle. I want to see how lucky you are.",
-        "pt": "Himmelmez: Venha me pegar na entrada do setor 2. Quero ver quanta sorte você tem.",
-        "es": "Himmelmez : Te esperaré al norte del castillo. Quiero ver la suerte que tienes."
+        "en-US": "Himmelmez : I'll wait for you at the north of the castle. I want to see how lucky you are.",
+        "pt-BR": "Himmelmez: Venha me pegar na entrada do setor 2. Quero ver quanta sorte você tem.",
+        "es-ES": "Himmelmez : Te esperaré al norte del castillo. Quiero ver la suerte que tienes."
     },
     "m26BCA": {
-        "en": "[Himmelmez]\nDon't look at me nervous like that. It will be over soon...",
-        "pt": "[Himmelmez]\nNossa, que cara feia... Fiquem tranquilos! Vai tudo acabar bem rápido.",
-        "es": "[Himmelmez]\nNo me mires con esos nervios. Terminará pronto…"
+        "en-US": "[Himmelmez]\nDon't look at me nervous like that. It will be over soon...",
+        "pt-BR": "[Himmelmez]\nNossa, que cara feia... Fiquem tranquilos! Vai tudo acabar bem rápido.",
+        "es-ES": "[Himmelmez]\nNo me mires con esos nervios. Terminará pronto…"
     },
     "nG6BCA": {
-        "en": "Himmelmez: Guess you are either lucky or powerful, to make it this far.",
-        "pt": "Himmelmez: Das duas, uma: vocês chegaram até aqui ou porque são muito fortes, ou sortudos.",
-        "es": "Himmelmez: Supongo que tienes suerte o mucho poder para haber llegado hasta aquí."
+        "en-US": "Himmelmez: Guess you are either lucky or powerful, to make it this far.",
+        "pt-BR": "Himmelmez: Das duas, uma: vocês chegaram até aqui ou porque são muito fortes, ou sortudos.",
+        "es-ES": "Himmelmez: Supongo que tienes suerte o mucho poder para haber llegado hasta aquí."
     },
     "nW6BCA": {
-        "en": "Himmelmez: But, it doesn't matter.",
-        "pt": "Himmelmez: Mas isso não importa.",
-        "es": "Himmelmez: Pero no importa."
+        "en-US": "Himmelmez: But, it doesn't matter.",
+        "pt-BR": "Himmelmez: Mas isso não importa.",
+        "es-ES": "Himmelmez: Pero no importa."
     },
     "nm6BCA": {
-        "en": "Himmelmez: You will all die here.",
-        "pt": "Himmelmez: Porque vocês todos vão morrer aqui.",
-        "es": "Himmelmez: Todos ustedes morirán aquí."
+        "en-US": "Himmelmez: You will all die here.",
+        "pt-BR": "Himmelmez: Porque vocês todos vão morrer aqui.",
+        "es-ES": "Himmelmez: Todos ustedes morirán aquí."
     },
     "n26BCA": {
-        "en": "Heinrich: Himmelmez! We will not let you get away from us!",
-        "pt": "Heinrich: Himmelmez! Não deixaremos você escapar!",
-        "es": "Heinrich: ¡Himmelmez! ¡No dejaremos que te escapes!"
+        "en-US": "Heinrich: Himmelmez! We will not let you get away from us!",
+        "pt-BR": "Heinrich: Himmelmez! Não deixaremos você escapar!",
+        "es-ES": "Heinrich: ¡Himmelmez! ¡No dejaremos que te escapes!"
     },
     "oG6BCA": {
-        "en": "Himmelmez: Ha ha ha, worry about yourself. You think I am alone here?",
-        "pt": "Himmelmez: Hahaha, acho melhor se preocupar com a sua vida. Você acha que eu estou sozinha aqui?",
-        "es": "Himmelmez: Ja, ja, ja, preocúpate por ti. ¿Crees que estoy sola aquí?"
+        "en-US": "Himmelmez: Ha ha ha, worry about yourself. You think I am alone here?",
+        "pt-BR": "Himmelmez: Hahaha, acho melhor se preocupar com a sua vida. Você acha que eu estou sozinha aqui?",
+        "es-ES": "Himmelmez: Ja, ja, ja, preocúpate por ti. ¿Crees que estoy sola aquí?"
     },
     "oW6BCA": {
-        "en": "Varmunt: Sir. Heinrich! I sense something strange and strong coming!",
-        "pt": "Varmunt: Lorde Heinrich! Tem algo grande e poderoso vindo!",
-        "es": "Varmunt: Señor. ¡Heinrich! ¡Presiento que se avecina algo extraño y fuerte!"
+        "en-US": "Varmunt: Sir. Heinrich! I sense something strange and strong coming!",
+        "pt-BR": "Varmunt: Lorde Heinrich! Tem algo grande e poderoso vindo!",
+        "es-ES": "Varmunt: Señor. ¡Heinrich! ¡Presiento que se avecina algo extraño y fuerte!"
     },
     "om6BCA": {
-        "en": "Heinrich: What... These are!",
-        "pt": "Heinrich: Espera... Este é o...!",
-        "es": "Heinrich: ¿Qué…? ¡Son estos!"
+        "en-US": "Heinrich: What... These are!",
+        "pt-BR": "Heinrich: Espera... Este é o...!",
+        "es-ES": "Heinrich: ¿Qué…? ¡Son estos!"
     },
     "o26BCA": {
-        "en": "Himmelmez: I will go on my way while my new toy entertains you.",
-        "pt": "Himmelmez: Bom, já deu a hora. Vou embora enquanto vocês se divertem com o meu mais novo brinquedo.",
-        "es": "Himmelmez: Seguiré mi camino mientras mi nuevo juguete los entretiene."
+        "en-US": "Himmelmez: I will go on my way while my new toy entertains you.",
+        "pt-BR": "Himmelmez: Bom, já deu a hora. Vou embora enquanto vocês se divertem com o meu mais novo brinquedo.",
+        "es-ES": "Himmelmez: Seguiré mi camino mientras mi nuevo juguete los entretiene."
     },
     "pG6BCA": {
-        "en": "Himmelmez: Fare well~, hope to see you again sometime, Heinrich.",
-        "pt": "Himmelmez: Tchauzinho. Espero vê-lo novamente, Heinrich.",
-        "es": "Himmelmez: ¡Que les vaya bien! Espero volver a verte alguna vez, Heinrich."
+        "en-US": "Himmelmez: Fare well~, hope to see you again sometime, Heinrich.",
+        "pt-BR": "Himmelmez: Tchauzinho. Espero vê-lo novamente, Heinrich.",
+        "es-ES": "Himmelmez: ¡Que les vaya bien! Espero volver a verte alguna vez, Heinrich."
     },
     "pW6BCA": {
-        "en": "Heinrich: Sir. Varmunt! Help those adventurers. I will go after Himmelmez!",
-        "pt": "Heinrich: Lorde Varmunt! Ajude estes aventureiros. Eu irei atrás de Himmelmez!",
-        "es": "Heinrich: Señor. ¡Varmunt! Ayuda a esos trotamundos. ¡Iré tras Himmelmez!"
+        "en-US": "Heinrich: Sir. Varmunt! Help those adventurers. I will go after Himmelmez!",
+        "pt-BR": "Heinrich: Lorde Varmunt! Ajude estes aventureiros. Eu irei atrás de Himmelmez!",
+        "es-ES": "Heinrich: Señor. ¡Varmunt! Ayuda a esos trotamundos. ¡Iré tras Himmelmez!"
     },
     "pm6BCA": {
-        "en": "[Heinrich]\nHimmelmez... I will never forget what you've done to my men.",
-        "pt": "[Heinrich]\nHimmelmez... Jamais lhe perdoarei pelo que fez.",
-        "es": "[Heinrich]\nHimmelmez... Nunca olvidaré lo que le hiciste a mis hombres."
+        "en-US": "[Heinrich]\nHimmelmez... I will never forget what you've done to my men.",
+        "pt-BR": "[Heinrich]\nHimmelmez... Jamais lhe perdoarei pelo que fez.",
+        "es-ES": "[Heinrich]\nHimmelmez... Nunca olvidaré lo que le hiciste a mis hombres."
     },
     "p26BCA": {
-        "en": "You seem to be carrying too many items. Please reduce your items and try again.",
-        "pt": "Você parece estar carregando muitos itens. Armazene alguns deles e tente novamente.",
-        "es": "Parece que llevas demasiados objetos. Reduzca sus objetos e inténtalo de nuevo."
+        "en-US": "You seem to be carrying too many items. Please reduce your items and try again.",
+        "pt-BR": "Você parece estar carregando muitos itens. Armazene alguns deles e tente novamente.",
+        "es-ES": "Parece que llevas demasiados objetos. Reduzca sus objetos e inténtalo de nuevo."
     },
     "qG6BCA": {
-        "en": "You are carrying too much weight. Reduce that first and try again.",
-        "pt": "Seu inventário está pesado demais. Libere um pouco de peso e tente novamente.",
-        "es": "Llevas demasiado peso. Redúcelo primero e inténtalo de nuevo."
+        "en-US": "You are carrying too much weight. Reduce that first and try again.",
+        "pt-BR": "Seu inventário está pesado demais. Libere um pouco de peso e tente novamente.",
+        "es-ES": "Llevas demasiado peso. Redúcelo primero e inténtalo de nuevo."
     },
     "qW6BCA": {
-        "en": "[Varmunt]\nThis item has extraordinary aura with it. Can be very useful for someone special.",
-        "pt": "[Varmunt]\nEste item emana uma aura poderosa...",
-        "es": "[Varmunt]\nEste objeto lleva consigo un aura extraordinaria. Puede ser muy útil para alguien especial."
+        "en-US": "[Varmunt]\nThis item has extraordinary aura with it. Can be very useful for someone special.",
+        "pt-BR": "[Varmunt]\nEste item emana uma aura poderosa...",
+        "es-ES": "[Varmunt]\nEste objeto lleva consigo un aura extraordinaria. Puede ser muy útil para alguien especial."
     },
     "qm6BCA": {
-        "en": "[Varmunt]\nI guess this is it. Is it impossible to stop the time traveler's will?!\nA portal seems to have appeared to the north.",
-        "pt": "[Varmunt]\nSerá possível deter o Viajante do Tempo?",
-        "es": "[Varmunt]\nSupongo que esto es todo. ¡¿Es imposible detener la voluntad del viajante de tiempo?!\nParece que apareció un portal al norte."
+        "en-US": "[Varmunt]\nI guess this is it. Is it impossible to stop the time traveler's will?!\nA portal seems to have appeared to the north.",
+        "pt-BR": "[Varmunt]\nSerá possível deter o Viajante do Tempo?",
+        "es-ES": "[Varmunt]\nSupongo que esto es todo. ¡¿Es imposible detener la voluntad del viajante de tiempo?!\nParece que apareció un portal al norte."
     },
     "q26BCA": {
-        "en": "An echoing comes from deep inside of the knight's shrine.",
-        "pt": "Um som mórbido ecoa de dentro do Altar do Cavaleiro.",
-        "es": "Un eco proviene de lo más profundo del santuario del caballero."
+        "en-US": "An echoing comes from deep inside of the knight's shrine.",
+        "pt-BR": "Um som mórbido ecoa de dentro do Altar do Cavaleiro.",
+        "es-ES": "Un eco proviene de lo más profundo del santuario del caballero."
     },
     "rG6BCA": {
-        "en": "Corrupted Soul",
-        "pt": "Origem da Escuridão",
-        "es": "Alma corrupta"
+        "en-US": "Corrupted Soul",
+        "pt-BR": "Origem da Escuridão",
+        "es-ES": "Alma corrupta"
     },
     "rW6BCA": {
-        "en": "Grrrrrrhh~~~",
-        "pt": "Grrrrrrhh",
-        "es": "Grrrrrrhh."
+        "en-US": "Grrrrrrhh~~~",
+        "pt-BR": "Grrrrrrhh",
+        "es-ES": "Grrrrrrhh."
     },
     "rm6BCA": {
-        "en": "Opening 2nd floor entrance towards 12 O'clock direction.",
-        "pt": "A entrada para o segundo andar está ao norte.",
-        "es": "Abriendo la entrada del segundopiso hacia la dirección de las 12 en punto."
+        "en-US": "Opening 2nd floor entrance towards 12 O'clock direction.",
+        "pt-BR": "A entrada para o segundo andar está ao norte.",
+        "es-ES": "Abriendo la entrada del segundopiso hacia la dirección de las 12 en punto."
     },
     "r26BCA": {
-        "en": "Varmunt: I collected some items dropped from its body. You can take it from me.",
-        "pt": "Varmunt: Eu reuni alguns dos itens que o monstro derrubou.",
-        "es": "Varmunt: Recolecté algunos objetos que cayeron de su cuerpo. Puedes quitármelo."
+        "en-US": "Varmunt: I collected some items dropped from its body. You can take it from me.",
+        "pt-BR": "Varmunt: Eu reuni alguns dos itens que o monstro derrubou.",
+        "es-ES": "Varmunt: Recolecté algunos objetos que cayeron de su cuerpo. Puedes quitármelo."
     },
     "sG6BCA": {
-        "en": "Strange crack",
-        "pt": "Rachadura",
-        "es": "Grieta extraña"
+        "en-US": "Strange crack",
+        "pt-BR": "Rachadura",
+        "es-ES": "Grieta extraña"
     },
     "sW6BCA": {
-        "en": "The crack looks suspicious, but nothing more to check.",
-        "pt": "A rachadura parece um pouco suspeita...",
-        "es": "La grieta parece sospechosa, pero no hay nada más que comprobar."
+        "en-US": "The crack looks suspicious, but nothing more to check.",
+        "pt-BR": "A rachadura parece um pouco suspeita...",
+        "es-ES": "La grieta parece sospechosa, pero no hay nada más que comprobar."
     },
     "sm6BCA": {
-        "en": "- You are carrying too many items to proceed with this quest. -",
-        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
-        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
+        "en-US": "- You are carrying too many items to proceed with this quest. -",
+        "pt-BR": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es-ES": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

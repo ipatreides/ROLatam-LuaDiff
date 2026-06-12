@@ -1,547 +1,547 @@
 {
     "AA+JCA": {
-        "en": "Controller",
-        "pt": "Controlador",
-        "es": "Controlador"
+        "en-US": "Controller",
+        "pt-BR": "Controlador",
+        "es-ES": "Controlador"
     },
     "AQ+JCA": {
-        "en": "Please try again after installing a special item.",
-        "pt": "Tente novamente depois de instalar um item especial.",
-        "es": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
+        "en-US": "Please try again after installing a special item.",
+        "pt-BR": "Tente novamente depois de instalar um item especial.",
+        "es-ES": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
     },
     "Ag+JCA": {
-        "en": "[Time controller]\nWhat time do you want to go back",
-        "pt": "[Controlador Temporal]\nFALA meu amigo! Pra onde vamos hoje?",
-        "es": "[Fiscal de horario]\n¿A qué hora quieres volver?"
+        "en-US": "[Time controller]\nWhat time do you want to go back",
+        "pt-BR": "[Controlador Temporal]\nFALA meu amigo! Pra onde vamos hoje?",
+        "es-ES": "[Fiscal de horario]\n¿A qué hora quieres volver?"
     },
     "Aw+JCA": {
-        "en": "Stop",
-        "pt": "Cancelar",
-        "es": "Detener."
+        "en-US": "Stop",
+        "pt-BR": "Cancelar",
+        "es-ES": "Detener."
     },
     "BA+JCA": {
-        "en": "Start area 2",
-        "pt": "Iniciar Área 2",
-        "es": "Zona de salida 2"
+        "en-US": "Start area 2",
+        "pt-BR": "Iniciar Área 2",
+        "es-ES": "Zona de salida 2"
     },
     "BQ+JCA": {
-        "en": "Start area 3",
-        "pt": "Iniciar Área 3",
-        "es": "Zona de salida 3"
+        "en-US": "Start area 3",
+        "pt-BR": "Iniciar Área 3",
+        "es-ES": "Zona de salida 3"
     },
     "Bg+JCA": {
-        "en": "Start area 4",
-        "pt": "Iniciar Área 4",
-        "es": "Zona de salida 4"
+        "en-US": "Start area 4",
+        "pt-BR": "Iniciar Área 4",
+        "es-ES": "Zona de salida 4"
     },
     "Bw+JCA": {
-        "en": "Direct to Boss",
-        "pt": "Ir direto ao chefe",
-        "es": "Ir directo al jefe"
+        "en-US": "Direct to Boss",
+        "pt-BR": "Ir direto ao chefe",
+        "es-ES": "Ir directo al jefe"
     },
     "CA+JCA": {
-        "en": "Heinrich",
-        "pt": "Heinrich",
-        "es": "Heinrich"
+        "en-US": "Heinrich",
+        "pt-BR": "Heinrich",
+        "es-ES": "Heinrich"
     },
     "CQ+JCA": {
-        "en": "[Heinrich]\nHimmelmez's closed space covers everywhere...",
-        "pt": "[Heinrich]\nO poder de Himmelmez é assustador...",
-        "es": "[Heinrich]\nEl espacio cerrado de Himmelmez cubre todas partes..."
+        "en-US": "[Heinrich]\nHimmelmez's closed space covers everywhere...",
+        "pt-BR": "[Heinrich]\nO poder de Himmelmez é assustador...",
+        "es-ES": "[Heinrich]\nEl espacio cerrado de Himmelmez cubre todas partes..."
     },
     "Cg+JCA": {
-        "en": "Heinrich: This structure was not in the castle before!",
-        "pt": "Heinrich: Esta estrutura não estava no castelo antes!",
-        "es": "Heinrich: Esta estructura no existía antes en el castillo"
+        "en-US": "Heinrich: This structure was not in the castle before!",
+        "pt-BR": "Heinrich: Esta estrutura não estava no castelo antes!",
+        "es-ES": "Heinrich: Esta estructura no existía antes en el castillo"
     },
     "Cw+JCA": {
-        "en": "Varmunt: This is Himmelmez's closed space. We blocked each area and aisle.",
-        "pt": "Varmunt: Este é o abrigo de Himmelmez. Bloqueamos todas as entradas.",
-        "es": "Varmunt: Este es el espacio cerrado de Himmelmez. Bloqueamos cada zona y pasillo."
+        "en-US": "Varmunt: This is Himmelmez's closed space. We blocked each area and aisle.",
+        "pt-BR": "Varmunt: Este é o abrigo de Himmelmez. Bloqueamos todas as entradas.",
+        "es-ES": "Varmunt: Este es el espacio cerrado de Himmelmez. Bloqueamos cada zona y pasillo."
     },
     "DA+JCA": {
-        "en": "Heinrich: We tried to break it down but it's really strong.",
-        "pt": "Heinrich: Tentamos invadi-lo, mas não tivemos sucesso algum.",
-        "es": "Heinrich: Intentamos romperlo, pero es muy fuerte."
+        "en-US": "Heinrich: We tried to break it down but it's really strong.",
+        "pt-BR": "Heinrich: Tentamos invadi-lo, mas não tivemos sucesso algum.",
+        "es-ES": "Heinrich: Intentamos romperlo, pero es muy fuerte."
     },
     "DQ+JCA": {
-        "en": "Varmunt: Step back. Let me try to dispel the magic.",
-        "pt": "Varmunt: Afastem-se. Vou tentar quebrar o feitiço.",
-        "es": "Varmunt: Retrocedan. Permítanme intentar disipar la magia."
+        "en-US": "Varmunt: Step back. Let me try to dispel the magic.",
+        "pt-BR": "Varmunt: Afastem-se. Vou tentar quebrar o feitiço.",
+        "es-ES": "Varmunt: Retrocedan. Permítanme intentar disipar la magia."
     },
     "Dg+JCA": {
-        "en": "Varmunt: I think that part of closed space is broke down.",
-        "pt": "Varmunt: Acho que há uma abertura por ali.",
-        "es": "Varmunt: Creo que esa parte de espacio cerrado se ha roto."
+        "en-US": "Varmunt: I think that part of closed space is broke down.",
+        "pt-BR": "Varmunt: Acho que há uma abertura por ali.",
+        "es-ES": "Varmunt: Creo que esa parte de espacio cerrado se ha roto."
     },
     "Dw+JCA": {
-        "en": "Varmunt: I have never seen this closed space.",
-        "pt": "Varmunt: Eu nunca vi isso antes...",
-        "es": "Varmunt: Nunca había visto este espacio cerrado."
+        "en-US": "Varmunt: I have never seen this closed space.",
+        "pt-BR": "Varmunt: Eu nunca vi isso antes...",
+        "es-ES": "Varmunt: Nunca había visto este espacio cerrado."
     },
     "EA+JCA": {
-        "en": "Varmunt: Himmelmez hides stone chains in undead people's body.",
-        "pt": "Varmunt: Os selos de Himmelmez estão dentro dos mortos-vivos.",
-        "es": "Varmunt: Himmelmez esconde cadenas de piedra en el cuerpo de los muertos vivientes."
+        "en-US": "Varmunt: Himmelmez hides stone chains in undead people's body.",
+        "pt-BR": "Varmunt: Os selos de Himmelmez estão dentro dos mortos-vivos.",
+        "es-ES": "Varmunt: Himmelmez esconde cadenas de piedra en el cuerpo de los muertos vivientes."
     },
     "EQ+JCA": {
-        "en": "Varmunt: Maybe this closed space is maintained with these stone chains.",
-        "pt": "Varmunt: E talvez sejam esses selos que protejam o abrigo dela...",
-        "es": "Varmunt: Puede que este espacio cerrado se mantenga con estas cadenas de piedra."
+        "en-US": "Varmunt: Maybe this closed space is maintained with these stone chains.",
+        "pt-BR": "Varmunt: E talvez sejam esses selos que protejam o abrigo dela...",
+        "es-ES": "Varmunt: Puede que este espacio cerrado se mantenga con estas cadenas de piedra."
     },
     "Eg+JCA": {
-        "en": "Varmunt: If you want to break it, you have to kill one of those who have a stone chain.",
-        "pt": "Varmunt: Para quebrar o feitiço, precisaremos eliminar todos aqueles que possuírem um selo.",
-        "es": "Varmunt: Si quieres romperlo, tienes que matar a uno de los que tienen una cadena de piedra."
+        "en-US": "Varmunt: If you want to break it, you have to kill one of those who have a stone chain.",
+        "pt-BR": "Varmunt: Para quebrar o feitiço, precisaremos eliminar todos aqueles que possuírem um selo.",
+        "es-ES": "Varmunt: Si quieres romperlo, tienes que matar a uno de los que tienen una cadena de piedra."
     },
     "Ew+JCA": {
-        "en": "Varmunt: But, we can't recognize who has a stone chain so, we have to purify everything.",
-        "pt": "Varmunt: Mas não sabemos quem possui o selo, então teremos que eliminar todos...",
-        "es": "Varmunt: Pero, no podemos reconocer quién tiene una cadena de piedras, así que, tenemos que purificarlo todo."
+        "en-US": "Varmunt: But, we can't recognize who has a stone chain so, we have to purify everything.",
+        "pt-BR": "Varmunt: Mas não sabemos quem possui o selo, então teremos que eliminar todos...",
+        "es-ES": "Varmunt: Pero, no podemos reconocer quién tiene una cadena de piedras, así que, tenemos que purificarlo todo."
     },
     "FA+JCA": {
-        "en": "Heinrich: It is inexcusable behavior.",
-        "pt": "Heinrich: Se eu fizer isso... Jamais me perdoarei...",
-        "es": "Heinrich: Es un comportamiento inexcusable."
+        "en-US": "Heinrich: It is inexcusable behavior.",
+        "pt-BR": "Heinrich: Se eu fizer isso... Jamais me perdoarei...",
+        "es-ES": "Heinrich: Es un comportamiento inexcusable."
     },
     "FQ+JCA": {
-        "en": "Heinrich: I already exterminated all my soldiers and maybe more...",
-        "pt": "Heinrich: Já passei pela vergonha de acabar com os meus soldados, um a um...",
-        "es": "Heinrich: Ya exterminé a todos mis reclutas y tal vez más..."
+        "en-US": "Heinrich: I already exterminated all my soldiers and maybe more...",
+        "pt-BR": "Heinrich: Já passei pela vergonha de acabar com os meus soldados, um a um...",
+        "es-ES": "Heinrich: Ya exterminé a todos mis reclutas y tal vez más..."
     },
     "Fg+JCA": {
-        "en": "Varmunt: Commander...",
-        "pt": "Varmunt: Comandante! Você precisa ser forte!",
-        "es": "Varmunt: Comandante..."
+        "en-US": "Varmunt: Commander...",
+        "pt-BR": "Varmunt: Comandante! Você precisa ser forte!",
+        "es-ES": "Varmunt: Comandante..."
     },
     "Fw+JCA": {
-        "en": "Varmunt: Commander! You need to be strong.",
-        "pt": "Varmunt: Você é o nosso líder e não pode fraquejar.",
-        "es": "Varmunt: ¡Comandante! Tiene que ser fuerte."
+        "en-US": "Varmunt: Commander! You need to be strong.",
+        "pt-BR": "Varmunt: Você é o nosso líder e não pode fraquejar.",
+        "es-ES": "Varmunt: ¡Comandante! Tiene que ser fuerte."
     },
     "GA+JCA": {
-        "en": "Varmunt: Our enemy is not human.",
-        "pt": "Varmunt: Nosso inimigo não é humano.",
-        "es": "Varmunt: Nuestro enemigo no es humano."
+        "en-US": "Varmunt: Our enemy is not human.",
+        "pt-BR": "Varmunt: Nosso inimigo não é humano.",
+        "es-ES": "Varmunt: Nuestro enemigo no es humano."
     },
     "GQ+JCA": {
-        "en": "Varmunt: Even though you deny it, they'll never turn back to human.",
-        "pt": "Varmunt: Eles jamais voltarão à forma que você os conhece.",
-        "es": "Varmunt: Aunque lo niegue, nunca volverán a ser humanos."
+        "en-US": "Varmunt: Even though you deny it, they'll never turn back to human.",
+        "pt-BR": "Varmunt: Eles jamais voltarão à forma que você os conhece.",
+        "es-ES": "Varmunt: Aunque lo niegue, nunca volverán a ser humanos."
     },
     "Gg+JCA": {
-        "en": "Heinrich: ...",
-        "pt": "Heinrich: ...",
-        "es": "Heinrich: ..."
+        "en-US": "Heinrich: ...",
+        "pt-BR": "Heinrich: ...",
+        "es-ES": "Heinrich: ..."
     },
     "Gw+JCA": {
-        "en": "Varmunt: Well, let's go then.",
-        "pt": "Varmunt: Bem... Vamos fazer o que viemos para fazer.",
-        "es": "Varmunt: Bueno, vamos entonces."
+        "en-US": "Varmunt: Well, let's go then.",
+        "pt-BR": "Varmunt: Bem... Vamos fazer o que viemos para fazer.",
+        "es-ES": "Varmunt: Bueno, vamos entonces."
     },
     "HA+JCA": {
-        "en": "Varmunt: And you guys, just take a break and follow us.",
-        "pt": "Varmunt: Ei, vocês. Descansem um pouco e sigam-nos.",
-        "es": "Varmunt: Y ustedes, tómense un descanso y sígannos."
+        "en-US": "Varmunt: And you guys, just take a break and follow us.",
+        "pt-BR": "Varmunt: Ei, vocês. Descansem um pouco e sigam-nos.",
+        "es-ES": "Varmunt: Y ustedes, tómense un descanso y sígannos."
     },
     "HQ+JCA": {
-        "en": "Varmunt: It could be hard fighting so, stay strong.",
-        "pt": "Varmunt: Pode ser que reforços sejam necessários, então precisamos de vocês com força.",
-        "es": "Varmunt: Podría ser duro luchar así que, manténgase fuerte."
+        "en-US": "Varmunt: It could be hard fighting so, stay strong.",
+        "pt-BR": "Varmunt: Pode ser que reforços sejam necessários, então precisamos de vocês com força.",
+        "es-ES": "Varmunt: Podría ser duro luchar así que, manténgase fuerte."
     },
     "Hg+JCA": {
-        "en": "Varmunt: Ok, it's time to begin Heinrich.",
-        "pt": "Varmunt: OK... É chegada a hora, Heinrich.",
-        "es": "Varmunt: Ok, es hora de empezar Heinrich."
+        "en-US": "Varmunt: Ok, it's time to begin Heinrich.",
+        "pt-BR": "Varmunt: OK... É chegada a hora, Heinrich.",
+        "es-ES": "Varmunt: Ok, es hora de empezar Heinrich."
     },
     "Hw+JCA": {
-        "en": "A portal to the west has opened in the central hallway.",
-        "pt": "Um portal ao oeste abriu no hall central.",
-        "es": "En el pasillo central se ha abierto un portal hacia el oeste."
+        "en-US": "A portal to the west has opened in the central hallway.",
+        "pt-BR": "Um portal ao oeste abriu no hall central.",
+        "es-ES": "En el pasillo central se ha abierto un portal hacia el oeste."
     },
     "IA+JCA": {
-        "en": "Varmunt",
-        "pt": "Varmunt",
-        "es": "Varmunt"
+        "en-US": "Varmunt",
+        "pt-BR": "Varmunt",
+        "es-ES": "Varmunt"
     },
     "IQ+JCA": {
-        "en": "[Varmunt]\nHow many times I do this job. In my dream, I did it over and over again...",
-        "pt": "[Varmunt]\nQuantas mais vezes eu vou precisar fazer isso...?",
-        "es": "[Varmunt]\nCuántas veces hago este trabajo. En mi sueño, lo hacía una y otra vez..."
+        "en-US": "[Varmunt]\nHow many times I do this job. In my dream, I did it over and over again...",
+        "pt-BR": "[Varmunt]\nQuantas mais vezes eu vou precisar fazer isso...?",
+        "es-ES": "[Varmunt]\nCuántas veces hago este trabajo. En mi sueño, lo hacía una y otra vez..."
     },
     "Ig+JCA": {
-        "en": "Corrupted Palace Guard",
-        "pt": "Raydric Sombrio",
-        "es": "Guardia del palacio corrupto"
+        "en-US": "Corrupted Palace Guard",
+        "pt-BR": "Raydric Sombrio",
+        "es-ES": "Guardia del palacio corrupto"
     },
     "Iw+JCA": {
-        "en": "Archer of Death",
-        "pt": "Arqueiro Sombrio",
-        "es": "Arquero sombrio"
+        "en-US": "Archer of Death",
+        "pt-BR": "Arqueiro Sombrio",
+        "es-ES": "Arquero sombrio"
     },
     "JA+JCA": {
-        "en": "Corrupted Abysmal Knight",
-        "pt": "Cavaleiro Sombrio",
-        "es": "Caballero abismal"
+        "en-US": "Corrupted Abysmal Knight",
+        "pt-BR": "Cavaleiro Sombrio",
+        "es-ES": "Caballero abismal"
     },
     "JQ+JCA": {
-        "en": "Suffered Khalitzburg",
-        "pt": "Khalitzburg Sombria",
-        "es": "Khalitzburg sombria"
+        "en-US": "Suffered Khalitzburg",
+        "pt-BR": "Khalitzburg Sombria",
+        "es-ES": "Khalitzburg sombria"
     },
     "Jg+JCA": {
-        "en": "Bloody Knight",
-        "pt": "Sanguinário Sombrio",
-        "es": "Caballero sangriento"
+        "en-US": "Bloody Knight",
+        "pt-BR": "Sanguinário Sombrio",
+        "es-ES": "Caballero sangriento"
     },
     "Jw+JCA": {
-        "en": "Evil Forces are appearing in this area.",
-        "pt": "Forças malignas estão se manifestando nesta região.",
-        "es": "Las fuerzas del mal están apareciendo en esta zona."
+        "en-US": "Evil Forces are appearing in this area.",
+        "pt-BR": "Forças malignas estão se manifestando nesta região.",
+        "es-ES": "Las fuerzas del mal están apareciendo en esta zona."
     },
     "KA+JCA": {
-        "en": "Commander of Destruction",
-        "pt": "Desmorto Sombrio",
-        "es": "Comandante de Destrucción"
+        "en-US": "Commander of Destruction",
+        "pt-BR": "Desmorto Sombrio",
+        "es-ES": "Comandante de Destrucción"
     },
     "KQ+JCA": {
-        "en": "A portal has opened to the east in the central hallway.",
-        "pt": "Um portal ao leste surgiu no hall central.",
-        "es": "Se ha abierto un portal al este en el pasillo central."
+        "en-US": "A portal has opened to the east in the central hallway.",
+        "pt-BR": "Um portal ao leste surgiu no hall central.",
+        "es-ES": "Se ha abierto un portal al este en el pasillo central."
     },
     "Kg+JCA": {
-        "en": "An evil presence has teleported into this area.",
-        "pt": "Uma presença maligna se teleportou para esta região.",
-        "es": "Una presencia maligna se ha teletransportado a esta zona."
+        "en-US": "An evil presence has teleported into this area.",
+        "pt-BR": "Uma presença maligna se teleportou para esta região.",
+        "es-ES": "Una presencia maligna se ha teletransportado a esta zona."
     },
     "Kw+JCA": {
-        "en": "2nd Commander of Destruction",
-        "pt": "Desmorta Sombria",
-        "es": "2º Comandante de Destrucción"
+        "en-US": "2nd Commander of Destruction",
+        "pt-BR": "Desmorta Sombria",
+        "es-ES": "2º Comandante de Destrucción"
     },
     "LA+JCA": {
-        "en": "A new portal has appeared at the end of the central corridor.",
-        "pt": "Um novo portal surgiu no fim do corredor central.",
-        "es": "Ha aparecido un nuevo portal al final del pasillo central."
+        "en-US": "A new portal has appeared at the end of the central corridor.",
+        "pt-BR": "Um novo portal surgiu no fim do corredor central.",
+        "es-ES": "Ha aparecido un nuevo portal al final del pasillo central."
     },
     "LQ+JCA": {
-        "en": "Decomposed body",
-        "pt": "Corpo em decomposição",
-        "es": "Cuerpo descompuesto"
+        "en-US": "Decomposed body",
+        "pt-BR": "Corpo em decomposição",
+        "es-ES": "Cuerpo descompuesto"
     },
     "Lg+JCA": {
-        "en": "Maggot",
-        "pt": "Arclouse Sombrio",
-        "es": "Gusano"
+        "en-US": "Maggot",
+        "pt-BR": "Arclouse Sombrio",
+        "es-ES": "Gusano"
     },
     "Lw+JCA": {
-        "en": "Flame of destruction",
-        "pt": "Chama da Destruição",
-        "es": "Llama de Destrucción"
+        "en-US": "Flame of destruction",
+        "pt-BR": "Chama da Destruição",
+        "es-ES": "Llama de Destrucción"
     },
     "MA+JCA": {
-        "en": "???: Do not come here! It's a trap... Kkkkah!!!",
-        "pt": "???: Não venha aqui! É uma armadilha! Gaaaaaah!",
-        "es": "???: ¡No vengas aquí! Es una trampa... ¡¡¡Kkkkah!!!"
+        "en-US": "???: Do not come here! It's a trap... Kkkkah!!!",
+        "pt-BR": "???: Não venha aqui! É uma armadilha! Gaaaaaah!",
+        "es-ES": "???: ¡No vengas aquí! Es una trampa... ¡¡¡Kkkkah!!!"
     },
     "MQ+JCA": {
-        "en": "Himmelmez",
-        "pt": "Himmelmez",
-        "es": "Himmelmez"
+        "en-US": "Himmelmez",
+        "pt-BR": "Himmelmez",
+        "es-ES": "Himmelmez"
     },
     "Mg+JCA": {
-        "en": "[Heinrich]\nWhat are you decorating Himmelmez!",
-        "pt": "[Heinrich]\nO que você está fazendo Himmelmez?",
-        "es": "[Heinrich]\n¡Qué estás decorando, Himmelmez!"
+        "en-US": "[Heinrich]\nWhat are you decorating Himmelmez!",
+        "pt-BR": "[Heinrich]\nO que você está fazendo Himmelmez?",
+        "es-ES": "[Heinrich]\n¡Qué estás decorando, Himmelmez!"
     },
     "Mw+JCA": {
-        "en": "[Varmunt]\n...",
-        "pt": "[Varmunt]\n...",
-        "es": "[Varmunt]\n…"
+        "en-US": "[Varmunt]\n...",
+        "pt-BR": "[Varmunt]\n...",
+        "es-ES": "[Varmunt]\n…"
     },
     "NA+JCA": {
-        "en": "^0000FFVarmunt's time may stop. He's not moving at all.^000000",
-        "pt": "^0000FFVarmunt está imóvel.^000000",
-        "es": "^0000FFEl tiempo de Varmunt puede detenerse. No se mueve en absoluto.^000000"
+        "en-US": "^0000FFVarmunt's time may stop. He's not moving at all.^000000",
+        "pt-BR": "^0000FFVarmunt está imóvel.^000000",
+        "es-ES": "^0000FFEl tiempo de Varmunt puede detenerse. No se mueve en absoluto.^000000"
     },
     "NQ+JCA": {
-        "en": "[Varmunt]\nCan't take off this bridle...",
-        "pt": "[Varmunt]\nNão consigo... Me mover...",
-        "es": "[Varmunt]\nNo puedo quitarme esta brida..."
+        "en-US": "[Varmunt]\nCan't take off this bridle...",
+        "pt-BR": "[Varmunt]\nNão consigo... Me mover...",
+        "es-ES": "[Varmunt]\nNo puedo quitarme esta brida..."
     },
     "Ng+JCA": {
-        "en": "Gerhalt",
-        "pt": "Geralt",
-        "es": "Gerhalt"
+        "en-US": "Gerhalt",
+        "pt-BR": "Geralt",
+        "es-ES": "Gerhalt"
     },
     "Nw+JCA": {
-        "en": "[Gerhalt]\nUuuuu... Khhhah! Just run away with the commander.",
-        "pt": "[Geralt]\nWaaaaah! Fujam com o Comandante!",
-        "es": "[Gerhalt]\nUuuuu... ¡Khhhah! Huye con el comandante."
+        "en-US": "[Gerhalt]\nUuuuu... Khhhah! Just run away with the commander.",
+        "pt-BR": "[Geralt]\nWaaaaah! Fujam com o Comandante!",
+        "es-ES": "[Gerhalt]\nUuuuu... ¡Khhhah! Huye con el comandante."
     },
     "OA+JCA": {
-        "en": "[Himmelmez]\nThat is amazing ~ you made it all the way here. May I say thank you?",
-        "pt": "[Himmelmez]\nIsso é incrível! Vocês chegaram até aqui! Merecem meus parabéns.",
-        "es": "[Himmelmez]\nEs increíble que hayas llegado hasta aquí. ¿Puedo darle las gracias?"
+        "en-US": "[Himmelmez]\nThat is amazing ~ you made it all the way here. May I say thank you?",
+        "pt-BR": "[Himmelmez]\nIsso é incrível! Vocês chegaram até aqui! Merecem meus parabéns.",
+        "es-ES": "[Himmelmez]\nEs increíble que hayas llegado hasta aquí. ¿Puedo darle las gracias?"
     },
     "OQ+JCA": {
-        "en": "Himmelmez: Amazing~ I thought that you were not even close to getting here...",
-        "pt": "Himmelmez: Incrível. Não achei que conseguiriam chegar até aqui...",
-        "es": "Himmelmez: Increíble~ Pensé que ni siquiera estabas cerca de llegar aquí..."
+        "en-US": "Himmelmez: Amazing~ I thought that you were not even close to getting here...",
+        "pt-BR": "Himmelmez: Incrível. Não achei que conseguiriam chegar até aqui...",
+        "es-ES": "Himmelmez: Increíble~ Pensé que ni siquiera estabas cerca de llegar aquí..."
     },
     "Og+JCA": {
-        "en": "Gerhalt: Kkkkah! Run away! I can't endure anymore!",
-        "pt": "Geralt: Aaaagh! Corram! Fujam todos!!!",
-        "es": "Gerhalt: ¡Kkkkah! ¡Vete! ¡No aguanto más!"
+        "en-US": "Gerhalt: Kkkkah! Run away! I can't endure anymore!",
+        "pt-BR": "Geralt: Aaaagh! Corram! Fujam todos!!!",
+        "es-ES": "Gerhalt: ¡Kkkkah! ¡Vete! ¡No aguanto más!"
     },
     "Ow+JCA": {
-        "en": "Heinrich: Gerhalt!",
-        "pt": "Heinrich: Geralt!",
-        "es": "Heinrich: ¡Gerhalt!"
+        "en-US": "Heinrich: Gerhalt!",
+        "pt-BR": "Heinrich: Geralt!",
+        "es-ES": "Heinrich: ¡Gerhalt!"
     },
     "PA+JCA": {
-        "en": "Gerhalt: Commander... we must get out from here Ahhhh!",
-        "pt": "Geralt: Comandante... Precisamos fugir daqui! Ahhhh!",
-        "es": "Gerhalt: Comandante... debemos salir de aquí ¡Ahhhh!"
+        "en-US": "Gerhalt: Commander... we must get out from here Ahhhh!",
+        "pt-BR": "Geralt: Comandante... Precisamos fugir daqui! Ahhhh!",
+        "es-ES": "Gerhalt: Comandante... debemos salir de aquí ¡Ahhhh!"
     },
     "PQ+JCA": {
-        "en": "Heinrich: What are you doing to my soldier Himmelmez!",
-        "pt": "Heinrich: Himmelmez! O que está fazendo com os meus soldados?!",
-        "es": "Heinrich: ¡Qué le estás haciendo a mi recluta Himmelmez!"
+        "en-US": "Heinrich: What are you doing to my soldier Himmelmez!",
+        "pt-BR": "Heinrich: Himmelmez! O que está fazendo com os meus soldados?!",
+        "es-ES": "Heinrich: ¡Qué le estás haciendo a mi recluta Himmelmez!"
     },
     "Pg+JCA": {
-        "en": "Himmelmez: Hoo hoo, I already found a piece of Ymir's heart Heinrich.",
-        "pt": "Himmelmez: Ah, que maravilha. Eu já descobri onde o fragmento do Coração de Ymir está escondido.",
-        "es": "Himmelmez: Jo, jo, jo, ya encontré un pedazo del corazón de Ymir Heinrich."
+        "en-US": "Himmelmez: Hoo hoo, I already found a piece of Ymir's heart Heinrich.",
+        "pt-BR": "Himmelmez: Ah, que maravilha. Eu já descobri onde o fragmento do Coração de Ymir está escondido.",
+        "es-ES": "Himmelmez: Jo, jo, jo, ya encontré un pedazo del corazón de Ymir Heinrich."
     },
     "Pw+JCA": {
-        "en": "Himmelmez: If he did not bother me, it would have been faster.",
-        "pt": "Himmelmez: Se essa peste não tivesse me incomodado, as coisas teriam sido mais fáceis...",
-        "es": "Himmelmez: Si no me hubiera molestado, habría sido más rápido."
+        "en-US": "Himmelmez: If he did not bother me, it would have been faster.",
+        "pt-BR": "Himmelmez: Se essa peste não tivesse me incomodado, as coisas teriam sido mais fáceis...",
+        "es-ES": "Himmelmez: Si no me hubiera molestado, habría sido más rápido."
     },
     "QA+JCA": {
-        "en": "Gerhalt: You can make my body but you can't take my soul Himmelmez!",
-        "pt": "Geralt: Pode controlar meu corpo, mas não pode controlar a minha alma, Himmelmez!",
-        "es": "Gerhalt: ¡Puedes hacer lo que quieras con mi cuerpo, pero no puedes tomar mi alma, Himmelmez!"
+        "en-US": "Gerhalt: You can make my body but you can't take my soul Himmelmez!",
+        "pt-BR": "Geralt: Pode controlar meu corpo, mas não pode controlar a minha alma, Himmelmez!",
+        "es-ES": "Gerhalt: ¡Puedes hacer lo que quieras con mi cuerpo, pero no puedes tomar mi alma, Himmelmez!"
     },
     "QQ+JCA": {
-        "en": "Himmelmez: Really? What makes you think so?",
-        "pt": "Himmelmez: Hum, será mesmo?",
-        "es": "Himmelmez: ¿De verdad? ¿Qué te hace pensar eso?"
+        "en-US": "Himmelmez: Really? What makes you think so?",
+        "pt-BR": "Himmelmez: Hum, será mesmo?",
+        "es-ES": "Himmelmez: ¿De verdad? ¿Qué te hace pensar eso?"
     },
     "Qg+JCA": {
-        "en": "Heinrich: Himmelmez! You already made what you want so there is no more need for a sacrifice!",
-        "pt": "Heinrich: Himmelmez! Você já conseguiu o que queria, então vá embora!",
-        "es": "Heinrich: ¡Himmelmez! Ya has hecho lo que querías, ¡así que ya no hay necesidad de más sacrificios!"
+        "en-US": "Heinrich: Himmelmez! You already made what you want so there is no more need for a sacrifice!",
+        "pt-BR": "Heinrich: Himmelmez! Você já conseguiu o que queria, então vá embora!",
+        "es-ES": "Heinrich: ¡Himmelmez! Ya has hecho lo que querías, ¡así que ya no hay necesidad de más sacrificios!"
     },
     "Qw+JCA": {
-        "en": "Heinrich: Let him go! I don't need to see anyone else suffer!",
-        "pt": "Heinrich: Deixe-o em paz! Ninguém mais precisa sofrer!",
-        "es": "Heinrich: ¡Déjalo ir! ¡No necesito ver sufrir a nadie más!"
+        "en-US": "Heinrich: Let him go! I don't need to see anyone else suffer!",
+        "pt-BR": "Heinrich: Deixe-o em paz! Ninguém mais precisa sofrer!",
+        "es-ES": "Heinrich: ¡Déjalo ir! ¡No necesito ver sufrir a nadie más!"
     },
     "RA+JCA": {
-        "en": "Himmelmez: Let him go? I think... No...",
-        "pt": "Himmelmez: Deixá-lo? Hmmm, acho que não...",
-        "es": "Himmelmez: ¿Dejarlo ir? Creo que… No…"
+        "en-US": "Himmelmez: Let him go? I think... No...",
+        "pt-BR": "Himmelmez: Deixá-lo? Hmmm, acho que não...",
+        "es-ES": "Himmelmez: ¿Dejarlo ir? Creo que… No…"
     },
     "RQ+JCA": {
-        "en": "Himmelmez: Besides, this is your last surviving soldier Heinrich.",
-        "pt": "Himmelmez: Além disso, este é o seu último soldado vivo, Heinrich.",
-        "es": "Himmelmez: Además, este es su último recluta sobreviviente, Heinrich."
+        "en-US": "Himmelmez: Besides, this is your last surviving soldier Heinrich.",
+        "pt-BR": "Himmelmez: Além disso, este é o seu último soldado vivo, Heinrich.",
+        "es-ES": "Himmelmez: Además, este es su último recluta sobreviviente, Heinrich."
     },
     "Rg+JCA": {
-        "en": "Himmelmez: He made life difficult for me.",
-        "pt": "Himmelmez: Ele... Demonstrou habilidades surpreendentes...",
-        "es": "Himmelmez: Me complicó la vida."
+        "en-US": "Himmelmez: He made life difficult for me.",
+        "pt-BR": "Himmelmez: Ele... Demonstrou habilidades surpreendentes...",
+        "es-ES": "Himmelmez: Me complicó la vida."
     },
     "Rw+JCA": {
-        "en": "Himmelmez: He is perfectly fit for my new creation Amdarais.",
-        "pt": "Himmelmez: É o candidato perfeito para a minha nova criação: o Amdarais.",
-        "es": "Himmelmez: Se adapta perfectamente a mi nueva creación, Amdarais."
+        "en-US": "Himmelmez: He is perfectly fit for my new creation Amdarais.",
+        "pt-BR": "Himmelmez: É o candidato perfeito para a minha nova criação: o Amdarais.",
+        "es-ES": "Himmelmez: Se adapta perfectamente a mi nueva creación, Amdarais."
     },
     "SA+JCA": {
-        "en": "Heinrich: I'll never forgive you.",
-        "pt": "Heinrich: Eu jamais perdoarei você.",
-        "es": "Heinrich: Nunca te perdonaré."
+        "en-US": "Heinrich: I'll never forgive you.",
+        "pt-BR": "Heinrich: Eu jamais perdoarei você.",
+        "es-ES": "Heinrich: Nunca te perdonaré."
     },
     "SQ+JCA": {
-        "en": "Himmelmez: Uh uh ~ I'm so scared.",
-        "pt": "Himmelmez: Uhhhhh... Tô tão assustada...",
-        "es": "Himmelmez: Uh uh ~ Estoy tan asustada."
+        "en-US": "Himmelmez: Uh uh ~ I'm so scared.",
+        "pt-BR": "Himmelmez: Uhhhhh... Tô tão assustada...",
+        "es-ES": "Himmelmez: Uh uh ~ Estoy tan asustada."
     },
     "Sg+JCA": {
-        "en": "Himmelmez: Anyway, we will have a chance to see because we need to talk more.",
-        "pt": "Himmelmez: Enfim, tenho certeza que nos veremos em outras oportunidades... Ou não!",
-        "es": "Himmelmez: De todos modos, tendremos ocasión de verlo porque necesitamos hablar más."
+        "en-US": "Himmelmez: Anyway, we will have a chance to see because we need to talk more.",
+        "pt-BR": "Himmelmez: Enfim, tenho certeza que nos veremos em outras oportunidades... Ou não!",
+        "es-ES": "Himmelmez: De todos modos, tendremos ocasión de verlo porque necesitamos hablar más."
     },
     "Sw+JCA": {
-        "en": "Himmelmez: So long boys.",
-        "pt": "Himmelmez: Adeus!",
-        "es": "Himmelmez: Hasta luego, chicos."
+        "en-US": "Himmelmez: So long boys.",
+        "pt-BR": "Himmelmez: Adeus!",
+        "es-ES": "Himmelmez: Hasta luego, chicos."
     },
     "TA+JCA": {
-        "en": "Heinrich: I'll never let you get away Himmelmez!!",
-        "pt": "Heinrich: Jamais deixarei você fugir, Himmelmez!",
-        "es": "Heinrich: ¡¡Nunca dejaré que te escapes, Himmelmez!!"
+        "en-US": "Heinrich: I'll never let you get away Himmelmez!!",
+        "pt-BR": "Heinrich: Jamais deixarei você fugir, Himmelmez!",
+        "es-ES": "Heinrich: ¡¡Nunca dejaré que te escapes, Himmelmez!!"
     },
     "TQ+JCA": {
-        "en": "Varmunt: We have no choice. We have to fight against Amdarais!",
-        "pt": "Varmunt: Não temos escolha. Teremos que enfrentar o Amdarais!",
-        "es": "Varmunt: No tenemos elección. ¡Tenemos que luchar contra Amdarais!"
+        "en-US": "Varmunt: We have no choice. We have to fight against Amdarais!",
+        "pt-BR": "Varmunt: Não temos escolha. Teremos que enfrentar o Amdarais!",
+        "es-ES": "Varmunt: No tenemos elección. ¡Tenemos que luchar contra Amdarais!"
     },
     "Tg+JCA": {
-        "en": "Varmunt: Let me help this battle with my illusion. Just follow the illusion's orders.",
-        "pt": "Varmunt: Eu o ajudarei nesta batalha com a minha ilusão. Siga as suas instruções!",
-        "es": "Varmunt: Déjame ayudar en esta batalla con mi ilusión. Solo siga las órdenes de la ilusión."
+        "en-US": "Varmunt: Let me help this battle with my illusion. Just follow the illusion's orders.",
+        "pt-BR": "Varmunt: Eu o ajudarei nesta batalha com a minha ilusão. Siga as suas instruções!",
+        "es-ES": "Varmunt: Déjame ayudar en esta batalla con mi ilusión. Solo siga las órdenes de la ilusión."
     },
     "Tw+JCA": {
-        "en": "Varmunt's Ghost",
-        "pt": "Fantasma de Varmunt",
-        "es": "El fantasma de Varmunt"
+        "en-US": "Varmunt's Ghost",
+        "pt-BR": "Fantasma de Varmunt",
+        "es-ES": "El fantasma de Varmunt"
     },
     "UA+JCA": {
-        "en": "Varmunt's Ghost: Amdarais may use a strong magic shield! Stay close to me and I'll protect you!",
-        "pt": "Fantasma de Varmunt: Amdarais às vezes usa um escudo mágico poderoso! Fique próximo de mim e eu o protegerei!",
-        "es": "El fantasma de Varmunt: ¡Amdarais puede usar un escudo mágico fuerte! ¡Quédate cerca de mí y te protegeré!"
+        "en-US": "Varmunt's Ghost: Amdarais may use a strong magic shield! Stay close to me and I'll protect you!",
+        "pt-BR": "Fantasma de Varmunt: Amdarais às vezes usa um escudo mágico poderoso! Fique próximo de mim e eu o protegerei!",
+        "es-ES": "El fantasma de Varmunt: ¡Amdarais puede usar un escudo mágico fuerte! ¡Quédate cerca de mí y te protegeré!"
     },
     "UQ+JCA": {
-        "en": "Varmunt's Ghost: Now's a chance to attack!  Come closer to me and strike!",
-        "pt": "Fantasma de Varmunt: Agora é a chance de atacar! Venha junto comigo e ataque!",
-        "es": "El fantasma de Varmunt: ¡Ahora es la oportunidad de atacar!  ¡Acércate a mí y golpea!"
+        "en-US": "Varmunt's Ghost: Now's a chance to attack!  Come closer to me and strike!",
+        "pt-BR": "Fantasma de Varmunt: Agora é a chance de atacar! Venha junto comigo e ataque!",
+        "es-ES": "El fantasma de Varmunt: ¡Ahora es la oportunidad de atacar!  ¡Acércate a mí y golpea!"
     },
     "Ug+JCA": {
-        "en": "Varmunt's Ghost: If you don't want to be attacked by Amdarais' zombie, come to me and get more power!",
-        "pt": "Fantasma de Varmunt: Se você não quiser ser derrotado por Amdarais, venha até mim!",
-        "es": "El fantasma de Varmunt: ¡Si no quieres ser atacado por el zombi de Amdarais, ven a mí y consigue más poder!"
+        "en-US": "Varmunt's Ghost: If you don't want to be attacked by Amdarais' zombie, come to me and get more power!",
+        "pt-BR": "Fantasma de Varmunt: Se você não quiser ser derrotado por Amdarais, venha até mim!",
+        "es-ES": "El fantasma de Varmunt: ¡Si no quieres ser atacado por el zombi de Amdarais, ven a mí y consigue más poder!"
     },
     "Uw+JCA": {
-        "en": "Varmunt's Ghost: If you don't want to be attacked by Amdarais's power, come to me and get more power!",
-        "pt": "Fantasma de Varmunt: Se você não quiser ser derrotado por Amdarais, venha até mim!",
-        "es": "El fantasma de Varmunt: ¡Si no quieres ser atacado por el poder de Amdarais, ven a mí y consigue más poder!"
+        "en-US": "Varmunt's Ghost: If you don't want to be attacked by Amdarais's power, come to me and get more power!",
+        "pt-BR": "Fantasma de Varmunt: Se você não quiser ser derrotado por Amdarais, venha até mim!",
+        "es-ES": "El fantasma de Varmunt: ¡Si no quieres ser atacado por el poder de Amdarais, ven a mí y consigue más poder!"
     },
     "VA+JCA": {
-        "en": "Phantom of Amdarais",
-        "pt": "Amdarais Sombrio",
-        "es": "Amdarais Sombrío"
+        "en-US": "Phantom of Amdarais",
+        "pt-BR": "Amdarais Sombrio",
+        "es-ES": "Amdarais Sombrío"
     },
     "VQ+JCA": {
-        "en": "Run away... run away from me...",
-        "pt": "Corra... Fuja de mim...",
-        "es": "Huye... huye de mí..."
+        "en-US": "Run away... run away from me...",
+        "pt-BR": "Corra... Fuja de mim...",
+        "es-ES": "Huye... huye de mí..."
     },
     "Vg+JCA": {
-        "en": "I don't want... I don't want to kill anyone. Uhuuuuuh",
-        "pt": "Eu não quero... Machucar ninguém... Uuugh...",
-        "es": "No quiero... No quiero matar a nadie. Uhuuuuuh"
+        "en-US": "I don't want... I don't want to kill anyone. Uhuuuuuh",
+        "pt-BR": "Eu não quero... Machucar ninguém... Uuugh...",
+        "es-ES": "No quiero... No quiero matar a nadie. Uhuuuuuh"
     },
     "Vw+JCA": {
-        "en": "Please kill me! Please!",
-        "pt": "Acabe com o meu sofrimento! Agora!",
-        "es": "¡Por favor, mátame! ¡Por favor!"
+        "en-US": "Please kill me! Please!",
+        "pt-BR": "Acabe com o meu sofrimento! Agora!",
+        "es-ES": "¡Por favor, mátame! ¡Por favor!"
     },
     "WA+JCA": {
-        "en": "Eeeeee...eee...die... die...",
-        "pt": "Aaaaargh... Mooorra... Morra...",
-        "es": "Eeeeee...eee...muere...muere..."
+        "en-US": "Eeeeee...eee...die... die...",
+        "pt-BR": "Aaaaargh... Mooorra... Morra...",
+        "es-ES": "Eeeeee...eee...muere...muere..."
     },
     "WQ+JCA": {
-        "en": "Demolition... Death!...",
-        "pt": "Destruição... Morte...",
-        "es": "Demolición... ¡Muerte!..."
+        "en-US": "Demolition... Death!...",
+        "pt-BR": "Destruição... Morte...",
+        "es-ES": "Demolición... ¡Muerte!..."
     },
     "Wg+JCA": {
-        "en": "Dying of Rising [ {0} ] Recovered",
-        "pt": "recuperou [ {0} ] de HP",
-        "es": "Muerte en ascenso [ {0} ] Recuperado"
+        "en-US": "Dying of Rising [ {0} ] Recovered",
+        "pt-BR": "recuperou [ {0} ] de HP",
+        "es-ES": "Muerte en ascenso [ {0} ] Recuperado"
     },
     "Ww+JCA": {
-        "en": "I'm unbeatable!!!",
-        "pt": "Sou indestrutível!!!",
-        "es": "¡¡¡Soy invencible!!!"
+        "en-US": "I'm unbeatable!!!",
+        "pt-BR": "Sou indestrutível!!!",
+        "es-ES": "¡¡¡Soy invencible!!!"
     },
     "XA+JCA": {
-        "en": "Be frozen!!",
-        "pt": "Morra!",
-        "es": "¡¡Congélate!!"
+        "en-US": "Be frozen!!",
+        "pt-BR": "Morra!",
+        "es-ES": "¡¡Congélate!!"
     },
     "XQ+JCA": {
-        "en": "Amdarais HP {0}% !",
-        "pt": "Amdarais HP {0}% !",
-        "es": "¡HP Amdarais {0}%!"
+        "en-US": "Amdarais HP {0}% !",
+        "pt-BR": "Amdarais HP {0}% !",
+        "es-ES": "¡HP Amdarais {0}%!"
     },
     "Xg+JCA": {
-        "en": "Gerhalt's body is changing.",
-        "pt": "O corpo de Geralt está se transformando...",
-        "es": "El cuerpo de Gerhalt está cambiando."
+        "en-US": "Gerhalt's body is changing.",
+        "pt-BR": "O corpo de Geralt está se transformando...",
+        "es-ES": "El cuerpo de Gerhalt está cambiando."
     },
     "Xw+JCA": {
-        "en": "Hugin",
-        "pt": "Hugin",
-        "es": "Hugin"
+        "en-US": "Hugin",
+        "pt-BR": "Hugin",
+        "es-ES": "Hugin"
     },
     "YA+JCA": {
-        "en": "You have too much type of stuff. Please reduce type of stuff and try again.",
-        "pt": "Você está carregando muitos itens iguais. Reduza o tipo de itens e tente novamente.",
-        "es": "Tiene demasiados equipamientos. Por favor, reduzca la cantidad de equipamientos e inténtelo de nuevo."
+        "en-US": "You have too much type of stuff. Please reduce type of stuff and try again.",
+        "pt-BR": "Você está carregando muitos itens iguais. Reduza o tipo de itens e tente novamente.",
+        "es-ES": "Tiene demasiados equipamientos. Por favor, reduzca la cantidad de equipamientos e inténtelo de nuevo."
     },
     "YQ+JCA": {
-        "en": "Your stuff is over weight that is why can't continue playing. Plese reduce weight and try again.",
-        "pt": "Você passou do limite de peso, por isso não pode continuar jogando. Por favor, reduza o peso e tente novamente.",
-        "es": "Su equipamiento pesa demasiado, por eso no puede seguir jugando. Reduzca el peso e inténtelo de nuevo."
+        "en-US": "Your stuff is over weight that is why can't continue playing. Plese reduce weight and try again.",
+        "pt-BR": "Você passou do limite de peso, por isso não pode continuar jogando. Por favor, reduza o peso e tente novamente.",
+        "es-ES": "Su equipamiento pesa demasiado, por eso no puede seguir jugando. Reduzca el peso e inténtelo de nuevo."
     },
     "Yg+JCA": {
-        "en": "[Hugin]\nHm, you are very well. First of all, let me give you some loot from Amdarais.",
-        "pt": "[Hugin]\nMuito bem. Aqui estão alguns dos espólios de Amdarais.",
-        "es": "[Hugin]\nHm, estás muy bien. En primer lugar, déjame darte un botín de Amdarais."
+        "en-US": "[Hugin]\nHm, you are very well. First of all, let me give you some loot from Amdarais.",
+        "pt-BR": "[Hugin]\nMuito bem. Aqui estão alguns dos espólios de Amdarais.",
+        "es-ES": "[Hugin]\nHm, estás muy bien. En primer lugar, déjame darte un botín de Amdarais."
     },
     "Yw+JCA": {
-        "en": "[Hugin]\nVarmunt's time is stopped by me. And your time will be distorted soon.",
-        "pt": "[Hugin]\nO tempo de Varmunt foi parado por mim. E o seu tempo será distorcido em breve.",
-        "es": "[Hugin]\nEl tiempo de Varmunt está detenido por mí. Y tu tiempo se distorsionará pronto."
+        "en-US": "[Hugin]\nVarmunt's time is stopped by me. And your time will be distorted soon.",
+        "pt-BR": "[Hugin]\nO tempo de Varmunt foi parado por mim. E o seu tempo será distorcido em breve.",
+        "es-ES": "[Hugin]\nEl tiempo de Varmunt está detenido por mí. Y tu tiempo se distorsionará pronto."
     },
     "ZA+JCA": {
-        "en": "[Hugin]\nMaybe this poor time traveler will try to stop Glastheim's tragedy from happening.",
-        "pt": "[Hugin]\nTalvez este viajante do tempo tentará evitar a tragédia de Glastheim...",
-        "es": "[Hugin]\nQuizá este pobre viajero del tiempo intente evitar que ocurra la tragedia de Glastheim."
+        "en-US": "[Hugin]\nMaybe this poor time traveler will try to stop Glastheim's tragedy from happening.",
+        "pt-BR": "[Hugin]\nTalvez este viajante do tempo tentará evitar a tragédia de Glastheim...",
+        "es-ES": "[Hugin]\nQuizá este pobre viajero del tiempo intente evitar que ocurra la tragedia de Glastheim."
     },
     "ZQ+JCA": {
-        "en": "[Hugin]\nHowever, we will never overlook his behavior now and forever...",
-        "pt": "[Hugin]\nEntretanto, jamais nos esqueceremos de suas atitudes.",
-        "es": "[Hugin]\nSin embargo, nunca pasaremos por alto su comportamiento ahora y siempre..."
+        "en-US": "[Hugin]\nHowever, we will never overlook his behavior now and forever...",
+        "pt-BR": "[Hugin]\nEntretanto, jamais nos esqueceremos de suas atitudes.",
+        "es-ES": "[Hugin]\nSin embargo, nunca pasaremos por alto su comportamiento ahora y siempre..."
     },
     "Zg+JCA": {
-        "en": "[Hugin]\nNow, let me remove your memory. If you see me again, that will be brand new.",
-        "pt": "[Hugin]\nAgora, deixe-me apagar essa aventura da sua memória. Para você, passarei a ser apenas um estranho.",
-        "es": "[Hugin]\nAhora, déjame borrar tu memoria. Si me vuelves a ver, será nuevo."
+        "en-US": "[Hugin]\nNow, let me remove your memory. If you see me again, that will be brand new.",
+        "pt-BR": "[Hugin]\nAgora, deixe-me apagar essa aventura da sua memória. Para você, passarei a ser apenas um estranho.",
+        "es-ES": "[Hugin]\nAhora, déjame borrar tu memoria. Si me vuelves a ver, será nuevo."
     },
     "Zw+JCA": {
-        "en": "[Hugin]\nOops I almost distorted the time gap. Come over here. We need to go out!",
-        "pt": "[Hugin]\nOps, quase fiz um acidente com o fluxo do tempo. Venha, precisamos sair daqui!",
-        "es": "[Hugin]\nUy, casi distorsiono la brecha temporal. Ven aquí. ¡Tenemos que salir!"
+        "en-US": "[Hugin]\nOops I almost distorted the time gap. Come over here. We need to go out!",
+        "pt-BR": "[Hugin]\nOps, quase fiz um acidente com o fluxo do tempo. Venha, precisamos sair daqui!",
+        "es-ES": "[Hugin]\nUy, casi distorsiono la brecha temporal. Ven aquí. ¡Tenemos que salir!"
     },
     "aA+JCA": {
-        "en": "You were just with me...",
-        "pt": "Você estava aqui agora mesmo...",
-        "es": "Estabas conmigo..."
+        "en-US": "You were just with me...",
+        "pt-BR": "Você estava aqui agora mesmo...",
+        "es-ES": "Estabas conmigo..."
     },
     "aQ+JCA": {
-        "en": "[Hugin]\nWhat did you say just before? Anyway that is not important, The gap of time will be closed so, we need to get out of here.",
-        "pt": "[Hugin]\nO que você disse? Enfim, não é importante, a fissura temporal vai fechar, então precisamos sair daqui.",
-        "es": "[Hugin]\n¿Qué dijiste justo antes? De todos modos, eso no es importante, la brecha de tiempo se cerrará, por lo que tenemos que salir de aquí."
+        "en-US": "[Hugin]\nWhat did you say just before? Anyway that is not important, The gap of time will be closed so, we need to get out of here.",
+        "pt-BR": "[Hugin]\nO que você disse? Enfim, não é importante, a fissura temporal vai fechar, então precisamos sair daqui.",
+        "es-ES": "[Hugin]\n¿Qué dijiste justo antes? De todos modos, eso no es importante, la brecha de tiempo se cerrará, por lo que tenemos que salir de aquí."
     },
     "ag+JCA": {
-        "en": "Let me look around more",
-        "pt": "Preciso dar mais uma olhada.",
-        "es": "Déjame mirar más"
+        "en-US": "Let me look around more",
+        "pt-BR": "Preciso dar mais uma olhada.",
+        "es-ES": "Déjame mirar más"
     },
     "aw+JCA": {
-        "en": "Please let me out",
-        "pt": "Por favor, me deixe sair",
-        "es": "Por favor, déjame salir"
+        "en-US": "Please let me out",
+        "pt-BR": "Por favor, me deixe sair",
+        "es-ES": "Por favor, déjame salir"
     },
     "bA+JCA": {
-        "en": "[Hugin]\nReally? This place will be broke down so, please look around quickly.",
-        "pt": "[Hugin]\nSério? Esse lugar vai desaparecer em breve, então seja rápido.",
-        "es": "[Hugin]\n¿De verdad? Este lugar se derrumbará así que, por favor, mira a tu alrededor rápidamente."
+        "en-US": "[Hugin]\nReally? This place will be broke down so, please look around quickly.",
+        "pt-BR": "[Hugin]\nSério? Esse lugar vai desaparecer em breve, então seja rápido.",
+        "es-ES": "[Hugin]\n¿De verdad? Este lugar se derrumbará así que, por favor, mira a tu alrededor rápidamente."
     }
 }

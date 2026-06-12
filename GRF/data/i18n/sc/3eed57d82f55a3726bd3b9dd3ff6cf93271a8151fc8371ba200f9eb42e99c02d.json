@@ -1,17 +1,17 @@
 {
     "QDH3": {
-        "en": "[{0}]\nYou can see the exit.",
-        "pt": "[{0}]\nConsigo ver a saída.",
-        "es": "[{0}]\nPuedes ver la salida."
+        "en-US": "[{0}]\nYou can see the exit.",
+        "pt-BR": "[{0}]\nConsigo ver a saída.",
+        "es-ES": "[{0}]\nPuedes ver la salida."
     },
     "QTH3": {
-        "en": "Go back to Lighthalzen.",
-        "pt": "Voltar para Lighthalzen.",
-        "es": "Regresar a Lighthalzen."
+        "en-US": "Go back to Lighthalzen.",
+        "pt-BR": "Voltar para Lighthalzen.",
+        "es-ES": "Regresar a Lighthalzen."
     },
     "QjH3": {
-        "en": "Don't go back.",
-        "pt": "Ficar aqui.",
-        "es": "No volver."
+        "en-US": "Don't go back.",
+        "pt-BR": "Ficar aqui.",
+        "es-ES": "No volver."
     }
 }

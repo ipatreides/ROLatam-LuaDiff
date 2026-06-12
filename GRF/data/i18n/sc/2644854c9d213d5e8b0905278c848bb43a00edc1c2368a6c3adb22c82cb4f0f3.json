@@ -1,140 +1,140 @@
 {
     "wFDnBw": {
-        "ko": "[{0}]",
-        "en": "[{0}]",
-        "pt": "[{0}]",
-        "es": "[{0}]"
+        "ko-KR": "[{0}]",
+        "en-US": "[{0}]",
+        "pt-BR": "[{0}]",
+        "es-ES": "[{0}]"
     },
     "wVDnBw": {
-        "ko": "[로직 관리자]\n어뷰징 관련 해외용패치\n현재 FLOW {0}",
-        "en": "[Logic Manager]\nOverseas patch related to abusing\nCurrent FLOW {0}",
-        "pt": "[Gerenciador de Lógica]\nPatch relacionado a bug abuse.\nFLOW atual {0}",
-        "es": "[Administrador de lógica]\nParche para el extranjero relacionado con el abuso\nFLOW actual {0}"
+        "ko-KR": "[로직 관리자]\n어뷰징 관련 해외용패치\n현재 FLOW {0}",
+        "en-US": "[Logic Manager]\nOverseas patch related to abusing\nCurrent FLOW {0}",
+        "pt-BR": "[Gerenciador de Lógica]\nPatch relacionado a bug abuse.\nFLOW atual {0}",
+        "es-ES": "[Administrador de lógica]\nParche para el extranjero relacionado con el abuso\nFLOW actual {0}"
     },
     "wlDnBw": {
-        "ko": "오러옵션",
-        "en": "Aura Option",
-        "pt": "Opção de Aura",
-        "es": "Opción de aura"
+        "ko-KR": "오러옵션",
+        "en-US": "Aura Option",
+        "pt-BR": "Opção de Aura",
+        "es-ES": "Opción de aura"
     },
     "w1DnBw": {
-        "ko": "힐옵션",
-        "en": "Heal Option",
-        "pt": "Opção de Cura",
-        "es": "Opción de curación"
+        "ko-KR": "힐옵션",
+        "en-US": "Heal Option",
+        "pt-BR": "Opção de Cura",
+        "es-ES": "Opción de curación"
     },
     "xFDnBw": {
-        "ko": "DPS 옵션",
-        "en": "DPS Option",
-        "pt": "Opção de DPS",
-        "es": "Opción de DPS"
+        "ko-KR": "DPS 옵션",
+        "en-US": "DPS Option",
+        "pt-BR": "Opção de DPS",
+        "es-ES": "Opción de DPS"
     },
     "xVDnBw": {
-        "ko": "0 오러차단 OFF(기본)\n1 오러차단 ON",
-        "en": "0 Aura Block OFF (Default)\n1 Aura Block ON",
-        "pt": "0 Bloqueio de Aura OFF (padrão)\n1 Bloqueio de Aura ON",
-        "es": "0 Bloqueo de aura OFF (predeterminado)\n1 Bloqueo de aura ON"
+        "ko-KR": "0 오러차단 OFF(기본)\n1 오러차단 ON",
+        "en-US": "0 Aura Block OFF (Default)\n1 Aura Block ON",
+        "pt-BR": "0 Bloqueio de Aura OFF (padrão)\n1 Bloqueio de Aura ON",
+        "es-ES": "0 Bloqueo de aura OFF (predeterminado)\n1 Bloqueo de aura ON"
     },
     "xlDnBw": {
-        "ko": "0 힐차단 OFF(기본)\n2 힐차단 ON",
-        "en": "0 Heal Block OFF (Default)\n2 Heal Block ON",
-        "pt": "0 Bloqueio de Cura OFF (padrão)\n2 Bloqueio de Cura ON",
-        "es": "0 Bloqueo de curación OFF (predeterminado)\n2 Bloqueo de curación ON"
+        "ko-KR": "0 힐차단 OFF(기본)\n2 힐차단 ON",
+        "en-US": "0 Heal Block OFF (Default)\n2 Heal Block ON",
+        "pt-BR": "0 Bloqueio de Cura OFF (padrão)\n2 Bloqueio de Cura ON",
+        "es-ES": "0 Bloqueo de curación OFF (predeterminado)\n2 Bloqueo de curación ON"
     },
     "x1DnBw": {
-        "ko": "0 DPS OFF(기본)\n1 DPS ON(타 방송 불가)",
-        "en": "0 DPS OFF (Default)\n1 DPS ON (Not allowed on other broadcasts)",
-        "pt": "0 DPS OFF (padrão)\n1 DPS ON (outras broadcasts não permitidas)",
-        "es": "0 DPS OFF (predeterminado)\n1 DPS ON (no se permite en otras transmisiones)"
+        "ko-KR": "0 DPS OFF(기본)\n1 DPS ON(타 방송 불가)",
+        "en-US": "0 DPS OFF (Default)\n1 DPS ON (Not allowed on other broadcasts)",
+        "pt-BR": "0 DPS OFF (padrão)\n1 DPS ON (outras broadcasts não permitidas)",
+        "es-ES": "0 DPS OFF (predeterminado)\n1 DPS ON (no se permite en otras transmisiones)"
     },
     "yFDnBw": {
-        "ko": "람다",
-        "en": "Lambda",
-        "pt": "Lambda",
-        "es": "Lambda"
+        "ko-KR": "람다",
+        "en-US": "Lambda",
+        "pt-BR": "Lambda",
+        "es-ES": "Lambda"
     },
     "yVDnBw": {
-        "ko": "우리 화원구역의 어느 부분을 보완 해야할지는 확실히 확인했고. 남은건 협상이군요.",
-        "en": "We have confirmed exactly which parts of our garden area need reinforcement. All that remains is negotiation.",
-        "pt": "Identificamos quais partes do nosso jardim secreto precisam de melhorias. Agora, basta negociar.",
-        "es": "Hemos confirmado con claridad qué parte de nuestra zona del jardín de flores debe reforzarse. Lo único que queda es negociar."
+        "ko-KR": "우리 화원구역의 어느 부분을 보완 해야할지는 확실히 확인했고. 남은건 협상이군요.",
+        "en-US": "We have confirmed exactly which parts of our garden area need reinforcement. All that remains is negotiation.",
+        "pt-BR": "Identificamos quais partes do nosso jardim secreto precisam de melhorias. Agora, basta negociar.",
+        "es-ES": "Hemos confirmado con claridad qué parte de nuestra zona del jardín de flores debe reforzarse. Lo único que queda es negociar."
     },
     "ylDnBw": {
-        "ko": "카파",
-        "en": "Kappa",
-        "pt": "Kappa",
-        "es": "Kappa"
+        "ko-KR": "카파",
+        "en-US": "Kappa",
+        "pt-BR": "Kappa",
+        "es-ES": "Kappa"
     },
     "y1DnBw": {
-        "ko": "당신네 무리가 화원의 30%를 망쳐놓는바람에 보수비용이 꽤 들어가게 생겼군요.",
-        "en": "Because your group ruined 30% of the garden, it looks like the repair costs will be quite high.",
-        "pt": "Por ter destruído 30% do jardim secreto, o custo de reparo vai ser bem alto.",
-        "es": "Como tu grupo ha arruinado el 30% del jardín de flores, parece que el costo de reparación será bastante alto."
+        "ko-KR": "당신네 무리가 화원의 30%를 망쳐놓는바람에 보수비용이 꽤 들어가게 생겼군요.",
+        "en-US": "Because your group ruined 30% of the garden, it looks like the repair costs will be quite high.",
+        "pt-BR": "Por ter destruído 30% do jardim secreto, o custo de reparo vai ser bem alto.",
+        "es-ES": "Como tu grupo ha arruinado el 30% del jardín de flores, parece que el costo de reparación será bastante alto."
     },
     "zFDnBw": {
-        "ko": "바르문트님이 아직 살아있다는 이야기를 믿고싶지만 인간의 평균 수명으론 불가능하다는게 저희의 의견입니다.",
-        "en": "I want to believe the story that Lord Varmunt is still alive, but in our opinion, it is impossible given the average human lifespan.",
-        "pt": "Eu gostaria de acreditar na história de que o Sr. Varmunt ainda está vivo, mas, pela expectativa de vida média humana, na nossa opinião: é impossível.",
-        "es": "Quisiera creer la historia de que el señor Varmunt sigue con vida, pero en nuestra opinión es imposible con la esperanza de vida promedio de los humanos."
+        "ko-KR": "바르문트님이 아직 살아있다는 이야기를 믿고싶지만 인간의 평균 수명으론 불가능하다는게 저희의 의견입니다.",
+        "en-US": "I want to believe the story that Lord Varmunt is still alive, but in our opinion, it is impossible given the average human lifespan.",
+        "pt-BR": "Eu gostaria de acreditar na história de que o Sr. Varmunt ainda está vivo, mas, pela expectativa de vida média humana, na nossa opinião: é impossível.",
+        "es-ES": "Quisiera creer la historia de que el señor Varmunt sigue con vida, pero en nuestra opinión es imposible con la esperanza de vida promedio de los humanos."
     },
     "zVDnBw": {
-        "ko": "그럼에도 불구하고 연구소 폐쇄를 막고싶다면 저를 쓰러뜨리고 관리자 권한을 획득한 뒤 명령하세요.",
-        "en": "Even so, if you wish to prevent the laboratory from being shut down, defeat me, obtain administrator authority, and then give the order.",
-        "pt": "Mesmo assim, se quiser impedir o fechamento do laboratório, me derrote.",
-        "es": "Aun así, si quieres evitar el cierre del laboratorio, derrótame, obtén los privilegios de administrador y luego da la orden."
+        "ko-KR": "그럼에도 불구하고 연구소 폐쇄를 막고싶다면 저를 쓰러뜨리고 관리자 권한을 획득한 뒤 명령하세요.",
+        "en-US": "Even so, if you wish to prevent the laboratory from being shut down, defeat me, obtain administrator authority, and then give the order.",
+        "pt-BR": "Mesmo assim, se quiser impedir o fechamento do laboratório, me derrote.",
+        "es-ES": "Aun así, si quieres evitar el cierre del laboratorio, derrótame, obtén los privilegios de administrador y luego da la orden."
     },
     "zlDnBw": {
-        "ko": "<레드페퍼>",
-        "en": "<Red Pepper>",
-        "pt": "Pimentão",
-        "es": "<Pimiento rojo>"
+        "ko-KR": "<레드페퍼>",
+        "en-US": "<Red Pepper>",
+        "pt-BR": "Pimentão",
+        "es-ES": "<Pimiento rojo>"
     },
     "z1DnBw": {
-        "ko": "파티원 수의 변경으로 인해 보스몬스터가 광폭화합니다.",
-        "en": "Due to a change in the number of party members, the boss monster goes berserk.",
-        "pt": "Devido à mudança no número de membros do grupo, o monstro entrou em fúria.",
-        "es": "Debido al cambio en el número de miembros del grupo, el monstruo jefe entra en frenesí."
+        "ko-KR": "파티원 수의 변경으로 인해 보스몬스터가 광폭화합니다.",
+        "en-US": "Due to a change in the number of party members, the boss monster goes berserk.",
+        "pt-BR": "Devido à mudança no número de membros do grupo, o monstro entrou em fúria.",
+        "es-ES": "Debido al cambio en el número de miembros del grupo, el monstruo jefe entra en frenesí."
     },
     "0FDnBw": {
-        "ko": "파티원의 사망으로 인해 보스몬스터가 광폭화합니다.",
-        "en": "Due to the death of a party member, the boss monster goes berserk.",
-        "pt": "Devido à morte de um membro do grupo, o monstro entrou em fúria.",
-        "es": "Debido a la muerte de un miembro del grupo, el monstruo jefe entra en frenesí."
+        "ko-KR": "파티원의 사망으로 인해 보스몬스터가 광폭화합니다.",
+        "en-US": "Due to the death of a party member, the boss monster goes berserk.",
+        "pt-BR": "Devido à morte de um membro do grupo, o monstro entrou em fúria.",
+        "es-ES": "Debido a la muerte de un miembro del grupo, el monstruo jefe entra en frenesí."
     },
     "0VDnBw": {
-        "ko": "체력 {0} ATK {1} ATK2 {2} 오러 {3}  유효 DPS {4}   DPS {5}  회복 {6}",
-        "en": "HP {0} ATK {1} ATK2 {2} Aura {3}  Effective DPS {4}   DPS {5}  Healing {6}",
-        "pt": "HP {0} - ATQ {1} ~ {2} - Aura {3} - DPS efetivo {4} - DPS {5} - Cura {6}",
-        "es": "HP {0} ATK {1} ATK2 {2} Aura {3}  DPS efectivo {4}   DPS {5}  Curación {6}"
+        "ko-KR": "체력 {0} ATK {1} ATK2 {2} 오러 {3}  유효 DPS {4}   DPS {5}  회복 {6}",
+        "en-US": "HP {0} ATK {1} ATK2 {2} Aura {3}  Effective DPS {4}   DPS {5}  Healing {6}",
+        "pt-BR": "HP {0} - ATQ {1} ~ {2} - Aura {3} - DPS efetivo {4} - DPS {5} - Cura {6}",
+        "es-ES": "HP {0} ATK {1} ATK2 {2} Aura {3}  DPS efectivo {4}   DPS {5}  Curación {6}"
     },
     "0lDnBw": {
-        "ko": "가디언 부품",
-        "en": "Guardian Part",
-        "pt": "Partes de Guardião",
-        "es": "Pieza de guardián"
+        "ko-KR": "가디언 부품",
+        "en-US": "Guardian Part",
+        "pt-BR": "Partes de Guardião",
+        "es-ES": "Pieza de guardián"
     },
     "01DnBw": {
-        "ko": "SYSTEM: 가디언의 부품을 소환하여 관리자의 에너지 실드에 사용될 재료로 소모합니다.",
-        "en": "SYSTEM: Summons a Guardian Part and consumes it as material to be used for the administrator's energy shield.",
-        "pt": "SISTEMA: Partes de Guardião invocadas. Serão usadas para o Escudo de Energia.",
-        "es": "SYSTEM: Invoca una pieza del guardián y la consume como material que se usará en el escudo de energía del administrador."
+        "ko-KR": "SYSTEM: 가디언의 부품을 소환하여 관리자의 에너지 실드에 사용될 재료로 소모합니다.",
+        "en-US": "SYSTEM: Summons a Guardian Part and consumes it as material to be used for the administrator's energy shield.",
+        "pt-BR": "SISTEMA: Partes de Guardião invocadas. Serão usadas para o Escudo de Energia.",
+        "es-ES": "SYSTEM: Invoca una pieza del guardián y la consume como material que se usará en el escudo de energía del administrador."
     },
     "1FDnBw": {
-        "ko": "SYSTEM: 가디언 부품의 파손으로 에너지 실드가 약화됩니다.",
-        "en": "SYSTEM: The energy shield is weakened due to damage to the Guardian parts.",
-        "pt": "SISTEMA: Partes de Guardião danificadas. O Escudo de Energia está enfraquecendo.",
-        "es": "SYSTEM: El escudo de energía se debilita debido a la rotura de las piezas del Guardián."
+        "ko-KR": "SYSTEM: 가디언 부품의 파손으로 에너지 실드가 약화됩니다.",
+        "en-US": "SYSTEM: The energy shield is weakened due to damage to the Guardian parts.",
+        "pt-BR": "SISTEMA: Partes de Guardião danificadas. O Escudo de Energia está enfraquecendo.",
+        "es-ES": "SYSTEM: El escudo de energía se debilita debido a la rotura de las piezas del Guardián."
     },
     "1VDnBw": {
-        "ko": "SYSTEM: 가디언 부품이 모두 파괴되었습니다 에너지 실드 복구 불가.",
-        "en": "SYSTEM: All Guardian parts have been destroyed. The energy shield cannot be restored.",
-        "pt": "SISTEMA: Partes de Guardião destruídas. Não é possível restaurar o Escudo de Energia.",
-        "es": "SYSTEM: Todas las piezas del Guardián han sido destruidas. No es posible restaurar el escudo de energía."
+        "ko-KR": "SYSTEM: 가디언 부품이 모두 파괴되었습니다 에너지 실드 복구 불가.",
+        "en-US": "SYSTEM: All Guardian parts have been destroyed. The energy shield cannot be restored.",
+        "pt-BR": "SISTEMA: Partes de Guardião destruídas. Não é possível restaurar o Escudo de Energia.",
+        "es-ES": "SYSTEM: Todas las piezas del Guardián han sido destruidas. No es posible restaurar el escudo de energía."
     },
     "1lDnBw": {
-        "ko": "SYSTEM: 에너지 실드의 기본값이 복구 되었습니다.",
-        "en": "SYSTEM: The energy shield's default settings have been restored.",
-        "pt": "SISTEMA: O Escudo de Energia foi restaurado.",
-        "es": "SYSTEM: Se ha restaurado el valor predeterminado del escudo de energía."
+        "ko-KR": "SYSTEM: 에너지 실드의 기본값이 복구 되었습니다.",
+        "en-US": "SYSTEM: The energy shield's default settings have been restored.",
+        "pt-BR": "SISTEMA: O Escudo de Energia foi restaurado.",
+        "es-ES": "SYSTEM: Se ha restaurado el valor predeterminado del escudo de energía."
     }
 }

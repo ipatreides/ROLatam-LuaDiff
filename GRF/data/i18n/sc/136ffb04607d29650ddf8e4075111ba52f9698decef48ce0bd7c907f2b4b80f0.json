@@ -1,74 +1,74 @@
 {
     "QIakCA": {
-        "ko": "보스 몬스터가 자신의 동료들을 소환하려 합니다.",
-        "en": "The boss monster tries to summon his allies.",
-        "pt": "O chefe está chamando seus aliados.",
-        "es": "El monstruo jefe intenta invocar a sus aliados."
+        "ko-KR": "보스 몬스터가 자신의 동료들을 소환하려 합니다.",
+        "en-US": "The boss monster tries to summon his allies.",
+        "pt-BR": "O chefe está chamando seus aliados.",
+        "es-ES": "El monstruo jefe intenta invocar a sus aliados."
     },
     "QYakCA": {
-        "ko": "로다프로그",
-        "en": "Roda Frog",
-        "pt": "Sapo Escravo",
-        "es": "Rana Roda"
+        "ko-KR": "로다프로그",
+        "en-US": "Roda Frog",
+        "pt-BR": "Sapo Escravo",
+        "es-ES": "Rana Roda"
     },
     "QoakCA": {
-        "ko": "울프",
-        "en": "Wolf",
-        "pt": "Lobo Escravo",
-        "es": "Lobo"
+        "ko-KR": "울프",
+        "en-US": "Wolf",
+        "pt-BR": "Lobo Escravo",
+        "es-ES": "Lobo"
     },
     "Q4akCA": {
-        "ko": "로커",
-        "en": "Rocker",
-        "pt": "Rocker Escravo",
-        "es": "Roquero"
+        "ko-KR": "로커",
+        "en-US": "Rocker",
+        "pt-BR": "Rocker Escravo",
+        "es-ES": "Roquero"
     },
     "RIakCA": {
-        "ko": "루나틱",
-        "en": "Lunatic",
-        "pt": "Lunático Escravo",
-        "es": "Lunático"
+        "ko-KR": "루나틱",
+        "en-US": "Lunatic",
+        "pt-BR": "Lunático Escravo",
+        "es-ES": "Lunático"
     },
     "RYakCA": {
-        "ko": "가고일",
-        "en": "Gargoyle",
-        "pt": "Gárgula Escrava",
-        "es": "Gárgola"
+        "ko-KR": "가고일",
+        "en-US": "Gargoyle",
+        "pt-BR": "Gárgula Escrava",
+        "es-ES": "Gárgola"
     },
     "RoakCA": {
-        "ko": "빅풋",
-        "en": "Bigfoot",
-        "pt": "Pé-Grande Escravo",
-        "es": "Pie Grande"
+        "ko-KR": "빅풋",
+        "en-US": "Bigfoot",
+        "pt-BR": "Pé-Grande Escravo",
+        "es-ES": "Pie Grande"
     },
     "R4akCA": {
-        "ko": "에인션트 미이라",
-        "en": "Ancient Mummy",
-        "pt": "Múmia Escrava",
-        "es": "Momia Ancestral"
+        "ko-KR": "에인션트 미이라",
+        "en-US": "Ancient Mummy",
+        "pt-BR": "Múmia Escrava",
+        "es-ES": "Momia Ancestral"
     },
     "SIakCA": {
-        "ko": "샌드맨",
-        "en": "Sandman",
-        "pt": "Arenoso Escravo",
-        "es": "Hombre de Arena"
+        "ko-KR": "샌드맨",
+        "en-US": "Sandman",
+        "pt-BR": "Arenoso Escravo",
+        "es-ES": "Hombre de Arena"
     },
     "SYakCA": {
-        "ko": "하이오크",
-        "en": "High Orc",
-        "pt": "Orc Escravo",
-        "es": "Orco Supremo"
+        "ko-KR": "하이오크",
+        "en-US": "High Orc",
+        "pt-BR": "Orc Escravo",
+        "es-ES": "Orco Supremo"
     },
     "SoakCA": {
-        "ko": "메갈리스",
-        "en": "Megalith",
-        "pt": "Megalith Escravo",
-        "es": "Megalito"
+        "ko-KR": "메갈리스",
+        "en-US": "Megalith",
+        "pt-BR": "Megalith Escravo",
+        "es-ES": "Megalito"
     },
     "S4akCA": {
-        "ko": "빛나는포링",
-        "en": "Golden Poring",
-        "pt": "Poring de Ouro",
-        "es": "Poring Dorado"
+        "ko-KR": "빛나는포링",
+        "en-US": "Golden Poring",
+        "pt-BR": "Poring de Ouro",
+        "es-ES": "Poring Dorado"
     }
 }

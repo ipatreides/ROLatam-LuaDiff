@@ -1,8 +1,8 @@
 {
     "QMTtCA": {
-        "ko": "포장된 선물",
-        "en": "Packaged Present",
-        "pt": "Pacote de Presente",
-        "es": "Regalo Empaquetado"
+        "ko-KR": "포장된 선물",
+        "en-US": "Packaged Present",
+        "pt-BR": "Pacote de Presente",
+        "es-ES": "Regalo Empaquetado"
     }
 }

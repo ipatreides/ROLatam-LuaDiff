@@ -1,488 +1,488 @@
 {
     "QF37DA": {
-        "ko": "오크 로드",
-        "en": "Orc Lord",
-        "pt": "Senhor Orc",
-        "es": "Señor de los Orcos"
+        "ko-KR": "오크 로드",
+        "en-US": "Orc Lord",
+        "pt-BR": "Senhor Orc",
+        "es-ES": "Señor de los Orcos"
     },
     "QV37DA": {
-        "ko": "[오크 로드]\n잘난 영웅놀이 하러 오신 모험가인가?\n오크들의 영토에서 썩 꺼져!",
-        "en": "[Orc Lord]\nHave you come to play the role of some great hero, adventurer?\nGet out of Orc territory at once!",
-        "pt": "[Senhor Orc]\nVocê é um aventureiro que veio bancar o grande herói?\nSaia já do território dos Orcs!",
-        "es": "[Señor de los Orcos]\n¿Eres un trotamundos que viene a jugar al gran héroe?\n¡Lárgate de territorio orco!"
+        "ko-KR": "[오크 로드]\n잘난 영웅놀이 하러 오신 모험가인가?\n오크들의 영토에서 썩 꺼져!",
+        "en-US": "[Orc Lord]\nHave you come to play the role of some great hero, adventurer?\nGet out of Orc territory at once!",
+        "pt-BR": "[Senhor Orc]\nVocê é um aventureiro que veio bancar o grande herói?\nSaia já do território dos Orcs!",
+        "es-ES": "[Señor de los Orcos]\n¿Eres un trotamundos que viene a jugar al gran héroe?\n¡Lárgate de territorio orco!"
     },
     "Ql37DA": {
-        "ko": "크하하하하하! 겁쟁이 녀석!",
-        "en": "Kwahahahahaha! Cowardly fool!",
-        "pt": "Krahahahahaha! Seu covarde!",
-        "es": "¡Kjajajajaja! ¡Cobarde!"
+        "ko-KR": "크하하하하하! 겁쟁이 녀석!",
+        "en-US": "Kwahahahahaha! Cowardly fool!",
+        "pt-BR": "Krahahahahaha! Seu covarde!",
+        "es-ES": "¡Kjajajajaja! ¡Cobarde!"
     },
     "Q137DA": {
-        "ko": "[오크 로드]\n이게 누구신가, 간악한 고블린 앞잡이 아닌가?\n네 놈, 뒤통수 조심해라.",
-        "en": "[Orc Lord]\nWell, if it isn't that treacherous Gobiln lackey.\nWatch your back, you bastard.",
-        "pt": "[Senhor Orc]\nOra, vejam só quem está aqui. Não é o lacaio do perverso Gobiln?\nVocê, cuidado com as costas.",
-        "es": "[Señor de los Orcos]\nMira quién tenemos aquí. \n¿No eres un esbirro del vil Duende?\nTú, cuida tus espaldas."
+        "ko-KR": "[오크 로드]\n이게 누구신가, 간악한 고블린 앞잡이 아닌가?\n네 놈, 뒤통수 조심해라.",
+        "en-US": "[Orc Lord]\nWell, if it isn't that treacherous Gobiln lackey.\nWatch your back, you bastard.",
+        "pt-BR": "[Senhor Orc]\nOra, vejam só quem está aqui. Não é o lacaio do perverso Gobiln?\nVocê, cuidado com as costas.",
+        "es-ES": "[Señor de los Orcos]\nMira quién tenemos aquí. \n¿No eres un esbirro del vil Duende?\nTú, cuida tus espaldas."
     },
     "RF37DA": {
-        "ko": "내 주먹이 근질거리는군.",
-        "en": "My fists are itching.",
-        "pt": "Meus punhos estão coçando.",
-        "es": "Me pican los puños."
+        "ko-KR": "내 주먹이 근질거리는군.",
+        "en-US": "My fists are itching.",
+        "pt-BR": "Meus punhos estão coçando.",
+        "es-ES": "Me pican los puños."
     },
     "RV37DA": {
-        "ko": "[오크 로드]\n나는 나보다 약한 놈의 말은 듣지 않는다.",
-        "en": "[Orc Lord]\nI do not listen to those weaker than myself.",
-        "pt": "[Senhor Orc]\nEu não escuto quem é mais fraco do que eu.",
-        "es": "[Señor de los Orcos]\nNo escucho las palabras de quienes son más débiles que yo."
+        "ko-KR": "[오크 로드]\n나는 나보다 약한 놈의 말은 듣지 않는다.",
+        "en-US": "[Orc Lord]\nI do not listen to those weaker than myself.",
+        "pt-BR": "[Senhor Orc]\nEu não escuto quem é mais fraco do que eu.",
+        "es-ES": "[Señor de los Orcos]\nNo escucho las palabras de quienes son más débiles que yo."
     },
     "Rl37DA": {
-        "ko": "썩 꺼져라! 고블린 앞잡이!",
-        "en": "Get lost! Gobiln lackey!",
-        "pt": "Saia daqui! Lacaio do Gobiln!",
-        "es": "¡Lárgate! ¡Esbirro de Duende!"
+        "ko-KR": "썩 꺼져라! 고블린 앞잡이!",
+        "en-US": "Get lost! Gobiln lackey!",
+        "pt-BR": "Saia daqui! Lacaio do Gobiln!",
+        "es-ES": "¡Lárgate! ¡Esbirro de Duende!"
     },
     "R137DA": {
-        "ko": "[오크 로드]\n간악한 인간 녀석이 오크들의 분노를 사놓고 잘도 기어들어왔군!!!",
-        "en": "[Orc Lord]\nA treacherous human dares crawl in after earning the Rage of the Orcs!!!",
-        "pt": "[Senhor Orc]\nUm humano vil ganhou a Fúria dos Orcs e ainda ousa se arrastar até aqui!!!",
-        "es": "[Señor de los Orcos]\n¡¡¡Vil humano, has provocado la Ira de los orcos y aun así te atreves a arrastrarte hasta aquí!!!"
+        "ko-KR": "[오크 로드]\n간악한 인간 녀석이 오크들의 분노를 사놓고 잘도 기어들어왔군!!!",
+        "en-US": "[Orc Lord]\nA treacherous human dares crawl in after earning the Rage of the Orcs!!!",
+        "pt-BR": "[Senhor Orc]\nUm humano vil ganhou a Fúria dos Orcs e ainda ousa se arrastar até aqui!!!",
+        "es-ES": "[Señor de los Orcos]\n¡¡¡Vil humano, has provocado la Ira de los orcos y aun así te atreves a arrastrarte hasta aquí!!!"
     },
     "SF37DA": {
-        "ko": "당장 꺼져!",
-        "en": "Get out now!",
-        "pt": "Saia agora!",
-        "es": "¡Lárgate ahora mismo!"
+        "ko-KR": "당장 꺼져!",
+        "en-US": "Get out now!",
+        "pt-BR": "Saia agora!",
+        "es-ES": "¡Lárgate ahora mismo!"
     },
     "SV37DA": {
-        "ko": "다시는 찾아오지 마라!",
-        "en": "Do not come back again!",
-        "pt": "Nunca mais volte aqui!",
-        "es": "¡No vuelvas jamás!"
+        "ko-KR": "다시는 찾아오지 마라!",
+        "en-US": "Do not come back again!",
+        "pt-BR": "Nunca mais volte aqui!",
+        "es-ES": "¡No vuelvas jamás!"
     },
     "Sl37DA": {
-        "ko": "[오크 로드]\n인간. 주시하고 있다.",
-        "en": "[Orc Lord]\nHuman. I am watching you.",
-        "pt": "[Senhor Orc]\nHumano. Estou de olho em você.",
-        "es": "[Señor de los Orcos]\nHumano. Te estoy vigilando."
+        "ko-KR": "[오크 로드]\n인간. 주시하고 있다.",
+        "en-US": "[Orc Lord]\nHuman. I am watching you.",
+        "pt-BR": "[Senhor Orc]\nHumano. Estou de olho em você.",
+        "es-ES": "[Señor de los Orcos]\nHumano. Te estoy vigilando."
     },
     "S137DA": {
-        "ko": "크하하핫! 잘 생각했다! 그래도 제 목숨 아까운 줄은 아는구나!!",
-        "en": "Kwahahahat! A wise decision! At least you know your own life is precious!!",
-        "pt": "Krahahahah! Pensou bem! Pelo menos sabe dar valor à própria vida!!",
-        "es": "¡Kjajajaja! ¡Bien pensado! ¡Al menos sabes valorar tu propia vida!"
+        "ko-KR": "크하하핫! 잘 생각했다! 그래도 제 목숨 아까운 줄은 아는구나!!",
+        "en-US": "Kwahahahat! A wise decision! At least you know your own life is precious!!",
+        "pt-BR": "Krahahahah! Pensou bem! Pelo menos sabe dar valor à própria vida!!",
+        "es-ES": "¡Kjajajaja! ¡Bien pensado! ¡Al menos sabes valorar tu propia vida!"
     },
     "TF37DA": {
-        "ko": "[오크 로드]\n음….\n설마 이 몸과 대화를 나누고 싶은 건가?\n받아주지.",
-        "en": "[Orc Lord]\nHmm….\nCould it be that you wish to speak with me?\nVery well.",
-        "pt": "[Senhor Orc]\nHmm….\nPor acaso quer conversar comigo?\nEu permitirei.",
-        "es": "[Señor de los Orcos]\nMmm...\n¿Acaso quieres hablar conmigo?\nTe lo permitiré."
+        "ko-KR": "[오크 로드]\n음….\n설마 이 몸과 대화를 나누고 싶은 건가?\n받아주지.",
+        "en-US": "[Orc Lord]\nHmm….\nCould it be that you wish to speak with me?\nVery well.",
+        "pt-BR": "[Senhor Orc]\nHmm….\nPor acaso quer conversar comigo?\nEu permitirei.",
+        "es-ES": "[Señor de los Orcos]\nMmm...\n¿Acaso quieres hablar conmigo?\nTe lo permitiré."
     },
     "TV37DA": {
-        "ko": "[오크 로드]\n잘 왔다. 인간.\n최근 오크들 사이에서 네 녀석의 이름이 심심찮게 거론되고 있다.\n원한다면 약초꾼이 채집한 것을 팔아주겠다.",
-        "en": "[Orc Lord]\nWelcome, human.\nLately, your name has been mentioned quite often among the Orcs.\nIf you wish, I will sell you what the herbalists have gathered.",
-        "pt": "[Senhor Orc]\nBem-vindo. Humano.\nUltimamente, seu nome tem sido mencionado com frequência entre os Orcs.\nSe quiser, venderei o que o herbalista coletou.",
-        "es": "[Señor de los Orcos]\nBienvenido. Humano.\nÚltimamente tu nombre se menciona bastante entre los orcos.\nSi quieres, puedo venderte lo que ha recolectado el herbolario."
+        "ko-KR": "[오크 로드]\n잘 왔다. 인간.\n최근 오크들 사이에서 네 녀석의 이름이 심심찮게 거론되고 있다.\n원한다면 약초꾼이 채집한 것을 팔아주겠다.",
+        "en-US": "[Orc Lord]\nWelcome, human.\nLately, your name has been mentioned quite often among the Orcs.\nIf you wish, I will sell you what the herbalists have gathered.",
+        "pt-BR": "[Senhor Orc]\nBem-vindo. Humano.\nUltimamente, seu nome tem sido mencionado com frequência entre os Orcs.\nSe quiser, venderei o que o herbalista coletou.",
+        "es-ES": "[Señor de los Orcos]\nBienvenido. Humano.\nÚltimamente tu nombre se menciona bastante entre los orcos.\nSi quieres, puedo venderte lo que ha recolectado el herbolario."
     },
     "Tl37DA": {
-        "ko": "크크큭. 안심해라. 나약한 인간. 네 녀석은 특별히 봐주는 중이니까.",
-        "en": "Kukukuk. Rest easy, weak human. I am giving you special treatment.",
-        "pt": "Kekeke. Fique tranquilo. Humano fraco. Estou tratando você de modo especial.",
-        "es": "Jejeje. Tranquilo, humano débil. En tu caso, estoy haciendo una excepción."
+        "ko-KR": "크크큭. 안심해라. 나약한 인간. 네 녀석은 특별히 봐주는 중이니까.",
+        "en-US": "Kukukuk. Rest easy, weak human. I am giving you special treatment.",
+        "pt-BR": "Kekeke. Fique tranquilo. Humano fraco. Estou tratando você de modo especial.",
+        "es-ES": "Jejeje. Tranquilo, humano débil. En tu caso, estoy haciendo una excepción."
     },
     "T137DA": {
-        "ko": "[오크 로드]\n어이, 오크 친구.\n이번에도 고블린 카드를 가져왔나?",
-        "en": "[Orc Lord]\nHey, Orc friend.\nDid you bring another Gobiln Card this time?",
-        "pt": "[Senhor Orc]\nEi, amigo dos Orcs.\nTrouxe uma carta de Gobiln de novo?",
-        "es": "[Señor de los Orcos]\nEh, amigo orco.\n¿Has traído también esta vez una Carta de Duende?"
+        "ko-KR": "[오크 로드]\n어이, 오크 친구.\n이번에도 고블린 카드를 가져왔나?",
+        "en-US": "[Orc Lord]\nHey, Orc friend.\nDid you bring another Gobiln Card this time?",
+        "pt-BR": "[Senhor Orc]\nEi, amigo dos Orcs.\nTrouxe uma carta de Gobiln de novo?",
+        "es-ES": "[Señor de los Orcos]\nEh, amigo orco.\n¿Has traído también esta vez una Carta de Duende?"
     },
     "UF37DA": {
-        "ko": "[오크 로드]\n뭐 …. 오다가다 오크 좀 쳤다고?\n그게 대순가. 오크 워리어는 타고난 전사다!\n오크들에게 전투는 숨쉬는 것과 같다고.",
-        "en": "[Orc Lord]\nWhat…? You beat up a few Orcs while passing by?\nSo what. Orc Warriors are born fighters!\nTo Orcs, battle is as natural as breathing.",
-        "pt": "[Senhor Orc]\nO quê…? Você disse que bateu em alguns Orcs pelo caminho?\nE daí? Os Orcs Guerreiros são combatentes natos!\nPara os Orcs, lutar é como respirar.",
-        "es": "[Señor de los Orcos]\n¿Qué...? \n¿Que has golpeado a algunos orcos de paso?\n¿Y eso qué importa? ¡Los Orc Warrior son guerreros natos!\nPara los orcos, combatir es como respirar."
+        "ko-KR": "[오크 로드]\n뭐 …. 오다가다 오크 좀 쳤다고?\n그게 대순가. 오크 워리어는 타고난 전사다!\n오크들에게 전투는 숨쉬는 것과 같다고.",
+        "en-US": "[Orc Lord]\nWhat…? You beat up a few Orcs while passing by?\nSo what. Orc Warriors are born fighters!\nTo Orcs, battle is as natural as breathing.",
+        "pt-BR": "[Senhor Orc]\nO quê…? Você disse que bateu em alguns Orcs pelo caminho?\nE daí? Os Orcs Guerreiros são combatentes natos!\nPara os Orcs, lutar é como respirar.",
+        "es-ES": "[Señor de los Orcos]\n¿Qué...? \n¿Que has golpeado a algunos orcos de paso?\n¿Y eso qué importa? ¡Los Orc Warrior son guerreros natos!\nPara los orcos, combatir es como respirar."
     },
     "UV37DA": {
-        "ko": "크크큭. 할 일이 많나보군.",
-        "en": "Kukukuk. You must be quite busy.",
-        "pt": "Kekeke. Parece que você tem muito a fazer.",
-        "es": "Jejeje. Parece que tienes mucho que hacer."
+        "ko-KR": "크크큭. 할 일이 많나보군.",
+        "en-US": "Kukukuk. You must be quite busy.",
+        "pt-BR": "Kekeke. Parece que você tem muito a fazer.",
+        "es-ES": "Jejeje. Parece que tienes mucho que hacer."
     },
     "Ul37DA": {
-        "ko": "[오크 로드]\n인간이 여기까진 무슨 일이지?",
-        "en": "[Orc Lord]\nWhat business does a human have all the way here?",
-        "pt": "[Senhor Orc]\nO que um humano veio fazer até aqui?",
-        "es": "[Señor de los Orcos]\n¿Qué asunto trae a un humano hasta aquí?"
+        "ko-KR": "[오크 로드]\n인간이 여기까진 무슨 일이지?",
+        "en-US": "[Orc Lord]\nWhat business does a human have all the way here?",
+        "pt-BR": "[Senhor Orc]\nO que um humano veio fazer até aqui?",
+        "es-ES": "[Señor de los Orcos]\n¿Qué asunto trae a un humano hasta aquí?"
     },
     "U137DA": {
-        "ko": "크크큭. 겁 많은 인간이군.",
-        "en": "Kukukuk. What a timid human.",
-        "pt": "Kekeke. Que humano medroso.",
-        "es": "Jejeje. Qué humano tan miedoso."
+        "ko-KR": "크크큭. 겁 많은 인간이군.",
+        "en-US": "Kukukuk. What a timid human.",
+        "pt-BR": "Kekeke. Que humano medroso.",
+        "es-ES": "Jejeje. Qué humano tan miedoso."
     },
     "VF37DA": {
-        "ko": "[오크 로드]\n간악한 인간이 오크의 영역엔 무슨 일이지?\n우리를 토벌하러 왔다면 가만두지 않으리.",
-        "en": "[Orc Lord]\nWhat business does a treacherous human have in Orc territory?\nIf you came to subjugate us, I will not let you leave unharmed.",
-        "pt": "[Senhor Orc]\nO que um humano vil veio fazer no território dos Orcs?\nSe veio nos exterminar, não ficará impune.",
-        "es": "[Señor de los Orcos]\n¿Qué asunto trae a un vil humano al territorio orco?\nSi has venido a exterminarnos, no te lo perdonaré."
+        "ko-KR": "[오크 로드]\n간악한 인간이 오크의 영역엔 무슨 일이지?\n우리를 토벌하러 왔다면 가만두지 않으리.",
+        "en-US": "[Orc Lord]\nWhat business does a treacherous human have in Orc territory?\nIf you came to subjugate us, I will not let you leave unharmed.",
+        "pt-BR": "[Senhor Orc]\nO que um humano vil veio fazer no território dos Orcs?\nSe veio nos exterminar, não ficará impune.",
+        "es-ES": "[Señor de los Orcos]\n¿Qué asunto trae a un vil humano al territorio orco?\nSi has venido a exterminarnos, no te lo perdonaré."
     },
     "VV37DA": {
-        "ko": "뒤로 물러선다.",
-        "en": "Step back.",
-        "pt": "Recuar.",
-        "es": "Retroceder."
+        "ko-KR": "뒤로 물러선다.",
+        "en-US": "Step back.",
+        "pt-BR": "Recuar.",
+        "es-ES": "Retroceder."
     },
     "Vl37DA": {
-        "ko": "고블린 카드를 내민다.",
-        "en": "Present the Gobiln Card.",
-        "pt": "Mostrar a carta de Gobiln.",
-        "es": "Mostrar la Carta de Duende."
+        "ko-KR": "고블린 카드를 내민다.",
+        "en-US": "Present the Gobiln Card.",
+        "pt-BR": "Mostrar a carta de Gobiln.",
+        "es-ES": "Mostrar la Carta de Duende."
     },
     "V137DA": {
-        "ko": "[오크 로드]",
-        "en": "[Orc Lord]",
-        "pt": "[Senhor Orc]",
-        "es": "[Señor de los Orcos]"
+        "ko-KR": "[오크 로드]",
+        "en-US": "[Orc Lord]",
+        "pt-BR": "[Senhor Orc]",
+        "es-ES": "[Señor de los Orcos]"
     },
     "WF37DA": {
-        "ko": "^4D4DFF<ITEM>[고블린 카드]<INFO>4060</INFO></ITEM>를 소지하고 있을 경우 고블린 리더에게 1장 상납합니다.^000000",
-        "en": "^4D4DFFIf you possess <ITEM>[Gobiln Card]<INFO>4060</INFO></ITEM>, you will offer 1 to the Goblin Leader.^000000",
-        "pt": "^4D4DFFSe você possuir <ITEM>[Carta de Gobiln]<INFO>4060</INFO></ITEM>, oferecerá 1 unidade a Líder Goblin.^000000",
-        "es": "^4D4DFFSi tienes <ITEM>[Carta de Duende]<INFO>4060</INFO></ITEM>, entregarás 1 a Líder de los Duendes.^000000"
+        "ko-KR": "^4D4DFF<ITEM>[고블린 카드]<INFO>4060</INFO></ITEM>를 소지하고 있을 경우 고블린 리더에게 1장 상납합니다.^000000",
+        "en-US": "^4D4DFFIf you possess <ITEM>[Gobiln Card]<INFO>4060</INFO></ITEM>, you will offer 1 to the Goblin Leader.^000000",
+        "pt-BR": "^4D4DFFSe você possuir <ITEM>[Carta de Gobiln]<INFO>4060</INFO></ITEM>, oferecerá 1 unidade a Líder Goblin.^000000",
+        "es-ES": "^4D4DFFSi tienes <ITEM>[Carta de Duende]<INFO>4060</INFO></ITEM>, entregarás 1 a Líder de los Duendes.^000000"
     },
     "WV37DA": {
-        "ko": "계속한다.",
-        "en": "Continue.",
-        "pt": "Continuar.",
-        "es": "Continuar."
+        "ko-KR": "계속한다.",
+        "en-US": "Continue.",
+        "pt-BR": "Continuar.",
+        "es-ES": "Continuar."
     },
     "Wl37DA": {
-        "ko": "취소",
-        "en": "Cancel",
-        "pt": "Cancelar",
-        "es": "Cancelar"
+        "ko-KR": "취소",
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
     },
     "W137DA": {
-        "ko": "[오크 로드]\n아, 고블린 카드는 당분간 괜찮다.\n이제까지 보여준 정성이면 충분히 인정하고 남지.\n네 녀석이 우릴 배신하고 고블린쪽에 붙지만 않는다면 말이야.",
-        "en": "[Orc Lord]\nAh, Gobiln Cards are unnecessary for now.\nThe sincerity you've shown so far is more than enough.\nAs long as you do not betray us and side with the Goblins.",
-        "pt": "[Senhor Orc]\nAh, cartas de Gobiln não serão necessárias por enquanto.\nA dedicação que você demonstrou até agora já foi mais do que suficiente para ser reconhecida.\nDesde que você não nos traia e se junte aos Goblins, claro.",
-        "es": "[Señor de los Orcos]\nAh, por ahora no necesito más Cartas de Duende.\nCon la dedicación que has mostrado hasta ahora, basta y sobra para reconocerla.\nSiempre que no nos traiciones y te unas al bando de los Duendes."
+        "ko-KR": "[오크 로드]\n아, 고블린 카드는 당분간 괜찮다.\n이제까지 보여준 정성이면 충분히 인정하고 남지.\n네 녀석이 우릴 배신하고 고블린쪽에 붙지만 않는다면 말이야.",
+        "en-US": "[Orc Lord]\nAh, Gobiln Cards are unnecessary for now.\nThe sincerity you've shown so far is more than enough.\nAs long as you do not betray us and side with the Goblins.",
+        "pt-BR": "[Senhor Orc]\nAh, cartas de Gobiln não serão necessárias por enquanto.\nA dedicação que você demonstrou até agora já foi mais do que suficiente para ser reconhecida.\nDesde que você não nos traia e se junte aos Goblins, claro.",
+        "es-ES": "[Señor de los Orcos]\nAh, por ahora no necesito más Cartas de Duende.\nCon la dedicación que has mostrado hasta ahora, basta y sobra para reconocerla.\nSiempre que no nos traiciones y te unas al bando de los Duendes."
     },
     "XF37DA": {
-        "ko": "[오크 로드]\n호오…. 네 녀석 제법이군.\n좋은 수집품이군. 크하하하핫!",
-        "en": "[Orc Lord]\nHo…. You are quite something.\nA fine collection indeed. Kwahahahahat!",
-        "pt": "[Senhor Orc]\nOh…. Você é bem capaz.\nÉ um bom item de coleção. Krahahahahat!",
-        "es": "[Señor de los Orcos]\nOh... No estás nada mal.\nEs una buena pieza de colección. ¡Kjajajajaja!"
+        "ko-KR": "[오크 로드]\n호오…. 네 녀석 제법이군.\n좋은 수집품이군. 크하하하핫!",
+        "en-US": "[Orc Lord]\nHo…. You are quite something.\nA fine collection indeed. Kwahahahahat!",
+        "pt-BR": "[Senhor Orc]\nOh…. Você é bem capaz.\nÉ um bom item de coleção. Krahahahahat!",
+        "es-ES": "[Señor de los Orcos]\nOh... No estás nada mal.\nEs una buena pieza de colección. ¡Kjajajajaja!"
     },
     "XV37DA": {
-        "ko": "^4D4DFF오크 로드가 당신을 재평가합니다.^000000",
-        "en": "^4D4DFFOrc Lord reevaluates you.^000000",
-        "pt": "^4D4DFFSenhor Orc reavalia você.^000000",
-        "es": "^4D4DFFSeñor de los Orcos te reevalúa.^000000"
+        "ko-KR": "^4D4DFF오크 로드가 당신을 재평가합니다.^000000",
+        "en-US": "^4D4DFFOrc Lord reevaluates you.^000000",
+        "pt-BR": "^4D4DFFSenhor Orc reavalia você.^000000",
+        "es-ES": "^4D4DFFSeñor de los Orcos te reevalúa.^000000"
     },
     "Xl37DA": {
-        "ko": "[오크 로드]\n최근 고블린 녀석들이 거슬려.\n그 녀석들을 처치하고 그 증거로 <ITEM>[고블린 카드]<INFO>4060</INFO></ITEM>라도 가져오든지.",
-        "en": "[Orc Lord]\nThose Gobiln fools have been irritating lately.\nGo deal with them and bring me proof, like a <ITEM>[Gobiln Card]<INFO>4060</INFO></ITEM>.",
-        "pt": "[Senhor Orc]\nUltimamente, aqueles Gobiln têm me incomodado.\nDerrote-os e traga <ITEM>[Carta de Gobiln]<INFO>4060</INFO></ITEM> como prova.",
-        "es": "[Señor de los Orcos]\nÚltimamente esos Duendes me molestan.\nEncárgate de ellos y trae como prueba una <ITEM>[Carta de Duende]<INFO>4060</INFO></ITEM> o algo parecido."
+        "ko-KR": "[오크 로드]\n최근 고블린 녀석들이 거슬려.\n그 녀석들을 처치하고 그 증거로 <ITEM>[고블린 카드]<INFO>4060</INFO></ITEM>라도 가져오든지.",
+        "en-US": "[Orc Lord]\nThose Gobiln fools have been irritating lately.\nGo deal with them and bring me proof, like a <ITEM>[Gobiln Card]<INFO>4060</INFO></ITEM>.",
+        "pt-BR": "[Senhor Orc]\nUltimamente, aqueles Gobiln têm me incomodado.\nDerrote-os e traga <ITEM>[Carta de Gobiln]<INFO>4060</INFO></ITEM> como prova.",
+        "es-ES": "[Señor de los Orcos]\nÚltimamente esos Duendes me molestan.\nEncárgate de ellos y trae como prueba una <ITEM>[Carta de Duende]<INFO>4060</INFO></ITEM> o algo parecido."
     },
     "X137DA": {
-        "ko": "[오크 로드]\n그럼 무슨 이득이 있냐고?\n이 몸이 간악한 인간을 좀 덜 간악하게 볼 수 있지 않겠나?\n크하하하핫!!",
-        "en": "[Orc Lord]\nYou ask what you gain from it?\nThis mighty one may see treacherous humans as slightly less treacherous.\nKwahahahahat!!",
-        "pt": "[Senhor Orc]\nE qual seria a vantagem disso?\nEu poderia passar a ver um humano vil como um pouco menos vil, não acha?\nKrahahahahat!!",
-        "es": "[Señor de los Orcos]\n¿Que qué beneficio obtienes con eso?\nQuizá yo vea a un humano vil como alguien un poco menos vil.\n¡¡Kjajajajaja!!"
+        "ko-KR": "[오크 로드]\n그럼 무슨 이득이 있냐고?\n이 몸이 간악한 인간을 좀 덜 간악하게 볼 수 있지 않겠나?\n크하하하핫!!",
+        "en-US": "[Orc Lord]\nYou ask what you gain from it?\nThis mighty one may see treacherous humans as slightly less treacherous.\nKwahahahahat!!",
+        "pt-BR": "[Senhor Orc]\nE qual seria a vantagem disso?\nEu poderia passar a ver um humano vil como um pouco menos vil, não acha?\nKrahahahahat!!",
+        "es-ES": "[Señor de los Orcos]\n¿Que qué beneficio obtienes con eso?\nQuizá yo vea a un humano vil como alguien un poco menos vil.\n¡¡Kjajajajaja!!"
     },
     "YF37DA": {
-        "ko": "오크 약초꾼",
-        "en": "Orc Herbalist",
-        "pt": "Herbalista Orc",
-        "es": "Herbolario Orco"
+        "ko-KR": "오크 약초꾼",
+        "en-US": "Orc Herbalist",
+        "pt-BR": "Herbalista Orc",
+        "es-ES": "Herbolario Orco"
     },
     "YV37DA": {
-        "ko": "크르륵..",
-        "en": "Kurrrgh..",
-        "pt": "Grrrk...",
-        "es": "Grrr..."
+        "ko-KR": "크르륵..",
+        "en-US": "Kurrrgh..",
+        "pt-BR": "Grrrk...",
+        "es-ES": "Grrr..."
     },
     "Yl37DA": {
-        "ko": "간악한 고블린 앞잡이와 할 말이 없다!",
-        "en": "I have nothing to say to a treacherous Gobiln lackey!",
-        "pt": "Não tenho nada a dizer ao lacaio do perverso Gobiln!",
-        "es": "¡No tengo nada que decir al esbirro del vil Duende!"
+        "ko-KR": "간악한 고블린 앞잡이와 할 말이 없다!",
+        "en-US": "I have nothing to say to a treacherous Gobiln lackey!",
+        "pt-BR": "Não tenho nada a dizer ao lacaio do perverso Gobiln!",
+        "es-ES": "¡No tengo nada que decir al esbirro del vil Duende!"
     },
     "Y137DA": {
-        "ko": "^4D4DFF오크 약초꾼이 경계심 어린 눈으로 보고 있다.^000000",
-        "en": "^4D4DFFThe Orc Herbalist watches you with wary eyes.^000000",
-        "pt": "^4D4DFFO Herbalista Orc observa você com olhos desconfiados.^000000",
-        "es": "^4D4DFFEl herbolario orco te mira con recelo.^000000"
+        "ko-KR": "^4D4DFF오크 약초꾼이 경계심 어린 눈으로 보고 있다.^000000",
+        "en-US": "^4D4DFFThe Orc Herbalist watches you with wary eyes.^000000",
+        "pt-BR": "^4D4DFFO Herbalista Orc observa você com olhos desconfiados.^000000",
+        "es-ES": "^4D4DFFEl herbolario orco te mira con recelo.^000000"
     },
     "ZF37DA": {
-        "ko": "...약초가 필요하다면 팔아주겠다. 인간.",
-        "en": "...If you need herbs, I will sell them to you, human.",
-        "pt": "...Se precisar de ervas, eu as venderei. Humano.",
-        "es": "...Si necesitas hierbas, te las venderé. Humano."
+        "ko-KR": "...약초가 필요하다면 팔아주겠다. 인간.",
+        "en-US": "...If you need herbs, I will sell them to you, human.",
+        "pt-BR": "...Se precisar de ervas, eu as venderei. Humano.",
+        "es-ES": "...Si necesitas hierbas, te las venderé. Humano."
     },
     "ZV37DA": {
-        "ko": "약초가 필요한가?",
-        "en": "Do you need herbs?",
-        "pt": "Precisa de ervas?",
-        "es": "¿Necesitas hierbas?"
+        "ko-KR": "약초가 필요한가?",
+        "en-US": "Do you need herbs?",
+        "pt-BR": "Precisa de ervas?",
+        "es-ES": "¿Necesitas hierbas?"
     },
     "Zl37DA": {
-        "ko": "자네에게만 특별한 가격으로 제공하지.",
-        "en": "I will offer them to you at a special price.",
-        "pt": "Oferecerei um preço especial só para você.",
-        "es": "Solo a ti te las ofreceré a un precio especial."
+        "ko-KR": "자네에게만 특별한 가격으로 제공하지.",
+        "en-US": "I will offer them to you at a special price.",
+        "pt-BR": "Oferecerei um preço especial só para você.",
+        "es-ES": "Solo a ti te las ofreceré a un precio especial."
     },
     "Z137DA": {
-        "ko": "고블린 리더",
-        "en": "Goblin Leader",
-        "pt": "Líder Goblin",
-        "es": "Líder de los Duendes"
+        "ko-KR": "고블린 리더",
+        "en-US": "Goblin Leader",
+        "pt-BR": "Líder Goblin",
+        "es-ES": "Líder de los Duendes"
     },
     "aF37DA": {
-        "ko": "[고블린 리더]\n끼긱…. 맨얼굴이다…!\n여긴 우리 땅, 가면도 없는 녀석은 썩 나가!",
-        "en": "[Goblin Leader]\nKkiik…. Bare face…!\nThis is our land, get out if you don't even wear a mask!",
-        "pt": "[Líder Goblin]\nKikik…. Rosto nu…!\nEsta é nossa terra. Quem não tem máscara deve sair já!",
-        "es": "[Líder de los Duendes]\nKikik... ¡Cara descubierta...!\nEsta es nuestra tierra. ¡El que no tiene máscara, fuera de aquí!"
+        "ko-KR": "[고블린 리더]\n끼긱…. 맨얼굴이다…!\n여긴 우리 땅, 가면도 없는 녀석은 썩 나가!",
+        "en-US": "[Goblin Leader]\nKkiik…. Bare face…!\nThis is our land, get out if you don't even wear a mask!",
+        "pt-BR": "[Líder Goblin]\nKikik…. Rosto nu…!\nEsta é nossa terra. Quem não tem máscara deve sair já!",
+        "es-ES": "[Líder de los Duendes]\nKikik... ¡Cara descubierta...!\nEsta es nuestra tierra. ¡El que no tiene máscara, fuera de aquí!"
     },
     "aV37DA": {
-        "ko": "겁쟁이 겁쟁이~",
-        "en": "Coward coward~",
-        "pt": "Covarde, covarde~",
-        "es": "Cobarde, cobarde~"
+        "ko-KR": "겁쟁이 겁쟁이~",
+        "en-US": "Coward coward~",
+        "pt-BR": "Covarde, covarde~",
+        "es-ES": "Cobarde, cobarde~"
     },
     "al37DA": {
-        "ko": "[고블린 리더]\n끼긱 …! 토벌! 맨얼굴이 고블린 토벌하러 왔다!!\n저리가! 쉭쉭 저리가!",
-        "en": "[Goblin Leader]\nKkiik …! Subjugation! Bare face came to subjugate Gobiln!!\nGo away! Shoo shoo, go away!",
-        "pt": "[Líder Goblin]\nKikik…! Extermínio! Rosto nu veio exterminar Gobiln!!\nVá embora! Xô, xô, vá embora!",
-        "es": "[Líder de los Duendes]\n¡Kikik...! \n¡Exterminio! \n¡Cara descubierta ha venido a exterminar a Duendes!\n¡Fuera! ¡Shu, shu, fuera!"
+        "ko-KR": "[고블린 리더]\n끼긱 …! 토벌! 맨얼굴이 고블린 토벌하러 왔다!!\n저리가! 쉭쉭 저리가!",
+        "en-US": "[Goblin Leader]\nKkiik …! Subjugation! Bare face came to subjugate Gobiln!!\nGo away! Shoo shoo, go away!",
+        "pt-BR": "[Líder Goblin]\nKikik…! Extermínio! Rosto nu veio exterminar Gobiln!!\nVá embora! Xô, xô, vá embora!",
+        "es-ES": "[Líder de los Duendes]\n¡Kikik...! \n¡Exterminio! \n¡Cara descubierta ha venido a exterminar a Duendes!\n¡Fuera! ¡Shu, shu, fuera!"
     },
     "a137DA": {
-        "ko": "얼른 꺼져버려! 맨얼굴! 민둥한 그 얼굴 무섭다!",
-        "en": "Get lost already, bare face! That bald face of yours is scary!",
-        "pt": "Saia logo daqui! Rosto nu! Esse rosto liso assusta!",
-        "es": "¡Lárgate ya! ¡Cara descubierta! ¡Esa cara pelada da miedo!"
+        "ko-KR": "얼른 꺼져버려! 맨얼굴! 민둥한 그 얼굴 무섭다!",
+        "en-US": "Get lost already, bare face! That bald face of yours is scary!",
+        "pt-BR": "Saia logo daqui! Rosto nu! Esse rosto liso assusta!",
+        "es-ES": "¡Lárgate ya! ¡Cara descubierta! ¡Esa cara pelada da miedo!"
     },
     "bF37DA": {
-        "ko": "[고블린 리더]\n끼게에엑!\n맨얼굴이 학살하러 왔다아아아~~~~!!!!!!\n오크 오크랑 무슨 관계냐!!! 오크 냄새 나!!!",
-        "en": "[Goblin Leader]\nKkigyaaaak!\nBare face came to slaughter us~~~~!!!!!!\nWhat relation do you have with Orcs!!! You smell like Orcs!!!",
-        "pt": "[Líder Goblin]\nKigieeek!\nRosto nu veio nos massacraaaaaar~~~~!!!!!!\nQue relação tem com Orc, Orc!!! Cheira a Orc!!!",
-        "es": "[Líder de los Duendes]\n¡Kigeeeeek!\n¡¡¡¡¡Cara descubierta ha venido a masacrarnos~~~~!!!!!\n¡¡¡Qué relación tienes con orcos!!! \n¡¡¡Hueles a orco!!!"
+        "ko-KR": "[고블린 리더]\n끼게에엑!\n맨얼굴이 학살하러 왔다아아아~~~~!!!!!!\n오크 오크랑 무슨 관계냐!!! 오크 냄새 나!!!",
+        "en-US": "[Goblin Leader]\nKkigyaaaak!\nBare face came to slaughter us~~~~!!!!!!\nWhat relation do you have with Orcs!!! You smell like Orcs!!!",
+        "pt-BR": "[Líder Goblin]\nKigieeek!\nRosto nu veio nos massacraaaaaar~~~~!!!!!!\nQue relação tem com Orc, Orc!!! Cheira a Orc!!!",
+        "es-ES": "[Líder de los Duendes]\n¡Kigeeeeek!\n¡¡¡¡¡Cara descubierta ha venido a masacrarnos~~~~!!!!!\n¡¡¡Qué relación tienes con orcos!!! \n¡¡¡Hueles a orco!!!"
     },
     "bV37DA": {
-        "ko": "¿Àž?¿À¿ÀÅ©! ¸Ç¾ó±¼ ¿ÀÅ©!!",
-        "en": "Oooorc Ooorc! Bare-face Orc!!",
-        "pt": "Ooorc, Ooorc! Rosto nu Orc!!",
-        "es": "¡Ooorc, ooorko! ¡Cara descubierta orco!"
+        "ko-KR": "¿Àž?¿À¿ÀÅ©! ¸Ç¾ó±¼ ¿ÀÅ©!!",
+        "en-US": "Oooorc Ooorc! Bare-face Orc!!",
+        "pt-BR": "Ooorc, Ooorc! Rosto nu Orc!!",
+        "es-ES": "¡Ooorc, ooorko! ¡Cara descubierta orco!"
     },
     "bl37DA": {
-        "ko": "[고블린 리더]\n떴--다--!!!!!\n가면 학 살 자 !!!!!!!!!!!!!!!!!!!!!!!!!\n고블린 다 죽는다아!!!!!! 맨얼굴이 고블린 다 죽이러 왔다!!!!!!!",
-        "en": "[Goblin Leader]\nIt's heeeere--!!!!!\nThe Mask Slayer!!!!!!!!!!!!!!!!!\nGobiln are all going to die!!!!!! Bare face came to kill all Gobiln!!!!!!!",
-        "pt": "[Líder Goblin]\nApa--receu--!!!!!\nMassacra-dor de máscaras!!!!!!!!!!!!!!!!!!!!!!!!!\nGobiln todos vão morrer!!!!!! Rosto nu veio matar todos os Gobiln!!!!!!!",
-        "es": "[Líder de los Duendes]\n¡¡¡¡¡Ha... llegado!!!!!\n¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡Asesino de máscaras!!!!!!!!!!!!!!!!!!!!!!!!!\n¡¡¡¡¡¡Duendes morirán!!!!!! \n¡¡¡¡¡¡Cara descubierta ha venido a matar a todos los Duendes!!!!!!"
+        "ko-KR": "[고블린 리더]\n떴--다--!!!!!\n가면 학 살 자 !!!!!!!!!!!!!!!!!!!!!!!!!\n고블린 다 죽는다아!!!!!! 맨얼굴이 고블린 다 죽이러 왔다!!!!!!!",
+        "en-US": "[Goblin Leader]\nIt's heeeere--!!!!!\nThe Mask Slayer!!!!!!!!!!!!!!!!!\nGobiln are all going to die!!!!!! Bare face came to kill all Gobiln!!!!!!!",
+        "pt-BR": "[Líder Goblin]\nApa--receu--!!!!!\nMassacra-dor de máscaras!!!!!!!!!!!!!!!!!!!!!!!!!\nGobiln todos vão morrer!!!!!! Rosto nu veio matar todos os Gobiln!!!!!!!",
+        "es-ES": "[Líder de los Duendes]\n¡¡¡¡¡Ha... llegado!!!!!\n¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡Asesino de máscaras!!!!!!!!!!!!!!!!!!!!!!!!!\n¡¡¡¡¡¡Duendes morirán!!!!!! \n¡¡¡¡¡¡Cara descubierta ha venido a matar a todos los Duendes!!!!!!"
     },
     "b137DA": {
-        "ko": "꺼져!!!!",
-        "en": "Get lost!!!!",
-        "pt": "Saia!!!!",
-        "es": "¡¡¡¡Fuera!!!!"
+        "ko-KR": "꺼져!!!!",
+        "en-US": "Get lost!!!!",
+        "pt-BR": "Saia!!!!",
+        "es-ES": "¡¡¡¡Fuera!!!!"
     },
     "cF37DA": {
-        "ko": "[고블린 리더]\n맨얼굴, 오크편? 고블린편?",
-        "en": "[Goblin Leader]\nBare face, on Orc side? Goblin side?",
-        "pt": "[Líder Goblin]\nRosto nu, lado dos Orcs? Lado dos Goblins?",
-        "es": "[Líder de los Duendes]\nCara descubierta, ¿bando orco? ¿Bando Duende?"
+        "ko-KR": "[고블린 리더]\n맨얼굴, 오크편? 고블린편?",
+        "en-US": "[Goblin Leader]\nBare face, on Orc side? Goblin side?",
+        "pt-BR": "[Líder Goblin]\nRosto nu, lado dos Orcs? Lado dos Goblins?",
+        "es-ES": "[Líder de los Duendes]\nCara descubierta, ¿bando orco? ¿Bando Duende?"
     },
     "cV37DA": {
-        "ko": "맨얼굴!! 토벌하러 왔다면 오크! 오크를 토벌해!",
-        "en": "Bare face!! If you came to subjugate, subjugate the Orcs!",
-        "pt": "Rosto nu!! Se veio exterminar, Orc! Extermine Orcs!",
-        "es": "¡¡Cara descubierta!! ¡Si has venido a exterminar, extermina orcos! ¡Orcos!"
+        "ko-KR": "맨얼굴!! 토벌하러 왔다면 오크! 오크를 토벌해!",
+        "en-US": "Bare face!! If you came to subjugate, subjugate the Orcs!",
+        "pt-BR": "Rosto nu!! Se veio exterminar, Orc! Extermine Orcs!",
+        "es-ES": "¡¡Cara descubierta!! ¡Si has venido a exterminar, extermina orcos! ¡Orcos!"
     },
     "cl37DA": {
-        "ko": "[고블린 리더]\n끼긱?\n맨얼굴이 여긴 무슨 일이지?\n맨얼굴! 고블린 괴롭히러 왔냐?\n맨얼굴! 오크! 오크를 괴롭혀라!",
-        "en": "[Goblin Leader]\nKkiik?\nWhat brings bare face here?\nBare face! Did you come to bully Gobiln?\nBare face! Orcs! Bully the Orcs!",
-        "pt": "[Líder Goblin]\nKikik?\nO que o rosto nu veio fazer aqui?\nRosto nu! Veio atormentar Gobiln?\nRosto nu! Orc! Vá atormentar Orcs!",
-        "es": "[Líder de los Duendes]\n¿Kikik?\n¿Qué hace cara descubierta aquí?\n¡Cara descubierta! ¿Has venido a molestar a Duendes?\n¡Cara descubierta! ¡Orcos! ¡Molesta a los orcos!"
+        "ko-KR": "[고블린 리더]\n끼긱?\n맨얼굴이 여긴 무슨 일이지?\n맨얼굴! 고블린 괴롭히러 왔냐?\n맨얼굴! 오크! 오크를 괴롭혀라!",
+        "en-US": "[Goblin Leader]\nKkiik?\nWhat brings bare face here?\nBare face! Did you come to bully Gobiln?\nBare face! Orcs! Bully the Orcs!",
+        "pt-BR": "[Líder Goblin]\nKikik?\nO que o rosto nu veio fazer aqui?\nRosto nu! Veio atormentar Gobiln?\nRosto nu! Orc! Vá atormentar Orcs!",
+        "es-ES": "[Líder de los Duendes]\n¿Kikik?\n¿Qué hace cara descubierta aquí?\n¡Cara descubierta! ¿Has venido a molestar a Duendes?\n¡Cara descubierta! ¡Orcos! ¡Molesta a los orcos!"
     },
     "c137DA": {
-        "ko": "그대로 오크를 괴롭히러 가라!",
-        "en": "Go bully the Orcs just like that!",
-        "pt": "Vá direto atormentar os Orcs!",
-        "es": "¡Ve directamente a molestar a los orcos!"
+        "ko-KR": "그대로 오크를 괴롭히러 가라!",
+        "en-US": "Go bully the Orcs just like that!",
+        "pt-BR": "Vá direto atormentar os Orcs!",
+        "es-ES": "¡Ve directamente a molestar a los orcos!"
     },
     "dF37DA": {
-        "ko": "[고블린 리더]\n맨얼굴아….\n고블린 대신 오크를 혼내주는 맨얼굴아.\n약초 필요없냐? 약초꾼이 아주 좋은 약초 캐두었다.",
-        "en": "[Goblin Leader]\nBare face….\nBare face who punishes Orcs instead of Gobiln.\nNeed herbs? The herbalist gathered very fine herbs.",
-        "pt": "[Líder Goblin]\nRosto nu….\nRosto nu que castiga Orcs no lugar de Gobiln.\nNão precisa de ervas? O herbalista colheu ervas muito boas.",
-        "es": "[Líder de los Duendes]\nCara descubierta...\nCara descubierta que castiga a los orcos por Duendes.\n¿No necesitas hierbas? El herbolario ha recogido hierbas muy buenas."
+        "ko-KR": "[고블린 리더]\n맨얼굴아….\n고블린 대신 오크를 혼내주는 맨얼굴아.\n약초 필요없냐? 약초꾼이 아주 좋은 약초 캐두었다.",
+        "en-US": "[Goblin Leader]\nBare face….\nBare face who punishes Orcs instead of Gobiln.\nNeed herbs? The herbalist gathered very fine herbs.",
+        "pt-BR": "[Líder Goblin]\nRosto nu….\nRosto nu que castiga Orcs no lugar de Gobiln.\nNão precisa de ervas? O herbalista colheu ervas muito boas.",
+        "es-ES": "[Líder de los Duendes]\nCara descubierta...\nCara descubierta que castiga a los orcos por Duendes.\n¿No necesitas hierbas? El herbolario ha recogido hierbas muy buenas."
     },
     "dV37DA": {
-        "ko": "그래 그래. 맨얼굴이 고블린만 괴롭히는 건 아니지?",
-        "en": "Yes yes. Bare face doesn't only bully Gobiln, right?",
-        "pt": "Sim, sim. Rosto nu não atormenta só Gobiln, certo?",
-        "es": "Sí, sí. Cara descubierta no solo molesta a Duendes, ¿verdad?"
+        "ko-KR": "그래 그래. 맨얼굴이 고블린만 괴롭히는 건 아니지?",
+        "en-US": "Yes yes. Bare face doesn't only bully Gobiln, right?",
+        "pt-BR": "Sim, sim. Rosto nu não atormenta só Gobiln, certo?",
+        "es-ES": "Sí, sí. Cara descubierta no solo molesta a Duendes, ¿verdad?"
     },
     "dl37DA": {
-        "ko": "[고블린 리더]\n오크~ 사냥꾼~ 맨얼굴~\n끼기기기긱~~~~ 무슨일로 왔냐?",
-        "en": "[Goblin Leader]\nOrc~ hunter~ bare face~\nKkigigigigi~~~~ what did you come here for?",
-        "pt": "[Líder Goblin]\nOrc~ Caçador~ Rosto nu~\nKikikikikik~~~~ O que veio fazer?",
-        "es": "[Líder de los Duendes]\nOrco~ cazador~ cara descubierta~\nKikikikikik~~~~ ¿A qué has venido?"
+        "ko-KR": "[고블린 리더]\n오크~ 사냥꾼~ 맨얼굴~\n끼기기기긱~~~~ 무슨일로 왔냐?",
+        "en-US": "[Goblin Leader]\nOrc~ hunter~ bare face~\nKkigigigigi~~~~ what did you come here for?",
+        "pt-BR": "[Líder Goblin]\nOrc~ Caçador~ Rosto nu~\nKikikikikik~~~~ O que veio fazer?",
+        "es-ES": "[Líder de los Duendes]\nOrco~ cazador~ cara descubierta~\nKikikikikik~~~~ ¿A qué has venido?"
     },
     "d137DA": {
-        "ko": "끼긱 끼긱 끽끽끽~ 맨얼굴의 그런 모습도 이젠 익숙하다.",
-        "en": "Kkiik kkiik kkikkkik~ We're used to seeing bare face like this now.",
-        "pt": "Kikik, kikik, kikikik~ Já me acostumei até com esse jeito do rosto nu.",
-        "es": "Kikik, kikik, kikikik~ Ya me he acostumbrado a esa apariencia de cara descubierta."
+        "ko-KR": "끼긱 끼긱 끽끽끽~ 맨얼굴의 그런 모습도 이젠 익숙하다.",
+        "en-US": "Kkiik kkiik kkikkkik~ We're used to seeing bare face like this now.",
+        "pt-BR": "Kikik, kikik, kikikik~ Já me acostumei até com esse jeito do rosto nu.",
+        "es-ES": "Kikik, kikik, kikikik~ Ya me he acostumbrado a esa apariencia de cara descubierta."
     },
     "eF37DA": {
-        "ko": "[고블린 리더]\n끽끽끽~ 맨얼굴아.\n맨얼굴도 이제 그냥 고블린이라고 하지 그러냐. 끽끽끽~",
-        "en": "[Goblin Leader]\nKkikkkik~ Bare face.\nWhy don't bare face just become Gobiln now. Kkikkkik~",
-        "pt": "[Líder Goblin]\nKikikik~ Rosto nu.\nPor que rosto nu não vira simplesmente Gobiln agora? Kikikik~",
-        "es": "[Líder de los Duendes]\nKikikik~ Cara descubierta.\nCara descubierta ya debería llamarse simplemente Duendes. Kikikik~"
+        "ko-KR": "[고블린 리더]\n끽끽끽~ 맨얼굴아.\n맨얼굴도 이제 그냥 고블린이라고 하지 그러냐. 끽끽끽~",
+        "en-US": "[Goblin Leader]\nKkikkkik~ Bare face.\nWhy don't bare face just become Gobiln now. Kkikkkik~",
+        "pt-BR": "[Líder Goblin]\nKikikik~ Rosto nu.\nPor que rosto nu não vira simplesmente Gobiln agora? Kikikik~",
+        "es-ES": "[Líder de los Duendes]\nKikikik~ Cara descubierta.\nCara descubierta ya debería llamarse simplemente Duendes. Kikikik~"
     },
     "eV37DA": {
-        "ko": "맨얼굴! 거부하지 마라! 이젠 맨얼굴도 고블린이다!",
-        "en": "Bare face! Do not refuse! Bare face is Gobiln now too!",
-        "pt": "Rosto nu! Não recuse! Agora rosto nu também é Gobiln!",
-        "es": "¡Cara descubierta! ¡No te resistas! ¡Ahora cara descubierta también es Duendes!"
+        "ko-KR": "맨얼굴! 거부하지 마라! 이젠 맨얼굴도 고블린이다!",
+        "en-US": "Bare face! Do not refuse! Bare face is Gobiln now too!",
+        "pt-BR": "Rosto nu! Não recuse! Agora rosto nu também é Gobiln!",
+        "es-ES": "¡Cara descubierta! ¡No te resistas! ¡Ahora cara descubierta también es Duendes!"
     },
     "el37DA": {
-        "ko": "[고블린 리더]\n맨얼굴이 또 왔어….\n고블린은 바빠.\n오크 막아야 해.",
-        "en": "[Goblin Leader]\nBare face came again….\nGobiln busy.\nMust stop Orcs.",
-        "pt": "[Líder Goblin]\nRosto nu veio de novo….\nGobiln está ocupado.\nPrecisa deter Orcs.",
-        "es": "[Líder de los Duendes]\nCara descubierta ha vuelto...\nDuendes está ocupado.\nTiene que detener orcos."
+        "ko-KR": "[고블린 리더]\n맨얼굴이 또 왔어….\n고블린은 바빠.\n오크 막아야 해.",
+        "en-US": "[Goblin Leader]\nBare face came again….\nGobiln busy.\nMust stop Orcs.",
+        "pt-BR": "[Líder Goblin]\nRosto nu veio de novo….\nGobiln está ocupado.\nPrecisa deter Orcs.",
+        "es-ES": "[Líder de los Duendes]\nCara descubierta ha vuelto...\nDuendes está ocupado.\nTiene que detener orcos."
     },
     "e137DA": {
-        "ko": "맨얼굴! 그대로 오크를 괴롭히러 가라!",
-        "en": "Bare face! Go bully the Orcs just like that!",
-        "pt": "Rosto nu! Vá direto atormentar os Orcs!",
-        "es": "¡Cara descubierta! ¡Ve directamente a molestar a los orcos!"
+        "ko-KR": "맨얼굴! 그대로 오크를 괴롭히러 가라!",
+        "en-US": "Bare face! Go bully the Orcs just like that!",
+        "pt-BR": "Rosto nu! Vá direto atormentar os Orcs!",
+        "es-ES": "¡Cara descubierta! ¡Ve directamente a molestar a los orcos!"
     },
     "fF37DA": {
-        "ko": "[고블린 리더]\n무자비한 맨얼굴이다!\n고블린 프론테라 안 간다!\n고블린 괴롭히지 마!",
-        "en": "[Goblin Leader]\nWhat a merciless bare face!\nGobiln not going to Prontera!\nStop bullying Gobiln!",
-        "pt": "[Líder Goblin]\nÉ o implacável rosto nu!\nGobiln não vai a Prontera!\nNão atormente Gobiln!",
-        "es": "[Líder de los Duendes]\n¡Es cara descubierta despiadada!\n¡Gobiln no va a Prontera!\n¡No molestes a Duendes!"
+        "ko-KR": "[고블린 리더]\n무자비한 맨얼굴이다!\n고블린 프론테라 안 간다!\n고블린 괴롭히지 마!",
+        "en-US": "[Goblin Leader]\nWhat a merciless bare face!\nGobiln not going to Prontera!\nStop bullying Gobiln!",
+        "pt-BR": "[Líder Goblin]\nÉ o implacável rosto nu!\nGobiln não vai a Prontera!\nNão atormente Gobiln!",
+        "es-ES": "[Líder de los Duendes]\n¡Es cara descubierta despiadada!\n¡Gobiln no va a Prontera!\n¡No molestes a Duendes!"
     },
     "fV37DA": {
-        "ko": "오크워리어 카드를 내민다.",
-        "en": "Present the Orc Warrior Card.",
-        "pt": "Mostrar a carta de Orc Guerreiro.",
-        "es": "Mostrar carta de Orc Warrior."
+        "ko-KR": "오크워리어 카드를 내민다.",
+        "en-US": "Present the Orc Warrior Card.",
+        "pt-BR": "Mostrar a carta de Orc Guerreiro.",
+        "es-ES": "Mostrar carta de Orc Warrior."
     },
     "fl37DA": {
-        "ko": "오크전사의 증표를 내민다.",
-        "en": "Present the Orcish Voucher.",
-        "pt": "Mostrar Amuleto dos Orcs.",
-        "es": "Mostrar Cupón de orco."
+        "ko-KR": "오크전사의 증표를 내민다.",
+        "en-US": "Present the Orcish Voucher.",
+        "pt-BR": "Mostrar Amuleto dos Orcs.",
+        "es-ES": "Mostrar Cupón de orco."
     },
     "f137DA": {
-        "ko": "[고블린 리더]",
-        "en": "[Goblin Leader]",
-        "pt": "[Líder Goblin]",
-        "es": "[Líder de los Duendes]"
+        "ko-KR": "[고블린 리더]",
+        "en-US": "[Goblin Leader]",
+        "pt-BR": "[Líder Goblin]",
+        "es-ES": "[Líder de los Duendes]"
     },
     "gF37DA": {
-        "ko": "^4D4DFF<ITEM>[오크워리어 카드]<INFO>4066</INFO></ITEM>를 소지하고 있을 경우 고블린 리더에게 1장 상납합니다.^000000",
-        "en": "^4D4DFFIf you possess <ITEM>[Orc Warrior Card]<INFO>4066</INFO></ITEM>, you will offer 1 to the Goblin Leader.^000000",
-        "pt": "^4D4DFFSe você possuir <ITEM>[Carta de Orc Guerreiro]<INFO>4066</INFO></ITEM>, oferecerá 1 unidade a Líder Goblin.^000000",
-        "es": "^4D4DFFSi tienes <ITEM>[carta de Orc Warrior]<INFO>4066</INFO></ITEM>, entregarás 1 a Líder de los Duendes.^000000"
+        "ko-KR": "^4D4DFF<ITEM>[오크워리어 카드]<INFO>4066</INFO></ITEM>를 소지하고 있을 경우 고블린 리더에게 1장 상납합니다.^000000",
+        "en-US": "^4D4DFFIf you possess <ITEM>[Orc Warrior Card]<INFO>4066</INFO></ITEM>, you will offer 1 to the Goblin Leader.^000000",
+        "pt-BR": "^4D4DFFSe você possuir <ITEM>[Carta de Orc Guerreiro]<INFO>4066</INFO></ITEM>, oferecerá 1 unidade a Líder Goblin.^000000",
+        "es-ES": "^4D4DFFSi tienes <ITEM>[carta de Orc Warrior]<INFO>4066</INFO></ITEM>, entregarás 1 a Líder de los Duendes.^000000"
     },
     "gV37DA": {
-        "ko": "[고블린 리더]\n맨얼굴아. 오크워리어 카드는 이제 충분하다.\n이정도면 맨얼굴을 명예 고블린으로 받아준다.\n인정한다. 이제부터 맨얼굴도 고블린이다.",
-        "en": "[Goblin Leader]\nBare face. Orc Warrior Cards are enough now.\nAt this point, bare face accepted as honorary Gobiln.\nApproved. From now on, bare face also Gobiln.",
-        "pt": "[Líder Goblin]\nRosto nu. Cartas de Orc Guerreiro já são suficientes.\nCom isso, aceitamos rosto nu como Gobiln honorário.\nReconhecemos. A partir de agora, rosto nu também é Gobiln.",
-        "es": "[Líder de los Duendes]\nCara descubierta. \nYa hay suficientes cartas de Orc Warrior.\nCon esto, acepto a cara descubierta como Duende honorario.\nLo reconozco. Desde ahora, cara descubierta también es un Duende."
+        "ko-KR": "[고블린 리더]\n맨얼굴아. 오크워리어 카드는 이제 충분하다.\n이정도면 맨얼굴을 명예 고블린으로 받아준다.\n인정한다. 이제부터 맨얼굴도 고블린이다.",
+        "en-US": "[Goblin Leader]\nBare face. Orc Warrior Cards are enough now.\nAt this point, bare face accepted as honorary Gobiln.\nApproved. From now on, bare face also Gobiln.",
+        "pt-BR": "[Líder Goblin]\nRosto nu. Cartas de Orc Guerreiro já são suficientes.\nCom isso, aceitamos rosto nu como Gobiln honorário.\nReconhecemos. A partir de agora, rosto nu também é Gobiln.",
+        "es-ES": "[Líder de los Duendes]\nCara descubierta. \nYa hay suficientes cartas de Orc Warrior.\nCon esto, acepto a cara descubierta como Duende honorario.\nLo reconozco. Desde ahora, cara descubierta también es un Duende."
     },
     "gl37DA": {
-        "ko": "[고블린 리더]\n아아아아아아 언제 받아도 신나는 오크워리어 카드!!!!\n이것이 지나가다 가만있던 돌멩이 발로 차듯 고블린을 괴롭히던 맨얼굴의 진심…!",
-        "en": "[Goblin Leader]\nAaaaaaaaaah receiving Orc Warrior Cards is always exciting!!!!\nThis is the true heart of bare face, who bullied Gobiln like kicking random stones on the road…!",
-        "pt": "[Líder Goblin]\nAaaaaaaah, carta de Orc Guerreiro sempre empolga quando recebemos!!!!\nEsta é a sinceridade do rosto nu, que atormentava Gobiln como quem chuta uma pedra parada no caminho…!",
-        "es": "[Líder de los Duendes]\n¡¡¡¡Aaaaaaaah, una carta de Orc Warrior siempre emocionante al recibirla!!!!\n¡Esta es la sinceridad de cara descubierta, que molestaba a Duende como quien patea una piedra cualquiera al pasar...!"
+        "ko-KR": "[고블린 리더]\n아아아아아아 언제 받아도 신나는 오크워리어 카드!!!!\n이것이 지나가다 가만있던 돌멩이 발로 차듯 고블린을 괴롭히던 맨얼굴의 진심…!",
+        "en-US": "[Goblin Leader]\nAaaaaaaaaah receiving Orc Warrior Cards is always exciting!!!!\nThis is the true heart of bare face, who bullied Gobiln like kicking random stones on the road…!",
+        "pt-BR": "[Líder Goblin]\nAaaaaaaah, carta de Orc Guerreiro sempre empolga quando recebemos!!!!\nEsta é a sinceridade do rosto nu, que atormentava Gobiln como quem chuta uma pedra parada no caminho…!",
+        "es-ES": "[Líder de los Duendes]\n¡¡¡¡Aaaaaaaah, una carta de Orc Warrior siempre emocionante al recibirla!!!!\n¡Esta es la sinceridad de cara descubierta, que molestaba a Duende como quien patea una piedra cualquiera al pasar...!"
     },
     "g137DA": {
-        "ko": "^4D4DFF고블린 리더가 당신을 재평가합니다.^000000",
-        "en": "^4D4DFFGoblin Leader reevaluates you.^000000",
-        "pt": "^4D4DFFLíder Goblin reavalia você.^000000",
-        "es": "^4D4DFFLíder de los Duendes te reevalúa.^000000"
+        "ko-KR": "^4D4DFF고블린 리더가 당신을 재평가합니다.^000000",
+        "en-US": "^4D4DFFGoblin Leader reevaluates you.^000000",
+        "pt-BR": "^4D4DFFLíder Goblin reavalia você.^000000",
+        "es-ES": "^4D4DFFLíder de los Duendes te reevalúa.^000000"
     },
     "hF37DA": {
-        "ko": "[고블린 리더]\n요즘 윗동네 오크들이 고블린 괴롭힌다!\n맨얼굴이 오크 전사들을 혼내주고 <ITEM>[오크워리어 카드]<INFO>4066</INFO></ITEM> 가져오면 고블린 시켜줄게.",
-        "en": "[Goblin Leader]\nRecently the Orcs from the upper area keep bullying Gobiln!\nIf bare face beats up Orc Warriors and brings <ITEM>[Orc Warrior Card]<INFO>4066</INFO></ITEM>, I make you Gobiln.",
-        "pt": "[Líder Goblin]\nUltimamente, Orcs da parte de cima atormentam Gobiln!\nSe rosto nu castigar os guerreiros Orcs e trouxer <ITEM>[Carta de Orc Guerreiro]<INFO>4066</INFO></ITEM>, deixaremos virar Gobiln.",
-        "es": "[Líder de los Duendes]\n¡Últimamente los orcos de arriba molestan a los Duendes!\nSi cara descubierta castiga a los guerreros orcos y trae <ITEM>[carta de Orc Warrior]<INFO>4066</INFO></ITEM>, haré que seas un Duende."
+        "ko-KR": "[고블린 리더]\n요즘 윗동네 오크들이 고블린 괴롭힌다!\n맨얼굴이 오크 전사들을 혼내주고 <ITEM>[오크워리어 카드]<INFO>4066</INFO></ITEM> 가져오면 고블린 시켜줄게.",
+        "en-US": "[Goblin Leader]\nRecently the Orcs from the upper area keep bullying Gobiln!\nIf bare face beats up Orc Warriors and brings <ITEM>[Orc Warrior Card]<INFO>4066</INFO></ITEM>, I make you Gobiln.",
+        "pt-BR": "[Líder Goblin]\nUltimamente, Orcs da parte de cima atormentam Gobiln!\nSe rosto nu castigar os guerreiros Orcs e trouxer <ITEM>[Carta de Orc Guerreiro]<INFO>4066</INFO></ITEM>, deixaremos virar Gobiln.",
+        "es-ES": "[Líder de los Duendes]\n¡Últimamente los orcos de arriba molestan a los Duendes!\nSi cara descubierta castiga a los guerreros orcos y trae <ITEM>[carta de Orc Warrior]<INFO>4066</INFO></ITEM>, haré que seas un Duende."
     },
     "hV37DA": {
-        "ko": "^4D4DFF오크전사의 증표 납품은 하루에 한 번만 할 수 있습니다.^000000",
-        "en": "^4D4DFFOrcish Voucher deliveries can only be made once per day.^000000",
-        "pt": "^4D4DFFA entrega de Amuleto dos Orcs só pode ser feita uma vez por dia.^000000",
-        "es": "^4D4DFFLa entrega de Cupón de orco solo puede realizarse una vez al día.^000000"
+        "ko-KR": "^4D4DFF오크전사의 증표 납품은 하루에 한 번만 할 수 있습니다.^000000",
+        "en-US": "^4D4DFFOrcish Voucher deliveries can only be made once per day.^000000",
+        "pt-BR": "^4D4DFFA entrega de Amuleto dos Orcs só pode ser feita uma vez por dia.^000000",
+        "es-ES": "^4D4DFFLa entrega de Cupón de orco solo puede realizarse una vez al día.^000000"
     },
     "hl37DA": {
-        "ko": "^4D4DFF<ITEM>[오크전사의 증표]<INFO>931</INFO></ITEM>를 소지하고 있을 경우 고블린 리더에게 100개 상납합니다.^000000",
-        "en": "^4D4DFFIf you possess <ITEM>[Orcish Voucher]<INFO>931</INFO></ITEM>, you will offer 100 to the Goblin Leader.^000000",
-        "pt": "^4D4DFFSe você possuir <ITEM>[Amuleto dos Orcs]<INFO>931</INFO></ITEM>, oferecerá 100 unidades a Líder Goblin.^000000",
-        "es": "^4D4DFFSi tienes <ITEM>[Cupón de orco]<INFO>931</INFO></ITEM>, entregarás 100 a Líder de los Duendes.^000000"
+        "ko-KR": "^4D4DFF<ITEM>[오크전사의 증표]<INFO>931</INFO></ITEM>를 소지하고 있을 경우 고블린 리더에게 100개 상납합니다.^000000",
+        "en-US": "^4D4DFFIf you possess <ITEM>[Orcish Voucher]<INFO>931</INFO></ITEM>, you will offer 100 to the Goblin Leader.^000000",
+        "pt-BR": "^4D4DFFSe você possuir <ITEM>[Amuleto dos Orcs]<INFO>931</INFO></ITEM>, oferecerá 100 unidades a Líder Goblin.^000000",
+        "es-ES": "^4D4DFFSi tienes <ITEM>[Cupón de orco]<INFO>931</INFO></ITEM>, entregarás 100 a Líder de los Duendes.^000000"
     },
     "h137DA": {
-        "ko": "[고블린 리더]\n맨얼굴아. 오크전사의 증표는 이제 충분하다.\n이정도면 맨얼굴을 명예 고블린으로 받아준다.\n인정한다. 이제부터 맨얼굴도 고블린이다.",
-        "en": "[Goblin Leader]\nBare face. Orcish Voucher are enough now.\nAt this point, bare face accepted as honorary Gobiln.\nApproved. From now on, bare face also Gobiln.",
-        "pt": "[Líder Goblin]\nRosto nu. Amuleto dos Orcs já é suficiente.\nCom isso, aceitamos rosto nu como Gobiln honorário.\nReconhecemos. A partir de agora, rosto nu também é Gobiln.",
-        "es": "[Líder de los Duendes]\nCara descubierta. Ya hay suficientes Cupón de orco.\nCon esto, acepto a cara descubierta como un Duende honorario.\nLo reconozco. Desde ahora, cara descubierta también es un Duende."
+        "ko-KR": "[고블린 리더]\n맨얼굴아. 오크전사의 증표는 이제 충분하다.\n이정도면 맨얼굴을 명예 고블린으로 받아준다.\n인정한다. 이제부터 맨얼굴도 고블린이다.",
+        "en-US": "[Goblin Leader]\nBare face. Orcish Voucher are enough now.\nAt this point, bare face accepted as honorary Gobiln.\nApproved. From now on, bare face also Gobiln.",
+        "pt-BR": "[Líder Goblin]\nRosto nu. Amuleto dos Orcs já é suficiente.\nCom isso, aceitamos rosto nu como Gobiln honorário.\nReconhecemos. A partir de agora, rosto nu também é Gobiln.",
+        "es-ES": "[Líder de los Duendes]\nCara descubierta. Ya hay suficientes Cupón de orco.\nCon esto, acepto a cara descubierta como un Duende honorario.\nLo reconozco. Desde ahora, cara descubierta también es un Duende."
     },
     "iF37DA": {
-        "ko": "[고블린 리더]\n아아아아아아 이것은 고블린 괴롭히는 오크들의 증표!!!!!!!!\n마치 쓰레기 투척하듯 고블린에게 보여주는 맨얼굴의 진심…!",
-        "en": "[Goblin Leader]\nAaaaaaaaaah these are the marks of the Orcs who bully Gobiln!!!!!!!!\nThe true heart of bare face showing them to Gobiln as if throwing away trash…!",
-        "pt": "[Líder Goblin]\nAaaaaaaah, isto é a prova dos Orcs que atormentam Gobiln!!!!!!!!\nÉ a sinceridade do rosto nu mostrada a Gobiln como quem joga lixo…!",
-        "es": "[Líder de los Duendes]\n¡¡¡¡Aaaaaaaaaah, estas son las pruebas de los orcos que molestan a los Duendes!!!!!!!!\n¡La sinceridad de cara descubierta, mostrada a los Duendes como si lanzara basura...!"
+        "ko-KR": "[고블린 리더]\n아아아아아아 이것은 고블린 괴롭히는 오크들의 증표!!!!!!!!\n마치 쓰레기 투척하듯 고블린에게 보여주는 맨얼굴의 진심…!",
+        "en-US": "[Goblin Leader]\nAaaaaaaaaah these are the marks of the Orcs who bully Gobiln!!!!!!!!\nThe true heart of bare face showing them to Gobiln as if throwing away trash…!",
+        "pt-BR": "[Líder Goblin]\nAaaaaaaah, isto é a prova dos Orcs que atormentam Gobiln!!!!!!!!\nÉ a sinceridade do rosto nu mostrada a Gobiln como quem joga lixo…!",
+        "es-ES": "[Líder de los Duendes]\n¡¡¡¡Aaaaaaaaaah, estas son las pruebas de los orcos que molestan a los Duendes!!!!!!!!\n¡La sinceridad de cara descubierta, mostrada a los Duendes como si lanzara basura...!"
     },
     "iV37DA": {
-        "ko": "[고블린 리더]\n요즘 윗동네 오크들이 고블린 괴롭힌다!\n맨얼굴이 오크 전사들을 혼내주고 <ITEM>[오크전사의 증표]<INFO>931</INFO></ITEM> 가져오면 고블린 시켜줄게.",
-        "en": "[Goblin Leader]\nRecently the Orcs from the upper area keep bullying Gobiln!\nIf bare face beats up Orc Warriors and brings <ITEM>[Orcish Voucher]<INFO>931</INFO></ITEM>, I make you Gobiln.",
-        "pt": "[Líder Goblin]\nUltimamente, Orcs da parte de cima atormentam Gobiln!\nSe rosto nu castigar os guerreiros Orcs e trouxer <ITEM>[Amuleto dos Orcs]<INFO>931</INFO></ITEM>, deixaremos virar Gobiln.",
-        "es": "[Líder de los Duendes]\n¡Últimamente los orcos de arriba molestan a los Duendes!\nSi cara descubierta castiga a los guerreros orcos y trae <ITEM>[Cupón de orco]<INFO>931</INFO></ITEM>, haré que seas un Duende."
+        "ko-KR": "[고블린 리더]\n요즘 윗동네 오크들이 고블린 괴롭힌다!\n맨얼굴이 오크 전사들을 혼내주고 <ITEM>[오크전사의 증표]<INFO>931</INFO></ITEM> 가져오면 고블린 시켜줄게.",
+        "en-US": "[Goblin Leader]\nRecently the Orcs from the upper area keep bullying Gobiln!\nIf bare face beats up Orc Warriors and brings <ITEM>[Orcish Voucher]<INFO>931</INFO></ITEM>, I make you Gobiln.",
+        "pt-BR": "[Líder Goblin]\nUltimamente, Orcs da parte de cima atormentam Gobiln!\nSe rosto nu castigar os guerreiros Orcs e trouxer <ITEM>[Amuleto dos Orcs]<INFO>931</INFO></ITEM>, deixaremos virar Gobiln.",
+        "es-ES": "[Líder de los Duendes]\n¡Últimamente los orcos de arriba molestan a los Duendes!\nSi cara descubierta castiga a los guerreros orcos y trae <ITEM>[Cupón de orco]<INFO>931</INFO></ITEM>, haré que seas un Duende."
     },
     "il37DA": {
-        "ko": "고블린 약초꾼",
-        "en": "Gobiln Herbalist",
-        "pt": "Herbalista Gobiln",
-        "es": "Herbolario Gobiln"
+        "ko-KR": "고블린 약초꾼",
+        "en-US": "Gobiln Herbalist",
+        "pt-BR": "Herbalista Gobiln",
+        "es-ES": "Herbolario Gobiln"
     },
     "i137DA": {
-        "ko": "끼긱....",
-        "en": "Kkiik....",
-        "pt": "Kikik....",
-        "es": "Kikik..."
+        "ko-KR": "끼긱....",
+        "en-US": "Kkiik....",
+        "pt-BR": "Kikik....",
+        "es-ES": "Kikik..."
     },
     "jF37DA": {
-        "ko": "없다! 약초 없다!",
-        "en": "None! No herbs!",
-        "pt": "Não tem! Não tem ervas!",
-        "es": "¡No hay! ¡No hay hierbas!"
+        "ko-KR": "없다! 약초 없다!",
+        "en-US": "None! No herbs!",
+        "pt-BR": "Não tem! Não tem ervas!",
+        "es-ES": "¡No hay! ¡No hay hierbas!"
     },
     "jV37DA": {
-        "ko": "^4D4DFF고블린 약초꾼이 경계심 어린 눈으로 보고 있다.^000000",
-        "en": "^4D4DFFThe Gobiln Herbalist watches you with wary eyes.^000000",
-        "pt": "^4D4DFFO Herbalista Gobiln observa você com olhos desconfiados.^000000",
-        "es": "^4D4DFFEl herbolario Gobiln te mira con recelo.^000000"
+        "ko-KR": "^4D4DFF고블린 약초꾼이 경계심 어린 눈으로 보고 있다.^000000",
+        "en-US": "^4D4DFFThe Gobiln Herbalist watches you with wary eyes.^000000",
+        "pt-BR": "^4D4DFFO Herbalista Gobiln observa você com olhos desconfiados.^000000",
+        "es-ES": "^4D4DFFEl herbolario Gobiln te mira con recelo.^000000"
     },
     "jl37DA": {
-        "ko": "… 빨간색 노란색 있다.",
-        "en": "… Red yellow available.",
-        "pt": "… Tem vermelha e amarela.",
-        "es": "...Hay rojas y amarillas."
+        "ko-KR": "… 빨간색 노란색 있다.",
+        "en-US": "… Red yellow available.",
+        "pt-BR": "… Tem vermelha e amarela.",
+        "es-ES": "...Hay rojas y amarillas."
     },
     "j137DA": {
-        "ko": "… 빨간색 노란색 하얀색 있다.",
-        "en": "… Red yellow white available.",
-        "pt": "… Tem vermelha, amarela e branca.",
-        "es": "...Hay rojas, amarillas y blancas."
+        "ko-KR": "… 빨간색 노란색 하얀색 있다.",
+        "en-US": "… Red yellow white available.",
+        "pt-BR": "… Tem vermelha, amarela e branca.",
+        "es-ES": "...Hay rojas, amarillas y blancas."
     },
     "kF37DA": {
-        "ko": "… 빨간색 노란색 하얀색 파란색 있다. 싸게 준다!",
-        "en": "… Red yellow white blue available. Cheap!",
-        "pt": "… Tem vermelha, amarela, branca e azul. Dou barato!",
-        "es": "...Hay rojas, amarillas, blancas y azules. ¡Baratas!"
+        "ko-KR": "… 빨간색 노란색 하얀색 파란색 있다. 싸게 준다!",
+        "en-US": "… Red yellow white blue available. Cheap!",
+        "pt-BR": "… Tem vermelha, amarela, branca e azul. Dou barato!",
+        "es-ES": "...Hay rojas, amarillas, blancas y azules. ¡Baratas!"
     }
 }

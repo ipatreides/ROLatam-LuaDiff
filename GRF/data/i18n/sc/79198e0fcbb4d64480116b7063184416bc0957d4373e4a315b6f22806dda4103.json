@@ -1,232 +1,232 @@
 {
     "QInKDA": {
-        "ko": "일반구간 선택",
-        "en": "Select Normal Area",
-        "pt": "Seleção de Área Normal",
-        "es": "Seleccionar sección normal"
+        "ko-KR": "일반구간 선택",
+        "en-US": "Select Normal Area",
+        "pt-BR": "Seleção de Área Normal",
+        "es-ES": "Seleccionar sección normal"
     },
     "QYnKDA": {
-        "ko": "워프",
-        "en": "Warp",
-        "pt": "Warp",
-        "es": "Warp"
+        "ko-KR": "워프",
+        "en-US": "Warp",
+        "pt-BR": "Warp",
+        "es-ES": "Warp"
     },
     "QonKDA": {
-        "ko": "왼쪽처치",
-        "en": "Clear Left Side",
-        "pt": "Eliminar à Esquerda",
-        "es": "Eliminar lado izquierdo"
+        "ko-KR": "왼쪽처치",
+        "en-US": "Clear Left Side",
+        "pt-BR": "Eliminar à Esquerda",
+        "es-ES": "Eliminar lado izquierdo"
     },
     "Q4nKDA": {
-        "ko": "오른쪽 처치",
-        "en": "Clear Right Side",
-        "pt": "Eliminar à Direita",
-        "es": "Eliminar lado derecho"
+        "ko-KR": "오른쪽 처치",
+        "en-US": "Clear Right Side",
+        "pt-BR": "Eliminar à Direita",
+        "es-ES": "Eliminar lado derecho"
     },
     "RInKDA": {
-        "ko": "시작지점 오스카 ON",
-        "en": "Start Point Oscar ON",
-        "pt": "Ponto Inicial Oscar ON",
-        "es": "Punto inicial Oscar ON"
+        "ko-KR": "시작지점 오스카 ON",
+        "en-US": "Start Point Oscar ON",
+        "pt-BR": "Ponto Inicial Oscar ON",
+        "es-ES": "Punto inicial Oscar ON"
     },
     "RYnKDA": {
-        "ko": "중보스 ON",
-        "en": "Mid Boss ON",
-        "pt": "Chefe Intermediário ON",
-        "es": "Mini jefe ON"
+        "ko-KR": "중보스 ON",
+        "en-US": "Mid Boss ON",
+        "pt-BR": "Chefe Intermediário ON",
+        "es-ES": "Mini jefe ON"
     },
     "RonKDA": {
-        "ko": "오스카: 차원 오염의 원인을 제거하기 위해선 먼저 좌 우의 공간부터 정화해야해요.",
-        "en": "Oscar: To eliminate the source of dimensional contamination, we must first purify the spaces on the left and right.",
-        "pt": "Oscar: Precisamos purificar as áreas à esquerda e à direita.",
-        "es": "Oscar: Para eliminar la causa de la contaminación dimensional, primero debemos purificar las zonas izquierda y derecha."
+        "ko-KR": "오스카: 차원 오염의 원인을 제거하기 위해선 먼저 좌 우의 공간부터 정화해야해요.",
+        "en-US": "Oscar: To eliminate the source of dimensional contamination, we must first purify the spaces on the left and right.",
+        "pt-BR": "Oscar: Precisamos purificar as áreas à esquerda e à direita.",
+        "es-ES": "Oscar: Para eliminar la causa de la contaminación dimensional, primero debemos purificar las zonas izquierda y derecha."
     },
     "R4nKDA": {
-        "ko": "오스카: 정화 상황은 제가 틈틈히 알려드릴테니 지금은 각 구역을 정화하는데 힘써주세요.",
-        "en": "Oscar: I will inform you of the purification progress from time to time, so for now please focus on purifying each area.",
-        "pt": "Oscar: Concentrem-se em purificar cada área. Vou manter vocês informados.",
-        "es": "Oscar: Les informaré periódicamente sobre el estado de la purificación, así que por ahora concéntrense en limpiar cada sector."
+        "ko-KR": "오스카: 정화 상황은 제가 틈틈히 알려드릴테니 지금은 각 구역을 정화하는데 힘써주세요.",
+        "en-US": "Oscar: I will inform you of the purification progress from time to time, so for now please focus on purifying each area.",
+        "pt-BR": "Oscar: Concentrem-se em purificar cada área. Vou manter vocês informados.",
+        "es-ES": "Oscar: Les informaré periódicamente sobre el estado de la purificación, así que por ahora concéntrense en limpiar cada sector."
     },
     "SInKDA": {
-        "ko": "오스카: 좌우 구역의 정화가 끝났군요.",
-        "en": "Oscar: The purification of the left and right areas is complete.",
-        "pt": "Oscar: A purificação das duas áreas foi concluída.",
-        "es": "Oscar: La purificación de las zonas izquierda y derecha ha terminado."
+        "ko-KR": "오스카: 좌우 구역의 정화가 끝났군요.",
+        "en-US": "Oscar: The purification of the left and right areas is complete.",
+        "pt-BR": "Oscar: A purificação das duas áreas foi concluída.",
+        "es-ES": "Oscar: La purificación de las zonas izquierda y derecha ha terminado."
     },
     "SYnKDA": {
-        "ko": "오스카: 중앙통로로 이동하세요!",
-        "en": "Oscar: Move to the central corridor!",
-        "pt": "Oscar: Movam-se para o corredor central!",
-        "es": "Oscar: ¡Muévanse al pasillo central!"
+        "ko-KR": "오스카: 중앙통로로 이동하세요!",
+        "en-US": "Oscar: Move to the central corridor!",
+        "pt-BR": "Oscar: Movam-se para o corredor central!",
+        "es-ES": "Oscar: ¡Muévanse al pasillo central!"
     },
     "SonKDA": {
-        "ko": "[정화완료]",
-        "en": "[Purification Complete]",
-        "pt": "[Purificação Concluída]",
-        "es": "[Purificación completada]"
+        "ko-KR": "[정화완료]",
+        "en-US": "[Purification Complete]",
+        "pt-BR": "[Purificação Concluída]",
+        "es-ES": "[Purificación completada]"
     },
     "S4nKDA": {
-        "ko": "[정화완료]",
-        "en": "[Purification Complete]",
-        "pt": "[Purificação Concluída]",
-        "es": "[Purificación completada]"
+        "ko-KR": "[정화완료]",
+        "en-US": "[Purification Complete]",
+        "pt-BR": "[Purificação Concluída]",
+        "es-ES": "[Purificación completada]"
     },
     "TInKDA": {
-        "ko": "{0} <- 정화되지 않은 환영 -> {1}",
-        "en": "{0} <- Unpurified Illusion -> {1}",
-        "pt": "{0} <- Monstros Restantes -> {1}",
-        "es": "{0} <- Ilusión no purificada -> {1}"
+        "ko-KR": "{0} <- 정화되지 않은 환영 -> {1}",
+        "en-US": "{0} <- Unpurified Illusion -> {1}",
+        "pt-BR": "{0} <- Monstros Restantes -> {1}",
+        "es-ES": "{0} <- Ilusión no purificada -> {1}"
     },
     "TYnKDA": {
-        "ko": "변이하고 있는",
-        "en": "Mutating",
-        "pt": "Mutante",
-        "es": "Mutando"
+        "ko-KR": "변이하고 있는",
+        "en-US": "Mutating",
+        "pt-BR": "Mutante",
+        "es-ES": "Mutando"
     },
     "TonKDA": {
-        "ko": "백색의 기사#{0}",
-        "en": "White Knight",
+        "ko-KR": "백색의 기사#{0}",
+        "en-US": "White Knight",
         "unknown_3": "{0}",
-        "pt": "Cavaleiro Branco",
+        "pt-BR": "Cavaleiro Branco",
         "unknown_8": "{0}",
-        "es": "Caballero Blanco"
+        "es-ES": "Caballero Blanco"
     },
     "T4nKDA": {
-        "ko": "칼리츠버그#{0}",
-        "en": "Khalitzburg",
+        "ko-KR": "칼리츠버그#{0}",
+        "en-US": "Khalitzburg",
         "unknown_3": "{0}",
-        "pt": "Khalitzburg",
+        "pt-BR": "Khalitzburg",
         "unknown_8": "{0}",
-        "es": "Khalitzburg"
+        "es-ES": "Khalitzburg"
     },
     "UInKDA": {
-        "ko": "저주받은",
-        "en": "Cursed",
-        "pt": "Maldito",
-        "es": "maldito"
+        "ko-KR": "저주받은",
+        "en-US": "Cursed",
+        "pt-BR": "Maldito",
+        "es-ES": "maldito"
     },
     "UYnKDA": {
-        "ko": "레이드릭#{0}",
-        "en": "Raydric",
+        "ko-KR": "레이드릭#{0}",
+        "en-US": "Raydric",
         "unknown_3": "{0}",
-        "pt": "Raydric",
+        "pt-BR": "Raydric",
         "unknown_8": "{0}",
-        "es": "Raydric"
+        "es-ES": "Raydric"
     },
     "UonKDA": {
-        "ko": "오스카: 성의 왼쪽구역이 아직 정리되지 않았어요. 포털을 열었으니 이동해서 정리하도록 하세요.",
-        "en": "Oscar: The left side of the castle has not been cleared yet. I have opened a portal, so move there and clear it.",
-        "pt": "Oscar: A área esquerda ainda não foi limpa. Abri um portal, vão lá e eliminem todos.",
-        "es": "Oscar: La zona izquierda del castillo aún no ha sido despejada. He abierto un portal, muévanse allí y límpienla."
+        "ko-KR": "오스카: 성의 왼쪽구역이 아직 정리되지 않았어요. 포털을 열었으니 이동해서 정리하도록 하세요.",
+        "en-US": "Oscar: The left side of the castle has not been cleared yet. I have opened a portal, so move there and clear it.",
+        "pt-BR": "Oscar: A área esquerda ainda não foi limpa. Abri um portal, vão lá e eliminem todos.",
+        "es-ES": "Oscar: La zona izquierda del castillo aún no ha sido despejada. He abierto un portal, muévanse allí y límpienla."
     },
     "U4nKDA": {
-        "ko": "오스카: 성의 오른쪽구역이 아직 정리되지 않았어요. 포털을 열었으니 이동해서 정리하도록 하세요.",
-        "en": "Oscar: The right side of the castle has not been cleared yet. I have opened a portal, so move there and clear it.",
-        "pt": "Oscar: A área direita ainda não foi limpa. Abri um portal, vão lá e eliminem todos.",
-        "es": "Oscar: La zona derecha del castillo aún no ha sido despejada. He abierto un portal, muévanse allí y límpienla."
+        "ko-KR": "오스카: 성의 오른쪽구역이 아직 정리되지 않았어요. 포털을 열었으니 이동해서 정리하도록 하세요.",
+        "en-US": "Oscar: The right side of the castle has not been cleared yet. I have opened a portal, so move there and clear it.",
+        "pt-BR": "Oscar: A área direita ainda não foi limpa. Abri um portal, vão lá e eliminem todos.",
+        "es-ES": "Oscar: La zona derecha del castillo aún no ha sido despejada. He abierto un portal, muévanse allí y límpienla."
     },
     "VInKDA": {
-        "ko": "타락중인 뿌리#{0}",
-        "en": "Corrupting Root",
+        "ko-KR": "타락중인 뿌리#{0}",
+        "en-US": "Corrupting Root",
         "unknown_3": "{0}",
-        "pt": "Origem da Corrupção",
+        "pt-BR": "Origem da Corrupção",
         "unknown_8": "{0}",
-        "es": "Raíz en corrupción"
+        "es-ES": "Raíz en corrupción"
     },
     "VYnKDA": {
-        "ko": "오스카: 오, 이런~! 뭔가 기분 나쁜 녀석이 중앙통로에 나타났군요.",
-        "en": "Oscar: Oh my...! Something unpleasant has appeared in the central corridor.",
-        "pt": "Oscar: Oh, não! Algo monstruoso apareceu no corredor central!",
-        "es": "Oscar: ¡Oh, vaya! Algo desagradable ha aparecido en el pasillo central."
+        "ko-KR": "오스카: 오, 이런~! 뭔가 기분 나쁜 녀석이 중앙통로에 나타났군요.",
+        "en-US": "Oscar: Oh my...! Something unpleasant has appeared in the central corridor.",
+        "pt-BR": "Oscar: Oh, não! Algo monstruoso apareceu no corredor central!",
+        "es-ES": "Oscar: ¡Oh, vaya! Algo desagradable ha aparecido en el pasillo central."
     },
     "VonKDA": {
-        "ko": "오스카: 일단 저 녀석은 최대한 빠른시간안에 제 선에서 처리할게요. 신경쓰지 마세요.",
-        "en": "Oscar: I will deal with that one myself as quickly as possible. Please do not worry about it.",
-        "pt": "Oscar: Vou lidar com esse monstro por conta própria. Não se preocupem com isso.",
-        "es": "Oscar: Yo me encargaré de ese sujeto lo antes posible. No se preocupen por él."
+        "ko-KR": "오스카: 일단 저 녀석은 최대한 빠른시간안에 제 선에서 처리할게요. 신경쓰지 마세요.",
+        "en-US": "Oscar: I will deal with that one myself as quickly as possible. Please do not worry about it.",
+        "pt-BR": "Oscar: Vou lidar com esse monstro por conta própria. Não se preocupem com isso.",
+        "es-ES": "Oscar: Yo me encargaré de ese sujeto lo antes posible. No se preocupen por él."
     },
     "V4nKDA": {
-        "ko": "(나와 함께 사라지는거다...)",
-        "en": "(Disappear with me...)",
-        "pt": "(Você desaparecerá comigo...)",
-        "es": "(Desaparecerás conmigo...)"
+        "ko-KR": "(나와 함께 사라지는거다...)",
+        "en-US": "(Disappear with me...)",
+        "pt-BR": "(Você desaparecerá comigo...)",
+        "es-ES": "(Desaparecerás conmigo...)"
     },
     "WInKDA": {
-        "ko": "오스카",
-        "en": "Oscar",
-        "pt": "Oscar",
-        "es": "Oscar"
+        "ko-KR": "오스카",
+        "en-US": "Oscar",
+        "pt-BR": "Oscar",
+        "es-ES": "Oscar"
     },
     "WYnKDA": {
-        "ko": "[오스카]\n음 이곳 중앙통로는 어느 차원에서든 막혀있는 곳이니 워프로 이동해야해요",
-        "en": "[Oscar]\nHmm, this central corridor is blocked in every dimension, so you will need to move via Warp.",
-        "pt": "[Oscar]\nHm, este corredor central está bloqueado em qualquer dimensão, então precisamos nos mover por portais.",
-        "es": "[Oscar]\nHmm, el pasillo central aquí está bloqueado en cualquier dimensión, así que debemos movernos usando un warp."
+        "ko-KR": "[오스카]\n음 이곳 중앙통로는 어느 차원에서든 막혀있는 곳이니 워프로 이동해야해요",
+        "en-US": "[Oscar]\nHmm, this central corridor is blocked in every dimension, so you will need to move via Warp.",
+        "pt-BR": "[Oscar]\nHm, este corredor central está bloqueado em qualquer dimensão, então precisamos nos mover por portais.",
+        "es-ES": "[Oscar]\nHmm, el pasillo central aquí está bloqueado en cualquier dimensión, así que debemos movernos usando un warp."
     },
     "WonKDA": {
-        "ko": "[오스카]",
-        "en": "[Oscar]",
-        "pt": "[Oscar]",
-        "es": "[Oscar]"
+        "ko-KR": "[오스카]",
+        "en-US": "[Oscar]",
+        "pt-BR": "[Oscar]",
+        "es-ES": "[Oscar]"
     },
     "W4nKDA": {
-        "ko": "{0}씨가 요청하면 바로 반대쪽으로 통하는 워프를 생성하도록 할게요.",
-        "en": "If {0} requests it, I will immediately create a Warp leading to the opposite side.",
-        "pt": "Se {0} solicitar, criarei um portal que leva ao outro lado.",
-        "es": "Si {0} lo solicita, crearé inmediatamente un warp que conduce al lado opuesto."
+        "ko-KR": "{0}씨가 요청하면 바로 반대쪽으로 통하는 워프를 생성하도록 할게요.",
+        "en-US": "If {0} requests it, I will immediately create a Warp leading to the opposite side.",
+        "pt-BR": "Se {0} solicitar, criarei um portal que leva ao outro lado.",
+        "es-ES": "Si {0} lo solicita, crearé inmediatamente un warp que conduce al lado opuesto."
     },
     "XInKDA": {
-        "ko": "{0}씨가 속한 {1} 파티의 파티장이 요청하면 바로 반대쪽으로 통하는 워프를 생성하도록 할게요.",
-        "en": "If the leader of the {1} party that {0} belongs to requests it, I will immediately create a Warp leading to the opposite side.",
-        "pt": "{0}, peça para o líder do grupo {1} criar um portal que leva ao outro lado.",
-        "es": "Si el líder del grupo {1} al que pertenece {0} lo solicita, crearé inmediatamente un warp que conduce al lado opuesto."
+        "ko-KR": "{0}씨가 속한 {1} 파티의 파티장이 요청하면 바로 반대쪽으로 통하는 워프를 생성하도록 할게요.",
+        "en-US": "If the leader of the {1} party that {0} belongs to requests it, I will immediately create a Warp leading to the opposite side.",
+        "pt-BR": "{0}, peça para o líder do grupo {1} criar um portal que leva ao outro lado.",
+        "es-ES": "Si el líder del grupo {1} al que pertenece {0} lo solicita, crearé inmediatamente un warp que conduce al lado opuesto."
     },
     "XYnKDA": {
-        "ko": "잠시 기다려달라",
-        "en": "Please wait a moment",
-        "pt": "Aguarde um momento",
-        "es": "Por favor espera un momento"
+        "ko-KR": "잠시 기다려달라",
+        "en-US": "Please wait a moment",
+        "pt-BR": "Aguarde um momento",
+        "es-ES": "Por favor espera un momento"
     },
     "XonKDA": {
-        "ko": "워프를 생성해줘",
-        "en": "Create the Warp",
-        "pt": "Crie um portal",
-        "es": "Crea el warp"
+        "ko-KR": "워프를 생성해줘",
+        "en-US": "Create the Warp",
+        "pt-BR": "Crie um portal",
+        "es-ES": "Crea el warp"
     },
     "X4nKDA": {
-        "ko": "[오스카]\n알겠어요. 우리에게 허가된 시간이 얼마 없다는건 잊지 마세요",
-        "en": "[Oscar]\nUnderstood. Do not forget that we do not have much time permitted to us.",
-        "pt": "[Oscar]\nEntendido. Não se esqueçam de que não temos muito tempo.",
-        "es": "[Oscar]\nEntendido. No olvides que no tenemos mucho tiempo autorizado."
+        "ko-KR": "[오스카]\n알겠어요. 우리에게 허가된 시간이 얼마 없다는건 잊지 마세요",
+        "en-US": "[Oscar]\nUnderstood. Do not forget that we do not have much time permitted to us.",
+        "pt-BR": "[Oscar]\nEntendido. Não se esqueçam de que não temos muito tempo.",
+        "es-ES": "[Oscar]\nEntendido. No olvides que no tenemos mucho tiempo autorizado."
     },
     "YInKDA": {
-        "ko": "[오스카]\n좋아요 그럼 지금부터 워프를 열도록 할게요.",
-        "en": "[Oscar]\nAlright, then I will open the Warp now.",
-        "pt": "[Oscar]\nCerto, então abrirei o portal agora.",
-        "es": "[Oscar]\nBien, entonces abriré el warp ahora."
+        "ko-KR": "[오스카]\n좋아요 그럼 지금부터 워프를 열도록 할게요.",
+        "en-US": "[Oscar]\nAlright, then I will open the Warp now.",
+        "pt-BR": "[Oscar]\nCerto, então abrirei o portal agora.",
+        "es-ES": "[Oscar]\nBien, entonces abriré el warp ahora."
     },
     "YYnKDA": {
-        "ko": "잠깐이면 될거예요.",
-        "en": "It will only take a moment.",
-        "pt": "Levará apenas um instante.",
-        "es": "Solo tomará un momento."
+        "ko-KR": "잠깐이면 될거예요.",
+        "en-US": "It will only take a moment.",
+        "pt-BR": "Levará apenas um instante.",
+        "es-ES": "Solo tomará un momento."
     },
     "YonKDA": {
-        "ko": "오스카",
-        "en": "Oscar",
-        "pt": "Oscar",
-        "es": "Oscar"
+        "ko-KR": "오스카",
+        "en-US": "Oscar",
+        "pt-BR": "Oscar",
+        "es-ES": "Oscar"
     },
     "Y4nKDA": {
-        "ko": "저를 따라오세요.",
-        "en": "Follow me.",
-        "pt": "Sigam-me.",
-        "es": "Síganme."
+        "ko-KR": "저를 따라오세요.",
+        "en-US": "Follow me.",
+        "pt-BR": "Sigam-me.",
+        "es-ES": "Síganme."
     },
     "ZInKDA": {
-        "ko": "이쪽이예요...",
-        "en": "This way...",
-        "pt": "É por aqui...",
-        "es": "Por aquí..."
+        "ko-KR": "이쪽이예요...",
+        "en-US": "This way...",
+        "pt-BR": "É por aqui...",
+        "es-ES": "Por aquí..."
     }
 }

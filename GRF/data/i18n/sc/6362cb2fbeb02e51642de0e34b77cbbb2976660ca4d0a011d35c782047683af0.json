@@ -1,612 +1,612 @@
 {
     "AAk9": {
-        "en": "Crazy Venknick",
-        "pt": "Venknick, o Louco",
-        "es": "Galten Quejoso"
+        "en-US": "Crazy Venknick",
+        "pt-BR": "Venknick, o Louco",
+        "es-ES": "Galten Quejoso"
     },
     "AQk9": {
-        "en": "[Crazy Venknick]\nAt only 5000 Zeny\nI will tell you the sad legend behind that statue.",
-        "pt": "[Venknick, o Louco]\nPor apenas 5.000 zenys, \nvou lhe contar a triste lenda por trás desta estátua.",
-        "es": "[Venknick enajenado]\nPor solo 5000 zeny\nte contaré la triste leyenda de esa estatua."
+        "en-US": "[Crazy Venknick]\nAt only 5000 Zeny\nI will tell you the sad legend behind that statue.",
+        "pt-BR": "[Venknick, o Louco]\nPor apenas 5.000 zenys, \nvou lhe contar a triste lenda por trás desta estátua.",
+        "es-ES": "[Venknick enajenado]\nPor solo 5000 zeny\nte contaré la triste leyenda de esa estatua."
     },
     "Agk9": {
-        "en": "Give 5000 Zeny.",
-        "pt": "Dar 5.000 zenys.",
-        "es": "Entregar 5000 zeny."
+        "en-US": "Give 5000 Zeny.",
+        "pt-BR": "Dar 5.000 zenys.",
+        "es-ES": "Entregar 5000 zeny."
     },
     "Awk9": {
-        "en": "Don't give 5000 Zeny.",
-        "pt": "Não dar 5.000 zenys.",
-        "es": "No entregar 5000 zeny."
+        "en-US": "Don't give 5000 Zeny.",
+        "pt-BR": "Não dar 5.000 zenys.",
+        "es-ES": "No entregar 5000 zeny."
     },
     "BAk9": {
-        "en": "[Crazy Venknick]\nThanks",
-        "pt": "[Venknick, o Louco]\nObrigado.",
-        "es": "[Venknick enajenado]\nGracias."
+        "en-US": "[Crazy Venknick]\nThanks",
+        "pt-BR": "[Venknick, o Louco]\nObrigado.",
+        "es-ES": "[Venknick enajenado]\nGracias."
     },
     "BQk9": {
-        "en": "[{0}]\nWhat is the sad legend?",
-        "pt": "[{0}]\nQual é a lenda triste?",
-        "es": "[{0}]\n¿Cuál es la triste leyenda?"
+        "en-US": "[{0}]\nWhat is the sad legend?",
+        "pt-BR": "[{0}]\nQual é a lenda triste?",
+        "es-ES": "[{0}]\n¿Cuál es la triste leyenda?"
     },
     "Bgk9": {
-        "en": "[{0}]\nI asked what the sad legend is about?",
-        "pt": "[{0}]\nEu perguntei, qual é a lenda triste?",
-        "es": "[{0}]\nTe pregunté cuál es la triste leyenda."
+        "en-US": "[{0}]\nI asked what the sad legend is about?",
+        "pt-BR": "[{0}]\nEu perguntei, qual é a lenda triste?",
+        "es-ES": "[{0}]\nTe pregunté cuál es la triste leyenda."
     },
     "Bwk9": {
-        "en": "[Crazy Venknick]\nI don't believe in legends.",
-        "pt": "[Venknick, o Louco]\nNão acredito em lendas.",
-        "es": "[Venknick enajenado]\nNo creo en las leyendas."
+        "en-US": "[Crazy Venknick]\nI don't believe in legends.",
+        "pt-BR": "[Venknick, o Louco]\nNão acredito em lendas.",
+        "es-ES": "[Venknick enajenado]\nNo creo en las leyendas."
     },
     "CAk9": {
-        "en": "[{0}]\nWas I tricked?",
-        "pt": "[{0}]\nFui enganado?",
-        "es": "[{0}]\n¿Acaso me engañó?"
+        "en-US": "[{0}]\nWas I tricked?",
+        "pt-BR": "[{0}]\nFui enganado?",
+        "es-ES": "[{0}]\n¿Acaso me engañó?"
     },
     "CQk9": {
-        "en": "You feel outraged at being tricked.",
-        "pt": "- Você fica enfurecido por ter sido enganado. -",
-        "es": "Sientes una gran indignación después de este engaño."
+        "en-US": "You feel outraged at being tricked.",
+        "pt-BR": "- Você fica enfurecido por ter sido enganado. -",
+        "es-ES": "Sientes una gran indignación después de este engaño."
     },
     "Cgk9": {
-        "en": "[Crazy Venknick]\nI have no\nlegend to share\nwith the poor.",
-        "pt": "[Venknick, o Louco]\nNão tenho\nnenhuma lenda a compartilhar com\nos pobres.",
-        "es": "[Venknick enajenado]\nNo tengo\nninguna leyenda para compartir\ncon los pobres."
+        "en-US": "[Crazy Venknick]\nI have no\nlegend to share\nwith the poor.",
+        "pt-BR": "[Venknick, o Louco]\nNão tenho\nnenhuma lenda a compartilhar com\nos pobres.",
+        "es-ES": "[Venknick enajenado]\nNo tengo\nninguna leyenda para compartir\ncon los pobres."
     },
     "Cwk9": {
-        "en": "[Crazy Venknick]\nDon't come back with regret.",
-        "pt": "[Venknick, o Louco]\nNão vá se arrepender depois.",
-        "es": "[Venknick enajenado]\nOjalá no te arrepientas."
+        "en-US": "[Crazy Venknick]\nDon't come back with regret.",
+        "pt-BR": "[Venknick, o Louco]\nNão vá se arrepender depois.",
+        "es-ES": "[Venknick enajenado]\nOjalá no te arrepientas."
     },
     "DAk9": {
-        "en": "[XXXXXX]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX",
-        "pt": "[Venknick, o Louco]\n¢²¡û¡ó ¡ó ¡ù¢¤¡ø\n¢¤¡ð¢² ¢± ¡ñ¡ö¢² ¡ø ¡ï¡ö¡ü",
-        "es": "[XXXXXX]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX"
+        "en-US": "[XXXXXX]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX",
+        "pt-BR": "[Venknick, o Louco]\n¢²¡û¡ó ¡ó ¡ù¢¤¡ø\n¢¤¡ð¢² ¢± ¡ñ¡ö¢² ¡ø ¡ï¡ö¡ü",
+        "es-ES": "[XXXXXX]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX"
     },
     "DQk9": {
-        "en": "I can't understand what he's trying to say.",
-        "pt": "- Você não sabe o que isso quer dizer. -",
-        "es": "No entiendo lo que intenta decirme."
+        "en-US": "I can't understand what he's trying to say.",
+        "pt-BR": "- Você não sabe o que isso quer dizer. -",
+        "es-ES": "No entiendo lo que intenta decirme."
     },
     "Dgk9": {
-        "en": "Complaining Galten",
-        "pt": "Garton Reclamão",
-        "es": "Galten Entrenando"
+        "en-US": "Complaining Galten",
+        "pt-BR": "Garton Reclamão",
+        "es-ES": "Galten Entrenando"
     },
     "Dwk9": {
-        "en": "[Complaining Galten]\nThat crazy Vanknick always\ntalks about the legend of that statue.",
-        "pt": "[Garton Reclamão]\nEsse Vanknick maluco vive\nfalando sobre a lenda dessa estátua.",
-        "es": "[Galten Quejoso]\nEse venknick enajenado siempre\nhabla de la leyenda de esa estatua."
+        "en-US": "[Complaining Galten]\nThat crazy Vanknick always\ntalks about the legend of that statue.",
+        "pt-BR": "[Garton Reclamão]\nEsse Vanknick maluco vive\nfalando sobre a lenda dessa estátua.",
+        "es-ES": "[Galten Quejoso]\nEse venknick enajenado siempre\nhabla de la leyenda de esa estatua."
     },
     "EAk9": {
-        "en": "[Complaining Galten]\nHave you ever talked\nto him?",
-        "pt": "[Garton Reclamão]\nVocê já falou\ncom ele?",
-        "es": "[Galten Quejoso]\n¿Hablaste alguna vez\ncon él?"
+        "en-US": "[Complaining Galten]\nHave you ever talked\nto him?",
+        "pt-BR": "[Garton Reclamão]\nVocê já falou\ncom ele?",
+        "es-ES": "[Galten Quejoso]\n¿Hablaste alguna vez\ncon él?"
     },
     "EQk9": {
-        "en": "No",
-        "pt": "Não",
-        "es": "No."
+        "en-US": "No",
+        "pt-BR": "Não",
+        "es-ES": "No."
     },
     "Egk9": {
-        "en": "Yes",
-        "pt": "Sim",
-        "es": "Sí."
+        "en-US": "Yes",
+        "pt-BR": "Sim",
+        "es-ES": "Sí."
     },
     "Ewk9": {
-        "en": "[Complaining Galten]\nThen you don't know about the legend behind the statue?\nThen, I don't know what to talk about with you.",
-        "pt": "[Garton Reclamão]\nEntão, não sabe sobre a lenda por trás da estátua?\nEntão, não sei sobre o que falar com você.",
-        "es": "[Galten Quejoso]\nEntonces, ¿no conoces la leyenda de la estatua?\nLa verdad, no sé de qué hablar contigo."
+        "en-US": "[Complaining Galten]\nThen you don't know about the legend behind the statue?\nThen, I don't know what to talk about with you.",
+        "pt-BR": "[Garton Reclamão]\nEntão, não sabe sobre a lenda por trás da estátua?\nEntão, não sei sobre o que falar com você.",
+        "es-ES": "[Galten Quejoso]\nEntonces, ¿no conoces la leyenda de la estatua?\nLa verdad, no sé de qué hablar contigo."
     },
     "FAk9": {
-        "en": "[Complaining Galten]\nYou also fell for that crazy man.",
-        "pt": "[Garton Reclamão]\nVocê também foi enganado por aquele louco.",
-        "es": "[Galten Quejoso]\nTambién caíste en la trampa de ese loco."
+        "en-US": "[Complaining Galten]\nYou also fell for that crazy man.",
+        "pt-BR": "[Garton Reclamão]\nVocê também foi enganado por aquele louco.",
+        "es-ES": "[Galten Quejoso]\nTambién caíste en la trampa de ese loco."
     },
     "FQk9": {
-        "en": "[{0}]\nYes",
-        "pt": "[{0}]\nSim.",
-        "es": "[{0}]\nSí."
+        "en-US": "[{0}]\nYes",
+        "pt-BR": "[{0}]\nSim.",
+        "es-ES": "[{0}]\nSí."
     },
     "Fgk9": {
-        "en": "[Complaining Galten]\nJust forget about it quickly for your own good.",
-        "pt": "[Garton Reclamão]\nEsqueça-se logo disso, para seu próprio bem.",
-        "es": "[Galten Quejoso]\nSerá mejor que lo olvides, por tu propio bien."
+        "en-US": "[Complaining Galten]\nJust forget about it quickly for your own good.",
+        "pt-BR": "[Garton Reclamão]\nEsqueça-se logo disso, para seu próprio bem.",
+        "es-ES": "[Galten Quejoso]\nSerá mejor que lo olvides, por tu propio bien."
     },
     "Fwk9": {
-        "en": "Training Galten",
-        "pt": "Garton Treinador",
-        "es": "Centinela"
+        "en-US": "Training Galten",
+        "pt-BR": "Garton Treinador",
+        "es-ES": "Centinela"
     },
     "GAk9": {
-        "en": "[Training Galten]\nI'll be ready for anything\nif I keep up with my training every day.",
-        "pt": "[Garton Treinador]\nEstarei pronto para qualquer coisa\nse mantiver meu treinamento todos os dias.",
-        "es": "[Galten Entrenando]\nEstaré listo para lo que sea\nsi sigo entrenando todos los días."
+        "en-US": "[Training Galten]\nI'll be ready for anything\nif I keep up with my training every day.",
+        "pt-BR": "[Garton Treinador]\nEstarei pronto para qualquer coisa\nse mantiver meu treinamento todos os dias.",
+        "es-ES": "[Galten Entrenando]\nEstaré listo para lo que sea\nsi sigo entrenando todos los días."
     },
     "GQk9": {
-        "en": "[Training Galten]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX",
-        "pt": "[Garton Treinador]\n¡ó¢£¡ü ¡ú ¡÷¡û¡÷\n¡ó¡û¢¤ ¢£ ¡õ¡ú¡ü ¡Ð",
-        "es": "[Galten Entrenando]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX"
+        "en-US": "[Training Galten]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX",
+        "pt-BR": "[Garton Treinador]\n¡ó¢£¡ü ¡ú ¡÷¡û¡÷\n¡ó¡û¢¤ ¢£ ¡õ¡ú¡ü ¡Ð",
+        "es-ES": "[Galten Entrenando]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX"
     },
     "Ggk9": {
-        "en": "[Training Galten]\nI wonder if Ahat knows how\nhard I am training.",
-        "pt": "[Garton Treinador]\nSerá que Ahat sabe que\neu estou treinando duro?",
-        "es": "[Galten Entrenando]\nMe pregunto si Ahat sabe\nlo duro que estoy entrenando."
+        "en-US": "[Training Galten]\nI wonder if Ahat knows how\nhard I am training.",
+        "pt-BR": "[Garton Treinador]\nSerá que Ahat sabe que\neu estou treinando duro?",
+        "es-ES": "[Galten Entrenando]\nMe pregunto si Ahat sabe\nlo duro que estoy entrenando."
     },
     "Gwk9": {
-        "en": "[Training Galten]\nI am a Sapha warrior.\nI am never lazy with my training.",
-        "pt": "[Garton Treinador]\n¡ú¡ü¢³ ¡ò ¢¤¡õ¡ó ¡ù \n¢²¡ö¡ò ¡û ¡ð¡ò¡ü",
-        "es": "[Galten Entrenando]\nSoy un guerrero sapha.\nNunca dejo mi entrenamiento de lado."
+        "en-US": "[Training Galten]\nI am a Sapha warrior.\nI am never lazy with my training.",
+        "pt-BR": "[Garton Treinador]\n¡ú¡ü¢³ ¡ò ¢¤¡õ¡ó ¡ù \n¢²¡ö¡ò ¡û ¡ð¡ò¡ü",
+        "es-ES": "[Galten Entrenando]\nSoy un guerrero sapha.\nNunca dejo mi entrenamiento de lado."
     },
     "HAk9": {
-        "en": "[Training Galten]\nShh don't tell anyone.\nI'm using this training equipment as a massager.",
-        "pt": "[Garton Treinador]\nOuvi dizer que isso não é um\nequipamento de treino, e sim uma massagem\npara novatos como eu.",
-        "es": "[Galten Entrenando]\nShh…, no se lo digas a nadie.\nUso este equipamiento de entrenamiento como masajeador."
+        "en-US": "[Training Galten]\nShh don't tell anyone.\nI'm using this training equipment as a massager.",
+        "pt-BR": "[Garton Treinador]\nOuvi dizer que isso não é um\nequipamento de treino, e sim uma massagem\npara novatos como eu.",
+        "es-ES": "[Galten Entrenando]\nShh…, no se lo digas a nadie.\nUso este equipamiento de entrenamiento como masajeador."
     },
     "HQk9": {
-        "en": "[Training Galten]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX",
-        "pt": "[Garton Treinador]\n¡û¡û¡ø ¢³ ¡ø¡Ð¢³ ¢² \n¡þ¢¤¡ó ¡õ ¡ü¡þ¡ï\n¡ú¡ô¡ó ¢¤ ¡û¡ñ",
-        "es": "[Galten Entrenando]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX"
+        "en-US": "[Training Galten]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX",
+        "pt-BR": "[Garton Treinador]\n¡û¡û¡ø ¢³ ¡ø¡Ð¢³ ¢² \n¡þ¢¤¡ó ¡õ ¡ü¡þ¡ï\n¡ú¡ô¡ó ¢¤ ¡û¡ñ",
+        "es-ES": "[Galten Entrenando]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX"
     },
     "Hgk9": {
-        "en": "[Training Galten]\nI will get great results\nif I do my best, right?",
-        "pt": "[Garton Treinador]\nVou conseguir ótimos resultados\nse fizer meu melhor, certo?",
-        "es": "[Galten Entrenando]\nObtendré grandes resultados\nsi hago mi mejor esfuerzo, ¿verdad?"
+        "en-US": "[Training Galten]\nI will get great results\nif I do my best, right?",
+        "pt-BR": "[Garton Treinador]\nVou conseguir ótimos resultados\nse fizer meu melhor, certo?",
+        "es-ES": "[Galten Entrenando]\nObtendré grandes resultados\nsi hago mi mejor esfuerzo, ¿verdad?"
     },
     "Hwk9": {
-        "en": "[Training Galten]\nXXXXXXXXXXX\nXXX",
-        "pt": "[Garton Treinador]\n¡ø¢²¡û ¡ô ¢£¢³¡ô \n¡ü¡ô",
-        "es": "[Galten Entrenando]\nXXXXXXXXXXX\nXXX"
+        "en-US": "[Training Galten]\nXXXXXXXXXXX\nXXX",
+        "pt-BR": "[Garton Treinador]\n¡ø¢²¡û ¡ô ¢£¢³¡ô \n¡ü¡ô",
+        "es-ES": "[Galten Entrenando]\nXXXXXXXXXXX\nXXX"
     },
     "IAk9": {
-        "en": "Sentinel",
-        "pt": "Sentinela",
-        "es": "Piom Cansado"
+        "en-US": "Sentinel",
+        "pt-BR": "Sentinela",
+        "es-ES": "Piom Cansado"
     },
     "IQk9": {
-        "en": "[Sentinel]\nEl Dicastes, the\ncapital city of Sapha.\nThe land is pretty\nrough so many outsiders can't get in. Ha ha",
-        "pt": "[Sentinela]\nEl Dicastes, a\ncapital dos Manuks.\nEssa terra é bem\ninóspita, e muitos estrangeiros não conseguem entrar. Ha ha!",
-        "es": "[Centinela]\nEl Dicastes,\nla capital de los saphas.\nLa tierra es bastante\nhostil, así que no muchos extraños pueden entrar. Ja, ja."
+        "en-US": "[Sentinel]\nEl Dicastes, the\ncapital city of Sapha.\nThe land is pretty\nrough so many outsiders can't get in. Ha ha",
+        "pt-BR": "[Sentinela]\nEl Dicastes, a\ncapital dos Manuks.\nEssa terra é bem\ninóspita, e muitos estrangeiros não conseguem entrar. Ha ha!",
+        "es-ES": "[Centinela]\nEl Dicastes,\nla capital de los saphas.\nLa tierra es bastante\nhostil, así que no muchos extraños pueden entrar. Ja, ja."
     },
     "Igk9": {
-        "en": "[Sentinel]\n...",
-        "pt": "[Sentinela]\n...",
-        "es": "[Centinela]\n…"
+        "en-US": "[Sentinel]\n...",
+        "pt-BR": "[Sentinela]\n...",
+        "es-ES": "[Centinela]\n…"
     },
     "Iwk9": {
-        "en": "[Sentinel]\nHey, you are an outsider!",
-        "pt": "[Sentinela]\nEi, você é um estrangeiro!",
-        "es": "[Centinela]\n¡Ah! ¡Vienes de afuera!"
+        "en-US": "[Sentinel]\nHey, you are an outsider!",
+        "pt-BR": "[Sentinela]\nEi, você é um estrangeiro!",
+        "es-ES": "[Centinela]\n¡Ah! ¡Vienes de afuera!"
     },
     "JAk9": {
-        "en": "[Sentinel]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX~",
-        "pt": "[Sentinela]\n¡ô¢±¢± ¡û ¡ó¡Ð¡ñ ¢£ ¢¤¡ú \n¡ø¡ó¢² ¢¤ \n¡õ¡ó¡Ð ¢³ ¡Ð¡õ¢£ ¡û ¡ú¡ï",
-        "es": "[Centinela]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX"
+        "en-US": "[Sentinel]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX~",
+        "pt-BR": "[Sentinela]\n¡ô¢±¢± ¡û ¡ó¡Ð¡ñ ¢£ ¢¤¡ú \n¡ø¡ó¢² ¢¤ \n¡õ¡ó¡Ð ¢³ ¡Ð¡õ¢£ ¡û ¡ú¡ï",
+        "es-ES": "[Centinela]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX"
     },
     "JQk9": {
-        "en": "[Sentinel]\nXXX",
-        "pt": "[Sentinela]\n¡ù",
-        "es": "[Centinela]\nXXX"
+        "en-US": "[Sentinel]\nXXX",
+        "pt-BR": "[Sentinela]\n¡ù",
+        "es-ES": "[Centinela]\nXXX"
     },
     "Jgk9": {
-        "en": "[Sentinel]\nXXXXXXXXXXX",
-        "pt": "[Sentinela]\n¡ñ¡ö¡ï ¡ú ¡ó¢³¡ô",
-        "es": "[Centinela]\nXXXXXXXXXXX"
+        "en-US": "[Sentinel]\nXXXXXXXXXXX",
+        "pt-BR": "[Sentinela]\n¡ñ¡ö¡ï ¡ú ¡ó¢³¡ô",
+        "es-ES": "[Centinela]\nXXXXXXXXXXX"
     },
     "Jwk9": {
-        "en": "[Sentinel]\nI permit your entry.\nBut if you dare to cause trouble\nyou won't know what hit you. Beware!",
-        "pt": "[Sentinela]\nPermito sua entrada.\nMas, se ousar causar problemas, \nnão vai nem saber de onde veio o golpe. Cuidado!",
-        "es": "[Centinela]\nTe permito entrar.\nPero si te atreves a causar problemas,\nno sabrás qué te golpeó. ¡Así que cuidado!"
+        "en-US": "[Sentinel]\nI permit your entry.\nBut if you dare to cause trouble\nyou won't know what hit you. Beware!",
+        "pt-BR": "[Sentinela]\nPermito sua entrada.\nMas, se ousar causar problemas, \nnão vai nem saber de onde veio o golpe. Cuidado!",
+        "es-ES": "[Centinela]\nTe permito entrar.\nPero si te atreves a causar problemas,\nno sabrás qué te golpeó. ¡Así que cuidado!"
     },
     "KAk9": {
-        "en": "XXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX",
-        "pt": "¡ø¡ô¡ü ¡ø ¡ó \n¡ø¡ï¡û ¡ó ¡û¢¤¢² ¡÷ ¢£\n¢¤¡ô¡ø ¢³ ¡÷¡û¡ö ¡õ ¡ø",
-        "es": "XXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX"
+        "en-US": "XXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX",
+        "pt-BR": "¡ø¡ô¡ü ¡ø ¡ó \n¡ø¡ï¡û ¡ó ¡û¢¤¢² ¡÷ ¢£\n¢¤¡ô¡ø ¢³ ¡÷¡û¡ö ¡õ ¡ø",
+        "es-ES": "XXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX"
     },
     "KQk9": {
-        "en": "Tired Piom",
-        "pt": "Mineiro Cansado",
-        "es": "Galten Emocionado"
+        "en-US": "Tired Piom",
+        "pt-BR": "Mineiro Cansado",
+        "es-ES": "Galten Emocionado"
     },
     "Kgk9": {
-        "en": "[Tired Piom]\nI think I look better in\nrobes than in leather.\nI may have to change to knitting.\nBut mining does seem to suit me.",
-        "pt": "[Mineiro Cansado]\nAcho que fico melhor usando\ntúnicas do que usando couro.\nTalvez eu deva mudar para o ramo dos Atendentes.\nMas, sou muito bom na mineração.",
-        "es": "[Piom Cansado]\nCreo que me veo mejor\ncon una túnica que con cuero.\nQuizás deba cambiar de profesión.\nPero parece que la minería es lo mío."
+        "en-US": "[Tired Piom]\nI think I look better in\nrobes than in leather.\nI may have to change to knitting.\nBut mining does seem to suit me.",
+        "pt-BR": "[Mineiro Cansado]\nAcho que fico melhor usando\ntúnicas do que usando couro.\nTalvez eu deva mudar para o ramo dos Atendentes.\nMas, sou muito bom na mineração.",
+        "es-ES": "[Piom Cansado]\nCreo que me veo mejor\ncon una túnica que con cuero.\nQuizás deba cambiar de profesión.\nPero parece que la minería es lo mío."
     },
     "Kwk9": {
-        "en": "[Tired Piom]\n...",
-        "pt": "[Mineiro Cansado]\n...",
-        "es": "[Piom Cansado]\n…"
+        "en-US": "[Tired Piom]\n...",
+        "pt-BR": "[Mineiro Cansado]\n...",
+        "es-ES": "[Piom Cansado]\n…"
     },
     "LAk9": {
-        "en": "[Tired Piom]\nI'll be rejected again, right?",
-        "pt": "[Mineiro Cansado]\nVou ser rejeitado de novo, certo?",
-        "es": "[Piom Cansado]\nSeguro que me rechazan otra vez."
+        "en-US": "[Tired Piom]\nI'll be rejected again, right?",
+        "pt-BR": "[Mineiro Cansado]\nVou ser rejeitado de novo, certo?",
+        "es-ES": "[Piom Cansado]\nSeguro que me rechazan otra vez."
     },
     "LQk9": {
-        "en": "[Tired Piom]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX",
-        "pt": "[Mineiro Cansado]\n¡÷¡ò¡û ¡ó ¡ó¡Ð¢±\n¡ó¡õ¡ù ¡þ ¡ò¢±¡ñ ¡õ ¢£\n¡ü¡ð¢¤ ¡ù ¡ò¡ô¡õ ¡ò ¡ñ\n¢³¡ú¢³ ¡Ð ¡ñ¡õ¡ù ¡÷ ¡÷¢±",
-        "es": "[Piom Cansado]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX"
+        "en-US": "[Tired Piom]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX",
+        "pt-BR": "[Mineiro Cansado]\n¡÷¡ò¡û ¡ó ¡ó¡Ð¢±\n¡ó¡õ¡ù ¡þ ¡ò¢±¡ñ ¡õ ¢£\n¡ü¡ð¢¤ ¡ù ¡ò¡ô¡õ ¡ò ¡ñ\n¢³¡ú¢³ ¡Ð ¡ñ¡õ¡ù ¡÷ ¡÷¢±",
+        "es-ES": "[Piom Cansado]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX"
     },
     "Lgk9": {
-        "en": "[Tired Piom]\nXXX",
-        "pt": "[Mineiro Cansado]\n¡þ",
-        "es": "[Piom Cansado]\nXXX"
+        "en-US": "[Tired Piom]\nXXX",
+        "pt-BR": "[Mineiro Cansado]\n¡þ",
+        "es-ES": "[Piom Cansado]\nXXX"
     },
     "Lwk9": {
-        "en": "[Tired Piom]\nXXXXXXXXXX",
-        "pt": "[Mineiro Cansado]\n¡ø¡ú¡ø ¢± ¡ö¡ò",
-        "es": "[Piom Cansado]\nXXXXXXXXXX"
+        "en-US": "[Tired Piom]\nXXXXXXXXXX",
+        "pt-BR": "[Mineiro Cansado]\n¡ø¡ú¡ø ¢± ¡ö¡ò",
+        "es-ES": "[Piom Cansado]\nXXXXXXXXXX"
     },
     "MAk9": {
-        "en": "Excited Galten",
-        "pt": "Garton Exaltado",
-        "es": "Piom Cojeando"
+        "en-US": "Excited Galten",
+        "pt-BR": "Garton Exaltado",
+        "es-ES": "Piom Cojeando"
     },
     "MQk9": {
-        "en": "[Excited Galten]\nI can't get beautiful\nAhat's image out of my head.",
-        "pt": "[Garton Exaltado]\nNão consigo tirar a bela imagem\nde Ahat da minha cabeça.",
-        "es": "[Galten Emocionado]\nNo puedo quitarme\nla hermosa imagen de Ahat de mi cabeza."
+        "en-US": "[Excited Galten]\nI can't get beautiful\nAhat's image out of my head.",
+        "pt-BR": "[Garton Exaltado]\nNão consigo tirar a bela imagem\nde Ahat da minha cabeça.",
+        "es-ES": "[Galten Emocionado]\nNo puedo quitarme\nla hermosa imagen de Ahat de mi cabeza."
     },
     "Mgk9": {
-        "en": "As long as we have him,\nit will only be a matter of time before Sapha\nwill rule this land.",
-        "pt": "Enquanto estivermos com ele, \nvai ser uma questão de tempo até os Esplêndidos \ndominarem toda esta terra.",
-        "es": "Mientras lo tengamos,\nsolo será cuestión de tiempo antes de que los saphas\ngobiernen esta tierra."
+        "en-US": "As long as we have him,\nit will only be a matter of time before Sapha\nwill rule this land.",
+        "pt-BR": "Enquanto estivermos com ele, \nvai ser uma questão de tempo até os Esplêndidos \ndominarem toda esta terra.",
+        "es-ES": "Mientras lo tengamos,\nsolo será cuestión de tiempo antes de que los saphas\ngobiernen esta tierra."
     },
     "Mwk9": {
-        "en": "[Excited Galten]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX",
-        "pt": "[Garton Exaltado]\n¡ø¢²¢£ ¡Ð ¡ò¡ð¡ð\n¡÷¡ø¡ñ ¡ü ¡ü \n¡ù¢²¢³ ¢² \n¡ó¡õ¡ô ¢£ ¡Ð¡û¡ü ¡ò ¡ð¡ö¢£\n¢¤¡õ¡þ ¡÷ ¡ñ",
-        "es": "[Galten Emocionado]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX"
+        "en-US": "[Excited Galten]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX",
+        "pt-BR": "[Garton Exaltado]\n¡ø¢²¢£ ¡Ð ¡ò¡ð¡ð\n¡÷¡ø¡ñ ¡ü ¡ü \n¡ù¢²¢³ ¢² \n¡ó¡õ¡ô ¢£ ¡Ð¡û¡ü ¡ò ¡ð¡ö¢£\n¢¤¡õ¡þ ¡÷ ¡ñ",
+        "es-ES": "[Galten Emocionado]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX"
     },
     "NAk9": {
-        "en": "[Tired Piom]\nI feel so stiff,\nI will need another dose of Bradium.\nI think the effects are weaker then before,\nor is it just me?\nTired Piom#b",
-        "pt": "[Mineiro Cansado]\nEu me sinto muito cansado, \nvou precisar de mais uma dose de Bradium.\nOs efeitos estão mais fracos do que antes, \nou é só impressão minha?",
-        "es": "[Piom Cansado]\nMe siento muy tieso.\nNecesitaré otra dosis de bradium.\nCreo que los efectos son más débiles que antes,\n¿o solo es cosa mía?\nPiom con sueño#b"
+        "en-US": "[Tired Piom]\nI feel so stiff,\nI will need another dose of Bradium.\nI think the effects are weaker then before,\nor is it just me?\nTired Piom#b",
+        "pt-BR": "[Mineiro Cansado]\nEu me sinto muito cansado, \nvou precisar de mais uma dose de Bradium.\nOs efeitos estão mais fracos do que antes, \nou é só impressão minha?",
+        "es-ES": "[Piom Cansado]\nMe siento muy tieso.\nNecesitaré otra dosis de bradium.\nCreo que los efectos son más débiles que antes,\n¿o solo es cosa mía?\nPiom con sueño#b"
     },
     "NQk9": {
-        "en": "Limpy Piom",
-        "pt": "Mineiro Manco",
-        "es": "Piom Emocionado"
+        "en-US": "Limpy Piom",
+        "pt-BR": "Mineiro Manco",
+        "es-ES": "Piom Emocionado"
     },
     "Ngk9": {
-        "en": "[Limpy Piom]\nThey say there is a war\ngoing on with the Laphine.\nI hope everything goes well.\nI hope it doesn't come all\nthe way to the capital.",
-        "pt": "[Mineiro Manco]\nDizem que há uma\nguerra acontecendo entre Manuk e Explendor.\nEspero que tudo dê certo.\nEspero que essa guerra não\nchegue até aqui na capital.",
-        "es": "[Piom Cojeando]\nDicen que hay una guerra\ncontra los laphines.\nEspero que todo salga bien.\nEspero que no llegue\na la capital."
+        "en-US": "[Limpy Piom]\nThey say there is a war\ngoing on with the Laphine.\nI hope everything goes well.\nI hope it doesn't come all\nthe way to the capital.",
+        "pt-BR": "[Mineiro Manco]\nDizem que há uma\nguerra acontecendo entre Manuk e Explendor.\nEspero que tudo dê certo.\nEspero que essa guerra não\nchegue até aqui na capital.",
+        "es-ES": "[Piom Cojeando]\nDicen que hay una guerra\ncontra los laphines.\nEspero que todo salga bien.\nEspero que no llegue\na la capital."
     },
     "Nwk9": {
-        "en": "[Limpy Piom]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX",
-        "pt": "[Mineiro Manco]\n¢²¡ô¡þ ¡ù ¡õ¡Ð\n¢³¡ô¡û ¡ú ¡ø\n¢³¡þ¢¤ ¡ó ¡õ¡÷¡Ð\n¡ñ¡ò¡ü ¡ü ¡ù¡þ¢±\n¢¤¡ò¡þ ¢¤ ¢£¡ñ",
-        "es": "[Piom Cojeando]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX"
+        "en-US": "[Limpy Piom]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX",
+        "pt-BR": "[Mineiro Manco]\n¢²¡ô¡þ ¡ù ¡õ¡Ð\n¢³¡ô¡û ¡ú ¡ø\n¢³¡þ¢¤ ¡ó ¡õ¡÷¡Ð\n¡ñ¡ò¡ü ¡ü ¡ù¡þ¢±\n¢¤¡ò¡þ ¢¤ ¢£¡ñ",
+        "es-ES": "[Piom Cojeando]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX"
     },
     "OAk9": {
-        "en": "Excited Piom",
-        "pt": "Mineiro Exaltado",
-        "es": "Knit Favorable"
+        "en-US": "Excited Piom",
+        "pt-BR": "Mineiro Exaltado",
+        "es-ES": "Knit Favorable"
     },
     "OQk9": {
-        "en": "[Excited Piom]\nHave you seen Ahat?",
-        "pt": "[Mineiro Exaltado]\nVocê viu Ahat?",
-        "es": "[Piom Emocionado]\n¿Viste a Ahat?"
+        "en-US": "[Excited Piom]\nHave you seen Ahat?",
+        "pt-BR": "[Mineiro Exaltado]\nVocê viu Ahat?",
+        "es-ES": "[Piom Emocionado]\n¿Viste a Ahat?"
     },
     "Ogk9": {
-        "en": "His popularity here in El Discastes is phenomenal!",
-        "pt": "A popularidade dele aqui em El Dicastes é fenomenal!",
-        "es": "¡Su popularidad aquí en El Dicastes es fenomenal!"
+        "en-US": "His popularity here in El Discastes is phenomenal!",
+        "pt-BR": "A popularidade dele aqui em El Dicastes é fenomenal!",
+        "es-ES": "¡Su popularidad aquí en El Dicastes es fenomenal!"
     },
     "Owk9": {
-        "en": "[Excited Piom]\nXXXXXXXXXXX",
-        "pt": "[Mineiro Exaltado]\n¡ú¡þ¡ó ¢³ ¡ü¢²¡ñ ¢±",
-        "es": "[Piom Emocionado]\nXXXXXXXXXXX"
+        "en-US": "[Excited Piom]\nXXXXXXXXXXX",
+        "pt-BR": "[Mineiro Exaltado]\n¡ú¡þ¡ó ¢³ ¡ü¢²¡ñ ¢±",
+        "es-ES": "[Piom Emocionado]\nXXXXXXXXXXX"
     },
     "PAk9": {
-        "en": "XXXXXXXXXXXXXXXXXXXXX",
-        "pt": "¢³¡ó¡ñ ¡õ ¡ð¡ô¡þ ¡÷ ¡ú¡ò¡õ ¡ø ¢² ¡ø",
-        "es": "XXXXXXXXXXXXXXXXXXXXX"
+        "en-US": "XXXXXXXXXXXXXXXXXXXXX",
+        "pt-BR": "¢³¡ó¡ñ ¡õ ¡ð¡ô¡þ ¡÷ ¡ú¡ò¡õ ¡ø ¢² ¡ø",
+        "es-ES": "XXXXXXXXXXXXXXXXXXXXX"
     },
     "PQk9": {
-        "en": "Favorable Knit",
-        "pt": "Atendente Favorecido",
-        "es": "Knit Desocupado"
+        "en-US": "Favorable Knit",
+        "pt-BR": "Atendente Favorecido",
+        "es-ES": "Knit Desocupado"
     },
     "Pgk9": {
-        "en": "[Favorable Knit]\nUnlike the Laphine, we Saphas\nare a very close community.\nWe start by living together in common facilities after we are born.\nThat is why all Saphas are like family.\nWe never have any quarrels between classes.",
-        "pt": "[Atendente Favorecido]\nAo contrário dos Esplêndidos, nós, Manuks, \ntemos uma comunidade muito unida.\nComeçamos a viver juntos em casas comuns assim que nascemos.\n É por isso que todos os Manuks são como uma família.\nNunca temos nenhuma briga entre as classes.",
-        "es": "[Knit Favorable]\nA diferencia de los laphines, los saphas\nsomos una comunidad muy unida.\nDespués de nacer, comenzamos a vivir juntos en instalaciones comunes.\nPor eso todos los saphas somos como una familia.\nNunca tenemos conflictos entre las clases."
+        "en-US": "[Favorable Knit]\nUnlike the Laphine, we Saphas\nare a very close community.\nWe start by living together in common facilities after we are born.\nThat is why all Saphas are like family.\nWe never have any quarrels between classes.",
+        "pt-BR": "[Atendente Favorecido]\nAo contrário dos Esplêndidos, nós, Manuks, \ntemos uma comunidade muito unida.\nComeçamos a viver juntos em casas comuns assim que nascemos.\n É por isso que todos os Manuks são como uma família.\nNunca temos nenhuma briga entre as classes.",
+        "es-ES": "[Knit Favorable]\nA diferencia de los laphines, los saphas\nsomos una comunidad muy unida.\nDespués de nacer, comenzamos a vivir juntos en instalaciones comunes.\nPor eso todos los saphas somos como una familia.\nNunca tenemos conflictos entre las clases."
     },
     "Pwk9": {
-        "en": "[Favorable Knit]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXXXXXXXXXXXXX",
-        "pt": "[Atendente Favorecido]\n¡ô¢±¡ó ¡õ ¡ú¡÷¡Ð ¡õ \n¡ü¡ï¡Ð ¡õ ¡ô¡ó¡ü ¡ó ¢³\n¡ñ¡ô¡ü ¡þ ¢¤¡ñ¢¤ ¡ô ¡û¡ï¡ù \n¡ú¡ö¡ô ¡ó ¢£¡ú¡þ ¡ø ¡ø¡ò \n¢²¢³¡û ¢¤ ¡ú¡ñ¡ù ¡û ¢³¡ò¡ø ¡õ  ¡õ",
-        "es": "[Knit Favorable]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXXXXXXXXXXXXX"
+        "en-US": "[Favorable Knit]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXXXXXXXXXXXXX",
+        "pt-BR": "[Atendente Favorecido]\n¡ô¢±¡ó ¡õ ¡ú¡÷¡Ð ¡õ \n¡ü¡ï¡Ð ¡õ ¡ô¡ó¡ü ¡ó ¢³\n¡ñ¡ô¡ü ¡þ ¢¤¡ñ¢¤ ¡ô ¡û¡ï¡ù \n¡ú¡ö¡ô ¡ó ¢£¡ú¡þ ¡ø ¡ø¡ò \n¢²¢³¡û ¢¤ ¡ú¡ñ¡ù ¡û ¢³¡ò¡ø ¡õ  ¡õ",
+        "es-ES": "[Knit Favorable]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXXXXXXXXXXXXX"
     },
     "QAk9": {
-        "en": "Free Knit",
-        "pt": "Escrivão Livre",
-        "es": "Venknick Desocupado"
+        "en-US": "Free Knit",
+        "pt-BR": "Escrivão Livre",
+        "es-ES": "Venknick Desocupado"
     },
     "QQk9": {
-        "en": "[Free Knit]\nAs long as we have a steady\nsupply of Bradium\nSaphas can live forever.\nOur childhood lasts 10 years\nwhich is short.",
-        "pt": "[Escrivão Livre]\nEnquanto tivermos um suprimento\nconstante de Bradium, \nos Manuks vão viver para sempre.\nNossa infância só dura 10 anos, \né um tempo muito curto.",
-        "es": "[Knit Desocupado]\nMientras tengamos\nun recurso constante de bradium,\nlos saphas podemos vivir eternamente.\nNuestra infancia dura 10 años\ny eso es bastante poco."
+        "en-US": "[Free Knit]\nAs long as we have a steady\nsupply of Bradium\nSaphas can live forever.\nOur childhood lasts 10 years\nwhich is short.",
+        "pt-BR": "[Escrivão Livre]\nEnquanto tivermos um suprimento\nconstante de Bradium, \nos Manuks vão viver para sempre.\nNossa infância só dura 10 anos, \né um tempo muito curto.",
+        "es-ES": "[Knit Desocupado]\nMientras tengamos\nun recurso constante de bradium,\nlos saphas podemos vivir eternamente.\nNuestra infancia dura 10 años\ny eso es bastante poco."
     },
     "Qgk9": {
-        "en": "[Free Knit]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXXXXX",
-        "pt": "[Escrivão Livre]\n¡ñ¡þ¡ð ¡ó ¡ü¡ò¡ö ¡÷ \n¢³¡ð¡ï ¢£ ¡ù¡ô¡ò ¡ô ¡ó¡þ¡ñ ¢² ¡ñ¡û¢£ ¢² \n¡ô¡ó¡ð ¡þ ¢£¡ð¢¤ ¡õ ¡û¢³¡ü \n¡ö¢¤¢¤ ¡ó ¡ü¡ñ¢² ¢³ ¢¤¡ï¢³\n¡ó¢³¡ò ¢± ¡ô¢£¢² ¡÷ ¡÷¡ñ\n¡ò¢²¡ï ¢£ ¡ö¡ö",
-        "es": "[Knit Desocupado]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXXXXX"
+        "en-US": "[Free Knit]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXXXXX",
+        "pt-BR": "[Escrivão Livre]\n¡ñ¡þ¡ð ¡ó ¡ü¡ò¡ö ¡÷ \n¢³¡ð¡ï ¢£ ¡ù¡ô¡ò ¡ô ¡ó¡þ¡ñ ¢² ¡ñ¡û¢£ ¢² \n¡ô¡ó¡ð ¡þ ¢£¡ð¢¤ ¡õ ¡û¢³¡ü \n¡ö¢¤¢¤ ¡ó ¡ü¡ñ¢² ¢³ ¢¤¡ï¢³\n¡ó¢³¡ò ¢± ¡ô¢£¢² ¡÷ ¡÷¡ñ\n¡ò¢²¡ï ¢£ ¡ö¡ö",
+        "es-ES": "[Knit Desocupado]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXXXXX"
     },
     "Qwk9": {
-        "en": "Free Venknick",
-        "pt": "Venknick Livre",
-        "es": "Piom Parlanchín"
+        "en-US": "Free Venknick",
+        "pt-BR": "Venknick Livre",
+        "es-ES": "Piom Parlanchín"
     },
     "RAk9": {
-        "en": "[Free Venknick]\nAt least we have plenty of Bradium.\nLook,\nYou can see Bradium\neverywhere you go.",
-        "pt": "[Venknick Livre]\nPelo menos, temos muito Bradium.\nOlhe, \nvocê pode ver Bradium\npor onde quer que vá.",
-        "es": "[Venknick Desocupado]\nAl menos nos sobra bradium.\nMira,\npuedes ver bradium\ndondequiera que vayas."
+        "en-US": "[Free Venknick]\nAt least we have plenty of Bradium.\nLook,\nYou can see Bradium\neverywhere you go.",
+        "pt-BR": "[Venknick Livre]\nPelo menos, temos muito Bradium.\nOlhe, \nvocê pode ver Bradium\npor onde quer que vá.",
+        "es-ES": "[Venknick Desocupado]\nAl menos nos sobra bradium.\nMira,\npuedes ver bradium\ndondequiera que vayas."
     },
     "RQk9": {
-        "en": "[Free Venknick]\n?",
-        "pt": "[Venknick Livre]\n?",
-        "es": "[Venknick Desocupado]\n¿…?"
+        "en-US": "[Free Venknick]\n?",
+        "pt-BR": "[Venknick Livre]\n?",
+        "es-ES": "[Venknick Desocupado]\n¿…?"
     },
     "Rgk9": {
-        "en": "[Free Venknick]\nThe thing rolling around is a gem but\nwhy are you interested in it?",
-        "pt": "[Venknick Livre]\nEssa coisa Rolando por aí é uma joia, mas\npor que você está interessado nela?",
-        "es": "[Venknick Desocupado]\nEso que ves ahí es una gema, pero\n¿por qué te interesa?"
+        "en-US": "[Free Venknick]\nThe thing rolling around is a gem but\nwhy are you interested in it?",
+        "pt-BR": "[Venknick Livre]\nEssa coisa Rolando por aí é uma joia, mas\npor que você está interessado nela?",
+        "es-ES": "[Venknick Desocupado]\nEso que ves ahí es una gema, pero\n¿por qué te interesa?"
     },
     "Rwk9": {
-        "en": "[Free Venknick]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX",
-        "pt": "[Venknick Livre]\n¡ô¡ï¢£ ¢¤ ¡÷¡õ¢± ¡ü ¡ñ¡õ \n¡ü¢³\n¡ö¡ù¢¤ ¢² ¡ù¡ó¡ô \n¡ü¢£¢³ ¡ø ¡û¡ð¡ü ¡õ",
-        "es": "[Venknick Desocupado]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX"
+        "en-US": "[Free Venknick]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX",
+        "pt-BR": "[Venknick Livre]\n¡ô¡ï¢£ ¢¤ ¡÷¡õ¢± ¡ü ¡ñ¡õ \n¡ü¢³\n¡ö¡ù¢¤ ¢² ¡ù¡ó¡ô \n¡ü¢£¢³ ¡ø ¡û¡ð¡ü ¡õ",
+        "es-ES": "[Venknick Desocupado]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX"
     },
     "SAk9": {
-        "en": "[Free Venknick]\nXX",
-        "pt": "[Venknick Livre]\n¡ù",
-        "es": "[Venknick Desocupado]\nXX"
+        "en-US": "[Free Venknick]\nXX",
+        "pt-BR": "[Venknick Livre]\n¡ù",
+        "es-ES": "[Venknick Desocupado]\nXX"
     },
     "SQk9": {
-        "en": "[Free Venknick]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX",
-        "pt": "[Venknick Livre]\n¡þ¢¤¢£ ¢± ¡ó¡ò¢³ ¡ü ¡ñ¡ð\n¢±¡û¢£ ¡ö ¡ü¡ò¡÷ ¡û ¡õ¡ò¡÷ ¢²  ¢²",
-        "es": "[Venknick Desocupado]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX"
+        "en-US": "[Free Venknick]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX",
+        "pt-BR": "[Venknick Livre]\n¡þ¢¤¢£ ¢± ¡ó¡ò¢³ ¡ü ¡ñ¡ð\n¢±¡û¢£ ¡ö ¡ü¡ò¡÷ ¡û ¡õ¡ò¡÷ ¢²  ¢²",
+        "es-ES": "[Venknick Desocupado]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX"
     },
     "Sgk9": {
-        "en": "Talkative Piom",
-        "pt": "Mineiro Falante",
-        "es": "Piom Manuk"
+        "en-US": "Talkative Piom",
+        "pt-BR": "Mineiro Falante",
+        "es-ES": "Piom Manuk"
     },
     "Swk9": {
-        "en": "[Talkative Piom]\nAt my factory\nwe not only refine Bradium\nbut we also produce various\ntools for daily use.",
-        "pt": "[Mineiro Falante]\nNa minha fábrica, \nnão só refinamos o Bradium\ncomo também produzimos várias\nferramentas para uso diário.",
-        "es": "[Piom Parlanchín]\nEn mi fábrica,\nno solo refinamos bradium,\nsino que también producimos\nvarias herramientas de uso diario."
+        "en-US": "[Talkative Piom]\nAt my factory\nwe not only refine Bradium\nbut we also produce various\ntools for daily use.",
+        "pt-BR": "[Mineiro Falante]\nNa minha fábrica, \nnão só refinamos o Bradium\ncomo também produzimos várias\nferramentas para uso diário.",
+        "es-ES": "[Piom Parlanchín]\nEn mi fábrica,\nno solo refinamos bradium,\nsino que también producimos\nvarias herramientas de uso diario."
     },
     "TAk9": {
-        "en": "[Talkative Piom]\nWe also manufacture war supplies\nhere too.",
-        "pt": "[Mineiro Falante]\nTambém fabricamos suprimentos de guerra\naqui.",
-        "es": "[Piom Parlanchín]\nTambién fabricamos recursos de guerra\naquí."
+        "en-US": "[Talkative Piom]\nWe also manufacture war supplies\nhere too.",
+        "pt-BR": "[Mineiro Falante]\nTambém fabricamos suprimentos de guerra\naqui.",
+        "es-ES": "[Piom Parlanchín]\nTambién fabricamos recursos de guerra\naquí."
     },
     "TQk9": {
-        "en": "[Talkative Piom]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXXXXX",
-        "pt": "[Mineiro Falante]\n¡ü¡ù¢± ¢³ \n¡÷¡ø¡ï ¡þ ¡ó¡ó \n¡ñ¡õ¡ò ¡ó ¡÷¡ü¡ù ¡ö \n¡ñ¡ø¡ü ¡ú ¡ô \n¡þ¡ú¡ò ¢± ¡û¡ò¡ò ¡ù ¡÷\n¢³¡ò¡ò ¡ù ¢±¢£¡ò",
-        "es": "[Piom Parlanchín]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXXXXX"
+        "en-US": "[Talkative Piom]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXXXXX",
+        "pt-BR": "[Mineiro Falante]\n¡ü¡ù¢± ¢³ \n¡÷¡ø¡ï ¡þ ¡ó¡ó \n¡ñ¡õ¡ò ¡ó ¡÷¡ü¡ù ¡ö \n¡ñ¡ø¡ü ¡ú ¡ô \n¡þ¡ú¡ò ¢± ¡û¡ò¡ò ¡ù ¡÷\n¢³¡ò¡ò ¡ù ¢±¢£¡ò",
+        "es-ES": "[Piom Parlanchín]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXXXXX"
     },
     "Tgk9": {
-        "en": "Manuk Piom",
-        "pt": "Mineiro de Manuk",
-        "es": "Piom Entusiasmado"
+        "en-US": "Manuk Piom",
+        "pt-BR": "Mineiro de Manuk",
+        "es-ES": "Piom Entusiasmado"
     },
     "Twk9": {
-        "en": "[Manuk Piom]\nYou, we met in Manuk, didn't we?\nI've come to pick up the weapon I ordered.",
-        "pt": "[Mineiro de Manuk]\nEi, nos conhecemos em Manuk, não?\nVim pegar a arma que encomendei.",
-        "es": "[Piom Manuk]\nOye, nos conocimos en Manuk, ¿verdad?\nVine a recoger el arma que encargué."
+        "en-US": "[Manuk Piom]\nYou, we met in Manuk, didn't we?\nI've come to pick up the weapon I ordered.",
+        "pt-BR": "[Mineiro de Manuk]\nEi, nos conhecemos em Manuk, não?\nVim pegar a arma que encomendei.",
+        "es-ES": "[Piom Manuk]\nOye, nos conocimos en Manuk, ¿verdad?\nVine a recoger el arma que encargué."
     },
     "UAk9": {
-        "en": "[Manuk Piom]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX",
-        "pt": "[Mineiro de Manuk]\n¡ü¡ó¡þ ¡ó ¡ï¡ð¢¤ ¡ü ¡ð¢±\n¡ù¡ô¡ï ¡ú ¡ñ¡ù¢³ ¡ó ¡ò¡ö¡ó ¡ô  ¡ô",
-        "es": "[Piom Manuk]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX"
+        "en-US": "[Manuk Piom]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX",
+        "pt-BR": "[Mineiro de Manuk]\n¡ü¡ó¡þ ¡ó ¡ï¡ð¢¤ ¡ü ¡ð¢±\n¡ù¡ô¡ï ¡ú ¡ñ¡ù¢³ ¡ó ¡ò¡ö¡ó ¡ô  ¡ô",
+        "es-ES": "[Piom Manuk]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX"
     },
     "UQk9": {
-        "en": "[Tired Piom]\nIf you need any\ninformation, you'd better try your\nluck with the Cat Merchant than wandering around here.\nBut of course you'll have to pay the price.",
-        "pt": "[Mineiro de Manuk]\nSe você precisar de alguma\ninformação, vai ter mais\nsorte com a Cat Comercial do que se ficar andando por aqui.\nMas, é claro que você vai ter de pagar o preço.",
-        "es": "[Piom Cansado]\nSi necesitas\ninformación, podrías probar\nsuerte con el gato comerciante que deambula por aquí.\nPero ten en cuenta que tendrás que pagar el precio."
+        "en-US": "[Tired Piom]\nIf you need any\ninformation, you'd better try your\nluck with the Cat Merchant than wandering around here.\nBut of course you'll have to pay the price.",
+        "pt-BR": "[Mineiro de Manuk]\nSe você precisar de alguma\ninformação, vai ter mais\nsorte com a Cat Comercial do que se ficar andando por aqui.\nMas, é claro que você vai ter de pagar o preço.",
+        "es-ES": "[Piom Cansado]\nSi necesitas\ninformación, podrías probar\nsuerte con el gato comerciante que deambula por aquí.\nPero ten en cuenta que tendrás que pagar el precio."
     },
     "Ugk9": {
-        "en": "Thrilled Piom",
-        "pt": "Mineiro Alegre",
-        "es": "Venknicka Serio"
+        "en-US": "Thrilled Piom",
+        "pt-BR": "Mineiro Alegre",
+        "es-ES": "Venknicka Serio"
     },
     "Uwk9": {
-        "en": "[Thrilled Piom]\nAhat is the one\nand only Sapha pride.\nWe have plenty of Bradium\nbecause of him!",
-        "pt": "[Mineiro Alegre]\nAhat é o\norgulho dos Manuks.\nTemos muito Bradium, \ngraças a ele!",
-        "es": "[Piom Entusiasmado]\nAhat es el único\norgullo de los saphas.\n¡Tenemos un montón de bradium\ngracias a él!"
+        "en-US": "[Thrilled Piom]\nAhat is the one\nand only Sapha pride.\nWe have plenty of Bradium\nbecause of him!",
+        "pt-BR": "[Mineiro Alegre]\nAhat é o\norgulho dos Manuks.\nTemos muito Bradium, \ngraças a ele!",
+        "es-ES": "[Piom Entusiasmado]\nAhat es el único\norgullo de los saphas.\n¡Tenemos un montón de bradium\ngracias a él!"
     },
     "VAk9": {
-        "en": "[Thrilled Piom]\n...",
-        "pt": "[Mineiro Alegre]\n...",
-        "es": "[Piom Entusiasmado]\n…"
+        "en-US": "[Thrilled Piom]\n...",
+        "pt-BR": "[Mineiro Alegre]\n...",
+        "es-ES": "[Piom Entusiasmado]\n…"
     },
     "VQk9": {
-        "en": "[Thrilled Piom]\nYou don't feel his\nblessing?",
-        "pt": "[Mineiro Alegre]\nVocê não sente a\nbênção dele?",
-        "es": "[Piom Entusiasmado]\n¿No sientes su\nbendición?"
+        "en-US": "[Thrilled Piom]\nYou don't feel his\nblessing?",
+        "pt-BR": "[Mineiro Alegre]\nVocê não sente a\nbênção dele?",
+        "es-ES": "[Piom Entusiasmado]\n¿No sientes su\nbendición?"
     },
     "Vgk9": {
-        "en": "[Thrilled Piom]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX~",
-        "pt": "[Mineiro Alegre]\n¡ò¡õ¢³ ¡õ ¡ô \n¢£¡ó¡ø ¢² ¡ô¡÷\n¡ò¡ô¢³ ¡ù ¢±¡ó¢± ¡õ \n¡ó¡ü¡Ð ¡ø ¢²¡ü¡Ð ¡õ ¡ï",
-        "es": "[Piom Entusiasmado]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX"
+        "en-US": "[Thrilled Piom]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX~",
+        "pt-BR": "[Mineiro Alegre]\n¡ò¡õ¢³ ¡õ ¡ô \n¢£¡ó¡ø ¢² ¡ô¡÷\n¡ò¡ô¢³ ¡ù ¢±¡ó¢± ¡õ \n¡ó¡ü¡Ð ¡ø ¢²¡ü¡Ð ¡õ ¡ï",
+        "es-ES": "[Piom Entusiasmado]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX\nXXXXXXXXXXX"
     },
     "Vwk9": {
-        "en": "[Thrilled Piom]\nXX",
-        "pt": "[Mineiro Alegre]\n¢£",
-        "es": "[Piom Entusiasmado]\nXX"
+        "en-US": "[Thrilled Piom]\nXX",
+        "pt-BR": "[Mineiro Alegre]\n¢£",
+        "es-ES": "[Piom Entusiasmado]\nXX"
     },
     "WAk9": {
-        "en": "[Thrilled Piom]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX",
-        "pt": "[Mineiro Alegre]\n¡Ð¢¤¡ù ¢£ ¡ó¡ó \n¡ù¡ó¡÷ ¡û ¡þ¡ô",
-        "es": "[Piom Entusiasmado]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX"
+        "en-US": "[Thrilled Piom]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX",
+        "pt-BR": "[Mineiro Alegre]\n¡Ð¢¤¡ù ¢£ ¡ó¡ó \n¡ù¡ó¡÷ ¡û ¡þ¡ô",
+        "es-ES": "[Piom Entusiasmado]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX"
     },
     "WQk9": {
-        "en": "Serious Venknicka",
-        "pt": "Venknick Sério",
-        "es": "[Piom Preocupado]"
+        "en-US": "Serious Venknicka",
+        "pt-BR": "Venknick Sério",
+        "es-ES": "[Piom Preocupado]"
     },
     "Wgk9": {
-        "en": "[Serious Venknick]\nA sudden increase in Bradium production.\nWhy?\nI will have to get more factory lines running.",
-        "pt": "[Venknick Sério]\nUm aumento repentino na produção de Bradium.\nPor quê?\nVou ter de ativar mais linhas de fabricação.",
-        "es": "[Venknicka Serio]\nUn aumento repentino en la producción de bradium.\n¿Por qué?\nTendré que poner en marcha más líneas de fábrica."
+        "en-US": "[Serious Venknick]\nA sudden increase in Bradium production.\nWhy?\nI will have to get more factory lines running.",
+        "pt-BR": "[Venknick Sério]\nUm aumento repentino na produção de Bradium.\nPor quê?\nVou ter de ativar mais linhas de fabricação.",
+        "es-ES": "[Venknicka Serio]\nUn aumento repentino en la producción de bradium.\n¿Por qué?\nTendré que poner en marcha más líneas de fábrica."
     },
     "Wwk9": {
-        "en": "[Serious Venknick]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX",
-        "pt": "[Venknick Sério]\n¡û¡õ¡ñ ¢² ¢²¢¤¡Ð ¢² ¡ü¡ñ¡õ \n¡þ¡ó¡ö ¢² \n¡ö¡÷¡û ¡ú ¡÷¡Ð¢³ ¢³",
-        "es": "[Venknicka Serio]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX"
+        "en-US": "[Serious Venknick]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX",
+        "pt-BR": "[Venknick Sério]\n¡û¡õ¡ñ ¢² ¢²¢¤¡Ð ¢² ¡ü¡ñ¡õ \n¡þ¡ó¡ö ¢² \n¡ö¡÷¡û ¡ú ¡÷¡Ð¢³ ¢³",
+        "es-ES": "[Venknicka Serio]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX"
     },
     "XAk9": {
-        "en": "Worried Piom",
-        "pt": "Mineiro Amedrontado",
-        "es": "Piom Sospechoso"
+        "en-US": "Worried Piom",
+        "pt-BR": "Mineiro Amedrontado",
+        "es-ES": "Piom Sospechoso"
     },
     "XQk9": {
-        "en": "[Worried Piom]\nI haven't seen my friends for the last few hours.\nIt's about time for them to have\ntheir Bradium. Hmm..",
-        "pt": "[Mineiro Amedrontado]\nNão vi meus amigos nas últimas horas.\nJá é hora deles tomarem\no Bradium. Hum...",
-        "es": "[Piom Preocupado]\nHace un par de horas que no veo a mis amigos.\nYa casi es hora de que consigan\nsu bradium. Mmm…"
+        "en-US": "[Worried Piom]\nI haven't seen my friends for the last few hours.\nIt's about time for them to have\ntheir Bradium. Hmm..",
+        "pt-BR": "[Mineiro Amedrontado]\nNão vi meus amigos nas últimas horas.\nJá é hora deles tomarem\no Bradium. Hum...",
+        "es-ES": "[Piom Preocupado]\nHace un par de horas que no veo a mis amigos.\nYa casi es hora de que consigan\nsu bradium. Mmm…"
     },
     "Xgk9": {
-        "en": "[Worried Piom]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX",
-        "pt": "[Mineiro Amedrontado]\n¡û¢±¡÷ ¢² ¡ï¡þ¡ò ¡ü ¡ï¡û¢²\n¡ï¡÷¢¤ ¡Ð ¡ï¡ï¡Ð ¢¤ ¢£\n¡÷¡þ¡ð ¡ó ¡ñ",
-        "es": "[Piom Preocupado]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX"
+        "en-US": "[Worried Piom]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX",
+        "pt-BR": "[Mineiro Amedrontado]\n¡û¢±¡÷ ¢² ¡ï¡þ¡ò ¡ü ¡ï¡û¢²\n¡ï¡÷¢¤ ¡Ð ¡ï¡ï¡Ð ¢¤ ¢£\n¡÷¡þ¡ð ¡ó ¡ñ",
+        "es-ES": "[Piom Preocupado]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX"
     },
     "Xwk9": {
-        "en": "Suspicious Piom",
-        "pt": "Mineiro Desconfiado",
-        "es": "Galten Perdido"
+        "en-US": "Suspicious Piom",
+        "pt-BR": "Mineiro Desconfiado",
+        "es-ES": "Galten Perdido"
     },
     "YAk9": {
-        "en": "[Suspicious Piom]\nHave you heard of the\nrumor about Ahat?",
-        "pt": "[Mineiro Desconfiado]\nVocê já ouviu falar do\nrumor sobre Ahat?",
-        "es": "[Piom Sospechoso]\n¿Oíste\nel rumor sobre Ahat?"
+        "en-US": "[Suspicious Piom]\nHave you heard of the\nrumor about Ahat?",
+        "pt-BR": "[Mineiro Desconfiado]\nVocê já ouviu falar do\nrumor sobre Ahat?",
+        "es-ES": "[Piom Sospechoso]\n¿Oíste\nel rumor sobre Ahat?"
     },
     "YQk9": {
-        "en": "Nope!",
-        "pt": "Não!",
-        "es": "¡No!"
+        "en-US": "Nope!",
+        "pt-BR": "Não!",
+        "es-ES": "¡No!"
     },
     "Ygk9": {
-        "en": "You first.",
-        "pt": "Pode falar.",
-        "es": "Tú primero."
+        "en-US": "You first.",
+        "pt-BR": "Pode falar.",
+        "es-ES": "Tú primero."
     },
     "Ywk9": {
-        "en": "[Suspicious Piom]\nNever mind.",
-        "pt": "[Mineiro Desconfiado]\nDeixe para lá.",
-        "es": "[Piom Sospechoso]\nOlvídalo."
+        "en-US": "[Suspicious Piom]\nNever mind.",
+        "pt-BR": "[Mineiro Desconfiado]\nDeixe para lá.",
+        "es-ES": "[Piom Sospechoso]\nOlvídalo."
     },
     "ZAk9": {
-        "en": "[Suspicious Piom]\nOh, you do seem to know?\nI need to collect information.\nYou first.\nYou heard of the rumor, right?",
-        "pt": "[Mineiro Desconfiado]\nAh, você sabe, então?\nPreciso coletar informações.\nPode falar.\nOuviu falar sobre o rumor, certo?",
-        "es": "[Piom Sospechoso]\n¿Oh? Parece que te lo sabes.\nNecesito recolectar información.\nTú primero.\nOíste el rumor, ¿verdad?"
+        "en-US": "[Suspicious Piom]\nOh, you do seem to know?\nI need to collect information.\nYou first.\nYou heard of the rumor, right?",
+        "pt-BR": "[Mineiro Desconfiado]\nAh, você sabe, então?\nPreciso coletar informações.\nPode falar.\nOuviu falar sobre o rumor, certo?",
+        "es-ES": "[Piom Sospechoso]\n¿Oh? Parece que te lo sabes.\nNecesito recolectar información.\nTú primero.\nOíste el rumor, ¿verdad?"
     },
     "ZQk9": {
-        "en": "Something is fishy?",
-        "pt": "Alguma coisa estranha?",
-        "es": "¿Algo huele mal?"
+        "en-US": "Something is fishy?",
+        "pt-BR": "Alguma coisa estranha?",
+        "es-ES": "¿Algo huele mal?"
     },
     "Zgk9": {
-        "en": "If you're not going to spill it, me neither!",
-        "pt": "Se você não vai falar nada, nem eu!",
-        "es": "¡Si no vas a compartir, entonces yo tampoco!"
+        "en-US": "If you're not going to spill it, me neither!",
+        "pt-BR": "Se você não vai falar nada, nem eu!",
+        "es-ES": "¡Si no vas a compartir, entonces yo tampoco!"
     },
     "Zwk9": {
-        "en": "[Suspicious Piom]\nI'm only a very curious\nordinary Piom.",
-        "pt": "[Mineiro Desconfiado]\nSou apenas um Mineiro\nmuito curioso e comum.",
-        "es": "[Piom Sospechoso]\nSolo soy curioso,\nun piom común y corriente."
+        "en-US": "[Suspicious Piom]\nI'm only a very curious\nordinary Piom.",
+        "pt-BR": "[Mineiro Desconfiado]\nSou apenas um Mineiro\nmuito curioso e comum.",
+        "es-ES": "[Piom Sospechoso]\nSolo soy curioso,\nun piom común y corriente."
     },
     "aAk9": {
-        "en": "[Suspicious Piom]\nI am not going to say anything, either!",
-        "pt": "[Mineiro Desconfiado]\nTambém não vou dizer nada!",
-        "es": "[Piom Sospechoso]\n¡Entonces tampoco diré lo que sé!"
+        "en-US": "[Suspicious Piom]\nI am not going to say anything, either!",
+        "pt-BR": "[Mineiro Desconfiado]\nTambém não vou dizer nada!",
+        "es-ES": "[Piom Sospechoso]\n¡Entonces tampoco diré lo que sé!"
     },
     "aQk9": {
-        "en": "[Suspicious Piom]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX",
-        "pt": "[Mineiro Desconfiado]\n¡ó¢³¡ó ¡ó ¡ó¡þ¡ö\n¡õ ¢³¢²¡÷ ¡ó  ¡ó",
-        "es": "[Piom Sospechoso]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX"
+        "en-US": "[Suspicious Piom]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX",
+        "pt-BR": "[Mineiro Desconfiado]\n¡ó¢³¡ó ¡ó ¡ó¡þ¡ö\n¡õ ¢³¢²¡÷ ¡ó  ¡ó",
+        "es-ES": "[Piom Sospechoso]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX"
     },
     "agk9": {
-        "en": "Can't tell what it means",
-        "pt": "Não entendo o que quer dizer.",
-        "es": "No sé lo que significa."
+        "en-US": "Can't tell what it means",
+        "pt-BR": "Não entendo o que quer dizer.",
+        "es-ES": "No sé lo que significa."
     },
     "awk9": {
-        "en": "Is it a curse??",
-        "pt": "Isso é uma maldição??",
-        "es": "¿Es una maldición?"
+        "en-US": "Is it a curse??",
+        "pt-BR": "Isso é uma maldição??",
+        "es-ES": "¿Es una maldición?"
     },
     "bAk9": {
-        "en": "[Suspicious Piom]\nGo human!",
-        "pt": "[Mineiro Desconfiado]\nSai pra lá, \nxô!",
-        "es": "[Piom Sospechoso]\n¡Vete de aquí, humano!"
+        "en-US": "[Suspicious Piom]\nGo human!",
+        "pt-BR": "[Mineiro Desconfiado]\nSai pra lá, \nxô!",
+        "es-ES": "[Piom Sospechoso]\n¡Vete de aquí, humano!"
     },
     "bQk9": {
-        "en": "[Suspicious Piom]\nXXXXXXXXXX",
-        "pt": "[Mineiro Desconfiado]\nQue pena.",
-        "es": "[Piom Sospechoso]\nXXXXXXXXXX"
+        "en-US": "[Suspicious Piom]\nXXXXXXXXXX",
+        "pt-BR": "[Mineiro Desconfiado]\nQue pena.",
+        "es-ES": "[Piom Sospechoso]\nXXXXXXXXXX"
     },
     "bgk9": {
-        "en": "Lost Galten",
-        "pt": "Garton Perdido",
-        "es": "Piom Mecánico"
+        "en-US": "Lost Galten",
+        "pt-BR": "Garton Perdido",
+        "es-ES": "Piom Mecánico"
     },
     "bwk9": {
-        "en": "[Lost Galten]\nI've been living as a Piom for too long\nnow it's like a bad habit.\nand I find myself here all the time.",
-        "pt": "[Garton Perdido]\nEstou vivendo como Mineiro por tempo demais, \njá virou hábito.\nNunca saio daqui para nada.",
-        "es": "[Galten Perdido]\nHe vivido como piom durante mucho tiempo,\nasí que ahora es como un mal hábito.\nAl final siempre termino aquí."
+        "en-US": "[Lost Galten]\nI've been living as a Piom for too long\nnow it's like a bad habit.\nand I find myself here all the time.",
+        "pt-BR": "[Garton Perdido]\nEstou vivendo como Mineiro por tempo demais, \njá virou hábito.\nNunca saio daqui para nada.",
+        "es-ES": "[Galten Perdido]\nHe vivido como piom durante mucho tiempo,\nasí que ahora es como un mal hábito.\nAl final siempre termino aquí."
     },
     "cAk9": {
-        "en": "[Lost Galten]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX",
-        "pt": "[Garton Perdido]\n¡ó¡ô¡ï ¡û ¢³¡ú \n¡ü¡ø¡ñ ¢£ \n¡ö¡ï¢² ¡û ¡ö¡ó",
-        "es": "[Galten Perdido]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX"
+        "en-US": "[Lost Galten]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX",
+        "pt-BR": "[Garton Perdido]\n¡ó¡ô¡ï ¡û ¢³¡ú \n¡ü¡ø¡ñ ¢£ \n¡ö¡ï¢² ¡û ¡ö¡ó",
+        "es-ES": "[Galten Perdido]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX"
     },
     "cQk9": {
-        "en": "Pion Mechanic",
-        "pt": "Piom Mecânico",
-        "es": "Ascensor"
+        "en-US": "Pion Mechanic",
+        "pt-BR": "Piom Mecânico",
+        "es-ES": "Ascensor"
     },
     "cgk9": {
-        "en": "[Piom Mechanic]\nWelcome, Mechanic to\nEl Dicastes.\nDo you need to rent\na Magic Gear?",
-        "pt": "[Piom Mecânico]\nBem-vindo, Mecânico, a\nEl Dicastes.\nPrecisa alugar\num equipamento mágico?",
-        "es": "[Piom Mecánico]\nTe doy la bienvenida, Mecánico, a\nEl Dicastes.\n¿Necesitas alquilar\nun equipo mágico?"
+        "en-US": "[Piom Mechanic]\nWelcome, Mechanic to\nEl Dicastes.\nDo you need to rent\na Magic Gear?",
+        "pt-BR": "[Piom Mecânico]\nBem-vindo, Mecânico, a\nEl Dicastes.\nPrecisa alugar\num equipamento mágico?",
+        "es-ES": "[Piom Mecánico]\nTe doy la bienvenida, Mecánico, a\nEl Dicastes.\n¿Necesitas alquilar\nun equipo mágico?"
     },
     "cwk9": {
-        "en": "Ride a Magic Gear",
-        "pt": "Andar em um Mecha",
-        "es": "Alquilar un equipo mágico."
+        "en-US": "Ride a Magic Gear",
+        "pt-BR": "Andar em um Mecha",
+        "es-ES": "Alquilar un equipo mágico."
     },
     "dAk9": {
-        "en": "Cancel",
-        "pt": "Cancelar",
-        "es": "Cancelar."
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar."
     },
     "dQk9": {
-        "en": "[Piom Mechanic]\nI'm sorry, but you're already\nriding a Magic Gear.",
-        "pt": "[Piom Mecânico]\nSinto muito, mas você já está\nmontando um Mecha.",
-        "es": "[Piom Mecánico]\nLo siento, pero ya estás\nusando un equipo mágico."
+        "en-US": "[Piom Mechanic]\nI'm sorry, but you're already\nriding a Magic Gear.",
+        "pt-BR": "[Piom Mecânico]\nSinto muito, mas você já está\nmontando um Mecha.",
+        "es-ES": "[Piom Mecánico]\nLo siento, pero ya estás\nusando un equipo mágico."
     },
     "dgk9": {
-        "en": "[Piom Mechanic]\nHave fun, and please come again!",
-        "pt": "[Piom Mecânico]\nDivirta-se e volte sempre!",
-        "es": "[Piom Mecánico]\n¡Diviértete y vuelve pronto!"
+        "en-US": "[Piom Mechanic]\nHave fun, and please come again!",
+        "pt-BR": "[Piom Mecânico]\nDivirta-se e volte sempre!",
+        "es-ES": "[Piom Mecánico]\n¡Diviértete y vuelve pronto!"
     },
     "dwk9": {
-        "en": "[Piom Mechanic]\nPlease learn the skill to get the Magic Gear License first.",
-        "pt": "[Piom Mecânico]\nPor favor, aprenda a habilidade para obter a Licença de Mecha primeiro.",
-        "es": "[Piom Mecánico]\nPrimero tienes que aprender la habilidad para obtener la Licencia de equipo mágico."
+        "en-US": "[Piom Mechanic]\nPlease learn the skill to get the Magic Gear License first.",
+        "pt-BR": "[Piom Mecânico]\nPor favor, aprenda a habilidade para obter a Licença de Mecha primeiro.",
+        "es-ES": "[Piom Mecánico]\nPrimero tienes que aprender la habilidad para obtener la Licencia de equipo mágico."
     },
     "eAk9": {
-        "en": "How may I help you?\nMagic Gears are only available for Mechanics.",
-        "pt": "Como posso ajudar?\nAs Mechas estão disponíveis apenas para Mecânicos.",
-        "es": "¿En qué puedo ayudarte?\nLos equipos mágicos solo están disponibles para los Mecánicos."
+        "en-US": "How may I help you?\nMagic Gears are only available for Mechanics.",
+        "pt-BR": "Como posso ajudar?\nAs Mechas estão disponíveis apenas para Mecânicos.",
+        "es-ES": "¿En qué puedo ayudarte?\nLos equipos mágicos solo están disponibles para los Mecánicos."
     },
     "eQk9": {
-        "en": "[Piom Mechanic]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX",
-        "pt": "[Piom Mecânico]\n¡ó¢³¡ó ¡ó ¡ó¡þ¡ö\n¡õ ¢³¢²¡÷ ¡ó  ¡ó\n¡ó¢³¡ó ¡ó ¡ó¡þ¡ö",
-        "es": "[Piom Mecánico]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX"
+        "en-US": "[Piom Mechanic]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX",
+        "pt-BR": "[Piom Mecânico]\n¡ó¢³¡ó ¡ó ¡ó¡þ¡ö\n¡õ ¢³¢²¡÷ ¡ó  ¡ó\n¡ó¢³¡ó ¡ó ¡ó¡þ¡ö",
+        "es-ES": "[Piom Mecánico]\nXXXXXXXXXXX\nXXXXXXXXXXXXXX\nXXXXXXXXXXX"
     }
 }

@@ -1,36 +1,36 @@
 {
     "IO13Bw": {
-        "en": "Please try again after installing a special item.",
-        "pt": "[Controle Temporal]\nPara qual época eu devo voltar",
-        "es": "Vuelve a intentarlo después de instalar un objeto especial."
+        "en-US": "Please try again after installing a special item.",
+        "pt-BR": "[Controle Temporal]\nPara qual época eu devo voltar",
+        "es-ES": "Vuelve a intentarlo después de instalar un objeto especial."
     },
     "Ie13Bw": {
-        "en": "[Time controller]\nTo what time should I turn it back?",
-        "pt": "Sair",
-        "es": "[Controlador del tiempo]\n¿A qué hora debo retrocederlo?"
+        "en-US": "[Time controller]\nTo what time should I turn it back?",
+        "pt-BR": "Sair",
+        "es-ES": "[Controlador del tiempo]\n¿A qué hora debo retrocederlo?"
     },
     "Iu13Bw": {
-        "en": "Quit",
-        "pt": "1Começo",
-        "es": "Salir."
+        "en-US": "Quit",
+        "pt-BR": "1Começo",
+        "es-ES": "Salir."
     },
     "I+13Bw": {
-        "en": "1Start",
-        "pt": "2Começos",
-        "es": "1Inicio"
+        "en-US": "1Start",
+        "pt-BR": "2Começos",
+        "es-ES": "1Inicio"
     },
     "JO13Bw": {
-        "en": "2Start",
-        "pt": "3Começos",
-        "es": "2Inicio"
+        "en-US": "2Start",
+        "pt-BR": "3Começos",
+        "es-ES": "2Inicio"
     },
     "Je13Bw": {
-        "en": "3Start",
-        "pt": "4Começos",
-        "es": "3Inicio"
+        "en-US": "3Start",
+        "pt-BR": "4Começos",
+        "es-ES": "3Inicio"
     },
     "Ju13Bw": {
-        "en": "4Start",
-        "es": "4Inicio"
+        "en-US": "4Start",
+        "es-ES": "4Inicio"
     }
 }

@@ -1,782 +1,782 @@
 {
     "wLBgBg": {
-        "en": "Investment to connect to the 'Abyss gate' for the WOE areas Valkyrie realm, Greenwood Lake, Luina, Britoniah has begun.",
-        "pt": "Os investimentos para abertura do [Portal do Abismo] foram iniciados.",
-        "es": "Comenzó la inversión para conectar la Puerta del abismo con las zonas de la Guerra del Emperium del reino de Valkiria, el Lago Greenwood, Luina y Britonia."
+        "en-US": "Investment to connect to the 'Abyss gate' for the WOE areas Valkyrie realm, Greenwood Lake, Luina, Britoniah has begun.",
+        "pt-BR": "Os investimentos para abertura do [Portal do Abismo] foram iniciados.",
+        "es-ES": "Comenzó la inversión para conectar la Puerta del abismo con las zonas de la Guerra del Emperium del reino de Valkiria, el Lago Greenwood, Luina y Britonia."
     },
     "wbBgBg": {
-        "en": "Investment time to connect to the  'Abyss gate' has ended.",
-        "pt": "Os investimentos para abertura do [Portal do Abismo] foram encerrados.",
-        "es": "Se acabó el tiempo de inversión para conectarse a la Puerta del abismo."
+        "en-US": "Investment time to connect to the  'Abyss gate' has ended.",
+        "pt-BR": "Os investimentos para abertura do [Portal do Abismo] foram encerrados.",
+        "es-ES": "Se acabó el tiempo de inversión para conectarse a la Puerta del abismo."
     },
     "wrBgBg": {
-        "en": "The result of investments for the  'Abyss gate' are posted. Check through the Investment Status Board on each WOE area.",
-        "pt": "O resultado da abertura do [Portal do Abismo] pode ser conferido em cada Feudo.",
-        "es": "Se publicó el resultado de las inversiones para la Puerta del abismo. Revísalo mediante el tablero de estado de inversión en cada zona de la Guerra del Emperium."
+        "en-US": "The result of investments for the  'Abyss gate' are posted. Check through the Investment Status Board on each WOE area.",
+        "pt-BR": "O resultado da abertura do [Portal do Abismo] pode ser conferido em cada Feudo.",
+        "es-ES": "Se publicó el resultado de las inversiones para la Puerta del abismo. Revísalo mediante el tablero de estado de inversión en cada zona de la Guerra del Emperium."
     },
     "w7BgBg": {
-        "en": "Investment_total",
-        "pt": "Investment_total",
-        "es": "Investment_total"
+        "en-US": "Investment_total",
+        "pt-BR": "Investment_total",
+        "es-ES": "Investment_total"
     },
     "xLBgBg": {
-        "en": "The No. {0} statement is now available. You can check through Investment Status Board on each WOE area.",
-        "pt": "Atualização n.{0} do [Portal do Abismo]. Veja o status do investimento nos Feudos.",
-        "es": "Ya está disponible la declaración número{0}. Puedes revisarla mediante el tablero de estado de inversión en cada zona de la Guerra del Emperium."
+        "en-US": "The No. {0} statement is now available. You can check through Investment Status Board on each WOE area.",
+        "pt-BR": "Atualização n.{0} do [Portal do Abismo]. Veja o status do investimento nos Feudos.",
+        "es-ES": "Ya está disponible la declaración número{0}. Puedes revisarla mediante el tablero de estado de inversión en cada zona de la Guerra del Emperium."
     },
     "xbBgBg": {
-        "en": "Please try again after installing a special item.",
-        "pt": "Volte depois de instalar um item especial.",
-        "es": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
+        "en-US": "Please try again after installing a special item.",
+        "pt-BR": "Volte depois de instalar um item especial.",
+        "es-ES": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
     },
     "xrBgBg": {
-        "en": "is this not working properly?",
-        "pt": "Não está funcionando direito?",
-        "es": "¿No funciona correctamente?"
+        "en-US": "is this not working properly?",
+        "pt-BR": "Não está funcionando direito?",
+        "es-ES": "¿No funciona correctamente?"
     },
     "x7BgBg": {
-        "en": "if you think investment timer is dead, please adjust the timer.",
-        "pt": "Se acha que o timer de investimento está desativado, por favor, ajuste-o.",
-        "es": "Si te parece que el temporizador de inversión está muerto, ajústalo."
+        "en-US": "if you think investment timer is dead, please adjust the timer.",
+        "pt-BR": "Se acha que o timer de investimento está desativado, por favor, ajuste-o.",
+        "es-ES": "Si te parece que el temporizador de inversión está muerto, ajústalo."
     },
     "yLBgBg": {
-        "en": "Turn on the timer",
-        "pt": "Ligar o timer",
-        "es": "Encender el temporizador."
+        "en-US": "Turn on the timer",
+        "pt-BR": "Ligar o timer",
+        "es-ES": "Encender el temporizador."
     },
     "ybBgBg": {
-        "en": "cancel",
-        "pt": "Cancelar",
-        "es": "Cancelar."
+        "en-US": "cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar."
     },
     "yrBgBg": {
-        "en": "you've turned on the timer",
-        "pt": "Você ligou o timer",
-        "es": "Encendiste el temporizador."
+        "en-US": "you've turned on the timer",
+        "pt-BR": "Você ligou o timer",
+        "es-ES": "Encendiste el temporizador."
     },
     "y7BgBg": {
-        "en": "cancel",
-        "pt": "Cancelar",
-        "es": "Cancelar."
+        "en-US": "cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar."
     },
     "zLBgBg": {
-        "en": "I don't need to adjust now.",
-        "pt": "Não preciso ajustar agora.",
-        "es": "No necesito ajustarlo ahora."
+        "en-US": "I don't need to adjust now.",
+        "pt-BR": "Não preciso ajustar agora.",
+        "es-ES": "No necesito ajustarlo ahora."
     },
     "zbBgBg": {
-        "en": "Revoting manager",
-        "pt": "Gerente de Votação",
-        "es": "Revoting manager"
+        "en-US": "Revoting manager",
+        "pt-BR": "Gerente de Votação",
+        "es-ES": "Revoting manager"
     },
     "zrBgBg": {
-        "en": "Cat paw merchant guild Prontera branch manager: We are going to close voting now. We will announce the results soon.",
-        "pt": "Gerente de Prontera: Estamos encerrando a votação. Em breve anunciaremos os resultados.",
-        "es": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Ahora vamos a cerrar la votación. Pronto anunciaremos los resultados."
+        "en-US": "Cat paw merchant guild Prontera branch manager: We are going to close voting now. We will announce the results soon.",
+        "pt-BR": "Gerente de Prontera: Estamos encerrando a votação. Em breve anunciaremos os resultados.",
+        "es-ES": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Ahora vamos a cerrar la votación. Pronto anunciaremos los resultados."
     },
     "z7BgBg": {
-        "en": "[Revoting manager]\nwe are not accepting additional vote.\nplease wait for our result announcement.",
-        "pt": "[Gerente de Votação]\nNão aceitamos mais votos.\nEspere o anúncio do resultado.",
-        "es": "[Admin. de reelección]\nNo aceptamos votos adicionales.\nEspera a que anunciemos los resultados."
+        "en-US": "[Revoting manager]\nwe are not accepting additional vote.\nplease wait for our result announcement.",
+        "pt-BR": "[Gerente de Votação]\nNão aceitamos mais votos.\nEspere o anúncio do resultado.",
+        "es-ES": "[Admin. de reelección]\nNo aceptamos votos adicionales.\nEspera a que anunciemos los resultados."
     },
     "0LBgBg": {
-        "en": "Cat paw merchant guild Prontera branch manager: Since no WOE area reached maximum invesment level to connect to  'Abyss gate'",
-        "pt": "Gerente da Pata de Gato de Prontera: Com o investimento atual, não será possível conectar ao 'Portal do Abismo'",
-        "es": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Ninguna zona de la Guerra del Emperium alcanzó la máxima inversión para conectarse a la Puerta del abismo."
+        "en-US": "Cat paw merchant guild Prontera branch manager: Since no WOE area reached maximum invesment level to connect to  'Abyss gate'",
+        "pt-BR": "Gerente da Pata de Gato de Prontera: Com o investimento atual, não será possível conectar ao 'Portal do Abismo'",
+        "es-ES": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Ninguna zona de la Guerra del Emperium alcanzó la máxima inversión para conectarse a la Puerta del abismo."
     },
     "0bBgBg": {
-        "en": "Cat paw merchant guild Prontera branch manager: we were about to connect Abyss gate on WOE area where invested most.",
-        "pt": "Gerente da Pata de Gato de Prontera: Iremos conectar esta área ao 'Portal do Abismo' caso consigamos um investimento maior.",
-        "es": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Por eso, íbamos a conectar la Puerta del abismo en la zona de la Guerra del Emperium que más invirtió."
+        "en-US": "Cat paw merchant guild Prontera branch manager: we were about to connect Abyss gate on WOE area where invested most.",
+        "pt-BR": "Gerente da Pata de Gato de Prontera: Iremos conectar esta área ao 'Portal do Abismo' caso consigamos um investimento maior.",
+        "es-ES": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Por eso, íbamos a conectar la Puerta del abismo en la zona de la Guerra del Emperium que más invirtió."
     },
     "0rBgBg": {
-        "en": "Cat paw merchant guild Prontera branch manager: however there were areas that invested the same amount. So we will put them to a vote.",
-        "pt": "Gerente da Pata de Gato de Prontera: Uma outra área investiu a mesma quantidade que o Feudo das Valquírias. Será necessário uma votação para definirmos o vencedor.",
-        "es": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Sin embargo, hubo zonas que invirtieron la misma cantidad. Así que lo someteremos a votación."
+        "en-US": "Cat paw merchant guild Prontera branch manager: however there were areas that invested the same amount. So we will put them to a vote.",
+        "pt-BR": "Gerente da Pata de Gato de Prontera: Uma outra área investiu a mesma quantidade que o Feudo das Valquírias. Será necessário uma votação para definirmos o vencedor.",
+        "es-ES": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Sin embargo, hubo zonas que invirtieron la misma cantidad. Así que lo someteremos a votación."
     },
     "07BgBg": {
-        "en": "Cat paw merchant guild Prontera branch manager: An additional vote will be avaliable for 30 min. You can vote on 'Valkyrie realm' field.",
-        "pt": "Gerente da Pata de Gato de Prontera: A votação está aberta! Você tem 30 minutos para votar no 'Feudo das Valquírias' para acesso ao 'Portal do Abismo'",
-        "es": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Habrá un voto adicional disponible durante 30minutos. Puedes votar en el campo “Reino de Valkiria”."
+        "en-US": "Cat paw merchant guild Prontera branch manager: An additional vote will be avaliable for 30 min. You can vote on 'Valkyrie realm' field.",
+        "pt-BR": "Gerente da Pata de Gato de Prontera: A votação está aberta! Você tem 30 minutos para votar no 'Feudo das Valquírias' para acesso ao 'Portal do Abismo'",
+        "es-ES": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Habrá un voto adicional disponible durante 30minutos. Puedes votar en el campo “Reino de Valkiria”."
     },
     "1LBgBg": {
-        "en": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Valkyrie realm vs Balder.",
-        "pt": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Feudo das Valquírias' contra 'Bosque Celestial'.",
-        "es": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son el reino de Valkiria y Balder."
+        "en-US": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Valkyrie realm vs Balder.",
+        "pt-BR": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Feudo das Valquírias' contra 'Bosque Celestial'.",
+        "es-ES": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son el reino de Valkiria y Balder."
     },
     "1bBgBg": {
-        "en": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Valkyrie realm vs Luina.",
-        "pt": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Feudo das Valquírias' contra 'Luina'.",
-        "es": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son el reino de Valkiria y Luina."
+        "en-US": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Valkyrie realm vs Luina.",
+        "pt-BR": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Feudo das Valquírias' contra 'Luina'.",
+        "es-ES": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son el reino de Valkiria y Luina."
     },
     "1rBgBg": {
-        "en": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Valkyrie realm vs Britoniah.",
-        "pt": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Feudo das Valquírias' contra 'Britoniah'.",
-        "es": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son el reino de Valkiria y Britonia."
+        "en-US": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Valkyrie realm vs Britoniah.",
+        "pt-BR": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Feudo das Valquírias' contra 'Britoniah'.",
+        "es-ES": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son el reino de Valkiria y Britonia."
     },
     "17BgBg": {
-        "en": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Balder vs Luina.",
-        "pt": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Bosque Celestial' contra 'Luina'.",
-        "es": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son Balder y Luina."
+        "en-US": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Balder vs Luina.",
+        "pt-BR": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Bosque Celestial' contra 'Luina'.",
+        "es-ES": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son Balder y Luina."
     },
     "2LBgBg": {
-        "en": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Balder vs Britoniah.",
-        "pt": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Bosque Celestial' contra 'Britoniah'.",
-        "es": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son Balder y Britonia."
+        "en-US": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Balder vs Britoniah.",
+        "pt-BR": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Bosque Celestial' contra 'Britoniah'.",
+        "es-ES": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son Balder y Britonia."
     },
     "2bBgBg": {
-        "en": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Luina vs Britoniah.",
-        "pt": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Luina' contra 'Britoniah'.",
-        "es": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son Luina y Britonia."
+        "en-US": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Luina vs Britoniah.",
+        "pt-BR": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Luina' contra 'Britoniah'.",
+        "es-ES": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son Luina y Britonia."
     },
     "2rBgBg": {
-        "en": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Valkyrie realm vs Balder vs Luina.",
-        "pt": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Feudo das Valquírias' contra 'Bosque Celestial' contra 'Luina'.",
-        "es": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son el reino de Valkiria, Balder y Luina."
+        "en-US": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Valkyrie realm vs Balder vs Luina.",
+        "pt-BR": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Feudo das Valquírias' contra 'Bosque Celestial' contra 'Luina'.",
+        "es-ES": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son el reino de Valkiria, Balder y Luina."
     },
     "27BgBg": {
-        "en": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Valkyrie realm vs Balder vs Britoniah.",
-        "pt": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Feudo das Valquírias' contra 'Bosque Celestial' contra 'Britoniah'.",
-        "es": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son el reino de Valkiria, Balder y Britonia."
+        "en-US": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Valkyrie realm vs Balder vs Britoniah.",
+        "pt-BR": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Feudo das Valquírias' contra 'Bosque Celestial' contra 'Britoniah'.",
+        "es-ES": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son el reino de Valkiria, Balder y Britonia."
     },
     "3LBgBg": {
-        "en": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Valkyrie realm vs Luina vs Britoniah.",
-        "pt": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Feudo das Valquírias' contra 'Luina' contra 'Britoniah'.",
-        "es": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son el reino de Valkiria, Luina y Britonia."
+        "en-US": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Valkyrie realm vs Luina vs Britoniah.",
+        "pt-BR": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Feudo das Valquírias' contra 'Luina' contra 'Britoniah'.",
+        "es-ES": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son el reino de Valkiria, Luina y Britonia."
     },
     "3bBgBg": {
-        "en": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Luina vs Balder vs Britoniah.",
-        "pt": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Luina' contra 'Bosque Celestial' contra 'Britoniah'.",
-        "es": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son Luina, Balder y Britonia."
+        "en-US": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Luina vs Balder vs Britoniah.",
+        "pt-BR": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Luina' contra 'Bosque Celestial' contra 'Britoniah'.",
+        "es-ES": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son Luina, Balder y Britonia."
     },
     "3rBgBg": {
-        "en": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Valkyrie realm vs Balder vs Luina vs Britoniah.",
-        "pt": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Feudo das Valquírias' contra 'Bosque Celestial' contra 'Luina' contra 'Britoniah'.",
-        "es": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son el reino de Valkiria, Balder, Luina y Britonia."
+        "en-US": "Cat paw merchant guild Prontera branch manager: the candidate for additional votes are,  Valkyrie realm vs Balder vs Luina vs Britoniah.",
+        "pt-BR": "Gerente da Pata de Gato de Prontera: os Feudos que serão votados são 'Feudo das Valquírias' contra 'Bosque Celestial' contra 'Luina' contra 'Britoniah'.",
+        "es-ES": "Administrador de la sucursal de Prontera del gremio de Comerciantes Pata de Gato: Los candidatos para votos adicionales son el reino de Valkiria, Balder, Luina y Britonia."
     },
     "37BgBg": {
-        "en": "[Revoting manager]\nNo!, this is not the time to take a revote.",
-        "pt": "[Gerente de Votação]\nNão! Não é o momento certo para refazer a votação.",
-        "es": "[Admin. de reelección]\n¡No! No es el momento de volver a votar."
+        "en-US": "[Revoting manager]\nNo!, this is not the time to take a revote.",
+        "pt-BR": "[Gerente de Votação]\nNão! Não é o momento certo para refazer a votação.",
+        "es-ES": "[Admin. de reelección]\n¡No! No es el momento de volver a votar."
     },
     "4LBgBg": {
-        "en": "[Revoting manager]\nyou've already participated to the vote.\nplease relax and wait for the result.",
-        "pt": "[Gerente de Votação]\nVocê já participou da votação.\nRelaxe e espere o resultado.",
-        "es": "[Admin. de reelección]\nYa participaste en la votación.\nAhora relájate y espera el resultado."
+        "en-US": "[Revoting manager]\nyou've already participated to the vote.\nplease relax and wait for the result.",
+        "pt-BR": "[Gerente de Votação]\nVocê já participou da votação.\nRelaxe e espere o resultado.",
+        "es-ES": "[Admin. de reelección]\nYa participaste en la votación.\nAhora relájate y espera el resultado."
     },
     "4bBgBg": {
-        "en": "[Revoting manager]\nWould you participate to the vote for choosing place where to connect 'Abyss gate'?",
-        "pt": "[Gerente de Votação]\nQuer participar da votação para escolher o lugar ao qual será conectado o Portal do Abismo?",
-        "es": "[Admin. de reelección]\n¿Participarás en la votación para elegir el sitio donde se conectará la Puerta del abismo?"
+        "en-US": "[Revoting manager]\nWould you participate to the vote for choosing place where to connect 'Abyss gate'?",
+        "pt-BR": "[Gerente de Votação]\nQuer participar da votação para escolher o lugar ao qual será conectado o Portal do Abismo?",
+        "es-ES": "[Admin. de reelección]\n¿Participarás en la votación para elegir el sitio donde se conectará la Puerta del abismo?"
     },
     "4rBgBg": {
-        "en": "participate to the vote",
-        "pt": "Participar da votação",
-        "es": "Participar en la votación."
+        "en-US": "participate to the vote",
+        "pt-BR": "Participar da votação",
+        "es-ES": "Participar en la votación."
     },
     "47BgBg": {
-        "en": "skip at this time.",
-        "pt": "Ficar de fora desta vez.",
-        "es": "Omitir por ahora."
+        "en-US": "skip at this time.",
+        "pt-BR": "Ficar de fora desta vez.",
+        "es-ES": "Omitir por ahora."
     },
     "5LBgBg": {
-        "en": "[Revoting manager]\nyou can vote once and you don't need to invest for your choice.\nplesae choose one WOE area.",
-        "pt": "[Gerente de Votação]\nVocê pode votar uma vez e não precisa investir na área escolhida.\nEscolha uma área de GdE.",
-        "es": "[Admin. de reelección]\nPuedes votar una vez y no necesitas invertir para tu elección.\nSelecciona una zona de la Guerra del Emperium."
+        "en-US": "[Revoting manager]\nyou can vote once and you don't need to invest for your choice.\nplesae choose one WOE area.",
+        "pt-BR": "[Gerente de Votação]\nVocê pode votar uma vez e não precisa investir na área escolhida.\nEscolha uma área de GdE.",
+        "es-ES": "[Admin. de reelección]\nPuedes votar una vez y no necesitas invertir para tu elección.\nSelecciona una zona de la Guerra del Emperium."
     },
     "5bBgBg": {
-        "en": "Valkyrie realm",
-        "pt": "Feudo das Valquírias",
-        "es": "Reino de Valkiria."
+        "en-US": "Valkyrie realm",
+        "pt-BR": "Feudo das Valquírias",
+        "es-ES": "Reino de Valkiria."
     },
     "5rBgBg": {
-        "en": "Green lake",
-        "pt": "Bosque Celestial",
-        "es": "Lago Greenwood."
+        "en-US": "Green lake",
+        "pt-BR": "Bosque Celestial",
+        "es-ES": "Lago Greenwood."
     },
     "57BgBg": {
-        "en": "[Revoting manager]\nYou've voted for Valkyrie realm.\nThanks for voting.",
-        "pt": "[Gerente de Votação]\nVocê votou no Feudo das Valquírias.\nObrigado por votar.",
-        "es": "[Admin. de reelección]\nVotaste por el reino de Valkiria.\nGracias por votar."
+        "en-US": "[Revoting manager]\nYou've voted for Valkyrie realm.\nThanks for voting.",
+        "pt-BR": "[Gerente de Votação]\nVocê votou no Feudo das Valquírias.\nObrigado por votar.",
+        "es-ES": "[Admin. de reelección]\nVotaste por el reino de Valkiria.\nGracias por votar."
     },
     "6LBgBg": {
-        "en": "[Revoting manager]\nYou've voted for Green lake.\nThanks for voting.",
-        "pt": "[Gerente de Votação]\nVocê votou no Bosque Celestial.\nObrigado por votar.",
-        "es": "[Admin. de reelección]\nVotaste por Lago Greenwood.\nGracias por votar."
+        "en-US": "[Revoting manager]\nYou've voted for Green lake.\nThanks for voting.",
+        "pt-BR": "[Gerente de Votação]\nVocê votou no Bosque Celestial.\nObrigado por votar.",
+        "es-ES": "[Admin. de reelección]\nVotaste por Lago Greenwood.\nGracias por votar."
     },
     "6bBgBg": {
-        "en": "Luina",
-        "pt": "Luina",
-        "es": "Luina."
+        "en-US": "Luina",
+        "pt-BR": "Luina",
+        "es-ES": "Luina."
     },
     "6rBgBg": {
-        "en": "[Revoting manager]\nYou've voted for Luina.\nThanks for voting.",
-        "pt": "[Gerente de Votação]\nVocê votou em Luina.\nObrigado por votar.",
-        "es": "[Admin. de reelección]\nVotaste por Luina.\nGracias por votar."
+        "en-US": "[Revoting manager]\nYou've voted for Luina.\nThanks for voting.",
+        "pt-BR": "[Gerente de Votação]\nVocê votou em Luina.\nObrigado por votar.",
+        "es-ES": "[Admin. de reelección]\nVotaste por Luina.\nGracias por votar."
     },
     "67BgBg": {
-        "en": "Britoniah",
-        "pt": "Britoniah",
-        "es": "Britonia."
+        "en-US": "Britoniah",
+        "pt-BR": "Britoniah",
+        "es-ES": "Britonia."
     },
     "7LBgBg": {
-        "en": "[Revoting manager]\nYou've voted for Britoniah.\nThanks for voting.",
-        "pt": "[Gerente de Votação]\nVocê votou em Britoniah.\nObrigado por votar.",
-        "es": "[Admin. de reelección]\nVotaste por Britonia.\nGracias por votar."
+        "en-US": "[Revoting manager]\nYou've voted for Britoniah.\nThanks for voting.",
+        "pt-BR": "[Gerente de Votação]\nVocê votou em Britoniah.\nObrigado por votar.",
+        "es-ES": "[Admin. de reelección]\nVotaste por Britonia.\nGracias por votar."
     },
     "7bBgBg": {
-        "en": "[Revoting manager]\nYou've canceled the vote.",
-        "pt": "[Gerente de Votação]\nVocê cancelou o voto.",
-        "es": "[Admin. de reelección]\nCancelaste la votación."
+        "en-US": "[Revoting manager]\nYou've canceled the vote.",
+        "pt-BR": "[Gerente de Votação]\nVocê cancelou o voto.",
+        "es-ES": "[Admin. de reelección]\nCancelaste la votación."
     },
     "7rBgBg": {
-        "en": "checking message.",
-        "pt": "checking message.",
-        "es": "checking message."
+        "en-US": "checking message.",
+        "pt-BR": "checking message.",
+        "es-ES": "checking message."
     },
     "77BgBg": {
-        "en": "showing msg now{0}.",
-        "pt": "Exibindo mensagem agora {0}.",
-        "es": "Mostrando mensaje ahora: {0}."
+        "en-US": "showing msg now{0}.",
+        "pt-BR": "Exibindo mensagem agora {0}.",
+        "es-ES": "Mostrando mensaje ahora: {0}."
     },
     "8LBgBg": {
-        "en": "check global Var",
-        "pt": "check global Var",
-        "es": "check global Var"
+        "en-US": "check global Var",
+        "pt-BR": "check global Var",
+        "es-ES": "check global Var"
     },
     "8bBgBg": {
-        "en": "Enter the PIN code.",
-        "pt": "Digite o código PIN.",
-        "es": "Ingresa el código PIN."
+        "en-US": "Enter the PIN code.",
+        "pt-BR": "Digite o código PIN.",
+        "es-ES": "Ingresa el código PIN."
     },
     "8rBgBg": {
-        "en": "current investment process -{0}\ninvestment total - No.{1}.\nresult timer -{2}Hours\nrevote timer-{3}mins",
-        "pt": "Processo de investimento atual - {0}\nTotal de investimento - Núm.{1}.\nTimer do resultado - {2}horas\nTimer de revotação - {3}min",
-        "es": "Proceso de inversión actual: {0}.\nTotal de inversión: número{1}.\nTemporizador de resultados: {2}horas.\nTemporizador de reelección: {3}minutos."
+        "en-US": "current investment process -{0}\ninvestment total - No.{1}.\nresult timer -{2}Hours\nrevote timer-{3}mins",
+        "pt-BR": "Processo de investimento atual - {0}\nTotal de investimento - Núm.{1}.\nTimer do resultado - {2}horas\nTimer de revotação - {3}min",
+        "es-ES": "Proceso de inversión actual: {0}.\nTotal de inversión: número{1}.\nTemporizador de resultados: {2}horas.\nTemporizador de reelección: {3}minutos."
     },
     "87BgBg": {
-        "en": "Kriemhild{0}\nSwanhild{1}\nLazreagues{2}\nSkoegul{3}\nKendul{4}\nValkyrie Realm general{5}",
-        "pt": "Kriemhild {0}\nHrist {1}\nBrynhildr {2}\nSkoegul {3}\nGondul {4}\nGeral do Feudo das Valquírias {5}",
-        "es": "Kriemhild: {0}.\nSwanhild: {1}.\nLazreagues: {2}.\nSkoegul: {3}.\nKendul: {4}.\nReino de Valkiria en general: {5}."
+        "en-US": "Kriemhild{0}\nSwanhild{1}\nLazreagues{2}\nSkoegul{3}\nKendul{4}\nValkyrie Realm general{5}",
+        "pt-BR": "Kriemhild {0}\nHrist {1}\nBrynhildr {2}\nSkoegul {3}\nGondul {4}\nGeral do Feudo das Valquírias {5}",
+        "es-ES": "Kriemhild: {0}.\nSwanhild: {1}.\nLazreagues: {2}.\nSkoegul: {3}.\nKendul: {4}.\nReino de Valkiria en general: {5}."
     },
     "9LBgBg": {
-        "en": "Myung-Jung{0}\nChun-Dan{1}\nBool-Young{2}\nHong-Roo{3}\nJukk-Rim-Hyun{4}\nGreenwood Lake general{5}",
-        "pt": "Palácio do Sol {0}\nPalácio do Lago Sagrado {1}\nPalácio da Sombra {2}\nPalácio Escarlate {3}\nPalácio da Colina {4}\nGeral do Bosque Celestial {5}",
-        "es": "Myung-Jung: {0}.\nChun-Dan: {1}.\nBool-Young: {2}.\nHong-Roo: {3}.\nJukk-Rim-Hyun: {4}.\nLago Greenwood en general: {5}."
+        "en-US": "Myung-Jung{0}\nChun-Dan{1}\nBool-Young{2}\nHong-Roo{3}\nJukk-Rim-Hyun{4}\nGreenwood Lake general{5}",
+        "pt-BR": "Palácio do Sol {0}\nPalácio do Lago Sagrado {1}\nPalácio da Sombra {2}\nPalácio Escarlate {3}\nPalácio da Colina {4}\nGeral do Bosque Celestial {5}",
+        "es-ES": "Myung-Jung: {0}.\nChun-Dan: {1}.\nBool-Young: {2}.\nHong-Roo: {3}.\nJukk-Rim-Hyun: {4}.\nLago Greenwood en general: {5}."
     },
     "9bBgBg": {
-        "en": "Leprion{0}\nJyolbriger{1}\nYssnelf{2}\nBergel{3}\nMelcedez{4}\nBritoniah general{5}",
-        "pt": "Arsulf {0}\nTrapesac {1}\nRuaden {2}\nSaffran {3}\nArima {4}\nGeral de Britoniah{5}",
-        "es": "Leprion: {0}.\nJyolbriger: {1}.\nYssnelf: {2}.\nBergel: {3}.\nMersetzdeitz: {4}.\nBritonia en general: {5}."
+        "en-US": "Leprion{0}\nJyolbriger{1}\nYssnelf{2}\nBergel{3}\nMelcedez{4}\nBritoniah general{5}",
+        "pt-BR": "Arsulf {0}\nTrapesac {1}\nRuaden {2}\nSaffran {3}\nArima {4}\nGeral de Britoniah{5}",
+        "es-ES": "Leprion: {0}.\nJyolbriger: {1}.\nYssnelf: {2}.\nBergel: {3}.\nMersetzdeitz: {4}.\nBritonia en general: {5}."
     },
     "9rBgBg": {
-        "en": "Neuschwanstein{0}\nHohenschwangau{1}\nNuernberg{2}\nWurzburg{3}\nRothenburg{4}\nLuina general{5}",
-        "pt": "Sirius {0}\nAstrum {1}\nCanopus {2}\nRigel {3}\nAcrux {4}\nGeral de Luina{5}",
-        "es": "Neuschwanstein: {0}.\nHohenschwangau: {1}.\nNuernberg: {2}.\nWuerzburg: {3}.\nRothenburg: {4}.\nLuina en general: {5}."
+        "en-US": "Neuschwanstein{0}\nHohenschwangau{1}\nNuernberg{2}\nWurzburg{3}\nRothenburg{4}\nLuina general{5}",
+        "pt-BR": "Sirius {0}\nAstrum {1}\nCanopus {2}\nRigel {3}\nAcrux {4}\nGeral de Luina{5}",
+        "es-ES": "Neuschwanstein: {0}.\nHohenschwangau: {1}.\nNuernberg: {2}.\nWuerzburg: {3}.\nRothenburg: {4}.\nLuina en general: {5}."
     },
     "97BgBg": {
-        "en": "will you reset all investment history and settings?",
-        "pt": "Redefinir todo o histórico e configurações de investimento?",
-        "es": "¿Quieres restablecer todo el historial de inversiones y la configuración?"
+        "en-US": "will you reset all investment history and settings?",
+        "pt-BR": "Redefinir todo o histórico e configurações de investimento?",
+        "es-ES": "¿Quieres restablecer todo el historial de inversiones y la configuración?"
     },
     "+LBgBg": {
-        "en": "reset all investment status from all region.",
-        "pt": "Redefinir o status de investimento para todas as regiões.",
-        "es": "Restablecer el estado de las inversiones de todas las regiones."
+        "en-US": "reset all investment status from all region.",
+        "pt-BR": "Redefinir o status de investimento para todas as regiões.",
+        "es-ES": "Restablecer el estado de las inversiones de todas las regiones."
     },
     "+bBgBg": {
-        "en": "set up 'count global Var.'",
-        "pt": "Ajustar 'count global Var.'",
-        "es": "Establecer “Variable de recuento global”."
+        "en-US": "set up 'count global Var.'",
+        "pt-BR": "Ajustar 'count global Var.'",
+        "es-ES": "Establecer “Variable de recuento global”."
     },
     "+rBgBg": {
-        "en": "set up current investment process",
-        "pt": "Ajustar processo de investimento atual",
-        "es": "Establecer el proceso de inversión actual."
+        "en-US": "set up current investment process",
+        "pt-BR": "Ajustar processo de investimento atual",
+        "es-ES": "Establecer el proceso de inversión actual."
     },
     "+7BgBg": {
-        "en": "set up investment amount",
-        "pt": "Ajustar quantidade de investimento",
-        "es": "Establecer el importe de inversión."
+        "en-US": "set up investment amount",
+        "pt-BR": "Ajustar quantidade de investimento",
+        "es-ES": "Establecer el importe de inversión."
     },
     "/LBgBg": {
-        "en": "check rsult and adjust",
-        "pt": "Conferir resultado e ajustar",
-        "es": "Revisar el resultado y ajustar."
+        "en-US": "check rsult and adjust",
+        "pt-BR": "Conferir resultado e ajustar",
+        "es-ES": "Revisar el resultado y ajustar."
     },
     "/bBgBg": {
-        "en": "you've set the amount of investment from all location as '0'.",
-        "pt": "Você definiu a quantia de investimento para todos os locais como '0'.",
-        "es": "Estableciste el importe de la inversión de todas las ubicaciones en “0”."
+        "en-US": "you've set the amount of investment from all location as '0'.",
+        "pt-BR": "Você definiu a quantia de investimento para todos os locais como '0'.",
+        "es-ES": "Estableciste el importe de la inversión de todas las ubicaciones en “0”."
     },
     "/rBgBg": {
-        "en": "now you will control NPC who get investment from User.",
-        "pt": "Agora, você vai controlar o NPC que recebe investimentos dos usuários.",
-        "es": "Ahora controlarás a los PNJ que reciban inversiones del Usuario."
+        "en-US": "now you will control NPC who get investment from User.",
+        "pt-BR": "Agora, você vai controlar o NPC que recebe investimentos dos usuários.",
+        "es-ES": "Ahora controlarás a los PNJ que reciban inversiones del Usuario."
     },
     "/7BgBg": {
-        "en": "reset all investment status (notice, timer, revote timer)",
-        "pt": "Redefinir o status de investimento (aviso, timer, timer de revotação)",
-        "es": "Restablecer todos los estados de inversión (notificación, temporizador, temporizador de reelección)."
+        "en-US": "reset all investment status (notice, timer, revote timer)",
+        "pt-BR": "Redefinir o status de investimento (aviso, timer, timer de revotação)",
+        "es-ES": "Restablecer todos los estados de inversión (notificación, temporizador, temporizador de reelección)."
     },
     "ALFgBg": {
-        "en": "set up investment Number.",
-        "pt": "Ajustar numero de investimento",
-        "es": "Establecer el número de inversión."
+        "en-US": "set up investment Number.",
+        "pt-BR": "Ajustar numero de investimento",
+        "es-ES": "Establecer el número de inversión."
     },
     "AbFgBg": {
-        "en": "set up Investment period",
-        "pt": "Ajustar período de investimento",
-        "es": "Establecer el período de inversión."
+        "en-US": "set up Investment period",
+        "pt-BR": "Ajustar período de investimento",
+        "es-ES": "Establecer el período de inversión."
     },
     "ArFgBg": {
-        "en": "please enter the number you want",
-        "pt": "Digite o número desejado",
-        "es": "Ingresa el número que desees."
+        "en-US": "please enter the number you want",
+        "pt-BR": "Digite o número desejado",
+        "es-ES": "Ingresa el número que desees."
     },
     "A7FgBg": {
-        "en": "please enter 0 - 9999.",
-        "pt": "Digite entre 0 e 9999.",
-        "es": "Ingresa un número del 0al 9999."
+        "en-US": "please enter 0 - 9999.",
+        "pt-BR": "Digite entre 0 e 9999.",
+        "es-ES": "Ingresa un número del 0al 9999."
     },
     "BLFgBg": {
-        "en": "{0}was entered.",
-        "pt": "{0}foi digitado.",
-        "es": "Se ingresó {0}."
+        "en-US": "{0}was entered.",
+        "pt-BR": "{0}foi digitado.",
+        "es-ES": "Se ingresó {0}."
     },
     "BbFgBg": {
-        "en": "You are going to set up Var. '2011_agit_invest'",
-        "pt": "Você vai ajustar a variável '2011_agit_invest'",
-        "es": "Establecerás la variable. “2011_agit_invest”"
+        "en-US": "You are going to set up Var. '2011_agit_invest'",
+        "pt-BR": "Você vai ajustar a variável '2011_agit_invest'",
+        "es-ES": "Establecerás la variable. “2011_agit_invest”"
     },
     "BrFgBg": {
-        "en": "0",
-        "pt": "0",
-        "es": "0"
+        "en-US": "0",
+        "pt-BR": "0",
+        "es-ES": "0"
     },
     "B7FgBg": {
-        "en": "1",
-        "pt": "1",
-        "es": "1"
+        "en-US": "1",
+        "pt-BR": "1",
+        "es-ES": "1"
     },
     "CLFgBg": {
-        "en": "2",
-        "pt": "2",
-        "es": "2"
+        "en-US": "2",
+        "pt-BR": "2",
+        "es-ES": "2"
     },
     "CbFgBg": {
-        "en": "4",
-        "pt": "4",
-        "es": "4"
+        "en-US": "4",
+        "pt-BR": "4",
+        "es-ES": "4"
     },
     "CrFgBg": {
-        "en": "11",
-        "pt": "11",
-        "es": "11"
+        "en-US": "11",
+        "pt-BR": "11",
+        "es-ES": "11"
     },
     "C7FgBg": {
-        "en": "12",
-        "pt": "12",
-        "es": "12"
+        "en-US": "12",
+        "pt-BR": "12",
+        "es-ES": "12"
     },
     "DLFgBg": {
-        "en": "13",
-        "pt": "13",
-        "es": "13"
+        "en-US": "13",
+        "pt-BR": "13",
+        "es-ES": "13"
     },
     "DbFgBg": {
-        "en": "14",
-        "pt": "14",
-        "es": "14"
+        "en-US": "14",
+        "pt-BR": "14",
+        "es-ES": "14"
     },
     "DrFgBg": {
-        "en": "15",
-        "pt": "15",
-        "es": "15"
+        "en-US": "15",
+        "pt-BR": "15",
+        "es-ES": "15"
     },
     "D7FgBg": {
-        "en": "16",
-        "pt": "16",
-        "es": "16"
+        "en-US": "16",
+        "pt-BR": "16",
+        "es-ES": "16"
     },
     "ELFgBg": {
-        "en": "17",
-        "pt": "17",
-        "es": "17"
+        "en-US": "17",
+        "pt-BR": "17",
+        "es-ES": "17"
     },
     "EbFgBg": {
-        "en": "18",
-        "pt": "18",
-        "es": "18"
+        "en-US": "18",
+        "pt-BR": "18",
+        "es-ES": "18"
     },
     "ErFgBg": {
-        "en": "19",
-        "pt": "19",
-        "es": "19"
+        "en-US": "19",
+        "pt-BR": "19",
+        "es-ES": "19"
     },
     "E7FgBg": {
-        "en": "20",
-        "pt": "20",
-        "es": "20"
+        "en-US": "20",
+        "pt-BR": "20",
+        "es-ES": "20"
     },
     "FLFgBg": {
-        "en": "21",
-        "pt": "21",
-        "es": "21"
+        "en-US": "21",
+        "pt-BR": "21",
+        "es-ES": "21"
     },
     "FbFgBg": {
-        "en": "0 was entered",
-        "pt": "0 foi digitado",
-        "es": "Se ingresó0."
+        "en-US": "0 was entered",
+        "pt-BR": "0 foi digitado",
+        "es-ES": "Se ingresó0."
     },
     "FrFgBg": {
-        "en": "1 was entered",
-        "pt": "1 foi digitado",
-        "es": "Se ingresó1."
+        "en-US": "1 was entered",
+        "pt-BR": "1 foi digitado",
+        "es-ES": "Se ingresó1."
     },
     "F7FgBg": {
-        "en": "2 was entered",
-        "pt": "2 foi digitado",
-        "es": "Se ingresó2."
+        "en-US": "2 was entered",
+        "pt-BR": "2 foi digitado",
+        "es-ES": "Se ingresó2."
     },
     "GLFgBg": {
-        "en": "4 was entered",
-        "pt": "4 foi digitado",
-        "es": "Se ingresó4."
+        "en-US": "4 was entered",
+        "pt-BR": "4 foi digitado",
+        "es-ES": "Se ingresó4."
     },
     "GbFgBg": {
-        "en": "11 was entered",
-        "pt": "11 foi digitado",
-        "es": "Se ingresó11."
+        "en-US": "11 was entered",
+        "pt-BR": "11 foi digitado",
+        "es-ES": "Se ingresó11."
     },
     "GrFgBg": {
-        "en": "12 was entered",
-        "pt": "12 foi digitado",
-        "es": "Se ingresó12."
+        "en-US": "12 was entered",
+        "pt-BR": "12 foi digitado",
+        "es-ES": "Se ingresó12."
     },
     "G7FgBg": {
-        "en": "13 was entered",
-        "pt": "13 foi digitado",
-        "es": "Se ingresó13."
+        "en-US": "13 was entered",
+        "pt-BR": "13 foi digitado",
+        "es-ES": "Se ingresó13."
     },
     "HLFgBg": {
-        "en": "14 was entered",
-        "pt": "14 foi digitado",
-        "es": "Se ingresó14."
+        "en-US": "14 was entered",
+        "pt-BR": "14 foi digitado",
+        "es-ES": "Se ingresó14."
     },
     "HbFgBg": {
-        "en": "15 was entered",
-        "pt": "15 foi digitado",
-        "es": "Se ingresó15."
+        "en-US": "15 was entered",
+        "pt-BR": "15 foi digitado",
+        "es-ES": "Se ingresó15."
     },
     "HrFgBg": {
-        "en": "16 was entered",
-        "pt": "16 foi digitado",
-        "es": "Se ingresó16."
+        "en-US": "16 was entered",
+        "pt-BR": "16 foi digitado",
+        "es-ES": "Se ingresó16."
     },
     "H7FgBg": {
-        "en": "17 was entered",
-        "pt": "17 foi digitado",
-        "es": "Se ingresó17."
+        "en-US": "17 was entered",
+        "pt-BR": "17 foi digitado",
+        "es-ES": "Se ingresó17."
     },
     "ILFgBg": {
-        "en": "18 was entered",
-        "pt": "18 foi digitado",
-        "es": "Se ingresó18."
+        "en-US": "18 was entered",
+        "pt-BR": "18 foi digitado",
+        "es-ES": "Se ingresó18."
     },
     "IbFgBg": {
-        "en": "19 was entered",
-        "pt": "19 foi digitado",
-        "es": "Se ingresó19."
+        "en-US": "19 was entered",
+        "pt-BR": "19 foi digitado",
+        "es-ES": "Se ingresó19."
     },
     "IrFgBg": {
-        "en": "20 was entered",
-        "pt": "20 foi digitado",
-        "es": "Se ingresó20."
+        "en-US": "20 was entered",
+        "pt-BR": "20 foi digitado",
+        "es-ES": "Se ingresó20."
     },
     "I7FgBg": {
-        "en": "21 was entered",
-        "pt": "21 foi digitado",
-        "es": "Se ingresó21."
+        "en-US": "21 was entered",
+        "pt-BR": "21 foi digitado",
+        "es-ES": "Se ingresó21."
     },
     "JLFgBg": {
-        "en": "You are going to set up the amount of investment from all location.",
-        "pt": "Você vai definir a quantia de investimento para todos os locais.",
-        "es": "Establecerás la cantidad de inversión de todas las ubicaciones."
+        "en-US": "You are going to set up the amount of investment from all location.",
+        "pt-BR": "Você vai definir a quantia de investimento para todos os locais.",
+        "es-ES": "Establecerás la cantidad de inversión de todas las ubicaciones."
     },
     "JbFgBg": {
-        "en": "Which guild would you adjust the investment amount?",
-        "pt": "Para qual castelo você quer ajustar a quantia de investimento?",
-        "es": "¿En qué gremio ajustarás el importe de inversión?"
+        "en-US": "Which guild would you adjust the investment amount?",
+        "pt-BR": "Para qual castelo você quer ajustar a quantia de investimento?",
+        "es-ES": "¿En qué gremio ajustarás el importe de inversión?"
     },
     "JrFgBg": {
-        "en": "Swanhild02",
-        "pt": "Hrist",
-        "es": "Swanhild02."
+        "en-US": "Swanhild02",
+        "pt-BR": "Hrist",
+        "es-ES": "Swanhild02."
     },
     "J7FgBg": {
-        "en": "Lazreagues03",
-        "pt": "Brynhildr",
-        "es": "Lazreagues03."
+        "en-US": "Lazreagues03",
+        "pt-BR": "Brynhildr",
+        "es-ES": "Lazreagues03."
     },
     "KLFgBg": {
-        "en": "Skoegul04",
-        "pt": "Skoegul",
-        "es": "Skoegul04."
+        "en-US": "Skoegul04",
+        "pt-BR": "Skoegul",
+        "es-ES": "Skoegul04."
     },
     "KbFgBg": {
-        "en": "Kendul05",
-        "pt": "Gondul",
-        "es": "Kendul05."
+        "en-US": "Kendul05",
+        "pt-BR": "Gondul",
+        "es-ES": "Kendul05."
     },
     "KrFgBg": {
-        "en": "Valkyrie Realm general",
-        "pt": "Geral do Feudo das Valquírias",
-        "es": "Reino de Valkiria en general."
+        "en-US": "Valkyrie Realm general",
+        "pt-BR": "Geral do Feudo das Valquírias",
+        "es-ES": "Reino de Valkiria en general."
     },
     "K7FgBg": {
-        "en": "Myung-Jung01",
-        "pt": "Palácio do Sol",
-        "es": "Myung-Jung01."
+        "en-US": "Myung-Jung01",
+        "pt-BR": "Palácio do Sol",
+        "es-ES": "Myung-Jung01."
     },
     "LLFgBg": {
-        "en": "Bool-Young03",
-        "pt": "Palácio da Sombra",
-        "es": "Bool-Young03."
+        "en-US": "Bool-Young03",
+        "pt-BR": "Palácio da Sombra",
+        "es-ES": "Bool-Young03."
     },
     "LbFgBg": {
-        "en": "Hong-Roo04",
-        "pt": "Palácio Escarlate",
-        "es": "Hong-Roo04."
+        "en-US": "Hong-Roo04",
+        "pt-BR": "Palácio Escarlate",
+        "es-ES": "Hong-Roo04."
     },
     "LrFgBg": {
-        "en": "Jukk-Rim-Hyun05",
-        "pt": "Palácio da Colinan",
-        "es": "Jukk-Rim-Hyun05."
+        "en-US": "Jukk-Rim-Hyun05",
+        "pt-BR": "Palácio da Colinan",
+        "es-ES": "Jukk-Rim-Hyun05."
     },
     "L7FgBg": {
-        "en": "Greenwood Lake general",
-        "pt": "Geral do Bosque Celestial",
-        "es": "Lago Greenwood en general."
+        "en-US": "Greenwood Lake general",
+        "pt-BR": "Geral do Bosque Celestial",
+        "es-ES": "Lago Greenwood en general."
     },
     "MLFgBg": {
-        "en": "Jyolbriger02",
-        "pt": "Trapesac",
-        "es": "Jyolbriger02."
+        "en-US": "Jyolbriger02",
+        "pt-BR": "Trapesac",
+        "es-ES": "Jyolbriger02."
     },
     "MbFgBg": {
-        "en": "Yssnelf03",
-        "pt": "Ruaden",
-        "es": "Yssnelf03."
+        "en-US": "Yssnelf03",
+        "pt-BR": "Ruaden",
+        "es-ES": "Yssnelf03."
     },
     "MrFgBg": {
-        "en": "Bergel04",
-        "pt": "Saffran",
-        "es": "Bergel04."
+        "en-US": "Bergel04",
+        "pt-BR": "Saffran",
+        "es-ES": "Bergel04."
     },
     "M7FgBg": {
-        "en": "Melcedez05",
-        "pt": "Arima",
-        "es": "Mersetzdeitz05."
+        "en-US": "Melcedez05",
+        "pt-BR": "Arima",
+        "es-ES": "Mersetzdeitz05."
     },
     "NLFgBg": {
-        "en": "Britoniah general",
-        "pt": "Geral de Britoniah",
-        "es": "Britonia en general."
+        "en-US": "Britoniah general",
+        "pt-BR": "Geral de Britoniah",
+        "es-ES": "Britonia en general."
     },
     "NbFgBg": {
-        "en": "Neuschwanstein01",
-        "pt": "Sirius",
-        "es": "Neuschwanstein01."
+        "en-US": "Neuschwanstein01",
+        "pt-BR": "Sirius",
+        "es-ES": "Neuschwanstein01."
     },
     "NrFgBg": {
-        "en": "Hohenschwangau02",
-        "pt": "Astrum",
-        "es": "Hohenschwangau02."
+        "en-US": "Hohenschwangau02",
+        "pt-BR": "Astrum",
+        "es-ES": "Hohenschwangau02."
     },
     "N7FgBg": {
-        "en": "Nuernberg03",
-        "pt": "Canopus",
-        "es": "Nuernberg03."
+        "en-US": "Nuernberg03",
+        "pt-BR": "Canopus",
+        "es-ES": "Nuernberg03."
     },
     "OLFgBg": {
-        "en": "Rothenburg05",
-        "pt": "Acrux",
-        "es": "Rothenburg05."
+        "en-US": "Rothenburg05",
+        "pt-BR": "Acrux",
+        "es-ES": "Rothenburg05."
     },
     "ObFgBg": {
-        "en": "Luina general",
-        "pt": "Geral de Luina",
-        "es": "Luina en general."
+        "en-US": "Luina general",
+        "pt-BR": "Geral de Luina",
+        "es-ES": "Luina en general."
     },
     "OrFgBg": {
-        "en": "check result global Var.\nValkyrie realm{0}\nGreen lake{1}\nBritoniah{2}\nLuina{3}",
-        "pt": "Variável global para conferir resultado\nFeudo das Valquírias{0}\nBosque Celestial{1}\nBritoniah{2}\nLuina{3}",
-        "es": "Comprobar resultado de variable global.\nReino de Valkiria: {0}.\nLago Greenwood: {1}.\nBritonia: {2}.\nLuina: {3}."
+        "en-US": "check result global Var.\nValkyrie realm{0}\nGreen lake{1}\nBritoniah{2}\nLuina{3}",
+        "pt-BR": "Variável global para conferir resultado\nFeudo das Valquírias{0}\nBosque Celestial{1}\nBritoniah{2}\nLuina{3}",
+        "es-ES": "Comprobar resultado de variable global.\nReino de Valkiria: {0}.\nLago Greenwood: {1}.\nBritonia: {2}.\nLuina: {3}."
     },
     "O7FgBg": {
-        "en": "adjust global Var. for each region.",
-        "pt": "Ajuste a variável global para cada região.",
-        "es": "Ajustar variable global para cada región."
+        "en-US": "adjust global Var. for each region.",
+        "pt-BR": "Ajuste a variável global para cada região.",
+        "es-ES": "Ajustar variable global para cada región."
     },
     "PLFgBg": {
-        "en": "I won't adjust this now.",
-        "pt": "Não vou ajustar isso agora.",
-        "es": "No ajustaré esto ahora."
+        "en-US": "I won't adjust this now.",
+        "pt-BR": "Não vou ajustar isso agora.",
+        "es-ES": "No ajustaré esto ahora."
     },
     "PbFgBg": {
-        "en": "input range is between 0 to 10.",
-        "pt": "Insira um valor de 0 a 10.",
-        "es": "El rango de entrada es de 0a 10."
+        "en-US": "input range is between 0 to 10.",
+        "pt-BR": "Insira um valor de 0 a 10.",
+        "es-ES": "El rango de entrada es de 0a 10."
     },
     "PrFgBg": {
-        "en": "Wrong!",
-        "pt": "Errado!",
-        "es": "¡Incorrecto!"
+        "en-US": "Wrong!",
+        "pt-BR": "Errado!",
+        "es-ES": "¡Incorrecto!"
     },
     "P7FgBg": {
-        "en": "Brito01",
-        "pt": "Brito01",
-        "es": "Brito01"
+        "en-US": "Brito01",
+        "pt-BR": "Brito01",
+        "es-ES": "Brito01"
     },
     "QLFgBg": {
-        "en": "Now, it is{0}...",
-        "pt": "Agora, é {0}...",
-        "es": "Ahora es {0}…"
+        "en-US": "Now, it is{0}...",
+        "pt-BR": "Agora, é {0}...",
+        "es-ES": "Ahora es {0}…"
     },
     "QbFgBg": {
-        "en": "Brito02",
-        "pt": "Brito02",
-        "es": "Brito02"
+        "en-US": "Brito02",
+        "pt-BR": "Brito02",
+        "es-ES": "Brito02"
     },
     "QrFgBg": {
-        "en": "Brito03",
-        "pt": "Brito03",
-        "es": "Brito03"
+        "en-US": "Brito03",
+        "pt-BR": "Brito03",
+        "es-ES": "Brito03"
     },
     "Q7FgBg": {
-        "en": "Brito04",
-        "pt": "Brito04",
-        "es": "Brito04"
+        "en-US": "Brito04",
+        "pt-BR": "Brito04",
+        "es-ES": "Brito04"
     },
     "RLFgBg": {
-        "en": "Brito05",
-        "pt": "Brito05",
-        "es": "Brito05"
+        "en-US": "Brito05",
+        "pt-BR": "Brito05",
+        "es-ES": "Brito05"
     },
     "RbFgBg": {
-        "en": "Britopill",
-        "pt": "Britopill",
-        "es": "Britopill"
+        "en-US": "Britopill",
+        "pt-BR": "Britopill",
+        "es-ES": "Britopill"
     },
     "RrFgBg": {
-        "en": "Green lake01",
-        "pt": "Green lake01",
-        "es": "Green lake01"
+        "en-US": "Green lake01",
+        "pt-BR": "Green lake01",
+        "es-ES": "Green lake01"
     },
     "R7FgBg": {
-        "en": "Green lake02",
-        "pt": "Green lake02",
-        "es": "Green lake02"
+        "en-US": "Green lake02",
+        "pt-BR": "Green lake02",
+        "es-ES": "Green lake02"
     },
     "SLFgBg": {
-        "en": "Green lake03",
-        "pt": "Green lake03",
-        "es": "Green lake03"
+        "en-US": "Green lake03",
+        "pt-BR": "Green lake03",
+        "es-ES": "Green lake03"
     },
     "SbFgBg": {
-        "en": "Green lake04",
-        "pt": "Green lake04",
-        "es": "Green lake04"
+        "en-US": "Green lake04",
+        "pt-BR": "Green lake04",
+        "es-ES": "Green lake04"
     },
     "SrFgBg": {
-        "en": "Green lake05",
-        "pt": "Green lake05",
-        "es": "Green lake05"
+        "en-US": "Green lake05",
+        "pt-BR": "Green lake05",
+        "es-ES": "Green lake05"
     },
     "S7FgBg": {
-        "en": "Green lake00",
-        "pt": "Green lake00",
-        "es": "Green lake00"
+        "en-US": "Green lake00",
+        "pt-BR": "Green lake00",
+        "es-ES": "Green lake00"
     },
     "TLFgBg": {
-        "en": "Alde00",
-        "pt": "Alde00",
-        "es": "Alde00"
+        "en-US": "Alde00",
+        "pt-BR": "Alde00",
+        "es-ES": "Alde00"
     },
     "TbFgBg": {
-        "en": "Alde01",
-        "pt": "Alde01",
-        "es": "Alde01"
+        "en-US": "Alde01",
+        "pt-BR": "Alde01",
+        "es-ES": "Alde01"
     },
     "TrFgBg": {
-        "en": "Alde02",
-        "pt": "Alde02",
-        "es": "Alde02"
+        "en-US": "Alde02",
+        "pt-BR": "Alde02",
+        "es-ES": "Alde02"
     },
     "T7FgBg": {
-        "en": "Alde03",
-        "pt": "Alde03",
-        "es": "Alde03"
+        "en-US": "Alde03",
+        "pt-BR": "Alde03",
+        "es-ES": "Alde03"
     },
     "ULFgBg": {
-        "en": "Alde04",
-        "pt": "Alde04",
-        "es": "Alde04"
+        "en-US": "Alde04",
+        "pt-BR": "Alde04",
+        "es-ES": "Alde04"
     },
     "UbFgBg": {
-        "en": "Alde05",
-        "pt": "Alde05",
-        "es": "Alde05"
+        "en-US": "Alde05",
+        "pt-BR": "Alde05",
+        "es-ES": "Alde05"
     },
     "UrFgBg": {
-        "en": "Valkyrie01",
-        "pt": "Valkyrie01",
-        "es": "Valkyrie01"
+        "en-US": "Valkyrie01",
+        "pt-BR": "Valkyrie01",
+        "es-ES": "Valkyrie01"
     },
     "U7FgBg": {
-        "en": "Valkyrie02",
-        "pt": "Valkyrie02",
-        "es": "Valkyrie02"
+        "en-US": "Valkyrie02",
+        "pt-BR": "Valkyrie02",
+        "es-ES": "Valkyrie02"
     },
     "VLFgBg": {
-        "en": "Valkyrie03",
-        "pt": "Valkyrie03",
-        "es": "Valkyrie03"
+        "en-US": "Valkyrie03",
+        "pt-BR": "Valkyrie03",
+        "es-ES": "Valkyrie03"
     },
     "VbFgBg": {
-        "en": "Valkyrie04",
-        "pt": "Valkyrie04",
-        "es": "Valkyrie04"
+        "en-US": "Valkyrie04",
+        "pt-BR": "Valkyrie04",
+        "es-ES": "Valkyrie04"
     },
     "VrFgBg": {
-        "en": "Valkyrie05",
-        "pt": "Valkyrie05",
-        "es": "Valkyrie05"
+        "en-US": "Valkyrie05",
+        "pt-BR": "Valkyrie05",
+        "es-ES": "Valkyrie05"
     },
     "V7FgBg": {
-        "en": "ok what do you want to do?",
-        "pt": "ok, o que você quer fazer?",
-        "es": "Bueno, ¿qué quieres hacer?"
+        "en-US": "ok what do you want to do?",
+        "pt-BR": "ok, o que você quer fazer?",
+        "es-ES": "Bueno, ¿qué quieres hacer?"
     },
     "WLFgBg": {
-        "en": "2011_agit_invest 1 -start",
-        "pt": "2011_agit_invest 1 -start",
-        "es": "2011_agit_invest 1: iniciar."
+        "en-US": "2011_agit_invest 1 -start",
+        "pt-BR": "2011_agit_invest 1 -start",
+        "es-ES": "2011_agit_invest 1: iniciar."
     },
     "WbFgBg": {
-        "en": "2011_agit_invest 2-stop",
-        "pt": "2011_agit_invest 2-stop",
-        "es": "2011_agit_invest 2: detener."
+        "en-US": "2011_agit_invest 2-stop",
+        "pt-BR": "2011_agit_invest 2-stop",
+        "es-ES": "2011_agit_invest 2: detener."
     },
     "WrFgBg": {
-        "en": "result",
-        "pt": "Resultado",
-        "es": "Resultado."
+        "en-US": "result",
+        "pt-BR": "Resultado",
+        "es-ES": "Resultado."
     },
     "W7FgBg": {
-        "en": "2011_agit_invest 0 -reset",
-        "pt": "2011_agit_invest 0 -reset",
-        "es": "2011_agit_invest 0: restablecer."
+        "en-US": "2011_agit_invest 0 -reset",
+        "pt-BR": "2011_agit_invest 0 -reset",
+        "es-ES": "2011_agit_invest 0: restablecer."
     }
 }

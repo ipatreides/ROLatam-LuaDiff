@@ -1,596 +1,596 @@
 {
     "oOTrBw": {
-        "ko": "에스트",
-        "en": "Est",
-        "pt": "Est Loveloy",
-        "es": "Est"
+        "ko-KR": "에스트",
+        "en-US": "Est",
+        "pt-BR": "Est Loveloy",
+        "es-ES": "Est"
     },
     "oeTrBw": {
-        "ko": "[에스트]\n난 건물 뒤편으로 조용히 이동할 거야.\n다른 대원들도 모두 신호를 기다리며 잠복 중이다.",
-        "en": "[Est]\nI’ll move quietly to the back of the building.\nThe other members are all lying in wait, watching for the signal.",
-        "pt": "[Est Loveloy]\nVou me mover em silêncio para os fundos.\nOs outros membros também estão todos escondidos, aguardando o sinal.",
-        "es": "[Est]\nMe moveré en silencio hacia la parte trasera del edificio.\nLos demás miembros también están al acecho, esperando la señal."
+        "ko-KR": "[에스트]\n난 건물 뒤편으로 조용히 이동할 거야.\n다른 대원들도 모두 신호를 기다리며 잠복 중이다.",
+        "en-US": "[Est]\nI’ll move quietly to the back of the building.\nThe other members are all lying in wait, watching for the signal.",
+        "pt-BR": "[Est Loveloy]\nVou me mover em silêncio para os fundos.\nOs outros membros também estão todos escondidos, aguardando o sinal.",
+        "es-ES": "[Est]\nMe moveré en silencio hacia la parte trasera del edificio.\nLos demás miembros también están al acecho, esperando la señal."
     },
     "ouTrBw": {
-        "ko": "[에스트]\n넌 혼자 순찰 나온 듯, 돌아다녀.\n우선은 저택 본관이야.\n거기서 별다른 걸 못찾는다면 다음 지점으로 이동하지.",
-        "en": "[Est]\nWander around like you’re out on patrol alone.\nFirst, the mansion’s main building.\nIf you can’t find anything there, move to the next point.",
-        "pt": "[Est Loveloy]\nAnde por aí, como se tivesse saído para patrulhar sem acompanhante.\nPrimeiro, até a mansão principal.\nSe não encontrar nada de especial lá, então se mova para o próximo ponto.",
-        "es": "[Est]\nDeambula como si hubieras salido a patrullar solo.\nPrimero, la mansión principal.\nSi no encuentras nada en particular allí, nos moveremos al siguiente punto."
+        "ko-KR": "[에스트]\n넌 혼자 순찰 나온 듯, 돌아다녀.\n우선은 저택 본관이야.\n거기서 별다른 걸 못찾는다면 다음 지점으로 이동하지.",
+        "en-US": "[Est]\nWander around like you’re out on patrol alone.\nFirst, the mansion’s main building.\nIf you can’t find anything there, move to the next point.",
+        "pt-BR": "[Est Loveloy]\nAnde por aí, como se tivesse saído para patrulhar sem acompanhante.\nPrimeiro, até a mansão principal.\nSe não encontrar nada de especial lá, então se mova para o próximo ponto.",
+        "es-ES": "[Est]\nDeambula como si hubieras salido a patrullar solo.\nPrimero, la mansión principal.\nSi no encuentras nada en particular allí, nos moveremos al siguiente punto."
     },
     "o+TrBw": {
-        "ko": "[에스트]\n작정하고 놈들이 기다리고 있었나보네.\n조용히 해치우자고.",
-        "en": "[Est]\nLooks like they were waiting for us.\nLet’s take them out quietly.",
-        "pt": "[Est Loveloy]\nParece que eles estavam preparados nos esperando.\nVamos acabar com eles em silêncio.",
-        "es": "[Est]\nParece que esos tipos estaban esperando, decididos.\nAcabemos con ellos en silencio."
+        "ko-KR": "[에스트]\n작정하고 놈들이 기다리고 있었나보네.\n조용히 해치우자고.",
+        "en-US": "[Est]\nLooks like they were waiting for us.\nLet’s take them out quietly.",
+        "pt-BR": "[Est Loveloy]\nParece que eles estavam preparados nos esperando.\nVamos acabar com eles em silêncio.",
+        "es-ES": "[Est]\nParece que esos tipos estaban esperando, decididos.\nAcabemos con ellos en silencio."
     },
     "pOTrBw": {
-        "ko": "에스트:어둡고 조용하고 좋군. 뭔가 일을 도모한다면 딱 지금이 좋아. 그렇지?",
-        "en": "Est:It’s dark, quiet, and perfect. If we’re going to make a move, now is the time. Right?",
-        "pt": "Est Loveloy: É o momento perfeito!",
-        "es": "Est: Oscuro, silencioso... perfecto. Si vamos a tramar algo, ahora es el momento ideal. ¿No?"
+        "ko-KR": "에스트:어둡고 조용하고 좋군. 뭔가 일을 도모한다면 딱 지금이 좋아. 그렇지?",
+        "en-US": "Est:It’s dark, quiet, and perfect. If we’re going to make a move, now is the time. Right?",
+        "pt-BR": "Est Loveloy: É o momento perfeito!",
+        "es-ES": "Est: Oscuro, silencioso... perfecto. Si vamos a tramar algo, ahora es el momento ideal. ¿No?"
     },
     "peTrBw": {
-        "ko": "에스트:엘레나가 나중에 합류한다고 말은 했지만 못 올 가능성이 커.",
-        "en": "Est:Elena said she’d join us later, but there’s a good chance she won’t make it.",
-        "pt": "Est Loveloy: Acho que Elena não vem agora.",
-        "es": "Est: Elena dijo que se uniría más tarde, pero es muy probable que no pueda venir."
+        "ko-KR": "에스트:엘레나가 나중에 합류한다고 말은 했지만 못 올 가능성이 커.",
+        "en-US": "Est:Elena said she’d join us later, but there’s a good chance she won’t make it.",
+        "pt-BR": "Est Loveloy: Acho que Elena não vem agora.",
+        "es-ES": "Est: Elena dijo que se uniría más tarde, pero es muy probable que no pueda venir."
     },
     "puTrBw": {
-        "ko": "에스트:그렇다해도 걱정할 필요는 없다. 다른 대원들이 신호를 기다리며 잠복 중이니까.",
-        "en": "Est:Even so, there’s no need to worry. The other members are lying in wait, watching for the signal.",
-        "pt": "Est Loveloy: Mas temos outros Rebeldes escondidos.",
-        "es": "Est: Aun así, no hay de qué preocuparse. Los demás miembros están al acecho, esperando la señal."
+        "ko-KR": "에스트:그렇다해도 걱정할 필요는 없다. 다른 대원들이 신호를 기다리며 잠복 중이니까.",
+        "en-US": "Est:Even so, there’s no need to worry. The other members are lying in wait, watching for the signal.",
+        "pt-BR": "Est Loveloy: Mas temos outros Rebeldes escondidos.",
+        "es-ES": "Est: Aun así, no hay de qué preocuparse. Los demás miembros están al acecho, esperando la señal."
     },
     "p+TrBw": {
-        "ko": "에스트:우리가 할 일은 순찰 돌 듯 평소처럼 다니면서 녀석들이 방심하게 하는거다.",
-        "en": "Est:What we need to do is walk around as usual, like we’re on patrol, and let them lower their guard.",
-        "pt": "Est Loveloy: Precisamos fingir que estamos desprevinidos.",
-        "es": "Est: Lo que debemos hacer es movernos como de costumbre, como si estuviéramos patrullando, para que bajen la guardia."
+        "ko-KR": "에스트:우리가 할 일은 순찰 돌 듯 평소처럼 다니면서 녀석들이 방심하게 하는거다.",
+        "en-US": "Est:What we need to do is walk around as usual, like we’re on patrol, and let them lower their guard.",
+        "pt-BR": "Est Loveloy: Precisamos fingir que estamos desprevinidos.",
+        "es-ES": "Est: Lo que debemos hacer es movernos como de costumbre, como si estuviéramos patrullando, para que bajen la guardia."
     },
     "qOTrBw": {
-        "ko": "에스트:너는 길따라 저택 본관 쪽으로 가 봐라. 나는 뒤편으로 몰래 따르지.",
-        "en": "Est:You go along the road toward the mansion’s main building. I’ll follow quietly from the back.",
-        "pt": "Est Loveloy: Vá para a Mansão.",
-        "es": "Est: Tú ve por el camino hacia la mansión principal. Yo te seguiré en secreto por detrás."
+        "ko-KR": "에스트:너는 길따라 저택 본관 쪽으로 가 봐라. 나는 뒤편으로 몰래 따르지.",
+        "en-US": "Est:You go along the road toward the mansion’s main building. I’ll follow quietly from the back.",
+        "pt-BR": "Est Loveloy: Vá para a Mansão.",
+        "es-ES": "Est: Tú ve por el camino hacia la mansión principal. Yo te seguiré en secreto por detrás."
     },
     "qeTrBw": {
-        "ko": "에스트:촌놈처럼 주위 두리번거리지 말고. 경계심따위 없는 척. 알았지?",
-        "en": "Est:Don’t look around like someone who doesn't belong. Act like you’re not on guard at all. Got it?",
-        "pt": "Est Loveloy: Deixe que pensem que você está só.",
-        "es": "Est: No mires a tu alrededor como un palurdo. Finge que no tienes ninguna cautela. ¿Entendido?"
+        "ko-KR": "에스트:촌놈처럼 주위 두리번거리지 말고. 경계심따위 없는 척. 알았지?",
+        "en-US": "Est:Don’t look around like someone who doesn't belong. Act like you’re not on guard at all. Got it?",
+        "pt-BR": "Est Loveloy: Deixe que pensem que você está só.",
+        "es-ES": "Est: No mires a tu alrededor como un palurdo. Finge que no tienes ninguna cautela. ¿Entendido?"
     },
     "quTrBw": {
-        "ko": "에스트:자, 출발해.",
-        "en": "Est:All right, let’s go.",
-        "pt": "Est Loveloy: Vamos agora!",
-        "es": "Est: Bien, en marcha."
+        "ko-KR": "에스트:자, 출발해.",
+        "en-US": "Est:All right, let’s go.",
+        "pt-BR": "Est Loveloy: Vamos agora!",
+        "es-ES": "Est: Bien, en marcha."
     },
     "q+TrBw": {
-        "ko": "하트헌터",
-        "en": "Heart Hunter",
-        "pt": "Caça-Coração",
-        "es": "Heart Hunter"
+        "ko-KR": "하트헌터",
+        "en-US": "Heart Hunter",
+        "pt-BR": "Caça-Coração",
+        "es-ES": "Heart Hunter"
     },
     "rOTrBw": {
-        "ko": "하트헌터:얌전히 잡히거나 돌아가 주셔야겠어.",
-        "en": "Heart Hunter:You’ll have to come quietly, or go back.",
-        "pt": "Caça-Coração: Você vai ter que se render!",
-        "es": "Heart Hunter: Tendrán que dejarse atrapar dócilmente o regresar."
+        "ko-KR": "하트헌터:얌전히 잡히거나 돌아가 주셔야겠어.",
+        "en-US": "Heart Hunter:You’ll have to come quietly, or go back.",
+        "pt-BR": "Caça-Coração: Você vai ter que se render!",
+        "es-ES": "Heart Hunter: Tendrán que dejarse atrapar dócilmente o regresar."
     },
     "reTrBw": {
-        "ko": "하트헌터:물론 있던 곳으로 돌려보내 준다는 뜻은 아니야.",
-        "en": "Heart Hunter:Of course, I don’t mean I’ll send you back to where you were.",
-        "pt": "Caça-Coração: Ou isso, ou vou acabar com você!",
-        "es": "Heart Hunter: Claro, no quiero decir que los vaya a devolver a donde estaban."
+        "ko-KR": "하트헌터:물론 있던 곳으로 돌려보내 준다는 뜻은 아니야.",
+        "en-US": "Heart Hunter:Of course, I don’t mean I’ll send you back to where you were.",
+        "pt-BR": "Caça-Coração: Ou isso, ou vou acabar com você!",
+        "es-ES": "Heart Hunter: Claro, no quiero decir que los vaya a devolver a donde estaban."
     },
     "ruTrBw": {
-        "ko": "하트헌터 척후병",
-        "en": "Heart Hunter",
-        "pt": "Intruso",
-        "es": "Cazador de corazones"
+        "ko-KR": "하트헌터 척후병",
+        "en-US": "Heart Hunter",
+        "pt-BR": "Intruso",
+        "es-ES": "Cazador de corazones"
     },
     "r+TrBw": {
-        "ko": "[에스트]\n우리가 함정을 판 건지, 기회를 준 건지 모르겠군.\n엘류미나에게 받았다는 추적기 작동 시켜 봐.",
-        "en": "[Est]\nI can’t tell whether we set a trap, or gave them an opportunity.\nTry activating the Tracker you got from Eliumina.",
-        "pt": "[Est Loveloy]\nNão sei se armamos uma armadilha ou se demos uma oportunidade.\nAtive o Radar da Elyumina.",
-        "es": "[Est]\nNo sé si les tendimos una trampa o si les dimos una oportunidad.\nActiva el Rastreador que dices que recibiste de Eliumina."
+        "ko-KR": "[에스트]\n우리가 함정을 판 건지, 기회를 준 건지 모르겠군.\n엘류미나에게 받았다는 추적기 작동 시켜 봐.",
+        "en-US": "[Est]\nI can’t tell whether we set a trap, or gave them an opportunity.\nTry activating the Tracker you got from Eliumina.",
+        "pt-BR": "[Est Loveloy]\nNão sei se armamos uma armadilha ou se demos uma oportunidade.\nAtive o Radar da Elyumina.",
+        "es-ES": "[Est]\nNo sé si les tendimos una trampa o si les dimos una oportunidad.\nActiva el Rastreador que dices que recibiste de Eliumina."
     },
     "sOTrBw": {
-        "ko": "추적기: 위대한 나 엘류미나의 직감대로라면.. 뚜뚯뚜뜌두뚜~",
-        "en": "Tracker: If it’s as my, the great Eliumina’s intuition says... Ddoo-ddeut-ddoo-ddyoo-doo-ddeut~",
-        "pt": "Radar: O RADAR FOI ATIVADO!! BÉ BÉ BÉ BÉ BÉ BÉ BÉ BÉ BÉ ~",
-        "es": "Rastreador: Si es como lo intuye el gran yo, Eliumina... tutut-tutudutu~"
+        "ko-KR": "추적기: 위대한 나 엘류미나의 직감대로라면.. 뚜뚯뚜뜌두뚜~",
+        "en-US": "Tracker: If it’s as my, the great Eliumina’s intuition says... Ddoo-ddeut-ddoo-ddyoo-doo-ddeut~",
+        "pt-BR": "Radar: O RADAR FOI ATIVADO!! BÉ BÉ BÉ BÉ BÉ BÉ BÉ BÉ BÉ ~",
+        "es-ES": "Rastreador: Si es como lo intuye el gran yo, Eliumina... tutut-tutudutu~"
     },
     "seTrBw": {
-        "ko": "추적기: 거기냐! 삐요옹!!",
-        "en": "Tracker: There! Ppiyooong!!",
-        "pt": "Radar: É POR ALI!!!! BÉ BÉ BÉ BÉ BÉ~",
-        "es": "Rastreador: ¡¿Es ahí?! ¡Piyooong!!"
+        "ko-KR": "추적기: 거기냐! 삐요옹!!",
+        "en-US": "Tracker: There! Ppiyooong!!",
+        "pt-BR": "Radar: É POR ALI!!!! BÉ BÉ BÉ BÉ BÉ~",
+        "es-ES": "Rastreador: ¡¿Es ahí?! ¡Piyooong!!"
     },
     "suTrBw": {
-        "ko": "[에스트]\n요란한 녀석이군.\n우선 먼저 이동하겠나?\n나는 잠깐 다녀올 곳이 있어.",
-        "en": "[Est]\nWhat a noisy thing.\nWill you move on first?\nI have somewhere to go for a moment.",
-        "pt": "[Est Loveloy]\nQue diabo é isso?\nVocê vai lá primeiro?\nTenho um lugar para ir antes.",
-        "es": "[Est]\nQué escandaloso.\n¿Te moverás primero?\nTengo un lugar al que debo ir un momento."
+        "ko-KR": "[에스트]\n요란한 녀석이군.\n우선 먼저 이동하겠나?\n나는 잠깐 다녀올 곳이 있어.",
+        "en-US": "[Est]\nWhat a noisy thing.\nWill you move on first?\nI have somewhere to go for a moment.",
+        "pt-BR": "[Est Loveloy]\nQue diabo é isso?\nVocê vai lá primeiro?\nTenho um lugar para ir antes.",
+        "es-ES": "[Est]\nQué escandaloso.\n¿Te moverás primero?\nTengo un lugar al que debo ir un momento."
     },
     "s+TrBw": {
-        "ko": "[에스트]\n금방 합류하도록 하지.",
-        "en": "[Est]\nI’ll join you soon.",
-        "pt": "[Est Loveloy]\nVou me juntar a você em breve.",
-        "es": "[Est]\nMe reuniré contigo enseguida."
+        "ko-KR": "[에스트]\n금방 합류하도록 하지.",
+        "en-US": "[Est]\nI’ll join you soon.",
+        "pt-BR": "[Est Loveloy]\nVou me juntar a você em breve.",
+        "es-ES": "[Est]\nMe reuniré contigo enseguida."
     },
     "tOTrBw": {
-        "ko": "[에스트]\n곧 합류하도록 하지.",
-        "en": "[Est]\nI will have you join us soon.",
-        "pt": "[Est Loveloy]\nVou me juntar a vocês em breve.",
-        "es": "[Est]\nMe uniré en breve."
+        "ko-KR": "[에스트]\n곧 합류하도록 하지.",
+        "en-US": "[Est]\nI will have you join us soon.",
+        "pt-BR": "[Est Loveloy]\nVou me juntar a vocês em breve.",
+        "es-ES": "[Est]\nMe uniré en breve."
     },
     "teTrBw": {
-        "ko": "[에스트]\n미끼를 좀 더 던지는게 나을거 같아서 자동인형의 협조를 구하러 갔는데,\n마침 아몬드가 반드시 밖에 나가서 볼 일이 있다고 하더군.",
-        "en": "[Est]\nI thought it would be better to throw out a bit more bait, so I went to ask the automatron doll for help,\nand just then, Almond said there was something they absolutely had to go out and see.",
-        "pt": "[Est Loveloy]\nTive a ideia de lançar uma isca, então pedi ajuda de uma autômata.\nE por sorte, a Amêndoa disse que precisava sair para resolver algo.",
-        "es": "[Est]\nPensé que sería mejor lanzar un poco más de cebo, así que fui a pedir la cooperación de la muñeca automática,\npero justo entonces Almendra dijo que tenía que salir a ver algo."
+        "ko-KR": "[에스트]\n미끼를 좀 더 던지는게 나을거 같아서 자동인형의 협조를 구하러 갔는데,\n마침 아몬드가 반드시 밖에 나가서 볼 일이 있다고 하더군.",
+        "en-US": "[Est]\nI thought it would be better to throw out a bit more bait, so I went to ask the automatron doll for help,\nand just then, Almond said there was something they absolutely had to go out and see.",
+        "pt-BR": "[Est Loveloy]\nTive a ideia de lançar uma isca, então pedi ajuda de uma autômata.\nE por sorte, a Amêndoa disse que precisava sair para resolver algo.",
+        "es-ES": "[Est]\nPensé que sería mejor lanzar un poco más de cebo, así que fui a pedir la cooperación de la muñeca automática,\npero justo entonces Almendra dijo que tenía que salir a ver algo."
     },
     "tuTrBw": {
-        "ko": "[아몬드]\n중계기가 또 말썽이네. 그래서 고쳐야해요.\n중계기는 침입자들이 가장 좋아하는 목표니까 그냥 둘 수가 없네?",
-        "en": "[Almond]\nThe Relay Device is acting up again. So I need to fix it.\nThe Relay Device is the intruders' favorite target, so we can't just leave it alone, can we?",
-        "pt": "[Amêndoa]\nO Transmissor está dando problema de novo. Então preciso consertar.\nO Transmissor é o alvo favorito dos invasores, então não dá para deixar assim, não é?",
-        "es": "[Almendra]\nDispositivo de Retransmisión vuelve a estar dando problemas. Así que tengo que arreglarlo.\nDispositivo de Retransmisión es el objetivo favorito de los intrusos, así que no podemos dejarlo así, ¿verdad?"
+        "ko-KR": "[아몬드]\n중계기가 또 말썽이네. 그래서 고쳐야해요.\n중계기는 침입자들이 가장 좋아하는 목표니까 그냥 둘 수가 없네?",
+        "en-US": "[Almond]\nThe Relay Device is acting up again. So I need to fix it.\nThe Relay Device is the intruders' favorite target, so we can't just leave it alone, can we?",
+        "pt-BR": "[Amêndoa]\nO Transmissor está dando problema de novo. Então preciso consertar.\nO Transmissor é o alvo favorito dos invasores, então não dá para deixar assim, não é?",
+        "es-ES": "[Almendra]\nDispositivo de Retransmisión vuelve a estar dando problemas. Así que tengo que arreglarlo.\nDispositivo de Retransmisión es el objetivo favorito de los intrusos, así que no podemos dejarlo así, ¿verdad?"
     },
     "t+TrBw": {
-        "ko": "[에스트]\n그런 연유로 여기 아몬드가 중계기를 점검하는 동안 호위를 부탁해.\n다른 루트는 내가 돌아보며 찾을테니까.",
-        "en": "[Est]\nFor that reason, I need you to escort Almond here while they inspect the Relay Device.\nI'll look around for another route.",
-        "pt": "[Est Loveloy]\nPor isso, enquanto Amêndoa verifica o Transmissor, peço que faça a escolta.\nEu vou procurar por outras rotas enquanto isso.",
-        "es": "[Est]\nPor ese motivo, te pido que escoltes a Almendra mientras revisa el Dispositivo de Retransmisión aquí.\nYo buscaré mientras reviso otras rutas."
+        "ko-KR": "[에스트]\n그런 연유로 여기 아몬드가 중계기를 점검하는 동안 호위를 부탁해.\n다른 루트는 내가 돌아보며 찾을테니까.",
+        "en-US": "[Est]\nFor that reason, I need you to escort Almond here while they inspect the Relay Device.\nI'll look around for another route.",
+        "pt-BR": "[Est Loveloy]\nPor isso, enquanto Amêndoa verifica o Transmissor, peço que faça a escolta.\nEu vou procurar por outras rotas enquanto isso.",
+        "es-ES": "[Est]\nPor ese motivo, te pido que escoltes a Almendra mientras revisa el Dispositivo de Retransmisión aquí.\nYo buscaré mientras reviso otras rutas."
     },
     "uOTrBw": {
-        "ko": "[아몬드]\n준비가 되면 같이 출발해요.",
-        "en": "[Almond]\nWhen you're ready, let's head out together.",
-        "pt": "[Amêndoa]\nQuando estiver com tudo pronto, vamos partir juntos.",
-        "es": "[Almendra]\nCuando estés listo, salgamos juntos."
+        "ko-KR": "[아몬드]\n준비가 되면 같이 출발해요.",
+        "en-US": "[Almond]\nWhen you're ready, let's head out together.",
+        "pt-BR": "[Amêndoa]\nQuando estiver com tudo pronto, vamos partir juntos.",
+        "es-ES": "[Almendra]\nCuando estés listo, salgamos juntos."
     },
     "ueTrBw": {
-        "ko": "[에스트]\n이동할 준비가 되었다면 아몬드와 함께 출발해.",
-        "en": "[Est]\nIf you're ready to move, depart with Almond.",
-        "pt": "[Est Loveloy]\nSe estiver com tudo pronto, vá junto com Amêndoa.",
-        "es": "[Est]\nSi estás listo para moverte, parte junto con Almendra."
+        "ko-KR": "[에스트]\n이동할 준비가 되었다면 아몬드와 함께 출발해.",
+        "en-US": "[Est]\nIf you're ready to move, depart with Almond.",
+        "pt-BR": "[Est Loveloy]\nSe estiver com tudo pronto, vá junto com Amêndoa.",
+        "es-ES": "[Est]\nSi estás listo para moverte, parte junto con Almendra."
     },
     "uuTrBw": {
-        "ko": "아몬드",
-        "en": "Beta Almond",
-        "pt": "Beta Amêndoa",
-        "es": "Beta Almendra"
+        "ko-KR": "아몬드",
+        "en-US": "Beta Almond",
+        "pt-BR": "Beta Amêndoa",
+        "es-ES": "Beta Almendra"
     },
     "u+TrBw": {
-        "ko": "[아몬드]\n오늘은 모두 저택 안에 있기로 했는데, 중요한 일이 생겼네. 그래서 에스트 님과 함께 나왔어요.",
-        "en": "[Almond]\nWe were all going to stay inside the manor today, but something important came up. So I came out with Sir Est.",
-        "pt": "[Amêndoa]\nHoje era para todos ficarem dentro da mansão, mas surgiu algo importante. Por isso saí junto com a comandante Est Loveloy.",
-        "es": "[Almendra]\nHoy se suponía que todos nos quedaríamos dentro de la mansión, pero surgió algo importante. Por eso salí junto con Est."
+        "ko-KR": "[아몬드]\n오늘은 모두 저택 안에 있기로 했는데, 중요한 일이 생겼네. 그래서 에스트 님과 함께 나왔어요.",
+        "en-US": "[Almond]\nWe were all going to stay inside the manor today, but something important came up. So I came out with Sir Est.",
+        "pt-BR": "[Amêndoa]\nHoje era para todos ficarem dentro da mansão, mas surgiu algo importante. Por isso saí junto com a comandante Est Loveloy.",
+        "es-ES": "[Almendra]\nHoy se suponía que todos nos quedaríamos dentro de la mansión, pero surgió algo importante. Por eso salí junto con Est."
     },
     "vOTrBw": {
-        "ko": "그럼 이동할게요.",
-        "en": "Then I'll move.",
-        "pt": "Bom, vamos andando.",
-        "es": "Entonces me moveré."
+        "ko-KR": "그럼 이동할게요.",
+        "en-US": "Then I'll move.",
+        "pt-BR": "Bom, vamos andando.",
+        "es-ES": "Entonces me moveré."
     },
     "veTrBw": {
-        "ko": "추적기: 삐요오옹! 거기냣!!",
-        "en": "Tracker: Piiiyooong! Over there, nyaat!!",
-        "pt": "Radar: BÉ!!! BÉ!! BÉ!! BÉ!! BÉ!! BÉ!!! É ALI!!",
-        "es": "Rastreador: ¡Piiiyoooong! ¡¡Ahí, miau!!"
+        "ko-KR": "추적기: 삐요오옹! 거기냣!!",
+        "en-US": "Tracker: Piiiyooong! Over there, nyaat!!",
+        "pt-BR": "Radar: BÉ!!! BÉ!! BÉ!! BÉ!! BÉ!! BÉ!!! É ALI!!",
+        "es-ES": "Rastreador: ¡Piiiyoooong! ¡¡Ahí, miau!!"
     },
     "vuTrBw": {
-        "ko": "아하하하 요란하다.",
-        "en": "Hahahaha, how noisy.",
-        "pt": "Ahahahah, que radar barulhento.",
-        "es": "Jajajaja, qué escándalo."
+        "ko-KR": "아하하하 요란하다.",
+        "en-US": "Hahahaha, how noisy.",
+        "pt-BR": "Ahahahah, que radar barulhento.",
+        "es-ES": "Jajajaja, qué escándalo."
     },
     "v+TrBw": {
-        "ko": "궁금하니까 빨리 가야겠네?",
-        "en": "I'm curious, so we should hurry, shouldn't we?",
-        "pt": "Desculpe a curiosidade, temos que correr, não é?",
-        "es": "Tengo curiosidad, ¿así que deberíamos ir rápido?"
+        "ko-KR": "궁금하니까 빨리 가야겠네?",
+        "en-US": "I'm curious, so we should hurry, shouldn't we?",
+        "pt-BR": "Desculpe a curiosidade, temos que correr, não é?",
+        "es-ES": "Tengo curiosidad, ¿así que deberíamos ir rápido?"
     },
     "wOTrBw": {
-        "ko": "조심하세요!",
-        "en": "Be careful!",
-        "pt": "Tenha cuidado!",
-        "es": "¡Ten cuidado!"
+        "ko-KR": "조심하세요!",
+        "en-US": "Be careful!",
+        "pt-BR": "Tenha cuidado!",
+        "es-ES": "¡Ten cuidado!"
     },
     "weTrBw": {
-        "ko": "중계기를 확인할게요.",
-        "en": "I'll check the Relay Device.",
-        "pt": "Vou verificar o Transmissor.",
-        "es": "Revisaré el Dispositivo de Retransmisión."
+        "ko-KR": "중계기를 확인할게요.",
+        "en-US": "I'll check the Relay Device.",
+        "pt-BR": "Vou verificar o Transmissor.",
+        "es-ES": "Revisaré el Dispositivo de Retransmisión."
     },
     "wuTrBw": {
-        "ko": "추적기: 캬 캬캬캬캬캬컄! 범인은 놓치지 않아! 내 레이더에 들어왔어! 저쪽이다!",
-        "en": "Tracker: Kya kyakyakyakyakyakyak! I won't let the culprit get away! It's on my radar! That way!",
-        "pt": "Radar: BÉ!!! BÉ!! NÃO VOU DEIXAR ESCAPAR!! ENTROU NO MEU RADAR!! É PARA LÁ!!",
-        "es": "Rastreador: ¡Kya kyakyakyakyakyakyak! ¡No dejaré escapar al culpable! ¡Entró en mi radar! ¡Es por allí!"
+        "ko-KR": "추적기: 캬 캬캬캬캬캬컄! 범인은 놓치지 않아! 내 레이더에 들어왔어! 저쪽이다!",
+        "en-US": "Tracker: Kya kyakyakyakyakyakyak! I won't let the culprit get away! It's on my radar! That way!",
+        "pt-BR": "Radar: BÉ!!! BÉ!! NÃO VOU DEIXAR ESCAPAR!! ENTROU NO MEU RADAR!! É PARA LÁ!!",
+        "es-ES": "Rastreador: ¡Kya kyakyakyakyakyakyak! ¡No dejaré escapar al culpable! ¡Entró en mi radar! ¡Es por allí!"
     },
     "w+TrBw": {
-        "ko": "또 침입자가 나타났네! 어쩐지 아몬드는 신나기 시작해요~!",
-        "en": "An intruder showed up again! Somehow, Almond is starting to get excited~!",
-        "pt": "Outro invasor! Parece que Amêndoa não está com medo~!",
-        "es": "¡Ha aparecido otro intruso! ¡Por alguna razón, Almendra está empezando a emocionarse~!"
+        "ko-KR": "또 침입자가 나타났네! 어쩐지 아몬드는 신나기 시작해요~!",
+        "en-US": "An intruder showed up again! Somehow, Almond is starting to get excited~!",
+        "pt-BR": "Outro invasor! Parece que Amêndoa não está com medo~!",
+        "es-ES": "¡Ha aparecido otro intruso! ¡Por alguna razón, Almendra está empezando a emocionarse~!"
     },
     "xOTrBw": {
-        "ko": "여기 얌전히 있을테니 조심하세요?",
-        "en": "I'll stay here quietly, so be careful, okay?",
-        "pt": "Vou ficar quietinha aqui, então tenha cuidado, está bem?",
-        "es": "Me quedaré aquí tranquilamente, así que ten cuidado, ¿sí?"
+        "ko-KR": "여기 얌전히 있을테니 조심하세요?",
+        "en-US": "I'll stay here quietly, so be careful, okay?",
+        "pt-BR": "Vou ficar quietinha aqui, então tenha cuidado, está bem?",
+        "es-ES": "Me quedaré aquí tranquilamente, así que ten cuidado, ¿sí?"
     },
     "xeTrBw": {
-        "ko": "손님, 무사하네? 그럼 계속 가도 되겠네요.",
-        "en": "Guest, you're safe? Then we can keep going.",
-        "pt": "Viajante, você está bem? Se sim, podemos continuar.",
-        "es": "Señor, ¿estás a salvo? Entonces podremos seguir."
+        "ko-KR": "손님, 무사하네? 그럼 계속 가도 되겠네요.",
+        "en-US": "Guest, you're safe? Then we can keep going.",
+        "pt-BR": "Viajante, você está bem? Se sim, podemos continuar.",
+        "es-ES": "Señor, ¿estás a salvo? Entonces podremos seguir."
     },
     "xuTrBw": {
-        "ko": "에스트 님과 이야기 해봐요? 기다리고 있었던 것 같네.",
-        "en": "Shall we talk to Sir Est? It seems like he was waiting.",
-        "pt": "Que tal falar com a comandante Est Loveloy? Parece que ela estava esperando.",
-        "es": "¿Hablamos con Est? Parece que estaba esperando."
+        "ko-KR": "에스트 님과 이야기 해봐요? 기다리고 있었던 것 같네.",
+        "en-US": "Shall we talk to Sir Est? It seems like he was waiting.",
+        "pt-BR": "Que tal falar com a comandante Est Loveloy? Parece que ela estava esperando.",
+        "es-ES": "¿Hablamos con Est? Parece que estaba esperando."
     },
     "x+TrBw": {
-        "ko": "저쪽이에요.",
-        "en": "It's over there.",
-        "pt": "É para lá.",
-        "es": "Es por allí."
+        "ko-KR": "저쪽이에요.",
+        "en-US": "It's over there.",
+        "pt-BR": "É para lá.",
+        "es-ES": "Es por allí."
     },
     "yOTrBw": {
-        "ko": "자주 해킹을 당하는 중계기를 보러 가요.",
-        "en": "Let’s go check on the Relay Device that gets hacked so often.",
-        "pt": "Vamos ver aquele Transmissor que é hackeado com frequência.",
-        "es": "Vamos a ver el Dispositivo de Retransmisión que suele ser hackeado a menudo."
+        "ko-KR": "자주 해킹을 당하는 중계기를 보러 가요.",
+        "en-US": "Let’s go check on the Relay Device that gets hacked so often.",
+        "pt-BR": "Vamos ver aquele Transmissor que é hackeado com frequência.",
+        "es-ES": "Vamos a ver el Dispositivo de Retransmisión que suele ser hackeado a menudo."
     },
     "yeTrBw": {
-        "ko": "응? 손님이 가지고 계신 것 말을 하네? 꺼내서 아몬드 보여주세요.",
-        "en": "Huh? You mean the one you have, right? Take it out and show me the Almond.",
-        "pt": "Hã? Você está falando do que você tá carregando? Por favor, tire da bolsa e me mostre.",
-        "es": "¿Eh? ¿Te refieres a lo que llevas contigo? Sácalo y muéstrame el Almendra."
+        "ko-KR": "응? 손님이 가지고 계신 것 말을 하네? 꺼내서 아몬드 보여주세요.",
+        "en-US": "Huh? You mean the one you have, right? Take it out and show me the Almond.",
+        "pt-BR": "Hã? Você está falando do que você tá carregando? Por favor, tire da bolsa e me mostre.",
+        "es-ES": "¿Eh? ¿Te refieres a lo que llevas contigo? Sácalo y muéstrame el Almendra."
     },
     "yuTrBw": {
-        "ko": "손님, 침입자가 있어요!",
-        "en": "Sir/Ma’am, there’s an intruder!",
-        "pt": "Viajante, há um intruso!",
-        "es": "¡Señor, hay un intruso!"
+        "ko-KR": "손님, 침입자가 있어요!",
+        "en-US": "Sir/Ma’am, there’s an intruder!",
+        "pt-BR": "Viajante, há um intruso!",
+        "es-ES": "¡Señor, hay un intruso!"
     },
     "y+TrBw": {
-        "ko": "... 신호 확인.",
-        "en": "... Signal confirmed.",
-        "pt": "... Verificando o sinal.",
-        "es": "... Confirmando señal."
+        "ko-KR": "... 신호 확인.",
+        "en-US": "... Signal confirmed.",
+        "pt-BR": "... Verificando o sinal.",
+        "es-ES": "... Confirmando señal."
     },
     "zOTrBw": {
-        "ko": "...해킹 채널을 확인했습니다.",
-        "en": "... Hacking channel confirmed.",
-        "pt": "... Verifiquei o canal hackeado.",
-        "es": "...Se ha confirmado el canal de hackeo."
+        "ko-KR": "...해킹 채널을 확인했습니다.",
+        "en-US": "... Hacking channel confirmed.",
+        "pt-BR": "... Verifiquei o canal hackeado.",
+        "es-ES": "...Se ha confirmado el canal de hackeo."
     },
     "zeTrBw": {
-        "ko": "...복구 중...",
-        "en": "... Restoring...",
-        "pt": "... Restaurando...",
-        "es": "...En recuperación..."
+        "ko-KR": "...복구 중...",
+        "en-US": "... Restoring...",
+        "pt-BR": "... Restaurando...",
+        "es-ES": "...En recuperación..."
     },
     "zuTrBw": {
-        "ko": "...복구 중..84%",
-        "en": "... Restoring..84%",
-        "pt": "... Restaurando...84%",
-        "es": "...En recuperación..84%"
+        "ko-KR": "...복구 중..84%",
+        "en-US": "... Restoring..84%",
+        "pt-BR": "... Restaurando...84%",
+        "es-ES": "...En recuperación..84%"
     },
     "z+TrBw": {
-        "ko": "...복구 완료 되었습니다.",
-        "en": "... Restoration complete.",
-        "pt": "... Restauração concluída.",
-        "es": "...La recuperación se ha completado."
+        "ko-KR": "...복구 완료 되었습니다.",
+        "en-US": "... Restoration complete.",
+        "pt-BR": "... Restauração concluída.",
+        "es-ES": "...La recuperación se ha completado."
     },
     "0OTrBw": {
-        "ko": "그럼 다음 중계기로 갈게요?",
-        "en": "Then shall we go to the next Relay Device?",
-        "pt": "Então, vamos para o próximo Transmissor?",
-        "es": "Entonces, ¿vamos al siguiente Dispositivo de Retransmisión?"
+        "ko-KR": "그럼 다음 중계기로 갈게요?",
+        "en-US": "Then shall we go to the next Relay Device?",
+        "pt-BR": "Então, vamos para o próximo Transmissor?",
+        "es-ES": "Entonces, ¿vamos al siguiente Dispositivo de Retransmisión?"
     },
     "0eTrBw": {
-        "ko": "손님, 아몬드 좋아해? 아몬드 좋아하시던 손님이 내 이름을 지어줬네. 어울려요?",
-        "en": "Adventurer, do you like Almond? A customer who liked Almond gave me my name. Does it suit me?",
-        "pt": "Viajante, você gosta de Amêndoas? Um garoto que gostava de Amêndoas me deu este nome. Combina comigo?",
-        "es": "Señor, ¿te gusta el Almendra? Un señor al que le gustaba el Almendra me puso mi nombre. ¿Me queda bien?"
+        "ko-KR": "손님, 아몬드 좋아해? 아몬드 좋아하시던 손님이 내 이름을 지어줬네. 어울려요?",
+        "en-US": "Adventurer, do you like Almond? A customer who liked Almond gave me my name. Does it suit me?",
+        "pt-BR": "Viajante, você gosta de Amêndoas? Um garoto que gostava de Amêndoas me deu este nome. Combina comigo?",
+        "es-ES": "Señor, ¿te gusta el Almendra? Un señor al que le gustaba el Almendra me puso mi nombre. ¿Me queda bien?"
     },
     "0uTrBw": {
-        "ko": "아까 그 아이, 전에도 본 적 있어요.",
-        "en": "That child from earlier, I’ve seen them before.",
-        "pt": "É um garoto na biblioteca, eu já o vi antes.",
-        "es": "A ese niño de antes, ya lo había visto antes."
+        "ko-KR": "아까 그 아이, 전에도 본 적 있어요.",
+        "en-US": "That child from earlier, I’ve seen them before.",
+        "pt-BR": "É um garoto na biblioteca, eu já o vi antes.",
+        "es-ES": "A ese niño de antes, ya lo había visto antes."
     },
     "0+TrBw": {
-        "ko": "하지만 정말 도망을 잘 쳐서, 제대로 본 게 처음이네~?",
-        "en": "But they really run away well, so this is the first time I’ve gotten a good look~?",
-        "pt": "Mas ele é tão bom em fugir, será que um dia eu o verei novamente~?",
-        "es": "Pero de verdad se escapa muy bien, así que es la primera vez que lo veo bien~"
+        "ko-KR": "하지만 정말 도망을 잘 쳐서, 제대로 본 게 처음이네~?",
+        "en-US": "But they really run away well, so this is the first time I’ve gotten a good look~?",
+        "pt-BR": "Mas ele é tão bom em fugir, será que um dia eu o verei novamente~?",
+        "es-ES": "Pero de verdad se escapa muy bien, así que es la primera vez que lo veo bien~"
     },
     "1OTrBw": {
-        "ko": "로스트밸리의 피타야는 귀엽고, 맛있다고 하네? 아몬드는 먹어본 적 없지만?",
-        "en": "They say the Pitaya in Lost Valley is cute and tasty? I’ve never tried Almond, though.",
-        "pt": "Dizem que as pitayas da Estufa são gostosas, viu? Você deveria experimentar.",
-        "es": "Dicen que el Pitaya de Lost Valley es lindo y delicioso, ¿no? Aunque nunca he probado el Almendra."
+        "ko-KR": "로스트밸리의 피타야는 귀엽고, 맛있다고 하네? 아몬드는 먹어본 적 없지만?",
+        "en-US": "They say the Pitaya in Lost Valley is cute and tasty? I’ve never tried Almond, though.",
+        "pt-BR": "Dizem que as pitayas da Estufa são gostosas, viu? Você deveria experimentar.",
+        "es-ES": "Dicen que el Pitaya de Lost Valley es lindo y delicioso, ¿no? Aunque nunca he probado el Almendra."
     },
     "1eTrBw": {
-        "ko": "이쪽이에요.",
-        "en": "This way.",
-        "pt": "É por aqui.",
-        "es": "Por aquí."
+        "ko-KR": "이쪽이에요.",
+        "en-US": "This way.",
+        "pt-BR": "É por aqui.",
+        "es-ES": "Por aquí."
     },
     "1uTrBw": {
-        "ko": "이렇게 편하게 다니는 것 오랜만이네~",
-        "en": "It’s been a long time since I’ve been able to get around this comfortably~",
-        "pt": "Faz tempo que não ando assim, tranquila. la la la~",
-        "es": "Hacía mucho que no podía andar tan a gusto~"
+        "ko-KR": "이렇게 편하게 다니는 것 오랜만이네~",
+        "en-US": "It’s been a long time since I’ve been able to get around this comfortably~",
+        "pt-BR": "Faz tempo que não ando assim, tranquila. la la la~",
+        "es-ES": "Hacía mucho que no podía andar tan a gusto~"
     },
     "1+TrBw": {
-        "ko": "손님, 아까 그 시끄러운 것 또 꼬물거리네? 잠깐 확인해요.",
-        "en": "Sir/Ma’am, is that noisy thing from earlier wriggling again? Let’s check for a moment.",
-        "pt": "Viajante, e aquele radar escandaloso? Espere, deixe-me restaurar.",
-        "es": "Señor, ¿eso ruidoso de antes vuelve a retorcerse? Revisémoslo un momento."
+        "ko-KR": "손님, 아까 그 시끄러운 것 또 꼬물거리네? 잠깐 확인해요.",
+        "en-US": "Sir/Ma’am, is that noisy thing from earlier wriggling again? Let’s check for a moment.",
+        "pt-BR": "Viajante, e aquele radar escandaloso? Espere, deixe-me restaurar.",
+        "es-ES": "Señor, ¿eso ruidoso de antes vuelve a retorcerse? Revisémoslo un momento."
     },
     "2OTrBw": {
-        "ko": "...복구 중..72%",
-        "en": "... Restoring..72%",
-        "pt": "... Restaurando...72%",
-        "es": "...En recuperación..72%"
+        "ko-KR": "...복구 중..72%",
+        "en-US": "... Restoring..72%",
+        "pt-BR": "... Restaurando...72%",
+        "es-ES": "...En recuperación..72%"
     },
     "2eTrBw": {
-        "ko": "그럼 다음 중계기로 갈게요~",
-        "en": "Then let’s go to the next Relay Device~",
-        "pt": "Então, vamos para o próximo Transmissor~",
-        "es": "Entonces, vamos al siguiente Dispositivo de Retransmisión~"
+        "ko-KR": "그럼 다음 중계기로 갈게요~",
+        "en-US": "Then let’s go to the next Relay Device~",
+        "pt-BR": "Então, vamos para o próximo Transmissor~",
+        "es-ES": "Entonces, vamos al siguiente Dispositivo de Retransmisión~"
     },
     "2uTrBw": {
-        "ko": "아까 그 아이죠? 침입자인데 이상하네. 아몬드와 비슷한 느낌 ….",
-        "en": "It’s that child from earlier, right? They’re an intruder, but it’s strange. It feels similar to Almond ….",
-        "pt": "Aquele garoto na biblioteca? Não parece ser um estranho. Sinto que já o vi antes....",
-        "es": "¿Es ese niño de antes? Es un intruso, pero es extraño. Tiene una sensación parecida a la del Almendra…."
+        "ko-KR": "아까 그 아이죠? 침입자인데 이상하네. 아몬드와 비슷한 느낌 ….",
+        "en-US": "It’s that child from earlier, right? They’re an intruder, but it’s strange. It feels similar to Almond ….",
+        "pt-BR": "Aquele garoto na biblioteca? Não parece ser um estranho. Sinto que já o vi antes....",
+        "es-ES": "¿Es ese niño de antes? Es un intruso, pero es extraño. Tiene una sensación parecida a la del Almendra…."
     },
     "2+TrBw": {
-        "ko": "조금 빨리 갈까요? 저 쪽에 소리가 들리네….",
-        "en": "Shall we go a little faster? I can hear a sound over there….",
-        "pt": "Vamos um pouco mais rápido? Dá para ouvir um som ali....",
-        "es": "¿Vamos un poco más rápido? Se oye un sonido por allí…."
+        "ko-KR": "조금 빨리 갈까요? 저 쪽에 소리가 들리네….",
+        "en-US": "Shall we go a little faster? I can hear a sound over there….",
+        "pt-BR": "Vamos um pouco mais rápido? Dá para ouvir um som ali....",
+        "es-ES": "¿Vamos un poco más rápido? Se oye un sonido por allí…."
     },
     "3OTrBw": {
-        "ko": "생각보다 조용하네. 침입자들은 어디로 갔지요?",
-        "en": "It’s quieter than I expected. Where did the intruders go?",
-        "pt": "Está mais quieto do que eu esperava. Para onde foram os invasores?",
-        "es": "Es más silencioso de lo que esperaba. ¿A dónde fueron los intrusos?"
+        "ko-KR": "생각보다 조용하네. 침입자들은 어디로 갔지요?",
+        "en-US": "It’s quieter than I expected. Where did the intruders go?",
+        "pt-BR": "Está mais quieto do que eu esperava. Para onde foram os invasores?",
+        "es-ES": "Es más silencioso de lo que esperaba. ¿A dónde fueron los intrusos?"
     },
     "3eTrBw": {
-        "ko": "에스트 님이네!",
-        "en": "It’s Est!",
-        "pt": "É a Est Loveloy!",
-        "es": "¡Es Est!"
+        "ko-KR": "에스트 님이네!",
+        "en-US": "It’s Est!",
+        "pt-BR": "É a Est Loveloy!",
+        "es-ES": "¡Es Est!"
     },
     "3uTrBw": {
-        "ko": "침입자",
-        "en": "Intruder",
-        "pt": "Invasor",
-        "es": "Intruso"
+        "ko-KR": "침입자",
+        "en-US": "Intruder",
+        "pt-BR": "Invasor",
+        "es-ES": "Intruso"
     },
     "3+TrBw": {
-        "ko": "한 발 늦었다! 어리석은 녀석아!",
-        "en": "We’re too late! You fool!",
-        "pt": "Cheguei tarde demais!",
-        "es": "¡Llegas tarde! ¡Necio!"
+        "ko-KR": "한 발 늦었다! 어리석은 녀석아!",
+        "en-US": "We’re too late! You fool!",
+        "pt-BR": "Cheguei tarde demais!",
+        "es-ES": "¡Llegas tarde! ¡Necio!"
     },
     "4OTrBw": {
-        "ko": "흥! 순순히 잡혀줄 것 같냐?",
-        "en": "Hmph! Do you think I’ll let you capture me so easily?",
-        "pt": "Hmpf! Acha que vou me render assim, tão fácil?",
-        "es": "¡Ja! ¿Crees que me dejaré atrapar tan fácilmente?"
+        "ko-KR": "흥! 순순히 잡혀줄 것 같냐?",
+        "en-US": "Hmph! Do you think I’ll let you capture me so easily?",
+        "pt-BR": "Hmpf! Acha que vou me render assim, tão fácil?",
+        "es-ES": "¡Ja! ¿Crees que me dejaré atrapar tan fácilmente?"
     },
     "4eTrBw": {
-        "ko": "고생 하라고!",
-        "en": "Serves you right!",
-        "pt": "Se vira aí!",
-        "es": "¡Que te vaya mal!"
+        "ko-KR": "고생 하라고!",
+        "en-US": "Serves you right!",
+        "pt-BR": "Se vira aí!",
+        "es-ES": "¡Que te vaya mal!"
     },
     "4uTrBw": {
-        "ko": "하트헌터 기습병",
-        "en": "Heart Hunter Ambusher",
-        "pt": "Caça-Coração Emboscador",
-        "es": "Heart Hunter Ambusher"
+        "ko-KR": "하트헌터 기습병",
+        "en-US": "Heart Hunter Ambusher",
+        "pt-BR": "Caça-Coração Emboscador",
+        "es-ES": "Heart Hunter Ambusher"
     },
     "4+TrBw": {
-        "ko": "중계기",
-        "en": "Relay Device",
-        "pt": "Transmissor",
-        "es": "Dispositivo de Retransmisión"
+        "ko-KR": "중계기",
+        "en-US": "Relay Device",
+        "pt-BR": "Transmissor",
+        "es-ES": "Dispositivo de Retransmisión"
     },
     "5OTrBw": {
-        "ko": "중계기 상태가 어떤지는 알아볼 방법이 없다. 통신칩은 제대로 꽂혀 있는 것 같다.",
-        "en": "There’s no way to tell what condition the Relay Device is in. The communication chip seems to be properly inserted.",
-        "pt": "Não há como saber em que estado está o Transmissor. Parece que o comunicador está encaixado corretamente.",
-        "es": "No hay forma de saber en qué estado está Dispositivo de Retransmisión. Parece que el chip de comunicación está bien insertado."
+        "ko-KR": "중계기 상태가 어떤지는 알아볼 방법이 없다. 통신칩은 제대로 꽂혀 있는 것 같다.",
+        "en-US": "There’s no way to tell what condition the Relay Device is in. The communication chip seems to be properly inserted.",
+        "pt-BR": "Não há como saber em que estado está o Transmissor. Parece que o comunicador está encaixado corretamente.",
+        "es-ES": "No hay forma de saber en qué estado está Dispositivo de Retransmisión. Parece que el chip de comunicación está bien insertado."
     },
     "5eTrBw": {
-        "ko": "리벨리온",
-        "en": "Rebellion",
-        "pt": "Rebelde",
-        "es": "Rebellion"
+        "ko-KR": "리벨리온",
+        "en-US": "Rebellion",
+        "pt-BR": "Rebelde",
+        "es-ES": "Rebellion"
     },
     "5uTrBw": {
-        "ko": "여긴 우리가 맡을테니 볼일 봐요!",
-        "en": "We’ll handle things here, so go take care of what you need to do!",
-        "pt": "Nós cuidaremos daqui, vá resolver o que tem que resolver!",
-        "es": "Nosotros nos encargaremos de aquí, ¡así que ve a hacer lo tuyo!"
+        "ko-KR": "여긴 우리가 맡을테니 볼일 봐요!",
+        "en-US": "We’ll handle things here, so go take care of what you need to do!",
+        "pt-BR": "Nós cuidaremos daqui, vá resolver o que tem que resolver!",
+        "es-ES": "Nosotros nos encargaremos de aquí, ¡así que ve a hacer lo tuyo!"
     },
     "5+TrBw": {
-        "ko": "캬캬캬캭 치사하게 쪽수로 덤벼주마!!!",
-        "en": "Kyahahaha! I’ll fight you with numbers, you coward!!!",
-        "pt": "Ha ha ha! Estamos em maior número!!!",
-        "es": "¡Kya kya kya kyak! ¡Me lanzaré sobre ti con superioridad numérica, de forma rastrera!!!"
+        "ko-KR": "캬캬캬캭 치사하게 쪽수로 덤벼주마!!!",
+        "en-US": "Kyahahaha! I’ll fight you with numbers, you coward!!!",
+        "pt-BR": "Ha ha ha! Estamos em maior número!!!",
+        "es-ES": "¡Kya kya kya kyak! ¡Me lanzaré sobre ti con superioridad numérica, de forma rastrera!!!"
     },
     "6OTrBw": {
-        "ko": "꽁꽁 숨느라 고생 많았다! 이놈들아!",
-        "en": "You worked hard hiding so well! You bastards!",
-        "pt": "Deu muito trabalho se esconder! Seus desgraçados!",
-        "es": "¡Te costó mucho esconderte bien! ¡Malditos!"
+        "ko-KR": "꽁꽁 숨느라 고생 많았다! 이놈들아!",
+        "en-US": "You worked hard hiding so well! You bastards!",
+        "pt-BR": "Deu muito trabalho se esconder! Seus desgraçados!",
+        "es-ES": "¡Te costó mucho esconderte bien! ¡Malditos!"
     },
     "6eTrBw": {
-        "ko": ".....",
-        "en": ".....",
-        "pt": ".....",
-        "es": "....."
+        "ko-KR": ".....",
+        "en-US": ".....",
+        "pt-BR": ".....",
+        "es-ES": "....."
     },
     "6uTrBw": {
-        "ko": "....(끄덕)",
-        "en": "....(nod)",
-        "pt": "..... *Faz um sinal*",
-        "es": "....(asiente)"
+        "ko-KR": "....(끄덕)",
+        "en-US": "....(nod)",
+        "pt-BR": "..... *Faz um sinal*",
+        "es-ES": "....(asiente)"
     },
     "6+TrBw": {
-        "ko": "무슨 신호를 주고 받고 있어?",
-        "en": "What kind of signal are you exchanging?",
-        "pt": "Que sinais vocês estão trocando?",
-        "es": "¿Qué señales están intercambiando?"
+        "ko-KR": "무슨 신호를 주고 받고 있어?",
+        "en-US": "What kind of signal are you exchanging?",
+        "pt-BR": "Que sinais vocês estão trocando?",
+        "es-ES": "¿Qué señales están intercambiando?"
     },
     "7OTrBw": {
-        "ko": "뭐야? 튀었어?! 야 쫓아!",
-        "en": "What?! They ran off?! Hey, chase them!",
-        "pt": "O quê? Fugiu?! Ei, atrás dele!",
-        "es": "¿Qué? ¡¿Huyó?! ¡Eh, persíguelo!"
+        "ko-KR": "뭐야? 튀었어?! 야 쫓아!",
+        "en-US": "What?! They ran off?! Hey, chase them!",
+        "pt-BR": "O quê? Fugiu?! Ei, atrás dele!",
+        "es-ES": "¿Qué? ¡¿Huyó?! ¡Eh, persíguelo!"
     },
     "7eTrBw": {
-        "ko": "뭐야 …?",
-        "en": "What... ?",
-        "pt": "O quê ...?",
-        "es": "¿Qué…?"
+        "ko-KR": "뭐야 …?",
+        "en-US": "What... ?",
+        "pt-BR": "O quê ...?",
+        "es-ES": "¿Qué…?"
     },
     "7uTrBw": {
-        "ko": "뭐야, 여기 있던 녀석들 다 어디갔어?",
-        "en": "What? Where did all the guys who were here go?",
-        "pt": "O quê, para onde foram todos?",
-        "es": "¿Qué? ¿A dónde se fueron todos los que estaban aquí?"
+        "ko-KR": "뭐야, 여기 있던 녀석들 다 어디갔어?",
+        "en-US": "What? Where did all the guys who were here go?",
+        "pt-BR": "O quê, para onde foram todos?",
+        "es-ES": "¿Qué? ¿A dónde se fueron todos los que estaban aquí?"
     },
     "7+TrBw": {
-        "ko": "네가 해치웠나?",
-        "en": "Did you take them out?",
-        "pt": "Você deu conta deles?",
-        "es": "¿Tú te encargaste de ellos?"
+        "ko-KR": "네가 해치웠나?",
+        "en-US": "Did you take them out?",
+        "pt-BR": "Você deu conta deles?",
+        "es-ES": "¿Tú te encargaste de ellos?"
     },
     "8OTrBw": {
-        "ko": "제법인데?",
-        "en": "Not bad, are you?",
-        "pt": "Nada mal, hein?",
-        "es": "No está mal, ¿eh?"
+        "ko-KR": "제법인데?",
+        "en-US": "Not bad, are you?",
+        "pt-BR": "Nada mal, hein?",
+        "es-ES": "No está mal, ¿eh?"
     },
     "8eTrBw": {
-        "ko": "중계기: (... .. ..)",
-        "en": "Relay Device: (... .. ..)",
-        "pt": "Transmissor: (... .. ..)",
-        "es": "Dispositivo de Retransmisión: (... .. ..)"
+        "ko-KR": "중계기: (... .. ..)",
+        "en-US": "Relay Device: (... .. ..)",
+        "pt-BR": "Transmissor: (... .. ..)",
+        "es-ES": "Dispositivo de Retransmisión: (... .. ..)"
     },
     "8uTrBw": {
-        "ko": "앗, 통신 왔다. 너 잠시만 거기 있어. 예. 예 선생님.",
-        "en": "Oh, I got a transmission. Stay right there for a moment. Yes. Yes, sir.",
-        "pt": "Ah, chegou um comunicado. Aguarde um instante.... Sim. Sim, senhor.",
-        "es": "Ah, llegó una comunicación. Quédate ahí un momento. Sí. Sí, profesor."
+        "ko-KR": "앗, 통신 왔다. 너 잠시만 거기 있어. 예. 예 선생님.",
+        "en-US": "Oh, I got a transmission. Stay right there for a moment. Yes. Yes, sir.",
+        "pt-BR": "Ah, chegou um comunicado. Aguarde um instante.... Sim. Sim, senhor.",
+        "es-ES": "Ah, llegó una comunicación. Quédate ahí un momento. Sí. Sí, profesor."
     },
     "8+TrBw": {
-        "ko": "중계기: (... …... ….)",
-        "en": "Relay Device: (... …... ….)",
-        "pt": "Transmissor: (... ...... ....)",
-        "es": "Dispositivo de Retransmisión: (... …... ….)"
+        "ko-KR": "중계기: (... …... ….)",
+        "en-US": "Relay Device: (... …... ….)",
+        "pt-BR": "Transmissor: (... ...... ....)",
+        "es-ES": "Dispositivo de Retransmisión: (... …... ….)"
     },
     "9OTrBw": {
-        "ko": "지금요? 시간을 더.. 예. .. 아뇨. 예. 아..",
-        "en": "Right now? Just a little more time... Yes... No. Yes. Ah...",
-        "pt": "Agora? Só mais um pouco de tempo... Sim. ... Não. Sim. Ah...",
-        "es": "¿Ahora? Un poco más de tiempo... Sí... No. Sí. Ah..."
+        "ko-KR": "지금요? 시간을 더.. 예. .. 아뇨. 예. 아..",
+        "en-US": "Right now? Just a little more time... Yes... No. Yes. Ah...",
+        "pt-BR": "Agora? Só mais um pouco de tempo... Sim. ... Não. Sim. Ah...",
+        "es-ES": "¿Ahora? Un poco más de tiempo... Sí... No. Sí. Ah..."
     },
     "9eTrBw": {
-        "ko": "... ...그렇게까지 …. 아뇨?! …. 알겠습니다 ….",
-        "en": "... ...That much...? No?! ...Understood...",
-        "pt": "... ...até esse ponto... Não?! ... Entendido....",
-        "es": "... ...¿hasta ese punto...? ¿¡No?! ... Entendido..."
+        "ko-KR": "... ...그렇게까지 …. 아뇨?! …. 알겠습니다 ….",
+        "en-US": "... ...That much...? No?! ...Understood...",
+        "pt-BR": "... ...até esse ponto... Não?! ... Entendido....",
+        "es-ES": "... ...¿hasta ese punto...? ¿¡No?! ... Entendido..."
     },
     "9uTrBw": {
-        "ko": "너! 내가 지금 시간이 없어서 간다! 다음에 만나면 가만 안 둬!",
-        "en": "You! I don't have time right now, so I'm leaving! Next time I see you, I won't let you off!",
-        "pt": "Eu não tenho tempo, vou embora! Da próxima vez que eu encontrar vocês, vocês vão ver só!",
-        "es": "¡Tú! ¡Ahora no tengo tiempo, me voy! ¡La próxima vez que nos veamos, no te dejaré en paz!"
+        "ko-KR": "너! 내가 지금 시간이 없어서 간다! 다음에 만나면 가만 안 둬!",
+        "en-US": "You! I don't have time right now, so I'm leaving! Next time I see you, I won't let you off!",
+        "pt-BR": "Eu não tenho tempo, vou embora! Da próxima vez que eu encontrar vocês, vocês vão ver só!",
+        "es-ES": "¡Tú! ¡Ahora no tengo tiempo, me voy! ¡La próxima vez que nos veamos, no te dejaré en paz!"
     },
     "9+TrBw": {
-        "ko": "[에스트]\n보고는 들었다. 대장으로 보이는 녀석을 발견했다고?\n나머지 떨거지들은 대원들이 어떻게든 쫓는 모양이야.",
-        "en": "[Est]\nI heard the report. You found someone who looks like the leader?\nIt seems the squad members are chasing down the rest of the riffraff somehow.",
-        "pt": "[Est Loveloy]\nOuvi o relatório. Disseram que encontraram um sujeito que parece ser o líder?\nParece que os outros membros estão dando um jeito de perseguir o resto da ralé.",
-        "es": "[Est]\nHe oído el informe. ¿Dices que encontraste al que parece ser el jefe?\nParece que los demás rezagados están siendo perseguidos por los miembros como sea."
+        "ko-KR": "[에스트]\n보고는 들었다. 대장으로 보이는 녀석을 발견했다고?\n나머지 떨거지들은 대원들이 어떻게든 쫓는 모양이야.",
+        "en-US": "[Est]\nI heard the report. You found someone who looks like the leader?\nIt seems the squad members are chasing down the rest of the riffraff somehow.",
+        "pt-BR": "[Est Loveloy]\nOuvi o relatório. Disseram que encontraram um sujeito que parece ser o líder?\nParece que os outros membros estão dando um jeito de perseguir o resto da ralé.",
+        "es-ES": "[Est]\nHe oído el informe. ¿Dices que encontraste al que parece ser el jefe?\nParece que los demás rezagados están siendo perseguidos por los miembros como sea."
     },
     "+OTrBw": {
-        "ko": "[에스트]\n중계기 점검은 어떻게 됐지?",
-        "en": "[Est]\nHow is the Relay Device inspection going?",
-        "pt": "[Est Loveloy]\nComo ficou a inspeção do Transmissor?",
-        "es": "[Est]\n¿Cómo va la inspección del Dispositivo de Retransmisión?"
+        "ko-KR": "[에스트]\n중계기 점검은 어떻게 됐지?",
+        "en-US": "[Est]\nHow is the Relay Device inspection going?",
+        "pt-BR": "[Est Loveloy]\nComo ficou a inspeção do Transmissor?",
+        "es-ES": "[Est]\n¿Cómo va la inspección del Dispositivo de Retransmisión?"
     },
     "+eTrBw": {
-        "ko": "[아몬드]\n아직 하나가 남아서 가던 중이었어요.\n그치만 제법 머네?",
-        "en": "[Almond]\nThere was still one left, so I was on my way.\nBut it's quite far, isn't it?",
-        "pt": "[Amêndoa]\nAinda falta um, então eu estava indo pra lá.\nMas é bem longe, não é?",
-        "es": "[Almendra]\nAún me quedaba uno, así que iba de camino.\nPero está bastante lejos, ¿no?"
+        "ko-KR": "[아몬드]\n아직 하나가 남아서 가던 중이었어요.\n그치만 제법 머네?",
+        "en-US": "[Almond]\nThere was still one left, so I was on my way.\nBut it's quite far, isn't it?",
+        "pt-BR": "[Amêndoa]\nAinda falta um, então eu estava indo pra lá.\nMas é bem longe, não é?",
+        "es-ES": "[Almendra]\nAún me quedaba uno, así que iba de camino.\nPero está bastante lejos, ¿no?"
     },
     "+uTrBw": {
-        "ko": "[에스트]\n흐음 …. 그럼 이렇게 할까.\n네가 놓친 녀석이 보라색 머리칼의 꼬마지?\n그 녀석을 네가 쫓아.",
-        "en": "[Est]\nHmm... Then how about this.\nThe one you lost is the little kid with purple hair, right?\nYou chase that one.",
-        "pt": "[Est Loveloy]\nHmm.... Então, que tal fazermos assim.\nO sujeito que você deixou escapar é uma garotinha de cabelo roxo, certo?\nVocê vai atrás dela.",
-        "es": "[Est]\nMmm... Entonces, ¿qué te parece esto?\n¿El que se te escapó es un niño de pelo morado?\nPersíguelo tú."
+        "ko-KR": "[에스트]\n흐음 …. 그럼 이렇게 할까.\n네가 놓친 녀석이 보라색 머리칼의 꼬마지?\n그 녀석을 네가 쫓아.",
+        "en-US": "[Est]\nHmm... Then how about this.\nThe one you lost is the little kid with purple hair, right?\nYou chase that one.",
+        "pt-BR": "[Est Loveloy]\nHmm.... Então, que tal fazermos assim.\nO sujeito que você deixou escapar é uma garotinha de cabelo roxo, certo?\nVocê vai atrás dela.",
+        "es-ES": "[Est]\nMmm... Entonces, ¿qué te parece esto?\n¿El que se te escapó es un niño de pelo morado?\nPersíguelo tú."
     },
     "++TrBw": {
-        "ko": "[에스트]\n정원에 숨어서 발목을 잡아대는 떨거지들은 이쪽에서 상대할테니까.\n아, 그리고 아몬드의 호위도 내가 하겠다.",
-        "en": "[Est]\nWe'll deal with the riffraff hiding in the garden and trying to trip us up from this side.\nAh, and I'll escort Almond as well.",
-        "pt": "[Est Loveloy]\nNós vamos lidar com esses maldidos que ficam escondidos no jardim atrapalhando a gente.\nAh, e eu também vou escoltar a Amêndoa.",
-        "es": "[Est]\nLos rezagados que se esconden en el jardín y nos traban el paso los enfrentaremos nosotros.\nAh, y también escoltaré a Almendra."
+        "ko-KR": "[에스트]\n정원에 숨어서 발목을 잡아대는 떨거지들은 이쪽에서 상대할테니까.\n아, 그리고 아몬드의 호위도 내가 하겠다.",
+        "en-US": "[Est]\nWe'll deal with the riffraff hiding in the garden and trying to trip us up from this side.\nAh, and I'll escort Almond as well.",
+        "pt-BR": "[Est Loveloy]\nNós vamos lidar com esses maldidos que ficam escondidos no jardim atrapalhando a gente.\nAh, e eu também vou escoltar a Amêndoa.",
+        "es-ES": "[Est]\nLos rezagados que se esconden en el jardín y nos traban el paso los enfrentaremos nosotros.\nAh, y también escoltaré a Almendra."
     },
     "/OTrBw": {
-        "ko": "[에스트]\n그 녀석은 서편으로 가는걸 쫓는 중에 놓쳤으니까, 그 쪽으로 가 봐.\n넌 추적기가 있으니 근처라도 가면 추적기가 알아서 알려주겠지.",
-        "en": "[Est]\nI lost track while chasing as he headed west, so try going that way.\nYou have Tracker, so if you get even close, Tracker will let you know on its own.",
-        "pt": "[Est Loveloy]\nEles estavam indo para o lado oeste, então vá por ali.\nVocê tem o Radar, então, se chegar perto, o Radar vai te avisar por conta própria.",
-        "es": "[Est]\nSe me escapó mientras lo perseguía hacia el oeste, así que ve por ese lado.\nTú tienes el Rastreador, así que si te acercas, el Rastreador te avisará por su cuenta."
+        "ko-KR": "[에스트]\n그 녀석은 서편으로 가는걸 쫓는 중에 놓쳤으니까, 그 쪽으로 가 봐.\n넌 추적기가 있으니 근처라도 가면 추적기가 알아서 알려주겠지.",
+        "en-US": "[Est]\nI lost track while chasing as he headed west, so try going that way.\nYou have Tracker, so if you get even close, Tracker will let you know on its own.",
+        "pt-BR": "[Est Loveloy]\nEles estavam indo para o lado oeste, então vá por ali.\nVocê tem o Radar, então, se chegar perto, o Radar vai te avisar por conta própria.",
+        "es-ES": "[Est]\nSe me escapó mientras lo perseguía hacia el oeste, así que ve por ese lado.\nTú tienes el Rastreador, así que si te acercas, el Rastreador te avisará por su cuenta."
     },
     "/eTrBw": {
-        "ko": "[에스트]\n아몬드는 내가 데려갈테니 걱정하지 말고.",
-        "en": "[Est]\nI'll take Almond, so don't worry.",
-        "pt": "[Est Loveloy]\nEu vou levar a Amêndoa, então não se preocupe.",
-        "es": "[Est]\nYo me llevaré a Almendra, así que no te preocupes."
+        "ko-KR": "[에스트]\n아몬드는 내가 데려갈테니 걱정하지 말고.",
+        "en-US": "[Est]\nI'll take Almond, so don't worry.",
+        "pt-BR": "[Est Loveloy]\nEu vou levar a Amêndoa, então não se preocupe.",
+        "es-ES": "[Est]\nYo me llevaré a Almendra, así que no te preocupes."
     },
     "/uTrBw": {
-        "ko": "잔당들은 우리한테 맡겨두라구요.",
-        "en": "Leave the stragglers to us.",
-        "pt": "Deixe o restante com a gente.",
-        "es": "Deja a los rezagados en nuestras manos."
+        "ko-KR": "잔당들은 우리한테 맡겨두라구요.",
+        "en-US": "Leave the stragglers to us.",
+        "pt-BR": "Deixe o restante com a gente.",
+        "es-ES": "Deja a los rezagados en nuestras manos."
     },
     "/+TrBw": {
-        "ko": "후후후후 …. 복수의 시간이군요. 후후후후 ….",
-        "en": "Heh heh heh heh... It's time for revenge. Heh heh heh heh...",
-        "pt": "Huhuhuhu.... É hora da vingança. Huhuhuhu....",
-        "es": "Ju ju ju ju... Es la hora de la venganza. Ju ju ju ju..."
+        "ko-KR": "후후후후 …. 복수의 시간이군요. 후후후후 ….",
+        "en-US": "Heh heh heh heh... It's time for revenge. Heh heh heh heh...",
+        "pt-BR": "Huhuhuhu.... É hora da vingança. Huhuhuhu....",
+        "es-ES": "Ju ju ju ju... Es la hora de la venganza. Ju ju ju ju..."
     },
     "AOXrBw": {
-        "ko": "저쪽에서 물량으로 소동을 일으킨다면 이쪽도 그렇게 대응해야죠.",
-        "en": "If they cause a commotion over there with sheer numbers, we should respond the same way here.",
-        "pt": "Se eles causarem confusão por lá, nós responderemos da mesma forma por aqui.",
-        "es": "Si por allí arman un alboroto con la fuerza de los números, por aquí también debemos responder así."
+        "ko-KR": "저쪽에서 물량으로 소동을 일으킨다면 이쪽도 그렇게 대응해야죠.",
+        "en-US": "If they cause a commotion over there with sheer numbers, we should respond the same way here.",
+        "pt-BR": "Se eles causarem confusão por lá, nós responderemos da mesma forma por aqui.",
+        "es-ES": "Si por allí arman un alboroto con la fuerza de los números, por aquí también debemos responder así."
     },
     "AeXrBw": {
-        "ko": "보라색 머리의 소년을 찾으시죠? 연구소 방향으로 몰았습니다.",
-        "en": "You're looking for the boy with the purple hair, right? We drove them toward the laboratory.",
-        "pt": "Você está procurando a garota de cabelo roxo, não é? Nós a levamos para lá.",
-        "es": "¿Buscas al chico de pelo morado? Lo empujamos hacia la dirección del laboratorio."
+        "ko-KR": "보라색 머리의 소년을 찾으시죠? 연구소 방향으로 몰았습니다.",
+        "en-US": "You're looking for the boy with the purple hair, right? We drove them toward the laboratory.",
+        "pt-BR": "Você está procurando a garota de cabelo roxo, não é? Nós a levamos para lá.",
+        "es-ES": "¿Buscas al chico de pelo morado? Lo empujamos hacia la dirección del laboratorio."
     },
     "AuXrBw": {
-        "ko": "추적기: 삐요옹 삐요오옹~! 저쪽이다! 삐용 삐용~!",
-        "en": "Tracker: Piyoong piyoong~! It's that way! Piyong piyong~!",
-        "pt": "Radar: BÉ!! BÉ!! BÉ!! BÉ!! BÉ!! SIGA POR AQUELA DIREÇÃO !!!!!!!!!!!!!",
-        "es": "Rastreador: ¡Piiiyooong, piiiyooong~! ¡Es por allí! ¡Piiing, piiing~!"
+        "ko-KR": "추적기: 삐요옹 삐요오옹~! 저쪽이다! 삐용 삐용~!",
+        "en-US": "Tracker: Piyoong piyoong~! It's that way! Piyong piyong~!",
+        "pt-BR": "Radar: BÉ!! BÉ!! BÉ!! BÉ!! BÉ!! SIGA POR AQUELA DIREÇÃO !!!!!!!!!!!!!",
+        "es-ES": "Rastreador: ¡Piiiyooong, piiiyooong~! ¡Es por allí! ¡Piiing, piiing~!"
     }
 }

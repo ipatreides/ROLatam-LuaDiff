@@ -1,1106 +1,1106 @@
 {
     "IHVtDA": {
-        "ko": "로디",
-        "en": "Rody",
-        "pt": "Rody",
-        "es": "Rody"
+        "ko-KR": "로디",
+        "en-US": "Rody",
+        "pt-BR": "Rody",
+        "es-ES": "Rody"
     },
     "IXVtDA": {
-        "ko": "[로디]\n그나저나 연구비는 또 어떻게 조달하지...",
-        "en": "[Rody]\nBy the way, how are we going to secure more research funding...",
-        "pt": "[Rody]\nAliás, como é que vamos conseguir o dinheiro para a pesquisa...",
-        "es": "[Rody]\nPor cierto, ¿cómo vamos a conseguir los fondos para la investigación...?"
+        "ko-KR": "[로디]\n그나저나 연구비는 또 어떻게 조달하지...",
+        "en-US": "[Rody]\nBy the way, how are we going to secure more research funding...",
+        "pt-BR": "[Rody]\nAliás, como é que vamos conseguir o dinheiro para a pesquisa...",
+        "es-ES": "[Rody]\nPor cierto, ¿cómo vamos a conseguir los fondos para la investigación...?"
     },
     "InVtDA": {
-        "ko": "[로디]\n뭐야, 길을 잃었어?\n나보다는 저 쪽의 동네 꼬마가 훨씬 더 잘 알고 있을 거야.",
-        "en": "[Rody]\nWhat? Did you get lost?\nThe neighborhood kid over there knows this place better than I do.",
-        "pt": "[Rody]\nO que foi, você se perdeu?\nAquele garotinho ali deve saber mais sobre este lugar do que eu.",
-        "es": "[Rody]\n¿Qué pasa? ¿Te perdiste?\nSeguro que ese chavito de allá sabe mucho más que yo."
+        "ko-KR": "[로디]\n뭐야, 길을 잃었어?\n나보다는 저 쪽의 동네 꼬마가 훨씬 더 잘 알고 있을 거야.",
+        "en-US": "[Rody]\nWhat? Did you get lost?\nThe neighborhood kid over there knows this place better than I do.",
+        "pt-BR": "[Rody]\nO que foi, você se perdeu?\nAquele garotinho ali deve saber mais sobre este lugar do que eu.",
+        "es-ES": "[Rody]\n¿Qué pasa? ¿Te perdiste?\nSeguro que ese chavito de allá sabe mucho más que yo."
     },
     "I3VtDA": {
-        "ko": "[로디]\n무슨 소리야, 마도 기관은 아직도 연구 대상일 뿐이야.\n무능하다고 해도 상관없어. 위험을 제거할 수 없다면 이용하기까지는 요원해.",
-        "en": "[Rody]\nWhat are you talking about? The mana engine is still in the experimental stage.\nCall me incompetent all you want. If we can't eliminate all the risks, we shouldn't use it.",
-        "pt": "[Rody]\nDo que está falando? O mecanismo de mana ainda está em fase experimental!\nPode me chamar do que quiser, enquanto não eliminarmos todos os riscos, não deveremos usar.",
-        "es": "[Rody]\n¿Qué dices? La Agencia Mágica sigue siendo solo un objeto de estudio.\nNo importa si son incompetentes. Si no pueden eliminar el peligro, es difícil que lleguen a utilizarla."
+        "ko-KR": "[로디]\n무슨 소리야, 마도 기관은 아직도 연구 대상일 뿐이야.\n무능하다고 해도 상관없어. 위험을 제거할 수 없다면 이용하기까지는 요원해.",
+        "en-US": "[Rody]\nWhat are you talking about? The mana engine is still in the experimental stage.\nCall me incompetent all you want. If we can't eliminate all the risks, we shouldn't use it.",
+        "pt-BR": "[Rody]\nDo que está falando? O mecanismo de mana ainda está em fase experimental!\nPode me chamar do que quiser, enquanto não eliminarmos todos os riscos, não deveremos usar.",
+        "es-ES": "[Rody]\n¿Qué dices? La Agencia Mágica sigue siendo solo un objeto de estudio.\nNo importa si son incompetentes. Si no pueden eliminar el peligro, es difícil que lleguen a utilizarla."
     },
     "JHVtDA": {
-        "ko": "[미스트]\n나도 미케닉으로 인정받은 지 꽤 됐지만 정말 야... 이 바닥 너무하다.\n왜 이렇게 보수적이야?",
-        "en": "[Mist]\nI've been a Mechanic for a while now, but... I don't understand you people and why you're in this line of business.\nWhy are you so conservative?",
-        "pt": "[Mist]\nJá faz um tempo que sou um mecânico, mas sério... eu não entendo vocês.\nPor que vocês são tão conservadores?",
-        "es": "[Mist]\nHace ya bastante que me reconocen como mecánico, pero en serio... este ambiente es demasiado.\n¿Por qué son tan conservadores?"
+        "ko-KR": "[미스트]\n나도 미케닉으로 인정받은 지 꽤 됐지만 정말 야... 이 바닥 너무하다.\n왜 이렇게 보수적이야?",
+        "en-US": "[Mist]\nI've been a Mechanic for a while now, but... I don't understand you people and why you're in this line of business.\nWhy are you so conservative?",
+        "pt-BR": "[Mist]\nJá faz um tempo que sou um mecânico, mas sério... eu não entendo vocês.\nPor que vocês são tão conservadores?",
+        "es-ES": "[Mist]\nHace ya bastante que me reconocen como mecánico, pero en serio... este ambiente es demasiado.\n¿Por qué son tan conservadores?"
     },
     "JXVtDA": {
-        "ko": "[로디]\n맞아. 미케닉은 보수적이지.\n당연한 거 아니야?\n설계 실패 한 방에 사용자 팔다리가 날아가는데.",
-        "en": "[Rody]\nYeah. Mechanics are conservative.\nIsn't that obvious?\nOne design flaw could cost the user their limbs.",
-        "pt": "[Rody]\nÉ verdade. Os mecânicos são conservadores.\nMas não é óbvio?\nBasta um único erro de projeto pra arrancar os braços e as pernas do usuário.",
-        "es": "[Rody]\nEs verdad. Los mecánicos son conservadores.\n¿No es lógico?\nUn solo fallo de diseño y al usuario le vuelan las extremidades."
+        "ko-KR": "[로디]\n맞아. 미케닉은 보수적이지.\n당연한 거 아니야?\n설계 실패 한 방에 사용자 팔다리가 날아가는데.",
+        "en-US": "[Rody]\nYeah. Mechanics are conservative.\nIsn't that obvious?\nOne design flaw could cost the user their limbs.",
+        "pt-BR": "[Rody]\nÉ verdade. Os mecânicos são conservadores.\nMas não é óbvio?\nBasta um único erro de projeto pra arrancar os braços e as pernas do usuário.",
+        "es-ES": "[Rody]\nEs verdad. Los mecánicos son conservadores.\n¿No es lógico?\nUn solo fallo de diseño y al usuario le vuelan las extremidades."
     },
     "JnVtDA": {
-        "ko": "[로디]\n...\n...뭐야, 체인하트의 제자 아냐?",
-        "en": "[Rody]...\n\n...What? Aren't you Chainhart's student?",
-        "pt": "[Rody]\n...\n...O que é isso, você não é aluno do Chainhart?",
-        "es": "[Rody]\n...\n...¿Qué pasa? ¿No eres discípulo de Chainhart?"
+        "ko-KR": "[로디]\n...\n...뭐야, 체인하트의 제자 아냐?",
+        "en-US": "[Rody]...\n\n...What? Aren't you Chainhart's student?",
+        "pt-BR": "[Rody]\n...\n...O que é isso, você não é aluno do Chainhart?",
+        "es-ES": "[Rody]\n...\n...¿Qué pasa? ¿No eres discípulo de Chainhart?"
     },
     "J3VtDA": {
-        "ko": "제자는 아닌데",
-        "en": "I'm not his student",
-        "pt": "Não sou aluno dele, mas...",
-        "es": "No soy su discípulo"
+        "ko-KR": "제자는 아닌데",
+        "en-US": "I'm not his student",
+        "pt-BR": "Não sou aluno dele, mas...",
+        "es-ES": "No soy su discípulo"
     },
     "KHVtDA": {
-        "ko": "내가 그렇게 유명해?",
-        "en": "Am I that famous?",
-        "pt": "Eu sou tão famoso assim?",
-        "es": "¿Tan famoso soy?"
+        "ko-KR": "내가 그렇게 유명해?",
+        "en-US": "Am I that famous?",
+        "pt-BR": "Eu sou tão famoso assim?",
+        "es-ES": "¿Tan famoso soy?"
     },
     "KXVtDA": {
-        "ko": "안녕하세요",
-        "en": "Hello",
-        "pt": "Olá",
-        "es": "Hola"
+        "ko-KR": "안녕하세요",
+        "en-US": "Hello",
+        "pt-BR": "Olá",
+        "es-ES": "Hola"
     },
     "KnVtDA": {
-        "ko": "[미스트]\n하하.\n체인하트도 사람 보는 눈이 있어.\n그래, 이 정도는 돼야 논문도 없이 도장 찍어준 보람이 있지.",
-        "en": "[Mist]\nHah hah.\nEven Chainhart has an eye for people.\nYes, you have to be at least this good to get your license without a thesis.",
-        "pt": "[Mist]\nHaha.\nO Chainhart sabe escolher bem as pessoas.\nÉ, só assim pra conseguir ser aprovado sem nem mesmo possuir uma tese científica.",
-        "es": "[Mist]\nJaja.\nChainhart sí que sabe elegir a la gente.\nSí, tienes que estar a este nivel para que valga la pena haberte dado el sello sin que tuvieras una tesis."
+        "ko-KR": "[미스트]\n하하.\n체인하트도 사람 보는 눈이 있어.\n그래, 이 정도는 돼야 논문도 없이 도장 찍어준 보람이 있지.",
+        "en-US": "[Mist]\nHah hah.\nEven Chainhart has an eye for people.\nYes, you have to be at least this good to get your license without a thesis.",
+        "pt-BR": "[Mist]\nHaha.\nO Chainhart sabe escolher bem as pessoas.\nÉ, só assim pra conseguir ser aprovado sem nem mesmo possuir uma tese científica.",
+        "es-ES": "[Mist]\nJaja.\nChainhart sí que sabe elegir a la gente.\nSí, tienes que estar a este nivel para que valga la pena haberte dado el sello sin que tuvieras una tesis."
     },
     "K3VtDA": {
-        "ko": "논문이 필요했나...?",
-        "en": "Did I need a thesis...?",
-        "pt": "Era preciso uma tese...?",
-        "es": "¿Era necesario un trabajo de investigación...?"
+        "ko-KR": "논문이 필요했나...?",
+        "en-US": "Did I need a thesis...?",
+        "pt-BR": "Era preciso uma tese...?",
+        "es-ES": "¿Era necesario un trabajo de investigación...?"
     },
     "LHVtDA": {
-        "ko": "[미스트]\n우리가 연구하는 건 물리적인 도구인데도, 연구가 책상머리야.\n실물을 다루기엔 너무나 위험하기 때문이지.\n여기 로디가 말했듯이.",
-        "en": "[Mist]\nWhat we study is physical tools, and yet we do it at the desk.\nBecause the actual tools are too dangerous to mess with.\nJust like Rody here said.",
-        "pt": "[Mist]\nApesar de estarmos pesquisando ferramentas físicas, a pesquisa é toda teórica.\nIsso porque é muito perigoso fazer experimentos com algo real.\nComo o Rody disse aqui.",
-        "es": "[Mist]\nAunque lo que investigamos son herramientas físicas, la investigación es teórica.\nEs porque es demasiado peligroso manejar los objetos reales.\nComo dijo Rodi aquí."
+        "ko-KR": "[미스트]\n우리가 연구하는 건 물리적인 도구인데도, 연구가 책상머리야.\n실물을 다루기엔 너무나 위험하기 때문이지.\n여기 로디가 말했듯이.",
+        "en-US": "[Mist]\nWhat we study is physical tools, and yet we do it at the desk.\nBecause the actual tools are too dangerous to mess with.\nJust like Rody here said.",
+        "pt-BR": "[Mist]\nApesar de estarmos pesquisando ferramentas físicas, a pesquisa é toda teórica.\nIsso porque é muito perigoso fazer experimentos com algo real.\nComo o Rody disse aqui.",
+        "es-ES": "[Mist]\nAunque lo que investigamos son herramientas físicas, la investigación es teórica.\nEs porque es demasiado peligroso manejar los objetos reales.\nComo dijo Rodi aquí."
     },
     "LXVtDA": {
-        "ko": "로디: 사실이잖아?",
-        "en": "Rody: It's true, isn't it?",
-        "pt": "Rody: É verdade, né?",
-        "es": "Rody: ¿No es verdad?"
+        "ko-KR": "로디: 사실이잖아?",
+        "en-US": "Rody: It's true, isn't it?",
+        "pt-BR": "Rody: É verdade, né?",
+        "es-ES": "Rody: ¿No es verdad?"
     },
     "LnVtDA": {
-        "ko": "[로디]\n마도기어만 해도 그래. 외골격이 아무리 튼튼해도 안에 들어있는 사람도 체술을 익힐 필요가 있어.\n그 쪽에도 재능이 있는 사람이 아니라면 다루기가 쉽지 않지.",
-        "en": "[Rody]\nTake the Madogear, for example. No matter how durable your exoskeleton is, you have to know how to do martial arts.\nOtherwise, you can't use your Madogear to its full potential.",
-        "pt": "[Rody]\nSó de pensar nos M.E.C.H.A. já dá pra ver isso. Por mais resistente que seja o exoesqueleto, a pessoa dentro dele precisa aprender técnicas de combate corpo a corpo.\nSe não tiver esse preparo, não será possível manuseá-lo.",
-        "es": "[Rody]\nSolo con los engranajes mágicos ya pasa eso. Por muy resistente que sea el exoesqueleto, la persona que está dentro también tiene que aprender técnicas de combate cuerpo a cuerpo.\nSi no tienes talento para eso, no es fácil manejarlo."
+        "ko-KR": "[로디]\n마도기어만 해도 그래. 외골격이 아무리 튼튼해도 안에 들어있는 사람도 체술을 익힐 필요가 있어.\n그 쪽에도 재능이 있는 사람이 아니라면 다루기가 쉽지 않지.",
+        "en-US": "[Rody]\nTake the Madogear, for example. No matter how durable your exoskeleton is, you have to know how to do martial arts.\nOtherwise, you can't use your Madogear to its full potential.",
+        "pt-BR": "[Rody]\nSó de pensar nos M.E.C.H.A. já dá pra ver isso. Por mais resistente que seja o exoesqueleto, a pessoa dentro dele precisa aprender técnicas de combate corpo a corpo.\nSe não tiver esse preparo, não será possível manuseá-lo.",
+        "es-ES": "[Rody]\nSolo con los engranajes mágicos ya pasa eso. Por muy resistente que sea el exoesqueleto, la persona que está dentro también tiene que aprender técnicas de combate cuerpo a cuerpo.\nSi no tienes talento para eso, no es fácil manejarlo."
     },
     "L3VtDA": {
-        "ko": "[로디]\n하지만 마도 기관 자체에 대한 연구는 그것이 없어도 할 수는 있고, 전에 뭐라더라? 누가 아예 마도기관과 일심동체가 되기 위한 연구도...",
-        "en": "[Rody]\nBut studying the mana engine itself? You don't have to be a fighter to do it. Also, what was that? Someone even studied how to become one with the mana engine--",
-        "pt": "[Rody]\nMas a pesquisa sobre o mecanismo de mana pode ser feita mesmo sem esse preparo físico. \nMas, o que foi que você disse antes? Alguém está pesquisando sobre como se tornar um só com o mecanismo de mana...",
-        "es": "[Rody]\nPero la investigación sobre los mecanismos mágicos en sí se puede hacer sin eso, y ¿qué decías antes? Que alguien incluso está investigando cómo fundirse por completo con los mecanismos mágicos..."
+        "ko-KR": "[로디]\n하지만 마도 기관 자체에 대한 연구는 그것이 없어도 할 수는 있고, 전에 뭐라더라? 누가 아예 마도기관과 일심동체가 되기 위한 연구도...",
+        "en-US": "[Rody]\nBut studying the mana engine itself? You don't have to be a fighter to do it. Also, what was that? Someone even studied how to become one with the mana engine--",
+        "pt-BR": "[Rody]\nMas a pesquisa sobre o mecanismo de mana pode ser feita mesmo sem esse preparo físico. \nMas, o que foi que você disse antes? Alguém está pesquisando sobre como se tornar um só com o mecanismo de mana...",
+        "es-ES": "[Rody]\nPero la investigación sobre los mecanismos mágicos en sí se puede hacer sin eso, y ¿qué decías antes? Que alguien incluso está investigando cómo fundirse por completo con los mecanismos mágicos..."
     },
     "MHVtDA": {
-        "ko": "미스트: 그만, 그만.",
-        "en": "Mist: Enough. That's enough.",
-        "pt": "Mist: Chega, chega.",
-        "es": "Mist: Ya, ya."
+        "ko-KR": "미스트: 그만, 그만.",
+        "en-US": "Mist: Enough. That's enough.",
+        "pt-BR": "Mist: Chega, chega.",
+        "es-ES": "Mist: Ya, ya."
     },
     "MXVtDA": {
-        "ko": "[미스트]\n야, 야. 그건 너도 나도 이쪽도 다 아는 얘기야. 새삼스럽다.\n어쨌든, 거기... 이름이 뭐더라?\n난 미스트. 이쪽은 로디.",
-        "en": "[Mist]\nHey, hey. That's old news to you, me, and everyone else. Nothing new.\nAnyway, you... What's your name again?\nI'm Mist. This is Rody.",
-        "pt": "[Mist]\nEi, ei. Isso é papo velho. E, você, e todo mundo já sabe. Não é novidade.\nDe qualquer forma, lá... qual é o nome mesmo?\nEu sou a Mist. Este aqui é o Rody.",
-        "es": "[Mist]\nOye, oye. Eso ya lo sabemos todos, tú, yo y los demás. No hace falta repetirlo.\nEn fin, tú... ¿cómo te llamas?\nYo soy Mist. Este de aquí es Rody."
+        "ko-KR": "[미스트]\n야, 야. 그건 너도 나도 이쪽도 다 아는 얘기야. 새삼스럽다.\n어쨌든, 거기... 이름이 뭐더라?\n난 미스트. 이쪽은 로디.",
+        "en-US": "[Mist]\nHey, hey. That's old news to you, me, and everyone else. Nothing new.\nAnyway, you... What's your name again?\nI'm Mist. This is Rody.",
+        "pt-BR": "[Mist]\nEi, ei. Isso é papo velho. E, você, e todo mundo já sabe. Não é novidade.\nDe qualquer forma, lá... qual é o nome mesmo?\nEu sou a Mist. Este aqui é o Rody.",
+        "es-ES": "[Mist]\nOye, oye. Eso ya lo sabemos todos, tú, yo y los demás. No hace falta repetirlo.\nEn fin, tú... ¿cómo te llamas?\nYo soy Mist. Este de aquí es Rody."
     },
     "MnVtDA": {
-        "ko": "[{0}]\n체인하트와 아는 사이, {0}.",
-        "en": "[{0}]\nAn acquaintance of Chainhart, {0}.",
-        "pt": "[{0}]\nUm conhecido de Chainhart, {0}.",
-        "es": "[{0}]\nSoy {0}, un conocido de Chainhart."
+        "ko-KR": "[{0}]\n체인하트와 아는 사이, {0}.",
+        "en-US": "[{0}]\nAn acquaintance of Chainhart, {0}.",
+        "pt-BR": "[{0}]\nUm conhecido de Chainhart, {0}.",
+        "es-ES": "[{0}]\nSoy {0}, un conocido de Chainhart."
     },
     "M3VtDA": {
-        "ko": "[로디]\n아 거, 미안하다니까.\n체인하트가 인정할 만하긴 하군.",
-        "en": "[Rody]\nAh, I told you I'm sorry.\nChainhart is pretty impressive, I'll give him that.",
-        "pt": "[Rody]\nAh, olha, já disse que me desculpo.\nO Chainhart realmente tem razão.",
-        "es": "[Rody]\nAh, oye, ya te pedí perdón.\nHay que reconocer que Chainhart tiene razón."
+        "ko-KR": "[로디]\n아 거, 미안하다니까.\n체인하트가 인정할 만하긴 하군.",
+        "en-US": "[Rody]\nAh, I told you I'm sorry.\nChainhart is pretty impressive, I'll give him that.",
+        "pt-BR": "[Rody]\nAh, olha, já disse que me desculpo.\nO Chainhart realmente tem razão.",
+        "es-ES": "[Rody]\nAh, oye, ya te pedí perdón.\nHay que reconocer que Chainhart tiene razón."
     },
     "NHVtDA": {
-        "ko": "[미스트]\n어쨌든 {0}.\n그 향상심이면 이제 슬슬 ^0000FF마이스터^000000의 길을 모색해 보는 건 어때?\n애초에 우리랑은 다른 연구를 하고 있는 그쪽이라면...",
-        "en": "[Mist]\nAnyway, {0}.\nIf you're so eager to improve yourself, why not start looking into the path of becoming a ^0000FFMeister^000000?\nSince you're already pursuing different research than us...",
-        "pt": "[Mist]\nDe qualquer forma, {0}.\nCom essa vontade de melhorar, que tal começar a pensar em seguir o caminho de um ^0000FFEngenheiro^000000?\nJá que você tá fazendo pesquisas diferentes das nossas...",
-        "es": "[Mist]\nEn fin, {0}.\nCon ese espíritu de superación, ¿qué tal si empiezas a explorar el camino de ^0000FFMeister^000000?\nSi tú estás haciendo una investigación diferente a la nuestra desde el principio..."
+        "ko-KR": "[미스트]\n어쨌든 {0}.\n그 향상심이면 이제 슬슬 ^0000FF마이스터^000000의 길을 모색해 보는 건 어때?\n애초에 우리랑은 다른 연구를 하고 있는 그쪽이라면...",
+        "en-US": "[Mist]\nAnyway, {0}.\nIf you're so eager to improve yourself, why not start looking into the path of becoming a ^0000FFMeister^000000?\nSince you're already pursuing different research than us...",
+        "pt-BR": "[Mist]\nDe qualquer forma, {0}.\nCom essa vontade de melhorar, que tal começar a pensar em seguir o caminho de um ^0000FFEngenheiro^000000?\nJá que você tá fazendo pesquisas diferentes das nossas...",
+        "es-ES": "[Mist]\nEn fin, {0}.\nCon ese espíritu de superación, ¿qué tal si empiezas a explorar el camino de ^0000FFMeister^000000?\nSi tú estás haciendo una investigación diferente a la nuestra desde el principio..."
     },
     "NXVtDA": {
-        "ko": "[로디]\n뭐, 목숨 정도야 별 문제도 아니지.",
-        "en": "[Rody]\nWell, life isn't much of a problem.",
-        "pt": "[Rody]\nBem, a vida não é grande coisa.",
-        "es": "[Rody]\nBueno, la vida no es gran cosa."
+        "ko-KR": "[로디]\n뭐, 목숨 정도야 별 문제도 아니지.",
+        "en-US": "[Rody]\nWell, life isn't much of a problem.",
+        "pt-BR": "[Rody]\nBem, a vida não é grande coisa.",
+        "es-ES": "[Rody]\nBueno, la vida no es gran cosa."
     },
     "NnVtDA": {
-        "ko": "미스트: 이 자식이 진짜...",
-        "en": "Mist: This bastard really...",
-        "pt": "Mist: Esse cara é mesmo um...",
-        "es": "Mist: Este tipo es realmente..."
+        "ko-KR": "미스트: 이 자식이 진짜...",
+        "en-US": "Mist: This bastard really...",
+        "pt-BR": "Mist: Esse cara é mesmo um...",
+        "es-ES": "Mist: Este tipo es realmente..."
     },
     "N3VtDA": {
-        "ko": "[미스트]\n로디가 말이 심하긴 한데 틀린 말도 아니야.\n체인하트의 직감 이야기 나도 들었는데... 죽을 각오 정도는 했었다며?\n하지만 앞으로는 그러지 말아.\n목숨이 있고 나서 연구가 있으니까.",
-        "en": "[Mist]\nRody's being a jerk, but I have to agree with him.\nI've heard the story about Chainhart's foreboding. Were you really ready to die?\nBut don't do that again.\nYou need to be alive to do your research.",
-        "pt": "[Mist]\nO Rody é rude, mas não está errado.\nEu também ouvi falar da intuição do Chainhart... Você já estava preparado para morrer, não é?\nMas não faça isso de novo.\nÉ preciso ter vida pra poder pesquisar.",
-        "es": "[Mist]\nAunque Rody sea un poco duro, no le falta razón.\nYo también escuché lo de la intuición de Chainhart... ¿No dijiste que estabas preparado para morir?\nPero no lo vuelvas a hacer.\nPrimero está la vida, y luego la investigación."
+        "ko-KR": "[미스트]\n로디가 말이 심하긴 한데 틀린 말도 아니야.\n체인하트의 직감 이야기 나도 들었는데... 죽을 각오 정도는 했었다며?\n하지만 앞으로는 그러지 말아.\n목숨이 있고 나서 연구가 있으니까.",
+        "en-US": "[Mist]\nRody's being a jerk, but I have to agree with him.\nI've heard the story about Chainhart's foreboding. Were you really ready to die?\nBut don't do that again.\nYou need to be alive to do your research.",
+        "pt-BR": "[Mist]\nO Rody é rude, mas não está errado.\nEu também ouvi falar da intuição do Chainhart... Você já estava preparado para morrer, não é?\nMas não faça isso de novo.\nÉ preciso ter vida pra poder pesquisar.",
+        "es-ES": "[Mist]\nAunque Rody sea un poco duro, no le falta razón.\nYo también escuché lo de la intuición de Chainhart... ¿No dijiste que estabas preparado para morir?\nPero no lo vuelvas a hacer.\nPrimero está la vida, y luego la investigación."
     },
     "OHVtDA": {
-        "ko": "로디: 너 너무 친절해, 미스트.",
-        "en": "Rody: You're being too kind, Mist.",
-        "pt": "Rody: Você é muito gentil, Mist.",
-        "es": "Rody: Eres demasiado amable, Mist."
+        "ko-KR": "로디: 너 너무 친절해, 미스트.",
+        "en-US": "Rody: You're being too kind, Mist.",
+        "pt-BR": "Rody: Você é muito gentil, Mist.",
+        "es-ES": "Rody: Eres demasiado amable, Mist."
     },
     "OXVtDA": {
-        "ko": "[미스트]\n미케닉은 보수적이야. 그럴 수밖에 없지.\n좋은 의미로 비규격인 그쪽은 아직도 잘 모를 수도 있겠지만... 논문 없이 미케닉이 된 사람들이야말로 미케닉에 머무르는 건 어울리지 않아.\n내 스승님을 소개해 주지.",
-        "en": "[Mist]\nWe Mechanics are conservative. We have to be.\nYou may not know this since you're a non-standard member, and I'm jealous of you. But people like you who became Mechanics without publishing a paper don't belong here.\nLet me introduce you to my mentor.",
-        "pt": "[Mist]\nOs mecânicos são conservadores. Não há outra opção.\nVocê, que é diferente de todos aqui, talvez não saiba disso... Mas justamente por ter se tornado mecânico sem ter publicado nenhum artigo, você não se encaixa aqui.\nVou te apresentar ao meu mestre.",
-        "es": "[Mist]\nLos mecánicos son conservadores. No les queda otra.\nPuede que tú, que eres atípico en el buen sentido, aún no lo entiendas bien... pero precisamente los que se hicieron mecánicos sin tesis son los que menos encajan en seguir siendo mecánicos.\nTe voy a presentar a mi maestro."
+        "ko-KR": "[미스트]\n미케닉은 보수적이야. 그럴 수밖에 없지.\n좋은 의미로 비규격인 그쪽은 아직도 잘 모를 수도 있겠지만... 논문 없이 미케닉이 된 사람들이야말로 미케닉에 머무르는 건 어울리지 않아.\n내 스승님을 소개해 주지.",
+        "en-US": "[Mist]\nWe Mechanics are conservative. We have to be.\nYou may not know this since you're a non-standard member, and I'm jealous of you. But people like you who became Mechanics without publishing a paper don't belong here.\nLet me introduce you to my mentor.",
+        "pt-BR": "[Mist]\nOs mecânicos são conservadores. Não há outra opção.\nVocê, que é diferente de todos aqui, talvez não saiba disso... Mas justamente por ter se tornado mecânico sem ter publicado nenhum artigo, você não se encaixa aqui.\nVou te apresentar ao meu mestre.",
+        "es-ES": "[Mist]\nLos mecánicos son conservadores. No les queda otra.\nPuede que tú, que eres atípico en el buen sentido, aún no lo entiendas bien... pero precisamente los que se hicieron mecánicos sin tesis son los que menos encajan en seguir siendo mecánicos.\nTe voy a presentar a mi maestro."
     },
     "OnVtDA": {
-        "ko": "[미스트]\n지금은 베루스에 가 계셔.\n소개장? 그런 거 필요 없어.\n베루스의 마이스터\n<NAVI>[마우라 파올라 라그랑주]<INFO>verus04,214,251,0,101,0</INFO></NAVI>를 찾아가서 미스티리아 트러스트가 보냈다고 해.",
-        "en": "[Mist]\nShe's in Verus right now.\nAn introduction letter? You don't need that.\nJust go to Verus and look for\nMeister [<NAVI>Maura Paola Lagrange<INFO>verus04,214,251,0,101,0</INFO></NAVI>] and tell that Mistiria Trust sent you.",
-        "pt": "[Mist]\nEla está em Verus agora.\nCarta de apresentação? Não precisa disso.\nProcure minha mestra [<NAVI>Maura Paula Lagrange<INFO>verus04,214,251,0,101,0</INFO></NAVI>] \nem Verus e diga que foi enviado pela Mistiria Trust.",
-        "es": "[Mist]\nAhora está en Verus.\n¿Una carta de presentación? No hace falta nada de eso.\nVe a ver a la maestra de Verus\n<NAVI>[Maura Paola Lagrange]<INFO>verus04,214,251,0,101,0</INFO></NAVI> y dile que te envía Mistiria Trust."
+        "ko-KR": "[미스트]\n지금은 베루스에 가 계셔.\n소개장? 그런 거 필요 없어.\n베루스의 마이스터\n<NAVI>[마우라 파올라 라그랑주]<INFO>verus04,214,251,0,101,0</INFO></NAVI>를 찾아가서 미스티리아 트러스트가 보냈다고 해.",
+        "en-US": "[Mist]\nShe's in Verus right now.\nAn introduction letter? You don't need that.\nJust go to Verus and look for\nMeister [<NAVI>Maura Paola Lagrange<INFO>verus04,214,251,0,101,0</INFO></NAVI>] and tell that Mistiria Trust sent you.",
+        "pt-BR": "[Mist]\nEla está em Verus agora.\nCarta de apresentação? Não precisa disso.\nProcure minha mestra [<NAVI>Maura Paula Lagrange<INFO>verus04,214,251,0,101,0</INFO></NAVI>] \nem Verus e diga que foi enviado pela Mistiria Trust.",
+        "es-ES": "[Mist]\nAhora está en Verus.\n¿Una carta de presentación? No hace falta nada de eso.\nVe a ver a la maestra de Verus\n<NAVI>[Maura Paola Lagrange]<INFO>verus04,214,251,0,101,0</INFO></NAVI> y dile que te envía Mistiria Trust."
     },
     "O3VtDA": {
-        "ko": "== 스킬 포인트가 남아 있습니다. ==",
-        "en": "== You have skill points remaining. ==",
-        "pt": "== Você ainda tem pontos de habilidade restantes. ==",
-        "es": "== Todavía tienes puntos de habilidad restantes. =="
+        "ko-KR": "== 스킬 포인트가 남아 있습니다. ==",
+        "en-US": "== You have skill points remaining. ==",
+        "pt-BR": "== Você ainda tem pontos de habilidade restantes. ==",
+        "es-ES": "== Todavía tienes puntos de habilidad restantes. =="
     },
     "PHVtDA": {
-        "ko": "[?????]\n얘, 넌 거기서 비비지 말고 나 좀 보자",
-        "en": "Hey, stop messing around over there and look at me.",
-        "pt": "[?????]\nEi, não fique zanzando por aí e olhe pra cá.",
-        "es": "[?????]\nOye, no te quedes ahí frotándote, ven a verme"
+        "ko-KR": "[?????]\n얘, 넌 거기서 비비지 말고 나 좀 보자",
+        "en-US": "Hey, stop messing around over there and look at me.",
+        "pt-BR": "[?????]\nEi, não fique zanzando por aí e olhe pra cá.",
+        "es-ES": "[?????]\nOye, no te quedes ahí frotándote, ven a verme"
     },
     "PXVtDA": {
-        "ko": "[로디]\n하지만 미스트. 네 이론에는 문제가 있어.\n그래서야 연구비를 충당할 수 있겠어?",
-        "en": "[Rody]\nBut Mist, your logic is flawed.\nHow are you going to replenish your research funds with that?",
-        "pt": "[Rody]\nMas, Mist. Tem um problema na tua teoria.\nVocê vai conseguir cobrir os custos da pesquisa assim?",
-        "es": "[Rody]\nPero Mist. Tu teoría tiene un problema.\n¿Así vas a poder cubrir los gastos de investigación?"
+        "ko-KR": "[로디]\n하지만 미스트. 네 이론에는 문제가 있어.\n그래서야 연구비를 충당할 수 있겠어?",
+        "en-US": "[Rody]\nBut Mist, your logic is flawed.\nHow are you going to replenish your research funds with that?",
+        "pt-BR": "[Rody]\nMas, Mist. Tem um problema na tua teoria.\nVocê vai conseguir cobrir os custos da pesquisa assim?",
+        "es-ES": "[Rody]\nPero Mist. Tu teoría tiene un problema.\n¿Así vas a poder cubrir los gastos de investigación?"
     },
     "PnVtDA": {
-        "ko": "미스트: 그건 심사를 해 보면 알 일이고.",
-        "en": "Mist: That's something the evaluator will tell me.",
-        "pt": "Mist: Isso é algo que só saberemos depois da avaliação.",
-        "es": "Mist: Eso se sabrá cuando nos evalúen."
+        "ko-KR": "미스트: 그건 심사를 해 보면 알 일이고.",
+        "en-US": "Mist: That's something the evaluator will tell me.",
+        "pt-BR": "Mist: Isso é algo que só saberemos depois da avaliação.",
+        "es-ES": "Mist: Eso se sabrá cuando nos evalúen."
     },
     "P3VtDA": {
-        "ko": "[로디]\n우리는 안주한 게 아니라, 아직 지식도, 경험도 부족할 뿐이야.\n체인하트도 마찬가지지.",
-        "en": "[Rody]\nWe're not satisfied yet. We need more knowledge and experience.\nThe same goes for Chainhart.",
-        "pt": "[Rody]\nNão é que a gente tenha se acomodado, é só que ainda nos falta conhecimento e experiência.\nChainhart também está na mesma situação.",
-        "es": "[Rody]\nNo es que nos hayamos acomodado, es solo que aún nos falta conocimiento y experiencia.\nLo mismo pasa con Chainhart."
+        "ko-KR": "[로디]\n우리는 안주한 게 아니라, 아직 지식도, 경험도 부족할 뿐이야.\n체인하트도 마찬가지지.",
+        "en-US": "[Rody]\nWe're not satisfied yet. We need more knowledge and experience.\nThe same goes for Chainhart.",
+        "pt-BR": "[Rody]\nNão é que a gente tenha se acomodado, é só que ainda nos falta conhecimento e experiência.\nChainhart também está na mesma situação.",
+        "es-ES": "[Rody]\nNo es que nos hayamos acomodado, es solo que aún nos falta conocimiento y experiencia.\nLo mismo pasa con Chainhart."
     },
     "QHVtDA": {
-        "ko": "[로디]\n난 연구가 잘 안 맞는 게 아닌가? 하는 생각을 가끔 해.",
-        "en": "[Rody]\nSometimes I wonder if research isn't really my thing.",
-        "pt": "[Rody]\nÀs vezes penso que talvez a pesquisa não seja o meu forte.",
-        "es": "[Rody]\nA veces pienso que quizá la investigación no sea lo mío."
+        "ko-KR": "[로디]\n난 연구가 잘 안 맞는 게 아닌가? 하는 생각을 가끔 해.",
+        "en-US": "[Rody]\nSometimes I wonder if research isn't really my thing.",
+        "pt-BR": "[Rody]\nÀs vezes penso que talvez a pesquisa não seja o meu forte.",
+        "es-ES": "[Rody]\nA veces pienso que quizá la investigación no sea lo mío."
     },
     "QXVtDA": {
-        "ko": "[로디]\n미스트의 선생님을 만나고 왔나?\n다음에도 살아서 만나자구.",
-        "en": "[Rody]\nDid you talk to Mist's teacher?\nUntil we meet again, let's try not to kill ourselves.",
-        "pt": "[Rody]\nVocê foi encontrar a professora da Mist?\nVamos nos encontrar de novo, e vivos.",
-        "es": "[Rody]\n¿Fuiste a ver al maestro de Mist?\nQue nos volvamos a ver con vida la próxima vez."
+        "ko-KR": "[로디]\n미스트의 선생님을 만나고 왔나?\n다음에도 살아서 만나자구.",
+        "en-US": "[Rody]\nDid you talk to Mist's teacher?\nUntil we meet again, let's try not to kill ourselves.",
+        "pt-BR": "[Rody]\nVocê foi encontrar a professora da Mist?\nVamos nos encontrar de novo, e vivos.",
+        "es-ES": "[Rody]\n¿Fuiste a ver al maestro de Mist?\nQue nos volvamos a ver con vida la próxima vez."
     },
     "QnVtDA": {
-        "ko": "미스트",
-        "en": "Mist",
-        "pt": "Mist",
-        "es": "Mist"
+        "ko-KR": "미스트",
+        "en-US": "Mist",
+        "pt-BR": "Mist",
+        "es-ES": "Mist"
     },
     "Q3VtDA": {
-        "ko": "[미스트]\n누가 들으면 가난뱅이인줄 알겠어.",
-        "en": "[Mist]\nIf others heard you, they'd think we're paupers.",
-        "pt": "[Mist]\nSe alguém ouvir isso, vão achar que sou um mendigo.",
-        "es": "[Mist]\nSi alguien lo oye, pensará que somos unos pobres."
+        "ko-KR": "[미스트]\n누가 들으면 가난뱅이인줄 알겠어.",
+        "en-US": "[Mist]\nIf others heard you, they'd think we're paupers.",
+        "pt-BR": "[Mist]\nSe alguém ouvir isso, vão achar que sou um mendigo.",
+        "es-ES": "[Mist]\nSi alguien lo oye, pensará que somos unos pobres."
     },
     "RHVtDA": {
-        "ko": "[미스트]\n뭐야, 동업자.\n응? 길을 잃었다고? 무슨 소리야, 동업자쯤 되면 여기서 길을 잃을 리가 없잖아.\n난 좀 바빠. 이 친구랑 놀아.",
-        "en": "[Mist]\nHey there, partner.\nMm? You're lost. What are you talking about? You're way too experienced to get lost here.\nI'm a bit busy right now. Talk to him instead.",
-        "pt": "[Mist]\nO que foi, parceiro?\nHã? Você se perdeu? Que conversa é essa? Um parceiro como você não tem como se perder por aqui.\nEstou um pouco ocupada. Fale com aquele cara ali.",
-        "es": "[Mist]\n¿Qué pasa, compañero?\n¿Eh? ¿Te perdiste? ¿Qué dices? Si eres mi compañero, no hay forma de que te pierdas aquí.\nEstoy un poco ocupado. Juega con este amigo."
+        "ko-KR": "[미스트]\n뭐야, 동업자.\n응? 길을 잃었다고? 무슨 소리야, 동업자쯤 되면 여기서 길을 잃을 리가 없잖아.\n난 좀 바빠. 이 친구랑 놀아.",
+        "en-US": "[Mist]\nHey there, partner.\nMm? You're lost. What are you talking about? You're way too experienced to get lost here.\nI'm a bit busy right now. Talk to him instead.",
+        "pt-BR": "[Mist]\nO que foi, parceiro?\nHã? Você se perdeu? Que conversa é essa? Um parceiro como você não tem como se perder por aqui.\nEstou um pouco ocupada. Fale com aquele cara ali.",
+        "es-ES": "[Mist]\n¿Qué pasa, compañero?\n¿Eh? ¿Te perdiste? ¿Qué dices? Si eres mi compañero, no hay forma de que te pierdas aquí.\nEstoy un poco ocupado. Juega con este amigo."
     },
     "RXVtDA": {
-        "ko": "[미스트]\n베루스의 내 <NAVI>[스승님]<INFO>verus04,214,251,0,101,0</INFO></NAVI>을 찾아가서 이야길 해 봐.\n전직 정도 도와주지 않을까?\n...왜 널 도와주냐고?\n동업자잖아?",
-        "en": "[Mist]\nGo talk to my <NAVI>[teacher]<INFO>verus04,214,251,0,101,0</INFO></NAVI> in Verus.\nMaybe they'll help you change jobs?\n...Why should they help you?\nYou're partners, aren't you?",
-        "pt": "[Mist]\nVá lá falar com a minha [<NAVI>Mestra<INFO>verus04,214,251,0,101,0</INFO></NAVI>] em Verus.\nTalvez ela te ajude com a mudança de classe?\n...Por que te ajudaria?\nSomos parceiros, não é?",
-        "es": "[Mist]\nVe a ver a mi <NAVI>[Maestro]<INFO>verus04,214,251,0,101,0</INFO></NAVI> de Verus y habla con él.\n¿Quizás te ayude con el cambio de profesión?\n...¿Por qué te ayudaría?\n¿No somos compañeros?"
+        "ko-KR": "[미스트]\n베루스의 내 <NAVI>[스승님]<INFO>verus04,214,251,0,101,0</INFO></NAVI>을 찾아가서 이야길 해 봐.\n전직 정도 도와주지 않을까?\n...왜 널 도와주냐고?\n동업자잖아?",
+        "en-US": "[Mist]\nGo talk to my <NAVI>[teacher]<INFO>verus04,214,251,0,101,0</INFO></NAVI> in Verus.\nMaybe they'll help you change jobs?\n...Why should they help you?\nYou're partners, aren't you?",
+        "pt-BR": "[Mist]\nVá lá falar com a minha [<NAVI>Mestra<INFO>verus04,214,251,0,101,0</INFO></NAVI>] em Verus.\nTalvez ela te ajude com a mudança de classe?\n...Por que te ajudaria?\nSomos parceiros, não é?",
+        "es-ES": "[Mist]\nVe a ver a mi <NAVI>[Maestro]<INFO>verus04,214,251,0,101,0</INFO></NAVI> de Verus y habla con él.\n¿Quizás te ayude con el cambio de profesión?\n...¿Por qué te ayudaría?\n¿No somos compañeros?"
     },
     "RnVtDA": {
-        "ko": "[미스트]\n아. 베루스는 다녀왔어?\n고생길 훤하다. 힘내라구.",
-        "en": "[Mist]\nAh. Did you go to Verus?\nYou've got your work cut out for you. Buck up.",
-        "pt": "[Mist]\nAh. Já foi para Verus?\nO caminho não vai ser fácil. Dê o seu melhor.",
-        "es": "[Mist]\nAh. ¿Ya fuiste a ver a Verus?\nTe espera un camino difícil. Ánimo."
+        "ko-KR": "[미스트]\n아. 베루스는 다녀왔어?\n고생길 훤하다. 힘내라구.",
+        "en-US": "[Mist]\nAh. Did you go to Verus?\nYou've got your work cut out for you. Buck up.",
+        "pt-BR": "[Mist]\nAh. Já foi para Verus?\nO caminho não vai ser fácil. Dê o seu melhor.",
+        "es-ES": "[Mist]\nAh. ¿Ya fuiste a ver a Verus?\nTe espera un camino difícil. Ánimo."
     },
     "R3VtDA": {
-        "ko": "[미스트]\n이게 누구야. 신수가 훤하네?\n더 큰 연구 성과, 기대하겠어.",
-        "en": "[Mist]\nLook who's here! You look nice!\nI look forward to hearing the news of your research accomplishments.",
-        "pt": "[Mist]\nQuem é esse aí? Parece ter um futuro brilhante, não é?\nEspero por ótimos feitos científicos.",
-        "es": "[Mist]\n¿Quién es este? ¿Tienes buena suerte?\nEspero grandes resultados en tus investigaciones."
+        "ko-KR": "[미스트]\n이게 누구야. 신수가 훤하네?\n더 큰 연구 성과, 기대하겠어.",
+        "en-US": "[Mist]\nLook who's here! You look nice!\nI look forward to hearing the news of your research accomplishments.",
+        "pt-BR": "[Mist]\nQuem é esse aí? Parece ter um futuro brilhante, não é?\nEspero por ótimos feitos científicos.",
+        "es-ES": "[Mist]\n¿Quién es este? ¿Tienes buena suerte?\nEspero grandes resultados en tus investigaciones."
     },
     "SHVtDA": {
-        "ko": "마우라",
-        "en": "Maura",
-        "pt": "Maura",
-        "es": "Maura"
+        "ko-KR": "마우라",
+        "en-US": "Maura",
+        "pt-BR": "Maura",
+        "es-ES": "Maura"
     },
     "SXVtDA": {
-        "ko": "<은의 왼발>",
-        "en": "<Silver Left Foot>",
-        "pt": "<Pé Esquerdo de Prata>",
-        "es": "<La pierna izquierda de la plata>"
+        "ko-KR": "<은의 왼발>",
+        "en-US": "<Silver Left Foot>",
+        "pt-BR": "<Pé Esquerdo de Prata>",
+        "es-ES": "<La pierna izquierda de la plata>"
     },
     "SnVtDA": {
-        "ko": "[마우라]\n슬슬 준비는 다 되었는데...\n혼자 하긴 좀 심심할 것 같고...",
-        "en": "[Maura]\nEverything's ready, but...\nI don't want to do it alone...",
-        "pt": "[Maura]\nJá estou quase pronta...\nMas parece que vai ser meio chato fazer isso sozinha...",
-        "es": "[Maura]\nYa casi estoy lista...\nPero me parece que hacerlo sola va a ser un poco aburrido..."
+        "ko-KR": "[마우라]\n슬슬 준비는 다 되었는데...\n혼자 하긴 좀 심심할 것 같고...",
+        "en-US": "[Maura]\nEverything's ready, but...\nI don't want to do it alone...",
+        "pt-BR": "[Maura]\nJá estou quase pronta...\nMas parece que vai ser meio chato fazer isso sozinha...",
+        "es-ES": "[Maura]\nYa casi estoy lista...\nPero me parece que hacerlo sola va a ser un poco aburrido..."
     },
     "S3VtDA": {
-        "ko": "[마우라]\n이거 참. 일도 안 되고...\n어우. 깜짝이야.\n언제부터 거기 서 있었어, 미케닉?",
-        "en": "[Maura]\nThis is just great. I can't get any work done...\nWah! Geez!\nHow long have you been standing there, Mechanic?",
-        "pt": "[Maura]\nQue situação. Não consigo trabalhar...\nNossa. Que susto.\nDesde quando você está aí, Mecânico?",
-        "es": "[Maura]\nVaya, qué lío. No consigo hacer nada...\n¡Ay! ¡Qué susto!\n¿Desde cuándo estás ahí, Mecánico?"
+        "ko-KR": "[마우라]\n이거 참. 일도 안 되고...\n어우. 깜짝이야.\n언제부터 거기 서 있었어, 미케닉?",
+        "en-US": "[Maura]\nThis is just great. I can't get any work done...\nWah! Geez!\nHow long have you been standing there, Mechanic?",
+        "pt-BR": "[Maura]\nQue situação. Não consigo trabalhar...\nNossa. Que susto.\nDesde quando você está aí, Mecânico?",
+        "es-ES": "[Maura]\nVaya, qué lío. No consigo hacer nada...\n¡Ay! ¡Qué susto!\n¿Desde cuándo estás ahí, Mecánico?"
     },
     "THVtDA": {
-        "ko": "[마우라]\n나한테 볼 일 있어?\n있는 거면 좀 불러, 인기척 없이 다가오지 말고... 놀랐잖아.\n무슨 일이야?",
-        "en": "[Maura]\nDo you have any business with me?\nIf you do, you should have called me instead of sneaking up on me like that. You made my heart stop.\nWhat is it?",
-        "pt": "[Maura]\nVocê tem assuntos comigo?\nSe sim, deveria ter me chamado ao invés de ficar aí escondido. Levei um susto!\nO que você quer?",
-        "es": "[Maura]\n¿Me buscas?\nSi es así, avísame, no te acerques sin hacer ruido... Me has dado un susto.\n¿Qué pasa?"
+        "ko-KR": "[마우라]\n나한테 볼 일 있어?\n있는 거면 좀 불러, 인기척 없이 다가오지 말고... 놀랐잖아.\n무슨 일이야?",
+        "en-US": "[Maura]\nDo you have any business with me?\nIf you do, you should have called me instead of sneaking up on me like that. You made my heart stop.\nWhat is it?",
+        "pt-BR": "[Maura]\nVocê tem assuntos comigo?\nSe sim, deveria ter me chamado ao invés de ficar aí escondido. Levei um susto!\nO que você quer?",
+        "es-ES": "[Maura]\n¿Me buscas?\nSi es así, avísame, no te acerques sin hacer ruido... Me has dado un susto.\n¿Qué pasa?"
     },
     "TXVtDA": {
-        "ko": "미스티리아 트러스트가",
-        "en": "Mistyria Trust...",
-        "pt": "Mistiria Trust",
-        "es": "Mistiria Trust"
+        "ko-KR": "미스티리아 트러스트가",
+        "en-US": "Mistyria Trust...",
+        "pt-BR": "Mistiria Trust",
+        "es-ES": "Mistiria Trust"
     },
     "TnVtDA": {
-        "ko": "[{0}]\n유노에서 우연히 만난 동업자 미스티리아 트러스트가, 베루스에...",
-        "en": "[{0}]\nMy partner, Mistyria Trust, whom I came across in Juno, said you're in Veru--",
-        "pt": "[{0}]\nA Mistyra Trust, uma parceira que conheci por acaso em Juno, está em Verus...",
-        "es": "[{0}]\nMistiria Trust, una compañera de trabajo que conocí por casualidad en Yuno, en Berus..."
+        "ko-KR": "[{0}]\n유노에서 우연히 만난 동업자 미스티리아 트러스트가, 베루스에...",
+        "en-US": "[{0}]\nMy partner, Mistyria Trust, whom I came across in Juno, said you're in Veru--",
+        "pt-BR": "[{0}]\nA Mistyra Trust, uma parceira que conheci por acaso em Juno, está em Verus...",
+        "es-ES": "[{0}]\nMistiria Trust, una compañera de trabajo que conocí por casualidad en Yuno, en Berus..."
     },
     "T3VtDA": {
-        "ko": "[마우라]\n아, 또!\n그 자식, 또!!",
-        "en": "[Maura]\nAh, again!\nThat brat, again!!",
-        "pt": "[Maura]\nAh, de novo!\nAquela garota, de novo!!",
-        "es": "[Maura]\n¡Ah, otra vez!\n¡Ese tipo, otra vez!!"
+        "ko-KR": "[마우라]\n아, 또!\n그 자식, 또!!",
+        "en-US": "[Maura]\nAh, again!\nThat brat, again!!",
+        "pt-BR": "[Maura]\nAh, de novo!\nAquela garota, de novo!!",
+        "es-ES": "[Maura]\n¡Ah, otra vez!\n¡Ese tipo, otra vez!!"
     },
     "UHVtDA": {
-        "ko": "[{0}]\n...?\n뭔가 잘못됐나요?",
-        "en": "[{0}]...?\n\nIs something wrong?",
-        "pt": "[{0}]\n...?\nAconteceu alguma coisa?",
-        "es": "[{0}]\n...?\n¿Pasa algo?"
+        "ko-KR": "[{0}]\n...?\n뭔가 잘못됐나요?",
+        "en-US": "[{0}]...?\n\nIs something wrong?",
+        "pt-BR": "[{0}]\n...?\nAconteceu alguma coisa?",
+        "es-ES": "[{0}]\n...?\n¿Pasa algo?"
     },
     "UXVtDA": {
-        "ko": "[마우라]\n아니... 그런 거 아니고...\n그 자식은 자기는 마이스터가 되고 싶지 않다고 하면서 싹수가 파란 애들만 보면 죄다 모아서 나한테 보낸단 말야.\n내가 어디 있는지 이번엔 또 어떻게 안 거야?",
-        "en": "[Maura]\nNo... it's not that...\nThat girl says she doesn't want to become a Meister herself, but she keeps gathering up all the promising kids she sees and sending them to me.\nHow did she know where I was this time?",
-        "pt": "[Maura]\nNão... não é nada disso...\nAquela garota diz que não quer ser uma Engenheira, mas sempre que vê umas pessoas promissores, os manda pra mim.\nComo ela descobriu onde eu estava dessa vez?",
-        "es": "[Maura]\nNo... no es eso...\nEse tipo dice que no quiere ser Meister, pero cada vez que ve a chicos prometedores, los junta a todos y me los envía.\n¿Cómo es que esta vez también supo dónde estoy?"
+        "ko-KR": "[마우라]\n아니... 그런 거 아니고...\n그 자식은 자기는 마이스터가 되고 싶지 않다고 하면서 싹수가 파란 애들만 보면 죄다 모아서 나한테 보낸단 말야.\n내가 어디 있는지 이번엔 또 어떻게 안 거야?",
+        "en-US": "[Maura]\nNo... it's not that...\nThat girl says she doesn't want to become a Meister herself, but she keeps gathering up all the promising kids she sees and sending them to me.\nHow did she know where I was this time?",
+        "pt-BR": "[Maura]\nNão... não é nada disso...\nAquela garota diz que não quer ser uma Engenheira, mas sempre que vê umas pessoas promissores, os manda pra mim.\nComo ela descobriu onde eu estava dessa vez?",
+        "es-ES": "[Maura]\nNo... no es eso...\nEse tipo dice que no quiere ser Meister, pero cada vez que ve a chicos prometedores, los junta a todos y me los envía.\n¿Cómo es que esta vez también supo dónde estoy?"
     },
     "UnVtDA": {
-        "ko": "[마우라]\n그래, 젊은 미케닉이여. 미케닉은 어떤 경위로 되게 되었지?",
-        "en": "[Maura]\nSo, young Mechanic. How did you become a Mechanic?",
-        "pt": "[Maura]\nEntão, jovem mecânico. Como você se tornou um mecânico?",
-        "es": "[Maura]\nSí, joven mecánico. ¿Cómo es que te convertiste en mecánico?"
+        "ko-KR": "[마우라]\n그래, 젊은 미케닉이여. 미케닉은 어떤 경위로 되게 되었지?",
+        "en-US": "[Maura]\nSo, young Mechanic. How did you become a Mechanic?",
+        "pt-BR": "[Maura]\nEntão, jovem mecânico. Como você se tornou um mecânico?",
+        "es-ES": "[Maura]\nSí, joven mecánico. ¿Cómo es que te convertiste en mecánico?"
     },
     "U3VtDA": {
-        "ko": "체인하트라고 혹시...",
-        "en": "Chainhart, by any chance...",
-        "pt": "Por acaso, foi o Chainhart...",
-        "es": "¿Por casualidad te llamas Chainhart...?"
+        "ko-KR": "체인하트라고 혹시...",
+        "en-US": "Chainhart, by any chance...",
+        "pt-BR": "Por acaso, foi o Chainhart...",
+        "es-ES": "¿Por casualidad te llamas Chainhart...?"
     },
     "VHVtDA": {
-        "ko": "[마우라]\n아... 체인하트의 제자가 너야?",
-        "en": "[Maura]\nOh... so you're Chainhart's student?",
-        "pt": "[Maura]\nAh... você é aluno do Chainhart?",
-        "es": "[Maura]\nAh... ¿Eres discípulo de Chainhart?"
+        "ko-KR": "[마우라]\n아... 체인하트의 제자가 너야?",
+        "en-US": "[Maura]\nOh... so you're Chainhart's student?",
+        "pt-BR": "[Maura]\nAh... você é aluno do Chainhart?",
+        "es-ES": "[Maura]\nAh... ¿Eres discípulo de Chainhart?"
     },
     "VXVtDA": {
-        "ko": "[{0}]\n제자는 아니지만요.",
-        "en": "[{0}]\nNot exactly.",
-        "pt": "[{0}]\nNão exatamente...",
-        "es": "[{0}]\nNo soy su discípulo."
+        "ko-KR": "[{0}]\n제자는 아니지만요.",
+        "en-US": "[{0}]\nNot exactly.",
+        "pt-BR": "[{0}]\nNão exatamente...",
+        "es-ES": "[{0}]\nNo soy su discípulo."
     },
     "VnVtDA": {
-        "ko": "[마우라]\n아아, 그러면 너도... 그걸 보고 왔다든가, 한 거야?\n우리 모두는, 그 프랭클슨의 제자 혹은 후배라는 증거의...",
-        "en": "[Maura]\nAh, then let me guess: you also have seen it, haven't you?\nThe proof of us being Frankelson's students or successors.",
-        "pt": "[Maura]\nAh, então você também... viu aquilo, ou algo assim?\nA prova de que somos discípulos ou sucessores daquele Frankelson...",
-        "es": "[Maura]\nAh, entonces tú también... ¿has visto eso o algo así?\nTodos nosotros, como prueba de que somos discípulos o sucesores de ese Frankelson..."
+        "ko-KR": "[마우라]\n아아, 그러면 너도... 그걸 보고 왔다든가, 한 거야?\n우리 모두는, 그 프랭클슨의 제자 혹은 후배라는 증거의...",
+        "en-US": "[Maura]\nAh, then let me guess: you also have seen it, haven't you?\nThe proof of us being Frankelson's students or successors.",
+        "pt-BR": "[Maura]\nAh, então você também... viu aquilo, ou algo assim?\nA prova de que somos discípulos ou sucessores daquele Frankelson...",
+        "es-ES": "[Maura]\nAh, entonces tú también... ¿has visto eso o algo así?\nTodos nosotros, como prueba de que somos discípulos o sucesores de ese Frankelson..."
     },
     "V3VtDA": {
-        "ko": "[마우라]\n...분수도 모르고 욕심을 내는 바람에 문 안에 갇혀서, 그렇게나 본인이 의심하던 불명확하고 애매한 것이 되어버린 그것을... 보았단 말이지.",
-        "en": "[Maura]\n...That thing whose greed for knowledge got it locked up in that place, forever wandering without knowing who it really was.",
-        "pt": "[Maura]\n...por ser gananciosa, fiquei presa daquele lugar e acabei vendo aquilo...\nAquela coisa vagando sem rumo eternamente, sem saber o que é....",
-        "es": "[Maura]\n...por no conocer nuestro lugar y ser tan ambiciosos que quedamos atrapados dentro de la puerta, y acabamos convirtiéndonos en eso mismo de lo que tanto sospechábamos: algo confuso y ambiguo... lo has visto, ¿no?"
+        "ko-KR": "[마우라]\n...분수도 모르고 욕심을 내는 바람에 문 안에 갇혀서, 그렇게나 본인이 의심하던 불명확하고 애매한 것이 되어버린 그것을... 보았단 말이지.",
+        "en-US": "[Maura]\n...That thing whose greed for knowledge got it locked up in that place, forever wandering without knowing who it really was.",
+        "pt-BR": "[Maura]\n...por ser gananciosa, fiquei presa daquele lugar e acabei vendo aquilo...\nAquela coisa vagando sem rumo eternamente, sem saber o que é....",
+        "es-ES": "[Maura]\n...por no conocer nuestro lugar y ser tan ambiciosos que quedamos atrapados dentro de la puerta, y acabamos convirtiéndonos en eso mismo de lo que tanto sospechábamos: algo confuso y ambiguo... lo has visto, ¿no?"
     },
     "WHVtDA": {
-        "ko": "[마우라]\n...",
-        "en": "[Maura]\n...",
-        "pt": "[Maura]\n...",
-        "es": "[Maura]\n..."
+        "ko-KR": "[마우라]\n...",
+        "en-US": "[Maura]\n...",
+        "pt-BR": "[Maura]\n...",
+        "es-ES": "[Maura]\n..."
     },
     "WXVtDA": {
-        "ko": "[마우라]\n그런 존재가 되어버리는 건 한 명으로 충분하지 않아?",
-        "en": "[Maura]\nIsn't one of those beings enough?",
-        "pt": "[Maura]\nNão basta uma só pessoa se tornar isso?",
-        "es": "[Maura]\n¿No basta con que haya una sola persona que se convierta en algo así?"
+        "ko-KR": "[마우라]\n그런 존재가 되어버리는 건 한 명으로 충분하지 않아?",
+        "en-US": "[Maura]\nIsn't one of those beings enough?",
+        "pt-BR": "[Maura]\nNão basta uma só pessoa se tornar isso?",
+        "es-ES": "[Maura]\n¿No basta con que haya una sola persona que se convierta en algo así?"
     },
     "WnVtDA": {
-        "ko": "[마우라]\n비록 우리가 미케닉이거나, 미케닉이었던 게 그의 연구와, 의도치 않았다지만 희생 덕분이긴 하지만.",
-        "en": "[Maura]\nEven though we Mechanics exist—or existed—thanks to his research and unintended sacrifice.",
-        "pt": "[Maura]\nMesmo que sejamos mecânicos, ou tenhamos sido mecânicos, graças à pesquisa dele e, mesmo que não tenha sido intencional, graças ao sacrifício dele.",
-        "es": "[Maura]\nAunque seamos mecánicos, o hayamos sido mecánicos, gracias a su investigación y a un sacrificio que no fue intencional."
+        "ko-KR": "[마우라]\n비록 우리가 미케닉이거나, 미케닉이었던 게 그의 연구와, 의도치 않았다지만 희생 덕분이긴 하지만.",
+        "en-US": "[Maura]\nEven though we Mechanics exist—or existed—thanks to his research and unintended sacrifice.",
+        "pt-BR": "[Maura]\nMesmo que sejamos mecânicos, ou tenhamos sido mecânicos, graças à pesquisa dele e, mesmo que não tenha sido intencional, graças ao sacrifício dele.",
+        "es-ES": "[Maura]\nAunque seamos mecánicos, o hayamos sido mecánicos, gracias a su investigación y a un sacrificio que no fue intencional."
     },
     "W3VtDA": {
-        "ko": "== 마우라는 자신의 왼쪽 다리를 내려다보았다. ==\n== 마도기어를 장비하지 않았는데도 무릎부터 아래가 마도기어와 비슷한 디자인의 금속으로 뒤덮여 있다. ==",
-        "en": "== Maura looked down at his left leg. ==\n== Even without equipping a Madogear, from the knee down is covered in metal of a design similar to a Madogear. ==",
-        "pt": "== Maura olhou para sua perna esquerda. ==\n== Mesmo sem equipar um M.E.C.H.A., do joelho para baixo está coberto de metal de um design similar a um M.E.C.H.A.. ==",
-        "es": "== Maura miró su pierna izquierda. ==\n== Incluso sin equipar un Madogear, desde la rodilla hacia abajo está cubierta de metal de un diseño similar a un Madogear. =="
+        "ko-KR": "== 마우라는 자신의 왼쪽 다리를 내려다보았다. ==\n== 마도기어를 장비하지 않았는데도 무릎부터 아래가 마도기어와 비슷한 디자인의 금속으로 뒤덮여 있다. ==",
+        "en-US": "== Maura looked down at his left leg. ==\n== Even without equipping a Madogear, from the knee down is covered in metal of a design similar to a Madogear. ==",
+        "pt-BR": "== Maura olhou para sua perna esquerda. ==\n== Mesmo sem equipar um M.E.C.H.A., do joelho para baixo está coberto de metal de um design similar a um M.E.C.H.A.. ==",
+        "es-ES": "== Maura miró su pierna izquierda. ==\n== Incluso sin equipar un Madogear, desde la rodilla hacia abajo está cubierta de metal de un diseño similar a un Madogear. =="
     },
     "XHVtDA": {
-        "ko": "[마우라]\n이건, 폭발.\n물론 내 솜씨는 대단해. 위화감 없이 조작도 가능하고 비가 와도 무겁지 않아. 하지만 내가 다리를 잃은 건 사실이야.\n아~, 미스트 자식!!",
-        "en": "[Maura]\nThis was an explosion.\nSure, my craftsmanship is exceptional. I can operate it seamlessly, and it doesn't weigh me down even in the rain. But the fact remains, I lost my leg.\nAh~, that bastard Mist!!",
-        "pt": "[Maura]\nIsso aqui aconteceu em uma explosão.\nClaro que meu talento é incrível. Consigo manuseá-lo sem dificuldades e não me atrapalha mesmo na chuva. Mas é verdade que perdi uma perna.\nAh, aquele maldita Mist!!",
-        "es": "[Maura]\nEsto es una explosión.\nClaro que mi destreza es increíble. Puedo manejarlo sin que se note y no se vuelve pesado aunque llueva. Pero es cierto que perdí una pierna.\n¡Ay, maldito Mist!"
+        "ko-KR": "[마우라]\n이건, 폭발.\n물론 내 솜씨는 대단해. 위화감 없이 조작도 가능하고 비가 와도 무겁지 않아. 하지만 내가 다리를 잃은 건 사실이야.\n아~, 미스트 자식!!",
+        "en-US": "[Maura]\nThis was an explosion.\nSure, my craftsmanship is exceptional. I can operate it seamlessly, and it doesn't weigh me down even in the rain. But the fact remains, I lost my leg.\nAh~, that bastard Mist!!",
+        "pt-BR": "[Maura]\nIsso aqui aconteceu em uma explosão.\nClaro que meu talento é incrível. Consigo manuseá-lo sem dificuldades e não me atrapalha mesmo na chuva. Mas é verdade que perdi uma perna.\nAh, aquele maldita Mist!!",
+        "es-ES": "[Maura]\nEsto es una explosión.\nClaro que mi destreza es increíble. Puedo manejarlo sin que se note y no se vuelve pesado aunque llueva. Pero es cierto que perdí una pierna.\n¡Ay, maldito Mist!"
     },
     "XXVtDA": {
-        "ko": "[마우라]\n이름이 뭐라고?",
-        "en": "[Maura]\nWhat's your name?",
-        "pt": "[Maura]\nQual é o seu nome?",
-        "es": "[Maura]\n¿Cómo te llamas?"
+        "ko-KR": "[마우라]\n이름이 뭐라고?",
+        "en-US": "[Maura]\nWhat's your name?",
+        "pt-BR": "[Maura]\nQual é o seu nome?",
+        "es-ES": "[Maura]\n¿Cómo te llamas?"
     },
     "XnVtDA": {
-        "ko": "[{0}]\n...{0}입니다.",
-        "en": "[{0}]\n...{0} here.",
-        "pt": "[{0}]\n...Sou {0}.",
-        "es": "[{0}]\n...Soy {0}."
+        "ko-KR": "[{0}]\n...{0}입니다.",
+        "en-US": "[{0}]\n...{0} here.",
+        "pt-BR": "[{0}]\n...Sou {0}.",
+        "es-ES": "[{0}]\n...Soy {0}."
     },
     "X3VtDA": {
-        "ko": "[마우라]\n그래. 나는 마우라 파울라 라그랑주다. 이 다리를 잃고, 새 다리를 만들고, 마이스터가 되었지.",
-        "en": "[Maura]\nYeah. I'm Maura Paola Lagrange. I lost my leg, got myself a new leg, and became a Meister.",
-        "pt": "[Maura]\nÉ isso aí. Eu sou Maura Paula Lagrange. Perdi essa perna, criei uma nova e me tornei uma Engenheira.",
-        "es": "[Maura]\nSí. Yo soy Maura Paula Lagrange. Perdí esta pierna, me hice una nueva y me convertí en Meister."
+        "ko-KR": "[마우라]\n그래. 나는 마우라 파울라 라그랑주다. 이 다리를 잃고, 새 다리를 만들고, 마이스터가 되었지.",
+        "en-US": "[Maura]\nYeah. I'm Maura Paola Lagrange. I lost my leg, got myself a new leg, and became a Meister.",
+        "pt-BR": "[Maura]\nÉ isso aí. Eu sou Maura Paula Lagrange. Perdi essa perna, criei uma nova e me tornei uma Engenheira.",
+        "es-ES": "[Maura]\nSí. Yo soy Maura Paula Lagrange. Perdí esta pierna, me hice una nueva y me convertí en Meister."
     },
     "YHVtDA": {
-        "ko": "[마우라]\n우리는 말야, 항상 새로운 것을 만들고 최신 기술을 추구하지만 보수적이야.\n그래서 이론이 완비될 때까지는 실험을 하지 않지. 언제 내 생명이 위험할지 모르니까.",
-        "en": "[Maura]\nWe Mechanics are always in pursuit of new inventions and technology, and yet we're more conservative than anyone else.\nWe don't try to put our theories into practice until we're absolutely confident in them.",
-        "pt": "[Maura]\nNós estamos sempre criando coisas novas e buscando as tecnologias mais inovadoras, mas somos conservadores.\nPor isso, não fazemos experimentos até que a teoria esteja completa. Nunca se sabe quando minha vida pode estar em risco.",
-        "es": "[Maura]\nNosotros, verás, siempre estamos creando cosas nuevas y buscando la tecnología más avanzada, pero somos conservadores.\nPor eso no hacemos experimentos hasta que la teoría esté completa. Nunca se sabe cuándo mi vida podría estar en peligro."
+        "ko-KR": "[마우라]\n우리는 말야, 항상 새로운 것을 만들고 최신 기술을 추구하지만 보수적이야.\n그래서 이론이 완비될 때까지는 실험을 하지 않지. 언제 내 생명이 위험할지 모르니까.",
+        "en-US": "[Maura]\nWe Mechanics are always in pursuit of new inventions and technology, and yet we're more conservative than anyone else.\nWe don't try to put our theories into practice until we're absolutely confident in them.",
+        "pt-BR": "[Maura]\nNós estamos sempre criando coisas novas e buscando as tecnologias mais inovadoras, mas somos conservadores.\nPor isso, não fazemos experimentos até que a teoria esteja completa. Nunca se sabe quando minha vida pode estar em risco.",
+        "es-ES": "[Maura]\nNosotros, verás, siempre estamos creando cosas nuevas y buscando la tecnología más avanzada, pero somos conservadores.\nPor eso no hacemos experimentos hasta que la teoría esté completa. Nunca se sabe cuándo mi vida podría estar en peligro."
     },
     "YXVtDA": {
-        "ko": "[마우라]\n제일 중요한 것은, 내 목숨. 이걸 소중히 하지 않으면 동업자가 모두 위험에 빠지니 말이야.",
-        "en": "[Maura]\nWhat matters most is your life. You can't protect others without protecting yourself first.",
-        "pt": "[Maura]\nO mais importante é a minha vida. Se eu não valorizar isso, coloco todos os meus colegas em perigo.",
-        "es": "[Maura]\nLo más importante es mi vida. Si no la valoro, todos mis compañeros corren peligro."
+        "ko-KR": "[마우라]\n제일 중요한 것은, 내 목숨. 이걸 소중히 하지 않으면 동업자가 모두 위험에 빠지니 말이야.",
+        "en-US": "[Maura]\nWhat matters most is your life. You can't protect others without protecting yourself first.",
+        "pt-BR": "[Maura]\nO mais importante é a minha vida. Se eu não valorizar isso, coloco todos os meus colegas em perigo.",
+        "es-ES": "[Maura]\nLo más importante es mi vida. Si no la valoro, todos mis compañeros corren peligro."
     },
     "YnVtDA": {
-        "ko": "[마우라]\n그렇게 신중했는데도 새로운 마도기어를 개발하다가 이렇게 되고 말았거든.\n그래서 미케닉 때보다는 마이스터가 되고 나서 더욱 더... 보수적이 되고 말았지.",
-        "en": "[Maura]\nEven though I was being so careful, I ended up like this while developing new Madogear.\nSo, I became even more conservative after becoming a Meister than I was as a Mechanic.",
-        "pt": "[Maura]\nMesmo sendo tão cautelosa, acabei ficando assim enquanto desenvolvia um novo tipo de M.E.C.H.A..\nPor isso, depois de me tornar Engenheira, fiquei ainda mais... conservadora do que quando era Mecânica.",
-        "es": "[Maura]\nA pesar de ser tan cautelosa, terminé así mientras desarrollaba un nuevo artilugio mágico.\nPor eso, desde que me convertí en maestra, soy aún más... conservadora que cuando era mecánica."
+        "ko-KR": "[마우라]\n그렇게 신중했는데도 새로운 마도기어를 개발하다가 이렇게 되고 말았거든.\n그래서 미케닉 때보다는 마이스터가 되고 나서 더욱 더... 보수적이 되고 말았지.",
+        "en-US": "[Maura]\nEven though I was being so careful, I ended up like this while developing new Madogear.\nSo, I became even more conservative after becoming a Meister than I was as a Mechanic.",
+        "pt-BR": "[Maura]\nMesmo sendo tão cautelosa, acabei ficando assim enquanto desenvolvia um novo tipo de M.E.C.H.A..\nPor isso, depois de me tornar Engenheira, fiquei ainda mais... conservadora do que quando era Mecânica.",
+        "es-ES": "[Maura]\nA pesar de ser tan cautelosa, terminé así mientras desarrollaba un nuevo artilugio mágico.\nPor eso, desde que me convertí en maestra, soy aún más... conservadora que cuando era mecánica."
     },
     "Y3VtDA": {
-        "ko": "[마우라]\n뭐, 그래서 네가 맘에 안 드냐고? 그런 건 아니야.\n지금 네가 온 타이밍이 너무나 적절하다 싶어서 말이지.",
-        "en": "[Maura]\nWell, so you don't like me? That's not it.\nIt's just that you showed up at the perfect time.",
-        "pt": "[Maura]\nBem, você acha que eu não gosto de você? Não é nada disso.\nÉ só que você chegou na hora certa.",
-        "es": "[Maura]\n¿Qué, te estás preguntando si es por eso que no me gustas? No es eso.\nEs solo que me parece que has llegado en el momento perfecto."
+        "ko-KR": "[마우라]\n뭐, 그래서 네가 맘에 안 드냐고? 그런 건 아니야.\n지금 네가 온 타이밍이 너무나 적절하다 싶어서 말이지.",
+        "en-US": "[Maura]\nWell, so you don't like me? That's not it.\nIt's just that you showed up at the perfect time.",
+        "pt-BR": "[Maura]\nBem, você acha que eu não gosto de você? Não é nada disso.\nÉ só que você chegou na hora certa.",
+        "es-ES": "[Maura]\n¿Qué, te estás preguntando si es por eso que no me gustas? No es eso.\nEs solo que me parece que has llegado en el momento perfecto."
     },
     "ZHVtDA": {
-        "ko": "[마우라]\n...미스트가 보낸 사람들 중에 사실 논문 없이 미케닉이 된 사람은 네가 처음이라.\n우리 모두가 당연히 찾아온 사람을 제자로 받아 줘야 하는 건 아니지만, 음...",
-        "en": "[Maura]\n...You're actually the first one from Mist who became a Mechanic without a thesis.\nOf course, we're not obligated to accept everyone who came to see us as our students, but... mm...",
-        "pt": "[Maura]\n...Na verdade, entre as pessoas que a Mist enviou, você é o primeiro a se tornar Mecânico sem possuir uma tese de pesquisa.\nNão é que a gente tenha que aceitar como discípulo qualquer um que apareça, mas, hum...",
-        "es": "[Maura]\n...De hecho, entre la gente que ha enviado Mist, tú eres el primero en convertirte en mecánico sin tener una tesis.\nNo es que tengamos que aceptar como discípulos a todos los que vienen por supuesto, pero, mmm..."
+        "ko-KR": "[마우라]\n...미스트가 보낸 사람들 중에 사실 논문 없이 미케닉이 된 사람은 네가 처음이라.\n우리 모두가 당연히 찾아온 사람을 제자로 받아 줘야 하는 건 아니지만, 음...",
+        "en-US": "[Maura]\n...You're actually the first one from Mist who became a Mechanic without a thesis.\nOf course, we're not obligated to accept everyone who came to see us as our students, but... mm...",
+        "pt-BR": "[Maura]\n...Na verdade, entre as pessoas que a Mist enviou, você é o primeiro a se tornar Mecânico sem possuir uma tese de pesquisa.\nNão é que a gente tenha que aceitar como discípulo qualquer um que apareça, mas, hum...",
+        "es-ES": "[Maura]\n...De hecho, entre la gente que ha enviado Mist, tú eres el primero en convertirte en mecánico sin tener una tesis.\nNo es que tengamos que aceptar como discípulos a todos los que vienen por supuesto, pero, mmm..."
     },
     "ZXVtDA": {
-        "ko": "[마우라]\n노이슈 리앙이라는 이름을 혹시 들어봤나...?",
-        "en": "[Maura]\nHave you heard of Neusch Lian...?",
-        "pt": "[Maura]\nJá ouviu falar do Neusch Lian...?",
-        "es": "[Maura]\n¿Has oído hablar alguna vez de Neusch Lian...?"
+        "ko-KR": "[마우라]\n노이슈 리앙이라는 이름을 혹시 들어봤나...?",
+        "en-US": "[Maura]\nHave you heard of Neusch Lian...?",
+        "pt-BR": "[Maura]\nJá ouviu falar do Neusch Lian...?",
+        "es-ES": "[Maura]\n¿Has oído hablar alguna vez de Neusch Lian...?"
     },
     "ZnVtDA": {
-        "ko": "아니오",
-        "en": "No",
-        "pt": "Não.",
-        "es": "No"
+        "ko-KR": "아니오",
+        "en-US": "No",
+        "pt-BR": "Não.",
+        "es-ES": "No"
     },
     "Z3VtDA": {
-        "ko": "글쎄요",
-        "en": "Well...",
-        "pt": "Não sei...",
-        "es": "No sé"
+        "ko-KR": "글쎄요",
+        "en-US": "Well...",
+        "pt-BR": "Não sei...",
+        "es-ES": "No sé"
     },
     "aHVtDA": {
-        "ko": "처음 듣는데요",
-        "en": "Never heard of them.",
-        "pt": "É a primeira vez que ouço.",
-        "es": "Es la primera vez que lo oigo"
+        "ko-KR": "처음 듣는데요",
+        "en-US": "Never heard of them.",
+        "pt-BR": "É a primeira vez que ouço.",
+        "es-ES": "Es la primera vez que lo oigo"
     },
     "aXVtDA": {
-        "ko": "전혀요",
-        "en": "Not at all.",
-        "pt": "Não mesmo.",
-        "es": "Para nada"
+        "ko-KR": "전혀요",
+        "en-US": "Not at all.",
+        "pt-BR": "Não mesmo.",
+        "es-ES": "Para nada"
     },
     "anVtDA": {
-        "ko": "[마우라]\n그럴 거야. ...내가 다리를 재생하지 않고 마도기관을 응용해서 만든 건, 그 자와 만났기 때문이지.",
-        "en": "[Maura]\nI'm not surprised. I decided to create this mana engine leg instead of regenerating my leg after meeting him.",
-        "pt": "[Maura]\nÉ o que eu imaginava. ...O motivo de eu ter criado essa perna mecânica ao invés de regenerar minha perna original foi porque encontrei aquele cara.",
-        "es": "[Maura]\nMe lo imaginaba. ...La razón por la que no regeneré mi pierna y en su lugar utilicé un mecanismo mágico fue porque conocí a ese tipo."
+        "ko-KR": "[마우라]\n그럴 거야. ...내가 다리를 재생하지 않고 마도기관을 응용해서 만든 건, 그 자와 만났기 때문이지.",
+        "en-US": "[Maura]\nI'm not surprised. I decided to create this mana engine leg instead of regenerating my leg after meeting him.",
+        "pt-BR": "[Maura]\nÉ o que eu imaginava. ...O motivo de eu ter criado essa perna mecânica ao invés de regenerar minha perna original foi porque encontrei aquele cara.",
+        "es-ES": "[Maura]\nMe lo imaginaba. ...La razón por la que no regeneré mi pierna y en su lugar utilicé un mecanismo mágico fue porque conocí a ese tipo."
     },
     "a3VtDA": {
-        "ko": "[마우라]\n마도기어를 지금까지 다뤄 봤으니 알겠지만, 아무리 이게 물리적인 힘을 대신 발휘해 준다고 해도 사용자 본인의 능력이나 반사신경, 훈련이나 타고난 감각도 필요해.",
-        "en": "[Maura]\nAs you may know from your experience, your Madogear may provide you the physical strength you need, but you have to have the ability and training to control it.",
-        "pt": "[Maura]\nComo você já deve saber, por mais que o M.E.C.H.A. te forneça uma grande força física, ainda é necessário que você tenha habilidades e conhecimento para controlá-lo.",
-        "es": "[Maura]\nComo ya has manejado los engranajes mágicos hasta ahora, sabrás que, por mucho que estos ejerzan la fuerza física en tu lugar, también se necesitan las habilidades del usuario, sus reflejos, su entrenamiento y su sentido innato."
+        "ko-KR": "[마우라]\n마도기어를 지금까지 다뤄 봤으니 알겠지만, 아무리 이게 물리적인 힘을 대신 발휘해 준다고 해도 사용자 본인의 능력이나 반사신경, 훈련이나 타고난 감각도 필요해.",
+        "en-US": "[Maura]\nAs you may know from your experience, your Madogear may provide you the physical strength you need, but you have to have the ability and training to control it.",
+        "pt-BR": "[Maura]\nComo você já deve saber, por mais que o M.E.C.H.A. te forneça uma grande força física, ainda é necessário que você tenha habilidades e conhecimento para controlá-lo.",
+        "es-ES": "[Maura]\nComo ya has manejado los engranajes mágicos hasta ahora, sabrás que, por mucho que estos ejerzan la fuerza física en tu lugar, también se necesitan las habilidades del usuario, sus reflejos, su entrenamiento y su sentido innato."
     },
     "bHVtDA": {
-        "ko": "[마우라]\n그런데, 그런 튼튼한 육체를 지니지 못한... 정말 책상머리에서 이론만 연구하다 쓰러져 실려가던 동업자가 있었지.",
-        "en": "[Maura]\nBut I had a partner who was so frail that even studying at the desk was too much for him.",
-        "pt": "[Maura]\nMas eu tinha um colega que não possuía um corpo tão resistente... um cara que só ficava estudando teoria na mesa e acabou desmaiando e sendo levado para o hospital.",
-        "es": "[Maura]\nPero había un colega que no tenía un físico tan robusto... uno que se desmayó y lo tuvieron que llevar al hospital después de pasar tanto tiempo estudiando solo la teoría en su escritorio."
+        "ko-KR": "[마우라]\n그런데, 그런 튼튼한 육체를 지니지 못한... 정말 책상머리에서 이론만 연구하다 쓰러져 실려가던 동업자가 있었지.",
+        "en-US": "[Maura]\nBut I had a partner who was so frail that even studying at the desk was too much for him.",
+        "pt-BR": "[Maura]\nMas eu tinha um colega que não possuía um corpo tão resistente... um cara que só ficava estudando teoria na mesa e acabou desmaiando e sendo levado para o hospital.",
+        "es-ES": "[Maura]\nPero había un colega que no tenía un físico tan robusto... uno que se desmayó y lo tuvieron que llevar al hospital después de pasar tanto tiempo estudiando solo la teoría en su escritorio."
     },
     "bXVtDA": {
-        "ko": "[마우라]\n그가 하던 연구가 마도기관과 일심동체가 되는 연구였다.\n뇌파를 읽어서 완벽하게 조종하고... 그런 거 말고. 완전히 새로운 개념의 마도기어를 만드는 이야기였어.",
-        "en": "[Maura]\nHe was researching how to become one with the mana engine.\nNot just reading brainwaves to control it perfectly... He was working on a completely new concept. A whole new level of Madogear.",
-        "pt": "[Maura]\nA pesquisa que ele fazia era sobre se tornar um só com o mecanismo de mana.\nNão apenas sobre ler ondas cerebrais para um controle perfeito... Era sobre criar algo com um conceito totalmente novo. Um novo tipo de M.E.C.H.A..",
-        "es": "[Maura]\nLa investigación que él llevaba a cabo era sobre cómo fundirse en uno con el equipo mágico.\nNo me refiero a leer ondas cerebrales para controlarlo a la perfección... sino a crear un equipo mágico con un concepto completamente nuevo."
+        "ko-KR": "[마우라]\n그가 하던 연구가 마도기관과 일심동체가 되는 연구였다.\n뇌파를 읽어서 완벽하게 조종하고... 그런 거 말고. 완전히 새로운 개념의 마도기어를 만드는 이야기였어.",
+        "en-US": "[Maura]\nHe was researching how to become one with the mana engine.\nNot just reading brainwaves to control it perfectly... He was working on a completely new concept. A whole new level of Madogear.",
+        "pt-BR": "[Maura]\nA pesquisa que ele fazia era sobre se tornar um só com o mecanismo de mana.\nNão apenas sobre ler ondas cerebrais para um controle perfeito... Era sobre criar algo com um conceito totalmente novo. Um novo tipo de M.E.C.H.A..",
+        "es-ES": "[Maura]\nLa investigación que él llevaba a cabo era sobre cómo fundirse en uno con el equipo mágico.\nNo me refiero a leer ondas cerebrales para controlarlo a la perfección... sino a crear un equipo mágico con un concepto completamente nuevo."
     },
     "bnVtDA": {
-        "ko": "[마우라]\n내 수족처럼 부릴 수 있는 외골격이 아니라, 진짜 내 수족을 만드는...",
-        "en": "[Maura]\nNot an exoskeleton you control, but like your real limbs...",
-        "pt": "[Maura]\nNão apenas um exoesqueleto que você controla, mas que também possua membros de verdade...",
-        "es": "[Maura]\nNo se trataba de un exoesqueleto que pudieras manejar como si fuera parte de ti, sino de crear tus propios miembros..."
+        "ko-KR": "[마우라]\n내 수족처럼 부릴 수 있는 외골격이 아니라, 진짜 내 수족을 만드는...",
+        "en-US": "[Maura]\nNot an exoskeleton you control, but like your real limbs...",
+        "pt-BR": "[Maura]\nNão apenas um exoesqueleto que você controla, mas que também possua membros de verdade...",
+        "es-ES": "[Maura]\nNo se trataba de un exoesqueleto que pudieras manejar como si fuera parte de ti, sino de crear tus propios miembros..."
     },
     "b3VtDA": {
-        "ko": "== 마우라는 다시 자신의 다리를 내려다보았다. ==",
-        "en": "== He recalled the essence of Mechanic that the Gate of Truth had shown him. Certainly, that synthesis method was not within what the Gate of Truth taught, but it didn't seem like it would be beyond it either. ==",
-        "pt": "== Ele lembrou a essência de Mecânico que o Portal da Verdade lhe mostrara. Certamente, aquele método de síntese não estava dentro do que o Portal da Verdade ensinou, mas também não parecia que estaria além dele. ==",
-        "es": "== Recordó la esencia de Mecánico que el Portal de la Verdad le había mostrado. Ciertamente, ese método de síntesis no estaba dentro de lo que enseñó el Portal de la Verdad, pero tampoco parecía estar más allá de él. =="
+        "ko-KR": "== 마우라는 다시 자신의 다리를 내려다보았다. ==",
+        "en-US": "== He recalled the essence of Mechanic that the Gate of Truth had shown him. Certainly, that synthesis method was not within what the Gate of Truth taught, but it didn't seem like it would be beyond it either. ==",
+        "pt-BR": "== Ele lembrou a essência de Mecânico que o Portal da Verdade lhe mostrara. Certamente, aquele método de síntese não estava dentro do que o Portal da Verdade ensinou, mas também não parecia que estaria além dele. ==",
+        "es-ES": "== Recordó la esencia de Mecánico que el Portal de la Verdad le había mostrado. Ciertamente, ese método de síntesis no estaba dentro de lo que enseñó el Portal de la Verdad, pero tampoco parecía estar más allá de él. =="
     },
     "cHVtDA": {
-        "ko": "[{0}]\n설마...",
-        "en": "[{0}]\nNo way...",
-        "pt": "[{0}]\nNão pode ser...",
-        "es": "[{0}]\nNo me digas..."
+        "ko-KR": "[{0}]\n설마...",
+        "en-US": "[{0}]\nNo way...",
+        "pt-BR": "[{0}]\nNão pode ser...",
+        "es-ES": "[{0}]\nNo me digas..."
     },
     "cXVtDA": {
-        "ko": "[마우라]\n자신이 만든 마도기어에 들어가면 두 존재가 합쳐져 분리되지 않게 되는 연구라고 했었어.",
-        "en": "[Maura]\nHe said it was research to fuse the two beings together so they couldn't be separated once inside the Madogear he created.",
-        "pt": "[Maura]\nEle disse que era uma pesquisa em que, ao criar este novo mecanismo de mana, as duas existências se fundiriam e não poderiam mais ser separadas.",
-        "es": "[Maura]\nDijo que era una investigación en la que, al entrar en el equipo mágico que él mismo creaba, las dos existencias se fusionaban y ya no podían separarse."
+        "ko-KR": "[마우라]\n자신이 만든 마도기어에 들어가면 두 존재가 합쳐져 분리되지 않게 되는 연구라고 했었어.",
+        "en-US": "[Maura]\nHe said it was research to fuse the two beings together so they couldn't be separated once inside the Madogear he created.",
+        "pt-BR": "[Maura]\nEle disse que era uma pesquisa em que, ao criar este novo mecanismo de mana, as duas existências se fundiriam e não poderiam mais ser separadas.",
+        "es-ES": "[Maura]\nDijo que era una investigación en la que, al entrar en el equipo mágico que él mismo creaba, las dos existencias se fusionaban y ya no podían separarse."
     },
     "cnVtDA": {
-        "ko": "[마우라]\n나하고는 생각이 달랐지. 난 오히려 분리 가능한 마도기어를 만들고 싶었거든.",
-        "en": "[Maura]\nI wanted the opposite. I wanted a Madogear that can be dismantled into individually functioning parts.",
-        "pt": "[Maura]\nMinha ideia era diferente. Eu, pelo contrário, queria criar um M.E.C.H.A. que pudesse ser separado em diferentes partes funcionais.",
-        "es": "[Maura]\nYo pensaba diferente. Yo, por el contrario, quería crear un artilugio mágico que se pudiera separar."
+        "ko-KR": "[마우라]\n나하고는 생각이 달랐지. 난 오히려 분리 가능한 마도기어를 만들고 싶었거든.",
+        "en-US": "[Maura]\nI wanted the opposite. I wanted a Madogear that can be dismantled into individually functioning parts.",
+        "pt-BR": "[Maura]\nMinha ideia era diferente. Eu, pelo contrário, queria criar um M.E.C.H.A. que pudesse ser separado em diferentes partes funcionais.",
+        "es-ES": "[Maura]\nYo pensaba diferente. Yo, por el contrario, quería crear un artilugio mágico que se pudiera separar."
     },
     "c3VtDA": {
-        "ko": "[{0}]\n분리...?",
-        "en": "[{0}]\nDismantled...?",
-        "pt": "[{0}]\nSeparar...?",
-        "es": "[{0}]\n¿Separarnos...?"
+        "ko-KR": "[{0}]\n분리...?",
+        "en-US": "[{0}]\nDismantled...?",
+        "pt-BR": "[{0}]\nSeparar...?",
+        "es-ES": "[{0}]\n¿Separarnos...?"
     },
     "dHVtDA": {
-        "ko": "[마우라]\n지금은 어... 우리는 마도기어를 조종, 조작하기 위해서는 어느 정도 연산을 건너뛰기 위해 마도기관과 직접 접촉하고 있을 필요가 있지.",
-        "en": "[Maura]\nRight now, mm... to control your Madogear, you have to be in contact with the mana engine. You know, to skip a few processing steps.",
-        "pt": "[Maura]\nBem... no momento, para controlar e operar o M.E.C.H.A., precisamos estar em contato direto com o mecanismo de mana. Sabe, para pular certas etapas do processo.",
-        "es": "[Maura]\nAhora mismo... bueno, para controlar y manejar los dispositivos mágicos, necesitamos estar en contacto directo con el mecanismo mágico para saltarnos ciertos cálculos."
+        "ko-KR": "[마우라]\n지금은 어... 우리는 마도기어를 조종, 조작하기 위해서는 어느 정도 연산을 건너뛰기 위해 마도기관과 직접 접촉하고 있을 필요가 있지.",
+        "en-US": "[Maura]\nRight now, mm... to control your Madogear, you have to be in contact with the mana engine. You know, to skip a few processing steps.",
+        "pt-BR": "[Maura]\nBem... no momento, para controlar e operar o M.E.C.H.A., precisamos estar em contato direto com o mecanismo de mana. Sabe, para pular certas etapas do processo.",
+        "es-ES": "[Maura]\nAhora mismo... bueno, para controlar y manejar los dispositivos mágicos, necesitamos estar en contacto directo con el mecanismo mágico para saltarnos ciertos cálculos."
     },
     "dXVtDA": {
-        "ko": "[마우라]\n마도기관이 아무리 불명확하고 애매한 것을 명료하고 확실한 것으로 바꿔 주는 매개체라고 할지라도, 그것은 인간이 기동하는 것이지.",
-        "en": "[Maura]\nEven if the mana engine is a medium that transforms the vague and ambiguous into the clear and certain, it's still operated by humans.",
-        "pt": "[Maura]\nPor mais que o mecanismo de mana seja um meio que transforma coisas obscuras e vagas em coisas claras e exatas, quem o opera é o ser humano.",
-        "es": "[Maura]\nPor más que el mecanismo mágico sea un medio que transforma lo impreciso y ambiguo en algo claro y definitivo, es el ser humano quien lo pone en marcha."
+        "ko-KR": "[마우라]\n마도기관이 아무리 불명확하고 애매한 것을 명료하고 확실한 것으로 바꿔 주는 매개체라고 할지라도, 그것은 인간이 기동하는 것이지.",
+        "en-US": "[Maura]\nEven if the mana engine is a medium that transforms the vague and ambiguous into the clear and certain, it's still operated by humans.",
+        "pt-BR": "[Maura]\nPor mais que o mecanismo de mana seja um meio que transforma coisas obscuras e vagas em coisas claras e exatas, quem o opera é o ser humano.",
+        "es-ES": "[Maura]\nPor más que el mecanismo mágico sea un medio que transforma lo impreciso y ambiguo en algo claro y definitivo, es el ser humano quien lo pone en marcha."
     },
     "dnVtDA": {
-        "ko": "[마우라]\n어떻게 보면 마술사의 지팡이와 비슷하지만 구성 요소와 발전 방향은 궤가 너무나 다르지 않아?",
-        "en": "[Maura]\nIn a way, it's similar to a mage's staff, but its components and direction of development are completely different, aren't they?",
-        "pt": "[Maura]\nDe certa forma, é parecido com o cajado de um mago, mas os componentes e a direção do desenvolvimento são muito diferentes, não é?",
-        "es": "[Maura]\nEn cierto modo se parece al bastón de un mago, pero los componentes y la dirección de desarrollo son muy diferentes, ¿no?"
+        "ko-KR": "[마우라]\n어떻게 보면 마술사의 지팡이와 비슷하지만 구성 요소와 발전 방향은 궤가 너무나 다르지 않아?",
+        "en-US": "[Maura]\nIn a way, it's similar to a mage's staff, but its components and direction of development are completely different, aren't they?",
+        "pt-BR": "[Maura]\nDe certa forma, é parecido com o cajado de um mago, mas os componentes e a direção do desenvolvimento são muito diferentes, não é?",
+        "es-ES": "[Maura]\nEn cierto modo se parece al bastón de un mago, pero los componentes y la dirección de desarrollo son muy diferentes, ¿no?"
     },
     "d3VtDA": {
-        "ko": "[마우라]\n그 어떤 마술사도 편안한 캐스팅을 위해 자기 몸에 지팡이를 합성하려 하지는 않잖아.\n나중에 어떤 더 좋은 지팡이를 만들지도 모르고, 내 몸 어디가 고장날지도 모르고...",
-        "en": "[Maura]\nNo Mage would want to fuse themselves with their staff for convenience's sake, now would they?\nThere's always a better staff somewhere, and what if your body needs repairs all of a sudden?",
-        "pt": "[Maura]\nNenhum mago tentaria sintetizar uma varinha no próprio corpo só para lançar feitiços com mais conforto, né?\nA gente não sabe se vai criar uma varinha melhor no futuro, nem se alguma parte do meu corpo vai quebrar...",
-        "es": "[Maura]\nNingún mago intentaría fusionar un bastón con su propio cuerpo solo para lanzar hechizos con más comodidad, ¿no?\nQuién sabe si más adelante no se inventará un bastón mejor, o si alguna parte de mi cuerpo se va a descomponer..."
+        "ko-KR": "[마우라]\n그 어떤 마술사도 편안한 캐스팅을 위해 자기 몸에 지팡이를 합성하려 하지는 않잖아.\n나중에 어떤 더 좋은 지팡이를 만들지도 모르고, 내 몸 어디가 고장날지도 모르고...",
+        "en-US": "[Maura]\nNo Mage would want to fuse themselves with their staff for convenience's sake, now would they?\nThere's always a better staff somewhere, and what if your body needs repairs all of a sudden?",
+        "pt-BR": "[Maura]\nNenhum mago tentaria sintetizar uma varinha no próprio corpo só para lançar feitiços com mais conforto, né?\nA gente não sabe se vai criar uma varinha melhor no futuro, nem se alguma parte do meu corpo vai quebrar...",
+        "es-ES": "[Maura]\nNingún mago intentaría fusionar un bastón con su propio cuerpo solo para lanzar hechizos con más comodidad, ¿no?\nQuién sabe si más adelante no se inventará un bastón mejor, o si alguna parte de mi cuerpo se va a descomponer..."
     },
     "eHVtDA": {
-        "ko": "[{0}]\n그럼 그 리앙이란 사람은 왜...",
-        "en": "[{0}]\nThen why did that Liang guy...",
-        "pt": "[{0}]\nEntão, por que aquele Liang...",
-        "es": "[{0}]\nEntonces, ¿por qué ese tal Liang...?"
+        "ko-KR": "[{0}]\n그럼 그 리앙이란 사람은 왜...",
+        "en-US": "[{0}]\nThen why did that Liang guy...",
+        "pt-BR": "[{0}]\nEntão, por que aquele Liang...",
+        "es-ES": "[{0}]\nEntonces, ¿por qué ese tal Liang...?"
     },
     "eXVtDA": {
-        "ko": "[마우라]\n그래, 그 자도 알고는 있었어. 하지만 그 힘이 필요한 이유가 있었으니 연구를 했던 거야.\n그렇다고는 해도 쉬운 연구는 아니야. 마도기관의 구동 원리는 너도 알잖아?",
-        "en": "[Maura]\nYeah, he knew that too. But he needed that power, so he researched it.\nEven so, it wasn't easy research. You know how the mana engine works, right?",
-        "pt": "[Maura]\nÉ, ele também sabia disso. Mas ele precisava daquele poder, então ele fez a pesquisa.\nMesmo assim, não é uma pesquisa fácil. Você sabe como funcionam os mecanismo de mana, né?",
-        "es": "[Maura]\nSí, él también lo sabía. Pero investigó porque tenía una razón para necesitar ese poder.\nAun así, no es una investigación fácil. Ya sabes cómo funcionan los mecanismos mágicos, ¿no?"
+        "ko-KR": "[마우라]\n그래, 그 자도 알고는 있었어. 하지만 그 힘이 필요한 이유가 있었으니 연구를 했던 거야.\n그렇다고는 해도 쉬운 연구는 아니야. 마도기관의 구동 원리는 너도 알잖아?",
+        "en-US": "[Maura]\nYeah, he knew that too. But he needed that power, so he researched it.\nEven so, it wasn't easy research. You know how the mana engine works, right?",
+        "pt-BR": "[Maura]\nÉ, ele também sabia disso. Mas ele precisava daquele poder, então ele fez a pesquisa.\nMesmo assim, não é uma pesquisa fácil. Você sabe como funcionam os mecanismo de mana, né?",
+        "es-ES": "[Maura]\nSí, él también lo sabía. Pero investigó porque tenía una razón para necesitar ese poder.\nAun así, no es una investigación fácil. Ya sabes cómo funcionan los mecanismos mágicos, ¿no?"
     },
     "enVtDA": {
-        "ko": "== 진리의 문이 알려주었던 미케닉의 정수를 돌이켜본다. 확실히 그런 합성 방식은 진리의 문이 가르쳐 준 범위는 아니나, 그 너머에도 있을 것 같아 보이진 않는다. ==",
-        "en": "== Maura took out a nipper from his tool belt at his waist and lightly struck his leg. ==\n== It made a clang sound. ==",
-        "pt": "== Maura pegou um alicate do cinto de ferramentas em sua cintura e bateu levemente em sua perna. ==\n== Fez um som de clang. ==",
-        "es": "== Maura sacó un alicate de su cinturón de herramientas en la cintura y golpeó ligeramente su pierna. ==\n== Hizo un ruido metálico. =="
+        "ko-KR": "== 진리의 문이 알려주었던 미케닉의 정수를 돌이켜본다. 확실히 그런 합성 방식은 진리의 문이 가르쳐 준 범위는 아니나, 그 너머에도 있을 것 같아 보이진 않는다. ==",
+        "en-US": "== Maura took out a nipper from his tool belt at his waist and lightly struck his leg. ==\n== It made a clang sound. ==",
+        "pt-BR": "== Maura pegou um alicate do cinto de ferramentas em sua cintura e bateu levemente em sua perna. ==\n== Fez um som de clang. ==",
+        "es-ES": "== Maura sacó un alicate de su cinturón de herramientas en la cintura y golpeó ligeramente su pierna. ==\n== Hizo un ruido metálico. =="
     },
     "e3VtDA": {
-        "ko": "[{0}]\n올바른 방식은... 아니네요.",
-        "en": "[{0}]\nThe proper way is... no.",
-        "pt": "[{0}]\nA maneira correta não é... essa, né.",
-        "es": "[{0}]\nLa forma correcta no es... esa."
+        "ko-KR": "[{0}]\n올바른 방식은... 아니네요.",
+        "en-US": "[{0}]\nThe proper way is... no.",
+        "pt-BR": "[{0}]\nA maneira correta não é... essa, né.",
+        "es-ES": "[{0}]\nLa forma correcta no es... esa."
     },
     "fHVtDA": {
-        "ko": "[마우라]\n역시 논문 없이 온 사람은 그런 쪽은 이해가 빠르군.\n어쨌든 그렇다니까. 유기체와 무기물은 합성이 아니라, 연결하는 거지. 언제든 분리할 수 있게.",
-        "en": "[Maura]\nAs expected, someone who came without a thesis understands that aspect quickly.\nAnyway, that's how it is. Organic and inorganic matters should be connected, not combined, so they can be disconnected anytime.",
-        "pt": "[Maura]\nComo era de se esperar, quem veio sem ter lido a tese entende isso rapidamente.\nDe qualquer forma, é isso mesmo. Organismos e inorgânicos não são sintetizados, mas sim conectados. De forma que possam ser separados a qualquer momento.",
-        "es": "[Maura]\nComo era de esperarse, alguien que llegó sin tesis entiende rápido esas cosas.\nEn fin, eso es lo que digo. Los organismos y los inorgánicos no se sintetizan, sino que se conectan. Para poder separarlos en cualquier momento."
+        "ko-KR": "[마우라]\n역시 논문 없이 온 사람은 그런 쪽은 이해가 빠르군.\n어쨌든 그렇다니까. 유기체와 무기물은 합성이 아니라, 연결하는 거지. 언제든 분리할 수 있게.",
+        "en-US": "[Maura]\nAs expected, someone who came without a thesis understands that aspect quickly.\nAnyway, that's how it is. Organic and inorganic matters should be connected, not combined, so they can be disconnected anytime.",
+        "pt-BR": "[Maura]\nComo era de se esperar, quem veio sem ter lido a tese entende isso rapidamente.\nDe qualquer forma, é isso mesmo. Organismos e inorgânicos não são sintetizados, mas sim conectados. De forma que possam ser separados a qualquer momento.",
+        "es-ES": "[Maura]\nComo era de esperarse, alguien que llegó sin tesis entiende rápido esas cosas.\nEn fin, eso es lo que digo. Los organismos y los inorgánicos no se sintetizan, sino que se conectan. Para poder separarlos en cualquier momento."
     },
     "fXVtDA": {
-        "ko": "== 마우라가 허리에 찬 공구 벨트에서 니퍼를 뽑아들더니 자신의 다리를 가볍게 쳤다. ==\n== 깡 하는 소리가 났다. ==",
-        "en": "== Maura took out a nipper from his tool belt at his waist and lightly struck his leg. ==\n== It made a clang sound. ==",
-        "pt": "== Maura pegou um alicate do cinto de ferramentas em sua cintura e bateu levemente em sua perna. ==\n== Fez um som de clang. ==",
-        "es": "== Maura sacó un alicate de su cinturón de herramientas en la cintura y golpeó ligeramente su pierna. ==\n== Hizo un ruido metálico. =="
+        "ko-KR": "== 마우라가 허리에 찬 공구 벨트에서 니퍼를 뽑아들더니 자신의 다리를 가볍게 쳤다. ==\n== 깡 하는 소리가 났다. ==",
+        "en-US": "== Maura took out a nipper from his tool belt at his waist and lightly struck his leg. ==\n== It made a clang sound. ==",
+        "pt-BR": "== Maura pegou um alicate do cinto de ferramentas em sua cintura e bateu levemente em sua perna. ==\n== Fez um som de clang. ==",
+        "es-ES": "== Maura sacó un alicate de su cinturón de herramientas en la cintura y golpeó ligeramente su pierna. ==\n== Hizo un ruido metálico. =="
     },
     "fnVtDA": {
-        "ko": "[마우라]\n결국 내 뇌파가 발생시킬 수 있는 것 이상을 마도기어에게 지정시킬 수 없어.\n리앙이 만들고 싶었던 게 물질대사를 하는 것인지, 하지 않는 것인지 모르겠지만...",
-        "en": "[Maura]\nIn short, you can't make your Madogear do things outside the limits of your brain.\nI still don't know if Lian wanted something capable of metabolism or not, but...",
-        "pt": "[Maura]\nNo fim das contas, não dá pra criar um M.E.C.H.A. além dos limites das nossas capacidades mentais.\nNão sei se o que Liang queria criar era algo que fizesse metabolismo ou não...",
-        "es": "[Maura]\nAl final, no puedo asignarle al engranaje mágico más de lo que mis ondas cerebrales pueden generar.\nNo sé si lo que Liang quería crear era algo que realizara el metabolismo o no..."
+        "ko-KR": "[마우라]\n결국 내 뇌파가 발생시킬 수 있는 것 이상을 마도기어에게 지정시킬 수 없어.\n리앙이 만들고 싶었던 게 물질대사를 하는 것인지, 하지 않는 것인지 모르겠지만...",
+        "en-US": "[Maura]\nIn short, you can't make your Madogear do things outside the limits of your brain.\nI still don't know if Lian wanted something capable of metabolism or not, but...",
+        "pt-BR": "[Maura]\nNo fim das contas, não dá pra criar um M.E.C.H.A. além dos limites das nossas capacidades mentais.\nNão sei se o que Liang queria criar era algo que fizesse metabolismo ou não...",
+        "es-ES": "[Maura]\nAl final, no puedo asignarle al engranaje mágico más de lo que mis ondas cerebrales pueden generar.\nNo sé si lo que Liang quería crear era algo que realizara el metabolismo o no..."
     },
     "f3VtDA": {
-        "ko": "물질대사를 하지 않는 방법이라면...",
-        "en": "If it's a matter of not having metabolism...",
-        "pt": "Se for um método que não realiza metabolismo...",
-        "es": "Si es un método que no realiza metabolismo..."
+        "ko-KR": "물질대사를 하지 않는 방법이라면...",
+        "en-US": "If it's a matter of not having metabolism...",
+        "pt-BR": "Se for um método que não realiza metabolismo...",
+        "es-ES": "Si es un método que no realiza metabolismo..."
     },
     "gHVtDA": {
-        "ko": "인간의 몸을 버린다고요?",
-        "en": "Abandoning the human body?",
-        "pt": "Significa abandonar o corpo humano?",
-        "es": "¿Significa que hay que deshacerse del cuerpo humano?"
+        "ko-KR": "인간의 몸을 버린다고요?",
+        "en-US": "Abandoning the human body?",
+        "pt-BR": "Significa abandonar o corpo humano?",
+        "es-ES": "¿Significa que hay que deshacerse del cuerpo humano?"
     },
     "gXVtDA": {
-        "ko": "죽는다고요?",
-        "en": "He wanted to die?",
-        "pt": "Morrer?",
-        "es": "¿Que moriría?"
+        "ko-KR": "죽는다고요?",
+        "en-US": "He wanted to die?",
+        "pt-BR": "Morrer?",
+        "es-ES": "¿Que moriría?"
     },
     "gnVtDA": {
-        "ko": "[마우라]\n아~ 이해가 빠르네. 맘에 들어.\n육체가 가진 모든 정보를 이식한다고 하면 말은 좋지만 그거 그냥 데이터 복제 아냐?",
-        "en": "[Maura]\nAh~ You're a quick learner. I like that.\nYou could say a complete transfer of your body's information, but that just means data cloning, doesn't it?",
-        "pt": "[Maura]\nAh~ você entende rápido. Gostei.\nDizem que é transplantar todas as informações do corpo, mas isso não é só uma cópia de dados?",
-        "es": "[Maura]\nAh~ Entiendes rápido. Me gusta.\nDecir que se trasplanta toda la información que tiene el cuerpo suena bien, pero ¿no es eso simplemente una copia de datos?"
+        "ko-KR": "[마우라]\n아~ 이해가 빠르네. 맘에 들어.\n육체가 가진 모든 정보를 이식한다고 하면 말은 좋지만 그거 그냥 데이터 복제 아냐?",
+        "en-US": "[Maura]\nAh~ You're a quick learner. I like that.\nYou could say a complete transfer of your body's information, but that just means data cloning, doesn't it?",
+        "pt-BR": "[Maura]\nAh~ você entende rápido. Gostei.\nDizem que é transplantar todas as informações do corpo, mas isso não é só uma cópia de dados?",
+        "es-ES": "[Maura]\nAh~ Entiendes rápido. Me gusta.\nDecir que se trasplanta toda la información que tiene el cuerpo suena bien, pero ¿no es eso simplemente una copia de datos?"
     },
     "g3VtDA": {
-        "ko": "[마우라]\n우리 기술력이라면 제작자와 같은 사고방식과 기억을 지닌, 마도기관으로 작동하는 객체를 만드는 쪽이 훨씬 빠르지 않을까?\n때때로 업데이트나 해주면 되고.",
-        "en": "[Maura]\nWith our technology, wouldn't it be much faster to create objects that function as mana engines, possessing the same mindset and memories as their creators?\nWe could just update them occasionally for maintenance.",
-        "pt": "[Maura]\nCom a nossa tecnologia, não seria muito mais rápido criar um objeto que funcione como um mecanismo de mana, com a mesma forma de pensar e as mesmas memórias do criador?\nBasta fazer uma manutenção de vez em quando.",
-        "es": "[Maura]\nCon nuestra tecnología, ¿no sería mucho más rápido crear un objeto que funcione como un mecanismo mágico y que tenga la misma forma de pensar y los mismos recuerdos que el creador?\nSolo hay que actualizarlo de vez en cuando."
+        "ko-KR": "[마우라]\n우리 기술력이라면 제작자와 같은 사고방식과 기억을 지닌, 마도기관으로 작동하는 객체를 만드는 쪽이 훨씬 빠르지 않을까?\n때때로 업데이트나 해주면 되고.",
+        "en-US": "[Maura]\nWith our technology, wouldn't it be much faster to create objects that function as mana engines, possessing the same mindset and memories as their creators?\nWe could just update them occasionally for maintenance.",
+        "pt-BR": "[Maura]\nCom a nossa tecnologia, não seria muito mais rápido criar um objeto que funcione como um mecanismo de mana, com a mesma forma de pensar e as mesmas memórias do criador?\nBasta fazer uma manutenção de vez em quando.",
+        "es-ES": "[Maura]\nCon nuestra tecnología, ¿no sería mucho más rápido crear un objeto que funcione como un mecanismo mágico y que tenga la misma forma de pensar y los mismos recuerdos que el creador?\nSolo hay que actualizarlo de vez en cuando."
     },
     "hHVtDA": {
-        "ko": "[마우라]\n그래, 그게 마이스터다.\n결국 내가 아는 정보밖에 넣지 못하니, 마찬가지로 본인의 능력이 필요하고 제작자가 직접 작동시킬 수밖에 없지만.",
-        "en": "[Maura]\nYeah, that's what we do as Meisters.\nIn the end, no matter what you do, you can only base it on what you know. Things you make will still require your own skills and manual activation.",
-        "pt": "[Maura]\nÉ isso mesmo, isso é o Engenheiro.\nNo fim das contas, como só dá pra incluir as informações que eu tenho conhecimento, da mesma forma, a habilidade da própria pessoa é necessária e o criador não tem escolha a não ser operá-lo diretamente.",
-        "es": "[Maura]\nSí, eso es un Meister.\nAl final, como solo se puede meter la información que yo conozco, igual se necesitan tus propias habilidades y el creador no tiene más remedio que manejarlo directamente."
+        "ko-KR": "[마우라]\n그래, 그게 마이스터다.\n결국 내가 아는 정보밖에 넣지 못하니, 마찬가지로 본인의 능력이 필요하고 제작자가 직접 작동시킬 수밖에 없지만.",
+        "en-US": "[Maura]\nYeah, that's what we do as Meisters.\nIn the end, no matter what you do, you can only base it on what you know. Things you make will still require your own skills and manual activation.",
+        "pt-BR": "[Maura]\nÉ isso mesmo, isso é o Engenheiro.\nNo fim das contas, como só dá pra incluir as informações que eu tenho conhecimento, da mesma forma, a habilidade da própria pessoa é necessária e o criador não tem escolha a não ser operá-lo diretamente.",
+        "es-ES": "[Maura]\nSí, eso es un Meister.\nAl final, como solo se puede meter la información que yo conozco, igual se necesitan tus propias habilidades y el creador no tiene más remedio que manejarlo directamente."
     },
     "hXVtDA": {
-        "ko": "[마우라]\n그것이 지금의 우리 기술자들이 내놓은 현재로선 최선의 방침이다.\n그게 하기 싫으면... 뭐 아직 미케닉 하는 거지. 미케닉으로서도 연구할 건 많으니까.",
-        "en": "[Maura]\nThat's the best we can do at the moment.\nIf you don't agree with it, then... well, you can stay as a Mechanic. There are still many things you can study as a Mechanic.",
-        "pt": "[Maura]\nEssa é a melhor solução que encontramos até agora.\nSe não quiser fazer isso... bem, pode continuar sendo um Mecânico. Afinal, há muito o que pesquisar mesmo como Mecânico.",
-        "es": "[Maura]\nEsa es la mejor estrategia que han presentado nuestros técnicos hasta ahora.\nSi no te apetece hacer eso... bueno, pues sigues siendo mecánico. Como mecánico también hay mucho que investigar."
+        "ko-KR": "[마우라]\n그것이 지금의 우리 기술자들이 내놓은 현재로선 최선의 방침이다.\n그게 하기 싫으면... 뭐 아직 미케닉 하는 거지. 미케닉으로서도 연구할 건 많으니까.",
+        "en-US": "[Maura]\nThat's the best we can do at the moment.\nIf you don't agree with it, then... well, you can stay as a Mechanic. There are still many things you can study as a Mechanic.",
+        "pt-BR": "[Maura]\nEssa é a melhor solução que encontramos até agora.\nSe não quiser fazer isso... bem, pode continuar sendo um Mecânico. Afinal, há muito o que pesquisar mesmo como Mecânico.",
+        "es-ES": "[Maura]\nEsa es la mejor estrategia que han presentado nuestros técnicos hasta ahora.\nSi no te apetece hacer eso... bueno, pues sigues siendo mecánico. Como mecánico también hay mucho que investigar."
     },
     "hnVtDA": {
-        "ko": "그럼 물질대사를 하는 방법이라면...",
-        "en": "Then something capable of metabolism is...",
-        "pt": "Então, se for uma forma de realizar o metabolismo...",
-        "es": "Entonces, si hablamos de cómo realizar el metabolismo..."
+        "ko-KR": "그럼 물질대사를 하는 방법이라면...",
+        "en-US": "Then something capable of metabolism is...",
+        "pt-BR": "Então, se for uma forma de realizar o metabolismo...",
+        "es-ES": "Entonces, si hablamos de cómo realizar el metabolismo..."
     },
     "h3VtDA": {
-        "ko": "[마우라]\n......유기물과 합성해서 생명활동을 유지하기 위해 유기물을 섭취하는 마도기어 같은 거?",
-        "en": "[Maura]\n......Like a Madogear that consumes organic matter to sustain its life functions by synthesizing it?",
-        "pt": "[Maura]\n......Algo como um M.E.C.H.A. que se funde com matéria orgânica e ingere matéria orgânica para manter as atividades vitais?",
-        "es": "[Maura]\n......¿Algo como un Mado Gear que se sintetiza con materia orgánica y la ingiere para mantener la actividad vital?"
+        "ko-KR": "[마우라]\n......유기물과 합성해서 생명활동을 유지하기 위해 유기물을 섭취하는 마도기어 같은 거?",
+        "en-US": "[Maura]\n......Like a Madogear that consumes organic matter to sustain its life functions by synthesizing it?",
+        "pt-BR": "[Maura]\n......Algo como um M.E.C.H.A. que se funde com matéria orgânica e ingere matéria orgânica para manter as atividades vitais?",
+        "es-ES": "[Maura]\n......¿Algo como un Mado Gear que se sintetiza con materia orgánica y la ingiere para mantener la actividad vital?"
     },
     "iHVtDA": {
-        "ko": "상상력이 풍부하시네요",
-        "en": "You're so imaginative.",
-        "pt": "Você tem muita imaginação",
-        "es": "Tienes mucha imaginación"
+        "ko-KR": "상상력이 풍부하시네요",
+        "en-US": "You're so imaginative.",
+        "pt-BR": "Você tem muita imaginação",
+        "es-ES": "Tienes mucha imaginación"
     },
     "iXVtDA": {
-        "ko": "이상한 연구를 하는 사람이 많네요",
-        "en": "There are a lot of people doing strange research.",
-        "pt": "Tem muita gente fazendo pesquisas estranhas",
-        "es": "Hay mucha gente haciendo investigaciones raras"
+        "ko-KR": "이상한 연구를 하는 사람이 많네요",
+        "en-US": "There are a lot of people doing strange research.",
+        "pt-BR": "Tem muita gente fazendo pesquisas estranhas",
+        "es-ES": "Hay mucha gente haciendo investigaciones raras"
     },
     "inVtDA": {
-        "ko": "[마우라]\n말하기 전에는 생각해야 하고, 행동하기 전에도 생각해야 하는데 꼭 될 것 같다고 그냥 만들다가 신세 망치는 자들이 많지... 너는 그러지 마라.",
-        "en": "[Maura]\nYou should think before you speak, and think before you act. But so many people ruin their lives by just charging ahead thinking it'll work out... Don't be one of them.",
-        "pt": "[Maura]\nÉ preciso pensar antes de falar e pensar antes de agir, mas tem muita gente que, achando que vai dar certo, simplesmente começa a criar e acaba arruinando a própria vida... Não faça isso.",
-        "es": "[Maura]\nHay que pensar antes de hablar y antes de actuar, pero hay muchos que se arruinan la vida por lanzarse a crear algo solo porque creen que va a funcionar... No hagas lo mismo."
+        "ko-KR": "[마우라]\n말하기 전에는 생각해야 하고, 행동하기 전에도 생각해야 하는데 꼭 될 것 같다고 그냥 만들다가 신세 망치는 자들이 많지... 너는 그러지 마라.",
+        "en-US": "[Maura]\nYou should think before you speak, and think before you act. But so many people ruin their lives by just charging ahead thinking it'll work out... Don't be one of them.",
+        "pt-BR": "[Maura]\nÉ preciso pensar antes de falar e pensar antes de agir, mas tem muita gente que, achando que vai dar certo, simplesmente começa a criar e acaba arruinando a própria vida... Não faça isso.",
+        "es-ES": "[Maura]\nHay que pensar antes de hablar y antes de actuar, pero hay muchos que se arruinan la vida por lanzarse a crear algo solo porque creen que va a funcionar... No hagas lo mismo."
     },
     "i3VtDA": {
-        "ko": "[마우라]\n...어쨌든.\n아무리 미스트가 소개해 줬다고는 해도, 여기까지 온 데는 이유가 있겠지.\n왜?\n왜 마이스터가 되고 싶어?",
-        "en": "[Maura]\n...Anyway.\nEven if Mist told you about me, you wouldn't have come if you didn't want to.\nSo, let me ask you.\nWhy do you want to be a Meister?",
-        "pt": "[Maura]\n...De qualquer forma.\nPor mais que tenha sido a Mist quem te apresentou, deve ter um motivo para você ter vindo até aqui.\nEntão, me diga.\nPor que você quer se tornar um Engenheiro?",
-        "es": "[Maura]\n...En fin.\nPor mucho que Mist te haya presentado, habrá una razón por la que has llegado hasta aquí.\n¿Por qué?\n¿Por qué quieres ser un Meister?"
+        "ko-KR": "[마우라]\n...어쨌든.\n아무리 미스트가 소개해 줬다고는 해도, 여기까지 온 데는 이유가 있겠지.\n왜?\n왜 마이스터가 되고 싶어?",
+        "en-US": "[Maura]\n...Anyway.\nEven if Mist told you about me, you wouldn't have come if you didn't want to.\nSo, let me ask you.\nWhy do you want to be a Meister?",
+        "pt-BR": "[Maura]\n...De qualquer forma.\nPor mais que tenha sido a Mist quem te apresentou, deve ter um motivo para você ter vindo até aqui.\nEntão, me diga.\nPor que você quer se tornar um Engenheiro?",
+        "es-ES": "[Maura]\n...En fin.\nPor mucho que Mist te haya presentado, habrá una razón por la que has llegado hasta aquí.\n¿Por qué?\n¿Por qué quieres ser un Meister?"
     },
     "jHVtDA": {
-        "ko": "[{0}]\n미스트가 보내서...",
-        "en": "[{0}]\nMist sent me...",
-        "pt": "[{0}]\nFui enviado pela Mist...",
-        "es": "[{0}]\nMist me envió..."
+        "ko-KR": "[{0}]\n미스트가 보내서...",
+        "en-US": "[{0}]\nMist sent me...",
+        "pt-BR": "[{0}]\nFui enviado pela Mist...",
+        "es-ES": "[{0}]\nMist me envió..."
     },
     "jXVtDA": {
-        "ko": "[마우라]\n남이 하라면 다 따라해?\n하하.\n향상심이 있으니 여기까지 왔겠지. 그럼, 마이스터가 되면 할 수 있는 건 뭐가 있을까?",
-        "en": "[Maura]\nDo you just follow everything others tell you to do?\nHah hah.\nYou must have a desire to improve, which is why you've come this far. So, what do you think you can do once you become a Meister?",
-        "pt": "[Maura]\nVocê faz tudo o que os outros mandam?\nHaha.\nVocê deve ter vindo até aqui porque tem vontade de melhorar. Então, o que você pode fazer quando se tornar um Engenheiro?",
-        "es": "[Maura]\n¿Haces todo lo que te dicen los demás?\nJaja.\nSeguramente has llegado hasta aquí porque tienes ganas de mejorar. Bueno, ¿qué es lo que puedes hacer si te conviertes en Meister?"
+        "ko-KR": "[마우라]\n남이 하라면 다 따라해?\n하하.\n향상심이 있으니 여기까지 왔겠지. 그럼, 마이스터가 되면 할 수 있는 건 뭐가 있을까?",
+        "en-US": "[Maura]\nDo you just follow everything others tell you to do?\nHah hah.\nYou must have a desire to improve, which is why you've come this far. So, what do you think you can do once you become a Meister?",
+        "pt-BR": "[Maura]\nVocê faz tudo o que os outros mandam?\nHaha.\nVocê deve ter vindo até aqui porque tem vontade de melhorar. Então, o que você pode fazer quando se tornar um Engenheiro?",
+        "es-ES": "[Maura]\n¿Haces todo lo que te dicen los demás?\nJaja.\nSeguramente has llegado hasta aquí porque tienes ganas de mejorar. Bueno, ¿qué es lo que puedes hacer si te conviertes en Meister?"
     },
     "jnVtDA": {
-        "ko": "[마우라]\n우리가 만드는 것은, 남을 위해 만드는 무기가 아니라면 나 자신을 견고하게 만드는 도구다.\n이 견고한 도구들이 나를 물리적으로만 지킬까?",
-        "en": "[Maura]\nWhat we create, aside from weapons for others, are tools to fortify ourselves.\nDo these fortified tools only protect me physically?",
-        "pt": "[Maura]\nO que criamos não são armas para os outros, mas ferramentas para fortalecer a nós mesmos.\nSerá que essas ferramentas robustas nos protegem apenas fisicamente?",
-        "es": "[Maura]\nLo que creamos no son armas para otros, sino herramientas para fortalecerme a mí misma.\n¿Acaso estas herramientas robustas solo me protegen físicamente?"
+        "ko-KR": "[마우라]\n우리가 만드는 것은, 남을 위해 만드는 무기가 아니라면 나 자신을 견고하게 만드는 도구다.\n이 견고한 도구들이 나를 물리적으로만 지킬까?",
+        "en-US": "[Maura]\nWhat we create, aside from weapons for others, are tools to fortify ourselves.\nDo these fortified tools only protect me physically?",
+        "pt-BR": "[Maura]\nO que criamos não são armas para os outros, mas ferramentas para fortalecer a nós mesmos.\nSerá que essas ferramentas robustas nos protegem apenas fisicamente?",
+        "es-ES": "[Maura]\nLo que creamos no son armas para otros, sino herramientas para fortalecerme a mí misma.\n¿Acaso estas herramientas robustas solo me protegen físicamente?"
     },
     "j3VtDA": {
-        "ko": "[마우라]\n겪었으니 알겠지만 마도기관과 한 번 엮이고 나면 벗어날 수 없지, 내가 확장되는 그 기분 말야. 안으로도, 밖으로도. 이대로 조금만 더 연구하면 세상을 더 잘 알 수 있을 것 같은데. 진리에 다가설 수 있을 것 같은데.",
-        "en": "[Maura]\nAs you know from experience, once you learn about the mana engine, you can never get away from it. It gives you a feeling of expanding, on the inside and outside. It makes you feel as if you're expanding.",
-        "pt": "[Maura]\nComo você já passou por isso, sabe que muito bem. Uma vez que envolvido com o mecanismo de mana, não há escapatória. Aquela sensação de estar me expandindo. Para dentro e para fora. Se eu continuar pesquisando um pouquinho mais assim, acho que vou entender melhor o mundo. Acho que vou chegar mais perto da verdade.",
-        "es": "[Maura]\nYa que lo has vivido, lo sabrás: una vez que te involucras con los mecanismos mágicos, no puedes escapar, me refiero a esa sensación de expandirme. Hacia adentro y hacia afuera. Si sigo investigando un poco más así, siento que podría conocer mejor el mundo. Siento que podría acercarme a la verdad."
+        "ko-KR": "[마우라]\n겪었으니 알겠지만 마도기관과 한 번 엮이고 나면 벗어날 수 없지, 내가 확장되는 그 기분 말야. 안으로도, 밖으로도. 이대로 조금만 더 연구하면 세상을 더 잘 알 수 있을 것 같은데. 진리에 다가설 수 있을 것 같은데.",
+        "en-US": "[Maura]\nAs you know from experience, once you learn about the mana engine, you can never get away from it. It gives you a feeling of expanding, on the inside and outside. It makes you feel as if you're expanding.",
+        "pt-BR": "[Maura]\nComo você já passou por isso, sabe que muito bem. Uma vez que envolvido com o mecanismo de mana, não há escapatória. Aquela sensação de estar me expandindo. Para dentro e para fora. Se eu continuar pesquisando um pouquinho mais assim, acho que vou entender melhor o mundo. Acho que vou chegar mais perto da verdade.",
+        "es-ES": "[Maura]\nYa que lo has vivido, lo sabrás: una vez que te involucras con los mecanismos mágicos, no puedes escapar, me refiero a esa sensación de expandirme. Hacia adentro y hacia afuera. Si sigo investigando un poco más así, siento que podría conocer mejor el mundo. Siento que podría acercarme a la verdad."
     },
     "kHVtDA": {
-        "ko": "[마우라]\n그런 것도 틀린 것은 아니지만, 행동하기 전에는 생각해야 하고 설계하기 전에는 이론을 만들어야지.",
-        "en": "[Maura]\nThat's not entirely wrong, but you must think before you act and build a foolproof theory before you design.",
-        "pt": "[Maura]\nIsso não é errado, mas é preciso pensar antes de agir e criar uma teoria antes de projetar.",
-        "es": "[Maura]\nEso tampoco está mal, pero hay que pensar antes de actuar y crear una teoría antes de diseñar."
+        "ko-KR": "[마우라]\n그런 것도 틀린 것은 아니지만, 행동하기 전에는 생각해야 하고 설계하기 전에는 이론을 만들어야지.",
+        "en-US": "[Maura]\nThat's not entirely wrong, but you must think before you act and build a foolproof theory before you design.",
+        "pt-BR": "[Maura]\nIsso não é errado, mas é preciso pensar antes de agir e criar uma teoria antes de projetar.",
+        "es-ES": "[Maura]\nEso tampoco está mal, pero hay que pensar antes de actuar y crear una teoría antes de diseñar."
     },
     "kXVtDA": {
-        "ko": "[마우라]\n그것을 위해 나를 물리적으로 지키는 견고한 도구를 만들고, 이것이 또한 나의 그 다음 생각과 이론을 뒷받침해 주기를 바라는 것이다.",
-        "en": "[Maura]\nFor that, we're making tools that can protect our bodies and furthermore our thoughts and ideas.",
-        "pt": "[Maura]\nPara isso, estou criando uma ferramenta robusta que me proteja fisicamente, e espero que ela também sustente minhas ideias e teorias.",
-        "es": "[Maura]\nPara eso, quiero crear una herramienta sólida que me proteja físicamente, y espero que esto también respalde mis siguientes ideas y teorías."
+        "ko-KR": "[마우라]\n그것을 위해 나를 물리적으로 지키는 견고한 도구를 만들고, 이것이 또한 나의 그 다음 생각과 이론을 뒷받침해 주기를 바라는 것이다.",
+        "en-US": "[Maura]\nFor that, we're making tools that can protect our bodies and furthermore our thoughts and ideas.",
+        "pt-BR": "[Maura]\nPara isso, estou criando uma ferramenta robusta que me proteja fisicamente, e espero que ela também sustente minhas ideias e teorias.",
+        "es-ES": "[Maura]\nPara eso, quiero crear una herramienta sólida que me proteja físicamente, y espero que esto también respalde mis siguientes ideas y teorías."
     },
     "knVtDA": {
-        "ko": "[마우라]\n문 너머에서 무엇을 보았지?",
-        "en": "[Maura]\nWhat did you see on the other side of the Gate?",
-        "pt": "[Maura]\nO que você viu do outro lado da porta?",
-        "es": "[Maura]\n¿Qué viste al otro lado de la puerta?"
+        "ko-KR": "[마우라]\n문 너머에서 무엇을 보았지?",
+        "en-US": "[Maura]\nWhat did you see on the other side of the Gate?",
+        "pt-BR": "[Maura]\nO que você viu do outro lado da porta?",
+        "es-ES": "[Maura]\n¿Qué viste al otro lado de la puerta?"
     },
     "k3VtDA": {
-        "ko": "[{0}]\n라그랑주 씨도 설마...",
-        "en": "[{0}]\nMiss Lagrange, you didn't...",
-        "pt": "[{0}]\nSrta. Lagrange, você não...",
-        "es": "[{0}]\n¿Acaso el señor Lagrange también...?"
+        "ko-KR": "[{0}]\n라그랑주 씨도 설마...",
+        "en-US": "[{0}]\nMiss Lagrange, you didn't...",
+        "pt-BR": "[{0}]\nSrta. Lagrange, você não...",
+        "es-ES": "[{0}]\n¿Acaso el señor Lagrange también...?"
     },
     "lHVtDA": {
-        "ko": "[마우라]\n이해가 빠르니 편하군.\n젊은 미케닉, 과제를 하나 주겠다.",
-        "en": "[Maura]\nYou grasp things quickly, which is convenient.\nYoung Mechanic, here's a task for you.",
-        "pt": "[Maura]\nVocê entende rápido, isso facilita as coisas.\nJovem Mecânico, vou te dar uma tarefa.",
-        "es": "[Maura]\nQué rápido entiendes, qué fácil.\nJoven mecánico, te voy a dar una tarea."
+        "ko-KR": "[마우라]\n이해가 빠르니 편하군.\n젊은 미케닉, 과제를 하나 주겠다.",
+        "en-US": "[Maura]\nYou grasp things quickly, which is convenient.\nYoung Mechanic, here's a task for you.",
+        "pt-BR": "[Maura]\nVocê entende rápido, isso facilita as coisas.\nJovem Mecânico, vou te dar uma tarefa.",
+        "es-ES": "[Maura]\nQué rápido entiendes, qué fácil.\nJoven mecánico, te voy a dar una tarea."
     },
     "lXVtDA": {
-        "ko": "[마우라]\n지금 그 노이슈 리앙이었던 것의 잔해가 유페로스에 있다.\n<B>이 쪽의 기어를 사용해서</B> 현장을 급습하고 잔해를 분리해 버려.",
-        "en": "[Maura]\nThe remains of what was once Neusch Lian are in Juperos.\n<B>Use this gear</B> to raid the site and dismantle his remains.",
-        "pt": "[Maura]\nOs destroços daquela coisa que era o Neusch Lian estão em Juperos.\n<B>Usando esta engrenagem</B>, invada o local e separe os destroços.",
-        "es": "[Maura]\nLos restos de lo que era ese Neusch Lian están en Juperos.\n<B>Usa los engranajes de este lado</B> para asaltar el lugar y desmontar los restos."
+        "ko-KR": "[마우라]\n지금 그 노이슈 리앙이었던 것의 잔해가 유페로스에 있다.\n<B>이 쪽의 기어를 사용해서</B> 현장을 급습하고 잔해를 분리해 버려.",
+        "en-US": "[Maura]\nThe remains of what was once Neusch Lian are in Juperos.\n<B>Use this gear</B> to raid the site and dismantle his remains.",
+        "pt-BR": "[Maura]\nOs destroços daquela coisa que era o Neusch Lian estão em Juperos.\n<B>Usando esta engrenagem</B>, invada o local e separe os destroços.",
+        "es-ES": "[Maura]\nLos restos de lo que era ese Neusch Lian están en Juperos.\n<B>Usa los engranajes de este lado</B> para asaltar el lugar y desmontar los restos."
     },
     "lnVtDA": {
-        "ko": "[마우라]\n네가 생각하는 그 어떤 모습도 아닐지도 몰라...\n마도기관을 쓴다는 건 그런 거다.",
-        "en": "[Maura]\nI bet they're anything but what you can imagine.\nThe mana engine can does that to you.",
-        "pt": "[Maura]\nTalvez não seja nada parecido com o que você imagina...\nUsar um mecanismo de mana é assim mesmo.",
-        "es": "[Maura]\nPuede que no se parezca en nada a lo que te imaginas...\nEso es lo que significa usar un motor mágico."
+        "ko-KR": "[마우라]\n네가 생각하는 그 어떤 모습도 아닐지도 몰라...\n마도기관을 쓴다는 건 그런 거다.",
+        "en-US": "[Maura]\nI bet they're anything but what you can imagine.\nThe mana engine can does that to you.",
+        "pt-BR": "[Maura]\nTalvez não seja nada parecido com o que você imagina...\nUsar um mecanismo de mana é assim mesmo.",
+        "es-ES": "[Maura]\nPuede que no se parezca en nada a lo que te imaginas...\nEso es lo que significa usar un motor mágico."
     },
     "l3VtDA": {
-        "ko": "[마우라]\n미케닉이 되기 위해 그 곳에 갔을 때 얻었던 것들은 그 때의 네게 최선이었을 거야.",
-        "en": "[Maura]\nWhat you earned in there before becoming a Mechanic may have been the best for you at that time.",
-        "pt": "[Maura]\nO que você ganhou quando foi para lá para se tornar um mecânico deve ter sido o melhor para você naquela época.",
-        "es": "[Maura]\nLo que obtuviste cuando fuiste allí para convertirte en mecánico fue lo mejor para ti en ese momento."
+        "ko-KR": "[마우라]\n미케닉이 되기 위해 그 곳에 갔을 때 얻었던 것들은 그 때의 네게 최선이었을 거야.",
+        "en-US": "[Maura]\nWhat you earned in there before becoming a Mechanic may have been the best for you at that time.",
+        "pt-BR": "[Maura]\nO que você ganhou quando foi para lá para se tornar um mecânico deve ter sido o melhor para você naquela época.",
+        "es-ES": "[Maura]\nLo que obtuviste cuando fuiste allí para convertirte en mecánico fue lo mejor para ti en ese momento."
     },
     "mHVtDA": {
-        "ko": "[마우라]\n어쩌면 그 때 갔을 때는 몰랐던 걸 다시 얻을 수 있을 테지.",
-        "en": "[Maura]\nThis time, you might find something you missed back then.",
-        "pt": "[Maura]\nTalvez você consiga recuperar algo que não sabia naquela época.",
-        "es": "[Maura]\nQuizás puedas recuperar algo que no sabías en ese momento."
+        "ko-KR": "[마우라]\n어쩌면 그 때 갔을 때는 몰랐던 걸 다시 얻을 수 있을 테지.",
+        "en-US": "[Maura]\nThis time, you might find something you missed back then.",
+        "pt-BR": "[Maura]\nTalvez você consiga recuperar algo que não sabia naquela época.",
+        "es-ES": "[Maura]\nQuizás puedas recuperar algo que no sabías en ese momento."
     },
     "mXVtDA": {
-        "ko": "[{0}]\n반칙 아니에요?",
-        "en": "[{0}]\nIsn't that cheating?",
-        "pt": "[{0}]\nIsso não é trapaça?",
-        "es": "[{0}]\n¿No es trampa?"
+        "ko-KR": "[{0}]\n반칙 아니에요?",
+        "en-US": "[{0}]\nIsn't that cheating?",
+        "pt-BR": "[{0}]\nIsso não é trapaça?",
+        "es-ES": "[{0}]\n¿No es trampa?"
     },
     "mnVtDA": {
-        "ko": "[마우라]\n그렇지만도 않아.\n그건 우리의 방식이니까.",
-        "en": "[Maura]\nNot exactly.\nIt's just how we operate.",
-        "pt": "[Maura]\nNão é bem assim.\nÉ o nosso jeito de fazer as coisas.",
-        "es": "[Maura]\nNo es así.\nEs nuestra forma de actuar."
+        "ko-KR": "[마우라]\n그렇지만도 않아.\n그건 우리의 방식이니까.",
+        "en-US": "[Maura]\nNot exactly.\nIt's just how we operate.",
+        "pt-BR": "[Maura]\nNão é bem assim.\nÉ o nosso jeito de fazer as coisas.",
+        "es-ES": "[Maura]\nNo es así.\nEs nuestra forma de actuar."
     },
     "m3VtDA": {
-        "ko": "[마우라]\n유페로스에 다시 한 번 다녀와 봐.\n어쩌면 그 때 갔을 때는 몰랐던 걸 다시 얻을 수 있을 테지.",
-        "en": "[Maura]\nGo explore Juperos again.\nThis time, you might find something that you missed back then.",
-        "pt": "[Maura]\nVá até Juperos mais uma vez.\nTalvez consiga recuperar algo que não sabia naquela época.",
-        "es": "[Maura]\nVuelve a visitar Juperos una vez más.\nQuizás puedas recuperar algo que no sabías en ese momento."
+        "ko-KR": "[마우라]\n유페로스에 다시 한 번 다녀와 봐.\n어쩌면 그 때 갔을 때는 몰랐던 걸 다시 얻을 수 있을 테지.",
+        "en-US": "[Maura]\nGo explore Juperos again.\nThis time, you might find something that you missed back then.",
+        "pt-BR": "[Maura]\nVá até Juperos mais uma vez.\nTalvez consiga recuperar algo que não sabia naquela época.",
+        "es-ES": "[Maura]\nVuelve a visitar Juperos una vez más.\nQuizás puedas recuperar algo que no sabías en ese momento."
     },
     "nHVtDA": {
-        "ko": "- 소지하고 계신 아이템이 많아 퀘스트를 진행할 수 없습니다. -",
-        "en": "- You're carrying too many items to proceed with this quest. -",
-        "pt": "- Não é possível continuar com a missão porque você está carregando muitos itens. -",
-        "es": "- Tienes demasiados objetos y no puedes continuar con la misión. -"
+        "ko-KR": "- 소지하고 계신 아이템이 많아 퀘스트를 진행할 수 없습니다. -",
+        "en-US": "- You're carrying too many items to proceed with this quest. -",
+        "pt-BR": "- Não é possível continuar com a missão porque você está carregando muitos itens. -",
+        "es-ES": "- Tienes demasiados objetos y no puedes continuar con la misión. -"
     },
     "nXVtDA": {
-        "ko": "[마우라]\n뭔가 부족한데... 스킬 전부 습득했어?",
-        "en": "[Maura]\nSomething feels off... Did you spend all your Skill Points?",
-        "pt": "[Maura]\nParece que tá faltando alguma coisa... Você aprendeu todas as habilidades?",
-        "es": "[Maura]\nMe falta algo... ¿Ya aprendiste todas las habilidades?"
+        "ko-KR": "[마우라]\n뭔가 부족한데... 스킬 전부 습득했어?",
+        "en-US": "[Maura]\nSomething feels off... Did you spend all your Skill Points?",
+        "pt-BR": "[Maura]\nParece que tá faltando alguma coisa... Você aprendeu todas as habilidades?",
+        "es-ES": "[Maura]\nMe falta algo... ¿Ya aprendiste todas las habilidades?"
     },
     "nnVtDA": {
-        "ko": "[마우라]\n이런 중요한 때 탈것은 좀 그렇지? 일단 내려와.",
-        "en": "[Maura]\nYou shouldn't be on a mount for such an important procedure. Get off.",
-        "pt": "[Maura]\nUsar isso num momento tão importante não é muito legal, né? Desce daí primeiro.",
-        "es": "[Maura]\n¿Vienes en eso en un momento tan importante? Baja de ahí."
+        "ko-KR": "[마우라]\n이런 중요한 때 탈것은 좀 그렇지? 일단 내려와.",
+        "en-US": "[Maura]\nYou shouldn't be on a mount for such an important procedure. Get off.",
+        "pt-BR": "[Maura]\nUsar isso num momento tão importante não é muito legal, né? Desce daí primeiro.",
+        "es-ES": "[Maura]\n¿Vienes en eso en un momento tan importante? Baja de ahí."
     },
     "n3VtDA": {
-        "ko": "[마우라]\n이런 중요한 때 그 복장은 좀... 일단 내려와.",
-        "en": "[Maura]\nYou shouldn't be in that suit for such an important procedure. Take it off.",
-        "pt": "[Maura]\nNuma hora tão importante assim, essa roupa não combina... Desce primeiro.",
-        "es": "[Maura]\nEn un momento tan importante, ese atuendo no me convence... Baja de ahí."
+        "ko-KR": "[마우라]\n이런 중요한 때 그 복장은 좀... 일단 내려와.",
+        "en-US": "[Maura]\nYou shouldn't be in that suit for such an important procedure. Take it off.",
+        "pt-BR": "[Maura]\nNuma hora tão importante assim, essa roupa não combina... Desce primeiro.",
+        "es-ES": "[Maura]\nEn un momento tan importante, ese atuendo no me convence... Baja de ahí."
     },
     "oHVtDA": {
-        "ko": "[마우라]\n무사 귀환을 축하한다.\n너 쓸만하다. 맘에 들어.",
-        "en": "[Maura]\nWelcome back.\nYou're pretty useful. I like you.",
-        "pt": "[Maura]\nParabéns por retornar em segurança.\nVocê é útil. Gostei de você.",
-        "es": "[Maura]\nFelicidades por tu regreso a salvo.\nEres útil. Me gustas."
+        "ko-KR": "[마우라]\n무사 귀환을 축하한다.\n너 쓸만하다. 맘에 들어.",
+        "en-US": "[Maura]\nWelcome back.\nYou're pretty useful. I like you.",
+        "pt-BR": "[Maura]\nParabéns por retornar em segurança.\nVocê é útil. Gostei de você.",
+        "es-ES": "[Maura]\nFelicidades por tu regreso a salvo.\nEres útil. Me gustas."
     },
     "oXVtDA": {
-        "ko": "[{0}]\n그거 참 감사하네요...",
-        "en": "[{0}]\nThat's really kind of you...",
-        "pt": "[{0}]\nMuito obrigado por isso...",
-        "es": "[{0}]\nTe lo agradezco mucho..."
+        "ko-KR": "[{0}]\n그거 참 감사하네요...",
+        "en-US": "[{0}]\nThat's really kind of you...",
+        "pt-BR": "[{0}]\nMuito obrigado por isso...",
+        "es-ES": "[{0}]\nTe lo agradezco mucho..."
     },
     "onVtDA": {
-        "ko": "[마우라]\n그럼, 감사해야지.\n너는 방금 전직시험을 무사히 통과했다.\n그 승인은 내가 내릴 테니까.",
-        "en": "[Maura]\nWell then, you should be grateful.\nYou've just passed your Job Change test.\nI have the authority to approve that.",
-        "pt": "[Maura]\nClaro, é o mínimo.\nVocê acabou de passar no teste de mudança de classe.\nEu tenho autoridade para te dar essa aprovação.",
-        "es": "[Maura]\nPues claro, tienes que dar las gracias.\nAcabas de pasar la prueba de cambio de clase sin problemas.\nYo me encargaré de dar la aprobación."
+        "ko-KR": "[마우라]\n그럼, 감사해야지.\n너는 방금 전직시험을 무사히 통과했다.\n그 승인은 내가 내릴 테니까.",
+        "en-US": "[Maura]\nWell then, you should be grateful.\nYou've just passed your Job Change test.\nI have the authority to approve that.",
+        "pt-BR": "[Maura]\nClaro, é o mínimo.\nVocê acabou de passar no teste de mudança de classe.\nEu tenho autoridade para te dar essa aprovação.",
+        "es-ES": "[Maura]\nPues claro, tienes que dar las gracias.\nAcabas de pasar la prueba de cambio de clase sin problemas.\nYo me encargaré de dar la aprobación."
     },
     "o3VtDA": {
-        "ko": "[마우라]\n이제 진리의 문은 원래 기능대로 돌아갔을 거야.",
-        "en": "[Maura]\nBy now, the Gate of Truth should have been restored to its original function.",
-        "pt": "[Maura]\nAgora, o Portão da Verdade deve ter voltado a funcionar normalmente.",
-        "es": "[Maura]\nAhora la Puerta de la Verdad ya debe haber vuelto a funcionar como antes."
+        "ko-KR": "[마우라]\n이제 진리의 문은 원래 기능대로 돌아갔을 거야.",
+        "en-US": "[Maura]\nBy now, the Gate of Truth should have been restored to its original function.",
+        "pt-BR": "[Maura]\nAgora, o Portão da Verdade deve ter voltado a funcionar normalmente.",
+        "es-ES": "[Maura]\nAhora la Puerta de la Verdad ya debe haber vuelto a funcionar como antes."
     },
     "pHVtDA": {
-        "ko": "[{0}]\n그렇게 쉽게요...?",
-        "en": "[{0}]\nSo easily...?",
-        "pt": "[{0}]\nTão fácil assim...?",
-        "es": "[{0}]\n¿Tan fácil...?"
+        "ko-KR": "[{0}]\n그렇게 쉽게요...?",
+        "en-US": "[{0}]\nSo easily...?",
+        "pt-BR": "[{0}]\nTão fácil assim...?",
+        "es-ES": "[{0}]\n¿Tan fácil...?"
     },
     "pXVtDA": {
-        "ko": "[마우라]\n애초에 우리가 뭘 어떻게 할 수 있는 존재가 아니야, 그건. 전에 만져봤을 때 그러지 않던가? 문 너머에느은~~ 인지를 넘어선 지식이 있지만 가르쳐주지 않겠다아~~",
-        "en": "[Maura]\nWe're not beings who can do anything about it in the first place. Didn't you hear it say something like that before? Beyond this gate, it's overflowing with knowledge, but I can't let just anyone get ahold of it...",
-        "pt": "[Maura]\nPara começar, não somos capazes de fazer nada a respeito disso. Não foi isso que você ouviu quando tocou nela antes? “Do outro lado da porta há conhecimento além da compreensão, mas não vou te entregar...”",
-        "es": "[Maura]\nPara empezar, no somos seres capaces de hacer nada al respecto. ¿No fue así la última vez que lo tocaste? Más allá de la puerta hay~~ conocimiento que trasciende la cognición, pero no te lo voy a enseñar~~"
+        "ko-KR": "[마우라]\n애초에 우리가 뭘 어떻게 할 수 있는 존재가 아니야, 그건. 전에 만져봤을 때 그러지 않던가? 문 너머에느은~~ 인지를 넘어선 지식이 있지만 가르쳐주지 않겠다아~~",
+        "en-US": "[Maura]\nWe're not beings who can do anything about it in the first place. Didn't you hear it say something like that before? Beyond this gate, it's overflowing with knowledge, but I can't let just anyone get ahold of it...",
+        "pt-BR": "[Maura]\nPara começar, não somos capazes de fazer nada a respeito disso. Não foi isso que você ouviu quando tocou nela antes? “Do outro lado da porta há conhecimento além da compreensão, mas não vou te entregar...”",
+        "es-ES": "[Maura]\nPara empezar, no somos seres capaces de hacer nada al respecto. ¿No fue así la última vez que lo tocaste? Más allá de la puerta hay~~ conocimiento que trasciende la cognición, pero no te lo voy a enseñar~~"
     },
     "pnVtDA": {
-        "ko": "[마우라]\n인간이면 프랭클슨 꼴이 난다고 해서 문 너머의 지식인 마도기어와 융합해 봤자, 자기가 만든 마도기어가 자기 지식을 벗어날 리는 없잖아...",
-        "en": "[Maura]\nEven if you fuse yourself with your Madogear because you don't want to end up like Frankelson, you will end up like Naoise because your Madogear is still your creation",
-        "pt": "[Maura]\nMesmo que um humano acabe como o Frankelson, mesmo que tente se fundir com o conhecimento do outro lado da porta, o M.E.C.H.A. que ele mesmo criou ainda pertence a ele...",
-        "es": "[Maura]\nAunque digan que los humanos acaban como Franklson, si te fusionas con el conocimiento que hay al otro lado de la puerta, el artilugio mágico que tú mismo creas no va a ir más allá de tu propio conocimiento..."
+        "ko-KR": "[마우라]\n인간이면 프랭클슨 꼴이 난다고 해서 문 너머의 지식인 마도기어와 융합해 봤자, 자기가 만든 마도기어가 자기 지식을 벗어날 리는 없잖아...",
+        "en-US": "[Maura]\nEven if you fuse yourself with your Madogear because you don't want to end up like Frankelson, you will end up like Naoise because your Madogear is still your creation",
+        "pt-BR": "[Maura]\nMesmo que um humano acabe como o Frankelson, mesmo que tente se fundir com o conhecimento do outro lado da porta, o M.E.C.H.A. que ele mesmo criou ainda pertence a ele...",
+        "es-ES": "[Maura]\nAunque digan que los humanos acaban como Franklson, si te fusionas con el conocimiento que hay al otro lado de la puerta, el artilugio mágico que tú mismo creas no va a ir más allá de tu propio conocimiento..."
     },
     "p3VtDA": {
-        "ko": "[마우라]\n아까운 사람을 잃긴 했어...",
-        "en": "[Maura]\nIt's a shame we lost such a great researcher, though.",
-        "pt": "[Maura]\nPerdi uma pessoa importante...",
-        "es": "[Maura]\nHe perdido a alguien a quien apreciaba..."
+        "ko-KR": "[마우라]\n아까운 사람을 잃긴 했어...",
+        "en-US": "[Maura]\nIt's a shame we lost such a great researcher, though.",
+        "pt-BR": "[Maura]\nPerdi uma pessoa importante...",
+        "es-ES": "[Maura]\nHe perdido a alguien a quien apreciaba..."
     },
     "qHVtDA": {
-        "ko": "[마우라]\n젊은 미케닉.\n뭘 배워왔지?",
-        "en": "[Maura]\nYoung Mechanic.\nWhat have you learned?",
-        "pt": "[Maura]\nJovem Mecânico.\nO que você aprendeu?",
-        "es": "[Maura]\nUn joven mecánico.\n¿Qué habrás aprendido?"
+        "ko-KR": "[마우라]\n젊은 미케닉.\n뭘 배워왔지?",
+        "en-US": "[Maura]\nYoung Mechanic.\nWhat have you learned?",
+        "pt-BR": "[Maura]\nJovem Mecânico.\nO que você aprendeu?",
+        "es-ES": "[Maura]\nUn joven mecánico.\n¿Qué habrás aprendido?"
     },
     "qXVtDA": {
-        "ko": "기계에 대한 연민은 상상",
-        "en": "Compassion for machines is imagination",
-        "pt": "A compaixão pelas máquinas é imaginação",
-        "es": "La compasión por las máquinas es solo"
+        "ko-KR": "기계에 대한 연민은 상상",
+        "en-US": "Compassion for machines is imagination",
+        "pt-BR": "A compaixão pelas máquinas é imaginação",
+        "es-ES": "La compasión por las máquinas es solo"
     },
     "qnVtDA": {
-        "ko": "나를 넘는 건 만들 수 없다",
-        "en": "I can't make anything beyond my limits.",
-        "pt": "Não dá pra criar nada que supere meus limites",
-        "es": "No puedes crear algo que supere a ti mismo"
+        "ko-KR": "나를 넘는 건 만들 수 없다",
+        "en-US": "I can't make anything beyond my limits.",
+        "pt-BR": "Não dá pra criar nada que supere meus limites",
+        "es-ES": "No puedes crear algo que supere a ti mismo"
     },
     "q3VtDA": {
-        "ko": "육신을 버리지 말자",
-        "en": "I should never abandon my body.",
-        "pt": "Não devemos nunca abandonar o corpo",
-        "es": "No abandonemos el cuerpo"
+        "ko-KR": "육신을 버리지 말자",
+        "en-US": "I should never abandon my body.",
+        "pt-BR": "Não devemos nunca abandonar o corpo",
+        "es-ES": "No abandonemos el cuerpo"
     },
     "rHVtDA": {
-        "ko": "[{0}]\n지금 문을 열면 돌아올 수 없다는 걸 배웠어요.",
-        "en": "[{0}]\nI've learned there will be no turning back if I open the Gate now.",
-        "pt": "[{0}]\nAprendi que, se abrir a porta agora, não poderei voltar.",
-        "es": "[{0}]\nHe aprendido que si abro la puerta ahora, no podré volver."
+        "ko-KR": "[{0}]\n지금 문을 열면 돌아올 수 없다는 걸 배웠어요.",
+        "en-US": "[{0}]\nI've learned there will be no turning back if I open the Gate now.",
+        "pt-BR": "[{0}]\nAprendi que, se abrir a porta agora, não poderei voltar.",
+        "es-ES": "[{0}]\nHe aprendido que si abro la puerta ahora, no podré volver."
     },
     "rXVtDA": {
-        "ko": "[마우라]\n맘에 드는 대답이야.\n좋은 콤비 플레이 잘 보았다. 재미있는 경험이었어.",
-        "en": "[Maura]\nThat's a great answer.\nI enjoyed watching you two work together. It was an interesting experience.",
-        "pt": "[Maura]\nGostei da resposta.\nBoa jogada em equipe. Foi uma experiência divertida.",
-        "es": "[Maura]\nMe gusta esa respuesta.\nBuena jugada en equipo, la disfruté. Fue una experiencia divertida."
+        "ko-KR": "[마우라]\n맘에 드는 대답이야.\n좋은 콤비 플레이 잘 보았다. 재미있는 경험이었어.",
+        "en-US": "[Maura]\nThat's a great answer.\nI enjoyed watching you two work together. It was an interesting experience.",
+        "pt-BR": "[Maura]\nGostei da resposta.\nBoa jogada em equipe. Foi uma experiência divertida.",
+        "es-ES": "[Maura]\nMe gusta esa respuesta.\nBuena jugada en equipo, la disfruté. Fue una experiencia divertida."
     },
     "rnVtDA": {
-        "ko": "[마우라]\n이 일은 자동전투로봇과 모험가 {0}의 경험이 아닌, 자동전투로봇을 만든 마이스터 마우라와 미케닉 {0}의 경험이다. 잘 기억해라.",
-        "en": "[Maura]\nThis excursion wasn't the experience of an auto-battle robot and adventurer {0}, but rather Meister Maura and Mechanic {0} who built the auto-battle robot. You'd better remember that.",
-        "pt": "[Maura]\nEsta experiência não é a de um robô de combate automático e do aventureiro {0}, mas sim da Engenheira Maura e do mecânico {0}, que criou o robô autômato. Lembre-se bem disso.",
-        "es": "[Maura]\nEsto no es una experiencia del robot de combate automático y el aventurero {0}, sino del maestro Maura, quien creó el robot de combate automático, y del mecánico {0}. Recuérdalo bien."
+        "ko-KR": "[마우라]\n이 일은 자동전투로봇과 모험가 {0}의 경험이 아닌, 자동전투로봇을 만든 마이스터 마우라와 미케닉 {0}의 경험이다. 잘 기억해라.",
+        "en-US": "[Maura]\nThis excursion wasn't the experience of an auto-battle robot and adventurer {0}, but rather Meister Maura and Mechanic {0} who built the auto-battle robot. You'd better remember that.",
+        "pt-BR": "[Maura]\nEsta experiência não é a de um robô de combate automático e do aventureiro {0}, mas sim da Engenheira Maura e do mecânico {0}, que criou o robô autômato. Lembre-se bem disso.",
+        "es-ES": "[Maura]\nEsto no es una experiencia del robot de combate automático y el aventurero {0}, sino del maestro Maura, quien creó el robot de combate automático, y del mecánico {0}. Recuérdalo bien."
     },
     "r3VtDA": {
-        "ko": "[마우라]\n...?\n뭐지?",
-        "en": "[Maura]...?\n\nWhat's that?",
-        "pt": "[Maura]\n...?\nO que é isso?",
-        "es": "[Maura]\n...?\n¿Qué pasa?"
+        "ko-KR": "[마우라]\n...?\n뭐지?",
+        "en-US": "[Maura]...?\n\nWhat's that?",
+        "pt-BR": "[Maura]\n...?\nO que é isso?",
+        "es-ES": "[Maura]\n...?\n¿Qué pasa?"
     },
     "sHVtDA": {
-        "ko": "[마우라]\n새로운 마이스터,\n{0}의 앞날에 행운이 가득하기를.",
-        "en": "[Maura]\nNew Meister,\n{0} May your journey be filled with blessings.",
-        "pt": "[Maura]\nNovo Engenheiro,\nque a sorte esteja sempre ao lado de {0}.",
-        "es": "[Maura]\nNuevo maestro,\nque la suerte te acompañe en tu futuro, {0}."
+        "ko-KR": "[마우라]\n새로운 마이스터,\n{0}의 앞날에 행운이 가득하기를.",
+        "en-US": "[Maura]\nNew Meister,\n{0} May your journey be filled with blessings.",
+        "pt-BR": "[Maura]\nNovo Engenheiro,\nque a sorte esteja sempre ao lado de {0}.",
+        "es-ES": "[Maura]\nNuevo maestro,\nque la suerte te acompañe en tu futuro, {0}."
     },
     "sXVtDA": {
-        "ko": "[마우라]\n이제 떠오르는 걸 네가 직접 만들어 보도록 해.\n그 책을 참조해서 말이야.",
-        "en": "[Maura]\nNow, try to create things on your own.\nYou can always refer to that book I gave you if you need.",
-        "pt": "[Maura]\nAgora, tente criar você mesmo o que surge em sua mente.\nUse aquele livro como referência.",
-        "es": "[Maura]\nAhora intenta crear tú mismo lo que se te ocurra.\nConsulta ese libro."
+        "ko-KR": "[마우라]\n이제 떠오르는 걸 네가 직접 만들어 보도록 해.\n그 책을 참조해서 말이야.",
+        "en-US": "[Maura]\nNow, try to create things on your own.\nYou can always refer to that book I gave you if you need.",
+        "pt-BR": "[Maura]\nAgora, tente criar você mesmo o que surge em sua mente.\nUse aquele livro como referência.",
+        "es-ES": "[Maura]\nAhora intenta crear tú mismo lo que se te ocurra.\nConsulta ese libro."
     },
     "snVtDA": {
-        "ko": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
-        "en": "- You're carrying too many items to proceed. -",
-        "pt": "- Não é possível prosseguir porque você está carregando muitos itens. -",
-        "es": "- No puedes continuar porque tienes demasiados objetos en tu inventario. -"
+        "ko-KR": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
+        "en-US": "- You're carrying too many items to proceed. -",
+        "pt-BR": "- Não é possível prosseguir porque você está carregando muitos itens. -",
+        "es-ES": "- No puedes continuar porque tienes demasiados objetos en tu inventario. -"
     },
     "s3VtDA": {
-        "ko": "[마우라]\n혹시 장치 제조책을 잃어버렸다면 한 권 더 줄 수는 있어.\n근데 그거 내가 취미로 만든 거라 인쇄비가 좀 비쌌거든. 공짜로 줄 수는 없고...\n^0000FF100000제니^000000에 어때?",
-        "en": "[Maura]\nIf you lost your Machine Creation Guide, I can give you another copy.\nBut since I made these books as a hobby, they cost a lot of money to print. I can't just give them away.\nHow about ^0000FF100000 Zeny^000000?",
-        "pt": "[Maura]\nSe por acaso você perdeu o manual de fabricação de dispositivos, posso te dar outro.\nMas como eu fiz isso por hobby, a impressão ficou um pouco cara. Não posso te dar de graça...\nQue tal por ^0000FF100.000 Zeni^000000?",
-        "es": "[Maura]\nSi por casualidad perdiste el manual de fabricación de dispositivos, te puedo dar otro.\nPero como lo hice como pasatiempo, la impresión me salió un poco cara. No te lo puedo dar gratis...\n¿Qué tal por ^0000FF100 000 jenis^000000?"
+        "ko-KR": "[마우라]\n혹시 장치 제조책을 잃어버렸다면 한 권 더 줄 수는 있어.\n근데 그거 내가 취미로 만든 거라 인쇄비가 좀 비쌌거든. 공짜로 줄 수는 없고...\n^0000FF100000제니^000000에 어때?",
+        "en-US": "[Maura]\nIf you lost your Machine Creation Guide, I can give you another copy.\nBut since I made these books as a hobby, they cost a lot of money to print. I can't just give them away.\nHow about ^0000FF100000 Zeny^000000?",
+        "pt-BR": "[Maura]\nSe por acaso você perdeu o manual de fabricação de dispositivos, posso te dar outro.\nMas como eu fiz isso por hobby, a impressão ficou um pouco cara. Não posso te dar de graça...\nQue tal por ^0000FF100.000 Zeni^000000?",
+        "es-ES": "[Maura]\nSi por casualidad perdiste el manual de fabricación de dispositivos, te puedo dar otro.\nPero como lo hice como pasatiempo, la impresión me salió un poco cara. No te lo puedo dar gratis...\n¿Qué tal por ^0000FF100 000 jenis^000000?"
     },
     "tHVtDA": {
-        "ko": "100000제니를 내고 장치 제조책을 받는다",
-        "en": "Get Machine Creation Guide for 100,000 Zeny.",
-        "pt": "Pagas 100.000 Zeni e recebes o livro de fabricação de dispositivos",
-        "es": "Pagas 100 000 zeni y recibes el libro de fabricación de dispositivos"
+        "ko-KR": "100000제니를 내고 장치 제조책을 받는다",
+        "en-US": "Get Machine Creation Guide for 100,000 Zeny.",
+        "pt-BR": "Pagas 100.000 Zeni e recebes o livro de fabricação de dispositivos",
+        "es-ES": "Pagas 100 000 zeni y recibes el libro de fabricación de dispositivos"
     },
     "tXVtDA": {
-        "ko": "그만둔다",
-        "en": "I'm quitting",
-        "pt": "Vou desistir",
-        "es": "Me rindo"
+        "ko-KR": "그만둔다",
+        "en-US": "I'm quitting",
+        "pt-BR": "Vou desistir",
+        "es-ES": "Me rindo"
     },
     "tnVtDA": {
-        "ko": "[마우라]\n돈이 모자라는 것 같은데?\n너도 나도 굳이 말하자면 장사꾼의 일원으로서...\n깎아줄 수는 없어. 하하.",
-        "en": "[Maura]\nYou don't have enough Zeny.\nSince we both are businesspeople by nature,\nI can't give you a discount. Sorry. Hah hah.",
-        "pt": "[Maura]\nParece que tá com pouco dinheiro, né?\nTanto tu quanto eu, se for pra falar a verdade, somos comerciantes...\nNão dá pra te dar desconto. Haha.",
-        "es": "[Maura]\n¿Te falta dinero?\nTanto tú como yo, si lo piensas bien, somos comerciantes...\nNo puedo hacerte un descuento. Jaja."
+        "ko-KR": "[마우라]\n돈이 모자라는 것 같은데?\n너도 나도 굳이 말하자면 장사꾼의 일원으로서...\n깎아줄 수는 없어. 하하.",
+        "en-US": "[Maura]\nYou don't have enough Zeny.\nSince we both are businesspeople by nature,\nI can't give you a discount. Sorry. Hah hah.",
+        "pt-BR": "[Maura]\nParece que tá com pouco dinheiro, né?\nTanto tu quanto eu, se for pra falar a verdade, somos comerciantes...\nNão dá pra te dar desconto. Haha.",
+        "es-ES": "[Maura]\n¿Te falta dinero?\nTanto tú como yo, si lo piensas bien, somos comerciantes...\nNo puedo hacerte un descuento. Jaja."
     },
     "t3VtDA": {
-        "ko": "[마우라]\n자, 새로운 장치 제조책이다.\n이번엔 잃어버리지 마. 물론 재고는 있으니 언제 또 와도 내어 줄 수 있지만...\n너도 책 한 번 써 보는 거 어때?\n나중에 내키면 좋은 인쇄소 알려 줄게.",
-        "en": "[Maura]\nHere's your new Machine Creation Guide.\nTry not to lose it this time. Of course, you can always come back for another copy, but...\nWhy don't you write your own book?\nI can recommend a good printer if you ever feel like it.",
-        "pt": "[Maura]\nPronto, aqui está o novo manual de fabricação de dispositivos.\nDesta vez, não perca. Claro que tenho estoque, então posso te dar outro se voltar...\nQue tal tentar escrever um livro também?\nSe quiser fazer isso mais tarde, te indico uma boa gráfica.",
-        "es": "[Maura]\nToma, aquí tienes el nuevo manual de fabricación de dispositivos.\nEsta vez no lo pierdas. Claro que tengo más en stock, así que si vuelves cuando quieras te lo puedo dar...\n¿Qué tal si intentas escribir un libro tú también?\nSi te apetece más adelante, te recomiendo una buena imprenta."
+        "ko-KR": "[마우라]\n자, 새로운 장치 제조책이다.\n이번엔 잃어버리지 마. 물론 재고는 있으니 언제 또 와도 내어 줄 수 있지만...\n너도 책 한 번 써 보는 거 어때?\n나중에 내키면 좋은 인쇄소 알려 줄게.",
+        "en-US": "[Maura]\nHere's your new Machine Creation Guide.\nTry not to lose it this time. Of course, you can always come back for another copy, but...\nWhy don't you write your own book?\nI can recommend a good printer if you ever feel like it.",
+        "pt-BR": "[Maura]\nPronto, aqui está o novo manual de fabricação de dispositivos.\nDesta vez, não perca. Claro que tenho estoque, então posso te dar outro se voltar...\nQue tal tentar escrever um livro também?\nSe quiser fazer isso mais tarde, te indico uma boa gráfica.",
+        "es-ES": "[Maura]\nToma, aquí tienes el nuevo manual de fabricación de dispositivos.\nEsta vez no lo pierdas. Claro que tengo más en stock, así que si vuelves cuando quieras te lo puedo dar...\n¿Qué tal si intentas escribir un libro tú también?\nSi te apetece más adelante, te recomiendo una buena imprenta."
     },
     "uHVtDA": {
-        "ko": "[마우라]\n다시 생각해 보라구.",
-        "en": "[Maura]\nThink it over.",
-        "pt": "[Maura]\nPense melhor nisso.",
-        "es": "[Maura]\nPiénsalo de nuevo."
+        "ko-KR": "[마우라]\n다시 생각해 보라구.",
+        "en-US": "[Maura]\nThink it over.",
+        "pt-BR": "[Maura]\nPense melhor nisso.",
+        "es-ES": "[Maura]\nPiénsalo de nuevo."
     },
     "uXVtDA": {
-        "ko": "[마우라]\n다음은 어디로 갈까...",
-        "en": "[Maura]\nWhere should I go next?",
-        "pt": "[Maura]\nPara onde vamos agora...",
-        "es": "[Maura]\n¿A dónde vamos ahora...?"
+        "ko-KR": "[마우라]\n다음은 어디로 갈까...",
+        "en-US": "[Maura]\nWhere should I go next?",
+        "pt-BR": "[Maura]\nPara onde vamos agora...",
+        "es-ES": "[Maura]\n¿A dónde vamos ahora...?"
     },
     "unVtDA": {
-        "ko": "E형 기어",
-        "en": "E-type Gear",
-        "pt": "Engrenagem Tipo E",
-        "es": "Engranaje tipo E"
+        "ko-KR": "E형 기어",
+        "en-US": "E-type Gear",
+        "pt-BR": "Engrenagem Tipo E",
+        "es-ES": "Engranaje tipo E"
     },
     "u3VtDA": {
-        "ko": "마우라: 아아, 설계대로라면 대쉬에게는 지금 너하고 인사할 필요성이 없어. 대답해 주지 않을 거야. 이해해.",
-        "en": "Maura: Ah, according to her design, Dash doesn't feel the need to greet you at the moment. She wouldn't answer you, even if you greet her first. Understand.",
-        "pt": "Maura: Ah, de acordo com o projeto, o Dash não tem motivo pra falar com você agora. Ela não vai responder. Entenda.",
-        "es": "Maura: Ah, según el diseño, Dash no tiene por qué saludarte ahora. No te va a responder. Lo entiendo."
+        "ko-KR": "마우라: 아아, 설계대로라면 대쉬에게는 지금 너하고 인사할 필요성이 없어. 대답해 주지 않을 거야. 이해해.",
+        "en-US": "Maura: Ah, according to her design, Dash doesn't feel the need to greet you at the moment. She wouldn't answer you, even if you greet her first. Understand.",
+        "pt-BR": "Maura: Ah, de acordo com o projeto, o Dash não tem motivo pra falar com você agora. Ela não vai responder. Entenda.",
+        "es-ES": "Maura: Ah, según el diseño, Dash no tiene por qué saludarte ahora. No te va a responder. Lo entiendo."
     },
     "vHVtDA": {
-        "ko": "[E형 기어]\n+++ATH\nOK",
-        "en": "[E-type Gear]\n+++ATH\nOK",
-        "pt": "[E-Gear]\n+++ATH\nOK",
-        "es": "[E-Gear]\n+++ATH\nOK"
+        "ko-KR": "[E형 기어]\n+++ATH\nOK",
+        "en-US": "[E-type Gear]\n+++ATH\nOK",
+        "pt-BR": "[E-Gear]\n+++ATH\nOK",
+        "es-ES": "[E-Gear]\n+++ATH\nOK"
     },
     "vXVtDA": {
-        "ko": "[E형 기어]\n...",
-        "en": "[E-type Gear]\n...",
-        "pt": "[Gear Tipo E]\n...",
-        "es": "[Gear Tipo E]\n..."
+        "ko-KR": "[E형 기어]\n...",
+        "en-US": "[E-type Gear]\n...",
+        "pt-BR": "[Gear Tipo E]\n...",
+        "es-ES": "[Gear Tipo E]\n..."
     },
     "vnVtDA": {
-        "ko": "[E형 기어]\n이형 기어가 작동을 시작합니다.",
-        "en": "[E-type Gear]\nThe E-type gear begins operation.",
-        "pt": "[Gear Tipo E]\nO Gear Tipo E está iniciando a operação.",
-        "es": "[Gear Tipo E]\nEl Gear Tipo E está comenzando a funcionar."
+        "ko-KR": "[E형 기어]\n이형 기어가 작동을 시작합니다.",
+        "en-US": "[E-type Gear]\nThe E-type gear begins operation.",
+        "pt-BR": "[Gear Tipo E]\nO Gear Tipo E está iniciando a operação.",
+        "es-ES": "[Gear Tipo E]\nEl Gear Tipo E está comenzando a funcionar."
     },
     "v3VtDA": {
-        "ko": "목적지를 말한다",
-        "en": "Tell me your destination.",
-        "pt": "Diga o destino",
-        "es": "Di el destino"
+        "ko-KR": "목적지를 말한다",
+        "en-US": "Tell me your destination.",
+        "pt-BR": "Diga o destino",
+        "es-ES": "Di el destino"
     },
     "wHVtDA": {
-        "ko": "[{0}]\n유페로스 중심부.",
-        "en": "[{0}]\nJuperos Core.",
-        "pt": "[{0}]\nCentro de Juperos.",
-        "es": "[{0}]\nEl centro de Euporos."
+        "ko-KR": "[{0}]\n유페로스 중심부.",
+        "en-US": "[{0}]\nJuperos Core.",
+        "pt-BR": "[{0}]\nCentro de Juperos.",
+        "es-ES": "[{0}]\nEl centro de Euporos."
     },
     "wXVtDA": {
-        "ko": "[E형 기어]\n본 시스템은 공간이동 장치가 아닌 상황 구성 장치임을 유념하여 주십시오.\n그렇지만 당신의 현실입니다.\n안전에 유의하십시오.",
-        "en": "[E-type Gear]\nPlease note that this system is not a teleportation device but a simulator.\nWhatever it creates, however, will become your reality for the moment.\nPlease be careful.",
-        "pt": "[Engrenagem Tipo E]\nLembre-se de que este sistema não é um dispositivo de teletransporte, mas sim um dispositivo de simulação de situações.\nNo entanto, esta é a sua realidade.\nTenha cuidado.",
-        "es": "[Engranaje Tipo E]\nTen en cuenta que este sistema no es un dispositivo de teletransporte, sino un generador de situaciones.\nSin embargo, es tu realidad.\nTen cuidado."
+        "ko-KR": "[E형 기어]\n본 시스템은 공간이동 장치가 아닌 상황 구성 장치임을 유념하여 주십시오.\n그렇지만 당신의 현실입니다.\n안전에 유의하십시오.",
+        "en-US": "[E-type Gear]\nPlease note that this system is not a teleportation device but a simulator.\nWhatever it creates, however, will become your reality for the moment.\nPlease be careful.",
+        "pt-BR": "[Engrenagem Tipo E]\nLembre-se de que este sistema não é um dispositivo de teletransporte, mas sim um dispositivo de simulação de situações.\nNo entanto, esta é a sua realidade.\nTenha cuidado.",
+        "es-ES": "[Engranaje Tipo E]\nTen en cuenta que este sistema no es un dispositivo de teletransporte, sino un generador de situaciones.\nSin embargo, es tu realidad.\nTen cuidado."
     },
     "wnVtDA": {
-        "ko": "[E형 기어]\n연결을 시도합니다.",
-        "en": "[E-type Gear]\nConnecting...",
-        "pt": "[Engrenagem Tipo E]\nTentando estabelecer conexão.",
-        "es": "[Engranaje Tipo E]\nIntentando establecer conexión."
+        "ko-KR": "[E형 기어]\n연결을 시도합니다.",
+        "en-US": "[E-type Gear]\nConnecting...",
+        "pt-BR": "[Engrenagem Tipo E]\nTentando estabelecer conexão.",
+        "es-ES": "[Engranaje Tipo E]\nIntentando establecer conexión."
     },
     "w3VtDA": {
-        "ko": "E형 기어: AT&C1X3 OK. ATM0 OK. ATDT 9W3141519.",
-        "en": "E-type Gear: AT&C1X3 OK. ATM0 OK. ATDT 9W3141519.",
-        "pt": "Engrenagem Tipo E: AT&C1X3 OK. ATM0 OK. ATDT 9W3141519.",
-        "es": "Engranaje Tipo E: AT&C1X3 OK. ATM0 OK. ATDT 9W3141519."
+        "ko-KR": "E형 기어: AT&C1X3 OK. ATM0 OK. ATDT 9W3141519.",
+        "en-US": "E-type Gear: AT&C1X3 OK. ATM0 OK. ATDT 9W3141519.",
+        "pt-BR": "Engrenagem Tipo E: AT&C1X3 OK. ATM0 OK. ATDT 9W3141519.",
+        "es-ES": "Engranaje Tipo E: AT&C1X3 OK. ATM0 OK. ATDT 9W3141519."
     },
     "xHVtDA": {
-        "ko": "[E형 기어]\nCONNECT 230400",
-        "en": "[E-type Gear]\nCONNECT 230400",
-        "pt": "[Engrenagem Tipo E]\nCONNECT 230400",
-        "es": "[Engranaje Tipo E]\nCONNECT 230400"
+        "ko-KR": "[E형 기어]\nCONNECT 230400",
+        "en-US": "[E-type Gear]\nCONNECT 230400",
+        "pt-BR": "[Engrenagem Tipo E]\nCONNECT 230400",
+        "es-ES": "[Engranaje Tipo E]\nCONNECT 230400"
     },
     "xXVtDA": {
-        "ko": "이용자ID가 없거나 신규가입을",
-        "en": "No user ID or new registration",
-        "pt": "ID de usuário inexistente ou registrar novo",
-        "es": "Si no tienes un ID de usuario o quieres registrarte"
+        "ko-KR": "이용자ID가 없거나 신규가입을",
+        "en-US": "No user ID or new registration",
+        "pt-BR": "ID de usuário inexistente ou registrar novo",
+        "es-ES": "Si no tienes un ID de usuario o quieres registrarte"
     },
     "xnVtDA": {
-        "ko": "마우라: 마우라 P 라그랑주 46237323.",
-        "en": "Maura: Maura P Lagrange 46237323.",
-        "pt": "Maura: Maura P Lagrange 46237323.",
-        "es": "Maura: Maura P Lagrange 46237323."
+        "ko-KR": "마우라: 마우라 P 라그랑주 46237323.",
+        "en-US": "Maura: Maura P Lagrange 46237323.",
+        "pt-BR": "Maura: Maura P Lagrange 46237323.",
+        "es-ES": "Maura: Maura P Lagrange 46237323."
     },
     "x3VtDA": {
-        "ko": "[E형 기어]\n로그인되었습니다.",
-        "en": "[E-type Gear]\nLogged in.",
-        "pt": "[Engrenagem Tipo E]\nConectado.",
-        "es": "[Engranaje tipo E]\nHas iniciado sesión."
+        "ko-KR": "[E형 기어]\n로그인되었습니다.",
+        "en-US": "[E-type Gear]\nLogged in.",
+        "pt-BR": "[Engrenagem Tipo E]\nConectado.",
+        "es-ES": "[Engranaje tipo E]\nHas iniciado sesión."
     },
     "yHVtDA": {
-        "ko": "유페로스 중심부 VT",
-        "en": "Juperos Core VT",
-        "pt": "VT do Centro de Juperos",
-        "es": "Centro de Juperos VT"
+        "ko-KR": "유페로스 중심부 VT",
+        "en-US": "Juperos Core VT",
+        "pt-BR": "VT do Centro de Juperos",
+        "es-ES": "Centro de Juperos VT"
     },
     "yXVtDA": {
-        "ko": "^4D4DFF메모리얼로 진행되는 이벤트 입니다.^000000\n^4D4DFF전직 시험은 1인 파티로만 진행할 수 있습니다.^000000",
-        "en": "^4D4DFFThis is a Memorial event.^000000\n^4D4DFFThe Job Change test can only be taken in a party of 1.^000000",
-        "pt": "^4D4DFFEste é um evento Memorial.^000000\n^4D4DFFO teste de mudança de classe só pode ser feito em grupo de 1 pessoa.^000000",
-        "es": "^4D4DFFEste es un evento que se lleva a cabo en Memorial.^000000\n^4D4DFFLa prueba de cambio de clase solo se puede realizar en un grupo de 1 persona.^000000"
+        "ko-KR": "^4D4DFF메모리얼로 진행되는 이벤트 입니다.^000000\n^4D4DFF전직 시험은 1인 파티로만 진행할 수 있습니다.^000000",
+        "en-US": "^4D4DFFThis is a Memorial event.^000000\n^4D4DFFThe Job Change test can only be taken in a party of 1.^000000",
+        "pt-BR": "^4D4DFFEste é um evento Memorial.^000000\n^4D4DFFO teste de mudança de classe só pode ser feito em grupo de 1 pessoa.^000000",
+        "es-ES": "^4D4DFFEste es un evento que se lleva a cabo en Memorial.^000000\n^4D4DFFLa prueba de cambio de clase solo se puede realizar en un grupo de 1 persona.^000000"
     },
     "ynVtDA": {
-        "ko": "유페로스 중심부 VT 개설",
-        "en": "Create Juperos Core VT",
-        "pt": "Abertura do VT do Centro de Juperos",
-        "es": "Apertura del VT del centro de Uperos"
+        "ko-KR": "유페로스 중심부 VT 개설",
+        "en-US": "Create Juperos Core VT",
+        "pt-BR": "Abertura do VT do Centro de Juperos",
+        "es-ES": "Apertura del VT del centro de Uperos"
     },
     "y3VtDA": {
-        "ko": "유페로스 중심부 VT 입장",
-        "en": "Enter Juperos Core VT",
-        "pt": "Entrando no VT do Centro de Juperos",
-        "es": "Entrada al VT del centro de Uperos"
+        "ko-KR": "유페로스 중심부 VT 입장",
+        "en-US": "Enter Juperos Core VT",
+        "pt-BR": "Entrando no VT do Centro de Juperos",
+        "es-ES": "Entrada al VT del centro de Uperos"
     },
     "zHVtDA": {
-        "ko": "[E형 기어]\nNO CARRIER\nOK",
-        "en": "[E-type Gear]\nNO CARRIER\nOK",
-        "pt": "[Engrenagem Tipo E]\nSEM OPERADOR\nOK",
-        "es": "[Engranaje Tipo E]\nNO CARRIER\nOK"
+        "ko-KR": "[E형 기어]\nNO CARRIER\nOK",
+        "en-US": "[E-type Gear]\nNO CARRIER\nOK",
+        "pt-BR": "[Engrenagem Tipo E]\nSEM OPERADOR\nOK",
+        "es-ES": "[Engranaje Tipo E]\nNO CARRIER\nOK"
     },
     "zXVtDA": {
-        "ko": "[E형 기어]\n연결이 해제되었습니다.\n다시 시도해 주십시오.",
-        "en": "[E-type Gear]\nConnection has been disconnected.\nPlease try again.",
-        "pt": "[Gear Tipo E]\nA conexão foi desativada.\nTente novamente.",
-        "es": "[Engranaje Tipo E]\nSe ha desconectado.\nInténtalo de nuevo."
+        "ko-KR": "[E형 기어]\n연결이 해제되었습니다.\n다시 시도해 주십시오.",
+        "en-US": "[E-type Gear]\nConnection has been disconnected.\nPlease try again.",
+        "pt-BR": "[Gear Tipo E]\nA conexão foi desativada.\nTente novamente.",
+        "es-ES": "[Engranaje Tipo E]\nSe ha desconectado.\nInténtalo de nuevo."
     },
     "znVtDA": {
-        "ko": "[E형 기어]\n가상 터미널이 개설되었습니다.\n곧 입장이 시작됩니다.\n입장 메뉴를 다시 선택하여 주십시오.",
-        "en": "[E-type Gear]\nA virtual terminal has been created.\nTo enter,\nplease select Enter Juperos Core VT.",
-        "pt": "[Engrenagem Tipo E]\nO terminal virtual foi aberto.\nPara entrar,\nselecione o menu de entrada novamente.",
-        "es": "[Engranaje Tipo E]\nSe ha abierto el terminal virtual.\nEl acceso comenzará en breve.\nVuelve a seleccionar el menú de acceso."
+        "ko-KR": "[E형 기어]\n가상 터미널이 개설되었습니다.\n곧 입장이 시작됩니다.\n입장 메뉴를 다시 선택하여 주십시오.",
+        "en-US": "[E-type Gear]\nA virtual terminal has been created.\nTo enter,\nplease select Enter Juperos Core VT.",
+        "pt-BR": "[Engrenagem Tipo E]\nO terminal virtual foi aberto.\nPara entrar,\nselecione o menu de entrada novamente.",
+        "es-ES": "[Engranaje Tipo E]\nSe ha abierto el terminal virtual.\nEl acceso comenzará en breve.\nVuelve a seleccionar el menú de acceso."
     },
     "z3VtDA": {
-        "ko": "[E형 기어]\n파티를 결성한 뒤 다시 시도해 주십시오.",
-        "en": "[E-type Gear]\nPlease form a party first.",
-        "pt": "[Engrenagem Tipo E]\nForme um grupo e tente novamente.",
-        "es": "[Engranaje Tipo E]\nForma un grupo y vuelve a intentarlo."
+        "ko-KR": "[E형 기어]\n파티를 결성한 뒤 다시 시도해 주십시오.",
+        "en-US": "[E-type Gear]\nPlease form a party first.",
+        "pt-BR": "[Engrenagem Tipo E]\nForme um grupo e tente novamente.",
+        "es-ES": "[Engranaje Tipo E]\nForma un grupo y vuelve a intentarlo."
     },
     "0HVtDA": {
-        "ko": "[E형 기어]\n연결에 실패했습니다.\n다시 시도해 주십시오.",
-        "en": "[E-type Gear]\nConnection failed.\nPlease try again.",
-        "pt": "[Engrenagem Tipo E]\nFalha na conexão.\nTente novamente.",
-        "es": "[Engranaje Tipo E]\nLa conexión falló.\nInténtalo de nuevo."
+        "ko-KR": "[E형 기어]\n연결에 실패했습니다.\n다시 시도해 주십시오.",
+        "en-US": "[E-type Gear]\nConnection failed.\nPlease try again.",
+        "pt-BR": "[Engrenagem Tipo E]\nFalha na conexão.\nTente novamente.",
+        "es-ES": "[Engranaje Tipo E]\nLa conexión falló.\nInténtalo de nuevo."
     },
     "0XVtDA": {
-        "ko": "[E형 기어]\n연결까지 잠시만 기다려 주십시오...",
-        "en": "[E-type Gear]\nPlease wait while we connect you...",
-        "pt": "[Gear Tipo E]\nAguarde alguns instantes até a conexão ser estabelecida...",
-        "es": "[Gear Tipo E]\nEspera un momento mientras se establece la conexión..."
+        "ko-KR": "[E형 기어]\n연결까지 잠시만 기다려 주십시오...",
+        "en-US": "[E-type Gear]\nPlease wait while we connect you...",
+        "pt-BR": "[Gear Tipo E]\nAguarde alguns instantes até a conexão ser estabelecida...",
+        "es-ES": "[Gear Tipo E]\nEspera un momento mientras se establece la conexión..."
     },
     "0nVtDA": {
-        "ko": "[E형 기어]\n파티장이 메모리얼 던전을 개설해야 입장하실 수 있습니다.",
-        "en": "[E-type Gear]\nYou can only enter when your party leader creates the Memorial Dungeon.",
-        "pt": "[Engrenagem Tipo E]\nO líder do grupo precisa abrir a Masmorra Memorial para que você possa entrar.",
-        "es": "[Engranaje Tipo E]\nEl líder del grupo debe abrir la mazmorra conmemorativa para que puedas entrar."
+        "ko-KR": "[E형 기어]\n파티장이 메모리얼 던전을 개설해야 입장하실 수 있습니다.",
+        "en-US": "[E-type Gear]\nYou can only enter when your party leader creates the Memorial Dungeon.",
+        "pt-BR": "[Engrenagem Tipo E]\nO líder do grupo precisa abrir a Masmorra Memorial para que você possa entrar.",
+        "es-ES": "[Engranaje Tipo E]\nEl líder del grupo debe abrir la mazmorra conmemorativa para que puedas entrar."
     },
     "03VtDA": {
-        "ko": "{0} 님이 {1}(2/12) 에 입장하셨습니다.",
-        "en": "{0} has entered {1}(2/12).",
-        "pt": "{0} entrou em {1} (2/12).",
-        "es": "{0} ha entrado en {1}(2/12)."
+        "ko-KR": "{0} 님이 {1}(2/12) 에 입장하셨습니다.",
+        "en-US": "{0} has entered {1}(2/12).",
+        "pt-BR": "{0} entrou em {1} (2/12).",
+        "es-ES": "{0} ha entrado en {1}(2/12)."
     },
     "1HVtDA": {
-        "ko": "[E형 기어]\n:",
-        "en": "[E-type Gear]\n:",
-        "pt": "[E-Gear]\n:",
-        "es": "[E-Gear]\n:"
+        "ko-KR": "[E형 기어]\n:",
+        "en-US": "[E-type Gear]\n:",
+        "pt-BR": "[E-Gear]\n:",
+        "es-ES": "[E-Gear]\n:"
     },
     "1XVtDA": {
-        "ko": "[E형 기어]\n인덱스 재설정 완료되었습니다.\nVT 개설부터 다시 시작하고 싶으신 경우, 던전 파괴 버튼을 누르십시오.",
-        "en": "[E-type Gear]\nReindexing completed.\nIf you'd like to start from scratch, please select Destroy Dungeon.",
-        "pt": "[E-Gear]\nA redefinição do índice foi concluída.\nSe quiseres recomeçar desde a abertura do VT, clica no botão de destruição da masmorra.",
-        "es": "[E-Gear]\nSe ha completado el restablecimiento del índice.\nSi quieres volver a empezar desde la apertura del VT, presiona el botón de destruir mazmorra."
+        "ko-KR": "[E형 기어]\n인덱스 재설정 완료되었습니다.\nVT 개설부터 다시 시작하고 싶으신 경우, 던전 파괴 버튼을 누르십시오.",
+        "en-US": "[E-type Gear]\nReindexing completed.\nIf you'd like to start from scratch, please select Destroy Dungeon.",
+        "pt-BR": "[E-Gear]\nA redefinição do índice foi concluída.\nSe quiseres recomeçar desde a abertura do VT, clica no botão de destruição da masmorra.",
+        "es-ES": "[E-Gear]\nSe ha completado el restablecimiento del índice.\nSi quieres volver a empezar desde la apertura del VT, presiona el botón de destruir mazmorra."
     },
     "1nVtDA": {
-        "ko": "[E형 기어]\n가상 터미널이 개설되었습니다.\n곧 입장이 시작됩니다.\n입장 메뉴를 선택하여 주십시오.",
-        "en": "[E-type Gear]\nVirtual Terminal has been opened.\nEntry will begin shortly.\nPlease select the entry menu.",
-        "pt": "[Engrenagem Tipo E]\nO terminal virtual foi aberto.\nA entrada começará em breve.\nSeleciona o menu de entrada.",
-        "es": "[Engranaje Tipo E]\nSe ha abierto el terminal virtual.\nLa entrada comenzará en breve.\nSelecciona el menú de entrada."
+        "ko-KR": "[E형 기어]\n가상 터미널이 개설되었습니다.\n곧 입장이 시작됩니다.\n입장 메뉴를 선택하여 주십시오.",
+        "en-US": "[E-type Gear]\nVirtual Terminal has been opened.\nEntry will begin shortly.\nPlease select the entry menu.",
+        "pt-BR": "[Engrenagem Tipo E]\nO terminal virtual foi aberto.\nA entrada começará em breve.\nSeleciona o menu de entrada.",
+        "es-ES": "[Engranaje Tipo E]\nSe ha abierto el terminal virtual.\nLa entrada comenzará en breve.\nSelecciona el menú de entrada."
     },
     "13VtDA": {
-        "ko": "[E형 기어]\n접속까지 잠시만 기다려 주십시오...",
-        "en": "[E-Type Gear]\nPlease wait a moment while connecting...",
-        "pt": "[Engrenagem Tipo E]\nAguarda um momento até a conexão...",
-        "es": "[Engranaje Tipo E]\nEspera un momento mientras te conectas..."
+        "ko-KR": "[E형 기어]\n접속까지 잠시만 기다려 주십시오...",
+        "en-US": "[E-Type Gear]\nPlease wait a moment while connecting...",
+        "pt-BR": "[Engrenagem Tipo E]\nAguarda um momento até a conexão...",
+        "es-ES": "[Engranaje Tipo E]\nEspera un momento mientras te conectas..."
     }
 }

@@ -1,22 +1,22 @@
 {
     "oJQoBw": {
-        "en": "admin",
-        "pt": "admin",
-        "es": "admin"
+        "en-US": "admin",
+        "pt-BR": "admin",
+        "es-ES": "admin"
     },
     "oZQoBw": {
-        "en": "version:01",
-        "pt": "version:01",
-        "es": "versión: 01"
+        "en-US": "version:01",
+        "pt-BR": "version:01",
+        "es-ES": "versión: 01"
     },
     "opQoBw": {
-        "en": "notify",
-        "pt": "notify",
-        "es": "notificar a"
+        "en-US": "notify",
+        "pt-BR": "notify",
+        "es-ES": "notificar a"
     },
     "o5QoBw": {
-        "en": "TimeOverChk",
-        "pt": "TimeOverChk",
-        "es": "TimeOverChk"
+        "en-US": "TimeOverChk",
+        "pt-BR": "TimeOverChk",
+        "es-ES": "TimeOverChk"
     }
 }

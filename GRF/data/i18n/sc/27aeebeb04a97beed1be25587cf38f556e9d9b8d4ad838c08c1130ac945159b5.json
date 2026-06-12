@@ -1,70 +1,70 @@
 {
     "gLR1BQ": {
-        "en": "Bullet Tooth Tony",
-        "pt": "Bullet Tooth Tony"
+        "en-US": "Bullet Tooth Tony",
+        "pt-BR": "Bullet Tooth Tony"
     },
     "gbR1BQ": {
-        "en": "Head - [Not Equipped]",
-        "pt": "Head - [Not Equipped]"
+        "en-US": "Head - [Not Equipped]",
+        "pt-BR": "Head - [Not Equipped]"
     },
     "grR1BQ": {
-        "en": "Body - [Not Equipped]",
-        "pt": "Body - [Not Equipped]"
+        "en-US": "Body - [Not Equipped]",
+        "pt-BR": "Body - [Not Equipped]"
     },
     "g7R1BQ": {
-        "en": "Left hand - [Not Equipped]",
-        "pt": "Left hand - [Not Equipped]"
+        "en-US": "Left hand - [Not Equipped]",
+        "pt-BR": "Left hand - [Not Equipped]"
     },
     "hLR1BQ": {
-        "en": "Right hand - [Not Equipped]",
-        "pt": "Right hand - [Not Equipped]"
+        "en-US": "Right hand - [Not Equipped]",
+        "pt-BR": "Right hand - [Not Equipped]"
     },
     "hbR1BQ": {
-        "en": "Robe - [Not Equipped]",
-        "pt": "Robe - [Not Equipped]"
+        "en-US": "Robe - [Not Equipped]",
+        "pt-BR": "Robe - [Not Equipped]"
     },
     "hrR1BQ": {
-        "en": "Shoes - [Not Equipped]",
-        "pt": "Shoes - [Not Equipped]"
+        "en-US": "Shoes - [Not Equipped]",
+        "pt-BR": "Shoes - [Not Equipped]"
     },
     "h7R1BQ": {
-        "en": "Accessory 1 - [Not Equipped]",
-        "pt": "Accessory 1 - [Not Equipped]"
+        "en-US": "Accessory 1 - [Not Equipped]",
+        "pt-BR": "Accessory 1 - [Not Equipped]"
     },
     "iLR1BQ": {
-        "en": "Accessory 2 - [Not Equipped]",
-        "pt": "Accessory 2 - [Not Equipped]"
+        "en-US": "Accessory 2 - [Not Equipped]",
+        "pt-BR": "Accessory 2 - [Not Equipped]"
     },
     "ibR1BQ": {
-        "en": "Head 2 - [Not Equipped]",
-        "pt": "Head 2 - [Not Equipped]"
+        "en-US": "Head 2 - [Not Equipped]",
+        "pt-BR": "Head 2 - [Not Equipped]"
     },
     "irR1BQ": {
-        "en": "Head 3 - [Not Equipped]",
-        "pt": "Head 3 - [Not Equipped]"
+        "en-US": "Head 3 - [Not Equipped]",
+        "pt-BR": "Head 3 - [Not Equipped]"
     },
     "i7R1BQ": {
-        "en": "[Bullet Tooth Tony]\nGo somewhere else. This isn't equipment that can be refined.",
-        "pt": "[Bullet Tooth Tony]\nGo somewhere else. This isn't equipment that can be refined."
+        "en-US": "[Bullet Tooth Tony]\nGo somewhere else. This isn't equipment that can be refined.",
+        "pt-BR": "[Bullet Tooth Tony]\nGo somewhere else. This isn't equipment that can be refined."
     },
     "jLR1BQ": {
-        "en": "[Bullet Tooth Tony]\nI cannot refine something that I don't even know what it is.",
-        "pt": "[Bullet Tooth Tony]\nI cannot refine something that I don't even know what it is."
+        "en-US": "[Bullet Tooth Tony]\nI cannot refine something that I don't even know what it is.",
+        "pt-BR": "[Bullet Tooth Tony]\nI cannot refine something that I don't even know what it is."
     },
     "jbR1BQ": {
-        "en": "[Bullet Tooth Tony]\n... whoever created this is a great craftsman. Nothing more I can do here.",
-        "pt": "[Bullet Tooth Tony]\n... whoever created this is a great craftsman. Nothing more I can do here."
+        "en-US": "[Bullet Tooth Tony]\n... whoever created this is a great craftsman. Nothing more I can do here.",
+        "pt-BR": "[Bullet Tooth Tony]\n... whoever created this is a great craftsman. Nothing more I can do here."
     },
     "jrR1BQ": {
-        "en": "[Tony]\nPassword is wrong.",
-        "pt": "[Tony]\nPassword is wrong."
+        "en-US": "[Tony]\nPassword is wrong.",
+        "pt-BR": "[Tony]\nPassword is wrong."
     },
     "j7R1BQ": {
-        "en": "[Tony]",
-        "pt": "[Tony]"
+        "en-US": "[Tony]",
+        "pt-BR": "[Tony]"
     },
     "kLR1BQ": {
-        "en": "[Tony]\nWhat do you want?",
-        "pt": "[Tony]\nWhat do you want?"
+        "en-US": "[Tony]\nWhat do you want?",
+        "pt-BR": "[Tony]\nWhat do you want?"
     }
 }

@@ -1,26 +1,26 @@
 {
     "4BXjCA": {
-        "ko": "나이트메어",
-        "en": "Nightmare",
-        "pt": "Pesadelo",
-        "es": "Pesadilla"
+        "ko-KR": "나이트메어",
+        "en-US": "Nightmare",
+        "pt-BR": "Pesadelo",
+        "es-ES": "Pesadilla"
     },
     "4RXjCA": {
-        "ko": "잭",
-        "en": "Jakk",
-        "pt": "Jakk",
-        "es": "Jakk"
+        "ko-KR": "잭",
+        "en-US": "Jakk",
+        "pt-BR": "Jakk",
+        "es-ES": "Jakk"
     },
     "4hXjCA": {
-        "ko": "구울",
-        "en": "Ghoul",
-        "pt": "Carniçal",
-        "es": "Ghoul"
+        "ko-KR": "구울",
+        "en-US": "Ghoul",
+        "pt-BR": "Carniçal",
+        "es-ES": "Ghoul"
     },
     "4xXjCA": {
-        "ko": "드레인리어",
-        "en": "Drainliar",
-        "pt": "Drainliar",
-        "es": "Drainliar"
+        "ko-KR": "드레인리어",
+        "en-US": "Drainliar",
+        "pt-BR": "Drainliar",
+        "es-ES": "Drainliar"
     }
 }

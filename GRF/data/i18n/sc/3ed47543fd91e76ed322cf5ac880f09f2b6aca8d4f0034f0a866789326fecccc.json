@@ -1,242 +1,242 @@
 {
     "gF05Bw": {
-        "en": "start",
-        "pt": "começar",
-        "es": "iniciar"
+        "en-US": "start",
+        "pt-BR": "começar",
+        "es-ES": "iniciar"
     },
     "gV05Bw": {
-        "en": "timer",
-        "pt": "cronômetro",
-        "es": "temporizador"
+        "en-US": "timer",
+        "pt-BR": "cronômetro",
+        "es-ES": "temporizador"
     },
     "gl05Bw": {
-        "en": "In 1 minute, KVM will start.",
-        "pt": "Em 1 minuto, o KVM vai começar.",
-        "es": "KVM comenzará en 1minuto."
+        "en-US": "In 1 minute, KVM will start.",
+        "pt-BR": "Em 1 minuto, o KVM vai começar.",
+        "es-ES": "KVM comenzará en 1minuto."
     },
     "g105Bw": {
-        "en": "The maximum time for a KVM battle is 5 minutes.",
-        "pt": "O tempo máximo para uma batalha KVM é de 5 minutos.",
-        "es": "El tiempo máximo de una batalla KVM es de 5minutos."
+        "en-US": "The maximum time for a KVM battle is 5 minutes.",
+        "pt-BR": "O tempo máximo para uma batalha KVM é de 5 minutos.",
+        "es-ES": "El tiempo máximo de una batalla KVM es de 5minutos."
     },
     "hF05Bw": {
-        "en": "Please prepare for the KVM battle.",
-        "pt": "Prepare-se para a batalha KVM.",
-        "es": "Prepárate para la batalla KVM."
+        "en-US": "Please prepare for the KVM battle.",
+        "pt-BR": "Prepare-se para a batalha KVM.",
+        "es-ES": "Prepárate para la batalla KVM."
     },
     "hV05Bw": {
-        "en": "30 seconds remaining to start KVM battle.",
-        "pt": "Faltam 30 segundos para a batalha KVM começar.",
-        "es": "Faltan 30segundos para comenzar la batalla KVM."
+        "en-US": "30 seconds remaining to start KVM battle.",
+        "pt-BR": "Faltam 30 segundos para a batalha KVM começar.",
+        "es-ES": "Faltan 30segundos para comenzar la batalla KVM."
     },
     "hl05Bw": {
-        "en": "15 seconds remaining to start KVM battle.",
-        "pt": "Faltam 15 segundos para a batalha KVM começar.",
-        "es": "Faltan 15 segundos para comenzar la batalla KVM."
+        "en-US": "15 seconds remaining to start KVM battle.",
+        "pt-BR": "Faltam 15 segundos para a batalha KVM começar.",
+        "es-ES": "Faltan 15 segundos para comenzar la batalla KVM."
     },
     "h105Bw": {
-        "en": "10 seconds remaining to start KVM battle.",
-        "pt": "Faltam 10 segundos para a batalha KVM começar.",
-        "es": "Faltan 10 segundos para comenzar la batalla KVM."
+        "en-US": "10 seconds remaining to start KVM battle.",
+        "pt-BR": "Faltam 10 segundos para a batalha KVM começar.",
+        "es-ES": "Faltan 10 segundos para comenzar la batalla KVM."
     },
     "iF05Bw": {
-        "en": "5 seconds remaining to start KVM battle.",
-        "pt": "Faltam 5 segundos para a batalha KVM começar.",
-        "es": "Faltan 5 segundos para comenzar la batalla KVM."
+        "en-US": "5 seconds remaining to start KVM battle.",
+        "pt-BR": "Faltam 5 segundos para a batalha KVM começar.",
+        "es-ES": "Faltan 5 segundos para comenzar la batalla KVM."
     },
     "iV05Bw": {
-        "en": "KVM is now commencing.",
-        "pt": "O KVM vai começar agora.",
-        "es": "KVM va a comenzar ahora."
+        "en-US": "KVM is now commencing.",
+        "pt-BR": "O KVM vai começar agora.",
+        "es-ES": "KVM va a comenzar ahora."
     },
     "il05Bw": {
-        "en": "1 minute remaining to finish the KVM battle.",
-        "pt": "Falta 1 minuto para a batalha KVM terminar.",
-        "es": "Queda 1minuto para que termine la batalla KVM."
+        "en-US": "1 minute remaining to finish the KVM battle.",
+        "pt-BR": "Falta 1 minuto para a batalha KVM terminar.",
+        "es-ES": "Queda 1minuto para que termine la batalla KVM."
     },
     "i105Bw": {
-        "en": "30 seconds remaining to finish the KVM battle.",
-        "pt": "Faltam 30 segundos para a batalha KVM terminar.",
-        "es": "Quedan 30segundos para que termine la batalla KVM."
+        "en-US": "30 seconds remaining to finish the KVM battle.",
+        "pt-BR": "Faltam 30 segundos para a batalha KVM terminar.",
+        "es-ES": "Quedan 30segundos para que termine la batalla KVM."
     },
     "jF05Bw": {
-        "en": "15 seconds remaining to finish the KVM battle.",
-        "pt": "Faltam 15 segundos para a batalha KVM terminar.",
-        "es": "Quedan 15 segundos para que termine la batalla KVM."
+        "en-US": "15 seconds remaining to finish the KVM battle.",
+        "pt-BR": "Faltam 15 segundos para a batalha KVM terminar.",
+        "es-ES": "Quedan 15 segundos para que termine la batalla KVM."
     },
     "jV05Bw": {
-        "en": "10 seconds remaining to finish the KVM battle.",
-        "pt": "Faltam 10 segundos para a batalha KVM terminar.",
-        "es": "Quedan 10 segundos para que termine la batalla KVM."
+        "en-US": "10 seconds remaining to finish the KVM battle.",
+        "pt-BR": "Faltam 10 segundos para a batalha KVM terminar.",
+        "es-ES": "Quedan 10 segundos para que termine la batalla KVM."
     },
     "jl05Bw": {
-        "en": "5 seconds remaining to finish the KVM battle.",
-        "pt": "Faltam 5 segundos para a batalha KVM terminar.",
-        "es": "Quedan 5 segundos para que termine la batalla KVM."
+        "en-US": "5 seconds remaining to finish the KVM battle.",
+        "pt-BR": "Faltam 5 segundos para a batalha KVM terminar.",
+        "es-ES": "Quedan 5 segundos para que termine la batalla KVM."
     },
     "j105Bw": {
-        "en": "The KVM battle is over.",
-        "pt": "A batalha KVM está encerrada.",
-        "es": "La batalla KVM ha terminado."
+        "en-US": "The KVM battle is over.",
+        "pt-BR": "A batalha KVM está encerrada.",
+        "es-ES": "La batalla KVM ha terminado."
     },
     "kF05Bw": {
-        "en": "Croix wins!",
-        "pt": "Croix venceu!",
-        "es": "¡Croix gana!"
+        "en-US": "Croix wins!",
+        "pt-BR": "Croix venceu!",
+        "es-ES": "¡Croix gana!"
     },
     "kV05Bw": {
-        "en": "Congratulations to Croix members.",
-        "pt": "Parabéns aos membros do exército de Croix.",
-        "es": "Felicitaciones a los miembros de Croix."
+        "en-US": "Congratulations to Croix members.",
+        "pt-BR": "Parabéns aos membros do exército de Croix.",
+        "es-ES": "Felicitaciones a los miembros de Croix."
     },
     "kl05Bw": {
-        "en": "Everyone will be moved to the start point.",
-        "pt": "Todos serão levados ao ponto de início.",
-        "es": "Todos serán trasladados al punto de salida."
+        "en-US": "Everyone will be moved to the start point.",
+        "pt-BR": "Todos serão levados ao ponto de início.",
+        "es-ES": "Todos serán trasladados al punto de salida."
     },
     "k105Bw": {
-        "en": "Guillaume wins!",
-        "pt": "Guillaume venceu!",
-        "es": "¡Guillaume gana!"
+        "en-US": "Guillaume wins!",
+        "pt-BR": "Guillaume venceu!",
+        "es-ES": "¡Guillaume gana!"
     },
     "lF05Bw": {
-        "en": "Congratulations to Guillaume members.",
-        "pt": "Parabéns aos membros do exército de Guillaume.",
-        "es": "Felicitaciones a los miembros de Guillaume."
+        "en-US": "Congratulations to Guillaume members.",
+        "pt-BR": "Parabéns aos membros do exército de Guillaume.",
+        "es-ES": "Felicitaciones a los miembros de Guillaume."
     },
     "lV05Bw": {
-        "en": "The number of Guillaumes is {0}.",
-        "pt": "O número de soldados de Guillaume é {0}.",
-        "es": "El número de Guillaumes es {0}."
+        "en-US": "The number of Guillaumes is {0}.",
+        "pt-BR": "O número de soldados de Guillaume é {0}.",
+        "es-ES": "El número de Guillaumes es {0}."
     },
     "ll05Bw": {
-        "en": "The number of Croixes is {0}.",
-        "pt": "O número de soldados de Croix é {0}.",
-        "es": "El número de Croixes es {0}."
+        "en-US": "The number of Croixes is {0}.",
+        "pt-BR": "O número de soldados de Croix é {0}.",
+        "es-ES": "El número de Croixes es {0}."
     },
     "l105Bw": {
-        "en": "This battle has ended in a draw.",
-        "pt": "Esta batalha terminou em empate.",
-        "es": "Esta batalla ha terminado en empate."
+        "en-US": "This battle has ended in a draw.",
+        "pt-BR": "Esta batalha terminou em empate.",
+        "es-ES": "Esta batalla ha terminado en empate."
     },
     "mF05Bw": {
-        "en": "getitem",
-        "pt": "getitem",
-        "es": "getitem"
+        "en-US": "getitem",
+        "pt-BR": "getitem",
+        "es-ES": "getitem"
     },
     "mV05Bw": {
-        "en": "Please apply with the Officer to acquire KVM points.",
-        "pt": "Por favor, fale com o Oficial para adquirir pontos KVM.",
-        "es": "Por favor, solicítalo al oficial para adquirir puntos KVM."
+        "en-US": "Please apply with the Officer to acquire KVM points.",
+        "pt-BR": "Por favor, fale com o Oficial para adquirir pontos KVM.",
+        "es-ES": "Por favor, solicítalo al oficial para adquirir puntos KVM."
     },
     "ml05Bw": {
-        "en": "The Officer will grant you the points for 30 seconds.",
-        "pt": "O Oficial dará pontos nos próximos 30 segundos.",
-        "es": "El oficial te concederá los puntos durante 30segundos."
+        "en-US": "The Officer will grant you the points for 30 seconds.",
+        "pt-BR": "O Oficial dará pontos nos próximos 30 segundos.",
+        "es-ES": "El oficial te concederá los puntos durante 30segundos."
     },
     "m105Bw": {
-        "en": "In 30 seconds, the Officer will be sent away.",
-        "pt": "Depois de 30 segundos, o Oficial irá embora.",
-        "es": "En 30segundos, el oficial saldrá."
+        "en-US": "In 30 seconds, the Officer will be sent away.",
+        "pt-BR": "Depois de 30 segundos, o Oficial irá embora.",
+        "es-ES": "En 30segundos, el oficial saldrá."
     },
     "nF05Bw": {
-        "en": "Unless you talk to the Officer, you cannot gain the points.",
-        "pt": "Sem falar com o Oficial, você não ganhará os pontos.",
-        "es": "No puedes reclamar los puntos a menos que hables con el oficial."
+        "en-US": "Unless you talk to the Officer, you cannot gain the points.",
+        "pt-BR": "Sem falar com o Oficial, você não ganhará os pontos.",
+        "es-ES": "No puedes reclamar los puntos a menos que hables con el oficial."
     },
     "nV05Bw": {
-        "en": "Please be careful.",
-        "pt": "Por favor, tenha cuidado.",
-        "es": "Ten cuidado."
+        "en-US": "Please be careful.",
+        "pt-BR": "Por favor, tenha cuidado.",
+        "es-ES": "Ten cuidado."
     },
     "nl05Bw": {
-        "en": "You will be sent back.",
-        "pt": "Você será mandado de volta.",
-        "es": "Te enviarán de vuelta."
+        "en-US": "You will be sent back.",
+        "pt-BR": "Você será mandado de volta.",
+        "es-ES": "Te enviarán de vuelta."
     },
     "n105Bw": {
-        "en": "KVM Officer",
-        "pt": "Oficial do KVM",
-        "es": "Oficial KVM"
+        "en-US": "KVM Officer",
+        "pt-BR": "Oficial do KVM",
+        "es-ES": "Oficial KVM"
     },
     "oF05Bw": {
-        "en": "- You will soon be moved to a waiting room. -",
-        "pt": "- Em breve, você será transferido para uma sala de espera. -",
-        "es": "-Te trasladarán a una sala de espera pronto.-"
+        "en-US": "- You will soon be moved to a waiting room. -",
+        "pt-BR": "- Em breve, você será transferido para uma sala de espera. -",
+        "es-ES": "-Te trasladarán a una sala de espera pronto.-"
     },
     "oV05Bw": {
-        "en": "[KVM Officer]\nGood game.\nMay the glory of KVM be with you.\nYou acquire the winning points: 5.",
-        "pt": "[Oficial do KVM]\nBom jogo.\nQue a glória do KVM esteja com você.\nVocê ganhou pontos pela vitória: 5.",
-        "es": "[Oficial de KVM]\nBuena partida.\nQue la gloria de KVM esté contigo.\nPuntos de victoria adquiridos: 5."
+        "en-US": "[KVM Officer]\nGood game.\nMay the glory of KVM be with you.\nYou acquire the winning points: 5.",
+        "pt-BR": "[Oficial do KVM]\nBom jogo.\nQue a glória do KVM esteja com você.\nVocê ganhou pontos pela vitória: 5.",
+        "es-ES": "[Oficial de KVM]\nBuena partida.\nQue la gloria de KVM esté contigo.\nPuntos de victoria adquiridos: 5."
     },
     "ol05Bw": {
-        "en": "[KVM Officer]\nI am so sorry.\nI wish you better luck next time.\nYou acquire the losing points: 1.",
-        "pt": "[Oficial do KVM]\nEu sinto muito.\nDesejo mais sorte da próxima vez.\nVocê ganhou pontos pela derrota: 1.",
-        "es": "[Oficial de KVM]\nLo siento mucho.\nEspero que tengas más suerte la proxima vez.\nPuntos de derrota adquiridos: 1."
+        "en-US": "[KVM Officer]\nI am so sorry.\nI wish you better luck next time.\nYou acquire the losing points: 1.",
+        "pt-BR": "[Oficial do KVM]\nEu sinto muito.\nDesejo mais sorte da próxima vez.\nVocê ganhou pontos pela derrota: 1.",
+        "es-ES": "[Oficial de KVM]\nLo siento mucho.\nEspero que tengas más suerte la proxima vez.\nPuntos de derrota adquiridos: 1."
     },
     "o105Bw": {
-        "en": "[KVM Officer]\nYou stood even.\nMay the glory of KVM be with you.\nYou acquire the draw point: 1.",
-        "pt": "[Oficial do KVM]\nEu sinto muito.\nDesejo mais sorte da próxima vez.\nVocê ganhou pontos pela derrota: 1.",
-        "es": "[Oficial de KVM]\nEstuvieron parejos.\nQue la gloria de KVM esté contigo.\nPuntos de empate adquiridos: 1."
+        "en-US": "[KVM Officer]\nYou stood even.\nMay the glory of KVM be with you.\nYou acquire the draw point: 1.",
+        "pt-BR": "[Oficial do KVM]\nEu sinto muito.\nDesejo mais sorte da próxima vez.\nVocê ganhou pontos pela derrota: 1.",
+        "es-ES": "[Oficial de KVM]\nEstuvieron parejos.\nQue la gloria de KVM esté contigo.\nPuntos de empate adquiridos: 1."
     },
     "pF05Bw": {
-        "en": "REDCELL_ADMIN",
-        "pt": "REDCELL_ADMIN",
-        "es": "REDCELL_ADMIN"
+        "en-US": "REDCELL_ADMIN",
+        "pt-BR": "REDCELL_ADMIN",
+        "es-ES": "REDCELL_ADMIN"
     },
     "pV05Bw": {
-        "en": "bat_c02_out",
-        "pt": "bat_c01_out",
-        "es": "bat_c02_out"
+        "en-US": "bat_c02_out",
+        "pt-BR": "bat_c01_out",
+        "es-ES": "bat_c02_out"
     },
     "pl05Bw": {
-        "en": "Please try again after installing a special item.",
-        "pt": "Tente novamente depois de instalar um item especial.",
-        "es": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
+        "en-US": "Please try again after installing a special item.",
+        "pt-BR": "Tente novamente depois de instalar um item especial.",
+        "es-ES": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
     },
     "p105Bw": {
-        "en": "Cancelled",
-        "pt": "Cancelado",
-        "es": "Cancelado."
+        "en-US": "Cancelled",
+        "pt-BR": "Cancelado",
+        "es-ES": "Cancelado."
     },
     "qF05Bw": {
-        "en": "May I help u?",
-        "pt": "Posso ajudar?",
-        "es": "¿Puedo ayudarte?"
+        "en-US": "May I help u?",
+        "pt-BR": "Posso ajudar?",
+        "es-ES": "¿Puedo ayudarte?"
     },
     "qV05Bw": {
-        "en": "Send all out.",
-        "pt": "Enviar tudo.",
-        "es": "Enviar todo."
+        "en-US": "Send all out.",
+        "pt-BR": "Enviar tudo.",
+        "es-ES": "Enviar todo."
     },
     "ql05Bw": {
-        "en": "Cancel",
-        "pt": "Cancelar",
-        "es": "Cancelar."
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar."
     },
     "q105Bw": {
-        "en": "bye",
-        "pt": "Tchau",
-        "es": "Adiós."
+        "en-US": "bye",
+        "pt-BR": "Tchau",
+        "es-ES": "Adiós."
     },
     "rF05Bw": {
-        "en": "Cancel",
-        "pt": "Cancelar",
-        "es": "Cancelar."
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar."
     },
     "rV05Bw": {
-        "en": "[KVM Officer]\nGood game.\nMay the glory of KVM be with you.\nYou acquire the winning points: 10.",
-        "pt": "[Oficial do KVM]\nBom jogo.\nQue a glória do KVM esteja com você.\nVocê ganhou pontos pela vitória: 10.",
-        "es": "[Oficial de KVM]\nBuena partida.\nQue la gloria de KVM esté contigo.\nPuntos de victoria adquiridos: 10."
+        "en-US": "[KVM Officer]\nGood game.\nMay the glory of KVM be with you.\nYou acquire the winning points: 10.",
+        "pt-BR": "[Oficial do KVM]\nBom jogo.\nQue a glória do KVM esteja com você.\nVocê ganhou pontos pela vitória: 10.",
+        "es-ES": "[Oficial de KVM]\nBuena partida.\nQue la gloria de KVM esté contigo.\nPuntos de victoria adquiridos: 10."
     },
     "rl05Bw": {
-        "en": "[KVM Officer]\nI am so sorry.\nI wish you better luck next time.\nYou acquire the losing points: 2.",
-        "pt": "[Oficial do KVM]\nEu sinto muito.\nDesejo mais sorte da próxima vez.\nVocê ganhou pontos pela derrota: 2.",
-        "es": "[Oficial de KVM]\nLo siento mucho.\nEspero que tengas más suerte la proxima vez.\nPuntos de derrota adquiridos: 2."
+        "en-US": "[KVM Officer]\nI am so sorry.\nI wish you better luck next time.\nYou acquire the losing points: 2.",
+        "pt-BR": "[Oficial do KVM]\nEu sinto muito.\nDesejo mais sorte da próxima vez.\nVocê ganhou pontos pela derrota: 2.",
+        "es-ES": "[Oficial de KVM]\nLo siento mucho.\nEspero que tengas más suerte la proxima vez.\nPuntos de derrota adquiridos: 2."
     },
     "r105Bw": {
-        "en": "[KVM Officer]\nYou stood even.\nMay the glory of KVM be with you.\nYou acquire the draw point: 2.",
-        "pt": "[Oficial do KVM]\nEu sinto muito.\nDesejo mais sorte da próxima vez.\nVocê ganhou pontos pela derrota: 2.",
-        "es": "[Oficial de KVM]\nEstuvieron parejos.\nQue la gloria de KVM esté contigo.\nPuntos de empate adquiridos: 2."
+        "en-US": "[KVM Officer]\nYou stood even.\nMay the glory of KVM be with you.\nYou acquire the draw point: 2.",
+        "pt-BR": "[Oficial do KVM]\nEu sinto muito.\nDesejo mais sorte da próxima vez.\nVocê ganhou pontos pela derrota: 2.",
+        "es-ES": "[Oficial de KVM]\nEstuvieron parejos.\nQue la gloria de KVM esté contigo.\nPuntos de empate adquiridos: 2."
     }
 }

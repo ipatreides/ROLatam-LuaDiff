@@ -1,42 +1,42 @@
 {
     "4GPiBg": {
-        "en": "Channel Gate",
-        "pt": "Teleportador",
-        "es": "Puerta del Canal"
+        "en-US": "Channel Gate",
+        "pt-BR": "Teleportador",
+        "es-ES": "Puerta del Canal"
     },
     "4WPiBg": {
-        "en": "[Channel Gate]\nChoose a channel",
-        "pt": "[Teleportador]\nHum, você acha que tem muita gente por aqui?\nSe quiser, podemos ir para outro canal de Izlude!",
-        "es": "[Puerta del canal]\nElige un canal."
+        "en-US": "[Channel Gate]\nChoose a channel",
+        "pt-BR": "[Teleportador]\nHum, você acha que tem muita gente por aqui?\nSe quiser, podemos ir para outro canal de Izlude!",
+        "es-ES": "[Puerta del canal]\nElige un canal."
     },
     "4mPiBg": {
-        "en": "Izlude A",
-        "pt": "Izlude A",
-        "es": "IzludeA."
+        "en-US": "Izlude A",
+        "pt-BR": "Izlude A",
+        "es-ES": "IzludeA."
     },
     "42PiBg": {
-        "en": "Izlude B",
-        "pt": "Izlude B",
-        "es": "IzludeB."
+        "en-US": "Izlude B",
+        "pt-BR": "Izlude B",
+        "es-ES": "IzludeB."
     },
     "5GPiBg": {
-        "en": "Izlude C",
-        "pt": "Izlude C",
-        "es": "IzludeC."
+        "en-US": "Izlude C",
+        "pt-BR": "Izlude C",
+        "es-ES": "IzludeC."
     },
     "5WPiBg": {
-        "en": "Izlude D",
-        "pt": "Izlude D",
-        "es": "IzludeD."
+        "en-US": "Izlude D",
+        "pt-BR": "Izlude D",
+        "es-ES": "IzludeD."
     },
     "5mPiBg": {
-        "en": "Cancel",
-        "pt": "Cancelar",
-        "es": "Cancelar."
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar."
     },
     "52PiBg": {
-        "en": "Izlude",
-        "pt": "Izlude",
-        "es": "Izlude."
+        "en-US": "Izlude",
+        "pt-BR": "Izlude",
+        "es-ES": "Izlude."
     }
 }

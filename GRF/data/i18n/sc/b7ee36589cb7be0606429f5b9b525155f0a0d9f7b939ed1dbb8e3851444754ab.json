@@ -1,102 +1,102 @@
 {
     "IFMIAg": {
-        "en": "Kriemhild",
-        "pt": "Kriemhild",
-        "es": "Kriemhild"
+        "en-US": "Kriemhild",
+        "pt-BR": "Kriemhild",
+        "es-ES": "Kriemhild"
     },
     "IVMIAg": {
-        "en": "Swanhild",
-        "pt": "Hrist",
-        "es": "Hrist"
+        "en-US": "Swanhild",
+        "pt-BR": "Hrist",
+        "es-ES": "Hrist"
     },
     "IlMIAg": {
-        "en": "Fadhgridh",
-        "pt": "Brynhildr",
-        "es": "Brynhildr"
+        "en-US": "Fadhgridh",
+        "pt-BR": "Brynhildr",
+        "es-ES": "Brynhildr"
     },
     "I1MIAg": {
-        "en": "Skoegul",
-        "pt": "Skoegul",
-        "es": "Skoegul"
+        "en-US": "Skoegul",
+        "pt-BR": "Skoegul",
+        "es-ES": "Skoegul"
     },
     "JFMIAg": {
-        "en": "Gondul",
-        "pt": "Gondul",
-        "es": "Gondul"
+        "en-US": "Gondul",
+        "pt-BR": "Gondul",
+        "es-ES": "Gondul"
     },
     "JVMIAg": {
-        "en": "Bright Arbor",
-        "pt": "Palácio do Sol",
-        "es": "Palacio del Sol"
+        "en-US": "Bright Arbor",
+        "pt-BR": "Palácio do Sol",
+        "es-ES": "Palacio del Sol"
     },
     "JlMIAg": {
-        "en": "Sacred Palace",
-        "pt": "Palácio do Lago Sagrado",
-        "es": "Palácio do Lago Sagrado"
+        "en-US": "Sacred Palace",
+        "pt-BR": "Palácio do Lago Sagrado",
+        "es-ES": "Palácio do Lago Sagrado"
     },
     "J1MIAg": {
-        "en": "Holy Shadow Palace",
-        "pt": "Palácio da Sombra",
-        "es": "Palacio de las Sombras"
+        "en-US": "Holy Shadow Palace",
+        "pt-BR": "Palácio da Sombra",
+        "es-ES": "Palacio de las Sombras"
     },
     "KFMIAg": {
-        "en": "Scarlet Palace",
-        "pt": "Palácio Escarlate",
-        "es": "Palacio Escarlata"
+        "en-US": "Scarlet Palace",
+        "pt-BR": "Palácio Escarlate",
+        "es-ES": "Palacio Escarlata"
     },
     "KVMIAg": {
-        "en": "Bamboo Grove Hill",
-        "pt": "Palácio da Colina",
-        "es": "Palacio de la Colina"
+        "en-US": "Bamboo Grove Hill",
+        "pt-BR": "Palácio da Colina",
+        "es-ES": "Palacio de la Colina"
     },
     "KlMIAg": {
-        "en": "Neuschwanstein",
-        "pt": "Sirius",
-        "es": "Sirius"
+        "en-US": "Neuschwanstein",
+        "pt-BR": "Sirius",
+        "es-ES": "Sirius"
     },
     "K1MIAg": {
-        "en": "Hohenschwangau",
-        "pt": "Astrum",
-        "es": "Astrum"
+        "en-US": "Hohenschwangau",
+        "pt-BR": "Astrum",
+        "es-ES": "Astrum"
     },
     "LFMIAg": {
-        "en": "Nuernberg",
-        "pt": "Canopus",
-        "es": "Canopus"
+        "en-US": "Nuernberg",
+        "pt-BR": "Canopus",
+        "es-ES": "Canopus"
     },
     "LVMIAg": {
-        "en": "Wuerzburg",
-        "pt": "Rigel",
-        "es": "Rigel"
+        "en-US": "Wuerzburg",
+        "pt-BR": "Rigel",
+        "es-ES": "Rigel"
     },
     "LlMIAg": {
-        "en": "Rothenburg",
-        "pt": "Acrux",
-        "es": "Acrux"
+        "en-US": "Rothenburg",
+        "pt-BR": "Acrux",
+        "es-ES": "Acrux"
     },
     "L1MIAg": {
-        "en": "Repherion",
-        "pt": "Arsulf",
-        "es": "Arsulf"
+        "en-US": "Repherion",
+        "pt-BR": "Arsulf",
+        "es-ES": "Arsulf"
     },
     "MFMIAg": {
-        "en": "Eeyorbriggar",
-        "pt": "Trapesac",
-        "es": "Trapesac"
+        "en-US": "Eeyorbriggar",
+        "pt-BR": "Trapesac",
+        "es-ES": "Trapesac"
     },
     "MVMIAg": {
-        "en": "Yesnelph",
-        "pt": "Ruaden",
-        "es": "Ruaden"
+        "en-US": "Yesnelph",
+        "pt-BR": "Ruaden",
+        "es-ES": "Ruaden"
     },
     "MlMIAg": {
-        "en": "Bergel",
-        "pt": "Saffran",
-        "es": "Saffran"
+        "en-US": "Bergel",
+        "pt-BR": "Saffran",
+        "es-ES": "Saffran"
     },
     "M1MIAg": {
-        "en": "Mersetzdeitz",
-        "pt": "Arima",
-        "es": "Arima"
+        "en-US": "Mersetzdeitz",
+        "pt-BR": "Arima",
+        "es-ES": "Arima"
     }
 }

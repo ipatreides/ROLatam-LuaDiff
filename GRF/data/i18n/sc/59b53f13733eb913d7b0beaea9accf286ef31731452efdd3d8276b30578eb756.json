@@ -1,26 +1,26 @@
 {
     "4HBy": {
-        "ko": "그레이스 교환원",
-        "en": "Grace Exchange Officer",
-        "pt": "Grácil Mascate",
-        "es": "Mercader Grácil"
+        "ko-KR": "그레이스 교환원",
+        "en-US": "Grace Exchange Officer",
+        "pt-BR": "Grácil Mascate",
+        "es-ES": "Mercader Grácil"
     },
     "4XBy": {
-        "ko": "[그레이스 교환원]\n안녕하세요.\n전도유망한 모험가님, 조금 더 성장하시면 저희가 마련한 그레이스 장비 세트를 사용하실 수 있겠네요?\n150Lv 까지 힘내요!",
-        "en": "[Grace Exchange Officer]\nHello.\nPromising adventurer, once you grow a bit more, you'll be able to use the Grace equipment set we've prepared for you.\nKeep it up until you reach 150Lv!",
-        "pt": "[Grácil Mascate]\nOlá, viajante.\nQuando estiver mais forte, volte aqui para adquirir Equipamento Grácil.\nDê o seu melhor até o nível 150!",
-        "es": "[Mercader Grácil]\nHola, trotamundos.\nCuando seas más fuerte, vuelve aquí para adquirir Equipo Grácil.\n¡Da lo mejor de ti hasta el nivel 150!"
+        "ko-KR": "[그레이스 교환원]\n안녕하세요.\n전도유망한 모험가님, 조금 더 성장하시면 저희가 마련한 그레이스 장비 세트를 사용하실 수 있겠네요?\n150Lv 까지 힘내요!",
+        "en-US": "[Grace Exchange Officer]\nHello.\nPromising adventurer, once you grow a bit more, you'll be able to use the Grace equipment set we've prepared for you.\nKeep it up until you reach 150Lv!",
+        "pt-BR": "[Grácil Mascate]\nOlá, viajante.\nQuando estiver mais forte, volte aqui para adquirir Equipamento Grácil.\nDê o seu melhor até o nível 150!",
+        "es-ES": "[Mercader Grácil]\nHola, trotamundos.\nCuando seas más fuerte, vuelve aquí para adquirir Equipo Grácil.\n¡Da lo mejor de ti hasta el nivel 150!"
     },
     "4nBy": {
-        "ko": "[그레이스 교환원]\n작전 중에 습득한 물품들을 잘 다듬으면 멋진 장비로 재활용을 할 수 있을 것 같아요.\n문제는 그걸 어떻게 활용하느냐인데 …. 모험가님께서 좀 더 힘내 주시면 해결방안을 찾을 수 있지 않을까요?",
-        "en": "[Grace Exchange Officer]\nIf you refine the items you've acquired during operations, I think they can be recycled into impressive equipment.\nThe problem is figuring out how to make use of them... But if you put in a bit more effort, Adventurer, maybe we can find a solution together?",
-        "pt": "[Grácil Mascate]\nAcho que posso reciclar em equipamentos legais se eu os polir bem.\nO problema é... Quem vai usar isso? Se você conhecer mais esse local, pode me ajudar nessa.",
-        "es": "[Mercader Grácil]\nCreo que puedo reciclarlos en equipos interesantes si los pulo bien.\nEl problema es… ¿quién los usará? Si conoces mejor este lugar, podrías ayudarme con eso."
+        "ko-KR": "[그레이스 교환원]\n작전 중에 습득한 물품들을 잘 다듬으면 멋진 장비로 재활용을 할 수 있을 것 같아요.\n문제는 그걸 어떻게 활용하느냐인데 …. 모험가님께서 좀 더 힘내 주시면 해결방안을 찾을 수 있지 않을까요?",
+        "en-US": "[Grace Exchange Officer]\nIf you refine the items you've acquired during operations, I think they can be recycled into impressive equipment.\nThe problem is figuring out how to make use of them... But if you put in a bit more effort, Adventurer, maybe we can find a solution together?",
+        "pt-BR": "[Grácil Mascate]\nAcho que posso reciclar em equipamentos legais se eu os polir bem.\nO problema é... Quem vai usar isso? Se você conhecer mais esse local, pode me ajudar nessa.",
+        "es-ES": "[Mercader Grácil]\nCreo que puedo reciclarlos en equipos interesantes si los pulo bien.\nEl problema es… ¿quién los usará? Si conoces mejor este lugar, podrías ayudarme con eso."
     },
     "43By": {
-        "ko": "[그레이스 교환원]\n안녕하세요.\n<ITEM>[의문의 부속품]<INFO>25669</INFO></ITEM>과 <ITEM>[코르 코어]<INFO>25723</INFO></ITEM>로 교환 가능한 ^4D4DFF그레이스^000000 장비가 준비되어 있습니다.\n직업별로 교환 가능한 품목을 안내해 드릴게요.",
-        "en": "[Grace Exchange Officer]\nHello.\nWe have ^4D4DFFGrace^000000 equipment available for exchange with <ITEM>[Mysterious Component]<INFO>25669</INFO></ITEM> and <ITEM>[Core Core]<INFO>25723</INFO></ITEM>.\nLet me show you the items you can exchange for each job.",
-        "pt": "[Grácil Mascate]\nOlá, viajante.\nVocê pode trocar <ITEM>[Chip Misterioso]<INFO>25669</INFO></ITEM>... e o <ITEM>[Núcleo COR]<INFO>25723</INFO></ITEM>... por um ^4D4DFFEquipamento Grácil^000000 de acordo com a sua classe.\nDeixe-me mostrar a você.",
-        "es": "[Mercader Grácil]\nHola, trotamundos.\nPuedes intercambiar <ITEM>[Chip Misterioso]<INFO>25669</INFO></ITEM> y <ITEM>[Núcleo COR]<INFO>25723</INFO></ITEM> por un ^4D4DFFEquipo Grácil^000000 acorde a tu clase.\nDéjame mostrártelo."
+        "ko-KR": "[그레이스 교환원]\n안녕하세요.\n<ITEM>[의문의 부속품]<INFO>25669</INFO></ITEM>과 <ITEM>[코르 코어]<INFO>25723</INFO></ITEM>로 교환 가능한 ^4D4DFF그레이스^000000 장비가 준비되어 있습니다.\n직업별로 교환 가능한 품목을 안내해 드릴게요.",
+        "en-US": "[Grace Exchange Officer]\nHello.\nWe have ^4D4DFFGrace^000000 equipment available for exchange with <ITEM>[Mysterious Component]<INFO>25669</INFO></ITEM> and <ITEM>[Core Core]<INFO>25723</INFO></ITEM>.\nLet me show you the items you can exchange for each job.",
+        "pt-BR": "[Grácil Mascate]\nOlá, viajante.\nVocê pode trocar <ITEM>[Chip Misterioso]<INFO>25669</INFO></ITEM>... e o <ITEM>[Núcleo COR]<INFO>25723</INFO></ITEM>... por um ^4D4DFFEquipamento Grácil^000000 de acordo com a sua classe.\nDeixe-me mostrar a você.",
+        "es-ES": "[Mercader Grácil]\nHola, trotamundos.\nPuedes intercambiar <ITEM>[Chip Misterioso]<INFO>25669</INFO></ITEM> y <ITEM>[Núcleo COR]<INFO>25723</INFO></ITEM> por un ^4D4DFFEquipo Grácil^000000 acorde a tu clase.\nDéjame mostrártelo."
     }
 }

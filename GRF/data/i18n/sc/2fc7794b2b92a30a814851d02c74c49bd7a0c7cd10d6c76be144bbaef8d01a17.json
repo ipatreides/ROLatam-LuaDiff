@@ -1,14 +1,14 @@
 {
     "gLAiDA": {
-        "ko": "[시간의 관리자]\n20161209갱신",
-        "en": "[Time Manager]\nUpdated 20161209",
-        "pt": "[Gerenciador de Tempo]\nAtualizado em 09/12/2016",
-        "es": "[Gestor de tiempo]\nActualizado el 09/12/2016"
+        "ko-KR": "[시간의 관리자]\n20161209갱신",
+        "en-US": "[Time Manager]\nUpdated 20161209",
+        "pt-BR": "[Gerenciador de Tempo]\nAtualizado em 09/12/2016",
+        "es-ES": "[Gestor de tiempo]\nActualizado el 09/12/2016"
     },
     "gbAiDA": {
-        "ko": "포장된 선물",
-        "en": "Wrapped Gift",
-        "pt": "Caixa de Uniformes",
-        "es": "Regalo"
+        "ko-KR": "포장된 선물",
+        "en-US": "Wrapped Gift",
+        "pt-BR": "Caixa de Uniformes",
+        "es-ES": "Regalo"
     }
 }

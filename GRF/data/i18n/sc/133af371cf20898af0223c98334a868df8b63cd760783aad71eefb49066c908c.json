@@ -1,422 +1,422 @@
 {
     "IH6qDA": {
-        "ko": "b",
-        "en": "b",
-        "pt": "b",
-        "es": "b"
+        "ko-KR": "b",
+        "en-US": "b",
+        "pt-BR": "b",
+        "es-ES": "b"
     },
     "IX6qDA": {
-        "ko": "240822 함정삭제 / 보스 방어력 증강(2차수정)\n240509 GH_Cursed_Gemstone GH_Cursed_Crystal 필터추가\n231012 SetMonsterStat 구문 삭제",
-        "en": "240822 Trap removal / Boss DEF enhancement (2nd revision)\n240509 Added filter for GH_Cursed_Gemstone GH_Cursed_Crystal\n231012 Removed SetMonsterStat syntax",
-        "pt": "240822 Remoção de armadilha / Aumento da Defesa do chefe (2ª revisão)\n240509 Adição de filtro para GH_Cursed_Gemstone GH_Cursed_Crystal\n231012 Remoção da sintaxe SetMonsterStat",
-        "es": "240822 Eliminación de trampa / Aumento de la defensa del jefe (2.ª revisión)\n240509 Adición de filtro para GH_Cursed_Gemstone GH_Cursed_Crystal\n231012 Eliminación de la sintaxis de SetMonsterStat"
+        "ko-KR": "240822 함정삭제 / 보스 방어력 증강(2차수정)\n240509 GH_Cursed_Gemstone GH_Cursed_Crystal 필터추가\n231012 SetMonsterStat 구문 삭제",
+        "en-US": "240822 Trap removal / Boss DEF enhancement (2nd revision)\n240509 Added filter for GH_Cursed_Gemstone GH_Cursed_Crystal\n231012 Removed SetMonsterStat syntax",
+        "pt-BR": "240822 Remoção de armadilha / Aumento da Defesa do chefe (2ª revisão)\n240509 Adição de filtro para GH_Cursed_Gemstone GH_Cursed_Crystal\n231012 Remoção da sintaxe SetMonsterStat",
+        "es-ES": "240822 Eliminación de trampa / Aumento de la defensa del jefe (2.ª revisión)\n240509 Adición de filtro para GH_Cursed_Gemstone GH_Cursed_Crystal\n231012 Eliminación de la sintaxis de SetMonsterStat"
     },
     "In6qDA": {
-        "ko": "보스회복셋업",
-        "en": "Boss Recovery Setup",
-        "pt": "Configuração de recuperação do chefe",
-        "es": "Configuración de recuperación del jefe"
+        "ko-KR": "보스회복셋업",
+        "en-US": "Boss Recovery Setup",
+        "pt-BR": "Configuração de recuperação do chefe",
+        "es-ES": "Configuración de recuperación del jefe"
     },
     "I36qDA": {
-        "ko": "노멀",
-        "en": "Normal",
-        "pt": "Normal",
-        "es": "Normal"
+        "ko-KR": "노멀",
+        "en-US": "Normal",
+        "pt-BR": "Normal",
+        "es-ES": "Normal"
     },
     "JH6qDA": {
-        "ko": "하드",
-        "en": "Hard",
-        "pt": "Difícil",
-        "es": "Difícil"
+        "ko-KR": "하드",
+        "en-US": "Hard",
+        "pt-BR": "Difícil",
+        "es-ES": "Difícil"
     },
     "JX6qDA": {
-        "ko": "보스",
-        "en": "Boss",
-        "pt": "Chefe",
-        "es": "Jefe"
+        "ko-KR": "보스",
+        "en-US": "Boss",
+        "pt-BR": "Chefe",
+        "es-ES": "Jefe"
     },
     "Jn6qDA": {
-        "ko": "라운드 이동",
-        "en": "Move to the next round",
-        "pt": "Mover para a rodada seguinte",
-        "es": "Pasar a la siguiente ronda"
+        "ko-KR": "라운드 이동",
+        "en-US": "Move to the next round",
+        "pt-BR": "Mover para a rodada seguinte",
+        "es-ES": "Pasar a la siguiente ronda"
     },
     "J36qDA": {
-        "ko": "보스처치후",
-        "en": "After defeating the boss",
-        "pt": "Após derrotar o chefe",
-        "es": "Después de derrotar al jefe"
+        "ko-KR": "보스처치후",
+        "en-US": "After defeating the boss",
+        "pt-BR": "Após derrotar o chefe",
+        "es-ES": "Después de derrotar al jefe"
     },
     "KH6qDA": {
-        "ko": "보스가 자체 회복을 하지 않도록 설정",
-        "en": "Set it so the boss cannot heal itself.",
-        "pt": "Configurar para que o chefe não use cura própria",
-        "es": "Configurar para que el jefe no se use curación propia"
+        "ko-KR": "보스가 자체 회복을 하지 않도록 설정",
+        "en-US": "Set it so the boss cannot heal itself.",
+        "pt-BR": "Configurar para que o chefe não use cura própria",
+        "es-ES": "Configurar para que el jefe no se use curación propia"
     },
     "KX6qDA": {
-        "ko": "보스가 자체 회복하도록 설정",
-        "en": "Set the boss to self-heal.",
-        "pt": "Configurar o chefe para se curar automaticamente",
-        "es": "Configurar al jefe para que se cure automáticamente"
+        "ko-KR": "보스가 자체 회복하도록 설정",
+        "en-US": "Set the boss to self-heal.",
+        "pt-BR": "Configurar o chefe para se curar automaticamente",
+        "es-ES": "Configurar al jefe para que se cure automáticamente"
     },
     "Kn6qDA": {
-        "ko": "{0}번째 룸으로 이동",
-        "en": "Move to Room {0}",
-        "pt": "Mover para a sala nº {0}",
-        "es": "Mover a la sala n.º {0}"
+        "ko-KR": "{0}번째 룸으로 이동",
+        "en-US": "Move to Room {0}",
+        "pt-BR": "Mover para a sala nº {0}",
+        "es-ES": "Mover a la sala n.º {0}"
     },
     "K36qDA": {
-        "ko": "저주의 화염#",
-        "en": "Flames of Curse#",
-        "pt": "Fogo Maldito#",
-        "es": "Fuego Maldito#"
+        "ko-KR": "저주의 화염#",
+        "en-US": "Flames of Curse#",
+        "pt-BR": "Fogo Maldito#",
+        "es-ES": "Fuego Maldito#"
     },
     "LH6qDA": {
-        "ko": "화염의 가시#",
-        "en": "Flame Thorn#",
-        "pt": "Espinho Maldito#",
-        "es": "Espina Maldita#"
+        "ko-KR": "화염의 가시#",
+        "en-US": "Flame Thorn#",
+        "pt-BR": "Espinho Maldito#",
+        "es-ES": "Espina Maldita#"
     },
     "LX6qDA": {
-        "ko": "타락한 메이드#",
-        "en": "Fallen Maid#",
-        "pt": "Servente Maldita#",
-        "es": "Sirviente Maldita#"
+        "ko-KR": "타락한 메이드#",
+        "en-US": "Fallen Maid#",
+        "pt-BR": "Servente Maldita#",
+        "es-ES": "Sirviente Maldita#"
     },
     "Ln6qDA": {
-        "ko": "타락한 메이드#",
-        "en": "Fallen Maid#",
-        "pt": "Servente Maldita#",
-        "es": "Sirviente Maldita#"
+        "ko-KR": "타락한 메이드#",
+        "en-US": "Fallen Maid#",
+        "pt-BR": "Servente Maldita#",
+        "es-ES": "Sirviente Maldita#"
     },
     "L36qDA": {
-        "ko": "타락한 메이드#",
-        "en": "Fallen Maid#",
-        "pt": "Servente Maldita#",
-        "es": "Sirviente Maldita#"
+        "ko-KR": "타락한 메이드#",
+        "en-US": "Fallen Maid#",
+        "pt-BR": "Servente Maldita#",
+        "es-ES": "Sirviente Maldita#"
     },
     "MH6qDA": {
-        "ko": "타락한 메이드#",
-        "en": "Fallen Maid#",
-        "pt": "Servente Maldita#",
-        "es": "Sirviente Maldita#"
+        "ko-KR": "타락한 메이드#",
+        "en-US": "Fallen Maid#",
+        "pt-BR": "Servente Maldita#",
+        "es-ES": "Sirviente Maldita#"
     },
     "MX6qDA": {
-        "ko": "미쳐가는 여기사#",
-        "en": "Mad Knight#",
-        "pt": "Cavaleira Enlouquecida#",
-        "es": "Caballera Enloquecida#"
+        "ko-KR": "미쳐가는 여기사#",
+        "en-US": "Mad Knight#",
+        "pt-BR": "Cavaleira Enlouquecida#",
+        "es-ES": "Caballera Enloquecida#"
     },
     "Mn6qDA": {
-        "ko": "암흑의 근위대장#",
-        "en": "Captain of the Dark Guard#",
-        "pt": "Guarda das Sombras#",
-        "es": "Guardián de las Sombras#"
+        "ko-KR": "암흑의 근위대장#",
+        "en-US": "Captain of the Dark Guard#",
+        "pt-BR": "Guarda das Sombras#",
+        "es-ES": "Guardián de las Sombras#"
     },
     "M36qDA": {
-        "ko": "여기사의 사념#",
-        "en": "Mad Knight's Spirit#",
-        "pt": "Cavaleira Insana#",
-        "es": "Caballera Insana#"
+        "ko-KR": "여기사의 사념#",
+        "en-US": "Mad Knight's Spirit#",
+        "pt-BR": "Cavaleira Insana#",
+        "es-ES": "Caballera Insana#"
     },
     "NH6qDA": {
-        "ko": "암흑의 근위대장#",
-        "en": "Captain of the Dark Guard#",
-        "pt": "Guarda das Sombras#",
-        "es": "Guardián de las Sombras#"
+        "ko-KR": "암흑의 근위대장#",
+        "en-US": "Captain of the Dark Guard#",
+        "pt-BR": "Guarda das Sombras#",
+        "es-ES": "Guardián de las Sombras#"
     },
     "NX6qDA": {
-        "ko": "저주받은 기사#",
-        "en": "Cursed Knight#",
-        "pt": "Cavaleiro Maldito#",
-        "es": "Caballero Maldito#"
+        "ko-KR": "저주받은 기사#",
+        "en-US": "Cursed Knight#",
+        "pt-BR": "Cavaleiro Maldito#",
+        "es-ES": "Caballero Maldito#"
     },
     "Nn6qDA": {
-        "ko": "기사의 원혼#",
-        "en": "Knight's Restless Spirit#",
-        "pt": "Cavaleiro Vingativo#",
-        "es": "Caballero Vengativo#"
+        "ko-KR": "기사의 원혼#",
+        "en-US": "Knight's Restless Spirit#",
+        "pt-BR": "Cavaleiro Vingativo#",
+        "es-ES": "Caballero Vengativo#"
     },
     "N36qDA": {
-        "ko": "여기사의 사념#",
-        "en": "Mad Knight's Spirit#",
-        "pt": "Cavaleira Insana#",
-        "es": "Caballera Insana#"
+        "ko-KR": "여기사의 사념#",
+        "en-US": "Mad Knight's Spirit#",
+        "pt-BR": "Cavaleira Insana#",
+        "es-ES": "Caballera Insana#"
     },
     "OH6qDA": {
-        "ko": "atk-{0} atk2-{1} {2}",
-        "en": "atk-{0} atk2-{1} {2}",
-        "pt": "atk-{0} atk2-{1} {2}",
-        "es": "atk-{0} atk2-{1} {2}"
+        "ko-KR": "atk-{0} atk2-{1} {2}",
+        "en-US": "atk-{0} atk2-{1} {2}",
+        "pt-BR": "atk-{0} atk2-{1} {2}",
+        "es-ES": "atk-{0} atk2-{1} {2}"
     },
     "OX6qDA": {
-        "ko": "atk-{0} atk2-{1} {2}",
-        "en": "atk-{0} atk2-{1} {2}",
-        "pt": "atk-{0} atk2-{1} {2}",
-        "es": "atk-{0} atk2-{1} {2}"
+        "ko-KR": "atk-{0} atk2-{1} {2}",
+        "en-US": "atk-{0} atk2-{1} {2}",
+        "pt-BR": "atk-{0} atk2-{1} {2}",
+        "es-ES": "atk-{0} atk2-{1} {2}"
     },
     "On6qDA": {
-        "ko": "100",
-        "en": "100",
-        "pt": "100",
-        "es": "100"
+        "ko-KR": "100",
+        "en-US": "100",
+        "pt-BR": "100",
+        "es-ES": "100"
     },
     "O36qDA": {
-        "ko": "오스카: 첫번째 구간의 시간이 정상적으로 흐르기 시작했어요. 다음 구간으로 이동하죠.",
-        "en": "Oscar: Time has started flowing normally in the first section. Let's move on to the next section.",
-        "pt": "Oscar: Primeira área limpa. Vou te teleportar para a próxima zona.",
-        "es": "Oscar: Primera zona despejada. Te teletransportaré a la siguiente zona."
+        "ko-KR": "오스카: 첫번째 구간의 시간이 정상적으로 흐르기 시작했어요. 다음 구간으로 이동하죠.",
+        "en-US": "Oscar: Time has started flowing normally in the first section. Let's move on to the next section.",
+        "pt-BR": "Oscar: Primeira área limpa. Vou te teleportar para a próxima zona.",
+        "es-ES": "Oscar: Primera zona despejada. Te teletransportaré a la siguiente zona."
     },
     "PH6qDA": {
-        "ko": "오스카: 두번째 구간의 시간이 정상적으로 흐르기 시작했어요. 다음 구간으로 이동하죠.",
-        "en": "Oscar: Time has started flowing normally in the second section. Let's move on to the next section.",
-        "pt": "Oscar: Segunda área limpa. Vou te teleportar para a próxima zona.",
-        "es": "Oscar: Segunda zona despejada. Te teletransportaré a la siguiente zona."
+        "ko-KR": "오스카: 두번째 구간의 시간이 정상적으로 흐르기 시작했어요. 다음 구간으로 이동하죠.",
+        "en-US": "Oscar: Time has started flowing normally in the second section. Let's move on to the next section.",
+        "pt-BR": "Oscar: Segunda área limpa. Vou te teleportar para a próxima zona.",
+        "es-ES": "Oscar: Segunda zona despejada. Te teletransportaré a la siguiente zona."
     },
     "PX6qDA": {
-        "ko": "오스카: 세번째 구간의 시간이 정상적으로 흐르기 시작했어요. 다음 구간으로 이동하죠.",
-        "en": "Oscar: Time has started flowing normally in the third section. Let's move on to the next section.",
-        "pt": "Oscar: Terceira área limpa. Vou te teleportar para a próxima zona.",
-        "es": "Oscar: Tercera zona despejada. Te teletransportaré a la siguiente zona."
+        "ko-KR": "오스카: 세번째 구간의 시간이 정상적으로 흐르기 시작했어요. 다음 구간으로 이동하죠.",
+        "en-US": "Oscar: Time has started flowing normally in the third section. Let's move on to the next section.",
+        "pt-BR": "Oscar: Terceira área limpa. Vou te teleportar para a próxima zona.",
+        "es-ES": "Oscar: Tercera zona despejada. Te teletransportaré a la siguiente zona."
     },
     "Pn6qDA": {
-        "ko": "오스카: 이제 마지막 방이군요. 슈미츠왕의 사념이 배회하고 있을지 확인 해 보자구요.",
-        "en": "Oscar: This is the last room. Let's check whether King Schmidt's lingering thoughts are wandering here.",
-        "pt": "Oscar: Vamos ver se o Rei Schmidt está vagando por esse lugar.",
-        "es": "Oscar: Vamos a ver si el Rey Schmidt está vagando por este lugar."
+        "ko-KR": "오스카: 이제 마지막 방이군요. 슈미츠왕의 사념이 배회하고 있을지 확인 해 보자구요.",
+        "en-US": "Oscar: This is the last room. Let's check whether King Schmidt's lingering thoughts are wandering here.",
+        "pt-BR": "Oscar: Vamos ver se o Rei Schmidt está vagando por esse lugar.",
+        "es-ES": "Oscar: Vamos a ver si el Rey Schmidt está vagando por este lugar."
     },
     "P36qDA": {
-        "ko": "생존중인 몬스터 - {0}",
-        "en": "Surviving Monsters - {0}",
-        "pt": "Faltam {0} sobreviventes",
-        "es": "Faltan {0} sobrevivientes"
+        "ko-KR": "생존중인 몬스터 - {0}",
+        "en-US": "Surviving Monsters - {0}",
+        "pt-BR": "Faltam {0} sobreviventes",
+        "es-ES": "Faltan {0} sobrevivientes"
     },
     "QH6qDA": {
-        "ko": "오스카",
-        "en": "Oscar",
-        "pt": "Oscar",
-        "es": "Oscar"
+        "ko-KR": "오스카",
+        "en-US": "Oscar",
+        "pt-BR": "Oscar",
+        "es-ES": "Oscar"
     },
     "QX6qDA": {
-        "ko": "여긴 기사단의 근무 교대를 위한 장소였어요.",
-        "en": "This was the place where the Knights rotated shifts.",
-        "pt": "Este lugar era o descanso dos antigos Cavaleiros.",
-        "es": "Este lugar era el descanso de los antiguos Caballeros."
+        "ko-KR": "여긴 기사단의 근무 교대를 위한 장소였어요.",
+        "en-US": "This was the place where the Knights rotated shifts.",
+        "pt-BR": "Este lugar era o descanso dos antigos Cavaleiros.",
+        "es-ES": "Este lugar era el descanso de los antiguos Caballeros."
     },
     "Qn6qDA": {
-        "ko": "당시 근무교대를 한 뒤 잠시 쉬고있던 사람들은 미처 대피하지 못했죠.",
-        "en": "Those who had just changed shifts and were resting for a moment couldn't evacuate in time.",
-        "pt": "As pessoas que estavam aqui não conseguiram evacuar a tempo.",
-        "es": "Las personas que estaban aquí no lograron evacuar a tiempo."
+        "ko-KR": "당시 근무교대를 한 뒤 잠시 쉬고있던 사람들은 미처 대피하지 못했죠.",
+        "en-US": "Those who had just changed shifts and were resting for a moment couldn't evacuate in time.",
+        "pt-BR": "As pessoas que estavam aqui não conseguiram evacuar a tempo.",
+        "es-ES": "Las personas que estaban aquí no lograron evacuar a tiempo."
     },
     "Q36qDA": {
-        "ko": "식사를 나르던 메이드들도 마찬가지였구요.",
-        "en": "The maids who carried the meals were the same way, too.",
-        "pt": "O mesmo aconteceu com as serventes que entregavam as refeições.",
-        "es": "Lo mismo sucedió con las sirvientas que entregaban las comidas."
+        "ko-KR": "식사를 나르던 메이드들도 마찬가지였구요.",
+        "en-US": "The maids who carried the meals were the same way, too.",
+        "pt-BR": "O mesmo aconteceu com as serventes que entregavam as refeições.",
+        "es-ES": "Lo mismo sucedió con las sirvientas que entregaban las comidas."
     },
     "RH6qDA": {
-        "ko": "저는 다음 시간의 흐름을 위해 잠시 앞으로 가 있을테니 이 분들께도 안식을 내려주세요",
-        "en": "I will go ahead for a while, for the flow of time to continue, so please grant these people rest as well.",
-        "pt": "Estaremos movendo para a próxima dimensão no tempo. Então, dê um descanso a eles.",
-        "es": "Estaremos pasando a la siguiente dimensión en el tiempo. Así que, dales un descanso."
+        "ko-KR": "저는 다음 시간의 흐름을 위해 잠시 앞으로 가 있을테니 이 분들께도 안식을 내려주세요",
+        "en-US": "I will go ahead for a while, for the flow of time to continue, so please grant these people rest as well.",
+        "pt-BR": "Estaremos movendo para a próxima dimensão no tempo. Então, dê um descanso a eles.",
+        "es-ES": "Estaremos pasando a la siguiente dimensión en el tiempo. Así que, dales un descanso."
     },
     "RX6qDA": {
-        "ko": "여긴 제 2 숙소와 식당겸 휴게실이 있던 장소예요.",
-        "en": "This is where the second lodging, the dining hall, and the lounge used to be.",
-        "pt": "Esse alojamento também funcionava como sala de jantar.",
-        "es": "Este alojamiento también funcionaba como comedor."
+        "ko-KR": "여긴 제 2 숙소와 식당겸 휴게실이 있던 장소예요.",
+        "en-US": "This is where the second lodging, the dining hall, and the lounge used to be.",
+        "pt-BR": "Esse alojamento também funcionava como sala de jantar.",
+        "es-ES": "Este alojamiento también funcionaba como comedor."
     },
     "Rn6qDA": {
-        "ko": "아침에 배급되기로 한 음식들이 조리실에서 이곳으로 운반되어 왔었는데 독이 퍼지듯 음식에 저주가 깃들었죠.",
-        "en": "The food that was meant to be distributed in the morning was carried here from the kitchen, but it became cursed as if poison were spreading through it.",
-        "pt": "A maldição se espalhou rápido por aqui, igual como comida envenenada.",
-        "es": "La maldición se esparció rápido por aquí, igual que comida envenenada."
+        "ko-KR": "아침에 배급되기로 한 음식들이 조리실에서 이곳으로 운반되어 왔었는데 독이 퍼지듯 음식에 저주가 깃들었죠.",
+        "en-US": "The food that was meant to be distributed in the morning was carried here from the kitchen, but it became cursed as if poison were spreading through it.",
+        "pt-BR": "A maldição se espalhou rápido por aqui, igual como comida envenenada.",
+        "es-ES": "La maldición se esparció rápido por aquí, igual que comida envenenada."
     },
     "R36qDA": {
-        "ko": "아무 것도 모르고 음식에 손을 댔던 사람들은 성을 벗어날 수 조차 없었어요.",
-        "en": "Those who touched the food without knowing anything couldn't even make it out of the castle.",
-        "pt": "As pessoas que estavam aqui não faziam ideia do que estava acontecendo.",
-        "es": "Las personas que estaban aquí no tenían idea de lo que estaba pasando."
+        "ko-KR": "아무 것도 모르고 음식에 손을 댔던 사람들은 성을 벗어날 수 조차 없었어요.",
+        "en-US": "Those who touched the food without knowing anything couldn't even make it out of the castle.",
+        "pt-BR": "As pessoas que estavam aqui não faziam ideia do que estava acontecendo.",
+        "es-ES": "Las personas que estaban aquí no tenían idea de lo que estaba pasando."
     },
     "SH6qDA": {
-        "ko": "제가 직접 손을 쓰지 않아도 되니 꽤 편하네요. 이곳도 마저 정리해 주시겠어요?",
-        "en": "It’s quite convenient not having to lift a finger myself. Could you tidy up this place as well?",
-        "pt": "Se importaria em limpar essa área também?",
-        "es": "¿Te importaría limpiar esta área también?"
+        "ko-KR": "제가 직접 손을 쓰지 않아도 되니 꽤 편하네요. 이곳도 마저 정리해 주시겠어요?",
+        "en-US": "It’s quite convenient not having to lift a finger myself. Could you tidy up this place as well?",
+        "pt-BR": "Se importaria em limpar essa área também?",
+        "es-ES": "¿Te importaría limpiar esta área también?"
     },
     "SX6qDA": {
-        "ko": "이곳은 군사학 서적을 보관하는 장소였어요.",
-        "en": "This place used to store military strategy books.",
-        "pt": "É aqui que guardavam registros militares.",
-        "es": "Aquí es donde guardaban los registros militares."
+        "ko-KR": "이곳은 군사학 서적을 보관하는 장소였어요.",
+        "en-US": "This place used to store military strategy books.",
+        "pt-BR": "É aqui que guardavam registros militares.",
+        "es-ES": "Aquí es donde guardaban los registros militares."
     },
     "Sn6qDA": {
-        "ko": "주로 상급 지휘관들이 사용하던 장소였죠.",
-        "en": "It was mainly a place used by high-ranking commanders.",
-        "pt": "Era um local usado por comandantes das tropas.",
-        "es": "Era un lugar usado por comandantes de las tropas."
+        "ko-KR": "주로 상급 지휘관들이 사용하던 장소였죠.",
+        "en-US": "It was mainly a place used by high-ranking commanders.",
+        "pt-BR": "Era um local usado por comandantes das tropas.",
+        "es-ES": "Era un lugar usado por comandantes de las tropas."
     },
     "S36qDA": {
-        "ko": "그래서 이곳을 배회하는 사념들은 꽤 강력해요. 조심하세요.",
-        "en": "So the lingering thoughts wandering around here are quite powerful. Be careful.",
-        "pt": "Cuidado com os monstros daqui, eles são fortes.",
-        "es": "Cuidado con los monstruos de aquí, son fuertes."
+        "ko-KR": "그래서 이곳을 배회하는 사념들은 꽤 강력해요. 조심하세요.",
+        "en-US": "So the lingering thoughts wandering around here are quite powerful. Be careful.",
+        "pt-BR": "Cuidado com os monstros daqui, eles são fortes.",
+        "es-ES": "Cuidado con los monstruos de aquí, son fuertes."
     },
     "TH6qDA": {
-        "ko": "오스카: 여긴 예전에 조리실로 쓰이던 장소예요.",
-        "en": "Oscar: This place used to be the kitchen.",
-        "pt": "Oscar: Aqui era a cozinha.",
-        "es": "Oscar: Aquí era la cocina."
+        "ko-KR": "오스카: 여긴 예전에 조리실로 쓰이던 장소예요.",
+        "en-US": "Oscar: This place used to be the kitchen.",
+        "pt-BR": "Oscar: Aqui era a cozinha.",
+        "es-ES": "Oscar: Aquí era la cocina."
     },
     "TX6qDA": {
-        "ko": "오스카: 그래서 식사를 준비중이던 메이드 들의 피해가 가장 컸었죠.",
-        "en": "Oscar: So the maids who were preparing the meal suffered the most damage.",
-        "pt": "Oscar: As serventes foram as que mais sofreram aqui.",
-        "es": "Oscar: Las sirvientas fueron las que más sufrieron aquí."
+        "ko-KR": "오스카: 그래서 식사를 준비중이던 메이드 들의 피해가 가장 컸었죠.",
+        "en-US": "Oscar: So the maids who were preparing the meal suffered the most damage.",
+        "pt-BR": "Oscar: As serventes foram as que mais sofreram aqui.",
+        "es-ES": "Oscar: Las sirvientas fueron las que más sufrieron aquí."
     },
     "Tn6qDA": {
-        "ko": "오스카: 그들을 더 이상 고통스럽지 않도록 안식을 주는것이 당신이 할 수 있는 유일한 일입니다.",
-        "en": "Oscar: The only thing you can do is grant them rest, so they will suffer no more.",
-        "pt": "Oscar: Por favor, dê a elas o merecido descanso.",
-        "es": "Oscar: Por favor, dales el merecido descanso."
+        "ko-KR": "오스카: 그들을 더 이상 고통스럽지 않도록 안식을 주는것이 당신이 할 수 있는 유일한 일입니다.",
+        "en-US": "Oscar: The only thing you can do is grant them rest, so they will suffer no more.",
+        "pt-BR": "Oscar: Por favor, dê a elas o merecido descanso.",
+        "es-ES": "Oscar: Por favor, dales el merecido descanso."
     },
     "T36qDA": {
-        "ko": "오스카: 저주에 잠식된 사람들을 정화하다 보면 자연스럽게 다음 장소로 향하도록 시간의 틈이 생길거예요.",
-        "en": "Oscar: As you purify those consumed by the curse, a rift in time will naturally open and guide you to the next place.",
-        "pt": "Oscar: Purificar as pessoas aqui fará com que você avance ainda mais no tempo.",
-        "es": "Oscar: Purificar a las personas aquí hará que avances aún más en el tiempo."
+        "ko-KR": "오스카: 저주에 잠식된 사람들을 정화하다 보면 자연스럽게 다음 장소로 향하도록 시간의 틈이 생길거예요.",
+        "en-US": "Oscar: As you purify those consumed by the curse, a rift in time will naturally open and guide you to the next place.",
+        "pt-BR": "Oscar: Purificar as pessoas aqui fará com que você avance ainda mais no tempo.",
+        "es-ES": "Oscar: Purificar a las personas aquí hará que avances aún más en el tiempo."
     },
     "UH6qDA": {
-        "ko": "오스카: 그 전까진 이 곳의 시간이 계속해서 반복되려는 성질을 가지기 때문에 이동이 힘들답니다.",
-        "en": "Oscar: Until then, it will be hard to move, because time in this place keeps trying to repeat itself.",
-        "pt": "Oscar: Se não fizer isso, a dimensão vai ficar se repetindo.",
-        "es": "Oscar: Si no lo haces, la dimensión seguirá repitiéndose."
+        "ko-KR": "오스카: 그 전까진 이 곳의 시간이 계속해서 반복되려는 성질을 가지기 때문에 이동이 힘들답니다.",
+        "en-US": "Oscar: Until then, it will be hard to move, because time in this place keeps trying to repeat itself.",
+        "pt-BR": "Oscar: Se não fizer isso, a dimensão vai ficar se repetindo.",
+        "es-ES": "Oscar: Si no lo haces, la dimensión seguirá repitiéndose."
     },
     "UX6qDA": {
-        "ko": "오스카: 아 참, 화염의 가시가 보이면 무조건 피하도록 하세요. 이 공간 안에서 가장 골치아픈 녀석이니까요.",
-        "en": "Oscar: Oh, and if you see a Flame Thorn, avoid it no matter what. It’s the most troublesome thing in this place.",
-        "pt": "Oscar: Ah, e evite os Espinhos Malditos, eles são irritantes.",
-        "es": "Oscar: Ah, y evita las Espinas Malditas, son irritantes."
+        "ko-KR": "오스카: 아 참, 화염의 가시가 보이면 무조건 피하도록 하세요. 이 공간 안에서 가장 골치아픈 녀석이니까요.",
+        "en-US": "Oscar: Oh, and if you see a Flame Thorn, avoid it no matter what. It’s the most troublesome thing in this place.",
+        "pt-BR": "Oscar: Ah, e evite os Espinhos Malditos, eles são irritantes.",
+        "es-ES": "Oscar: Ah, y evita las Espinas Malditas, son irritantes."
     },
     "Un6qDA": {
-        "ko": "침식된 뿌리",
-        "en": "Corrupted Root",
-        "pt": "Origem da Corrupção",
-        "es": "Origen de la Corrupción"
+        "ko-KR": "침식된 뿌리",
+        "en-US": "Corrupted Root",
+        "pt-BR": "Origem da Corrupção",
+        "es-ES": "Origen de la Corrupción"
     },
     "U36qDA": {
-        "ko": "저건 슈미츠 국왕의 모습을 한 사념체일뿐이니 그를 공격하는 데에 양심의 가책 같은 건 느끼지 않아도 좋아요.",
-        "en": "That is merely a thought-form taking the shape of King Schmidt, so you need not feel any guilt about attacking him.",
-        "pt": "Isso é a figura de Schmidt, mas não se preocupe, não é ele de verdade.",
-        "es": "Esta es la figura de Schmidt, pero no te preocupes, no es él de verdad."
+        "ko-KR": "저건 슈미츠 국왕의 모습을 한 사념체일뿐이니 그를 공격하는 데에 양심의 가책 같은 건 느끼지 않아도 좋아요.",
+        "en-US": "That is merely a thought-form taking the shape of King Schmidt, so you need not feel any guilt about attacking him.",
+        "pt-BR": "Isso é a figura de Schmidt, mas não se preocupe, não é ele de verdade.",
+        "es-ES": "Esta es la figura de Schmidt, pero no te preocupes, no es él de verdad."
     },
     "VH6qDA": {
-        "ko": "슬슬 시간의 결계를 거두도록 할게요. 전투가 시작될테니 준비하세요.",
-        "en": "I'll start lifting the time barrier now. The battle will begin, so be ready.",
-        "pt": "Pode atacá-lo sem culpa. A batalha começará em breve.",
-        "es": "Puedes atacarlo sin culpa. La batalla comenzará pronto."
+        "ko-KR": "슬슬 시간의 결계를 거두도록 할게요. 전투가 시작될테니 준비하세요.",
+        "en-US": "I'll start lifting the time barrier now. The battle will begin, so be ready.",
+        "pt-BR": "Pode atacá-lo sem culpa. A batalha começará em breve.",
+        "es-ES": "Puedes atacarlo sin culpa. La batalla comenzará pronto."
     },
     "VX6qDA": {
-        "ko": "저주를 삼킨 왕#",
-        "en": "Cursed King Schmidt#",
-        "pt": "Schmidt Corrompido#",
-        "es": "Schmidt Corrompido#"
+        "ko-KR": "저주를 삼킨 왕#",
+        "en-US": "Cursed King Schmidt#",
+        "pt-BR": "Schmidt Corrompido#",
+        "es-ES": "Schmidt Corrompido#"
     },
     "Vn6qDA": {
-        "ko": "저주를 삼킨 왕#",
-        "en": "Cursed King Schmidt#",
-        "pt": "Schmidt Corrompido#",
-        "es": "Schmidt Corrompido#"
+        "ko-KR": "저주를 삼킨 왕#",
+        "en-US": "Cursed King Schmidt#",
+        "pt-BR": "Schmidt Corrompido#",
+        "es-ES": "Schmidt Corrompido#"
     },
     "V36qDA": {
-        "ko": "오스카: 사념체가 진정되었군요. 이제 그는 한동안 제대로 공격하지 못할거예요.",
-        "en": "Oscar: The wraith has calmed down. He won’t be able to attack properly for a while.",
-        "pt": "Oscar: Ele não incomodará mais ninguém agora.",
-        "es": "Oscar: Ahora ya no molestará a nadie más."
+        "ko-KR": "오스카: 사념체가 진정되었군요. 이제 그는 한동안 제대로 공격하지 못할거예요.",
+        "en-US": "Oscar: The wraith has calmed down. He won’t be able to attack properly for a while.",
+        "pt-BR": "Oscar: Ele não incomodará mais ninguém agora.",
+        "es-ES": "Oscar: Ahora ya no molestará a nadie más."
     },
     "WH6qDA": {
-        "ko": "오스카: 그리고 사념체의 광폭화 상태도 풀렸어요. 지금이 공격할 기회입니다.",
-        "en": "Oscar: And the Thought Entity’s berserk state has been lifted. Now’s our chance to attack.",
-        "pt": "Oscar: Ele não está mais em Frenesi, você pode atacá-lo agora.",
-        "es": "Oscar: Ya no está en Frenesí, puedes atacarlo ahora."
+        "ko-KR": "오스카: 그리고 사념체의 광폭화 상태도 풀렸어요. 지금이 공격할 기회입니다.",
+        "en-US": "Oscar: And the Thought Entity’s berserk state has been lifted. Now’s our chance to attack.",
+        "pt-BR": "Oscar: Ele não está mais em Frenesi, você pode atacá-lo agora.",
+        "es-ES": "Oscar: Ya no está en Frenesí, puedes atacarlo ahora."
     },
     "WX6qDA": {
-        "ko": "오스카: 사념의 힘이 다시 돌아오고 있어요. 공격 속도를 조절하세요.",
-        "en": "Oscar: The power of dark thoughts is returning. Adjust your Attack Speed.",
-        "pt": "Oscar: O poder dele está voltando. Tenha mais velocidade no ataque.",
-        "es": "Oscar: Su poder está volviendo. Ten más velocidad en el ataque."
+        "ko-KR": "오스카: 사념의 힘이 다시 돌아오고 있어요. 공격 속도를 조절하세요.",
+        "en-US": "Oscar: The power of dark thoughts is returning. Adjust your Attack Speed.",
+        "pt-BR": "Oscar: O poder dele está voltando. Tenha mais velocidade no ataque.",
+        "es-ES": "Oscar: Su poder está volviendo. Ten más velocidad en el ataque."
     },
     "Wn6qDA": {
-        "ko": "오스카: 제가 잠시 화염해일의 시간을 멈췄어요. 최대한 살아남으세요.",
-        "en": "Oscar: I stopped the Flame Tide for a moment. Survive as long as you can.",
-        "pt": "Oscar: Eu parei o tempo para impedir a chegada da Parede de Fogo.",
-        "es": "Oscar: Detuve el tiempo para impedir la llegada de la Pared de Fuego."
+        "ko-KR": "오스카: 제가 잠시 화염해일의 시간을 멈췄어요. 최대한 살아남으세요.",
+        "en-US": "Oscar: I stopped the Flame Tide for a moment. Survive as long as you can.",
+        "pt-BR": "Oscar: Eu parei o tempo para impedir a chegada da Parede de Fogo.",
+        "es-ES": "Oscar: Detuve el tiempo para impedir la llegada de la Pared de Fuego."
     },
     "W36qDA": {
-        "ko": "^FF0000보유한 물건의 종류나 무게가 너무 많은 것 같습니다. 인벤토리를 정리해주세요.^000000",
-        "en": "^FF0000It looks like you’re carrying too many items, or they’re too heavy. Please organize your inventory.^000000",
-        "pt": "^FF0000Esvazie seu inventário e tente novamente.^000000",
-        "es": "^FF0000Vacía tu inventario e intenta de nuevo.^000000"
+        "ko-KR": "^FF0000보유한 물건의 종류나 무게가 너무 많은 것 같습니다. 인벤토리를 정리해주세요.^000000",
+        "en-US": "^FF0000It looks like you’re carrying too many items, or they’re too heavy. Please organize your inventory.^000000",
+        "pt-BR": "^FF0000Esvazie seu inventário e tente novamente.^000000",
+        "es-ES": "^FF0000Vacía tu inventario e intenta de nuevo.^000000"
     },
     "XH6qDA": {
-        "ko": "^FF0000보상아이템을 이미 너무 많이 보유하고 있습니다. 보상아이템을 비운 뒤 다시 진행 해주십시오^000000",
-        "en": "^FF0000You already have too many reward items. Please clear some space and try again.^000000",
-        "pt": "^FF0000Você já possui recompensas demais. Guarde-os no armazém e tente novamente^000000",
-        "es": "^FF0000Ya tienes demasiadas recompensas. Guárdalas en el almacén e intenta de nuevo^000000"
+        "ko-KR": "^FF0000보상아이템을 이미 너무 많이 보유하고 있습니다. 보상아이템을 비운 뒤 다시 진행 해주십시오^000000",
+        "en-US": "^FF0000You already have too many reward items. Please clear some space and try again.^000000",
+        "pt-BR": "^FF0000Você já possui recompensas demais. Guarde-os no armazém e tente novamente^000000",
+        "es-ES": "^FF0000Ya tienes demasiadas recompensas. Guárdalas en el almacén e intenta de nuevo^000000"
     },
     "XX6qDA": {
-        "ko": "[오스카]\n꽤 힘든 싸움이었죠? 제가 직접 나서는 것 보다 시간이 걸리긴 했지만 꽤 훌륭했어요.",
-        "en": "[Oscar]\nThat was quite a tough fight, wasn't it? It took longer than if I had stepped in myself, but you did quite well.",
-        "pt": "[Oscar]\nFoi uma batalha complicada, hein? Pelo menos você levou menos tempo que eu levaria.",
-        "es": "[Oscar]\nFue una batalla complicada, ¿eh? Por lo menos tomaste menos tiempo del que yo tomaría."
+        "ko-KR": "[오스카]\n꽤 힘든 싸움이었죠? 제가 직접 나서는 것 보다 시간이 걸리긴 했지만 꽤 훌륭했어요.",
+        "en-US": "[Oscar]\nThat was quite a tough fight, wasn't it? It took longer than if I had stepped in myself, but you did quite well.",
+        "pt-BR": "[Oscar]\nFoi uma batalha complicada, hein? Pelo menos você levou menos tempo que eu levaria.",
+        "es-ES": "[Oscar]\nFue una batalla complicada, ¿eh? Por lo menos tomaste menos tiempo del que yo tomaría."
     },
     "Xn6qDA": {
-        "ko": "[오스카]\n여러 차원의 시간을 여행하면서 직접 전투까지 벌이는건 꽤 많은 힘이 들거든요.",
-        "en": "[Oscar]\nTraveling through time across many dimensions and even fighting in person takes quite a lot of strength.",
-        "pt": "[Oscar]\nÉ bem difícil viajar entre as dimensões do espaço e do tempo, imagina lutar ainda.",
-        "es": "[Oscar]\nEs muy difícil viajar entre las dimensiones del espacio y el tiempo, imagínate pelear además."
+        "ko-KR": "[오스카]\n여러 차원의 시간을 여행하면서 직접 전투까지 벌이는건 꽤 많은 힘이 들거든요.",
+        "en-US": "[Oscar]\nTraveling through time across many dimensions and even fighting in person takes quite a lot of strength.",
+        "pt-BR": "[Oscar]\nÉ bem difícil viajar entre as dimensões do espaço e do tempo, imagina lutar ainda.",
+        "es-ES": "[Oscar]\nEs muy difícil viajar entre las dimensiones del espacio y el tiempo, imagínate pelear además."
     },
     "X36qDA": {
-        "ko": "[오스카]\n아 참 방금 슈미츠 왕의 사념이 소멸하면서 남긴 물품이예요.",
-        "en": "[Oscar]\nOh, right. This is the item that was left behind when King Schmidt's lingering thoughts vanished just now.",
-        "pt": "[Oscar]\nAh, este é um objeto que um dos pensamentos de Schmidt deixou para trás.",
-        "es": "[Oscar]\nAh, este es un objeto que uno de los pensamientos de Schmidt dejó atrás."
+        "ko-KR": "[오스카]\n아 참 방금 슈미츠 왕의 사념이 소멸하면서 남긴 물품이예요.",
+        "en-US": "[Oscar]\nOh, right. This is the item that was left behind when King Schmidt's lingering thoughts vanished just now.",
+        "pt-BR": "[Oscar]\nAh, este é um objeto que um dos pensamentos de Schmidt deixou para trás.",
+        "es-ES": "[Oscar]\nAh, este es un objeto que uno de los pensamientos de Schmidt dejó atrás."
     },
     "YH6qDA": {
-        "ko": "[오스카]\n오, 이런 시간의 결계가 무너질 것 같아요. 일단 어서 나가죠.",
-        "en": "[Oscar]\nOh no, it looks like this time barrier is about to collapse. For now, let's get out of here quickly.",
-        "pt": "[Oscar]\nIh, acho que esse lugar vai entrar em colapso. É melhor darmos o fora daqui.",
-        "es": "[Oscar]\nUy, creo que este lugar va a colapsar. Será mejor que nos larguemos de aquí."
+        "ko-KR": "[오스카]\n오, 이런 시간의 결계가 무너질 것 같아요. 일단 어서 나가죠.",
+        "en-US": "[Oscar]\nOh no, it looks like this time barrier is about to collapse. For now, let's get out of here quickly.",
+        "pt-BR": "[Oscar]\nIh, acho que esse lugar vai entrar em colapso. É melhor darmos o fora daqui.",
+        "es-ES": "[Oscar]\nUy, creo que este lugar va a colapsar. Será mejor que nos larguemos de aquí."
     },
     "YX6qDA": {
-        "ko": "오, 시간의 결계가 버텨줄 시간이 없어보이네, 저도 빠르게 나가야겠어요.",
-        "en": "Oh, it looks like the time barrier won’t hold much longer. I should get out quickly, too.",
-        "pt": "Esse lugar vai colapsar. Vamos embora.",
-        "es": "Este lugar va a colapsar. Vámonos."
+        "ko-KR": "오, 시간의 결계가 버텨줄 시간이 없어보이네, 저도 빠르게 나가야겠어요.",
+        "en-US": "Oh, it looks like the time barrier won’t hold much longer. I should get out quickly, too.",
+        "pt-BR": "Esse lugar vai colapsar. Vamos embora.",
+        "es-ES": "Este lugar va a colapsar. Vámonos."
     },
     "Yn6qDA": {
-        "ko": "좀 더 둘러본다",
-        "en": "Look around a bit more.",
-        "pt": "Dar uma olhada",
-        "es": "Echar un vistazo"
+        "ko-KR": "좀 더 둘러본다",
+        "en-US": "Look around a bit more.",
+        "pt-BR": "Dar uma olhada",
+        "es-ES": "Echar un vistazo"
     },
     "Y36qDA": {
-        "ko": "나간다",
-        "en": "I'm leaving.",
-        "pt": "Ir embora",
-        "es": "Irse"
+        "ko-KR": "나간다",
+        "en-US": "I'm leaving.",
+        "pt-BR": "Ir embora",
+        "es-ES": "Irse"
     },
     "ZH6qDA": {
-        "ko": "[오스카]\n음, 오래는 못기다려 줘요. 저도 곧 나갈 예정이라.",
-        "en": "[Oscar]\nUm, I can't wait too long. I'm planning to head out soon, too.",
-        "pt": "[Oscar]\nBom, não podemos ficar aqui muito tempo.",
-        "es": "[Oscar]\nBueno, no podemos quedarnos aquí mucho tiempo."
+        "ko-KR": "[오스카]\n음, 오래는 못기다려 줘요. 저도 곧 나갈 예정이라.",
+        "en-US": "[Oscar]\nUm, I can't wait too long. I'm planning to head out soon, too.",
+        "pt-BR": "[Oscar]\nBom, não podemos ficar aqui muito tempo.",
+        "es-ES": "[Oscar]\nBueno, no podemos quedarnos aquí mucho tiempo."
     },
     "ZX6qDA": {
-        "ko": "[오스카]\n다른 용건이 있다면 원래의 시간축에서 이야기를 나누도록 해요.",
-        "en": "[Oscar]\nIf you have other business, let’s talk back in the original timeline.",
-        "pt": "[Oscar]\nVamos voltar para a nossa linha do tempo original.",
-        "es": "[Oscar]\nVolvamos a nuestra línea de tiempo original."
+        "ko-KR": "[오스카]\n다른 용건이 있다면 원래의 시간축에서 이야기를 나누도록 해요.",
+        "en-US": "[Oscar]\nIf you have other business, let’s talk back in the original timeline.",
+        "pt-BR": "[Oscar]\nVamos voltar para a nossa linha do tempo original.",
+        "es-ES": "[Oscar]\nVolvamos a nuestra línea de tiempo original."
     }
 }

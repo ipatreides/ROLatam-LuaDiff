@@ -1,707 +1,707 @@
 {
     "QFrVCA": {
-        "en": "Metaling",
-        "pt": "Metaling",
-        "es": "Metaling"
+        "en-US": "Metaling",
+        "pt-BR": "Metaling",
+        "es-ES": "Metaling"
     },
     "QVrVCA": {
-        "en": "Marin",
-        "pt": "Marin",
-        "es": "Marin"
+        "en-US": "Marin",
+        "pt-BR": "Marin",
+        "es-ES": "Marin"
     },
     "QlrVCA": {
-        "en": "Poporing",
-        "pt": "Poporing",
-        "es": "Poporing"
+        "en-US": "Poporing",
+        "pt-BR": "Poporing",
+        "es-ES": "Poporing"
     },
     "Q1rVCA": {
-        "en": "Drops",
-        "pt": "Drops",
-        "es": "Drops"
+        "en-US": "Drops",
+        "pt-BR": "Drops",
+        "es-ES": "Drops"
     },
     "RFrVCA": {
-        "en": "Mastering",
-        "pt": "Mastering",
-        "es": "Mastering"
+        "en-US": "Mastering",
+        "pt-BR": "Mastering",
+        "es-ES": "Mastering"
     },
     "RVrVCA": {
-        "en": "Poring",
-        "pt": "Poring",
-        "es": "Poring"
+        "en-US": "Poring",
+        "pt-BR": "Poring",
+        "es-ES": "Poring"
     },
     "RlrVCA": {
-        "en": "All monsters on the 1st level have been defeated.",
-        "pt": "Todos os monstros no 1º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel1 fueron derrotados."
+        "en-US": "All monsters on the 1st level have been defeated.",
+        "pt-BR": "Todos os monstros no 1º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel1 fueron derrotados."
     },
     "R1rVCA": {
-        "en": "Remaining Monsters on the 1st Level - {0}",
-        "pt": "Monstros restantes no 1º andar - {0}",
-        "es": "Monstruos restantes del nivel1: {0}."
+        "en-US": "Remaining Monsters on the 1st Level - {0}",
+        "pt-BR": "Monstros restantes no 1º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel1: {0}."
     },
     "SFrVCA": {
-        "en": "Desert Wolf",
-        "pt": "Lobo do Deserto",
-        "es": "Desert Wolf"
+        "en-US": "Desert Wolf",
+        "pt-BR": "Lobo do Deserto",
+        "es-ES": "Desert Wolf"
     },
     "SVrVCA": {
-        "en": "Vagabond Wolf",
-        "pt": "Lobo Errante",
-        "es": "Vagabond Wolf"
+        "en-US": "Vagabond Wolf",
+        "pt-BR": "Lobo Errante",
+        "es-ES": "Vagabond Wolf"
     },
     "SlrVCA": {
-        "en": "Baby Desert Wolf",
-        "pt": "Filhote de Lobo",
-        "es": "Baby Desert Wolf"
+        "en-US": "Baby Desert Wolf",
+        "pt-BR": "Filhote de Lobo",
+        "es-ES": "Baby Desert Wolf"
     },
     "S1rVCA": {
-        "en": "All monsters on the 2nd level have been defeated.",
-        "pt": "Todos os monstros no 2º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel2 fueron derrotados."
+        "en-US": "All monsters on the 2nd level have been defeated.",
+        "pt-BR": "Todos os monstros no 2º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel2 fueron derrotados."
     },
     "TFrVCA": {
-        "en": "Remaining Monsters on the 2nd Level - {0}",
-        "pt": "Monstros restantes no 2º andar - {0}",
-        "es": "Monstruos restantes del nivel2: {0}."
+        "en-US": "Remaining Monsters on the 2nd Level - {0}",
+        "pt-BR": "Monstros restantes no 2º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel2: {0}."
     },
     "TVrVCA": {
-        "en": "Archer Skeleton",
-        "pt": "Esqueleto Arqueiro",
-        "es": "Archer Skeleton"
+        "en-US": "Archer Skeleton",
+        "pt-BR": "Esqueleto Arqueiro",
+        "es-ES": "Archer Skeleton"
     },
     "TlrVCA": {
-        "en": "Skel Worker",
-        "pt": "Esqueleto Operário",
-        "es": "Skel Worker"
+        "en-US": "Skel Worker",
+        "pt-BR": "Esqueleto Operário",
+        "es-ES": "Skel Worker"
     },
     "T1rVCA": {
-        "en": "Soldier Skeleton",
-        "pt": "Esqueleto Soldado",
-        "es": "Soldier Skeleton"
+        "en-US": "Soldier Skeleton",
+        "pt-BR": "Esqueleto Soldado",
+        "es-ES": "Soldier Skeleton"
     },
     "UFrVCA": {
-        "en": "Orc Skeleton",
-        "pt": "Orc Esqueleto",
-        "es": "Orc Skeleton"
+        "en-US": "Orc Skeleton",
+        "pt-BR": "Orc Esqueleto",
+        "es-ES": "Orc Skeleton"
     },
     "UVrVCA": {
-        "en": "Pirate Skel",
-        "pt": "Esqueleto Pirata",
-        "es": "Pirate Skel"
+        "en-US": "Pirate Skel",
+        "pt-BR": "Esqueleto Pirata",
+        "es-ES": "Pirate Skel"
     },
     "UlrVCA": {
-        "en": "Skeleton",
-        "pt": "Esqueleto",
-        "es": "Skeleton"
+        "en-US": "Skeleton",
+        "pt-BR": "Esqueleto",
+        "es-ES": "Skeleton"
     },
     "U1rVCA": {
-        "en": "All monsters on the 3rd level have been defeated.",
-        "pt": "Todos os monstros no 3º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel3 fueron derrotados."
+        "en-US": "All monsters on the 3rd level have been defeated.",
+        "pt-BR": "Todos os monstros no 3º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel3 fueron derrotados."
     },
     "VFrVCA": {
-        "en": "Remaining Monsters on the 3rd Level - {0}",
-        "pt": "Monstros restantes no 3º andar - {0}",
-        "es": "Monstruos restantes del nivel3: {0}."
+        "en-US": "Remaining Monsters on the 3rd Level - {0}",
+        "pt-BR": "Monstros restantes no 3º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel3: {0}."
     },
     "VVrVCA": {
-        "en": "Argiope",
-        "pt": "Argiope",
-        "es": "Argiope"
+        "en-US": "Argiope",
+        "pt-BR": "Argiope",
+        "es-ES": "Argiope"
     },
     "VlrVCA": {
-        "en": "Mantis",
-        "pt": "Louva-a-Deus",
-        "es": "Mantis"
+        "en-US": "Mantis",
+        "pt-BR": "Louva-a-Deus",
+        "es-ES": "Mantis"
     },
     "V1rVCA": {
-        "en": "Argos",
-        "pt": "Argos",
-        "es": "Argos"
+        "en-US": "Argos",
+        "pt-BR": "Argos",
+        "es-ES": "Argos"
     },
     "WFrVCA": {
-        "en": "Vocal",
-        "pt": "Vocal",
-        "es": "Vocal"
+        "en-US": "Vocal",
+        "pt-BR": "Vocal",
+        "es-ES": "Vocal"
     },
     "WVrVCA": {
-        "en": "Rocker",
-        "pt": "Rocker",
-        "es": "Rocker"
+        "en-US": "Rocker",
+        "pt-BR": "Rocker",
+        "es-ES": "Rocker"
     },
     "WlrVCA": {
-        "en": "Hornet",
-        "pt": "Zangão",
-        "es": "Hornet"
+        "en-US": "Hornet",
+        "pt-BR": "Zangão",
+        "es-ES": "Hornet"
     },
     "W1rVCA": {
-        "en": "All monsters on the 4th level have been defeated.",
-        "pt": "Todos os monstros no 4º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel4 fueron derrotados."
+        "en-US": "All monsters on the 4th level have been defeated.",
+        "pt-BR": "Todos os monstros no 4º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel4 fueron derrotados."
     },
     "XFrVCA": {
-        "en": "Remaining Monsters on the 4th Level - {0}",
-        "pt": "Monstros restantes no 4º andar - {0}",
-        "es": "Monstruos restantes del nivel4: {0}."
+        "en-US": "Remaining Monsters on the 4th Level - {0}",
+        "pt-BR": "Monstros restantes no 4º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel4: {0}."
     },
     "XVrVCA": {
-        "en": "Thief Bug",
-        "pt": "Besouro-Ladrão",
-        "es": "Thief Bug"
+        "en-US": "Thief Bug",
+        "pt-BR": "Besouro-Ladrão",
+        "es-ES": "Thief Bug"
     },
     "XlrVCA": {
-        "en": "Thief Bug Egg",
-        "pt": "Ovo de Besouro-Ladrão",
-        "es": "Thief Bug Egg"
+        "en-US": "Thief Bug Egg",
+        "pt-BR": "Ovo de Besouro-Ladrão",
+        "es-ES": "Thief Bug Egg"
     },
     "X1rVCA": {
-        "en": "Remaining Monsters on the 5th Level - {0}",
-        "pt": "Monstros restantes no 5º andar - {0}",
-        "es": "Monstruos restantes del nivel5: {0}."
+        "en-US": "Remaining Monsters on the 5th Level - {0}",
+        "pt-BR": "Monstros restantes no 5º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel5: {0}."
     },
     "YFrVCA": {
-        "en": "Golden Thief Bug",
-        "pt": "Besouro-Ladrão Dourado",
-        "es": "Golden Thief Bug"
+        "en-US": "Golden Thief Bug",
+        "pt-BR": "Besouro-Ladrão Dourado",
+        "es-ES": "Golden Thief Bug"
     },
     "YVrVCA": {
-        "en": "All monsters on the 5th level have been defeated.",
-        "pt": "Todos os monstros no 5º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel5 fueron derrotados."
+        "en-US": "All monsters on the 5th level have been defeated.",
+        "pt-BR": "Todos os monstros no 5º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel5 fueron derrotados."
     },
     "YlrVCA": {
-        "en": "Dragon Egg",
-        "pt": "Ovo de Draco",
-        "es": "Dragon Egg"
+        "en-US": "Dragon Egg",
+        "pt-BR": "Ovo de Draco",
+        "es-ES": "Dragon Egg"
     },
     "Y1rVCA": {
-        "en": "Ant Egg",
-        "pt": "Ovo de Andre",
-        "es": "Ant Egg"
+        "en-US": "Ant Egg",
+        "pt-BR": "Ovo de Andre",
+        "es-ES": "Ant Egg"
     },
     "ZFrVCA": {
-        "en": "Pupa",
-        "pt": "Pupa",
-        "es": "Pupa"
+        "en-US": "Pupa",
+        "pt-BR": "Pupa",
+        "es-ES": "Pupa"
     },
     "ZVrVCA": {
-        "en": "All monsters on the 6th level have been defeated.",
-        "pt": "Todos os monstros no 6º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel6 fueron derrotados."
+        "en-US": "All monsters on the 6th level have been defeated.",
+        "pt-BR": "Todos os monstros no 6º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel6 fueron derrotados."
     },
     "ZlrVCA": {
-        "en": "Remaining Monsters on the 6th Level - {0}",
-        "pt": "Monstros restantes no 6º andar- {0}",
-        "es": "Monstruos restantes del nivel6: {0}."
+        "en-US": "Remaining Monsters on the 6th Level - {0}",
+        "pt-BR": "Monstros restantes no 6º andar- {0}",
+        "es-ES": "Monstruos restantes del nivel6: {0}."
     },
     "Z1rVCA": {
-        "en": "Explosion",
-        "pt": "Estrondo",
-        "es": "Explosion"
+        "en-US": "Explosion",
+        "pt-BR": "Estrondo",
+        "es-ES": "Explosion"
     },
     "aFrVCA": {
-        "en": "Drainliar",
-        "pt": "Drainliar",
-        "es": "Drainliar"
+        "en-US": "Drainliar",
+        "pt-BR": "Drainliar",
+        "es-ES": "Drainliar"
     },
     "aVrVCA": {
-        "en": "Anopheles",
-        "pt": "Anopheles",
-        "es": "Anopheles"
+        "en-US": "Anopheles",
+        "pt-BR": "Anopheles",
+        "es-ES": "Anopheles"
     },
     "alrVCA": {
-        "en": "Farmiliar",
-        "pt": "Farmiliar",
-        "es": "Farmiliar"
+        "en-US": "Farmiliar",
+        "pt-BR": "Farmiliar",
+        "es-ES": "Farmiliar"
     },
     "a1rVCA": {
-        "en": "All monsters on the 7th level have been defeated.",
-        "pt": "Todos os monstros no 7º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel7 fueron derrotados."
+        "en-US": "All monsters on the 7th level have been defeated.",
+        "pt-BR": "Todos os monstros no 7º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel7 fueron derrotados."
     },
     "bFrVCA": {
-        "en": "Remaining Monsters on the 7th Level - {0}",
-        "pt": "Monstros restantes no 7º andar - {0}",
-        "es": "Monstruos restantes del nivel7: {0}."
+        "en-US": "Remaining Monsters on the 7th Level - {0}",
+        "pt-BR": "Monstros restantes no 7º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel7: {0}."
     },
     "bVrVCA": {
-        "en": "Firelock Soldier",
-        "pt": "Zumbi Atirador",
-        "es": "Firelock Soldier"
+        "en-US": "Firelock Soldier",
+        "pt-BR": "Zumbi Atirador",
+        "es-ES": "Firelock Soldier"
     },
     "blrVCA": {
-        "en": "Cruiser",
-        "pt": "Soldadinho de Chumbo",
-        "es": "Cruiser"
+        "en-US": "Cruiser",
+        "pt-BR": "Soldadinho de Chumbo",
+        "es-ES": "Cruiser"
     },
     "b1rVCA": {
-        "en": "All monsters on the 8th level have been defeated.",
-        "pt": "Todos os monstros no 8º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel8 fueron derrotados."
+        "en-US": "All monsters on the 8th level have been defeated.",
+        "pt-BR": "Todos os monstros no 8º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel8 fueron derrotados."
     },
     "cFrVCA": {
-        "en": "Remaining Monsters on the 8th Level - {0}",
-        "pt": "Monstros restantes no 8º andar - {0}",
-        "es": "Monstruos restantes del nivel8: {0}."
+        "en-US": "Remaining Monsters on the 8th Level - {0}",
+        "pt-BR": "Monstros restantes no 8º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel8: {0}."
     },
     "cVrVCA": {
-        "en": "Obsidian",
-        "pt": "Obsidiana",
-        "es": "Obsidian"
+        "en-US": "Obsidian",
+        "pt-BR": "Obsidiana",
+        "es-ES": "Obsidian"
     },
     "clrVCA": {
-        "en": "Golem",
-        "pt": "Golem",
-        "es": "Golem"
+        "en-US": "Golem",
+        "pt-BR": "Golem",
+        "es-ES": "Golem"
     },
     "c1rVCA": {
-        "en": "Stapo",
-        "pt": "Stapo",
-        "es": "Stapo"
+        "en-US": "Stapo",
+        "pt-BR": "Stapo",
+        "es-ES": "Stapo"
     },
     "dFrVCA": {
-        "en": "All monsters on the 9th level have been defeated.",
-        "pt": "Todos os monstros no 9º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel9 fueron derrotados."
+        "en-US": "All monsters on the 9th level have been defeated.",
+        "pt-BR": "Todos os monstros no 9º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel9 fueron derrotados."
     },
     "dVrVCA": {
-        "en": "Remaining Monsters on the 9th Level - {0}",
-        "pt": "Monstros restantes no 9º andar - {0}",
-        "es": "Monstruos restantes del nivel9: {0}."
+        "en-US": "Remaining Monsters on the 9th Level - {0}",
+        "pt-BR": "Monstros restantes no 9º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel9: {0}."
     },
     "dlrVCA": {
-        "en": "Giant Hornet",
-        "pt": "Zangão Gigante",
-        "es": "Giant Hornet"
+        "en-US": "Giant Hornet",
+        "pt-BR": "Zangão Gigante",
+        "es-ES": "Giant Hornet"
     },
     "d1rVCA": {
-        "en": "Remaining Monsters on the 10th Level - {0}",
-        "pt": "Monstros restantes no 10º andar - {0}",
-        "es": "Monstruos restantes del nivel10: {0}."
+        "en-US": "Remaining Monsters on the 10th Level - {0}",
+        "pt-BR": "Monstros restantes no 10º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel10: {0}."
     },
     "eFrVCA": {
-        "en": "Mistress",
-        "pt": "Abelha-Rainha",
-        "es": "Mistress"
+        "en-US": "Mistress",
+        "pt-BR": "Abelha-Rainha",
+        "es-ES": "Mistress"
     },
     "eVrVCA": {
-        "en": "All monsters on the 10th level have been defeated.",
-        "pt": "Todos os monstros no 10º andar foram derrotados..",
-        "es": "Todos los monstruos del nivel10 fueron derrotados."
+        "en-US": "All monsters on the 10th level have been defeated.",
+        "pt-BR": "Todos os monstros no 10º andar foram derrotados..",
+        "es-ES": "Todos los monstruos del nivel10 fueron derrotados."
     },
     "elrVCA": {
-        "en": "Dryad",
-        "pt": "Dríade",
-        "es": "Dryad"
+        "en-US": "Dryad",
+        "pt-BR": "Dríade",
+        "es-ES": "Dryad"
     },
     "e1rVCA": {
-        "en": "Parasite",
-        "pt": "Parasita",
-        "es": "Parasite"
+        "en-US": "Parasite",
+        "pt-BR": "Parasita",
+        "es-ES": "Parasite"
     },
     "fFrVCA": {
-        "en": "Hermit Plant",
-        "pt": "Ginseng Selvagem",
-        "es": "Hermit Plant"
+        "en-US": "Hermit Plant",
+        "pt-BR": "Ginseng Selvagem",
+        "es-ES": "Hermit Plant"
     },
     "fVrVCA": {
-        "en": "Rafflesia",
-        "pt": "Planta Carnívora",
-        "es": "Rafflesia"
+        "en-US": "Rafflesia",
+        "pt-BR": "Planta Carnívora",
+        "es-ES": "Rafflesia"
     },
     "flrVCA": {
-        "en": "All monsters on the 11th level have been defeated.",
-        "pt": "Todos os monstros no 11º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel11 fueron derrotados."
+        "en-US": "All monsters on the 11th level have been defeated.",
+        "pt-BR": "Todos os monstros no 11º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel11 fueron derrotados."
     },
     "f1rVCA": {
-        "en": "Remaining Monsters on the 11th Level - {0}",
-        "pt": "Monstros restantes no 11º andar - {0}",
-        "es": "Monstruos restantes del nivel11: {0}."
+        "en-US": "Remaining Monsters on the 11th Level - {0}",
+        "pt-BR": "Monstros restantes no 11º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel11: {0}."
     },
     "gFrVCA": {
-        "en": "Demon Pungus",
-        "pt": "Pungus",
-        "es": "Demon Pungus"
+        "en-US": "Demon Pungus",
+        "pt-BR": "Pungus",
+        "es-ES": "Demon Pungus"
     },
     "gVrVCA": {
-        "en": "Punk",
-        "pt": "Punk",
-        "es": "Punk"
+        "en-US": "Punk",
+        "pt-BR": "Punk",
+        "es-ES": "Punk"
     },
     "glrVCA": {
-        "en": "All monsters on the 12th level have been defeated.",
-        "pt": "Todos os monstros no 12º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel12 fueron derrotados."
+        "en-US": "All monsters on the 12th level have been defeated.",
+        "pt-BR": "Todos os monstros no 12º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel12 fueron derrotados."
     },
     "g1rVCA": {
-        "en": "Remaining Monsters on the 12th Level - {0}",
-        "pt": "Monstros restantes no 12º andar - {0}",
-        "es": "Monstruos restantes del nivel12: {0}."
+        "en-US": "Remaining Monsters on the 12th Level - {0}",
+        "pt-BR": "Monstros restantes no 12º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel12: {0}."
     },
     "hFrVCA": {
-        "en": "Yao Jun",
-        "pt": "Yao Jun",
-        "es": "Yao Jun"
+        "en-US": "Yao Jun",
+        "pt-BR": "Yao Jun",
+        "es-ES": "Yao Jun"
     },
     "hVrVCA": {
-        "en": "Bongun",
-        "pt": "Bongun",
-        "es": "Bongun"
+        "en-US": "Bongun",
+        "pt-BR": "Bongun",
+        "es-ES": "Bongun"
     },
     "hlrVCA": {
-        "en": "Munak",
-        "pt": "Munak",
-        "es": "Munak"
+        "en-US": "Munak",
+        "pt-BR": "Munak",
+        "es-ES": "Munak"
     },
     "h1rVCA": {
-        "en": "All monsters on the 13th level have been defeated.",
-        "pt": "Todos os monstros no 13º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel13 fueron derrotados."
+        "en-US": "All monsters on the 13th level have been defeated.",
+        "pt-BR": "Todos os monstros no 13º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel13 fueron derrotados."
     },
     "iFrVCA": {
-        "en": "Remaining Monsters on the 13th Level - {0}",
-        "pt": "Monstros restantes no 13º andar - {0}",
-        "es": "Monstruos restantes del nivel13: {0}."
+        "en-US": "Remaining Monsters on the 13th Level - {0}",
+        "pt-BR": "Monstros restantes no 13º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel13: {0}."
     },
     "iVrVCA": {
-        "en": "High Orc",
-        "pt": "Grand Orc",
-        "es": "High Orc"
+        "en-US": "High Orc",
+        "pt-BR": "Grand Orc",
+        "es-ES": "High Orc"
     },
     "ilrVCA": {
-        "en": "Orc Archer",
-        "pt": "Orc Arqueiro",
-        "es": "Orc Archer"
+        "en-US": "Orc Archer",
+        "pt-BR": "Orc Arqueiro",
+        "es-ES": "Orc Archer"
     },
     "i1rVCA": {
-        "en": "Orc Lady",
-        "pt": "Senhora Orc",
-        "es": "Orc Lady"
+        "en-US": "Orc Lady",
+        "pt-BR": "Senhora Orc",
+        "es-ES": "Orc Lady"
     },
     "jFrVCA": {
-        "en": "Orc Warrior",
-        "pt": "Guerreiro Orc",
-        "es": "Orc Warrior"
+        "en-US": "Orc Warrior",
+        "pt-BR": "Guerreiro Orc",
+        "es-ES": "Orc Warrior"
     },
     "jVrVCA": {
-        "en": "Orc Baby",
-        "pt": "Filhote de Orc",
-        "es": "Orc Baby"
+        "en-US": "Orc Baby",
+        "pt-BR": "Filhote de Orc",
+        "es-ES": "Orc Baby"
     },
     "jlrVCA": {
-        "en": "All monsters on the 14th level have been defeated.",
-        "pt": "Todos os monstros no 14º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel14 fueron derrotados."
+        "en-US": "All monsters on the 14th level have been defeated.",
+        "pt-BR": "Todos os monstros no 14º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel14 fueron derrotados."
     },
     "j1rVCA": {
-        "en": "Remaining Monsters on the 14th Level - {0}",
-        "pt": "Monstros restantes no 14º andar - {0}",
-        "es": "Monstruos restantes del nivel14: {0}."
+        "en-US": "Remaining Monsters on the 14th Level - {0}",
+        "pt-BR": "Monstros restantes no 14º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel14: {0}."
     },
     "kFrVCA": {
-        "en": "Maya",
-        "pt": "Maya",
-        "es": "Maya"
+        "en-US": "Maya",
+        "pt-BR": "Maya",
+        "es-ES": "Maya"
     },
     "kVrVCA": {
-        "en": "Phreeoni",
-        "pt": "Freeoni",
-        "es": "Phreeoni"
+        "en-US": "Phreeoni",
+        "pt-BR": "Freeoni",
+        "es-ES": "Phreeoni"
     },
     "klrVCA": {
-        "en": "Deniro",
-        "pt": "Deniro",
-        "es": "Deniro"
+        "en-US": "Deniro",
+        "pt-BR": "Deniro",
+        "es-ES": "Deniro"
     },
     "k1rVCA": {
-        "en": "Piere",
-        "pt": "Piere",
-        "es": "Piere"
+        "en-US": "Piere",
+        "pt-BR": "Piere",
+        "es-ES": "Piere"
     },
     "lFrVCA": {
-        "en": "Andre",
-        "pt": "Andre",
-        "es": "Andre"
+        "en-US": "Andre",
+        "pt-BR": "Andre",
+        "es-ES": "Andre"
     },
     "lVrVCA": {
-        "en": "All monsters on the 15th level have been defeated.",
-        "pt": "Todos os monstros no 15º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel15 fueron derrotados."
+        "en-US": "All monsters on the 15th level have been defeated.",
+        "pt-BR": "Todos os monstros no 15º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel15 fueron derrotados."
     },
     "llrVCA": {
-        "en": "Remaining Monsters on the 15th Level - {0}",
-        "pt": "Monstros restantes no 15º andar - {0}",
-        "es": "Monstruos restantes del nivel15: {0}."
+        "en-US": "Remaining Monsters on the 15th Level - {0}",
+        "pt-BR": "Monstros restantes no 15º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel15: {0}."
     },
     "l1rVCA": {
-        "en": "Raydric Archer",
-        "pt": "Raydric Arqueiro",
-        "es": "Raydric Archer"
+        "en-US": "Raydric Archer",
+        "pt-BR": "Raydric Arqueiro",
+        "es-ES": "Raydric Archer"
     },
     "mFrVCA": {
-        "en": "Gargoyle",
-        "pt": "Gárgula",
-        "es": "Gargoyle"
+        "en-US": "Gargoyle",
+        "pt-BR": "Gárgula",
+        "es-ES": "Gargoyle"
     },
     "mVrVCA": {
-        "en": "All monsters on the 16th level have been defeated.",
-        "pt": "Todos os monstros no 16º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel16 fueron derrotados."
+        "en-US": "All monsters on the 16th level have been defeated.",
+        "pt-BR": "Todos os monstros no 16º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel16 fueron derrotados."
     },
     "mlrVCA": {
-        "en": "Remaining Monsters on the 16th Level - {0}",
-        "pt": "Monstros restantes no 16º andar - {0}",
-        "es": "Monstruos restantes del nivel16: {0}."
+        "en-US": "Remaining Monsters on the 16th Level - {0}",
+        "pt-BR": "Monstros restantes no 16º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel16: {0}."
     },
     "m1rVCA": {
-        "en": "Merman",
-        "pt": "Tritão",
-        "es": "Merman"
+        "en-US": "Merman",
+        "pt-BR": "Tritão",
+        "es-ES": "Merman"
     },
     "nFrVCA": {
-        "en": "Baphomet Jr.",
-        "pt": "Bafomé Jr",
-        "es": "Baphomet Jr."
+        "en-US": "Baphomet Jr.",
+        "pt-BR": "Bafomé Jr",
+        "es-ES": "Baphomet Jr."
     },
     "nVrVCA": {
-        "en": "Strouf",
-        "pt": "Strouf",
-        "es": "Strouf"
+        "en-US": "Strouf",
+        "pt-BR": "Strouf",
+        "es-ES": "Strouf"
     },
     "nlrVCA": {
-        "en": "Hill Wind",
-        "pt": "Vento da Colina",
-        "es": "Hill Wind"
+        "en-US": "Hill Wind",
+        "pt-BR": "Vento da Colina",
+        "es-ES": "Hill Wind"
     },
     "n1rVCA": {
-        "en": "All monsters on the 17th level have been defeated.",
-        "pt": "Todos os monstros no 17º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel17 fueron derrotados."
+        "en-US": "All monsters on the 17th level have been defeated.",
+        "pt-BR": "Todos os monstros no 17º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel17 fueron derrotados."
     },
     "oFrVCA": {
-        "en": "Remaining Monsters on the 17th Level - {0}",
-        "pt": "Monstros restantes no 17º andar - {0}",
-        "es": "Monstruos restantes del nivel17: {0}."
+        "en-US": "Remaining Monsters on the 17th Level - {0}",
+        "pt-BR": "Monstros restantes no 17º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel17: {0}."
     },
     "oVrVCA": {
-        "en": "Cramp",
-        "pt": "Cáibra",
-        "es": "Cramp"
+        "en-US": "Cramp",
+        "pt-BR": "Cáibra",
+        "es-ES": "Cramp"
     },
     "olrVCA": {
-        "en": "Tarou",
-        "pt": "Tarou",
-        "es": "Tarou"
+        "en-US": "Tarou",
+        "pt-BR": "Tarou",
+        "es-ES": "Tarou"
     },
     "o1rVCA": {
-        "en": "All monsters on the 18th level have been defeated.",
-        "pt": "Todos os monstros no 18º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel18 fueron derrotados."
+        "en-US": "All monsters on the 18th level have been defeated.",
+        "pt-BR": "Todos os monstros no 18º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel18 fueron derrotados."
     },
     "pFrVCA": {
-        "en": "Remaining Monsters on the 18th Level - {0}",
-        "pt": "Monstros restantes no 18º andar - {0}",
-        "es": "Monstruos restantes del nivel18: {0}."
+        "en-US": "Remaining Monsters on the 18th Level - {0}",
+        "pt-BR": "Monstros restantes no 18º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel18: {0}."
     },
     "pVrVCA": {
-        "en": "Deviace",
-        "pt": "Deviace",
-        "es": "Deviace"
+        "en-US": "Deviace",
+        "pt-BR": "Deviace",
+        "es-ES": "Deviace"
     },
     "plrVCA": {
-        "en": "Megalodon",
-        "pt": "Megalodon",
-        "es": "Megalodon"
+        "en-US": "Megalodon",
+        "pt-BR": "Megalodon",
+        "es-ES": "Megalodon"
     },
     "p1rVCA": {
-        "en": "Sword Fish",
-        "pt": "Peixe-Espada",
-        "es": "Sword Fish"
+        "en-US": "Sword Fish",
+        "pt-BR": "Peixe-Espada",
+        "es-ES": "Sword Fish"
     },
     "qFrVCA": {
-        "en": "Phen",
-        "pt": "Fen",
-        "es": "Phen"
+        "en-US": "Phen",
+        "pt-BR": "Fen",
+        "es-ES": "Phen"
     },
     "qVrVCA": {
-        "en": "All monsters on the 19th level have been defeated.",
-        "pt": "Todos os monstros no 19º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel19 fueron derrotados."
+        "en-US": "All monsters on the 19th level have been defeated.",
+        "pt-BR": "Todos os monstros no 19º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel19 fueron derrotados."
     },
     "qlrVCA": {
-        "en": "Remaining Monsters on the 19th Level - {0}",
-        "pt": "Monstros restantes no 19º andar - {0}",
-        "es": "Monstruos restantes del nivel19: {0}."
+        "en-US": "Remaining Monsters on the 19th Level - {0}",
+        "pt-BR": "Monstros restantes no 19º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel19: {0}."
     },
     "q1rVCA": {
-        "en": "Drake",
-        "pt": "Drake",
-        "es": "Drake"
+        "en-US": "Drake",
+        "pt-BR": "Drake",
+        "es-ES": "Drake"
     },
     "rFrVCA": {
-        "en": "Pirate Skeleton",
-        "pt": "Esqueleto Pirata",
-        "es": "Pirate Skeleton"
+        "en-US": "Pirate Skeleton",
+        "pt-BR": "Esqueleto Pirata",
+        "es-ES": "Pirate Skeleton"
     },
     "rVrVCA": {
-        "en": "All monsters on the 20th level have been defeated.",
-        "pt": "Todos os monstros no 20º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel20 fueron derrotados."
+        "en-US": "All monsters on the 20th level have been defeated.",
+        "pt-BR": "Todos os monstros no 20º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel20 fueron derrotados."
     },
     "rlrVCA": {
-        "en": "Remaining Monsters on the 20th Level - {0}",
-        "pt": "Monstros restantes no 20º andar - {0}",
-        "es": "Monstruos restantes del nivel20: {0}."
+        "en-US": "Remaining Monsters on the 20th Level - {0}",
+        "pt-BR": "Monstros restantes no 20º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel20: {0}."
     },
     "r1rVCA": {
-        "en": "Plasma",
-        "pt": "Plasma",
-        "es": "Plasma"
+        "en-US": "Plasma",
+        "pt-BR": "Plasma",
+        "es-ES": "Plasma"
     },
     "sFrVCA": {
-        "en": "All monsters on the 21st level have been defeated.",
-        "pt": "Todos os monstros no 21º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel21 fueron derrotados."
+        "en-US": "All monsters on the 21st level have been defeated.",
+        "pt-BR": "Todos os monstros no 21º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel21 fueron derrotados."
     },
     "sVrVCA": {
-        "en": "Remaining Monsters on the 21st Level - {0}",
-        "pt": "Monstros restantes no 21º andar - {0}",
-        "es": "Monstruos restantes del nivel21: {0}."
+        "en-US": "Remaining Monsters on the 21st Level - {0}",
+        "pt-BR": "Monstros restantes no 21º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel21: {0}."
     },
     "slrVCA": {
-        "en": "Muscipular",
-        "pt": "Muscipular",
-        "es": "Muscipular"
+        "en-US": "Muscipular",
+        "pt-BR": "Muscipular",
+        "es-ES": "Muscipular"
     },
     "s1rVCA": {
-        "en": "Drosera",
-        "pt": "Drosera",
-        "es": "Drosera"
+        "en-US": "Drosera",
+        "pt-BR": "Drosera",
+        "es-ES": "Drosera"
     },
     "tFrVCA": {
-        "en": "Flora",
-        "pt": "Flora",
-        "es": "Flora"
+        "en-US": "Flora",
+        "pt-BR": "Flora",
+        "es-ES": "Flora"
     },
     "tVrVCA": {
-        "en": "Hydra",
-        "pt": "Hidra",
-        "es": "Hydra"
+        "en-US": "Hydra",
+        "pt-BR": "Hidra",
+        "es-ES": "Hydra"
     },
     "tlrVCA": {
-        "en": "Mandragora",
-        "pt": "Mandragora",
-        "es": "Mandragora"
+        "en-US": "Mandragora",
+        "pt-BR": "Mandragora",
+        "es-ES": "Mandragora"
     },
     "t1rVCA": {
-        "en": "All monsters on the 22nd level have been defeated.",
-        "pt": "Todos os monstros no 22º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel22 fueron derrotados."
+        "en-US": "All monsters on the 22nd level have been defeated.",
+        "pt-BR": "Todos os monstros no 22º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel22 fueron derrotados."
     },
     "uFrVCA": {
-        "en": "Remaining Monsters on the 22nd Level - {0}",
-        "pt": "Monstros restantes no 22º andar - {0}",
-        "es": "Monstruos restantes del nivel22: {0}."
+        "en-US": "Remaining Monsters on the 22nd Level - {0}",
+        "pt-BR": "Monstros restantes no 22º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel22: {0}."
     },
     "uVrVCA": {
-        "en": "Penomena",
-        "pt": "Penomena",
-        "es": "Penomena"
+        "en-US": "Penomena",
+        "pt-BR": "Penomena",
+        "es-ES": "Penomena"
     },
     "ulrVCA": {
-        "en": "Obeaune",
-        "pt": "Obeaune",
-        "es": "Obeaune"
+        "en-US": "Obeaune",
+        "pt-BR": "Obeaune",
+        "es-ES": "Obeaune"
     },
     "u1rVCA": {
-        "en": "Marse",
-        "pt": "Cavalo-Marinho",
-        "es": "Marse"
+        "en-US": "Marse",
+        "pt-BR": "Cavalo-Marinho",
+        "es-ES": "Marse"
     },
     "vFrVCA": {
-        "en": "All monsters on the 23rd level have been defeated.",
-        "pt": "Todos os monstros no 23º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel23 fueron derrotados."
+        "en-US": "All monsters on the 23rd level have been defeated.",
+        "pt-BR": "Todos os monstros no 23º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel23 fueron derrotados."
     },
     "vVrVCA": {
-        "en": "Remaining Monsters on the 23rd Level - {0}",
-        "pt": "Monstros restantes no 23º andar - {0}",
-        "es": "Monstruos restantes del nivel23: {0}."
+        "en-US": "Remaining Monsters on the 23rd Level - {0}",
+        "pt-BR": "Monstros restantes no 23º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel23: {0}."
     },
     "vlrVCA": {
-        "en": "Joker",
-        "pt": "Coringa",
-        "es": "Joker"
+        "en-US": "Joker",
+        "pt-BR": "Coringa",
+        "es-ES": "Joker"
     },
     "v1rVCA": {
-        "en": "Carat",
-        "pt": "Carat",
-        "es": "Carat"
+        "en-US": "Carat",
+        "pt-BR": "Carat",
+        "es-ES": "Carat"
     },
     "wFrVCA": {
-        "en": "Jakk",
-        "pt": "Jakk",
-        "es": "Jakk"
+        "en-US": "Jakk",
+        "pt-BR": "Jakk",
+        "es-ES": "Jakk"
     },
     "wVrVCA": {
-        "en": "All monsters on the 24th level have been defeated.",
-        "pt": "Todos os monstros no 24º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel24 fueron derrotados."
+        "en-US": "All monsters on the 24th level have been defeated.",
+        "pt-BR": "Todos os monstros no 24º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel24 fueron derrotados."
     },
     "wlrVCA": {
-        "en": "Remaining Monsters on the 24th Level - {0}",
-        "pt": "Monstros restantes no 24º andar - {0}",
-        "es": "Monstruos restantes del nivel24: {0}."
+        "en-US": "Remaining Monsters on the 24th Level - {0}",
+        "pt-BR": "Monstros restantes no 24º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel24: {0}."
     },
     "w1rVCA": {
-        "en": "Cat O' Nine Tails",
-        "pt": "Gato de Nove Caudas",
-        "es": "Cat O' Nine Tails"
+        "en-US": "Cat O' Nine Tails",
+        "pt-BR": "Gato de Nove Caudas",
+        "es-ES": "Cat O' Nine Tails"
     },
     "xFrVCA": {
-        "en": "Moonlight",
-        "pt": "Flor do Luar",
-        "es": "Moonlight"
+        "en-US": "Moonlight",
+        "pt-BR": "Flor do Luar",
+        "es-ES": "Moonlight"
     },
     "xVrVCA": {
-        "en": "Nine Tail",
-        "pt": "Nove Caudas",
-        "es": "Nine Tail"
+        "en-US": "Nine Tail",
+        "pt-BR": "Nove Caudas",
+        "es-ES": "Nine Tail"
     },
     "xlrVCA": {
-        "en": "All monsters on the 25th level have been defeated.",
-        "pt": "Todos os monstros no 25º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel25 fueron derrotados."
+        "en-US": "All monsters on the 25th level have been defeated.",
+        "pt-BR": "Todos os monstros no 25º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel25 fueron derrotados."
     },
     "x1rVCA": {
-        "en": "Remaining Monsters on the 25th Level - {0}",
-        "pt": "Monstros restantes no 25º andar - {0}",
-        "es": "Monstruos restantes del nivel25: {0}."
+        "en-US": "Remaining Monsters on the 25th Level - {0}",
+        "pt-BR": "Monstros restantes no 25º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel25: {0}."
     },
     "yFrVCA": {
-        "en": "Please enter the password.",
-        "pt": "Digite a senha.",
-        "es": "Introduce la contraseña."
+        "en-US": "Please enter the password.",
+        "pt-BR": "Digite a senha.",
+        "es-ES": "Introduce la contraseña."
     },
     "yVrVCA": {
-        "en": "This NPC manages the tower from the 1st to the 25th levels.\nPlease enter the level number to open.\n(i.g.: 1F»1, 17F»17)",
-        "pt": "Esse NPC gerencia a torre do 1º ao 25º níveis.\nDigite o número do nível a ser aberto.\n(ex.: 1F»1, 17F»17)",
-        "es": "Este NPC gestiona la torre desde el nivel 1 al 25.\nIntroduce el número del nivel que deseas abrir.\nPor ejemplo: P1»1, P17»17."
+        "en-US": "This NPC manages the tower from the 1st to the 25th levels.\nPlease enter the level number to open.\n(i.g.: 1F»1, 17F»17)",
+        "pt-BR": "Esse NPC gerencia a torre do 1º ao 25º níveis.\nDigite o número do nível a ser aberto.\n(ex.: 1F»1, 17F»17)",
+        "es-ES": "Este NPC gestiona la torre desde el nivel 1 al 25.\nIntroduce el número del nivel que deseas abrir.\nPor ejemplo: P1»1, P17»17."
     },
     "ylrVCA": {
-        "en": "You can only enter a number from 1 to 25.",
-        "pt": "Você só pode inserir um número de 1 a 25.",
-        "es": "Solo puedes introducir un número del 1 al 25."
+        "en-US": "You can only enter a number from 1 to 25.",
+        "pt-BR": "Você só pode inserir um número de 1 a 25.",
+        "es-ES": "Solo puedes introducir un número del 1 al 25."
     },
     "y1rVCA": {
-        "en": "{0}FGate102tower",
-        "pt": "{0}FGate102tower",
-        "es": "{0}FGate102tower"
+        "en-US": "{0}FGate102tower",
+        "pt-BR": "{0}FGate102tower",
+        "es-ES": "{0}FGate102tower"
     },
     "zFrVCA": {
-        "en": "*** Level {0} is now being opened. ***",
-        "pt": "*** O nível {0} está sendo aberto. ***",
-        "es": "*** El nivel {0} se está abriendo. ***"
+        "en-US": "*** Level {0} is now being opened. ***",
+        "pt-BR": "*** O nível {0} está sendo aberto. ***",
+        "es-ES": "*** El nivel {0} se está abriendo. ***"
     }
 }

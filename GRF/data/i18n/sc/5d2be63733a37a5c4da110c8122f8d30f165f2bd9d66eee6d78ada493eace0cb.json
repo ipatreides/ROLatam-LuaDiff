@@ -1,170 +1,170 @@
 {
     "IIUjCg": {
-        "ko": "가위바위보 맨",
-        "en": "Gamescom Man",
-        "pt": "Homem da Gamescom",
-        "es": "Hombre de la Gamescom"
+        "ko-KR": "가위바위보 맨",
+        "en-US": "Gamescom Man",
+        "pt-BR": "Homem da Gamescom",
+        "es-ES": "Hombre de la Gamescom"
     },
     "IYUjCg": {
-        "ko": "[가위바위보 맨]",
-        "en": "[Gamescom Man]",
-        "pt": "[Homem da Gamescom]",
-        "es": "[Hombre de la Gamescom]"
+        "ko-KR": "[가위바위보 맨]",
+        "en-US": "[Gamescom Man]",
+        "pt-BR": "[Homem da Gamescom]",
+        "es-ES": "[Hombre de la Gamescom]"
     },
     "IoUjCg": {
-        "ko": "저와 가위바위보 게임을 해보겠어요? 2번 이상 이기는 쪽이 승리입니다!",
-        "en": "Do you want to play rock-paper-scissors with me? Whoever wins more than 2 times wins!",
-        "pt": "Você gostaria de jogar pedra-papel-tesoura comigo? Quem ganhar 2 ou mais vezes ganha!",
-        "es": "¿Te gustaría jugar a piedra, papel o tijera conmigo? ¡Quien gane 2 o más veces, gana!"
+        "ko-KR": "저와 가위바위보 게임을 해보겠어요? 2번 이상 이기는 쪽이 승리입니다!",
+        "en-US": "Do you want to play rock-paper-scissors with me? Whoever wins more than 2 times wins!",
+        "pt-BR": "Você gostaria de jogar pedra-papel-tesoura comigo? Quem ganhar 2 ou mais vezes ganha!",
+        "es-ES": "¿Te gustaría jugar a piedra, papel o tijera conmigo? ¡Quien gane 2 o más veces, gana!"
     },
     "I4UjCg": {
-        "ko": "게임을 한다",
-        "en": "Play",
-        "pt": "Jogar",
-        "es": "Jugar"
+        "ko-KR": "게임을 한다",
+        "en-US": "Play",
+        "pt-BR": "Jogar",
+        "es-ES": "Jugar"
     },
     "JIUjCg": {
-        "ko": "취소",
-        "en": "cancellation",
-        "pt": "Cancelar",
-        "es": "cancelación"
+        "ko-KR": "취소",
+        "en-US": "cancellation",
+        "pt-BR": "Cancelar",
+        "es-ES": "cancelación"
     },
     "JYUjCg": {
-        "ko": "^F7F7F7admin^000000",
-        "en": "^F7F7F7admin^000000",
-        "pt": "^F7F7F7admin^000000",
-        "es": "^F7F7F7admin^000000"
+        "ko-KR": "^F7F7F7admin^000000",
+        "en-US": "^F7F7F7admin^000000",
+        "pt-BR": "^F7F7F7admin^000000",
+        "es-ES": "^F7F7F7admin^000000"
     },
     "JoUjCg": {
-        "ko": "다음에 또 봐요~",
-        "en": "See you next time~",
-        "pt": "Até a próxima~",
-        "es": "Nos vemos la próxima vez~"
+        "ko-KR": "다음에 또 봐요~",
+        "en-US": "See you next time~",
+        "pt-BR": "Até a próxima~",
+        "es-ES": "Nos vemos la próxima vez~"
     },
     "J4UjCg": {
-        "ko": "Bye~",
-        "en": "Bye~",
-        "pt": "Tchau~",
-        "es": "Adios~"
+        "ko-KR": "Bye~",
+        "en-US": "Bye~",
+        "pt-BR": "Tchau~",
+        "es-ES": "Adios~"
     },
     "KIUjCg": {
-        "ko": "ON",
-        "en": "ON",
-        "pt": "ON",
-        "es": "ON"
+        "ko-KR": "ON",
+        "en-US": "ON",
+        "pt-BR": "ON",
+        "es-ES": "ON"
     },
     "KYUjCg": {
-        "ko": "OFF",
-        "en": "OFF",
-        "pt": "OFF",
-        "es": "OFF"
+        "ko-KR": "OFF",
+        "en-US": "OFF",
+        "pt-BR": "OFF",
+        "es-ES": "OFF"
     },
     "KoUjCg": {
-        "ko": "Easy Mode : {}\n이지모드를 켤까요?",
-        "en": "Easy Mode: {}\nWould you like to turn on Easy Mode?",
-        "pt": "Modo Fácil: {}\nGostaria de ativar o Modo Fácil?",
-        "es": "Modo fácil: {}\n¿Quieres activar el Modo fácil?"
+        "ko-KR": "Easy Mode : {}\n이지모드를 켤까요?",
+        "en-US": "Easy Mode: {}\nWould you like to turn on Easy Mode?",
+        "pt-BR": "Modo Fácil: {}\nGostaria de ativar o Modo Fácil?",
+        "es-ES": "Modo fácil: {}\n¿Quieres activar el Modo fácil?"
     },
     "K4UjCg": {
-        "ko": "ON",
-        "en": "ON",
-        "pt": "ON",
-        "es": "ON"
+        "ko-KR": "ON",
+        "en-US": "ON",
+        "pt-BR": "ON",
+        "es-ES": "ON"
     },
     "LIUjCg": {
-        "ko": "OFF",
-        "en": "OFF",
-        "pt": "OFF",
-        "es": "OFF"
+        "ko-KR": "OFF",
+        "en-US": "OFF",
+        "pt-BR": "OFF",
+        "es-ES": "OFF"
     },
     "LYUjCg": {
-        "ko": "Easy Mode : ON",
-        "en": "Easy Mode : ON",
-        "pt": "Modo Fácil: LIGADO",
-        "es": "Modo fácil: ACTIVADO"
+        "ko-KR": "Easy Mode : ON",
+        "en-US": "Easy Mode : ON",
+        "pt-BR": "Modo Fácil: LIGADO",
+        "es-ES": "Modo fácil: ACTIVADO"
     },
     "LoUjCg": {
-        "ko": "Easy Mode : OFF",
-        "en": "Easy Mode : OFF",
-        "pt": "Modo Fácil: DESLIGADO",
-        "es": "Modo fácil: APAGADO"
+        "ko-KR": "Easy Mode : OFF",
+        "en-US": "Easy Mode : OFF",
+        "pt-BR": "Modo Fácil: DESLIGADO",
+        "es-ES": "Modo fácil: APAGADO"
     },
     "L4UjCg": {
-        "ko": "어떤 걸 낼까요?",
-        "en": "What should I bring?",
-        "pt": "O que devo tentar?",
-        "es": "¿Qué debería probar?"
+        "ko-KR": "어떤 걸 낼까요?",
+        "en-US": "What should I bring?",
+        "pt-BR": "O que devo tentar?",
+        "es-ES": "¿Qué debería probar?"
     },
     "MIUjCg": {
-        "ko": "바위",
-        "en": "Rock",
-        "pt": "Pedra",
-        "es": "Piedra"
+        "ko-KR": "바위",
+        "en-US": "Rock",
+        "pt-BR": "Pedra",
+        "es-ES": "Piedra"
     },
     "MYUjCg": {
-        "ko": "보자기",
-        "en": "Paper",
-        "pt": "Papel",
-        "es": "Papel"
+        "ko-KR": "보자기",
+        "en-US": "Paper",
+        "pt-BR": "Papel",
+        "es-ES": "Papel"
     },
     "MoUjCg": {
-        "ko": "가위",
-        "en": "Scissors",
-        "pt": "Tesoura",
-        "es": "Tijera"
+        "ko-KR": "가위",
+        "en-US": "Scissors",
+        "pt-BR": "Tesoura",
+        "es-ES": "Tijera"
     },
     "M4UjCg": {
-        "ko": "결정했나요? 좋아요. 갑시다!",
-        "en": "Have you decided? Okay. Let's go!",
-        "pt": "Você já decidiu? Ótimo. Vamos!",
-        "es": "¿Ya lo has decidido? excelente. ¡Vamos!"
+        "ko-KR": "결정했나요? 좋아요. 갑시다!",
+        "en-US": "Have you decided? Okay. Let's go!",
+        "pt-BR": "Você já decidiu? Ótimo. Vamos!",
+        "es-ES": "¿Ya lo has decidido? excelente. ¡Vamos!"
     },
     "NIUjCg": {
-        "ko": "당신이 이겼군요!",
-        "en": "You win!",
-        "pt": "Você venceu!",
-        "es": "¡Tú ganas!"
+        "ko-KR": "당신이 이겼군요!",
+        "en-US": "You win!",
+        "pt-BR": "Você venceu!",
+        "es-ES": "¡Tú ganas!"
     },
     "NYUjCg": {
-        "ko": "하지만 기회는 남아있다구요.\n한번 더 가볼까요?",
-        "en": "But there's still a chance. Should we try again?",
-        "pt": "Mas ainda há uma chance. Deveríamos ir mais uma vez?",
-        "es": "Pero todavía hay una posibilidad. ¿Deberíamos ir una vez más?"
+        "ko-KR": "하지만 기회는 남아있다구요.\n한번 더 가볼까요?",
+        "en-US": "But there's still a chance. Should we try again?",
+        "pt-BR": "Mas ainda há uma chance. Deveríamos ir mais uma vez?",
+        "es-ES": "Pero todavía hay una posibilidad. ¿Deberíamos ir una vez más?"
     },
     "NoUjCg": {
-        "ko": "비겼네요!\n한번 더 가볼까요?",
-        "en": "It's a draw! Shall we go again?",
-        "pt": "Empatou! Deveríamos ir mais uma vez?",
-        "es": "¡Es un empate! ¿Deberíamos ir una vez más?"
+        "ko-KR": "비겼네요!\n한번 더 가볼까요?",
+        "en-US": "It's a draw! Shall we go again?",
+        "pt-BR": "Empatou! Deveríamos ir mais uma vez?",
+        "es-ES": "¡Es un empate! ¿Deberíamos ir una vez más?"
     },
     "N4UjCg": {
-        "ko": "당신이 졌군요!",
-        "en": "You lost!",
-        "pt": "Você perdeu!",
-        "es": "¡Perdiste!"
+        "ko-KR": "당신이 졌군요!",
+        "en-US": "You lost!",
+        "pt-BR": "Você perdeu!",
+        "es-ES": "¡Perdiste!"
     },
     "OIUjCg": {
-        "ko": "최종 스코어\n승리 : {}\n무승부 : {}\n패배 : {}",
-        "en": "Final Score \nWin: {} \nDraw: {} \nLoss: {}",
-        "pt": "Placar Final \nVitória: {} \nEmpate: {} \nDerrota: {}",
-        "es": "Resultado final \nVictoria: {} \nEmpate: {} \nDerrota: {}"
+        "ko-KR": "최종 스코어\n승리 : {}\n무승부 : {}\n패배 : {}",
+        "en-US": "Final Score \nWin: {} \nDraw: {} \nLoss: {}",
+        "pt-BR": "Placar Final \nVitória: {} \nEmpate: {} \nDerrota: {}",
+        "es-ES": "Resultado final \nVictoria: {} \nEmpate: {} \nDerrota: {}"
     },
     "OYUjCg": {
-        "ko": "당신의 승리입니다. 축하합니다!",
-        "en": "It's your victory. Congratulations!",
-        "pt": "Você ganhou! Parabéns!",
-        "es": "Es tu victoria. ¡Felicidades!"
+        "ko-KR": "당신의 승리입니다. 축하합니다!",
+        "en-US": "It's your victory. Congratulations!",
+        "pt-BR": "Você ganhou! Parabéns!",
+        "es-ES": "Es tu victoria. ¡Felicidades!"
     },
     "OoUjCg": {
-        "ko": "당신의 패배입니다. 아쉽습니다.",
-        "en": "It's your loss. It's a shame.",
-        "pt": "Você perdeu! Que pena.",
-        "es": "Es tu derrota. Eso es muy malo."
+        "ko-KR": "당신의 패배입니다. 아쉽습니다.",
+        "en-US": "It's your loss. It's a shame.",
+        "pt-BR": "Você perdeu! Que pena.",
+        "es-ES": "Es tu derrota. Eso es muy malo."
     },
     "O4UjCg": {
-        "ko": "비겼군요. 멋진 승부였습니다.",
-        "en": "It's a draw. It was a great match.",
-        "pt": "Empatamos! Foi uma ótima partida.",
-        "es": "Es un empate. Fue un gran partido."
+        "ko-KR": "비겼군요. 멋진 승부였습니다.",
+        "en-US": "It's a draw. It was a great match.",
+        "pt-BR": "Empatamos! Foi uma ótima partida.",
+        "es-ES": "Es un empate. Fue un gran partido."
     }
 }

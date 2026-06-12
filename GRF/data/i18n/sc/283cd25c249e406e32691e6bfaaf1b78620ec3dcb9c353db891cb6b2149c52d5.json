@@ -1,92 +1,92 @@
 {
     "wCQYCA": {
-        "ko": "발키리 레긴레이브",
-        "en": "Valkyrie Reginleif",
-        "pt": "Valquíria Reginleif",
-        "es": "Valquiria Reginleif"
+        "ko-KR": "발키리 레긴레이브",
+        "en-US": "Valkyrie Reginleif",
+        "pt-BR": "Valquíria Reginleif",
+        "es-ES": "Valquiria Reginleif"
     },
     "wSQYCA": {
-        "ko": "발키리 레긴레이브 : 몹시 탐이 나는 전사가 나타났구나!",
-        "en": "Valkyrie Reginleif : A warrior I greatly expected has appeared!",
-        "pt": "Valquíria Reginleif: Você fará seu túmulo neste Templo!",
-        "es": "Valquiria Reginleif: ¡Ha aparecido un guerrero muy codiciado!"
+        "ko-KR": "발키리 레긴레이브 : 몹시 탐이 나는 전사가 나타났구나!",
+        "en-US": "Valkyrie Reginleif : A warrior I greatly expected has appeared!",
+        "pt-BR": "Valquíria Reginleif: Você fará seu túmulo neste Templo!",
+        "es-ES": "Valquiria Reginleif: ¡Ha aparecido un guerrero muy codiciado!"
     },
     "wiQYCA": {
-        "ko": "발키리 레긴레이브는 안식처로 몸을 피해 전세를 가다듬습니다.",
-        "en": "Valkyrie Reginleif retreats to the sanctuary.",
-        "pt": "A Valquíria Reginleif retorna ao paraíso.",
-        "es": "Valquiria Reginleif se refugia en el santuario y reorganiza sus fuerzas."
+        "ko-KR": "발키리 레긴레이브는 안식처로 몸을 피해 전세를 가다듬습니다.",
+        "en-US": "Valkyrie Reginleif retreats to the sanctuary.",
+        "pt-BR": "A Valquíria Reginleif retorna ao paraíso.",
+        "es-ES": "Valquiria Reginleif se refugia en el santuario y reorganiza sus fuerzas."
     },
     "wyQYCA": {
-        "ko": "확인",
-        "en": "Confirm",
-        "pt": "Confirmar",
-        "es": "Confirmar"
+        "ko-KR": "확인",
+        "en-US": "Confirm",
+        "pt-BR": "Confirmar",
+        "es-ES": "Confirmar"
     },
     "xCQYCA": {
-        "ko": "현재 발키리 레긴레이브는",
-        "en": "Currently, Valkyrie Reginleif is",
-        "pt": "Atualmente, Valkyrie Reginleif está",
-        "es": "Actualmente, Valquiria Reginleif está"
+        "ko-KR": "현재 발키리 레긴레이브는",
+        "en-US": "Currently, Valkyrie Reginleif is",
+        "pt-BR": "Atualmente, Valkyrie Reginleif está",
+        "es-ES": "Actualmente, Valquiria Reginleif está"
     },
     "xSQYCA": {
-        "ko": "odin_past.gat {0} {1}에 있음\n처치한 수치는 {2}임",
-        "en": "at odin_past.gat {0} {1}\nNumber of monsters defeated: {2}",
-        "pt": "em odin_past.gat {0} {1}\nA contagem de monstros atual é de: {2}",
-        "es": "odin_past.gat {0} {1} se encuentra en\nLa cifra de derrotas es {2}"
+        "ko-KR": "odin_past.gat {0} {1}에 있음\n처치한 수치는 {2}임",
+        "en-US": "at odin_past.gat {0} {1}\nNumber of monsters defeated: {2}",
+        "pt-BR": "em odin_past.gat {0} {1}\nA contagem de monstros atual é de: {2}",
+        "es-ES": "odin_past.gat {0} {1} se encuentra en\nLa cifra de derrotas es {2}"
     },
     "xiQYCA": {
-        "ko": "없음. 처치한 수치는 {0}임",
-        "en": "The Valkyrie has not appeared. Number of monsters defeated: {0}",
-        "pt": "A Valquíria não apareceu. A contagem de monstros atual é de {0}",
-        "es": "No hay. La cifra de derrotas es {0}"
+        "ko-KR": "없음. 처치한 수치는 {0}임",
+        "en-US": "The Valkyrie has not appeared. Number of monsters defeated: {0}",
+        "pt-BR": "A Valquíria não apareceu. A contagem de monstros atual é de {0}",
+        "es-ES": "No hay. La cifra de derrotas es {0}"
     },
     "xyQYCA": {
-        "ko": "보스는 {0}에 죽었고 쿨타임 끝나길 기다리는 중이야",
-        "en": "The Valkyrie died at {0} and is waiting for the cooldown to respawn.",
-        "pt": "A Valquíria morreu às {0} e está aguardando o tempo de renascimento.",
-        "es": "El jefe murió a las {0} y está esperando a que termine el tiempo de reutilización."
+        "ko-KR": "보스는 {0}에 죽었고 쿨타임 끝나길 기다리는 중이야",
+        "en-US": "The Valkyrie died at {0} and is waiting for the cooldown to respawn.",
+        "pt-BR": "A Valquíria morreu às {0} e está aguardando o tempo de renascimento.",
+        "es-ES": "El jefe murió a las {0} y está esperando a que termine el tiempo de reutilización."
     },
     "yCQYCA": {
-        "ko": "보스가 소환되려면 기다려야 돼.",
-        "en": "You must wait for the Valkyrie to be summoned.",
-        "pt": "Você deve aguardar a invocação da Valquíria.",
-        "es": "Debes esperar para que el jefe sea invocado."
+        "ko-KR": "보스가 소환되려면 기다려야 돼.",
+        "en-US": "You must wait for the Valkyrie to be summoned.",
+        "pt-BR": "Você deve aguardar a invocação da Valquíria.",
+        "es-ES": "Debes esperar para que el jefe sea invocado."
     },
     "ySQYCA": {
-        "ko": "발키리 잉그리드",
-        "en": "Valkyrie Ingrid",
-        "pt": "Valquíria Ingrid",
-        "es": "Valquiria Ingrid"
+        "ko-KR": "발키리 잉그리드",
+        "en-US": "Valkyrie Ingrid",
+        "pt-BR": "Valquíria Ingrid",
+        "es-ES": "Valquiria Ingrid"
     },
     "yiQYCA": {
-        "ko": "발키리 잉그리드 : 강인한 전사여, 그대는 나에게 오라.",
-        "en": "Valkyrie Ingrid : Stalwart warrior, come to me.",
-        "pt": "Valquíria Ingrid: Viajante Inabalável, venha me enfrentar.",
-        "es": "Valquiria Ingrid: Guerrero fuerte, ven a mí."
+        "ko-KR": "발키리 잉그리드 : 강인한 전사여, 그대는 나에게 오라.",
+        "en-US": "Valkyrie Ingrid : Stalwart warrior, come to me.",
+        "pt-BR": "Valquíria Ingrid: Viajante Inabalável, venha me enfrentar.",
+        "es-ES": "Valquiria Ingrid: Guerrero fuerte, ven a mí."
     },
     "yyQYCA": {
-        "ko": "발키리 잉그리드는 안식처로 몸을 피해 전세를 가다듬습니다.",
-        "en": "Valkyrie Ingrid retreats to the sanctuary.",
-        "pt": "A Valquíria Ingrid retorna ao paraíso",
-        "es": "Valquiria Ingrid se refugia en el santuario y reorganiza sus fuerzas."
+        "ko-KR": "발키리 잉그리드는 안식처로 몸을 피해 전세를 가다듬습니다.",
+        "en-US": "Valkyrie Ingrid retreats to the sanctuary.",
+        "pt-BR": "A Valquíria Ingrid retorna ao paraíso",
+        "es-ES": "Valquiria Ingrid se refugia en el santuario y reorganiza sus fuerzas."
     },
     "zCQYCA": {
-        "ko": "현재 발키리 잉그리드는",
-        "en": "Currently, Valkyrie Ingrid is",
-        "pt": "No momento, Valquíria Ingrid está",
-        "es": "Actualmente, Valquiria Ingrid está"
+        "ko-KR": "현재 발키리 잉그리드는",
+        "en-US": "Currently, Valkyrie Ingrid is",
+        "pt-BR": "No momento, Valquíria Ingrid está",
+        "es-ES": "Actualmente, Valquiria Ingrid está"
     },
     "zSQYCA": {
-        "ko": "처치한 수치는 {0}임",
-        "en": "Number defeated: {0}",
-        "pt": "A contagem de monstros atual é de: {0}",
-        "es": "La cifra de derrotas es {0}"
+        "ko-KR": "처치한 수치는 {0}임",
+        "en-US": "Number defeated: {0}",
+        "pt-BR": "A contagem de monstros atual é de: {0}",
+        "es-ES": "La cifra de derrotas es {0}"
     },
     "ziQYCA": {
-        "ko": "없음. 보스는 {0}에 죽었고 쿨타임 끝나길 기다리는 중이야",
-        "en": "The Valkyrie has not appeared. The Valkyrie died at {0} and is waiting for the cooldown to respawn.",
-        "pt": "A Valquíria não apareceu. A Valquíria morreu às {0} e está aguardando o tempo de renascimento.",
-        "es": "No hay. El jefe murió a las {0} y está esperando a que termine el tiempo de reutilización."
+        "ko-KR": "없음. 보스는 {0}에 죽었고 쿨타임 끝나길 기다리는 중이야",
+        "en-US": "The Valkyrie has not appeared. The Valkyrie died at {0} and is waiting for the cooldown to respawn.",
+        "pt-BR": "A Valquíria não apareceu. A Valquíria morreu às {0} e está aguardando o tempo de renascimento.",
+        "es-ES": "No hay. El jefe murió a las {0} y está esperando a que termine el tiempo de reutilización."
     }
 }

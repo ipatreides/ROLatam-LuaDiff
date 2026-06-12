@@ -1,47 +1,47 @@
 {
     "YEwCCw": {
-        "en": "Vigilante",
-        "pt": "Vigilante",
-        "es": "Vigilante"
+        "en-US": "Vigilante",
+        "pt-BR": "Vigilante",
+        "es-ES": "Vigilante"
     },
     "YUwCCw": {
-        "en": "[Vigilante]\nXXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\nXXXXXXXXXX..!",
-        "pt": "[Vigilante]\n??? ? ????\n??? ? ??? ? ???...\n??? ? ??? ?..!",
-        "es": "[Justiciero]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX…\n¡XXXXXXXXXX!"
+        "en-US": "[Vigilante]\nXXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\nXXXXXXXXXX..!",
+        "pt-BR": "[Vigilante]\n??? ? ????\n??? ? ??? ? ???...\n??? ? ??? ?..!",
+        "es-ES": "[Justiciero]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX…\n¡XXXXXXXXXX!"
     },
     "YkwCCw": {
-        "en": "Cannot communicate with him.",
-        "pt": "Você não consegue entendê-lo.",
-        "es": "No puedo comunicarme con él."
+        "en-US": "Cannot communicate with him.",
+        "pt-BR": "Você não consegue entendê-lo.",
+        "es-ES": "No puedo comunicarme con él."
     },
     "Y0wCCw": {
-        "en": "The area below is restricted because it is dangerous.\nI cannot let you pass because you are here as a guest.\nPlease follow the tunnel to get to the capital city.",
-        "pt": "Lá embaixo é perigoso e a área é restrita.\nVocê é um convidado importante de nosso país. Por favor, saia.\nA capital fica no fim do túnel.",
-        "es": "La zona de abajo está restringida porque es peligrosa.\nNo puedo dejarte pasar porque estás aquí como visita.\nPasa por el túnel para llegar a la capital."
+        "en-US": "The area below is restricted because it is dangerous.\nI cannot let you pass because you are here as a guest.\nPlease follow the tunnel to get to the capital city.",
+        "pt-BR": "Lá embaixo é perigoso e a área é restrita.\nVocê é um convidado importante de nosso país. Por favor, saia.\nA capital fica no fim do túnel.",
+        "es-ES": "La zona de abajo está restringida porque es peligrosa.\nNo puedo dejarte pasar porque estás aquí como visita.\nPasa por el túnel para llegar a la capital."
     },
     "ZEwCCw": {
-        "en": "[Vigilante]\nDo you need something from the cave?",
-        "pt": "[Vigilante]\nVocê tem negócios na caverna subterrânea?",
-        "es": "[Justiciero]\n¿Necesitas algo de la cueva?"
+        "en-US": "[Vigilante]\nDo you need something from the cave?",
+        "pt-BR": "[Vigilante]\nVocê tem negócios na caverna subterrânea?",
+        "es-ES": "[Justiciero]\n¿Necesitas algo de la cueva?"
     },
     "ZUwCCw": {
-        "en": "Yes.",
-        "pt": "Sim.",
-        "es": "Si."
+        "en-US": "Yes.",
+        "pt-BR": "Sim.",
+        "es-ES": "Si."
     },
     "ZkwCCw": {
-        "en": "No.",
-        "pt": "Não.",
-        "es": "No."
+        "en-US": "No.",
+        "pt-BR": "Não.",
+        "es-ES": "No."
     },
     "Z0wCCw": {
-        "en": "[Vigilante]\nBe careful.",
-        "pt": "[Vigilante]\nPor favor, tenha cuidado.",
-        "es": "[Justiciero]\nTen cuidado."
+        "en-US": "[Vigilante]\nBe careful.",
+        "pt-BR": "[Vigilante]\nPor favor, tenha cuidado.",
+        "es-ES": "[Justiciero]\nTen cuidado."
     },
     "aEwCCw": {
-        "en": "[Vigilante]\nPlease step aside because it is dangerous.\nYou won't know when those Scarabas will start rampaging.",
-        "pt": "[Vigilante]\nEntão, afaste-se\nAntes que Scarabs pulem em você.",
-        "es": "[Justiciero]\nApártate porque es peligroso.\nNunca sabes cuándo los Scaraba comenzarán a hacer un alboroto."
+        "en-US": "[Vigilante]\nPlease step aside because it is dangerous.\nYou won't know when those Scarabas will start rampaging.",
+        "pt-BR": "[Vigilante]\nEntão, afaste-se\nAntes que Scarabs pulem em você.",
+        "es-ES": "[Justiciero]\nApártate porque es peligroso.\nNunca sabes cuándo los Scaraba comenzarán a hacer un alboroto."
     }
 }

@@ -1,117 +1,117 @@
 {
     "IEAs": {
-        "en": "Strange Device",
-        "pt": "Dispositivo estranho",
-        "es": "Dispositivo Extraño"
+        "en-US": "Strange Device",
+        "pt-BR": "Dispositivo estranho",
+        "es-ES": "Dispositivo Extraño"
     },
     "IUAs": {
-        "en": "There's something strange here.\nMaybe that device can be controlled from here.",
-        "pt": "Há algo estranho aqui.\nTalvez dê para controlar aquele dispositivo daqui.",
-        "es": "Aquí hay algo extraño.\nQuizá se pueda controlar el dispositivo desde aquí."
+        "en-US": "There's something strange here.\nMaybe that device can be controlled from here.",
+        "pt-BR": "Há algo estranho aqui.\nTalvez dê para controlar aquele dispositivo daqui.",
+        "es-ES": "Aquí hay algo extraño.\nQuizá se pueda controlar el dispositivo desde aquí."
     },
     "IkAs": {
-        "en": "Try to control.",
-        "pt": "Tentar controlar.",
-        "es": "Intentar controlarlo."
+        "en-US": "Try to control.",
+        "pt-BR": "Tentar controlar.",
+        "es-ES": "Intentar controlarlo."
     },
     "I0As": {
-        "en": "Don't try to control it.",
-        "pt": "Não tentar controlar.",
-        "es": "No intentar controlarlo."
+        "en-US": "Don't try to control it.",
+        "pt-BR": "Não tentar controlar.",
+        "es-ES": "No intentar controlarlo."
     },
     "JEAs": {
-        "en": "You press the device buttons and it suddenly becomes dark.",
-        "pt": "Você pressiona os botões do dispositivo e, de repente, ele fica escuro.",
-        "es": "Presionas los botones del dispositivo y de repente todo se oscurece."
+        "en-US": "You press the device buttons and it suddenly becomes dark.",
+        "pt-BR": "Você pressiona os botões do dispositivo e, de repente, ele fica escuro.",
+        "es-ES": "Presionas los botones del dispositivo y de repente todo se oscurece."
     },
     "JUAs": {
-        "en": "You decide to leave it alone.",
-        "pt": "Você decide deixá-lo em paz.",
-        "es": "Decides dejarlo en paz."
+        "en-US": "You decide to leave it alone.",
+        "pt-BR": "Você decide deixá-lo em paz.",
+        "es-ES": "Decides dejarlo en paz."
     },
     "JkAs": {
-        "en": "The device has already been activated.\nYou must wait for the controls to reset.",
-        "pt": "O dispositivo já foi ativado.\nVocê precisa aguardar a reinicialização dos controles.",
-        "es": "Ya se activó el dispositivo.\nDebes esperar que se restablezcan los controles."
+        "en-US": "The device has already been activated.\nYou must wait for the controls to reset.",
+        "pt-BR": "O dispositivo já foi ativado.\nVocê precisa aguardar a reinicialização dos controles.",
+        "es-ES": "Ya se activó el dispositivo.\nDebes esperar que se restablezcan los controles."
     },
     "J0As": {
-        "en": "There's a controllable device here.\nYou might be able to control that device from here.",
-        "pt": "Há um dispositivo controlável aqui.\nTalvez seja possível controlar esse dispositivo daqui.",
-        "es": "Aquí hay un dispositivo que se puede controlar.\nQuizás puedas controlar el dispositivo desde aquí."
+        "en-US": "There's a controllable device here.\nYou might be able to control that device from here.",
+        "pt-BR": "Há um dispositivo controlável aqui.\nTalvez seja possível controlar esse dispositivo daqui.",
+        "es-ES": "Aquí hay un dispositivo que se puede controlar.\nQuizás puedas controlar el dispositivo desde aquí."
     },
     "KEAs": {
-        "en": "Control.",
-        "pt": "Controlar.",
-        "es": "Controlar."
+        "en-US": "Control.",
+        "pt-BR": "Controlar.",
+        "es-ES": "Controlar."
     },
     "KUAs": {
-        "en": "Quit.",
-        "pt": "Desistir.",
-        "es": "Salir."
+        "en-US": "Quit.",
+        "pt-BR": "Desistir.",
+        "es-ES": "Salir."
     },
     "KkAs": {
-        "en": "Somebody has already turned it on.",
-        "pt": "Alguém já o ligou.",
-        "es": "Alguien ya lo encendió."
+        "en-US": "Somebody has already turned it on.",
+        "pt-BR": "Alguém já o ligou.",
+        "es-ES": "Alguien ya lo encendió."
     },
     "K0As": {
-        "en": "The device is now on.\nPanels have appeared across the ledge.",
-        "pt": "O dispositivo agora está ligado.\nPainéis apareceram na borda.",
-        "es": "Ahora el dispositivo está encendido.\nAparecieron paneles a través del saliente."
+        "en-US": "The device is now on.\nPanels have appeared across the ledge.",
+        "pt-BR": "O dispositivo agora está ligado.\nPainéis apareceram na borda.",
+        "es-ES": "Ahora el dispositivo está encendido.\nAparecieron paneles a través del saliente."
     },
     "LEAs": {
-        "en": "You decide not to control the device.",
-        "pt": "Você decide não controlar o dispositivo.",
-        "es": "Decides no controlar el dispositivo."
+        "en-US": "You decide not to control the device.",
+        "pt-BR": "Você decide não controlar o dispositivo.",
+        "es-ES": "Decides no controlar el dispositivo."
     },
     "LUAs": {
-        "en": "ep13_nd2f_mng",
-        "pt": "ep13_nd2f_mng",
-        "es": "ep 13_nd 2 f_mng"
+        "en-US": "ep13_nd2f_mng",
+        "pt-BR": "ep13_nd2f_mng",
+        "es-ES": "ep 13_nd 2 f_mng"
     },
     "LkAs": {
-        "en": "Please try again after installing a special item.",
-        "pt": "Tente novamente depois de instalar um item especial.",
-        "es": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
+        "en-US": "Please try again after installing a special item.",
+        "pt-BR": "Tente novamente depois de instalar um item especial.",
+        "es-ES": "Vuelve a intentarlo después de que hayas instalado un objeto especial."
     },
     "L0As": {
-        "en": "Password?",
-        "pt": "Senha?",
-        "es": "¿Contraseña?"
+        "en-US": "Password?",
+        "pt-BR": "Senha?",
+        "es-ES": "¿Contraseña?"
     },
     "MEAs": {
-        "en": "Reset Control devices?",
-        "pt": "Redefinir dispositivos de controle?",
-        "es": "¿Deseas restablecer los dispositivos de control?"
+        "en-US": "Reset Control devices?",
+        "pt-BR": "Redefinir dispositivos de controle?",
+        "es-ES": "¿Deseas restablecer los dispositivos de control?"
     },
     "MUAs": {
-        "en": "ok",
-        "pt": "Sim",
-        "es": "Bueno."
+        "en-US": "ok",
+        "pt-BR": "Sim",
+        "es-ES": "Bueno."
     },
     "MkAs": {
-        "en": "Nope",
-        "pt": "Não",
-        "es": "No."
+        "en-US": "Nope",
+        "pt-BR": "Não",
+        "es-ES": "No."
     },
     "M0As": {
-        "en": "Done.",
-        "pt": "Feito.",
-        "es": "Listo."
+        "en-US": "Done.",
+        "pt-BR": "Feito.",
+        "es-ES": "Listo."
     },
     "NEAs": {
-        "en": "no",
-        "pt": "não",
-        "es": "No."
+        "en-US": "no",
+        "pt-BR": "não",
+        "es-ES": "No."
     },
     "NUAs": {
-        "en": "wrong password go away",
-        "pt": "senha incorreta vai embora",
-        "es": "La contraseña es incorrecta, lárgate."
+        "en-US": "wrong password go away",
+        "pt-BR": "senha incorreta vai embora",
+        "es-ES": "La contraseña es incorrecta, lárgate."
     },
     "NkAs": {
-        "en": "- You are carrying too many items to proceed with this quest. -",
-        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
-        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
+        "en-US": "- You are carrying too many items to proceed with this quest. -",
+        "pt-BR": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es-ES": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

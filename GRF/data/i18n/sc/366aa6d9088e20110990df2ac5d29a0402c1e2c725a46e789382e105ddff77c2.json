@@ -1,142 +1,142 @@
 {
     "AOnQBA": {
-        "en": "Cuir",
-        "pt": "Cuir"
+        "en-US": "Cuir",
+        "pt-BR": "Cuir"
     },
     "AenQBA": {
-        "en": "[Cuir]\nHmm, maybe you should fight more Porings first.\nYou're a little too weak to help me.",
-        "pt": "[Cuir]\nHmm, maybe you should fight more Porings first.\nYou're a little too weak to help me."
+        "en-US": "[Cuir]\nHmm, maybe you should fight more Porings first.\nYou're a little too weak to help me.",
+        "pt-BR": "[Cuir]\nHmm, maybe you should fight more Porings first.\nYou're a little too weak to help me."
     },
     "AunQBA": {
-        "en": "[Cuir]\nHey you there!\nYou look like a sturdy adventurer!",
-        "pt": "[Cuir]\nHey you there!\nYou look like a sturdy adventurer!"
+        "en-US": "[Cuir]\nHey you there!\nYou look like a sturdy adventurer!",
+        "pt-BR": "[Cuir]\nHey you there!\nYou look like a sturdy adventurer!"
     },
     "A+nQBA": {
-        "en": "[Cuir]\nI was sent here to minimize the Alligator population but the task is proving to be quite difficult for just me to complete.\nHow'd you like to help me out?",
-        "pt": "[Cuir]\nI was sent here to minimize the Alligator population but the task is proving to be quite difficult for just me to complete.\nHow'd you like to help me out?"
+        "en-US": "[Cuir]\nI was sent here to minimize the Alligator population but the task is proving to be quite difficult for just me to complete.\nHow'd you like to help me out?",
+        "pt-BR": "[Cuir]\nI was sent here to minimize the Alligator population but the task is proving to be quite difficult for just me to complete.\nHow'd you like to help me out?"
     },
     "BOnQBA": {
-        "en": "Sure",
-        "pt": "Sure"
+        "en-US": "Sure",
+        "pt-BR": "Sure"
     },
     "BenQBA": {
-        "en": "No",
-        "pt": "No"
+        "en-US": "No",
+        "pt-BR": "No"
     },
     "BunQBA": {
-        "en": "[Cuir]\nAh, ok I think you can help me out by hunting some Alligators.\nHow many would you like to hunt?",
-        "pt": "[Cuir]\nAh, ok I think you can help me out by hunting some Alligators.\nHow many would you like to hunt?"
+        "en-US": "[Cuir]\nAh, ok I think you can help me out by hunting some Alligators.\nHow many would you like to hunt?",
+        "pt-BR": "[Cuir]\nAh, ok I think you can help me out by hunting some Alligators.\nHow many would you like to hunt?"
     },
     "B+nQBA": {
-        "en": "50 Alligators",
-        "pt": "50 Alligators"
+        "en-US": "50 Alligators",
+        "pt-BR": "50 Alligators"
     },
     "COnQBA": {
-        "en": "100 Alligators",
-        "pt": "100 Alligators"
+        "en-US": "100 Alligators",
+        "pt-BR": "100 Alligators"
     },
     "CenQBA": {
-        "en": "150 Alligators",
-        "pt": "150 Alligators"
+        "en-US": "150 Alligators",
+        "pt-BR": "150 Alligators"
     },
     "CunQBA": {
-        "en": "[Cuir]\nCome back when you've finished your task and I will give you a small reward.",
-        "pt": "[Cuir]\nCome back when you've finished your task and I will give you a small reward."
+        "en-US": "[Cuir]\nCome back when you've finished your task and I will give you a small reward.",
+        "pt-BR": "[Cuir]\nCome back when you've finished your task and I will give you a small reward."
     },
     "C+nQBA": {
-        "en": "[Cuir]\nCome back if you change your mind.",
-        "pt": "[Cuir]\nCome back if you change your mind."
+        "en-US": "[Cuir]\nCome back if you change your mind.",
+        "pt-BR": "[Cuir]\nCome back if you change your mind."
     },
     "DOnQBA": {
-        "en": "[Cuir]\nWow you seem to be too strong of an adventurer for the task that I need to do.\nYou will be too bored with what I need help with so I'll ask other adventurers for help.",
-        "pt": "[Cuir]\nWow you seem to be too strong of an adventurer for the task that I need to do.\nYou will be too bored with what I need help with so I'll ask other adventurers for help."
+        "en-US": "[Cuir]\nWow you seem to be too strong of an adventurer for the task that I need to do.\nYou will be too bored with what I need help with so I'll ask other adventurers for help.",
+        "pt-BR": "[Cuir]\nWow you seem to be too strong of an adventurer for the task that I need to do.\nYou will be too bored with what I need help with so I'll ask other adventurers for help."
     },
     "DenQBA": {
-        "en": "[Cuir]\nHave you finished hunting the 50 Alligators?",
-        "pt": "[Cuir]\nHave you finished hunting the 50 Alligators?"
+        "en-US": "[Cuir]\nHave you finished hunting the 50 Alligators?",
+        "pt-BR": "[Cuir]\nHave you finished hunting the 50 Alligators?"
     },
     "DunQBA": {
-        "en": "Yes",
-        "pt": "Yes"
+        "en-US": "Yes",
+        "pt-BR": "Yes"
     },
     "D+nQBA": {
-        "en": "I want to quit",
-        "pt": "I want to quit"
+        "en-US": "I want to quit",
+        "pt-BR": "I want to quit"
     },
     "EOnQBA": {
-        "en": "[Cuir]\nHmm, I don't think you've hunted 50 yet...",
-        "pt": "[Cuir]\nHmm, I don't think you've hunted 50 yet..."
+        "en-US": "[Cuir]\nHmm, I don't think you've hunted 50 yet...",
+        "pt-BR": "[Cuir]\nHmm, I don't think you've hunted 50 yet..."
     },
     "EenQBA": {
-        "en": "[Cuir]\nRemember, I need help hunting Alligators so go and hunt 50 of them.",
-        "pt": "[Cuir]\nRemember, I need help hunting Alligators so go and hunt 50 of them."
+        "en-US": "[Cuir]\nRemember, I need help hunting Alligators so go and hunt 50 of them.",
+        "pt-BR": "[Cuir]\nRemember, I need help hunting Alligators so go and hunt 50 of them."
     },
     "EunQBA": {
-        "en": "[Cuir]\nAre you sure that you want to stop hunting?\nAny progress that you've made will be erased.",
-        "pt": "[Cuir]\nAre you sure that you want to stop hunting?\nAny progress that you've made will be erased."
+        "en-US": "[Cuir]\nAre you sure that you want to stop hunting?\nAny progress that you've made will be erased.",
+        "pt-BR": "[Cuir]\nAre you sure that you want to stop hunting?\nAny progress that you've made will be erased."
     },
     "E+nQBA": {
-        "en": "[Cuir]\nOk, well come back if you change your mind.",
-        "pt": "[Cuir]\nOk, well come back if you change your mind."
+        "en-US": "[Cuir]\nOk, well come back if you change your mind.",
+        "pt-BR": "[Cuir]\nOk, well come back if you change your mind."
     },
     "FOnQBA": {
-        "en": "[Cuir]\nThank you adventurer!\nYou have made my job that much easier. Take this as a token of my gratitude.",
-        "pt": "[Cuir]\nThank you adventurer!\nYou have made my job that much easier. Take this as a token of my gratitude."
+        "en-US": "[Cuir]\nThank you adventurer!\nYou have made my job that much easier. Take this as a token of my gratitude.",
+        "pt-BR": "[Cuir]\nThank you adventurer!\nYou have made my job that much easier. Take this as a token of my gratitude."
     },
     "FenQBA": {
-        "en": "[Cuir]\nHave you finished hunting the 100 Alligators?",
-        "pt": "[Cuir]\nHave you finished hunting the 100 Alligators?"
+        "en-US": "[Cuir]\nHave you finished hunting the 100 Alligators?",
+        "pt-BR": "[Cuir]\nHave you finished hunting the 100 Alligators?"
     },
     "FunQBA": {
-        "en": "[Cuir]\nHmm, I don't think you've hunted 100 yet...",
-        "pt": "[Cuir]\nHmm, I don't think you've hunted 100 yet..."
+        "en-US": "[Cuir]\nHmm, I don't think you've hunted 100 yet...",
+        "pt-BR": "[Cuir]\nHmm, I don't think you've hunted 100 yet..."
     },
     "F+nQBA": {
-        "en": "[Cuir]\nRemember, I need help hunting Alligators so go and hunt 100 of them.",
-        "pt": "[Cuir]\nRemember, I need help hunting Alligators so go and hunt 100 of them."
+        "en-US": "[Cuir]\nRemember, I need help hunting Alligators so go and hunt 100 of them.",
+        "pt-BR": "[Cuir]\nRemember, I need help hunting Alligators so go and hunt 100 of them."
     },
     "GOnQBA": {
-        "en": "[Cuir]\nHave you finished hunting the 150 Alligators?",
-        "pt": "[Cuir]\nHave you finished hunting the 150 Alligators?"
+        "en-US": "[Cuir]\nHave you finished hunting the 150 Alligators?",
+        "pt-BR": "[Cuir]\nHave you finished hunting the 150 Alligators?"
     },
     "GenQBA": {
-        "en": "[Cuir]\nHmm, I don't think you've hunted 150 yet...",
-        "pt": "[Cuir]\nHmm, I don't think you've hunted 150 yet..."
+        "en-US": "[Cuir]\nHmm, I don't think you've hunted 150 yet...",
+        "pt-BR": "[Cuir]\nHmm, I don't think you've hunted 150 yet..."
     },
     "GunQBA": {
-        "en": "[Cuir]\nRemember, I need help hunting Alligators so go and hunt 150 of them.",
-        "pt": "[Cuir]\nRemember, I need help hunting Alligators so go and hunt 150 of them."
+        "en-US": "[Cuir]\nRemember, I need help hunting Alligators so go and hunt 150 of them.",
+        "pt-BR": "[Cuir]\nRemember, I need help hunting Alligators so go and hunt 150 of them."
     },
     "G+nQBA": {
-        "en": "Gator Admin",
-        "pt": "Gator Admin"
+        "en-US": "Gator Admin",
+        "pt-BR": "Gator Admin"
     },
     "HOnQBA": {
-        "en": "[Gator Admin]\nPlease enter the password",
-        "pt": "[Gator Admin]\nPlease enter the password"
+        "en-US": "[Gator Admin]\nPlease enter the password",
+        "pt-BR": "[Gator Admin]\nPlease enter the password"
     },
     "HenQBA": {
-        "en": "Gator Hunt on",
-        "pt": "Gator Hunt on"
+        "en-US": "Gator Hunt on",
+        "pt-BR": "Gator Hunt on"
     },
     "HunQBA": {
-        "en": "Gator Hunt off",
-        "pt": "Gator Hunt off"
+        "en-US": "Gator Hunt off",
+        "pt-BR": "Gator Hunt off"
     },
     "H+nQBA": {
-        "en": "Cancel",
-        "pt": "Cancel"
+        "en-US": "Cancel",
+        "pt-BR": "Cancel"
     },
     "IOnQBA": {
-        "en": "[Gator Admin]\nThe Alligator Hunt will now be turned on.",
-        "pt": "[Gator Admin]\nThe Alligator Hunt will now be turned on."
+        "en-US": "[Gator Admin]\nThe Alligator Hunt will now be turned on.",
+        "pt-BR": "[Gator Admin]\nThe Alligator Hunt will now be turned on."
     },
     "IenQBA": {
-        "en": "[Gator Admin]\nThe Alligator Hunt will now be turned off.",
-        "pt": "[Gator Admin]\nThe Alligator Hunt will now be turned off."
+        "en-US": "[Gator Admin]\nThe Alligator Hunt will now be turned off.",
+        "pt-BR": "[Gator Admin]\nThe Alligator Hunt will now be turned off."
     },
     "IunQBA": {
-        "en": "[Gator Admin]\nIncorrect Password.",
-        "pt": "[Gator Admin]\nIncorrect Password."
+        "en-US": "[Gator Admin]\nIncorrect Password.",
+        "pt-BR": "[Gator Admin]\nIncorrect Password."
     }
 }

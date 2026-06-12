@@ -1,278 +1,278 @@
 {
     "YMC5DA": {
-        "ko": "센트로",
-        "en": "Zento",
-        "pt": "Zento",
-        "es": "Zento"
+        "ko-KR": "센트로",
+        "en-US": "Zento",
+        "pt-BR": "Zento",
+        "es-ES": "Zento"
     },
     "YcC5DA": {
-        "ko": "<부스터 프로모션>",
-        "en": "<Booster Promotion>",
-        "pt": "<Evento de Apoio>",
-        "es": "<Evento de Apoyo>"
+        "ko-KR": "<부스터 프로모션>",
+        "en-US": "<Booster Promotion>",
+        "pt-BR": "<Evento de Apoio>",
+        "es-ES": "<Evento de Apoyo>"
     },
     "YsC5DA": {
-        "ko": "소지하고 계신 아이템의 수량이 많아 대화를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
-        "en": "You cannot proceed with the conversation because you have too many items in your inventory.\nPlease organize your items and try again.",
-        "pt": "Você não pode prosseguir com a conversa porque possui muitos itens no seu inventário.\nPor favor, organize seus itens e tente novamente.",
-        "es": "No puedes continuar con la conversación porque tienes demasiados objetos en tu inventario.\nPor favor, organiza tus objetos e inténtalo de nuevo."
+        "ko-KR": "소지하고 계신 아이템의 수량이 많아 대화를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
+        "en-US": "You cannot proceed with the conversation because you have too many items in your inventory.\nPlease organize your items and try again.",
+        "pt-BR": "Você não pode prosseguir com a conversa porque possui muitos itens no seu inventário.\nPor favor, organize seus itens e tente novamente.",
+        "es-ES": "No puedes continuar con la conversación porque tienes demasiados objetos en tu inventario.\nPor favor, organiza tus objetos e inténtalo de nuevo."
     },
     "Y8C5DA": {
-        "ko": "[센트로]\n에...",
-        "en": "[Zento]\nUh...",
-        "pt": "[Zento]\nAh...",
-        "es": "[Zento]\nAh..."
+        "ko-KR": "[센트로]\n에...",
+        "en-US": "[Zento]\nUh...",
+        "pt-BR": "[Zento]\nAh...",
+        "es-ES": "[Zento]\nAh..."
     },
     "ZMC5DA": {
-        "ko": "[센트로]\n당신은 이번 프로모션의 대상자가 아니네요, 아쉽지만 다음 기회에 이용 부탁드립니다.",
-        "en": "[Zento]\nYou are not eligible for this promotion. Unfortunately, please use it next time.",
-        "pt": "[Zento]\nVocê não é elegível para esta promoção. Infelizmente, utilize na próxima oportunidade.",
-        "es": "[Zento]\nNo eres elegible para esta promoción. Lamentablemente, aprovecha en la próxima oportunidad."
+        "ko-KR": "[센트로]\n당신은 이번 프로모션의 대상자가 아니네요, 아쉽지만 다음 기회에 이용 부탁드립니다.",
+        "en-US": "[Zento]\nYou are not eligible for this promotion. Unfortunately, please use it next time.",
+        "pt-BR": "[Zento]\nVocê não é elegível para esta promoção. Infelizmente, utilize na próxima oportunidade.",
+        "es-ES": "[Zento]\nNo eres elegible para esta promoción. Lamentablemente, aprovecha en la próxima oportunidad."
     },
     "ZcC5DA": {
-        "ko": "[센트로]\n안녕하세요!!\n모험가님을 위해 멋진 장비들을 준비했습니다.\n천천히 구경해보시죠!!",
-        "en": "[Zento]\nHello!!\nI have prepared some excellent equipment for you, Adventurer.\nTake your time and have a look!!",
-        "pt": "[Zento]\nOlá!!\nPreparei alguns equipamentos excelentes para você, viajante.\nFique à vontade para dar uma olhada!!",
-        "es": "[Zento]\n¡¡Hola!!\nHe preparado unos excelentes equipos para ti, viajero.\n¡¡Siéntete libre de echar un vistazo!!"
+        "ko-KR": "[센트로]\n안녕하세요!!\n모험가님을 위해 멋진 장비들을 준비했습니다.\n천천히 구경해보시죠!!",
+        "en-US": "[Zento]\nHello!!\nI have prepared some excellent equipment for you, Adventurer.\nTake your time and have a look!!",
+        "pt-BR": "[Zento]\nOlá!!\nPreparei alguns equipamentos excelentes para você, viajante.\nFique à vontade para dar uma olhada!!",
+        "es-ES": "[Zento]\n¡¡Hola!!\nHe preparado unos excelentes equipos para ti, viajero.\n¡¡Siéntete libre de echar un vistazo!!"
     },
     "ZsC5DA": {
-        "ko": "[센트로]\n어떤 것을 보여드릴까요??",
-        "en": "[Zento]\nWhich category would you like me to show you??",
-        "pt": "[Zento]\nQual categoria você gostaria que eu mostre??",
-        "es": "[Zento]\n¿Qué categoría te gustaría que te muestre?"
+        "ko-KR": "[센트로]\n어떤 것을 보여드릴까요??",
+        "en-US": "[Zento]\nWhich category would you like me to show you??",
+        "pt-BR": "[Zento]\nQual categoria você gostaria que eu mostre??",
+        "es-ES": "[Zento]\n¿Qué categoría te gustaría que te muestre?"
     },
     "Z8C5DA": {
-        "ko": "메탈 무기",
-        "en": "Metal Weapons",
-        "pt": "Armas Metálicas",
-        "es": "Armas Metálicas"
+        "ko-KR": "메탈 무기",
+        "en-US": "Metal Weapons",
+        "pt-BR": "Armas Metálicas",
+        "es-ES": "Armas Metálicas"
     },
     "aMC5DA": {
-        "ko": "부스터 방어구",
-        "en": "Booster Armor",
-        "pt": "Armadura de Apoio",
-        "es": "Armadura de Apoyo"
+        "ko-KR": "부스터 방어구",
+        "en-US": "Booster Armor",
+        "pt-BR": "Armadura de Apoio",
+        "es-ES": "Armadura de Apoyo"
     },
     "acC5DA": {
-        "ko": "부스터 무기",
-        "en": "Booster Weapons",
-        "pt": "Armas de Apoio",
-        "es": "Armas de Apoyo"
+        "ko-KR": "부스터 무기",
+        "en-US": "Booster Weapons",
+        "pt-BR": "Armas de Apoio",
+        "es-ES": "Armas de Apoyo"
     },
     "asC5DA": {
-        "ko": "쉐도우 장비",
-        "en": "Shadow Equipment",
-        "pt": "Equipamentos Sombrios",
-        "es": "Equipos Sombríos"
+        "ko-KR": "쉐도우 장비",
+        "en-US": "Shadow Equipment",
+        "pt-BR": "Equipamentos Sombrios",
+        "es-ES": "Equipos Sombríos"
     },
     "a8C5DA": {
-        "ko": "일루시온 귀속 장비",
-        "en": "Illusion Equipment",
-        "pt": "Equipamentos Ilusión",
-        "es": "Equipos Ilusión"
+        "ko-KR": "일루시온 귀속 장비",
+        "en-US": "Illusion Equipment",
+        "pt-BR": "Equipamentos Ilusión",
+        "es-ES": "Equipos Ilusión"
     },
     "bMC5DA": {
-        "ko": "취소",
-        "en": "Cancel",
-        "pt": "Cancelar",
-        "es": "Cancelar"
+        "ko-KR": "취소",
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
     },
     "bcC5DA": {
-        "ko": "[센트로]\n^FF0066메탈 무기^000000를 보여드릴까요??\n교환에는 <ITEM>[메탈 무기 교환권]<INFO>25820</INFO></ITEM>이 필요합니다!",
-        "en": "[Zento]\nShall I show you the ^FF0066Metal Weapons^000000?\nA <ITEM>[Metal Weapon Exchange Ticket]<INFO>25820</INFO></ITEM> is required for the exchange!",
-        "pt": "[Zento]\nGostaria que eu mostre as ^FF0066Armas Metálicas^000000?\nUm <ITEM>[Ticket de Arma Metálica]<INFO>25820</INFO></ITEM> é necessário para a troca!",
-        "es": "[Zento]\n¿Te gustaría que te muestre las ^FF0066Armas Metálicas^000000?\n¡Se requiere un <ITEM>[Boleto de Arma Metálica]<INFO>25820</INFO></ITEM> para el intercambio!"
+        "ko-KR": "[센트로]\n^FF0066메탈 무기^000000를 보여드릴까요??\n교환에는 <ITEM>[메탈 무기 교환권]<INFO>25820</INFO></ITEM>이 필요합니다!",
+        "en-US": "[Zento]\nShall I show you the ^FF0066Metal Weapons^000000?\nA <ITEM>[Metal Weapon Exchange Ticket]<INFO>25820</INFO></ITEM> is required for the exchange!",
+        "pt-BR": "[Zento]\nGostaria que eu mostre as ^FF0066Armas Metálicas^000000?\nUm <ITEM>[Ticket de Arma Metálica]<INFO>25820</INFO></ITEM> é necessário para a troca!",
+        "es-ES": "[Zento]\n¿Te gustaría que te muestre las ^FF0066Armas Metálicas^000000?\n¡Se requiere un <ITEM>[Boleto de Arma Metálica]<INFO>25820</INFO></ITEM> para el intercambio!"
     },
     "bsC5DA": {
-        "ko": "[센트로]\n^FF0066부스터 방어구^000000를 보여드릴까요??\n교환에는 <ITEM>[부스터 아머 교환권]<INFO>1000006</INFO></ITEM>이 필요합니다!",
-        "en": "[Zento]\nShall I show you the ^FF0066Booster Armor^000000?\nA <ITEM>[Booster Armor Exchange Ticket]<INFO>1000006</INFO></ITEM> is required for the exchange!",
-        "pt": "[Zento]\nGostaria que eu mostre as ^FF0066Armaduras de Apoio^000000?\nUm <ITEM>[Ticket de Armadura de Apoio]<INFO>1000006</INFO></ITEM> é necessário para a troca!",
-        "es": "[Zento]\n¿Te gustaría que te muestre las ^FF0066Armaduras de Apoyo^000000?\n¡Se requiere un <ITEM>[Boleto de Armadura de Apoyo]<INFO>1000006</INFO></ITEM> para el intercambio!"
+        "ko-KR": "[센트로]\n^FF0066부스터 방어구^000000를 보여드릴까요??\n교환에는 <ITEM>[부스터 아머 교환권]<INFO>1000006</INFO></ITEM>이 필요합니다!",
+        "en-US": "[Zento]\nShall I show you the ^FF0066Booster Armor^000000?\nA <ITEM>[Booster Armor Exchange Ticket]<INFO>1000006</INFO></ITEM> is required for the exchange!",
+        "pt-BR": "[Zento]\nGostaria que eu mostre as ^FF0066Armaduras de Apoio^000000?\nUm <ITEM>[Ticket de Armadura de Apoio]<INFO>1000006</INFO></ITEM> é necessário para a troca!",
+        "es-ES": "[Zento]\n¿Te gustaría que te muestre las ^FF0066Armaduras de Apoyo^000000?\n¡Se requiere un <ITEM>[Boleto de Armadura de Apoyo]<INFO>1000006</INFO></ITEM> para el intercambio!"
     },
     "b8C5DA": {
-        "ko": "[센트로]\n^FF0066부스터 무기^000000를 보여드릴까요??\n교환에는 <ITEM>[부스터 웨폰 교환권]<INFO>1000253</INFO></ITEM>이 필요합니다!",
-        "en": "[Zento]\nShall I show you the ^FF0066Booster Weapons^000000?\nA <ITEM>[Booster Weapon Exchange Ticket]<INFO>1000253</INFO></ITEM> is required for the exchange!",
-        "pt": "[Zento]\nGostaria que eu mostre as ^FF0066Armas Booster^000000?\nUm <ITEM>[Ticket de Arma de Apoio]<INFO>1000253</INFO></ITEM> é necessário para a troca!",
-        "es": "[Zento]\n¿Te gustaría que te muestre las ^FF0066Armas Booster^000000?\n¡Se requiere un <ITEM>[Boleto de Arma de Apoyo]<INFO>1000253</INFO></ITEM> para el intercambio!"
+        "ko-KR": "[센트로]\n^FF0066부스터 무기^000000를 보여드릴까요??\n교환에는 <ITEM>[부스터 웨폰 교환권]<INFO>1000253</INFO></ITEM>이 필요합니다!",
+        "en-US": "[Zento]\nShall I show you the ^FF0066Booster Weapons^000000?\nA <ITEM>[Booster Weapon Exchange Ticket]<INFO>1000253</INFO></ITEM> is required for the exchange!",
+        "pt-BR": "[Zento]\nGostaria que eu mostre as ^FF0066Armas Booster^000000?\nUm <ITEM>[Ticket de Arma de Apoio]<INFO>1000253</INFO></ITEM> é necessário para a troca!",
+        "es-ES": "[Zento]\n¿Te gustaría que te muestre las ^FF0066Armas Booster^000000?\n¡Se requiere un <ITEM>[Boleto de Arma de Apoyo]<INFO>1000253</INFO></ITEM> para el intercambio!"
     },
     "cMC5DA": {
-        "ko": "어떤 직업 계열의 무기를 원하시는지 말씀해주시겠어요??",
-        "en": "Could you tell me which class branch of weapons you are looking for??",
-        "pt": "Poderia me dizer qual classe você está procurando para sua arma?",
-        "es": "¿Podrías decirme qué clase buscas para tu arma?"
+        "ko-KR": "어떤 직업 계열의 무기를 원하시는지 말씀해주시겠어요??",
+        "en-US": "Could you tell me which class branch of weapons you are looking for??",
+        "pt-BR": "Poderia me dizer qual classe você está procurando para sua arma?",
+        "es-ES": "¿Podrías decirme qué clase buscas para tu arma?"
     },
     "ccC5DA": {
-        "ko": "검사 계열",
-        "en": "Swordsman Branch",
-        "pt": "Espadachins",
-        "es": "Espadachines"
+        "ko-KR": "검사 계열",
+        "en-US": "Swordsman Branch",
+        "pt-BR": "Espadachins",
+        "es-ES": "Espadachines"
     },
     "csC5DA": {
-        "ko": "상인 계열",
-        "en": "Merchant Branch",
-        "pt": "Mercadores",
-        "es": "Mercaderes"
+        "ko-KR": "상인 계열",
+        "en-US": "Merchant Branch",
+        "pt-BR": "Mercadores",
+        "es-ES": "Mercaderes"
     },
     "c8C5DA": {
-        "ko": "도둑 계열",
-        "en": "Thief Branch",
-        "pt": "Gatunos",
-        "es": "Ladrones"
+        "ko-KR": "도둑 계열",
+        "en-US": "Thief Branch",
+        "pt-BR": "Gatunos",
+        "es-ES": "Ladrones"
     },
     "dMC5DA": {
-        "ko": "마법사 계열",
-        "en": "Magician Branch",
-        "pt": "Magos",
-        "es": "Magos"
+        "ko-KR": "마법사 계열",
+        "en-US": "Magician Branch",
+        "pt-BR": "Magos",
+        "es-ES": "Magos"
     },
     "dcC5DA": {
-        "ko": "복사 계열",
-        "en": "Acolyte Branch",
-        "pt": "Noviços",
-        "es": "Acólitos"
+        "ko-KR": "복사 계열",
+        "en-US": "Acolyte Branch",
+        "pt-BR": "Noviços",
+        "es-ES": "Acólitos"
     },
     "dsC5DA": {
-        "ko": "궁수 계열",
-        "en": "Archer Branch",
-        "pt": "Arqueiros",
-        "es": "Arqueros"
+        "ko-KR": "궁수 계열",
+        "en-US": "Archer Branch",
+        "pt-BR": "Arqueiros",
+        "es-ES": "Arqueros"
     },
     "d8C5DA": {
-        "ko": "태권 계열",
-        "en": "Taekwon Branch",
-        "pt": "Taekwons",
-        "es": "Taekwons"
+        "ko-KR": "태권 계열",
+        "en-US": "Taekwon Branch",
+        "pt-BR": "Taekwons",
+        "es-ES": "Taekwons"
     },
     "eMC5DA": {
-        "ko": "도람/닌자 계열",
-        "en": "Doram/Ninja Branch",
-        "pt": "Invocadores ou Ninjas",
-        "es": "Invocadores o Ninjas"
+        "ko-KR": "도람/닌자 계열",
+        "en-US": "Doram/Ninja Branch",
+        "pt-BR": "Invocadores ou Ninjas",
+        "es-ES": "Invocadores o Ninjas"
     },
     "ecC5DA": {
-        "ko": "노비스/거너 계열",
-        "en": "Novice/Gunner Branch",
-        "pt": "Aprendizes ou Justiceiros",
-        "es": "Principiantes o Justicieros"
+        "ko-KR": "노비스/거너 계열",
+        "en-US": "Novice/Gunner Branch",
+        "pt-BR": "Aprendizes ou Justiceiros",
+        "es-ES": "Principiantes o Justicieros"
     },
     "esC5DA": {
-        "ko": "[센트로]\n검사 계열의 장비는 여기 있습니다.\n천천히 구경해주세요!!",
-        "en": "[Zento]\nHere is the equipment for the Swordsman branch.\nPlease take your time looking!!",
-        "pt": "[Zento]\nAqui estão os equipamentos para Espadachins.\nPor favor, examine com calma!!",
-        "es": "[Zento]\nAquí tienes los equipos para Espadachines.\n¡¡Por favor, examínalos con calma!!"
+        "ko-KR": "[센트로]\n검사 계열의 장비는 여기 있습니다.\n천천히 구경해주세요!!",
+        "en-US": "[Zento]\nHere is the equipment for the Swordsman branch.\nPlease take your time looking!!",
+        "pt-BR": "[Zento]\nAqui estão os equipamentos para Espadachins.\nPor favor, examine com calma!!",
+        "es-ES": "[Zento]\nAquí tienes los equipos para Espadachines.\n¡¡Por favor, examínalos con calma!!"
     },
     "e8C5DA": {
-        "ko": "[센트로]\n상인 계열의 장비는 여기 있습니다.\n천천히 구경해주세요!!",
-        "en": "[Zento]\nHere is the equipment for the Merchant branch.\nPlease take your time looking!!",
-        "pt": "[Zento]\nAqui estão os equipamentos para Mercadores.\nPor favor, examine com calma!!",
-        "es": "[Zento]\nAquí tienes los equipos para Mercaderes.\n¡¡Por favor, examínalos con calma!!"
+        "ko-KR": "[센트로]\n상인 계열의 장비는 여기 있습니다.\n천천히 구경해주세요!!",
+        "en-US": "[Zento]\nHere is the equipment for the Merchant branch.\nPlease take your time looking!!",
+        "pt-BR": "[Zento]\nAqui estão os equipamentos para Mercadores.\nPor favor, examine com calma!!",
+        "es-ES": "[Zento]\nAquí tienes los equipos para Mercaderes.\n¡¡Por favor, examínalos con calma!!"
     },
     "fMC5DA": {
-        "ko": "[센트로]\n도둑 계열의 장비는 여기 있습니다.\n천천히 구경해주세요!!",
-        "en": "[Zento]\nHere is the equipment for the Thief branch.\nPlease take your time looking!!",
-        "pt": "[Zento]\nAqui estão os equipamentos para Gatunos.\nPor favor, examine com calma!!",
-        "es": "[Zento]\nAquí tienes los equipos para Ladrones.\n¡¡Por favor, examínalos con calma!!"
+        "ko-KR": "[센트로]\n도둑 계열의 장비는 여기 있습니다.\n천천히 구경해주세요!!",
+        "en-US": "[Zento]\nHere is the equipment for the Thief branch.\nPlease take your time looking!!",
+        "pt-BR": "[Zento]\nAqui estão os equipamentos para Gatunos.\nPor favor, examine com calma!!",
+        "es-ES": "[Zento]\nAquí tienes los equipos para Ladrones.\n¡¡Por favor, examínalos con calma!!"
     },
     "fcC5DA": {
-        "ko": "[센트로]\n마법사 계열의 장비는 여기 있습니다.\n천천히 구경해주세요!!",
-        "en": "[Zento]\nHere is the equipment for the Magician branch.\nPlease take your time looking!!",
-        "pt": "[Zento]\nAqui estão os equipamentos para Magos.\nPor favor, examine com calma!!",
-        "es": "[Zento]\nAquí tienes los equipos para Magos.\n¡¡Por favor, examínalos con calma!!"
+        "ko-KR": "[센트로]\n마법사 계열의 장비는 여기 있습니다.\n천천히 구경해주세요!!",
+        "en-US": "[Zento]\nHere is the equipment for the Magician branch.\nPlease take your time looking!!",
+        "pt-BR": "[Zento]\nAqui estão os equipamentos para Magos.\nPor favor, examine com calma!!",
+        "es-ES": "[Zento]\nAquí tienes los equipos para Magos.\n¡¡Por favor, examínalos con calma!!"
     },
     "fsC5DA": {
-        "ko": "[센트로]\n복사 계열의 장비는 여기 있습니다.\n천천히 구경해주세요!!",
-        "en": "[Zento]\nHere is the equipment for the Acolyte branch.\nPlease take your time looking!!",
-        "pt": "[Zento]\nAqui estão os equipamentos para Noviços.\nPor favor, examine com calma!!",
-        "es": "[Zento]\nAquí tienes los equipos para Acólitos.\n¡¡Por favor, examínalos con calma!!"
+        "ko-KR": "[센트로]\n복사 계열의 장비는 여기 있습니다.\n천천히 구경해주세요!!",
+        "en-US": "[Zento]\nHere is the equipment for the Acolyte branch.\nPlease take your time looking!!",
+        "pt-BR": "[Zento]\nAqui estão os equipamentos para Noviços.\nPor favor, examine com calma!!",
+        "es-ES": "[Zento]\nAquí tienes los equipos para Acólitos.\n¡¡Por favor, examínalos con calma!!"
     },
     "f8C5DA": {
-        "ko": "[센트로]\n궁수 계열의 장비는 여기 있습니다.\n천천히 구경해주세요!!",
-        "en": "[Zento]\nHere is the equipment for the Archer branch.\nPlease take your time looking!!",
-        "pt": "[Zento]\nAqui estão os equipamentos para Arqueiros.\nPor favor, examine com calma!!",
-        "es": "[Zento]\nAquí tienes los equipos para Arqueros.\n¡¡Por favor, examínalos con calma!!"
+        "ko-KR": "[센트로]\n궁수 계열의 장비는 여기 있습니다.\n천천히 구경해주세요!!",
+        "en-US": "[Zento]\nHere is the equipment for the Archer branch.\nPlease take your time looking!!",
+        "pt-BR": "[Zento]\nAqui estão os equipamentos para Arqueiros.\nPor favor, examine com calma!!",
+        "es-ES": "[Zento]\nAquí tienes los equipos para Arqueros.\n¡¡Por favor, examínalos con calma!!"
     },
     "gMC5DA": {
-        "ko": "[센트로]\n태권 계열의 장비는 여기 있습니다.\n천천히 구경해주세요!!",
-        "en": "[Zento]\nHere is the equipment for the Taekwon branch.\nPlease take your time looking!!",
-        "pt": "[Zento]\nAqui estão os equipamentos para Taekwons.\nPor favor, examine com calma!!",
-        "es": "[Zento]\nAquí tienes los equipos para Taekwons.\n¡¡Por favor, examínalos con calma!!"
+        "ko-KR": "[센트로]\n태권 계열의 장비는 여기 있습니다.\n천천히 구경해주세요!!",
+        "en-US": "[Zento]\nHere is the equipment for the Taekwon branch.\nPlease take your time looking!!",
+        "pt-BR": "[Zento]\nAqui estão os equipamentos para Taekwons.\nPor favor, examine com calma!!",
+        "es-ES": "[Zento]\nAquí tienes los equipos para Taekwons.\n¡¡Por favor, examínalos con calma!!"
     },
     "gcC5DA": {
-        "ko": "[센트로]\n도람/닌자 계열의 장비는 여기 있습니다.\n천천히 구경해주세요!!",
-        "en": "[Zento]\nHere is the equipment for the Doram/Ninja branch.\nPlease take your time looking!!",
-        "pt": "[Zento]\nAqui estão os equipamentos para Invocadores ou Ninjas.\nPor favor, examine com calma!!",
-        "es": "[Zento]\nAquí tienes los equipos para Invocadores o Ninjas.\n¡¡Por favor, examínalos con calma!!"
+        "ko-KR": "[센트로]\n도람/닌자 계열의 장비는 여기 있습니다.\n천천히 구경해주세요!!",
+        "en-US": "[Zento]\nHere is the equipment for the Doram/Ninja branch.\nPlease take your time looking!!",
+        "pt-BR": "[Zento]\nAqui estão os equipamentos para Invocadores ou Ninjas.\nPor favor, examine com calma!!",
+        "es-ES": "[Zento]\nAquí tienes los equipos para Invocadores o Ninjas.\n¡¡Por favor, examínalos con calma!!"
     },
     "gsC5DA": {
-        "ko": "[센트로]\n노비스/거너 계열의 장비는 여기 있습니다.\n천천히 구경해주세요!!",
-        "en": "[Zento]\nHere is the equipment for the Novice/Gunner branch.\nPlease take your time looking!!",
-        "pt": "[Zento]\nAqui estão os equipamentos para Aprendizes ou Justiceiros.\nPor favor, examine com calma!!",
-        "es": "[Zento]\nAquí tienes los equipos para Principiantes o Justicieros.\n¡¡Por favor, examínalos con calma!!"
+        "ko-KR": "[센트로]\n노비스/거너 계열의 장비는 여기 있습니다.\n천천히 구경해주세요!!",
+        "en-US": "[Zento]\nHere is the equipment for the Novice/Gunner branch.\nPlease take your time looking!!",
+        "pt-BR": "[Zento]\nAqui estão os equipamentos para Aprendizes ou Justiceiros.\nPor favor, examine com calma!!",
+        "es-ES": "[Zento]\nAquí tienes los equipos para Principiantes o Justicieros.\n¡¡Por favor, examínalos con calma!!"
     },
     "g8C5DA": {
-        "ko": "[센트로]\n또 들러주세요~!!",
-        "en": "[Zento]\nPlease visit again~!!",
-        "pt": "[Zento]\nVolte sempre~!!",
-        "es": "[Zento]\n¡¡Vuelve cuando quieras~!!"
+        "ko-KR": "[센트로]\n또 들러주세요~!!",
+        "en-US": "[Zento]\nPlease visit again~!!",
+        "pt-BR": "[Zento]\nVolte sempre~!!",
+        "es-ES": "[Zento]\n¡¡Vuelve cuando quieras~!!"
     },
     "hMC5DA": {
-        "ko": "[센트로]\n^FF0066쉐도우 장비^000000를 보여드릴까요??\n교환에는 <ITEM>[부스터 코인]<INFO>1000254</INFO></ITEM>이 필요합니다!",
-        "en": "[Zento]\nShall I show you the ^FF0066Shadow Equipment^000000?\n<ITEM>[Booster Coin]<INFO>1000254</INFO></ITEM> is required for the exchange!",
-        "pt": "[Zento]\nGostaria que eu mostre os ^FF0066Equipamentos Sombrios^000000?\n<ITEM>[Moeda de Apoio]<INFO>1000254</INFO></ITEM> é necessário para a troca!",
-        "es": "[Zento]\n¿Te gustaría que te muestre los ^FF0066Equipos Sombríos^000000?\n¡Se requiere <ITEM>[Moneda de Apoyo]<INFO>1000254</INFO></ITEM> para el intercambio!"
+        "ko-KR": "[센트로]\n^FF0066쉐도우 장비^000000를 보여드릴까요??\n교환에는 <ITEM>[부스터 코인]<INFO>1000254</INFO></ITEM>이 필요합니다!",
+        "en-US": "[Zento]\nShall I show you the ^FF0066Shadow Equipment^000000?\n<ITEM>[Booster Coin]<INFO>1000254</INFO></ITEM> is required for the exchange!",
+        "pt-BR": "[Zento]\nGostaria que eu mostre os ^FF0066Equipamentos Sombrios^000000?\n<ITEM>[Moeda de Apoio]<INFO>1000254</INFO></ITEM> é necessário para a troca!",
+        "es-ES": "[Zento]\n¿Te gustaría que te muestre los ^FF0066Equipos Sombríos^000000?\n¡Se requiere <ITEM>[Moneda de Apoyo]<INFO>1000254</INFO></ITEM> para el intercambio!"
     },
     "hcC5DA": {
-        "ko": "- 해당 장비들은 에피소드 17.1 퀘스트 완료 및 130 레벨 이상이 되어야 구매 가능합니다. -",
-        "en": "- These items can only be purchased after completing the Episode 17.1 quest and reaching level 130 or higher. -",
-        "pt": "- Estes equipamentos só podem ser adquiridos após completar a missão do Episódio 17.1 e atingir o nível 130 ou superior. -",
-        "es": "- Estos equipos solo se pueden adquirir después de completar la misión del Episodio 17.1 y alcanzar el nivel 130 o superior. -'"
+        "ko-KR": "- 해당 장비들은 에피소드 17.1 퀘스트 완료 및 130 레벨 이상이 되어야 구매 가능합니다. -",
+        "en-US": "- These items can only be purchased after completing the Episode 17.1 quest and reaching level 130 or higher. -",
+        "pt-BR": "- Estes equipamentos só podem ser adquiridos após completar a missão do Episódio 17.1 e atingir o nível 130 ou superior. -",
+        "es-ES": "- Estos equipos solo se pueden adquirir después de completar la misión del Episodio 17.1 y alcanzar el nivel 130 o superior. -'"
     },
     "hsC5DA": {
-        "ko": "[센트로]\n^FF0066일루시온 귀속 장비^000000를 보여드릴까요??",
-        "en": "[Zento]\nShall I show you the ^FF0066Illusion Equipment^000000?",
-        "pt": "[Zento]\nGostaria que eu mostre os ^FF0066Equipamentos Ilusión^000000?",
-        "es": "[Zento]\n¿Te gustaría que te muestre los ^FF0066Equipos Ilusión^000000?"
+        "ko-KR": "[센트로]\n^FF0066일루시온 귀속 장비^000000를 보여드릴까요??",
+        "en-US": "[Zento]\nShall I show you the ^FF0066Illusion Equipment^000000?",
+        "pt-BR": "[Zento]\nGostaria que eu mostre os ^FF0066Equipamentos Ilusión^000000?",
+        "es-ES": "[Zento]\n¿Te gustaría que te muestre los ^FF0066Equipos Ilusión^000000?"
     },
     "h8C5DA": {
-        "ko": "[센트로]\n해당 장비들은 에피소드 17.1에 등장하는 일루시온 장비들의 성능과 동일합니다!",
-        "en": "[Zento]\nThis equipment has the same performance as the Illusion equipment that appears in Episode 17.1!",
-        "pt": "[Zento]\nEste equipamento tem o mesmo desempenho que os equipamentos Ilusión que aparecem no Episódio 17.1!",
-        "es": "[Zento]\n¡Estos equipos tienen el mismo rendimiento que los equipos Ilusión que aparecen en el Episodio 17.1!"
+        "ko-KR": "[센트로]\n해당 장비들은 에피소드 17.1에 등장하는 일루시온 장비들의 성능과 동일합니다!",
+        "en-US": "[Zento]\nThis equipment has the same performance as the Illusion equipment that appears in Episode 17.1!",
+        "pt-BR": "[Zento]\nEste equipamento tem o mesmo desempenho que os equipamentos Ilusión que aparecem no Episódio 17.1!",
+        "es-ES": "[Zento]\n¡Estos equipos tienen el mismo rendimiento que los equipos Ilusión que aparecen en el Episodio 17.1!"
     },
     "iMC5DA": {
-        "ko": "[센트로]\n일루시온 장비들을 다양한 조합으로 사용하고 싶으시다면 에피소드에서 직접 제공되는 장비들로 교체하시면 좋을 것 같아요!",
-        "en": "[Zento]\nIf you wish to use Illusion equipment in various combinations, it might be better to swap them with the equipment provided directly in the episode!",
-        "pt": "[Zento]\nSe deseja usar equipamentos Ilusión em várias combinações, talvez seja melhor trocá-los pelos equipamentos fornecidos diretamente no episódio!",
-        "es": "[Zento]\nSi deseas usar equipos Ilusión en varias combinaciones, quizás sea mejor intercambiarlos por los equipos proporcionados directamente en el episodio."
+        "ko-KR": "[센트로]\n일루시온 장비들을 다양한 조합으로 사용하고 싶으시다면 에피소드에서 직접 제공되는 장비들로 교체하시면 좋을 것 같아요!",
+        "en-US": "[Zento]\nIf you wish to use Illusion equipment in various combinations, it might be better to swap them with the equipment provided directly in the episode!",
+        "pt-BR": "[Zento]\nSe deseja usar equipamentos Ilusión em várias combinações, talvez seja melhor trocá-los pelos equipamentos fornecidos diretamente no episódio!",
+        "es-ES": "[Zento]\nSi deseas usar equipos Ilusión en varias combinaciones, quizás sea mejor intercambiarlos por los equipos proporcionados directamente en el episodio."
     },
     "icC5DA": {
-        "ko": "[센트로]\n에피소드에서 제공되는 장비는 <TIPBOX>[일루시온, OS 시리즈]<INFO>4110</INFO></TIPBOX> 내용을 참고해 주세요.",
-        "en": "[Zento]\nFor equipment provided in the episode, please refer to the <TIPBOX>[Illusion Episode]<INFO>4110</INFO></TIPBOX> content.",
-        "pt": "[Zento]\nPara equipamentos fornecidos no episódio, consulte o conteúdo do <TIPBOX>[Episódio Ilusión]<INFO>4110</INFO></TIPBOX>.",
-        "es": "[Zento]\nPara los equipos proporcionados en el episodio, consulta el contenido de <TIPBOX>[Episodio Ilusión]<INFO>4110</INFO></TIPBOX>."
+        "ko-KR": "[센트로]\n에피소드에서 제공되는 장비는 <TIPBOX>[일루시온, OS 시리즈]<INFO>4110</INFO></TIPBOX> 내용을 참고해 주세요.",
+        "en-US": "[Zento]\nFor equipment provided in the episode, please refer to the <TIPBOX>[Illusion Episode]<INFO>4110</INFO></TIPBOX> content.",
+        "pt-BR": "[Zento]\nPara equipamentos fornecidos no episódio, consulte o conteúdo do <TIPBOX>[Episódio Ilusión]<INFO>4110</INFO></TIPBOX>.",
+        "es-ES": "[Zento]\nPara los equipos proporcionados en el episodio, consulta el contenido de <TIPBOX>[Episodio Ilusión]<INFO>4110</INFO></TIPBOX>."
     },
     "isC5DA": {
-        "ko": "[센트로]\n자, 그럼 교환하시겠습니까? 교환에는 <ITEM>[부스터 코인]<INFO>1000254</INFO></ITEM>이 필요합니다!",
-        "en": "[Zento]\nWell then, would you like to exchange? The exchange requires <ITEM>[Booster Coin]<INFO>1000254</INFO></ITEM>!",
-        "pt": "[Zento]\nEntão, gostaria de trocar? A troca requer <ITEM>[Moeda de Apoio]<INFO>1000254</INFO></ITEM>!",
-        "es": "[Zento]\nEntonces, ¿te gustaría intercambiar? ¡El intercambio requiere <ITEM>[Moneda de Apoyo]<INFO>1000254</INFO></ITEM>!"
+        "ko-KR": "[센트로]\n자, 그럼 교환하시겠습니까? 교환에는 <ITEM>[부스터 코인]<INFO>1000254</INFO></ITEM>이 필요합니다!",
+        "en-US": "[Zento]\nWell then, would you like to exchange? The exchange requires <ITEM>[Booster Coin]<INFO>1000254</INFO></ITEM>!",
+        "pt-BR": "[Zento]\nEntão, gostaria de trocar? A troca requer <ITEM>[Moeda de Apoio]<INFO>1000254</INFO></ITEM>!",
+        "es-ES": "[Zento]\nEntonces, ¿te gustaría intercambiar? ¡El intercambio requiere <ITEM>[Moneda de Apoyo]<INFO>1000254</INFO></ITEM>!"
     },
     "i8C5DA": {
-        "ko": "[센트로]\n에피소드 16을 완료하셔야 에피소드 17.1을 진행 가능하시구요!!",
-        "en": "[Zento]\nYou need to complete Episode 16 first to be able to proceed with Episode 17.1!!",
-        "pt": "[Zento]\nVocê precisa completar o Episódio 16 primeiro para prosseguir com o Episódio 17.1!!",
-        "es": "[Zento]\n¡¡Necesitas completar el Episodio 16 primero para continuar con el Episodio 17.1!!"
+        "ko-KR": "[센트로]\n에피소드 16을 완료하셔야 에피소드 17.1을 진행 가능하시구요!!",
+        "en-US": "[Zento]\nYou need to complete Episode 16 first to be able to proceed with Episode 17.1!!",
+        "pt-BR": "[Zento]\nVocê precisa completar o Episódio 16 primeiro para prosseguir com o Episódio 17.1!!",
+        "es-ES": "[Zento]\n¡¡Necesitas completar el Episodio 16 primero para continuar con el Episodio 17.1!!"
     },
     "jMC5DA": {
-        "ko": "[센트로]\n프로모션 캐릭터에 지급되는 <ITEM>[에피소드16 클리어 티켓]<INFO>1000282</INFO></ITEM>를 사용하여 완료 가능합니다!!",
-        "en": "[Zento]\nYou can complete it by using the <ITEM>[Episode 16 Clear Ticket]<INFO>1000282</INFO></ITEM> given to promotion characters!!",
-        "pt": "[Zento]\nVocê pode completá-lo usando o <ITEM>[Passe do EP16]<INFO>1000282</INFO></ITEM>!!",
-        "es": "[Zento]\n¡¡Puedes completarlo usando el <ITEM>[Pase del EP16]<INFO>1000282</INFO></ITEM>!!"
+        "ko-KR": "[센트로]\n프로모션 캐릭터에 지급되는 <ITEM>[에피소드16 클리어 티켓]<INFO>1000282</INFO></ITEM>를 사용하여 완료 가능합니다!!",
+        "en-US": "[Zento]\nYou can complete it by using the <ITEM>[Episode 16 Clear Ticket]<INFO>1000282</INFO></ITEM> given to promotion characters!!",
+        "pt-BR": "[Zento]\nVocê pode completá-lo usando o <ITEM>[Passe do EP16]<INFO>1000282</INFO></ITEM>!!",
+        "es-ES": "[Zento]\n¡¡Puedes completarlo usando el <ITEM>[Pase del EP16]<INFO>1000282</INFO></ITEM>!!"
     },
     "jcC5DA": {
-        "ko": "[센트로]\n에피소드 16을 직접 클리어하고 싶으시다면 <TIPBOX>[에피소드 16]<INFO>4105</INFO></TIPBOX> 내용을 참고해주세요!",
-        "en": "[Zento]\nIf you wish to clear Episode 16 yourself, please refer to the <TIPBOX>[Episode 16]<INFO>4105</INFO></TIPBOX> content!",
-        "pt": "[Zento]\nSe deseja concluir o Episódio 16 por conta própria, consulte o conteúdo do <TIPBOX>[Episódio 16]<INFO>4105</INFO></TIPBOX>!",
-        "es": "[Zento]\nSi deseas completar el Episodio 16 por tu cuenta, consulta el contenido de <TIPBOX>[Episodio 16]<INFO>4105</INFO></TIPBOX>."
+        "ko-KR": "[센트로]\n에피소드 16을 직접 클리어하고 싶으시다면 <TIPBOX>[에피소드 16]<INFO>4105</INFO></TIPBOX> 내용을 참고해주세요!",
+        "en-US": "[Zento]\nIf you wish to clear Episode 16 yourself, please refer to the <TIPBOX>[Episode 16]<INFO>4105</INFO></TIPBOX> content!",
+        "pt-BR": "[Zento]\nSe deseja concluir o Episódio 16 por conta própria, consulte o conteúdo do <TIPBOX>[Episódio 16]<INFO>4105</INFO></TIPBOX>!",
+        "es-ES": "[Zento]\nSi deseas completar el Episodio 16 por tu cuenta, consulta el contenido de <TIPBOX>[Episodio 16]<INFO>4105</INFO></TIPBOX>."
     }
 }

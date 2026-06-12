@@ -1,278 +1,278 @@
 {
     "AHzHDA": {
-        "ko": "[시간의 관리자]\n시나리오모드 입력 430",
-        "en": "[Administrator of Time]\nScenario Mode Input 430",
-        "pt": "[Administrador do Tempo] \nEntrada no modo cenário 430",
-        "es": "[Administrador del Tiempo] \nEntrada al modo escenario 430"
+        "ko-KR": "[시간의 관리자]\n시나리오모드 입력 430",
+        "en-US": "[Administrator of Time]\nScenario Mode Input 430",
+        "pt-BR": "[Administrador do Tempo] \nEntrada no modo cenário 430",
+        "es-ES": "[Administrador del Tiempo] \nEntrada al modo escenario 430"
     },
     "AXzHDA": {
-        "ko": "쿨타임 삭제",
-        "en": "Cooldown Removed",
-        "pt": "Remover tempo de recarga",
-        "es": "Eliminar tiempo de reutilización"
+        "ko-KR": "쿨타임 삭제",
+        "en-US": "Cooldown Removed",
+        "pt-BR": "Remover tempo de recarga",
+        "es-ES": "Eliminar tiempo de reutilización"
     },
     "AnzHDA": {
-        "ko": "완전초기화",
-        "en": "Complete Reset",
-        "pt": "Reinicialização completa",
-        "es": "Reinicio completo"
+        "ko-KR": "완전초기화",
+        "en-US": "Complete Reset",
+        "pt-BR": "Reinicialização completa",
+        "es-ES": "Reinicio completo"
     },
     "A3zHDA": {
-        "ko": "미션완료상태 초기화",
-        "en": "Mission Completion Status Reset",
-        "pt": "Redefinir estado de missão concluída",
-        "es": "Restablecer estado de misión completada"
+        "ko-KR": "미션완료상태 초기화",
+        "en-US": "Mission Completion Status Reset",
+        "pt-BR": "Redefinir estado de missão concluída",
+        "es-ES": "Restablecer estado de misión completada"
     },
     "BHzHDA": {
-        "ko": "오스카",
-        "en": "Oscar",
-        "pt": "Oscar",
-        "es": "Oscar"
+        "ko-KR": "오스카",
+        "en-US": "Oscar",
+        "pt-BR": "Oscar",
+        "es-ES": "Oscar"
     },
     "BXzHDA": {
-        "ko": "^0000FF오스카는 당신에게 흥미가 없어보입니다.^000000",
-        "en": "^0000FFOscar does not seem interested in you.^000000",
-        "pt": "^0000FFOscar parece não demonstrar interesse em você.^000000",
-        "es": "^0000FFOscar no parece tener interés en ti.^000000"
+        "ko-KR": "^0000FF오스카는 당신에게 흥미가 없어보입니다.^000000",
+        "en-US": "^0000FFOscar does not seem interested in you.^000000",
+        "pt-BR": "^0000FFOscar parece não demonstrar interesse em você.^000000",
+        "es-ES": "^0000FFOscar no parece tener interés en ti.^000000"
     },
     "BnzHDA": {
-        "ko": "[오스카]\n응? {0}씨잖아?. 이 구석진 곳엔 어쩐일로?!",
-        "en": "[Oscar]\nHuh? Isn't that {0}? What brings you to a remote place like this?!",
-        "pt": "[Oscar] \nHã? Ora se não é {0}! O que te traz a este lugar tão afastado?!",
-        "es": "[Oscar] \n¿Eh? ¿No eres {0}? ¿Qué te trae a este rincón tan apartado?"
+        "ko-KR": "[오스카]\n응? {0}씨잖아?. 이 구석진 곳엔 어쩐일로?!",
+        "en-US": "[Oscar]\nHuh? Isn't that {0}? What brings you to a remote place like this?!",
+        "pt-BR": "[Oscar] \nHã? Ora se não é {0}! O que te traz a este lugar tão afastado?!",
+        "es-ES": "[Oscar] \n¿Eh? ¿No eres {0}? ¿Qué te trae a este rincón tan apartado?"
     },
     "B3zHDA": {
-        "ko": "아~ 오스카씨는 여기 무슨일로?",
-        "en": "Ah~ Oscar, what brings you here?",
-        "pt": "O que você fazendo aqui, Oscar?",
-        "es": "Ah~ Señor Oscar, ¿qué hace usted aquí?"
+        "ko-KR": "아~ 오스카씨는 여기 무슨일로?",
+        "en-US": "Ah~ Oscar, what brings you here?",
+        "pt-BR": "O que você fazendo aqui, Oscar?",
+        "es-ES": "Ah~ Señor Oscar, ¿qué hace usted aquí?"
     },
     "CHzHDA": {
-        "ko": "뉘신지...",
-        "en": "Who might you be...",
-        "pt": "Quem é você...?",
-        "es": "¿Quién es usted...?"
+        "ko-KR": "뉘신지...",
+        "en-US": "Who might you be...",
+        "pt-BR": "Quem é você...?",
+        "es-ES": "¿Quién es usted...?"
     },
     "CXzHDA": {
-        "ko": "[오스카]\n아~ {0}씨가 아닌가? 너무 많은 시간을 돌아다녀서 착각했나보네...",
-        "en": "[Oscar]\nAh~ aren't you {0}? I must have gotten confused after wandering around for so long...",
-        "pt": "[Oscar] \nUé~ Não se lembra de mim, {0}? Acho que me enganei depois de vagar por tanto tempo...",
-        "es": "[Oscar] \nAh~ ¿no eres {0}? Debo haberme confundido después de vagar por demasiadas líneas temporales..."
+        "ko-KR": "[오스카]\n아~ {0}씨가 아닌가? 너무 많은 시간을 돌아다녀서 착각했나보네...",
+        "en-US": "[Oscar]\nAh~ aren't you {0}? I must have gotten confused after wandering around for so long...",
+        "pt-BR": "[Oscar] \nUé~ Não se lembra de mim, {0}? Acho que me enganei depois de vagar por tanto tempo...",
+        "es-ES": "[Oscar] \nAh~ ¿no eres {0}? Debo haberme confundido después de vagar por demasiadas líneas temporales..."
     },
     "CnzHDA": {
-        "ko": "[오스카]\n하핫, 저야 뭐 늘상 하던대로 글래스트 헤임 주변에 오염된 차원이 없는지 확인하던 중이죠.",
-        "en": "[Oscar]\nHaha, I'm just doing what I always do—checking whether there are any Tainted Dimension around Glastheim.",
-        "pt": "[Oscar] \nHaha, eu estou apenas fazendo o de sempre, verificando se há alguma Dimensão Contaminada ao redor de Glastheim.",
-        "es": "[Oscar] \nJa, ja. Yo, como siempre, estoy revisando los alrededores de Glastheim para ver si hay alguna Dimensión contaminada."
+        "ko-KR": "[오스카]\n하핫, 저야 뭐 늘상 하던대로 글래스트 헤임 주변에 오염된 차원이 없는지 확인하던 중이죠.",
+        "en-US": "[Oscar]\nHaha, I'm just doing what I always do—checking whether there are any Tainted Dimension around Glastheim.",
+        "pt-BR": "[Oscar] \nHaha, eu estou apenas fazendo o de sempre, verificando se há alguma Dimensão Contaminada ao redor de Glastheim.",
+        "es-ES": "[Oscar] \nJa, ja. Yo, como siempre, estoy revisando los alrededores de Glastheim para ver si hay alguna Dimensión contaminada."
     },
     "C3zHDA": {
-        "ko": "[오스카]\n어쩌다보니 엄청난게 걸려버렸는데, 이걸 어떻게 처리할지 아직 결정을 내리질 못해서 일단 주변에 결계를 치고 있어요.",
-        "en": "[Oscar]\nI ended up finding something quite extraordinary, but I haven't decided how to handle it yet, so for now I've set up a barrier around the area.",
-        "pt": "[Oscar] \nAcabei encontrando algo bem sério, mas ainda não decidi como lidar com isso, então por enquanto estou erguendo uma barreira ao redor.",
-        "es": "[Oscar] \nResulta que me encontré con algo bastante serio, pero aún no he decidido cómo manejarlo, así que por ahora he levantado una barrera alrededor."
+        "ko-KR": "[오스카]\n어쩌다보니 엄청난게 걸려버렸는데, 이걸 어떻게 처리할지 아직 결정을 내리질 못해서 일단 주변에 결계를 치고 있어요.",
+        "en-US": "[Oscar]\nI ended up finding something quite extraordinary, but I haven't decided how to handle it yet, so for now I've set up a barrier around the area.",
+        "pt-BR": "[Oscar] \nAcabei encontrando algo bem sério, mas ainda não decidi como lidar com isso, então por enquanto estou erguendo uma barreira ao redor.",
+        "es-ES": "[Oscar] \nResulta que me encontré con algo bastante serio, pero aún no he decidido cómo manejarlo, así que por ahora he levantado una barrera alrededor."
     },
     "DHzHDA": {
-        "ko": "위험한 놈 인가요?",
-        "en": "Is it something dangerous?",
-        "pt": "É algo perigoso?",
-        "es": "¿Es algo peligroso?"
+        "ko-KR": "위험한 놈 인가요?",
+        "en-US": "Is it something dangerous?",
+        "pt-BR": "É algo perigoso?",
+        "es-ES": "¿Es algo peligroso?"
     },
     "DXzHDA": {
-        "ko": "[오스카]\n흐음, 평범한 모험가에게 맡기기엔 아무래도 위험하죠. 일단 디멘션 서클에는 정식으로 안건을 올렸지만...",
-        "en": "[Oscar]\nHmm, it would be rather dangerous to leave it to an ordinary adventurer. I've formally submitted the matter to the Dimension Circle, but...",
-        "pt": "[Oscar] \nHmm, seria perigoso demais confiar isso a uma pessoa comum. Já registrei oficialmente o caso no Conselho da Dimensão, mas...",
-        "es": "[Oscar] \nHmm, sería peligroso dejarlo en manos de un aventurero común. Ya he presentado el asunto oficialmente al Círculo Dimensional, pero..."
+        "ko-KR": "[오스카]\n흐음, 평범한 모험가에게 맡기기엔 아무래도 위험하죠. 일단 디멘션 서클에는 정식으로 안건을 올렸지만...",
+        "en-US": "[Oscar]\nHmm, it would be rather dangerous to leave it to an ordinary adventurer. I've formally submitted the matter to the Dimension Circle, but...",
+        "pt-BR": "[Oscar] \nHmm, seria perigoso demais confiar isso a uma pessoa comum. Já registrei oficialmente o caso no Conselho da Dimensão, mas...",
+        "es-ES": "[Oscar] \nHmm, sería peligroso dejarlo en manos de un aventurero común. Ya he presentado el asunto oficialmente al Círculo Dimensional, pero..."
     },
     "DnzHDA": {
-        "ko": "뭐하는데죠 그 수상한 단체는?",
-        "en": "What kind of suspicious group is that?",
-        "pt": "Conselho da Dimensão?",
-        "es": "¿Y qué es ese grupo sospechoso?"
+        "ko-KR": "뭐하는데죠 그 수상한 단체는?",
+        "en-US": "What kind of suspicious group is that?",
+        "pt-BR": "Conselho da Dimensão?",
+        "es-ES": "¿Y qué es ese grupo sospechoso?"
     },
     "D3zHDA": {
-        "ko": "[오스카]\n한가한 차원수호자들이 정기적으로 모여 다과를 즐기며 차원의 안정화를 논하는 소모임입니다.",
-        "en": "[Oscar]\nIt's a small gathering where idle dimensional guardians regularly meet, enjoy refreshments, and discuss dimensional stabilization.",
-        "pt": "[Oscar] \nÉ um pequeno grupo onde guardiões dimensionais desocupados se reúnem regularmente para tomar chá e discutir a estabilização das dimensões.",
-        "es": "[Oscar] \nUn pequeño grupo de guardianes dimensionales desocupados que se reúnen periódicamente para tomar el té y discutir la estabilización de las dimensiones."
+        "ko-KR": "[오스카]\n한가한 차원수호자들이 정기적으로 모여 다과를 즐기며 차원의 안정화를 논하는 소모임입니다.",
+        "en-US": "[Oscar]\nIt's a small gathering where idle dimensional guardians regularly meet, enjoy refreshments, and discuss dimensional stabilization.",
+        "pt-BR": "[Oscar] \nÉ um pequeno grupo onde guardiões dimensionais desocupados se reúnem regularmente para tomar chá e discutir a estabilização das dimensões.",
+        "es-ES": "[Oscar] \nUn pequeño grupo de guardianes dimensionales desocupados que se reúnen periódicamente para tomar el té y discutir la estabilización de las dimensiones."
     },
     "EHzHDA": {
-        "ko": "음... 그건 아무래도 됐고.",
-        "en": "Hmm... let's skip that.",
-        "pt": "Ah... parecia importante.",
-        "es": "Hmm... bueno, eso no importa ahora."
+        "ko-KR": "음... 그건 아무래도 됐고.",
+        "en-US": "Hmm... let's skip that.",
+        "pt-BR": "Ah... parecia importante.",
+        "es-ES": "Hmm... bueno, eso no importa ahora."
     },
     "EXzHDA": {
-        "ko": "발견해낸 차원의 정체를 알려줘요.",
-        "en": "Tell me about the dimension you discovered.",
-        "pt": "Foco no assunto, por favor.",
-        "es": "Dígame qué clase de dimensión encontró."
+        "ko-KR": "발견해낸 차원의 정체를 알려줘요.",
+        "en-US": "Tell me about the dimension you discovered.",
+        "pt-BR": "Foco no assunto, por favor.",
+        "es-ES": "Dígame qué clase de dimensión encontró."
     },
     "EnzHDA": {
-        "ko": "[오스카]\n아... 일 이야기 중이었죠.",
-        "en": "[Oscar]\nAh... we were talking about work, weren't we.",
-        "pt": "[Oscar] \nAh... estávamos falando de trabalho, né.",
-        "es": "[Oscar] \nAh... cierto, estábamos hablando del trabajo."
+        "ko-KR": "[오스카]\n아... 일 이야기 중이었죠.",
+        "en-US": "[Oscar]\nAh... we were talking about work, weren't we.",
+        "pt-BR": "[Oscar] \nAh... estávamos falando de trabalho, né.",
+        "es-ES": "[Oscar] \nAh... cierto, estábamos hablando del trabajo."
     },
     "E3zHDA": {
-        "ko": "[오스카]\n이번에 발견해낸 차원은 히멜메즈의 습격이 있던 시간대의 차원중에서도 변종이예요, 이 근방에서 자주 출몰하는 종류지만 이녀석은 좀 기괴하죠.",
-        "en": "[Oscar]\nThe dimension discovered this time is a variant among the timelines when Himmelmez attacked. That kind often appears around here, but this one is rather bizarre.",
-        "pt": "[Oscar] \nA dimensão que encontrei desta vez é uma variante da dimensão do período em que ocorreu o ataque de Himmelmez. É um tipo que aparece com frequência por aqui, mas esta é particularmente estranha.",
-        "es": "[Oscar] \nLa dimensión que descubrí esta vez es una variante de la línea temporal del ataque de Himmelmez. Es del tipo que aparece con frecuencia por aquí, pero esta es bastante extraña."
+        "ko-KR": "[오스카]\n이번에 발견해낸 차원은 히멜메즈의 습격이 있던 시간대의 차원중에서도 변종이예요, 이 근방에서 자주 출몰하는 종류지만 이녀석은 좀 기괴하죠.",
+        "en-US": "[Oscar]\nThe dimension discovered this time is a variant among the timelines when Himmelmez attacked. That kind often appears around here, but this one is rather bizarre.",
+        "pt-BR": "[Oscar] \nA dimensão que encontrei desta vez é uma variante da dimensão do período em que ocorreu o ataque de Himmelmez. É um tipo que aparece com frequência por aqui, mas esta é particularmente estranha.",
+        "es-ES": "[Oscar] \nLa dimensión que descubrí esta vez es una variante de la línea temporal del ataque de Himmelmez. Es del tipo que aparece con frecuencia por aquí, pero esta es bastante extraña."
     },
     "FHzHDA": {
-        "ko": "[오스카]\n^0000FF바르문트와 하인리히^000000가 존재하지 않는 차원이더군요.",
-        "en": "[Oscar]\nIt is a dimension where ^0000FFVarmunt and Heinrich^000000 do not exist.",
-        "pt": "[Oscar] \nÉ uma dimensão onde ^0000FFVarmunt e Heinrich^000000 não existem.",
-        "es": "[Oscar] \nEs una dimensión donde ^0000FFVarmunt y Heinrich^000000 no existen."
+        "ko-KR": "[오스카]\n^0000FF바르문트와 하인리히^000000가 존재하지 않는 차원이더군요.",
+        "en-US": "[Oscar]\nIt is a dimension where ^0000FFVarmunt and Heinrich^000000 do not exist.",
+        "pt-BR": "[Oscar] \nÉ uma dimensão onde ^0000FFVarmunt e Heinrich^000000 não existem.",
+        "es-ES": "[Oscar] \nEs una dimensión donde ^0000FFVarmunt y Heinrich^000000 no existen."
     },
     "FXzHDA": {
-        "ko": "오, 그런...",
-        "en": "Oh, really...",
-        "pt": "Eita, isso é...",
-        "es": "Oh, eso es..."
+        "ko-KR": "오, 그런...",
+        "en-US": "Oh, really...",
+        "pt-BR": "Eita, isso é...",
+        "es-ES": "Oh, eso es..."
     },
     "FnzHDA": {
-        "ko": "[오스카]\n과거의 기록과 어느정도 다른 차원은 흔한편이죠. 그 정도의 오류는 제 선에서 교정하고 있기도 하고...",
-        "en": "[Oscar]\nDimensions that differ somewhat from past records are quite common. I usually correct that level of error myself...",
-        "pt": "[Oscar] \nDimensões que diferem um pouco dos registros do passado são bastante comuns. Esse tipo de erro eu mesmo costumo corrigir...",
-        "es": "[Oscar] \nLas dimensiones que difieren un poco de los registros del pasado son bastante comunes. Ese tipo de errores suelo corregirlos yo mismo..."
+        "ko-KR": "[오스카]\n과거의 기록과 어느정도 다른 차원은 흔한편이죠. 그 정도의 오류는 제 선에서 교정하고 있기도 하고...",
+        "en-US": "[Oscar]\nDimensions that differ somewhat from past records are quite common. I usually correct that level of error myself...",
+        "pt-BR": "[Oscar] \nDimensões que diferem um pouco dos registros do passado são bastante comuns. Esse tipo de erro eu mesmo costumo corrigir...",
+        "es-ES": "[Oscar] \nLas dimensiones que difieren un poco de los registros del pasado son bastante comunes. Ese tipo de errores suelo corregirlos yo mismo..."
     },
     "F3zHDA": {
-        "ko": "[오스카]\n하지만 존재했던 인물 자체가 사라져버린 차원은 매우 드물어요. 게다가 파장이 매우 강력해서 점점 커지고 있죠.",
-        "en": "[Oscar]\nBut a dimension where the people who once existed have disappeared entirely is extremely rare. Moreover, the distortion is very powerful and continues to grow.",
-        "pt": "[Oscar] \nMas uma dimensão onde pessoas que existiam simplesmente desapareceram é extremamente rara. Além disso, a onda dimensional dela é muito forte e continua crescendo.",
-        "es": "[Oscar] \nPero una dimensión donde personas que existían simplemente desaparecen es extremadamente rara. Además, su resonancia es muy fuerte y sigue creciendo."
+        "ko-KR": "[오스카]\n하지만 존재했던 인물 자체가 사라져버린 차원은 매우 드물어요. 게다가 파장이 매우 강력해서 점점 커지고 있죠.",
+        "en-US": "[Oscar]\nBut a dimension where the people who once existed have disappeared entirely is extremely rare. Moreover, the distortion is very powerful and continues to grow.",
+        "pt-BR": "[Oscar] \nMas uma dimensão onde pessoas que existiam simplesmente desapareceram é extremamente rara. Além disso, a onda dimensional dela é muito forte e continua crescendo.",
+        "es-ES": "[Oscar] \nPero una dimensión donde personas que existían simplemente desaparecen es extremadamente rara. Además, su resonancia es muy fuerte y sigue creciendo."
     },
     "GHzHDA": {
-        "ko": "계속 더 커지면 어떻게되죠?",
-        "en": "What happens if it keeps growing?",
-        "pt": "E se continuar crescendo?",
-        "es": "¿Qué pasará si sigue creciendo?"
+        "ko-KR": "계속 더 커지면 어떻게되죠?",
+        "en-US": "What happens if it keeps growing?",
+        "pt-BR": "E se continuar crescendo?",
+        "es-ES": "¿Qué pasará si sigue creciendo?"
     },
     "GXzHDA": {
-        "ko": "[오스카]\n현재의 시간이 오염된 시간에 잠식되서 인과가 틀어지게 될거예요. 그 전에 폐쇄하거나 더 커지는걸 막거나 해야죠.",
-        "en": "[Oscar]\nThe present time will be consumed by the contaminated timeline, causing causality to collapse. We must either seal it before that happens or prevent it from growing further.",
-        "pt": "[Oscar]\nO tempo atual será corroído por esse tempo contaminado e será distorcido. Antes que isso aconteça, precisamos fechá-la ou impedir que cresça mais.",
-        "es": "[Oscar] \nEl tiempo actual será invadido por el tiempo contaminado y la causalidad se distorsionará. Antes de que ocurra, debemos cerrarla o impedir que siga expandiéndose."
+        "ko-KR": "[오스카]\n현재의 시간이 오염된 시간에 잠식되서 인과가 틀어지게 될거예요. 그 전에 폐쇄하거나 더 커지는걸 막거나 해야죠.",
+        "en-US": "[Oscar]\nThe present time will be consumed by the contaminated timeline, causing causality to collapse. We must either seal it before that happens or prevent it from growing further.",
+        "pt-BR": "[Oscar]\nO tempo atual será corroído por esse tempo contaminado e será distorcido. Antes que isso aconteça, precisamos fechá-la ou impedir que cresça mais.",
+        "es-ES": "[Oscar] \nEl tiempo actual será invadido por el tiempo contaminado y la causalidad se distorsionará. Antes de que ocurra, debemos cerrarla o impedir que siga expandiéndose."
     },
     "GnzHDA": {
-        "ko": "꽤 흥미가 돋는데...",
-        "en": "That sounds rather interesting...",
-        "pt": "Interessante...",
-        "es": "Suena bastante interesante..."
+        "ko-KR": "꽤 흥미가 돋는데...",
+        "en-US": "That sounds rather interesting...",
+        "pt-BR": "Interessante...",
+        "es-ES": "Suena bastante interesante..."
     },
     "G3zHDA": {
-        "ko": "그럼 계속 수고하십쇼",
-        "en": "Well then, good luck with your work.",
-        "pt": "Então, boa sorte!",
-        "es": "Bueno, entonces continúe con su trabajo."
+        "ko-KR": "그럼 계속 수고하십쇼",
+        "en-US": "Well then, good luck with your work.",
+        "pt-BR": "Então, boa sorte!",
+        "es-ES": "Bueno, entonces continúe con su trabajo."
     },
     "HHzHDA": {
-        "ko": "[오스카]\n그래야죠. {0}씨도 여행길 조심하세요~",
-        "en": "[Oscar]\nOf course. {0}, take care on your journey~",
-        "pt": "[Oscar]\nClaro. {0}, tenha cuidado em suas viagens~",
-        "es": "[Oscar] \nClaro. ¡{0}, ten cuidado en tus viajes!"
+        "ko-KR": "[오스카]\n그래야죠. {0}씨도 여행길 조심하세요~",
+        "en-US": "[Oscar]\nOf course. {0}, take care on your journey~",
+        "pt-BR": "[Oscar]\nClaro. {0}, tenha cuidado em suas viagens~",
+        "es-ES": "[Oscar] \nClaro. ¡{0}, ten cuidado en tus viajes!"
     },
     "HXzHDA": {
-        "ko": "[오스카]\n{0}씨가요? 꽤나 위험할텐데...",
-        "en": "[Oscar]\nYou, {0}? It could be quite dangerous...",
-        "pt": "[Oscar]\nQuer ajudar, {0}? Pode ser bastante perigoso...",
-        "es": "[Oscar] \n¿Tú, {0}? Podría ser bastante peligroso..."
+        "ko-KR": "[오스카]\n{0}씨가요? 꽤나 위험할텐데...",
+        "en-US": "[Oscar]\nYou, {0}? It could be quite dangerous...",
+        "pt-BR": "[Oscar]\nQuer ajudar, {0}? Pode ser bastante perigoso...",
+        "es-ES": "[Oscar] \n¿Tú, {0}? Podría ser bastante peligroso..."
     },
     "HnzHDA": {
-        "ko": "[오스카]\n으음, 하긴... {0}씨 정도로 차원여행의 경험이 풍부한 모험가를 구하는것도 힘들긴하죠. 게다가 디멘션 서클에서 공식적인 결정이 나기전까지 이곳의 오염도를 누군가는 막아야 하기도 하고.",
-        "en": "[Oscar]\nHmm, then again... it's difficult to find an adventurer as experienced in dimensional travel as you, {0}. And until the Dimension Circle reaches an official decision, someone must prevent the corruption here.",
-        "pt": "[Oscar]\nHmm, pensando bem... também é difícil encontrar alguém com tanta experiência em viagens dimensionais quanto você, {0}. Além disso, até que o Conselho da Dimensão tome uma decisão oficial, alguém precisa conter a contaminação deste lugar.",
-        "es": "[Oscar] \nHmm, aunque pensándolo bien... tampoco es fácil encontrar a un aventurero con tanta experiencia en viajes dimensionales como tú, {0}. Además, hasta que el Círculo Dimensional tome una decisión oficial, alguien debe contener la contaminación aquí."
+        "ko-KR": "[오스카]\n으음, 하긴... {0}씨 정도로 차원여행의 경험이 풍부한 모험가를 구하는것도 힘들긴하죠. 게다가 디멘션 서클에서 공식적인 결정이 나기전까지 이곳의 오염도를 누군가는 막아야 하기도 하고.",
+        "en-US": "[Oscar]\nHmm, then again... it's difficult to find an adventurer as experienced in dimensional travel as you, {0}. And until the Dimension Circle reaches an official decision, someone must prevent the corruption here.",
+        "pt-BR": "[Oscar]\nHmm, pensando bem... também é difícil encontrar alguém com tanta experiência em viagens dimensionais quanto você, {0}. Além disso, até que o Conselho da Dimensão tome uma decisão oficial, alguém precisa conter a contaminação deste lugar.",
+        "es-ES": "[Oscar] \nHmm, aunque pensándolo bien... tampoco es fácil encontrar a un aventurero con tanta experiencia en viajes dimensionales como tú, {0}. Además, hasta que el Círculo Dimensional tome una decisión oficial, alguien debe contener la contaminación aquí."
     },
     "H3zHDA": {
-        "ko": "[오스카]\n좋아요! 대신 제가 같이 들어가서 안내를 하도록 할게요. 일단 잠시 차원 균열을 확인할테니 잠시후에 다시 봐요!",
-        "en": "[Oscar]\nAlright! I'll go in with you and guide you. I'll check the dimensional rift for a moment, so see you again shortly!",
-        "pt": "[Oscar]\nTudo bem! Então eu entrarei junto para guiar você. Primeiro vou verificar a abertura dimensional, então nos vemos novamente em breve!",
-        "es": "[Oscar] \n¡Muy bien! En ese caso entraré contigo para guiarte. Primero comprobaré la grieta dimensional, así que volvamos a vernos en un momento."
+        "ko-KR": "[오스카]\n좋아요! 대신 제가 같이 들어가서 안내를 하도록 할게요. 일단 잠시 차원 균열을 확인할테니 잠시후에 다시 봐요!",
+        "en-US": "[Oscar]\nAlright! I'll go in with you and guide you. I'll check the dimensional rift for a moment, so see you again shortly!",
+        "pt-BR": "[Oscar]\nTudo bem! Então eu entrarei junto para guiar você. Primeiro vou verificar a abertura dimensional, então nos vemos novamente em breve!",
+        "es-ES": "[Oscar] \n¡Muy bien! En ese caso entraré contigo para guiarte. Primero comprobaré la grieta dimensional, así que volvamos a vernos en un momento."
     },
     "IHzHDA": {
-        "ko": "글래스트 헤임 도전모드",
-        "en": "Glastheim Challenge Mode",
-        "pt": "Glastheim Infernal",
-        "es": "Modo Desafío de Glastheim"
+        "ko-KR": "글래스트 헤임 도전모드",
+        "en-US": "Glastheim Challenge Mode",
+        "pt-BR": "Glastheim Infernal",
+        "es-ES": "Modo Desafío de Glastheim"
     },
     "IXzHDA": {
-        "ko": "^0000FF{0}^000000 생성",
-        "en": "^0000FF{0}^000000 Created",
-        "pt": "Criar ^0000FF{0}^000000.",
-        "es": "^0000FF{0}^000000 creado"
+        "ko-KR": "^0000FF{0}^000000 생성",
+        "en-US": "^0000FF{0}^000000 Created",
+        "pt-BR": "Criar ^0000FF{0}^000000.",
+        "es-ES": "^0000FF{0}^000000 creado"
     },
     "InzHDA": {
-        "ko": "^0000FF최소 1인 이상의 파티를 구성하고 진행 해 주시기 바랍니다.^000000",
-        "en": "^0000FFPlease proceed with a party of at least 1 member.^000000",
-        "pt": "^0000FFPor favor, forme um grupo para prosseguir.^000000",
-        "es": "^0000FFPor favor, forma un grupo de al menos 1 miembro para continuar.^000000"
+        "ko-KR": "^0000FF최소 1인 이상의 파티를 구성하고 진행 해 주시기 바랍니다.^000000",
+        "en-US": "^0000FFPlease proceed with a party of at least 1 member.^000000",
+        "pt-BR": "^0000FFPor favor, forme um grupo para prosseguir.^000000",
+        "es-ES": "^0000FFPor favor, forma un grupo de al menos 1 miembro para continuar.^000000"
     },
     "I3zHDA": {
-        "ko": "^0000FF던전의 출입 후유증이 사라지지 않았습니다. 이 시간동안에는 던전의 출입이 불가능합니다.",
-        "en": "^0000FFThe aftereffects of dungeon entry have not yet faded. You cannot enter the dungeon during this time.",
-        "pt": "^0000FFOs efeitos colaterais da Instância ainda não desapareceram. Durante este período não é possível entrar.",
-        "es": "^0000FFLas secuelas de entrada al calabozo aún no han desaparecido. No es posible entrar durante este tiempo."
+        "ko-KR": "^0000FF던전의 출입 후유증이 사라지지 않았습니다. 이 시간동안에는 던전의 출입이 불가능합니다.",
+        "en-US": "^0000FFThe aftereffects of dungeon entry have not yet faded. You cannot enter the dungeon during this time.",
+        "pt-BR": "^0000FFOs efeitos colaterais da Instância ainda não desapareceram. Durante este período não é possível entrar.",
+        "es-ES": "^0000FFLas secuelas de entrada al calabozo aún no han desaparecido. No es posible entrar durante este tiempo."
     },
     "JHzHDA": {
-        "ko": "^0000FF던전의 출입 후유증이 모두 사라졌습니다. 이제 정상적으로 대화가 가능합니다.^000000",
-        "en": "^0000FFAll aftereffects of dungeon entry have faded. You may now converse normally.^000000",
-        "pt": "^0000FFTodos os efeitos colaterais da Instância desapareceram. Agora é possível conversar normalmente.^000000",
-        "es": "^0000FFLas secuelas de entrada al calabozo han desaparecido por completo. Ahora puedes hablar con normalidad.^000000"
+        "ko-KR": "^0000FF던전의 출입 후유증이 모두 사라졌습니다. 이제 정상적으로 대화가 가능합니다.^000000",
+        "en-US": "^0000FFAll aftereffects of dungeon entry have faded. You may now converse normally.^000000",
+        "pt-BR": "^0000FFTodos os efeitos colaterais da Instância desapareceram. Agora é possível conversar normalmente.^000000",
+        "es-ES": "^0000FFLas secuelas de entrada al calabozo han desaparecido por completo. Ahora puedes hablar con normalidad.^000000"
     },
     "JXzHDA": {
-        "ko": "[오스카]\n마음의 준비는 다 끝난거죠? 제 손을 잡고 정신을 집중 해주세요.",
-        "en": "[Oscar]\nYou're fully prepared, right? Take my hand and focus your mind.",
-        "pt": "[Oscar]\nJá está com tudo pronto? Segure minha mão e concentre-se.",
-        "es": "[Oscar] \n¿Ya te has preparado mentalmente? Toma mi mano y concéntrate."
+        "ko-KR": "[오스카]\n마음의 준비는 다 끝난거죠? 제 손을 잡고 정신을 집중 해주세요.",
+        "en-US": "[Oscar]\nYou're fully prepared, right? Take my hand and focus your mind.",
+        "pt-BR": "[Oscar]\nJá está com tudo pronto? Segure minha mão e concentre-se.",
+        "es-ES": "[Oscar] \n¿Ya te has preparado mentalmente? Toma mi mano y concéntrate."
     },
     "JnzHDA": {
-        "ko": "입장",
-        "en": "Enter",
-        "pt": "Entrar",
-        "es": "Entrar"
+        "ko-KR": "입장",
+        "en-US": "Enter",
+        "pt-BR": "Entrar",
+        "es-ES": "Entrar"
     },
     "J3zHDA": {
-        "ko": "^FF0000알 수 없는 에러가 발생했습니다.^000000",
-        "en": "^FF0000An unknown error has occurred.^000000",
-        "pt": "^FF0000Ocorreu um erro desconhecido.^000000",
-        "es": "^FF0000Ha ocurrido un error desconocido.^000000"
+        "ko-KR": "^FF0000알 수 없는 에러가 발생했습니다.^000000",
+        "en-US": "^FF0000An unknown error has occurred.^000000",
+        "pt-BR": "^FF0000Ocorreu um erro desconhecido.^000000",
+        "es-ES": "^FF0000Ha ocurrido un error desconocido.^000000"
     },
     "KHzHDA": {
-        "ko": "^0000FF던전이 생성되지 않았거나 파티장과 다른 던전으로 진입하려는 상태로 확인됩니다^000000",
-        "en": "^0000FFThe dungeon was not created or you are attempting to enter a different dungeon from the party leader.^000000",
-        "pt": "^0000FFA instância não foi criada ou foi detectada uma tentativa de entrar em uma instância diferente da do líder do grupo.^000000",
-        "es": "^0000FFEl calabozo no ha sido creado o se está intentando entrar en uno distinto al del líder del grupo.^000000"
+        "ko-KR": "^0000FF던전이 생성되지 않았거나 파티장과 다른 던전으로 진입하려는 상태로 확인됩니다^000000",
+        "en-US": "^0000FFThe dungeon was not created or you are attempting to enter a different dungeon from the party leader.^000000",
+        "pt-BR": "^0000FFA instância não foi criada ou foi detectada uma tentativa de entrar em uma instância diferente da do líder do grupo.^000000",
+        "es-ES": "^0000FFEl calabozo no ha sido creado o se está intentando entrar en uno distinto al del líder del grupo.^000000"
     },
     "KXzHDA": {
-        "ko": "^FF0000파티 상태가 아니라면 입장할 수 없습니다.^000000",
-        "en": "^FF0000You cannot enter unless you are in a party.^000000",
-        "pt": "^FF0000Não é possível entrar se você não estiver em um grupo.^000000",
-        "es": "^FF0000No puedes entrar si no estás en un grupo.^000000"
+        "ko-KR": "^FF0000파티 상태가 아니라면 입장할 수 없습니다.^000000",
+        "en-US": "^FF0000You cannot enter unless you are in a party.^000000",
+        "pt-BR": "^FF0000Não é possível entrar se você não estiver em um grupo.^000000",
+        "es-ES": "^FF0000No puedes entrar si no estás en un grupo.^000000"
     },
     "KnzHDA": {
-        "ko": "[오스카]\n이전 차원에 완료하지 못하고 남은 임무는 모두 새로 갱신할게요. 차원 이동후엔 반드시 갱신된 의뢰 목표를 다시 확인해주세요.",
-        "en": "[Oscar]\nAll unfinished tasks from the previous dimension will be refreshed. After moving between dimensions, be sure to check the updated quest objectives again.",
-        "pt": "[Oscar] \nVou renovar todas as missões que ficaram incompletas na dimensão anterior. Após a viagem dimensional, verifique novamente os objetivos da missão.",
-        "es": "[Oscar] \nTodas las misiones que quedaron incompletas en la dimensión anterior serán actualizadas de nuevo. Después de trasladarte de dimensión, asegúrate de revisar los objetivos actualizados."
+        "ko-KR": "[오스카]\n이전 차원에 완료하지 못하고 남은 임무는 모두 새로 갱신할게요. 차원 이동후엔 반드시 갱신된 의뢰 목표를 다시 확인해주세요.",
+        "en-US": "[Oscar]\nAll unfinished tasks from the previous dimension will be refreshed. After moving between dimensions, be sure to check the updated quest objectives again.",
+        "pt-BR": "[Oscar] \nVou renovar todas as missões que ficaram incompletas na dimensão anterior. Após a viagem dimensional, verifique novamente os objetivos da missão.",
+        "es-ES": "[Oscar] \nTodas las misiones que quedaron incompletas en la dimensión anterior serán actualizadas de nuevo. Después de trasladarte de dimensión, asegúrate de revisar los objetivos actualizados."
     },
     "K3zHDA": {
-        "ko": "{0} 파티의 일원이 {1} 던전의 공략에 참여합니다",
-        "en": "A member of the {0} party participates in the conquest of the {1} dungeon",
-        "pt": "Desafiante do grupo {0} entrou na {1}.",
-        "es": "Un miembro del grupo {0} participa en la incursión del calabozo {1}"
+        "ko-KR": "{0} 파티의 일원이 {1} 던전의 공략에 참여합니다",
+        "en-US": "A member of the {0} party participates in the conquest of the {1} dungeon",
+        "pt-BR": "Desafiante do grupo {0} entrou na {1}.",
+        "es-ES": "Un miembro del grupo {0} participa en la incursión del calabozo {1}"
     },
     "LHzHDA": {
-        "ko": "^0000FF파티장이 아니라면 던전의 생성은 불가능합니다.^000000",
-        "en": "^0000FFOnly the party leader can create the dungeon.^000000",
-        "pt": "^0000FFSe você não for o líder do grupo, não poderá criar a masmorra.^000000",
-        "es": "^0000FFSolo el líder del grupo puede crear el calabozo.^000000"
+        "ko-KR": "^0000FF파티장이 아니라면 던전의 생성은 불가능합니다.^000000",
+        "en-US": "^0000FFOnly the party leader can create the dungeon.^000000",
+        "pt-BR": "^0000FFSe você não for o líder do grupo, não poderá criar a masmorra.^000000",
+        "es-ES": "^0000FFSolo el líder del grupo puede crear el calabozo.^000000"
     },
     "LXzHDA": {
-        "ko": "^0000FF{0} ^000000- 예약실패",
-        "en": "^0000FF{0} ^000000- Reservation Failed",
-        "pt": "^0000FF{0} ^000000- Falha na reserva",
-        "es": "^0000FF{0} ^000000- Error de reserva"
+        "ko-KR": "^0000FF{0} ^000000- 예약실패",
+        "en-US": "^0000FF{0} ^000000- Reservation Failed",
+        "pt-BR": "^0000FF{0} ^000000- Falha na reserva",
+        "es-ES": "^0000FF{0} ^000000- Error de reserva"
     }
 }

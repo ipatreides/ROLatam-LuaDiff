@@ -1,140 +1,140 @@
 {
     "wASsDA": {
-        "ko": "23.10.12 화염 SetMonsterStat 제거",
-        "en": "Remove Flame SetMonsterStat 23.10.12",
-        "pt": "23.10.12 Remoção do SetMonsterStat de Fogo",
-        "es": "23.10.12 Eliminación de SetMonsterStat de Fuego"
+        "ko-KR": "23.10.12 화염 SetMonsterStat 제거",
+        "en-US": "Remove Flame SetMonsterStat 23.10.12",
+        "pt-BR": "23.10.12 Remoção do SetMonsterStat de Fogo",
+        "es-ES": "23.10.12 Eliminación de SetMonsterStat de Fuego"
     },
     "wQSsDA": {
-        "ko": "끄기",
-        "en": "Turn off",
-        "pt": "Desligar",
-        "es": "Apagar"
+        "ko-KR": "끄기",
+        "en-US": "Turn off",
+        "pt-BR": "Desligar",
+        "es-ES": "Apagar"
     },
     "wgSsDA": {
-        "ko": "켜기",
-        "en": "Turn on",
-        "pt": "Ligar",
-        "es": "Encender"
+        "ko-KR": "켜기",
+        "en-US": "Turn on",
+        "pt-BR": "Ligar",
+        "es-ES": "Encender"
     },
     "wwSsDA": {
-        "ko": "방송",
-        "en": "Broadcast",
-        "pt": "Anúncio",
-        "es": "Anuncio"
+        "ko-KR": "방송",
+        "en-US": "Broadcast",
+        "pt-BR": "Anúncio",
+        "es-ES": "Anuncio"
     },
     "xASsDA": {
-        "ko": "생존한 기사",
-        "en": "Surviving Knight",
-        "pt": "Sobrevivente",
-        "es": "Sobrevivente"
+        "ko-KR": "생존한 기사",
+        "en-US": "Surviving Knight",
+        "pt-BR": "Sobrevivente",
+        "es-ES": "Sobrevivente"
     },
     "xQSsDA": {
-        "ko": "왕명입니다! 속히 밖으로 피신하십시오",
-        "en": "By royal decree! Hurry and evacuate outside.",
-        "pt": "Em nome do Rei, por favor, evacue o castelo.",
-        "es": "En nombre del Rey, por favor, evacúa el castillo."
+        "ko-KR": "왕명입니다! 속히 밖으로 피신하십시오",
+        "en-US": "By royal decree! Hurry and evacuate outside.",
+        "pt-BR": "Em nome do Rei, por favor, evacue o castelo.",
+        "es-ES": "En nombre del Rey, por favor, evacúa el castillo."
     },
     "xgSsDA": {
-        "ko": "이성을 잃은 기사",
-        "en": "A Knight Who Has Lost His Reason",
-        "pt": "Cavaleira Descontrolada",
-        "es": "Caballera Descontrolada"
+        "ko-KR": "이성을 잃은 기사",
+        "en-US": "A Knight Who Has Lost His Reason",
+        "pt-BR": "Cavaleira Descontrolada",
+        "es-ES": "Caballera Descontrolada"
     },
     "xwSsDA": {
-        "ko": "가까이 오지마라!",
-        "en": "Don't come any closer!",
-        "pt": "Não chegue perto!",
-        "es": "¡No te acerques!"
+        "ko-KR": "가까이 오지마라!",
+        "en-US": "Don't come any closer!",
+        "pt-BR": "Não chegue perto!",
+        "es-ES": "¡No te acerques!"
     },
     "yASsDA": {
-        "ko": "자리를 피하라구요? 오 이런 왕이시여, 안으로 들어가시면 안됩니다. 어서 피하십시오.",
-        "en": "Step aside? Oh, Your Majesty, you must not go inside. Please, step back at once.",
-        "pt": "Evacuar? Vossa majestade, não se aproxime!!",
-        "es": "¿Evacuar? ¡¡Su majestad, no se acerque!!"
+        "ko-KR": "자리를 피하라구요? 오 이런 왕이시여, 안으로 들어가시면 안됩니다. 어서 피하십시오.",
+        "en-US": "Step aside? Oh, Your Majesty, you must not go inside. Please, step back at once.",
+        "pt-BR": "Evacuar? Vossa majestade, não se aproxime!!",
+        "es-ES": "¿Evacuar? ¡¡Su majestad, no se acerque!!"
     },
     "yQSsDA": {
-        "ko": "왕명입니다. 속히 밖으로 피신하십시오",
-        "en": "This is a royal order. Evacuate outside at once.",
-        "pt": "Em nome do Rei, por favor, evacue o castelo.",
-        "es": "En nombre del Rey, por favor, evacúa el castillo."
+        "ko-KR": "왕명입니다. 속히 밖으로 피신하십시오",
+        "en-US": "This is a royal order. Evacuate outside at once.",
+        "pt-BR": "Em nome do Rei, por favor, evacue o castelo.",
+        "es-ES": "En nombre del Rey, por favor, evacúa el castillo."
     },
     "ygSsDA": {
-        "ko": "날 내버려둬! 다가오지마!!",
-        "en": "Leave me alone! Don’t come any closer!!",
-        "pt": "Me deixe em paz!!",
-        "es": "¡¡Déjame en paz!!"
+        "ko-KR": "날 내버려둬! 다가오지마!!",
+        "en-US": "Leave me alone! Don’t come any closer!!",
+        "pt-BR": "Me deixe em paz!!",
+        "es-ES": "¡¡Déjame en paz!!"
     },
     "ywSsDA": {
-        "ko": "성안의 기묘한 오브가 생명체를 빨아들이고 있습니다. 오브의 근처에 있던 이들은 모두 언데드로 변해버리고 있어요.",
-        "en": "A strange orb inside the castle is absorbing living beings. Everyone who was near the orb is turning into undead.",
-        "pt": "Toda a energia vital está sendo sugada por um Orbe no castelo.",
-        "es": "Toda la energía vital está siendo absorbida por un Orbe en el castillo."
+        "ko-KR": "성안의 기묘한 오브가 생명체를 빨아들이고 있습니다. 오브의 근처에 있던 이들은 모두 언데드로 변해버리고 있어요.",
+        "en-US": "A strange orb inside the castle is absorbing living beings. Everyone who was near the orb is turning into undead.",
+        "pt-BR": "Toda a energia vital está sendo sugada por um Orbe no castelo.",
+        "es-ES": "Toda la energía vital está siendo absorbida por un Orbe en el castillo."
     },
     "zASsDA": {
-        "ko": "으으으, 머릿속에서 자꾸 목소리가 들려.",
-        "en": "Ugh... I keep hearing a voice in my head.",
-        "pt": "Ouço vozes na minha cabeça.",
-        "es": "Escucho voces en mi cabeza."
+        "ko-KR": "으으으, 머릿속에서 자꾸 목소리가 들려.",
+        "en-US": "Ugh... I keep hearing a voice in my head.",
+        "pt-BR": "Ouço vozes na minha cabeça.",
+        "es-ES": "Escucho voces en mi cabeza."
     },
     "zQSsDA": {
-        "ko": "피하셔야 합니다. 기사단이 외성쪽을 막고있지만 한계입니다. 살아있는 자들이 언데드로 변하고 있습니다.",
-        "en": "You must get away. The Knights are holding the outer castle, but they have their limits. The living are turning into undead.",
-        "pt": "Quem se aproximar do Orbe vira morto-vivo. Evite adentrar no castelo!",
-        "es": "¡Quien se acerque al Orbe se convierte en no-muerto! ¡Eviten entrar al castillo!"
+        "ko-KR": "피하셔야 합니다. 기사단이 외성쪽을 막고있지만 한계입니다. 살아있는 자들이 언데드로 변하고 있습니다.",
+        "en-US": "You must get away. The Knights are holding the outer castle, but they have their limits. The living are turning into undead.",
+        "pt-BR": "Quem se aproximar do Orbe vira morto-vivo. Evite adentrar no castelo!",
+        "es-ES": "¡Quien se acerque al Orbe se convierte en no-muerto! ¡Eviten entrar al castillo!"
     },
     "zgSsDA": {
-        "ko": "난 슈미츠 전하의 명령만 받든다!",
-        "en": "I only take orders from His Majesty Schmidt!",
-        "pt": "Apenas aceito ordens do Rei Schmidt!",
-        "es": "¡Solo acepto órdenes del Rey Schmidt!"
+        "ko-KR": "난 슈미츠 전하의 명령만 받든다!",
+        "en-US": "I only take orders from His Majesty Schmidt!",
+        "pt-BR": "Apenas aceito ordens do Rei Schmidt!",
+        "es-ES": "¡Solo acepto órdenes del Rey Schmidt!"
     },
     "zwSsDA": {
-        "ko": "크으으... 오브에서 흘러나오는 소리에 영혼이 침식되는 느낌이예요 제 곁에서 멀어지세요.",
-        "en": "Nngh... The sound flowing from the orb feels like it’s eating away at my soul. Step away from me.",
-        "pt": "Urgh... sinto que minha alma está sendo corrompida.",
-        "es": "Urgh... siento que mi alma está siendo corrompida."
+        "ko-KR": "크으으... 오브에서 흘러나오는 소리에 영혼이 침식되는 느낌이예요 제 곁에서 멀어지세요.",
+        "en-US": "Nngh... The sound flowing from the orb feels like it’s eating away at my soul. Step away from me.",
+        "pt-BR": "Urgh... sinto que minha alma está sendo corrompida.",
+        "es-ES": "Urgh... siento que mi alma está siendo corrompida."
     },
     "0ASsDA": {
-        "ko": "성 안쪽의 경비를 맡았던 병력들이 괴물로 변해버렸다는데 사실이 아니겠죠? 전 나가보겠습니다",
-        "en": "They say the troops guarding inside the castle have turned into monsters... That can't be true, right? I'll head out.",
-        "pt": "É verdade que a tropa virou zumbi? Eu estou caindo fora!",
-        "es": "¿Es cierto que los soldados se han convertido en zombis? ¡Yo me largo de aquí!"
+        "ko-KR": "성 안쪽의 경비를 맡았던 병력들이 괴물로 변해버렸다는데 사실이 아니겠죠? 전 나가보겠습니다",
+        "en-US": "They say the troops guarding inside the castle have turned into monsters... That can't be true, right? I'll head out.",
+        "pt-BR": "É verdade que a tropa virou zumbi? Eu estou caindo fora!",
+        "es-ES": "¿Es cierto que los soldados se han convertido en zombis? ¡Yo me largo de aquí!"
     },
     "0QSsDA": {
-        "ko": "안쪽으로 들어가시면 안됩니다. 바깥으로 달아나셔야합니다. 저도 이제 나갈겁니다!",
-        "en": "You must not go inside. You need to run outside. I'm leaving now, too!",
-        "pt": "Você não pode ir mais a fundo! Eu estou fugindo!",
-        "es": "¡No puedes ir más allá! ¡Estoy huyendo!"
+        "ko-KR": "안쪽으로 들어가시면 안됩니다. 바깥으로 달아나셔야합니다. 저도 이제 나갈겁니다!",
+        "en-US": "You must not go inside. You need to run outside. I'm leaving now, too!",
+        "pt-BR": "Você não pode ir mais a fundo! Eu estou fugindo!",
+        "es-ES": "¡No puedes ir más allá! ¡Estoy huyendo!"
     },
     "0gSsDA": {
-        "ko": "더 들어가지 마십시오 전하! 위험합니다! 저와 함께 나가시지요!",
-        "en": "Do not go any farther, Your Majesty! It is dangerous! Please leave with me!",
-        "pt": "Não chegue muito perto do Orbe!",
-        "es": "¡No te acerques demasiado al Orbe!"
+        "ko-KR": "더 들어가지 마십시오 전하! 위험합니다! 저와 함께 나가시지요!",
+        "en-US": "Do not go any farther, Your Majesty! It is dangerous! Please leave with me!",
+        "pt-BR": "Não chegue muito perto do Orbe!",
+        "es-ES": "¡No te acerques demasiado al Orbe!"
     },
     "0wSsDA": {
-        "ko": "난 여기서 나가야겠어요. 더 이상 버티는건 무리야.",
-        "en": "I should get out of here. I can't hold on any longer.",
-        "pt": "Eu preciso escapar daqui.",
-        "es": "Necesito escapar de aquí."
+        "ko-KR": "난 여기서 나가야겠어요. 더 이상 버티는건 무리야.",
+        "en-US": "I should get out of here. I can't hold on any longer.",
+        "pt-BR": "Eu preciso escapar daqui.",
+        "es-ES": "Necesito escapar de aquí."
     },
     "1ASsDA": {
-        "ko": "희생자",
-        "en": "Victim",
-        "pt": "Vítima",
-        "es": "Víctima"
+        "ko-KR": "희생자",
+        "en-US": "Victim",
+        "pt-BR": "Vítima",
+        "es-ES": "Víctima"
     },
     "1QSsDA": {
-        "ko": "구더기",
-        "en": "Maggot",
-        "pt": "Larva",
-        "es": "Larva"
+        "ko-KR": "구더기",
+        "en-US": "Maggot",
+        "pt-BR": "Larva",
+        "es-ES": "Larva"
     },
     "1gSsDA": {
-        "ko": "#fire{0}",
-        "en": "#fire{0}",
-        "pt": "#fire{0}",
-        "es": "#fire{0}"
+        "ko-KR": "#fire{0}",
+        "en-US": "#fire{0}",
+        "pt-BR": "#fire{0}",
+        "es-ES": "#fire{0}"
     }
 }

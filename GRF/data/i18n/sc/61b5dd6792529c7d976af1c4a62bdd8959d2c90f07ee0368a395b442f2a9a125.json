@@ -1,207 +1,207 @@
 {
     "YPMBCg": {
-        "en": "Red-Haired Swordsman",
-        "pt": "Espadachim Ruivo",
-        "es": "Espadachín pelirrojo"
+        "en-US": "Red-Haired Swordsman",
+        "pt-BR": "Espadachim Ruivo",
+        "es-ES": "Espadachín pelirrojo"
     },
     "YfMBCg": {
-        "en": "[Leno]\nOh? We meet again!\nI was told to meet someone to do the quest for Prontera Church with me, and look who's here!\nIt must be our destiny!",
-        "pt": "[Leno]\nOh? nos encontramos novamente!\nDisseram-me para encontrar alguém para fazer a missão da Catedral de Prontera comigo, e veja quem está aqui!\nDeve ser o nosso destino!",
-        "es": "[Leno]\n¿Oh? ¡Nos encontramos de nuevo!\nMe dijeron que me reuniera con alguien para hacer la búsqueda de la Iglesia Prontera conmigo, ¡y mira quién está aquí!\n¡Debe ser nuestro destino!"
+        "en-US": "[Leno]\nOh? We meet again!\nI was told to meet someone to do the quest for Prontera Church with me, and look who's here!\nIt must be our destiny!",
+        "pt-BR": "[Leno]\nOh? nos encontramos novamente!\nDisseram-me para encontrar alguém para fazer a missão da Catedral de Prontera comigo, e veja quem está aqui!\nDeve ser o nosso destino!",
+        "es-ES": "[Leno]\n¿Oh? ¡Nos encontramos de nuevo!\nMe dijeron que me reuniera con alguien para hacer la búsqueda de la Iglesia Prontera conmigo, ¡y mira quién está aquí!\n¡Debe ser nuestro destino!"
     },
     "YvMBCg": {
-        "en": "Let's go to Prontera.",
-        "pt": "Vamos para Prontera.",
-        "es": "Vamos a Prontera."
+        "en-US": "Let's go to Prontera.",
+        "pt-BR": "Vamos para Prontera.",
+        "es-ES": "Vamos a Prontera."
     },
     "Y/MBCg": {
-        "en": "[Leno]\nOf course. There's someone I'm waiting for though.\nAh, here he is.",
-        "pt": "[Leno]\nClaro que sim. Mas há alguém que estou esperando.\nAh, aqui está ele.",
-        "es": "[Leno]\nPor supuesto. Aunque hay alguien a quien estoy esperando.\nAh, aquí está."
+        "en-US": "[Leno]\nOf course. There's someone I'm waiting for though.\nAh, here he is.",
+        "pt-BR": "[Leno]\nClaro que sim. Mas há alguém que estou esperando.\nAh, aqui está ele.",
+        "es-ES": "[Leno]\nPor supuesto. Aunque hay alguien a quien estoy esperando.\nAh, aquí está."
     },
     "ZPMBCg": {
-        "en": "[Breno]\nOh, Adventurers. I hope I did not keep you long.\nThere's someone I haven't seen before!\nThe more the better to help me.",
-        "pt": "[Breno]\nOh, aventureiros. Espero não tê-los demorado muito.\nTem alguém que eu nunca vi antes!\nQuanto mais, melhor para me ajudar.",
-        "es": "[Breno]\nOh, Aventureros. Espero no haberos entretenido mucho.\n¡Hay alguien a quien no he visto antes!\nCuantos más mejor para ayudarme."
+        "en-US": "[Breno]\nOh, Adventurers. I hope I did not keep you long.\nThere's someone I haven't seen before!\nThe more the better to help me.",
+        "pt-BR": "[Breno]\nOh, aventureiros. Espero não tê-los demorado muito.\nTem alguém que eu nunca vi antes!\nQuanto mais, melhor para me ajudar.",
+        "es-ES": "[Breno]\nOh, Aventureros. Espero no haberos entretenido mucho.\n¡Hay alguien a quien no he visto antes!\nCuantos más mejor para ayudarme."
     },
     "ZfMBCg": {
-        "en": "[Leno]\nYeah. The very first step in being an adventurer is by helping others in need.\nFor a member of Eden Group, it's just like completing a quest.",
-        "pt": "[Leno]\nSim. O primeiro passo para ser um aventureiro é ajudar os necessitados.\nPara um membro do Grupo do Éden, é como completar uma missão.",
-        "es": "[Leno]\nSí. El primer paso para ser un aventurero es ayudar a los necesitados.\nPara un miembro del Grupo del Edén, es como completar una misión."
+        "en-US": "[Leno]\nYeah. The very first step in being an adventurer is by helping others in need.\nFor a member of Eden Group, it's just like completing a quest.",
+        "pt-BR": "[Leno]\nSim. O primeiro passo para ser um aventureiro é ajudar os necessitados.\nPara um membro do Grupo do Éden, é como completar uma missão.",
+        "es-ES": "[Leno]\nSí. El primer paso para ser un aventurero es ayudar a los necesitados.\nPara un miembro del Grupo del Edén, es como completar una misión."
     },
     "ZvMBCg": {
-        "en": "[Leno]\nAlso, it's on our way there anyway.\nLet's do it together.",
-        "pt": "[Leno]\nAlém disso, é no nosso caminho para lá de qualquer maneira.\nVamos fazer isso juntos.",
-        "es": "[Leno]\nAdemás, está en nuestro camino de todos modos.\nHagámoslo juntos."
+        "en-US": "[Leno]\nAlso, it's on our way there anyway.\nLet's do it together.",
+        "pt-BR": "[Leno]\nAlém disso, é no nosso caminho para lá de qualquer maneira.\nVamos fazer isso juntos.",
+        "es-ES": "[Leno]\nAdemás, está en nuestro camino de todos modos.\nHagámoslo juntos."
     },
     "Z/MBCg": {
-        "en": "So what's going on, exactly?",
-        "pt": "Então, o que está acontecendo exatamente?",
-        "es": "¿Qué está pasando exactamente?"
+        "en-US": "So what's going on, exactly?",
+        "pt-BR": "Então, o que está acontecendo exatamente?",
+        "es-ES": "¿Qué está pasando exactamente?"
     },
     "aPMBCg": {
-        "en": "[Breno]\nAh, I am preparing for a small event.\nSo I want to put posters all around Prontera.",
-        "pt": "[Breno]\nAh, estou me preparando para um pequeno evento.\nEntão, quero colocar pôsteres em toda Prontera.",
-        "es": "[Breno]\nAh, estoy preparando un pequeño evento.\nAsí que quiero poner carteles por toda Prontera."
+        "en-US": "[Breno]\nAh, I am preparing for a small event.\nSo I want to put posters all around Prontera.",
+        "pt-BR": "[Breno]\nAh, estou me preparando para um pequeno evento.\nEntão, quero colocar pôsteres em toda Prontera.",
+        "es-ES": "[Breno]\nAh, estoy preparando un pequeño evento.\nAsí que quiero poner carteles por toda Prontera."
     },
     "afMBCg": {
-        "en": "[Breno]\nSimple, right?\nReno can put posters in West Prontera.\nI'll take the east side.",
-        "pt": "[Breno]\nSimples, não é?\nLeno pode colocar pôsteres em Prontera Ocidental.\nEu fico com o lado leste.",
-        "es": "[Breno]\nSimple, ¿verdad?\nReno puede poner carteles en Prontera Oeste.\nYo tomaré el lado este."
+        "en-US": "[Breno]\nSimple, right?\nReno can put posters in West Prontera.\nI'll take the east side.",
+        "pt-BR": "[Breno]\nSimples, não é?\nLeno pode colocar pôsteres em Prontera Ocidental.\nEu fico com o lado leste.",
+        "es-ES": "[Breno]\nSimple, ¿verdad?\nReno puede poner carteles en Prontera Oeste.\nYo tomaré el lado este."
     },
     "avMBCg": {
-        "en": "What about me?",
-        "pt": "E quanto a mim?",
-        "es": "¿Y yo qué?"
+        "en-US": "What about me?",
+        "pt-BR": "E quanto a mim?",
+        "es-ES": "¿Y yo qué?"
     },
     "a/MBCg": {
-        "en": "[Breno]\nYou can put posters on the marked spots along the ^4D4DFFNorth Prontera Inner Wall^000000.",
-        "pt": "[Breno]\nVocê pode colocar pôsteres nos locais marcados ao longo da ^4D4DFFMuralha Interna de Prontera Norte^000000.",
-        "es": "[Breno]\nPuedes colocar carteles en los lugares marcados a lo largo de la ^4D4DFFMuralla Interior de Prontera Norte^000000."
+        "en-US": "[Breno]\nYou can put posters on the marked spots along the ^4D4DFFNorth Prontera Inner Wall^000000.",
+        "pt-BR": "[Breno]\nVocê pode colocar pôsteres nos locais marcados ao longo da ^4D4DFFMuralha Interna de Prontera Norte^000000.",
+        "es-ES": "[Breno]\nPuedes colocar carteles en los lugares marcados a lo largo de la ^4D4DFFMuralla Interior de Prontera Norte^000000."
     },
     "bPMBCg": {
-        "en": "[Leno]\nOnce we're done, let's meet ^4D4DFFin front of Prontera Church^000000.\nOur real quest begins there...",
-        "pt": "[Leno]\nQuando terminarmos, vamos nos encontrar ^4D4DFFem frente à Catedral de Prontera^000000.\nNossa verdadeira missão começa lá...",
-        "es": "[Leno]\nUna vez que terminemos, reunámonos ^4D4DFFfrente a la Iglesia Prontera^000000.\nNuestra verdadera búsqueda comienza allí..."
+        "en-US": "[Leno]\nOnce we're done, let's meet ^4D4DFFin front of Prontera Church^000000.\nOur real quest begins there...",
+        "pt-BR": "[Leno]\nQuando terminarmos, vamos nos encontrar ^4D4DFFem frente à Catedral de Prontera^000000.\nNossa verdadeira missão começa lá...",
+        "es-ES": "[Leno]\nUna vez que terminemos, reunámonos ^4D4DFFfrente a la Iglesia Prontera^000000.\nNuestra verdadera búsqueda comienza allí..."
     },
     "bfMBCg": {
-        "en": "[Breno]\nThanks again for your help.\nI'll now go to begin my work.\nLet's meet in front of the church once we're done.",
-        "pt": "[Breno]\nObrigado novamente por sua ajuda.\nAgora vou começar meu trabalho.\nVamos nos encontrar em frente à igreja quando terminarmos.",
-        "es": "[Breno]\nGracias de nuevo por tu ayuda.\nAhora iré a comenzar mi trabajo.\nEncontrémonos frente a la iglesia una vez que hayamos terminado."
+        "en-US": "[Breno]\nThanks again for your help.\nI'll now go to begin my work.\nLet's meet in front of the church once we're done.",
+        "pt-BR": "[Breno]\nObrigado novamente por sua ajuda.\nAgora vou começar meu trabalho.\nVamos nos encontrar em frente à igreja quando terminarmos.",
+        "es-ES": "[Breno]\nGracias de nuevo por tu ayuda.\nAhora iré a comenzar mi trabajo.\nEncontrémonos frente a la iglesia una vez que hayamos terminado."
     },
     "bvMBCg": {
-        "en": "Let's go, my friend!",
-        "pt": "Vamos lá, meu amigo!",
-        "es": "¡Vamos, amigo mío!"
+        "en-US": "Let's go, my friend!",
+        "pt-BR": "Vamos lá, meu amigo!",
+        "es-ES": "¡Vamos, amigo mío!"
     },
     "b/MBCg": {
-        "en": "[Leno]\nI'll take the west side, and you work on the central inner castle's northern wall.\nJust come to the front of Prontera Church when you're done!",
-        "pt": "[Leno]\nEu fico com o lado oeste, e você trabalha na parede norte do castelo central interno.\nQuando terminarem, venham até a frente da Catedral de Prontera!",
-        "es": "[Leno]\nYo tomaré el lado oeste, y tú trabaja en el muro norte del castillo interior central.\nAcércate a la iglesia de Prontera cuando termines."
+        "en-US": "[Leno]\nI'll take the west side, and you work on the central inner castle's northern wall.\nJust come to the front of Prontera Church when you're done!",
+        "pt-BR": "[Leno]\nEu fico com o lado oeste, e você trabalha na parede norte do castelo central interno.\nQuando terminarem, venham até a frente da Catedral de Prontera!",
+        "es-ES": "[Leno]\nYo tomaré el lado oeste, y tú trabaja en el muro norte del castillo interior central.\nAcércate a la iglesia de Prontera cuando termines."
     },
     "cPMBCg": {
-        "en": "Is dying hair red a thing these days? I feel like I keep seeing it everywhere...",
-        "pt": "Está na moda tingir o cabelo de vermelho atualmente? Sinto que estou sempre vendo isso em todos os lugares...",
-        "es": "¿Teñirse el pelo de rojo está de moda hoy en día? Creo que lo veo por todas partes..."
+        "en-US": "Is dying hair red a thing these days? I feel like I keep seeing it everywhere...",
+        "pt-BR": "Está na moda tingir o cabelo de vermelho atualmente? Sinto que estou sempre vendo isso em todos os lugares...",
+        "es-ES": "¿Teñirse el pelo de rojo está de moda hoy en día? Creo que lo veo por todas partes..."
     },
     "cfMBCg": {
-        "en": "Breno",
-        "pt": "Breno",
-        "es": "Breno"
+        "en-US": "Breno",
+        "pt-BR": "Breno",
+        "es-ES": "Breno"
     },
     "cvMBCg": {
-        "en": "Suspicious Document",
-        "pt": "Documento Suspeito",
-        "es": "Documento sospechoso"
+        "en-US": "Suspicious Document",
+        "pt-BR": "Documento Suspeito",
+        "es-ES": "Documento sospechoso"
     },
     "c/MBCg": {
-        "en": "The tracks go that way, to the east. Looks like they go pretty far, too.",
-        "pt": "Os rastros vão por ali, para o leste. Parece que vão bem longe também.",
-        "es": "Las vías van en esa dirección, hacia el este. Parece que van bastante lejos, también."
+        "en-US": "The tracks go that way, to the east. Looks like they go pretty far, too.",
+        "pt-BR": "Os rastros vão por ali, para o leste. Parece que vão bem longe também.",
+        "es-ES": "Las vías van en esa dirección, hacia el este. Parece que van bastante lejos, también."
     },
     "dPMBCg": {
-        "en": "The tracks go that way. Looks like they go pretty far, too.",
-        "pt": "Os trilhos vão naquela direção. Parece que vão bem longe também.",
-        "es": "Las vías van en esa dirección. Parece que van bastante lejos, también."
+        "en-US": "The tracks go that way. Looks like they go pretty far, too.",
+        "pt-BR": "Os trilhos vão naquela direção. Parece que vão bem longe também.",
+        "es-ES": "Las vías van en esa dirección. Parece que van bastante lejos, también."
     },
     "dfMBCg": {
-        "en": "Prontera Soldier",
-        "pt": "Soldado de Prontera",
-        "es": "Prontera Soldado"
+        "en-US": "Prontera Soldier",
+        "pt-BR": "Soldado de Prontera",
+        "es-ES": "Prontera Soldado"
     },
     "dvMBCg": {
-        "en": "Good to see the two of you.",
-        "pt": "É bom ver vocês dois.",
-        "es": "Me alegro de veros."
+        "en-US": "Good to see the two of you.",
+        "pt-BR": "É bom ver vocês dois.",
+        "es-ES": "Me alegro de veros."
     },
     "d/MBCg": {
-        "en": "Oh? A Soldier?",
-        "pt": "Oh? Um soldado?",
-        "es": "¿Oh? ¿Un soldado?"
+        "en-US": "Oh? A Soldier?",
+        "pt-BR": "Oh? Um soldado?",
+        "es-ES": "¿Oh? ¿Un soldado?"
     },
     "ePMBCg": {
-        "en": "[Soldier]\nIt was you two, right?\nThe adventurers participating in the search for the Goddess Followers.",
-        "pt": "[Soldado]\nForam vocês dois, certo?\nOs aventureiros que participam da busca pelos Seguidores da Deusa.",
-        "es": "[Soldado]\nFueron ustedes dos, ¿verdad?\nLos aventureros que participan en la búsqueda de los Seguidores de la Diosa."
+        "en-US": "[Soldier]\nIt was you two, right?\nThe adventurers participating in the search for the Goddess Followers.",
+        "pt-BR": "[Soldado]\nForam vocês dois, certo?\nOs aventureiros que participam da busca pelos Seguidores da Deusa.",
+        "es-ES": "[Soldado]\nFueron ustedes dos, ¿verdad?\nLos aventureros que participan en la búsqueda de los Seguidores de la Diosa."
     },
     "efMBCg": {
-        "en": "[Soldier]\nWe did some investigating of our own; it's nice to run into you two here.\nWhat a coincidence!",
-        "pt": "[Soldado]\nFizemos algumas investigações por conta própria; é bom encontrar vocês dois aqui.\nQue coincidência!",
-        "es": "[Soldado]\nHemos investigado un poco por nuestra cuenta; me alegro de encontraros aquí.\n¡Qué coincidencia!"
+        "en-US": "[Soldier]\nWe did some investigating of our own; it's nice to run into you two here.\nWhat a coincidence!",
+        "pt-BR": "[Soldado]\nFizemos algumas investigações por conta própria; é bom encontrar vocês dois aqui.\nQue coincidência!",
+        "es-ES": "[Soldado]\nHemos investigado un poco por nuestra cuenta; me alegro de encontraros aquí.\n¡Qué coincidencia!"
     },
     "evMBCg": {
-        "en": "What's going on?",
-        "pt": "O que está acontecendo?",
-        "es": "¿Qué es lo que pasa?"
+        "en-US": "What's going on?",
+        "pt-BR": "O que está acontecendo?",
+        "es-ES": "¿Qué es lo que pasa?"
     },
     "e/MBCg": {
-        "en": "[Soldier]\nThat Goddess Follower, was his name Breno?\nHe must have fled Prontera.",
-        "pt": "[Soldado]\nAquele Seguidor da Deusa, seu nome era Breno?\nEle deve ter fugido de Prontera.",
-        "es": "[Soldado]\nEse seguidor de la Diosa, ¿se llamaba Breno?\nDebe haber huido de Prontera."
+        "en-US": "[Soldier]\nThat Goddess Follower, was his name Breno?\nHe must have fled Prontera.",
+        "pt-BR": "[Soldado]\nAquele Seguidor da Deusa, seu nome era Breno?\nEle deve ter fugido de Prontera.",
+        "es-ES": "[Soldado]\nEse seguidor de la Diosa, ¿se llamaba Breno?\nDebe haber huido de Prontera."
     },
     "fPMBCg": {
-        "en": "[Soldier]\nSomeone saw him on a ship at the northeast shore.\nWe won't be able to track him down if he heads out to sea.",
-        "pt": "[Soldado]\nAlguém o viu em um navio na costa nordeste.\nNão conseguiremos localizá-lo se ele for para o mar.",
-        "es": "[Soldado]\nAlguien lo vio en un barco en la costa noreste.\nNo podremos seguirle la pista si se adentra en el mar."
+        "en-US": "[Soldier]\nSomeone saw him on a ship at the northeast shore.\nWe won't be able to track him down if he heads out to sea.",
+        "pt-BR": "[Soldado]\nAlguém o viu em um navio na costa nordeste.\nNão conseguiremos localizá-lo se ele for para o mar.",
+        "es-ES": "[Soldado]\nAlguien lo vio en un barco en la costa noreste.\nNo podremos seguirle la pista si se adentra en el mar."
     },
     "ffMBCg": {
-        "en": "[Soldier]\nMiss Meric asked me to let you know that he really appreciates your cooperation.\nBut the investigation must end here.",
-        "pt": "[Soldado]\nSra. Meric me pediu para informá-lo de que ele realmente aprecia sua cooperação.\nMas a investigação deve terminar aqui.",
-        "es": "[Soldado]\nSra. Meric me pidió que le hiciera saber que realmente aprecia su cooperación.\nPero la investigación debe terminar aquí."
+        "en-US": "[Soldier]\nMiss Meric asked me to let you know that he really appreciates your cooperation.\nBut the investigation must end here.",
+        "pt-BR": "[Soldado]\nSra. Meric me pediu para informá-lo de que ele realmente aprecia sua cooperação.\nMas a investigação deve terminar aqui.",
+        "es-ES": "[Soldado]\nSra. Meric me pidió que le hiciera saber que realmente aprecia su cooperación.\nPero la investigación debe terminar aquí."
     },
     "fvMBCg": {
-        "en": "[Soldier]\nOf course, we'll keep our eyes peeled for him...\nBut you two are free to do as you will.",
-        "pt": "[Soldado]\nÉ claro que manteremos nossos olhos atentos a ele...\nMas vocês dois são livres para fazer o que quiserem.",
-        "es": "[Soldado]\nPor supuesto, mantendremos nuestros ojos bien abiertos para él...\nPero ustedes dos son libres de hacer lo que quieran."
+        "en-US": "[Soldier]\nOf course, we'll keep our eyes peeled for him...\nBut you two are free to do as you will.",
+        "pt-BR": "[Soldado]\nÉ claro que manteremos nossos olhos atentos a ele...\nMas vocês dois são livres para fazer o que quiserem.",
+        "es-ES": "[Soldado]\nPor supuesto, mantendremos nuestros ojos bien abiertos para él...\nPero ustedes dos son libres de hacer lo que quieran."
     },
     "f/MBCg": {
-        "en": "[Soldier]\nThank you for your help.",
-        "pt": "[Soldado]\nObrigado por sua ajuda.",
-        "es": "[Soldado]\nGracias por su ayuda."
+        "en-US": "[Soldier]\nThank you for your help.",
+        "pt-BR": "[Soldado]\nObrigado por sua ajuda.",
+        "es-ES": "[Soldado]\nGracias por su ayuda."
     },
     "gPMBCg": {
-        "en": "What should we do now? Shall we talk for a moment?",
-        "pt": "O que devemos fazer agora? Vamos conversar por um momento?",
-        "es": "¿Qué hacemos ahora? ¿Hablamos un momento?"
+        "en-US": "What should we do now? Shall we talk for a moment?",
+        "pt-BR": "O que devemos fazer agora? Vamos conversar por um momento?",
+        "es-ES": "¿Qué hacemos ahora? ¿Hablamos un momento?"
     },
     "gfMBCg": {
-        "en": "Thank you for your help.",
-        "pt": "Obrigado por sua ajuda.",
-        "es": "Gracias por su ayuda."
+        "en-US": "Thank you for your help.",
+        "pt-BR": "Obrigado por sua ajuda.",
+        "es-ES": "Gracias por su ayuda."
     },
     "gvMBCg": {
-        "en": "[Soldier]\nDown below is the desert.\nYou can also go to Poring Island or Payon to the east.",
-        "pt": "[Soldado]\nAbaixo está o deserto.\nVocê também pode ir para Campo dos Porings ou Payon a leste.",
-        "es": "[Soldado]\nAbajo está el desierto.\nTambién puedes ir a la isla de Poring o a Payon, al este."
+        "en-US": "[Soldier]\nDown below is the desert.\nYou can also go to Poring Island or Payon to the east.",
+        "pt-BR": "[Soldado]\nAbaixo está o deserto.\nVocê também pode ir para Campo dos Porings ou Payon a leste.",
+        "es-ES": "[Soldado]\nAbajo está el desierto.\nTambién puedes ir a la isla de Poring o a Payon, al este."
     },
     "g/MBCg": {
-        "en": "Leno",
-        "pt": "Leno",
-        "es": "Leno"
+        "en-US": "Leno",
+        "pt-BR": "Leno",
+        "es-ES": "Leno"
     },
     "hPMBCg": {
-        "en": "[Leno]\nThat must be everything we can do for now.\nIf we try to traverse this area,\nit will be too dangerous for us now.",
-        "pt": "[Leno]\nIsso deve ser tudo o que podemos fazer por enquanto.\nSe tentarmos atravessar essa área,\nserá muito perigoso para nós agora.",
-        "es": "[Leno]\nEso debe ser todo lo que podemos hacer por ahora.\nSi tratamos de atravesar esta zona,\nserá demasiado peligroso para nosotros ahora."
+        "en-US": "[Leno]\nThat must be everything we can do for now.\nIf we try to traverse this area,\nit will be too dangerous for us now.",
+        "pt-BR": "[Leno]\nIsso deve ser tudo o que podemos fazer por enquanto.\nSe tentarmos atravessar essa área,\nserá muito perigoso para nós agora.",
+        "es-ES": "[Leno]\nEso debe ser todo lo que podemos hacer por ahora.\nSi tratamos de atravesar esta zona,\nserá demasiado peligroso para nosotros ahora."
     },
     "hfMBCg": {
-        "en": "[Leno]\nLet's go back to Izlude for now.\nTo the academy, I mean the Adventurers' Guild.\nLet's go back to ^4D4DFFSprakki^000000 at the Guild,\nand report our progress so far.",
-        "pt": "[Leno]\nVamos voltar para Izlude por enquanto.\nPara a academia, quero dizer, a Academia Criatura.\nVamos voltar para ^4D4DFFSprakki^000000 na Guilda,\ne relatar nosso progresso até agora.",
-        "es": "[Leno]\nVolvamos a Izlude por ahora.\nA la academia, me refiero al Gremio de Aventureros.\nVolvamos a ^4D4DFFSprakki^000000 en el Gremio,\ne informemos de nuestro progreso hasta ahora."
+        "en-US": "[Leno]\nLet's go back to Izlude for now.\nTo the academy, I mean the Adventurers' Guild.\nLet's go back to ^4D4DFFSprakki^000000 at the Guild,\nand report our progress so far.",
+        "pt-BR": "[Leno]\nVamos voltar para Izlude por enquanto.\nPara a academia, quero dizer, a Academia Criatura.\nVamos voltar para ^4D4DFFSprakki^000000 na Guilda,\ne relatar nosso progresso até agora.",
+        "es-ES": "[Leno]\nVolvamos a Izlude por ahora.\nA la academia, me refiero al Gremio de Aventureros.\nVolvamos a ^4D4DFFSprakki^000000 en el Gremio,\ne informemos de nuestro progreso hasta ahora."
     },
     "hvMBCg": {
-        "en": "[Leno]\nSprakki also pays attention to many adventurers in the Eden Group,\nso she'll be able to give us some advice, too.\nLet's go to Izlude and meet with Sprakki.",
-        "pt": "[Leno]\nSprakki também dá atenção a muitos aventureiros do Grupo do Éden,\nportanto, ela também poderá nos dar alguns conselhos.\nVamos para Izlude e nos encontrar com Sprakki.",
-        "es": "[Leno]\nSprakki también presta atención a muchos aventureros del Grupo del Edén,\nasí que ella también podrá darnos algunos consejos.\nVayamos a Izlude y reunámonos con Sprakki."
+        "en-US": "[Leno]\nSprakki also pays attention to many adventurers in the Eden Group,\nso she'll be able to give us some advice, too.\nLet's go to Izlude and meet with Sprakki.",
+        "pt-BR": "[Leno]\nSprakki também dá atenção a muitos aventureiros do Grupo do Éden,\nportanto, ela também poderá nos dar alguns conselhos.\nVamos para Izlude e nos encontrar com Sprakki.",
+        "es-ES": "[Leno]\nSprakki también presta atención a muchos aventureros del Grupo del Edén,\nasí que ella también podrá darnos algunos consejos.\nVayamos a Izlude y reunámonos con Sprakki."
     },
     "h/MBCg": {
-        "en": "[Leno]\nSomewhere I can get involved.\nSomewhere I can train more...\nI need to know where I can go!",
-        "pt": "[Leno]\nAlgum lugar onde eu possa me envolver.\nAlgum lugar onde eu possa treinar mais...\nPreciso saber para onde posso ir!",
-        "es": "[Leno]\nAlgún lugar donde pueda involucrarme.\nAlgún lugar donde pueda entrenar más...\n¡Necesito saber dónde puedo ir!"
+        "en-US": "[Leno]\nSomewhere I can get involved.\nSomewhere I can train more...\nI need to know where I can go!",
+        "pt-BR": "[Leno]\nAlgum lugar onde eu possa me envolver.\nAlgum lugar onde eu possa treinar mais...\nPreciso saber para onde posso ir!",
+        "es-ES": "[Leno]\nAlgún lugar donde pueda involucrarme.\nAlgún lugar donde pueda entrenar más...\n¡Necesito saber dónde puedo ir!"
     },
     "iPMBCg": {
-        "en": "[Leno]\nI'll head to Izlude first.",
-        "pt": "[Leno]\nVou primeiro para Izlude.",
-        "es": "[Leno]\nMe dirigiré a Izlude primero."
+        "en-US": "[Leno]\nI'll head to Izlude first.",
+        "pt-BR": "[Leno]\nVou primeiro para Izlude.",
+        "es-ES": "[Leno]\nMe dirigiré a Izlude primero."
     }
 }

@@ -1,37 +1,37 @@
 {
     "gMwGAg": {
-        "en": "Siege Timer",
-        "pt": "Hora da Guerra",
-        "es": "Temporizador de victoria"
+        "en-US": "Siege Timer",
+        "pt-BR": "Hora da Guerra",
+        "es-ES": "Temporizador de victoria"
     },
     "gcwGAg": {
-        "en": "Woe 1: {0}\nWoe 2: {1}",
-        "pt": "GDE 1: {0}\nGDE 2: {1}",
-        "es": "Guerra del Emperium 1: {0}\nGuerra del Emperium 2: {1}"
+        "en-US": "Woe 1: {0}\nWoe 2: {1}",
+        "pt-BR": "GDE 1: {0}\nGDE 2: {1}",
+        "es-ES": "Guerra del Emperium 1: {0}\nGuerra del Emperium 2: {1}"
     },
     "gswGAg": {
-        "en": "You are not allied with the holding Guild, you may not enter at this time.",
-        "pt": "Hora de se preparar para a Guerra do Emperium e apenas aliados podem entrar.",
-        "es": "No te aliaste al gremio dominante, no puedes entrar en este momento."
+        "en-US": "You are not allied with the holding Guild, you may not enter at this time.",
+        "pt-BR": "Hora de se preparar para a Guerra do Emperium e apenas aliados podem entrar.",
+        "es-ES": "No te aliaste al gremio dominante, no puedes entrar en este momento."
     },
     "g8wGAg": {
-        "en": "Welcome Ally.",
-        "pt": "Sejam bem vindos, aliados.",
-        "es": "Qué bueno recibir aliados."
+        "en-US": "Welcome Ally.",
+        "pt-BR": "Sejam bem vindos, aliados.",
+        "es-ES": "Qué bueno recibir aliados."
     },
     "hMwGAg": {
-        "en": "guildID = {0}\nguild_name = {1}\nGetAgitInvestMsg = {2}\nCheckSiegeTime = {3}",
-        "pt": "guildID = {0}\nguild_name = {1}\nGetAgitInvestMsg = {2}\nCheckSiegeTime = {3}",
-        "es": "guildID = {0}\nguild_name = {1}\nGetAgitInvestMsg = {2}\nCheckSiegeTime = {3}"
+        "en-US": "guildID = {0}\nguild_name = {1}\nGetAgitInvestMsg = {2}\nCheckSiegeTime = {3}",
+        "pt-BR": "guildID = {0}\nguild_name = {1}\nGetAgitInvestMsg = {2}\nCheckSiegeTime = {3}",
+        "es-ES": "guildID = {0}\nguild_name = {1}\nGetAgitInvestMsg = {2}\nCheckSiegeTime = {3}"
     },
     "hcwGAg": {
-        "en": "guild_name_prtg_cas01",
-        "pt": "guild_name_prtg_cas01",
-        "es": "guild_name_prtg_cas01"
+        "en-US": "guild_name_prtg_cas01",
+        "pt-BR": "guild_name_prtg_cas01",
+        "es-ES": "guild_name_prtg_cas01"
     },
     "hswGAg": {
-        "en": "guild_id_prtg_cas01 = {0}\nguild_name_prtg_cas01 = {1}\ninvest_prtg_cas01 = {2}",
-        "pt": "guild_id_prtg_cas01 = {0}\nguild_name_prtg_cas01 = {1}\ninvest_prtg_cas01 = {2}",
-        "es": "guild_id_prtg_cas01 = {0}\nguild_name_prtg_cas01 = {1}\ninvest_prtg_cas01 = {2}"
+        "en-US": "guild_id_prtg_cas01 = {0}\nguild_name_prtg_cas01 = {1}\ninvest_prtg_cas01 = {2}",
+        "pt-BR": "guild_id_prtg_cas01 = {0}\nguild_name_prtg_cas01 = {1}\ninvest_prtg_cas01 = {2}",
+        "es-ES": "guild_id_prtg_cas01 = {0}\nguild_name_prtg_cas01 = {1}\ninvest_prtg_cas01 = {2}"
     }
 }

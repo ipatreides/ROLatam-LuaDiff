@@ -1,608 +1,608 @@
 {
     "YF0aCg": {
-        "ko": "제련 연구가",
-        "en": "Refining Researcher",
-        "pt": "Pesquisador de Fundição",
-        "es": "Investigador de fundición"
+        "ko-KR": "제련 연구가",
+        "en-US": "Refining Researcher",
+        "pt-BR": "Pesquisador de Fundição",
+        "es-ES": "Investigador de fundición"
     },
     "YV0aCg": {
-        "ko": "[제련 연구가]\n드디어 오셨군요.\n장착하고 계신 ^006400장비를\n제련 보장권에 나온 만큼\n제련된 상태^000000로\n만들어 드릴 수 있습니다.",
-        "en": "[Refining Researcher]\nFinally, you're here.\nI can safely refine your ^006400equipped items\nas many times\nas your Certificate guarantees^000000\nwithout failing.",
-        "pt": "[Pesquisador de Refinação]\nFinalmente você chegou.\nPosso transformar o equipamento ^006400 que você está usando\nno estado refinado ^000000,\nconforme indicado no\nCertificado de Garantia de Refinação.",
-        "es": "[Investigador de fundición]\nPor fin has venido.\nPuedo convertir el ^006400equipo que llevas puesto\nen su estado fundido^000000,\ntal y como aparece en el\nbono de fundición."
+        "ko-KR": "[제련 연구가]\n드디어 오셨군요.\n장착하고 계신 ^006400장비를\n제련 보장권에 나온 만큼\n제련된 상태^000000로\n만들어 드릴 수 있습니다.",
+        "en-US": "[Refining Researcher]\nFinally, you're here.\nI can safely refine your ^006400equipped items\nas many times\nas your Certificate guarantees^000000\nwithout failing.",
+        "pt-BR": "[Pesquisador de Refinação]\nFinalmente você chegou.\nPosso transformar o equipamento ^006400 que você está usando\nno estado refinado ^000000,\nconforme indicado no\nCertificado de Garantia de Refinação.",
+        "es-ES": "[Investigador de fundición]\nPor fin has venido.\nPuedo convertir el ^006400equipo que llevas puesto\nen su estado fundido^000000,\ntal y como aparece en el\nbono de fundición."
     },
     "Yl0aCg": {
-        "ko": "[제련 연구가]\n다만 ^3131FF쉐도우 아이템^000000은 제련보장 목록에 포함되지 않으니 유의하시기 바랍니다.",
-        "en": "[Refining Researcher]\nPlease note that ^3131FFShadow items^000000 are not included in the refining guarantee list.",
-        "pt": "[Pesquisador de Refinamento]\nNo entanto, ^3131FFitens Shadow^000000 não estão incluídos na lista de garantia de refinamento, por isso, fica atento.",
-        "es": "[Investigador de refinado]\nSin embargo, ten en cuenta que los ^3131FFobjetos de las Sombras^000000 no están incluidos en la lista de garantía de refinado."
+        "ko-KR": "[제련 연구가]\n다만 ^3131FF쉐도우 아이템^000000은 제련보장 목록에 포함되지 않으니 유의하시기 바랍니다.",
+        "en-US": "[Refining Researcher]\nPlease note that ^3131FFShadow items^000000 are not included in the refining guarantee list.",
+        "pt-BR": "[Pesquisador de Refinamento]\nNo entanto, ^3131FFitens Shadow^000000 não estão incluídos na lista de garantia de refinamento, por isso, fica atento.",
+        "es-ES": "[Investigador de refinado]\nSin embargo, ten en cuenta que los ^3131FFobjetos de las Sombras^000000 no están incluidos en la lista de garantía de refinado."
     },
     "Y10aCg": {
-        "ko": "나중에 한다.",
-        "en": "I'll do it later.",
-        "pt": "Deixa pra depois.",
-        "es": "Lo haré más tarde."
+        "ko-KR": "나중에 한다.",
+        "en-US": "I'll do it later.",
+        "pt-BR": "Deixa pra depois.",
+        "es-ES": "Lo haré más tarde."
     },
     "ZF0aCg": {
-        "ko": "제련 보장권으로 장비를 제련한다.",
-        "en": "Refine equipment with Refining Guarantee.",
-        "pt": "Refinar o equipamento com o Voucher de Refinamento.",
-        "es": "Refinar el equipo con el vale de refinado garantizado."
+        "ko-KR": "제련 보장권으로 장비를 제련한다.",
+        "en-US": "Refine equipment with Refining Guarantee.",
+        "pt-BR": "Refinar o equipamento com o Voucher de Refinamento.",
+        "es-ES": "Refinar el equipo con el vale de refinado garantizado."
     },
     "ZV0aCg": {
-        "ko": "[제련 연구가]\n알겠습니다.\n다음에 다시 오셔도 됩니다.",
-        "en": "[Refining Researcher]\nUnderstood.\nYou are welcome to come back anytime.",
-        "pt": "[Pesquisador de Refinamento]\nEntendi.\nPodes voltar mais tarde.",
-        "es": "[Investigador de Refinado]\nEntendido.\nPuedes volver la próxima vez."
+        "ko-KR": "[제련 연구가]\n알겠습니다.\n다음에 다시 오셔도 됩니다.",
+        "en-US": "[Refining Researcher]\nUnderstood.\nYou are welcome to come back anytime.",
+        "pt-BR": "[Pesquisador de Refinamento]\nEntendi.\nPodes voltar mais tarde.",
+        "es-ES": "[Investigador de Refinado]\nEntendido.\nPuedes volver la próxima vez."
     },
     "Zl0aCg": {
-        "ko": "[제련 연구가]\n무엇을 제련하실 건가요?",
-        "en": "[Refining Researcher]\nWhat would you like to refine?",
-        "pt": "[Pesquisador de Refinamento]\nO que você deseja refinar?",
-        "es": "[Investigador de Refinado]\n¿Qué vas a refinar?"
+        "ko-KR": "[제련 연구가]\n무엇을 제련하실 건가요?",
+        "en-US": "[Refining Researcher]\nWhat would you like to refine?",
+        "pt-BR": "[Pesquisador de Refinamento]\nO que você deseja refinar?",
+        "es-ES": "[Investigador de Refinado]\n¿Qué vas a refinar?"
     },
     "Z10aCg": {
-        "ko": "^404040머리 상단- [장비 없음]^000000",
-        "en": "^404040Head - Upper - [Not Equipped]^000000",
-        "pt": "^404040Cabeça - [Sem equipamento]^000000",
-        "es": "^404040Parte superior de la cabeza - [Sin equipo]^000000"
+        "ko-KR": "^404040머리 상단- [장비 없음]^000000",
+        "en-US": "^404040Head - Upper - [Not Equipped]^000000",
+        "pt-BR": "^404040Cabeça - [Sem equipamento]^000000",
+        "es-ES": "^404040Parte superior de la cabeza - [Sin equipo]^000000"
     },
     "aF0aCg": {
-        "ko": "^404040머리 중단- [장비 없음]^000000",
-        "en": "^404040Head - Middle - [Not Equipped]^000000",
-        "pt": "^404040Parte central da cabeça - [Sem equipamento]^000000",
-        "es": "^404040Parte media de la cabeza - [Sin equipo]^000000"
+        "ko-KR": "^404040머리 중단- [장비 없음]^000000",
+        "en-US": "^404040Head - Middle - [Not Equipped]^000000",
+        "pt-BR": "^404040Parte central da cabeça - [Sem equipamento]^000000",
+        "es-ES": "^404040Parte media de la cabeza - [Sin equipo]^000000"
     },
     "aV0aCg": {
-        "ko": "^404040머리 하단- [장비 없음]^000000",
-        "en": "^404040Head - Lower - [Not Equipped]^000000",
-        "pt": "^404040Parte inferior da cabeça - [Sem equipamento]^000000",
-        "es": "^404040Parte inferior de la cabeza - [Sin equipo]^000000"
+        "ko-KR": "^404040머리 하단- [장비 없음]^000000",
+        "en-US": "^404040Head - Lower - [Not Equipped]^000000",
+        "pt-BR": "^404040Parte inferior da cabeça - [Sem equipamento]^000000",
+        "es-ES": "^404040Parte inferior de la cabeza - [Sin equipo]^000000"
     },
     "al0aCg": {
-        "ko": "^404040몸- [장비 없음]^000000",
-        "en": "^404040Body - [Not Equipped]^000000",
-        "pt": "^404040Corpo - [Sem equipamento]^000000",
-        "es": "^404040Cuerpo- [Sin equipo]^000000"
+        "ko-KR": "^404040몸- [장비 없음]^000000",
+        "en-US": "^404040Body - [Not Equipped]^000000",
+        "pt-BR": "^404040Corpo - [Sem equipamento]^000000",
+        "es-ES": "^404040Cuerpo- [Sin equipo]^000000"
     },
     "a10aCg": {
-        "ko": "^404040왼손- [장비 없음]^000000",
-        "en": "^404040Left Hand - [Not Equipped]^000000",
-        "pt": "^404040Mão esquerda - [Sem equipamento]^000000",
-        "es": "^404040Mano izquierda- [Sin equipo]^000000"
+        "ko-KR": "^404040왼손- [장비 없음]^000000",
+        "en-US": "^404040Left Hand - [Not Equipped]^000000",
+        "pt-BR": "^404040Mão esquerda - [Sem equipamento]^000000",
+        "es-ES": "^404040Mano izquierda- [Sin equipo]^000000"
     },
     "bF0aCg": {
-        "ko": "^404040오른손- [장비 없음]^000000",
-        "en": "^404040Right Hand - [Not Equipped]^000000",
-        "pt": "^404040Mão direita - [Sem equipamento]^000000",
-        "es": "^404040Mano derecha - [Sin equipo]^000000"
+        "ko-KR": "^404040오른손- [장비 없음]^000000",
+        "en-US": "^404040Right Hand - [Not Equipped]^000000",
+        "pt-BR": "^404040Mão direita - [Sem equipamento]^000000",
+        "es-ES": "^404040Mano derecha - [Sin equipo]^000000"
     },
     "bV0aCg": {
-        "ko": "^404040로브- [장비 없음]^000000",
-        "en": "^404040Robe - [Not Equipped]^000000",
-        "pt": "^404040Manto - [Sem equipamento]^000000",
-        "es": "^404040Túnica - [Sin equipo]^000000"
+        "ko-KR": "^404040로브- [장비 없음]^000000",
+        "en-US": "^404040Robe - [Not Equipped]^000000",
+        "pt-BR": "^404040Manto - [Sem equipamento]^000000",
+        "es-ES": "^404040Túnica - [Sin equipo]^000000"
     },
     "bl0aCg": {
-        "ko": "^404040신발- [장비 없음]^000000",
-        "en": "^404040Shoes - [Not Equipped]^000000",
-        "pt": "^404040Sapatos - [Sem equipamento]^000000",
-        "es": "^404040Zapatos - [Sin equipo]^000000"
+        "ko-KR": "^404040신발- [장비 없음]^000000",
+        "en-US": "^404040Shoes - [Not Equipped]^000000",
+        "pt-BR": "^404040Sapatos - [Sem equipamento]^000000",
+        "es-ES": "^404040Zapatos - [Sin equipo]^000000"
     },
     "b10aCg": {
-        "ko": "^404040악세서리1- [장비 없음]^000000",
-        "en": "^404040Accessory 1 - [Not Equipped]^000000",
-        "pt": "^404040Acessório 1 - [Sem equipamento]^000000",
-        "es": "^404040Accesorio 1 - [Sin equipar]^000000"
+        "ko-KR": "^404040악세서리1- [장비 없음]^000000",
+        "en-US": "^404040Accessory 1 - [Not Equipped]^000000",
+        "pt-BR": "^404040Acessório 1 - [Sem equipamento]^000000",
+        "es-ES": "^404040Accesorio 1 - [Sin equipar]^000000"
     },
     "cF0aCg": {
-        "ko": "^404040악세서리2- [장비 없음]^000000",
-        "en": "^404040Accessory 2 - [Not Equipped]^000000",
-        "pt": "^404040Acessório 2 - [Sem equipamento]^000000",
-        "es": "^404040Accesorio 2 - [Sin equipar]^000000"
+        "ko-KR": "^404040악세서리2- [장비 없음]^000000",
+        "en-US": "^404040Accessory 2 - [Not Equipped]^000000",
+        "pt-BR": "^404040Acessório 2 - [Sem equipamento]^000000",
+        "es-ES": "^404040Accesorio 2 - [Sin equipar]^000000"
     },
     "cV0aCg": {
-        "ko": "[제련 연구가]\n장비가 있어야\n제련이 가능합니다.",
-        "en": "[Refining Researcher]\nYou must have equipment\nto perform refining.",
-        "pt": "[Pesquisador de Refinação]\nÉ preciso ter um equipamento\npara poder refinar.",
-        "es": "[Investigador de refinado]\nNecesitas equipo\npara poder refinar."
+        "ko-KR": "[제련 연구가]\n장비가 있어야\n제련이 가능합니다.",
+        "en-US": "[Refining Researcher]\nYou must have equipment\nto perform refining.",
+        "pt-BR": "[Pesquisador de Refinação]\nÉ preciso ter um equipamento\npara poder refinar.",
+        "es-ES": "[Investigador de refinado]\nNecesitas equipo\npara poder refinar."
     },
     "cl0aCg": {
-        "ko": "[제련 연구가]\n앗, 이 아이템은\n제련이 불가능한 것입니다.",
-        "en": "[Refining Researcher]\nUh-oh, this item\ncan't be refined.",
-        "pt": "[Pesquisador de Refinamento]\nOpa, esse item\nnão pode ser refinado.",
-        "es": "[Investigador de refinamiento]\n¡Ay!, este objeto\nno se puede refinar."
+        "ko-KR": "[제련 연구가]\n앗, 이 아이템은\n제련이 불가능한 것입니다.",
+        "en-US": "[Refining Researcher]\nUh-oh, this item\ncan't be refined.",
+        "pt-BR": "[Pesquisador de Refinamento]\nOpa, esse item\nnão pode ser refinado.",
+        "es-ES": "[Investigador de refinamiento]\n¡Ay!, este objeto\nno se puede refinar."
     },
     "c10aCg": {
-        "ko": "[제련 연구가]\n죄송하지만,\n감정이 안 된 상태로는\n제련을 할 수 없습니다.",
-        "en": "[Refining Researcher]\nI'm sorry,\nbut unidentified items\ncan't be refined.",
-        "pt": "[Pesquisador de Refinamento]\nDesculpa, mas\nnão dá pra refinar\nsem que o item tenha sido avaliado.",
-        "es": "[Investigador de refinado]\nLo siento,\npero no se puede refinar\nsin haberlo evaluado antes."
+        "ko-KR": "[제련 연구가]\n죄송하지만,\n감정이 안 된 상태로는\n제련을 할 수 없습니다.",
+        "en-US": "[Refining Researcher]\nI'm sorry,\nbut unidentified items\ncan't be refined.",
+        "pt-BR": "[Pesquisador de Refinamento]\nDesculpa, mas\nnão dá pra refinar\nsem que o item tenha sido avaliado.",
+        "es-ES": "[Investigador de refinado]\nLo siento,\npero no se puede refinar\nsin haberlo evaluado antes."
     },
     "dF0aCg": {
-        "ko": "[제련 연구가]\n앗, 이 방어구는 제련보장권을 사용할 수 없습니다.",
-        "en": "[Refining Researcher]\nUh-oh, Refining Certificates can't be used on this armor.",
-        "pt": "[Pesquisador de Refinamento]\nOpa, não dá pra usar o Voucher de Refinamento com essa armadura.",
-        "es": "[Investigador de refinamiento]\n¡Ay!, no puedes usar el cupón de refinamiento garantizado con esta armadura."
+        "ko-KR": "[제련 연구가]\n앗, 이 방어구는 제련보장권을 사용할 수 없습니다.",
+        "en-US": "[Refining Researcher]\nUh-oh, Refining Certificates can't be used on this armor.",
+        "pt-BR": "[Pesquisador de Refinamento]\nOpa, não dá pra usar o Voucher de Refinamento com essa armadura.",
+        "es-ES": "[Investigador de refinamiento]\n¡Ay!, no puedes usar el cupón de refinamiento garantizado con esta armadura."
     },
     "dV0aCg": {
-        "ko": "[제련 연구가]\n이 무기는 제련보장권을 사용할 수 없습니다.",
-        "en": "[Refining Researcher]\nThis weapon cannot use Refining Certificates.",
-        "pt": "[Pesquisador de Refinamento]\nNão é possível usar o Certificado de Garantia de Refinamento nesta arma.",
-        "es": "[Investigador de Refinado]\nNo puedes usar el Cupón de Refinado garantizado con esta arma."
+        "ko-KR": "[제련 연구가]\n이 무기는 제련보장권을 사용할 수 없습니다.",
+        "en-US": "[Refining Researcher]\nThis weapon cannot use Refining Certificates.",
+        "pt-BR": "[Pesquisador de Refinamento]\nNão é possível usar o Certificado de Garantia de Refinamento nesta arma.",
+        "es-ES": "[Investigador de Refinado]\nNo puedes usar el Cupón de Refinado garantizado con esta arma."
     },
     "dl0aCg": {
-        "ko": "[제련 연구가]\n저를 통해\n^006400방어구^000000를 제련하시려면,\n^006400방어구 제련 보장권^000000을\n가져오셔야 합니다.",
-        "en": "[Refining Researcher]\nTo refine\nyour ^006400armor^000000 through me,\nyou must bring\nan ^006400Armor Refining Certificate^000000.",
-        "pt": "[Pesquisador de Refinamento]\nPara refinar\n^006400armadura^000000 comigo,\nprecisas trazer\n^006400Garantia de Refinamento de Armadura^000000.",
-        "es": "[Investigador de Refinado]\nSi quieres refinar\n^006400armadura^000000 conmigo,\ntienes que traer\nun ^006400Bono de Refinado de Armadura^000000."
+        "ko-KR": "[제련 연구가]\n저를 통해\n^006400방어구^000000를 제련하시려면,\n^006400방어구 제련 보장권^000000을\n가져오셔야 합니다.",
+        "en-US": "[Refining Researcher]\nTo refine\nyour ^006400armor^000000 through me,\nyou must bring\nan ^006400Armor Refining Certificate^000000.",
+        "pt-BR": "[Pesquisador de Refinamento]\nPara refinar\n^006400armadura^000000 comigo,\nprecisas trazer\n^006400Garantia de Refinamento de Armadura^000000.",
+        "es-ES": "[Investigador de Refinado]\nSi quieres refinar\n^006400armadura^000000 conmigo,\ntienes que traer\nun ^006400Bono de Refinado de Armadura^000000."
     },
     "d10aCg": {
-        "ko": "[제련 연구가]\n사용하실 ^006400방어구 제련 보장권^000000을\n선택해 주세요.",
-        "en": "[Refining Researcher]\nPlease select the ^006400Armor Refining Certificate^000000\nyou wish to use.",
-        "pt": "[Pesquisador de Refinamento]\nEscolhe o ^006400Certificado de Garantia de Refinamento de Armadura^000000\nque vais usar.",
-        "es": "[Investigador de Refinado]\nElige el ^006400Bono de Refinado de Armadura^000000\nque quieres usar."
+        "ko-KR": "[제련 연구가]\n사용하실 ^006400방어구 제련 보장권^000000을\n선택해 주세요.",
+        "en-US": "[Refining Researcher]\nPlease select the ^006400Armor Refining Certificate^000000\nyou wish to use.",
+        "pt-BR": "[Pesquisador de Refinamento]\nEscolhe o ^006400Certificado de Garantia de Refinamento de Armadura^000000\nque vais usar.",
+        "es-ES": "[Investigador de Refinado]\nElige el ^006400Bono de Refinado de Armadura^000000\nque quieres usar."
     },
     "eF0aCg": {
-        "ko": "방어구 5 제련 보장권",
-        "en": "Armor 5 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Armadura 5",
-        "es": "Bono de refinado de armadura 5"
+        "ko-KR": "방어구 5 제련 보장권",
+        "en-US": "Armor 5 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Armadura 5",
+        "es-ES": "Bono de refinado de armadura 5"
     },
     "eV0aCg": {
-        "ko": "방어구 6 제련 보장권",
-        "en": "Armor 6 Refining Guarantee",
-        "pt": "Garantia de Refinamento de 6 Peças de Armadura",
-        "es": "Garantía de refinado de armadura 6"
+        "ko-KR": "방어구 6 제련 보장권",
+        "en-US": "Armor 6 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de 6 Peças de Armadura",
+        "es-ES": "Garantía de refinado de armadura 6"
     },
     "el0aCg": {
-        "ko": "방어구 7 제련 보장권",
-        "en": "Armor 7 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Armadura 7",
-        "es": "Garantía de refinado de armadura 7"
+        "ko-KR": "방어구 7 제련 보장권",
+        "en-US": "Armor 7 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Armadura 7",
+        "es-ES": "Garantía de refinado de armadura 7"
     },
     "e10aCg": {
-        "ko": "방어구 8 제련 보장권",
-        "en": "Armor 8 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Armadura 8",
-        "es": "Garantía de refinado de armadura 8"
+        "ko-KR": "방어구 8 제련 보장권",
+        "en-US": "Armor 8 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Armadura 8",
+        "es-ES": "Garantía de refinado de armadura 8"
     },
     "fF0aCg": {
-        "ko": "방어구 9 제련 보장권",
-        "en": "Armor 9 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Armadura 9",
-        "es": "Bono de refinado de armadura 9"
+        "ko-KR": "방어구 9 제련 보장권",
+        "en-US": "Armor 9 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Armadura 9",
+        "es-ES": "Bono de refinado de armadura 9"
     },
     "fV0aCg": {
-        "ko": "방어구 10 제련 보장권",
-        "en": "Armor 10 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Armadura 10",
-        "es": "Garantía de refinado de armadura 10"
+        "ko-KR": "방어구 10 제련 보장권",
+        "en-US": "Armor 10 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Armadura 10",
+        "es-ES": "Garantía de refinado de armadura 10"
     },
     "fl0aCg": {
-        "ko": "방어구 11 제련 보장권",
-        "en": "Armor 11 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Armadura 11",
-        "es": "Garantía de refinado de armadura 11"
+        "ko-KR": "방어구 11 제련 보장권",
+        "en-US": "Armor 11 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Armadura 11",
+        "es-ES": "Garantía de refinado de armadura 11"
     },
     "f10aCg": {
-        "ko": "방어구 12 제련 보장권",
-        "en": "Armor 12 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Armadura 12",
-        "es": "Garantía de refinado de armadura 12"
+        "ko-KR": "방어구 12 제련 보장권",
+        "en-US": "Armor 12 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Armadura 12",
+        "es-ES": "Garantía de refinado de armadura 12"
     },
     "gF0aCg": {
-        "ko": "방어구 13 제련 보장권",
-        "en": "Armor 13 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Armadura 13",
-        "es": "Garantía de refinado de armadura 13"
+        "ko-KR": "방어구 13 제련 보장권",
+        "en-US": "Armor 13 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Armadura 13",
+        "es-ES": "Garantía de refinado de armadura 13"
     },
     "gV0aCg": {
-        "ko": "방어구 14 제련 보장권",
-        "en": "Armor 14 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Armadura 14",
-        "es": "Garantía de refinado de armadura 14"
+        "ko-KR": "방어구 14 제련 보장권",
+        "en-US": "Armor 14 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Armadura 14",
+        "es-ES": "Garantía de refinado de armadura 14"
     },
     "gl0aCg": {
-        "ko": "방어구 15 제련 보장권",
-        "en": "Armor 15 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Armadura 15",
-        "es": "Garantía de refinado de armadura 15"
+        "ko-KR": "방어구 15 제련 보장권",
+        "en-US": "Armor 15 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Armadura 15",
+        "es-ES": "Garantía de refinado de armadura 15"
     },
     "g10aCg": {
-        "ko": "방어구 16 제련 보장권",
-        "en": "Armor 16 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Armadura 16",
-        "es": "Garantía de refinado de armadura 16"
+        "ko-KR": "방어구 16 제련 보장권",
+        "en-US": "Armor 16 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Armadura 16",
+        "es-ES": "Garantía de refinado de armadura 16"
     },
     "hF0aCg": {
-        "ko": "방어구 17 제련 보장권",
-        "en": "Armor 17 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Armadura 17",
-        "es": "Garantía de refinado de armadura 17"
+        "ko-KR": "방어구 17 제련 보장권",
+        "en-US": "Armor 17 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Armadura 17",
+        "es-ES": "Garantía de refinado de armadura 17"
     },
     "hV0aCg": {
-        "ko": "방어구 18 제련 보장권",
-        "en": "Armor 18 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Armadura 18",
-        "es": "Garantía de refinado de armadura 18"
+        "ko-KR": "방어구 18 제련 보장권",
+        "en-US": "Armor 18 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Armadura 18",
+        "es-ES": "Garantía de refinado de armadura 18"
     },
     "hl0aCg": {
-        "ko": "방어구 19 제련 보장권",
-        "en": "Armor 19 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Armadura 19",
-        "es": "Garantía de refinado de armadura 19"
+        "ko-KR": "방어구 19 제련 보장권",
+        "en-US": "Armor 19 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Armadura 19",
+        "es-ES": "Garantía de refinado de armadura 19"
     },
     "h10aCg": {
-        "ko": "[제련 연구가]\n방어구 5 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 5 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinamento]\nVocê não está com o\nCertificado de Refinamento de Armadura 5.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes\nel cupón de refinado de armadura 5.\n¿Lo guardaste en el almacén?\nCompruébalo\ny vuelve más tarde."
+        "ko-KR": "[제련 연구가]\n방어구 5 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 5 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nCertificado de Refinamento de Armadura 5.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes\nel cupón de refinado de armadura 5.\n¿Lo guardaste en el almacén?\nCompruébalo\ny vuelve más tarde."
     },
     "iF0aCg": {
-        "ko": "[제련 연구가]\n방어구 6 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 6 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinamento]\nVocê não está com o\nCertificado de Refinamento de Armadura 6.\nVocê o guardou no baú?\nVerifique e\nvolte depois.",
-        "es": "[Investigador de Refinado]\nNo tienes el\nBono de Refinado de Armadura 6.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n방어구 6 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 6 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nCertificado de Refinamento de Armadura 6.\nVocê o guardou no baú?\nVerifique e\nvolte depois.",
+        "es-ES": "[Investigador de Refinado]\nNo tienes el\nBono de Refinado de Armadura 6.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
     },
     "iV0aCg": {
-        "ko": "[제련 연구가]\n방어구 7 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 7 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 7.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de Refinado]\nNo tienes el\nbono de refinado de armadura 7.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n방어구 7 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 7 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 7.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de Refinado]\nNo tienes el\nbono de refinado de armadura 7.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
     },
     "il0aCg": {
-        "ko": "[제련 연구가]\n방어구 8 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 8 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 8.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 8.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n방어구 8 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 8 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 8.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 8.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
     },
     "i10aCg": {
-        "ko": "[제련 연구가]\n방어구 9 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 9 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 9.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 9.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n방어구 9 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 9 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 9.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 9.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
     },
     "jF0aCg": {
-        "ko": "[제련 연구가]\n방어구 10 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 10 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 10.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura de nivel 10.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n방어구 10 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 10 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 10.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura de nivel 10.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
     },
     "jV0aCg": {
-        "ko": "[제련 연구가]\n방어구 11 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 11 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 11.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 11.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n방어구 11 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 11 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 11.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 11.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
     },
     "jl0aCg": {
-        "ko": "[제련 연구가]\n방어구 12 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 12 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 12.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado garantizado para armadura 12.\n¿Lo guardaste en el almacén?\nRevisa eso y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n방어구 12 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 12 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 12.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado garantizado para armadura 12.\n¿Lo guardaste en el almacén?\nRevisa eso y\nvuelve más tarde."
     },
     "j10aCg": {
-        "ko": "[제련 연구가]\n방어구 13 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 13 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinamento]\nVocê não está com o\nCertificado de Refinamento de Armadura 13.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 13.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n방어구 13 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 13 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nCertificado de Refinamento de Armadura 13.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 13.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
     },
     "kF0aCg": {
-        "ko": "[제련 연구가]\n방어구 14 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 14 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 14.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 14.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n방어구 14 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 14 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 14.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 14.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
     },
     "kV0aCg": {
-        "ko": "[제련 연구가]\n방어구 15 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 15 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinamento]\nVocê não está com o\nCertificado de Refinamento de Armadura 15.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 15.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n방어구 15 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 15 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nCertificado de Refinamento de Armadura 15.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 15.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
     },
     "kl0aCg": {
-        "ko": "[제련 연구가]\n방어구 16 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 16 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 16.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 16.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n방어구 16 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 16 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 16.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 16.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
     },
     "k10aCg": {
-        "ko": "[제련 연구가]\n방어구 17 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 17 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 17.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 17.\n¿Lo guardaste en el almacén?\nRevisa eso y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n방어구 17 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 17 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 17.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 17.\n¿Lo guardaste en el almacén?\nRevisa eso y\nvuelve más tarde."
     },
     "lF0aCg": {
-        "ko": "[제련 연구가]\n방어구 18 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 18 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinamento]\nVocê não está com o\nCertificado de Refinamento de Armadura 18.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 18.\n¿Lo guardaste en el almacén?\nRevisa eso y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n방어구 18 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 18 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nCertificado de Refinamento de Armadura 18.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 18.\n¿Lo guardaste en el almacén?\nRevisa eso y\nvuelve más tarde."
     },
     "lV0aCg": {
-        "ko": "[제련 연구가]\n방어구 19 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 19 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 19.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de Refinado]\nNo tienes el cupón de refinado de armadura 19.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n방어구 19 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 19 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 19.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de Refinado]\nNo tienes el cupón de refinado de armadura 19.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
     },
     "ll0aCg": {
-        "ko": "[제련 연구가]\n^8B4513이 아이템은 이미\n원하시는 등급을 갖추고 있네요.^000000\n제련이 덜 된 아이템을\n가지고 오시길 바랍니다.",
-        "en": "[Refining Researcher]\n^8B4513This item is already\nat the level you want or higher.^000000\nPlease bring me\nsomething else at a lower level.",
-        "pt": "[Pesquisador de Refinamento]\n^8B4513Este item já\ntem o nível que você deseja.^000000\nPor favor, traga\num item que ainda não tenha sido refinado.",
-        "es": "[Investigador de Refinado]\n^8B4513Este objeto ya tiene\nel nivel que buscas.^000000\nPor favor, trae un objeto\nque no esté tan refinado."
+        "ko-KR": "[제련 연구가]\n^8B4513이 아이템은 이미\n원하시는 등급을 갖추고 있네요.^000000\n제련이 덜 된 아이템을\n가지고 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\n^8B4513This item is already\nat the level you want or higher.^000000\nPlease bring me\nsomething else at a lower level.",
+        "pt-BR": "[Pesquisador de Refinamento]\n^8B4513Este item já\ntem o nível que você deseja.^000000\nPor favor, traga\num item que ainda não tenha sido refinado.",
+        "es-ES": "[Investigador de Refinado]\n^8B4513Este objeto ya tiene\nel nivel que buscas.^000000\nPor favor, trae un objeto\nque no esté tan refinado."
     },
     "l10aCg": {
-        "ko": "[제련 연구가]\n^006400방어구 {0} 제련 보장권^8B4513을\n소모하여 ^006400{1}^8B4513\n장비를 {0} 단계 만큼 제련합니다.^000000\n계속 진행 할까요?",
-        "en": "[Refining Researcher]\nUse a ^006400Safe to {0} Armor Certificate^8B4513\nto refine your ^006400{1}^8B4513\nequipment by {0} stages.^000000\nProceed?",
-        "pt": "[Pesquisador de Refinamento]\n^006400Usando o {0} Garantia de Refinamento de Armadura^8B4513,\nrefinamos o equipamento ^006400{1}^8B4513\nem {0} níveis.^000000\nQueres continuar?",
-        "es": "[Investigador de Refinamiento]\n^006400Utilizando el cupón de refinamiento de armadura {0} ^8B4513,\nrefinaremos el equipo ^006400{1}^8B4513\nen {0} niveles.^000000\n¿Quieres continuar?"
+        "ko-KR": "[제련 연구가]\n^006400방어구 {0} 제련 보장권^8B4513을\n소모하여 ^006400{1}^8B4513\n장비를 {0} 단계 만큼 제련합니다.^000000\n계속 진행 할까요?",
+        "en-US": "[Refining Researcher]\nUse a ^006400Safe to {0} Armor Certificate^8B4513\nto refine your ^006400{1}^8B4513\nequipment by {0} stages.^000000\nProceed?",
+        "pt-BR": "[Pesquisador de Refinamento]\n^006400Usando o {0} Garantia de Refinamento de Armadura^8B4513,\nrefinamos o equipamento ^006400{1}^8B4513\nem {0} níveis.^000000\nQueres continuar?",
+        "es-ES": "[Investigador de Refinamiento]\n^006400Utilizando el cupón de refinamiento de armadura {0} ^8B4513,\nrefinaremos el equipo ^006400{1}^8B4513\nen {0} niveles.^000000\n¿Quieres continuar?"
     },
     "mF0aCg": {
-        "ko": "아니오.",
-        "en": "No.",
-        "pt": "Não.",
-        "es": "No."
+        "ko-KR": "아니오.",
+        "en-US": "No.",
+        "pt-BR": "Não.",
+        "es-ES": "No."
     },
     "mV0aCg": {
-        "ko": "네.",
-        "en": "Yes.",
-        "pt": "Sim.",
-        "es": "Sí."
+        "ko-KR": "네.",
+        "en-US": "Yes.",
+        "pt-BR": "Sim.",
+        "es-ES": "Sí."
     },
     "ml0aCg": {
-        "ko": "[제련 연구가]\n마음이 변하셨군요.\n알겠습니다.\n나중에 다시 오셔도 됩니다.",
-        "en": "[Refining Researcher]\nYou've changed your mind.\nUnderstood.\nPlease feel free to come back anytime.",
-        "pt": "[Pesquisador de Refinação]\nVocê mudou de ideia, não é?\nEntendi.\nPode voltar mais tarde.",
-        "es": "[Investigador de refinado]\nHas cambiado de opinión, ¿no?\nEntendido.\nPuedes volver más tarde."
+        "ko-KR": "[제련 연구가]\n마음이 변하셨군요.\n알겠습니다.\n나중에 다시 오셔도 됩니다.",
+        "en-US": "[Refining Researcher]\nYou've changed your mind.\nUnderstood.\nPlease feel free to come back anytime.",
+        "pt-BR": "[Pesquisador de Refinação]\nVocê mudou de ideia, não é?\nEntendi.\nPode voltar mais tarde.",
+        "es-ES": "[Investigador de refinado]\nHas cambiado de opinión, ¿no?\nEntendido.\nPuedes volver más tarde."
     },
     "m10aCg": {
-        "ko": "[제련 연구가]\n좋습니다.\n제련을 시작하겠습니다.\n전 좀 특별하게 합니다만...\n.......쿠와아아앙!",
-        "en": "[Refining Researcher]\nAlright.\nI'll begin the refining process.\nI do things a bit differently though...\n.......CRASH!",
-        "pt": "[Pesquisador de Refinamento]\nTudo bem.\nVou começar o refinamento.\nEu faço isso de um jeito um pouco especial...\n.......Kwaaang!",
-        "es": "[Investigador de refinado]\nMuy bien.\nVoy a empezar el refinado.\nYo lo hago de una forma un poco especial, pero...\n.......¡Kuaaang!"
+        "ko-KR": "[제련 연구가]\n좋습니다.\n제련을 시작하겠습니다.\n전 좀 특별하게 합니다만...\n.......쿠와아아앙!",
+        "en-US": "[Refining Researcher]\nAlright.\nI'll begin the refining process.\nI do things a bit differently though...\n.......CRASH!",
+        "pt-BR": "[Pesquisador de Refinamento]\nTudo bem.\nVou começar o refinamento.\nEu faço isso de um jeito um pouco especial...\n.......Kwaaang!",
+        "es-ES": "[Investigador de refinado]\nMuy bien.\nVoy a empezar el refinado.\nYo lo hago de una forma un poco especial, pero...\n.......¡Kuaaang!"
     },
     "nF0aCg": {
-        "ko": "오류 방어구안전제련\n스크린샷을 찍은 뒤, GM에게 문의해 주시기 바랍니다.",
-        "en": "Armor Safe Refining Error\nPlease capture an image of this screen and submit it to the Operation Team.",
-        "pt": "Refinamento de Armadura de Defesa contra Erros\nTira uma captura de tela e entra em contato com o GM.",
-        "es": "Error en la refinería de armadura\nPor favor, toma una captura de pantalla y contacta al GM."
+        "ko-KR": "오류 방어구안전제련\n스크린샷을 찍은 뒤, GM에게 문의해 주시기 바랍니다.",
+        "en-US": "Armor Safe Refining Error\nPlease capture an image of this screen and submit it to the Operation Team.",
+        "pt-BR": "Refinamento de Armadura de Defesa contra Erros\nTira uma captura de tela e entra em contato com o GM.",
+        "es-ES": "Error en la refinería de armadura\nPor favor, toma una captura de pantalla y contacta al GM."
     },
     "nV0aCg": {
-        "ko": "[제련 연구가]\n자, 완성 되었습니다.\n뭐, ^0000FF{0}^000000님의\n노력에 비하면 이 정도 일은\n아무것도 아니죠!\n그럼 안녕히 가세요~!",
-        "en": "[Refining Researcher]\nThere you go!\nWell, compared to your hard work, ^0000FF{0}^000000,\nthis was easier\nthan falling off a log.\nNow, goodbye!",
-        "pt": "[Pesquisador de Refinamento]\nPronto, está concluído.\nBem, comparado ao esforço de ^0000FF{0}^000000,\nisso não é nada!\nEntão, fica bem~!",
-        "es": "[Investigador de Refinado]\nBueno, ya está listo.\nBueno, comparado con el esfuerzo de ^0000FF{0}^000000,\nesto no es nada.\n¡Que te vaya bien!"
+        "ko-KR": "[제련 연구가]\n자, 완성 되었습니다.\n뭐, ^0000FF{0}^000000님의\n노력에 비하면 이 정도 일은\n아무것도 아니죠!\n그럼 안녕히 가세요~!",
+        "en-US": "[Refining Researcher]\nThere you go!\nWell, compared to your hard work, ^0000FF{0}^000000,\nthis was easier\nthan falling off a log.\nNow, goodbye!",
+        "pt-BR": "[Pesquisador de Refinamento]\nPronto, está concluído.\nBem, comparado ao esforço de ^0000FF{0}^000000,\nisso não é nada!\nEntão, fica bem~!",
+        "es-ES": "[Investigador de Refinado]\nBueno, ya está listo.\nBueno, comparado con el esfuerzo de ^0000FF{0}^000000,\nesto no es nada.\n¡Que te vaya bien!"
     },
     "nl0aCg": {
-        "ko": "[제련 연구가]\n저를 통해\n^006400무기^000000를 제련하시려면,\n^006400무기 제련 보장권^000000을\n가져오셔야 합니다.",
-        "en": "[Refining Researcher]\nTo refine\nyour ^006400weapon^000000 through me,\nyou must bring a ^006400Weapon Refining Certificate^000000.",
-        "pt": "[Pesquisador de Refinamento]\nPara refinar\n^006400Arma^000000 com a minha ajuda,\nprecisas trazer\no ^006400Voucher de Refinamento de Arma^000000.",
-        "es": "[Investigador de Refinado]\nSi quieres refinar\n^006400Arma^000000 a través de mí,\ntienes que traer\nun ^006400Bono de Refinado de Arma^000000."
+        "ko-KR": "[제련 연구가]\n저를 통해\n^006400무기^000000를 제련하시려면,\n^006400무기 제련 보장권^000000을\n가져오셔야 합니다.",
+        "en-US": "[Refining Researcher]\nTo refine\nyour ^006400weapon^000000 through me,\nyou must bring a ^006400Weapon Refining Certificate^000000.",
+        "pt-BR": "[Pesquisador de Refinamento]\nPara refinar\n^006400Arma^000000 com a minha ajuda,\nprecisas trazer\no ^006400Voucher de Refinamento de Arma^000000.",
+        "es-ES": "[Investigador de Refinado]\nSi quieres refinar\n^006400Arma^000000 a través de mí,\ntienes que traer\nun ^006400Bono de Refinado de Arma^000000."
     },
     "n10aCg": {
-        "ko": "[제련 연구가]\n사용하실 ^006400무기 제련 보장권^000000을\n선택해 주세요.",
-        "en": "[Refining Researcher]\nPlease select the ^006400Weapon Refining Certificate^000000\nyou wish to use.",
-        "pt": "[Pesquisador de Refinação]\nEscolhe o ^006400Certificado de Garantia de Refinação de Arma^000000\nque você quer usar.",
-        "es": "[Investigador de refinería]\nElige el ^006400Bono de garantía de refinería de armas^000000\nque vas a usar."
+        "ko-KR": "[제련 연구가]\n사용하실 ^006400무기 제련 보장권^000000을\n선택해 주세요.",
+        "en-US": "[Refining Researcher]\nPlease select the ^006400Weapon Refining Certificate^000000\nyou wish to use.",
+        "pt-BR": "[Pesquisador de Refinação]\nEscolhe o ^006400Certificado de Garantia de Refinação de Arma^000000\nque você quer usar.",
+        "es-ES": "[Investigador de refinería]\nElige el ^006400Bono de garantía de refinería de armas^000000\nque vas a usar."
     },
     "oF0aCg": {
-        "ko": "무기 5 제련 보장권",
-        "en": "Weapon 5 Refining Certificate",
-        "pt": "Garantia de Refinamento de Arma 5",
-        "es": "Bono de refinería de armas 5"
+        "ko-KR": "무기 5 제련 보장권",
+        "en-US": "Weapon 5 Refining Certificate",
+        "pt-BR": "Garantia de Refinamento de Arma 5",
+        "es-ES": "Bono de refinería de armas 5"
     },
     "oV0aCg": {
-        "ko": "무기 6 제련 보장권",
-        "en": "Weapon 6 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Arma 6",
-        "es": "Garantía de refinado de 6 armas"
+        "ko-KR": "무기 6 제련 보장권",
+        "en-US": "Weapon 6 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Arma 6",
+        "es-ES": "Garantía de refinado de 6 armas"
     },
     "ol0aCg": {
-        "ko": "무기 7 제련 보장권",
-        "en": "Weapon 7 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Arma 7",
-        "es": "Garantía de refinado de armas 7"
+        "ko-KR": "무기 7 제련 보장권",
+        "en-US": "Weapon 7 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Arma 7",
+        "es-ES": "Garantía de refinado de armas 7"
     },
     "o10aCg": {
-        "ko": "무기 8 제련 보장권",
-        "en": "Weapon 8 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Arma 8",
-        "es": "Garantía de refinado de armas 8"
+        "ko-KR": "무기 8 제련 보장권",
+        "en-US": "Weapon 8 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Arma 8",
+        "es-ES": "Garantía de refinado de armas 8"
     },
     "pF0aCg": {
-        "ko": "무기 9 제련 보장권",
-        "en": "Weapon 9 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Arma 9",
-        "es": "Garantía de refinado de arma 9"
+        "ko-KR": "무기 9 제련 보장권",
+        "en-US": "Weapon 9 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Arma 9",
+        "es-ES": "Garantía de refinado de arma 9"
     },
     "pV0aCg": {
-        "ko": "무기 10 제련 보장권",
-        "en": "Weapon 10 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Arma 10",
-        "es": "Garantía de refinado de arma 10"
+        "ko-KR": "무기 10 제련 보장권",
+        "en-US": "Weapon 10 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Arma 10",
+        "es-ES": "Garantía de refinado de arma 10"
     },
     "pl0aCg": {
-        "ko": "무기 11 제련 보장권",
-        "en": "Weapon 11 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Arma 11",
-        "es": "Garantía de refinado de arma 11"
+        "ko-KR": "무기 11 제련 보장권",
+        "en-US": "Weapon 11 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Arma 11",
+        "es-ES": "Garantía de refinado de arma 11"
     },
     "p10aCg": {
-        "ko": "무기 12 제련 보장권",
-        "en": "Weapon 12 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Arma 12",
-        "es": "Garantía de refinado de arma 12"
+        "ko-KR": "무기 12 제련 보장권",
+        "en-US": "Weapon 12 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Arma 12",
+        "es-ES": "Garantía de refinado de arma 12"
     },
     "qF0aCg": {
-        "ko": "무기 13 제련 보장권",
-        "en": "Weapon 13 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Arma 13",
-        "es": "Garantía de refinado de arma 13"
+        "ko-KR": "무기 13 제련 보장권",
+        "en-US": "Weapon 13 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Arma 13",
+        "es-ES": "Garantía de refinado de arma 13"
     },
     "qV0aCg": {
-        "ko": "무기 14 제련 보장권",
-        "en": "Weapon 14 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Arma 14",
-        "es": "Garantía de refinado de arma 14"
+        "ko-KR": "무기 14 제련 보장권",
+        "en-US": "Weapon 14 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Arma 14",
+        "es-ES": "Garantía de refinado de arma 14"
     },
     "ql0aCg": {
-        "ko": "무기 15 제련 보장권",
-        "en": "Weapon 15 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Arma 15",
-        "es": "Garantía de refinado de arma 15"
+        "ko-KR": "무기 15 제련 보장권",
+        "en-US": "Weapon 15 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Arma 15",
+        "es-ES": "Garantía de refinado de arma 15"
     },
     "q10aCg": {
-        "ko": "무기 16 제련 보장권",
-        "en": "Weapon 16 Refining Guarantee",
-        "pt": "Garantia de Refino de Arma 16",
-        "es": "Garantía de refinado de arma 16"
+        "ko-KR": "무기 16 제련 보장권",
+        "en-US": "Weapon 16 Refining Guarantee",
+        "pt-BR": "Garantia de Refino de Arma 16",
+        "es-ES": "Garantía de refinado de arma 16"
     },
     "rF0aCg": {
-        "ko": "무기 17 제련 보장권",
-        "en": "Weapon 17 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Arma 17",
-        "es": "Garantía de refinado de arma 17"
+        "ko-KR": "무기 17 제련 보장권",
+        "en-US": "Weapon 17 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Arma 17",
+        "es-ES": "Garantía de refinado de arma 17"
     },
     "rV0aCg": {
-        "ko": "무기 18 제련 보장권",
-        "en": "Weapon 18 Refining Guarantee",
-        "pt": "Garantia de Refinamento de Arma 18",
-        "es": "Garantía de refinado de arma 18"
+        "ko-KR": "무기 18 제련 보장권",
+        "en-US": "Weapon 18 Refining Guarantee",
+        "pt-BR": "Garantia de Refinamento de Arma 18",
+        "es-ES": "Garantía de refinado de arma 18"
     },
     "rl0aCg": {
-        "ko": "무기 19 제련 보장권",
-        "en": "Weapon 19 Refining Guarantee",
-        "pt": "Garantia de Refinação de Arma 19",
-        "es": "Garantía de refinado de arma 19"
+        "ko-KR": "무기 19 제련 보장권",
+        "en-US": "Weapon 19 Refining Guarantee",
+        "pt-BR": "Garantia de Refinação de Arma 19",
+        "es-ES": "Garantía de refinado de arma 19"
     },
     "r10aCg": {
-        "ko": "[제련 연구가]\n무기 5 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 5 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 5.\nVocê o guardou no baú?\nDá uma olhada lá e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el\nbono de refinado de arma 5.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n무기 5 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 5 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 5.\nVocê o guardou no baú?\nDá uma olhada lá e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el\nbono de refinado de arma 5.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
     },
     "sF0aCg": {
-        "ko": "[제련 연구가]\n무기 6 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 6 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 6.\nVocê o guardou no baú?\nVerifique e\nvolte depois.",
-        "es": "[Investigador de refinado]\nNo tienes el\nbono de refinado de arma 6.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n무기 6 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 6 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 6.\nVocê o guardou no baú?\nVerifique e\nvolte depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el\nbono de refinado de arma 6.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
     },
     "sV0aCg": {
-        "ko": "[제련 연구가]\n무기 7 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 7 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 7.\nVocê o guardou no baú?\nVerifique e\nvolte depois.",
-        "es": "[Investigador de refinado]\nNo tienes el\nbono de refinado de arma 7.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n무기 7 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 7 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 7.\nVocê o guardou no baú?\nVerifique e\nvolte depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el\nbono de refinado de arma 7.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
     },
     "sl0aCg": {
-        "ko": "[제련 연구가]\n무기 8 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 8 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 8.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas de nivel 8.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n무기 8 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 8 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 8.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas de nivel 8.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
     },
     "s10aCg": {
-        "ko": "[제련 연구가]\n무기 9 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 9 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 9.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas de nivel 9.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n무기 9 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 9 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 9.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas de nivel 9.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
     },
     "tF0aCg": {
-        "ko": "[제련 연구가]\n무기 10 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 10 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma Nível 10.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas de nivel 10.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n무기 10 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 10 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma Nível 10.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas de nivel 10.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
     },
     "tV0aCg": {
-        "ko": "[제련 연구가]\n무기 11 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 11 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma Nível 11.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas de nivel 11.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n무기 11 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 11 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma Nível 11.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas de nivel 11.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
     },
     "tl0aCg": {
-        "ko": "[제련 연구가]\n무기 12 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 12 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 12.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado garantizado de armas de nivel 12.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n무기 12 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 12 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 12.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado garantizado de armas de nivel 12.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
     },
     "t10aCg": {
-        "ko": "[제련 연구가]\n무기 13 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 13 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 13.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas 13.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n무기 13 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 13 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 13.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas 13.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
     },
     "uF0aCg": {
-        "ko": "[제련 연구가]\n무기 14 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 14 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 14.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas 14.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n무기 14 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 14 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 14.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas 14.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
     },
     "uV0aCg": {
-        "ko": "[제련 연구가]\n무기 15 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 15 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 15.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas 15.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n무기 15 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 15 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 15.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas 15.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
     },
     "ul0aCg": {
-        "ko": "[제련 연구가]\n무기 16 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 16 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 16.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas 16.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n무기 16 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 16 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 16.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas 16.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
     },
     "u10aCg": {
-        "ko": "[제련 연구가]\n무기 17 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Safe to 17 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 17.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas 17.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n무기 17 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Safe to 17 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 17.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas 17.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
     },
     "vF0aCg": {
-        "ko": "[제련 연구가]\n무기 18 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou don't have\na Weapon 18 Refining Guarantee.\nDid you leave it in your storage?\nPlease check\nand come back.",
-        "pt": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 18.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas 18.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n무기 18 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou don't have\na Weapon 18 Refining Guarantee.\nDid you leave it in your storage?\nPlease check\nand come back.",
+        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 18.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas 18.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
     },
     "vV0aCg": {
-        "ko": "[제련 연구가]\n무기 19 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
-        "en": "[Refining Researcher]\nYou do not possess the\nWeapon 19 Refining Guarantee.\nDid you leave it in your warehouse?\nPlease check and\nreturn.",
-        "pt": "[Pesquisador de Refinamento]\nVocê não está com o\nTítulo de Garantia de Refinamento de Arma 19.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
-        "es": "[Investigador de refinado]\nNo tienes el\nbono de refinado de arma 19.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
+        "ko-KR": "[제련 연구가]\n무기 19 제련 보장권을\n가지고 계시지 않군요.\n창고에 넣어두신 건가요?\n확인해 보신 뒤,\n다시 오시길 바랍니다.",
+        "en-US": "[Refining Researcher]\nYou do not possess the\nWeapon 19 Refining Guarantee.\nDid you leave it in your warehouse?\nPlease check and\nreturn.",
+        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nTítulo de Garantia de Refinamento de Arma 19.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "es-ES": "[Investigador de refinado]\nNo tienes el\nbono de refinado de arma 19.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
     },
     "vl0aCg": {
-        "ko": "[제련 연구가]\n^006400무기 {0} 제련 보장권^8B4513을\n소모하여 ^006400{1}^8B4513\n장비를 {0} 단계 만큼 제련합니다.^000000\n계속 진행 할까요?",
-        "en": "[Refining Researcher]\nConsume a ^006400Weapon {0} Refining Guarantee Ticket^8B4513\nto refine ^006400{1}^8B4513\nequipment by {0} stages.^000000\nProceed?",
-        "pt": "[Pesquisador de Refinamento]\n^006400Consumindo o Bilhete de Refinamento Garantido de Arma {0} ^8B4513,\nrefinamos o equipamento ^006400{1}^8B4513\nem {0} níveis.^000000\nQueres continuar?",
-        "es": "[Investigador de refinamiento]\n^006400Consumiré {0} boletos de refinamiento garantizado de armas^8B4513\npara refinar el equipo ^006400{1}^8B4513\nen {0} niveles.^000000\n¿Quieres continuar?"
+        "ko-KR": "[제련 연구가]\n^006400무기 {0} 제련 보장권^8B4513을\n소모하여 ^006400{1}^8B4513\n장비를 {0} 단계 만큼 제련합니다.^000000\n계속 진행 할까요?",
+        "en-US": "[Refining Researcher]\nConsume a ^006400Weapon {0} Refining Guarantee Ticket^8B4513\nto refine ^006400{1}^8B4513\nequipment by {0} stages.^000000\nProceed?",
+        "pt-BR": "[Pesquisador de Refinamento]\n^006400Consumindo o Bilhete de Refinamento Garantido de Arma {0} ^8B4513,\nrefinamos o equipamento ^006400{1}^8B4513\nem {0} níveis.^000000\nQueres continuar?",
+        "es-ES": "[Investigador de refinamiento]\n^006400Consumiré {0} boletos de refinamiento garantizado de armas^8B4513\npara refinar el equipo ^006400{1}^8B4513\nen {0} niveles.^000000\n¿Quieres continuar?"
     },
     "v10aCg": {
-        "ko": "오류 발생: 무기안전제련",
-        "en": "Error Occurred: Weapon Safe Refining",
-        "pt": "Erro: Refinamento Seguro de Armas",
-        "es": "Error: Refinado seguro de armas"
+        "ko-KR": "오류 발생: 무기안전제련",
+        "en-US": "Error Occurred: Weapon Safe Refining",
+        "pt-BR": "Erro: Refinamento Seguro de Armas",
+        "es-ES": "Error: Refinado seguro de armas"
     },
     "wF0aCg": {
-        "ko": "[제련 연구가]\n안녕하세요.\n무슨 일이시죠?\n저는 제련 기술만큼은\n자신있는 사람입니다만,\n요즘에는 그 일을 하지 않아요.",
-        "en": "[Refining Researcher]\nHello.\nHow may I help you?\nI'm quite skilled\nin equipment-refining matters,\nbut I haven't accepted any work lately.",
-        "pt": "[Pesquisador de Refinamento]\nOlá.\nO que aconteceu?\nSou uma pessoa que se orgulha\nda minha habilidade em refinamento,\nmas, ultimamente, não tenho feito esse trabalho.",
-        "es": "[Investigador de refinamiento]\nHola.\n¿Qué pasa?\nAunque tengo mucha confianza\nen mis habilidades de refinamiento,\núltimamente no me dedico a eso."
+        "ko-KR": "[제련 연구가]\n안녕하세요.\n무슨 일이시죠?\n저는 제련 기술만큼은\n자신있는 사람입니다만,\n요즘에는 그 일을 하지 않아요.",
+        "en-US": "[Refining Researcher]\nHello.\nHow may I help you?\nI'm quite skilled\nin equipment-refining matters,\nbut I haven't accepted any work lately.",
+        "pt-BR": "[Pesquisador de Refinamento]\nOlá.\nO que aconteceu?\nSou uma pessoa que se orgulha\nda minha habilidade em refinamento,\nmas, ultimamente, não tenho feito esse trabalho.",
+        "es-ES": "[Investigador de refinamiento]\nHola.\n¿Qué pasa?\nAunque tengo mucha confianza\nen mis habilidades de refinamiento,\núltimamente no me dedico a eso."
     },
     "wV0aCg": {
-        "ko": "가던 길을 간다.",
-        "en": "I'm going my way.",
-        "pt": "Seguir em frente.",
-        "es": "Sigo mi camino."
+        "ko-KR": "가던 길을 간다.",
+        "en-US": "I'm going my way.",
+        "pt-BR": "Seguir em frente.",
+        "es-ES": "Sigo mi camino."
     },
     "wl0aCg": {
-        "ko": "더 들어 본다.",
-        "en": "I'll listen some more.",
-        "pt": "Ouvir mais.",
-        "es": "Escuchar más."
+        "ko-KR": "더 들어 본다.",
+        "en-US": "I'll listen some more.",
+        "pt-BR": "Ouvir mais.",
+        "es-ES": "Escuchar más."
     },
     "w10aCg": {
-        "ko": "[제련 연구가]\n그럼 안녕히 가세요, 모험가님.",
-        "en": "[Refining Researcher]\nFarewell, adventurer.",
-        "pt": "[Pesquisador de Refinamento]\nEntão, boa viagem, aventureiro.",
-        "es": "[Investigador de Refinado]\nEntonces, hasta pronto, aventurero."
+        "ko-KR": "[제련 연구가]\n그럼 안녕히 가세요, 모험가님.",
+        "en-US": "[Refining Researcher]\nFarewell, adventurer.",
+        "pt-BR": "[Pesquisador de Refinamento]\nEntão, boa viagem, aventureiro.",
+        "es-ES": "[Investigador de Refinado]\nEntonces, hasta pronto, aventurero."
     },
     "xF0aCg": {
-        "ko": "[제련 연구가]\n사실, 제가 제련을 해 드리는 경우가 있기는 합니다만\n^006400제련 보장권^000000티켓을 가진 분들이 ^FF0000장착할 수 있는 장비^000000만을 제련해드리죠.\n그럼 안녕히 ~!",
-        "en": "[Refining Researcher]\nActually, I do offer refining services on occasion,\nbut I only refine ^006400Safe Refining Certificates^000000 for ^FF0000equipment you can wear^000000.\nTake care ~!",
-        "pt": "[Pesquisador de Refinação]\nNa verdade, às vezes eu faço a refinação para vocês,\nmas só refino ^FF0000equipamentos que possam ser equipados^000000 por quem tem o ^006400Título de Garantia de Refinação^000000.\nEntão, até mais ~!",
-        "es": "[Investigador de fundición]\nLa verdad es que a veces sí que hago fundiciones,\npero solo fundo ^FF0000equipos que se puedan equipar^000000 para quienes tengan un ^006400bono de fundición garantizada^000000.\n¡Adiós entonces!"
+        "ko-KR": "[제련 연구가]\n사실, 제가 제련을 해 드리는 경우가 있기는 합니다만\n^006400제련 보장권^000000티켓을 가진 분들이 ^FF0000장착할 수 있는 장비^000000만을 제련해드리죠.\n그럼 안녕히 ~!",
+        "en-US": "[Refining Researcher]\nActually, I do offer refining services on occasion,\nbut I only refine ^006400Safe Refining Certificates^000000 for ^FF0000equipment you can wear^000000.\nTake care ~!",
+        "pt-BR": "[Pesquisador de Refinação]\nNa verdade, às vezes eu faço a refinação para vocês,\nmas só refino ^FF0000equipamentos que possam ser equipados^000000 por quem tem o ^006400Título de Garantia de Refinação^000000.\nEntão, até mais ~!",
+        "es-ES": "[Investigador de fundición]\nLa verdad es que a veces sí que hago fundiciones,\npero solo fundo ^FF0000equipos que se puedan equipar^000000 para quienes tengan un ^006400bono de fundición garantizada^000000.\n¡Adiós entonces!"
     }
 }

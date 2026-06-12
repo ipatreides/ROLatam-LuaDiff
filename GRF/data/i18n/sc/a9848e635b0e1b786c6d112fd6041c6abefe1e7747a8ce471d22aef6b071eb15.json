@@ -1,32 +1,32 @@
 {
     "gCtTCw": {
-        "en": "Boarding Serviceroid",
-        "pt": "Robô de Embarque",
-        "es": "Androide de embarque"
+        "en-US": "Boarding Serviceroid",
+        "pt-BR": "Robô de Embarque",
+        "es-ES": "Androide de embarque"
     },
     "gStTCw": {
-        "en": "Valkyrie Air",
-        "pt": "Valquíria Linhas Aéreas",
-        "es": "Aerolíneas Valkiria"
+        "en-US": "Valkyrie Air",
+        "pt-BR": "Valquíria Linhas Aéreas",
+        "es-ES": "Aerolíneas Valkiria"
     },
     "gitTCw": {
-        "en": "We have arrived at Izlude. We wish you a pleasant journey.",
-        "pt": "Chegamos em Izlude. Desejamos uma boa viagem.",
-        "es": "Llegamos a Izlude. Te deseamos un buen viaje."
+        "en-US": "We have arrived at Izlude. We wish you a pleasant journey.",
+        "pt-BR": "Chegamos em Izlude. Desejamos uma boa viagem.",
+        "es-ES": "Llegamos a Izlude. Te deseamos un buen viaje."
     },
     "gytTCw": {
-        "en": "We have arrived at Juno. We wish you a pleasant journey.",
-        "pt": "Chegamos a Juno. Desejamos uma boa viagem.",
-        "es": "Llegamos a Juno. Te deseamos un buen viaje."
+        "en-US": "We have arrived at Juno. We wish you a pleasant journey.",
+        "pt-BR": "Chegamos a Juno. Desejamos uma boa viagem.",
+        "es-ES": "Llegamos a Juno. Te deseamos un buen viaje."
     },
     "hCtTCw": {
-        "en": "We have arrived at Rachel. We wish you a pleasant journey.",
-        "pt": "Chegamos em Rachel. Desejamos uma boa viagem.",
-        "es": "Llegamos a Rachel. Te deseamos un buen viaje."
+        "en-US": "We have arrived at Rachel. We wish you a pleasant journey.",
+        "pt-BR": "Chegamos em Rachel. Desejamos uma boa viagem.",
+        "es-ES": "Llegamos a Rachel. Te deseamos un buen viaje."
     },
     "hStTCw": {
-        "en": "We are currently in the air. We hope you enjoy your time with Valkyrie Air.",
-        "pt": "Estamos no ar no momento. Esperamos que você aproveite o seu tempo com a Valquíria Linhas Aéreas.",
-        "es": "Actualmente estamos volando. Esperamos que disfrutes tu viaje con Aerolíneas Valkiria."
+        "en-US": "We are currently in the air. We hope you enjoy your time with Valkyrie Air.",
+        "pt-BR": "Estamos no ar no momento. Esperamos que você aproveite o seu tempo com a Valquíria Linhas Aéreas.",
+        "es-ES": "Actualmente estamos volando. Esperamos que disfrutes tu viaje con Aerolíneas Valkiria."
     }
 }

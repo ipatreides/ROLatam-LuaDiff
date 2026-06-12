@@ -1,902 +1,902 @@
 {
     "AKolAw": {
-        "ko": "어쌔신",
-        "en": "Assassin",
-        "pt": "Mercenário",
-        "es": "Asesino"
+        "ko-KR": "어쌔신",
+        "en-US": "Assassin",
+        "pt-BR": "Mercenário",
+        "es-ES": "Asesino"
     },
     "AaolAw": {
-        "ko": "- 여기서 잠깐 !! -\n- 가지고 계신 아이템이 너무 많아 -\n- 아이템을 받을 수 없습니다. -\n- 몸을 가볍게 하시고 -\n- 다시 시도해주세요. -",
-        "en": "- Wait a moment!! -\n- You are carrying too many items -\n- and cannot receive any more. -\n- Please lighten your load -\n- and try again. -",
-        "pt": "- Espere um pouco!! -\n- Você está carregando itens demais -\n- e não pode receber itens. -\n- Alivie sua carga -\n- e tente novamente. -",
-        "es": "- ¡¡Un momento!! -\n- Llevas demasiados objetos, -\n- así que no puedes recibir más. -\n- Aligera tu carga -\n- e inténtalo de nuevo. -"
+        "ko-KR": "- 여기서 잠깐 !! -\n- 가지고 계신 아이템이 너무 많아 -\n- 아이템을 받을 수 없습니다. -\n- 몸을 가볍게 하시고 -\n- 다시 시도해주세요. -",
+        "en-US": "- Wait a moment!! -\n- You are carrying too many items -\n- and cannot receive any more. -\n- Please lighten your load -\n- and try again. -",
+        "pt-BR": "- Espere um pouco!! -\n- Você está carregando itens demais -\n- e não pode receber itens. -\n- Alivie sua carga -\n- e tente novamente. -",
+        "es-ES": "- ¡¡Un momento!! -\n- Llevas demasiados objetos, -\n- así que no puedes recibir más. -\n- Aligera tu carga -\n- e inténtalo de nuevo. -"
     },
     "AqolAw": {
-        "ko": "[킬틴]\n호오.. 이게 누구야.\n{0}아닌가?\n오랜만에 길드를 찾아와주었군...\n때마침 잘와주었네.\n지금 전국 곳곳에서 활동중인\n우리 어쌔신 길드원들을 소환하려고\n했는데..",
-        "en": "[Kiltin]\nHooh... well, look who it is.\nIsn't that {0}?\nIt's been a while since you've visited the guild...\nYou came at just the right time.\nI was just about to summon\nour Assassin guild members\nwho are active all across the land...",
-        "pt": "[Kiltin]\nOra... quem temos aqui.\nNão é {0}?\nHá quanto tempo você não vinha à guilda...\nVeio em boa hora.\nEu estava prestes a convocar\nos membros da nossa Guilda de Mercenário\nque estão atuando por todo o país...",
-        "es": "[Kiltin]\nVaya... ¿a quién tenemos aquí?\n¿No eres {0}?\nHace tiempo que no venías al gremio...\nHas llegado justo a tiempo.\nEstaba a punto de convocar\na nuestros miembros del gremio Asesino\nque están activos por todo el país..."
+        "ko-KR": "[킬틴]\n호오.. 이게 누구야.\n{0}아닌가?\n오랜만에 길드를 찾아와주었군...\n때마침 잘와주었네.\n지금 전국 곳곳에서 활동중인\n우리 어쌔신 길드원들을 소환하려고\n했는데..",
+        "en-US": "[Kiltin]\nHooh... well, look who it is.\nIsn't that {0}?\nIt's been a while since you've visited the guild...\nYou came at just the right time.\nI was just about to summon\nour Assassin guild members\nwho are active all across the land...",
+        "pt-BR": "[Kiltin]\nOra... quem temos aqui.\nNão é {0}?\nHá quanto tempo você não vinha à guilda...\nVeio em boa hora.\nEu estava prestes a convocar\nos membros da nossa Guilda de Mercenário\nque estão atuando por todo o país...",
+        "es-ES": "[Kiltin]\nVaya... ¿a quién tenemos aquí?\n¿No eres {0}?\nHace tiempo que no venías al gremio...\nHas llegado justo a tiempo.\nEstaba a punto de convocar\na nuestros miembros del gremio Asesino\nque están activos por todo el país..."
     },
     "A6olAw": {
-        "ko": "길드 무슨 일이 일어난건가요?",
-        "en": "Did something happen to the guild?",
-        "pt": "Aconteceu algo na guilda?",
-        "es": "¿Ha ocurrido algo en el gremio?"
+        "ko-KR": "길드 무슨 일이 일어난건가요?",
+        "en-US": "Did something happen to the guild?",
+        "pt-BR": "Aconteceu algo na guilda?",
+        "es-ES": "¿Ha ocurrido algo en el gremio?"
     },
     "BKolAw": {
-        "ko": "[킬틴]\n아..길드에 무슨 일이 일어났지..\n그것도 흥미로운 일이...",
-        "en": "[Kiltin]\nAh... something happened to the guild...\nAnd quite an interesting thing at that...",
-        "pt": "[Kiltin]\nAh... algo aconteceu na guilda...\nE algo interessante...",
-        "es": "[Kiltin]\nAh... sí, ha ocurrido algo en el gremio...\nY algo interesante, además..."
+        "ko-KR": "[킬틴]\n아..길드에 무슨 일이 일어났지..\n그것도 흥미로운 일이...",
+        "en-US": "[Kiltin]\nAh... something happened to the guild...\nAnd quite an interesting thing at that...",
+        "pt-BR": "[Kiltin]\nAh... algo aconteceu na guilda...\nE algo interessante...",
+        "es-ES": "[Kiltin]\nAh... sí, ha ocurrido algo en el gremio...\nY algo interesante, además..."
     },
     "BaolAw": {
-        "ko": "[킬틴]\n후후후..이 사람 놀라긴....\n길드원들을 소환하는 이유는\n이번에 길드마스터님께서\n연마하신 새로운 어쌔신들의\n기술들을 전수하기 위함이네.",
-        "en": "[Kiltin]\nHeh heh heh... You look surprised....\nThe reason I summoned the guild members\nis because the Guild Master\nhas developed new Assassin\ntechniques to pass down.",
-        "pt": "[Kiltin]\nHu hu hu... por que essa surpresa?\nO motivo de convocar os membros da guilda\né transmitir as novas técnicas de assassino\nque nosso Mestre da Guilda aperfeiçoou\ndesta vez.",
-        "es": "[Kiltin]\nJe, je, je... no te sorprendas tanto...\nEl motivo de convocar a los miembros\nes transmitirles las nuevas técnicas\nde asesino que nuestro maestro del gremio\nha perfeccionado esta vez."
+        "ko-KR": "[킬틴]\n후후후..이 사람 놀라긴....\n길드원들을 소환하는 이유는\n이번에 길드마스터님께서\n연마하신 새로운 어쌔신들의\n기술들을 전수하기 위함이네.",
+        "en-US": "[Kiltin]\nHeh heh heh... You look surprised....\nThe reason I summoned the guild members\nis because the Guild Master\nhas developed new Assassin\ntechniques to pass down.",
+        "pt-BR": "[Kiltin]\nHu hu hu... por que essa surpresa?\nO motivo de convocar os membros da guilda\né transmitir as novas técnicas de assassino\nque nosso Mestre da Guilda aperfeiçoou\ndesta vez.",
+        "es-ES": "[Kiltin]\nJe, je, je... no te sorprendas tanto...\nEl motivo de convocar a los miembros\nes transmitirles las nuevas técnicas\nde asesino que nuestro maestro del gremio\nha perfeccionado esta vez."
     },
     "BqolAw": {
-        "ko": "새로운 기술..?..",
-        "en": "New techniques...?..",
-        "pt": "Novas técnicas...?",
-        "es": "¿Nuevas técnicas...?"
+        "ko-KR": "새로운 기술..?..",
+        "en-US": "New techniques...?..",
+        "pt-BR": "Novas técnicas...?",
+        "es-ES": "¿Nuevas técnicas...?"
     },
     "B6olAw": {
-        "ko": "[킬틴]\n역시 자네도 눈이 번뜩이는군.\n그래 새로운 기술이네.",
-        "en": "[Kiltin]\nLooks like that caught your attention.\nThat's right, new techniques.",
-        "pt": "[Kiltin]\nComo pensei, seus olhos também brilharam.\nSim, novas técnicas.",
-        "es": "[Kiltin]\nVeo que a ti también\nse te han iluminado los ojos.\nSí, nuevas técnicas."
+        "ko-KR": "[킬틴]\n역시 자네도 눈이 번뜩이는군.\n그래 새로운 기술이네.",
+        "en-US": "[Kiltin]\nLooks like that caught your attention.\nThat's right, new techniques.",
+        "pt-BR": "[Kiltin]\nComo pensei, seus olhos também brilharam.\nSim, novas técnicas.",
+        "es-ES": "[Kiltin]\nVeo que a ti también\nse te han iluminado los ojos.\nSí, nuevas técnicas."
     },
     "CKolAw": {
-        "ko": "흠.....",
-        "en": "Hmm.....",
-        "pt": "Hmm.....",
-        "es": "Mmm....."
+        "ko-KR": "흠.....",
+        "en-US": "Hmm.....",
+        "pt-BR": "Hmm.....",
+        "es-ES": "Mmm....."
     },
     "CaolAw": {
-        "ko": "[킬틴]\n두가지의 기술이 새로 개발되었지..\n첫째는소닉블로우의 개량형이고\n두번째는 '^990099베넘 나이프^000000'라는\n원거리 공격 기술이지.\n어떤 기술들인지 궁금하지?",
-        "en": "[Kiltin]\nTwo new techniques have been developed..\nThe first is an improved version of Sonic Blow,\nand the second is a ranged attack skill\ncalled '^990099Venom Knife^000000'.\nCurious about them?",
-        "pt": "[Kiltin]\nDuas técnicas novas foram desenvolvidas.\nA primeira é uma versão aprimorada de Sonic Blow,\ne a segunda é uma técnica de ataque à distância\nchamada '^990099Faca Envenenada^000000'.\nQuer saber que técnicas são?",
-        "es": "[Kiltin]\nSe han desarrollado dos técnicas nuevas...\nLa primera es una versión mejorada de Sonic Blow,\ny la segunda es una técnica de ataque a distancia\nllamada '^990099Cuchillo venenoso^000000'.\n¿No te da curiosidad saber cómo son?"
+        "ko-KR": "[킬틴]\n두가지의 기술이 새로 개발되었지..\n첫째는소닉블로우의 개량형이고\n두번째는 '^990099베넘 나이프^000000'라는\n원거리 공격 기술이지.\n어떤 기술들인지 궁금하지?",
+        "en-US": "[Kiltin]\nTwo new techniques have been developed..\nThe first is an improved version of Sonic Blow,\nand the second is a ranged attack skill\ncalled '^990099Venom Knife^000000'.\nCurious about them?",
+        "pt-BR": "[Kiltin]\nDuas técnicas novas foram desenvolvidas.\nA primeira é uma versão aprimorada de Sonic Blow,\ne a segunda é uma técnica de ataque à distância\nchamada '^990099Faca Envenenada^000000'.\nQuer saber que técnicas são?",
+        "es-ES": "[Kiltin]\nSe han desarrollado dos técnicas nuevas...\nLa primera es una versión mejorada de Sonic Blow,\ny la segunda es una técnica de ataque a distancia\nllamada '^990099Cuchillo venenoso^000000'.\n¿No te da curiosidad saber cómo son?"
     },
     "CqolAw": {
-        "ko": "[킬틴]\n그럼 둘 중 어느 기술부터\n설명해줄까?",
-        "en": "[Kiltin]\nThen which skill\nshall I explain first?",
-        "pt": "[Kiltin]\nEntão, qual das duas técnicas\nquer que eu explique primeiro?",
-        "es": "[Kiltin]\nEntonces, ¿cuál de las dos técnicas\nquieres que te explique primero?"
+        "ko-KR": "[킬틴]\n그럼 둘 중 어느 기술부터\n설명해줄까?",
+        "en-US": "[Kiltin]\nThen which skill\nshall I explain first?",
+        "pt-BR": "[Kiltin]\nEntão, qual das duas técnicas\nquer que eu explique primeiro?",
+        "es-ES": "[Kiltin]\nEntonces, ¿cuál de las dos técnicas\nquieres que te explique primero?"
     },
     "C6olAw": {
-        "ko": "^0000FF소닉 블로우의 개량형^000000",
-        "en": "^0000FFImproved Sonic Blow^000000",
-        "pt": "^0000FFVersão aprimorada de Sonic Blow^000000",
-        "es": "^0000FFLa versión mejorada de Sonic Blow^000000"
+        "ko-KR": "^0000FF소닉 블로우의 개량형^000000",
+        "en-US": "^0000FFImproved Sonic Blow^000000",
+        "pt-BR": "^0000FFVersão aprimorada de Sonic Blow^000000",
+        "es-ES": "^0000FFLa versión mejorada de Sonic Blow^000000"
     },
     "DKolAw": {
-        "ko": "^990099베넘 나이프^000000",
-        "en": "^990099Venom Knife^000000",
-        "pt": "^990099Faca Envenenada^000000",
-        "es": "^990099Cuchillo venenoso^000000"
+        "ko-KR": "^990099베넘 나이프^000000",
+        "en-US": "^990099Venom Knife^000000",
+        "pt-BR": "^990099Faca Envenenada^000000",
+        "es-ES": "^990099Cuchillo venenoso^000000"
     },
     "DaolAw": {
-        "ko": "대화진행",
-        "en": "Continue Conversation",
-        "pt": "Prosseguir com a conversa",
-        "es": "Continuar la conversación"
+        "ko-KR": "대화진행",
+        "en-US": "Continue Conversation",
+        "pt-BR": "Prosseguir com a conversa",
+        "es-ES": "Continuar la conversación"
     },
     "DqolAw": {
-        "ko": "[킬틴]\n우리 길드에서 대표적으로\n가르치는 기술 중에..\n'소닉 블로우'라는 것이있지.",
-        "en": "[Kiltin]\nAmong the representative skills\ntaught by our guild..\nthere is one called\n'Sonic Blow.'",
-        "pt": "[Kiltin]\nEntre as técnicas mais representativas\nensinadas pela nossa guilda,\nhá uma chamada 'Sonic Blow'.",
-        "es": "[Kiltin]\nEntre las técnicas más representativas\nque enseña nuestro gremio...\nhay una llamada 'Sonic Blow'."
+        "ko-KR": "[킬틴]\n우리 길드에서 대표적으로\n가르치는 기술 중에..\n'소닉 블로우'라는 것이있지.",
+        "en-US": "[Kiltin]\nAmong the representative skills\ntaught by our guild..\nthere is one called\n'Sonic Blow.'",
+        "pt-BR": "[Kiltin]\nEntre as técnicas mais representativas\nensinadas pela nossa guilda,\nhá uma chamada 'Sonic Blow'.",
+        "es-ES": "[Kiltin]\nEntre las técnicas más representativas\nque enseña nuestro gremio...\nhay una llamada 'Sonic Blow'."
     },
     "D6olAw": {
-        "ko": "[킬틴]\n자네도 알다시피 소닉 블로우\n기술은 상대방을 단숨에\n8연타로 공격하는 기술야.\n하지만.. 높은 집중력과\n손놀림을 필요로하기 때문에\n민첩한 적을 맞히기란 매우\n어려운 일이 아닐 수 없네.",
-        "en": "[Kiltin]\nAs you already know,\nSonic Blow is a technique\nthat strikes the opponent\nwith 8 rapid consecutive hits.\nHowever.. since it requires\nhigh concentration and dexterity,\nlanding it against agile enemies\nis no easy task.",
-        "pt": "[Kiltin]\nComo você sabe, Sonic Blow\né uma técnica que ataca o oponente\ncom 8 golpes de uma só vez.\nMas... como exige grande concentração\ne movimentos rápidos das mãos,\nacertar inimigos ágeis\né uma tarefa muito difícil.",
-        "es": "[Kiltin]\nComo ya sabes, Sonic Blow\nes una técnica que ataca al enemigo\ncon 8 golpes consecutivos de una sola vez.\nPero... como requiere gran concentración\ny movimientos muy precisos,\nacertar a enemigos ágiles\nes una tarea sumamente difícil."
+        "ko-KR": "[킬틴]\n자네도 알다시피 소닉 블로우\n기술은 상대방을 단숨에\n8연타로 공격하는 기술야.\n하지만.. 높은 집중력과\n손놀림을 필요로하기 때문에\n민첩한 적을 맞히기란 매우\n어려운 일이 아닐 수 없네.",
+        "en-US": "[Kiltin]\nAs you already know,\nSonic Blow is a technique\nthat strikes the opponent\nwith 8 rapid consecutive hits.\nHowever.. since it requires\nhigh concentration and dexterity,\nlanding it against agile enemies\nis no easy task.",
+        "pt-BR": "[Kiltin]\nComo você sabe, Sonic Blow\né uma técnica que ataca o oponente\ncom 8 golpes de uma só vez.\nMas... como exige grande concentração\ne movimentos rápidos das mãos,\nacertar inimigos ágeis\né uma tarefa muito difícil.",
+        "es-ES": "[Kiltin]\nComo ya sabes, Sonic Blow\nes una técnica que ataca al enemigo\ncon 8 golpes consecutivos de una sola vez.\nPero... como requiere gran concentración\ny movimientos muy precisos,\nacertar a enemigos ágiles\nes una tarea sumamente difícil."
     },
     "EKolAw": {
-        "ko": "[킬틴]\n길드마스터는 항상 그 문제를\n보완시키기 위해 계속적인\n노력과 연구를 해왔었네..\n이제 문제점을 보완할 해결책을\n내놓으신거지..",
-        "en": "[Kiltin]\nThe Guild Master has always\ncontinued his efforts and research\nto overcome that weakness..\nAnd now, he has finally\npresented a solution to it..",
-        "pt": "[Kiltin]\nO Mestre da Guilda sempre se esforçou\ne pesquisou continuamente\npara compensar esse problema.\nAgora ele apresentou uma solução\npara corrigir essa falha.",
-        "es": "[Kiltin]\nEl maestro del gremio siempre\nha investigado y trabajado\npara compensar ese problema...\nY por fin ha presentado una solución."
+        "ko-KR": "[킬틴]\n길드마스터는 항상 그 문제를\n보완시키기 위해 계속적인\n노력과 연구를 해왔었네..\n이제 문제점을 보완할 해결책을\n내놓으신거지..",
+        "en-US": "[Kiltin]\nThe Guild Master has always\ncontinued his efforts and research\nto overcome that weakness..\nAnd now, he has finally\npresented a solution to it..",
+        "pt-BR": "[Kiltin]\nO Mestre da Guilda sempre se esforçou\ne pesquisou continuamente\npara compensar esse problema.\nAgora ele apresentou uma solução\npara corrigir essa falha.",
+        "es-ES": "[Kiltin]\nEl maestro del gremio siempre\nha investigado y trabajado\npara compensar ese problema...\nY por fin ha presentado una solución."
     },
     "EaolAw": {
-        "ko": "[킬틴]\n해결책이란 길드 마스터가 직접\n개발한 ^0000FF소닉 엑셀레이션^000000이라는\n스킬이네.\n^0000FF소닉 엑셀레이션^000000이란..\n소닉 블로우를 사용할 때 움직이는\n공격모션과 상대방의 약점을 헛점을\n더 잘 파악할 수 있게 하는\n예리한 눈을 몸에 베게 하는거지.",
-        "en": "[Kiltin]\nThat solution is a skill\npersonally developed by the Guild Master\ncalled ^0000FFSonic Acceleration^000000.\n^0000FFSonic Acceleration^000000...\nallows one to better understand\nthe attack motions used during Sonic Blow\nas well as the enemy's weak points and openings,\nengraving sharp perception into the body itself.",
-        "pt": "[Kiltin]\nA solução é uma habilidade chamada\n^0000FFLâminas Aceleradas^000000,\ndesenvolvida pessoalmente pelo Mestre da Guilda.\n^0000FFLâminas Aceleradas^000000 é...\ngravar no corpo os movimentos de ataque\nusados ao executar Sonic Blow\ne um olhar aguçado que permite perceber melhor\nos pontos fracos e brechas do oponente.",
-        "es": "[Kiltin]\nEsa solución es una habilidad\ndesarrollada personalmente por el maestro\ndel gremio, llamada ^0000FFAceleración Sónica^000000.\n^0000FFAceleración Sónica^000000 consiste en...\nhacer que el cuerpo asimile\nlos movimientos de ataque al usar Sonic Blow\ny una mirada aguda capaz de detectar mejor\nlos puntos débiles y las aperturas del enemigo."
+        "ko-KR": "[킬틴]\n해결책이란 길드 마스터가 직접\n개발한 ^0000FF소닉 엑셀레이션^000000이라는\n스킬이네.\n^0000FF소닉 엑셀레이션^000000이란..\n소닉 블로우를 사용할 때 움직이는\n공격모션과 상대방의 약점을 헛점을\n더 잘 파악할 수 있게 하는\n예리한 눈을 몸에 베게 하는거지.",
+        "en-US": "[Kiltin]\nThat solution is a skill\npersonally developed by the Guild Master\ncalled ^0000FFSonic Acceleration^000000.\n^0000FFSonic Acceleration^000000...\nallows one to better understand\nthe attack motions used during Sonic Blow\nas well as the enemy's weak points and openings,\nengraving sharp perception into the body itself.",
+        "pt-BR": "[Kiltin]\nA solução é uma habilidade chamada\n^0000FFLâminas Aceleradas^000000,\ndesenvolvida pessoalmente pelo Mestre da Guilda.\n^0000FFLâminas Aceleradas^000000 é...\ngravar no corpo os movimentos de ataque\nusados ao executar Sonic Blow\ne um olhar aguçado que permite perceber melhor\nos pontos fracos e brechas do oponente.",
+        "es-ES": "[Kiltin]\nEsa solución es una habilidad\ndesarrollada personalmente por el maestro\ndel gremio, llamada ^0000FFAceleración Sónica^000000.\n^0000FFAceleración Sónica^000000 consiste en...\nhacer que el cuerpo asimile\nlos movimientos de ataque al usar Sonic Blow\ny una mirada aguda capaz de detectar mejor\nlos puntos débiles y las aperturas del enemigo."
     },
     "EqolAw": {
-        "ko": "[킬틴]\n첫째로.\n^0000FF소닉 엑셀레이션^000000은 기존의\n소닉 블로우를 사용함에 있어\n조금더 빠르고 정확한 치명타\n위치를 파악하게해주는 기술이지.",
-        "en": "[Kiltin]\nFirst.\n^0000FFSonic Acceleration^000000\nis a technique that allows you\nto identify critical strike points\nmore quickly and accurately\nwhen using Sonic Blow.",
-        "pt": "[Kiltin]\nPrimeiro.\n^0000FFLâminas Aceleradas^000000 é uma técnica\nque, ao usar o Sonic Blow existente,\npermite identificar com um pouco mais de rapidez\ne precisão o ponto de golpe crítico.",
-        "es": "[Kiltin]\nPrimero.\n^0000FFAceleración Sónica^000000 es una técnica\nque permite identificar con mayor rapidez\ny precisión los puntos de impacto crítico\nal usar el Sonic Blow existente."
+        "ko-KR": "[킬틴]\n첫째로.\n^0000FF소닉 엑셀레이션^000000은 기존의\n소닉 블로우를 사용함에 있어\n조금더 빠르고 정확한 치명타\n위치를 파악하게해주는 기술이지.",
+        "en-US": "[Kiltin]\nFirst.\n^0000FFSonic Acceleration^000000\nis a technique that allows you\nto identify critical strike points\nmore quickly and accurately\nwhen using Sonic Blow.",
+        "pt-BR": "[Kiltin]\nPrimeiro.\n^0000FFLâminas Aceleradas^000000 é uma técnica\nque, ao usar o Sonic Blow existente,\npermite identificar com um pouco mais de rapidez\ne precisão o ponto de golpe crítico.",
+        "es-ES": "[Kiltin]\nPrimero.\n^0000FFAceleración Sónica^000000 es una técnica\nque permite identificar con mayor rapidez\ny precisión los puntos de impacto crítico\nal usar el Sonic Blow existente."
     },
     "E6olAw": {
-        "ko": "[킬틴]\n둘째로.\n^0000FF소닉 엑셀레이션^000000은 적에게 쓰는\n기술이아니라 바로 자기 자신의\n몸을 소닉 블로우스킬을 사용하기에\n최상의 조건으로 만들어주는\n기술이네.",
-        "en": "[Kiltin]\nSecond.\n^0000FFSonic Acceleration^000000\nis not a skill used on enemies,\nbut rather a technique\nthat conditions your own body\ninto the optimal state\nfor using Sonic Blow.",
-        "pt": "[Kiltin]\nSegundo.\n^0000FFLâminas Aceleradas^000000 não é uma técnica\nusada contra o inimigo,\nmas uma técnica que transforma seu próprio corpo\nna melhor condição para usar\na habilidade Sonic Blow.",
-        "es": "[Kiltin]\nSegundo.\n^0000FFAceleración Sónica^000000 no es una técnica\nque se use contra el enemigo,\nsino una técnica que prepara tu propio cuerpo\nen las mejores condiciones\npara utilizar la habilidad Sonic Blow."
+        "ko-KR": "[킬틴]\n둘째로.\n^0000FF소닉 엑셀레이션^000000은 적에게 쓰는\n기술이아니라 바로 자기 자신의\n몸을 소닉 블로우스킬을 사용하기에\n최상의 조건으로 만들어주는\n기술이네.",
+        "en-US": "[Kiltin]\nSecond.\n^0000FFSonic Acceleration^000000\nis not a skill used on enemies,\nbut rather a technique\nthat conditions your own body\ninto the optimal state\nfor using Sonic Blow.",
+        "pt-BR": "[Kiltin]\nSegundo.\n^0000FFLâminas Aceleradas^000000 não é uma técnica\nusada contra o inimigo,\nmas uma técnica que transforma seu próprio corpo\nna melhor condição para usar\na habilidade Sonic Blow.",
+        "es-ES": "[Kiltin]\nSegundo.\n^0000FFAceleración Sónica^000000 no es una técnica\nque se use contra el enemigo,\nsino una técnica que prepara tu propio cuerpo\nen las mejores condiciones\npara utilizar la habilidad Sonic Blow."
     },
     "FKolAw": {
-        "ko": "[킬틴]\n^0000FF소닉 엑셀레이션^000000을 배운 후\n소닉 블로우를 사용할 때\n그 효과는 배가 될 걸세..",
-        "en": "[Kiltin]\nOnce you learn\n^0000FFSonic Acceleration^000000,\nthe effects of Sonic Blow\nwill be doubled..",
-        "pt": "[Kiltin]\nDepois de aprender ^0000FFLâminas Aceleradas^000000,\nquando usar Sonic Blow,\no efeito será multiplicado.",
-        "es": "[Kiltin]\nDespués de aprender ^0000FFAceleración Sónica^000000,\ncuando uses Sonic Blow,\nsu efecto se multiplicará."
+        "ko-KR": "[킬틴]\n^0000FF소닉 엑셀레이션^000000을 배운 후\n소닉 블로우를 사용할 때\n그 효과는 배가 될 걸세..",
+        "en-US": "[Kiltin]\nOnce you learn\n^0000FFSonic Acceleration^000000,\nthe effects of Sonic Blow\nwill be doubled..",
+        "pt-BR": "[Kiltin]\nDepois de aprender ^0000FFLâminas Aceleradas^000000,\nquando usar Sonic Blow,\no efeito será multiplicado.",
+        "es-ES": "[Kiltin]\nDespués de aprender ^0000FFAceleración Sónica^000000,\ncuando uses Sonic Blow,\nsu efecto se multiplicará."
     },
     "FaolAw": {
-        "ko": "[킬틴]\n배움을 받고 싶다면 ^990099베넘 나이프^000000를\n전수받은 후 옆에 있는\n미모의 어쌔신 크로스?..?\n'이스밀'과 대화해보게.",
-        "en": "[Kiltin]\nIf you wish to learn it,\nreceive instruction in ^990099Venom Knife^000000 first,\nthen speak with the beautiful\nAssassin Cross...?\n'Ismil' standing beside me.",
-        "pt": "[Kiltin]\nSe quiser aprender,\nreceba primeiro o ensinamento de ^990099Faca Envenenada^000000\ne depois converse com a bela Mercenário Cross...\n'Ismil', ali ao lado.",
-        "es": "[Kiltin]\nSi quieres recibir instrucción,\nprimero aprende ^990099Cuchillo venenoso^000000\ny luego habla con la hermosa\nAsesino Cross que está al lado... ¿?\n'Ismil'."
+        "ko-KR": "[킬틴]\n배움을 받고 싶다면 ^990099베넘 나이프^000000를\n전수받은 후 옆에 있는\n미모의 어쌔신 크로스?..?\n'이스밀'과 대화해보게.",
+        "en-US": "[Kiltin]\nIf you wish to learn it,\nreceive instruction in ^990099Venom Knife^000000 first,\nthen speak with the beautiful\nAssassin Cross...?\n'Ismil' standing beside me.",
+        "pt-BR": "[Kiltin]\nSe quiser aprender,\nreceba primeiro o ensinamento de ^990099Faca Envenenada^000000\ne depois converse com a bela Mercenário Cross...\n'Ismil', ali ao lado.",
+        "es-ES": "[Kiltin]\nSi quieres recibir instrucción,\nprimero aprende ^990099Cuchillo venenoso^000000\ny luego habla con la hermosa\nAsesino Cross que está al lado... ¿?\n'Ismil'."
     },
     "FqolAw": {
-        "ko": "[킬틴]\n좋아. ^990099베넘 나이프^000000란 말이지.\n우리 어쌔신들의 취약점인\n원거리 공격을 조금이나마\n보완해줄 수 있는 스킬로써\n개발된 것이지.",
-        "en": "[Kiltin]\nGood. So, about ^990099Venom Knife^000000.\nIt was developed as a skill\nto somewhat compensate for\nthe weakness we Assassins have\nwith ranged attacks.",
-        "pt": "[Kiltin]\nMuito bem. Então é sobre ^990099Faca Envenenada^000000.\nFoi desenvolvida como uma habilidade\ncapaz de compensar, ainda que um pouco,\na fraqueza dos nossos Assassins\nem ataques à distância.",
-        "es": "[Kiltin]\nBien. Hablemos de ^990099Cuchillo venenoso^000000.\nEs una habilidad desarrollada\npara compensar, aunque sea un poco,\nla debilidad de nosotros los asesinos:\nlos ataques a distancia."
+        "ko-KR": "[킬틴]\n좋아. ^990099베넘 나이프^000000란 말이지.\n우리 어쌔신들의 취약점인\n원거리 공격을 조금이나마\n보완해줄 수 있는 스킬로써\n개발된 것이지.",
+        "en-US": "[Kiltin]\nGood. So, about ^990099Venom Knife^000000.\nIt was developed as a skill\nto somewhat compensate for\nthe weakness we Assassins have\nwith ranged attacks.",
+        "pt-BR": "[Kiltin]\nMuito bem. Então é sobre ^990099Faca Envenenada^000000.\nFoi desenvolvida como uma habilidade\ncapaz de compensar, ainda que um pouco,\na fraqueza dos nossos Assassins\nem ataques à distância.",
+        "es-ES": "[Kiltin]\nBien. Hablemos de ^990099Cuchillo venenoso^000000.\nEs una habilidad desarrollada\npara compensar, aunque sea un poco,\nla debilidad de nosotros los asesinos:\nlos ataques a distancia."
     },
     "F6olAw": {
-        "ko": "[킬틴]\n돌던지기, 기공포등과 활이\n있긴 하지만 그것들을 사용하거나\n하기에는 상당히 제한적이지않은가?\n때문에 이제부터 이 기술을\n필요로 할 수 도 있어.",
-        "en": "[Kiltin]\nSure, we have Throw Stone,\nSpirit Sphere attacks, and bows,\nbut aren't they all rather limited\nin practical use?\nThat's why from now on,\nyou may find this skill necessary.",
-        "pt": "[Kiltin]\nExistem Arremessar Pedra, Esfera Espiritual e arcos,\nmas usá-los não é bastante limitado?\nPor isso, talvez você passe a precisar\ndesta técnica daqui em diante.",
-        "es": "[Kiltin]\nExisten lanzar piedras, Finger Offensive y los arcos,\npero su uso es bastante limitado, ¿no crees?\nPor eso puede que, de ahora en adelante,\nnecesites esta técnica."
+        "ko-KR": "[킬틴]\n돌던지기, 기공포등과 활이\n있긴 하지만 그것들을 사용하거나\n하기에는 상당히 제한적이지않은가?\n때문에 이제부터 이 기술을\n필요로 할 수 도 있어.",
+        "en-US": "[Kiltin]\nSure, we have Throw Stone,\nSpirit Sphere attacks, and bows,\nbut aren't they all rather limited\nin practical use?\nThat's why from now on,\nyou may find this skill necessary.",
+        "pt-BR": "[Kiltin]\nExistem Arremessar Pedra, Esfera Espiritual e arcos,\nmas usá-los não é bastante limitado?\nPor isso, talvez você passe a precisar\ndesta técnica daqui em diante.",
+        "es-ES": "[Kiltin]\nExisten lanzar piedras, Finger Offensive y los arcos,\npero su uso es bastante limitado, ¿no crees?\nPor eso puede que, de ahora en adelante,\nnecesites esta técnica."
     },
     "GKolAw": {
-        "ko": "[킬틴]\n인베넘 스킬과 나이프를\n함께 사용하는 것이지.\n자신의 인베넘 스킬을 나이프에\n주입한 후 그 상대방에게\n던져 꽂히게 한 후 나이프에\n남아있는 인베넘의 독성이",
-        "en": "[Kiltin]\nIt uses the Envenom skill\ntogether with a knife.\nAfter infusing your own\nEnvenom skill into the knife,\nyou throw it into your opponent,\nand the remaining poison of Envenom\nleft in the knife...",
-        "pt": "[Kiltin]\nEla usa a habilidade Envenenar\njunto com uma faca.\nDepois de imbuir a faca com sua habilidade\nEnvenenar, você a arremessa\npara cravá-la no oponente,\ne a toxicidade de Envenenar restante na faca",
-        "es": "[Kiltin]\nConsiste en usar la habilidad\nEnvenenamiento junto con un cuchillo.\nInfundes tu habilidad Envenenamiento\nen un cuchillo, lo lanzas contra el objetivo\npara clavárselo, y luego la toxicidad\nde Envenenamiento que queda en el cuchillo..."
+        "ko-KR": "[킬틴]\n인베넘 스킬과 나이프를\n함께 사용하는 것이지.\n자신의 인베넘 스킬을 나이프에\n주입한 후 그 상대방에게\n던져 꽂히게 한 후 나이프에\n남아있는 인베넘의 독성이",
+        "en-US": "[Kiltin]\nIt uses the Envenom skill\ntogether with a knife.\nAfter infusing your own\nEnvenom skill into the knife,\nyou throw it into your opponent,\nand the remaining poison of Envenom\nleft in the knife...",
+        "pt-BR": "[Kiltin]\nEla usa a habilidade Envenenar\njunto com uma faca.\nDepois de imbuir a faca com sua habilidade\nEnvenenar, você a arremessa\npara cravá-la no oponente,\ne a toxicidade de Envenenar restante na faca",
+        "es-ES": "[Kiltin]\nConsiste en usar la habilidad\nEnvenenamiento junto con un cuchillo.\nInfundes tu habilidad Envenenamiento\nen un cuchillo, lo lanzas contra el objetivo\npara clavárselo, y luego la toxicidad\nde Envenenamiento que queda en el cuchillo..."
     },
     "GaolAw": {
-        "ko": "[킬틴]\n몸속으로 스며들게 하는 기술\n이라고 할 수 있네.\n누군가를 멀리서 독으로\n처리해야할 때 유용할거야.\n크크크크크...",
-        "en": "[Kiltin]\n...seeps into the target's body.\nThat's the kind of technique it is.\nIt'll be useful when you need\nto poison someone from afar.\nKuh kuh kuh kuh kuh...",
-        "pt": "[Kiltin]\npenetra no corpo.\nPode-se dizer que é esse tipo de técnica.\nSerá útil quando precisar eliminar alguém\ncom veneno à distância.\nKekekekeke...",
-        "es": "[Kiltin]\n...penetra en su cuerpo.\nEso es, en pocas palabras.\nSerá útil cuando necesites\neliminar a alguien con veneno\ndesde lejos.\nJe, je, je, je..."
+        "ko-KR": "[킬틴]\n몸속으로 스며들게 하는 기술\n이라고 할 수 있네.\n누군가를 멀리서 독으로\n처리해야할 때 유용할거야.\n크크크크크...",
+        "en-US": "[Kiltin]\n...seeps into the target's body.\nThat's the kind of technique it is.\nIt'll be useful when you need\nto poison someone from afar.\nKuh kuh kuh kuh kuh...",
+        "pt-BR": "[Kiltin]\npenetra no corpo.\nPode-se dizer que é esse tipo de técnica.\nSerá útil quando precisar eliminar alguém\ncom veneno à distância.\nKekekekeke...",
+        "es-ES": "[Kiltin]\n...penetra en su cuerpo.\nEso es, en pocas palabras.\nSerá útil cuando necesites\neliminar a alguien con veneno\ndesde lejos.\nJe, je, je, je..."
     },
     "GqolAw": {
-        "ko": "[킬틴]\n자..그럼 자넨 어떤 스킬을 배우고 싶은가?\n난 '^990099베넘 나이프^000000'만을 가르쳐\n줄 수 있어.\n이 기술은 ^666666나이프에 인베넘을\n^666666주입^000000하는 방법만 알면 되는거니\n지금 바로 알려줄 수 있는데...\n어떤가?.",
-        "en": "[Kiltin]\nNow then... which skill\nwould you like to learn?\nI can only teach\n'^990099Venom Knife^000000'.\nThis skill only requires knowing\nhow to ^666666infuse Envenom\ninto a knife^000000,\nso I can teach it right away...\nWhat do you say?.",
-        "pt": "[Kiltin]\nBem... então, que habilidade deseja aprender?\nSó posso ensinar '^990099Faca Envenenada^000000'.\nPara esta técnica, basta saber\ncomo ^666666imprimir Envenenar\n^666666na faca^000000,\nentão posso ensinar agora mesmo...\nO que acha?",
-        "es": "[Kiltin]\nBien... entonces, ¿qué habilidad quieres aprender?\nYo solo puedo enseñarte\n'^990099Cuchillo venenoso^000000'.\nPara esta técnica solo necesitas saber\ncómo ^666666infundir Envenenamiento en un cuchillo^000000,\nasí que puedo enseñártelo ahora mismo...\n¿Qué dices?"
+        "ko-KR": "[킬틴]\n자..그럼 자넨 어떤 스킬을 배우고 싶은가?\n난 '^990099베넘 나이프^000000'만을 가르쳐\n줄 수 있어.\n이 기술은 ^666666나이프에 인베넘을\n^666666주입^000000하는 방법만 알면 되는거니\n지금 바로 알려줄 수 있는데...\n어떤가?.",
+        "en-US": "[Kiltin]\nNow then... which skill\nwould you like to learn?\nI can only teach\n'^990099Venom Knife^000000'.\nThis skill only requires knowing\nhow to ^666666infuse Envenom\ninto a knife^000000,\nso I can teach it right away...\nWhat do you say?.",
+        "pt-BR": "[Kiltin]\nBem... então, que habilidade deseja aprender?\nSó posso ensinar '^990099Faca Envenenada^000000'.\nPara esta técnica, basta saber\ncomo ^666666imprimir Envenenar\n^666666na faca^000000,\nentão posso ensinar agora mesmo...\nO que acha?",
+        "es-ES": "[Kiltin]\nBien... entonces, ¿qué habilidad quieres aprender?\nYo solo puedo enseñarte\n'^990099Cuchillo venenoso^000000'.\nPara esta técnica solo necesitas saber\ncómo ^666666infundir Envenenamiento en un cuchillo^000000,\nasí que puedo enseñártelo ahora mismo...\n¿Qué dices?"
     },
     "G6olAw": {
-        "ko": "가르침을 받는다.",
-        "en": "Receive instruction.",
-        "pt": "Receber o ensinamento.",
-        "es": "Recibir la enseñanza."
+        "ko-KR": "가르침을 받는다.",
+        "en-US": "Receive instruction.",
+        "pt-BR": "Receber o ensinamento.",
+        "es-ES": "Recibir la enseñanza."
     },
     "HKolAw": {
-        "ko": "지금 배우지 않는다.",
-        "en": "Not now.",
-        "pt": "Não aprender agora.",
-        "es": "No aprender ahora."
+        "ko-KR": "지금 배우지 않는다.",
+        "en-US": "Not now.",
+        "pt-BR": "Não aprender agora.",
+        "es-ES": "No aprender ahora."
     },
     "HaolAw": {
-        "ko": "[킬틴]\n좋았어!\n가르쳐줄테니 잘듣게.\n우선 베넘 나이프 스킬을 사용전에\n독 나이프를 들고 있어야 하네.\n그리고 나서..",
-        "en": "[Kiltin]\nExcellent!\nListen carefully while I teach you.\nFirst, before using the\nVenom Knife skill,\nyou must be holding a Poison Knife.\nThen...",
-        "pt": "[Kiltin]\nÓtimo!\nVou ensinar, então escute bem.\nAntes de usar a habilidade Faca Envenenada,\nvocê precisa estar segurando uma Faca Envenenada.\nDepois disso...",
-        "es": "[Kiltin]\n¡Perfecto!\nTe enseñaré, así que escucha con atención.\nPrimero, antes de usar la habilidad\nCuchillo venenoso,\ndebes llevar un cuchillo venenoso.\nDespués..."
+        "ko-KR": "[킬틴]\n좋았어!\n가르쳐줄테니 잘듣게.\n우선 베넘 나이프 스킬을 사용전에\n독 나이프를 들고 있어야 하네.\n그리고 나서..",
+        "en-US": "[Kiltin]\nExcellent!\nListen carefully while I teach you.\nFirst, before using the\nVenom Knife skill,\nyou must be holding a Poison Knife.\nThen...",
+        "pt-BR": "[Kiltin]\nÓtimo!\nVou ensinar, então escute bem.\nAntes de usar a habilidade Faca Envenenada,\nvocê precisa estar segurando uma Faca Envenenada.\nDepois disso...",
+        "es-ES": "[Kiltin]\n¡Perfecto!\nTe enseñaré, así que escucha con atención.\nPrimero, antes de usar la habilidad\nCuchillo venenoso,\ndebes llevar un cuchillo venenoso.\nDespués..."
     },
     "HqolAw": {
-        "ko": "[킬틴]\n인베넘을 이렇게..이렇게..",
-        "en": "[Kiltin]\nUse Envenom like this... and this...",
-        "pt": "[Kiltin]\nUse Envenenar assim... assim...",
-        "es": "[Kiltin]\nEnvenenamiento se hace así... así..."
+        "ko-KR": "[킬틴]\n인베넘을 이렇게..이렇게..",
+        "en-US": "[Kiltin]\nUse Envenom like this... and this...",
+        "pt-BR": "[Kiltin]\nUse Envenenar assim... assim...",
+        "es-ES": "[Kiltin]\nEnvenenamiento se hace así... así..."
     },
     "H6olAw": {
-        "ko": "[킬틴]\n...그리고 나선 .... 하면 되네.\n이렇게.. 이렇게..\n알겠지?\n한번 해보게.",
-        "en": "[Kiltin]\n...and after that, you just... do this.\nLike this... like this...\nUnderstood?\nGive it a try.",
-        "pt": "[Kiltin]\n...E depois é só... fazer isso.\nAssim... assim...\nEntendeu?\nTente fazer.",
-        "es": "[Kiltin]\n...Y después haces ... y listo.\nAsí... así...\n¿Entendido?\nInténtalo una vez."
+        "ko-KR": "[킬틴]\n...그리고 나선 .... 하면 되네.\n이렇게.. 이렇게..\n알겠지?\n한번 해보게.",
+        "en-US": "[Kiltin]\n...and after that, you just... do this.\nLike this... like this...\nUnderstood?\nGive it a try.",
+        "pt-BR": "[Kiltin]\n...E depois é só... fazer isso.\nAssim... assim...\nEntendeu?\nTente fazer.",
+        "es-ES": "[Kiltin]\n...Y después haces ... y listo.\nAsí... así...\n¿Entendido?\nInténtalo una vez."
     },
     "IKolAw": {
-        "ko": "[킬틴]\n그래!\n그렇게 하는거지.",
-        "en": "[Kiltin]\nThat's right!\nThat's how it's done.",
-        "pt": "[Kiltin]\nIsso!\nÉ assim que se faz.",
-        "es": "[Kiltin]\n¡Eso es!\nAsí se hace."
+        "ko-KR": "[킬틴]\n그래!\n그렇게 하는거지.",
+        "en-US": "[Kiltin]\nThat's right!\nThat's how it's done.",
+        "pt-BR": "[Kiltin]\nIsso!\nÉ assim que se faz.",
+        "es-ES": "[Kiltin]\n¡Eso es!\nAsí se hace."
     },
     "IaolAw": {
-        "ko": "[킬틴]\n잘하는거 같은데...\n백문이불여일견이라고 직접\n배운대로 써보면 확실히\n알 수 있을거야.\n후후후..\n그럼 수고하라고..",
-        "en": "[Kiltin]\nYou seem to be doing well...\nSeeing is believing,\nso if you try using it yourself\nas you were taught,\nyou'll understand clearly.\nHeh heh heh..\nWell then, take care...",
-        "pt": "[Kiltin]\nParece que você está indo bem...\nDizem que ver uma vez vale mais que ouvir cem,\nentão, se usar pessoalmente como aprendeu,\nvai entender com certeza.\nHu hu hu...\nEntão, bom trabalho...",
-        "es": "[Kiltin]\nParece que lo haces bien...\nDicen que una imagen vale más que mil palabras;\nsi lo usas tú mismo tal como lo aprendiste,\nlo entenderás con seguridad.\nJe, je, je...\nEntonces, suerte..."
+        "ko-KR": "[킬틴]\n잘하는거 같은데...\n백문이불여일견이라고 직접\n배운대로 써보면 확실히\n알 수 있을거야.\n후후후..\n그럼 수고하라고..",
+        "en-US": "[Kiltin]\nYou seem to be doing well...\nSeeing is believing,\nso if you try using it yourself\nas you were taught,\nyou'll understand clearly.\nHeh heh heh..\nWell then, take care...",
+        "pt-BR": "[Kiltin]\nParece que você está indo bem...\nDizem que ver uma vez vale mais que ouvir cem,\nentão, se usar pessoalmente como aprendeu,\nvai entender com certeza.\nHu hu hu...\nEntão, bom trabalho...",
+        "es-ES": "[Kiltin]\nParece que lo haces bien...\nDicen que una imagen vale más que mil palabras;\nsi lo usas tú mismo tal como lo aprendiste,\nlo entenderás con seguridad.\nJe, je, je...\nEntonces, suerte..."
     },
     "IqolAw": {
-        "ko": "[킬틴]\n어쌔신 길드의 명예를 위해..",
-        "en": "[Kiltin]\nFor the honor of the Assassin Guild..",
-        "pt": "[Kiltin]\nPela honra da Guilda de Mercenário...",
-        "es": "[Kiltin]\nPor el honor del gremio Asesino..."
+        "ko-KR": "[킬틴]\n어쌔신 길드의 명예를 위해..",
+        "en-US": "[Kiltin]\nFor the honor of the Assassin Guild..",
+        "pt-BR": "[Kiltin]\nPela honra da Guilda de Mercenário...",
+        "es-ES": "[Kiltin]\nPor el honor del gremio Asesino..."
     },
     "I6olAw": {
-        "ko": "[킬틴]\n흐음..그래?\n그럼 더 할 얘기가 남았나?\n^990099베넘 나이프^000000의 설명을 다시\n해줘야쓰겠나?\n가르쳐 줄 때 배우란 말이다.\n앙?",
-        "en": "[Kiltin]\nHmm.. really?\nThen is there something else\nyou wanted to say?\nShould I explain\n^990099Venom Knife^000000 again?\nYou should learn while I'm teaching.\nHuh?",
-        "pt": "[Kiltin]\nHmm... é mesmo?\nEntão ainda tem algo a dizer?\nQuer que eu explique ^990099Faca Envenenada^000000\nde novo?\nAprenda quando estou ensinando.\nHein?",
-        "es": "[Kiltin]\nMmm... ¿Ah, sí?\n¿Entonces queda algo más que decir?\n¿Tengo que volver a explicarte\n^990099Cuchillo venenoso^000000?\nCuando te enseñen, aprende.\n¿Eh?"
+        "ko-KR": "[킬틴]\n흐음..그래?\n그럼 더 할 얘기가 남았나?\n^990099베넘 나이프^000000의 설명을 다시\n해줘야쓰겠나?\n가르쳐 줄 때 배우란 말이다.\n앙?",
+        "en-US": "[Kiltin]\nHmm.. really?\nThen is there something else\nyou wanted to say?\nShould I explain\n^990099Venom Knife^000000 again?\nYou should learn while I'm teaching.\nHuh?",
+        "pt-BR": "[Kiltin]\nHmm... é mesmo?\nEntão ainda tem algo a dizer?\nQuer que eu explique ^990099Faca Envenenada^000000\nde novo?\nAprenda quando estou ensinando.\nHein?",
+        "es-ES": "[Kiltin]\nMmm... ¿Ah, sí?\n¿Entonces queda algo más que decir?\n¿Tengo que volver a explicarte\n^990099Cuchillo venenoso^000000?\nCuando te enseñen, aprende.\n¿Eh?"
     },
     "JKolAw": {
-        "ko": "[킬틴]\n허어...이런 시건방진 녀석.\n길드마스터님의 노력을\n무시하려고?\n어서 배운다고 복창해!",
-        "en": "[Kiltin]\nHmph... what an arrogant brat.\nTrying to disregard\nthe Guild Master's efforts?\nNow repeat after me that you'll learn it!",
-        "pt": "[Kiltin]\nOra... que sujeito insolente.\nEstá tentando ignorar\nos esforços do Mestre da Guilda?\nDiga logo que vai aprender!",
-        "es": "[Kiltin]\nVaya... qué insolente.\n¿Pretendes ignorar\nlos esfuerzos del maestro del gremio?\n¡Di ahora mismo que vas a aprender!"
+        "ko-KR": "[킬틴]\n허어...이런 시건방진 녀석.\n길드마스터님의 노력을\n무시하려고?\n어서 배운다고 복창해!",
+        "en-US": "[Kiltin]\nHmph... what an arrogant brat.\nTrying to disregard\nthe Guild Master's efforts?\nNow repeat after me that you'll learn it!",
+        "pt-BR": "[Kiltin]\nOra... que sujeito insolente.\nEstá tentando ignorar\nos esforços do Mestre da Guilda?\nDiga logo que vai aprender!",
+        "es-ES": "[Kiltin]\nVaya... qué insolente.\n¿Pretendes ignorar\nlos esfuerzos del maestro del gremio?\n¡Di ahora mismo que vas a aprender!"
     },
     "JaolAw": {
-        "ko": "[킬틴]\n음..자넨 전에 본적이 있는거 같은데..\n흐음..그래 확실히 나에게\n^990099베넘 나이프^000000를 배웠었지..\n근데 무슨 일인가..",
-        "en": "[Kiltin]\nHmm.. I think I've seen you before..\nAh yes, that's right.\nI already taught you\n^990099Venom Knife^000000..\nSo what is it now..",
-        "pt": "[Kiltin]\nHmm... acho que já vi você antes...\nHmm... sim, com certeza você\naprendeu ^990099Faca Envenenada^000000 comigo...\nEntão, qual é o problema?",
-        "es": "[Kiltin]\nMmm... creo que ya te he visto antes...\nMmm... sí, está claro que\naprendiste ^990099Cuchillo venenoso^000000 conmigo...\nEntonces, ¿qué ocurre?"
+        "ko-KR": "[킬틴]\n음..자넨 전에 본적이 있는거 같은데..\n흐음..그래 확실히 나에게\n^990099베넘 나이프^000000를 배웠었지..\n근데 무슨 일인가..",
+        "en-US": "[Kiltin]\nHmm.. I think I've seen you before..\nAh yes, that's right.\nI already taught you\n^990099Venom Knife^000000..\nSo what is it now..",
+        "pt-BR": "[Kiltin]\nHmm... acho que já vi você antes...\nHmm... sim, com certeza você\naprendeu ^990099Faca Envenenada^000000 comigo...\nEntão, qual é o problema?",
+        "es-ES": "[Kiltin]\nMmm... creo que ya te he visto antes...\nMmm... sí, está claro que\naprendiste ^990099Cuchillo venenoso^000000 conmigo...\nEntonces, ¿qué ocurre?"
     },
     "JqolAw": {
-        "ko": "[킬틴]\n뭐라고?! 다시 알려달라고?\n저런.. 전에 가르쳐줬던걸\n잊은 모양이군..\n좋아 다시 말해줄테니 잘 듣게",
-        "en": "[Kiltin]\nWhat?! You want me to teach it again?\nMy, my... seems you've forgotten\nwhat I taught you before..\nFine, listen carefully this time.",
-        "pt": "[Kiltin]\nO quê?! Quer que eu ensine de novo?\nOra... parece que esqueceu\no que eu ensinei antes.\nTudo bem, vou explicar de novo, então escute bem.",
-        "es": "[Kiltin]\n¡¿Qué?! ¿Quieres que te lo explique otra vez?\nVaya... parece que olvidaste\nlo que te enseñé antes...\nBien, te lo diré de nuevo, así que escucha."
+        "ko-KR": "[킬틴]\n뭐라고?! 다시 알려달라고?\n저런.. 전에 가르쳐줬던걸\n잊은 모양이군..\n좋아 다시 말해줄테니 잘 듣게",
+        "en-US": "[Kiltin]\nWhat?! You want me to teach it again?\nMy, my... seems you've forgotten\nwhat I taught you before..\nFine, listen carefully this time.",
+        "pt-BR": "[Kiltin]\nO quê?! Quer que eu ensine de novo?\nOra... parece que esqueceu\no que eu ensinei antes.\nTudo bem, vou explicar de novo, então escute bem.",
+        "es-ES": "[Kiltin]\n¡¿Qué?! ¿Quieres que te lo explique otra vez?\nVaya... parece que olvidaste\nlo que te enseñé antes...\nBien, te lo diré de nuevo, así que escucha."
     },
     "J6olAw": {
-        "ko": "[킬틴]\n우선 ^990099베넘 나이프^000000 스킬을 사용전에\n나이프를 들고 있어야 하네.\n그리고 나서..",
-        "en": "[Kiltin]\nFirst, before using\nthe ^990099Venom Knife^000000 skill,\nyou must be holding a knife.\nThen...",
-        "pt": "[Kiltin]\nPrimeiro, antes de usar a habilidade\n^990099Faca Envenenada^000000,\nvocê precisa estar segurando uma faca.\nDepois disso...",
-        "es": "[Kiltin]\nPrimero, antes de usar la habilidad\n^990099Cuchillo venenoso^000000,\ndebes llevar un cuchillo.\nDespués..."
+        "ko-KR": "[킬틴]\n우선 ^990099베넘 나이프^000000 스킬을 사용전에\n나이프를 들고 있어야 하네.\n그리고 나서..",
+        "en-US": "[Kiltin]\nFirst, before using\nthe ^990099Venom Knife^000000 skill,\nyou must be holding a knife.\nThen...",
+        "pt-BR": "[Kiltin]\nPrimeiro, antes de usar a habilidade\n^990099Faca Envenenada^000000,\nvocê precisa estar segurando uma faca.\nDepois disso...",
+        "es-ES": "[Kiltin]\nPrimero, antes de usar la habilidad\n^990099Cuchillo venenoso^000000,\ndebes llevar un cuchillo.\nDespués..."
     },
     "KKolAw": {
-        "ko": "[킬틴]\n인베넘을 이렇게..저렇게..\n그래..\n그렇게 하는거지.\n잘 기억하고 있는거같구만.",
-        "en": "[Kiltin]\nUse Envenom like this... and that...\nRight..\nThat's how it's done.\nLooks like you remember well enough.",
-        "pt": "[Kiltin]\nUse Envenenar assim... e assado...\nIsso...\nÉ assim que se faz.\nParece que você se lembra bem.",
-        "es": "[Kiltin]\nEnvenenamiento se hace así... y así...\nSí...\nAsí se hace.\nParece que lo recuerdas bien."
+        "ko-KR": "[킬틴]\n인베넘을 이렇게..저렇게..\n그래..\n그렇게 하는거지.\n잘 기억하고 있는거같구만.",
+        "en-US": "[Kiltin]\nUse Envenom like this... and that...\nRight..\nThat's how it's done.\nLooks like you remember well enough.",
+        "pt-BR": "[Kiltin]\nUse Envenenar assim... e assado...\nIsso...\nÉ assim que se faz.\nParece que você se lembra bem.",
+        "es-ES": "[Kiltin]\nEnvenenamiento se hace así... y así...\nSí...\nAsí se hace.\nParece que lo recuerdas bien."
     },
     "KaolAw": {
-        "ko": "[킬틴]\n...그리고 나선 ... 하면 되네.\n알겠지?\n한번 해보게.",
-        "en": "[Kiltin]\n...and after that, you just... do this.\nUnderstood?\nTry it once.",
-        "pt": "[Kiltin]\n...E depois é só... fazer isso.\nEntendeu?\nTente fazer.",
-        "es": "[Kiltin]\n...Y después haces ... y listo.\n¿Entendido?\nInténtalo una vez."
+        "ko-KR": "[킬틴]\n...그리고 나선 ... 하면 되네.\n알겠지?\n한번 해보게.",
+        "en-US": "[Kiltin]\n...and after that, you just... do this.\nUnderstood?\nTry it once.",
+        "pt-BR": "[Kiltin]\n...E depois é só... fazer isso.\nEntendeu?\nTente fazer.",
+        "es-ES": "[Kiltin]\n...Y después haces ... y listo.\n¿Entendido?\nInténtalo una vez."
     },
     "KqolAw": {
-        "ko": "[킬틴]\n잘하는군.\n정말로 잊어버린거 맞나?",
-        "en": "[Kiltin]\nWell done.\nAre you sure\nyou really forgot?",
-        "pt": "[Kiltin]\nVocê é bom.\nTem certeza de que esqueceu mesmo?",
-        "es": "[Kiltin]\nLo haces bien.\n¿Seguro que de verdad lo habías olvidado?"
+        "ko-KR": "[킬틴]\n잘하는군.\n정말로 잊어버린거 맞나?",
+        "en-US": "[Kiltin]\nWell done.\nAre you sure\nyou really forgot?",
+        "pt-BR": "[Kiltin]\nVocê é bom.\nTem certeza de que esqueceu mesmo?",
+        "es-ES": "[Kiltin]\nLo haces bien.\n¿Seguro que de verdad lo habías olvidado?"
     },
     "K6olAw": {
-        "ko": "[킬틴]\n이제 내게 볼일이 없을테니\n그만 가보라구.\n나도 바쁘니까말야.",
-        "en": "[Kiltin]\nYou probably have no more business\nwith me now,\nso be on your way.\nI'm busy too, you know.",
-        "pt": "[Kiltin]\nAgora não deve ter mais nada comigo,\nentão vá embora.\nEu também estou ocupado.",
-        "es": "[Kiltin]\nYa no tendrás más asuntos conmigo,\nasí que vete.\nYo también estoy ocupado."
+        "ko-KR": "[킬틴]\n이제 내게 볼일이 없을테니\n그만 가보라구.\n나도 바쁘니까말야.",
+        "en-US": "[Kiltin]\nYou probably have no more business\nwith me now,\nso be on your way.\nI'm busy too, you know.",
+        "pt-BR": "[Kiltin]\nAgora não deve ter mais nada comigo,\nentão vá embora.\nEu também estou ocupado.",
+        "es-ES": "[Kiltin]\nYa no tendrás más asuntos conmigo,\nasí que vete.\nYo también estoy ocupado."
     },
     "LKolAw": {
-        "ko": "[킬틴]\n수고하라고..\n어쌔신 길드의 명예를 위해..",
-        "en": "[Kiltin]\nTake care...\nFor the honor of the Assassin Guild..",
-        "pt": "[Kiltin]\nBom trabalho...\nPela honra da Guilda de Mercenário...",
-        "es": "[Kiltin]\nSuerte...\nPor el honor del gremio Asesino..."
+        "ko-KR": "[킬틴]\n수고하라고..\n어쌔신 길드의 명예를 위해..",
+        "en-US": "[Kiltin]\nTake care...\nFor the honor of the Assassin Guild..",
+        "pt-BR": "[Kiltin]\nBom trabalho...\nPela honra da Guilda de Mercenário...",
+        "es-ES": "[Kiltin]\nSuerte...\nPor el honor del gremio Asesino..."
     },
     "LaolAw": {
-        "ko": "[킬틴]\n이야..신 기술을 모두 숙지했나보군.\n대단한 녀석이야.\n자넨 더욱 강해져겠지.\n앞으로 길드를 위해 더욱\n힘써야겠군.",
-        "en": "[Kiltin]\nWell now... looks like you've mastered\nall the new techniques.\nYou're quite impressive.\nYou'll only grow stronger from here.\nYou should work even harder\nfor the guild in the future.",
-        "pt": "[Kiltin]\nOra... parece que dominou todas as novas técnicas.\nVocê é impressionante.\nDeve ter ficado ainda mais forte.\nDaqui em diante, terá que se esforçar\nainda mais pela guilda.",
-        "es": "[Kiltin]\nVaya... parece que ya dominas\ntodas las nuevas técnicas.\nEres impresionante.\nSeguro que ahora eres aún más fuerte.\nA partir de ahora tendrás que esforzarte\ntodavía más por el gremio."
+        "ko-KR": "[킬틴]\n이야..신 기술을 모두 숙지했나보군.\n대단한 녀석이야.\n자넨 더욱 강해져겠지.\n앞으로 길드를 위해 더욱\n힘써야겠군.",
+        "en-US": "[Kiltin]\nWell now... looks like you've mastered\nall the new techniques.\nYou're quite impressive.\nYou'll only grow stronger from here.\nYou should work even harder\nfor the guild in the future.",
+        "pt-BR": "[Kiltin]\nOra... parece que dominou todas as novas técnicas.\nVocê é impressionante.\nDeve ter ficado ainda mais forte.\nDaqui em diante, terá que se esforçar\nainda mais pela guilda.",
+        "es-ES": "[Kiltin]\nVaya... parece que ya dominas\ntodas las nuevas técnicas.\nEres impresionante.\nSeguro que ahora eres aún más fuerte.\nA partir de ahora tendrás que esforzarte\ntodavía más por el gremio."
     },
     "LqolAw": {
-        "ko": "[킬틴]\n어때 ^990099베넘 나이프^000000는 쓸만해?\n사용할 땐 주의하라구.\n독 나이프가 없인 사용할 수 없을테니까..\n그리고 잘못 던져서 필요없는\n희생양을 만드는 일이 없길 바라네.",
-        "en": "[Kiltin]\nSo, how is ^990099Venom Knife^000000?\nUseful enough?\nBe careful when using it.\nYou can't use it without Poison Knives..\nAnd try not to throw it badly\nand create unnecessary victims.",
-        "pt": "[Kiltin]\nE então, ^990099Faca Envenenada^000000 é útil?\nTenha cuidado ao usar.\nAfinal, não poderá usá-la sem uma Faca Envenenada...\nE espero que não a arremesse errado\ne crie uma vítima desnecessária.",
-        "es": "[Kiltin]\n¿Qué tal? ¿Te resulta útil ^990099Cuchillo venenoso^000000?\nTen cuidado al usarlo.\nNo podrás usarlo sin un cuchillo venenoso...\nY espero que no lo lances mal\ny acabes creando una víctima innecesaria."
+        "ko-KR": "[킬틴]\n어때 ^990099베넘 나이프^000000는 쓸만해?\n사용할 땐 주의하라구.\n독 나이프가 없인 사용할 수 없을테니까..\n그리고 잘못 던져서 필요없는\n희생양을 만드는 일이 없길 바라네.",
+        "en-US": "[Kiltin]\nSo, how is ^990099Venom Knife^000000?\nUseful enough?\nBe careful when using it.\nYou can't use it without Poison Knives..\nAnd try not to throw it badly\nand create unnecessary victims.",
+        "pt-BR": "[Kiltin]\nE então, ^990099Faca Envenenada^000000 é útil?\nTenha cuidado ao usar.\nAfinal, não poderá usá-la sem uma Faca Envenenada...\nE espero que não a arremesse errado\ne crie uma vítima desnecessária.",
+        "es-ES": "[Kiltin]\n¿Qué tal? ¿Te resulta útil ^990099Cuchillo venenoso^000000?\nTen cuidado al usarlo.\nNo podrás usarlo sin un cuchillo venenoso...\nY espero que no lo lances mal\ny acabes creando una víctima innecesaria."
     },
     "L6olAw": {
-        "ko": "[킬틴]\n도둑?..\n이곳엔 무슨 일로 왔느냐?\n이런 곳은 좀더 성장한 후에\n와야하는거야.\n물러가거라.",
-        "en": "[Kiltin]\nA Thief?..\nWhat brings you here?\nA place like this\nis for those who have grown stronger.\nBegone.",
-        "pt": "[Kiltin]\nLadrão...?\nO que veio fazer aqui?\nVocê deve vir a um lugar como este\ndepois de crescer um pouco mais.\nRetire-se.",
-        "es": "[Kiltin]\n¿Ladrón...?\n¿A qué has venido aquí?\nA este lugar se viene\ncuando has crecido un poco más.\nRetírate."
+        "ko-KR": "[킬틴]\n도둑?..\n이곳엔 무슨 일로 왔느냐?\n이런 곳은 좀더 성장한 후에\n와야하는거야.\n물러가거라.",
+        "en-US": "[Kiltin]\nA Thief?..\nWhat brings you here?\nA place like this\nis for those who have grown stronger.\nBegone.",
+        "pt-BR": "[Kiltin]\nLadrão...?\nO que veio fazer aqui?\nVocê deve vir a um lugar como este\ndepois de crescer um pouco mais.\nRetire-se.",
+        "es-ES": "[Kiltin]\n¿Ladrón...?\n¿A qué has venido aquí?\nA este lugar se viene\ncuando has crecido un poco más.\nRetírate."
     },
     "MKolAw": {
-        "ko": "[어쌔신]\n. . . . . . . . .",
-        "en": "[Assassin]\n. . . . . . . . .",
-        "pt": "[Mercenário]\n. . . . . . . . .",
-        "es": "[Asesino]\n. . . . . . . . ."
+        "ko-KR": "[어쌔신]\n. . . . . . . . .",
+        "en-US": "[Assassin]\n. . . . . . . . .",
+        "pt-BR": "[Mercenário]\n. . . . . . . . .",
+        "es-ES": "[Asesino]\n. . . . . . . . ."
     },
     "MaolAw": {
-        "ko": "[어쌔신]\n흐음..우리의 길드원이시군요.\n소식 받구 오신거에요?\n에..?.",
-        "en": "[Assassin]\nHmm.. you're one of our guild members.\nDid you come after receiving the notice?\nEh..?.",
-        "pt": "[Mercenário]\nHmm... você é membro da nossa guilda.\nVeio após receber a notícia?\nHã...?",
-        "es": "[Asesino]\nMmm... usted es miembro de nuestro gremio.\n¿Ha venido al recibir la noticia?\n¿Eh...?"
+        "ko-KR": "[어쌔신]\n흐음..우리의 길드원이시군요.\n소식 받구 오신거에요?\n에..?.",
+        "en-US": "[Assassin]\nHmm.. you're one of our guild members.\nDid you come after receiving the notice?\nEh..?.",
+        "pt-BR": "[Mercenário]\nHmm... você é membro da nossa guilda.\nVeio após receber a notícia?\nHã...?",
+        "es-ES": "[Asesino]\nMmm... usted es miembro de nuestro gremio.\n¿Ha venido al recibir la noticia?\n¿Eh...?"
     },
     "MqolAw": {
-        "ko": "연락?..",
-        "en": "Notice?..",
-        "pt": "Contato...?",
-        "es": "¿Aviso...?"
+        "ko-KR": "연락?..",
+        "en-US": "Notice?..",
+        "pt-BR": "Contato...?",
+        "es-ES": "¿Aviso...?"
     },
     "M6olAw": {
-        "ko": "[어쌔신]\n아아..\n모르시는모양이네요..\n옆에 계신 '킬틴'씨와\n대화해보시면 아실거에요.\n후훗...",
-        "en": "[Assassin]\nAhh..\nSo you didn't know..\nIf you speak with\n'Kiltin' over there,\nyou'll understand.\nHeh heh...",
-        "pt": "[Mercenário]\nAh...\nParece que você não sabe.\nSe conversar com o Sr. 'Kiltin'\nali ao lado, vai entender.\nHu hu...",
-        "es": "[Asesino]\nAh...\nParece que no lo sabe...\nSi habla con el señor 'Kiltin',\nque está al lado,\nlo entenderá.\nJe, je..."
+        "ko-KR": "[어쌔신]\n아아..\n모르시는모양이네요..\n옆에 계신 '킬틴'씨와\n대화해보시면 아실거에요.\n후훗...",
+        "en-US": "[Assassin]\nAhh..\nSo you didn't know..\nIf you speak with\n'Kiltin' over there,\nyou'll understand.\nHeh heh...",
+        "pt-BR": "[Mercenário]\nAh...\nParece que você não sabe.\nSe conversar com o Sr. 'Kiltin'\nali ao lado, vai entender.\nHu hu...",
+        "es-ES": "[Asesino]\nAh...\nParece que no lo sabe...\nSi habla con el señor 'Kiltin',\nque está al lado,\nlo entenderá.\nJe, je..."
     },
     "NKolAw": {
-        "ko": "[이스밀]\n반가워요.\n전 당신과 같은 어쌔신인\n'이스밀' 이라고 해요.\n'킬틴'씨와 함께 길드의\n기술 교육담당일을 하고 있어요.",
-        "en": "[Ismil]\nNice to meet you.\nI'm an Assassin just like you,\ncalled 'Ismil'.\nTogether with 'Kiltin',\nI handle skill training\nfor the guild.",
-        "pt": "[Ismil]\nPrazer em conhecê-lo.\nSou uma Assassin como você,\nchamada 'Ismil'.\nTrabalho com o Sr. 'Kiltin'\ncomo responsável pelo treinamento técnico da guilda.",
-        "es": "[Ismil]\nEncantada.\nSoy 'Ismil',\nuna asesina como tú.\nJunto con el señor 'Kiltin',\nme encargo de la formación técnica\ndel gremio."
+        "ko-KR": "[이스밀]\n반가워요.\n전 당신과 같은 어쌔신인\n'이스밀' 이라고 해요.\n'킬틴'씨와 함께 길드의\n기술 교육담당일을 하고 있어요.",
+        "en-US": "[Ismil]\nNice to meet you.\nI'm an Assassin just like you,\ncalled 'Ismil'.\nTogether with 'Kiltin',\nI handle skill training\nfor the guild.",
+        "pt-BR": "[Ismil]\nPrazer em conhecê-lo.\nSou uma Assassin como você,\nchamada 'Ismil'.\nTrabalho com o Sr. 'Kiltin'\ncomo responsável pelo treinamento técnico da guilda.",
+        "es-ES": "[Ismil]\nEncantada.\nSoy 'Ismil',\nuna asesina como tú.\nJunto con el señor 'Kiltin',\nme encargo de la formación técnica\ndel gremio."
     },
     "NaolAw": {
-        "ko": "[이스밀]\n자~그럼..\n{0}씨?\n기본적인 ^0000FF소닉 엑셀레이션^000000의\n설명은 '킬틴'씨에게\n들으셨을거라 믿어요.",
-        "en": "[Ismil]\nNow then..\n{0}?\nI trust you've already heard\nthe basic explanation of\n^0000FFSonic Acceleration^000000\nfrom 'Kiltin'.",
-        "pt": "[Ismil]\nEntão~\nSr. {0}?\nAcredito que você já ouviu\ndo Sr. 'Kiltin'\na explicação básica sobre\n^0000FFLâminas Aceleradas^000000.",
-        "es": "[Ismil]\nBien, entonces...\n¿señor {0}?\nConfío en que el señor 'Kiltin'\nya te haya dado\nla explicación básica\nde ^0000FFAceleración Sónica^000000."
+        "ko-KR": "[이스밀]\n자~그럼..\n{0}씨?\n기본적인 ^0000FF소닉 엑셀레이션^000000의\n설명은 '킬틴'씨에게\n들으셨을거라 믿어요.",
+        "en-US": "[Ismil]\nNow then..\n{0}?\nI trust you've already heard\nthe basic explanation of\n^0000FFSonic Acceleration^000000\nfrom 'Kiltin'.",
+        "pt-BR": "[Ismil]\nEntão~\nSr. {0}?\nAcredito que você já ouviu\ndo Sr. 'Kiltin'\na explicação básica sobre\n^0000FFLâminas Aceleradas^000000.",
+        "es-ES": "[Ismil]\nBien, entonces...\n¿señor {0}?\nConfío en que el señor 'Kiltin'\nya te haya dado\nla explicación básica\nde ^0000FFAceleración Sónica^000000."
     },
     "NqolAw": {
-        "ko": "[이스밀]\n그래도 다시 설명해달라고 하면..\n전... 얘기해드릴 준비가\n되어있어요..\n어떡하시겠어요?",
-        "en": "[Ismil]\nStill, if you'd like me\nto explain it again..\nI... am prepared\nto tell you about it..\nWhat will you do?",
-        "pt": "[Ismil]\nMas se você pedir para eu explicar de novo...\nEu... estou pronta\npara lhe contar...\nO que vai fazer?",
-        "es": "[Ismil]\nPero si aun así quieres\nque te lo explique otra vez...\nyo... estoy preparada\npara hacerlo...\n¿Qué quieres hacer?"
+        "ko-KR": "[이스밀]\n그래도 다시 설명해달라고 하면..\n전... 얘기해드릴 준비가\n되어있어요..\n어떡하시겠어요?",
+        "en-US": "[Ismil]\nStill, if you'd like me\nto explain it again..\nI... am prepared\nto tell you about it..\nWhat will you do?",
+        "pt-BR": "[Ismil]\nMas se você pedir para eu explicar de novo...\nEu... estou pronta\npara lhe contar...\nO que vai fazer?",
+        "es-ES": "[Ismil]\nPero si aun así quieres\nque te lo explique otra vez...\nyo... estoy preparada\npara hacerlo...\n¿Qué quieres hacer?"
     },
     "N6olAw": {
-        "ko": "다시 설명을..",
-        "en": "Explain it again..",
-        "pt": "Explique de novo...",
-        "es": "Explícamelo otra vez..."
+        "ko-KR": "다시 설명을..",
+        "en-US": "Explain it again..",
+        "pt-BR": "Explique de novo...",
+        "es-ES": "Explícamelo otra vez..."
     },
     "OKolAw": {
-        "ko": "이미 알고 있으니 빨리..",
-        "en": "I already know, so hurry..",
-        "pt": "Já sei, então rápido...",
-        "es": "Ya lo sé, así que rápido..."
+        "ko-KR": "이미 알고 있으니 빨리..",
+        "en-US": "I already know, so hurry..",
+        "pt-BR": "Já sei, então rápido...",
+        "es-ES": "Ya lo sé, así que rápido..."
     },
     "OaolAw": {
-        "ko": "[이스밀]\n그래요....\n다시 설명을 드리자죠..\n^0000FF소닉 엑셀레이션^000000은\n^FF0000소닉 블로우 스킬을 좀 더 강하게 해주는 보조스킬^000000이라고\n할 수 있답니다...",
-        "en": "[Ismil]\nVery well....\nThen let me explain again..\n^0000FFSonic Acceleration^000000\nis a ^FF0000support skill that makes the Sonic Blow skill even stronger^000000...",
-        "pt": "[Ismil]\nEstá bem....\nVou explicar novamente...\n^0000FFLâminas Aceleradas^000000\npode ser considerada\n^FF0000uma habilidade de suporte que fortalece um pouco mais a habilidade Sonic Blow^000000...",
-        "es": "[Ismil]\nDe acuerdo....\nEntonces te lo explicaré de nuevo...\n^0000FFAceleración Sónica^000000\npuede decirse que es\n^FF0000una habilidad de apoyo que potencia la habilidad Sonic Blow^000000..."
+        "ko-KR": "[이스밀]\n그래요....\n다시 설명을 드리자죠..\n^0000FF소닉 엑셀레이션^000000은\n^FF0000소닉 블로우 스킬을 좀 더 강하게 해주는 보조스킬^000000이라고\n할 수 있답니다...",
+        "en-US": "[Ismil]\nVery well....\nThen let me explain again..\n^0000FFSonic Acceleration^000000\nis a ^FF0000support skill that makes the Sonic Blow skill even stronger^000000...",
+        "pt-BR": "[Ismil]\nEstá bem....\nVou explicar novamente...\n^0000FFLâminas Aceleradas^000000\npode ser considerada\n^FF0000uma habilidade de suporte que fortalece um pouco mais a habilidade Sonic Blow^000000...",
+        "es-ES": "[Ismil]\nDe acuerdo....\nEntonces te lo explicaré de nuevo...\n^0000FFAceleración Sónica^000000\npuede decirse que es\n^FF0000una habilidad de apoyo que potencia la habilidad Sonic Blow^000000..."
     },
     "OqolAw": {
-        "ko": "[이스밀]\n기존의 소닉 블로우를 사용\n해보셨다면 아시겠지만..\n적에게 치명타를 내기란\n꽤 어려운 일이죠.\n더구나 빠르게 8연타를 해야한다는 것\n만으로도 적중률이 상당히 낮았어요.",
-        "en": "[Ismil]\nIf you've used Sonic Blow before,\nthen you already know..\nLanding critical hits\non enemies is quite difficult.\nMoreover, having to unleash\n8 rapid hits in succession alone\nmade its accuracy rather low.",
-        "pt": "[Ismil]\nSe já usou o Sonic Blow existente,\nvocê deve saber...\nAcertar um golpe crítico no inimigo\né algo bem difícil.\nAlém disso, só o fato de precisar realizar 8 golpes rapidamente\njá reduzia bastante a precisão.",
-        "es": "[Ismil]\nSi ya has usado Sonic Blow,\nlo sabrás...\nConseguir un golpe crítico\ncontra un enemigo\nes bastante difícil.\nAdemás, solo el hecho de tener que ejecutar\n8 golpes rápidos reducía mucho la precisión."
+        "ko-KR": "[이스밀]\n기존의 소닉 블로우를 사용\n해보셨다면 아시겠지만..\n적에게 치명타를 내기란\n꽤 어려운 일이죠.\n더구나 빠르게 8연타를 해야한다는 것\n만으로도 적중률이 상당히 낮았어요.",
+        "en-US": "[Ismil]\nIf you've used Sonic Blow before,\nthen you already know..\nLanding critical hits\non enemies is quite difficult.\nMoreover, having to unleash\n8 rapid hits in succession alone\nmade its accuracy rather low.",
+        "pt-BR": "[Ismil]\nSe já usou o Sonic Blow existente,\nvocê deve saber...\nAcertar um golpe crítico no inimigo\né algo bem difícil.\nAlém disso, só o fato de precisar realizar 8 golpes rapidamente\njá reduzia bastante a precisão.",
+        "es-ES": "[Ismil]\nSi ya has usado Sonic Blow,\nlo sabrás...\nConseguir un golpe crítico\ncontra un enemigo\nes bastante difícil.\nAdemás, solo el hecho de tener que ejecutar\n8 golpes rápidos reducía mucho la precisión."
     },
     "O6olAw": {
-        "ko": "[이스밀]\n때문에 적중했다 한들 결정 부위를\n가격하지 못하기 때문에 보통은\n큰 데미지도 주지 못하고 말죠.",
-        "en": "[Ismil]\nBecause of that, even if it landed,\nit often failed to strike vital points,\nso it usually couldn't deal\nsignificant damage.",
-        "pt": "[Ismil]\nPor isso, mesmo que acertasse,\nnormalmente não conseguia atingir pontos vitais\ne acabava não causando grande dano.",
-        "es": "[Ismil]\nPor eso, aunque impactara,\nal no golpear una zona decisiva,\nnormalmente no causaba gran daño."
+        "ko-KR": "[이스밀]\n때문에 적중했다 한들 결정 부위를\n가격하지 못하기 때문에 보통은\n큰 데미지도 주지 못하고 말죠.",
+        "en-US": "[Ismil]\nBecause of that, even if it landed,\nit often failed to strike vital points,\nso it usually couldn't deal\nsignificant damage.",
+        "pt-BR": "[Ismil]\nPor isso, mesmo que acertasse,\nnormalmente não conseguia atingir pontos vitais\ne acabava não causando grande dano.",
+        "es-ES": "[Ismil]\nPor eso, aunque impactara,\nal no golpear una zona decisiva,\nnormalmente no causaba gran daño."
     },
     "PKolAw": {
-        "ko": "[이스밀]\n물론 이건 어쌔신마다 다르겠지만\n평균적으로 그렇다는거에요.",
-        "en": "[Ismil]\nOf course, this differs\nfrom Assassin to Assassin,\nbut on average, that's how it is.",
-        "pt": "[Ismil]\nClaro, isso varia de Assassin para Assassin,\nmas em média é assim.",
-        "es": "[Ismil]\nPor supuesto, esto varía según el asesino,\npero hablo en términos generales."
+        "ko-KR": "[이스밀]\n물론 이건 어쌔신마다 다르겠지만\n평균적으로 그렇다는거에요.",
+        "en-US": "[Ismil]\nOf course, this differs\nfrom Assassin to Assassin,\nbut on average, that's how it is.",
+        "pt-BR": "[Ismil]\nClaro, isso varia de Assassin para Assassin,\nmas em média é assim.",
+        "es-ES": "[Ismil]\nPor supuesto, esto varía según el asesino,\npero hablo en términos generales."
     },
     "PaolAw": {
-        "ko": "[이스밀]\n그 단점을 보완해서...이제.\n당신은 소닉 블로우의 새로운\n공격법인 ^0000FF소닉 엑셀레이션^000000을\n배우게 됨으로써 더욱 강하고\n정교해진 소닉 블로우로 상대에게\n치명적인 피해를 입힐 수 있게\n될 거란 얘기죠.",
-        "en": "[Ismil]\nBut now, by overcoming\nthat weakness... and learning\nthe new Sonic Blow technique,\n^0000FFSonic Acceleration^000000,\nyou'll be able to inflict\ndeadly damage upon your enemies\nwith a stronger and more precise\nSonic Blow.",
-        "pt": "[Ismil]\nAo compensar essa fraqueza... agora,\nao aprender ^0000FFLâminas Aceleradas^000000,\num novo método de ataque do Sonic Blow,\nvocê poderá causar dano fatal ao oponente\ncom um Sonic Blow mais forte\ne preciso.",
-        "es": "[Ismil]\nAl compensar esa debilidad... ahora.\nAl aprender ^0000FFAceleración Sónica^000000,\nel nuevo método de ataque de Sonic Blow,\npodrás infligir daño mortal al enemigo\ncon un Sonic Blow más fuerte\ny preciso."
+        "ko-KR": "[이스밀]\n그 단점을 보완해서...이제.\n당신은 소닉 블로우의 새로운\n공격법인 ^0000FF소닉 엑셀레이션^000000을\n배우게 됨으로써 더욱 강하고\n정교해진 소닉 블로우로 상대에게\n치명적인 피해를 입힐 수 있게\n될 거란 얘기죠.",
+        "en-US": "[Ismil]\nBut now, by overcoming\nthat weakness... and learning\nthe new Sonic Blow technique,\n^0000FFSonic Acceleration^000000,\nyou'll be able to inflict\ndeadly damage upon your enemies\nwith a stronger and more precise\nSonic Blow.",
+        "pt-BR": "[Ismil]\nAo compensar essa fraqueza... agora,\nao aprender ^0000FFLâminas Aceleradas^000000,\num novo método de ataque do Sonic Blow,\nvocê poderá causar dano fatal ao oponente\ncom um Sonic Blow mais forte\ne preciso.",
+        "es-ES": "[Ismil]\nAl compensar esa debilidad... ahora.\nAl aprender ^0000FFAceleración Sónica^000000,\nel nuevo método de ataque de Sonic Blow,\npodrás infligir daño mortal al enemigo\ncon un Sonic Blow más fuerte\ny preciso."
     },
     "PqolAw": {
-        "ko": "[이스밀]\n생각만 해도 너무 매력적이에요..\n이런 걸 개발하신 길드 마스터님도\n역시 너무 멋져요..하아..",
-        "en": "[Ismil]\nJust imagining it is so exciting..\nThe Guild Master who developed this\nis truly amazing too.. haa..",
-        "pt": "[Ismil]\nSó de pensar nisso, é tão fascinante...\nO Mestre da Guilda que desenvolveu isso\ntambém é incrível demais... ah...",
-        "es": "[Ismil]\nSolo pensarlo resulta tan atractivo...\nEl maestro del gremio que desarrolló algo así\ntambién es tan maravilloso... ah..."
+        "ko-KR": "[이스밀]\n생각만 해도 너무 매력적이에요..\n이런 걸 개발하신 길드 마스터님도\n역시 너무 멋져요..하아..",
+        "en-US": "[Ismil]\nJust imagining it is so exciting..\nThe Guild Master who developed this\nis truly amazing too.. haa..",
+        "pt-BR": "[Ismil]\nSó de pensar nisso, é tão fascinante...\nO Mestre da Guilda que desenvolveu isso\ntambém é incrível demais... ah...",
+        "es-ES": "[Ismil]\nSolo pensarlo resulta tan atractivo...\nEl maestro del gremio que desarrolló algo así\ntambién es tan maravilloso... ah..."
     },
     "P6olAw": {
-        "ko": "[이스밀]\n아......\n스킬에 대해서 설명해드릴 수\n있는 건 이정도까지에요.\n더 이상은 직접 배워써보시면\n알게 될 거에요.",
-        "en": "[Ismil]\nAh......\nThat's about all\nI can explain regarding the skill.\nYou'll understand the rest\nonce you learn and use it yourself.",
-        "pt": "[Ismil]\nAh......\nÉ até aqui que posso explicar\nsobre a habilidade.\nO restante você entenderá\nquando aprender e usar pessoalmente.",
-        "es": "[Ismil]\nAh......\nEsto es todo lo que puedo explicarte\nsobre la habilidad.\nEl resto lo entenderás\ncuando la aprendas y la uses personalmente."
+        "ko-KR": "[이스밀]\n아......\n스킬에 대해서 설명해드릴 수\n있는 건 이정도까지에요.\n더 이상은 직접 배워써보시면\n알게 될 거에요.",
+        "en-US": "[Ismil]\nAh......\nThat's about all\nI can explain regarding the skill.\nYou'll understand the rest\nonce you learn and use it yourself.",
+        "pt-BR": "[Ismil]\nAh......\nÉ até aqui que posso explicar\nsobre a habilidade.\nO restante você entenderá\nquando aprender e usar pessoalmente.",
+        "es-ES": "[Ismil]\nAh......\nEsto es todo lo que puedo explicarte\nsobre la habilidad.\nEl resto lo entenderás\ncuando la aprendas y la uses personalmente."
     },
     "QKolAw": {
-        "ko": "[이스밀]\n그럼 당신에게 ^0000FF소닉 엑셀레이션^000000의\n수료과정을 진행하겠어요.",
-        "en": "[Ismil]\nThen I shall proceed\nwith your training course\nfor ^0000FFSonic Acceleration^000000.",
-        "pt": "[Ismil]\nEntão iniciarei com você\no processo de conclusão de\n^0000FFLâminas Aceleradas^000000.",
-        "es": "[Ismil]\nEntonces iniciaré contigo\nel proceso de finalización\nde ^0000FFAceleración Sónica^000000."
+        "ko-KR": "[이스밀]\n그럼 당신에게 ^0000FF소닉 엑셀레이션^000000의\n수료과정을 진행하겠어요.",
+        "en-US": "[Ismil]\nThen I shall proceed\nwith your training course\nfor ^0000FFSonic Acceleration^000000.",
+        "pt-BR": "[Ismil]\nEntão iniciarei com você\no processo de conclusão de\n^0000FFLâminas Aceleradas^000000.",
+        "es-ES": "[Ismil]\nEntonces iniciaré contigo\nel proceso de finalización\nde ^0000FFAceleración Sónica^000000."
     },
     "QaolAw": {
-        "ko": "[이스밀]\n교육과정을 진행할 준비가 되었나요?",
-        "en": "[Ismil]\nAre you prepared\nto proceed with the training course?",
-        "pt": "[Ismil]\nEstá pronto para iniciar\no processo de treinamento?",
-        "es": "[Ismil]\n¿Estás preparado para seguir\nel proceso de instrucción?"
+        "ko-KR": "[이스밀]\n교육과정을 진행할 준비가 되었나요?",
+        "en-US": "[Ismil]\nAre you prepared\nto proceed with the training course?",
+        "pt-BR": "[Ismil]\nEstá pronto para iniciar\no processo de treinamento?",
+        "es-ES": "[Ismil]\n¿Estás preparado para seguir\nel proceso de instrucción?"
     },
     "QqolAw": {
-        "ko": "넵!",
-        "en": "Yes!",
-        "pt": "Sim!",
-        "es": "¡Sí!"
+        "ko-KR": "넵!",
+        "en-US": "Yes!",
+        "pt-BR": "Sim!",
+        "es-ES": "¡Sí!"
     },
     "Q6olAw": {
-        "ko": "[이스밀]\n좋아요..\n기술을 배우기위해선 길드에\n무언가 도움이 되는 일을 하나\n해야해요..\n'길드의 이익을 위한 일을 수행한다.'\n라고 하는게 더맞겠네요..",
-        "en": "[Ismil]\nGood..\nIn order to learn this skill,\nyou must perform a task\nthat benefits the guild..\nRather, it would be more accurate to say,\n'Carry out a task\nfor the guild's benefit.'",
-        "pt": "[Ismil]\nÓtimo...\nPara aprender a técnica,\nvocê precisa fazer uma tarefa\nque ajude a guilda...\nSeria mais correto dizer:\n'cumprir uma tarefa em benefício da guilda'.",
-        "es": "[Ismil]\nBien...\nPara aprender la técnica,\ndebes hacer algo\nque beneficie al gremio...\nSería más correcto decir:\n'cumplir una tarea por el bien del gremio'."
+        "ko-KR": "[이스밀]\n좋아요..\n기술을 배우기위해선 길드에\n무언가 도움이 되는 일을 하나\n해야해요..\n'길드의 이익을 위한 일을 수행한다.'\n라고 하는게 더맞겠네요..",
+        "en-US": "[Ismil]\nGood..\nIn order to learn this skill,\nyou must perform a task\nthat benefits the guild..\nRather, it would be more accurate to say,\n'Carry out a task\nfor the guild's benefit.'",
+        "pt-BR": "[Ismil]\nÓtimo...\nPara aprender a técnica,\nvocê precisa fazer uma tarefa\nque ajude a guilda...\nSeria mais correto dizer:\n'cumprir uma tarefa em benefício da guilda'.",
+        "es-ES": "[Ismil]\nBien...\nPara aprender la técnica,\ndebes hacer algo\nque beneficie al gremio...\nSería más correcto decir:\n'cumplir una tarea por el bien del gremio'."
     },
     "RKolAw": {
-        "ko": "[이스밀]\n잠깐.....\n당신은 아직 어쌔신의 주요 기술인\n'소닉 블로우'를 익히지 않았군요!\n소닉 블로우 없이 엑셀레이션을\n배울 순 없죠..",
-        "en": "[Ismil]\nWait.....\nYou still haven't mastered\n'Sonic Blow,'\nthe signature skill of the Assassin!\nYou can't learn Acceleration\nwithout Sonic Blow..",
-        "pt": "[Ismil]\nEspere.....\nVocê ainda não aprendeu\na técnica principal dos Mercenário,\n'Sonic Blow'!\nNão é possível aprender Acceleration\nsem Sonic Blow.",
-        "es": "[Ismil]\nEspera.....\n¡Aún no has aprendido\nla técnica principal de los Asesino,\n'Sonic Blow'!\nNo puedes aprender aceleración\nsin Sonic Blow..."
+        "ko-KR": "[이스밀]\n잠깐.....\n당신은 아직 어쌔신의 주요 기술인\n'소닉 블로우'를 익히지 않았군요!\n소닉 블로우 없이 엑셀레이션을\n배울 순 없죠..",
+        "en-US": "[Ismil]\nWait.....\nYou still haven't mastered\n'Sonic Blow,'\nthe signature skill of the Assassin!\nYou can't learn Acceleration\nwithout Sonic Blow..",
+        "pt-BR": "[Ismil]\nEspere.....\nVocê ainda não aprendeu\na técnica principal dos Mercenário,\n'Sonic Blow'!\nNão é possível aprender Acceleration\nsem Sonic Blow.",
+        "es-ES": "[Ismil]\nEspera.....\n¡Aún no has aprendido\nla técnica principal de los Asesino,\n'Sonic Blow'!\nNo puedes aprender aceleración\nsin Sonic Blow..."
     },
     "RaolAw": {
-        "ko": "[이스밀]\n그것부터 먼저 익히시고 오세요.",
-        "en": "[Ismil]\nGo master that first,\nthen come back.",
-        "pt": "[Ismil]\nAprenda isso primeiro e volte.",
-        "es": "[Ismil]\nApréndelo primero y vuelve."
+        "ko-KR": "[이스밀]\n그것부터 먼저 익히시고 오세요.",
+        "en-US": "[Ismil]\nGo master that first,\nthen come back.",
+        "pt-BR": "[Ismil]\nAprenda isso primeiro e volte.",
+        "es-ES": "[Ismil]\nApréndelo primero y vuelve."
     },
     "RqolAw": {
-        "ko": "[이스밀]\n당신이 할일은.....\n스핑크스에 들어가서\n보물이 될만한 물건을 하나 가져오는거에요.",
-        "en": "[Ismil]\nYour task is.....\nto enter the Sphinx\nand bring back something\nworthy of being called treasure.",
-        "pt": "[Ismil]\nO que você deve fazer é...\nentrar na Esfinge\ne trazer um objeto que possa ser um tesouro.",
-        "es": "[Ismil]\nTu tarea será.....\nentrar en la Esfinge\ny traer un objeto que pueda considerarse un tesoro."
+        "ko-KR": "[이스밀]\n당신이 할일은.....\n스핑크스에 들어가서\n보물이 될만한 물건을 하나 가져오는거에요.",
+        "en-US": "[Ismil]\nYour task is.....\nto enter the Sphinx\nand bring back something\nworthy of being called treasure.",
+        "pt-BR": "[Ismil]\nO que você deve fazer é...\nentrar na Esfinge\ne trazer um objeto que possa ser um tesouro.",
+        "es-ES": "[Ismil]\nTu tarea será.....\nentrar en la Esfinge\ny traer un objeto que pueda considerarse un tesoro."
     },
     "R6olAw": {
-        "ko": "[이스밀]\n스핑크스에는 값어치 높은\n보물들이 많이 잠들어있죠.\n하지만 강한 몬스터들이\n우글 우글 거리는 그곳엔 쉽게 근접할 수 없어요.",
-        "en": "[Ismil]\nMany valuable treasures\nlie dormant within the Sphinx.\nBut with powerful monsters\nswarming all over the place,\nit's not easy to approach.",
-        "pt": "[Ismil]\nNa Esfinge dormem muitos\ntesouros valiosos.\nMas, com monstros fortes\ninfestando aquele lugar,\nnão é fácil se aproximar.",
-        "es": "[Ismil]\nEn la Esfinge duermen\nmuchos tesoros de gran valor.\nPero ese lugar está repleto\nde monstruos poderosos,\nasí que no es fácil acercarse."
+        "ko-KR": "[이스밀]\n스핑크스에는 값어치 높은\n보물들이 많이 잠들어있죠.\n하지만 강한 몬스터들이\n우글 우글 거리는 그곳엔 쉽게 근접할 수 없어요.",
+        "en-US": "[Ismil]\nMany valuable treasures\nlie dormant within the Sphinx.\nBut with powerful monsters\nswarming all over the place,\nit's not easy to approach.",
+        "pt-BR": "[Ismil]\nNa Esfinge dormem muitos\ntesouros valiosos.\nMas, com monstros fortes\ninfestando aquele lugar,\nnão é fácil se aproximar.",
+        "es-ES": "[Ismil]\nEn la Esfinge duermen\nmuchos tesoros de gran valor.\nPero ese lugar está repleto\nde monstruos poderosos,\nasí que no es fácil acercarse."
     },
     "SKolAw": {
-        "ko": "[이스밀]\n딱! 한 번만 설명할 테니 잘 들어요.",
-        "en": "[Ismil]\nI'll explain this only once,\nso listen carefully.",
-        "pt": "[Ismil]\nVou explicar só uma vez, então escute bem.",
-        "es": "[Ismil]\n¡Solo lo explicaré una vez,\nasí que escucha bien!"
+        "ko-KR": "[이스밀]\n딱! 한 번만 설명할 테니 잘 들어요.",
+        "en-US": "[Ismil]\nI'll explain this only once,\nso listen carefully.",
+        "pt-BR": "[Ismil]\nVou explicar só uma vez, então escute bem.",
+        "es-ES": "[Ismil]\n¡Solo lo explicaré una vez,\nasí que escucha bien!"
     },
     "SaolAw": {
-        "ko": "[이스밀]\n자! 아무거라도 좋아요.\n당신은 스핑크스 유적에서\n뭐라도 가져오면 되는거에요.\n<B>관</B>속에 보물이 있을지도 모르죠..",
-        "en": "[Ismil]\nNow! Anything will do.\nYou just need to bring back\nsomething from the Sphinx ruins.\nThere might be treasure\ninside a <B>coffin</B>..",
-        "pt": "[Ismil]\nBem! Qualquer coisa serve.\nVocê só precisa trazer algo\ndas ruínas da Esfinge.\nTalvez haja um tesouro dentro de um <B>caixão</B>...",
-        "es": "[Ismil]\n¡Bien! Cualquier cosa servirá.\nSolo tienes que traer\nalgo de las ruinas de la Esfinge.\nQuizá haya un tesoro dentro de un <B>ataúd</B>..."
+        "ko-KR": "[이스밀]\n자! 아무거라도 좋아요.\n당신은 스핑크스 유적에서\n뭐라도 가져오면 되는거에요.\n<B>관</B>속에 보물이 있을지도 모르죠..",
+        "en-US": "[Ismil]\nNow! Anything will do.\nYou just need to bring back\nsomething from the Sphinx ruins.\nThere might be treasure\ninside a <B>coffin</B>..",
+        "pt-BR": "[Ismil]\nBem! Qualquer coisa serve.\nVocê só precisa trazer algo\ndas ruínas da Esfinge.\nTalvez haja um tesouro dentro de um <B>caixão</B>...",
+        "es-ES": "[Ismil]\n¡Bien! Cualquier cosa servirá.\nSolo tienes que traer\nalgo de las ruinas de la Esfinge.\nQuizá haya un tesoro dentro de un <B>ataúd</B>..."
     },
     "SqolAw": {
-        "ko": "[이스밀]\n자! 아무거라도 좋아요.\n당신은 스핑크스 유적에서\n뭐라도 가져오면 되는거에요.\n<B>석상</B>근처에 보물이 있을지도 모르죠..",
-        "en": "[Ismil]\nNow! Anything will do.\nYou just need to bring back\nsomething from the Sphinx ruins.\nThere might be treasure\nnear a <B>statue</B>..",
-        "pt": "[Ismil]\nBem! Qualquer coisa serve.\nVocê só precisa trazer algo\ndas ruínas da Esfinge.\nTalvez haja um tesouro perto de uma <B>estátua</B>...",
-        "es": "[Ismil]\n¡Bien! Cualquier cosa servirá.\nSolo tienes que traer\nalgo de las ruinas de la Esfinge.\nQuizá haya un tesoro cerca de una <B>estatua</B>..."
+        "ko-KR": "[이스밀]\n자! 아무거라도 좋아요.\n당신은 스핑크스 유적에서\n뭐라도 가져오면 되는거에요.\n<B>석상</B>근처에 보물이 있을지도 모르죠..",
+        "en-US": "[Ismil]\nNow! Anything will do.\nYou just need to bring back\nsomething from the Sphinx ruins.\nThere might be treasure\nnear a <B>statue</B>..",
+        "pt-BR": "[Ismil]\nBem! Qualquer coisa serve.\nVocê só precisa trazer algo\ndas ruínas da Esfinge.\nTalvez haja um tesouro perto de uma <B>estátua</B>...",
+        "es-ES": "[Ismil]\n¡Bien! Cualquier cosa servirá.\nSolo tienes que traer\nalgo de las ruinas de la Esfinge.\nQuizá haya un tesoro cerca de una <B>estatua</B>..."
     },
     "S6olAw": {
-        "ko": "[이스밀]\n자! 아무거라도 좋아요.\n당신은 피라미드 유적에서\n뭐라도 가져오면 되는거에요.\n<B>꼭대기층에 물이 괴어 있는 곳</B>근처에\n보물이 있을지도 모르죠..",
-        "en": "[Ismil]\nNow! Anything will do.\nYou just need to bring back\nsomething from the Pyramid ruins.\nThere might be treasure\nnear <B>a place where water has pooled on the top floor</B>..",
-        "pt": "[Ismil]\nBem! Qualquer coisa serve.\nVocê só precisa trazer algo\ndas ruínas da Pirâmide.\nTalvez haja um tesouro perto do\n<B>lugar onde há água acumulada no andar superior</B>...",
-        "es": "[Ismil]\n¡Bien! Cualquier cosa servirá.\nSolo tienes que traer\nalgo de las ruinas de la Pirámide.\nQuizá haya un tesoro cerca de\n<B>un lugar con agua acumulada en el piso superior</B>..."
+        "ko-KR": "[이스밀]\n자! 아무거라도 좋아요.\n당신은 피라미드 유적에서\n뭐라도 가져오면 되는거에요.\n<B>꼭대기층에 물이 괴어 있는 곳</B>근처에\n보물이 있을지도 모르죠..",
+        "en-US": "[Ismil]\nNow! Anything will do.\nYou just need to bring back\nsomething from the Pyramid ruins.\nThere might be treasure\nnear <B>a place where water has pooled on the top floor</B>..",
+        "pt-BR": "[Ismil]\nBem! Qualquer coisa serve.\nVocê só precisa trazer algo\ndas ruínas da Pirâmide.\nTalvez haja um tesouro perto do\n<B>lugar onde há água acumulada no andar superior</B>...",
+        "es-ES": "[Ismil]\n¡Bien! Cualquier cosa servirá.\nSolo tienes que traer\nalgo de las ruinas de la Pirámide.\nQuizá haya un tesoro cerca de\n<B>un lugar con agua acumulada en el piso superior</B>..."
     },
     "TKolAw": {
-        "ko": "[이스밀]\n당신이 어쌔신으로써 이 일을\n해낼 수 있는지 없는지 지켜보겠어요.\n^0000FF소닉 엑셀레이션^000000을 전수해드릴지\n아닐지는 그 후에 판단하도록 하죠.\n우훗~ 어서 서둘러주세요.",
-        "en": "[Ismil]\nI will see whether or not\nyou can accomplish this task\nas a true Assassin.\nWhether I pass down\n^0000FFSonic Acceleration^000000\nto you or not\nwill be decided afterward.\nHeh heh~ Now hurry along.",
-        "pt": "[Ismil]\nVou observar se você é capaz\nde cumprir esta tarefa como Mercenário.\nDepois disso, decidirei\nse vou transmitir ^0000FFLâminas Aceleradas^000000\nou não.\nUhu~ Apresse-se, por favor.",
-        "es": "[Ismil]\nObservaré si eres capaz\nde cumplir esta tarea como Asesino.\nDespués decidiré\nsi te transmito\n^0000FFAceleración Sónica^000000.\nUfufu~ Date prisa, por favor."
+        "ko-KR": "[이스밀]\n당신이 어쌔신으로써 이 일을\n해낼 수 있는지 없는지 지켜보겠어요.\n^0000FF소닉 엑셀레이션^000000을 전수해드릴지\n아닐지는 그 후에 판단하도록 하죠.\n우훗~ 어서 서둘러주세요.",
+        "en-US": "[Ismil]\nI will see whether or not\nyou can accomplish this task\nas a true Assassin.\nWhether I pass down\n^0000FFSonic Acceleration^000000\nto you or not\nwill be decided afterward.\nHeh heh~ Now hurry along.",
+        "pt-BR": "[Ismil]\nVou observar se você é capaz\nde cumprir esta tarefa como Mercenário.\nDepois disso, decidirei\nse vou transmitir ^0000FFLâminas Aceleradas^000000\nou não.\nUhu~ Apresse-se, por favor.",
+        "es-ES": "[Ismil]\nObservaré si eres capaz\nde cumplir esta tarea como Asesino.\nDespués decidiré\nsi te transmito\n^0000FFAceleración Sónica^000000.\nUfufu~ Date prisa, por favor."
     },
     "TaolAw": {
-        "ko": "[이스밀]\n어때요. 주어진 일은 잘 진행되어가나요?\n난 다시 설명하기도 오래 기다리고 싶지도 않아요. 어서 행동하세요.",
-        "en": "[Ismil]\nWell? Is your task progressing smoothly?\nI don't want to explain things again\nor wait around forever. Hurry up and act.",
-        "pt": "[Ismil]\nE então? A tarefa dada está progredindo bem?\nNão quero explicar de novo nem esperar por muito tempo. Aja logo.",
-        "es": "[Ismil]\n¿Qué tal? ¿Avanza bien la tarea encomendada?\nNo quiero volver a explicarla ni esperar mucho. Actúa cuanto antes."
+        "ko-KR": "[이스밀]\n어때요. 주어진 일은 잘 진행되어가나요?\n난 다시 설명하기도 오래 기다리고 싶지도 않아요. 어서 행동하세요.",
+        "en-US": "[Ismil]\nWell? Is your task progressing smoothly?\nI don't want to explain things again\nor wait around forever. Hurry up and act.",
+        "pt-BR": "[Ismil]\nE então? A tarefa dada está progredindo bem?\nNão quero explicar de novo nem esperar por muito tempo. Aja logo.",
+        "es-ES": "[Ismil]\n¿Qué tal? ¿Avanza bien la tarea encomendada?\nNo quiero volver a explicarla ni esperar mucho. Actúa cuanto antes."
     },
     "TqolAw": {
-        "ko": "[이스밀]\n어때요. 주어진 일은 잘 진행되어가나요?",
-        "en": "[Ismil]\nWell? How is your assigned task going?",
-        "pt": "[Ismil]\nE então? A tarefa dada está progredindo bem?",
-        "es": "[Ismil]\n¿Qué tal? ¿Avanza bien la tarea encomendada?"
+        "ko-KR": "[이스밀]\n어때요. 주어진 일은 잘 진행되어가나요?",
+        "en-US": "[Ismil]\nWell? How is your assigned task going?",
+        "pt-BR": "[Ismil]\nE então? A tarefa dada está progredindo bem?",
+        "es-ES": "[Ismil]\n¿Qué tal? ¿Avanza bien la tarea encomendada?"
     },
     "T6olAw": {
-        "ko": "이걸!!",
-        "en": "This!!",
-        "pt": "Isto!!",
-        "es": "¡Esto!"
+        "ko-KR": "이걸!!",
+        "en-US": "This!!",
+        "pt-BR": "Isto!!",
+        "es-ES": "¡Esto!"
     },
     "UKolAw": {
-        "ko": "[이스밀]\n아아...이 반짝거리는건..\n보물인거죠?!!!\n그렇죠?!\n너무 아름다워요..\n아아..",
-        "en": "[Ismil]\nAhh... this sparkling thing..\nIt's treasure, isn't it?!!!\nRight?!\nIt's so beautiful..\nAhh..",
-        "pt": "[Ismil]\nAh... esse brilho...\nÉ um tesouro, não é?!!!\nNão é?!\nÉ tão lindo...\nAh...",
-        "es": "[Ismil]\nAh... esto que brilla...\n¡¡¡es un tesoro, verdad?!!!\n¿Verdad?\nEs tan hermoso...\nAh..."
+        "ko-KR": "[이스밀]\n아아...이 반짝거리는건..\n보물인거죠?!!!\n그렇죠?!\n너무 아름다워요..\n아아..",
+        "en-US": "[Ismil]\nAhh... this sparkling thing..\nIt's treasure, isn't it?!!!\nRight?!\nIt's so beautiful..\nAhh..",
+        "pt-BR": "[Ismil]\nAh... esse brilho...\nÉ um tesouro, não é?!!!\nNão é?!\nÉ tão lindo...\nAh...",
+        "es-ES": "[Ismil]\nAh... esto que brilla...\n¡¡¡es un tesoro, verdad?!!!\n¿Verdad?\nEs tan hermoso...\nAh..."
     },
     "UaolAw": {
-        "ko": "[이스밀]\n좋아요..\n이게 피라미드이던 스핑크스에서\n얻었건 간에 그건 중요치 않아요..\n너무 아름다우니까요..\n그 보물은 당신이 갖도록 하세요.\n키킥..",
-        "en": "[Ismil]\nGood..\nWhether you obtained this\nfrom the Pyramid or the Sphinx\ndoesn't matter..\nIt's simply too beautiful..\nYou may keep that treasure.\nHee hee..",
-        "pt": "[Ismil]\nÓtimo...\nNão importa se você obteve isto\nna Pirâmide ou na Esfinge...\nÉ lindo demais.\nFique com esse tesouro.\nKikik...",
-        "es": "[Ismil]\nBien...\nNo importa si lo obtuviste\nen la Pirámide o en la Esfinge...\nEs demasiado hermoso...\nQuédate tú con ese tesoro.\nKikik..."
+        "ko-KR": "[이스밀]\n좋아요..\n이게 피라미드이던 스핑크스에서\n얻었건 간에 그건 중요치 않아요..\n너무 아름다우니까요..\n그 보물은 당신이 갖도록 하세요.\n키킥..",
+        "en-US": "[Ismil]\nGood..\nWhether you obtained this\nfrom the Pyramid or the Sphinx\ndoesn't matter..\nIt's simply too beautiful..\nYou may keep that treasure.\nHee hee..",
+        "pt-BR": "[Ismil]\nÓtimo...\nNão importa se você obteve isto\nna Pirâmide ou na Esfinge...\nÉ lindo demais.\nFique com esse tesouro.\nKikik...",
+        "es-ES": "[Ismil]\nBien...\nNo importa si lo obtuviste\nen la Pirámide o en la Esfinge...\nEs demasiado hermoso...\nQuédate tú con ese tesoro.\nKikik..."
     },
     "UqolAw": {
-        "ko": "[이스밀]\n호호호..",
-        "en": "[Ismil]\nHo ho ho..",
-        "pt": "[Ismil]\nHohoho...",
-        "es": "[Ismil]\nJo, jo, jo..."
+        "ko-KR": "[이스밀]\n호호호..",
+        "en-US": "[Ismil]\nHo ho ho..",
+        "pt-BR": "[Ismil]\nHohoho...",
+        "es-ES": "[Ismil]\nJo, jo, jo..."
     },
     "U6olAw": {
-        "ko": "[이스밀]\n사실 길드에서 하달된 일 같은건\n없었어요.\n단지 당신의 능력을 보고 싶었을 뿐\n이미 저에게 보여주었으니 보물은\n필요없어요.\n그럼 약속대로 지금 바로\n^0000FF소닉 엑셀레이션^000000을 가르쳐드릴게요.",
-        "en": "[Ismil]\nActually, there was never\nany official order from the guild.\nI simply wanted to see your abilities,\nand now that you've shown them to me,\nthere's no need for the treasure.\nThen, as promised,\nI'll teach you\n^0000FFSonic Acceleration^000000\nright away.",
-        "pt": "[Ismil]\nNa verdade, não havia nenhuma tarefa\nordenada pela guilda.\nEu só queria ver sua capacidade.\nVocê já me mostrou, então não preciso\ndo tesouro.\nEntão, como prometido, ensinarei\n^0000FFLâminas Aceleradas^000000 agora mesmo.",
-        "es": "[Ismil]\nEn realidad, no había ninguna tarea\nordenada por el gremio.\nSolo quería ver tu capacidad,\ny como ya me la has demostrado,\nno necesito el tesoro.\nEntonces, tal como prometí,\nte enseñaré ahora mismo\n^0000FFAceleración Sónica^000000."
+        "ko-KR": "[이스밀]\n사실 길드에서 하달된 일 같은건\n없었어요.\n단지 당신의 능력을 보고 싶었을 뿐\n이미 저에게 보여주었으니 보물은\n필요없어요.\n그럼 약속대로 지금 바로\n^0000FF소닉 엑셀레이션^000000을 가르쳐드릴게요.",
+        "en-US": "[Ismil]\nActually, there was never\nany official order from the guild.\nI simply wanted to see your abilities,\nand now that you've shown them to me,\nthere's no need for the treasure.\nThen, as promised,\nI'll teach you\n^0000FFSonic Acceleration^000000\nright away.",
+        "pt-BR": "[Ismil]\nNa verdade, não havia nenhuma tarefa\nordenada pela guilda.\nEu só queria ver sua capacidade.\nVocê já me mostrou, então não preciso\ndo tesouro.\nEntão, como prometido, ensinarei\n^0000FFLâminas Aceleradas^000000 agora mesmo.",
+        "es-ES": "[Ismil]\nEn realidad, no había ninguna tarea\nordenada por el gremio.\nSolo quería ver tu capacidad,\ny como ya me la has demostrado,\nno necesito el tesoro.\nEntonces, tal como prometí,\nte enseñaré ahora mismo\n^0000FFAceleración Sónica^000000."
     },
     "VKolAw": {
-        "ko": "[이스밀]\n자! 이젠 제가 가르쳐드리는\n방법대로 직접 써보시면\n확실한 사용법을 알 수 있을거에요.\n귀기울여 잘 들으시고 제 시범을\n잘보세요.",
-        "en": "[Ismil]\nNow! If you try using it yourself\naccording to the method I teach you,\nyou'll surely understand\nhow to use it properly.\nListen carefully\nand watch my demonstration closely.",
-        "pt": "[Ismil]\nBem! Agora, se usar pessoalmente\ndo jeito que vou ensinar,\nentenderá com certeza como usar.\nEscute com atenção\ne observe bem minha demonstração.",
-        "es": "[Ismil]\n¡Bien! Ahora, si lo pruebas directamente\nsiguiendo el método que te enseñaré,\nentenderás con seguridad\ncómo usarlo.\nEscucha con atención\ny observa bien mi demostración."
+        "ko-KR": "[이스밀]\n자! 이젠 제가 가르쳐드리는\n방법대로 직접 써보시면\n확실한 사용법을 알 수 있을거에요.\n귀기울여 잘 들으시고 제 시범을\n잘보세요.",
+        "en-US": "[Ismil]\nNow! If you try using it yourself\naccording to the method I teach you,\nyou'll surely understand\nhow to use it properly.\nListen carefully\nand watch my demonstration closely.",
+        "pt-BR": "[Ismil]\nBem! Agora, se usar pessoalmente\ndo jeito que vou ensinar,\nentenderá com certeza como usar.\nEscute com atenção\ne observe bem minha demonstração.",
+        "es-ES": "[Ismil]\n¡Bien! Ahora, si lo pruebas directamente\nsiguiendo el método que te enseñaré,\nentenderás con seguridad\ncómo usarlo.\nEscucha con atención\ny observa bien mi demostración."
     },
     "VaolAw": {
-        "ko": "[이스밀]\n좋아요.\n자 그럼..",
-        "en": "[Ismil]\nGood.\nThen now..",
-        "pt": "[Ismil]\nÓtimo.\nEntão...",
-        "es": "[Ismil]\nBien.\nEntonces..."
+        "ko-KR": "[이스밀]\n좋아요.\n자 그럼..",
+        "en-US": "[Ismil]\nGood.\nThen now..",
+        "pt-BR": "[Ismil]\nÓtimo.\nEntão...",
+        "es-ES": "[Ismil]\nBien.\nEntonces..."
     },
     "VqolAw": {
-        "ko": "[이스밀]\n우선 소닉 블로우를 사용하기전에\n. . . . . . . . . . . . . . .\n. . . . . . .발을 이렇게. . . . .\n. . . . .그리고 요렇게. . . . . . .",
-        "en": "[Ismil]\nFirst, before using Sonic Blow...\n. . . . . . . . . . . . . . .\n. . . . . . your feet like this. . . . .\n. . . . . and then like this. . . . . . .",
-        "pt": "[Ismil]\nPrimeiro, antes de usar Sonic Blow,\n. . . . . . . . . . . . . . .\n. . . . . o pé assim. . . . .\n. . . . . e depois assim. . . . . . .",
-        "es": "[Ismil]\nPrimero, antes de usar Sonic Blow,\n. . . . . . . . . . . . . . .\n. . . . . . . coloca el pie así. . . . .\n. . . . . y luego así. . . . . . ."
+        "ko-KR": "[이스밀]\n우선 소닉 블로우를 사용하기전에\n. . . . . . . . . . . . . . .\n. . . . . . .발을 이렇게. . . . .\n. . . . .그리고 요렇게. . . . . . .",
+        "en-US": "[Ismil]\nFirst, before using Sonic Blow...\n. . . . . . . . . . . . . . .\n. . . . . . your feet like this. . . . .\n. . . . . and then like this. . . . . . .",
+        "pt-BR": "[Ismil]\nPrimeiro, antes de usar Sonic Blow,\n. . . . . . . . . . . . . . .\n. . . . . o pé assim. . . . .\n. . . . . e depois assim. . . . . . .",
+        "es-ES": "[Ismil]\nPrimero, antes de usar Sonic Blow,\n. . . . . . . . . . . . . . .\n. . . . . . . coloca el pie así. . . . .\n. . . . . y luego así. . . . . . ."
     },
     "V6olAw": {
-        "ko": "[이스밀]\n잘 보셨죠?\n그리고 이 부분이 중요해요..\n팔과 손의 위치를!. . . . .\n. . .이렇게 하는거죠... .",
-        "en": "[Ismil]\nYou saw that clearly, right?\nAnd this part is important..\nThe position of your arms and hands!. . . . .\n. . .like this... .",
-        "pt": "[Ismil]\nViu bem?\nE esta parte é importante...\nA posição dos braços e das mãos! . . . . .\n. . . faça assim... .",
-        "es": "[Ismil]\n¿Lo has visto bien?\nY esta parte es importante...\n¡La posición del brazo y la mano!. . . . .\n. . . Se hace así... ."
+        "ko-KR": "[이스밀]\n잘 보셨죠?\n그리고 이 부분이 중요해요..\n팔과 손의 위치를!. . . . .\n. . .이렇게 하는거죠... .",
+        "en-US": "[Ismil]\nYou saw that clearly, right?\nAnd this part is important..\nThe position of your arms and hands!. . . . .\n. . .like this... .",
+        "pt-BR": "[Ismil]\nViu bem?\nE esta parte é importante...\nA posição dos braços e das mãos! . . . . .\n. . . faça assim... .",
+        "es-ES": "[Ismil]\n¿Lo has visto bien?\nY esta parte es importante...\n¡La posición del brazo y la mano!. . . . .\n. . . Se hace así... ."
     },
     "WKolAw": {
-        "ko": "[이스밀]\n해보세요...",
-        "en": "[Ismil]\nTry it...",
-        "pt": "[Ismil]\nTente...",
-        "es": "[Ismil]\nInténtalo..."
+        "ko-KR": "[이스밀]\n해보세요...",
+        "en-US": "[Ismil]\nTry it...",
+        "pt-BR": "[Ismil]\nTente...",
+        "es-ES": "[Ismil]\nInténtalo..."
     },
     "WaolAw": {
-        "ko": "[이스밀]\n다시!",
-        "en": "[Ismil]\nAgain!",
-        "pt": "[Ismil]\nDe novo!",
-        "es": "[Ismil]\n¡Otra vez!"
+        "ko-KR": "[이스밀]\n다시!",
+        "en-US": "[Ismil]\nAgain!",
+        "pt-BR": "[Ismil]\nDe novo!",
+        "es-ES": "[Ismil]\n¡Otra vez!"
     },
     "WqolAw": {
-        "ko": "[이스밀]\n그게 아니에요!\n다시해봐요!",
-        "en": "[Ismil]\nThat's not it!\nTry again!",
-        "pt": "[Ismil]\nNão é isso!\nTente de novo!",
-        "es": "[Ismil]\n¡Así no!\n¡Inténtalo de nuevo!"
+        "ko-KR": "[이스밀]\n그게 아니에요!\n다시해봐요!",
+        "en-US": "[Ismil]\nThat's not it!\nTry again!",
+        "pt-BR": "[Ismil]\nNão é isso!\nTente de novo!",
+        "es-ES": "[Ismil]\n¡Así no!\n¡Inténtalo de nuevo!"
     },
     "W6olAw": {
-        "ko": "[이스밀]\n........",
-        "en": "[Ismil]\n........",
-        "pt": "[Ismil]\n........",
-        "es": "[Ismil]\n........"
+        "ko-KR": "[이스밀]\n........",
+        "en-US": "[Ismil]\n........",
+        "pt-BR": "[Ismil]\n........",
+        "es-ES": "[Ismil]\n........"
     },
     "XKolAw": {
-        "ko": "[이스밀]\n마지막으로 한번 더!",
-        "en": "[Ismil]\nOne last time!",
-        "pt": "[Ismil]\nMais uma vez, por último!",
-        "es": "[Ismil]\n¡Una última vez!"
+        "ko-KR": "[이스밀]\n마지막으로 한번 더!",
+        "en-US": "[Ismil]\nOne last time!",
+        "pt-BR": "[Ismil]\nMais uma vez, por último!",
+        "es-ES": "[Ismil]\n¡Una última vez!"
     },
     "XaolAw": {
-        "ko": "[이스밀]\n좋아요. 그거에요!",
-        "en": "[Ismil]\nGood. That's it!",
-        "pt": "[Ismil]\nÓtimo. É isso!",
-        "es": "[Ismil]\nBien. ¡Eso es!"
+        "ko-KR": "[이스밀]\n좋아요. 그거에요!",
+        "en-US": "[Ismil]\nGood. That's it!",
+        "pt-BR": "[Ismil]\nÓtimo. É isso!",
+        "es-ES": "[Ismil]\nBien. ¡Eso es!"
     },
     "XqolAw": {
-        "ko": "[이스밀]\n확실히 이해되셨죠?\n이제 이론교육과 시범은 끝이에요.\n당신이 진정한 어쌔신이라면\n이정도 만으로 깨우쳤을거에요.",
-        "en": "[Ismil]\nYou understand clearly now, right?\nThat concludes the theory lesson\nand demonstration.\nIf you're a true Assassin,\nyou should have grasped it\nwith just this much.",
-        "pt": "[Ismil]\nVocê entendeu claramente, certo?\nAgora a aula teórica e a demonstração terminaram.\nSe você é um verdadeiro Mercenário,\ndeve ter compreendido só com isso.",
-        "es": "[Ismil]\n¿Lo has entendido claramente?\nLa teoría y la demostración terminan aquí.\nSi eres un verdadero Asesino,\ncon esto debería bastarte\npara comprenderlo."
+        "ko-KR": "[이스밀]\n확실히 이해되셨죠?\n이제 이론교육과 시범은 끝이에요.\n당신이 진정한 어쌔신이라면\n이정도 만으로 깨우쳤을거에요.",
+        "en-US": "[Ismil]\nYou understand clearly now, right?\nThat concludes the theory lesson\nand demonstration.\nIf you're a true Assassin,\nyou should have grasped it\nwith just this much.",
+        "pt-BR": "[Ismil]\nVocê entendeu claramente, certo?\nAgora a aula teórica e a demonstração terminaram.\nSe você é um verdadeiro Mercenário,\ndeve ter compreendido só com isso.",
+        "es-ES": "[Ismil]\n¿Lo has entendido claramente?\nLa teoría y la demostración terminan aquí.\nSi eres un verdadero Asesino,\ncon esto debería bastarte\npara comprenderlo."
     },
     "X6olAw": {
-        "ko": "[이스밀]\n나가셔서 직접 사용을 해보는게\n더 확실한 실전 교육이 될거란말이죠.\n후훗.. 그럼 전 다음 어쌔신분을 위한\n준비를 해야해서~ 이만 실례할게요.",
-        "en": "[Ismil]\nGoing out and trying it yourself\nwill be much better practical training.\nHeh heh.. Then I must prepare\nfor the next Assassin trainee~\nPlease excuse me.",
-        "pt": "[Ismil]\nSair e usar pessoalmente\nserá um treinamento prático mais claro.\nHu hu... Então, preciso me preparar\npara o próximo Assassin~\nCom licença.",
-        "es": "[Ismil]\nSalir y usarlo personalmente\nserá una formación práctica\nmucho más segura.\nJe, je... entonces debo prepararme\npara el siguiente asesino,\nasí que me retiro."
+        "ko-KR": "[이스밀]\n나가셔서 직접 사용을 해보는게\n더 확실한 실전 교육이 될거란말이죠.\n후훗.. 그럼 전 다음 어쌔신분을 위한\n준비를 해야해서~ 이만 실례할게요.",
+        "en-US": "[Ismil]\nGoing out and trying it yourself\nwill be much better practical training.\nHeh heh.. Then I must prepare\nfor the next Assassin trainee~\nPlease excuse me.",
+        "pt-BR": "[Ismil]\nSair e usar pessoalmente\nserá um treinamento prático mais claro.\nHu hu... Então, preciso me preparar\npara o próximo Assassin~\nCom licença.",
+        "es-ES": "[Ismil]\nSalir y usarlo personalmente\nserá una formación práctica\nmucho más segura.\nJe, je... entonces debo prepararme\npara el siguiente asesino,\nasí que me retiro."
     },
     "YKolAw": {
-        "ko": "[이스밀]\n흐음..",
-        "en": "[Ismil]\nHmm..",
-        "pt": "[Ismil]\nHmm...",
-        "es": "[Ismil]\nMmm..."
+        "ko-KR": "[이스밀]\n흐음..",
+        "en-US": "[Ismil]\nHmm..",
+        "pt-BR": "[Ismil]\nHmm...",
+        "es-ES": "[Ismil]\nMmm..."
     },
     "YaolAw": {
-        "ko": "[이스밀]\n교육에 집중해주세요!!\n또 중간에 말 끊으면\n나 삐쳐~",
-        "en": "[Ismil]\nPlease focus on the training!!\nIf you interrupt me again,\nI'll get upset~",
-        "pt": "[Ismil]\nConcentre-se no treinamento!!\nSe interromper minha fala de novo\nno meio, vou ficar chateada~",
-        "es": "[Ismil]\n¡¡Concéntrate en la instrucción!!\nSi vuelves a interrumpirme\na mitad de explicación,\nme voy a enfadar~"
+        "ko-KR": "[이스밀]\n교육에 집중해주세요!!\n또 중간에 말 끊으면\n나 삐쳐~",
+        "en-US": "[Ismil]\nPlease focus on the training!!\nIf you interrupt me again,\nI'll get upset~",
+        "pt-BR": "[Ismil]\nConcentre-se no treinamento!!\nSe interromper minha fala de novo\nno meio, vou ficar chateada~",
+        "es-ES": "[Ismil]\n¡¡Concéntrate en la instrucción!!\nSi vuelves a interrumpirme\na mitad de explicación,\nme voy a enfadar~"
     },
     "YqolAw": {
-        "ko": "[이스밀]\n자! 이젠 제가 가르쳐드리는\n방법대로 직접 써보시면\n확실한 사용법을 알 수 있을거에요.\n귀기울여 잘 들으시고 제 시범을\n보세요.",
-        "en": "[Ismil]\nNow! If you try using it yourself\naccording to the method I teach you,\nyou'll surely understand\nhow to use it properly.\nListen carefully\nand watch my demonstration.",
-        "pt": "[Ismil]\nBem! Agora, se usar pessoalmente\ndo jeito que vou ensinar,\nentenderá com certeza como usar.\nEscute com atenção\ne observe minha demonstração.",
-        "es": "[Ismil]\n¡Bien! Ahora, si lo pruebas directamente\nsiguiendo el método que te enseñaré,\nentenderás con seguridad\ncómo usarlo.\nEscucha con atención\ny observa mi demostración."
+        "ko-KR": "[이스밀]\n자! 이젠 제가 가르쳐드리는\n방법대로 직접 써보시면\n확실한 사용법을 알 수 있을거에요.\n귀기울여 잘 들으시고 제 시범을\n보세요.",
+        "en-US": "[Ismil]\nNow! If you try using it yourself\naccording to the method I teach you,\nyou'll surely understand\nhow to use it properly.\nListen carefully\nand watch my demonstration.",
+        "pt-BR": "[Ismil]\nBem! Agora, se usar pessoalmente\ndo jeito que vou ensinar,\nentenderá com certeza como usar.\nEscute com atenção\ne observe minha demonstração.",
+        "es-ES": "[Ismil]\n¡Bien! Ahora, si lo pruebas directamente\nsiguiendo el método que te enseñaré,\nentenderás con seguridad\ncómo usarlo.\nEscucha con atención\ny observa mi demostración."
     },
     "Y6olAw": {
-        "ko": "[이스밀]\n우선 소닉 블로우를 사용하기전에\n. . . . . . . . . . . . . . . . .\n. . . . . . .발을 이렇게. . . . .\n. . . . . .그리고 요렇게. . . . . . .",
-        "en": "[Ismil]\nFirst, before using Sonic Blow...\n. . . . . . . . . . . . . . . . .\n. . . . . . your feet like this. . . . .\n. . . . . .and then like this. . . . . . .",
-        "pt": "[Ismil]\nPrimeiro, antes de usar Sonic Blow,\n. . . . . . . . . . . . . . . . .\n. . . . . . o pé assim. . . . .\n. . . . . . e depois assim. . . . . . .",
-        "es": "[Ismil]\nPrimero, antes de usar Sonic Blow,\n. . . . . . . . . . . . . . . . .\n. . . . . . . coloca el pie así. . . . .\n. . . . . . y luego así. . . . . . ."
+        "ko-KR": "[이스밀]\n우선 소닉 블로우를 사용하기전에\n. . . . . . . . . . . . . . . . .\n. . . . . . .발을 이렇게. . . . .\n. . . . . .그리고 요렇게. . . . . . .",
+        "en-US": "[Ismil]\nFirst, before using Sonic Blow...\n. . . . . . . . . . . . . . . . .\n. . . . . . your feet like this. . . . .\n. . . . . .and then like this. . . . . . .",
+        "pt-BR": "[Ismil]\nPrimeiro, antes de usar Sonic Blow,\n. . . . . . . . . . . . . . . . .\n. . . . . . o pé assim. . . . .\n. . . . . . e depois assim. . . . . . .",
+        "es-ES": "[Ismil]\nPrimero, antes de usar Sonic Blow,\n. . . . . . . . . . . . . . . . .\n. . . . . . . coloca el pie así. . . . .\n. . . . . . y luego así. . . . . . ."
     },
     "ZKolAw": {
-        "ko": "[이스밀]\n오랜만이군요?...\n근데 좀 모습이 변했군요..\n저에게 무슨 볼일이 있나요?",
-        "en": "[Ismil]\nIt's been a while, hasn't it?...\nBut you've changed a bit..\nWhat business do you have with me?",
-        "pt": "[Ismil]\nHá quanto tempo...\nMas sua aparência mudou um pouco...\nTem algum assunto comigo?",
-        "es": "[Ismil]\nCuánto tiempo, ¿no?...\nPero tu aspecto ha cambiado un poco...\n¿Tienes algún asunto conmigo?"
+        "ko-KR": "[이스밀]\n오랜만이군요?...\n근데 좀 모습이 변했군요..\n저에게 무슨 볼일이 있나요?",
+        "en-US": "[Ismil]\nIt's been a while, hasn't it?...\nBut you've changed a bit..\nWhat business do you have with me?",
+        "pt-BR": "[Ismil]\nHá quanto tempo...\nMas sua aparência mudou um pouco...\nTem algum assunto comigo?",
+        "es-ES": "[Ismil]\nCuánto tiempo, ¿no?...\nPero tu aspecto ha cambiado un poco...\n¿Tienes algún asunto conmigo?"
     },
     "ZaolAw": {
-        "ko": "[이스밀]\n아...\n^0000FF소닉 엑셀레이션^000000의 재교육을\n. . . . . . . . . . . . . .\n좋아요.\n뭐 그럴수도 있죠.",
-        "en": "[Ismil]\nAh...\nRetraining for\n^0000FFSonic Acceleration^000000...\n. . . . . . . . . . . . . .\nVery well.\nI suppose that can happen.",
-        "pt": "[Ismil]\nAh...\nRetreinamento de ^0000FFLâminas Aceleradas^000000\n. . . . . . . . . . . . . .\nEstá bem.\nIsso pode acontecer.",
-        "es": "[Ismil]\nAh...\nReentrenamiento de ^0000FFAceleración Sónica^000000\n. . . . . . . . . . . . . .\nBien.\nBueno, puede pasar."
+        "ko-KR": "[이스밀]\n아...\n^0000FF소닉 엑셀레이션^000000의 재교육을\n. . . . . . . . . . . . . .\n좋아요.\n뭐 그럴수도 있죠.",
+        "en-US": "[Ismil]\nAh...\nRetraining for\n^0000FFSonic Acceleration^000000...\n. . . . . . . . . . . . . .\nVery well.\nI suppose that can happen.",
+        "pt-BR": "[Ismil]\nAh...\nRetreinamento de ^0000FFLâminas Aceleradas^000000\n. . . . . . . . . . . . . .\nEstá bem.\nIsso pode acontecer.",
+        "es-ES": "[Ismil]\nAh...\nReentrenamiento de ^0000FFAceleración Sónica^000000\n. . . . . . . . . . . . . .\nBien.\nBueno, puede pasar."
     },
     "ZqolAw": {
-        "ko": "[이스밀]\n근데....!! 잠깐.....\n당신은 아직 어쌔신의 주요 기술인\n'소닉 블로우'를 익히지 않았군요!\n소닉 블로우 없이 엑셀레이션을\n배울 순 없죠..",
-        "en": "[Ismil]\nBut....!! Wait.....\nYou still haven't mastered\n'Sonic Blow,'\nthe signature skill of the Assassin!\nYou can't learn Acceleration\nwithout Sonic Blow..",
-        "pt": "[Ismil]\nMas...!! Espere.....\nVocê ainda não aprendeu\na técnica principal dos Mercenário,\n'Sonic Blow'!\nNão é possível aprender Acceleration\nsem Sonic Blow.",
-        "es": "[Ismil]\nPero... ¡¡Espera un momento!!\n¡Aún no has aprendido\nla técnica principal de los Asesino,\n'Sonic Blow'!\nNo puedes aprender aceleración\nsin Sonic Blow..."
+        "ko-KR": "[이스밀]\n근데....!! 잠깐.....\n당신은 아직 어쌔신의 주요 기술인\n'소닉 블로우'를 익히지 않았군요!\n소닉 블로우 없이 엑셀레이션을\n배울 순 없죠..",
+        "en-US": "[Ismil]\nBut....!! Wait.....\nYou still haven't mastered\n'Sonic Blow,'\nthe signature skill of the Assassin!\nYou can't learn Acceleration\nwithout Sonic Blow..",
+        "pt-BR": "[Ismil]\nMas...!! Espere.....\nVocê ainda não aprendeu\na técnica principal dos Mercenário,\n'Sonic Blow'!\nNão é possível aprender Acceleration\nsem Sonic Blow.",
+        "es-ES": "[Ismil]\nPero... ¡¡Espera un momento!!\n¡Aún no has aprendido\nla técnica principal de los Asesino,\n'Sonic Blow'!\nNo puedes aprender aceleración\nsin Sonic Blow..."
     },
     "Z6olAw": {
-        "ko": "[이스밀]\n우선 소닉 블로우를 사용하기전에\n. . . . . . . . . . . . . . . . . .\n. . . . . . . .발을 이렇게. . . . . .\n. . . . . .그리고 요렇게. . . . . . . .",
-        "en": "[Ismil]\nFirst, before using Sonic Blow...\n. . . . . . . . . . . . . . . . . .\n. . . . . . . .your feet like this. . . . . .\n. . . . . .and then like this. . . . . . . .",
-        "pt": "[Ismil]\nPrimeiro, antes de usar Sonic Blow,\n. . . . . . . . . . . . . . . . . .\n. . . . . . . o pé assim. . . . . .\n. . . . . . e depois assim. . . . . . . .",
-        "es": "[Ismil]\nPrimero, antes de usar Sonic Blow,\n. . . . . . . . . . . . . . . . . .\n. . . . . . . . coloca el pie así. . . . . .\n. . . . . . y luego así. . . . . . . ."
+        "ko-KR": "[이스밀]\n우선 소닉 블로우를 사용하기전에\n. . . . . . . . . . . . . . . . . .\n. . . . . . . .발을 이렇게. . . . . .\n. . . . . .그리고 요렇게. . . . . . . .",
+        "en-US": "[Ismil]\nFirst, before using Sonic Blow...\n. . . . . . . . . . . . . . . . . .\n. . . . . . . .your feet like this. . . . . .\n. . . . . .and then like this. . . . . . . .",
+        "pt-BR": "[Ismil]\nPrimeiro, antes de usar Sonic Blow,\n. . . . . . . . . . . . . . . . . .\n. . . . . . . o pé assim. . . . . .\n. . . . . . e depois assim. . . . . . . .",
+        "es-ES": "[Ismil]\nPrimero, antes de usar Sonic Blow,\n. . . . . . . . . . . . . . . . . .\n. . . . . . . . coloca el pie así. . . . . .\n. . . . . . y luego así. . . . . . . ."
     },
     "aKolAw": {
-        "ko": "[이스밀]\n잘 보셨죠?\n그리고 이 부분이 중요해요.\n팔과 손의 위치를!. . . . .\n. . .이렇게 하는거죠... .",
-        "en": "[Ismil]\nYou saw that clearly, right?\nAnd this part is important.\nThe position of your arms and hands!. . . . .\n. . .like this... .",
-        "pt": "[Ismil]\nViu bem?\nE esta parte é importante.\nA posição dos braços e das mãos! . . . . .\n. . . faça assim... .",
-        "es": "[Ismil]\n¿Lo has visto bien?\nY esta parte es importante.\n¡La posición del brazo y la mano!. . . . .\n. . . Se hace así... ."
+        "ko-KR": "[이스밀]\n잘 보셨죠?\n그리고 이 부분이 중요해요.\n팔과 손의 위치를!. . . . .\n. . .이렇게 하는거죠... .",
+        "en-US": "[Ismil]\nYou saw that clearly, right?\nAnd this part is important.\nThe position of your arms and hands!. . . . .\n. . .like this... .",
+        "pt-BR": "[Ismil]\nViu bem?\nE esta parte é importante.\nA posição dos braços e das mãos! . . . . .\n. . . faça assim... .",
+        "es-ES": "[Ismil]\n¿Lo has visto bien?\nY esta parte es importante.\n¡La posición del brazo y la mano!. . . . .\n. . . Se hace así... ."
     },
     "aaolAw": {
-        "ko": "[이스밀]\n확실히 이해되셨죠?\n이제 이론교육과 시범은 끝이에요.\n당신이 진정한 어쌔신이라면\n이정도 만으로 깨우쳤을거에요.\n그럼 다신 잊어먹지마세요.\n두번은 용서안할꺼에요..",
-        "en": "[Ismil]\nYou understand clearly now, right?\nThat concludes the theory lesson\nand demonstration.\nIf you're a true Assassin,\nyou should have grasped it\nwith just this much.\nAnd don't forget it again.\nI won't forgive you twice..",
-        "pt": "[Ismil]\nVocê entendeu claramente, certo?\nAgora a aula teórica e a demonstração terminaram.\nSe você é um verdadeiro Mercenário,\ndeve ter compreendido só com isso.\nEntão não esqueça de novo.\nNão vou perdoar uma segunda vez...",
-        "es": "[Ismil]\n¿Lo has entendido claramente?\nLa teoría y la demostración terminan aquí.\nSi eres un verdadero Asesino,\ncon esto debería bastarte\npara comprenderlo.\nEntonces no vuelvas a olvidarlo.\nNo te perdonaré una segunda vez..."
+        "ko-KR": "[이스밀]\n확실히 이해되셨죠?\n이제 이론교육과 시범은 끝이에요.\n당신이 진정한 어쌔신이라면\n이정도 만으로 깨우쳤을거에요.\n그럼 다신 잊어먹지마세요.\n두번은 용서안할꺼에요..",
+        "en-US": "[Ismil]\nYou understand clearly now, right?\nThat concludes the theory lesson\nand demonstration.\nIf you're a true Assassin,\nyou should have grasped it\nwith just this much.\nAnd don't forget it again.\nI won't forgive you twice..",
+        "pt-BR": "[Ismil]\nVocê entendeu claramente, certo?\nAgora a aula teórica e a demonstração terminaram.\nSe você é um verdadeiro Mercenário,\ndeve ter compreendido só com isso.\nEntão não esqueça de novo.\nNão vou perdoar uma segunda vez...",
+        "es-ES": "[Ismil]\n¿Lo has entendido claramente?\nLa teoría y la demostración terminan aquí.\nSi eres un verdadero Asesino,\ncon esto debería bastarte\npara comprenderlo.\nEntonces no vuelvas a olvidarlo.\nNo te perdonaré una segunda vez..."
     },
     "aqolAw": {
-        "ko": "[이스밀]\n흥!!!",
-        "en": "[Ismil]\nHmph!!!",
-        "pt": "[Ismil]\nHmph!!!",
-        "es": "[Ismil]\n¡¡¡Hmph!!!"
+        "ko-KR": "[이스밀]\n흥!!!",
+        "en-US": "[Ismil]\nHmph!!!",
+        "pt-BR": "[Ismil]\nHmph!!!",
+        "es-ES": "[Ismil]\n¡¡¡Hmph!!!"
     },
     "a6olAw": {
-        "ko": "[이스밀]\n^0000FF소닉 엑셀레이션^000000...\n사용해보셨어요?\n저와 함께한 시간이 헛되지 않게..",
-        "en": "[Ismil]\n^0000FFSonic Acceleration^000000...\nHave you tried using it?\nMake sure the time we spent together\nwasn't wasted..",
-        "pt": "[Ismil]\n^0000FFLâminas Aceleradas^000000...\nVocê já usou?\nPara que o tempo que passou comigo não tenha sido em vão...",
-        "es": "[Ismil]\n^0000FFAceleración Sónica^000000...\n¿Ya la has probado?\nQue el tiempo que pasaste conmigo\nno haya sido en vano..."
+        "ko-KR": "[이스밀]\n^0000FF소닉 엑셀레이션^000000...\n사용해보셨어요?\n저와 함께한 시간이 헛되지 않게..",
+        "en-US": "[Ismil]\n^0000FFSonic Acceleration^000000...\nHave you tried using it?\nMake sure the time we spent together\nwasn't wasted..",
+        "pt-BR": "[Ismil]\n^0000FFLâminas Aceleradas^000000...\nVocê já usou?\nPara que o tempo que passou comigo não tenha sido em vão...",
+        "es-ES": "[Ismil]\n^0000FFAceleración Sónica^000000...\n¿Ya la has probado?\nQue el tiempo que pasaste conmigo\nno haya sido en vano..."
     },
     "bKolAw": {
-        "ko": "[어쌔신]\n. . . . . . . . . . .\n흥...",
-        "en": "[Assassin]\n. . . . . . . . . . .\nHmph...",
-        "pt": "[Mercenário]\n. . . . . . . . . . .\nHmph...",
-        "es": "[Asesino]\n. . . . . . . . . . .\nHmph..."
+        "ko-KR": "[어쌔신]\n. . . . . . . . . . .\n흥...",
+        "en-US": "[Assassin]\n. . . . . . . . . . .\nHmph...",
+        "pt-BR": "[Mercenário]\n. . . . . . . . . . .\nHmph...",
+        "es-ES": "[Asesino]\n. . . . . . . . . . .\nHmph..."
     },
     "baolAw": {
-        "ko": "상당히 오래된 듯한 관이 있다.\n관의 뚜껑이 살짝 깨져있고\n그 사이로 빛에 비친 반짝이는\n무언가가 있는거 같다.",
-        "en": "There is what appears to be\na very old coffin.\nThe lid is slightly cracked,\nand through the gap,\nsomething sparkling in the light\ncan be seen.",
-        "pt": "Há um caixão que parece bastante antigo.\nA tampa do caixão está levemente quebrada,\ne pela abertura parece haver algo\nbrilhante refletindo a luz.",
-        "es": "Hay un ataúd que parece bastante antiguo.\nLa tapa del ataúd está ligeramente rota,\ny por la abertura parece haber\nalgo brillante reflejando la luz."
+        "ko-KR": "상당히 오래된 듯한 관이 있다.\n관의 뚜껑이 살짝 깨져있고\n그 사이로 빛에 비친 반짝이는\n무언가가 있는거 같다.",
+        "en-US": "There is what appears to be\na very old coffin.\nThe lid is slightly cracked,\nand through the gap,\nsomething sparkling in the light\ncan be seen.",
+        "pt-BR": "Há um caixão que parece bastante antigo.\nA tampa do caixão está levemente quebrada,\ne pela abertura parece haver algo\nbrilhante refletindo a luz.",
+        "es-ES": "Hay un ataúd que parece bastante antiguo.\nLa tapa del ataúd está ligeramente rota,\ny por la abertura parece haber\nalgo brillante reflejando la luz."
     },
     "bqolAw": {
-        "ko": "당신의 행동은?",
-        "en": "What will you do?",
-        "pt": "Qual será sua ação?",
-        "es": "¿Qué harás?"
+        "ko-KR": "당신의 행동은?",
+        "en-US": "What will you do?",
+        "pt-BR": "Qual será sua ação?",
+        "es-ES": "¿Qué harás?"
     },
     "b6olAw": {
-        "ko": "손을 넣어본다.",
-        "en": "Reach your hand inside.",
-        "pt": "Colocar a mão dentro.",
-        "es": "Meter la mano."
+        "ko-KR": "손을 넣어본다.",
+        "en-US": "Reach your hand inside.",
+        "pt-BR": "Colocar a mão dentro.",
+        "es-ES": "Meter la mano."
     },
     "cKolAw": {
-        "ko": "조금 더 가까이서 확인을..",
-        "en": "Take a closer look.",
-        "pt": "Verificar um pouco mais de perto.",
-        "es": "Mirar un poco más de cerca..."
+        "ko-KR": "조금 더 가까이서 확인을..",
+        "en-US": "Take a closer look.",
+        "pt-BR": "Verificar um pouco mais de perto.",
+        "es-ES": "Mirar un poco más de cerca..."
     },
     "caolAw": {
-        "ko": "뚜껑을 열어서 확인한다.",
-        "en": "Open the lid and check inside.",
-        "pt": "Abrir a tampa e verificar.",
-        "es": "Abrir la tapa para comprobarlo."
+        "ko-KR": "뚜껑을 열어서 확인한다.",
+        "en-US": "Open the lid and check inside.",
+        "pt-BR": "Abrir a tampa e verificar.",
+        "es-ES": "Abrir la tapa para comprobarlo."
     },
     "cqolAw": {
-        "ko": "관을 엎어버린다.",
-        "en": "Tip the coffin over.",
-        "pt": "Virar o caixão.",
-        "es": "Volcar el ataúd."
+        "ko-KR": "관을 엎어버린다.",
+        "en-US": "Tip the coffin over.",
+        "pt-BR": "Virar o caixão.",
+        "es-ES": "Volcar el ataúd."
     },
     "c6olAw": {
-        "ko": "무시한다.",
-        "en": "Ignore it.",
-        "pt": "Ignorar.",
-        "es": "Ignorarlo."
+        "ko-KR": "무시한다.",
+        "en-US": "Ignore it.",
+        "pt-BR": "Ignorar.",
+        "es-ES": "Ignorarlo."
     },
     "dKolAw": {
-        "ko": "당신은 손을 넣었습니다.\n그리곤 팔을 깊숙히 집어 넣어\n반짝이는 물건 가까이 손을\n뻗었습니다.\n. . . . . . . . . .",
-        "en": "You reached your hand inside.\nThen you pushed your arm\ndeep into the coffin\nand stretched your hand\ntoward the sparkling object.\n. . . . . . . . . .",
-        "pt": "Você colocou a mão dentro.\nDepois enfiou o braço profundamente\ne estendeu a mão em direção\nao objeto brilhante.\n. . . . . . . . . .",
-        "es": "Metiste la mano.\nLuego introdujiste el brazo profundamente\ny extendiste la mano\nhacia el objeto brillante.\n. . . . . . . . . ."
+        "ko-KR": "당신은 손을 넣었습니다.\n그리곤 팔을 깊숙히 집어 넣어\n반짝이는 물건 가까이 손을\n뻗었습니다.\n. . . . . . . . . .",
+        "en-US": "You reached your hand inside.\nThen you pushed your arm\ndeep into the coffin\nand stretched your hand\ntoward the sparkling object.\n. . . . . . . . . .",
+        "pt-BR": "Você colocou a mão dentro.\nDepois enfiou o braço profundamente\ne estendeu a mão em direção\nao objeto brilhante.\n. . . . . . . . . .",
+        "es-ES": "Metiste la mano.\nLuego introdujiste el brazo profundamente\ny extendiste la mano\nhacia el objeto brillante.\n. . . . . . . . . ."
     },
     "daolAw": {
-        "ko": ". . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . .",
-        "en": ". . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . .",
-        "pt": ". . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . .",
-        "es": ". . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . ."
+        "ko-KR": ". . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . .",
+        "en-US": ". . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . .",
+        "pt-BR": ". . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . .",
+        "es-ES": ". . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . ."
     },
     "dqolAw": {
-        "ko": "! ! ! ! ! ! ! ! ! !\n무언가가 당신의 손을 물었다!!\n! ! ! ! ! ! ! ! ! !",
-        "en": "! ! ! ! ! ! ! ! ! !\nSomething bit your hand!!\n! ! ! ! ! ! ! ! ! !",
-        "pt": "! ! ! ! ! ! ! ! ! !\nAlgo mordeu sua mão!!\n! ! ! ! ! ! ! ! ! !",
-        "es": "! ! ! ! ! ! ! ! ! !\n¡¡Algo te mordió la mano!!\n! ! ! ! ! ! ! ! ! !"
+        "ko-KR": "! ! ! ! ! ! ! ! ! !\n무언가가 당신의 손을 물었다!!\n! ! ! ! ! ! ! ! ! !",
+        "en-US": "! ! ! ! ! ! ! ! ! !\nSomething bit your hand!!\n! ! ! ! ! ! ! ! ! !",
+        "pt-BR": "! ! ! ! ! ! ! ! ! !\nAlgo mordeu sua mão!!\n! ! ! ! ! ! ! ! ! !",
+        "es-ES": "! ! ! ! ! ! ! ! ! !\n¡¡Algo te mordió la mano!!\n! ! ! ! ! ! ! ! ! !"
     },
     "d6olAw": {
-        "ko": "당신은 관의 깨진 틈사이로\n얼굴을 가까이합니다.",
-        "en": "You move your face closer\nto the cracked gap\nin the coffin.",
-        "pt": "Você aproxima o rosto\nda fresta quebrada do caixão.",
-        "es": "Acercaste el rostro\na la grieta rota del ataúd."
+        "ko-KR": "당신은 관의 깨진 틈사이로\n얼굴을 가까이합니다.",
+        "en-US": "You move your face closer\nto the cracked gap\nin the coffin.",
+        "pt-BR": "Você aproxima o rosto\nda fresta quebrada do caixão.",
+        "es-ES": "Acercaste el rostro\na la grieta rota del ataúd."
     },
     "eKolAw": {
-        "ko": ". . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . .",
-        "en": ". . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . .",
-        "pt": ". . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . .",
-        "es": ". . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . ."
+        "ko-KR": ". . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . .",
+        "en-US": ". . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . .",
+        "pt-BR": ". . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . .",
+        "es-ES": ". . . . . . . . . . . . .\n. . . . . . . . . . . . .\n. . . . . . . . . . . . ."
     },
     "eaolAw": {
-        "ko": "어두운 관 속에서 무언가\n꿈틀거리는게 보입니다.\n그 이상은 어두워서 볼 수 없습니다.",
-        "en": "You can see something\nwriggling inside the dark coffin.\nIt's too dark to see any further.",
-        "pt": "No caixão escuro, você vê algo\nse contorcendo.\nAlém disso, está escuro demais para ver.",
-        "es": "Ves algo que se retuerce\nen el interior oscuro del ataúd.\nNo puedes ver más por la oscuridad."
+        "ko-KR": "어두운 관 속에서 무언가\n꿈틀거리는게 보입니다.\n그 이상은 어두워서 볼 수 없습니다.",
+        "en-US": "You can see something\nwriggling inside the dark coffin.\nIt's too dark to see any further.",
+        "pt-BR": "No caixão escuro, você vê algo\nse contorcendo.\nAlém disso, está escuro demais para ver.",
+        "es-ES": "Ves algo que se retuerce\nen el interior oscuro del ataúd.\nNo puedes ver más por la oscuridad."
     },
     "eqolAw": {
-        "ko": "무거운 관의 뚜겅은 꿈적도\n하지 않습니다.",
-        "en": "The heavy coffin lid\ndoesn't budge at all.",
-        "pt": "A pesada tampa do caixão\nnão se move nem um pouco.",
-        "es": "La pesada tapa del ataúd\nno se mueve ni un poco."
+        "ko-KR": "무거운 관의 뚜겅은 꿈적도\n하지 않습니다.",
+        "en-US": "The heavy coffin lid\ndoesn't budge at all.",
+        "pt-BR": "A pesada tampa do caixão\nnão se move nem um pouco.",
+        "es-ES": "La pesada tapa del ataúd\nno se mueve ni un poco."
     },
     "e6olAw": {
-        "ko": "이 관을 엎어버리기엔\n당신의 힘이 부족합니다.",
-        "en": "You don't have enough strength\nto tip over this coffin.",
-        "pt": "Sua força é insuficiente\npara virar este caixão.",
-        "es": "No tienes fuerza suficiente\npara volcar este ataúd."
+        "ko-KR": "이 관을 엎어버리기엔\n당신의 힘이 부족합니다.",
+        "en-US": "You don't have enough strength\nto tip over this coffin.",
+        "pt-BR": "Sua força é insuficiente\npara virar este caixão.",
+        "es-ES": "No tienes fuerza suficiente\npara volcar este ataúd."
     },
     "fKolAw": {
-        "ko": "^FF0000! ! ! ! ! ! ! ! ! !^000000\n^FF0000무언가가 당신의 손을 물었디!!^000000\n^FF0000! ! ! ! ! ! ! ! ! !^000000",
-        "en": "^FF0000! ! ! ! ! ! ! ! ! !^000000\n^FF0000Something bit your hand!!^000000\n^FF0000! ! ! ! ! ! ! ! ! !^000000",
-        "pt": "^FF0000! ! ! ! ! ! ! ! ! !^000000\n^FF0000Algo mordeu sua mão!!^000000\n^FF0000! ! ! ! ! ! ! ! ! !^000000",
-        "es": "^FF0000! ! ! ! ! ! ! ! ! !^000000\n^FF0000¡¡Algo te mordió la mano!!^000000\n^FF0000! ! ! ! ! ! ! ! ! !^000000"
+        "ko-KR": "^FF0000! ! ! ! ! ! ! ! ! !^000000\n^FF0000무언가가 당신의 손을 물었디!!^000000\n^FF0000! ! ! ! ! ! ! ! ! !^000000",
+        "en-US": "^FF0000! ! ! ! ! ! ! ! ! !^000000\n^FF0000Something bit your hand!!^000000\n^FF0000! ! ! ! ! ! ! ! ! !^000000",
+        "pt-BR": "^FF0000! ! ! ! ! ! ! ! ! !^000000\n^FF0000Algo mordeu sua mão!!^000000\n^FF0000! ! ! ! ! ! ! ! ! !^000000",
+        "es-ES": "^FF0000! ! ! ! ! ! ! ! ! !^000000\n^FF0000¡¡Algo te mordió la mano!!^000000\n^FF0000! ! ! ! ! ! ! ! ! !^000000"
     },
     "faolAw": {
-        "ko": "딱딱한 무언가가 만져집니다.\n당신은 그것을 움켜쥐고\n손을 꺼냈습니다.",
-        "en": "You feel something hard.\nYou grabbed it tightly\nand pulled your hand back out.",
-        "pt": "Você toca em algo duro.\nVocê o agarra\ne retira a mão.",
-        "es": "Tocas algo duro.\nLo agarraste con fuerza\ny sacaste la mano."
+        "ko-KR": "딱딱한 무언가가 만져집니다.\n당신은 그것을 움켜쥐고\n손을 꺼냈습니다.",
+        "en-US": "You feel something hard.\nYou grabbed it tightly\nand pulled your hand back out.",
+        "pt-BR": "Você toca em algo duro.\nVocê o agarra\ne retira a mão.",
+        "es-ES": "Tocas algo duro.\nLo agarraste con fuerza\ny sacaste la mano."
     },
     "fqolAw": {
-        "ko": "꼭 쥐었던 손을 펴보니\n스핑크스의 유물인듯한\n보석이 있습니다.",
-        "en": "When you opened your clenched hand,\nthere was a jewel\nthat appeared to be\na relic of the Sphinx.",
-        "pt": "Ao abrir a mão que estava cerrada,\nhá uma joia que parece ser\numa relíquia da Esfinge.",
-        "es": "Al abrir la mano que mantenías cerrada,\nves una joya que parece\nuna reliquia de la Esfinge."
+        "ko-KR": "꼭 쥐었던 손을 펴보니\n스핑크스의 유물인듯한\n보석이 있습니다.",
+        "en-US": "When you opened your clenched hand,\nthere was a jewel\nthat appeared to be\na relic of the Sphinx.",
+        "pt-BR": "Ao abrir a mão que estava cerrada,\nhá uma joia que parece ser\numa relíquia da Esfinge.",
+        "es-ES": "Al abrir la mano que mantenías cerrada,\nves una joya que parece\nuna reliquia de la Esfinge."
     },
     "f6olAw": {
-        "ko": "어두운 관 속에서 무언가\n꿈틀거리는게 보입니다.\n더 이상은 어두워서 볼 수 없습니다.",
-        "en": "You can see something\nwriggling inside the dark coffin.\nIt's too dark to see any further.",
-        "pt": "No caixão escuro, você vê algo\nse contorcendo.\nAlém disso, está escuro demais para ver.",
-        "es": "Ves algo que se retuerce\nen el interior oscuro del ataúd.\nNo puedes ver más por la oscuridad."
+        "ko-KR": "어두운 관 속에서 무언가\n꿈틀거리는게 보입니다.\n더 이상은 어두워서 볼 수 없습니다.",
+        "en-US": "You can see something\nwriggling inside the dark coffin.\nIt's too dark to see any further.",
+        "pt-BR": "No caixão escuro, você vê algo\nse contorcendo.\nAlém disso, está escuro demais para ver.",
+        "es-ES": "Ves algo que se retuerce\nen el interior oscuro del ataúd.\nNo puedes ver más por la oscuridad."
     },
     "gKolAw": {
-        "ko": "오래된 듯한 석상이 서있다.\n여기저기 금이 가 있는것이\n금방이라도 쓰러져버릴거 같다.\n석상의 발 밑부분에 반짝이는\n물건이 있다.",
-        "en": "There stands what appears\nto be an old statue.\nCracks run all across it,\nmaking it seem as though\nit could collapse at any moment.\nAt the foot of the statue,\nthere is a sparkling object.",
-        "pt": "Há uma estátua que parece antiga.\nEla está rachada por todos os lados\ne parece prestes a desabar\na qualquer momento.\nHá um objeto brilhante\naos pés da estátua.",
-        "es": "Hay una estatua que parece antigua.\nTiene grietas por todas partes\ny parece que podría derrumbarse\nen cualquier momento.\nA los pies de la estatua\nhay un objeto brillante."
+        "ko-KR": "오래된 듯한 석상이 서있다.\n여기저기 금이 가 있는것이\n금방이라도 쓰러져버릴거 같다.\n석상의 발 밑부분에 반짝이는\n물건이 있다.",
+        "en-US": "There stands what appears\nto be an old statue.\nCracks run all across it,\nmaking it seem as though\nit could collapse at any moment.\nAt the foot of the statue,\nthere is a sparkling object.",
+        "pt-BR": "Há uma estátua que parece antiga.\nEla está rachada por todos os lados\ne parece prestes a desabar\na qualquer momento.\nHá um objeto brilhante\naos pés da estátua.",
+        "es-ES": "Hay una estatua que parece antigua.\nTiene grietas por todas partes\ny parece que podría derrumbarse\nen cualquier momento.\nA los pies de la estatua\nhay un objeto brillante."
     },
     "gaolAw": {
-        "ko": "석상의 테두리는 움푹 패어있다.",
-        "en": "The edge around the statue is sunken in.",
-        "pt": "A borda da estátua está afundada.",
-        "es": "El borde de la estatua está hundido."
+        "ko-KR": "석상의 테두리는 움푹 패어있다.",
+        "en-US": "The edge around the statue is sunken in.",
+        "pt-BR": "A borda da estátua está afundada.",
+        "es-ES": "El borde de la estatua está hundido."
     },
     "gqolAw": {
-        "ko": "가까이 다가가 확인한다.",
-        "en": "Move closer and inspect it.",
-        "pt": "Aproximar-se e verificar.",
-        "es": "Acercarse para comprobarlo."
+        "ko-KR": "가까이 다가가 확인한다.",
+        "en-US": "Move closer and inspect it.",
+        "pt-BR": "Aproximar-se e verificar.",
+        "es-ES": "Acercarse para comprobarlo."
     },
     "g6olAw": {
-        "ko": "패인 곳으로 발을 내 딪자\n바닥에서 누런 연기가\n세어나왔다.",
-        "en": "As you stepped into\nthe sunken area,\nyellow smoke\nbegan seeping out from the floor.",
-        "pt": "Ao pisar na área afundada,\numa fumaça amarelada\nvazou do chão.",
-        "es": "Al pisar la zona hundida,\ndel suelo empezó a salir\nun humo amarillento."
+        "ko-KR": "패인 곳으로 발을 내 딪자\n바닥에서 누런 연기가\n세어나왔다.",
+        "en-US": "As you stepped into\nthe sunken area,\nyellow smoke\nbegan seeping out from the floor.",
+        "pt-BR": "Ao pisar na área afundada,\numa fumaça amarelada\nvazou do chão.",
+        "es-ES": "Al pisar la zona hundida,\ndel suelo empezó a salir\nun humo amarillento."
     },
     "hKolAw": {
-        "ko": "당신은",
-        "en": "You",
-        "pt": "Você",
-        "es": "Tú"
+        "ko-KR": "당신은",
+        "en-US": "You",
+        "pt-BR": "Você",
+        "es-ES": "Tú"
     },
     "haolAw": {
-        "ko": "가스에 호흡이 힘들어졌다.\n정신을 잃었다.",
-        "en": "The gas made it difficult to breathe.\nYou lost consciousness.",
-        "pt": "teve dificuldade para respirar por causa do gás.\nPerdeu a consciência.",
-        "es": "El gas dificultó tu respiración.\nPerdiste el conocimiento."
+        "ko-KR": "가스에 호흡이 힘들어졌다.\n정신을 잃었다.",
+        "en-US": "The gas made it difficult to breathe.\nYou lost consciousness.",
+        "pt-BR": "teve dificuldade para respirar por causa do gás.\nPerdeu a consciência.",
+        "es-ES": "El gas dificultó tu respiración.\nPerdiste el conocimiento."
     },
     "hqolAw": {
-        "ko": "호흡을 급히 멈추고\n재빨리 석상의 발 밑부분을\n확인했다.",
-        "en": "You quickly held your breath\nand swiftly checked\nthe base of the statue.",
-        "pt": "Prendeu a respiração às pressas\ne verificou rapidamente\na parte aos pés da estátua.",
-        "es": "Contuviste la respiración de inmediato\ny revisaste rápidamente\nla zona a los pies de la estatua."
+        "ko-KR": "호흡을 급히 멈추고\n재빨리 석상의 발 밑부분을\n확인했다.",
+        "en-US": "You quickly held your breath\nand swiftly checked\nthe base of the statue.",
+        "pt-BR": "Prendeu a respiração às pressas\ne verificou rapidamente\na parte aos pés da estátua.",
+        "es-ES": "Contuviste la respiración de inmediato\ny revisaste rápidamente\nla zona a los pies de la estatua."
     },
     "h6olAw": {
-        "ko": "유물의 한 부분으로 보이는\n보석을 발견했다.",
-        "en": "You discovered a jewel\nthat appears to be\npart of a relic.",
-        "pt": "Você encontrou uma joia\nque parece ser parte de uma relíquia.",
-        "es": "Encontraste una joya\nque parece formar parte\nde una reliquia."
+        "ko-KR": "유물의 한 부분으로 보이는\n보석을 발견했다.",
+        "en-US": "You discovered a jewel\nthat appears to be\npart of a relic.",
+        "pt-BR": "Você encontrou uma joia\nque parece ser parte de uma relíquia.",
+        "es-ES": "Encontraste una joya\nque parece formar parte\nde una reliquia."
     },
     "iKolAw": {
-        "ko": ". . . . . .",
-        "en": ". . . . . .",
-        "pt": ". . . . . .",
-        "es": ". . . . . ."
+        "ko-KR": ". . . . . .",
+        "en-US": ". . . . . .",
+        "pt-BR": ". . . . . .",
+        "es-ES": ". . . . . ."
     },
     "iaolAw": {
-        "ko": "오래된 듯한 석상이 서 있고\n여기저기 금 가있는 것이\n금방이라도 쓰러져버릴거\n같습니다..",
-        "en": "There stands what appears\nto be an old statue,\nits cracks making it seem\nas though it could collapse\nat any moment..",
-        "pt": "Há uma estátua que parece antiga,\ne ela está rachada por todos os lados,\nparecendo prestes a desabar\na qualquer momento...",
-        "es": "Hay una estatua que parece antigua,\ncon grietas por todas partes,\ny parece que podría derrumbarse\nen cualquier momento..."
+        "ko-KR": "오래된 듯한 석상이 서 있고\n여기저기 금 가있는 것이\n금방이라도 쓰러져버릴거\n같습니다..",
+        "en-US": "There stands what appears\nto be an old statue,\nits cracks making it seem\nas though it could collapse\nat any moment..",
+        "pt-BR": "Há uma estátua que parece antiga,\ne ela está rachada por todos os lados,\nparecendo prestes a desabar\na qualquer momento...",
+        "es-ES": "Hay una estatua que parece antigua,\ncon grietas por todas partes,\ny parece que podría derrumbarse\nen cualquier momento..."
     },
     "iqolAw": {
-        "ko": "석상의 발 밑부분에 반짝이는\n물건이 있습니다..",
-        "en": "There is a sparkling object\nat the foot of the statue..",
-        "pt": "Há um objeto brilhante\naos pés da estátua...",
-        "es": "Hay un objeto brillante\na los pies de la estatua..."
+        "ko-KR": "석상의 발 밑부분에 반짝이는\n물건이 있습니다..",
+        "en-US": "There is a sparkling object\nat the foot of the statue..",
+        "pt-BR": "Há um objeto brilhante\naos pés da estátua...",
+        "es-ES": "Hay un objeto brillante\na los pies de la estatua..."
     },
     "i6olAw": {
-        "ko": "석상의 주위는 바닥이\n움푹 패어있습니다.",
-        "en": "The ground surrounding the statue\nis sunken in..",
-        "pt": "O chão ao redor da estátua\nestá afundado.",
-        "es": "El suelo alrededor de la estatua\nestá hundido."
+        "ko-KR": "석상의 주위는 바닥이\n움푹 패어있습니다.",
+        "en-US": "The ground surrounding the statue\nis sunken in..",
+        "pt-BR": "O chão ao redor da estátua\nestá afundado.",
+        "es-ES": "El suelo alrededor de la estatua\nestá hundido."
     },
     "jKolAw": {
-        "ko": "패인 곳으로 발을 내 딪자\n바닥에서 누런 연기가\n세어나옵니다..",
-        "en": "As you stepped into\nthe sunken area,\nyellow smoke\nbegan seeping out from the floor..",
-        "pt": "Ao pisar na área afundada,\numa fumaça amarelada\nvaza do chão...",
-        "es": "Al pisar la zona hundida,\ndel suelo sale\nun humo amarillento..."
+        "ko-KR": "패인 곳으로 발을 내 딪자\n바닥에서 누런 연기가\n세어나옵니다..",
+        "en-US": "As you stepped into\nthe sunken area,\nyellow smoke\nbegan seeping out from the floor..",
+        "pt-BR": "Ao pisar na área afundada,\numa fumaça amarelada\nvaza do chão...",
+        "es-ES": "Al pisar la zona hundida,\ndel suelo sale\nun humo amarillento..."
     },
     "jaolAw": {
-        "ko": "호흡을 급히 멈추고\n재빨리 석상의 발 밑부분을\n확인했습니다.",
-        "en": "You quickly held your breath\nand swiftly checked\nthe base of the statue.",
-        "pt": "Você prendeu a respiração às pressas\ne verificou rapidamente\na parte aos pés da estátua.",
-        "es": "Contuviste la respiración de inmediato\ny revisaste rápidamente\nla zona a los pies de la estatua."
+        "ko-KR": "호흡을 급히 멈추고\n재빨리 석상의 발 밑부분을\n확인했습니다.",
+        "en-US": "You quickly held your breath\nand swiftly checked\nthe base of the statue.",
+        "pt-BR": "Você prendeu a respiração às pressas\ne verificou rapidamente\na parte aos pés da estátua.",
+        "es-ES": "Contuviste la respiración de inmediato\ny revisaste rápidamente\nla zona a los pies de la estatua."
     },
     "jqolAw": {
-        "ko": "반짝이는 물건은..\n버려진 칼의 조각이었습니다.",
-        "en": "The sparkling object was..\na fragment of a discarded blade.",
-        "pt": "O objeto brilhante era...\num fragmento de uma espada abandonada.",
-        "es": "El objeto brillante era...\nun fragmento de una espada abandonada."
+        "ko-KR": "반짝이는 물건은..\n버려진 칼의 조각이었습니다.",
+        "en-US": "The sparkling object was..\na fragment of a discarded blade.",
+        "pt-BR": "O objeto brilhante era...\num fragmento de uma espada abandonada.",
+        "es-ES": "El objeto brillante era...\nun fragmento de una espada abandonada."
     },
     "j6olAw": {
-        "ko": "물속에 희미하게 반짝이는\n무언가를 발견했습니다.",
-        "en": "You discovered something\nfaintly sparkling in the water.",
-        "pt": "Você encontrou algo\nbrilhando vagamente na água.",
-        "es": "Has encontrado algo\nque brilla débilmente bajo el agua."
+        "ko-KR": "물속에 희미하게 반짝이는\n무언가를 발견했습니다.",
+        "en-US": "You discovered something\nfaintly sparkling in the water.",
+        "pt-BR": "Você encontrou algo\nbrilhando vagamente na água.",
+        "es-ES": "Has encontrado algo\nque brilla débilmente bajo el agua."
     },
     "kKolAw": {
-        "ko": "물 속에 손을 넣어 물건을 집는다.",
-        "en": "Reach into the water and grab the object.",
-        "pt": "Colocar a mão na água e pegar o objeto.",
-        "es": "Meter la mano en el agua y recoger el objeto."
+        "ko-KR": "물 속에 손을 넣어 물건을 집는다.",
+        "en-US": "Reach into the water and grab the object.",
+        "pt-BR": "Colocar a mão na água e pegar o objeto.",
+        "es-ES": "Meter la mano en el agua y recoger el objeto."
     },
     "kaolAw": {
-        "ko": "물속은 상당히 찹니다.\n당신은 물의 차가운 냉기가 몸을\n휩싸는거 같은 기분을 느낍니다.",
-        "en": "The water is extremely cold.\nYou feel as though\nthe icy chill of the water\nis enveloping your body.",
-        "pt": "A água está bastante fria.\nVocê sente como se o frio da água\nenvolvesse seu corpo.",
-        "es": "El agua está bastante fría.\nSientes como si el frío del agua\nenvolviera todo tu cuerpo."
+        "ko-KR": "물속은 상당히 찹니다.\n당신은 물의 차가운 냉기가 몸을\n휩싸는거 같은 기분을 느낍니다.",
+        "en-US": "The water is extremely cold.\nYou feel as though\nthe icy chill of the water\nis enveloping your body.",
+        "pt-BR": "A água está bastante fria.\nVocê sente como se o frio da água\nenvolvesse seu corpo.",
+        "es-ES": "El agua está bastante fría.\nSientes como si el frío del agua\nenvolviera todo tu cuerpo."
     },
     "kqolAw": {
-        "ko": "물속의 찬냉기를 받은 몸이\n견디지 못했습니다.",
-        "en": "Your body could not withstand\nthe freezing chill\nfrom the water.",
-        "pt": "Seu corpo, atingido pelo frio da água,\nnão resistiu.",
-        "es": "Tu cuerpo no pudo soportar\nel frío recibido del agua."
+        "ko-KR": "물속의 찬냉기를 받은 몸이\n견디지 못했습니다.",
+        "en-US": "Your body could not withstand\nthe freezing chill\nfrom the water.",
+        "pt-BR": "Seu corpo, atingido pelo frio da água,\nnão resistiu.",
+        "es-ES": "Tu cuerpo no pudo soportar\nel frío recibido del agua."
     },
     "k6olAw": {
-        "ko": "당신은 재빨리 물속의\n반짝이는 물체를\n손으로 집었습니다.",
-        "en": "You quickly grabbed\nthe sparkling object\nfrom within the water\nwith your hand.",
-        "pt": "Você rapidamente pegou\ncom a mão o objeto brilhante\ndentro da água.",
-        "es": "Rápidamente recogiste con la mano\nel objeto brillante\nque había bajo el agua."
+        "ko-KR": "당신은 재빨리 물속의\n반짝이는 물체를\n손으로 집었습니다.",
+        "en-US": "You quickly grabbed\nthe sparkling object\nfrom within the water\nwith your hand.",
+        "pt-BR": "Você rapidamente pegou\ncom a mão o objeto brilhante\ndentro da água.",
+        "es-ES": "Rápidamente recogiste con la mano\nel objeto brillante\nque había bajo el agua."
     },
     "lKolAw": {
-        "ko": "파랗고 눈부시게 빛나는\n보석을 얻었습니다.",
-        "en": "You obtained a dazzling\nblue jewel.",
-        "pt": "Você obteve uma joia azul\nde brilho deslumbrante.",
-        "es": "Has obtenido una joya azul\nde brillo deslumbrante."
+        "ko-KR": "파랗고 눈부시게 빛나는\n보석을 얻었습니다.",
+        "en-US": "You obtained a dazzling\nblue jewel.",
+        "pt-BR": "Você obteve uma joia azul\nde brilho deslumbrante.",
+        "es-ES": "Has obtenido una joya azul\nde brillo deslumbrante."
     },
     "laolAw": {
-        "ko": ". . . . . . . . . . . . .",
-        "en": ". . . . . . . . . . . . .",
-        "pt": ". . . . . . . . . . . . .",
-        "es": ". . . . . . . . . . . . ."
+        "ko-KR": ". . . . . . . . . . . . .",
+        "en-US": ". . . . . . . . . . . . .",
+        "pt-BR": ". . . . . . . . . . . . .",
+        "es-ES": ". . . . . . . . . . . . ."
     }
 }

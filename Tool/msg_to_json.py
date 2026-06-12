@@ -15,10 +15,10 @@ def decode_b64(cell):
 def csv_to_json(input_csv, output_json, csv_type):
     # Columnas de idioma conocidas
     language_columns = {
-        1: "ko",
-        2: "en",
-        7: "pt",
-        9: "es"
+        1: "ko-KR",
+        2: "en-US",
+        7: "pt-BR",
+        9: "es-ES"
     }
 
     result = {}

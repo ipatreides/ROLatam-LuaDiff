@@ -1,8 +1,8 @@
 {
     "QKMfDA": {
-        "ko": "장난감 공장 경비병#{0}",
-        "en": "Toy Factory Guard #{0}",
-        "pt": "Guardinha#{0}",
-        "es": "Guardia de la Fábrica#{0}"
+        "ko-KR": "장난감 공장 경비병#{0}",
+        "en-US": "Toy Factory Guard #{0}",
+        "pt-BR": "Guardinha#{0}",
+        "es-ES": "Guardia de la Fábrica#{0}"
     }
 }

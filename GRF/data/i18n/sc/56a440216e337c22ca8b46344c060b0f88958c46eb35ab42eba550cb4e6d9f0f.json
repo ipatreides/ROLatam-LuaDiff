@@ -1,62 +1,62 @@
 {
     "gJ/V": {
-        "en": "Lord Knight Seyren",
-        "pt": "Lorde Seyren",
-        "es": "Lord Caballero Seyren"
+        "en-US": "Lord Knight Seyren",
+        "pt-BR": "Lorde Seyren",
+        "es-ES": "Lord Caballero Seyren"
     },
     "gZ/V": {
-        "en": "Assassin Cross Eremes",
-        "pt": "Algoz Eremes",
-        "es": "Assassin Cross Eremes"
+        "en-US": "Assassin Cross Eremes",
+        "pt-BR": "Algoz Eremes",
+        "es-ES": "Assassin Cross Eremes"
     },
     "gp/V": {
-        "en": "MasterSmith Howard",
-        "pt": "Mestre Howard",
-        "es": "MasterSmith Howard"
+        "en-US": "MasterSmith Howard",
+        "pt-BR": "Mestre Howard",
+        "es-ES": "MasterSmith Howard"
     },
     "g5/V": {
-        "en": "High Priest Margaretha",
-        "pt": "Sumo Sacerdote Margaretha",
-        "es": "Suma Sacerdotisa Margaretha"
+        "en-US": "High Priest Margaretha",
+        "pt-BR": "Sumo Sacerdote Margaretha",
+        "es-ES": "Suma Sacerdotisa Margaretha"
     },
     "hJ/V": {
-        "en": "Sniper Cecil",
-        "pt": "Atirador de Elite Cecil",
-        "es": "Francotirador Cecil"
+        "en-US": "Sniper Cecil",
+        "pt-BR": "Atirador de Elite Cecil",
+        "es-ES": "Francotirador Cecil"
     },
     "hZ/V": {
-        "en": "High Wizard Kathryne",
-        "pt": "Arquimaga Kathryne",
-        "es": "Alta Maga Kathryne"
+        "en-US": "High Wizard Kathryne",
+        "pt-BR": "Arquimaga Kathryne",
+        "es-ES": "Alta Maga Kathryne"
     },
     "hp/V": {
-        "en": "Seyren Windsor",
-        "pt": "Seyren Windsor",
-        "es": "Seyren Windsor"
+        "en-US": "Seyren Windsor",
+        "pt-BR": "Seyren Windsor",
+        "es-ES": "Seyren Windsor"
     },
     "h5/V": {
-        "en": "Eremes Guile",
-        "pt": "Eremes Guile",
-        "es": "Eremes Guile"
+        "en-US": "Eremes Guile",
+        "pt-BR": "Eremes Guile",
+        "es-ES": "Eremes Guile"
     },
     "iJ/V": {
-        "en": "Howard Alt-Eisen",
-        "pt": "Howard Alt-Eisen",
-        "es": "Howard Alt-Eisen"
+        "en-US": "Howard Alt-Eisen",
+        "pt-BR": "Howard Alt-Eisen",
+        "es-ES": "Howard Alt-Eisen"
     },
     "iZ/V": {
-        "en": "Margaretha Sorin",
-        "pt": "Margaretha Sorin",
-        "es": "Margaretha Sorin"
+        "en-US": "Margaretha Sorin",
+        "pt-BR": "Margaretha Sorin",
+        "es-ES": "Margaretha Sorin"
     },
     "ip/V": {
-        "en": "Cecil Damon",
-        "pt": "Cecil Damon",
-        "es": "Cecil Damon"
+        "en-US": "Cecil Damon",
+        "pt-BR": "Cecil Damon",
+        "es-ES": "Cecil Damon"
     },
     "i5/V": {
-        "en": "Kathryne Keyron",
-        "pt": "Kathryne Keyron",
-        "es": "Kathryne Keyron"
+        "en-US": "Kathryne Keyron",
+        "pt-BR": "Kathryne Keyron",
+        "es-ES": "Kathryne Keyron"
     }
 }

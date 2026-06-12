@@ -1,17 +1,17 @@
 {
     "AA4nBw": {
-        "en": "admin",
-        "pt": "admin",
-        "es": "admin"
+        "en-US": "admin",
+        "pt-BR": "admin",
+        "es-ES": "admin"
     },
     "AQ4nBw": {
-        "en": "member",
-        "pt": "member",
-        "es": "miembro"
+        "en-US": "member",
+        "pt-BR": "member",
+        "es-ES": "miembro"
     },
     "Ag4nBw": {
-        "en": "notify",
-        "pt": "notify",
-        "es": "notificar a"
+        "en-US": "notify",
+        "pt-BR": "notify",
+        "es-ES": "notificar a"
     }
 }

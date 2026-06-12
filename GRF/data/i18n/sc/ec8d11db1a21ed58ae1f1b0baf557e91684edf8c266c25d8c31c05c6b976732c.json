@@ -1,312 +1,312 @@
 {
     "QBNPCA": {
-        "en": "Expert Enchanter Byrnes",
-        "pt": "Encantador Byrnes",
-        "es": "Experto Encantador Byrnes"
+        "en-US": "Expert Enchanter Byrnes",
+        "pt-BR": "Encantador Byrnes",
+        "es-ES": "Experto Encantador Byrnes"
     },
     "QRNPCA": {
-        "en": "[Byrnes]\nHave you heard of Hero Ring? Only true heroes deserve to possess that magnificent ring, and I've been waiting for one.\nWhat can I do for you?",
-        "pt": "[Encantador Byrnes]\nVocê já ouviu falar do Anel Heroico? Somente verdadeiros heróis merecem possuir um anel tão magnifico como esse, e eu estive esperando muito tempo por um.\nO que eu posso fazer por você?",
-        "es": "[Byrnes]\n¿Oíste hablar del Anillo de héroe? Solo los verdaderos héroes merecen poseer ese magnífico anillo y yo he estado esperando uno.\n¿En qué te puedo ayudar?"
+        "en-US": "[Byrnes]\nHave you heard of Hero Ring? Only true heroes deserve to possess that magnificent ring, and I've been waiting for one.\nWhat can I do for you?",
+        "pt-BR": "[Encantador Byrnes]\nVocê já ouviu falar do Anel Heroico? Somente verdadeiros heróis merecem possuir um anel tão magnifico como esse, e eu estive esperando muito tempo por um.\nO que eu posso fazer por você?",
+        "es-ES": "[Byrnes]\n¿Oíste hablar del Anillo de héroe? Solo los verdaderos héroes merecen poseer ese magnífico anillo y yo he estado esperando uno.\n¿En qué te puedo ayudar?"
     },
     "QhNPCA": {
-        "en": "Enchant Hero Ring.",
-        "pt": "Encantar o Anel Heroico.",
-        "es": "Encantar Anillo de héroe."
+        "en-US": "Enchant Hero Ring.",
+        "pt-BR": "Encantar o Anel Heroico.",
+        "es-ES": "Encantar Anillo de héroe."
     },
     "QxNPCA": {
-        "en": "Reset Enchantments on Hero Ring.",
-        "pt": "Resetar os Encantamentos do Anel.",
-        "es": "Restablecer encantamientos de un Anillo de héroe."
+        "en-US": "Reset Enchantments on Hero Ring.",
+        "pt-BR": "Resetar os Encantamentos do Anel.",
+        "es-ES": "Restablecer encantamientos de un Anillo de héroe."
     },
     "RBNPCA": {
-        "en": "Cancel.",
-        "pt": "Cancelar.",
-        "es": "Cancelar."
+        "en-US": "Cancel.",
+        "pt-BR": "Cancelar.",
+        "es-ES": "Cancelar."
     },
     "RRNPCA": {
-        "en": "[Byrnes]\nTo reset Enchantments on your Hero Ring, I need 3 Hero Tokens.",
-        "pt": "[Encantador Byrnes]\nPara resetar os Encantamentos do seu Anel Heroico, eu preciso de 3 Marcas do Herói.",
-        "es": "[Byrnes]\nPara restablecer los encantamientos de tu Anillo de héroe, necesito 3Token de héroe."
+        "en-US": "[Byrnes]\nTo reset Enchantments on your Hero Ring, I need 3 Hero Tokens.",
+        "pt-BR": "[Encantador Byrnes]\nPara resetar os Encantamentos do seu Anel Heroico, eu preciso de 3 Marcas do Herói.",
+        "es-ES": "[Byrnes]\nPara restablecer los encantamientos de tu Anillo de héroe, necesito 3Token de héroe."
     },
     "RhNPCA": {
-        "en": "[Byrnes]\nYou don't have enough Hero Tokens. I can't reset your Hero Ring.",
-        "pt": "[Encantador Byrnes]\nVocê não tem Marcas do Herói suficientes.Por isso eu não posso resetar seu Anel Heroico.",
-        "es": "[Byrnes]\nNo tienes suficientes Token de héroe. No puedo restablecer tu Anillo de héroe."
+        "en-US": "[Byrnes]\nYou don't have enough Hero Tokens. I can't reset your Hero Ring.",
+        "pt-BR": "[Encantador Byrnes]\nVocê não tem Marcas do Herói suficientes.Por isso eu não posso resetar seu Anel Heroico.",
+        "es-ES": "[Byrnes]\nNo tienes suficientes Token de héroe. No puedo restablecer tu Anillo de héroe."
     },
     "RxNPCA": {
-        "en": "[Byrnes]\nI can reset only equipped rings. Which one of the equipped rings do you want to reset?",
-        "pt": "[Encantador Byrnes]\nEu posso resetar somente Aneis equipados. Qual dos Aneis equipados você gostaria de resetar?",
-        "es": "[Byrnes]\nSolo puedo restablecer los anillos equipados. ¿Cuál de los anillos equipados quieres restablecer?"
+        "en-US": "[Byrnes]\nI can reset only equipped rings. Which one of the equipped rings do you want to reset?",
+        "pt-BR": "[Encantador Byrnes]\nEu posso resetar somente Aneis equipados. Qual dos Aneis equipados você gostaria de resetar?",
+        "es-ES": "[Byrnes]\nSolo puedo restablecer los anillos equipados. ¿Cuál de los anillos equipados quieres restablecer?"
     },
     "SBNPCA": {
-        "en": "Left",
-        "pt": "Esquerda",
-        "es": "Izquierdo"
+        "en-US": "Left",
+        "pt-BR": "Esquerda",
+        "es-ES": "Izquierdo"
     },
     "SRNPCA": {
-        "en": "Right",
-        "pt": "Direita",
-        "es": "Derecho"
+        "en-US": "Right",
+        "pt-BR": "Direita",
+        "es-ES": "Derecho"
     },
     "ShNPCA": {
-        "en": "[Byrnes]\nYou first have to equip the item to reset its Enchantment status.",
-        "pt": "[Encantador Byrnes]\nVocê primeiramente deve estar com o Anel equipado para resetar seus encantamentos.",
-        "es": "[Byrnes]\nPrimero tienes que equipar el objeto para restablecer su estado de encantamiento."
+        "en-US": "[Byrnes]\nYou first have to equip the item to reset its Enchantment status.",
+        "pt-BR": "[Encantador Byrnes]\nVocê primeiramente deve estar com o Anel equipado para resetar seus encantamentos.",
+        "es-ES": "[Byrnes]\nPrimero tienes que equipar el objeto para restablecer su estado de encantamiento."
     },
     "SxNPCA": {
-        "en": "[Byrnes]\nPlease equip your Hero Ring. I can't reset anything else.",
-        "pt": "[Encantador Byrnes]\nPor favor equipe o Anel Heroico. Eu não posso resetar nada mais.",
-        "es": "[Byrnes]\nPor favor, equipa tu Anillo de héroe. No puedo restablecer nada más."
+        "en-US": "[Byrnes]\nPlease equip your Hero Ring. I can't reset anything else.",
+        "pt-BR": "[Encantador Byrnes]\nPor favor equipe o Anel Heroico. Eu não posso resetar nada mais.",
+        "es-ES": "[Byrnes]\nPor favor, equipa tu Anillo de héroe. No puedo restablecer nada más."
     },
     "TBNPCA": {
-        "en": "You have too many types of items. Lighten your inventory first.",
-        "pt": "Você possui muitos itens no inventário. Esvazie ele primeiro para que possamos realizar o procedimento.",
-        "es": "Tienes demasiados tipos de objetos. Aligera primero tu inventario."
+        "en-US": "You have too many types of items. Lighten your inventory first.",
+        "pt-BR": "Você possui muitos itens no inventário. Esvazie ele primeiro para que possamos realizar o procedimento.",
+        "es-ES": "Tienes demasiados tipos de objetos. Aligera primero tu inventario."
     },
     "TRNPCA": {
-        "en": "The items in your inventory are weighing you down. Lighten your weight first.",
-        "pt": "Você está muito pesado. Libere um pouco do peso para podermos realizar o procedimento.",
-        "es": "Los objetos de tu inventario te sobrecargan. Primero aligera tu peso."
+        "en-US": "The items in your inventory are weighing you down. Lighten your weight first.",
+        "pt-BR": "Você está muito pesado. Libere um pouco do peso para podermos realizar o procedimento.",
+        "es-ES": "Los objetos de tu inventario te sobrecargan. Primero aligera tu peso."
     },
     "ThNPCA": {
-        "en": "[Byrnes]\nThis ring is already reset.",
-        "pt": "[Encantador Byrnes]\nO anel já foi resetado.",
-        "es": "[Byrnes]\nEste anillo ya está restablecido."
+        "en-US": "[Byrnes]\nThis ring is already reset.",
+        "pt-BR": "[Encantador Byrnes]\nO anel já foi resetado.",
+        "es-ES": "[Byrnes]\nEste anillo ya está restablecido."
     },
     "TxNPCA": {
-        "en": "[Byrnes]",
-        "pt": "[Encantador Byrnes]",
-        "es": "[Byrnes]"
+        "en-US": "[Byrnes]",
+        "pt-BR": "[Encantador Byrnes]",
+        "es-ES": "[Byrnes]"
     },
     "UBNPCA": {
-        "en": "You've selected the Hero Ring equipped on your left hand.",
-        "pt": "Você selecionou o Anel Heroico equipado na mão esquerda.",
-        "es": "Seleccionaste el Anillo de héroe equipado en tu mano izquierda."
+        "en-US": "You've selected the Hero Ring equipped on your left hand.",
+        "pt-BR": "Você selecionou o Anel Heroico equipado na mão esquerda.",
+        "es-ES": "Seleccionaste el Anillo de héroe equipado en tu mano izquierda."
     },
     "URNPCA": {
-        "en": "You've selected the Hero Ring equipped on your right hand.",
-        "pt": "Você selecionou o Anel Heroico equipado na mão direita.",
-        "es": "Seleccionaste el Anillo de héroe equipado en tu mano derecha."
+        "en-US": "You've selected the Hero Ring equipped on your right hand.",
+        "pt-BR": "Você selecionou o Anel Heroico equipado na mão direita.",
+        "es-ES": "Seleccionaste el Anillo de héroe equipado en tu mano derecha."
     },
     "UhNPCA": {
-        "en": "Once reset, Enchantments cannot be restored by any means. Do you want to continue?",
-        "pt": "Uma vez resetado, os encantamentos não pode ser restaurados. Você gostaria de continuar?",
-        "es": "Una vez restablecidos, los encantamientos no pueden restaurarse por ningún medio. ¿Quieres continuar?"
+        "en-US": "Once reset, Enchantments cannot be restored by any means. Do you want to continue?",
+        "pt-BR": "Uma vez resetado, os encantamentos não pode ser restaurados. Você gostaria de continuar?",
+        "es-ES": "Una vez restablecidos, los encantamientos no pueden restaurarse por ningún medio. ¿Quieres continuar?"
     },
     "UxNPCA": {
-        "en": "No.",
-        "pt": "Não.",
-        "es": "No."
+        "en-US": "No.",
+        "pt-BR": "Não.",
+        "es-ES": "No."
     },
     "VBNPCA": {
-        "en": "Yes.",
-        "pt": "Sim.",
-        "es": "Sí."
+        "en-US": "Yes.",
+        "pt-BR": "Sim.",
+        "es-ES": "Sí."
     },
     "VRNPCA": {
-        "en": "[Byrnes]\nOkay, we'll do what you want. Just give me a moment.",
-        "pt": "[Encantador Byrnes]\nBeleza, atenderemos ao seu pedido. Só me de um momento, por favor.",
-        "es": "[Byrnes]\nBueno, haremos lo que me digas. Dame un momento."
+        "en-US": "[Byrnes]\nOkay, we'll do what you want. Just give me a moment.",
+        "pt-BR": "[Encantador Byrnes]\nBeleza, atenderemos ao seu pedido. Só me de um momento, por favor.",
+        "es-ES": "[Byrnes]\nBueno, haremos lo que me digas. Dame un momento."
     },
     "VhNPCA": {
-        "en": "[Byrnes]\nIt's been reset. Let me know if you want to Enchant it again.",
-        "pt": "[Encantador Byrnes]\nO item foi resetado. Me de um toque se você quiser Encatá-lo novamente.",
-        "es": "[Byrnes]\nYa está restablecido. Avísame si quieres encantarlo de nuevo."
+        "en-US": "[Byrnes]\nIt's been reset. Let me know if you want to Enchant it again.",
+        "pt-BR": "[Encantador Byrnes]\nO item foi resetado. Me de um toque se você quiser Encatá-lo novamente.",
+        "es-ES": "[Byrnes]\nYa está restablecido. Avísame si quieres encantarlo de nuevo."
     },
     "VxNPCA": {
-        "en": "[Byrnes]\nI can Enchant only equipped rings. Which one of the equipped rings do you want to Enchant?",
-        "pt": "[Encantador Byrnes]\nEu posso resetar somente Aneis equipados. Qual dos Aneis equipados você gostaria de encantar?",
-        "es": "[Byrnes]\nSolo puedo encantar anillos equipados. ¿Cuál de los anillos equipados quieres encantar?"
+        "en-US": "[Byrnes]\nI can Enchant only equipped rings. Which one of the equipped rings do you want to Enchant?",
+        "pt-BR": "[Encantador Byrnes]\nEu posso resetar somente Aneis equipados. Qual dos Aneis equipados você gostaria de encantar?",
+        "es-ES": "[Byrnes]\nSolo puedo encantar anillos equipados. ¿Cuál de los anillos equipados quieres encantar?"
     },
     "WBNPCA": {
-        "en": "[Byrnes]\nPlease equip the Hero Ring that you want to Enchant.",
-        "pt": "[Encantador Byrnes]\nEquipe o Anel Heroico que você gostaria de encantar, por favor.",
-        "es": "[Byrnes]\nEquipa el Anillo de héroe que quieres encantar."
+        "en-US": "[Byrnes]\nPlease equip the Hero Ring that you want to Enchant.",
+        "pt-BR": "[Encantador Byrnes]\nEquipe o Anel Heroico que você gostaria de encantar, por favor.",
+        "es-ES": "[Byrnes]\nEquipa el Anillo de héroe que quieres encantar."
     },
     "WRNPCA": {
-        "en": "[Byrnes]\nPlease equip your Hero Ring. I can't Enchant anything else.",
-        "pt": "[Encantador Byrnes]\nEquipe o Anel Heroico que você gostaria de encantar, por favor.",
-        "es": "[Byrnes]\nPor favor, equipa tu Anillo de Héroe. No puedo encantar nada más."
+        "en-US": "[Byrnes]\nPlease equip your Hero Ring. I can't Enchant anything else.",
+        "pt-BR": "[Encantador Byrnes]\nEquipe o Anel Heroico que você gostaria de encantar, por favor.",
+        "es-ES": "[Byrnes]\nPor favor, equipa tu Anillo de Héroe. No puedo encantar nada más."
     },
     "WhNPCA": {
-        "en": "[Byrnes]\nEnchanted Hero Rings cannot be re-Enchanted without having their current Enchantments removed first.",
-        "pt": "[Encantador Byrnes]\nUma vez Encantado o Anel Heroico ele não pode ser encantado novamente sem que os encantamentos anterios sejam removidos.",
-        "es": "[Byrnes]\nNo puedes volver a encantar un Anillo de héroe que ya está encantado sin eliminar sus encantamientos actuales."
+        "en-US": "[Byrnes]\nEnchanted Hero Rings cannot be re-Enchanted without having their current Enchantments removed first.",
+        "pt-BR": "[Encantador Byrnes]\nUma vez Encantado o Anel Heroico ele não pode ser encantado novamente sem que os encantamentos anterios sejam removidos.",
+        "es-ES": "[Byrnes]\nNo puedes volver a encantar un Anillo de héroe que ya está encantado sin eliminar sus encantamientos actuales."
     },
     "WxNPCA": {
-        "en": "[Byrnes]\nWhat ability do you want to add to the first slot?",
-        "pt": "[Encantador Byrnes]\nQual status você gostaria de adicionar no primeiro Slot?",
-        "es": "[Byrnes]\n¿Qué habilidad quieres agregar a la primera ranura?"
+        "en-US": "[Byrnes]\nWhat ability do you want to add to the first slot?",
+        "pt-BR": "[Encantador Byrnes]\nQual status você gostaria de adicionar no primeiro Slot?",
+        "es-ES": "[Byrnes]\n¿Qué habilidad quieres agregar a la primera ranura?"
     },
     "XBNPCA": {
-        "en": "STR",
-        "pt": "FOR",
-        "es": "STR"
+        "en-US": "STR",
+        "pt-BR": "FOR",
+        "es-ES": "STR"
     },
     "XRNPCA": {
-        "en": "AGI",
-        "pt": "AGI",
-        "es": "AGI"
+        "en-US": "AGI",
+        "pt-BR": "AGI",
+        "es-ES": "AGI"
     },
     "XhNPCA": {
-        "en": "VIT",
-        "pt": "VIT",
-        "es": "VIT"
+        "en-US": "VIT",
+        "pt-BR": "VIT",
+        "es-ES": "VIT"
     },
     "XxNPCA": {
-        "en": "INT",
-        "pt": "INT",
-        "es": "INT"
+        "en-US": "INT",
+        "pt-BR": "INT",
+        "es-ES": "INT"
     },
     "YBNPCA": {
-        "en": "DEX",
-        "pt": "DES",
-        "es": "DES"
+        "en-US": "DEX",
+        "pt-BR": "DES",
+        "es-ES": "DES"
     },
     "YRNPCA": {
-        "en": "LUK",
-        "pt": "SOR",
-        "es": "LUK"
+        "en-US": "LUK",
+        "pt-BR": "SOR",
+        "es-ES": "LUK"
     },
     "YhNPCA": {
-        "en": "STR",
-        "pt": "FOR",
-        "es": "STR"
+        "en-US": "STR",
+        "pt-BR": "FOR",
+        "es-ES": "STR"
     },
     "YxNPCA": {
-        "en": "AGI",
-        "pt": "AGI",
-        "es": "AGI"
+        "en-US": "AGI",
+        "pt-BR": "AGI",
+        "es-ES": "AGI"
     },
     "ZBNPCA": {
-        "en": "VIT",
-        "pt": "VIT",
-        "es": "VIT"
+        "en-US": "VIT",
+        "pt-BR": "VIT",
+        "es-ES": "VIT"
     },
     "ZRNPCA": {
-        "en": "INT",
-        "pt": "INT",
-        "es": "INT"
+        "en-US": "INT",
+        "pt-BR": "INT",
+        "es-ES": "INT"
     },
     "ZhNPCA": {
-        "en": "DEX",
-        "pt": "DES",
-        "es": "DES"
+        "en-US": "DEX",
+        "pt-BR": "DES",
+        "es-ES": "DES"
     },
     "ZxNPCA": {
-        "en": "LUK",
-        "pt": "SOR",
-        "es": "LUK"
+        "en-US": "LUK",
+        "pt-BR": "SOR",
+        "es-ES": "LUK"
     },
     "aBNPCA": {
-        "en": "[Byrnes]\nWhat ability do you want to add to the second slot?",
-        "pt": "[Encantador Byrnes]\nQual status você gostaria de adicionar no segundo Slot?",
-        "es": "[Byrnes]\n¿Qué habilidad quieres agregar a la segunda ranura?"
+        "en-US": "[Byrnes]\nWhat ability do you want to add to the second slot?",
+        "pt-BR": "[Encantador Byrnes]\nQual status você gostaria de adicionar no segundo Slot?",
+        "es-ES": "[Byrnes]\n¿Qué habilidad quieres agregar a la segunda ranura?"
     },
     "aRNPCA": {
-        "en": "ATK",
-        "pt": "ATQ",
-        "es": "ATQ"
+        "en-US": "ATK",
+        "pt-BR": "ATQ",
+        "es-ES": "ATQ"
     },
     "ahNPCA": {
-        "en": "MATK",
-        "pt": "ATQM",
-        "es": "ATQM"
+        "en-US": "MATK",
+        "pt-BR": "ATQM",
+        "es-ES": "ATQM"
     },
     "axNPCA": {
-        "en": "[Byrnes]\nThe first slot will have {0},\nthe second {1},\nthe third {2},\nand the fourth {3}.\nIs that correct?",
-        "pt": "[Encantador Byrnes]\nO Primeiro Slot terá {0},\nO Segundo Slot terá {1},\nO Terceiro Slot terá {2},\nE o Quarto Slot terá {3}.\nFoi isso que você escolheu?",
-        "es": "[Byrnes]\nLa primera ranura tendrá {0},\nla segunda {1},\nla tercera {2},\ny la cuarta {3}.\n¿Es correcto?"
+        "en-US": "[Byrnes]\nThe first slot will have {0},\nthe second {1},\nthe third {2},\nand the fourth {3}.\nIs that correct?",
+        "pt-BR": "[Encantador Byrnes]\nO Primeiro Slot terá {0},\nO Segundo Slot terá {1},\nO Terceiro Slot terá {2},\nE o Quarto Slot terá {3}.\nFoi isso que você escolheu?",
+        "es-ES": "[Byrnes]\nLa primera ranura tendrá {0},\nla segunda {1},\nla tercera {2},\ny la cuarta {3}.\n¿Es correcto?"
     },
     "bBNPCA": {
-        "en": "MATK",
-        "pt": "ATQM",
-        "es": "MATK"
+        "en-US": "MATK",
+        "pt-BR": "ATQM",
+        "es-ES": "MATK"
     },
     "bRNPCA": {
-        "en": "[Byrnes]\nWhat ability do you want to add to the third slot?",
-        "pt": "[Encantador Byrnes]\nQual status você gostaria de adicionar no terceiro Slot?",
-        "es": "[Byrnes]\n¿Qué habilidad quieres agregar a la tercera ranura?"
+        "en-US": "[Byrnes]\nWhat ability do you want to add to the third slot?",
+        "pt-BR": "[Encantador Byrnes]\nQual status você gostaria de adicionar no terceiro Slot?",
+        "es-ES": "[Byrnes]\n¿Qué habilidad quieres agregar a la tercera ranura?"
     },
     "bhNPCA": {
-        "en": "MaxHP",
-        "pt": "HP",
-        "es": "HP máx."
+        "en-US": "MaxHP",
+        "pt-BR": "HP",
+        "es-ES": "HP máx."
     },
     "bxNPCA": {
-        "en": "MaxSP",
-        "pt": "SP",
-        "es": "PM máx."
+        "en-US": "MaxSP",
+        "pt-BR": "SP",
+        "es-ES": "PM máx."
     },
     "cBNPCA": {
-        "en": "MaxHP",
-        "pt": "HP",
-        "es": "MaxHP"
+        "en-US": "MaxHP",
+        "pt-BR": "HP",
+        "es-ES": "MaxHP"
     },
     "cRNPCA": {
-        "en": "MaxSP",
-        "pt": "SP",
-        "es": "MaxSP"
+        "en-US": "MaxSP",
+        "pt-BR": "SP",
+        "es-ES": "MaxSP"
     },
     "chNPCA": {
-        "en": "[Byrnes]\nWhat ability do you want to add to the fourth slot?",
-        "pt": "[Encantador Byrnes]\nQual status você gostaria de adicionar no quarto Slot?",
-        "es": "[Byrnes]\n¿Qué habilidad quieres agregar a la cuarta ranura?"
+        "en-US": "[Byrnes]\nWhat ability do you want to add to the fourth slot?",
+        "pt-BR": "[Encantador Byrnes]\nQual status você gostaria de adicionar no quarto Slot?",
+        "es-ES": "[Byrnes]\n¿Qué habilidad quieres agregar a la cuarta ranura?"
     },
     "cxNPCA": {
-        "en": "DEF",
-        "pt": "DEF",
-        "es": "DEF"
+        "en-US": "DEF",
+        "pt-BR": "DEF",
+        "es-ES": "DEF"
     },
     "dBNPCA": {
-        "en": "MDEF",
-        "pt": "DEFM",
-        "es": "DEFM"
+        "en-US": "MDEF",
+        "pt-BR": "DEFM",
+        "es-ES": "DEFM"
     },
     "dRNPCA": {
-        "en": "DEF",
-        "pt": "DEF",
-        "es": "DEF"
+        "en-US": "DEF",
+        "pt-BR": "DEF",
+        "es-ES": "DEF"
     },
     "dhNPCA": {
-        "en": "MDEF",
-        "pt": "DEFM",
-        "es": "MDEF"
+        "en-US": "MDEF",
+        "pt-BR": "DEFM",
+        "es-ES": "MDEF"
     },
     "dxNPCA": {
-        "en": "[Byrnes]\nThe first slot will have {0},\nthe second {1},\nthe third {2},\nand the fourth {3}.\nIs that correct?",
-        "pt": "[Encantador Byrnes]\nO Primeiro Slot terá {0},\nO Segundo Slot terá {1},\nO Terceiro Slot terá {2},\nE o Quarto Slot terá {3}.\nFoi isso que você escolheu?",
-        "es": "[Byrnes]\nLa primera ranura tendrá {0},\nla segunda {1},\nla tercera {2},\ny la cuarta {3}.\n¿Es correcto?"
+        "en-US": "[Byrnes]\nThe first slot will have {0},\nthe second {1},\nthe third {2},\nand the fourth {3}.\nIs that correct?",
+        "pt-BR": "[Encantador Byrnes]\nO Primeiro Slot terá {0},\nO Segundo Slot terá {1},\nO Terceiro Slot terá {2},\nE o Quarto Slot terá {3}.\nFoi isso que você escolheu?",
+        "es-ES": "[Byrnes]\nLa primera ranura tendrá {0},\nla segunda {1},\nla tercera {2},\ny la cuarta {3}.\n¿Es correcto?"
     },
     "eBNPCA": {
-        "en": "[Byrnes]\nLet me know when you make up your mind.",
-        "pt": "[Encantador Byrnes]\nAssim que você se decidir do encantamento corretos retorne para conversarmos.",
-        "es": "[Byrnes]\nAvísame cuando te decidas."
+        "en-US": "[Byrnes]\nLet me know when you make up your mind.",
+        "pt-BR": "[Encantador Byrnes]\nAssim que você se decidir do encantamento corretos retorne para conversarmos.",
+        "es-ES": "[Byrnes]\nAvísame cuando te decidas."
     },
     "eRNPCA": {
-        "en": "[Byrnes]\nAll right, let the Enchanting begin.\nEven I don't know the results--keep your fingers crossed.",
-        "pt": "[Encantador Byrnes]\nTudo certo, vamos comerçar a encantar.\nNem eu sei os resultados...vamos fazer figa para sair algo bom.",
-        "es": "[Byrnes]\nMuy bien, que empiece el encantamiento.\nNi siquiera yo sé el resultado… cruza los dedos."
+        "en-US": "[Byrnes]\nAll right, let the Enchanting begin.\nEven I don't know the results--keep your fingers crossed.",
+        "pt-BR": "[Encantador Byrnes]\nTudo certo, vamos comerçar a encantar.\nNem eu sei os resultados...vamos fazer figa para sair algo bom.",
+        "es-ES": "[Byrnes]\nMuy bien, que empiece el encantamiento.\nNi siquiera yo sé el resultado… cruza los dedos."
     },
     "ehNPCA": {
-        "en": "[Byrnes]\nWhew...",
-        "pt": "[Encantador Byrnes]\nWhew...",
-        "es": "[Byrnes]\nUf…"
+        "en-US": "[Byrnes]\nWhew...",
+        "pt-BR": "[Encantador Byrnes]\nWhew...",
+        "es-ES": "[Byrnes]\nUf…"
     },
     "exNPCA": {
-        "en": "[Byrnes]\nIt's Enchanted!",
-        "pt": "[Encantador Byrnes]\nEstá encantado!",
-        "es": "[Byrnes]\n¡Está encantado!"
+        "en-US": "[Byrnes]\nIt's Enchanted!",
+        "pt-BR": "[Encantador Byrnes]\nEstá encantado!",
+        "es-ES": "[Byrnes]\n¡Está encantado!"
     },
     "fBNPCA": {
-        "en": "Isle of Bios",
-        "pt": "Ilha Bios",
-        "es": "Isla de Bios"
+        "en-US": "Isle of Bios",
+        "pt-BR": "Ilha Bios",
+        "es-ES": "Isla de Bios"
     },
     "fRNPCA": {
-        "en": "The Hero Ring Enchanted Version\nv.121224a",
-        "pt": "A versão do Anel Heroico encantado é \nv.121224a",
-        "es": "El Anillo de héroe encantado\nVersión v.121224a"
+        "en-US": "The Hero Ring Enchanted Version\nv.121224a",
+        "pt-BR": "A versão do Anel Heroico encantado é \nv.121224a",
+        "es-ES": "El Anillo de héroe encantado\nVersión v.121224a"
     }
 }

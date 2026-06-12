@@ -1,797 +1,797 @@
 {
     "gGfYCA": {
-        "en": "Immortal_Furnace",
-        "pt": "Braseiro Imortal",
-        "es": "Horno_Inmortal"
+        "en-US": "Immortal_Furnace",
+        "pt-BR": "Braseiro Imortal",
+        "es-ES": "Horno_Inmortal"
     },
     "gWfYCA": {
-        "en": "Mini Demon",
-        "pt": "Diabinho",
-        "es": "Mini Demon"
+        "en-US": "Mini Demon",
+        "pt-BR": "Diabinho",
+        "es-ES": "Mini Demon"
     },
     "gmfYCA": {
-        "en": "Diabolic",
-        "pt": "Diabolik",
-        "es": "Diabolic"
+        "en-US": "Diabolic",
+        "pt-BR": "Diabolik",
+        "es-ES": "Diabolic"
     },
     "g2fYCA": {
-        "en": "Deviruchi",
-        "pt": "Deviruchi",
-        "es": "Deviruchi"
+        "en-US": "Deviruchi",
+        "pt-BR": "Deviruchi",
+        "es-ES": "Deviruchi"
     },
     "hGfYCA": {
-        "en": "All monsters on the 51st level have been defeated.",
-        "pt": "Todos os monstros no 51º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel51 fueron derrotados."
+        "en-US": "All monsters on the 51st level have been defeated.",
+        "pt-BR": "Todos os monstros no 51º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel51 fueron derrotados."
     },
     "hWfYCA": {
-        "en": "Remaining Monsters on 51st Level - {0}",
-        "pt": "Monstros restantes no 51º andar - {0}",
-        "es": "Monstruos restantes del nivel51: {0}."
+        "en-US": "Remaining Monsters on 51st Level - {0}",
+        "pt-BR": "Monstros restantes no 51º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel51: {0}."
     },
     "hmfYCA": {
-        "en": "Harpy",
-        "pt": "Harpia",
-        "es": "Harpy"
+        "en-US": "Harpy",
+        "pt-BR": "Harpia",
+        "es-ES": "Harpy"
     },
     "h2fYCA": {
-        "en": "Grand Peco",
-        "pt": "Grand Peco",
-        "es": "Grand Peco"
+        "en-US": "Grand Peco",
+        "pt-BR": "Grand Peco",
+        "es-ES": "Grand Peco"
     },
     "iGfYCA": {
-        "en": "Bloody Butterfly",
-        "pt": "Borboleta Sanguinária",
-        "es": "Bloody Butterfly"
+        "en-US": "Bloody Butterfly",
+        "pt-BR": "Borboleta Sanguinária",
+        "es-ES": "Bloody Butterfly"
     },
     "iWfYCA": {
-        "en": "Gargoyle",
-        "pt": "Gárgula",
-        "es": "Gargoyle"
+        "en-US": "Gargoyle",
+        "pt-BR": "Gárgula",
+        "es-ES": "Gargoyle"
     },
     "imfYCA": {
-        "en": "Hill Wind",
-        "pt": "Vento da Colina",
-        "es": "Hill Wind"
+        "en-US": "Hill Wind",
+        "pt-BR": "Vento da Colina",
+        "es-ES": "Hill Wind"
     },
     "i2fYCA": {
-        "en": "Hill Wind",
-        "pt": "Vento da Colina",
-        "es": "Hill Wind"
+        "en-US": "Hill Wind",
+        "pt-BR": "Vento da Colina",
+        "es-ES": "Hill Wind"
     },
     "jGfYCA": {
-        "en": "All monsters on the 52nd level have been defeated.",
-        "pt": "Todos os monstros no 52º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel52 fueron derrotados."
+        "en-US": "All monsters on the 52nd level have been defeated.",
+        "pt-BR": "Todos os monstros no 52º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel52 fueron derrotados."
     },
     "jWfYCA": {
-        "en": "Remaining Monsters on 52nd Level - {0}",
-        "pt": "Monstros restantes no 52º andar - {0}",
-        "es": "Monstruos restantes del nivel52: {0}."
+        "en-US": "Remaining Monsters on 52nd Level - {0}",
+        "pt-BR": "Monstros restantes no 52º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel52: {0}."
     },
     "jmfYCA": {
-        "en": "Assaulter",
-        "pt": "Agressor",
-        "es": "Assaulter"
+        "en-US": "Assaulter",
+        "pt-BR": "Agressor",
+        "es-ES": "Assaulter"
     },
     "j2fYCA": {
-        "en": "Shinobi",
-        "pt": "Shinobi",
-        "es": "Shinobi"
+        "en-US": "Shinobi",
+        "pt-BR": "Shinobi",
+        "es-ES": "Shinobi"
     },
     "kGfYCA": {
-        "en": "All monsters on the 53rd level have been defeated.",
-        "pt": "Todos os monstros no 53º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel53 fueron derrotados."
+        "en-US": "All monsters on the 53rd level have been defeated.",
+        "pt-BR": "Todos os monstros no 53º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel53 fueron derrotados."
     },
     "kWfYCA": {
-        "en": "Remaining Monsters on 53rd Level - {0}",
-        "pt": "Monstros restantes no 53º andar - {0}",
-        "es": "Monstruos restantes del nivel53: {0}."
+        "en-US": "Remaining Monsters on 53rd Level - {0}",
+        "pt-BR": "Monstros restantes no 53º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel53: {0}."
     },
     "kmfYCA": {
-        "en": "Chepet",
-        "pt": "Chepet",
-        "es": "Chepet"
+        "en-US": "Chepet",
+        "pt-BR": "Chepet",
+        "es-ES": "Chepet"
     },
     "k2fYCA": {
-        "en": "Marionette",
-        "pt": "Marionete",
-        "es": "Marionette"
+        "en-US": "Marionette",
+        "pt-BR": "Marionete",
+        "es-ES": "Marionette"
     },
     "lGfYCA": {
-        "en": "Miyabi Doll",
-        "pt": "Boneca Miyabi",
-        "es": "Miyabi Doll"
+        "en-US": "Miyabi Doll",
+        "pt-BR": "Boneca Miyabi",
+        "es-ES": "Miyabi Doll"
     },
     "lWfYCA": {
-        "en": "All monsters on the 54th level have been defeated.",
-        "pt": "Todos os monstros no 54º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel54 fueron derrotados."
+        "en-US": "All monsters on the 54th level have been defeated.",
+        "pt-BR": "Todos os monstros no 54º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel54 fueron derrotados."
     },
     "lmfYCA": {
-        "en": "Remaining Monsters on 54th Level - {0}",
-        "pt": "Monstros restantes no 54º andar - {0}",
-        "es": "Monstruos restantes del nivel54: {0}."
+        "en-US": "Remaining Monsters on 54th Level - {0}",
+        "pt-BR": "Monstros restantes no 54º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel54: {0}."
     },
     "l2fYCA": {
-        "en": "Medusa",
-        "pt": "Medusa",
-        "es": "Medusa"
+        "en-US": "Medusa",
+        "pt-BR": "Medusa",
+        "es-ES": "Medusa"
     },
     "mGfYCA": {
-        "en": "Evil Snake Lord",
-        "pt": "Serpente Suprema",
-        "es": "Evil Snake Lord"
+        "en-US": "Evil Snake Lord",
+        "pt-BR": "Serpente Suprema",
+        "es-ES": "Evil Snake Lord"
     },
     "mWfYCA": {
-        "en": "Isis",
-        "pt": "Isis",
-        "es": "Isis"
+        "en-US": "Isis",
+        "pt-BR": "Isis",
+        "es-ES": "Isis"
     },
     "mmfYCA": {
-        "en": "Side Winder",
-        "pt": "Sorrateiro",
-        "es": "Side Winder"
+        "en-US": "Side Winder",
+        "pt-BR": "Sorrateiro",
+        "es-ES": "Side Winder"
     },
     "m2fYCA": {
-        "en": "All monsters on the 55th level have been defeated.",
-        "pt": "Todos os monstros no 55º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel55 fueron derrotados."
+        "en-US": "All monsters on the 55th level have been defeated.",
+        "pt-BR": "Todos os monstros no 55º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel55 fueron derrotados."
     },
     "nGfYCA": {
-        "en": "Remaining Monsters on 55th Level - {0}",
-        "pt": "Monstros restantes no 55º andar - {0}",
-        "es": "Monstruos restantes del nivel55: {0}."
+        "en-US": "Remaining Monsters on 55th Level - {0}",
+        "pt-BR": "Monstros restantes no 55º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel55: {0}."
     },
     "nWfYCA": {
-        "en": "Freezer",
-        "pt": "Congelador",
-        "es": "Freezer"
+        "en-US": "Freezer",
+        "pt-BR": "Congelador",
+        "es-ES": "Freezer"
     },
     "nmfYCA": {
-        "en": "Baby Hatii",
-        "pt": "Filhote Hatii",
-        "es": "Baby Hatii"
+        "en-US": "Baby Hatii",
+        "pt-BR": "Filhote Hatii",
+        "es-ES": "Baby Hatii"
     },
     "n2fYCA": {
-        "en": "Ice Titan",
-        "pt": "Titã de Gelo",
-        "es": "Ice Titan"
+        "en-US": "Ice Titan",
+        "pt-BR": "Titã de Gelo",
+        "es-ES": "Ice Titan"
     },
     "oGfYCA": {
-        "en": "Snowier",
-        "pt": "Yeti",
-        "es": "Snowier"
+        "en-US": "Snowier",
+        "pt-BR": "Yeti",
+        "es-ES": "Snowier"
     },
     "oWfYCA": {
-        "en": "Gazeti",
-        "pt": "Gazeti",
-        "es": "Gazeti"
+        "en-US": "Gazeti",
+        "pt-BR": "Gazeti",
+        "es-ES": "Gazeti"
     },
     "omfYCA": {
-        "en": "All monsters on the 56th level have been defeated.",
-        "pt": "Todos os monstros no 56º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel56 fueron derrotados."
+        "en-US": "All monsters on the 56th level have been defeated.",
+        "pt-BR": "Todos os monstros no 56º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel56 fueron derrotados."
     },
     "o2fYCA": {
-        "en": "Remaining Monsters on 56th Level - {0}",
-        "pt": "Monstros restantes no 56º andar - {0}",
-        "es": "Monstruos restantes del nivel56: {0}."
+        "en-US": "Remaining Monsters on 56th Level - {0}",
+        "pt-BR": "Monstros restantes no 56º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel56: {0}."
     },
     "pGfYCA": {
-        "en": "Arc Angeling",
-        "pt": "ArchAngeling",
-        "es": "Arc Angeling"
+        "en-US": "Arc Angeling",
+        "pt-BR": "ArchAngeling",
+        "es-ES": "Arc Angeling"
     },
     "pWfYCA": {
-        "en": "Deviling",
-        "pt": "Deviling",
-        "es": "Deviling"
+        "en-US": "Deviling",
+        "pt-BR": "Deviling",
+        "es-ES": "Deviling"
     },
     "pmfYCA": {
-        "en": "Angeling",
-        "pt": "Angeling",
-        "es": "Angeling"
+        "en-US": "Angeling",
+        "pt-BR": "Angeling",
+        "es-ES": "Angeling"
     },
     "p2fYCA": {
-        "en": "Ghostring",
-        "pt": "Ghostring",
-        "es": "Ghostring"
+        "en-US": "Ghostring",
+        "pt-BR": "Ghostring",
+        "es-ES": "Ghostring"
     },
     "qGfYCA": {
-        "en": "Mastering",
-        "pt": "Mastering",
-        "es": "Mastering"
+        "en-US": "Mastering",
+        "pt-BR": "Mastering",
+        "es-ES": "Mastering"
     },
     "qWfYCA": {
-        "en": "Metaling",
-        "pt": "Metaling",
-        "es": "Metaling"
+        "en-US": "Metaling",
+        "pt-BR": "Metaling",
+        "es-ES": "Metaling"
     },
     "qmfYCA": {
-        "en": "Marin",
-        "pt": "Marin",
-        "es": "Marin"
+        "en-US": "Marin",
+        "pt-BR": "Marin",
+        "es-ES": "Marin"
     },
     "q2fYCA": {
-        "en": "Poporing",
-        "pt": "Poporing",
-        "es": "Poporing"
+        "en-US": "Poporing",
+        "pt-BR": "Poporing",
+        "es-ES": "Poporing"
     },
     "rGfYCA": {
-        "en": "Drops",
-        "pt": "Drops",
-        "es": "Drops"
+        "en-US": "Drops",
+        "pt-BR": "Drops",
+        "es-ES": "Drops"
     },
     "rWfYCA": {
-        "en": "All monsters on the 57th level have been defeated.",
-        "pt": "Todos os monstros no 57º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel57 fueron derrotados."
+        "en-US": "All monsters on the 57th level have been defeated.",
+        "pt-BR": "Todos os monstros no 57º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel57 fueron derrotados."
     },
     "rmfYCA": {
-        "en": "Remaining Monsters on 57th Level - {0}",
-        "pt": "Monstros restantes no 57º andar - {0}",
-        "es": "Monstruos restantes del nivel57: {0}."
+        "en-US": "Remaining Monsters on 57th Level - {0}",
+        "pt-BR": "Monstros restantes no 57º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel57: {0}."
     },
     "r2fYCA": {
-        "en": "Phen Dark",
-        "pt": "Fendark",
-        "es": "Phen Dark"
+        "en-US": "Phen Dark",
+        "pt-BR": "Fendark",
+        "es-ES": "Phen Dark"
     },
     "sGfYCA": {
-        "en": "Rybio",
-        "pt": "Rybio",
-        "es": "Rybio"
+        "en-US": "Rybio",
+        "pt-BR": "Rybio",
+        "es-ES": "Rybio"
     },
     "sWfYCA": {
-        "en": "Zombie Prisoner",
-        "pt": "Zumbi Prisioneiro",
-        "es": "Zombie Prisoner"
+        "en-US": "Zombie Prisoner",
+        "pt-BR": "Zumbi Prisioneiro",
+        "es-ES": "Zombie Prisoner"
     },
     "smfYCA": {
-        "en": "Skel Prisoner",
-        "pt": "Esqueleto Prisioneiro",
-        "es": "Skel Prisoner"
+        "en-US": "Skel Prisoner",
+        "pt-BR": "Esqueleto Prisioneiro",
+        "es-ES": "Skel Prisoner"
     },
     "s2fYCA": {
-        "en": "Injustice",
-        "pt": "Injustiçado",
-        "es": "Injustice"
+        "en-US": "Injustice",
+        "pt-BR": "Injustiçado",
+        "es-ES": "Injustice"
     },
     "tGfYCA": {
-        "en": "All monsters on the 58th level have been defeated.",
-        "pt": "Todos os monstros no 58º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel58 fueron derrotados."
+        "en-US": "All monsters on the 58th level have been defeated.",
+        "pt-BR": "Todos os monstros no 58º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel58 fueron derrotados."
     },
     "tWfYCA": {
-        "en": "Remaining Monsters on 58th Level - {0}",
-        "pt": "Monstros restantes no 58º andar - {0}",
-        "es": "Monstruos restantes del nivel58: {0}."
+        "en-US": "Remaining Monsters on 58th Level - {0}",
+        "pt-BR": "Monstros restantes no 58º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel58: {0}."
     },
     "tmfYCA": {
-        "en": "Ancient Mimic",
-        "pt": "Mímico Antigo",
-        "es": "Ancient Mimic"
+        "en-US": "Ancient Mimic",
+        "pt-BR": "Mímico Antigo",
+        "es-ES": "Ancient Mimic"
     },
     "t2fYCA": {
-        "en": "Mimic",
-        "pt": "Mímico",
-        "es": "Mimic"
+        "en-US": "Mimic",
+        "pt-BR": "Mímico",
+        "es-ES": "Mimic"
     },
     "uGfYCA": {
-        "en": "Myst Case",
-        "pt": "Presente",
-        "es": "Myst Case"
+        "en-US": "Myst Case",
+        "pt-BR": "Presente",
+        "es-ES": "Myst Case"
     },
     "uWfYCA": {
-        "en": "All monsters on the 59th level have been defeated.",
-        "pt": "Todos os monstros no 59º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel59 fueron derrotados."
+        "en-US": "All monsters on the 59th level have been defeated.",
+        "pt-BR": "Todos os monstros no 59º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel59 fueron derrotados."
     },
     "umfYCA": {
-        "en": "Remaining Monsters on 59th Level - {0}",
-        "pt": "Monstros restantes no 59º andar - {0}",
-        "es": "Monstruos restantes del nivel59: {0}."
+        "en-US": "Remaining Monsters on 59th Level - {0}",
+        "pt-BR": "Monstros restantes no 59º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel59: {0}."
     },
     "u2fYCA": {
-        "en": "Egnigem Cenia",
-        "pt": "Egnigem Cenia",
-        "es": "Egnigem Cenia"
+        "en-US": "Egnigem Cenia",
+        "pt-BR": "Egnigem Cenia",
+        "es-ES": "Egnigem Cenia"
     },
     "vGfYCA": {
-        "en": "Doppelganger",
-        "pt": "Doppelganger",
-        "es": "Doppelganger"
+        "en-US": "Doppelganger",
+        "pt-BR": "Doppelganger",
+        "es-ES": "Doppelganger"
     },
     "vWfYCA": {
-        "en": "Armeyer Dinze",
-        "pt": "Armeyer Dinze",
-        "es": "Armeyer Dinze"
+        "en-US": "Armeyer Dinze",
+        "pt-BR": "Armeyer Dinze",
+        "es-ES": "Armeyer Dinze"
     },
     "vmfYCA": {
-        "en": "Wickebine Tres",
-        "pt": "Wickebine Tres",
-        "es": "Wickebine Tres"
+        "en-US": "Wickebine Tres",
+        "pt-BR": "Wickebine Tres",
+        "es-ES": "Wickebine Tres"
     },
     "v2fYCA": {
-        "en": "Laurell Weinder",
-        "pt": "Laurell Weinder",
-        "es": "Laurell Weinder"
+        "en-US": "Laurell Weinder",
+        "pt-BR": "Laurell Weinder",
+        "es-ES": "Laurell Weinder"
     },
     "wGfYCA": {
-        "en": "Kavach Icarus",
-        "pt": "Kavach Ícaro",
-        "es": "Kavach Icarus"
+        "en-US": "Kavach Icarus",
+        "pt-BR": "Kavach Ícaro",
+        "es-ES": "Kavach Icarus"
     },
     "wWfYCA": {
-        "en": "Errende Ebecee",
-        "pt": "Errende Ebecee",
-        "es": "Errende Ebecee"
+        "en-US": "Errende Ebecee",
+        "pt-BR": "Errende Ebecee",
+        "es-ES": "Errende Ebecee"
     },
     "wmfYCA": {
-        "en": "All monsters on the 60th level have been defeated.",
-        "pt": "Todos os monstros no 60º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel60 fueron derrotados."
+        "en-US": "All monsters on the 60th level have been defeated.",
+        "pt-BR": "Todos os monstros no 60º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel60 fueron derrotados."
     },
     "w2fYCA": {
-        "en": "Remaining Monsters on 60th Level - {0}",
-        "pt": "Monstros restantes no 60º andar - {0}",
-        "es": "Monstruos restantes del nivel60: {0}."
+        "en-US": "Remaining Monsters on 60th Level - {0}",
+        "pt-BR": "Monstros restantes no 60º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel60: {0}."
     },
     "xGfYCA": {
-        "en": "Agav",
-        "pt": "Agav",
-        "es": "Agav"
+        "en-US": "Agav",
+        "pt-BR": "Agav",
+        "es-ES": "Agav"
     },
     "xWfYCA": {
-        "en": "Echio",
-        "pt": "Echio",
-        "es": "Echio"
+        "en-US": "Echio",
+        "pt-BR": "Echio",
+        "es-ES": "Echio"
     },
     "xmfYCA": {
-        "en": "Isilla",
-        "pt": "Isilla",
-        "es": "Isilla"
+        "en-US": "Isilla",
+        "pt-BR": "Isilla",
+        "es-ES": "Isilla"
     },
     "x2fYCA": {
-        "en": "Mobster",
-        "pt": "Yakuza",
-        "es": "Mobster"
+        "en-US": "Mobster",
+        "pt-BR": "Yakuza",
+        "es-ES": "Mobster"
     },
     "yGfYCA": {
-        "en": "Pasana",
-        "pt": "Pasana",
-        "es": "Pasana"
+        "en-US": "Pasana",
+        "pt-BR": "Pasana",
+        "es-ES": "Pasana"
     },
     "yWfYCA": {
-        "en": "Vanberk",
-        "pt": "Vanberk",
-        "es": "Vanberk"
+        "en-US": "Vanberk",
+        "pt-BR": "Vanberk",
+        "es-ES": "Vanberk"
     },
     "ymfYCA": {
-        "en": "All monsters on the 61st level have been defeated.",
-        "pt": "Todos os monstros no 61º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel61 fueron derrotados."
+        "en-US": "All monsters on the 61st level have been defeated.",
+        "pt-BR": "Todos os monstros no 61º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel61 fueron derrotados."
     },
     "y2fYCA": {
-        "en": "Remaining Monsters on 61st Level - {0}",
-        "pt": "Monstros restantes no 61º andar - {0}",
-        "es": "Monstruos restantes del nivel61: {0}."
+        "en-US": "Remaining Monsters on 61st Level - {0}",
+        "pt-BR": "Monstros restantes no 61º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel61: {0}."
     },
     "zGfYCA": {
-        "en": "Wanderer",
-        "pt": "Andarilho",
-        "es": "Wanderer"
+        "en-US": "Wanderer",
+        "pt-BR": "Andarilho",
+        "es-ES": "Wanderer"
     },
     "zWfYCA": {
-        "en": "All monsters on the 62nd level have been defeated.",
-        "pt": "Todos os monstros no 62º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel62 fueron derrotados."
+        "en-US": "All monsters on the 62nd level have been defeated.",
+        "pt-BR": "Todos os monstros no 62º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel62 fueron derrotados."
     },
     "zmfYCA": {
-        "en": "Remaining Monsters on 62nd Level - {0}",
-        "pt": "Monstros restantes no 62º andar - {0}",
-        "es": "Monstruos restantes del nivel62: {0}."
+        "en-US": "Remaining Monsters on 62nd Level - {0}",
+        "pt-BR": "Monstros restantes no 62º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel62: {0}."
     },
     "z2fYCA": {
-        "en": "Ragged Zombie",
-        "pt": "Zumbi Dilacerado",
-        "es": "Ragged Zombie"
+        "en-US": "Ragged Zombie",
+        "pt-BR": "Zumbi Dilacerado",
+        "es-ES": "Ragged Zombie"
     },
     "0GfYCA": {
-        "en": "Zombie Master",
-        "pt": "Zumbi Mestre",
-        "es": "Zombie Master"
+        "en-US": "Zombie Master",
+        "pt-BR": "Zumbi Mestre",
+        "es-ES": "Zombie Master"
     },
     "0WfYCA": {
-        "en": "Orc Zombie",
-        "pt": "Orc Zumbi",
-        "es": "Orc Zombie"
+        "en-US": "Orc Zombie",
+        "pt-BR": "Orc Zumbi",
+        "es-ES": "Orc Zombie"
     },
     "0mfYCA": {
-        "en": "Zombie",
-        "pt": "Zumbi",
-        "es": "Zombie"
+        "en-US": "Zombie",
+        "pt-BR": "Zumbi",
+        "es-ES": "Zombie"
     },
     "02fYCA": {
-        "en": "All monsters on the 63rd level have been defeated.",
-        "pt": "Todos os monstros no 63º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel63 fueron derrotados."
+        "en-US": "All monsters on the 63rd level have been defeated.",
+        "pt-BR": "Todos os monstros no 63º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel63 fueron derrotados."
     },
     "1GfYCA": {
-        "en": "Remaining Monsters on 63rd Level - {0}",
-        "pt": "Monstros restantes no 63º andar - {0}",
-        "es": "Monstruos restantes del nivel63: {0}."
+        "en-US": "Remaining Monsters on 63rd Level - {0}",
+        "pt-BR": "Monstros restantes no 63º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel63: {0}."
     },
     "1WfYCA": {
-        "en": "Ungoliant",
-        "pt": "Ungoliant",
-        "es": "Ungoliant"
+        "en-US": "Ungoliant",
+        "pt-BR": "Ungoliant",
+        "es-ES": "Ungoliant"
     },
     "1mfYCA": {
-        "en": "Ancient Worm",
-        "pt": "Verme Ancião",
-        "es": "Ancient Worm"
+        "en-US": "Ancient Worm",
+        "pt-BR": "Verme Ancião",
+        "es-ES": "Ancient Worm"
     },
     "12fYCA": {
-        "en": "Caterpillar",
-        "pt": "Lagarta",
-        "es": "Caterpillar"
+        "en-US": "Caterpillar",
+        "pt-BR": "Lagarta",
+        "es-ES": "Caterpillar"
     },
     "2GfYCA": {
-        "en": "Creamy Fear",
-        "pt": "Creamy Ameaçador",
-        "es": "Creamy Fear"
+        "en-US": "Creamy Fear",
+        "pt-BR": "Creamy Ameaçador",
+        "es-ES": "Creamy Fear"
     },
     "2WfYCA": {
-        "en": "Killer Mantis",
-        "pt": "Mantis Assassino",
-        "es": "Killer Mantis"
+        "en-US": "Killer Mantis",
+        "pt-BR": "Mantis Assassino",
+        "es-ES": "Killer Mantis"
     },
     "2mfYCA": {
-        "en": "Giant Honet",
-        "pt": "Zangão Gigante",
-        "es": "Giant Honet"
+        "en-US": "Giant Honet",
+        "pt-BR": "Zangão Gigante",
+        "es-ES": "Giant Honet"
     },
     "22fYCA": {
-        "en": "All monsters on the 64th level have been defeated.",
-        "pt": "Todos os monstros no 64º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel64 fueron derrotados."
+        "en-US": "All monsters on the 64th level have been defeated.",
+        "pt-BR": "Todos os monstros no 64º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel64 fueron derrotados."
     },
     "3GfYCA": {
-        "en": "Remaining Monsters on 64th Level - {0}",
-        "pt": "Monstros restantes no 64º andar - {0}",
-        "es": "Monstruos restantes del nivel64: {0}."
+        "en-US": "Remaining Monsters on 64th Level - {0}",
+        "pt-BR": "Monstros restantes no 64º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel64: {0}."
     },
     "3WfYCA": {
-        "en": "Atroce",
-        "pt": "Atroce",
-        "es": "Atroce"
+        "en-US": "Atroce",
+        "pt-BR": "Atroce",
+        "es-ES": "Atroce"
     },
     "3mfYCA": {
-        "en": "Galion",
-        "pt": "Galion",
-        "es": "Galion"
+        "en-US": "Galion",
+        "pt-BR": "Galion",
+        "es-ES": "Galion"
     },
     "32fYCA": {
-        "en": "All monsters on the 65th level have been defeated.",
-        "pt": "Todos os monstros no 65º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel65 fueron derrotados."
+        "en-US": "All monsters on the 65th level have been defeated.",
+        "pt-BR": "Todos os monstros no 65º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel65 fueron derrotados."
     },
     "4GfYCA": {
-        "en": "Remaining Monsters on 65th Level - {0}",
-        "pt": "Monstros restantes no 65º andar - {0}",
-        "es": "Monstruos restantes del nivel65: {0}."
+        "en-US": "Remaining Monsters on 65th Level - {0}",
+        "pt-BR": "Monstros restantes no 65º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel65: {0}."
     },
     "4WfYCA": {
-        "en": "Incubus",
-        "pt": "Incubus",
-        "es": "Incubus"
+        "en-US": "Incubus",
+        "pt-BR": "Incubus",
+        "es-ES": "Incubus"
     },
     "4mfYCA": {
-        "en": "Aliot",
-        "pt": "Aliot",
-        "es": "Aliot"
+        "en-US": "Aliot",
+        "pt-BR": "Aliot",
+        "es-ES": "Aliot"
     },
     "42fYCA": {
-        "en": "All monsters on the 66th level have been defeated.",
-        "pt": "Todos os monstros no 66º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel66 fueron derrotados."
+        "en-US": "All monsters on the 66th level have been defeated.",
+        "pt-BR": "Todos os monstros no 66º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel66 fueron derrotados."
     },
     "5GfYCA": {
-        "en": "Remaining Monsters on 66th Level - {0}",
-        "pt": "Monstros restantes no 66º andar - {0}",
-        "es": "Monstruos restantes del nivel66: {0}."
+        "en-US": "Remaining Monsters on 66th Level - {0}",
+        "pt-BR": "Monstros restantes no 66º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel66: {0}."
     },
     "5WfYCA": {
-        "en": "Acidus",
-        "pt": "Acidus",
-        "es": "Acidus"
+        "en-US": "Acidus",
+        "pt-BR": "Acidus",
+        "es-ES": "Acidus"
     },
     "5mfYCA": {
-        "en": "Acidus",
-        "pt": "Acidus",
-        "es": "Acidus"
+        "en-US": "Acidus",
+        "pt-BR": "Acidus",
+        "es-ES": "Acidus"
     },
     "52fYCA": {
-        "en": "Deleter",
-        "pt": "Deletério",
-        "es": "Deleter"
+        "en-US": "Deleter",
+        "pt-BR": "Deletério",
+        "es-ES": "Deleter"
     },
     "6GfYCA": {
-        "en": "Mutant Dragon",
-        "pt": "Dragão Mutante",
-        "es": "Mutant Dragon"
+        "en-US": "Mutant Dragon",
+        "pt-BR": "Dragão Mutante",
+        "es-ES": "Mutant Dragon"
     },
     "6WfYCA": {
-        "en": "Petite",
-        "pt": "Petite",
-        "es": "Petite"
+        "en-US": "Petite",
+        "pt-BR": "Petite",
+        "es-ES": "Petite"
     },
     "6mfYCA": {
-        "en": "All monsters on the 67th level have been defeated.",
-        "pt": "Todos os monstros no 67º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel67 fueron derrotados."
+        "en-US": "All monsters on the 67th level have been defeated.",
+        "pt-BR": "Todos os monstros no 67º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel67 fueron derrotados."
     },
     "62fYCA": {
-        "en": "Remaining Monsters on 67th Level - {0}",
-        "pt": "Monstros restantes no 67º andar - {0}",
-        "es": "Monstruos restantes del nivel67: {0}."
+        "en-US": "Remaining Monsters on 67th Level - {0}",
+        "pt-BR": "Monstros restantes no 67º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel67: {0}."
     },
     "7GfYCA": {
-        "en": "Lava Golem",
-        "pt": "Golem de Lava",
-        "es": "Lava Golem"
+        "en-US": "Lava Golem",
+        "pt-BR": "Golem de Lava",
+        "es-ES": "Lava Golem"
     },
     "7WfYCA": {
-        "en": "Stalactic Golem",
-        "pt": "Golem Estalactítico",
-        "es": "Stalactic Golem"
+        "en-US": "Stalactic Golem",
+        "pt-BR": "Golem Estalactítico",
+        "es-ES": "Stalactic Golem"
     },
     "7mfYCA": {
-        "en": "Wooden Golem",
-        "pt": "Golem de Madeira",
-        "es": "Wooden Golem"
+        "en-US": "Wooden Golem",
+        "pt-BR": "Golem de Madeira",
+        "es-ES": "Wooden Golem"
     },
     "72fYCA": {
-        "en": "Golem",
-        "pt": "Golem",
-        "es": "Golem"
+        "en-US": "Golem",
+        "pt-BR": "Golem",
+        "es-ES": "Golem"
     },
     "8GfYCA": {
-        "en": "All monsters on the 68th level have been defeated.",
-        "pt": "Todos os monstros no 68º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel68 fueron derrotados."
+        "en-US": "All monsters on the 68th level have been defeated.",
+        "pt-BR": "Todos os monstros no 68º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel68 fueron derrotados."
     },
     "8WfYCA": {
-        "en": "Remaining Monsters on 68th Level - {0}",
-        "pt": "Monstros restantes no 68º andar - {0}",
-        "es": "Monstruos restantes del nivel68: {0}."
+        "en-US": "Remaining Monsters on 68th Level - {0}",
+        "pt-BR": "Monstros restantes no 68º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel68: {0}."
     },
     "8mfYCA": {
-        "en": "Dame of Sentinel",
-        "pt": "Dama da Guarda",
-        "es": "Dame of Sentinel"
+        "en-US": "Dame of Sentinel",
+        "pt-BR": "Dama da Guarda",
+        "es-ES": "Dame of Sentinel"
     },
     "82fYCA": {
-        "en": "Mistress of Shelter",
-        "pt": "Senhora do Abrigo",
-        "es": "Mistress of Shelter"
+        "en-US": "Mistress of Shelter",
+        "pt-BR": "Senhora do Abrigo",
+        "es-ES": "Mistress of Shelter"
     },
     "9GfYCA": {
-        "en": "Baroness of Retribution",
-        "pt": "Baronesa da Retribuição",
-        "es": "Baroness of Retribution"
+        "en-US": "Baroness of Retribution",
+        "pt-BR": "Baronesa da Retribuição",
+        "es-ES": "Baroness of Retribution"
     },
     "9WfYCA": {
-        "en": "Lady Solace",
-        "pt": "Senhora do Conforto",
-        "es": "Lady Solace"
+        "en-US": "Lady Solace",
+        "pt-BR": "Senhora do Conforto",
+        "es-ES": "Lady Solace"
     },
     "9mfYCA": {
-        "en": "False Angel",
-        "pt": "Anjo Fajuto",
-        "es": "False Angel"
+        "en-US": "False Angel",
+        "pt-BR": "Anjo Fajuto",
+        "es-ES": "False Angel"
     },
     "92fYCA": {
-        "en": "All monsters on the 69th level have been defeated.",
-        "pt": "Todos os monstros no 69º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel69 fueron derrotados."
+        "en-US": "All monsters on the 69th level have been defeated.",
+        "pt-BR": "Todos os monstros no 69º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel69 fueron derrotados."
     },
     "+GfYCA": {
-        "en": "Remaining Monsters on 69th Level - {0}",
-        "pt": "Monstros restantes no 69º andar - {0}",
-        "es": "Monstruos restantes del nivel69: {0}."
+        "en-US": "Remaining Monsters on 69th Level - {0}",
+        "pt-BR": "Monstros restantes no 69º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel69: {0}."
     },
     "+WfYCA": {
-        "en": "Orc Hero",
-        "pt": "Orc Herói",
-        "es": "Orc Hero"
+        "en-US": "Orc Hero",
+        "pt-BR": "Orc Herói",
+        "es-ES": "Orc Hero"
     },
     "+mfYCA": {
-        "en": "Orc Lord",
-        "pt": "Senhor dos Orcs",
-        "es": "Orc Lord"
+        "en-US": "Orc Lord",
+        "pt-BR": "Senhor dos Orcs",
+        "es-ES": "Orc Lord"
     },
     "+2fYCA": {
-        "en": "Orc Baby",
-        "pt": "Filhote de Orc",
-        "es": "Orc Baby"
+        "en-US": "Orc Baby",
+        "pt-BR": "Filhote de Orc",
+        "es-ES": "Orc Baby"
     },
     "/GfYCA": {
-        "en": "All monsters on the 70th level have been defeated.",
-        "pt": "Todos os monstros no 70º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel70 fueron derrotados."
+        "en-US": "All monsters on the 70th level have been defeated.",
+        "pt-BR": "Todos os monstros no 70º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel70 fueron derrotados."
     },
     "/WfYCA": {
-        "en": "Remaining Monsters on 70th Level - {0}",
-        "pt": "Monstros restantes no 70º andar - {0}",
-        "es": "Monstruos restantes del nivel70: {0}."
+        "en-US": "Remaining Monsters on 70th Level - {0}",
+        "pt-BR": "Monstros restantes no 70º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel70: {0}."
     },
     "/mfYCA": {
-        "en": "Succubus",
-        "pt": "Succubus",
-        "es": "Succubus"
+        "en-US": "Succubus",
+        "pt-BR": "Succubus",
+        "es-ES": "Succubus"
     },
     "/2fYCA": {
-        "en": "Nightmare Terror",
-        "pt": "Pesadelo Sombrio",
-        "es": "Nightmare Terror"
+        "en-US": "Nightmare Terror",
+        "pt-BR": "Pesadelo Sombrio",
+        "es-ES": "Nightmare Terror"
     },
     "AGjYCA": {
-        "en": "Nightmare",
-        "pt": "Pesadelo",
-        "es": "Nightmare"
+        "en-US": "Nightmare",
+        "pt-BR": "Pesadelo",
+        "es-ES": "Nightmare"
     },
     "AWjYCA": {
-        "en": "All monsters on the 71st level have been defeated.",
-        "pt": "Todos os monstros no 71º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel71 fueron derrotados."
+        "en-US": "All monsters on the 71st level have been defeated.",
+        "pt-BR": "Todos os monstros no 71º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel71 fueron derrotados."
     },
     "AmjYCA": {
-        "en": "Remaining Monsters on 71st Level - {0}",
-        "pt": "Monstros restantes no 71º andar - {0}",
-        "es": "Monstruos restantes del nivel71: {0}."
+        "en-US": "Remaining Monsters on 71st Level - {0}",
+        "pt-BR": "Monstros restantes no 71º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel71: {0}."
     },
     "A2jYCA": {
-        "en": "Margaretha Sorin",
-        "pt": "Margaretha Sorin",
-        "es": "Margaretha Sorin"
+        "en-US": "Margaretha Sorin",
+        "pt-BR": "Margaretha Sorin",
+        "es-ES": "Margaretha Sorin"
     },
     "BGjYCA": {
-        "en": "Permeter",
-        "pt": "Batedor",
-        "es": "Permeter"
+        "en-US": "Permeter",
+        "pt-BR": "Batedor",
+        "es-ES": "Permeter"
     },
     "BWjYCA": {
-        "en": "Enchanted Peach Tree",
-        "pt": "Pessegueira Encantada",
-        "es": "Enchanted Peach Tree"
+        "en-US": "Enchanted Peach Tree",
+        "pt-BR": "Pessegueira Encantada",
+        "es-ES": "Enchanted Peach Tree"
     },
     "BmjYCA": {
-        "en": "All monsters on the 72nd level have been defeated.",
-        "pt": "Todos os monstros no 72º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel72 fueron derrotados."
+        "en-US": "All monsters on the 72nd level have been defeated.",
+        "pt-BR": "Todos os monstros no 72º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel72 fueron derrotados."
     },
     "B2jYCA": {
-        "en": "Remaining Monsters on 72nd Level - {0}",
-        "pt": "Monstros restantes no 72º andar - {0}",
-        "es": "Monstruos restantes del nivel72: {0}."
+        "en-US": "Remaining Monsters on 72nd Level - {0}",
+        "pt-BR": "Monstros restantes no 72º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel72: {0}."
     },
     "CGjYCA": {
-        "en": "Loli Ruri",
-        "pt": "Loli Ruri",
-        "es": "Loli Ruri"
+        "en-US": "Loli Ruri",
+        "pt-BR": "Loli Ruri",
+        "es-ES": "Loli Ruri"
     },
     "CWjYCA": {
-        "en": "Aliza",
-        "pt": "Aliza",
-        "es": "Aliza"
+        "en-US": "Aliza",
+        "pt-BR": "Aliza",
+        "es-ES": "Aliza"
     },
     "CmjYCA": {
-        "en": "Zealotus",
-        "pt": "Zealotus",
-        "es": "Zealotus"
+        "en-US": "Zealotus",
+        "pt-BR": "Zealotus",
+        "es-ES": "Zealotus"
     },
     "C2jYCA": {
-        "en": "Alice",
-        "pt": "Alice",
-        "es": "Alice"
+        "en-US": "Alice",
+        "pt-BR": "Alice",
+        "es-ES": "Alice"
     },
     "DGjYCA": {
-        "en": "Green Maiden",
-        "pt": "Chung E",
-        "es": "Doncella Verde"
+        "en-US": "Green Maiden",
+        "pt-BR": "Chung E",
+        "es-ES": "Doncella Verde"
     },
     "DWjYCA": {
-        "en": "All monsters on the 73rd level have been defeated.",
-        "pt": "Todos os monstros no 73º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel73 fueron derrotados."
+        "en-US": "All monsters on the 73rd level have been defeated.",
+        "pt-BR": "Todos os monstros no 73º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel73 fueron derrotados."
     },
     "DmjYCA": {
-        "en": "Remaining Monsters on 73rd Level - {0}",
-        "pt": "Monstros restantes no 73º andar - {0}",
-        "es": "Monstruos restantes del nivel73: {0}."
+        "en-US": "Remaining Monsters on 73rd Level - {0}",
+        "pt-BR": "Monstros restantes no 73º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel73: {0}."
     },
     "D2jYCA": {
-        "en": "Dimik",
-        "pt": "Dimik",
-        "es": "Dimik"
+        "en-US": "Dimik",
+        "pt-BR": "Dimik",
+        "es-ES": "Dimik"
     },
     "EGjYCA": {
-        "en": "Venatu",
-        "pt": "Venatu",
-        "es": "Venatu"
+        "en-US": "Venatu",
+        "pt-BR": "Venatu",
+        "es-ES": "Venatu"
     },
     "EWjYCA": {
-        "en": "Archdam",
-        "pt": "Archdam",
-        "es": "Archdam"
+        "en-US": "Archdam",
+        "pt-BR": "Archdam",
+        "es-ES": "Archdam"
     },
     "EmjYCA": {
-        "en": "All monsters on the 74th level have been defeated.",
-        "pt": "Todos os monstros no 74º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel74 fueron derrotados."
+        "en-US": "All monsters on the 74th level have been defeated.",
+        "pt-BR": "Todos os monstros no 74º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel74 fueron derrotados."
     },
     "E2jYCA": {
-        "en": "Remaining Monsters on 74th Level - {0}",
-        "pt": "Monstros restantes no 74º andar - {0}",
-        "es": "Monstruos restantes del nivel74: {0}."
+        "en-US": "Remaining Monsters on 74th Level - {0}",
+        "pt-BR": "Monstros restantes no 74º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel74: {0}."
     },
     "FGjYCA": {
-        "en": "Baphomet",
-        "pt": "Bafomé",
-        "es": "Baphomet"
+        "en-US": "Baphomet",
+        "pt-BR": "Bafomé",
+        "es-ES": "Baphomet"
     },
     "FWjYCA": {
-        "en": "Dark Lord",
-        "pt": "Senhor das Trevas",
-        "es": "Señor Oscuro"
+        "en-US": "Dark Lord",
+        "pt-BR": "Senhor das Trevas",
+        "es-ES": "Señor Oscuro"
     },
     "FmjYCA": {
-        "en": "Baphomet Jr.",
-        "pt": "Bafomé Jr.",
-        "es": "Baphomet Jr."
+        "en-US": "Baphomet Jr.",
+        "pt-BR": "Bafomé Jr.",
+        "es-ES": "Baphomet Jr."
     },
     "F2jYCA": {
-        "en": "Dark Illusion",
-        "pt": "Ilusão das Trevas",
-        "es": "Dark Illusion"
+        "en-US": "Dark Illusion",
+        "pt-BR": "Ilusão das Trevas",
+        "es-ES": "Dark Illusion"
     },
     "GGjYCA": {
-        "en": "All monsters on the 75th level have been defeated.",
-        "pt": "Todos os monstros no 75º andar foram derrotados.",
-        "es": "Todos los monstruos del nivel75 fueron derrotados."
+        "en-US": "All monsters on the 75th level have been defeated.",
+        "pt-BR": "Todos os monstros no 75º andar foram derrotados.",
+        "es-ES": "Todos los monstruos del nivel75 fueron derrotados."
     },
     "GWjYCA": {
-        "en": "Remaining Monsters on 75th Level - {0}",
-        "pt": "Monstros restantes no 75º andar - {0}",
-        "es": "Monstruos restantes del nivel75: {0}."
+        "en-US": "Remaining Monsters on 75th Level - {0}",
+        "pt-BR": "Monstros restantes no 75º andar - {0}",
+        "es-ES": "Monstruos restantes del nivel75: {0}."
     },
     "GmjYCA": {
-        "en": "Please enter the password.",
-        "pt": "Por favor, digite a sua senha.",
-        "es": "Introduce la contraseña."
+        "en-US": "Please enter the password.",
+        "pt-BR": "Por favor, digite a sua senha.",
+        "es-ES": "Introduce la contraseña."
     },
     "G2jYCA": {
-        "en": "This NPC manages the tower from the 51st to the 75th levels.\nPlease enter the level number to open.\n(ex: 1F»1, 17F»17)",
-        "pt": "Este NPC cuida do 51º ao 75º andar da torre.\nPor favor, digite o número do nível a ser aberto.\n(ex.: 1º andar » 1; 17º andar » 17)",
-        "es": "Este NPC gestiona la torre desde el nivel 51 al 75.\nIntroduce el número del nivel que deseas abrir.\nPor ejemplo: P1»1, P17»17."
+        "en-US": "This NPC manages the tower from the 51st to the 75th levels.\nPlease enter the level number to open.\n(ex: 1F»1, 17F»17)",
+        "pt-BR": "Este NPC cuida do 51º ao 75º andar da torre.\nPor favor, digite o número do nível a ser aberto.\n(ex.: 1º andar » 1; 17º andar » 17)",
+        "es-ES": "Este NPC gestiona la torre desde el nivel 51 al 75.\nIntroduce el número del nivel que deseas abrir.\nPor ejemplo: P1»1, P17»17."
     },
     "HGjYCA": {
-        "en": "You can only enter a number from 51 to 75.",
-        "pt": "Você só pode digitar um número de 51 a 75",
-        "es": "Solo puedes introducir un número del 51 al 75."
+        "en-US": "You can only enter a number from 51 to 75.",
+        "pt-BR": "Você só pode digitar um número de 51 a 75",
+        "es-ES": "Solo puedes introducir un número del 51 al 75."
     },
     "HWjYCA": {
-        "en": "{0}FGate102tower",
-        "pt": "{0}FGate102tower",
-        "es": "{0}FGate102tower"
+        "en-US": "{0}FGate102tower",
+        "pt-BR": "{0}FGate102tower",
+        "es-ES": "{0}FGate102tower"
     },
     "HmjYCA": {
-        "en": "*** Level {0} is now being opened. ***",
-        "pt": "*** O nível {0} está sendo aberto. ***",
-        "es": "*** El nivel {0} se está abriendo. ***"
+        "en-US": "*** Level {0} is now being opened. ***",
+        "pt-BR": "*** O nível {0} está sendo aberto. ***",
+        "es-ES": "*** El nivel {0} se está abriendo. ***"
     }
 }

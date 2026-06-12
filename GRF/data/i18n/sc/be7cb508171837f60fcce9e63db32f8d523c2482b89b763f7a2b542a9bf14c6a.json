@@ -1,14 +1,14 @@
 {
     "oEjtCw": {
-        "ko": "꽃나무",
-        "en": "Flower Tree",
-        "pt": "Cerejeira",
-        "es": "Árbol de Flores"
+        "ko-KR": "꽃나무",
+        "en-US": "Flower Tree",
+        "pt-BR": "Cerejeira",
+        "es-ES": "Árbol de Flores"
     },
     "oUjtCw": {
-        "ko": "꽃나무의 기운",
-        "en": "The energy of a flower tree",
-        "pt": "Cerejeira",
-        "es": "La energía del árbol de flores"
+        "ko-KR": "꽃나무의 기운",
+        "en-US": "The energy of a flower tree",
+        "pt-BR": "Cerejeira",
+        "es-ES": "La energía del árbol de flores"
     }
 }

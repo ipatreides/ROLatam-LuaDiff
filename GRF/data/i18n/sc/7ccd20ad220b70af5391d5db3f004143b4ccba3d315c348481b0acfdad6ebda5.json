@@ -1,50 +1,50 @@
 {
     "wHy2Bw": {
-        "ko": "리벨리온 대원",
-        "en": "Rebellion Member",
-        "pt": "Guarda da Rebelião",
-        "es": "Guardia de la Rebelión"
+        "ko-KR": "리벨리온 대원",
+        "en-US": "Rebellion Member",
+        "pt-BR": "Guarda da Rebelião",
+        "es-ES": "Guardia de la Rebelión"
     },
     "wXy2Bw": {
-        "ko": "[리벨리온 대원]\n어이, 모험가!\n이쪽이야. 안으로 들여보내주마.",
-        "en": "[Rebellion Member]\nHey, adventurer!\nOver here. I'll let you inside.",
-        "pt": "[Guarda da Rebelião]\nEi, viajante!\nVou deixar você entrar por aqui.",
-        "es": "[Guardia de la Rebelión]\n¡Eh, trotamundos!\nTe dejaré entrar por aquí."
+        "ko-KR": "[리벨리온 대원]\n어이, 모험가!\n이쪽이야. 안으로 들여보내주마.",
+        "en-US": "[Rebellion Member]\nHey, adventurer!\nOver here. I'll let you inside.",
+        "pt-BR": "[Guarda da Rebelião]\nEi, viajante!\nVou deixar você entrar por aqui.",
+        "es-ES": "[Guardia de la Rebelión]\n¡Eh, trotamundos!\nTe dejaré entrar por aquí."
     },
     "wny2Bw": {
-        "ko": "[리벨리온 대원]\n미안하지만 관계자외 출입금지야.\n폐쇄된 곳이라 위험하거든.",
-        "en": "[Rebellion Member]\nSorry, but authorized personnel only.\nIt's a closed area, so it's dangerous.",
-        "pt": "[Guarda da Rebelião]\nSinto muito, mas a entrada é proibida.\nFechamos esse lugar porque é extremamente perigoso.",
-        "es": "[Guardia de la Rebelión]\nLo siento, pero la entrada está prohibida.\nCerramos este lugar porque es extremadamente peligroso."
+        "ko-KR": "[리벨리온 대원]\n미안하지만 관계자외 출입금지야.\n폐쇄된 곳이라 위험하거든.",
+        "en-US": "[Rebellion Member]\nSorry, but authorized personnel only.\nIt's a closed area, so it's dangerous.",
+        "pt-BR": "[Guarda da Rebelião]\nSinto muito, mas a entrada é proibida.\nFechamos esse lugar porque é extremamente perigoso.",
+        "es-ES": "[Guardia de la Rebelión]\nLo siento, pero la entrada está prohibida.\nCerramos este lugar porque es extremadamente peligroso."
     },
     "w3y2Bw": {
-        "ko": "굳게 닫힌문",
-        "en": "Firmly Closed Door",
-        "pt": "Portão Trancado",
-        "es": "Portón Cerrado"
+        "ko-KR": "굳게 닫힌문",
+        "en-US": "Firmly Closed Door",
+        "pt-BR": "Portão Trancado",
+        "es-ES": "Portón Cerrado"
     },
     "xHy2Bw": {
-        "ko": "격벽 너머로 간다.",
-        "en": "Going beyond the barrier.",
-        "pt": "Escalar.",
-        "es": "Escalar."
+        "ko-KR": "격벽 너머로 간다.",
+        "en-US": "Going beyond the barrier.",
+        "pt-BR": "Escalar.",
+        "es-ES": "Escalar."
     },
     "xXy2Bw": {
-        "ko": "그만 둔다.",
-        "en": "I quit.",
-        "pt": "Cancelar.",
-        "es": "Cancelar."
+        "ko-KR": "그만 둔다.",
+        "en-US": "I quit.",
+        "pt-BR": "Cancelar.",
+        "es-ES": "Cancelar."
     },
     "xny2Bw": {
-        "ko": "[루키]\n아아아.. 아직 작업이 덜 끝났어요.\n생각보다 견고하게 잠겨있네요.",
-        "en": "[Rookie]\nAhhh... The work isn't finished yet.\nIt's locked more securely than I expected.",
-        "pt": "[Lukie]\nAh... ainda estamos tentando abrir esse portão.\nA fechadura é mais resistente do que eu achava.",
-        "es": "[Recruta]\nAh… todavía estamos intentando abrir este portón.\nLa cerradura es más resistente de lo que pensaba."
+        "ko-KR": "[루키]\n아아아.. 아직 작업이 덜 끝났어요.\n생각보다 견고하게 잠겨있네요.",
+        "en-US": "[Rookie]\nAhhh... The work isn't finished yet.\nIt's locked more securely than I expected.",
+        "pt-BR": "[Lukie]\nAh... ainda estamos tentando abrir esse portão.\nA fechadura é mais resistente do que eu achava.",
+        "es-ES": "[Recruta]\nAh… todavía estamos intentando abrir este portón.\nLa cerradura es más resistente de lo que pensaba."
     },
     "x3y2Bw": {
-        "ko": "레켄베르 가드: 이 곳은 관계자 외 출입금지입니다.",
-        "en": "Rekenber Guard: This area is off-limits to unauthorized personnel.",
-        "pt": "Guarda da Rekenber: Este lugar é proibido para pessoas não autorizadas.",
-        "es": "Guardia de Rekenber: Este lugar está prohibido para personas no autorizadas."
+        "ko-KR": "레켄베르 가드: 이 곳은 관계자 외 출입금지입니다.",
+        "en-US": "Rekenber Guard: This area is off-limits to unauthorized personnel.",
+        "pt-BR": "Guarda da Rekenber: Este lugar é proibido para pessoas não autorizadas.",
+        "es-ES": "Guardia de Rekenber: Este lugar está prohibido para personas no autorizadas."
     }
 }

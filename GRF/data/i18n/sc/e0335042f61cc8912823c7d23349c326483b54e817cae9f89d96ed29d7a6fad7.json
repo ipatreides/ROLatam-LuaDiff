@@ -1,932 +1,932 @@
 {
     "QBZA": {
-        "en": "Frede",
-        "pt": "Frede",
-        "es": "Brian"
+        "en-US": "Frede",
+        "pt-BR": "Frede",
+        "es-ES": "Brian"
     },
     "QRZA": {
-        "en": "[Frede]\nMoan... moan...",
-        "pt": "[Frede]\n*gemidos*",
-        "es": "[Frede]\nAy… Ayyy…"
+        "en-US": "[Frede]\nMoan... moan...",
+        "pt-BR": "[Frede]\n*gemidos*",
+        "es-ES": "[Frede]\nAy… Ayyy…"
     },
     "QhZA": {
-        "en": "[{0}]\nAre you alright?\nYou don't look well. Do you need help?",
-        "pt": "[{0}]\nVocê está bem? \nVocê não parece bem. Precisa de ajuda?",
-        "es": "[{0}]\n¿Estás bien?\nNo tienes buen aspecto. ¿Necesitas ayuda?"
+        "en-US": "[{0}]\nAre you alright?\nYou don't look well. Do you need help?",
+        "pt-BR": "[{0}]\nVocê está bem? \nVocê não parece bem. Precisa de ajuda?",
+        "es-ES": "[{0}]\n¿Estás bien?\nNo tienes buen aspecto. ¿Necesitas ayuda?"
     },
     "QxZA": {
-        "en": "[Frede]\nAh... thank you.\nMy leg is injured...",
-        "pt": "[Frede]\nAh... Obrigado.\n É por causa da minha perna ferida.",
-        "es": "[Frede]\nAh… Gracias.\nTengo la pierna lastimada…"
+        "en-US": "[Frede]\nAh... thank you.\nMy leg is injured...",
+        "pt-BR": "[Frede]\nAh... Obrigado.\n É por causa da minha perna ferida.",
+        "es-ES": "[Frede]\nAh… Gracias.\nTengo la pierna lastimada…"
     },
     "RBZA": {
-        "en": "[Frede]\nDo you mind helping me get to the building over there?\nI will feel better if I rest a little.",
-        "pt": "[Frede]\nSe importa em me ajudar a chegar àquele prédio ali? \nVou me sentir melhor se descansar um pouco.",
-        "es": "[Frede]\n¿Te importaría ayudarme a llegar al edificio de allá?\nMe sentiré mejor si descanso un poco."
+        "en-US": "[Frede]\nDo you mind helping me get to the building over there?\nI will feel better if I rest a little.",
+        "pt-BR": "[Frede]\nSe importa em me ajudar a chegar àquele prédio ali? \nVou me sentir melhor se descansar um pouco.",
+        "es-ES": "[Frede]\n¿Te importaría ayudarme a llegar al edificio de allá?\nMe sentiré mejor si descanso un poco."
     },
     "RRZA": {
-        "en": "[Frede]\nI'm getting tired. Can we continue talking inside.",
-        "pt": "[Frede]\nEstou ficando cansado. Podemos continuar a conversa lá dentro.",
-        "es": "[Frede]\nMe estoy cansando. ¿Podemos seguir hablando dentro?"
+        "en-US": "[Frede]\nI'm getting tired. Can we continue talking inside.",
+        "pt-BR": "[Frede]\nEstou ficando cansado. Podemos continuar a conversa lá dentro.",
+        "es-ES": "[Frede]\nMe estoy cansando. ¿Podemos seguir hablando dentro?"
     },
     "RhZA": {
-        "en": "[Frede]\nHow is my little favor going?\nWe can have a chat after you are done with it.",
-        "pt": "[Frede]\nComo está indo aquele favor? \nPodemos conversar depois que você terminar.",
-        "es": "[Frede]\n¿Cómo va mi pequeño favor?\nHablemos después de que hayas terminado."
+        "en-US": "[Frede]\nHow is my little favor going?\nWe can have a chat after you are done with it.",
+        "pt-BR": "[Frede]\nComo está indo aquele favor? \nPodemos conversar depois que você terminar.",
+        "es-ES": "[Frede]\n¿Cómo va mi pequeño favor?\nHablemos después de que hayas terminado."
     },
     "RxZA": {
-        "en": "[Frede]\n{0}, the guys said they wanted to meet up together sometime.\nMake sure you clear your schedule.",
-        "pt": "[Frede]\n{0}, o pessoal disse que queria se encontrarem algum momento.\nNão deixe de marcar na agenda!",
-        "es": "[Frede]\nOye, {0}, los chicos dijeron que querían reunirse alguna vez.\nAsegúrate de hacer espacio en tu agenda."
+        "en-US": "[Frede]\n{0}, the guys said they wanted to meet up together sometime.\nMake sure you clear your schedule.",
+        "pt-BR": "[Frede]\n{0}, o pessoal disse que queria se encontrarem algum momento.\nNão deixe de marcar na agenda!",
+        "es-ES": "[Frede]\nOye, {0}, los chicos dijeron que querían reunirse alguna vez.\nAsegúrate de hacer espacio en tu agenda."
     },
     "SBZA": {
-        "en": "[Frede]\nXXXXXXX\nXXXXXXXXX",
-        "pt": "[Frede]\n¢£¡ô¡ñ ¡û \n¡ú¡ö¡ø ¢£ ¡ô",
-        "es": "[Frede]\nXXXXXXX\nXXXXXXXXX"
+        "en-US": "[Frede]\nXXXXXXX\nXXXXXXXXX",
+        "pt-BR": "[Frede]\n¢£¡ô¡ñ ¡û \n¡ú¡ö¡ø ¢£ ¡ô",
+        "es-ES": "[Frede]\nXXXXXXX\nXXXXXXXXX"
     },
     "SRZA": {
-        "en": "[Frede]\nZzz...Zzz...",
-        "pt": "[Frede]\nZzz...Zzz...",
-        "es": "[Frede]\nZzz… Zzz…"
+        "en-US": "[Frede]\nZzz...Zzz...",
+        "pt-BR": "[Frede]\nZzz...Zzz...",
+        "es-ES": "[Frede]\nZzz… Zzz…"
     },
     "ShZA": {
-        "en": "[Frede]\nPhew...\nThank you so much.\nI'm glad I got a shot of ^F57D7DBradium^000000 before it was too late.",
-        "pt": "[Frede]\nUfa...\nMuito obrigado.\nQue bom que tomei uma dose de ^F57D7DBradium^000000 antes que fosse tarde demais.",
-        "es": "[Frede]\nFiu…\nMuchas gracias.\nMe alegro de haber recibido una inyección de ^F57D7DBradium^000000 antes de que fuera demasiado tarde."
+        "en-US": "[Frede]\nPhew...\nThank you so much.\nI'm glad I got a shot of ^F57D7DBradium^000000 before it was too late.",
+        "pt-BR": "[Frede]\nUfa...\nMuito obrigado.\nQue bom que tomei uma dose de ^F57D7DBradium^000000 antes que fosse tarde demais.",
+        "es-ES": "[Frede]\nFiu…\nMuchas gracias.\nMe alegro de haber recibido una inyección de ^F57D7DBradium^000000 antes de que fuera demasiado tarde."
     },
     "SxZA": {
-        "en": "[{0}]\nHuff...Huff...\nI'm glad that you feel better.",
-        "pt": "[{0}]\nUff... Uff...\nQue bom que você está se sentindo melhor.",
-        "es": "[{0}]\nUf… Uf…\nMe alegro de que te sientas mejor."
+        "en-US": "[{0}]\nHuff...Huff...\nI'm glad that you feel better.",
+        "pt-BR": "[{0}]\nUff... Uff...\nQue bom que você está se sentindo melhor.",
+        "es-ES": "[{0}]\nUf… Uf…\nMe alegro de que te sientas mejor."
     },
     "TBZA": {
-        "en": "[Frede]\nOh my!! Why are you sweating so much!\nYou look a little pale too......",
-        "pt": "[Frede]\nMinha nossa!! Por que está suando tanto? \nVocê também está um pouco pálido...",
-        "es": "[Frede]\n¡Santo cielo! ¿Por qué estás sudando tanto?\nY tu aspecto es un poco pálido…"
+        "en-US": "[Frede]\nOh my!! Why are you sweating so much!\nYou look a little pale too......",
+        "pt-BR": "[Frede]\nMinha nossa!! Por que está suando tanto? \nVocê também está um pouco pálido...",
+        "es-ES": "[Frede]\n¡Santo cielo! ¿Por qué estás sudando tanto?\nY tu aspecto es un poco pálido…"
     },
     "TRZA": {
-        "en": "[{0}]\nNo, it's nothing.\nI'm only a little tired, that's all.",
-        "pt": "[{0}]\nNão, não é nada.\nEstou um pouco cansado, é só isso.",
-        "es": "[{0}]\nNo, no es nada.\nSolo es el cansancio."
+        "en-US": "[{0}]\nNo, it's nothing.\nI'm only a little tired, that's all.",
+        "pt-BR": "[{0}]\nNão, não é nada.\nEstou um pouco cansado, é só isso.",
+        "es-ES": "[{0}]\nNo, no es nada.\nSolo es el cansancio."
     },
     "ThZA": {
-        "en": "[Frede]\nHere, sit and eat this.\nThe cats outside gave it to me. It doesn't do much good for Saphas but I heard it's suppose to help you humans.",
-        "pt": "[Frede]\nTome, sente-se e coma isto.\nOs gatos lá fora me deram. Não é muito boa para os Manuks, mas ouvi dizer que pode ajudar vocês, humanos.",
-        "es": "[Frede]\nVen, siéntate y come esto.\nMe lo dieron los gatos de afuera. No les sirve mucho a los saphas, pero dicen que tiene beneficios para los humanos."
+        "en-US": "[Frede]\nHere, sit and eat this.\nThe cats outside gave it to me. It doesn't do much good for Saphas but I heard it's suppose to help you humans.",
+        "pt-BR": "[Frede]\nTome, sente-se e coma isto.\nOs gatos lá fora me deram. Não é muito boa para os Manuks, mas ouvi dizer que pode ajudar vocês, humanos.",
+        "es-ES": "[Frede]\nVen, siéntate y come esto.\nMe lo dieron los gatos de afuera. No les sirve mucho a los saphas, pero dicen que tiene beneficios para los humanos."
     },
     "TxZA": {
-        "en": "[{0}]\nBut the injury on your leg doesn't look new. Why did you come out with a wounded leg?",
-        "pt": "[{0}]\nMas, o ferimento na sua perna não parece ser novo. Como conseguiu sair com uma perna ferida?",
-        "es": "[{0}]\nLa herida que tienes en la pierna no parece reciente. ¿Por qué saliste con una pierna herida?"
+        "en-US": "[{0}]\nBut the injury on your leg doesn't look new. Why did you come out with a wounded leg?",
+        "pt-BR": "[{0}]\nMas, o ferimento na sua perna não parece ser novo. Como conseguiu sair com uma perna ferida?",
+        "es-ES": "[{0}]\nLa herida que tienes en la pierna no parece reciente. ¿Por qué saliste con una pierna herida?"
     },
     "UBZA": {
-        "en": "[Frede]\nI can still move around with this leg and I wanted to help the village.",
-        "pt": "[Frede]\nAinda consigo me mexer com essa perna, e queria ajudar a vila.",
-        "es": "[Frede]\nTodavía puedo moverme con esta pierna y quería ayudar a la aldea."
+        "en-US": "[Frede]\nI can still move around with this leg and I wanted to help the village.",
+        "pt-BR": "[Frede]\nAinda consigo me mexer com essa perna, e queria ajudar a vila.",
+        "es-ES": "[Frede]\nTodavía puedo moverme con esta pierna y quería ayudar a la aldea."
     },
     "URZA": {
-        "en": "[{0}]\nBut you should stay home and recover.",
-        "pt": "[{0}]\nMas, você deveria ficar em casa e se recuperar.",
-        "es": "[{0}]\nPero quizás deberías quedarte en casa y recuperarte."
+        "en-US": "[{0}]\nBut you should stay home and recover.",
+        "pt-BR": "[{0}]\nMas, você deveria ficar em casa e se recuperar.",
+        "es-ES": "[{0}]\nPero quizás deberías quedarte en casa y recuperarte."
     },
     "UhZA": {
-        "en": "[Frede]\nThe fact is, my leg will never recover.\nI can only keep my injury from getting worse.",
-        "pt": "[Frede]\nA verdade é que minha perna nunca vai sarar.\nSó consigo impedir que o ferimento piore.",
-        "es": "[Frede]\nLa verdad es que mi pierna jamás se recuperará.\nSolo puedo evitar que la herida empeore."
+        "en-US": "[Frede]\nThe fact is, my leg will never recover.\nI can only keep my injury from getting worse.",
+        "pt-BR": "[Frede]\nA verdade é que minha perna nunca vai sarar.\nSó consigo impedir que o ferimento piore.",
+        "es-ES": "[Frede]\nLa verdad es que mi pierna jamás se recuperará.\nSolo puedo evitar que la herida empeore."
     },
     "UxZA": {
-        "en": "[Frede]\nBut I'm grateful that I can still move around.\nHa......\nWhen did we start to be afraid of 'death'?",
-        "pt": "[Frede]\nMas, sou grato por ainda conseguir andar.\nHa... \nQuando começamos a temer a 'morte'?",
-        "es": "[Frede]\nPero agradezco poder seguir moviéndome.\nJa…\n¿Cuándo empezamos a tenerle miedo a la muerte?"
+        "en-US": "[Frede]\nBut I'm grateful that I can still move around.\nHa......\nWhen did we start to be afraid of 'death'?",
+        "pt-BR": "[Frede]\nMas, sou grato por ainda conseguir andar.\nHa... \nQuando começamos a temer a 'morte'?",
+        "es-ES": "[Frede]\nPero agradezco poder seguir moviéndome.\nJa…\n¿Cuándo empezamos a tenerle miedo a la muerte?"
     },
     "VBZA": {
-        "en": "[Frede]\nSaphas have never had any 'sicknesses' and we don't die unless there is a terrible accident.",
-        "pt": "[Frede]\nOs Manuks nunca tiveram nenhuma 'doença', e não morríamos a menos que houvesse um acidente terrível.",
-        "es": "[Frede]\nLos saphas nunca hemos tenido enfermedades y no podemos morir a menos que nos ocurra un accidente muy grave."
+        "en-US": "[Frede]\nSaphas have never had any 'sicknesses' and we don't die unless there is a terrible accident.",
+        "pt-BR": "[Frede]\nOs Manuks nunca tiveram nenhuma 'doença', e não morríamos a menos que houvesse um acidente terrível.",
+        "es-ES": "[Frede]\nLos saphas nunca hemos tenido enfermedades y no podemos morir a menos que nos ocurra un accidente muy grave."
     },
     "VRZA": {
-        "en": "[Frede]\nThis is also the reason why we Saphas can maintain a perfect community.\nWe didn't have to be greedy.",
-        "pt": "[Frede]\nEssa também é a razão por nós, Manuks, mantermos uma comunidade perfeita.\nNão precisávamos ser gananciosos.",
-        "es": "[Frede]\nEsa es también la razón por la que los saphas podemos mantener comunidades perfectas.\nNo necesitábamos recurrir a la avaricia."
+        "en-US": "[Frede]\nThis is also the reason why we Saphas can maintain a perfect community.\nWe didn't have to be greedy.",
+        "pt-BR": "[Frede]\nEssa também é a razão por nós, Manuks, mantermos uma comunidade perfeita.\nNão precisávamos ser gananciosos.",
+        "es-ES": "[Frede]\nEsa es también la razón por la que los saphas podemos mantener comunidades perfectas.\nNo necesitábamos recurrir a la avaricia."
     },
     "VhZA": {
-        "en": "[Frede]\nBut suddenly we are hit with this epidemic and many Saphas have lost their loved ones ever since.",
-        "pt": "[Frede]\nMas, de repente, essa epidemia nos afligiu e muitos Manuks perderam seus entes queridos.",
-        "es": "[Frede]\nDe pronto, una epidemia nos azotó y muchos saphas han perdido a sus seres amados desde entonces."
+        "en-US": "[Frede]\nBut suddenly we are hit with this epidemic and many Saphas have lost their loved ones ever since.",
+        "pt-BR": "[Frede]\nMas, de repente, essa epidemia nos afligiu e muitos Manuks perderam seus entes queridos.",
+        "es-ES": "[Frede]\nDe pronto, una epidemia nos azotó y muchos saphas han perdido a sus seres amados desde entonces."
     },
     "VxZA": {
-        "en": "[Frede]\nWe weren't prepared for such a disaster.\nIt was chaos. Nobody knew what to do but watch them die.",
-        "pt": "[Frede]\nNão estávamos preparados para tal desastre.\nFoi o caos. Ninguém sabia o que fazer, a não ser ficar vendo os outros morrerem.",
-        "es": "[Frede]\nNo estábamos preparados para semejante desastre.\nFue un caos total. Nadie sabía qué hacer salvo ver a los nuestros morir."
+        "en-US": "[Frede]\nWe weren't prepared for such a disaster.\nIt was chaos. Nobody knew what to do but watch them die.",
+        "pt-BR": "[Frede]\nNão estávamos preparados para tal desastre.\nFoi o caos. Ninguém sabia o que fazer, a não ser ficar vendo os outros morrerem.",
+        "es-ES": "[Frede]\nNo estábamos preparados para semejante desastre.\nFue un caos total. Nadie sabía qué hacer salvo ver a los nuestros morir."
     },
     "WBZA": {
-        "en": "[Frede]\nIt was worse for us because we never experienced death from getting old.\nI also thought my ^F57D7DStill Friends^000000 would wake up one day.",
-        "pt": "[Frede]\nEra pior para nós, pois nunca soubemos o que é morrer de velhice.\nTambém achei que meus ^F57D7Damigos petrificados^000000 acordariam um dia.",
-        "es": "[Frede]\nFue peor para nosotros porque no conocíamos la muerte por envejecimiento.\nTambién pensaba que mis ^F57D7Damigos inmóviles^000000 despertarían algún día."
+        "en-US": "[Frede]\nIt was worse for us because we never experienced death from getting old.\nI also thought my ^F57D7DStill Friends^000000 would wake up one day.",
+        "pt-BR": "[Frede]\nEra pior para nós, pois nunca soubemos o que é morrer de velhice.\nTambém achei que meus ^F57D7Damigos petrificados^000000 acordariam um dia.",
+        "es-ES": "[Frede]\nFue peor para nosotros porque no conocíamos la muerte por envejecimiento.\nTambién pensaba que mis ^F57D7Damigos inmóviles^000000 despertarían algún día."
     },
     "WRZA": {
-        "en": "[Frede]\nBut after a while, we realized it was a sickness that led to death and started to search for a cure, but the situation was out of control.",
-        "pt": "[Frede]\nMas, depois de algum tempo, percebemos que era uma doença que levava à morte e começamos a procurar uma cura, mas a situação estava fora de controle.",
-        "es": "[Frede]\nAl cabo de un tiempo, descubrimos que la enfermedad provocaba la muerte, así que comenzamos a buscar una cura, pero la situación ya se nos había salido de las manos."
+        "en-US": "[Frede]\nBut after a while, we realized it was a sickness that led to death and started to search for a cure, but the situation was out of control.",
+        "pt-BR": "[Frede]\nMas, depois de algum tempo, percebemos que era uma doença que levava à morte e começamos a procurar uma cura, mas a situação estava fora de controle.",
+        "es-ES": "[Frede]\nAl cabo de un tiempo, descubrimos que la enfermedad provocaba la muerte, así que comenzamos a buscar una cura, pero la situación ya se nos había salido de las manos."
     },
     "WhZA": {
-        "en": "[Frede]\nWe are very advanced in science technology but we lack knowledge in the medical field.",
-        "pt": "[Frede]\nSomos muito avançados na tecnologia científica, mas nos falta conhecimento médico.",
-        "es": "[Frede]\nEstamos muy avanzados en ciencia y tecnología, pero nos faltan conocimientos en el campo médico."
+        "en-US": "[Frede]\nWe are very advanced in science technology but we lack knowledge in the medical field.",
+        "pt-BR": "[Frede]\nSomos muito avançados na tecnologia científica, mas nos falta conhecimento médico.",
+        "es-ES": "[Frede]\nEstamos muy avanzados en ciencia y tecnología, pero nos faltan conocimientos en el campo médico."
     },
     "WxZA": {
-        "en": "[Frede]\nA medicine was completed only after we lost many lives but it isn't enough to completely cure the sickness.",
-        "pt": "[Frede]\nUm remédio foi descoberto somente depois de perdermos muitas vidas, mas ele não cura totalmente a doença.",
-        "es": "[Frede]\nSe logró fabricar un medicamento, pero ya habíamos perdido a muchos de los nuestros, y el medicamento no erradica la enfermedad por completo."
+        "en-US": "[Frede]\nA medicine was completed only after we lost many lives but it isn't enough to completely cure the sickness.",
+        "pt-BR": "[Frede]\nUm remédio foi descoberto somente depois de perdermos muitas vidas, mas ele não cura totalmente a doença.",
+        "es-ES": "[Frede]\nSe logró fabricar un medicamento, pero ya habíamos perdido a muchos de los nuestros, y el medicamento no erradica la enfermedad por completo."
     },
     "XBZA": {
-        "en": "[Frede]\nAs long as I don't forget to take my Bradium, I can keep from getting any worse.",
-        "pt": "[Frede]\nEnquanto eu não esquecer de tomar meu Bradium, consigo não piorar.",
-        "es": "[Frede]\nMientras no olvide tomar mi Bradium, puedo evitar que empeore."
+        "en-US": "[Frede]\nAs long as I don't forget to take my Bradium, I can keep from getting any worse.",
+        "pt-BR": "[Frede]\nEnquanto eu não esquecer de tomar meu Bradium, consigo não piorar.",
+        "es-ES": "[Frede]\nMientras no olvide tomar mi Bradium, puedo evitar que empeore."
     },
     "XRZA": {
-        "en": "[Frede]\nI recently did some ^F57D7Drepair work in the cave next to the village^000000, but I forgot to take Bradium while I was working.",
-        "pt": "[Frede]\nRecentemente, estava fazendo ^F57D7Dreparos na caverna próxima à vila^000000, mas esqueci de tomar Bradium enquanto estava trabalhando.",
-        "es": "[Frede]\nHace poco, estuve trabajando para ^F57D7Dayudar a reparar la cueva que está junto a la aldea^000000, pero olvidé tomar mi Bradium mientras trabajaba."
+        "en-US": "[Frede]\nI recently did some ^F57D7Drepair work in the cave next to the village^000000, but I forgot to take Bradium while I was working.",
+        "pt-BR": "[Frede]\nRecentemente, estava fazendo ^F57D7Dreparos na caverna próxima à vila^000000, mas esqueci de tomar Bradium enquanto estava trabalhando.",
+        "es-ES": "[Frede]\nHace poco, estuve trabajando para ^F57D7Dayudar a reparar la cueva que está junto a la aldea^000000, pero olvidé tomar mi Bradium mientras trabajaba."
     },
     "XhZA": {
-        "en": "[Frede]\nI usually carry extra Bradium with me when I go outside of town for work but you can easily lose sense of time in a cave.",
-        "pt": "[Frede]\nGeralmente, levo Bradium extra comigo quando saio da cidade para trabalhar, mas é fácil perder a noção do tempo em uma caverna.",
-        "es": "[Frede]\nSuelo llevar conmigo Bradium de sobra cuando salgo de la ciudad por trabajo, pero es fácil perder la noción del tiempo en las cuevas."
+        "en-US": "[Frede]\nI usually carry extra Bradium with me when I go outside of town for work but you can easily lose sense of time in a cave.",
+        "pt-BR": "[Frede]\nGeralmente, levo Bradium extra comigo quando saio da cidade para trabalhar, mas é fácil perder a noção do tempo em uma caverna.",
+        "es-ES": "[Frede]\nSuelo llevar conmigo Bradium de sobra cuando salgo de la ciudad por trabajo, pero es fácil perder la noción del tiempo en las cuevas."
     },
     "XxZA": {
-        "en": "[Frede]\n......umm......\n..............",
-        "pt": "[Frede]\n...Hum...\n..............",
-        "es": "[Frede]\nUm…\n.............."
+        "en-US": "[Frede]\n......umm......\n..............",
+        "pt-BR": "[Frede]\n...Hum...\n..............",
+        "es-ES": "[Frede]\nUm…\n.............."
     },
     "YBZA": {
-        "en": "[Frede]\nOh no!!!!!!!!!!!!!!!!\nCome... to think of it....\nMy friends!!!!!!!!!!",
-        "pt": "[Frede]\nOh, não!!!!!!!!!!!!!!\nAgora que me lembrei...\nMeus amigos!!!!!!!!!",
-        "es": "[Frede]\n¡Ay, no!\nAhora que lo pienso…\n¡Mis amigos!"
+        "en-US": "[Frede]\nOh no!!!!!!!!!!!!!!!!\nCome... to think of it....\nMy friends!!!!!!!!!!",
+        "pt-BR": "[Frede]\nOh, não!!!!!!!!!!!!!!\nAgora que me lembrei...\nMeus amigos!!!!!!!!!",
+        "es-ES": "[Frede]\n¡Ay, no!\nAhora que lo pienso…\n¡Mis amigos!"
     },
     "YRZA": {
-        "en": "[Frede]\nI haven't seen my friends who I worked with in the cave.",
-        "pt": "[Frede]\nNão tenho visto meus amigos, com quem trabalhava na caverna.",
-        "es": "[Frede]\nNo he visto a mis amigos con quienes trabajé en la cueva."
+        "en-US": "[Frede]\nI haven't seen my friends who I worked with in the cave.",
+        "pt-BR": "[Frede]\nNão tenho visto meus amigos, com quem trabalhava na caverna.",
+        "es-ES": "[Frede]\nNo he visto a mis amigos con quienes trabajé en la cueva."
     },
     "YhZA": {
-        "en": "[Frede]\nThey have to return to the village once every few days to replenish their Bradium.\nMaybe......they forgot?",
-        "pt": "[Frede]\nEles precisam voltar à vila depois de alguns dias para reabastecer o Bradium.\nSerá que... se esqueceram?",
-        "es": "[Frede]\nTienen que volver a la aldea cada un par de días para reabastecer sus fuentes de Bradium.\n¿Quizás… se les olvidó?"
+        "en-US": "[Frede]\nThey have to return to the village once every few days to replenish their Bradium.\nMaybe......they forgot?",
+        "pt-BR": "[Frede]\nEles precisam voltar à vila depois de alguns dias para reabastecer o Bradium.\nSerá que... se esqueceram?",
+        "es-ES": "[Frede]\nTienen que volver a la aldea cada un par de días para reabastecer sus fuentes de Bradium.\n¿Quizás… se les olvidó?"
     },
     "YxZA": {
-        "en": "[Frede]\nOh.. what should I do...?\nI would run there myself if only my legs would move normally.",
-        "pt": "[Frede]\nOh... O que devo fazer?....\nEu mesmo correria até lá, se minhas pernas se mexessem normalmente.",
-        "es": "[Frede]\nAy, no, ¿qué debo hacer?\nSi mis piernas funcionaran bien, correría yo mismo hasta allá."
+        "en-US": "[Frede]\nOh.. what should I do...?\nI would run there myself if only my legs would move normally.",
+        "pt-BR": "[Frede]\nOh... O que devo fazer?....\nEu mesmo correria até lá, se minhas pernas se mexessem normalmente.",
+        "es-ES": "[Frede]\nAy, no, ¿qué debo hacer?\nSi mis piernas funcionaran bien, correría yo mismo hasta allá."
     },
     "ZBZA": {
-        "en": "[Frede]\nWould you mind visiting the cave to see if my friends are alright?",
-        "pt": "[Frede]\nVocê poderia visitar a caverna para ver se meus amigos estão bem?",
-        "es": "[Frede]\n¿Te puedo pedir que visites la cueva y compruebes que mis amigos están bien?"
+        "en-US": "[Frede]\nWould you mind visiting the cave to see if my friends are alright?",
+        "pt-BR": "[Frede]\nVocê poderia visitar a caverna para ver se meus amigos estão bem?",
+        "es-ES": "[Frede]\n¿Te puedo pedir que visites la cueva y compruebes que mis amigos están bien?"
     },
     "ZRZA": {
-        "en": "Will do.",
-        "pt": "Vou fazer isso.",
-        "es": "Lo haré."
+        "en-US": "Will do.",
+        "pt-BR": "Vou fazer isso.",
+        "es-ES": "Lo haré."
     },
     "ZhZA": {
-        "en": "No can do.",
-        "pt": "Não, não posso.",
-        "es": "No puedo hacerlo."
+        "en-US": "No can do.",
+        "pt-BR": "Não, não posso.",
+        "es-ES": "No puedo hacerlo."
     },
     "ZxZA": {
-        "en": "[Frede]\nThank you so much.\nMy memory is a bit fuzzy since its been a while since I came back to the village,\nbut you will find a ^F57D7Dcave nearby the village with repair work going on^000000.",
-        "pt": "[Frede]\nMuito obrigado.\nMinha memória está meio falha, pois já faz algum tempo desde que voltei à vila.",
-        "es": "[Frede]\nMuchas gracias.\nYa pasó un tiempo desde que volví a la aldea, así que mis recuerdos son un poco borrosos,\npero sé que encontrarás ^F57D7Duna cueva cerca de la aldea donde se están haciendo reparaciones^000000."
+        "en-US": "[Frede]\nThank you so much.\nMy memory is a bit fuzzy since its been a while since I came back to the village,\nbut you will find a ^F57D7Dcave nearby the village with repair work going on^000000.",
+        "pt-BR": "[Frede]\nMuito obrigado.\nMinha memória está meio falha, pois já faz algum tempo desde que voltei à vila.",
+        "es-ES": "[Frede]\nMuchas gracias.\nYa pasó un tiempo desde que volví a la aldea, así que mis recuerdos son un poco borrosos,\npero sé que encontrarás ^F57D7Duna cueva cerca de la aldea donde se están haciendo reparaciones^000000."
     },
     "aBZA": {
-        "en": "[Frede]\nI saw friends leaving the village after returning for more Bradium a few days ago.\nI only hope they are all healthy and well.",
-        "pt": "[Frede]\nMas você vai encontrar ^7D0781uma caverna perto da vila com gente fazendo reparos^000000.",
-        "es": "[Frede]\nHace unos días, vi a algunos amigos saliendo de la aldea tras volver por más Bradium.\nSolo espero que todos estén sanos y salvos."
+        "en-US": "[Frede]\nI saw friends leaving the village after returning for more Bradium a few days ago.\nI only hope they are all healthy and well.",
+        "pt-BR": "[Frede]\nMas você vai encontrar ^7D0781uma caverna perto da vila com gente fazendo reparos^000000.",
+        "es-ES": "[Frede]\nHace unos días, vi a algunos amigos saliendo de la aldea tras volver por más Bradium.\nSolo espero que todos estén sanos y salvos."
     },
     "aRZA": {
-        "en": "[Frede]\nI guess I can't do anything about it.\nBut drag myself there.",
-        "pt": "[Frede]\nHá alguns dias, vi meus amigos saindo da vila depois de voltar para buscar mais Bradium.",
-        "es": "[Frede]\nSupongo que no puedo hacer nada al respecto…\nExcepto arrastrarme hasta allá."
+        "en-US": "[Frede]\nI guess I can't do anything about it.\nBut drag myself there.",
+        "pt-BR": "[Frede]\nHá alguns dias, vi meus amigos saindo da vila depois de voltar para buscar mais Bradium.",
+        "es-ES": "[Frede]\nSupongo que no puedo hacer nada al respecto…\nExcepto arrastrarme hasta allá."
     },
     "ahZA": {
-        "en": "Thank you so much.\nMy memory is a bit fuzzy since its been a while since I came back to the village,\nbut you will find a ^F57D7Dcave nearby the village with repair work going on^000000.",
-        "pt": "[Frede]\nMuito obrigado.\nMinha memória está meio falha, pois já faz algum tempo desde que voltei à vila.",
-        "es": "Muchas gracias.\nYa pasó un tiempo desde que volví a la aldea, así que mis recuerdos son un poco borrosos,\npero sé que encontrarás ^F57D7Duna cueva cerca de la aldea donde se están haciendo reparaciones^000000."
+        "en-US": "Thank you so much.\nMy memory is a bit fuzzy since its been a while since I came back to the village,\nbut you will find a ^F57D7Dcave nearby the village with repair work going on^000000.",
+        "pt-BR": "[Frede]\nMuito obrigado.\nMinha memória está meio falha, pois já faz algum tempo desde que voltei à vila.",
+        "es-ES": "Muchas gracias.\nYa pasó un tiempo desde que volví a la aldea, así que mis recuerdos son un poco borrosos,\npero sé que encontrarás ^F57D7Duna cueva cerca de la aldea donde se están haciendo reparaciones^000000."
     },
     "axZA": {
-        "en": "[Frede]\nI knew they were working all along and forgot to return back to the village.\nThey must have been short on Bradium.",
-        "pt": "[Frede]\nEu sabia que eles estavam trabalhando o tempo todo e se esqueceram de voltar para a vila.\nDevem ter ficado sem Bradium.",
-        "es": "[Frede]\nSabía que estaban trabajando sin descanso y olvidaron volver a la aldea.\nDeben haber estado escasos de Bradium."
+        "en-US": "[Frede]\nI knew they were working all along and forgot to return back to the village.\nThey must have been short on Bradium.",
+        "pt-BR": "[Frede]\nEu sabia que eles estavam trabalhando o tempo todo e se esqueceram de voltar para a vila.\nDevem ter ficado sem Bradium.",
+        "es-ES": "[Frede]\nSabía que estaban trabajando sin descanso y olvidaron volver a la aldea.\nDeben haber estado escasos de Bradium."
     },
     "bBZA": {
-        "en": "[Frede]\nHmmm..",
-        "pt": "[Frede]\nHumm...",
-        "es": "[Frede]\nMmm…"
+        "en-US": "[Frede]\nHmmm..",
+        "pt-BR": "[Frede]\nHumm...",
+        "es-ES": "[Frede]\nMmm…"
     },
     "bRZA": {
-        "en": "[Frede]\nI'm sorry to ask again but can you take some Bradium to my friends?",
-        "pt": "[Frede]\nDesculpe por pedir mais coisas, mas pode levar um pouco de Bradium aos meus amigos?",
-        "es": "[Frede]\nSiento pedírtelo otra vez, pero ¿puedes llevarles un poco de Bradium a mis amigos?"
+        "en-US": "[Frede]\nI'm sorry to ask again but can you take some Bradium to my friends?",
+        "pt-BR": "[Frede]\nDesculpe por pedir mais coisas, mas pode levar um pouco de Bradium aos meus amigos?",
+        "es-ES": "[Frede]\nSiento pedírtelo otra vez, pero ¿puedes llevarles un poco de Bradium a mis amigos?"
     },
     "bhZA": {
-        "en": "[Frede]\nThey may be safe now, but they might forget and fall ill suddenly.",
-        "pt": "[Frede]\nEles podem estar a salvo agora, mas podem acabar esquecendo e adoecer de repente.",
-        "es": "[Frede]\nTal vez ahora estén bien, pero podrían olvidarlo y enfermarse de repente."
+        "en-US": "[Frede]\nThey may be safe now, but they might forget and fall ill suddenly.",
+        "pt-BR": "[Frede]\nEles podem estar a salvo agora, mas podem acabar esquecendo e adoecer de repente.",
+        "es-ES": "[Frede]\nTal vez ahora estén bien, pero podrían olvidarlo y enfermarse de repente."
     },
     "bxZA": {
-        "en": "[Frede]\nAsk ^F57D7DBouy at the building located northwest of the village^000000 and he will give you some refined Bradium.\nI can't thank you enough.",
-        "pt": "[Frede]\nPeça a ^F57D7DBouy no prédio a noroeste da vila^000000, e ele vai lhe dar um pouco de Bradium refinado.\nNem sei como agradecer.",
-        "es": "[Frede]\nHabla ^F57D7Dcon Bouy en el edificio situado al noroeste de la aldea^000000 y él te dará Bradium refinado.\nNo tengo palabras para expresar mi agradecimiento."
+        "en-US": "[Frede]\nAsk ^F57D7DBouy at the building located northwest of the village^000000 and he will give you some refined Bradium.\nI can't thank you enough.",
+        "pt-BR": "[Frede]\nPeça a ^F57D7DBouy no prédio a noroeste da vila^000000, e ele vai lhe dar um pouco de Bradium refinado.\nNem sei como agradecer.",
+        "es-ES": "[Frede]\nHabla ^F57D7Dcon Bouy en el edificio situado al noroeste de la aldea^000000 y él te dará Bradium refinado.\nNo tengo palabras para expresar mi agradecimiento."
     },
     "cBZA": {
-        "en": "[Frede]\nThank you so much.\nMy memory is a bit fuzzy since its been a while since I came back to the village,",
-        "pt": "[Frede]\nMuito obrigado.\nMinha memória está meio falha, pois já faz algum tempo desde que voltei à vila.",
-        "es": "[Frede]\nMuchas gracias.\nYa pasó un tiempo desde que volví a la aldea, así que mis recuerdos son un poco borrosos,"
+        "en-US": "[Frede]\nThank you so much.\nMy memory is a bit fuzzy since its been a while since I came back to the village,",
+        "pt-BR": "[Frede]\nMuito obrigado.\nMinha memória está meio falha, pois já faz algum tempo desde que voltei à vila.",
+        "es-ES": "[Frede]\nMuchas gracias.\nYa pasó un tiempo desde que volví a la aldea, así que mis recuerdos son un poco borrosos,"
     },
     "cRZA": {
-        "en": "[Frede]\nYou can find them in the cave nearby the village with repair work going on.",
-        "pt": "[Frede]\nVocê pode encontrá-los na caverna próxima à vila, onde estão fazendo reparos.",
-        "es": "[Frede]\nLos encontrarás en la cueva cercana a la aldea donde se están llevando a cabo trabajos de reparación."
+        "en-US": "[Frede]\nYou can find them in the cave nearby the village with repair work going on.",
+        "pt-BR": "[Frede]\nVocê pode encontrá-los na caverna próxima à vila, onde estão fazendo reparos.",
+        "es-ES": "[Frede]\nLos encontrarás en la cueva cercana a la aldea donde se están llevando a cabo trabajos de reparación."
     },
     "chZA": {
-        "en": "[Frede]\nI saw friends leaving the village after returning for more Bradium a few days ago.",
-        "pt": "[Frede]\nMas você vai encontrar ^7D0781uma caverna perto da vila com gente fazendo reparos^000000.",
-        "es": "[Frede]\nHace unos días, vi a algunos amigos saliendo de la aldea tras volver por más Bradium."
+        "en-US": "[Frede]\nI saw friends leaving the village after returning for more Bradium a few days ago.",
+        "pt-BR": "[Frede]\nMas você vai encontrar ^7D0781uma caverna perto da vila com gente fazendo reparos^000000.",
+        "es-ES": "[Frede]\nHace unos días, vi a algunos amigos saliendo de la aldea tras volver por más Bradium."
     },
     "cxZA": {
-        "en": "[Frede]\nI hope they are all doing well.\nPlease get back to me once you meet my friends.",
-        "pt": "[Frede]\nEspero que todos estejam bem.\nPor favor, volte para cá depois de encontrar meus amigos.",
-        "es": "[Frede]\nEspero que todos se encuentren bien.\nTe pido que vuelvas conmigo después de hablar con mis amigos."
+        "en-US": "[Frede]\nI hope they are all doing well.\nPlease get back to me once you meet my friends.",
+        "pt-BR": "[Frede]\nEspero que todos estejam bem.\nPor favor, volte para cá depois de encontrar meus amigos.",
+        "es-ES": "[Frede]\nEspero que todos se encuentren bien.\nTe pido que vuelvas conmigo después de hablar con mis amigos."
     },
     "dBZA": {
-        "en": "[Frede]\nAsk the ^F57D7DBouy at the building located northwest of the village^000000 and he will give you some refined Bradium.\nI can't thank you enough.",
-        "pt": "[Frede]\nPeça a ^F57D7DBouy no prédio a noroeste da vila^000000, e ele vai lhe dar um pouco de Bradium refinado.\nNem sei como agradecer.",
-        "es": "[Frede]\nHabla con ^F57D7DBouy en el edificio situado al noroeste de la aldea^000000 y él te dará Bradium refinado.\nNo tengo palabras para expresar mi agradecimiento."
+        "en-US": "[Frede]\nAsk the ^F57D7DBouy at the building located northwest of the village^000000 and he will give you some refined Bradium.\nI can't thank you enough.",
+        "pt-BR": "[Frede]\nPeça a ^F57D7DBouy no prédio a noroeste da vila^000000, e ele vai lhe dar um pouco de Bradium refinado.\nNem sei como agradecer.",
+        "es-ES": "[Frede]\nHabla con ^F57D7DBouy en el edificio situado al noroeste de la aldea^000000 y él te dará Bradium refinado.\nNo tengo palabras para expresar mi agradecimiento."
     },
     "dRZA": {
-        "en": "[Frede]\nSo they are out of Braidum.\nWill they need to wait till other Piom or Galtens return?",
-        "pt": "[Frede]\nEntão, eles estão sem Bradium.\nSerá que vão ter de esperar até que os outros Mineiros ou Gartons voltem?",
-        "es": "[Frede]\nAsí que se les acabó el Bradium…\nMe pregunto si tendrán que esperar hasta que otros pioms o galtens vuelvan…"
+        "en-US": "[Frede]\nSo they are out of Braidum.\nWill they need to wait till other Piom or Galtens return?",
+        "pt-BR": "[Frede]\nEntão, eles estão sem Bradium.\nSerá que vão ter de esperar até que os outros Mineiros ou Gartons voltem?",
+        "es-ES": "[Frede]\nAsí que se les acabó el Bradium…\nMe pregunto si tendrán que esperar hasta que otros pioms o galtens vuelvan…"
     },
     "dhZA": {
-        "en": "[Frede]\nSo they are out of Braidum.\nWill they need to wait till other Piom or Galtens return?.",
-        "pt": "[Frede]\nEntão, eles estão sem Bradium.\nSerá que vão ter de esperar até que os outros Mineiros ou Gartons voltem?",
-        "es": "[Frede]\nAsí que se les acabó el Bradium…\nMe pregunto si tendrán que esperar hasta que otros pioms o galtens vuelvan…"
+        "en-US": "[Frede]\nSo they are out of Braidum.\nWill they need to wait till other Piom or Galtens return?.",
+        "pt-BR": "[Frede]\nEntão, eles estão sem Bradium.\nSerá que vão ter de esperar até que os outros Mineiros ou Gartons voltem?",
+        "es-ES": "[Frede]\nAsí que se les acabó el Bradium…\nMe pregunto si tendrán que esperar hasta que otros pioms o galtens vuelvan…"
     },
     "dxZA": {
-        "en": "[Frede]\nYou have too many kinds of items.\nPlease return after reducing the number of items.",
-        "pt": "[Frede]\nVocê está com muitos tipos de itens.\nPor favor, volte depois de reduzir o número de itens.",
-        "es": "[Frede]\nTienes demasiados tipos de objetos.\nVuelve cuando lleves menos objetos contigo."
+        "en-US": "[Frede]\nYou have too many kinds of items.\nPlease return after reducing the number of items.",
+        "pt-BR": "[Frede]\nVocê está com muitos tipos de itens.\nPor favor, volte depois de reduzir o número de itens.",
+        "es-ES": "[Frede]\nTienes demasiados tipos de objetos.\nVuelve cuando lleves menos objetos contigo."
     },
     "eBZA": {
-        "en": "[Frede]\nYou have too many items.\nPlease return after reducing the weight of your items.",
-        "pt": "[Frede]\nVocê está com itens demais.\nPor favor, volte depois de reduzir o peso dos itens.",
-        "es": "[Frede]\nTienes demasiados objetos.\nVuelve después de reducir un poco el peso que llevas."
+        "en-US": "[Frede]\nYou have too many items.\nPlease return after reducing the weight of your items.",
+        "pt-BR": "[Frede]\nVocê está com itens demais.\nPor favor, volte depois de reduzir o peso dos itens.",
+        "es-ES": "[Frede]\nTienes demasiados objetos.\nVuelve después de reducir un poco el peso que llevas."
     },
     "eRZA": {
-        "en": "[Frede]\n{0} I'm forever in your debt!\nI just came back after meeting my friends!\nTyler needs some medical treatment but everyone else is safe.",
-        "pt": "[Frede]\n{0} , estarei sempre em dívida com você!\nAcabo de voltar, depois de encontrar meus amigos!\nTyler precisa de tratamento médico, mas todos os outros estão bem.",
-        "es": "[Frede]\nEstaré siempre en deuda contigo, {0}.\n¡Acabo de volver de reunirme con mis amigos!\nTyler necesita tratamiento médico, pero todos los demás están a salvo."
+        "en-US": "[Frede]\n{0} I'm forever in your debt!\nI just came back after meeting my friends!\nTyler needs some medical treatment but everyone else is safe.",
+        "pt-BR": "[Frede]\n{0} , estarei sempre em dívida com você!\nAcabo de voltar, depois de encontrar meus amigos!\nTyler precisa de tratamento médico, mas todos os outros estão bem.",
+        "es-ES": "[Frede]\nEstaré siempre en deuda contigo, {0}.\n¡Acabo de volver de reunirme con mis amigos!\nTyler necesita tratamiento médico, pero todos los demás están a salvo."
     },
     "ehZA": {
-        "en": "[Frede]\nI don't even want to imagine what could have happened if you, {0}, weren't here to help.\nI don't want to lose any more friends.",
-        "pt": "[Frede]\nNem quero imaginar o que teria acontecido se você, {0}, não estivesse aqui para ajudar.\nNão quero perder mais nenhum amigo.",
-        "es": "[Frede]\nNo quiero ni imaginar lo que pudo haber sucedido si no hubieras estado aquí para ayudarnos, {0}.\nNo quiero perder más amigos."
+        "en-US": "[Frede]\nI don't even want to imagine what could have happened if you, {0}, weren't here to help.\nI don't want to lose any more friends.",
+        "pt-BR": "[Frede]\nNem quero imaginar o que teria acontecido se você, {0}, não estivesse aqui para ajudar.\nNão quero perder mais nenhum amigo.",
+        "es-ES": "[Frede]\nNo quiero ni imaginar lo que pudo haber sucedido si no hubieras estado aquí para ayudarnos, {0}.\nNo quiero perder más amigos."
     },
     "exZA": {
-        "en": "[Frede]\nPlease take this as a token of my gratitude and friendship.\nIt's nothing much but I want you to have it.\nWe may be from different races but we can be great friends.",
-        "pt": "[Frede]\nPor favor, aceite isto como sinal da minha gratidão e amizade.\nNão é muita coisa, mas quero que fique com você.\nPodemos ser de raças diferentes, mas podemos ser ótimos amigos.",
-        "es": "[Frede]\nAquí tienes algo como muestra de mi agradecimiento y amistad.\nNo es mucho, pero quiero regalártelo.\nAunque seamos de razas diferentes, sé que podemos ser grandes amigos."
+        "en-US": "[Frede]\nPlease take this as a token of my gratitude and friendship.\nIt's nothing much but I want you to have it.\nWe may be from different races but we can be great friends.",
+        "pt-BR": "[Frede]\nPor favor, aceite isto como sinal da minha gratidão e amizade.\nNão é muita coisa, mas quero que fique com você.\nPodemos ser de raças diferentes, mas podemos ser ótimos amigos.",
+        "es-ES": "[Frede]\nAquí tienes algo como muestra de mi agradecimiento y amistad.\nNo es mucho, pero quiero regalártelo.\nAunque seamos de razas diferentes, sé que podemos ser grandes amigos."
     },
     "fBZA": {
-        "en": "[Frede]\nPlease give this Bradium to my friends.\nThey must take this or else they may get sick.",
-        "pt": "[Frede]\nPor favor, leve esse Bradium aos meus amigos.\nEles precisam tomá-lo, ou vão ficar doentes.",
-        "es": "[Frede]\nLlévale este Bradium a mis amigos, por favor.\nSi no lo toman, podrían enfermarse."
+        "en-US": "[Frede]\nPlease give this Bradium to my friends.\nThey must take this or else they may get sick.",
+        "pt-BR": "[Frede]\nPor favor, leve esse Bradium aos meus amigos.\nEles precisam tomá-lo, ou vão ficar doentes.",
+        "es-ES": "[Frede]\nLlévale este Bradium a mis amigos, por favor.\nSi no lo toman, podrían enfermarse."
     },
     "fRZA": {
-        "en": "Brian",
-        "pt": "Brian",
-        "es": "John"
+        "en-US": "Brian",
+        "pt-BR": "Brian",
+        "es-ES": "John"
     },
     "fhZA": {
-        "en": "[Brian]\nYou never know what kind of accident might happen if we don't do a thorough job.",
-        "pt": "[Brian]\nNunca se sabe que tipo de acidente pode acontecer se você não faz um trabalho cuidadoso.",
-        "es": "[Brian]\nNunca se sabe qué tipo de accidentes pueden ocurrir si no hacemos un trabajo minucioso."
+        "en-US": "[Brian]\nYou never know what kind of accident might happen if we don't do a thorough job.",
+        "pt-BR": "[Brian]\nNunca se sabe que tipo de acidente pode acontecer se você não faz um trabalho cuidadoso.",
+        "es-ES": "[Brian]\nNunca se sabe qué tipo de accidentes pueden ocurrir si no hacemos un trabajo minucioso."
     },
     "fxZA": {
-        "en": "[Brian]\nNot only is creating things important, but regular maintenance is also very important.",
-        "pt": "[Brian]\nO importante não é só criar coisas, mas também fazer uma manutenção constante.",
-        "es": "[Brian]\nNo solo es importante crear cosas, sino también darles mantenimiento regular."
+        "en-US": "[Brian]\nNot only is creating things important, but regular maintenance is also very important.",
+        "pt-BR": "[Brian]\nO importante não é só criar coisas, mas também fazer uma manutenção constante.",
+        "es-ES": "[Brian]\nNo solo es importante crear cosas, sino también darles mantenimiento regular."
     },
     "gBZA": {
-        "en": "[Brian]\nOh... that reminds me, how many days passed since I came here...\nDo you happen to know what day it is today?",
-        "pt": "[Brian]\nOh... Isso me lembra, quantos dias se passaram desde que vim para cá?...\nPor acaso, você sabe que dia é hoje?",
-        "es": "[Brian]\nHablando de eso… ¿hace cuántos días que estoy aquí?\n¿De casualidad sabes qué día es hoy?"
+        "en-US": "[Brian]\nOh... that reminds me, how many days passed since I came here...\nDo you happen to know what day it is today?",
+        "pt-BR": "[Brian]\nOh... Isso me lembra, quantos dias se passaram desde que vim para cá?...\nPor acaso, você sabe que dia é hoje?",
+        "es-ES": "[Brian]\nHablando de eso… ¿hace cuántos días que estoy aquí?\n¿De casualidad sabes qué día es hoy?"
     },
     "gRZA": {
-        "en": "[Brian]\nHmm. But what brings an outsider here?",
-        "pt": "[Brian]\nHumm. Mas, o que traz um estrangeiro até aqui?",
-        "es": "[Brian]\nMmm. No eres de por aquí. \n¿Qué te trae por estos rumbos?"
+        "en-US": "[Brian]\nHmm. But what brings an outsider here?",
+        "pt-BR": "[Brian]\nHumm. Mas, o que traz um estrangeiro até aqui?",
+        "es-ES": "[Brian]\nMmm. No eres de por aquí. \n¿Qué te trae por estos rumbos?"
     },
     "ghZA": {
-        "en": "[Brian]\nOh, you are here for Frede?\nHow is he doing?",
-        "pt": "[Brian]\nAh, veio aqui a pedido de Frede? \nComo ele está?",
-        "es": "[Brian]\nOh, ¿vienes en nombre de Frede?\n¿Cómo está?"
+        "en-US": "[Brian]\nOh, you are here for Frede?\nHow is he doing?",
+        "pt-BR": "[Brian]\nAh, veio aqui a pedido de Frede? \nComo ele está?",
+        "es-ES": "[Brian]\nOh, ¿vienes en nombre de Frede?\n¿Cómo está?"
     },
     "gxZA": {
-        "en": "[Brian]\nI saw him a few days ago but I'm always worried about my old friend.",
-        "pt": "[Brian]\nEu o vi há alguns dias, mas sempre me preocupo com meu velho amigo.",
-        "es": "[Brian]\nHace ya días que lo vi, pero siempre estoy preocupado por mi viejo amigo."
+        "en-US": "[Brian]\nI saw him a few days ago but I'm always worried about my old friend.",
+        "pt-BR": "[Brian]\nEu o vi há alguns dias, mas sempre me preocupo com meu velho amigo.",
+        "es-ES": "[Brian]\nHace ya días que lo vi, pero siempre estoy preocupado por mi viejo amigo."
     },
     "hBZA": {
-        "en": "[Brian]\nI hope he is getting used to his new work.\nI shouldn't be worried because he is very hardworking but...",
-        "pt": "[Brian]\nEspero que ele esteja se acostumando com o trabalho novo.\nEu não devia me preocupar, pois ele é muito esforçado, mas...",
-        "es": "[Brian]\nEspero que se esté acostumbrando a su nuevo trabajo.\nNo debería preocuparme porque es muy trabajador, pero…"
+        "en-US": "[Brian]\nI hope he is getting used to his new work.\nI shouldn't be worried because he is very hardworking but...",
+        "pt-BR": "[Brian]\nEspero que ele esteja se acostumando com o trabalho novo.\nEu não devia me preocupar, pois ele é muito esforçado, mas...",
+        "es-ES": "[Brian]\nEspero que se esté acostumbrando a su nuevo trabajo.\nNo debería preocuparme porque es muy trabajador, pero…"
     },
     "hRZA": {
-        "en": "[Brian]\nHe got sick by overworking himself already. But you don't have to tell him I said this.",
-        "pt": "[Brian]\nEle já ficou doente por trabalhar demais. Mas, você não precisa dizer a ele que eu disse isso.",
-        "es": "[Brian]\nYa enfermó una vez por trabajar demasiado. No le digas que te conté esto, ¿bien?"
+        "en-US": "[Brian]\nHe got sick by overworking himself already. But you don't have to tell him I said this.",
+        "pt-BR": "[Brian]\nEle já ficou doente por trabalhar demais. Mas, você não precisa dizer a ele que eu disse isso.",
+        "es-ES": "[Brian]\nYa enfermó una vez por trabajar demasiado. No le digas que te conté esto, ¿bien?"
     },
     "hhZA": {
-        "en": "[Brian]\nI just hope his condition doesn't get worse.",
-        "pt": "[Brian]\nSó espero que a saúde dele não piore.",
-        "es": "[Brian]\nSolo espero que su estado no empeore."
+        "en-US": "[Brian]\nI just hope his condition doesn't get worse.",
+        "pt-BR": "[Brian]\nSó espero que a saúde dele não piore.",
+        "es-ES": "[Brian]\nSolo espero que su estado no empeore."
     },
     "hxZA": {
-        "en": "[Brian]\nI'm out of Bradium already.\nFrede has been nagging me about this all the time but now I see why.\nhaha.",
-        "pt": "[Brian]\nJá estou sem Bradium.\nFrede me alerta sobre isso o tempo todo, mas agora entendo o motivo.\nHaha.",
-        "es": "[Brian]\nMis provisiones de Bradium ya se acabaron.\nFrede me ha insistido incansablemente sobre ello, y ahora entiendo el porqué.\nJa, ja."
+        "en-US": "[Brian]\nI'm out of Bradium already.\nFrede has been nagging me about this all the time but now I see why.\nhaha.",
+        "pt-BR": "[Brian]\nJá estou sem Bradium.\nFrede me alerta sobre isso o tempo todo, mas agora entendo o motivo.\nHaha.",
+        "es-ES": "[Brian]\nMis provisiones de Bradium ya se acabaron.\nFrede me ha insistido incansablemente sobre ello, y ahora entiendo el porqué.\nJa, ja."
     },
     "iBZA": {
-        "en": "[Brian]\nPlease tell Frede that I will return to the village after I recover.",
-        "pt": "[Brian]\nPor favor, diga a Frede que vou voltar à vila assim que me recuperar.",
-        "es": "[Brian]\nDile a Frede que volveré a la aldea cuando me recupere."
+        "en-US": "[Brian]\nPlease tell Frede that I will return to the village after I recover.",
+        "pt-BR": "[Brian]\nPor favor, diga a Frede que vou voltar à vila assim que me recuperar.",
+        "es-ES": "[Brian]\nDile a Frede que volveré a la aldea cuando me recupere."
     },
     "iRZA": {
-        "en": "[Brian]\nI remember you.\nWhat brings you here this time?",
-        "pt": "[Brian]\nLembro-me de você.\nO que traz você aqui desta vez?",
-        "es": "[Brian]\nMe acuerdo de ti.\n¿Qué te trae por aquí esta vez?"
+        "en-US": "[Brian]\nI remember you.\nWhat brings you here this time?",
+        "pt-BR": "[Brian]\nLembro-me de você.\nO que traz você aqui desta vez?",
+        "es-ES": "[Brian]\nMe acuerdo de ti.\n¿Qué te trae por aquí esta vez?"
     },
     "ihZA": {
-        "en": "Give Bradium to Brian.",
-        "pt": "Dar Bradium a Brian.",
-        "es": "Darle el Bradium a Brian."
+        "en-US": "Give Bradium to Brian.",
+        "pt-BR": "Dar Bradium a Brian.",
+        "es-ES": "Darle el Bradium a Brian."
     },
     "ixZA": {
-        "en": "[{0}]\nFrede asked me to give you this.",
-        "pt": "[{0}]\nFrede me pediu para lhe dar isto.",
-        "es": "[{0}]\nFrede me pidió que te diera esto."
+        "en-US": "[{0}]\nFrede asked me to give you this.",
+        "pt-BR": "[{0}]\nFrede me pediu para lhe dar isto.",
+        "es-ES": "[{0}]\nFrede me pidió que te diera esto."
     },
     "jBZA": {
-        "en": "[Brian]\nCome to think of it, I do feel a bit heavy.\nI've been standing here all day and I could have stiffened up without knowing it.",
-        "pt": "[Brian]\nPensando bem, me sinto mesmo um pouco pesado.\nEstou de pé aqui o dia todo e poderia ter endurecido sem perceber.",
-        "es": "[Brian]\nAhora que lo pienso, sí me siento un poco pesado.\nLlevo parado aquí todo el día y podría haberme puesto rígido sin siquiera notarlo."
+        "en-US": "[Brian]\nCome to think of it, I do feel a bit heavy.\nI've been standing here all day and I could have stiffened up without knowing it.",
+        "pt-BR": "[Brian]\nPensando bem, me sinto mesmo um pouco pesado.\nEstou de pé aqui o dia todo e poderia ter endurecido sem perceber.",
+        "es-ES": "[Brian]\nAhora que lo pienso, sí me siento un poco pesado.\nLlevo parado aquí todo el día y podría haberme puesto rígido sin siquiera notarlo."
     },
     "jRZA": {
-        "en": "[Brian]\nI'm out of Bradium already.\nFrede has been nagging me about this all the time but now I see why.\nHa ha..",
-        "pt": "[Brian]\nJá estou sem Bradium.\nFrede me alerta sobre isso o tempo todo, mas agora entendo o motivo.\nHa ha...",
-        "es": "[Brian]\nMis provisiones de Bradium ya se acabaron.\nFrede me ha insistido incansablemente sobre ello, y ahora entiendo el porqué.\nJa, ja…"
+        "en-US": "[Brian]\nI'm out of Bradium already.\nFrede has been nagging me about this all the time but now I see why.\nHa ha..",
+        "pt-BR": "[Brian]\nJá estou sem Bradium.\nFrede me alerta sobre isso o tempo todo, mas agora entendo o motivo.\nHa ha...",
+        "es-ES": "[Brian]\nMis provisiones de Bradium ya se acabaron.\nFrede me ha insistido incansablemente sobre ello, y ahora entiendo el porqué.\nJa, ja…"
     },
     "jhZA": {
-        "en": "[Brian]\nYou saved me from the inevitable.\nIf I didn't take Bradium then, I would have been frozen and gradually died.",
-        "pt": "[Brian]\nVocê me salvou do inevitável.\nSe eu não tivesse tomado o Bradium logo, teria endurecido e acabaria morrendo.",
-        "es": "[Brian]\nMe salvaste de un destino inevitable.\nSi no hubiese tomado Bradium, me habría vuelto rígido y, finalmente, habría muerto."
+        "en-US": "[Brian]\nYou saved me from the inevitable.\nIf I didn't take Bradium then, I would have been frozen and gradually died.",
+        "pt-BR": "[Brian]\nVocê me salvou do inevitável.\nSe eu não tivesse tomado o Bradium logo, teria endurecido e acabaria morrendo.",
+        "es-ES": "[Brian]\nMe salvaste de un destino inevitable.\nSi no hubiese tomado Bradium, me habría vuelto rígido y, finalmente, habría muerto."
     },
     "jxZA": {
-        "en": "[Brian]\nI am able to work now after I recovered while I was in the village.\nThank you so much.",
-        "pt": "[Brian]\nAgora, posso trabalhar depois de me recuperar na vila.\nMuito obrigado.",
-        "es": "[Brian]\nDespués de recuperarme en la aldea, me siento listo para seguir trabajando.\nMuchas gracias."
+        "en-US": "[Brian]\nI am able to work now after I recovered while I was in the village.\nThank you so much.",
+        "pt-BR": "[Brian]\nAgora, posso trabalhar depois de me recuperar na vila.\nMuito obrigado.",
+        "es-ES": "[Brian]\nDespués de recuperarme en la aldea, me siento listo para seguir trabajando.\nMuchas gracias."
     },
     "kBZA": {
-        "en": "[Brian]\nXXXXXXXXXXXXX\nXXXXXXXXXXXXX \nXXXXXXXX",
-        "pt": "[Brian]\n¢¤¡÷¢² ¢¤ ¢¤¢¤¢± ¢³ ¡ù \n¡õ¡ö¡þ ¢² ¡ü¡ù¢± ¢± \n¡ð¡û¢£ ¢² ¡÷¢²",
-        "es": "[Brian]\nXXXXXXXXXXXXX\nXXXXXXXXXXXXX \nXXXXXXXX"
+        "en-US": "[Brian]\nXXXXXXXXXXXXX\nXXXXXXXXXXXXX \nXXXXXXXX",
+        "pt-BR": "[Brian]\n¢¤¡÷¢² ¢¤ ¢¤¢¤¢± ¢³ ¡ù \n¡õ¡ö¡þ ¢² ¡ü¡ù¢± ¢± \n¡ð¡û¢£ ¢² ¡÷¢²",
+        "es-ES": "[Brian]\nXXXXXXXXXXXXX\nXXXXXXXXXXXXX \nXXXXXXXX"
     },
     "kRZA": {
-        "en": "John",
-        "pt": "John",
-        "es": "Tyler"
+        "en-US": "John",
+        "pt-BR": "John",
+        "es-ES": "Tyler"
     },
     "khZA": {
-        "en": "[John]\n-muffling-\n-tap tap-",
-        "pt": "[John]\n-cobrindo-\n-tap tap-",
-        "es": "[John]\n*Ruidos apagados*\n*Toc, toc*"
+        "en-US": "[John]\n-muffling-\n-tap tap-",
+        "pt-BR": "[John]\n-cobrindo-\n-tap tap-",
+        "es-ES": "[John]\n*Ruidos apagados*\n*Toc, toc*"
     },
     "kxZA": {
-        "en": "[John]\n-crunch-\n-blob-",
-        "pt": "[John]\n-crac-\n-blob-",
-        "es": "[John]\n*Crac*\n*Plop*"
+        "en-US": "[John]\n-crunch-\n-blob-",
+        "pt-BR": "[John]\n-crac-\n-blob-",
+        "es-ES": "[John]\n*Crac*\n*Plop*"
     },
     "lBZA": {
-        "en": "[John]\n-slide-\n-thud-",
-        "pt": "[John]\n-vuush-\n-pá-",
-        "es": "[John]\n*Ruido de deslizamiento*\n*Paf*"
+        "en-US": "[John]\n-slide-\n-thud-",
+        "pt-BR": "[John]\n-vuush-\n-pá-",
+        "es-ES": "[John]\n*Ruido de deslizamiento*\n*Paf*"
     },
     "lRZA": {
-        "en": "[John]\nOh well...\nThere... is nothing to worry about.",
-        "pt": "[John]\nAh, bem...\nNão há... nada com o que se preocupar.",
-        "es": "[John]\nAh, bueno…\nNo hay nada de qué… preocuparse."
+        "en-US": "[John]\nOh well...\nThere... is nothing to worry about.",
+        "pt-BR": "[John]\nAh, bem...\nNão há... nada com o que se preocupar.",
+        "es-ES": "[John]\nAh, bueno…\nNo hay nada de qué… preocuparse."
     },
     "lhZA": {
-        "en": "[John]\nDon't worry.",
-        "pt": "[John]\nNão se preocupe.",
-        "es": "[John]\nNo te preocupes."
+        "en-US": "[John]\nDon't worry.",
+        "pt-BR": "[John]\nNão se preocupe.",
+        "es-ES": "[John]\nNo te preocupes."
     },
     "lxZA": {
-        "en": "[John]\nWh..Who is it?",
-        "pt": "[John]\nQ-quem é?",
-        "es": "[John]\n¿Q-Quién es?"
+        "en-US": "[John]\nWh..Who is it?",
+        "pt-BR": "[John]\nQ-quem é?",
+        "es-ES": "[John]\n¿Q-Quién es?"
     },
     "mBZA": {
-        "en": "[John]\nOh, are you a friend of Frede's?",
-        "pt": "[John]\nAh, é amigo de Frede?",
-        "es": "[John]\nOh, ¿Frede te envió?"
+        "en-US": "[John]\nOh, are you a friend of Frede's?",
+        "pt-BR": "[John]\nAh, é amigo de Frede?",
+        "es-ES": "[John]\nOh, ¿Frede te envió?"
     },
     "mRZA": {
-        "en": "[John]\n-whiz-\n-clink-",
-        "pt": "[John]\n-zunido-\n-clinque-",
-        "es": "[John]\n*Fuiss*\n*Plin*"
+        "en-US": "[John]\n-whiz-\n-clink-",
+        "pt-BR": "[John]\n-zunido-\n-clinque-",
+        "es-ES": "[John]\n*Fuiss*\n*Plin*"
     },
     "mhZA": {
-        "en": "[John]\n......\nThanks....",
-        "pt": "[John]\n......\nObrigado...",
-        "es": "[John]\n......\nGracias…"
+        "en-US": "[John]\n......\nThanks....",
+        "pt-BR": "[John]\n......\nObrigado...",
+        "es-ES": "[John]\n......\nGracias…"
     },
     "mxZA": {
-        "en": "[John]\n......",
-        "pt": "[John]\n......",
-        "es": "[John]\n......"
+        "en-US": "[John]\n......",
+        "pt-BR": "[John]\n......",
+        "es-ES": "[John]\n......"
     },
     "nBZA": {
-        "en": "You give Bradium to John.",
-        "pt": "Dar o Bradium a John.",
-        "es": "Darle el Bradium a John."
+        "en-US": "You give Bradium to John.",
+        "pt-BR": "Dar o Bradium a John.",
+        "es-ES": "Darle el Bradium a John."
     },
     "nRZA": {
-        "en": "[John]\n...\nI'm... okay now...\nThanks...",
-        "pt": "[John]\n...\nEstou... bem agora...\nObrigado...",
-        "es": "[John]\n…\nMe… siento mejor ahora.\nGracias…"
+        "en-US": "[John]\n...\nI'm... okay now...\nThanks...",
+        "pt-BR": "[John]\n...\nEstou... bem agora...\nObrigado...",
+        "es-ES": "[John]\n…\nMe… siento mejor ahora.\nGracias…"
     },
     "nhZA": {
-        "en": "[John]\nXXXXXXXXXX\nXXXXXXXXXXXXXXXXXXXXXXXXXX",
-        "pt": "[John]\n¡ù¡õ¡Ð ¢³ ¡ó \n¡ï¡ï¡ò ¡÷ ¡þ¡ð¡ö ¢£ ¡ñ¡ü¡ú ¡ó ¢¤¡ü ¡ó",
-        "es": "[John]\nXXXXXXXXXX\nXXXXXXXXXXXXXXXXXXXXXXXXXX"
+        "en-US": "[John]\nXXXXXXXXXX\nXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "pt-BR": "[John]\n¡ù¡õ¡Ð ¢³ ¡ó \n¡ï¡ï¡ò ¡÷ ¡þ¡ð¡ö ¢£ ¡ñ¡ü¡ú ¡ó ¢¤¡ü ¡ó",
+        "es-ES": "[John]\nXXXXXXXXXX\nXXXXXXXXXXXXXXXXXXXXXXXXXX"
     },
     "nxZA": {
-        "en": "Tyler",
-        "pt": "Tyler",
-        "es": "Rosa"
+        "en-US": "Tyler",
+        "pt-BR": "Tyler",
+        "es-ES": "Rosa"
     },
     "oBZA": {
-        "en": "[Tyler]\nI still see things to fix after fixing all day!\nIt's logical to fix things that needs to be fixed!!",
-        "pt": "[Tyler]\nAinda vejo coisas para consertar, depois de ficar consertando o dia todo!\n É uma reação lógica consertar o que precisa ser consertado!!",
-        "es": "[Tyler]\n¡Día tras día, siempre encuentro cosas nuevas que reparar!\n¡Reparar cosas que están rotas es un proceso lógico!"
+        "en-US": "[Tyler]\nI still see things to fix after fixing all day!\nIt's logical to fix things that needs to be fixed!!",
+        "pt-BR": "[Tyler]\nAinda vejo coisas para consertar, depois de ficar consertando o dia todo!\n É uma reação lógica consertar o que precisa ser consertado!!",
+        "es-ES": "[Tyler]\n¡Día tras día, siempre encuentro cosas nuevas que reparar!\n¡Reparar cosas que están rotas es un proceso lógico!"
     },
     "oRZA": {
-        "en": "[Tyler]\nLabor is rewarding at the end!\nHahahahaha!!!!!",
-        "pt": "[Tyler]\nO trabalho é recompensador no final!\nHahahahaha!!!!!",
-        "es": "[Tyler]\n¡Al final, el trabajo siempre es satisfactorio!\n¡Ja, ja, ja, ja!"
+        "en-US": "[Tyler]\nLabor is rewarding at the end!\nHahahahaha!!!!!",
+        "pt-BR": "[Tyler]\nO trabalho é recompensador no final!\nHahahahaha!!!!!",
+        "es-ES": "[Tyler]\n¡Al final, el trabajo siempre es satisfactorio!\n¡Ja, ja, ja, ja!"
     },
     "ohZA": {
-        "en": "[Tyler]\nIf you happen to bump into him in the village, please tell him I'm fine and not to worry.",
-        "pt": "[Tyler]\nSe você, por acaso, encontrá-lo na vila, diga que estou bem e que não precisa se preocupar.",
-        "es": "[Tyler]\nSi te topas con él en la aldea, dile que no se preocupe, que estoy bien."
+        "en-US": "[Tyler]\nIf you happen to bump into him in the village, please tell him I'm fine and not to worry.",
+        "pt-BR": "[Tyler]\nSe você, por acaso, encontrá-lo na vila, diga que estou bem e que não precisa se preocupar.",
+        "es-ES": "[Tyler]\nSi te topas con él en la aldea, dile que no se preocupe, que estoy bien."
     },
     "oxZA": {
-        "en": "[Tyler]\nLabor is rewarding at the end!\nHa ha ha ha ha!!!!!",
-        "pt": "[Tyler]\nO trabalho é recompensador no final!\nHa ha ha ha ha!!!!!",
-        "es": "[Tyler]\n¡Al final, el trabajo siempre es satisfactorio!\n¡Ja, ja, ja, ja!"
+        "en-US": "[Tyler]\nLabor is rewarding at the end!\nHa ha ha ha ha!!!!!",
+        "pt-BR": "[Tyler]\nO trabalho é recompensador no final!\nHa ha ha ha ha!!!!!",
+        "es-ES": "[Tyler]\n¡Al final, el trabajo siempre es satisfactorio!\n¡Ja, ja, ja, ja!"
     },
     "pBZA": {
-        "en": "[Tyler]\nHuh?! Who are you?\nWhy is an outsider here?",
-        "pt": "[Tyler]\nHein?! Quem é você? \nO que um estrangeiro faz aqui?",
-        "es": "[Tyler]\n¡¿Eh?! ¿Quién eres?\nEs raro ver forasteros por aquí."
+        "en-US": "[Tyler]\nHuh?! Who are you?\nWhy is an outsider here?",
+        "pt-BR": "[Tyler]\nHein?! Quem é você? \nO que um estrangeiro faz aqui?",
+        "es-ES": "[Tyler]\n¡¿Eh?! ¿Quién eres?\nEs raro ver forasteros por aquí."
     },
     "pRZA": {
-        "en": "[Tyler]\nYou came because of Frede?",
-        "pt": "[Tyler]\nVeio por causa de Frede?",
-        "es": "[Tyler]\n¿Viniste en nombre de Frede?"
+        "en-US": "[Tyler]\nYou came because of Frede?",
+        "pt-BR": "[Tyler]\nVeio por causa de Frede?",
+        "es-ES": "[Tyler]\n¿Viniste en nombre de Frede?"
     },
     "phZA": {
-        "en": "[Tyler]\nI can't believe him.\nHe should take care of himself.",
-        "pt": "[Tyler]\nNão acredito no que esse cara faz.\nEle devia cuidar mais de si mesmo.",
-        "es": "[Tyler]\nNo puedo creerlo.\nDebería cuidarse más."
+        "en-US": "[Tyler]\nI can't believe him.\nHe should take care of himself.",
+        "pt-BR": "[Tyler]\nNão acredito no que esse cara faz.\nEle devia cuidar mais de si mesmo.",
+        "es-ES": "[Tyler]\nNo puedo creerlo.\nDebería cuidarse más."
     },
     "pxZA": {
-        "en": "[Tyler]\nWe two go way back.\nHe has always been the diligent one.",
-        "pt": "[Tyler]\nA gente se conhece há muito tempo.\nEle sempre foi o mais esforçado.",
-        "es": "[Tyler]\nNos conocemos desde hace mucho.\nSiempre ha sido el diligente."
+        "en-US": "[Tyler]\nWe two go way back.\nHe has always been the diligent one.",
+        "pt-BR": "[Tyler]\nA gente se conhece há muito tempo.\nEle sempre foi o mais esforçado.",
+        "es-ES": "[Tyler]\nNos conocemos desde hace mucho.\nSiempre ha sido el diligente."
     },
     "qBZA": {
-        "en": "[Tyler]\nWe used to work together in a snack bar before.\nHe always said he wanted to do something related to ^F57D7Dstone^000000 or ^F57D7Dheavy metal^000000.",
-        "pt": "[Tyler]\nA gente trabalhava em um bar antes.\nEle sempre disse que queria trabalhar com ^F57D7Dpedras^000000 ou ^F57D7Dmetais pesados^000000.",
-        "es": "[Tyler]\nAntes trabajábamos juntos en una cafetería.\nSiempre decía que quería hacer algo relacionado con ^F57D7Drocas^000000 o ^F57D7Dmetal pesado^000000."
+        "en-US": "[Tyler]\nWe used to work together in a snack bar before.\nHe always said he wanted to do something related to ^F57D7Dstone^000000 or ^F57D7Dheavy metal^000000.",
+        "pt-BR": "[Tyler]\nA gente trabalhava em um bar antes.\nEle sempre disse que queria trabalhar com ^F57D7Dpedras^000000 ou ^F57D7Dmetais pesados^000000.",
+        "es-ES": "[Tyler]\nAntes trabajábamos juntos en una cafetería.\nSiempre decía que quería hacer algo relacionado con ^F57D7Drocas^000000 o ^F57D7Dmetal pesado^000000."
     },
     "qRZA": {
-        "en": "[Tyler]\nBut Pioms are not really good at brainwork so he was looking someplace else.",
-        "pt": "[Tyler]\nOs Mineiros não são muito bons para o trabalho intelectual, por isso ele vivia procurando outra coisa para fazer.",
-        "es": "[Tyler]\nPero a los pioms no se les da muy bien usar el cerebro, así que pensaba irse a otro lugar."
+        "en-US": "[Tyler]\nBut Pioms are not really good at brainwork so he was looking someplace else.",
+        "pt-BR": "[Tyler]\nOs Mineiros não são muito bons para o trabalho intelectual, por isso ele vivia procurando outra coisa para fazer.",
+        "es-ES": "[Tyler]\nPero a los pioms no se les da muy bien usar el cerebro, así que pensaba irse a otro lugar."
     },
     "qhZA": {
-        "en": "[Tyler]\nAll of our friends applied for this job because we could do something related with stones and metal by working in a tunnel.",
-        "pt": "[Tyler]\nTodos os nossos amigos se candidataram para este trabalho porque poderíamos mexer com pedras e metais, trabalhando em um túnel.",
-        "es": "[Tyler]\nTodos nuestros amigos se postularon a este trabajo porque, si trabajábamos en un túnel, podíamos hacer algo relacionado con rocas y metal."
+        "en-US": "[Tyler]\nAll of our friends applied for this job because we could do something related with stones and metal by working in a tunnel.",
+        "pt-BR": "[Tyler]\nTodos os nossos amigos se candidataram para este trabalho porque poderíamos mexer com pedras e metais, trabalhando em um túnel.",
+        "es-ES": "[Tyler]\nTodos nuestros amigos se postularon a este trabajo porque, si trabajábamos en un túnel, podíamos hacer algo relacionado con rocas y metal."
     },
     "qxZA": {
-        "en": "[Tyler]\nHe may be categorizing stones in the village now, but I'm sure he is happy with his work.",
-        "pt": "[Tyler]\nEle pode estar classificando pedras na vila agora, mas tenho certeza de que ele está feliz com seu trabalho.",
-        "es": "[Tyler]\nQuizá ahora esté clasificando piedras en la aldea, pero seguro está contento con su trabajo."
+        "en-US": "[Tyler]\nHe may be categorizing stones in the village now, but I'm sure he is happy with his work.",
+        "pt-BR": "[Tyler]\nEle pode estar classificando pedras na vila agora, mas tenho certeza de que ele está feliz com seu trabalho.",
+        "es-ES": "[Tyler]\nQuizá ahora esté clasificando piedras en la aldea, pero seguro está contento con su trabajo."
     },
     "rBZA": {
-        "en": "[Tyler]\nDo you mind scratching my back?\nI have an itch probably from a bug bite.\nBut I doubt there is a bug big enough to bite me on the back.",
-        "pt": "[Tyler]\nPoderia coçar minhas costas? \nEstou com coceira, deve ter sido picada de inseto.\nMas, duvido que haja um inseto grande o bastante para me picar nas costas.",
-        "es": "[Tyler]\n¿Podrías rascarme la espalda?\nTengo comezón, probablemente ocasionada por la picadura de un insecto.\nAunque dudo que haya un insecto tan grande como para picarme en la espalda."
+        "en-US": "[Tyler]\nDo you mind scratching my back?\nI have an itch probably from a bug bite.\nBut I doubt there is a bug big enough to bite me on the back.",
+        "pt-BR": "[Tyler]\nPoderia coçar minhas costas? \nEstou com coceira, deve ter sido picada de inseto.\nMas, duvido que haja um inseto grande o bastante para me picar nas costas.",
+        "es-ES": "[Tyler]\n¿Podrías rascarme la espalda?\nTengo comezón, probablemente ocasionada por la picadura de un insecto.\nAunque dudo que haya un insecto tan grande como para picarme en la espalda."
     },
     "rRZA": {
-        "en": "[Tyler]\nOh!! I was out of Bradium. How did you know!\nThanks!",
-        "pt": "[Tyler]\nOh! Eu estava sem Bradium. Como você sabia? \nObrigado!",
-        "es": "[Tyler]\n¡Ah! Me había quedado sin Bradium. ¡¿Cómo lo supiste?!\n¡Gracias!"
+        "en-US": "[Tyler]\nOh!! I was out of Bradium. How did you know!\nThanks!",
+        "pt-BR": "[Tyler]\nOh! Eu estava sem Bradium. Como você sabia? \nObrigado!",
+        "es-ES": "[Tyler]\n¡Ah! Me había quedado sin Bradium. ¡¿Cómo lo supiste?!\n¡Gracias!"
     },
     "rhZA": {
-        "en": "[Tyler]\nI always end up short even if I bring extra.\nI will have to go back to the village after I'm done with this to bring back more.",
-        "pt": "[Tyler]\nSempre acabo com pouco, mesmo trazendo a mais.\nVou ter de voltar à vila quando terminar aqui para buscar mais.",
-        "es": "[Tyler]\nAunque traigo más de lo necesario, siempre me acaba faltando.\nTendré que volver a la aldea cuando termine mi trabajo acá y traer más."
+        "en-US": "[Tyler]\nI always end up short even if I bring extra.\nI will have to go back to the village after I'm done with this to bring back more.",
+        "pt-BR": "[Tyler]\nSempre acabo com pouco, mesmo trazendo a mais.\nVou ter de voltar à vila quando terminar aqui para buscar mais.",
+        "es-ES": "[Tyler]\nAunque traigo más de lo necesario, siempre me acaba faltando.\nTendré que volver a la aldea cuando termine mi trabajo acá y traer más."
     },
     "rxZA": {
-        "en": "[Tyler]\nWe meet again!",
-        "pt": "[Tyler]\nNos encontramos de novo!",
-        "es": "[Tyler]\n¡Nos volvemos a ver!"
+        "en-US": "[Tyler]\nWe meet again!",
+        "pt-BR": "[Tyler]\nNos encontramos de novo!",
+        "es-ES": "[Tyler]\n¡Nos volvemos a ver!"
     },
     "sBZA": {
-        "en": "[Tyler]\nI've been waiting for you!\nScratch my back please~\nIt felt so good the last time you scratched it for me.",
-        "pt": "[Tyler]\nEstava esperando você!\nPor favor, pode coçar minhas costas? \nFoi tão bom quando você coçou para mim da outra vez.",
-        "es": "[Tyler]\n¡Te estaba esperando!\nRáscame la espalda, por favor.\n¡Se sintió tan bien la última vez que lo hiciste!"
+        "en-US": "[Tyler]\nI've been waiting for you!\nScratch my back please~\nIt felt so good the last time you scratched it for me.",
+        "pt-BR": "[Tyler]\nEstava esperando você!\nPor favor, pode coçar minhas costas? \nFoi tão bom quando você coçou para mim da outra vez.",
+        "es-ES": "[Tyler]\n¡Te estaba esperando!\nRáscame la espalda, por favor.\n¡Se sintió tan bien la última vez que lo hiciste!"
     },
     "sRZA": {
-        "en": "Give Bradium to Tyler.",
-        "pt": "Dar o Bradium a Tyler.",
-        "es": "Darle el Bradium a Tyler."
+        "en-US": "Give Bradium to Tyler.",
+        "pt-BR": "Dar o Bradium a Tyler.",
+        "es-ES": "Darle el Bradium a Tyler."
     },
     "shZA": {
-        "en": "[Tyler]\nI visited the village afterwards.\nBut the itch on my back wasn't a bug bite.",
-        "pt": "[Tyler]\nVisitei a vila logo depois daquilo.\nMas, a coceira nas costas não era picada de inseto.",
-        "es": "[Tyler]\nDespués visité la aldea.\nPero la picazón en mi espalda no era por una picadura de insecto."
+        "en-US": "[Tyler]\nI visited the village afterwards.\nBut the itch on my back wasn't a bug bite.",
+        "pt-BR": "[Tyler]\nVisitei a vila logo depois daquilo.\nMas, a coceira nas costas não era picada de inseto.",
+        "es-ES": "[Tyler]\nDespués visité la aldea.\nPero la picazón en mi espalda no era por una picadura de insecto."
     },
     "sxZA": {
-        "en": "[Tyler]\nSomething terrible might have happened if it was too late.\nI must visit the village often just so that my friends don't worry.",
-        "pt": "[Tyler]\nAlgo terrível poderia ter acontecido se eu tivesse demorado mais.\nPreciso visitar a vila com mais frequência para que meus amigos não se preocupem.",
-        "es": "[Tyler]\nAlgo terrible me habría ocurrido si hubiese pasado más tiempo.\nDebo visitar la aldea más seguido para que mis amigos no se preocupen por mí."
+        "en-US": "[Tyler]\nSomething terrible might have happened if it was too late.\nI must visit the village often just so that my friends don't worry.",
+        "pt-BR": "[Tyler]\nAlgo terrível poderia ter acontecido se eu tivesse demorado mais.\nPreciso visitar a vila com mais frequência para que meus amigos não se preocupem.",
+        "es-ES": "[Tyler]\nAlgo terrible me habría ocurrido si hubiese pasado más tiempo.\nDebo visitar la aldea más seguido para que mis amigos no se preocupen por mí."
     },
     "tBZA": {
-        "en": "[Tyler]\nXXXX\nXXXXXXXXXXXX \nXXXXXX",
-        "pt": "[Tyler]\n¡ï¡þ¡÷\n¡þ¡ó¡Ð ¡þ ¡Ð¡ø¢± ¡ü \n¡ó¡ø¢¤ ¡ó",
-        "es": "[Tyler]\nXXXX\nXXXXXXXXXXXX \nXXXXXX"
+        "en-US": "[Tyler]\nXXXX\nXXXXXXXXXXXX \nXXXXXX",
+        "pt-BR": "[Tyler]\n¡ï¡þ¡÷\n¡þ¡ó¡Ð ¡þ ¡Ð¡ø¢± ¡ü \n¡ó¡ø¢¤ ¡ó",
+        "es-ES": "[Tyler]\nXXXX\nXXXXXXXXXXXX \nXXXXXX"
     },
     "tRZA": {
-        "en": "Rose",
-        "pt": "Rose",
-        "es": "Bain"
+        "en-US": "Rose",
+        "pt-BR": "Rose",
+        "es-ES": "Bain"
     },
     "thZA": {
-        "en": "[Rose]\nLalala~\nYeah~!",
-        "pt": "[Rose]\nLa la la...\n Éééé!",
-        "es": "[Rose]\nLa, la, la.\n¡Sí!"
+        "en-US": "[Rose]\nLalala~\nYeah~!",
+        "pt-BR": "[Rose]\nLa la la...\n Éééé!",
+        "es-ES": "[Rose]\nLa, la, la.\n¡Sí!"
     },
     "txZA": {
-        "en": "[Rose]\nHe he he!\nI'm so awesome!\nThis is a perfect fix!\nI see no errors in my work!",
-        "pt": "[Rose]\nHe he he!\nSou tão incrível!\nEste reparo foi perfeito!\nNão vejo nenhum erro no meu trabalho!",
-        "es": "[Rose]\n¡Je, je, je!\n¡Soy tan increíble!\n¡Es la solución perfecta!\n¡No veo error alguno en mi trabajo!"
+        "en-US": "[Rose]\nHe he he!\nI'm so awesome!\nThis is a perfect fix!\nI see no errors in my work!",
+        "pt-BR": "[Rose]\nHe he he!\nSou tão incrível!\nEste reparo foi perfeito!\nNão vejo nenhum erro no meu trabalho!",
+        "es-ES": "[Rose]\n¡Je, je, je!\n¡Soy tan increíble!\n¡Es la solución perfecta!\n¡No veo error alguno en mi trabajo!"
     },
     "uBZA": {
-        "en": "[Rose]\nTell him there is no problem at all except that I am too good at my job.\nBecause I'm perfect.",
-        "pt": "[Rose]\nDiga a ele que não tem problema nenhum, pois sou muito boa no meu trabalho.\nAfinal, sou perfeita.",
-        "es": "[Rose]\nDile que no hay ningún problema, salvo que soy demasiado buena en mi trabajo.\nEs que soy demasiado perfecta."
+        "en-US": "[Rose]\nTell him there is no problem at all except that I am too good at my job.\nBecause I'm perfect.",
+        "pt-BR": "[Rose]\nDiga a ele que não tem problema nenhum, pois sou muito boa no meu trabalho.\nAfinal, sou perfeita.",
+        "es-ES": "[Rose]\nDile que no hay ningún problema, salvo que soy demasiado buena en mi trabajo.\nEs que soy demasiado perfecta."
     },
     "uRZA": {
-        "en": "[Rose]\nWho are you!\nYou can never hide beauty. Please try not to stare intensely at me. I know I'm beautiful.",
-        "pt": "[Rose]\nQuem é você? \nNão há como esconder tanta beleza. Por favor, não olhe tão fixamente para mim. Sei que sou linda.",
-        "es": "[Rose]\n¿Quién eres?\nNo se puede ocultar la belleza. Trata de no mirarme tan fijamente. Sé que soy hermosa."
+        "en-US": "[Rose]\nWho are you!\nYou can never hide beauty. Please try not to stare intensely at me. I know I'm beautiful.",
+        "pt-BR": "[Rose]\nQuem é você? \nNão há como esconder tanta beleza. Por favor, não olhe tão fixamente para mim. Sei que sou linda.",
+        "es-ES": "[Rose]\n¿Quién eres?\nNo se puede ocultar la belleza. Trata de no mirarme tan fijamente. Sé que soy hermosa."
     },
     "uhZA": {
-        "en": "[Rose]\nWhat? You came on behalf of Frede?\nYou mean you're not my admirer?\nTsk....",
-        "pt": "[Rose]\nHein? Veio por causa de Frede? \nEntão, não é meu admirador? \nTsc...",
-        "es": "[Rose]\n¿Qué? ¿Viniste de parte de Frede?\n¿Quieres decir que no viniste porque me admiras?\nTsc…"
+        "en-US": "[Rose]\nWhat? You came on behalf of Frede?\nYou mean you're not my admirer?\nTsk....",
+        "pt-BR": "[Rose]\nHein? Veio por causa de Frede? \nEntão, não é meu admirador? \nTsc...",
+        "es-ES": "[Rose]\n¿Qué? ¿Viniste de parte de Frede?\n¿Quieres decir que no viniste porque me admiras?\nTsc…"
     },
     "uxZA": {
-        "en": "[Rose]\nI'll return to the village soon.\nWe can meet up then~",
-        "pt": "[Rose]\nVou voltar à vila logo.\nDaí, podemos nos encontrar...",
-        "es": "[Rose]\nVolveré pronto a la aldea.\nNos vemos allí, ¿sí?"
+        "en-US": "[Rose]\nI'll return to the village soon.\nWe can meet up then~",
+        "pt-BR": "[Rose]\nVou voltar à vila logo.\nDaí, podemos nos encontrar...",
+        "es-ES": "[Rose]\nVolveré pronto a la aldea.\nNos vemos allí, ¿sí?"
     },
     "vBZA": {
-        "en": "[Rose]\nAh~\nSo you came back because you missed me?",
-        "pt": "[Rose]\nAh!\nEntão, voltou porque sentiu minha falta?",
-        "es": "[Rose]\nAh.\n¿Así que viniste porque me extrañabas?"
+        "en-US": "[Rose]\nAh~\nSo you came back because you missed me?",
+        "pt-BR": "[Rose]\nAh!\nEntão, voltou porque sentiu minha falta?",
+        "es-ES": "[Rose]\nAh.\n¿Así que viniste porque me extrañabas?"
     },
     "vRZA": {
-        "en": "[Rose]\nDon't have to be shy.\nIf you really have feelings, race differences shouldn't be a problem.",
-        "pt": "[Rose]\nNão precisa ser tímido.\nSe você tem algum sentimento por mim, a diferença de raça não deve ser problema.",
-        "es": "[Rose]\nLa timidez está de más.\nSi tus sentimientos son sinceros, las diferencias raciales no deberían importar."
+        "en-US": "[Rose]\nDon't have to be shy.\nIf you really have feelings, race differences shouldn't be a problem.",
+        "pt-BR": "[Rose]\nNão precisa ser tímido.\nSe você tem algum sentimento por mim, a diferença de raça não deve ser problema.",
+        "es-ES": "[Rose]\nLa timidez está de más.\nSi tus sentimientos son sinceros, las diferencias raciales no deberían importar."
     },
     "vhZA": {
-        "en": "You give Bradium to Rose.",
-        "pt": "Dar o Bradium a Rose.",
-        "es": "Darle el Bradium a Rose."
+        "en-US": "You give Bradium to Rose.",
+        "pt-BR": "Dar o Bradium a Rose.",
+        "es-ES": "Darle el Bradium a Rose."
     },
     "vxZA": {
-        "en": "[{0}]\nYou give Bradium to Rose.",
-        "pt": "[{0}]\n- Você dá o Bradium a Rose. -",
-        "es": "[{0}]\nFrede me pidió que te diera esto."
+        "en-US": "[{0}]\nYou give Bradium to Rose.",
+        "pt-BR": "[{0}]\n- Você dá o Bradium a Rose. -",
+        "es-ES": "[{0}]\nFrede me pidió que te diera esto."
     },
     "wBZA": {
-        "en": "[Rose]\nAww... you shouldn't have.\nMy ^F57D7Dheartbeat^000000 skipped.\nYou are already taking care of me.\nHe he he",
-        "pt": "[Rose]\nAhh... Não precisava.\n^F57D7DMeu coração até deu um salto.^000000\nVocê já está até tomando conta de mim.\nHe he he!",
-        "es": "[Rose]\nAyyyy… no debiste molestarte.\nSentí que ^F57D7Del corazón me dio un brinco^000000.\nYa estás cuidándome.\nJe, je, je…"
+        "en-US": "[Rose]\nAww... you shouldn't have.\nMy ^F57D7Dheartbeat^000000 skipped.\nYou are already taking care of me.\nHe he he",
+        "pt-BR": "[Rose]\nAhh... Não precisava.\n^F57D7DMeu coração até deu um salto.^000000\nVocê já está até tomando conta de mim.\nHe he he!",
+        "es-ES": "[Rose]\nAyyyy… no debiste molestarte.\nSentí que ^F57D7Del corazón me dio un brinco^000000.\nYa estás cuidándome.\nJe, je, je…"
     },
     "wRZA": {
-        "en": "[Rose]\nYou're here?\nJust in time when I was about to return to the village because I missed you.",
-        "pt": "[Rose]\nVocê está aqui? \nBem na hora em que eu ia voltar à vila, porque sentia sua falta.",
-        "es": "[Rose]\n¿Estás aquí?\nJusto cuando estaba a punto de volver a la aldea porque te extrañaba."
+        "en-US": "[Rose]\nYou're here?\nJust in time when I was about to return to the village because I missed you.",
+        "pt-BR": "[Rose]\nVocê está aqui? \nBem na hora em que eu ia voltar à vila, porque sentia sua falta.",
+        "es-ES": "[Rose]\n¿Estás aquí?\nJusto cuando estaba a punto de volver a la aldea porque te extrañaba."
     },
     "whZA": {
-        "en": "[Rose]\nWe must be connected?\n^F57D7DHahaha^000000",
-        "pt": "[Rose]\nSerá que estamos conectados? \n^F57D7DHahaha!^000000",
-        "es": "[Rose]\n¿Crees que estemos conectados?\n^F57D7DJa, ja, ja.^000000"
+        "en-US": "[Rose]\nWe must be connected?\n^F57D7DHahaha^000000",
+        "pt-BR": "[Rose]\nSerá que estamos conectados? \n^F57D7DHahaha!^000000",
+        "es-ES": "[Rose]\n¿Crees que estemos conectados?\n^F57D7DJa, ja, ja.^000000"
     },
     "wxZA": {
-        "en": "[Rose]\nXXXXXXX\nXXXXXXXXXX\nXXXX",
-        "pt": "[Rose]\n¡ù¡ó¡ð ¢² ¡ð\n¡û¡ö¡÷ ¡ù ¢³\n¢£¡ó¢²",
-        "es": "[Rose]\nXXXXXXX\nXXXXXXXXXX\nXXXX"
+        "en-US": "[Rose]\nXXXXXXX\nXXXXXXXXXX\nXXXX",
+        "pt-BR": "[Rose]\n¡ù¡ó¡ð ¢² ¡ð\n¡û¡ö¡÷ ¡ù ¢³\n¢£¡ó¢²",
+        "es-ES": "[Rose]\nXXXXXXX\nXXXXXXXXXX\nXXXX"
     },
     "xBZA": {
-        "en": "Bain",
-        "pt": "Bain",
-        "es": "Lash"
+        "en-US": "Bain",
+        "pt-BR": "Bain",
+        "es-ES": "Lash"
     },
     "xRZA": {
-        "en": "[Bain]\nYou take sturdy lumber and erect it to make a pillar.\nSimple, isn't it?",
-        "pt": "[Bain]\nVocê pega uma lenha sólida e a ergue para formar um pilar.\nSimples, não?",
-        "es": "[Bain]\nTomas un tronco robusto y lo yergues como un pilar.\nSimple, ¿verdad?"
+        "en-US": "[Bain]\nYou take sturdy lumber and erect it to make a pillar.\nSimple, isn't it?",
+        "pt-BR": "[Bain]\nVocê pega uma lenha sólida e a ergue para formar um pilar.\nSimples, não?",
+        "es-ES": "[Bain]\nTomas un tronco robusto y lo yergues como un pilar.\nSimple, ¿verdad?"
     },
     "xhZA": {
-        "en": "[Bain]\nTo fix the erected lumber, you need to use wedges to keep it in place.\nSimple, isn't it?",
-        "pt": "[Bain]\nPara fixar a lenha erguida, você precisa de cunhas para mantê-la no lugar.\nSimples, não?",
-        "es": "[Bain]\nPara reparar el pilar erguido, usas cuñas para fijarlo en su lugar.\nSimple, ¿verdad?"
+        "en-US": "[Bain]\nTo fix the erected lumber, you need to use wedges to keep it in place.\nSimple, isn't it?",
+        "pt-BR": "[Bain]\nPara fixar a lenha erguida, você precisa de cunhas para mantê-la no lugar.\nSimples, não?",
+        "es-ES": "[Bain]\nPara reparar el pilar erguido, usas cuñas para fijarlo en su lugar.\nSimple, ¿verdad?"
     },
     "xxZA": {
-        "en": "[Bain]\nJust tell him I'm doing well.\nSimple, isn't it?",
-        "pt": "[Bain]\nSó diga a ele que estou bem.\nSimples, não?",
-        "es": "[Bain]\nSolo dile que me está yendo bien.\nSimple, ¿verdad?"
+        "en-US": "[Bain]\nJust tell him I'm doing well.\nSimple, isn't it?",
+        "pt-BR": "[Bain]\nSó diga a ele que estou bem.\nSimples, não?",
+        "es-ES": "[Bain]\nSolo dile que me está yendo bien.\nSimple, ¿verdad?"
     },
     "yBZA": {
-        "en": "[Bain]\nWhat is it? Do you have any questions?",
-        "pt": "[Bain]\nO que é? Tem alguma dúvida?",
-        "es": "[Bain]\n¿Qué sucede? ¿Tienes preguntas?"
+        "en-US": "[Bain]\nWhat is it? Do you have any questions?",
+        "pt-BR": "[Bain]\nO que é? Tem alguma dúvida?",
+        "es-ES": "[Bain]\n¿Qué sucede? ¿Tienes preguntas?"
     },
     "yRZA": {
-        "en": "[Bain]\nFrede asked you to come?\nJust tell him I'm doing well.\nSimple, isn't it?",
-        "pt": "[Bain]\nFrede pediu para você vir? \nSó diga a ele que estou bem.\nSimples, não?",
-        "es": "[Bain]\n¿Frede te pidió que vinieras?\nSolo dile que me está yendo bien.\nSimple, ¿verdad?"
+        "en-US": "[Bain]\nFrede asked you to come?\nJust tell him I'm doing well.\nSimple, isn't it?",
+        "pt-BR": "[Bain]\nFrede pediu para você vir? \nSó diga a ele que estou bem.\nSimples, não?",
+        "es-ES": "[Bain]\n¿Frede te pidió que vinieras?\nSolo dile que me está yendo bien.\nSimple, ¿verdad?"
     },
     "yhZA": {
-        "en": "[Bain]\nBut I will be in trouble if I don't go back to the village for Bradium.",
-        "pt": "[Bain]\nMas, vou ficar encrencado se não voltar à vila para buscar Bradium.",
-        "es": "[Bain]\nEstaré en problemas si no vuelvo a la aldea a buscar Bradium."
+        "en-US": "[Bain]\nBut I will be in trouble if I don't go back to the village for Bradium.",
+        "pt-BR": "[Bain]\nMas, vou ficar encrencado se não voltar à vila para buscar Bradium.",
+        "es-ES": "[Bain]\nEstaré en problemas si no vuelvo a la aldea a buscar Bradium."
     },
     "yxZA": {
-        "en": "[Bain]\nThank you.\nHope to see you again.",
-        "pt": "[Bain]\nObrigado.\nEspero ver você de novo.",
-        "es": "[Bain]\nGracias.\nEspero volver a verte."
+        "en-US": "[Bain]\nThank you.\nHope to see you again.",
+        "pt-BR": "[Bain]\nObrigado.\nEspero ver você de novo.",
+        "es-ES": "[Bain]\nGracias.\nEspero volver a verte."
     },
     "zBZA": {
-        "en": "[Bain]\nI found a dark brown stain on my shoulder.\nIt doesn't come off. I'll have to go back to the village to get treatment.",
-        "pt": "[Bain]\nEncontrei uma mancha marrom-escuro no ombro.\nEla não sai. Vou ter de voltar à vila para me tratar.",
-        "es": "[Bain]\nDescubrí una mancha marrón oscuro en mi hombro.\nNo se quita. Tendré que volver a la aldea para tratarme."
+        "en-US": "[Bain]\nI found a dark brown stain on my shoulder.\nIt doesn't come off. I'll have to go back to the village to get treatment.",
+        "pt-BR": "[Bain]\nEncontrei uma mancha marrom-escuro no ombro.\nEla não sai. Vou ter de voltar à vila para me tratar.",
+        "es-ES": "[Bain]\nDescubrí una mancha marrón oscuro en mi hombro.\nNo se quita. Tendré que volver a la aldea para tratarme."
     },
     "zRZA": {
-        "en": "Give Bradium.",
-        "pt": "Dar Bradium.",
-        "es": "Darle el Bradium."
+        "en-US": "Give Bradium.",
+        "pt-BR": "Dar Bradium.",
+        "es-ES": "Darle el Bradium."
     },
     "zhZA": {
-        "en": "[Bain]\nWe meet again.\nI wouldn't have had the chance to return to the village if you didn't give me the Bradium before.",
-        "pt": "[Bain]\nNós nos encontramos de novo.\nEu não teria chance de voltar à vila se você não tivesse me dado o Bradium.",
-        "es": "[Bain]\nNos volvemos a encontrar.\nSi no me hubieras dado el Bradium, no habría podido volver a la aldea."
+        "en-US": "[Bain]\nWe meet again.\nI wouldn't have had the chance to return to the village if you didn't give me the Bradium before.",
+        "pt-BR": "[Bain]\nNós nos encontramos de novo.\nEu não teria chance de voltar à vila se você não tivesse me dado o Bradium.",
+        "es-ES": "[Bain]\nNos volvemos a encontrar.\nSi no me hubieras dado el Bradium, no habría podido volver a la aldea."
     },
     "zxZA": {
-        "en": "[Bain]\nI am forever grateful.\nI'm willing to teach you how to erect a pillar anytime you want.",
-        "pt": "[Bain]\nSerei sempre grato.\nEstou disposto a lhe ensinar como erguer um pilar, quando você quiser.",
-        "es": "[Bain]\nTe estoy eternamente agradecido.\nVen cuando desees y te enseñaré a erguir un pilar."
+        "en-US": "[Bain]\nI am forever grateful.\nI'm willing to teach you how to erect a pillar anytime you want.",
+        "pt-BR": "[Bain]\nSerei sempre grato.\nEstou disposto a lhe ensinar como erguer um pilar, quando você quiser.",
+        "es-ES": "[Bain]\nTe estoy eternamente agradecido.\nVen cuando desees y te enseñaré a erguir un pilar."
     },
     "0BZA": {
-        "en": "[Bain]\nI don't teach these things to just anyone!!\nHa ha ha!!\nAren't you excited about it?",
-        "pt": "[Bain]\nNão ensino essas coisas para qualquer pessoa!!\nHahaha!!\nNão está empolgado com isso?",
-        "es": "[Bain]\n¡No le enseño estas cosas a cualquiera!\nJa, ja, ja.\n¿No te emociona?"
+        "en-US": "[Bain]\nI don't teach these things to just anyone!!\nHa ha ha!!\nAren't you excited about it?",
+        "pt-BR": "[Bain]\nNão ensino essas coisas para qualquer pessoa!!\nHahaha!!\nNão está empolgado com isso?",
+        "es-ES": "[Bain]\n¡No le enseño estas cosas a cualquiera!\nJa, ja, ja.\n¿No te emociona?"
     },
     "0RZA": {
-        "en": "[Bain]\nXXXXXX\nXXXXXX",
-        "pt": "[Bain]\n¡ó¡ø¢± ¡÷ \n¡ö¡ñ¡Ð ¡ò ¡õ",
-        "es": "[Bain]\nXXXXXX\nXXXXXX"
+        "en-US": "[Bain]\nXXXXXX\nXXXXXX",
+        "pt-BR": "[Bain]\n¡ó¡ø¢± ¡÷ \n¡ö¡ñ¡Ð ¡ò ¡õ",
+        "es-ES": "[Bain]\nXXXXXX\nXXXXXX"
     },
     "0hZA": {
-        "en": "Lash",
-        "pt": "Lash",
-        "es": "Bouy"
+        "en-US": "Lash",
+        "pt-BR": "Lash",
+        "es-ES": "Bouy"
     },
     "0xZA": {
-        "en": "[Lash]\nSigh......\nI'm so tired...\nBut fatigue helps me to move forward.",
-        "pt": "[Lash]\n*suspiro*\nEstou tão cansado...\nMas, a fadiga me ajuda a seguir em frente.",
-        "es": "[Lash]\n*Suspira…*\nSiento tanto cansancio…\nPero el cansancio me ayuda a seguir adelante."
+        "en-US": "[Lash]\nSigh......\nI'm so tired...\nBut fatigue helps me to move forward.",
+        "pt-BR": "[Lash]\n*suspiro*\nEstou tão cansado...\nMas, a fadiga me ajuda a seguir em frente.",
+        "es-ES": "[Lash]\n*Suspira…*\nSiento tanto cansancio…\nPero el cansancio me ayuda a seguir adelante."
     },
     "1BZA": {
-        "en": "[Lash]\nThe sweat, heavy breathing, and continuous tiredness proves that I'm a true Sapha.\nAnd I actually enjoy it. Ha ha ha ha.",
-        "pt": "[Lash]\nO suor, a respiração pesada e o cansaço contínuo provam que sou um Manuk de verdade.\nE eu até gosto. Hahahaha.",
-        "es": "[Lash]\nEl sudor, la respiración agitada y el cansancio permanente demuestran que soy sapha de verdad.\nY la verdad es que lo disfruto. Ja, ja, ja."
+        "en-US": "[Lash]\nThe sweat, heavy breathing, and continuous tiredness proves that I'm a true Sapha.\nAnd I actually enjoy it. Ha ha ha ha.",
+        "pt-BR": "[Lash]\nO suor, a respiração pesada e o cansaço contínuo provam que sou um Manuk de verdade.\nE eu até gosto. Hahahaha.",
+        "es-ES": "[Lash]\nEl sudor, la respiración agitada y el cansancio permanente demuestran que soy sapha de verdad.\nY la verdad es que lo disfruto. Ja, ja, ja."
     },
     "1RZA": {
-        "en": "[Lash]\nIf you'd like to tell him how I'm doing, look at my forearm. Doesn't it spell out 'Strong' on it?",
-        "pt": "[Lash]\nSe quer dizer a ele como estou, olhe só meu braço. Ele não mostra como sou forte?",
-        "es": "[Lash]\nSi quieres describirle cómo me siento, solo mira mi antebrazo. ¿No te da inmediatamente la impresión de poder?"
+        "en-US": "[Lash]\nIf you'd like to tell him how I'm doing, look at my forearm. Doesn't it spell out 'Strong' on it?",
+        "pt-BR": "[Lash]\nSe quer dizer a ele como estou, olhe só meu braço. Ele não mostra como sou forte?",
+        "es-ES": "[Lash]\nSi quieres describirle cómo me siento, solo mira mi antebrazo. ¿No te da inmediatamente la impresión de poder?"
     },
     "1hZA": {
-        "en": "[Lash]\nJust tell him what you see!\nHa ha ha ha ha!",
-        "pt": "[Lash]\n É só contar a ele o que acaba de ver!\nHahahahaha!",
-        "es": "[Lash]\n¡Solo cuéntale lo que viste!\n¡Ja, ja, ja, ja!"
+        "en-US": "[Lash]\nJust tell him what you see!\nHa ha ha ha ha!",
+        "pt-BR": "[Lash]\n É só contar a ele o que acaba de ver!\nHahahahaha!",
+        "es-ES": "[Lash]\n¡Solo cuéntale lo que viste!\n¡Ja, ja, ja, ja!"
     },
     "1xZA": {
-        "en": "[Lash]\nBut what is your business here?\nYou want to share the labor and sweat?",
-        "pt": "[Lash]\nMas, o que você veio fazer aqui? \nQuer trabalhar e suar a camisa também?",
-        "es": "[Lash]\nEn fin, ¿qué te trae por aquí?\n¿Quieres compartir el trabajo y el sudor?"
+        "en-US": "[Lash]\nBut what is your business here?\nYou want to share the labor and sweat?",
+        "pt-BR": "[Lash]\nMas, o que você veio fazer aqui? \nQuer trabalhar e suar a camisa também?",
+        "es-ES": "[Lash]\nEn fin, ¿qué te trae por aquí?\n¿Quieres compartir el trabajo y el sudor?"
     },
     "2BZA": {
-        "en": "[Lash]\nHm?\nOh, you are Frede's messenger?\nTo bad.\nI thought you were like me judging from your forearm.",
-        "pt": "[Lash]\nHum? \nAh, veio como mensageiro de Frede? \nQue pena.\nAchei que você fosse como eu, a julgar pelo seu braço forte.",
-        "es": "[Lash]\n¿Eh?\nAh, ¿vienes a entregar un mensaje de Frede?\nQué mal.\nA juzgar por tu antebrazo, pensé que eras como yo."
+        "en-US": "[Lash]\nHm?\nOh, you are Frede's messenger?\nTo bad.\nI thought you were like me judging from your forearm.",
+        "pt-BR": "[Lash]\nHum? \nAh, veio como mensageiro de Frede? \nQue pena.\nAchei que você fosse como eu, a julgar pelo seu braço forte.",
+        "es-ES": "[Lash]\n¿Eh?\nAh, ¿vienes a entregar un mensaje de Frede?\nQué mal.\nA juzgar por tu antebrazo, pensé que eras como yo."
     },
     "2RZA": {
-        "en": "[Lash]\nWow!!!!\nYou've saved me!",
-        "pt": "[Lash]\nUau!!!!\nVocê me salvou!",
-        "es": "[Lash]\n¡Vaya!\n¡Me salvaste!"
+        "en-US": "[Lash]\nWow!!!!\nYou've saved me!",
+        "pt-BR": "[Lash]\nUau!!!!\nVocê me salvou!",
+        "es-ES": "[Lash]\n¡Vaya!\n¡Me salvaste!"
     },
     "2hZA": {
-        "en": "[Lash]\nI would have perished into ashes here if it weren't for you!",
-        "pt": "[Lash]\nEu teria virado cinza, se não fosse por você!",
-        "es": "[Lash]\n¡Me habría convertido en cenizas si no hubiese sido por ti!"
+        "en-US": "[Lash]\nI would have perished into ashes here if it weren't for you!",
+        "pt-BR": "[Lash]\nEu teria virado cinza, se não fosse por você!",
+        "es-ES": "[Lash]\n¡Me habría convertido en cenizas si no hubiese sido por ti!"
     },
     "2xZA": {
-        "en": "[Lash]\nMoan...\nIs... this what they call fatigue!\nNever knew I would feel this. Sob.",
-        "pt": "[Lash]\n*resmungo*\n É... É isso que se chama fadiga!\nNunca achei que sentiria isso. *choro*",
-        "es": "[Lash]\nAhhh…\n¿Esto es a lo que llaman fatiga?\nJamás imaginé que podía sentir esto. *Solloza*"
+        "en-US": "[Lash]\nMoan...\nIs... this what they call fatigue!\nNever knew I would feel this. Sob.",
+        "pt-BR": "[Lash]\n*resmungo*\n É... É isso que se chama fadiga!\nNunca achei que sentiria isso. *choro*",
+        "es-ES": "[Lash]\nAhhh…\n¿Esto es a lo que llaman fatiga?\nJamás imaginé que podía sentir esto. *Solloza*"
     },
     "3BZA": {
-        "en": "You give Bradium to Lash.",
-        "pt": "Dar o Bradium a Lash.",
-        "es": "Darle el Bradium a Lash."
+        "en-US": "You give Bradium to Lash.",
+        "pt-BR": "Dar o Bradium a Lash.",
+        "es-ES": "Darle el Bradium a Lash."
     },
     "3RZA": {
-        "en": "[Lash]\nHa ha ha!!\nYou are my savior!\nOur friendship will last forever regardless of race!",
-        "pt": "[Lash]\nHahaha!!\nVocê é meu salvador!\nNossa amizade será eterna, não importa a diferença de raça!",
-        "es": "[Lash]\nJa, ja, ja.\n¡Salvaste mi vida!\n¡Nuestra amistad durará para siempre, independientemente de nuestras razas!"
+        "en-US": "[Lash]\nHa ha ha!!\nYou are my savior!\nOur friendship will last forever regardless of race!",
+        "pt-BR": "[Lash]\nHahaha!!\nVocê é meu salvador!\nNossa amizade será eterna, não importa a diferença de raça!",
+        "es-ES": "[Lash]\nJa, ja, ja.\n¡Salvaste mi vida!\n¡Nuestra amistad durará para siempre, independientemente de nuestras razas!"
     },
     "3hZA": {
-        "en": "[Lash]\nXXXXXXXXXXXXXXXX\nXXXXXXXXXXXX\nXXXXXX\nX\nXXXXXXXX",
-        "pt": "[Lash]\n¡ô¡õ¡ó ¡ø ¡ð¢±¡û ¡ö ¡ð\n¡ð¡þ¡þ ¡ù ¡Ð¡ñ¡ï ¢¤ \n¡ô¡ò¢² ¡ø \n¡÷\n¡õ¢³¡ñ ¡õ ¡ñ",
-        "es": "[Lash]\nXXXXXXXXXXXXXXXX\nXXXXXXXXXXXX\nXXXXXX\nX\nXXXXXXXX"
+        "en-US": "[Lash]\nXXXXXXXXXXXXXXXX\nXXXXXXXXXXXX\nXXXXXX\nX\nXXXXXXXX",
+        "pt-BR": "[Lash]\n¡ô¡õ¡ó ¡ø ¡ð¢±¡û ¡ö ¡ð\n¡ð¡þ¡þ ¡ù ¡Ð¡ñ¡ï ¢¤ \n¡ô¡ò¢² ¡ø \n¡÷\n¡õ¢³¡ñ ¡õ ¡ñ",
+        "es-ES": "[Lash]\nXXXXXXXXXXXXXXXX\nXXXXXXXXXXXX\nXXXXXX\nX\nXXXXXXXX"
     },
     "3xZA": {
-        "en": "Bouy",
-        "pt": "Bouy",
-        "es": "Agente Pata de Gato"
+        "en-US": "Bouy",
+        "pt-BR": "Bouy",
+        "es-ES": "Agente Pata de Gato"
     },
     "4BZA": {
-        "en": "[Bouy]\nOutsiders are prohibited here.\nIf you have come here by mistake, please find your way out now.",
-        "pt": "[Bouy]\nOs estrangeiros não podem entrar aqui.\nSe tiver entrado por engano, por favor, saia agora.",
-        "es": "[Bouy]\nSe prohíbe el ingreso de extraños aquí.\nSi llegaste aquí por equivocación, vuelve por donde entraste."
+        "en-US": "[Bouy]\nOutsiders are prohibited here.\nIf you have come here by mistake, please find your way out now.",
+        "pt-BR": "[Bouy]\nOs estrangeiros não podem entrar aqui.\nSe tiver entrado por engano, por favor, saia agora.",
+        "es-ES": "[Bouy]\nSe prohíbe el ingreso de extraños aquí.\nSi llegaste aquí por equivocación, vuelve por donde entraste."
     },
     "4RZA": {
-        "en": "I came on behalf of Frede.",
-        "pt": "Vim por causa de Frede.",
-        "es": "Vengo en nombre de Frede."
+        "en-US": "I came on behalf of Frede.",
+        "pt-BR": "Vim por causa de Frede.",
+        "es-ES": "Vengo en nombre de Frede."
     },
     "4hZA": {
-        "en": "[Bouy]\nI didn't know. Excuse me.\nWhat did he ask you to do?",
-        "pt": "[Bouy]\nEu não sabia. Desculpe.\nO que ele pediu para você fazer?",
-        "es": "[Bouy]\nNo lo sabía. Disculpa.\n¿Qué te pidió que hicieras?"
+        "en-US": "[Bouy]\nI didn't know. Excuse me.\nWhat did he ask you to do?",
+        "pt-BR": "[Bouy]\nEu não sabia. Desculpe.\nO que ele pediu para você fazer?",
+        "es-ES": "[Bouy]\nNo lo sabía. Disculpa.\n¿Qué te pidió que hicieras?"
     },
     "4xZA": {
-        "en": "[{0}]\nHe asked me to deliver Bradium to his friends working in the cave outside the village.",
-        "pt": "[{0}]\nEle me pediu para levar Bradium aos amigos dele que estão trabalhando na caverna fora da vila.",
-        "es": "[{0}]\nMe pidió que les entregara Bradium a sus amigos que trabajan en la cueva en las afueras de la aldea."
+        "en-US": "[{0}]\nHe asked me to deliver Bradium to his friends working in the cave outside the village.",
+        "pt-BR": "[{0}]\nEle me pediu para levar Bradium aos amigos dele que estão trabalhando na caverna fora da vila.",
+        "es-ES": "[{0}]\nMe pidió que les entregara Bradium a sus amigos que trabajan en la cueva en las afueras de la aldea."
     },
     "5BZA": {
-        "en": "[Bouy]\nOh no. I don't have any portable Bradium because of insufficient supplies.",
-        "pt": "[Bouy]\nAh, não. Não tenho nenhum Bradium pronto para levar, pois estou sem suprimentos.",
-        "es": "[Bouy]\nAy, a mí no me queda Bradium portátil porque se acabaron los recursos."
+        "en-US": "[Bouy]\nOh no. I don't have any portable Bradium because of insufficient supplies.",
+        "pt-BR": "[Bouy]\nAh, não. Não tenho nenhum Bradium pronto para levar, pois estou sem suprimentos.",
+        "es-ES": "[Bouy]\nAy, a mí no me queda Bradium portátil porque se acabaron los recursos."
     },
     "5RZA": {
-        "en": "[Bouy]\nI will only be able to get the Bradium that is being refined now in a few days. We let Pioms returning from outside work stay and rest in the village.",
-        "pt": "[Bouy]\nSó vou conseguir pegar o Bradium que está sendo refinado daqui a alguns dias. Deixamos os Mineiros que voltam do trabalho em campo ficarem na vila para descansar.",
-        "es": "[Bouy]\nSolo podré usar el Bradium que se refinará ahora en un par de días. Les estamos permitiendo a los pioms que vuelven de trabajar afuera que se queden en la aldea a descansar."
+        "en-US": "[Bouy]\nI will only be able to get the Bradium that is being refined now in a few days. We let Pioms returning from outside work stay and rest in the village.",
+        "pt-BR": "[Bouy]\nSó vou conseguir pegar o Bradium que está sendo refinado daqui a alguns dias. Deixamos os Mineiros que voltam do trabalho em campo ficarem na vila para descansar.",
+        "es-ES": "[Bouy]\nSolo podré usar el Bradium que se refinará ahora en un par de días. Les estamos permitiendo a los pioms que vuelven de trabajar afuera que se queden en la aldea a descansar."
     },
     "5hZA": {
-        "en": "[Bouy]\nBut I see they haven't returned yet.\nThey must be out of Bradium by now.\nThis isn't good.",
-        "pt": "[Bouy]\nMas, vejo que eles ainda não voltaram.\nDevem estar sem Bradium agora.\nIsso não é bom.",
-        "es": "[Bouy]\nPero veo que aún no vuelven.\nYa se les debe haber acabado el Bradium.\nEsto no es bueno."
+        "en-US": "[Bouy]\nBut I see they haven't returned yet.\nThey must be out of Bradium by now.\nThis isn't good.",
+        "pt-BR": "[Bouy]\nMas, vejo que eles ainda não voltaram.\nDevem estar sem Bradium agora.\nIsso não é bom.",
+        "es-ES": "[Bouy]\nPero veo que aún no vuelven.\nYa se les debe haber acabado el Bradium.\nEsto no es bueno."
     },
     "5xZA": {
-        "en": "[Bouy]\nWorst case, they wouldn't come back to the village at all.",
-        "pt": "[Bouy]\nNa pior das hipóteses, eles nem vão conseguir voltar à vila.",
-        "es": "[Bouy]\nEn el peor de los casos, no volverán a la aldea."
+        "en-US": "[Bouy]\nWorst case, they wouldn't come back to the village at all.",
+        "pt-BR": "[Bouy]\nNa pior das hipóteses, eles nem vão conseguir voltar à vila.",
+        "es-ES": "[Bouy]\nEn el peor de los casos, no volverán a la aldea."
     },
     "6BZA": {
-        "en": "[{0}]\nIs there another way?",
-        "pt": "[{0}]\nHá outro jeito?",
-        "es": "[{0}]\n¿Hay algo más que se pueda hacer?"
+        "en-US": "[{0}]\nIs there another way?",
+        "pt-BR": "[{0}]\nHá outro jeito?",
+        "es-ES": "[{0}]\n¿Hay algo más que se pueda hacer?"
     },
     "6RZA": {
-        "en": "[Bouy]\nIt takes a lot of time to refine a large Bradium mineral but small pieces of Bradium will be quick.",
-        "pt": "[Bouy]\nDemora muito para refinar um minério de Bradium grande, mas para pedaços pequenos de Bradium, é rápido.",
-        "es": "[Bouy]\nLleva mucho tiempo refinar el mineral Bradium grande, pero los trozos pequeños de Bradium se refinan rápido."
+        "en-US": "[Bouy]\nIt takes a lot of time to refine a large Bradium mineral but small pieces of Bradium will be quick.",
+        "pt-BR": "[Bouy]\nDemora muito para refinar um minério de Bradium grande, mas para pedaços pequenos de Bradium, é rápido.",
+        "es-ES": "[Bouy]\nLleva mucho tiempo refinar el mineral Bradium grande, pero los trozos pequeños de Bradium se refinan rápido."
     },
     "6hZA": {
-        "en": "[Bouy]\nBradium mineral can be collected anywhere in this area but the effectiveness of refined pieces is low.",
-        "pt": "[Bouy]\nO minério de Bradium pode ser coletado em qualquer lugar nesta área, mas a eficiência das peças refinadas é baixa.",
-        "es": "[Bouy]\nEl mineral Bradium puede encontrarse en cualquier lugar de esta zona, pero la eficacia de las piezas refinadas es baja."
+        "en-US": "[Bouy]\nBradium mineral can be collected anywhere in this area but the effectiveness of refined pieces is low.",
+        "pt-BR": "[Bouy]\nO minério de Bradium pode ser coletado em qualquer lugar nesta área, mas a eficiência das peças refinadas é baixa.",
+        "es-ES": "[Bouy]\nEl mineral Bradium puede encontrarse en cualquier lugar de esta zona, pero la eficacia de las piezas refinadas es baja."
     },
     "6xZA": {
-        "en": "[Bouy]\nYou can easily collect ^F57D7Dpieces of Bradium from monsters nearby^000000.",
-        "pt": "[Bouy]\nVocê pode coletar facilmente ^F57D7Dpedaços de Bradium com os monstros próximos^000000.",
-        "es": "[Bouy]\nPuedes recolectar fácilmente ^F57D7Del Bradium que necesitas con los monstruos de los alrededores^000000."
+        "en-US": "[Bouy]\nYou can easily collect ^F57D7Dpieces of Bradium from monsters nearby^000000.",
+        "pt-BR": "[Bouy]\nVocê pode coletar facilmente ^F57D7Dpedaços de Bradium com os monstros próximos^000000.",
+        "es-ES": "[Bouy]\nPuedes recolectar fácilmente ^F57D7Del Bradium que necesitas con los monstruos de los alrededores^000000."
     },
     "7BZA": {
-        "en": "[Bouy]\nAbout ^F57D7D30 pieces of Bradium^000000 will be enough to share with 6 people.",
-        "pt": "[Bouy]\nCerca de ^F57D7D30 pedaços de Bradium^000000 devem bastar para dividir entre 6 pessoas.",
-        "es": "[Bouy]\nBastará con unas ^F57D7D30 unidades de Bradium^000000 para compartirlas con seis personas."
+        "en-US": "[Bouy]\nAbout ^F57D7D30 pieces of Bradium^000000 will be enough to share with 6 people.",
+        "pt-BR": "[Bouy]\nCerca de ^F57D7D30 pedaços de Bradium^000000 devem bastar para dividir entre 6 pessoas.",
+        "es-ES": "[Bouy]\nBastará con unas ^F57D7D30 unidades de Bradium^000000 para compartirlas con seis personas."
     },
     "7RZA": {
-        "en": "[Bouy]\nYou've brought back the Bradium.\nI've been waiting for the Galtens to return because I'm not accustomed to battle since I'm Venknick. Thank you very much.",
-        "pt": "[Bouy]\nVocê trouxe o Bradium.\nEstava esperando até os Gartons voltarem porque sou um Venknick e não estou acostumado com as batalhas. Muito obrigado.",
-        "es": "[Bouy]\nConseguiste el Bradium.\nHe estado esperando que vuelvan los galtens porque soy venknick y no estoy acostumbrado a pelear. Muchas gracias."
+        "en-US": "[Bouy]\nYou've brought back the Bradium.\nI've been waiting for the Galtens to return because I'm not accustomed to battle since I'm Venknick. Thank you very much.",
+        "pt-BR": "[Bouy]\nVocê trouxe o Bradium.\nEstava esperando até os Gartons voltarem porque sou um Venknick e não estou acostumado com as batalhas. Muito obrigado.",
+        "es-ES": "[Bouy]\nConseguiste el Bradium.\nHe estado esperando que vuelvan los galtens porque soy venknick y no estoy acostumbrado a pelear. Muchas gracias."
     },
     "7hZA": {
-        "en": "[Bouy]\nHandwork is much faster to refine pieces of Bradium instead of using a machine. I will only need an hour to finish.",
-        "pt": "[Bouy]\nO trabalho manual é mais rápido do que uma máquina para refinar pedaços pequenos de Bradium. Só vou precisar de uma hora para terminar.",
-        "es": "[Bouy]\nTrabajar a mano es mucho más rápido para refinar piezas de Bradium que usar una máquina. Solo necesitaré una hora para terminar."
+        "en-US": "[Bouy]\nHandwork is much faster to refine pieces of Bradium instead of using a machine. I will only need an hour to finish.",
+        "pt-BR": "[Bouy]\nO trabalho manual é mais rápido do que uma máquina para refinar pedaços pequenos de Bradium. Só vou precisar de uma hora para terminar.",
+        "es-ES": "[Bouy]\nTrabajar a mano es mucho más rápido para refinar piezas de Bradium que usar una máquina. Solo necesitaré una hora para terminar."
     },
     "7xZA": {
-        "en": "[Bouy]\nPlease go rest while I get to work.",
-        "pt": "[Bouy]\nPor favor, vá descansar enquanto eu trabalho.",
-        "es": "[Bouy]\nVe a descansar mientras me pongo a trabajar."
+        "en-US": "[Bouy]\nPlease go rest while I get to work.",
+        "pt-BR": "[Bouy]\nPor favor, vá descansar enquanto eu trabalho.",
+        "es-ES": "[Bouy]\nVe a descansar mientras me pongo a trabajar."
     },
     "8BZA": {
-        "en": "[Bouy]\nI did it!\nI was a bit nervous because it has been a long time since I did manual work but I think I did a good job.\nPlease take these to them.",
-        "pt": "[Bouy]\nConsegui!\nEu estava um pouco nervoso porque fazia muito tempo que não fazia um trabalho manual, mas acho que fiz um bom serviço.\nPor favor, leve para eles.",
-        "es": "[Bouy]\n¡Lo logré!\nSentí un poco de nervios porque hacía mucho tiempo que no hacía trabajo manual, pero creo que salió bien.\nLlévales esto, por favor."
+        "en-US": "[Bouy]\nI did it!\nI was a bit nervous because it has been a long time since I did manual work but I think I did a good job.\nPlease take these to them.",
+        "pt-BR": "[Bouy]\nConsegui!\nEu estava um pouco nervoso porque fazia muito tempo que não fazia um trabalho manual, mas acho que fiz um bom serviço.\nPor favor, leve para eles.",
+        "es-ES": "[Bouy]\n¡Lo logré!\nSentí un poco de nervios porque hacía mucho tiempo que no hacía trabajo manual, pero creo que salió bien.\nLlévales esto, por favor."
     },
     "8RZA": {
-        "en": "[Bouy]\nI'm still working on it so please rest a little more.",
-        "pt": "[Bouy]\nAinda estou trabalhando nisso, então descanse um pouco mais.",
-        "es": "[Bouy]\nAún estoy trabajando, así que descansa un poco más."
+        "en-US": "[Bouy]\nI'm still working on it so please rest a little more.",
+        "pt-BR": "[Bouy]\nAinda estou trabalhando nisso, então descanse um pouco mais.",
+        "es-ES": "[Bouy]\nAún estoy trabajando, así que descansa un poco más."
     },
     "8hZA": {
-        "en": "[Bouy]\nSaphas cannot live unless we consume Bradium continuously.\nThat is why we needed spaces for us to inject Bradium all over the village.",
-        "pt": "[Bouy]\nOs Manuks não podem viver sem consumir Bradium continuamente.\nPor isso, precisamos de espaços para consumo de Bradium em toda a vila.",
-        "es": "[Bouy]\nLos saphas no podemos vivir si no consumimos Bradium continuamente.\nPor eso, necesitamos lugares por toda la aldea donde podamos inyectarnos Bradium."
+        "en-US": "[Bouy]\nSaphas cannot live unless we consume Bradium continuously.\nThat is why we needed spaces for us to inject Bradium all over the village.",
+        "pt-BR": "[Bouy]\nOs Manuks não podem viver sem consumir Bradium continuamente.\nPor isso, precisamos de espaços para consumo de Bradium em toda a vila.",
+        "es-ES": "[Bouy]\nLos saphas no podemos vivir si no consumimos Bradium continuamente.\nPor eso, necesitamos lugares por toda la aldea donde podamos inyectarnos Bradium."
     },
     "8xZA": {
-        "en": "[Bouy]\nBut those working outside of the village cannot return often to refill their Bradium so we provide Bradium that is portable.",
-        "pt": "[Bouy]\nMas, quem trabalha fora da vila não pode voltar sempre para repor seu Bradium, então oferecemos uma forma portátil.",
-        "es": "[Bouy]\nPero los que trabajan fuera de la aldea no pueden volver a reabastecerse muy a menudo, así que les proporcionamos Bradium portátil."
+        "en-US": "[Bouy]\nBut those working outside of the village cannot return often to refill their Bradium so we provide Bradium that is portable.",
+        "pt-BR": "[Bouy]\nMas, quem trabalha fora da vila não pode voltar sempre para repor seu Bradium, então oferecemos uma forma portátil.",
+        "es-ES": "[Bouy]\nPero los que trabajan fuera de la aldea no pueden volver a reabastecerse muy a menudo, así que les proporcionamos Bradium portátil."
     },
     "9BZA": {
-        "en": "[Bouy]\nBut there was a problem with the Bradium mining in the Manuk area recently and we have a shortage of supplies. We don't have enough to give out.",
-        "pt": "[Bouy]\nMas, houve um problema recentemente na mineração de Bradium em Manuk, e ficamos com poucos suprimentos. Não temos o suficiente para distribuir.",
-        "es": "[Bouy]\nPero hace poco hubo un problema con la extracción de Bradium en Manuk y, desde entonces, sufrimos escasez de recursos. No tenemos suficiente para todos."
+        "en-US": "[Bouy]\nBut there was a problem with the Bradium mining in the Manuk area recently and we have a shortage of supplies. We don't have enough to give out.",
+        "pt-BR": "[Bouy]\nMas, houve um problema recentemente na mineração de Bradium em Manuk, e ficamos com poucos suprimentos. Não temos o suficiente para distribuir.",
+        "es-ES": "[Bouy]\nPero hace poco hubo un problema con la extracción de Bradium en Manuk y, desde entonces, sufrimos escasez de recursos. No tenemos suficiente para todos."
     },
     "9RZA": {
-        "en": "[Bouy]\nThat is why many Pioms working in the outskirts of the village return for more supplies,",
-        "pt": "[Bouy]\nPor isso, muitos Mineiros que trabalham nos arredores da vila voltam para buscar mais suprimentos,",
-        "es": "[Bouy]\nEs por eso por lo que muchos pioms que trabajan en las afueras de la aldea vuelven a buscar más recursos,"
+        "en-US": "[Bouy]\nThat is why many Pioms working in the outskirts of the village return for more supplies,",
+        "pt-BR": "[Bouy]\nPor isso, muitos Mineiros que trabalham nos arredores da vila voltam para buscar mais suprimentos,",
+        "es-ES": "[Bouy]\nEs por eso por lo que muchos pioms que trabajan en las afueras de la aldea vuelven a buscar más recursos,"
     },
     "9hZA": {
-        "en": "[Bouy]\nand the time spent on transportation is what is slowing down work.",
-        "pt": "[Bouy]\ne o tempo gasto no transporte é o que nos retarda.",
-        "es": "[Bouy]\npero el tiempo que pierden desplazándose ralentiza el trabajo."
+        "en-US": "[Bouy]\nand the time spent on transportation is what is slowing down work.",
+        "pt-BR": "[Bouy]\ne o tempo gasto no transporte é o que nos retarda.",
+        "es-ES": "[Bouy]\npero el tiempo que pierden desplazándose ralentiza el trabajo."
     },
     "9xZA": {
-        "en": "[Bouy]\nTo tell you the truth, transportation time doesn't make much difference but it adds up in the end.",
-        "pt": "[Bouy]\nPara ser franco, o tempo de transporte não causa muita diferença, mas ele se acumula no final.",
-        "es": "[Bouy]\nA decir verdad, el tiempo de desplazamiento no influye mucho, pero influye al fin y al cabo."
+        "en-US": "[Bouy]\nTo tell you the truth, transportation time doesn't make much difference but it adds up in the end.",
+        "pt-BR": "[Bouy]\nPara ser franco, o tempo de transporte não causa muita diferença, mas ele se acumula no final.",
+        "es-ES": "[Bouy]\nA decir verdad, el tiempo de desplazamiento no influye mucho, pero influye al fin y al cabo."
     },
     "+BZA": {
-        "en": "[Bouy]\nWe call this the ^F57D7DCreamy Effect^000000.",
-        "pt": "[Bouy]\nNós chamamos isso de ^F57D7Defeito Creamy^000000.",
-        "es": "[Bouy]\nLo llamamos ^F57D7Del efecto Creamy^000000."
+        "en-US": "[Bouy]\nWe call this the ^F57D7DCreamy Effect^000000.",
+        "pt-BR": "[Bouy]\nNós chamamos isso de ^F57D7Defeito Creamy^000000.",
+        "es-ES": "[Bouy]\nLo llamamos ^F57D7Del efecto Creamy^000000."
     },
     "+RZA": {
-        "en": "[Bouy]\nXXXXXXXXXXXXXXX\nXXXXXX\nXXXXXX",
-        "pt": "[Bouy]\n¡ø¡ö¡þ ¡ù ¡ú¡ð¡ï ¡ø \n¡ï¡ú¡ö ¡ù \n¡õ¡ï¡õ ¡ò",
-        "es": "[Bouy]\nXXXXXXXXXXXXXXX\nXXXXXX\nXXXXXX"
+        "en-US": "[Bouy]\nXXXXXXXXXXXXXXX\nXXXXXX\nXXXXXX",
+        "pt-BR": "[Bouy]\n¡ø¡ö¡þ ¡ù ¡ú¡ð¡ï ¡ø \n¡ï¡ú¡ö ¡ù \n¡õ¡ï¡õ ¡ò",
+        "es-ES": "[Bouy]\nXXXXXXXXXXXXXXX\nXXXXXX\nXXXXXX"
     }
 }

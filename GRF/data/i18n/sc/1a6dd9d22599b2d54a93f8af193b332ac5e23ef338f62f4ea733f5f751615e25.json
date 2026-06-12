@@ -1,392 +1,392 @@
 {
     "gMJn": {
-        "en": "Armor Merchant Naphara",
-        "pt": "Mercador de Armaduras Naphara",
-        "es": "Mercader de armaduras Naphara"
+        "en-US": "Armor Merchant Naphara",
+        "pt-BR": "Mercador de Armaduras Naphara",
+        "es-ES": "Mercader de armaduras Naphara"
     },
     "gcJn": {
-        "en": "- Stop Here!! -\n- You have too many items. -\n- You cannot carry any more items. -\n- Lighten your load and -\n- try again. -",
-        "pt": "- Pare aqui! -\n- Você tem itens demais. -\n- Você não pode carregar mais itens. -\n- Diminua sua carga e -\n- tente novamente. -",
-        "es": "-¡Detente!\nTienes demasiados objetos.\nNo puedes llevar más objetos.\nAligera tu carga e\ninténtalo de nuevo.-"
+        "en-US": "- Stop Here!! -\n- You have too many items. -\n- You cannot carry any more items. -\n- Lighten your load and -\n- try again. -",
+        "pt-BR": "- Pare aqui! -\n- Você tem itens demais. -\n- Você não pode carregar mais itens. -\n- Diminua sua carga e -\n- tente novamente. -",
+        "es-ES": "-¡Detente!\nTienes demasiados objetos.\nNo puedes llevar más objetos.\nAligera tu carga e\ninténtalo de nuevo.-"
     },
     "gsJn": {
-        "en": "[Armor Merchant]\nHello, this is Naphara's store, a place of high class goods.\nWhat would you need?",
-        "pt": "[Mercador de Armaduras]\nOlá, esta é a loja de Naphara, um local de produtos de alta classe.\nDo que você precisa?",
-        "es": "[Comerciante de armaduras]\nHola, este es el mercado de Naphara, un lugar de productos de alta calidad.\n¿Qué necesitas?"
+        "en-US": "[Armor Merchant]\nHello, this is Naphara's store, a place of high class goods.\nWhat would you need?",
+        "pt-BR": "[Mercador de Armaduras]\nOlá, esta é a loja de Naphara, um local de produtos de alta classe.\nDo que você precisa?",
+        "es-ES": "[Comerciante de armaduras]\nHola, este es el mercado de Naphara, un lugar de productos de alta calidad.\n¿Qué necesitas?"
     },
     "g8Jn": {
-        "en": "Str Glove",
-        "pt": "Luva For",
-        "es": "Guante FUE."
+        "en-US": "Str Glove",
+        "pt-BR": "Luva For",
+        "es-ES": "Guante FUE."
     },
     "hMJn": {
-        "en": "Int Glove",
-        "pt": "Luva Int",
-        "es": "Guante INT."
+        "en-US": "Int Glove",
+        "pt-BR": "Luva Int",
+        "es-ES": "Guante INT."
     },
     "hcJn": {
-        "en": "Agi Glove",
-        "pt": "Luva Agi",
-        "es": "Guante AGI."
+        "en-US": "Agi Glove",
+        "pt-BR": "Luva Agi",
+        "es-ES": "Guante AGI."
     },
     "hsJn": {
-        "en": "Vit Glove",
-        "pt": "Luva Vit",
-        "es": "Guante VIT."
+        "en-US": "Vit Glove",
+        "pt-BR": "Luva Vit",
+        "es-ES": "Guante VIT."
     },
     "h8Jn": {
-        "en": "Dex Glove",
-        "pt": "Luva Des",
-        "es": "Guante DES."
+        "en-US": "Dex Glove",
+        "pt-BR": "Luva Des",
+        "es-ES": "Guante DES."
     },
     "iMJn": {
-        "en": "Luk Glove",
-        "pt": "Luva Sor",
-        "es": "Guante SUE."
+        "en-US": "Luk Glove",
+        "pt-BR": "Luva Sor",
+        "es-ES": "Guante SUE."
     },
     "icJn": {
-        "en": "Str Glove",
-        "pt": "Luva For",
-        "es": "Guante FUE."
+        "en-US": "Str Glove",
+        "pt-BR": "Luva For",
+        "es-ES": "Guante FUE."
     },
     "isJn": {
-        "en": "ATK+1 increases for every STR+10",
-        "pt": "ATQ +1 aumenta para cada FOR +10",
-        "es": "ATQ +1 aumenta por cada FUE +10."
+        "en-US": "ATK+1 increases for every STR+10",
+        "pt-BR": "ATQ +1 aumenta para cada FOR +10",
+        "es-ES": "ATQ +1 aumenta por cada FUE +10."
     },
     "i8Jn": {
-        "en": "ATK +1% added above STR 110",
-        "pt": "ATQ +1% adicionado acima de FOR 110",
-        "es": "Daño físico +1% agregado por encima de FUE 110."
+        "en-US": "ATK +1% added above STR 110",
+        "pt-BR": "ATQ +1% adicionado acima de FOR 110",
+        "es-ES": "Daño físico +1% agregado por encima de FUE 110."
     },
     "jMJn": {
-        "en": "Int Glove",
-        "pt": "Luva Int",
-        "es": "Guante INT."
+        "en-US": "Int Glove",
+        "pt-BR": "Luva Int",
+        "es-ES": "Guante INT."
     },
     "jcJn": {
-        "en": "MATK+1 increases for every INT+10",
-        "pt": "ATQM +1 aumenta para cada INT +10",
-        "es": "ATQM +1 aumenta por cada INT +10."
+        "en-US": "MATK+1 increases for every INT+10",
+        "pt-BR": "ATQM +1 aumenta para cada INT +10",
+        "es-ES": "ATQM +1 aumenta por cada INT +10."
     },
     "jsJn": {
-        "en": "MATK +1% added above INT 110",
-        "pt": "ATQM +1% adicionado acima de INT 110",
-        "es": "Daño mágico +1 % agregado por encima de INT 110."
+        "en-US": "MATK +1% added above INT 110",
+        "pt-BR": "ATQM +1% adicionado acima de INT 110",
+        "es-ES": "Daño mágico +1 % agregado por encima de INT 110."
     },
     "j8Jn": {
-        "en": "Agi Glove",
-        "pt": "Luva Agi",
-        "es": "Guante AGI."
+        "en-US": "Agi Glove",
+        "pt-BR": "Luva Agi",
+        "es-ES": "Guante AGI."
     },
     "kMJn": {
-        "en": "FLEE+1 increases for every AGI+10",
-        "pt": "ESQUIVA +1 aumenta para cada AGI +10",
-        "es": "EVA +1 aumenta por cada AGI +10."
+        "en-US": "FLEE+1 increases for every AGI+10",
+        "pt-BR": "ESQUIVA +1 aumenta para cada AGI +10",
+        "es-ES": "EVA +1 aumenta por cada AGI +10."
     },
     "kcJn": {
-        "en": "Complete Flee +1 added above AGI 110",
-        "pt": "Esquiva perfeita +1 adicionado acima de AGI 110",
-        "es": "Esquiva perfecta +1 agregado por encima de AGI 110."
+        "en-US": "Complete Flee +1 added above AGI 110",
+        "pt-BR": "Esquiva perfeita +1 adicionado acima de AGI 110",
+        "es-ES": "Esquiva perfecta +1 agregado por encima de AGI 110."
     },
     "ksJn": {
-        "en": "Vit Glove",
-        "pt": "Luva Vit",
-        "es": "Guante VIT."
+        "en-US": "Vit Glove",
+        "pt-BR": "Luva Vit",
+        "es-ES": "Guante VIT."
     },
     "k8Jn": {
-        "en": "MHP+50 for every VIT+10",
-        "pt": "HPM +50 para cada VIT +10",
-        "es": "HPM +50 por cada VIT +10."
+        "en-US": "MHP+50 for every VIT+10",
+        "pt-BR": "HPM +50 para cada VIT +10",
+        "es-ES": "HPM +50 por cada VIT +10."
     },
     "lMJn": {
-        "en": "MHP+1 added above VIT 110",
-        "pt": "HPM +1% adicionado acima de VIT 110",
-        "es": "HPM +1% agregado por encima de VIT 110."
+        "en-US": "MHP+1 added above VIT 110",
+        "pt-BR": "HPM +1% adicionado acima de VIT 110",
+        "es-ES": "HPM +1% agregado por encima de VIT 110."
     },
     "lcJn": {
-        "en": "Dex Glove",
-        "pt": "Luva Des",
-        "es": "Guante DES."
+        "en-US": "Dex Glove",
+        "pt-BR": "Luva Des",
+        "es-ES": "Guante DES."
     },
     "lsJn": {
-        "en": "HIT+1 increases for every DEX+10",
-        "pt": "PRECISÃO +1 aumenta para cada DES +10",
-        "es": "PREC +1 aumenta por cada DES +10."
+        "en-US": "HIT+1 increases for every DEX+10",
+        "pt-BR": "PRECISÃO +1 aumenta para cada DES +10",
+        "es-ES": "PREC +1 aumenta por cada DES +10."
     },
     "l8Jn": {
-        "en": "Ranged attack power +1% added above DEX 110",
-        "pt": "Poder de ataque a distância +1% adicionado acima de DES 110",
-        "es": "Distancia daño físico +1 % agregado por encima de DES 110."
+        "en-US": "Ranged attack power +1% added above DEX 110",
+        "pt-BR": "Poder de ataque a distância +1% adicionado acima de DES 110",
+        "es-ES": "Distancia daño físico +1 % agregado por encima de DES 110."
     },
     "mMJn": {
-        "en": "Luk Glove",
-        "pt": "Luva Sor",
-        "es": "Guante SUE."
+        "en-US": "Luk Glove",
+        "pt-BR": "Luva Sor",
+        "es-ES": "Guante SUE."
     },
     "mcJn": {
-        "en": "CRI+1 increases for every LUK+10",
-        "pt": "CRIT +1 aumenta para cada SOR +10",
-        "es": "CRIT +1 aumenta por cada SUE +10."
+        "en-US": "CRI+1 increases for every LUK+10",
+        "pt-BR": "CRIT +1 aumenta para cada SOR +10",
+        "es-ES": "CRIT +1 aumenta por cada SUE +10."
     },
     "msJn": {
-        "en": "Critical damage +1% added above LUK 110",
-        "pt": "Dano crítico +1% adicionado acima de SOR 110",
-        "es": "Daño crítico +1 % agregado por encima de SUE 110."
+        "en-US": "Critical damage +1% added above LUK 110",
+        "pt-BR": "Dano crítico +1% adicionado acima de SOR 110",
+        "es-ES": "Daño crítico +1 % agregado por encima de SUE 110."
     },
     "m8Jn": {
-        "en": "[Armor Merchant]\n^3131FF{0}For ^000000,\n^3131FFMHP + 100, MSP + 20^000000\n^3131FF{1}^000000\n^3131FF{2}^000000\n^3131FFRequired Level: 100^000000\n^3131FFSlot:0^000000\n^3131FFWeight:10^000000\nare the characteristic options.",
-        "pt": "[Mercadora de Armaduras]\n^3131FF{0}Por ^000000,\n^3131FFHPM + 100, SPM + 20^000000\n^3131FF{1}^000000\n^3131FF{2}^000000\n^3131FFNível Necessário: 100^000000\n^3131FFEspaço: 0^000000\n^3131FFPeso: 10^000000\nsão as opções de características.",
-        "es": "[Comerciante de armaduras]\n^3131FF{0}Para ^000000,\n^3131FFHPM + 100, PHM + 20^000000\n^3131FF{1}^000000\n^3131FF{2}^000000\n^3131FFNivel requerido: 100^000000\n^3131FFRanura:0^000000\n^3131FFPeso:10^000000\nson las opciones características."
+        "en-US": "[Armor Merchant]\n^3131FF{0}For ^000000,\n^3131FFMHP + 100, MSP + 20^000000\n^3131FF{1}^000000\n^3131FF{2}^000000\n^3131FFRequired Level: 100^000000\n^3131FFSlot:0^000000\n^3131FFWeight:10^000000\nare the characteristic options.",
+        "pt-BR": "[Mercadora de Armaduras]\n^3131FF{0}Por ^000000,\n^3131FFHPM + 100, SPM + 20^000000\n^3131FF{1}^000000\n^3131FF{2}^000000\n^3131FFNível Necessário: 100^000000\n^3131FFEspaço: 0^000000\n^3131FFPeso: 10^000000\nsão as opções de características.",
+        "es-ES": "[Comerciante de armaduras]\n^3131FF{0}Para ^000000,\n^3131FFHPM + 100, PHM + 20^000000\n^3131FF{1}^000000\n^3131FF{2}^000000\n^3131FFNivel requerido: 100^000000\n^3131FFRanura:0^000000\n^3131FFPeso:10^000000\nson las opciones características."
     },
     "nMJn": {
-        "en": "[Armor Merchant]\nIt costs 10 Splendide Coins.\nWould you like to buy it?",
-        "pt": "[Mercador de Armaduras]\nCusta 10 Moedas de Esplendor.\nVocê quer comprar?",
-        "es": "[Comerciante de armaduras]\nCuesta 10 monedas de Splendide.\n¿Te gustaría comprarla?"
+        "en-US": "[Armor Merchant]\nIt costs 10 Splendide Coins.\nWould you like to buy it?",
+        "pt-BR": "[Mercador de Armaduras]\nCusta 10 Moedas de Esplendor.\nVocê quer comprar?",
+        "es-ES": "[Comerciante de armaduras]\nCuesta 10 monedas de Splendide.\n¿Te gustaría comprarla?"
     },
     "ncJn": {
-        "en": "Buy it.",
-        "pt": "Comprar.",
-        "es": "Comprar."
+        "en-US": "Buy it.",
+        "pt-BR": "Comprar.",
+        "es-ES": "Comprar."
     },
     "nsJn": {
-        "en": "Don't buy it.",
-        "pt": "Não comprar.",
-        "es": "No comprar."
+        "en-US": "Don't buy it.",
+        "pt-BR": "Não comprar.",
+        "es-ES": "No comprar."
     },
     "n8Jn": {
-        "en": "[Armor Merchant]\nIt seems like you don't have enough coins.",
-        "pt": "[Mercador de Armaduras]\nParece que você não tem moedas suficientes.",
-        "es": "[Comerciante de armaduras]\nParece que no tienes suficientes monedas."
+        "en-US": "[Armor Merchant]\nIt seems like you don't have enough coins.",
+        "pt-BR": "[Mercador de Armaduras]\nParece que você não tem moedas suficientes.",
+        "es-ES": "[Comerciante de armaduras]\nParece que no tienes suficientes monedas."
     },
     "oMJn": {
-        "en": "[Armor Merchant]\nGreat, it's yours. Thank you.",
-        "pt": "[Mercador de Armaduras]\nÓtimo, aqui está. Agradeço!",
-        "es": "[Comerciante de armaduras]\nGenial, es tuyo. Gracias."
+        "en-US": "[Armor Merchant]\nGreat, it's yours. Thank you.",
+        "pt-BR": "[Mercador de Armaduras]\nÓtimo, aqui está. Agradeço!",
+        "es-ES": "[Comerciante de armaduras]\nGenial, es tuyo. Gracias."
     },
     "ocJn": {
-        "en": "Slot Expert Nattuer",
-        "pt": "Especialista em Espaços Nattuer",
-        "es": "Especialista en Espacios Nattuer"
+        "en-US": "Slot Expert Nattuer",
+        "pt-BR": "Especialista em Espaços Nattuer",
+        "es-ES": "Especialista en Espacios Nattuer"
     },
     "osJn": {
-        "en": "[Slot Expert]\nI am Slot Expert Nattuer.\nIf you bring me an item from my little brother Naphara along with 5 Splendide Coins, I will open up one Slot for you.",
-        "pt": "[Especialista em Espaços]\nSou o especialista em espaços Nattuer.\nSe você me trouxer um item do meu irmão mais novo, Naphara, junto com 5 Moedas de Esplendor, abrirei um espaço para você.",
-        "es": "[Experto en ranuras]\nSoy Nattuer, experto en ranuras.\nSi me traes un objeto de mi hermano menor, Naphara, y 5 monedas de Splendide, te abriré una Ranura."
+        "en-US": "[Slot Expert]\nI am Slot Expert Nattuer.\nIf you bring me an item from my little brother Naphara along with 5 Splendide Coins, I will open up one Slot for you.",
+        "pt-BR": "[Especialista em Espaços]\nSou o especialista em espaços Nattuer.\nSe você me trouxer um item do meu irmão mais novo, Naphara, junto com 5 Moedas de Esplendor, abrirei um espaço para você.",
+        "es-ES": "[Experto en ranuras]\nSoy Nattuer, experto en ranuras.\nSi me traes un objeto de mi hermano menor, Naphara, y 5 monedas de Splendide, te abriré una Ranura."
     },
     "o8Jn": {
-        "en": "Activate a Slot.",
-        "pt": "Ative um espaço.",
-        "es": "Activar una Ranura."
+        "en-US": "Activate a Slot.",
+        "pt-BR": "Ative um espaço.",
+        "es-ES": "Activar una Ranura."
     },
     "pMJn": {
-        "en": "Forget it.",
-        "pt": "Esqueça isso.",
-        "es": "Olvidarlo."
+        "en-US": "Forget it.",
+        "pt-BR": "Esqueça isso.",
+        "es-ES": "Olvidarlo."
     },
     "pcJn": {
-        "en": "[Slot Expert]\nSlot activation is an extremely difficult procedure that can fail even with heightened care and the use of a magnifying lens.",
-        "pt": "[Especialista em Espaços]\nA ativação do espaço é um procedimento extremamente difícil, que pode falhar mesmo com muito cuidado e com o uso de uma lente de aumento.",
-        "es": "[Experto en ranuras]\nLa activación de la Ranura es un procedimiento extremadamente difícil que puede fallar incluso cuando se hace con mucho cuidado y el uso de una lupa."
+        "en-US": "[Slot Expert]\nSlot activation is an extremely difficult procedure that can fail even with heightened care and the use of a magnifying lens.",
+        "pt-BR": "[Especialista em Espaços]\nA ativação do espaço é um procedimento extremamente difícil, que pode falhar mesmo com muito cuidado e com o uso de uma lente de aumento.",
+        "es-ES": "[Experto en ranuras]\nLa activación de la Ranura es un procedimiento extremadamente difícil que puede fallar incluso cuando se hace con mucho cuidado y el uso de una lupa."
     },
     "psJn": {
-        "en": "[Slot Expert]\nOf course, if your heart were as big as that flower-filled land, you wouldn't mind. Right? Should I go for it?",
-        "pt": "[Especialista em Espaços]\nÉ claro que, se seu coração fosse tão grande quanto essa terra cheia de flores, você não se importaria. Não é? Devo ir em frente?",
-        "es": "[Experto en ranuras]\nClaro que, si tu corazón fuera tan grande como esa tierra llena de flores, no te importaría. ¿Verdad? ¿Lo hago?"
+        "en-US": "[Slot Expert]\nOf course, if your heart were as big as that flower-filled land, you wouldn't mind. Right? Should I go for it?",
+        "pt-BR": "[Especialista em Espaços]\nÉ claro que, se seu coração fosse tão grande quanto essa terra cheia de flores, você não se importaria. Não é? Devo ir em frente?",
+        "es-ES": "[Experto en ranuras]\nClaro que, si tu corazón fuera tan grande como esa tierra llena de flores, no te importaría. ¿Verdad? ¿Lo hago?"
     },
     "p8Jn": {
-        "en": "Continue.",
-        "pt": "Continue.",
-        "es": "Continuar."
+        "en-US": "Continue.",
+        "pt-BR": "Continue.",
+        "es-ES": "Continuar."
     },
     "qMJn": {
-        "en": "[Slot Expert]\nWhich item would you like to activate with a Slot?",
-        "pt": "[Especialista em Espaços]\nQual item você gostaria de ativar com um espaço?",
-        "es": "[Experto en ranuras]\n¿Qué objeto quieres activar con una Ranura?"
+        "en-US": "[Slot Expert]\nWhich item would you like to activate with a Slot?",
+        "pt-BR": "[Especialista em Espaços]\nQual item você gostaria de ativar com um espaço?",
+        "es-ES": "[Experto en ranuras]\n¿Qué objeto quieres activar con una Ranura?"
     },
     "qcJn": {
-        "en": "Ag Glove",
-        "pt": "Luva Ag",
-        "es": "Guante AGI."
+        "en-US": "Ag Glove",
+        "pt-BR": "Luva Ag",
+        "es-ES": "Guante AGI."
     },
     "qsJn": {
-        "en": "Ag Glove",
-        "pt": "Luva Ag",
-        "es": "Guante AGI."
+        "en-US": "Ag Glove",
+        "pt-BR": "Luva Ag",
+        "es-ES": "Guante AGI."
     },
     "q8Jn": {
-        "en": "[Slot Expert]\nLet's confirm for the last time. Is the one you want {0}?",
-        "pt": "[Especialista em Espaços]\nVamos confirmar pela última vez. A que você quer é {0}?",
-        "es": "[Experto en ranuras]\nConfirma por última vez. ¿Lo que quieres es {0}?"
+        "en-US": "[Slot Expert]\nLet's confirm for the last time. Is the one you want {0}?",
+        "pt-BR": "[Especialista em Espaços]\nVamos confirmar pela última vez. A que você quer é {0}?",
+        "es-ES": "[Experto en ranuras]\nConfirma por última vez. ¿Lo que quieres es {0}?"
     },
     "rMJn": {
-        "en": "Yes",
-        "pt": "Sim",
-        "es": "Sí."
+        "en-US": "Yes",
+        "pt-BR": "Sim",
+        "es-ES": "Sí."
     },
     "rcJn": {
-        "en": "No",
-        "pt": "Não",
-        "es": "No."
+        "en-US": "No",
+        "pt-BR": "Não",
+        "es-ES": "No."
     },
     "rsJn": {
-        "en": "[Slot Expert]\nWhy don't you talk to me when you know for sure.",
-        "pt": "[Especialista em Espaços]\nFale comigo quando tiver certeza.",
-        "es": "[Experto en ranuras]\nDime cuando sepas exactamente qué quieres."
+        "en-US": "[Slot Expert]\nWhy don't you talk to me when you know for sure.",
+        "pt-BR": "[Especialista em Espaços]\nFale comigo quando tiver certeza.",
+        "es-ES": "[Experto en ranuras]\nDime cuando sepas exactamente qué quieres."
     },
     "r8Jn": {
-        "en": "[Slot Expert]\nYou don't have that item. Why don't you talk to me when you know for sure.",
-        "pt": "[Especialista em Espaços]\nVocê não tem esse item. Fale comigo quando tiver certeza.",
-        "es": "[Experto en ranuras]\nNo tienes ese objeto. Dime cuando sepas exactamente qué quieres."
+        "en-US": "[Slot Expert]\nYou don't have that item. Why don't you talk to me when you know for sure.",
+        "pt-BR": "[Especialista em Espaços]\nVocê não tem esse item. Fale comigo quando tiver certeza.",
+        "es-ES": "[Experto en ranuras]\nNo tienes ese objeto. Dime cuando sepas exactamente qué quieres."
     },
     "sMJn": {
-        "en": "[Slot Expert]\nYou don't have enough coins. Why don't you talk to me when you know for sure.",
-        "pt": "[Especialista em Espaços]\nVocê não tem moedas suficientes. Fale comigo quando tiver certeza.",
-        "es": "[Experto en ranuras]\nNo tienes suficientes monedas. Dime cuando sepas exactamente qué quieres."
+        "en-US": "[Slot Expert]\nYou don't have enough coins. Why don't you talk to me when you know for sure.",
+        "pt-BR": "[Especialista em Espaços]\nVocê não tem moedas suficientes. Fale comigo quando tiver certeza.",
+        "es-ES": "[Experto en ranuras]\nNo tienes suficientes monedas. Dime cuando sepas exactamente qué quieres."
     },
     "scJn": {
-        "en": "[Slot Expert]\nShoot, I'm sorry. It failed.\nBut I'm sure it will work next time. I have a feeling.",
-        "pt": "[Especialista em Espaços]\nDroga, me desculpe. O procedimento falhou.\nMas tenho certeza de que funcionará da próxima vez. Tenho um pressentimento.",
-        "es": "[Experto en ranuras]\nDispara, lo siento. Falló.\nPero seguramente funcionará la próxima vez. Tengo el presentimiento."
+        "en-US": "[Slot Expert]\nShoot, I'm sorry. It failed.\nBut I'm sure it will work next time. I have a feeling.",
+        "pt-BR": "[Especialista em Espaços]\nDroga, me desculpe. O procedimento falhou.\nMas tenho certeza de que funcionará da próxima vez. Tenho um pressentimento.",
+        "es-ES": "[Experto en ranuras]\nDispara, lo siento. Falló.\nPero seguramente funcionará la próxima vez. Tengo el presentimiento."
     },
     "ssJn": {
-        "en": "[Slot Expert]\nMy eyes feel like they're gonna pop out.\nNonetheless, congratulations. Slot activation was successful.",
-        "pt": "[Especialista em Espaços]\nMeus olhos parecem que vão saltar.\nMesmo assim, parabéns. A ativação espaço foi bem-sucedida.",
-        "es": "[Experto en ranuras]\nSiento que se me saldrán los ojos.\nAun así, felicitaciones. La activación de la Ranura fue exitosa."
+        "en-US": "[Slot Expert]\nMy eyes feel like they're gonna pop out.\nNonetheless, congratulations. Slot activation was successful.",
+        "pt-BR": "[Especialista em Espaços]\nMeus olhos parecem que vão saltar.\nMesmo assim, parabéns. A ativação espaço foi bem-sucedida.",
+        "es-ES": "[Experto en ranuras]\nSiento que se me saldrán los ojos.\nAun así, felicitaciones. La activación de la Ranura fue exitosa."
     },
     "s8Jn": {
-        "en": "Herb Merchant Plafina",
-        "pt": "Mercador de Ervas Plafina",
-        "es": "Comerciante de Hierbas Plafina"
+        "en-US": "Herb Merchant Plafina",
+        "pt-BR": "Mercador de Ervas Plafina",
+        "es-ES": "Comerciante de Hierbas Plafina"
     },
     "tMJn": {
-        "en": "[Herb Merchant]\nWelcome, this is Plafina's Herb Store where only the freshest herbs are provided~!",
-        "pt": "[Mercador de Ervas]\nBem-vindo, esta é a loja de ervas do Plafina, onde apenas as ervas mais frescas são fornecidas~!",
-        "es": "[Comerciante de hierbas]\n¡Te damos la bienvenida, este es el Mercado de hierbas de Plafina, donde solo se venden las hierbas más frescas!"
+        "en-US": "[Herb Merchant]\nWelcome, this is Plafina's Herb Store where only the freshest herbs are provided~!",
+        "pt-BR": "[Mercador de Ervas]\nBem-vindo, esta é a loja de ervas do Plafina, onde apenas as ervas mais frescas são fornecidas~!",
+        "es-ES": "[Comerciante de hierbas]\n¡Te damos la bienvenida, este es el Mercado de hierbas de Plafina, donde solo se venden las hierbas más frescas!"
     },
     "tcJn": {
-        "en": "Gardenia",
-        "pt": "Gardênia",
-        "es": "Giro nevado."
+        "en-US": "Gardenia",
+        "pt-BR": "Gardênia",
+        "es-ES": "Giro nevado."
     },
     "tsJn": {
-        "en": "Peony",
-        "pt": "Peônia",
-        "es": "Madre peonía."
+        "en-US": "Peony",
+        "pt-BR": "Peônia",
+        "es-ES": "Madre peonía."
     },
     "t8Jn": {
-        "en": "Slapping Herb",
-        "pt": "Erva-Mate",
-        "es": "Hierba intensa."
+        "en-US": "Slapping Herb",
+        "pt-BR": "Erva-Mate",
+        "es-ES": "Hierba intensa."
     },
     "uMJn": {
-        "en": "Yggdrasil Dust",
-        "pt": "Pó de Yggdrasil",
-        "es": "Polvo de Yggdrasil."
+        "en-US": "Yggdrasil Dust",
+        "pt-BR": "Pó de Yggdrasil",
+        "es-ES": "Polvo de Yggdrasil."
     },
     "ucJn": {
-        "en": "End conversation",
-        "pt": "Terminar conversa",
-        "es": "Finalizar conversación."
+        "en-US": "End conversation",
+        "pt-BR": "Terminar conversa",
+        "es-ES": "Finalizar conversación."
     },
     "usJn": {
-        "en": "[Herb Merchant]\nGardenia has special effects on ^3131FFBurning, Bleeding, Deep Sleep, Sleep^000000.\nRequires 5 seconds between uses.\nIt costs 5 Splendide Coins for each.",
-        "pt": "[Mercador de Ervas]\nGardênia tem efeitos especiais em ^3131FFQueimadura, Sangramento, Sono profundo, Sono^000000.\nRequer 5 segundos entre os usos.\nCusta 5 Moedas Esplendor cada.",
-        "es": "[Comerciante de hierbas]\nGiro nevado tiene efectos especiales para ^3131FFquemaduras, sangrados, sueño profundo y sueño^000000.\nRequiere 5 segundos entre cada uso.\nCuesta 5 monedas de Splendide cada uno."
+        "en-US": "[Herb Merchant]\nGardenia has special effects on ^3131FFBurning, Bleeding, Deep Sleep, Sleep^000000.\nRequires 5 seconds between uses.\nIt costs 5 Splendide Coins for each.",
+        "pt-BR": "[Mercador de Ervas]\nGardênia tem efeitos especiais em ^3131FFQueimadura, Sangramento, Sono profundo, Sono^000000.\nRequer 5 segundos entre os usos.\nCusta 5 Moedas Esplendor cada.",
+        "es-ES": "[Comerciante de hierbas]\nGiro nevado tiene efectos especiales para ^3131FFquemaduras, sangrados, sueño profundo y sueño^000000.\nRequiere 5 segundos entre cada uso.\nCuesta 5 monedas de Splendide cada uno."
     },
     "u8Jn": {
-        "en": "Buy 1.",
-        "pt": "Compre 1.",
-        "es": "Comprar 1."
+        "en-US": "Buy 1.",
+        "pt-BR": "Compre 1.",
+        "es-ES": "Comprar 1."
     },
     "vMJn": {
-        "en": "Buy 10.",
-        "pt": "Compre 10.",
-        "es": "Comprar 10."
+        "en-US": "Buy 10.",
+        "pt-BR": "Compre 10.",
+        "es-ES": "Comprar 10."
     },
     "vcJn": {
-        "en": "Don't buy.",
-        "pt": "Não comprar.",
-        "es": "No comprar."
+        "en-US": "Don't buy.",
+        "pt-BR": "Não comprar.",
+        "es-ES": "No comprar."
     },
     "vsJn": {
-        "en": "[Herb Merchant]\nWould you like to buy 1 Gardenia?",
-        "pt": "[Mercador de Ervas]\nGostaria de comprar 1 Gardênia?",
-        "es": "[Comerciante de hierbas]\n¿Quieres comprar 1 unidad de Giro nevado?"
+        "en-US": "[Herb Merchant]\nWould you like to buy 1 Gardenia?",
+        "pt-BR": "[Mercador de Ervas]\nGostaria de comprar 1 Gardênia?",
+        "es-ES": "[Comerciante de hierbas]\n¿Quieres comprar 1 unidad de Giro nevado?"
     },
     "v8Jn": {
-        "en": "Buy.",
-        "pt": "Comprar.",
-        "es": "Comprar."
+        "en-US": "Buy.",
+        "pt-BR": "Comprar.",
+        "es-ES": "Comprar."
     },
     "wMJn": {
-        "en": "[Herb Merchant]\nYou don't have enough coins.",
-        "pt": "[Mercador de Ervas]\nVocê não tem moedas suficientes.",
-        "es": "[Comerciante de hierbas]\nNo tienes suficientes monedas."
+        "en-US": "[Herb Merchant]\nYou don't have enough coins.",
+        "pt-BR": "[Mercador de Ervas]\nVocê não tem moedas suficientes.",
+        "es-ES": "[Comerciante de hierbas]\nNo tienes suficientes monedas."
     },
     "wcJn": {
-        "en": "[Herb Merchant]\nThank you for your business.",
-        "pt": "[Mercador de Ervas]\nObrigado pela compra.",
-        "es": "[Comerciante de hierbas]\nGracias por tu compra."
+        "en-US": "[Herb Merchant]\nThank you for your business.",
+        "pt-BR": "[Mercador de Ervas]\nObrigado pela compra.",
+        "es-ES": "[Comerciante de hierbas]\nGracias por tu compra."
     },
     "wsJn": {
-        "en": "[Herb Merchant]\nWould you like to buy 10 Gardenia?",
-        "pt": "[Mercador de Ervas]\nGostaria de comprar 10 Gardênias?",
-        "es": "[Comerciante de hierbas]\n¿Quieres comprar 10 unidades de Giro nevado?"
+        "en-US": "[Herb Merchant]\nWould you like to buy 10 Gardenia?",
+        "pt-BR": "[Mercador de Ervas]\nGostaria de comprar 10 Gardênias?",
+        "es-ES": "[Comerciante de hierbas]\n¿Quieres comprar 10 unidades de Giro nevado?"
     },
     "w8Jn": {
-        "en": "[Herb Merchant]\nPeony has special effects on ^3131FFFrost, Frozen, Freezing^000000\nRequires 5 seconds between uses.\nIt costs 5 Splendide Coins for each.",
-        "pt": "[Mercador de Ervas]\nPeônia tem efeitos especiais em ^3131FFGelo, Congelado, Congelamento^000000\nRequer 5 segundos entre os usos.\nCusta 5 Moedas Esplendor cada.",
-        "es": "[Comerciante de hierbas]\nMadre peonía tiene efectos especiales para ^3131FFescarchas, heladas y congelamientos.^000000\nRequiere 5 segundos entre cada uso.\nCuesta 5 monedas de Splendide cada uno."
+        "en-US": "[Herb Merchant]\nPeony has special effects on ^3131FFFrost, Frozen, Freezing^000000\nRequires 5 seconds between uses.\nIt costs 5 Splendide Coins for each.",
+        "pt-BR": "[Mercador de Ervas]\nPeônia tem efeitos especiais em ^3131FFGelo, Congelado, Congelamento^000000\nRequer 5 segundos entre os usos.\nCusta 5 Moedas Esplendor cada.",
+        "es-ES": "[Comerciante de hierbas]\nMadre peonía tiene efectos especiales para ^3131FFescarchas, heladas y congelamientos.^000000\nRequiere 5 segundos entre cada uso.\nCuesta 5 monedas de Splendide cada uno."
     },
     "xMJn": {
-        "en": "[Herb Merchant]\nWould you like to buy 1 Peony?",
-        "pt": "[Mercador de Ervas]\nGostaria de comprar 1 Peônia?",
-        "es": "[Comerciante de hierbas]\n¿Quieres comprar 1 unidad de Madre peonía?"
+        "en-US": "[Herb Merchant]\nWould you like to buy 1 Peony?",
+        "pt-BR": "[Mercador de Ervas]\nGostaria de comprar 1 Peônia?",
+        "es-ES": "[Comerciante de hierbas]\n¿Quieres comprar 1 unidad de Madre peonía?"
     },
     "xcJn": {
-        "en": "[Herb Merchant]\nWould you like to buy 10 Peony?",
-        "pt": "[Mercador de Ervas]\nGostaria de comprar 10 Peônias?",
-        "es": "[Comerciante de hierbas]\n¿Quieres comprar 10 unidades de Madre peonía?"
+        "en-US": "[Herb Merchant]\nWould you like to buy 10 Peony?",
+        "pt-BR": "[Mercador de Ervas]\nGostaria de comprar 10 Peônias?",
+        "es-ES": "[Comerciante de hierbas]\n¿Quieres comprar 10 unidades de Madre peonía?"
     },
     "xsJn": {
-        "en": "[Herb Merchant]\nSlapping Herb has special effects on ^3131FFStun, Fear, Chaos, Hallucination^000000\nRequires 5 seconds between uses.\nIt costs 1 Splendide Coin for each.",
-        "pt": "[Mercador de Ervas]\nA Erva-Mate tem efeitos especiais em ^3131FFAtordoamento, Medo, Caos, Alucinação^000000\nRequer 5 segundos entre os usos.\nCusta 1 Moeda Esplendor cada.",
-        "es": "[Comerciante de hierbas]\nHierba intensa tiene efectos especiales para ^3131FFaturdimiento, miedo, caos y alucinación.^000000\nRequiere 5 segundos entre cada uso.\nCuesta 1 moneda de Splendide cada una."
+        "en-US": "[Herb Merchant]\nSlapping Herb has special effects on ^3131FFStun, Fear, Chaos, Hallucination^000000\nRequires 5 seconds between uses.\nIt costs 1 Splendide Coin for each.",
+        "pt-BR": "[Mercador de Ervas]\nA Erva-Mate tem efeitos especiais em ^3131FFAtordoamento, Medo, Caos, Alucinação^000000\nRequer 5 segundos entre os usos.\nCusta 1 Moeda Esplendor cada.",
+        "es-ES": "[Comerciante de hierbas]\nHierba intensa tiene efectos especiales para ^3131FFaturdimiento, miedo, caos y alucinación.^000000\nRequiere 5 segundos entre cada uso.\nCuesta 1 moneda de Splendide cada una."
     },
     "x8Jn": {
-        "en": "[Herb Merchant]\nWould you like to buy 1 Slapping Herb?",
-        "pt": "[Mercador de Ervas]\nGostaria de comprar 1 Erva-Mate?",
-        "es": "[Comerciante de hierbas]\n¿Quieres comprar 1 unidad de Hierba intensa?"
+        "en-US": "[Herb Merchant]\nWould you like to buy 1 Slapping Herb?",
+        "pt-BR": "[Mercador de Ervas]\nGostaria de comprar 1 Erva-Mate?",
+        "es-ES": "[Comerciante de hierbas]\n¿Quieres comprar 1 unidad de Hierba intensa?"
     },
     "yMJn": {
-        "en": "[Herb Merchant]\nWould you like to buy 10 Slapping Herbs?",
-        "pt": "[Mercador de Ervas]\nGostaria de comprar 10 Ervas-Mate?",
-        "es": "[Comerciante de hierbas]\n¿Quieres comprar 10 unidades de Hierba intensa?"
+        "en-US": "[Herb Merchant]\nWould you like to buy 10 Slapping Herbs?",
+        "pt-BR": "[Mercador de Ervas]\nGostaria de comprar 10 Ervas-Mate?",
+        "es-ES": "[Comerciante de hierbas]\n¿Quieres comprar 10 unidades de Hierba intensa?"
     },
     "ycJn": {
-        "en": "[Herb Merchant]\nYggdrasil Dust has special effects on ^3131FFBlind, Curse, Decrease Agility, Reverse Orcish^000000.\nRequires 5 seconds between uses.\nIt costs 1 Splendide Coin for each.",
-        "pt": "[Mercador de Ervas]\nO Pó de Yggdrasil tem efeitos especiais em ^3131FFCegueira, Maldição, Diminuir Agilidade, Transformação Orc^000000.\nRequer 5 segundos entre os usos.\nCusta 1 Moeda Esplendor cada.",
-        "es": "[Comerciante de hierbas]\nPolvo de Yggdrasil tiene efectos especiales para ^3131FFceguera, maldición, agilidad disminuida y orco inverso^000000.\nRequiere 5 segundos entre cada uso.\nCuesta 1 moneda de Splendide cada una."
+        "en-US": "[Herb Merchant]\nYggdrasil Dust has special effects on ^3131FFBlind, Curse, Decrease Agility, Reverse Orcish^000000.\nRequires 5 seconds between uses.\nIt costs 1 Splendide Coin for each.",
+        "pt-BR": "[Mercador de Ervas]\nO Pó de Yggdrasil tem efeitos especiais em ^3131FFCegueira, Maldição, Diminuir Agilidade, Transformação Orc^000000.\nRequer 5 segundos entre os usos.\nCusta 1 Moeda Esplendor cada.",
+        "es-ES": "[Comerciante de hierbas]\nPolvo de Yggdrasil tiene efectos especiales para ^3131FFceguera, maldición, agilidad disminuida y orco inverso^000000.\nRequiere 5 segundos entre cada uso.\nCuesta 1 moneda de Splendide cada una."
     },
     "ysJn": {
-        "en": "[Herb Merchant]\nWould you like to buy 1 Yggdrasil Dust?",
-        "pt": "[Mercador de Ervas]\nGostaria de comprar 1 Pó de Yggdrasil?",
-        "es": "[Comerciante de hierbas]\n¿Quieres comprar 1 unidad de Polvo de Yggdrasil?"
+        "en-US": "[Herb Merchant]\nWould you like to buy 1 Yggdrasil Dust?",
+        "pt-BR": "[Mercador de Ervas]\nGostaria de comprar 1 Pó de Yggdrasil?",
+        "es-ES": "[Comerciante de hierbas]\n¿Quieres comprar 1 unidad de Polvo de Yggdrasil?"
     },
     "y8Jn": {
-        "en": "[Herb Merchant]\nWould you like to buy 10 Yggdrasil Dusts?",
-        "pt": "[Mercador de Ervas]\nGostaria de comprar 10 Pós de Yggdrasil?",
-        "es": "[Comerciante de hierbas]\n¿Quieres comprar 10 unidades de Polvo de Yggdrasil?"
+        "en-US": "[Herb Merchant]\nWould you like to buy 10 Yggdrasil Dusts?",
+        "pt-BR": "[Mercador de Ervas]\nGostaria de comprar 10 Pós de Yggdrasil?",
+        "es-ES": "[Comerciante de hierbas]\n¿Quieres comprar 10 unidades de Polvo de Yggdrasil?"
     },
     "zMJn": {
-        "en": "[Herb Merchant]\nCome back anytime.",
-        "pt": "[Mercador de Ervas]\nVolte sempre que quiser.",
-        "es": "[Comerciante de hierbas]\nVuelve cuando quieras."
+        "en-US": "[Herb Merchant]\nCome back anytime.",
+        "pt-BR": "[Mercador de Ervas]\nVolte sempre que quiser.",
+        "es-ES": "[Comerciante de hierbas]\nVuelve cuando quieras."
     },
     "zcJn": {
-        "en": "- You are carrying too many items to proceed with this quest. -",
-        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
-        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
+        "en-US": "- You are carrying too many items to proceed with this quest. -",
+        "pt-BR": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es-ES": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

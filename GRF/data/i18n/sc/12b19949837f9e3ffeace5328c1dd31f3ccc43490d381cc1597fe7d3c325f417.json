@@ -1,110 +1,110 @@
 {
     "QOFoDA": {
-        "ko": "오스카",
-        "en": "Oscar",
-        "pt": "Oscar",
-        "es": "Oscar"
+        "ko-KR": "오스카",
+        "en-US": "Oscar",
+        "pt-BR": "Oscar",
+        "es-ES": "Oscar"
     },
     "QeFoDA": {
-        "ko": "[오스카]\n우리의 새로운 알들과 교감 능력이 충분하다는 것은 잘 알았어요. 이제는 조금 다른 시련을 드릴거예요.",
-        "en": "[Oscar]\nWe've confirmed your ability to commune with our new eggs is sufficient. Now, we'll test you with a different challenge.",
-        "pt": "[Oscar]\nEu já sabia muito bem que você tem capacidade suficiente para se comunicar com nossos novos ovos. Agora vou te dar uma provação um pouco diferente.",
-        "es": "[Oscar]\nYa sé muy bien que tienes la capacidad suficiente para conectar con nuestros nuevos huevos. Ahora te daré una prueba un poco diferente."
+        "ko-KR": "[오스카]\n우리의 새로운 알들과 교감 능력이 충분하다는 것은 잘 알았어요. 이제는 조금 다른 시련을 드릴거예요.",
+        "en-US": "[Oscar]\nWe've confirmed your ability to commune with our new eggs is sufficient. Now, we'll test you with a different challenge.",
+        "pt-BR": "[Oscar]\nEu já sabia muito bem que você tem capacidade suficiente para se comunicar com nossos novos ovos. Agora vou te dar uma provação um pouco diferente.",
+        "es-ES": "[Oscar]\nYa sé muy bien que tienes la capacidad suficiente para conectar con nuestros nuevos huevos. Ahora te daré una prueba un poco diferente."
     },
     "QuFoDA": {
-        "ko": "[오스카]\n이건 {0}씨가 우리의 동족을 대할때의 인내심을 측정하는 시험이 될거예요. 꽤 고통스러운 작업이 될 수 있어요.",
-        "en": "[Oscar]\nThis will be a test to measure {0}'s patience when dealing with our kind. It may be a painful process.",
-        "pt": "[Oscar]\nEste será um teste para avaliar a paciência do {0} ao lidar com nossos semelhantes. Pode ser uma tarefa bastante dolorosa.",
-        "es": "[Oscar]\nEsta será una prueba para medir tu paciencia, {0}, cuando te enfrentas a los de nuestra especie. Puede ser una tarea bastante dolorosa."
+        "ko-KR": "[오스카]\n이건 {0}씨가 우리의 동족을 대할때의 인내심을 측정하는 시험이 될거예요. 꽤 고통스러운 작업이 될 수 있어요.",
+        "en-US": "[Oscar]\nThis will be a test to measure {0}'s patience when dealing with our kind. It may be a painful process.",
+        "pt-BR": "[Oscar]\nEste será um teste para avaliar a paciência do {0} ao lidar com nossos semelhantes. Pode ser uma tarefa bastante dolorosa.",
+        "es-ES": "[Oscar]\nEsta será una prueba para medir tu paciencia, {0}, cuando te enfrentas a los de nuestra especie. Puede ser una tarea bastante dolorosa."
     },
     "Q+FoDA": {
-        "ko": "시험의 내용은 어떻게 되죠?",
-        "en": "What does the test entail?",
-        "pt": "Como será o teste?",
-        "es": "¿En qué consiste la prueba?"
+        "ko-KR": "시험의 내용은 어떻게 되죠?",
+        "en-US": "What does the test entail?",
+        "pt-BR": "Como será o teste?",
+        "es-ES": "¿En qué consiste la prueba?"
     },
     "ROFoDA": {
-        "ko": "[오스카]\n{0} 씨의 옆에 빈사상태의 드래곤이 한마리 나타날거예요. ^FF0000 그를 절대 죽이지 말고 치유석의 근처로 인도하세요.^000000",
-        "en": "[Oscar]\nA dying dragon will appear next to you. ^FF0000Escort it to the healing stones without getting it killed along the way.^000000",
-        "pt": "[Oscar]\nUm dragão à beira da morte aparecerá ao lado de {0}. ^FF0000 Não o mates de forma alguma e conduze-o até perto da Pedra de Cura.^000000",
-        "es": "[Oscar]\nA tu lado aparecerá un dragón moribundo. ^FF0000 No lo mates bajo ningún concepto y llévalo cerca de la piedra curativa.^000000"
+        "ko-KR": "[오스카]\n{0} 씨의 옆에 빈사상태의 드래곤이 한마리 나타날거예요. ^FF0000 그를 절대 죽이지 말고 치유석의 근처로 인도하세요.^000000",
+        "en-US": "[Oscar]\nA dying dragon will appear next to you. ^FF0000Escort it to the healing stones without getting it killed along the way.^000000",
+        "pt-BR": "[Oscar]\nUm dragão à beira da morte aparecerá ao lado de {0}. ^FF0000 Não o mates de forma alguma e conduze-o até perto da Pedra de Cura.^000000",
+        "es-ES": "[Oscar]\nA tu lado aparecerá un dragón moribundo. ^FF0000 No lo mates bajo ningún concepto y llévalo cerca de la piedra curativa.^000000"
     },
     "ReFoDA": {
-        "ko": "[오스카]\n치유석에 다가가는 순간 드래곤의 생명력이 조금 회복될거예요. 그 상태로 드래곤의 체력을 모두 회복시키는 것이 {0} 씨의 두번째 시험입니다",
-        "en": "[Oscar]\nEvery time it approaches a healing stone, its vitality will recover slightly. Your second test is to fully restore the dragon's stamina in this state.",
-        "pt": "[Oscar]\nNo momento em que ele se aproximar da Pedra de Cura, a vida do dragão vai se recuperar um pouco. A segunda prova do {0} é restaurar toda a vida do dragão nesse estado.",
-        "es": "[Oscar]\nEn el momento en que te acerques a la piedra curativa, la vida del dragón se recuperará un poco. Tu segunda prueba, {0}, es recuperar toda la salud del dragón en ese estado."
+        "ko-KR": "[오스카]\n치유석에 다가가는 순간 드래곤의 생명력이 조금 회복될거예요. 그 상태로 드래곤의 체력을 모두 회복시키는 것이 {0} 씨의 두번째 시험입니다",
+        "en-US": "[Oscar]\nEvery time it approaches a healing stone, its vitality will recover slightly. Your second test is to fully restore the dragon's stamina in this state.",
+        "pt-BR": "[Oscar]\nNo momento em que ele se aproximar da Pedra de Cura, a vida do dragão vai se recuperar um pouco. A segunda prova do {0} é restaurar toda a vida do dragão nesse estado.",
+        "es-ES": "[Oscar]\nEn el momento en que te acerques a la piedra curativa, la vida del dragón se recuperará un poco. Tu segunda prueba, {0}, es recuperar toda la salud del dragón en ese estado."
     },
     "RuFoDA": {
-        "ko": "[오스카]\n{0}번째 실패군요 조금 신중해질 필요가 있겠어요. ^0000FF치유석 근처에 등장하는 본어시더스의 수를 조금 줄여드릴테니 힘내세요.^000000",
-        "en": "[Oscar]\n{0}th failure. You need to be a bit more careful. ^0000FFI'll reduce the number of Bone Aciduses appearing near the healing stones for you. Hang in there!^000000",
-        "pt": "[Oscar]\n{0}ª tentativa fracassada, né? Precisas ser um pouco mais cuidadoso. ^0000FFVou diminuir um pouco o número de Bonausiders que aparecem perto da Pedra de Cura, então dá o teu melhor.^000000",
-        "es": "[Oscar]\n{0} Ya es tu segunda falla. Tendrás que ser un poco más cuidadoso. ^0000FF Te voy a reducir un poco la cantidad de Bonausideros que aparecen cerca de la Piedra Curativa, así que ¡ánimo!^000000"
+        "ko-KR": "[오스카]\n{0}번째 실패군요 조금 신중해질 필요가 있겠어요. ^0000FF치유석 근처에 등장하는 본어시더스의 수를 조금 줄여드릴테니 힘내세요.^000000",
+        "en-US": "[Oscar]\n{0}th failure. You need to be a bit more careful. ^0000FFI'll reduce the number of Bone Aciduses appearing near the healing stones for you. Hang in there!^000000",
+        "pt-BR": "[Oscar]\n{0}ª tentativa fracassada, né? Precisas ser um pouco mais cuidadoso. ^0000FFVou diminuir um pouco o número de Bonausiders que aparecem perto da Pedra de Cura, então dá o teu melhor.^000000",
+        "es-ES": "[Oscar]\n{0} Ya es tu segunda falla. Tendrás que ser un poco más cuidadoso. ^0000FF Te voy a reducir un poco la cantidad de Bonausideros que aparecen cerca de la Piedra Curativa, así que ¡ánimo!^000000"
     },
     "R+FoDA": {
-        "ko": "그만둔다",
-        "en": "I'm quitting",
-        "pt": "Vou parar",
-        "es": "Me rindo"
+        "ko-KR": "그만둔다",
+        "en-US": "I'm quitting",
+        "pt-BR": "Vou parar",
+        "es-ES": "Me rindo"
     },
     "SOFoDA": {
-        "ko": "준비 되었습니다.",
-        "en": "I'm ready.",
-        "pt": "Estou pronto.",
-        "es": "Ya estoy listo."
+        "ko-KR": "준비 되었습니다.",
+        "en-US": "I'm ready.",
+        "pt-BR": "Estou pronto.",
+        "es-ES": "Ya estoy listo."
     },
     "SeFoDA": {
-        "ko": "[오스카]\n준비가 되면 이야기 해주세요.",
-        "en": "[Oscar]\nLet me know when you're ready.",
-        "pt": "[Oscar]\nAvisa quando estiver pronto.",
-        "es": "[Oscar]\nAvísame cuando estés listo."
+        "ko-KR": "[오스카]\n준비가 되면 이야기 해주세요.",
+        "en-US": "[Oscar]\nLet me know when you're ready.",
+        "pt-BR": "[Oscar]\nAvisa quando estiver pronto.",
+        "es-ES": "[Oscar]\nAvísame cuando estés listo."
     },
     "SuFoDA": {
-        "ko": "오스카: 굉장한 인내심이군요. 축하드려요 다음 시험으로 안내드리도록 하죠.",
-        "en": "Oscar: You're so patient! Congrats! Now, let me guide you to your next test.",
-        "pt": "Oscar: Que paciência incrível. Parabéns. Vou te levar para a próxima prova.",
-        "es": "Oscar: Vaya, qué gran paciencia tienes. Felicidades. Te llevaré a la siguiente prueba."
+        "ko-KR": "오스카: 굉장한 인내심이군요. 축하드려요 다음 시험으로 안내드리도록 하죠.",
+        "en-US": "Oscar: You're so patient! Congrats! Now, let me guide you to your next test.",
+        "pt-BR": "Oscar: Que paciência incrível. Parabéns. Vou te levar para a próxima prova.",
+        "es-ES": "Oscar: Vaya, qué gran paciencia tienes. Felicidades. Te llevaré a la siguiente prueba."
     },
     "S+FoDA": {
-        "ko": "오스카: 이런 실패하셨군요. 다시 도전의 기회를 드리도록 할게요 주변 정리를 할 동안 기다리세요",
-        "en": "Oscar: Oh no, you failed. I'll give you another chance at it. Please wait while I clean up the place...",
-        "pt": "Oscar: Ah, você falhou. Vou te dar outra chance. Espera um pouco enquanto eu arrumo o local.",
-        "es": "Oscar: Vaya, has fallado. Te daré otra oportunidad para intentarlo. Espera mientras ordeno el área."
+        "ko-KR": "오스카: 이런 실패하셨군요. 다시 도전의 기회를 드리도록 할게요 주변 정리를 할 동안 기다리세요",
+        "en-US": "Oscar: Oh no, you failed. I'll give you another chance at it. Please wait while I clean up the place...",
+        "pt-BR": "Oscar: Ah, você falhou. Vou te dar outra chance. Espera um pouco enquanto eu arrumo o local.",
+        "es-ES": "Oscar: Vaya, has fallado. Te daré otra oportunidad para intentarlo. Espera mientras ordeno el área."
     },
     "TOFoDA": {
-        "ko": "오스카: 좋아요 다 정리되었으니 다시 이동시켜드리겠습니다.",
-        "en": "Oscar: Okay, everything's ready. I'll send you back there.",
-        "pt": "Oscar: Tudo bem, já está tudo arrumado. Vou te levar de volta.",
-        "es": "Oscar: Muy bien, ya está todo listo, así que te volveré a trasladar."
+        "ko-KR": "오스카: 좋아요 다 정리되었으니 다시 이동시켜드리겠습니다.",
+        "en-US": "Oscar: Okay, everything's ready. I'll send you back there.",
+        "pt-BR": "Oscar: Tudo bem, já está tudo arrumado. Vou te levar de volta.",
+        "es-ES": "Oscar: Muy bien, ya está todo listo, así que te volveré a trasladar."
     },
     "TeFoDA": {
-        "ko": "오스카: 치유석 근처에는 드래곤의 망령들이 출몰해요. 그들은 정화하셔도 괜찮습니다.",
-        "en": "Oscar: The spirits of dead dragons appear near the healing stones. You may put them to rest.",
-        "pt": "Oscar: Perto da Pedra de Cura, aparecem fantasmas de dragões. Você pode purificá-los, se quiser.",
-        "es": "Oscar: Cerca de la Piedra de Sanación aparecen fantasmas de dragones. Puedes purificarlos si quieres."
+        "ko-KR": "오스카: 치유석 근처에는 드래곤의 망령들이 출몰해요. 그들은 정화하셔도 괜찮습니다.",
+        "en-US": "Oscar: The spirits of dead dragons appear near the healing stones. You may put them to rest.",
+        "pt-BR": "Oscar: Perto da Pedra de Cura, aparecem fantasmas de dragões. Você pode purificá-los, se quiser.",
+        "es-ES": "Oscar: Cerca de la Piedra de Sanación aparecen fantasmas de dragones. Puedes purificarlos si quieres."
     },
     "TuFoDA": {
-        "ko": "시공의 관찰자",
-        "en": "Spacetime Observer",
-        "pt": "Observador do Espaço-Tempo",
-        "es": "Observador del Espacio-Tiempo"
+        "ko-KR": "시공의 관찰자",
+        "en-US": "Spacetime Observer",
+        "pt-BR": "Observador do Espaço-Tempo",
+        "es-ES": "Observador del Espacio-Tiempo"
     },
     "T+FoDA": {
-        "ko": "치유석",
-        "en": "Healing Stone",
-        "pt": "Pedra de Cura",
-        "es": "Piedra curativa"
+        "ko-KR": "치유석",
+        "en-US": "Healing Stone",
+        "pt-BR": "Pedra de Cura",
+        "es-ES": "Piedra curativa"
     },
     "UOFoDA": {
-        "ko": "치유석",
-        "en": "Healing Stone",
-        "pt": "Pedra de Cura",
-        "es": "Piedra curativa"
+        "ko-KR": "치유석",
+        "en-US": "Healing Stone",
+        "pt-BR": "Pedra de Cura",
+        "es-ES": "Piedra curativa"
     },
     "UeFoDA": {
-        "ko": "본 어시더스#{0}",
-        "en": "Bone Acidus#{0}",
-        "pt": "Bom, Assiderus#{0}",
-        "es": "Bon Asherus#{0}"
+        "ko-KR": "본 어시더스#{0}",
+        "en-US": "Bone Acidus#{0}",
+        "pt-BR": "Bom, Assiderus#{0}",
+        "es-ES": "Bon Asherus#{0}"
     }
 }

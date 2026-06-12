@@ -1,10 +1,10 @@
 {
     "4C10BQ": {
-        "en": "Dark Luhir2",
-        "pt": "Dark Luhir2"
+        "en-US": "Dark Luhir2",
+        "pt-BR": "Dark Luhir2"
     },
     "4S10BQ": {
-        "en": "Item Refine Chance at {} {}%",
-        "pt": "Item Refine Chance at {} {}%"
+        "en-US": "Item Refine Chance at {} {}%",
+        "pt-BR": "Item Refine Chance at {} {}%"
     }
 }

@@ -1,107 +1,107 @@
 {
     "IHJHCA": {
-        "en": "Memorial Dungeon Admin",
-        "pt": "Memorial Dungeon Administrator",
-        "es": "Memorial Dungeon Admin"
+        "en-US": "Memorial Dungeon Admin",
+        "pt-BR": "Memorial Dungeon Administrator",
+        "es-ES": "Memorial Dungeon Admin"
     },
     "IXJHCA": {
-        "en": "Please enter the password.",
-        "pt": "Please enter the password.",
-        "es": "Introduce la contraseña."
+        "en-US": "Please enter the password.",
+        "pt-BR": "Please enter the password.",
+        "es-ES": "Introduce la contraseña."
     },
     "InJHCA": {
-        "en": "Unknown",
-        "pt": "Unknown",
-        "es": "Desconocido."
+        "en-US": "Unknown",
+        "pt-BR": "Unknown",
+        "es-ES": "Desconocido."
     },
     "I3JHCA": {
-        "en": "Open",
-        "pt": "Open",
-        "es": "Abrir."
+        "en-US": "Open",
+        "pt-BR": "Open",
+        "es-ES": "Abrir."
     },
     "JHJHCA": {
-        "en": "Close",
-        "pt": "Close",
-        "es": "Cerrar."
+        "en-US": "Close",
+        "pt-BR": "Close",
+        "es-ES": "Cerrar."
     },
     "JXJHCA": {
-        "en": "You have entered the Administrator Mode.\nThe current status is '{}'.",
-        "pt": "Modo de administrador ativo.\nO status atual é:{}'.",
-        "es": "Entraste en el Modo administrador.\nEl estado actual es “{}”."
+        "en-US": "You have entered the Administrator Mode.\nThe current status is '{}'.",
+        "pt-BR": "Modo de administrador ativo.\nO status atual é:{}'.",
+        "es-ES": "Entraste en el Modo administrador.\nEl estado actual es “{}”."
     },
     "JnJHCA": {
-        "en": "Refresh",
-        "pt": "Solicitação para abrir e fechar",
-        "es": "Actualizar."
+        "en-US": "Refresh",
+        "pt-BR": "Solicitação para abrir e fechar",
+        "es-ES": "Actualizar."
     },
     "J3JHCA": {
-        "en": "Open Dungeon Access",
-        "pt": "Abrir",
-        "es": "Abrir acceso a mazmorras."
+        "en-US": "Open Dungeon Access",
+        "pt-BR": "Abrir",
+        "es-ES": "Abrir acceso a mazmorras."
     },
     "KHJHCA": {
-        "en": "Close Dungeon Access",
-        "pt": "Fechar",
-        "es": "Cerrar acceso a mazmorras."
+        "en-US": "Close Dungeon Access",
+        "pt-BR": "Fechar",
+        "es-ES": "Cerrar acceso a mazmorras."
     },
     "KXJHCA": {
-        "en": "List of active Dungeons",
-        "pt": "Lista das masmorras ativas",
-        "es": "Lista de mazmorras activas."
+        "en-US": "List of active Dungeons",
+        "pt-BR": "Lista das masmorras ativas",
+        "es-ES": "Lista de mazmorras activas."
     },
     "KnJHCA": {
-        "en": "This may cause server lag.\nOnly use this when it is absolutely necessary.",
-        "pt": "Esta tarefa pode causar atrasos.\nExecute-a somente se necessário.",
-        "es": "Esto puede provocar un retraso en el servidor.\nUtilízalo solo cuando sea absolutamente necesario."
+        "en-US": "This may cause server lag.\nOnly use this when it is absolutely necessary.",
+        "pt-BR": "Esta tarefa pode causar atrasos.\nExecute-a somente se necessário.",
+        "es-ES": "Esto puede provocar un retraso en el servidor.\nUtilízalo solo cuando sea absolutamente necesario."
     },
     "K3JHCA": {
-        "en": "Cancel.",
-        "pt": "Cancelar.",
-        "es": "Cancelar."
+        "en-US": "Cancel.",
+        "pt-BR": "Cancelar.",
+        "es-ES": "Cancelar."
     },
     "LHJHCA": {
-        "en": "I really need it.",
-        "pt": "Preciso executá-la.",
-        "es": "En serio lo necesito."
+        "en-US": "I really need it.",
+        "pt-BR": "Preciso executá-la.",
+        "es-ES": "En serio lo necesito."
     },
     "LXJHCA": {
-        "en": "LIST",
-        "pt": "LIST",
-        "es": "LISTA"
+        "en-US": "LIST",
+        "pt-BR": "LIST",
+        "es-ES": "LISTA"
     },
     "LnJHCA": {
-        "en": "Memorial Dungeon",
-        "pt": "Memorial Dungeon",
-        "es": "Mazmorra del recuerdo."
+        "en-US": "Memorial Dungeon",
+        "pt-BR": "Memorial Dungeon",
+        "es-ES": "Mazmorra del recuerdo."
     },
     "L3JHCA": {
-        "en": "Party name",
-        "pt": "Party name",
-        "es": "Nombre del grupo."
+        "en-US": "Party name",
+        "pt-BR": "Party name",
+        "es-ES": "Nombre del grupo."
     },
     "MHJHCA": {
-        "en": "End Menu",
-        "pt": "Sair do Menu",
-        "es": "Cerrar menú."
+        "en-US": "End Menu",
+        "pt-BR": "Sair do Menu",
+        "es-ES": "Cerrar menú."
     },
     "MXJHCA": {
-        "en": "Destroy the Dungeon",
-        "pt": "Destruir a Masmorra",
-        "es": "Destruir la mazmorra."
+        "en-US": "Destroy the Dungeon",
+        "pt-BR": "Destruir a Masmorra",
+        "es-ES": "Destruir la mazmorra."
     },
     "MnJHCA": {
-        "en": "Cancel",
-        "pt": "Cancelar",
-        "es": "Cancelar."
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar."
     },
     "M3JHCA": {
-        "en": "[{}] is correct.",
-        "pt": "[{}] está correto.",
-        "es": "[{}] es correcto."
+        "en-US": "[{}] is correct.",
+        "pt-BR": "[{}] está correto.",
+        "es-ES": "[{}] es correcto."
     },
     "NHJHCA": {
-        "en": "Enter the password correctly.",
-        "pt": "Enter the password correctly.",
-        "es": "Introduce la contraseña correctamente."
+        "en-US": "Enter the password correctly.",
+        "pt-BR": "Enter the password correctly.",
+        "es-ES": "Introduce la contraseña correctamente."
     }
 }

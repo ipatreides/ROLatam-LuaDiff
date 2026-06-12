@@ -1,32 +1,32 @@
 {
     "4Ha+CA": {
-        "en": "Miming",
-        "pt": "Plagiador",
-        "es": "Mímica"
+        "en-US": "Miming",
+        "pt-BR": "Plagiador",
+        "es-ES": "Mímica"
     },
     "4Xa+CA": {
-        "en": "Pom Spider",
-        "pt": "Aranha Pom",
-        "es": "Araña Pom"
+        "en-US": "Pom Spider",
+        "pt-BR": "Aranha Pom",
+        "es-ES": "Araña Pom"
     },
     "4na+CA": {
-        "en": "Angra Mantis",
-        "pt": "Louva-a-deus Angra",
-        "es": "Angra Mantis"
+        "en-US": "Angra Mantis",
+        "pt-BR": "Louva-a-deus Angra",
+        "es-ES": "Angra Mantis"
     },
     "43a+CA": {
-        "en": "Parus",
-        "pt": "Chapim",
-        "es": "Parus"
+        "en-US": "Parus",
+        "pt-BR": "Chapim",
+        "es-ES": "Parus"
     },
     "5Ha+CA": {
-        "en": "Little Fatum",
-        "pt": "Pequeno Fatum",
-        "es": "Pequeño Fatum"
+        "en-US": "Little Fatum",
+        "pt-BR": "Pequeno Fatum",
+        "es-ES": "Pequeño Fatum"
     },
     "5Xa+CA": {
-        "en": "Guardian's Fragments",
-        "pt": "Lembrança da Guardiã",
-        "es": "Fragmentos del Guardián"
+        "en-US": "Guardian's Fragments",
+        "pt-BR": "Lembrança da Guardiã",
+        "es-ES": "Fragmentos del Guardián"
     }
 }

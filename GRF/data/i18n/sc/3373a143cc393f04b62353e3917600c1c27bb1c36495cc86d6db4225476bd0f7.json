@@ -1,488 +1,488 @@
 {
     "oGUzAw": {
-        "ko": "수도승",
-        "en": "Training Monk",
-        "pt": "Monge em Treinamento",
-        "es": "Monje formador"
+        "ko-KR": "수도승",
+        "en-US": "Training Monk",
+        "pt-BR": "Monge em Treinamento",
+        "es-ES": "Monje formador"
     },
     "oWUzAw": {
-        "ko": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
-        "en": "- You are carrying too many items to proceed. -",
-        "pt": "- Você possui muitos itens e não pode prosseguir. -",
-        "es": "- No puedes continuar porque llevas demasiados objetos. -"
+        "ko-KR": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
+        "en-US": "- You are carrying too many items to proceed. -",
+        "pt-BR": "- Você possui muitos itens e não pode prosseguir. -",
+        "es-ES": "- No puedes continuar porque llevas demasiados objetos. -"
     },
     "omUzAw": {
-        "ko": "[수도승]\n정의 없는 힘 그 힘에 죽으리. 힘없는 정의 의미가 없으리. 힘이 곧 정의는 아니다. 정의는 곧 힘이다!",
-        "en": "[Training Monk]\nPower without justice shall die by that power. Justice without power has no meaning. Power is not justice. Justice is power!",
-        "pt": "[Monge em Treinamento]\nForça sem justiça morrerá pela própria força. Justiça sem força não terá significado. A força não é justiça. A justiça é força!",
-        "es": "[Monje formador]\nLa fuerza sin justicia morirá por esa fuerza. La justicia sin fuerza no tiene sentido. La fuerza no es justicia. ¡La justicia es fuerza!"
+        "ko-KR": "[수도승]\n정의 없는 힘 그 힘에 죽으리. 힘없는 정의 의미가 없으리. 힘이 곧 정의는 아니다. 정의는 곧 힘이다!",
+        "en-US": "[Training Monk]\nPower without justice shall die by that power. Justice without power has no meaning. Power is not justice. Justice is power!",
+        "pt-BR": "[Monge em Treinamento]\nForça sem justiça morrerá pela própria força. Justiça sem força não terá significado. A força não é justiça. A justiça é força!",
+        "es-ES": "[Monje formador]\nLa fuerza sin justicia morirá por esa fuerza. La justicia sin fuerza no tiene sentido. La fuerza no es justicia. ¡La justicia es fuerza!"
     },
     "o2UzAw": {
-        "ko": "[수도승]\n너도 몽크라면 이 진리를 확실히 기억해두라고! 어딘가에 혼자서 처박혀서 자기 수련만 부르짖는 어딘가의 어떤 바보는 대체 이런 걸 몰라요... 에 잉~",
-        "en": "[Training Monk]\nIf you are a Monk too, remember this truth clearly! Some fool somewhere, holed up alone and shouting only about self-discipline, simply does not understand this... Tsk~",
-        "pt": "[Monge em Treinamento]\nSe você também é Monk, lembre-se bem dessa verdade! Algum idiota por aí, enfiado sozinho em algum lugar gritando só por autotreinamento, não entende nada disso... Tsc!",
-        "es": "[Monje formador]\n¡Si tú también eres monje, recuerda bien esta verdad! Cierto idiota de algún lugar, que se encierra solo y no hace más que hablar de entrenamiento personal, no entiende estas cosas... En fin~"
+        "ko-KR": "[수도승]\n너도 몽크라면 이 진리를 확실히 기억해두라고! 어딘가에 혼자서 처박혀서 자기 수련만 부르짖는 어딘가의 어떤 바보는 대체 이런 걸 몰라요... 에 잉~",
+        "en-US": "[Training Monk]\nIf you are a Monk too, remember this truth clearly! Some fool somewhere, holed up alone and shouting only about self-discipline, simply does not understand this... Tsk~",
+        "pt-BR": "[Monge em Treinamento]\nSe você também é Monk, lembre-se bem dessa verdade! Algum idiota por aí, enfiado sozinho em algum lugar gritando só por autotreinamento, não entende nada disso... Tsc!",
+        "es-ES": "[Monje formador]\n¡Si tú también eres monje, recuerda bien esta verdad! Cierto idiota de algún lugar, que se encierra solo y no hace más que hablar de entrenamiento personal, no entiende estas cosas... En fin~"
     },
     "pGUzAw": {
-        "ko": "[수도승]\n죽을 때까지 혼자 그렇게 살라고 하고 싶지만, 또 그게 그럴 수도 없는 게, 그놈의 ^FF0000진기주입^000000 기술을 모르면 우리가 새로 만들어낸 기술 또 한 시전 불가능하단 말이다!",
-        "en": "[Training Monk]\nI'd like to tell him to live alone like that until he dies, but the problem is, if we don't know that ^FF0000Spiritual Bestowment^000000 technique of his, we can't use the new technique we created either!",
-        "pt": "[Monge em Treinamento]\nEu queria dizer para ele viver sozinho assim até morrer, mas nem dá para fazer isso, porque se não soubermos a maldita técnica ^FF0000Concessão Espiritual^000000, a nova técnica que criamos também não pode ser conjurada!",
-        "es": "[Monje formador]\nMe gustaría decirle que viva así solo hasta morir, pero tampoco se puede, porque si no conocemos esa maldita técnica ^FF0000Don Espiritual^000000, tampoco podremos lanzar la nueva técnica que hemos creado."
+        "ko-KR": "[수도승]\n죽을 때까지 혼자 그렇게 살라고 하고 싶지만, 또 그게 그럴 수도 없는 게, 그놈의 ^FF0000진기주입^000000 기술을 모르면 우리가 새로 만들어낸 기술 또 한 시전 불가능하단 말이다!",
+        "en-US": "[Training Monk]\nI'd like to tell him to live alone like that until he dies, but the problem is, if we don't know that ^FF0000Spiritual Bestowment^000000 technique of his, we can't use the new technique we created either!",
+        "pt-BR": "[Monge em Treinamento]\nEu queria dizer para ele viver sozinho assim até morrer, mas nem dá para fazer isso, porque se não soubermos a maldita técnica ^FF0000Concessão Espiritual^000000, a nova técnica que criamos também não pode ser conjurada!",
+        "es-ES": "[Monje formador]\nMe gustaría decirle que viva así solo hasta morir, pero tampoco se puede, porque si no conocemos esa maldita técnica ^FF0000Don Espiritual^000000, tampoco podremos lanzar la nueva técnica que hemos creado."
     },
     "pWUzAw": {
-        "ko": "[수도승]\n우리 몽크들이 혼신의 힘을 다해서 만들어낸 기술 ^FF0000발경^000000이건만.. 진기주입을 할 줄 모른다면 할 수 없다니...",
-        "en": "[Training Monk]\nIt is the technique that we Monks created with all our might, ^FF0000Excruciating Palm^000000.. Yet we cannot use it unless we can use Spiritual Bestowment...",
-        "pt": "[Monge em Treinamento]\nÉ uma técnica criada por nós Monks com toda a nossa força, ^FF0000Punhos Intensos^000000... mas se não soubermos Concessão Espiritual, não podemos usá-la...",
-        "es": "[Monje formador]\nY eso que es la técnica ^FF0000Palma del Dolor^000000, creada por nosotros los monjes con todas nuestras fuerzas... Si uno no sabe usar Don Espiritual, no puede ejecutarla..."
+        "ko-KR": "[수도승]\n우리 몽크들이 혼신의 힘을 다해서 만들어낸 기술 ^FF0000발경^000000이건만.. 진기주입을 할 줄 모른다면 할 수 없다니...",
+        "en-US": "[Training Monk]\nIt is the technique that we Monks created with all our might, ^FF0000Excruciating Palm^000000.. Yet we cannot use it unless we can use Spiritual Bestowment...",
+        "pt-BR": "[Monge em Treinamento]\nÉ uma técnica criada por nós Monks com toda a nossa força, ^FF0000Punhos Intensos^000000... mas se não soubermos Concessão Espiritual, não podemos usá-la...",
+        "es-ES": "[Monje formador]\nY eso que es la técnica ^FF0000Palma del Dolor^000000, creada por nosotros los monjes con todas nuestras fuerzas... Si uno no sabe usar Don Espiritual, no puede ejecutarla..."
     },
     "pmUzAw": {
-        "ko": "[수도승]\n그런데도 그놈은.. 그놈으으은!\n달래보고, 협박도 해보고, 머리도 숙여보고, 할 수 있는 건 다 해봤지만 놈은 자신의 진기주입을 남들에게 전수해 주려고 하지 않아.",
-        "en": "[Training Monk]\nAnd yet that man.. that maaan!\nWe tried coaxing him, threatening him, bowing our heads, everything we could do, but he refuses to pass down his Spiritual Bestowment to others.",
-        "pt": "[Monge em Treinamento]\nMesmo assim, aquele sujeito... aquele suuuujeito!\nTentamos convencê-lo, ameaçá-lo, baixar a cabeça, fizemos tudo o que podíamos, mas ele não quer transmitir sua Concessão Espiritual aos outros.",
-        "es": "[Monje formador]\nY aun así, ese tipo... ¡ese tipoooo!\nIntentamos persuadirlo, amenazarlo, inclinamos la cabeza e hicimos todo lo posible, pero se niega a transmitir su Don Espiritual a los demás."
+        "ko-KR": "[수도승]\n그런데도 그놈은.. 그놈으으은!\n달래보고, 협박도 해보고, 머리도 숙여보고, 할 수 있는 건 다 해봤지만 놈은 자신의 진기주입을 남들에게 전수해 주려고 하지 않아.",
+        "en-US": "[Training Monk]\nAnd yet that man.. that maaan!\nWe tried coaxing him, threatening him, bowing our heads, everything we could do, but he refuses to pass down his Spiritual Bestowment to others.",
+        "pt-BR": "[Monge em Treinamento]\nMesmo assim, aquele sujeito... aquele suuuujeito!\nTentamos convencê-lo, ameaçá-lo, baixar a cabeça, fizemos tudo o que podíamos, mas ele não quer transmitir sua Concessão Espiritual aos outros.",
+        "es-ES": "[Monje formador]\nY aun así, ese tipo... ¡ese tipoooo!\nIntentamos persuadirlo, amenazarlo, inclinamos la cabeza e hicimos todo lo posible, pero se niega a transmitir su Don Espiritual a los demás."
     },
     "p2UzAw": {
-        "ko": "[수도승]\n다른 몽크들이 진기주입 기술을 독학으로 배워보려고 무던히 노력했지만, 안되더군... 정말이지 한심하기 짝이 없지.",
-        "en": "[Training Monk]\nOther Monks tried very hard to learn the Spiritual Bestowment technique on their own, but it didn't work... Truly pathetic.",
-        "pt": "[Monge em Treinamento]\nOutros Monks se esforçaram muito para aprender a técnica Concessão Espiritual sozinhos, mas não deu certo... É realmente patético.",
-        "es": "[Monje formador]\nOtros monjes se esforzaron muchísimo por aprender Don Espiritual de forma autodidacta, pero no funcionó... De verdad, es lamentable."
+        "ko-KR": "[수도승]\n다른 몽크들이 진기주입 기술을 독학으로 배워보려고 무던히 노력했지만, 안되더군... 정말이지 한심하기 짝이 없지.",
+        "en-US": "[Training Monk]\nOther Monks tried very hard to learn the Spiritual Bestowment technique on their own, but it didn't work... Truly pathetic.",
+        "pt-BR": "[Monge em Treinamento]\nOutros Monks se esforçaram muito para aprender a técnica Concessão Espiritual sozinhos, mas não deu certo... É realmente patético.",
+        "es-ES": "[Monje formador]\nOtros monjes se esforzaron muchísimo por aprender Don Espiritual de forma autodidacta, pero no funcionó... De verdad, es lamentable."
     },
     "qGUzAw": {
-        "ko": "[수도승]\n너도 몽크라면, 그 녀석을 달래보던가, 진기주입을 스스로 익히는 법을 배우던가 둘 중 하나를 선택하도록 해.",
-        "en": "[Training Monk]\nIf you are also a Monk, choose one of two paths: persuade that fellow, or learn how to master Spiritual Bestowment on your own.",
-        "pt": "[Monge em Treinamento]\nSe você também é Monk, escolha uma das duas opções: tente convencer aquele sujeito ou aprenda uma forma de dominar Concessão Espiritual por conta própria.",
-        "es": "[Monje formador]\nSi tú también eres monje, elige una de dos: convencer a ese tipo o aprender por tu cuenta a dominar Don Espiritual."
+        "ko-KR": "[수도승]\n너도 몽크라면, 그 녀석을 달래보던가, 진기주입을 스스로 익히는 법을 배우던가 둘 중 하나를 선택하도록 해.",
+        "en-US": "[Training Monk]\nIf you are also a Monk, choose one of two paths: persuade that fellow, or learn how to master Spiritual Bestowment on your own.",
+        "pt-BR": "[Monge em Treinamento]\nSe você também é Monk, escolha uma das duas opções: tente convencer aquele sujeito ou aprenda uma forma de dominar Concessão Espiritual por conta própria.",
+        "es-ES": "[Monje formador]\nSi tú también eres monje, elige una de dos: convencer a ese tipo o aprender por tu cuenta a dominar Don Espiritual."
     },
     "qWUzAw": {
-        "ko": "[수도승]\n그 녀석은 항상 싸움 따윈 쓸모없다 한심하다 어쩌고 중얼거리면서 다니니까 알아보기 쉬울 거야.",
-        "en": "[Training Monk]\nThat fellow always walks around muttering that fighting is useless, pathetic, and so on, so he should be easy to recognize.",
-        "pt": "[Monge em Treinamento]\nEle sempre anda murmurando que lutar é inútil, patético, e coisas assim, então será fácil reconhecê-lo.",
-        "es": "[Monje formador]\nEse tipo siempre va por ahí murmurando que luchar no sirve de nada, que es lamentable y cosas por el estilo, así que será fácil reconocerlo."
+        "ko-KR": "[수도승]\n그 녀석은 항상 싸움 따윈 쓸모없다 한심하다 어쩌고 중얼거리면서 다니니까 알아보기 쉬울 거야.",
+        "en-US": "[Training Monk]\nThat fellow always walks around muttering that fighting is useless, pathetic, and so on, so he should be easy to recognize.",
+        "pt-BR": "[Monge em Treinamento]\nEle sempre anda murmurando que lutar é inútil, patético, e coisas assim, então será fácil reconhecê-lo.",
+        "es-ES": "[Monje formador]\nEse tipo siempre va por ahí murmurando que luchar no sirve de nada, que es lamentable y cosas por el estilo, así que será fácil reconocerlo."
     },
     "qmUzAw": {
-        "ko": "[수도승]\n이 진리를 진기주입을 할 수 있는 유일한 천재인 동시에 한심한 이상을 가진 멍청이인 어떤 바보에게 가르쳐주도록 해.",
-        "en": "[Training Monk]\nTeach this truth to that fool, the only genius capable of Spiritual Bestowment and at the same time an idiot with pathetic ideals.",
-        "pt": "[Monge em Treinamento]\nEnsine esta verdade a certo idiota, que é o único gênio capaz de usar Concessão Espiritual e, ao mesmo tempo, um tolo com ideais patéticos.",
-        "es": "[Monje formador]\nEnséñale esta verdad a cierto idiota que es a la vez el único genio capaz de usar Don Espiritual y un necio con ideales patéticos."
+        "ko-KR": "[수도승]\n이 진리를 진기주입을 할 수 있는 유일한 천재인 동시에 한심한 이상을 가진 멍청이인 어떤 바보에게 가르쳐주도록 해.",
+        "en-US": "[Training Monk]\nTeach this truth to that fool, the only genius capable of Spiritual Bestowment and at the same time an idiot with pathetic ideals.",
+        "pt-BR": "[Monge em Treinamento]\nEnsine esta verdade a certo idiota, que é o único gênio capaz de usar Concessão Espiritual e, ao mesmo tempo, um tolo com ideais patéticos.",
+        "es-ES": "[Monje formador]\nEnséñale esta verdad a cierto idiota que es a la vez el único genio capaz de usar Don Espiritual y un necio con ideales patéticos."
     },
     "q2UzAw": {
-        "ko": "[수도승]\n싫으면 네가 진기주입을 스스로 익혀도 되고.",
-        "en": "[Training Monk]\nIf you don't want to, you can learn Spiritual Bestowment yourself instead.",
-        "pt": "[Monge em Treinamento]\nSe não quiser, pode aprender Concessão Espiritual por conta própria.",
-        "es": "[Monje formador]\nY si no quieres, puedes aprender Don Espiritual por tu cuenta."
+        "ko-KR": "[수도승]\n싫으면 네가 진기주입을 스스로 익혀도 되고.",
+        "en-US": "[Training Monk]\nIf you don't want to, you can learn Spiritual Bestowment yourself instead.",
+        "pt-BR": "[Monge em Treinamento]\nSe não quiser, pode aprender Concessão Espiritual por conta própria.",
+        "es-ES": "[Monje formador]\nY si no quieres, puedes aprender Don Espiritual por tu cuenta."
     },
     "rGUzAw": {
-        "ko": "발경을 전수해 주십시오.",
-        "en": "Please pass down Excruciating Palm.",
-        "pt": "Transmita-me Punhos Intensos.",
-        "es": "Transmítame Palma del Dolor."
+        "ko-KR": "발경을 전수해 주십시오.",
+        "en-US": "Please pass down Excruciating Palm.",
+        "pt-BR": "Transmita-me Punhos Intensos.",
+        "es-ES": "Transmítame Palma del Dolor."
     },
     "rWUzAw": {
-        "ko": "[수도승]\n뭐? ^FF0000발경^000000을 가르쳐 달라고?",
-        "en": "[Training Monk]\nWhat? You want me to teach you ^FF0000Excruciating Palm^000000?",
-        "pt": "[Monge em Treinamento]\nO quê? Quer que eu ensine ^FF0000Punhos Intensos^000000?",
-        "es": "[Monje formador]\n¿Qué? ¿Quieres que te enseñe ^FF0000Palma del Dolor^000000?"
+        "ko-KR": "[수도승]\n뭐? ^FF0000발경^000000을 가르쳐 달라고?",
+        "en-US": "[Training Monk]\nWhat? You want me to teach you ^FF0000Excruciating Palm^000000?",
+        "pt-BR": "[Monge em Treinamento]\nO quê? Quer que eu ensine ^FF0000Punhos Intensos^000000?",
+        "es-ES": "[Monje formador]\n¿Qué? ¿Quieres que te enseñe ^FF0000Palma del Dolor^000000?"
     },
     "rmUzAw": {
-        "ko": "[수도승]\n두 가지 문제가 있다.",
-        "en": "[Training Monk]\nThere are two problems.",
-        "pt": "[Monge em Treinamento]\nHá dois problemas.",
-        "es": "[Monje formador]\nHay dos problemas."
+        "ko-KR": "[수도승]\n두 가지 문제가 있다.",
+        "en-US": "[Training Monk]\nThere are two problems.",
+        "pt-BR": "[Monge em Treinamento]\nHá dois problemas.",
+        "es-ES": "[Monje formador]\nHay dos problemas."
     },
     "r2UzAw": {
-        "ko": "[수도승]\n첫째로, 진기주입을 익히지 못한 자는 발경을 사용할 수 없어. 이건 전에 이야기했으니까 잘 알고 있겠지?",
-        "en": "[Training Monk]\nFirst, those who have not learned Spiritual Bestowment cannot use Excruciating Palm. I already told you that before, so you should know it well.",
-        "pt": "[Monge em Treinamento]\nPrimeiro, quem não aprendeu Concessão Espiritual não pode usar Punhos Intensos. Já falei sobre isso antes, então você deve saber, certo?",
-        "es": "[Monje formador]\nPrimero, quien no haya aprendido Don Espiritual no puede usar Palma del Dolor. Ya te lo dije antes, así que lo sabes bien, ¿verdad?"
+        "ko-KR": "[수도승]\n첫째로, 진기주입을 익히지 못한 자는 발경을 사용할 수 없어. 이건 전에 이야기했으니까 잘 알고 있겠지?",
+        "en-US": "[Training Monk]\nFirst, those who have not learned Spiritual Bestowment cannot use Excruciating Palm. I already told you that before, so you should know it well.",
+        "pt-BR": "[Monge em Treinamento]\nPrimeiro, quem não aprendeu Concessão Espiritual não pode usar Punhos Intensos. Já falei sobre isso antes, então você deve saber, certo?",
+        "es-ES": "[Monje formador]\nPrimero, quien no haya aprendido Don Espiritual no puede usar Palma del Dolor. Ya te lo dije antes, así que lo sabes bien, ¿verdad?"
     },
     "sGUzAw": {
-        "ko": "[수도승]\n그리고 두번째, 진정한 힘을 가지지 않은 자에게 함부로 강한 기술인 발경을 전수해 줄 수 없어. 그릇된 힘을 가지고 있는 자에게 가르쳐줬다가 무슨 사태가 생길 줄 알고?",
-        "en": "[Training Monk]\nAnd second, I cannot carelessly pass down a powerful technique like Excruciating Palm to someone who does not possess true strength. Who knows what could happen if I taught it to someone with misguided power?",
-        "pt": "[Monge em Treinamento]\nE segundo, não posso transmitir descuidadamente uma técnica poderosa como Punhos Intensos a alguém que não possui verdadeira força. O que aconteceria se eu ensinasse a alguém que possui uma força equivocada?",
-        "es": "[Monje formador]\nY segundo, no puedo transmitir sin más una técnica poderosa como Palma del Dolor a alguien que no posee verdadera fuerza. ¿Quién sabe qué pasaría si se la enseñara a alguien con una fuerza equivocada?"
+        "ko-KR": "[수도승]\n그리고 두번째, 진정한 힘을 가지지 않은 자에게 함부로 강한 기술인 발경을 전수해 줄 수 없어. 그릇된 힘을 가지고 있는 자에게 가르쳐줬다가 무슨 사태가 생길 줄 알고?",
+        "en-US": "[Training Monk]\nAnd second, I cannot carelessly pass down a powerful technique like Excruciating Palm to someone who does not possess true strength. Who knows what could happen if I taught it to someone with misguided power?",
+        "pt-BR": "[Monge em Treinamento]\nE segundo, não posso transmitir descuidadamente uma técnica poderosa como Punhos Intensos a alguém que não possui verdadeira força. O que aconteceria se eu ensinasse a alguém que possui uma força equivocada?",
+        "es-ES": "[Monje formador]\nY segundo, no puedo transmitir sin más una técnica poderosa como Palma del Dolor a alguien que no posee verdadera fuerza. ¿Quién sabe qué pasaría si se la enseñara a alguien con una fuerza equivocada?"
     },
     "sWUzAw": {
-        "ko": "[수도승]\n첫 번째는 정말 어쩔 수 없는 거고, 두 번째는... 음. 우리는 진정으로 사람들을 위한 힘을 발휘하는지 테스트를 하고 있지.",
-        "en": "[Training Monk]\nThe first cannot be helped at all, and the second... hmm. We test whether one truly uses their power for the sake of people.",
-        "pt": "[Monge em Treinamento]\nQuanto ao primeiro, não há mesmo o que fazer. Quanto ao segundo... hmm. Testamos se a pessoa realmente usa sua força pelo bem dos outros.",
-        "es": "[Monje formador]\nLo primero no tiene remedio, y lo segundo... Mmm. Estamos poniendo a prueba si uno usa su fuerza de verdad por el bien de la gente."
+        "ko-KR": "[수도승]\n첫 번째는 정말 어쩔 수 없는 거고, 두 번째는... 음. 우리는 진정으로 사람들을 위한 힘을 발휘하는지 테스트를 하고 있지.",
+        "en-US": "[Training Monk]\nThe first cannot be helped at all, and the second... hmm. We test whether one truly uses their power for the sake of people.",
+        "pt-BR": "[Monge em Treinamento]\nQuanto ao primeiro, não há mesmo o que fazer. Quanto ao segundo... hmm. Testamos se a pessoa realmente usa sua força pelo bem dos outros.",
+        "es-ES": "[Monje formador]\nLo primero no tiene remedio, y lo segundo... Mmm. Estamos poniendo a prueba si uno usa su fuerza de verdad por el bien de la gente."
     },
     "smUzAw": {
-        "ko": "[수도승]\n여기까지 오면서 많은 식물들의 공격을 받았을 거야. 정말 가만히 잘 가고 있는데 먼저 공격해오는 만드라고라들은 정말 골치 아플 정도지.",
-        "en": "[Training Monk]\nYou must have been attacked by many plants on your way here. Mandragoras that attack first when you're simply walking peacefully are truly troublesome.",
-        "pt": "[Monge em Treinamento]\nVocê deve ter sido atacado por muitas plantas ao vir até aqui. Mandrágoras que atacam primeiro quando você está apenas seguindo seu caminho são realmente problemáticas.",
-        "es": "[Monje formador]\nDe camino hasta aquí, muchas plantas te habrán atacado. Esas mandrágoras que te atacan primero cuando ibas tranquilamente son de verdad un problema."
+        "ko-KR": "[수도승]\n여기까지 오면서 많은 식물들의 공격을 받았을 거야. 정말 가만히 잘 가고 있는데 먼저 공격해오는 만드라고라들은 정말 골치 아플 정도지.",
+        "en-US": "[Training Monk]\nYou must have been attacked by many plants on your way here. Mandragoras that attack first when you're simply walking peacefully are truly troublesome.",
+        "pt-BR": "[Monge em Treinamento]\nVocê deve ter sido atacado por muitas plantas ao vir até aqui. Mandrágoras que atacam primeiro quando você está apenas seguindo seu caminho são realmente problemáticas.",
+        "es-ES": "[Monje formador]\nDe camino hasta aquí, muchas plantas te habrán atacado. Esas mandrágoras que te atacan primero cuando ibas tranquilamente son de verdad un problema."
     },
     "s2UzAw": {
-        "ko": "[수도승]\n다른 여행자들에게 피해만 끼치는 흉악한 식물들을 물리치는 것이 힘과 함께 다른 여행자들을 배려하는 상냥한 마음씨를 가졌다는 증거가 된다고 생각해.",
-        "en": "[Training Monk]\nI believe defeating those vicious plants that only harm other travelers proves that you have both strength and a kind heart that considers other travelers.",
-        "pt": "[Monge em Treinamento]\nAcredito que derrotar essas plantas malignas, que só causam danos a outros viajantes, prova que você possui força e também um coração gentil que se preocupa com os outros viajantes.",
-        "es": "[Monje formador]\nCreo que derrotar a esas plantas feroces que solo perjudican a otros viajeros demuestra que, además de fuerza, tienes un corazón amable que piensa en los demás."
+        "ko-KR": "[수도승]\n다른 여행자들에게 피해만 끼치는 흉악한 식물들을 물리치는 것이 힘과 함께 다른 여행자들을 배려하는 상냥한 마음씨를 가졌다는 증거가 된다고 생각해.",
+        "en-US": "[Training Monk]\nI believe defeating those vicious plants that only harm other travelers proves that you have both strength and a kind heart that considers other travelers.",
+        "pt-BR": "[Monge em Treinamento]\nAcredito que derrotar essas plantas malignas, que só causam danos a outros viajantes, prova que você possui força e também um coração gentil que se preocupa com os outros viajantes.",
+        "es-ES": "[Monje formador]\nCreo que derrotar a esas plantas feroces que solo perjudican a otros viajeros demuestra que, además de fuerza, tienes un corazón amable que piensa en los demás."
     },
     "tGUzAw": {
-        "ko": "[수도승]\n뭐, 딱 단위를 맞춰서 이 정도면 됐다! 고는 할 수 없지만 굳이 따지자면 ^FF0000식물의 줄기 20개^000000와 ^FF0000Shoot 3개^000000를 가져오면 나름 성의를 보인 거라고 생각하는데.",
-        "en": "[Training Monk]\nWell, I can't say there is an exact amount that makes it enough! But if I had to specify, bringing ^FF000020 Stem^000000 and ^FF00003 Shoot^000000 would show some sincerity.",
-        "pt": "[Monge em Treinamento]\nBem, não dá para dizer exatamente que uma unidade certa basta! Mas, se for para definir, acho que trazer ^FF000020 Caule^000000 e ^FF00003 Broto^000000 mostraria certa dedicação.",
-        "es": "[Monje formador]\nBueno, no puedo decir exactamente: ¡con esta cantidad basta! Pero, si tuviera que fijar una medida, diría que traer ^FF000020 Tallo^000000 y ^FF00003 Brote^000000 demuestra cierta buena voluntad."
+        "ko-KR": "[수도승]\n뭐, 딱 단위를 맞춰서 이 정도면 됐다! 고는 할 수 없지만 굳이 따지자면 ^FF0000식물의 줄기 20개^000000와 ^FF0000Shoot 3개^000000를 가져오면 나름 성의를 보인 거라고 생각하는데.",
+        "en-US": "[Training Monk]\nWell, I can't say there is an exact amount that makes it enough! But if I had to specify, bringing ^FF000020 Stem^000000 and ^FF00003 Shoot^000000 would show some sincerity.",
+        "pt-BR": "[Monge em Treinamento]\nBem, não dá para dizer exatamente que uma unidade certa basta! Mas, se for para definir, acho que trazer ^FF000020 Caule^000000 e ^FF00003 Broto^000000 mostraria certa dedicação.",
+        "es-ES": "[Monje formador]\nBueno, no puedo decir exactamente: ¡con esta cantidad basta! Pero, si tuviera que fijar una medida, diría que traer ^FF000020 Tallo^000000 y ^FF00003 Brote^000000 demuestra cierta buena voluntad."
     },
     "tWUzAw": {
-        "ko": "[수도승]\n뭐... 어차피 지금 와서 이 바른 힘 테스트가 의미가 없긴 하지만 말이야. 어차피 테스트에 합격한다고 해도 진기주입이 안 되는 이상 발경을 배워봤자...",
-        "en": "[Training Monk]\nWell... at this point, this proper strength test is meaningless anyway. Even if you pass the test, as long as you can't use Spiritual Bestowment, learning Excruciating Palm would be...",
-        "pt": "[Monge em Treinamento]\nBem... de qualquer forma, agora este teste de força correta não tem significado. Mesmo que passe no teste, se não conseguir usar Concessão Espiritual, aprender Punhos Intensos não vai adiantar...",
-        "es": "[Monje formador]\nBueno... de todos modos, a estas alturas esta prueba de fuerza justa no tiene mucho sentido. Aunque superes la prueba, si no puedes usar Don Espiritual, aprender Palma del Dolor no servirá de..."
+        "ko-KR": "[수도승]\n뭐... 어차피 지금 와서 이 바른 힘 테스트가 의미가 없긴 하지만 말이야. 어차피 테스트에 합격한다고 해도 진기주입이 안 되는 이상 발경을 배워봤자...",
+        "en-US": "[Training Monk]\nWell... at this point, this proper strength test is meaningless anyway. Even if you pass the test, as long as you can't use Spiritual Bestowment, learning Excruciating Palm would be...",
+        "pt-BR": "[Monge em Treinamento]\nBem... de qualquer forma, agora este teste de força correta não tem significado. Mesmo que passe no teste, se não conseguir usar Concessão Espiritual, aprender Punhos Intensos não vai adiantar...",
+        "es-ES": "[Monje formador]\nBueno... de todos modos, a estas alturas esta prueba de fuerza justa no tiene mucho sentido. Aunque superes la prueba, si no puedes usar Don Espiritual, aprender Palma del Dolor no servirá de..."
     },
     "tmUzAw": {
-        "ko": "[수도승]\n그러니 발경은 포기해. 끙... 어떻게 하면 진기주입을 수도승들에게 퍼뜨릴 수가 있을까.",
-        "en": "[Training Monk]\nSo give up on Excruciating Palm. Ugh... How can we spread Spiritual Bestowment among the monks?",
-        "pt": "[Monge em Treinamento]\nEntão desista de Punhos Intensos. Ugh... Como podemos espalhar Concessão Espiritual entre os monges?",
-        "es": "[Monje formador]\nAsí que renuncia a Palma del Dolor. Ugh... ¿cómo podríamos difundir Don Espiritual entre los monjes?"
+        "ko-KR": "[수도승]\n그러니 발경은 포기해. 끙... 어떻게 하면 진기주입을 수도승들에게 퍼뜨릴 수가 있을까.",
+        "en-US": "[Training Monk]\nSo give up on Excruciating Palm. Ugh... How can we spread Spiritual Bestowment among the monks?",
+        "pt-BR": "[Monge em Treinamento]\nEntão desista de Punhos Intensos. Ugh... Como podemos espalhar Concessão Espiritual entre os monges?",
+        "es-ES": "[Monje formador]\nAsí que renuncia a Palma del Dolor. Ugh... ¿cómo podríamos difundir Don Espiritual entre los monjes?"
     },
     "t2UzAw": {
-        "ko": "[수도승]\n...끈질긴 녀석. 그래. 식물의 줄기 20개에 Shoot 3개 이상이라. 확실히 만드라고라를 많이 물리쳤다는 증거가 되는군. 옳은 힘을 가졌다는 것은 두 말할 것 없이 증명되었다.",
-        "en": "[Training Monk]\n...Persistent one. Fine. 20 Stem and at least 3 Shoot. That certainly proves you defeated many Mandragoras. It proves beyond question that you possess righteous strength.",
-        "pt": "[Monge em Treinamento]\n...Você é insistente. Certo. 20 Caule e 3 Broto ou mais. Isso certamente prova que você derrotou muitas Mandrágoras. Não há dúvida de que provou possuir uma força correta.",
-        "es": "[Monje formador]\n...Qué persistente. Bien. Más de 20 Tallo y 3 Brote. Sin duda es prueba de que has derrotado a muchas mandrágoras. Ha quedado demostrado sin duda que posees una fuerza justa."
+        "ko-KR": "[수도승]\n...끈질긴 녀석. 그래. 식물의 줄기 20개에 Shoot 3개 이상이라. 확실히 만드라고라를 많이 물리쳤다는 증거가 되는군. 옳은 힘을 가졌다는 것은 두 말할 것 없이 증명되었다.",
+        "en-US": "[Training Monk]\n...Persistent one. Fine. 20 Stem and at least 3 Shoot. That certainly proves you defeated many Mandragoras. It proves beyond question that you possess righteous strength.",
+        "pt-BR": "[Monge em Treinamento]\n...Você é insistente. Certo. 20 Caule e 3 Broto ou mais. Isso certamente prova que você derrotou muitas Mandrágoras. Não há dúvida de que provou possuir uma força correta.",
+        "es-ES": "[Monje formador]\n...Qué persistente. Bien. Más de 20 Tallo y 3 Brote. Sin duda es prueba de que has derrotado a muchas mandrágoras. Ha quedado demostrado sin duda que posees una fuerza justa."
     },
     "uGUzAw": {
-        "ko": "[수도승]\n근데 그럼 뭐 하나? 어디의 바보가 진기주입을 다른 이들에게 전파하지 않은 이상 내가 너에게 발경에 대하여 가르쳐줘도 한낱 이론에 지나지 않아.",
-        "en": "[Training Monk]\nBut what good does that do? Unless that fool somewhere spreads Spiritual Bestowment to others, even if I teach you about Excruciating Palm, it will be nothing more than theory.",
-        "pt": "[Monge em Treinamento]\nMas e daí? Enquanto certo idiota não espalhar Concessão Espiritual para os outros, mesmo que eu lhe ensine sobre Punhos Intensos, isso não passará de teoria.",
-        "es": "[Monje formador]\nPero ¿de qué sirve eso? Mientras cierto idiota no difunda Don Espiritual entre los demás, aunque yo te enseñe Palma del Dolor, no será más que teoría."
+        "ko-KR": "[수도승]\n근데 그럼 뭐 하나? 어디의 바보가 진기주입을 다른 이들에게 전파하지 않은 이상 내가 너에게 발경에 대하여 가르쳐줘도 한낱 이론에 지나지 않아.",
+        "en-US": "[Training Monk]\nBut what good does that do? Unless that fool somewhere spreads Spiritual Bestowment to others, even if I teach you about Excruciating Palm, it will be nothing more than theory.",
+        "pt-BR": "[Monge em Treinamento]\nMas e daí? Enquanto certo idiota não espalhar Concessão Espiritual para os outros, mesmo que eu lhe ensine sobre Punhos Intensos, isso não passará de teoria.",
+        "es-ES": "[Monje formador]\nPero ¿de qué sirve eso? Mientras cierto idiota no difunda Don Espiritual entre los demás, aunque yo te enseñe Palma del Dolor, no será más que teoría."
     },
     "uWUzAw": {
-        "ko": "[수도승]\n이론만 능숙하게 알고 있어봤자, 실제로 몸의 내공 운용이 제대로 되지 않으면 그저 이론만 알고 있고 제대로 할 줄은 모르는 물 지식이 되는 셈이지.",
-        "en": "[Training Monk]\nEven if you know the theory skillfully, if you cannot properly control the inner power in your body, it is merely shallow knowledge, knowing only the theory without actually being able to perform it.",
-        "pt": "[Monge em Treinamento]\nMesmo que você conheça bem apenas a teoria, se não conseguir operar corretamente a energia interna do corpo na prática, será apenas um conhecimento superficial, sabendo a teoria sem conseguir executá-la.",
-        "es": "[Monje formador]\nPor mucho que domines la teoría, si el manejo del poder interno del cuerpo no funciona correctamente en la práctica, no será más que conocimiento superficial: sabes la teoría, pero no puedes hacerlo bien."
+        "ko-KR": "[수도승]\n이론만 능숙하게 알고 있어봤자, 실제로 몸의 내공 운용이 제대로 되지 않으면 그저 이론만 알고 있고 제대로 할 줄은 모르는 물 지식이 되는 셈이지.",
+        "en-US": "[Training Monk]\nEven if you know the theory skillfully, if you cannot properly control the inner power in your body, it is merely shallow knowledge, knowing only the theory without actually being able to perform it.",
+        "pt-BR": "[Monge em Treinamento]\nMesmo que você conheça bem apenas a teoria, se não conseguir operar corretamente a energia interna do corpo na prática, será apenas um conhecimento superficial, sabendo a teoria sem conseguir executá-la.",
+        "es-ES": "[Monje formador]\nPor mucho que domines la teoría, si el manejo del poder interno del cuerpo no funciona correctamente en la práctica, no será más que conocimiento superficial: sabes la teoría, pero no puedes hacerlo bien."
     },
     "umUzAw": {
-        "ko": "[수도승]\n거참... 그래도 배우고 싶나? 고집불통이군. 알았네. 준비되면 다시 말 걸게. 알아봤자 도움이 되지 않는다고 해도 난 모른다.",
-        "en": "[Training Monk]\nGood grief... Still want to learn? Stubborn, aren't you. Very well. Speak to me again when you're ready. Don't blame me even if knowing it doesn't help.",
-        "pt": "[Monge em Treinamento]\nFrancamente... Ainda assim quer aprender? Você é teimoso. Entendi. Quando estiver pronto, fale comigo de novo. Não me responsabilizo se isso não ajudar em nada mesmo você sabendo.",
-        "es": "[Monje formador]\nVaya... ¿Aun así quieres aprender? Eres terco. De acuerdo. Cuando estés listo, háblame otra vez. No me culpes si saberlo no te sirve de nada."
+        "ko-KR": "[수도승]\n거참... 그래도 배우고 싶나? 고집불통이군. 알았네. 준비되면 다시 말 걸게. 알아봤자 도움이 되지 않는다고 해도 난 모른다.",
+        "en-US": "[Training Monk]\nGood grief... Still want to learn? Stubborn, aren't you. Very well. Speak to me again when you're ready. Don't blame me even if knowing it doesn't help.",
+        "pt-BR": "[Monge em Treinamento]\nFrancamente... Ainda assim quer aprender? Você é teimoso. Entendi. Quando estiver pronto, fale comigo de novo. Não me responsabilizo se isso não ajudar em nada mesmo você sabendo.",
+        "es-ES": "[Monje formador]\nVaya... ¿Aun así quieres aprender? Eres terco. De acuerdo. Cuando estés listo, háblame otra vez. No me culpes si saberlo no te sirve de nada."
     },
     "u2UzAw": {
-        "ko": "[수도승]\n뭐? 테스트 내용? 거 글쎄 의미가 없다니까 자꾸 그러네. 일단 물어보니까 대답이야 해 준다만.",
-        "en": "[Training Monk]\nWhat? The test details? I told you it has no meaning, yet you keep asking. Since you asked, I'll answer for now.",
-        "pt": "[Monge em Treinamento]\nO quê? O conteúdo do teste? Eu disse que não tem significado, mas você insiste. Como perguntou, vou responder.",
-        "es": "[Monje formador]\n¿Qué? ¿El contenido de la prueba? Ya te digo que no tiene sentido, pero insistes. Como lo preguntas, te responderé."
+        "ko-KR": "[수도승]\n뭐? 테스트 내용? 거 글쎄 의미가 없다니까 자꾸 그러네. 일단 물어보니까 대답이야 해 준다만.",
+        "en-US": "[Training Monk]\nWhat? The test details? I told you it has no meaning, yet you keep asking. Since you asked, I'll answer for now.",
+        "pt-BR": "[Monge em Treinamento]\nO quê? O conteúdo do teste? Eu disse que não tem significado, mas você insiste. Como perguntou, vou responder.",
+        "es-ES": "[Monje formador]\n¿Qué? ¿El contenido de la prueba? Ya te digo que no tiene sentido, pero insistes. Como lo preguntas, te responderé."
     },
     "vGUzAw": {
-        "ko": "[수도승]\n여행자들을 공격하여 길을 방해하는 흉악한 식물, 만드라고라들을 많이 퇴치해오는 것이 테스트의 내용이라고 할 수 있지.",
-        "en": "[Training Monk]\nThe test is to defeat many of those vicious plants, Mandragoras, that attack travelers and block the road.",
-        "pt": "[Monge em Treinamento]\nO conteúdo do teste é derrotar muitas Mandrágoras, plantas malignas que atacam viajantes e bloqueiam o caminho.",
-        "es": "[Monje formador]\nEl contenido de la prueba consiste en derrotar a muchas mandrágoras, esas plantas feroces que atacan a los viajeros y les bloquean el camino."
+        "ko-KR": "[수도승]\n여행자들을 공격하여 길을 방해하는 흉악한 식물, 만드라고라들을 많이 퇴치해오는 것이 테스트의 내용이라고 할 수 있지.",
+        "en-US": "[Training Monk]\nThe test is to defeat many of those vicious plants, Mandragoras, that attack travelers and block the road.",
+        "pt-BR": "[Monge em Treinamento]\nO conteúdo do teste é derrotar muitas Mandrágoras, plantas malignas que atacam viajantes e bloqueiam o caminho.",
+        "es-ES": "[Monje formador]\nEl contenido de la prueba consiste en derrotar a muchas mandrágoras, esas plantas feroces que atacan a los viajeros y les bloquean el camino."
     },
     "vWUzAw": {
-        "ko": "[수도승]\n즉, 만드라고라를 물리칠만한 힘을 가지고 있으며, 다른 여행자들을 위해 민폐가 되는 몬스터들을 물리쳐준다는 상냥한 배려심마저 가지고 있다는 증거가 되는 셈이야.",
-        "en": "[Training Monk]\nIn other words, it proves that you have the strength to defeat Mandragoras, as well as kind consideration for other travelers by removing troublesome monsters.",
-        "pt": "[Monge em Treinamento]\nOu seja, é prova de que você possui força suficiente para derrotar Mandrágoras e até a consideração gentil de eliminar monstros que causam incômodo a outros viajantes.",
-        "es": "[Monje formador]\nEs decir, demuestra que tienes fuerza suficiente para derrotar mandrágoras y también la consideración amable de eliminar monstruos que molestan a otros viajeros."
+        "ko-KR": "[수도승]\n즉, 만드라고라를 물리칠만한 힘을 가지고 있으며, 다른 여행자들을 위해 민폐가 되는 몬스터들을 물리쳐준다는 상냥한 배려심마저 가지고 있다는 증거가 되는 셈이야.",
+        "en-US": "[Training Monk]\nIn other words, it proves that you have the strength to defeat Mandragoras, as well as kind consideration for other travelers by removing troublesome monsters.",
+        "pt-BR": "[Monge em Treinamento]\nOu seja, é prova de que você possui força suficiente para derrotar Mandrágoras e até a consideração gentil de eliminar monstros que causam incômodo a outros viajantes.",
+        "es-ES": "[Monje formador]\nEs decir, demuestra que tienes fuerza suficiente para derrotar mandrágoras y también la consideración amable de eliminar monstruos que molestan a otros viajeros."
     },
     "vmUzAw": {
-        "ko": "[수도승]\n알겠지?",
-        "en": "[Training Monk]\nUnderstood?",
-        "pt": "[Monge em Treinamento]\nEntendeu?",
-        "es": "[Monje formador]\n¿Entendido?"
+        "ko-KR": "[수도승]\n알겠지?",
+        "en-US": "[Training Monk]\nUnderstood?",
+        "pt-BR": "[Monge em Treinamento]\nEntendeu?",
+        "es-ES": "[Monje formador]\n¿Entendido?"
     },
     "v2UzAw": {
-        "ko": "[수도승]\n좋아. 준비가 다 된 모양이군. 일단 이론은 확실히 전수해 주겠네. 어차피 그걸로 끝이겠지만...",
-        "en": "[Training Monk]\nGood. It seems you are fully prepared. I will pass down the theory clearly. Though that will be the end of it anyway...",
-        "pt": "[Monge em Treinamento]\nÓtimo. Parece que está tudo pronto. Primeiro, transmitirei a teoria com clareza. Embora, de qualquer forma, isso termine aí...",
-        "es": "[Monje formador]\nBien. Parece que todo está preparado. Al menos te transmitiré la teoría con claridad. Aunque al final eso será todo..."
+        "ko-KR": "[수도승]\n좋아. 준비가 다 된 모양이군. 일단 이론은 확실히 전수해 주겠네. 어차피 그걸로 끝이겠지만...",
+        "en-US": "[Training Monk]\nGood. It seems you are fully prepared. I will pass down the theory clearly. Though that will be the end of it anyway...",
+        "pt-BR": "[Monge em Treinamento]\nÓtimo. Parece que está tudo pronto. Primeiro, transmitirei a teoria com clareza. Embora, de qualquer forma, isso termine aí...",
+        "es-ES": "[Monje formador]\nBien. Parece que todo está preparado. Al menos te transmitiré la teoría con claridad. Aunque al final eso será todo..."
     },
     "wGUzAw": {
-        "ko": "[수도승]\n기술의 이름은 발경, 전에도 몇 번씩 이야기했으니까 익히 알고 있을 거야. 손바닥에 내공을 집중시켜서 몬스터에게 타격을 입힘과 동시에 강력한 충격파를 발생시켜 주위의 적까지 날리는 기술이지.",
-        "en": "[Training Monk]\nThe technique is called Excruciating Palm. I have mentioned it several times before, so you should know it well. It concentrates inner power in the palm to strike a monster and simultaneously generates a powerful shockwave that blows away nearby enemies.",
-        "pt": "[Monge em Treinamento]\nO nome da técnica é Punhos Intensos. Já falei várias vezes antes, então você deve conhecê-la bem. É uma técnica que concentra a energia interna na palma da mão para atingir um monstro e, ao mesmo tempo, gerar uma poderosa onda de choque que arremessa até os inimigos ao redor.",
-        "es": "[Monje formador]\nEl nombre de la técnica es Palma del Dolor. Ya lo he dicho varias veces, así que lo sabrás bien. Consiste en concentrar el poder interno en la palma para golpear a un monstruo y, al mismo tiempo, generar una potente onda de choque que empuja también a los enemigos cercanos."
+        "ko-KR": "[수도승]\n기술의 이름은 발경, 전에도 몇 번씩 이야기했으니까 익히 알고 있을 거야. 손바닥에 내공을 집중시켜서 몬스터에게 타격을 입힘과 동시에 강력한 충격파를 발생시켜 주위의 적까지 날리는 기술이지.",
+        "en-US": "[Training Monk]\nThe technique is called Excruciating Palm. I have mentioned it several times before, so you should know it well. It concentrates inner power in the palm to strike a monster and simultaneously generates a powerful shockwave that blows away nearby enemies.",
+        "pt-BR": "[Monge em Treinamento]\nO nome da técnica é Punhos Intensos. Já falei várias vezes antes, então você deve conhecê-la bem. É uma técnica que concentra a energia interna na palma da mão para atingir um monstro e, ao mesmo tempo, gerar uma poderosa onda de choque que arremessa até os inimigos ao redor.",
+        "es-ES": "[Monje formador]\nEl nombre de la técnica es Palma del Dolor. Ya lo he dicho varias veces, así que lo sabrás bien. Consiste en concentrar el poder interno en la palma para golpear a un monstruo y, al mismo tiempo, generar una potente onda de choque que empuja también a los enemigos cercanos."
     },
     "wWUzAw": {
-        "ko": "[수도승]\n이 기술에 맞은 몬스터 이외에 주위에 있는 몬스터들은 충격파에 의하여 뒤로 물러나게 되며, 동시에 스턴에 걸리기까지 하지. 대미지를 입은 몬스터는 데미지만 입고 끝나지만 말이야.",
-        "en": "[Training Monk]\nMonsters nearby other than the one struck by this technique are pushed back by the shockwave and are also stunned. The monster that takes damage only receives the damage, however.",
-        "pt": "[Monge em Treinamento]\nAlém do monstro atingido por esta técnica, os monstros ao redor são empurrados para trás pela onda de choque e até ficam atordoados. Já o monstro que recebeu o dano apenas sofre o dano e nada mais.",
-        "es": "[Monje formador]\nLos monstruos cercanos, aparte del monstruo golpeado por esta técnica, retroceden por la onda de choque y además quedan aturdidos. El monstruo que recibe el daño solo recibe el daño, eso sí."
+        "ko-KR": "[수도승]\n이 기술에 맞은 몬스터 이외에 주위에 있는 몬스터들은 충격파에 의하여 뒤로 물러나게 되며, 동시에 스턴에 걸리기까지 하지. 대미지를 입은 몬스터는 데미지만 입고 끝나지만 말이야.",
+        "en-US": "[Training Monk]\nMonsters nearby other than the one struck by this technique are pushed back by the shockwave and are also stunned. The monster that takes damage only receives the damage, however.",
+        "pt-BR": "[Monge em Treinamento]\nAlém do monstro atingido por esta técnica, os monstros ao redor são empurrados para trás pela onda de choque e até ficam atordoados. Já o monstro que recebeu o dano apenas sofre o dano e nada mais.",
+        "es-ES": "[Monje formador]\nLos monstruos cercanos, aparte del monstruo golpeado por esta técnica, retroceden por la onda de choque y además quedan aturdidos. El monstruo que recibe el daño solo recibe el daño, eso sí."
     },
     "wmUzAw": {
-        "ko": "[수도승]\n시전시 SP가 20이 소비되고, 특이하게도 체력이 10 소비가 돼. 아무래도 좀 강력한 기술이다 보니 시전자에게도 조금은 무리가 오는 것 같아.",
-        "en": "[Training Monk]\nWhen cast, it consumes 20 SP, and unusually, it also consumes 10 HP. Since it is a rather powerful technique, it seems to put some strain on the caster as well.",
-        "pt": "[Monge em Treinamento]\nAo conjurar, consome 20 de SP e, curiosamente, também consome 10 de HP. Como é uma técnica bastante poderosa, parece causar algum esforço ao usuário.",
-        "es": "[Monje formador]\nAl lanzarla consume 20 SP y, de forma peculiar, también consume 10 de HP. Como es una técnica bastante poderosa, parece que también exige cierto esfuerzo al usuario."
+        "ko-KR": "[수도승]\n시전시 SP가 20이 소비되고, 특이하게도 체력이 10 소비가 돼. 아무래도 좀 강력한 기술이다 보니 시전자에게도 조금은 무리가 오는 것 같아.",
+        "en-US": "[Training Monk]\nWhen cast, it consumes 20 SP, and unusually, it also consumes 10 HP. Since it is a rather powerful technique, it seems to put some strain on the caster as well.",
+        "pt-BR": "[Monge em Treinamento]\nAo conjurar, consome 20 de SP e, curiosamente, também consome 10 de HP. Como é uma técnica bastante poderosa, parece causar algum esforço ao usuário.",
+        "es-ES": "[Monje formador]\nAl lanzarla consume 20 SP y, de forma peculiar, también consume 10 de HP. Como es una técnica bastante poderosa, parece que también exige cierto esfuerzo al usuario."
     },
     "w2UzAw": {
-        "ko": "[수도승]\n아까부터 대상을 몬스터라고 굳이 집어서 말한 이유는 인간에게 시전하게 될 경우, 대미지는 입힐 수 있지만 주위 인간이 충격파에 의하며 밀리지는 않기 때문이다. 잘 기억해둬.",
-        "en": "[Training Monk]\nThe reason I have specifically referred to the target as a monster is that if it is cast on a human, it can deal damage, but nearby humans will not be pushed back by the shockwave. Remember that well.",
-        "pt": "[Monge em Treinamento]\nO motivo de eu estar especificando desde antes que o alvo é um monstro é que, se for conjurada em humanos, pode causar dano, mas os humanos ao redor não serão empurrados pela onda de choque. Lembre-se bem.",
-        "es": "[Monje formador]\nLa razón por la que he estado especificando que el objetivo es un monstruo es que, si se lanza contra un humano, puede causar daño, pero los humanos cercanos no serán empujados por la onda de choque. Recuérdalo bien."
+        "ko-KR": "[수도승]\n아까부터 대상을 몬스터라고 굳이 집어서 말한 이유는 인간에게 시전하게 될 경우, 대미지는 입힐 수 있지만 주위 인간이 충격파에 의하며 밀리지는 않기 때문이다. 잘 기억해둬.",
+        "en-US": "[Training Monk]\nThe reason I have specifically referred to the target as a monster is that if it is cast on a human, it can deal damage, but nearby humans will not be pushed back by the shockwave. Remember that well.",
+        "pt-BR": "[Monge em Treinamento]\nO motivo de eu estar especificando desde antes que o alvo é um monstro é que, se for conjurada em humanos, pode causar dano, mas os humanos ao redor não serão empurrados pela onda de choque. Lembre-se bem.",
+        "es-ES": "[Monje formador]\nLa razón por la que he estado especificando que el objetivo es un monstruo es que, si se lanza contra un humano, puede causar daño, pero los humanos cercanos no serán empujados por la onda de choque. Recuérdalo bien."
     },
     "xGUzAw": {
-        "ko": "[수도승]\n뭐... 대충 이 정도인가? 이론은 여기서 끝이지만... 이렇게 모든 것을 알고 있다 한들, 몸에서 진기 주입을 할 수 있을 정도로 내공 운용을 하지 못하면 말짱 꽝이야.",
-        "en": "[Training Monk]\nWell... that should be about it. The theory ends here, but... even if you know everything like this, if you cannot control your inner power well enough to infuse true energy through your body, it is all useless.",
-        "pt": "[Monge em Treinamento]\nBem... acho que é mais ou menos isso. A teoria termina aqui, mas... mesmo sabendo tudo isso, se você não conseguir operar a energia interna a ponto de infundir energia verdadeira pelo corpo, não servirá para nada.",
-        "es": "[Monje formador]\nBueno... ¿más o menos eso es todo? La teoría termina aquí... Pero aunque lo sepas todo, si no puedes manejar tu poder interno hasta el punto de infundir energía verdadera en el cuerpo, no servirá de nada."
+        "ko-KR": "[수도승]\n뭐... 대충 이 정도인가? 이론은 여기서 끝이지만... 이렇게 모든 것을 알고 있다 한들, 몸에서 진기 주입을 할 수 있을 정도로 내공 운용을 하지 못하면 말짱 꽝이야.",
+        "en-US": "[Training Monk]\nWell... that should be about it. The theory ends here, but... even if you know everything like this, if you cannot control your inner power well enough to infuse true energy through your body, it is all useless.",
+        "pt-BR": "[Monge em Treinamento]\nBem... acho que é mais ou menos isso. A teoria termina aqui, mas... mesmo sabendo tudo isso, se você não conseguir operar a energia interna a ponto de infundir energia verdadeira pelo corpo, não servirá para nada.",
+        "es-ES": "[Monje formador]\nBueno... ¿más o menos eso es todo? La teoría termina aquí... Pero aunque lo sepas todo, si no puedes manejar tu poder interno hasta el punto de infundir energía verdadera en el cuerpo, no servirá de nada."
     },
     "xWUzAw": {
-        "ko": "[수도승]\n아무튼 약속대로 난 다 가르쳐 줬지? 이제 난 진기 주입의 대중화를 위하여 어딘가의 바보 씨를 설득할 만한 방법을 생각해 봐야겠어.",
-        "en": "[Training Monk]\nIn any case, I taught you everything as promised, didn't I? Now I must think of a way to persuade that fool somewhere to popularize true energy infusion.",
-        "pt": "[Monge em Treinamento]\nDe todo modo, ensinei tudo como prometido, certo? Agora preciso pensar em uma forma de convencer certo idiota para popularizar a infusão de energia verdadeira.",
-        "es": "[Monje formador]\nEn cualquier caso, te lo he enseñado todo tal como prometí, ¿no? Ahora tendré que pensar en una forma de convencer a cierto idiota para popularizar la infusión de energía verdadera."
+        "ko-KR": "[수도승]\n아무튼 약속대로 난 다 가르쳐 줬지? 이제 난 진기 주입의 대중화를 위하여 어딘가의 바보 씨를 설득할 만한 방법을 생각해 봐야겠어.",
+        "en-US": "[Training Monk]\nIn any case, I taught you everything as promised, didn't I? Now I must think of a way to persuade that fool somewhere to popularize true energy infusion.",
+        "pt-BR": "[Monge em Treinamento]\nDe todo modo, ensinei tudo como prometido, certo? Agora preciso pensar em uma forma de convencer certo idiota para popularizar a infusão de energia verdadeira.",
+        "es-ES": "[Monje formador]\nEn cualquier caso, te lo he enseñado todo tal como prometí, ¿no? Ahora tendré que pensar en una forma de convencer a cierto idiota para popularizar la infusión de energía verdadera."
     },
     "xmUzAw": {
-        "ko": "[수도승]\n왠지 시간만 낭비한 기분이군그래. 아무튼 난 약속대로 기술 전수를 해줬고... 너도 이론이나마 만족했지?",
-        "en": "[Training Monk]\nSomehow, I feel like I only wasted my time. In any case, I passed down the technique as promised... and you are satisfied with the theory, at least, yes?",
-        "pt": "[Monge em Treinamento]\nSinto que perdi tempo. De qualquer forma, transmiti a técnica como prometido... e você também ficou satisfeito, ainda que só com a teoria, certo?",
-        "es": "[Monje formador]\nSiento que solo he perdido el tiempo. En cualquier caso, he transmitido la técnica tal como prometí... y tú también estarás satisfecho aunque solo sea con la teoría, ¿verdad?"
+        "ko-KR": "[수도승]\n왠지 시간만 낭비한 기분이군그래. 아무튼 난 약속대로 기술 전수를 해줬고... 너도 이론이나마 만족했지?",
+        "en-US": "[Training Monk]\nSomehow, I feel like I only wasted my time. In any case, I passed down the technique as promised... and you are satisfied with the theory, at least, yes?",
+        "pt-BR": "[Monge em Treinamento]\nSinto que perdi tempo. De qualquer forma, transmiti a técnica como prometido... e você também ficou satisfeito, ainda que só com a teoria, certo?",
+        "es-ES": "[Monje formador]\nSiento que solo he perdido el tiempo. En cualquier caso, he transmitido la técnica tal como prometí... y tú también estarás satisfecho aunque solo sea con la teoría, ¿verdad?"
     },
     "x2UzAw": {
-        "ko": "[수도승]\n그럼 잘 가게나. 혹시나 여행하다가 그 바보를 설득시킬 좋은 방법이 생각나면 언제든지 이야기해 주도록.",
-        "en": "[Training Monk]\nThen farewell. If you think of a good way to persuade that fool during your travels, be sure to tell me anytime.",
-        "pt": "[Monge em Treinamento]\nEntão vá bem. Se, durante suas viagens, pensar em uma boa forma de convencer aquele idiota, venha me contar a qualquer momento.",
-        "es": "[Monje formador]\nEntonces, cuídate. Si durante tus viajes se te ocurre una buena forma de convencer a ese idiota, dímelo cuando quieras."
+        "ko-KR": "[수도승]\n그럼 잘 가게나. 혹시나 여행하다가 그 바보를 설득시킬 좋은 방법이 생각나면 언제든지 이야기해 주도록.",
+        "en-US": "[Training Monk]\nThen farewell. If you think of a good way to persuade that fool during your travels, be sure to tell me anytime.",
+        "pt-BR": "[Monge em Treinamento]\nEntão vá bem. Se, durante suas viagens, pensar em uma boa forma de convencer aquele idiota, venha me contar a qualquer momento.",
+        "es-ES": "[Monje formador]\nEntonces, cuídate. Si durante tus viajes se te ocurre una buena forma de convencer a ese idiota, dímelo cuando quieras."
     },
     "yGUzAw": {
-        "ko": "[수도승]\n그 바보를 설득시킬 좋은 방법이라도 떠오른 건가? 하긴? 뭐 그게 쉬웠으면, 우리가 이러고 있지는 않겠지..",
-        "en": "[Training Monk]\nDid you come up with a good way to persuade that fool? Well? If it were easy, we would not be like this..",
-        "pt": "[Monge em Treinamento]\nPensou em alguma boa forma de convencer aquele idiota? Pois é. Se fosse fácil, nós não estaríamos assim...",
-        "es": "[Monje formador]\n¿Se te ha ocurrido una buena forma de convencer a ese idiota? Aunque, claro... si fuera fácil, no estaríamos así..."
+        "ko-KR": "[수도승]\n그 바보를 설득시킬 좋은 방법이라도 떠오른 건가? 하긴? 뭐 그게 쉬웠으면, 우리가 이러고 있지는 않겠지..",
+        "en-US": "[Training Monk]\nDid you come up with a good way to persuade that fool? Well? If it were easy, we would not be like this..",
+        "pt-BR": "[Monge em Treinamento]\nPensou em alguma boa forma de convencer aquele idiota? Pois é. Se fosse fácil, nós não estaríamos assim...",
+        "es-ES": "[Monje formador]\n¿Se te ha ocurrido una buena forma de convencer a ese idiota? Aunque, claro... si fuera fácil, no estaríamos así..."
     },
     "yWUzAw": {
-        "ko": "수련몽크",
-        "en": "Training Monk",
-        "pt": "Monge em Treinamento",
-        "es": "Monje formador"
+        "ko-KR": "수련몽크",
+        "en-US": "Training Monk",
+        "pt-BR": "Monge em Treinamento",
+        "es-ES": "Monje formador"
     },
     "ymUzAw": {
-        "ko": "[수련몽크]\n싸움 따윈 쓸모없고 한심해. 자기 단련이 제일인 것을...",
-        "en": "[Training Monk]\nFighting is useless and pathetic. Self-discipline is what matters most...",
-        "pt": "[Monge em Treinamento]\nLutar é inútil e patético. O autotreinamento é o mais importante...",
-        "es": "[Monje formador]\nLuchar no sirve de nada y es lamentable. Lo más importante es el entrenamiento personal..."
+        "ko-KR": "[수련몽크]\n싸움 따윈 쓸모없고 한심해. 자기 단련이 제일인 것을...",
+        "en-US": "[Training Monk]\nFighting is useless and pathetic. Self-discipline is what matters most...",
+        "pt-BR": "[Monge em Treinamento]\nLutar é inútil e patético. O autotreinamento é o mais importante...",
+        "es-ES": "[Monje formador]\nLuchar no sirve de nada y es lamentable. Lo más importante es el entrenamiento personal..."
     },
     "y2UzAw": {
-        "ko": "[수련몽크]\n음? 처음 보는 몽크로군. 너도 나한테 힘이 어쩌고 정의가 어쩌고 설교하고 진기주입을 배우려고 왔나?",
-        "en": "[Training Monk]\nHm? A Monk I have not seen before. Did you come to lecture me about power and justice, then learn Spiritual Bestowment from me?",
-        "pt": "[Monge em Treinamento]\nHmm? Um Monk que nunca vi. Você também veio me dar sermão sobre força e justiça e tentar aprender Concessão Espiritual?",
-        "es": "[Monje formador]\n¿Mmm? Eres un monje que no había visto antes. ¿También has venido a sermonearme sobre la fuerza y la justicia, y a aprender Don Espiritual?"
+        "ko-KR": "[수련몽크]\n음? 처음 보는 몽크로군. 너도 나한테 힘이 어쩌고 정의가 어쩌고 설교하고 진기주입을 배우려고 왔나?",
+        "en-US": "[Training Monk]\nHm? A Monk I have not seen before. Did you come to lecture me about power and justice, then learn Spiritual Bestowment from me?",
+        "pt-BR": "[Monge em Treinamento]\nHmm? Um Monk que nunca vi. Você também veio me dar sermão sobre força e justiça e tentar aprender Concessão Espiritual?",
+        "es-ES": "[Monje formador]\n¿Mmm? Eres un monje que no había visto antes. ¿También has venido a sermonearme sobre la fuerza y la justicia, y a aprender Don Espiritual?"
     },
     "zGUzAw": {
-        "ko": "[수련몽크]\n도대체가... 지치지도 않고 한심한 수련몽크 같으니. 우리 몽크들은 싸움이 주된 할 일이 아닐 텐데도 불구하고 싸움을 위한 수련을 하고 있으니 말이야... 에잉",
-        "en": "[Training Monk]\nHonestly... those pathetic Training Monks never get tired of it. We Monks should not be mainly concerned with fighting, yet they train for fighting... Tsk.",
-        "pt": "[Monge em Treinamento]\nFrancamente... aqueles patéticos Monge em Treinamento não se cansam. Nós Monks nem deveríamos ter a luta como principal ocupação, mas treinam para lutar... Tsc.",
-        "es": "[Monje formador]\nDe verdad... qué Monje formador tan patético e incansable. Aunque la lucha no debería ser la principal tarea de los monjes, entrenan para luchar... En fin."
+        "ko-KR": "[수련몽크]\n도대체가... 지치지도 않고 한심한 수련몽크 같으니. 우리 몽크들은 싸움이 주된 할 일이 아닐 텐데도 불구하고 싸움을 위한 수련을 하고 있으니 말이야... 에잉",
+        "en-US": "[Training Monk]\nHonestly... those pathetic Training Monks never get tired of it. We Monks should not be mainly concerned with fighting, yet they train for fighting... Tsk.",
+        "pt-BR": "[Monge em Treinamento]\nFrancamente... aqueles patéticos Monge em Treinamento não se cansam. Nós Monks nem deveríamos ter a luta como principal ocupação, mas treinam para lutar... Tsc.",
+        "es-ES": "[Monje formador]\nDe verdad... qué Monje formador tan patético e incansable. Aunque la lucha no debería ser la principal tarea de los monjes, entrenan para luchar... En fin."
     },
     "zWUzAw": {
-        "ko": "[수련몽크]\n모두 나에게 잘못되었다고 뭐라 뭐라 하는데, 거참 그것도 상당히 시끄럽단 말이지.",
-        "en": "[Training Monk]\nEveryone keeps telling me I am wrong, but honestly, that is quite noisy too.",
-        "pt": "[Monge em Treinamento]\nTodos ficam dizendo que estou errado, mas isso também é bastante barulhento.",
-        "es": "[Monje formador]\nTodos me dicen que estoy equivocado, pero eso también acaba siendo bastante ruidoso."
+        "ko-KR": "[수련몽크]\n모두 나에게 잘못되었다고 뭐라 뭐라 하는데, 거참 그것도 상당히 시끄럽단 말이지.",
+        "en-US": "[Training Monk]\nEveryone keeps telling me I am wrong, but honestly, that is quite noisy too.",
+        "pt-BR": "[Monge em Treinamento]\nTodos ficam dizendo que estou errado, mas isso também é bastante barulhento.",
+        "es-ES": "[Monje formador]\nTodos me dicen que estoy equivocado, pero eso también acaba siendo bastante ruidoso."
     },
     "zmUzAw": {
-        "ko": "[수련몽크]\n나는 나의 방식이 있고 나는 내 나름대로의 신념을 지키는 것일 뿐...",
-        "en": "[Training Monk]\nI have my own way, and I am simply protecting my own beliefs...",
-        "pt": "[Monge em Treinamento]\nEu tenho meu próprio método e apenas protejo minhas próprias convicções...",
-        "es": "[Monje formador]\nYo tengo mi propio método y solo estoy defendiendo mis propias convicciones..."
+        "ko-KR": "[수련몽크]\n나는 나의 방식이 있고 나는 내 나름대로의 신념을 지키는 것일 뿐...",
+        "en-US": "[Training Monk]\nI have my own way, and I am simply protecting my own beliefs...",
+        "pt-BR": "[Monge em Treinamento]\nEu tenho meu próprio método e apenas protejo minhas próprias convicções...",
+        "es-ES": "[Monje formador]\nYo tengo mi propio método y solo estoy defendiendo mis propias convicciones..."
     },
     "z2UzAw": {
-        "ko": "[수련몽크]\n하여간 쓸데없는 욕심들은 많아가지곤. 정의를 위해 힘을 쓴다고는 해도 언젠간 그들의 욕심 때문에 평화를 해치게 될 거야.",
-        "en": "[Training Monk]\nAt any rate, they all have so many useless desires. Even if they claim to use power for justice, someday their desires will disturb the peace.",
-        "pt": "[Monge em Treinamento]\nDe todo modo, têm desejos inúteis demais. Mesmo dizendo que usam a força pela justiça, um dia acabarão prejudicando a paz por causa da ganância.",
-        "es": "[Monje formador]\nEn fin, tienen demasiados deseos inútiles. Aunque digan que usan la fuerza por la justicia, algún día sus deseos acabarán dañando la paz."
+        "ko-KR": "[수련몽크]\n하여간 쓸데없는 욕심들은 많아가지곤. 정의를 위해 힘을 쓴다고는 해도 언젠간 그들의 욕심 때문에 평화를 해치게 될 거야.",
+        "en-US": "[Training Monk]\nAt any rate, they all have so many useless desires. Even if they claim to use power for justice, someday their desires will disturb the peace.",
+        "pt-BR": "[Monge em Treinamento]\nDe todo modo, têm desejos inúteis demais. Mesmo dizendo que usam a força pela justiça, um dia acabarão prejudicando a paz por causa da ganância.",
+        "es-ES": "[Monje formador]\nEn fin, tienen demasiados deseos inútiles. Aunque digan que usan la fuerza por la justicia, algún día sus deseos acabarán dañando la paz."
     },
     "0GUzAw": {
-        "ko": "[수련몽크]\n너도 뭔가 하고 싶다면 일단 욕심부터 버려.",
-        "en": "[Training Monk]\nIf you wish to do something as well, first cast away your desires.",
-        "pt": "[Monge em Treinamento]\nSe você também quer fazer algo, primeiro abandone a ganância.",
-        "es": "[Monje formador]\nSi tú también quieres hacer algo, primero abandona tus deseos."
+        "ko-KR": "[수련몽크]\n너도 뭔가 하고 싶다면 일단 욕심부터 버려.",
+        "en-US": "[Training Monk]\nIf you wish to do something as well, first cast away your desires.",
+        "pt-BR": "[Monge em Treinamento]\nSe você também quer fazer algo, primeiro abandone a ganância.",
+        "es-ES": "[Monje formador]\nSi tú también quieres hacer algo, primero abandona tus deseos."
     },
     "0WUzAw": {
-        "ko": "[수련몽크]\n그것이 진정한 자기 수련의 극이자 평화와 정의를 실현하는 길이라 나는 믿는다.",
-        "en": "[Training Monk]\nI believe that is the pinnacle of true self-discipline and the path to realizing peace and justice.",
-        "pt": "[Monge em Treinamento]\nAcredito que esse seja o verdadeiro ápice do autotreinamento e o caminho para realizar a paz e a justiça.",
-        "es": "[Monje formador]\nCreo que eso es la cima del verdadero entrenamiento personal y el camino para realizar la paz y la justicia."
+        "ko-KR": "[수련몽크]\n그것이 진정한 자기 수련의 극이자 평화와 정의를 실현하는 길이라 나는 믿는다.",
+        "en-US": "[Training Monk]\nI believe that is the pinnacle of true self-discipline and the path to realizing peace and justice.",
+        "pt-BR": "[Monge em Treinamento]\nAcredito que esse seja o verdadeiro ápice do autotreinamento e o caminho para realizar a paz e a justiça.",
+        "es-ES": "[Monje formador]\nCreo que eso es la cima del verdadero entrenamiento personal y el camino para realizar la paz y la justicia."
     },
     "0mUzAw": {
-        "ko": "[수련몽크]\n거 글쎄 물욕부터 버리라고 몇 번을... 으응? 어라? 호오..",
-        "en": "[Training Monk]\nI keep telling you to cast away material desire first... Hm? Oh? Hooh..",
-        "pt": "[Monge em Treinamento]\nEu já disse tantas vezes para abandonar primeiro o apego material... Hmm? Ora? Oh...",
-        "es": "[Monje formador]\nTe digo que abandones primero el deseo material, ¿cuántas veces...? ¿Mmm? ¿Eh? Oh..."
+        "ko-KR": "[수련몽크]\n거 글쎄 물욕부터 버리라고 몇 번을... 으응? 어라? 호오..",
+        "en-US": "[Training Monk]\nI keep telling you to cast away material desire first... Hm? Oh? Hooh..",
+        "pt-BR": "[Monge em Treinamento]\nEu já disse tantas vezes para abandonar primeiro o apego material... Hmm? Ora? Oh...",
+        "es-ES": "[Monje formador]\nTe digo que abandones primero el deseo material, ¿cuántas veces...? ¿Mmm? ¿Eh? Oh..."
     },
     "02UzAw": {
-        "ko": "[수련몽크]\n마음의 욕심은 지금 봐선 잘 모르겠다만 물욕 하나는 확실히 버린 거 같군. 이거 이거 얼마 만에 보는 무욕 자인가!",
-        "en": "[Training Monk]\nI cannot tell about the desires of your heart just by looking now, but you certainly seem to have cast away material desire. My, my, how long has it been since I saw one without greed!",
-        "pt": "[Monge em Treinamento]\nQuanto à ganância do coração, não sei dizer agora, mas parece que você abandonou claramente o apego material. Ora, ora, há quanto tempo não vejo alguém sem desejos!",
-        "es": "[Monje formador]\nNo sé si has abandonado los deseos del corazón, pero parece claro que al menos has abandonado el deseo material. ¡Vaya, cuánto tiempo hacía que no veía a alguien sin codicia!"
+        "ko-KR": "[수련몽크]\n마음의 욕심은 지금 봐선 잘 모르겠다만 물욕 하나는 확실히 버린 거 같군. 이거 이거 얼마 만에 보는 무욕 자인가!",
+        "en-US": "[Training Monk]\nI cannot tell about the desires of your heart just by looking now, but you certainly seem to have cast away material desire. My, my, how long has it been since I saw one without greed!",
+        "pt-BR": "[Monge em Treinamento]\nQuanto à ganância do coração, não sei dizer agora, mas parece que você abandonou claramente o apego material. Ora, ora, há quanto tempo não vejo alguém sem desejos!",
+        "es-ES": "[Monje formador]\nNo sé si has abandonado los deseos del corazón, pero parece claro que al menos has abandonado el deseo material. ¡Vaya, cuánto tiempo hacía que no veía a alguien sin codicia!"
     },
     "1GUzAw": {
-        "ko": "[수련몽크]\n맘에 들었어! 너라면 확실히 내가 생각하는 이상적인 정의와 평화를 이룩할 수 있을 것이라고 생각한다.",
-        "en": "[Training Monk]\nI like you! I believe someone like you can surely achieve the ideal justice and peace that I envision.",
-        "pt": "[Monge em Treinamento]\nGostei! Com você, acredito que será realmente possível alcançar a justiça e a paz ideais em que penso.",
-        "es": "[Monje formador]\n¡Me agradas! Creo que tú sí podrás realizar la justicia y la paz ideales que yo imagino."
+        "ko-KR": "[수련몽크]\n맘에 들었어! 너라면 확실히 내가 생각하는 이상적인 정의와 평화를 이룩할 수 있을 것이라고 생각한다.",
+        "en-US": "[Training Monk]\nI like you! I believe someone like you can surely achieve the ideal justice and peace that I envision.",
+        "pt-BR": "[Monge em Treinamento]\nGostei! Com você, acredito que será realmente possível alcançar a justiça e a paz ideais em que penso.",
+        "es-ES": "[Monje formador]\n¡Me agradas! Creo que tú sí podrás realizar la justicia y la paz ideales que yo imagino."
     },
     "1WUzAw": {
-        "ko": "[수련몽크]\n뭐, 이런 걸로 생색내고 싶은 생각은 없지만, 자네에겐 특별히 나만의 기술을 전수해 주도록 하지.",
-        "en": "[Training Monk]\nWell, I do not mean to boast over something like this, but for you, I will specially pass down my own technique.",
-        "pt": "[Monge em Treinamento]\nBem, não quero me gabar por causa disso, mas transmitirei especialmente a você minha própria técnica.",
-        "es": "[Monje formador]\nBueno, no quiero presumir por esto, pero te transmitiré especialmente una técnica propia."
+        "ko-KR": "[수련몽크]\n뭐, 이런 걸로 생색내고 싶은 생각은 없지만, 자네에겐 특별히 나만의 기술을 전수해 주도록 하지.",
+        "en-US": "[Training Monk]\nWell, I do not mean to boast over something like this, but for you, I will specially pass down my own technique.",
+        "pt-BR": "[Monge em Treinamento]\nBem, não quero me gabar por causa disso, mas transmitirei especialmente a você minha própria técnica.",
+        "es-ES": "[Monje formador]\nBueno, no quiero presumir por esto, pero te transmitiré especialmente una técnica propia."
     },
     "1mUzAw": {
-        "ko": "[수련몽크]\n별건 아니다만... 다른 수련몽크들은 전부 하지 못하고 있는 희귀한 기술이지.",
-        "en": "[Training Monk]\nIt is nothing great... but it is a rare technique that all the other Training Monks cannot perform.",
-        "pt": "[Monge em Treinamento]\nNão é grande coisa... mas é uma técnica rara que nenhum dos outros monges em treinamento consegue usar.",
-        "es": "[Monje formador]\nNo es gran cosa... pero es una técnica rara que todos los demás monjes en formación no pueden usar."
+        "ko-KR": "[수련몽크]\n별건 아니다만... 다른 수련몽크들은 전부 하지 못하고 있는 희귀한 기술이지.",
+        "en-US": "[Training Monk]\nIt is nothing great... but it is a rare technique that all the other Training Monks cannot perform.",
+        "pt-BR": "[Monge em Treinamento]\nNão é grande coisa... mas é uma técnica rara que nenhum dos outros monges em treinamento consegue usar.",
+        "es-ES": "[Monje formador]\nNo es gran cosa... pero es una técnica rara que todos los demás monjes en formación no pueden usar."
     },
     "12UzAw": {
-        "ko": "[수련몽크]\n이 쉬운 기술을 왜 못쓰는지..\n전부 욕심쟁이에 잘못된 신념을 가지고 있어서 그런 거라니깐. 이크, 서론이 길군. 바로 전수에 들어가도록 할까?",
-        "en": "[Training Monk]\nWhy they cannot use such an easy technique..\nIt is all because they are greedy and hold mistaken beliefs. Oh, my introduction is getting long. Shall we begin the transmission?",
-        "pt": "[Monge em Treinamento]\nPor que não conseguem usar uma técnica tão fácil...\nÉ porque todos são gananciosos e têm crenças equivocadas. Opa, a introdução foi longa. Vamos começar a transmissão?",
-        "es": "[Monje formador]\n¿Por qué no pueden usar una técnica tan sencilla?\nPorque todos son codiciosos y tienen convicciones equivocadas. Uy, la introducción se ha alargado. ¿Empezamos con la transmisión?"
+        "ko-KR": "[수련몽크]\n이 쉬운 기술을 왜 못쓰는지..\n전부 욕심쟁이에 잘못된 신념을 가지고 있어서 그런 거라니깐. 이크, 서론이 길군. 바로 전수에 들어가도록 할까?",
+        "en-US": "[Training Monk]\nWhy they cannot use such an easy technique..\nIt is all because they are greedy and hold mistaken beliefs. Oh, my introduction is getting long. Shall we begin the transmission?",
+        "pt-BR": "[Monge em Treinamento]\nPor que não conseguem usar uma técnica tão fácil...\nÉ porque todos são gananciosos e têm crenças equivocadas. Opa, a introdução foi longa. Vamos começar a transmissão?",
+        "es-ES": "[Monje formador]\n¿Por qué no pueden usar una técnica tan sencilla?\nPorque todos son codiciosos y tienen convicciones equivocadas. Uy, la introducción se ha alargado. ¿Empezamos con la transmisión?"
     },
     "2GUzAw": {
-        "ko": "[수련몽크]\n말로 하긴 귀찮고, 사실 말로 할 수 있는 것도 아니니까, 대충 누가 하는 것처럼 혈도 좀 찔러서 금방 익힐 수 있게 해줄게.",
-        "en": "[Training Monk]\nExplaining it in words is bothersome, and in truth it cannot be explained in words, so I will just press some vital points like someone else does and help you learn it quickly.",
-        "pt": "[Monge em Treinamento]\nÉ trabalhoso explicar com palavras e, na verdade, também não é algo que possa ser explicado com palavras. Então vou pressionar alguns pontos vitais, como alguém faz por aí, para que você consiga aprender logo.",
-        "es": "[Monje formador]\nExplicarlo con palabras es molesto y, de hecho, tampoco puede explicarse con palabras, así que te pincharé algunos puntos vitales, como hace cierta persona, para que puedas aprenderla enseguida."
+        "ko-KR": "[수련몽크]\n말로 하긴 귀찮고, 사실 말로 할 수 있는 것도 아니니까, 대충 누가 하는 것처럼 혈도 좀 찔러서 금방 익힐 수 있게 해줄게.",
+        "en-US": "[Training Monk]\nExplaining it in words is bothersome, and in truth it cannot be explained in words, so I will just press some vital points like someone else does and help you learn it quickly.",
+        "pt-BR": "[Monge em Treinamento]\nÉ trabalhoso explicar com palavras e, na verdade, também não é algo que possa ser explicado com palavras. Então vou pressionar alguns pontos vitais, como alguém faz por aí, para que você consiga aprender logo.",
+        "es-ES": "[Monje formador]\nExplicarlo con palabras es molesto y, de hecho, tampoco puede explicarse con palabras, así que te pincharé algunos puntos vitales, como hace cierta persona, para que puedas aprenderla enseguida."
     },
     "2WUzAw": {
-        "ko": "[수련몽크]\n하아아아아아........ 후우우우우...",
-        "en": "[Training Monk]\nHaaaaaaaah........ Whooooo...",
-        "pt": "[Monge em Treinamento]\nHaaaaaaaaa........ Uuuuuuu...",
-        "es": "[Monje formador]\nHaaaaaaa........ Fuuuuuu..."
+        "ko-KR": "[수련몽크]\n하아아아아아........ 후우우우우...",
+        "en-US": "[Training Monk]\nHaaaaaaaah........ Whooooo...",
+        "pt-BR": "[Monge em Treinamento]\nHaaaaaaaaa........ Uuuuuuu...",
+        "es-ES": "[Monje formador]\nHaaaaaaa........ Fuuuuuu..."
     },
     "2mUzAw": {
-        "ko": "[수련몽크]\n아~~~타타타타타타!!! 타다다다다탓!!!",
-        "en": "[Training Monk]\nA~~~tatatatatata!!! Tadadadadadat!!!",
-        "pt": "[Monge em Treinamento]\nA~~~tatatatatata!!! Tadadadadat!!!",
-        "es": "[Monje formador]\n¡A~~~tatatatatata!!! ¡Tadadadadat!!!"
+        "ko-KR": "[수련몽크]\n아~~~타타타타타타!!! 타다다다다탓!!!",
+        "en-US": "[Training Monk]\nA~~~tatatatatata!!! Tadadadadadat!!!",
+        "pt-BR": "[Monge em Treinamento]\nA~~~tatatatatata!!! Tadadadadat!!!",
+        "es-ES": "[Monje formador]\n¡A~~~tatatatatata!!! ¡Tadadadadat!!!"
     },
     "22UzAw": {
-        "ko": "[수련몽크]\n와랏쵸오!!!!!",
-        "en": "[Training Monk]\nWaratchooo!!!!!",
-        "pt": "[Monge em Treinamento]\nWaratxôô!!!!!",
-        "es": "[Monje formador]\n¡¡¡Waratchooo!!!!!"
+        "ko-KR": "[수련몽크]\n와랏쵸오!!!!!",
+        "en-US": "[Training Monk]\nWaratchooo!!!!!",
+        "pt-BR": "[Monge em Treinamento]\nWaratxôô!!!!!",
+        "es-ES": "[Monje formador]\n¡¡¡Waratchooo!!!!!"
     },
     "3GUzAw": {
-        "ko": "[수련몽크]\n휴우...",
-        "en": "[Training Monk]\nWhew...",
-        "pt": "[Monge em Treinamento]\nUfa...",
-        "es": "[Monje formador]\nUf..."
+        "ko-KR": "[수련몽크]\n휴우...",
+        "en-US": "[Training Monk]\nWhew...",
+        "pt-BR": "[Monge em Treinamento]\nUfa...",
+        "es-ES": "[Monje formador]\nUf..."
     },
     "3WUzAw": {
-        "ko": "[수련몽크]\n됐다! 이제 네 몸은 저절로 하나의 기술을 시전할 수 있게 될 거야. 몸이 기억하고 있는 상태라서 누군가에게 가르쳐 줄 수는 없겠지만...",
-        "en": "[Training Monk]\nDone! Now your body will be able to perform one technique on its own. Since your body remembers it, you will not be able to teach it to someone else...",
-        "pt": "[Monge em Treinamento]\nPronto! Agora seu corpo conseguirá conjurar uma técnica por conta própria. Como está em um estado em que o corpo se lembra, você não poderá ensiná-la a ninguém...",
-        "es": "[Monje formador]\n¡Listo! Ahora tu cuerpo podrá ejecutar una técnica por sí mismo. Como está en un estado en el que el cuerpo la recuerda, no podrás enseñársela a nadie..."
+        "ko-KR": "[수련몽크]\n됐다! 이제 네 몸은 저절로 하나의 기술을 시전할 수 있게 될 거야. 몸이 기억하고 있는 상태라서 누군가에게 가르쳐 줄 수는 없겠지만...",
+        "en-US": "[Training Monk]\nDone! Now your body will be able to perform one technique on its own. Since your body remembers it, you will not be able to teach it to someone else...",
+        "pt-BR": "[Monge em Treinamento]\nPronto! Agora seu corpo conseguirá conjurar uma técnica por conta própria. Como está em um estado em que o corpo se lembra, você não poderá ensiná-la a ninguém...",
+        "es-ES": "[Monje formador]\n¡Listo! Ahora tu cuerpo podrá ejecutar una técnica por sí mismo. Como está en un estado en el que el cuerpo la recuerda, no podrás enseñársela a nadie..."
     },
     "3mUzAw": {
-        "ko": "[수련몽크]\n뭐 할 수 있다는 게 중요하지.",
-        "en": "[Training Monk]\nWell, what matters is that you can use it.",
-        "pt": "[Monge em Treinamento]\nBem, o importante é conseguir usar.",
-        "es": "[Monje formador]\nBueno, lo importante es que puedes usarla."
+        "ko-KR": "[수련몽크]\n뭐 할 수 있다는 게 중요하지.",
+        "en-US": "[Training Monk]\nWell, what matters is that you can use it.",
+        "pt-BR": "[Monge em Treinamento]\nBem, o importante é conseguir usar.",
+        "es-ES": "[Monje formador]\nBueno, lo importante es que puedes usarla."
     },
     "32UzAw": {
-        "ko": "[수련몽크]\n이름 따윈 아무래도 좋지만, 다른 수련몽크 녀석들은 네가 방금 배운 기술을 ^FF0000진기주입^000000이라고 부르는 모양이야. 뭐 너도 그렇게 부르고 싶으면 불러도 좋아.",
-        "en": "[Training Monk]\nThe name does not matter, but the other Training Monk fellows seem to call the technique you just learned ^FF0000Spiritual Bestowment^000000. Well, if you want to call it that, you may.",
-        "pt": "[Monge em Treinamento]\nO nome pouco importa, mas parece que os outros Monge em Treinamento chamam a técnica que você acabou de aprender de ^FF0000Concessão Espiritual^000000. Se quiser chamá-la assim, pode chamar.",
-        "es": "[Monje formador]\nEl nombre me da igual, pero parece que los otros Monje formador llaman ^FF0000Don Espiritual^000000 a la técnica que acabas de aprender. Si tú también quieres llamarla así, hazlo."
+        "ko-KR": "[수련몽크]\n이름 따윈 아무래도 좋지만, 다른 수련몽크 녀석들은 네가 방금 배운 기술을 ^FF0000진기주입^000000이라고 부르는 모양이야. 뭐 너도 그렇게 부르고 싶으면 불러도 좋아.",
+        "en-US": "[Training Monk]\nThe name does not matter, but the other Training Monk fellows seem to call the technique you just learned ^FF0000Spiritual Bestowment^000000. Well, if you want to call it that, you may.",
+        "pt-BR": "[Monge em Treinamento]\nO nome pouco importa, mas parece que os outros Monge em Treinamento chamam a técnica que você acabou de aprender de ^FF0000Concessão Espiritual^000000. Se quiser chamá-la assim, pode chamar.",
+        "es-ES": "[Monje formador]\nEl nombre me da igual, pero parece que los otros Monje formador llaman ^FF0000Don Espiritual^000000 a la técnica que acabas de aprender. Si tú también quieres llamarla así, hazlo."
     },
     "4GUzAw": {
-        "ko": "[수련몽크]\n^FF0000캐스팅이 조금 길고 후 딜레이도 꽤 있는 편이니 주의해서 사용해. 자신의 기 구체를 자신의 파티원에게 주는 기술이고, 액티브 스킬이지. 소모 SP는 40이다.^000000",
-        "en": "[Training Monk]\n^FF0000The casting time is a little long and the after-cast delay is fairly long as well, so use it carefully. It is an active skill that gives one of your spirit spheres to a party member. It consumes 40 SP.^000000",
-        "pt": "[Monge em Treinamento]\n^FF0000A conjuração é um pouco longa e o atraso após o uso também é considerável, então use com cuidado. É uma técnica ativa que entrega uma esfera espiritual sua a um membro do seu grupo. O consumo de SP é 40.^000000",
-        "es": "[Monje formador]\n^FF0000El lanzamiento es algo largo y también tiene bastante retardo posterior, así que úsala con cuidado. Es una habilidad activa que entrega tus esferas de energía a un miembro de tu grupo. Consume 40 SP.^000000"
+        "ko-KR": "[수련몽크]\n^FF0000캐스팅이 조금 길고 후 딜레이도 꽤 있는 편이니 주의해서 사용해. 자신의 기 구체를 자신의 파티원에게 주는 기술이고, 액티브 스킬이지. 소모 SP는 40이다.^000000",
+        "en-US": "[Training Monk]\n^FF0000The casting time is a little long and the after-cast delay is fairly long as well, so use it carefully. It is an active skill that gives one of your spirit spheres to a party member. It consumes 40 SP.^000000",
+        "pt-BR": "[Monge em Treinamento]\n^FF0000A conjuração é um pouco longa e o atraso após o uso também é considerável, então use com cuidado. É uma técnica ativa que entrega uma esfera espiritual sua a um membro do seu grupo. O consumo de SP é 40.^000000",
+        "es-ES": "[Monje formador]\n^FF0000El lanzamiento es algo largo y también tiene bastante retardo posterior, así que úsala con cuidado. Es una habilidad activa que entrega tus esferas de energía a un miembro de tu grupo. Consume 40 SP.^000000"
     },
     "4WUzAw": {
-        "ko": "[수련몽크]\n나머지는 직접 사용하면서 그 용도를 느껴봐.",
-        "en": "[Training Monk]\nExperience the rest of its uses by using it yourself.",
-        "pt": "[Monge em Treinamento]\nQuanto ao resto, sinta sua utilidade usando-a pessoalmente.",
-        "es": "[Monje formador]\nEl resto, descubre su utilidad usándola personalmente."
+        "ko-KR": "[수련몽크]\n나머지는 직접 사용하면서 그 용도를 느껴봐.",
+        "en-US": "[Training Monk]\nExperience the rest of its uses by using it yourself.",
+        "pt-BR": "[Monge em Treinamento]\nQuanto ao resto, sinta sua utilidade usando-a pessoalmente.",
+        "es-ES": "[Monje formador]\nEl resto, descubre su utilidad usándola personalmente."
     },
     "4mUzAw": {
-        "ko": "[수련몽크]\n노파심에 다시 말하지만, 우리들은 싸우기 위해서 몸을 단련한 것이 아니야. 자기 수련을 통한 정의 실현을 위한 것이지. 그 점을 언제나 기억하며 행동하도록 해.",
-        "en": "[Training Monk]\nI say this again out of concern, but we do not train our bodies in order to fight. It is for realizing justice through self-discipline. Always remember that and act accordingly.",
-        "pt": "[Monge em Treinamento]\nRepito por preocupação: nós não treinamos o corpo para lutar. É para realizar a justiça por meio do autotreinamento. Lembre-se sempre disso ao agir.",
-        "es": "[Monje formador]\nLo repito por preocupación: nosotros no hemos entrenado el cuerpo para luchar. Lo hacemos para realizar la justicia mediante el entrenamiento personal. Recuerda siempre eso al actuar."
+        "ko-KR": "[수련몽크]\n노파심에 다시 말하지만, 우리들은 싸우기 위해서 몸을 단련한 것이 아니야. 자기 수련을 통한 정의 실현을 위한 것이지. 그 점을 언제나 기억하며 행동하도록 해.",
+        "en-US": "[Training Monk]\nI say this again out of concern, but we do not train our bodies in order to fight. It is for realizing justice through self-discipline. Always remember that and act accordingly.",
+        "pt-BR": "[Monge em Treinamento]\nRepito por preocupação: nós não treinamos o corpo para lutar. É para realizar a justiça por meio do autotreinamento. Lembre-se sempre disso ao agir.",
+        "es-ES": "[Monje formador]\nLo repito por preocupación: nosotros no hemos entrenado el cuerpo para luchar. Lo hacemos para realizar la justicia mediante el entrenamiento personal. Recuerda siempre eso al actuar."
     },
     "42UzAw": {
-        "ko": "[수련몽크]\n이래저래 말이 많았군. 뭐 더이상 해 줄 말도 없고, 물욕을 한 번 이나마 버렸던 너라면, 나의 그 신념을 잘 계승해 줄 것이라고 믿는다.",
-        "en": "[Training Monk]\nI have said quite a lot. Well, there is nothing more I can say, and since you once cast away material desire, I believe you will carry on my belief well.",
-        "pt": "[Monge em Treinamento]\nFalei muitas coisas. Bem, não tenho mais nada a dizer, e acredito que você, que abandonou o apego material ao menos uma vez, herdará bem essa minha convicção.",
-        "es": "[Monje formador]\nHe hablado demasiado de una cosa y otra. Bueno, ya no tengo nada más que decir, y creo que tú, que al menos una vez abandonaste el deseo material, heredarás bien mis convicciones."
+        "ko-KR": "[수련몽크]\n이래저래 말이 많았군. 뭐 더이상 해 줄 말도 없고, 물욕을 한 번 이나마 버렸던 너라면, 나의 그 신념을 잘 계승해 줄 것이라고 믿는다.",
+        "en-US": "[Training Monk]\nI have said quite a lot. Well, there is nothing more I can say, and since you once cast away material desire, I believe you will carry on my belief well.",
+        "pt-BR": "[Monge em Treinamento]\nFalei muitas coisas. Bem, não tenho mais nada a dizer, e acredito que você, que abandonou o apego material ao menos uma vez, herdará bem essa minha convicção.",
+        "es-ES": "[Monje formador]\nHe hablado demasiado de una cosa y otra. Bueno, ya no tengo nada más que decir, y creo que tú, que al menos una vez abandonaste el deseo material, heredarás bien mis convicciones."
     },
     "5GUzAw": {
-        "ko": "[수련몽크]\n그럼, 잘 해보라고.",
-        "en": "[Training Monk]\nThen, do your best.",
-        "pt": "[Monge em Treinamento]\nEntão, faça o seu melhor.",
-        "es": "[Monje formador]\nEntonces, hazlo bien."
+        "ko-KR": "[수련몽크]\n그럼, 잘 해보라고.",
+        "en-US": "[Training Monk]\nThen, do your best.",
+        "pt-BR": "[Monge em Treinamento]\nEntão, faça o seu melhor.",
+        "es-ES": "[Monje formador]\nEntonces, hazlo bien."
     },
     "5WUzAw": {
-        "ko": "[수련몽크]\n아, 그러고 보니 내가 자네에게 이 기술을 가르쳐줬다는 것은 비밀로 해줘. 녀석들이 이 사실을 알면 너무 시끄러워서 말이지...",
-        "en": "[Training Monk]\nAh, come to think of it, keep it a secret that I taught you this technique. If those fellows learn of it, they will become terribly noisy...",
-        "pt": "[Monge em Treinamento]\nAh, agora que penso nisso, mantenha segredo que eu ensinei esta técnica a você. Se aqueles sujeitos souberem, ficarão barulhentos demais...",
-        "es": "[Monje formador]\nAh, ahora que lo pienso, mantén en secreto que te enseñé esta técnica. Si ellos se enteran, se pondrán demasiado ruidosos..."
+        "ko-KR": "[수련몽크]\n아, 그러고 보니 내가 자네에게 이 기술을 가르쳐줬다는 것은 비밀로 해줘. 녀석들이 이 사실을 알면 너무 시끄러워서 말이지...",
+        "en-US": "[Training Monk]\nAh, come to think of it, keep it a secret that I taught you this technique. If those fellows learn of it, they will become terribly noisy...",
+        "pt-BR": "[Monge em Treinamento]\nAh, agora que penso nisso, mantenha segredo que eu ensinei esta técnica a você. Se aqueles sujeitos souberem, ficarão barulhentos demais...",
+        "es-ES": "[Monje formador]\nAh, ahora que lo pienso, mantén en secreto que te enseñé esta técnica. Si ellos se enteran, se pondrán demasiado ruidosos..."
     },
     "5mUzAw": {
-        "ko": "[수련몽크]\n절대 이야기하지 않는 거다? 확실히 알았으면 가 봐. 다시 이야기하는 것이지만, 우리가 배우는 기술들은 살상의 도구가 아니라는 것을 확실히 기억해둬.",
-        "en": "[Training Monk]\nDo not tell them under any circumstances, understood? If you understand clearly, go now. I say it again, but remember clearly that the techniques we learn are not tools for killing.",
-        "pt": "[Monge em Treinamento]\nNão conte de jeito nenhum, entendeu? Se entendeu bem, vá. Repito: lembre-se claramente de que as técnicas que aprendemos não são ferramentas de massacre.",
-        "es": "[Monje formador]\n¿No se lo dirás a nadie, verdad? Si lo has entendido bien, vete. Te lo repito: recuerda claramente que las técnicas que aprendemos no son herramientas de matanza."
+        "ko-KR": "[수련몽크]\n절대 이야기하지 않는 거다? 확실히 알았으면 가 봐. 다시 이야기하는 것이지만, 우리가 배우는 기술들은 살상의 도구가 아니라는 것을 확실히 기억해둬.",
+        "en-US": "[Training Monk]\nDo not tell them under any circumstances, understood? If you understand clearly, go now. I say it again, but remember clearly that the techniques we learn are not tools for killing.",
+        "pt-BR": "[Monge em Treinamento]\nNão conte de jeito nenhum, entendeu? Se entendeu bem, vá. Repito: lembre-se claramente de que as técnicas que aprendemos não são ferramentas de massacre.",
+        "es-ES": "[Monje formador]\n¿No se lo dirás a nadie, verdad? Si lo has entendido bien, vete. Te lo repito: recuerda claramente que las técnicas que aprendemos no son herramientas de matanza."
     },
     "52UzAw": {
-        "ko": "[수련몽크]\n흐음... 욕심이 가득하군.",
-        "en": "[Training Monk]\nHmm... You are full of desire.",
-        "pt": "[Monge em Treinamento]\nHmm... Você está cheio de ganância.",
-        "es": "[Monje formador]\nMmm... estás lleno de codicia."
+        "ko-KR": "[수련몽크]\n흐음... 욕심이 가득하군.",
+        "en-US": "[Training Monk]\nHmm... You are full of desire.",
+        "pt-BR": "[Monge em Treinamento]\nHmm... Você está cheio de ganância.",
+        "es-ES": "[Monje formador]\nMmm... estás lleno de codicia."
     },
     "6GUzAw": {
-        "ko": "[수련몽크]\n세상이 비좁은 듯 돌아다니면서 무슨 놈의 물건을 그렇게 많이 가지고 다니나? 수련의 극을 보고 싶다면 물욕부터 제거하게.",
-        "en": "[Training Monk]\nWhy do you carry around so many things as if the world were too small? If you wish to see the pinnacle of training, first remove material desire.",
-        "pt": "[Monge em Treinamento]\nAnda por aí como se o mundo fosse pequeno, carregando tantas coisas para quê? Se deseja ver o ápice do treinamento, elimine primeiro o apego material.",
-        "es": "[Monje formador]\nVas por el mundo como si se te quedara pequeño, ¿y por qué llevas tantos objetos encima? Si quieres ver la cima del entrenamiento, empieza por eliminar el deseo material."
+        "ko-KR": "[수련몽크]\n세상이 비좁은 듯 돌아다니면서 무슨 놈의 물건을 그렇게 많이 가지고 다니나? 수련의 극을 보고 싶다면 물욕부터 제거하게.",
+        "en-US": "[Training Monk]\nWhy do you carry around so many things as if the world were too small? If you wish to see the pinnacle of training, first remove material desire.",
+        "pt-BR": "[Monge em Treinamento]\nAnda por aí como se o mundo fosse pequeno, carregando tantas coisas para quê? Se deseja ver o ápice do treinamento, elimine primeiro o apego material.",
+        "es-ES": "[Monje formador]\nVas por el mundo como si se te quedara pequeño, ¿y por qué llevas tantos objetos encima? Si quieres ver la cima del entrenamiento, empieza por eliminar el deseo material."
     },
     "6WUzAw": {
-        "ko": "[수련몽크]\n자신이 해야 할 일, 자신이 진정으로 처해있는 상황을 잘 생각해 보도록! 싸움만이 능사가 아니라는 것도 항상 염두에 둬.",
-        "en": "[Training Monk]\nThink carefully about what you must do and the situation you are truly in! Always keep in mind that fighting is not the only answer.",
-        "pt": "[Monge em Treinamento]\nPense bem no que deve fazer e na situação em que realmente se encontra! Lembre-se sempre de que lutar não resolve tudo.",
-        "es": "[Monje formador]\nPiensa bien en lo que debes hacer y en la situación en la que realmente te encuentras. Ten siempre presente que luchar no lo es todo."
+        "ko-KR": "[수련몽크]\n자신이 해야 할 일, 자신이 진정으로 처해있는 상황을 잘 생각해 보도록! 싸움만이 능사가 아니라는 것도 항상 염두에 둬.",
+        "en-US": "[Training Monk]\nThink carefully about what you must do and the situation you are truly in! Always keep in mind that fighting is not the only answer.",
+        "pt-BR": "[Monge em Treinamento]\nPense bem no que deve fazer e na situação em que realmente se encontra! Lembre-se sempre de que lutar não resolve tudo.",
+        "es-ES": "[Monje formador]\nPiensa bien en lo que debes hacer y en la situación en la que realmente te encuentras. Ten siempre presente que luchar no lo es todo."
     },
     "6mUzAw": {
-        "ko": "[수련몽크]\n아, 내가 진기주입을 전수해 주었다는 사실은 다른 수련몽크들에겐 비밀로 해. 그 녀석들이 알면 영 시끄럽단 말이다. 내 말 알겠지?",
-        "en": "[Training Monk]\nAh, keep it a secret from the other Training Monks that I passed down Spiritual Bestowment to you. If those fellows learn of it, they will be terribly noisy. You understand, yes?",
-        "pt": "[Monge em Treinamento]\nAh, mantenha segredo dos outros monges em treinamento que eu transmiti Concessão Espiritual a você. Se aqueles sujeitos souberem, vão ficar muito barulhentos. Entendeu o que eu disse?",
-        "es": "[Monje formador]\nAh, mantén en secreto ante los otros monjes en formación que te transmití Don Espiritual. Si esos tipos se enteran, se pondrán insoportablemente ruidosos. ¿Entiendes lo que digo?"
+        "ko-KR": "[수련몽크]\n아, 내가 진기주입을 전수해 주었다는 사실은 다른 수련몽크들에겐 비밀로 해. 그 녀석들이 알면 영 시끄럽단 말이다. 내 말 알겠지?",
+        "en-US": "[Training Monk]\nAh, keep it a secret from the other Training Monks that I passed down Spiritual Bestowment to you. If those fellows learn of it, they will be terribly noisy. You understand, yes?",
+        "pt-BR": "[Monge em Treinamento]\nAh, mantenha segredo dos outros monges em treinamento que eu transmiti Concessão Espiritual a você. Se aqueles sujeitos souberem, vão ficar muito barulhentos. Entendeu o que eu disse?",
+        "es-ES": "[Monje formador]\nAh, mantén en secreto ante los otros monjes en formación que te transmití Don Espiritual. Si esos tipos se enteran, se pondrán insoportablemente ruidosos. ¿Entiendes lo que digo?"
     },
     "62UzAw": {
-        "ko": "[수련몽크]\n허어... 전에 비해서 매우 수련을 많이 했나 보군. 상당히 강해진 느낌이 들어. 대단한데?",
-        "en": "[Training Monk]\nHooh... It seems you have trained a great deal compared to before. I feel you have become considerably stronger. Impressive.",
-        "pt": "[Monge em Treinamento]\nOra... Parece que você treinou muito desde a última vez. Sinto que ficou bastante forte. Impressionante.",
-        "es": "[Monje formador]\nVaya... parece que has entrenado muchísimo desde la última vez. Siento que te has vuelto bastante fuerte. Impresionante."
+        "ko-KR": "[수련몽크]\n허어... 전에 비해서 매우 수련을 많이 했나 보군. 상당히 강해진 느낌이 들어. 대단한데?",
+        "en-US": "[Training Monk]\nHooh... It seems you have trained a great deal compared to before. I feel you have become considerably stronger. Impressive.",
+        "pt-BR": "[Monge em Treinamento]\nOra... Parece que você treinou muito desde a última vez. Sinto que ficou bastante forte. Impressionante.",
+        "es-ES": "[Monje formador]\nVaya... parece que has entrenado muchísimo desde la última vez. Siento que te has vuelto bastante fuerte. Impresionante."
     },
     "7GUzAw": {
-        "ko": "[수련몽크]\n오케이! 한 번 더 기술을 전수해 주지.",
-        "en": "[Training Monk]\nOkay! I will pass down the technique once more.",
-        "pt": "[Monge em Treinamento]\nOk! Vou transmitir a técnica mais uma vez.",
-        "es": "[Monje formador]\n¡De acuerdo! Te transmitiré la técnica una vez más."
+        "ko-KR": "[수련몽크]\n오케이! 한 번 더 기술을 전수해 주지.",
+        "en-US": "[Training Monk]\nOkay! I will pass down the technique once more.",
+        "pt-BR": "[Monge em Treinamento]\nOk! Vou transmitir a técnica mais uma vez.",
+        "es-ES": "[Monje formador]\n¡De acuerdo! Te transmitiré la técnica una vez más."
     },
     "7WUzAw": {
-        "ko": "[수련몽크]\n됐다! 이제 네 몸은 저절로 기술을 시전할 수 있게 될 거야. 몸이 기억하고 있는 상태라서 누군가에게 가르쳐 줄 수는 없겠지만... 뭐 할 수 있다는 게 중요하지.",
-        "en": "[Training Monk]\nDone! Now your body will be able to perform the technique on its own. Since your body remembers it, you will not be able to teach it to someone else... Well, what matters is that you can use it.",
-        "pt": "[Monge em Treinamento]\nPronto! Agora seu corpo conseguirá conjurar a técnica por conta própria. Como está em um estado em que o corpo se lembra, você não poderá ensiná-la a ninguém... Bem, o importante é conseguir usar.",
-        "es": "[Monje formador]\n¡Listo! Ahora tu cuerpo podrá ejecutar la técnica por sí mismo. Como está en un estado en el que el cuerpo la recuerda, no podrás enseñársela a nadie... Bueno, lo importante es que puedes usarla."
+        "ko-KR": "[수련몽크]\n됐다! 이제 네 몸은 저절로 기술을 시전할 수 있게 될 거야. 몸이 기억하고 있는 상태라서 누군가에게 가르쳐 줄 수는 없겠지만... 뭐 할 수 있다는 게 중요하지.",
+        "en-US": "[Training Monk]\nDone! Now your body will be able to perform the technique on its own. Since your body remembers it, you will not be able to teach it to someone else... Well, what matters is that you can use it.",
+        "pt-BR": "[Monge em Treinamento]\nPronto! Agora seu corpo conseguirá conjurar a técnica por conta própria. Como está em um estado em que o corpo se lembra, você não poderá ensiná-la a ninguém... Bem, o importante é conseguir usar.",
+        "es-ES": "[Monje formador]\n¡Listo! Ahora tu cuerpo podrá ejecutar la técnica por sí mismo. Como está en un estado en el que el cuerpo la recuerda, no podrás enseñársela a nadie... Bueno, lo importante es que puedes usarla."
     },
     "7mUzAw": {
-        "ko": "[수련몽크]\n내 취향의 기술은 아니지만, 특별 보너스로 진기주입 이외에도 발경도 전수해 주었으니 잘 써보라고. 알았지?",
-        "en": "[Training Monk]\nIt is not a technique to my taste, but as a special bonus, I passed down Excruciating Palm in addition to Spiritual Bestowment, so use it well. Understood?",
-        "pt": "[Monge em Treinamento]\nNão é uma técnica do meu gosto, mas como bônus especial, além de Concessão Espiritual, também transmiti Punhos Intensos, então use bem. Entendeu?",
-        "es": "[Monje formador]\nNo es una técnica de mi gusto, pero como bonificación especial, además de Don Espiritual también te he transmitido Palma del Dolor, así que úsala bien. ¿Entendido?"
+        "ko-KR": "[수련몽크]\n내 취향의 기술은 아니지만, 특별 보너스로 진기주입 이외에도 발경도 전수해 주었으니 잘 써보라고. 알았지?",
+        "en-US": "[Training Monk]\nIt is not a technique to my taste, but as a special bonus, I passed down Excruciating Palm in addition to Spiritual Bestowment, so use it well. Understood?",
+        "pt-BR": "[Monge em Treinamento]\nNão é uma técnica do meu gosto, mas como bônus especial, além de Concessão Espiritual, também transmiti Punhos Intensos, então use bem. Entendeu?",
+        "es-ES": "[Monje formador]\nNo es una técnica de mi gusto, pero como bonificación especial, además de Don Espiritual también te he transmitido Palma del Dolor, así que úsala bien. ¿Entendido?"
     },
     "72UzAw": {
-        "ko": "[수련몽크]\n알았으면 가 봐. 다시 이야기하는 것이지만, 우리가 배우는 기술들은 살상의 도구가 아니라는 것을 확실히 기억해둬.",
-        "en": "[Training Monk]\nIf you understand, go now. I say it again, but remember clearly that the techniques we learn are not tools for killing.",
-        "pt": "[Monge em Treinamento]\nSe entendeu, vá. Repito: lembre-se claramente de que as técnicas que aprendemos não são ferramentas de massacre.",
-        "es": "[Monje formador]\nSi lo has entendido, vete. Te lo repito: recuerda claramente que las técnicas que aprendemos no son herramientas de matanza."
+        "ko-KR": "[수련몽크]\n알았으면 가 봐. 다시 이야기하는 것이지만, 우리가 배우는 기술들은 살상의 도구가 아니라는 것을 확실히 기억해둬.",
+        "en-US": "[Training Monk]\nIf you understand, go now. I say it again, but remember clearly that the techniques we learn are not tools for killing.",
+        "pt-BR": "[Monge em Treinamento]\nSe entendeu, vá. Repito: lembre-se claramente de que as técnicas que aprendemos não são ferramentas de massacre.",
+        "es-ES": "[Monje formador]\nSi lo has entendido, vete. Te lo repito: recuerda claramente que las técnicas que aprendemos no son herramientas de matanza."
     },
     "8GUzAw": {
-        "ko": "[수련몽크]\n우리가 배우는 기술들은 살상의 도구가 아니라는 것을 항상 기억해둬.",
-        "en": "[Training Monk]\nAlways remember that the techniques we learn are not tools for killing.",
-        "pt": "[Monge em Treinamento]\nLembre-se sempre de que as técnicas que aprendemos não são ferramentas de massacre.",
-        "es": "[Monje formador]\nRecuerda siempre que las técnicas que aprendemos no son herramientas de matanza."
+        "ko-KR": "[수련몽크]\n우리가 배우는 기술들은 살상의 도구가 아니라는 것을 항상 기억해둬.",
+        "en-US": "[Training Monk]\nAlways remember that the techniques we learn are not tools for killing.",
+        "pt-BR": "[Monge em Treinamento]\nLembre-se sempre de que as técnicas que aprendemos não são ferramentas de massacre.",
+        "es-ES": "[Monje formador]\nRecuerda siempre que las técnicas que aprendemos no son herramientas de matanza."
     }
 }

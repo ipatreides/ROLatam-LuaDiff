@@ -1,740 +1,740 @@
 {
     "AEe7DA": {
-        "ko": "라임 이베노르",
-        "en": "Lime Evenor",
-        "pt": "Lenore",
-        "es": "Lime Evenor"
+        "ko-KR": "라임 이베노르",
+        "en-US": "Lime Evenor",
+        "pt-BR": "Lenore",
+        "es-ES": "Lime Evenor"
     },
     "AUe7DA": {
-        "ko": "<부스터 프로모션>",
-        "en": "<Booster Event>",
-        "pt": "<Evento de Apoio>",
-        "es": "<Evento de Apoyo>"
+        "ko-KR": "<부스터 프로모션>",
+        "en-US": "<Booster Event>",
+        "pt-BR": "<Evento de Apoio>",
+        "es-ES": "<Evento de Apoyo>"
     },
     "Ake7DA": {
-        "ko": "[라임 이베노르]\n안녕하세요!\n찾아가는 서비스, 부스터 콜 부름에 응답했습니다~\n무엇을 도와드릴까요?",
-        "en": "[Lime Evenor]\nHello!\nYou rang the bell and I appeared~\nHow can I help?",
-        "pt": "[Lenore]\nOlá!\nVocê tocou o sino e eu apareci~\nComo posso ajudar?",
-        "es": "[Lime Evenor]\n¡Hola!\nTocaste la campana y aparecí~\n¿Cómo puedo ayudarte?"
+        "ko-KR": "[라임 이베노르]\n안녕하세요!\n찾아가는 서비스, 부스터 콜 부름에 응답했습니다~\n무엇을 도와드릴까요?",
+        "en-US": "[Lime Evenor]\nHello!\nYou rang the bell and I appeared~\nHow can I help?",
+        "pt-BR": "[Lenore]\nOlá!\nVocê tocou o sino e eu apareci~\nComo posso ajudar?",
+        "es-ES": "[Lime Evenor]\n¡Hola!\nTocaste la campana y aparecí~\n¿Cómo puedo ayudarte?"
     },
     "A0e7DA": {
-        "ko": "부스터 코인 교환",
-        "en": "Exchange Booster Coins",
-        "pt": "Trocar Moedas de Apoio",
-        "es": "Intercambiar Monedas de Apoyo"
+        "ko-KR": "부스터 코인 교환",
+        "en-US": "Exchange Booster Coins",
+        "pt-BR": "Trocar Moedas de Apoio",
+        "es-ES": "Intercambiar Monedas de Apoyo"
     },
     "BEe7DA": {
-        "ko": "일일퀘스트",
-        "en": "Daily Missions",
-        "pt": "Missões Diárias",
-        "es": "Misiones Diarias"
+        "ko-KR": "일일퀘스트",
+        "en-US": "Daily Missions",
+        "pt-BR": "Missões Diárias",
+        "es-ES": "Misiones Diarias"
     },
     "BUe7DA": {
-        "ko": "도움이 필요해!",
-        "en": "I need help!",
-        "pt": "Preciso de ajuda!",
-        "es": "¡Necesito ayuda!"
+        "ko-KR": "도움이 필요해!",
+        "en-US": "I need help!",
+        "pt-BR": "Preciso de ajuda!",
+        "es-ES": "¡Necesito ayuda!"
     },
     "Bke7DA": {
-        "ko": "[라임 이베노르]\n<ITEM>[부스터 코인]<INFO>1000254</INFO></ITEM>은 제가 제공하는 일일퀘스트를 완수하시면 보상으로 받을 수 있답니다.\n자, 필요한 물건과 교환을 해볼까요?",
-        "en": "[Lime Evenor]\nBy completing my Daily Missions, you can receive <ITEM>[Booster Coins]<INFO>1000254</INFO></ITEM>.\nWould you like to exchange them for something?",
-        "pt": "[Lenore]\nAo completar minhas Missões Diárias, você pode receber <ITEM>[Moedas de Apoio]<INFO>1000254</INFO></ITEM>.\nQuer trocá-las por alguma coisa?",
-        "es": "[Lime Evenor]\nAl completar mis Misiones Diarias, puedes recibir <ITEM>[Monedas de Apoyo]<INFO>1000254</INFO></ITEM>.\n¿Quieres intercambiarlas por algo?"
+        "ko-KR": "[라임 이베노르]\n<ITEM>[부스터 코인]<INFO>1000254</INFO></ITEM>은 제가 제공하는 일일퀘스트를 완수하시면 보상으로 받을 수 있답니다.\n자, 필요한 물건과 교환을 해볼까요?",
+        "en-US": "[Lime Evenor]\nBy completing my Daily Missions, you can receive <ITEM>[Booster Coins]<INFO>1000254</INFO></ITEM>.\nWould you like to exchange them for something?",
+        "pt-BR": "[Lenore]\nAo completar minhas Missões Diárias, você pode receber <ITEM>[Moedas de Apoio]<INFO>1000254</INFO></ITEM>.\nQuer trocá-las por alguma coisa?",
+        "es-ES": "[Lime Evenor]\nAl completar mis Misiones Diarias, puedes recibir <ITEM>[Monedas de Apoyo]<INFO>1000254</INFO></ITEM>.\n¿Quieres intercambiarlas por algo?"
     },
     "B0e7DA": {
-        "ko": "[라임 이베노르]\n인벤토리에 여유가 없어 보이네요.\n카프라나 존다의 창고 서비스를 이용해서 정리해주시겠어요?\n퀘스트 진행은 그 다음에 하지요.",
-        "en": "[Lime Evenor]\nIt looks like your inventory is full.\nWhy don't you store some items with Kafra?\nWe can continue after that.",
-        "pt": "[Lenore]\nParece que seu inventário está cheio.\nPor que você não guarda algumas coisas na Kafra?\nPodemos prosseguir depois disso.",
-        "es": "[Lime Evenor]\nParece que tu inventario está lleno.\n¿Por qué no guardas algunas cosas en la Kafra?\nPodemos continuar después de eso."
+        "ko-KR": "[라임 이베노르]\n인벤토리에 여유가 없어 보이네요.\n카프라나 존다의 창고 서비스를 이용해서 정리해주시겠어요?\n퀘스트 진행은 그 다음에 하지요.",
+        "en-US": "[Lime Evenor]\nIt looks like your inventory is full.\nWhy don't you store some items with Kafra?\nWe can continue after that.",
+        "pt-BR": "[Lenore]\nParece que seu inventário está cheio.\nPor que você não guarda algumas coisas na Kafra?\nPodemos prosseguir depois disso.",
+        "es-ES": "[Lime Evenor]\nParece que tu inventario está lleno.\n¿Por qué no guardas algunas cosas en la Kafra?\nPodemos continuar después de eso."
     },
     "CEe7DA": {
-        "ko": "Lv1-파브르를 잡아보자!",
-        "en": "[1] Fabre Hunt",
-        "pt": "[1] Caçada de Fabres",
-        "es": "[1] Cacería de Fabres"
+        "ko-KR": "Lv1-파브르를 잡아보자!",
+        "en-US": "[1] Fabre Hunt",
+        "pt-BR": "[1] Caçada de Fabres",
+        "es-ES": "[1] Cacería de Fabres"
     },
     "CUe7DA": {
-        "ko": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
-        "en": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
-        "pt": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
-        "es": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
+        "ko-KR": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
+        "en-US": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
+        "pt-BR": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
+        "es-ES": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
     },
     "Cke7DA": {
-        "ko": "^CCCCCCLv1-파브르를 잡아보자!-수행중^000000",
-        "en": "^CCCCCC[1] [In Progress] Fabre Hunt^000000",
-        "pt": "^CCCCCC[1] [Em curso] Caçada de Fabres^000000",
-        "es": "^CCCCCC[1] [En curso] Cacería de Fabres^000000"
+        "ko-KR": "^CCCCCCLv1-파브르를 잡아보자!-수행중^000000",
+        "en-US": "^CCCCCC[1] [In Progress] Fabre Hunt^000000",
+        "pt-BR": "^CCCCCC[1] [Em curso] Caçada de Fabres^000000",
+        "es-ES": "^CCCCCC[1] [En curso] Cacería de Fabres^000000"
     },
     "C0e7DA": {
-        "ko": "^CCCCCCLv1-파브르를 잡아보자!-대기중^000000",
-        "en": "^CCCCCC[1] [Waiting] Fabre Hunt^000000",
-        "pt": "^CCCCCC[1] [Espera] Caçada de Fabres^000000",
-        "es": "^CCCCCC[1] [Espera] Cacería de Fabres^000000"
+        "ko-KR": "^CCCCCCLv1-파브르를 잡아보자!-대기중^000000",
+        "en-US": "^CCCCCC[1] [Waiting] Fabre Hunt^000000",
+        "pt-BR": "^CCCCCC[1] [Espera] Caçada de Fabres^000000",
+        "es-ES": "^CCCCCC[1] [Espera] Cacería de Fabres^000000"
     },
     "DEe7DA": {
-        "ko": "Lv11-페이욘 필드 탐험",
-        "en": "[11] Explore Payon Forest",
-        "pt": "[11] Explorar Floresta de Payon",
-        "es": "[11] Explorar Bosque de Payon"
+        "ko-KR": "Lv11-페이욘 필드 탐험",
+        "en-US": "[11] Explore Payon Forest",
+        "pt-BR": "[11] Explorar Floresta de Payon",
+        "es-ES": "[11] Explorar Bosque de Payon"
     },
     "DUe7DA": {
-        "ko": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
-        "en": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
-        "pt": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
-        "es": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
+        "ko-KR": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
+        "en-US": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
+        "pt-BR": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
+        "es-ES": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
     },
     "Dke7DA": {
-        "ko": "^CCCCCCLv11-페이욘 필드 탐험-수행중^000000",
-        "en": "^CCCCCC[11] [In Progress] Explore Payon Forest^000000",
-        "pt": "^CCCCCC[11] [Em curso] Explorar Floresta de Payon^000000",
-        "es": "^CCCCCC[11] [En curso] Explorar Bosque de Payon^000000"
+        "ko-KR": "^CCCCCCLv11-페이욘 필드 탐험-수행중^000000",
+        "en-US": "^CCCCCC[11] [In Progress] Explore Payon Forest^000000",
+        "pt-BR": "^CCCCCC[11] [Em curso] Explorar Floresta de Payon^000000",
+        "es-ES": "^CCCCCC[11] [En curso] Explorar Bosque de Payon^000000"
     },
     "D0e7DA": {
-        "ko": "^CCCCCCLv11-페이욘 필드 탐험-대기중^000000",
-        "en": "^CCCCCC[11] [Waiting] Explore Payon Forest^000000",
-        "pt": "^CCCCCC[11] [Espera] Explorar Floresta de Payon^000000",
-        "es": "^CCCCCC[11] [Espera] Explorar Bosque de Payon^000000"
+        "ko-KR": "^CCCCCCLv11-페이욘 필드 탐험-대기중^000000",
+        "en-US": "^CCCCCC[11] [Waiting] Explore Payon Forest^000000",
+        "pt-BR": "^CCCCCC[11] [Espera] Explorar Floresta de Payon^000000",
+        "es-ES": "^CCCCCC[11] [Espera] Explorar Bosque de Payon^000000"
     },
     "EEe7DA": {
-        "ko": "Lv20-지하수로 탐험",
-        "en": "[20] Explore Prontera Sewers",
-        "pt": "[20] Explorar Esgoto de Prontera",
-        "es": "[20] Explorar Alcantarillado de Prontera"
+        "ko-KR": "Lv20-지하수로 탐험",
+        "en-US": "[20] Explore Prontera Sewers",
+        "pt-BR": "[20] Explorar Esgoto de Prontera",
+        "es-ES": "[20] Explorar Alcantarillado de Prontera"
     },
     "EUe7DA": {
-        "ko": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
-        "en": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
-        "pt": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
-        "es": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
+        "ko-KR": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
+        "en-US": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
+        "pt-BR": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
+        "es-ES": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
     },
     "Eke7DA": {
-        "ko": "^CCCCCCLv20-지하수로 탐험-수행중^000000",
-        "en": "^CCCCCC[20] [In Progress] Explore Prontera Sewers^000000",
-        "pt": "^CCCCCC[20] [Em curso] Explorar Esgoto de Prontera^000000",
-        "es": "^CCCCCC[20] [En curso] Explorar Alcantarillado de Prontera^000000"
+        "ko-KR": "^CCCCCCLv20-지하수로 탐험-수행중^000000",
+        "en-US": "^CCCCCC[20] [In Progress] Explore Prontera Sewers^000000",
+        "pt-BR": "^CCCCCC[20] [Em curso] Explorar Esgoto de Prontera^000000",
+        "es-ES": "^CCCCCC[20] [En curso] Explorar Alcantarillado de Prontera^000000"
     },
     "E0e7DA": {
-        "ko": "^CCCCCCLv20-지하수로 탐험-대기중^000000",
-        "en": "^CCCCCC[20] [Waiting] Explore Prontera Sewers^000000",
-        "pt": "^CCCCCC[20] [Espera] Explorar Esgoto de Prontera^000000",
-        "es": "^CCCCCC[20] [Espera] Explorar Alcantarillado de Prontera^000000"
+        "ko-KR": "^CCCCCCLv20-지하수로 탐험-대기중^000000",
+        "en-US": "^CCCCCC[20] [Waiting] Explore Prontera Sewers^000000",
+        "pt-BR": "^CCCCCC[20] [Espera] Explorar Esgoto de Prontera^000000",
+        "es-ES": "^CCCCCC[20] [Espera] Explorar Alcantarillado de Prontera^000000"
     },
     "FEe7DA": {
-        "ko": "Lv35-묘르닐 폐광 탐험",
-        "en": "[35] Exploring Mjolnir",
-        "pt": "[35] Explorando Mjolnir",
-        "es": "[35] Explorando Mjolnir"
+        "ko-KR": "Lv35-묘르닐 폐광 탐험",
+        "en-US": "[35] Exploring Mjolnir",
+        "pt-BR": "[35] Explorando Mjolnir",
+        "es-ES": "[35] Explorando Mjolnir"
     },
     "FUe7DA": {
-        "ko": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
-        "en": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
-        "pt": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
-        "es": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
+        "ko-KR": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
+        "en-US": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
+        "pt-BR": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
+        "es-ES": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
     },
     "Fke7DA": {
-        "ko": "^CCCCCCLv35-묘르닐 폐광 탐험-수행중^000000",
-        "en": "^CCCCCC[35] [In Progress] Exploring Mjolnir^000000",
-        "pt": "^CCCCCC[35] [Em curso] Explorando Mjolnir^000000",
-        "es": "^CCCCCC[35] [En curso] Explorando Mjolnir^000000"
+        "ko-KR": "^CCCCCCLv35-묘르닐 폐광 탐험-수행중^000000",
+        "en-US": "^CCCCCC[35] [In Progress] Exploring Mjolnir^000000",
+        "pt-BR": "^CCCCCC[35] [Em curso] Explorando Mjolnir^000000",
+        "es-ES": "^CCCCCC[35] [En curso] Explorando Mjolnir^000000"
     },
     "F0e7DA": {
-        "ko": "^CCCCCCLv35-묘르닐 폐광 탐험-대기중^000000",
-        "en": "^CCCCCC[35] [Waiting] Exploring Mjolnir^000000",
-        "pt": "^CCCCCC[35] [Espera] Explorando Mjolnir^000000",
-        "es": "^CCCCCC[35] [Espera] Explorando Mjolnir^000000"
+        "ko-KR": "^CCCCCCLv35-묘르닐 폐광 탐험-대기중^000000",
+        "en-US": "^CCCCCC[35] [Waiting] Exploring Mjolnir^000000",
+        "pt-BR": "^CCCCCC[35] [Espera] Explorando Mjolnir^000000",
+        "es-ES": "^CCCCCC[35] [Espera] Explorando Mjolnir^000000"
     },
     "GEe7DA": {
-        "ko": "Lv50-이즈루드 해저동굴 탐험",
-        "en": "[50] Exploring Byalan",
-        "pt": "[50] Explorando Byalan",
-        "es": "[50] Explorando Byalan"
+        "ko-KR": "Lv50-이즈루드 해저동굴 탐험",
+        "en-US": "[50] Exploring Byalan",
+        "pt-BR": "[50] Explorando Byalan",
+        "es-ES": "[50] Explorando Byalan"
     },
     "GUe7DA": {
-        "ko": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
-        "en": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
-        "pt": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
-        "es": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
+        "ko-KR": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
+        "en-US": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
+        "pt-BR": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
+        "es-ES": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
     },
     "Gke7DA": {
-        "ko": "^CCCCCCLv50-이즈루드 해저동굴 탐험-수행중^000000",
-        "en": "^CCCCCC[50] [In Progress] Exploring Byalan^000000",
-        "pt": "^CCCCCC[50] [Em curso] Explorando Byalan^000000",
-        "es": "^CCCCCC[50] [En curso] Explorando Byalan^000000"
+        "ko-KR": "^CCCCCCLv50-이즈루드 해저동굴 탐험-수행중^000000",
+        "en-US": "^CCCCCC[50] [In Progress] Exploring Byalan^000000",
+        "pt-BR": "^CCCCCC[50] [Em curso] Explorando Byalan^000000",
+        "es-ES": "^CCCCCC[50] [En curso] Explorando Byalan^000000"
     },
     "G0e7DA": {
-        "ko": "^CCCCCCLv50-이즈루드 해저동굴 탐험-대기중^000000",
-        "en": "^CCCCCC[50] [Waiting] Exploring Byalan^000000",
-        "pt": "^CCCCCC[50] [Espera] Explorando Byalan^000000",
-        "es": "^CCCCCC[50] [Espera] Explorando Byalan^000000"
+        "ko-KR": "^CCCCCCLv50-이즈루드 해저동굴 탐험-대기중^000000",
+        "en-US": "^CCCCCC[50] [Waiting] Exploring Byalan^000000",
+        "pt-BR": "^CCCCCC[50] [Espera] Explorando Byalan^000000",
+        "es-ES": "^CCCCCC[50] [Espera] Explorando Byalan^000000"
     },
     "HEe7DA": {
-        "ko": "Lv65-페이욘 던전 탐험",
-        "en": "[65] Explore Payon Cave",
-        "pt": "[65] Explorar Caverna de Payon",
-        "es": "[65] Explorar Cueva de Payon"
+        "ko-KR": "Lv65-페이욘 던전 탐험",
+        "en-US": "[65] Explore Payon Cave",
+        "pt-BR": "[65] Explorar Caverna de Payon",
+        "es-ES": "[65] Explorar Cueva de Payon"
     },
     "HUe7DA": {
-        "ko": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
-        "en": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
-        "pt": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
-        "es": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
+        "ko-KR": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
+        "en-US": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
+        "pt-BR": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
+        "es-ES": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
     },
     "Hke7DA": {
-        "ko": "^CCCCCCLv65-페이욘 던전 탐험-수행중^000000",
-        "en": "^CCCCCC[65] [In Progress] Explore Payon Cave^000000",
-        "pt": "^CCCCCC[65] [Em curso] Explorar Caverna de Payon^000000",
-        "es": "^CCCCCC[65] [En curso] Explorar Cueva de Payon^000000"
+        "ko-KR": "^CCCCCCLv65-페이욘 던전 탐험-수행중^000000",
+        "en-US": "^CCCCCC[65] [In Progress] Explore Payon Cave^000000",
+        "pt-BR": "^CCCCCC[65] [Em curso] Explorar Caverna de Payon^000000",
+        "es-ES": "^CCCCCC[65] [En curso] Explorar Cueva de Payon^000000"
     },
     "H0e7DA": {
-        "ko": "^CCCCCCLv65-페이욘 던전 탐험-대기중^000000",
-        "en": "^CCCCCC[65] [Waiting] Explore Payon Cave^000000",
-        "pt": "^CCCCCC[65] [Espera] Explorar Caverna de Payon^000000",
-        "es": "^CCCCCC[65] [Espera] Explorar Cueva de Payon^000000"
+        "ko-KR": "^CCCCCCLv65-페이욘 던전 탐험-대기중^000000",
+        "en-US": "^CCCCCC[65] [Waiting] Explore Payon Cave^000000",
+        "pt-BR": "^CCCCCC[65] [Espera] Explorar Caverna de Payon^000000",
+        "es-ES": "^CCCCCC[65] [Espera] Explorar Cueva de Payon^000000"
     },
     "IEe7DA": {
-        "ko": "Lv80-알데바란 시계탑 탐험",
-        "en": "[80] Explore Clock Tower",
-        "pt": "[80] Explorar Torre do Relógio",
-        "es": "[80] Explorar Torre del Reloj"
+        "ko-KR": "Lv80-알데바란 시계탑 탐험",
+        "en-US": "[80] Explore Clock Tower",
+        "pt-BR": "[80] Explorar Torre do Relógio",
+        "es-ES": "[80] Explorar Torre del Reloj"
     },
     "IUe7DA": {
-        "ko": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
-        "en": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
-        "pt": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
-        "es": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
+        "ko-KR": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
+        "en-US": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
+        "pt-BR": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
+        "es-ES": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
     },
     "Ike7DA": {
-        "ko": "^CCCCCCLv80-알데바란 시계탑 탐험-수행중^000000",
-        "en": "^CCCCCC[80] [In Progress] Explore Clock Tower^000000",
-        "pt": "^CCCCCC[80] [Em curso] Explorar Torre do Relógio^000000",
-        "es": "^CCCCCC[80] [En curso] Explorar Torre del Reloj^000000"
+        "ko-KR": "^CCCCCCLv80-알데바란 시계탑 탐험-수행중^000000",
+        "en-US": "^CCCCCC[80] [In Progress] Explore Clock Tower^000000",
+        "pt-BR": "^CCCCCC[80] [Em curso] Explorar Torre do Relógio^000000",
+        "es-ES": "^CCCCCC[80] [En curso] Explorar Torre del Reloj^000000"
     },
     "I0e7DA": {
-        "ko": "^CCCCCCLv80-알데바란 시계탑 탐험-대기중^000000",
-        "en": "^CCCCCC[80] [Waiting] Explore Clock Tower^000000",
-        "pt": "^CCCCCC[80] [Espera] Explorar Torre do Relógio^000000",
-        "es": "^CCCCCC[80] [Espera] Explorar Torre del Reloj^000000"
+        "ko-KR": "^CCCCCCLv80-알데바란 시계탑 탐험-대기중^000000",
+        "en-US": "^CCCCCC[80] [Waiting] Explore Clock Tower^000000",
+        "pt-BR": "^CCCCCC[80] [Espera] Explorar Torre do Relógio^000000",
+        "es-ES": "^CCCCCC[80] [Espera] Explorar Torre del Reloj^000000"
     },
     "JEe7DA": {
-        "ko": "Lv85-알베르타 섬거북이  탐험",
-        "en": "[85] Explore Turtle Island",
-        "pt": "[85] Explorar Ilha Tartaruga",
-        "es": "[85] Explorar Isla Tortuga"
+        "ko-KR": "Lv85-알베르타 섬거북이  탐험",
+        "en-US": "[85] Explore Turtle Island",
+        "pt-BR": "[85] Explorar Ilha Tartaruga",
+        "es-ES": "[85] Explorar Isla Tortuga"
     },
     "JUe7DA": {
-        "ko": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
-        "en": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
-        "pt": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
-        "es": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
+        "ko-KR": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
+        "en-US": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
+        "pt-BR": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
+        "es-ES": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
     },
     "Jke7DA": {
-        "ko": "^CCCCCCLv85-알베르타 섬거북이  탐험-수행중^000000",
-        "en": "^CCCCCC[85] [In Progress] Explore Turtle Island^000000",
-        "pt": "^CCCCCC[85] [Em curso] Explorar Ilha Tartaruga^000000",
-        "es": "^CCCCCC[85] [En curso] Explorar Isla Tortuga^000000"
+        "ko-KR": "^CCCCCCLv85-알베르타 섬거북이  탐험-수행중^000000",
+        "en-US": "^CCCCCC[85] [In Progress] Explore Turtle Island^000000",
+        "pt-BR": "^CCCCCC[85] [Em curso] Explorar Ilha Tartaruga^000000",
+        "es-ES": "^CCCCCC[85] [En curso] Explorar Isla Tortuga^000000"
     },
     "J0e7DA": {
-        "ko": "^CCCCCCLv85-알베르타 섬거북이  탐험-대기중^000000",
-        "en": "^CCCCCC[85] [Waiting] Explore Turtle Island^000000",
-        "pt": "^CCCCCC[85] [Espera] Explorar Ilha Tartaruga^000000",
-        "es": "^CCCCCC[85] [Espera] Explorar Isla Tortuga^000000"
+        "ko-KR": "^CCCCCCLv85-알베르타 섬거북이  탐험-대기중^000000",
+        "en-US": "^CCCCCC[85] [Waiting] Explore Turtle Island^000000",
+        "pt-BR": "^CCCCCC[85] [Espera] Explorar Ilha Tartaruga^000000",
+        "es-ES": "^CCCCCC[85] [Espera] Explorar Isla Tortuga^000000"
     },
     "KEe7DA": {
-        "ko": "Lv99-노련한 사냥꾼 초급",
-        "en": "[99] Beginner Hunt",
-        "pt": "[99] Caçada Iniciante",
-        "es": "[99] Cacería Principiante"
+        "ko-KR": "Lv99-노련한 사냥꾼 초급",
+        "en-US": "[99] Beginner Hunt",
+        "pt-BR": "[99] Caçada Iniciante",
+        "es-ES": "[99] Cacería Principiante"
     },
     "KUe7DA": {
-        "ko": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
-        "en": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
-        "pt": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
-        "es": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
+        "ko-KR": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
+        "en-US": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
+        "pt-BR": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
+        "es-ES": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
     },
     "Kke7DA": {
-        "ko": "^CCCCCCLv99-노련한 사냥꾼 초급-수행중^000000",
-        "en": "^CCCCCC[99] [In Progress] Beginner Hunt^000000",
-        "pt": "^CCCCCC[99] [Em curso] Caçada Iniciante^000000",
-        "es": "^CCCCCC[99] [En curso] Cacería Principiante^000000"
+        "ko-KR": "^CCCCCCLv99-노련한 사냥꾼 초급-수행중^000000",
+        "en-US": "^CCCCCC[99] [In Progress] Beginner Hunt^000000",
+        "pt-BR": "^CCCCCC[99] [Em curso] Caçada Iniciante^000000",
+        "es-ES": "^CCCCCC[99] [En curso] Cacería Principiante^000000"
     },
     "K0e7DA": {
-        "ko": "^CCCCCCLv99-노련한 사냥꾼 초급-대기중^000000",
-        "en": "^CCCCCC[99] [Waiting] Beginner Hunt^000000",
-        "pt": "^CCCCCC[99] [Espera] Caçada Iniciante^000000",
-        "es": "^CCCCCC[99] [Espera] Cacería Principiante^000000"
+        "ko-KR": "^CCCCCCLv99-노련한 사냥꾼 초급-대기중^000000",
+        "en-US": "^CCCCCC[99] [Waiting] Beginner Hunt^000000",
+        "pt-BR": "^CCCCCC[99] [Espera] Caçada Iniciante^000000",
+        "es-ES": "^CCCCCC[99] [Espera] Cacería Principiante^000000"
     },
     "LEe7DA": {
-        "ko": "Lv115-노련한 사냥꾼 중급",
-        "en": "[115] Intermediate Hunt",
-        "pt": "[115] Caçada Intermediária",
-        "es": "[115] Cacería Intermedia"
+        "ko-KR": "Lv115-노련한 사냥꾼 중급",
+        "en-US": "[115] Intermediate Hunt",
+        "pt-BR": "[115] Caçada Intermediária",
+        "es-ES": "[115] Cacería Intermedia"
     },
     "LUe7DA": {
-        "ko": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
-        "en": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
-        "pt": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
-        "es": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
+        "ko-KR": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
+        "en-US": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
+        "pt-BR": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
+        "es-ES": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
     },
     "Lke7DA": {
-        "ko": "^CCCCCCLv115-노련한 사냥꾼 중급-수행중^000000",
-        "en": "^CCCCCC[115] [In Progress] Intermediate Hunt^000000",
-        "pt": "^CCCCCC[115] [Em curso] Caçada Intermediária^000000",
-        "es": "^CCCCCC[115] [En curso] Cacería Intermedia^000000"
+        "ko-KR": "^CCCCCCLv115-노련한 사냥꾼 중급-수행중^000000",
+        "en-US": "^CCCCCC[115] [In Progress] Intermediate Hunt^000000",
+        "pt-BR": "^CCCCCC[115] [Em curso] Caçada Intermediária^000000",
+        "es-ES": "^CCCCCC[115] [En curso] Cacería Intermedia^000000"
     },
     "L0e7DA": {
-        "ko": "^CCCCCCLv115-노련한 사냥꾼 중급-대기중^000000",
-        "en": "^CCCCCC[115] [Waiting] Intermediate Hunt^000000",
-        "pt": "^CCCCCC[115] [Espera] Caçada Intermediária^000000",
-        "es": "^CCCCCC[115] [Espera] Cacería Intermedia^000000"
+        "ko-KR": "^CCCCCCLv115-노련한 사냥꾼 중급-대기중^000000",
+        "en-US": "^CCCCCC[115] [Waiting] Intermediate Hunt^000000",
+        "pt-BR": "^CCCCCC[115] [Espera] Caçada Intermediária^000000",
+        "es-ES": "^CCCCCC[115] [Espera] Cacería Intermedia^000000"
     },
     "MEe7DA": {
-        "ko": "Lv130-노련한 사냥꾼 상급1",
-        "en": "[130] Advanced Hunt",
-        "pt": "[130] Caçada Avançada",
-        "es": "[130] Cacería Avanzada"
+        "ko-KR": "Lv130-노련한 사냥꾼 상급1",
+        "en-US": "[130] Advanced Hunt",
+        "pt-BR": "[130] Caçada Avançada",
+        "es-ES": "[130] Cacería Avanzada"
     },
     "MUe7DA": {
-        "ko": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
-        "en": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
-        "pt": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
-        "es": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
+        "ko-KR": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
+        "en-US": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
+        "pt-BR": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
+        "es-ES": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
     },
     "Mke7DA": {
-        "ko": "^CCCCCCLv130-노련한 사냥꾼 상급1-수행중^000000",
-        "en": "^CCCCCC[130] [In Progress] Advanced Hunt^000000",
-        "pt": "^CCCCCC[130] [Em curso] Caçada Avançada^000000",
-        "es": "^CCCCCC[130] [En curso] Cacería Avanzada^000000"
+        "ko-KR": "^CCCCCCLv130-노련한 사냥꾼 상급1-수행중^000000",
+        "en-US": "^CCCCCC[130] [In Progress] Advanced Hunt^000000",
+        "pt-BR": "^CCCCCC[130] [Em curso] Caçada Avançada^000000",
+        "es-ES": "^CCCCCC[130] [En curso] Cacería Avanzada^000000"
     },
     "M0e7DA": {
-        "ko": "^CCCCCCLv130-노련한 사냥꾼 상급1-대기중^000000",
-        "en": "^CCCCCC[130] [Waiting] Advanced Hunt^000000",
-        "pt": "^CCCCCC[130] [Espera] Caçada Avançada^000000",
-        "es": "^CCCCCC[130] [Espera] Cacería Avanzada^000000"
+        "ko-KR": "^CCCCCCLv130-노련한 사냥꾼 상급1-대기중^000000",
+        "en-US": "^CCCCCC[130] [Waiting] Advanced Hunt^000000",
+        "pt-BR": "^CCCCCC[130] [Espera] Caçada Avançada^000000",
+        "es-ES": "^CCCCCC[130] [Espera] Cacería Avanzada^000000"
     },
     "NEe7DA": {
-        "ko": "Lv145-노련한 사냥꾼 상급2",
-        "en": "[145] Professional Hunt",
-        "pt": "[145] Caçada Profissional",
-        "es": "[145] Cacería Profesional"
+        "ko-KR": "Lv145-노련한 사냥꾼 상급2",
+        "en-US": "[145] Professional Hunt",
+        "pt-BR": "[145] Caçada Profissional",
+        "es-ES": "[145] Cacería Profesional"
     },
     "NUe7DA": {
-        "ko": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
-        "en": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
-        "pt": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
-        "es": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
+        "ko-KR": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
+        "en-US": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
+        "pt-BR": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
+        "es-ES": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
     },
     "Nke7DA": {
-        "ko": "^CCCCCCLv145-노련한 사냥꾼 상급2-수행중^000000",
-        "en": "^CCCCCC[145] [In Progress] Professional Hunt^000000",
-        "pt": "^CCCCCC[145] [Em curso] Caçada Profissional^000000",
-        "es": "^CCCCCC[145] [En curso] Cacería Profesional^000000"
+        "ko-KR": "^CCCCCCLv145-노련한 사냥꾼 상급2-수행중^000000",
+        "en-US": "^CCCCCC[145] [In Progress] Professional Hunt^000000",
+        "pt-BR": "^CCCCCC[145] [Em curso] Caçada Profissional^000000",
+        "es-ES": "^CCCCCC[145] [En curso] Cacería Profesional^000000"
     },
     "N0e7DA": {
-        "ko": "^CCCCCCLv145-노련한 사냥꾼 상급2-대기중^000000",
-        "en": "^CCCCCC[145] [Waiting] Professional Hunt^000000",
-        "pt": "^CCCCCC[145] [Espera] Caçada Profissional^000000",
-        "es": "^CCCCCC[145] [Espera] Cacería Profesional^000000"
+        "ko-KR": "^CCCCCCLv145-노련한 사냥꾼 상급2-대기중^000000",
+        "en-US": "^CCCCCC[145] [Waiting] Professional Hunt^000000",
+        "pt-BR": "^CCCCCC[145] [Espera] Caçada Profissional^000000",
+        "es-ES": "^CCCCCC[145] [Espera] Cacería Profesional^000000"
     },
     "OEe7DA": {
-        "ko": "Lv160-시계탑 나이트메어 공략",
-        "en": "[160] Explore Clock Tower",
-        "pt": "[160] Explorar Torre do Relógio Pesadelo",
-        "es": "[160] Explorar Torre del Reloj Pesadilla"
+        "ko-KR": "Lv160-시계탑 나이트메어 공략",
+        "en-US": "[160] Explore Clock Tower",
+        "pt-BR": "[160] Explorar Torre do Relógio Pesadelo",
+        "es-ES": "[160] Explorar Torre del Reloj Pesadilla"
     },
     "OUe7DA": {
-        "ko": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
-        "en": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
-        "pt": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
-        "es": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
+        "ko-KR": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
+        "en-US": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
+        "pt-BR": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
+        "es-ES": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
     },
     "Oke7DA": {
-        "ko": "^CCCCCCLv160-시계탑 나이트메어 공략-수행중^000000",
-        "en": "^CCCCCC[160] [In Progress] Explore Clock Tower^000000",
-        "pt": "^CCCCCC[160] [Em curso] Explorar Torre do Relógio Pesadelo^000000",
-        "es": "^CCCCCC[160] [En curso] Explorar Torre del Reloj Pesadilla^000000"
+        "ko-KR": "^CCCCCCLv160-시계탑 나이트메어 공략-수행중^000000",
+        "en-US": "^CCCCCC[160] [In Progress] Explore Clock Tower^000000",
+        "pt-BR": "^CCCCCC[160] [Em curso] Explorar Torre do Relógio Pesadelo^000000",
+        "es-ES": "^CCCCCC[160] [En curso] Explorar Torre del Reloj Pesadilla^000000"
     },
     "O0e7DA": {
-        "ko": "^CCCCCCLv160-시계탑 나이트메어 공략-대기중^000000",
-        "en": "^CCCCCC[160] [Waiting] Explore Clock Tower^000000",
-        "pt": "^CCCCCC[160] [Espera] Explorar Torre do Relógio Pesadelo^000000",
-        "es": "^CCCCCC[160] [Espera] Explorar Torre del Reloj Pesadilla^000000"
+        "ko-KR": "^CCCCCCLv160-시계탑 나이트메어 공략-대기중^000000",
+        "en-US": "^CCCCCC[160] [Waiting] Explore Clock Tower^000000",
+        "pt-BR": "^CCCCCC[160] [Espera] Explorar Torre do Relógio Pesadelo^000000",
+        "es-ES": "^CCCCCC[160] [Espera] Explorar Torre del Reloj Pesadilla^000000"
     },
     "PEe7DA": {
-        "ko": "Lv175-글래스트헤임 어비스 공략",
-        "en": "[175] Explore Glastheim Castle",
-        "pt": "[175] Explorar Porão de Glastheim",
-        "es": "[175] Explorar Sótano de Glastheim"
+        "ko-KR": "Lv175-글래스트헤임 어비스 공략",
+        "en-US": "[175] Explore Glastheim Castle",
+        "pt-BR": "[175] Explorar Porão de Glastheim",
+        "es-ES": "[175] Explorar Sótano de Glastheim"
     },
     "PUe7DA": {
-        "ko": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
-        "en": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
-        "pt": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
-        "es": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
+        "ko-KR": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
+        "en-US": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
+        "pt-BR": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
+        "es-ES": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
     },
     "Pke7DA": {
-        "ko": "^CCCCCCLv175-글래스트헤임 어비스 공략-수행중^000000",
-        "en": "^CCCCCC[175] [In Progress] Explore Glastheim Castle^000000",
-        "pt": "^CCCCCC[175] [Em curso] Explorar Porão de Glastheim^000000",
-        "es": "^CCCCCC[175] [En curso] Explorar Sótano de Glastheim^000000"
+        "ko-KR": "^CCCCCCLv175-글래스트헤임 어비스 공략-수행중^000000",
+        "en-US": "^CCCCCC[175] [In Progress] Explore Glastheim Castle^000000",
+        "pt-BR": "^CCCCCC[175] [Em curso] Explorar Porão de Glastheim^000000",
+        "es-ES": "^CCCCCC[175] [En curso] Explorar Sótano de Glastheim^000000"
     },
     "P0e7DA": {
-        "ko": "^CCCCCCLv175-글래스트헤임 어비스 공략-대기중^000000",
-        "en": "^CCCCCC[175] [Waiting] Explore Glastheim Castle^000000",
-        "pt": "^CCCCCC[175] [Espera] Explorar Porão de Glastheim^000000",
-        "es": "^CCCCCC[175] [Espera] Explorar Sótano de Glastheim^000000"
+        "ko-KR": "^CCCCCCLv175-글래스트헤임 어비스 공략-대기중^000000",
+        "en-US": "^CCCCCC[175] [Waiting] Explore Glastheim Castle^000000",
+        "pt-BR": "^CCCCCC[175] [Espera] Explorar Porão de Glastheim^000000",
+        "es-ES": "^CCCCCC[175] [Espera] Explorar Sótano de Glastheim^000000"
     },
     "QEe7DA": {
-        "ko": "Lv190-아인베흐 광산 공략",
-        "en": "[190] Explore Einbech Mine",
-        "pt": "[190] Explorar Mina de Einbech",
-        "es": "[190] Explorar Mina de Einbech"
+        "ko-KR": "Lv190-아인베흐 광산 공략",
+        "en-US": "[190] Explore Einbech Mine",
+        "pt-BR": "[190] Explorar Mina de Einbech",
+        "es-ES": "[190] Explorar Mina de Einbech"
     },
     "QUe7DA": {
-        "ko": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
-        "en": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
-        "pt": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
-        "es": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
+        "ko-KR": "[라임 이베노르]\n{0} 퀘스트를 완료하셨군요!\n훌륭합니다. 임무 완수 보상을 드리겠습니다.",
+        "en-US": "[Lime Evenor]\nYou've completed [{0}]!\nExcellent. I'll give you your reward for completing the mission.",
+        "pt-BR": "[Lenore]\nVocê completou [{0}]!\nExcelente. Darei a você sua recompensa por completar a missão.",
+        "es-ES": "[Lime Evenor]\n¡Has completado [{0}]!\nExcelente. \nTe daré tu recompensa por completar la misión."
     },
     "Qke7DA": {
-        "ko": "^CCCCCCLv190-아인베흐 광산 공략-수행중^000000",
-        "en": "^CCCCCC[190] [In Progress] Explore Einbech Mine^000000",
-        "pt": "^CCCCCC[190] [Em curso] Explorar Mina de Einbech^000000",
-        "es": "^CCCCCC[190] [En curso] Explorar Mina de Einbech^000000"
+        "ko-KR": "^CCCCCCLv190-아인베흐 광산 공략-수행중^000000",
+        "en-US": "^CCCCCC[190] [In Progress] Explore Einbech Mine^000000",
+        "pt-BR": "^CCCCCC[190] [Em curso] Explorar Mina de Einbech^000000",
+        "es-ES": "^CCCCCC[190] [En curso] Explorar Mina de Einbech^000000"
     },
     "Q0e7DA": {
-        "ko": "^CCCCCCLv190-아인베흐 광산 공략-대기중^000000",
-        "en": "^CCCCCC[190] [Waiting] Explore Einbech Mine^000000",
-        "pt": "^CCCCCC[190] [Espera] Explorar Mina de Einbech^000000",
-        "es": "^CCCCCC[190] [Espera] Explorar Mina de Einbech^000000"
+        "ko-KR": "^CCCCCCLv190-아인베흐 광산 공략-대기중^000000",
+        "en-US": "^CCCCCC[190] [Waiting] Explore Einbech Mine^000000",
+        "pt-BR": "^CCCCCC[190] [Espera] Explorar Mina de Einbech^000000",
+        "es-ES": "^CCCCCC[190] [Espera] Explorar Mina de Einbech^000000"
     },
     "REe7DA": {
-        "ko": "[라임 이베노르]\n수행가능한 의뢰가 있는지 볼까요?",
-        "en": "[Lime Evenor]\nLet's see if there are any available requests?",
-        "pt": "[Lenore]\nVamos ver se há algum pedido disponível?",
-        "es": "[Lime Evenor]\n¿Vemos si hay algún pedido disponible?"
+        "ko-KR": "[라임 이베노르]\n수행가능한 의뢰가 있는지 볼까요?",
+        "en-US": "[Lime Evenor]\nLet's see if there are any available requests?",
+        "pt-BR": "[Lenore]\nVamos ver se há algum pedido disponível?",
+        "es-ES": "[Lime Evenor]\n¿Vemos si hay algún pedido disponible?"
     },
     "RUe7DA": {
-        "ko": "90레벨 이하 수행 가능한 퀘스트",
-        "en": "Missions level 90 or lower",
-        "pt": "Missões de nível 90 ou menos",
-        "es": "Misiones de nivel 90 o menos"
+        "ko-KR": "90레벨 이하 수행 가능한 퀘스트",
+        "en-US": "Missions level 90 or lower",
+        "pt-BR": "Missões de nível 90 ou menos",
+        "es-ES": "Misiones de nivel 90 o menos"
     },
     "Rke7DA": {
-        "ko": "90레벨 이상 수행 가능한 퀘스트",
-        "en": "Missions level 90 or higher",
-        "pt": "Missões de nível 90 ou mais",
-        "es": "Misiones de nivel 90 o más"
+        "ko-KR": "90레벨 이상 수행 가능한 퀘스트",
+        "en-US": "Missions level 90 or higher",
+        "pt-BR": "Missões de nível 90 ou mais",
+        "es-ES": "Misiones de nivel 90 o más"
     },
     "R0e7DA": {
-        "ko": "[라임 이베노르]\n90레벨 이하 수행 가능한 퀘스트 목록들입니다.",
-        "en": "[Lime Evenor]\nHere is the list of available missions for level 90 or lower.",
-        "pt": "[Lenore]\nAqui está a lista de missões disponíveis para nível 90 ou inferior.",
-        "es": "[Lime Evenor]\nAquí está la lista de misiones disponibles para nivel 90 o inferior."
+        "ko-KR": "[라임 이베노르]\n90레벨 이하 수행 가능한 퀘스트 목록들입니다.",
+        "en-US": "[Lime Evenor]\nHere is the list of available missions for level 90 or lower.",
+        "pt-BR": "[Lenore]\nAqui está a lista de missões disponíveis para nível 90 ou inferior.",
+        "es-ES": "[Lime Evenor]\nAquí está la lista de misiones disponibles para nivel 90 o inferior."
     },
     "SEe7DA": {
-        "ko": "취소",
-        "en": "Cancel",
-        "pt": "Cancelar",
-        "es": "Cancelar"
+        "ko-KR": "취소",
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
     },
     "SUe7DA": {
-        "ko": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n프론테라, 게펜 인근에서 파브르를 사냥하는 퀘스트입니다.",
-        "en": "[Lime Evenor]\n{0}?\nThis is a mission to hunt Fabre near Prontera.",
-        "pt": "[Lenore]\n{0}?\nEsta é uma missão para caçar Fabre perto de Prontera.",
-        "es": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar Fabres cerca de Prontera."
+        "ko-KR": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n프론테라, 게펜 인근에서 파브르를 사냥하는 퀘스트입니다.",
+        "en-US": "[Lime Evenor]\n{0}?\nThis is a mission to hunt Fabre near Prontera.",
+        "pt-BR": "[Lenore]\n{0}?\nEsta é uma missão para caçar Fabre perto de Prontera.",
+        "es-ES": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar Fabres cerca de Prontera."
     },
     "Ske7DA": {
-        "ko": "받는다.",
-        "en": "Accept.",
-        "pt": "Aceitar.",
-        "es": "Aceptar."
+        "ko-KR": "받는다.",
+        "en-US": "Accept.",
+        "pt-BR": "Aceitar.",
+        "es-ES": "Aceptar."
     },
     "S0e7DA": {
-        "ko": "거절한다.",
-        "en": "Refuse.",
-        "pt": "Recusar.",
-        "es": "Rechazar."
+        "ko-KR": "거절한다.",
+        "en-US": "Refuse.",
+        "pt-BR": "Recusar.",
+        "es-ES": "Rechazar."
     },
     "TEe7DA": {
-        "ko": "[라임 이베노르]\n퀘스트 정보는 퀘스트창을 통해 확인할 수 있답니다.\n완료 후에는 '부스터 콜' 아이템을 사용해 저를 소환하시면 됩니다.",
-        "en": "[Lime Evenor]\nYou can check mission information through the mission window.\nAfter completing, use the 'Booster Bell' item to summon me.",
-        "pt": "[Lenore]\nVocê pode verificar as informações da missão através da janela de missões.\nApós completar, use o item 'Sino de Apoio' para me invocar.",
-        "es": "[Lime Evenor]\nPuedes verificar la información de la misión a través de la ventana de misiones.\nDespués de completarla, usa el objeto 'Campana de Apoyo' para invocarme."
+        "ko-KR": "[라임 이베노르]\n퀘스트 정보는 퀘스트창을 통해 확인할 수 있답니다.\n완료 후에는 '부스터 콜' 아이템을 사용해 저를 소환하시면 됩니다.",
+        "en-US": "[Lime Evenor]\nYou can check mission information through the mission window.\nAfter completing, use the 'Booster Bell' item to summon me.",
+        "pt-BR": "[Lenore]\nVocê pode verificar as informações da missão através da janela de missões.\nApós completar, use o item 'Sino de Apoio' para me invocar.",
+        "es-ES": "[Lime Evenor]\nPuedes verificar la información de la misión a través de la ventana de misiones.\nDespués de completarla, usa el objeto 'Campana de Apoyo' para invocarme."
     },
     "TUe7DA": {
-        "ko": "[라임 이베노르]\n그럼 다른 퀘스트를 볼까요?",
-        "en": "[Lime Evenor]\nShall we take a look at other missions, then?",
-        "pt": "[Lenore]\nVamos dar uma olhada em outras missões, então?",
-        "es": "[Lime Evenor]\n¿Entonces echamos un vistazo a otras misiones?"
+        "ko-KR": "[라임 이베노르]\n그럼 다른 퀘스트를 볼까요?",
+        "en-US": "[Lime Evenor]\nShall we take a look at other missions, then?",
+        "pt-BR": "[Lenore]\nVamos dar uma olhada em outras missões, então?",
+        "es-ES": "[Lime Evenor]\n¿Entonces echamos un vistazo a otras misiones?"
     },
     "Tke7DA": {
-        "ko": "[라임 이베노르]\n이미 수행하신 의뢰군요. 퀘스트는 하루에 한 번씩 할 수 있답니다.\n다른걸 보시겠어요?",
-        "en": "[Lime Evenor]\nIt seems you've already completed this request. Missions can be done once per day.\nWould you like to see another one?",
-        "pt": "[Lenore]\nParece que você já completou este pedido. As missões podem ser feitas uma vez por dia.\nGostaria de ver outra?",
-        "es": "[Lime Evenor]\nParece que ya completaste este pedido. \nLas misiones se pueden hacer una vez al día.\n¿Te gustaría ver otra?"
+        "ko-KR": "[라임 이베노르]\n이미 수행하신 의뢰군요. 퀘스트는 하루에 한 번씩 할 수 있답니다.\n다른걸 보시겠어요?",
+        "en-US": "[Lime Evenor]\nIt seems you've already completed this request. Missions can be done once per day.\nWould you like to see another one?",
+        "pt-BR": "[Lenore]\nParece que você já completou este pedido. As missões podem ser feitas uma vez por dia.\nGostaria de ver outra?",
+        "es-ES": "[Lime Evenor]\nParece que ya completaste este pedido. \nLas misiones se pueden hacer una vez al día.\n¿Te gustaría ver otra?"
     },
     "T0e7DA": {
-        "ko": "[라임 이베노르]\n이미 수행중인 의뢰군요. 다른걸 보시겠어요?",
-        "en": "[Lime Evenor]\nIt seems you're already working on this request. Would you like to see another one?",
-        "pt": "[Lenore]\nParece que você já está fazendo neste pedido. Gostaria de ver outra?",
-        "es": "[Lime Evenor]\nParece que ya estás realizando este pedido. \n¿Te gustaría ver otra?"
+        "ko-KR": "[라임 이베노르]\n이미 수행중인 의뢰군요. 다른걸 보시겠어요?",
+        "en-US": "[Lime Evenor]\nIt seems you're already working on this request. Would you like to see another one?",
+        "pt-BR": "[Lenore]\nParece que você já está fazendo neste pedido. Gostaria de ver outra?",
+        "es-ES": "[Lime Evenor]\nParece que ya estás realizando este pedido. \n¿Te gustaría ver otra?"
     },
     "UEe7DA": {
-        "ko": "[라임 이베노르]\n안타깝지만 레벨이 부족해서 이 퀘스트를 수행할 수 없네요.\n다른 퀘스트를 보시겠어요?",
-        "en": "[Lime Evenor]\nUnfortunately, your level is too low to take on this mission.\nWould you like to see another mission?",
-        "pt": "[Lenore]\nInfelizmente, seu nível é muito baixo para realizar esta missão.\nGostaria de ver outra missão?",
-        "es": "[Lime Evenor]\nLamentablemente, tu nivel es demasiado bajo para realizar esta misión.\n¿Te gustaría ver otra misión?"
+        "ko-KR": "[라임 이베노르]\n안타깝지만 레벨이 부족해서 이 퀘스트를 수행할 수 없네요.\n다른 퀘스트를 보시겠어요?",
+        "en-US": "[Lime Evenor]\nUnfortunately, your level is too low to take on this mission.\nWould you like to see another mission?",
+        "pt-BR": "[Lenore]\nInfelizmente, seu nível é muito baixo para realizar esta missão.\nGostaria de ver outra missão?",
+        "es-ES": "[Lime Evenor]\nLamentablemente, tu nivel es demasiado bajo para realizar esta misión.\n¿Te gustaría ver otra misión?"
     },
     "UUe7DA": {
-        "ko": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n페이욘 인근에서 몬스터를 사냥하는 퀘스트입니다.",
-        "en": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters in Payon Forest.",
-        "pt": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros na Floresta de Payon.",
-        "es": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos en el Bosque de Payon."
+        "ko-KR": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n페이욘 인근에서 몬스터를 사냥하는 퀘스트입니다.",
+        "en-US": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters in Payon Forest.",
+        "pt-BR": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros na Floresta de Payon.",
+        "es-ES": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos en el Bosque de Payon."
     },
     "Uke7DA": {
-        "ko": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n프론테라 지하수로의 몬스터를 사냥하는 퀘스트입니다.",
-        "en": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters in the Prontera Culverts.",
-        "pt": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros no Esgoto de Prontera.",
-        "es": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos en el Alcantarillado de Prontera."
+        "ko-KR": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n프론테라 지하수로의 몬스터를 사냥하는 퀘스트입니다.",
+        "en-US": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters in the Prontera Culverts.",
+        "pt-BR": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros no Esgoto de Prontera.",
+        "es-ES": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos en el Alcantarillado de Prontera."
     },
     "U0e7DA": {
-        "ko": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n게펜 북쪽의 묘르닐 폐광산의 몬스터를 사냥하는 퀘스트입니다.",
-        "en": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters in the Mjolnir Mine, north of Geffen.",
-        "pt": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros na Mina de Mjolnir, ao norte de Geffen.",
-        "es": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos en la Mina de Mjolnir, al norte de Geffen."
+        "ko-KR": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n게펜 북쪽의 묘르닐 폐광산의 몬스터를 사냥하는 퀘스트입니다.",
+        "en-US": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters in the Mjolnir Mine, north of Geffen.",
+        "pt-BR": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros na Mina de Mjolnir, ao norte de Geffen.",
+        "es-ES": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos en la Mina de Mjolnir, al norte de Geffen."
     },
     "VEe7DA": {
-        "ko": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n바이아란섬의 이즈루드 던전의 몬스터를 사냥하는 퀘스트입니다.",
-        "en": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters in the Underwater Tunnel on Byalan Island. You can take the boat in Izlude to get there.",
-        "pt": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros no Túnel Submarino, na Ilha Byalan. Você pode usar o barco em Izlude para chegar lá.",
-        "es": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos en el Túnel Submarino, en Isla Byalan. \nPuedes usar el barco en Izlude para llegar allí."
+        "ko-KR": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n바이아란섬의 이즈루드 던전의 몬스터를 사냥하는 퀘스트입니다.",
+        "en-US": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters in the Underwater Tunnel on Byalan Island. You can take the boat in Izlude to get there.",
+        "pt-BR": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros no Túnel Submarino, na Ilha Byalan. Você pode usar o barco em Izlude para chegar lá.",
+        "es-ES": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos en el Túnel Submarino, en Isla Byalan. \nPuedes usar el barco en Izlude para llegar allí."
     },
     "VUe7DA": {
-        "ko": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n페이욘 북쪽 페이욘 동굴 폐가촌의 몬스터를 사냥하는 퀘스트입니다.",
-        "en": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters in the abandoned village inside Payon Cave.",
-        "pt": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros no vilarejo abandonado dentro da Caverna de Payon.",
-        "es": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos en la aldea abandonada dentro de la Cueva de Payon."
+        "ko-KR": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n페이욘 북쪽 페이욘 동굴 폐가촌의 몬스터를 사냥하는 퀘스트입니다.",
+        "en-US": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters in the abandoned village inside Payon Cave.",
+        "pt-BR": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros no vilarejo abandonado dentro da Caverna de Payon.",
+        "es-ES": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos en la aldea abandonada dentro de la Cueva de Payon."
     },
     "Vke7DA": {
-        "ko": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n알데바란 시계탑의 몬스터를 사냥하는 퀘스트입니다.",
-        "en": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters in the Clock Tower of Al De Baran.",
-        "pt": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros na Torre do Relógio de Al De Baran.",
-        "es": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos en la Torre del Reloj de Al De Baran."
+        "ko-KR": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n알데바란 시계탑의 몬스터를 사냥하는 퀘스트입니다.",
+        "en-US": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters in the Clock Tower of Al De Baran.",
+        "pt-BR": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros na Torre do Relógio de Al De Baran.",
+        "es-ES": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos en la Torre del Reloj de Al De Baran."
     },
     "V0e7DA": {
-        "ko": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n알베르타 거북이 섬 던전의 몬스터를 사냥하는 퀘스트입니다.",
-        "en": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters in the underground cavern of Turtle Island. You can take the boat in Alberta to get there.",
-        "pt": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros na caverna subterrânea da Ilha da Tartaruga. Você pode usar o barco em Alberta para chegar lá.",
-        "es": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos en la caverna subterránea de Isla Tortuga. Puedes usar el barco en Alberta para llegar allí."
+        "ko-KR": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n알베르타 거북이 섬 던전의 몬스터를 사냥하는 퀘스트입니다.",
+        "en-US": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters in the underground cavern of Turtle Island. You can take the boat in Alberta to get there.",
+        "pt-BR": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros na caverna subterrânea da Ilha da Tartaruga. Você pode usar o barco em Alberta para chegar lá.",
+        "es-ES": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos en la caverna subterránea de Isla Tortuga. Puedes usar el barco en Alberta para llegar allí."
     },
     "WEe7DA": {
-        "ko": "[라임 이베노르]\n필요하면 언제든 불러주세요.",
-        "en": "[Lime Evenor]\nPlease call me whenever you need me.",
-        "pt": "[Lenore]\nPor favor, me chame sempre que precisar de mim.",
-        "es": "[Lime Evenor]\nPor favor, llámame siempre que me necesites."
+        "ko-KR": "[라임 이베노르]\n필요하면 언제든 불러주세요.",
+        "en-US": "[Lime Evenor]\nPlease call me whenever you need me.",
+        "pt-BR": "[Lenore]\nPor favor, me chame sempre que precisar de mim.",
+        "es-ES": "[Lime Evenor]\nPor favor, llámame siempre que me necesites."
     },
     "WUe7DA": {
-        "ko": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n지역과 관계없이 수속성, 중형, 무형의 몬스터를 사냥하는 퀘스트입니다.\n몬스터 정보를 파악하는데 도움이 될 거에요.",
-        "en": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters of Water property, Medium size, Formless race, regardless of map.\nThis will help you understand monster information.",
-        "pt": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros de propriedade Água, tamanho Médio, raça Amorfo, independente do mapa.\nIsso ajudará você a entender as informações dos monstros.",
-        "es": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos de propiedad Agua, tamaño Mediano, raza Amorfo, independiente del mapa.\nEsto te ayudará a entender la información de los monstruos."
+        "ko-KR": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n지역과 관계없이 수속성, 중형, 무형의 몬스터를 사냥하는 퀘스트입니다.\n몬스터 정보를 파악하는데 도움이 될 거에요.",
+        "en-US": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters of Water property, Medium size, Formless race, regardless of map.\nThis will help you understand monster information.",
+        "pt-BR": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros de propriedade Água, tamanho Médio, raça Amorfo, independente do mapa.\nIsso ajudará você a entender as informações dos monstros.",
+        "es-ES": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos de propiedad Agua, tamaño Mediano, raza Amorfo, independiente del mapa.\nEsto te ayudará a entender la información de los monstruos."
     },
     "Wke7DA": {
-        "ko": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n지역과 관계없이 지속성, 대형, 인간형의 몬스터를 사냥하는 퀘스트입니다.\n몬스터 정보를 파악하는데 도움이 될 거에요.",
-        "en": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters of Earth property, Large size, Demi-Human race, regardless of map.\nThis will help you understand monster information.",
-        "pt": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros de propriedade Terra, tamanho Grande, raça Humanoide, independente do mapa.\nIsso ajudará você a entender as informações dos monstros.",
-        "es": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos de propiedad Tierra, tamaño Grande, raza Humanoide, independiente del mapa.\nEsto te ayudará a entender la información de los monstruos."
+        "ko-KR": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n지역과 관계없이 지속성, 대형, 인간형의 몬스터를 사냥하는 퀘스트입니다.\n몬스터 정보를 파악하는데 도움이 될 거에요.",
+        "en-US": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters of Earth property, Large size, Demi-Human race, regardless of map.\nThis will help you understand monster information.",
+        "pt-BR": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros de propriedade Terra, tamanho Grande, raça Humanoide, independente do mapa.\nIsso ajudará você a entender as informações dos monstros.",
+        "es-ES": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos de propiedad Tierra, tamaño Grande, raza Humanoide, independiente del mapa.\nEsto te ayudará a entender la información de los monstruos."
     },
     "W0e7DA": {
-        "ko": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n지역과 관계없이 암속성, 소형, 곤충형의 몬스터를 사냥하는 퀘스트입니다.\n몬스터 정보를 파악하는데 도움이 될 거에요.",
-        "en": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters of Dark property, Small size, Insect race, regardless of map.\nThis will help you understand monster information.",
-        "pt": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros de propriedade Sombrio, tamanho Pequeno, raça Inseto, independente do mapa.\nIsso ajudará você a entender as informações dos monstros.",
-        "es": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos de propiedad Oscura, tamaño Pequeño, raza Insecto, independiente del mapa.\nEsto te ayudará a entender la información de los monstruos."
+        "ko-KR": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n지역과 관계없이 암속성, 소형, 곤충형의 몬스터를 사냥하는 퀘스트입니다.\n몬스터 정보를 파악하는데 도움이 될 거에요.",
+        "en-US": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters of Dark property, Small size, Insect race, regardless of map.\nThis will help you understand monster information.",
+        "pt-BR": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros de propriedade Sombrio, tamanho Pequeno, raça Inseto, independente do mapa.\nIsso ajudará você a entender as informações dos monstros.",
+        "es-ES": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos de propiedad Oscura, tamaño Pequeño, raza Insecto, independiente del mapa.\nEsto te ayudará a entender la información de los monstruos."
     },
     "XEe7DA": {
-        "ko": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n지역과 관계없이 지속성, 중형, 소형의 몬스터를 사냥하는 퀘스트입니다.\n몬스터 정보를 파악하는데 도움이 될 거에요.",
-        "en": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters of Earth property, Medium or Small size, regardless of map.\nThis will help you understand monster information.",
-        "pt": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros de propriedade Terra, tamanho Médio ou tamanho Pequeno, independente do mapa.\nIsso ajudará você a entender as informações dos monstros.",
-        "es": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos de propiedad Tierra, tamaño Mediano o tamaño Pequeño, independiente del mapa.\nEsto te ayudará a entender la información de los monstruos."
+        "ko-KR": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n지역과 관계없이 지속성, 중형, 소형의 몬스터를 사냥하는 퀘스트입니다.\n몬스터 정보를 파악하는데 도움이 될 거에요.",
+        "en-US": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters of Earth property, Medium or Small size, regardless of map.\nThis will help you understand monster information.",
+        "pt-BR": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros de propriedade Terra, tamanho Médio ou tamanho Pequeno, independente do mapa.\nIsso ajudará você a entender as informações dos monstros.",
+        "es-ES": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos de propiedad Tierra, tamaño Mediano o tamaño Pequeño, independiente del mapa.\nEsto te ayudará a entender la información de los monstruos."
     },
     "XUe7DA": {
-        "ko": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n알데바란 시계탑의 어비스 지역 몬스터를 사냥하는 퀘스트입니다.",
-        "en": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters in Nightmare Mode of the Al De Baran Clock Tower.",
-        "pt": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros no Modo Pesadelo da Torre do Relógio de Al De Baran.",
-        "es": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos en el Modo Pesadilla de la Torre del Reloj de Al De Baran."
+        "ko-KR": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n알데바란 시계탑의 어비스 지역 몬스터를 사냥하는 퀘스트입니다.",
+        "en-US": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters in Nightmare Mode of the Al De Baran Clock Tower.",
+        "pt-BR": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros no Modo Pesadelo da Torre do Relógio de Al De Baran.",
+        "es-ES": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos en el Modo Pesadilla de la Torre del Reloj de Al De Baran."
     },
     "Xke7DA": {
-        "ko": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n게펜 서쪽 글래스트헤임 고성의 어비스 지역 몬스터를 사냥하는 퀘스트입니다.",
-        "en": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters in the Basement of Glastheim, west of Geffen.",
-        "pt": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros no Porões de Glastheim, a oeste de Geffen.",
-        "es": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos en los Sótanos de Glastheim, al oeste de Geffen."
+        "ko-KR": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n게펜 서쪽 글래스트헤임 고성의 어비스 지역 몬스터를 사냥하는 퀘스트입니다.",
+        "en-US": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters in the Basement of Glastheim, west of Geffen.",
+        "pt-BR": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros no Porões de Glastheim, a oeste de Geffen.",
+        "es-ES": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos en los Sótanos de Glastheim, al oeste de Geffen."
     },
     "X0e7DA": {
-        "ko": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n아인베흐 광산던전의 몬스터를 사냥하는 퀘스트입니다.",
-        "en": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters in the Einbech Mine Dungeon.",
-        "pt": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros no Calabouço da Mina de Einbech.",
-        "es": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos en la Mazmorra de la Mina de Einbech."
+        "ko-KR": "[라임 이베노르]\n{0}퀘스트를 진행하시겠어요?\n아인베흐 광산던전의 몬스터를 사냥하는 퀘스트입니다.",
+        "en-US": "[Lime Evenor]\n{0}?\nThis is a mission to hunt monsters in the Einbech Mine Dungeon.",
+        "pt-BR": "[Lenore]\n{0}?\nEsta é uma missão para caçar monstros no Calabouço da Mina de Einbech.",
+        "es-ES": "[Lime Evenor]\n¿{0}?\nEsta es una misión para cazar monstruos en la Mazmorra de la Mina de Einbech."
     },
     "YEe7DA": {
-        "ko": "[라임 이베노르]\n무엇을 도와드릴까요?\n제가 답변 가능한 거라면 알려드리겠습니다.",
-        "en": "[Lime Evenor]\nHow can I help?\nIf it's something I can answer, I'll tell you.",
-        "pt": "[Lenore]\nComo posso ajudar?\nSe for algo que eu possa responder, lhe direi.",
-        "es": "[Lime Evenor]\n¿Cómo puedo ayudar?\nSi es algo que pueda responder, te lo diré."
+        "ko-KR": "[라임 이베노르]\n무엇을 도와드릴까요?\n제가 답변 가능한 거라면 알려드리겠습니다.",
+        "en-US": "[Lime Evenor]\nHow can I help?\nIf it's something I can answer, I'll tell you.",
+        "pt-BR": "[Lenore]\nComo posso ajudar?\nSe for algo que eu possa responder, lhe direi.",
+        "es-ES": "[Lime Evenor]\n¿Cómo puedo ayudar?\nSi es algo que pueda responder, te lo diré."
     },
     "YUe7DA": {
-        "ko": "[라임 이베노르]\n우선 낙원단에 가입할까요?\n제가 일하는 곳이랍니다. 평소에는 낙원단에서 모험가분들에게 의뢰를 중개하고 있어요.",
-        "en": "[Lime Evenor]\nFirst, how about we sign you up with the Eden Group?\nIt's where I work. I normally provide missions for adventurers at the Eden Group.",
-        "pt": "[Lenore]\nPrimeiro, que tal nos inscrevermos no Grupo do Éden?\nÉ onde eu trabalho. Normalmente, eu forneço missões para aventureiros no Grupo do Éden.",
-        "es": "[Lime Evenor]\nPrimero, ¿qué tal si nos inscribimos en el Grupo del Edén?\nEs donde trabajo. \nNormalmente, proporciono misiones a los aventureros en el Grupo del Edén."
+        "ko-KR": "[라임 이베노르]\n우선 낙원단에 가입할까요?\n제가 일하는 곳이랍니다. 평소에는 낙원단에서 모험가분들에게 의뢰를 중개하고 있어요.",
+        "en-US": "[Lime Evenor]\nFirst, how about we sign you up with the Eden Group?\nIt's where I work. I normally provide missions for adventurers at the Eden Group.",
+        "pt-BR": "[Lenore]\nPrimeiro, que tal nos inscrevermos no Grupo do Éden?\nÉ onde eu trabalho. Normalmente, eu forneço missões para aventureiros no Grupo do Éden.",
+        "es-ES": "[Lime Evenor]\nPrimero, ¿qué tal si nos inscribimos en el Grupo del Edén?\nEs donde trabajo. \nNormalmente, proporciono misiones a los aventureros en el Grupo del Edén."
     },
     "Yke7DA": {
-        "ko": "[라임 이베노르]\n낙원단에 가입하시면 낙원단에서 중개하는 여러가지 의뢰를 하실 수 있으니까요.\n아, 물론 지역 주민들의 의뢰를 중개하는 것이므로 직접 주민을 만나 바로 의뢰를 받으실 수도 있습니다.",
-        "en": "[Lime Evenor]\nOnce you join the Eden Group, you can take on various requests brokered by the Group.\nOh, of course, since we broker requests from local residents, you can also find the residents directly and receive the requests in person.",
-        "pt": "[Lenore]\nAssim que você entrar no Grupo do Éden, poderá realizar vários pedidos intermediados pelo Grupo.\nAh, claro, como intermediamos pedidos de residentes locais, você também pode encontrar os residentes diretamente e receber os pedidos pessoalmente.",
-        "es": "[Lime Evenor]\nUna vez que entres al Grupo del Edén, podrás realizar varios pedidos intermediados por el Grupo.\nAh, claro, como intermediamos pedidos de residentes locales, también puedes encontrar a los residentes directamente y recibir los pedidos personalmente."
+        "ko-KR": "[라임 이베노르]\n낙원단에 가입하시면 낙원단에서 중개하는 여러가지 의뢰를 하실 수 있으니까요.\n아, 물론 지역 주민들의 의뢰를 중개하는 것이므로 직접 주민을 만나 바로 의뢰를 받으실 수도 있습니다.",
+        "en-US": "[Lime Evenor]\nOnce you join the Eden Group, you can take on various requests brokered by the Group.\nOh, of course, since we broker requests from local residents, you can also find the residents directly and receive the requests in person.",
+        "pt-BR": "[Lenore]\nAssim que você entrar no Grupo do Éden, poderá realizar vários pedidos intermediados pelo Grupo.\nAh, claro, como intermediamos pedidos de residentes locais, você também pode encontrar os residentes diretamente e receber os pedidos pessoalmente.",
+        "es-ES": "[Lime Evenor]\nUna vez que entres al Grupo del Edén, podrás realizar varios pedidos intermediados por el Grupo.\nAh, claro, como intermediamos pedidos de residentes locales, también puedes encontrar a los residentes directamente y recibir los pedidos personalmente."
     },
     "Y0e7DA": {
-        "ko": "[라임 이베노르]\n낙원단은 그런 주민들의 의뢰들을 한 곳에 모아놨을 뿐이니까요.\n어쨌든, 저희 단원이 되셨다는 증표를 드릴게요.",
-        "en": "[Lime Evenor]\nThe Eden Group just gathers these residents' requests in one place, after all.\nAnyway, I'll give you an Emblem to show that you've become a member.",
-        "pt": "[Lenore]\nO Grupo do Éden apenas reúne os pedidos desses residentes em um só lugar, afinal.\nDe qualquer forma, darei a você um Emblema para mostrar que você se tornou membro.",
-        "es": "[Lime Evenor]\nEl Grupo del Edén solo reúne los pedidos de estos residentes en un solo lugar, después de todo.\nDe todas formas, te daré un Emblema para mostrar que te has convertido en miembro."
+        "ko-KR": "[라임 이베노르]\n낙원단은 그런 주민들의 의뢰들을 한 곳에 모아놨을 뿐이니까요.\n어쨌든, 저희 단원이 되셨다는 증표를 드릴게요.",
+        "en-US": "[Lime Evenor]\nThe Eden Group just gathers these residents' requests in one place, after all.\nAnyway, I'll give you an Emblem to show that you've become a member.",
+        "pt-BR": "[Lenore]\nO Grupo do Éden apenas reúne os pedidos desses residentes em um só lugar, afinal.\nDe qualquer forma, darei a você um Emblema para mostrar que você se tornou membro.",
+        "es-ES": "[Lime Evenor]\nEl Grupo del Edén solo reúne los pedidos de estos residentes en un solo lugar, después de todo.\nDe todas formas, te daré un Emblema para mostrar que te has convertido en miembro."
     },
     "ZEe7DA": {
-        "ko": "[라임 이베노르]\n인벤토리에 여유가 없어 보이네요.\n카프라나 존다의 창고 서비스를 이용해서 정리해주시겠어요?\n증표를 드릴 수가 없네요.",
-        "en": "[Lime Evenor]\nIt looks like your inventory is full.\nCould you organize it using Kafra's storage service?\nI can't give you the Emblem.",
-        "pt": "[Lenore]\nParece que seu inventário está cheio.\nVocê poderia organizá-lo usando o serviço de armazém da Kafra?\nNão posso lhe dar o Emblema.",
-        "es": "[Lime Evenor]\nParece que tu inventario está lleno.\n¿Podrías organizarlo usando el servicio de almacén de la Kafra?\nNo puedo darte el Emblema."
+        "ko-KR": "[라임 이베노르]\n인벤토리에 여유가 없어 보이네요.\n카프라나 존다의 창고 서비스를 이용해서 정리해주시겠어요?\n증표를 드릴 수가 없네요.",
+        "en-US": "[Lime Evenor]\nIt looks like your inventory is full.\nCould you organize it using Kafra's storage service?\nI can't give you the Emblem.",
+        "pt-BR": "[Lenore]\nParece que seu inventário está cheio.\nVocê poderia organizá-lo usando o serviço de armazém da Kafra?\nNão posso lhe dar o Emblema.",
+        "es-ES": "[Lime Evenor]\nParece que tu inventario está lleno.\n¿Podrías organizarlo usando el servicio de almacén de la Kafra?\nNo puedo darte el Emblema."
     },
     "ZUe7DA": {
-        "ko": "[라임 이베노르]\n증표를 사용하면 낙원단으로 바로 귀환할 수 있어요.\n유용하게 사용해 주세요.",
-        "en": "[Lime Evenor]\nUsing the Emblem will allow you to return directly to the Eden Group.\nPlease use it wisely.",
-        "pt": "[Lenore]\nUsar o Emblema permitirá que você retorne diretamente ao Grupo do Éden.\nPor favor, use-o com sabedoria.",
-        "es": "[Lime Evenor]\nUsar el Emblema te permitirá regresar directamente al Grupo del Edén.\nPor favor, úsalo con sabiduría."
+        "ko-KR": "[라임 이베노르]\n증표를 사용하면 낙원단으로 바로 귀환할 수 있어요.\n유용하게 사용해 주세요.",
+        "en-US": "[Lime Evenor]\nUsing the Emblem will allow you to return directly to the Eden Group.\nPlease use it wisely.",
+        "pt-BR": "[Lenore]\nUsar o Emblema permitirá que você retorne diretamente ao Grupo do Éden.\nPor favor, use-o com sabedoria.",
+        "es-ES": "[Lime Evenor]\nUsar el Emblema te permitirá regresar directamente al Grupo del Edén.\nPor favor, úsalo con sabiduría."
     },
     "Zke7DA": {
-        "ko": "[라임 이베노르]\n자, 이제 무엇을 도와드릴까요?",
-        "en": "[Lime Evenor]\nNow, how else can I help?",
-        "pt": "[Lenore]\nAgora, no que mais posso ajudar?",
-        "es": "[Lime Evenor]\nAhora, ¿en qué más puedo ayudarte?"
+        "ko-KR": "[라임 이베노르]\n자, 이제 무엇을 도와드릴까요?",
+        "en-US": "[Lime Evenor]\nNow, how else can I help?",
+        "pt-BR": "[Lenore]\nAgora, no que mais posso ajudar?",
+        "es-ES": "[Lime Evenor]\nAhora, ¿en qué más puedo ayudarte?"
     },
     "Z0e7DA": {
-        "ko": "기초 정보 가이드",
-        "en": "Basic Information",
-        "pt": "Informações Básicas",
-        "es": "Información Básica"
+        "ko-KR": "기초 정보 가이드",
+        "en-US": "Basic Information",
+        "pt-BR": "Informações Básicas",
+        "es-ES": "Información Básica"
     },
     "aEe7DA": {
-        "ko": "지역 이동 방법",
-        "en": "How to Move Between Maps",
-        "pt": "Como Mover entre mapas",
-        "es": "Cómo Moverse entre mapas"
+        "ko-KR": "지역 이동 방법",
+        "en-US": "How to Move Between Maps",
+        "pt-BR": "Como Mover entre mapas",
+        "es-ES": "Cómo Moverse entre mapas"
     },
     "aUe7DA": {
-        "ko": "상위 직업으로 전직",
-        "en": "Change Class",
-        "pt": "Mudar de Classe",
-        "es": "Cambio de Clase"
+        "ko-KR": "상위 직업으로 전직",
+        "en-US": "Change Class",
+        "pt-BR": "Mudar de Classe",
+        "es-ES": "Cambio de Clase"
     },
     "ake7DA": {
-        "ko": "프론테라로 이동",
-        "en": "Go to Prontera",
-        "pt": "Ir para Prontera",
-        "es": "Ir a Prontera"
+        "ko-KR": "프론테라로 이동",
+        "en-US": "Go to Prontera",
+        "pt-BR": "Ir para Prontera",
+        "es-ES": "Ir a Prontera"
     },
     "a0e7DA": {
-        "ko": "[라임 이베노르]\n기본적인 정보는 팁박스를 활용해 보세요.\n파티맺기, 길드 설립 등 기본적인 내용을 언제든 보실 수 있습니다.",
-        "en": "[Lime Evenor]\nFor basic information, try using the Tips Window.\nYou can view basic content like forming parties, creating clans, etc., at any time.",
-        "pt": "[Lenore]\nPara informações básicas, tente usar a Janela de Dicas.\nVocê pode ver conteúdos básicos como formar grupos, criar clãs, etc., a qualquer momento.",
-        "es": "[Lime Evenor]\nPara información básica, intenta usar la Ventana de Consejos.\nPuedes ver contenidos básicos como formar grupos, crear clanes, etc., en cualquier momento."
+        "ko-KR": "[라임 이베노르]\n기본적인 정보는 팁박스를 활용해 보세요.\n파티맺기, 길드 설립 등 기본적인 내용을 언제든 보실 수 있습니다.",
+        "en-US": "[Lime Evenor]\nFor basic information, try using the Tips Window.\nYou can view basic content like forming parties, creating clans, etc., at any time.",
+        "pt-BR": "[Lenore]\nPara informações básicas, tente usar a Janela de Dicas.\nVocê pode ver conteúdos básicos como formar grupos, criar clãs, etc., a qualquer momento.",
+        "es-ES": "[Lime Evenor]\nPara información básica, intenta usar la Ventana de Consejos.\nPuedes ver contenidos básicos como formar grupos, crear clanes, etc., en cualquier momento."
     },
     "bEe7DA": {
-        "ko": "[라임 이베노르]\n메뉴에서 팁박스 아이콘을 클릭하거나, 단축키 Alt + D 를 이용해 불러낼 수 있습니다.\n지금 불러낼테니 한번 보시겠어요?",
-        "en": "[Lime Evenor]\nYou can open the Tips Window by clicking the icon in the menu or using the Alt + D shortcut.\nI'll open it for you now, would you like to take a look?",
-        "pt": "[Lenore]\nVocê pode abrir a Janela de Dicas clicando no ícone no menu ou usando o atalho Alt + D.\nVou abri-la para você agora, gostaria de dar uma olhada?",
-        "es": "[Lime Evenor]\nPuedes abrir la Ventana de Consejos haciendo clic en el ícono en el menú o usando el atajo Alt + D.\nLa abriré para ti ahora, ¿te gustaría echar un vistazo?"
+        "ko-KR": "[라임 이베노르]\n메뉴에서 팁박스 아이콘을 클릭하거나, 단축키 Alt + D 를 이용해 불러낼 수 있습니다.\n지금 불러낼테니 한번 보시겠어요?",
+        "en-US": "[Lime Evenor]\nYou can open the Tips Window by clicking the icon in the menu or using the Alt + D shortcut.\nI'll open it for you now, would you like to take a look?",
+        "pt-BR": "[Lenore]\nVocê pode abrir a Janela de Dicas clicando no ícone no menu ou usando o atalho Alt + D.\nVou abri-la para você agora, gostaria de dar uma olhada?",
+        "es-ES": "[Lime Evenor]\nPuedes abrir la Ventana de Consejos haciendo clic en el ícono en el menú o usando el atajo Alt + D.\nLa abriré para ti ahora, ¿te gustaría echar un vistazo?"
     },
     "bUe7DA": {
-        "ko": "[라임 이베노르]\n지역을 이동하는 방법은 기본적으로 직접 걸어서 이동하는 방법이 있습니다.\n두번째는 각 도시마다 존재하는 카프라나 존다의 이동 서비스를 이용하는 것이죠.",
-        "en": "[Lime Evenor]\nThe most basic way to move between maps is, of course, walking.\nYou can use the teleport service from Kafra or Zonda, available in each city.",
-        "pt": "[Lenore]\nO mais básico de se mover entre mapas é, claro, andando.\nVocê pode usar o serviço de teleporte da Kafra ou Zonda, disponível em cada cidade.",
-        "es": "[Lime Evenor]\nLo más básico para moverse entre mapas es, por supuesto, caminando.\nPuedes usar el servicio de teletransporte de la Kafra o Zonda, disponible en cada ciudad."
+        "ko-KR": "[라임 이베노르]\n지역을 이동하는 방법은 기본적으로 직접 걸어서 이동하는 방법이 있습니다.\n두번째는 각 도시마다 존재하는 카프라나 존다의 이동 서비스를 이용하는 것이죠.",
+        "en-US": "[Lime Evenor]\nThe most basic way to move between maps is, of course, walking.\nYou can use the teleport service from Kafra or Zonda, available in each city.",
+        "pt-BR": "[Lenore]\nO mais básico de se mover entre mapas é, claro, andando.\nVocê pode usar o serviço de teleporte da Kafra ou Zonda, disponível em cada cidade.",
+        "es-ES": "[Lime Evenor]\nLo más básico para moverse entre mapas es, por supuesto, caminando.\nPuedes usar el servicio de teletransporte de la Kafra o Zonda, disponible en cada ciudad."
     },
     "bke7DA": {
-        "ko": "[라임 이베노르]\n^4D4DFF월드보기(Ctrl + `)^000000로 월드맵을 연 다음, 원하는 지역을 선택한 뒤\n^4D4DFF월드이동 이용권^000000이나 특정 재화를 사용해 이동하는 방법도 있죠.",
-        "en": "[Lime Evenor]\nYou can also open the World Map using ^4D4DFFCtrl + `^000000, select the desired map,\nand then move using a ^4D4DFFWorld Tour Ticket^000000 or Nyangvine.",
-        "pt": "[Lenore]\nVocê também pode abrir o Mapa-Múndi usando ^4D4DFFCtrl + `^000000, selecionar o mapa desejado,\ne então se mover usando um ^4D4DFFPassaporte^000000 ou MiauMiau.",
-        "es": "[Lime Evenor]\nTambién puedes abrir el Mapamundi usando ^4D4DFFCtrl + `^000000, seleccionar el mapa deseado,\ny luego moverte usando un ^4D4DFFBoleto de Viaje Mundial^000000 o Miaufruto."
+        "ko-KR": "[라임 이베노르]\n^4D4DFF월드보기(Ctrl + `)^000000로 월드맵을 연 다음, 원하는 지역을 선택한 뒤\n^4D4DFF월드이동 이용권^000000이나 특정 재화를 사용해 이동하는 방법도 있죠.",
+        "en-US": "[Lime Evenor]\nYou can also open the World Map using ^4D4DFFCtrl + `^000000, select the desired map,\nand then move using a ^4D4DFFWorld Tour Ticket^000000 or Nyangvine.",
+        "pt-BR": "[Lenore]\nVocê também pode abrir o Mapa-Múndi usando ^4D4DFFCtrl + `^000000, selecionar o mapa desejado,\ne então se mover usando um ^4D4DFFPassaporte^000000 ou MiauMiau.",
+        "es-ES": "[Lime Evenor]\nTambién puedes abrir el Mapamundi usando ^4D4DFFCtrl + `^000000, seleccionar el mapa deseado,\ny luego moverte usando un ^4D4DFFBoleto de Viaje Mundial^000000 o Miaufruto."
     },
     "b0e7DA": {
-        "ko": "[라임 이베노르]\n월드맵에서 도시를 선택하면 해당 도시의 카프라나 존다가 어느 지역으로 이동 서비스를 해주는지 한 눈에 알 수 있답니다.\n월드맵은 많은 정보를 가지고 있으니 틈틈히 보세요.",
-        "en": "[Lime Evenor]\nIf you select a city on the World Map, you can see at a glance which maps that city's Kafra or Zonda provides teleport service to.\nThe World Map contains a lot of information, so use it often.",
-        "pt": "[Lenore]\nSe você selecionar uma cidade no Mapa-Múndi, poderá ver de relance para quais mapas a Kafra ou Zonda daquela cidade fornece serviço de teleporte.\nO Mapa-Múndi contém muita informação, então use-o com frequência.",
-        "es": "[Lime Evenor]\nSi seleccionas una ciudad en el Mapamundi, podrás ver de un vistazo a qué mapas la Kafra o Zonda de esa ciudad proporcionan servicio de teletransporte.\nEl Mapamundi contiene mucha información, así que úsalo con frecuencia."
+        "ko-KR": "[라임 이베노르]\n월드맵에서 도시를 선택하면 해당 도시의 카프라나 존다가 어느 지역으로 이동 서비스를 해주는지 한 눈에 알 수 있답니다.\n월드맵은 많은 정보를 가지고 있으니 틈틈히 보세요.",
+        "en-US": "[Lime Evenor]\nIf you select a city on the World Map, you can see at a glance which maps that city's Kafra or Zonda provides teleport service to.\nThe World Map contains a lot of information, so use it often.",
+        "pt-BR": "[Lenore]\nSe você selecionar uma cidade no Mapa-Múndi, poderá ver de relance para quais mapas a Kafra ou Zonda daquela cidade fornece serviço de teleporte.\nO Mapa-Múndi contém muita informação, então use-o com frequência.",
+        "es-ES": "[Lime Evenor]\nSi seleccionas una ciudad en el Mapamundi, podrás ver de un vistazo a qué mapas la Kafra o Zonda de esa ciudad proporcionan servicio de teletransporte.\nEl Mapamundi contiene mucha información, así que úsalo con frecuencia."
     },
     "cEe7DA": {
-        "ko": "[라임 이베노르]\n그렇군요. 상위 직업으로 전직하려면 보통은 각 직업의 직업길드에서 전직을 하지만 ….\n부스터 프로모션 대상자들은 특수 경우이기 때문에 전용 전직요원을 통해서만 전직할 수 있습니다.",
-        "en": "[Lime Evenor]\nI see. Normally, to change jobs, you would go to the guild, but...\nBooster Event participants are a special case, so you can only change jobs through the Former Agent.",
-        "pt": "[Lenore]\nEntendo. Normalmente, para mudar de classe, você iria até a guilda, mas...\nParticipantes do Evento de Apoio são um caso especial, então você só pode mudar de classe através do Oficial de Classe.",
-        "es": "[Lime Evenor]\nEntiendo. Normalmente, para cambiar de clase, irías al gremio, pero...\nLos participantes del Evento de Apoyo son un caso especial, así que solo puedes cambiar de clase a través del Antiguo Agente."
+        "ko-KR": "[라임 이베노르]\n그렇군요. 상위 직업으로 전직하려면 보통은 각 직업의 직업길드에서 전직을 하지만 ….\n부스터 프로모션 대상자들은 특수 경우이기 때문에 전용 전직요원을 통해서만 전직할 수 있습니다.",
+        "en-US": "[Lime Evenor]\nI see. Normally, to change jobs, you would go to the guild, but...\nBooster Event participants are a special case, so you can only change jobs through the Former Agent.",
+        "pt-BR": "[Lenore]\nEntendo. Normalmente, para mudar de classe, você iria até a guilda, mas...\nParticipantes do Evento de Apoio são um caso especial, então você só pode mudar de classe através do Oficial de Classe.",
+        "es-ES": "[Lime Evenor]\nEntiendo. Normalmente, para cambiar de clase, irías al gremio, pero...\nLos participantes del Evento de Apoyo son un caso especial, así que solo puedes cambiar de clase a través del Antiguo Agente."
     },
     "cUe7DA": {
-        "ko": "[라임 이베노르]\n전직요원을 불러드릴까요?",
-        "en": "[Lime Evenor]\nShall I summon the Former Agent?",
-        "pt": "[Lenore]\nDevo invocar o Oficial de Classe?",
-        "es": "[Lime Evenor]\n¿Debo invocar al Antiguo Agente?"
+        "ko-KR": "[라임 이베노르]\n전직요원을 불러드릴까요?",
+        "en-US": "[Lime Evenor]\nShall I summon the Former Agent?",
+        "pt-BR": "[Lenore]\nDevo invocar o Oficial de Classe?",
+        "es-ES": "[Lime Evenor]\n¿Debo invocar al Antiguo Agente?"
     },
     "cke7DA": {
-        "ko": "전직요원을 불러주세요.",
-        "en": "Summon the Former Agent.",
-        "pt": "Invoque o Oficial de Classe.",
-        "es": "Invoca al Antiguo Agente."
+        "ko-KR": "전직요원을 불러주세요.",
+        "en-US": "Summon the Former Agent.",
+        "pt-BR": "Invoque o Oficial de Classe.",
+        "es-ES": "Invoca al Antiguo Agente."
     },
     "c0e7DA": {
-        "ko": "아니요.",
-        "en": "No.",
-        "pt": "Não.",
-        "es": "No."
+        "ko-KR": "아니요.",
+        "en-US": "No.",
+        "pt-BR": "Não.",
+        "es-ES": "No."
     },
     "dEe7DA": {
-        "ko": "[라임 이베노르]\n전직요원을 부르겠습니다.",
-        "en": "[Lime Evenor]\nI will summon the Former Agent.",
-        "pt": "[Lenore]\nInvocarei o Oficial de Classe.",
-        "es": "[Lime Evenor]\nInvocaré al Antiguo Agente."
+        "ko-KR": "[라임 이베노르]\n전직요원을 부르겠습니다.",
+        "en-US": "[Lime Evenor]\nI will summon the Former Agent.",
+        "pt-BR": "[Lenore]\nInvocarei o Oficial de Classe.",
+        "es-ES": "[Lime Evenor]\nInvocaré al Antiguo Agente."
     },
     "dUe7DA": {
-        "ko": "[라임 이베노르]\n알겠습니다.\n다른 필요한 사항이 있으면 또 불러주세요.",
-        "en": "[Lime Evenor]\nUnderstood.\nIf you need anything else, please call me again.",
-        "pt": "[Lenore]\nEntendido.\nSe precisar de mais alguma coisa, por favor me chame novamente.",
-        "es": "[Lime Evenor]\nEntendido.\nSi necesitas algo más, por favor llámame de nuevo."
+        "ko-KR": "[라임 이베노르]\n알겠습니다.\n다른 필요한 사항이 있으면 또 불러주세요.",
+        "en-US": "[Lime Evenor]\nUnderstood.\nIf you need anything else, please call me again.",
+        "pt-BR": "[Lenore]\nEntendido.\nSe precisar de mais alguma coisa, por favor me chame novamente.",
+        "es-ES": "[Lime Evenor]\nEntendido.\nSi necesitas algo más, por favor llámame de nuevo."
     },
     "dke7DA": {
-        "ko": "[라임 이베노르]\n프론테라로 보내드릴까요?\n부스터 프로모션 지원 지역으로 보내드리겠습니다.",
-        "en": "[Lime Evenor]\nShall I send you to Prontera?\nI'll send you to the Booster building.",
-        "pt": "[Lenore]\nDevo enviar você para Prontera?\nEnviarei você para o prédio de Apoio.",
-        "es": "[Lime Evenor]\n¿Debo enviarte a Prontera?\nTe enviaré al edificio de Apoyo."
+        "ko-KR": "[라임 이베노르]\n프론테라로 보내드릴까요?\n부스터 프로모션 지원 지역으로 보내드리겠습니다.",
+        "en-US": "[Lime Evenor]\nShall I send you to Prontera?\nI'll send you to the Booster building.",
+        "pt-BR": "[Lenore]\nDevo enviar você para Prontera?\nEnviarei você para o prédio de Apoio.",
+        "es-ES": "[Lime Evenor]\n¿Debo enviarte a Prontera?\nTe enviaré al edificio de Apoyo."
     },
     "d0e7DA": {
-        "ko": "프론테라로 지금 이동",
-        "en": "Go to Prontera now",
-        "pt": "Ir para Prontera agora",
-        "es": "Ir a Prontera ahora"
+        "ko-KR": "프론테라로 지금 이동",
+        "en-US": "Go to Prontera now",
+        "pt-BR": "Ir para Prontera agora",
+        "es-ES": "Ir a Prontera ahora"
     },
     "eEe7DA": {
-        "ko": "나중에 이동",
-        "en": "Go later",
-        "pt": "Ir depois",
-        "es": "Ir después"
+        "ko-KR": "나중에 이동",
+        "en-US": "Go later",
+        "pt-BR": "Ir depois",
+        "es-ES": "Ir después"
     },
     "eUe7DA": {
-        "ko": "[라임 이베노르]\n알겠습니다.",
-        "en": "[Lime Evenor]\nUnderstood.",
-        "pt": "[Lenore]\nEntendido.",
-        "es": "[Lime Evenor]\nEntendido."
+        "ko-KR": "[라임 이베노르]\n알겠습니다.",
+        "en-US": "[Lime Evenor]\nUnderstood.",
+        "pt-BR": "[Lenore]\nEntendido.",
+        "es-ES": "[Lime Evenor]\nEntendido."
     },
     "eke7DA": {
-        "ko": "[라임 이베노르]\n그럼 나중에 다시 불러주세요.",
-        "en": "[Lime Evenor]\nPlease call me again later, then.",
-        "pt": "[Lenore]\nPor favor, me chame novamente mais tarde então.",
-        "es": "[Lime Evenor]\nPor favor, llámame de nuevo más tarde entonces."
+        "ko-KR": "[라임 이베노르]\n그럼 나중에 다시 불러주세요.",
+        "en-US": "[Lime Evenor]\nPlease call me again later, then.",
+        "pt-BR": "[Lenore]\nPor favor, me chame novamente mais tarde então.",
+        "es-ES": "[Lime Evenor]\nPor favor, llámame de nuevo más tarde entonces."
     }
 }

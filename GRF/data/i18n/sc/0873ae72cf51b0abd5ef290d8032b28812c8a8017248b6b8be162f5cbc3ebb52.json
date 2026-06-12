@@ -1,42 +1,42 @@
 {
     "gMDYCQ": {
-        "en": "Traveling Merchant",
-        "pt": "Ambulante",
-        "es": "Comerciante ambulante"
+        "en-US": "Traveling Merchant",
+        "pt-BR": "Ambulante",
+        "es-ES": "Comerciante ambulante"
     },
     "gcDYCQ": {
-        "en": "[Traveling Merchant]\nHello! Do you want to sell your items? Or buy the items I have?",
-        "pt": "[Ambulante]\nOlá! Quer vender seus itens ou gostaria de comprar algo?",
-        "es": "[Comerciante ambulante]\n¡Hola! ¿Quieres vender tus objetos? ¿O comprar los objetos que tengo?"
+        "en-US": "[Traveling Merchant]\nHello! Do you want to sell your items? Or buy the items I have?",
+        "pt-BR": "[Ambulante]\nOlá! Quer vender seus itens ou gostaria de comprar algo?",
+        "es-ES": "[Comerciante ambulante]\n¡Hola! ¿Quieres vender tus objetos? ¿O comprar los objetos que tengo?"
     },
     "gsDYCQ": {
-        "en": "Buy Consumables",
-        "pt": "Comprar Consumíveis",
-        "es": "Comprar consumibles."
+        "en-US": "Buy Consumables",
+        "pt-BR": "Comprar Consumíveis",
+        "es-ES": "Comprar consumibles."
     },
     "g8DYCQ": {
-        "en": "Buy Arrows",
-        "pt": "Comprar Munições",
-        "es": "Comprar flechas."
+        "en-US": "Buy Arrows",
+        "pt-BR": "Comprar Munições",
+        "es-ES": "Comprar flechas."
     },
     "hMDYCQ": {
-        "en": "Sell Items",
-        "pt": "Vender itens",
-        "es": "Vender objetos."
+        "en-US": "Sell Items",
+        "pt-BR": "Vender itens",
+        "es-ES": "Vender objetos."
     },
     "hcDYCQ": {
-        "en": "I don't need anything.",
-        "pt": "Não preciso de nada",
-        "es": "No veo nada."
+        "en-US": "I don't need anything.",
+        "pt-BR": "Não preciso de nada",
+        "es-ES": "No veo nada."
     },
     "hsDYCQ": {
-        "en": "[Traveling Merchant]\nThank you for your patronage!",
-        "pt": "[Ambulante]\nObrigado!",
-        "es": "[Comerciante ambulante]\n¡Gracias por tu apoyo!"
+        "en-US": "[Traveling Merchant]\nThank you for your patronage!",
+        "pt-BR": "[Ambulante]\nObrigado!",
+        "es-ES": "[Comerciante ambulante]\n¡Gracias por tu apoyo!"
     },
     "h8DYCQ": {
-        "en": "[Traveling Merchant]\nPlease call me again if you need me.",
-        "pt": "[Ambulante]\nMe chamce se necessário.",
-        "es": "[Comerciante ambulante]\nLlámame de nuevo si me necesitas."
+        "en-US": "[Traveling Merchant]\nPlease call me again if you need me.",
+        "pt-BR": "[Ambulante]\nMe chamce se necessário.",
+        "es-ES": "[Comerciante ambulante]\nLlámame de nuevo si me necesitas."
     }
 }

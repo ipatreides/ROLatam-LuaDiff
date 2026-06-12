@@ -1,87 +1,87 @@
 {
     "wBbx": {
-        "en": "Dead Man",
-        "pt": "Cadáver",
-        "es": "Cadáver"
+        "en-US": "Dead Man",
+        "pt-BR": "Cadáver",
+        "es-ES": "Cadáver"
     },
     "wRbx": {
-        "en": "Chubby Arclouse",
-        "pt": "Arclouse Gorducho",
-        "es": "Arclouse Gordinflón"
+        "en-US": "Chubby Arclouse",
+        "pt-BR": "Arclouse Gorducho",
+        "es-ES": "Arclouse Gordinflón"
     },
     "whbx": {
-        "en": "Fat Arclouse",
-        "pt": "Arclouse Corpulento",
-        "es": "Arclouse Corpulento"
+        "en-US": "Fat Arclouse",
+        "pt-BR": "Arclouse Corpulento",
+        "es-ES": "Arclouse Corpulento"
     },
     "wxbx": {
-        "en": "Bloody Arclouse",
-        "pt": "Arclouse Sangrento",
-        "es": "Arclouse Sangriento"
+        "en-US": "Bloody Arclouse",
+        "pt-BR": "Arclouse Sangrento",
+        "es-ES": "Arclouse Sangriento"
     },
     "xBbx": {
-        "en": "Fleshy Arclouse",
-        "pt": "Arclouse Viscoso",
-        "es": "Arclouse Viscoso"
+        "en-US": "Fleshy Arclouse",
+        "pt-BR": "Arclouse Viscoso",
+        "es-ES": "Arclouse Viscoso"
     },
     "xRbx": {
-        "en": "Hungry Arclouse",
-        "pt": "Arclouse Faminto",
-        "es": "Arclouse Hambriento"
+        "en-US": "Hungry Arclouse",
+        "pt-BR": "Arclouse Faminto",
+        "es-ES": "Arclouse Hambriento"
     },
     "xhbx": {
-        "en": "Starving Arclouse",
-        "pt": "Arclouse Sedento",
-        "es": "Arclouse Sediento"
+        "en-US": "Starving Arclouse",
+        "pt-BR": "Arclouse Sedento",
+        "es-ES": "Arclouse Sediento"
     },
     "xxbx": {
-        "en": "A Questionable Device",
-        "pt": "Dispositivo Estranho",
-        "es": "Dispositivo Extraño"
+        "en-US": "A Questionable Device",
+        "pt-BR": "Dispositivo Estranho",
+        "es-ES": "Dispositivo Extraño"
     },
     "yBbx": {
-        "en": "[System Message]\nEmergency Protocol activated. The user will be able to run RT-223.",
-        "pt": "[Mensagem do Sistema]\nProtocolo de Emergência iniciado... O usuário deve executar o procedimento RT-223.",
-        "es": "[Mensaje del Sistema]\nProtocolo de Emergencia iniciado... El usuario debe ejecutar el procedimiento RT-223."
+        "en-US": "[System Message]\nEmergency Protocol activated. The user will be able to run RT-223.",
+        "pt-BR": "[Mensagem do Sistema]\nProtocolo de Emergência iniciado... O usuário deve executar o procedimento RT-223.",
+        "es-ES": "[Mensaje del Sistema]\nProtocolo de Emergencia iniciado... El usuario debe ejecutar el procedimiento RT-223."
     },
     "yRbx": {
-        "en": "Do not run.",
-        "pt": "Cancelar.",
-        "es": "Cancelar."
+        "en-US": "Do not run.",
+        "pt-BR": "Cancelar.",
+        "es-ES": "Cancelar."
     },
     "yhbx": {
-        "en": "Run.",
-        "pt": "Executar.",
-        "es": "Ejecutar."
+        "en-US": "Run.",
+        "pt-BR": "Executar.",
+        "es-ES": "Ejecutar."
     },
     "yxbx": {
-        "en": "[System Message]\nAll personnel should act in accordance with the emergency rules.",
-        "pt": "[Mensagem do Sistema]\nTodos devem agir de acordo com as regras de segurança.",
-        "es": "[Mensaje del Sistema]\nTodos deben actuar de acuerdo con las reglas de seguridad."
+        "en-US": "[System Message]\nAll personnel should act in accordance with the emergency rules.",
+        "pt-BR": "[Mensagem do Sistema]\nTodos devem agir de acordo com as regras de segurança.",
+        "es-ES": "[Mensaje del Sistema]\nTodos deben actuar de acuerdo con las reglas de seguridad."
     },
     "zBbx": {
-        "en": "[System Message]\nRunning RT-223 to the user. Standby mode will be activated after this process.",
-        "pt": "[Mensagem do Sistema]\nIniciando procedimento RT-223. O Modo de suspensão será ativado após o processo.",
-        "es": "[Mensaje del Sistema]\nIniciando procedimiento RT-223. El Modo de suspensión se activará después del proceso."
+        "en-US": "[System Message]\nRunning RT-223 to the user. Standby mode will be activated after this process.",
+        "pt-BR": "[Mensagem do Sistema]\nIniciando procedimento RT-223. O Modo de suspensão será ativado após o processo.",
+        "es-ES": "[Mensaje del Sistema]\nIniciando procedimiento RT-223. El Modo de suspensión se activará después del proceso."
     },
     "zRbx": {
-        "en": "All personnel should act in accordance with the emergency rules.",
-        "pt": "Todos devem agir de acordo com as regras de segurança.",
-        "es": "Todos deben actuar de acuerdo con las reglas de seguridad."
+        "en-US": "All personnel should act in accordance with the emergency rules.",
+        "pt-BR": "Todos devem agir de acordo com as regras de segurança.",
+        "es-ES": "Todos deben actuar de acuerdo con las reglas de seguridad."
     },
     "zhbx": {
-        "en": "Emergency Protocol... Activated.. to.. RT..017... Cooldown... 1 hour......",
-        "pt": "Protocolo de Emergência... RT-017... Ativado... Tempo de espera de 1 hora.",
-        "es": "Protocolo de Emergencia... RT-017... Activado... Tiempo de espera de 1 hora."
+        "en-US": "Emergency Protocol... Activated.. to.. RT..017... Cooldown... 1 hour......",
+        "pt-BR": "Protocolo de Emergência... RT-017... Ativado... Tempo de espera de 1 hora.",
+        "es-ES": "Protocolo de Emergencia... RT-017... Activado... Tiempo de espera de 1 hora."
     },
     "zxbx": {
-        "en": "... Current... Required... Cool.. Down..Time..",
-        "pt": "Tempo de espera... em andamento...",
-        "es": "Tiempo de espera... en curso..."
+        "en-US": "... Current... Required... Cool.. Down..Time..",
+        "pt-BR": "Tempo de espera... em andamento...",
+        "es-ES": "Tiempo de espera... en curso..."
     },
     "0Bbx": {
-        "en": "Activate...according...to...emergency......",
-        "pt": "Ativado... emergência...",
-        "es": "Activado... emergencia..."
+        "en-US": "Activate...according...to...emergency......",
+        "pt-BR": "Ativado... emergência...",
+        "es-ES": "Activado... emergencia..."
     }
 }

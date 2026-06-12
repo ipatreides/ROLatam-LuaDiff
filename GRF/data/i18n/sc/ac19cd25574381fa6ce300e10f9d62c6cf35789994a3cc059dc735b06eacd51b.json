@@ -1,260 +1,260 @@
 {
     "YCGVDA": {
-        "ko": "Mission Board",
-        "en": "Mission Board",
-        "pt": "Quadro de Missões",
-        "es": "Tablero de Misiones"
+        "ko-KR": "Mission Board",
+        "en-US": "Mission Board",
+        "pt-BR": "Quadro de Missões",
+        "es-ES": "Tablero de Misiones"
     },
     "YSGVDA": {
-        "ko": "- 진행할 수 없습니다 -",
-        "en": "- Cannot proceed -",
-        "pt": "- Não é possível prosseguir -",
-        "es": "- No se puede proceder -"
+        "ko-KR": "- 진행할 수 없습니다 -",
+        "en-US": "- Cannot proceed -",
+        "pt-BR": "- Não é possível prosseguir -",
+        "es-ES": "- No se puede proceder -"
     },
     "YiGVDA": {
-        "ko": "[Mission Board]\n이 Mission Board를 사용하려면 안내서가 필요합니다.",
-        "en": "[Mission Board]\nA guide is needed to use this Mission Board.",
-        "pt": "[Quadro de Missões]\nÉ necessário um Passe para usar este Quadro de Missões.",
-        "es": "[Tablero de Misiones]\nSe necesita una Guía para usar este Tablero de Misiones."
+        "ko-KR": "[Mission Board]\n이 Mission Board를 사용하려면 안내서가 필요합니다.",
+        "en-US": "[Mission Board]\nA guide is needed to use this Mission Board.",
+        "pt-BR": "[Quadro de Missões]\nÉ necessário um Passe para usar este Quadro de Missões.",
+        "es-ES": "[Tablero de Misiones]\nSe necesita una Guía para usar este Tablero de Misiones."
     },
     "YyGVDA": {
-        "ko": "[Mission Board]\n사용 전 Mission Board 이용 규칙을 자세히 읽어 주세요.",
-        "en": "[Mission Board]\nPlease read the Mission Board usage rules carefully before use.",
-        "pt": "[Quadro de Missões]\nPor favor, leia as regras de uso do Quadro de Missões com atenção antes de usar.",
-        "es": "[Tablero de Misiones]\nPor favor, lea las reglas de uso del Tablero de Misiones con atención antes de usar."
+        "ko-KR": "[Mission Board]\n사용 전 Mission Board 이용 규칙을 자세히 읽어 주세요.",
+        "en-US": "[Mission Board]\nPlease read the Mission Board usage rules carefully before use.",
+        "pt-BR": "[Quadro de Missões]\nPor favor, leia as regras de uso do Quadro de Missões com atenção antes de usar.",
+        "es-ES": "[Tablero de Misiones]\nPor favor, lea las reglas de uso del Tablero de Misiones con atención antes de usar."
     },
     "ZCGVDA": {
-        "ko": "[Mission Board]\n사용 방법\n1. Mission Board에는 Daily, Weekly, Full Time Event 총 3종류의 퀘스트가 있습니다.\n2. Daily 및 Weekly 퀘스트는 매주 변경됩니다.\n3. Daily 퀘스트는 매일 새벽 4시에 초기화됩니다.\n4. 각 퀘스트마다 획득 가능한 Battle Pass EXP가 다르니 퀘스트 창에서 상세 내용을 확인해 주세요.",
-        "en": "[Mission Board]\nHow to Use\n1. The Mission Board has three types of quests: Daily, Weekly, and Full Time Event.\n2. Daily and Weekly quests change every week.\n3. Daily quests reset at 4:00 AM every day.\n4. Each quest provides a different amount of obtainable Battle Pass EXP. Please check the details in the quest window.",
-        "pt": "[Quadro de Missões]\nComo Usar\n1. O Quadro de Missões tem três tipos de missões: Diárias, Semanais e Integral.\n2. As missões Diárias e Semanais mudam toda semana.\n3. As missões Diárias resetam às 4h da manhã todos os dias.\n4. Cada missão fornece uma quantidade diferente de EXP do Passe de Batalha. Por favor, verifique os detalhes na janela da missão.",
-        "es": "[Tablero de Misiones]\nCómo Usar\n1. El Tablero de Misiones tiene tres tipos de misiones: Diarias, Semanales y de Evento Completo.\n2. Las misiones Diarias y Semanales cambian cada semana.\n3. Las misiones Diarias se reinician a las 4:00 AM todos los días.\n4. Cada misión proporciona una cantidad diferente de EXP del Pase de Batalla. Por favor, verifique los detalles en la ventana de la misión."
+        "ko-KR": "[Mission Board]\n사용 방법\n1. Mission Board에는 Daily, Weekly, Full Time Event 총 3종류의 퀘스트가 있습니다.\n2. Daily 및 Weekly 퀘스트는 매주 변경됩니다.\n3. Daily 퀘스트는 매일 새벽 4시에 초기화됩니다.\n4. 각 퀘스트마다 획득 가능한 Battle Pass EXP가 다르니 퀘스트 창에서 상세 내용을 확인해 주세요.",
+        "en-US": "[Mission Board]\nHow to Use\n1. The Mission Board has three types of quests: Daily, Weekly, and Full Time Event.\n2. Daily and Weekly quests change every week.\n3. Daily quests reset at 4:00 AM every day.\n4. Each quest provides a different amount of obtainable Battle Pass EXP. Please check the details in the quest window.",
+        "pt-BR": "[Quadro de Missões]\nComo Usar\n1. O Quadro de Missões tem três tipos de missões: Diárias, Semanais e Integral.\n2. As missões Diárias e Semanais mudam toda semana.\n3. As missões Diárias resetam às 4h da manhã todos os dias.\n4. Cada missão fornece uma quantidade diferente de EXP do Passe de Batalha. Por favor, verifique os detalhes na janela da missão.",
+        "es-ES": "[Tablero de Misiones]\nCómo Usar\n1. El Tablero de Misiones tiene tres tipos de misiones: Diarias, Semanales y de Evento Completo.\n2. Las misiones Diarias y Semanales cambian cada semana.\n3. Las misiones Diarias se reinician a las 4:00 AM todos los días.\n4. Cada misión proporciona una cantidad diferente de EXP del Pase de Batalla. Por favor, verifique los detalles en la ventana de la misión."
     },
     "ZSGVDA": {
-        "ko": "[Mission Board]\n진행할 항목을 선택해 주세요.",
-        "en": "[Mission Board]\nPlease select the item to proceed with.",
-        "pt": "[Quadro de Missões]\nPor favor, selecione uma opção.",
-        "es": "[Tablero de Misiones]\nPor favor, seleccione una opción."
+        "ko-KR": "[Mission Board]\n진행할 항목을 선택해 주세요.",
+        "en-US": "[Mission Board]\nPlease select the item to proceed with.",
+        "pt-BR": "[Quadro de Missões]\nPor favor, selecione uma opção.",
+        "es-ES": "[Tablero de Misiones]\nPor favor, seleccione una opción."
     },
     "ZiGVDA": {
-        "ko": "임무 수락",
-        "en": "Accept Mission",
-        "pt": "Aceitar Missão",
-        "es": "Aceptar Misión"
+        "ko-KR": "임무 수락",
+        "en-US": "Accept Mission",
+        "pt-BR": "Aceitar Missão",
+        "es-ES": "Aceptar Misión"
     },
     "ZyGVDA": {
-        "ko": "임무 보고",
-        "en": "Report Mission",
-        "pt": "Reportar Missão",
-        "es": "Reportar Misión"
+        "ko-KR": "임무 보고",
+        "en-US": "Report Mission",
+        "pt-BR": "Reportar Missão",
+        "es-ES": "Reportar Misión"
     },
     "aCGVDA": {
-        "ko": "취소",
-        "en": "Cancel",
-        "pt": "Cancelar",
-        "es": "Cancelar"
+        "ko-KR": "취소",
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
     },
     "aSGVDA": {
-        "ko": "일일 퀘스트 확인",
-        "en": "Check Daily Quest",
-        "pt": "Ver Missão Diária",
-        "es": "Ver Misión Diaria"
+        "ko-KR": "일일 퀘스트 확인",
+        "en-US": "Check Daily Quest",
+        "pt-BR": "Ver Missão Diária",
+        "es-ES": "Ver Misión Diaria"
     },
     "aiGVDA": {
-        "ko": "주간 퀘스트 확인",
-        "en": "Check Weekly Quest",
-        "pt": "Ver Missão Semanal",
-        "es": "Ver Misión Semanal"
+        "ko-KR": "주간 퀘스트 확인",
+        "en-US": "Check Weekly Quest",
+        "pt-BR": "Ver Missão Semanal",
+        "es-ES": "Ver Misión Semanal"
     },
     "ayGVDA": {
-        "ko": "Full Time Event 퀘스트 확인",
-        "en": "Check Full Time Event Quest",
-        "pt": "Ver Missão Integral",
-        "es": "Ver Misión de Evento Completo"
+        "ko-KR": "Full Time Event 퀘스트 확인",
+        "en-US": "Check Full Time Event Quest",
+        "pt-BR": "Ver Missão Integral",
+        "es-ES": "Ver Misión de Evento Completo"
     },
     "bCGVDA": {
-        "ko": "굳은 지상 딜리터 처치",
-        "en": "Defeat Solid Ground Deleter",
-        "pt": "Derrotar Deleter",
-        "es": "Derrotar Deleter"
+        "ko-KR": "굳은 지상 딜리터 처치",
+        "en-US": "Defeat Solid Ground Deleter",
+        "pt-BR": "Derrotar Deleter",
+        "es-ES": "Derrotar Deleter"
     },
     "bSGVDA": {
-        "ko": "아이스 고스트 처치",
-        "en": "Defeat Ice Ghost",
-        "pt": "Derrotar Xamã do Gelo",
-        "es": "Derrotar Chamán de Hielo"
+        "ko-KR": "아이스 고스트 처치",
+        "en-US": "Defeat Ice Ghost",
+        "pt-BR": "Derrotar Xamã do Gelo",
+        "es-ES": "Derrotar Chamán de Hielo"
     },
     "biGVDA": {
-        "ko": "플레임 고스트 처치",
-        "en": "Defeat Flame Ghost",
-        "pt": "Derrotar Xamã do Fogo",
-        "es": "Derrotar Chamán de Fuego"
+        "ko-KR": "플레임 고스트 처치",
+        "en-US": "Defeat Flame Ghost",
+        "pt-BR": "Derrotar Xamã do Fogo",
+        "es-ES": "Derrotar Chamán de Fuego"
     },
     "byGVDA": {
-        "ko": "[Mission Board]\n해당 퀘스트는 하루에 1회만 수행할 수 있습니다.",
-        "en": "[Mission Board]\nThis quest can only be completed once per day.",
-        "pt": "[Quadro de Missões]\nEsta missão só pode ser concluída uma vez por dia.",
-        "es": "[Tablero de Misiones]\nEsta misión solo se puede completar una vez al día."
+        "ko-KR": "[Mission Board]\n해당 퀘스트는 하루에 1회만 수행할 수 있습니다.",
+        "en-US": "[Mission Board]\nThis quest can only be completed once per day.",
+        "pt-BR": "[Quadro de Missões]\nEsta missão só pode ser concluída uma vez por dia.",
+        "es-ES": "[Tablero de Misiones]\nEsta misión solo se puede completar una vez al día."
     },
     "cCGVDA": {
-        "ko": "[Mission Board]\n굳은 지상 딜리터 5마리 처치\nEXP Battle Pass 3",
-        "en": "[Mission Board]\nDefeat 5 Solid Ground Deleters\nEXP Battle Pass 3",
-        "pt": "[Quadro de Missões]\nDerrote 5 Deleter\nEXP do Passe: 3",
-        "es": "[Tablero de Misiones]\nDerrota 5 Deleter\nEXP del Pase: 3"
+        "ko-KR": "[Mission Board]\n굳은 지상 딜리터 5마리 처치\nEXP Battle Pass 3",
+        "en-US": "[Mission Board]\nDefeat 5 Solid Ground Deleters\nEXP Battle Pass 3",
+        "pt-BR": "[Quadro de Missões]\nDerrote 5 Deleter\nEXP do Passe: 3",
+        "es-ES": "[Tablero de Misiones]\nDerrota 5 Deleter\nEXP del Pase: 3"
     },
     "cSGVDA": {
-        "ko": "[Mission Board]\n이미 진행 중인 퀘스트입니다.",
-        "en": "[Mission Board]\nYou are already progressing on this quest.",
-        "pt": "[Quadro de Missões]\nVocê já está fazendo esta missão.",
-        "es": "[Tablero de Misiones]\nYa estás realizando esta misión."
+        "ko-KR": "[Mission Board]\n이미 진행 중인 퀘스트입니다.",
+        "en-US": "[Mission Board]\nYou are already progressing on this quest.",
+        "pt-BR": "[Quadro de Missões]\nVocê já está fazendo esta missão.",
+        "es-ES": "[Tablero de Misiones]\nYa estás realizando esta misión."
     },
     "ciGVDA": {
-        "ko": "[Mission Board]\n아이스 고스트 5마리 처치\nEXP Battle Pass 4",
-        "en": "[Mission Board]\nDefeat 5 Ice Ghosts\nEXP Battle Pass 4",
-        "pt": "[Quadro de Missões]\nDerrote 5 Xamã do Gelo\nEXP do Passe: 4",
-        "es": "[Tablero de Misiones]\nDerrota 5 Chamán de Hielo\nEXP del Pase: 4"
+        "ko-KR": "[Mission Board]\n아이스 고스트 5마리 처치\nEXP Battle Pass 4",
+        "en-US": "[Mission Board]\nDefeat 5 Ice Ghosts\nEXP Battle Pass 4",
+        "pt-BR": "[Quadro de Missões]\nDerrote 5 Xamã do Gelo\nEXP do Passe: 4",
+        "es-ES": "[Tablero de Misiones]\nDerrota 5 Chamán de Hielo\nEXP del Pase: 4"
     },
     "cyGVDA": {
-        "ko": "[Mission Board]\n플레임 고스트 5마리 처치\nEXP Battle Pass 4",
-        "en": "[Mission Board]\nDefeat 5 Flame Ghosts\nEXP Battle Pass 4",
-        "pt": "[Quadro de Missões]\nDerrote 5 Xamã do Fogo\nEXP do Passe: 4",
-        "es": "[Tablero de Misiones]\nDerrota 5 Chamán de Fuego\nEXP del Pase: 4"
+        "ko-KR": "[Mission Board]\n플레임 고스트 5마리 처치\nEXP Battle Pass 4",
+        "en-US": "[Mission Board]\nDefeat 5 Flame Ghosts\nEXP Battle Pass 4",
+        "pt-BR": "[Quadro de Missões]\nDerrote 5 Xamã do Fogo\nEXP do Passe: 4",
+        "es-ES": "[Tablero de Misiones]\nDerrota 5 Chamán de Fuego\nEXP del Pase: 4"
     },
     "dCGVDA": {
-        "ko": "나흐트 지거 처치",
-        "en": "Defeat Naght Sieger",
-        "pt": "Derrotar Naght Sieger",
-        "es": "Derrotar Naght Sieger"
+        "ko-KR": "나흐트 지거 처치",
+        "en-US": "Defeat Naght Sieger",
+        "pt-BR": "Derrotar Naght Sieger",
+        "es-ES": "Derrotar Naght Sieger"
     },
     "dSGVDA": {
-        "ko": "자기 계발",
-        "en": "Self-improvement",
-        "pt": "Autoaperfeiçoamento",
-        "es": "Autosuperación"
+        "ko-KR": "자기 계발",
+        "en-US": "Self-improvement",
+        "pt-BR": "Autoaperfeiçoamento",
+        "es-ES": "Autosuperación"
     },
     "diGVDA": {
-        "ko": "[Mission Board]\n해당 퀘스트는 주 1회만 수행할 수 있습니다.",
-        "en": "[Mission Board]\nThis quest can only be completed once per week.",
-        "pt": "[Quadro de Missões]\nEsta missão só pode ser concluída uma vez por semana.",
-        "es": "[Tablero de Misiones]\nEsta misión solo se puede completar una vez por semana."
+        "ko-KR": "[Mission Board]\n해당 퀘스트는 주 1회만 수행할 수 있습니다.",
+        "en-US": "[Mission Board]\nThis quest can only be completed once per week.",
+        "pt-BR": "[Quadro de Missões]\nEsta missão só pode ser concluída uma vez por semana.",
+        "es-ES": "[Tablero de Misiones]\nEsta misión solo se puede completar una vez por semana."
     },
     "dyGVDA": {
-        "ko": "[Mission Board]\n나흐트 지거 1마리 처치\nEXP Battle Pass 20",
-        "en": "[Mission Board]\nDefeat 1 Naght Sieger\nEXP Battle Pass 20",
-        "pt": "[Quadro de Missões]\nDerrote 1 Naght Sieger\nEXP do Passe: 20",
-        "es": "[Tablero de Misiones]\nDerrota 1 Naght Sieger\nEXP del Pase: 20"
+        "ko-KR": "[Mission Board]\n나흐트 지거 1마리 처치\nEXP Battle Pass 20",
+        "en-US": "[Mission Board]\nDefeat 1 Naght Sieger\nEXP Battle Pass 20",
+        "pt-BR": "[Quadro de Missões]\nDerrote 1 Naght Sieger\nEXP do Passe: 20",
+        "es-ES": "[Tablero de Misiones]\nDerrota 1 Naght Sieger\nEXP del Pase: 20"
     },
     "eCGVDA": {
-        "ko": "[Mission Board]\n이미 진행 중인 퀘스트입니다.\n이번 주에는 1회만 진행할 수 있습니다!",
-        "en": "[Mission Board]\nYou are already progressing on this quest.\nYou can only proceed once this week!",
-        "pt": "[Quadro de Missões]\nVocê já está fazendo esta missão.\nVocê só pode prosseguir uma vez esta semana!",
-        "es": "[Tablero de Misiones]\nYa estás realizando esta misión.\n¡Solo puedes proceder una vez esta semana!"
+        "ko-KR": "[Mission Board]\n이미 진행 중인 퀘스트입니다.\n이번 주에는 1회만 진행할 수 있습니다!",
+        "en-US": "[Mission Board]\nYou are already progressing on this quest.\nYou can only proceed once this week!",
+        "pt-BR": "[Quadro de Missões]\nVocê já está fazendo esta missão.\nVocê só pode prosseguir uma vez esta semana!",
+        "es-ES": "[Tablero de Misiones]\nYa estás realizando esta misión.\n¡Solo puedes proceder una vez esta semana!"
     },
     "eSGVDA": {
-        "ko": "[Mission Board]\n캐릭터 레벨업 1회\nEXP Battle Pass 15",
-        "en": "[Mission Board]\nLevel up a character once\nEXP Battle Pass 15",
-        "pt": "[Quadro de Missões]\nSuba de nível um personagem uma vez.\nEXP do Passe: 15",
-        "es": "[Tablero de Misiones]\nSube de nivel un personaje una vez.\nEXP del Pase: 15"
+        "ko-KR": "[Mission Board]\n캐릭터 레벨업 1회\nEXP Battle Pass 15",
+        "en-US": "[Mission Board]\nLevel up a character once\nEXP Battle Pass 15",
+        "pt-BR": "[Quadro de Missões]\nSuba de nível um personagem uma vez.\nEXP do Passe: 15",
+        "es-ES": "[Tablero de Misiones]\nSube de nivel un personaje una vez.\nEXP del Pase: 15"
     },
     "eiGVDA": {
-        "ko": "[Mission Board]\n이미 진행 중인 퀘스트입니다.\n이번 주에는 1회만 진행할 수 있습니다.",
-        "en": "[Mission Board]\nYou are already progressing on this quest.\nYou can only proceed once this week.",
-        "pt": "[Quadro de Missões]\nVocê já está fazendo esta missão.\nVocê só pode prosseguir uma vez esta semana.",
-        "es": "[Tablero de Misiones]\nYa estás realizando esta misión.\nSolo puedes proceder una vez esta semana."
+        "ko-KR": "[Mission Board]\n이미 진행 중인 퀘스트입니다.\n이번 주에는 1회만 진행할 수 있습니다.",
+        "en-US": "[Mission Board]\nYou are already progressing on this quest.\nYou can only proceed once this week.",
+        "pt-BR": "[Quadro de Missões]\nVocê já está fazendo esta missão.\nVocê só pode prosseguir uma vez esta semana.",
+        "es-ES": "[Tablero de Misiones]\nYa estás realizando esta misión.\nSolo puedes proceder una vez esta semana."
     },
     "eyGVDA": {
-        "ko": "[Mission Board]\n이미 임무를 완료하여 더 이상 진행할 수 없습니다.",
-        "en": "[Mission Board]\nYou have already completed the mission and cannot proceed further.",
-        "pt": "[Quadro de Missões]\nVocê já completou a missão e não pode prosseguir mais.",
-        "es": "[Tablero de Misiones]\nYa has completado la misión y no puedes proceder más."
+        "ko-KR": "[Mission Board]\n이미 임무를 완료하여 더 이상 진행할 수 없습니다.",
+        "en-US": "[Mission Board]\nYou have already completed the mission and cannot proceed further.",
+        "pt-BR": "[Quadro de Missões]\nVocê já completou a missão e não pode prosseguir mais.",
+        "es-ES": "[Tablero de Misiones]\nYa has completado la misión y no puedes proceder más."
     },
     "fCGVDA": {
-        "ko": "[Mission Board]\n레벨 185 달성\nEXP Battle Pass 150",
-        "en": "[Mission Board]\nAchieve Level 185\nEXP Battle Pass 150",
-        "pt": "[Quadro de Missões]\nAtinja o Nível 185\nEXP do Passe: 150",
-        "es": "[Tablero de Misiones]\nAlcanza el Nivel 185\nEXP del Pase: 150"
+        "ko-KR": "[Mission Board]\n레벨 185 달성\nEXP Battle Pass 150",
+        "en-US": "[Mission Board]\nAchieve Level 185\nEXP Battle Pass 150",
+        "pt-BR": "[Quadro de Missões]\nAtinja o Nível 185\nEXP do Passe: 150",
+        "es-ES": "[Tablero de Misiones]\nAlcanza el Nivel 185\nEXP del Pase: 150"
     },
     "fSGVDA": {
-        "ko": "[Mission Board]\n이미 진행 중인 퀘스트입니다.\n이번 이벤트에서는 1회만 진행할 수 있습니다.",
-        "en": "[Mission Board]\nYou are already progressing on this quest.\nYou can only proceed once during this event.",
-        "pt": "[Quadro de Missões]\nVocê já está fazendo esta missão.\nVocê só pode prosseguir uma vez durante este evento.",
-        "es": "[Tablero de Misiones]\nYa estás realizando esta misión.\nSolo puedes proceder una vez durante este evento."
+        "ko-KR": "[Mission Board]\n이미 진행 중인 퀘스트입니다.\n이번 이벤트에서는 1회만 진행할 수 있습니다.",
+        "en-US": "[Mission Board]\nYou are already progressing on this quest.\nYou can only proceed once during this event.",
+        "pt-BR": "[Quadro de Missões]\nVocê já está fazendo esta missão.\nVocê só pode prosseguir uma vez durante este evento.",
+        "es-ES": "[Tablero de Misiones]\nYa estás realizando esta misión.\nSolo puedes proceder una vez durante este evento."
     },
     "fiGVDA": {
-        "ko": "일일 퀘스트 보고",
-        "en": "Report Daily Quest",
-        "pt": "Reportar Missão Diária",
-        "es": "Reportar Misión Diaria"
+        "ko-KR": "일일 퀘스트 보고",
+        "en-US": "Report Daily Quest",
+        "pt-BR": "Reportar Missão Diária",
+        "es-ES": "Reportar Misión Diaria"
     },
     "fyGVDA": {
-        "ko": "주간 퀘스트 보고",
-        "en": "Report Weekly Quest",
-        "pt": "Reportar Missão Semanal",
-        "es": "Reportar Misión Semanal"
+        "ko-KR": "주간 퀘스트 보고",
+        "en-US": "Report Weekly Quest",
+        "pt-BR": "Reportar Missão Semanal",
+        "es-ES": "Reportar Misión Semanal"
     },
     "gCGVDA": {
-        "ko": "Full Time Event 퀘스트 보고",
-        "en": "Report Full Time Event Quest",
-        "pt": "Reportar Missão Integral",
-        "es": "Reportar Misión de Evento Completo"
+        "ko-KR": "Full Time Event 퀘스트 보고",
+        "en-US": "Report Full Time Event Quest",
+        "pt-BR": "Reportar Missão Integral",
+        "es-ES": "Reportar Misión de Evento Completo"
     },
     "gSGVDA": {
-        "ko": "굳은 지상 딜리터 처치 의뢰",
-        "en": "Solid Ground Deleter Extermination Request",
-        "pt": "Caçar Deleter",
-        "es": "Cazar Deleter"
+        "ko-KR": "굳은 지상 딜리터 처치 의뢰",
+        "en-US": "Solid Ground Deleter Extermination Request",
+        "pt-BR": "Caçar Deleter",
+        "es-ES": "Cazar Deleter"
     },
     "giGVDA": {
-        "ko": "아이스 고스트 처치 의뢰",
-        "en": "Ice Ghost Extermination Request",
-        "pt": "Caçar Xamã do Gelo",
-        "es": "Cazar Chamán de Hielo"
+        "ko-KR": "아이스 고스트 처치 의뢰",
+        "en-US": "Ice Ghost Extermination Request",
+        "pt-BR": "Caçar Xamã do Gelo",
+        "es-ES": "Cazar Chamán de Hielo"
     },
     "gyGVDA": {
-        "ko": "플레임 고스트 처치 의뢰",
-        "en": "Flame Ghost Extermination Request",
-        "pt": "Caçar Xamã do Fogo",
-        "es": "Cazar Chamán de Fuego"
+        "ko-KR": "플레임 고스트 처치 의뢰",
+        "en-US": "Flame Ghost Extermination Request",
+        "pt-BR": "Caçar Xamã do Fogo",
+        "es-ES": "Cazar Chamán de Fuego"
     },
     "hCGVDA": {
-        "ko": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 3 지급",
-        "en": "[Mission Board]\nQuest Complete\nBattle Pass EXP 3 granted",
-        "pt": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 3 de EXP do Passe de Batalha",
-        "es": "[Tablero de Misiones]\nMisión Completada\nHas recibido 3 de EXP del Pase de Batalla"
+        "ko-KR": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 3 지급",
+        "en-US": "[Mission Board]\nQuest Complete\nBattle Pass EXP 3 granted",
+        "pt-BR": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 3 de EXP do Passe de Batalha",
+        "es-ES": "[Tablero de Misiones]\nMisión Completada\nHas recibido 3 de EXP del Pase de Batalla"
     },
     "hSGVDA": {
-        "ko": "[Mission Board]\n조건이 맞지 않습니다. 다시 확인해 주세요.",
-        "en": "[Mission Board]\nConditions do not match. Please check again.",
-        "pt": "[Quadro de Missões]\nAs condições não correspondem. Por favor, verifique novamente.",
-        "es": "[Tablero de Misiones]\nLas condiciones no coinciden. Por favor, verifique nuevamente."
+        "ko-KR": "[Mission Board]\n조건이 맞지 않습니다. 다시 확인해 주세요.",
+        "en-US": "[Mission Board]\nConditions do not match. Please check again.",
+        "pt-BR": "[Quadro de Missões]\nAs condições não correspondem. Por favor, verifique novamente.",
+        "es-ES": "[Tablero de Misiones]\nLas condiciones no coinciden. Por favor, verifique nuevamente."
     },
     "hiGVDA": {
-        "ko": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 4 지급",
-        "en": "[Mission Board]\nQuest Complete\nBattle Pass EXP 4 granted",
-        "pt": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 4 de EXP do Passe de Batalha",
-        "es": "[Tablero de Misiones]\nMisión Completada\nHas recibido 4 de EXP del Pase de Batalla"
+        "ko-KR": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 4 지급",
+        "en-US": "[Mission Board]\nQuest Complete\nBattle Pass EXP 4 granted",
+        "pt-BR": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 4 de EXP do Passe de Batalha",
+        "es-ES": "[Tablero de Misiones]\nMisión Completada\nHas recibido 4 de EXP del Pase de Batalla"
     },
     "hyGVDA": {
-        "ko": "나흐트 지거 처치 의뢰",
-        "en": "Naght Sieger Extermination Request",
-        "pt": "Caçar Naght Sieger",
-        "es": "Cazar Naght Sieger"
+        "ko-KR": "나흐트 지거 처치 의뢰",
+        "en-US": "Naght Sieger Extermination Request",
+        "pt-BR": "Caçar Naght Sieger",
+        "es-ES": "Cazar Naght Sieger"
     },
     "iCGVDA": {
-        "ko": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 20 지급",
-        "en": "[Mission Board]\nQuest Complete\nBattle Pass EXP 20 granted",
-        "pt": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 20 de EXP do Passe de Batalha",
-        "es": "[Tablero de Misiones]\nMisión Completada\nHas recibido 20 de EXP del Pase de Batalla"
+        "ko-KR": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 20 지급",
+        "en-US": "[Mission Board]\nQuest Complete\nBattle Pass EXP 20 granted",
+        "pt-BR": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 20 de EXP do Passe de Batalha",
+        "es-ES": "[Tablero de Misiones]\nMisión Completada\nHas recibido 20 de EXP del Pase de Batalla"
     },
     "iSGVDA": {
-        "ko": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 15 지급",
-        "en": "[Mission Board]\nQuest Complete\nBattle Pass EXP 15 granted",
-        "pt": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 15 de EXP do Passe de Batalha",
-        "es": "[Tablero de Misiones]\nMisión Completada\nHas recibido 15 de EXP del Pase de Batalla"
+        "ko-KR": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 15 지급",
+        "en-US": "[Mission Board]\nQuest Complete\nBattle Pass EXP 15 granted",
+        "pt-BR": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 15 de EXP do Passe de Batalha",
+        "es-ES": "[Tablero de Misiones]\nMisión Completada\nHas recibido 15 de EXP del Pase de Batalla"
     },
     "iiGVDA": {
-        "ko": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 150 지급",
-        "en": "[Mission Board]\nQuest Complete\nBattle Pass EXP 150 granted",
-        "pt": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 150 de EXP do Passe de Batalha",
-        "es": "[Tablero de Misiones]\nMisión Completada\nHas recibido 150 de EXP del Pase de Batalla"
+        "ko-KR": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 150 지급",
+        "en-US": "[Mission Board]\nQuest Complete\nBattle Pass EXP 150 granted",
+        "pt-BR": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 150 de EXP do Passe de Batalha",
+        "es-ES": "[Tablero de Misiones]\nMisión Completada\nHas recibido 150 de EXP del Pase de Batalla"
     }
 }

@@ -1,224 +1,224 @@
 {
     "gI2QDA": {
-        "ko": "스라토스",
-        "en": "Sratos",
-        "pt": "Sratos",
-        "es": "Sratos"
+        "ko-KR": "스라토스",
+        "en-US": "Sratos",
+        "pt-BR": "Sratos",
+        "es-ES": "Sratos"
     },
     "gY2QDA": {
-        "ko": "<등급강화사>",
-        "en": "<Grade-up Specialist>",
-        "pt": "<Enfeiteiro de Nível>",
-        "es": "<Enchantador de grado>"
+        "ko-KR": "<등급강화사>",
+        "en-US": "<Grade-up Specialist>",
+        "pt-BR": "<Enfeiteiro de Nível>",
+        "es-ES": "<Enchantador de grado>"
     },
     "go2QDA": {
-        "ko": "[스라토스]\n여, 오늘도 기적을 바라고 걸음해 주신 사랑하는 고객님.\n무엇을 도와줄까?",
-        "en": "[S'ratos]\nHey, dear customer, who came wishing for a miracle.\nHow may I help you today?",
-        "pt": "[Sratos]\nOlá, querido cliente que veio até aqui hoje na esperança de um milagre.\nEm que posso te ajudar?",
-        "es": "[Sratos]\nHola, querido cliente, que hoy también has venido con la esperanza de un milagro.\n¿En qué puedo ayudarte?"
+        "ko-KR": "[스라토스]\n여, 오늘도 기적을 바라고 걸음해 주신 사랑하는 고객님.\n무엇을 도와줄까?",
+        "en-US": "[S'ratos]\nHey, dear customer, who came wishing for a miracle.\nHow may I help you today?",
+        "pt-BR": "[Sratos]\nOlá, querido cliente que veio até aqui hoje na esperança de um milagre.\nEm que posso te ajudar?",
+        "es-ES": "[Sratos]\nHola, querido cliente, que hoy también has venido con la esperanza de un milagro.\n¿En qué puedo ayudarte?"
     },
     "g42QDA": {
-        "ko": "장비의 등급을 강화한다.",
-        "en": "Increase equipment grade.",
-        "pt": "Reforça o nível do equipamento.",
-        "es": "Mejora el grado del equipo."
+        "ko-KR": "장비의 등급을 강화한다.",
+        "en-US": "Increase equipment grade.",
+        "pt-BR": "Reforça o nível do equipamento.",
+        "es-ES": "Mejora el grado del equipo."
     },
     "hI2QDA": {
-        "ko": "에테르 보석 교환",
-        "en": "Ether Gem exchange",
-        "pt": "Troca de Gemas de Éter",
-        "es": "Intercambio de gemas de éter"
+        "ko-KR": "에테르 보석 교환",
+        "en-US": "Ether Gem exchange",
+        "pt-BR": "Troca de Gemas de Éter",
+        "es-ES": "Intercambio de gemas de éter"
     },
     "hY2QDA": {
-        "ko": "등급 강화란?",
-        "en": "What is Grade-up?",
-        "pt": "O que é o reforço de grau?",
-        "es": "¿Qué es la mejora de grado?"
+        "ko-KR": "등급 강화란?",
+        "en-US": "What is Grade-up?",
+        "pt-BR": "O que é o reforço de grau?",
+        "es-ES": "¿Qué es la mejora de grado?"
     },
     "ho2QDA": {
-        "ko": "[스라토스]\n우리 고객님. 장비의 등급을 강화하고 싶으시구나~.\n보석의 마력을 옮기는 작업은 쉽지 않아.",
-        "en": "[S'ratos]\nAh, you wish to enhance your equipment's grade~.\nTransferring a gem's mana isn't an easy task.",
-        "pt": "[Sratos]\nMeu cliente. Você quer reforçar o nível do equipamento, não é?\nTransferir a magia das gemas não é tarefa fácil.",
-        "es": "[Sratos]\nQuerido cliente. Así que quieres mejorar el nivel de tu equipo, ¿no?\nTransferir la magia de las gemas no es tarea fácil."
+        "ko-KR": "[스라토스]\n우리 고객님. 장비의 등급을 강화하고 싶으시구나~.\n보석의 마력을 옮기는 작업은 쉽지 않아.",
+        "en-US": "[S'ratos]\nAh, you wish to enhance your equipment's grade~.\nTransferring a gem's mana isn't an easy task.",
+        "pt-BR": "[Sratos]\nMeu cliente. Você quer reforçar o nível do equipamento, não é?\nTransferir a magia das gemas não é tarefa fácil.",
+        "es-ES": "[Sratos]\nQuerido cliente. Así que quieres mejorar el nivel de tu equipo, ¿no?\nTransferir la magia de las gemas no es tarea fácil."
     },
     "h42QDA": {
-        "ko": "[스라토스]\n그 자리에서 마력이 펑-! 하고 폭발할 수 있거든.\n그러면, 마력을 이어받을 무구도 같이 펑-! 하는 거야.",
-        "en": "[S'ratos]\nThey can unexpectedly blow up right in your face.\nAnd destroy your weapons and equipment along the way, too.",
-        "pt": "[Sratos]\nA magia pode explodir com um “pum!” bem ali.\nE aí, o equipamento que vai receber a magia também vai explodir com um “pum!”.",
-        "es": "[Sratos]\nPorque el poder mágico puede explotar ¡pum! en ese mismo momento.\nY entonces, el equipo que va a recibir ese poder también explota ¡pum!"
+        "ko-KR": "[스라토스]\n그 자리에서 마력이 펑-! 하고 폭발할 수 있거든.\n그러면, 마력을 이어받을 무구도 같이 펑-! 하는 거야.",
+        "en-US": "[S'ratos]\nThey can unexpectedly blow up right in your face.\nAnd destroy your weapons and equipment along the way, too.",
+        "pt-BR": "[Sratos]\nA magia pode explodir com um “pum!” bem ali.\nE aí, o equipamento que vai receber a magia também vai explodir com um “pum!”.",
+        "es-ES": "[Sratos]\nPorque el poder mágico puede explotar ¡pum! en ese mismo momento.\nY entonces, el equipo que va a recibir ese poder también explota ¡pum!"
     },
     "iI2QDA": {
-        "ko": "그래도 한다!",
-        "en": "I still want to do it!",
-        "pt": "Mesmo assim, vou fazer!",
-        "es": "¡Pero lo haré!"
+        "ko-KR": "그래도 한다!",
+        "en-US": "I still want to do it!",
+        "pt-BR": "Mesmo assim, vou fazer!",
+        "es-ES": "¡Pero lo haré!"
     },
     "iY2QDA": {
-        "ko": "고민 좀 해볼게.",
-        "en": "I'll think about it.",
-        "pt": "Vou pensar um pouco nisso.",
-        "es": "Voy a pensarlo un poco."
+        "ko-KR": "고민 좀 해볼게.",
+        "en-US": "I'll think about it.",
+        "pt-BR": "Vou pensar um pouco nisso.",
+        "es-ES": "Voy a pensarlo un poco."
     },
     "io2QDA": {
-        "ko": "[스라토스]\n용기있는 우리 고객님께 행운이 함께하기를!",
-        "en": "[S'ratos]\nMay luck be with my courageous customer!",
-        "pt": "[Sratos]\nQue a sorte esteja com você, nosso corajoso cliente!",
-        "es": "[Stratos]\n¡Que la suerte te acompañe, valiente cliente!"
+        "ko-KR": "[스라토스]\n용기있는 우리 고객님께 행운이 함께하기를!",
+        "en-US": "[S'ratos]\nMay luck be with my courageous customer!",
+        "pt-BR": "[Sratos]\nQue a sorte esteja com você, nosso corajoso cliente!",
+        "es-ES": "[Stratos]\n¡Que la suerte te acompañe, valiente cliente!"
     },
     "i42QDA": {
-        "ko": "[스라토스]\n언제든 도전할 용기가 생기면 다시 찾아와~",
-        "en": "[S'ratos]\nCome back whenever you're ready to take on a challenge~",
-        "pt": "[Sratos]\nQuando tiveres coragem de tentar, volta aqui~",
-        "es": "[Sratos]\nSi alguna vez te animas a intentarlo, vuelve a visitarme~"
+        "ko-KR": "[스라토스]\n언제든 도전할 용기가 생기면 다시 찾아와~",
+        "en-US": "[S'ratos]\nCome back whenever you're ready to take on a challenge~",
+        "pt-BR": "[Sratos]\nQuando tiveres coragem de tentar, volta aqui~",
+        "es-ES": "[Sratos]\nSi alguna vez te animas a intentarlo, vuelve a visitarme~"
     },
     "jI2QDA": {
-        "ko": "[스라토스]\n등급 강화에 사용되는 보석들이야.\n에텔 더스트와 베이스가 될 보석, 약간의 수수료를 준다면 에테르 보석으로 교환해 줄게.",
-        "en": "[S'ratos]\nThese are the gemstones used for Grade-up.\nI can trade the Ether gemstones used for Grade-up\nfor your Ether Dust, base gemstones and a small amount of service fee.",
-        "pt": "[Sratos]\nSão as gemas usadas para o reforço de nível.\nSe me deres um pouco de Pó de Éter e a gema que vai servir de base, troco por uma Gema de Éter.",
-        "es": "[Sratos]\nEstas son las gemas que se usan para subir de nivel.\nSi me das un poco de polvo de éter y la gema que vas a usar como base, te las cambio por gemas de éter."
+        "ko-KR": "[스라토스]\n등급 강화에 사용되는 보석들이야.\n에텔 더스트와 베이스가 될 보석, 약간의 수수료를 준다면 에테르 보석으로 교환해 줄게.",
+        "en-US": "[S'ratos]\nThese are the gemstones used for Grade-up.\nI can trade the Ether gemstones used for Grade-up\nfor your Ether Dust, base gemstones and a small amount of service fee.",
+        "pt-BR": "[Sratos]\nSão as gemas usadas para o reforço de nível.\nSe me deres um pouco de Pó de Éter e a gema que vai servir de base, troco por uma Gema de Éter.",
+        "es-ES": "[Sratos]\nEstas son las gemas que se usan para subir de nivel.\nSi me das un poco de polvo de éter y la gema que vas a usar como base, te las cambio por gemas de éter."
     },
     "jY2QDA": {
-        "ko": "[스라토스]\n간혹 순도 높은 마력을 잔뜩 품은 불안정한 보석류가 발견될 때가 있어.\n우리는 이걸 에테르 보석이라고 부르거든?",
-        "en": "[S'ratos]\nSometimes unstable gemstones overflowing with highly pure mana are found.\nWe call them the Ether gemstones.",
-        "pt": "[Sratos]\nÀs vezes, encontramos joias instáveis cheias de magia de alta pureza.\nNós chamamos isso de joias de Éter, sabe?",
-        "es": "[Stratos]\nDe vez en cuando se encuentran gemas inestables que contienen mucha magia de alta pureza.\n¿Sabes? A estas las llamamos gemas de éter."
+        "ko-KR": "[스라토스]\n간혹 순도 높은 마력을 잔뜩 품은 불안정한 보석류가 발견될 때가 있어.\n우리는 이걸 에테르 보석이라고 부르거든?",
+        "en-US": "[S'ratos]\nSometimes unstable gemstones overflowing with highly pure mana are found.\nWe call them the Ether gemstones.",
+        "pt-BR": "[Sratos]\nÀs vezes, encontramos joias instáveis cheias de magia de alta pureza.\nNós chamamos isso de joias de Éter, sabe?",
+        "es-ES": "[Stratos]\nDe vez en cuando se encuentran gemas inestables que contienen mucha magia de alta pureza.\n¿Sabes? A estas las llamamos gemas de éter."
     },
     "jo2QDA": {
-        "ko": "[스라토스]\n에테르 보석이 가진 마력을 고스란히 다른 무구로 전이시킬 수 있는데, 물론 약간의 위험부담이 있지.\n섬세해서 자칫하면 펑-! 하고 터져버리거든.",
-        "en": "[S'ratos]\nTheir Ether mana can be transferred to weapons and equipment, but there's a risk:\ntheir mana is so delicate that it can go off at even the slightest agitation.",
-        "pt": "[Sratos]\nÉ possível transferir toda a magia das Gemas de Éter para outra arma ou armadura, mas é claro que há um certo risco.\nElas são delicadas e, se não tomarmos cuidado, podem explodir com um “pum!”.",
-        "es": "[Sratos]\nSe puede transferir toda la magia que tienen las gemas de éter a otra arma, aunque, claro, hay un poco de riesgo.\nSon delicadas y, si no se tiene cuidado, ¡pum!, pueden explotar."
+        "ko-KR": "[스라토스]\n에테르 보석이 가진 마력을 고스란히 다른 무구로 전이시킬 수 있는데, 물론 약간의 위험부담이 있지.\n섬세해서 자칫하면 펑-! 하고 터져버리거든.",
+        "en-US": "[S'ratos]\nTheir Ether mana can be transferred to weapons and equipment, but there's a risk:\ntheir mana is so delicate that it can go off at even the slightest agitation.",
+        "pt-BR": "[Sratos]\nÉ possível transferir toda a magia das Gemas de Éter para outra arma ou armadura, mas é claro que há um certo risco.\nElas são delicadas e, se não tomarmos cuidado, podem explodir com um “pum!”.",
+        "es-ES": "[Sratos]\nSe puede transferir toda la magia que tienen las gemas de éter a otra arma, aunque, claro, hay un poco de riesgo.\nSon delicadas y, si no se tiene cuidado, ¡pum!, pueden explotar."
     },
     "j42QDA": {
-        "ko": "[스라토스]\n어쨌든 이 에테르 보석을 이용하면 사용하는 무구에 마력을 부여할 수 있어.\n성능이 더 좋아지지. 우리는 이걸 등급강화라고 해.",
-        "en": "[S'ratos]\nAnyway, the Ether gemstones can be used to magically reinforce weapons and equipment,\nand we call that Grade-up.",
-        "pt": "[Sratos]\nDe qualquer forma, usando essas joias etéreas, dá pra conferir magia às armas que você usa.\nO desempenho melhora. A gente chama isso de reforço de grau.",
-        "es": "[Sratos]\nDe todos modos, si usas estas gemas etéreas, puedes imbuir de magia el arma que uses.\nAsí mejora su rendimiento. A esto lo llamamos «mejora de grado»."
+        "ko-KR": "[스라토스]\n어쨌든 이 에테르 보석을 이용하면 사용하는 무구에 마력을 부여할 수 있어.\n성능이 더 좋아지지. 우리는 이걸 등급강화라고 해.",
+        "en-US": "[S'ratos]\nAnyway, the Ether gemstones can be used to magically reinforce weapons and equipment,\nand we call that Grade-up.",
+        "pt-BR": "[Sratos]\nDe qualquer forma, usando essas joias etéreas, dá pra conferir magia às armas que você usa.\nO desempenho melhora. A gente chama isso de reforço de grau.",
+        "es-ES": "[Sratos]\nDe todos modos, si usas estas gemas etéreas, puedes imbuir de magia el arma que uses.\nAsí mejora su rendimiento. A esto lo llamamos «mejora de grado»."
     },
     "kI2QDA": {
-        "ko": "[스라토스]\n고객님도, 고객님이 사랑하는 무기들이 한단계 더 성장한다면 기쁘잖아?\n우린 그걸 도와주는 사람들이야. 약간 위험하긴 하지만 말이야. 아하하하.",
-        "en": "[S'ratos]\nYou'd be happy if your precious weapons grew stronger, wouldn't you?\nWe're the ones who can help you. It's a bit risky, though. Hah hah hah.",
-        "pt": "[Sratos]\nVocê também ficaria feliz se as armas que ama subissem mais um nível, não é?\nNós somos as pessoas que ajudam nisso. Mesmo que seja um pouco perigoso. Ahahahaha.",
-        "es": "[Sratos]\n¿No te alegraría que tus armas favoritas subieran un nivel más?\nNosotros somos los que te ayudamos con eso. Aunque sea un poco peligroso, claro. Jajajaja."
+        "ko-KR": "[스라토스]\n고객님도, 고객님이 사랑하는 무기들이 한단계 더 성장한다면 기쁘잖아?\n우린 그걸 도와주는 사람들이야. 약간 위험하긴 하지만 말이야. 아하하하.",
+        "en-US": "[S'ratos]\nYou'd be happy if your precious weapons grew stronger, wouldn't you?\nWe're the ones who can help you. It's a bit risky, though. Hah hah hah.",
+        "pt-BR": "[Sratos]\nVocê também ficaria feliz se as armas que ama subissem mais um nível, não é?\nNós somos as pessoas que ajudam nisso. Mesmo que seja um pouco perigoso. Ahahahaha.",
+        "es-ES": "[Sratos]\n¿No te alegraría que tus armas favoritas subieran un nivel más?\nNosotros somos los que te ayudamos con eso. Aunque sea un poco peligroso, claro. Jajajaja."
     },
     "kY2QDA": {
-        "ko": "슈리벨",
-        "en": "Shuribell",
-        "pt": "Schribel",
-        "es": "Schribel"
+        "ko-KR": "슈리벨",
+        "en-US": "Shuribell",
+        "pt-BR": "Schribel",
+        "es-ES": "Schribel"
     },
     "ko2QDA": {
-        "ko": "[슈리벨]\n언제나 행운이 함께하길!\n파라마켓 등급강화소에 잘 오셨습니다~",
-        "en": "[Shuribell]\nMay luck be with you at all times!\nWelcome to the Para Market Grade-up Center~",
-        "pt": "[Schribel]\nQue a sorte esteja sempre com você!\nBem-vindo à Oficina de Reforço de Nível do Paramaquet~",
-        "es": "[Schribel]\n¡Que la suerte te acompañe siempre!\nBienvenido al taller de mejora de grado de Paramaquet~"
+        "ko-KR": "[슈리벨]\n언제나 행운이 함께하길!\n파라마켓 등급강화소에 잘 오셨습니다~",
+        "en-US": "[Shuribell]\nMay luck be with you at all times!\nWelcome to the Para Market Grade-up Center~",
+        "pt-BR": "[Schribel]\nQue a sorte esteja sempre com você!\nBem-vindo à Oficina de Reforço de Nível do Paramaquet~",
+        "es-ES": "[Schribel]\n¡Que la suerte te acompañe siempre!\nBienvenido al taller de mejora de grado de Paramaquet~"
     },
     "k42QDA": {
-        "ko": "[슈리벨]\n아끼는 장비의 잠재력을 깨우고 싶은 거죠?\n마력을 다루는 과정에서 폭발이 일어날 수도 있습니다.",
-        "en": "[Shuribell]\nYou want to awaken your precious equipment's true potential, right?\nThis process involves highly volatile mana that can explode anytime.",
-        "pt": "[Schribel]\nQueres despertar o potencial do teu equipamento favorito, não é?\nPode ocorrer uma explosão durante o manuseio da magia.",
-        "es": "[Schribel]\n¿Quieres despertar el potencial de tu equipo favorito?\nDurante el proceso de manipulación de la magia, podría producirse una explosión."
+        "ko-KR": "[슈리벨]\n아끼는 장비의 잠재력을 깨우고 싶은 거죠?\n마력을 다루는 과정에서 폭발이 일어날 수도 있습니다.",
+        "en-US": "[Shuribell]\nYou want to awaken your precious equipment's true potential, right?\nThis process involves highly volatile mana that can explode anytime.",
+        "pt-BR": "[Schribel]\nQueres despertar o potencial do teu equipamento favorito, não é?\nPode ocorrer uma explosão durante o manuseio da magia.",
+        "es-ES": "[Schribel]\n¿Quieres despertar el potencial de tu equipo favorito?\nDurante el proceso de manipulación de la magia, podría producirse una explosión."
     },
     "lI2QDA": {
-        "ko": "[슈리벨]\n그래도 등급 강화에 도전하신다면 …!\n이 슈리벨, 영혼까지 갈아넣어 열심히 하겠습니다!",
-        "en": "[Shuribell]\n그래도 등급 강화에 도전하신다면 …!\n이 슈리벨, 영혼까지 갈아넣어 열심히 하겠습니다!",
-        "pt": "[Schribel]\nMas se você decidir encarar o reforço de grau…!\nEu, Schribel, vou me dedicar de corpo e alma!",
-        "es": "[Shuribel]\n¡Pero si te animas a intentar la mejora de grado…!\n¡Este Shuribel se esforzará al máximo, poniendo hasta el alma en ello!"
+        "ko-KR": "[슈리벨]\n그래도 등급 강화에 도전하신다면 …!\n이 슈리벨, 영혼까지 갈아넣어 열심히 하겠습니다!",
+        "en-US": "[Shuribell]\n그래도 등급 강화에 도전하신다면 …!\n이 슈리벨, 영혼까지 갈아넣어 열심히 하겠습니다!",
+        "pt-BR": "[Schribel]\nMas se você decidir encarar o reforço de grau…!\nEu, Schribel, vou me dedicar de corpo e alma!",
+        "es-ES": "[Shuribel]\n¡Pero si te animas a intentar la mejora de grado…!\n¡Este Shuribel se esforzará al máximo, poniendo hasta el alma en ello!"
     },
     "lY2QDA": {
-        "ko": "[슈리벨]\n우리 양손 잡고, 믿음을 가지고! 이 악물고 해 봐요!",
-        "en": "[Shuribell]\nHold my hands and believe! Come on, we can do this!",
-        "pt": "[Shuribel]\nVamos dar as mãos, ter fé! Cerca os dentes e vamos lá!",
-        "es": "[Shuribel]\n¡Démonos la mano, con fe! ¡Aprieta los dientes y vamos a por ello!"
+        "ko-KR": "[슈리벨]\n우리 양손 잡고, 믿음을 가지고! 이 악물고 해 봐요!",
+        "en-US": "[Shuribell]\nHold my hands and believe! Come on, we can do this!",
+        "pt-BR": "[Shuribel]\nVamos dar as mãos, ter fé! Cerca os dentes e vamos lá!",
+        "es-ES": "[Shuribel]\n¡Démonos la mano, con fe! ¡Aprieta los dientes y vamos a por ello!"
     },
     "lo2QDA": {
-        "ko": "[슈리벨]\n그래요! 냉수 한 잔 마시고 합시다!",
-        "en": "[Shuribell]\nAlright! Let's do it after you get psyched up with a nice, chilled glass of water!",
-        "pt": "[Schribel]\nIsso mesmo! Vamos beber um copo de água gelada e começar!",
-        "es": "[Schribel]\n¡Sí! ¡Tomemos un vaso de agua fría y empecemos!"
+        "ko-KR": "[슈리벨]\n그래요! 냉수 한 잔 마시고 합시다!",
+        "en-US": "[Shuribell]\nAlright! Let's do it after you get psyched up with a nice, chilled glass of water!",
+        "pt-BR": "[Schribel]\nIsso mesmo! Vamos beber um copo de água gelada e começar!",
+        "es-ES": "[Schribel]\n¡Sí! ¡Tomemos un vaso de agua fría y empecemos!"
     },
     "l42QDA": {
-        "ko": "[슈리벨]\n등급 강화에는 에테르 보석이 필요하죠!\n에텔 더스트와 보석을 조합해서 만들면, 짠! 모험가님을 위한 에테르 보석이 완성!\n보석과 에텔 더스트 조합을 하시겠어요?",
-        "en": "[Shuribell]\nGrade-up requires Ether gemstones!\nCombine Ether Dust and gemstones, and voila--you've got Ether gemstones!\nSay, would you like to combine gemstones with Ether Dust?",
-        "pt": "[Schribel]\nPara o reforço de grau, precisamos de gemas de éter!\nSe combinarmos pó de éter com gemas, pronto! A gema de éter para o aventureiro está pronta!\nQueres combinar gemas com pó de éter?",
-        "es": "[Schribel]\n¡Para la mejora de grado se necesitan gemas de éter!\nSi combinas polvo de éter con gemas, ¡ta-da! ¡Ya tienes una gema de éter para ti, aventurero!\n¿Quieres combinar gemas y polvo de éter?"
+        "ko-KR": "[슈리벨]\n등급 강화에는 에테르 보석이 필요하죠!\n에텔 더스트와 보석을 조합해서 만들면, 짠! 모험가님을 위한 에테르 보석이 완성!\n보석과 에텔 더스트 조합을 하시겠어요?",
+        "en-US": "[Shuribell]\nGrade-up requires Ether gemstones!\nCombine Ether Dust and gemstones, and voila--you've got Ether gemstones!\nSay, would you like to combine gemstones with Ether Dust?",
+        "pt-BR": "[Schribel]\nPara o reforço de grau, precisamos de gemas de éter!\nSe combinarmos pó de éter com gemas, pronto! A gema de éter para o aventureiro está pronta!\nQueres combinar gemas com pó de éter?",
+        "es-ES": "[Schribel]\n¡Para la mejora de grado se necesitan gemas de éter!\nSi combinas polvo de éter con gemas, ¡ta-da! ¡Ya tienes una gema de éter para ti, aventurero!\n¿Quieres combinar gemas y polvo de éter?"
     },
     "mI2QDA": {
-        "ko": "[슈리벨]\n간혹 순도 높은 마력을 잔뜩 품은 불안정한 보석류가 발견될 때가 있습니다.\n그런 보석들을 통칭 에테르 보석이라고 부르기로 했어요.\n누가? 바로 이 슈리벨이!",
-        "en": "[Shuribell]\nSometimes unstable gemstones overflowing with highly pure mana are found.\nThey've been named the Ether gemstones in general.\nBy whom? Me--Shuribell!",
-        "pt": "[Schribel]\nÀs vezes, encontramos joias instáveis que contêm muita magia de alta pureza.\nDecidimos chamar essas joias de “joias etéreas”.\nQuem? Eu mesmo, Schribel!",
-        "es": "[Schribel]\nA veces se encuentran gemas inestables que contienen mucha magia de alta pureza.\nHemos decidido llamar a esas gemas, en general, «gemas de éter».\n¿Quién? ¡Pues yo, Schribel!"
+        "ko-KR": "[슈리벨]\n간혹 순도 높은 마력을 잔뜩 품은 불안정한 보석류가 발견될 때가 있습니다.\n그런 보석들을 통칭 에테르 보석이라고 부르기로 했어요.\n누가? 바로 이 슈리벨이!",
+        "en-US": "[Shuribell]\nSometimes unstable gemstones overflowing with highly pure mana are found.\nThey've been named the Ether gemstones in general.\nBy whom? Me--Shuribell!",
+        "pt-BR": "[Schribel]\nÀs vezes, encontramos joias instáveis que contêm muita magia de alta pureza.\nDecidimos chamar essas joias de “joias etéreas”.\nQuem? Eu mesmo, Schribel!",
+        "es-ES": "[Schribel]\nA veces se encuentran gemas inestables que contienen mucha magia de alta pureza.\nHemos decidido llamar a esas gemas, en general, «gemas de éter».\n¿Quién? ¡Pues yo, Schribel!"
     },
     "mY2QDA": {
-        "ko": "[슈리벨]\n에테르 보석의 마력은 장비의 숨겨진 잠재능력을 깨울때가 있습니다.\n우리는 그걸 한단계 등급이 올라간다고 해서 등급강화라고 부르지요!",
-        "en": "[Shuribell]\nThe Ether gemstones can awaken equipment's hidden potential\nby increasing its grade, so we call that process Grade-up.",
-        "pt": "[Schribel]\nA magia das Gemas de Éter às vezes desperta o potencial oculto do equipamento.\nChamamos isso de “Reforço de Nível”, porque o equipamento sobe um nível!",
-        "es": "[Schribel]\nLa magia de las gemas etéreas a veces despierta el potencial oculto del equipo.\n¡A eso lo llamamos «mejora de grado», porque sube un nivel!"
+        "ko-KR": "[슈리벨]\n에테르 보석의 마력은 장비의 숨겨진 잠재능력을 깨울때가 있습니다.\n우리는 그걸 한단계 등급이 올라간다고 해서 등급강화라고 부르지요!",
+        "en-US": "[Shuribell]\nThe Ether gemstones can awaken equipment's hidden potential\nby increasing its grade, so we call that process Grade-up.",
+        "pt-BR": "[Schribel]\nA magia das Gemas de Éter às vezes desperta o potencial oculto do equipamento.\nChamamos isso de “Reforço de Nível”, porque o equipamento sobe um nível!",
+        "es-ES": "[Schribel]\nLa magia de las gemas etéreas a veces despierta el potencial oculto del equipo.\n¡A eso lo llamamos «mejora de grado», porque sube un nivel!"
     },
     "mo2QDA": {
-        "ko": "[슈리벨]\n모험가님의 무구도 모르는 잠재능력을 가지고 있을지 모릅니다.\n잘못하면 소멸할 수 있는 위험이 있긴 하지만 믿음을 가지고 도전해 보십시오!",
-        "en": "[Shuribell]\nYour weapons and equipment might hold hidden potential you don't even realize.\nThere's a risk they could be destroyed in the process, but no pain, no gain, right?",
-        "pt": "[Shuribel]\nTalvez o equipamento do aventureiro também tenha um potencial oculto.\nEmbora haja o risco de ele se dissipar se não for feito corretamente, desafia com confiança!",
-        "es": "[Shuribel]\nQuizás el equipo del aventurero tenga un potencial que ni siquiera conoces.\nAunque existe el riesgo de que se destruya si no se hace bien, ¡inténtalo con confianza!"
+        "ko-KR": "[슈리벨]\n모험가님의 무구도 모르는 잠재능력을 가지고 있을지 모릅니다.\n잘못하면 소멸할 수 있는 위험이 있긴 하지만 믿음을 가지고 도전해 보십시오!",
+        "en-US": "[Shuribell]\nYour weapons and equipment might hold hidden potential you don't even realize.\nThere's a risk they could be destroyed in the process, but no pain, no gain, right?",
+        "pt-BR": "[Shuribel]\nTalvez o equipamento do aventureiro também tenha um potencial oculto.\nEmbora haja o risco de ele se dissipar se não for feito corretamente, desafia com confiança!",
+        "es-ES": "[Shuribel]\nQuizás el equipo del aventurero tenga un potencial que ni siquiera conoces.\nAunque existe el riesgo de que se destruya si no se hace bien, ¡inténtalo con confianza!"
     },
     "m42QDA": {
-        "ko": "등급강화사",
-        "en": "Grade Enhancer",
-        "pt": "Reforçador de Nível",
-        "es": "Reforzador de grado"
+        "ko-KR": "등급강화사",
+        "en-US": "Grade Enhancer",
+        "pt-BR": "Reforçador de Nível",
+        "es-ES": "Reforzador de grado"
     },
     "nI2QDA": {
-        "ko": "[등급강화사]\n언제나 행운이 함께하길!\n장비의 숨겨진 잠재능력을 깨워드립니다.",
-        "en": "[Grade Enhancer]\nMay luck be with you at all times!\nWe awaken the hidden potential of your equipment.",
-        "pt": "[Reforçador de Nível]\nQue a sorte esteja sempre contigo!\nVou despertar o potencial oculto do teu equipamento.",
-        "es": "[Reforzador de grado]\n¡Que la suerte te acompañe siempre!\nDespertaré el potencial oculto de tu equipo."
+        "ko-KR": "[등급강화사]\n언제나 행운이 함께하길!\n장비의 숨겨진 잠재능력을 깨워드립니다.",
+        "en-US": "[Grade Enhancer]\nMay luck be with you at all times!\nWe awaken the hidden potential of your equipment.",
+        "pt-BR": "[Reforçador de Nível]\nQue a sorte esteja sempre contigo!\nVou despertar o potencial oculto do teu equipamento.",
+        "es-ES": "[Reforzador de grado]\n¡Que la suerte te acompañe siempre!\nDespertaré el potencial oculto de tu equipo."
     },
     "nY2QDA": {
-        "ko": "[등급강화사]\n아끼는 장비의 잠재력을 깨우고 싶은 거죠?\n마력을 다루는 과정에서 폭발이 일어날 수도 있습니다.",
-        "en": "[Grade-Up Specialist]\nWant to unlock the potential of your treasured gear?\nExplosions may occur during the process of manipulating magic.",
-        "pt": "[Reforçador de Nível]\nQueres despertar o potencial do teu equipamento favorito, não é?\nPode ocorrer uma explosão durante o processo de manipulação da magia.",
-        "es": "[Reforzador de grado]\n¿Quieres despertar el potencial de tu equipo favorito, verdad?\nDurante el proceso de manipulación de la magia, podría producirse una explosión."
+        "ko-KR": "[등급강화사]\n아끼는 장비의 잠재력을 깨우고 싶은 거죠?\n마력을 다루는 과정에서 폭발이 일어날 수도 있습니다.",
+        "en-US": "[Grade-Up Specialist]\nWant to unlock the potential of your treasured gear?\nExplosions may occur during the process of manipulating magic.",
+        "pt-BR": "[Reforçador de Nível]\nQueres despertar o potencial do teu equipamento favorito, não é?\nPode ocorrer uma explosão durante o processo de manipulação da magia.",
+        "es-ES": "[Reforzador de grado]\n¿Quieres despertar el potencial de tu equipo favorito, verdad?\nDurante el proceso de manipulación de la magia, podría producirse una explosión."
     },
     "no2QDA": {
-        "ko": "[등급강화사]\n그래도 등급 강화에 도전하신다면 …!\n이 등급강화사, 영혼까지 갈아넣어 열심히 하겠습니다!",
-        "en": "[Grade-Up Specialist]\nBut if you still wish to attempt grade-up...!\nThis Grade-Up Specialist will pour my very soul into it and work tirelessly!",
-        "pt": "[Reforçador de Nível]\nMas se você decidir encarar o reforço de nível mesmo assim…!\nEste reforçador de nível vai se dedicar de corpo e alma!",
-        "es": "[Reforzador de grado]\n¡Pero si decides intentar la mejora de grado…!\n¡Este reforzador de grado se esforzará al máximo, poniendo hasta el alma en ello!"
+        "ko-KR": "[등급강화사]\n그래도 등급 강화에 도전하신다면 …!\n이 등급강화사, 영혼까지 갈아넣어 열심히 하겠습니다!",
+        "en-US": "[Grade-Up Specialist]\nBut if you still wish to attempt grade-up...!\nThis Grade-Up Specialist will pour my very soul into it and work tirelessly!",
+        "pt-BR": "[Reforçador de Nível]\nMas se você decidir encarar o reforço de nível mesmo assim…!\nEste reforçador de nível vai se dedicar de corpo e alma!",
+        "es-ES": "[Reforzador de grado]\n¡Pero si decides intentar la mejora de grado…!\n¡Este reforzador de grado se esforzará al máximo, poniendo hasta el alma en ello!"
     },
     "n42QDA": {
-        "ko": "[등급강화사]\n우리 양손 잡고, 믿음을 가지고! 이 악물고 해 봐요!",
-        "en": "[Grade Enhancer]\nLet's join hands, hold onto faith! Grit your teeth and give it a shot!",
-        "pt": "[Reforçador de Nível]\nVamos dar as mãos, ter fé! Cerca os dentes e vamos lá!",
-        "es": "[Reforzador de grado]\n¡Démonos la mano, con fe! ¡Apretemos los dientes y vamos a por ello!"
+        "ko-KR": "[등급강화사]\n우리 양손 잡고, 믿음을 가지고! 이 악물고 해 봐요!",
+        "en-US": "[Grade Enhancer]\nLet's join hands, hold onto faith! Grit your teeth and give it a shot!",
+        "pt-BR": "[Reforçador de Nível]\nVamos dar as mãos, ter fé! Cerca os dentes e vamos lá!",
+        "es-ES": "[Reforzador de grado]\n¡Démonos la mano, con fe! ¡Apretemos los dientes y vamos a por ello!"
     },
     "oI2QDA": {
-        "ko": "[등급강화사]\n그래요! 냉수 한 잔 마시고 합시다!",
-        "en": "[Grade Enhancer]\nAlright! Let's take a deep breath and do this!",
-        "pt": "[Reforçador de Nível]\nIsso mesmo! Vamos beber um copo de água gelada e começar!",
-        "es": "[Reforzador de grado]\n¡Sí! ¡Tomemos un vaso de agua fría y empecemos!"
+        "ko-KR": "[등급강화사]\n그래요! 냉수 한 잔 마시고 합시다!",
+        "en-US": "[Grade Enhancer]\nAlright! Let's take a deep breath and do this!",
+        "pt-BR": "[Reforçador de Nível]\nIsso mesmo! Vamos beber um copo de água gelada e começar!",
+        "es-ES": "[Reforzador de grado]\n¡Sí! ¡Tomemos un vaso de agua fría y empecemos!"
     },
     "oY2QDA": {
-        "ko": "[등급강화사]\n등급 강화에는 에테르 보석이 필요하죠!\n에텔 더스트와 보석을 조합해서 만들면, 짠! 모험가님을 위한 에테르 보석이 완성!\n보석과 에텔 더스트 조합을 하시겠어요?",
-        "en": "[Grade Enhancer]\nGrade enhancement requires Ether Gems!\nCombine Ether Dust and gems, and voilà! An Ether Gem for adventurers is complete!\nWould you like to combine gems and Ether Dust?",
-        "pt": "[Reforçador de Nível]\nO reforço de nível precisa de joias de éter!\nSe combinarmos pó de éter com joias, pronto! A joia de éter para o aventureiro está pronta!\nQueres combinar joias com pó de éter?",
-        "es": "[Reforzador de grado]\n¡Para el refuerzo de grado se necesitan gemas de éter!\nSi combinas polvo de éter con gemas, ¡ta-da! ¡Ya tienes una gema de éter para ti, aventurero!\n¿Quieres combinar gemas y polvo de éter?"
+        "ko-KR": "[등급강화사]\n등급 강화에는 에테르 보석이 필요하죠!\n에텔 더스트와 보석을 조합해서 만들면, 짠! 모험가님을 위한 에테르 보석이 완성!\n보석과 에텔 더스트 조합을 하시겠어요?",
+        "en-US": "[Grade Enhancer]\nGrade enhancement requires Ether Gems!\nCombine Ether Dust and gems, and voilà! An Ether Gem for adventurers is complete!\nWould you like to combine gems and Ether Dust?",
+        "pt-BR": "[Reforçador de Nível]\nO reforço de nível precisa de joias de éter!\nSe combinarmos pó de éter com joias, pronto! A joia de éter para o aventureiro está pronta!\nQueres combinar joias com pó de éter?",
+        "es-ES": "[Reforzador de grado]\n¡Para el refuerzo de grado se necesitan gemas de éter!\nSi combinas polvo de éter con gemas, ¡ta-da! ¡Ya tienes una gema de éter para ti, aventurero!\n¿Quieres combinar gemas y polvo de éter?"
     },
     "oo2QDA": {
-        "ko": "[등급강화사]\n간혹 순도 높은 마력을 잔뜩 품은 불안정한 보석류가 발견될 때가 있습니다.\n그런 보석들을 통칭 에테르 보석이라고 부르기로 했어요.\n누가? 바로 이 등급강화사이!",
-        "en": "[Grade Enhancer]\nOccasionally, unstable gemstones brimming with high-purity magic power are discovered.\nWe've decided to collectively call such gems Ether Gems.\nWho? This very Grade Enhancer!",
-        "pt": "[Especialista em Reforço de Nível]\nÀs vezes, encontramos joias instáveis que contêm muita magia de alta pureza.\nDecidimos chamar essas joias de “joias etéreas”.\nQuem? É claro que foi este especialista em reforço de nível!",
-        "es": "[Reforzador de grado]\nA veces se encuentran gemas inestables que contienen mucha magia de alta pureza.\nHemos decidido llamar a esas gemas, en general, «gemas de éter».\n¿Quién? ¡Pues este mismo reforzador de grado!"
+        "ko-KR": "[등급강화사]\n간혹 순도 높은 마력을 잔뜩 품은 불안정한 보석류가 발견될 때가 있습니다.\n그런 보석들을 통칭 에테르 보석이라고 부르기로 했어요.\n누가? 바로 이 등급강화사이!",
+        "en-US": "[Grade Enhancer]\nOccasionally, unstable gemstones brimming with high-purity magic power are discovered.\nWe've decided to collectively call such gems Ether Gems.\nWho? This very Grade Enhancer!",
+        "pt-BR": "[Especialista em Reforço de Nível]\nÀs vezes, encontramos joias instáveis que contêm muita magia de alta pureza.\nDecidimos chamar essas joias de “joias etéreas”.\nQuem? É claro que foi este especialista em reforço de nível!",
+        "es-ES": "[Reforzador de grado]\nA veces se encuentran gemas inestables que contienen mucha magia de alta pureza.\nHemos decidido llamar a esas gemas, en general, «gemas de éter».\n¿Quién? ¡Pues este mismo reforzador de grado!"
     },
     "o42QDA": {
-        "ko": "[등급강화사]\n에테르 보석의 마력은 장비의 숨겨진 잠재능력을 깨울때가 있습니다.\n우리는 그걸 한단계 등급이 올라간다고 해서 등급강화라고 부르지요!",
-        "en": "[Grade Enhancer]\nThe magic power of ether gems can sometimes awaken hidden potential in equipment.\nWe call that a grade enhancement, as if it were a step up in grade!",
-        "pt": "[Reforçador de Nível]\nA magia das Gemas de Éter às vezes desperta o potencial oculto do equipamento.\nChamamos isso de “Reforço de Nível”, porque o equipamento sobe um nível!",
-        "es": "[Mejorador de grado]\nLa magia de las gemas etéreas a veces despierta el potencial oculto del equipo.\n¡A eso lo llamamos «mejora de grado», porque el equipo sube un nivel!"
+        "ko-KR": "[등급강화사]\n에테르 보석의 마력은 장비의 숨겨진 잠재능력을 깨울때가 있습니다.\n우리는 그걸 한단계 등급이 올라간다고 해서 등급강화라고 부르지요!",
+        "en-US": "[Grade Enhancer]\nThe magic power of ether gems can sometimes awaken hidden potential in equipment.\nWe call that a grade enhancement, as if it were a step up in grade!",
+        "pt-BR": "[Reforçador de Nível]\nA magia das Gemas de Éter às vezes desperta o potencial oculto do equipamento.\nChamamos isso de “Reforço de Nível”, porque o equipamento sobe um nível!",
+        "es-ES": "[Mejorador de grado]\nLa magia de las gemas etéreas a veces despierta el potencial oculto del equipo.\n¡A eso lo llamamos «mejora de grado», porque el equipo sube un nivel!"
     },
     "pI2QDA": {
-        "ko": "[등급강화사]\n모험가님의 무구도 모르는 잠재능력을 가지고 있을지 모릅니다.\n잘못하면 소멸할 수 있는 위험이 있긴 하지만 믿음을 가지고 도전해 보십시오!",
-        "en": "[Grade-Up Specialist]\nYour armor might hold unknown potential.\nThough there's a risk it could vanish if mishandled, challenge it with faith!",
-        "pt": "[Reforçador de Nível]\nO equipamento do aventureiro pode ter um potencial desconhecido.\nEmbora haja o risco de ele se extinguir se não for feito corretamente, desafia com confiança!",
-        "es": "[Mejorador de grado]\nQuizás el equipo de tu aventurero tenga un potencial desconocido.\nAunque existe el riesgo de que se destruya si no se hace bien, ¡inténtalo con confianza!"
+        "ko-KR": "[등급강화사]\n모험가님의 무구도 모르는 잠재능력을 가지고 있을지 모릅니다.\n잘못하면 소멸할 수 있는 위험이 있긴 하지만 믿음을 가지고 도전해 보십시오!",
+        "en-US": "[Grade-Up Specialist]\nYour armor might hold unknown potential.\nThough there's a risk it could vanish if mishandled, challenge it with faith!",
+        "pt-BR": "[Reforçador de Nível]\nO equipamento do aventureiro pode ter um potencial desconhecido.\nEmbora haja o risco de ele se extinguir se não for feito corretamente, desafia com confiança!",
+        "es-ES": "[Mejorador de grado]\nQuizás el equipo de tu aventurero tenga un potencial desconocido.\nAunque existe el riesgo de que se destruya si no se hace bien, ¡inténtalo con confianza!"
     }
 }
