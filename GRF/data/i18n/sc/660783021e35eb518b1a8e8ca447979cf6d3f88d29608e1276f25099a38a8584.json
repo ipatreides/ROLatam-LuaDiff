@@ -3690,24 +3690,38 @@
         "es-ES": "[Rumin]\nDisfruto viéndote crecer.\nNunca me canso de ello."
     },
     "IiDuCQ": {
-        "en-US": "[{0}]\n - I told Rumin the story of the Payon Cave. -"
+        "en-US": "[{0}]\n - I told Rumin the story of the Payon Cave. -",
+        "pt-BR": "[{0}]\n- Contei a Rumin a história da caverna Payon. -",
+        "es-ES": "[{0}]\n - Le conté a Rumin la historia de la Cueva Payon. -"
     },
     "IyDuCQ": {
-        "en-US": "- CRACK! -"
+        "en-US": "- CRACK! -",
+        "pt-BR": "- CRAC! -",
+        "es-ES": "- ¡CRAC! -"
     },
     "JCDuCQ": {
-        "en-US": "[{0}]\n - I told my interview results to Rumin. -"
+        "en-US": "[{0}]\n - I told my interview results to Rumin. -",
+        "pt-BR": "[{0}]\n- Contei os resultados de minha entrevista para Rumin. -",
+        "es-ES": "[{0}]\n - Le conté los resultados de mi entrevista a Rumin. -"
     },
     "JSDuCQ": {
-        "en-US": "[{0}]\n - We handed over Mantova and Hitol to the Guard and explained the situation. -"
+        "en-US": "[{0}]\n - We handed over Mantova and Hitol to the Guard and explained the situation. -",
+        "pt-BR": "[{0}]\n- Entregamos Mantova e Hitol para a Guarda e explicamos a situação. -",
+        "es-ES": "[{0}]\n - Entregamos a Mantova e Hitol a la Guardia y explicamos la situación. -"
     },
     "JiDuCQ": {
-        "en-US": "- This quest requires at least Level 140. -"
+        "en-US": "- This quest requires at least Level 140. -",
+        "pt-BR": "- Essa missão requer pelo menos o nível 140. -",
+        "es-ES": "- Esta búsqueda requiere al menos el nivel 140. -"
     },
     "JyDuCQ": {
-        "en-US": "- This quest requires at least Level 110. -"
+        "en-US": "- This quest requires at least Level 110. -",
+        "pt-BR": "- Essa missão requer pelo menos o nível 110. -",
+        "es-ES": "- Esta búsqueda requiere al menos el nivel 110. -"
     },
     "KCDuCQ": {
-        "en-US": "- This quest requires at least Level 130. -"
+        "en-US": "- This quest requires at least Level 130. -",
+        "pt-BR": "- Essa missão requer pelo menos o nível 130. -",
+        "es-ES": "- Esta búsqueda requiere al menos el nivel 130. -"
     }
 }

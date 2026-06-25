@@ -1,0 +1,307 @@
+{
+    "QDEsDQ": {
+        "en-US": "Base Soldier",
+        "pt-BR": "Soldado da base",
+        "es-ES": "Soldado de base"
+    },
+    "QTEsDQ": {
+        "en-US": "Watchtower",
+        "pt-BR": "Torre de Vigia",
+        "es-ES": "Torre de vigilancia"
+    },
+    "QjEsDQ": {
+        "en-US": "Intruder detected. Eliminating.",
+        "pt-BR": "Intruso detectado. Eliminando.",
+        "es-ES": "Intruso detectado. Eliminando."
+    },
+    "QzEsDQ": {
+        "en-US": "Intruder detected, intruder detected. Eliminating immediately.",
+        "pt-BR": "Intruso detectado, intruso detectado. Eliminando imediatamente.",
+        "es-ES": "Intruso detectado, intruso detectado. Eliminación inmediata."
+    },
+    "RDEsDQ": {
+        "en-US": "Lock Device",
+        "pt-BR": "Dispositivo de Bloqueio",
+        "es-ES": "Cerradura"
+    },
+    "RTEsDQ": {
+        "en-US": "Maram : Please wait a moment. I know how to open it.",
+        "pt-BR": "Maram : Espere um momento. Eu sei como abrir.",
+        "es-ES": "Maram : Espere un momento. Sé cómo abrirlo."
+    },
+    "RjEsDQ": {
+        "en-US": "Maram : There, now you can pass!",
+        "pt-BR": "Maram : Pronto, agora podemos passar!",
+        "es-ES": "Maram : Bien, ¡ahora podemos pasar!"
+    },
+    "RzEsDQ": {
+        "en-US": "Maram",
+        "pt-BR": "Maram",
+        "es-ES": "Maram"
+    },
+    "SDEsDQ": {
+        "en-US": "Maram : It is a building! Let us go inside quickly.",
+        "pt-BR": "Maram : É um prédio! Vamos entrar rápido.",
+        "es-ES": "Maram : ¡Es un edificio! Entremos rápido."
+    },
+    "STEsDQ": {
+        "en-US": "However, this path looks a bit dangerous. My merchant instincts are warning me.",
+        "pt-BR": "Mas este caminho parece um pouco perigoso. Meu instinto de comerciante está alertando.",
+        "es-ES": "Pero este camino parece algo peligroso. Mi instinto de comerciante lo está advirtiendo."
+    },
+    "SjEsDQ": {
+        "en-US": "It would be best to proceed carefully.",
+        "pt-BR": "É melhor avançarmos com cautela.",
+        "es-ES": "Será mejor avanzar con cuidado."
+    },
+    "SzEsDQ": {
+        "en-US": "Maram : This building looks quite suspicious, does it not? There must be a surveillance system inside as well.",
+        "pt-BR": "Maram : Este prédio parece bem suspeito, não acha? Com certeza há um sistema de vigilância aqui dentro também.",
+        "es-ES": "Maram : Este edificio parece bastante sospechoso, ¿verdad? Seguro que también hay un sistema de vigilancia aquí dentro."
+    },
+    "TDEsDQ": {
+        "en-US": "Maram : Let us be careful not to get caught again and proceed with caution while exploring.",
+        "pt-BR": "Maram : Desta vez também, vamos explorar com cuidado sem sermos detectados.",
+        "es-ES": "Maram : Esta vez también, tengamos cuidado de no ser descubiertos y exploremos con precaución."
+    },
+    "TTEsDQ": {
+        "en-US": "Maram : It seems we have come quite deep. We must safely find what we need.",
+        "pt-BR": "Maram : Parece que já avançamos bastante. Espero que consigamos encontrar o que precisamos em segurança.",
+        "es-ES": "Maram : Parece que hemos llegado bastante adentro. Espero que podamos encontrar lo que necesitamos sin problemas."
+    },
+    "TjEsDQ": {
+        "en-US": "Maram : Shall we wish for our good fortune?",
+        "pt-BR": "Maram : Que tal confiar na nossa sorte?",
+        "es-ES": "Maram : ¿Probamos suerte?"
+    },
+    "TzEsDQ": {
+        "en-US": "[Maram]\nLet us carefully explore inside.\nI heard from Dandelion earlier that although there are not many people, the watchtowers scattered around monitor a fairly wide area.",
+        "pt-BR": "[Maram]\nVamos explorar o interior com cuidado.\nPelo que ouvi do Sr. Dente-de-leão, não há muitas pessoas, mas as torres de vigilância espalhadas monitoram uma área bastante ampla.",
+        "es-ES": "[Maram]\nExploremos el interior con cuidado.\nSegún escuché antes de la señorita Diente de León, no hay mucha gente, pero las torres de vigilancia cubren un área bastante amplia."
+    },
+    "UDEsDQ": {
+        "en-US": "[Maram]\nIf we are spotted by Watchtower, soldiers will appear, so be careful not to get detected.\nThen, please contact me if you find anything!",
+        "pt-BR": "[Maram]\nSe formos detectados pela Torre de Vigia, soldados aparecerão, então tome cuidado para não ser visto.\nEntão, se encontrar algo, avise!",
+        "es-ES": "[Maram]\nSi nos detecta una Torre de vigilancia, aparecerán soldados, así que evitemos ser descubiertos.\nEntonces, ¡avísenme si encuentran algo!"
+    },
+    "UTEsDQ": {
+        "en-US": "[Maram]\nI checked this side first.\nIt is empty for now, nothing much here.",
+        "pt-BR": "[Maram]\nEu já verifiquei este lado primeiro.\nEstá vazio por enquanto, não há nada importante.",
+        "es-ES": "[Maram]\nYo ya he pasado por aquí antes.\nAhora está vacío, no hay nada en particular."
+    },
+    "UjEsDQ": {
+        "en-US": "[Maram]\nHow about heading down toward the 6 o'clock direction?\nThat is the area we have not explored yet.",
+        "pt-BR": "[Maram]\nQue tal descermos na direção das 6 horas?\nAinda não fomos para aquele lado.",
+        "es-ES": "[Maram]\n¿Qué tal si bajamos en dirección de las 6 en punto?\nEse es el lugar que aún no hemos explorado."
+    },
+    "UzEsDQ": {
+        "en-US": "Miriam",
+        "pt-BR": "Miriam",
+        "es-ES": "Miriam"
+    },
+    "VDEsDQ": {
+        "en-US": "Miriam : Oh, Adventurer? Maram, you too!?",
+        "pt-BR": "Miriam : Oh, Aventureiro? Maram, você também!?",
+        "es-ES": "Miriam : ¡Ah, aventurero! ¿Maram también?"
+    },
+    "VTEsDQ": {
+        "en-US": "[Miriam]\nAs expected, you are capable, Adventurer. I found this location by pulling every connection I had.\nIt seems you and Maram found it at once.",
+        "pt-BR": "[Miriam]\nComo esperado de você, Aventureiro. Eu descobri este lugar usando todos os contatos possíveis.\nMas você e Maram encontraram de imediato.",
+        "es-ES": "[Miriam]\nComo esperaba, es usted muy capaz, aventurero. Yo logré encontrar este lugar usando todo tipo de contactos.\nParece que usted y Maram lo encontraron de inmediato."
+    },
+    "VjEsDQ": {
+        "en-US": "[Miriam]\nPlease read the documents here. They contain what we were looking for.\nRather than me explaining everything, it would be better if you check them yourself first.",
+        "pt-BR": "[Miriam]\nLeia estes documentos aqui. Eles contêm o que estávamos procurando.\nEm vez de eu explicar tudo, é melhor que veja com seus próprios olhos.",
+        "es-ES": "[Miriam]\nLea estos documentos. Contienen lo que estábamos buscando.\nSerá mejor que los vea directamente en lugar de que yo se lo explique todo."
+    },
+    "VzEsDQ": {
+        "en-US": "[Mini Elly]\nTake me out of the bag. Place me on your head.",
+        "pt-BR": "[Mini Elly]\nTire-me da bolsa. Coloque-me sobre a cabeça.",
+        "es-ES": "[Mini Elly]\nSáqueme de la bolsa. Colóqueme sobre su cabeza."
+    },
+    "WDEsDQ": {
+        "en-US": "- Where did Droopy Elly go?\nWithout it, the exact location cannot be determined. -",
+        "pt-BR": "- Onde foi parar a Boneca da Elly?\nSem isso, não é possível encontrar a localização exata. -",
+        "es-ES": "- ¿Dónde está Muñeca de Elly?\nSin eso, no se puede encontrar la ubicación exacta. -"
+    },
+    "WTEsDQ": {
+        "en-US": "[Miriam]\n......",
+        "pt-BR": "[Miriam]\n…….",
+        "es-ES": "[Miriam]\n……."
+    },
+    "WjEsDQ": {
+        "en-US": "[Maram]\nHey, Miriam! How are you here?\nYou said you were investigating separately!",
+        "pt-BR": "[Maram]\nNão, Miriam! Como você chegou aqui?\nVocê disse que investigaria separadamente!",
+        "es-ES": "[Maram]\n¡Oye, Miriam! ¿Cómo es que estás aquí?\n¡Dijiste que investigarías por tu cuenta!"
+    },
+    "WzEsDQ": {
+        "en-US": "[Miriam]\nHow did you and the Adventurer track this place down?\nYou really are capable. I found this place by using all my connections, yet you located it immediately.",
+        "pt-BR": "[Miriam]\nE você e o Aventureiro, como descobriram este lugar?\nRealmente impressionante. Eu precisei de todos os meus contatos para encontrar, e vocês chegaram direto aqui.",
+        "es-ES": "[Miriam]\n¿Y ustedes cómo llegaron hasta aquí?\nSon realmente capaces. Yo encontré este lugar con muchos contactos, y ustedes lo hallaron enseguida."
+    },
+    "XDEsDQ": {
+        "en-US": "[Maram]\nWe have our ways. Right, Adventurer?\nAnyway, what information did you obtain?",
+        "pt-BR": "[Maram]\nNós também damos conta. Não é, Aventureiro?\nEnfim, que informação você conseguiu?",
+        "es-ES": "[Maram]\nNos defendemos. ¿Verdad, aventurero?\nEn fin, ¿qué información has encontrado?"
+    },
+    "XTEsDQ": {
+        "en-US": "[Miriam]\nLook at this document.",
+        "pt-BR": "[Miriam]\nVeja este documento.",
+        "es-ES": "[Miriam]\nMira este documento."
+    },
+    "XjEsDQ": {
+        "en-US": "[Mini Elly]\nThis document is a weapon sales record. Show it to me as well.\nThe weapons and firearms these people handled all have less than one year of usage remaining.",
+        "pt-BR": "[Mini Elly]\nEste é um registro de venda de armas. Deixe-me ver também.\nTodas as armas e armamentos vendidos por eles têm menos de um ano restante de vida útil.",
+        "es-ES": "[Mini Elly]\nEste documento es un registro de venta de armas. Permítame verlo también.\nLas armas que han vendido… todas tienen menos de un año de vida útil restante."
+    },
+    "XzEsDQ": {
+        "en-US": "[Miriam]\nTo sell such weapons carelessly.\nIf they are not properly maintained, they may not function correctly.",
+        "pt-BR": "[Miriam]\nVender esse tipo de arma sem cuidado…\nSe não forem bem mantidas, podem não funcionar corretamente.",
+        "es-ES": "[Miriam]\nVender armas así sin control…\nSi no están bien mantenidas, podrían no funcionar correctamente."
+    },
+    "YDEsDQ": {
+        "en-US": "[Maram]\nThat is the usual quality of weapons that come through back channels.\n…Still, the timing is suspicious.",
+        "pt-BR": "[Maram]\nArmas do mercado negro sempre têm essa qualidade.\n…Mas o problema é o timing.",
+        "es-ES": "[Maram]\nLas armas del mercado negro suelen ser así.\n…Pero el momento en que esto ocurre me resulta sospechoso."
+    },
+    "YTEsDQ": {
+        "en-US": "[Maram]\nOne year is not a generous usage period, but it is not too tight either.\nWhy were they released at the exact moment we are preparing the protest?",
+        "pt-BR": "[Maram]\nUm ano não é um prazo folgado, mas também não é tão curto.\nPor que despejar tudo justo agora que estamos preparando o protesto?",
+        "es-ES": "[Maram]\nUn año no es mucho margen, pero tampoco es inmediato.\n¿Por qué justo ahora que estamos preparando la protesta salen a la luz?"
+    },
+    "YjEsDQ": {
+        "en-US": "[Maram]\nThere was no need to dispose of them immediately.",
+        "pt-BR": "[Maram]\nNão havia necessidade de se desfazer delas imediatamente.",
+        "es-ES": "[Maram]\nNo había necesidad de deshacerse de ellas tan pronto."
+    },
+    "YzEsDQ": {
+        "en-US": "[Miriam]\nThis is one of the military supply bases managed by my adoptive father.\nI had a suspicion, but to think it would surface at such a time.",
+        "pt-BR": "[Miriam]\nEste é um dos depósitos militares administrados pelo meu padrasto.\nEu já suspeitava, mas surgir justamente agora…",
+        "es-ES": "[Miriam]\nEste es uno de los depósitos militares que administra mi padre adoptivo.\nLo sospechaba, pero que ocurra justo ahora…"
+    },
+    "ZDEsDQ": {
+        "en-US": "If you say adoptive father, you mean Yus Amal High Priest?",
+        "pt-BR": "Seu padrasto seria Yus, o sacerdote Amal?",
+        "es-ES": "¿Padre adoptivo? ¿Se refiere a Yus Amals, el sumo sacerdote?"
+    },
+    "ZTEsDQ": {
+        "en-US": "The hardliner who supports the war?",
+        "pt-BR": "Aquele que é linha-dura e a favor da guerra?",
+        "es-ES": "¿Ese padre adoptivo que es de la facción radical y partidario de la guerra?"
+    },
+    "ZjEsDQ": {
+        "en-US": "[Miriam]\nThat is correct, Adventurer. After reviewing the ledger, it does not seem that my adoptive father is involved.\nIt appears to be an independent corruption at the lower level, the weapon leakage incident.",
+        "pt-BR": "[Miriam]\nIsso mesmo, Aventureiro. Ao analisar o registro, não parece que meu padrasto esteja diretamente envolvido.\nProvavelmente é corrupção isolada em níveis inferiores.",
+        "es-ES": "[Miriam]\nAsí es, aventurero. Al revisar los registros, parece que mi padre adoptivo no está involucrado.\nTodo indica que es corrupción independiente en niveles bajos, en el caso del tráfico de armas."
+    },
+    "ZzEsDQ": {
+        "en-US": "[Miriam]\nWe need to investigate further, but that is the current assumption.\nAh, please hand me the documents. I will take them as evidence.",
+        "pt-BR": "[Miriam]\nPrecisamos investigar mais a fundo, mas por agora essa é a hipótese.\nAh, me entregue os documentos. Vou levá-los como prova.",
+        "es-ES": "[Miriam]\nHabrá que investigar más a fondo, pero por ahora esa es la conclusión.\nAh, y deme los documentos. Los llevaré como prueba."
+    },
+    "aDEsDQ": {
+        "en-US": "Maram: Hah, this is quite interesting.",
+        "pt-BR": "Maram: Haah, isso é bem interessante.",
+        "es-ES": "Maram: Vaya, esto se pone interesante."
+    },
+    "aTEsDQ": {
+        "en-US": "[Miriam]\n...Reading the documents.",
+        "pt-BR": "[Miriam]\n...Lendo os documentos.",
+        "es-ES": "[Miriam]\n...Leyendo los documentos."
+    },
+    "ajEsDQ": {
+        "en-US": "[Notice]\n - Your inventory is full or you are carrying the maximum amount of this item. Please organize and speak again. -",
+        "pt-BR": "[Notificação]\n - Não há espaço livre no inventário ou você já possui este item próximo do limite. Organize e tente novamente. -",
+        "es-ES": "[Aviso]\n - No hay espacio en el inventario o ya posees demasiados objetos iguales. Por favor, organiza y vuelve a hablar. -"
+    },
+    "azEsDQ": {
+        "en-US": "[Maram]\nEven though we moved separately, we ended up at the same place.\nStill, since we obtained different things along the way, I suppose it has some meaning.",
+        "pt-BR": "[Maram]\nMesmo agindo separadamente, acabamos no mesmo lugar.\nMas como obtivemos informações diferentes no processo, talvez tenha seu valor.",
+        "es-ES": "[Maram]\nNos movimos por separado, pero terminamos en el mismo lugar.\nAun así, lo que obtuvimos en el proceso fue diferente, así que supongo que tuvo sentido."
+    },
+    "bDEsDQ": {
+        "en-US": "[Miriam]\nThen I must excuse myself for a moment.\nI need to report what we have learned to my adoptive father.",
+        "pt-BR": "[Miriam]\nEntão vou me ausentar por um momento.\nPreciso reportar o que descobrimos ao meu padrasto.",
+        "es-ES": "[Miriam]\nEntonces me retiraré un momento.\nDebo informar a mi padre adoptivo de lo que hemos descubierto."
+    },
+    "bTEsDQ": {
+        "en-US": "[Miriam]\nIf it is truly independent corruption, there is a high chance my adoptive father is still unaware.",
+        "pt-BR": "[Miriam]\nSe for corrupção isolada, há chance de que ele ainda não saiba.",
+        "es-ES": "[Miriam]\nSi es corrupción independiente, es posible que él aún no lo sepa."
+    },
+    "bjEsDQ": {
+        "en-US": "[Maram]\nIs it really independent corruption? That still bothers me.\nI also have something to report to Rachel, so Miriam, let us go together.",
+        "pt-BR": "[Maram]\nSerá mesmo corrupção isolada? Isso ainda me incomoda.\nEu também tenho algo a relatar a Rachel, então Miriam, vamos juntos.",
+        "es-ES": "[Maram]\n¿Será realmente independiente? Eso me preocupa.\nYo también tengo algo que informar a Rachel, así que Miriam, vayamos juntos."
+    },
+    "bzEsDQ": {
+        "en-US": "[Maram]\nI will show you a shortcut out, so could you deliver what we learned here to Suad, Adventurer?\nWe will follow shortly, so please go ahead and inform them.",
+        "pt-BR": "[Maram]\nVou mostrar um atalho para sair, então Aventureiro, poderia informar Suad sobre o que descobrimos aqui?\nNós iremos logo atrás, então vá na frente e avise.",
+        "es-ES": "[Maram]\nLes indicaré un atajo para salir, así que ¿podría ir primero a ver a Suad y contarle lo que hemos descubierto aquí?\nNosotros iremos enseguida, así que adelante y explíqueselo."
+    },
+    "cDEsDQ": {
+        "en-US": "[Maram]\nI did not expect Miriam to be here. Right, Adventurer?",
+        "pt-BR": "[Maram]\nEu não esperava encontrar Miriam aqui. Não é, Aventureiro?",
+        "es-ES": "[Maram]\nNo esperaba encontrar a Miriam aquí. ¿Verdad, aventurero?"
+    },
+    "cTEsDQ": {
+        "en-US": "Pile of Documents",
+        "pt-BR": "Pilha de Documentos",
+        "es-ES": "Montón de documentos"
+    },
+    "cjEsDQ": {
+        "en-US": "[Notice]\n - Your bag is full. Please check your weight and item count, then speak again. -",
+        "pt-BR": "[Notificação]\n - A bolsa está cheia. Verifique o peso e a quantidade de itens e tente novamente. -",
+        "es-ES": "[Aviso]\n - La bolsa está llena. Verifique el peso y la cantidad de objetos antes de volver a hablar. -"
+    },
+    "czEsDQ": {
+        "en-US": "[Pile of Documents]\nVarious documents are scattered in disarray.\nTaking a few from the middle… they are weapon usage periods and sales records.",
+        "pt-BR": "[Pilha de Documentos]\nVários documentos estão espalhados de forma desorganizada.\nAo pegar alguns no meio… são registros de validade e venda de armas.",
+        "es-ES": "[Montón de documentos]\nHay todo tipo de documentos desordenados.\nAl sacar algunos del medio… son registros de vida útil y ventas de armas."
+    },
+    "dDEsDQ": {
+        "en-US": "[Pile of Documents]\nThe dates are very recent. There is also a record of transferring a large quantity of weapons to Dandelion.\nIt seems you have found what you were looking for. You put the documents away.",
+        "pt-BR": "[Pilha de Documentos]\nE ainda por cima, as datas são recentes. Há registros de grande quantidade de armas entregues ao Sr. Dente-de-leão.\nParece que encontrou o que procurava. Guardou os documentos.",
+        "es-ES": "[Montón de documentos]\nAdemás, las fechas son muy recientes. También hay registros de entrega masiva de armas a la señorita Diente de León.\nParece que has encontrado lo que buscabas. Guardaste los documentos."
+    },
+    "dTEsDQ": {
+        "en-US": "[Pile of Documents]\nVarious documents are scattered in disarray.\nThe top page… a lunch gathering menu selection?",
+        "pt-BR": "[Pilha de Documentos]\nVários documentos estão espalhados de forma desorganizada.\nNo topo… competição para decidir o menu do almoço?",
+        "es-ES": "[Montón de documentos]\nHay todo tipo de documentos desordenados.\nEn la parte superior… ¿decisión del menú para el almuerzo?"
+    },
+    "djEsDQ": {
+        "en-US": "[Pile of Documents]\nIt seems they chose a fried fish dish with sauce as the menu….\nIt appears they left only unimportant documents behind. For now, take them.",
+        "pt-BR": "[Pilha de Documentos]\nParece que escolheram um prato de peixe frito com molho….\nParece que deixaram apenas documentos sem importância. Mesmo assim, vamos levar.",
+        "es-ES": "[Montón de documentos]\nParece que eligieron pescado frito con salsa…\nParece que solo dejaron documentos sin importancia. De todos modos, será mejor recogerlos."
+    },
+    "dzEsDQ": {
+        "en-US": "[Pile of Documents]\nVarious documents are scattered in disarray.\nTaking one from the middle… a guard deployment map of the military supply base?",
+        "pt-BR": "[Pilha de Documentos]\nVários documentos estão espalhados de forma desorganizada.\nAo pegar um no meio… mapa de posicionamento dos guardas do depósito militar?",
+        "es-ES": "[Montón de documentos]\nHay todo tipo de documentos desordenados.\nAl sacar uno del medio… ¿un plano de distribución de guardias del depósito militar?"
+    },
+    "eDEsDQ": {
+        "en-US": "[Pile of Documents]\nJudging by the date, it is an old document.\nIt appears they left only unimportant documents behind. For now, take them.",
+        "pt-BR": "[Pilha de Documentos]\nPela data, é um documento antigo.\nParece que deixaram apenas documentos sem importância. Mesmo assim, vamos levar.",
+        "es-ES": "[Montón de documentos]\nPor la fecha, es un documento bastante antiguo.\nParece que solo dejaron documentos sin importancia. De todos modos, será mejor recogerlos."
+    },
+    "eTEsDQ": {
+        "en-US": "[Pile of Documents]\nVarious documents are scattered in disarray.\nThe top page… 'If you feed a Magmaring a potato and hunt it after a while, will it drop a baked potato?'",
+        "pt-BR": "[Pilha de Documentos]\nVários documentos estão espalhados de forma desorganizada.\nNo topo está… 'Se der batata para um Magmaring e caçar depois, será que ele deixa cair batata assada?'",
+        "es-ES": "[Montón de documentos]\nHay todo tipo de documentos desordenados.\nEn la parte superior… “¿Si le doy patatas a un Magmaring y luego lo cazo, soltará patatas asadas?”\n[Montón de documentos]"
+    },
+    "ejEsDQ": {
+        "en-US": "[Pile of Documents]\n……Why is this here? But now I am curious about the result!\nIt appears they left only unimportant documents behind. For now, take them.",
+        "pt-BR": "[Pilha de Documentos]\n……Por que isso está aqui? Mas fiquei curioso com o resultado!\nParece que deixaram apenas documentos sem importância. Mesmo assim, vamos levar.",
+        "es-ES": "……¿Por qué está esto aquí? ¡Pero tengo curiosidad por el resultado!"
+    },
+    "ezEsDQ": {
+        "en-US": "[Pile of Documents]\nVarious documents are scattered in disarray.\nTaking one from the middle… an illustration of the Pope drawn by tracing Pope Cookie icing with a pen.",
+        "pt-BR": "[Pilha de Documentos]\nVários documentos estão espalhados de forma desorganizada.\nAo tirar uma folha do meio… aparece um desenho do Papa feito à caneta imitando glacê de biscoito do Papa.",
+        "es-ES": "Parece que solo dejaron documentos sin importancia. De todos modos, será mejor recogerlos.\""
+    },
+    "fDEsDQ": {
+        "en-US": "[Pile of Documents]\nWhat kind of drawing is this? And it is extremely well drawn….\nIt appears they left only unimportant documents behind. For now, take them.",
+        "pt-BR": "[Pilha de Documentos]\nQue desenho é esse? E está muito bem feito….\nParece que deixaram apenas documentos sem importância. Mesmo assim, vamos levar.",
+        "es-ES": "[Montón de documentos]\nHay todo tipo de documentos desordenados.\nAl sacar una hoja… aparece una ilustración del Papa dibujada con bolígrafo, copiando el glaseado de una galleta papal."
+    }
+}

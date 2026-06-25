@@ -1,0 +1,1017 @@
+{
+    "oHUeDQ": {
+        "en-US": "Adventurer?",
+        "pt-BR": "Aventureiro?",
+        "es-ES": "¿Aventurero?"
+    },
+    "oXUeDQ": {
+        "en-US": "Miriam",
+        "pt-BR": "Miriam",
+        "es-ES": "Miriam"
+    },
+    "onUeDQ": {
+        "en-US": "Adventurer? Why are you here?",
+        "pt-BR": "Aventureiro? Por que está aqui?",
+        "es-ES": "¿Aventurero? ¿Por qué está aquí?"
+    },
+    "o3UeDQ": {
+        "en-US": "Suad must have sent you. Worrying for nothing.",
+        "pt-BR": "Então foi Suad quem o mandou. Preocupação desnecessária.",
+        "es-ES": "Seguro que lo ha enviado Suad. Qué preocupación tan innecesaria."
+    },
+    "pHUeDQ": {
+        "en-US": "Who are you! Identify yourself.",
+        "pt-BR": "Quem é você! Identifique-se.",
+        "es-ES": "¡Quién va ahí! ¡Identifíquese!"
+    },
+    "pXUeDQ": {
+        "en-US": "... It seems it will not be easy to quietly go to Gina, right?",
+        "pt-BR": "... Pelo visto não vai ser fácil simplesmente ir embora como Gina, não é?",
+        "es-ES": "... Al parecer, no será fácil irse discretamente con Gina, ¿verdad?"
+    },
+    "pnUeDQ": {
+        "en-US": "Temple Guard",
+        "pt-BR": "Guarda do Templo",
+        "es-ES": "Guardia del templo"
+    },
+    "p3UeDQ": {
+        "en-US": "Where is the party leader?",
+        "pt-BR": "E o líder do grupo?",
+        "es-ES": "¿Y el líder del grupo?"
+    },
+    "qHUeDQ": {
+        "en-US": "[Temple Guard]\nThis area is off-limits.",
+        "pt-BR": "[Guarda do Templo]\nEste é um lugar de acesso proibido.",
+        "es-ES": "[Guardia del templo]\nEste lugar tiene el acceso prohibido."
+    },
+    "qXUeDQ": {
+        "en-US": "[Miriam]\nI am Miriam, daughter of High Priest Yus Amal. I saw suspicious people enter this place and followed them here.",
+        "pt-BR": "[Miriam]\nSou Miriam, filha de Sumo Sacerdote Yus Amal. Vi pessoas suspeitas entrando aqui e as segui.",
+        "es-ES": "[Miriam]\nSoy Miriam, hija de Sumo sacerdote Yus Amals. Vi a unas personas sospechosas entrar aquí y las seguí."
+    },
+    "qnUeDQ": {
+        "en-US": "[Temple Guard]\nHave you come to assist the High Priest with his work?",
+        "pt-BR": "[Guarda do Templo]\nVeio ajudar nos afazeres do Sumo Sacerdote?",
+        "es-ES": "[Guardia del templo]\n¿Ha venido a ayudar al sumo sacerdote?"
+    },
+    "q3UeDQ": {
+        "en-US": "[Miriam]\nAssist with his work...? Is Father here?",
+        "pt-BR": "[Miriam]\nAjudar nos afazeres...? Meu pai está aqui?",
+        "es-ES": "[Miriam]\n¿Ayudarlo con su labor...? ¿Mi padre está aquí?"
+    },
+    "rHUeDQ": {
+        "en-US": "[Temple Guard]\nAh...",
+        "pt-BR": "[Guarda do Templo]\nAh...",
+        "es-ES": "[Guardia del templo]\nAh..."
+    },
+    "rXUeDQ": {
+        "en-US": "[Temple Guard]\nThere were no suspicious people here. Please return now.",
+        "pt-BR": "[Guarda do Templo]\nNão houve pessoas suspeitas por aqui. Volte imediatamente.",
+        "es-ES": "[Guardia del templo]\nNo ha venido ninguna persona sospechosa. Regrese de inmediato."
+    },
+    "rnUeDQ": {
+        "en-US": "Clatter.",
+        "pt-BR": "Clac.",
+        "es-ES": "Clac."
+    },
+    "r3UeDQ": {
+        "en-US": "Be careful.",
+        "pt-BR": "Tome mais cuidado.",
+        "es-ES": "Ten más cuidado."
+    },
+    "sHUeDQ": {
+        "en-US": "[Miriam]\nAre you certain no suspicious people came? They definitely entered here. If you give me just a moment, I will confirm it quickly.",
+        "pt-BR": "[Miriam]\nRealmente não vieram pessoas suspeitas? Eles certamente entraram aqui. Se me der um momento, verificarei rapidamente.",
+        "es-ES": "[Miriam]\n¿De verdad no ha entrado nadie sospechoso? Estoy segura de que entraron aquí. Si me da un momento, lo comprobaré enseguida."
+    },
+    "sXUeDQ": {
+        "en-US": "[Temple Guard]\nIf you come any closer, we will respond.",
+        "pt-BR": "[Guarda do Templo]\nSe se aproximar mais, responderemos.",
+        "es-ES": "[Guardia del templo]\nSi se acerca más, actuaremos."
+    },
+    "snUeDQ": {
+        "en-US": "[Miriam]\n... It cannot be helped. Adventurer?",
+        "pt-BR": "[Miriam]\n... Não há outro jeito. Aventureiro?",
+        "es-ES": "[Miriam]\n... No queda otra. ¿Aventurero?"
+    },
+    "s3UeDQ": {
+        "en-US": "Yes. I will handle them, so continue the pursuit.",
+        "pt-BR": "Sim. Eu os enfrento, então siga o rastro.",
+        "es-ES": "Sí. Yo me encargaré de ellos, siga el rastro."
+    },
+    "tHUeDQ": {
+        "en-US": "[Miriam]\nThen I leave it to you! I will leave traces, so follow them.",
+        "pt-BR": "[Miriam]\nEntão conto com você! Vou deixar um rastro, então venha me encontrar.",
+        "es-ES": "[Miriam]\n¡Entonces se lo encargo! Iré dejando un rastro, sígame."
+    },
+    "tXUeDQ": {
+        "en-US": "[Temple Guard]\nIntruder...! Mmgh!!!",
+        "pt-BR": "[Guarda do Templo]\nIntruso...! Ngh!!!",
+        "es-ES": "[Guardia del templo]\n¡Intruso...! ¡Mmph!!!"
+    },
+    "tnUeDQ": {
+        "en-US": "Temple Guard",
+        "pt-BR": "Guarda do Templo",
+        "es-ES": "Guardia del templo"
+    },
+    "t3UeDQ": {
+        "en-US": "I thought I heard fighting from somewhere?",
+        "pt-BR": "Ouvi sons de luta vindos de algum lugar.",
+        "es-ES": "¿Se ha oído una pelea en alguna parte?"
+    },
+    "uHUeDQ": {
+        "en-US": "You found your way here well. Shh- do you see those people over there?",
+        "pt-BR": "Você encontrou bem. Psiu- está vendo aquelas pessoas ali?",
+        "es-ES": "Han llegado bien. Shh... ¿Ven a esas personas de allí?"
+    },
+    "uXUeDQ": {
+        "en-US": "Smelling books makes me sleepy.",
+        "pt-BR": "O cheiro de livro está me dando sono.",
+        "es-ES": "Con el olor a libros me entra sueño."
+    },
+    "unUeDQ": {
+        "en-US": "Ramakus",
+        "pt-BR": "Ramakus",
+        "es-ES": "Ramakus"
+    },
+    "u3UeDQ": {
+        "en-US": "Was the party leader not supposed to step forward?",
+        "pt-BR": "Não era o líder do grupo quem ia se apresentar?",
+        "es-ES": "¿No iba a encargarse el líder del grupo?"
+    },
+    "vHUeDQ": {
+        "en-US": "[Miriam]\nWhat are you doing here right now?",
+        "pt-BR": "[Miriam]\nO que vocês estão fazendo aqui?",
+        "es-ES": "[Miriam]\n¿Qué están haciendo aquí?"
+    },
+    "vXUeDQ": {
+        "en-US": "[Ramakus]\nDamn! You startled me! What are you doing here yourself? Even dragging along an Adventurer?",
+        "pt-BR": "[Ramakus]\nAh, droga! Que susto! Mas o que você está fazendo aqui? E ainda com o Aventureiro?",
+        "es-ES": "[Ramakus]\n¡Ah, demonios! ¡Qué susto! ¡Y tú qué haces aquí, y con un aventurero además?"
+    },
+    "vnUeDQ": {
+        "en-US": "[Miriam]\nYou should not be here right now. If the temple side finds out, it will only put us in a more difficult position.",
+        "pt-BR": "[Miriam]\nVocês não deviam estar aqui agora. Se o lado do templo descobrir, nossa situação só vai piorar.",
+        "es-ES": "[Miriam]\nUstedes no deberían estar aquí. Si el templo se entera, nuestra situación solo empeorará."
+    },
+    "v3UeDQ": {
+        "en-US": "[Ramakus]\nIs it not obvious? We are raiding the archives. There must be a huge amount of settler secrets here.",
+        "pt-BR": "[Ramakus]\nNão está vendo? Estamos saqueando o arquivo. Deve haver muitos segredos dos imigrantes aqui.",
+        "es-ES": "[Ramakus]\n¿No lo ves? Estamos saqueando el archivo. Seguro que aquí hay un montón de secretos de los colonos."
+    },
+    "wHUeDQ": {
+        "en-US": "Think about it. If we get all of this into our hands?",
+        "pt-BR": "Pense bem. Se conseguirmos tudo isso para nós?",
+        "es-ES": "Piénsalo. Si todo esto cae en nuestras manos,"
+    },
+    "wXUeDQ": {
+        "en-US": "We can seize their weakness!",
+        "pt-BR": "Poderemos agarrar suas fraquezas!",
+        "es-ES": "¡podremos agarrarlos por sus puntos débiles!"
+    },
+    "wnUeDQ": {
+        "en-US": "[Miriam]\nThat is something to think about later. Go back for now. Return. Because of what you are doing right now, we could be put in greater danger.",
+        "pt-BR": "[Miriam]\nIsso pode esperar. Primeiro, voltem. Recuem. Por causa do que vocês estão fazendo, todos nós podemos correr mais perigo.",
+        "es-ES": "[Miriam]\nEso puede pensarse después. Primero regresen. Retírense. Por culpa de lo que están haciendo, podríamos correr aún más peligro."
+    },
+    "w3UeDQ": {
+        "en-US": "[Yopi]\nYou go back, Miriam. We are not going to keep acting with you frustrating people any longer.",
+        "pt-BR": "[Yopi]\nVocê é que devia voltar, Miriam. Não vou mais agir junto com vocês.",
+        "es-ES": "[Yopi]\nTú eres la que debería irse, Miriam. Ya no vamos a actuar junto a ustedes, que no hacen más que asfixiarnos."
+    },
+    "xHUeDQ": {
+        "en-US": "Who are you to tell us what to do?",
+        "pt-BR": "Quem é você para mandar na gente?",
+        "es-ES": "¿Y tú quién eres para decirnos lo que tenemos que hacer?"
+    },
+    "xXUeDQ": {
+        "en-US": "[Temple Guard]\nIntruders, here!",
+        "pt-BR": "[Guarda do Templo]\nAqui estão os intrusos!",
+        "es-ES": "[Guardia del templo]\n¡Aquí están los intrusos!"
+    },
+    "xnUeDQ": {
+        "en-US": "[Temple Guard]\nDrop all weapons and raise your hands!",
+        "pt-BR": "[Guarda do Templo]\nTodos larguem as armas e levantem as mãos!",
+        "es-ES": "[Guardia del templo]\n¡Todos tiren las armas y levanten las manos!"
+    },
+    "x3UeDQ": {
+        "en-US": "What should we do?",
+        "pt-BR": "O que fazemos?",
+        "es-ES": "¿Qué hacemos?"
+    },
+    "yHUeDQ": {
+        "en-US": "[Miriam]\nThere are not many of them for now, so let us deal with them.",
+        "pt-BR": "[Miriam]\nPor enquanto, não são muitos. Vamos enfrentá-los.",
+        "es-ES": "[Miriam]\nDe momento no son tantos, así que plantémosles cara."
+    },
+    "yXUeDQ": {
+        "en-US": "[Kun]\nYou showed up at a good time. Then we are off!",
+        "pt-BR": "[Kun]\nChegaram em boa hora. Então, nós vamos indo!",
+        "es-ES": "[Koon]\nHan llegado en el momento justo. ¡Entonces nosotros nos vamos!"
+    },
+    "ynUeDQ": {
+        "en-US": "[Miriam]\nWait!! Adventurer!",
+        "pt-BR": "[Miriam]\nEspere!! Aventureiro!",
+        "es-ES": "[Miriam]\n¡¡Esperen!! ¡Aventurero!"
+    },
+    "y3UeDQ": {
+        "en-US": "Leave this place to me!",
+        "pt-BR": "Deixe isso comigo!",
+        "es-ES": "¡Déjemelos a mí!"
+    },
+    "zHUeDQ": {
+        "en-US": "Kun",
+        "pt-BR": "Kun",
+        "es-ES": "Koon"
+    },
+    "zXUeDQ": {
+        "en-US": "Yopi",
+        "pt-BR": "Yopi",
+        "es-ES": "Yopi"
+    },
+    "znUeDQ": {
+        "en-US": "I have a chill down my back... like someone is watching me...?",
+        "pt-BR": "Sinto um arrepio nas costas... como se alguém estivesse nos observando...?",
+        "es-ES": "No sé por qué, pero me recorre un escalofrío por la espalda... como si alguien nos estuviera observando..."
+    },
+    "z3UeDQ": {
+        "en-US": "I hear something from this way.",
+        "pt-BR": "O som está vindo daqui.",
+        "es-ES": "Se oye algo por aquí."
+    },
+    "0HUeDQ": {
+        "en-US": "Hea... rt....",
+        "pt-BR": "Cora... ção....",
+        "es-ES": "El... cora... zón...."
+    },
+    "0XUeDQ": {
+        "en-US": "[Ramakus]\nDid you find it? Why is there nothing here but stuff about some cult?",
+        "pt-BR": "[Ramakus]\nEncontrou? Aqui só tem coisa sobre alguma seita?",
+        "es-ES": "[Ramakus]\n¿Lo encontraste? ¿Por qué aquí solo se habla de alguna secta?"
+    },
+    "0nUeDQ": {
+        "en-US": "[Kun]\nNot yet. I guess it is not on this side. Ah, wait... the Pope's...?",
+        "pt-BR": "[Kun]\nAinda não. Acho que não está deste lado. Ah, espere... o do Papa...?",
+        "es-ES": "[Koon]\nTodavía no. Parece que no está por aquí. Ah, espera... ¿del Papa...?"
+    },
+    "03UeDQ": {
+        "en-US": "[Yopi]\nLeave unrelated books alone. That is not what we are looking for.",
+        "pt-BR": "[Yopi]\nDeixe os livros que não têm relação. Não é isso que estamos procurando.",
+        "es-ES": "[Yopi]\nDeja los libros que no tengan nada que ver. No buscamos eso."
+    },
+    "1HUeDQ": {
+        "en-US": "[Miriam]\nYou...!",
+        "pt-BR": "[Miriam]\nVocês...!",
+        "es-ES": "[Miriam]\n¡Ustedes...!"
+    },
+    "1XUeDQ": {
+        "en-US": "Shh- just a moment.",
+        "pt-BR": "Psiu- só um instante.",
+        "es-ES": "Shh... un momento."
+    },
+    "1nUeDQ": {
+        "en-US": "[Ramakus]\nNo matter how secret these archives are, they would not just leave that kind of book carelessly shelved here.",
+        "pt-BR": "[Ramakus]\nMesmo que seja um arquivo secreto, não teriam deixado um livro desses jogado por aí assim.",
+        "es-ES": "[Ramakus]\nPor muy archivo secreto que sea, no habrán dejado un libro así metido aquí sin más."
+    },
+    "13UeDQ": {
+        "en-US": "[Kun]\nThen is there another secret archive even inside the secret archives?",
+        "pt-BR": "[Kun]\nEntão quer dizer que existe outro arquivo secreto dentro do arquivo secreto?",
+        "es-ES": "[Koon]\nEntonces, ¿habrá otro archivo secreto dentro del archivo secreto?"
+    },
+    "2HUeDQ": {
+        "en-US": "[Yopi]\nHow would I know? Just keep looking.",
+        "pt-BR": "[Yopi]\nTambém não sei. Vamos só procurar.",
+        "es-ES": "[Yopi]\nEso ni yo lo sé. Limitémonos a buscar."
+    },
+    "2XUeDQ": {
+        "en-US": "[Kun]\nIt would be nice if we at least knew the title.",
+        "pt-BR": "[Kun]\nSeria bom ao menos saber o título.",
+        "es-ES": "[Koon]\nOjalá al menos supiéramos el título."
+    },
+    "2nUeDQ": {
+        "en-US": "[Ramakus]\nIf we knew that, do you think we would be doing this? We were told to bring back anything that looks similar. Hurry up and find it.",
+        "pt-BR": "[Ramakus]\nSe eu soubesse isso, acha que estaria fazendo isso? Mandaram trazer tudo o que parecesse parecido. Anda logo e procura.",
+        "es-ES": "[Ramakus]\nSi lo supiéramos, ¿crees que estaríamos así? Nos dijeron que trajéramos todo lo que pareciera relacionado. Así que date prisa y busca."
+    },
+    "23UeDQ": {
+        "en-US": "Does it not seem like they are looking for a specific book?",
+        "pt-BR": "Parece que eles estão procurando um livro específico, não?",
+        "es-ES": "¿No parece que estén buscando un libro en concreto?"
+    },
+    "3HUeDQ": {
+        "en-US": "[Miriam]\nA specific book...? Not a book to seize someone's weakness?",
+        "pt-BR": "[Miriam]\nUm livro específico...? Então não é um livro para agarrar fraquezas?",
+        "es-ES": "[Miriam]\n¿Un libro en concreto...? ¿No un libro con el que agarrarlos por los puntos débiles?"
+    },
+    "3XUeDQ": {
+        "en-US": "[Miriam]\nNo, you little...! Hey! What are you looking for? What is your objective?",
+        "pt-BR": "[Miriam]\nO quê, vocês...? Ei! O que vocês estão procurando? Qual é o objetivo?",
+        "es-ES": "[Miriam]\nNo, pero bueno. ¡Eh! ¿Qué es lo que buscan? ¿Cuál es su objetivo?"
+    },
+    "3nUeDQ": {
+        "en-US": "[Yopi]\nAh, you came again! Why are you secretly eavesdropping? Like you are the one hiding something shady.",
+        "pt-BR": "[Yopi]\nAh, você de novo! Por que fica escutando escondida? Parece até que está escondendo alguma coisa.",
+        "es-ES": "[Yopi]\nAh, ya están aquí otra vez. ¿Por qué andáis escuchando a escondidas? Como si vosotros tuvierais algo turbio que ocultar."
+    },
+    "33UeDQ": {
+        "en-US": "Why do you keep following us? Why do you keep interfering?",
+        "pt-BR": "Por que continuam nos seguindo? Por que continuam atrapalhando?",
+        "es-ES": "¿Por qué nos seguís todo el rato? ¿Por qué no dejáis de molestar?"
+    },
+    "4HUeDQ": {
+        "en-US": "[Miriam]\nDid you forget? You are the ones who sneaked in here with shady intentions. What book are you looking for?",
+        "pt-BR": "[Miriam]\nEsqueceu? Vocês é que se infiltraram escondendo alguma coisa, não foi? Que livro estão procurando?",
+        "es-ES": "[Miriam]\n¿Lo has olvidado? Ustedes son los que se infiltraron con segundas intenciones, ¿no? ¿Qué libro buscan?"
+    },
+    "4XUeDQ": {
+        "en-US": "[Ramakus]\nThat really hurts, you know. Do you think we are doing this just so we can live well by ourselves? Can you not see we are doing this so we can all survive together?",
+        "pt-BR": "[Ramakus]\nIsso machuca, sabia? Acha que estamos fazendo isso só para viver bem sozinhos? Não vê que é para todos vivermos juntos?",
+        "es-ES": "[Ramakus]\nDe verdad que haces daño. ¿Te crees que hacemos esto solo para vivir bien nosotros? ¿No ves que lo hacemos para que vivamos todos?"
+    },
+    "4nUeDQ": {
+        "en-US": "Are you framing us right now?",
+        "pt-BR": "Está nos caluniando agora?",
+        "es-ES": "¿Ahora nos estás calumniando?"
+    },
+    "43UeDQ": {
+        "en-US": "What did you just say to us?",
+        "pt-BR": "O que foi que você disse pra gente?",
+        "es-ES": "¿Qué has dicho de nosotros?"
+    },
+    "5HUeDQ": {
+        "en-US": "[Ramakus]\nInstead of recognizing our sincerity. Anyway, it should be about time...",
+        "pt-BR": "[Ramakus]\nEm vez de reconhecer nossa sinceridade. Aliás, já era para ter chegado...",
+        "es-ES": "[Ramakus]\nEn vez de reconocer nuestras verdaderas intenciones. Por cierto, ya deberían haber llegado..."
+    },
+    "5XUeDQ": {
+        "en-US": "[Miriam]\nWe have to catch them and make them talk...!",
+        "pt-BR": "[Miriam]\nTemos que capturá-los e fazê-los falar...!",
+        "es-ES": "[Miriam]\n¡Hay que atraparlos y hacer que hablen...!"
+    },
+    "5nUeDQ": {
+        "en-US": "[Temple Guard]\nHere! The intruders are here!!!",
+        "pt-BR": "[Guarda do Templo]\nAqui! Os intrusos estão aqui!!!",
+        "es-ES": "[Guardia del templo]\n¡Aquí! ¡Los intrusos están aquí!!!"
+    },
+    "53UeDQ": {
+        "en-US": "They are here!!! Good luck with that! Let's go, everyone!",
+        "pt-BR": "Chegaram!!! Então, bom trabalho! Vamos, pessoal!",
+        "es-ES": "¡¡Ya vienen!!! ¡Pues nada, buen trabajo! ¡Vamos, chicos!"
+    },
+    "6HUeDQ": {
+        "en-US": "I will pursue them, so Adventurer, please deal with these people!",
+        "pt-BR": "Eu vou persegui-los, então Aventureiro, cuide destes aqui!",
+        "es-ES": "¡Yo los seguiré, aventurero, encárguese de estos de aquí!"
+    },
+    "6XUeDQ": {
+        "en-US": "[Temple Guard]\nDrop your weapons!!",
+        "pt-BR": "[Guarda do Templo]\nLarguem as armas!!",
+        "es-ES": "[Guardia del templo]\n¡¡Tiren las armas!!"
+    },
+    "6nUeDQ": {
+        "en-US": "I have a bad feeling. It feels like that girl is still following us.",
+        "pt-BR": "Estou com um mau pressentimento. Acho que ela ainda está nos seguindo.",
+        "es-ES": "Esto me da mala espina. Creo que esa chica todavía nos sigue."
+    },
+    "63UeDQ": {
+        "en-US": "You see the front of that bookshelf over there, right?",
+        "pt-BR": "Está vendo aquela estante ali?",
+        "es-ES": "¿Ven aquella estantería de allí?"
+    },
+    "7HUeDQ": {
+        "en-US": "At this rate my fingers will wear out.",
+        "pt-BR": "Assim meus dedos vão acabar se desgastando.",
+        "es-ES": "A este paso se me van a desgastar los dedos."
+    },
+    "7XUeDQ": {
+        "en-US": "[Yopi]\nIs this not the last place now?",
+        "pt-BR": "[Yopi]\nEste não é o último lugar?",
+        "es-ES": "[Yopi]\n¿No es este ya el último lugar?"
+    },
+    "7nUeDQ": {
+        "en-US": "[Ramakus]\nSeems so. There really must be a separate true secret archive.",
+        "pt-BR": "[Ramakus]\nPois é. Acho que realmente existe outro arquivo secreto.",
+        "es-ES": "[Ramakus]\nEso parece. Debe de haber otro archivo secreto de verdad."
+    },
+    "73UeDQ": {
+        "en-US": "Ugh, what a wasted trip.",
+        "pt-BR": "Ah, que desperdício de tempo.",
+        "es-ES": "Uf, al final ha sido en vano."
+    },
+    "8HUeDQ": {
+        "en-US": "They are not going to hold us responsible just because we failed, right?",
+        "pt-BR": "Não vão nos responsabilizar por termos fracassado, vão?",
+        "es-ES": "No nos echarán la culpa por haber fallado, ¿verdad?"
+    },
+    "8XUeDQ": {
+        "en-US": "[Ramakus]\nThey told us to check whether it exists in the first place, not that it definitely exists and to bring it back.",
+        "pt-BR": "[Ramakus]\nDesde o início mandaram procurar se isso existia, não disseram para trazer porque existia.",
+        "es-ES": "[Ramakus]\nDesde el principio nos dijeron que averiguáramos si existía, no que lo encontráramos porque seguro que estaba, ¿no?"
+    },
+    "8nUeDQ": {
+        "en-US": "[Kun]\nAsk if we can withdraw.",
+        "pt-BR": "[Kun]\nPergunte se já podemos recuar.",
+        "es-ES": "[Koon]\nPregunta si ya podemos retirarnos."
+    },
+    "83UeDQ": {
+        "en-US": "This is Wolf, Wolf.",
+        "pt-BR": "Aqui é lobo, lobo.",
+        "es-ES": "Aquí lobo, lobo."
+    },
+    "9HUeDQ": {
+        "en-US": "???: Did you find the item?",
+        "pt-BR": "???: Encontraram o objeto?",
+        "es-ES": "???: ¿Han encontrado el objeto?"
+    },
+    "9XUeDQ": {
+        "en-US": "This is the last archive, but it seems it is not here after all.",
+        "pt-BR": "É o último arquivo, mas pelo visto não está aqui.",
+        "es-ES": "Es el último archivo, pero al parecer no está aquí."
+    },
+    "9nUeDQ": {
+        "en-US": "???: Stand by.",
+        "pt-BR": "???: Aguardem.",
+        "es-ES": "???: Esperen."
+    },
+    "93UeDQ": {
+        "en-US": "[Kun]\nWait, am I seeing things right now? Miriam and the Adventurer are over there.",
+        "pt-BR": "[Kun]\nEspera, estou vendo coisas? Miriam e o Aventureiro estão ali.",
+        "es-ES": "[Koon]\nEspera, ¿estaré viendo visiones? Allí están Miriam y el aventurero."
+    },
+    "+HUeDQ": {
+        "en-US": "So persistent. They even defeated all the guards. I guess they are more capable than expected.",
+        "pt-BR": "Vocês são mesmo insistentes. Derrotaram todos os guardas, então acho que são mais habilidosos do que parecem.",
+        "es-ES": "Qué pesados son de verdad. Han derrotado a todos los guardias, así que parece que tienen más habilidad de la que pensaba."
+    },
+    "+XUeDQ": {
+        "en-US": "[Miriam]\nWho were you contacting just now?",
+        "pt-BR": "[Miriam]\nCom quem vocês estavam falando agora?",
+        "es-ES": "[Miriam]\n¿Con quién estaban contactando ahora mismo?"
+    },
+    "+nUeDQ": {
+        "en-US": "Were you acting under orders?",
+        "pt-BR": "Receberam ordens?",
+        "es-ES": "¿Han recibido órdenes de alguien?"
+    },
+    "+3UeDQ": {
+        "en-US": "[Ramakus]\nUnderr orders? We do not take those.",
+        "pt-BR": "[Ramakus]\nOrdens? Nós não recebemos esse tipo de coisa.",
+        "es-ES": "[Ramakus]\n¿Órdenes? Nosotros no recibimos esas cosas."
+    },
+    "/HUeDQ": {
+        "en-US": "I do believe in fortunes, though.",
+        "pt-BR": "Eu até acredito em ordens.",
+        "es-ES": "Yo sí creo un poco en las órdenes."
+    },
+    "/XUeDQ": {
+        "en-US": "We do not betray people. Never.",
+        "pt-BR": "Nós não traímos. Nunca.",
+        "es-ES": "Nosotros no traicionamos. Jamás."
+    },
+    "/nUeDQ": {
+        "en-US": "This way!",
+        "pt-BR": "É por aqui!",
+        "es-ES": "¡Por aquí!"
+    },
+    "/3UeDQ": {
+        "en-US": "Oops!! You came in person!!",
+        "pt-BR": "Ops!! Vieram pessoalmente!!",
+        "es-ES": "¡¡Uy!! ¡Ha venido en persona!!"
+    },
+    "AHYeDQ": {
+        "en-US": "......",
+        "pt-BR": "......",
+        "es-ES": "......"
+    },
+    "AXYeDQ": {
+        "en-US": "You have arrived, sir!",
+        "pt-BR": "Chegaram!",
+        "es-ES": "¡¡Ha llegado!!"
+    },
+    "AnYeDQ": {
+        "en-US": "[??]\nIs this the last archive?",
+        "pt-BR": "[??]\nEste é o último arquivo?",
+        "es-ES": "[??]\n¿Este es el último archivo?"
+    },
+    "A3YeDQ": {
+        "en-US": "[Ramakus]\nYes, it is.",
+        "pt-BR": "[Ramakus]\nSim.",
+        "es-ES": "[Ramakus]\nAsí es."
+    },
+    "BHYeDQ": {
+        "en-US": "[??]\nIt would have been nice if you had found the book, but it cannot be helped. That side has finished its work, so we are withdrawing from here.",
+        "pt-BR": "[??]\nTeria sido bom se tivessem encontrado o livro, mas não há jeito. O outro lado já terminou o trabalho, então vamos recuar daqui.",
+        "es-ES": "[??]\nHabría sido mejor encontrar el libro, pero no se puede hacer nada. Allí ya han terminado el trabajo, así que aquí nos retiramos."
+    },
+    "BXYeDQ": {
+        "en-US": "[Miriam]\nWho are you! What relationship do you have with these people here?",
+        "pt-BR": "[Miriam]\nQuem é você! Que relação tem com esses sujeitos?",
+        "es-ES": "[Miriam]\n¡¿Quién eres?! ¡¿Qué relación tienes con estos?"
+    },
+    "BnYeDQ": {
+        "en-US": "[??]\nWhat? Who did you bring with you?",
+        "pt-BR": "[??]\nO que é isso? O que vocês trouxeram grudado?",
+        "es-ES": "[??]\n¿Qué es esto? ¿Qué os han pegado?"
+    },
+    "B3YeDQ": {
+        "en-US": "[Yopi]\nLike a wolf sniffing out a scent, they followed us on their own. We will deal with them shortly.",
+        "pt-BR": "[Yopi]\nComo era de se esperar de um lobo, seguiram o cheiro e vieram atrás por conta própria. Vamos resolver isso logo.",
+        "es-ES": "[Yopi]\nNos han seguido por su cuenta, oliendo el rastro como si fueran lobos. Enseguida nos ocuparemos de ellos."
+    },
+    "CHYeDQ": {
+        "en-US": "[??]\nThere is no need. You all withdraw now and leave this place to these newcomers.",
+        "pt-BR": "[??]\nNão é necessário. Vocês recuem agora, e deixem isto com esses novatos.",
+        "es-ES": "[??]\nNo hace falta. Ustedes retírense ya y dejen esto en manos de estos novatos."
+    },
+    "CXYeDQ": {
+        "en-US": "[Ramakus]\nYes, sir!!",
+        "pt-BR": "[Ramakus]\nSim!!",
+        "es-ES": "[Ramakus]\n¡¡Sí!!"
+    },
+    "CnYeDQ": {
+        "en-US": "[Miriam]\nWait!!!",
+        "pt-BR": "[Miriam]\nEsperem!!!",
+        "es-ES": "[Miriam]\n¡¡¡Esperen!!!"
+    },
+    "C3YeDQ": {
+        "en-US": "[Temple Guard]\nEliminate all intruders!",
+        "pt-BR": "[Guarda do Templo]\nEliminem todos os intrusos!",
+        "es-ES": "[Guardia del templo]\n¡Acabaremos con todos los intrusos!"
+    },
+    "DHYeDQ": {
+        "en-US": "Who are you calling intruders?",
+        "pt-BR": "Quem você está chamando de intruso?",
+        "es-ES": "¿A quién llamas intruso?"
+    },
+    "DXYeDQ": {
+        "en-US": "[Miriam]\nIt seems things have gotten strangely tangled, does it not? Even the temple guards have been bought off. If we are to find out what happened...",
+        "pt-BR": "[Miriam]\nParece que as coisas se complicaram de forma estranha, não é? Até mesmo os guardas do templo foram subornados. Para descobrir o que está acontecendo...",
+        "es-ES": "[Miriam]\nEsto se ha enredado de una forma muy extraña, ¿verdad? Incluso han sobornado a los guardias del templo. Para averiguar qué está pasando..."
+    },
+    "DnYeDQ": {
+        "en-US": "Leave these people to me.",
+        "pt-BR": "Deixe essas pessoas comigo.",
+        "es-ES": "Déjemelos a mí."
+    },
+    "D3YeDQ": {
+        "en-US": "[Temple Guard]\nAll units, formation!",
+        "pt-BR": "[Guarda do Templo]\nTodos em formação!",
+        "es-ES": "[Guardia del templo]\n¡Todos en formación!"
+    },
+    "EHYeDQ": {
+        "en-US": "[Yopi]\nBye~ It was awful meeting you, so let us never meet again, okay?",
+        "pt-BR": "[Yopi]\nTchau~ foi horrível conhecer você, então vamos evitar nos ver de novo, tá?",
+        "es-ES": "[Yopi]\n¡Adiós~ ha sido horrible conoceros, así que mejor no volvamos a vernos!"
+    },
+    "EXYeDQ": {
+        "en-US": "Schulang",
+        "pt-BR": "Schulang",
+        "es-ES": "Schulang"
+    },
+    "EnYeDQ": {
+        "en-US": "Temple Guard",
+        "pt-BR": "Guarda do Templo",
+        "es-ES": "Guardia del templo"
+    },
+    "E3YeDQ": {
+        "en-US": "Beep- Storage room unlock protocol activated",
+        "pt-BR": "Bip- protocolo de desbloqueio da sala de armazenamento ativado",
+        "es-ES": "Bip- activando protocolo de desbloqueo del almacén"
+    },
+    "FHYeDQ": {
+        "en-US": "Hey, there are other people there? What are they saying?",
+        "pt-BR": "Ei, há outras pessoas ali, não? O que estão dizendo?",
+        "es-ES": "Oiga, hay otras personas allí. ¿Qué están diciendo?"
+    },
+    "FXYeDQ": {
+        "en-US": "It seems the others have not arrived yet.",
+        "pt-BR": "Parece que o restante do grupo ainda não chegou.",
+        "es-ES": "Parece que los demás aún no han llegado."
+    },
+    "FnYeDQ": {
+        "en-US": "Miriam",
+        "pt-BR": "Miriam",
+        "es-ES": "Miriam"
+    },
+    "F3YeDQ": {
+        "en-US": "[Miriam]\nWhat are they doing? How many people have gathered there? I cannot see very well from here, can you show me something?",
+        "pt-BR": "[Miriam]\nO que estão fazendo? Quantas pessoas estão reunidas? Daqui não dá para ver direito, mostre alguma coisa.",
+        "es-ES": "[Miriam]\n¿Qué están haciendo? ¿Cuánta gente se ha reunido? Desde aquí no se ve bien, ¿logra ver algo?"
+    },
+    "GHYeDQ": {
+        "en-US": "There are some people I do not know as well.",
+        "pt-BR": "Também há algumas pessoas que não conheço.",
+        "es-ES": "También hay algunas personas que no conozco."
+    },
+    "GXYeDQ": {
+        "en-US": "[???]\nAre we still far from done?",
+        "pt-BR": "[???]\nAinda não?",
+        "es-ES": "[???]\n¿Aún falta mucho?"
+    },
+    "GnYeDQ": {
+        "en-US": "[Ramakus]\nIt seems we are almost done now.",
+        "pt-BR": "[Ramakus]\nAgora está quase pronto.",
+        "es-ES": "[Ramakus]\nParece que ya casi está."
+    },
+    "G3YeDQ": {
+        "en-US": "[???]\nReally, truly, the security is thorough. Rea~ lly airtight.",
+        "pt-BR": "[???]\nRealmente, essa segurança é rigorosa. Re~ almente impenetrável.",
+        "es-ES": "[???]\nVaya, sí que es estricta la seguridad. Realmente... impenetrable."
+    },
+    "HHYeDQ": {
+        "en-US": "[???]\n... Does your side not even have this much security?",
+        "pt-BR": "[???]\n... Do seu lado não existe nem esse nível de segurança?",
+        "es-ES": "[???]\n... ¿Es que allí no tenéis ni esta clase de seguridad?"
+    },
+    "HXYeDQ": {
+        "en-US": "[???]\nOld man, do you not know irony?! Airtight security is not a synonym for cumbersome and troublesome procedures!",
+        "pt-BR": "[???]\nVelhote, você não conhece ironia?! Segurança impenetrável não é sinônimo de processos incômodos e complicados, sabia?",
+        "es-ES": "[???]\n¡Viejo, ¿no conoces la ironía?! Seguridad impenetrable no es sinónimo de procedimientos engorrosos y complicados, ¿no?!"
+    },
+    "HnYeDQ": {
+        "en-US": "[Miriam]\nThat voice is...",
+        "pt-BR": "[Miriam]\nEssa voz...",
+        "es-ES": "[Miriam]\nEsa voz..."
+    },
+    "H3YeDQ": {
+        "en-US": "Is it someone you know?",
+        "pt-BR": "Você conhece?",
+        "es-ES": "¿Conoce a esa persona?"
+    },
+    "IHYeDQ": {
+        "en-US": "[Miriam]\nI cannot be sure because they are obscured, but...",
+        "pt-BR": "[Miriam]\nEstá escondido, então não posso ter certeza, mas...",
+        "es-ES": "[Miriam]\nNo puedo asegurarlo porque está tapado, pero..."
+    },
+    "IXYeDQ": {
+        "en-US": "Buzz- Clank-",
+        "pt-BR": "Zing- clac-",
+        "es-ES": "Ziiiing- clac-"
+    },
+    "InYeDQ": {
+        "en-US": "[???]\nLet us go in.",
+        "pt-BR": "[???]\nVamos entrar.",
+        "es-ES": "[???]\nEntremos."
+    },
+    "I3YeDQ": {
+        "en-US": "[Miriam]\nLet us go in too.",
+        "pt-BR": "[Miriam]\nVamos entrar também.",
+        "es-ES": "[Miriam]\nEntremos también."
+    },
+    "JHYeDQ": {
+        "en-US": "This way! Hurry and follow them!",
+        "pt-BR": "É por aqui! Vamos, apressem-se!",
+        "es-ES": "¡Por aquí! ¡Vamos, deprisa!"
+    },
+    "JXYeDQ": {
+        "en-US": "Ramakus",
+        "pt-BR": "Ramakus",
+        "es-ES": "Ramakus"
+    },
+    "JnYeDQ": {
+        "en-US": "Kun",
+        "pt-BR": "Kun",
+        "es-ES": "Koon"
+    },
+    "J3YeDQ": {
+        "en-US": "Yopi",
+        "pt-BR": "Yopi",
+        "es-ES": "Yopi"
+    },
+    "KHYeDQ": {
+        "en-US": "Bagot",
+        "pt-BR": "Bagot",
+        "es-ES": "Bagot"
+    },
+    "KXYeDQ": {
+        "en-US": "High Priest",
+        "pt-BR": "Sumo Sacerdote",
+        "es-ES": "Sumo sacerdote"
+    },
+    "KnYeDQ": {
+        "en-US": "They are all gathered over there.",
+        "pt-BR": "Todos estão reunidos ali.",
+        "es-ES": "Todos están reunidos allí."
+    },
+    "K3YeDQ": {
+        "en-US": "[???]\nSchulang, have you secured it? Not yet? This Bagot is just about at the end of his patience.",
+        "pt-BR": "[???]\nSchulang, conseguiu? Ainda não? A paciência de Bagot está quase chegando ao limite.",
+        "es-ES": "[???]\nSchulang, ¿lo has asegurado? ¿Todavía no? Este Bagot está a punto de quedarse sin paciencia."
+    },
+    "LHYeDQ": {
+        "en-US": "[Ramakus]\nBut do we have to keep wearing this?",
+        "pt-BR": "[Ramakus]\nMas precisamos mesmo continuar usando isso?",
+        "es-ES": "[Ramakus]\nPero ¿tenemos que seguir llevando esto puesto?"
+    },
+    "LXYeDQ": {
+        "en-US": "It is suffocating.",
+        "pt-BR": "É desconfortável.",
+        "es-ES": "Es agobiante."
+    },
+    "LnYeDQ": {
+        "en-US": "[Schulang]\nWhat does it matter? We came this far. Do whatever you want.",
+        "pt-BR": "[Schulang]\nE daí? Já chegamos até aqui. Façam como quiserem.",
+        "es-ES": "[Schulang]\n¿Y qué más da? A estas alturas. Haz lo que quieras."
+    },
+    "L3YeDQ": {
+        "en-US": "[Yopi]\nHah- now I can finally breathe.",
+        "pt-BR": "[Yopi]\nHah- agora sim posso respirar.",
+        "es-ES": "[Yopi]\nHaa... ahora sí que puedo respirar."
+    },
+    "MHYeDQ": {
+        "en-US": "I thought I was going to die from how cumbersome this was!",
+        "pt-BR": "Achei que fosse morrer com esse trambolho!",
+        "es-ES": "¡Casi me muero de lo incómodo que era!"
+    },
+    "MXYeDQ": {
+        "en-US": "So Heart Hunter had been disguised.",
+        "pt-BR": "Então era Caça-Corações disfarçado.",
+        "es-ES": "Así que Cazacorazones iba disfrazado."
+    },
+    "MnYeDQ": {
+        "en-US": "[Miriam]\nHeart Hunter... the same group as those mad scientists you spoke of... then from the very beginning...!",
+        "pt-BR": "[Miriam]\nCaça-Corações... então você é aliado daqueles cientistas loucos de quem falaram... então desde o começo...!",
+        "es-ES": "[Miriam]\nCazacorazones... los mismos que mencionaste, esos científicos lunáticos... entonces desde el principio...!"
+    },
+    "M3YeDQ": {
+        "en-US": "[{0}]\nThere were still quite a lot of Heart Hunter modified with the Heart of Ymir, were there not?",
+        "pt-BR": "[{0}]\nAinda restavam muitos Caça-Corações modificados com o coração de Ymir, não é?",
+        "es-ES": "[{0}]\nTodavía quedaban bastantes Cazacorazones modificados con el corazón de Ymir, ¿verdad?"
+    },
+    "NHYeDQ": {
+        "en-US": "[Schulang]\nHave we met before? Ah, you must be those small fry who kept chasing after us. I heard about you.",
+        "pt-BR": "[Schulang]\nJá nos vimos antes? Ah, vocês são os peixinhos que vieram seguindo. Ouvi falar de vocês.",
+        "es-ES": "[Schulang]\n¿Nos conocemos? Ah, ustedes son esos don nadie que venían siguiéndonos. Ya oí hablar de ustedes."
+    },
+    "NXYeDQ": {
+        "en-US": "Oh, those people? You chased us so persistently that it was quite a surprise. I thought I had somehow incurred a debt without knowing it.",
+        "pt-BR": "Ah, aqueles? Fiquei até surpreso com o quanto nos perseguiram. Achei que tinha ficado devendo algo sem perceber.",
+        "es-ES": "Ah, ¿ellos? Nos perseguían con tanta insistencia que casi me asusto. Pensé que les debíamos algo sin saberlo."
+    },
+    "NnYeDQ": {
+        "en-US": "Your side must be Illusion.",
+        "pt-BR": "Do outro lado deve ser Ilusión.",
+        "es-ES": "Vosotros debéis de ser de Illusion."
+    },
+    "N3YeDQ": {
+        "en-US": "[Bagot]\nAh, that startled me. You even know Bagot? That is troublesome if my face is known.",
+        "pt-BR": "[Bagot]\nAh, que susto. Até Bagot você conhece? Vai ser problemático se meu rosto ficar famoso.",
+        "es-ES": "[Bagot]\nAh, qué susto. ¿Hasta Bagot conocen? Sería un problema que se me hiciera conocida la cara."
+    },
+    "OHYeDQ": {
+        "en-US": "What does it matter. They are going to disappear here anyway.",
+        "pt-BR": "Que diferença faz? De qualquer forma, vocês vão desaparecer aqui.",
+        "es-ES": "¿Qué más da? Total, van a desaparecer aquí mismo."
+    },
+    "OXYeDQ": {
+        "en-US": "[???]\nEverything is prepared.",
+        "pt-BR": "[???]\nTudo já está pronto.",
+        "es-ES": "[???]\nYa está todo preparado."
+    },
+    "OnYeDQ": {
+        "en-US": "[Miriam]\n...Father??",
+        "pt-BR": "[Miriam]\n...Pai??",
+        "es-ES": "[Miriam]\n...¿Padre??"
+    },
+    "O3YeDQ": {
+        "en-US": "[Yus Amal]\nMiriam, you have done well to come this far. You have done your part, so now return.",
+        "pt-BR": "[Yus Amal]\nMiriam, você fez bem em chegar até aqui. Já cumpriu sua parte, então agora volte.",
+        "es-ES": "[Yus Amals]\nMiriam, has llegado bien hasta aquí. Ya has cumplido con tu parte, así que vuelve."
+    },
+    "PHYeDQ": {
+        "en-US": "[Miriam]\nDone well...? What do you mean?",
+        "pt-BR": "[Miriam]\nFiz bem...? O quê?",
+        "es-ES": "[Miriam]\n¿He cumplido...? ¿Con qué?"
+    },
+    "PXYeDQ": {
+        "en-US": "[Bagot]\nWow, your father praised you. How nice. Praise is so important in parenting.\nBagot cannot even remember when he was last praised. Hmm... ah! I have no memory of it because it never happened!",
+        "pt-BR": "[Bagot]\nUau, recebeu elogios do pai. Que inveja. Elogio é tão importante na criação dos filhos.\nBagot nem se lembra da última vez que recebeu um. Hum... ah! Não recebeu, então não há o que lembrar!",
+        "es-ES": "[Bagot]\nVaya, tu padre te ha felicitado. Qué bien. Los elogios son muy importantes en la crianza.\nBagot ya ni recuerda cuándo recibió uno. Mmm... ¡Ah! Claro, como nunca recibió ninguno, no lo recuerda."
+    },
+    "PnYeDQ": {
+        "en-US": "Now that you have been praised, I guess you can go home, wash your feet, and go to sleep.",
+        "pt-BR": "Já que recebeu elogio, agora pode ir para casa, lavar os pés e dormir.",
+        "es-ES": "Ya que te han felicitado, ahora puedes irte a casa, lavarte los pies y dormir."
+    },
+    "P3YeDQ": {
+        "en-US": "[Miriam]\nWhat is this, what is happening? Why is Father... what did I do?",
+        "pt-BR": "[Miriam]\nO que é isso, o que está acontecendo? Por que meu pai... o que foi que eu fiz?",
+        "es-ES": "[Miriam]\n¿Qué es esto, qué está pasando? ¿Por qué está mi padre aquí...? ¿Qué he hecho yo?"
+    },
+    "QHYeDQ": {
+        "en-US": "[Yus Amal]\n... If you have obtained what was needed, then deal with them and go.",
+        "pt-BR": "[Yus Amal]\n... Se já conseguiram o que precisavam, cuidem do resto e vão.",
+        "es-ES": "[Yus Amals]\n... Si ya han conseguido lo que necesitaban, acaben con ellos y vámonos."
+    },
+    "QXYeDQ": {
+        "en-US": "[Miriam]\nFather! Father!!!",
+        "pt-BR": "[Miriam]\nPai! Pai!!!",
+        "es-ES": "[Miriam]\n¡Padre! ¡¡¡Padre!!!"
+    },
+    "QnYeDQ": {
+        "en-US": "[Bagot]\nOh dear! A father who gives praise but no affection?",
+        "pt-BR": "[Bagot]\nOra! Um pai que elogia, mas sem afeto?",
+        "es-ES": "[Bagot]\n¡Vaya! ¿Te felicita, pero no te demuestra afecto?"
+    },
+    "Q3YeDQ": {
+        "en-US": "[Miriam]\nWhat are you doing to my father?",
+        "pt-BR": "[Miriam]\nO que estão fazendo com meu pai?",
+        "es-ES": "[Miriam]\n¿Qué le están haciendo a mi padre?"
+    },
+    "RHYeDQ": {
+        "en-US": "[Bagot]\nAh, so the daughter does not know? The old man's wish is to drive all natives out of Arunafeltz. We helped with that a little. Of course, not for free.",
+        "pt-BR": "[Bagot]\nAh, então a filha não sabe? O desejo do velhote era expulsar todos os nativos de Arunafeltz. Nós só demos uma ajudinha nisso. Claro, não foi de graça.",
+        "es-ES": "[Bagot]\nAh, ¿la hija no lo sabe? Resulta que el deseo del viejo es expulsar a todos los nativos de Arunafeltz. Nosotros solo le hemos echado una pequeña mano. Claro que no gratis."
+    },
+    "RXYeDQ": {
+        "en-US": "At his age, he should live doing everything he wants. Otherwise he will make himself sick.",
+        "pt-BR": "Na velhice, tem que viver fazendo tudo o que quer. Senão adoece.",
+        "es-ES": "A su edad hay que vivir haciendo todo lo que uno quiere. Si no, uno enferma."
+    },
+    "RnYeDQ": {
+        "en-US": "Hehe- my imitation of him was pretty good, right? Give us some praise too.",
+        "pt-BR": "Hehe- minha imitação ficou boa, não foi? Elogia a gente também.",
+        "es-ES": "Je, je. ¿A que he imitado bien a ese lado? Vamos, felicítanos también a nosotros."
+    },
+    "R3YeDQ": {
+        "en-US": "[Heart Hunter]\nThanks to you and your friends, Miriam, we were able to complete this picture of a riot. Many thanks!",
+        "pt-BR": "[Caça-Corações]\nGraças a você, Miriam, e aos seus amigos, conseguimos completar esse quadro de motim. Muito obrigado!",
+        "es-ES": "[Cazacorazones]\nGracias a ti, Miriam, y a tus amigos, hemos podido completar este cuadro del motín. ¡Muchísimas gracias!"
+    },
+    "SHYeDQ": {
+        "en-US": "[Miriam]\nDo you think that makes any sense?",
+        "pt-BR": "[Miriam]\nVocê acha mesmo que isso faz sentido?",
+        "es-ES": "[Miriam]\n¿De verdad crees que eso tiene sentido?"
+    },
+    "SXYeDQ": {
+        "en-US": "[Bagot]\nWhat do you mean? After a few rounds of incitement, you all came out to protest all the way to the temple, did you not?",
+        "pt-BR": "[Bagot]\nDo que está falando? Bastaram algumas provocações para vocês irem protestar até no templo, não foi?",
+        "es-ES": "[Bagot]\n¿Pero qué dices? ¿No salieron a protestar hasta el templo con solo unas cuantas provocaciones?"
+    },
+    "SnYeDQ": {
+        "en-US": "[Bagot]\nSoon the protest outside will turn into a riot, right? Then the old man's wish will come true. Then he will make another wish, right? And we will receive payment again?",
+        "pt-BR": "[Bagot]\nDaqui a pouco o protesto lá fora vai virar motim, certo? Então o desejo do velhote vai se realizar. Aí ele vai fazer outro desejo, e nós receberemos mais uma recompensa.",
+        "es-ES": "[Bagot]\nAhora mismo la protesta de fuera pronto se convertirá en motín, ¿verdad? Entonces se cumplirá el deseo del viejo. Y después pedirá otro deseo, ¿no? ¿Y nosotros recibiremos otra recompensa?"
+    },
+    "S3YeDQ": {
+        "en-US": "[Schulang]\nHow long are you going to keep talking? Hurry up and let us go.\nFinish things up and come.",
+        "pt-BR": "[Schulang]\nAté quando vão ficar falando? Vamos logo.\nTerminem tudo e voltem.",
+        "es-ES": "[Schulang]\n¿Cuánto más vais a seguir parloteando? Vámonos ya.\nTerminen aquí y vengan."
+    },
+    "THYeDQ": {
+        "en-US": "[Ramakus]\nYes, sir!",
+        "pt-BR": "[Ramakus]\nSim!",
+        "es-ES": "[Ramakus]\n¡¡Sí!!"
+    },
+    "TXYeDQ": {
+        "en-US": "[Heart Hunter]\nIt would have been nice if Suad were here too. I have wanted to deal with him properly sometime.",
+        "pt-BR": "[Caça-Corações]\nSeria ótimo se Suad também estivesse aqui. Faz tempo que eu queria dar um jeito nele.",
+        "es-ES": "[Cazacorazones]\nOjalá Suad también estuviera aquí. Hace tiempo que quiero darle una lección."
+    },
+    "TnYeDQ": {
+        "en-US": "[Heart Hunter]\nGoodbye, let me introduce ourselves properly. We are Heart Hunter. We are about to bury you here.",
+        "pt-BR": "[Caça-Corações]\nAdeus, vou me apresentar oficialmente. Somos Caça-Coraçõess. E em breve vamos enterrá-los aqui.",
+        "es-ES": "[Cazacorazones]\nAdiós, permítanme presentarnos oficialmente. Somos Cazacorazones. Y muy pronto vamos a enterrarlos aquí."
+    },
+    "T3YeDQ": {
+        "en-US": "We are not just ordinary Heart Hunter. We are incredibly strong Heart Hunters.",
+        "pt-BR": "Não somos apenas Caça-Corações. Somos Caça-Coraçõess muito, muito fortes.",
+        "es-ES": "Y no somos unos simples Cazacorazones. Somos Cazacorazones increíblemente fuertes."
+    },
+    "UHYeDQ": {
+        "en-US": "Be careful. They have been modified.",
+        "pt-BR": "Tenha cuidado. São sujeitos modificados.",
+        "es-ES": "Tenga cuidado. Son seres modificados."
+    },
+    "UXYeDQ": {
+        "en-US": "[Miriam]\nWere they always a little... surrounded by such an ominous aura?",
+        "pt-BR": "[Miriam]\nEles sempre têm essa... aura sinistra?",
+        "es-ES": "[Miriam]\n¿Siempre tienen... esa especie de aura siniestra?"
+    },
+    "UnYeDQ": {
+        "en-US": "It seems they are resonating with the Heart of Ymir in this place.",
+        "pt-BR": "Parece que estão ressoando com o coração de Ymir deste lugar.",
+        "es-ES": "Parece que resuenan con el corazón de Ymir de este lugar."
+    },
+    "U3YeDQ": {
+        "en-US": "[Miriam]\nIn other words, they are strong, right? Good. Let us deal with them quickly and continue the pursuit.",
+        "pt-BR": "[Miriam]\nEm outras palavras, são fortes, certo? Ótimo. Vamos acabar com isso rápido e continuar a perseguição.",
+        "es-ES": "[Miriam]\nEn pocas palabras, que son fuertes, ¿no? Bien. Encarguémonos rápido de ellos y sigamos la persecución."
+    },
+    "VHYeDQ": {
+        "en-US": "[Miriam]\nHaa... haa... Adventurer, are you alright?",
+        "pt-BR": "[Miriam]\nHaa... haa... Aventureiro, você está bem?",
+        "es-ES": "[Miriam]\nHaa... haa... aventurero, ¿se encuentra bien?"
+    },
+    "VXYeDQ": {
+        "en-US": "More importantly, where did everyone go?",
+        "pt-BR": "Mais importante, para onde todos foram?",
+        "es-ES": "Pero más bien... ¿adónde se habrán ido todos?"
+    },
+    "VnYeDQ": {
+        "en-US": "What in the world is happening?",
+        "pt-BR": "O que está acontecendo aqui?",
+        "es-ES": "¿Qué está pasando aquí?"
+    },
+    "V3YeDQ": {
+        "en-US": "[Niren]\nWhat, what is all this commotion?\nAdventurer...? Why are you here?",
+        "pt-BR": "[Niren]\nO que, o que é toda essa confusão?\nAventureiro...? Por que está aqui?",
+        "es-ES": "[Niren]\n¿Qué... qué es todo este alboroto?\n¿Aventurero...? ¿Por qué está usted aquí?"
+    },
+    "WHYeDQ": {
+        "en-US": "Here...",
+        "pt-BR": "Foi aqui que...",
+        "es-ES": "Aquí..."
+    },
+    "WXYeDQ": {
+        "en-US": "[Niren]\nYou followed allies who were behaving suspiciously, and it turns out they were actually spies.",
+        "pt-BR": "[Niren]\nEntão você seguiu companheiros que agiam de forma suspeita, e eles eram na verdade infiltrados.",
+        "es-ES": "[Niren]\nAsí que siguieron a unos compañeros que actuaban de forma sospechosa y resultó que en realidad eran infiltrados."
+    },
+    "WnYeDQ": {
+        "en-US": "[Miriam]\nPriest, are you on my father's side too?",
+        "pt-BR": "[Miriam]\nO sacerdote também está do lado do meu pai?",
+        "es-ES": "[Miriam]\n¿Usted también está del lado de mi padre, sacerdote?"
+    },
+    "W3YeDQ": {
+        "en-US": "[Niren]\nPriest?? What are you talking about?",
+        "pt-BR": "[Niren]\nSacerdote?? Do que está falando?",
+        "es-ES": "[Niren]\n¿Sacerdote?? ¿Pero qué está diciendo?"
+    },
+    "XHYeDQ": {
+        "en-US": "[Miriam]\nIt seems my father may somehow be involved in this matter.",
+        "pt-BR": "[Miriam]\nParece que meu pai está envolvido nisso.",
+        "es-ES": "[Miriam]\nParece que mi padre está implicado en todo esto."
+    },
+    "XXYeDQ": {
+        "en-US": "[Niren]\nWhat do you mean... even the High Priest...? It seems an investigation will be necessary.\nThere are likely also inciting forces planted by the assailants hidden among the people gathered outside...",
+        "pt-BR": "[Niren]\nComo assim... até o Sumo Sacerdote...? Parece que será necessária uma investigação.\nEntre as pessoas reunidas lá fora também deve haver agitadores infiltrados por aqueles homens...",
+        "es-ES": "[Niren]\nPero qué... ¿hasta el sumo sacerdote...? Habrá que investigarlo.\nEntre la gente reunida afuera también debe de haber agitadores infiltrados por esos individuos..."
+    },
+    "XnYeDQ": {
+        "en-US": "There are some among Temple Guards as well.",
+        "pt-BR": "Também há entre os Guardas do Templo.",
+        "es-ES": "También los hay entre los Guardias del templo."
+    },
+    "X3YeDQ": {
+        "en-US": "[Niren]\nA large-scale inspection will be necessary. First, we must find out what was done here. Whether there are any dangerous items, whether anything has gone missing...",
+        "pt-BR": "[Niren]\nSerá necessária uma inspeção em grande escala. Primeiro precisamos descobrir o que fizeram aqui. Se há algo perigoso, se algo desapareceu...",
+        "es-ES": "[Niren]\nSerá necesaria una inspección a gran escala. Primero debemos averiguar qué hicieron aquí. Si había objetos peligrosos, si falta algo..."
+    },
+    "YHYeDQ": {
+        "en-US": "[Niren]\n...!!\nThere is no need to investigate. A fragment of the Heart of Ymir is gone. It should have been there originally.",
+        "pt-BR": "[Niren]\n...!!\nNem será preciso investigar. O fragmento do coração de Ymir desapareceu. Ele deveria estar ali.",
+        "es-ES": "[Niren]\n...!!\nYa ni hará falta investigarlo. Ha desaparecido un fragmento del corazón de Ymir. Debería estar allí."
+    },
+    "YXYeDQ": {
+        "en-US": "As expected...",
+        "pt-BR": "Como eu imaginava...",
+        "es-ES": "Como era de esperar..."
+    },
+    "YnYeDQ": {
+        "en-US": "[Niren]\nWhat in the world they intend to do with that... I cannot even imagine.\nRather than this, we must inform the truth and begin pursuit...!!",
+        "pt-BR": "[Niren]\nO que pretendem fazer com isso... nem consigo imaginar.\nEm vez disso, precisamos divulgar a verdade e persegui-los...!!",
+        "es-ES": "[Niren]\nQué pretenden hacer con eso... ni siquiera puedo imaginarlo.\nNo podemos quedarnos así, debemos revelar la verdad y perseguirlos...!!"
+    },
+    "Y3YeDQ": {
+        "en-US": "[Niren]\nAh...! You said there may be enemy forces among the temple guards as well. First, we must identify those we can trust.",
+        "pt-BR": "[Niren]\nAh...! Você disse que entre os guardas do templo também há forças inimigas. Primeiro teremos de separar aqueles em quem podemos confiar.",
+        "es-ES": "[Niren]\nAh...! Dijo que también había fuerzas enemigas entre los guardias del templo. Primero tendremos que seleccionar a las personas de confianza."
+    },
+    "ZHYeDQ": {
+        "en-US": "[Miriam]\nI will go. My father probably took it. I even have a rough idea of where he went.",
+        "pt-BR": "[Miriam]\nEu vou. Meu pai provavelmente levou isso. E mais ou menos imagino para onde foi.",
+        "es-ES": "[Miriam]\nIré yo. Seguramente se lo ha llevado mi padre. Y más o menos ya imagino adónde ha ido."
+    },
+    "ZXYeDQ": {
+        "en-US": "[Niren]\nLet us go outside first and continue talking there. The situation outside is not very good.",
+        "pt-BR": "[Niren]\nVamos sair daqui e continuar a conversa lá fora. A situação do lado de fora não está nada boa.",
+        "es-ES": "[Niren]\nSigamos hablando de eso cuando salgamos. La situación afuera no es nada buena."
+    },
+    "ZnYeDQ": {
+        "en-US": "Heart Hunter",
+        "pt-BR": "Caça-Corações",
+        "es-ES": "Cazacorazones"
+    },
+    "Z3YeDQ": {
+        "en-US": "Schulang",
+        "pt-BR": "Schulang",
+        "es-ES": "Schulang"
+    },
+    "aHYeDQ": {
+        "en-US": "Bagot",
+        "pt-BR": "Bagot",
+        "es-ES": "Bagot"
+    },
+    "aXYeDQ": {
+        "en-US": "High Priest",
+        "pt-BR": "Sumo Sacerdote",
+        "es-ES": "Sumo sacerdote"
+    },
+    "anYeDQ": {
+        "en-US": "Niren",
+        "pt-BR": "Niren",
+        "es-ES": "Niren"
+    }
+}

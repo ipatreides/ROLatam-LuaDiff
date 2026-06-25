@@ -1,978 +1,815 @@
 {
     "QLcoAw": {
-        "ko-KR": "하이자라그랙",
         "en-US": "Haijaragrek",
         "pt-BR": "Haijaragrek",
         "es-ES": "Haijaragrek"
     },
     "QbcoAw": {
-        "ko-KR": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
         "en-US": "- You can’t proceed because you have too many items. -",
         "pt-BR": "- Não é possível prosseguir porque você tem itens demais. -",
         "es-ES": "- No puedes continuar porque llevas demasiados objetos. -"
     },
     "QrcoAw": {
-        "ko-KR": "[하이자라그랙]\n신외지신이라지.... 보물은 주인이 따로 존재한다고 했건만... 과한 욕심이었는지...",
         "en-US": "[Haijaragrek] \nThey said it’s something truly extraordinary… they said treasures have owners of their own… was my greed too much, perhaps…",
         "pt-BR": "[Haijaragrek] \nDiziam que era algo extraordinário… mas disseram que tesouros têm dono próprio… será que foi demais da minha ambição…",
         "es-ES": "[Haijaragrek] \nDecían que era algo verdaderamente extraordinario… pero que los tesoros tienen dueño… ¿será que me excedí con la ambición?"
     },
     "Q7coAw": {
-        "ko-KR": "[하이자라그랙]\n자네는 누군가? 어떻게 이 방을 찾아냈단 말인가? 도대체 너희들은 누군데 나를 핍박하는 건가? 정체를 밝히게!!!",
         "en-US": "[Haijaragrek] \nWho are you? How did you find this room? Tell me—who are you people, and why are you harassing me? Reveal yourselves!!!",
         "pt-BR": "[Haijaragrek] \nQuem é você? Como encontrou este quarto? Diga-me, afinal: quem são vocês e por que estão me importunando? Mostrem suas identidades!!!",
         "es-ES": "[Haijaragrek] \n¿Quién eres? ¿Cómo encontraste esta sala? Dime… ¿quiénes sois y por qué me molestáis? ¡Revelad vuestra identidad!!!"
     },
     "RLcoAw": {
-        "ko-KR": "전 그들과 상관 없습니다.",
         "en-US": "I have nothing to do with them.",
         "pt-BR": "Não tenho nada a ver com eles.",
         "es-ES": "No tengo nada que ver con ellos."
     },
     "RbcoAw": {
-        "ko-KR": "후훗, 무엇을 원하는지 알지 않나?",
         "en-US": "Heh… don’t you know what I want?",
         "pt-BR": "Hehe… você não sabe o que eu quero?",
         "es-ES": "Hehe… ¿no sabes lo que quiero?"
     },
     "RrcoAw": {
-        "ko-KR": "[하이자라그랙]\n그럼 자네는 어쩐 일인가?",
         "en-US": "[Haijaragrek] \nThen what brings you here?",
         "pt-BR": "[Haijaragrek] \nEntão, o que você quer aqui?",
         "es-ES": "[Haijaragrek] \nEntonces, ¿qué te trae por aquí?"
     },
     "R7coAw": {
-        "ko-KR": "당신을 도우러 왔습니다.",
         "en-US": "I came to help you.",
         "pt-BR": "Vim para te ajudar.",
         "es-ES": "Vine a ayudarte."
     },
     "SLcoAw": {
-        "ko-KR": "그냥, 지나가는 길입니다.",
         "en-US": "Just… I’m passing through.",
         "pt-BR": "Só… estou de passagem.",
         "es-ES": "Solo… estoy de paso."
     },
     "SbcoAw": {
-        "ko-KR": "[하이자라그랙]\n아... 고맙네... 얼마 전에 전설의 로그 채택배의 비서를 발견했고 그 안에서 엄청난 비밀을 알아냈네. 채택배에 대해서 들어 봤는가?",
         "en-US": "[Haijaragrek] \nAh… thank you… not long ago, I found the secret scroll of the legendary Chaetakbae of the Rogue… and uncovered an incredible secret within. Have you ever heard of Chaetakbae?",
         "pt-BR": "[Haijaragrek] \nAh… obrigado… pouco tempo atrás encontrei o grimório secreto do lendário Rogue Chaetakbae… e descobri um segredo monstruoso dentro dele. Você já ouviu falar de Chaetakbae?",
         "es-ES": "[Haijaragrek] \nAh… gracias… hace poco encontré el grimorio secreto del legendario Chaetakbae del pícaro… y dentro descubrí un secreto enorme. ¿Has oído hablar de Chaetakbae?"
     },
     "SrcoAw": {
-        "ko-KR": "아니요.",
         "en-US": "No.",
         "pt-BR": "Não.",
         "es-ES": "No."
     },
     "S7coAw": {
-        "ko-KR": "들어는 봤습니다.",
         "en-US": "I’ve heard of them.",
         "pt-BR": "Já ouvi falar.",
         "es-ES": "He oído hablar de ello."
     },
     "TLcoAw": {
-        "ko-KR": "[하이자라그랙]\n채택배는 100년 전의 인물이네. 그는 윤회의 굴레를 벗어난 최초의 전승자였네.",
         "en-US": "[Haijaragrek] \nChaetakbae was a person from a hundred years ago. He was the first successor to escape the cycle of reincarnation.",
         "pt-BR": "[Haijaragrek] \nChaetakbae foi alguém que viveu há cem anos. Ele foi o primeiro sucessor a escapar do ciclo da reencarnação.",
         "es-ES": "[Haijaragrek] \nChaetakbae es una persona de hace cien años. Fue el primer sucesor que escapó de la cadena del ciclo de reencarnación."
     },
     "TbcoAw": {
-        "ko-KR": "[하이자라그랙]\n모든 직업군은 전승 시, 직업과 스킬을 그대로 유지하는 게 기본적인 관념이었네. 그러나 그는 상식을 집어삼켰지.",
         "en-US": "[Haijaragrek] \nTo everyone, the idea was simple: when you inherit a title, you keep the class and skills the same. But he swallowed common sense whole.",
         "pt-BR": "[Haijaragrek] \nA todos sempre pareceu óbvio: quando se passa o legado, classe e habilidades permanecem. Mas ele se encarregou de esmagar isso.",
         "es-ES": "[Haijaragrek] \nPara todos era una idea básica: al heredar, se conservan la clase y las habilidades. Pero él se comió el sentido común."
     },
     "TrcoAw": {
-        "ko-KR": "[하이자라그랙]\n전승 전에 몽크였었던 그가 전승을 마친 후 로그가 됐던 걸세.",
         "en-US": "[Haijaragrek] \nHe was a Monk before the inheritance… and after it, he became a Rogue.",
         "pt-BR": "[Haijaragrek] \nAntes de herdar, él era um Monk… mas depois da herança, virou Rogue.",
         "es-ES": "[Haijaragrek] \nAntes de la herencia era Monk… y después pasó a ser Rogue."
     },
     "T7coAw": {
-        "ko-KR": "[하이자라그랙]\n그리고 스킬마저 로그만의 스킬을 사용한 것이 아니라, 로그의 직업을 가지고 진검백파도를.. 그것도 일반 진검백파도가 아닌 업그레이드된..",
         "en-US": "[Haijaragrek] \nAnd it wasn’t just that he used Rogue-only skills. With the Rogue profession, he used Jin-gum Baekpa-do… and not the normal one—an upgraded version…",
         "pt-BR": "[Haijaragrek] \nE ni siquiera usou apenas as habilidades exclusivas do Rogue. Com a profissão de Rogue, ele usou Jin-gum Baekpa-do… e no era el normal: era uma versão atualizada…",
         "es-ES": "[Haijaragrek] \nY no es que solo usara habilidades exclusivas de Rogue. Con la profesión de Rogue, usó Jin-gum Baekpa-do… y no el normal: una versión mejorada…"
     },
     "ULcoAw": {
-        "ko-KR": "[하이자라그랙]\n난 그 비법서를 얻었네. 그리고 세 아들들에게 가르쳤지. 그리고 위협이 시작되었지.",
         "en-US": "[Haijaragrek] \nI obtained that secret manuscript. And I taught it to my three sons. Then… the threat began.",
         "pt-BR": "[Haijaragrek] \nEu consegui aquele manuscrito secreto. E ensinei aos meus três filhos. E então… a ameaça começou.",
         "es-ES": "[Haijaragrek] \nConseguí ese manuscrito secreto. Y se lo enseñé a mis tres hijos. Y entonces… empezó la amenaza."
     },
     "UbcoAw": {
-        "ko-KR": "[하이자라그랙]\n지금 자네와 대화할 여유가 없네. 바로 본론을 말하지 나를 도와 내 세 아들이 모두 비술을 익히도록 도와주겠는가?",
         "en-US": "[Haijaragrek] \nI don’t have time to talk with you. I’ll get straight to the point—will you help me so that all three of my sons learn the secret arts?",
         "pt-BR": "[Haijaragrek] \nNão tenho tempo para conversar com você. Vou ser direto: você vai me ajudar para que os três meus filhos aprendam as artes secretas?",
         "es-ES": "[Haijaragrek] \nNo tengo tiempo para hablar contigo. Voy al grano: ¿me ayudarás para que mis tres hijos aprendan las artes secretas?"
     },
     "UrcoAw": {
-        "ko-KR": "예, 기꺼이!!",
         "en-US": "Yes, with pleasure!!",
         "pt-BR": "Sim, com prazer!!",
         "es-ES": "¡Sí, con gusto!!"
     },
     "U7coAw": {
-        "ko-KR": "지금은 저도 여유가 없습니다.",
         "en-US": "I’m busy too, unfortunately.",
         "pt-BR": "No tenho tempo agora também.",
         "es-ES": "Ahora mismo yo tampoco tengo tiempo."
     },
     "VLcoAw": {
-        "ko-KR": "[하이자라그랙]\n고맙네. 자 그럼 어서 이 서신을 막내아들인 ^FF0000뤼그랙^000000에게 부탁하네.",
         "en-US": "[Haijaragrek] \nThank you. Then—now, quickly deliver this letter to my youngest son, ^FF0000Lügrak^000000.",
         "pt-BR": "[Haijaragrek] \nObrigado. Então… entregue logo esta carta ao meu filho mais novo, ^FF0000Lügrak^000000.",
         "es-ES": "[Haijaragrek] \nGracias. Entonces… entrégale en seguida esta carta a mi hijo menor, ^FF0000Lügrak^000000."
     },
     "VbcoAw": {
-        "ko-KR": "== 하이자라그랙의 서신 획득 ==",
         "en-US": "== You obtained Haijaragrek’s letter ==",
         "pt-BR": "== Você obteve a carta do Haijaragrek ==",
         "es-ES": "== Has obtenido la carta de Haijaragrek =="
     },
     "VrcoAw": {
-        "ko-KR": "[하이자라그랙]\n그럼 다음에 또 이야기 하세.",
         "en-US": "[Haijaragrek] \nThen we’ll talk again later.",
         "pt-BR": "[Haijaragrek] \nEntão conversamos depois.",
         "es-ES": "[Haijaragrek] \nEntonces hablaremos luego."
     },
     "V7coAw": {
-        "ko-KR": "[하이자라그랙]\n난 채택배의 비법서를 얻었고 세 아들에게 가르쳤지. 그리고 위협이 시작되었지.",
         "en-US": "[Haijaragrek] \nI obtained Chaetakbae’s secret manuscript, and taught it to my three sons. And then the threat began.",
         "pt-BR": "[Haijaragrek] \nConsegui o manuscrito secreto do Chaetakbae e ensinei aos meus três filhos. E então a ameaça começou.",
         "es-ES": "[Haijaragrek] \nConseguí el manuscrito secreto de Chaetakbae y se lo enseñé a mis tres hijos. Y entonces empezó la amenaza."
     },
     "WLcoAw": {
-        "ko-KR": "[하이자라그랙]\n^00FF00=== C l o s e  C o n f i n e ===^000000",
         "en-US": "[Haijaragrek] \n^00FF00=== C l o s e C o n f i n e ===^000000",
         "pt-BR": "[Haijaragrek] \n^00FF00=== C l o s e C o n f i n e ===^000000",
         "es-ES": "[Haijaragrek] \n^00FF00=== C l o s e C o n f i n e ===^000000"
     },
     "WbcoAw": {
-        "ko-KR": "[하이자라그랙]\n^00FF00=== B a c k   S t e p ===^000000",
         "en-US": "[Haijaragrek] \n^00FF00=== B a c k S t e p ===^000000",
         "pt-BR": "[Haijaragrek] \n^00FF00=== B a c k S t e p ===^000000",
         "es-ES": "[Haijaragrek] \n^00FF00=== B a c k S t e p ===^000000"
     },
     "WrcoAw": {
-        "ko-KR": "[하이자라그랙]\n더 심하게 하지 않을테니, 다시는 내 앞에 모습을 보이지 마라!",
         "en-US": "I won’t go any further—so don’t show yourself in front of me again!",
         "pt-BR": "Não vou piorar—¡así que não apareça más delante de mí!",
         "es-ES": "No iré más lejos… ¡así que no vuelvas a aparecer delante de mí!"
     },
     "W7coAw": {
-        "ko-KR": "[하이자라그랙]\n시간이 없네. 서신을 어서 막내 아들인 ^FF0000뤼그랙^000000에게 전해 주시게.",
         "en-US": "[Haijaragrek] \nNo time to waste. Quickly deliver the letter to my youngest son, ^FF0000Lügrak^000000.",
         "pt-BR": "[Haijaragrek] \nSem tempo. Entregue logo a carta ao meu filho mais novo, ^FF0000Lügrak^000000.",
         "es-ES": "[Haijaragrek] \nNo hay tiempo. Entrega la carta en seguida a mi hijo menor, ^FF0000Lügrak^000000."
     },
     "XLcoAw": {
-        "ko-KR": "[하이자라그랙]\n막내는 로그 길드 내 홀그렌Jr. 근처에 있다네.",
         "en-US": "[Haijaragrek] \nThe youngest is near Hallgren Jr. within the Rogue Guild.",
         "pt-BR": "[Haijaragrek] \nO mais novo está perto do Hallgren Jr., dentro da guilda Rogue.",
         "es-ES": "[Haijaragrek] \nEl menor está cerca de Hallgren Jr. dentro del gremio Rogue."
     },
     "XbcoAw": {
-        "ko-KR": "[하이자라그랙]\n내 둘째 아들 ^FF0000토르^000000는 헤른만쏜Jr. 옆에 있다네.",
         "en-US": "[Haijaragrek] \nMy second son, ^FF0000Thor^000000, is beside Hernman Sonn Jr.",
         "pt-BR": "[Haijaragrek] \nMeu segundo filho, ^FF0000Thor^000000, está ao lado de Hernman Sonn Jr.",
         "es-ES": "[Haijaragrek] \nMi segundo hijo, ^FF0000Thor^000000, está al lado de Hernman Sonn Jr."
     },
     "XrcoAw": {
-        "ko-KR": "[하이자라그랙]\n내 장남 ^FF0000제이^000000는 길드 내 안토니오Jr. 옆에 있다네.",
         "en-US": "[Haijaragrek] \nMy eldest son, ^FF0000Jae^000000, is next to Antonio Jr. within the guild.",
         "pt-BR": "[Haijaragrek] \nMi hijo mayor, ^FF0000Jae^000000, está al lado de Antonio Jr. dentro de la guilda.",
         "es-ES": "[Haijaragrek] \nMi hijo mayor, ^FF0000Jae^000000, está al lado de Antonio Jr. dentro del gremio."
     },
     "X7coAw": {
-        "ko-KR": "== 제이그랙의 서신 전달 ==",
         "en-US": "== You delivered Jaegrak’s letter ==",
         "pt-BR": "== Você entregou a carta do Jaegrak ==",
         "es-ES": "== Has entregado la carta de Jaegrak =="
     },
     "YLcoAw": {
-        "ko-KR": "[하이자라그랙]\n휴우, 일단 세 아들에게 위급한 상황 발생에 대한 사실을 알렸으니 한숨 돌렸네. 고맙네.",
         "en-US": "[Haijaragrek] \nPhew… for now, I told my three sons the truth about the situation turning dangerous. I can finally breathe. Thank you.",
         "pt-BR": "[Haijaragrek] \nUf… por enquanto, avisei aos meus três filhos a verdade sobre o momento crítico. Agora eu consigo respirar. Obrigado.",
         "es-ES": "[Haijaragrek] \nUf… de momento, ya les avisé a mis tres hijos de la verdad sobre la situación peligrosa. Gracias."
     },
     "YbcoAw": {
-        "ko-KR": "[하이자라그랙]\n나머지는 길드에서 처리할 것이네. 내 앞의 서신에 언급한 바, 자네의 도움을 너무 고맙게 생각하네.",
         "en-US": "[Haijaragrek] \nThe rest will be handled by the guild. As mentioned in the letter in front of me, I can’t thank you enough for your help.",
         "pt-BR": "[Haijaragrek] \nO resto será tratado pela guilda. Como mencionei na carta que deixaste aquí, fico muito grato por sua ajuda.",
         "es-ES": "[Haijaragrek] \nEl resto lo hará el gremio. Como mencioné en la carta que tienes delante, valoro muchísimo tu ayuda."
     },
     "YrcoAw": {
-        "ko-KR": "[하이자라그랙]\n자네가 아니었으면, 나와 세 아들의 신변에 이상이 생겼을 지도 모르지. 답례로 비술을 전하고 싶으니, ^FF0000토르^000000 그 녀석에게 가보도록 하게.",
         "en-US": "[Haijaragrek] \nIf it weren’t for you, something might have happened to me and my three sons. As repayment, I want to pass on the secret arts—so go and find ^FF0000Thor^000000.",
         "pt-BR": "[Haijaragrek] \nSi no fuera por ti, quizá hubiera ocurrido algo con mi seguridad y la de mis tres hijos. Como respuesta, quero repassar las artes secretas; así que vá até ^FF0000Thor^000000.",
         "es-ES": "[Haijaragrek] \nSi no hubieras estado aquí, quizá algo habría pasado con mi seguridad y la de mis tres hijos. Como agradecimiento, quiero transmitirte las artes secretas: ve a ver a ^FF0000Thor^000000."
     },
     "Y7coAw": {
-        "ko-KR": "[하이자라그랙]\n비술 습득을 위해 ^FF0000토르^000000를 찾아가게.",
         "en-US": "[Haijaragrek] \nGo find ^FF0000Thor^000000 to learn the secret arts.",
         "pt-BR": "[Haijaragrek] \nVá até ^FF0000Thor^000000 para aprender as artes secretas.",
         "es-ES": "[Haijaragrek] \nVe a buscar a ^FF0000Thor^000000 para aprender las artes secretas."
     },
     "ZLcoAw": {
-        "ko-KR": "[하이자라그랙]\n자네는 지금 수련장에 있어야 하는 입장인데, 여긴 어쩐 일인가? ^FF0000토르^000000에게 어서 가보게.",
         "en-US": "[Haijaragrek] \nYou’re supposed to be at the training grounds right now… so what are you doing here? Go to ^FF0000Thor^000000, quickly.",
         "pt-BR": "[Haijaragrek] \nVocê devia estar agora no local de treino… então, o que faz aqui? Vá logo ver o ^FF0000Thor^000000.",
         "es-ES": "[Haijaragrek] \nTú deberías estar ahora mismo en el campo de entrenamiento… entonces, ¿qué haces aquí? Ve enseguida a ^FF0000Thor^000000."
     },
     "ZbcoAw": {
-        "ko-KR": "[하이자라그랙]\n허어. 자네는 남다른 사람이로군. 그리 빨리 익히다니... 대단하네. 우선 ^FF0000토르^000000에게 말하고 이리로 오게.",
         "en-US": "[Haijaragrek] \nHuh. You’re a special one. Learning that quickly… impressive. First, tell ^FF0000Thor^000000 and have him come here.",
         "pt-BR": "[Haijaragrek] \nAh… você é alguém diferente. Aprender tão rápido… é admirável. Primeiro, avise ^FF0000Thor^000000 e traga-o até aqui.",
         "es-ES": "[Haijaragrek] \nHuh. Eres alguien especial. ¿Aprender tan rápido…? Impresionante. Primero, dile a ^FF0000Thor^000000 que venga aquí."
     },
     "ZrcoAw": {
-        "ko-KR": "[하이자라그랙]\n아.. 왔는가?\n대단하군. 자 비술을... 헉!! 큭!! 비..법...서......가........",
         "en-US": "[Haijaragrek] \nAh… has come? \nAmazing. Now, the secret arts… Hahk!! Gk! K… se-cret-manuscript…… is….",
         "pt-BR": "[Haijaragrek] \nAh… você veio? \nIncrível. Agora, a arte secreta… ¡Hahk!! ¡Kük!! ¡Manu…/ma-…s…cr…ito…!…",
         "es-ES": "[Haijaragrek] \nAh… ¿has venido? \nImpresionante. Bien, las artes secretas… ¡Hahk!! ¡Gk!! ¡ma…nus…cri…to…!…"
     },
     "Z7coAw": {
-        "ko-KR": "[하이자라그랙]\n저.. 자객...에...게..... 비....법......서......를....",
         "en-US": "[Haijaragrek] \nA… a los… asesinos… les… el… man…us…cri…to…",
         "pt-BR": "[Haijaragrek] \n…a… ¡los… asesinos!… el… man…us…cri…to…",
         "es-ES": "[Haijaragrek] \n…a… los… asesinos… el… man…us…cri…to…"
     },
     "aLcoAw": {
-        "ko-KR": "== 채택배의 비법서 전달  ==",
         "en-US": "== You delivered Chaetakbae’s secret manuscript ==",
         "pt-BR": "== Você entregou o manuscrito secreto do Chaetakbae ==",
         "es-ES": "== Has entregado el manuscrito secreto de Chaetakbae =="
     },
     "abcoAw": {
-        "ko-KR": "[하이자라그랙]\n비술을 익혔으니 자네도 채택배님이 전승의 굴레를 초월한 것과 같은, 그런 날이 오길 빌겠네.",
         "en-US": "[Haijaragrek] \nNow that you’ve learned the secret arts, I hope a day will come for you as well—like the day Chaetakbae transcended the cycle of inheritance.",
         "pt-BR": "[Haijaragrek] \nAgora que você aprendeu as artes secretas, eu rezo para que um dia chegue até você… como no caso do Chaetakbae, que transcendeu o ciclo do legado.",
         "es-ES": "[Haijaragrek] \nAhora que has aprendido las artes secretas, deseo que te llegue un día igual—como el de Chaetakbae, que trascendió la cadena de la herencia."
     },
     "arcoAw": {
-        "ko-KR": "[하이자라그랙]\n일단 내가 할 이야기는 비술이 갖는 효용성에 관한 것인데, 좀 길지만 들어 보겠는가?",
         "en-US": "[Haijaragrek] \nFirst, what I have to tell you is about the usefulness of these secret arts. It’s a bit long, but will you listen?",
         "pt-BR": "[Haijaragrek] \nPrimeiro, vou falar sobre a utilidade das artes secretas. Vai ser um pouco longo, mas você aceita ouvir?",
         "es-ES": "[Haijaragrek] \nPrimero, de lo que hablaré es de la utilidad de las artes secretas. Es un poco largo, pero ¿me escucharás?"
     },
     "a7coAw": {
-        "ko-KR": "듣겠습니다.",
         "en-US": "I’ll listen.",
         "pt-BR": "Vou ouvir.",
         "es-ES": "Escucharé."
     },
     "bLcoAw": {
-        "ko-KR": "[하이자라그랙]\n우선 ^4D4DFF클로즈 컨파인^000000이 이동 봉쇄의 스킬인 것은 인지하고 있을테니 대인과, 몬스터의 경우로 나누어서 설명을 하겠네.",
         "en-US": "[Haijaragrek] \nFirst, since you already know that ^4D4DFFClose Confine^000000 is a skill that restricts movement, I’ll explain it by dividing the cases: against other people and against monsters.",
         "pt-BR": "[Haijaragrek] \nPrimeiro, como você já sabe que ^4D4DFFClose Confine^000000 é uma habilidade que bloqueia a movimentação, vou explicar separando os casos: contra pessoas e contra monstros.",
         "es-ES": "[Haijaragrek] \nPrimero, como ya sabrás que ^4D4DFFClose Confine^000000 es una habilidad de restricción del movimiento, explicaré la diferencia dividiéndolo en dos casos: contra personas y contra monstruos."
     },
     "bbcoAw": {
-        "ko-KR": "[하이자라그랙]\n우선, 자네는 대인전 혹은 공성 시, 로그 계열의 핵심 역할을 나와 다르게 생각 할지 모르겠지만, 난 스트립 스킬들이 현재의 대세라 보네.",
         "en-US": "[Haijaragrek] \nFirst, you might think the core role of the Rogue line in PvP or siege is different from what I think… but I believe Strip skills are the current trend.",
         "pt-BR": "[Haijaragrek] \nAntes de tudo, você pode achar que o papel central da linhagem de Rogue em PvP ou cerco é diferente do que eu penso… mas eu acredito que as skills de Strip são a tendência atual.",
         "es-ES": "[Haijaragrek] \nPrimero, quizá pienses que el papel central de la línea de Rogue en JcJ o asedios es distinto a lo que yo creo… pero pienso que las skills de Strip son lo que está de moda ahora."
     },
     "brcoAw": {
-        "ko-KR": "[하이자라그랙]\n하지만 진검백파도와 흡사한 비술인 ^4D4DFF클로즈 컨파인^000000이 세상에 등장하면 우리 로그 계열의 입지가 상승될 것이 분명하네.",
         "en-US": "[Haijaragrek] \nBut once the secret arts ^4D4DFFClose Confine^000000—which is similar to Jin-gum Baekpa-do—appear in the world, it’s clear our Rogue line’s position will rise.",
         "pt-BR": "[Haijaragrek] \nMas quando surgirem no mundo as artes secretas ^4D4DFFClose Confine^000000, que se parecem com Jin-gum Baekpa-do, a posição da nossa linhagem de Rogue com certeza vai aumentar.",
         "es-ES": "[Haijaragrek] \nPero cuando aparezcan en el mundo las artes secretas ^4D4DFFClose Confine^000000, parecidas a Jin-gum Baekpa-do, está claro que la posición de nuestra línea de Rogue va a subir."
     },
     "b7coAw": {
-        "ko-KR": "[하이자라그랙]\n물론, -진검백파도가 있는데 어째서 결론을 단정 짓느냐?- 라고 할 수 있을걸세. 하지만 그 묘용이 분명히 다른 스킬임을 설명하여 주겠네.",
         "en-US": "[Haijaragrek] \nOf course, you could ask: ‘Since there’s Jin-gum Baekpa-do, why are you so certain of this conclusion?’ But I’ll explain why ^4D4DFFClose Confine^000000 is clearly a different skill.",
         "pt-BR": "[Haijaragrek] \nClaro, você poderia dizer: ‘Já existe Jin-gum Baekpa-do; então por que tiraria uma conclusão assim?’ Mas vou explicar por que as utilidades são claramente habilidades distintas.",
         "es-ES": "[Haijaragrek] \nClaro, podrías decir: ‘Si existe Jin-gum Baekpa-do, ¿cómo puedes afirmar esa conclusión?’ Pero te explicaré por qué esa ‘mágica’ utilidad es claramente una skill distinta."
     },
     "cLcoAw": {
-        "ko-KR": "[하이자라그랙]\n^4D4DFF클로즈 컨파인^000000은 진검백파도와는 같지만 또한, 같지 않은 스킬이네. 일단 진검백파도는 적의 공격을 붙잡는 기술인데 비하여, 이는 상대방의 움직임 자체를 봉쇄하는 스킬이네.",
         "en-US": "[Haijaragrek] \n^4D4DFFClose Confine^000000 may be similar to Jin-gum Baekpa-do, but it’s also not the same. Jin-gum Baekpa-do is a technique that catches the enemy’s attacks—whereas this one blocks the opponent’s movement itself.",
         "pt-BR": "[Haijaragrek] \n^4D4DFFClose Confine^000000 é uma skill parecida com Jin-gum Baekpa-do, mas também não é igual. Enquanto Jin-gum Baekpa-do é uma técnica que agarra os ataques do inimigo, esta bloqueia o próprio movimento do oponente.",
         "es-ES": "[Haijaragrek] \n^4D4DFFClose Confine^000000 es una skill parecida a Jin-gum Baekpa-do, pero también es distinta. Jin-gum Baekpa-do atrapa los ataques del enemigo, mientras que esta bloquea el movimiento del oponente."
     },
     "cbcoAw": {
-        "ko-KR": "[하이자라그랙]\n상대방의 공격 유무와는 별개이며, 스킬 자체의 성공률에 의해 대상의 움직임을 여지없이 봉쇄하여 이동 자체를 불가능하게 만드는 것이네.",
         "en-US": "[Haijaragrek] \nIt doesn’t depend on whether the opponent is attacking or not. Based solely on the skill’s success rate, it completely locks the target’s movement—making it impossible for them to move.",
         "pt-BR": "[Haijaragrek] \nNão depende de se o oponente está atacando ou não. Pelo próprio índice de sucesso da skill, ela bloqueia o movimento do alvo de forma total, tornando o deslocamento impossível.",
         "es-ES": "[Haijaragrek] \nNo depende de si el oponente está atacando o no. Gracias al éxito de la skill en sí, bloquea el movimiento del objetivo por completo, haciendo que el desplazamiento sea imposible."
     },
     "crcoAw": {
-        "ko-KR": "[하이자라그랙]\n물론 파리의 날개, 나비의 날개, 텔레포트, 하이딩 ,넉백형태 등의 스킬로 빠져 나갈 수 있으나,",
         "en-US": "[Haijaragrek] \nOf course, you can escape using skills like Fly’s Wing, Butterfly’s Wing, teleport, hiding, or a knockback-type move…",
         "pt-BR": "[Haijaragrek] \nClaro, ainda dá pra escapar com skills como Asa da Mosca, Asa da Borboleta, teleporte, hiding e formas de knockback… mas,",
         "es-ES": "[Haijaragrek] \nPor supuesto, se puede escapar con skills como Asa de Mosca, Asa de Mariposa, teletransporte, hiding y las de tipo knockback… pero,"
     },
     "c7coAw": {
-        "ko-KR": "[하이자라그랙]\n공성 모드에서는 하이딩만을 사용할 수 있으니, 공성전에서 특히 효용이 두드러지는 스킬이지.",
         "en-US": "[Haijaragrek] \nIn siege mode, only Hiding can be used—so in castle sieges, its usefulness stands out especially.",
         "pt-BR": "[Haijaragrek] \nNo modo de cerco, só é possível usar Hiding, então em guerras de cerco essa skill se destaca ainda mais.",
         "es-ES": "[Haijaragrek] \nEn el modo de asedio, solo se puede usar Hiding, así que en un asedio la utilidad destaca especialmente."
     },
     "dLcoAw": {
-        "ko-KR": "[하이자라그랙]\n또한 ^4D4DFF클로즈 컨파인^000000은 움직임 봉쇄 이후, 모든 스킬이 사용 가능하네. 단, 상대방의 모든 스킬도 허용하네. 아! 백스텝에 한하여 1회 사용의 룰이 적용된다네.",
         "en-US": "[Haijaragrek] \nAlso, after ^4D4DFFClose Confine^000000 locks movement, all skills can be used. However, the opponent’s skills are allowed too. Ah! For Backstep, though, the rule allows only one use.",
         "pt-BR": "[Haijaragrek] \nAlém disso, após o bloqueio de movimento do ^4D4DFFClose Confine^000000, todas as skills ficam utilizáveis. Mas as skills do oponente também são permitidas. Ah! Só o Backstep tem a regra de uso único.",
         "es-ES": "[Haijaragrek] \nAdemás, después de que ^4D4DFFClose Confine^000000 bloquee el movimiento, se pueden usar todas las skills. Eso sí: también se permiten las skills del oponente. ¡Ah! Solo para Backstep se aplica la regla de una sola vez."
     },
     "dbcoAw": {
-        "ko-KR": "[하이자라그랙]\n자, 그렇다면 자네는 상대방을 봉쇄하고 스트립 계열의 스킬을 사용한 후, 아군들과 같이 상대방을 가격하며, 그의 자유로운 이동을 방해함으로써 다양한 목적을 동시에 충족시킬 수 있는게 아닌가.",
         "en-US": "[Haijaragrek] \nSo tell me—by locking the opponent, then using Strip-type skills, and fighting together with your allies to strike the opponent while preventing their free movement… isn’t that meeting multiple goals at once?",
         "pt-BR": "[Haijaragrek] \nEntão veja: travando o oponente, usando skills da linha de Strip, atacando junto com os aliados e atrapalhando os movimentos livres dele… não é isso cumprir vários objetivos ao mesmo tempo?",
         "es-ES": "[Haijaragrek] \nEntonces… ¿no es eso lo que permite bloquear al rival, usar skills de la línea Strip, golpear junto con tus aliados e impedir su movimiento libre para cumplir varios objetivos a la vez?"
     },
     "drcoAw": {
-        "ko-KR": "[하이자라그랙]\n그리고 또 하나, 강한 몬스터와의 조우시에도 중요한 역할 수행을 담당하게 될 걸세.",
         "en-US": "[Haijaragrek] \nAnd there’s one more thing: it will also take on an important role even when encountering strong monsters.",
         "pt-BR": "[Haijaragrek] \nE mais uma: ele também vai desempenhar um papel importante ao enfrentar monstros fortes.",
         "es-ES": "[Haijaragrek] \nY otra cosa más: también cumplirá un papel importante al enfrentarte a monstruos fuertes."
     },
     "d7coAw": {
-        "ko-KR": "[하이자라그랙]\n보스급을 제외한 강한 몬스터를 10초간 봉쇄할 수 있기에 로그 계열의 파티 플레이에 대한 의존도 상승효과가 기대되지.",
         "en-US": "[Haijaragrek] \nBecause it can lock even strong monsters—except boss-tier ones—for 10 seconds, an increased expectation for Rogue party play is inevitable.",
         "pt-BR": "[Haijaragrek] \nComo é capaz de bloquear monstros fortes—exceto os de nível chefe—por 10 segundos, é esperado que aumente a dependência do grupo de Rogue.",
         "es-ES": "[Haijaragrek] \nComo puede bloquear monstruos fuertes—excepto a los de nivel jefe—durante 10 segundos, se espera un aumento del valor para el juego en grupo de Rogue."
     },
     "eLcoAw": {
-        "ko-KR": "[하이자라그랙]\n더 해주고 싶은 말이 많네만, 이후 추가적인 효용성은 자네가 스킬을 경험하면서 자세히 알게 될 걸세. 자, 이제 할 말은 끝났네.",
         "en-US": "[Haijaragrek] \nI have more I’d like to say, but after this, you’ll learn in detail the additional usefulness by experiencing the skill yourself. Alright—this is all I have to say.",
         "pt-BR": "[Haijaragrek] \nEu tenho mais coisas que gostaria de dizer, mas o resto—sobre a utilidade adicional—você vai descobrir em detalhes conforme experimentar a skill. Enfim, é isso.",
         "es-ES": "[Haijaragrek] \nQuiero decirte aún más, pero con el tiempo descubrirás en detalle la utilidad adicional al experimentar la skill. Bien, ya terminó lo que tenía que decir."
     },
     "ebcoAw": {
-        "ko-KR": "[하이자라그랙]\n스킬을 완벽히 익혔으니, 자네가 전설이 될 날을 기다려 보겠네.",
         "en-US": "[Haijaragrek] \nNow that you’ve mastered the skill perfectly, I’ll wait for the day you become a legend.",
         "pt-BR": "[Haijaragrek] \nJá que você domina a skill perfeitamente, vou esperar pelo dia em que você se torne uma lenda.",
         "es-ES": "[Haijaragrek] \nAhora que has dominado la skill a la perfección, esperaré el día en que te conviertas en una leyenda."
     },
     "ercoAw": {
-        "ko-KR": "[하이자라그랙]\n스킬을 얻었으니 사용해 보면 금방 알게 될 걸세.",
         "en-US": "[Haijaragrek] \nSince you’ve obtained the skill, once you use it, you’ll understand it right away.",
         "pt-BR": "[Haijaragrek] \nJá que você conseguiu a skill, ao usá-la vai entender rapidinho.",
         "es-ES": "[Haijaragrek] \nComo ya la conseguiste, al usarla lo entenderás al momento."
     },
     "e7coAw": {
-        "ko-KR": "[하이자라그랙]\n자네 전승의 굴레에서 자유롭지 못 했군... 아니면, 로그란 직업에 애착이 강한 것인가? 자, 스킬을 다시 배우게.",
         "en-US": "[Haijaragrek] \nSo you’re still not free from the shackles of inheritance… or is it that you’re very attached to the profession of Rogue? Then—learn the skill again.",
         "pt-BR": "[Haijaragrek] \nEntão você ainda não está livre das correntes da herança… ou será que você tem um apego enorme à profissão de Rogue? Então… aprenda a skill de novo.",
         "es-ES": "[Haijaragrek] \nAsí que aún no estás libre de las cadenas de la herencia… ¿o es que te apegas mucho a la profesión de Rogue? Bien, aprende la skill otra vez."
     },
     "fLcoAw": {
-        "ko-KR": "[하이자라그랙]\n새로 배운 기술은 어떤가? 유용하지?",
         "en-US": "[Haijaragrek] \nSo, what do you think of the technique you learned anew? Is it useful?",
         "pt-BR": "[Haijaragrek] \nE então, o que achou da técnica que você aprendeu de novo? Ela é útil?",
         "es-ES": "[Haijaragrek] \nEntonces, ¿qué te parece la técnica que aprendiste de nuevo? ¿Es útil?"
     },
     "fbcoAw": {
-        "ko-KR": "[하이자라그랙]\n내가... 그리 좋은가???",
         "en-US": "[Haijaragrek] \nAm I… that good???",
         "pt-BR": "[Haijaragrek] \nEu… sou tão bom assim???",
         "es-ES": "[Haijaragrek] \n¿Soy… tan bueno???"
     },
     "frcoAw": {
-        "ko-KR": "[하이자라그랙]\n지난번 일은 정말 고마웠네.",
         "en-US": "[Haijaragrek] \nThanks a lot for what you did last time.",
         "pt-BR": "[Haijaragrek] \nMuito obrigado pelo que você fez da última vez.",
         "es-ES": "[Haijaragrek] \nDe verdad, te agradezco lo de la otra vez."
     },
     "f7coAw": {
-        "ko-KR": "[하이자라그랙]\n누군가 날... 로그를 불러다 주시오. 부탁이오.",
         "en-US": "[Haijaragrek] \nSomeone… call me… a Rogue. Please.",
         "pt-BR": "[Haijaragrek] \nAlguém… faça eu… chamar um Rogue. Por favor.",
         "es-ES": "[Haijaragrek] \nAlguien… que me traiga… a un Rogue. Por favor."
     },
     "gLcoAw": {
-        "ko-KR": "자객",
         "en-US": "Assassin",
         "pt-BR": "Assassino",
         "es-ES": "Asesino"
     },
     "gbcoAw": {
-        "ko-KR": "[자객]\n그... 르... 르....\n움.. 직.. 일.. 수.. 없.. 다..\n무.. 엇.. 이.. 냐..",
         "en-US": "[Assassin] \nTh… th… th… \nI-I… ca…n’t… move… \nWha… what is… this…?",
         "pt-BR": "[Assassin] \nE… eu… não… \nNã… consigo… trabalhar… \nQue… o que… é… isso…",
         "es-ES": "[Asesino] \nEl… él… él… \nNo… no… puedo… trabajar… \n¿Qu… qué… es… esto…?"
     },
     "grcoAw": {
-        "ko-KR": "[하이자라그랙]\n그렇다! 지금 그 비술이 너희들이 노리는 ^4D4DFF클로즈 컨파인^000000이다!!",
         "en-US": "[Haijaragrek] \nThat’s right! Right now, that secret art you’re after is ^4D4DFFClose Confine^000000!!",
         "pt-BR": "[Haijaragrek] \n¡Eso es! Agora mismo, ese segredo é o ^4D4DFFClose Confine^000000 que vocês estão mirando!!",
         "es-ES": "[Haijaragrek] \n¡Exacto! ¡Ahora mismo, esa ‘arte secreta’ que buscáis es ^4D4DFFClose Confine^000000!!"
     },
     "g7coAw": {
-        "ko-KR": "[하이자라그랙]\n-자객-의 좌이동은 흰색!!!\n-자객-의 우이동은 황색!!!\n-자객-의 후방이동은 연적색!!!",
         "en-US": "[Haijaragrek] \n—The assassin’s left movement is WHITE!!! \n—The assassin’s right movement is YELLOW!!! \n—The assassin’s rear movement is light reddish-violet!!!",
         "pt-BR": "[Haijaragrek] \n—O movimento para a esquerda do assassino é BRANCO!!! \n—O movimento para a direita é AMARELO!!! \n—O movimento para trás é VIOLETA avermelhado!!!",
         "es-ES": "[Haijaragrek] \n—El movimiento a la izquierda del asesino es BLANCO!!! \n—El movimiento a la derecha es AMARILLO!!! \n—El movimiento hacia atrás es rojizo-violeta claro!!!"
     },
     "hLcoAw": {
-        "ko-KR": "[하이자라그랙]\n등의 오라가 보일걸세. 이제부터 자네의 ^4D4DFF클로즈 컨파인^000000은 완벽하네. 그에게서 비법서를 되찾아주게.",
         "en-US": "[Haijaragrek] \nYou’ll see the aura on… well, the back, that sort of thing. From now on, your ^4D4DFFClose Confine^000000 will be perfect. Recover the secret manuscript from him.",
         "pt-BR": "[Haijaragrek] \nVocê vai ver a aura… nas costas, algo assim. A partir de agora, o seu ^4D4DFFClose Confine^000000 ficará perfeito. Pegue de vuelta o manuscrito secreto dele.",
         "es-ES": "[Haijaragrek] \nVerás el aura… en la espalda, algo así. A partir de ahora, tu ^4D4DFFClose Confine^000000 será perfecto. Recupera el manuscrito secreto de él."
     },
     "hbcoAw": {
-        "ko-KR": "좌측 경로 봉쇄",
         "en-US": "Left path sealed",
         "pt-BR": "Rota esquerda bloqueada",
         "es-ES": "Ruta izquierda bloqueada"
     },
     "hrcoAw": {
-        "ko-KR": "우측 경로 봉쇄",
         "en-US": "Right path sealed",
         "pt-BR": "Rota direita bloqueada",
         "es-ES": "Ruta derecha bloqueada"
     },
     "h7coAw": {
-        "ko-KR": "후방 이동 봉쇄",
         "en-US": "Rear movement sealed",
         "pt-BR": "Bloqueio do movimento para trás",
         "es-ES": "Bloqueo del movimiento hacia atrás"
     },
     "iLcoAw": {
-        "ko-KR": "봉쇄 성공!!!",
         "en-US": "Seal success!!!",
         "pt-BR": "Bloqueio com sucesso!!!",
         "es-ES": "¡Bloqueo exitoso!!!"
     },
     "ibcoAw": {
-        "ko-KR": "봉쇄 실패...",
         "en-US": "Seal failed…",
         "pt-BR": "Bloqueio falhou…",
         "es-ES": "Falló el bloqueo…"
     },
     "ircoAw": {
-        "ko-KR": "[자객]\n그... 그... 그...",
         "en-US": "[Assassin] \nTh… th… th…",
         "pt-BR": "[Assassino] \nE… e… e…",
         "es-ES": "[Asesino] \nEl… el… el…"
     },
     "i7coAw": {
-        "ko-KR": "== 채택배의 비법서 획득  ==",
         "en-US": "== You obtained Chaetakbae’s secret manuscript ==",
         "pt-BR": "== Você obteve o manuscrito secreto do Chaetakbae ==",
         "es-ES": "== Has obtenido el manuscrito secreto de Chaetakbae =="
     },
     "jLcoAw": {
-        "ko-KR": "[자객]\n그... 그... 그...\n크으...",
         "en-US": "[Assassin] \nTh… th… th… \nKhh…",
         "pt-BR": "[Assassino] \nE… e… e… \nKhh…",
         "es-ES": "[Asesino] \nEl… el… el… \nKhh…"
     },
     "jbcoAw": {
-        "ko-KR": "뤼그랙",
         "en-US": "Lügrak",
         "pt-BR": "Lügrak",
         "es-ES": "Lügrak"
     },
     "jrcoAw": {
-        "ko-KR": "[뤼그랙]\n^FF0000아빠^000000가 우리에게 새로운 비술을 전수해 주시다 갑자기 사라지셨어요.",
         "en-US": "[Lügrak] \nDad ^FF0000…^000000 taught us a new secret art, and then he suddenly disappeared.",
         "pt-BR": "[Lügrak] \nO papai ^FF0000^000000 nos ensinou uma nova arte secreta e, de repente, ele desapareceu.",
         "es-ES": "[Lügrak] \nPapá ^FF0000^000000 nos enseñó una nueva arte secreta y luego desapareció de repente."
     },
     "j7coAw": {
-        "ko-KR": "[뤼그랙]\n로그의 새로운 비술을 전수하면서 매우 즐거워하셨었는데. 아마도, 로그 길드의 어딘가, 숨겨진 방에 계실 듯 한데...",
         "en-US": "[Lügrak] \nHe seemed really happy while passing on the new secret arts of the Rogue. He’s probably somewhere in the Rogue Guild… in a hidden room…",
         "pt-BR": "[Lügrak] \nEnquanto ensinava as novas artes secretas de Rogue, ele estava muito feliz. Deve estar em algum lugar do Rogue Guild… em alguma sala escondida…",
         "es-ES": "[Lügrak] \nEstaba muy contento mientras nos transmitía las nuevas artes secretas de Rogue. Probablemente esté por alguna parte del gremio de Rogue… en una habitación oculta…"
     },
     "kLcoAw": {
-        "ko-KR": "[뤼그랙]\n^FF0000아빠^000000는 로그 길드의 어딘가, 숨겨진 방에 계실 듯 한데... 그 방이 마키누나가 있는 곳의 옆방을 잘 찾아봐야 한다고 했어요.",
         "en-US": "[Lügrak] \nDad said he’s probably in some hidden room somewhere in the Rogue Guild… and that we should look carefully at the adjacent room to where Maki-nee is.",
         "pt-BR": "[Lügrak] \nPapai disse que ele deve estar em alguma sala escondida dentro do Rogue Guild… e que nós devemos procurar bem na sala ao lado de onde a Maki-nee está.",
         "es-ES": "[Lügrak] \nPapá dijo que seguramente está en alguna habitación oculta dentro del gremio de Rogue… y que hay que buscar bien la habitación de al lado de donde está Maki-nii."
     },
     "kbcoAw": {
-        "ko-KR": "== 하이자라그랙의 서신 전달 ==",
         "en-US": "== You delivered Haijaragrek’s letter ==",
         "pt-BR": "== Você entregou a carta do Haijaragrek ==",
         "es-ES": "== Has entregado la carta de Haijaragrek =="
     },
     "krcoAw": {
-        "ko-KR": "[뤼그랙]\n아빠가.... 빨리 형에게 사실을 알려야 겠어요. 이 서신을 ^FF0000토르^000000형에게 부탁해요.",
         "en-US": "[Lügrak] \nDad… we have to tell the truth to my brother right away. Please deliver this letter to Brother ^FF0000Thor^000000.",
         "pt-BR": "[Lügrak] \nPapai… temos que contar a verdade pro meu irmão o quanto antes. Por favor, entregue esta carta ao irmão ^FF0000Thor^000000.",
         "es-ES": "[Lügrak] \nPapá… tenemos que decirle la verdad al hermano mayor enseguida. Encargadle esta carta al hermano ^FF0000Thor^000000."
     },
     "k7coAw": {
-        "ko-KR": "== 뤼그랙의 서신 획득 ==",
         "en-US": "== You obtained Lügrak’s letter ==",
         "pt-BR": "== Você obteve a carta do Lügrak ==",
         "es-ES": "== Has obtenido la carta de Lügrak =="
     },
     "lLcoAw": {
-        "ko-KR": "[뤼그랙]\n빨리 형에게 사실을 알려야 겠어요. 서신을 토르형에게 부탁해요. ^FF0000토르^000000형은 길드 내 헤르만쏜Jr. 옆에 있을 거에요.",
         "en-US": "[Lügrak] \nWe have to tell my brother the truth right away. Please give the letter to Brother Thor. Brother ^FF0000Thor^000000 should be next to Herman Sonn Jr. in the guild.",
         "pt-BR": "[Lügrak] \nTenho que contar a verdade ao meu irmão o quanto antes. Entregue a carta ao irmão Thor. O irmão ^FF0000Thor^000000 deve estar do lado do Herman Sonn Jr. na guilda.",
         "es-ES": "[Lügrak] \nTenemos que decirle la verdad al hermano enseguida. Encárgale la carta al hermano Thor. El hermano ^FF0000Thor^000000 estará al lado de Herman Sonn Jr. dentro del gremio."
     },
     "lbcoAw": {
-        "ko-KR": "[뤼그랙]\n^FF0000제이^000000형은 길드 내 안토니오Jr. 옆에 있어요.",
         "en-US": "[Lügrak] \nBrother ^FF0000Jae^000000 is right next to Antonio Jr. in the guild.",
         "pt-BR": "[Lügrak] \nO irmão ^FF0000Jae^000000 está ao lado do Antonio Jr. na guilda.",
         "es-ES": "[Lügrak] \nEl hermano ^FF0000Jae^000000 está al lado de Antonio Jr. dentro del gremio."
     },
     "lrcoAw": {
-        "ko-KR": "[뤼그랙]\n^FF0000아빠^000000는 비밀방에 있어요.",
         "en-US": "[Lügrak] \nDad ^FF0000^000000 is in the secret room.",
         "pt-BR": "[Lügrak] \nO papai ^FF0000^000000 está na sala secreta.",
         "es-ES": "[Lügrak] \nPapá ^FF0000^000000 está en la habitación secreta."
     },
     "l7coAw": {
-        "ko-KR": "[뤼그랙]\n비술 습득요?? ^FF0000토르^000000형을 찾아가세요.",
         "en-US": "[Lügrak] \n¿Vas a aprender artes secretas?? Ve a buscar al hermano ^FF0000Thor^000000.",
         "pt-BR": "[Lügrak] \nAprender artes secretas…?? Vá atrás do irmão ^FF0000Thor^000000.",
         "es-ES": "[Lügrak] \n¿Aprender artes secretas…? Ve a buscar al hermano ^FF0000Thor^000000."
     },
     "mLcoAw": {
-        "ko-KR": "[뤼그랙]\n앗, 왜 여기 있어요? 중간에 함부로 나오시면 안 돼요. 어서 ^FF0000토르^000000형에게 가세요.",
         "en-US": "[Lügrak] \nAh… why are you here? You can’t come out here carelessly in the middle. Go to Brother ^FF0000Thor^000000 right away.",
         "pt-BR": "[Lügrak] \nAh, por que você está aqui? Não pode sair no meio assim, sem querer. Vá agora até o irmão ^FF0000Thor^000000.",
         "es-ES": "[Lügrak] \nAh… ¿por qué estás aquí? No deberías salir por tu cuenta a mitad. Ve enseguida con el hermano ^FF0000Thor^000000."
     },
     "mbcoAw": {
-        "ko-KR": "[뤼그랙]\n와와왓! 대단하세요. ^FF0000토르^000000형에게 가서 말하면 더 상세한 설명을 할 거예요.",
         "en-US": "[Lügrak] \nWow—amazing! If you go and talk to Brother ^FF0000Thor^000000, he’ll explain everything in more detail.",
         "pt-BR": "[Lügrak] \nUau, que incrível! Se você for falar com o irmão ^FF0000Thor^000000, ele vai explicar com mais detalhes.",
         "es-ES": "[Lügrak] \n¡Wow! Qué impresionante. Si vas a hablarle al hermano ^FF0000Thor^000000, te explicará con más detalle."
     },
     "mrcoAw": {
-        "ko-KR": "[뤼그랙]\n음 설명이라... ^FF0000아빠^000000에게 가세요. 하긴 전 아직 익히지 못했는 걸요.",
         "en-US": "[Lügrak] \nHmm, explicación… go to ^FF0000Dad^000000. I guess I still haven’t learned it yet.",
         "pt-BR": "[Lügrak] \nHm… é explicação… vá falar com o ^FF0000papai^000000. Bom, eu ainda não aprendi.",
         "es-ES": "[Lügrak] \nHm… explicación… ve con ^FF0000Papá^000000. Aunque claro, yo todavía no lo aprendí."
     },
     "m7coAw": {
-        "ko-KR": "[뤼그랙]\n정말 유명한 채택배님의 일화가 있다고 형들이 말하던데요. 비술 자체의 콘셉트가 하나만 잡아! 그리고 죽도록 치는 거야!라고...",
         "en-US": "[Lügrak] \nThe brothers said there’s an anecdote about the truly famous Chaetakbae. Something about the concept of the secret arts being ‘commit to it—just hit it relentlessly to the death!’ …",
         "pt-BR": "[Lügrak] \nOs irmãos falavam que existe uma anedota bem famosa do Chaetakbae. Dizem que o conceito das artes secretas é só um: ‘focar em uma coisa! e bater até morrer!’",
         "es-ES": "[Lügrak] \nLos hermanos decían que hay una anécdota de un Chaetakbae realmente famoso. El concepto de las artes secretas es uno solo: ¡‘escoge uno y pega sin parar… hasta la muerte!’"
     },
     "nLcoAw": {
-        "ko-KR": "[뤼그랙]\n우와, 대단해요. 저도 당신처럼 되고 싶어요.",
         "en-US": "[Lügrak] \nWow, that’s amazing. I want to be like you, too.",
         "pt-BR": "[Lügrak] \nNossa, incrível. Eu também quero ser como você.",
         "es-ES": "[Lügrak] \nGuau, qué genial. Yo también quiero ser como tú."
     },
     "nbcoAw": {
-        "ko-KR": "[뤼그랙]\n터널 드라이브가 좋아.\n살금 살금 적을 향해 은밀히 걷는 그 느낌, 당신은 아세요?",
         "en-US": "[Lügrak] \nI like Tunnel Drive. You know that feeling… of quietly creeping toward your enemy in secrecy, right? Do you know it?",
         "pt-BR": "[Lügrak] \nEu gosto de Tunnel Drive. Você sabe aquele sentimento… de caminhar bem escondido, devagarinho, em direção ao inimigo?",
         "es-ES": "[Lügrak] \nMe gusta Tunnel Drive. ¿Conoces esa sensación… de avanzar sigilosamente hacia el enemigo, con pasos sigilosos? ¿Tú lo sabes?"
     },
     "nrcoAw": {
-        "ko-KR": "토르그랙",
         "en-US": "Thorgrak",
         "pt-BR": "Thorgrak",
         "es-ES": "Thorgrak"
     },
     "n7coAw": {
-        "ko-KR": "[토르그랙]\n이런, 아버지는 날 여기 두고 어디로 가버리신 거야? 길드 내의 숨겨진 방으로 가신 건가? 아까 우릴 습격한 그 녀석들과 어떤 연관이 있는 거지?",
         "en-US": "[Thorgrak] \nWhat… Dad left me here—where did he go? Did he go to the hidden room in the guild? And what does it have to do with those guys who attacked us earlier?",
         "pt-BR": "[Thorgrak] \nQue coisa… meu pai me deixou aqui e foi pra onde? Ele foi para a sala escondida da guilda? E que relação isso tem com aqueles que atacaram a gente agora há pouco?",
         "es-ES": "[Thorgrak] \n¿Pero qué…? Mi padre me dejó aquí y se fue… ¿a dónde? ¿Fue a la habitación oculta dentro del gremio? ¿Qué relación tiene con esos tipos que nos atacaron hace un momento?"
     },
     "oLcoAw": {
-        "ko-KR": "[토르그랙]\n왜 ^FF0000아버지^000000를 습격했을까? 새로운 비술 때문인가?",
         "en-US": "[Thorgrak] \nWhy would they attack ^FF0000Dad^000000? Is it because of the new secret arts?",
         "pt-BR": "[Thorgrak] \nPor que atacariam o ^FF0000papai^000000? Por causa das novas artes secretas?",
         "es-ES": "[Thorgrak] \n¿Por qué atacarían a ^FF0000papá^000000? ¿Por culpa de las nuevas artes secretas?"
     },
     "obcoAw": {
-        "ko-KR": "[토르그랙]\n^FF0000아버지^000000는 로그 길드의 숨겨진 방에 계실텐데... 마키가 말하길 자신의 왼쪽방 그 안에 어딘가에 숨겨진...",
         "en-US": "[Thorgrak] \n^FF0000Dad^000000 should be in the hidden room of the Rogue Guild… Maki said that in that left room of hers… it’s hidden somewhere in there…",
         "pt-BR": "[Thorgrak] \nO ^FF0000papai^000000 deve estar na sala escondida da guilda Rogue… A Maki disse que naquela sala da esquerda… deve estar escondido em algún lugar…",
         "es-ES": "[Thorgrak] \n^FF0000Papá^000000 estará en la habitación oculta del gremio Rogue… Según Maki, en su cuarto de la izquierda… está oculto en algún lugar…"
     },
     "orcoAw": {
-        "ko-KR": "[토르그랙]\n^FF0000뤼^000000는 로그 길드 안의 홀그렌Jr. 녀석 옆에 있을 거야.",
         "en-US": "[Thorgrak] \n^FF0000Lü^000000 will be next to that guy Hallgren Jr. inside the Rogue Guild.",
         "pt-BR": "[Thorgrak] \nO ^FF0000Lü^000000 deve estar ao lado daquele cara, o Hallgren Jr., dentro da guilda Rogue.",
         "es-ES": "[Thorgrak] \nEl ^FF0000Lü^000000 estará al lado de ese tipo, Hallgren Jr., dentro del gremio Rogue."
     },
     "o7coAw": {
-        "ko-KR": "== 뤼그랙의 서신 전달 ==",
         "en-US": "== You delivered Lügrak’s letter ==",
         "pt-BR": "== Você entregou a carta do Lügrak ==",
         "es-ES": "== Has entregado la carta de Lügrak =="
     },
     "pLcoAw": {
-        "ko-KR": "[토르그랙]\n제길!! 그랬단 말이지?\n일단 형에게도 사실을 알려야겠군. 네가 이 서신을 전해주면 아마 서신에 적힌 대로 너에게도 비술을 전해 줄 테니까, 어서 가도록 해.",
         "en-US": "[Thorgrak] \nDamn it!! So that’s how it is? \nFirst, I should tell my brother the truth too. If you deliver this letter, they’ll probably pass the secret arts to you as well, according to what’s written in it—so go on.",
         "pt-BR": "[Thorgrak] \nMerda!! O sea… era así. \nAntes de tudo, preciso contar a verdade também pro meu irmão. Se você entregar esta carta, provavelmente vão te passar as artes secretas também, como está escrito nela… então vai logo.",
         "es-ES": "[Thorgrak] \n¡Maldición! ¿O sea que fue así? \nEn primer lugar, tengo que decirle la verdad también a mi hermano. Si entregas esta carta, seguramente te pasarán las artes secretas tal y como está escrito… así que ve."
     },
     "pbcoAw": {
-        "ko-KR": "[토르그랙]\n^FF0000제이^000000형은 길드 내 안토니오Jr. 옆에 있으니까. 어서 서신을 전해줘.",
         "en-US": "[Thorgrak] \nBrother ^FF0000Jae^000000 is next to Antonio Jr. in the guild. So hurry up and deliver the letter.",
         "pt-BR": "[Thorgrak] \nO irmão ^FF0000Jae^000000 está do lado do Antonio Jr. na guilda. Então entrega logo a carta.",
         "es-ES": "[Thorgrak] \nEl hermano ^FF0000Jae^000000 está al lado de Antonio Jr. dentro del gremio. Date prisa y entrégale la carta."
     },
     "prcoAw": {
-        "ko-KR": "== 토르그랙의 서신 획득 ==",
         "en-US": "== You obtained Thorgrak’s letter ==",
         "pt-BR": "== Você obteve a carta do Thorgrak ==",
         "es-ES": "== Has obtenido la carta de Thorgrak =="
     },
     "p7coAw": {
-        "ko-KR": "[토르그랙]\n^FF0000아버지^000000는 길드의 비밀방에 있어.",
         "en-US": "[Thorgrak] \nDad ^FF0000^000000 is in the guild’s secret room.",
         "pt-BR": "[Thorgrak] \nO papai ^FF0000^000000 está na sala secreta da guilda.",
         "es-ES": "[Thorgrak] \nPapá ^FF0000^000000 está en la sala secreta del gremio."
     },
     "qLcoAw": {
-        "ko-KR": "[토르그랙]\n그래, 비술을 습득하기 위해 왔단 말이지? 다소 힘들 거야. ^4D4DFF클로즈 컨파인^000000은 우선, 봉쇄를 먼저 익혀야 하니까. 쉬운 일이 아니니 각오하도록 해. 설명을 듣고 갈래?",
         "en-US": "[Thorgrak] \nSo, you came to learn the secret arts, huh? It’ll be a bit tough. With ^4D4DFFClose Confine^000000, you first have to learn the ‘seal’ itself. It isn’t easy—so brace yourself. Do you want to hear the explanation and then go?",
         "pt-BR": "[Thorgrak] \nEntão você veio para aprender as artes secretas, é? Vai ser um pouco difícil. Em ^4D4DFFClose Confine^000000, primeiro você precisa dominar a selagem. Não é uma coisa fácil—então se prepare. Quer ouvir a explicação e ir?",
         "es-ES": "[Thorgrak] \nAsí que viniste a aprender las artes secretas, ¿eh? Va a ser algo difícil. Para ^4D4DFFClose Confine^000000, primero hay que aprender la seladura. No es fácil, así que prepárate. ¿Quieres oír la explicación y entrar?"
     },
     "qbcoAw": {
-        "ko-KR": "네, 듣겠습니다.",
         "en-US": "Yes, I’ll listen.",
         "pt-BR": "Sim, vou ouvir.",
         "es-ES": "Sí, escucharé."
     },
     "qrcoAw": {
-        "ko-KR": "아니요",
         "en-US": "No",
         "pt-BR": "Não",
         "es-ES": "No"
     },
     "q7coAw": {
-        "ko-KR": "[토르그랙]\n한 번만 설명한다. 잘 들어. 수련장 안으로 들어가면 누군가 등장할 거야. 그럼 그를 잡아야 하는데, 1셀 안에 들어가야 해. 즉, 그 녀석 앞까지 밀착하여야 한다는 거지.",
         "en-US": "[Thorgrak] \nI’ll explain it just once. Listen carefully. When you enter the training area, someone will appear. Then you have to catch them—but you must get within 1 cell. In other words, you need to stick right up to them.",
         "pt-BR": "[Thorgrak] \nEu explico solo una vez. Escuta bien. Al entrar en la sala de entrenamiento, va a aparecer alguien. Entonces tienes que atraparlo… pero tienes que entrar dentro de 1 ‘cell’. O sea, tienes que pegarte hasta estar justo delante de ese tipo.",
         "es-ES": "[Thorgrak] \nSolo te lo explico una vez. Oye bien. Cuando entres al campo de entrenamiento, aparecerá alguien. Entonces tendrás que atraparlo, pero tienes que entrar en 1 celda. Es decir, debes acercarte pegado hasta colocarte justo delante de él."
     },
     "rLcoAw": {
-        "ko-KR": "[토르그랙]\n그럼 그 순간부터 봉쇄 싸움이 일어난다. 그 녀석의 몸을 봉쇄해 움직이지 못하게 하는 거지. 좌, 우, 후방으로 움직이며 네게서 빠져나가려 하는 것을 막는 거야.",
         "en-US": "[Thorgrak] \nThen from that moment, the ‘seal fight’ begins. You lock down that guy’s body and stop him from moving. He’ll try to escape by moving left, right, or backward—so you must prevent that.",
         "pt-BR": "[Thorgrak] \nA partir daquele instante começa a ‘luta de selagem’. Você sela o corpo dele para ele não poder se mover. Ele vai tentar escapar movendo-se para a esquerda, direita e para trás—e você precisa impedir isso.",
         "es-ES": "[Thorgrak] \nEntonces, a partir de ese momento, empieza la lucha de la seladura. Debes sellar su cuerpo para que no pueda moverse. Se moverá hacia la izquierda, la derecha o hacia atrás para escapar de ti—y tú tienes que impedirlo."
     },
     "rbcoAw": {
-        "ko-KR": "[토르그랙]\n자, 설명은 여기까지 그럼 행운을 빈다.",
         "en-US": "[Thorgrak] \nAlright, that’s the explanation. Then—good luck.",
         "pt-BR": "[Thorgrak] \nBien, hasta aquí vai a explicación. Boa sorte.",
         "es-ES": "[Thorgrak] \nBien, hasta aquí la explicación. Entonces… buena suerte."
     },
     "rrcoAw": {
-        "ko-KR": "[토르그랙]\n중간에 문제가 생겼었군. 다시 수련하러 갈래?",
         "en-US": "[Thorgrak] \nSomething went wrong halfway, huh. Want to go train again?",
         "pt-BR": "[Thorgrak] \nEntão deu algum problema no meio. Quer voltar a treinar?",
         "es-ES": "[Thorgrak] \nVeo que hubo un problema en el camino. ¿Vas a volver a entrenar?"
     },
     "r7coAw": {
-        "ko-KR": "네, 가겠습니다.",
         "en-US": "Yes, I’ll go.",
         "pt-BR": "Sim, eu vou.",
         "es-ES": "Sí, iré."
     },
     "sLcoAw": {
-        "ko-KR": "[토르그랙]\n그럼 수련을 할 마음이 생기면 내게 다시 말하도록 해.",
         "en-US": "[Thorgrak] \nThen if you feel like training, tell me again.",
         "pt-BR": "[Thorgrak] \nEntão, quando tiver vontade de treinar, me avise de novo.",
         "es-ES": "[Thorgrak] \nEntonces, cuando te entrenen las ganas de volver a practicar, dímelo otra vez."
     },
     "sbcoAw": {
-        "ko-KR": "[토르그랙]\n그래 대단하군. 벌써, 익히다니... 축하한다. 마지막으로 ^FF0000아버지^000000에게 가봐. 그러면 스킬에 대한 상세 설명을 들을 수 있을 거야.",
         "en-US": "[Thorgrak] \nNice—impressive. You’ve already learned it… Congratulations. Finally, go to ^FF0000Dad^000000. Then you’ll be able to hear the detailed explanation about the skill.",
         "pt-BR": "[Thorgrak] \nIncrível. Você já aprendeu… parabéns. Por último, vá até ^FF0000papai^000000. Assim, poderá ouvir a explicação detalhada sobre a skill.",
         "es-ES": "[Thorgrak] \nBien… impresionante. ¡Ya lo has aprendido! Felicidades. Por último, ve a donde está ^FF0000Papá^000000. Allí podrás escuchar la explicación detallada de la skill."
     },
     "srcoAw": {
-        "ko-KR": "[토르그랙]\n^FF0000아버지^000000에게 가라니까.",
         "en-US": "[Thorgrak] \nI said, go to ^FF0000Dad^000000.",
         "pt-BR": "[Thorgrak] \nEu disse pra ir pro ^FF0000papai^000000.",
         "es-ES": "[Thorgrak] \nTe dije que vayas a ^FF0000Papá^000000."
     },
     "s7coAw": {
-        "ko-KR": "[토르그랙]\n채택배님의 일화라...\n--나?, 나, 채택배야! 넌, 너?--\n--너 파라오야?--\n이렇게 묻고 그냥 쳤다더군.",
         "en-US": "[Thorgrak] \nAn anecdote about Chaetakbae… \n‘M-me…? I’m Chaetakbae! You… who?’ \n‘You’re Pharaoh?’ \nThat’s how he asked, and then just swung!",
         "pt-BR": "[Thorgrak] \nA história do Chaetakbae… \n‘Eu? Eu sou Chaetakbae! E você… você é…?’ \n‘¿Tú eres Faraó?’ \nFoi assim que ele perguntou e simplesmente atacou.",
         "es-ES": "[Thorgrak] \nUna anécdota del Chaetakbae… \n‘¿Yo? Yo soy Chaetakbae. ¿Tú… quién eres?’ \n‘¿Tú eres el Faraón?’ \nY luego… atacó sin más."
     },
     "tLcoAw": {
-        "ko-KR": "[토르그랙]\n여어~ 나보다 더 강해 뵈는걸?",
         "en-US": "[Thorgrak] \nHey—so you look even stronger than me?",
         "pt-BR": "[Thorgrak] \nEy… ¿así que te ves más fuerte que yo?",
         "es-ES": "[Thorgrak] \nEy… ¿así que te ves más fuerte que yo?"
     },
     "tbcoAw": {
-        "ko-KR": "[토르그랙]\n스내쳐로 누군가 치면 분명히 인벤토리에 아이템이 엄청나게 들어온다는데, 난 왜 안되지?",
         "en-US": "[Thorgrak] \nThey say if you hit someone with a Snatcher, items will flood into your inventory—so why isn’t it working for me?",
         "pt-BR": "[Thorgrak] \nDizem que, se você acertar alguém com Snatcher, entra um monte de itens no inventário… então por que comigo não funciona?",
         "es-ES": "[Thorgrak] \nDicen que si golpeas a alguien con Snatcher, entran un montón de objetos al inventario… entonces, ¿por qué conmigo no funciona?"
     },
     "trcoAw": {
-        "ko-KR": "제이그랙",
         "en-US": "Jaegrak",
         "pt-BR": "Jaegrak",
         "es-ES": "Jaegrak"
     },
     "t7coAw": {
-        "ko-KR": "[제이그랙]\n^FF0000아버님^000000을 찾아 오셨군요? 아까 그 괴인들과는 한패가 아닌 듯 하니 다행입니다.",
         "en-US": "[Jaegrak] \nSo you came looking for ^FF0000Dad^000000? Good—looks like you’re not with those freaks from earlier.",
         "pt-BR": "[Jaegrak] \nEntão você veio buscar o ^FF0000papai^000000? Que bom… parece que no está de la banda de aqueles monstros de agora há pouco.",
         "es-ES": "[Jaegrak] \nAsí que viniste a buscar a ^FF0000Papá^000000. Menos mal… no parece que seas de los mismos de esos monstruos de antes."
     },
     "uLcoAw": {
-        "ko-KR": "[제이그랙]\n^FF0000아버님^000000은 그 괴인들을 피해 길드 안의 숨겨진 방으로 피신하셨습니다.",
         "en-US": "[Jaegrak] \n^FF0000Dad^000000 fled from those freaks and took refuge in a hidden room inside the guild.",
         "pt-BR": "[Jaegrak] \nO ^FF0000papai^000000 se refugiou em uma sala escondida dentro da guilda, fugindo daqueles monstros.",
         "es-ES": "[Jaegrak] \n^FF0000Papá^000000 se ha refugiado en una sala oculta dentro del gremio para escapar de esos monstruos."
     },
     "ubcoAw": {
-        "ko-KR": "[제이그랙]\n^FF0000아버님^000000은 그 괴인들을 피해 길드 안의 숨겨진 방으로 피신하셨습니다. 마키의 왼쪽방 어딘가에...",
         "en-US": "[Jaegrak] \n^FF0000Dad^000000 fled from those freaks and took refuge in a hidden room inside the guild. Somewhere… in the left room of Maki…",
         "pt-BR": "[Jaegrak] \nO ^FF0000papai^000000 se refugiou em uma sala escondida dentro da guilda, fugindo daqueles monstros. Em algum lugar… no quarto à esquerda da Maki…",
         "es-ES": "[Jaegrak] \n^FF0000Papá^000000 se refugió dentro del gremio en una sala oculta para escapar de esos monstruos. En alguna parte… en el cuarto de la izquierda de Maki…"
     },
     "urcoAw": {
-        "ko-KR": "[제이그랙]\n^FF0000뤼^000000는 여기 말고 로그 길드 내에 홀그렌Jr. 옆에 있을 겁니다.",
         "en-US": "[Jaegrak] \n^FF0000Lü^000000 should be next to Hallgren Jr. inside the Rogue Guild— not here.",
         "pt-BR": "[Jaegrak] \nO ^FF0000Lü^000000 vai estar ao lado do Hallgren Jr. dentro da guilda Rogue—não aqui.",
         "es-ES": "[Jaegrak] \n^FF0000Lü^000000 estará al lado de Hallgren Jr. dentro del gremio Rogue. No aquí."
     },
     "u7coAw": {
-        "ko-KR": "[제이그랙]\n^FF0000토르^000000는 길드 내 헤르만쏜Jr. 옆에 있습니다.",
         "en-US": "[Jaegrak] \n^FF0000Thor^000000 is next to Herman Sonn Jr. inside the guild.",
         "pt-BR": "[Jaegrak] \nO ^FF0000Thor^000000 está do lado do Herman Sonn Jr. dentro da guilda.",
         "es-ES": "[Jaegrak] \n^FF0000Thor^000000 está al lado de Herman Sonn Jr. dentro del gremio."
     },
     "vLcoAw": {
-        "ko-KR": "== 토르그랙의 서신 전달 ==",
         "en-US": "== You delivered Thorgrak’s letter ==",
         "pt-BR": "== Você entregou a carta do Thorgrak ==",
         "es-ES": "== Has entregado la carta de Thorgrak =="
     },
     "vbcoAw": {
-        "ko-KR": "[제이그랙]\n역시 그랬군요. 빨리 길드에 이 사실을 알리고 ^FF0000아버님^000000께도 서신을 전해 드려야겠군요. 다시 한번 부탁합니다.",
         "en-US": "[Jaegrak] \nAs I suspected… We should tell the guild the truth quickly, and also deliver the letter to ^FF0000Dad^000000. I ask you again.",
         "pt-BR": "[Jaegrak] \nEra como pensei. Temos que avisar logo o gremio e entregar também a carta ao ^FF0000papai^000000. Peço de novo.",
         "es-ES": "[Jaegrak] \nYa era de esperar. Hay que avisar al gremio enseguida con esta información y entregar también la carta al ^FF0000Papá^000000. Os lo pido de nuevo."
     },
     "vrcoAw": {
-        "ko-KR": "== 제이그랙의 서신 획득 ==",
         "en-US": "== You obtained Jaegrak’s letter ==",
         "pt-BR": "== Você obteve a carta do Jaegrak ==",
         "es-ES": "== Has obtenido la carta de Jaegrak =="
     },
     "v7coAw": {
-        "ko-KR": "[제이그랙]\n^FF0000아버님^000000께도 서신을 전해 드려야겠군요. 다시 한번 부탁합니다. ^FF0000아버님^000000은 길드 내 비밀방에 계십니다.",
         "en-US": "[Jaegrak] \nI also have to deliver a letter to ^FF0000Dad^000000. I ask you again. ^FF0000Dad^000000 is in the guild’s secret room.",
         "pt-BR": "[Jaegrak] \nTenho que entregar a carta ao ^FF0000papai^000000 também. Peço de novo. O ^FF0000papai^000000 está na sala secreta dentro da guilda.",
         "es-ES": "[Jaegrak] \nTambién tengo que entregarle la carta a ^FF0000Papá^000000. Os lo pido de nuevo. ^FF0000Papá^000000 está en la habitación secreta dentro del gremio."
     },
     "wLcoAw": {
-        "ko-KR": "[제이그랙]\n비술 습득을 허락 받으셨군요. 축하합니다. 그러나 여기가 아닙니다. ^FF0000토르^000000를 찾아가세요.",
         "en-US": "[Jaegrak] \nSo you’ve been granted permission to acquire the secret arts. Congratulations. But this isn’t the place—go find ^FF0000Thor^000000.",
         "pt-BR": "[Jaegrak] \nEntão você conseguiu permissão para aprender as artes secretas. Parabéns. Mas não é aqui. Procure o ^FF0000Thor^000000.",
         "es-ES": "[Jaegrak] \nAsí que te dieron permiso para adquirir las artes secretas. Enhorabuena. Pero no es aquí. Ve a buscar a ^FF0000Thor^000000."
     },
     "wbcoAw": {
-        "ko-KR": "[제이그랙]\n중간에 실패하셨나요? 다시 수련을 하려면 ^FF0000토르^000000에게 가세요.",
         "en-US": "[Jaegrak] \nDid you fail halfway? If you want to train again, go to ^FF0000Thor^000000.",
         "pt-BR": "[Jaegrak] \nVocê falhou no meio? Para treinar de novo, vá até o ^FF0000Thor^000000.",
         "es-ES": "[Jaegrak] \n¿Fallaste a mitad? Si quieres volver a entrenar, ve a ^FF0000Thor^000000."
     },
     "wrcoAw": {
-        "ko-KR": "[제이그랙]\n오~ 대단하십니다. 저에게 먼저 말을 하시다니 감사합니다. 그래도 ^FF0000토르^000000를 만나 보아야 합니다.",
         "en-US": "[Jaegrak] \nOh—impressive. Thanks for talking to me first. Still, you need to meet ^FF0000Thor^000000.",
         "pt-BR": "[Jaegrak] \nOh… que incrível. Obrigado por ter falado comigo primeiro. Mas ainda assim, você precisa encontrar o ^FF0000Thor^000000.",
         "es-ES": "[Jaegrak] \nOh… qué impresionante. Gracias por hablarme primero. Pero de todos modos tienes que conocer a ^FF0000Thor^000000."
     },
     "w7coAw": {
-        "ko-KR": "[제이그랙]\n^FF0000아버님^000000께 스킬에 대한 상세 설명을 부탁하세요.",
         "en-US": "[Jaegrak] \nAsk ^FF0000Dad^000000 for a detailed explanation of the skill.",
         "pt-BR": "[Jaegrak] \nPeça ao ^FF0000papai^000000 uma explicação detalhada da skill.",
         "es-ES": "[Jaegrak] \nPídele a ^FF0000Papá^000000 una explicación detallada sobre la skill."
     },
     "xLcoAw": {
-        "ko-KR": "[제이그랙]\n채택배님의 정신을 무철포...\n즉, 한자어가 아닌 속어로 표현하자면 무..대..뽀.. 이지요. 채택배님의 무대뽀 정신. 그것이 비술의 핵심입니다.",
         "en-US": "[Jaegrak] \nChaetakbae’s spirit of ‘Muwulpo’…—and if you put it in slang instead of Sino-Japanese words, it’s ‘Mu… dae… ppo…’ Chaetakbae’s ‘Mudaepo’ spirit. That is the heart of the secret arts.",
         "pt-BR": "[Jaegrak] \nO espírito do Chaetakbae, ‘Muwulpo’… Ou, se a gente traduzir em um termo coloquial em vez de palavra de origem chinesa, é ‘mu… dae… ppo…’. O espírito ‘Mudaepo’ do Chaetakbae. É isso que é o núcleo das artes secretas.",
         "es-ES": "[Jaegrak] \nEl espíritu de Chaetakbae, ‘Muwulpo’… Y, dicho en jerga en vez de palabras de origen chino-japonés, es ‘mu… dae… ppo…’. El espíritu Mudaepo de Chaetakbae. Ese es el núcleo de las artes secretas."
     },
     "xbcoAw": {
-        "ko-KR": "[제이그랙]\n당신은 희망이 될 것을 믿어 의심치 않습니다.",
         "en-US": "[Jaegrak] \nI can tell you believe—without doubt—that you’ll become hope.",
         "pt-BR": "[Jaegrak] \nVocê acredita que vai se tornar a esperança… sin nenhuma dúvida.",
         "es-ES": "[Jaegrak] \nTú crees que llegarás a ser esperanza, sin la menor duda."
     },
     "xrcoAw": {
-        "ko-KR": "[제이그랙]\n도작은 우리 로그의 최고 스킬!\n난 도작을 배우고 있습니다만.\n이제는 실전과 같은 연습을 하고\n싶은데, 그 상대를 당신으로 해도\n괜찮겠습니까?",
         "en-US": "[Jaegrak] \nDojak is our Rogue’s ultimate skill! \nI’m learning Dojak… but now I want to practice like it’s the real fight. Would it be okay to use you as the opponent?",
         "pt-BR": "[Jaegrak] \nDojak é a skill suprema da nossa Rogue! \nEu estou aprendendo o Dojak… mas agora quero fazer um treino como se fosse combate de verdade. Posso escolher você como o oponente?",
         "es-ES": "[Jaegrak] \n¡Dojak es la skill suprema de nuestro Rogue! \nEstoy aprendiendo Dojak… pero ahora quiero entrenar como si fuera en combate real. ¿Está bien si haces de oponente tú?"
     },
     "x7coAw": {
-        "ko-KR": "대기실담당",
         "en-US": "Waiting Room Staff",
         "pt-BR": "Responsável pela Sala de Espera",
         "es-ES": "Encargado de la Sala de Espera"
     },
     "yLcoAw": {
-        "ko-KR": "수련장",
         "en-US": "Training Grounds",
         "pt-BR": "Campo de Treinamento",
         "es-ES": "Campo de Entrenamiento"
     },
     "ybcoAw": {
-        "ko-KR": "이 곳은 봉쇄의 수련장. 입장 5분 후 밖으로 이동됩니다.",
         "en-US": "This is the training area for sealing. After 5 minutes in, you’ll be moved outside.",
         "pt-BR": "Este é o local de treino de selagem. Após 5 minutos de entrada, você será movido para fora.",
         "es-ES": "Este es el campo de entrenamiento de la seladura. Tras 5 minutos dentro, os moverán al exterior."
     },
     "yrcoAw": {
-        "ko-KR": "20초 후 밖으로 이동됩니다.",
         "en-US": "You’ll be moved outside after 20 seconds.",
         "pt-BR": "Você será movido para fora após 20 segundos.",
         "es-ES": "Os moverán al exterior después de 20 segundos."
     },
     "y7coAw": {
-        "ko-KR": "5초 후 밖으로 이동됩니다.",
         "en-US": "You’ll be moved outside after 5 seconds.",
         "pt-BR": "Você será movido para fora após 5 segundos.",
         "es-ES": "Os moverán al exterior después de 5 segundos."
     },
     "zLcoAw": {
-        "ko-KR": "밖으로 이동됩니다.",
         "en-US": "You’ll be moved outside.",
         "pt-BR": "Você será movido para fora.",
         "es-ES": "Os moverán al exterior."
     },
     "zbcoAw": {
-        "ko-KR": "1초후에 키에나가 등장 합니다. 키에나를 잡으세요.",
         "en-US": "Keyena will appear in 1 second. Catch Keyena.",
         "pt-BR": "Keyena aparecerá em 1 segundo. Pegue a Keyena.",
         "es-ES": "Keyena aparecerá en 1 segundo. ¡Atrapa a Keyena!"
     },
     "zrcoAw": {
-        "ko-KR": "키에나",
         "en-US": "Keyena",
         "pt-BR": "Keyena",
         "es-ES": "Keyena"
     },
     "z7coAw": {
-        "ko-KR": "[키에나]\n시험자께서는 저의 진행 경로를\n예측해 그 봉쇄 방향을\n지정해 주시면 됩니다.",
         "en-US": "[Keyena] \nYou just need to predict my route and specify the sealing direction.",
         "pt-BR": "[Keyena] \nVocê só precisa prever meu percurso e indicar a direção da selagem.",
         "es-ES": "[Keyena] \nSolo tenéis que predecir mi ruta y especificar la dirección de la seladura."
     },
     "0LcoAw": {
-        "ko-KR": "[키에나]\n봉쇄 성공!!!",
         "en-US": "[Keyena] \nSeal success!!!",
         "pt-BR": "[Keyena] \nSelagem com sucesso!!!",
         "es-ES": "[Keyena] \n¡Seladura exitosa!!!"
     },
     "0bcoAw": {
-        "ko-KR": "[키에나]\n봉쇄 실패...",
         "en-US": "[Keyena] \nSeal failed…",
         "pt-BR": "[Keyena] \nSelagem falhou…",
         "es-ES": "[Keyena] \nFalló la seladura…"
     },
     "0rcoAw": {
-        "ko-KR": "[키에나]\n---수련 종료---\n-당신의 랭크는-\n------ S ------",
         "en-US": "[Keyena] \n---Training ended---\n-Your rank is- \n------ S ------",
         "pt-BR": "[Keyena] \n---Treino finalizado---\n-Seu rank é- \n------ S ------",
         "es-ES": "[Keyena] \n---Entrenamiento finalizado---\n-Tu rango es- \n------ S ------"
     },
     "07coAw": {
-        "ko-KR": "[키에나]\n---수련 종료---\n-당신의 랭크는-\n------ A ------",
         "en-US": "[Keyena] \n---Training ended---\n-Your rank is- \n------ A ------",
         "pt-BR": "[Keyena] \n---Treino finalizado---\n-Seu rank é- \n------ A ------",
         "es-ES": "[Keyena] \n---Entrenamiento finalizado---\n-Tu rango es- \n------ A ------"
     },
     "1LcoAw": {
-        "ko-KR": "[키에나]\n---수련 종료---\n-당신의 랭크는-\n------ B+ -----",
         "en-US": "[Keyena] \n---Training ended---\n-Your rank is- \n------ B+ ------",
         "pt-BR": "[Keyena] \n---Treino finalizado---\n-Seu rank é- \n------ B+ ------",
         "es-ES": "[Keyena] \n---Entrenamiento finalizado---\n-Tu rango es- \n------ B+ ------"
     },
     "1bcoAw": {
-        "ko-KR": "[키에나]\n---수련 종료---\n-당신의 랭크는-\n------ B ------",
         "en-US": "[Keyena] \n---Training ended---\n-Your rank is- \n------ B ------",
         "pt-BR": "[Keyena] \n---Treino finalizado---\n-Seu rank é- \n------ B ------",
         "es-ES": "[Keyena] \n---Entrenamiento finalizado---\n-Tu rango es- \n------ B ------"
     },
     "1rcoAw": {
-        "ko-KR": "[키에나]\n---수련 종료---\n-당신의 랭크는-\n------ C+ -----",
         "en-US": "[Keyena] \n---Training ended---\n-Your rank is- \n------ C+ ------",
         "pt-BR": "[Keyena] \n---Treino finalizado---\n-Seu rank é- \n------ C+ ------",
         "es-ES": "[Keyena] \n---Entrenamiento finalizado---\n-Tu rango es- \n------ C+ ------"
     },
     "17coAw": {
-        "ko-KR": "[키에나]\n---수련 종료---\n-당신의 랭크는-\n------ C ------",
         "en-US": "[Keyena] \n---Training ended---\n-Your rank is- \n------ C ------",
         "pt-BR": "[Keyena] \n---Treino finalizado---\n-Seu rank é- \n------ C ------",
         "es-ES": "[Keyena] \n---Entrenamiento finalizado---\n-Tu rango es- \n------ C ------"
     },
     "2LcoAw": {
-        "ko-KR": "[키에나]\n---수련 종료---\n-당신의 랭크는-\n------ D+ -----",
         "en-US": "[Keyena] \n---Training ended---\n-Your rank is- \n------ D+ ------",
         "pt-BR": "[Keyena] \n---Treino finalizado---\n-Seu rank é- \n------ D+ ------",
         "es-ES": "[Keyena] \n---Entrenamiento finalizado---\n-Tu rango es- \n------ D+ ------"
     },
     "2bcoAw": {
-        "ko-KR": "[키에나]\n---수련 종료---\n-당신의 랭크는-\n------ D ------",
         "en-US": "[Keyena] \n---Training ended---\n-Your rank is- \n------ D ------",
         "pt-BR": "[Keyena] \n---Treino finalizado---\n-Seu rank é- \n------ D ------",
         "es-ES": "[Keyena] \n---Entrenamiento finalizado---\n-Tu rango es- \n------ D ------"
     },
     "2rcoAw": {
-        "ko-KR": "[키에나]\n---수련 종료---\n-당신의 랭크는-\n------ F ------",
         "en-US": "[Keyena] \n---Training ended---\n-Your rank is- \n------ F ------",
         "pt-BR": "[Keyena] \n---Treino finalizado---\n-Seu rank é- \n------ F ------",
         "es-ES": "[Keyena] \n---Entrenamiento finalizado---\n-Tu rango es- \n------ F ------"
     },
     "27coAw": {
-        "ko-KR": "[키에나]\n---수련 종료---\n-당신의 랭크는-\n----측정불가---",
         "en-US": "[Keyena] \n---Training ended---\n-Your rank is- \n---- Unmeasurable ---",
         "pt-BR": "[Keyena] \n---Treino finalizado---\n-Seu rank é- \n---- Não é possível medir ---",
         "es-ES": "[Keyena] \n---Entrenamiento finalizado---\n-Tu rango es- \n---- No se puede medir ---"
     },
     "3LcoAw": {
-        "ko-KR": "[키에나]\n수고하셨습니다.\n당신은 스킬을 습득할 충분한\n자질을 가지고 있습니다.\n토르그랙에게 보내 드리겠습니다.",
         "en-US": "[Keyena] \nGood job. \nYou have enough aptitude to learn the skill. \nI will send you to Thorgrak.",
         "pt-BR": "[Keyena] \nVocê se saiu bem. \nVocê tem aptidão suficiente para adquirir a skill. \nVou te encaminhar ao Thorgrak.",
         "es-ES": "[Keyena] \nBuen trabajo. \nTienes aptitud suficiente para adquirir la skill. \nTe enviaré con Thorgrak."
     },
     "3bcoAw": {
-        "ko-KR": "[키에나]\n아직 미숙합니다.\n스킬 습득을 위한 재도전을\n하시겠습니까?",
         "en-US": "[Keyena] \nYou’re still not good enough. \nWill you try again to acquire the skill?",
         "pt-BR": "[Keyena] \nVocê ainda está imaturo. \nQuer tentar de novo para adquirir a skill?",
         "es-ES": "[Keyena] \nTodavía no eres lo bastante competente. \n¿Vas a intentarlo de nuevo para adquirir la skill?"
     },
     "3rcoAw": {
-        "ko-KR": "네, 재도전을!!!",
         "en-US": "Yes, retry!!!",
         "pt-BR": "Sim, vamos tentar de novo!!!",
         "es-ES": "¡Sí, vuelvo a intentarlo!!!"
     },
     "37coAw": {
-        "ko-KR": "도전을 그만 두겠습니다.",
         "en-US": "I’ll stop the attempt.",
         "pt-BR": "Vou desistir da tentativa.",
         "es-ES": "Dejaré el intento."
     },
     "4LcoAw": {
-        "ko-KR": "[키에나]\n중간에 취소를 누르셨군요.\n그럼 처음부터 다시 해야합니다.",
         "en-US": "[Keyena] \nSo you canceled in the middle. \nThen you’ll have to start all over again.",
         "pt-BR": "[Keyena] \nEntão você apertou cancelar no meio. \nNesse caso, terá que começar de nuevo desde o início.",
         "es-ES": "[Keyena] \nAsí que pulsaste cancelar a mitad. \nEntonces tendrás que empezar desde el principio."
     },
     "4bcoAw": {
-        "ko-KR": "[키에나]\n이미 봉쇄 수련을 마쳤군요.",
         "en-US": "[Keyena] \nSo you’ve already completed the seal training.",
         "pt-BR": "[Keyena] \nEntão você já terminou o treino de selagem.",
         "es-ES": "[Keyena] \nAsí que ya has terminado el entrenamiento de seladura."
     },
     "4rcoAw": {
-        "ko-KR": "[키에나]\n잘못 들어 오셨습니다.",
         "en-US": "[Keyena] \nYou entered the wrong place.",
         "pt-BR": "[Keyena] \nVocê entrou no lugar errado.",
         "es-ES": "[Keyena] \nEntraste en el lugar equivocado."

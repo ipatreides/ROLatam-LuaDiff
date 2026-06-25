@@ -176,8 +176,8 @@
     },
     "A7AdAg": {
         "en-US": "ssss[{0}] guild has conquered the Scarlet Palace in the [{1}] Realm.",
-        "pt-BR": "ssssO clã [{0}] conquistou o castelo [{1}]",
-        "es-ES": "ssssEl gremio [{0}] conquistó el castillo [{1}]"
+        "pt-BR": "ssssO clã [{0}] conquistou o castelo de [{ignorei18n_agitName}]",
+        "es-ES": "ssssEl gremio [{0}] conquistó el castillo de [{ignorei18n_agitName}]"
     },
     "BLAdAg": {
         "en-US": "The Emperium has been destroyed.",
@@ -648,5 +648,45 @@
         "en-US": "Nothing happened.",
         "pt-BR": "Não aconteceu nada.",
         "es-ES": "No pasó nada."
+    },
+    "YrAdAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "Y7AdAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "ZLAdAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "ZbAdAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "ZrAdAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "Z7AdAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "aLAdAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "abAdAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     }
 }

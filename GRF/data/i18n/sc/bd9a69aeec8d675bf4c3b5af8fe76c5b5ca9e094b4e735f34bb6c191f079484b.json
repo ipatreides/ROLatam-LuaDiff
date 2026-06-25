@@ -201,8 +201,8 @@
     },
     "KOcMAg": {
         "en-US": "ssss[{0}] guild has conquered Nuenberg in the [{1}] Realm.",
-        "pt-BR": "ssssO clã [{0}] conquistou o castelo [{1}]",
-        "es-ES": "ssssEl gremio [{0}] conquistó el castillo [{1}]"
+        "pt-BR": "ssssO clã [{0}] conquistou o castelo de [{ignorei18n_agitName}]",
+        "es-ES": "ssssEl gremio [{0}] conquistó el castillo de [{ignorei18n_agitName}]"
     },
     "KecMAg": {
         "en-US": "The Emperium has been destroyed.",
@@ -673,5 +673,45 @@
         "en-US": "Nothing happened.",
         "pt-BR": "Não aconteceu nada.",
         "es-ES": "No pasó nada."
+    },
+    "h+cMAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "iOcMAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "iecMAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "iucMAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "i+cMAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "jOcMAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "jecMAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "jucMAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     }
 }

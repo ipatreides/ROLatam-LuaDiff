@@ -1,1392 +1,1160 @@
 {
     "gLlfDA": {
-        "ko-KR": "[파란머리 요정]\n<FONT SIZE = 16><B>으아아아아아!!!</FONT></B>",
         "en-US": "[Blue-haired Fairy]\n<FONT SIZE = 16><B>Waaaaah!</FONT></B>",
         "pt-BR": "[Fada de Cabelo Azul]\n<FONT SIZE = 16><B>Aaaaaaa!!!</FONT></B>",
         "es-ES": "[Hada de Pelo Azul]\n<FONT SIZE = 16><B>¡Aaaaaaaah!!!</FONT></B>"
     },
     "gblfDA": {
-        "ko-KR": "파란머리 요정 : 으아아아아아!!!",
         "en-US": "Blue-haired Fairy: Waaaaah!",
         "pt-BR": "Fada de Cabelo Azul: Aaaaaaa!!!",
         "es-ES": "Hada de Pelo Azul: ¡Aaaaaaah!!!"
     },
     "grlfDA": {
-        "ko-KR": "[노란머리 요정]\n무슨 일이야. 갑자기 소릴 지르고…",
         "en-US": "[Yellow-haired Fairy]\nWhat's the matter? Why did you scream all of a sudden?",
         "pt-BR": "[Fada de Cabelo Amarelo]\nO que tá acontecendo? De repente você grita assim...",
         "es-ES": "[Hada de Pelo Azul]\n¿Qué pasa? De repente gritas..."
     },
     "g7lfDA": {
-        "ko-KR": "노란머리 요정 : 왜그래? 드디어 미ㅊ…",
         "en-US": "Yellow-haired Fairy: What's wrong? Have you finally lost your mind?",
         "pt-BR": "Fada de Cabelo Amarelo: O que foi? Você enlouqueceu?",
         "es-ES": "Hada de Pelo Amarillo: ¿Qué te pasa? ¿Por fin te..."
     },
     "hLlfDA": {
-        "ko-KR": "[파란머리 요정]\n들었냐?",
         "en-US": "[Blue-haired Fairy]\nDid you hear that?",
         "pt-BR": "[Fada de Cabelo Azul]\nVocê ouviu isso?",
         "es-ES": "[Hada de Pelo Azul]\n¿Escuchaste eso?"
     },
     "hblfDA": {
-        "ko-KR": "파란머리 요정 : 그런 거 아니거든?",
         "en-US": "Blue-haired Fairy: No, I haven't!",
         "pt-BR": "Fada de Cabelo Azul: Claro que não!",
         "es-ES": "Hada de Pelo Azul: No es eso, ¿sabes?"
     },
     "hrlfDA": {
-        "ko-KR": "[노란머리 요정]\n뭘???",
         "en-US": "[Yellow-haired Fairy]\nWhat???",
         "pt-BR": "[Fada de Cabelo Amarelo]\nO quê???",
         "es-ES": "[Hada de Pelo Amarillo]\n¿Qué???"
     },
     "h7lfDA": {
-        "ko-KR": "노란머리 요정 : 뭔데.",
         "en-US": "Yellow-haired Fairy: What is it?",
         "pt-BR": "Fada de Cabelo Amarelo: O que aconteceu?",
         "es-ES": "Hada de Cabello Amarillo: ¿Qué pasa?"
     },
     "iLlfDA": {
-        "ko-KR": "[파란머리 요정]\n이 앞에 있는 풀의 정령이 그러는데.\n에그노로리아님이 깊은잠을 준비하고 계신데…",
         "en-US": "[Blue-haired Fairy]\nThe plant spirit in front of here said\nEgnoloria is preparing to enter Deep Sleep.",
         "pt-BR": "[Fada de Cabelo Azul]\nO espírito da planta ali disse que...\nEgnoloria está se preparando para entrar em um sono profundo...",
         "es-ES": "[Hada de Pelo Azul]\nLo dice el espíritu de la hierba que está ahí delante.\nEgnoloria se está preparando para un sueño profundo…"
     },
     "iblfDA": {
-        "ko-KR": "파란머리 요정 : 망했어…",
         "en-US": "Blue-haired Fairy: We're doomed...",
         "pt-BR": "Fada de Cabelo Azul: Estamos perdidas…",
         "es-ES": "Hada de Pelo Azul: ¡Estamos jodidos…!"
     },
     "irlfDA": {
-        "ko-KR": "[노란머리 요정]\n앗!!!!! 벌써 그럴 때가 됐나?",
         "en-US": "[Yellow-haired Fairy]\nWhat?! Is it already that time?",
         "pt-BR": "[Fada de Cabelo Amarelo]\nO quê!!!!? Mas já chegou a hora?",
         "es-ES": "[Hada de Pelo Amarillo]\n¡Ay! ¿Ya llegó ese momento?"
     },
     "i7lfDA": {
-        "ko-KR": "노란머리 요정 : 헉!!!!! 진짜?!?!?",
         "en-US": "Yellow-haired Fairy: Gasp!!!!! Are you serious?!?!?",
         "pt-BR": "Fada de Cabelo Amarelo: Cof! Cof!!! Sério?!?!?",
         "es-ES": "Hada de Pelo Amarillo: ¡¿Qué?! ¿En serio?!"
     },
     "jLlfDA": {
-        "ko-KR": "[파란머리 요정]\n아직 레벨업도 조금 남았고… 재료도 구해야하고… 준비할 게 산더미처럼 남았는데,",
         "en-US": "[Blue-haired Fairy]\nI still have to work on my side, collect materials, among other things.",
         "pt-BR": "[Fada de Cabelo Azul]\nAinda tenho muito trabalho a fazer… preciso coletar os materiais… uma montanha de coisas para preparar.",
         "es-ES": "[Hada de Pelo Azul]\nTodavía nos falta un poco para subir de nivel… y tenemos que conseguir materiales… Quedan un montón de cosas por preparar,"
     },
     "jblfDA": {
-        "ko-KR": "[파란머리 요정]\n이대로라면 <FONT SIZE = 10>몇년이 될지, 몇십년이 될지, 몇백년이 될지… </FONT>알 수 없는 기간 동안 날개만 닦으며 에그노로리아님이 깨어나시길 기다리게 될 거야…",
         "en-US": "[Blue-haired Fairy]\nAt this rate, I'll have to just wait for <FONT SIZE = 10>years, or even centuries,</FONT> without knowing when Egnoloria wakes up...",
         "pt-BR": "[Fada de Cabelo Azul]\nSe continuar desse jeito, não sei quantos serão os anos<FONT SIZE = 10> ou décadas ou até centenas de anos</FONT> até Egnoloria acordar…",
         "es-ES": "[Hada de Pelo Azul]\nA este paso, <FONT SIZE = 10>no sé si serán unos años, unas décadas o unos siglos… </FONT>Tendré que pasar un tiempo indefinido limpiándome las alas mientras espero a que Egnoloria despierte…"
     },
     "jrlfDA": {
-        "ko-KR": "파란머리 요정 : 싫어어어어어어어어어어어!!!!!!!!!!",
         "en-US": "Blue-haired Fairy: Nooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",
         "pt-BR": "Fada de Cabelo Azul: Nãoooooooooooooooooooooo!!!!!!!!!!",
         "es-ES": "Hada de Cabello Azul: ¡Nooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
     },
     "j7lfDA": {
-        "ko-KR": "[노란머리 요정]\n으악!! 그러고보니 나도 하던 연구가 아직 안끝났는데!!!\n늦기전에 빨리 ^00B7EE마력의 샘^000000으로 가보자!!",
         "en-US": "[Yellow-haired Fairy]\nWah! I haven't finished my research, either!\nLet's go to the ^00B7EEMana Spring^000000 before it's too late!",
         "pt-BR": "[Fada de Cabelo Amarelo]\nAi!! Agora que penso nisso, ainda não terminei a minha pesquisa também!!!\nVamos logo para a ^00B7EEFonte de Magia^000000 antes que seja tarde demais!!",
         "es-ES": "[Hada de Cabello Amarillo]\n¡Ay! \n¡Ahora que lo pienso, yo tampoco he terminado la investigación que estaba haciendo!\n¡Vamos rápido a la ^00B7EEFuente de la Magia^000000 antes de que sea demasiado tarde!"
     },
     "kLlfDA": {
-        "ko-KR": "노란머리 요정 : 어흐흐흐흑…",
         "en-US": "Yellow-haired Fairy: Boohoo...",
         "pt-BR": "Fada de Cabelo Amarelo: Uhuuuuuh...",
         "es-ES": "Hada de Pelo Amarillo: Uhuuuuuh..."
     },
     "kblfDA": {
-        "ko-KR": "파란머리 요정 : 으아아아앙!",
         "en-US": "Blue-haired Fairy: Waaah!",
         "pt-BR": "Fada de Cabelo Azul: Aaaah!",
         "es-ES": "Hada de Pelo Azul: ¡Aaaah!"
     },
     "krlfDA": {
-        "ko-KR": "- 대화를 나누던 요정들이 옆에 있던 <B>^00B7EE기묘한 풀^000000</B>을 쓰다듬더니 순식간에 사라져버렸다. -",
         "en-US": "- The fairies stopped talking and touched the <B>^00B7EEstrange-looking plant^000000</B> next to them, disappearing into thin air. -",
         "pt-BR": "- As fadas que estavam conversando tocaram na <B>^00B7EEerva misteriosa^000000</B> ao lado delas e desapareceram num piscar de olhos. -",
         "es-ES": "- Las hadas que estaban conversando acariciaron la <B>^00B7EEPlanta Misteriosa^000000</B> que tenían al lado y desaparecieron en un instante. -"
     },
     "k7lfDA": {
-        "ko-KR": "-  뭔가 전승을 하고 와야할 것 같은 기운이 느껴진다.\n<NAVI>[프론테라 동사무소]<INFO>prt_in,280,167,0,101,0</INFO></NAVI>에 가면 도움을 받을 수 있을 것 같은 기분이 든다. -",
         "en-US": "-  I feel like I must go and receive some kind of message.\nI feel like I can get help if I go to <NAVI>[Prontera Town Office]<INFO>prt_in,280,167,0,101,0</INFO></NAVI>. -",
         "pt-BR": "-  Tenho uma sensação estranha de há algum tipo de mensagem para mim.\nSinto que posso receber orientação se for ao <NAVI>[Cartório de Prontera]<INFO>prt_in,280,167,0,101,0</INFO></NAVI>. -",
         "es-ES": "-  Siento una energía que me dice que tengo que ir a hacer algo de tradición.\n<NAVI>[Oficina de Prontera]<INFO>prt_in,280,167,0,101,0</INFO></NAVI> Me da la sensación de que allí me podrán ayudar. -"
     },
     "lLlfDA": {
-        "ko-KR": "파란머리 요정",
         "en-US": "Blue-haired Fairy",
         "pt-BR": "Fada de Cabelo Azul",
         "es-ES": "Hada de Pelo Azul"
     },
     "lblfDA": {
-        "ko-KR": "노란머리 요정",
         "en-US": "Yellow-haired Fairy",
         "pt-BR": "Fada de Cabelo Amarelo",
         "es-ES": "Hada de Pelo Amarillo"
     },
     "lrlfDA": {
-        "ko-KR": "기묘한 풀",
         "en-US": "Strange Plant",
         "pt-BR": "Planta Misteriosa",
         "es-ES": "Planta Misteriosa"
     },
     "l7lfDA": {
-        "ko-KR": "- 익숙한 마력의 흐름이 느껴진다. -",
         "en-US": "- I can feel the familiar flow of mana. -",
         "pt-BR": "- Sinto um fluxo de magia familiar. -",
         "es-ES": "- Siento un flujo de magia que me resulta familiar. -"
     },
     "mLlfDA": {
-        "ko-KR": "- 마력의 흐름이 느껴진다. -",
         "en-US": "- I can feel the flow of mana. -",
         "pt-BR": "- Sinto o fluxo de magia. -",
         "es-ES": "- Siento un flujo de magia. -"
     },
     "mblfDA": {
-        "ko-KR": "윱",
         "en-US": "Yoop",
         "pt-BR": "Yoop",
         "es-ES": "Yoop"
     },
     "mrlfDA": {
-        "ko-KR": "[윱]\n<FONT SIZE = 14><B>흐익!</B></FONT>\n깜짝이야!\n여긴 또 어떻게 온 거야?",
         "en-US": "[Yoop]\n<FONT SIZE = 14><B>Heek!</B></FONT>\nYou scared me!\nHow did you get here?",
         "pt-BR": "[Yoop]\n<FONT SIZE = 14><B>Eca!</B></FONT>\nQue susto!\nComo você veio parar aqui?",
         "es-ES": "[Yoop]\n<FONT SIZE = 14><B>¡Ay!</B></FONT>\n¡Qué susto!\n¿Cómo es que llegaste aquí?"
     },
     "m7lfDA": {
-        "ko-KR": "[윱]\n<FONT SIZE = 14><B>흐익!</B></FONT>\n깜짝이야!\n누구냐!",
         "en-US": "[Yoop]\n<FONT SIZE = 14><B>Heek!</B></FONT>\nWah!\nWho are you?",
         "pt-BR": "[Yoop]\n<FONT SIZE = 14><B>Eca!</B></FONT>\nQue susto!\nQuem é você!",
         "es-ES": "[Yoop]\n<FONT SIZE = 14><B>¡Ay!</B></FONT>\n¡Qué susto!\n¡¿Quién eres?!"
     },
     "nLlfDA": {
-        "ko-KR": "윱 : 으갹!!!!!!!",
         "en-US": "Yoop: Waaaggghhkk!",
         "pt-BR": "Yoop: Aaaaiiieee!!!!!!!",
         "es-ES": "Yoop: ¡Ay!!!!!!!"
     },
     "nblfDA": {
-        "ko-KR": "[윱]\n앗…\n{0}…\n여긴 또 어떻게 온 거야?",
         "en-US": "[Yoop]\nAh...\n{0}...\nHow did you come here again?",
         "pt-BR": "[Yoop]\nAh…\n{0}…\nComo você veio parar aqui?",
         "es-ES": "[Yoop]\nAy…\n{0}…\n¿Cómo has llegado aquí?"
     },
     "nrlfDA": {
-        "ko-KR": "요정들의 포탈을 따라왔다.",
         "en-US": "I followed the fairies' portal.",
         "pt-BR": "Segui o portal das fadas.",
         "es-ES": "Seguí el portal de las hadas."
     },
     "n7lfDA": {
-        "ko-KR": "[윱]\n너…\n전부터 아무 포탈이나 너무 쉽게 타는 거 아냐?",
         "en-US": "[Yoop]\nYou...\nHaven't you been entering any random portal way too easily?",
         "pt-BR": "[Yoop]\nVocê…\nVocê fica entrando em portais alheios sempre assim?",
         "es-ES": "[Yoop]\nTú…\n¿No es que desde hace tiempo te subes a cualquier portal con demasiada facilidad?"
     },
     "oLlfDA": {
-        "ko-KR": "윱 : 너어는 진짜…",
         "en-US": "Yoop : You're really...",
         "pt-BR": "Yoop: Você é mesmo...",
         "es-ES": "Yoop: Tú eres realmente…"
     },
     "oblfDA": {
-        "ko-KR": "[윱]\n그러다가 정말 위험한 곳으로 가버리는 수가 있다고…",
         "en-US": "[Yoop]\nIt can send you to a really dangerous place, you know.",
         "pt-BR": "[Yoop]\nDesse jeito, você pode acabar indo parar em um lugar perigoso, sabia?",
         "es-ES": "[Yoop]\nAsí puedes terminar yendo a un lugar realmente peligroso…"
     },
     "orlfDA": {
-        "ko-KR": "윱 : 그러다가 큰일난다 진짜…",
         "en-US": "Yoop: You should be careful. I'm serious.",
         "pt-BR": "Yoop: Aí vai ser um problemão, estou falando sério...",
         "es-ES": "Yoop: Te vas a meter en un buen lío, en serio…"
     },
     "o7lfDA": {
-        "ko-KR": "[윱]\n아무튼 용건이 없으면 빨리 돌아가.\n저번에도 너 때문에 내가 얼마나 혼났는지 알아?",
         "en-US": "[Yoop]\nAnyway, if you have no business with me, then you've got to leave.\nDo you know how much trouble I was in last time because of you?",
         "pt-BR": "[Yoop]\nDe qualquer forma, se não tem nada a fazer aqui, vá embora.\nVocê tem ideia da bronca que levei por sua causa da última vez?",
         "es-ES": "[Yoop]\nEn fin, si no tienes nada que hacer, vete rápido.\n¿Sabes cuánto me regañaron la última vez por tu culpa?"
     },
     "pLlfDA": {
-        "ko-KR": "윱 : 요정의 가루가 어떻게 만들어지는지 알고 있냐…",
         "en-US": "Yoop: Do you know how fairy dust is created?",
         "pt-BR": "Yoop: Você sabe como o pó de fada é criado?",
         "es-ES": "Yoop: ¿Sabes cómo se hace el polvo de hadas…?"
     },
     "pblfDA": {
-        "ko-KR": "[윱]\n나도 바쁜 몸이라 너랑 놀아줄 시간은 없으…<FONT SIZE = 16><B>후끼약!!</B></FONT>",
         "en-US": "[Yoop]\nI'm too busy to play with you...<FONT SIZE = 16><B>Hookyack!!</B></FONT>",
         "pt-BR": "[Yoop]\nEu também estou ocupado, não tenho tempo pra brincar com você…\n<FONT SIZE = 16><B>Huuriááá!!</B></FONT>",
         "es-ES": "[Yoop]\nYo también estoy muy ocupado y no tengo tiempo para jugar contigo…<FONT SIZE = 16><B>¡Fui-k-yak!!</B></FONT>"
     },
     "prlfDA": {
-        "ko-KR": "윱 : 후끼약!!!!!",
         "en-US": "Yoop: Hookyaaakkk!!!!!",
         "pt-BR": "Yoop: Huuriááá!!!!!",
         "es-ES": "Yoop: ¡¡¡¡Fufi-yak!!!!!"
     },
     "p7lfDA": {
-        "ko-KR": "[마기]\n아앗!!!\n어디 가셨지?",
         "en-US": "[Maggie]\nAah!\nWhere did he go?",
         "pt-BR": "[Maggie]\nAh!!!\nPara onde ela foi?",
         "es-ES": "[Magi]\n¡Ay!!!\n¿A dónde te fuiste?"
     },
     "qLlfDA": {
-        "ko-KR": "마기 : 윱님~",
         "en-US": "Maggie: Yoop!!",
         "pt-BR": "Maggie: Yoop!!",
         "es-ES": "Magi: ¡Yoop~!"
     },
     "qblfDA": {
-        "ko-KR": "[마기]\n{0}님 혹시…\n윱님 못 봤어요?",
         "en-US": "[Maggie]\n{0}, have you seen...\nYoop?",
         "pt-BR": "[Maggie]\nAh, {0}, por acaso...\nVocê não viu a Yoop?",
         "es-ES": "[Magi]\n{0}, ¿por casualidad…\nno has visto a Yoop?"
     },
     "qrlfDA": {
-        "ko-KR": "마기 : 앗! {0}님 안녕하세요~",
         "en-US": "Maggie: Ah! Hello {0}!",
         "pt-BR": "Maggie: Ah! Oi, {0}!",
         "es-ES": "Magi: ¡Ah! Hola, {0}~"
     },
     "q7lfDA": {
-        "ko-KR": "방금 사라졌다고 대답한다.",
         "en-US": "She just left.",
         "pt-BR": "Responde que ela desapareceu há pouco.",
         "es-ES": "Responde que acaba de desaparecer."
     },
     "rLlfDA": {
-        "ko-KR": "[마기]\n그런…\n아직 </B>^00B7EE전직시험^000000<B>에 대해서 물어볼 게 있는데…",
         "en-US": "[Maggie]\nOh, no...\nI still have questions about the Class Change test...",
         "pt-BR": "[Maggie]\nQue pena…\nAinda tenho uma pergunta sobre o </B>^00B7EETeste de Mudança de Classe^000000<B>…",
         "es-ES": "[Magi]\nVaya…\nTodavía tengo algo que preguntarte sobre el </B>^00B7EEexamen de cambio de clase^000000<B>…"
     },
     "rblfDA": {
-        "ko-KR": "[마기]\n흐음…\n어쩌면 좋지?\n곧 돌아오시겠죠?\n잠깐 기다려 볼까…",
         "en-US": "[Maggie]\nHmm...\nWhat should I do?\nShe'll be back soon, right?\nMaybe I should wait for her...",
         "pt-BR": "[Maggie]\nHum…\nO que eu faço?\nEla deve voltar logo, né?\nVou esperar um pouquinho…",
         "es-ES": "[Magi]\nMmm…\n¿Qué hago?\nSeguro que vuelve pronto, ¿no?\n¿Espero un rato…?"
     },
     "rrlfDA": {
-        "ko-KR": "[마기]\n어디 간다는 말은 안하셨어요?\n후끼약이라고 하셨으면 뭔가 문제가 생긴걸까…?",
         "en-US": "[Maggie]\nDidn't she say where she was going?\nShe said hookyaaakkk. Is she having a problem...?",
         "pt-BR": "[Maggie]\nEla não disse para onde ia?\nEla disse “Huuriáá”.... Será que ela está com problemas…?",
         "es-ES": "[Magi]\n¿No dijiste adónde ibas?\nSi dijiste «fukiyaku», ¿será que pasó algo...?"
     },
     "r7lfDA": {
-        "ko-KR": "[마기]\n그래도 혼자가 아니라 {0}님이 같이 있어서 다행이에요.\n이런 곳에서 혼자 기다리는 건 <FONT SIZE = 10>좀 긴장되기도 하고…</FONT>",
         "en-US": "[Maggie]\nStill, I'm glad you're here with me, {0}.\nWaiting alone in a place like this would have been <FONT SIZE = 10>a bit nerve-wracking...</FONT>",
         "pt-BR": "[Maggie]\nMas ainda bem que não estou sozinha, {0} está aqui comigo.\nFicar esperando sozinha num lugar assim <FONT SIZE = 10>me deixa um pouco nervosa…</FONT>",
         "es-ES": "[Magi]\nAun así, me alegro de que no estés sola, sino que {0} esté contigo.\nEsperar sola en un lugar como este <FONT SIZE = 10>me pone un poco nerviosa…</FONT>"
     },
     "sLlfDA": {
-        "ko-KR": "전직시험?",
         "en-US": "Class Change test?",
         "pt-BR": "Teste de Mudança de classe?",
         "es-ES": "¿Examen de cambio de clase?"
     },
     "sblfDA": {
-        "ko-KR": "[마기]\n네! 전직시험이요.\n{0}님도 전직 때문에 오신 것 아니에요?",
         "en-US": "[Maggie]\nYes! The Class Change test.\nYou're here for the Class Change too, right {0}?",
         "pt-BR": "[Maggie]\nSim! O Teste de Mudança de Classe.\n{0} também não veio por causa da mudança de classe?",
         "es-ES": "[Magi]\n¡Sí! El examen de cambio de clase.\n¿No has venido tú también por eso, {0}?"
     },
     "srlfDA": {
-        "ko-KR": "[마기]\n앗!!\n설마 모르고 계셨어요?",
         "en-US": "[Maggie]\nOh my!\nYou didn't know?",
         "pt-BR": "[Maggie]\nAh!!\nVocê não sabia disso?",
         "es-ES": "[Magi]\n¡Ay!!\n¿De verdad no lo sabías?"
     },
     "s7lfDA": {
-        "ko-KR": "[마기]\n에그노로리아님의 시련을 통과하면 ^00B7EE아크메이지^000000로 전직할 수 있데요!",
         "en-US": "[Maggie]\nIf you pass Egnoloria's trial, you can change your class to ^00B7EEArch Mage^000000!",
         "pt-BR": "[Maggie]\nDizem que se você passar pela provação da Egnoloria poderá se tornar um ^00B7EEMagus^000000!",
         "es-ES": "[Magi]\n¡Si pasas la prueba de Egnoloria, puedes cambiar de clase a ^00B7EEArchimago^000000!"
     },
     "tLlfDA": {
-        "ko-KR": "[마기]\n저도 아크메이지가 되고 싶어서 찾아왔는데…\n지금은 에그노로리아님이 깊은잠을 준비중이셔서 만날 수 없다고…",
         "en-US": "[Maggie]\nI came here to become an Arch Mage,\nbut I couldn't meet Egnoloria because she had to get ready for her Deep Sleep.",
         "pt-BR": "[Maggie]\nEu vim aqui porque quero me tornar um Magus…\nMas parece que Egnoloria está se preparando para um sono profundo e por isso não pude encontrá-la…",
         "es-ES": "[Magi]\nYo también vine porque quiero ser un Archimago…\nPero me dijeron que ahora Egnoloria se está preparando para su sueño profundo y no puedo encontrarla…"
     },
     "tblfDA": {
-        "ko-KR": "[마기]\n대신 윱님이 에그노로리아님에게 인정 받을 수 있는 시련을 알려주셨거든요!",
         "en-US": "[Maggie]\nInstead, Yoop told me what trials would earn Egnoloria's recognition!",
         "pt-BR": "[Maggie]\nDaí, a Yoop estava me contando sobre essas provações que me dariam o reconhecimento da Egnoloria!",
         "es-ES": "[Magi]\n¡Pero Yoop me ha dicho cuál es la prueba para que Egnoloria te reconozca!"
     },
     "trlfDA": {
-        "ko-KR": "[마기]\n좀 더 자세한 이야길 듣고 싶었는데 안계시네요.\n어쩔 수 없으니 윱님이 돌아오실 때까지 재료라도 모으고 있어야 겠어요.",
         "en-US": "[Maggie]\nI wanted to hear more details, but she's not here.\nOh well, I guess I'll collect the materials while waiting for him, then.",
         "pt-BR": "[Maggie]\nQueria saber mais detalhes, mas ela não está mais aqui.\nBem, acho que vou juntando os materiais até a Yoop voltar.",
         "es-ES": "[Magi]\nQuería saber más detalles, pero no está aquí.\nNo hay más remedio, así que tendré que ir juntando materiales hasta que Yoop regrese."
     },
     "t7lfDA": {
-        "ko-KR": "마기 : 시련을 통과하는 시험이에요.",
         "en-US": "Maggie: It's a test to pass the trial.",
         "pt-BR": "Maggie: É um teste para passar pela provação.",
         "es-ES": "Magi: Es una prueba para superar la prueba."
     },
     "uLlfDA": {
-        "ko-KR": "[마기]\n아!!!\n그래!!!",
         "en-US": "[Maggie]\nOh!!!\nYeah!!!",
         "pt-BR": "[Maggie]\nAh!!!\nÉ isso!!!",
         "es-ES": "[Magi]\n¡Ah!\n¡Claro!"
     },
     "ublfDA": {
-        "ko-KR": "[마기]\n이렇게 기다리고만 있을게 아니라…\n{0}님도 같이 ^00B7EE시련의 재료^000000를 모으지 않을래요?",
         "en-US": "[Maggie]\nInstead of just waiting here...\n{0}, how'd you like to collect the ^00B7EEchallenge materials^000000 with me?",
         "pt-BR": "[Maggie]\nEm vez de ficar aqui esperando…\n{0}, você não quer vir comigo coletar ^00B7EEos materiais da provação^000000?",
         "es-ES": "[Magi]\nEn lugar de quedarme aquí esperando...\n¿No te gustaría que {0} también vinieras a juntar ^00B7EElos materiales para la prueba^000000?"
     },
     "urlfDA": {
-        "ko-KR": "<FONT SIZE = 10>혼자 가기엔 좀 무서운 장소여서…</FONT>",
         "en-US": "<FONT SIZE = 10>I'm a bit scared to go there alone...</FONT>",
         "pt-BR": "<FONT SIZE = 10>É um lugar meio assustador pra ir sozinho...</FONT>",
         "es-ES": "<FONT SIZE = 10>Es un lugar que da un poco de miedo ir solo...</FONT>"
     },
     "u7lfDA": {
-        "ko-KR": "[마기]\n음…그러니까…\n첫번째 재료가…",
         "en-US": "[Maggie]\nHmm... So...\nThe first ingredient is...",
         "pt-BR": "[Maggie]\nHum… Então…\nO primeiro material fica no…",
         "es-ES": "[Magi]\nMmm… Bueno…\nEl primer material es…"
     },
     "vLlfDA": {
-        "ko-KR": "[마기]\n<FONT SIZE = 14>^00B7EE토르 화산 3층^000000</FONT>에서 ^00B7EE살라만다^000000를 잡아 얻을 수 있는 <B>^00B7EE불타는 심장^000000</B>이었어요.",
         "en-US": "[Maggie]\nIt was the <B>^00B7EEBurning Heart^000000</B> you could get by catching ^00B7EESalamanders^000000 on the <FONT SIZE = 14>^00B7EEthird floor of Thor Volcano^000000</FONT>.",
         "pt-BR": "[Maggie]\n<FONT SIZE = 14>^00B7EE3º andar do Vulcão Thor^000000</FONT>, onde dá pra pegar o <B>^00B7EECoração Incandescente^000000</B> derrotando a ^00B7EESalamandra^000000.",
         "es-ES": "[Magi]\n<FONT SIZE = 14>^00B7EE3.º piso del volcán Thor^000000</FONT> donde puedes cazar una ^00B7EEsalamandra^000000 para conseguir el <B>^00B7EEcorazón ardiente^000000</B>."
     },
     "vblfDA": {
-        "ko-KR": "[마기]\n윱님 말로는 ^00B7EE그 지역의 몬스터^000000도 ^00B7EE10마리^000000 정도 잡아서 <B>불의 기운</B>을 더 강하게 만들어야 한데요.",
         "en-US": "[Maggie]\nYoop said we have to hunt ^00B7EE10^000000 ^00B7EEmonsters in that area^000000 too to make the <B>fire energy</B> stronger.",
         "pt-BR": "[Maggie]\nSegundo o Yoop, também é preciso caçar uns ^00B7EE10 monstros^000000 daquela área para fortalecer a <B>Energia do Fogo</B>.",
         "es-ES": "[Magi]\nSegún Yoop, también hay que cazar como ^00B7EE10^000000 de ^00B7EElos monstruos de esa zona^000000 para hacer que el <B>poder del fuego</B> sea más fuerte."
     },
     "vrlfDA": {
-        "ko-KR": "[윱]\n<FONT SIZE = 14><B>으악!!!!</B></FONT>\n여기까지 따라오다니 무슨 짓이야!!!",
         "en-US": "[Yoop]\n<FONT SIZE = 14><B>Eeek!!!!</B></FONT>\nWhat the hell are you doing following me all the way here!!!",
         "pt-BR": "[Yoop]\n<FONT SIZE = 14><B>Eca!!!!</B></FONT>\nVocê me seguiu até aqui? Que brincadeira é essa!!!",
         "es-ES": "[Yoop]\n<FONT SIZE = 14><B>¡Ay, no!!!!</B></FONT>\n¿Qué haces siguiéndome hasta aquí?"
     },
     "v7lfDA": {
-        "ko-KR": "윱 : 왜 온거야!!!!",
         "en-US": "Yoop: Why did you come here!!!!",
         "pt-BR": "Yoop: Por que você veio!!!!",
         "es-ES": "Yoop: ¡¿Por qué viniste?!"
     },
     "wLlfDA": {
-        "ko-KR": "[셰즈]\n어라~아~\n이 인간은 뭔가요.\n윱님.",
         "en-US": "[Shez]\nErr?\nWho's this human,\nYoop?",
         "pt-BR": "[Shez]\nOpa~\nQuem é esse humano?\nYoop?",
         "es-ES": "[Shez]\nEh~a~\n¿Quién es este tipo?\nYoop."
     },
     "wblfDA": {
-        "ko-KR": "셰즈 : 전에 그렇게 혼나고 또…",
         "en-US": "Shez: You still haven't learned your lesson, have you?",
         "pt-BR": "Shez: Parece q você não aprende, né?",
         "es-ES": "Shez: Después de que te regañaran así la última vez y..."
     },
     "wrlfDA": {
-        "ko-KR": "[셰즈]\n복장을 보아하니 워록이 되려는 인간은 아닌 것 같고……",
         "en-US": "[Shez]\nJudging by their clothes, they don't look like they want to be Warlocks.",
         "pt-BR": "[Shez]\nPelo aparência, não parece alguém querendo se tornar Arcano...",
         "es-ES": "[Shez]\nPor su atuendo, no parece que sea alguien que quiera convertirse en brujo…"
     },
     "w7lfDA": {
-        "ko-KR": "[윱]\n별일 아냐.\n곧 돌려보낼 거니까 신경 쓰지마……",
         "en-US": "[Yoop]\nIt's no big deal.\nI'll send them back soon, so don't worry...",
         "pt-BR": "[Yoop]\nNão é nada demais.\nVou mandá-lo embora logo, então não se preocupe……",
         "es-ES": "[Yoop]\nNo es nada.\nTe voy a mandar de vuelta enseguida, así que no te preocupes……"
     },
     "xLlfDA": {
-        "ko-KR": "윱 : 신경 쓰지말고 절루가!",
         "en-US": "Yoop: Don't worry about it, just go!",
         "pt-BR": "Yoop: Não ligue para isso e vá embora!",
         "es-ES": "Yoop: ¡No te preocupes y vete ya!"
     },
     "xblfDA": {
-        "ko-KR": "사정을 설명한다.",
         "en-US": "Explain the situation.",
         "pt-BR": "Você explica a situação.",
         "es-ES": "Te explico la situación."
     },
     "xrlfDA": {
-        "ko-KR": "[셰즈]\n푸……\n<FONT SIZE = 14><B>푸하하하하하하하하학!!!!!!!!!!!!!!</B></FONT>",
         "en-US": "[Shez]\nPfff...\n<FONT SIZE = 14><B>Pwahahahahahahahahahahahahahaha!!!!!",
         "pt-BR": "[Shez]\nPuu...\n<FONT SIZE = 14><B>Puhahahahahahahahaha!!!!!!!!!!!!!!</B></FONT>",
         "es-ES": "[Shez]\nJaja...\n<FONT SIZE = 14><B>¡Jajajajajajajaja!!!!!!!!!!!!!!</B></FONT>"
     },
     "x7lfDA": {
-        "ko-KR": "셰즈 : 푸하하하하하하하하학!!!!!!!!!!!!!!",
         "en-US": "Shez: Pwah hah hah hah hah hah hah hah hah hah hah hah hah hah",
         "pt-BR": "Shez: Puhahahahahahahahaha!!!!!!!!!!!!!!",
         "es-ES": "Shez: ¡Jajajajajajajajaja!!!!!!!!!!!!!!"
     },
     "yLlfDA": {
-        "ko-KR": "[셰즈]\n윱님 설마……\n인간에게 ^00B7EE소환^000000 당한 거에요?\n<FONT SIZE = 14><B>흐하하하하하하하하하하하학!!!!!!!!</B></FONT>",
         "en-US": "[Shez]\nYoop... Oh, my...\nWere you ^00B7EEsummoned^000000 by this human?\n<FONT SIZE = 14><B>Hwahahahahahahahahahahahahahahahahahahahahahah!!!",
         "pt-BR": "[Shez]\nYoop, não me diga...\nVocê foi ^00B7EEinvocada^000000 por um humano?\n<FONT SIZE = 14><B>Hahahaahahaahahaahahaahahaahaha!!!!!!!!</B></FONT>",
         "es-ES": "[Shez]\nYoop, ¿no me digas que...\nte ha ^00B7EEinvocado^000000 un humano?\n<FONT SIZE = 14><B>Jajajajajajajajajajajaja!!!!!!!!</B></FONT>"
     },
     "yblfDA": {
-        "ko-KR": "셰즈 : 아이고 완전 웃겨!!!",
         "en-US": "Shez: Oh my gosh, this is hilarious!!!",
         "pt-BR": "Shez: Nossa, isso é hilário!!!",
         "es-ES": "Shez: ¡Ay, qué gracioso!!!"
     },
     "yrlfDA": {
-        "ko-KR": "[셰즈]\n<FONT SIZE = 14><B>앜!!!!!!!!</B></FONT>\n윱님 정도의 요정이 푸풉……\n최근 100년 동안 본 것 중에 제일 웃긴 듯 <FONT SIZE = 14><B>크크크크크크크큭!!!!!!</B></FONT>",
         "en-US": "[Shez]\n<FONT SIZE = 14><B>Pwahahah!</B></FONT>\nA fairy like Yoop.... Pffff!\nThis is the funniest thing I've seen in the last 100 years!! <FONT SIZE = 14><B>Kekekekekekekekekekekekekekekekekekekekekekekekeke",
         "pt-BR": "[Shez]\n<FONT SIZE = 14><B>Hahaha!!!!!!!!</B></FONT>\nUma fada do nível de Yoop... hahahaha...\nEssa é a coisa mais engraçada que vi nos últimos 100 anos!! <FONT SIZE = 14><B>Hahahaahaha!!!!!!</B></FONT>",
         "es-ES": "[Shez]\n<FONT SIZE = 14><B>¡Jajaja!</B></FONT>\nQue un hada del nivel de Yoop... jaja...\nParece lo más gracioso que he visto en los últimos 100 años <FONT SIZE = 14><B>¡Jajajajajaja!!!!!!</B></FONT>"
     },
     "y7lfDA": {
-        "ko-KR": "셰즈 : 이것보다 더 웃긴건 이번 세기엔 없을듯!",
         "en-US": "Shez: Nothing's going to be funnier than this at least for another one hundred years!",
         "pt-BR": "Shez: Nada vai superar isso pelos próximos 100 anos!!",
         "es-ES": "Shez: ¡No creo que haya nada más gracioso que esto en todo este siglo!"
     },
     "zLlfDA": {
-        "ko-KR": "[셰즈]\n<B>참고로 100년전에 제일 웃겼던 건 윱님이 허무의 돌을 실험하다가 박살내는 바람에</B>",
         "en-US": "[Shez]\n<B>For your information, the funniest thing that happened 100 years ago was when Yoop shattered a Stone of Futility while studying it.</B>",
         "pt-BR": "[Shez]\n<B>Só pra constar, a coisa mais engraçada de 100 anos atrás foi quando a Yoop fazia um experimento com a Pedra do Vazio mas acabou destruindo-a.</B>",
         "es-ES": "[Shez]\n<B>Por cierto, lo más gracioso de hace 100 años fue cuando Yoop estaba experimentando con la Piedra del Vacío y la hizo pedazos</B>"
     },
     "zblfDA": {
-        "ko-KR": "[셰즈]\n<B>온몸에 파편이 박혀서 고슴도치 같은 상태로 마력을 흡수한 허무의 돌이 번쩍거렸던 사건입니다!</B>",
         "en-US": "[Shez]\n<B>It was the incident where the Stone of Futility, glittering like confetti from absorbing his mana, left her covered in shards like a porcupine!</B>",
         "pt-BR": "[Shez]\n<B>Daí ela ficou com fragmentos cravados por todo o corpo, parecendo um porco-espinho, enquanto a Pedra do Vazio brilhava ao absorver sua magia!</B>",
         "es-ES": "[Shez]\n<B>¡El incidente en el que la Piedra del Vacío brilló mientras absorbía magia con todo el cuerpo lleno de fragmentos, como si fuera un puercoespín!</B>"
     },
     "zrlfDA": {
-        "ko-KR": "셰즈 : 이 사건은 [발광 윱슴도치 사건]이라고 부르죠!",
         "en-US": "Shez: This incident is still known as the Yoop the Confetti Porcupine incident.",
         "pt-BR": "Shez: Esse acontecimento ficou conhecido como [O Caso da Yoop-Porco-Espinho Brilhante]!",
         "es-ES": "Shez: ¡A este incidente lo llamamos el [Incidente del Erupto Erizo]!"
     },
     "z7lfDA": {
-        "ko-KR": "[셰즈]\n깔깔깔깔깔깔깔\n아이고 배......배가......크크크크크큭",
         "en-US": "[Shez]\nHee hee hee hee hee hee hee hee\nOh my belly... my belly... hee hee hee hee hee",
         "pt-BR": "[Shez]\nHahahaahaha\nAi, minha barriga... minha barriga... hahahahaha",
         "es-ES": "[Shez]\nJajajajajaja\nAy, mi barriga... mi barriga... Jajajajaja"
     },
     "0LlfDA": {
-        "ko-KR": "[윱]\n크……크읏……\n그만 웃어!!!",
         "en-US": "[Yoop]\nGrr... Grr...\nStop laughing!!!",
         "pt-BR": "[Yoop]\nGrrr...\nPára de rir!!!",
         "es-ES": "[Yoop]\nK... kkk...\n¡Deja de reírte!!!"
     },
     "0blfDA": {
-        "ko-KR": "[셰즈]\n흐히히히히히힉\n이…… 이럴 때가 아니지 이 대사건을 어서 이베인씨에게도 알려야지!!!!",
         "en-US": "[Shez]\nHee hee hee hee hee hee hee\nWh-what am I doing? I must share this news with Ivein!",
         "pt-BR": "[Shez]\nHihihihihihihihihihihihihihihihihi\nAah, preciso contar isso para a Ivein!",
         "es-ES": "[Shez]\nJijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijijij"
     },
     "0rlfDA": {
-        "ko-KR": "셰즈 : 히히히힉!! 이건 진짜 300년은 놀려먹을 수 있겠는데?",
         "en-US": "Shez: Hee hee hee! I've got something to make fun of him for the next 300 years!",
         "pt-BR": "Shez: Hihihihihihihihihihihihihihih Tenho algo para zombá-la pelos próximos 300 anos!",
         "es-ES": "Shez: ¡Jijijiji!! Con esto me voy a burlar de él por lo menos 300 años, ¿no?"
     },
     "07lfDA": {
-        "ko-KR": "[윱]\n악!!\n그만둬!!!!",
         "en-US": "[Yoop]\nWah!\nStop it!!!!",
         "pt-BR": "[Yoop]\nAaaahh!!\nPára com isso!!!!",
         "es-ES": "[Yoop]\n¡Ay!!\n¡¡¡Ya basta!!!!"
     },
     "1LlfDA": {
-        "ko-KR": "[윱]\n으아아아아아……",
         "en-US": "[Yoop]\nUrrggghh...",
         "pt-BR": "[Yoop]\nUuuhhrrrr...",
         "es-ES": "[Yoop]\n¡Aaaaaaah…!"
     },
     "1blfDA": {
-        "ko-KR": "[윱]\n인간……",
         "en-US": "[Yoop]\nHuman...",
         "pt-BR": "[Yoop]\nHumano……",
         "es-ES": "[Yoop]\nHumano…"
     },
     "1rlfDA": {
-        "ko-KR": "[윱]\n너에게 날 소환한 죄를 씻을 수 있는 기회를 주마……",
         "en-US": "[Yoop]\nI'll give you a chance to make up for your transgression...",
         "pt-BR": "[Yoop]\nVou te dar uma chance para se redimir dessa bagunça...",
         "es-ES": "[Yoop]\nTe daré la oportunidad de redimirte por haberme invocado..."
     },
     "17lfDA": {
-        "ko-KR": "[윱]\n<FONT SIZE = 14><B>저 건방진 셰즈를……</B></FONT>\n아니……\n이렇게 된 이상…… 이베인까지……\n소환해 내도록……",
         "en-US": "[Yoop]\n<FONT SIZE = 14><B>That arrogant Shez...</B></FONT>\nNo...\nSince it's come to this... I want Ivein too...\nSummon them both...",
         "pt-BR": "[Yoop]\n<FONT SIZE = 14><B>Aquela Shez insolente...</B></FONT>\nNão...\nJá que chegou a esse ponto... Ivein também...\nQuero que você invoque ambas!",
         "es-ES": "[Yoop]\n<FONT SIZE = 14><B>A ese insolente Shez...</B></FONT>\nNo...\nYa que las cosas han llegado a esto... hasta a Ivein...\nTendrás que invocarlo..."
     },
     "2LlfDA": {
-        "ko-KR": "[윱]\n만약 해내지 못하면……\n<B>아무 생각 없이 이 몸을 소환한 대가가 무엇인지 뼈저리게 느끼게 될 거야……</B>",
         "en-US": "[Yoop]\nIf you fail to do it...\n<B>You'll feel the consequences of summoning me so thoughtlessly... deep in your bones. Grr...</B>",
         "pt-BR": "[Yoop]\nSe não conseguir fazer isso...\n<B>Vai sentir na pele o preço de ter me invocado de forma tão leviana!</B>",
         "es-ES": "[Yoop]\nSi no lo logras...\n<B>Sabrás por tu propia piel cuál es el precio de haberme invocado sin pensar...</B>"
     },
     "2blfDA": {
-        "ko-KR": "^00B7EE메모리얼로 진행되는 이벤트 입니다.^000000\n^00B7EE전직 시험은 1인 파티로만 진행할 수 있습니다.^000000",
         "en-US": "^00B7EEThis is a Memorial event.^000000\n^00B7EEThe class change exam can only be taken in a party of one.^000000",
         "pt-BR": "^00B7EEEste é um evento que ocorre no Memorial.^000000\n^00B7EEO teste de mudança de classe só pode ser feito em grupo de 1 pessoa.^000000",
         "es-ES": "^00B7EEEste es un evento que se lleva a cabo en Memorial.^000000\n^00B7EELa prueba de cambio de clase solo se puede realizar en un grupo de 1 persona.^000000"
     },
     "2rlfDA": {
-        "ko-KR": "마력의 샘",
         "en-US": "Mana Spring",
         "pt-BR": "Fonte de Magia",
         "es-ES": "La Fuente de la Magia"
     },
     "27lfDA": {
-        "ko-KR": "[윱]\n좋아 마음의 준비가 됐다면 따라와.",
         "en-US": "[Yoop]\nAlright, if you're ready, follow me.",
         "pt-BR": "[Yoop]\nTudo bem, se você está pronto, venha comigo.",
         "es-ES": "[Yoop]\nBueno, si ya estás listo mentalmente, sígueme."
     },
     "3LlfDA": {
-        "ko-KR": "마음의 준비를 한다.",
         "en-US": "Get ready.",
         "pt-BR": "Preparo-me mentalmente.",
         "es-ES": "Me preparo mentalmente."
     },
     "3blfDA": {
-        "ko-KR": "따라 간다.",
         "en-US": "Follow him.",
         "pt-BR": "Vou atrás dele.",
         "es-ES": "Te sigo."
     },
     "3rlfDA": {
-        "ko-KR": "그만 둔다.",
         "en-US": "I quit.",
         "pt-BR": "Desisto.",
         "es-ES": "Ya basta."
     },
     "37lfDA": {
-        "ko-KR": "[윱]\n아직 마음의 준비가덜 된 것 같은데?\n집중하라구!",
         "en-US": "[Yoop]\nYou don't seem ready yet?\nFocus!",
         "pt-BR": "[Yoop]\nParece que você ainda não está totalmente preparado, não é?\nConcentre-se!",
         "es-ES": "[Yoop]\n¿Acaso no estás del todo listo todavía?\n¡Concéntrate!"
     },
     "4LlfDA": {
-        "ko-KR": "[윱]\n크크크큿… 셰즈녀석 혼쭐을 내주지…\n따라와! 이쪽이야!",
         "en-US": "[Yoop]\nHeh heh heh... Shez is gonna be sorry...\nFollow me. This way!",
         "pt-BR": "[Yoop]\nHehehehe... Vou dar uma lição naquela Shez...\nSiga-me! É por aqui!",
         "es-ES": "[Yoop]\nJe, je, je... Le voy a dar una buena lección a ese Shez...\n¡Sígueme! ¡Por aquí!"
     },
     "4blfDA": {
-        "ko-KR": "[윱]\n일단 <B>^00B7EE파티^000000</B>는 생성해 두는 게 좋겠어.\n여러가지로 유용하니까 말야",
         "en-US": "[Yoop]\nFirst off, it's best to create a <B>^00B7EEparty^000000</B>.\nIt'll come in handy for all sorts of things.",
         "pt-BR": "[Yoop]\nPrimeiro, você precisa criar um <B>^00B7EEgrupo^000000</B>.\nÉ útil pra várias coisas, sabe.",
         "es-ES": "[Yoop]\nPrimero, sería bueno que crearas un <B>^00B7EEgrupo^000000</B>.\nTe va a servir para muchas cosas"
     },
     "4rlfDA": {
-        "ko-KR": "{0}!!! {1}으로 출발이다!!!",
         "en-US": "{0}!!! Let's go to {1}!!!",
         "pt-BR": "{0}!!! Vamos partir para {1}!!!",
         "es-ES": "¡{0}!!! ¡Partimos con {1}!!!"
     },
     "47lfDA": {
-        "ko-KR": "[윱]\n셰즈를 소환해내지 못하면……\n<B>아무 생각 없이 이 몸을 소환한 대가가 무엇인지 뼈저리게 느끼게 될 거야……</B>",
         "en-US": "[Yoop]\nShouldn't you be the <B>^00B7EEparty leader^000000</B>? You don't take this seriously, do you?",
         "pt-BR": "[Yoop]\nVocê não deveria ser o <B>^00B7EElíder do grupo^000000</B>? Você precisa levar isso mais a sério, viu?",
         "es-ES": "[Yoop]\nSi no logras invocar a Shez…\n<B>vas a sentir en tus huesos cuál es el precio de haberme invocado sin pensar…</B>"
     },
     "5LlfDA": {
-        "ko-KR": "[윱]\n<B>^00B7EE파티장^000000</B>정도는 되야지. 마음가짐이 부족하구만!",
         "en-US": "[Yoop]\nYou have to be a <B>^00B7EEParty Leader^000000</B> at least. Your mindset is lacking!",
         "pt-BR": "[Yoop]\nTem que ser pelo menos <B>^00B7EElíder de grupo^000000</B>. Mas que atitude é essa?",
         "es-ES": "[Yoop]\nAl menos deberías ser <B>^00B7EElíder de grupo^000000</B>. ¡Te falta actitud!"
     },
     "5blfDA": {
-        "ko-KR": "[윱]\n혼자 어디 있었던 거야!!!\n빨리 따라와!",
         "en-US": "[Yoop]\nWhere the hell have you been all this time!!!\nHurry up and follow me!",
         "pt-BR": "[Yoop]\nOnde você estava esse tempo todo!!!\nVem logo!",
         "es-ES": "[Yoop]\n¡¿Dónde te habías metido?!\n¡Ven rápido!"
     },
     "5rlfDA": {
-        "ko-KR": "마기",
         "en-US": "Maggie",
         "pt-BR": "Maggie",
         "es-ES": "Magi"
     },
     "57lfDA": {
-        "ko-KR": "셰즈",
         "en-US": "Shez",
         "pt-BR": "Shez",
         "es-ES": "Shez"
     },
     "6LlfDA": {
-        "ko-KR": "[마기]\n와아…\n엄청 빨리 끝났어요!",
         "en-US": "[Maggie]\nWow...\nThat was incredibly fast!",
         "pt-BR": "[Maggie]\nUau…\nAcabou rapidinho!",
         "es-ES": "[Magi]\n¡Guau…\nSe acabó rapidísimo!"
     },
     "6blfDA": {
-        "ko-KR": "[마기]\n그런데 너무 빨랐나…\n윱님이 아직 안 돌아 오셨네요.",
         "en-US": "[Maggie]\nBut maybe too fast...\nYoop still isn't here.",
         "pt-BR": "[Maggie]\nMas será que foi rápido demais…\nYoop ainda não voltou.",
         "es-ES": "[Magi]\nPero, ¿fue demasiado rápido…?\nYoop aún no ha vuelto."
     },
     "6rlfDA": {
-        "ko-KR": "마기 : 윱니이이이이임…",
         "en-US": "Maggie: Yoop-eeeeeeeeeeeeeeeeee....",
         "pt-BR": "Maggie: Yoooopeeeeee.....",
         "es-ES": "Magi: ¡Yoop!"
     },
     "67lfDA": {
-        "ko-KR": "[마기]\n그러고보니 예전에 친구들이랑 살라만다의 고기는 무슨 맛일지 내기를 했었는데 힘들게 구한 고기가 평범한 불로는 익지 않아서 먹어보지도 못하고 고기가 상해버렸지 뭐에요.",
         "en-US": "[Maggie]\nCome to think of it, my friends and I once made a bet about what Salamander meat would taste like. We worked hard to get it, but we couldn't cook it over a normal fire. It just went bad after a while.",
         "pt-BR": "[Maggie]\nPensando bem, uma vez fiz uma aposta com meus amigos sobre qual seria o sabor da carne de salamandra.. Mas a carne que conseguimos com tanto esforço não cozinhava muito bem com fogo comum... Então, nem chegamos a provar e ela acabou estragando...",
         "es-ES": "[Magi]\nAhora que lo pienso, hace tiempo hice una apuesta con mis amigos sobre qué sabor tendría la carne de salamandra, pero la carne que conseguimos con tanto esfuerzo no se cocinaba con fuego normal, así que ni siquiera pudimos probarla y se echó a perder."
     },
     "7LlfDA": {
-        "ko-KR": "마기 : 듀가 아깝다고 상한고기를 먹어버려서 정말 고생했어요.",
         "en-US": "Maggie: Duga ate that spoiled meat and got sick. It was really painful to see.",
         "pt-BR": "Maggie: O Duga achou que era um desperdício e acabou comendo a carne estragada. Ele passou mal e deu dó de ver...",
         "es-ES": "Magi: Duga se comió la carne en mal estado porque le daba pena desperdiciarla, y la pasamos muy mal."
     },
     "7blfDA": {
-        "ko-KR": "[마기]\n지금이라면 마법으로 구울 수 있을지도 모르는데 다음에 친구들이랑 모여서 먹어 봐야겠어요.",
         "en-US": "[Maggie]\nIf we had done it now, we could have tried to use magic, which might have worked. I'd better find out next time we get together.",
         "pt-BR": "[Maggie]\nHoje em dia talvez eu consiga assá-la com magia... Da próxima vez que me reunir com o pessoal, vou experimentar....",
         "es-ES": "[Magi]\nAhora tal vez podría asarla con magia, así que la próxima vez que nos juntemos con los amigos, tendremos que probarla."
     },
     "7rlfDA": {
-        "ko-KR": "[마기]\n…………",
         "en-US": "[Maggie]\n…………",
         "pt-BR": "[Maggie]\n…………",
         "es-ES": "[Magi]\n…………"
     },
     "77lfDA": {
-        "ko-KR": "마기 : 앗… 제가 너무 혼자 떠들었죠?",
         "en-US": "Maggie: Oops... Did I ramble on too much?",
         "pt-BR": "Maggie: Ah... Falei demais, não é?",
         "es-ES": "Magi: ¡Ay…! ¿Me he quedado hablando sola, verdad?"
     },
     "8LlfDA": {
-        "ko-KR": "[마기]\n이…이러고 있을게 아니라…\n그럼 다음 재료는…",
         "en-US": "[Maggie]\nI... I shouldn't be standing here like this...\nSo, to get the next ingredient...",
         "pt-BR": "[Maggie]\nEu não deveria ficar viajando assim...\nEntão, o próximo ingrediente fica em...",
         "es-ES": "[Magi]\nEn lugar de… quedarme aquí así…\nBueno, el siguiente ingrediente es…"
     },
     "8blfDA": {
-        "ko-KR": "[마기]\n<FONT SIZE = 14><B>바르문트 저택 목욕탕</B></FONT>의 ^00B7EE목욕탕 인어^000000를 잡아서 <B>인어의 심장</B>을 얻으면 돼요.",
         "en-US": "[Maggie]\nCatch ^00B7EEBathhouse Mermaids^000000 in <FONT SIZE = 14><B>Varmunt Mansion Bathhouse</B></FONT> to obtain the <B>Mermaid's Heart</B>.",
         "pt-BR": "[Maggie]\n<FONT SIZE = 14><B>Sauna da Mansão Varmunt</B></FONT>: é só capturar a ^00B7EEsereia da banheira^000000 para conseguir o <B>Coração de Sereia</B>.",
         "es-ES": "[Magi]\nTienes que cazar a la ^00B7EEsirena del baño^000000 de la <B>sala de baño de la mansión Varmunt</B> para conseguir el <B>corazón de sirena</B>."
     },
     "8rlfDA": {
-        "ko-KR": "[마기]\n그리고 ^00B7EE그 지역의 몬스터^000000도 ^00B7EE10마리^000000 정도 잡아서 <B>물의 기운</B>을 더 강하게 만들어야 한데요.",
         "en-US": "[Maggie]\nAnd we must hunt ^00B7EE10^000000 ^00B7EEmonsters in that area^000000 too, to strengthen the <B>water energy</B>.",
         "pt-BR": "[Maggie]\nE também preciso capturar uns ^00B7EE10 monstros^000000 daquela área para fortalecer a <B>Energia da Água</B>.",
         "es-ES": "[Magi]\nY también hay que cazar como ^00B7EE10^000000 de los ^00B7EEmonstruos de esa zona^000000 para hacer que la <B>energía del agua</B> sea más fuerte."
     },
     "87lfDA": {
-        "ko-KR": "[마기]\n휴…\n인어는 볼 때마다 너무 긴장돼요.",
         "en-US": "[Maggie]\nPhew...\nI get so nervous every time I see a mermaid.",
         "pt-BR": "[Maggie]\nUfa…\nFico muito nervosa sempre que vejo uma sereia.",
         "es-ES": "[Magi]\nUf…\nCada vez que veo a una sirena, me pongo muy nerviosa."
     },
     "9LlfDA": {
-        "ko-KR": "마기 : 아직도 심장이 벌렁벌렁…",
         "en-US": "Maggie: My heart is still racing...",
         "pt-BR": "Maggie: Meu coração ainda tá batendo forte...",
         "es-ES": "Magi: Todavía me late el corazón a mil..."
     },
     "9blfDA": {
-        "ko-KR": "[마기]\n저희 고향에… 정말 무서운 인어의 전설이 있거든요.\n그 이야기를 처음 들었을 땐 <FONT SIZE = 16><B>너무</B></FONT> 무서워서…\n한동안 바닷가 근처에도 못 갔어요.",
         "en-US": "[Maggie]\nWhere I come from... there's a really scary mermaid legend.\nWhen I first heard that story, <FONT SIZE = 16><B>so</B></FONT> scary...\nI couldn't go near the beach for a while.",
         "pt-BR": "[Maggie]\nNa minha cidade natal… tem uma lenda de sereias que dá muito medo.\nQuando ouvi essa história pela primeira vez, <FONT SIZE = 16><B>tive tanto</B></FONT> medo que…\npor um bom tempo, nem consegui chegar perto da praia.",
         "es-ES": "[Magi]\nEn mi pueblo natal… hay una leyenda sobre una sirena que da mucho miedo.\nLa primera vez que escuché esa historia, <FONT SIZE = 16><B>me dio tanto</B></FONT> miedo que…\nno pude acercarme a la playa por un buen rato."
     },
     "9rlfDA": {
-        "ko-KR": "[마기]\n지금도 인어를 보면 너무 무서워서 몸이 굳어버리는 걸요…",
         "en-US": "[Maggie]\nEven now, seeing a mermaid scares me so much my body freezes up...",
         "pt-BR": "[Maggie]\nAté hoje, quando vejo uma sereia, fico com tanto medo que meu corpo fica paralisado…",
         "es-ES": "[Magi]\nIncluso veo una sirena, me da tanto miedo que se me queda el cuerpo paralizado…"
     },
     "97lfDA": {
-        "ko-KR": "[마기]\n흐으으…\n인어 이야기만 했는데도 소름이…",
         "en-US": "[Maggie]\nEek...\nJust talking about mermaids gives me goosebumps...",
         "pt-BR": "[Maggie]\nUuuu...\nSó de falar da sereia já fico com arrepios...",
         "es-ES": "[Magi]\nUf...\nSolo de hablar de la historia de la sirena ya se me ponen los pelos de punta..."
     },
     "+LlfDA": {
-        "ko-KR": "마기 : 흐으으으…",
         "en-US": "Maggie: Huuuu...",
         "pt-BR": "Maggie: Huuuuu…",
         "es-ES": "Magi: Uuuuh..."
     },
     "+blfDA": {
-        "ko-KR": "[마기]\n어…어서 다음 재료를 구하러 가요…",
         "en-US": "[Maggie]\nHuh... Let's hurry and get the next material...",
         "pt-BR": "[Maggie]\nE... vamos logo buscar o próximo material...",
         "es-ES": "[Magi]\nEh… Vamos rápido a buscar el siguiente ingrediente…"
     },
     "+rlfDA": {
-        "ko-KR": "[마기]\n마지막 재료는…\n^00B7EE빛나는 풀^000000에서 <B>이그드라실의 씨앗</B>을 얻으면 끝이에요!!!",
         "en-US": "[Maggie]\nThe last material is...\nGet the <B>Seed of Yggdrasil</B> from ^00B7EEShining Grass^000000 and we're done!!!",
         "pt-BR": "[Maggie]\nO último material é…\nA <B>Semente de Yggdrasil</B> de uma ^00B7EEPlanta Brilhante^000000, e pronto!!!",
         "es-ES": "[Magi]\nEl último ingrediente es…\n¡¡¡Si consigues la <B>semilla de Yggdrasil</B> en la ^00B7EEhierba brillante^000000, ya está todo listo!!!"
     },
     "+7lfDA": {
-        "ko-KR": "[마기]\n이야!\n재료를 다 모았어요!",
         "en-US": "[Maggie]\nWow!\nWe've collected all the materials!",
         "pt-BR": "[Maggie]\nUau!\nConseguimos juntar todos os ingredientes!",
         "es-ES": "[Magi]\n¡Guau!\n¡Ya reuní todos los ingredientes!"
     },
     "/LlfDA": {
-        "ko-KR": "마기 : 끝났다!!!",
         "en-US": "Maggie: It's done!!!",
         "pt-BR": "Maggie: Acabou!!!",
         "es-ES": "Magi: ¡Se acabó!!!"
     },
     "/blfDA": {
-        "ko-KR": "[마기]\n이제 윱님만 돌아오시면 되는데!",
         "en-US": "[Maggie]\nNow we just need Yoop to come back!",
         "pt-BR": "[Maggie]\nAgora só falta a Yoop voltar!",
         "es-ES": "[Magi]\n¡Ahora solo falta que vuelva Yup!"
     },
     "/rlfDA": {
-        "ko-KR": "[마기]\n<FONT SIZE = 14><B>앗!!!</B></FONT>\n나타나셨다!!",
         "en-US": "[Maggie]\n<FONT SIZE = 14><B>Oh my gosh!!!</B></FONT>\nShe's appeared!!",
         "pt-BR": "[Maggie]\n<FONT SIZE = 14><B>Ah!!!</B></FONT>\nEla apareceu!!",
         "es-ES": "[Magi]\n<FONT SIZE = 14><B>¡Ay!!!</B></FONT>\n¡Ya apareció!!"
     },
     "/7lfDA": {
-        "ko-KR": "[마기]\n윱님!!!!!\n어디 갔다가 이제 오신 거에요.",
         "en-US": "[Maggie]\nYoop!!!!!\nWhere'd you go?",
         "pt-BR": "[Maggie]\nYoop!!!!!\nOnde você estava?",
         "es-ES": "[Magi]\n¡Yup!!!!!\n¿Dónde te habías metido?"
     },
     "ALpfDA": {
-        "ko-KR": "마기 : 얼마나 기다렸다구요!",
         "en-US": "Maggie: How long have we been waiting!",
         "pt-BR": "Maggie: Cansamos de esperar!",
         "es-ES": "Magi: ¡Cuánto tiempo te he esperado!"
     },
     "AbpfDA": {
-        "ko-KR": "[윱]\n으으~~\n말도 마…",
         "en-US": "[Yoop]\nUgh~~\nDon't even mention it...",
         "pt-BR": "[Yoop]\nUgh~~\nNem me fale...",
         "es-ES": "[Yup]\nUf~~\nNi me lo digas…"
     },
     "ArpfDA": {
-        "ko-KR": "<B>왠 이상한 녀석때문에 엄청 고생했다니까…</B>",
         "en-US": "<B>I've been through hell because of some weirdo...</B>",
         "pt-BR": "<B>Passei por um inferno por causa de um cara esquisito...</B>",
         "es-ES": "<B>Te diré que me costó un montón de trabajo por culpa de un tipo raro…</B>"
     },
     "A7pfDA": {
-        "ko-KR": "[윱]\n그나저나 재료는 다 구했어?",
         "en-US": "[Yoop]\nBy the way, did you get all the materials?",
         "pt-BR": "[Yoop]\nA propósito, conseguiu todos os materiais?",
         "es-ES": "[Yup]\nPor cierto, ¿ya conseguiste todos los materiales?"
     },
     "BLpfDA": {
-        "ko-KR": "[마기]\n그럼요!\n아참 여기 {0}님도 같이 구해왔어요.",
         "en-US": "[Maggie]\nOf course!\nOh, and {0} here got them too.",
         "pt-BR": "[Maggie]\nClaro!\nAh, e trouxe o {0} junto também.",
         "es-ES": "[Magi]\n¡Claro que sí!\nAh, por cierto, también traje a {0} contigo."
     },
     "BbpfDA": {
-        "ko-KR": "[윱]\n어디 보자…\n살라만다의 심장이랑… 인어의 심장… 그리고 이그드라실의 씨앗!\n재료는 잘 준비해왔네.",
         "en-US": "[Yoop]\nLet's see...\nA Salamander's Heart, a Mermaid's Heart, and... an Yggdrasil Seed!\nYou've prepared the materials well.",
         "pt-BR": "[Yoop]\nDeixa eu ver...\nO coração da salamandra... o coração da sereia... e a semente de Yggdrasil!\nVocê juntou tudo direitinho.",
         "es-ES": "[Yup]\nA ver...\nEl corazón de la salamandra... el corazón de la sirena... ¡y la semilla de Yggdrasil!\nHas preparado bien los materiales."
     },
     "BrpfDA": {
-        "ko-KR": "[윱]\n좋아 이쪽으로 따라와",
         "en-US": "[Yoop]\nAlright, follow me this way.",
         "pt-BR": "[Yoop]\nÓtimo, venha comigo por aqui.",
         "es-ES": "[Yup]\nBueno, sígueme por aquí"
     },
     "B7pfDA": {
-        "ko-KR": "[마기]\n{0}님 우리도 어서 따라가 봐요!\n준비가 다 되면 말해주세요!",
         "en-US": "[Maggie]\n{0}, let's hurry and follow them!\nLet me know when you're ready!",
         "pt-BR": "[Maggie]\n{0}, vamos logo atrás delas!\nAvise-me quando estiver pronto!",
         "es-ES": "[Magi]\n¡{0}, sigámoslo rápido!\n¡Avísanos cuando estés listo!"
     },
     "CLpfDA": {
-        "ko-KR": "[마기]\n윱님의 마력이 사라지기 전에 따라가야해요!",
         "en-US": "[Maggie]\nWe have to follow before Yoop's magic fades!",
         "pt-BR": "[Maggie]\nTemos que ir antes que a magia da Yoop acabe!",
         "es-ES": "[Magi]\n¡Tenemos que ir antes de que se acabe la magia de Yup!"
     },
     "CbpfDA": {
-        "ko-KR": "워프포탈을 확인 한다.",
         "en-US": "Check the warp portal.",
         "pt-BR": "Verificar o portal de teleporte.",
         "es-ES": "Revisa el portal de teletransporte."
     },
     "CrpfDA": {
-        "ko-KR": "들어 간다.",
         "en-US": "Enter.",
         "pt-BR": "Entrar.",
         "es-ES": "Entras."
     },
     "C7pfDA": {
-        "ko-KR": "[마기]\n워프포탈에 뭔가 문제가 있는 것 같아요.\n다시 해봐요.",
         "en-US": "[Maggie]\nThere seems to be something wrong with the warp portal.\nPlease try again.",
         "pt-BR": "[Maggie]\nParece que tem algum problema com o portal de teleporte.\nTente novamente.",
         "es-ES": "[Magi]\nParece que hay algún problema con el portal de teletransporte.\nInténtalo de nuevo."
     },
     "DLpfDA": {
-        "ko-KR": "[마기]\n이쪽으로 들어가면 될 것 같아요. {0}님.",
         "en-US": "[Maggie]\nThis way should work, {0}.",
         "pt-BR": "[Maggie]\nAcho que podemos entrar por aqui, {0}.",
         "es-ES": "[Magi]\nCreo que si entramos por aquí, {0}."
     },
     "DbpfDA": {
-        "ko-KR": "[마기]\n{0}님 파티를 하는 게 좀 더 안전하지 않을까요?\n다시 해봐요.",
         "en-US": "[Maggie]\n{0}, wouldn't it be safer to join a party?\nPlease try again.",
         "pt-BR": "[Maggie]\nNão seria mais seguro formar um grupo?\nTente novamente.",
         "es-ES": "[Magi]\n¿No sería más seguro formar un grupo, {0}?\nInténtalo de nuevo."
     },
     "DrpfDA": {
-        "ko-KR": "{0} 님 {1}이 보여요!!!",
         "en-US": "{0} I can see {1}!!!",
         "pt-BR": "{0}, estou vendo o {1}!!!",
         "es-ES": "¡Veo a {0} y a {1}!!!"
     },
     "D7pfDA": {
-        "ko-KR": "[마기]\n앗…",
         "en-US": "[Maggie]\nOh...",
         "pt-BR": "[Maggie]\nAh...",
         "es-ES": "[Magi]\n¡Ay...!"
     },
     "ELpfDA": {
-        "ko-KR": "[마기]\n파티장이 아니면 {0}에 들어갈 수 없어요.",
         "en-US": "[Maggie]\nOnly party leaders can enter {0}.",
         "pt-BR": "[Maggie]\nSe não for o líder do grupo, não poderá entrar no {0}.",
         "es-ES": "[Magi]\nSi no eres el líder del grupo, no puedes entrar en {0}."
     },
     "EbpfDA": {
-        "ko-KR": "[마기]\n에그노로리아님이 {0}님을 찾고 계신 것 같아요!!!",
         "en-US": "[Maggie]\nIt seems Lady Egnoloria is looking for {0}!!!",
         "pt-BR": "[Maggie]\nParece que a Egnoloria está procurando por você, {0}!!!",
         "es-ES": "[Magi]\n¡¡¡Parece que Egno-loria está buscando a {0}!!!"
     },
     "ErpfDA": {
-        "ko-KR": "길드 마스터",
         "en-US": "Guild Master",
         "pt-BR": "Mestre da Guilda",
         "es-ES": "Maestro de gremio"
     },
     "E7pfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n^0000FF흐음… 스킬 포인트가 남아 있는 걸 보면 아직은 성장에 대한 욕망이 부족한 것 같구나.^000000",
         "en-US": "[Master Egnoloria]\nHmm... Seeing you still have skill points left means your desire to grow is lacking.",
         "pt-BR": "[Mestre Egnoloria]\n^0000FFHum… Pelo que vejo, você ainda possui pontos de habilidade sobrando, isso significa que você não quer melhorar?^000000",
         "es-ES": "[Maestra Egnoloria]\n^0000FFHmm… Por lo que ves que te quedan puntos de habilidad, parece que todavía te falta ganas de crecer.^000000"
     },
     "FLpfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n탈것에 올라탄 채로 내게 말을 거는 것이냐?",
         "en-US": "[Master Egnoloria]\nAre you talking to me while mounted on your beast?",
         "pt-BR": "[Mestre Egnoloria]\nVocê deseja falar comigo mas ainda está usando montaria?",
         "es-ES": "[Maestra Egnoloria]\n¿Me estás hablando mientras vas montado en tu montura?"
     },
     "FbpfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n짐이 너무 많구나.\n그런 복잡한 마음으론 마력이 흐트러져 버린다.",
         "en-US": "[Master Egnoloria]\nYou're carrying too much.\nWith such a complicated heart, your magic will scatter.",
         "pt-BR": "[Mestre Egnoloria]\nVocê carrega peso demais.\nCom um coração tão confuso, a tua magia acabará se dispersando.",
         "es-ES": "[Maestra Egnoloria]\nLlevas demasiada carga.\nCon una mente tan complicada, tu magia se desequilibra."
     },
     "FrpfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n겨우 눈꺼풀이 무거워지려던 참인데…\n너무 소란스러워서 깊은잠에 집중할 수가 없구나.",
         "en-US": "[Master Egnoloria]\nI was just about to drift off...\nBut all this commotion makes it impossible to focus on deep sleep.",
         "pt-BR": "[Mestre Egnoloria]\nEstava prestes a adormecer...\nMas com tanto barulho não consigo me concentrar no meu sono profundo.",
         "es-ES": "[Maestra Egnoloria]\nJusto cuando empezaban a pesarme los párpados…\nHay demasiado alboroto y no puedo concentrarme para dormir profundamente."
     },
     "F7pfDA": {
-        "ko-KR": "[윱]\n아앗!!! 마스터!!!!\n죄송합니다!!!",
         "en-US": "[Yoop!]\nAhh!!! Master!!!!\nI'm sorry!!!",
         "pt-BR": "[Yoop]\nAh!!! Mestre!!!!\nDesculpa!!!",
         "es-ES": "[Yup]\n¡Ay!!! ¡Maestra!!!!\n¡Lo siento mucho!!!"
     },
     "GLpfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n그런데 익숙한 인간들이 보이는구나.\n<FONT SIZE = 14><B>윱!</B></FONT>",
         "en-US": "[Master Egnoloria]\nBut I see some familiar humans.\n<FONT SIZE = 14><B>Yoop!</B></FONT>",
         "pt-BR": "[Mestra Egnoloria]\nVejo alguns rostos humanos conhecidos.\n<FONT SIZE = 14><B>Yoop!</B></FONT>",
         "es-ES": "[Maestra Egnoloria]\nPero veo a unos humanos que me resultan familiares.\n<FONT SIZE = 14><B>Yup!</B></FONT>"
     },
     "GbpfDA": {
-        "ko-KR": "마스터 에그노로리아 : 하루도 조용한 날이 없구나.",
         "en-US": "Master Eggnororia: Not a single day goes by quietly.",
         "pt-BR": "Mestra Egnoloria: Não há um único dia de paz.",
         "es-ES": "Maestra Egnoloria: No hay ni un solo día tranquilo."
     },
     "GrpfDA": {
-        "ko-KR": "[윱]\n<FONT SIZE = 10>아니 그게… 푹 주무시라고 준비를 좀…</FONT>",
         "en-US": "[Yoop]\n<FONT SIZE = 10>No, it's just... I was preparing for you to get some rest...</FONT>",
         "pt-BR": "[Yoop]\n<FONT SIZE = 10>Não, é que... fizemos alguns preparativos para você descansar bem...</FONT>",
         "es-ES": "[Yup]\n<FONT SIZE = 10>No, es que… preparé algo para que pudieras dormir profundamente…</FONT>"
     },
     "G7pfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n호오 그럼 그 <FONT SIZE = 14><B>준비</B></FONT>라는 것이 무엇이길래 내 잠을 깨운 것인지 좀 들어 볼까?",
         "en-US": "[Master Eggnororia]\nHoo. Well then, what exactly is this <FONT SIZE = 14><B>preparation</B></FONT> that woke me from my sleep? I'd like to hear about it.",
         "pt-BR": "[Mestre Egnoloria]\nOoh, é mesmo!? Então, fale-me mais sobre esses <FONT SIZE = 14><B>preparativos</B></FONT> que até conseguiram me despertar.",
         "es-ES": "[Maestra Egnoloria]\nOh, entonces, ¿qué es eso de los <FONT SIZE = 14><B>preparativos</B></FONT> que me han despertado? ¿Me lo cuentas?"
     },
     "HLpfDA": {
-        "ko-KR": "[윱]\n아니 <FONT SIZE = 10>그게… 정말 별일 아니고…</FONT> 그치? {0}?",
         "en-US": "[Yoop]\nNo, <FONT SIZE = 10>it's... really nothing...</FONT> right? {0}?",
         "pt-BR": "[Yoop]\nNão, <FONT SIZE = 10>é que... não é nada demais...</FONT> Não é mesmo, {0}?",
         "es-ES": "[Yup]\nNo, <FONT SIZE = 10>es que… en realidad no es nada importante…</FONT> ¿Verdad? {0}?"
     },
     "HbpfDA": {
-        "ko-KR": "윱 : 살려줘……",
         "en-US": "Yoop: Spare me...",
         "pt-BR": "Yoop: Me salva……",
         "es-ES": "Yup: ¡Sálvame...!"
     },
     "HrpfDA": {
-        "ko-KR": "지금까지 있었던 일을 설명한다.",
         "en-US": "Explains what has happened so far.",
         "pt-BR": "Explica o que aconteceu até agora.",
         "es-ES": "Explica lo que ha pasado hasta ahora."
     },
     "H7pfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n윱… <B>너의 가장 신비로운 능력은 이 나에게 두통이 생기게 하는 능력인 것 같구나.</B>",
         "en-US": "[Master Egnoloria]\nYoop... <B>Your most mysterious ability seems to be the one that gives me a headache.</B>",
         "pt-BR": "[Mestre Egno-loria]\nYoop… <B>Parece que a tua habilidade mais misteriosa é a de me causar dor de cabeça.</B>",
         "es-ES": "[Maestra Egnoloria]\nYup… <B>Parece que tu habilidad más misteriosa es la de darme dolor de cabeza a mí.</B>"
     },
     "ILpfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n그리고 ^00B7EE시련이라는 이름으로 네가 할 일을 떠넘긴 것^000000도 조금전 처럼 작은 벌로 끝나지 않을 것이야.",
         "en-US": "[Master Egnoloria]\nAnd the task I assigned you under the name of ^00B7EEtrial^000000 won't end with a minor punishment like just now.",
         "pt-BR": "[Mestre Egnoloria]\nE o fato de ter jogado a sua responsabilidade para mim, sob o pretexto de ^00B7EEprovação^000000, também não vai acabar com uma simples punição.",
         "es-ES": "[Maestra Egnoloria]\nY el hecho de que me hayas endosado una tarea con el nombre de ^00B7EEprueba^000000 tampoco va a terminar con un castigo tan leve como el de hace un momento."
     },
     "IbpfDA": {
-        "ko-KR": "[윱]\n잘못했어요…\n제발 그것만은!!!!",
         "en-US": "[Yoop]\nI'm sorry...\nPlease, just that!!!!",
         "pt-BR": "[Yoop]\nMe desculpa…\nPor favor, isso não!!!!",
         "es-ES": "[Yup]\nLo siento…\n¡¡¡Por favor, eso no!!!!"
     },
     "IrpfDA": {
-        "ko-KR": "윱 : 으악!! 역시 알고 계셨어……",
         "en-US": "Yoop: Ugh!! You knew all along...",
         "pt-BR": "Yoop: Aaargh!! Como eu imaginava, você sabia...",
         "es-ES": "Yup: ¡Ay! ¡Ya lo sabías…!"
     },
     "I7pfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n<FONT SIZE = 14><B>시끄럽다!</B></FONT>\n그럼 너희들은 너희들의 세상으로 다시 돌아가도록 하거라!",
         "en-US": "[Master Egnoloria]\n<FONT SIZE = 14><B>Enough noise!</B></FONT>\nThen you lot should return to your own world!",
         "pt-BR": "[Mestra Egnoloria]\n<FONT SIZE = 14><B>Silêncio!</B></FONT>\nTodos vocês! Voltem para o seu mundo!",
         "es-ES": "[Maestra Egnoloria]\n<FONT SIZE = 14><B>¡Silencio!</B></FONT>\n¡Pues volved a vuestro mundo!"
     },
     "JLpfDA": {
-        "ko-KR": "[마기]\n<B>에그노로리아님 잠깐만요!!!</B>",
         "en-US": "[Maggie]\n<B>Master Egnoloria, wait a moment!!!</B>",
         "pt-BR": "[Maggie]\n<B>Egnoloria, espere um momento!!!</B>",
         "es-ES": "[Magi]\n<B>¡Egnoloria, espera un momento!!!</B>"
     },
     "JbpfDA": {
-        "ko-KR": "[마기]\n<FONT SIZE = 10>저…그게…</FONT>\n<FONT SIZE = 10>윱님이</FONT> 시련을 통과하면 ^00B7EE아크메이지^000000가 될 수 있다고 했는데…\n아크메이지가 될 수 있다는 것도 거짓말 인가요?",
         "en-US": "[Maggie]\n<FONT SIZE = 10>Um... well...</FONT>\n<FONT SIZE = 10>You said that if I pass the trial, I could become an ^00B7EEArch Mage^000000...\nIs that a lie too?",
         "pt-BR": "[Maggie]\n<FONT SIZE = 10>É que… bem…</FONT>\n<FONT SIZE = 10>Você disse</FONT> que, se eu passasse pela provação, poderia me tornar um ^00B7EEMagus^000000…\nIsso também era mentira?",
         "es-ES": "[Magi]\n<FONT SIZE = 10>Yo… es que…</FONT>\n<FONT SIZE = 10>Dijiste que si Yup superaba la prueba, podría convertirse en ^00B7EEArcmago^000000…\n¿También es mentira eso de que puede convertirse en Arcmago?"
     },
     "JrpfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n흐음???\n아크메이지라…\n재미있는 말을 하는 인간이구나.",
         "en-US": "[Master Egnoloria]\nHmm???\nArch Mage, huh...\nYou're an interesting human being.",
         "pt-BR": "[Mestre Egnoloria]\nHum???\nMagus, hein…\nUm humano que diz coisas engraçadas.",
         "es-ES": "[Maestro Egnoloria]\n¿Hmm???\nArcmago, eh...\nEres un humano que dice cosas curiosas."
     },
     "J7pfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n아크메이지가 된다는 것은 너희들에게는 그다지 의미 없는 이야기다.",
         "en-US": "[Master Egnoloria]\nBecoming an Arch Mage is a rather meaningless tale for you lot.",
         "pt-BR": "[Mestre Egnoloria]\nTornar-se Magus não representa nada para vocês.",
         "es-ES": "[Maestro Egnoloria]\nConvertirse en un Archimago no tiene mucho sentido para ustedes."
     },
     "KLpfDA": {
-        "ko-KR": "[마기]\n설마… 전 아크메이지가<FONT SIZE = 10> 될 수 없나요?</FONT>",
         "en-US": "[Mage]\nSurely... I can't become an Arch Mage?",
         "pt-BR": "[Maggie]\nNão pode ser... Eu não posso me tornar um Magus?",
         "es-ES": "[Magi]\n¿No me digas...? ¿Yo no puedo <FONT SIZE = 10> convertirme en un Archimago?</FONT>"
     },
     "KbpfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n어리석은 질문이구나.\n너희들은 인간이자 요정이며, 마술사고 더 나아가 워록이자 아크메이지다.",
         "en-US": "[Master Egnoloria]\nWhat a foolish question.\nYou are human and elf, mage and beyond that, warlock and Archmage.",
         "pt-BR": "[Mestre Egnoloria]\nQue pergunta tola.\nVocês são humanos e fadas, Magos e, além disso, Arcanos e Magus.",
         "es-ES": "[Maestra Egnoloria]\nQué pregunta más tonta.\nSois humanos y elfos, magos y, más allá de eso, brujos y Archimagos."
     },
     "KrpfDA": {
-        "ko-KR": "<FONT SIZE = 14><B>이미 가진 존재가 되기위한 시련따윈 듣지 못했군.</B></FONT>",
         "en-US": "<FONT SIZE = 14><B>I've never heard of trials meant to become what you already are.</B></FONT>",
         "pt-BR": "<FONT SIZE = 14><B>Nunca ouvi falar de provações para se tornar algo que você já é.</B></FONT>",
         "es-ES": "<FONT SIZE = 14><B>Nunca he oído hablar de pruebas para convertirte en lo que ya eres.</B></FONT>"
     },
     "K7pfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n너의 성장이 멈췄다고 느껴지는 것은 단지 네가 그렇다고 믿기 때문일 뿐…",
         "en-US": "[Master Egnoloria]\nThe feeling that your growth has stopped is only because you believe it to be so...",
         "pt-BR": "[Mestre Egnoloria]\nA sensação de que o seu crescimento se estagnou vem apenas de você...",
         "es-ES": "[Maestro Egnoloria]\nQue sientas que tu crecimiento se ha detenido es solo porque tú crees que es así…"
     },
     "LLpfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n그 어떤 <B>이름</B>을 가졌다 하더라도 <B>[너]</B>라는 존재는 변하지 않는 것이다.\n하지만 그런 <FONT SIZE = 14><B>껍데기</B></FONT>에 연연하는 것이 인간의 재미있는 부분이기도 하지…",
         "en-US": "[Master Egnoloria]\nNo matter what <B>name</B> you bear, the essence of <B>[you]</B> remains unchanged.\nBut clinging to such a <FONT SIZE = 14><B>shell</B></FONT> is part of what makes humans so amusing...",
         "pt-BR": "[Mestre Egnoloria]\nPor mais que mude o seu <B>nome</B>, a essência do que <B>[você]</B> é não muda.\nMas ficar preso a essa <FONT SIZE = 14><B>casca</B></FONT> é realmente uma das coisas engraçadas dos humanos…",
         "es-ES": "[Maestra Egnoloria]\nPor mucho <B>nombre</B> que tengas, la esencia de <B>[tú]</B> no cambia.\nPero aferrarse a esa <FONT SIZE = 14><B>cáscara</B></FONT> es también parte de lo divertido de ser humano…"
     },
     "LbpfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n다시 <B>네 모습을 보거라.</B>\n<FONT SIZE = 14><B>너라는 존재가 무엇인지.</B></FONT>",
         "en-US": "[Master Egnoloria]\n<B>Look upon your form once more.</B>\n<FONT SIZE = 14><B>What it means to be you.</B></FONT>",
         "pt-BR": "[Mestre Egnoloria]\nOlhe novamente <B>para si mesmo.</B>\n<FONT SIZE = 14><B>Veja o sentido de sua existência.</B></FONT>",
         "es-ES": "[Maestra Egnoloria]\nVuelve a <B>mirar tu aspecto.</B>\n<FONT SIZE = 14><B>Lo que eres tú.</B></FONT>"
     },
     "LrpfDA": {
-        "ko-KR": "[마기]\n앗 어느틈에!!!",
         "en-US": "[Maggie]\nWhoa, when did that happen!!!",
         "pt-BR": "[Maggie]\nEita, quando foi isso!!!",
         "es-ES": "[Magi]\n¡Ay, ¿en qué momento?!"
     },
     "L7pfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n<FONT SIZE = 14><B>말하거라.</B></FONT>\n넌 어떻게 하고 싶으냐?",
         "en-US": "[Master Eggnororia]\n<FONT SIZE = 14><B>Speak.</B></FONT>\nWhat do you wish to do?",
         "pt-BR": "[Mestre Egnoloria]\n<FONT SIZE = 14><B>Diga-me.</B></FONT>\nO que é que tu desejas?",
         "es-ES": "[Maestra Egnoloria]\n<FONT SIZE = 14><B>Dime.</B></FONT>\n¿Qué quieres hacer?"
     },
     "MLpfDA": {
-        "ko-KR": "아크메이지가 되고 싶다.",
         "en-US": "I want to become an Archmage.",
         "pt-BR": "Quero me tornar um Magus.",
         "es-ES": "Quiero ser un Arcmago."
     },
     "MbpfDA": {
-        "ko-KR": "워록으로 있겠다.",
         "en-US": "I'll be a warlock.",
         "pt-BR": "Vou continuar como Arcano.",
         "es-ES": "Me quedaré como brujo."
     },
     "MrpfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n<FONT SIZE = 14><B>좋다.</B></FONT> <B>네가 아크메이지라고 불리기를 원한다면 내 기꺼이 너를 아크메이지라 부르겠다.</B>",
         "en-US": "[Master Egnoloria]\n<FONT SIZE = 14><B>Very well.</B></FONT> <B>If you wish to be called Archmage, I will gladly call you Archmage.</B>",
         "pt-BR": "[Mestre Egnoloria]\n<FONT SIZE = 14><B>Tudo bem.</B></FONT> <B>Se tu queres ser chamado de Magus, eu te chamarei de Magus de bom grado.</B>",
         "es-ES": "[Maestra Egnoloria]\n<FONT SIZE = 14><B>Está bien.</B></FONT> <B>Si quieres que te llamen Archimago, con mucho gusto te llamaré Archimago.</B>"
     },
     "M7pfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n네가 어떤 길을 걷게 될 것인지는 아직 보이지 않지만 그 길이 깊은잠처럼 달콤한 길이길…",
         "en-US": "[Master Egnoloria]\nThough I cannot yet see which path you will walk, may it be as sweet as deep sleep...",
         "pt-BR": "[Mestre Egnoloria]\nAinda não consigo ver qual caminho você seguirá, mas que esse caminho seja tão doce quanto um sono profundo…",
         "es-ES": "[Maestra Egnoloria]\nAún no veo qué camino vas a seguir, pero ojalá sea un camino tan dulce como un sueño profundo…"
     },
     "NLpfDA": {
-        "ko-KR": "[마기]\n해냈어요!! {0}님!!!!",
         "en-US": "[Mage]\nYou did it!! {0}!!!!",
         "pt-BR": "[Maggie]\nConsegui!! {0}!!!!",
         "es-ES": "[Mago]\n¡¡¡Lo logré!! ¡¡¡{0}!!!!"
     },
     "NbpfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n좋다. 네가 무엇으로 불릴지는 네 선택에 달렸지.",
         "en-US": "[Master Egnoloria]\nGood. What you're called is up to you.",
         "pt-BR": "[Mestre Egnoloria]\nÓtimo. Como você será chamado depende da sua escolha.",
         "es-ES": "[Maestra Egnoloria]\nBien. Cómo te llamen depende de ti."
     },
     "NrpfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n그래… 어떠냐?\n네가 워록이어도, 아크메이지가 되어도 세상은 달라지지 않는단다.",
         "en-US": "[Master Egnoloria]\nYeah... How about it?\nWhether you're a warlock or an archmage, the world won't change.",
         "pt-BR": "[Mestre Egnoloria]\nÉ isso... O que acha?\nSeja você um Arcano ou um Magus, o mundo permanecerá o mesmo.",
         "es-ES": "[Maestra Egnoloria]\nSí… ¿qué te parece?\nYa seas un brujo o te conviertas en un archimago, el mundo no cambiará."
     },
     "N7pfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n그저 너를 부르는 이름이 조금 바뀐 것일뿐 너라는 존재는 그대로인 것과 같지.",
         "en-US": "[Master Egnoloria]\nIt's just that the name used to address you has changed slightly. You yourself remain unchanged.",
         "pt-BR": "[Mestre Egnoloria]\nA única coisa que mudou foi o nome a você atribuído. A tua existência permanece a mesma.",
         "es-ES": "[Maestra Egnoloria]\nSolo cambiará un poco el nombre con el que te llamen; tu esencia seguirá siendo la misma."
     },
     "OLpfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n그런데, 또 처음보는 인간이 있는 것 같구나?",
         "en-US": "[Master Egnoloria]\nBut... it seems there's another human I haven't seen before?",
         "pt-BR": "[Mestre Egnoloria]\nMas, parece que tem mais um humano que eu nunca vi antes, não é?",
         "es-ES": "[Maestra Egnoloria]\nPor cierto, ¿parece que hay otro humano que no había visto antes?"
     },
     "ObpfDA": {
-        "ko-KR": "<FONT SIZE = 14><B>윱!</B></FONT>",
         "en-US": "<FONT SIZE = 14><B>Yup!</B></FONT>",
         "pt-BR": "<FONT SIZE = 14><B>Yoop!</B></FONT>",
         "es-ES": "<FONT SIZE = 14><B>¡Yup!</B></FONT>"
     },
     "OrpfDA": {
-        "ko-KR": "[셰즈]\n<FONT SIZE = 14><B>마스터!!!!</B></FONT>\n윱님이!!!!!!\n저 인간한테 소환당했다고 심술부렸어요!!!",
         "en-US": "[Shez]\n<FONT SIZE = 14><B>Master!!!!</B></FONT>\nYoop-nim!!!!!!\nHe sulked because he got summoned by that guy!!!",
         "pt-BR": "[Shez]\n<FONT SIZE = 14><B>Mestre!!!!</B></FONT>\nYoop!!!!!!\nEla ficou de mau humor porque foi invocada por aquele humano!!!",
         "es-ES": "[Shez]\n<FONT SIZE = 14><B>¡Maestra!!!!</B></FONT>\n¡Yup-nim!!!!!!\n¡¡¡Se puso de mal humor porque ese humano lo invocó!!!"
     },
     "O7pfDA": {
-        "ko-KR": "셰즈 : 혼내주세요!!!!!!!!",
         "en-US": "Shez: Please scold me!!!!!!!!",
         "pt-BR": "Shez: Dá uma bronca nela!!!!!!!!",
         "es-ES": "Shez: ¡Castígalo!!!!!!!!"
     },
     "PLpfDA": {
-        "ko-KR": "[윱]\n니가 먼저 놀렸잖아!!!!",
         "en-US": "[Yoop]\nYou started it!!!!",
         "pt-BR": "[Yoop]\nFoi você quem começou a me provocar!!!!",
         "es-ES": "[Yup]\n¡¡¡Tú te burlaste primero!!!!"
     },
     "PbpfDA": {
-        "ko-KR": "윱 : 마스터!!! 셰즈가 자꾸 놀려요!!!!",
         "en-US": "Yup : Master!!! Shez keeps teasing me!!!!",
         "pt-BR": "Yoop: Mestre!!! Shez fica me provocando!!!!",
         "es-ES": "Yup: ¡Maestro!!! ¡Shez no deja de burlarse de mí!!!!"
     },
     "PrpfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n하아…\n그런 시시한 일로 소란을 피운거냐…",
         "en-US": "[Master Egnoloria]\nSigh...\nSo you're making a fuss over something so trivial...",
         "pt-BR": "[Mestre Egnoloria]\nAh...\nEstão fazendo barulho por causa de uma bobagem dessas...",
         "es-ES": "[Maestra Egnoloria]\nAy…\n¿Estás armando un escándalo por algo tan insignificante?…"
     },
     "P7pfDA": {
-        "ko-KR": "마스터 에그노로리아 : 한 두살 먹은 어린애도 아니고……",
         "en-US": "Master Egnoloria: He's not a toddler anymore...",
         "pt-BR": "Mestre Egnoloria: Já não são mais crianças…",
         "es-ES": "Maestra Egnoloria: No son niños de uno o dos años…"
     },
     "QLpfDA": {
-        "ko-KR": "[셰즈]\n하지만!!!\n하지만!!!",
         "en-US": "[Shez]\nBut!!!\nBut!!!",
         "pt-BR": "[Shez]\nMas!!!\nMas!!!",
         "es-ES": "[Shez]\n¡Pero!!!\n¡Pero!!!"
     },
     "QbpfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n잠깐…\n<FONT SIZE = 14><B>소환</B></FONT>이라고?",
         "en-US": "[Master Egnoloria]\nWait...\n<FONT SIZE = 14><B>Summoning</B></FONT>?",
         "pt-BR": "[Mestre Egnoloria]\nEspere aí…\n<FONT SIZE = 14><B>Invocação</B></FONT>?",
         "es-ES": "[Maestra Egnoloria]\nUn momento…\n¿<FONT SIZE = 14><B>Invocación</B></FONT>?"
     },
     "QrpfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n우연이었다고는 하나, 이름도 받지 않은 애송이가 <B>나의 권속이자 강대한 바람 정령의 힘을 가진 윱을 소환하고 작은 힌트만으로 물의 셰즈와 땅의 이베인까지 소환했다.</B>",
         "en-US": "[Master Egnoloria]\nThough it was by chance, a mere novice who hasn't even received a name <B>summoned Yup, my vassal and the powerful wind elemental, and with just a small hint, summoned Shes of Water and Ivein of Earth as well.</B>",
         "pt-BR": "[Mestre Egnoloria]\nMesmo que tenha sido por acaso, um mero novato sem nome <B>invocou Yoop, meu servo e detentor do poder do poderoso espírito do vento? E com apenas uma pequena ajuda invocou até mesmo Shez, da Água, e Ivein, da Terra?</B>",
         "es-ES": "[Maestra Egnoloria]\nAunque haya sido una coincidencia, un novato sin nombre <B>invocó a Yup, mi subordinado y poseedor del poder de un poderoso espíritu del viento, y con solo una pequeña pista invocó hasta a Shez, del agua, y a Ivein, de la tierra.</B>"
     },
     "Q7pfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n또, 이 나의 흥미까지 끌다니 인간 주제에 실로 훌륭하구나.",
         "en-US": "[Master Egnoloria]\nMoreover, to capture even my interest—truly remarkable for a mere human.",
         "pt-BR": "[Mestre Egnoloria]\nAlém disso, conseguiu despertar o meu interesse... Para um humano, és realmente um ser notável.",
         "es-ES": "[Maestro Egnoloria]\nAdemás, has logrado despertar mi interés. Para ser un simple humano, eres realmente excelente."
     },
     "RLpfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n좋다.\n그럼 그에 걸맞는 <FONT SIZE = 14><B>이름</B></FONT>을 내려야겠지.",
         "en-US": "[Master Egnoloria]\nVery well.\nThen I shall bestow a <FONT SIZE = 14><B>name</B></FONT> befitting you.",
         "pt-BR": "[Mestre Egnoloria]\nTudo bem.\nEntão, vou ter que te dar um <FONT SIZE = 14><B>nome</B></FONT> à altura disso.",
         "es-ES": "[Maestra Egnoloria]\nEstá bien.\nEntonces tendré que otorgarte un <FONT SIZE = 14><B>nombre</B></FONT> a la altura."
     },
     "RbpfDA": {
-        "ko-KR": "받는다.",
         "en-US": "Accept.",
         "pt-BR": "Aceito.",
         "es-ES": "Lo acepto."
     },
     "RrpfDA": {
-        "ko-KR": "받지 않는다.",
         "en-US": "I do not accept.",
         "pt-BR": "Não aceito.",
         "es-ES": "No lo acepto."
     },
     "R7pfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n명하노라!\n지금부터, <B>마법을 다스리는 자이자 태초의 불꽃을 수호하는 불의 정령왕인 나 실라 에그노로리아의 이름으로 너를 엘레멘탈 마스터라 부르겠노라.</B>",
         "en-US": "[Master Eggnororia]\nI decree!\nFrom this moment on, <B>in the name of Sila Egnoloria, the Fire Spirit King who commands magic and guards the primordial flame, I shall call you an Elemental Master.</B>",
         "pt-BR": "[Mestre Egnoloria]\nEu ordeno!\nA partir de agora, <B>em meu nome, Sila Egnoloria, a governante da magia e rainha dos espíritos do fogo, que guarda a chama primordial, irei te chamar de Elementalista.</B>",
-        "es-ES": "[Maestra Egnoloria]\n¡Te lo ordeno!\nA partir de ahora, <B>en nombre de mí, Sila Egnoloria, la que gobierna la magia y es la reina de los espíritus del fuego que protege la llama primigenia, te llamaré Maestro Elemental.</B>"
+        "es-ES": "[Maestra Egnoloria]\n¡Te lo ordeno!\nA partir de ahora, <B>en nombre de mí, Sila Egnoloria, la que gobierna la magia y es la reina de los espíritus del fuego que protege la llama primigenia, te llamaré Elementalista.</B>"
     },
     "SLpfDA": {
-        "ko-KR": "셰즈 : 축하해요!!",
         "en-US": "Shez: Congratulations!!",
         "pt-BR": "Shez: Parabéns!!",
         "es-ES": "Shez: ¡Felicidades!!"
     },
     "SbpfDA": {
-        "ko-KR": "윱 : 뭐 결과가 좋으면 좋은거 아닐까!!!!",
         "en-US": "Yup: Well, if the results are good, isn't that what matters!!!!",
         "pt-BR": "Yoop: Ora, se o resultado é bom, é o que importa!!!!",
         "es-ES": "Yup: ¡¡¡Bueno, si el resultado es bueno, ¿no está bien?!!!!"
     },
     "SrpfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n새로운 이름이 너에게 새로운 바람을 불어 넣어주길",
         "en-US": "[Master Egnoloria]\nMay your new name bring you a fresh breeze.",
         "pt-BR": "[Mestra Egnoloria]\nQue o seu novo nome te traga um novo vigor.",
         "es-ES": "[Maestra Egnoloria]\nQue tu nuevo nombre te traiga un nuevo aire"
     },
     "S7pfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n그래… 어떠냐?\n네가 소서러여도, 엘레멘탈 마스터가 되어도 세상은 달라지지 않는단다.",
         "en-US": "[Master Egnoloria]\nYeah... what do you think?\nWhether you're a Sorcerer or an Elemental Master, the world won't change.",
         "pt-BR": "[Mestre Egnoloria]\nÉ... o que acha disso?\nSeja um Feiticeiro ou um Elementalista, o mundo permanecerá o mesmo.",
-        "es-ES": "[Maestra Egnoloria]\nSí… ¿qué te parece?\nYa seas hechicero o Maestra Elemental, el mundo no cambia."
+        "es-ES": "[Maestra Egnoloria]\nSí… ¿qué te parece?\nYa seas hechicero o Elementalista, el mundo no cambia."
     },
     "TLpfDA": {
-        "ko-KR": "[마스터 에그노로리아]\n여긴 아직 네가 있을 곳이 아닌 것 같구나.\n돌아가라.",
         "en-US": "[Master Egnoloria]\nThis place still isn't where you belong.\nGo back.",
         "pt-BR": "[Mestre Egnoloria]\nParece que este ainda não é o lugar para você.\nVolte para o seu mundo.",
         "es-ES": "[Maestra Egnoloria]\nParece que este aún no es tu lugar.\nRegresa."
     },
     "TbpfDA": {
-        "ko-KR": "[윱]\n여~\n아크메이지 복장이 꽤나 잘 어울리는 걸?",
         "en-US": "[Yoop]\nHey~\nThat Arch Mage outfit really suits you, huh?",
         "pt-BR": "[Yoop]\nEi~\nEssa roupa de Magus fica bem em você, não é?",
         "es-ES": "[Yup]\nOye~\n¿Te queda bastante bien el atuendo de Arcmago, no?"
     },
     "TrpfDA": {
-        "ko-KR": "윱 : 너도 이제 진정한 아크메이지인 거야!!",
         "en-US": "Yoop: You're a true Archmage now too!!",
         "pt-BR": "Yoop: Agora você também é um verdadeiro Magus!!",
         "es-ES": "Yup: ¡¡Ahora tú también eres un verdadero Archimago!!"
     },
     "T7pfDA": {
-        "ko-KR": "[윱]\n마법에 대해 궁금한게 있으면 언제든지 이 초☆강☆력 윱님에게 물어보라구!\n음핫핫!",
         "en-US": "[Yoop]\nIf you have any questions about magic, feel free to ask this super☆powerful Yoop-nim anytime!\nMwahahaha!",
         "pt-BR": "[Yoop]\nSe tiver alguma dúvida sobre magia, pode sempre perguntar para a super poderosa Yoop!\nHahaha!",
         "es-ES": "[Yup]\nSi tienes alguna duda sobre magia, ¡pregúntale cuando quieras a este súper☆poderoso Yup!\n¡Jajajaja!"
     },
     "ULpfDA": {
-        "ko-KR": "윱 : 후후후후핫핫핫핫핫!!",
         "en-US": "Yoop : Huhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuh",
         "pt-BR": "Yoop: Huahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahuahu",
         "es-ES": "Yup: ¡Jajajajajajaja!!"
     },
     "UbpfDA": {
-        "ko-KR": "[윱]\n여~\n엘레멘탈 마스터 복장이 꽤나 잘 어울리는 걸?",
         "en-US": "[Yoop]\nWell~\nThe Elemental Master outfit suits you quite well, doesn't it?",
         "pt-BR": "[Yoop]\nEi~\nEssa roupa de Elementalista ficou bem legal em você, né?",
-        "es-ES": "[Yup]\n¡Oye~\nEl atuendo de Maestro Elemental te queda bastante bien, ¿no?"
+        "es-ES": "[Yup]\n¡Oye~\nEl atuendo de Elementalista te queda bastante bien, ¿no?"
     },
     "UrpfDA": {
-        "ko-KR": "윱 : 너도 이제 진정한 엘레멘탈 마스터인 거야!!",
         "en-US": "Yoop: You're a true Elemental Master now!!",
         "pt-BR": "Yoop: Agora você também é um verdadeiro Elementalistal!!",
-        "es-ES": "Yup: ¡Ahora tú también eres un verdadero maestro elemental!!"
+        "es-ES": "Yup: ¡Ahora tú también eres un verdadero Elementalista!!"
     },
     "U7pfDA": {
-        "ko-KR": "[윱]\n정령에 대해 궁근한게 있으면 언제든지 이 초☆강☆력 윱님에게 물어보라구!\n음핫핫!",
         "en-US": "[Yoop]\nIf you have any questions about elementals, feel free to ask this super-ultra-powerful Yoop!\nMwahahaha!",
         "pt-BR": "[Yoop]\nSe tiver alguma dúvida sobre os espíritos, pode sempre perguntar para a super poderosa Yoop!\nHahaha!",
         "es-ES": "[Yup]\nSi tienes alguna duda sobre los espíritus, ¡pregúntale cuando quieras a este súper poderoso Yup!\n¡Jajaja!"
     },
     "VLpfDA": {
-        "ko-KR": "[윱]\n여긴 어쩐일이야?",
         "en-US": "[Yoop]\nWhat brings you here?",
         "pt-BR": "[Yoop]\nO que você tá fazendo aqui?",
         "es-ES": "[Yup]\n¿Qué haces por aquí?"
     },
     "VbpfDA": {
-        "ko-KR": "[마기]\n와아!\n{0}님!! 새로운 스킬 연습은 많이 하셨나요?",
         "en-US": "[Maggie]\nWow!\n{0}!! Have you been practicing your new skills a lot?",
         "pt-BR": "[Maggie]\nUau!\n{0}!! Você andou treinando bastante, né?",
         "es-ES": "[Magi]\n¡Guau!\n¡{0}!! ¿Ya has practicado mucho la nueva habilidad?"
     },
     "VrpfDA": {
-        "ko-KR": "[마기]\n전 연습 중에 잘 모르는 부분이 있어서 윱님에게 물어보고 있어요.\n사고뭉치지만 의외로 실력은 확실하시거든요!",
         "en-US": "[Maggie]\nI'm asking Yoop about a part I don't quite understand while practicing.\nHe's a troublemaker, but surprisingly, his skills are solid!",
         "pt-BR": "[Maggie]\nEu tive uma dúvida durante o treino e vim perguntar pra Yoop.\nVocê sempre causa problemas, mas, surpreendentemente, é muito bom nisso!",
         "es-ES": "[Magi]\nYo tengo una duda mientras practicaba, así que le estoy preguntando a Yup.\n¡Aunque es un poco torpe, su habilidad es sorprendentemente buena!"
     },
     "V7pfDA": {
-        "ko-KR": "윱 : 아니 의외로라니????",
         "en-US": "Yoop: What do you mean, surprisingly????",
         "pt-BR": "Yoop: Como assim, “surpreendentemente”????",
         "es-ES": "Yup: ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿"
     },
     "WLpfDA": {
-        "ko-KR": "윱 : 그전에 사고뭉치라닛?!?!?!?!",
         "en-US": "Yup: What do you mean, troublemaker?!?!?!?!",
         "pt-BR": "Yoop: E antes disso, “causar problemas”?!?!?!?!",
         "es-ES": "Yup: ¡¿Pero antes dijiste que soy un desastre?!?!?!?!"
     },
     "WbpfDA": {
-        "ko-KR": "[마기]\n와아!\n이런 곳에서 엘레멘탈 마스터인 분을 만나다니!",
         "en-US": "[Maggie]\nWow!\nTo meet an Elemental Master in a place like this!",
         "pt-BR": "[Maggie]\nUau!\nEncontrar um Elementalista num lugar como este!",
-        "es-ES": "[Magi]\n¡Guau!\n¡No me lo puedo creer, encontrarme con un maestro elemental en un lugar como este!"
+        "es-ES": "[Magi]\n¡Guau!\n¡No me lo puedo creer, encontrarme con un Elementalista en un lugar como este!"
     },
     "WrpfDA": {
-        "ko-KR": "[마기]\n앗 그러고보니 여긴 요정이나 정령분들이 잔뜩 계시죠!!",
         "en-US": "[Maggie]\nOh, come to think of it, there are tons of fairies and spirits here!!",
         "pt-BR": "[Maggie]\nAh, agora que penso nisso, tem um monte de fadas e espíritos por aqui!!",
         "es-ES": "[Magi]\n¡Ah, ahora que lo pienso, aquí hay un montón de hadas y espíritus!"
     },
     "W7pfDA": {
-        "ko-KR": "[마기]\n안녕하세요?",
         "en-US": "[Maggie]\nHello?",
         "pt-BR": "[Maggie]\nOlá?",
         "es-ES": "[Magi]\n¿Hola?"
     },
     "XLpfDA": {
-        "ko-KR": "[셰즈]\n아크메이지라니 멋지네요!\n워록으로 전직할 때가 새삼 떠오르네~",
         "en-US": "[Shez]\nAn Arch Mage? That's so cool!\nIt reminds me of when I changed jobs to become a Warlock...",
         "pt-BR": "[Shez]\nUm Magus, que legal!\nIsso me faz lembrar de quando me tornei um Arcano...",
         "es-ES": "[Shez]\n¡Un archimago! ¡Qué guay!\nMe hace recordar cuando me convertí en brujo~"
     },
     "XbpfDA": {
-        "ko-KR": "셰즈 : 이게 누구야!!! {0}님!!",
         "en-US": "Shez: Whoa, who's this!!! {0}!!",
         "pt-BR": "Shez: Quem é esse aí!!! {0}!!",
         "es-ES": "Shez: ¡¿Quién es este?! ¡{0}!"
     },
     "XrpfDA": {
-        "ko-KR": "[셰즈]\n그 때의 시험도 인간에겐 꽤나 무리라고 생각했는데 이젠 아크메이지라니!\n대단한 걸요?",
         "en-US": "[Shez]\nI thought that trial back then was quite a stretch for a human, and now you're an Archmage!\nThat's amazing, isn't it?",
         "pt-BR": "[Shez]\nNaquela época, achei que o teste fosse bem difícil para um humano, e agora você é um Magus!\nIsso é incrível, né?",
         "es-ES": "[Shez]\nYa en ese entonces pensé que el examen era bastante difícil para un humano, ¡y ahora eres un Archimago!\n¡Qué increíble!"
     },
     "X7pfDA": {
-        "ko-KR": "[셰즈]\n어서와요~\n정령 소환은 잘되어가고 있나요?",
         "en-US": "[Shez]\nWelcome!\nHow's your elemental summoning coming along?",
         "pt-BR": "[Shez]\nSeja bem-vindo!\nA invocação de espíritos está indo bem?",
         "es-ES": "[Shez]\nBienvenido~\n¿Te está yendo bien con la invocación de espíritus?"
     },
     "YLpfDA": {
-        "ko-KR": "[셰즈]\n정령소환은 마력보단 친화력이 중요하니까 정령들이랑 친하게 지내요~",
         "en-US": "[Shez]\nSummoning spirits requires affinity more than magic power, so get along well with the spirits.",
         "pt-BR": "[Shez]\nComo a afinidade é mais importante do que a magia na invocação de espíritos, tente se dar bem com eles.",
         "es-ES": "[Shez]\nPara invocar espíritus, la afinidad es más importante que la magia, así que hazte amigo de ellos~"
     },
     "YbpfDA": {
-        "ko-KR": "[셰즈]\n안녕하세요.\n여긴 마력의 샘 입니다.",
         "en-US": "[Shez]\nHello.\nThis is the Mana Spring.",
         "pt-BR": "[Shez]\nOlá.\nEsta é a Fonte de Magia.",
         "es-ES": "[Shez]\nHola.\nAquí está el manantial de magia."
     },
     "YrpfDA": {
-        "ko-KR": "이베인",
         "en-US": "Ivane",
         "pt-BR": "Ivein",
         "es-ES": "Ivein"
     },
     "Y7pfDA": {
-        "ko-KR": "[이베인]\n어머!\n{0}님!!\n아크메이지가 되신 걸 보게 되다니!!\n감격입니다!!!",
         "en-US": "[Ivein]\nOh my!\n{0}!!\nTo see you become an Archmage!!\nI'm so moved!!!",
         "pt-BR": "[Ivein]\nNossa!\n{0}!!\nQuem diria que eu veria você se tornar um Magus!!\nEstou emocionada!!!",
         "es-ES": "[Ivein]\n¡Ay!\n¡{0}!\n¡No me lo puedo creer, te has convertido en un Archimago!\n¡Estoy emocionada!"
     },
     "ZLpfDA": {
-        "ko-KR": "[이베인]\n아아…\n영혼도 더 아름답게 불타는게 보입니다.\n최고의 빛이에요.",
         "en-US": "[Ivein]\nAhh...\nI can see your soul burning even more beautifully.\nIt's the most radiant light.",
         "pt-BR": "[Ivein]\nAh...\nPosso ver que sua alma resplandecendo de beleza.\nÉ a luz mais linda que existe.",
         "es-ES": "[Ivein]\nAh...\nSe ve que tu alma arde con más belleza.\nEs la luz más hermosa."
     },
     "ZbpfDA": {
-        "ko-KR": "[이베인]\n어머!\n{0}님!!\n정령들과는 잘 지내고 계신가요?",
         "en-US": "[Ivein]\nOh my!\n{0}!!\nAre you getting along well with the elementals?",
         "pt-BR": "[Ivein]\nNossa!\n{0}!!\nVocê está se dando bem com os espíritos?",
         "es-ES": "[Ivein]\n¡Ay!\n¡{0}!\n¿Te llevas bien con los espíritus?"
     },
     "ZrpfDA": {
-        "ko-KR": "[이베인]\n아아…\n{0}님의 대답보다 먼저 정령들의 노랫소리가 들려오는 군요.\n후후훗.",
         "en-US": "[Ivein]\nAhh...\nThe spirits' singing reaches me before your reply, {0}.\nHeheh.",
         "pt-BR": "[Ivein]\nAh...\nAntes mesmo da sua resposta, já ouço o canto dos espíritos.\nHuhuhu.",
         "es-ES": "[Ivein]\nAy...\nAntes de que {0} respondas, ya escucho el canto de los espíritus.\nJejeje."
     },
     "Z7pfDA": {
-        "ko-KR": "[이베인]\n안녕하세요.\n여긴 마력의 샘 입니다.",
         "en-US": "[Evein]\nHello.\nThis is the Well of Magic.",
         "pt-BR": "[Ivein]\nOlá.\nAqui é a Fonte de Magia.",
         "es-ES": "[Ivein]\nHola.\nAquí está el manantial de magia."

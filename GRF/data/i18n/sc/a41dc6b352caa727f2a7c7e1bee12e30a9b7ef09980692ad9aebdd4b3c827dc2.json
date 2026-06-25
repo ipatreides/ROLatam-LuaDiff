@@ -2,37 +2,37 @@
     "YO21AQ": {
         "en-US": "Fruit Shop Owner",
         "pt-BR": "Vendedora de Frutas",
-        "es-ES": "Propietario de frutería"
+        "es-ES": "Propietario de Frutería"
     },
     "Ye21AQ": {
         "en-US": "Ingredient Supplier",
         "pt-BR": "Vendedor de Materiais",
-        "es-ES": "Proveedor de ingredientes"
+        "es-ES": "Proveedor de Ingredientes"
     },
     "Yu21AQ": {
         "en-US": "Sinister Merchant",
         "pt-BR": "Mercador Sombrio",
-        "es-ES": "Mercader siniestro"
+        "es-ES": "Mercader Siniestro"
     },
     "Y+21AQ": {
         "en-US": "Milk Merchant",
         "pt-BR": "Comerciante de Leite",
-        "es-ES": "Comerciante de leche"
+        "es-ES": "Comerciante de Leche"
     },
     "ZO21AQ": {
         "en-US": "Fruit Merchant",
         "pt-BR": "Feirante",
-        "es-ES": "Comerciante de frutas"
+        "es-ES": "Comerciante de Frutas"
     },
     "Ze21AQ": {
         "en-US": "Vegetable Merchant",
         "pt-BR": "Comerciante de Vegetais",
-        "es-ES": "Comerciante de verduras"
+        "es-ES": "Comerciante de Verduras"
     },
     "Zu21AQ": {
         "en-US": "Meat Merchant",
         "pt-BR": "Açougueiro",
-        "es-ES": "Comerciante de carnes"
+        "es-ES": "Comerciante de Carnes"
     },
     "Z+21AQ": {
         "en-US": "Flower Girl",
@@ -42,27 +42,27 @@
     "aO21AQ": {
         "en-US": "Flower Lady",
         "pt-BR": "Florista Mel",
-        "es-ES": "Dama de las flores"
+        "es-ES": "Dama de las Flores"
     },
     "ae21AQ": {
         "en-US": "Gift Merchant",
         "pt-BR": "Vendedora",
-        "es-ES": "Comerciante de regalos"
+        "es-ES": "Comerciante de Regalos"
     },
     "au21AQ": {
         "en-US": "Doll Merchant",
         "pt-BR": "Comerciante de Bonecas",
-        "es-ES": "Comerciante de muñecas"
+        "es-ES": "Comerciante de Muñecas"
     },
     "a+21AQ": {
         "en-US": "Taming Merchant",
         "pt-BR": "Adestradora",
-        "es-ES": "Comerciante de domesticación"
+        "es-ES": "Comerciante de Domesticación"
     },
     "bO21AQ": {
         "en-US": "Tool Merchant",
         "pt-BR": "Comerciante de Ferramentas",
-        "es-ES": "Comerciante de herramientas"
+        "es-ES": "Comerciante de Herramientas"
     },
     "be21AQ": {
         "en-US": "Nun",
@@ -72,22 +72,22 @@
     "bu21AQ": {
         "en-US": "Weapon Merchant",
         "pt-BR": "Comerciante de Armas",
-        "es-ES": "Comerciante de armas"
+        "es-ES": "Comerciante de Armas"
     },
     "b+21AQ": {
         "en-US": "Armor Merchant",
         "pt-BR": "Comerciante de Armaduras",
-        "es-ES": "Comerciante de armaduras"
+        "es-ES": "Comerciante de Armaduras"
     },
     "cO21AQ": {
         "en-US": "Collectible Merchant",
         "pt-BR": "Vendedor de Itens",
-        "es-ES": "Comerciante de coleccionables"
+        "es-ES": "Comerciante de Coleccionables"
     },
     "ce21AQ": {
         "en-US": "Jewel Merchant",
         "pt-BR": "Joalheira",
-        "es-ES": "Comerciante de joyas"
+        "es-ES": "Comerciante de Joyas"
     },
     "cu21AQ": {
         "en-US": "Merchant",
@@ -97,12 +97,12 @@
     "c+21AQ": {
         "en-US": "Magic Merchant",
         "pt-BR": "Comerciante de Magia",
-        "es-ES": "Comerciante de magia"
+        "es-ES": "Comerciante de Magia"
     },
     "dO21AQ": {
         "en-US": "Souvenir Merchant",
         "pt-BR": "Vendedora de Conchas",
-        "es-ES": "Comerciante de souvenirs"
+        "es-ES": "Comerciante de Souvenirs"
     },
     "de21AQ": {
         "en-US": "Outlet",
@@ -112,22 +112,22 @@
     "du21AQ": {
         "en-US": "Axe Merchant",
         "pt-BR": "Comerciante de Machados",
-        "es-ES": "Comerciante de hachas"
+        "es-ES": "Comerciante de Hachas"
     },
     "d+21AQ": {
         "en-US": "One-handed Weapon Merchant",
         "pt-BR": "Armeira Veterana",
-        "es-ES": "Comerciante de armas a una mano"
+        "es-ES": "Comerciante de Armas a Una Mano"
     },
     "eO21AQ": {
         "en-US": "Two-handed Weapon Merchant",
         "pt-BR": "Armeira Experiente",
-        "es-ES": "Comerciante de armas a dos manos"
+        "es-ES": "Comerciante de Armas a Dos Manos"
     },
     "ee21AQ": {
         "en-US": "Mask Merchant",
         "pt-BR": "Comerciante de Máscaras",
-        "es-ES": "Comerciante de mascarillas"
+        "es-ES": "Comerciante de Mascarillas"
     },
     "eu21AQ": {
         "en-US": "Solicitor",
@@ -142,7 +142,7 @@
     "fO21AQ": {
         "en-US": "Novice Supply Merchant",
         "pt-BR": "Mercadora Aprendiz",
-        "es-ES": "Comerciante de suministros novato"
+        "es-ES": "Comerciante de Suministros Novato"
     },
     "fe21AQ": {
         "en-US": "Toy Merchant",
@@ -152,42 +152,42 @@
     "fu21AQ": {
         "en-US": "Cooking Merchant",
         "pt-BR": "Auxiliar de Cozinha",
-        "es-ES": "Comerciante culinario"
+        "es-ES": "Comerciante Culinario"
     },
     "f+21AQ": {
         "en-US": "Festival Supply Merchant",
         "pt-BR": "Vendedor de Fogos",
-        "es-ES": "Comerciante de suministros para festivales"
+        "es-ES": "Comerciante de Suministros para Festivales"
     },
     "gO21AQ": {
         "en-US": "[Festival Supply Merchant]\nWelcome!\nHow about some beautiful fireworks for tonight's entertainment?",
         "pt-BR": "[Vendedor de Fogos]\nBoas vindas!\nPor que você não dá uma olhada nesses fogos de artifício?",
-        "es-ES": "[Comerc. de festivales]\n¡Te damos la bienvenida!\n¿Qué te parecen unos bonitos fuegos artificiales para entretenernos esta noche?"
+        "es-ES": "[Comerc. de Festivales]\n¡Te damos la bienvenida!\n¿Qué te parecen unos bonitos fuegos artificiales para entretenernos esta noche?"
     },
     "ge21AQ": {
         "en-US": "Bridal Goods Merchant",
         "pt-BR": "Lojista Matrimonial",
-        "es-ES": "Comerciante de artículos nupciales"
+        "es-ES": "Comerciante de Artículos Nupciales"
     },
     "gu21AQ": {
         "en-US": "Trap Merchant",
         "pt-BR": "Vendedora de Armadilhas",
-        "es-ES": "Comerciante de trampas"
+        "es-ES": "Comerciante de Trampas"
     },
     "g+21AQ": {
         "en-US": "Black Market Dealer",
         "pt-BR": "Mercador de Peças",
-        "es-ES": "Comerciante del mercado negro"
+        "es-ES": "Comerciante del Mercado Negro"
     },
     "hO21AQ": {
         "en-US": "Tropical Fruit Merchant",
         "pt-BR": "Vendedora de Frutas Tropicais",
-        "es-ES": "Comerciante de frutas tropicales"
+        "es-ES": "Comerciante de Frutas Tropicales"
     },
     "he21AQ": {
         "en-US": "Part-timer",
         "pt-BR": "Negociante de Tintas",
-        "es-ES": "Trabajador a tiempo parcial"
+        "es-ES": "Trabajador a Tiempo Parcial"
     },
     "hu21AQ": {
         "en-US": "Haribe",
@@ -197,7 +197,7 @@
     "h+21AQ": {
         "en-US": "Guild Seller",
         "pt-BR": "Fornecedor da Guilda",
-        "es-ES": "Vendedora del gremio"
+        "es-ES": "Vendedora del Gremio"
     },
     "iO21AQ": {
         "en-US": "[Gever Al Sharp]\nI sell alchemy supplies.\nHow may I help you today?",
@@ -207,17 +207,17 @@
     "ie21AQ": {
         "en-US": "Buy Creation Guide.",
         "pt-BR": "Comprar Manuais de Criação",
-        "es-ES": "Comprar Guía de creación."
+        "es-ES": "Comprar Guía de Creación."
     },
     "iu21AQ": {
         "en-US": "Buy reagent materials.",
         "pt-BR": "Comprar Ingredientes",
-        "es-ES": "Comprar materiales reactivos."
+        "es-ES": "Comprar Materiales Reactivos."
     },
     "i+21AQ": {
         "en-US": "Sell items.",
         "pt-BR": "Vender meus itens",
-        "es-ES": "Vender objetos."
+        "es-ES": "Vender Objetos."
     },
     "jO21AQ": {
         "en-US": "[Gever Al Sharp]\nTake your time to look around and let me know what you want.",
@@ -237,7 +237,7 @@
     "j+21AQ": {
         "en-US": "Peddler",
         "pt-BR": "Ambulante",
-        "es-ES": "Vendedor ambulante"
+        "es-ES": "Vendedor Ambulante"
     },
     "kO21AQ": {
         "en-US": "Chef La",

@@ -2951,6 +2951,303 @@ Atributo que aumenta Heal Plus (H.PLUS) e Critical Rate (C.RATE)
 		Page = {
 			"Os itens obtidos podem ser armazenados no inventário. Você pode verificar o inventário pressionando ALT+E.\n\t\t\t\tVocê pode carregar até 100 itens dentro do limite de Weight (peso).\n\t\t\t\t<TIPBOX>>Itens<INFO>17</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>>Personagem: Weight (peso)<INFO>13</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>>Inventário: Expansão<INFO>65</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>>Inventário: Mover Aba Pessoal<INFO>195</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
+	},
+	[4216] = {
+		Title = "Episódio 18#ep",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Segundo as informações analisadas em Mansão Varmundt, parece que uma parte de Ilusión estava conduzindo algo em Rachel. É preciso um aventureiro para investigar por que eles estão mirando Rachel.\n                \n                <TIPBOX>»EP 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n                \n                <TIPBOX>»Ep18 Série Lobo Cinzento<INFO>4218</INFO></TIPBOX>\n                <TIPBOX>»Ep18 Série Adulter<INFO>4219</INFO></TIPBOX>\n                <TIPBOX>»Ep18 Série Vivatus<INFO>4220</INFO></TIPBOX>\n                \n                <TIPBOX>»Ver episódios<INFO>4101</INFO></TIPBOX>\n                <TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4217] = {
+		Title = "Episode 18 A direção da oração#Quest Episódio",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Por meio das informações analisadas até agora, o administrador de dirigível Eli descobre que Ilusión também está atuando em Rachel. Em lugar da Rebellion, que ainda precisa concluir os assuntos com Mansão Varmundt e a República, o aventureiro segue para Rachel, mas o que encontra ali é desconfiança e incitação.\n\t\t\n\t\t<TIPBOX>»EP. 17.2 Legado do Sábio<INFO>7068</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t\n\t\t»Missão inicial\n\t\t<TIPBOX>Q Para a Santa Sé <INFO>4221</INFO></TIPBOX>\n\t\t\n\t\t»Missões principais\n\t\t<TIPBOX>Q Pedido de Niren<INFO>4222</INFO></TIPBOX>\n\t\t<TIPBOX>Q Filhos Cinzentos<INFO>4223</INFO></TIPBOX>\n\t\t<TIPBOX>Q Qualificação para Participar da Assembleia<INFO>4224</INFO></TIPBOX>\n\t\t<TIPBOX>Q Assembleia da Floresta do Lobo Cinzento<INFO>4225</INFO></TIPBOX>\n\t\t<TIPBOX>Q Origem da Arma<INFO>4226</INFO></TIPBOX>\n\t\t<TIPBOX>Q Rebeldes<INFO>4227</INFO></TIPBOX>\n\t\t<TIPBOX>Q Lobo em Pele de Cordeiro<INFO>4228</INFO></TIPBOX>\n\t\t<TIPBOX>Q Quando É Preciso Conversar<INFO>4229</INFO></TIPBOX>\n\t\t<TIPBOX>Q Investigação da Vila do Sumo Sacerdote<INFO>4230</INFO></TIPBOX>\n\t\t\n\t\t»Missões secundárias\n\t\t<TIPBOX>Q Administrador da Vila do Lobo Cinzento<INFO>4232</INFO></TIPBOX>\n\t\t<TIPBOX>Q Não Consigo Dormir<INFO>4233</INFO></TIPBOX>\n\t\t<TIPBOX>Q Por Favor, Reúna Histórias<INFO>4234</INFO></TIPBOX>\n\t\t<TIPBOX>Q Aqui Não É Aquele Lugar<INFO>4235</INFO></TIPBOX>\n\t\t<TIPBOX>Q Pão de Cada Dia<INFO>4236</INFO></TIPBOX>\n\t\t<TIPBOX>Q Relíquia de Purificação<INFO>4237</INFO></TIPBOX>\n\t\t<TIPBOX>Q Migração Tardia<INFO>4238</INFO></TIPBOX>\n\t\t<TIPBOX>Q Onde Fica Minha Casa<INFO>4239</INFO></TIPBOX>\n\t\t<TIPBOX>Q Não Existem Feras Más no Mundo<INFO>4240</INFO></TIPBOX>\n\t\t<TIPBOX>Q Labirinto de Oz e o Mercador Ambulante<INFO>4241</INFO></TIPBOX>\n\t\t<TIPBOX>Q Observando a Situação<INFO>4242</INFO></TIPBOX>\n\t\t<TIPBOX>Q Até as Crianças Sabem<INFO>4243</INFO></TIPBOX>\n\t\t<TIPBOX>Q Recompensa pelo Trabalho<INFO>4244</INFO></TIPBOX>\n\t\t<TIPBOX>Q Flor da Floresta do Lobo Cinzento<INFO>4245</INFO></TIPBOX>\n\t\t<TIPBOX>Q Tarefas da Flower Room<INFO>4246</INFO></TIPBOX>\n\t\t<TIPBOX>Q Tornar a Floresta do Lobo Cinzento Mais Segura<INFO>4247</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>»Ep18 Série Lobo Cinzento<INFO>4218</INFO></TIPBOX>\n\t\t<TIPBOX>»Ep18 Série Adulter<INFO>4219</INFO></TIPBOX>\n\t\t<TIPBOX>»Ep18 Série Vivatus<INFO>4220</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>»Episódio 18<INFO>4216</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver episódios<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4218] = {
+		Title = "Ep18 Série Lobo Cinzento#자수정조각",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Ao avançar no episódio, você poderá trocar os <ITEM>[Fragmentos de Ametista]<INFO>1000405</INFO></ITEM> obtidos por diversos equipamentos úteis em Aldeia do Lobo Cinzento.\n\t\t\n\t\t^663399§Local de troca^000000\n\t\t»<NAVI>[Emet]<INFO>wolfvill,164,137,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399§Série Lobo Cinzento^000000\n\t\t<ITEM>[Traje Lobo Cinzento]<INFO>450177</INFO></ITEM>\n\t\t<ITEM>[Manto Lobo Cinzento]<INFO>450178</INFO></ITEM>\n\t\t<ITEM>[Capa Lobo Cinzento]<INFO>480091</INFO></ITEM>\n\t\t<ITEM>[Cachecol Lobo Cinzento]<INFO>480090</INFO></ITEM>\n\t\t<ITEM>[Botas Lobo Cinzento]<INFO>470087</INFO></ITEM>\n\t\t<ITEM>[Sapatos Lobo Cinzento]<INFO>470088</INFO></ITEM>\n\t\t<ITEM>[Pingente Lobo Cinzento]<INFO>490106</INFO></ITEM>\n\t\t<ITEM>[Anel Lobo Cinzento]<INFO>490107</INFO></ITEM>\n\t\t<ITEM>[Brinco Lobo Cinzento]<INFO>490108</INFO></ITEM>\n\t\t<ITEM>[Colar Lobo Cinzento]<INFO>490109</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>»Ep18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Recompensas do episódio<INFO>4107</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4219] = {
+		Title = "Ep18 Série Adulter Fides#Aposento Clericalep18armas",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Estas são as armas que podem ser obtidas no MD Aposento Clerical, disponível após concluir o episódio.\n                \n                ^663399§Série Adulter Fides^000000\n                Podem ser obtidas no MD Vila da Enganação, dificuldade normal.\n                <ITEM>[Espada de Duas Mãos]<INFO>600017</INFO></ITEM>\n                <ITEM>[Lança]<INFO>630012</INFO></ITEM>\n                <ITEM>[Espada Guardiã]<INFO>500025</INFO></ITEM>\n                <ITEM>[Lança Guardiã]<INFO>530013</INFO></ITEM>\n                <ITEM>[Machado]<INFO>520008</INFO></ITEM>\n                <ITEM>[Maça]<INFO>590021</INFO></ITEM>\n                <ITEM>[Florete]<INFO>500026</INFO></ITEM>\n                <ITEM>[Cajado]<INFO>590022</INFO></ITEM>\n                <ITEM>[Chakram]<INFO>610020</INFO></ITEM>\n                <ITEM>[Katar]<INFO>610021</INFO></ITEM>\n                <ITEM>[Adaga]<INFO>510032</INFO></ITEM>\n                <ITEM>[Besta]<INFO>700030</INFO></ITEM>\n                <ITEM>[Cajado de Duas Mãos]<INFO>640019</INFO></ITEM>\n                <ITEM>[Cajado]<INFO>640020</INFO></ITEM>\n                <ITEM>[Livro Mágico]<INFO>540019</INFO></ITEM>\n                <ITEM>[Livro de Veneno]<INFO>540020</INFO></ITEM>\n                <ITEM>[Bíblia]<INFO>540021</INFO></ITEM>\n                <ITEM>[Varinha]<INFO>550024</INFO></ITEM>\n                <ITEM>[Soqueira]<INFO>560018</INFO></ITEM>\n                <ITEM>[Garra]<INFO>560019</INFO></ITEM>\n                <ITEM>[Balista]<INFO>700031</INFO></ITEM>\n                <ITEM>[Arco de Mira]<INFO>700032</INFO></ITEM>\n                <ITEM>[Violino]<INFO>570017</INFO></ITEM>\n                <ITEM>[Chicote]<INFO>580017</INFO></ITEM>\n                <ITEM>[Harpa]<INFO>570018</INFO></ITEM>\n                <ITEM>[Laço]<INFO>580018</INFO></ITEM>\n                <ITEM>[Shuriken de Vento]<INFO>650008</INFO></ITEM>\n                <ITEM>[Shuriken de Vento Cruzado]<INFO>650009</INFO></ITEM>\n                <ITEM>[Revólver]<INFO>800003</INFO></ITEM>\n                <ITEM>[Espingarda]<INFO>820002</INFO></ITEM>\n                <ITEM>[Rifle]<INFO>810002</INFO></ITEM>\n                <ITEM>[Metralhadora Gatling]<INFO>830003</INFO></ITEM>\n                <ITEM>[Lançador]<INFO>840002</INFO></ITEM>\n                <ITEM>[Livro da Lua]<INFO>540022</INFO></ITEM>\n                <ITEM>[Livro do Pó Estelar]<INFO>540023</INFO></ITEM>\n                <ITEM>[Bastão Espiritual]<INFO>550025</INFO></ITEM>\n                <ITEM>[Varinha Sombria]<INFO>550026</INFO></ITEM>\n                <ITEM>[Varinha Fox Tail]<INFO>550027</INFO></ITEM>\n                <ITEM>[Modelo Fox Tail]<INFO>550028</INFO></ITEM>\n                \n                <TIPBOX>»Ep18 A direção da oração<INFO>4217</INFO></TIPBOX>\n                <TIPBOX>»Recompensas do episódio<INFO>4107</INFO></TIPBOX>\n                <TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4220] = {
+		Title = "Ep18 Série Vivatus Fides#Aposento Clericalep18armas",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Estas são as armas que podem ser obtidas no MD Aposento Clerical, disponível após concluir o episódio. Elas podem ser obtidas no MD Vila da Enganação, dificuldade avançada, ou produzidas ao purificar armas Adulter Fides. Para o ritual de purificação, é necessária uma arma Adulter Fides refinada em +9.\n\t\t\n\t\t^663399§Local do ritual de purificação^000000\n\t\t»<NAVI>[Noite Dardo]<INFO>wolfvill,170,131,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399§Série Vivatus Fides^000000\n\t\t<ITEM>[Espada de Duas Mãos]<INFO>600018</INFO></ITEM>\n\t\t<ITEM>[Lança]<INFO>630013</INFO></ITEM>\n\t\t<ITEM>[Espada Guardiã]<INFO>500027</INFO></ITEM>\n\t\t<ITEM>[Lança Guardiã]<INFO>530014</INFO></ITEM>\n\t\t<ITEM>[Machado]<INFO>520009</INFO></ITEM>\n\t\t<ITEM>[Maça]<INFO>590023</INFO></ITEM>\n\t\t<ITEM>[Florete]<INFO>500028</INFO></ITEM>\n\t\t<ITEM>[Cajado]<INFO>590024</INFO></ITEM>\n\t\t<ITEM>[Chakram]<INFO>610022</INFO></ITEM>\n\t\t<ITEM>[Katar]<INFO>610023</INFO></ITEM>\n\t\t<ITEM>[Adaga]<INFO>510033</INFO></ITEM>\n\t\t<ITEM>[Besta]<INFO>700033</INFO></ITEM>\n\t\t<ITEM>[Cajado de Duas Mãos]<INFO>640021</INFO></ITEM>\n\t\t<ITEM>[Cajado]<INFO>640022</INFO></ITEM>\n\t\t<ITEM>[Livro Mágico]<INFO>540024</INFO></ITEM>\n\t\t<ITEM>[Livro de Veneno]<INFO>540025</INFO></ITEM>\n\t\t<ITEM>[Bíblia]<INFO>540026</INFO></ITEM>\n\t\t<ITEM>[Varinha]<INFO>550029</INFO></ITEM>\n\t\t<ITEM>[Soqueira]<INFO>560020</INFO></ITEM>\n\t\t<ITEM>[Garra]<INFO>560021</INFO></ITEM>\n\t\t<ITEM>[Balista]<INFO>700034</INFO></ITEM>\n\t\t<ITEM>[Arco de Mira]<INFO>700035</INFO></ITEM>\n\t\t<ITEM>[Violino]<INFO>570019</INFO></ITEM>\n\t\t<ITEM>[Chicote]<INFO>580019</INFO></ITEM>\n\t\t<ITEM>[Harpa]<INFO>570020</INFO></ITEM>\n\t\t<ITEM>[Laço]<INFO>580020</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>»Ep18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Recompensas do episódio<INFO>4107</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4221] = {
+		Title = "Q Para a Santa Sé(170)#Quest Episódio18Início",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"As bonecas automáticas de Mansão Varmundt, que diziam que o tempo estava do nosso lado, realmente encontraram uma pista.\n\t\tAfinal, onde estarão agora e o que estarão fazendo aqueles que fugiram?\n\t\t\n\t\t<TIPBOX>»EP. 17.2 Legado do Sábio<INFO>7068</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t\n\t\t<NAVI>[Eli inteligente]<INFO>ba_in01,26,266,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4222] = {
+		Title = "Q Pedido de Niren (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Niren, que obteve informações sobre aqueles que invadiram o templo, parece ter um pedido para o aventureiro enquanto se concentra na segurança do templo.\n                <TIPBOX>»Para a Santa Sé<INFO>4221</INFO></TIPBOX> concluído\n                ^663399§Nível 170 ou superior^000000\n                \n                <NAVI>[Guarda Civil Dent]<INFO>ra_temin,173,40,0,101,0</INFO></NAVI>\n                \n                <TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n                <TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4223] = {
+		Title = "Q Filhos Cinzentos (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Maram, filho de Niren, parece ter algo urgente a resolver.\n\t\tHaverá algo em que o aventureiro possa ajudar?\n\t\t<TIPBOX>»Pedido de Niren<INFO>4222</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t\n\t\t<NAVI>[Maram]<INFO>rachel,70,147,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4224] = {
+		Title = "Q Qualificação para Participar da Assembleia (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Para participar da assembleia em Aldeia do Lobo Cinzento, é preciso ser aceito como membro da vila. Se continuar fazendo o que pode dentro da vila, em algum momento receberá a qualificação para participar da assembleia.\n\t\t»Concluir 10 missões comuns de Aldeia do Lobo Cinzento\n\t\t<TIPBOX>»Administrador da Vila do Lobo Cinzento<INFO>4232</INFO></TIPBOX>\n\t\t<TIPBOX>»Não Consigo Dormir<INFO>4233</INFO></TIPBOX>\n\t\t<TIPBOX>»Por Favor, Reúna Histórias<INFO>4234</INFO></TIPBOX>\n\t\t<TIPBOX>»Aqui Não É Aquele Lugar<INFO>4235</INFO></TIPBOX>\n\t\t<TIPBOX>»Pão de Cada Dia<INFO>4236</INFO></TIPBOX>\n\t\t<TIPBOX>»Relíquia de Purificação<INFO>4237</INFO></TIPBOX>\n\t\t<TIPBOX>»Migração Tardia<INFO>4238</INFO></TIPBOX>\n\t\t<TIPBOX>»Onde Fica Minha Casa<INFO>4239</INFO></TIPBOX>\n\t\t<TIPBOX>»Não Existem Feras Más no Mundo<INFO>4240</INFO></TIPBOX>\n\t\t<TIPBOX>»Labirinto de Oz e o Mercador Ambulante<INFO>4241</INFO></TIPBOX>\n\t\t^663399§Nível 170 ou superior^000000\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4225] = {
+		Title = "Q Assembleia da Floresta do Lobo Cinzento (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"O aventureiro, que construiu laços com as pessoas da Floresta do Lobo Cinzento e foi aceito como membro da vila, é reconhecido por seus esforços e chega até a participar da assembleia que decidirá o futuro da Floresta do Lobo Cinzento.\n\t\tA assembleia finalmente começou, mas qual será o resultado da reunião?\n\t\t»Prosseguir com a missão Qualificação para Participar da Assembleia\n\t\t^663399§Nível 170 ou superior^000000\n\t\t\n\t\t<NAVI>[Kayplas]<INFO>wolfvill,180,179,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4226] = {
+		Title = "Q Origem da Arma (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Após a assembleia, encerrada depois de intensos debates, Miriam percebe algo estranho entre as pessoas que se dispersam.\n\t\tAlguns moradores estão armados em excesso. Qual é a Origem da Arma, e com que intenção os moradores estão se armando?\n\t\t<TIPBOX>»Assembleia da Floresta do Lobo Cinzento<INFO>4225</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t\n\t\t<NAVI>[Miriam]<INFO>wolfvill,148,151,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4227] = {
+		Title = "Q Rebeldes (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Enquanto Suad reflete sobre as armas que surgiram em Aldeia do Lobo Cinzento e sua origem, chega desta vez a notícia de um ataque à caravana de um membro de Aldeia do Lobo Cinzento.\n\t\t<TIPBOX>»Origem da Arma<INFO>4226</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t\n\t\t<NAVI>[Suad]<INFO>wolfvill,140,112,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4228] = {
+		Title = "Q Lobo em Pele de Cordeiro (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"As pessoas de Aldeia do Lobo Cinzento finalmente se reuniram diante do templo.\n\t\tConseguirão fazer com que o povo de Rachel ouça suas vozes como devem?\n\t\t<TIPBOX>»Rebeldes<INFO>4227</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t\n\t\t<NAVI>[Pessoa comum]<INFO>rachel,169,245,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4229] = {
+		Title = "Q Quando É Preciso Conversar (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Suad e os sacerdotes, abalados pela traição do aliado em quem confiavam, sofrem um grande choque. Mas logo se recuperam e decidem organizar a confusão na vila e no templo.\n\t\tMiriam parte para o lugar para onde seu pai foi, a fim de investigar este caso.\n\t\t<TIPBOX>»Lobo em Pele de Cordeiro<INFO>4228</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t\n\t\t<NAVI>[Niren]<INFO>rachel,116,200,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4230] = {
+		Title = "Q Investigação da Vila do Sumo Sacerdote (170)#Quest Episódio18A direção da oração",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Parece que por trás de tudo isso está Ilusión, em conluio com Sumo Sacerdote Amal. Será que em Aposento do Clérigo poderemos descobrir o que eles pretendiam fazer e por que causaram confusão em Rachel?\n\t\t<TIPBOX>»Quando É Preciso Conversar<INFO>4229</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t\n\t\t<NAVI>[Ponto de encontro]<INFO>oz_dun01,223,116,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4231] = {
+		Title = "MD 18 Aposento Clerical (170)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Dizem que as formas de seres já derrotados ainda podem ser vistas na casa de veraneio de Sumo Sacerdote Yus. Aira deseja que esses maus presságios sejam eliminados pelas mãos dos aventureiros antes que invoquem a Fúria divina.\n\t\t\n\t\t§ Pré-requisito: concluir <TIPBOX>Investigação da Vila do Sumo Sacerdote<INFO>4230</INFO></TIPBOX>\n\t\t\n\t\t§ Composição da dungeon\n\t\t▷ Modo normal\n\t\t→ Pode ser concluído repetidamente todos os dias (reinicia às 04:00 do dia seguinte)\n\t\t→ Tempo limite de 60 minutos\n\t\t→ Nível 170 ou superior\n\t\t\n\t\t▷ Modo avançado\n\t\t→ Pode ser desafiado usando <ITEM>[Chave subterrânea da vila]<INFO>1000471</INFO></ITEM>\n\t\t→ Tempo limite de 60 minutos\n\t\t→ Nível 200 ou superior\n\t\t\n\t\t<NAVI>[Aira]<INFO>wolfvill,77,257,0,101,0</INFO></NAVI>\n\t\t\n\t\t§ <TIPBOX>Espólios da dungeon<INFO>4219</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4232] = {
+		Title = "Q Administrador da Vila do Lobo Cinzento (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Hazar, o chefe da caravana de Aldeia do Lobo Cinzento, tenta pôr seu discípulo Kamil à prova, mas as coisas parecem não correr bem desde o começo.\n\t\t<TIPBOX>»Filhos Cinzentos<INFO>4223</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t^663399§Missão obrigatória para participar da assembleia^000000\n\t\t\n\t\t<NAVI>[Hazar]<INFO>wolfvill,54,237,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4233] = {
+		Title = "Q Não Consigo Dormir (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Uma criança da Floresta do Lobo Cinzento, com os olhos carregados de sono. O que a impediu de dormir nem um pouco? Vamos ouvir sua história; por algum motivo, toda vez que o choro de Pipa de Vento de Fogo se escuta, ela parece encolher os ombros.\n\t\t<TIPBOX>»Filhos Cinzentos<INFO>4223</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t^663399§Missão obrigatória para participar da assembleia^000000\n\t\t\n\t\t<NAVI>[Ahir]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4234] = {
+		Title = "Q Por Favor, Reúna Histórias (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Gudra, que não parece um estudioso mas na verdade é um grande erudito, aparentemente deseja pesquisar algo reunindo as histórias das pessoas de Aldeia do Lobo Cinzento. Poderia ajudá-lo?\n\t\t<TIPBOX>»Filhos Cinzentos<INFO>4223</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t^663399§Missão obrigatória para participar da assembleia^000000\n\t\t\n\t\t<NAVI>[Gudra]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4235] = {
+		Title = "Q Aqui Não É Aquele Lugar (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Jovens reunidos à tranquila beira do lago de Aldeia do Lobo Cinzento, resmungando e falando mal de alguém. Vamos ouvir discretamente do que estão falando.\n\t\t<TIPBOX>»Filhos Cinzentos<INFO>4223</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t^663399§Missão obrigatória para participar da assembleia^000000\n\t\t\n\t\t<NAVI>[Julan]<INFO>wolfvill,85,111,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4236] = {
+		Title = "Q Pão de Cada Dia(170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Eruin, que vive em Aldeia do Lobo Cinzento, é um caçador de armadilhas. Ele está recrutando diariamente ajudantes para recolher a caça.\n\t\t<TIPBOX>»Filhos Cinzentos<INFO>4223</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t^663399§Missão obrigatória para participar da assembleia^000000\n\t\t\n\t\t<NAVI>[Eruin]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4237] = {
+		Title = "Q Relíquia de Purificação(170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Budan, responsável pela gestão da água em Aldeia do Lobo Cinzento, está procurando alguém que lhe traga a água potável Relíquia de Purificação de Rachel.\n\t\t<TIPBOX>»Filhos Cinzentos<INFO>4223</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t^663399§Missão obrigatória para participar da assembleia^000000\n\t\t\n\t\t<NAVI>[Budan]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4238] = {
+		Title = "Q Migração Tardia(170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Horim, funcionário do hotel de Rachel, quer partir para Aldeia do Lobo Cinzento.\n\t\tVamos ajudar Horim e levá-lo até Aldeia do Lobo Cinzento.\n\t\t<TIPBOX>»Filhos Cinzentos<INFO>4223</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t^663399§Missão obrigatória para participar da assembleia^000000\n\t\t\n\t\t<NAVI>[Horim]<INFO>ra_in01,388,59,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4239] = {
+		Title = "Q Onde Fica Minha Casa (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Embora tenha vindo para Aldeia do Lobo Cinzento em busca de um lugar para se estabelecer, não é fácil realizar seu propósito.\n\t\tQual será o plano de Ezekiel?\n\t\t<TIPBOX>»Filhos Cinzentos<INFO>4223</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t^663399§Missão obrigatória para participar da assembleia^000000\n\t\t\n\t\t<NAVI>[Ezekiel]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4240] = {
+		Title = "Q Não Existem Feras Más no Mundo (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Nem apenas pessoas compõem Aldeia do Lobo Cinzento.\n\t\tO que será necessário para que todos vivam em harmonia?\n\t\t<TIPBOX>»Filhos Cinzentos<INFO>4223</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t^663399§Missão obrigatória para participar da assembleia^000000\n\t\t\n\t\t<NAVI>[Scania]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4241] = {
+		Title = "Q Labirinto de Oz e o Mercador Ambulante (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Não é nada fácil atravessar Labirinto de Oz, a única passagem que leva a Aldeia do Lobo Cinzento.\n\t\tQue problema estará acontecendo em Labirinto de Oz?\n\t\t<TIPBOX>»Filhos Cinzentos<INFO>4223</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t^663399§Missão obrigatória para participar da assembleia^000000\n\t\t\n\t\t<NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4242] = {
+		Title = "Q Observando a Situação (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Junok, Sacerdote de Rachel, está em grande dificuldade por causa do conflito entre imigrantes e nativos. A pedido de Junok, vamos observar que tipo de atrito existe entre eles.\n\t\t<TIPBOX>»Para a Santa Sé<INFO>4221</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t\n\t\t<NAVI>[Junok]<INFO>rachel,155,236,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4243] = {
+		Title = "Q Até as Crianças Sabem (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"O aventureiro encontra uma criança em um canto da rua de Rachel, aparentemente sendo excluída por vários amigos. O que terá acontecido? Vamos ouvir diretamente.\n\t\t<TIPBOX>»Para a Santa Sé<INFO>4221</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t\n\t\t<NAVI>[Samariam]<INFO>rachel,38,44,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4244] = {
+		Title = "Q Recompensa pelo Trabalho (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Uma área residencial de Rachel. Há uma pessoa malvestida, olhando constantemente para o céu e soltando profundos suspiros. Parece estar passando por alguma dificuldade… Vamos ouvir sua história.\n\t\t<TIPBOX>»Para a Santa Sé<INFO>4221</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t\n\t\t<NAVI>[Amodiphin]<INFO>rachel,181,51,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4245] = {
+		Title = "Q Flor da Floresta do Lobo Cinzento (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"A verdade incômoda encontrada ao passar por um beco de Rachel. Ainda assim, a criança não desiste e tenta seguir em frente.\n\t\t<TIPBOX>»Para a Santa Sé<INFO>4221</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t\n\t\t<NAVI>[Criança maltratada]<INFO>rachel,176,80,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Conecta-se a Tarefas da Flower Room<INFO>4246</INFO></TIPBOX>.\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4246] = {
+		Title = "Q Tarefas da Flower Room (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Medjay, que deixou para trás a condição de coitado desprezado em Rachel e começou um negócio rumo ao seu sonho. Você é justamente o parceiro que irá trabalhar todos os dias em Bosque do Lobo Cinzento (1) para ajudar no negócio de Medjay.\n\t\t<TIPBOX>»Flor da Floresta do Lobo Cinzento<INFO>4245</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t\n\t\t<NAVI>[Medjay]<INFO>rachel,70,135,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4247] = {
+		Title = "Q Tornar a Floresta do Lobo Cinzento Mais Segura (170)#Quest Episódio18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"O porteiro que guarda a entrada de Aldeia do Lobo Cinzento sofre constantemente com as feras da floresta que o ameaçam. Seria ótimo se alguém bondoso pudesse tornar Tornar a Floresta do Lobo Cinzento Mais Segura.\n\t\t<TIPBOX>»Filhos Cinzentos<INFO>4223</INFO></TIPBOX> concluído\n\t\t^663399§Nível 170 ou superior^000000\n\t\t\n\t\t<NAVI>[Camper]<INFO>gw_fild01,32,101,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4248] = {
+		Title = "MD 18 Purificação do Santuário (170)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Sacerdote, de Rachel, deseja que o santuário seja purificado, pois parece que grupos suspeitos ainda estão sendo avistados no santuário onde ocorreu um incidente desagradável.\n\t\t\n\t\t§ Pré-requisito: concluir <TIPBOX>»Lobo em Pele de Cordeiro<INFO>4228</INFO></TIPBOX>\n\t\t\n\t\t§ Composição da dungeon\n\t\t→ Pode ser concluído repetidamente todos os dias (reinicia às 04:00 do dia seguinte)\n\t\t→ Tempo limite de 60 minutos\n\t\t→ Nível 170 ou superior\n\t\t^663399§Este é um MD para progresso de missão.^000000\n\t\t\n\t\t<NAVI>[Sacerdote]<INFO>rachel,169,245,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>»Episode 18 A direção da oração<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>»EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
 	}
 }
 function main()

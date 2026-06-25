@@ -668,5 +668,53 @@
         "en-US": "Nothing happened.",
         "pt-BR": "Não aconteceu nada.",
         "es-ES": "No pasó nada."
+    },
+    "psZdAg": {
+        "en-US": "\\{0}\\}"
+    },
+    "p8ZdAg": {
+        "en-US": "ssss[{0}] guild has conquered Leilah in the [{1}] Realm.",
+        "pt-BR": "ssssO clã [{0}] conquistou o castelo de [{1}]",
+        "es-ES": "ssssEl gremio [{0}] conquistó el castillo de [{1}]"
+    },
+    "qMZdAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "qcZdAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "qsZdAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "q8ZdAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "rMZdAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "rcZdAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "rsZdAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "r8ZdAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     }
 }

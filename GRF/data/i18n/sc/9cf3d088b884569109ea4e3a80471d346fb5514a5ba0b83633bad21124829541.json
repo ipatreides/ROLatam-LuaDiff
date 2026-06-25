@@ -1,0 +1,512 @@
+{
+    "QPwfDQ": {
+        "en-US": "This is the core of this temple!",
+        "pt-BR": "Este é o núcleo deste santuário!",
+        "es-ES": "¡Este es el núcleo de este santuario!"
+    },
+    "QfwfDQ": {
+        "en-US": "Inspect all facilities and breach security to eliminate all who attempt to enter and seize power!",
+        "pt-BR": "Inspecionem todos os meios e instalações, e eliminem qualquer um que tente invadir, romper a segurança e tomar o poder!",
+        "es-ES": "¡Inspeccionen todas las instalaciones y eliminen a cualquiera que intente infiltrarse rompiendo la seguridad para obtener poder!"
+    },
+    "QvwfDQ": {
+        "en-US": "Four!!",
+        "pt-BR": "Quatro!!",
+        "es-ES": "¡¡Cuatro!!"
+    },
+    "Q/wfDQ": {
+        "en-US": "To your positions!",
+        "pt-BR": "Cada um para sua posição!",
+        "es-ES": "¡Cada uno a su posición!"
+    },
+    "RPwfDQ": {
+        "en-US": "Adventurer, thank you for participating in the subjugation operation!",
+        "pt-BR": "Aventureiro, obrigado por participar da operação de extermínio!",
+        "es-ES": "¡Aventurero, gracias por participar en la operación de exterminio!"
+    },
+    "RfwfDQ": {
+        "en-US": "In addition to eliminating intruders, we would like to assign you a separate task.",
+        "pt-BR": "Além de eliminar os invasores, temos uma missão adicional para você.",
+        "es-ES": "Además de eliminar a los intrusos, le encomendaremos una misión adicional."
+    },
+    "RvwfDQ": {
+        "en-US": "We will temporarily grant administrator authority to the party leader, so please set the security code for the security system that changes daily.",
+        "pt-BR": "Concederemos temporariamente ao líder do grupo autoridade de administrador, então por favor redefina o código de segurança das instalações, que muda diariamente.",
+        "es-ES": "Otorgaremos temporalmente privilegios de administrador al líder del grupo, así que configure el código de seguridad de las instalaciones, que cambia cada día."
+    },
+    "R/wfDQ": {
+        "en-US": "Today's security code is {0}. You must confirm that both the archive and storage are empty before setting it!",
+        "pt-BR": "O código de segurança de hoje é {0}. Certifique-se de que o arquivo e o depósito estejam vazios antes de configurá-lo!",
+        "es-ES": "El código de seguridad de hoy es {0}. ¡Debe configurarlo después de confirmar que el archivo y el almacén están vacíos!"
+    },
+    "SPwfDQ": {
+        "en-US": "Then, commence the operation!",
+        "pt-BR": "Então, iniciando a missão!",
+        "es-ES": "¡Comenzamos la misión!"
+    },
+    "SfwfDQ": {
+        "en-US": "Temple Guard",
+        "pt-BR": "Guarda do Templo",
+        "es-ES": "Guardia del templo"
+    },
+    "SvwfDQ": {
+        "en-US": "Have you forgotten the security code? Today's security code is {0}! Hurry! I will join shortly!",
+        "pt-BR": "Esqueceu o código de segurança? O código de hoje é {0}! Apresse-se! Eu também irei em breve!",
+        "es-ES": "¿Ha olvidado el código de seguridad? ¡El código de hoy es {0}! ¡Apresúrese! ¡Yo también me uniré pronto!"
+    },
+    "S/wfDQ": {
+        "en-US": "Heart Hunter",
+        "pt-BR": "Caça-Corações",
+        "es-ES": "Cazacorazones"
+    },
+    "TPwfDQ": {
+        "en-US": "Ah! You startled me!",
+        "pt-BR": "Ah! Que susto!",
+        "es-ES": "¡Ah! ¡Qué susto!"
+    },
+    "TfwfDQ": {
+        "en-US": "Heart Hunter",
+        "pt-BR": "Caça-Corações",
+        "es-ES": "Cazacorazones"
+    },
+    "TvwfDQ": {
+        "en-US": "Sector 1 still has enemies remaining! Search!",
+        "pt-BR": "Área 1 ainda tem inimigos! Procurem!",
+        "es-ES": "¡Aún quedan enemigos en la Zona 1! ¡Registren el área!"
+    },
+    "T/wfDQ": {
+        "en-US": "What? Why are they here??",
+        "pt-BR": "O quê? Por que eles estão aqui??",
+        "es-ES": "¿Qué? ¿Por qué están ellos aquí??"
+    },
+    "UPwfDQ": {
+        "en-US": "Eek!!!",
+        "pt-BR": "Argh!!!",
+        "es-ES": "¡¡Argh!!"
+    },
+    "UfwfDQ": {
+        "en-US": "Corridor near Archive 1 clear! Entering Archive 1!",
+        "pt-BR": "Corredor próximo ao Arquivo 1 limpo! Entrando no Arquivo 1!",
+        "es-ES": "¡Pasillo cercano al Archivo 1 despejado! ¡Entrando al Archivo 1!"
+    },
+    "UvwfDQ": {
+        "en-US": "Ugh! How annoying! Just leave us alone!",
+        "pt-BR": "Ah, que irritação! Podiam nos deixar em paz!",
+        "es-ES": "¡Ah! ¡Qué fastidio! ¡Déjennos en paz!"
+    },
+    "U/wfDQ": {
+        "en-US": "What? Who are you?",
+        "pt-BR": "O quê? Quem é você?",
+        "es-ES": "¿Qué? ¿Y tú quién eres?"
+    },
+    "VPwfDQ": {
+        "en-US": "Archive 1 clear! Awaiting security code reset",
+        "pt-BR": "Arquivo 1 limpo! Aguardando redefinição do código de segurança",
+        "es-ES": "¡Archivo 1 despejado! En espera de restablecer el código de seguridad"
+    },
+    "VfwfDQ": {
+        "en-US": "Security Device",
+        "pt-BR": "Dispositivo de segurança",
+        "es-ES": "Dispositivo de seguridad"
+    },
+    "VvwfDQ": {
+        "en-US": "Awaiting security code reset",
+        "pt-BR": "Aguardando redefinição do código de segurança",
+        "es-ES": "En espera de restablecer el código de seguridad"
+    },
+    "V/wfDQ": {
+        "en-US": "Administrator authority required to reset the security code.",
+        "pt-BR": "É necessária autoridade de administrador para redefinir o código de segurança.",
+        "es-ES": "Se requieren privilegios de administrador para el código de seguridad."
+    },
+    "WPwfDQ": {
+        "en-US": "Awaiting security code reset. Please enter a new security code.",
+        "pt-BR": "Aguardando redefinição do código de segurança. Insira o novo código.",
+        "es-ES": "En espera de restablecer el código de seguridad. Introduzca el nuevo código."
+    },
+    "WfwfDQ": {
+        "en-US": "Archive 1 security code has been reset.",
+        "pt-BR": "Código de segurança do Arquivo 1 redefinido.",
+        "es-ES": "El código de seguridad del Archivo 1 ha sido restablecido."
+    },
+    "WvwfDQ": {
+        "en-US": "Cancel Input",
+        "pt-BR": "Cancelar entrada",
+        "es-ES": "Cancelar entrada"
+    },
+    "W/wfDQ": {
+        "en-US": "Failed to reset the security code. Please check the code again.",
+        "pt-BR": "Falha ao redefinir o código de segurança. Verifique o código novamente.",
+        "es-ES": "Error al restablecer el código de seguridad. Verifique el número."
+    },
+    "XPwfDQ": {
+        "en-US": "Security code reset completed.",
+        "pt-BR": "Redefinição do código de segurança concluída.",
+        "es-ES": "Restablecimiento del código de seguridad completado."
+    },
+    "XfwfDQ": {
+        "en-US": "Authorized Personnel Only",
+        "pt-BR": "Entrada restrita a pessoal autorizado",
+        "es-ES": "Prohibido el acceso a personal no autorizado"
+    },
+    "XvwfDQ": {
+        "en-US": "Why is everyone so diligent!!",
+        "pt-BR": "Por que todo mundo está tão empenhado assim!!",
+        "es-ES": "¡¿Por qué todos son tan diligentes?!"
+    },
+    "X/wfDQ": {
+        "en-US": "Sector 2 still has enemies remaining! Search!",
+        "pt-BR": "Área 2 ainda tem inimigos! Procurem!",
+        "es-ES": "¡Aún quedan enemigos en la Zona 2! ¡Registren el área!"
+    },
+    "YPwfDQ": {
+        "en-US": "Just leave us alone!",
+        "pt-BR": "Deixem a gente em paz!",
+        "es-ES": "¡Déjennos en paz!"
+    },
+    "YfwfDQ": {
+        "en-US": "Corridor near Archive 2 clear! Entering Archive 2!",
+        "pt-BR": "Corredor próximo ao Arquivo 2 limpo! Entrando no Arquivo 2!",
+        "es-ES": "¡Pasillo cercano al Archivo 2 despejado! ¡Entrando al Archivo 2!"
+    },
+    "YvwfDQ": {
+        "en-US": "If I can just find that book...! Huh! Who are you?",
+        "pt-BR": "Se eu encontrar aquele livro...! Hã! Quem é você?",
+        "es-ES": "¡Si encuentro ese libro...! ¡Eh! ¿Quién eres?"
+    },
+    "Y/wfDQ": {
+        "en-US": "We are meeting for the first time, right?",
+        "pt-BR": "Nós não nos conhecemos, certo?",
+        "es-ES": "¿No nos conocemos?"
+    },
+    "ZPwfDQ": {
+        "en-US": "Archive 2 clear! Awaiting security code reset",
+        "pt-BR": "Arquivo 2 limpo! Aguardando redefinição do código de segurança",
+        "es-ES": "¡Archivo 2 despejado! En espera de restablecer el código de seguridad"
+    },
+    "ZfwfDQ": {
+        "en-US": "Archive 2 security code has been reset.",
+        "pt-BR": "Código de segurança do Arquivo 2 redefinido.",
+        "es-ES": "El código de seguridad del Archivo 2 ha sido restablecido."
+    },
+    "ZvwfDQ": {
+        "en-US": "I will not let you get away with this!!",
+        "pt-BR": "Não vou deixar isso assim!!",
+        "es-ES": "¡¡No te dejaré escapar!!"
+    },
+    "Z/wfDQ": {
+        "en-US": "Sector 3 still has enemies remaining! Search!",
+        "pt-BR": "Área 3 ainda tem inimigos! Procurem!",
+        "es-ES": "¡Aún quedan enemigos en la Zona 3! ¡Registren el área!"
+    },
+    "aPwfDQ": {
+        "en-US": "You are really persistent! I am sick of this!",
+        "pt-BR": "Vocês são persistentes demais! Já estou farto!",
+        "es-ES": "¡De verdad que sois persistentes! ¡Qué fastidio!"
+    },
+    "afwfDQ": {
+        "en-US": "Corridor near Archive 3 clear! Entering Archive 3!",
+        "pt-BR": "Corredor próximo ao Arquivo 3 limpo! Entrando no Arquivo 3!",
+        "es-ES": "¡Pasillo cercano al Archivo 3 despejado! ¡Entrando al Archivo 3!"
+    },
+    "avwfDQ": {
+        "en-US": "I need to get to the storage quickly! Tch!!",
+        "pt-BR": "Preciso ir logo ao depósito! Tch!!",
+        "es-ES": "¡Tengo que ir al almacén! ¡Tsk!"
+    },
+    "a/wfDQ": {
+        "en-US": "I am so busy I could die!!",
+        "pt-BR": "Estou ocupado demais!!",
+        "es-ES": "¡Estoy ocupadísimo!"
+    },
+    "bPwfDQ": {
+        "en-US": "Archive 3 clear! Awaiting security code reset",
+        "pt-BR": "Arquivo 3 limpo! Aguardando redefinição do código de segurança",
+        "es-ES": "¡Archivo 3 despejado! En espera de restablecer el código de seguridad"
+    },
+    "bfwfDQ": {
+        "en-US": "Archive 3 security code has been reset.",
+        "pt-BR": "Código de segurança do Arquivo 3 redefinido.",
+        "es-ES": "El código de seguridad del Archivo 3 ha sido restablecido."
+    },
+    "bvwfDQ": {
+        "en-US": "I still have not obtained what I want!",
+        "pt-BR": "Ainda não consegui o que quero!",
+        "es-ES": "¡Aún no he conseguido lo que quería!"
+    },
+    "b/wfDQ": {
+        "en-US": "Center clear! Entering Storage!",
+        "pt-BR": "Centro limpo! Entrando na sala de armazenamento!",
+        "es-ES": "¡Zona central despejada! ¡Entrando al almacén!"
+    },
+    "cPwfDQ": {
+        "en-US": "Oh~ something seems to be coming out~",
+        "pt-BR": "Hm~ parece que algo está saindo~",
+        "es-ES": "Eh~ parece que algo está saliendo~"
+    },
+    "cfwfDQ": {
+        "en-US": "This feels electrifying!!!",
+        "pt-BR": "Que sensação!!! eletrizante!!!",
+        "es-ES": "¡¡Es electrizante!!!"
+    },
+    "cvwfDQ": {
+        "en-US": "Last time I saw someone do this somehow...",
+        "pt-BR": "Da última vez vi como faziam isso...",
+        "es-ES": "La vez pasada vi cómo hacían esto..."
+    },
+    "c/wfDQ": {
+        "en-US": "That is not how you do it.",
+        "pt-BR": "Não é assim que se faz isso.",
+        "es-ES": "Eso no se hace así."
+    },
+    "dPwfDQ": {
+        "en-US": "If you cannot do it, move aside. I will do it.",
+        "pt-BR": "Se não consegue, sai daí logo. Eu faço.",
+        "es-ES": "Si no puedes, apártate. Yo lo haré."
+    },
+    "dfwfDQ": {
+        "en-US": "Ugh, I have a fear of heights.",
+        "pt-BR": "Nossa, tenho medo de altura.",
+        "es-ES": "Uf, tengo miedo a las alturas."
+    },
+    "dvwfDQ": {
+        "en-US": "There is something here!",
+        "pt-BR": "Tem algo aqui!",
+        "es-ES": "¡Aquí hay algo!"
+    },
+    "d/wfDQ": {
+        "en-US": "Hey! This is thrilling~",
+        "pt-BR": "Ei! Que sensação incrível~",
+        "es-ES": "¡Oye! ¡Es electrizante~"
+    },
+    "ePwfDQ": {
+        "en-US": "How long will this take...",
+        "pt-BR": "Quando isso termina...",
+        "es-ES": "¿Cuánto falta...?"
+    },
+    "efwfDQ": {
+        "en-US": "What? We have an uninvited guest?",
+        "pt-BR": "O quê? Temos um visitante inesperado?",
+        "es-ES": "¿Qué? ¿Tenemos visita inesperada?"
+    },
+    "evwfDQ": {
+        "en-US": "What were you all doing that you did not even notice someone coming in? Get a grip!",
+        "pt-BR": "O que vocês estavam fazendo para nem perceber alguém entrando? Acordem!",
+        "es-ES": "¿Qué estaban haciendo todos para no darse cuenta de que alguien entraba? ¡Espabilen!"
+    },
+    "e/wfDQ": {
+        "en-US": "Oh~ this is intoxicating~ intoxicated by the power of the heart~",
+        "pt-BR": "Ah~ isso embriaga~ a energia do coração é embriagante~",
+        "es-ES": "Ah~ me embriaga~ me embriaga el poder del corazón~"
+    },
+    "fPwfDQ": {
+        "en-US": "Is this not the only power authorized by the state?",
+        "pt-BR": "Não é a única energia autorizada pelo Estado?",
+        "es-ES": "¿No es este el único poder permitido por el Estado?"
+    },
+    "ffwfDQ": {
+        "en-US": "What are you talking about? This is not authorized by the state. Did you forget?",
+        "pt-BR": "Do que está falando? Isso nem é autorizado pelo Estado. Esqueceu?",
+        "es-ES": "¿De qué hablas? Esto ni siquiera está permitido por el Estado. ¿Lo olvidaste?"
+    },
+    "fvwfDQ": {
+        "en-US": "Oh, right. We are illegally trespassing, are we not?",
+        "pt-BR": "Ah, verdade. Estamos invadindo ilegalmente, né?",
+        "es-ES": "Ah, cierto. ¿Estábamos infiltrándonos ilegalmente, no?"
+    },
+    "f/wfDQ": {
+        "en-US": "Maybe that is why it feels even more thrilling?",
+        "pt-BR": "Será que é por ser ilegal que é ainda mais emocionante?",
+        "es-ES": "¿Será por eso que se siente aún más emocionante?"
+    },
+    "gPwfDQ": {
+        "en-US": "Hey! This is strange. No matter what I do, the power of the heart is not being transmitted?",
+        "pt-BR": "Ei! Isso está estranho. Não importa o quanto mexa, a energia do coração não está sendo transmitida!",
+        "es-ES": "Oye, esto es extraño. Por más que lo manipulo, el poder del corazón no se transmite."
+    },
+    "gfwfDQ": {
+        "en-US": "That is why I told you to move! I will try it!!",
+        "pt-BR": "Por isso eu disse pra sair daí! Eu faço!!",
+        "es-ES": "¡Por eso te dije que te apartaras! ¡Yo lo intentaré!!"
+    },
+    "gvwfDQ": {
+        "en-US": "What? Then what is this thrill flowing through my body right now?",
+        "pt-BR": "O quê? Então o que é essa sensação eletrizante correndo pelo meu corpo?",
+        "es-ES": "¿Qué? Entonces, ¿qué es esta sensación electrizante que recorre mi cuerpo?"
+    },
+    "g/wfDQ": {
+        "en-US": "What else? It is just your imagination.",
+        "pt-BR": "O que mais seria? Só coisa da sua cabeça.",
+        "es-ES": "¿Pues qué va a ser? Solo tu imaginación."
+    },
+    "hPwfDQ": {
+        "en-US": "Well, that is quite a thrill.",
+        "pt-BR": "Heh, que sensação boa.",
+        "es-ES": "Vaya, qué sensación tan intensa."
+    },
+    "hfwfDQ": {
+        "en-US": "Take a closer look. It might be a short circuit.",
+        "pt-BR": "Olhe direito. Pode ser um curto-circuito.",
+        "es-ES": "Míralo bien. Puede ser una fuga eléctrica."
+    },
+    "hvwfDQ": {
+        "en-US": "You said you saw how to operate it before, over someone's shoulder? You said to trust you?",
+        "pt-BR": "Você disse que viu como operar por cima do ombro, não foi? Disse pra confiar em você?",
+        "es-ES": "Dijiste que habías visto cómo funcionaba, ¿no? ¿Que confiáramos en ti?"
+    },
+    "h/wfDQ": {
+        "en-US": "That is... wait, it says the security code does not match?",
+        "pt-BR": "Isso é... espera, está dizendo que o código de segurança não confere?",
+        "es-ES": "Eso... espera, ¿dice que el código de seguridad no coincide?"
+    },
+    "iPwfDQ": {
+        "en-US": "Security code mismatch? Hmm... that might be related to the Adventurer here, do you not think?",
+        "pt-BR": "Código de segurança incorreto? Hmm... parece ter algo a ver com o Aventureiro aqui, não acha?",
+        "es-ES": "¿No coincide? Hmm... creo que eso tiene que ver con el aventurero que tenemos aquí, ¿verdad?"
+    },
+    "ifwfDQ": {
+        "en-US": "Please enter the updated security code. Then we will all be very happy.",
+        "pt-BR": "Por favor, insira o novo código de segurança. Assim todos ficaremos muito felizes.",
+        "es-ES": "Introduzca el nuevo código de seguridad, ¿quiere? Así todos seremos muy felices."
+    },
+    "ivwfDQ": {
+        "en-US": "Move aside. Machines only listen when you hit them!",
+        "pt-BR": "Sai da frente. Máquina só funciona na base da pancada!",
+        "es-ES": "Apártate. ¡A las máquinas hay que golpearlas para que funcionen!"
+    },
+    "i/wfDQ": {
+        "en-US": "Hey! Who handles a machine like that?",
+        "pt-BR": "Ei! Quem usa máquina assim?",
+        "es-ES": "¡Oye! ¿Quién trata así a una máquina?"
+    },
+    "jPwfDQ": {
+        "en-US": "Ah!!! It suddenly became even more electrifying!! Is that just my imagination too?",
+        "pt-BR": "Ah!!! Ficou ainda mais eletrizante!! Isso também é imaginação?",
+        "es-ES": "¡¡Ah!!! ¡Ahora es aún más electrizante! ¿También es mi imaginación?"
+    },
+    "jfwfDQ": {
+        "en-US": "It must be a short circuit! Light is suddenly coming from them!",
+        "pt-BR": "Deve ser curto! Ele está brilhando de repente!",
+        "es-ES": "¡Debe ser una fuga! ¡Está emitiendo luz!"
+    },
+    "jvwfDQ": {
+        "en-US": "Uoooooo!!!",
+        "pt-BR": "Uaaaah!!!",
+        "es-ES": "¡¡Uaaaaaah!!"
+    },
+    "j/wfDQ": {
+        "en-US": "Hey!! They look cooler now!!!",
+        "pt-BR": "Ei!! Ele ficou mais forte!!!",
+        "es-ES": "¡¡Oye!! ¡Se ha vuelto increíble!!!"
+    },
+    "kPwfDQ": {
+        "en-US": "Why only them...? Something is strange.",
+        "pt-BR": "Por que só ele...? Isso está estranho.",
+        "es-ES": "¿Por qué solo él...? Esto es raro."
+    },
+    "kfwfDQ": {
+        "en-US": "Huh...?",
+        "pt-BR": "Hã...?",
+        "es-ES": "Eh...?"
+    },
+    "kvwfDQ": {
+        "en-US": "What is this?",
+        "pt-BR": "O que é isso?",
+        "es-ES": "¿Qué es esto?"
+    },
+    "k/wfDQ": {
+        "en-US": "As expected, broken machines need to be struck!",
+        "pt-BR": "Máquina quebrada se conserta na pancada mesmo!",
+        "es-ES": "¡Como dije, las máquinas rotas se arreglan a golpes!"
+    },
+    "lPwfDQ": {
+        "en-US": "Am I electrocuted too? My body feels strange as well?",
+        "pt-BR": "Eu também levei choque? Meu corpo está estranho.",
+        "es-ES": "¿Yo también me he electrocutado? Mi cuerpo se siente extraño."
+    },
+    "lfwfDQ": {
+        "en-US": "That is not it, I succeeded. Look, we are all resonating with the heart, are we not?",
+        "pt-BR": "Não, eu consegui. Veja, todos nós estamos ressoando com o coração.",
+        "es-ES": "No, es que lo logré. Mira, todos estamos resonando con el corazón, ¿no?"
+    },
+    "lvwfDQ": {
+        "en-US": "Ha...",
+        "pt-BR": "Hoo...",
+        "es-ES": "Oh..."
+    },
+    "l/wfDQ": {
+        "en-US": "Well, it does not matter. We could not extract the power of the heart, but the resonance works well. Then we should test this power, should we not?",
+        "pt-BR": "Tanto faz. Não conseguimos extrair a energia do coração, mas a ressonância está funcionando bem. Então devemos testar esse poder.",
+        "es-ES": "Bueno, ¿qué más da? No pudimos extraer el poder del corazón, pero la resonancia funciona. Entonces habrá que probar este poder."
+    },
+    "mPwfDQ": {
+        "en-US": "And there is an Adventurer right here. Perfect.",
+        "pt-BR": "Por sorte, temos um Aventureiro aqui. Perfeito.",
+        "es-ES": "Y justo hay un aventurero aquí. Perfecto."
+    },
+    "mfwfDQ": {
+        "en-US": "That works out. Otherwise, we might have ended up fighting among ourselves. Right?",
+        "pt-BR": "Que bom. Senão teríamos brigado entre nós. Não é?",
+        "es-ES": "Qué bien. Si no, habríamos acabado peleando entre nosotros, ¿verdad?"
+    },
+    "mvwfDQ": {
+        "en-US": "Ah! I saw something like this in Prontera. Everyone was hitting eggs?",
+        "pt-BR": "Ah! Eu vi algo assim em Prontera. Todo mundo batendo em ovos?",
+        "es-ES": "¡Ah! Vi algo así en Prontera. Todos estaban golpeando huevos."
+    },
+    "m/wfDQ": {
+        "en-US": "We hold no personal grudge, but letting you go like this would put us in trouble.",
+        "pt-BR": "Não temos nada pessoal contra você, mas se deixarmos você ir assim, teremos problemas.",
+        "es-ES": "No es nada personal, pero si te dejamos ir, nos meteríamos en problemas."
+    },
+    "nPwfDQ": {
+        "en-US": "It would have been better for both of us if you had just ignored this and gone to Gina. It cannot be helped. Farewell.",
+        "pt-BR": "Teria sido melhor para todos se você tivesse ignorado e ido embora como Gina. Não temos escolha. Adeus.",
+        "es-ES": "Habría sido mejor para ambos que fingieras no ver nada y te fueras con Gina. Pero no hay otra opción. Adiós."
+    },
+    "nfwfDQ": {
+        "en-US": "Resonant Entity",
+        "pt-BR": "Entidade Ressonante",
+        "es-ES": "Entidad de resonancia"
+    },
+    "nvwfDQ": {
+        "en-US": "Awaiting Storage security code reset!",
+        "pt-BR": "Aguardando redefinição do código de segurança da sala de armazenamento!",
+        "es-ES": "¡En espera de restablecer el código de seguridad del almacén!"
+    },
+    "n/wfDQ": {
+        "en-US": "Storage security code has been reset.",
+        "pt-BR": "Código de segurança da sala de armazenamento redefinido.",
+        "es-ES": "El código de seguridad del almacén ha sido restablecido."
+    },
+    "oPwfDQ": {
+        "en-US": "Do you think we will give up because of this? We have already tasted it. Just wait and see!",
+        "pt-BR": "Acha que vamos desistir por causa disso? Já provamos o gosto. Espere e verá!",
+        "es-ES": "¿Crees que vamos a rendirnos por esto? Ya hemos probado su poder. ¡Ya verás!"
+    },
+    "ofwfDQ": {
+        "en-US": "All sectors clear! All units assemble at the exit!",
+        "pt-BR": "Todas as áreas limpas! Todos, reúnam-se na saída!",
+        "es-ES": "¡Todas las zonas despejadas! ¡Todos a la salida!"
+    },
+    "ovwfDQ": {
+        "en-US": "Everyone, well done!",
+        "pt-BR": "Bom trabalho a todos!",
+        "es-ES": "¡Buen trabajo a todos!"
+    },
+    "o/wfDQ": {
+        "en-US": "We must purify the temple daily for a while!",
+        "pt-BR": "Por um tempo, teremos que purificar o santuário todos os dias!",
+        "es-ES": "¡Durante un tiempo tendremos que purificar el santuario cada día!"
+    },
+    "pPwfDQ": {
+        "en-US": "All units, dismissed!",
+        "pt-BR": "Todos dispensados!",
+        "es-ES": "¡Todos, dispérsense!"
+    },
+    "pfwfDQ": {
+        "en-US": "Adventurer, you have done well! See you again!",
+        "pt-BR": "Aventureiro, ótimo trabalho! Até a próxima!",
+        "es-ES": "¡Aventurero, también ha hecho un gran trabajo! ¡Nos veremos de nuevo!"
+    }
+}

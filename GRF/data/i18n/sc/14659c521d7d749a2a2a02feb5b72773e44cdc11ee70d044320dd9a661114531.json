@@ -1,258 +1,215 @@
 {
     "AHmhCA": {
-        "ko-KR": "무모한탐험가: 이 구역은 안전해요. 통로를 통해 다음 구역으로 이동하세요.",
         "en-US": "Reckless Explorer: This area is safe. Go through the passage to the next area.",
         "pt-BR": "Arqueóloga: Tudo limpo. Vá para a próxima área.",
         "es-ES": "Exploradora Temeraria: Esta zona es segura. Atraviesa el pasaje a la siguiente zona."
     },
     "AXmhCA": {
-        "ko-KR": "뒤틀린 토드",
         "en-US": "Infinity Toad",
         "pt-BR": "Sapo Espacial",
         "es-ES": "Rana Espacial"
     },
     "AnmhCA": {
-        "ko-KR": "뒤틀린 떠돌이늑대",
         "en-US": "Infinity Wanderer Wolf",
         "pt-BR": "Errante Espacial",
         "es-ES": "Errabundo Espacial"
     },
     "A3mhCA": {
-        "ko-KR": "뒤틀린 보컬",
         "en-US": "Infinity Vocal",
         "pt-BR": "Vocal Espacial",
         "es-ES": "Vocal Espacial"
     },
     "BHmhCA": {
-        "ko-KR": "뒤틀린 이클립스",
         "en-US": "Infinity Eclipse",
         "pt-BR": "Eclipse Espacial",
         "es-ES": "Eclipse Espacial"
     },
     "BXmhCA": {
-        "ko-KR": "뒤틀린 키메라",
         "en-US": "Twisted Chimera",
         "pt-BR": "Quimera Espacial",
         "es-ES": "Quimera Espacial"
     },
     "BnmhCA": {
-        "ko-KR": "파브르",
         "en-US": "Infinity Fabre",
         "pt-BR": "Fabre Espacial",
         "es-ES": "Fabre Espacial"
     },
     "B3mhCA": {
-        "ko-KR": "루나틱",
         "en-US": "Infinity Lunatic",
         "pt-BR": "Lunático Espacial",
         "es-ES": "Lunático Espacial"
     },
     "CHmhCA": {
-        "ko-KR": "포링",
         "en-US": "Infinity Poring",
         "pt-BR": "Poring Espacial",
         "es-ES": "Poring Espacial"
     },
     "CXmhCA": {
-        "ko-KR": "픽키",
         "en-US": "Infinity Picky",
         "pt-BR": "Picky Espacial",
         "es-ES": "Espacio Exquisito"
     },
     "CnmhCA": {
-        "ko-KR": "콘도르",
         "en-US": "Infinity Condor",
         "pt-BR": "Condor Espacial",
         "es-ES": "Cóndor Espacial"
     },
     "C3mhCA": {
-        "ko-KR": "윌로우",
         "en-US": "Infinity Willow",
         "pt-BR": "Salgueiro Espacial",
         "es-ES": "Sauce Espacial"
     },
     "DHmhCA": {
-        "ko-KR": "스포어",
         "en-US": "Infinity Spore",
         "pt-BR": "Esporo Espacial",
         "es-ES": "Espora Espacial"
     },
     "DXmhCA": {
-        "ko-KR": "포포링",
         "en-US": "Infinity Poporing",
         "pt-BR": "Poporing Espacial",
         "es-ES": "Poporing Espacial"
     },
     "DnmhCA": {
-        "ko-KR": "스모키",
         "en-US": "Infinity Smokie",
         "pt-BR": "Fumacento Espacial",
         "es-ES": "Smokie Espacial"
     },
     "D3mhCA": {
-        "ko-KR": "도깨비",
         "en-US": "Infinity Dokebi",
         "pt-BR": "Dokebi Espacial",
         "es-ES": "Dokebi Espacial"
     },
     "EHmhCA": {
-        "ko-KR": "빅풋",
         "en-US": "Infinity Bigfoot",
         "pt-BR": "Pé-Grande Espacial",
         "es-ES": "Pie Grande Espacial"
     },
     "EXmhCA": {
-        "ko-KR": "웜테일",
         "en-US": "Infinity Wormtail",
         "pt-BR": "Verme Espacial",
         "es-ES": "Gusano Espacial"
     },
     "EnmhCA": {
-        "ko-KR": "울프",
         "en-US": "Infinity Wolf",
         "pt-BR": "Lobo Espacial",
         "es-ES": "Lobo Espacial"
     },
     "E3mhCA": {
-        "ko-KR": "보아",
         "en-US": "Infinity Boa",
         "pt-BR": "Jiboia Espacial",
         "es-ES": "Boa Espacial"
     },
     "FHmhCA": {
-        "ko-KR": "아나콘다크",
         "en-US": "Infinity Anacondaq",
         "pt-BR": "Anaconda Espacial",
         "es-ES": "Anaconda Espacial"
     },
     "FXmhCA": {
-        "ko-KR": "마린",
         "en-US": "Infinity Marin",
         "pt-BR": "Marin Espacial",
         "es-ES": "Marin Espacial"
     },
     "FnmhCA": {
-        "ko-KR": "무카",
         "en-US": "Infinity Muka",
         "pt-BR": "Muka Espacial",
         "es-ES": "Muka Espacial"
     },
     "F3mhCA": {
-        "ko-KR": "페코페코",
         "en-US": "Infinity Pecopeco",
         "pt-BR": "PecoPeco Espacial",
         "es-ES": "PecoPeco Espacial"
     },
     "GHmhCA": {
-        "ko-KR": "데니로",
         "en-US": "Infinity Deniro",
         "pt-BR": "Deniro Espacial",
         "es-ES": "Deniro Espacial"
     },
     "GXmhCA": {
-        "ko-KR": "피에르",
         "en-US": "Infinity Piere",
         "pt-BR": "Piere Espacial",
         "es-ES": "Piere Espacial"
     },
     "GnmhCA": {
-        "ko-KR": "앙드레",
         "en-US": "Infinity Andre",
         "pt-BR": "Andre Espacial",
         "es-ES": "Andre Espacial"
     },
     "G3mhCA": {
-        "ko-KR": "골렘",
         "en-US": "Infinity Golem",
         "pt-BR": "Golem Espacial",
         "es-ES": "Gólem Espacial"
     },
     "HHmhCA": {
-        "ko-KR": "스콜피온",
         "en-US": "Infinity Scorpion",
         "pt-BR": "Escorpião Espacial",
         "es-ES": "Escorpión Espacial"
     },
     "HXmhCA": {
-        "ko-KR": "촌촌",
         "en-US": "Infinity Chonchon",
         "pt-BR": "ChonChon Espacial",
         "es-ES": "ChonChon Espacial"
     },
     "HnmhCA": {
-        "ko-KR": "메틀러",
         "en-US": "Infinity Metaller",
         "pt-BR": "Metaller Espacial",
         "es-ES": "Metalero Espacial"
     },
     "H3mhCA": {
-        "ko-KR": "샌드맨",
         "en-US": "Infinity Sandman",
         "pt-BR": "Arenoso Espacial",
         "es-ES": "Arena Espacial"
     },
     "IHmhCA": {
-        "ko-KR": "레글러",
         "en-US": "Infinity Raggler",
         "pt-BR": "Raggler Espacial",
         "es-ES": "Raggler Espacial"
     },
     "IXmhCA": {
-        "ko-KR": "드래곤테일",
         "en-US": "Infinity Dragontail",
         "pt-BR": "Lavadeira Espacial",
         "es-ES": "Lavandera Espacial"
     },
     "InmhCA": {
-        "ko-KR": "그로브",
         "en-US": "Infinity Grove",
         "pt-BR": "Grove Espacial",
         "es-ES": "Grove Espacial"
     },
     "I3mhCA": {
-        "ko-KR": "해달",
         "en-US": "Infinity Sea Otter",
         "pt-BR": "Lontra Espacial",
         "es-ES": "Nutria Espacial"
     },
     "JHmhCA": {
-        "ko-KR": "갈라파고",
         "en-US": "Infinity Galapago",
         "pt-BR": "Pingu Espacial",
         "es-ES": "Pingu Espacial"
     },
     "JXmhCA": {
-        "ko-KR": "퍼실",
         "en-US": "Infinity Fur Seal",
         "pt-BR": "Foca Espacial",
         "es-ES": "Foca Espacial"
     },
     "JnmhCA": {
-        "ko-KR": "엘리게이터",
         "en-US": "Infinity Alligator",
         "pt-BR": "Crocodilo Espacial",
         "es-ES": "Cocodrilo Espacial"
     },
     "J3mhCA": {
-        "ko-KR": "메갈로돈",
         "en-US": "Infinity Megalodon",
         "pt-BR": "Megalodon Espacial",
         "es-ES": "Megalodón Espacial"
     },
     "KHmhCA": {
-        "ko-KR": "트라이 조인트",
         "en-US": "Infinity Tri-Joint",
         "pt-BR": "Trilobita Espacial",
         "es-ES": "Trilobite Espacial"
     },
     "KXmhCA": {
-        "ko-KR": "메갈리스",
         "en-US": "Infinity Megalith",
         "pt-BR": "Megalith Espacial",
         "es-ES": "Megalito Espacial"
     },
     "KnmhCA": {
-        "ko-KR": "드라이어드",
         "en-US": "Infinity Dryad",
         "pt-BR": "Dríade Espacial",
         "es-ES": "Dríada Espacial"

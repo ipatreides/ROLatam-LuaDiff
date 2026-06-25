@@ -1,1038 +1,865 @@
 {
     "YA8bDA": {
-        "ko-KR": "관리자",
         "en-US": "Administrator",
         "pt-BR": "Administrador",
         "es-ES": "Administrador"
     },
     "YQ8bDA": {
-        "ko-KR": "[시간의 관리자]\n어떤 시간으로 갈까요",
         "en-US": "[Time Administrator]\nWhich time shall we go to?",
         "pt-BR": "[Administrador do Tempo]\nPara qual tempo devemos ir?",
         "es-ES": "[Administrador del Tiempo]\n¿A qué tiempo debemos ir?"
     },
     "Yg8bDA": {
-        "ko-KR": "관둔다",
         "en-US": "Quit",
         "pt-BR": "Sair",
         "es-ES": "Salir"
     },
     "Yw8bDA": {
-        "ko-KR": "2구역 시작",
         "en-US": "Start Area 2",
         "pt-BR": "Iniciar Área 2",
         "es-ES": "Iniciar Área 2"
     },
     "ZA8bDA": {
-        "ko-KR": "3구역 시작(도문on)",
         "en-US": "Start Area 3 (DoMon On)",
         "pt-BR": "Iniciar Área 3 (DoMon Ativado)",
         "es-ES": "Iniciar Área 3 (DoMon Activado)"
     },
     "ZQ8bDA": {
-        "ko-KR": "4구역시작(홀그렌on)",
         "en-US": "Start Area 4 (Holgren On)",
         "pt-BR": "Iniciar Área 4 (Holgren Ativado)",
         "es-ES": "Iniciar Área 4 (Holgren Activado)"
     },
     "Zg8bDA": {
-        "ko-KR": "4구역 보스 시작(히멜메즈on)",
         "en-US": "Start Area 4 Boss (Himmelmez On)",
         "pt-BR": "Iniciar Chefe da Área 4 (Himmelmez Ativado)",
         "es-ES": "Iniciar Jefe Área 4 (Himmelmez Activado)"
     },
     "Zw8bDA": {
-        "ko-KR": "비밀방 세팅",
         "en-US": "Secret Room Settings",
         "pt-BR": "Configurações da Sala Secreta",
         "es-ES": "Configuración de Sala Secreta"
     },
     "aA8bDA": {
-        "ko-KR": "칼리츠버그기사단",
         "en-US": "Khalitzburg Knights",
         "pt-BR": "Khalitzburg",
         "es-ES": "Caballeros de Khalitzburg"
     },
     "aQ8bDA": {
-        "ko-KR": "[칼리츠버그기사단]\n곧 근무 교대 시간인데 무슨일이 생긴건지 교대자들이 오지 않는군요.",
         "en-US": "[Khalitzburg Knights]\nIt's almost shift change time, but something must have happened as the replacements aren't coming.",
         "pt-BR": "[Khalitzburg]\nÉ quase a hora da mudança de turno, mas algo deve ter acontecido porque os substitutos não estão vindo.",
         "es-ES": "[Caballeros de Khalitzburg]\nEs casi la hora del cambio de turno, pero algo debe haber pasado porque los relevos no llegan."
     },
     "ag8bDA": {
-        "ko-KR": "백색의기사",
         "en-US": "White Knight",
         "pt-BR": "Cavaleiro Branco",
         "es-ES": "Caballero Blanco"
     },
     "aw8bDA": {
-        "ko-KR": "[백색의기사]\n바르문트님과 함께 오신 분입니까? 사령관님께서 기다리고 계십니다.",
         "en-US": "[White Knight]\nAre you with Lord Varmunt? The Commander is waiting for you.",
         "pt-BR": "[Cavaleiro Branco]\nVocê está junto com o Lorde Varmunt? O Comandante está esperando por você.",
         "es-ES": "[Caballero Blanco]\n¿Está con el Lord Varmunt? El Comandante lo está esperando."
     },
     "bA8bDA": {
-        "ko-KR": "[칼리츠버그기사단]\n어젯밤 꿈이 심상치 않았어요. 어머니가 꿈에 나오셨는데 무슨 일이 있는건 아닌지...",
         "en-US": "[Khalitzburg Knights]\nLast night's dream was unsettling. My mother appeared in my dream, I wonder if something is wrong...",
         "pt-BR": "[Khalitzburg]\nO sonho de ontem à noite foi perturbador. Minha mãe apareceu no meu sonho, me pergunto se algo está errado...",
         "es-ES": "[Caballeros de Khalitzburg]\nEl sueño de anoche fue inquietante. Mi madre apareció en mi sueño, me pregunto si algo anda mal..."
     },
     "bQ8bDA": {
-        "ko-KR": "[백색의기사]\n이곳에서 소란을 떠시는건 곤란합니다.",
         "en-US": "[White Knight]\nCausing a disturbance here is troublesome.",
         "pt-BR": "[Cavaleiro Branco]\nCausar distúrbios aqui é problemático.",
         "es-ES": "[Caballero Blanco]\nCausar disturbios aquí es problemático."
     },
     "bg8bDA": {
-        "ko-KR": "[칼리츠버그기사단]\n정숙해 주십시오.",
         "en-US": "[Khalitzburg Knights]\nPlease be quiet.",
         "pt-BR": "[Khalitzburg]\nPor favor, fiquem em silêncio.",
         "es-ES": "[Caballeros de Khalitzburg]\nPor favor, guarden silencio."
     },
     "bw8bDA": {
-        "ko-KR": "[백색의기사]\n바르문트님과는 무슨 관계이신가요. 사람을 멀리 하는 분이라 들었는데...",
         "en-US": "[White Knight]\nWhat is your relationship with Lord Varmunt? I heard he keeps his distance from people...",
         "pt-BR": "[Cavaleiro Branco]\nQual é seu relacionamento com o Lorde Varmunt? Ouvi dizer que ele mantém distância das pessoas...",
         "es-ES": "[Caballero Blanco]\n¿Cuál es su relación con el Lord Varmunt? Escuché que mantiene su distancia de la gente..."
     },
     "cA8bDA": {
-        "ko-KR": "[칼리츠버그기사단]\n뭔가 성 안의 기운이 이상하지 않습니까? 조금 전 부터 뭔가 기척이 사라진것 같은데요.",
         "en-US": "[Khalitzburg Knights]\nDoesn't the energy in the castle feel strange? It feels like all signs of life disappeared a moment ago.",
         "pt-BR": "[Khalitzburg]\nA energia no castelo não parece estranha? Sinto como se todos os sinais de vida tivessem desaparecido há um momento.",
         "es-ES": "[Caballeros de Khalitzburg]\n¿No se siente extraña la energía en el castillo? Siento que todos los rastros de vida desaparecieron hace un momento."
     },
     "cQ8bDA": {
-        "ko-KR": "[백색의기사]\n저는 근무중에 잡담을 하는것을 좋아하지 않습니다.",
         "en-US": "[White Knight]\nI don't like making small talk while on duty.",
         "pt-BR": "[Cavaleiro Branco]\nNão gosto de conversa fiada enquanto estou de serviço.",
         "es-ES": "[Caballero Blanco]\nNo me gusta hacer pequeñas charlas mientras estoy de servicio."
     },
     "cg8bDA": {
-        "ko-KR": "[칼리츠버그기사단]\n...",
         "en-US": "[Khalitzburg Knights]\n...",
         "pt-BR": "[Khalitzburg]\n...",
         "es-ES": "[Caballeros de Khalitzburg]\n..."
     },
     "cw8bDA": {
-        "ko-KR": "[백색의기사]\n제게 무슨 용건이십니까?",
         "en-US": "[White Knight]\nWhat is your business with me?",
         "pt-BR": "[Cavaleiro Branco]\nO que você quer comigo?",
         "es-ES": "[Caballero Blanco]\n¿Qué negocio tiene conmigo?"
     },
     "dA8bDA": {
-        "ko-KR": "[칼리츠버그기사단]\n필요한 것이 있으십니까?",
         "en-US": "[Khalitzburg Knights]\nDo you need something?",
         "pt-BR": "[Khalitzburg]\nVocê precisa de algo?",
         "es-ES": "[Caballeros de Khalitzburg]\n¿Necesita algo?"
     },
     "dQ8bDA": {
-        "ko-KR": "[칼리츠버그기사단]\n제게 하실 말씀이라도 있으신가요?",
         "en-US": "[Khalitzburg Knights]\nDo you have something to say to me?",
         "pt-BR": "[Khalitzburg]\nVocê tem algo a me dizer?",
         "es-ES": "[Caballeros de Khalitzburg]\n¿Tiene algo que decirme?"
     },
     "dg8bDA": {
-        "ko-KR": "[백색의기사]\n곧 근무 교대 시간인데 무슨일이 생긴건지 교대자들이 오지 않는군요.",
         "en-US": "[White Knight]\nIt's almost shift change time, but something must have happened as the replacements aren't coming.",
         "pt-BR": "[Cavaleiro Branco]\nÉ quase a hora da mudança de turno, mas algo deve ter acontecido porque os substitutos não estão vindo.",
         "es-ES": "[Caballero Blanco]\nEs casi la hora del cambio de turno, pero algo debe haber pasado porque los relevos no llegan."
     },
     "dw8bDA": {
-        "ko-KR": "[칼리츠버그기사단]\n바르문트님과 함께 오신 분입니까? 사령관님께서 기다리고 계십니다.",
         "en-US": "[Khalitzburg Knights]\nAre you with Lord Varmunt? The Commander is waiting for you.",
         "pt-BR": "[Khalitzburg]\nVocê está junto com o Lorde Varmunt? O Comandante está esperando por você.",
         "es-ES": "[Caballeros de Khalitzburg]\n¿Está con el Lord Varmunt? El Comandante lo está esperando."
     },
     "eA8bDA": {
-        "ko-KR": "바르문트",
         "en-US": "Varmunt",
         "pt-BR": "Varmunt",
         "es-ES": "Varmunt"
     },
     "eQ8bDA": {
-        "ko-KR": "[바르문트]\n도와줄 사람을 보내달랬더니 뭔가 이상한 것을 보내왔군.",
         "en-US": "[Varmunt]\nI asked for someone to help, and they sent something strange.",
         "pt-BR": "[Varmunt]\nPedi alguém para ajudar, e me enviaram uma galinha?",
         "es-ES": "[Varmunt]\nPedí que enviaran a alguien para ayudar, y mandaron algo extraño."
     },
     "eg8bDA": {
-        "ko-KR": "바르문트: 도와줄 사람을 보내달랬더니 뭔가 이상한 것을 보내왔군.",
         "en-US": "Varmunt: I asked for someone to help, and they sent something strange.",
         "pt-BR": "Varmunt: Pedi alguém para ajudar, e me enviaram uma galinha?\"",
         "es-ES": "Varmunt: Pedí que enviaran a alguien para ayudar, y mandaron algo extraño."
     },
     "ew8bDA": {
-        "ko-KR": "[바르문트]\n성 안에 짐승이 돌아다니다니. 경비원들은 대체 뭘 하고있는거지?",
         "en-US": "[Varmunt]\nA beast roaming the castle. What are the guards even doing?",
         "pt-BR": "[Varmunt]\nUm PecoPeco vagando pelo castelo... O que mais vai aparecer?",
         "es-ES": "[Varmunt]\nUna bestia deambulando por el castillo. ¿Qué están haciendo los guardias?"
     },
     "fA8bDA": {
-        "ko-KR": "꽥꽥!",
         "en-US": "Quack quack!",
         "pt-BR": "Quá Quá!",
         "es-ES": "¡Cuac cuac!"
     },
     "fQ8bDA": {
-        "ko-KR": "[{0}]\n꽥~ 꽥꽥~",
         "en-US": "[{0}]\nQuack~ Quack quack~",
         "pt-BR": "[{0}]\nQuá~ Quá Quá~",
         "es-ES": "[{0}]\n¡Cuac~ Cuac cuac~"
     },
     "fg8bDA": {
-        "ko-KR": "꽥~ 꽥꽥~",
         "en-US": "Quack~ Quack quack~",
         "pt-BR": "Quá~ Quá Quá~",
         "es-ES": "¡Cuac~ Cuac cuac~"
     },
     "fw8bDA": {
-        "ko-KR": "[바르문트]\n으음? 말은 통하는 것 같구나.",
         "en-US": "[Varmunt]\nHmm? It seems we can communicate.",
         "pt-BR": "[Varmunt]\nHmm? Parece que podemos nos comunicar.",
         "es-ES": "[Varmunt]\n¿Mmm? Parece que podemos comunicarnos."
     },
     "gA8bDA": {
-        "ko-KR": "바르문트: 으음? 말은 통하는 것 같구나.",
         "en-US": "Varmunt: Hmm? It seems we can communicate.",
         "pt-BR": "Varmunt: Hmm? Parece que podemos nos comunicar.",
         "es-ES": "Varmunt: ¿Mmm? Parece que podemos comunicarnos."
     },
     "gQ8bDA": {
-        "ko-KR": "꽉꽉!~",
         "en-US": "Squeak squeak!~",
         "pt-BR": "Quá Quá!~",
         "es-ES": "¡Cuac Cuac!~"
     },
     "gg8bDA": {
-        "ko-KR": "[{0}]\n꽉꽉~ 꽥~!",
         "en-US": "[{0}]\nSqueak squeak~ Quack~!",
         "pt-BR": "[{0}]\nQuá Quá~ Quá~!",
         "es-ES": "[{0}]\n¡Cuac Cuac~ Cuac~!"
     },
     "gw8bDA": {
-        "ko-KR": "꽉꽉~ 꽥~!",
         "en-US": "Squeak squeak~ Quack~!",
         "pt-BR": "Quá Quá~ Quá~!",
         "es-ES": "¡Cuac Cuac~ Cuac~!"
     },
     "hA8bDA": {
-        "ko-KR": "[바르문트]\n그래 너한테라도 도움을 청해야겠다. 지금부터 내가 하는 말을 잘 듣도록 해라",
         "en-US": "[Varmunt]\nAlright, I'll have to ask for your help then. Listen carefully to what I say from now on.",
         "pt-BR": "[Varmunt]\nCerto, terei que pedir sua ajuda então. Ouça com atenção.",
         "es-ES": "[Varmunt]\nEstá bien, tendré que pedir tu ayuda entonces. Escucha con atención lo que digo a partir de ahora."
     },
     "hQ8bDA": {
-        "ko-KR": "바르문트: 그래 너한테라도 도움을 청해야겠다. 지금부터 내가 하는 말을 잘 듣도록 해라",
         "en-US": "Varmunt: Alright, I'll have to ask for your help then. Listen carefully to what I say from now on.",
         "pt-BR": "Varmunt: Certo, terei que pedir sua ajuda então. Ouça com atenção.",
         "es-ES": "Varmunt: Está bien, tendré que pedir tu ayuda entonces. Escucha con atención lo que digo a partir de ahora."
     },
     "hg8bDA": {
-        "ko-KR": "[바르문트]\n죽은자를 다스리는 이, 망자의 발키리. 그녀는 지금 이곳에 숨겨진 이미르의 심장을 취할 예정이야.",
         "en-US": "[Varmunt]\nThe Valkyrie of the Dead, the one who rules the deceased. She plans to take the hidden fragment of Ymir's Heart located here.",
         "pt-BR": "[Varmunt]\nA Valquíria dos Mortos, aquela que governa os falecidos, planeja pegar o fragmento do Coração de Ymir localizado aqui.",
         "es-ES": "[Varmunt]\nLa Valquiria de los Muertos, la que gobierna a los difuntos. Ella planea tomar el fragmento del Corazón de Ymir que se encuentra aquí."
     },
     "hw8bDA": {
-        "ko-KR": "바르문트: 죽은자를 다스리는 이, 망자의 발키리. 그녀는 지금 이곳에 숨겨진 이미르의 심장을 취할 예정이야.",
         "en-US": "Varmunt: The Valkyrie of the Dead, the one who rules the deceased. She plans to take the hidden fragment of Ymir's Heart located here.",
         "pt-BR": "Varmunt: A Valquíria dos Mortos, aquela que governa os falecidos, planeja pegar o fragmento do Coração de Ymir localizado aqui.",
         "es-ES": "Varmunt: La Valquiria de los Muertos, la que gobierna a los difuntos. Ella planea tomar el fragmento del Corazón de Ymir que se encuentra aquí."
     },
     "iA8bDA": {
-        "ko-KR": "[바르문트]\n아마도 목적을 위해서라면 이 성 전체를 초토화 시킬지도 모르지.",
         "en-US": "[Varmunt]\nFor her goal, she might even reduce this entire castle to ruins.",
         "pt-BR": "[Varmunt]\nEla pode até reduzir todo este castelo a ruínas.",
         "es-ES": "[Varmunt]\nPara su objetivo, podría reducir todo este castillo a ruinas."
     },
     "iQ8bDA": {
-        "ko-KR": "바르문트: 아마도 목적을 위해서라면 이 성 전체를 초토화 시킬지도 모르네.",
         "en-US": "Varmunt: For her goal, she might even reduce this entire castle to ruins.",
         "pt-BR": "Varmunt: Ela pode até reduzir todo este castelo a ruínas.",
         "es-ES": "Varmunt: Para su objetivo, podría reducir todo este castillo a ruinas."
     },
     "ig8bDA": {
-        "ko-KR": "[바르문트]\n서둘러! 어서 하인리히경에게 가서 히멜메즈에 대해 알려라 능력껏!!. 난 잠시 이곳의 결계를 살펴볼 것이다!",
         "en-US": "[Varmunt]\nHurry! Go to Sir Heinrich and inform him about Himmelmez as best you can!! I will examine the barrier here for a moment!",
         "pt-BR": "[Varmunt]\nRápido! Vá até o Sir Heinrich e informe-o sobre Himmelmez!!",
         "es-ES": "[Varmunt]\n¡Rápido! ¡Ve con el Sir Heinrich e infórmale sobre Himmelmez lo mejor que puedas! ¡Yo examinaré la barrera aquí por un momento!"
     },
     "iw8bDA": {
-        "ko-KR": "바르문트: 서둘러! 어서 하인리히경에게 가서 히멜메즈에 대해 알려라 능력껏!! . 난 잠시 이곳의 결계를 살펴볼 것이다!",
         "en-US": "Varmunt: Hurry! Go to Sir Heinrich and inform him about Himmelmez as best you can!! I will examine the barrier here for a moment!",
         "pt-BR": "Varmunt: Rápido! Vá até o Sir Heinrich e informe-o sobre Himmelmez!!",
         "es-ES": "Varmunt: ¡Rápido! ¡Ve con el Sir Heinrich e infórmale sobre Himmelmez lo mejor que puedas! ¡Yo examinaré la barrera aquí por un momento!"
     },
     "jA8bDA": {
-        "ko-KR": "하인리히",
         "en-US": "Heinrich",
         "pt-BR": "Heinrich",
         "es-ES": "Heinrich"
     },
     "jQ8bDA": {
-        "ko-KR": "[하인리히]\n페코페코?... 하아?",
         "en-US": "[Heinrich]\nA Peco Peco?... Huh?",
         "pt-BR": "[Heinrich]\nMandaram uma Cacatua... Isso é alguma piada?",
         "es-ES": "[Heinrich]\n¿Un Peco Peco?... ¿Eh?"
     },
     "jg8bDA": {
-        "ko-KR": "꽉꽉꽉!!!",
         "en-US": "Squeak squeak squeak!!!",
         "pt-BR": "Quá Quá Quá!!!",
         "es-ES": "¡Cuac Cuac Cuac!!!"
     },
     "jw8bDA": {
-        "ko-KR": "[{0}]\n꽉꽉꽉!!!",
         "en-US": "[{0}]\nSqueak squeak squeak!!!",
         "pt-BR": "[{0}]\nQuá Quá Quá!!!",
         "es-ES": "[{0}]\n¡Cuac Cuac Cuac!!!"
     },
     "kA8bDA": {
-        "ko-KR": "꽉꽉꽉!!!",
         "en-US": "Squeak squeak squeak!!!",
         "pt-BR": "Quá Quá Quá!!!",
         "es-ES": "¡Cuac Cuac Cuac!!!"
     },
     "kQ8bDA": {
-        "ko-KR": "[하인리히]\n성 안에 왠 페코페코가 돌아다니는거지?",
         "en-US": "[Heinrich]\nWhy is a Peco Peco roaming inside the castle?",
         "pt-BR": "[Heinrich]\nPor que há um PecoPeco vagando dentro do castelo?",
         "es-ES": "[Heinrich]\n¿Por qué hay un Peco Peco deambulando dentro del castillo?"
     },
     "kg8bDA": {
-        "ko-KR": "하인리히: 성 안에 왠 페코페코가 돌아다니는거지?",
         "en-US": "Heinrich: Why is a Peco Peco roaming inside the castle?",
         "pt-BR": "Heinrich: Por que há um PecoPeco vagando dentro do castelo?",
         "es-ES": "Heinrich: ¿Por qué hay un Peco Peco deambulando dentro del castillo?"
     },
     "kw8bDA": {
-        "ko-KR": "[하인리히]\n경비병!! 경비병!! 저 동물을 성 안에서 빨리 치워버리도록 하게!",
         "en-US": "[Heinrich]\nGuards!! Guards!! Remove that animal from the castle immediately!",
         "pt-BR": "[Heinrich]\nGuardas!! Removam esse animal do castelo imediatamente!",
         "es-ES": "[Heinrich]\n¡Guardias!! ¡Guardias!! ¡Saquen a ese animal del castillo inmediatamente!"
     },
     "lA8bDA": {
-        "ko-KR": "하인리히: 경비병!! 경비병!! 저 동물을 성 안에서 빨리 치워버리도록 하게!",
         "en-US": "Heinrich: Guards!! Guards!! Remove that animal from the castle immediately!",
         "pt-BR": "Heinrich: Guardas!! Removam esse animal do castelo imediatamente!",
         "es-ES": "Heinrich: ¡Guardias!! ¡Guardias!! ¡Saquen a ese animal del castillo inmediatamente!"
     },
     "lQ8bDA": {
-        "ko-KR": "(혼신의 힘을 다해 텔레파시를 쏘아보낸다)",
         "en-US": "(Focuses all mental energy to send a telepathic message)",
         "pt-BR": "*Você foca toda a energia mental para enviar uma mensagem telepática*",
         "es-ES": "(Enfoca toda tu energía mental para enviar un mensaje telepático)"
     },
     "lg8bDA": {
-        "ko-KR": "[{0}]\n(하인리히여... 저는 당신의 앞에 서있는 페코페코이자 이 평행세계 밖을 수호하는 자.)",
         "en-US": "[{0}]\n(Heinrich... I am the Peco Peco standing before you, the guardian from outside this parallel world.)",
         "pt-BR": "[{0}]\n(Heinrich... Eu sou o PecoPeco diante de você.)",
         "es-ES": "[{0}]\n(Heinrich... Soy el Peco Peco que está ante ti, el guardián de fuera de este mundo paralelo.)"
     },
     "lw8bDA": {
-        "ko-KR": "(하인리히여... 저는 당신의 앞에 서있는 페코페코이자 이 평행세계 밖을 수호하는 자.)",
         "en-US": "(Heinrich... I am the Peco Peco standing before you, the guardian from outside this parallel world.)",
         "pt-BR": "(Heinrich... Eu sou o PecoPeco diante de você.)",
         "es-ES": "(Heinrich... Soy el Peco Peco que está ante ti, el guardián de fuera de este mundo paralelo.)"
     },
     "mA8bDA": {
-        "ko-KR": "[{0}]\n(망자의 발키리 히멜메즈가 이 성안에 숨겨진 이미르의 심장 조각을 노리고 있습니다.)",
         "en-US": "[{0}]\n(The Valkyrie of the Dead, Himmelmez, is after the fragment of Ymir's Heart hidden within this castle.)",
         "pt-BR": "[{0}]\n(A Valquíria dos Mortos, Himmelmez, está atrás do fragmento do Coração de Ymir escondido dentro deste castelo.)",
         "es-ES": "[{0}]\n(La Valquiria de los Muertos, Himmelmez, está tras el fragmento del Corazón de Ymir oculto dentro de este castillo.)"
     },
     "mQ8bDA": {
-        "ko-KR": "(망자의 발키리 히멜메즈가 이 성안에 숨겨진 이미르의 심장 조각을 노리고 있습니다.)",
         "en-US": "(The Valkyrie of the Dead, Himmelmez, is after the fragment of Ymir's Heart hidden within this castle.)",
         "pt-BR": "(A Valquíria dos Mortos, Himmelmez, está atrás do fragmento do Coração de Ymir escondido dentro deste castelo.)",
         "es-ES": "(La Valquiria de los Muertos, Himmelmez, está tras el fragmento del Corazón de Ymir oculto dentro de este castillo.)"
     },
     "mg8bDA": {
-        "ko-KR": "[하인리히]\n어딘가로 부터 맘속으로 의지가 흘러들어온다! 설마 내 눈앞의 페코페코가? 하하하하하! 내 몸 상태가 허약해진 모양이군.",
         "en-US": "[Heinrich]\nA will is flowing into my mind from somewhere! Could it be from the Peco Peco in front of me? Hahahahaha! My physical condition must be weakening.",
         "pt-BR": "[Heinrich]\nEstou ouvindo vozes! Será que é do PecoPeco na minha frente? Hahahahaha! Eu devo ter enchido a cara de Sograt Tropical.",
         "es-ES": "[Heinrich]\n¡Una voluntad fluye hacia mi mente desde algún lugar! ¿Podría ser del Peco Peco frente a mí? ¡Jajajajaja! Mi condición física debe estar debilitándose."
     },
     "mw8bDA": {
-        "ko-KR": "하인리히: 어딘가로 부터 맘속으로 의지가 흘러들어온다! 설마 내 눈앞의 페코페코가? 하하하하하! 내 몸 상태가 허약해진 모양이군.",
         "en-US": "Heinrich: A will is flowing into my mind from somewhere! Could it be from the Peco Peco in front of me? Hahahahaha! My physical condition must be weakening.",
         "pt-BR": "Heinrich: Estou ouvindo vozes! Será que é do PecoPeco na minha frente? Hahahahaha! Eu devo ter enchido a cara de Sograt Tropical.",
         "es-ES": "Heinrich: ¡Una voluntad fluye hacia mi mente desde algún lugar! ¿Podría ser del Peco Peco frente a mí? ¡Jajajajaja! Mi condición física debe estar debilitándose."
     },
     "nA8bDA": {
-        "ko-KR": "[바르문트]\n농담이 아니오 하인리히경. 내 판단이 정확하다면 이제 곧 그녀가 이곳으로 찾아올 것이오",
         "en-US": "[Varmunt]\nThis is no joke, Sir Heinrich. If my judgment is correct, she will come here soon.",
         "pt-BR": "[Varmunt]\nIsto não é brincadeira, Sir Heinrich. Se eu estiver correto, ela virá aqui em breve.",
         "es-ES": "[Varmunt]\nNo es broma, Sir Heinrich. Si mi juicio es correcto, ella vendrá aquí pronto."
     },
     "nQ8bDA": {
-        "ko-KR": "바르문트: 농담이 아니오 하인리히경. 내 판단이 정확하다면 이제 곧 그녀가 이곳으로 찾아올 것이오",
         "en-US": "Varmunt: This is no joke, Sir Heinrich. If my judgment is correct, she will come here soon.",
         "pt-BR": "Varmunt: Isto não é brincadeira, Sir Heinrich. Se eu estiver correto, ela virá aqui em breve.",
         "es-ES": "Varmunt: No es broma, Sir Heinrich. Si mi juicio es correcto, ella vendrá aquí pronto."
     },
     "ng8bDA": {
-        "ko-KR": "[바르문트]\n날 따라온 이.... 페코페코. 음. 뭐 어쨌든 믿어도 좋소. 히멜메즈가 이곳의 이미르 심장조각을 탈취하기 전에 안전한 곳으로 숨겨야 하오!",
         "en-US": "[Varmunt]\nThis... Peco Peco that followed me. Hmm. Well, anyway, you can trust it. We must hide the Ymir Heart fragment in a safe place before Himmelmez steals it!",
         "pt-BR": "[Varmunt]\nNão sei explicar, mas... esse Papagaio é de confiança. Devemos esconder o fragmento do Coração de Ymir em um lugar seguro antes que Himmelmez o roube!",
         "es-ES": "[Varmunt]\nEste... Peco Peco que me siguió. Mmm. Bueno, en fin, puedes confiar en él. ¡Debemos esconder el fragmento del Corazón de Ymir en un lugar seguro antes de que Himmelmez lo robe!"
     },
     "nw8bDA": {
-        "ko-KR": "바르문트: 날 따라온 이.... 페코페코. 음. 뭐 어쨌든 믿어도 좋소. 히멜메즈가 이곳의 이미르 심장조각을 탈취하기 전에 안전한 곳으로 숨겨야 하오!",
         "en-US": "Varmunt: This... Peco Peco that followed me. Hmm. Well, anyway, you can trust it. We must hide the Ymir Heart fragment in a safe place before Himmelmez steals it!",
         "pt-BR": "Varmunt: Não sei explicar, mas... esse Papagaio é de confiança. Devemos esconder o fragmento do Coração de Ymir em um lugar seguro antes que Himmelmez o roube!",
         "es-ES": "Varmunt: Este... Peco Peco que me siguió. Mmm. Bueno, en fin, puedes confiar en él. ¡Debemos esconder el fragmento del Corazón de Ymir en un lugar seguro antes de que Himmelmez lo robe!"
     },
     "oA8bDA": {
-        "ko-KR": "꽉꽉!!!",
         "en-US": "Squeak squeak!!!",
         "pt-BR": "Quá Quá!!!",
         "es-ES": "¡Cuac Cuac!!!"
     },
     "oQ8bDA": {
-        "ko-KR": "[{0}]\n꽉꽉!!!! 꽉꽉꽉!!!!",
         "en-US": "[{0}]\nSqueak squeak!!!! Squeak squeak squeak!!!!",
         "pt-BR": "[{0}]\nQuá Quá!!!! Quá Quá Quá!!!!",
         "es-ES": "[{0}]\n¡Cuac Cuac!!!! ¡Cuac Cuac Cuac!!!!"
     },
     "og8bDA": {
-        "ko-KR": "꽉꽉!!!! 꽉꽉꽉!!!!",
         "en-US": "Squeak squeak!!!! Squeak squeak squeak!!!!",
         "pt-BR": "Quá Quá!!!! Quá Quá Quá!!!!",
         "es-ES": "¡Cuac Cuac!!!! ¡Cuac Cuac Cuac!!!!"
     },
     "ow8bDA": {
-        "ko-KR": "[하인리히]\n호의는 고맙군요. 하지만 지금 저희의 국왕께선 먼곳으로 떠나 계십니다.",
         "en-US": "[Heinrich]\nI appreciate the goodwill. But our King is currently away on a long journey.",
         "pt-BR": "[Heinrich]\nAgradeço a boa vontade. Mas nosso Rei está atualmente em uma longa jornada.",
         "es-ES": "[Heinrich]\nAgradezco la buena voluntad. Pero nuestro Rey está actualmente en un largo viaje."
     },
     "pA8bDA": {
-        "ko-KR": "하인리히: 호의는 고맙군요. 하지만 지금 저희의 국왕께선 먼곳으로 떠나 계십니다.",
         "en-US": "Heinrich: I appreciate the goodwill. But our King is currently away on a long journey.",
         "pt-BR": "Heinrich: Agradeço a boa vontade. Mas nosso Rei está atualmente em uma longa jornada.",
         "es-ES": "Heinrich: Agradezco la buena voluntad. Pero nuestro Rey está actualmente en un largo viaje."
     },
     "pQ8bDA": {
-        "ko-KR": "[하인리히]\n단지 추측만으로 그런 중요한 안건을 마음대로 처리 할 수는 없습니다.",
         "en-US": "[Heinrich]\nI cannot handle such an important matter based solely on speculation.",
         "pt-BR": "[Heinrich]\nNão posso lidar com um assunto tão importante baseado apenas em especulações.",
         "es-ES": "[Heinrich]\nNo puedo manejar un asunto tan importante basándome únicamente en especulaciones."
     },
     "pg8bDA": {
-        "ko-KR": "하인리히: 단지 추측만으로 그런 중요한 안건을 마음대로 처리 할 수는 없습니다.",
         "en-US": "Heinrich: I cannot handle such an important matter based solely on speculation.",
         "pt-BR": "Heinrich: Não posso lidar com um assunto tão importante baseado apenas em especulações.",
         "es-ES": "Heinrich: No puedo manejar un asunto tan importante basándome únicamente en especulaciones."
     },
     "pw8bDA": {
-        "ko-KR": "????의 외침: 오호호호호~!",
         "en-US": "????'s Shout: Ohohohohoho~!",
         "pt-BR": "Grito Afeminado: AAAAin~!",
         "es-ES": "Grito de ???: ¡Ohohohohoho~!"
     },
     "qA8bDA": {
-        "ko-KR": "히멜메즈",
         "en-US": "Himmelmez",
         "pt-BR": "Himmelmez",
         "es-ES": "Himmelmez"
     },
     "qQ8bDA": {
-        "ko-KR": "하인리히: 누구냐!.",
         "en-US": "Heinrich: Who's there!.",
         "pt-BR": "Heinrich: De quem é essa voz?!",
         "es-ES": "Heinrich: ¡Quién está ahí!"
     },
     "qg8bDA": {
-        "ko-KR": "바르문트: 하인리히경, 이곳은 원래의 세계와는 다른 성격의 세계이니 대사를 과감히 줄여야 할 것이오.",
         "en-US": "Varmunt: Sir Heinrich, this is a world different from our original one, so we should boldly cut down on the dialogue.",
         "pt-BR": "Varmunt: Ah mano, sem tempo irmão.",
         "es-ES": "Varmunt: Señor Heinrich, este es un mundo diferente al nuestro, así que deberíamos reducir drásticamente el diálogo."
     },
     "qw8bDA": {
-        "ko-KR": "히멜메즈: 자...잠깐! 이제 막 등장했는데!!",
         "en-US": "Himmelmez: W...Wait! I just made my entrance!!",
         "pt-BR": "Himmelmez: Ei...! Acabei de fazer minha entrada!!",
         "es-ES": "Himmelmez: ¡E...Espera! ¡Acabo de hacer mi entrada!"
     },
     "rA8bDA": {
-        "ko-KR": "하인리히: 음, 알겠소 바로 정리하고 넘어가도록 합시다.",
         "en-US": "Heinrich: Hmm, understood. Let's wrap this up and move on quickly.",
         "pt-BR": "Heinrich: Tá certo, a gente se apresenta em outra instância.",
         "es-ES": "Heinrich: De acuerdo, nos presentamos en otra mazmorra."
     },
     "rQ8bDA": {
-        "ko-KR": "하인리히:이런 제길! 그녀가 이미르의 심장조각이 담긴 위치를 간파하고 있었군.",
         "en-US": "Heinrich: Dammit! She has already pinpointed the location of the Ymir Heart fragment.",
         "pt-BR": "Heinrich: Droga! Ela já localizou a posição do fragmento do Coração de Ymir.",
         "es-ES": "Heinrich: ¡Maldición! Ella ya ha localizado la posición del fragmento del Corazón de Ymir."
     },
     "rg8bDA": {
-        "ko-KR": "히멜메즈: 아예 없는 사람 취급하기냐!!",
         "en-US": "Himmelmez: Are you completely ignoring me!!",
         "pt-BR": "Himmelmez: Gente, vocês têm que seguir o roteiro!!",
         "es-ES": "Himmelmez: ¡¿Me estás ignorando por completo?!"
     },
     "rw8bDA": {
-        "ko-KR": "하인리히: 칼리츠버그기사단과 백의의 기사단은 지금 즉시 나를 따라...",
         "en-US": "Heinrich: Khalitzburg Knights and the White Knights, follow me now...",
         "pt-BR": "Heinrich: Khalitzburgs e Cavaleiros Brancos, sigam-me agora...",
         "es-ES": "Heinrich: Caballeros de Khalitzburg y Caballeros Blancos, síganme ahora..."
     },
     "sA8bDA": {
-        "ko-KR": "칼리츠버그",
         "en-US": "Khalitzburg",
         "pt-BR": "Khalitzburg",
         "es-ES": "Khalitzburg"
     },
     "sQ8bDA": {
-        "ko-KR": "심연의기사",
         "en-US": "Abyssal Knight",
         "pt-BR": "Cavaleiro do Abismo",
         "es-ES": "Caballero Abisal"
     },
     "sg8bDA": {
-        "ko-KR": "삑---------",
         "en-US": "Beep--------",
         "pt-BR": "Beep--------",
         "es-ES": "Bip--------"
     },
     "sw8bDA": {
-        "ko-KR": "삐약~",
         "en-US": "Peep~",
         "pt-BR": "Piu~",
         "es-ES": "Pío~"
     },
     "tA8bDA": {
-        "ko-KR": "삑삑!",
         "en-US": "Beep beep!",
         "pt-BR": "Beep beep!",
         "es-ES": "¡Bip bip!"
     },
     "tQ8bDA": {
-        "ko-KR": "삑-",
         "en-US": "Beep-",
         "pt-BR": "Beep-",
         "es-ES": "Bip-"
     },
     "tg8bDA": {
-        "ko-KR": "삐빅!",
         "en-US": "Beep!",
         "pt-BR": "Beep!",
         "es-ES": "¡Bip!"
     },
     "tw8bDA": {
-        "ko-KR": "삑------",
         "en-US": "Beep------",
         "pt-BR": "Beep------",
         "es-ES": "Bip------"
     },
     "uA8bDA": {
-        "ko-KR": "삐약~.",
         "en-US": "Peep~.",
         "pt-BR": "Piu~.",
         "es-ES": "Pío~."
     },
     "uQ8bDA": {
-        "ko-KR": "삐이익~",
         "en-US": "Peeeek~",
         "pt-BR": "Piiiiu~",
         "es-ES": "Piiiiío~"
     },
     "ug8bDA": {
-        "ko-KR": "삐약~!",
         "en-US": "Peep~!",
         "pt-BR": "Piu~!",
         "es-ES": "¡Pío~!"
     },
     "uw8bDA": {
-        "ko-KR": "짹쨱!",
         "en-US": "Chirp chirp!",
         "pt-BR": "Piu piu!",
         "es-ES": "¡Pío pío!"
     },
     "vA8bDA": {
-        "ko-KR": "꽥꽥!",
         "en-US": "Quack quack!",
         "pt-BR": "Quá Quá!",
         "es-ES": "¡Cuac cuac!"
     },
     "vQ8bDA": {
-        "ko-KR": "바르문트: 이곳도 빠르게 진행해주시오 하인리히경. 히멜메즈 당신은 악역으로서 할 일이 있잖소. 빨리 가시오.",
         "en-US": "Varmunt: Let's proceed quickly here too, Sir Heinrich. Himmelmez, you have a role to play as the villain. Go quickly.",
         "pt-BR": "Varmunt: Vamos agilizar a história aqui também. Himmelmez, faz cara de vilã.",
         "es-ES": "Varmunt: Acelerémonos también aquí, Sir Heinrich. Himmelmez, tienes un papel que desempeñar como villana. Ve rápido."
     },
     "vg8bDA": {
-        "ko-KR": "하인리히: 그래도 여길 정리해야하지 않습니까.",
         "en-US": "Heinrich: But shouldn't we clean up here first?",
         "pt-BR": "Heinrich: Mas não deveríamos limpar isso primeiro?",
         "es-ES": "Heinrich: ¿Pero no deberíamos limpiar esto primero?"
     },
     "vw8bDA": {
-        "ko-KR": "바르문트: 하인리히경 시간이 오래 걸릴 것 같으니 내가 정리하겠소",
         "en-US": "Varmunt: Sir Heinrich, it seems it will take too long, so I'll handle it.",
         "pt-BR": "Varmunt: Sir Heinrich, parece que vai demorar muito, então eu cuido disso.",
         "es-ES": "Varmunt: Sir Heinrich, parece que tomará demasiado tiempo, así que yo me encargaré."
     },
     "wA8bDA": {
-        "ko-KR": "하인리히: 아니 그렇게 막 결정하시면....",
         "en-US": "Heinrich: No, if you decide so abruptly....",
         "pt-BR": "Heinrich: Bom, se você decidiu tão rápido assim...",
         "es-ES": "Heinrich: No, si lo decides tan abruptamente..."
     },
     "wQ8bDA": {
-        "ko-KR": "바르문트: 9서클 마법사의 메테오를 받아라!!",
         "en-US": "Varmunt: Taste the Meteor of a 9th Circle Mage!!",
         "pt-BR": "Varmunt: Experimentem o poder de um Mago com conjunto Éden completo!!",
         "es-ES": "Varmunt: ¡Experimenta el poder de un mago con el conjunto completo de Edén!"
     },
     "wg8bDA": {
-        "ko-KR": "하인리히:(가차없구만...)",
         "en-US": "Heinrich:(How ruthless...)",
         "pt-BR": "Heinrich: Céus...",
         "es-ES": "Heinrich: (Qué despiadado...)"
     },
     "ww8bDA": {
-        "ko-KR": "바르문트:음? 지금 뭔가 말씀 하신거요?",
         "en-US": "Varmunt:Hmm? Did you say something just now?",
         "pt-BR": "Varmunt: Hmm? Você disse algo?",
         "es-ES": "Varmunt: ¿Mmm? ¿Dijiste algo hace un momento?"
     },
     "xA8bDA": {
-        "ko-KR": "하인리히:아닙니다. 그보다 이제 어떻게 합니까.",
         "en-US": "Heinrich:No. More importantly, what do we do now?",
         "pt-BR": "Heinrich: Não. Mas o que fazemos agora?",
         "es-ES": "Heinrich: No. Más importante, ¿qué hacemos ahora?"
     },
     "xQ8bDA": {
-        "ko-KR": "바르문트:우린 곧장 히멜메즈의 뒤를 추격해야 할거요. 그리고 이 페코페코... 이친구는...",
         "en-US": "Varmunt:We should immediately pursue Himmelmez. And this Peco Peco... this one here...",
         "pt-BR": "Varmunt: Devemos achar Himmelmez. Nós e essa... galinha...",
         "es-ES": "Varmunt: Debemos perseguir a Himmelmez inmediatamente. Y este Peco Peco... este de aquí..."
     },
     "xg8bDA": {
-        "ko-KR": "하인리히:음 그래 페코페코 너에겐 할 일이 있다. 이 주변을 돌아다니며 생존자를 찾도록 해라.",
         "en-US": "Heinrich:Hmm, right. Peco Peco, I have a task for you. Roam around this area and look for survivors.",
         "pt-BR": "Heinrich: Hmm, certo. PecoPeco, tenho uma tarefa para você. Procure por sobreviventes.",
         "es-ES": "Heinrich: Mmm, cierto. Peco Peco, tengo una tarea para ti. Deambula por esta área y busca sobrevivientes."
     },
     "xw8bDA": {
-        "ko-KR": "하인리히:그럼 바르문트님 서둘러 히멜메즈의 뒤를 쫓읍시다.",
         "en-US": "Heinrich:Then, Lord Varmunt, let's quickly chase after Himmelmez.",
         "pt-BR": "Heinrich: Então, Lorde Varmunt, vamos procurar Himmelmez rapidamente.",
         "es-ES": "Heinrich: Entonces, Lord Varmunt, persigamos rápidamente a Himmelmez."
     },
     "yA8bDA": {
-        "ko-KR": "9시 방향 2구역으로 통하는 출구가 열렸습니다.",
         "en-US": "The exit leading to Area 2 at the 9 o'clock direction has opened.",
         "pt-BR": "A saída para a Área 2 foi aberta.",
         "es-ES": "La salida hacia el Área 2 se ha abierto."
     },
     "yQ8bDA": {
-        "ko-KR": "부패한 집사#{0}",
         "en-US": "Corrupted Butler#{0}",
         "pt-BR": "Mordomo Sofrido#{0}",
         "es-ES": "Mayordomo Corrupto#{0}"
     },
     "yg8bDA": {
-        "ko-KR": "타락한 수도사#{0}",
         "en-US": "Fallen Monk#{0}",
         "pt-BR": "Monge Sofrido#{0}",
         "es-ES": "Monje Caído#{0}"
     },
     "yw8bDA": {
-        "ko-KR": "고통받는 시종장#{0}",
         "en-US": "Suffering Head Servant#{0}",
         "pt-BR": "Serviçal Sofrido#{0}",
         "es-ES": "Jefe de Servicio Sufriente#{0}"
     },
     "zA8bDA": {
-        "ko-KR": "히멜메즈의 마력에서 벗어난 듯 죽은자들이 소멸해 갑니다.",
         "en-US": "The dead, seemingly freed from Himmelmez's magic, are beginning to vanish.",
         "pt-BR": "Os mortos morreram.",
         "es-ES": "Los muertos, aparentemente liberados de la magia de Himmelmez, comienzan a desvanecerse."
     },
     "zQ8bDA": {
-        "ko-KR": "복사지망생 도문",
         "en-US": "Acolyte Aspirant Domon",
         "pt-BR": "Coroinha Domon",
         "es-ES": "Aspirante a Clérigo Domon"
     },
     "zg8bDA": {
-        "ko-KR": "[복사지망생 도문]\n으아아! 괴물이다!!",
         "en-US": "[Acolyte Aspirant Domon]\nWaaaah! A monster!!",
         "pt-BR": "[Coroinha Domon]\nAAAARGH! Um piriquito!!",
         "es-ES": "[Aspirante a Clérigo Domon]\n¡Buaaaah! ¡¡Un monstruo!!"
     },
     "zw8bDA": {
-        "ko-KR": "으아아 괴물이다!!",
         "en-US": "Waaaah a monster!!",
         "pt-BR": "AAAARGH! Um piriquito!!",
         "es-ES": "¡Buaaaah un monstruo!!"
     },
     "0A8bDA": {
-        "ko-KR": "이봐 정신차려! 생존자는 너 혼자인가?",
         "en-US": "Hey, snap out of it! Are you the only survivor?",
         "pt-BR": "Você é o único sobrevivente?",
         "es-ES": "¡Oye, reacciona! ¿Eres el único sobreviviente?"
     },
     "0Q8bDA": {
-        "ko-KR": "[{0}]\n이봐 정신차려! 생존자는 너 혼자인가?",
         "en-US": "[{0}]\nHey, snap out of it! Are you the only survivor?",
         "pt-BR": "[{0}]\nVocê é o único sobrevivente?",
         "es-ES": "[{0}]\n¡Oye, reacciona! ¿Eres el único sobreviviente?"
     },
     "0g8bDA": {
-        "ko-KR": "이봐 정신차려! 생존자는 너 혼자인가?",
         "en-US": "Hey, snap out of it! Are you the only survivor?",
         "pt-BR": "Você é o único sobrevivente?",
         "es-ES": "¡Oye, reacciona! ¿Eres el único sobreviviente?"
     },
     "0w8bDA": {
-        "ko-KR": "[복사지망생 도문]\n괴물이 ... 말을 하고 있어!?...",
         "en-US": "[Acolyte Aspirant Domon]\nThe monster ... is talking!?...",
         "pt-BR": "[Coroinha Domon]\nO quê... VOCÊ FALA!?...",
         "es-ES": "[Aspirante a Clérigo Domon]\n¿El monstruo... está hablando?..."
     },
     "1A8bDA": {
-        "ko-KR": "복사지망생 도문: 괴물이 ... 말을 하고 있어!?...",
         "en-US": "Acolyte Aspirant Domon: The monster ... is talking!?...",
         "pt-BR": "Coroinha Domon: O quê... VOCÊ FALA!?...",
         "es-ES": "Aspirante a Clérigo Domon: ¿El monstruo... está hablando?..."
     },
     "1Q8bDA": {
-        "ko-KR": "정신차려!",
         "en-US": "Snap out of it!",
         "pt-BR": "Me escuta!",
         "es-ES": "¡Reacciona!"
     },
     "1g8bDA": {
-        "ko-KR": "[{0}]\n난 괴물이 아니다! 동쪽으로 나가서 중앙 통로를 따라 바깥으로 나가거라! 그 경로는 안전해!",
         "en-US": "[{0}]\nI'm not a monster! Head east and follow the central passage to get outside! That path is safe!",
         "pt-BR": "[{0}]\nVou te ajudar a sair daqui: Vá para o leste, siga a passagem central, dobre à direita, depois à esquerda e depois à direita novamente, após a rotatória! Esse caminho é seguro!",
         "es-ES": "[{0}]\n¡No soy un monstruo! ¡Ve al este y sigue el pasaje central para salir! ¡Ese camino es seguro!"
     },
     "1w8bDA": {
-        "ko-KR": "난 괴물이 아니다! 동쪽으로 나가서 중앙 통로를 따라 바깥으로 나가거라! 그 경로는 안전해!",
         "en-US": "I'm not a monster! Head east and follow the central passage to get outside! That path is safe!",
         "pt-BR": "Vou te ajudar a sair daqui: Vá para o leste, siga a passagem central, dobre à direita, depois à esquerda e depois à direita novamente, após a rotatória! Esse caminho é seguro!",
         "es-ES": "¡No soy un monstruo! ¡Ve al este y sigue el pasaje central para salir! ¡Ese camino es seguro!"
     },
     "2A8bDA": {
-        "ko-KR": "[복사지망생 도문]\n동쪽 통로로요? 하지만 난 복사 지망생이라 싸울줄도 모르는데...",
         "en-US": "[Acolyte Aspirant Domon]\nThe east passage? But I'm an acolyte aspirant, I don't even know how to fight...",
         "pt-BR": "[Coroinha Domon]\nPeraí, eu me perdi nas instruções...",
         "es-ES": "[Aspirante a Clérigo Domon]\nEspera, me perdí en las instrucciones..."
     },
     "2Q8bDA": {
-        "ko-KR": "복사지망생 도문: 동쪽 통로로요? 하지만 난 복사 지망생이라 싸울줄도 모르는데...",
         "en-US": "Acolyte Aspirant Domon: The east passage? But I'm an acolyte aspirant, I don't even know how to fight...",
         "pt-BR": "Coroinha Domon: Peraí, eu me perdi nas instruções...",
         "es-ES": "Aspirante a Clérigo Domon: Espera, me perdí en las instrucciones..."
     },
     "2g8bDA": {
-        "ko-KR": "내 발톱을 몇개 주도록 하지",
         "en-US": "I'll give you a few of my claws",
         "pt-BR": "É bem simples...",
         "es-ES": "Es muy sencillo..."
     },
     "2w8bDA": {
-        "ko-KR": "[{0}]\n내 발톱을 몇개 주도록 하지, 이걸로 치고 베면 된단다. 보기엔 좀 그래도 위력은 끝내줄거야.",
         "en-US": "[{0}]\nI'll give you a few of my claws. Just hit and slash with them. They might look a bit strange but their power is incredible.",
         "pt-BR": "[{0}]\nÉ bem simples... É só usar o sistema de navegação!",
         "es-ES": "[{0}]\nEs muy sencillo... ¡Solo usa el sistema de navegación!"
     },
     "3A8bDA": {
-        "ko-KR": "내 발톱을 몇개 주도록 하지, 이걸로 치고 베면 된단다. 보기엔 좀 그래도 위력은 끝내줄거야.",
         "en-US": "I'll give you a few of my claws. Just hit and slash with them. They might look a bit strange but their power is incredible.",
         "pt-BR": "É bem simples... É só usar o sistema de navegação!",
         "es-ES": "Es muy sencillo... ¡Solo usa el sistema de navegación!"
     },
     "3Q8bDA": {
-        "ko-KR": "[복사지망생 도문]\n까짓거 해보죠!",
         "en-US": "[Acolyte Aspirant Domon]\nWhat the heck, I'll do it!",
         "pt-BR": "[Coroinha Domon]\nBeleza, vou usar!",
         "es-ES": "[Aspirante a Clérigo Domon]\n¡De acuerdo, lo usaré!"
     },
     "3g8bDA": {
-        "ko-KR": "복사지망생 도문: 까짓거 해보죠!",
         "en-US": "Acolyte Aspirant Domon: What the heck, I'll do it!",
         "pt-BR": "Coroinha Domon: Beleza, vou usar!",
         "es-ES": "Aspirante a Clérigo Domon: ¡De acuerdo, lo usaré!"
     },
     "3w8bDA": {
-        "ko-KR": "3시 방향 3구역으로 통하는 출구가 열렸습니다.",
         "en-US": "The exit leading to Area 3 at the 3 o'clock direction has opened.",
         "pt-BR": "A saída para a Área 3 foi aberta.",
         "es-ES": "La salida hacia el Área 3 se ha abierto."
     },
     "4A8bDA": {
-        "ko-KR": "숨이멎은 남자",
         "en-US": "Lifeless Man",
         "pt-BR": "Morto Sem Vida",
         "es-ES": "Hombre Sin Vida"
     },
     "4Q8bDA": {
-        "ko-KR": "구더기#{0}",
         "en-US": "Grub#{0}",
         "pt-BR": "Larva#{0}",
         "es-ES": "Gusano#{0}"
     },
     "4g8bDA": {
-        "ko-KR": "썩어가는 대장장이#{0}",
         "en-US": "Rotting Blacksmith#{0}",
         "pt-BR": "Ferreira Apodrecida#{0}",
         "es-ES": "Herrero Pútrido#{0}"
     },
     "4w8bDA": {
-        "ko-KR": "흉폭해진 제련장인#{0}",
         "en-US": "Enraged Smelter#{0}",
         "pt-BR": "Ferreira Enfurecida#{0}",
         "es-ES": "Fundidor Furioso#{0}"
     },
     "5A8bDA": {
-        "ko-KR": "홀그렌 디스트로이어",
         "en-US": "Holgren Destroyer",
         "pt-BR": "Senhora Holgren",
         "es-ES": "Destructora Holgren"
     },
     "5Q8bDA": {
-        "ko-KR": "[홀그렌 디스트로이어]\n이야압!! 죽어라!!! 괴물!",
         "en-US": "[Holgren Destroyer]\nYahhh!! Die!!! Monster!",
         "pt-BR": "[Senhora Holgren]\nAiiii!! Morra!!! Monstro!",
         "es-ES": "[Destructora Holgren]\n¡¡Yahhh!! ¡¡¡Muere!!! ¡Monstruo!"
     },
     "5g8bDA": {
-        "ko-KR": "홀그렌 디스트로이어: 이야압!! 죽어라!!! 괴물!",
         "en-US": "Holgren Destroyer: Yahhh!! Die!!! Monster!",
         "pt-BR": "Senhora Holgren: Aiiii!! Morra!!! Monstro!",
         "es-ES": "Destructora Holgren: ¡¡Yahhh!! ¡¡¡Muere!!! ¡Monstruo!"
     },
     "5w8bDA": {
-        "ko-KR": "[홀그렌 디스트로이어]\n뭐야!? 말을 하는 동물인거야?",
         "en-US": "[Holgren Destroyer]\nWhat!? It's a talking animal?",
         "pt-BR": "[Senhora Holgren]\nO quê!? É uma Cacatua falante?",
         "es-ES": "[Destructora Holgren]\n¿¡Qué!? ¿Es un animal que habla?"
     },
     "6A8bDA": {
-        "ko-KR": "안심하세요!",
         "en-US": "Be at ease!",
         "pt-BR": "Acalme-se!",
         "es-ES": "¡Tranquilo!"
     },
     "6Q8bDA": {
-        "ko-KR": "[{0}]\n안심하세요! 사람입니다. 혼자십니까? 다른 생존자는 없어요?",
         "en-US": "[{0}]\nBe at ease! I am human. Are you alone? Are there no other survivors?",
         "pt-BR": "[{0}]\nAcalme-se! Sou da paz. Você está sozinha? Não há outros sobreviventes?",
         "es-ES": "[{0}]\n¡Tranquilo! Soy humano. ¿Estás sola? ¿No hay otros sobrevivientes?"
     },
     "6g8bDA": {
-        "ko-KR": "안심하세요! 사람입니다. 혼자십니까? 다른 생존자는 없어요?",
         "en-US": "Be at ease! I am human. Are you alone? Are there no other survivors?",
         "pt-BR": "Acalme-se! Sou da paz. Você está sozinha? Não há outros sobreviventes?",
         "es-ES": "¡Tranquilo! Soy humano. ¿Estás sola? ¿No hay otros sobrevivientes?"
     },
     "6w8bDA": {
-        "ko-KR": "[홀그렌 디스트로이어]\n사람인데 왜 페코페코의 형상이죠? 어쨌건 이곳의 생존자는 저 혼자예요",
         "en-US": "[Holgren Destroyer]\nHuman? Then why do you look like a Peco Peco? Anyway, I'm the only survivor here.",
         "pt-BR": "[Senhora Holgren]\nPor que você parece um PecoPeco? Enfim, sou a única sobrevivente aqui.",
         "es-ES": "[Destructora Holgren]\n¿Humano? ¿Entonces por qué tienes forma de Peco Peco? En fin, soy la única sobreviviente aquí."
     },
     "7A8bDA": {
-        "ko-KR": "홀그렌 디스트로이어: 사람인데 왜 페코페코의 형상이죠? 어쨌건 이곳의 생존자는 저 혼자예요",
         "en-US": "Holgren Destroyer: Human? Then why do you look like a Peco Peco? Anyway, I'm the only survivor here.",
         "pt-BR": "Senhora Holgren: Por que você parece um PecoPeco? Enfim, sou a única sobrevivente aqui.",
         "es-ES": "Destructora Holgren: ¿Humano? ¿Entonces por qué tienes forma de Peco Peco? En fin, soy la única sobreviviente aquí."
     },
     "7Q8bDA": {
-        "ko-KR": "여긴 위험합니다",
         "en-US": "It's dangerous here",
         "pt-BR": "Aqui é muito perigoso!",
         "es-ES": "Es peligroso aquí"
     },
     "7g8bDA": {
-        "ko-KR": "[{0}]\n여긴 위험합니다. 중앙 통로로 가는길은 아시죠? 홀몸이 아닌것 같은데... 움직일 수 있겠습니까?",
         "en-US": "[{0}]\nIt's dangerous here. Do you know the way to the central passage? It seems you are not alone... Can you move?",
         "pt-BR": "[{0}]\nAqui é muito perigoso! Você sabe como sair daqui? Você... está GRÁVIDA?",
         "es-ES": "[{0}]\nEs peligroso aquí. ¿Conoces el camino al pasaje central? Parece que no estás sola... ¿Puedes moverte?"
     },
     "7w8bDA": {
-        "ko-KR": "여긴 위험합니다. 중앙 통로로 가는길은 아시죠? 홀몸이 아닌것 같은데... 움직일 수 있겠습니까?",
         "en-US": "It's dangerous here. Do you know the way to the central passage? It seems you are not alone... Can you move?",
         "pt-BR": "Aqui é muito perigoso! Você sabe como sair daqui? Você... está GRÁVIDA?",
         "es-ES": "Es peligroso aquí. ¿Conoces el camino al pasaje central? Parece que no estás sola... ¿Puedes moverte?"
     },
     "8A8bDA": {
-        "ko-KR": "[홀그렌 디스트로이어]\n네, 움직일 수 있어요. 움직여야죠 제 아기를 위해서라도.",
         "en-US": "[Holgren Destroyer]\nYes, I can move. I must move, for my baby's sake.",
         "pt-BR": "[Senhora Holgren]\nSim, estou! Vou fugir daqui, pelo bem do meu bebê.",
         "es-ES": "[Destructora Holgren]\nSí, puedo moverme. Debo hacerlo, por el bien de mi bebé."
     },
     "8Q8bDA": {
-        "ko-KR": "홀그렌 디스트로이어: 네, 움직일 수 있어요. 움직여야죠 제 아기를 위해서라도.",
         "en-US": "Holgren Destroyer: Yes, I can move. I must move, for my baby's sake.",
         "pt-BR": "Senhora Holgren: Sim, estou! Vou fugir daqui, pelo bem do meu bebê.",
         "es-ES": "Destructora Holgren: Sí, puedo moverme. Debo hacerlo, por el bien de mi bebé."
     },
     "8g8bDA": {
-        "ko-KR": "꼭 살아남으시길...",
         "en-US": "Please survive...",
         "pt-BR": "Fuja depressa...",
         "es-ES": "Por favor, sobrevive..."
     },
     "8w8bDA": {
-        "ko-KR": "[{0}]\n꼭 아기와 함께 무사히 이곳을 빠져나가시길 기원하겠습니다. 같이 가 드리지 못해 미안합니다",
         "en-US": "[{0}]\nI pray that you and your baby escape this place safely. I'm sorry I cannot accompany you.",
         "pt-BR": "[{0}]\nEspero que essa catástrofe não afete o seu bebê Holgren.",
         "es-ES": "[{0}]\nRuego que tú y tu bebé escapen de este lugar sanos y salvos. Lamento no poder acompañarte."
     },
     "9A8bDA": {
-        "ko-KR": "꼭 아기와 함께 무사히 이곳을 빠져나가시길 기원하겠습니다. 같이 가 드리지 못해 미안합니다",
         "en-US": "I pray that you and your baby escape this place safely. I'm sorry I cannot accompany you.",
         "pt-BR": "Espero que essa catástrofe não afete o seu bebê Holgren.",
         "es-ES": "Ruego que tú y tu bebé escapen de este lugar sanos y salvos. Lamento no poder acompañarte."
     },
     "9Q8bDA": {
-        "ko-KR": "[홀그렌 디스트로이어]\n아녜요. 혼자 갈 수 있어요. 그쪽도 행운을 빌어요.",
         "en-US": "[Holgren Destroyer]\nNo, it's okay. I can go alone. Good luck to you too.",
         "pt-BR": "[Senhora Holgren]\nEstá tudo bem. Ele será um excelente Ferreiro de Refino.",
         "es-ES": "[Destructora Holgren]\nNo, está bien. Puedo ir sola. Buena suerte para ti también."
     },
     "9g8bDA": {
-        "ko-KR": "홀그렌 디스트로이어: 아녜요.  혼자 갈 수 있어요. 그쪽도 행운을 빌어요.",
         "en-US": "Holgren Destroyer: No, it's okay. I can go alone. Good luck to you too.",
         "pt-BR": "Senhora Holgren: Está tudo bem. Ele será um excelente Ferreiro de Refino.",
         "es-ES": "Destructora Holgren: No, está bien. Puedo ir sola. Buena suerte para ti también."
     },
     "9w8bDA": {
-        "ko-KR": "12시 방향 4구역으로 통하는 출구가 열렸습니다.",
         "en-US": "The exit leading to Area 4 at the 12 o'clock direction has opened.",
         "pt-BR": "A saída para a Área 4 foi aberta.",
         "es-ES": "La salida hacia el Área 4 se ha abierto."
     },
     "+A8bDA": {
-        "ko-KR": "부패한 근위병#{0}",
         "en-US": "Corrupted Guardsman#{0}",
         "pt-BR": "Guarda Sofrido#{0}",
         "es-ES": "Guarda Corrupto#{0}"
     },
     "+Q8bDA": {
-        "ko-KR": "배회하는 명사수#{0}",
         "en-US": "Wandering Sharpshooter#{0}",
         "pt-BR": "Atirador Sofrido#{0}",
         "es-ES": "Francotirador Errante#{0}"
     },
     "+g8bDA": {
-        "ko-KR": "허기진 근위병#{0}",
         "en-US": "Starving Guardsman#{0}",
         "pt-BR": "Guarda Faminto#{0}",
         "es-ES": "Guarda Hambriento#{0}"
     },
     "+w8bDA": {
-        "ko-KR": "광폭해진 명사수#{0}",
         "en-US": "Enraged Sharpshooter#{0}",
         "pt-BR": "Atirador Enfurecido#{0}",
         "es-ES": "Francotirador Furioso#{0}"
     },
     "/A8bDA": {
-        "ko-KR": "히멜메즈: 제법이구나. 망자들에 둘러싸여 서서히 죽어갈 줄 알았는데~",
         "en-US": "Himmelmez: Not bad. I thought you'd slowly die surrounded by the dead~",
         "pt-BR": "Himmelmez: Nada mal. Pensei que você morreria lentamente~",
         "es-ES": "Himmelmez: Nada mal. Pensé que morirías lentamente~"
     },
     "/Q8bDA": {
-        "ko-KR": "히멜메즈: 날 잡고 싶겠지, 2층으로 가는 입구로 오너라. 너희의 운이 어디까지인지 궁금하구나.",
         "en-US": "Himmelmez: You want to catch me, don't you? Come to the entrance leading to the 2nd floor. I'm curious how far your luck will take you.",
         "pt-BR": "Himmelmez: Você quer me pegar, não é? Venha até a entrada do 2º andar. Quero ver até onde sua sorte vai levar você.",
         "es-ES": "Himmelmez: ¿Quieres atraparme, verdad? Ven a la entrada que da al segundo piso. Tengo curiosidad por saber hasta dónde te llevará la suerte."
     },
     "/g8bDA": {
-        "ko-KR": "[히멜메즈]\n그렇게 불안한 눈으로 날 쳐다볼 필요 없다. 곧 편안해질테니까...",
         "en-US": "[Himmelmez]\nNo need to look at me with such uneasy eyes. You'll be at peace soon...",
         "pt-BR": "[Himmelmez]\nNão precisa me olhar com olhos tão penosos. Você ficará em paz em breve...",
         "es-ES": "[Himmelmez]\nNo necesitas mirarme con ojos tan inquietos. Pronto estarás en paz..."
     },
     "/w8bDA": {
-        "ko-KR": "히멜메즈: 여기까지 찾아온건 지독하게 운이 좋거나, 그만한 능력이 있거나 둘중 하나겠지.",
         "en-US": "Himmelmez: Coming all the way here means you're either terribly lucky or have the skills to back it up.",
         "pt-BR": "Himmelmez: Vir até aqui significa que você tem muita sorte.",
         "es-ES": "Himmelmez: Llegar hasta aquí significa que o eres terriblemente afortunado o tienes las habilidades para respaldarlo."
     },
     "ABAbDA": {
-        "ko-KR": "히멜메즈: 내 새 장난감이 너희의 발을 묶어둘 동안 난 즐겁게 놀아보도록 하지.",
         "en-US": "Himmelmez: While my new toy keeps you busy, I'll have some fun.",
         "pt-BR": "Himmelmez: Enquanto meu novo brinquedo os mantém ocupados, eu me divertirei.",
         "es-ES": "Himmelmez: Mientras mi nuevo juguete los mantiene ocupados, yo me divertiré un poco."
     },
     "ARAbDA": {
-        "ko-KR": "하인리히: 바르문트경! 저 페코페코 일행을 도와주십시오 저는 히멜메즈를 쫓겠습니다!",
         "en-US": "Heinrich: Lord Varmunt! Please help this Peco Peco party! I will chase Himmelmez!",
         "pt-BR": "Heinrich: Lorde Varmunt! Por favor, ajude este PecoPeco! Eu vou caçar Himmelmez!",
         "es-ES": "Heinrich: ¡Lord Varmunt! ¡Por favor, ayude a este grupo de Peco Peco! ¡Yo perseguiré a Himmelmez!"
     },
     "AhAbDA": {
-        "ko-KR": "[하인리히]\n히멜메즈... 내 부하들을 죽이게 만든 행위는 영원히 잊지 않을 것이다.",
         "en-US": "[Heinrich]\nHimmelmez... I will never forget you causing the death of my subordinates.",
         "pt-BR": "[Heinrich]\nHimmelmez... Nunca esquecerei você por causar a morte dos meus soldados.",
         "es-ES": "[Heinrich]\nHimmelmez... Nunca olvidaré que causaste la muerte de mis subordinados."
     },
     "AxAbDA": {
-        "ko-KR": "보유한 물건의 종류가 너무 많은것 같다. 물건의 종류를 줄인뒤에 다시 진행해보자.",
         "en-US": "It seems you have too many different types of items. Try again after reducing the variety of items.",
         "pt-BR": "Parece que você tem muitos tipos diferentes de itens. Tente novamente após reorganizar seu inventário.",
         "es-ES": "Parece que tienes demasiados tipos diferentes de objetos. Inténtalo de nuevo después de reorganizar tu inventario."
     },
     "BBAbDA": {
-        "ko-KR": "가진 물건이 너무 무거워 더이상의 진행이 힘들 것 같다. 무게를 줄인 후 다시 도전해보자.",
         "en-US": "Your belongings are too heavy, making further progress seem difficult. Lighten your load and try again.",
         "pt-BR": "Seus pertences estão muito pesados. Reduza seu peso e tente novamente.",
         "es-ES": "Tus pertenencias son demasiado pesadas. Reduce tu carga e inténtalo de nuevo."
     },
     "BRAbDA": {
-        "ko-KR": "[바르문트]\n시간이 없네 빨리 이동하도록 하지",
         "en-US": "[Varmunt]\nWe have no time. Let's move quickly.",
         "pt-BR": "[Varmunt]\nNão temos tempo. Vamos nos mover rápido.",
         "es-ES": "[Varmunt]\nNo tenemos tiempo. Movámonos rápido."
     },
     "BhAbDA": {
-        "ko-KR": "히멜메즈가 불 완전한 형태로 숨을 거둔 시체를 눈앞에 소환합니다",
         "en-US": "Himmelmez summons imperfectly formed, breathless corpses before you.",
         "pt-BR": "Himmelmez invoca cadáveres diante de você.",
         "es-ES": "Himmelmez invoca ante ti cadáveres imperfectamente formados y sin aliento."
     },
     "BxAbDA": {
-        "ko-KR": "되살아난 기사단장",
         "en-US": "Resurrected Knight Commander",
         "pt-BR": "Comandante Desmorrido",
         "es-ES": "Comandante Caballero Resucitado"
     },
     "CBAbDA": {
-        "ko-KR": "피.... 신선한 살점...",
         "en-US": "Blooood... Fresh flesh...",
         "pt-BR": "Sannngue... Carne fresca...",
         "es-ES": "Sannnngre... Carne fresca..."
     },
     "CRAbDA": {
-        "ko-KR": "12시 방향 기사단 2층으로 통하는 출구가 열렸습니다.",
         "en-US": "The exit leading to the Knights' 2nd Floor at the 12 o'clock direction has opened.",
         "pt-BR": "A entrada para o 2º andar foi aberta.",
         "es-ES": "La salida hacia el segundo Piso de los Caballeros se ha abierto."
     },
     "ChAbDA": {
-        "ko-KR": "바르문트: 히멜메즈는 2층으로 이동한 것 같군 빨리 추적하도록 합시다.",
         "en-US": "Varmunt: It seems Himmelmez has moved to the 2nd floor. Let's pursue her quickly.",
         "pt-BR": "Varmunt: Parece que Himmelmez foi para o 2º andar. Vamos encontrá-la rapidamente.",
         "es-ES": "Varmunt: Parece que Himmelmez se ha movido al segundo piso. Persigámosla rápidamente."
     },
     "CxAbDA": {
-        "ko-KR": "수상한 균열",
         "en-US": "Suspicious Crack",
         "pt-BR": "Rachadura Suspeita",
         "es-ES": "Grieta Sospechosa"
     },
     "DBAbDA": {
-        "ko-KR": "수상해보이는 균열이다",
         "en-US": "It looks like a suspicious crack.",
         "pt-BR": "Parece uma rachadura suspeita.",
         "es-ES": "Parece una grieta sospechosa."

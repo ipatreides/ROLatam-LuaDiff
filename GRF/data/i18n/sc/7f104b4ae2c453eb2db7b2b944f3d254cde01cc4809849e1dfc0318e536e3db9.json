@@ -1,696 +1,580 @@
 {
     "QAHVBw": {
-        "ko-KR": "야옹이",
         "en-US": "Cat",
         "pt-BR": "Gatinho",
         "es-ES": "Gato"
     },
     "QQHVBw": {
-        "ko-KR": "야옹이: 뺙.",
         "en-US": "Cat: Mew.",
         "pt-BR": "Gatinho: Miau.",
         "es-ES": "Gato: Miau."
     },
     "QgHVBw": {
-        "ko-KR": "야옹이: 그르릉.",
         "en-US": "Cat: Purrr.",
         "pt-BR": "Gatinho: Grrr.",
         "es-ES": "Gato: Grrrr."
     },
     "QwHVBw": {
-        "ko-KR": "야옹이: 삐익.",
         "en-US": "Cat: Squeak.",
         "pt-BR": "Gatinho: Nha~",
         "es-ES": "Gato: ¡Piii!"
     },
     "RAHVBw": {
-        "ko-KR": "야옹이: ...",
         "en-US": "Cat: ...",
         "pt-BR": "Gatinho: ...",
         "es-ES": "Gato: ..."
     },
     "RQHVBw": {
-        "ko-KR": "루이난",
         "en-US": "Luynan",
         "pt-BR": "Luynan",
         "es-ES": "Luynan"
     },
     "RgHVBw": {
-        "ko-KR": "- 사육장 앞에서 주위를 둘러보던 자동인형과 눈이 마주쳤다. -",
         "en-US": "- I was looking around in front of the greenhouse when I met the gaze of an automatron. -",
         "pt-BR": "- Você encontra uma Autômata na frente da Estufa. -",
         "es-ES": "- Me crucé la mirada con el autómata que estaba mirando alrededor frente al invernadero. -"
     },
     "RwHVBw": {
-        "ko-KR": "- 자동인형의 시선이 훑어보듯 위아래로 움직이더니 고개를 돌렸다. -",
         "en-US": "- The automatron's gaze moved up and down as if scanning me, then it turned its head away. -",
         "pt-BR": "- Ela analisou você e decidiu não dirigir a palavra. -",
         "es-ES": "- La mirada del autómata se movió de arriba abajo como si me examinara, y luego giró la cabeza. -"
     },
     "SAHVBw": {
-        "ko-KR": "== 130레벨 이상 퀘스트입니다==",
         "en-US": "== This is a quest for level 130 or above.==",
         "pt-BR": "== Missão disponível para nível 130 ou superior ==",
         "es-ES": "== Misión disponible a partir del nivel 130.=="
     },
     "SQHVBw": {
-        "ko-KR": "소지하고 계시는 아이템의 갯수가 많아 퀘스트를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
         "en-US": "You cannot proceed with the quest because you are carrying too many items.\nPlease organize your items and try again.",
         "pt-BR": "Você não pode prosseguir com a missão porque está carregando muitos itens.\nOrganize seus itens e tente novamente.",
         "es-ES": "No puede continuar la misión porque tiene demasiados objetos en su inventario.\nPor favor, organice sus objetos e inténtelo de nuevo."
     },
     "SgHVBw": {
-        "ko-KR": "- 자동인형은 위아래로 훑어보는 시늉을 하더니 고개를 돌렸다. -",
         "en-US": "- The automatron pretended to scan me up and down, then turned its head away. -",
         "pt-BR": "- A autômata analisou você de cima a baixo e virou a cabeça. -",
         "es-ES": "- El autómata hizo el gesto de examinar de arriba abajo y luego giró la cabeza. -"
     },
     "SwHVBw": {
-        "ko-KR": "[자동인형]\n심박수, 혈압, 체온 정상.\n폐활량 정상. 시선 안정.\n등록 정보 확인...",
         "en-US": "[Automatron]\nHeart rate, blood pressure, and body temperature normal.\nLung capacity normal. Gaze stable.\nChecking registered information...",
         "pt-BR": "[Autômata]\nFrequência cardíaca, pressão arterial, temperatura corporal normais.\nCapacidade pulmonar normal. Olhar estável.\nVerificando dados registrados...",
         "es-ES": "[Autómata]\nFrecuencia cardíaca, presión arterial, temperatura corporal: normales.\nCapacidad pulmonar: normal. Mirada estable.\nVerificando información registrada..."
     },
     "TAHVBw": {
-        "ko-KR": "- 자동인형의 시선이 훑어보듯 위아래로 움직이더니 만족스러운 표정이 되었다. -",
         "en-US": "- The automatron's gaze moved up and down as if scanning me, then it took on a satisfied expression. -",
         "pt-BR": "- A autômata analisou você de cima a baixo e esboçou um sorriso. -",
         "es-ES": "- La mirada del autómata se movió de arriba abajo como si me examinara, y puso una expresión satisfecha. -"
     },
     "TQHVBw": {
-        "ko-KR": "[자동인형]\n{0} 님, 안녕하세요?\n사육장을 보러 오셨나요?",
         "en-US": "[Automatron]\nHello, {0}.\nHave you come to see the greenhouse?",
         "pt-BR": "[Autômata]\nOlá, {0}.\nVeio visitar a Estufa?",
         "es-ES": "[Autómata]\n{0}, ¿hola?\n¿Has venido a ver el invernadero?"
     },
     "TgHVBw": {
-        "ko-KR": "야옹.",
         "en-US": "Meow.",
         "pt-BR": "Miau.",
         "es-ES": "Miau."
     },
     "TwHVBw": {
-        "ko-KR": "응",
         "en-US": "Yes",
         "pt-BR": "Sim",
         "es-ES": "Sí"
     },
     "UAHVBw": {
-        "ko-KR": "아니",
         "en-US": "No",
         "pt-BR": "Não",
         "es-ES": "No"
     },
     "UQHVBw": {
-        "ko-KR": "[자동인형]\n여긴 수확시설이에요. 야옹이랑 친구들이 살아요.\n관심이 생기면 안내를 요청하세요. 설명이 조금 필요하거든요.",
         "en-US": "[Automatron]\nThis is a harvesting facility. Cat and friends live here.\nIf you're interested, request guidance. It requires a bit of explanation.",
         "pt-BR": "[Autômata]\nEssa é uma horta que colhe pitayas. O gatinho e seus amigos vivem aqui.\nSe tiver interesse, eu posso dar uma pequena explicação.",
         "es-ES": "[Autómata]\nEste es un centro de cosecha. Aquí viven Gato y sus amigos.\nSi te interesa, solicita una guía. Necesito explicarlo un poco."
     },
     "UgHVBw": {
-        "ko-KR": "[자동인형]\n야옹이는 잠깐만 가만히 있어. 착하지~\n저는 여기 사육장 관리 담당이에요.\n나무도 손질하고 비료도 주고 야옹이랑 친구들 밥도 주고.",
         "en-US": "[Automatron]\nCat, hold still for a moment. Good kitty~\nI'm in charge of managing the breeding grounds here.\nI tend the trees, apply fertilizer, and feed Cat and friends, too.",
         "pt-BR": "[Autômata]\nGatinho, fique paradinho só um instante. Muito bem~\nSou a responsável pela gestão da estufa.\nCuido das árvores, aplico fertilizante e alimento o gatinho e seus amigos.",
         "es-ES": "[Autómata]\nGato, quédate quieto un momento. Qué bueno eres~\nYo estoy a cargo de la gestión de este criadero.\nTambién podo los árboles, pongo fertilizante y doy de comer a Gato y a sus amigos."
     },
     "UwHVBw": {
-        "ko-KR": "고르릉.",
         "en-US": "Purrr.",
         "pt-BR": "Grrr~",
         "es-ES": "Grrrr."
     },
     "VAHVBw": {
-        "ko-KR": "[자동인형]\n구내식당에서 디저트로 나오는 건 여기서 수확하는 거예요.\n엣헴.",
         "en-US": "[Automatron]\nThe desserts served in the cafeteria are harvested here.\nAhem.",
         "pt-BR": "[Autômata]\nAs sobremesas servidas no refeitório são colhidas daqui.\nEr...",
         "es-ES": "[Autómata]\nLo que sale de postre en el comedor se cosecha aquí.\nEjem."
     },
     "VQHVBw": {
-        "ko-KR": "[자동인형]\n요새 손님들이 좀 오셔서 수확 지시가 늘어났어요.\n그래서 다른 일 하던 동료가 막 이 쪽으로 배치가 되긴 했는데 일이 좀 서툴러요.\n다들 말을 잘 들으니 수확이 쉬워 망정이지.",
         "en-US": "[Automatron]\nLately, some guests have been coming by, so the number of harvest orders has increased.\nSo a colleague who was doing other work was assigned over here, but they are a bit clumsy at the job.\nIt’s a good thing everyone listens well, so harvesting is easy.",
         "pt-BR": "[Autômata]\nUltimamente temos recebido mais visitantes, então os pedidos de colheita aumentaram.\nUma colega que trabalhava em outra função foi designada para cá, mas ainda é um pouco inexperiente.\nAinda bem que todas obedecem bem, o que facilita a colheita.",
         "es-ES": "[Autómata]\nÚltimamente han venido algunos clientes, así que han aumentado las órdenes de cosecha.\nPor eso, un compañero que estaba haciendo otro trabajo fue asignado a este lado, pero es un poco torpe.\nMenos mal que todos obedecen bien, así que la cosecha es fácil."
     },
     "VgHVBw": {
-        "ko-KR": "수다쟁이네",
         "en-US": "You’re quite the chatterbox.",
         "pt-BR": "Tá, e aí?",
         "es-ES": "Qué hablador."
     },
     "VwHVBw": {
-        "ko-KR": "[자동인형]\n아참. 손님이랑 이야기를 오래 하려면 자기소개를 하라고 했어요.\n저는 식별명이 루이난이에요.",
         "en-US": "[Automatron]\nOh, right. I was told that if I want to talk with a guest for a long time, I should introduce myself.\nMy identification name is Luynan.",
         "pt-BR": "[Autômata]\nAh, perdão. Eu deveria me apresentar.\nSou identificada como Luynan.",
         "es-ES": "[Autómata]\nAh, cierto. Me dijeron que, si quiero hablar mucho tiempo con un cliente, debo presentarme.\nMi nombre de identificación es Luynan."
     },
     "WAHVBw": {
-        "ko-KR": "[루이난]\n야옹이는 피타야라는 식물인데, 어딘가의 섬의 살던 고대종을 개량했대요.\n생각을 하는지는 제가 피타야가 아니라서 모르겠지만 말도 잘 듣고 순해요.",
         "en-US": "[Luynan]\nCat is a plant called pitaya, and they say it was improved from an ancient species that lived on some island.\nI don’t know whether it can think since I’m not Pitaya, but it listens well and is gentle.",
         "pt-BR": "[Luynan]\nO gatinho é uma fruta chamada Pitaya, também conhecida como Fruta-Dragão.\nNão sei se ele é racional, já que não sou uma Pitaya, mas ele obedece direitinho e é dócil.",
         "es-ES": "[Luynan]\nGato es una planta llamada pitaya; dicen que mejoraron una especie antigua que vivía en una isla de algún lugar.\nNo sé si piensa, porque yo no soy Pitaya, pero obedece bien y es manso."
     },
     "WQHVBw": {
-        "ko-KR": "-- 루이난은 야옹이를 쓰다듬었다. --",
         "en-US": "-- Luynan petted Cat. --",
         "pt-BR": "-- Luynan acariciou Gatinho. --",
         "es-ES": "-- Luynan acarició a Gato. --"
     },
     "WgHVBw": {
-        "ko-KR": "[루이난]\n주인님이 작고 귀여운 것에는 이름을 붙인다고 했어요. 야옹이, 나비, 해피, 바둑이 이야기를 해 주셨는데...",
         "en-US": "[Luynan]\nMaster said that small, cute things get names. They told me about Cat, a butterfly, Happy, and Baduki...",
         "pt-BR": "[Luynan]\nMestre Varmunt dá nomes às coisas pequenas e fofas. Por isso algumas autômatas têm nomes fofinhos...",
         "es-ES": "[Luynan]\nEl amo dijo que a las cosas pequeñas y adorables se les pone nombre. Me habló de Gato, de una mariposa, de Happy y de Baduki..."
     },
     "WwHVBw": {
-        "ko-KR": "피타야도 작고 귀여우니까, 이름을 붙여 봤어요.",
         "en-US": "Since Pitaya is also small and cute, I tried giving it a name.",
         "pt-BR": "Como Pitaya também é fofinho, resolvi dar um nome.",
         "es-ES": "Como Pitaya también es pequeño y adorable, intenté ponerle un nombre."
     },
     "XAHVBw": {
-        "ko-KR": "[루이난]\n야옹이가 제일 귀여우니까,\n얘가 야옹이예요.",
         "en-US": "[Luynan]\nSince this Pitaya is the cutest,\nI named it Cat.",
         "pt-BR": "[Luynan]\nE como gatos são fofos,\nbotei o nome dele de Gatinho.",
         "es-ES": "[Luynan]\nComo Gato es el más adorable,\neste es el gatito."
     },
     "XQHVBw": {
-        "ko-KR": "[루이난]\n그래서 손님은...\n꼬리를 자르러 오셨어요?",
         "en-US": "[Luynan]\nSo, guest...\nDid you come to cut off a tail?",
         "pt-BR": "[Luynan]\nEntão, visitante...\nVeio cortar a cauda?",
         "es-ES": "[Luynan]\nEntonces, el cliente...\n¿vino a cortar la cola?"
     },
     "XgHVBw": {
-        "ko-KR": "꼬리?",
         "en-US": "A tail?",
         "pt-BR": "Cortar a cauda?",
         "es-ES": "¿La cola?"
     },
     "XwHVBw": {
-        "ko-KR": "나한테는 꼬리가 없어",
         "en-US": "I don’t have a tail.",
         "pt-BR": "Eu não tenho cauda.",
         "es-ES": "Yo no tengo cola."
     },
     "YAHVBw": {
-        "ko-KR": "[루이난]\n피타야 꼬리를 따러 오신 거 아니에요?\n아... 착오가 있었네요.\n잠시만요. 설명 기록을 꺼낼게요.",
         "en-US": "[Luynan]\nDidn’t you come to pick Pitaya tails?\nAh... there was a misunderstanding.\nJust a moment. I’ll take out the explanation record.",
         "pt-BR": "[Luynan]\nNão veio colher a cauda de Pitaya?\nAh... houve um engano.\nUm momento. Vou entrar no Modo Professora.",
         "es-ES": "[Luynan]\n¿No vino a recoger la cola de Pitaya?\nAh... hubo un malentendido.\nUn momento. Sacaré el registro de explicación."
     },
     "YQHVBw": {
-        "ko-KR": "[루이난]\n지금 야옹이를 보시면 뿌리가 없는 것 같죠?\n표면으로 공기중의 수분을 흡수하고 광합성을 해서 뿌리가 없어도 돼요.\n비료... 먹이를 먹기도 하고.",
         "en-US": "[Luynan]\nIf you look at Cat now, it seems like it has no roots, right?\nIt absorbs moisture from the air through its surface and does photosynthesis, so it doesn’t need roots.\nIt also eats fertilizer... food, too.",
         "pt-BR": "[Luynan]\nViu que gatinho não possui raízes?\nEle absorve a umidade do ar pela superfície e realiza fotossíntese, então não precisa de raízes.\nTambém consome fertilizante... alimento.",
         "es-ES": "[Luynan]\nSi mira a Gato ahora, parece que no tiene raíces, ¿verdad?\nAbsorbe la humedad del aire por la superficie y hace fotosíntesis, así que no necesita raíces.\nTambién come fertilizante... alimento."
     },
     "YgHVBw": {
-        "ko-KR": "[루이난]\n씨를 심으면 땅 속에서 자라서 나온다고 하는데 늘 어느날 처음 보는 애가 늘어나서 제가 본 적은 없어요.",
         "en-US": "[Luynan]\nThey say that if you plant seeds, it grows underground and comes out, but a new one always appears one day, so I’ve never seen it.",
         "pt-BR": "[Luynan]\nAo plantar a semente de Pitaya, ele cresce debaixo da terra e surge na superfície, mas sempre aparece um novo que nunca vi antes.",
         "es-ES": "[Luynan]\nDicen que, si plantas una semilla, crece bajo tierra y sale, pero siempre, un día, aparece uno nuevo que no había visto antes, así que yo nunca lo he visto."
     },
     "YwHVBw": {
-        "ko-KR": "[루이난]\n꼬리는, 피타야를 잡아서 이렇게 쓰다듬다가 똑 따고 놔 주면 돼요.",
         "en-US": "[Luynan]\nFor the tail, you just catch Pitaya, pet it like this, then snap it off and let it go.",
         "pt-BR": "[Luynan]\nQuanto à cauda, basta segurar Pitaya, acariciá-lo assim e puxar.",
         "es-ES": "[Luynan]\nLa cola es: atrapas a Pitaya y lo acaricias así, y luego la arrancas de un tirón y lo sueltas."
     },
     "ZAHVBw": {
-        "ko-KR": "-- 루이난은 야옹이를 들어안아, 꼬리를 꺾는 시늉을 하고는 내려놓았다. --",
         "en-US": "-- Luynan hugged Cat, pretended to snap off its tail, then set it down. --",
         "pt-BR": "-- Luynan abraçou Gatinho, fingiu que ia puxar a cauda e depois o colocou no chão. --",
         "es-ES": "-- Luynan abrazó a Gato, hizo el gesto de doblarle la cola y luego lo dejó en el suelo. --"
     },
     "ZQHVBw": {
-        "ko-KR": "뺙.",
         "en-US": "Meow.",
         "pt-BR": "Miau~",
         "es-ES": "¡Miau!"
     },
     "ZgHVBw": {
-        "ko-KR": "[루이난]\n아냐, 아냐. 안 했어.\n수확한 꼬리가 반드시 먹을 수 있을 만큼 속이 알차지는 않아요.\n손실분은 꽤 감안하셔야 해요.",
         "en-US": "[Luynan]\nNo, no. I didn’t do it.\nThe harvested tail isn’t always plump enough to eat.\nThere's usually quite a bit of loss.",
         "pt-BR": "[Luynan]\nIsso foi um exemplo.\nA cauda colhida nem sempre é boa o suficiente para ser consumida.\nNesses casos, ela é descartada.",
         "es-ES": "[Luynan]\nNo, no. No lo hice.\nLa cola cosechada no siempre queda lo bastante carnosa como para poder comerse.\nDebe tener bastante en cuenta las pérdidas."
     },
     "ZwHVBw": {
-        "ko-KR": "[루이난]\n이런 과정을 거쳐서 수확된 피타야 꼬리가, 식탁 위에 올라가요.\n씨랑 껍질은 제거하고 드셔야 하는데 어렵지는 않을 거예요.",
         "en-US": "[Luynan]\nThrough this process, the harvested Pitaya tail ends up on the dining table.\nYou need to remove the seeds and peel before eating it, but it shouldn’t be difficult.",
         "pt-BR": "[Luynan]\nA cauda colhida por esse processo vai para a mesa.\nÉ preciso remover as sementes e a casca antes de comer, mas não é difícil.",
         "es-ES": "[Luynan]\nTras pasar por este proceso, la cola de Pitaya cosechada llega a la mesa.\nDebe quitar las semillas y la cáscara antes de comerla, pero no será difícil."
     },
     "aAHVBw": {
-        "ko-KR": "[루이난]\n수확은 사실 좀 어려운 일이라 제 동료 '실크'가 가이드를 해 드릴 건데요,\n수확이 아니라도 그냥 입장하실 수는 있어요. 가이드 필요없이 이 쪽으로 그냥 들어가시게 해 드릴게요.",
         "en-US": "[Luynan]\nHarvesting is actually a bit difficult, so my colleague 'Silk' will guide you.\nBut even if you’re not harvesting, you can still enter.\nIf you don’t need a guide, I’ll just let you go in this way.",
         "pt-BR": "[Luynan]\nO que é difícil é a colheita. Minha colega 'Silka' guiará você.\nMas mesmo que não vá colher, pode entrar normalmente. Posso autorizar sua entrada.",
         "es-ES": "[Luynan]\nLa cosecha es, en realidad, un trabajo algo difícil, así que mi compañero Seda le servirá de guía,\npero aunque no vaya a cosechar, puede entrar sin más.\nLe dejaré pasar por aquí sin necesidad de guía."
     },
     "aQHVBw": {
-        "ko-KR": "[루이난]\n그냥 입장하실 때는 혹시 시간이 되신다면, 놀이 담당인 이 쪽의 '코튼'에게 말씀해 주시면 오늘 놀아줘야 할 애들을 알려줄 거예요.\n저희의 일손을 덜어주신다면...\n그것도 보상을 드릴게요.",
         "en-US": "[Luynan]\nIf you’re entering normally, and if you have the time, please speak to 'Cotton' over here, who’s in charge of play. They’ll tell you which children need someone to play with today.\nIf you could lighten our workload...\nWe’ll give you a reward for that, too.",
         "pt-BR": "[Luynan]\nSe quiser apenas visitar, fale com 'Macieza' que ela informará sobre as atividades de hoje.\nSe nos ajudar no trabalho...\ntambém receberá uma recompensa.",
         "es-ES": "[Luynan]\nCuando entre sin más, si tiene tiempo, por favor dígaselo a Algodón, que está a cargo de los juegos por aquí, y le dirá qué niños hay que entretener hoy.\nSi nos alivia un poco el trabajo...\ntambién le daremos una recompensa."
     },
     "agHVBw": {
-        "ko-KR": "아직은 좀 힘드실 것 같지만...",
         "en-US": "It might still be a bit tough for you...",
         "pt-BR": "Isso vai ser difícil pra você...",
         "es-ES": "Creo que todavía le resultará un poco difícil..."
     },
     "awHVBw": {
-        "ko-KR": "코튼: 조금 더 레벨이 높으시면 좋을 텐데...",
         "en-US": "Cotton: It would be better if your level were a little higher...",
         "pt-BR": "Macieza: Seria melhor se tivesse um nível um pouco mais alto...",
         "es-ES": "Algodón: Si tuviera un nivel un poco más alto, sería mejor..."
     },
     "bAHVBw": {
-        "ko-KR": "코튼: 능력있으신 손님 환영합니다!",
         "en-US": "Cotton: Welcome, capable guest!",
         "pt-BR": "Macieza: Visitantes experientes são bem-vindos!",
         "es-ES": "Algodón: ¡Bienvenido, cliente capaz!"
     },
     "bQHVBw": {
-        "ko-KR": "[루이난]\n설명을 다 들으셨으니 이제 입장 가능합니다.\n그냥 구경하고 싶으시면 들어가시면 돼요.",
         "en-US": "[Luynan]\nNow that you’ve heard the explanation, you may enter.\nIf you just want to look around, you can go in.",
         "pt-BR": "[Luynan]\nJá que ouviu toda a explicação, agora pode entrar.\nMesmo que seja apenas para contemplação da estufa.",
         "es-ES": "[Luynan]\nComo ya ha escuchado toda la explicación, ahora puede entrar.\nSi solo quiere echar un vistazo, puede pasar."
     },
     "bgHVBw": {
-        "ko-KR": "[루이난]",
         "en-US": "[Luynan]",
         "pt-BR": "[Luynan]",
         "es-ES": "[Luynan]"
     },
     "bwHVBw": {
-        "ko-KR": "코튼 이야기를 먼저 했지만, 사실 더 급한 건 수확이라서요...\n전투 솜씨에 자신이 있으시다면,\n수확 일도 도와주시면 좋겠어요.\n보스 야옹이한테 먹이도 줘야 되고...",
         "en-US": "I mentioned Cotton first, but honestly, harvesting is more urgent...\nIf you’re confident in your combat skills,\nI’d like it if you could help with the harvesting work, too.\nWe also have to feed Pitaya Cat...",
         "pt-BR": "Eu mencionei Macieza antes, mas na verdade a colheita é mais urgente...\nSe confia em suas habilidades de combate,\ngostaria que ajudasse também com a colheita.\nTambém é preciso alimentar a Árvore de Pitaya...",
         "es-ES": "Ya le hablé primero de Algodón, pero en realidad lo más urgente es la cosecha...\nSi confía en sus habilidades de combate,\nme gustaría que también ayudara con la cosecha.\nTambién hay que darle de comer a Gato Pitaya..."
     },
     "cAHVBw": {
-        "ko-KR": "보스 야옹이?",
         "en-US": "Pitaya Cat?",
         "pt-BR": "Árvore de Pitaya?",
         "es-ES": "¿Gato Pitaya?"
     },
     "cQHVBw": {
-        "ko-KR": "[루이난]\n작은 친구들하고 조금 품종이 다른데, 평소엔 잘 보이지 않는 곳에 숨어 있어요.\n여기저기 먹이를 뿌리고 조금 시끄럽게 해야 겨우 모습을 보여 주니까, 구내식당 메뉴에서는 못 보셨을 거예요.",
         "en-US": "[Luynan]\nThey’re a little different in breed from the small ones, and they usually hide where you can’t easily see them.\nYou have to scatter feed here and there and make a bit of noise before they finally show themselves, so you probably didn’t see them on the cafeteria menu.",
         "pt-BR": "[Luynan]\nEla é um pouco diferente das pitayas, e normalmente fica escondida em um local pouco visível.\nSó aparece quando espalhamos alimento e fazemos barulho, por isso sua cauda não fica disponível para comer no refeitório.",
         "es-ES": "[Luynan]\nEs un poco distinto de los amiguitos pequeños, y normalmente se esconde en un lugar donde no se le ve bien.\nComo solo muestra su aspecto cuando se esparce comida por aquí y por allá y se hace un poco de ruido, no lo habrá visto en el menú del comedor."
     },
     "cgHVBw": {
-        "ko-KR": "[루이난]\n어쨌든 수확은 제 담당이니, 언제든지 물어봐 주세요!",
         "en-US": "[Luynan]\nAnyway, harvesting is my responsibility, so feel free to ask me anytime!",
         "pt-BR": "[Luynan]\nDe qualquer forma, a colheita é minha responsabilidade, então pode perguntar o que quiser!",
         "es-ES": "[Luynan]\nEn fin, como la cosecha es mi responsabilidad, ¡pregúnteme cuando quiera!"
     },
     "cwHVBw": {
-        "ko-KR": "[루이난]\n자세한 건 필요할 때 상담하시죠.",
         "en-US": "[Luynan]\nLet’s discuss the details when you need them.",
         "pt-BR": "[Luynan]\nFalaremos dos detalhes quando necessário.",
         "es-ES": "[Luynan]\nHablemos de los detalles cuando los necesite."
     },
     "dAHVBw": {
-        "ko-KR": "시간에게 잊혀진 사육장",
         "en-US": "Pitaya's Farm",
         "pt-BR": "Fazenda de Pitayas",
         "es-ES": "Menagerie Olvidada por el Tiempo"
     },
     "dQHVBw": {
-        "ko-KR": "^FF00001인 이상의 파티를 구성하시거나 파티에 가입하셔야만 입장이 가능합니다.^000000",
         "en-US": "^FF0000You can only enter if you form a party of at least 1 person or join a party.^000000",
         "pt-BR": "^FF0000Forme um grupo para ter acesso à instância.^000000",
         "es-ES": "^FF0000Solo puede entrar si forma un grupo de al menos 1 persona o se une a un grupo.^000000"
     },
     "dgHVBw": {
-        "ko-KR": "[루이난]\n애들이 놀아달라고 덤볐다구요?\n이상하네... 제 말은 무척 잘 들었거든요.\n...뭐라고요? 실크한테도요?\n어떻게 된 거지?",
         "en-US": "[Luynan]\nThe kids rushed at you asking you to play with them?\nThat’s strange... They listened to me very well.\n...What did you say? To Silk, too?\nWhat’s going on?",
         "pt-BR": "[Luynan]\nEles avançaram querendo brincar?\nEstranho... eles obedecem muito bem a mim.\n...Como? Aconteceu também com a Silka?\nO que aconteceu?",
         "es-ES": "[Luynan]\n¿Dice que los niños se le echaron encima pidiéndole que jugara?\nQué raro... A mí me hacían mucho caso.\n...¿Cómo dice? ¿También a Seda?\n¿Qué habrá pasado?"
     },
     "dwHVBw": {
-        "ko-KR": "야옹이를 쓰다듬는 시늉을 한다",
         "en-US": "Pretend to pet Cat",
         "pt-BR": "Fingir acariciar o Gatinho.",
         "es-ES": "Finge acariciar a Gato."
     },
     "eAHVBw": {
-        "ko-KR": "[야옹이]\n뺙.",
         "en-US": "[Cat]\nMeow.",
         "pt-BR": "[Gatinho]\nMiau.",
         "es-ES": "[Gato]\n¡Miau."
     },
     "eQHVBw": {
-        "ko-KR": "-- 야옹이는 손이 닿기 전에 루이난의 뒤로 숨었다. --",
         "en-US": "-- Cat hid behind Luynan before your hand could reach it. --",
         "pt-BR": "-- Gatinho se escondeu atrás de Luynan antes que sua mão o tocasse. --",
         "es-ES": "-- Gato se escondió detrás de Luynan antes de que la mano lo tocara. --"
     },
     "egHVBw": {
-        "ko-KR": "[루이난]\n어라...",
         "en-US": "[Luynan]\nHuh...",
         "pt-BR": "[Luynan]\nOra...",
         "es-ES": "[Luynan]\nAh..."
     },
     "ewHVBw": {
-        "ko-KR": "[루이난]\n설마...혹시?\n제 말만 잘 듣는 거였어요?",
         "en-US": "[Luynan]\nNo way... could it be?\nWere they only listening to me?",
         "pt-BR": "[Luynan]\nSerá que...?\nEles só obedecem a mim?",
         "es-ES": "[Luynan]\nNo me diga... ¿será que...?\n¿Solo me hacía caso a mí?"
     },
     "fAHVBw": {
-        "ko-KR": "그런 것 같아",
         "en-US": "I think so.",
         "pt-BR": "Parece que sim.",
         "es-ES": "Eso parece."
     },
     "fQHVBw": {
-        "ko-KR": "[루이난]\n야옹아.",
         "en-US": "[Luynan]\nMeow.",
         "pt-BR": "[Luynan]\nGatinho.",
         "es-ES": "[Luynan]\nMiau."
     },
     "fgHVBw": {
-        "ko-KR": "[루이난]\n...\n이게 손님들이 말하는 '당황스럽다'인가요?",
         "en-US": "[Luynan]\n...\nIs this what the customers call 'being flustered'?",
         "pt-BR": "[Luynan]\n...\nÉ isso que os visitantes chamam de 'constrangedor'?",
         "es-ES": "[Luynan]\n...\n¿Esto es lo que los clientes llaman \"estar desconcertado\"?"
     },
     "fwHVBw": {
-        "ko-KR": "먀.",
         "en-US": "Meow.",
         "pt-BR": "Miau.",
         "es-ES": "Mya."
     },
     "gAHVBw": {
-        "ko-KR": "-루이난이 손을 뻗자 야옹이는 머리를 갖다대 부볐다.-",
         "en-US": "-When Luynan reached out a hand, Cat leaned in and rubbed its head.-",
         "pt-BR": "- Quando Luynan estendeu a mão, Gatinho encostou a cabeça e se esfregou nela. -",
         "es-ES": "-Cuando Luynan extendió la mano, Gato acercó la cabeza y se frotó.-"
     },
     "gQHVBw": {
-        "ko-KR": "-만족스러운 표정의 야옹이를 쓰다듬으며 루이난은 복잡한 얼굴이 되었다.-",
         "en-US": "-As Luynan petted the satisfied-looking Cat, their expression grew complicated.-",
         "pt-BR": "- Acariciando Gatinho, que parecia feliz, Luynan ficou surpresa. -",
         "es-ES": "-Mientras acariciaba a Gato, que tenía una expresión satisfecha, Luynan puso una cara complicada.-"
     },
     "ggHVBw": {
-        "ko-KR": "[루이난]\n흐음...\n언젠가는 손님들도 야옹이와 친구가 될 수 있지 않을까요?",
         "en-US": "[Luynan]\nHmm...\nDo you think the customers might be able to become friends with Cat someday?",
         "pt-BR": "[Luynan]\nHmm...\nSerá que um dia os visitantes também poderão se tornar amigos de Gatinho?",
         "es-ES": "[Luynan]\nMmm...\n¿No podrán los clientes hacerse amigos de Gato algún día?"
     },
     "gwHVBw": {
-        "ko-KR": "[루이난]\n이렇게 계속 함께 놀다 보면 되지 않을까요?",
         "en-US": "[Luynan]\nWouldn't it work if we just keep playing together like this?",
         "pt-BR": "[Luynan]\nSe continuarem brincando juntos assim, talvez seja possível?",
         "es-ES": "[Luynan]\n¿No bastará con seguir jugando juntos así?"
     },
     "hAHVBw": {
-        "ko-KR": "[루이난]\n그래요! 내일도 또 수확 일을 실크와 함께 도와주세요.\n그러다 보면 언젠가 점점... 피타야들하고 친해질 수 있을 거예요!\n이건...약속의 증표!",
         "en-US": "[Luynan]\nYes! Please help with the harvest work again tomorrow with Silk.\nIf you do, little by little someday... you'll be able to get close with the Pitayas!\nThis is... a token of our promise!",
         "pt-BR": "[Luynan]\nIsso mesmo! Amanhã, ajude novamente com a colheita junto com Silka.\nAssim, aos poucos... talvez se aproxime das pitayas!\nIsto é... uma promessa!",
         "es-ES": "[Luynan]\n¡Sí! Mañana también, por favor ayuden con el trabajo de cosecha junto con Seda.\nSi lo hacen, algún día, poco a poco... ¡podrán hacerse amigos de los pitayas!\nEsto es... ¡una prueba de nuestra promesa!"
     },
     "hQHVBw": {
-        "ko-KR": "[루이난]\n아마도요.",
         "en-US": "[Luynan]\nProbably.",
         "pt-BR": "[Luynan]\nProvavelmente.",
         "es-ES": "[Luynan]\nProbablemente."
     },
     "hgHVBw": {
-        "ko-KR": "뺙 뺙.",
         "en-US": "Meow~ =^.^=",
         "pt-BR": "Miau~ =^.^=",
         "es-ES": "Miau~ =^.^="
     },
     "hwHVBw": {
-        "ko-KR": "-야옹이가 신이 난 듯 높은 소리로 울었다.-",
         "en-US": "-Cat let out an excited, high-pitched cry.-",
         "pt-BR": "- Gatinho miou feliz em um tom mais alto. -",
         "es-ES": "-Gato maulló con un sonido agudo, como si estuviera emocionado.-"
     },
     "iAHVBw": {
-        "ko-KR": "[루이난]\n오늘 필요한 수확량은 다 채웠답니다.\n동 틀 무렵이 오면 다시 작업을 재개할 테니 그 때 다시 오세요.",
         "en-US": "[Luynan]\nWe've met all the harvest amount we need for today.\nWhen daybreak comes, we'll resume the work, so please come back then.",
         "pt-BR": "[Luynan]\nJá alcançamos a quantidade necessária hoje.\nQuando amanhecer, retomaremos o trabalho, então volte depois.",
         "es-ES": "[Luynan]\nYa hemos reunido toda la cantidad de cosecha necesaria para hoy.\nReanudaremos el trabajo cuando amanezca, así que vuelvan entonces."
     },
     "iQHVBw": {
-        "ko-KR": "^0000FF피타야들과의 사투가 이미 먼 옛날 일 같습니다.^000000\n^0000FF다시 사육장에 들어갈 용기가 생겼습니다.^000000",
         "en-US": "^0000FFThe struggle with the Pitayas already feels like something from the distant past.^000000\n^0000FFYou have found the courage to enter the farm again.^000000",
         "pt-BR": "^0000FFAs marcas da luta feroz contra as pitayas já acabaram.^000000\n^0000FFVocê recuperou a coragem para entrar novamente na Estufa.^000000",
         "es-ES": "^0000FFLa lucha a muerte con los pitayas ya parece cosa de un pasado lejano.^000000\n^0000FFHe recuperado el valor para volver a entrar en el criadero.^000000"
     },
     "igHVBw": {
-        "ko-KR": "[루이난]\n애들이 놀아달라고 덤볐다고요?\n이상하네... 제 말은 무척 잘 들었거든요.\n...뭐라고요? 실크한테도요?\n어떻게 된 거지?",
         "en-US": "[Luynan]\nThey rushed at you asking you to play with them?\nThat's strange... they listened to me very well.\n...What? To Silk, too?\nWhat happened?",
         "pt-BR": "[Luynan]\nEles avançaram querendo brincar?\nEstranho... eles obedecem muito bem a mim.\n...Como? Também com Silka?\nO que aconteceu?",
         "es-ES": "[Luynan]\n¿Dices que los pequeños se te echaron encima para que jugaras con ellos?\nQué raro... A mí me hacían mucho caso.\n...¿Qué dices? ¿También a Seda?\n¿Qué habrá pasado?"
     },
     "iwHVBw": {
-        "ko-KR": "[루이난]\n그럼 오늘도 사육장에 들어가실 건가요?",
         "en-US": "[Luynan]\nThen will you be entering the farm again today?",
         "pt-BR": "[Luynan]\nEntão, vai entrar na Estufa hoje?",
         "es-ES": "[Luynan]\nEntonces, ¿hoy también entrarás al criadero?"
     },
     "jAHVBw": {
-        "ko-KR": "[루이난]\n!? 어떻게 된 거죠? 상한 꼬리를 갖고 계시네요.\n그건 제가 처리할 테니 이리 주세요. 아까워라... 다음 수확 체험 후에는 꼭 실크에게 전달하고 나오세요.",
         "en-US": "[Luynan]\n!? What's going on? You have a spoiled tail.\nI'll take care of that, so hand it over here. What a waste... After the next harvest experience, be sure to deliver it to Silk before you leave.",
         "pt-BR": "[Luynan]\nO que aconteceu!? Você está com uma cauda estragada!\nEu cuidarei disso, entregue-a para mim. Que desperdício... Na próxima colheita, entregue-a para Silka antes de sair.",
         "es-ES": "[Luynan]\n¡? ¿Qué ha pasado? Tienes una cola estropeada.\nYo me encargaré de eso, así que dámela. Qué desperdicio... Después de la próxima experiencia de cosecha, asegúrate de entregársela a Seda antes de salir."
     },
     "jQHVBw": {
-        "ko-KR": "[루이난]\n어서오세요, {0} 님.\n오늘도 사육장에 들어가실 건가요?",
         "en-US": "[Luynan]\nWelcome, {0}.\nWill you be entering the farm again today?",
         "pt-BR": "[Luynan]\nBoas-vindas {0}.\nVai entrar na Estufa hoje?",
         "es-ES": "[Luynan]\nBienvenido, {0}.\n¿Hoy también entrarás al criadero?"
     },
     "jgHVBw": {
-        "ko-KR": "시간에게 잊혀진 사육장 생성",
         "en-US": "Create MD",
         "pt-BR": "Criar instância",
         "es-ES": "Creación de Menagerie Olvidada por el Tiempo"
     },
     "jwHVBw": {
-        "ko-KR": "던전으로 입장",
         "en-US": "Enter the dungeon",
         "pt-BR": "Entrar na instância",
         "es-ES": "Entrar en la mazmorra"
     },
     "kAHVBw": {
-        "ko-KR": "취소",
         "en-US": "Cancel",
         "pt-BR": "Cancelar",
         "es-ES": "Cancelar"
     },
     "kQHVBw": {
-        "ko-KR": "파티명:{0}\n파티장:{1}\n^0000FF{2} ^000000- 예약실패",
         "en-US": "Party Name:{0}\nParty Leader:{1}\n^0000FF{2} ^000000- Reservation Failed",
         "pt-BR": "Nome do Grupo: {0}\nLíder do Grupo: {1}\n^0000FF{2} ^000000- Falha na reserva",
         "es-ES": "Nombre del grupo:{0}\nLíder del grupo:{1}\n^0000FF{2} ^000000- Reserva fallida"
     },
     "kgHVBw": {
-        "ko-KR": "[루이난]\n그럼 오늘 뿌릴 먹이를 준비해 둘게요.\n잠시만 기다려 주세요~.",
         "en-US": "[Luynan]\nThen I’ll get today’s feed ready.\nPlease wait a moment~.",
         "pt-BR": "[Luynan]\nDeixe-me preparar a ração das pitayas.\nAguarde um momento~.",
         "es-ES": "[Luynan]\nEntonces prepararé el alimento que esparciremos hoy.\nPor favor, espere un momento~."
     },
     "kwHVBw": {
-        "ko-KR": "^FF0000알 수 없는 에러가 발생했습니다.^000000",
         "en-US": "^FF0000An unknown error has occurred.^000000",
         "pt-BR": "^FF0000Ocorreu um erro desconhecido.^000000",
         "es-ES": "^FF0000Ha ocurrido un error desconocido.^000000"
     },
     "lAHVBw": {
-        "ko-KR": "^FF0000아직 메모리얼 던전이 생성되지 않았습니다.^000000",
         "en-US": "^FF0000The Memorial Dungeon has not been created yet.^000000",
         "pt-BR": "^FF0000A instância ainda não foi criada.^000000",
         "es-ES": "^FF0000Aún no se ha creado el calabozo memorial.^000000"
     },
     "lQHVBw": {
-        "ko-KR": "^FF0000파티 상태가 아니면 입장하실 수 없습니다.^000000",
         "en-US": "^FF0000You cannot enter unless you are in a party.^000000",
         "pt-BR": "^FF0000Não é possível entrar sem estar em um grupo.^000000",
         "es-ES": "^FF0000No puede entrar si no está en un grupo.^000000"
     },
     "lgHVBw": {
-        "ko-KR": "{0} 파티의 {1} 파티원이 {2} 에 입장합니다.",
         "en-US": "{0} party member {1} is entering {2}.",
         "pt-BR": "{0}, do grupo {1}, entrou na {2}.",
         "es-ES": "El miembro {1} del grupo {0} entra a {2}."
     },
     "lwHVBw": {
-        "ko-KR": "시간에게 잊혀진 사육장 입장",
         "en-US": "Enter Pitaya's Farm",
         "pt-BR": "Entrar na Estufa de Pitayas",
         "es-ES": "Entrada a Menagerie Olvidada por el Tiempo"
     },
     "mAHVBw": {
-        "ko-KR": "코튼",
         "en-US": "Cotton",
         "pt-BR": "Macieza",
         "es-ES": "Algodón"
     },
     "mQHVBw": {
-        "ko-KR": "[코튼]\n음...\n...손님한테 일을 시키기에는 너무 연약해 보여서...\n지금은 안 될 것 같아요.",
         "en-US": "[Cotton]\nUm...\n...You look too frail to have me put you to work...\nI don’t think it’ll work right now.",
         "pt-BR": "[Macieza]\nHum...\n...Você parece frágil demais para eu pedir ajuda...\nAcho que não será possível agora.",
         "es-ES": "[Algodón]\nMmm...\n...Parece demasiado frágil como para ponerlo a trabajar...\nCreo que por ahora no se podrá."
     },
     "mgHVBw": {
-        "ko-KR": "== 150레벨 이상 퀘스트입니다==",
         "en-US": "== This is a quest for level 150 or above.==",
         "pt-BR": "== Missão disponível para nível 150 ou superior ==",
         "es-ES": "== Misión disponible a partir del nivel 150.=="
     },
     "mwHVBw": {
-        "ko-KR": "[코튼]\n저희를 도와주러 오셨나요? 혹시 괜찮으시다면, 사육장 안의 피타야들과 놀아주실 수 있을까요? 물론 대가는 치를 거예요.",
         "en-US": "[Cotton]\nDid you come to help us? If you don’t mind, could you play with the Pitayas in the farm? Of course, you’ll be compensated.",
         "pt-BR": "[Macieza]\nVeio nos ajudar? Se estiver disponível, poderia brincar com as pitayas dentro da estufa? Claro, haverá recompensa.",
         "es-ES": "[Algodón]\n¿Ha venido a ayudarnos? Si no le importa, ¿podría jugar con las Pitayas dentro del criadero? Por supuesto, le pagaré."
     },
     "nAHVBw": {
-        "ko-KR": "의뢰를 수락한다.",
         "en-US": "Accept the request.",
         "pt-BR": "Aceitar a solicitação.",
         "es-ES": "Aceptar el encargo."
     },
     "nQHVBw": {
-        "ko-KR": "의뢰를 수락하지 않는다.",
         "en-US": "Do not accept the request.",
         "pt-BR": "Não aceitar a solicitação.",
         "es-ES": "No aceptar el encargo."
     },
     "ngHVBw": {
-        "ko-KR": "자세히 물어본다.",
         "en-US": "Ask for details.",
         "pt-BR": "Perguntar os detalhes.",
         "es-ES": "Preguntar en detalle."
     },
     "nwHVBw": {
-        "ko-KR": "[코튼]\n감사합니다!\n자... 그럼 오늘은 손님께,",
         "en-US": "[Cotton]\nThank you!\nNow... then, for today, I’d like to ask you,",
         "pt-BR": "[Macieza]\nObrigada!\nEntão... hoje, visitante,",
         "es-ES": "[Algodón]\n¡Gracias!\nBien... entonces hoy, a usted,"
     },
     "oAHVBw": {
-        "ko-KR": "^FF0066빨간 피타야^000000 20마리를 부탁드릴게요.",
         "en-US": "^FF0066Red Pitaya^000000 20 of them, please.",
         "pt-BR": "^FF006620x Pitaya Vermelha^000000.",
         "es-ES": "^FF0066Pitaya roja^000000 20, por favor."
     },
     "oQHVBw": {
-        "ko-KR": "^FFCC00노란 피타야^000000 20마리를 부탁드릴게요.",
         "en-US": "^FFCC00Yellow Pitaya^000000 20 of them, please.",
         "pt-BR": "^FFCC0020x Pitaya Amarela^000000.",
         "es-ES": "^FFCC00Pitaya amarilla^000000 20, por favor."
     },
     "ogHVBw": {
-        "ko-KR": "^0033FF파란 피타야^000000 20마리를 부탁드릴게요.",
         "en-US": "^0033FFBlue Pitaya^000000 20 of them, please.",
         "pt-BR": "^0033FF20x Pitaya Azul^000000.",
         "es-ES": "^0033FFPitaya azul^000000 20, por favor."
     },
     "owHVBw": {
-        "ko-KR": "^6600FF보라 피타야^000000 20마리를 부탁드릴게요.",
         "en-US": "^6600FFPurple Pitaya^000000 20 of them, please.",
         "pt-BR": "^6600FF20x Pitaya Roxa^000000.",
         "es-ES": "^6600FFPitaya morada^000000 20, por favor."
     },
     "pAHVBw": {
-        "ko-KR": "^339966녹색 피타야^000000 20마리를 부탁드릴게요.",
         "en-US": "^33996620 green Pitaya^000000, please.",
         "pt-BR": "^33996620x Pitaya Verde^000000.",
         "es-ES": "^339966Pitaya verde^000000. Le pediré 20."
     },
     "pQHVBw": {
-        "ko-KR": "색깔로 구분하실 수 있을 거예요.\n지금 바로 들어가시면 됩니다.\n시원하게 놀아주고 오세요!",
         "en-US": "You should be able to tell them apart by color.\nYou can go right in now.\nGo have some refreshing fun!",
         "pt-BR": "Você conseguirá distingui-las pela cor.\nPode entrar agora mesmo.\nVá brincar bastante com elas!",
         "es-ES": "Podrá distinguirlos por el color.\nPuede entrar ahora mismo.\n¡Vaya a divertirse a gusto y vuelva!"
     },
     "pgHVBw": {
-        "ko-KR": "[코튼]\n아아아....",
         "en-US": "[Cotton]\nAaaah....",
         "pt-BR": "[Macieza]\nAhhh....",
         "es-ES": "[Algodón]\nAaaah...."
     },
     "pwHVBw": {
-        "ko-KR": "-- 기분탓인지 코튼이 간절한 눈으로 당신을 바라보는 것 같다. --",
         "en-US": "-- Maybe it’s just your imagination, but Cotton seems to be looking at you with pleading eyes. --",
         "pt-BR": "-- Talvez seja impressão sua, mas parece que Macieza olha para você com olhos suplicantes. --",
         "es-ES": "-- No sé si será mi imaginación, pero parece que Algodón te mira con ojos suplicantes. --"
     },
     "qAHVBw": {
-        "ko-KR": "[코튼]\n그냥 바로 이 쪽 사육장으로 들어가셔서, 애들하고 놀아주시면 돼요. 의뢰를 수락하시면 한 색상을 골라드릴 건데요, 하루에 20마리만 쓰러뜨... 아니, 쓰다듬어 주시면 돼요.\n걱정마세요, 피타야들은 노는 게 폭력적이라서 저희도 물리기는 일상다반사거든요.",
         "en-US": "[Cotton]\nJust go straight into this pen and play with them.\nIf you accept the request, I’ll have you choose a color, and you only need to knock down... no, pet 20 a day.\nDon’t worry. Pitayas play violently, so getting bitten is an everyday thing for us, too.",
         "pt-BR": "[Macieza]\nBasta entrar nesta Estufa e brincar com eles. Ao aceitar a solicitação, escolheremos uma cor por dia, e você só precisa derrotar... digo, acariciar 20.\nNão se preocupe, as pitayas brincam de forma violenta, então levar uma mordida é algo comum.",
         "es-ES": "[Algodón]\nSolo tiene que entrar directamente a este criadero y jugar con ellos. Si acepta el encargo, le haré elegir un color; y al día, solo tiene que derribar a 20... no, acariciar a 20.\nNo se preocupe, los Pitaya juegan de forma violenta, así que para nosotros que nos muerdan es el pan de cada día."
     },
     "qQHVBw": {
-        "ko-KR": "[코튼]\n똑같이 폭력적으로 놀아주는 정도가 적절하다는 걸 알아차리는 데까지 꽤 오랜 시간이 걸렸지만요.\n어쨌든 시간이 있으시면 말씀해 주세요.",
         "en-US": "[Cotton]\nIt took quite a long time to realize that playing back just as violently is the right amount.\nAnyway, if you have time, please let me know.",
         "pt-BR": "[Macieza]\nLevou bastante tempo para percebermos que brincar com a mesma intensidade violenta é o mais adequado.\nEnfim, se tiver tempo, avise-me.",
         "es-ES": "[Algodón]\nAunque me llevó bastante tiempo darme cuenta de que lo adecuado era jugar con la misma violencia.\nEn fin, si tiene tiempo, dígamelo."
     },
     "qgHVBw": {
-        "ko-KR": "[코튼]",
         "en-US": "[Cotton]",
         "pt-BR": "[Macieza]",
         "es-ES": "[Algodón]"
     },
     "qwHVBw": {
-        "ko-KR": "사육장의 ^FF0066빨간 피타야^000000 20마리를 쓰러뜨... 아니, 쓰다듬어 주세요!",
         "en-US": "Please knock down... no, pet 20 ^FF0066red Pitaya^000000 in the pen!",
         "pt-BR": "Por favor, derrote... digo, acaricie 20 ^FF0066Pitayas Vermelhas^000000 na estufa!",
         "es-ES": "¡En el criadero, derribe a 20 ^FF0066Pitaya rojos^000000... no, acarícielos!"
     },
     "rAHVBw": {
-        "ko-KR": "사육장의 ^FFCC00노란 피타야^000000 20마리를 쓰러뜨... 아니, 쓰다듬어 주세요!",
         "en-US": "Please knock down... no, pet 20 ^FFCC00yellow Pitaya^000000 in the pen!",
         "pt-BR": "Por favor, derrote... digo, acaricie 20 ^FFCC00Pitayas Amarelas^000000 na estufa!",
         "es-ES": "¡En el criadero, derribe a 20 ^FFCC00Pitaya amarillos^000000... no, acarícielos!"
     },
     "rQHVBw": {
-        "ko-KR": "사육장의 ^0033FF파란 피타야^000000 20마리를 쓰러뜨... 아니, 쓰다듬어 주세요!",
         "en-US": "Please knock down... no, pet 20 ^0033FFblue Pitaya^000000 in the pen!",
         "pt-BR": "Por favor, derrote... digo, acaricie 20 ^0033FFPitayas Azuis^000000 na estufa!",
         "es-ES": "¡En el criadero, derribe a 20 ^0033FFPitaya azules^000000... no, acarícielos!"
     },
     "rgHVBw": {
-        "ko-KR": "사육장의 ^6600FF보라 피타야^000000 20마리를 쓰러뜨... 아니, 쓰다듬어 주세요!",
         "en-US": "Please knock down... no, pet 20 ^6600FFpurple Pitaya^000000 in the pen!",
         "pt-BR": "Por favor, derrote... digo, acaricie 20 ^6600FFPitayas Roxas^000000 na estufa!",
         "es-ES": "¡En el criadero, derribe a 20 ^6600FFPitaya morados^000000... no, acarícielos!"
     },
     "rwHVBw": {
-        "ko-KR": "사육장의 ^339966녹색 피타야^000000 20마리를 쓰러뜨... 아니, 쓰다듬어 주세요!",
         "en-US": "Please knock down... no, pet 20 ^339966green Pitaya^000000 in the pen!",
         "pt-BR": "Por favor, derrote... digo, acaricie 20 ^339966Pitayas Verdes^000000 na estufa!",
         "es-ES": "¡En el criadero, derribe a 20 ^339966Pitaya verdes^000000... no, acarícielos!"
     },
     "sAHVBw": {
-        "ko-KR": "[코튼]\n...? 뭔가 이상한데요?\n정말 애들하고 놀아주고 오신 것 맞나요?\n그런 것 치고는 깨끗한데...",
         "en-US": "[Cotton]\n...? Something’s not right.\nAre you sure you went and played with them?\nYou’re too clean for that...",
         "pt-BR": "[Macieza]\n...? Algo está estranho.\nTem certeza de que foi brincar com eles?\nPara alguém que fez isso, você nem se sujou...",
         "es-ES": "[Algodón]\n...¿? ¿Hay algo raro?\n¿De verdad fue a jugar con ellos?\nPara eso, está demasiado limpio..."
     },
     "sQHVBw": {
-        "ko-KR": "[코튼]\n아! 손님, 여기저기 흙투성이...\n아하, 피타야들하고 놀아주고 오셨군요. 감사해요.\n그럼 수고하신 대가를 드려야죠!",
         "en-US": "[Cotton]\nAh! You’re covered in dirt...\nAha, you went and played with the Pitayas. Thank you.\nThen I should give you your reward for your hard work!",
         "pt-BR": "[Macieza]\nAh! Visitante, olha quanta terra tem nas suas roupas...\nAh, então foi brincar com as pitayas? Obrigada.\nDevo lhe dar a recompensa pelo esforço!",
         "es-ES": "[Algodón]\n¡Ah! Cliente, está cubierto de tierra por todas partes...\nAjá, fue a jugar con los Pitaya. Gracias.\n¡Entonces debo darle su recompensa por el esfuerzo!"
     },
     "sgHVBw": {
-        "ko-KR": "[코튼]\n이것도 내일 또 부탁드릴게요!",
         "en-US": "[Cotton]\nPlease do this again tomorrow!",
         "pt-BR": "[Macieza]\nAmanhã pedirei novamente!",
         "es-ES": "[Algodón]\n¡Mañana también se lo pediré!"
     },
     "swHVBw": {
-        "ko-KR": "[코튼]\n오늘은 이미 충분히 흙투성이가 되어버리셔서... 내일 다시 부탁드릴게요, 친절하신 손님!",
         "en-US": "[Cotton]\nYou’re already muddy enough today... Please come back tomorrow, kind customer!",
         "pt-BR": "[Macieza]\nHoje você já se sujou de terra o suficiente... Peço novamente amanhã, gentil visitante!",
         "es-ES": "[Algodón]\nHoy ya ha quedado lo bastante cubierto de tierra... Vuelva mañana, por favor, ¡amable cliente!"

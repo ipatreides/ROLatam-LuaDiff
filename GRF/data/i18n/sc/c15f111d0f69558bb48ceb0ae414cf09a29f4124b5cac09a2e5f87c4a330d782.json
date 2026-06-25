@@ -1,0 +1,277 @@
+{
+    "QMcTDQ": {
+        "en-US": "Larama",
+        "pt-BR": "Larama",
+        "es-ES": "Larama"
+    },
+    "QccTDQ": {
+        "en-US": "[Larama]\nAh~ I am busy right now. Let us talk later.",
+        "pt-BR": "[Larama]\nAh~ agora estou ocupado. Falamos depois.",
+        "es-ES": "[Larama]\nAh~ ahora estoy ocupado. Hablamos luego."
+    },
+    "QscTDQ": {
+        "en-US": "[Larama]\n...Twenty-seven, twenty-eight, twenty-nine...\n...",
+        "pt-BR": "[Larama]\n...vinte e sete, vinte e oito, vinte e nove...\n...",
+        "es-ES": "[Larama]\n...veintisiete, veintiocho, veintinueve...\n..."
+    },
+    "Q8cTDQ": {
+        "en-US": "Counting the number of sharpened blades.",
+        "pt-BR": "Está contando a quantidade de lâminas afiadas.",
+        "es-ES": "Está contando la cantidad de hojas afiladas que ha dejado a punto."
+    },
+    "RMcTDQ": {
+        "en-US": "He is so absorbed in grinding blades that does not answer when called.",
+        "pt-BR": "Está tão concentrado afiando facas que não responde, mesmo quando chamado.",
+        "es-ES": "Está tan absorto afilando cuchillos que, aunque lo llamen, no responde."
+    },
+    "RccTDQ": {
+        "en-US": "[Larama]\nI put it here earlier...\nHave you perhaps seen any charcoal lying around here?",
+        "pt-BR": "[Larama]\nEu tinha colocado aqui há pouco...\nPor acaso você viu carvão por aqui?",
+        "es-ES": "[Larama]\nJuraría que lo había dejado por aquí...\n¿No ha visto por aquí cerca el carbón vegetal que tenía?"
+    },
+    "RscTDQ": {
+        "en-US": "[{0}]\nBehind your right ear...",
+        "pt-BR": "[{0}]\nAtrás da orelha direita...",
+        "es-ES": "[{0}]\nDetrás de la oreja derecha..."
+    },
+    "R8cTDQ": {
+        "en-US": "[Larama]\nAh! Again!\nHaah.... I have gotten covered in soot again.\nThank you...",
+        "pt-BR": "[Larama]\nAh! De novo!\nHaa.... fiquei todo sujo de fuligem outra vez.\nObrigado...",
+        "es-ES": "[Larama]\n¡Ah! ¡Otra vez!\nAaah.... otra vez me he quedado todo tiznado.\nGracias..."
+    },
+    "SMcTDQ": {
+        "en-US": "[Larama]\nPhew, all done...\nAs if! Of course not! There is more!\nThe work never ends!\nBut the capable Larama gets it done!",
+        "pt-BR": "[Larama]\nAi, terminei...\nClaro que não terminei! É isso mesmo! Ainda tem mais!\nO trabalho nunca acaba!\nMas o competente Larama dá conta!",
+        "es-ES": "[Larama]\nAy, ya está...\n¡Claro que no! ¡Eso creía! ¡Todavía queda más!\n¡El trabajo no se acaba nunca!\n¡Pero el competente Larama puede con ello!"
+    },
+    "SccTDQ": {
+        "en-US": "[Larama]\n...Eek",
+        "pt-BR": "[Larama]\n...hiik",
+        "es-ES": "[Larama]\n...¡Ay!"
+    },
+    "SscTDQ": {
+        "en-US": "[Larama]\nDid you hear that?\n...",
+        "pt-BR": "[Larama]\nVocê ouviu?\n...",
+        "es-ES": "[Larama]\n¿Lo ha oído?\n..."
+    },
+    "S8cTDQ": {
+        "en-US": "[Larama]\nH-ha, haha...",
+        "pt-BR": "[Larama]\nHa, haha...",
+        "es-ES": "[Larama]\nJa, ja, ja..."
+    },
+    "TMcTDQ": {
+        "en-US": "Eruin",
+        "pt-BR": "Eruin",
+        "es-ES": "Eruin"
+    },
+    "TccTDQ": {
+        "en-US": "You cannot proceed with the quest because you are carrying too many items.\nPlease organize your items and try again.",
+        "pt-BR": "Você não pode prosseguir com a missão porque está carregando itens demais.\nPor favor, organize seus itens e tente novamente.",
+        "es-ES": "No puedes continuar la misión porque llevas demasiados objetos.\nOrdena tus objetos y vuelve a intentarlo."
+    },
+    "TscTDQ": {
+        "en-US": "^4D4DFFThe people of Gray Wolf Village have accepted you as a member of the village.^000000\n^4D4DFFYou are now qualified to attend the Grand Council.^000000",
+        "pt-BR": "^4D4DFFAs pessoas da Aldeia do Lobo Cinzento aceitaram você como um membro da vila.^000000\n^4D4DFFVocê agora pode participar do Grande Conselho.^000000",
+        "es-ES": "^4D4DFFLa gente de Pueblo del Lobo Gris te ha aceptado como uno más del pueblo.^000000\n^4D4DFFHas obtenido el derecho a asistir al Gran Consejo.^000000"
+    },
+    "T8cTDQ": {
+        "en-US": "[Eruin]\n...\nIn this forest, hunting ordinary animals rather than monsters is forbidden to outsiders.\nDo not catch even a single rabbit.",
+        "pt-BR": "[Eruin]\n...\nNesta floresta, é proibido para forasteiros caçar animais comuns em vez de monstros.\nNão capture nem um coelho sequer.",
+        "es-ES": "[Eruin]\n...\nEn este bosque está prohibido para los forasteros cazar animales normales que no sean monstruos.\nNo atrapes ni un solo conejo."
+    },
+    "UMcTDQ": {
+        "en-US": "[Eruin]\n...I heard an Adventurer came.\nLooking around here and there like that, are you trying to find work?",
+        "pt-BR": "[Eruin]\n...Disseram que um aventureiro chegou.\nPelo jeito que anda rondando por aí, está procurando algo para fazer?",
+        "es-ES": "[Eruin]\n...Así que decían que había llegado un trotamundos.\nPor cómo andas merodeando de un lado a otro, ¿estás buscando algo que hacer?"
+    },
+    "UccTDQ": {
+        "en-US": "Yes.",
+        "pt-BR": "Sim.",
+        "es-ES": "Sí"
+    },
+    "UscTDQ": {
+        "en-US": "No.",
+        "pt-BR": "Não.",
+        "es-ES": "No"
+    },
+    "U8cTDQ": {
+        "en-US": "[Eruin]\nI handle the observation of livestock and wild animals together with Larama over there and his family.\nMaintaining blades, including knives, is also my job.",
+        "pt-BR": "[Eruin]\nEu sou responsável pela observação do gado e dos animais selvagens junto com Larama e a família dele.\nTambém é meu trabalho manter facas e outras lâminas afiadas em ordem.",
+        "es-ES": "[Eruin]\nYo me encargo, junto con Larama y su familia, de observar el ganado y a los animales salvajes.\nTambién es tarea mía mantener en buen estado los cuchillos y demás filos."
+    },
+    "VMcTDQ": {
+        "en-US": "Please take good care of Grandma Eruin~!",
+        "pt-BR": "Cuide bem da vovó Eruin~!",
+        "es-ES": "¡Cuide bien de la abuela Eruin~!"
+    },
+    "VccTDQ": {
+        "en-US": "[Eruin]\n...Tsk, tsk.",
+        "pt-BR": "[Eruin]\n...tsk tsk.",
+        "es-ES": "[Eruin]\n...Tsk, tsk."
+    },
+    "VscTDQ": {
+        "en-US": "Hehe.",
+        "pt-BR": "Hehe.",
+        "es-ES": "Je, je."
+    },
+    "V8cTDQ": {
+        "en-US": "[Eruin]\nIf there is any work fit to entrust to an outsider, it would be checking the traps I set this morning.\nCan you do it?",
+        "pt-BR": "[Eruin]\nSe há alguma tarefa que se possa confiar a um forasteiro, seria verificar as armadilhas que instalei esta manhã.\nConsegue fazer isso?",
+        "es-ES": "[Eruin]\nSi hay algún trabajo que pueda dejar en manos de un forastero, será comprobar las trampas que instalé esta mañana.\n¿Serás capaz?"
+    },
+    "WMcTDQ": {
+        "en-US": "That should be no trouble at all.",
+        "pt-BR": "Isso não tem dificuldade nenhuma.",
+        "es-ES": "Eso no tiene ninguna dificultad"
+    },
+    "WccTDQ": {
+        "en-US": "[Eruin]\nI like that you answer quickly.\n...",
+        "pt-BR": "[Eruin]\nGosto que responda rápido.\n...",
+        "es-ES": "[Eruin]\nMe gusta que respondas rápido.\n..."
+    },
+    "WscTDQ": {
+        "en-US": "[Eruin]\nIf you look around <NAVI>[Gray Wolf Forest]<INFO>gw_fild01,25,101,0,101,0</INFO></NAVI>, you will find several traps set here and there.\nIf anything is caught in them, bring back about 5.\nLeave the remaining bait alone, and something will likely get caught again if enough time passes.",
+        "pt-BR": "[Eruin]\nSe observar vários pontos da <NAVI>[Floresta do Lobo Cinzento (1)]<INFO>gw_fild01,25,101,0,101,0</INFO></NAVI>, haverá várias armadilhas colocadas.\nSe algo tiver sido capturado, reúna umas 5 para mim.\nSe deixar a isca restante, algo voltará a ser pego, então basta esperar um tempo.",
+        "es-ES": "[Eruin]\nSi miras por varios puntos de <NAVI>[Bosque del Lobo Gris (1)]<INFO>gw_fild01,25,101,0,101,0</INFO></NAVI>, verás que hay varias trampas colocadas.\nSi hay algo atrapado, trae unas 5 piezas.\nDeja el cebo que quede; si lo dejas, volverá a caer algo más, así que bastará con darle tiempo."
+    },
+    "W8cTDQ": {
+        "en-US": "[Eruin]\nI am counting on you.",
+        "pt-BR": "[Eruin]\nConto com você.",
+        "es-ES": "[Eruin]\nHaz ese trabajo."
+    },
+    "XMcTDQ": {
+        "en-US": "[Eruin]\nIf you have nothing to do, do not loiter around here. Go watch that fire over there or something.",
+        "pt-BR": "[Eruin]\nSe não tem nada para fazer, não fique zanzando por aqui e vá ao menos vigiar aquele fogo aceso ali.",
+        "es-ES": "[Eruin]\nSi no tienes nada que hacer, no te quedes rondando por aquí y vete al menos a vigilar ese fuego que hay allí."
+    },
+    "XccTDQ": {
+        "en-US": "[Eruin]\nI would appreciate it if you could gather about 5 things caught in the traps from <NAVI>[Gray Wolf Forest]<INFO>gw_fild01,25,101,0,101,0</INFO></NAVI>.",
+        "pt-BR": "[Eruin]\nSeria bom se você recolhesse umas 5 coisas presas nas armadilhas na <NAVI>[Floresta do Lobo Cinzento (1)]<INFO>gw_fild01,25,101,0,101,0</INFO></NAVI>.",
+        "es-ES": "[Eruin]\nVe a <NAVI>[Bosque del Lobo Gris (1)]<INFO>gw_fild01,25,101,0,101,0</INFO></NAVI> y tráeme unas 5 cosas de las que hayan caído en las trampas."
+    },
+    "XscTDQ": {
+        "en-US": "^4D4DFFA favorable opinion of you has been formed.^000000",
+        "pt-BR": "^4D4DFFUma avaliação favorável sobre você foi gerada.^000000",
+        "es-ES": "^4D4DFFSe ha generado una valoración favorable hacia ti.^000000"
+    },
+    "X8cTDQ": {
+        "en-US": "[Eruin]\n...Good. Well done.\nIf you are idle enough to loiter here again tomorrow, may I ask for your help again?",
+        "pt-BR": "[Eruin]\n...Muito bem. Bom trabalho.\nSe amanhã também estiver desocupado o bastante para ficar zanzando por aqui, posso pedir de novo?",
+        "es-ES": "[Eruin]\n...Bien. Has trabajado duro.\nSi mañana vuelves a estar tan desocupado como para andar rondando por aquí, ¿puedo volver a pedírtelo?"
+    },
+    "YMcTDQ": {
+        "en-US": "Of course.",
+        "pt-BR": "Claro.",
+        "es-ES": "Claro"
+    },
+    "YccTDQ": {
+        "en-US": "I think I will be busy tomorrow.",
+        "pt-BR": "Acho que amanhã estarei ocupado.",
+        "es-ES": "Mañana creo que estaré ocupado"
+    },
+    "YscTDQ": {
+        "en-US": "[Eruin]\nThat is good to hear.\nI do not refuse help. Thank you.",
+        "pt-BR": "[Eruin]\nÓtimo.\nNunca recuso ajuda. Obrigado.",
+        "es-ES": "[Eruin]\nEso me viene bien.\nNo rechazo la ayuda. Gracias."
+    },
+    "Y8cTDQ": {
+        "en-US": "[Eruin]\nUnderstood. I am always working, what with the traps and maintenance, so if you come snooping around again, know that I will put you to work instead of letting you be a nuisance.\nBeing an outsider makes no difference.",
+        "pt-BR": "[Eruin]\nEntendido. Eu sempre estou trabalhando, cuidando das armadilhas e da manutenção, então, se vier bisbilhotar de novo, saiba que vou te pôr para trabalhar em vez de deixar atrapalhar.\nNão é por ser forasteiro que vai ser diferente.",
+        "es-ES": "[Eruin]\nEntendido. Yo siempre estoy trabajando, ocupándome de las trampas y del mantenimiento, así que, si vuelves a merodear, ya sabes que en vez de molestar te pondré a trabajar.\nNo eres diferente por ser forastero."
+    },
+    "ZMcTDQ": {
+        "en-US": "[Eruin]\nGo back and rest for today.",
+        "pt-BR": "[Eruin]\nPor hoje, volte e descanse.",
+        "es-ES": "[Eruin]\nPor hoy vuelve y descansa."
+    },
+    "ZccTDQ": {
+        "en-US": "[Eruin]\nYou have come. Seeing you snooping around again, you must be idle.",
+        "pt-BR": "[Eruin]\nVoltou. Pelo jeito que está rondando de novo, parece que está desocupado.",
+        "es-ES": "[Eruin]\n¿Has venido? Por cómo vuelves a rondar, parece que estás desocupado otra vez."
+    },
+    "ZscTDQ": {
+        "en-US": "Go inspect the traps.",
+        "pt-BR": "Vou verificar as armadilhas.",
+        "es-ES": "Ir a revisar las trampas"
+    },
+    "Z8cTDQ": {
+        "en-US": "Make small talk.",
+        "pt-BR": "Vou conversar.",
+        "es-ES": "Hablar un rato"
+    },
+    "aMcTDQ": {
+        "en-US": "Stop.",
+        "pt-BR": "Desistir.",
+        "es-ES": "Dejarlo"
+    },
+    "accTDQ": {
+        "en-US": "[Eruin]\nIf you are willing to lend a hand, I would be grateful, since I have many other things to do.\nIf you look around <NAVI>[Gray Wolf Forest]<INFO>gw_fild01,25,101,0,101,0</INFO></NAVI>, you will find several traps set here and there.\nIf anything is caught in them, recover just 5 and bring them back.",
+        "pt-BR": "[Eruin]\nSe for ajudar com o trabalho, eu agradeço, já que tenho muitas outras coisas para fazer.\nSe olhar em vários pontos na <NAVI>[Floresta do Lobo Cinzento (1)]<INFO>gw_fild01,25,101,0,101,0</INFO></NAVI>, verá várias armadilhas colocadas.\nSe houver algo preso, recolha só 5 e traga.",
+        "es-ES": "[Eruin]\nSi vas a echar una mano, yo te lo agradeceré, porque tengo muchas otras cosas que hacer.\nSi observas distintos puntos de <NAVI>[Bosque del Lobo Gris (1)]<INFO>gw_fild01,25,101,0,101,0</INFO></NAVI>, verás varias trampas colocadas.\nSi hay algo atrapado, recupérame solo 5 piezas."
+    },
+    "ascTDQ": {
+        "en-US": "Accept.",
+        "pt-BR": "Aceitar.",
+        "es-ES": "Aceptar"
+    },
+    "a8cTDQ": {
+        "en-US": "Decline.",
+        "pt-BR": "Recusar.",
+        "es-ES": "Rechazar"
+    },
+    "bMcTDQ": {
+        "en-US": "[Eruin]\nEither sit down instead of loitering around, or go away. You are distracting.",
+        "pt-BR": "[Eruin]\nEm vez de ficar zanzando, sente-se em algum lugar. Está me deixando distraído.",
+        "es-ES": "[Eruin]\nDeja de rondar y siéntate o algo. Pones nervioso."
+    },
+    "bccTDQ": {
+        "en-US": "[Eruin]\nIf you leave the remaining bait alone, something will likely get caught again if enough time passes.\nI am counting on you.",
+        "pt-BR": "[Eruin]\nSe deixar a isca restante, algo voltará a ser pego, então basta esperar um tempo.\nConto com você.",
+        "es-ES": "[Eruin]\nSi dejas el cebo que queda, volverá a caer algo más con el tiempo.\nHaz ese trabajo."
+    },
+    "bscTDQ": {
+        "en-US": "[Eruin]\nYou ask since when I started trap hunting?\nLet me think. Since after I quit being an Adventurer?",
+        "pt-BR": "[Eruin]\nEstá perguntando desde quando faço caça com armadilhas?\nOra. Desde que deixei de ser aventureira?",
+        "es-ES": "[Eruin]\n¿Que desde cuándo me dedico a la caza con trampas?\nPues veamos. ¿Desde que dejé de ser aventurera?"
+    },
+    "b8cTDQ": {
+        "en-US": "[Eruin]",
+        "pt-BR": "[Eruin]",
+        "es-ES": "[Eruin]"
+    },
+    "cMcTDQ": {
+        "en-US": "Seeing you snooping around again, you must be idle.",
+        "pt-BR": "Pelo jeito que anda rondando de novo, parece que está desocupado.",
+        "es-ES": "Por cómo vuelves a rondar, parece que estás desocupado."
+    },
+    "cccTDQ": {
+        "en-US": "[Eruin]\nIf you are willing to lend a hand, I would be grateful, since I have many other things to do.\nGo around nearby and recover 5 things caught in the traps I have set.",
+        "pt-BR": "[Eruin]\nSe for ajudar com o trabalho, eu agradeço, já que tenho muitas outras coisas para fazer.\nAnde pelos arredores e recolha 5 coisas presas nas armadilhas que instalei.",
+        "es-ES": "[Eruin]\nSi vas a echar una mano, yo te lo agradeceré, porque tengo muchas otras cosas que hacer.\nVe por los alrededores y recupérame 5 cosas de las que hayan caído en las trampas que dejé instaladas."
+    },
+    "cscTDQ": {
+        "en-US": "[Eruin]\nDo you find an old person's stories that interesting?\nGo over there and listen to the young people talk instead.",
+        "pt-BR": "[Eruin]\nA história de uma velha é divertida?\nVá até ali e ouça um pouco as histórias dos jovens.",
+        "es-ES": "[Eruin]\n¿Te entretienen las historias de una vieja?\nVe por allí a escuchar las de los jóvenes."
+    },
+    "c8cTDQ": {
+        "en-US": "Set Trap",
+        "pt-BR": "Armadilha instalada",
+        "es-ES": "Trampa instalada"
+    },
+    "dMcTDQ": {
+        "en-US": "There is a trap someone has set.",
+        "pt-BR": "Há uma armadilha que alguém instalou.",
+        "es-ES": "Hay una trampa colocada por alguien."
+    },
+    "dccTDQ": {
+        "en-US": "You did not obtain anything...",
+        "pt-BR": "Você não conseguiu obter nada...",
+        "es-ES": "No has obtenido nada..."
+    },
+    "dscTDQ": {
+        "en-US": "We have recovered enough things caught in the traps today.\nLet us bring them to <NAVI>[Eruin]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI>.",
+        "pt-BR": "Já foram recolhidas coisas suficientes das armadilhas hoje.\nVamos levá-las para <NAVI>[Eruin]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI>.",
+        "es-ES": "Hoy ya se han recogido suficientes cosas de las trampas.\nLlévaselas a <NAVI>[Eruin]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI>."
+    }
+}

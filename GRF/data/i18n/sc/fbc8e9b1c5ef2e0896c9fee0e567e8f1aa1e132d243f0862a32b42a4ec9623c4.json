@@ -1,756 +1,630 @@
 {
     "oMFZCA": {
-        "ko-KR": "라비앙",
         "en-US": "Rabian",
         "pt-BR": "Lavian",
         "es-ES": "Rabian"
     },
     "ocFZCA": {
-        "ko-KR": "보유한 물건의 종류나 무게가 너무 많은 것 같습니다. 인벤토리를 정리해주세요.",
         "en-US": "It seems you are carrying too many kinds of items or too much weight. Please organize your inventory.",
         "pt-BR": "Você está acima do peso ou carregando muitos itens. Por favor, alivie seu inventário primeiro.",
         "es-ES": "Parece que tienes demasiados tipos de objetos o demasiado peso. Ordena tu inventario, por favor."
     },
     "osFZCA": {
-        "ko-KR": "190123 확정인챈트 안내페이지 내용 오류 수정",
         "en-US": "190123 Fixed an error in the Guaranteed Enchant guide page content",
         "pt-BR": "190123 Corrigido um erro no conteúdo da página do guia Encantamento Garantido.",
         "es-ES": "190123 Corrección de error de contenido en la página de información de encantamiento garantizado"
     },
     "o8FZCA": {
-        "ko-KR": "[라비앙]\n이 험한 동네에서 맨손으로 다니다닝. 간이 배 밖으로 나왔구낭.",
         "en-US": "[Rabian]\nWalking around this rough neighborhood empty-handed? You've got some nerve.",
         "pt-BR": "[Lavian]\nComo você tem coragem de andar por aí sem uma arma para se defender?",
         "es-ES": "[Rabian]\nVaya, ir por este barrio tan peligroso con las manos vacías. Sí que tienes agallas."
     },
     "pMFZCA": {
-        "ko-KR": "^FF0000랜덤옵션이 확인됩니다. 해당 장비는 작업 하실 수 없습니다.^000000",
         "en-US": "^FF0000A random option has been detected. You cannot work on this equipment.^000000",
         "pt-BR": "^FF0000Bônus Aleatórios detectados. Essa arma não pode ser encantada.^000000",
         "es-ES": "^FF0000Se ha detectado una opción aleatoria. No puedes trabajar con este equipo.^000000"
     },
     "pcFZCA": {
-        "ko-KR": "[라비앙]\n못써! 중간에 장비를 벗으면 안돼!",
         "en-US": "[Rabian]\nNo way! You must not remove the equipment midway!",
         "pt-BR": "[Lavian]\nNão remova a arma durante o processo!",
         "es-ES": "[Rabian]\n¡No! ¡No puedes quitarte el equipo a mitad del proceso!"
     },
     "psFZCA": {
-        "ko-KR": "아도라레 스태프",
         "en-US": "Adorare Staff",
         "pt-BR": "Adorare",
         "es-ES": "Adorare"
     },
     "p8FZCA": {
-        "ko-KR": "아구도 필로",
         "en-US": "Agudo Filo",
         "pt-BR": "Agudo Filo",
         "es-ES": "Agudo Filo"
     },
     "qMFZCA": {
-        "ko-KR": "에이밍 보우",
         "en-US": "Aiming Bow",
         "pt-BR": "Arco Certeiro",
         "es-ES": "Arco Certero"
     },
     "qcFZCA": {
-        "ko-KR": "앤틱 첼로",
         "en-US": "Antique Cello",
         "pt-BR": "Viola",
         "es-ES": "Violonchelo Antiguo"
     },
     "qsFZCA": {
-        "ko-KR": "아르헨 블란코",
         "en-US": "Argen Blanco",
         "pt-BR": "Argen Blanco",
         "es-ES": "Argen Blanco"
     },
     "q8FZCA": {
-        "ko-KR": "투신의 붕대",
         "en-US": "Asura Bandage",
         "pt-BR": "Bandagens Divinas",
         "es-ES": "Vendas Divinas"
     },
     "rMFZCA": {
-        "ko-KR": "블랙 서클",
         "en-US": "Black Circle",
         "pt-BR": "Banjo Negro",
         "es-ES": "Banjo Negro"
     },
     "rcFZCA": {
-        "ko-KR": "볼티진",
         "en-US": "Boltigin",
         "pt-BR": "Lançarin",
         "es-ES": "Lanzarín"
     },
     "rsFZCA": {
-        "ko-KR": "총명추",
         "en-US": "Bright Mace",
         "pt-BR": "Pendulum",
         "es-ES": "Pendulum"
     },
     "r8FZCA": {
-        "ko-KR": "맹룡투갑",
         "en-US": "Combo Fist",
         "pt-BR": "Cólera do Dragão",
         "es-ES": "Cólera del Dragón"
     },
     "sMFZCA": {
-        "ko-KR": "쿨란트 인젝션",
         "en-US": "Coolant Injection",
         "pt-BR": "Injetor Acoplável",
         "es-ES": "Inyector Acoplable"
     },
     "scFZCA": {
-        "ko-KR": "크림즌 로즈 스틱",
         "en-US": "Crimson Rose Stick",
         "pt-BR": "Varinha de Rosas Cálidas",
         "es-ES": "Varita de Rosas Cálidas"
     },
     "ssFZCA": {
-        "ko-KR": "더스트 그레이브",
         "en-US": "Dust Grave",
         "pt-BR": "Castigo Diamante",
         "es-ES": "Tumba Diamantina"
     },
     "s8FZCA": {
-        "ko-KR": "엔진 파일벙커",
         "en-US": "Engine Pilebunker",
         "pt-BR": "Bate-Estacas Motorizado",
         "es-ES": "Martinete Motorizado"
     },
     "tMFZCA": {
-        "ko-KR": "이스탈",
         "en-US": "Estal",
         "pt-BR": "Estal",
         "es-ES": "Estal"
     },
     "tcFZCA": {
-        "ko-KR": "팔켄 슈터",
         "en-US": "Falken Shooter",
         "pt-BR": "Tiro Rapina",
         "es-ES": "Tiro Halcón"
     },
     "tsFZCA": {
-        "ko-KR": "파르테잔",
         "en-US": "Farthezan",
         "pt-BR": "Farthezan",
         "es-ES": "Farthezan"
     },
     "t8FZCA": {
-        "ko-KR": "포트리지",
         "en-US": "Fortridge",
         "pt-BR": "Fortridge",
         "es-ES": "Fortridge"
     },
     "uMFZCA": {
-        "ko-KR": "제네로드",
         "en-US": "Gene Rod",
         "pt-BR": "Caduceu",
         "es-ES": "Caduceo"
     },
     "ucFZCA": {
-        "ko-KR": "골든 렌치",
         "en-US": "Golden Wrench",
         "pt-BR": "Ferramenta Dourada",
         "es-ES": "Herramienta Dorada"
     },
     "usFZCA": {
-        "ko-KR": "그라비테이션 스태프",
         "en-US": "Gravitation Staff",
         "pt-BR": "Gravitação",
         "es-ES": "Gravitación"
     },
     "u8FZCA": {
-        "ko-KR": "하베",
         "en-US": "Harve",
         "pt-BR": "Harve",
         "es-ES": "Harve"
     },
     "vMFZCA": {
-        "ko-KR": "하트 휩",
         "en-US": "Heart Whip",
         "pt-BR": "Chibata Coração",
         "es-ES": "Látigo Corazón"
     },
     "vcFZCA": {
-        "ko-KR": "잭 더 나이프",
         "en-US": "Jack the Knife",
         "pt-BR": "Estripadora",
         "es-ES": "Destripador"
     },
     "vsFZCA": {
-        "ko-KR": "저지먼트 슬래셔",
         "en-US": "Judgment Slasher",
         "pt-BR": "Navalha Carrasca",
         "es-ES": "Navaja del Verdugo"
     },
     "v8FZCA": {
-        "ko-KR": "루시스 플레일",
         "en-US": "Lucis Flail",
         "pt-BR": "Mangual Lucis",
         "es-ES": "Mayal Lucis"
     },
     "wMFZCA": {
-        "ko-KR": "맥시 스패너",
         "en-US": "Maxi Spanner",
         "pt-BR": "Chave Maxi",
         "es-ES": "Llave Maxi"
     },
     "wcFZCA": {
-        "ko-KR": "플래티넘 대거",
         "en-US": "Platinum Dagger",
         "pt-BR": "Adaga Platina",
         "es-ES": "Daga Platina"
     },
     "wsFZCA": {
-        "ko-KR": "페니텐티아",
         "en-US": "Penitentia",
         "pt-BR": "Penitência",
         "es-ES": "Penitencia"
     },
     "w8FZCA": {
-        "ko-KR": "사이킥 스피어 로드",
         "en-US": "Psychic Spear Rod",
         "pt-BR": "Lança Psíquica",
         "es-ES": "Estocada Psíquica"
     },
     "xMFZCA": {
-        "ko-KR": "래피드 파이어",
         "en-US": "Rapid Fire",
         "pt-BR": "Triarco",
         "es-ES": "Triarco"
     },
     "xcFZCA": {
-        "ko-KR": "리퍼 크로스",
         "en-US": "Reaper Cross",
         "pt-BR": "Ceifo Cruzado",
         "es-ES": "Corte Cruzado"
     },
     "xsFZCA": {
-        "ko-KR": "스칼렛 리본",
         "en-US": "Scarlet Ribbon",
         "pt-BR": "Fita Fru-Fru",
         "es-ES": "Lazo Carmesí"
     },
     "x8FZCA": {
-        "ko-KR": "샤프 스타",
         "en-US": "Sharp Star",
         "pt-BR": "Estrela Afiada",
         "es-ES": "Estrella Afilada"
     },
     "yMFZCA": {
-        "ko-KR": "스태프 오브 미라클",
         "en-US": "Staff of Miracle",
         "pt-BR": "Bastão Milagroso",
         "es-ES": "Bastón Milagroso"
     },
     "ycFZCA": {
-        "ko-KR": "베르난",
         "en-US": "Vernan",
         "pt-BR": "Vernan",
         "es-ES": "Vernan"
     },
     "ysFZCA": {
-        "ko-KR": "볼라르",
         "en-US": "Volar",
         "pt-BR": "Volar",
         "es-ES": "Volar"
     },
     "y8FZCA": {
-        "ko-KR": "윈드 가일",
         "en-US": "Wind Gale",
         "pt-BR": "Ventania",
         "es-ES": "Ráfaga de Viento"
     },
     "zMFZCA": {
-        "ko-KR": "[라비앙]\n앗, 지금 손에 든 그건... 리펜트 슬래셔넹",
         "en-US": "[Rabian]\nOh, that thing you're holding right now... that's a Repentance Slasher.",
         "pt-BR": "[Lavian]\nAh, isso na sua mão... é a Navalha Repente!",
         "es-ES": "[Rabian]\nAh, eso que tienes en la mano ahora mismo... ¡es una Navaja de Penitencia!"
     },
     "zcFZCA": {
-        "ko-KR": "[라비앙]\n미안하지만 그건 저지먼트 슬래셔와 종속관계라 강화를 해줄 수 없엉.",
         "en-US": "[Rabian]\nSorry, but that is bound to Judgment Slasher, so I can't enchant it.",
         "pt-BR": "[Lavian]\nPerdão, mas como ela faz parte do conjunto da Navalha Carrasca, ela não pode ser encantada.",
         "es-ES": "[Rabian]\nLo siento, pero eso está vinculado la Navaja del Vergugo, así que no puedo mejorarlo."
     },
     "zsFZCA": {
-        "ko-KR": "생체 실험 파편",
         "en-US": "Biological Experiment Fragment",
         "pt-BR": "Fragmento de Experimento",
         "es-ES": "Fragmento de experimento biológico"
     },
     "z8FZCA": {
-        "ko-KR": "생체 연구 서류",
         "en-US": "Biological Research Document",
         "pt-BR": "Arquivos de Biopesquisa",
         "es-ES": "Documentos de investigación biológica"
     },
     "0MFZCA": {
-        "ko-KR": "[라비앙]\n안녕~ 나한테 볼일 있는거양?",
         "en-US": "[Rabian]\nHi~ Do you need something from me?",
         "pt-BR": "[Lavian]\nOlá. Em que posso ajudar?",
         "es-ES": "[Rabian]\n¡Hola~! ¿Tenías algo que pedirme?"
     },
     "0cFZCA": {
-        "ko-KR": "무기 강화를 해줄 수 있어?",
         "en-US": "Can you enchant my weapon?",
         "pt-BR": "Você pode encantar uma arma para mim?",
         "es-ES": "¿Puedes mejorar mi arma?"
     },
     "0sFZCA": {
-        "ko-KR": "[라비앙]\n그러고 싶지마안. 지금 {0} 의 무기는 내가 다룰 수 없는거얼?",
         "en-US": "[Rabian]\nI'd like to, but... your weapon is not something I can handle, {0}.",
         "pt-BR": "[Lavian]\nEu adoraria, mas... {0}, eu não mexo com esse tipo de arma.",
         "es-ES": "[Rabian]\nMe gustaría, perooo. Ahora mismo no puedo manipular el arma de {0}."
     },
     "08FZCA": {
-        "ko-KR": "[라비앙]\n생체 연구동 안에서 무기를 구하면 그때 찾아와줭~",
         "en-US": "[Rabian]\nCome find me after you get a weapon from inside the Biological Laboratory~",
         "pt-BR": "[Lavian]\nPor favor, volte quando você tiver uma Bioarma.",
         "es-ES": "[Rabian]\nConsigue un arma dentro del Laboratorio Biológico y vuelve a verme entonces~"
     },
     "1MFZCA": {
-        "ko-KR": "어떤 무기를 말하는거야?",
         "en-US": "What kind of weapon are you talking about?",
         "pt-BR": "Bioarma?",
         "es-ES": "¿Qué arma quieres decir?"
     },
     "1cFZCA": {
-        "ko-KR": "비용은 어떻게 돼?",
         "en-US": "How much does it cost?",
         "pt-BR": "Quanto vai custar?",
         "es-ES": "¿Cómo funciona el coste?"
     },
     "1sFZCA": {
-        "ko-KR": "[라비앙]\n목록이 기니깐... 내가 다 읽어줄 순 없엉. 대신 내가 적어둔 이 리스트를 읽어봥.",
         "en-US": "[Rabian]\nThe list is long... I can't read it all for you. Read this list I wrote down instead.",
         "pt-BR": "[Lavian]\nTem tantas armas que é melhor você dar uma olhada na lista.",
         "es-ES": "[Rabian]\nComo la lista es larguísima... no puedo leértela toda. Mejor mira esta lista que he preparado."
     },
     "18FZCA": {
-        "ko-KR": "[<ITEM>아도라레 스태프<INFO>2057</INFO></ITEM>]\n[<ITEM>아구도 필로<INFO>28044</INFO></ITEM>]\n[<ITEM>에이밍 보우<INFO>18186</INFO></ITEM>]\n[<ITEM>앤틱 첼로<INFO>32108</INFO></ITEM>]\n[<ITEM>아르헨 블란코<INFO>32023</INFO></ITEM>]\n[<ITEM>투신의 붕대<INFO>1866</INFO></ITEM>]\n[<ITEM>블랙 서클<INFO>32107</INFO></ITEM>]",
         "en-US": "[<ITEM>Adorare Staff<INFO>2057</INFO></ITEM>]\n[<ITEM>Agudo Filo<INFO>28044</INFO></ITEM>]\n[<ITEM>Aiming Bow<INFO>18186</INFO></ITEM>]\n[<ITEM>Antique Cello<INFO>32108</INFO></ITEM>]\n[<ITEM>Argen Blanco<INFO>32023</INFO></ITEM>]\n[<ITEM>Asura Bandage<INFO>1866</INFO></ITEM>]\n[<ITEM>Black Circle<INFO>32107</INFO></ITEM>]",
         "pt-BR": "[<ITEM>Adorare<INFO>2057</INFO></ITEM>]\n[<ITEM>Agudo Filo<INFO>28044</INFO></ITEM>]\n[<ITEM>Arco Certeiro<INFO>18186</INFO></ITEM>]\n[<ITEM>Viola<INFO>32108</INFO></ITEM>]\n[<ITEM>Argen Blanco<INFO>32023</INFO></ITEM>]\n[<ITEM>Bandagens Divinas<INFO>1866</INFO></ITEM>]\n[<ITEM>Banjo Negro<INFO>32107</INFO></ITEM>]",
         "es-ES": "[<ITEM>Adorare<INFO>2057</INFO></ITEM>]\n[<ITEM>Agudo Filo<INFO>28044</INFO></ITEM>]\n[<ITEM>Arco Certero<INFO>18186</INFO></ITEM>]\n[<ITEM>Violonchelo Antiguo<INFO>32108</INFO></ITEM>]\n[<ITEM>Argen Blanco<INFO>32023</INFO></ITEM>]\n[<ITEM>Vendas Divinas<INFO>1866</INFO></ITEM>]\n[<ITEM>Banjo Negro<INFO>32107</INFO></ITEM>]"
     },
     "2MFZCA": {
-        "ko-KR": "[<ITEM>볼티진<INFO>28633</INFO></ITEM>]\n[<ITEM>총명추<INFO>16096</INFO></ITEM>]\n[<ITEM>맹룡투갑<INFO>1865</INFO></ITEM>]\n[<ITEM>쿨란트 인젝션<INFO>16093</INFO></ITEM>]\n[<ITEM>크림즌 로즈 스틱<INFO>26158</INFO></ITEM>]\n[<ITEM>더스트 그레이브<INFO>26160</INFO></ITEM>]\n[<ITEM>엔진 파일벙커<INFO>16092</INFO></ITEM>]",
         "en-US": "[<ITEM>Boltigin<INFO>28633</INFO></ITEM>]\n[<ITEM>Bright Mace<INFO>16096</INFO></ITEM>]\n[<ITEM>Combo Fist<INFO>1865</INFO></ITEM>]\n[<ITEM>Coolant Injection<INFO>16093</INFO></ITEM>]\n[<ITEM>Crimson Rose Stick<INFO>26158</INFO></ITEM>]\n[<ITEM>Dust Grave<INFO>26160</INFO></ITEM>]\n[<ITEM>Engine Pilebunker<INFO>16092</INFO></ITEM>]",
         "pt-BR": "[<ITEM>Lançarin<INFO>28633</INFO></ITEM>]\n[<ITEM>Pendulum<INFO>16096</INFO></ITEM>]\n[<ITEM>Cólera do Dragão<INFO>1865</INFO></ITEM>]\n[<ITEM>Injetor Acoplável<INFO>16093</INFO></ITEM>]\n[<ITEM>Varinha de Rosas Cálidas<INFO>26158</INFO></ITEM>]\n[<ITEM>Castigo Diamante<INFO>26160</INFO></ITEM>]\n[<ITEM>Bate-Estacas Motorizado<INFO>16092</INFO></ITEM>]",
         "es-ES": "[<ITEM>Lanzarín<INFO>28633</INFO></ITEM>]\n[<ITEM>Pendulum<INFO>16096</INFO></ITEM>]\n[<ITEM>Cólera del Dragón Feroz<INFO>1865</INFO></ITEM>]\n[<ITEM>Inyector Acoplable<INFO>16093</INFO></ITEM>]\n[<ITEM>Varita de Rosas Cálidas<INFO>26158</INFO></ITEM>]\n[<ITEM>Tumba Diamantina<INFO>26160</INFO></ITEM>]\n[<ITEM>Martinete Motorizado<INFO>16092</INFO></ITEM>]"
     },
     "2cFZCA": {
-        "ko-KR": "[<ITEM>이스탈<INFO>32351</INFO></ITEM>]\n[<ITEM>팔켄 슈터<INFO>18187</INFO></ITEM>]\n[<ITEM>파르테잔<INFO>32350</INFO></ITEM>]\n[<ITEM>포트리지<INFO>32025</INFO></ITEM>]\n[<ITEM>제네로드<INFO>16094</INFO></ITEM>]\n[<ITEM>골든 렌치<INFO>1333</INFO></ITEM>]\n[<ITEM>그라비테이션 스태프<INFO>2056</INFO></ITEM>]",
         "en-US": "[<ITEM>Estal<INFO>32351</INFO></ITEM>]\n[<ITEM>Falken Shooter<INFO>18187</INFO></ITEM>]\n[<ITEM>Farthezan<INFO>32350</INFO></ITEM>]\n[<ITEM>Fortridge<INFO>32025</INFO></ITEM>]\n[<ITEM>Gene Rod<INFO>16094</INFO></ITEM>]\n[<ITEM>Golden Wrench<INFO>1333</INFO></ITEM>]\n[<ITEM>Gravitation Staff<INFO>2056</INFO></ITEM>]",
         "pt-BR": "[<ITEM>Estal<INFO>32351</INFO></ITEM>]\n[<ITEM>Tiro Rapina<INFO>18187</INFO></ITEM>]\n[<ITEM>Farthezan<INFO>32350</INFO></ITEM>]\n[<ITEM>Fortridge<INFO>32025</INFO></ITEM>]\n[<ITEM>Caduceu<INFO>16094</INFO></ITEM>]\n[<ITEM>Ferramenta Dourada<INFO>1333</INFO></ITEM>]\n[<ITEM>Gravitação<INFO>2056</INFO></ITEM>]",
         "es-ES": "[<ITEM>Estal<INFO>32351</INFO></ITEM>]\n[<ITEM>Tiro Halcón<INFO>18187</INFO></ITEM>]\n[<ITEM>Farthezan<INFO>32350</INFO></ITEM>]\n[<ITEM>Fortridge<INFO>32025</INFO></ITEM>]\n[<ITEM>Caduceo<INFO>16094</INFO></ITEM>]\n[<ITEM>Herramienta Dorada<INFO>1333</INFO></ITEM>]\n[<ITEM>Gravitación<INFO>2056</INFO></ITEM>]"
     },
     "2sFZCA": {
-        "ko-KR": "[<ITEM>하베<INFO>32024</INFO></ITEM>]\n[<ITEM>하트 휩<INFO>26212</INFO></ITEM>]\n[<ITEM>잭 더 나이프<INFO>28767</INFO></ITEM>]\n[<ITEM>저지먼트 슬래셔<INFO>28765</INFO></ITEM>]\n[<ITEM>루시스 플레일<INFO>16095</INFO></ITEM>]\n[<ITEM>맥시 스패너<INFO>28138</INFO></ITEM>]\n[<ITEM>플래티넘 대거<INFO>28768</INFO></ITEM>]",
         "en-US": "[<ITEM>Harve<INFO>32024</INFO></ITEM>]\n[<ITEM>Heart Whip<INFO>26212</INFO></ITEM>]\n[<ITEM>Jack the Knife<INFO>28767</INFO></ITEM>]\n[<ITEM>Judgment Slasher<INFO>28765</INFO></ITEM>]\n[<ITEM>Lucis Flail<INFO>16095</INFO></ITEM>]\n[<ITEM>Maxi Spanner<INFO>28138</INFO></ITEM>]\n[<ITEM>Platinum Dagger<INFO>28768</INFO></ITEM>]",
         "pt-BR": "[<ITEM>Harve<INFO>32024</INFO></ITEM>]\n[<ITEM>Chibata Coração<INFO>26212</INFO></ITEM>]\n[<ITEM>Estripadora<INFO>28767</INFO></ITEM>]\n[<ITEM>Navalha Carrasca<INFO>28765</INFO></ITEM>]\n[<ITEM>Mangual Lucis<INFO>16095</INFO></ITEM>]\n[<ITEM>Chave Maxi<INFO>28138</INFO></ITEM>]\n[<ITEM>Adaga Platina<INFO>28768</INFO></ITEM>]",
         "es-ES": "[<ITEM>Harve<INFO>32024</INFO></ITEM>]\n[<ITEM>Látigo Corazón<INFO>26212</INFO></ITEM>]\n[<ITEM>Destripador<INFO>28767</INFO></ITEM>]\n[<ITEM>Navaja del Verdugo<INFO>28765</INFO></ITEM>]\n[<ITEM>Mayal Lucis<INFO>16095</INFO></ITEM>]\n[<ITEM>Llave Maxi<INFO>28138</INFO></ITEM>]\n[<ITEM>Daga Platina<INFO>28768</INFO></ITEM>]"
     },
     "28FZCA": {
-        "ko-KR": "[<ITEM>페니텐티아<INFO>26161</INFO></ITEM>]\n[<ITEM>사이킥 스피어 로드<INFO>26159</INFO></ITEM>]\n[<ITEM>래피드 파이어<INFO>18184</INFO></ITEM>]\n[<ITEM>리퍼 크로스<INFO>28042</INFO></ITEM>]\n[<ITEM>스칼렛 리본<INFO>26213</INFO></ITEM>]\n[<ITEM>샤프 스타<INFO>18185</INFO></ITEM>]\n[<ITEM>스태프 오브 미라클<INFO>2055</INFO></ITEM>]",
         "en-US": "[<ITEM>Penitentia<INFO>26161</INFO></ITEM>]\n[<ITEM>Psychic Spear Rod<INFO>26159</INFO></ITEM>]\n[<ITEM>Rapid Fire<INFO>18184</INFO></ITEM>]\n[<ITEM>Reaper Cross<INFO>28042</INFO></ITEM>]\n[<ITEM>Scarlet Ribbon<INFO>26213</INFO></ITEM>]\n[<ITEM>Sharp Star<INFO>18185</INFO></ITEM>]\n[<ITEM>Staff of Miracle<INFO>2055</INFO></ITEM>]",
         "pt-BR": "[<ITEM>Penitência<INFO>26161</INFO></ITEM>]\n[<ITEM>Lança Psíquica<INFO>26159</INFO></ITEM>]\n[<ITEM>Triarco<INFO>18184</INFO></ITEM>]\n[<ITEM>Ceifo Cruzado<INFO>28042</INFO></ITEM>]\n[<ITEM>Fita Fru-Fru<INFO>26213</INFO></ITEM>]\n[<ITEM>Estrela Afiada<INFO>18185</INFO></ITEM>]\n[<ITEM>Bastão Milagroso<INFO>2055</INFO></ITEM>]",
         "es-ES": "[<ITEM>Penitencia<INFO>26161</INFO></ITEM>]\n[<ITEM>Estocada Psíquica<INFO>26159</INFO></ITEM>]\n[<ITEM>Triarco<INFO>18184</INFO></ITEM>]\n[<ITEM>Corte Cruzado<INFO>28042</INFO></ITEM>]\n[<ITEM>Lazo Carmesí<INFO>26213</INFO></ITEM>]\n[<ITEM>Estrella Afilada<INFO>18185</INFO></ITEM>]\n[<ITEM>Bastón Milagroso<INFO>2055</INFO></ITEM>]"
     },
     "3MFZCA": {
-        "ko-KR": "[<ITEM>베르난<INFO>21052</INFO></ITEM>]\n[<ITEM>볼라르<INFO>21051</INFO></ITEM>]\n[<ITEM>윈드 가일<INFO>18188</INFO></ITEM>]\n----- 끝------",
         "en-US": "[<ITEM>Vernan<INFO>21052</INFO></ITEM>]\n[<ITEM>Volar<INFO>21051</INFO></ITEM>]\n[<ITEM>Wind Gale<INFO>18188</INFO></ITEM>]\n----- End------",
         "pt-BR": "[<ITEM>Vernan<INFO>21052</INFO></ITEM>]\n[<ITEM>Volar<INFO>21051</INFO></ITEM>]\n[<ITEM>Ventania<INFO>18188</INFO></ITEM>]\n----- Fim ------",
         "es-ES": "[<ITEM>Vernan<INFO>21052</INFO></ITEM>]\n[<ITEM>Volar<INFO>21051</INFO></ITEM>]\n[<ITEM>Ráfaga de Viento<INFO>18188</INFO></ITEM>]\n----- Fin ------"
     },
     "3cFZCA": {
-        "ko-KR": "[라비앙]\n내용은 다 확인했징? 그럼 수고행~",
         "en-US": "[Rabian]\nYou've checked everything, right? Then take care~",
         "pt-BR": "[Lavian]\nDeu uma boa olhada? Ótimo! Te vejo mais tarde!",
         "es-ES": "[Rabian]\n¿Ya lo has revisado todo? Entonces, buen trabajo~"
     },
     "3sFZCA": {
-        "ko-KR": "[라비앙]\n구랭 돈 이야기구낭.\n내가 제일 좋아하는 이야기니깐 천천히 이야기 해줄겡",
         "en-US": "[Rabian]\nI see, so it's about money.\nMy favorite topic, so I'll explain it slowly.",
         "pt-BR": "[Lavian]\nAh, preço.\nJá que dinheiro é meu assunto favorito, deixe-me explicar com detalhes.",
         "es-ES": "[Rabian]\nVaya, así que quieres hablar de dinero.\nComo es mi tema favorito, te lo explicaré despacito."
     },
     "38FZCA": {
-        "ko-KR": "[라비앙]\n먼저 강화될 모든 무기는 3슬롯이랑 4슬롯에 효능강화를 하게될거양. 양쪽 슬롯 모두 같은 가격을 받을거구.",
         "en-US": "[Rabian]\nFirst, all weapons to be enhanced will receive effect enchantment in slots 3 and 4. The price will be the same for both slots.",
         "pt-BR": "[Lavian]\nPrimeiro, eu encanto o slot 3 e 4 das armas listadas. O preço para cada slot é o mesmo.",
         "es-ES": "[Rabian]\nPrimero, a todas las armas que se mejoren se les aplicará mejora de efecto en las ranuras 3 y 4. Y cobraré el mismo precio por ambas ranuras."
     },
     "4MFZCA": {
-        "ko-KR": "[라비앙]\n이 가격이란게 말양. 난 사실 너희들의 돈이 필요없거든. 네가 생체 연구동을 돌아다니는동안 입수한 물건들이 필요행",
         "en-US": "[Rabian]\nAbout that price. I don't actually need your money. I need the items you obtained while wandering around the Biological Laboratory.",
         "pt-BR": "[Lavian]\nPra falar a verdade, eu não preciso do seu dinheiro. Eu preciso é de algumas coisas do Biolaboratório.",
         "es-ES": "[Rabian]\nVerás, en realidad no necesito vuestro dinero. Lo que necesito son los objetos que consigues mientras recorres el Laboratorio Biológico."
     },
     "4cFZCA": {
-        "ko-KR": "[라비앙]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n[<ITEM>{2}<INFO>{3}</INFO></ITEM>]\n이 두개의 물건을 강화 비용으로 받게 될거양.",
         "en-US": "[Rabian]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n[<ITEM>{2}<INFO>{3}</INFO></ITEM>]\nI will take these two items as the enchantment fee.",
         "pt-BR": "[Lavian]\nMe traga esses dois.\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n[<ITEM>{2}<INFO>{3}</INFO></ITEM>]",
         "es-ES": "[Rabian]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n[<ITEM>{2}<INFO>{3}</INFO></ITEM>]\nRecibiré estos dos objetos como coste de mejora."
     },
     "4sFZCA": {
-        "ko-KR": "[라비앙]\n비용은 강화 형태에 따라 다른데, 각각 3가지가 있거등. 어떤걸 알고싶엉?",
         "en-US": "[Rabian]\nThe cost differs depending on the enchantment type, and there are 3 types. Which one would you like to know about?",
         "pt-BR": "[Lavian]\nAgora, você pode escolher dentre as 3 categorias, cada uma com um preço diferente. De qual categoria você gostaria de saber mais?",
         "es-ES": "[Rabian]\nEl coste varía según el tipo de categoría, y hay 3 tipos distintos. ¿Cuál quieres conocer?"
     },
     "48FZCA": {
-        "ko-KR": "일반강화",
         "en-US": "Normal enchantment",
         "pt-BR": "Encanto Normal",
         "es-ES": "Encantamiento normal"
     },
     "5MFZCA": {
-        "ko-KR": "고급강화",
         "en-US": "Advanced enchantment",
         "pt-BR": "Encanto Avançado",
         "es-ES": "Encantamiento avanzado"
     },
     "5cFZCA": {
-        "ko-KR": "확정인챈트(3슬롯전용)",
         "en-US": "Guaranteed Enchant (3rd Slot Only)",
         "pt-BR": "Encanto Seguro (Slot 3 apenas)",
         "es-ES": "Encantamiento garantizado (solo para la ranura 3)"
     },
     "5sFZCA": {
-        "ko-KR": "[라비앙]\n먼저 비용부터 알려줄겡~",
         "en-US": "[Rabian]\nI'll tell you the cost first~",
         "pt-BR": "[Lavian]\nPrimeiro, o valor.",
         "es-ES": "[Rabian]\nPrimero te diré el coste~"
     },
     "58FZCA": {
-        "ko-KR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2}개",
         "en-US": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2}",
         "pt-BR": "{2}x [<ITEM>{0}<INFO>{1}</INFO></ITEM>]",
         "es-ES": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2} unidades"
     },
     "6MFZCA": {
-        "ko-KR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2}개",
         "en-US": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2}",
         "pt-BR": "{2}x [<ITEM>{0}<INFO>{1}</INFO></ITEM>]",
         "es-ES": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2} unidades"
     },
     "6cFZCA": {
-        "ko-KR": "이정도의 비용이 필요행. 여기에 강화 특징에 대한 부분 말인뎅",
         "en-US": "You'll need this much. And about the enchantment characteristics...\"",
         "pt-BR": "Esses são os valores. Agora, os detalhes...",
         "es-ES": "Necesitarás más o menos esa cantidad. Y en cuanto a las características de la mejora...\""
     },
     "6sFZCA": {
-        "ko-KR": "[라비앙]\n일반 강화는 4슬롯 강화실패율은 35%야. 그중 5%는 장비가 완전히 파괴되는 확률이징",
         "en-US": "[Rabian]\nFor Normal enchantment, the failure rate for the 4th slot is 35%. Of that, there is a 5% chance the equipment will be completely destroyed.",
         "pt-BR": "[Lavian]\nEncanto Normal tem 35% de chance de falha no slot 4. E 5% de chance de perder completamente a arma.",
         "es-ES": "[Rabian]\nEn el encantamiento normal, la probabilidad de fallo en la ranura 4 es del 35 %. De ese porcentaje, hay un 5 % de probabilidad de que el equipo se destruya por completo."
     },
     "68FZCA": {
-        "ko-KR": "[라비앙]\n그리고 3슬롯 강화실패율은 무려 70%야. 그중 20%는 장비가 완전히 파괴되는 확률이징",
         "en-US": "[Rabian]\nAnd the failure rate for the 3rd slot is a whopping 70%. Of that, there is a 20% chance the equipment will be completely destroyed.",
         "pt-BR": "[Lavian]\nPior ainda, é a chance de falha ao encantar o slot 3, que é de 70%. E 20% de chance de perder completamente a arma.",
         "es-ES": "[Rabian]\nY en la ranura 3, la probabilidad de fallo es nada menos que del 70 %. De ese porcentaje, hay un 20 % de probabilidad de que el equipo se destruya por completo."
     },
     "7MFZCA": {
-        "ko-KR": "[라비앙]\n효능 자체는 고급 강화와 다를게 없지만 가격이 싸니깐 여차하면 쓰기엔 괜찮겠을거야.\n하지만 파괴율이 높으니깐 3슬롯 강화에는 딱히 추천하지 않앙~",
         "en-US": "[Rabian]\nThe effect itself is no different from Advanced enchantment, but since the price is cheap, it should be fine to use in a pinch.\nBut since the destruction rate is high, I don't really recommend it for 3rd slot enchantment~",
         "pt-BR": "[Lavian]\nApesar disso, essa categoria é mais barata que o Encanto Avançado. Escolha essa se você não tem muita grana.\nMas já que as chances de falha são altas, Eu não recomendaria para o Slot 3.",
         "es-ES": "[Rabian]\nEl efecto en sí no se diferencia del encantamiento avanzado, pero como es más barato, puede venirte bien si necesitas usarlo.\nPero como la probabilidad de destrucción es alta, no lo recomiendo demasiado para el encantamiento de la ranura 3~"
     },
     "7cFZCA": {
-        "ko-KR": "[라비앙]\n고급강화의 4슬롯 강화실패율은 10%야. 장비는 온전히 보존되는 형태니깐 준비물이 넉넉하다면 추천할겡",
         "en-US": "[Rabian]\nFor Advanced enchantment, the failure rate for the 4th slot is 10%. Since the equipment remains intact, I recommend it if you have plenty of materials.",
         "pt-BR": "[Lavian]\nEncanto Avançado tem 10% de chance de falha no slot 4 e 0% de chance de perder a arma. Essa categoria é para quem pode pagar.",
         "es-ES": "[Rabian]\nEn el encantamiento avanzado, la probabilidad de fallo en la ranura 4 es del 10 %. Como el equipo se conserva intacto, te lo recomiendo si llevas materiales de sobra."
     },
     "7sFZCA": {
-        "ko-KR": "[라비앙]\n그리고 3슬롯 강화실패율은 30%야. 물론~ 비싼 비용을 받기때문엥 장비가 파괴되진 않앙.",
         "en-US": "[Rabian]\nAnd the failure rate for the 3rd slot is 30%. Of course~ since the cost is expensive, the equipment will not be destroyed.",
         "pt-BR": "[Lavian]\nA chance de falha no slot 3 é de 30%. E 0% de chance de perder a arma, mas claro, se você puder pagar!",
         "es-ES": "[Rabian]\nY en la ranura 3, la probabilidad de fallo es del 30 %. Claro~ como el coste es más alto, el equipo no se destruye."
     },
     "78FZCA": {
-        "ko-KR": "[라비앙]\n3슬롯 강화를 나름 저렴하고 안전하게 하고싶다면 딱히 나쁘진 않을지도 몰랑",
         "en-US": "[Rabian]\nIf you want to enchant the 3rd slot somewhat cheaply and safely, it might not be a bad choice.",
         "pt-BR": "[Lavian]\nEscolha essa opção se você deseja encantar o Slot 3 com segurança, mas não quer gastar muito.",
         "es-ES": "[Rabian]\nSi quieres mejorar la ranura 3 de forma relativamente barata y segura, quizá no sea una mala opción."
     },
     "8MFZCA": {
-        "ko-KR": "[라비앙]\n확정 인챈트는 강화성공률 100%. 거기에 원하는 효능을 입맛대로 고를 수 있지!",
         "en-US": "[Rabian]\nGuaranteed Enchant has a 100% success rate. And you can choose the effect you want to your liking!",
         "pt-BR": "[Lavian]\nEncanto Seguro tem 100% de chance de successo. Melhor ainda, você pode escolher o efeito desejado!",
         "es-ES": "[Rabian]\nEl encantamiento garantizado tiene una probabilidad de éxito del 100 %. ¡Y además puedes elegir el efecto que quieras a tu gusto!"
     },
     "8cFZCA": {
-        "ko-KR": "[라비앙]\n다만 3번째 슬롯에 강화할때에만 등장하는 메뉴라 모든 슬롯에서 사용할 순 없다는걸 유의해야해.",
         "en-US": "[Rabian]\nHowever, please note that it only appears when enhancing the 3rd slot, so it cannot be used on every slot.",
         "pt-BR": "[Lavian]\nMas só está disponível para o Slot 3. Para o slot 4, você deve escolher outra categoria.",
         "es-ES": "[Rabian]\nPero ten en cuenta que este menú solo aparece al mejorar la tercera ranura, así que no se puede usar en todas las ranuras."
     },
     "8sFZCA": {
-        "ko-KR": "[라비앙]\n궁금한게 있으면 다시 찾아왕~~",
         "en-US": "[Rabian]\nCome back if you have any questions~~",
         "pt-BR": "[Lavian]\nSinta-se à vontade para voltar se tiver outras dúvidas.",
         "es-ES": "[Rabian]\nSi tienes alguna duda, vuelve a verme~~"
     },
     "88FZCA": {
-        "ko-KR": "[라비앙]\n히힝, 이 장비는 이미 충분히 강한걸.",
         "en-US": "[Rabian]\nHehe, this equipment is already strong enough.",
         "pt-BR": "[Lavian]\nHeh heh. Esse equipamento já está totalmente encantado.",
         "es-ES": "[Rabian]\nJe, je, este equipo ya es bastante fuerte."
     },
     "9MFZCA": {
-        "ko-KR": "일반 인챈트",
         "en-US": "Normal Enchant",
         "pt-BR": "Encanto Normal",
         "es-ES": "Encantamiento normal"
     },
     "9cFZCA": {
-        "ko-KR": "고급 인챈트",
         "en-US": "Advanced Enchant",
         "pt-BR": "Encanto Avançado",
         "es-ES": "Encantamiento avanzado"
     },
     "9sFZCA": {
-        "ko-KR": "^FF0000확정 인챈트(3슬롯 전용)^000000",
         "en-US": "^FF0000Guaranteed Enchant (3rd Slot Only)^000000",
         "pt-BR": "^FF0000Encanto Seguro (Slot 3 apenas)^000000",
         "es-ES": "^FF0000Encantamiento garantizado (solo para la ranura 3)^000000"
     },
     "98FZCA": {
-        "ko-KR": "일반 강화",
         "en-US": "Normal enchantment",
         "pt-BR": "Encanto Normal",
         "es-ES": "Encantamiento normal"
     },
     "+MFZCA": {
-        "ko-KR": "고급강화",
         "en-US": "Advanced enchantment",
         "pt-BR": "Encanto Avançado",
         "es-ES": "Encantamiento avanzado"
     },
     "+cFZCA": {
-        "ko-KR": "[라비앙]\n우왕~ 장비를 마련했구나. 그럼 어떤 코스로 강화를 할지 선택해봐",
         "en-US": "[Rabian]\nWow~ You've prepared the equipment. Then choose which course of enchantment you want.",
         "pt-BR": "[Lavian]\nOoh, você está com uma arma muito legal. Que categoria deseja encantar?",
         "es-ES": "[Rabian]\n¡Guau~! Así que ya has preparado el equipo. Entonces elige qué curso de mejora quieres seguir."
     },
     "+sFZCA": {
-        "ko-KR": "취소",
         "en-US": "Cancel",
         "pt-BR": "Cancelar",
         "es-ES": "Cancelar"
     },
     "+8FZCA": {
-        "ko-KR": "[라비앙]\n그래! 다음에 또 와! 안녕~",
         "en-US": "[Rabian]\nOkay! Come again next time! Bye~",
         "pt-BR": "[Lavian]\nCerto, te vejo mais tarde!",
         "es-ES": "[Rabian]\n¡Vale! ¡Vuelve la próxima vez! ¡Adiós~!"
     },
     "/MFZCA": {
-        "ko-KR": "[라비앙]\n응?! 지금 뭘 선택한거야? 내가 잘못 본건가?!",
         "en-US": "[Rabian]\nHuh?! What did you just choose? Did I see that wrong?!",
         "pt-BR": "[Lavian]\nMm? O que foi que você escolheu? Será que eu errei?",
         "es-ES": "[Rabian]\n¿Eh? ¿Qué acabas de elegir? ¿Lo habré visto mal?"
     },
     "/cFZCA": {
-        "ko-KR": "[라비앙]",
         "en-US": "[Rabian]",
         "pt-BR": "[Lavian]",
         "es-ES": "[Rabian]"
     },
     "/sFZCA": {
-        "ko-KR": "강화재료가 이렇게 들어가는데 정말 할거양?",
         "en-US": "These enchantment materials will be required. Are you really going to do it?",
         "pt-BR": "Esse é o meu preço. Deseja continuar?",
         "es-ES": "Estos son los materiales que se consumirán, ¿de verdad quieres hacerlo?"
     },
     "/8FZCA": {
-        "ko-KR": "취소한다",
         "en-US": "Cancel",
         "pt-BR": "Cancelar",
         "es-ES": "Cancelar"
     },
     "AMJZCA": {
-        "ko-KR": "강화를 진행한다",
         "en-US": "Proceed with enchantment",
         "pt-BR": "Continue.",
         "es-ES": "Seguir"
     },
     "AcJZCA": {
-        "ko-KR": "[관리자 모드]\n^0000FF관리자 무료모드 발동^000000",
         "en-US": "[Admin Mode]\n^0000FFAdmin Free Mode Activated^000000",
         "pt-BR": "[Modo Administrador]\n^0000FFModo grátis de administrador ativado^000000",
         "es-ES": "[Modo administrador]\n^0000FFModo gratuito de administrador activado^000000"
     },
     "AsJZCA": {
-        "ko-KR": "[라비앙]\n거래를 위한 재료가 부족해~ 다시알려줄겡.",
         "en-US": "[Rabian]\nYou're short on materials for the transaction~ I'll tell you again.",
         "pt-BR": "[Lavian]\nMateriais insuficientes. Vou te dizer quais são.",
         "es-ES": "[Rabian]\nTe faltan materiales para el trato~ Te lo vuelvo a explicar."
     },
     "A8JZCA": {
-        "ko-KR": "필요한 분량은 이렇게야~ 알겠징?",
         "en-US": "This is the required amount~ Got it?",
         "pt-BR": "Entendeu?",
         "es-ES": "La cantidad necesaria es esta~ ¿Entendido?"
     },
     "BMJZCA": {
-        "ko-KR": "[라비앙]\n읭? 이럴리가 없는데 뭔가 잘못된거양!",
         "en-US": "[Rabian]\nHuh? This can't be right, but something went wrong!",
         "pt-BR": "[Lavian]\n?...? Isso não está certo. O que houve?",
         "es-ES": "[Rabian]\n¿Eh? No puede ser... ¡Algo ha salido mal!"
     },
     "BcJZCA": {
-        "ko-KR": "일반인챈트 4슬롯",
         "en-US": "Normal Enchant 4th Slot",
         "pt-BR": "Encanto Normal Slot 4",
         "es-ES": "Encantamiento normal ranura 4"
     },
     "BsJZCA": {
-        "ko-KR": "일반인챈트 3슬롯",
         "en-US": "Normal Enchant 3rd Slot",
         "pt-BR": "Encanto Normal Slot 3",
         "es-ES": "Encantamiento normal ranura 3"
     },
     "B8JZCA": {
-        "ko-KR": "고급인챈트 4슬롯",
         "en-US": "Advanced Enchant 4th Slot",
         "pt-BR": "Encanto Avançado Slot 4",
         "es-ES": "Encantamiento avanzado ranura 4"
     },
     "CMJZCA": {
-        "ko-KR": "고급인챈트 3슬롯",
         "en-US": "Advanced Enchant 3rd Slot",
         "pt-BR": "Encanto Avançado Slot 3",
         "es-ES": "Encantamiento avanzado ranura 3"
     },
     "CcJZCA": {
-        "ko-KR": "^FF0000취소^000000",
         "en-US": "^FF0000Cancel^000000",
         "pt-BR": "^FF0000Cancelar^000000",
         "es-ES": "^FF0000Cancelar^000000"
     },
     "CsJZCA": {
-        "ko-KR": "세이렌의 기억",
         "en-US": "Seyren's Memory",
         "pt-BR": "Memória de Seyren",
         "es-ES": "Recuerdo de Seyren"
     },
     "C8JZCA": {
-        "ko-KR": "하워드의 기억",
         "en-US": "Howard’s Memory",
         "pt-BR": "Memória de Howard",
         "es-ES": "Recuerdo de Howard"
     },
     "DMJZCA": {
-        "ko-KR": "에레메스의 기억",
         "en-US": "Eremes' Memory",
         "pt-BR": "Memória de Eremes",
         "es-ES": "Recuerdo de Eremes"
     },
     "DcJZCA": {
-        "ko-KR": "카트린느의 기억",
         "en-US": "Kathryne's Memory",
         "pt-BR": "Memória de Kathryne",
         "es-ES": "Recuerdo de Kathryne"
     },
     "DsJZCA": {
-        "ko-KR": "마가레타의 기억",
         "en-US": "Margareta’s Memory",
         "pt-BR": "Memória de Margaretha",
         "es-ES": "Recuerdo de Margareta"
     },
     "D8JZCA": {
-        "ko-KR": "세실의 기억",
         "en-US": "Cecil’s Memory",
         "pt-BR": "Memórias de Cecil",
         "es-ES": "Recuerdo de Cecil"
     },
     "EMJZCA": {
-        "ko-KR": "랜달의 기억",
         "en-US": "Randall’s Memory",
         "pt-BR": "Memória de Randel",
         "es-ES": "Recuerdo de Randal"
     },
     "EcJZCA": {
-        "ko-KR": "플라멜의 기억",
         "en-US": "Flamel's Memory",
         "pt-BR": "Memória de Flamel",
         "es-ES": "Recuerdo de Flamel"
     },
     "EsJZCA": {
-        "ko-KR": "거티의 기억",
         "en-US": "Gertie’s Memory",
         "pt-BR": "Memória de Gertie",
         "es-ES": "Recuerdo de Gertie"
     },
     "E8JZCA": {
-        "ko-KR": "실리아의 기억",
         "en-US": "Celia's Memory",
         "pt-BR": "Memória de Celia",
         "es-ES": "Recuerdo de Celia"
     },
     "FMJZCA": {
-        "ko-KR": "첸의 기억",
         "en-US": "Chen’s Memory",
         "pt-BR": "Memória de Chen",
         "es-ES": "Recuerdo de Chen"
     },
     "FcJZCA": {
-        "ko-KR": "트렌티니의 기억",
         "en-US": "Trentini's Memory",
         "pt-BR": "Memória de Trentini",
         "es-ES": "Recuerdo de Trentini"
     },
     "FsJZCA": {
-        "ko-KR": "아르보치오의 기억",
         "en-US": "Alphoccio's Memory",
         "pt-BR": "Memória de Alphoccio",
         "es-ES": "Recuerdo de Alphoccio"
     },
     "F8JZCA": {
-        "ko-KR": "선택 인챈트",
         "en-US": "Select Enchant",
         "pt-BR": "Escolher encanto",
         "es-ES": "Elegir encantamiento"
     },
     "GMJZCA": {
-        "ko-KR": "[라비앙]\n응? 취소하는거양?? 뭐... 그랭",
         "en-US": "[Rabian]\nHuh? Are you canceling?? Well... okay.",
         "pt-BR": "[Lavian]\nMm? Você não quer mais fazer? Então... tá.",
         "es-ES": "[Rabian]\n¿Eh? ¿Vas a cancelarlo?? Bueno... vale."
     },
     "GcJZCA": {
-        "ko-KR": "[라비앙]\n뭔가 잘못됐엉! 이건 예상 못한일이야! 저리 가!!",
         "en-US": "[Rabian]\nSomething went wrong! This is unexpected! Go away!!",
         "pt-BR": "[Lavian]\nAlgo deu errado! Totalmente inesperado! Vá embora!",
         "es-ES": "[Rabian]\n¡Algo ha salido mal! ¡Esto no me lo esperaba! ¡Lárgate!"
     },
     "GsJZCA": {
-        "ko-KR": "[관리자모드]",
         "en-US": "[Admin Mode]",
         "pt-BR": "[Modo Administrador]",
         "es-ES": "[Modo administrador]"
     },
     "G8JZCA": {
-        "ko-KR": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>]^000000\n강화가 실패했습니다.",
         "en-US": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>]^000000\nenchantment failed.",
         "pt-BR": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>]^000000\nEncanto falhou.",
         "es-ES": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>]^000000\nEl encantamiento ha fallado."
     },
     "HMJZCA": {
-        "ko-KR": "^777700[<ITEM>{0}<INFO>{1}</INFO></ITEM>]^000000\n강화가 실패했습니다. (장비는 파괴되지 않았습니다)",
         "en-US": "^777700[<ITEM>{0}<INFO>{1}</INFO></ITEM>]^000000\nenchantment failed. (The equipment was not destroyed)",
         "pt-BR": "^777700[<ITEM>{0}<INFO>{1}</INFO></ITEM>]^000000\nEncanto falhou. (A arma não foi perdida.)",
         "es-ES": "^777700[<ITEM>{0}<INFO>{1}</INFO></ITEM>]^000000\nEl encantamiento ha fallado. (El equipo no ha sido destruido)"
     },
     "HcJZCA": {
-        "ko-KR": "^0000FF[<ITEM>{0}<INFO>{1}</INFO></ITEM>]^000000\n강화가 완료되었습니다.",
         "en-US": "^0000FF[<ITEM>{0}<INFO>{1}</INFO></ITEM>]^000000\nenchantment completed.",
         "pt-BR": "^0000FF[<ITEM>{0}<INFO>{1}</INFO></ITEM>]^000000\nEncanto feito.",
         "es-ES": "^0000FF[<ITEM>{0}<INFO>{1}</INFO></ITEM>]^000000\nEl encantamiento se ha completado."

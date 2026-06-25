@@ -68,27 +68,43 @@
         "pt-BR": "Good job: {0}, You Killed the last mob."
     },
     "sUxABQ": {
-        "en-US": "gef_fild04"
+        "en-US": "gef_fild04",
+        "pt-BR": "gef_fild04",
+        "es-ES": "gef_fild04"
     },
     "skxABQ": {
-        "en-US": "moc_fild07"
+        "en-US": "moc_fild07",
+        "pt-BR": "moc_fild07",
+        "es-ES": "moc_fild07"
     },
     "s0xABQ": {
-        "en-US": "prt_fild08"
+        "en-US": "prt_fild08",
+        "pt-BR": "prt_fild08",
+        "es-ES": "prt_fild08"
     },
     "tExABQ": {
-        "en-US": "pay_fild01"
+        "en-US": "pay_fild01",
+        "pt-BR": "pay_fild01",
+        "es-ES": "pay_fild01"
     },
     "tUxABQ": {
-        "en-US": "um_fild02"
+        "en-US": "um_fild02",
+        "pt-BR": "um_fild02",
+        "es-ES": "um_fild02"
     },
     "tkxABQ": {
-        "en-US": "ve_fild02"
+        "en-US": "ve_fild02",
+        "pt-BR": "ve_fild02",
+        "es-ES": "ve_fild02"
     },
     "t0xABQ": {
-        "en-US": "hu_fild06"
+        "en-US": "hu_fild06",
+        "pt-BR": "hu_fild06",
+        "es-ES": "hu_fild06"
     },
     "uExABQ": {
-        "en-US": "yuno_fild04"
+        "en-US": "yuno_fild04",
+        "pt-BR": "yuno_fild04",
+        "es-ES": "yuno_fild04"
     }
 }

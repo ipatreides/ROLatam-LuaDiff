@@ -1,144 +1,120 @@
 {
     "oA9ZBg": {
-        "ko-KR": "에스메랄다",
         "en-US": "Esmeralda",
         "pt-BR": "Esmeralda",
         "es-ES": "Esmeralda"
     },
     "oQ9ZBg": {
-        "ko-KR": "<사제회 길드장>",
         "en-US": "Guild Leader",
         "pt-BR": "Líder do Clã",
         "es-ES": "Líder del Clan"
     },
     "og9ZBg": {
-        "ko-KR": "보유한 물건의 종류나 무게가 너무 많은 것 같습니다. 인벤토리를 정리해주세요.",
         "en-US": "Reorganize your inventory and come back again.",
         "pt-BR": "Reorganize seu inventário e volte novamente.",
         "es-ES": "Reorganiza tu inventario y vuelve otra vez."
     },
     "ow9ZBg": {
-        "ko-KR": "[에스메랄다]\n오, 인사도 못한채로 헤어지나 했는데 저희 객원 길드원으로 활동 해 주시기로 했나봐요?",
         "en-US": "[Esmeralda]\nAh, I left without saying goodbye, but it seems you agreed to help the recruits, right?",
         "pt-BR": "[Esmeralda]\nAh, eu saí sem me despedir, mas parece que você aceitou ajudar os recrutas, certo?",
         "es-ES": "[Esmeralda]\nAh, me fui sin despedirme, pero parece que aceptaste ayudar a los reclutas, ¿verdad?"
     },
     "pA9ZBg": {
-        "ko-KR": "어쩌다보니 그리 되었다",
         "en-US": "Yeah, it happens.",
         "pt-BR": "É, acontece.",
         "es-ES": "Sí, sucede."
     },
     "pQ9ZBg": {
-        "ko-KR": "딱히 손해는 아닌것 같아서",
         "en-US": "Alright.",
         "pt-BR": "Certo.",
         "es-ES": "De acuerdo."
     },
     "pg9ZBg": {
-        "ko-KR": "[에스메랄다]\n좋은 선택이예요. 서로에게 많은 도움이 될 거예요.",
         "en-US": "[Esmeralda]\nYou did well. It will be a big help.",
         "pt-BR": "[Esmeralda]\nVocê fez bem. Vai ajudar bastante.",
         "es-ES": "[Esmeralda]\nHiciste bien. Será de gran ayuda."
     },
     "pw9ZBg": {
-        "ko-KR": "어째서 길드원들을 돌려보내지 않습니까?",
         "en-US": "Why don't you revive them?",
         "pt-BR": "Por que você não os revive?",
         "es-ES": "¿Por qué no los revives tú?"
     },
     "qA9ZBg": {
-        "ko-KR": "[에스메랄다]\n그럴만한 사정이 있긴해요.\n저 녀석들은 수호 성물과 계약하지 않았거든요. 아무런 보험이 없는 셈이죠. 마을 주변에서 얼쩡거리다 구마의식이라도 당하면 완전히 소멸 할걸요.",
         "en-US": "[Esmeralda]\nThere's a good reason.\nThey didn't sign the Divine Being's contract. If they go to the city in spirit form, they would be exorcised and annihilated.",
         "pt-BR": "[Esmeralda]\nHá um bom motivo.\nEles não assinaram o contrato do Ser Divino. Se eles forem para a cidade na forma de espírito, seriam exorcizados e aniquilados.",
         "es-ES": "[Esmeralda]\nHay una buena razón.\nEllos no firmaron el contrato del Ser Divino. Si van a la ciudad en forma de espíritu, serían exorcizados y aniquilados."
     },
     "qQ9ZBg": {
-        "ko-KR": "[에스메랄다]\n당분간은 이곳에 머무르는것이 안전할 것 같아서 평소엔 몸을 숨기고 있다가 도움을 준 당신 눈에만 나타나도록 지시를 해둔 상태예요.",
         "en-US": "[Esmeralda]\nIt's better for them to stay hidden there. That's why I'm also hiding and only appearing to those I trust.",
         "pt-BR": "[Esmeralda]\nÉ melhor que eles fiquem escondidos ali. Por isso, eu também estou escondida para aparecer somente em quem eu confio.",
         "es-ES": "[Esmeralda]\nEs mejor que se queden escondidos allí. Por eso yo también estoy escondida y solo me aparezco a quienes confío."
     },
     "qg9ZBg": {
-        "ko-KR": "[에스메랄다]\n일단 길드의 자금이 너무 없는 관계로 녀석들의 온전한 부활엔 꽤 많은 시간이 필요할 것 같아요. 그래서 저도 잠시 길드 운영을 멈추고 여기서 장사나 해볼까 해요.",
         "en-US": "[Esmeralda]\nFirst of all, the Cathedral doesn't have enough money for revival, so I quit my job to handle this personally.",
         "pt-BR": "[Esmeralda]\nPrimeiramente, a Catedral não tem dinheiro suficiente para reviver, então eu larguei o meu posto de trabalho para cuidar disso pessoalmente.",
         "es-ES": "[Esmeralda]\nEn primer lugar, la Catedral no tiene suficiente dinero para revivir, así que dejé mi trabajo para encargarme de esto personalmente."
     },
     "qw9ZBg": {
-        "ko-KR": "어떤 장사를 할 셈이죠?",
         "en-US": "And now?",
         "pt-BR": "E agora?",
         "es-ES": "¿Y ahora?"
     },
     "rA9ZBg": {
-        "ko-KR": "[에스메랄다]\n아시겠지만 요즘 대륙 곳곳에 나타나는 미지의 던전들에선 환상석이라는 물건이 나오잖아요. 그거... 꽤 이쪽세계에선 값어치 높은 물건이예요.",
         "en-US": "[Esmeralda]\nYou must have heard about the Illusion Caves that have been appearing everywhere. There's a mineral called Illusion Stone.",
         "pt-BR": "[Esmeralda]\nVocê já deve ter ouvido falar nas Cavernas Ilusionais que vêm aparecendo em todo o canto. Há um minério chamado Pedra Ilusional.",
         "es-ES": "[Esmeralda]\nDebes haber oído de las Cavernas Ilusorias que están apareciendo por todos lados. Hay un mineral llamado Piedra Ilusoria."
     },
     "rQ9ZBg": {
-        "ko-KR": "[에스메랄다]\n이 던전의 탐사를 먼저 시작한 길드가 있다는 이야기를 들었어요. 그리고 환상석이 나온다는 정보도 입수했고요.",
         "en-US": "[Esmeralda]\nThis stone is very valuable, and apparently, they are coming from this distorted labyrinth.",
         "pt-BR": "[Esmeralda]\nEssa pedra tem muito valor e, aparentemente, elas estão saindo desse labirinto distorcido.",
         "es-ES": "[Esmeralda]\nEsta piedra es muy valiosa, y aparentemente, están saliendo de este laberinto distorsionado."
     },
     "rg9ZBg": {
-        "ko-KR": "[에스메랄다]\n전 이곳 입구 근처에서 장비 업그레이드를 해주는 일을 해볼까 해요. 물론 비용으로 환상석과 각종 재료를 받을 예정이예요.",
         "en-US": "[Esmeralda]\nI'm thinking of using them as material to upgrade some equipment to sell and make money.",
         "pt-BR": "[Esmeralda]\nEstou pensando em usá-las como material para atualizar alguns equipamentos para vender e ganhar dinheiro.",
         "es-ES": "[Esmeralda]\nEstoy pensando en usarlas como material para mejorar algunos equipos y venderlos para ganar dinero."
     },
     "rw9ZBg": {
-        "ko-KR": "[에스메랄다]\n몇 달만 고생하면 아마 길드원들 부활시킬 자금정도는 금방 모일것 같아요.\n이게 지금으로선 최선이겠죠.",
         "en-US": "[Esmeralda]\nIf I work hard, in a few years I'll have what's needed to revive the novices.\nIt's the best I can do.",
         "pt-BR": "[Esmeralda]\nSe eu trabalhar bastante, em alguns anos vou ter o necessário para reviver os noviços.\nÉ o melhor que posso fazer.",
         "es-ES": "[Esmeralda]\nSi trabajo duro, en unos años tendré lo necesario para revivir a los novicios.\nEs lo mejor que puedo hacer."
     },
     "sA9ZBg": {
-        "ko-KR": "단지 그것뿐인가요?",
         "en-US": "That's it?",
         "pt-BR": "Só isso?",
         "es-ES": "¿Solo eso?"
     },
     "sQ9ZBg": {
-        "ko-KR": "[에스메랄다]\n뭐... 그 외의 잡다하게 돈 들어갈 구석은 셀 수 없이 많으니까. 일일이 설명하는건 생략할게요.",
         "en-US": "[Esmeralda]\nWell... it's the easiest way I found to raise money.",
         "pt-BR": "[Esmeralda]\nBom... é a forma mais fácil que eu encontrei para levantar dinheiro.",
         "es-ES": "[Esmeralda]\nBueno... es la forma más fácil que encontré para conseguir dinero."
     },
     "sg9ZBg": {
-        "ko-KR": "[에스메랄다]\n어쨌든, 다음에 올땐 손님과 장사꾼으로서 보게 되는건가요? 앞으로도 잘 부탁해요.",
         "en-US": "[Esmeralda]\nAnyway, next time you talk to me, I'll be offering my equipment enhancement services.",
         "pt-BR": "[Esmeralda]\nDe toda forma, na próxima vez que você conversar comigo, estarei oferecendo meus serviços de aprimoramento de equipamentos.",
         "es-ES": "[Esmeralda]\nDe todas formas, la próxima vez que hables conmigo, estaré ofreciendo mis servicios de mejora de equipos."
     },
     "sw9ZBg": {
-        "ko-KR": "[에스메랄다]\n목록의 장비를 가지고 계시다면 뒤틀린 미궁에서 얻은 물품들로 업그레이드를 하실 수 있어요.",
         "en-US": "[Esmeralda]\nIf you have the right equipment, I can enhance it using materials from the Labyrinth Illusion.",
         "pt-BR": "[Esmeralda]\nSe você tiver os equipamentos corretos, eu consigo aprimorá-los usando materiais da Ilusão do Labirinto.",
         "es-ES": "[Esmeralda]\nSi tienes los equipos correctos, puedo mejorarlos usando materiales de la Ilusión del Laberinto."
     },
     "tA9ZBg": {
-        "ko-KR": "취소",
         "en-US": "Cancel",
         "pt-BR": "Cancelar",
         "es-ES": "Cancelar"
     },
     "tQ9ZBg": {
-        "ko-KR": "일루전 업그레이드 장비를 본다.",
         "en-US": "View Equipment List",
         "pt-BR": "Ver lista de Equipamentos",
         "es-ES": "Ver lista de Equipos"
     },
     "tg9ZBg": {
-        "ko-KR": "[에스메랄다]\n알겠습니다. 다음에 또 들러주세요.",
         "en-US": "[Esmeralda]\nSee you next time.",
         "pt-BR": "[Esmeralda]\nVejo você na próxima.",
         "es-ES": "[Esmeralda]\nNos vemos la próxima vez."
     },
     "tw9ZBg": {
-        "ko-KR": "[에스메랄다]\n업그레이드하실 장비에 카드나 인챈트의 효능이 깃들어 있다면 ^FF0000재료로 사용 시 소멸^000000되어 버리니 참고해 주세요.",
         "en-US": "[Esmeralda]\nWhen enhancing an item with me, ^FF0000cards and enchants will be lost^000000.",
         "pt-BR": "[Esmeralda]\nAo aprimorar um item comigo, ^FF0000cartas e encantos serão perdidos^000000.",
         "es-ES": "[Esmeralda]\nAl mejorar un objeto conmigo, ^FF0000las cartas y encantamientos se perderán^000000."

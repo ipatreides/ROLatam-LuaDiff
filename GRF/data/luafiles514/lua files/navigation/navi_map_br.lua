@@ -3999,7 +3999,7 @@ Navi_Map = {
 	{
 		"ra_temin",
 		"Interior do Templo ",
-		5001,
+		5003,
 		340,
 		340
 	},

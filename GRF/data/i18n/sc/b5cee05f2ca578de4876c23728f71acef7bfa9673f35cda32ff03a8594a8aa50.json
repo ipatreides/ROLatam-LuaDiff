@@ -731,7 +731,7 @@
     },
     "skLwAg": {
         "en-US": "[Verkhasel]\nHey, take it easy.\nYou said it was a mission for something important. But only a place like this...",
-        "pt-BR": "[Bercassell]\nFalaí!\nDesculpa, pensei que era comigo...",
+        "pt-BR": "[Verkhasel]\nFalaí!\nDesculpa, pensei que era comigo...",
         "es-ES": "[Verkhasel]\nOye, calma.\nDijiste que era una misión para algo importante. Pero un lugar como este…"
     },
     "s0LwAg": {
@@ -751,7 +751,7 @@
     },
     "tkLwAg": {
         "en-US": "[Mayssel]\nThe higher class jobs in Thief class are Assassin and Rogue.\nVerkhasel is a Guillotine Cross which is the third class of the Assassin Job.\nand......",
-        "pt-BR": "[Mayshell]\nAs melhores evoluções da Classe de Gatuno são o Sicário e o Renegado.\nBercassell é um de nossos melhores Sicários.\nE...",
+        "pt-BR": "[Mayshell]\nAs melhores evoluções da Classe de Gatuno são o Sicário e o Renegado.\nVerkhasel é um de nossos melhores Sicários.\nE...",
         "es-ES": "[Mayssel]\nLas clases superiores de la clase Ladrón son Asesino y Pícaro.\nVerkhasel es Cortador de cruces, que es la tercera clase de la clase Asesino.\ny…"
     },
     "t0LwAg": {
@@ -771,7 +771,7 @@
     },
     "ukLwAg": {
         "en-US": "[Mayssel]\nAnyway, these two gentlemen will help you.\n^4D4DFFCome back to me after speaking to Verkhasel and Vicente.^000000",
-        "pt-BR": "[Mayshell]\nBom, talvez eles possam mesmo ajudar...\n^4D4DFFOuça o que Bercassell e Vicente têm a dizer e depois volte.^000000",
+        "pt-BR": "[Mayshell]\nBom, talvez eles possam mesmo ajudar...\n^4D4DFFOuça o que Verkhasel e Vicente têm a dizer e depois volte.^000000",
         "es-ES": "[Mayssel]\nDe todos modos, estos dos caballeros te ayudarán.\n^4D4DFFVuelve conmigo después de hablar con Verkhasel y Vicente.^000000"
     },
     "u0LwAg": {
@@ -901,12 +901,12 @@
     },
     "1ELwAg": {
         "en-US": "[Mayssel]\nBy making use of the guide, you may take the missions being asked by Verkhasel and Vicente.",
-        "pt-BR": "[Mayshell]\nUse o Manual e as Habilidades adquiridas para terminar as tarefas do Bercassell e do Vicente.",
+        "pt-BR": "[Mayshell]\nUse o Manual e as Habilidades adquiridas para terminar as tarefas do Verkhasel e do Vicente.",
         "es-ES": "[Mayssel]\nHaciendo uso de la Guía, podrás realizar las misiones que te pidan Verkhasel y Vicente."
     },
     "1ULwAg": {
         "en-US": "[Mayssel]\nVerkhasel and Vicente will give you various information related to the higher class jobs.\nSo, come back to me after listening to them.",
-        "pt-BR": "[Mayshell]\nBercassell e Vicente te atualizarão sobre as tarefas e evoluções de classe.\nFale com os dois!",
+        "pt-BR": "[Mayshell]\nVerkhasel e Vicente te atualizarão sobre as tarefas e evoluções de classe.\nFale com os dois!",
         "es-ES": "[Mayssel]\nVerkhasel y Vicente te darán mucha información relacionada con las clases superiores.\nAsí que vuelve conmigo después de escucharlos."
     },
     "1kLwAg": {
@@ -971,7 +971,7 @@
     },
     "4kLwAg": {
         "en-US": "[Mayssel]\nIf you carry out the mission asked by Verkhasel and Vicente, I will go to the next class.",
-        "pt-BR": "[Mayshell]\nSe você completar as tarefas do Bercassell e do Vicente direitinho, prosseguiremos com os próximos passos.",
+        "pt-BR": "[Mayshell]\nSe você completar as tarefas do Verkhasel e do Vicente direitinho, prosseguiremos com os próximos passos.",
         "es-ES": "[Mayssel]\nSi llevas a cabo la misión solicitada por Verkhasel y Vicente, seguiremos con la siguiente clase."
     },
     "40LwAg": {
@@ -981,7 +981,7 @@
     },
     "5ELwAg": {
         "en-US": "[Mayssel]\nI will compensate for you when your mission is complete.\nCome back to me after listening to Verkhasel and Vicente.",
-        "pt-BR": "[Mayssel]\nEu darei uma recompensa quando a missão for concluída.\nFale comigo depois de ouvir Bercassell e Vicente.",
+        "pt-BR": "[Mayssel]\nEu darei uma recompensa quando a missão for concluída.\nFale comigo depois de ouvir Verkhasel e Vicente.",
         "es-ES": "[Mayssel]\nTe compensaré cuando completes tu misión.\nVuelve conmigo después de escuchar a Verkhasel y Vicente."
     },
     "5ULwAg": {
@@ -1051,7 +1051,7 @@
     },
     "8kLwAg": {
         "en-US": "[Mayssel]\nVit, Luk, Int are valued according your target chosen.\nFor your reference, Verkhasel has high level of Luk.\nA weapon called Katar is good for Critical.",
-        "pt-BR": "[Mayshell]\nVIT, SOR e INT podem ser escolhidas dependendo do caminho que for trilhar.\nO Bercassell, por exemplo, tem muita SOR.\nEle dá crítico toda hora!",
+        "pt-BR": "[Mayshell]\nVIT, SOR e INT podem ser escolhidas dependendo do caminho que for trilhar.\nO Verkhasel, por exemplo, tem muita SOR.\nEle dá crítico toda hora!",
         "es-ES": "[Mayssel]\nVIT, SUE, INT se valoran según tu objetivo elegido.\nPor ejemplo, Verkhasel tiene un alto nivel de SUE.\nUn arma llamada Katar es buena para los CRÍT."
     },
     "80LwAg": {
@@ -1506,7 +1506,7 @@
     },
     "TUPwAg": {
         "en-US": "[Vicente]\nAnyway, it is good enough for your skill experience purpose, let's finish the class here.\nIf you haven't finished Mr. Verkhasel's assignment, keep going with it.",
-        "pt-BR": "[Vicente]\nVocê já fez o necessário por aqui..\nSe não completou as tarefas do Bercassell, por favor vá falar com ele.",
+        "pt-BR": "[Vicente]\nVocê já fez o necessário por aqui..\nSe não completou as tarefas do Verkhasel, por favor vá falar com ele.",
         "es-ES": "[Vicente]\nDe todos modos, con esto tienes lo suficiente experiencia con la habilidad, así que vamos a terminar la lección aquí.\nSi no terminaste la tarea del señor Verkhasel, continúa ahora."
     },
     "TkPwAg": {
@@ -1536,7 +1536,7 @@
     },
     "U0PwAg": {
         "en-US": "[Verkhasel]\nSo do I.\nMayssel... what did she think of...",
-        "pt-BR": "[Bercassell]\nConcordo...\nO que será que o pessoal pensa da gente?",
+        "pt-BR": "[Verkhasel]\nConcordo...\nO que será que o pessoal pensa da gente?",
         "es-ES": "[Verkhasel]\nYo también.\nMayssel… ¿Qué pensaba de…?"
     },
     "VEPwAg": {
@@ -1546,7 +1546,7 @@
     },
     "VUPwAg": {
         "en-US": "[Verkhasel]\nAre you kidding me?!\nWould you rather be carrying out a fatal mission!?!",
-        "pt-BR": "[Bercassell]\nEngraçadinho...\nPois é exatamente o que fazemos!\nE é uma tarefa muito recompensadora, se quiser saber...",
+        "pt-BR": "[Verkhasel]\nEngraçadinho...\nPois é exatamente o que fazemos!\nE é uma tarefa muito recompensadora, se quiser saber...",
         "es-ES": "[Verkhasel]\n¡¿Es una broma?!\n¡¿Preferirías estar llevando a cabo una misión fatal?!"
     },
     "VkPwAg": {
@@ -1606,7 +1606,7 @@
     },
     "YUPwAg": {
         "en-US": "[Verkhasel]\nFirst, is it courteous to ask whether you can be a Rogue or not?\nIf it is an application for an Assassin, what happens to you?",
-        "pt-BR": "[Bercassell]\nCadê os modos Vicente?\nE se a pessoa quiser se tornar Sicário? Temos que considerar...",
+        "pt-BR": "[Verkhasel]\nCadê os modos Vicente?\nE se a pessoa quiser se tornar Sicário? Temos que considerar...",
         "es-ES": "[Verkhasel]\nEn primer lugar, ¿es cortés preguntar si se puede ser de la clase Pícaro o no?\nSi se presenta una solicitud para Asesino, ¿qué te ocurriría?"
     },
     "YkPwAg": {
@@ -1636,17 +1636,17 @@
     },
     "Z0PwAg": {
         "en-US": "Verkhasel",
-        "pt-BR": "Bercassell",
+        "pt-BR": "Verkhasel",
         "es-ES": "Verkhasel"
     },
     "aEPwAg": {
         "en-US": "[Verkhasel]\nWhat? It interrupts me.",
-        "pt-BR": "[Bercassell]\nQue foi?",
+        "pt-BR": "[Verkhasel]\nQue foi?",
         "es-ES": "[Verkhasel]\n¿Qué? Me interrumpen."
     },
     "aUPwAg": {
         "en-US": "[Verkhasel]\nEheee, Eheee, It can't be a joke.\nMayssel's class...\nDid you call upon me for this kind of nasty thing?",
-        "pt-BR": "[Bercassell]\nFalando sério...\nA Mayshell que dá as instruções por aqui.\nEstão querendo alguma coisa de mim?",
+        "pt-BR": "[Verkhasel]\nFalando sério...\nA Mayshell que dá as instruções por aqui.\nEstão querendo alguma coisa de mim?",
         "es-ES": "[Verkhasel]\nAyy, aaay, no puede ser una broma.\nLa lección de Mayssel…\n¿Me llamaste para este tipo de cosas desagradables?"
     },
     "akPwAg": {
@@ -1661,7 +1661,7 @@
     },
     "bEPwAg": {
         "en-US": "[Verkhasel]\nWhat are you talking about this time?\nIn the beginning, Lue.. You should not be here...",
-        "pt-BR": "[Bercassell]\nDo que você tá falando, moleque?!\nOs Sicários devem ser respeitados...",
+        "pt-BR": "[Verkhasel]\nDo que você tá falando, moleque?!\nOs Sicários devem ser respeitados...",
         "es-ES": "[Verkhasel]\n¿De qué estás hablando esta vez?\nEn principio, Lue… no deberías estar aquí…"
     },
     "bUPwAg": {
@@ -1671,7 +1671,7 @@
     },
     "bkPwAg": {
         "en-US": "[Verkhasel]\nZt...\nWell, which one are you curious about?",
-        "pt-BR": "[Bercassell]\n...\nTá, pergunta logo. O que você quer?",
+        "pt-BR": "[Verkhasel]\n...\nTá, pergunta logo. O que você quer?",
         "es-ES": "[Verkhasel]\nTs…\n¿Y? ¿Qué te da curiosidad?"
     },
     "b0PwAg": {
@@ -1701,67 +1701,67 @@
     },
     "dEPwAg": {
         "en-US": "[Verkhasel]\nYou  may already know the primary weapon of a Thief is a dagger.\nA Thief's specialty is the ^4D4DFFDouble Attack^000000 by a dagger.",
-        "pt-BR": "[Bercassell]\nVocê já deve saber que a arma principal de um Gatuno é a Adaga...\nA vantagem é utilizar a Adaga com a Habilidade de ^4D4DFFAtaque Duplo^000000.",
+        "pt-BR": "[Verkhasel]\nVocê já deve saber que a arma principal de um Gatuno é a Adaga...\nA vantagem é utilizar a Adaga com a Habilidade de ^4D4DFFAtaque Duplo^000000.",
         "es-ES": "[Verkhasel]\nPuede que ya sepas que el arma principal de un Ladrón es una Daga.\nLa especialidad de un Ladrón es el Doble ataque ^4D4DFF^000000 con una Daga."
     },
     "dUPwAg": {
         "en-US": "[Verkhasel]\nIf you are short of attacking power, it can be covered at a certain degree.\nAny other questions?",
-        "pt-BR": "[Bercassell]\nPode não ser a arma que mais dá dano... Mas oferece vantagens bacanas.\nMais alguma questão?",
+        "pt-BR": "[Verkhasel]\nPode não ser a arma que mais dá dano... Mas oferece vantagens bacanas.\nMais alguma questão?",
         "es-ES": "[Verkhasel]\nSi te falta poder de ataque, se puede compensar, hasta cierto punto.\n¿Tienes alguna otra pregunta?"
     },
     "dkPwAg": {
         "en-US": "[Verkhasel]\nThere is a skill called ^4D4DFFEnvenom^000000 to intoxicate your enemy with poison and\nthe other skill called ^4D4DFFDetoxify^000000 to remove the poisoned status.",
-        "pt-BR": "[Bercassell]\n^4D4DFFEnvenenamento^000000 é uma técnica milenar de\naplicar veneno ao inimigo.\n^4D4DFFDesintoxicar^000000 remove os efeitos do envenenamento.",
+        "pt-BR": "[Verkhasel]\n^4D4DFFEnvenenamento^000000 é uma técnica milenar de\naplicar veneno ao inimigo.\n^4D4DFFDesintoxicar^000000 remove os efeitos do envenenamento.",
         "es-ES": "[Verkhasel]\nExiste una habilidad llamada ^4D4DFFEnvenenamiento^000000 para intoxicar a tu enemigo con veneno y\notra habilidad llamada ^4D4DFFDesintoxicación^000000 para quitar el estado de Veneno."
     },
     "d0PwAg": {
         "en-US": "[Verkhasel]\nYou can tell the poisoned status by its very pretty purple color.",
-        "pt-BR": "[Bercassell]\nVocê vai conseguir ver inimigos envenenados de longe.\nEles vão ter um gosto meio roxo...",
+        "pt-BR": "[Verkhasel]\nVocê vai conseguir ver inimigos envenenados de longe.\nEles vão ter um gosto meio roxo...",
         "es-ES": "[Verkhasel]\nSe puede distinguir el estado de Veneno por su bonito color morado."
     },
     "eEPwAg": {
         "en-US": "[Verkhasel]\nIn case, you are poisoned, venom will decrease your vitality rapidly,\nyou either detoxify right away or take the antidote potion.",
-        "pt-BR": "[Bercassell]\nSe acabar envenenado, sua vida vai ser reduzida aos poucos.\nProcure a melhor maneira de se desintoxicar... Ou morrerá.",
+        "pt-BR": "[Verkhasel]\nSe acabar envenenado, sua vida vai ser reduzida aos poucos.\nProcure a melhor maneira de se desintoxicar... Ou morrerá.",
         "es-ES": "[Verkhasel]\nEn caso de ser afectado con Veneno, el veneno disminuirá tu vitalidad rápidamente.\nO te desintoxicas de inmediato o tomas la Poción de antídoto."
     },
     "eUPwAg": {
         "en-US": "[Verkhasel]\nIf you have more interest in poison, you may be an assassin.\nThey officially use poison.\nThen next!",
-        "pt-BR": "[Bercassell]\nSe tiver interesse por Envenenamento, considere tornar-se Sicário.\nUsamos muito essas técnicas em batalha.\n... O que acha?",
+        "pt-BR": "[Verkhasel]\nSe tiver interesse por Envenenamento, considere tornar-se Sicário.\nUsamos muito essas técnicas em batalha.\n... O que acha?",
         "es-ES": "[Verkhasel]\nSi te interesa saber más del Veneno, puede que seas de la clase Asesino.\nSuelen usar Veneno.\n¡Pasemos a la siguiente!"
     },
     "ekPwAg": {
         "en-US": "[Verkhasel]\nThiefs train the skill called ^4D4DFFImprove Dodge^000000.\nThis makes the enemy powerless by evading its attack.",
-        "pt-BR": "[Bercassell]\nA ^4D4DFFPerícia em Esquiva^000000 precisa ser praticada.\nServe muito bem para evitar os ataques inimigos.",
+        "pt-BR": "[Verkhasel]\nA ^4D4DFFPerícia em Esquiva^000000 precisa ser praticada.\nServe muito bem para evitar os ataques inimigos.",
         "es-ES": "[Verkhasel]\nLos Ladrones entrenan la habilidad llamada ^4D4DFFEvasión mejorada^000000.\nEsto hace que el enemigo sea vulnerable, pues te permite evadir sus ataques."
     },
     "e0PwAg": {
         "en-US": "[Verkhasel]\nRather than being patient after being hit, it is more suitable for a less defensive thief to avoid from it fast.\nBeing this reason, agility [AGI] can't be neglected.",
-        "pt-BR": "[Bercassell]\nPor vezes é melhor desviar e pensar nas ações do que sair atacando...\nPensando nisso, AGI tem que ser a prioridade.",
+        "pt-BR": "[Verkhasel]\nPor vezes é melhor desviar e pensar nas ações do que sair atacando...\nPensando nisso, AGI tem que ser a prioridade.",
         "es-ES": "[Verkhasel]\nEn lugar de ser paciente después de ser golpeado, es más adecuado para un Ladrón que tiene menos defensa evitar los ataques rápidamente.\nPor este motivo, no se puede descuidar la agilidad [AGI]"
     },
     "fEPwAg": {
         "en-US": "[Verkhasel]\n^4D4DFFHiding^000000 is the skill for refuge.\nIf successful, others can't see you.",
-        "pt-BR": "[Bercassell]\n^4D4DFFEsconderijo^000000 é uma Habilidade furtiva.\nQuando usava, ninguém vai poder te ver.",
+        "pt-BR": "[Verkhasel]\n^4D4DFFEsconderijo^000000 é uma Habilidade furtiva.\nQuando usava, ninguém vai poder te ver.",
         "es-ES": "[Verkhasel]\n^4D4DFFOcultamiento^000000 es la habilidad para refugiarse.\nSi la usas con éxito, los demás no podrán verte."
     },
     "fUPwAg": {
         "en-US": "[Verkhasel]\nAh, as it is said you can't cheat a ghost.... You would be found by evil.\nAlso sensitive insects recognize it...",
-        "pt-BR": "[Bercassell]\nPorém, alguns inimigos conseguem...\nInsetos, por exemplo... Desagradável!",
+        "pt-BR": "[Verkhasel]\nPorém, alguns inimigos conseguem...\nInsetos, por exemplo... Desagradável!",
         "es-ES": "[Verkhasel]\nAh, como bien dicen, no se puede engañar a un fantasma… El mal te encontraría.\nTambién los insectos sensibles pueden notarlo…"
     },
     "fkPwAg": {
         "en-US": "[Verkhasel]\nOther than these, it will be useful for avoiding emergency situations.\nWhen you become higher jobs like Rogue or Assassin, you can learn more useful skills like Refuge.",
-        "pt-BR": "[Bercassell]\nDe qualquer forma, são técnicas muito úteis.\nVocê pode aperfeiçoar essas Habilidades ao se tornar Sicário ou Renegado.",
+        "pt-BR": "[Verkhasel]\nDe qualquer forma, são técnicas muito úteis.\nVocê pode aperfeiçoar essas Habilidades ao se tornar Sicário ou Renegado.",
         "es-ES": "[Verkhasel]\nAdemás, será útil para evitar situaciones de emergencia.\nCuando llegas a clases superiores como Pícaro o Asesino, puedes aprender habilidades más útiles, como Refugio."
     },
     "f0PwAg": {
         "en-US": "[Verkhasel]\nMe? I am a chief of the Guillotine Cross.\n......",
-        "pt-BR": "[Bercassell]\nEu? Sou um dos principais Sicários por aqui!\nFalo sério!",
+        "pt-BR": "[Verkhasel]\nEu? Sou um dos principais Sicários por aqui!\nFalo sério!",
         "es-ES": "[Verkhasel]\n¿Yo? Soy jefe de los Cortadores de cruces.\n……"
     },
     "gEPwAg": {
         "en-US": "[Rumin]\nAs one of the assassins, I am in charge of punishing the law violators, as the member of the execution group.\nFor your reference, the primary weapon of Verkhasel is Katar.",
-        "pt-BR": "[Rumin]\nSicários são conhecidos pela crueldade e frieza nas tarefas.\nO Bercassell deve ser muito malvado...",
+        "pt-BR": "[Rumin]\nSicários são conhecidos pela crueldade e frieza nas tarefas.\nO Verkhasel deve ser muito malvado...",
         "es-ES": "[Rumin]\nComo parte de los Asesinos, soy el encargado de castigar a los que violan la ley, en calidad de miembro del grupo de ejecución.\nPara que lo sepas, el arma principal de Verkhasel es el Katar."
     },
     "gUPwAg": {
@@ -1776,37 +1776,37 @@
     },
     "g0PwAg": {
         "en-US": "[Verkhasel]\nOh.. Smart funk~~\nThat's enough, Lue.\nAny more questions?",
-        "pt-BR": "[Bercassell]\nQue beleza, espalhando fake news!\nHahahaha.\nMais alguma questão?",
+        "pt-BR": "[Verkhasel]\nQue beleza, espalhando fake news!\nHahahaha.\nMais alguma questão?",
         "es-ES": "[Verkhasel]\nAh… Te sientes muy listo.\nEs suficiente, Lue.\n¿Alguna otra pregunta?"
     },
     "hEPwAg": {
         "en-US": "[Verkhasel]\nyou can steal one item from one enemy.\nI feel mortified at stopping here, but it's worse to be neglected...",
-        "pt-BR": "[Bercassell]\nEra suposto você me perguntar algo.\nAgora tô confuso.",
+        "pt-BR": "[Verkhasel]\nEra suposto você me perguntar algo.\nAgora tô confuso.",
         "es-ES": "[Verkhasel]\nPuedes robar un objeto a un enemigo.\nOdio tener que detenerme aquí, pero es peor ser descuidado…"
     },
     "hUPwAg": {
         "en-US": "[Verkhasel]\nOK.\nConsidering your favor not to ignore me, let's finish it now.",
-        "pt-BR": "[Bercassell]\n...\nVamos fingir que você não tentou me cancelar.",
+        "pt-BR": "[Verkhasel]\n...\nVamos fingir que você não tentou me cancelar.",
         "es-ES": "[Verkhasel]\nDe acuerdo.\nComo me hiciste el favor de no ignorarme, vamos a terminar ahora."
     },
     "hkPwAg": {
         "en-US": "[Verkhasel]\nHonestly, I don't think you need to know the details about the thief's skills.\nThen, just be aware there is something like that..",
-        "pt-BR": "[Bercassell]\nPra ser sincero, acho que você já sabe bastante sobre as Habilidades de gatuno.\nAchei que devesse ter conhecimento disso.",
+        "pt-BR": "[Verkhasel]\nPra ser sincero, acho que você já sabe bastante sobre as Habilidades de gatuno.\nAchei que devesse ter conhecimento disso.",
         "es-ES": "[Verkhasel]\nSinceramente, no creo que necesites conocer los detalles sobre las habilidades de la clase Ladrón.\nEntonces, solo ten en cuenta que existe algo como eso…"
     },
     "h0PwAg": {
         "en-US": "[Verkhasel]\nI mean it is good enough now.",
-        "pt-BR": "[Bercassell]\nAgora já deu.",
+        "pt-BR": "[Verkhasel]\nAgora já deu.",
         "es-ES": "[Verkhasel]\nQuiero decir que con eso está bien por ahora."
     },
     "iEPwAg": {
         "en-US": "[Verkhasel]\nAnything else you're curious about?\nI will give you an answer after you finish Mayssel's class.",
-        "pt-BR": "[Bercassell]\nMais alguma questão?\nFicarei feliz de conversar contigo assim que terminar de falar com a Mayshell.",
+        "pt-BR": "[Verkhasel]\nMais alguma questão?\nFicarei feliz de conversar contigo assim que terminar de falar com a Mayshell.",
         "es-ES": "[Verkhasel]\n¿Te interesa saber algo más?\nTe daré una respuesta cuando termines la lección de Mayssel."
     },
     "iUPwAg": {
         "en-US": "[Verkhasel]\nI mean that she knows it.\nMayssel will do it for you.",
-        "pt-BR": "[Bercassell]\nEla que toca as coisas por aqui.\n...",
+        "pt-BR": "[Verkhasel]\nEla que toca as coisas por aqui.\n...",
         "es-ES": "[Verkhasel]\nQuiero decir que ella lo sabe.\nMayssel lo hará por ti."
     },
     "ikPwAg": {
@@ -1816,77 +1816,77 @@
     },
     "i0PwAg": {
         "en-US": "[Verkhasel]\n.......You........\nZt.. I don't know the enemy..",
-        "pt-BR": "[Bercassell]\n...\nUm dia Rumin... Um dia!",
+        "pt-BR": "[Verkhasel]\n...\nUm dia Rumin... Um dia!",
         "es-ES": "[Verkhasel]\n…Tú…\nTs… No conozco al enemigo…"
     },
     "jEPwAg": {
         "en-US": "[Verkhasel]\nTo learn more about the way of a thief, keep going on with Mayssel's class.\nBecause nagging at me here, you can't get anything.",
-        "pt-BR": "[Bercassell]\nSe quiser saber mais sobre os Gatunos, continue a seguir as instruções da Mayshell.\nNão tenho mais nada a dizer!",
+        "pt-BR": "[Verkhasel]\nSe quiser saber mais sobre os Gatunos, continue a seguir as instruções da Mayshell.\nNão tenho mais nada a dizer!",
         "es-ES": "[Verkhasel]\nPara aprender más sobre el camino de la clase Ladrón, sigue con la lección de Mayssel.\nPorque no conseguirás nada fastidiándome."
     },
     "jUPwAg": {
         "en-US": "[Verkhasel]\nActual experience assignments about the skill?\nTo do it, your level is too high.\nI can't use the guide.",
-        "pt-BR": "[Bercassell]\nQuer testar habilidades?\nVocê ja está num nívle muito alto.\nNão dá para usar o Manual...",
+        "pt-BR": "[Verkhasel]\nQuer testar habilidades?\nVocê ja está num nívle muito alto.\nNão dá para usar o Manual...",
         "es-ES": "[Verkhasel]\n¿Asignaciones de experiencia real sobre la habilidad?\nTu nivel es demasiado alto para hacerlo.\nNo puedo usar la Guía."
     },
     "jkPwAg": {
         "en-US": "[Verkhasel]\nOriginally, I will let you hunt porings with envenom.\nNo way, if I can't use the skill....",
-        "pt-BR": "[Bercassell]\nNormalmente eu pediria para você usar o Envenenamento para matar Porings.\nMas se não pode usar Habilidades, não dá pra te ajudar.",
+        "pt-BR": "[Verkhasel]\nNormalmente eu pediria para você usar o Envenenamento para matar Porings.\nMas se não pode usar Habilidades, não dá pra te ajudar.",
         "es-ES": "[Verkhasel]\nOriginalmente, te dejaría cazar Poring con Enveneno.\nNo puede ser, si no puedo usar la habilidad…"
     },
     "j0PwAg": {
         "en-US": "[Verkhasel]\nEnvenom is the skill to poison.\nIf not poison him, you can damage to him due to the characteristic of venom.",
-        "pt-BR": "[Bercassell]\nEnvenenamento é uma Habilidade que aplica veneno aos inimigos.\nÉ efetivo e deixa os inimigos roxos.",
+        "pt-BR": "[Verkhasel]\nEnvenenamento é uma Habilidade que aplica veneno aos inimigos.\nÉ efetivo e deixa os inimigos roxos.",
         "es-ES": "[Verkhasel]\nEnveneno es la habilidad para envenenar.\nSi no logras envenenarlo, puedes dañarlo debido a la característica del Veneno."
     },
     "kEPwAg": {
         "en-US": "[Verkhasel]\nKeep in mind of these. That might be good enough for you.\nAs it is the class to let you know what you can do.\nLet's finish the skill experience.\nCheck with Mayssel.",
-        "pt-BR": "[Bercassell]\nConcentre-se nisso.\nAh, que ótima Habilidade...\nPor isso, treine bastante!\nA Mayshell pode te guiar melhor.",
+        "pt-BR": "[Verkhasel]\nConcentre-se nisso.\nAh, que ótima Habilidade...\nPor isso, treine bastante!\nA Mayshell pode te guiar melhor.",
         "es-ES": "[Verkhasel]\nTenlo en cuenta. Eso podría ser suficiente para ti.\nYa que es la lección para hacerte saber lo que puedes hacer.\nTerminemos la experiencia en habilidades.\nVe a ver a Mayssel."
     },
     "kUPwAg": {
         "en-US": "[Verkhasel]\nYou are doing well.\nEnvenom has the poison effect and can damage from venom itself.",
-        "pt-BR": "[Bercassell]\n...\nLembre-se que o Envenenamento dá dano com o tempo...",
+        "pt-BR": "[Verkhasel]\n...\nLembre-se que o Envenenamento dá dano com o tempo...",
         "es-ES": "[Verkhasel]\nLo estás haciendo bien.\nEnveneno aplica el efecto de Veneno y puede aplicar daño por Veneno."
     },
     "kkPwAg": {
         "en-US": "[Verkhasel]\nThe skill experience is now enough.\nCheck with Mayssel.",
-        "pt-BR": "[Bercassell]\nPor isso, treine bastante!\nA Mayshell pode te guiar melhor.",
+        "pt-BR": "[Verkhasel]\nPor isso, treine bastante!\nA Mayshell pode te guiar melhor.",
         "es-ES": "[Verkhasel]\nYa fue suficiente experiencia en habilidades.\nVe a ver a Mayssel."
     },
     "k0PwAg": {
         "en-US": "[Verkhasel]\nAre you at the level not to wear the manual?\nYou have grown up already.\nNo way.",
-        "pt-BR": "[Bercassell]\nVocê ja está num nívle muito alto.\nNão dá pra usar o manual.\nNada posso fazer a seu respeito.",
+        "pt-BR": "[Verkhasel]\nVocê ja está num nívle muito alto.\nNão dá pra usar o manual.\nNada posso fazer a seu respeito.",
         "es-ES": "[Verkhasel]\n¿Tienes el nivel necesario para no usar el Manual?\nYa crecí.\nDe ninguna manera."
     },
     "lEPwAg": {
         "en-US": "[Verkhasel]\nEnvenom is the skill to poison your enemy.\nIf not intoxicate him, you can damage to him due to the characteristic of venom.",
-        "pt-BR": "[Bercassell]\nEnvenenamento é uma Habilidade que aplica veneno aos inimigos.\nÉ efetivo e deixa os inimigos roxos.",
+        "pt-BR": "[Verkhasel]\nEnvenenamento é uma Habilidade que aplica veneno aos inimigos.\nÉ efetivo e deixa os inimigos roxos.",
         "es-ES": "[Verkhasel]\nEnveneno es la habilidad para envenenar a tu enemigo.\nSi no logras intoxicarlo, puedes dañarlo debido a la característica del Veneno."
     },
     "lUPwAg": {
         "en-US": "[Verkhasel]\nKeep this in mind... That might be good enough for you.\nAs it is the class to let you know what you can do.\nLet's finish the skill experience.\nCheck with Mayssel.",
-        "pt-BR": "[Bercassell]\nConcentre-se nisso.\nAh, que ótima Habilidade...\nPor isso, treine bastante!\nA Mayshell pode te guiar melhor.",
+        "pt-BR": "[Verkhasel]\nConcentre-se nisso.\nAh, que ótima Habilidade...\nPor isso, treine bastante!\nA Mayshell pode te guiar melhor.",
         "es-ES": "[Verkhasel]\nRecuérdalo… Eso podría ser suficiente para ti.\nYa que es la lección para hacerte saber lo que puedes hacer.\nTerminemos la experiencia en habilidades.\nVe a ver a Mayssel."
     },
     "lkPwAg": {
         "en-US": "[Verkhasel]\nThis is about the use of skill.\nNow if you were an assassin, shall I let you test the skills related to venom which you may continue to use?",
-        "pt-BR": "[Bercassell]\nVamos praticar algumas Habilidades...\nVamos experimentar Habilidades de Veneno, muito utilizadas pelos Sicários.",
+        "pt-BR": "[Verkhasel]\nVamos praticar algumas Habilidades...\nVamos experimentar Habilidades de Veneno, muito utilizadas pelos Sicários.",
         "es-ES": "[Verkhasel]\nSe trata del uso de la habilidad.\nAhora, si fueras de la clase Asesino, ¿debería dejarte probar las habilidades relacionadas con el Veneno que podrías seguir usando?"
     },
     "l0PwAg": {
         "en-US": "[Verkhasel]\nLoad the ^4D4DFFthief guide receved by Mayssel and open the skill window by pressing Alt+S key,\nRegister Envenom regisstered on the ETC compartment, by pressing shortcut key^000000",
-        "pt-BR": "[Bercassell]\nDepois de equipar o ^4D4DFFManual de Gatuno^000000 que recebeu da Mayshell, abra a janela de Habilidades usando o atalho ^4D4DFFAlt+S^000000.\nRegistre a Habilidade Envenenamento em algum atalho rápido.",
+        "pt-BR": "[Verkhasel]\nDepois de equipar o ^4D4DFFManual de Gatuno^000000 que recebeu da Mayshell, abra a janela de Habilidades usando o atalho ^4D4DFFAlt+S^000000.\nRegistre a Habilidade Envenenamento em algum atalho rápido.",
         "es-ES": "[Verkhasel]\nCarga el ^4D4DFFManual del Ladrón que te dio Mayssel y abre la ventana de habilidades pulsando las teclas Alt+S.\nRegistra Enveneno en el compartimento ETC, pulsando la tecla de acceso directo^000000"
     },
     "mEPwAg": {
         "en-US": "[Verkhasel]\nThen, approach the Poring's cage in the center of this room and\nAim at Poring, and ^4D4DFFhunt one poring by using 'envenom'^000000.",
-        "pt-BR": "[Bercassell]\nVá até os Porings dessa sala e\nuse o ^4D4DFFEnvenenamento^000000 para se livrar deles.",
+        "pt-BR": "[Verkhasel]\nVá até os Porings dessa sala e\nuse o ^4D4DFFEnvenenamento^000000 para se livrar deles.",
         "es-ES": "[Verkhasel]\nLuego, acércate a la jaula de Poring en el centro de esta sala,\napunta a un Poring, y ^4D4DFF cázalo usando Enveneno ^000000."
     },
     "mUPwAg": {
         "en-US": "[Verkhasel]\nThat's my assignment to you.\nYou definitely use envenom to Poring in this room.\ndon't go out faraway to find Porings.",
-        "pt-BR": "[Bercassell]\nEssa é sua tarefa.\nTenha certeza de envenenar os Porings dessa sala.\nNão precisa sair procurando Porings por aí.",
+        "pt-BR": "[Verkhasel]\nEssa é sua tarefa.\nTenha certeza de envenenar os Porings dessa sala.\nNão precisa sair procurando Porings por aí.",
         "es-ES": "[Verkhasel]\nEsa es la tarea que tengo para ti.\nDebes usar Enveneno sobre los Poring en esta sala.\nNo vayas muy lejos a buscar Poring."
     },
     "mkPwAg": {
@@ -1911,12 +1911,12 @@
     },
     "nkPwAg": {
         "en-US": "[Verkhasel]\nThe skill experience is now enough.\nCheck it with Mayssel.",
-        "pt-BR": "[Bercassell]\nPor isso, treine bastante!\nA Mayshell pode te guiar melhor.",
+        "pt-BR": "[Verkhasel]\nPor isso, treine bastante!\nA Mayshell pode te guiar melhor.",
         "es-ES": "[Verkhasel]\nYa fue suficiente experiencia en habilidades.\nHabla con Mayssel."
     },
     "n0PwAg": {
         "en-US": "[Verkhasel]\nCome close to a poring cage and use envenom to poring.\nYou must do it only to porings in this room.",
-        "pt-BR": "[Bercassell]\nChegue perto dos Porings e use o Envenenamento.\nTem que ser os Porings dessa sala, hein?!",
+        "pt-BR": "[Verkhasel]\nChegue perto dos Porings e use o Envenenamento.\nTem que ser os Porings dessa sala, hein?!",
         "es-ES": "[Verkhasel]\nAcércate a una jaula de Poring y usa Enveneno sobre el Poring.\nDebes hacerlo solo a los Poring de esta sala."
     },
     "oEPwAg": {
@@ -1926,12 +1926,12 @@
     },
     "oUPwAg": {
         "en-US": "[Verkhasel]\nOK. Until you kill all the porings in the cage, attack them with venom.",
-        "pt-BR": "[Bercassell]\nEnvenenar até matar... É meu lema!",
+        "pt-BR": "[Verkhasel]\nEnvenenar até matar... É meu lema!",
         "es-ES": "[Verkhasel]\nDe acuerdo. Hasta que mates a todos los Poring de la jaula, debes atacarlos con Enveneno."
     },
     "okPwAg": {
         "en-US": "[Verkhasel]\nThese are not your aptitude.\nI will cancel my assignment, and the other assignments from Mayssel to be cancelled by her.",
-        "pt-BR": "[Bercassell]\nParece que isso não combina muito com você.\nVou cancelar a tarefa. Conversa com a Mayshells para cancelar o restante.",
+        "pt-BR": "[Verkhasel]\nParece que isso não combina muito com você.\nVou cancelar a tarefa. Conversa com a Mayshells para cancelar o restante.",
         "es-ES": "[Verkhasel]\nEstas no son tus aptitudes.\nVoy a cancelar mi asignación, y Mayssel tendrá que cancelar sus asignaciones."
     },
     "o0PwAg": {
@@ -1946,37 +1946,37 @@
     },
     "pUPwAg": {
         "en-US": "[Verkhasel]\nCancel the mission to hunt poring with envenom.",
-        "pt-BR": "[Bercassell]\nCanceladíssimo então.",
+        "pt-BR": "[Verkhasel]\nCanceladíssimo então.",
         "es-ES": "[Verkhasel]\nCancela la misión de caza de Poring con Enveneno."
     },
     "pkPwAg": {
         "en-US": "[Verkhasel]\nHave you changed your mind?\nThen, until you kill all the poring in the cage, keep attacking them with envenom.",
-        "pt-BR": "[Bercassell]\nMudou de ideia?\nEntão... Envenenar até matar!",
+        "pt-BR": "[Verkhasel]\nMudou de ideia?\nEntão... Envenenar até matar!",
         "es-ES": "[Verkhasel]\n¿Cambiaste de opinión?\nLuego, hasta que mates a todos los Poring de la jaula, sigue atacándolos con Enveneno."
     },
     "p0PwAg": {
         "en-US": "[Verkhasel]\nNow you fully understand what skill venom is..\nAs you completed my assignment, go and check it with Mayssel.",
-        "pt-BR": "[Bercassell]\n...\nVocê completou minha tarefa, olha só...",
+        "pt-BR": "[Verkhasel]\n...\nVocê completou minha tarefa, olha só...",
         "es-ES": "[Verkhasel]\nAhora entiendes bien de qué trata la habilidad Enveneno…\nComo completaste mi tarea, ve y habla con Mayssel."
     },
     "qEPwAg": {
         "en-US": "[Verkhasel]\nYou are the bung finished Mayssel's class complete.\nAny more questions, ask Mayssel.\nIt is the end of my class.",
-        "pt-BR": "[Bercassell]\nVocê conhece a Mayshell, né?.\nSe tiver mais alguma questão, pergunte pra ela.\nMeus deveres acabam aqui.",
+        "pt-BR": "[Verkhasel]\nVocê conhece a Mayshell, né?.\nSe tiver mais alguma questão, pergunte pra ela.\nMeus deveres acabam aqui.",
         "es-ES": "[Verkhasel]\nEres quien completó la lección de Mayssel.\nSi tienes más dudas, pregúntale a Mayssel.\nAquí termina mi lección."
     },
     "qUPwAg": {
         "en-US": "[Verkhasel]\nIf you become a thief, we may meet together in far future..\nIf you become an assassin.",
-        "pt-BR": "[Bercassell]\nSe optar por ser Gatuno, talvez a gente se veja novamente.\nMelhor ainda caso se torne Sicário.",
+        "pt-BR": "[Verkhasel]\nSe optar por ser Gatuno, talvez a gente se veja novamente.\nMelhor ainda caso se torne Sicário.",
         "es-ES": "[Verkhasel]\nSi te conviertes a la clase Ladrón, puede que nos encontremos en un futuro lejano…\nSi te conviertes a la clase Asesino…"
     },
     "qkPwAg": {
         "en-US": "[Verkhasel]\nThere is no words to tell you guy not belonging to our academy.\nIn fact, I pulled out here unwillingly, I don't have mind to be kind of you...",
-        "pt-BR": "[Bercassell]\nNão tenho nada a falar para aqueles que não se matricularam.\n...",
+        "pt-BR": "[Verkhasel]\nNão tenho nada a falar para aqueles que não se matricularam.\n...",
         "es-ES": "[Verkhasel]\nNo hay palabras que alcancen para decirte que no pertenecerás a nuestra Academia.\nDe hecho, vine aquí de mala gana, no me importa ser amable contigo…"
     },
     "q0PwAg": {
         "en-US": "[Mayssel]\nWait, Verkhasel.....\nDon't get even with other innocent....\nHow about helping my class for me?",
-        "pt-BR": "[Mayshell]\nBercassell!\nPor que tão sério?!\nVocê poderia ao menos me ajudar?",
+        "pt-BR": "[Mayshell]\nVerkhasel!\nPor que tão sério?!\nVocê poderia ao menos me ajudar?",
         "es-ES": "[Mayssel]\nEspera, Verkhasel…\nNo te desquites con los inocentes…\n¿Qué tal si me ayudas con mi lección?"
     },
     "rEPwAg": {
@@ -1986,7 +1986,7 @@
     },
     "rUPwAg": {
         "en-US": "[Verkhasel]\nEhee, you...\nWhat do you want to be?",
-        "pt-BR": "[Bercassell]\nEi, você.\nPrefere qual?",
+        "pt-BR": "[Verkhasel]\nEi, você.\nPrefere qual?",
         "es-ES": "[Verkhasel]\nEjem, tú…\n¿Qué quieres ser?"
     },
     "rkPwAg": {
@@ -2006,7 +2006,7 @@
     },
     "sUPwAg": {
         "en-US": "[Verkhasel]\n..... ........\n(Verkhasel glancing at sky)\n...\n.. Ha...!",
-        "pt-BR": "[Bercassell]\n...\n(Bercassell se perde nos próprios pensamentos)\n...\nHahahaha",
+        "pt-BR": "[Verkhasel]\n...\n(Verkhasel se perde nos próprios pensamentos)\n...\nHahahaha",
         "es-ES": "[Verkhasel]\n………….\n(Verkhasel mira al cielo).\n…\n… ¡Ja…!"
     },
     "skPwAg": {
@@ -2016,17 +2016,17 @@
     },
     "s0PwAg": {
         "en-US": "[Verkhasel]\nGo there.",
-        "pt-BR": "[Bercassell]\nSai daqui então.",
+        "pt-BR": "[Verkhasel]\nSai daqui então.",
         "es-ES": "[Verkhasel]\nVe allí."
     },
     "tEPwAg": {
         "en-US": "[Vicente]\nOh,,, Mr. Verkhasel...\nDon't play like this among a family.\nWhy are you dividing us into teams?",
-        "pt-BR": "[Vicente]\nCalma, Bercassell.\nNão faça isso.\nPor que tão grosseiro?",
+        "pt-BR": "[Vicente]\nCalma, Verkhasel.\nNão faça isso.\nPor que tão grosseiro?",
         "es-ES": "[Vicente]\nAh, señor Verkhasel…\nNo juegues así en familia.\n¿Por qué nos divides en equipos?"
     },
     "tUPwAg": {
         "en-US": "[Verkhasel]\nI've never been in your family.\nOriginally, you are not a Log.\nYou were only a merchant.",
-        "pt-BR": "[Bercassell]\nNão estou nem aí!\nVocê nem é Renegado!\nSó um comerciante...",
+        "pt-BR": "[Verkhasel]\nNão estou nem aí!\nVocê nem é Renegado!\nSó um comerciante...",
         "es-ES": "[Verkhasel]\nNunca fui de tu familia.\nOriginalmente, no eras Pícaro.\nSolo eras un Comerciante."
     },
     "tkPwAg": {
@@ -2046,7 +2046,7 @@
     },
     "uUPwAg": {
         "en-US": "[Verkhasel]\nYou are the guy knows everything you need.\nAre you coming to watch only? Emmm?\nWhy don't you help the juniors without watch only?",
-        "pt-BR": "[Bercassell]\n...\nVeio só pra observar?\nPor que não aproveita e ajuda quem tá começando?",
+        "pt-BR": "[Verkhasel]\n...\nVeio só pra observar?\nPor que não aproveita e ajuda quem tá começando?",
         "es-ES": "[Verkhasel]\nTú sabes bien todo lo que necesitas.\n¿Solo vienes a mirar? ¿Ehhh?\n¿Por qué no ayudas a los principiantes en lugar de solo mirar?"
     },
     "ukPwAg": {

@@ -1,174 +1,145 @@
 {
     "YCrSDA": {
-        "ko-KR": "루민",
         "en-US": "Rumin",
         "pt-BR": "Rumin",
         "es-ES": "Rumin"
     },
     "YSrSDA": {
-        "ko-KR": "[루민]\n안녕.\n음 …. 너의 눈부신 활약을 보는 건 언제나 내 즐거움이었지만 ….\n탑의 꼭대기까지는 도전하지 않는걸 추천한다.",
         "en-US": "[Rumin]\nHello. Hmm …. Watching your brilliant exploits has always been my pleasure, but …. I recommend not challenging the very top of the tower.",
         "pt-BR": "[Rumin]\nOlá! Er... Sempre foi legal ver suas conquistas, mas... não recomendo passar desse ponto.",
         "es-ES": "[Rumin]\nHola. \nHmm… \nSiempre ha sido un placer para mí ver tus brillantes hazañas… \npero no te recomiendo intentar llegar hasta la cima de la torre."
     },
     "YirSDA": {
-        "ko-KR": "[루민]\n아, 어차피 끝까지 오르지도 못하겠구나.\n언제나 응원하고 있으니까 힘내.",
         "en-US": "[Rumin]\nAh, well, you probably wouldn’t be able to climb all the way anyway. I’m always cheering for you, so do your best.",
         "pt-BR": "[Rumin]\nAh, você nem conseguiria subir até o topo. Estarei sempre torcendo por você, então continue se esforçando.",
         "es-ES": "[Rumin]\nAh, aunque de todos modos no podrías subir hasta el final. \nSiempre te estaré animando, así que ánimo."
     },
     "YyrSDA": {
-        "ko-KR": "^4D4DFF 180Lv 이상 진행 가능한 MD 이벤트가 있습니다. ^000000",
         "en-US": "^4D4DFF There is an MD event available for Lv. 180 and above. ^000000",
         "pt-BR": "^4D4DFFInstância para nível base 180 ou superior.^000000",
         "es-ES": "^4D4DFF Hay un evento de MD disponible a partir del nivel 180. ^000000"
     },
     "ZCrSDA": {
-        "ko-KR": "[루민]\n또 가려고?\n이제 그만 충분히 휴식을 취하는게 좋지 않을까?\n물론 날 도와주고 싶다는 너의 열렬한 마음은 잘 알겠지만 ….\n쉬는 것도 중요하단다.",
         "en-US": "[Rumin]\nGoing again? Wouldn’t it be better to get some proper rest now? Of course, I understand your passionate desire to help me …. but resting is important too.",
         "pt-BR": "[Rumin]\nVai tentar de novo? Não acha melhor descansar um pouco agora? Claro, eu sei muito bem do seu entusiasmo em querer me ajudar... mas descansar também é importante.",
         "es-ES": "[Rumin]\n¿Vas a ir otra vez? \n¿No crees que ya sería bueno descansar un poco? \nClaro, sé bien que tienes muchas ganas de ayudarme… \npero descansar también es importante."
     },
     "ZSrSDA": {
-        "ko-KR": "[루민]\n네가 싫다고 해도 난 여기서 널 기다리고 있을 건데 뭐가 그렇게 급할까?",
         "en-US": "[Rumin]\nEven if you say you don’t want to, I’ll still be waiting here for you, so what’s the hurry?",
         "pt-BR": "[Rumin]\nMesmo que você não goste, eu vou continuar esperando aqui por você. Então, pra quê a pressa?",
         "es-ES": "[Rumin]\nAunque digas que no, yo seguiré aquí esperándote. \n¿Qué es lo que te apura tanto?"
     },
     "ZirSDA": {
-        "ko-KR": "[루민]\n표정을 보니 탐사 결과는 좋았나보네.\n어차피 이 탑에만 얽힌 존재라면 크게 걱정은 안 하는데 ….",
         "en-US": "[Rumin]\nJudging by your expression, it seems the exploration went well. If it’s something bound only to this tower, I’m not too worried ….",
         "pt-BR": "[Rumin]\nPela sua expressão, parece que os resultados da exploração foram bons. Se for apenas algo preso a esta torre, não me preocupo tanto assim...",
         "es-ES": "[Rumin]\nPor tu expresión parece que los resultados de la exploración han sido buenos. \nSi se trata de una existencia ligada únicamente a esta torre, en realidad no me preocupa demasiado…"
     },
     "ZyrSDA": {
-        "ko-KR": "[루민]\n내가 널 위해 줄 수 있는 건 아주 좋은 경험치정도인데, 이거라도 받아.",
         "en-US": "[Rumin]\nThe only thing I can give you is some very nice experience points, but take this anyway.",
         "pt-BR": "[Rumin]\nA única coisa que posso te dar é uma boa quantidade de experiência. Pelo menos isso.",
         "es-ES": "[Rumin]\nLo único que puedo darte es una muy buena cantidad de experiencia, pero aun así, tómala."
     },
     "aCrSDA": {
-        "ko-KR": "[루민]\n느껴져? 마력의 흐름이 가끔 평소와 달라.\n이 곳에서 과거 유명했던 선배님이 나타난다는 정보를 입수하고 조사차 왔거든.",
         "en-US": "[Rumin]\nCan you feel it? The flow of magic here sometimes feels different than usual. I came to investigate after hearing information that a famous senior from the past appears here.",
         "pt-BR": "[Rumin]\nVocê sente uma energia diferente aqui? Recebi informações de que uma famosa Mercenária do passado apareceu aqui, então vim investigar.",
         "es-ES": "[Rumin]\n¿Lo sientes? \nEl flujo de la magia a veces es distinto de lo habitual. \nVine a investigar porque recibí información de que aquí aparece un antiguo maestro muy famoso de tiempos pasados."
     },
     "aSrSDA": {
-        "ko-KR": "[루민]\n그냥 타워를 오르는 것과는 조금 다른 느낌인데, 뭔가 굴레에 매여 매 순간을 반복하는 존재라던가.",
         "en-US": "[Rumin]\nIt feels a little different from simply climbing the tower. Something like a being bound to a cycle, repeating every moment.",
         "pt-BR": "[Rumin]\nNão é exatamente a mesma sensação de subir a torre. Parece mais algo preso em um ciclo, repetindo cada momento indefinidamente.",
         "es-ES": "[Rumin]\nNo es lo mismo que simplemente subir la torre. \nEs como si fuera una existencia atada a un ciclo, repitiendo cada momento una y otra vez."
     },
     "airSDA": {
-        "ko-KR": "[루민]\n이미 지나간 일임에도 사념이 그 의지를 이어받고 버티고 있는다던가. 그런 것들 말이야.\n궁금하다면 길을 열어줄게.",
         "en-US": "[Rumin]\nEven though it has already passed, lingering thoughts that inherited that will and continue to endure. Something like that. If you’re curious, I’ll open the way.",
         "pt-BR": "[Rumin]\nMesmo sendo algo do passado, é como se um fragmento de memória continuasse resistindo. Algo assim. Se estiver curiosidade, posso abrir o caminho.",
         "es-ES": "[Rumin]\nAunque ya haya ocurrido en el pasado, su pensamiento parece haber heredado esa voluntad y sigue resistiendo. \nAlgo así. Si tienes curiosidad, abriré el camino."
     },
     "ayrSDA": {
-        "ko-KR": "타나토스의 기억을 조사하겠다.",
         "en-US": "I will investigate Memory of Thanatos.",
         "pt-BR": "Quero conhecer essa Mercenária.",
         "es-ES": "Investigar Recuerdo de Thanatos."
     },
     "bCrSDA": {
-        "ko-KR": "싫어.",
         "en-US": "No.",
         "pt-BR": "Não estou afim.",
         "es-ES": "No."
     },
     "bSrSDA": {
-        "ko-KR": "[루민]\n마검사 타나토스의 기억은 두가지 형태로 목격됐어.\n어느쪽이든 좋으니까 겪어보고 자세한 이야기를 들려주면 좋겠다.",
         "en-US": "[Rumin]\nThe Magic Swordsman Memory of Thanatos has been witnessed in two forms. Either one is fine, so experience it and tell me the details afterward.",
         "pt-BR": "[Rumin]\nNesta dimensão, o guerreiro Thanatos foi visto em duas formas diferentes. Experimente enfrentá-lo e depois me conte os detalhes.",
         "es-ES": "[Rumin]\nLa memoria del Espadachín Demoníaco Thanatos ha sido vista en dos formas diferentes. Cualquiera de las dos sirve. \nIntenta enfrentarlo y luego cuéntame los detalles."
     },
     "birSDA": {
-        "ko-KR": "[루민]\n그리고 혼자는 위험하니 동료가 있다면 함께해라.\n아무리 대 선배라고는 하지만 이성이 없는 사념을 상대로 하는 건 좀 많이 짜증이 나더라고.",
         "en-US": "[Rumin]\nAnd it’s dangerous alone, so bring companions if you have them. No matter how great a senior he was, dealing with a mindless lingering thought is quite annoying.",
         "pt-BR": "[Rumin]\nE não vá só, é perigoso. Se tiver em um grupo, vá com seus amigos. Mesmo sendo experiente, batalhar sem ajuda é imprudente.",
         "es-ES": "[Rumin]\nY no vayas solo, es peligroso. \nSi tienes compañeros, ve con ellos. \nAunque sea un gran maestro del pasado, enfrentarse a un pensamiento sin razón es bastante molesto."
     },
     "byrSDA": {
-        "ko-KR": "[루민]\n그럼 준비가 다 되면 다시 말을 걸어줘.\n타워의 상층으로 오르는 또 다른 길을 열어줄테니까.",
         "en-US": "[Rumin]\nThen speak to me again when you’re ready. I’ll open another path to ascend the upper floors of the tower.",
         "pt-BR": "[Rumin]\nEntão, quando estiver com tudo pronto, fale comigo novamente. Vou abrir outro caminho para subir aos andares superiores da torre.",
         "es-ES": "[Rumin]\nEntonces, cuando estés listo, vuelve a hablar conmigo. \nAbriré otro camino hacia los pisos superiores de la torre."
     },
     "cCrSDA": {
-        "ko-KR": "[루민]\n후후 …. 그래. 난 너의 그런 단호한 모습을 좋아해.",
         "en-US": "[Rumin]\nHeh …. Yes. I like that resolute look of yours.",
         "pt-BR": "[Rumin]\nHehe... certo. Eu gosto desse seu jeito de decidir.",
         "es-ES": "[Rumin]\nJeje… sí. Me gusta esa determinación tuya."
     },
     "cSrSDA": {
-        "ko-KR": "타나토스 타워",
         "en-US": "Thanatos Tower",
         "pt-BR": "Memórias de Thanatos",
         "es-ES": "Torre de Thanatos"
     },
     "cirSDA": {
-        "ko-KR": "[루민]\n자, 타나토스 타워를 탐사할 시간이다.\n물론 너라면 준비는 다 됐겠지?",
         "en-US": "[Rumin]\nNow, it’s time to explore Thanatos Tower. Of course, someone like you must already be prepared, right?",
         "pt-BR": "[Rumin]\nBem, é hora de explorar as Memórias de Thanatos. Você já está com tudo pronto, não é?",
         "es-ES": "[Rumin]\nBien, es hora de explorar Torre de Thanatos. Claro, alguien como tú ya estará preparado, ¿verdad?"
     },
     "cyrSDA": {
-        "ko-KR": "'타나토스 타워'를 신청한다.",
         "en-US": "Apply for 'Thanatos Tower'.",
         "pt-BR": "Criar instância 'Memórias de Thanatos'.",
         "es-ES": "Solicitar Torre de Thanatos."
     },
     "dCrSDA": {
-        "ko-KR": "'타나토스 타워'에 입장한다.",
         "en-US": "Enter 'Thanatos Tower'.",
         "pt-BR": "Entrar nas 'Memórias de Thanatos'.",
         "es-ES": "Entrar en Torre de Thanatos."
     },
     "dSrSDA": {
-        "ko-KR": "[루민]\n타워에 얽힌 마력이 불안정한 게 느껴져? 조금 기다려보자.",
         "en-US": "[Rumin]\nCan you feel how unstable the magic bound to the tower is? Let’s wait a moment.",
         "pt-BR": "[Rumin]\nVocê sente como a energia mágica da torre está instável? Vamos esperar um pouco.",
         "es-ES": "[Rumin]\n¿Sientes que la magia ligada a la torre es inestable? Esperemos un poco."
     },
     "dirSDA": {
-        "ko-KR": "[루민]\n운이 좋다면 곧 상층이 열릴 거다. 그러니까 보통 계단으로 타박타박 가는 그런 길은 아니란 거야.",
         "en-US": "[Rumin]\nIf we’re lucky, the upper floors will open soon. So it’s not the usual kind of path where you simply climb the stairs step by step.",
         "pt-BR": "[Rumin]\nSe tivermos sorte, o andar superior se abrirá em breve. Não será um caminho comum de subir escadas a pé.",
         "es-ES": "[Rumin]\nSi tenemos suerte, pronto se abrirá el piso superior. No será un camino normal de subir tranquilamente por las escaleras."
     },
     "dyrSDA": {
-        "ko-KR": "^4D4DFF메모리얼로 진행되는 이벤트입니다.\n메모리얼 던전 신청은 파티리더로 해야합니다.^000000",
         "en-US": "^4D4DFFThis is an event conducted through a Memorial Dungeon. The Memorial Dungeon must be applied for by the party leader.^000000",
         "pt-BR": "^4D4DFFO líder do grupo deve gerar a instância 'Memórias de Thanatos'.^000000",
         "es-ES": "^4D4DFF Este es un evento que se realiza como memorial. La solicitud del Memorial Dungeon debe hacerla el líder del grupo. ^000000"
     },
     "eCrSDA": {
-        "ko-KR": "[루민]\n음 …. 잠깐 기다려볼래?",
         "en-US": "[Rumin]\nHmm …. Would you mind waiting for a moment?",
         "pt-BR": "[Rumin]\nHmm... quer esperar um momento?",
         "es-ES": "[Rumin]\nHmm… ¿podrías esperar un momento?"
     },
     "eSrSDA": {
-        "ko-KR": "[루민]\n수백년간 다툼이 있었던 곳이라 항상 마력의 흐름이 불안정하네. 시간이 걸릴지도.",
         "en-US": "[Rumin]\nSince this place has been a battleground for hundreds of years, the flow of magic is always unstable. It may take some time.",
         "pt-BR": "[Rumin]\nComo este lugar foi palco de conflitos por centenas de anos, o fluxo de mana é sempre instável. Pode levar algum tempo.",
         "es-ES": "[Rumin]\nEs un lugar donde hubo conflictos durante cientos de años, así que el flujo de la magia siempre es inestable. Puede que tarde un poco."
     },
     "eirSDA": {
-        "ko-KR": "^4D4DFF메모리얼을 통해 진행되는 이벤트입니다.\n파티를 결성 한 뒤 다시 시도해 주십시오.^000000",
         "en-US": "^4D4DFFThis event proceeds through a Memorial. Please form a party and try again.^000000",
         "pt-BR": "^4D4DFFCrie um grupo para ter acesso à instância 'Memórias de Thanatos'.^000000",
         "es-ES": "^4D4DFF Este es un evento que se realiza mediante memorial. Forma un grupo y vuelve a intentarlo. ^000000"
     },
     "eyrSDA": {
-        "ko-KR": "{0} 파티의 {1} 파티원이 {2} 에 입장합니다",
         "en-US": "{0} party member {1} enters {2}",
         "pt-BR": "{1}, do grupo {0}, entrou em {2}.",
         "es-ES": "Un miembro del grupo {0}, {1}, entra en {2}."
     },
     "fCrSDA": {
-        "ko-KR": "^4D4DFF메모리얼로 진행되는 이벤트입니다.\n파티를 결성 한 뒤 다시 시도해 주십시오.^000000\n^4D4DFF파티는 /결성 파티명 ^000000 으로 만들 수 있습니다.",
         "en-US": "^4D4DFFThis is an event conducted through a Memorial. Please form a party and try again.^000000 ^4D4DFFYou can create a party with /organize PartyName ^000000.",
         "pt-BR": "^4D4DFFEsta é uma instância. Por favor forme um grupo e tente novamente.^000000 ^4D4DFFUm grupo pode ser criado com /organize noHorrorgrupo.^000000",
         "es-ES": "^4D4DFF Este es un evento que se realiza mediante memorial. Forma un grupo y vuelve a intentarlo. ^000000 ^4D4DFFPuedes crear un grupo con /creargrupo nombre_del_grupo ^000000."

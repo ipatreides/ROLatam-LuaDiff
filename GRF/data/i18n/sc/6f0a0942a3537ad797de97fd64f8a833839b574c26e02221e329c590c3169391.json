@@ -1,0 +1,1232 @@
+{
+    "gNQWDQ": {
+        "en-US": ".......",
+        "pt-BR": ".......",
+        "es-ES": "......."
+    },
+    "gdQWDQ": {
+        "en-US": "Suad",
+        "pt-BR": "Suad",
+        "es-ES": "Suad"
+    },
+    "gtQWDQ": {
+        "en-US": "[Suad]\nHow did you get here? You do not seem experienced enough to join us. Go back.",
+        "pt-BR": "[Suad]\nComo chegou aqui? Não parece ter experiência para se juntar a nós. Volte.",
+        "es-ES": "[Suad]\n¿Cómo has llegado hasta aquí? No pareces tener la experiencia necesaria para unirte a nosotros. Vuelve atrás."
+    },
+    "g9QWDQ": {
+        "en-US": "- This quest is available from level 170. -",
+        "pt-BR": "- Esta é uma missão que pode ser realizada a partir do nível 170. -",
+        "es-ES": "- Es una misión que se puede realizar a partir del nivel 170. -"
+    },
+    "hNQWDQ": {
+        "en-US": "You cannot proceed with the conversation because you are carrying too many items.\nPlease organize your items and try again.",
+        "pt-BR": "Você não pode prosseguir com a conversa porque está carregando itens demais.\nPor favor, organize seus itens e tente novamente.",
+        "es-ES": "No puedes continuar la conversación porque llevas demasiados objetos.\nOrdena tus objetos y vuelve a intentarlo."
+    },
+    "hdQWDQ": {
+        "en-US": "Something feels missing above my head. Where did Mini Elly go?",
+        "pt-BR": "Algo está faltando sobre a minha cabeça. Para onde foi Mini Elly?",
+        "es-ES": "Siento la cabeza vacía. ¿Dónde ha ido Mini Elly?"
+    },
+    "htQWDQ": {
+        "en-US": "Where did Mini Elly go?",
+        "pt-BR": "Para onde foi Mini Elly?",
+        "es-ES": "¿Dónde ha ido Mini Elly?"
+    },
+    "h9QWDQ": {
+        "en-US": "[Suad]\nAdventurer? Why are you back already? Weren't you going with Miriam to investigate Origin of the Weapon?",
+        "pt-BR": "[Suad]\nAventureiro? Por que já voltou? Não foi investigar Origem da Arma junto com Miriam?",
+        "es-ES": "[Suad]\n¿Aventurero? ¿Por qué has vuelto ya? ¿No habías ido con Miriam a investigar Origen del arma?"
+    },
+    "iNQWDQ": {
+        "en-US": "We found out, but as for the source...",
+        "pt-BR": "Descobrimos, mas a origem...",
+        "es-ES": "Lo averigüé, pero el origen..."
+    },
+    "idQWDQ": {
+        "en-US": "[Mini Elly]\nThat is not the only issue. The greater problem is that weapons and ammunition that should have been discarded have found their way in without any guarantee of stability.\nAccording to my analysis, the danger level of the old gunpowder and poorly maintained weapons is about 9.72%.",
+        "pt-BR": "[Mini Elly]\nE não é só isso. O problema maior é que armas e munições que deveriam ter sido descartadas entraram em circulação sem qualquer garantia de estabilidade.\nSegundo a análise, o risco de pólvora velha e armas sem manutenção é de cerca de 9,72%.",
+        "es-ES": "[Mini Elly]\nEso no es lo único. El problema mayor es que armas y munición que debían haberse desechado han acabado llegando aquí sin garantías de estabilidad.\nSegún el análisis, el nivel de peligro de la pólvora vieja y las armas sin mantenimiento es de aproximadamente un 9,72%."
+    },
+    "itQWDQ": {
+        "en-US": "[Suad]\nI expected as much, but it is worse than I thought. I was only worried about the source. We cannot even guarantee the stability of the weapons. Old weapons...",
+        "pt-BR": "[Suad]\nEu já esperava, mas está pior do que pensei. Eu só estava preocupado com a origem. Não dá nem para garantir a estabilidade das armas. Armas antigas...",
+        "es-ES": "[Suad]\nYa me lo imaginaba, pero es peor de lo que pensaba. Solo estaba preocupado por el origen. Tampoco se puede garantizar la estabilidad de las armas. Si son armas viejas..."
+    },
+    "i9QWDQ": {
+        "en-US": "[Suad]\nWe do need arms, but we cannot use those that come from a questionable source. If they trace the leaked weapons back to us and make an issue of it, things could turn ugly.",
+        "pt-BR": "[Suad]\nPrecisamos de armamento, mas não podemos usar coisas vindas de uma origem problemática. Se começarem a rastrear as armas vazadas de lá e transformarem isso em problema, a situação pode ficar feia.",
+        "es-ES": "[Suad]\nNecesitamos armamento, sí, pero no podemos usar cosas con un origen problemático. Si rastrean las armas filtradas de allí y lo convierten en un problema, podría terminar en una situación muy desagradable."
+    },
+    "jNQWDQ": {
+        "en-US": "[Suad]\nStill, finding a stable supplier and opening trade with them will take a long time, so we must decide carefully.",
+        "pt-BR": "[Suad]\nMas encontrar uma fonte de fornecimento estável e abrir negociações também levaria muito tempo, então preciso decidir com cuidado.",
+        "es-ES": "[Suad]\nPero encontrar una fuente estable de suministro y abrir una vía de comercio también llevará mucho tiempo, así que habrá que decidirlo con cautela."
+    },
+    "jdQWDQ": {
+        "en-US": "[Suad]\nFor now, let us recover all the weapons and discuss what comes next once Maram and Miriam return.\nDid Miriam and Maram not return together?",
+        "pt-BR": "[Suad]\nPor enquanto, vamos recolher todas as armas e discutir o que fazer depois quando Maram e Miriam voltarem.\nMiriam e Maram não voltaram juntos?",
+        "es-ES": "[Suad]\nDe momento recuperaremos todas las armas y ya hablaremos de lo que venga después cuando regresen Maram y Miriam.\n¿Miriam y Maram no han vuelto juntos?"
+    },
+    "jtQWDQ": {
+        "en-US": "I came to report the arms smuggling...",
+        "pt-BR": "Vim avisar sobre o contrabando de armas...",
+        "es-ES": "Vengo a avisar del tráfico ilegal de armas..."
+    },
+    "j9QWDQ": {
+        "en-US": "[Suad]\nRight. It seems all we can do is wait.",
+        "pt-BR": "[Suad]\nSim. Pelo visto, só nos resta esperar.",
+        "es-ES": "[Suad]\nSí. Lo único que podemos hacer es esperar."
+    },
+    "kNQWDQ": {
+        "en-US": "[Maram]\nSuad!!! Suad, Suad!!! It's terrible! This is terrible, terrible!!! Suad! Listen, listen to me, Suad!!!",
+        "pt-BR": "[Maram]\nSuad!!! Suad, Suad!!! Deu ruim! Deu muito ruim!!! Suad! Escuta, escuta o que eu tenho pra dizer, Suad!!!",
+        "es-ES": "[Maram]\n¡¡¡Suad!!! ¡¡¡Suad, Suad!!! ¡Ha pasado algo terrible! ¡Es horrible, horrible! ¡Suad! ¡Escucha, tienes que escucharme, Suad!!!"
+    },
+    "kdQWDQ": {
+        "en-US": "[Suad]\nMaram, Miriam. What happened?",
+        "pt-BR": "[Suad]\nMaram, Miriam. O que houve?",
+        "es-ES": "[Suad]\nMaram, Miriam. ¿Qué ha pasado?"
+    },
+    "ktQWDQ": {
+        "en-US": "[Maram]\nAt this rate, we are all going to diiiie!!",
+        "pt-BR": "[Maram]\nSe continuar assim, nós todos vamos m~orrer!!",
+        "es-ES": "[Maram]\n¡¡Si esto sigue así, vamos a morir todos~~!!"
+    },
+    "k9QWDQ": {
+        "en-US": "[Suad]\n...What? Tell me in more detail. Why?",
+        "pt-BR": "[Suad]\n...O quê? Fala com mais detalhes. Por quê?",
+        "es-ES": "[Suad]\n...¿Qué? Explícalo con más detalle. ¿Por qué?"
+    },
+    "lNQWDQ": {
+        "en-US": "[Miriam]\nI will explain. Maram, sit over there and calm down.",
+        "pt-BR": "[Miriam]\nEu explico. Maram, sente ali e tenta se acalmar.",
+        "es-ES": "[Miriam]\nLo explicaré yo. Maram, siéntate allí y tranquilízate un poco."
+    },
+    "ldQWDQ": {
+        "en-US": "[Maram]\nShould I? I got so startled... I have a bit of a weak heart, you know.",
+        "pt-BR": "[Maram]\nPosso? É que eu me assustei... eu tenho coração fraco, sabe.",
+        "es-ES": "[Maram]\n¿Sí? Es que me he asustado... ya sabes que soy de corazón débil."
+    },
+    "ltQWDQ": {
+        "en-US": "You...?",
+        "pt-BR": "Você...?",
+        "es-ES": "¿Tú...?"
+    },
+    "l9QWDQ": {
+        "en-US": "You didn't know? So you really didn't know.",
+        "pt-BR": "Não sabia? Então não sabia mesmo.",
+        "es-ES": "¿No lo sabías? Claro, no lo sabías."
+    },
+    "mNQWDQ": {
+        "en-US": "[Miriam]\nDo you remember those people who armed themselves before?",
+        "pt-BR": "[Miriam]\nLembra das pessoas que estavam armadas antes?",
+        "es-ES": "[Miriam]\n¿Recuerdas a la gente que iba armada?"
+    },
+    "mdQWDQ": {
+        "en-US": "[Suad]\nYou mean the Thor Volcano weapons? I heard about that from the Adventurer. So Rachel found out in the end?",
+        "pt-BR": "[Suad]\nVocê disse que eram armas do Vulcão Thor. Ouvi isso do aventureiro. Então, no fim, o lado de Rachel descobriu?",
+        "es-ES": "[Suad]\n¿Las armas del Volcán Thor? Eso ya me lo contó el aventurero. Entonces, ¿al final Rachel se enteró?"
+    },
+    "mtQWDQ": {
+        "en-US": "[Miriam]\nNot that. I heard that group attacked a migrant caravan. They apparently brought back everything that caravan was carrying.",
+        "pt-BR": "[Miriam]\nNão é isso. Ouvi dizer que aquele grupo atacou uma caravana do lado dos imigrantes. Disseram que trouxeram tudo o que aquela caravana levava.",
+        "es-ES": "[Miriam]\nNo es eso, sino que he oído que ese grupo atacó a un gremio mercante de inmigrantes. Dicen que se llevaron todo lo que tenía ese gremio."
+    },
+    "m9QWDQ": {
+        "en-US": "[Suad]\nWhat? When?",
+        "pt-BR": "[Suad]\nO quê? Quando?",
+        "es-ES": "[Suad]\n¿Qué? ¿Cuándo?"
+    },
+    "nNQWDQ": {
+        "en-US": "[Miriam]\nNot long ago, but Rachel already knows about it.",
+        "pt-BR": "[Miriam]\nNão faz muito tempo, mas parece que o lado de Rachel já sabe disso.",
+        "es-ES": "[Miriam]\nNo hace mucho, pero parece que en Rachel ya lo saben."
+    },
+    "ndQWDQ": {
+        "en-US": "[Suad]\nDamn... Why in the world...?",
+        "pt-BR": "[Suad]\nDroga... mas por quê...?",
+        "es-ES": "[Suad]\nVaya... pero ¿por qué...?"
+    },
+    "ntQWDQ": {
+        "en-US": "[Miriam]\nThat is not all. They are claiming that we armed ourselves and carried out the attack as a Rebellion. I hear the voices calling for a hardline response are gaining strength.",
+        "pt-BR": "[Miriam]\nAinda não acabou. Pelo visto, eles estão dizendo que fomos nós que armamos o ataque e fizemos a emboscada, então estão nos chamando de Rebeldes. Dizem que os que defendem uma resposta dura estão ganhando força.",
+        "es-ES": "[Miriam]\nAún no termina ahí. Por lo visto, el otro lado dice que fuimos nosotros quienes nos armamos y atacamos, así que nos están llamando Rebeldes. Y cada vez gana más fuerza la idea de responder con dureza."
+    },
+    "n9QWDQ": {
+        "en-US": "[Suad]\nDamn it. This is the worst. If they attack us first... no, no. I need to meet those fools first.",
+        "pt-BR": "[Suad]\nDroga. É o pior cenário. Se eles atacarem primeiro... não, não. Antes disso, preciso encontrar esses sujeitos.",
+        "es-ES": "[Suad]\nMaldita sea. Es lo peor. Si ellos atacan primero... No, no. Antes tengo que ver a esos tipos."
+    },
+    "oNQWDQ": {
+        "en-US": "[Miriam]\nWhat are you going to do?",
+        "pt-BR": "[Miriam]\nPretende fazer o quê?",
+        "es-ES": "[Miriam]\n¿Cómo piensas hacerlo?"
+    },
+    "odQWDQ": {
+        "en-US": "[Suad]\nHold them accountable for making things worse for us with their reckless actions. We need to assess the scale of this and prepare a response.",
+        "pt-BR": "[Suad]\nCobrar deles a responsabilidade por terem piorado nossa posição com uma ação impensada. Precisamos entender a dimensão disso e preparar uma resposta.",
+        "es-ES": "[Suad]\nHay que exigirles responsabilidades por habernos puesto en desventaja con una acción impulsiva. Tenemos que medir el alcance y preparar una respuesta."
+    },
+    "otQWDQ": {
+        "en-US": "[Maram]\nCome with us. I know <NAVI>[where]<INFO>wolfvill,131,257,0,101,0</INFO></NAVI> they are! Adventurer, come too. I have a feeling we will need a third-party witness!",
+        "pt-BR": "[Maram]\nVou junto. Eu sei <NAVI>[onde eles estão]<INFO>wolfvill,131,257,0,101,0</INFO></NAVI>! Aventureiro, venha também. Estou com a sensação de que vamos precisar de uma testemunha neutra!",
+        "es-ES": "[Maram]\nVen con nosotros. Yo sé <NAVI>[dónde]<INFO>wolfvill,131,257,0,101,0</INFO></NAVI> están. Aventurero, venga usted también. Tengo la sensación de que va a hacer falta un testigo neutral."
+    },
+    "o9QWDQ": {
+        "en-US": "[Suad]\nRight now we need to identify and track down the enemy within.",
+        "pt-BR": "[Suad]\nAgora precisamos separar e identificar os inimigos internos.",
+        "es-ES": "[Suad]\nAhora mismo tenemos que distinguir y localizar al enemigo interno."
+    },
+    "pNQWDQ": {
+        "en-US": "[Suad]\nWhat is going on?",
+        "pt-BR": "[Suad]\nO que está acontecendo?",
+        "es-ES": "[Suad]\n¿Qué pasa?"
+    },
+    "pdQWDQ": {
+        "en-US": "Miriam",
+        "pt-BR": "Miriam",
+        "es-ES": "Miriam"
+    },
+    "ptQWDQ": {
+        "en-US": "Maram",
+        "pt-BR": "Maram",
+        "es-ES": "Maram"
+    },
+    "p9QWDQ": {
+        "en-US": "Loot",
+        "pt-BR": "Saque",
+        "es-ES": "Botín saqueado"
+    },
+    "qNQWDQ": {
+        "en-US": "Is this the loot?",
+        "pt-BR": "Então isso é o saque?",
+        "es-ES": "¿Esto es el botín saqueado?"
+    },
+    "qdQWDQ": {
+        "en-US": "Ha... there really is loot here.",
+        "pt-BR": "Ha... então é verdade, mesmo. Coisas saqueadas.",
+        "es-ES": "Aaah... sí que está aquí, el botín robado."
+    },
+    "qtQWDQ": {
+        "en-US": "Ha...",
+        "pt-BR": "Ha...",
+        "es-ES": "Aaah..."
+    },
+    "q9QWDQ": {
+        "en-US": "Who do you think you are, putting your hands on other people's things?",
+        "pt-BR": "Quem foi que meteu a mão nas coisas dos outros?",
+        "es-ES": "¿Quién se atreve a tocar las cosas ajenas?"
+    },
+    "rNQWDQ": {
+        "en-US": "Has the great thief shown up?",
+        "pt-BR": "Chegou o senhor ladrão?",
+        "es-ES": "¿Ha aparecido el maestro ladrón?"
+    },
+    "rdQWDQ": {
+        "en-US": "You've got nerve. Touching other people's property!!",
+        "pt-BR": "Tem coragem, hein. Mexer nas coisas dos outros!!",
+        "es-ES": "Qué valor. ¡Atreverse a tocar las cosas de otros!!"
+    },
+    "rtQWDQ": {
+        "en-US": "[Ramakus]\nHuh? Suad! Miriam and Maram are here too.",
+        "pt-BR": "[Ramakus]\nAh? Suad! Miriam e Maram também vieram.",
+        "es-ES": "[Ramakus]\n¿Eh? ¡Suad! También han venido Miriam y Maram."
+    },
+    "r9QWDQ": {
+        "en-US": "[Kun]\nWhat brings everyone here? If this is about the weapons, I already said everything before.",
+        "pt-BR": "[Kun]\nO que foi com vocês? Se é sobre as armas, eu já disse tudo antes.",
+        "es-ES": "[Kun]\n¿Qué pasa con todos? Si es por las armas, ya dije todo lo que tenía que decir."
+    },
+    "sNQWDQ": {
+        "en-US": "[Miriam]\nYou have more to say than just that, don't you?",
+        "pt-BR": "[Miriam]\nAcho que você ainda tem mais coisas para dizer além disso, não tem?",
+        "es-ES": "[Miriam]\nPero aún queda algo más que deberías decir, ¿no?"
+    },
+    "sdQWDQ": {
+        "en-US": "[Yopi]\nHey~ how scary~ Why are you acting like this all of a sudden? Dragging in a stranger too. Are you trying to intimidate us or something?",
+        "pt-BR": "[Yopi]\nUé \"que medo\" por que de repente estão assim? Trouxeram até um estranho. Querem intimidar a gente ou o quê?",
+        "es-ES": "[Yopi]\nVaya \"qué miedo\" ¿a qué viene esto de repente? Encima arrastrando a un desconocido. ¿Piensas intimidarnos o qué?"
+    },
+    "stQWDQ": {
+        "en-US": "Who is that person?",
+        "pt-BR": "Quem é essa pessoa?",
+        "es-ES": "¿Quién es esa gente?"
+    },
+    "s9QWDQ": {
+        "en-US": "[Maram]\nScaaary? You lot are way scarier! How could you attack a caravan?",
+        "pt-BR": "[Maram]\nMeeedo? Eu é que tenho mais medo de vocês! Como vocês puderam atacar uma caravana?",
+        "es-ES": "[Maram]\n¿Que da miedoo? ¡A mí me dais más miedo vosotros! ¿Cómo habéis podido atacar a un gremio mercante?"
+    },
+    "tNQWDQ": {
+        "en-US": "[Ramakus]\nOh, that? You don't have to praise us.",
+        "pt-BR": "[Ramakus]\nAh, isso? Não precisa elogiar.",
+        "es-ES": "[Ramakus]\nAh, ¿eso? No hace falta que nos felicites."
+    },
+    "tdQWDQ": {
+        "en-US": "[Maram]\nPraaaise?",
+        "pt-BR": "[Maram]\nEeelogiar?",
+        "es-ES": "[Maram]\n¿Feeliicitaaarnos?"
+    },
+    "ttQWDQ": {
+        "en-US": "[Suad]\nWe came to hear why you attacked an innocent caravan.",
+        "pt-BR": "[Suad]\nViemos ouvir a razão de terem atacado uma caravana inocente.",
+        "es-ES": "[Suad]\nHemos venido a escuchar por qué atacasteis a un gremio mercante inocente."
+    },
+    "t9QWDQ": {
+        "en-US": "[Kun]\nWhat? You all came storming in here over something that trivial?",
+        "pt-BR": "[Kun]\nQual é? Vocês vieram aqui em peso por uma coisa tão pequena assim?",
+        "es-ES": "[Kun]\n¿Qué? ¿Habéis venido todos aquí por una tontería como esa?"
+    },
+    "uNQWDQ": {
+        "en-US": "[Suad]\nSomething trivial? Because of what you did, we are being branded as Rebellion. You gave them an excuse to attack us!",
+        "pt-BR": "[Suad]\nCoisa pequena? Por causa do que vocês fizeram, estão nos chamando de Rebeldes. Vocês deram a eles um motivo para nos atacar!",
+        "es-ES": "[Suad]\n¿Una tontería? Por lo que habéis hecho nos están llamando Rebeldes. ¡Les habéis dado una excusa para atacarnos!"
+    },
+    "udQWDQ": {
+        "en-US": "[Yopi]\nIf they attack us, we can just strike back. What is there to worry about? We have weapons now too, don't we?",
+        "pt-BR": "[Yopi]\nSe eles atacarem, a gente revida, pronto. Qual é o problema? Agora nós também temos armas.",
+        "es-ES": "[Yopi]\nPues si atacan, contraatacamos, ¿qué problema hay? ¿No tenemos armas ya?"
+    },
+    "utQWDQ": {
+        "en-US": "What is the problem?",
+        "pt-BR": "Qual é o problema?",
+        "es-ES": "¿Cuál es el problema?"
+    },
+    "u9QWDQ": {
+        "en-US": "Easy for you to say?",
+        "pt-BR": "Falar é fácil, né?",
+        "es-ES": "Qué fácil es decirlo."
+    },
+    "vNQWDQ": {
+        "en-US": "[Yopi]\nDo you even know who we robbed? If you did, you would be thanking us. It was not an innocent caravan.",
+        "pt-BR": "[Yopi]\nVocês sabem quem a gente saqueou? Se souberem, vão até agradecer. Não era uma caravana inocente.",
+        "es-ES": "[Yopi]\n¿Sabes a quién saqueamos? Si lo supieras, nos estarías dando las gracias. No era ningún gremio mercante inocente."
+    },
+    "vdQWDQ": {
+        "en-US": "You'll be apologizing to us for this soon enough.",
+        "pt-BR": "Daqui a pouco vocês até vão se desculpar por estarem falando assim com a gente.",
+        "es-ES": "Seguro que luego hasta os disculparán por tratarnos así ahora."
+    },
+    "vtQWDQ": {
+        "en-US": "[Miriam]\nInnocent or not, do you know what it is called when you attack and rob a caravan? Banditry.",
+        "pt-BR": "[Miriam]\nIndependentemente de serem inocentes ou não, sabe como se chama atacar e saquear uma caravana? Assalto.",
+        "es-ES": "[Miriam]\nMás allá de si eran inocentes o no, ¿sabes cómo se llama asaltar y saquear un gremio mercante? Se llama robo."
+    },
+    "v9QWDQ": {
+        "en-US": "[Kun]\nNo, come on, that is too much. Banditry? The ones we robbed were the Amad Caravan.",
+        "pt-BR": "[Kun]\nNão, aí já é demais. Assalto? A caravana que a gente saqueou era a caravana Ahmad.",
+        "es-ES": "[Kun]\nNo, de verdad, esto ya es demasiado. ¿Robo? Lo que nosotros saqueamos fue el gremio mercante de Ahmad."
+    },
+    "wNQWDQ": {
+        "en-US": "[Miriam]\nIf it was Amad...",
+        "pt-BR": "[Miriam]\nSe é Ahmad...",
+        "es-ES": "[Miriam]\nSi es Ahmad..."
+    },
+    "wdQWDQ": {
+        "en-US": "[Maram]\nIsn't that Suad's?",
+        "pt-BR": "[Maram]\nNão era da família do Suad?",
+        "es-ES": "[Maram]\n¿No es el de Suad?"
+    },
+    "wtQWDQ": {
+        "en-US": "Ah... so it was, it was there.",
+        "pt-BR": "Ah... então era, era daquele lugar.",
+        "es-ES": "Ah... así que era ese, ese lugar."
+    },
+    "w9QWDQ": {
+        "en-US": "[Kun]\nExactly! The ones who treated people like us like vermin and even looked down on his adopted son!",
+        "pt-BR": "[Kun]\nIsso! Aquele lugar que tratava a gente como inseto e desprezava até o próprio filho adotivo!",
+        "es-ES": "[Kun]\n¡Exacto! ¡Ese mismo sitio que nos trataba como basura y hasta despreciaba a su propio hijo adoptivo!"
+    },
+    "xNQWDQ": {
+        "en-US": "[Ramakus]\nThe ones who sucked dry people like us!",
+        "pt-BR": "[Ramakus]\nAquele lugar que sugava gente como nós até a última gota!",
+        "es-ES": "[Ramakus]\n¡Ese mismo que nos iba chupando la sangre a gente como nosotros!"
+    },
+    "xdQWDQ": {
+        "en-US": "I thought you meant mosquitoes...?",
+        "pt-BR": "Achei que fosse mosquito...?",
+        "es-ES": "¿Como un mosquito...?"
+    },
+    "xtQWDQ": {
+        "en-US": "[Yopi]\nWe avenged Suad and got the supplies we needed, so isn't that a good thing?",
+        "pt-BR": "[Yopi]\nA gente se vingou por Suad e ainda conseguiu os suprimentos de que precisávamos. Então deu tudo certo, não?",
+        "es-ES": "[Yopi]\n¿No está bien entonces? ¡Hemos vengado a Suad y conseguido los suministros que necesitábamos!"
+    },
+    "x9QWDQ": {
+        "en-US": "We need a lot of things too!",
+        "pt-BR": "Também precisava de um monte de coisa!",
+        "es-ES": "¡Y hacen falta muchas cosas!"
+    },
+    "yNQWDQ": {
+        "en-US": "[Kun]\nRight!! You suffered terribly because of your father. Didn't you come here because of him too?",
+        "pt-BR": "[Kun]\nIsso!! Você sofreu pra caramba por causa do seu pai, não foi? Disseram que foi por causa dele que você veio parar aqui.",
+        "es-ES": "[Kun]\n¡¡Eso es!! Tú sufriste muchísimo por culpa de tu padre. Hasta acabaste aquí por su culpa."
+    },
+    "ydQWDQ": {
+        "en-US": "[Kun]\nJust because you were a native, he never acknowledged you as the worthy son. He abused you. No, I guess he never acknowledged you as a son at all.",
+        "pt-BR": "[Kun]\nSó porque você é nativo, ele nem te reconhecia como um bom filho e ainda te maltratava. Não, nem como filho ele devia te reconhecer.",
+        "es-ES": "[Kun]\nSolo por ser indígena, ni siquiera reconocía que eras su hijo valioso y te maltrataba. No, ni siquiera te reconocería como hijo."
+    },
+    "ytQWDQ": {
+        "en-US": "[Yopi]\nAnyone here not know the story of Suad's hardships??",
+        "pt-BR": "[Yopi]\nTem alguém aqui que não conhece a história do sofrimento do Suad??",
+        "es-ES": "[Yopi]\n¿Hay alguien aquí que no conozca la historia de lo que sufrió Suad??"
+    },
+    "y9QWDQ": {
+        "en-US": "No, nobody. Just think about it. We took revenge for you.",
+        "pt-BR": "Não tem, não. Pensa bem. A gente se vingou por você.",
+        "es-ES": "No, no hay nadie. Piénsalo bien. Nosotros solo vengamos lo que te hicieron."
+    },
+    "zNQWDQ": {
+        "en-US": "[Ramakus]\nYou always only imagined it in your heart, didn't you? That you didn't deserve such treatment. That you wanted revenge against your adoptive father.",
+        "pt-BR": "[Ramakus]\nVocê sempre imaginou isso no fundo, não foi? Que não precisava passar por aquele tratamento. Que queria se vingar do seu pai adotivo.",
+        "es-ES": "[Ramakus]\nSiempre te lo habías imaginado en tu corazón, ¿verdad? Que no tenías por qué recibir ese trato. Que querías vengarte de tu padre adoptivo."
+    },
+    "zdQWDQ": {
+        "en-US": "[Maram]\nSay something, Suad.",
+        "pt-BR": "[Maram]\nFala alguma coisa, Suad.",
+        "es-ES": "[Maram]\nDi algo, Suad."
+    },
+    "ztQWDQ": {
+        "en-US": "[Suad]\n...Haa... Fine, I understand... J-just... next time, make sure nothing like this happens again. I understand why you thought the way you did, but we could be put in even greater danger...",
+        "pt-BR": "[Suad]\n...haah... entendi... então... da próxima vez, tomem cuidado para que isso não volte a acontecer. Eu entendo o que vocês pensaram, mas isso pode nos colocar em um perigo ainda maior...",
+        "es-ES": "[Suad]\n...Aaah... De momento lo entiendo... la... la próxima vez aseguraos de que esto no vuelva a pasar. Entiendo por qué lo hicisteis, pero podríamos acabar en un peligro aún mayor..."
+    },
+    "z9QWDQ": {
+        "en-US": "[Miriam]\nSuad? Is that all?",
+        "pt-BR": "[Miriam]\nSuad? É só isso?",
+        "es-ES": "[Miriam]\n¿Suad? ¿Eso es todo?"
+    },
+    "0NQWDQ": {
+        "en-US": "[Maram]\nI may not know much about this sort of thing, but from my limited understanding, these lot are going to keep doing this, aren't they? Shouldn't we at least confiscate their weapons?",
+        "pt-BR": "[Maram]\nEu não entendo muito dessas coisas, mas, pelo pouco que sei, eles vão continuar fazendo isso daqui pra frente. Não devíamos ao menos recolher as armas?",
+        "es-ES": "[Maram]\nA lo mejor yo de estas cosas no entiendo mucho, pero, con mis pocos conocimientos, me da la impresión de que estos seguirán haciendo lo mismo, así que ¿no habría que quitarles al menos las armas?"
+    },
+    "0dQWDQ": {
+        "en-US": "[Suad]\nIt is true that the village is short on supplies. Trade is becoming more and more difficult.",
+        "pt-BR": "[Suad]\nÉ verdade que faltam suprimentos na vila. E é verdade que negociar está ficando cada vez mais difícil.",
+        "es-ES": "[Suad]\nEs cierto que en el pueblo faltan suministros. Cada vez es más difícil comerciar."
+    },
+    "0tQWDQ": {
+        "en-US": "[Suad]\nAnd as for arms... like I said before, we do need them. We should leave what we have already acquired alone and find a new source. I was actually going to discuss that with you.",
+        "pt-BR": "[Suad]\nE quanto ao armamento... como já falei antes, precisamos dele. O que já foi obtido deve ficar, e teremos de encontrar uma nova fonte de aquisição. Aliás, eu já queria discutir isso com vocês.",
+        "es-ES": "[Suad]\nY en cuanto a las armas... como ya dije antes, necesitamos armarnos. Lo que ya se ha conseguido se dejará como está, y habrá que buscar una nueva fuente de suministro. De hecho, pensaba hablarlo con vosotros precisamente por eso."
+    },
+    "09QWDQ": {
+        "en-US": "[Miriam]\nSuad? Tell me. Is there no personal feeling at all in this decision? Can you really say there is none?",
+        "pt-BR": "[Miriam]\nSuad? Me diz uma coisa. Nesta decisão não há nenhum sentimento pessoal seu? Você consegue mesmo dizer que não há nenhum?",
+        "es-ES": "[Miriam]\n¿Suad? Dímelo. En esta decisión, ¿no hay nada personal por tu parte? ¿Puedes decir de verdad que no hay nada?"
+    },
+    "1NQWDQ": {
+        "en-US": "[Suad]\nWait, just wait. I need time to gather my thoughts.",
+        "pt-BR": "[Suad]\nCalma, calma. Eu preciso de tempo para organizar meus pensamentos.",
+        "es-ES": "[Suad]\nEspera, espera un momento. Necesito tiempo para ordenar mis ideas."
+    },
+    "1dQWDQ": {
+        "en-US": "Ramakus",
+        "pt-BR": "Ramakus",
+        "es-ES": "Ramakus"
+    },
+    "1tQWDQ": {
+        "en-US": "Ramakus#sms01",
+        "pt-BR": "Ramakus#sms01",
+        "es-ES": "Ramakus#sms01"
+    },
+    "19QWDQ": {
+        "en-US": "[Kun]\nNo! But~ the more I think about it, what did we do wrong? Why are we being told not to?",
+        "pt-BR": "[Kun]\nNão! Mas pensando bem agora. O que foi que a gente fez de errado? Por que não pode?",
+        "es-ES": "[Kun]\n¡No! Pero~ pensándolo bien, ¿qué hemos hecho mal? ¿Por qué no podemos hacerlo?"
+    },
+    "2NQWDQ": {
+        "en-US": "I do not get that either. Didn't we help?",
+        "pt-BR": "Eu também não sei? Não foi ajuda?",
+        "es-ES": "Ni yo lo entiendo. ¿No os estábamos ayudando?"
+    },
+    "2dQWDQ": {
+        "en-US": "[Ramakus]\nIt is not like we were trying to keep it all for ourselves. We were doing it so we could all live well.",
+        "pt-BR": "[Ramakus]\nA gente não está querendo guardar tudo só pra nós. É pra todo mundo viver melhor.",
+        "es-ES": "[Ramakus]\nNo es que quisiéramos quedárnoslo para nosotros solos, lo hacemos para que todos vivamos mejor."
+    },
+    "2tQWDQ": {
+        "en-US": "[Yopi]\nRight? That is what I think too. If we work even harder and more actively, maybe they'll come around.",
+        "pt-BR": "[Yopi]\nNão é? Eu também acho. Se a gente se esforçar ainda mais e agir de forma mais ativa, talvez eles mudem de ideia.",
+        "es-ES": "[Yopi]\n¿A que sí? Yo pienso lo mismo. Si nos esforzamos más y somos más decididos, seguro que acabará cambiando de idea."
+    },
+    "29QWDQ": {
+        "en-US": "Should we really leave them like this..?",
+        "pt-BR": "Será que dá pra deixar isso assim mesmo...?",
+        "es-ES": "¿De verdad podemos dejar esto tal como está...?"
+    },
+    "3NQWDQ": {
+        "en-US": "[Maram]\nNo, of course not. If they just do whatever they want without thinking about the future, that makes them children, not adults.",
+        "pt-BR": "[Maram]\nNão dá. Claro que não. Se a pessoa faz só o que quer sem pensar no futuro, isso é coisa de criança ou de adulto?",
+        "es-ES": "[Maram]\nNo, claro que no. Si uno hace lo que le da la gana sin pensar en lo que viene después, ¿eso es un niño o un adulto?"
+    },
+    "3dQWDQ": {
+        "en-US": "[Miriam]\nSuad. Say something.",
+        "pt-BR": "[Miriam]\nSuad. Fala com eles.",
+        "es-ES": "[Miriam]\nSuad. Tienes que hablar."
+    },
+    "3tQWDQ": {
+        "en-US": "[Resident]\nSo everyone was here. I heard you attacked a caravan? Did you get anything good?",
+        "pt-BR": "[Morador]\nEntão vocês estavam todos aqui. Ouvi dizer que atacaram uma caravana. Conseguiram alguma coisa?",
+        "es-ES": "[Habitante]\nAsí que estabais todos aquí. ¿He oído que atacasteis a un gremio mercante? ¿Sacasteis algo bueno?"
+    },
+    "39QWDQ": {
+        "en-US": "[Resident]\nGood job. They needed a proper lesson. We may not have power, but that doesn't mean we lack fury. We've stayed quiet all this time, and that's why they look down on us and disrespect us more.",
+        "pt-BR": "[Morador]\nMuito bem. Tinham mesmo é que aprender uma lição. O que nos falta não é coragem, é força. Ficamos quietos até agora e, por isso, eles nos menosprezam e nos humilham ainda mais.",
+        "es-ES": "[Habitante]\nBien hecho. Hay que darles una buena lección. No será que no tengamos fuerza, lo que pasa es que no tenemos maldad. Como hasta ahora nos hemos quedado quietos, nos desprecian y nos tratan peor."
+    },
+    "4NQWDQ": {
+        "en-US": "We need to show them that we can rise up too.",
+        "pt-BR": "Temos que mostrar que também podemos reagir.",
+        "es-ES": "Tenemos que demostrar que también sabemos movernos."
+    },
+    "4dQWDQ": {
+        "en-US": "[Yopi]\nBut~ Suad says we shouldn't do it anymore~",
+        "pt-BR": "[Yopi]\nMas... agora o Suad disse pra não fazer mais...",
+        "es-ES": "[Yopi]\nPero... ahora Suad dice que no lo hagamos..."
+    },
+    "4tQWDQ": {
+        "en-US": "[Resident]\nWhyyy? Why does he say we shouldn't?",
+        "pt-BR": "[Morador]\nPooor quê? Por que ele disse para não fazer?",
+        "es-ES": "[Habitante]\n¿Pooor qué? ¿Por qué dice que no?"
+    },
+    "49QWDQ": {
+        "en-US": "[Kun]\nWho knows. He says our actions put us in greater danger, but I guess I'm too stupid to understand what he's talking about~",
+        "pt-BR": "[Kun]\nSei lá. Dizem que nossas ações nos colocam em mais perigo, mas eu sou burro demais pra entender o que isso quer dizer.",
+        "es-ES": "[Kun]\nPues dice que nuestras acciones nos ponen en más peligro, pero yo soy tan tonto que no entiendo ni una palabra."
+    },
+    "5NQWDQ": {
+        "en-US": "[Ramakus]\nHe says because we robbed a caravan, Rachel is calling us traitors~ and is going to attack us.",
+        "pt-BR": "[Ramakus]\nPorque, segundo eles, como saqueamos a caravana, em Rachel estão nos chamando de traidores~ e vão nos atacar.",
+        "es-ES": "[Ramakus]\nDice que como saqueamos a un gremio mercante, en Rachel nos llaman traidores~ y que nos van a atacar."
+    },
+    "5dQWDQ": {
+        "en-US": "What traitors are we supposed to be!",
+        "pt-BR": "Como assim traidores?!",
+        "es-ES": "¡¿Qué traidores ni qué nada?!"
+    },
+    "5tQWDQ": {
+        "en-US": "Attack us??",
+        "pt-BR": "Vão nos atacar??",
+        "es-ES": "¡¿Nos van a atacar??"
+    },
+    "59QWDQ": {
+        "en-US": "Is that true?",
+        "pt-BR": "Isso é verdade?",
+        "es-ES": "¿Es verdad eso?\""
+    },
+    "6NQWDQ": {
+        "en-US": "[Suad]\nYes. Our position has become extremely unfavorable. There has not been any major movement yet, but public opinion is bad.",
+        "pt-BR": "[Suad]\nSim. Nossa posição ficou extremamente desfavorável. Ainda não houve nenhum grande movimento, mas a opinião pública está contra nós.",
+        "es-ES": "[Suad]\nSí. La situación se ha vuelto muy desfavorable para nosotros. Aún no han hecho ningún gran movimiento, pero la opinión pública es mala."
+    },
+    "6dQWDQ": {
+        "en-US": "[Ramakus]\nThen isn't this exactly when we should raise our voices?",
+        "pt-BR": "[Ramakus]\nNão acha que justamente num momento desses precisamos fazer ouvir a nossa voz?",
+        "es-ES": "[Ramakus]\n¿No será precisamente en momentos así cuando deberíamos alzar la voz?"
+    },
+    "6tQWDQ": {
+        "en-US": "We are people too. The same as them.",
+        "pt-BR": "Nós também somos gente. Iguais a eles.",
+        "es-ES": "Nosotros también somos personas. Igual que ellos."
+    },
+    "69QWDQ": {
+        "en-US": "And now we have arms as well.",
+        "pt-BR": "Agora também temos armas.",
+        "es-ES": "Y ahora además ya estamos armados."
+    },
+    "7NQWDQ": {
+        "en-US": "[Resident]\nLet's show them what we're made of!!! Let our voices be heard!!",
+        "pt-BR": "[Morador]\nVamos mostrar do que somos capazes!!! Vamos fazer ouvir a nossa voz!!",
+        "es-ES": "[Habitante]\n¡¡¡Vamos a darles una lección!!! ¡¡Hagamos oír nuestra voz!!"
+    },
+    "7dQWDQ": {
+        "en-US": "Yeah!! Let's do it!!!",
+        "pt-BR": "Isso!! Vamos!!!",
+        "es-ES": "¡¡Sí!! ¡¡Eso!!"
+    },
+    "7tQWDQ": {
+        "en-US": "It is time for us to speak too!",
+        "pt-BR": "Já está na hora de falarmos também!",
+        "es-ES": "¡Ya era hora de que también habláramos nosotros!"
+    },
+    "79QWDQ": {
+        "en-US": "Right? It is our turn too!",
+        "pt-BR": "Não é? Chegou a nossa vez!",
+        "es-ES": "¿A que sí? ¡Ahora nos toca a nosotros!"
+    },
+    "8NQWDQ": {
+        "en-US": "How long are we supposed to go on like this?",
+        "pt-BR": "Até quando vamos continuar vivendo assim?",
+        "es-ES": "¿Hasta cuándo vamos a seguir viviendo así?"
+    },
+    "8dQWDQ": {
+        "en-US": "That's right!!!",
+        "pt-BR": "Isso mesmo!!!",
+        "es-ES": "¡¡Eso es!!!"
+    },
+    "8tQWDQ": {
+        "en-US": "[Maram]\nWait, calm down.",
+        "pt-BR": "[Maram]\nEsperem, se acalmem.",
+        "es-ES": "[Maram]\nEsperad, tranquilizaos un momento."
+    },
+    "89QWDQ": {
+        "en-US": "[Resident]\nSuad! How much longer are we supposed to live like this? It kills me, how unjust this is!",
+        "pt-BR": "[Morador]\nSuad! Até quando vamos ter que continuar vivendo assim? Estou morrendo de injustiça!",
+        "es-ES": "[Habitante]\n¡Suad! ¿Hasta cuándo tenemos que seguir viviendo así? ¡Me muero de rabia!"
+    },
+    "9NQWDQ": {
+        "en-US": "Why do we have to live hidden away like fugitives?",
+        "pt-BR": "Por que temos que viver escondidos como fugitivos?",
+        "es-ES": "¿Por qué tenemos que vivir escondidos como fugitivos?"
+    },
+    "9dQWDQ": {
+        "en-US": "We can't go on living like this forever.",
+        "pt-BR": "Não dá para continuar vivendo assim para sempre.",
+        "es-ES": "No podemos seguir viviendo así para siempre."
+    },
+    "9tQWDQ": {
+        "en-US": "[Kun]\nSuad, you're too cautious. We'll go if we have to. Like the ones who attacked the caravan. Nothing happened, right?",
+        "pt-BR": "[Kun]\nSuad, você é cuidadoso demais. A gente vai fazer isso mesmo sem você. Igual aos que atacaram a caravana. Não deu nada, deu?",
+        "es-ES": "[Kun]\nSuad, eres demasiado prudente. Si hace falta, nosotros iremos igual. Como los que atacaron al gremio mercante. No pasó nada."
+    },
+    "99QWDQ": {
+        "en-US": "[Resident]\nThe Adventurer is here too. What do you think? You've traveled all over, so you must have seen plenty, right?",
+        "pt-BR": "[Morador]\nJusto quando o aventureiro também está aqui. O que você acha? Você já andou por muitos lugares e deve ter visto de tudo, não é?",
+        "es-ES": "[Habitante]\nJusto también está aquí el aventurero. ¿Qué opina usted? Habrá visto mucho viajando de un lado a otro, ¿no?"
+    },
+    "+NQWDQ": {
+        "en-US": "Well...",
+        "pt-BR": "Eu...",
+        "es-ES": "Yo..."
+    },
+    "+dQWDQ": {
+        "en-US": "[Maram]\nThe mood is getting more and more...",
+        "pt-BR": "[Maram]\nO clima está cada vez mais...",
+        "es-ES": "[Maram]\nEl ambiente cada vez..."
+    },
+    "+tQWDQ": {
+        "en-US": "I think things are taking a strange turn.",
+        "pt-BR": "Acho que isso está tomando um rumo estranho.",
+        "es-ES": "Creo que se está torciendo de una forma extraña."
+    },
+    "+9QWDQ": {
+        "en-US": "[Miriam]\nPeople are slipping out of Suad's control. At this rate...",
+        "pt-BR": "[Miriam]\nAs pessoas estão escapando do controle de Suad. Se continuar assim...",
+        "es-ES": "[Miriam]\nLa gente se está saliendo del control de Suad; si esto sigue así..."
+    },
+    "/NQWDQ": {
+        "en-US": "[Maram]\nBang! Aaagh! Save me! That's what's going to happen.",
+        "pt-BR": "[Maram]\nPá! Aaah! Socorro! É isso que vai acontecer.",
+        "es-ES": "[Maram]\n¡Pum! ¡Aaah! ¡Socorro! Pues eso es lo que va a pasar."
+    },
+    "/dQWDQ": {
+        "en-US": "[Suad]\nFine. We'll do it. A protest. It's true that we can't keep waiting forever.",
+        "pt-BR": "[Suad]\nSim. Vamos fazer. O protesto. É verdade que não dá para esperar para sempre.",
+        "es-ES": "[Suad]\nSí. Lo haremos. La protesta. También es cierto que ya no podemos seguir esperando eternamente."
+    },
+    "/tQWDQ": {
+        "en-US": "[Maram]\nWhat? Like this? Right now? Without any preparation?",
+        "pt-BR": "[Maram]\nO quê? Assim? Agora? Sem preparo nenhum?",
+        "es-ES": "[Maram]\n¿Qué? ¿Así? ¿Ahora mismo? ¿Sin preparación?"
+    },
+    "/9QWDQ": {
+        "en-US": "[Suad]\nIt's not as if we made no preparations at all. We can move little by little into Rachel and hide, then join up at the temple when the time comes.",
+        "pt-BR": "[Suad]\nNão é como se não tivéssemos feito preparação alguma. Vamos nos deslocando aos poucos para Rachel e nos escondendo. Quando chegar a hora, nos reunimos no templo.",
+        "es-ES": "[Suad]\nNo es que no hayamos preparado nada. Iremos desplazándonos poco a poco a Rachel y nos ocultaremos hasta que llegue el momento; entonces nos uniremos en el templo."
+    },
+    "ANUWDQ": {
+        "en-US": "[Ramakus]\nTwilight today would be best. Security will be lax while the guards are changing shifts.",
+        "pt-BR": "[Ramakus]\nAcho melhor ser ao entardecer de hoje. A vigilância vai ficar mais frouxa por causa da troca da guarda.",
+        "es-ES": "[Ramakus]\nLa mejor hora sería al atardecer de hoy. Cambiarán la guardia y la vigilancia será más débil."
+    },
+    "AdUWDQ": {
+        "en-US": "[Resident]\nGood!!! I'll gather the people!!",
+        "pt-BR": "[Morador]\nÓtimo!!! Vou reunir as pessoas!!",
+        "es-ES": "[Habitante]\n¡¡Bien!!! ¡¡Voy a reunir a la gente!!"
+    },
+    "AtUWDQ": {
+        "en-US": "[Suad]\nMaram, you stay here and prepare for any emergency.",
+        "pt-BR": "[Suad]\nMaram, você fica aqui e se prepara para qualquer eventualidade.",
+        "es-ES": "[Suad]\nMaram, tú quédate aquí por si ocurre algo."
+    },
+    "A9UWDQ": {
+        "en-US": "[Maram]\nGot it.",
+        "pt-BR": "[Maram]\nEntendi.",
+        "es-ES": "[Maram]\nEntendido."
+    },
+    "BNUWDQ": {
+        "en-US": "[Suad]\nAnd the rest of you, leave all those weapons behind.",
+        "pt-BR": "[Suad]\nE vocês todos deixem essas armas aqui antes de ir.",
+        "es-ES": "[Suad]\nY vosotros dejad aquí todas esas armas."
+    },
+    "BdUWDQ": {
+        "en-US": "[Yopi]\nAh, why!! We need to protect ourselves too!!",
+        "pt-BR": "[Yopi]\nAh, por quê!! A gente também tem que se proteger!!",
+        "es-ES": "[Yopi]\n¡Ah, no! ¡Nosotros también tenemos que protegernos!"
+    },
+    "BtUWDQ": {
+        "en-US": "[Suad]\nWe are not going there to start an armed clash. If anything happens while we are carrying weapons, we really will be branded as Rebellion.",
+        "pt-BR": "[Suad]\nNós não vamos lá para provocar um conflito armado. Se, por acaso, acontecer algum incidente enquanto estivermos portando armas, aí sim vamos ser tratados como Rebeldes de verdade.",
+        "es-ES": "[Suad]\nNo vamos a provocar un enfrentamiento armado. Si ocurre algo desagradable llevando armas encima, entonces sí que nos llamarán de verdad Rebeldes."
+    },
+    "B9UWDQ": {
+        "en-US": "[Kun]\nOh, all right! Honestly, Suad worries too much.",
+        "pt-BR": "[Kun]\nTá bom, tá bom! O Suad vive preocupado com tudo mesmo.",
+        "es-ES": "[Kun]\n¡Vale, vale! Si es que Suad siempre se preocupa por todo."
+    },
+    "CNUWDQ": {
+        "en-US": "[Ramakus]\nWhy worry in advance about things that haven't even happened?",
+        "pt-BR": "[Ramakus]\nPor que se preocupar antes por algo que nem aconteceu?",
+        "es-ES": "[Ramakus]\n¿Por qué preocuparse de antemano por algo que ni siquiera ha pasado?"
+    },
+    "CdUWDQ": {
+        "en-US": "[Suad]\nThen it's decided, so hurry. Gather in front of the <NAVI>[temple]<INFO>rachel,169,245,0,101,0</INFO></NAVI> in Rachel.",
+        "pt-BR": "[Suad]\nEntão está decidido. Vamos nos apressar. Reúnam-se em <NAVI>[frente ao templo]<INFO>rachel,169,245,0,101,0</INFO></NAVI> em Rachel.",
+        "es-ES": "[Suad]\nBien, ya está decidido, así que demos prisa. Reuníos en <NAVI>[delante del templo]<INFO>rachel,169,245,0,101,0</INFO></NAVI> de Rachel."
+    },
+    "CtUWDQ": {
+        "en-US": "[Ramakus]\nWhat are you doing? We said we were going to gather in front of the <NAVI>[temple]<INFO>rachel,169,245,0,101,0</INFO></NAVI> in Rachel.",
+        "pt-BR": "[Ramakus]\nO que está fazendo? A gente combinou de ir para <NAVI>[frente ao templo]<INFO>rachel,169,245,0,101,0</INFO></NAVI> em Rachel.",
+        "es-ES": "[Ramakus]\n¿Qué haces? Habíamos quedado en ir al <NAVI>[frente del templo]<INFO>rachel,169,245,0,101,0</INFO></NAVI> de Rachel."
+    },
+    "C9UWDQ": {
+        "en-US": "Kun",
+        "pt-BR": "Kun",
+        "es-ES": "Kun"
+    },
+    "DNUWDQ": {
+        "en-US": "Kun#sms01",
+        "pt-BR": "Kun#sms01",
+        "es-ES": "Kun#sms01"
+    },
+    "DdUWDQ": {
+        "en-US": "Yopi",
+        "pt-BR": "Yopi",
+        "es-ES": "Yopi"
+    },
+    "DtUWDQ": {
+        "en-US": "Yopi#sms01",
+        "pt-BR": "Yopi#sms01",
+        "es-ES": "Yopi#sms01"
+    },
+    "D9UWDQ": {
+        "en-US": "Resident",
+        "pt-BR": "Morador",
+        "es-ES": "Habitante"
+    },
+    "ENUWDQ": {
+        "en-US": "Ordinary Person",
+        "pt-BR": "Pessoa comum",
+        "es-ES": "Persona Corriente"
+    },
+    "EdUWDQ": {
+        "en-US": "[Wolf]\nAre you perhaps here to join the protest? But you don't look like a seasoned protester.",
+        "pt-BR": "[Lobo]\nPor acaso veio participar do protesto? Mas você não parece um manifestante experiente.",
+        "es-ES": "[Lobo]\n¿Ha venido a participar en la protesta? Pero no parece un manifestante veterano, la verdad."
+    },
+    "EtUWDQ": {
+        "en-US": "The Wolves' Rally Point",
+        "pt-BR": "Ponto de reunião dos Lobos",
+        "es-ES": "Punto de reunión de los lobos"
+    },
+    "E9UWDQ": {
+        "en-US": "[Ordinary Person]\nThis area is under repair, and access is prohibited.",
+        "pt-BR": "[Pessoa comum]\nO acesso a este lugar está proibido porque está em manutenção.",
+        "es-ES": "[Persona Corriente]\nEsta zona está en reparación y el acceso está prohibido."
+    },
+    "FNUWDQ": {
+        "en-US": "[Suad]\nNo need to be on guard. This Adventurer is with us.",
+        "pt-BR": "[Suad]\nNão precisa ficar em guarda. Este é um aventureiro que está conosco.",
+        "es-ES": "[Suad]\nNo hace falta que te pongas en guardia. Este es un aventurero que está con nosotros."
+    },
+    "FdUWDQ": {
+        "en-US": "[Miriam]\nIs everyone here now?",
+        "pt-BR": "[Miriam]\nAgora todos já chegaram?",
+        "es-ES": "[Miriam]\n¿Ya están todos?"
+    },
+    "FtUWDQ": {
+        "en-US": "[Suad]\nYes. Preparations are complete as well. We just need to send the signal to our people who are scattered around, then move into the temple.",
+        "pt-BR": "[Suad]\nSim. Os preparativos também terminaram. Agora é só mandar o sinal para os nossos que estão espalhados e entrar no templo.",
+        "es-ES": "[Suad]\nSí. Todo está listo. Solo hay que enviar la señal a nuestra gente, que está dispersa, y entrar en el templo."
+    },
+    "F9UWDQ": {
+        "en-US": "[Miriam]\nThen we will have to move quickly.",
+        "pt-BR": "[Miriam]\nTemos que agir rápido.",
+        "es-ES": "[Miriam]\nHabrá que movernos rápido."
+    },
+    "GNUWDQ": {
+        "en-US": "[Suad]\nIf we go in through here, we can enter by the temple's side gate. Once I send the signal and get a response, we'll move in. Adventurer, may I send the signal?",
+        "pt-BR": "[Suad]\nSe entrar por aqui, dá para acessar a porta lateral do templo. Se eu mandar o sinal para o outro lado, entraremos assim que houver resposta. Aventureiro, posso mandar o sinal?",
+        "es-ES": "[Suad]\nSi entramos por aquí, podremos acceder al lateral del templo. Si enviamos la señal a los otros, entraremos en cuanto respondan. Aventurero, ¿envío la señal?"
+    },
+    "GdUWDQ": {
+        "en-US": "Yes, send the signal.",
+        "pt-BR": "Sim, envie o sinal.",
+        "es-ES": "Sí, envíe la señal."
+    },
+    "GtUWDQ": {
+        "en-US": "Let's move in at once.",
+        "pt-BR": "Vamos entrar logo.",
+        "es-ES": "Entremos ya."
+    },
+    "G9UWDQ": {
+        "en-US": "I need more preparation.",
+        "pt-BR": "Preciso me preparar.",
+        "es-ES": "Necesito prepararme."
+    },
+    "HNUWDQ": {
+        "en-US": "[Suad]\nStrange. I still haven't received the signal that the passage has been opened. I suppose I'll have to send it again in a little while.",
+        "pt-BR": "[Suad]\nEstranho. O sinal de que a passagem foi aberta ainda não chegou. Vou ter que enviar o sinal novamente daqui a pouco.",
+        "es-ES": "[Suad]\nQué raro. Aún no ha llegado la señal de que el paso esté abierto. Tendremos que volver a enviarla dentro de un momento."
+    },
+    "HdUWDQ": {
+        "en-US": "Beep-",
+        "pt-BR": "Bip-",
+        "es-ES": "Piiip-"
+    },
+    "HtUWDQ": {
+        "en-US": "[Suad]\nI've sent the signal, so the emergency passage should open soon. Tell me when you're ready. We'll move in immediately.",
+        "pt-BR": "[Suad]\nO sinal foi enviado, então a passagem de emergência deve se abrir em breve. Avise quando estiver pronto. Entraremos imediatamente.",
+        "es-ES": "[Suad]\nYa he enviado la señal, así que el paso de emergencia se abrirá pronto. Cuando estés preparado, dímelo. Entraremos de inmediato."
+    },
+    "H9UWDQ": {
+        "en-US": "[Suad]\nSomething feels off. I'll try sending the signal again shortly.",
+        "pt-BR": "[Suad]\nTem algo estranho nisso. Vou tentar enviar o sinal de novo daqui a pouco.",
+        "es-ES": "[Suad]\nAquí pasa algo raro. Volveré a enviar la señal dentro de un momento."
+    },
+    "INUWDQ": {
+        "en-US": "[Suad]\nI haven't sent the signal yet. If everyone is ready, I'll send it immediately.",
+        "pt-BR": "[Suad]\nAinda não enviei o sinal. Se já terminou de se preparar, então envio agora mesmo.",
+        "es-ES": "[Suad]\nAún no he enviado la señal. Si ya lo tienes todo preparado, la enviaré ahora mismo."
+    },
+    "IdUWDQ": {
+        "en-US": "[Suad]\nForm a party of at least one person and come back. It's a protest we're doing together.",
+        "pt-BR": "[Suad]\nForme um grupo com pelo menos 1 pessoa e volte. É um protesto em conjunto.",
+        "es-ES": "[Suad]\nVen formando un grupo de al menos 1 persona. Es una protesta en la que participamos juntos."
+    },
+    "ItUWDQ": {
+        "en-US": "[Suad] The signal has come, so let's move. We'll enter immediately.",
+        "pt-BR": "[Suad] O sinal chegou, então vamos nos mover. Vamos entrar agora mesmo.",
+        "es-ES": "[Suad] Ya ha llegado la señal, así que nos movemos. Entremos de inmediato."
+    },
+    "I9UWDQ": {
+        "en-US": "Adventurer {0} and their party {1} will enter {2} first. All wolves, gather in sequence.",
+        "pt-BR": "{0} e todo o seu grupo {1} entram primeiro em {2}. Que todos os Lobos se reúnam em sequência.",
+        "es-ES": "Trotamundos {0} y todo su grupo {1} entrarán primero en {2}. Que todos los lobos se reúnan por turnos."
+    },
+    "JNUWDQ": {
+        "en-US": "[Suad]\nIs that so? The Adventurer is a key combat force too, so we'll wait until you're ready.",
+        "pt-BR": "[Suad]\nÉ mesmo? Como o aventureiro também é uma força importante, então esperamos até que tudo esteja pronto.",
+        "es-ES": "[Suad]\n¿Sí? Entiendo, el aventurero también es una fuerza clave, así que esperaremos hasta que estés preparado."
+    },
+    "JdUWDQ": {
+        "en-US": "[Suad]\nHmm... but do you not have a party? How about forming or joining one first? It will be dangerous alone.",
+        "pt-BR": "[Suad]\nHum... então você não tem grupo? Que tal formar ou entrar em um grupo antes de vir? Sozinho vai ser perigoso.",
+        "es-ES": "[Suad]\nMmm... ¿pero no tienes grupo? ¿Qué te parece formar uno o unirte a uno antes de venir? Solo sería peligroso."
+    },
+    "JtUWDQ": {
+        "en-US": "[Suad]\nIf we go in through here, we can enter by the temple's side gate. Adventurer, shall we move in now?",
+        "pt-BR": "[Suad]\nSe entrar por aqui, dá para acessar a porta lateral do templo. Aventureiro, quer entrar agora?",
+        "es-ES": "[Suad]\nSi entramos por aquí, podremos acceder al lateral del templo. Aventurero, ¿vas a entrar ahora?"
+    },
+    "J9UWDQ": {
+        "en-US": "[Suad]\nThe party leader hasn't sent the signal yet. Tell them to do it as soon as they're ready. We can't wait forever.",
+        "pt-BR": "[Suad]\nO líder do grupo ainda não enviou o sinal, certo? Diga para enviar assim que estiver pronto. Não podemos ficar esperando para sempre.",
+        "es-ES": "[Suad]\n¿Pero si el líder del grupo aún no ha enviado la señal? Dile que la mande en cuanto esté preparado. No podemos quedarnos esperando eternamente."
+    },
+    "KNUWDQ": {
+        "en-US": "[Ordinary Person]\nHey, didn't they say they were discussing how to handle things separately over <NAVI>[there]<INFO>rachel,116,200,0,101,0</INFO></NAVI>? At least, that's what I heard.",
+        "pt-BR": "[Pessoa comum]\nEi, não disseram que iam discutir separadamente sobre como lidar com a situação <NAVI>[ali]<INFO>rachel,116,200,0,101,0</INFO></NAVI>? Foi o que eu ouvi.",
+        "es-ES": "[Persona Corriente]\nOiga, ¿no dijeron que en <NAVI>[por allí]<INFO>rachel,116,200,0,101,0</INFO></NAVI> estaban hablando aparte de cómo gestionar la situación? Eso es lo que yo oí."
+    },
+    "KdUWDQ": {
+        "en-US": "[Ordinary Person]\nAdventurer, hello. Someone from the temple side has been waiting for you.",
+        "pt-BR": "[Pessoa comum]\nAventureiro, olá. O pessoal do templo estava esperando pelo aventureiro.",
+        "es-ES": "[Persona Corriente]\nOiga, ¿no dijeron que en <NAVI>[por allí]<INFO>rachel,116,200,0,101,0</INFO></NAVI> estaban hablando aparte de cómo gestionar la situación? Eso es lo que yo oí."
+    },
+    "KtUWDQ": {
+        "en-US": "Adventurer, welcome.",
+        "pt-BR": "Aventureiro, seja bem-vindo.",
+        "es-ES": "Trotamundos, bienvenido."
+    },
+    "K9UWDQ": {
+        "en-US": "[Ordinary Person]\nThis area is under repair, and access is prohibited. It's dangerous. Please step back.",
+        "pt-BR": "[Pessoa comum]\nO acesso a este lugar está proibido porque está em manutenção. É perigoso. Afaste-se.",
+        "es-ES": "[Persona Corriente]\nEsta zona está en reparación y el acceso está prohibido. Es peligroso. Retroceda."
+    },
+    "LNUWDQ": {
+        "en-US": "Niren",
+        "pt-BR": "Niren",
+        "es-ES": "Niren"
+    },
+    "LdUWDQ": {
+        "en-US": "We have roughly finished counting the injured.",
+        "pt-BR": "Já terminamos de calcular aproximadamente o número de feridos.",
+        "es-ES": "Ya hemos terminado de calcular más o menos cuántos heridos hay."
+    },
+    "LtUWDQ": {
+        "en-US": "We've moved everyone here to a safe place as well.",
+        "pt-BR": "Também já levamos todos daqui para um lugar seguro.",
+        "es-ES": "También hemos trasladado a todos los de este lado a un lugar seguro."
+    },
+    "L9UWDQ": {
+        "en-US": "[Niren]\nThe damage... is too great.",
+        "pt-BR": "[Niren]\nOs danos... são grandes demais.",
+        "es-ES": "[Niren]\nLos daños... son demasiado graves."
+    },
+    "MNUWDQ": {
+        "en-US": "[Suad]\nAnd now that blood has been spilled, the rumors will spread in an instant that this was a native riot. Things were already bad enough because of the caravan attack.",
+        "pt-BR": "[Suad]\nE, agora que houve derramamento de sangue, logo os rumores vão se espalhar dizendo que foi um motim dos nativos. Ainda mais numa situação já ruim por causa do ataque à caravana.",
+        "es-ES": "[Suad]\nY encima ha habido derramamiento de sangre, así que en un instante correrá el rumor de que ha sido un motín de indígenas. Y eso cuando ya estábamos mal por lo del ataque al gremio mercante."
+    },
+    "MdUWDQ": {
+        "en-US": "[Zed]\nDo not worry about public opinion. We will handle that.",
+        "pt-BR": "[Zed]\nNão se preocupe com a opinião pública. Nós cuidaremos disso.",
+        "es-ES": "[Zed]\nNo te preocupes por la opinión pública. Nosotros nos ocuparemos."
+    },
+    "MtUWDQ": {
+        "en-US": "[Niren]\nTo think that all the recent events were caused by a scheme.",
+        "pt-BR": "[Niren]\nEntão tudo o que aconteceu recentemente foi resultado de uma trama.",
+        "es-ES": "[Niren]\nAsí que todo lo que ha ocurrido últimamente formaba parte de un plan..."
+    },
+    "M9UWDQ": {
+        "en-US": "[Zed]\nIt is our failure that we did not examine the suspicious movements inside the temple more closely.",
+        "pt-BR": "[Zed]\nFoi falha nossa não termos observado com mais atenção os movimentos suspeitos dentro do templo.",
+        "es-ES": "[Zed]\nHa sido un fallo nuestro no examinar con más detalle los movimientos sospechosos dentro del templo."
+    },
+    "NNUWDQ": {
+        "en-US": "[Suad]\nLet's leave the self-reproach for later and deal with settling things on both sides first.",
+        "pt-BR": "[Suad]\nVamos deixar a culpa para depois e, antes de mais nada, parece que precisamos conter a situação dos dois lados.",
+        "es-ES": "[Suad]\nYa habrá tiempo para reproches más tarde; de momento parece que ambos lados tienen que ocuparse de contener la situación."
+    },
+    "NdUWDQ": {
+        "en-US": "[Niren]\nIs it certain that High Priest Yus Amal was involved?",
+        "pt-BR": "[Niren]\nEstá confirmado que o Arcebispo Yus Amal estava envolvido?",
+        "es-ES": "[Niren]\n¿Es seguro que el gran sacerdote Yus Amal estaba implicado?"
+    },
+    "NtUWDQ": {
+        "en-US": "[Miriam]\nThere was a time after his fall from power when my adoptive father, who had been listless, suddenly regained his vigor and became ambitious. From then on, conflicts between natives and migrants in Arunafeltz began to surface one after another.",
+        "pt-BR": "[Miriam]\nHouve uma época em que meu pai adotivo, que estava abatido depois da queda, de repente voltou a ficar cheio de energia e motivado. Foi a partir daí que os conflitos entre os nativos e os imigrantes de Arunafeltz começaram a surgir um a um.",
+        "es-ES": "[Miriam]\nHubo un momento en que mi padre adoptivo, que estaba apagado tras su caída, recuperó de pronto la energía y empezó a mostrarse decidido. Y fue justo entonces cuando empezaron a aflorar uno tras otro los conflictos entre indígenas e inmigrantes en Arunafeltz."
+    },
+    "N9UWDQ": {
+        "en-US": "[Mini Elly]\nThat roughly matches the time the Heart Hunters escaped from the mansion.",
+        "pt-BR": "[Mini Elly]\nIsso coincide mais ou menos com a época em que os Caça-Corações escaparam da mansão.",
+        "es-ES": "[Mini Elly]\nCoincide aproximadamente con la época en que los Cazacorazones escaparon de la mansión."
+    },
+    "ONUWDQ": {
+        "en-US": "[Zed]\nThen it is certain that those two were working together after all.",
+        "pt-BR": "[Zed]\nEntão é praticamente certo que os dois estavam agindo em conluio.",
+        "es-ES": "[Zed]\nEntonces está claro que esos dos iban de la mano."
+    },
+    "OdUWDQ": {
+        "en-US": "We even witnessed it ourselves.",
+        "pt-BR": "Nós até vimos com os próprios olhos.",
+        "es-ES": "Porque hasta lo vimos con nuestros propios ojos."
+    },
+    "OtUWDQ": {
+        "en-US": "[Niren]\nOne thing still troubles me: High Priest Yus Amal would have known the value of the Fragment of Ymir’s Heart. He would not have handed it over so easily just for someone to infiltrate the organization and stir up conflict..",
+        "pt-BR": "[Niren]\nUma coisa ainda me parece estranha: o Arcebispo Yus Amal certamente não ignorava o valor de Fragmento do Coração de Ymir. Só infiltrar alguém na organização e provocar conflitos não teria sido suficiente para que ele entregasse aquilo tão facilmente...",
+        "es-ES": "[Niren]\nHay una cosa que me inquieta: el gran sacerdote Yus Amal sabría muy bien el valor de Fragmento del Corazón de Ymir. No creo que lo entregara tan fácilmente solo a cambio de infiltrarse en la organización y sembrar conflictos..."
+    },
+    "O9UWDQ": {
+        "en-US": "[Suad]\nDid he agree to hand it over in exchange for something more?",
+        "pt-BR": "[Suad]\nEntão foi entregue em troca de algo a mais?",
+        "es-ES": "[Suad]\n¿Lo entregó a cambio de recibir algo más?"
+    },
+    "PNUWDQ": {
+        "en-US": "[Miriam]\nI'm not certain, but my adoptive father... no, I need to go and confirm it myself.",
+        "pt-BR": "[Miriam]\nNão tenho certeza, mas meu pai adotivo... não, eu mesma preciso ir confirmar.",
+        "es-ES": "[Miriam]\nNo estoy segura, pero mi padre adoptivo... no, tendré que ir a comprobarlo por mí misma."
+    },
+    "PdUWDQ": {
+        "en-US": "[Suad]\nWhere are you going? Do you have some place in mind?",
+        "pt-BR": "[Suad]\nPara onde vai? Tem alguma suspeita?",
+        "es-ES": "[Suad]\n¿Adónde vas a ir? ¿Tienes alguna sospecha?"
+    },
+    "PtUWDQ": {
+        "en-US": "[Miriam]\nThere is a summer villa on the outskirts of Rachel. He had been visiting it often lately for recuperation, and if he conspired with those mad scientists to set something in motion, that would be the place.",
+        "pt-BR": "[Miriam]\nHá uma mansão de férias nos arredores de Rachel. Ultimamente ele vinha indo muito para lá para se recuperar. Se estivesse tramando algo em conluio com aqueles cientistas loucos, seria naquele lugar.",
+        "es-ES": "[Miriam]\nHay una mansión de verano en las afueras de Rachel. Últimamente iba allí a menudo a descansar, así que, si se ha aliado con esos científicos locos para tramar algo, será allí."
+    },
+    "P9UWDQ": {
+        "en-US": "[Mini Elly]\nThen we will need to track him.",
+        "pt-BR": "[Mini Elly]\nEntão vai ser necessário rastrear.",
+        "es-ES": "[Mini Elly]\nHabrá que rastrearlos."
+    },
+    "QNUWDQ": {
+        "en-US": "[Niren]\nMiriam, I leave the pursuit of the one who stole the heart fragment to you. I would also like the Adventurer to accompany you.",
+        "pt-BR": "[Niren]\nMiriam, confio a você a tarefa de perseguir quem roubou o Fragmento do Coração. Aventureiro, eu também gostaria que a acompanhasse.",
+        "es-ES": "[Niren]\nTe encargo a ti, Miriam, perseguir a quien robó el fragmento del corazón y huyó. Me gustaría que el aventurero la acompañara."
+    },
+    "QdUWDQ": {
+        "en-US": "Understood.",
+        "pt-BR": "Entendido.",
+        "es-ES": "Entendido."
+    },
+    "QtUWDQ": {
+        "en-US": "[Zed]\nWe will remain here to care for the wounded and root out any remnants that may still be left. We also have to pay attention to public opinion.",
+        "pt-BR": "[Zed]\nNós vamos cuidar dos feridos aqui e procurar os remanescentes que ainda possam ter ficado. Também precisamos prestar atenção à opinião pública.",
+        "es-ES": "[Zed]\nNosotros nos quedaremos aquí atendiendo a los heridos y buscando a los rezagados que aún puedan quedar. También tendremos que ocuparnos de la opinión pública."
+    },
+    "Q9UWDQ": {
+        "en-US": "[Suad]\nWe should return to the forest as well and deal with the aftermath.\nMiriam, Adventurer. Then I leave the pursuit to you.",
+        "pt-BR": "[Suad]\nNós também precisamos voltar para a floresta e cuidar das consequências.\nMiriam, aventureiro. Então conto com vocês para a perseguição.",
+        "es-ES": "[Suad]\nNosotros también volveremos al bosque para hacernos cargo de las secuelas.\nMiriam, aventurero. Entonces os encargo la persecución."
+    },
+    "RNUWDQ": {
+        "en-US": "[Miriam]\nCome, Adventurer. Before we go to the villa, there is someone who will accompany us, so meet me at <NAVI>[Oz Labyrinth]<INFO>oz_dun01,223,116,0,101,0</INFO></NAVI>.",
+        "pt-BR": "[Miriam]\nVamos, aventureiro. Antes de irmos para a mansão, há uma pessoa que vai nos acompanhar, então nos encontre em <NAVI>[Labirinto de Oz]<INFO>oz_dun01,223,116,0,101,0</INFO></NAVI>.",
+        "es-ES": "[Miriam]\nVamos, aventurero. Antes de ir a la villa hay una persona que debe acompañarnos, así que nos veremos en <NAVI>[Laberinto de Oz]<INFO>oz_dun01,223,116,0,101,0</INFO></NAVI>."
+    },
+    "RdUWDQ": {
+        "en-US": "[Niren]\nWeren't you supposed to meet Miriam at <NAVI>[Oz Labyrinth]<INFO>oz_dun01,223,116,0,101,0</INFO></NAVI>?",
+        "pt-BR": "[Niren]\nVocê não tinha combinado de encontrar Miriam em <NAVI>[Labirinto de Oz]<INFO>oz_dun01,223,116,0,101,0</INFO></NAVI>?",
+        "es-ES": "[Niren]\n¿No había quedado con Miriam en <NAVI>[Laberinto de Oz]<INFO>oz_dun01,223,116,0,101,0</INFO></NAVI>?"
+    },
+    "RtUWDQ": {
+        "en-US": "[Niren]\nLeave this place to us.",
+        "pt-BR": "[Niren]\nDeixe isso conosco.",
+        "es-ES": "[Niren]\nDéjenos esto a nosotros."
+    },
+    "R9UWDQ": {
+        "en-US": "[Niren]\nThings here have not been going very well lately.",
+        "pt-BR": "[Niren]\nA situação por aqui não anda muito boa ultimamente.",
+        "es-ES": "[Niren]\nÚltimamente la situación aquí no es precisamente buena."
+    },
+    "SNUWDQ": {
+        "en-US": "Zed",
+        "pt-BR": "Zed",
+        "es-ES": "Zed"
+    },
+    "SdUWDQ": {
+        "en-US": "[Zed]\nIt seems we are going to become very busy from now on.",
+        "pt-BR": "[Zed]\nAcho que, de agora em diante, vamos ficar muito ocupados.",
+        "es-ES": "[Zed]\nParece que a partir de ahora vamos a estar muy ocupados."
+    },
+    "StUWDQ": {
+        "en-US": "Priest",
+        "pt-BR": "Sacerdote",
+        "es-ES": "Sacerdote"
+    },
+    "S9UWDQ": {
+        "en-US": "[Priest]\nAre you trying to join the sweep operation? The ones inside are no easy opponents, so we are checking that participants meet certain qualifications, but you fall a bit short. Please join us next time.",
+        "pt-BR": "[Sacerdote]\nVeio participar da operação de eliminação? Os que estão lá dentro não são nada fáceis, então estamos verificando se os participantes atendem a certos requisitos, mas ainda falta um pouco. Pedimos que participe na próxima vez.",
+        "es-ES": "[Sacerdote]\n¿Quiere participar en la operación de limpieza? Los que hay dentro no son enemigos fáciles, así que estamos comprobando si los participantes reúnen ciertos requisitos mínimos, pero a usted le falta un poco. Le agradeceríamos su participación en otra ocasión."
+    },
+    "TNUWDQ": {
+        "en-US": "[Priest]\nAdventurer, welcome. You have worked hard.",
+        "pt-BR": "[Sacerdote]\nAventureiro, seja bem-vindo. Você se esforçou muito.",
+        "es-ES": "[Sacerdote]\nTrotamundos, bienvenido. Ha trabajado duro."
+    },
+    "TdUWDQ": {
+        "en-US": "We will remove any mission you were unable to complete.",
+        "pt-BR": "Vamos remover a missão que você não conseguiu concluir.",
+        "es-ES": "Le eliminaremos la misión que no pudo completar."
+    },
+    "TtUWDQ": {
+        "en-US": "[Priest]\nPlease return and rest now! We will see you again!",
+        "pt-BR": "[Sacerdote]\nVolte e descanse um pouco! Nos veremos de novo!",
+        "es-ES": "[Sacerdote]\n¡Vuelva y descanse para aliviar el cansancio! ¡Nos veremos de nuevo!"
+    },
+    "T9UWDQ": {
+        "en-US": "[Priest]\nHello! Have you rested well? We would be grateful if the Adventurer could lend us strength again today. Please note that the sweep operation is carried out once per day.",
+        "pt-BR": "[Sacerdote]\nOlá! Descansou bem? Hoje também ficaríamos gratos se o aventureiro pudesse nos ajudar. Saiba que a operação de eliminação acontece uma vez por dia.",
+        "es-ES": "[Sacerdote]\n¡Buenos días! ¿Ha descansado bien? Hoy también le agradeceríamos que aportara su fuerza, aventurero. Tenga en cuenta que la operación de limpieza se realiza una vez al día."
+    },
+    "UNUWDQ": {
+        "en-US": "Since I'm doing this anyway, both",
+        "pt-BR": "Já que é para fazer, faço as duas",
+        "es-ES": "Ya que estamos, las dos"
+    },
+    "UdUWDQ": {
+        "en-US": "Subjugate the Traitorous Temple Guard",
+        "pt-BR": "Eliminar Guarda do Templo traidores",
+        "es-ES": "Eliminar a los Guardia del templo traidores"
+    },
+    "UtUWDQ": {
+        "en-US": "Subjugate Heart Hunter",
+        "pt-BR": "Eliminar Caça-Corações",
+        "es-ES": "Eliminar a los Cazacorazones"
+    },
+    "U9UWDQ": {
+        "en-US": "That sounds difficult.",
+        "pt-BR": "Acho que vai ser difícil.",
+        "es-ES": "Creo que será difícil."
+    },
+    "VNUWDQ": {
+        "en-US": "[Priest]\nYou already have a mission in progress. Then I leave both to you.",
+        "pt-BR": "[Sacerdote]\nVocê já está executando uma missão. Então conto com você para as duas.",
+        "es-ES": "[Sacerdote]\nVeo que ya tiene una misión en curso. Entonces le encargo ambas."
+    },
+    "VdUWDQ": {
+        "en-US": "[Priest]\nThat mission is already in progress. I leave it to you.",
+        "pt-BR": "[Sacerdote]\nVocê já está executando essa missão. Conto com você.",
+        "es-ES": "[Sacerdote]\nEsa misión ya la tiene en curso. Se la encargo."
+    },
+    "VtUWDQ": {
+        "en-US": "[Priest]\nIf that is the case, it cannot be helped. Then I shall see you next time!",
+        "pt-BR": "[Sacerdote]\nSe essa é a situação, não há o que fazer. Então nos vemos da próxima vez!",
+        "es-ES": "[Sacerdote]\nSi esa es su situación, no se puede hacer nada. Entonces nos veremos la próxima vez."
+    },
+    "V9UWDQ": {
+        "en-US": "[Priest]\nThank you for your cooperation. Then please speak to me once you have finished your preparations.",
+        "pt-BR": "[Sacerdote]\nAgradecemos pela cooperação. Então, quando terminar de se preparar, avise-nos.",
+        "es-ES": "[Sacerdote]\nGracias por su cooperación. Entonces, avíseme cuando haya terminado de prepararse."
+    },
+    "WNUWDQ": {
+        "en-US": "[Priest]\nThe next operation plan has not yet been completed. Since it is only carried out once per day, we must be careful. Adventurer, please rest until then as well.",
+        "pt-BR": "[Sacerdote]\nO plano da próxima operação ainda não foi concluído. Como ela é realizada apenas uma vez por dia, precisamos agir com cautela. Até lá, aventureiro, descanse também.",
+        "es-ES": "[Sacerdote]\nAún no ha terminado la planificación de la siguiente operación. Como solo se realiza una vez al día, debemos actuar con cautela. Hasta entonces, trotamundos, descanse también."
+    },
+    "WdUWDQ": {
+        "en-US": "Sanctuary Purification",
+        "pt-BR": "Purificação do Santuário",
+        "es-ES": "Purificación del santuario"
+    },
+    "WtUWDQ": {
+        "en-US": "[Priest]\nHave you finished your preparations? I will send the rendezvous signal.",
+        "pt-BR": "[Sacerdote]\nJá terminou de se preparar? Vou enviar o sinal de junção.",
+        "es-ES": "[Sacerdote]\n¿Ya ha terminado de prepararse? Enviaré la señal para unirse."
+    },
+    "W9UWDQ": {
+        "en-US": "Yes. Send the signal,",
+        "pt-BR": "Sim. Envie o sinal.",
+        "es-ES": "Sí. Envíe la señal,"
+    },
+    "XNUWDQ": {
+        "en-US": "I will move in.",
+        "pt-BR": "Vou entrar.",
+        "es-ES": "Entraré."
+    },
+    "XdUWDQ": {
+        "en-US": "There is still a mission I haven't received!",
+        "pt-BR": "Ainda tenho uma missão que não recebi!",
+        "es-ES": "¡Aún me quedan misiones por recibir!"
+    },
+    "XtUWDQ": {
+        "en-US": "I need more preparation.",
+        "pt-BR": "Preciso me preparar mais.",
+        "es-ES": "Necesito prepararme más."
+    },
+    "X9UWDQ": {
+        "en-US": "[Priest]\nIt seems they are not quite ready on the other side yet. Please wait a moment.",
+        "pt-BR": "[Sacerdote]\nParece que o outro lado ainda não terminou os preparativos. Aguarde um momento, por favor.",
+        "es-ES": "[Sacerdote]\nParece que los del otro lado aún no están preparados. Espere un momento, por favor."
+    },
+    "YNUWDQ": {
+        "en-US": "[Priest]\nWe have received the rendezvous point. If you go in through this emergency exit, you can join them right away. Enter once you are ready.",
+        "pt-BR": "[Sacerdote]\nRecebemos o ponto de junção. Se entrar por esta saída de emergência, poderá se unir imediatamente ao grupo. Quando terminar de se preparar, entre.",
+        "es-ES": "[Sacerdote]\nHemos recibido la ubicación de unión. Si entra por esta salida de emergencia, podrá unirse de inmediato. Cuando termine de prepararse, entre."
+    },
+    "YdUWDQ": {
+        "en-US": "[Priest]\nIt seems the signals were crossed. I will try again after a short while.",
+        "pt-BR": "[Sacerdote]\nParece que houve um desencontro no sinal. Vamos tentar novamente daqui a pouco.",
+        "es-ES": "[Sacerdote]\nParece que las señales se han cruzado. Volveremos a intentarlo dentro de un momento."
+    },
+    "YtUWDQ": {
+        "en-US": "[Priest]\nI have not yet passed on the rendezvous signal. Please say so if you are ready, and I may send it immediately.",
+        "pt-BR": "[Sacerdote]\nO sinal de junção ainda não foi enviado. Diga que, se os preparativos estiverem concluídos, pode enviá-lo imediatamente.",
+        "es-ES": "[Sacerdote]\nAún no hemos transmitido la señal de unión. Diga que, en cuanto estén preparados, pueden enviarla de inmediato."
+    },
+    "Y9UWDQ": {
+        "en-US": "[Priest] You may only join after first forming a party of at least one person.",
+        "pt-BR": "[Sacerdote] Você só pode se unir depois de formar primeiro um grupo com pelo menos 1 pessoa.",
+        "es-ES": "[Sacerdote] Solo podrá unirse después de formar primero un grupo de al menos 1 persona."
+    },
+    "ZNUWDQ": {
+        "en-US": "[Priest]\nThe signal has come, so let us move. Let us go straight to the rendezvous point.",
+        "pt-BR": "[Sacerdote]\nO sinal chegou, então vamos nos mover. Vamos direto para o ponto de junção.",
+        "es-ES": "[Sacerdote]\nYa ha llegado la señal, así que vamos. Entremos directamente al punto de unión."
+    },
+    "ZdUWDQ": {
+        "en-US": "Adventurer {0} and their party {1} will all join {2}.",
+        "pt-BR": "O aventureiro {0} e todo o seu grupo {1} se unem em {2}.",
+        "es-ES": "El trotamundos {0} y todo su grupo {1} se unen en {2}."
+    },
+    "ZtUWDQ": {
+        "en-US": "[Priest]\nIs that so? Which mission did you miss?",
+        "pt-BR": "[Sacerdote]\nÉ mesmo? Que missão você deixou passar?",
+        "es-ES": "[Sacerdote]\n¿Ah, sí? ¿Qué misión dejó pendiente?"
+    },
+    "Z9UWDQ": {
+        "en-US": "[Priest]\nThat mission is already in progress. I leave it to you.",
+        "pt-BR": "[Sacerdote]\nVocê já está executando essa missão. Conto com você.",
+        "es-ES": "[Sacerdote]\nEsa misión ya la tiene en curso. Se la encargo."
+    },
+    "aNUWDQ": {
+        "en-US": "[Priest]\nYou mean subjugating the Traitorous Temple Guard? Understood.",
+        "pt-BR": "[Sacerdote]\nEstá falando da eliminação de Guarda do Templo traidores? Entendido.",
+        "es-ES": "[Sacerdote]\n¿Se refiere a eliminar a los Guardia del templo traidores? Entendido."
+    },
+    "adUWDQ": {
+        "en-US": "[Priest]\nYou mean subjugating Heart Hunter? Understood.",
+        "pt-BR": "[Sacerdote]\nEstá falando da eliminação de Caça-Corações? Entendido.",
+        "es-ES": "[Sacerdote]\n¿Se refiere a eliminar a los cazacorazones? Entendido."
+    },
+    "atUWDQ": {
+        "en-US": "[Priest]\nUnderstood.",
+        "pt-BR": "[Sacerdote]\nEntendido.",
+        "es-ES": "[Sacerdote]\nEntendido."
+    },
+    "a9UWDQ": {
+        "en-US": "[Priest]\nThen please speak to me once you have finished your preparations.",
+        "pt-BR": "[Sacerdote]\nEntão, quando terminar de se preparar, avise-nos.",
+        "es-ES": "[Sacerdote]\nEntonces avíseme cuando haya terminado de prepararse."
+    },
+    "bNUWDQ": {
+        "en-US": "[Priest]\nUnderstood. I will wait.",
+        "pt-BR": "[Sacerdote]\nEntendido. Vamos aguardar.",
+        "es-ES": "[Sacerdote]\nEntendido. Esperaré."
+    },
+    "bdUWDQ": {
+        "en-US": "[Priest]\nYou do not have a party yet, do you? You may only join after first forming a party of at least one person.",
+        "pt-BR": "[Sacerdote]\nVocê ainda não tem grupo, certo? Só poderá se unir depois de formar primeiro um grupo com pelo menos 1 pessoa.",
+        "es-ES": "[Sacerdote]\n¿Aún no tiene grupo? Solo podrá unirse después de formar primero un grupo de al menos 1 persona."
+    },
+    "btUWDQ": {
+        "en-US": "[Priest]\nHave you finished your preparations? Will you go straight to the rendezvous point now?",
+        "pt-BR": "[Sacerdote]\nJá terminou de se preparar? Quer entrar imediatamente no ponto de junção?",
+        "es-ES": "[Sacerdote]\n¿Ya ha terminado de prepararse? ¿Va a entrar ahora mismo al punto de unión?"
+    },
+    "b9UWDQ": {
+        "en-US": "[Priest]\nYour party leader has not yet sent the rendezvous signal. Please confer with your party leader again.",
+        "pt-BR": "[Sacerdote]\nO líder do grupo ainda não enviou o sinal de junção. Volte a discutir isso com o líder do grupo.",
+        "es-ES": "[Sacerdote]\nPero si el líder del grupo aún no ha transmitido la señal de unión. Vuelva a hablarlo con el líder del grupo."
+    },
+    "cNUWDQ": {
+        "en-US": "[Priest]\nThe main force that infiltrated the temple has escaped, but the temple guards who went over to Heart Hunter and the remaining Heart Hunter remnants still seeking the heart remain a serious nuisance.",
+        "pt-BR": "[Sacerdote]\nAs principais forças que invadiram o templo já fugiram, mas ainda restam Guardas do Templo que passaram para o lado dos Caça-Corações, além de remanescentes dos Caça-Corações que ainda estão atrás do coração, e isso está nos dando dor de cabeça.",
+        "es-ES": "[Sacerdote]\nLas principales fuerzas que se infiltraron en el templo ya escaparon, pero los guardias del templo que se pasaron al bando de cazacorazones y los restos de cazacorazones que aún van detrás del corazón siguen aquí y son un verdadero problema."
+    },
+    "cdUWDQ": {
+        "en-US": "[Priest]\nWe are carrying out the purge on our own as well, but we would be grateful if the Adventurer would lend us strength. Please note that the sweep operation is carried out once per day.",
+        "pt-BR": "[Sacerdote]\nEstamos realizando a eliminação por conta própria, mas ficaríamos gratos se o aventureiro pudesse somar forças conosco. Saiba que a operação de eliminação ocorre uma vez por dia.",
+        "es-ES": "[Sacerdote]\nEstamos realizando la limpieza por nuestra cuenta, pero le agradeceríamos mucho su ayuda, trotamundos. Tenga en cuenta que la operación de limpieza se realiza una vez al día."
+    },
+    "ctUWDQ": {
+        "en-US": "Subjugate Temple Guard",
+        "pt-BR": "Eliminação de Guarda do Templo",
+        "es-ES": "Eliminar a los Guardia del templo"
+    },
+    "c9UWDQ": {
+        "en-US": "[Priest]\nThese days, except for mealtime, I'm busy beyond belief.",
+        "pt-BR": "[Sacerdote]\nHoje em dia, fora a hora de comer, não temos nem um instante para respirar.",
+        "es-ES": "[Sacerdote]\nÚltimamente, salvo a la hora de comer, no tenemos ni un momento para respirar."
+    },
+    "dNUWDQ": {
+        "en-US": "[Suade]\nThe signal has come, so we move. Let's enter immediately.",
+        "pt-BR": "[Suade]\nRecebemos o sinal, estamos nos movendo. Vamos entrar agora.",
+        "es-ES": "[Suade]\nLa señal ha llegado, en movimiento. Entremos de inmediato."
+    },
+    "ddUWDQ": {
+        "en-US": "[Priest]\nYou can join after forming a party with at least 1 person first.",
+        "pt-BR": "[Sacerdote]\nVocê pode participar após formar um grupo com pelo menos 1 pessoa.",
+        "es-ES": "[Sacerdote]\nPuedes unirte después de formar un grupo de al menos 1 persona."
+    }
+}

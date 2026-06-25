@@ -1,708 +1,590 @@
 {
     "4DubDA": {
-        "ko-KR": "Mission Board",
         "en-US": "Mission Board",
         "pt-BR": "Quadro de Missões",
         "es-ES": "Tablero de Misiones"
     },
     "4TubDA": {
-        "ko-KR": "- 진행할 수 없습니다 -",
         "en-US": "- Cannot proceed -",
         "pt-BR": "- Não é possível prosseguir -",
         "es-ES": "- No se puede proceder -"
     },
     "4jubDA": {
-        "ko-KR": "[Mission Board]\n이 Mission Board를 사용하려면 안내서가 필요합니다.",
         "en-US": "[Mission Board]\nA guide is needed to use this Mission Board.",
         "pt-BR": "[Quadro de Missões]\nÉ necessário um Passe para usar este Quadro de Missões.",
         "es-ES": "[Tablero de Misiones]\nSe necesita una Guía para usar este Tablero de Misiones."
     },
     "4zubDA": {
-        "ko-KR": "[Mission Board]\n사용 전 Mission Board 이용 규칙을 자세히 읽어 주세요.",
         "en-US": "[Mission Board]\nPlease read the Mission Board usage rules carefully before use.",
         "pt-BR": "[Quadro de Missões]\nPor favor, leia as regras de uso do Quadro de Missões com atenção antes de usar.",
         "es-ES": "[Tablero de Misiones]\nPor favor, lea las reglas de uso del Tablero de Misiones con atención antes de usar."
     },
     "5DubDA": {
-        "ko-KR": "[Mission Board]\n사용 방법\n1. Mission Board에는 Daily, Weekly, Full Time Event 총 3종류의 퀘스트가 있습니다.\n2. Daily 및 Weekly 퀘스트는 매주 변경됩니다.\n3. Daily 퀘스트는 매일 새벽 4시에 초기화됩니다.\n4. 각 퀘스트마다 획득 가능한 Battle Pass EXP가 다르니 퀘스트 창에서 상세 내용을 확인해 주세요.",
         "en-US": "[Mission Board]\nHow to Use\n1. The Mission Board has three types of quests: Daily, Weekly, and Full Time Event.\n2. Daily and Weekly quests change every week.\n3. Daily quests reset at 4:00 AM every day.\n4. Each quest provides a different amount of obtainable Battle Pass EXP. Please check the details in the quest window.",
         "pt-BR": "[Quadro de Missões]\nComo Usar\n1. O Quadro de Missões tem três tipos de missões: Diárias, Semanais e Integral.\n2. As missões Diárias e Semanais mudam toda semana.\n3. As missões Diárias resetam às 4h da manhã todos os dias.\n4. Cada missão fornece uma quantidade diferente de EXP do Passe de Batalha. Por favor, verifique os detalhes na janela da missão.",
         "es-ES": "[Tablero de Misiones]\nCómo Usar\n1. El Tablero de Misiones tiene tres tipos de misiones: Diarias, Semanales y de Evento Completo.\n2. Las misiones Diarias y Semanales cambian cada semana.\n3. Las misiones Diarias se reinician a las 4:00 AM todos los días.\n4. Cada misión proporciona una cantidad diferente de EXP del Pase de Batalla. Por favor, verifique los detalles en la ventana de la misión."
     },
     "5TubDA": {
-        "ko-KR": "[Mission Board]\n진행할 항목을 선택해 주세요.",
         "en-US": "[Mission Board]\nPlease select the item to proceed with.",
         "pt-BR": "[Quadro de Missões]\nPor favor, selecione uma opção.",
         "es-ES": "[Tablero de Misiones]\nPor favor, seleccione una opción."
     },
     "5jubDA": {
-        "ko-KR": "임무 수락",
         "en-US": "Accept Mission",
         "pt-BR": "Aceitar Missão",
         "es-ES": "Aceptar Misión"
     },
     "5zubDA": {
-        "ko-KR": "임무 보고",
         "en-US": "Report Mission",
         "pt-BR": "Reportar Missão",
         "es-ES": "Reportar Misión"
     },
     "6DubDA": {
-        "ko-KR": "취소",
         "en-US": "Cancel",
         "pt-BR": "Cancelar",
         "es-ES": "Cancelar"
     },
     "6TubDA": {
-        "ko-KR": "일일 퀘스트 확인",
         "en-US": "Check Daily Quest",
         "pt-BR": "Ver Missão Diária",
         "es-ES": "Ver Misión Diaria"
     },
     "6jubDA": {
-        "ko-KR": "주간 퀘스트 확인",
         "en-US": "Check Weekly Quest",
         "pt-BR": "Ver Missão Semanal",
         "es-ES": "Ver Misión Semanal"
     },
     "6zubDA": {
-        "ko-KR": "Full Time Event 퀘스트 확인",
         "en-US": "Check Full Time Event Quest",
         "pt-BR": "Ver Missão Integral",
         "es-ES": "Ver Misión de Evento Completo"
     },
     "7DubDA": {
-        "ko-KR": "Shining Plant 처치",
         "en-US": "Defeat Shining Plant",
         "pt-BR": "Derrotar Planta Brilhante",
         "es-ES": "Derrotar Planta brillante"
     },
     "7TubDA": {
-        "ko-KR": "Scaraba 처치",
         "en-US": "Defeat Gold Scaraba",
         "pt-BR": "Derrote o Scaraba Dourado",
         "es-ES": "Derrota al Scaraba Dorado"
     },
     "7jubDA": {
-        "ko-KR": "Deliver Red Potion",
         "en-US": "Deliver 1,000 Red Potions",
         "pt-BR": "Entregue 1.000 Poções Vermelhas",
         "es-ES": "Entrega 1.000 Pociones Rojas"
     },
     "7zubDA": {
-        "ko-KR": "Deliver Blue Herb",
         "en-US": "Deliver 10 Blue Herbs",
         "pt-BR": "Entregue 10 Ervas Azuis",
         "es-ES": "Entrega 10 Hierbas Azules"
     },
     "8DubDA": {
-        "ko-KR": "[Mission Board]\n해당 퀘스트는 하루에 1회만 수행할 수 있습니다.",
         "en-US": "[Mission Board]\nThis quest can only be completed once per day.",
         "pt-BR": "[Quadro de Missões]\nEsta missão só pode ser concluída uma vez por dia.",
         "es-ES": "[Tablero de Misiones]\nEsta misión solo se puede completar una vez al día."
     },
     "8TubDA": {
-        "ko-KR": "[Mission Board]\nShining Plant 5마리 처치\nEXP Battle Pass 3",
         "en-US": "[Mission Board]\nDefeat 5 Shining Plant\nEXP Battle Pass 3",
         "pt-BR": "[Quadro de Missões]\nDerrote 5 Planta Brilhante\nEXP do Passe: 3",
         "es-ES": "[Tablero de Misiones]\nDerrota 5 Planta brillante\nEXP del Pase: 3"
     },
     "8jubDA": {
-        "ko-KR": "[Mission Board]\n이미 진행 중인 퀘스트입니다.",
         "en-US": "[Mission Board]\nYou are already progressing on this quest.",
         "pt-BR": "[Quadro de Missões]\nVocê já está fazendo esta missão.",
         "es-ES": "[Tablero de Misiones]\nYa estás realizando esta misión."
     },
     "8zubDA": {
-        "ko-KR": "[Mission Board]\nAntler Scaraba (Instance) 2마리 처치\nRake Horn Scaraba (Instance) 2마리 처치\nEXP Battle Pass 4",
         "en-US": "[Mission Board]\nDefeat 2 Gold Antler Scaraba\nDefeat 2 Gold Rake Horn Scaraba\nEXP Battle Pass 4",
         "pt-BR": "[Quadro de Missões]\nDerrote 2 Scaraba Galhado\nDerrote 2 Scaraba Ancinho\nEXP do Passe: 4",
         "es-ES": "[Tablero de Misiones]\nDerrota 2 Scaraba de asta dorado\nDerrota 2 Scaraba rastrillo dorado\nEXP del Pase: 4"
     },
     "9DubDA": {
-        "ko-KR": "[Mission Board]\nRed Potion 1000개를 전달하세요.\nEXP Battle Pass 4",
         "en-US": "[Mission Board]\nDeliver 1,000 Red Potions.\nEXP Battle Pass 4",
         "pt-BR": "[Quadro de Missões]\nEntregue 1.000 Poções Vermelhas.\nEXP do Passe: 4",
         "es-ES": "[Tablero de Misiones]\nEntrega 1.000 Pociones Rojas.\nEXP del Pase: 4"
     },
     "9TubDA": {
-        "ko-KR": "[Mission Board]\nBlue Herb 10개를 전달하세요.\nEXP Battle Pass 4",
         "en-US": "[Mission Board]\nDeliver 10 Blue Herbs.\nEXP Battle Pass 4",
         "pt-BR": "[Quadro de Missões]\nEntregue 10 Ervas Azuis.\nEXP do Passe: 4",
         "es-ES": "[Tablero de Misiones]\nEntrega 10 Hierbas Azules.\nEXP del Pase: 4"
     },
     "9jubDA": {
-        "ko-KR": "Defeat Bijou",
         "en-US": "Defeat Bijou",
         "pt-BR": "Derrotar Bijou",
         "es-ES": "Derrotar Bijou"
     },
     "9zubDA": {
-        "ko-KR": "자기 계발",
         "en-US": "Self-improvement",
         "pt-BR": "Autoaperfeiçoamento",
         "es-ES": "Autosuperación"
     },
     "+DubDA": {
-        "ko-KR": "[Mission Board]\n해당 퀘스트는 주 1회만 수행할 수 있습니다.",
         "en-US": "[Mission Board]\nThis quest can only be completed once per week.",
         "pt-BR": "[Quadro de Missões]\nEsta missão só pode ser concluída uma vez por semana.",
         "es-ES": "[Tablero de Misiones]\nEsta misión solo se puede completar una vez por semana."
     },
     "+TubDA": {
-        "ko-KR": "[Mission Board]\nBijou 5마리 처치\nEXP Battle Pass 20",
         "en-US": "[Mission Board]\nDefeat 5 Bijou\nEXP Battle Pass 20",
         "pt-BR": "[Quadro de Missões]\nDerrote 5 Bijou\nEXP do Passe: 20",
         "es-ES": "[Tablero de Misiones]\nDerrota 5 Bijou\nEXP del Pase: 20"
     },
     "+jubDA": {
-        "ko-KR": "[Mission Board]\n이미 진행 중인 퀘스트입니다.\n이번 주에는 1회만 진행할 수 있습니다!",
         "en-US": "[Mission Board]\nYou are already progressing on this quest.\nYou can only proceed once this week!",
         "pt-BR": "[Quadro de Missões]\nVocê já está fazendo esta missão.\nVocê só pode prosseguir uma vez esta semana!",
         "es-ES": "[Tablero de Misiones]\nYa estás realizando esta misión.\n¡Solo puedes proceder una vez esta semana!"
     },
     "+zubDA": {
-        "ko-KR": "[Mission Board]\n캐릭터 레벨업 1회\nEXP Battle Pass 15",
         "en-US": "[Mission Board]\nLevel up a character once\nEXP Battle Pass 15",
         "pt-BR": "[Quadro de Missões]\nSuba de nível um personagem uma vez.\nEXP do Passe: 15",
         "es-ES": "[Tablero de Misiones]\nSube de nivel un personaje una vez.\nEXP del Pase: 15"
     },
     "/DubDA": {
-        "ko-KR": "[Mission Board]\n이미 진행 중인 퀘스트입니다.\n이번 주에는 1회만 진행할 수 있습니다.",
         "en-US": "[Mission Board]\nYou are already progressing on this quest.\nYou can only proceed once this week.",
         "pt-BR": "[Quadro de Missões]\nVocê já está fazendo esta missão.\nVocê só pode prosseguir uma vez esta semana.",
         "es-ES": "[Tablero de Misiones]\nYa estás realizando esta misión.\nSolo puedes proceder una vez esta semana."
     },
     "/TubDA": {
-        "ko-KR": "[Mission Board]\n이미 임무를 완료하여 더 이상 진행할 수 없습니다.",
         "en-US": "[Mission Board]\nYou have already completed the mission and cannot proceed further.",
         "pt-BR": "[Quadro de Missões]\nVocê já completou a missão e não pode prosseguir mais.",
         "es-ES": "[Tablero de Misiones]\nYa has completado la misión y no puedes proceder más."
     },
     "/jubDA": {
-        "ko-KR": "[Mission Board]\n레벨 185 달성\nEXP Battle Pass 150",
         "en-US": "[Mission Board]\nAchieve Level 185\nEXP Battle Pass 150",
         "pt-BR": "[Quadro de Missões]\nAtinja o Nível 185\nEXP do Passe: 150",
         "es-ES": "[Tablero de Misiones]\nAlcanza el Nivel 185\nEXP del Pase: 150"
     },
     "/zubDA": {
-        "ko-KR": "[Mission Board]\n이미 진행 중인 퀘스트입니다.\n이번 이벤트에서는 1회만 진행할 수 있습니다.",
         "en-US": "[Mission Board]\nYou are already progressing on this quest.\nYou can only proceed once during this event.",
         "pt-BR": "[Quadro de Missões]\nVocê já está fazendo esta missão.\nVocê só pode prosseguir uma vez durante este evento.",
         "es-ES": "[Tablero de Misiones]\nYa estás realizando esta misión.\nSolo puedes proceder una vez durante este evento."
     },
     "ADybDA": {
-        "ko-KR": "일일 퀘스트 보고",
         "en-US": "Report Daily Quest",
         "pt-BR": "Reportar Missão Diária",
         "es-ES": "Reportar Misión Diaria"
     },
     "ATybDA": {
-        "ko-KR": "주간 퀘스트 보고",
         "en-US": "Report Weekly Quest",
         "pt-BR": "Reportar Missão Semanal",
         "es-ES": "Reportar Misión Semanal"
     },
     "AjybDA": {
-        "ko-KR": "Full Time Event 퀘스트 보고",
         "en-US": "Report Full Time Event Quest",
         "pt-BR": "Reportar Missão Integral",
         "es-ES": "Reportar Misión de Evento Completo"
     },
     "AzybDA": {
-        "ko-KR": "Shining Plant 처치 의뢰",
         "en-US": "Shining Plant Extermination Request",
         "pt-BR": "Caçar Planta Brilhante",
         "es-ES": "Cazar Planta brillante"
     },
     "BDybDA": {
-        "ko-KR": "Scaraba 처치 의뢰",
         "en-US": "Gold Scaraba Extermination Request",
         "pt-BR": "Caçar Scaraba Dourado",
         "es-ES": "Cazar Scaraba Dorado"
     },
     "BTybDA": {
-        "ko-KR": "Deliver Red Potion 의뢰",
         "en-US": "Red Potion Delivery Request",
         "pt-BR": "Pedido de Entrega de Poções Vermelhas",
         "es-ES": "Encargo de Entrega de Pociones Rojas"
     },
     "BjybDA": {
-        "ko-KR": "Deliver Blue Herb 의뢰",
         "en-US": "Blue Herb Delivery Request",
         "pt-BR": "Pedido de Entrega de Ervas Azuis",
         "es-ES": "Encargo de Entrega de Hierbas Azules"
     },
     "BzybDA": {
-        "ko-KR": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 3 지급",
         "en-US": "[Mission Board]\nQuest Complete\nBattle Pass EXP 3 granted",
         "pt-BR": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 3 de EXP do Passe de Batalha",
         "es-ES": "[Tablero de Misiones]\nMisión Completada\nHas recibido 3 de EXP del Pase de Batalla"
     },
     "CDybDA": {
-        "ko-KR": "[Mission Board]\n조건이 맞지 않습니다. 다시 확인해 주세요.",
         "en-US": "[Mission Board]\nConditions do not match. Please check again.",
         "pt-BR": "[Quadro de Missões]\nAs condições não correspondem. Por favor, verifique novamente.",
         "es-ES": "[Tablero de Misiones]\nLas condiciones no coinciden. Por favor, verifique nuevamente."
     },
     "CTybDA": {
-        "ko-KR": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 4 지급",
         "en-US": "[Mission Board]\nQuest Complete\nBattle Pass EXP 4 granted",
         "pt-BR": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 4 de EXP do Passe de Batalha",
         "es-ES": "[Tablero de Misiones]\nMisión Completada\nHas recibido 4 de EXP del Pase de Batalla"
     },
     "CjybDA": {
-        "ko-KR": "[Mission Board]\n조건이 맞지 않습니다.\n진행할 수 없습니다.",
         "en-US": "[Mission Board]\nThe requirements are not met.\nYou cannot proceed.",
         "pt-BR": "[Quadro de Missões]\nOs requisitos não foram atendidos.\nNão é possível prosseguir.",
         "es-ES": "[Tablero de Misiones]\nNo cumples con los requisitos.\nNo se puede continuar."
     },
     "CzybDA": {
-        "ko-KR": "Bijou 처치 의뢰",
         "en-US": "Bijou Extermination Request",
         "pt-BR": "Missão para Derrotar Bijou",
         "es-ES": "Encargo para Derrotar a Bijou"
     },
     "DDybDA": {
-        "ko-KR": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 20 지급",
         "en-US": "[Mission Board]\nQuest Complete\nBattle Pass EXP 20 granted",
         "pt-BR": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 20 de EXP do Passe de Batalha",
         "es-ES": "[Tablero de Misiones]\nMisión Completada\nHas recibido 20 de EXP del Pase de Batalla"
     },
     "DTybDA": {
-        "ko-KR": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 15 지급",
         "en-US": "[Mission Board]\nQuest Complete\nBattle Pass EXP 15 granted",
         "pt-BR": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 15 de EXP do Passe de Batalha",
         "es-ES": "[Tablero de Misiones]\nMisión Completada\nHas recibido 15 de EXP del Pase de Batalla"
     },
     "DjybDA": {
-        "ko-KR": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 150 지급",
         "en-US": "[Mission Board]\nQuest Complete\nBattle Pass EXP 150 granted",
         "pt-BR": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 150 de EXP do Passe de Batalha",
         "es-ES": "[Tablero de Misiones]\nMisión Completada\nHas recibido 150 de EXP del Pase de Batalla"
     },
     "DzybDA": {
-        "ko-KR": "Hydra 처치",
         "en-US": "Defeat Hydra",
         "pt-BR": "Derrotar Hydra",
         "es-ES": "Derrotar Hydra"
     },
     "EDybDA": {
-        "ko-KR": "Menblatt and Petal 처치",
         "en-US": "Defeat Menblatt and Petal",
         "pt-BR": "Derrotar Menblatt e Petal",
         "es-ES": "Derrotar Menblatt y Petal"
     },
     "ETybDA": {
-        "ko-KR": "Deliver Hard Feeler",
         "en-US": "Deliver Hard Feeler",
         "pt-BR": "Entregar Hard Feeler",
         "es-ES": "Entregar Hard Feeler"
     },
     "EjybDA": {
-        "ko-KR": "Deliver Tentacle",
         "en-US": "Deliver Tentacle",
         "pt-BR": "Entregar Tentacle",
         "es-ES": "Entregar Tentacle"
     },
     "EzybDA": {
-        "ko-KR": "[Mission Board]\nBlue Herb 10개를 전달하세요.\nEXP Battle Pass 3",
         "en-US": "[Mission Board]\nDeliver 10 Blue Herbs.\nEXP Battle Pass 3",
         "pt-BR": "[Quadro de Missões]\nEntregue 10 Blue Herbs.\nEXP Battle Pass 3",
         "es-ES": "[Tablero de Misiones]\nEntregar 10 Blue Herbs.\nEXP Battle Pass 3"
     },
     "FDybDA": {
-        "ko-KR": "Defeat Heart Hunter Ebel",
         "en-US": "Defeat Heart Hunter Ebel",
         "pt-BR": "Derrotar Caça-Corações Ebel",
         "es-ES": "Derrotar Heart Hunter Ebel"
     },
     "FTybDA": {
-        "ko-KR": "[Mission Board]\nHeart Hunter Ebel 5마리 처치\nEXP Battle Pass 20",
         "en-US": "[Mission Board]\nDefeat 5 Heart Hunter Ebels.\nEXP Battle Pass 20",
         "pt-BR": "[Quadro de Missões]\nDerrote 5 Caça-Corações Ebels.\nEXP Battle Pass 20",
         "es-ES": "[Tablero de Misiones]\nDerrota 5 Heart Hunter Ebels.\nEXP Battle Pass 20"
     },
     "FjybDA": {
-        "ko-KR": "Hydra 처치 의뢰",
         "en-US": "Hydra Hunting Request",
         "pt-BR": "Pedido de Caça à Hydra",
         "es-ES": "Solicitud de Caza de Hydra"
     },
     "FzybDA": {
-        "ko-KR": "Menblatt and Petal 처치 의뢰",
         "en-US": "Menblatt and Petal Hunting Request",
         "pt-BR": "Pedido de Caça a Menblatt e Petal",
         "es-ES": "Solicitud de Caza de Menblatt y Petal"
     },
     "GDybDA": {
-        "ko-KR": "Deliver Hard Feeler 의뢰",
         "en-US": "Hard Feeler Delivery Request",
         "pt-BR": "Pedido de Entrega de Hard Feeler",
         "es-ES": "Solicitud de Entrega de Hard Feeler"
     },
     "GTybDA": {
-        "ko-KR": "Deliver Tentacle 의뢰",
         "en-US": "Tentacle Delivery Request",
         "pt-BR": "Pedido de Entrega de Tentacle",
         "es-ES": "Solicitud de Entrega de Tentacle"
     },
     "GjybDA": {
-        "ko-KR": "Heart Hunter Ebel 처치 의뢰",
         "en-US": "Heart Hunter Ebel Hunting Request",
         "pt-BR": "Pedido de Caça a Caça-Corações Ebel",
         "es-ES": "Solicitud de Caza de Heart Hunter Ebel"
     },
     "GzybDA": {
-        "ko-KR": "[Mission Board]\nHydra 200마리 처치\nEXP Battle Pass 3",
         "en-US": "[Mission Board]\nDefeat 200 Hydras.\nEXP Battle Pass 3",
         "pt-BR": "[Quadro de Missões]\nDerrote 200 Hydras.\nEXP Battle Pass 3",
         "es-ES": "[Tablero de Misiones]\nDerrota 200 Hydras.\nEXP Battle Pass 3"
     },
     "HDybDA": {
-        "ko-KR": "[Mission Board]\nMenblatt 20마리 처치\nPetal 20마리 처치\nEXP Battle Pass 4",
         "en-US": "[Mission Board]\nDefeat 20 Menblatts.\nDefeat 20 Petals.\nEXP Battle Pass 4",
         "pt-BR": "[Quadro de Missões]\nDerrote 20 Menblatts.\nDerrote 20 Petals.\nEXP Battle Pass 4",
         "es-ES": "[Tablero de Misiones]\nDerrota 20 Menblatts.\nDerrota 20 Petals.\nEXP Battle Pass 4"
     },
     "HTybDA": {
-        "ko-KR": "[Mission Board]\nHard Feeler 15개를 전달하세요.\nEXP Battle Pass 4",
         "en-US": "[Mission Board]\nDeliver 15 Hard Feelers.\nEXP Battle Pass 4",
         "pt-BR": "[Quadro de Missões]\nEntregue 15 Hard Feelers.\nEXP Battle Pass 4",
         "es-ES": "[Tablero de Misiones]\nEntregar 15 Hard Feelers.\nEXP Battle Pass 4"
     },
     "HjybDA": {
-        "ko-KR": "[Mission Board]\nTentacle 100개를 전달하세요.\nEXP Battle Pass 3",
         "en-US": "[Mission Board]\nDeliver 100 Tentacles.\nEXP Battle Pass 3",
         "pt-BR": "[Quadro de Missões]\nEntregue 100 Tentacles.\nEXP Battle Pass 3",
         "es-ES": "[Tablero de Misiones]\nEntregar 100 Tentacles.\nEXP Battle Pass 3"
     },
     "HzybDA": {
-        "ko-KR": "Sasquatch 처치",
         "en-US": "Defeat Sasquatch",
         "pt-BR": "Derrotar Sasquatch",
         "es-ES": "Derrotar Sasquatch"
     },
     "IDybDA": {
-        "ko-KR": "Fenrir 처치",
         "en-US": "Defeat Fenrir",
         "pt-BR": "Derrotar Fenrir",
         "es-ES": "Derrotar Fenrir"
     },
     "ITybDA": {
-        "ko-KR": "Deliver Window Shopper Catalogue",
         "en-US": "Deliver Window Shopper Catalogue",
         "pt-BR": "Entregar Catálogo Window Shopper",
         "es-ES": "Entregar Catálogo Window Shopper"
     },
     "IjybDA": {
-        "ko-KR": "Submit Zeny",
         "en-US": "Submit Zeny",
         "pt-BR": "Enviar Zeny",
         "es-ES": "Entregar Zeny"
     },
     "IzybDA": {
-        "ko-KR": "[Mission Board]\nSasquatch 3마리 처치\nEXP Battle Pass 3",
         "en-US": "[Mission Board]\nDefeat 3 Sasquatchs.\nEXP Battle Pass 3",
         "pt-BR": "[Quadro de Missões]\nDerrote 3 Sasquatches.\nEXP do Passe de Batalha 3",
         "es-ES": "[Tablero de Misiones]\nDerrota 3 Sasquatches.\nEXP del Pase de Batalla 3"
     },
     "JDybDA": {
-        "ko-KR": "[Mission Board]\nFenrir 처치\nEXP Battle Pass 3",
         "en-US": "[Mission Board]\nDefeat Fenrir.\nEXP Battle Pass 3",
         "pt-BR": "[Quadro de Missões]\nDerrote Fenrir.\nEXP do Passe de Batalha 3",
         "es-ES": "[Tablero de Misiones]\nDerrota a Fenrir.\nEXP del Pase de Batalla 3"
     },
     "JTybDA": {
-        "ko-KR": "[Mission Board]\nWindow Shopper Catalogue 100개를 전달하세요.\nEXP Battle Pass 4",
         "en-US": "[Mission Board]\nDeliver 100 Window Shopper Catalogues.\nEXP Battle Pass 4",
         "pt-BR": "[Quadro de Missões]\nEntregue 100 Catálogos Window Shopper.\nEXP do Passe de Batalha 4",
         "es-ES": "[Tablero de Misiones]\nEntrega 100 Catálogos Window Shopper.\nEXP del Pase de Batalla 4"
     },
     "JjybDA": {
-        "ko-KR": "[Mission Board]\n200000제니를 제출하세요.\nEXP Battle Pass 4",
         "en-US": "[Mission Board]\nSubmit 200,000 Zeny.\nEXP Battle Pass 4",
         "pt-BR": "[Quadro de Missões]\nEnvie 200.000 Zeny.\nEXP do Passe de Batalha 4",
         "es-ES": "[Tablero de Misiones]\nEntrega 200.000 Zeny.\nEXP del Pase de Batalla 4"
     },
     "JzybDA": {
-        "ko-KR": "Defeat Corrupted Wanderer",
         "en-US": "Defeat Corrupted Wanderer",
         "pt-BR": "Derrotar Corrupted Wanderer",
         "es-ES": "Derrotar Corrupted Wanderer"
     },
     "KDybDA": {
-        "ko-KR": "[Mission Board]\nCorrupted Wanderer 50마리 처치\nEXP Battle Pass 20",
         "en-US": "[Mission Board]\nDefeat 50 Corrupted Wanderers.\nEXP Battle Pass 20",
         "pt-BR": "[Quadro de Missões]\nDerrote 50 Corrupted Wanderers.\nEXP do Passe de Batalha 20",
         "es-ES": "[Tablero de Misiones]\nDerrota 50 Corrupted Wanderers.\nEXP del Pase de Batalla 20"
     },
     "KTybDA": {
-        "ko-KR": "Sasquatch 처치 의뢰",
         "en-US": "Sasquatch Hunting Request",
         "pt-BR": "Pedido de Caça ao Sasquatch",
         "es-ES": "Solicitud de Caza de Sasquatch"
     },
     "KjybDA": {
-        "ko-KR": "Fenrir 처치 의뢰",
         "en-US": "Fenrir Hunting Request",
         "pt-BR": "Pedido de Caça ao Fenrir",
         "es-ES": "Solicitud de Caza de Fenrir"
     },
     "KzybDA": {
-        "ko-KR": "Deliver Window Shopper Catalogue 의뢰",
         "en-US": "Window Shopper Catalogue Delivery Request",
         "pt-BR": "Pedido de Entrega de Catálogo Window Shopper",
         "es-ES": "Solicitud de Entrega de Catálogo Window Shopper"
     },
     "LDybDA": {
-        "ko-KR": "Submit Zeny 의뢰",
         "en-US": "Submit Zeny Request",
         "pt-BR": "Pedido de Entrega de Zeny",
         "es-ES": "Solicitud de Entrega de Zeny"
     },
     "LTybDA": {
-        "ko-KR": "Corrupted Wanderer 처치 의뢰",
         "en-US": "Corrupted Wanderer Hunting Request",
         "pt-BR": "Pedido de Caça ao Corrupted Wanderer",
         "es-ES": "Solicitud de Caza de Corrupted Wanderer"
     },
     "LjybDA": {
-        "ko-KR": "Green Plant 처치",
         "en-US": "Defeat Green Plant",
         "pt-BR": "Eliminar Planta Verde",
         "es-ES": "Eliminar Planta Verde"
     },
     "LzybDA": {
-        "ko-KR": "Amdarais 처치",
         "en-US": "Defeat Amdarais",
         "pt-BR": "Eliminar Amdarais",
         "es-ES": "Eliminar Amdarais"
     },
     "MDybDA": {
-        "ko-KR": "Mastela Fruit 사용",
         "en-US": "Use Mastela Fruit",
         "pt-BR": "Usar Mastela",
         "es-ES": "Usar Fruta de Mastela"
     },
     "MTybDA": {
-        "ko-KR": "Green Herb 배달",
         "en-US": "Deliver Green Herb",
         "pt-BR": "Entregar Erva Verde",
         "es-ES": "Entregar Hierba verde"
     },
     "MjybDA": {
-        "ko-KR": "[Mission Board]\nGreen Plant 10마리 처치\nEXP Battle Pass 3",
         "en-US": "[Mission Board]\nDefeat 10 Green Plant\nEXP Battle Pass 3",
         "pt-BR": "[Quadro de Missões]\nEliminar 10 Plantas Verdes\nEXP Battle Pass 3",
         "es-ES": "[Tablero de Misiones]\nEliminar 10 Plantas Verdes\nEXP Battle Pass 3"
     },
     "MzybDA": {
-        "ko-KR": "[Mission Board]\nAmdarais 처치\nEXP Battle Pass 3",
         "en-US": "[Mission Board]\nDefeat Amdarais\nEXP Battle Pass 3",
         "pt-BR": "[Quadro de Missões]\nEliminar Amdarais\nEXP Battle Pass 3",
         "es-ES": "[Tablero de Misiones]\nEliminar Amdarais\nEXP Battle Pass 3"
     },
     "NDybDA": {
-        "ko-KR": "[Mission Board]\nMastela Fruit 50개를 사용하세요.\nEXP Battle Pass 4",
         "en-US": "[Mission Board]\nUse 50 Mastela Fruit.\nEXP Battle Pass 4",
         "pt-BR": "[Quadro de Missões]\nEntregue 50 Mastelas.\nEXP Battle Pass 4",
         "es-ES": "[Tablero de Misiones]\nEntrega 50 Fruta de Mastelas.\nEXP Battle Pass 4"
     },
     "NTybDA": {
-        "ko-KR": "[Mission Board]\nGreen Herb 10개를 배달하세요.\nEXP Battle Pass 4",
         "en-US": "[Mission Board]\nDeliver 10 Green Herb.\nEXP Battle Pass 4",
         "pt-BR": "[Quadro de Missões]\nEntregue 10 Erva Verdes.\nEXP Battle Pass 4",
         "es-ES": "[Tablero de Misiones]\nEntrega 10 Hierba verdes.\nEXP Battle Pass 4"
     },
     "NjybDA": {
-        "ko-KR": "Defeat Phantom of Amdarais",
         "en-US": "Defeat Phantom of Amdarais",
         "pt-BR": "Derrotar Amdarais Sombrio",
         "es-ES": "Derrotar Amdarais Sombrio"
     },
     "NzybDA": {
-        "ko-KR": "[Mission Board]\nPhantom of Amdarais 2마리 처치\nEXP Battle Pass 20",
         "en-US": "[Mission Board]\nDefeat 2 Phantom of Amdarais\nEXP Battle Pass 20",
         "pt-BR": "[Quadro de Missões]\nEliminar 2 Amdarais Sombrios\nEXP Battle Pass 20",
         "es-ES": "[Tablero de Misiones]\nEliminar 2 Amdarais Sombrios\nEXP Battle Pass 20"
     },
     "ODybDA": {
-        "ko-KR": "Green Plant 처치 의뢰",
         "en-US": "Mission: Defeat Green Plant",
         "pt-BR": "Missão: Eliminar Planta Verde",
         "es-ES": "Misión: Eliminar Planta Verde"
     },
     "OTybDA": {
-        "ko-KR": "Amdarais 처치 의뢰",
         "en-US": "Mission: Defeat Amdarais",
         "pt-BR": "Missão: Eliminar Amdarais",
         "es-ES": "Misión: Eliminar Amdarais"
     },
     "OjybDA": {
-        "ko-KR": "Use Mastela Fruit 의뢰",
         "en-US": "Mission: Use Mastela Fruit",
         "pt-BR": "Missão: Entregar Mastela",
         "es-ES": "Misión: Entregar Fruta de Mastela"
     },
     "OzybDA": {
-        "ko-KR": "Deliver Green Herb 의뢰",
         "en-US": "Mission: Deliver Green Herb",
         "pt-BR": "Missão: Entregar Erva Verde",
         "es-ES": "Misión: Entregar Hierba verde"
     },
     "PDybDA": {
-        "ko-KR": "Phantom of Amdarais 처치 의뢰",
         "en-US": "Mission: Defeat Phantom of Amdarais",
         "pt-BR": "Missão: Eliminar Amdarais Sombrio",
         "es-ES": "Misión: Eliminar Amdarais Sombrio"
     },
     "PTybDA": {
-        "ko-KR": "Orc Zombie처치",
         "en-US": "Defeat Orc Zombie",
         "pt-BR": "Derrotar Orc Zumbi",
         "es-ES": "Derrotar Zombi Orco"
     },
     "PjybDA": {
-        "ko-KR": "킬 하이르 학원 정복",
         "en-US": "Conquer Kiel Hyre Academy",
         "pt-BR": "Conquistar a Academia Kiel Hyre",
         "es-ES": "Conquistar la Academia Kiel Hyre"
     },
     "PzybDA": {
-        "ko-KR": "Coagulated Spell 배달",
         "en-US": "Deliver Coagulated Spell",
         "pt-BR": "Entregar Mana Coagulada",
         "es-ES": "Entregar Hechizo coagulado"
     },
     "QDybDA": {
-        "ko-KR": "Orc Claw 배달",
         "en-US": "Deliver Orc Claw",
         "pt-BR": "Entregar Garra de Orc",
         "es-ES": "Entregar Garra de orco"
     },
     "QTybDA": {
-        "ko-KR": "[Mission Board]\nOrc Zombie 50마리 처치\nEXP Battle Pass 3",
         "en-US": "[Mission Board]\nDefeat 50 Orc Zombies.\nEXP Battle Pass 3",
         "pt-BR": "[Quadro de Missões]\nDerrote 50 Orcs Zumbis.\nEXP do Passe de Batalha 3",
         "es-ES": "[Tablero de Misiones]\nDerrota 50 Zombis Orcos.\nEXP del Pase de Batalla 3"
     },
     "QjybDA": {
-        "ko-KR": "[Mission Board]\nALIOT, ALIZA, ALICEL 100마리씩 처치\nEXP Battle Pass 4",
         "en-US": "[Mission Board]\nDefeat 100 each of ALIOT, ALIZA, and ALICEL\nEXP Battle Pass 4",
         "pt-BR": "[Quadro de Missões]\nDerrote 100 de cada: ALIOT, ALIZA e ALICEL\nEXP do Passe de Batalha 4",
         "es-ES": "[Tablero de Misiones]\nDerrota 100 de cada uno: ALIOT, ALIZA y ALICEL\nEXP del Pase de Batalla 4"
     },
     "QzybDA": {
-        "ko-KR": "[Mission Board]\nCoagulated Spell 10개를 배달하세요.\nEXP Battle Pass 4",
         "en-US": "[Mission Board]\nDeliver 10 Coagulated Spells.\nEXP Battle Pass 4",
         "pt-BR": "[Quadro de Missões]\nEntregue 10 Manas Coaguladas.\nEXP do Passe de Batalha 4",
         "es-ES": "[Tablero de Misiones]\nEntrega 10 Hechizos Coagulados.\nEXP del Pase de Batalla 4"
     },
     "RDybDA": {
-        "ko-KR": "[Mission Board]\nOrc Claw 50개를 배달하세요.\nEXP Battle Pass 3",
         "en-US": "[Mission Board]\nDeliver 50 Orc Claws.\nEXP Battle Pass 3",
         "pt-BR": "[Quadro de Missões]\nEntregue 50 Garras de Orc.\nEXP do Passe de Batalha 3",
         "es-ES": "[Tablero de Misiones]\nEntrega 50 Garras de Orco.\nEXP del Pase de Batalla 3"
     },
     "RTybDA": {
-        "ko-KR": "Defeat CUTIE",
         "en-US": "Defeat CUTIE",
         "pt-BR": "Derrotar Fofinho",
         "es-ES": "Derrotar Bonitito"
     },
     "RjybDA": {
-        "ko-KR": "[Mission Board]\nCUTIE 5마리 처치\nEXP Battle Pass 20",
         "en-US": "[Mission Board]\nDefeat 5 CUTIEs.\nEXP Battle Pass 20",
         "pt-BR": "[Quadro de Missões]\nDerrote 5 Fofinhos.\nEXP do Passe de Batalha 20",
         "es-ES": "[Tablero de Misiones]\nDerrota 5 Bonititos.\nEXP del Pase de Batalla 20"
     },
     "RzybDA": {
-        "ko-KR": "Orc Zombie 처치 의뢰",
         "en-US": "Stiff Deleter(Sky) Subjugation Request",
         "pt-BR": "Pedido para derrotar Deleter Voador",
         "es-ES": "Solicitud para derrotar Deleter rígido (cielo)"
     },
     "SDybDA": {
-        "ko-KR": "킬 하이르 학원 정복 의뢰",
         "en-US": "Stiff Deleter(Ground) Subjugation Request",
         "pt-BR": "Pedido para derrotar Deleter",
         "es-ES": "Solicitud para derrotar Deleter rígido (tierra)"
     },
     "STybDA": {
-        "ko-KR": "Deliver Coagulated Spell 의뢰",
         "en-US": "Ice Ghost Subjugation Request",
         "pt-BR": "Pedido para derrotar Xamã do Gelo",
         "es-ES": "Solicitud para derrotar Fantasma de hielo"
     },
     "SjybDA": {
-        "ko-KR": "Deliver Orc Claw 의뢰",
         "en-US": "Flame Ghost Subjugation Request",
         "pt-BR": "Pedido para derrotar Xamã do Fogo",
         "es-ES": "Solicitud para derrotar Fantasma de llamas"
     },
     "SzybDA": {
-        "ko-KR": "CUTIE 처치 의뢰",
         "en-US": "Stefan Jack Ernest Wolf Subjugation Request",
         "pt-BR": "Pedido para derrotar Jack Wolf",
         "es-ES": "Solicitud para derrotar Stefan J.E Wolf"
     },
     "TDybDA": {
-        "ko-KR": "Rigid Sky Deleter 처치",
         "en-US": "Defeat Stiff Deleter(Sky)",
         "pt-BR": "Derrote Deleter Voador",
         "es-ES": "Derrota Deleter rígido (cielo)"
     },
     "TTybDA": {
-        "ko-KR": "Rigid Earth Deleter 처치",
         "en-US": "Defeat Stiff Deleter(Ground)",
         "pt-BR": "Derrote Deleter",
         "es-ES": "Derrota Deleter rígido (tierra)"
     },
     "TjybDA": {
-        "ko-KR": "Ice Ghost 처치",
         "en-US": "Defeat Ice Ghost",
         "pt-BR": "Derrote Xamã do Gelo",
         "es-ES": "Derrota Fantasma de hielo"
     },
     "TzybDA": {
-        "ko-KR": "Flame Ghost 처치",
         "en-US": "Defeat Flame Ghost",
         "pt-BR": "Derrote Xamã do Fogo",
         "es-ES": "Derrota Fantasma de llamas"
     },
     "UDybDA": {
-        "ko-KR": "[Mission Board]\nRigid Sky Deleter 5마리 처치\nEXP Battle Pass 4",
         "en-US": "[Mission Board]\nDefeat 5 Stiff Deleter(Sky).\nEXP Battle Pass 4",
         "pt-BR": "[Quadro de Missões]\nDerrote 5 Deleter Voador.\nEXP do Passe de Batalha 4",
         "es-ES": "[Tablón de Misiones]\nDerrota 5 Deleter rígido (cielo).\nEXP del Pase de Batalla 4"
     },
     "UTybDA": {
-        "ko-KR": "[Mission Board]\nRigid Earth Deleter 5마리 처치\nEXP Battle Pass 4",
         "en-US": "[Mission Board]\nDefeat 5 Stiff Deleter(Ground).\nEXP Battle Pass 4",
         "pt-BR": "[Quadro de Missões]\nDerrote 5 Deleter.\nEXP do Passe de Batalha 4",
         "es-ES": "[Tablón de Misiones]\nDerrota 5 Deleter rígido (tierra).\nEXP del Pase de Batalla 4"
     },
     "UjybDA": {
-        "ko-KR": "[Mission Board]\nIce Ghost 5마리 처치\nEXP Battle Pass 4",
         "en-US": "[Mission Board]\nDefeat 5 Ice Ghost.\nEXP Battle Pass 4",
         "pt-BR": "[Quadro de Missões]\nDerrote 5 Xamã do Gelo.\nEXP do Passe de Batalha 4",
         "es-ES": "[Tablón de Misiones]\nDerrota 5 Fantasma de hielo.\nEXP del Pase de Batalla 4"
     },
     "UzybDA": {
-        "ko-KR": "[Mission Board]\nFlame Ghost 5마리 처치\nEXP Battle Pass 4",
         "en-US": "[Mission Board]\nDefeat 5 Flame Ghost.\nEXP Battle Pass 4",
         "pt-BR": "[Quadro de Missões]\nDerrote 5 Xamã do Fogo.\nEXP do Passe de Batalha 4",
         "es-ES": "[Tablón de Misiones]\nDerrota 5 Fantasma de llamas.\nEXP del Pase de Batalla 4"
     },
     "VDybDA": {
-        "ko-KR": "Defeat Stefan.J.E.Wolf",
         "en-US": "Defeat Stefan Jack Ernest Wolf",
         "pt-BR": "Derrote Jack Wolf",
         "es-ES": "Derrota Stefan J.E Wolf"
     },
     "VTybDA": {
-        "ko-KR": "[Mission Board]\nStefan.J.E.Wolf 2마리 처치\nEXP Battle Pass 20",
         "en-US": "[Mission Board]\nDefeat 2 Stefan Jack Ernest Wolf.\nEXP Battle Pass 20",
         "pt-BR": "[Quadro de Missões]\nDerrote 2 Jack Wolf.\nEXP do Passe de Batalha 20",
         "es-ES": "[Tablón de Misiones]\nDerrota 2 Stefan J.E Wolf.\nEXP del Pase de Batalla 20"

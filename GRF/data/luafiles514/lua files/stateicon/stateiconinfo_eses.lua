@@ -8306,5 +8306,17 @@ StateIconList_string = {
 				"Reduce el Enfriamiento Global"
 			}
 		}
+	},
+	[EFST_IDs.EFST_BLOCK] = {
+		descript = {
+			{"Blocked"},
+			{"%s"},
+			{
+				"Sin EXP de monstruos"
+			},
+			{
+				"No cae ningún objeto de los monstruos"
+			}
+		}
 	}
 }

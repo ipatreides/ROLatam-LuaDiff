@@ -320,7 +320,7 @@
         "es-ES": "Hidra"
     },
     "4IYB": {
-        "en-US": "Sword Fish",
+        "en-US": "Swordfish",
         "pt-BR": "Peixe-Espada",
         "es-ES": "Pez espada"
     },
@@ -512,7 +512,7 @@
     "BocB": {
         "en-US": "Baby Desert Wolf",
         "pt-BR": "Filhote de Lobo",
-        "es-ES": "Cría de Lobo de Desierto"
+        "es-ES": "Cría de Lobo del Desierto"
     },
     "B4cB": {
         "en-US": "Deviace",
@@ -940,7 +940,7 @@
         "es-ES": "Alarma"
     },
     "XIcB": {
-        "en-US": "Arclouze",
+        "en-US": "Arclouse",
         "pt-BR": "Arclouse",
         "es-ES": "Arclouse"
     },
@@ -2365,9 +2365,9 @@
         "es-ES": "Alarma"
     },
     "eYgB": {
-        "en-US": "Arclouze",
+        "en-US": "Arclouse",
         "pt-BR": "Arclouse",
-        "es-ES": "Arclouze"
+        "es-ES": "Arclouse"
     },
     "eogB": {
         "en-US": "Rideword",
@@ -3767,7 +3767,7 @@
     "kYkB": {
         "en-US": "Myst Case",
         "pt-BR": "Presente",
-        "es-ES": "Caja de Myst"
+        "es-ES": "Regalo Misterioso"
     },
     "kokB": {
         "en-US": "Wild Rose",
@@ -4361,8 +4361,8 @@
     },
     "CIoB": {
         "en-US": "Eclipse",
-        "pt-BR": "Coelho",
-        "es-ES": "(null)"
+        "pt-BR": "Eclipse",
+        "es-ES": "Eclipse"
     },
     "CYoB": {
         "en-US": "Zombie Slaughter",
@@ -5645,13 +5645,13 @@
         "es-ES": "Strouf"
     },
     "CYsB": {
-        "en-US": "Sword Fish",
+        "en-US": "Swordfish",
         "pt-BR": "Peixe Residual",
         "es-ES": "Pez Espada"
     },
     "CosB": {
         "en-US": "Marc",
-        "pt-BR": "Marc Residual",
+        "pt-BR": "Cavalo-Marinho Residual",
         "es-ES": "Marc"
     },
     "C4sB": {
@@ -6277,12 +6277,12 @@
     "h4sB": {
         "en-US": "Arclouse",
         "pt-BR": "Arclouse Pesadelo",
-        "es-ES": "Arclouze"
+        "es-ES": "Arclouse"
     },
     "iIsB": {
         "en-US": "Arclouse",
         "pt-BR": "Arclouse Pesadelo",
-        "es-ES": "Arclouze"
+        "es-ES": "Arclouse"
     },
     "iYsB": {
         "en-US": "Ancient Mummy",
@@ -7780,7 +7780,7 @@
         "es-ES": "Gotas Dulces"
     },
     "tIwB": {
-        "en-US": "Immotal Corps",
+        "en-US": "Immortal Corps",
         "pt-BR": "Legionário Imortal",
         "es-ES": "Cuerpo de Inmortales"
     },
@@ -7835,52 +7835,52 @@
         "es-ES": "Esqueleto Soldado Mejorado"
     },
     "v4wB": {
-        "en-US": "Immotal Bloody Knight",
+        "en-US": "Immortal Bloody Knight",
         "pt-BR": "Cavaleiro Imortal",
         "es-ES": "Caballero Sangriento Inmortal"
     },
     "wIwB": {
-        "en-US": "Immotal Wind Ghost",
+        "en-US": "Immortal Wind Ghost",
         "pt-BR": "Xamã Imortal",
         "es-ES": "Fantasma de Viento Inmortal"
     },
     "wYwB": {
-        "en-US": "Immotal Zombie Solder",
+        "en-US": "Immortal Zombie Solder",
         "pt-BR": "Zumbi Imortal",
         "es-ES": "Soldado Zombi Inmortal"
     },
     "wowB": {
-        "en-US": "Immotal Castle Guard",
+        "en-US": "Immortal Castle Guard",
         "pt-BR": "Legionário Imortal",
         "es-ES": "Guardia del Castillo"
     },
     "w4wB": {
-        "en-US": "Zomebie Slaughter",
+        "en-US": "Zombie Slaughter",
         "pt-BR": "Guardião da Chave",
         "es-ES": "Guardián de Llaves"
     },
     "xIwB": {
-        "en-US": "Immotal Zombie Master",
+        "en-US": "Immortal Zombie Master",
         "pt-BR": "Carniçal Imortal",
         "es-ES": "Zombi Asaltante"
     },
     "xYwB": {
-        "en-US": "Immotal Cursed Zombie Solder",
+        "en-US": "Immortal Cursed Zombie Solder",
         "pt-BR": "Dilacerado Imortal",
         "es-ES": "Zombi Maldito"
     },
     "xowB": {
-        "en-US": "Immotal Shadow",
+        "en-US": "Immortal Shadow",
         "pt-BR": "Habitante Imortal",
         "es-ES": "Sombra Inmortal"
     },
     "x4wB": {
-        "en-US": "Immotal Shadow",
+        "en-US": "Immortal Shadow",
         "pt-BR": "Convidado Imortal",
         "es-ES": "Sombra Inmortal"
     },
     "yIwB": {
-        "en-US": "Immotal Shadow",
+        "en-US": "Immortal Shadow",
         "pt-BR": "Espírito Imortal",
         "es-ES": "Sombra Inmortal"
     },
@@ -7920,12 +7920,12 @@
         "es-ES": "Soldado Rompehuesos"
     },
     "0IwB": {
-        "en-US": "Immotal Commander",
+        "en-US": "Immortal Commander",
         "pt-BR": "General Imortal",
         "es-ES": "Comandante Inmortal"
     },
     "0YwB": {
-        "en-US": "Immotal Cursed Zombie Solder",
+        "en-US": "Immortal Cursed Zombie Solder",
         "pt-BR": "Dilacerado Mortal",
         "es-ES": "Soldado Maldito de Bijou"
     },
@@ -7965,9 +7965,9 @@
         "es-ES": "Rana Roda Dulce"
     },
     "2YwB": {
-        "en-US": "Hunter Desert Wolf",
-        "pt-BR": "Filhote de Lobo Caçador",
-        "es-ES": "Cría de Lobo del Desierto Cazador"
+        "en-US": "Baby Desert Wolf",
+        "pt-BR": "Filhote de Lobo",
+        "es-ES": "Cría de Lobo del Desierto"
     },
     "2owB": {
         "en-US": "Trance Spore",
@@ -8410,7 +8410,7 @@
         "es-ES": "Cecil Damon Sólida"
     },
     "Mo0B": {
-        "en-US": "See Otter Ringleader",
+        "en-US": "Sea Otter Ringleader",
         "pt-BR": "Lontra Alfa",
         "es-ES": "Cabecilla Nutria de Mar"
     },
@@ -8897,7 +8897,7 @@
     "k40B": {
         "en-US": "Solid Lunatic",
         "pt-BR": "Lunático Brutal",
-        "es-ES": "Lunática Sólida"
+        "es-ES": "Lunático Sólido"
     },
     "lI0B": {
         "en-US": "Lunatic Ringleader",
@@ -9315,12 +9315,12 @@
         "es-ES": "Deviruchi Sólido"
     },
     "540B": {
-        "en-US": "Desert Wolf Ringleader",
+        "en-US": "Baby Desert Wolf Ringleader",
         "pt-BR": "Filhote de Lobo Alfa",
         "es-ES": "Cabecilla Cría de Lobo del Desierto"
     },
     "6I0B": {
-        "en-US": "Furious Desert Wolf",
+        "en-US": "Furious Baby Desert Wolf",
         "pt-BR": "Filhote de Lobo Feroz",
         "es-ES": "Cría de Lobo del Desierto Furioso"
     },
@@ -10050,9 +10050,9 @@
         "es-ES": "Gaster"
     },
     "eo4B": {
-        "en-US": "Swamp Arclouze",
+        "en-US": "Swamp Arclouse",
         "pt-BR": "Tapuru",
-        "es-ES": "Arclouze del pantano"
+        "es-ES": "Arclouse del pantano"
     },
     "e44B": {
         "en-US": "Brown Rat",
@@ -10532,12 +10532,12 @@
     "2o4B": {
         "en-US": "Drowsy Explosion",
         "pt-BR": "Estrondo Vulcânico",
-        "es-ES": "Explosión somnolienta"
+        "es-ES": "Explosión Volcánica"
     },
     "244B": {
         "en-US": "Drowsy Imp",
         "pt-BR": "Imp Vulcânico",
-        "es-ES": "Imp somnoliento"
+        "es-ES": "Imp Volcánico"
     },
     "3I4B": {
         "en-US": "Magic Herb",
@@ -10547,27 +10547,27 @@
     "3Y4B": {
         "en-US": "Drowsy Pecopeco",
         "pt-BR": "PecoPeco Vulcânico",
-        "es-ES": "Pecopeco somnoliento"
+        "es-ES": "Pecopeco Volcánico"
     },
     "3o4B": {
         "en-US": "Drowsy Picky",
         "pt-BR": "Picky Vulcânico",
-        "es-ES": "Picky somnoliento"
+        "es-ES": "Picky Volcánico"
     },
     "344B": {
         "en-US": "Drowsy Salamander",
         "pt-BR": "Salamandra de Lava",
-        "es-ES": "Salamandra somnolienta"
+        "es-ES": "Salamandra de Lava"
     },
     "4I4B": {
         "en-US": "Hot Explosion",
         "pt-BR": "Estrondo Morno",
-        "es-ES": "Explosión caliente"
+        "es-ES": "Explosión Tibia"
     },
     "4Y4B": {
         "en-US": "Hot Imp",
         "pt-BR": "Imp Morno",
-        "es-ES": "Imp caliente"
+        "es-ES": "Diabillo Tibio"
     },
     "4o4B": {
         "en-US": "Bacsojin",
@@ -12585,9 +12585,9 @@
         "es-ES": "Cazacorazones"
     },
     "dZAB": {
-        "en-US": "Hot-water Mark",
-        "pt-BR": "Marc Escaldado",
-        "es-ES": "Marca de agua caliente"
+        "en-US": "Hot-water Marc",
+        "pt-BR": "Cavalo-Marinho Escaldado",
+        "es-ES": "Marc de agua caliente"
     },
     "dpAB": {
         "en-US": "Omega Cleaner",
@@ -12670,7 +12670,7 @@
         "es-ES": "Sanare Adicta al Mana"
     },
     "hpAB": {
-        "en-US": "Hot-water Sword Fish",
+        "en-US": "Hot-water Swordfish",
         "pt-BR": "Peixe Escaldado",
         "es-ES": "Pez espada de agua caliente"
     },
@@ -13742,47 +13742,47 @@
         "es-ES": "Árbol Infernal"
     },
     "XZEB": {
-        "en-US": "Mutated Chimera Lava",
+        "en-US": "Chimera Lava",
         "pt-BR": "Quimera Lava",
         "es-ES": "Quimera Lava"
     },
     "XpEB": {
-        "en-US": "Mutated Chimera Fulgor",
+        "en-US": "Chimera Fulgor",
         "pt-BR": "Quimera Fulgor",
         "es-ES": "Quimera Fulgor"
     },
     "X5EB": {
-        "en-US": "Mutated Chimera Napeo",
+        "en-US": "Chimera Napeo",
         "pt-BR": "Quimera Napeo",
         "es-ES": "Quimera Napeo"
     },
     "YJEB": {
-        "en-US": "Mutated Chimera Galensis",
+        "en-US": "Chimera Galensis",
         "pt-BR": "Quimera Galensis",
         "es-ES": "Quimera Galensis"
     },
     "YZEB": {
-        "en-US": "Mutated Chimera Amitera",
+        "en-US": "Chimera Amitera",
         "pt-BR": "Quimera Amitera",
         "es-ES": "Quimera Amitera"
     },
     "YpEB": {
-        "en-US": "Mutated Chimera Litus",
+        "en-US": "Chimera Litus",
         "pt-BR": "Quimera Litus",
         "es-ES": "Quimera Litus"
     },
     "Y5EB": {
-        "en-US": "Mutated Chimera Fillia",
+        "en-US": "Chimera Fillia",
         "pt-BR": "Quimera Fillia",
         "es-ES": "Quimera Fillia"
     },
     "ZJEB": {
-        "en-US": "Mutated Chimera Vanilaqus",
+        "en-US": "Chimera Vanilaqus",
         "pt-BR": "Quimera Vanilaqus",
         "es-ES": "Quimera Vanilaqus"
     },
     "ZZEB": {
-        "en-US": "Mutated Chimera The One",
+        "en-US": "Chimera The One",
         "pt-BR": "Quimera Única",
         "es-ES": "Quimera Única"
     },
@@ -13832,17 +13832,17 @@
         "es-ES": "Asesino Brutal"
     },
     "b5EB": {
-        "en-US": "Ghost Cube",
+        "en-US": "Ghost Quve",
         "pt-BR": "Quve Fantasma",
         "es-ES": "Quve Fantasma"
     },
     "cJEB": {
-        "en-US": "Ludegal",
-        "pt-BR": "Lude Gal",
-        "es-ES": "Lude Gal"
+        "en-US": "Lude Garly",
+        "pt-BR": "Lude Alhita",
+        "es-ES": "Lude Ajo"
     },
     "cZEB": {
-        "en-US": "Blue Moon Loli Ruri",
+        "en-US": "Bluemoon Loli Ruri",
         "pt-BR": "Loli Ruri Azul",
         "es-ES": "Loli Ruri Azul"
     },
@@ -13862,22 +13862,22 @@
         "es-ES": "Bruja de la Muerte"
     },
     "dZEB": {
-        "en-US": "Mutated Chimera Lava",
+        "en-US": "Chimera Lava",
         "pt-BR": "Quimera Lava",
         "es-ES": "Quimera Lava"
     },
     "dpEB": {
-        "en-US": "Mutated Chimera Fulgor",
+        "en-US": "Chimera Fulgor",
         "pt-BR": "Quimera Fulgor",
         "es-ES": "Quimera Fulgor"
     },
     "d5EB": {
-        "en-US": "Mutated Chimera Napeo",
+        "en-US": "Chimera Napeo",
         "pt-BR": "Quimera Napeo",
         "es-ES": "Quimera Napeo"
     },
     "eJEB": {
-        "en-US": "Mutated Chimera Galensis",
+        "en-US": "Chimera Galensis",
         "pt-BR": "Quimera Galensis",
         "es-ES": "Quimera Galensis"
     },
@@ -13887,7 +13887,7 @@
         "es-ES": "Disfrazador"
     },
     "epEB": {
-        "en-US": "Blue Moon Loli Ruri",
+        "en-US": "Bluemoon Loli Ruri",
         "pt-BR": "Loli Ruri Azul",
         "es-ES": "Loli Ruri Azul"
     },
@@ -13955,5 +13955,215 @@
         "en-US": "Kumamoto Tomato",
         "pt-BR": "Tomate de Kumamoto",
         "es-ES": "Tomate de Kumamoto"
+    },
+    "iJEB": {
+        "en-US": "Armed Villager",
+        "pt-BR": "Aldeão Armado",
+        "es-ES": "Aldeano Armado"
+    },
+    "iZEB": {
+        "en-US": "Armed Villager",
+        "pt-BR": "Aldeão Armado",
+        "es-ES": "Aldeano Armado"
+    },
+    "ipEB": {
+        "en-US": "Armed Villager",
+        "pt-BR": "Aldeão Armado",
+        "es-ES": "Aldeano Armado"
+    },
+    "i5EB": {
+        "en-US": "Ashhopper",
+        "pt-BR": "Cinzanhoto",
+        "es-ES": "Saltador de Ceniza"
+    },
+    "jJEB": {
+        "en-US": "Ashring",
+        "pt-BR": "Cinzaring",
+        "es-ES": "Cenizaring"
+    },
+    "jZEB": {
+        "en-US": "Ash Toad",
+        "pt-BR": "Sapo Cinzento",
+        "es-ES": "Sapo de Ceniza"
+    },
+    "jpEB": {
+        "en-US": "Burning Fang",
+        "pt-BR": "Presas Flamejantes",
+        "es-ES": "Colmillo Ardiente"
+    },
+    "j5EB": {
+        "en-US": "Firewind Kite",
+        "pt-BR": "Gavião Ardente",
+        "es-ES": "Halcón Ardiente"
+    },
+    "kJEB": {
+        "en-US": "Ashen Goat",
+        "pt-BR": "Bode Cinzento",
+        "es-ES": "Cabra Gris de Ceniza"
+    },
+    "kZEB": {
+        "en-US": "Gray Wolf",
+        "pt-BR": "Lobo Cinzento",
+        "es-ES": "Lobo Gris"
+    },
+    "kpEB": {
+        "en-US": "Baby Gray Wolf",
+        "pt-BR": "Filhote Cinzento",
+        "es-ES": "Lobo Gris Joven"
+    },
+    "k5EB": {
+        "en-US": "Hot Molars",
+        "pt-BR": "Molares de Fogo",
+        "es-ES": "Molares de Fuego"
+    },
+    "lJEB": {
+        "en-US": "Lava Toad",
+        "pt-BR": "Sapo de Lava",
+        "es-ES": "Sapo de Lava"
+    },
+    "lZEB": {
+        "en-US": "Demi Freya",
+        "pt-BR": "Demi Freya",
+        "es-ES": "Demi Freya"
+    },
+    "lpEB": {
+        "en-US": "Demi Freya",
+        "pt-BR": "Demi Freya",
+        "es-ES": "Demi Freya"
+    },
+    "l5EB": {
+        "en-US": "Demi Freya",
+        "pt-BR": "Demi Freya",
+        "es-ES": "Demi Freya"
+    },
+    "mJEB": {
+        "en-US": "Temple Guard",
+        "pt-BR": "Segurança do Templo",
+        "es-ES": "Custodio del Templo"
+    },
+    "mZEB": {
+        "en-US": "Unstable Temple Guard",
+        "pt-BR": "Guarda do Templo",
+        "es-ES": "Guardia del Templo"
+    },
+    "mpEB": {
+        "en-US": "Disguised Hearthunter",
+        "pt-BR": "Caça-Coração Disfarçado",
+        "es-ES": "Cazacorazones Disfrazado"
+    },
+    "m5EB": {
+        "en-US": "Hearthunter Prime",
+        "pt-BR": "Caça-Coração Primordial",
+        "es-ES": "Cazacorazones Primordial"
+    },
+    "nJEB": {
+        "en-US": "Superior Villa Keeper",
+        "pt-BR": "Caça-Coração Guardião",
+        "es-ES": "Cazacorazones Guardián"
+    },
+    "nZEB": {
+        "en-US": "Elite Hearthunter",
+        "pt-BR": "Caça-Coração Elite",
+        "es-ES": "Cazacorazones Élite"
+    },
+    "npEB": {
+        "en-US": "Villa Keeper",
+        "pt-BR": "Caça-Coração Vigia",
+        "es-ES": "Cazacorazones Vigía"
+    },
+    "n5EB": {
+        "en-US": "Superior Goddess Guardian",
+        "pt-BR": "Guardiã da Deusa",
+        "es-ES": "Guardiana de la Diosa"
+    },
+    "oJEB": {
+        "en-US": "Goddess Guardian",
+        "pt-BR": "Protetora da Deusa",
+        "es-ES": "Protectora de la Diosa"
+    },
+    "oZEB": {
+        "en-US": "Renegade Shulang",
+        "pt-BR": "Shulang Traidor",
+        "es-ES": "Shulang Renegado"
+    },
+    "opEB": {
+        "en-US": "Shulang",
+        "pt-BR": "Shulang",
+        "es-ES": "Shulang"
+    },
+    "o5EB": {
+        "en-US": "Shulang",
+        "pt-BR": "Shulang",
+        "es-ES": "Shulang"
+    },
+    "pJEB": {
+        "en-US": "Base Soldier",
+        "pt-BR": "Soldado da Base",
+        "es-ES": "Soldado Base"
+    },
+    "pZEB": {
+        "en-US": "Maram",
+        "pt-BR": "Maram",
+        "es-ES": "Maram"
+    },
+    "ppEB": {
+        "en-US": "Miriam",
+        "pt-BR": "Miriam",
+        "es-ES": "Miriam"
+    },
+    "p5EB": {
+        "en-US": "Suad",
+        "pt-BR": "Suad",
+        "es-ES": "Suad"
+    },
+    "qJEB": {
+        "en-US": "Phantom Wolf",
+        "pt-BR": "Lobo Fantasma",
+        "es-ES": "Lobo Fantasma"
+    },
+    "qZEB": {
+        "en-US": "Rakehand",
+        "pt-BR": "Mão de Garras",
+        "es-ES": "Mano Arponada"
+    },
+    "qpEB": {
+        "en-US": "Spark",
+        "pt-BR": "Faísca",
+        "es-ES": "Chispa"
+    },
+    "q5EB": {
+        "en-US": "Tumblering",
+        "pt-BR": "Arbusting",
+        "es-ES": "Arbusting"
+    },
+    "rJEB": {
+        "en-US": "Volcaring",
+        "pt-BR": "Volcaring",
+        "es-ES": "Volcaring"
+    },
+    "rZEB": {
+        "en-US": "Hot Molars",
+        "pt-BR": "Molares de Fogo",
+        "es-ES": "Molares de Fuego"
+    },
+    "rpEB": {
+        "en-US": "Lava Toad",
+        "pt-BR": "Sapo de Lava",
+        "es-ES": "Sapo de Lava"
+    },
+    "r5EB": {
+        "en-US": "Volcaring",
+        "pt-BR": "Volcaring",
+        "es-ES": "Volcaring"
+    },
+    "sJEB": {
+        "en-US": "Eddga",
+        "pt-BR": "Eddga",
+        "es-ES": "Eddga"
+    },
+    "sZEB": {
+        "en-US": "Time Keeper",
+        "pt-BR": "Gerente",
+        "es-ES": "Guardián de la Torre"
     }
 }

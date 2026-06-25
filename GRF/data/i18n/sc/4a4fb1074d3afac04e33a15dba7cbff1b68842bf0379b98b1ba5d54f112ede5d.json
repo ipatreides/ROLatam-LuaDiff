@@ -246,8 +246,8 @@
     },
     "UbHyCQ": {
         "en-US": "[Shorty]\nIf you get the cupet egg, you can hatch it by using the ^0000CDPet Incubator^000000 item~ It is said that a pet will become friendly when you feed it well, but it won't like it if you feed it too much.",
-        "pt-BR": "[Baixinho]\nSe você conseguir o ovo de cupim, poderá chocá-lo usando o item ^0000CDIncubadora de Mascotes^000000~ Dizem que um mascote se tornará amigável quando você o alimentar bem, mas ele não gostará se você o alimentar demais.",
-        "es-ES": "[Peque]\nSi consigues el huevo de cupet, puedes incubarlo usando el objeto ^0000CDIncubadora de mascotas^000000~ Se dice que una mascota se volverá amistosa cuando la alimentes bien, pero no le gustará si la alimentas demasiado."
+        "pt-BR": "[Baixinho]\nSe você conseguir o ovo de mascote, poderá chocá-lo usando o item ^0000CDIncubadora de Mascotes^000000~ Dizem que um mascote se tornará amigável quando você o alimentar bem, mas ele não gostará se você o alimentar demais.",
+        "es-ES": "[Peque]\nSi consigues el huevo de mascotas, puedes incubarlo usando el objeto ^0000CDIncubadora de mascotas^000000~ Se dice que una mascota se volverá amistosa cuando la alimentes bien, pero no le gustará si la alimentas demasiado."
     },
     "UrHyCQ": {
         "en-US": "[Shorty]\nPet Incubator and pet food are sold by ^0000CDTaming Merchant^000000 in various towns.",
@@ -257,7 +257,7 @@
     "U7HyCQ": {
         "en-US": "[Shorty]\nI also want to raise cupet... to be a gangster..",
         "pt-BR": "[Baixinho]\nEu também quero criar uma Mascote... para ser um gângster...",
-        "es-ES": "[Peque]\nYo también quiero criar cupet ... para ser un gángster .."
+        "es-ES": "[Peque]\nYo también quiero criar mascota... para ser un gángster..."
     },
     "VLHyCQ": {
         "en-US": "[Shorty]\nHey, pal, are you not interested in cute pet? It's good to raise a cute pet...",
@@ -281,8 +281,8 @@
     },
     "WLHyCQ": {
         "en-US": "[Shorty]\nCupet will not run away if you give it ^0000CDfood^000000 regularly. However, if you give them too much, they will run away. Even if you die often, they will run away.",
-        "pt-BR": "[Baixinho]\nCupet não fugirá se você lhe der ^0000CDcomida^000000 regularmente. No entanto, se você der comida demais, ele fugirá. Mesmo que você morra com frequência, ele fugirá.",
-        "es-ES": "[Peque]\nCupet no huirá si le das ^0000CDalimentos^000000 con regularidad. Sin embargo, si les das demasiada, huirán. Incluso si mueres a menudo, huirán."
+        "pt-BR": "[Baixinho]\nO mascote não fugirá se você lhe der ^0000CDcomida^000000 regularmente. No entanto, se você der comida demais, ele fugirá. Mesmo que você morra com frequência, ele fugirá.",
+        "es-ES": "[Peque]\nLa mascota no huirá si le das ^0000CDalimentos^000000 con regularidad. Sin embargo, si le das demasiada, huirán. Incluso si mueres a menudo, huirán."
     },
     "WbHyCQ": {
         "en-US": "[Shorty]\nIn the first place, taking responsibility for one life is a scary and heavy task. You must be firm in your resolve. That's why when I think about you, I can't sleep because of the sense of responsibility.",
@@ -1121,8 +1121,8 @@
     },
     "ALLyCQ": {
         "en-US": "[Shorty]\nPal, are you raising a cupet? It is said that some cupets evolve.",
-        "pt-BR": "[Baixinho]\nAmigo, você está criando uma Mascote? Dizem que alguns cupês evoluem.",
-        "es-ES": "[Peque]\nPal, ¿estás criando un cupet? Se dice que algunos cupets evolucionan."
+        "pt-BR": "[Baixinho]\nAmigo, você está criando uma Mascote? Dizem que algumas mascotes evoluem.",
+        "es-ES": "[Peque]\nPal, ¿estás criando una mascota? Se dice que algunas mascotas evolucionan."
     },
     "AbLyCQ": {
         "en-US": "Evolve?",
@@ -1131,8 +1131,8 @@
     },
     "ArLyCQ": {
         "en-US": "[Shorty]\nYeah, but not all cupets are like this, and certain cupets can only be evolved when their intimacy reaches Loyal.",
-        "pt-BR": "[Baixinho]\nSim, mas nem todos os armários são assim, e certos armários só podem ser evoluídos quando sua intimidade atinge o nível Leal.",
-        "es-ES": "[Peque]\nSí, pero no todos los cupets son así, y ciertos cupets sólo pueden evolucionar cuando su intimidad alcanza la Lealtad."
+        "pt-BR": "[Baixinho]\nSim, mas nem todas as mascotes são assim, e certas mascotes só podem ser evoluídas quando sua intimidade atinge o nível Leal.",
+        "es-ES": "[Peque]\nSí, pero no todas las mascotas son así, y ciertas mascotas sólo pueden evolucionar cuando su intimidad alcanza la Lealtad."
     },
     "A7LyCQ": {
         "en-US": "[Shorty]\nWhen your cupet reaches the required state, click the right mouse button to check its status.",

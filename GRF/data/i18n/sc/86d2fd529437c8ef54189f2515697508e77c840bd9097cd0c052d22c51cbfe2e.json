@@ -1,1326 +1,1105 @@
 {
     "4DcTBw": {
-        "ko-KR": "달아나려 한게 아닙니다! 도둑을 잡아야 한다구요! 제 봇짐이...",
         "en-US": "I wasn't trying to run away! We have to catch the thief! My bundle...",
         "pt-BR": "Eu não queria fugir! Precisamos pegar o gatuno! Minhas coisas...",
         "es-ES": "¡Yo no quería huir! ¡Necesitamos atrapar al ladronzuelo! Mis cosas..."
     },
     "4TcTBw": {
-        "ko-KR": "주막이",
         "en-US": "Tavern Keeper",
         "pt-BR": "Taverneiro",
         "es-ES": "Tabernero"
     },
     "4jcTBw": {
-        "ko-KR": "[주막이]\n저 반약이라는 자가 우리 주막에서 외상값을 갚지 않고 달아나려 해서 이렇게 잡은거요. 산적같은거 아니니 갈길 가시구랴",
         "en-US": "[Tavern Keeper]\nThat man called Banyak tried to run off without paying his tab at our tavern, so we caught him like this. He’s no bandit, so be on your way.",
         "pt-BR": "[Taverneiro]\nAquele tal de Banyak tentou fugir da Pousada sem pagar nada, então o prendemos como um bandido. Vá embora!",
         "es-ES": "[Tabernero]\nEse tal Banyak intentó escapar de la taberna sin pagar nada, así que lo detuvimos como a un bandido. \n¡Lárguese!"
     },
     "4zcTBw": {
-        "ko-KR": "아 빨리 밀린 외상값이나 갚으라고.",
         "en-US": "Hey, hurry up and pay back what you owe on credit.",
         "pt-BR": "Pague o que me deve!",
         "es-ES": "¡Págame lo que me debe!"
     },
     "5DcTBw": {
-        "ko-KR": "장작이",
         "en-US": "Jangjagi",
         "pt-BR": "Funcionário",
         "es-ES": "Empleado"
     },
     "5TcTBw": {
-        "ko-KR": "[장작이]\n뭐야? 저 반약이 놈이랑 한패야? 당신이 대신 돈 갚을거 아니면 비켜.",
         "en-US": "[Jangjagi]\nWhat? Are you in cahoots with that Banyak punk? If you're not going to pay back the money for him, then step aside.",
         "pt-BR": "[Funcionário]\nO quê? Você está junto com Banyak? Ou você vai pagar ou sair do caminho.",
         "es-ES": "[Empleado]\n¿Qué? \n¿Tú estás con Banyak? \nO pagas o te apartas del camino."
     },
     "5jcTBw": {
-        "ko-KR": "거 좋게 말로할때 조용히 해결합시다 형씨.",
         "en-US": "Let’s settle this quietly while we can still talk it out, pal.",
         "pt-BR": "Me o dê dinheiro!",
         "es-ES": "¡Dame dinero!"
     },
     "5zcTBw": {
-        "ko-KR": "마당이",
         "en-US": "Madangi",
         "pt-BR": "Empregado",
         "es-ES": "Trabajador"
     },
     "6DcTBw": {
-        "ko-KR": "[마당이]\n저 인간이 우리 가게에서 먹은 음식값만 2만제니가 넘었소. 외상도 정도껏 해야지!",
         "en-US": "[Madangi]\nThat man ran up a food bill of over 20,000 zeny at our shop. There's a limit to how much you can put on credit!",
         "pt-BR": "[Empregado]\nSó o almoço daquele cara custou 20.000 zeny! Meu trabalho deve ser pago!",
         "es-ES": "[Trabajador]\nEse hombre acumuló una factura de comida de más de 20 000 zeny en nuestra taberna.\n¡Mi trabajo debe ser pagado!"
     },
     "6TcTBw": {
-        "ko-KR": "돈 갖고있긴 한거야? 없으면 노동이라도 해야할거야.",
         "en-US": "Do you even have any money? If not, you’ll have to work for it.",
         "pt-BR": "Você tem dinheiro? Se não, terá que trabalhar.",
         "es-ES": "¿Tienes dinero? Si no, tendrás que trabajar."
     },
     "6jcTBw": {
-        "ko-KR": "뒤뜰이",
         "en-US": "Backyard",
         "pt-BR": "Servente",
         "es-ES": "Sirviente"
     },
     "6zcTBw": {
-        "ko-KR": "[뒤뜰이]\n당신이 대신 돈이라도 갚을거요? 우리한테 돈을 다 갚으려면 10만제니는 있어야하외다. 모두 지불하면 순순히 넘어가 드리겠소.",
         "en-US": "[Backyard]\nAre you going to pay the money in their place? To pay us back in full, you’ll need 100,000 zeny. If you pay it all, we’ll let it go without a fuss.",
         "pt-BR": "[Servente]\nQue tal me dar os 100.000 zeny?! Se você pagar tudo, eu vou embora.",
         "es-ES": "[Sirviente]\n¿Qué tal si me das los 100.000 zeny?! \nSi pagas todo, me iré."
     },
     "7DcTBw": {
-        "ko-KR": "빌린돈은 갚아야하는 법이지~",
         "en-US": "You have to pay back the money you borrowed~",
         "pt-BR": "Você tem que me pagar!!!",
         "es-ES": "¡¡¡Tienes que pagarme!!!"
     },
     "7TcTBw": {
-        "ko-KR": "반약",
         "en-US": "Banyak",
         "pt-BR": "Banyak",
         "es-ES": "Banyak"
     },
     "7jcTBw": {
-        "ko-KR": "[반약]\n저한테 뭐 하실말씀이라도 있습니까?",
         "en-US": "[Banyak]\nDo you have something to say to me?",
         "pt-BR": "[Banyak]\nVocê tem algo a me dizer?",
         "es-ES": "[Banyak]\n¿Tienes algo que decirme?"
     },
     "7zcTBw": {
-        "ko-KR": "[반약]\n뭐죠? 당신도 돈 받으러 온 사람인가요? 내가 머물던 주막에 당신같은 사람은 없었는데.",
         "en-US": "[Banyak]\nWhat is it? Are you here to collect money too? There was no one like you at the inn where I was staying.",
         "pt-BR": "[Banyak]\nO quê? Você também quer dinheiro? Não te vi na Pousada, não.",
         "es-ES": "[Banyak]\n¿Qué? \n¿Tú también quieres dinero? \nNo te vi en la Posada."
     },
     "8DcTBw": {
-        "ko-KR": "돈이라니, 무슨 말입니까?",
         "en-US": "Money? What do you mean?",
         "pt-BR": "Dinheiro?",
         "es-ES": "¿Dinero?"
     },
     "8TcTBw": {
-        "ko-KR": "그냥 지나가는 사람입니다",
         "en-US": "I'm just someone passing by.",
         "pt-BR": "Estou apenas de passagem",
         "es-ES": "Solo estoy de paso"
     },
     "8jcTBw": {
-        "ko-KR": "[반약]\n주막에서 나온 사람이 아니면 그냥 갈 길 가주시겠습니까? 보시다시피 제 상황이 지금 좀...",
         "en-US": "[Banyak]\nIf you didn’t come out of the inn, could you please just be on your way? As you can see, my situation right now is a bit...",
         "pt-BR": "[Banyak]\nSe não for da Pousada, poderia ir embora? Como você pode ver, minha situação é um pouco complicada...",
         "es-ES": "[Banyak]\nSi no eres de la taberna, ¿podrías irte? \nComo ves, mi situación es un poco complicada..."
     },
     "8zcTBw": {
-        "ko-KR": "[뒤뜰이]\n거 보아하니 여행객 같은데 지금 우린 정당한 수금작업 중 이니까 서로 시끄럽지않게 조용히 헤어지십시다.",
         "en-US": "[Backyard]\nYou look like a traveler, but we're in the middle of a legitimate collection job right now, so let's not make a fuss and go our separate ways quietly.",
         "pt-BR": "[Servente]\nEsse cara nem parece que é daqui, vamos nos livrar desse caloteiro.",
         "es-ES": "[Sirviente]\nEste tipo ni siquiera parece ser de por aquí, vamos a deshacernos de este moroso."
     },
     "9DcTBw": {
-        "ko-KR": "까짓거 그럽시다",
         "en-US": "Fine, let’s do it.",
         "pt-BR": "Vamos.",
         "es-ES": "Vamos."
     },
     "9TcTBw": {
-        "ko-KR": "사정이나 좀 들어보죠?",
         "en-US": "Why don't you tell me what happened?",
         "pt-BR": "Qual é o problema?",
         "es-ES": "¿Cuál es el problema?"
     },
     "9jcTBw": {
-        "ko-KR": "[장작이]\n잘 생각했어!. 저런 부랑자랑 엮여서 좋을 모험가는 없다니깐.",
         "en-US": "[Jangjagi]\nGood thinking!. No adventurer ever benefits from getting mixed up with a vagrant like that.",
         "pt-BR": "[Funcionário]\nMuito bem! Nem os aventureiros gostam de vagabundos!",
         "es-ES": "[Empleado]\n¡Muy bien! \n¡Ni siquiera a los trotamundos les gustan los vagabundos!"
     },
     "9zcTBw": {
-        "ko-KR": "[마당이]\n사정이랄게 뭐 있겠소. 저자는 ^0000FF반약^000000이라는 초혼사인데, 열흘이 넘게 우리 주막에서 숙식을 해결해놓고 오늘 아침에 몰래 창문으로 빠져나가려다 우리한테 붙잡힌게요",
         "en-US": "[Madangi]\nWhat “circumstances” could there be? That fellow is a spirit-caller named ^0000FFBanyak^000000, and he’s been eating and sleeping at our inn for over ten days. This morning, he tried to sneak out through the window, but we caught him.",
         "pt-BR": "[Empregado]\nQual é o problema? Esse tal de ^0000FFBanyak^000000 foi pego fugindo pela janela depois de dormir na nossa Pousada por mais de 10 dias.",
         "es-ES": "[Trabajador]\n¿Cuál es el problema? \nEse tal ^0000FFBanyak^000000 fue atrapado huyendo por la ventana después de dormir en nuestra taberna por más de 10 días."
     },
     "+DcTBw": {
-        "ko-KR": "[반약]\n몰래 빠져 나가다니요. 제 봇짐을 훔쳐 달아나는 도둑을 뒤쫓으려던 것 뿐입니다!!",
         "en-US": "[Banyak]\nSneak out? I was only trying to chase after the thief who stole my bundle and ran off!!",
         "pt-BR": "[Banyak]\nNão! Eu estava correndo atrás de um gatuno que roubou minha bolsa!!",
         "es-ES": "[Banyak]\n¡¡No!!\n¡¡Estaba persiguiendo a un ladronzuelo que robó mi bolsa!!"
     },
     "+TcTBw": {
-        "ko-KR": "[장작이]\n아이고~ 퍽이나 그러시겄지요. 우리 가게 무전취식범님들 레파토리 ABC 아닙니까~",
         "en-US": "[Jangjagi]\nOh, sure~ I’m sure you would. Isn’t that the ABC routine of all the dine-and-dashers at our shop?~",
         "pt-BR": "[Funcionário]\nAhh claro~ E os unicórnios existem, né não?",
         "es-ES": "[Empleado]\nAhh, claro~ \nY los unicornios existen, ¿verdad?"
     },
     "+jcTBw": {
-        "ko-KR": "[반약]\n정말입니다! 절대 무전취식같은걸 하려던게 아닌데!",
         "en-US": "[Banyak]\nIt’s true! I never meant to dine and dash or anything!",
         "pt-BR": "[Banyak]\nSério! Eu nunca quis fazer algo desse tipo!",
         "es-ES": "[Banyak]\n¡En serio! \n¡Yo nunca quise hacer algo así!"
     },
     "+zcTBw": {
-        "ko-KR": "[아궁이]\n자 그럼 우리 주막으로 돌아가서 앞으로의 거취를 천천히 이야기해봅시다. 생각보다 이 일이 나쁘진 않아.",
         "en-US": "[Agungi]\nAll right, then. Let's head back to our tavern and talk over what we'll do from here, nice and slow. This isn't as bad as you might think.",
         "pt-BR": "[Funcionário]\nEntão vamos voltar para nossa Pousada e conversar. Aí a gente tira essa história a limpo.",
         "es-ES": "[Empleado]\nEntonces volvamos a nuestra taberna y hablemos. \nAllí aclararemos esta historia."
     },
     "/DcTBw": {
-        "ko-KR": "[뒤뜰이]\n저기 있는 장작이도 한때 우리 가게에서 무전취식을 하고 도망치다 잡혀서 이렇게 개과천선하고 잘 지내고 있소.",
         "en-US": "[Backyard]\nEven Jangjagi over there once ate at our shop without paying and tried to run, but got caught—now he’s turned over a new leaf and is doing well.",
         "pt-BR": "[Servente]\nNosso funcionário ali uma vez comeu tudo da nossa Pousada e tentou fugir. Hoje ele trabalha conosco.",
         "es-ES": "[Sirviente]\nNuestro empleado allí una vez se comió todo de nuestra taberna e intentó huir. \nHoy trabaja con nosotros."
     },
     "/TcTBw": {
-        "ko-KR": "[장작이]\n아, 거 옛날 이야기는 그만하시지요 형님.",
         "en-US": "[Jangjagi]\nAh, please stop with those old stories, brother.",
         "pt-BR": "[Funcionário]\nAh, pare de falar sobre os velhos tempos, mano.",
         "es-ES": "[Empleado]\nAh, deja de hablar de los viejos tiempos, hermano."
     },
     "/jcTBw": {
-        "ko-KR": "[반약]\n정말 미안하지만 도둑을 잡고나면 금방 갚을 수 있어요. 멀리 가진 못했을거예요!",
         "en-US": "[Banyak]\nI'm really sorry, but once I catch the thief, I can pay you back right away. He couldn't have gotten far!",
         "pt-BR": "[Banyak]\nEu realmente sinto muito, mas assim que pegar o gatuno, eu pagarei vocês. Imediatamente!",
         "es-ES": "[Banyak]\nLo siento mucho, pero en cuanto atrape al ladronzuelo, les pagaré. \n¡Inmediatamente!"
     },
     "/zcTBw": {
-        "ko-KR": "[마당이]\n시끄럽네~ 도망치려는 수작이 뻔히 보이는데 관아에 넘기기전에 얌전히 따라오슈",
         "en-US": "[Madangi]\nIt's noisy~ I can clearly see you trying to run, so come along quietly before I hand you over to the magistrate's office.",
         "pt-BR": "[Empregado]\nEntão~ Vamos conversar na Pousada ao invés de falar com os guardas.",
         "es-ES": "[Trabajador]\nEntonces~ \nVamos a hablar en la Taberna en lugar de hablar con los guardias."
     },
     "ADgTBw": {
-        "ko-KR": "[반약]\n하... 지금 제가 대화할 상황이 아니니 좀 비켜주시겠어요?",
         "en-US": "[Banyak]\nSigh... I’m not in a situation to talk right now, so could you please step aside?",
         "pt-BR": "[Banyak]\nEr... Eu não estou em condições de falar agora. Então você poderia, por favor, seguir seu rumo?",
         "es-ES": "[Banyak]\nEh... \nNo estoy en condiciones de hablar ahora. \nAsí que, ¿podrías, por favor, seguir tu camino?"
     },
     "ATgTBw": {
-        "ko-KR": "[주막이]\n뭡니까? 당신하곤 할말 없소",
         "en-US": "[Tavern Keeper]\nWhat is it? I have nothing to say to you.",
         "pt-BR": "[Taverneiro]\nHã? Não quero falar com você.",
         "es-ES": "[Tabernero]\n¿Eh? \nNo quiero hablar contigo."
     },
     "AjgTBw": {
-        "ko-KR": "[반약]\n어서오십...",
         "en-US": "[Banyak]\nWelcom...",
         "pt-BR": "[Banyak]\nOlá...",
         "es-ES": "[Banyak]\nHola..."
     },
     "AzgTBw": {
-        "ko-KR": "아니, 무전취식 하다 잡혀갔던 청년이시네!",
         "en-US": "No way, you’re the young man who got caught dining and dashing!",
         "pt-BR": "Você é um golpista?",
         "es-ES": "¿Eres un estafador?"
     },
     "BDgTBw": {
-        "ko-KR": "[반약]\n하하... 어쩐지 낯이 익다 했더니 그때 지나가시던 분이군요. 지금도 그냥 지나가실 겁니까 아니면 여기서 쉬었다 가실겁니까?",
         "en-US": "[Banyak]\nHaha... I thought you looked familiar. So you were the one passing by back then. Will you just pass by again now, or will you rest here for a while?",
         "pt-BR": "[Banyak]\nHaha... Você parecia familiar, mas só está de passagem. Você vai embora ou vai descansar aqui?",
         "es-ES": "[Banyak]\nJaja... \nParecías familiar, pero solo estás de paso. \n¿Te vas o vas a descansar aquí?"
     },
     "BTgTBw": {
-        "ko-KR": "그냥 지나갈 예정이다",
         "en-US": "I'm just passing by.",
         "pt-BR": "Eu vou embora.",
         "es-ES": "Me voy."
     },
     "BjgTBw": {
-        "ko-KR": "쉬었다 갈 생각이다",
         "en-US": "I'm thinking of taking a rest before I go.",
         "pt-BR": "Eu vou descansar aqui.",
         "es-ES": "Voy a descansar aquí."
     },
     "BzgTBw": {
-        "ko-KR": "[반약]\n그러시군요. 그럼 모쪼록 편안하게~ 지나가시기 바랍니다.",
         "en-US": "[Banyak]\nI see. Then I hope you pass through safely and in comfort.",
         "pt-BR": "[Banyak]\nCerto. Então, por favor, vá na paz.",
         "es-ES": "[Banyak]\nBien.\nEntonces, por favor, vete en paz."
     },
     "CDgTBw": {
-        "ko-KR": "[반약]\n쉬었다 가신다구요? 하아... 그럼 손님이시군요. 일단 신발을 벗고 이쪽으로 오십시오.",
         "en-US": "[Banyak]\nYou’re going to rest here? Hah... then you must be a guest. First, take off your shoes and come this way.",
         "pt-BR": "[Banyak]\nDescansar? Ha ha... Então você é cliente. Por favor, tire os sapatos e venha aqui.",
         "es-ES": "[Banyak]\n¿Descansar? \nJa ja... \nEntonces eres un cliente. \nPor favor, quítate los zapatos y ven aquí."
     },
     "CTgTBw": {
-        "ko-KR": "정말 주막에 잡혀서 일하는중인가요?",
         "en-US": "Are you really working at the inn because you got caught?",
         "pt-BR": "Virou funcionário?",
         "es-ES": "¿Te convertiste en empleado?"
     },
     "CjgTBw": {
-        "ko-KR": "[반약]\n뭐 그렇게 되었죠. 도망칠까도 생각해 봤는데 그랬다간 정식으로 대륙 동부에 수배령을 내릴거라고 하더군요.",
         "en-US": "[Banyak]\nWell, that’s how it turned out. I even thought about running away, but they said if I did, they’d officially put out a wanted order for me in the eastern continent.",
         "pt-BR": "[Banyak]\nBem, sim. Pensei em fugir, mas disseram que me tornariam um foragido da justiça se fugisse.",
         "es-ES": "[Banyak]\nBueno, sí. \nPensé en huir, pero dijeron que me convertirían en un fugitivo de la justicia si lo hacía."
     },
     "CzgTBw": {
-        "ko-KR": "도둑은 잡았나요?",
         "en-US": "Did you catch the thief?",
         "pt-BR": "Você pegou o gatuno?",
         "es-ES": "¿Atrapaste al ladronzuelo?"
     },
     "DDgTBw": {
-        "ko-KR": "[반약]\n그때의 일을 생각하면 자다가도 이가 갈립니다. 분명 제가 자는 침소의 상황을 잘 파악하고 있던 자였어요.",
         "en-US": "[Banyak]\nWhen I think back on what happened then, I grind my teeth even in my sleep. He clearly knew the situation of the place where I sleep.",
         "pt-BR": "[Banyak]\nSó de pensar nele, começo a ranger os dentes. Esse gatuno estava bem ciente do local onde eu estava dormindo.",
         "es-ES": "[Banyak]\nSolo de pensar en él, me dan ganas de rechinar los dientes. \nEse ladronzuelo estaba muy consciente del lugar donde yo estaba durmiendo."
     },
     "DTgTBw": {
-        "ko-KR": "[반약]\n이상한 기척을 느껴 잠에서 깼을때는 이미 누군가가 제 봇짐을 들고 창밖으로 도망치고 있었습니다. 그 짧은 순간에 도망친다는건 평범한 도둑으론 힘들다고 봐요.",
         "en-US": "[Banyak]\nWhen I woke up after sensing something strange, someone was already running away out the window with my bundle. In that brief moment, I don't think an ordinary thief could have escaped.",
         "pt-BR": "[Banyak]\nQuando acordei, alguém já estava fugindo da janela com minha bolsa. Nem parecia um gatuno amador de tão rápido que saiu.",
         "es-ES": "[Banyak]\nCuando desperté, alguien ya estaba huyendo por la ventana con mi bolsa. \nNi siquiera parecía un ladronzuelo amateur de lo rápido que salió."
     },
     "DjgTBw": {
-        "ko-KR": "봇짐에 중요한 짐이 있었습니까?",
         "en-US": "Did you have anything important in your bundle?",
         "pt-BR": "Tinha objetos importantes?",
         "es-ES": "¿Había objetos importantes?"
     },
     "DzgTBw": {
-        "ko-KR": "[반약]\n여행을 위한 돈과  제 직업에 직결되는 귀물들이 들어있죠. 돈도 중요하지만 귀물이 다른 사람의 손을 타면 정말 곤란해지는데...",
         "en-US": "[Banyak]\nIt contains money for my travels, and rare items directly tied to my work. Money is important, but if those rare items fall into someone else's hands, it would be a real problem...",
         "pt-BR": "[Banyak]\nTinha zenys e itens da minha classe. É complicado ver coisas preciosas nas mãos de outra pessoa...",
         "es-ES": "[Banyak]\nHabía zenys y objetos de mi clase. \nEs complicado ver cosas preciosas en manos de otra persona..."
     },
     "EDgTBw": {
-        "ko-KR": "[주막이]\n어이, 반약이 여기서 뭘 노닥거리고 있나. 뒷간에 쌓인것들 말끔하게 퍼내라고 했을텐데.",
         "en-US": "[Tavern Keeper]\nHey, what’s Banyak loafing around here for? I’m pretty sure I told you to clean out everything piled up in the back room.",
         "pt-BR": "[Taverneiro]\nEi, Banyak, tá fazendo o quê? Você deveria empilhar as lenhas.",
         "es-ES": "[Tabernero]\nOye, Banyak, ¿qué estás haciendo? \nDeberías apilar la leña."
     },
     "ETgTBw": {
-        "ko-KR": "어이, 반약이 여기서 뭘 노닥거리고 있나. 뒷간에 쌓인것들 말끔하게 퍼내라고 했을텐데.",
         "en-US": "Hey, what are you loafing around here for, Banyak? I told you to cleanly scoop out everything piled up in the latrine.",
         "pt-BR": "Ei, Banyak, tá fazendo o quê? Você deveria empilhar as lenhas.",
         "es-ES": "Oye, Banyak, ¿qué estás haciendo? Deberías apilar la leña."
     },
     "EjgTBw": {
-        "ko-KR": "[반약]\n어찌되었건 일은 해야겠습니다. 제가 괜히 시간을 빼앗았군요.",
         "en-US": "[Banyak]\nAnyway, I should get back to work. I ended up taking up your time for nothing.",
         "pt-BR": "[Banyak]\nDe qualquer forma, eu tenho que trabalhar. Eu simplesmente perdi meu tempo.",
         "es-ES": "[Banyak]\nDe cualquier forma, tengo que trabajar. \nSimplemente perdí mi tiempo."
     },
     "EzgTBw": {
-        "ko-KR": "인사는 되었고...",
         "en-US": "Greetings are done...",
         "pt-BR": "Não precisa se apresentar...",
         "es-ES": "No necesitas presentarte..."
     },
     "FDgTBw": {
-        "ko-KR": "이게 당신 봇짐이 맞는지 확인해보세요.",
         "en-US": "Please check if this is your bundle.",
         "pt-BR": "Essa bolsa é sua?",
         "es-ES": "¿Esta bolsa es tuya?"
     },
     "FTgTBw": {
-        "ko-KR": "[반약]\n앗, 이건...대법용 약재와 초혼선. 제 봇짐이 맞군요... 이걸 어디서?",
         "en-US": "[Banyak]\nAh, this is... medicinal herbs for the Grand Law and a Spirit-Summoning Fan. This is my bundle... Where did you find this?",
         "pt-BR": "[Banyak]\nHmm... Algumas ervas medicinais e uma Gadanha Mágica. Está tudo aí... Como você conseguiu?",
         "es-ES": "[Banyak]\nMmm... \nAlgunas hierbas medicinales y una Guadaña Mágica. \nEstá todo ahí... \n¿Cómo la conseguiste?"
     },
     "FjgTBw": {
-        "ko-KR": "그것보다 훔쳐간 범인이 궁금하지 않습니까?",
         "en-US": "Aren't you more curious about the thief who stole it?",
         "pt-BR": "Quer saber quem te roubou?",
         "es-ES": "¿Quieres saber quién te robó?"
     },
     "FzgTBw": {
-        "ko-KR": "[반약]\n당연히 궁금하지요. 대체 어떤녀석들이 이런 대담한짓을!",
         "en-US": "[Banyak]\nOf course I'm curious. Just what kind of punks would do something this bold!",
         "pt-BR": "[Banyak]\nClaro! Quero saber quem foi o otário que me roubou!",
         "es-ES": "[Banyak]\n¡Claro! \n¡Quiero saber quién fue el imbécil que me robó!"
     },
     "GDgTBw": {
-        "ko-KR": "[주막이]\n반약이. 오늘도 또 노닥거리고 있구만. 시킨일은 다 한건가?",
         "en-US": "[Tavern Keeper]\nBanyak. Loafing around again today, I see. Have you finished everything I told you to do?",
         "pt-BR": "[Taverneiro]\nBanyak. Tá falando muito e trabalhando pouco. Você fez tudo o que pediu?",
         "es-ES": "[Tabernero]\nBanyak. \nHablas mucho y trabajas poco. \n¿Hiciste todo lo que pedí?"
     },
     "GTgTBw": {
-        "ko-KR": "반약이. 오늘도 또 노닥거리고 있구만. 시킨일은 다 한건가?",
         "en-US": "Banyak. Loafing around again today, I see. Have you finished everything I told you to do?",
         "pt-BR": "Banyak. Tá falando muito e trabalhando pouco. Você fez tudo o que pediu?",
         "es-ES": "Banyak. Hablas mucho y trabajas poco. ¿Hiciste todo lo que pedí?"
     },
     "GjgTBw": {
-        "ko-KR": "마침 범인이 나타나셨구만",
         "en-US": "Well, looks like the culprit has finally shown up.",
         "pt-BR": "Aí ó.",
         "es-ES": "Aquí tienes."
     },
     "GzgTBw": {
-        "ko-KR": "[주막이]\n뭐요? 지금 무슨 말을 하는거요?",
         "en-US": "[Tavern Keeper]\nWhat? What are you talking about right now?",
         "pt-BR": "[Taverneiro]\nO quê? Do que você está falando?",
         "es-ES": "[Tabernero]\n¿Qué? \n¿De qué estás hablando?"
     },
     "HDgTBw": {
-        "ko-KR": "[반약]\n저 사람이 범인이라구요?",
         "en-US": "[Banyak]\nThat person is the culprit?",
         "pt-BR": "[Banyak]\nEsse cara é o gatuno?",
         "es-ES": "[Banyak]\n¿Este tipo es el ladronzuelo?"
     },
     "HTgTBw": {
-        "ko-KR": "[주막이]\n자기가 한 말에 책임을 져야할거야. 아무 증거도 없이 그런 말을 내 뱉은거라면 우리 주막의 노예로 쓰는 수 밖에 없거든 큭큭",
         "en-US": "[Tavern Keeper]\nYou’ll have to take responsibility for what you said. If you spat out those words without any proof, then we’ll have no choice but to use you as a slave in our tavern, heh heh.",
         "pt-BR": "[Taverneiro]\nCadê as provas? Se não provar, vou te escravizar aqui na Pousada também.",
         "es-ES": "[Tabernero]\n¿Dónde están las pruebas? \nSi no pruebas, te esclavizaré aquí en la taberna también."
     },
     "HjgTBw": {
-        "ko-KR": "내가 봤는데! 저사람이랑 장작이가 봇짐 훔쳐서 묻었는데!!",
         "en-US": "I saw it! That person and Jangjagi stole a bundle and buried it!!",
         "pt-BR": "Eu vi! Aquela pessoa e a Funcionário roubaram e enterraram a bolsa!!",
         "es-ES": "¡Yo vi! ¡Esa persona y el Empleado robaron y enterraron la bolsa!!"
     },
     "HzgTBw": {
-        "ko-KR": "[반약]\n저 꼬마 아가씨의 말을 들어봐야겠군요. 유일한 증인이나 마찬가지이니.",
         "en-US": "[Banyak]\nI should hear what that little girl has to say. She is practically the only witness.",
         "pt-BR": "[Banyak]\nVou ter que ouvir aquela Garotinha. É a única testemunha.",
         "es-ES": "[Banyak]\nTendré que escuchar a esa Niñita. \nEs la única testigo."
     },
     "IDgTBw": {
-        "ko-KR": "[반약]\n하아... 지금은 딱히 이야기를 나눌 기분은 아니군요",
         "en-US": "[Banyak]\n*sigh*... I’m not really in the mood to talk right now.",
         "pt-BR": "[Banyak]\nArgh... Não estou com vontade de conversar agora.",
         "es-ES": "[Banyak]\nArgh... \nNo tengo ganas de hablar ahora."
     },
     "ITgTBw": {
-        "ko-KR": "꼬맹이",
         "en-US": "Kiddo",
         "pt-BR": "Garotinha",
         "es-ES": "Niñita"
     },
     "IjgTBw": {
-        "ko-KR": "나 훔쳐간 놈들 아는데... 완전 나쁜놈들인데...",
         "en-US": "I know who stole from me... They’re really bad guys...",
         "pt-BR": "Eu sei quem roubou... Eles são caras maus...",
         "es-ES": "Yo sé quién robó... Son tipos malos..."
     },
     "IzgTBw": {
-        "ko-KR": "[꼬맹이]\n난 아무것도 모르는데... 나한테 물으면 안되는데...",
         "en-US": "[Kid]\nI don't know anything... You shouldn't be asking me...",
         "pt-BR": "[Garotinha]\nEu não sei de nada... Eu não deveria falar com estranhos...",
         "es-ES": "[Niñita]\nYo no sé nada... \nNo debería hablar con extraños..."
     },
     "JDgTBw": {
-        "ko-KR": "[꼬맹이]\n나 훔쳐간 놈들 아는데... 완전 나쁜놈들인데...",
         "en-US": "[Kid]\nI know who stole from me... They’re really bad guys...",
         "pt-BR": "[Garotinha]\nEu sei quem roubou... Eles são caras maus...",
         "es-ES": "[Niñita]\nYo sé quién robó... \nSon tipos malos..."
     },
     "JTgTBw": {
-        "ko-KR": "꼬마야 지금 뭐라했니?",
         "en-US": "Kid, what did you just say?",
         "pt-BR": "O que você disse?",
         "es-ES": "¿Qué dijiste?"
     },
     "JjgTBw": {
-        "ko-KR": "[꼬맹이]\n나 저 언니 봇짐 훔쳐간 놈들 아는데...",
         "en-US": "[Kid]\nI know the guys who stole that lady's bundle...",
         "pt-BR": "[Garotinha]\nConheço os caras que roubaram a bolsa da minha irmã...",
         "es-ES": "[Niñita]\nConozco a los tipos que robaron la bolsa de mi hermana..."
     },
     "JzgTBw": {
-        "ko-KR": "놈들? 한사람이 아냐?",
         "en-US": "Them? It’s not just one person?",
         "pt-BR": "Caras? Tinha mais de um?",
         "es-ES": "¿Tipos? ¿Había más de uno?"
     },
     "KDgTBw": {
-        "ko-KR": "누가 훔쳐가는지 봤니?",
         "en-US": "Did you see who stole it?",
         "pt-BR": "Quem eram?",
         "es-ES": "¿Quiénes eran?"
     },
     "KTgTBw": {
-        "ko-KR": "[꼬맹이]\n한사람이 아닌데... 저 언니 자고있을때 주막이랑 장작이가 봇짐 훔쳐서 묻었는데...",
         "en-US": "[Kid]\nIt wasn't just one person... When that lady was asleep, Tavern Keeper and Jangjagi stole her bundle and buried it...",
         "pt-BR": "[Garotinha]\nEla não foi a única... Quando minha irmã estava dormindo, o Taverneiro e o Funcionário roubaram e enterraram o objeto...",
         "es-ES": "[Niñita]\nElla no fue la única... \nCuando mi hermana estaba durmiendo, el Tabernero y el Empleado robaron y enterraron el objeto..."
     },
     "KjgTBw": {
-        "ko-KR": "주막 일꾼들이 훔친거라고?",
         "en-US": "You mean the tavern workers stole it?",
         "pt-BR": "Os donos da Pousada?",
         "es-ES": "¿Los dueños de la Taberna?"
     },
     "KzgTBw": {
-        "ko-KR": "[꼬맹이]\n아궁이는 수면약을 음식에 타고 뒤뜰이는 망을 봤는데... 저 언니 누가 도와줘야하는데...",
         "en-US": "[Kid]\nAgungi mixed sleeping medicine into the food, and Backyard kept watch... Someone needs to help that lady...",
         "pt-BR": "[Garotinha]\nSim, eu os vi colocando pílulas para dormir na comida da minha irmã... Alguém precisa ajudá-la...",
         "es-ES": "[Niñita]\nSí, los vi poniendo pastillas para dormir en la comida de mi hermana... Alguien necesita ayudarla..."
     },
     "LDgTBw": {
-        "ko-KR": "훔친 봇짐은 어떻게 되었지?",
         "en-US": "What happened to the stolen bundle?",
         "pt-BR": "E as bolsas roubadas?",
         "es-ES": "¿Y las bolsas robadas?"
     },
     "LTgTBw": {
-        "ko-KR": "나와는 관계없는 일이구나.",
         "en-US": "It has nothing to do with me.",
         "pt-BR": "Não me interessei.",
         "es-ES": "No me interesé."
     },
     "LjgTBw": {
-        "ko-KR": "[꼬맹이]\n안되는데!... 저 언니 도와줘야하는데!!...",
         "en-US": "[Kid]\nNo way!... I have to help that lady!!...",
         "pt-BR": "[Garotinha]\nPoxa!... Eu preciso ajudar minha irmã!!...",
         "es-ES": "[Niñita]\n¡Vaya!... \n¡¡Necesito ayudar a mi hermana!!..."
     },
     "LzgTBw": {
-        "ko-KR": "[꼬맹이]\n내가 봤는데... 원하면 안내해 줄 수 있는데...",
         "en-US": "[Kid]\nI saw it... If you want, I can show you the way...",
         "pt-BR": "[Garotinha]\nEu também vi... Eu posso te guiar se você quiser...",
         "es-ES": "[Niñita]\nYo también vi... \nPuedo guiarte si quieres..."
     },
     "MDgTBw": {
-        "ko-KR": "안내해줄래?",
         "en-US": "Could you show me the way?",
         "pt-BR": "Você pode me guiar?",
         "es-ES": "¿Puedes guiarme?"
     },
     "MTgTBw": {
-        "ko-KR": "아니 내 일도 아니고 괜찮아",
         "en-US": "It’s not even my business, so it’s fine.",
         "pt-BR": "Continuo sem interesse.",
         "es-ES": "Sigo sin interés."
     },
     "MjgTBw": {
-        "ko-KR": "[꼬맹이]\n내가 본게 맞는데! 저사람이 훔친거 맞는데!",
         "en-US": "[Kid]\nI saw it! That person really stole it!",
         "pt-BR": "[Garotinha]\nTenho certeza que vi! Essa pessoa quem roubou!",
         "es-ES": "[Niñita]\n¡Estoy segura de que vi! \n¡Esta persona fue quien robó!"
     },
     "MzgTBw": {
-        "ko-KR": "[주막이]\n꼬마야. 네가 한 말에 책임 질 수 있느냐?",
         "en-US": "[Tavern Keeper]\nKid. Can you take responsibility for what you said?",
         "pt-BR": "[Taverneiro]\nGarotinha, você pode assumir a responsabilidade pelo que disse?",
         "es-ES": "[Tabernero]\nNiñita, ¿puedes asumir la responsabilidad por lo que dijiste?"
     },
     "NDgTBw": {
-        "ko-KR": "[꼬맹이]\n난 거짓말같은거 못하는데! 내가 분명 봤는데!",
         "en-US": "[Kid]\nI can't tell lies! I definitely saw it!",
         "pt-BR": "[Garotinha]\nNão sei mentir! Eu vi!",
         "es-ES": "[Niñita]\n¡No sé mentir! ¡Yo vi!"
     },
     "NTgTBw": {
-        "ko-KR": "[반약]\n고맙구나 꼬마아가씨. 하지만 이젠 괜찮아, 잃어버렸던 봇짐속의 초혼선이 내 손에 있으니 저 아저씨에게 직접 물어보도록 하자꾸나.",
         "en-US": "[Banyak]\nThank you, little miss. But it’s all right now. The Spirit Summoning Fan that I lost from my bundle is in my hands, so let’s ask that man directly.",
         "pt-BR": "[Banyak]\nAgradeço, garotinha. Eu peguei de volta minha Gadanha Mágica, então vamos perguntar diretamente àquele homem.",
         "es-ES": "[Banyak]\nGracias, niñita. \nRecuperé mi Guadaña Mágica, así que vamos a preguntarle directamente a ese hombre."
     },
     "NjgTBw": {
-        "ko-KR": "[주막이]\n무... 무슨. 지금 나한테 무슨 짓을 하려는거야!",
         "en-US": "[Tavern Keeper]\nW-What... What are you trying to do to me right now!",
         "pt-BR": "[Taverneiro]\nUrgh... Quê? O que você está tentando fazer comigo?!",
         "es-ES": "[Tabernero]\nUrgh... \n¿Qué? \n¿Qué intentas hacerme?!"
     },
     "NzgTBw": {
-        "ko-KR": "[반약]\n이 초혼선의 주인된 자로서 네놈의 영혼에 묻는다. 사실대로 답하면 영혼을 거두지는 않겠다.",
         "en-US": "[Banyak]\nAs the master of this Summoning Line, I ask your soul. Answer truthfully, and I will not claim your soul.",
         "pt-BR": "[Banyak]\nPelo poder dessa Gadanha Mágica, eu pergunto à você. Se me responder a verdade, não levarei sua alma.",
         "es-ES": "[Banyak]\nPor el poder de esta Guadaña Mágica, te pregunto. \nSi me respondes la verdad, no me llevaré tu alma."
     },
     "ODgTBw": {
-        "ko-KR": "[주막이]\n어...으으으... 내게 무슨짓을 한거냐!",
         "en-US": "[Tavern Keeper]\nUgh... ughhh... What did you do to me!",
         "pt-BR": "[Taverneiro]\nUrgh... Urgh... O que você fez comigo?!",
         "es-ES": "[Tabernero]\nUrgh... \nUrgh... \n¡¿Qué me hiciste?!"
     },
     "OTgTBw": {
-        "ko-KR": "[반약]\n이 초혼선을 취하려 한 사실이 있는가?",
         "en-US": "[Banyak]\nHave you ever tried to take this Spirit Summoning Line?",
         "pt-BR": "[Banyak]\nNunca viu uma Gadanha?",
         "es-ES": "[Banyak]\n¿Nunca viste una Guadaña?"
     },
     "OjgTBw": {
-        "ko-KR": "[주막이]\n으...으으으으!! 그만둬!",
         "en-US": "[Tavern Keeper]\nUgh... uuuugh!! Stop it!",
         "pt-BR": "[Taverneiro]\nAaaaaaaah!! Pare com isso!",
         "es-ES": "[Tabernero]\n¡¡Aaaaaaaah!!\n¡Para con eso!"
     },
     "OzgTBw": {
-        "ko-KR": "[반약]\n이 초혼선은 저항하는 영혼을 조금씩 갉아먹는다. 한마디로 네놈의 생명줄이 지금도 야금야금 줄어들고 있는 셈이지.",
         "en-US": "[Banyak]\nThis spirit-summoning thread slowly gnaws away at any soul that resists. In other words, your lifeline is being whittled down bit by bit even now.",
         "pt-BR": "[Banyak]\nA Gadanha Mágica corrói as almas que resistem à ela. Resumindo, seus dias de vida estão diminuindo pouco a pouco.",
         "es-ES": "[Banyak]\nLa Guadaña Mágica corroe las almas que se resisten a ella. \nEn resumen, tus días de vida están disminuyendo poco a poco."
     },
     "PDgTBw": {
-        "ko-KR": "[반약]\n살고싶다면 대답해라 인간.",
         "en-US": "[Banyak]\nIf you want to live, answer me, human.",
         "pt-BR": "[Banyak]\nSe você quiser viver, me responda, humano.",
         "es-ES": "[Banyak]\nSi quieres vivir, respóndeme, humano."
     },
     "PTgTBw": {
-        "ko-KR": "[주막이]\n으...으으으으!! 나...나는...",
         "en-US": "[Tavern Keeper]\nUgh... uuuugh!! I... I am...",
         "pt-BR": "[Taverneiro]\nAaaaaaaah!! Eu... eu...",
         "es-ES": "[Tabernero]\n¡¡Aaaaaaaah!! Yo... yo..."
     },
     "PjgTBw": {
-        "ko-KR": "[반약]\n거짓을 말하고싶다면 말리진 않겠다. 보아하니 이미 천수를 누리긴 글러먹은 것 같고.",
         "en-US": "[Banyak]\nIf you want to lie, I won't stop you. From the looks of it, you were never going to live out your natural lifespan anyway.",
         "pt-BR": "[Banyak]\nSe você quiser mentir, não vou impedi-lo. Até acho que você está muito velho para viver mais.",
         "es-ES": "[Banyak]\nSi quieres mentir, no te lo impediré. \nHasta creo que estás muy viejo para vivir más."
     },
     "PzgTBw": {
-        "ko-KR": "[반약]\n조금만 더 힘내면 젊은나이에 요절할 수도 있겠구나.",
         "en-US": "[Banyak]\nIf you push yourself just a little harder, you might even die young.",
         "pt-BR": "[Banyak]\nSem esforço nenhum, eu posso levar sua alma.",
         "es-ES": "[Banyak]\nSin ningún esfuerzo, puedo llevarme tu alma."
     },
     "QDgTBw": {
-        "ko-KR": "[주막이]\n으흐흐흑. 우리가 봇짐을 훔쳤습니다... 귀한 보물이 들어있는 줄 알고 그만... 사실대로 말했으니 제발... 살려주십시오!",
         "en-US": "[Tavern Keeper]\nUgh... We stole the bundle... We thought it had some precious treasure inside, and we just... Since I've told you the truth, please... spare us!",
         "pt-BR": "[Taverneiro]\nAhhhhhh. Eu roubei a bolsa... Pensei que tinha muitos tesouros... Pronto! Falei a verdade... Me ajude!",
         "es-ES": "[Tabernero]\nAhhhhhh. \nYo robé la bolsa... \nPensé que tenía muchos tesoros... \n¡Listo! \nDije la verdad... \n¡Ayúdame!"
     },
     "QTgTBw": {
-        "ko-KR": "[반약]\n나를 왜 이곳의 하인으로 부리려했느냐.",
         "en-US": "[Banyak]\nWhy did you try to make me a servant here.",
         "pt-BR": "[Banyak]\nPor que você quer que eu trabalhe aqui?",
         "es-ES": "[Banyak]\n¿Por qué quieres que trabaje aquí?"
     },
     "QjgTBw": {
-        "ko-KR": "[주막이]\n봇짐을 훔치고 난 뒤 영력이 담긴 물건을 보고 덜컥 겁이 나서 파묻다가 초혼사님이 뒤를 쫓는걸 보고 어떻게든 붙잡아 두려 했던겁니다요.",
         "en-US": "[Tavern Keeper]\nAfter stealing the bundle, I saw an item filled with spiritual power and got scared, so I buried it. Then I saw the Spirit Caller chasing after me, so I tried to hold them back somehow.",
         "pt-BR": "[Taverneiro]\nQuando vi os itens de necromancia na bolsa, fiquei com medo e a enterrei, mas quando vi que você tinha dinheiro, pensei que poderia arrancar mais.",
         "es-ES": "[Tabernero]\nCuando vi los objetos de nigromancia en la bolsa, me asusté y la enterré, pero cuando vi que tú tenías dinero, pensé que podría sacarte más."
     },
     "QzgTBw": {
-        "ko-KR": "[주막이]\n상황을 봐서 봇짐을 다 없애버리려 했는데 상황이 여의치않아서...",
         "en-US": "[Tavern Keeper]\nI was going to get rid of all my bundles depending on how things went, but the situation didn’t allow it...",
         "pt-BR": "[Taverneiro]\nTentei me livrar da bolsa, mas não deu certo...",
         "es-ES": "[Tabernero]\nIntenté deshacerme de la bolsa, pero no funcionó..."
     },
     "RDgTBw": {
-        "ko-KR": "[반약]\n이곳의 다른 일꾼들도 이렇게 잡아들였느냐?",
         "en-US": "[Banyak]\nDid you capture the other workers here like this too?",
         "pt-BR": "[Banyak]\nTodos esses trabalhadores daqui tinham sido roubados por você?",
         "es-ES": "[Banyak]\n¿Todos estos trabajadores de aquí habían sido robados por ti?"
     },
     "RTgTBw": {
-        "ko-KR": "[주막이]\n다른 녀석들은 정말 갈 곳이 없어서 일하게 된 것 뿐입니다요. 제발 살려만 주십시오 돈이고 뭐고 다 드리겠습니다",
         "en-US": "[Tavern Keeper]\nThe others only started working because they truly had nowhere else to go. Please, just spare my life. I will give you everything, money or anything else.",
         "pt-BR": "[Taverneiro]\nOs outros caras realmente não têm para onde ir, então eles pedem para trabalhar. Por favor, só salve minha vida. Te dou dinheiro e tudo mais.",
         "es-ES": "[Tabernero]\nLos otros tipos realmente no tienen a dónde ir, así que piden trabajar. \nPor favor, solo salva mi vida. \nTe doy dinero y todo."
     },
     "RjgTBw": {
-        "ko-KR": "[반약]\n좋아, 그럼 금전적인 부분은 따로 조용히 만나 이야기 하도록 하고....",
         "en-US": "[Banyak]\nAlright, then let’s meet somewhere quiet and discuss the financial part separately....",
         "pt-BR": "[Banyak]\nCerto, vamos conversar sobre a parte financeira com calma...",
         "es-ES": "[Banyak]\nBien, hablemos de la parte financiera con calma..."
     },
     "RzgTBw": {
-        "ko-KR": "[반약]\n꼬마 아가씨와 여행자님 덕분에 제 곤란한 상황이 해결되었군요. 여행자님과는 따로 이야기를 나누고 싶은데...",
         "en-US": "[Banyak]\nThanks to the young lady and you, traveler, my troublesome situation has been resolved. I would like to speak with you separately, traveler...",
         "pt-BR": "[Banyak]\nGraças à você, minha difícil situação foi resolvida. Quero falar com você em particular...",
         "es-ES": "[Banyak]\nGracias a ti, mi difícil situación se resolvió. \nQuiero hablar contigo en privado..."
     },
     "SDgTBw": {
-        "ko-KR": "[반약]\n실례가 아니라면 이 마을의 북쪽 던전으로 가는 길목에서 잠시 이야기를 나눴으면 합니다.",
         "en-US": "[Banyak]\nIf you do not mind, I would like to speak with you for a moment on the way to the dungeon north of this village.",
         "pt-BR": "[Banyak]\nGostaria de conversar um pouco, lá na entrada da Vila dos Arqueiros.",
         "es-ES": "[Banyak]\nMe gustaría conversar un poco, allá en la entrada de la Villa de los Arqueros."
     },
     "STgTBw": {
-        "ko-KR": "아... 그게 저는.",
         "en-US": "Ah... well, I...",
         "pt-BR": "Ah... Vamos então...",
         "es-ES": "Ah... Vamos entonces..."
     },
     "SjgTBw": {
-        "ko-KR": "[반약]\n아, 실례되는 이야기였나요?",
         "en-US": "[Banyak]\nAh, was that an inappropriate thing to say?",
         "pt-BR": "[Banyak]\nOh... Você ficou com medo de mim?",
         "es-ES": "[Banyak]\nOh... \n¿Te asustaste de mí?"
     },
     "SzgTBw": {
-        "ko-KR": "아닙니다.",
         "en-US": "No.",
         "pt-BR": "Não.",
         "es-ES": "No."
     },
     "TDgTBw": {
-        "ko-KR": "[반약]\n정말 말이 잘 통하는 여행자님이군요. 저는 이 친구에게 받아야 할 것을 받아야해서... 잠시후에 뵙도록 하겠습니다.",
         "en-US": "[Banyak]\nYou are truly a traveler I can speak well with. I need to collect what I am owed from this fellow... I will see you again shortly.",
         "pt-BR": "[Banyak]\nVocê não é de falar muito. Preciso me encontrar com um amigo, volto mais tarde.",
         "es-ES": "[Banyak]\nNo eres de hablar mucho. \nNecesito encontrarme con un amigo, vuelvo más tarde."
     },
     "TTgTBw": {
-        "ko-KR": "야엉이",
         "en-US": "Meow!",
         "pt-BR": "Munchkin",
         "es-ES": "Munchkin"
     },
     "TjgTBw": {
-        "ko-KR": "[야엉이]\n야엉~?",
         "en-US": "[Ya-eong-i]\nYa-eong~?",
         "pt-BR": "[Munchkin]\nMiau~?",
         "es-ES": "[Munchkin]\n¿Miau~?"
     },
     "TzgTBw": {
-        "ko-KR": "[야엉이]\n내가 안내를 해줄건데... 내 흔적을 따라오면 되는데...",
         "en-US": "[Ya-eong-i]\nI’ll guide you... Just follow my trail...",
         "pt-BR": "[Munchkin]\nEu vou te guiar... Tudo que você tem que fazer é me seguir...",
         "es-ES": "[Munchkin]\nYo te guiaré... \nTodo lo que tienes que hacer es seguirme..."
     },
     "UDgTBw": {
-        "ko-KR": "꼬맹이가 고양이로 변했다!!",
         "en-US": "The little one turned into a cat!!",
         "pt-BR": "Ela virou um gato!!",
         "es-ES": "¡¡Se convirtió en un gato!!"
     },
     "UTgTBw": {
-        "ko-KR": "[야엉이]\n별로 놀라운게 아닌데... 그냥 따라오면 되는데...",
         "en-US": "[Ya-eong-i]\nIt’s not really anything amazing... You can just follow me...",
         "pt-BR": "[Munchkin]\nNão se assuste... Você só precisa me seguir...",
         "es-ES": "[Munchkin]\nNo te asustes... \nSolo necesitas seguirme..."
     },
     "UjgTBw": {
-        "ko-KR": "[야엉이]\n여기인데. 여기",
         "en-US": "[Ya-eong-i]\nIt's here. Here.",
         "pt-BR": "[Munchkin]\nEstá aqui. Aqui!",
         "es-ES": "[Munchkin]\nEstá aquí. \n¡Aquí!"
     },
     "UzgTBw": {
-        "ko-KR": "[야엉이]\n이 앞을 파면 되는데...",
         "en-US": "[Ya-eong-i]\nWe need to dig up ahead, but...",
         "pt-BR": "[Munchkin]\nVocê pode cavar isso aí na frente...",
         "es-ES": "[Munchkin]\nPuedes cavar eso ahí delante..."
     },
     "VDgTBw": {
-        "ko-KR": "반약이라는 남자와는 무슨관계냐?",
         "en-US": "What is your relationship with the man named Banyak?",
         "pt-BR": "Você conhece aquele homem chamado Banyak?",
         "es-ES": "¿Conoces a ese hombre llamado Banyak?"
     },
     "VTgTBw": {
-        "ko-KR": "[야엉이]\n반약?.. 반약... 남자 아닌데... 여자인데...",
         "en-US": "[Ya-eong-i]\nBanyak?.. Banyak... He’s not a man... He’s a woman...",
         "pt-BR": "[Munchkin]\nO Banyak?... Banyak... Não é homem... É mulher...",
         "es-ES": "[Munchkin]\n¿Banyak?\n... Banyak... \nNo es hombre... \nEs mujer..."
     },
     "VjgTBw": {
-        "ko-KR": "무슨소리야. 아무리봐도 남자인데?",
         "en-US": "What are you talking about? No matter how I look at it, he's a man, right?",
         "pt-BR": "Do que você está falando?",
         "es-ES": "¿De qué estás hablando?"
     },
     "VzgTBw": {
-        "ko-KR": "[야엉이]\n그게... 그게... 남자인데... 하지만 여자인데...",
         "en-US": "[Ya-eong-i]\nTh-That... th-that... He's a man... but she's a woman...",
         "pt-BR": "[Munchkin]\nEr... é um... Homem... mas é uma mulher...",
         "es-ES": "[Munchkin]\nEh... es un... Hombre... pero es una mujer..."
     },
     "WDgTBw": {
-        "ko-KR": "[야엉이]\n내가 죽을뻔 했을때 날 구해준 착한 언니인데... 그래서 은혜를 갚은것 뿐인데...",
         "en-US": "[Ya-eong-i]\nShe’s a kind lady who saved me when I almost died... I was just repaying her kindness...",
         "pt-BR": "[Munchkin]\nEla é uma irmã mais velha que me salvou quando quase morri... Então, eu estou retribuindo o favor...",
         "es-ES": "[Munchkin]\nElla es una hermana mayor que me salvó cuando casi muero... \nEntonces, estoy devolviendo el favor..."
     },
     "WTgTBw": {
-        "ko-KR": "그래, 뭐 헷갈릴 수도 있겠지 그보다도...",
         "en-US": "Yeah, I guess it could be confusing. But more importantly...",
         "pt-BR": "Er... Tá bem confuso...",
         "es-ES": "Eh... Está bien confuso..."
     },
     "WjgTBw": {
-        "ko-KR": "주막 일꾼들이 도둑인가?",
         "en-US": "Are the tavern workers thieves?",
         "pt-BR": "Os funcionários são ladrões?",
         "es-ES": "¿Los empleados son ladrones?"
     },
     "WzgTBw": {
-        "ko-KR": "누가 여기다 봇짐을 파묻은거지?",
         "en-US": "Who buried a bundle here?",
         "pt-BR": "Você enterrou as bolsas aqui?",
         "es-ES": "¿Enterraste las bolsas aquí?"
     },
     "XDgTBw": {
-        "ko-KR": "[야엉이]\n바보 아니면 알수있는데! 주막 일꾼들이 훔친 봇짐을 여기다 묻어둔건데!",
         "en-US": "[Ya-eong-i]\nAnyone but a fool can tell! The tavern workers buried the bundle they stole right here!",
         "pt-BR": "[Munchkin]\nTu é burro ou se faz? Foram os trabalhadores da Pousada que enterraram as bolsas roubadas aqui!",
         "es-ES": "[Munchkin]\n¿Eres tonto o te haces? \n¡Fueron los trabajadores de la Taberna quienes enterraron las bolsas robadas aquí!"
     },
     "XTgTBw": {
-        "ko-KR": "[야엉이]\n그 인간들이 반약 언니를 함정에 빠뜨린건데...",
         "en-US": "[Ya-eong-i]\nThose humans tricked Banyak into a trap...",
         "pt-BR": "[Munchkin]\nEsses humanos armaram pra ela...",
         "es-ES": "[Munchkin]\n¡Esos humanos le tendieron una trampa..."
     },
     "XjgTBw": {
-        "ko-KR": "[야엉이]\n왜 그랬는지는 직접 들어야 할것 같은데... 나도 그 이상은 모르겠는데...",
         "en-US": "[Ya-eong-i]\nI think you should hear why directly... I don't know anything beyond that...",
         "pt-BR": "[Munchkin]\nEu gostaria de saber o motivo... mas não sei...",
         "es-ES": "[Munchkin]\nMe gustaría saber el motivo... pero no sé..."
     },
     "XzgTBw": {
-        "ko-KR": "봇짐",
         "en-US": "Bundle",
         "pt-BR": "Bolsa Enterrada",
         "es-ES": "Bolsa Enterrada"
     },
     "YDgTBw": {
-        "ko-KR": "[반약]\n여기까지 와주시다니. 역시 제가 사람을 제대로 본 모양입니다.",
         "en-US": "[Banyak]\nSo you came all the way here. I knew I had judged you correctly.",
         "pt-BR": "[Banyak]\nAgradeço por ter vindo aqui. Acredito ter visto a pessoa certa.",
         "es-ES": "[Banyak]\nGracias por haber venido aquí. \nCreo haber visto a la persona correcta."
     },
     "YTgTBw": {
-        "ko-KR": "그게 무슨 의미죠?",
         "en-US": "What does that mean?",
         "pt-BR": "O que isso significa?",
         "es-ES": "¿Qué significa eso?"
     },
     "YjgTBw": {
-        "ko-KR": "[반약]\n소녀의 모습으로 변신하는 말하는 고양이를 보셨지요?",
         "en-US": "[Banyak]\nHave you seen the talking cat that transforms into a girl?",
         "pt-BR": "[Banyak]\nVocê já viu o gato falante se transformando em uma menina?",
         "es-ES": "[Banyak]\n¿Ya viste al gato parlante transformándose en una niña?"
     },
     "YzgTBw": {
-        "ko-KR": "그렇습니다만",
         "en-US": "Yes, but...",
         "pt-BR": "Sim, mas...",
         "es-ES": "Sí, pero..."
     },
     "ZDgTBw": {
-        "ko-KR": "[반약]\n저를 따라다니며 유희를 즐기는 영물입니다. 고양이의 모습을 했을땐 일반적인 인간들에게 보이지 않기도 하고요.",
         "en-US": "[Banyak]\nA spirit creature that follows me around and enjoys having fun. When it takes the form of a cat, ordinary people sometimes can’t even see it.",
         "pt-BR": "[Banyak]\nTrata-se de uma alma vagante que me segue e gosta de brincar. Quando se parece com um gato, é invisível para os humanos normais.",
         "es-ES": "[Banyak]\nSe trata de un alma errante que me sigue y le gusta jugar. \nCuando se parece a un gato, es invisible para los humanos normales."
     },
     "ZTgTBw": {
-        "ko-KR": "[반약]\n제 잃어버린 봇짐속의 귀물들을 보고도 마음이 흔들리거나 탐욕에 물들지 않을만한 사람이 필요했습니다.",
         "en-US": "[Banyak]\nI needed someone who would not waver or be tainted by greed, even after seeing the precious items in my lost bundle.",
         "pt-BR": "[Banyak]\nEu precisava de alguém que não tivesse o coração manchado pela ganância, mesmo depois de ver meus tesouros preciosos na minha bolsa.",
         "es-ES": "[Banyak]\nNecesitaba a alguien que no tuviera el corazón manchado por la codicia, incluso después de ver mis tesoros preciosos en mi bolsa."
     },
     "ZjgTBw": {
-        "ko-KR": "[반약]\n그래야 귀물을 다시 되찾을 수 있었을테니까요.",
         "en-US": "[Banyak]\nThat way, you could have reclaimed the precious item.",
         "pt-BR": "[Banyak]\nGraças a você, eu consegui recuperar minhas coisas.",
         "es-ES": "[Banyak]\nGracias a ti, logré recuperar mis cosas."
     },
     "ZzgTBw": {
-        "ko-KR": "물건을 되찾으셨으니 다행이군요",
         "en-US": "I'm glad you got your item back.",
         "pt-BR": "Estou feliz que você conseguiu.",
         "es-ES": "Me alegro de que lo hayas logrado."
     },
     "aDgTBw": {
-        "ko-KR": "그럼 이젠 제 갈길을 가도 되죠?",
         "en-US": "Then I can be on my way now, right?",
         "pt-BR": "Então, posso ir agora?",
         "es-ES": "Entonces, ¿puedo irme ahora?"
     },
     "aTgTBw": {
-        "ko-KR": "[반약]\n잠시만요!",
         "en-US": "[Banyak]\nJust a moment!",
         "pt-BR": "[Banyak]\nEspere!",
         "es-ES": "[Banyak]\n¡Espera!"
     },
     "ajgTBw": {
-        "ko-KR": "[반약]\n여행자님은 제가 오랫동안 찾아다니던 사람입니다. 마음이 굳건하고 탐욕에 물들지 않을 만한...",
         "en-US": "[Banyak]\nYou are the traveler I have been searching for a long time. Someone with a steadfast heart, and not likely to be tainted by greed...",
         "pt-BR": "[Banyak]\nVocê é a pessoa que procuro há muito tempo. Uma pessoa com um coração forte e sem manchas de ganância...",
         "es-ES": "[Banyak]\nEres la persona que busco desde hace mucho tiempo. \nUna persona con un corazón fuerte y sin manchas de codicia..."
     },
     "azgTBw": {
-        "ko-KR": "혹시 제 도움이 더 필요하다는",
         "en-US": "Do you still need my help?",
         "pt-BR": "Feliz que você encontrou.",
         "es-ES": "Me alegro de que hayas encontrado."
     },
     "bDgTBw": {
-        "ko-KR": "그런 이야기는 아니겠지요?",
         "en-US": "That is not what you mean, is it?",
         "pt-BR": "Posso ir agora?",
         "es-ES": "¿Puedo irme ahora?"
     },
     "bTgTBw": {
-        "ko-KR": "[반약]\n염치없지만 저의 오랜 숙원인 초혼대법을 도와주시겠습니까?",
         "en-US": "[Banyak]\nI hate to ask, but would you help me with my long-cherished wish, the Soul-calling Ritual?",
         "pt-BR": "[Banyak]\nVocê poderia me ajudar a realizar um sonho de longa data?",
         "es-ES": "[Banyak]\n¿Podrías ayudarme a realizar un sueño de larga data?"
     },
     "bjgTBw": {
-        "ko-KR": "[반약]\n영혼이 맑은 소울링커... 그러니까 여행자님과 같은 맑은 영혼과 적합한 직업을 가진 사람만이 저를 도울 수 있습니다.",
         "en-US": "[Banyak]\nOnly a Soul Linker with a pure spirit... In other words, only someone like you, traveler, with a pure soul and a suitable job, can help me.",
         "pt-BR": "[Banyak]\nEspiritualistas de alma pura... Apenas pessoas com sua classe e sua alma podem me ajudar.",
         "es-ES": "[Banyak]\nVinculadores de Alma de alma pura... \nSolo personas con tu clase y tu alma pueden ayudarme."
     },
     "bzgTBw": {
-        "ko-KR": "[반약]\n저는 반드시 성공해야할 초혼대법을 앞두고 있습니다. 그건 저 혼자서는 실행 불가능합니다.",
         "en-US": "[Banyak]\nI am about to perform the Soul-calling Ritual that I must succeed in. I cannot carry it out alone.",
         "pt-BR": "[Banyak]\nEstou próximo de iniciar o ritual de necromancia. Fazer isso sozinho é impossível para mim.",
         "es-ES": "[Banyak]\nEstoy cerca de iniciar el ritual de nigromancia. \nHacerlo solo es imposible para mí."
     },
     "cDgTBw": {
-        "ko-KR": "전 그런 의식을 잘 모릅니다만...",
         "en-US": "I do not know much about such rituals, but...",
         "pt-BR": "Não sei do que está falando...",
         "es-ES": "No sé de qué estás hablando..."
     },
     "cTgTBw": {
-        "ko-KR": "[반약]\n저를 도와주신다면 은혜는 잊지 않겠습니다. 물론 여행자님의 영혼이 한단계 높은 곳으로 성장하는 좋은 경험도 되실겁니다.",
         "en-US": "[Banyak]\nIf you help me, I will not forget your kindness. Of course, it will also be a good experience for your soul to grow to a higher level.",
         "pt-BR": "[Banyak]\nSe me ajudar, jamais esquecerei da sua virtude. E será uma ótima experiência para a elevação da sua alma.",
         "es-ES": "[Banyak]\nSi me ayudas, jamás olvidaré tu virtud. \nY será una gran experiencia para la elevación de tu alma."
     },
     "cjgTBw": {
-        "ko-KR": "[반약]\n저를 도와주시겠습니까?",
         "en-US": "[Banyak]\nWill you help me?",
         "pt-BR": "[Banyak]\nVocê gostaria de me ajudar?",
         "es-ES": "[Banyak]\n¿Te gustaría ayudarme?"
     },
     "czgTBw": {
-        "ko-KR": "여기까지 온것...",
         "en-US": "You made it this far...",
         "pt-BR": "Eu já tô aqui né...",
         "es-ES": "Ya estoy aquí, ¿no?"
     },
     "dDgTBw": {
-        "ko-KR": "마지막까지 도와드리죠.",
         "en-US": "I'll help you to the very end.",
         "pt-BR": "Eu aceito.",
         "es-ES": "Acepto."
     },
     "dTgTBw": {
-        "ko-KR": "더 이상은 힘들겠군요",
         "en-US": "I don't think I can go on any longer.",
         "pt-BR": "Não, parece complicado.",
         "es-ES": "No, parece complicado."
     },
     "djgTBw": {
-        "ko-KR": "[반약]\n안타깝군요. 혹시라도 생각이 바뀌시면 다시 저를 찾아와 주십시오.",
         "en-US": "[Banyak]\nThat's unfortunate. If you change your mind, please come see me again.",
         "pt-BR": "[Banyak]\nTudo bem. Se você mudar de ideia, por favor, volte aqui.",
         "es-ES": "[Banyak]\nEstá bien. \nSi cambias de idea, por favor, vuelve aquí."
     },
     "dzgTBw": {
-        "ko-KR": "[반약]\n정말 감사합니다.",
         "en-US": "[Banyak]\nThank you so much.",
         "pt-BR": "[Banyak]\nObrigada.",
         "es-ES": "[Banyak]\nGracias."
     },
     "eDgTBw": {
-        "ko-KR": "준비해야할 물건이 있는데... 이걸 구해와야 하는데...",
         "en-US": "There are some things you need to prepare... You have to go get these...",
         "pt-BR": "Antes de iniciarmos... Tem algo que eu preciso...",
         "es-ES": "Antes de que empecemos... Tengo algo que necesito..."
     },
     "eTgTBw": {
-        "ko-KR": "[야엉이]\n인간... 해줘야할게 있는데... 나는 차마 이 일을 할 수가 없는데...",
         "en-US": "[Ya-eong-i]\nHuman... there is something you must do... but I cannot bring myself to do it...",
         "pt-BR": "[Munchkin]\nHumanoide... Eu preciso fazer algo... Eu não consigo fazer isso nesse corpo...",
         "es-ES": "[Munchkin]\nHumano... \nNecesito hacer algo... \nNo puedo hacerlo en este cuerpo..."
     },
     "ejgTBw": {
-        "ko-KR": "이 친구가 뭐라는겁니까?",
         "en-US": "What is this guy talking about?",
         "pt-BR": "O que ele quer?",
         "es-ES": "¿Qué quiere?"
     },
     "ezgTBw": {
-        "ko-KR": "[반약]\n아... 초혼대법을 시행하기위한 준비물이 약간 필요한데. 야엉이는 그것을 모을 수가 없는 몸입니다.",
         "en-US": "[Banyak]\nAh... I need a few materials to perform the Soul-calling Ritual. But Ya-eong is not in a condition to gather them.",
         "pt-BR": "[Banyak]\nAh... Eu preciso de alguns preparativos para abrir o portal. Munchkin não pode coletá-los.",
         "es-ES": "[Banyak]\nAh... \nNecesito algunos preparativos para abrir el portal. \nMunchkin no puede recolectarlos."
     },
     "fDgTBw": {
-        "ko-KR": "[반약]\n같은 영물의 몸을 취하는게 괴로울겁니다.",
         "en-US": "[Banyak]\nIt must be painful to take on the body of the same spirit creature.",
         "pt-BR": "[Banyak]\nImagine que é difícil para ela batalhar contra essas criaturas.",
         "es-ES": "[Banyak]\nImagina que es difícil para ella luchar contra esas criaturas."
     },
     "fTgTBw": {
-        "ko-KR": "영물의 몸이요?",
         "en-US": "A spirit beast's body?",
         "pt-BR": "Que criaturas?",
         "es-ES": "¿Qué criaturas?"
     },
     "fjgTBw": {
-        "ko-KR": "[반약]\n이곳 페이욘의 깊은 동굴속에서 거주하는 구미호에게서 <ITEM>[여우의꼬리]<INFO>1022</INFO></ITEM>를 잘라와야합니다. 정확히 ^0000FF44개^000000가 필요하지요",
         "en-US": "[Banyak]\nYou must cut <ITEM>[Nine Tails]<INFO>1022</INFO></ITEM> from the Nine Tail that lives deep within the caves of Payon. You will need exactly ^0000FF44^000000 of them.",
         "pt-BR": "[Banyak]\nPreciso de ^0000FF44^000000 <ITEM>[Nove Caudas]<INFO>1022</INFO></ITEM>... coletadas das raposas que vivem na Caverna de Payon.",
         "es-ES": "[Banyak]\nNecesito ^0000FF44^000000 <ITEM>[Nueve Colas]<INFO>1022</INFO></ITEM>... recolectadas de los zorros que viven en la Cueva de Payon."
     },
     "fzgTBw": {
-        "ko-KR": "야어어어엉~~~~~~",
         "en-US": "Heeey~~~~~~",
         "pt-BR": "Ahhhhhhhh~~~",
         "es-ES": "Ahhhhhhhh~~~"
     },
     "gDgTBw": {
-        "ko-KR": "[야엉이]\n야엉이는 절대 그런거 못하는데... 도와 주고 싶지만 못하는데...",
         "en-US": "[Ya-eong-i]\nYa-eong-i could never do something like that... I want to help, but I can't...",
         "pt-BR": "[Munchkin]\nMunchkins não conseguem fazer isso... Eu quero ajudar, mas não posso...",
         "es-ES": "[Munchkin]\nLos Munchkins no pueden hacer eso... \nQuiero ayudar, pero no puedo..."
     },
     "gTgTBw": {
-        "ko-KR": "[반약]\n부탁드립니다 여행자님. 저는 이곳에서 초혼대법의 준비를 하고 있겠습니다. 길 안내는 야엉이가 할 것입니다.",
         "en-US": "[Banyak]\nPlease, traveler. I will stay here and prepare for the Soul-calling Ritual. Yaeeong will guide you on the way.",
         "pt-BR": "[Banyak]\nPor favor, viajante. Estou me preparando para a abertura do portal. A Munchkin guiará o caminho.",
         "es-ES": "[Banyak]\nPor favor, viajero. \nMe estoy preparando para la apertura del portal. \nLa Munchkin guiará el camino."
     },
     "gjgTBw": {
-        "ko-KR": "[반약]\n페이욘 던전 4층 한가운데의 불상에서 야엉이와 만나시면 됩니다.",
         "en-US": "[Banyak]\nYou can meet Ya-eong at the Buddha statue in the middle of the 4th floor of the Payon Dungeon.",
         "pt-BR": "[Banyak]\nVocê pode encontrar Munchkin na estátua de Buda no centro do 4º andar do calabouço de Payon.",
         "es-ES": "[Banyak]\nPuedes encontrar a Munchkin en la estatua de Buda en el centro del 4º piso del calabozo de Payon."
     },
     "gzgTBw": {
-        "ko-KR": "[야엉이]\n<ITEM>[여우의꼬리]<INFO>1022</INFO></ITEM> 44개를 들고오면 되는데... 그럼 내가 동굴 밖으로 보내 줄텐데.",
         "en-US": "[Ya-eong-i]\nIf you bring 44 <ITEM>[Nine Tails]<INFO>1022</INFO></ITEM>... then I’ll send you outside the cave.",
         "pt-BR": "[Munchkin]\nSe você trouxer 44 <ITEM>[Nove Caudas]<INFO>1022</INFO></ITEM>... Te envio para fora da caverna.",
         "es-ES": "[Munchkin]\nSi traes 44 <ITEM>[Nueve Colas]<INFO>1022</INFO></ITEM>... Te enviaré fuera de la cueva."
     },
     "hDgTBw": {
-        "ko-KR": "[야엉이]\n이거면 충분한데... 이제 나가면 되는데...",
         "en-US": "[Ya-eong-i]\nThis should be enough... Now I just need to get out...",
         "pt-BR": "[Munchkin]\nSe você terminou... Podemos ir...",
         "es-ES": "[Munchkin]\nSi terminaste... Podemos ir..."
     },
     "hTgTBw": {
-        "ko-KR": "좀 더 있다 가자",
         "en-US": "Stay a little longer.",
         "pt-BR": "Vamos ficar um pouco mais.",
         "es-ES": "Vamos a quedarnos un poco más."
     },
     "hjgTBw": {
-        "ko-KR": "이걸 받고, 날 내보내줘",
         "en-US": "Take this, and let me out.",
         "pt-BR": "Coletei os itens, me deixe ir.",
         "es-ES": "Recogí los objetos, déjame ir."
     },
     "hzgTBw": {
-        "ko-KR": "[야엉이]\n여기 무서운데... 야엉이는 나가고 싶은데...",
         "en-US": "[Ya-eong]\nIt’s scary here... Ya-eong wants to go out...",
         "pt-BR": "[Munchkin]\nAqui é assustador... Quero sair...",
         "es-ES": "[Munchkin]\nAquí da miedo... \nQuiero salir..."
     },
     "iDgTBw": {
-        "ko-KR": "[야엉이]\n야옹이가 바깥으로 보내줄건데... 내 꼬리를 잘 잡아야 하는데...",
         "en-US": "[Yaongi]\nYaongi will send you outside, but... you have to hold on tight to my tail...",
         "pt-BR": "[Munchkin]\nVamos para fora... Segure meu rabo bem firme...",
         "es-ES": "[Munchkin]\nVamos afuera... \nAgarra mi cola bien fuerte..."
     },
     "iTgTBw": {
-        "ko-KR": "[야엉이]\n들고있던것 어디다 숨겼는데?... 안 보이는데?...",
         "en-US": "[Ya-eong-i]\nWhere did you hide what you were holding...? I can't see it...?",
         "pt-BR": "[Munchkin]\nColetou o quê?... Você não se enganou?...",
         "es-ES": "[Munchkin]\n¿Recogiste qué?... \n¿No te equivocaste?..."
     },
     "ijgTBw": {
-        "ko-KR": "[반약]\n꽤 좋은 일이 생길것같은 날이지요?",
         "en-US": "[Banyak]\nFeels like a pretty good day, doesn't it?",
         "pt-BR": "[Banyak]\nHoje não parece aqueles dias em que algo muito bom vai acontecer?",
         "es-ES": "[Banyak]\n¿Hoy no parece uno de esos días en que algo muy bueno va a pasar?"
     },
     "izgTBw": {
-        "ko-KR": "[반약]\n음. 아직 스킬포인트에 미련을 두고 있으시군요. 남김없이 다 쓰셔야해요.",
         "en-US": "[Banyak]\nHmm. You still seem attached to your skill points. You should use them all up, without leaving any.",
         "pt-BR": "[Banyak]\nHm. Você ainda tem pontos de habilidade sobrando. Você tem que usar todos eles.",
         "es-ES": "[Banyak]\nHm. \nTodavía tienes puntos de habilidad sobrantes. \nTienes que usarlos todos."
     },
     "jDgTBw": {
-        "ko-KR": "[반약]\n뭔가에 올라타고 계시군요. 이 상태로는 금제의 벽을 넘는건 불가능 할 것 같은데요.",
         "en-US": "[Banyak]\nYou're riding on something. In this state, I don't think you'll be able to get past the Wall of Prohibition.",
         "pt-BR": "[Banyak]\nVocê está em cima da montaria. Não dá para continuar.",
         "es-ES": "[Banyak]\nEstás sobre la montura. \nNo se puede continuar."
     },
     "jTgTBw": {
-        "ko-KR": "[반약]\n여우의꼬리는 야엉이를 통해 이미 받았습니다. 지금은 초혼대법의 재료로 정제가 된 상태입니다.",
         "en-US": "[Banyak]\nI already received the Fox Tail through Ya-eong. It has now been refined as a material for the Soul-calling Ritual.",
         "pt-BR": "[Banyak]\nGraças à você e Munchkin, conseguimos caudas de raposa. E já estão purificadas para o nosso ritual.",
         "es-ES": "[Banyak]\nGracias a ti y a Munchkin, conseguimos colas de zorro. \nY ya están purificadas para nuestro ritual."
     },
     "jjgTBw": {
-        "ko-KR": "초혼대법이라는게...",
         "en-US": "Something called Soul-calling Ritual...",
         "pt-BR": "E sobre esse ritual...",
         "es-ES": "Y sobre este ritual..."
     },
     "jzgTBw": {
-        "ko-KR": "어떤 내용의 대법입니까?",
         "en-US": "What kind of great magic is it?",
         "pt-BR": "Como ele é?",
         "es-ES": "¿Cómo es?"
     },
     "kDgTBw": {
-        "ko-KR": "[반약]\n어차피 두번째 도움도 여행자님께 요청하려던 참이었으니 솔직히 털어놔야겠지요.",
         "en-US": "[Banyak]\nI was going to ask you for a second favor anyway, traveler, so I should be honest and tell you everything.",
         "pt-BR": "[Banyak]\nBom, eu já ia te pedir um segundo favor, então é melhor ser honesta.",
         "es-ES": "[Banyak]\nBueno, ya te iba a pedir un segundo favor, así que es mejor ser honesta."
     },
     "kTgTBw": {
-        "ko-KR": "[반약]\n어린 시절 초혼사... 즉 ^FF0088소울리퍼^000000라 불리는 경지에 이르는 고문서를 발견한 저와 제 동생은 시행된 적이 없는 대법을 진행했습니다.",
         "en-US": "[Banyak]\nWhen I was young, my younger sibling and I found an ancient manuscript describing the path of the first calling... in other words, the realm known as ^FF0088Soul Reaper^000000, and we carried out a great ritual that had never been attempted.",
         "pt-BR": "[Banyak]\nQuando éramos crianças, encontramos um livro de ^FF0088Necromancia^000000. Então nós tentamos fazer uma magia que tinha nele.",
         "es-ES": "[Banyak]\nCuando éramos niños, encontramos un libro de ^FF0088Nigromancia^000000. \nEntonces intentamos hacer una magia que había en él."
     },
     "kjgTBw": {
-        "ko-KR": "[반약]\n전도유망한 소울링커의 후기지수였기 때문에 많이 방심했었지요. 그리고 그 대법은 크게 실패했습니다.",
         "en-US": "[Banyak]\nSince you were a promising Soul Linker, I let my guard down. And that great magic ended in a complete failure.",
         "pt-BR": "[Banyak]\nEu era uma Espiritualista muito promissora, mas fui muito descuidada na magia, que acabou sendo um fracasso.",
         "es-ES": "[Banyak]\nYo era una Vinculadora de Alma muy prometedora, pero fui muy descuidada en la magia, que terminó siendo un fracaso."
     },
     "kzgTBw": {
-        "ko-KR": "동생분에게 변고가 생긴거군요.",
         "en-US": "Something has happened to your younger sibling.",
         "pt-BR": "E aconteceu um acidente?",
         "es-ES": "¿Y ocurrió un accidente?"
     },
     "lDgTBw": {
-        "ko-KR": "[반약]\n반쯤은 맞군요.",
         "en-US": "[Banyak]\nYou're half right.",
         "pt-BR": "[Banyak]\nMais ou menos.",
         "es-ES": "[Banyak]\nMás o menos."
     },
     "lTgTBw": {
-        "ko-KR": "[반약]\n동생의 정신과. 제 몸에 큰 문제가 생겨버렸지요.",
         "en-US": "[Banyak]\nMy younger sibling's mind... and my body. Something has gone terribly wrong.",
         "pt-BR": "[Banyak]\nA alma do meu irmão e o meu corpo... aconteceu um acidente.",
         "es-ES": "[Banyak]\nEl alma de mi hermano y mi cuerpo tuvimos un problema."
     },
     "ljgTBw": {
-        "ko-KR": "[반약]\n거대하게 일그러진 기의 폭풍이 저의 육신을 산산조각내고 제 영혼을 동생의 몸에 깃들게 했지요.",
         "en-US": "[Banyak]\nA massive, twisted storm of energy tore my body to pieces and caused my soul to dwell within my younger sibling's body.",
         "pt-BR": "[Banyak]\nUma grande tempestade mágica dilacerou meu corpo e fez minha alma habitar o corpo do meu irmão.",
         "es-ES": "[Banyak]\nUna gran tormenta mágica destrozó mi cuerpo e hizo que mi alma habitara el cuerpo de mi hermano."
     },
     "lzgTBw": {
-        "ko-KR": "[반약]\n지금 서있는 이 몸은 제 동생의 몸입니다. 그리고 동생의 영혼은 제가 깃든 이 정신세계 어딘가에 봉인되어 버렸습니다.",
         "en-US": "[Banyak]\nThis body I stand in now is my younger sibling's. And my sibling's soul has been sealed away somewhere in this spirit world where I reside.",
         "pt-BR": "[Banyak]\nEsse corpo de agora é o do meu irmão. E sua alma está selada em algum lugar nesse mundo espiritual onde moro.",
         "es-ES": "[Banyak]\nEste cuerpo de ahora es el de mi hermano. \nY su alma está sellada en algún lugar de ese mundo espiritual donde vivo."
     },
     "mDgTBw": {
-        "ko-KR": "그런 일이...",
         "en-US": "Such a thing...",
         "pt-BR": "Nossa...",
         "es-ES": "Vaya..."
     },
     "mTgTBw": {
-        "ko-KR": "[반약]\n누이의 영혼이 찢겨나가는것을 막으려고 미련한 동생이 자신을 희생한겁니다.",
         "en-US": "[Banyak]\nTo stop his sister's soul from being torn apart, the foolish younger brother sacrificed himself.",
         "pt-BR": "[Banyak]\nMeu irmão se sacrificou para evitar que a alma de sua irmã fosse dilacerada.",
         "es-ES": "[Banyak]\nMi hermano se sacrificó para evitar que el alma de su hermana fuera destrozada."
     },
     "mjgTBw": {
-        "ko-KR": "[반약]\n여행자님. 저는 이 육체의 정신세계로 들어가지 못합니다. 하지만 고결한 영혼을 가진 여행자님이라면 초혼대법을 이용해 이 육체의 정신세계로 들어설 수 있을겁니다.",
         "en-US": "[Banyak]\nTraveler. I cannot enter this body's spirit world. However, if you are a traveler with a noble soul, you will be able to use Soul-calling Ritual to step into this body's spirit world.",
         "pt-BR": "[Banyak]\nViajante, eu não posso entrar no mundo espiritual com esse corpo. No entanto, se você tem uma alma nobre, você pode entrar usando a Necromancia.",
         "es-ES": "[Banyak]\nViajero, no puedo entrar al mundo espiritual con este cuerpo. \nSin embargo, si tienes un alma noble, puedes entrar usando la Nigromancia."
     },
     "mzgTBw": {
-        "ko-KR": "[반약]\n이 육체속의 어딘가를 방황중일 제 동생의 영혼을 부디... 이 육신으로 되돌려 주십시오. 부탁드립니다.",
         "en-US": "[Banyak]\nPlease... return my younger sibling's soul, which may be wandering somewhere within this body, back to this flesh. I beg you.",
         "pt-BR": "[Banyak]\nA alma do meu irmão está vagando por aí... Por favor, devolva-a para este corpo. Eu te imploro.",
         "es-ES": "[Banyak]\nEl alma de mi hermano está vagando por ahí... \nPor favor, devuélvela a este cuerpo. \nTe lo ruego."
     },
     "nDgTBw": {
-        "ko-KR": "하겠습니다",
         "en-US": "I will do it.",
         "pt-BR": "Farei isso.",
         "es-ES": "Lo haré."
     },
     "nTgTBw": {
-        "ko-KR": "그럼 당신이 죽어요",
         "en-US": "Then you’ll die.",
         "pt-BR": "Mas aí você morre...",
         "es-ES": "Pero entonces tú mueres..."
     },
     "njgTBw": {
-        "ko-KR": "[반약]\n제 동생의 영혼을 살려내기 전에는 저는 살아도 산것이 아니랍니다. 부디 초혼대법을 도와주십시오.",
         "en-US": "[Banyak]\nUntil my younger sibling's soul is brought back, I am not truly living. Please, help me with the Soul-calling Ritual.",
         "pt-BR": "[Banyak]\nSem meu irmão eu não me sinto viva. Por favor, me ajude com a necromancia.",
         "es-ES": "[Banyak]\nSin mi hermano no me siento viva. \nPor favor, ayúdame con la nigromancia."
     },
     "nzgTBw": {
-        "ko-KR": "[반약]\n감사합니다. 곧 초혼대법을 시작할테니 마음의 준비가 끝나시는대로 저에게 다시 말을 걸어주세요.",
         "en-US": "[Banyak]\nThank you. I will begin the Soul-calling Ritual soon, so please speak to me again once you are ready.",
         "pt-BR": "[Banyak]\nObrigada. Vou começar o ritual em breve, então, por favor, fale comigo novamente assim que estiver tudo pronto.",
         "es-ES": "[Banyak]\nGracias. \nVoy a comenzar el ritual pronto, así que, por favor, habla conmigo nuevamente una vez que todo esté listo."
     },
     "oDgTBw": {
-        "ko-KR": "초혼대법",
         "en-US": "Soul-calling Ritual",
         "pt-BR": "Limbo",
         "es-ES": "Limbo"
     },
     "oTgTBw": {
-        "ko-KR": "^FF0000던전 안에서 몬스터 테이밍 등의 임의의 몬스터 처리를 하실 경우 정상적인 진행으로 간주하지 않습니다. 이 점 유의하시기 바랍니다.^000000",
         "en-US": "^FF0000If you handle monsters in any way inside the dungeon, such as taming them, it will not be considered normal progress. Please keep this in mind.^000000",
         "pt-BR": "^FF0000Não domestique monstros dentro de instâncias.^000000",
         "es-ES": "^FF0000No domestiques monstruos dentro de instancias.^000000"
     },
     "ojgTBw": {
-        "ko-KR": "^FF0000초심자 모드에서는 플레이어가 몬스터 형태로 변신합니다. 입장 및 진행시 기존의 변신효과는 사라지는점 유의하십시오. ^000000",
         "en-US": "^FF0000In Beginner Mode, the player transforms into a monster form. Please note that any existing transformation effects will disappear upon entry and during progression. ^000000",
         "pt-BR": "^FF0000Caso faça a domesticação, seu progresso na instância correrá sérios riscos.^000000",
         "es-ES": "^FF0000Si lo haces, tu progreso en la instancia correrá serios riesgos.^000000"
     },
     "ozgTBw": {
-        "ko-KR": "[반약]\n영혼의 입구를 먼저 생성한 뒤 초혼대법을 시작하면 됩니다.",
         "en-US": "[Banyak]\nFirst, create the entrance for the soul, then begin the Soul-calling Ritual.",
         "pt-BR": "[Banyak]\nAbra o portal, entre na fila e aguarde o chamado.",
         "es-ES": "[Banyak]\nPrimero, crea la entrada al alma y luego comenzamos el Ritual de Invocación del Alma."
     },
     "pDgTBw": {
-        "ko-KR": "영혼의 입구 생성",
         "en-US": "Create Soul Entrance",
         "pt-BR": "Abrir o portal",
         "es-ES": "Crear Entrada al Alma"
     },
     "pTgTBw": {
-        "ko-KR": "초혼대법 시작",
         "en-US": "Start Soul-calling Ritual",
         "pt-BR": "Atravessar o portal",
         "es-ES": "Comienza el Ritual de Invocación del Alma."
     },
     "pjgTBw": {
-        "ko-KR": "취소",
         "en-US": "Cancel",
         "pt-BR": "Cancelar",
         "es-ES": "Cancelar"
     },
     "pzgTBw": {
-        "ko-KR": "파티명:{0}\n파티장:{1}\n^0000FF{2} ^000000- 예약실패",
         "en-US": "Party Name: {0}\nParty Leader: {1}\n^0000FF{2} ^000000- Reservation Failed",
         "pt-BR": "Nome do grupo:{0}\nLíder do grupo: {1}\n^0000FF{2} ^000000 - Falha na reserva",
         "es-ES": "Nombre del grupo:{0}\nLíder del grupo: {1}\n^0000FF{2} ^000000 - Fallo en la reserva"
     },
     "qDgTBw": {
-        "ko-KR": "[반약]\n아직 약간의 시간이 더 필요할 것 같군요.",
         "en-US": "[Banyak]\nI think I still need a little more time.",
         "pt-BR": "[Banyak]\nAcho que ainda precisamos de um pouco mais de tempo.",
         "es-ES": "[Banyak]\nCreo que aún necesitamos un poco más de tiempo."
     },
     "qTgTBw": {
-        "ko-KR": "알 수 없는 에러가 발생했습니다.",
         "en-US": "An unknown error has occurred.",
         "pt-BR": "Ocorreu um erro desconhecido.",
         "es-ES": "Ocurrió un error desconocido."
     },
     "qjgTBw": {
-        "ko-KR": "^FF0000아직 영혼의 입구가 생성되지 않은 상태입니다.^000000",
         "en-US": "^FF0000The Entrance of Souls has not been created yet.^000000",
         "pt-BR": "^FF0000A entrada para a instância ainda não foi criada.^000000",
         "es-ES": "^FF0000La entrada a la instancia aún no ha sido creada.^000000"
     },
     "qzgTBw": {
-        "ko-KR": "^FF0000파티 상태가 아니라면 입장할 수 없습니다.^000000",
         "en-US": "^FF0000You cannot enter unless you are in a party.^000000",
         "pt-BR": "^FF0000Você não pode entrar a menos que esteja em um grupo.^000000",
         "es-ES": "^FF0000No puedes entrar a menos que estés en un grupo.^000000"
     },
     "rDgTBw": {
-        "ko-KR": "[반약]\n1인의 파티를 결성하여 파티장이 되셔야 초혼대법을 진행하실 수 있습니다.",
         "en-US": "[Banyak]\nYou must form a 1-person party and become the party leader to proceed with Soul-calling Ritual.",
         "pt-BR": "[Banyak]\nVocê deve ser líder do grupo para reservar a instância.",
         "es-ES": "[Banyak]\nDebes ser líder del grupo para reservar la instancia."
     },
     "rTgTBw": {
-        "ko-KR": "[반약]\n동생의 영혼은...",
         "en-US": "[Banyak]\nMy little brother's soul is...",
         "pt-BR": "[Banyak]\nA alma do meu irmão...",
         "es-ES": "[Banyak]\nEl alma de mi hermano..."
     },
     "rjgTBw": {
-        "ko-KR": "[안에서 있었던 일을 설명한다]",
         "en-US": "[Explain what happened inside.]",
         "pt-BR": "[Descrevi o que aconteceu lá dentro]",
         "es-ES": "[Describí lo que pasó allí dentro]"
     },
     "rzgTBw": {
-        "ko-KR": "[반약]\n그랬군요. 소하다운 결론이네요.",
         "en-US": "[Banyak]\nI see. That’s a very Soha-like conclusion.",
         "pt-BR": "[Banyak]\nEntendo. É um final digno para Soha.",
         "es-ES": "[Banyak]\nEntiendo. \nEs un final digno para Soha."
     },
     "sDgTBw": {
-        "ko-KR": "이제 어떻게 하실겁니까?",
         "en-US": "What will you do now?",
         "pt-BR": "O que você vai fazer agora?",
         "es-ES": "¿Qué vas a hacer ahora?"
     },
     "sTgTBw": {
-        "ko-KR": "[반약]\n동생의 몫까지 치열하게 살아야죠. 해야할 수련의 길도 멀고...",
         "en-US": "[Banyak]\nI have to live fiercely for my younger sibling's share, too. The path of training I must take is still long...",
         "pt-BR": "[Banyak]\nVou viver pela alma do meu irmão. Tenho um longo caminho pela frente...",
         "es-ES": "[Banyak]\nVoy a vivir por el alma de mi hermano. \nTengo un largo camino por delante..."
     },
     "sjgTBw": {
-        "ko-KR": "[반약]\n아 참. 그러고보니 여행자님의 몸에 큰 영력이 깃든게 보이는군요.",
         "en-US": "[Banyak]\nAh, right. Come to think of it, I can see a great spiritual power dwelling within your body.",
         "pt-BR": "[Banyak]\nAh, sim... Percebi que você tem um grande poder espiritual.",
         "es-ES": "[Banyak]\nAh, sí... \nMe di cuenta de que tienes un gran poder espiritual."
     },
     "szgTBw": {
-        "ko-KR": "[반약]\n떠나기전에 여행자님의 영혼에 깃든 금제를 풀어드리는게 저의 보답이 될 것 같아요.",
         "en-US": "[Banyak]\nBefore you leave, I think my way of repaying you will be to lift the golden seal that rests upon your soul.",
         "pt-BR": "[Banyak]\nAntes de partir, gostaria de libertar o poder oculto da sua alma.",
         "es-ES": "[Banyak]\nAntes de irme, me gustaría liberar el poder oculto de tu alma."
     },
     "tDgTBw": {
-        "ko-KR": "금제라니요?",
         "en-US": "A ban, you say?",
         "pt-BR": "Oculto?",
         "es-ES": "¿Oculto?"
     },
     "tTgTBw": {
-        "ko-KR": "[반약]\n이미 수련상태가 한계에 도달하지 않으셨던가요?",
         "en-US": "[Banyak]\nHas your training not already reached its limit?",
         "pt-BR": "[Banyak]\nVocê já não alcançou o máximo de treino como Espiritualista?",
         "es-ES": "[Banyak]\n¿Ya no alcanzaste el máximo de entrenamiento como Vinculador de Alma?"
     },
     "tjgTBw": {
-        "ko-KR": "[반약]\n초혼대법을 겪은뒤로 여행자님은 다음단계로 나아갈만큼의 영적인 성장을 이루었어요. 이제 초혼사로 거듭날 준비가 된겁니다.",
         "en-US": "[Banyak]\nAfter undergoing the Soul-calling Ritual, you have achieved enough spiritual growth to move on to the next step. Now you are ready to be reborn as a Soul Caller.",
         "pt-BR": "[Banyak]\nAssim que entrou no plano espiritual, sua alma cresceu o suficiente para dar o próximo passo. Agora você está prestes a viver uma nova jornada.",
         "es-ES": "[Banyak]\nTan pronto como entraste en el plano espiritual, tu alma creció lo suficiente para dar el siguiente paso. \nAhora estás a punto de vivir una nueva jornada."
     },
     "tzgTBw": {
-        "ko-KR": "[반약]\n영혼을 이어주는 소울링커를 초월하는 능력자. 소울리퍼로 통하는 길을 제가 열어드리겠어요.",
         "en-US": "[Banyak]\nA powerful one who surpasses the Soul Linker who connects souls. I will open the path for you to become a Soul Reaper.",
         "pt-BR": "[Banyak]\nUma nova jornada com a habilidade de se comunicar com as almas. A jornada de um Ceifador de Alma.",
         "es-ES": "[Banyak]\nUna nueva jornada con la habilidad de comunicarte con las almas. \nLa jornada de un Segador de Almas."
     },
     "uDgTBw": {
-        "ko-KR": "[반약]\n잠시 눈을 감고 저의 손에 몸을 맡겨주세요.",
         "en-US": "[Banyak]\nClose your eyes for a moment, and entrust yourself to my hands.",
         "pt-BR": "[Banyak]\nFeche os olhos por um momento e deixe seu corpo em minhas mãos.",
         "es-ES": "[Banyak]\nCierra los ojos por un momento y deja tu cuerpo en mis manos."
     },
     "uTgTBw": {
-        "ko-KR": "^0000FF(알수없는 주문을 외우는 반약)^000000",
         "en-US": "^0000FF(Banyak chants an unknown spell.)^000000",
         "pt-BR": "^0000FF(Feitiços desconhecidos são invocados)^000000",
         "es-ES": "^0000FF(Se invocan hechizos desconocidos)^000000"
     },
     "ujgTBw": {
-        "ko-KR": "[반약]\n금제의 벽이여 이제 무너질지어다.",
         "en-US": "[Banyak]\nWall of gold, crumble now.",
         "pt-BR": "[Banyak]\nPoder oculto, mostre-se agora!",
         "es-ES": "[Banyak]\n¡Poder oculto, muéstrate ahora!"
     },
     "uzgTBw": {
-        "ko-KR": "[반약]\n지금까지의 일에 대한 보답이라기엔 너무나도 미미하지만 작은 성의라고 생각해주세요.",
         "en-US": "[Banyak]\nIt may be far too little to repay you for everything you've done, but please accept it as a small token of my gratitude.",
         "pt-BR": "[Banyak]\nEsse é um pequeno gesto de agradecimento pelo o que você fez, mas foi um gesto sincero.",
         "es-ES": "[Banyak]\nEste es un pequeño gesto de agradecimiento por lo que hiciste, pero fue un gesto sincero."
     },
     "vDgTBw": {
-        "ko-KR": "[반약]\n그럼, 여행자님의 앞길에 만물의 가호가 깃들기를 빌겠습니다.",
         "en-US": "[Banyak]\nThen I pray that the blessing of all things will be upon your path, traveler.",
         "pt-BR": "[Banyak]\nDe agora em diante, nossos caminhos se dividirão, mas tenho certeza que de seremos abençoados pelo dom que nós temos.",
         "es-ES": "[Banyak]\nDe ahora en adelante, nuestros caminos se separarán, pero estoy seguro de que seremos bendecidos por el don que tenemos."

@@ -1,648 +1,540 @@
 {
     "gBcVCA": {
-        "ko-KR": "레드헤드",
         "en-US": "Rubya",
         "pt-BR": "Rúbia",
         "es-ES": "Cabeza Roja"
     },
     "gRcVCA": {
-        "ko-KR": "<드래곤 장비 제작>",
         "en-US": "<Craft Dragon Equipment>",
         "pt-BR": "< Equip. Dracônico >",
         "es-ES": "<Fabricación de equipo de dragón>"
     },
     "ghcVCA": {
-        "ko-KR": "어비스 호수의 물건을 가지고 계시다면 저에게 보여주십시오.",
         "en-US": "If you have items from Abyss Lake, please show them to me.",
         "pt-BR": "Você esteve no Lago do Abismo?",
         "es-ES": "Si tiene objetos del Lago del Abismo, por favor muéstremelos."
     },
     "gxcVCA": {
-        "ko-KR": "소지하고 계신 아이템의 수량이 많아 대화를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
         "en-US": "You cannot continue the conversation because you are carrying too many items.\nPlease organize your items and try again.",
         "pt-BR": "Não posso prosseguir.\nPor favor, reorganize seu inventário e volte aqui.",
         "es-ES": "No se puede continuar la conversación porque llevas demasiados objetos.\nPor favor, organiza tus objetos e inténtalo de nuevo."
     },
     "hBcVCA": {
-        "ko-KR": "[레드헤드]\n당신에게선 심연을 마주한 자들에게서 나는 특유의 냄새가 납니다. 그 오만한 자들이 그곳을 허락했다는 사람이 당신이군요.",
         "en-US": "[Rubya]\nYou carry the distinct scent of those who have faced the abyss. So you are the one those arrogant fools allowed into that place.",
         "pt-BR": "[Rúbia]\nVocê tem o cheiro de quem já esteve no Lago do Abismo. Um lugar que poucos voltaram com vida.",
         "es-ES": "[Cabeza Roja]\nDe usted emana el olor característico de quienes se han enfrentado al abismo. Así que usted es la persona a la que esos arrogantes le permitieron estar allí."
     },
     "hRcVCA": {
-        "ko-KR": "[레드헤드]\n용을 처치하고 얻은 전리품들이 많겠지요? 그것을 가지고 저와 거래를 하는 것은 어떻습니까?",
         "en-US": "[Rubya]\nYou must have many spoils gained from slaying dragons, yes? How about trading them with me?",
         "pt-BR": "[Rúbia]\nVocê deve ter coletado muitos tesouros de lá, não é verdade?",
         "es-ES": "[Cabeza Roja]\nHabrá obtenido muchos trofeos al derrotar dragones, ¿verdad? ¿Qué le parece comerciar conmigo con eso?"
     },
     "hhcVCA": {
-        "ko-KR": "[레드헤드]\n그곳의 물건을 저에게 준다면 강력한 용의 힘이 담긴 갑옷을 제작해 드리겠습니다.",
         "en-US": "[Rubya]\nIf you give me items from that place, I will craft armor imbued with the powerful strength of dragons.",
         "pt-BR": "[Rúbia]\nSe me trouxer itens específicos daquele lugar, posso criar equipamentos com o poder do dragão.",
         "es-ES": "[Cabeza Roja]\nSi me entrega los objetos de ese lugar, le fabricaré una armadura que contiene el poderoso poder de los dragones."
     },
     "hxcVCA": {
-        "ko-KR": "좋습니다!",
         "en-US": "Very well!",
         "pt-BR": "Vamos começar!",
         "es-ES": "¡De acuerdo!"
     },
     "iBcVCA": {
-        "ko-KR": "어떤 것을 만들어 주시나요?",
         "en-US": "What can you make for me?",
         "pt-BR": "O que você cria?",
         "es-ES": "¿Qué puede hacerme?"
     },
     "iRcVCA": {
-        "ko-KR": "무엇이 필요하나요?",
         "en-US": "What do you need?",
         "pt-BR": "Do que você precisa?",
         "es-ES": "¿Qué se necesita?"
     },
     "ihcVCA": {
-        "ko-KR": "관심 없어요.",
         "en-US": "I'm not interested.",
         "pt-BR": "Não tenho interesse.",
         "es-ES": "No me interesa."
     },
     "ixcVCA": {
-        "ko-KR": "[레드헤드]\n잘 생각하셨습니다. 무엇을 만들고 싶으신지요?",
         "en-US": "[Rubya]\nA wise choice. What would you like to have made?",
         "pt-BR": "[Rúbia]\nO que você deseja criar?",
         "es-ES": "[Cabeza Roja]\nHa pensado bien. ¿Qué le gustaría que le hiciera?"
     },
     "jBcVCA": {
-        "ko-KR": "드래곤 플레이트",
         "en-US": "Dragon Armor",
         "pt-BR": "Cota Dracônica",
         "es-ES": "Armadura de Dragón"
     },
     "jRcVCA": {
-        "ko-KR": "드래곤 스케일 후드",
         "en-US": "Dragon Hood",
         "pt-BR": "Capa Dracônica",
         "es-ES": "Capucha de Dragón"
     },
     "jhcVCA": {
-        "ko-KR": "드래곤 스케일 부츠",
         "en-US": "Dragon Boots",
         "pt-BR": "Bota Dracônica",
         "es-ES": "Botas de Dragón"
     },
     "jxcVCA": {
-        "ko-KR": "생각 좀 해볼게요.",
         "en-US": "I'll think about it.",
         "pt-BR": "Vou pensar a respeito.",
         "es-ES": "Lo pensaré un poco."
     },
     "kBcVCA": {
-        "ko-KR": "[레드헤드]\n아쉽군요. 모처럼 만난 사람인데. 하지만 어비스 호수의 물건들을 처분할 일이 생기면 꼭 저에게 오십시오.",
         "en-US": "[Rubya]\nWhat a shame. We have only just met. But if you ever need to get rid of items from Abyss Lake, be sure to come to me.",
         "pt-BR": "[Rúbia]\nTudo bem. Se você encontrar mais itens relacionados ao Lago do Abismo, venha falar comigo.",
         "es-ES": "[Cabeza Roja]\nQué lástima. Es alguien que he conocido por fin. Pero si llega a tener que deshacerse de objetos del Lago del Abismo, venga a verme sin falta."
     },
     "kRcVCA": {
-        "ko-KR": "[레드헤드]\n제작 가능한 장비는 총 3종입니다.",
         "en-US": "[Rubya]\nThere are a total of 3 types of equipment that can be crafted.",
         "pt-BR": "[Rúbia]\nExistem ao todo, 3 tipos de armadura que posso criar.",
         "es-ES": "[Cabeza Roja]\nHay un total de 3 tipos de equipo que se pueden fabricar."
     },
     "khcVCA": {
-        "ko-KR": "[레드헤드]\n먼저 각종 드래곤 플레이트가 있습니다.\n<ITEM>[레드 드래곤 플레이트]<INFO>15391</INFO></ITEM>\n<ITEM>[그린 드래곤 플레이트]<INFO>15392</INFO></ITEM>\n<ITEM>[블루 드래곤 플레이트]<INFO>15395</INFO></ITEM>\n<ITEM>[퍼플 드래곤 플레이트]<INFO>15394</INFO></ITEM>\n<ITEM>[골드 드래곤 플레이트]<INFO>15393</INFO></ITEM>\n<ITEM>[실버 드래곤 플레이트]<INFO>15396</INFO></ITEM>",
         "en-US": "[Rubya]\nFirst, there are various Dragon Armor.\n<ITEM>[Red Dragon Armor]<INFO>15391</INFO></ITEM>\n<ITEM>[Green Dragon Armor]<INFO>15392</INFO></ITEM>\n<ITEM>[Blue Dragon Armor]<INFO>15395</INFO></ITEM>\n<ITEM>[Purple Dragon Armor]<INFO>15394</INFO></ITEM>\n<ITEM>[Gold Dragon Armor]<INFO>15393</INFO></ITEM>\n<ITEM>[Silver Dragon Armor]<INFO>15396</INFO></ITEM>",
         "pt-BR": "[Rúbia]\nPrimeiro, as Cotas Dracônicas.\n<ITEM>[Cota Dracônica Rubra]<INFO>15391</INFO></ITEM>\n<ITEM>[Cota Dracônica Verde]<INFO>15392</INFO></ITEM>\n<ITEM>[Cota Dracônica Azul]<INFO>15395</INFO></ITEM>\n<ITEM>[Cota Dracônica Roxa]<INFO>15394</INFO></ITEM>\n<ITEM>[Cota Dracônica Ouro]<INFO>15393</INFO></ITEM>\n<ITEM>[Cota Dracônica Prata]<INFO>15396</INFO></ITEM>",
         "es-ES": "[Cabeza Roja]\nPrimero, están las distintas Armaduras de Dragón.\n<ITEM>[Armadura de Dragón Roja]<INFO>15391</INFO></ITEM>\n<ITEM>[Armadura de Dragón Verde]<INFO>15392</INFO></ITEM>\n<ITEM>[Armadura de Dragón Azul]<INFO>15395</INFO></ITEM>\n<ITEM>[Armadura de Dragón Púrpura]<INFO>15394</INFO></ITEM>\n<ITEM>[Armadura de Dragón Dorada]<INFO>15393</INFO></ITEM>\n<ITEM>[Armadura de Dragón Plateada]<INFO>15396</INFO></ITEM>"
     },
     "kxcVCA": {
-        "ko-KR": "[레드헤드]\n다음으로는 <ITEM>[드래곤 스케일 후드]<INFO>20946</INFO></ITEM>와 <ITEM>[드래곤 스케일 부츠]<INFO>22208</INFO></ITEM>가 있습니다.",
         "en-US": "[Rubya]\nNext, there are <ITEM>[Dragon Hood]<INFO>20946</INFO></ITEM> and <ITEM>[Dragon Boots]<INFO>22208</INFO></ITEM>.",
         "pt-BR": "[Rúbia]\nDepois, temos a <ITEM>[Capa Dracônica]<INFO>20946</INFO></ITEM>\ne a <ITEM>[Bota Dracônica]<INFO>22208</INFO></ITEM>.",
         "es-ES": "[Cabeza Roja]\nA continuación, están <ITEM>[Capucha de Dragón]<INFO>20946</INFO></ITEM> y <ITEM>[Botas de Dragón]<INFO>22208</INFO></ITEM>."
     },
     "lBcVCA": {
-        "ko-KR": "[레드헤드]\n마음에 드는 장비가 있으시다면 저와 거래해 주십시오.",
         "en-US": "[Rubya]\nIf you see any equipment you like, please trade with me.",
         "pt-BR": "[Rúbia]\nSe você gostou de algum equipamento, fale comigo.",
         "es-ES": "[Cabeza Roja]\nSi hay algún equipo que le guste, comercie conmigo."
     },
     "lRcVCA": {
-        "ko-KR": "[레드헤드]\n드래곤 플레이트를 제작하기 위해서는 다음과 같은 물건들이 필요합니다.",
         "en-US": "[Rubya]\nTo craft a Dragon Armor, you will need the following items.",
         "pt-BR": "[Rúbia]\nPara criar uma Cota Dracônica, você precisará dos seguintes itens.",
         "es-ES": "[Cabeza Roja]\nPara fabricar la Armadura de Dragón, se necesitan los siguientes objetos."
     },
     "lhcVCA": {
-        "ko-KR": "제작을 원하는 드래곤 플레이트의 색상과 같은 색상의 드래곤 오브 50개\n<ITEM>[레드 드래곤 오브]<INFO>25761</INFO></ITEM>\n<ITEM>[그린 드래곤 오브]<INFO>25759</INFO></ITEM>\n<ITEM>[블루 드래곤 오브]<INFO>25760</INFO></ITEM>\n<ITEM>[퍼플 드래곤 오브]<INFO>25763</INFO></ITEM>\n<ITEM>[골드 드래곤 오브]<INFO>25762</INFO></ITEM>\n<ITEM>[실버 드래곤 오브]<INFO>25764</INFO></ITEM>",
         "en-US": "50 Dragon Orb of the same color as the Dragon Armor you wish to craft\n<ITEM>[Red Dragon Orb]<INFO>25761</INFO></ITEM>\n<ITEM>[Green Dragon Orb]<INFO>25759</INFO></ITEM>\n<ITEM>[Blue Dragon Orb]<INFO>25760</INFO></ITEM>\n<ITEM>[Purple Dragon Orb]<INFO>25763</INFO></ITEM>\n<ITEM>[Gold Dragon Orb]<INFO>25762</INFO></ITEM>\n<ITEM>[Silver Dragon Orb]<INFO>25764</INFO></ITEM>",
         "pt-BR": "50 Esferas Dracônicas na cor da Cota que você deseja criar\n<ITEM>[Esfera Dracônica Rubra]<INFO>25761</INFO></ITEM>\n<ITEM>[Esfera Dracônica Verde]<INFO>25759</INFO></ITEM>\n<ITEM>[Esfera Dracônica Azul]<INFO>25760</INFO></ITEM>\n<ITEM>[Esfera Dracônica Roxa]<INFO>25763</INFO></ITEM>\n<ITEM>[Esfera Dracônica Ouro]<INFO>25762</INFO></ITEM>\n<ITEM>[Esfera Dracônica Prata]<INFO>25764</INFO></ITEM>",
         "es-ES": "50 Orbes del Dragón del mismo color que la Armadura que desea fabricar\n<ITEM>[Orbe del Dragón Rojo]<INFO>25761</INFO></ITEM>\n<ITEM>[Orbe del Dragón Verde]<INFO>25759</INFO></ITEM>\n<ITEM>[Orbe del Dragón Azul]<INFO>25760</INFO></ITEM>\n<ITEM>[Orbe del Dragón Púrpura]<INFO>25763</INFO></ITEM>\n<ITEM>[Orbe del Dragón Dorado]<INFO>25762</INFO></ITEM>\n<ITEM>[Orbe del Dragón Plateado]<INFO>25764</INFO></ITEM>"
     },
     "lxcVCA": {
-        "ko-KR": "<ITEM>[커다란 용의 뼈]<INFO>25765</INFO></ITEM> 3개\n<ITEM>[작은 용의 뼈]<INFO>25766</INFO></ITEM> 15개\n<ITEM>[드래곤의 이빨]<INFO>1035</INFO></ITEM> 75개\n<ITEM>[드래곤의 비늘]<INFO>1036</INFO></ITEM> 100개\n<ITEM>[드래곤의 꼬리]<INFO>1037</INFO></ITEM> 50개\n<ITEM>[드래곤의 껍질]<INFO>7123</INFO></ITEM> 100개\n<ITEM>[녹색의 보주]<INFO>7445</INFO></ITEM> 35개\n<ITEM>[청색의 보주]<INFO>7446</INFO></ITEM> 35개\n<ITEM>[홍색의 보주]<INFO>7447</INFO></ITEM> 35개\n<ITEM>[황색의 보주]<INFO>7448</INFO></ITEM> 35개",
         "en-US": "<ITEM>[Large Dragon Bone]<INFO>25765</INFO></ITEM> 3\n<ITEM>[Small Dragon Bone]<INFO>25766</INFO></ITEM> 15\n<ITEM>[Dragon Canine]<INFO>1035</INFO></ITEM> 75\n<ITEM>[Dragon Scale]<INFO>1036</INFO></ITEM> 100\n<ITEM>[Dragon Tail]<INFO>1037</INFO></ITEM> 50\n<ITEM>[Dragon Skin]<INFO>7123</INFO></ITEM> 100\n<ITEM>[Green Bijou]<INFO>7445</INFO></ITEM> 35\n<ITEM>[Blue Bijou]<INFO>7446</INFO></ITEM> 35\n<ITEM>[Red Bijou]<INFO>7447</INFO></ITEM> 35\n<ITEM>[Yellow Bijou]<INFO>7448</INFO></ITEM> 35",
         "pt-BR": "3x <ITEM>[Crânio de Dragão]<INFO>25765</INFO></ITEM> \n15x <ITEM>[Osso de Dragão]<INFO>25766</INFO></ITEM> \n75x <ITEM>[Canino de Dragão]<INFO>1035</INFO></ITEM> \n100x <ITEM>[Escama de Dragão]<INFO>1036</INFO></ITEM> \n50x <ITEM>[Cauda de Dragão]<INFO>1037</INFO></ITEM> \n100x <ITEM>[Pele de Dragão]<INFO>7123</INFO></ITEM> \n35x <ITEM>[Bijuteria Verde]<INFO>7445</INFO></ITEM> \n35x <ITEM>[Bijuteria Azul]<INFO>7446</INFO></ITEM> \n35x <ITEM>[Bijuteria Vermelha]<INFO>7447</INFO></ITEM> \n35x <ITEM>[Bijuteria Amarela]<INFO>7448</INFO></ITEM>",
         "es-ES": "<ITEM>[Hueso Grande de Dragón]<INFO>25765</INFO></ITEM> 3\n<ITEM>[Hueso Pequeño de Dragón]<INFO>25766</INFO></ITEM> 15\n<ITEM>[Colmillo de Dragón]<INFO>1035</INFO></ITEM> 75\n<ITEM>[Escama de Dragón]<INFO>1036</INFO></ITEM> 100\n<ITEM>[Cola de Dragón]<INFO>1037</INFO></ITEM> 50\n<ITEM>[Piel de Dragón]<INFO>7123</INFO></ITEM> 100\n<ITEM>[Bijou verde]<INFO>7445</INFO></ITEM> 35\n<ITEM>[Bijou azul]<INFO>7446</INFO></ITEM> 35\n<ITEM>[Bijou roja]<INFO>7447</INFO></ITEM> 35\n<ITEM>[Bijou amarilla]<INFO>7448</INFO></ITEM> 35"
     },
     "mBcVCA": {
-        "ko-KR": "[레드헤드]\n드래곤 스케일 후드를 제작하기 위해서는 다음과 같은 물건들이 필요합니다.",
         "en-US": "[Rubya]\nTo craft Dragon Hood, you will need the following items.",
         "pt-BR": "[Rúbia]\nPara criar uma Capa Dracônica, você precisará dos seguintes itens.",
         "es-ES": "[Cabeza Roja]\nPara fabricar Capucha de Dragón, se necesitan los siguientes objetos."
     },
     "mRcVCA": {
-        "ko-KR": "<ITEM>[커다란 용의 뼈]<INFO>25765</INFO></ITEM> 2개\n<ITEM>[작은 용의 뼈]<INFO>25766</INFO></ITEM> 6개\n<ITEM>[드래곤의 이빨]<INFO>1035</INFO></ITEM> 15개\n<ITEM>[드래곤의 비늘]<INFO>1036</INFO></ITEM> 75개\n<ITEM>[드래곤의 꼬리]<INFO>1037</INFO></ITEM> 15개\n<ITEM>[드래곤의 껍질]<INFO>7123</INFO></ITEM> 75개\n<ITEM>[녹색의 보주]<INFO>7445</INFO></ITEM> 25개\n<ITEM>[청색의 보주]<INFO>7446</INFO></ITEM> 25개\n<ITEM>[홍색의 보주]<INFO>7447</INFO></ITEM> 25개\n<ITEM>[황색의 보주]<INFO>7448</INFO></ITEM> 25개",
         "en-US": "<ITEM>[Large Dragon Bone]<INFO>25765</INFO></ITEM> 2\n<ITEM>[Small Dragon Bone]<INFO>25766</INFO></ITEM> 6\n<ITEM>[Dragon Canine]<INFO>1035</INFO></ITEM> 15\n<ITEM>[Dragon Scale]<INFO>1036</INFO></ITEM> 75\n<ITEM>[Dragon Tail]<INFO>1037</INFO></ITEM> 15\n<ITEM>[Dragon Skin]<INFO>7123</INFO></ITEM> 75\n<ITEM>[Green Bijou]<INFO>7445</INFO></ITEM> 25\n<ITEM>[Blue Bijou]<INFO>7446</INFO></ITEM> 25\n<ITEM>[Red Bijou]<INFO>7447</INFO></ITEM> 25\n<ITEM>[Yellow Bijou]<INFO>7448</INFO></ITEM> 25",
         "pt-BR": "2x <ITEM>[Crânio de Dragão]<INFO>25765</INFO></ITEM> \n6x <ITEM>[Osso de Dragão]<INFO>25766</INFO></ITEM> \n15x <ITEM>[Canino de Dragão]<INFO>1035</INFO></ITEM> \n75x <ITEM>[Escama de Dragão]<INFO>1036</INFO></ITEM> \n15x <ITEM>[Cauda de Dragão]<INFO>1037</INFO></ITEM> \n75x <ITEM>[Pele de Dragão]<INFO>7123</INFO></ITEM> \n25x <ITEM>[Bijuteria Verde]<INFO>7445</INFO></ITEM> \n25x <ITEM>[Bijuteria Azul]<INFO>7446</INFO></ITEM> \n25x <ITEM>[Bijuteria Vermelha]<INFO>7447</INFO></ITEM> \n25x <ITEM>[Bijuteria Amarela]<INFO>7448</INFO></ITEM>",
         "es-ES": "<ITEM>[Hueso Grande de Dragón]<INFO>25765</INFO></ITEM> 2\n<ITEM>[Hueso Pequeño de Dragón]<INFO>25766</INFO></ITEM> 6\n<ITEM>[Colmillo de Dragón]<INFO>1035</INFO></ITEM> 15\n<ITEM>[Escama de Dragón]<INFO>1036</INFO></ITEM> 75\n<ITEM>[Cola de Dragón]<INFO>1037</INFO></ITEM> 15\n<ITEM>[Piel de Dragón]<INFO>7123</INFO></ITEM> 75\n<ITEM>[Bijou verde]<INFO>7445</INFO></ITEM> 25\n<ITEM>[Bijou azul]<INFO>7446</INFO></ITEM> 25\n<ITEM>[Bijou roja]<INFO>7447</INFO></ITEM> 25\n<ITEM>[Bijou amarilla]<INFO>7448</INFO></ITEM> 25"
     },
     "mhcVCA": {
-        "ko-KR": "[레드헤드]\n드래곤 스케일 부츠를 제작하기 위해서는 다음과 같은 물건들이 필요합니다.",
         "en-US": "[Rubya]\nTo craft Dragon Boots, you will need the following items.",
         "pt-BR": "[Rúbia]\nPara criar uma Bota Dracônica, você precisará dos seguintes itens.",
         "es-ES": "[Cabeza Roja]\nPara fabricar Botas de Dragón, se necesitan los siguientes objetos."
     },
     "mxcVCA": {
-        "ko-KR": "<ITEM>[커다란 용의 뼈]<INFO>25765</INFO></ITEM> 1개\n<ITEM>[작은 용의 뼈]<INFO>25766</INFO></ITEM> 8개\n<ITEM>[드래곤의 이빨]<INFO>1035</INFO></ITEM> 30개\n<ITEM>[드래곤의 비늘]<INFO>1036</INFO></ITEM> 60개\n<ITEM>[드래곤의 꼬리]<INFO>1037</INFO></ITEM> 40개\n<ITEM>[드래곤의 껍질]<INFO>7123</INFO></ITEM> 60개\n<ITEM>[녹색의 보주]<INFO>7445</INFO></ITEM> 25개\n<ITEM>[청색의 보주]<INFO>7446</INFO></ITEM> 25개\n<ITEM>[홍색의 보주]<INFO>7447</INFO></ITEM> 25개\n<ITEM>[황색의 보주]<INFO>7448</INFO></ITEM> 25개",
         "en-US": "<ITEM>[Large Dragon Bone]<INFO>25765</INFO></ITEM> 1\n<ITEM>[Small Dragon Bone]<INFO>25766</INFO></ITEM> 8\n<ITEM>[Dragon Canine]<INFO>1035</INFO></ITEM> 30\n<ITEM>[Dragon Scale]<INFO>1036</INFO></ITEM> 60\n<ITEM>[Dragon Tail]<INFO>1037</INFO></ITEM> 40\n<ITEM>[Dragon Skin]<INFO>7123</INFO></ITEM> 60\n<ITEM>[Green Bijou]<INFO>7445</INFO></ITEM> 25\n<ITEM>[Blue Bijou]<INFO>7446</INFO></ITEM> 25\n<ITEM>[Red Bijou]<INFO>7447</INFO></ITEM> 25\n<ITEM>[Yellow Bijou]<INFO>7448</INFO></ITEM> 25",
         "pt-BR": "1x <ITEM>[Crânio de Dragão]<INFO>25765</INFO></ITEM> \n8x <ITEM>[Osso de Dragão]<INFO>25766</INFO></ITEM> \n30x <ITEM>[Canino de Dragão]<INFO>1035</INFO></ITEM> \n60x <ITEM>[Escama de Dragão]<INFO>1036</INFO></ITEM> \n40x <ITEM>[Cauda de Dragão]<INFO>1037</INFO></ITEM> \n60x <ITEM>[Pele de Dragão]<INFO>7123</INFO></ITEM> \n25x <ITEM>[Bijuteria Verde]<INFO>7445</INFO></ITEM> \n25x <ITEM>[Bijuteria Azul]<INFO>7446</INFO></ITEM> \n25x <ITEM>[Bijuteria Vermelha]<INFO>7447</INFO></ITEM> \n25x <ITEM>[Bijuteria Amarela]<INFO>7448</INFO></ITEM>",
         "es-ES": "<ITEM>[Hueso Grande de Dragón]<INFO>25765</INFO></ITEM> 1\n<ITEM>[Hueso Pequeño de Dragón]<INFO>25766</INFO></ITEM> 8\n<ITEM>[Colmillo de Dragón]<INFO>1035</INFO></ITEM> 30\n<ITEM>[Escama de Dragón]<INFO>1036</INFO></ITEM> 60\n<ITEM>[Cola de Dragón]<INFO>1037</INFO></ITEM> 40\n<ITEM>[Piel de Dragón]<INFO>7123</INFO></ITEM> 60\n<ITEM>[Bijou verde]<INFO>7445</INFO></ITEM> 25\n<ITEM>[Bijou azul]<INFO>7446</INFO></ITEM> 25\n<ITEM>[Bijou roja]<INFO>7447</INFO></ITEM> 25\n<ITEM>[Bijou amarilla]<INFO>7448</INFO></ITEM> 25"
     },
     "nBcVCA": {
-        "ko-KR": "[레드헤드]\n어비스 호수에 가실 거라면, 전리품을 챙겨 저와 거래해 주십시오.",
         "en-US": "[Rubya]\nIf you are heading to Abyss Lake, bring back any spoils and trade with me.",
         "pt-BR": "[Rúbia]\nSe você for ao Lago do Abismo e coletar esses itens, traga-os para mim.",
         "es-ES": "[Cabeza Roja]\nSi va al Lago del Abismo, reúna el botín y comercie conmigo."
     },
     "nRcVCA": {
-        "ko-KR": "[레드헤드]\n드래곤 플레이트를 만들고자 하시는군요. 그렇다면 어떤색의 드래곤 플레이트를 만들고 싶습니까?\n<ITEM>[레드 드래곤 플레이트]<INFO>15391</INFO></ITEM>\n<ITEM>[그린 드래곤 플레이트]<INFO>15392</INFO></ITEM>\n<ITEM>[블루 드래곤 플레이트]<INFO>15395</INFO></ITEM>\n<ITEM>[퍼플 드래곤 플레이트]<INFO>15394</INFO></ITEM>\n<ITEM>[골드 드래곤 플레이트]<INFO>15393</INFO></ITEM>\n<ITEM>[실버 드래곤 플레이트]<INFO>15396</INFO></ITEM>",
         "en-US": "[Rubya]\nSo you wish to make a Dragon Armor. Then, what color of Dragon Armor would you like to make?\n<ITEM>[Red Dragon Armor]<INFO>15391</INFO></ITEM>\n<ITEM>[Green Dragon Armor]<INFO>15392</INFO></ITEM>\n<ITEM>[Blue Dragon Armor]<INFO>15395</INFO></ITEM>\n<ITEM>[Purple Dragon Armor]<INFO>15394</INFO></ITEM>\n<ITEM>[Gold Dragon Armor]<INFO>15393</INFO></ITEM>\n<ITEM>[Silver Dragon Armor]<INFO>15396</INFO></ITEM>",
         "pt-BR": "[Rúbia]\nSe você quer fazer uma Cota Dracônica, qual seria a cor da armadura?\n<ITEM>[Cota Dracônica Rubra]<INFO>15391</INFO></ITEM>\n<ITEM>[Cota Dracônica Verde]<INFO>15392</INFO></ITEM>\n<ITEM>[Cota Dracônica Azul]<INFO>15395</INFO></ITEM>\n<ITEM>[Cota Dracônica Roxa]<INFO>15394</INFO></ITEM>\n<ITEM>[Cota Dracônica Ouro]<INFO>15393</INFO></ITEM>\n<ITEM>[Cota Dracônica Prata]<INFO>15396</INFO></ITEM>",
         "es-ES": "[Cabeza Roja]\nQuiere fabricar una Armadura de Dragón. ¿De qué color quiere hacerla?\n<ITEM>[Placa del Dragón Roja]<INFO>15391</INFO></ITEM>\n<ITEM>[Placa del Dragón Verde]<INFO>15392</INFO></ITEM>\n<ITEM>[Placa del Dragón Azul]<INFO>15395</INFO></ITEM>\n<ITEM>[Placa del Dragón Púrpura]<INFO>15394</INFO></ITEM>\n<ITEM>[Placa del Dragón Dorado]<INFO>15393</INFO></ITEM>\n<ITEM>[Placa del Dragón Plateado]<INFO>15396</INFO></ITEM>"
     },
     "nhcVCA": {
-        "ko-KR": "레드 드래곤 플레이트",
         "en-US": "Red Dragon Armor",
         "pt-BR": "Cota Dracônica Rubra",
         "es-ES": "Armadura de Dragón Roja"
     },
     "nxcVCA": {
-        "ko-KR": "그린 드래곤 플레이트",
         "en-US": "Green Dragon Armor",
         "pt-BR": "Cota Dracônica Verde",
         "es-ES": "Armadura de Dragón Verde"
     },
     "oBcVCA": {
-        "ko-KR": "블루 드래곤 플레이트",
         "en-US": "Blue Dragon Armor",
         "pt-BR": "Cota Dracônica Azul",
         "es-ES": "Armadura de Dragón Azul"
     },
     "oRcVCA": {
-        "ko-KR": "퍼플 드래곤 플레이트",
         "en-US": "Purple Dragon Armor",
         "pt-BR": "Cota Dracônica Roxa",
         "es-ES": "Armadura de Dragón Púrpura"
     },
     "ohcVCA": {
-        "ko-KR": "골드 드래곤 플레이트",
         "en-US": "Gold Dragon Armor",
         "pt-BR": "Cota Dracônica Ouro",
         "es-ES": "Armadura de Dragón Dorada"
     },
     "oxcVCA": {
-        "ko-KR": "실버 드래곤 플레이트",
         "en-US": "Silver Dragon Armor",
         "pt-BR": "Cota Dracônica Prata",
         "es-ES": "Armadura de Dragón Plateada"
     },
     "pBcVCA": {
-        "ko-KR": "고민 좀 해보고요.",
         "en-US": "Let me think about it.",
         "pt-BR": "Vou pensar um pouco mais.",
         "es-ES": "Lo pensaré un poco."
     },
     "pRcVCA": {
-        "ko-KR": "<ITEM>[레드 드래곤 플레이트]<INFO>15391</INFO></ITEM>",
         "en-US": "<ITEM>[Red Dragon Armor]<INFO>15391</INFO></ITEM>",
         "pt-BR": "<ITEM>[Cota Dracônica Rubra]<INFO>15391</INFO></ITEM>",
         "es-ES": "<ITEM>[Armadura de Dragón Roja]<INFO>15391</INFO></ITEM>"
     },
     "phcVCA": {
-        "ko-KR": "<ITEM>[레드 드래곤 오브]<INFO>25761</INFO></ITEM>",
         "en-US": "<ITEM>[Red Dragon Orb]<INFO>25761</INFO></ITEM>",
         "pt-BR": "<ITEM>[Esfera Dracônica Rubra]<INFO>25761</INFO></ITEM>",
         "es-ES": "<ITEM>[Orbe del Dragón Rojo]<INFO>25761</INFO></ITEM>"
     },
     "pxcVCA": {
-        "ko-KR": "<ITEM>[그린 드래곤 플레이트]<INFO>15392</INFO></ITEM>",
         "en-US": "<ITEM>[Green Dragon Armor]<INFO>15392</INFO></ITEM>",
         "pt-BR": "<ITEM>[Cota Dracônica Verde]<INFO>15392</INFO></ITEM>",
         "es-ES": "<ITEM>[Armadura de Dragón Verde]<INFO>15392</INFO></ITEM>"
     },
     "qBcVCA": {
-        "ko-KR": "<ITEM>[그린 드래곤 오브]<INFO>25759</INFO></ITEM>",
         "en-US": "<ITEM>[Green Dragon Orb]<INFO>25759</INFO></ITEM>",
         "pt-BR": "<ITEM>[Esfera Dracônica Verde]<INFO>25759</INFO></ITEM>",
         "es-ES": "<ITEM>[Orbe del Dragón Verde]<INFO>25759</INFO></ITEM>"
     },
     "qRcVCA": {
-        "ko-KR": "<ITEM>[블루 드래곤 플레이트]<INFO>15395</INFO></ITEM>",
         "en-US": "<ITEM>[Blue Dragon Armor]<INFO>15395</INFO></ITEM>",
         "pt-BR": "<ITEM>[Cota Dracônica Azul]<INFO>15395</INFO></ITEM>",
         "es-ES": "<ITEM>[Armadura de Dragón Azul]<INFO>15395</INFO></ITEM>"
     },
     "qhcVCA": {
-        "ko-KR": "<ITEM>[블루 드래곤 오브]<INFO>25760</INFO></ITEM>",
         "en-US": "<ITEM>[Blue Dragon Orb]<INFO>25760</INFO></ITEM>",
         "pt-BR": "<ITEM>[Esfera Dracônica Azul]<INFO>25760</INFO></ITEM>",
         "es-ES": "<ITEM>[Orbe del Dragón Azul]<INFO>25760</INFO></ITEM>"
     },
     "qxcVCA": {
-        "ko-KR": "<ITEM>[퍼플 드래곤 플레이트]<INFO>15394</INFO></ITEM>",
         "en-US": "<ITEM>[Purple Dragon Armor]<INFO>15394</INFO></ITEM>",
         "pt-BR": "<ITEM>[Cota Dracônica Roxa]<INFO>15394</INFO></ITEM>",
         "es-ES": "<ITEM>[Armadura de Dragón Púrpura]<INFO>15394</INFO></ITEM>"
     },
     "rBcVCA": {
-        "ko-KR": "<ITEM>[퍼플 드래곤 오브]<INFO>25763</INFO></ITEM>",
         "en-US": "<ITEM>[Purple Dragon Orb]<INFO>25763</INFO></ITEM>",
         "pt-BR": "<ITEM>[Esfera Dracônica Roxa]<INFO>25763</INFO></ITEM>",
         "es-ES": "<ITEM>[Orbe del Dragón Púrpura]<INFO>25763</INFO></ITEM>"
     },
     "rRcVCA": {
-        "ko-KR": "<ITEM>[골드 드래곤 플레이트]<INFO>15393</INFO></ITEM>",
         "en-US": "<ITEM>[Gold Dragon Armor]<INFO>15393</INFO></ITEM>",
         "pt-BR": "<ITEM>[Cota Dracônica Ouro]<INFO>15393</INFO></ITEM>",
         "es-ES": "<ITEM>[Armadura de Dragón Dorada]<INFO>15393</INFO></ITEM>"
     },
     "rhcVCA": {
-        "ko-KR": "<ITEM>[골드 드래곤 오브]<INFO>25762</INFO></ITEM>",
         "en-US": "<ITEM>[Gold Dragon Orb]<INFO>25762</INFO></ITEM>",
         "pt-BR": "<ITEM>[Esfera Dracônica Ouro]<INFO>25762</INFO></ITEM>",
         "es-ES": "<ITEM>[Orbe del Dragón Dorado]<INFO>25762</INFO></ITEM>"
     },
     "rxcVCA": {
-        "ko-KR": "<ITEM>[실버 드래곤 플레이트]<INFO>15396</INFO></ITEM>",
         "en-US": "<ITEM>[Silver Dragon Armor]<INFO>15396</INFO></ITEM>",
         "pt-BR": "<ITEM>[Cota Dracônica Prata]<INFO>15396</INFO></ITEM>",
         "es-ES": "<ITEM>[Armadura de Dragón Plateada]<INFO>15396</INFO></ITEM>"
     },
     "sBcVCA": {
-        "ko-KR": "<ITEM>[실버 드래곤 오브]<INFO>25764</INFO></ITEM>",
         "en-US": "<ITEM>[Silver Dragon Orb]<INFO>25764</INFO></ITEM>",
         "pt-BR": "<ITEM>[Esfera Dracônica Prata]<INFO>25764</INFO></ITEM>",
         "es-ES": "<ITEM>[Orbe del Dragón Plateado]<INFO>25764</INFO></ITEM>"
     },
     "sRcVCA": {
-        "ko-KR": "[레드헤드]\n신중한 성격을 가지셨군요. 충분히 고민해 보시고, 어비스 호수의 물건들을 처분할 일이 생기면 꼭 저에게 오십시오.",
         "en-US": "[Rubya]\nYou have a cautious nature. Think it over carefully, and if you ever need to get rid of items from Abyss Lake, be sure to come to me.",
         "pt-BR": "[Rúbia]\nVocê pensa bastante. É melhor vir aqui quando tiver uma decisão tomada.",
         "es-ES": "[Cabeza Roja]\nTiene una personalidad prudente. Piénselo bien y, si llega el momento de deshacerse de los objetos del Lago del Abismo, venga a verme sin falta."
     },
     "shcVCA": {
-        "ko-KR": "[레드헤드]\n잠시 소지하고 계신 전리품을 확인해보겠습니다.",
         "en-US": "[Rubya]\nLet me check the spoils you are carrying for a moment.",
         "pt-BR": "[Rúbia]\nMe dê um momento. Preciso conferir seus materiais.",
         "es-ES": "[Cabeza Roja]\nVoy a revisar por un momento el botín que lleva consigo."
     },
     "sxcVCA": {
-        "ko-KR": "[레드헤드]\n드래곤 스케일 후드를 만들고자 하시는군요. 잠시 소지하고 계신 전리품을 확인해보겠습니다.",
         "en-US": "[Rubya]\nSo you wish to make Dragon Hood. Let me check the spoils you are carrying for a moment.",
         "pt-BR": "[Rúbia]\nCapa Dracônica, certo? Ótima escolha. Me dê um momento. Preciso conferir seus materiais.",
         "es-ES": "[Cabeza Roja]\nQuiere fabricar Capucha de Escama de Dragón. Voy a revisar por un momento el botín que lleva consigo."
     },
     "tBcVCA": {
-        "ko-KR": "<ITEM>[드래곤 스케일 후드]<INFO>20946</INFO></ITEM>",
         "en-US": "<ITEM>[Dragon Hood]<INFO>20946</INFO></ITEM>",
         "pt-BR": "<ITEM>[Capa Dracônica]<INFO>20946</INFO></ITEM>",
         "es-ES": "<ITEM>[Capucha de Dragón]<INFO>20946</INFO></ITEM>"
     },
     "tRcVCA": {
-        "ko-KR": "[레드헤드]\n드래곤 스케일 부츠를 만들고자 하시는군요. 잠시 소지하고 계신 전리품을 확인해보겠습니다.",
         "en-US": "[Rubya]\nSo you wish to make Dragon Boots. Let me check the spoils you are carrying for a moment.",
         "pt-BR": "[Rúbia]\nBota Dracônica, certo? Ótima escolha. Me dê um momento. Preciso conferir seus materiais.",
         "es-ES": "[Cabeza Roja]\nQuiere fabricar Botas de Escama de Dragón. Voy a revisar por un momento el botín que lleva consigo."
     },
     "thcVCA": {
-        "ko-KR": "<ITEM>[드래곤 스케일 부츠]<INFO>22208</INFO></ITEM>",
         "en-US": "<ITEM>[Dragon Boots]<INFO>22208</INFO></ITEM>",
         "pt-BR": "<ITEM>[Bota Dracônica]<INFO>22208</INFO></ITEM>",
         "es-ES": "<ITEM>[Botas de Dragón]<INFO>22208</INFO></ITEM>"
     },
     "txcVCA": {
-        "ko-KR": "[레드헤드]\n그렇지만 {0}를 제작하기 위한 전리품이 부족합니다.",
         "en-US": "[Rubya]\nHowever, you do not have enough spoils to craft {0}.",
         "pt-BR": "[Rúbia]\nVocê não tem materiais suficiente para criar uma {0}.",
         "es-ES": "[Cabeza Roja]\nSin embargo, no tiene suficiente botín para fabricar {0}."
     },
     "uBcVCA": {
-        "ko-KR": "[레드헤드]",
         "en-US": "[Rubya]",
         "pt-BR": "[Rúbia]",
         "es-ES": "[Cabeza Roja]"
     },
     "uRcVCA": {
-        "ko-KR": "{0} 50개",
         "en-US": "{0} 50",
         "pt-BR": "50x {0}",
         "es-ES": "{0} 50 unidades"
     },
     "uhcVCA": {
-        "ko-KR": "<ITEM>[드래곤의 이빨]<INFO>1035</INFO></ITEM> {0}개\n<ITEM>[드래곤의 비늘]<INFO>1036</INFO></ITEM> {1}개\n<ITEM>[드래곤의 꼬리]<INFO>1037</INFO></ITEM> {2}개\n<ITEM>[드래곤의 껍질]<INFO>7123</INFO></ITEM> {3}개\n<ITEM>[녹색의 보주]<INFO>7445</INFO></ITEM> {4}개\n<ITEM>[청색의 보주]<INFO>7446</INFO></ITEM> {4}개\n<ITEM>[홍색의 보주]<INFO>7447</INFO></ITEM> {4}개\n<ITEM>[황색의 보주]<INFO>7448</INFO></ITEM> {4}개\n<ITEM>[커다란 용의 뼈]<INFO>25765</INFO></ITEM> {5}개\n<ITEM>[작은 용의 뼈]<INFO>25766</INFO></ITEM> {6}개가 필요합니다.",
         "en-US": "<ITEM>[Dragon Canine]<INFO>1035</INFO></ITEM> {0}\n<ITEM>[Dragon Scale]<INFO>1036</INFO></ITEM> {1}\n<ITEM>[Dragon Tail]<INFO>1037</INFO></ITEM> {2}\n<ITEM>[Dragon Skin]<INFO>7123</INFO></ITEM> {3}\n<ITEM>[Green Bijou]<INFO>7445</INFO></ITEM> {4}\n<ITEM>[Blue Bijou]<INFO>7446</INFO></ITEM> {4}\n<ITEM>[Red Bijou]<INFO>7447</INFO></ITEM> {4}\n<ITEM>[Yellow Bijou]<INFO>7448</INFO></ITEM> {4}\n<ITEM>[Large Dragon Bone]<INFO>25765</INFO></ITEM> {5}\n<ITEM>[Small Dragon Bone]<INFO>25766</INFO></ITEM> {6} are required.",
         "pt-BR": "{0}x <ITEM>[Canino de Dragão]<INFO>1035</INFO></ITEM> \n{1}x <ITEM>[Escama de Dragão]<INFO>1036</INFO></ITEM> \n{2}x <ITEM>[Cauda de Dragão]<INFO>1037</INFO></ITEM> \n{3}x <ITEM>[Pele de Dragão]<INFO>7123</INFO></ITEM> \n{4}x <ITEM>[Bijuteria Verde]<INFO>7445</INFO></ITEM> \n{4}x <ITEM>[Bijuteria Azul]<INFO>7446</INFO></ITEM> \n{4}x <ITEM>[Bijuteria Vermelha]<INFO>7447</INFO></ITEM> \n{4}x <ITEM>[Bijuteria Amarela]<INFO>7448</INFO></ITEM> \n{5}x <ITEM>[Crânio de Dragão]<INFO>25765</INFO></ITEM> \n{6}x <ITEM>[Osso de Dragão]<INFO>25766</INFO></ITEM>",
         "es-ES": "<ITEM>[Colmillo de Dragón]<INFO>1035</INFO></ITEM> {0} unidades\n<ITEM>[Escama de Dragón]<INFO>1036</INFO></ITEM> {1} unidades\n<ITEM>[Cola de Dragón]<INFO>1037</INFO></ITEM> {2} unidades\n<ITEM>[Piel de Dragón]<INFO>7123</INFO></ITEM> {3} unidades\n<ITEM>[Bijou verde]<INFO>7445</INFO></ITEM> {4} unidades\n<ITEM>[Bijou azul]<INFO>7446</INFO></ITEM> {4} unidades\n<ITEM>[Bijou roja]<INFO>7447</INFO></ITEM> {4} unidades\n<ITEM>[Bijou amarilla]<INFO>7448</INFO></ITEM> {4} unidades\n<ITEM>[Hueso Grande de Dragón]<INFO>25765</INFO></ITEM> {5} unidades\n<ITEM>[Hueso Pequeño de Dragón]<INFO>25766</INFO></ITEM> {6} unidades son necesarias."
     },
     "uxcVCA": {
-        "ko-KR": "[레드헤드]\n소지품을 다시 확인해보십시오.",
         "en-US": "[Rubya]\nPlease check your inventory again.",
         "pt-BR": "[Rúbia]\nPor favor, verifique seu inventário novamente.",
         "es-ES": "[Cabeza Roja]\nVuelva a revisar su inventario."
     },
     "vBcVCA": {
-        "ko-KR": "[레드헤드]\n모든 재료를 충분히 가지고 오셨군요. 그럼 이것으로 {0}를 만들어드리겠습니다. 용들을 처치하기 좀 더 수월할 겁니다.",
         "en-US": "[Rubya]\nYou have brought enough of all the materials. Then I will make {0} for you with these. It will make it a bit easier to defeat dragons.",
         "pt-BR": "[Rúbia]\nVocê trouxe tudo. \nAgora, posso criar a {0}.",
         "es-ES": "[Cabeza Roja]\nHas traído suficientes materiales. Entonces, con esto te haré {0}. Te será un poco más fácil derrotar a los dragones."
     },
     "vRcVCA": {
-        "ko-KR": "[레드헤드]\n다음에도 어비스 호수에서 용들의 물건을 얻으셨다면 저에게 가지고 오십시오. 언제라도 만들어드리겠습니다.",
         "en-US": "[Rubya]\nIf you obtain dragons' items at Abyss Lake again, bring them to me. I will make it for you anytime.",
         "pt-BR": "[Rúbia]\nNa próxima vez, se você ainda visitar o Lago do Abismo, continuarei interessada nos itens de lá.",
         "es-ES": "[Cabeza Roja]\nSi la próxima vez también obtienes objetos de los dragones en el Lago del Abismo, tráemelos. Te los haré cuando quieras."
     },
     "vhcVCA": {
-        "ko-KR": "블루헤드",
         "en-US": "Cerulyan",
         "pt-BR": "Cerúlio",
         "es-ES": "Cabeza Azul"
     },
     "vxcVCA": {
-        "ko-KR": "<용의 힘 교환>",
         "en-US": "<Exchange Dragon Power>",
         "pt-BR": "< Combinadores >",
         "es-ES": "<Combinadores>"
     },
     "wBcVCA": {
-        "ko-KR": "용의 힘을 얻고 싶은 자는 모두 내게 오시라.",
         "en-US": "All who seek the power of the dragon, come to me.",
         "pt-BR": "Quer sentir a força do dragão?",
         "es-ES": "Quien desee obtener el poder del dragón, que venga a mí."
     },
     "wRcVCA": {
-        "ko-KR": "[블루헤드]\n드래곤의 힘이 담긴 장비를 손에 넣었는가? 지금 당장 그대에게 없다해도 좋다. 언젠가 얻게 될 테니까.",
         "en-US": "[Cerulyan]\nHave you obtained equipment imbued with the power of the dragon? It is fine even if you do not have it with you right now. You will obtain it someday.",
         "pt-BR": "[Cerúlio]\nVocê já obteve algum equipamento Dracônico? Pois deveria!",
         "es-ES": "[Cabeza Azul]\n¿Has conseguido equipo que contiene el poder del dragón? Está bien aunque no lo tengas ahora mismo. Algún día lo obtendrás."
     },
     "whcVCA": {
-        "ko-KR": "[블루헤드]\n그대, 용의 힘이 아주 강력하다는 것은 알고 있겠지? 그것을 손에 넣어 더 강한 사람이 되고싶지 않은가?",
         "en-US": "[Cerulyan]\nYou know that the power of the dragon is very strong, do you not? Would you not like to obtain it and become stronger?",
         "pt-BR": "[Cerúlio]\nVocê sabe que o poder do dragão é muito poderoso, certo? Você não quer adquiri-lo e se tornar uma pessoa mais forte?",
         "es-ES": "[Cabeza Azul]\nSabes que el poder del dragón es muy poderoso, ¿verdad? ¿No quieres obtenerlo y convertirte en alguien más fuerte?"
     },
     "wxcVCA": {
-        "ko-KR": "[블루헤드]\n어비스 호수에서 얻은 물건들 중 나에게 필요한 것들을 준다면 용의 힘이 담긴 보주를 주겠네. 드래곤의 힘이 담긴 장비에 용의 힘을 부여할 수 있는 아주 특별한 보주일세.",
         "en-US": "[Cerulyan]\nIf you give me the items I need among the things obtained at Abyss Lake, I will give you an orb imbued with the power of the dragon. It is a very special orb that can grant the power of the dragon to equipment imbued with the power of the dragon.",
         "pt-BR": "[Cerúlio]\nSe você trouxer itens do Lago do Abismo, eu lhe darei um Combinador contendo o poder de um dragão.",
         "es-ES": "[Cabeza Azul]\nSi me das entre los objetos obtenidos en el Lago del Abismo los que necesito, te daré un orbe que contiene el poder del dragón. Es un orbe muy especial que puede otorgar el poder del dragón al equipo que contiene el poder del dragón."
     },
     "xBcVCA": {
-        "ko-KR": "[블루헤드]\n어떤가?",
         "en-US": "[Cerulyan]\nWell?",
         "pt-BR": "[Cerúlio]\nO que acha?",
         "es-ES": "[Cabeza Azul]\n¿Qué te parece?"
     },
     "xRcVCA": {
-        "ko-KR": "좋아요! 보주를 주세요!",
         "en-US": "Sounds good! Give me the orb!",
         "pt-BR": "Me dê o Combinador!",
         "es-ES": "¡De acuerdo! ¡Dame el combinador!"
     },
     "xhcVCA": {
-        "ko-KR": "뭐가 필요한데요?",
         "en-US": "What do you need?",
         "pt-BR": "Do que você precisa?",
         "es-ES": "¿Qué necesitas?"
     },
     "xxcVCA": {
-        "ko-KR": "어디에 쓸 수 있어요?",
         "en-US": "What can I use it for?",
         "pt-BR": "Como eu uso um desses?",
         "es-ES": "¿Para qué se puede usar?"
     },
     "yBcVCA": {
-        "ko-KR": "싫어요.",
         "en-US": "No.",
         "pt-BR": "Não, não quero.",
         "es-ES": "No."
     },
     "yRcVCA": {
-        "ko-KR": "[블루헤드]\n그대, 어떠한 보주가 필요한가?",
         "en-US": "[Cerulyan]\nWhich orb do you need?",
         "pt-BR": "[Cerúlio]\nQual combinador você quer?",
         "es-ES": "[Cabeza Azul]\nDime, ¿qué combinador necesitas?"
     },
     "yhcVCA": {
-        "ko-KR": "소용돌이 치는 용의 힘",
         "en-US": "Swirling Power of the Dragon",
         "pt-BR": "Turbulência do Dragão",
         "es-ES": "Poder Giratorio del Dragón"
     },
     "yxcVCA": {
-        "ko-KR": "불타는 용의 힘",
         "en-US": "Power of the Burning Dragon",
         "pt-BR": "Poder do Dragão",
         "es-ES": "Poder del Dragón Ardiente"
     },
     "zBcVCA": {
-        "ko-KR": "뜨거운 용의 힘",
         "en-US": "Strength of Fiery Dragon",
         "pt-BR": "Força do Dragão",
         "es-ES": "Fuerza del Dragón"
     },
     "zRcVCA": {
-        "ko-KR": "<ITEM>[소용돌이 치는 용의 힘]<INFO>23981</INFO></ITEM>",
         "en-US": "<ITEM>[Swirling Power of the Dragon]<INFO>23981</INFO></ITEM>",
         "pt-BR": "<ITEM>[Turbulência do Dragão]<INFO>23981</INFO></ITEM>",
         "es-ES": "<ITEM>[Poder Giratorio del Dragón]<INFO>23981</INFO></ITEM>"
     },
     "zhcVCA": {
-        "ko-KR": "[블루헤드]\n<ITEM>[소용돌이 치는 용의 힘]<INFO>23981</INFO></ITEM>을 가지고 싶다고? 그럼 어떤 물건으로 교환하려고 하는가?",
         "en-US": "[Cerulyan]\nYou want <ITEM>[Swirling Power of the Dragon]<INFO>23981</INFO></ITEM>? Then what item will you exchange for it?",
         "pt-BR": "[Cerúlio]\n<ITEM>[Turbulência do Dragão]<INFO>23981</INFO></ITEM>? Que material você vai me dar pela troca?",
         "es-ES": "[Cabeza Azul]\n¿Quieres tener <ITEM>[Poder Giratorio del Dragón]<INFO>23981</INFO></ITEM>? Entonces, ¿con qué objeto piensas intercambiarlo?"
     },
     "zxcVCA": {
-        "ko-KR": "용의 뼈로요.",
         "en-US": "Dragon bones.",
         "pt-BR": "Osso e Crânio de Dragão",
         "es-ES": "Hueso Pequeño de Dragón y Hueso Grande de Dragón"
     },
     "0BcVCA": {
-        "ko-KR": "^AAAAAA용의 뼈로요. - 수량부족^000000",
         "en-US": "^AAAAAADragon bones. - Insufficient quantity^000000",
         "pt-BR": "^AAAAAAOsso e Crânio de Dragão (insuficiente)^000000",
         "es-ES": "^AAAAAAHuesos de Dragón (insuficientes)^000000"
     },
     "0RcVCA": {
-        "ko-KR": "드래곤 오브로요.",
         "en-US": "Dragon Orb.",
         "pt-BR": "Esferas Dracônicas",
         "es-ES": "Orbes del Dragón"
     },
     "0hcVCA": {
-        "ko-KR": "^AAAAAA드래곤 오브로요. - 수량 부족^000000",
         "en-US": "^AAAAAADragon Orb. - Insufficient quantity^000000",
         "pt-BR": "^AAAAAAEsferas Dracônicas (insuficiente)^000000",
         "es-ES": "^AAAAAAOrbes del Dragón (insuficiente)^000000"
     },
     "0xcVCA": {
-        "ko-KR": "[블루헤드]\n신중한 자로군. 그래, 좀 더 고민을 하고 오도록 하라.",
         "en-US": "[Cerulyan]\nA cautious one, are you. Yes, go and think it over a bit more.",
         "pt-BR": "[Cerúlio]\nVocê pensa muito. Volte quando tiver tomado uma decisão.",
         "es-ES": "[Cabeza Azul]\nEres una persona prudente. Bien, vuelve después de pensarlo un poco más."
     },
     "1BcVCA": {
-        "ko-KR": "<ITEM>[불타는 용의 힘]<INFO>100144</INFO></ITEM>",
         "en-US": "<ITEM>[Power of the Burning Dragon]<INFO>100144</INFO></ITEM>",
         "pt-BR": "<ITEM>[Poder do Dragão]<INFO>100144</INFO></ITEM>",
         "es-ES": "<ITEM>[Poder del Dragón Ardiente]<INFO>100144</INFO></ITEM>"
     },
     "1RcVCA": {
-        "ko-KR": "[블루헤드]\n<ITEM>[불타는 용의 힘]<INFO>100144</INFO></ITEM>을 가지고 싶다고? 그럼 어떤 물건으로 교환하려고 하는가?",
         "en-US": "[Cerulyan]\nYou want <ITEM>[Power of the Burning Dragon]<INFO>100144</INFO></ITEM>? Then what item will you exchange for it?",
         "pt-BR": "[Cerúlio]\n<ITEM>[Poder do Dragão]<INFO>100144</INFO></ITEM>? Que material você vai me dar pela troca?",
         "es-ES": "[Cabeza Azul]\n¿Quieres tener <ITEM>[Poder del Dragón Ardiente]<INFO>100144</INFO></ITEM>? Entonces, ¿con qué objeto piensas intercambiarlo?"
     },
     "1hcVCA": {
-        "ko-KR": "<ITEM>[뜨거운 용의 힘]<INFO>100145</INFO></ITEM>",
         "en-US": "<ITEM>[Strength of Fiery Dragon]<INFO>100145</INFO></ITEM>",
         "pt-BR": "<ITEM>[Força do Dragão]<INFO>100145</INFO></ITEM>",
         "es-ES": "<ITEM>[Fuerza del Dragón]<INFO>100145</INFO></ITEM>"
     },
     "1xcVCA": {
-        "ko-KR": "[블루헤드]\n<ITEM>[뜨거운 용의 힘]<INFO>100145</INFO></ITEM>을 가지고 싶다고? 그럼 어떤 물건으로 교환하려고 하는가?",
         "en-US": "[Cerulyan]\nYou want <ITEM>[Strength of Fiery Dragon]<INFO>100145</INFO></ITEM>? Then what item will you exchange for it?",
         "pt-BR": "[Cerúlio]\n<ITEM>[Força do Dragão]<INFO>100145</INFO></ITEM>? Que material você vai me dar pela troca?",
         "es-ES": "[Cabeza Azul]\n¿Quieres tener <ITEM>[Fuerza del Dragón]<INFO>100145</INFO></ITEM>? Entonces, ¿con qué objeto piensas intercambiarlo?"
     },
     "2BcVCA": {
-        "ko-KR": "[블루헤드]\n가만... 자신만만하게 이야기한 것치곤 준비가 부족한데?",
         "en-US": "[Cerulyan]\nWait... For all your confidence, you are not prepared enough.",
         "pt-BR": "[Cerúlio]\nUé... você... você não trouxe todos os itens?",
         "es-ES": "[Cabeza Azul]\nEspera... Para hablar con tanta seguridad, te falta preparación, ¿no?"
     },
     "2RcVCA": {
-        "ko-KR": "[블루헤드]\n<ITEM>[커다란 용의 뼈]<INFO>25765</INFO></ITEM> ^EE0000{0}개^000000와 <ITEM>[작은 용의 뼈]<INFO>25766</INFO></ITEM> ^EE0000{1}개^000000를 가지고 오게.",
         "en-US": "[Cerulyan]\nBring <ITEM>[Large Dragon Bone]<INFO>25765</INFO></ITEM> ^EE0000{0}^000000 and <ITEM>[Small Dragon Bone]<INFO>25766</INFO></ITEM> ^EE0000{1}^000000.",
         "pt-BR": "[Cerúlio]\nPreciso de ^EE0000{0}x^000000 <ITEM>[Crânio de Dragão]<INFO>25765</INFO></ITEM>. Ah, e ^EE0000{1}x^000000 <ITEM>[Osso de Dragão]<INFO>25766</INFO></ITEM>.",
         "es-ES": "[Cabeza Azul]\nTrae <ITEM>[Hueso Grande de Dragón]<INFO>25765</INFO></ITEM> ^EE0000{0} unidades^000000 y <ITEM>[Hueso Pequeño de Dragón]<INFO>25766</INFO></ITEM> ^EE0000{1} unidades^000000."
     },
     "2hcVCA": {
-        "ko-KR": "[블루헤드]\n아무나 쉽게 가질 수 없는 강력한 힘이니까 이 정도는 가지고 와야지.",
         "en-US": "[Cerulyan]\nIt is a powerful force that not just anyone can obtain, so you should at least bring this much.",
         "pt-BR": "[Cerúlio]\nO que vou te dar é um poder que não deveria ser tão fácil de se obter.",
         "es-ES": "[Cabeza Azul]\nEs un poder formidable que no cualquiera puede obtener, así que debes traer al menos esto."
     },
     "2xcVCA": {
-        "ko-KR": "[블루헤드]\n<ITEM>[레드 드래곤 오브]<INFO>25761</INFO></ITEM>, <ITEM>[그린 드래곤 오브]<INFO>25759</INFO></ITEM>,\n<ITEM>[블루 드래곤 오브]<INFO>25760</INFO></ITEM>, <ITEM>[퍼플 드래곤 오브]<INFO>25763</INFO></ITEM>,\n<ITEM>[골드 드래곤 오브]<INFO>25762</INFO></ITEM>, <ITEM>[실버 드래곤 오브]<INFO>25764</INFO></ITEM>를 ^EE0000각각 {0}개씩^000000 가지고 오게.",
         "en-US": "[Cerulyan]\nBring <ITEM>[Red Dragon Orb]<INFO>25761</INFO></ITEM>, <ITEM>[Green Dragon Orb]<INFO>25759</INFO></ITEM>,\n<ITEM>[Blue Dragon Orb]<INFO>25760</INFO></ITEM>, <ITEM>[Purple Dragon Orb]<INFO>25763</INFO></ITEM>,\n<ITEM>[Gold Dragon Orb]<INFO>25762</INFO></ITEM>, <ITEM>[Silver Dragon Orb]<INFO>25764</INFO></ITEM> ^EE0000{0} of each^000000.",
         "pt-BR": "[Cerúlio]\nPreciso de ^EE0000{0}x^000000 de cada <ITEM>[Esfera Dracônica Rubra]<INFO>25761</INFO></ITEM>, <ITEM>[Esfera Dracônica Verde]<INFO>25759</INFO></ITEM>,\n<ITEM>[Esfera Dracônica Azul]<INFO>25760</INFO></ITEM>, <ITEM>[Esfera Dracônica Roxa]<INFO>25763</INFO></ITEM>,\n<ITEM>[Esfera Dracônica Ouro]<INFO>25762</INFO></ITEM>, <ITEM>[Esfera Dracônica Prata]<INFO>25764</INFO></ITEM>",
         "es-ES": "[Cabeza Azul]\nTrae <ITEM>[Orbe del Dragón Rojo]<INFO>25761</INFO></ITEM>, <ITEM>[Orbe del Dragón Verde]<INFO>25759</INFO></ITEM>,\n<ITEM>[Orbe del Dragón Azul]<INFO>25760</INFO></ITEM>, <ITEM>[Orbe del Dragón Púrpura]<INFO>25763</INFO></ITEM>,\n<ITEM>[Orbe del Dragón Dorado]<INFO>25762</INFO></ITEM>, <ITEM>[Orbe del Dragón Plateado]<INFO>25764</INFO></ITEM> ^EE0000{0} unidades cada uno^000000."
     },
     "3BcVCA": {
-        "ko-KR": "[블루헤드]\n이미 모든 준비를 해 왔군. {0}을 가져도 좋다. 보주를 더 얻고 싶다면 나를 또 찾아오게.",
         "en-US": "[Cerulyan]\nYou have already made all the preparations. You may take {0}.",
         "pt-BR": "[Cerúlio]\nEu aceito sua troca. \nAgora, você possui o item {0}.",
         "es-ES": "[Cabeza Azul]\nYa has hecho todos los preparativos. Puedes llevarte {0}."
     },
     "3RcVCA": {
-        "ko-KR": "[블루헤드]\n내가 가지고 있는 보주는 3종류네. 각각의 보주마다 나에게 줘야 할 물건이 조금씩 달라.\n자네가 더 쉽게 얻을 수 있는 물건을 모아서 가져오라는 배려로 특별히 두 가지 방식으로 물건을 받고 있지.",
         "en-US": "[Cerulyan]\nI have three kinds of orbs. For each orb, the items you must give me are slightly different.\nAs a consideration so you can gather items more easily, I accept items in two special ways.",
         "pt-BR": "[Cerúlio]\nEu tenho 3 tipos de combinadores, cada um tem um material necessário.\nPara facilitar as coisas, eu aceito 2 formas de pagamento.",
         "es-ES": "[Cabeza Azul]\nLos combinadores que tengo son de 3 tipos. Para cada uno, los objetos que debes darme son un poco distintos.\nPor consideración, para que puedas reunir objetos que te resulten más fáciles de conseguir, acepto los objetos de dos maneras distintas."
     },
     "3hcVCA": {
-        "ko-KR": "[블루헤드]\n^0000CD드래곤 플레이트^000000에 힘을 부여할 수 있는 <ITEM>[소용돌이 치는 용의 힘]<INFO>23981</INFO></ITEM>을 얻고 싶으면",
         "en-US": "[Cerulyan]\nIf you want to obtain <ITEM>[Swirling Power of the Dragon]<INFO>23981</INFO></ITEM>, which can imbue power into ^0000CDDragon Armor^000000,",
         "pt-BR": "[Cerúlio]\nA ^0000CDCota Dracônica^000000 é fortalecida pela <ITEM>[Turbulência do Dragão]<INFO>23981</INFO></ITEM>",
         "es-ES": "[Cabeza Azul]\nSi quieres obtener <ITEM>[Poder Giratorio del Dragón]<INFO>23981</INFO></ITEM>, que puede imbuir poder a ^0000CDPlaca de Dragón^000000,"
     },
     "3xcVCA": {
-        "ko-KR": "<ITEM>[커다란 용의 뼈]<INFO>25765</INFO></ITEM> ^EE00001개^000000와 <ITEM>[작은 용의 뼈]<INFO>25766</INFO></ITEM> ^EE00005개^000000를 가지고 오거나",
         "en-US": "<ITEM>[Large Dragon Bone]<INFO>25765</INFO></ITEM> ^EE00001^000000 and <ITEM>[Small Dragon Bone]<INFO>25766</INFO></ITEM> ^EE00005^000000, or",
         "pt-BR": "^EE00001x^000000 <ITEM>[Crânio de Dragão]<INFO>25765</INFO></ITEM>, ^EE00005x^000000 <ITEM>[Osso de Dragão]<INFO>25766</INFO></ITEM>\n- ou -",
         "es-ES": "<ITEM>[Hueso Grande de Dragón]<INFO>25765</INFO></ITEM> ^EE00001 unidad^000000 y <ITEM>[Hueso Pequeño de Dragón]<INFO>25766</INFO></ITEM> ^EE00005 unidades^000000, o bien"
     },
     "4BcVCA": {
-        "ko-KR": "<ITEM>[레드 드래곤 오브]<INFO>25761</INFO></ITEM>, <ITEM>[그린 드래곤 오브]<INFO>25759</INFO></ITEM>,\n<ITEM>[블루 드래곤 오브]<INFO>25760</INFO></ITEM>, <ITEM>[퍼플 드래곤 오브]<INFO>25763</INFO></ITEM>,\n<ITEM>[골드 드래곤 오브]<INFO>25762</INFO></ITEM>, <ITEM>[실버 드래곤 오브]<INFO>25764</INFO></ITEM>를 ^EE0000각각 12개씩^000000 가지고 오면 돼.",
         "en-US": "<ITEM>[Red Dragon Orb]<INFO>25761</INFO></ITEM>, <ITEM>[Green Dragon Orb]<INFO>25759</INFO></ITEM>,\n<ITEM>[Blue Dragon Orb]<INFO>25760</INFO></ITEM>, <ITEM>[Purple Dragon Orb]<INFO>25763</INFO></ITEM>,\n<ITEM>[Gold Dragon Orb]<INFO>25762</INFO></ITEM>, <ITEM>[Silver Dragon Orb]<INFO>25764</INFO></ITEM> ^EE000012 of each^000000.",
         "pt-BR": "^EE000012x de cada^000000 <ITEM>[Esfera Dracônica Rubra]<INFO>25761</INFO></ITEM>, <ITEM>[Esfera Dracônica Verde]<INFO>25759</INFO></ITEM>,\n<ITEM>[Esfera Dracônica Azul]<INFO>25760</INFO></ITEM>, <ITEM>[Esfera Dracônica Roxa]<INFO>25763</INFO></ITEM>,\n<ITEM>[Esfera Dracônica Ouro]<INFO>25762</INFO></ITEM>, <ITEM>[Esfera Dracônica Prata]<INFO>25764</INFO></ITEM>",
         "es-ES": "<ITEM>[Orbe del Dragón Rojo]<INFO>25761</INFO></ITEM>, <ITEM>[Orbe del Dragón Verde]<INFO>25759</INFO></ITEM>,\n<ITEM>[Orbe del Dragón Azul]<INFO>25760</INFO></ITEM>, <ITEM>[Orbe del Dragón Púrpura]<INFO>25763</INFO></ITEM>,\n<ITEM>[Orbe del Dragón Dorado]<INFO>25762</INFO></ITEM>, <ITEM>[Orbe del Dragón Plateado]<INFO>25764</INFO></ITEM> ^EE000012 unidades cada uno^000000."
     },
     "4RcVCA": {
-        "ko-KR": "[블루헤드]\n<ITEM>[드래곤 스케일 후드]<INFO>20946</INFO></ITEM>에 힘을 부여할 수 있는 <ITEM>[불타는 용의 힘]<INFO>100144</INFO></ITEM>을 얻고 싶으면",
         "en-US": "[Cerulyan]\nIf you want to obtain <ITEM>[Power of the Burning Dragon]<INFO>100144</INFO></ITEM>, which can imbue power into <ITEM>[Dragon Hood]<INFO>20946</INFO></ITEM>,",
         "pt-BR": "[Cerúlio]\n<ITEM>[Poder do Dragão]<INFO>100144</INFO></ITEM>: Melhora a <ITEM>[Capa Dracônica]<INFO>20946</INFO></ITEM>",
         "es-ES": "[Cabeza Azul]\nSi quieres obtener <ITEM>[Poder del Dragón Ardiente]<INFO>100144</INFO></ITEM>, que puede imbuir poder a <ITEM>[Capucha de Escama de Dragón]<INFO>20946</INFO></ITEM>,"
     },
     "4hcVCA": {
-        "ko-KR": "<ITEM>[커다란 용의 뼈]<INFO>25765</INFO></ITEM> ^EE00001개^000000와 <ITEM>[작은 용의 뼈]<INFO>25766</INFO></ITEM> ^EE00002개^000000를 가지고 오거나",
         "en-US": "<ITEM>[Large Dragon Bone]<INFO>25765</INFO></ITEM> ^EE00001^000000 and <ITEM>[Small Dragon Bone]<INFO>25766</INFO></ITEM> ^EE00002^000000, or",
         "pt-BR": "^EE00001x^000000 <ITEM>[Crânio de Dragão]<INFO>25765</INFO></ITEM>, ^EE00002x^000000 <ITEM>[Osso de Dragão]<INFO>25766</INFO></ITEM>\n - ou -",
         "es-ES": "<ITEM>[Hueso Grande de Dragón]<INFO>25765</INFO></ITEM> ^EE00001 unidad^000000 y <ITEM>[Hueso Pequeño de Dragón]<INFO>25766</INFO></ITEM> ^EE00002 unidades^000000, o bien"
     },
     "4xcVCA": {
-        "ko-KR": "<ITEM>[레드 드래곤 오브]<INFO>25761</INFO></ITEM>, <ITEM>[그린 드래곤 오브]<INFO>25759</INFO></ITEM>,\n<ITEM>[블루 드래곤 오브]<INFO>25760</INFO></ITEM>, <ITEM>[퍼플 드래곤 오브]<INFO>25763</INFO></ITEM>,\n<ITEM>[골드 드래곤 오브]<INFO>25762</INFO></ITEM>, <ITEM>[실버 드래곤 오브]<INFO>25764</INFO></ITEM>를 ^EE0000각각 8개씩^000000 가지고 오면 돼.",
         "en-US": "<ITEM>[Red Dragon Orb]<INFO>25761</INFO></ITEM>, <ITEM>[Green Dragon Orb]<INFO>25759</INFO></ITEM>,\n<ITEM>[Blue Dragon Orb]<INFO>25760</INFO></ITEM>, <ITEM>[Purple Dragon Orb]<INFO>25763</INFO></ITEM>,\n<ITEM>[Gold Dragon Orb]<INFO>25762</INFO></ITEM>, <ITEM>[Silver Dragon Orb]<INFO>25764</INFO></ITEM> ^EE00008 of each^000000.",
         "pt-BR": "^EE00008x de cada^000000 <ITEM>[Esfera Dracônica Rubra]<INFO>25761</INFO></ITEM>, <ITEM>[Esfera Dracônica Verde]<INFO>25759</INFO></ITEM>,\n<ITEM>[Esfera Dracônica Azul]<INFO>25760</INFO></ITEM>, <ITEM>[Esfera Dracônica Roxa]<INFO>25763</INFO></ITEM>,\n<ITEM>[Esfera Dracônica Ouro]<INFO>25762</INFO></ITEM>, <ITEM>[Esfera Dracônica Prata]<INFO>25764</INFO></ITEM>",
         "es-ES": "<ITEM>[Orbe del Dragón Rojo]<INFO>25761</INFO></ITEM>, <ITEM>[Orbe del Dragón Verde]<INFO>25759</INFO></ITEM>,\n<ITEM>[Orbe del Dragón Azul]<INFO>25760</INFO></ITEM>, <ITEM>[Orbe del Dragón Púrpura]<INFO>25763</INFO></ITEM>,\n<ITEM>[Orbe del Dragón Dorado]<INFO>25762</INFO></ITEM>, <ITEM>[Orbe del Dragón Plateado]<INFO>25764</INFO></ITEM> ^EE00008 unidades cada uno^000000."
     },
     "5BcVCA": {
-        "ko-KR": "[블루헤드]\n<ITEM>[드래곤 스케일 부츠]<INFO>22208</INFO></ITEM>에 힘을 부여할 수 있는 <ITEM>[뜨거운 용의 힘]<INFO>100145</INFO></ITEM>을 얻고 싶으면",
         "en-US": "[Cerulyan]\nIf you want to obtain <ITEM>[Strength of Fiery Dragon]<INFO>100145</INFO></ITEM>, which can grant power to <ITEM>[Dragon Boots]<INFO>22208</INFO></ITEM>,",
         "pt-BR": "[Cerúlio]\n<ITEM>[Força do Dragão]<INFO>100145</INFO></ITEM>: Melhora a <ITEM>[Bota Dracônica]<INFO>22208</INFO></ITEM>",
         "es-ES": "[Cabeza Azul]\nSi quieres obtener <ITEM>[Fuerza del Dragón]<INFO>100145</INFO></ITEM>, que puede otorgar poder a <ITEM>[Botas de Dragón]<INFO>22208</INFO></ITEM>,"
     },
     "5RcVCA": {
-        "ko-KR": "<ITEM>[커다란 용의 뼈]<INFO>25765</INFO></ITEM>와 <ITEM>[작은 용의 뼈]<INFO>25766</INFO></ITEM>를 ^EE0000각각 1개씩^000000 가지고 오거나",
         "en-US": "Bring <ITEM>[Large Dragon Bone]<INFO>25765</INFO></ITEM> and <ITEM>[Small Dragon Bone]<INFO>25766</INFO></ITEM> ^EE00001 each^000000,",
         "pt-BR": "^EE00001x^000000 <ITEM>[Crânio de Dragão]<INFO>25765</INFO></ITEM>, ^EE00001x^000000 <ITEM>[Osso de Dragão]<INFO>25766</INFO></ITEM>\n - ou -",
         "es-ES": "Trae <ITEM>[Hueso Grande de Dragón]<INFO>25765</INFO></ITEM> y <ITEM>[Hueso Pequeño de Dragón]<INFO>25766</INFO></ITEM> ^EE00001 de cada uno^000000, o"
     },
     "5hcVCA": {
-        "ko-KR": "<ITEM>[레드 드래곤 오브]<INFO>25761</INFO></ITEM>, <ITEM>[그린 드래곤 오브]<INFO>25759</INFO></ITEM>,\n<ITEM>[블루 드래곤 오브]<INFO>25760</INFO></ITEM>, <ITEM>[퍼플 드래곤 오브]<INFO>25763</INFO></ITEM>,\n<ITEM>[골드 드래곤 오브]<INFO>25762</INFO></ITEM>, <ITEM>[실버 드래곤 오브]<INFO>25764</INFO></ITEM>를 ^EE0000각각 7개씩^000000 가지고 오면 돼.",
         "en-US": "<ITEM>[Red Dragon Orb]<INFO>25761</INFO></ITEM>, <ITEM>[Green Dragon Orb]<INFO>25759</INFO></ITEM>,\n<ITEM>[Blue Dragon Orb]<INFO>25760</INFO></ITEM>, <ITEM>[Purple Dragon Orb]<INFO>25763</INFO></ITEM>,\n<ITEM>[Gold Dragon Orb]<INFO>25762</INFO></ITEM>, <ITEM>[Silver Dragon Orb]<INFO>25764</INFO></ITEM> ^EE00007 each^000000 and that will do.",
         "pt-BR": "^EE00007x de cada^000000 <ITEM>[Esfera Dracônica Rubra]<INFO>25761</INFO></ITEM>, <ITEM>[Esfera Dracônica Verde]<INFO>25759</INFO></ITEM>,\n<ITEM>[Esfera Dracônica Azul]<INFO>25760</INFO></ITEM>, <ITEM>[Esfera Dracônica Roxa]<INFO>25763</INFO></ITEM>,\n<ITEM>[Esfera Dracônica Ouro]<INFO>25762</INFO></ITEM>, <ITEM>[Esfera Dracônica Prata]<INFO>25764</INFO></ITEM>",
         "es-ES": "Trae <ITEM>[Orbe del Dragón Rojo]<INFO>25761</INFO></ITEM>, <ITEM>[Orbe del Dragón Verde]<INFO>25759</INFO></ITEM>,\n<ITEM>[Orbe del Dragón Azul]<INFO>25760</INFO></ITEM>, <ITEM>[Orbe del Dragón Púrpura]<INFO>25763</INFO></ITEM>,\n<ITEM>[Orbe del Dragón Dorado]<INFO>25762</INFO></ITEM>, <ITEM>[Orbe del Dragón Plateado]<INFO>25764</INFO></ITEM> ^EE00007 de cada uno^000000."
     },
     "5xcVCA": {
-        "ko-KR": "[블루헤드]\n아, 그게 궁금했구나. <ITEM>[소용돌이 치는 용의 힘]<INFO>23981</INFO></ITEM>은 드래곤 플레이트에 부여할 수 있지.\n<ITEM>[레드 드래곤 플레이트]<INFO>15391</INFO></ITEM>\n<ITEM>[그린 드래곤 플레이트]<INFO>15392</INFO></ITEM>\n<ITEM>[블루 드래곤 플레이트]<INFO>15395</INFO></ITEM>\n<ITEM>[퍼플 드래곤 플레이트]<INFO>15394</INFO></ITEM>\n<ITEM>[골드 드래곤 플레이트]<INFO>15393</INFO></ITEM>\n<ITEM>[실버 드래곤 플레이트]<INFO>15396</INFO></ITEM>",
         "en-US": "[Cerulyan]\nAh, so that is what you were wondering. <ITEM>[Swirling Power of the Dragon]<INFO>23981</INFO></ITEM> can be imbued into Dragon Armors.\n<ITEM>[Red Dragon Armor]<INFO>15391</INFO></ITEM>\n<ITEM>[Green Dragon Armor]<INFO>15392</INFO></ITEM>\n<ITEM>[Blue Dragon Armor]<INFO>15395</INFO></ITEM>\n<ITEM>[Purple Dragon Armor]<INFO>15394</INFO></ITEM>\n<ITEM>[Gold Dragon Armor]<INFO>15393</INFO></ITEM>\n<ITEM>[Silver Dragon Armor]<INFO>15396</INFO></ITEM>",
         "pt-BR": "[Cerúlio]\nAs seguintes armaduras são afetadas pela <ITEM>[Turbulência do Dragão]<INFO>23981</INFO></ITEM>.\n<ITEM>[Cota Dracônica Rubra]<INFO>15391</INFO></ITEM>\n<ITEM>[Cota Dracônica Verde]<INFO>15392</INFO></ITEM>\n<ITEM>[Cota Dracônica Azul]<INFO>15395</INFO></ITEM>\n<ITEM>[Cota Dracônica Roxa]<INFO>15394</INFO></ITEM>\n<ITEM>[Cota Dracônica Ouro]<INFO>15393</INFO></ITEM>\n<ITEM>[Cota Dracônica Prata]<INFO>15396</INFO></ITEM>",
         "es-ES": "[Cabeza Azul]\nAh, eso era lo que te preguntabas. <ITEM>[Poder Giratorio del Dragón]<INFO>23981</INFO></ITEM> se puede otorgar a las armadura de dragón.\n<ITEM>[Placa del Dragón Roja]<INFO>15391</INFO></ITEM>\n<ITEM>[Placa del Dragón Verde]<INFO>15392</INFO></ITEM>\n<ITEM>[Placa del Dragón Azul]<INFO>15395</INFO></ITEM>\n<ITEM>[Placa del Dragón Púrpura]<INFO>15394</INFO></ITEM>\n<ITEM>[Placa del Dragón Dorado]<INFO>15393</INFO></ITEM>\n<ITEM>[Placa del Dragón Plateado]<INFO>15396</INFO></ITEM>"
     },
     "6BcVCA": {
-        "ko-KR": "[블루헤드]\n또 <ITEM>[불타는 용의 힘]<INFO>100144</INFO></ITEM>은 <ITEM>[드래곤 스케일 후드]<INFO>20946</INFO></ITEM>에 부여할 수 있고.",
         "en-US": "[Cerulyan]\nAlso, <ITEM>[Power of the Burning Dragon]<INFO>100144</INFO></ITEM> can be imbued into <ITEM>[Dragon Hood]<INFO>20946</INFO></ITEM>.",
         "pt-BR": "[Cerúlio]\nO <ITEM>[Poder do Dragão]<INFO>100144</INFO></ITEM>, um combinador, pode ser usado na <ITEM>[Capa Dracônica]<INFO>20946</INFO></ITEM>.",
         "es-ES": "[Cabeza Azul]\nAdemás, <ITEM>[Poder del Dragón Ardiente]<INFO>100144</INFO></ITEM> se puede otorgar a <ITEM>[Capucha de Dragón]<INFO>20946</INFO></ITEM>."
     },
     "6RcVCA": {
-        "ko-KR": "[블루헤드]\n마지막으로 <ITEM>[뜨거운 용의 힘]<INFO>100145</INFO></ITEM>은 <ITEM>[드래곤 스케일 부츠]<INFO>22208</INFO></ITEM>에 부여할 수 있지.\n어때? 탐나지 않나?",
         "en-US": "[Cerulyan]\nLastly, <ITEM>[Strength of Fiery Dragon]<INFO>100145</INFO></ITEM> can be imbued into <ITEM>[Dragon Boots]<INFO>22208</INFO></ITEM>.\nWell? Do you not want it?",
         "pt-BR": "[Cerúlio]\nE a <ITEM>[Força do Dragão]<INFO>100145</INFO></ITEM>, um combinador, pode ser usado na <ITEM>[Bota Dracônica]<INFO>22208</INFO></ITEM>.\nEntendeu melhor agora?",
         "es-ES": "[Cabeza Azul]\nPor último, <ITEM>[Fuerza del Dragón]<INFO>100145</INFO></ITEM> se puede otorgar a <ITEM>[Botas de Dragón]<INFO>22208</INFO></ITEM>.\n¿Qué te parece? ¿No lo deseas?"
     },
     "6hcVCA": {
-        "ko-KR": "[블루헤드]\n드래곤 장비는 옆에 있는 레드헤드가 만들어 주니까 없다면 이참에 하나 장만하는 것도 좋겠지.",
         "en-US": "[Cerulyan]\nRubya over there makes Dragon equipment, so if you do not have any, it would be good to get one while you are here.",
         "pt-BR": "[Cerúlio]\nA Rúbia ao meu lado pode criar todos esses equipamentos, caso você não os tenha.",
         "es-ES": "[Cabeza Azul]\nEl equipo de dragón lo fabrica Cabeza Roja, que está al lado, así que si no lo tienes, quizá sea buena idea conseguir uno de una vez."
     },
     "6xcVCA": {
-        "ko-KR": "[블루헤드]\n지금은 관심이 없겠지. 하지만 곧 제발로 나를 찾아오게 될 것이다.",
         "en-US": "[Cerulyan]\nYou are not interested right now. But soon, you will come looking for me of your own accord.",
         "pt-BR": "[Cerúlio]\nVocê pode não ter interesse agora, mas quem sabe no futuro.",
         "es-ES": "[Cabeza Azul]\nAhora no te interesará. Pero pronto vendrás a buscarme por tu propia voluntad."

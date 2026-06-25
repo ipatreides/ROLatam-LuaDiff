@@ -1,522 +1,435 @@
 {
     "QL7WDA": {
-        "ko-KR": "솔리스",
         "en-US": "Solis",
         "pt-BR": "Solis",
         "es-ES": "Solis"
     },
     "Qb7WDA": {
-        "ko-KR": "아... 너무너무 알고 싶다. 너란 녀석들...",
         "en-US": "Ah... I want to know so very, very much. You beings...",
         "pt-BR": "Ah... a língua dos anjos...",
         "es-ES": "Ah... el lenguaje de los ángeles..."
     },
     "Qr7WDA": {
-        "ko-KR": "[솔리스]\n일이 필요하세요? 그렇지만 나보다도 약할 것 같은데요? 나중에 다시 찾아 오세요. 알았죠?",
         "en-US": "[Solis]\nDo you need work? But you look weaker than me. Come back later, alright?",
         "pt-BR": "[Solis]\nPrecisa de trabalho? Mas você não parece forte o bastante... volte depois, certo?",
         "es-ES": "[Solis]  \n¿Necesitas trabajo? Pero no pareces lo suficientemente fuerte... vuelve más tarde, ¿vale?"
     },
     "Q77WDA": {
-        "ko-KR": "^4D4DFF타나토스 타워의 일일 퀘스트 권장 레벨은 180 이상입니다.^000000",
         "en-US": "^4D4DFFThe recommended level for Thanatos Tower daily quests is 180 or higher.^000000",
         "pt-BR": "^4D4DFFVocê precisa ter nível 180 ou superior.^000000",
         "es-ES": "^4D4DFFDebes tener nivel 180 o superior.^000000"
     },
     "RL7WDA": {
-        "ko-KR": "[솔리스]\n어맛! 깜짝이야! 보아하니 계약자도 아닌 것 같은데 어서 가서 계약부터 하고 와요.",
         "en-US": "[Solis]\nOh my! That startled me! You don’t seem to be under contract, so go make a contract first.",
         "pt-BR": "[Solis]\nAi que susto! Pelo visto você nem assinou um contrato. Primeiro, aceite trabalhar para nós falando com a Recepcionista.",
         "es-ES": "[Solis]  \n¡Ay, qué susto! Parece que ni siquiera has firmado un contrato. Primero, acepta trabajar para nosotros hablando con la Recepcionista."
     },
     "Rb7WDA": {
-        "ko-KR": "[솔리스]\n다시 올라가 볼까? 이번에도 운이 좋으면 눈 멀고 불쌍한 희생양은 되지 않을 텐데.",
         "en-US": "[Solis]\nShall we try going up again? If we’re lucky this time, we won’t end up as blind, pitiful sacrifices.",
         "pt-BR": "[Solis]\nVai subir a Torre? Se tiver sorte, talvez consiga alguma coisa legal lá em cima.",
         "es-ES": "[Solis]  \n¿Vas a subir la Torre? Si tienes suerte, quizás consigas algo interesante allá arriba."
     },
     "Rr7WDA": {
-        "ko-KR": "[제이]\n목숨은 운에 맡기는 거 아니야.",
         "en-US": "[Jay]\nYou don’t leave your life to luck.",
         "pt-BR": "[Tay]\nNão se deve deixar a vida à própria sorte.",
         "es-ES": "[Tay]  \nNo se debe dejar la vida al azar."
     },
     "R77WDA": {
-        "ko-KR": "[솔리스]\n내가 꼭 기초 전투 반에 등록하고 만다. 여기서 살아 나간다면 말이지. 어? 사람? 모험가! 드디어 모험가가 나타났어!",
         "en-US": "[Solis]\nI swear I’ll enroll in the basic combat class. If I make it out alive, that is. Huh? A person? An adventurer! Finally, an adventurer has appeared!",
         "pt-BR": "[Solis]\nEu vou me inscrever na turma básica de combate. Quer dizer, se eu conseguir sair viva daqui. Hein? Uma pessoa? Finalmente apareceu alguém!",
         "es-ES": "[Solis]  \nMe voy a inscribir en la clase básica de combate. O sea, si logro salir viva de aquí. ¿Eh? ¿Una persona? ¡Por fin apareció alguien!"
     },
     "SL7WDA": {
-        "ko-KR": "[제이]\n레켄베르와 계약한 모험가 분이시군요. 반갑습니다.",
         "en-US": "[Jay]\nYou must be an adventurer contracted with Rekenber. Nice to meet you.",
         "pt-BR": "[Tay]\nEntão você assinou o contrato com a Rekenber. Prazer!",
         "es-ES": "[Tay]  \n¿Así que firmaste el contrato con Rekenber? ¡Un placer!"
     },
     "Sb7WDA": {
-        "ko-KR": "무슨 일로 저를 반기시는 거죠?",
         "en-US": "Why are you welcoming me?",
         "pt-BR": "O que está acontecendo?",
         "es-ES": "¿Qué está pasando?"
     },
     "Sr7WDA": {
-        "ko-KR": "[제이]\n아, 저희는 신종 몬스터가 발견됐다고 해서 유노 몬스터 학회에서 온 사람들이에요. 새로운 몬스터의 자료를 수집하고 정리해서 모험가들에게 정보를 제공하는 그런 거요.",
         "en-US": "[Jay]\nAh, we’re from the Juno Monster Society. We came because a new type of monster was discovered. We collect and organize data on new monsters and provide that information to adventurers.",
         "pt-BR": "[Tay]\nAh, nós somos pesquisadoras da Sociedade Juniana de Monstros, a SJM. Viemos porque disseram que novos anjos foram descobertos. Coletamos e organizamos dados e fornecemos informações aos viajantes.",
         "es-ES": "[Tay]  \nAh, somos investigadoras de la Sociedad Juniana de Monstruos, la SJM. Vinimos porque dijeron que se descubrieron nuevos ángeles. Recopilamos y organizamos datos y damos información a los viajeros."
     },
     "S77WDA": {
-        "ko-KR": "[솔리스]\n실제로 이곳에 와서 보니, 과연 듣던 대로 타워는 멋있고 용도 모를 유적도 신기하고, 몬스터는 너무 세고...",
         "en-US": "[Solis]\nNow that we’ve actually come here, the tower is indeed magnificent just as we heard, the ruins of unknown purpose are fascinating, and the monsters are incredibly strong...",
         "pt-BR": "[Solis]\nMas ao chegar aqui... a torre é monumental, as ruínas são misteriosas e os monstros são fortes demais...",
         "es-ES": "[Solis]  \nPero al llegar aquí... la torre es monumental, las ruinas son misteriosas y los monstruos son demasiado fuertes..."
     },
     "TL7WDA": {
-        "ko-KR": "[솔리스]\n큰 꿈을 안고 설레는 마음으로 왔는데 확인한 것은 사람 그렇게 쉽게 죽지 않는다는 거, 그거 하나는 확실히 알았어요.",
         "en-US": "[Solis]\nWe came with big dreams and excitement, but what we confirmed is that people don’t die that easily. That much is certain.",
         "pt-BR": "[Solis]\nViemos cheias de sonhos e expectativas, mas a única coisa que aprendemos foi que as pessoas não morrem tão facilmente.",
         "es-ES": "[Solis]  \nVinimos llenas de sueños y expectativas, pero lo único que aprendimos es que las personas no mueren tan fácilmente."
     },
     "Tb7WDA": {
-        "ko-KR": "[제이]\n차라리 죽어 누웠으면 편했을까. 너무 신나고 슬퍼서 눈물이 다 났지 뭐예요. 그러게 기다렸다가 남들 올 때 같이 오자니까.",
         "en-US": "[Jay]\nIt might have been easier if we had just died and collapsed. I was so thrilled and miserable that I ended up crying. I told you we should have waited and come with others.",
         "pt-BR": "[Tay]\nTalvez fosse mais fácil se tivéssemos morrido. Foi tão emocionante e triste que até chorei. Eu disse que devíamos esperar e vir com outros.",
         "es-ES": "[Tay]  \nQuizás sería más fácil si hubiéramos muerto. Fue tan emocionante y triste que hasta lloré. Dije que debíamos esperar y venir con otros."
     },
     "Tr7WDA": {
-        "ko-KR": "[솔리스]\n아니, 나는 내가 어떻게 할 수 있을 줄 알았지. 왜냐면 나는 우리 학회 중에선 가장 강하니까! 아침에 일어나서 운동도 빼먹지 않고 한다구!",
         "en-US": "[Solis]\nNo, I thought I could handle it myself. Because I’m the strongest in our society! I even exercise every morning without fail!",
         "pt-BR": "[Solis]\nNão, eu achei que conseguiria dar conta! Afinal, sou a mais forte da nossa Sociedade! Eu me exercito todo dia! Não tenho uma estria, sou bonita pra caramba!",
         "es-ES": "[Solis]  \n¡No, yo pensé que podría lograrlo! ¡Al fin y al cabo, soy la más fuerte de nuestra Sociedad! ¡Ejercito todos los días! No tengo una estría, ¡soy bien bonita!"
     },
     "T77WDA": {
-        "ko-KR": "[제이]\n그래봤자 우리는 책상머리라고. 약골이 운동해 봤자 <약골님의 체력이 +1 증가되었습니다>지. 안 그러냐?",
         "en-US": "[Jay]\nWe’re still desk workers. No matter how much a weakling exercises, it’s just <Weakling's HP +1>. Right?",
         "pt-BR": "[Tay]\nMesmo assim, somos só acadêmicas. No máximo, você deve ter INT +1, não é?",
         "es-ES": "[Tay]  \nAun así, solo somos académicas. Como mucho, debes tener INT +1, ¿no?"
     },
     "UL7WDA": {
-        "ko-KR": "[솔리스]\n너도 있잖아. 네가 나 다음으로 세잖아. 그래서 우리 둘이 묶여서 보내졌잖아.",
         "en-US": "[Solis]\nYou’re here too. You’re the second strongest after me. That’s why we were sent together.",
         "pt-BR": "[Solis]\nMas você também é forte! É a segunda mais forte depois de mim! Por isso fomos enviadas juntas!",
         "es-ES": "[Solis]  \n¡Pero tú también eres fuerte! ¡Eres la segunda más fuerte después de mí! ¡Por eso nos enviaron juntas!"
     },
     "Ub7WDA": {
-        "ko-KR": "[제이]\n우리 둘이 합쳐 봐야 약골 1+1이라고. 안 그러냐? 이럴 줄 알았으면 그냥 포링이랑 와도 됐을 걸.",
         "en-US": "[Jay]\nEven combined, we’re just Weakling 1+1. Right? If I knew it’d be like this, I would’ve just come with a Poring.",
         "pt-BR": "[Tay]\nMesmo juntas somos fracas no mano a mano. Não é? Se soubéssemos, teríamos vindo com um Cavaleiro Draconiano ou um Guardião Imperial.",
         "es-ES": "[Tay]  \nAun juntas somos débiles en el combate directo. ¿Verdad? Si lo hubiéramos sabido, habríamos venido con un Caballero Draconiano o un Guardián Imperial."
     },
     "Ur7WDA": {
-        "ko-KR": "[솔리스]\n새로운 몬스터들의 패턴을 연구 하려고 했는데... 어휴, 내가 덤비기에는 너무, 너무 강하네요. 패턴만 알면 해치울 수 있는데.",
         "en-US": "[Solis]\nI wanted to study the patterns of these new monsters... but sigh, they’re far, far too strong for me. If I knew their patterns, I could defeat them.",
         "pt-BR": "[Solis]\nQueríamos estudar os padrões dos novos anjos... mas são fortes demais para enfrentarmos. Se fôssemos mais fortes, daria para derrotá-los.",
         "es-ES": "[Solis]  \nQueríamos estudiar los patrones de los nuevos ángeles... pero son demasiado fuertes para enfrentarlos. Si fuéramos más fuertes, podríamos vencerlos."
     },
     "U77WDA": {
-        "ko-KR": "[제이]\n문제는 그것 뿐만이 아닐 텐데.",
         "en-US": "[Jay]\nThat’s not the only problem.",
         "pt-BR": "[Tay]\nEsse não é o único problema.",
         "es-ES": "[Tay]  \nEse no es el único problema."
     },
     "VL7WDA": {
-        "ko-KR": "[솔리스]\n그래서 여기서 일이 필요한 모험가 분이 나타나길 기다렸죠. 몬스터보다 더 강해보이는 모험가님 말이에요. 혹시 저희를 도와주실 수 있나요? 아니, 저희가 고용하겠습니다!!!",
         "en-US": "[Solis]\nSo we waited here for an adventurer who needed work. An adventurer who looks stronger than the monsters. Could you help us? No, we’ll hire you!!!",
         "pt-BR": "[Solis]\nEntão, ficamos esperando por alguém forte o bastante aparecer. Alguém mais forte que os monstros! Poderia nos ajudar? Não, nós queremos te contratar!!!",
         "es-ES": "[Solis]  \nAsí que nos quedamos esperando a que alguien lo suficientemente fuerte apareciera. ¡Alguien más fuerte que los monstruos! ¿Podrías ayudarnos? ¡No, queremos contratarte!"
     },
     "Vb7WDA": {
-        "ko-KR": "[솔리스]\n협회의 지식이 모험가님의 손에 달렸어요! 부디 이 고용 제안을 무시하지 않으셨으면 좋겠어요! 보수도 드릴게요!",
         "en-US": "[Solis]\nThe knowledge of the society depends on you! Please don’t ignore this offer! We’ll pay you!",
         "pt-BR": "[Solis]\nO conhecimento da Sociedade depende de você! Por favor, não recuse nossa proposta! Ofereceremos recompensa!",
         "es-ES": "[Solis]  \n¡El conocimiento de la Sociedad depende de ti! Por favor, ¡no rechaces nuestra propuesta! ¡Te ofreceremos recompensa!"
     },
     "Vr7WDA": {
-        "ko-KR": "[제이]\n저희가 가진 것은 없어도 지식으로부터의 경험은 많습니다.",
         "en-US": "[Jay]\nWe may not have much, but we have plenty of experience from knowledge.",
         "pt-BR": "[Tay]\nTalvez não tenhamos riquezas, mas temos experiência baseada em conhecimento.",
         "es-ES": "[Tay]  \nQuizás no tengamos riquezas, pero tenemos experiencia basada en conocimiento."
     },
     "V77WDA": {
-        "ko-KR": "그럼요!",
         "en-US": "Of course!",
         "pt-BR": "Claro!",
         "es-ES": "¡Claro!"
     },
     "WL7WDA": {
-        "ko-KR": "저도 무서워요...",
         "en-US": "I’m scared too...",
         "pt-BR": "Eu também estou com medo...",
         "es-ES": "También tengo miedo..."
     },
     "Wb7WDA": {
-        "ko-KR": "[솔리스]\n그럼 우리 다른 모험가분들이 지나갈 때까지 기다려요. 심심하면 게임이라도 하실래요?",
         "en-US": "[Solis]\nThen let’s wait until other adventurers pass by. If you’re bored, want to play a game?",
         "pt-BR": "[Solis]\nEntão vamos esperar outros aventureiros passarem. Quer jogar ChamChamCham enquanto isso?",
         "es-ES": "[Solis]  \nEntonces esperemos a que pasen otros aventureros. ¿Quieres jugar ChamChamCham mientras tanto?"
     },
     "Wr7WDA": {
-        "ko-KR": "[솔리스]\n아, 다행이다. 정말 다행이다. 어떤 걸 부탁드리면 좋을까?",
         "en-US": "[Solis]\nAh, what a relief. Truly a relief. What should we ask you to do?",
         "pt-BR": "[Solis]\nAh, que alívio! Que bom! Que missão podemos dar?",
         "es-ES": "[Solis]  \n¡Ay, qué alivio! ¡Qué bien! ¿Qué misión podemos darte?"
     },
     "W77WDA": {
-        "ko-KR": "[제이]\n다 부탁드려. 언제 또 우릴 도와준다는 모험가를 만나겠어?",
         "en-US": "[Jay]\nAsk everything. Who knows when we’ll meet another adventurer willing to help us?",
         "pt-BR": "[Tay]\nTodas! Não sabemos quando encontraremos outra pessoa disposta a ajudar.",
         "es-ES": "[Tay]  \n¡Todas! No sabemos cuándo encontraremos a otra persona dispuesta a ayudar."
     },
     "XL7WDA": {
-        "ko-KR": "[솔리스]\n그래도... 모험가님께 물어 보자. 모험가님도 기호가 있을 거 아니야. 몇 층의 몬스터를 상대하는게 좋으시겠어요?",
         "en-US": "[Solis]\nStill... let’s ask the adventurer. You must have preferences. Which floor’s monsters would you like to handle?",
         "pt-BR": "[Solis]\nMas... é melhor perguntar. Viajantes devem ter preferência. Em qual andar gostaria de enfrentar os monstros?",
         "es-ES": "[Solis]  \nPero... es mejor preguntar. Los viajeros deben tener preferencia. ¿En qué piso te gustaría enfrentar a los monstruos?"
     },
     "Xb7WDA": {
-        "ko-KR": "9층",
         "en-US": "9th Floor",
         "pt-BR": "9º andar",
         "es-ES": "9º piso"
     },
     "Xr7WDA": {
-        "ko-KR": "10층",
         "en-US": "10th Floor",
         "pt-BR": "10º andar",
         "es-ES": "10º piso"
     },
     "X77WDA": {
-        "ko-KR": "11층",
         "en-US": "11th Floor",
         "pt-BR": "11º andar",
         "es-ES": "11º piso"
     },
     "YL7WDA": {
-        "ko-KR": "12층",
         "en-US": "12th Floor",
         "pt-BR": "12º andar",
         "es-ES": "12º piso"
     },
     "Yb7WDA": {
-        "ko-KR": "아무 것도요...",
         "en-US": "None...",
         "pt-BR": "Nenhum...",
         "es-ES": "Ninguno..."
     },
     "Yr7WDA": {
-        "ko-KR": "[솔리스]\n9층이요? 아, 저도 거기 진짜 궁금했는데! 눈 앞에 있는데도 못 가겠더라고요.",
         "en-US": "[Solis]\nThe 9th floor? Ah, I was really curious about that place too! Even though it was right in front of me, I couldn’t go.",
         "pt-BR": "[Solis]\n9º andar? Ah, eu queria muito ir lá! Mas não consegui entrar.",
         "es-ES": "[Solis]  \n¿9º piso? ¡Ah, yo quería ir mucho allí! Pero no pude entrar."
     },
     "Y77WDA": {
-        "ko-KR": "[솔리스]\n9층에서는 ^0000CD크로우 듀크랑 크로우 바론^000000을 상대하시면 돼요. ^0000CD각각 20마리^000000 정도면 될 것 같아요.",
         "en-US": "[Solis]\nOn the 9th floor, you need to deal with ^0000CDCrow Duke and Crow Baron^000000. About ^0000CD20 each^000000 should be enough.",
         "pt-BR": "[Solis]\nNo 9º andar, enfrente ^0000CDDuque Corvo e Barão Corvo^000000. Cerca de ^0000CD20 de cada um^000000 deve ser suficiente.",
         "es-ES": "[Solis]  \nEn el 9º piso, enfréntate a ^0000CDDuque Cuervo y Barón Cuervo^000000. Unos ^0000CD20 de cada uno^000000 debería ser suficiente."
     },
     "ZL7WDA": {
-        "ko-KR": "[제이]\n아, 그리고 여유가 있으시면 ^0000CD슬픔의 파편^000000도 부탁드려도 될까요? ^0000CD10개^000000만요. 그걸 가지고 오시면 ^0000CD보수를 추가로 더^000000 드릴게요. 강요는 아니니까요, 부담갖지는 마시고요.",
         "en-US": "[Jay]\nAh, and if you have time, could you also bring ^0000CD10 Fragment of Misery^000000? If you do, we’ll give you ^0000CDadditional rewards^000000. It’s not mandatory, so don’t feel pressured.",
         "pt-BR": "[Tay]\nAh, e se possível, poderia trazer ^0000CD10 Fragmento de Desgraça^000000? Se trouxer, daremos ^0000CDrecompensa adicional^000000, mas não é obrigatório.",
         "es-ES": "[Tay]  \nAh, y si es posible, ¿podrías traer ^0000CD10 Fragmento de Desgracia^000000? Si los traes, te daremos ^0000CDrecompensa adicional^000000, pero no es obligatorio."
     },
     "Zb7WDA": {
-        "ko-KR": "[솔리스]\n조심히 다녀오세요!",
         "en-US": "[Solis]\nPlease be careful!",
         "pt-BR": "[Solis]\nTenha cuidado!",
         "es-ES": "[Solis]  \n¡Ten cuidado!"
     },
     "Zr7WDA": {
-        "ko-KR": "[솔리스]\n10층이요? 아, 저는 거기에 갔다가 바로 뒤돌아서 나왔거든요. 너무 분했어요.",
         "en-US": "[Solis]\nThe 10th floor? Ah, I went there and immediately turned back. It was so frustrating.",
         "pt-BR": "[Solis]\n10º andar? Ah, eu fui até lá e voltei correndo. Foi frustrante.",
         "es-ES": "[Solis]  \n¿10º piso? Ah, yo fui hasta allá y volví corriendo. Fue frustrante."
     },
     "Z77WDA": {
-        "ko-KR": "[솔리스]\n10층에서는 ^0000CD보이드 미믹, 죽음의 책, 엘디스트^000000를 상대하시면 돼요. ^0000CD각각 15마리^000000 정도면 될 것 같아요.",
         "en-US": "[Solis]\nOn the 10th floor, you need to deal with ^0000CDVoid Mimic, Book of Death, and Eldest^000000. About ^0000CD15 each^000000 should be enough.",
         "pt-BR": "[Solis]\nNo 10º andar, enfrente ^0000CDMímico do Vazio, Livro Morto e Ancião Primitivo^000000. Cerca de ^0000CD15 de cada um^000000.",
         "es-ES": "[Solis]  \nEn el 10º piso, enfréntate a ^0000CDMímico del Vacío, Libro Muerto y Anciano Primitivo^000000. Unos ^0000CD15 de cada uno^000000."
     },
     "aL7WDA": {
-        "ko-KR": "[제이]\n아, 그리고 여유가 있으시면 ^0000CD절망의 파편^000000도 부탁드려도 될까요? ^0000CD10개^000000만요. 그걸 가지고 오시면 ^0000CD보수를 추가로 더^000000 드릴게요. 강요는 아니니까요, 부담갖지는 마시고요.",
         "en-US": "[Jay]\nAh, and if you have time, could you also bring ^0000CD10 Fragment of Despair^000000? If you do, we’ll give you ^0000CDadditional rewards^000000. It’s not mandatory, so don’t feel pressured.",
         "pt-BR": "[Tay]\nSe puder, traga também ^0000CD10 Fragmento de Desespero^000000. Haverá ^0000CDrecompensa extra^000000.",
         "es-ES": "[Tay]  \nSi puedes, trae también ^0000CD10 Fragmento de Desesperación^000000. Habrá ^0000CDrecompensa extra^000000."
     },
     "ab7WDA": {
-        "ko-KR": "[솔리스]\n11층이요? 이야~ 우린 거기 발 들여 놓자마자 도망쳐 나왔는데. 정말 힐끔 보기만 해서 어찌나 답답하던지!",
         "en-US": "[Solis]\nThe 11th floor? Wow~ We ran away the moment we stepped in there. It was so frustrating just getting a glimpse!",
         "pt-BR": "[Solis]\n11º andar? Nós fugimos assim que pisamos lá. Só conseguimos dar uma olhada rápida!",
         "es-ES": "[Solis]  \n¿11º piso? Nosotras huimos apenas pisamos allí. ¡Solo pudimos echar un vistazo rápido!"
     },
     "ar7WDA": {
-        "ko-KR": "[솔리스]\n11층에서는 ^0000CD공감하는 자, 행복을 주는 자, 축원하는 자, 웃음을 주는 자^000000를 상대하시면 돼요. ^0000CD각각 15마리^000000 정도면 될 것 같아요.",
         "en-US": "[Solis]\nOn the 11th floor, you need to deal with ^0000CDEmpathizer, Happiness Giver, Pray Giver, and Smile Giver^000000. About ^0000CD15 each^000000 should be enough.",
         "pt-BR": "[Solis]\nNo 11º andar, enfrente ^0000CDEmpatia, Alegria, Oração e Sorriso^000000. Cerca de ^0000CD15 de cada um^000000.",
         "es-ES": "[Solis]  \nEn el 11º piso, enfréntate a ^0000CDEmpatía, Alegría, Oración y Sonrisa^000000. Unos ^0000CD15 de cada uno^000000."
     },
     "a77WDA": {
-        "ko-KR": "[제이]\n아, 그리고 여유가 있으시면 ^0000CD증오의 파편^000000도 부탁드려도 될까요? ^0000CD10개^000000만요. 그걸 가지고 오시면 ^0000CD보수를 추가로 더^000000 드릴게요. 강요는 아니니까요, 부담갖지는 마시고요.",
         "en-US": "[Jay]\nAh, and if you have time, could you also bring ^0000CD10 Fragment of Hatred^000000? If you do, we’ll give you ^0000CDadditional rewards^000000. It’s not mandatory, so don’t feel pressured.",
         "pt-BR": "[Tay]\nE se possível, traga ^0000CD10 Fragmento de Ódio^000000. Haverá ^0000CDrecompensa extra^000000.",
         "es-ES": "[Tay]  \nY si es posible, trae ^0000CD10 Fragmento de Odio^000000. Habrá ^0000CDrecompensa extra^000000."
     },
     "bL7WDA": {
-        "ko-KR": "[솔리스]\n12층이요? 어휴, 저희는 거기 발도 못 들여놨어요. 모험가님 정말 용감하시다.",
         "en-US": "[Solis]\nThe 12th floor? Sigh, we couldn’t even set foot there. You’re truly brave, adventurer.",
         "pt-BR": "[Solis]\n12º andar? Nem conseguimos entrar lá. Você tem muita coragem.",
         "es-ES": "[Solis]  \n¿12º piso? Ni siquiera pudimos entrar allí. Tienes mucho valor."
     },
     "bb7WDA": {
-        "ko-KR": "[솔리스]\n12층에서는 ^0000CD타나토스의 분노, 타나토스의 공포, 타나토스의 후회, 타나토스의 원망^000000을 상대하시면 돼요. ^0000CD각각 10마리^000000 정도면 될 것 같아요.",
         "en-US": "[Solis]\nOn the 12th floor, you need to deal with ^0000CDAnger of Thanatos, Horror of Thanatos, Regret of Thanatos, and Resentment of Thanatos^000000. About ^0000CD10 each^000000 should be enough.",
         "pt-BR": "[Solis]\nNo 12º andar, enfrente ^0000CDIra de Thanatos, Horror de Thanatos, Lamento de Thanatos e Rancor de Thanatos^000000. Cerca de ^0000CD10 de cada um^000000.",
         "es-ES": "[Solis]  \nEn el 12º piso, enfréntate a ^0000CDIra de Thanatos, Horror de Thanatos, Lamento de Thanatos y Rencor de Thanatos^000000. Unos ^0000CD10 de cada uno^000000."
     },
     "br7WDA": {
-        "ko-KR": "[제이]\n아, 그리고 여유가 있으시면 ^0000CD고뇌의 파편^000000도 부탁드려도 될까요? ^0000CD10개^000000만요. 그걸 가지고 오시면 ^0000CD보수를 추가로 더^000000 드릴게요. 강요는 아니니까요, 부담갖지는 마시고요.",
         "en-US": "[Jay]\nAh, and if you have time, could you also bring ^0000CD10 Fragment of Agony^000000? If you do, we’ll give you ^0000CDadditional rewards^000000. It’s not mandatory, so don’t feel pressured.",
         "pt-BR": "[Tay]\nSe puder, traga ^0000CD10 Fragmento de Agonia^000000. Haverá ^0000CDrecompensa extra^000000.",
         "es-ES": "[Tay]  \nSi puedes, trae ^0000CD10 Fragmento de Agonía^000000. Habrá ^0000CDrecompensa extra^000000."
     },
     "b77WDA": {
-        "ko-KR": "[솔리스]\n흥미가 안 생기시나요? 그럼 어쩔 수 없고요. 다음에 또 만나게 되면 그땐 꼭 좀 도와주세요.",
         "en-US": "[Solis]\nNot interested? Then it can’t be helped. If we meet again, please help us then.",
         "pt-BR": "[Solis]\nNão se interessou? Que pena. Da próxima vez, por favor nos ajude.",
         "es-ES": "[Solis]  \n¿No te interesó? Qué pena. La próxima vez, por favor ayúdanos."
     },
     "cL7WDA": {
-        "ko-KR": "[솔리스]\n모험가님이시잖아? 몇 층을 봐주시기로 하셨죠?",
         "en-US": "[Solis]\nYou’re an adventurer, right? Which floor did you choose to handle?",
         "pt-BR": "[Solis]\nVocê está cumprindo uma missão, certo? Qual andar escolheu?",
         "es-ES": "[Solis]  \n¿Estás cumpliendo una misión, cierto? ¿Qué piso elegiste?"
     },
     "cb7WDA": {
-        "ko-KR": "[솔리스]\n멋져요. 아름다워요. 덕분에 몬스터학의 양적, 질적 발전을 이룰 수 있게 되었어요.",
         "en-US": "[Solis]\nWonderful. Beautiful. Thanks to you, monster studies have achieved both quantitative and qualitative progress.",
         "pt-BR": "[Solis]\nIncrível. Graças a você, o estudo dos monstros avançou muito.",
         "es-ES": "[Solis]  \nIncreíble. Gracias a ti, el estudio de los monstruos ha avanzado mucho."
     },
     "cr7WDA": {
-        "ko-KR": "[제이]\n말씀 드린 슬픔의 파편도 가지고 오셨네요. 정말 감사합니다.",
         "en-US": "[Jay]\nYou also brought the Fragment of Misery we mentioned. Thank you very much.",
         "pt-BR": "[Tay]\nVocê trouxe Fragmento de Desgraça também. Muito obrigada.",
         "es-ES": "[Tay]  \nTrajiste Fragmento de Desgracia también. Muchas gracias."
     },
     "c77WDA": {
-        "ko-KR": "저희는 정리를 하고 있을 테니 새벽이 지나면 이곳으로 다시 와주세요.",
         "en-US": "We will organize our data, so please return here after dawn.",
         "pt-BR": "Estaremos organizando as informações, então volte após o amanhecer.",
         "es-ES": "Estaremos organizando la información, así que vuelve después del amanecer."
     },
     "dL7WDA": {
-        "ko-KR": "[솔리스]\n맞다, 그랬죠. ^0000CD크로우 듀크랑 크로우 바론^000000을 상대하시면 돼요. ^0000CD각각 20마리^000000 정도 처리하기로 하셨죠?",
         "en-US": "[Solis]\nRight, that’s it. You need to deal with ^0000CDCrow Duke and Crow Baron^000000. About ^0000CD20 each^000000, correct?",
         "pt-BR": "[Solis]\nIsso mesmo. ^0000CDDuque Corvo e Barão Corvo^000000, certo? ^0000CD20 de cada um^000000.",
         "es-ES": "[Solis]  \nAsí es. ^0000CDDuque Cuervo y Barón Cuervo^000000, ¿verdad? ^0000CD20 de cada uno^000000."
     },
     "db7WDA": {
-        "ko-KR": "[제이]\n그리고 여유가 있으시면 ^0000CD슬픔의 파편^000000도 ^0000CD10개^000000만 부탁드려요. 그걸 가지고 오시면 ^0000CD보수를 추가로 더^000000 드릴게요. 강요는 아니니까요, 부담갖지는 마시고요.",
         "en-US": "[Jay]\nAnd if you have time, please bring ^0000CD10 Fragment of Misery^000000. If you do, we’ll give you ^0000CDadditional rewards^000000. It’s not mandatory, so don’t feel pressured.",
         "pt-BR": "[Tay]\nE se puder, ^0000CD10 Fragmento de Desgraça^000000. Haverá ^0000CDrecompensa extra^000000.",
         "es-ES": "[Tay]  \nY si puedes, ^0000CD10 Fragmento de Desgracia^000000. Habrá ^0000CDrecompensa extra^000000."
     },
     "dr7WDA": {
-        "ko-KR": "[솔리스]\n충분히 쉬셨어요? 그럼 오늘도 부탁드려도 될까요?",
         "en-US": "[Solis]\nDid you rest enough? Then could we ask for your help again today?",
         "pt-BR": "[Solis]\nDescansou bem? Pode nos ajudar novamente hoje?",
         "es-ES": "[Solis]  \n¿Descansaste bien? ¿Puedes ayudarnos nuevamente hoy?"
     },
     "d77WDA": {
-        "ko-KR": "그럼요.",
         "en-US": "Of course.",
         "pt-BR": "Claro.",
         "es-ES": "Claro."
     },
     "eL7WDA": {
-        "ko-KR": "오늘은 쉴게요.",
         "en-US": "I’ll rest today.",
         "pt-BR": "Hoje vou descansar.",
         "es-ES": "Hoy voy a descansar."
     },
     "eb7WDA": {
-        "ko-KR": "[솔리스]\n히히! 감사합니다. 그럼 오늘도 ^0000CD크로우 듀크랑 크로우 바론^000000을 상대하시면 돼요. ^0000CD각각 20마리^000000 정도 잡으시면 돼요.?",
         "en-US": "[Solis]\nHehe! Thank you. Then today as well, deal with ^0000CDCrow Duke and Crow Baron^000000. About ^0000CD20 each^000000 should be enough.?",
         "pt-BR": "[Solis]\nHehe! Obrigada! Então hoje também enfrente ^0000CDDuque Corvo e Barão Corvo^000000, ^0000CD20 de cada um^000000.",
         "es-ES": "[Solis]  \n¡Jeje! ¡Gracias! Entonces hoy también enfréntate a ^0000CDDuque Cuervo y Barón Cuervo^000000, ^0000CD20 de cada uno^000000."
     },
     "er7WDA": {
-        "ko-KR": "[제이]\n아! 여유가 있으시면 ^0000CD슬픔의 파편^000000도 ^0000CD10개^000000만 부탁드려요. 그걸 가지고 오시면 ^0000CD보수를 추가로 더^000000 드릴게요. 강요는 아니니까요, 부담갖지는 마시고요.",
         "en-US": "[Jay]\nAh! If you have time, please bring ^0000CD10 Fragment of Misery^000000. If you do, we’ll give you ^0000CDadditional rewards^000000. It’s not mandatory, so don’t feel pressured.",
         "pt-BR": "[Tay]\nE ^0000CD10 Fragmento de Desgraça^000000, se possível. Haverá ^0000CDrecompensa extra^000000.",
         "es-ES": "[Tay]  \nY ^0000CD10 Fragmento de Desgracia^000000, si es posible. Habrá ^0000CDrecompensa extra^000000."
     },
     "e77WDA": {
-        "ko-KR": "[솔리스]\n쉬고 싶은 마음 누구보다 제가 잘 알죠. 노는 게 제일 좋은데! 다음에 여유 되면 저희를 꼭 찾아 주세요.",
         "en-US": "[Solis]\nI understand wanting to rest better than anyone. Resting is the best! If you have time later, please come find us again.",
         "pt-BR": "[Solis]\nEu entendo querer descansar. Volte quando puder.",
         "es-ES": "[Solis]  \nEntiendo que quieras descansar. Vuelve cuando puedas."
     },
     "fL7WDA": {
-        "ko-KR": "[솔리스]\n아니, 벌써요? 의욕적인 모습 정말 보기 좋네요. 그런데 저희가 이전 데이터 정리를 아직 못했어요. 죄송하지만 새벽이 지난 후에 다시 찾아와 주세요.",
         "en-US": "[Solis]\nAlready? I like your enthusiasm. But we haven’t finished organizing the previous data yet. Sorry, please come back after dawn.",
         "pt-BR": "[Solis]\nJá vai? Que motivação! Mas ainda não terminamos de organizar as informações. Volte após o amanhecer.",
         "es-ES": "[Solis]  \n¿Ya te vas? ¡Qué motivación! Pero aún no terminamos de organizar la información. Vuelve después del amanecer."
     },
     "fb7WDA": {
-        "ko-KR": "[솔리스]\n9층이요? 아, 저도 거기 진짜 궁금했는데 눈 앞에 있는데도 못 가겠더라고요. 9층에 가보시겠어요?",
         "en-US": "[Solis]\nThe 9th floor? I was really curious about it too, but I couldn’t go even though it was right in front of me. Will you go to the 9th floor?",
         "pt-BR": "[Solis]\n9º andar? Quer tentar ir lá?",
         "es-ES": "[Solis]  \n¿9º piso? ¿Quieres intentar ir allí?"
     },
     "fr7WDA": {
-        "ko-KR": "다녀올게요.",
         "en-US": "I’ll go.",
         "pt-BR": "Vou.",
         "es-ES": "Sí."
     },
     "f77WDA": {
-        "ko-KR": "아니오.",
         "en-US": "No.",
         "pt-BR": "Não.",
         "es-ES": "No."
     },
     "gL7WDA": {
-        "ko-KR": "[솔리스]\n이곳에서 살아만 나간다면 다시는 현장에 나가지 말아야지.",
         "en-US": "[Solis]\nIf I make it out alive, I should never go into the field again.",
         "pt-BR": "[Solis]\nSe eu sair viva daqui, nunca mais faço trabalho em campo.",
         "es-ES": "[Solis]  \nSi salgo viva de aquí, nunca más haré trabajo de campo."
     },
     "gb7WDA": {
-        "ko-KR": "[제이]\n말씀 드린 절망의 파편도 가지고 오셨네요. 정말 감사합니다.",
         "en-US": "[Jay]\nYou brought the Fragment of Despair we mentioned. Thank you very much.",
         "pt-BR": "[Tay]\nVocê trouxe Fragmento de Desespero. Obrigada.",
         "es-ES": "[Tay]  \nTrajiste Fragmento de Desesperación. Gracias."
     },
     "gr7WDA": {
-        "ko-KR": "[솔리스]\n맞다, 그랬죠. ^0000CD보이드 미믹, 죽음의 책, 엘디스트^000000를 상대하시면 돼요. ^0000CD각각 15마리^000000 정도 처리하기로 하셨죠?",
         "en-US": "[Solis]\nRight, that’s it. You need to deal with ^0000CDVoid Mimic, Book of Death, and Eldest^000000. About ^0000CD15 each^000000, correct?",
         "pt-BR": "[Solis]\nIsso mesmo. ^0000CDMímico do Vazio, Livro Morto e Ancião Primitivo^000000, por favor! ^0000CD15 de cada um^000000.",
         "es-ES": "[Solis]  \nAsí es. ¡^0000CDMímico del Vacío, Libro Muerto y Anciano Primitivo^000000, por favor! ^0000CD15 de cada uno^000000."
     },
     "g77WDA": {
-        "ko-KR": "[제이]\n그리고 여유가 있으시면 ^0000CD절망의 파편^000000도 ^0000CD10개^000000만 부탁드려요. 그걸 가지고 오시면 ^0000CD보수를 추가로 더^000000 드릴게요. 강요는 아니니까요, 부담갖지는 마시고요.",
         "en-US": "[Jay]\nAnd if you have time, please bring ^0000CD10 Fragment of Despair^000000. If you do, we’ll give you ^0000CDadditional rewards^000000. It’s not mandatory, so don’t feel pressured.",
         "pt-BR": "[Tay]\nE ^0000CD10 Fragmento de Desespero^000000. Haverá ^0000CDrecompensa extra^000000.",
         "es-ES": "[Tay]  \nY ^0000CD10 Fragmento de Desesperación^000000. Habrá ^0000CDrecompensa extra^000000."
     },
     "hL7WDA": {
-        "ko-KR": "[솔리스]\n히히! 감사합니다. 그럼 오늘도 ^0000CD보이드 미믹, 죽음의 책, 엘디스트^000000를 상대하시면 돼요. ^0000CD각각 15마리^000000 정도 잡으시면 돼요.?",
         "en-US": "[Solis]\nHehe! Thank you. Then today as well, deal with ^0000CDVoid Mimic, Book of Death, and Eldest^000000. About ^0000CD15 each^000000 should be enough.?",
         "pt-BR": "[Solis]\nObrigada! Continue hoje com ^0000CDMímico do Vazio, Livro Morto e Ancião Primitivo^000000, por favor! ^0000CD15 de cada um^000000.",
         "es-ES": "[Solis]  \n¡Gracias! Continúa hoy con ^0000CDMímico del Vacío, Libro Muerto y Anciano Primitivo^000000, ¡por favor! ^0000CD15 de cada uno^000000."
     },
     "hb7WDA": {
-        "ko-KR": "[제이]\n아! 여유가 있으시면 ^0000CD절망의 파편^000000도 ^0000CD10개^000000만 부탁드려요. 그걸 가지고 오시면 ^0000CD보수를 추가로 더^000000 드릴게요. 강요는 아니니까요, 부담갖지는 마시고요.",
         "en-US": "[Jay]\nAh! If you have time, please bring ^0000CD10 Fragment of Despair^000000. If you do, we’ll give you ^0000CDadditional rewards^000000. It’s not mandatory, so don’t feel pressured.",
         "pt-BR": "[Tay]\nE ^0000CD10 Fragmento de Desespero^000000, se possível.",
         "es-ES": "[Tay]  \nY ^0000CD10 Fragmento de Desesperación^000000, si es posible."
     },
     "hr7WDA": {
-        "ko-KR": "[제이]\n말씀 드린 증오의 파편도 가지고 오셨네요. 정말 감사합니다.",
         "en-US": "[Jay]\nYou brought the Fragment of Hatred we mentioned. Thank you very much.",
         "pt-BR": "[Tay]\nVocê trouxe Fragmento de Ódio. Obrigada.",
         "es-ES": "[Tay]  \nTrajiste Fragmento de Odio. Gracias."
     },
     "h77WDA": {
-        "ko-KR": "[솔리스]\n맞다, 그랬죠. ^0000CD공감하는 자, 행복을 주는 자, 축원하는 자, 웃음을 주는 자^000000들을 상대하시면 돼요. ^0000CD각각 15마리^000000 정도 처리하기로 하셨죠?",
         "en-US": "[Solis]\nRight, that’s it. You need to deal with ^0000CDEmpathizer, Happiness Giver, Pray Giver, and Smile Giver^000000. About ^0000CD15 each^000000, correct?",
         "pt-BR": "[Solis]\nIsso mesmo. ^0000CDEmpatia, Alegria, Oração e Sorriso^000000, por favor! ^0000CD15 de cada um^000000.",
         "es-ES": "[Solis]  \nAsí es. ¡^0000CDEmpatía, Alegría, Oración y Sonrisa^000000, por favor! ^0000CD15 de cada uno^000000."
     },
     "iL7WDA": {
-        "ko-KR": "[제이]\n그리고 여유가 있으시면 ^0000CD증오의 파편^000000도 ^0000CD10개^000000만 부탁드려요. 그걸 가지고 오시면 ^0000CD보수를 추가로 더^000000 드릴게요. 강요는 아니니까요, 부담갖지는 마시고요.",
         "en-US": "[Jay]\nAnd if you have time, please bring ^0000CD10 Fragment of Hatred^000000. If you do, we’ll give you ^0000CDadditional rewards^000000. It’s not mandatory, so don’t feel pressured.",
         "pt-BR": "[Tay]\nE ^0000CD10 Fragmento de Ódio^000000. Haverá ^0000CDrecompensa extra^000000.",
         "es-ES": "[Tay]  \nY ^0000CD10 Fragmento de Odio^000000. Habrá ^0000CDrecompensa extra^000000."
     },
     "ib7WDA": {
-        "ko-KR": "[솔리스]\n히히! 감사합니다. 그럼 오늘도 ^0000CD공감하는 자, 행복을 주는 자, 축원하는 자, 웃음을 주는 자^000000들을 상대하시면 돼요. ^0000CD각각 15마리^000000 정도 잡으시면 돼요.?",
         "en-US": "[Solis]\nHehe! Thank you. Then today as well, deal with ^0000CDEmpathizer, Happiness Giver, Pray Giver, and Smile Giver^000000. About ^0000CD15 each^000000 should be enough.?",
         "pt-BR": "[Solis]\nObrigada! Continue hoje com esses monstros, ^0000CD15 de cada^000000.",
         "es-ES": "[Solis]  \n¡Gracias! Continúa hoy con esos monstruos, ^0000CD15 de cada uno^000000."
     },
     "ir7WDA": {
-        "ko-KR": "[제이]\n아! 여유가 있으시면 ^0000CD증오의 파편^000000도 ^0000CD10개^000000만 부탁드려요. 그걸 가지고 오시면 ^0000CD보수를 추가로 더^000000 드릴게요. 강요는 아니니까요, 부담갖지는 마시고요.",
         "en-US": "[Jay]\nAh! If you have time, please bring ^0000CD10 Fragment of Hatred^000000. If you do, we’ll give you ^0000CDadditional rewards^000000. It’s not mandatory, so don’t feel pressured.",
         "pt-BR": "[Tay]\nE ^0000CD10 Fragmento de Ódio^000000, se possível.",
         "es-ES": "[Tay]  \nY ^0000CD10 Fragmento de Odio^000000, si es posible."
     },
     "i77WDA": {
-        "ko-KR": "[솔리스]\n11층이요? 이야~ 우린 거기 발 들여 놓자마자 도망쳐 나왔는데. 정말 힐끔 보기만 해서 어찌나 답답하던지! 11층에 가보시겠어요?",
         "en-US": "[Solis]\nThe 11th floor? Wow~ We ran away as soon as we stepped in. It was so frustrating just catching a glimpse! Will you go to the 11th floor?",
         "pt-BR": "[Solis]\n11º andar? Quer tentar?",
         "es-ES": "[Solis]  \n¿11º piso? ¿Quieres intentarlo?"
     },
     "jL7WDA": {
-        "ko-KR": "[제이]\n말씀 드린 고뇌의 파편도 가지고 오셨네요. 정말 감사합니다.",
         "en-US": "[Jay]\nYou brought the Fragment of Agony we mentioned. Thank you very much.",
         "pt-BR": "[Tay]\nVocê trouxe Fragmento de Agonia. Obrigada.",
         "es-ES": "[Tay]  \nTrajiste Fragmento de Agonía. Gracias."
     },
     "jb7WDA": {
-        "ko-KR": "[솔리스]\n맞다, 그랬죠. ^0000CD타나토스의 분노, 타나토스의 공포, 타나토스의 후회, 타나토스의 원망^000000을 상대하시면 돼요. ^0000CD각각 10마리^000000 정도 처리하기로 하셨죠?",
         "en-US": "[Solis]\nRight, that’s it. You need to deal with ^0000CDAnger of Thanatos, Horror of Thanatos, Regret of Thanatos, and Resentment of Thanatos^000000. About ^0000CD10 each^000000, correct?",
         "pt-BR": "[Solis]\nIsso mesmo. ^0000CDIra de Thanatos, Horror de Thanatos, Lamento de Thanatos e Rancor de Thanatos^000000, por favor! ^0000CD10 de cada um^000000.",
         "es-ES": "[Solis]  \nAsí es. ¡^0000CDIra de Thanatos, Horror de Thanatos, Lamento de Thanatos y Rencor de Thanatos^000000, por favor! ^0000CD10 de cada uno^000000."
     },
     "jr7WDA": {
-        "ko-KR": "[제이]\n그리고 여유가 있으시면 ^0000CD고뇌의 파편^000000도 ^0000CD10개^000000만 부탁드려요. 그걸 가지고 오시면 ^0000CD보수를 추가로 더^000000 드릴게요. 강요는 아니니까요, 부담갖지는 마시고요.",
         "en-US": "[Jay]\nAnd if you have time, please bring ^0000CD10 Fragment of Agony^000000. If you do, we’ll give you ^0000CDadditional rewards^000000. It’s not mandatory, so don’t feel pressured.",
         "pt-BR": "[Tay]\nE ^0000CD10 Fragmento de Agonia^000000. Haverá ^0000CDrecompensa extra^000000.",
         "es-ES": "[Tay]  \nY ^0000CD10 Fragmento de Agonía^000000. Habrá ^0000CDrecompensa extra^000000."
     },
     "j77WDA": {
-        "ko-KR": "[솔리스]\n히히! 감사합니다. 그럼 오늘도 ^0000CD타나토스의 분노, 타나토스의 공포, 타나토스의 후회, 타나토스의 원망^000000을 상대하시면 돼요. ^0000CD각각 10마리^000000 정도 잡으시면 돼요.?",
         "en-US": "[Solis]\nHehe! Thank you. Then today as well, deal with ^0000CDAnger of Thanatos, Horror of Thanatos, Regret of Thanatos, and Resentment of Thanatos^000000. About ^0000CD10 each^000000 should be enough.?",
         "pt-BR": "[Solis]\nObrigada! Continue hoje com esses monstros.",
         "es-ES": "[Solis]  \n¡Gracias! Continúa hoy con esos monstruos."
     },
     "kL7WDA": {
-        "ko-KR": "[제이]\n아! 여유가 있으시면 ^0000CD고뇌의 파편^000000도 ^0000CD10개^000000만 부탁드려요. 그걸 가지고 오시면 ^0000CD보수를 추가로 더^000000 드릴게요. 강요는 아니니까요, 부담갖지는 마시고요.",
         "en-US": "[Jay]\nAh! If you have time, please bring ^0000CD10 Fragment of Agony^000000. If you do, we’ll give you ^0000CDadditional rewards^000000. It’s not mandatory, so don’t feel pressured.",
         "pt-BR": "[Tay]\nE ^0000CD10 Fragmento de Agonia^000000, se possível.",
         "es-ES": "[Tay]  \nY ^0000CD10 Fragmento de Agonía^000000, si es posible."
     },
     "kb7WDA": {
-        "ko-KR": "[솔리스]\n12층이요? 어휴, 저희는 거기 발도 못 들여놨어요. 모험가님 정말 용감하시다. 12층에 가보시겠어요?",
         "en-US": "[Solis]\nThe 12th floor? Sigh, we couldn’t even set foot there. You’re truly brave, adventurer. Will you go to the 12th floor?",
         "pt-BR": "[Solis]\n12º andar? Quer tentar?",
         "es-ES": "[Solis]  \n¿12º piso? ¿Quieres intentarlo?"
     },
     "kr7WDA": {
-        "ko-KR": "[솔리스]\n타워와 몬스터에 대한 그 어떤 흥미도 안 생기시나요? 그럼 어쩔 수 없고요. 다음에 또 만나게 되면 그땐 꼭 좀 도와주세요.",
         "en-US": "[Solis]\nNot interested in the tower or monsters at all? Then it can’t be helped. If we meet again, please help us then.",
         "pt-BR": "[Solis]\nSem interesse? Que pena. Nos ajude da próxima vez.",
         "es-ES": "[Solis]  \n¿Sin interés? Qué pena. Ayúdanos la próxima vez."
     },
     "k77WDA": {
-        "ko-KR": "제이",
         "en-US": "Jay",
         "pt-BR": "Tay",
         "es-ES": "Tay"
     },
     "lL7WDA": {
-        "ko-KR": "[제이]\n보아하니 계약도 안하신 분 같은데요, 그럼 같이 일을 할 수가 없어요. 어서 이 옆의 안내원에게서 계약 안내를 받으세요.",
         "en-US": "[Jay]\nYou don’t seem to have a contract, so we can’t work together. Please receive contract guidance from the attendant next to me.",
         "pt-BR": "[Tay]\nParece que você não tem contrato. Não podemos trabalhar juntas. Procure a Recepcionista ao lado.",
         "es-ES": "[Tay]  \nParece que no tienes contrato. No podemos trabajar juntas. Busca a la Recepcionista de al lado."
     },
     "lb7WDA": {
-        "ko-KR": "[제이]\n내가 이곳에서 살아서 나간다면.. 진짜.. 할 말이 있다면 솔리스에게 하세요. 저는 좀 바쁘거든요. 내가 정말 나가기만 하면...!",
         "en-US": "[Jay]\nIf I make it out alive from here.. really.. if you have something to say, say it to Solis. I’m a bit busy. If I can just get out...!",
         "pt-BR": "[Tay]\nSe eu sair viva daqui... tenho algo muito feio pra dizer a Solis. Estou ocupada agora.",
         "es-ES": "[Tay]  \nSi salgo viva de aquí... tengo algo muy feo que decirle a Solis. Estoy ocupada ahora."
     },
     "lr7WDA": {
-        "ko-KR": "[제이]\n몬스터들을 상대하는 모험가님을 보니, 몬스터를 연구할 것이 아니라 모험가님을 연구해야 하는 거 아닐까,.. 하는 생각이 들었는데 어떻게 생각하세요?",
         "en-US": "[Jay]\nWatching you fight monsters makes me think... maybe we should study adventurers instead of monsters. What do you think?",
         "pt-BR": "[Tay]\nVendo você lutar, penso... talvez devêssemos estudar viajantes em vez de monstros. O que acha?",
         "es-ES": "[Tay]  \nViendo cómo luchas, pienso... quizás deberíamos estudiar a los viajeros en lugar de a los monstruos. ¿Qué opinas?"

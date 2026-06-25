@@ -5,11 +5,13 @@
         "es-ES": "Emmitt White"
     },
     "wZ9IBw": {
-        "en-US": "Magic Tournament"
+        "en-US": "Magic Tournament",
+        "pt-BR": "Torneio de Magia",
+        "es-ES": "Torneo de Magia"
     },
     "wp9IBw": {
         "en-US": "[Time Travel Researcher]\nJust a second.\nYou need to wait for the time to expire before going back.",
-        "pt-BR": "[Pesquisador de Fissuras]\nNão é suficiente!\nVocê pode me ajudar amanhã?\nSobre a competição de magia na fissura de Geffen\nVocê pode descobrir para mim?\nEstarei esperando...",
+        "pt-BR": "[Pesquisador de Fissuras]\nNão é suficiente!\nVocê pode me ajudar amanhã?\nSobre a Torneio de Magia na fissura de Geffen\nVocê pode descobrir para mim?\nEstarei esperando...",
         "es-ES": "[Investigador del tiempo]\nUn momento.\nDebes esperar a que se acabe el tiempo antes de volver a entrar."
     },
     "w59IBw": {
@@ -19,7 +21,7 @@
     },
     "xJ9IBw": {
         "en-US": "[Time Travel Researcher]\nThe Dimensional Device will let you participate in the Geffen Magic Tournament.\nLet me know when you're ready to join.",
-        "pt-BR": "[Pesquisador de Fissuras]\nEntre na fissura \ncom o Dispositivo Dimensional\ne participe da competição de magia de Geffen\nEsse mundo existiu há muito tempo.\nO caminho dos heróis\nVocê pode me informar?",
+        "pt-BR": "[Pesquisador de Fissuras]\nEntre na fissura \ncom o Dispositivo Dimensional\ne participe da Torneio de Magia de Geffen\nEsse mundo existiu há muito tempo.\nO caminho dos heróis\nVocê pode me informar?",
         "es-ES": "[Investigador del tiempo]\nEl Dispositivo Interdimensional te permitirá participar en el Torneo de magia de Geffen.\nAvísame cuando quieras unirte."
     },
     "xZ9IBw": {
@@ -143,7 +145,9 @@
         "es-ES": "Se produjo un error desconocido."
     },
     "3Z9IBw": {
-        "en-US": "Memorial dungeon{0}Does not exist...\nThe party leader did not create a memorial dungeon instance."
+        "en-US": "Memorial dungeon{0}Does not exist...\nThe party leader did not create a memorial dungeon instance.",
+        "pt-BR": "{0} não existe...\nA liderança do grupo não criou a instância.",
+        "es-ES": "{0} no existe...\nEl líder del grupo no creó la instancia."
     },
     "3p9IBw": {
         "en-US": "Only party members are allowed to enter memorial dungeon.",
@@ -151,7 +155,9 @@
         "es-ES": "Solo los miembros del grupo pueden entrar en la Mazmorra del Recuerdo."
     },
     "359IBw": {
-        "en-US": "{0} of the party, {1}, is entering the  {2}."
+        "en-US": "{0} of the party, {1}, is entering the  {2}.",
+        "pt-BR": "{0} do grupo {1}, entrou em {2}.",
+        "es-ES": "{0} del grupo {1}, ingresó a {2}."
     },
     "4J9IBw": {
         "en-US": "Looks like the window of opportunity is not open right now.",
@@ -170,12 +176,12 @@
     },
     "459IBw": {
         "en-US": "Magic Tournament",
-        "pt-BR": "Geffen Magic competitions",
+        "pt-BR": "Torneio de Magia de Geffen",
         "es-ES": "Torneo de magia"
     },
     "5J9IBw": {
         "en-US": "Magic Tournament re-set",
-        "pt-BR": "A competição de magia de Geffen foi reiniciada",
+        "pt-BR": "A Torneio de Magia de Geffen foi reiniciada",
         "es-ES": "Reprogramar el Torneo de magia."
     },
     "5Z9IBw": {
@@ -185,17 +191,17 @@
     },
     "5p9IBw": {
         "en-US": "[Magic Tournament]\nRe-set",
-        "pt-BR": "[Competição de magia de Geffen]\nReiniciar",
+        "pt-BR": "[Torneio de Magia de Geffen]\nReiniciar",
         "es-ES": "[Torneo de magia]\nReprogramar."
     },
     "559IBw": {
         "en-US": "[Magic Tournament]\nCompleted.",
-        "pt-BR": "[Competição de magia de Geffen]\nConcluída.",
+        "pt-BR": "[Torneio de Magia de Geffen]\nConcluída.",
         "es-ES": "[Torneo de magia]\nCompletado."
     },
     "6J9IBw": {
         "en-US": "[Magic Tournament]\nThank you!",
-        "pt-BR": "[Competição de magia de Geffen]\nObrigado!",
+        "pt-BR": "[Torneio de Magia de Geffen]\nObrigado!",
         "es-ES": "[Torneo de magia]\n¡Gracias!"
     },
     "6Z9IBw": {
@@ -215,12 +221,12 @@
     },
     "7J9IBw": {
         "en-US": "TURN Tournament ON",
-        "pt-BR": "ATIVAR Competição de magia de Geffen",
+        "pt-BR": "ATIVAR Torneio de Magia de Geffen",
         "es-ES": "ACTIVAR el torneo."
     },
     "7Z9IBw": {
         "en-US": "TURN Tournament OFF",
-        "pt-BR": "DESATIVAR Competição de magia de Geffen",
+        "pt-BR": "DESATIVAR Torneio de Magia de Geffen",
         "es-ES": "DESACTIVAR el torneo."
     },
     "7p9IBw": {

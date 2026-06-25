@@ -110,7 +110,9 @@
         "es-ES": "[{0}]\nSoy de {1}."
     },
     "duxT": {
-        "en-US": "Sinrim"
+        "en-US": "Sinrim",
+        "pt-BR": "Sinrim",
+        "es-ES": "Sinrim"
     },
     "d+xT": {
         "en-US": "[Innkeeper]\nOh, I think I've heard about that place before!",

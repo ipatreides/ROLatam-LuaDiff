@@ -3034,6 +3034,303 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Page = {
 			"Los objetos obtenidos se pueden guardar en el inventario. Puedes ver el inventario presionando ALT+E.\n\t\t\t\tPuedes llevar hasta 100 objetos y dentro del límite de Weight (peso).\n\t\t\t\t<TIPBOX>>Ítems<INFO>17</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>>Personaje: Weight (peso)<INFO>13</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>>Inventario: Expansión<INFO>65</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>>Inventario: Mover pestaña personal<INFO>195</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
+	},
+	[4216] = {
+		Title = "Episodio 18#ep",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Según la información analizada en «T:Mansión Varmundt», parece que una parte de «T:Illusion» estaba llevando a cabo algo en «T:Rachel». Se necesita un aventurero que investigue por qué están poniendo sus ojos en «T:Rachel».\n\t\t\n\t\t<TIPBOX>-EP 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>-Serie de Ep18 «T:Lobo Gris»<INFO>4218</INFO></TIPBOX>\n\t\t<TIPBOX>-Serie de Ep18 «T:Adulter»<INFO>4219</INFO></TIPBOX>\n\t\t<TIPBOX>-Serie de Ep18 «T:Vivatus»<INFO>4220</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>-Ver episodios<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4217] = {
+		Title = "Episode 18 «T:La dirección de la oración»#Quest Episodio",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"El administrador del dirigible «T:Eli» descubre, gracias a la información analizada hasta ahora, que «T:Illusion» también está activo en «T:Rachel». En lugar de la «T:Rebellion», que debe resolver los asuntos pendientes entre «T:Mansión Varmundt» y la república, el aventurero se dirige a «T:Rachel», pero lo que encuentra allí es desconfianza y agitación.\n\t\t\n\t\t<TIPBOX>-EP. 17.2 El legado del sabio<INFO>7068</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t\n\t\t-Misión inicial\n\t\t<TIPBOX>Q «T:Hacia el Estado Sagrado» <INFO>4221</INFO></TIPBOX>\n\t\t\n\t\t-Misión principal\n\t\t<TIPBOX>Q «T:La petición de Niren»<INFO>4222</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:Niños grises»<INFO>4223</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:Requisitos de participación en la competición»<INFO>4224</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:de la competición del Bosque del Lobo Gris»<INFO>4225</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:Origen del arma»<INFO>4226</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:Rebeldes»<INFO>4227</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:Lobo con piel de cordero»<INFO>4228</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:Cuando hace falta hablar»<INFO>4229</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:Investigación de la villa del sumo sacerdote»<INFO>4230</INFO></TIPBOX>\n\t\t\n\t\t-Misión secundaria\n\t\t<TIPBOX>Q «T:Jefe general de la Aldea del Lobo Gris»<INFO>4232</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:No puedo dormir»<INFO>4233</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:Por favor, reúne las historias»<INFO>4234</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:Aquí no es ese lugar»<INFO>4235</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:El pan nuestro de cada día»<INFO>4236</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:Reliquia sagrada de agua pura»<INFO>4237</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:Migración tardía»<INFO>4238</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:¿Dónde está mi hogar?»<INFO>4239</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:No hay bestias malas en el mundo»<INFO>4240</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:El laberinto de Oz y el mercader ambulante»<INFO>4241</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:Observar el ambiente»<INFO>4242</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:Hasta los niños lo saben»<INFO>4243</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:Recompensa del trabajo»<INFO>4244</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:Flor del Bosque del Lobo Gris»<INFO>4245</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:Trabajo de la sala de flores»<INFO>4246</INFO></TIPBOX>\n\t\t<TIPBOX>Q «T:Hacer más seguro el Bosque del Lobo Gris»<INFO>4247</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>-Serie de Ep18 «T:Lobo Gris»<INFO>4218</INFO></TIPBOX>\n\t\t<TIPBOX>-Serie de Ep18 «T:Adulter»<INFO>4219</INFO></TIPBOX>\n\t\t<TIPBOX>-Serie de Ep18 «T:Vivatus»<INFO>4220</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>-Episodio 18<INFO>4216</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver episodios<INFO>4101</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4218] = {
+		Title = "Ep18 «T:Lobo Gris» Serie#«T:Fragmento de amatista»",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Con los <ITEM>[«T:Fragmento de amatista»]<INFO>1000405</INFO></ITEM> obtenidos durante el episodio, puedes intercambiarlos por varios objetos de equipo útiles en «T:Pueblo del Lobo Gris».\n\t\t\n\t\t^663399§Lugar de intercambio^000000\n\t\t-<NAVI>[«T:Emet»]<INFO>wolfvill,164,137,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399§Serie «T:Lobo Gris»^000000\n\t\t<ITEM>[«T:Traje del Lobo Gris»]<INFO>450177</INFO></ITEM>\n\t\t<ITEM>[«T:Túnica del Lobo Gris»]<INFO>450178</INFO></ITEM>\n\t\t<ITEM>[«T:Manto del Lobo Gris»]<INFO>480091</INFO></ITEM>\n\t\t<ITEM>[«T:Bufanda del Lobo Gris»]<INFO>480090</INFO></ITEM>\n\t\t<ITEM>[«T:Botas del Lobo Gris»]<INFO>470087</INFO></ITEM>\n\t\t<ITEM>[«T:Zapatos del Lobo Gris»]<INFO>470088</INFO></ITEM>\n\t\t<ITEM>[«T:Colgante del Lobo Gris»]<INFO>490106</INFO></ITEM>\n\t\t<ITEM>[«T:Anillo del Lobo Gris»]<INFO>490107</INFO></ITEM>\n\t\t<ITEM>[«T:Pendientes del Lobo Gris»]<INFO>490108</INFO></ITEM>\n\t\t<ITEM>[«T:Collar del Lobo Gris»]<INFO>490109</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>-Ep18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Recompensas del episodio<INFO>4107</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4219] = {
+		Title = "Ep18 «T:Adulter Fides» Serie#Cuarteles clericalesep18Arma",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Estas son las armas que pueden obtenerse en la MD «T:Cuarteles clericales», a la que se puede acceder tras completar el episodio.\n\t\t\n\t\t^663399§Serie «T:Adulter Fides»^000000\n\t\tSe pueden obtener en la MD Villa del Engaño en dificultad normal.\n\t\t<ITEM>[Espada a dos manos]<INFO>600017</INFO></ITEM>\n\t\t<ITEM>[Lanza]<INFO>630012</INFO></ITEM>\n\t\t<ITEM>[Espada guardiana]<INFO>500025</INFO></ITEM>\n\t\t<ITEM>[Lanza guardiana]<INFO>530013</INFO></ITEM>\n\t\t<ITEM>[Hacha]<INFO>520008</INFO></ITEM>\n\t\t<ITEM>[Maza]<INFO>590021</INFO></ITEM>\n\t\t<ITEM>[Estoque]<INFO>500026</INFO></ITEM>\n\t\t<ITEM>[Hall]<INFO>590022</INFO></ITEM>\n\t\t<ITEM>[Chakram]<INFO>610020</INFO></ITEM>\n\t\t<ITEM>[Katar]<INFO>610021</INFO></ITEM>\n\t\t<ITEM>[Daga]<INFO>510032</INFO></ITEM>\n\t\t<ITEM>[Ballesta]<INFO>700030</INFO></ITEM>\n\t\t<ITEM>[Bastón a dos manos]<INFO>640019</INFO></ITEM>\n\t\t<ITEM>[Vara]<INFO>640020</INFO></ITEM>\n\t\t<ITEM>[Libro mágico]<INFO>540019</INFO></ITEM>\n\t\t<ITEM>[Libro de veneno]<INFO>540020</INFO></ITEM>\n\t\t<ITEM>[Biblia]<INFO>540021</INFO></ITEM>\n\t\t<ITEM>[Varita]<INFO>550024</INFO></ITEM>\n\t\t<ITEM>[Puño]<INFO>560018</INFO></ITEM>\n\t\t<ITEM>[Garra]<INFO>560019</INFO></ITEM>\n\t\t<ITEM>[Balista]<INFO>700031</INFO></ITEM>\n\t\t<ITEM>[«T:Aiming Bow»]<INFO>700032</INFO></ITEM>\n\t\t<ITEM>[Violín]<INFO>570017</INFO></ITEM>\n\t\t<ITEM>[Látigo de cadena]<INFO>580017</INFO></ITEM>\n\t\t<ITEM>[Arpa]<INFO>570018</INFO></ITEM>\n\t\t<ITEM>[Cinta]<INFO>580018</INFO></ITEM>\n\t\t<ITEM>[Shuriken de viento Fuma]<INFO>650008</INFO></ITEM>\n\t\t<ITEM>[Shuriken de viento Fuma cruzado]<INFO>650009</INFO></ITEM>\n\t\t<ITEM>[Revólver]<INFO>800003</INFO></ITEM>\n\t\t<ITEM>[Escopeta]<INFO>820002</INFO></ITEM>\n\t\t<ITEM>[Rifle]<INFO>810002</INFO></ITEM>\n\t\t<ITEM>[Ametralladora Gatling]<INFO>830003</INFO></ITEM>\n\t\t<ITEM>[Lanzador]<INFO>840002</INFO></ITEM>\n\t\t<ITEM>[Moon Book]<INFO>540022</INFO></ITEM>\n\t\t<ITEM>[Stardust Book]<INFO>540023</INFO></ITEM>\n\t\t<ITEM>[Soul Stick]<INFO>550025</INFO></ITEM>\n\t\t<ITEM>[Dark Wand]<INFO>550026</INFO></ITEM>\n\t\t<ITEM>[Fox Tail Wand]<INFO>550027</INFO></ITEM>\n\t\t<ITEM>[Fox Tail Model]<INFO>550028</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>-Ep18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Recompensas del episodio<INFO>4107</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4220] = {
+		Title = "Ep18 «T:Vivatus» Serie#Cuarteles clericalesep18Arma",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Estas son las armas que pueden obtenerse en la MD «T:Cuarteles clericales», a la que se puede acceder tras completar el episodio. Pueden obtenerse en la MD Villa del Engaño en dificultad avanzada o fabricarse purificando armas «T:Adulter Fides». Para el ritual de purificación se necesita un arma Adulter Fides refinada a +9.\n\t\t\n\t\t^663399§Ubicación del ritual de purificación^000000\n\t\t-<NAVI>[«T:Dardo nocturno»]<INFO>wolfvill,170,131,0,101,0</INFO></NAVI>\n\t\t\n\t\t^663399§Serie «T:Vivatus» Fides^000000\n\t\t<ITEM>[Espada a dos manos]<INFO>600018</INFO></ITEM>\n\t\t<ITEM>[Lanza]<INFO>630013</INFO></ITEM>\n\t\t<ITEM>[Espada guardiana]<INFO>500027</INFO></ITEM>\n\t\t<ITEM>[Lanza guardiana]<INFO>530014</INFO></ITEM>\n\t\t<ITEM>[Hacha]<INFO>520009</INFO></ITEM>\n\t\t<ITEM>[Maza]<INFO>590023</INFO></ITEM>\n\t\t<ITEM>[Estoque]<INFO>500028</INFO></ITEM>\n\t\t<ITEM>[Hall]<INFO>590024</INFO></ITEM>\n\t\t<ITEM>[Chakram]<INFO>610022</INFO></ITEM>\n\t\t<ITEM>[Katar]<INFO>610023</INFO></ITEM>\n\t\t<ITEM>[Daga]<INFO>510033</INFO></ITEM>\n\t\t<ITEM>[Ballesta]<INFO>700033</INFO></ITEM>\n\t\t<ITEM>[Bastón a dos manos]<INFO>640021</INFO></ITEM>\n\t\t<ITEM>[Vara]<INFO>640022</INFO></ITEM>\n\t\t<ITEM>[Libro mágico]<INFO>540024</INFO></ITEM>\n\t\t<ITEM>[Libro de veneno]<INFO>540025</INFO></ITEM>\n\t\t<ITEM>[Biblia]<INFO>540026</INFO></ITEM>\n\t\t<ITEM>[Varita]<INFO>550029</INFO></ITEM>\n\t\t<ITEM>[Puño]<INFO>560020</INFO></ITEM>\n\t\t<ITEM>[Garra]<INFO>560021</INFO></ITEM>\n\t\t<ITEM>[Balista]<INFO>700034</INFO></ITEM>\n\t\t<ITEM>[«T:Aiming Bow»]<INFO>700035</INFO></ITEM>\n\t\t<ITEM>[Violín]<INFO>570019</INFO></ITEM>\n\t\t<ITEM>[Látigo de cadena]<INFO>580019</INFO></ITEM>\n\t\t<ITEM>[Arpa]<INFO>570020</INFO></ITEM>\n\t\t<ITEM>[Cinta]<INFO>580020</INFO></ITEM>\n\t\t\n\t\t<TIPBOX>-Ep18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Recompensas del episodio<INFO>4107</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4221] = {
+		Title = "Q «T:Hacia el Estado Sagrado»(170)#Quest Ep18Inicio",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Los autómatas de «T:Mansión Varmundt», que decían que el tiempo estaba de nuestro lado, de verdad han encontrado una pista.\n\t\t¿Qué estarán haciendo ahora y dónde exactamente quienes huyeron?\n\t\t\n\t\t<TIPBOX>-EP. 17.2 El legado del sabio<INFO>7068</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t\n\t\t<NAVI>[Smart «T:Eli»]<INFO>ba_in01,26,266,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4222] = {
+		Title = "Q «T:La petición de Niren» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"«T:Niren», que ha obtenido información sobre quienes invadieron el templo, parece tener algo que pedirle al aventurero para poder concentrarse en la vigilancia del templo.\n\t\t<TIPBOX>-«T:Hacia el Estado Sagrado»<INFO>4221</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t\n\t\t<NAVI>[«T:Agente de seguridad Dent»]<INFO>ra_temin,173,40,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4223] = {
+		Title = "Q «T:Niños grises» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"El hijo de «T:Niren», «T:Maram», parece tener un asunto urgente que resolver.\n\t\t¿Habrá algo en lo que el aventurero pueda ayudar?\n\t\t<TIPBOX>-«T:La petición de Niren»<INFO>4222</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t\n\t\t<NAVI>[«T:Maram»]<INFO>rachel,70,147,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4224] = {
+		Title = "Q «T:Requisitos de participación en la competición» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Para asistir a la asamblea de competición en «T:Pueblo del Lobo Gris», primero debes ser aceptado como miembro del pueblo. Si vas haciendo los trabajos que se pueden realizar allí, en algún momento se te concederá el derecho a participar en la asamblea.\n\t\t-Completar 10 misiones normales de «T:Pueblo del Lobo Gris»\n\t\t<TIPBOX>-«T:Jefe general de la Aldea del Lobo Gris»<INFO>4232</INFO></TIPBOX>\n\t\t<TIPBOX>-«T:No puedo dormir»<INFO>4233</INFO></TIPBOX>\n\t\t<TIPBOX>-«T:Por favor, reúne las historias»<INFO>4234</INFO></TIPBOX>\n\t\t<TIPBOX>-«T:Aquí no es ese lugar»<INFO>4235</INFO></TIPBOX>\n\t\t<TIPBOX>-«T:El pan nuestro de cada día»<INFO>4236</INFO></TIPBOX>\n\t\t<TIPBOX>-«T:Reliquia sagrada de agua pura»<INFO>4237</INFO></TIPBOX>\n\t\t<TIPBOX>-«T:Migración tardía»<INFO>4238</INFO></TIPBOX>\n\t\t<TIPBOX>-«T:¿Dónde está mi hogar?»<INFO>4239</INFO></TIPBOX>\n\t\t<TIPBOX>-«T:No hay bestias malas en el mundo»<INFO>4240</INFO></TIPBOX>\n\t\t<TIPBOX>-«T:El laberinto de Oz y el mercader ambulante»<INFO>4241</INFO></TIPBOX>\n\t\t^663399§Nivel 170 o superior^000000\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4225] = {
+		Title = "Q «T:de la competición del Bosque del Lobo Gris» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"El aventurero, que ha forjado lazos con la gente del Bosque del Lobo Gris y ha sido aceptado como miembro del pueblo, ve reconocido su esfuerzo y llega incluso a participar en la asamblea que decidirá el futuro del Bosque del Lobo Gris.\n\t\tLa asamblea por fin ha comenzado. ¿Cuál será el resultado de la reunión?\n\t\t-Progreso de la misión «T:Requisitos de participación en la competición»\n\t\t^663399§Nivel 170 o superior^000000\n\t\t\n\t\t<NAVI>[«T:Kayplas»]<INFO>wolfvill,180,179,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4226] = {
+		Title = "Q «T:Origen del arma» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Tras una acalorada discusión, la asamblea llega a su fin. Entre la multitud que se dispersa, «T:Miriam» descubre algo extraño.\n\t\tAlgunos habitantes demasiado armados. ¿De dónde procede ese «T:Origen del arma» y con qué intención se están armando los habitantes?\n\t\t<TIPBOX>-«T:de la competición del Bosque del Lobo Gris»<INFO>4225</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t\n\t\t<NAVI>[«T:Miriam»]<INFO>wolfvill,148,151,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4227] = {
+		Title = "Q «T:Rebeldes» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Mientras «T:Suad» reflexiona sobre las armas que han aparecido en «T:Pueblo del Lobo Gris» y su procedencia, ahora también le llega la noticia de un asalto a una caravana mercante por parte de miembros de «T:Pueblo del Lobo Gris».\n\t\t<TIPBOX>-«T:Origen del arma»<INFO>4226</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t\n\t\t<NAVI>[«T:Suad»]<INFO>wolfvill,140,112,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4228] = {
+		Title = "Q «T:Lobo con piel de cordero» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Por fin, la gente de «T:Pueblo del Lobo Gris» se ha reunido frente al templo.\n\t\t¿Lograrán hacer oír debidamente su voz a la gente de «T:Rachel»?\n\t\t<TIPBOX>-«T:Rebeldes»<INFO>4227</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t\n\t\t<NAVI>[Persona corriente]<INFO>rachel,169,245,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4229] = {
+		Title = "Q «T:Cuando hace falta hablar» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"«T:Suad» y los sacerdotes han caído en una gran conmoción por la traición de un compañero en quien confiaban. Sin embargo, pronto salen del impacto y deciden poner orden en la confusión del pueblo y del templo.\n\t\t«T:Miriam» parte hacia el lugar al que se dirigió su padre para investigar lo sucedido.\n\t\t<TIPBOX>-«T:Lobo con piel de cordero»<INFO>4228</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t\n\t\t<NAVI>[«T:Niren»]<INFO>rachel,116,200,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4230] = {
+		Title = "Q «T:Investigación de la villa del sumo sacerdote» (170)#Quest Ep18La dirección de la oración",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Parece que detrás de todos estos acontecimientos están «T:Illusion» y su alianza con «T:Sumo sacerdote Amal». ¿Podremos averiguar en «T:Cuarteles del clérigo» qué pretendían hacer y por qué sembraron el caos en «T:Rachel»?\n\t\t<TIPBOX>-«T:Cuando hace falta hablar»<INFO>4229</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t\n\t\t<NAVI>[Punto de encuentro]<INFO>oz_dun01,223,116,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4231] = {
+		Title = "MD 18 «T:Cuarteles clericales» (170)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Dicen que en la villa de verano de «T:Sumo sacerdote Yus» todavía se siguen avistando las figuras de seres que ya fueron derrotados. «T:Aira» espera que los aventureros se ocupen de ese mal presagio antes de que invoque la «T:Ira» de dios.\n\t\t\n\t\t§ Requisito previo: completar <TIPBOX>«T:Investigación de la villa del sumo sacerdote»<INFO>4230</INFO></TIPBOX>\n\t\t\n\t\t§ Configuración de la mazmorra\n\t\t▷ Modo normal\n\t\t→ Se puede completar repetidamente cada día (reinicio al día siguiente a las 04:00)\n\t\t→ Tiempo límite de 60 minutos\n\t\t→ Nivel 170 o superior\n\t\t\n\t\t▷ Modo avanzado\n\t\t→ Se puede completar usando <ITEM>[Llave subterránea de la villa]<INFO>1000471</INFO></ITEM>\n\t\t→ Tiempo límite de 60 minutos\n\t\t→ Nivel 200 o superior\n\t\t\n\t\t<NAVI>[«T:Aira»]<INFO>wolfvill,77,257,0,101,0</INFO></NAVI>\n\t\t\n\t\t§ <TIPBOX>Botín de la mazmorra<INFO>4219</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4232] = {
+		Title = "Q «T:Jefe general de la Aldea del Lobo Gris» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"«T:Hazar», capataz de la compañía mercante de «T:Pueblo del Lobo Gris», intenta poner a prueba a su discípulo «T:Kamil», pero parece que las cosas no salen bien desde el principio.\n\t\t<TIPBOX>-«T:Niños grises»<INFO>4223</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t^663399§Misión obligatoria para asistir a la asamblea^000000\n\t\t\n\t\t<NAVI>[«T:Hazar»]<INFO>wolfvill,54,237,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4233] = {
+		Title = "Q «T:No puedo dormir» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Un niño del Bosque del Lobo Gris con los ojos cargados de sueño. ¿Qué le habrá ocurrido para no haber podido dormir nada? Escuchemos su historia; cada vez que oye el llanto de «T:Cometa de Fuego», parece encogerse de hombros.\n\t\t<TIPBOX>-«T:Niños grises»<INFO>4223</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t^663399§Misión obligatoria para asistir a la asamblea^000000\n\t\t\n\t\t<NAVI>[«T:Ahir»]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4234] = {
+		Title = "Q «T:Por favor, reúne las historias» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"«T:Gudra», que no lo parece, pero en realidad es un erudito excelente, parece querer investigar algo reuniendo las historias de la gente de «T:Pueblo del Lobo Gris». ¿Podrás ayudarlo?\n\t\t<TIPBOX>-«T:Niños grises»<INFO>4223</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t^663399§Misión obligatoria para asistir a la asamblea^000000\n\t\t\n\t\t<NAVI>[«T:Gudra»]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4235] = {
+		Title = "Q «T:Aquí no es ese lugar» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Unos jóvenes reunidos a la orilla del tranquilo lago de «T:Pueblo del Lobo Gris» murmuran y critican a alguien. Escuchemos discretamente de qué hablan.\n\t\t<TIPBOX>-«T:Niños grises»<INFO>4223</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t^663399§Misión obligatoria para asistir a la asamblea^000000\n\t\t\n\t\t<NAVI>[«T:Julan»]<INFO>wolfvill,85,111,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4236] = {
+		Title = "Q «T:El pan nuestro de cada día»(170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"«T:Eruin», que vive en «T:Pueblo del Lobo Gris», es un cazador con trampas. Está buscando cada día a alguien que recupere las presas cazadas.\n\t\t<TIPBOX>-«T:Niños grises»<INFO>4223</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t^663399§Misión obligatoria para asistir a la asamblea^000000\n\t\t\n\t\t<NAVI>[«T:Eruin»]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4237] = {
+		Title = "Q «T:Reliquia sagrada de agua pura»(170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"«T:Budan», encargado del agua en «T:Pueblo del Lobo Gris», está buscando a alguien que le consiga agua potable «T:Reliquia sagrada de agua pura» en «T:Rachel».\n\t\t<TIPBOX>-«T:Niños grises»<INFO>4223</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t^663399§Misión obligatoria para asistir a la asamblea^000000\n\t\t\n\t\t<NAVI>[«T:Budan»]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4238] = {
+		Title = "Q «T:Migración tardía»(170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"«T:Horim», empleado del hotel de «T:Rachel», quiere marcharse a «T:Pueblo del Lobo Gris».\n\t\tAyudemos a «T:Horim» y acompañémoslo hasta «T:Pueblo del Lobo Gris».\n\t\t<TIPBOX>-«T:Niños grises»<INFO>4223</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t^663399§Misión obligatoria para asistir a la asamblea^000000\n\t\t\n\t\t<NAVI>[«T:Horim»]<INFO>ra_in01,388,59,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4239] = {
+		Title = "Q «T:¿Dónde está mi hogar?» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Aunque «T:Pueblo del Lobo Gris» ha llegado buscando un lugar al que pertenecer, no le resulta fácil conseguir lo que desea.\n\t\t¿Cuál será el plan de «T:Ezekiel»?\n\t\t<TIPBOX>-«T:Niños grises»<INFO>4223</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t^663399§Misión obligatoria para asistir a la asamblea^000000\n\t\t\n\t\t<NAVI>[«T:Ezekiel»]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4240] = {
+		Title = "Q «T:No hay bestias malas en el mundo» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Los miembros de «T:Pueblo del Lobo Gris» no son solo personas.\n\t\t¿Qué hará falta para que todos puedan convivir juntos?\n\t\t<TIPBOX>-«T:Niños grises»<INFO>4223</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t^663399§Misión obligatoria para asistir a la asamblea^000000\n\t\t\n\t\t<NAVI>[«T:Scania»]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4241] = {
+		Title = "Q «T:El laberinto de Oz y el mercader ambulante» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"No es fácil atravesar «T:Laberinto de Oz», el único paso que conduce a «T:Pueblo del Lobo Gris».\n\t\t¿Qué problema habrá en «T:Laberinto de Oz»?\n\t\t<TIPBOX>-«T:Niños grises»<INFO>4223</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t^663399§Misión obligatoria para asistir a la asamblea^000000\n\t\t\n\t\t<NAVI>[«T:Imril»]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4242] = {
+		Title = "Q «T:Observar el ambiente» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"«T:Junok», sacerdote de «T:Rachel», se encuentra en una situación muy difícil por el conflicto entre inmigrantes y nativos. Siguiendo la petición de «T:Junok», observemos qué clase de fricciones existen entre ambos grupos.\n\t\t<TIPBOX>-«T:Hacia el Estado Sagrado»<INFO>4221</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t\n\t\t<NAVI>[«T:Junok»]<INFO>rachel,155,236,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4243] = {
+		Title = "Q «T:Hasta los niños lo saben» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"El aventurero encuentra en un rincón de las calles de «T:Rachel» a un niño que parece estar siendo marginado por varios amigos. ¿Qué habrá pasado? Escuchémoslo directamente.\n\t\t<TIPBOX>-«T:Hacia el Estado Sagrado»<INFO>4221</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t\n\t\t<NAVI>[«T:Samariam»]<INFO>rachel,38,44,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4244] = {
+		Title = "Q «T:Recompensa del trabajo» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"En una zona residencial de «T:Rachel», hay una persona de aspecto miserable que no deja de suspirar mientras mira al cielo una y otra vez. Parece tener algún problema... Escuchemos su historia.\n\t\t<TIPBOX>-«T:Hacia el Estado Sagrado»<INFO>4221</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t\n\t\t<NAVI>[«T:Amodipin»]<INFO>rachel,181,51,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4245] = {
+		Title = "Q «T:Flor del Bosque del Lobo Gris» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Una incómoda verdad se revela mientras pasas por un callejón de «T:Rachel». Aun así, el niño no se rinde y trata de seguir adelante.\n\t\t<TIPBOX>-«T:Hacia el Estado Sagrado»<INFO>4221</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t\n\t\t<NAVI>[Niño maltratado]<INFO>rachel,176,80,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Conecta con «T:Trabajo de la sala de flores»<INFO>4246</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4246] = {
+		Title = "Q «T:Trabajo de la sala de flores» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"«T:Medjay», que dejó de ser el desdichado marginado de «T:Rachel» para iniciar su propio negocio persiguiendo su sueño. Tú eres precisamente el socio que irá cada día a «T:Bosque del Lobo Gris (1)» a ayudar en el negocio de «T:Medjay».\n\t\t<TIPBOX>-«T:Flor del Bosque del Lobo Gris»<INFO>4245</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t\n\t\t<NAVI>[«T:Medjay»]<INFO>rachel,70,135,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4247] = {
+		Title = "Q «T:Hacer más seguro el Bosque del Lobo Gris» (170)#Quest Ep18",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"El guardián que protege la entrada de «T:Pueblo del Lobo Gris» sufre a menudo por los monstruos del bosque que amenazan sin cesar. Ojalá alguien amable pudiera «T:Hacer más seguro el Bosque del Lobo Gris».\n\t\t<TIPBOX>-«T:Niños grises»<INFO>4223</INFO></TIPBOX> completado\n\t\t^663399§Nivel 170 o superior^000000\n\t\t\n\t\t<NAVI>[«T:Camper»]<INFO>gw_fild01,32,101,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4248] = {
+		Title = "MD 18 Purificación del santuario (170)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"El «T:Sacerdote» de «T:Rachel» desea que purifiques el santuario, ya que parece que aún se detectan grupos sospechosos en ese lugar donde ocurrió un incidente lamentable.\n\t\t\n\t\t§ Requisito previo: completar <TIPBOX>-«T:Lobo con piel de cordero»<INFO>4228</INFO></TIPBOX>\n\t\t\n\t\t§ Configuración de la mazmorra\n\t\t→ Se puede completar repetidamente cada día (reinicio al día siguiente a las 04:00)\n\t\t→ Tiempo límite de 60 minutos\n\t\t→ Nivel 170 o superior\n\t\t^663399§Es una MD para el progreso de la misión.^000000\n\t\t\n\t\t<NAVI>[«T:Sacerdote»]<INFO>rachel,169,245,0,101,0</INFO></NAVI>\n\t\t\n\t\t<TIPBOX>-Episode 18 «T:La dirección de la oración»<INFO>4217</INFO></TIPBOX>\n\t\t<TIPBOX>-EPISODE MD<INFO>7107</INFO></TIPBOX>\n\t\t<TIPBOX>-Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
 	}
 }
 function main()

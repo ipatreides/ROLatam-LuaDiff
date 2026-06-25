@@ -2,22 +2,22 @@
     "AHS3AQ": {
         "en-US": "Mercenary Guild Manager",
         "pt-BR": "Gerente de Assistentes",
-        "es-ES": "Admin. de mercenarios"
+        "es-ES": "Admin. de Mercenarios"
     },
     "AXS3AQ": {
         "en-US": "[Mercenary Manager]\nWelcome to the\nSpear Mercenary Guild.\nWhat can I do for you?",
         "pt-BR": "[Gerente de Assistentes]\nBem-vindo à \nGuilda dos Assistentes Lanceiros.\nEm que posso ajudar?",
-        "es-ES": "[Admin. de mercenarios]\nTe damos la bienvenida al\nGremio de mercenarios lanceros.\n¿En qué te puedo ayudar?"
+        "es-ES": "[Admin. de Mercenarios]\nTe damos la bienvenida al\nGremio de mercenarios lanceros.\n¿En qué te puedo ayudar?"
     },
     "AnS3AQ": {
         "en-US": "Hire Mercenary",
         "pt-BR": "Contratar Assistente",
-        "es-ES": "Contratar mercenarios."
+        "es-ES": "Contratar Mercenarios."
     },
     "A3S3AQ": {
         "en-US": "Mercenary Info",
         "pt-BR": "Informações sobre Assistentes",
-        "es-ES": "Información sobre mercenarios."
+        "es-ES": "Información sobre Mercenarios."
     },
     "BHS3AQ": {
         "en-US": "Nothing",
@@ -27,12 +27,12 @@
     "BXS3AQ": {
         "en-US": "10th Grade Mercenaries",
         "pt-BR": "Assistentes de 10º Nível",
-        "es-ES": "Mercenarios de grado 10."
+        "es-ES": "Mercenarios de Grado 10."
     },
     "BnS3AQ": {
         "en-US": "[Mercenary Manager]\nYou want to hire a\nSpear Mercenary?\nWhich Grade were you\ninterested in hiring?",
         "pt-BR": "[Gerente de Assistentes]\nVocê deseja contratar um\nAssistente Lanceiro?\nQual Nível de Assistente você \ngostaria de contratar?",
-        "es-ES": "[Admin. de mercenarios]\n¿Quieres contratar un\nmercenario lancero?\n¿Qué grado te gustaría\ncontratar?"
+        "es-ES": "[Admin. de Mercenarios]\n¿Quieres contratar un mercenario lancero?\n¿Qué grado te gustaría contratar?"
     },
     "B3S3AQ": {
         "en-US": "1st Grade",
@@ -82,7 +82,7 @@
     "EHS3AQ": {
         "en-US": "[Mercenary Manager]\nSo you want to hire a 1st\nGrade Spear Mercenary?\nYou need to have attained\nBase Level 15 or higher, and\nmust pay the 7,000 zeny fee.",
         "pt-BR": "[Gerente de Assistentes]\nEntão você quer contratar um Assistente\nLanceiro de 1º Nível?\nVocê precisa ter\nNível Base 15 ou maior, além de\npagar a taxa de serviço de 10.000 zenys.",
-        "es-ES": "[Admin. de mercenarios]\n¿Quieres contratar a un mercenario de grado 1\nque sea lancero?\nDebes haber alcanzado\nun nivel de base 15 o superior, y\ndebes pagar la tarifa de 7000 zeny."
+        "es-ES": "[Admin. de Mercenarios]\n¿Quieres contratar a un mercenario de grado 1 que sea lancero?\nDebes haber alcanzado un Nivel de base 15 o superior, y debes pagar la tarifa de 7000 zeny."
     },
     "EXS3AQ": {
         "en-US": "Yes",
@@ -97,7 +97,7 @@
     "E3S3AQ": {
         "en-US": "[Mercenary Manager]\nI'm sorry, but your Base\nLevel isn't high enough\nto hire this Mercenary.\nPlease come back to me\nonce you reach Base Level 15.",
         "pt-BR": "[Gerente de Assistentes]\nSinto muito, mas seu Nível\nBase não é alto o suficiente\npara contratar este Assistente.\nPor favor, volte\nassim que tiver atingido o Nível Base 15.",
-        "es-ES": "[Admin. de mercenarios]\nLo siento, pero tu nivel\nde base no es lo suficientemente alto\npara contratar a este mercenario.\nRegresa cuando hayas alcanzado\nun nivel de base 15."
+        "es-ES": "[Admin. de Mercenarios]\nLo siento, pero tu nivel\nde base no es lo suficientemente alto\npara contratar a este mercenario.\nRegresa cuando hayas alcanzado\nun nivel de base 15."
     },
     "FHS3AQ": {
         "en-US": "[Mercenary Manager]\nI'm sorry, but you\ndon't have enough zeny\nto hire this Mercenary.\nThe hiring fee is 7,000 zeny.",

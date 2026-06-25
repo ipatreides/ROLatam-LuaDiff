@@ -1,704 +1,587 @@
 {
     "YFgwAw": {
-        "ko-KR": "사넬",
-        "en-US": "Canell",
-        "pt-BR": "Canella",
-        "es-ES": "Canell"
+        "en-US": "Sanel",
+        "pt-BR": "Sanel",
+        "es-ES": "Sanel"
     },
     "YVgwAw": {
-        "ko-KR": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
-        "en-US": "- You are carrying too many items to proceed. -",
-        "pt-BR": "- Você possui muitos itens e não pode prosseguir. -",
-        "es-ES": "- No puedes continuar porque llevas demasiados objetos. -"
+        "en-US": "- You have too many items in your possession. Cannot proceed. -",
+        "pt-BR": "- Você está com muitos itens. Não pode prosseguir. -",
+        "es-ES": "- Tienes demasiados objetos. No puedes continuar. -"
     },
     "YlgwAw": {
-        "ko-KR": "댄서",
         "en-US": "Dancer",
-        "pt-BR": "Dancer",
+        "pt-BR": "Dançarina",
         "es-ES": "Bailarina"
     },
     "Y1gwAw": {
-        "ko-KR": "집시",
         "en-US": "Gypsy",
         "pt-BR": "Cigana",
         "es-ES": "Gitana"
     },
     "ZFgwAw": {
-        "ko-KR": "원더러",
         "en-US": "Wanderer",
-        "pt-BR": "Musa",
-        "es-ES": "Nómada"
+        "pt-BR": "Trovadora",
+        "es-ES": "Trovadora"
     },
     "ZVgwAw": {
-        "ko-KR": "트루베르",
         "en-US": "Trouvere",
-        "pt-BR": "Trouvere",
-        "es-ES": "Trouvere"
+        "pt-BR": "Trovador",
+        "es-ES": "Trovador"
     },
     "ZlgwAw": {
-        "ko-KR": "춤추는 자",
-        "en-US": "Dancer",
-        "pt-BR": "Quem dança",
-        "es-ES": "Quien baila"
+        "en-US": "Dancing One",
+        "pt-BR": "Dançarina",
+        "es-ES": "Bailarina"
     },
     "Z1gwAw": {
-        "ko-KR": "[사넬]\n아깝군, 아까워.\n이쁘장 하기만 하면 뭘 해.\n아직 어린애인걸.\n기껏 다듬은 외모나 실력을\n그냥 썩혀버리는 것은 좀 아깝잖아?",
-        "en-US": "[Canell]\nSuch a waste, such a waste.\nWhat's the point of being pretty?\nYou're still just a child.\nIsn't it a shame to let\nsuch carefully polished looks and talent\nsimply go to waste?",
-        "pt-BR": "[Canella]\nQue desperdício, que desperdício.\nDe que adianta ser bonitinha?\nAinda é uma criança.\nNão é uma pena deixar apodrecer\numa aparência e uma habilidade\ntão bem lapidadas?",
-        "es-ES": "[Canell]\nQué desperdicio, qué desperdicio.\n¿De qué sirve ser mona?\nAún eres una niña.\nSería una pena dejar que\nesa apariencia y talento tan trabajados\nse echaran a perder, ¿no crees?"
+        "en-US": "[Sanel]\nWhat a waste, what a waste.\nJust being pretty isn't enough.\nShe's still a child.\nTo let her polished looks and skills just rot away, isn't that a bit of a waste?",
+        "pt-BR": "[Sanel]\nQue desperdício, que desperdício.\nApenas ser bonita não é suficiente.\nEla ainda é uma criança.\nDeixar sua aparência e habilidades polidas apodrecerem, não é um pouco de desperdício?",
+        "es-ES": "[Sanel]\nQué desperdicio, qué desperdicio.\nSolo ser bonita no es suficiente.\nTodavía es una niña.\nDejar que su apariencia y habilidades pulidas se echen a perder, ¿no es un poco un desperdicio?"
     },
     "aFgwAw": {
-        "ko-KR": "[사넬]\n존재하는 것 만으로도 고마운 것이\n여성이라지만\n항상 자신만의 매력을 위해서\n노력을 게을리해선 안 된다는 것쯤은\n잘 알고 있겠지?\n어때? 넌 네 매력에 자신 있어?",
-        "en-US": "[Canell]\nWomen are beings\nwhose mere existence is worthy of gratitude,\nbut surely you know\nthat one must never neglect\nthe effort to cultivate\none's own charm?\nWell? Are you confident in your charm?",
-        "pt-BR": "[Canella]\nDizem que as mulheres são motivo de gratidão\napenas por existirem,\nmas você sabe muito bem que nunca deve\nnegligenciar os esforços\npor seu próprio charme, não é?\nE então? Tem confiança no seu charme?",
-        "es-ES": "[Canell]\nDicen que una mujer\nya es digna de gratitud por existir,\npero sabes bien que nunca debe descuidar\nel esfuerzo por cultivar\nsu propio encanto, ¿verdad?\n¿Qué me dices? ¿Confías en tu encanto?"
+        "en-US": "[Sanel]\nJust by existing, women are appreciated, they say,\nbut you know well that you must never neglect effort for your own charm, right?\nHow about it? Are you confident in your charm?",
+        "pt-BR": "[Sanel]\nSó por existirem, as mulheres são apreciadas, dizem,\nmas você sabe bem que nunca deve negligenciar o esforço pelo seu próprio charme, certo?\nQue tal? Você está confiante no seu charme?",
+        "es-ES": "[Sanel]\nSolo por existir, las mujeres son apreciadas, dicen,\npero sabes bien que nunca debes descuidar el esfuerzo por tu propio encanto, ¿verdad?\n¿Qué tal? ¿Tienes confianza en tu encanto?"
     },
     "aVgwAw": {
-        "ko-KR": "응, 물론이지!",
         "en-US": "Yes, of course!",
         "pt-BR": "Sim, claro!",
         "es-ES": "¡Sí, por supuesto!"
     },
     "algwAw": {
-        "ko-KR": "...죄송합니다......",
         "en-US": "...I'm sorry......",
-        "pt-BR": "...Desculpe......",
+        "pt-BR": "...Sinto muito......",
         "es-ES": "...Lo siento......"
     },
     "a1gwAw": {
-        "ko-KR": "[사넬]\n아직 멀었어! 이 바보 같은 것!!!",
-        "en-US": "[Canell]\nYou're still far from it! You foolish girl!!!",
-        "pt-BR": "[Canella]\nAinda falta muito! Sua boba!!!",
-        "es-ES": "[Canell]\n¡Aún te falta mucho! ¡¡¡Tonta!!!"
+        "en-US": "[Sanel]\nYou're still far off! You fool!!!",
+        "pt-BR": "[Sanel]\nVocê ainda está longe! Sua tola!!!",
+        "es-ES": "[Sanel]\n¡Aún estás muy lejos! ¡Tonta!!!"
     },
     "bFgwAw": {
-        "ko-KR": "(철썩)",
         "en-US": "(Smack)",
-        "pt-BR": "(Slap)",
-        "es-ES": "(¡Plas!)"
+        "pt-BR": "(Tapa)",
+        "es-ES": "(Bofetada)"
     },
     "bVgwAw": {
-        "ko-KR": "[사넬]\n어머, 아직 영~ 풋내기로구나?\n좀더 크게 되면 또 몰라도\n아직은 레이디가 되긴 힘들겠어.\n잡 레벨이 40정도 되면 모를까?",
-        "en-US": "[Canell]\nMy, you're still so immature~\nMaybe when you've grown up more,\nbut for now, becoming a lady\nseems impossible.\nPerhaps when your Job Level reaches 40?",
-        "pt-BR": "[Canella]\nOra, você ainda é totalmente novata, não é?\nTalvez quando crescer um pouco mais,\nmas ainda é difícil virar uma Lady.\nQuem sabe quando chegar ao nível de classe 40?",
-        "es-ES": "[Canell]\nVaya, ¿todavía eres una novata total?\nQuizá cuando crezcas un poco más,\npero por ahora te será difícil\nconvertirte en toda una dama.\n¿Tal vez cuando tengas nivel de oficio 40?"
+        "en-US": "[Sanel]\nOh my, you're still a greenhorn?\nMaybe when you're older, but it's hard to be a lady just yet.\nUnless your Job Level is around 40?",
+        "pt-BR": "[Sanel]\nOh minha, você ainda é uma novata?\nTalvez quando for mais velha, mas é difícil ser uma dama agora.\nA menos que seu Nível de Classe seja por volta de 40?",
+        "es-ES": "[Sanel]\nOh cielos, ¿todavía eres una novata?\nQuizás cuando seas mayor, pero es difícil ser una dama ahora.\n¿A menos que tu Nivel de Clase sea alrededor de 40?"
     },
     "blgwAw": {
-        "ko-KR": "[사넬]\n자신의 잘못을 깨닫고 그것을\n고치려고 노력한다면 잘못이 아냐.\n하지만.",
-        "en-US": "[Canell]\nIf you realize your mistakes\nand strive to correct them,\nthen they are no longer mistakes.\nHowever.",
-        "pt-BR": "[Canella]\nSe você perceber seus erros\ne se esforçar para corrigi-los, isso não é um pecado.\nMas.",
-        "es-ES": "[Canell]\nSi reconoces tus errores\ny te esfuerzas por corregirlos,\neso no es un pecado.\nPero..."
+        "en-US": "[Sanel]\nRealizing your mistake and trying to fix it isn't a mistake.\nBut.",
+        "pt-BR": "[Sanel]\nPerceber seu erro e tentar corrigi-lo não é um erro.\nMas.",
+        "es-ES": "[Sanel]\nDarse cuenta de tu error y tratar de corregirlo no es un error.\nPero."
     },
     "b1gwAw": {
-        "ko-KR": "[사넬]\n타고난 장점을 썩혀둔다면!\n그것은 죄야! 알겠어?!",
-        "en-US": "[Canell]\nIf you let your natural gifts go to waste!\nThat is a sin! Understand?!",
-        "pt-BR": "[Canella]\nDeixar apodrecer suas qualidades naturais!\nIsso é pecado! Entendeu?!",
-        "es-ES": "[Canell]\n¡Dejar que tus virtudes naturales\nse echen a perder!\n¡Eso sí es pecado! ¿Lo entiendes?"
+        "en-US": "[Sanel]\nIf you let your natural advantages rot away!\nThat is a sin! Do you understand?!",
+        "pt-BR": "[Sanel]\nSe você deixar suas vantagens naturais apodrecerem!\nIsso é um pecado! Você entende?!",
+        "es-ES": "[Sanel]\n¡Si dejas que tus ventajas naturales se echen a perder!\n¡Eso es un pecado! ¡¿Entiendes?!"
     },
     "cFgwAw": {
-        "ko-KR": "(철썩철썩)",
         "en-US": "(Smack smack)",
-        "pt-BR": "(Slap, slap)",
-        "es-ES": "(¡Plas, plas!)"
+        "pt-BR": "(Tapa tapa)",
+        "es-ES": "(Bofetada bofetada)"
     },
     "cVgwAw": {
-        "ko-KR": "[사넬]\n뭇 남성들의 하트를 빼앗고도 남을\n프리티한 레이디로 태어나서\n그렇게 별 볼일 없어서야\n어디 {0}라고 할 수 있겠어?!",
-        "en-US": "[Canell]\nBorn as a pretty lady capable of stealing\nthe hearts of countless men,\nyet being so utterly unremarkable,\nhow could you possibly call yourself\na {0}?!",
-        "pt-BR": "[Canella]\nVocê nasceu como uma Lady bonita\ncapaz de roubar o coração de inúmeros homens,\nmas sendo tão sem graça assim,\ncomo pode ser chamada de {0}?!",
-        "es-ES": "[Canell]\nNaciste como una lady adorable,\ncapaz de robar el corazón\nde innumerables hombres,\ny aun así eres tan poca cosa...\n¿cómo podrías llamarte {0}?!"
+        "en-US": "[Sanel]\nBorn as a pretty lady who could steal the hearts of countless men,\nhow can you be so unremarkable and call yourself {0}?!",
+        "pt-BR": "[Sanel]\nNascida como uma bela dama que poderia roubar o coração de inúmeros homens,\ncomo você pode ser tão sem graça e se chamar de {0}?!",
+        "es-ES": "[Sanel]\nNacida como una bella dama que podría robar el corazón de innumerables hombres,\n¿cómo puedes ser tan sosa y llamarte {0}?!"
     },
     "clgwAw": {
-        "ko-KR": "[사넬]\n내가 이제부터\n사람들의 애간장을 녹이고\n악마마저도 정신 못 차리게 하며\n천사도 헤어나오지 못할\n무시무시한 매력을 끄집어내줄게.",
-        "en-US": "[Canell]\nFrom now on,\nI shall draw out a terrifying charm\nthat melts people's hearts,\ndrives even demons mad,\nand leaves angels unable to escape.",
-        "pt-BR": "[Canella]\nA partir de agora,\nvou extrair seu charme terrível,\ncapaz de derreter o coração das pessoas,\nde deixar até demônios sem rumo\ne até anjos sem conseguir escapar.",
-        "es-ES": "[Canell]\nA partir de ahora,\nsacaré a relucir ese encanto aterrador\ncapaz de derretir el corazón de la gente,\nde aturdir incluso a los demonios\ny de atrapar hasta a los ángeles."
+        "en-US": "[Sanel]\nFrom now on, I'll bring out a terrifying charm\nthat melts people's hearts, even demons lose their minds,\nand even angels can't escape.",
+        "pt-BR": "[Sanel]\nDe agora em diante, trarei à tona um charme aterrorizante\nque derrete o coração das pessoas, faz até demônios perderem a cabeça,\ne nem anjos conseguem escapar.",
+        "es-ES": "[Sanel]\nDe ahora en adelante, sacaré a relucir un encanto aterrador\nque derrite el corazón de las personas, hace que incluso los demonios pierdan la cabeza,\ny ni siquiera los ángeles puedan escapar."
     },
     "c1gwAw": {
-        "ko-KR": "[사넬]\n널 완벽한 레이디로 만들어주겠어.\n어때? 맡겨보겠어?",
-        "en-US": "[Canell]\nI will make you a perfect lady.\nWell? Will you leave it to me?",
-        "pt-BR": "[Canella]\nVou transformar você em uma Lady perfeita.\nE então? Vai confiar em mim?",
-        "es-ES": "[Canell]\nTe convertiré en una lady perfecta.\n¿Qué dices? ¿Te pondrás en mis manos?"
+        "en-US": "[Sanel]\nI'll make you into a perfect lady.\nHow about it? Will you entrust yourself to me?",
+        "pt-BR": "[Sanel]\nEu a transformarei em uma dama perfeita.\nQue tal? Você se confiará a mim?",
+        "es-ES": "[Sanel]\nTe convertiré en una dama perfecta.\n¿Qué tal? ¿Te confiarás a mí?"
     },
     "dFgwAw": {
-        "ko-KR": "싫어, 이 여자야!!",
-        "en-US": "No way, woman!!",
-        "pt-BR": "Não quero, sua mulher!!",
-        "es-ES": "¡No, mujer loca!"
+        "en-US": "No way, you woman!!",
+        "pt-BR": "De jeito nenhum, sua mulher!!",
+        "es-ES": "¡De ninguna manera, mujer!!"
     },
     "dVgwAw": {
-        "ko-KR": "부탁 드려요, 선생님!",
-        "en-US": "Please teach me, Master!",
+        "en-US": "Please, teacher!",
         "pt-BR": "Por favor, professora!",
-        "es-ES": "¡Se lo ruego, maestra!"
+        "es-ES": "¡Por favor, maestra!"
     },
     "dlgwAw": {
-        "ko-KR": "[사넬]\n아직도 정신 못 차렸군?!\n내 오늘 너에게 매력보다는\n인간 됨됨이를 먼저 가르쳐주겠다!",
-        "en-US": "[Canell]\nYou still haven't come to your senses?!\nToday, instead of charm,\nI'll teach you proper human decency first!",
-        "pt-BR": "[Canella]\nVocê ainda não caiu em si?!\nHoje vou lhe ensinar a ser gente\nantes mesmo de ensinar charme!",
-        "es-ES": "[Canell]\n¡¿Todavía no has entrado en razón?!\n¡Hoy te enseñaré primero\na comportarte como persona\nantes que a ser encantadora!"
+        "en-US": "[Sanel]\nYou still haven't come to your senses?!\nToday, instead of charm, I'll teach you how to be a proper human being!",
+        "pt-BR": "[Sanel]\nVocê ainda não caiu em si?!\nHoje, em vez de charme, vou lhe ensinar como ser um ser humano decente!",
+        "es-ES": "[Sanel]\n¡¿Aún no has entrado en razón?!\n¡Hoy, en lugar de encanto, te enseñaré cómo ser un ser humano decente!"
     },
     "d1gwAw": {
-        "ko-KR": "(철썩철썩철썩)",
         "en-US": "(Smack smack smack)",
-        "pt-BR": "(Slap, slap, slap)",
-        "es-ES": "(¡Plas, plas, plas!)"
+        "pt-BR": "(Tapa tapa tapa)",
+        "es-ES": "(Bofetada bofetada bofetada)"
     },
     "eFgwAw": {
-        "ko-KR": "-이 여자에게서 과연 인간 됨됨이를-\n-배울 수 있을 지가 더 의심스럽지만-\n-아쉽게도 말 할 틈이 없다!-",
-        "en-US": "-Whether one can truly learn-\n-human decency from this woman-\n-is highly questionable,-\n-but unfortunately there is no time to speak!-",
-        "pt-BR": "-É mais duvidoso saber se é possível-\n-aprender humanidade com esta mulher,-\n-mas infelizmente não há tempo para falar!-",
-        "es-ES": "-Más bien cabe dudar si de verdad-\n-se puede aprender humanidad de esta mujer,-\n-¡pero por desgracia no hay tiempo para decirlo!-"
+        "en-US": "- Whether you can actually learn how to be a proper human being from this woman -\n- is more doubtful, but unfortunately, there's no time to say that! -",
+        "pt-BR": "- Se você pode realmente aprender a ser um ser humano decente com esta mulher -\n- é mais duvidoso, mas infelizmente, não há tempo para dizer isso! -",
+        "es-ES": "- Si realmente puedes aprender a ser un ser humano decente de esta mujer -\n- es más dudoso, pero desafortunadamente, ¡no hay tiempo para decir eso! -"
     },
     "eVgwAw": {
-        "ko-KR": "[사넬]\n무릇 여성을 아름답게 만드는 건\n자신감이라 할 수가 있지.\n마인드 컨트롤과 이미지 트레이닝은\n성공하는 레이디의 필수요소야.",
-        "en-US": "[Canell]\nWhat makes a woman beautiful\nis confidence.\nMind control and image training\nare essential elements\nfor a successful lady.",
-        "pt-BR": "[Canella]\nO que torna uma mulher bela\npode ser chamado de confiança.\nControle mental e treinamento de imagem\nsão elementos essenciais\nde uma Lady de sucesso.",
-        "es-ES": "[Canell]\nLo que hace hermosa a una mujer\npuede decirse que es la confianza.\nEl control mental y el entrenamiento de imagen\nson elementos esenciales\npara una lady de éxito."
+        "en-US": "[Sanel]\nWhat makes a woman beautiful is, without a doubt, confidence.\nMind control and image training are essential elements for a successful lady.",
+        "pt-BR": "[Sanel]\nO que torna uma mulher bonita é, sem dúvida, a confiança.\nControle mental e treinamento de imagem são elementos essenciais para uma dama de sucesso.",
+        "es-ES": "[Sanel]\nLo que hace hermosa a una mujer es, sin duda, la confianza.\nEl control mental y el entrenamiento de la imagen son elementos esenciales para una dama exitosa."
     },
     "elgwAw": {
-        "ko-KR": "[사넬]\n자, 그럼 우선 ^FF0000거울^000000을 좀 구해오겠어?",
-        "en-US": "[Canell]\nNow then, first,\ncould you bring me a ^FF0000Mirror^000000?",
-        "pt-BR": "[Canella]\nEntão, primeiro, traga um ^FF0000Espelho^000000.",
-        "es-ES": "[Canell]\nBien, entonces primero ve a traer\nun ^FF0000Espejo^000000."
+        "en-US": "[Sanel]\nNow, first, could you go get me a ^FF0000Mirror^000000?",
+        "pt-BR": "[Sanel]\nAgora, primeiro, você poderia ir me buscar um ^FF0000Espelho^000000?",
+        "es-ES": "[Sanel]\nAhora, primero, ¿podrías ir a buscarme un ^FF0000Espejo^000000?"
     },
     "e1gwAw": {
-        "ko-KR": "[성질 급한 사넬]\n뭐니, 그 눈빛은?\n그런 멍청한 눈으로 보고 섰지 말고\n빨리 다녀오지 못해?!",
-        "en-US": "[Short-Tempered Canell]\nWhat is with that look?\nStop standing there with that foolish face\nand hurry up already?!",
-        "pt-BR": "[Canella impaciente]\nO que é esse olhar?\nNão fique aí parada olhando com esses olhos bobos.\nVá logo buscar!",
-        "es-ES": "[Canell impaciente]\n¿Qué significa esa mirada?\n¡No te quedes ahí mirándome\ncon esos ojos de boba\ny ve de una vez!"
+        "en-US": "[Impatient Sanel]\nWhat's with that look?\nDon't just stand there with that stupid look on your face, hurry up and go?!",
+        "pt-BR": "[Sanel Impaciente]\nQue cara é essa?\nNão fique aí parada com essa expressão estúpida, apresse-se e vá?!",
+        "es-ES": "[Sanel Impaciente]\n¿Qué es esa mirada?\n¡No te quedes ahí parada con esa expresión estúpida, date prisa y ve?!"
     },
     "fFgwAw": {
-        "ko-KR": "(철썩)\n-그녀는 채찍으로 땅바닥을-\n-세게 한번 휘갈겼다.-",
-        "en-US": "(Smack)\n-She fiercely cracked her whip-\n-across the ground once.-",
-        "pt-BR": "(Slap)\n-Ela chicoteou o chão-\n-com força uma vez.-",
-        "es-ES": "(¡Plas!)\n-Ella azotó el suelo-\n-con fuerza una vez con su látigo.-"
+        "en-US": "(Smack)\n- She fiercely lashes the floor with her whip once. -",
+        "pt-BR": "(Tapa)\n- Ela chicoteia ferozmente o chão com seu chicote uma vez. -",
+        "es-ES": "(Bofetada)\n- Ella azota ferozmente el suelo con su látigo una vez. -"
     },
     "fVgwAw": {
-        "ko-KR": "[사넬]\n자, 거울을 구해왔다면\n잘 들여다 보렴.\n그리고 끊임없이 되뇌는 거야.\n나는 예뻐! 나는 매력적이야!",
-        "en-US": "[Canell]\nNow, if you've brought the Mirror,\nlook into it carefully.\nAnd repeat endlessly.\nI am beautiful! I am charming!",
-        "pt-BR": "[Canella]\nAgora, se trouxe o Espelho,\nolhe bem para ele.\nE repita sem parar.\nEu sou bonita! Eu sou charmosa!",
-        "es-ES": "[Canell]\nBien, si has traído el Espejo,\nmírate bien en él.\nY repítelo sin parar.\n¡Soy bonita! ¡Soy encantadora!"
+        "en-US": "[Sanel]\nNow, if you've brought a mirror, look closely.\nAnd keep repeating to yourself.\nI am pretty! I am charming!",
+        "pt-BR": "[Sanel]\nAgora, se você trouxe um espelho, olhe atentamente.\nE continue repetindo para si mesma.\nEu sou bonita! Eu sou charmosa!",
+        "es-ES": "[Sanel]\nAhora, si has traído un espejo, mírate atentamente.\nY sigue repitiéndote a ti misma.\n¡Soy bonita! ¡Soy encantadora!"
     },
     "flgwAw": {
-        "ko-KR": "[{0}]\n나..나는 예뻐.. 나는 매력적이야.",
-        "en-US": "[{0}]\nI-I am beautiful.. I am charming.",
-        "pt-BR": "[{0}]\nEu... eu sou bonita... eu sou charmosa.",
-        "es-ES": "[{0}]\nSo... soy bonita... soy encantadora."
+        "en-US": "[{0}]\nI..I am pretty.. I am charming.",
+        "pt-BR": "[{0}]\nE-eu sou bonita.. Eu sou charmosa.",
+        "es-ES": "[{0}]\nY-yo soy bonita... Soy encantadora."
     },
     "f1gwAw": {
-        "ko-KR": "[자아도취 사넬]\n더 크게! 나는 아름다워!\n나는 세상에서 제일 아름다워!",
-        "en-US": "[Self-Admiring Canell]\nLouder! I am beautiful!\nI am the most beautiful in the world!",
-        "pt-BR": "[Canella narcisista]\nMais alto! Eu sou bela!\nSou a mais bela do mundo!",
-        "es-ES": "[Canell embelesada consigo misma]\n¡Más fuerte! ¡Soy hermosa!\n¡Soy la más hermosa del mundo!"
+        "en-US": "[Self-absorbed Sanel]\nLouder! I am beautiful!\nI am the most beautiful in the world!",
+        "pt-BR": "[Sanel Autoabsorvida]\nMais alto! Eu sou linda!\nEu sou a mais linda do mundo!",
+        "es-ES": "[Sanel Autoabsorta]\n¡Más fuerte! ¡Soy hermosa!\n¡Soy la más hermosa del mundo!"
     },
     "gFgwAw": {
-        "ko-KR": "[자아도취 된 {0}]\n나, 나는 너무나 아름다워!!!",
-        "en-US": "[Self-Enchanted {0}]\nI-I am absolutely beautiful!!!",
-        "pt-BR": "[{0} narcisista]\nEu, eu sou bela demais!!!",
-        "es-ES": "[{0} embelesada consigo misma]\n¡Yo, yo soy increíblemente hermosa!!!"
+        "en-US": "[Self-absorbed {0}]\nI, I am so beautiful!!!",
+        "pt-BR": "[{0} Autoabsorvida]\nE-eu sou tão linda!!!",
+        "es-ES": "[{0} Autoabsorta]\n¡Y-yo soy tan hermosa!!!"
     },
     "gVgwAw": {
-        "ko-KR": "-두근!-\n-왠 일 인지 거울 속에 비치는-\n-자신의 모습이 정말로-\n-세상에서 제일 예뻐 보였다.-",
-        "en-US": "-Thump!-\n-For some reason, the reflection-\n-in the Mirror really did-\n-look like the most beautiful person-\n-in the world.-",
-        "pt-BR": "-Tum-tum!-\n-Por algum motivo, sua imagem refletida-\n-no Espelho realmente parecia-\n-a mais bonita do mundo.-",
-        "es-ES": "-¡Tump!-\n-Por alguna razón, la imagen de ti misma-\n-reflejada en el Espejo-\n-parecía de verdad-\n-la más hermosa del mundo.-"
+        "en-US": "-Thump!-\n- Somehow, your own reflection in the mirror -\n- looked truly the most beautiful in the world. -",
+        "pt-BR": "-Tump!-\n- De alguma forma, seu próprio reflexo no espelho -\n- parecia verdadeiramente o mais bonito do mundo. -",
+        "es-ES": "-¡Pum!-\n- De alguna manera, tu propio reflejo en el espejo -\n- lucía verdaderamente el más hermoso del mundo. -"
     },
     "glgwAw": {
-        "ko-KR": "[답답한 사넬]\n^FF0000거울^000000말야, ^FF0000거울^000000!!!\n당장 가서 가져오란 말이야!",
-        "en-US": "[Frustrated Canell]\nThe ^FF0000Mirror^000000, the ^FF0000Mirror^000000!!!\nGo and bring it at once!",
-        "pt-BR": "[Canella frustrada]\nEstou falando de ^FF0000Espelho^000000, ^FF0000Espelho^000000!!!\nVá buscar agora mesmo!",
-        "es-ES": "[Canell frustrada]\n¡El ^FF0000Espejo^000000, digo, el ^FF0000Espejo^000000!!!\n¡Te estoy diciendo que vayas a traerlo ahora mismo!"
+        "en-US": "[Frustrated Sanel]\n^FF0000Mirror^000000, I said ^FF0000Mirror^000000!!!\nGo get it right now!",
+        "pt-BR": "[Sanel Frustrada]\n^FF0000Espelho^000000, eu disse ^FF0000Espelho^000000!!!\nVá buscá-lo agora mesmo!",
+        "es-ES": "[Sanel Frustrada]\n¡^FF0000Espejo^000000, dije ^FF0000Espejo^000000!!!\n¡Ve a buscarlo ahora mismo!"
     },
     "g1gwAw": {
-        "ko-KR": "[사넬]\n그래, 첫 번 째 걸음은\n자신의 아름다움을 깨닫는 거야.\n자신이 아름답다고 생각하면\n누구든 자신감이 생기게 마련이거든.",
-        "en-US": "[Canell]\nYes, the very first step\nis realizing your own beauty.\nIf you believe you are beautiful,\nconfidence naturally follows.",
-        "pt-BR": "[Canella]\nIsso, o primeiro passo\né perceber sua própria beleza.\nQuando alguém acredita que é belo,\nnaturalmente passa a ter confiança.",
-        "es-ES": "[Canell]\nSí, el primer paso\nes reconocer tu propia belleza.\nSi piensas que eres hermosa,\ncualquiera puede ganar confianza."
+        "en-US": "[Sanel]\nYes, the first step is realizing your own beauty.\nIf you think you're beautiful, you naturally gain confidence.",
+        "pt-BR": "[Sanel]\nSim, o primeiro passo é perceber sua própria beleza.\nSe você se acha bonita, naturalmente ganha confiança.",
+        "es-ES": "[Sanel]\nSí, el primer paso es darse cuenta de tu propia belleza.\nSi te crees hermosa, naturalmente ganas confianza."
     },
     "hFgwAw": {
-        "ko-KR": "[사넬]\n허나 아무리 자신이 사랑스러워도\n남들이 그렇게 보지 않는다면\n말짱 소용이 없는 거겠지?\n네 매력을 남들이 알아주길 원한다면\n그 매력을 효과적으로\n드러내는 방법을 배울 필요가 있어.",
-        "en-US": "[Canell]\nHowever, no matter how lovely\nyou think you are,\nif others do not see it that way,\nthen it is all meaningless, isn't it?\nIf you want others\nto recognize your charm,\nyou need to learn how\nto display it effectively.",
-        "pt-BR": "[Canella]\nMas por mais adorável que você seja,\nse os outros não virem isso assim,\nnão servirá para nada, certo?\nSe quer que os outros reconheçam seu charme,\nprecisa aprender a revelar esse charme\nde forma eficaz.",
-        "es-ES": "[Canell]\nPero por muy adorable que seas,\nsi los demás no te ven así,\nno servirá de nada, ¿verdad?\nSi quieres que otros reconozcan tu encanto,\nnecesitas aprender\na mostrarlo de forma eficaz."
+        "en-US": "[Sanel]\nBut no matter how lovely you think you are,\nif others don't see you that way, it's useless, right?\nIf you want others to acknowledge your charm,\nyou need to learn how to effectively reveal it.",
+        "pt-BR": "[Sanel]\nMas não importa o quão adorável você se ache,\nse os outros não a veem assim, é inútil, certo?\nSe você quer que os outros reconheçam seu charme,\nprecisa aprender a revelá-lo efetivamente.",
+        "es-ES": "[Sanel]\nPero no importa cuán adorable te creas,\nsi los demás no te ven así, es inútil, ¿verdad?\nSi quieres que otros reconozcan tu encanto,\nnecesitas aprender a revelarlo efectivamente."
     },
     "hVgwAw": {
-        "ko-KR": "[사넬]\n그러기 위해 그 분야에서 정통한\n사람을 만나보는 게 좋겠구나.",
-        "en-US": "[Canell]\nTo do that, it would be best\nto meet someone truly experienced\nin that field.",
-        "pt-BR": "[Canella]\nPara isso, seria bom conhecer\nalguém versado nesse campo.",
-        "es-ES": "[Canell]\nPara eso, lo mejor será\nque conozcas a alguien\nversado en ese campo."
+        "en-US": "[Sanel]\nTo do that, you should meet someone well-versed in that field.",
+        "pt-BR": "[Sanel]\nPara fazer isso, você deve conhecer alguém bem versado nesse campo.",
+        "es-ES": "[Sanel]\nPara hacer eso, debes conocer a alguien bien versado en ese campo."
     },
     "hlgwAw": {
-        "ko-KR": "[사넬]\n프론테라 성당 근처에\n우리 언니가 있단다.\n너에게 많은 조언을 해 줄 거야.",
-        "en-US": "[Canell]\nNear Prontera Church,\nmy older sister can be found.\nShe will give you plenty of advice.",
-        "pt-BR": "[Canella]\nMinha irmã está perto da Catedral de Prontera.\nEla lhe dará muitos conselhos.",
-        "es-ES": "[Canell]\nCerca de la catedral de Prontera\nestá mi hermana.\nElla te dará muchos consejos."
+        "en-US": "[Sanel]\nMy sister is near Prontera Church.\nShe will give you a lot of advice.",
+        "pt-BR": "[Sanel]\nMinha irmã está perto da Igreja de Prontera.\nEla lhe dará muitos conselhos.",
+        "es-ES": "[Sanel]\nMi hermana está cerca de la Iglesia de Prontera.\nElla te dará muchos consejos."
     },
     "h1gwAw": {
-        "ko-KR": "[사넬]\n그래도 나만큼 아름다워지기는\n몹~시 힘들겠지만 말이야.\n오~호호호호호.",
-        "en-US": "[Canell]\nThough becoming as beautiful as me\nwill still be ve~ry difficult.\nO~hohohohoho.",
-        "pt-BR": "[Canella]\nAinda assim, ficar tão bela quanto eu\nserá muuuuito difícil.\nOh~ hohohohoho.",
-        "es-ES": "[Canell]\nAunque llegar a ser tan hermosa como yo\nserá muuuuy difícil.\nOh~ jo, jo, jo, jo."
+        "en-US": "[Sanel]\nBut becoming as beautiful as I am will be very~ difficult, of course.\nOh~ ho ho ho ho ho.",
+        "pt-BR": "[Sanel]\nMas tornar-se tão bonita quanto eu será muito~ difícil, claro.\nOh~ ho ho ho ho ho.",
+        "es-ES": "[Sanel]\nPero volverte tan hermosa como yo será muy~ difícil, por supuesto.\nOh~ jo jo jo jo jo."
     },
     "iFgwAw": {
-        "ko-KR": "[속이 뒤틀리는 {0}]\n......",
-        "en-US": "[Internally Agonizing {0}]\n......",
-        "pt-BR": "[{0} com o estômago revirado]\n......",
-        "es-ES": "[{0} con el estómago revuelto]\n......"
+        "en-US": "[Irritated {0}]\n......",
+        "pt-BR": "[{0} Irritada]\n......",
+        "es-ES": "[{0} Irritada]\n......"
     },
     "iVgwAw": {
-        "ko-KR": "-인내하는 그대 앞에 영광 있으라.-",
-        "en-US": "-May glory be with you who endure.-",
-        "pt-BR": "-Que haja glória diante de quem persevera.-",
-        "es-ES": "-Gloria a quien persevera.-"
+        "en-US": "-Blessed be the patient one.-",
+        "pt-BR": "-Bem-aventurado o paciente.-",
+        "es-ES": "-Bienaventurado el paciente.-"
     },
     "ilgwAw": {
-        "ko-KR": "[사넬]\n좀 빠릿빠릿하게 못 움직이니?\n그렇게 멍청히 있다가는\n허리의 군살만 늘게 될 거야!",
-        "en-US": "[Canell]\nCan't you move a little faster?\nIf you keep standing around stupidly,\nyou'll only gain more fat around your waist!",
-        "pt-BR": "[Canella]\nNão consegue se mover com mais rapidez?\nSe ficar parada aí como uma tonta,\nsó vai aumentar a gordura na cintura!",
-        "es-ES": "[Canell]\n¿No puedes moverte con más brío?\nSi te quedas ahí tan atontada,\nsolo te crecerán michelines en la cintura."
+        "en-US": "[Sanel]\nCan't you move a bit more briskly?\nIf you just stand there stupidly, you'll only gain waist fat!",
+        "pt-BR": "[Sanel]\nVocê não pode se mover um pouco mais rapidamente?\nSe ficar aí parada estupidamente, só vai ganhar gordura na cintura!",
+        "es-ES": "[Sanel]\n¿No puedes moverte un poco más rápido?\n¡Si te quedas ahí parada estúpidamente, solo ganarás grasa en la cintura!"
     },
     "i1gwAw": {
-        "ko-KR": "[사넬]\n프론테라 성당 근처라고!\n어서 어서 움직여! 고고고!",
-        "en-US": "[Canell]\nNear Prontera Church!\nMove it, move it! Go go go!",
-        "pt-BR": "[Canella]\nEu disse perto da Catedral de Prontera!\nAnde, ande! Vai, vai, vai!",
-        "es-ES": "[Canell]\n¡Cerca de la catedral de Prontera!\n¡Vamos, vamos, muévete! ¡Go, go, go!"
+        "en-US": "[Sanel]\nI said near Prontera Church!\nHurry hurry move! Go go go!",
+        "pt-BR": "[Sanel]\nEu disse perto da Igreja de Prontera!\nRápido rápido mexa-se! Vá vá vá!",
+        "es-ES": "[Sanel]\n¡Dije cerca de la Iglesia de Prontera!\n¡Rápido rápido muévete! ¡Ve ve ve!"
     },
     "jFgwAw": {
-        "ko-KR": "[사넬]\n어때? 뭔가 듣고 왔어?",
-        "en-US": "[Canell]\nWell? Did you hear anything?",
-        "pt-BR": "[Canella]\nE então? Ouviu alguma coisa?",
-        "es-ES": "[Canell]\n¿Qué tal? ¿Has oído algo?"
+        "en-US": "[Sanel]\nHow was it? Did you learn something?",
+        "pt-BR": "[Sanel]\nComo foi? Você aprendeu alguma coisa?",
+        "es-ES": "[Sanel]\n¿Cómo te fue? ¿Aprendiste algo?"
     },
     "jVgwAw": {
-        "ko-KR": "[{0}]\n그게.. 다녀는 왔는데...\n아엘씨가.. 알코올..",
-        "en-US": "[{0}]\nWell.. I did go...\nbut Miss Aelle said.. Alcohol..",
-        "pt-BR": "[{0}]\nBem... eu fui, mas...\nAelle pediu... Álcool...",
-        "es-ES": "[{0}]\nPues... fui, sí...\nPero Aelle... Alcohol..."
+        "en-US": "[{0}]\nWell... I went, but...\nMs. Ael was... alcohol..",
+        "pt-BR": "[{0}]\nBem... eu fui, mas...\nA Sra. Ael estava... álcool..",
+        "es-ES": "[{0}]\nBueno... fui, pero...\nLa Sra. Ael estaba... alcohol..."
     },
     "jlgwAw": {
-        "ko-KR": "[사넬]\n흥. 그래, 그럴 줄 알았지.\n대충 무슨 일이 있었는지 알겠어.\n요컨대 정답은 알지만\n풀이 방법을 모르겠다는 거 아냐?",
-        "en-US": "[Canell]\nHmph. Yes, I expected that.\nI can roughly guess what happened.\nIn short, you know the answer,\nbut not how to apply it, right?",
-        "pt-BR": "[Canella]\nHmph. Sim, eu imaginei.\nJá entendi mais ou menos o que aconteceu.\nEm resumo, você sabe a resposta,\nmas não sabe o método para resolvê-la, não é?",
-        "es-ES": "[Canell]\nHmph. Sí, ya me lo imaginaba.\nMás o menos sé qué ocurrió.\nEn resumen, sabes la respuesta,\npero no el método para resolverla, ¿no?"
+        "en-US": "[Sanel]\nHmph. Yes, I figured as much.\nI roughly know what happened.\nIn short, you know the answer but don't know how to solve it, is that it?",
+        "pt-BR": "[Sanel]\nHmph. Sim, imaginei.\nEu sei mais ou menos o que aconteceu.\nEm resumo, você sabe a resposta, mas não sabe como resolver, é isso?",
+        "es-ES": "[Sanel]\nHmph. Sí, me lo imaginaba.\nSé más o menos lo que pasó.\nEn resumen, sabes la respuesta pero no sabes cómo resolverlo, ¿es eso?"
     },
     "j1gwAw": {
-        "ko-KR": "[사넬]\n...",
-        "en-US": "[Canell]\n...",
-        "pt-BR": "[Canella]\n...",
-        "es-ES": "[Canell]\n..."
+        "en-US": "[Sanel]\n...",
+        "pt-BR": "[Sanel]\n...",
+        "es-ES": "[Sanel]\n..."
     },
     "kFgwAw": {
-        "ko-KR": "[사넬]\n떽!",
-        "en-US": "[Canell]\nTsk!",
-        "pt-BR": "[Canella]\nTsc!",
-        "es-ES": "[Canell]\n¡Tch!"
+        "en-US": "[Sanel]\nTch!",
+        "pt-BR": "[Sanel]\nTsc!",
+        "es-ES": "[Sanel]\n¡Tch!"
     },
     "kVgwAw": {
-        "ko-KR": "[{0}]\n?????\n무슨 짓이에요!",
-        "en-US": "[{0}]\n?????\nWhat are you doing?!",
-        "pt-BR": "[{0}]\n?????\nO que está fazendo!",
-        "es-ES": "[{0}]\n?????\n¡¿Qué hace?!"
+        "en-US": "[{0}]\n?????\nWhat was that for!",
+        "pt-BR": "[{0}]\n?????\nPara que foi isso!",
+        "es-ES": "[{0}]\n?????\n¡¿Para qué fue eso?!"
     },
     "klgwAw": {
-        "ko-KR": "[사넬]\n밥을 수저로 떠먹여주다 못해\n씹어서 넘겨주기를 원하는 거냐!\n그런 것 쯤은 스스로 개발해!",
-        "en-US": "[Canell]\nDo you want me to spoon-feed you\nand even chew it up for you too?!\nYou should develop that much yourself!",
-        "pt-BR": "[Canella]\nQuer que eu não só ponha comida na colher,\nmas também mastigue e engula por você?!\nEsse tipo de coisa você deve desenvolver sozinha!",
-        "es-ES": "[Canell]\n¿Quieres que no solo te dé\nla comida con cuchara,\nsino que también te la mastique\ny te la haga tragar?\n¡Algo así debes desarrollarlo tú misma!"
+        "en-US": "[Sanel]\nDo you want me to spoon-feed you, even chew it up and give it to you!\nDevelop such things yourself!",
+        "pt-BR": "[Sanel]\nVocê quer que eu mastigue tudo e dê na sua boca!\nDesenvolva essas coisas por si mesma!",
+        "es-ES": "[Sanel]\n¡¿Quieres que te lo mastique todo y te lo dé en la boca?!\n¡Desarrolla esas cosas por ti misma!"
     },
     "k1gwAw": {
-        "ko-KR": "[친절한 사넬씨]\n......라고 말하고 싶지만.\n난 친절한 사넬님♡이니까\n대충 비법을 알려줄게.",
-        "en-US": "[Kind Canell]\n......is what I'd like to say.\nBut since I am the kind Miss Canell♡,\nI'll tell you the rough secret.",
-        "pt-BR": "[Gentil Srta. Canella]\n......é o que eu gostaria de dizer.\nMas como sou a gentil Senhorita Canella♡,\nvou lhe contar mais ou menos o segredo.",
-        "es-ES": "[La amable señora Canell]\n......Eso es lo que me gustaría decir.\nPero como soy la amable señorita Canell♡,\nte enseñaré más o menos el secreto."
+        "en-US": "[Kind Ms. Sanel]\n......That's what I'd like to say.\nBut I'm kind Sanel♡, so I'll tell you a rough secret.",
+        "pt-BR": "[Sra. Sanel Gentil]\n......É o que eu gostaria de dizer.\nMas eu sou a gentil Sanel♡, então vou lhe contar um segredo aproximado.",
+        "es-ES": "[Sra. Sanel Amable]\n......Eso es lo que me gustaría decir.\nPero soy la amable Sanel♡, así que te contaré un secreto aproximado."
     },
     "lFgwAw": {
-        "ko-KR": "-친절한 사람의 조건에-\n-때리지 않는다는 들어있지 않은가?-",
-        "en-US": "-Shouldn't the conditions-\n-for being kind include-\n-not hitting people?-",
-        "pt-BR": "-Entre as condições para ser gentil,-\n-não deveria estar incluído não bater?-",
-        "es-ES": "-¿No se supone que entre las condiciones-\n-de una persona amable-\n-está no pegar?-"
+        "en-US": "- Isn't 'not hitting' included in the conditions for being kind? -",
+        "pt-BR": "- 'Não bater' não está incluído nas condições para ser gentil? -",
+        "es-ES": "- ¿'No golpear' no está incluido en las condiciones para ser amable? -"
     },
     "lVgwAw": {
-        "ko-KR": "[친절한 사넬씨]\n요령은 말이지.\n1초 동안 천천히 눈을 감았다가\n2초 후에 살며~시 뜨는 거야.\n이렇게.\n앙, 투 트로와~♡",
-        "en-US": "[Kind Canell]\nThe trick is this.\nSlowly close your eyes for 1 second,\nthen gently open them after 2 seconds.\nLike this.\nUn, deux, trois~♡",
-        "pt-BR": "[Gentil Srta. Canella]\nO truque é o seguinte.\nFeche os olhos lentamente por 1 segundo\ne, depois de 2 segundos,\nabra-os suavemente.\nAssim.\nUn, deux, trois~♡",
-        "es-ES": "[La amable señora Canell]\nEl truco es este.\nCierra lentamente los ojos durante 1 segundo\ny, después de 2 segundos,\nábreloooos suavemente.\nAsí.\nUn, deux, trois~♡"
+        "en-US": "[Kind Ms. Sanel]\nThe trick is this.\nSlowly close your eyes for 1 second, then gently open them after 2 seconds.\nLike this.\nUn, deux, trois~♡",
+        "pt-BR": "[Sra. Sanel Gentil]\nO truque é este.\nFeche lentamente os olhos por 1 segundo, então abra-os gentilmente após 2 segundos.\nAssim.\nUn, deux, trois~♡",
+        "es-ES": "[Sra. Sanel Amable]\nEl truco es este.\nCierra lentamente los ojos durante 1 segundo, luego ábrelos suavemente después de 2 segundos.\nAsí.\nUn, deux, trois~♡"
     },
     "llgwAw": {
-        "ko-KR": "앙 투 트로와-",
-        "en-US": "Un, deux, trois-",
-        "pt-BR": "Un, deux, trois-",
-        "es-ES": "Un, deux, trois-"
+        "en-US": "Un deux trois-",
+        "pt-BR": "Un deux trois-",
+        "es-ES": "Un deux trois-"
     },
     "l1gwAw": {
-        "ko-KR": "앙, 트 트로와♡",
-        "en-US": "Un, t t trois♡",
+        "en-US": "Un, deux, trois♡",
         "pt-BR": "Un, deux, trois♡",
-        "es-ES": "Un, deux trois♡"
+        "es-ES": "Un, deux, trois♡"
     },
     "mFgwAw": {
-        "ko-KR": "앙, 투 트로와~♡",
         "en-US": "Un, deux, trois~♡",
         "pt-BR": "Un, deux, trois~♡",
         "es-ES": "Un, deux, trois~♡"
     },
     "mVgwAw": {
-        "ko-KR": "[사넬]\n똑바로 하지 못해!?",
-        "en-US": "[Canell]\nCan you not do it properly!?",
-        "pt-BR": "[Canella]\nNão consegue fazer direito?!",
-        "es-ES": "[Canell]\n¡¿No puedes hacerlo bien?!"
+        "en-US": "[Sanel]\nCan't you do it properly!?",
+        "pt-BR": "[Sanel]\nVocê não pode fazer direito?!",
+        "es-ES": "[Sanel]\n¡¿No puedes hacerlo bien?!"
     },
     "mlgwAw": {
-        "ko-KR": "[{0}]\n앙, 투 트로와~♡",
         "en-US": "[{0}]\nUn, deux, trois~♡",
         "pt-BR": "[{0}]\nUn, deux, trois~♡",
         "es-ES": "[{0}]\nUn, deux, trois~♡"
     },
     "m1gwAw": {
-        "ko-KR": "-뭔가 자신감이 샘솟는 느낌이다.-",
-        "en-US": "-It feels like confidence is welling up inside.-",
-        "pt-BR": "-Parece que uma confiança brota dentro de você.-",
-        "es-ES": "-Se siente como si brotara confianza.-"
+        "en-US": "- You feel a surge of confidence. -",
+        "pt-BR": "- Você sente uma onda de confiança. -",
+        "es-ES": "- Sientes una oleada de confianza. -"
     },
     "nFgwAw": {
-        "ko-KR": "[사넬]\n잘~하는데?\n바로 그거야. 요령을 잊지마.\n앙, 투 트로와~♡",
-        "en-US": "[Canell]\nVery~ good?\nThat's exactly it. Don't forget the trick.\nUn, deux, trois~♡",
-        "pt-BR": "[Canella]\nEstá indo beeem.\nÉ isso mesmo. Não esqueça o truque.\nUn, deux, trois~♡",
-        "es-ES": "[Canell]\nMuy~ bien.\nEso es. No olvides el truco.\nUn, deux, trois~♡"
+        "en-US": "[Sanel]\nYou're doing~ well?\nThat's it. Don't forget the trick.\nUn, deux, trois~♡",
+        "pt-BR": "[Sanel]\nVocê está indo~ bem?\nÉ isso aí. Não esqueça o truque.\nUn, deux, trois~♡",
+        "es-ES": "[Sanel]\n¡Lo estás haciendo~ bien!\nEso es. No olvides el truco.\nUn, deux, trois~♡"
     },
     "nVgwAw": {
-        "ko-KR": "[사넬]\n참, 한가지 주의 사항을 주자면\n아무한테나 윙크한다고 모두 다\n너의 포로가 된다고 생각하면\n그건 엄~~~청난 오산이야.\n이 세상엔 강한 존재가 많거든.\n힘이든 마음이든.",
-        "en-US": "[Canell]\nOh, and one warning.\nIf you think that simply winking\nat everyone will make them\nall your captives,\nthat is a huuuuge misunderstanding.\nThere are many powerful beings\nin this world.\nWhether in strength or spirit.",
-        "pt-BR": "[Canella]\nAh, só um aviso:\nse você acha que qualquer pessoa\nvai virar sua prisioneira\nsó porque você piscou para ela,\nisso é um graaande engano.\nNeste mundo há muitos seres fortes.\nSeja em força, seja em coração.",
-        "es-ES": "[Canell]\nAh, una advertencia:\nsi crees que por guiñarle el ojo\na cualquiera\ntodos se convertirán en tus cautivos,\neso es un graaaaan error.\nEn este mundo hay muchos seres fuertes.\nYa sea en fuerza o en espíritu."
+        "en-US": "[Sanel]\nOh, one caution.\nDon't think that just because you wink at anyone, they'll all become your captives.\nThat would be a huge~ mistake.\nThere are many strong beings in this world, be it in power or heart.",
+        "pt-BR": "[Sanel]\nAh, uma precaução.\nNão pense que só porque você pisca para alguém, todos se tornarão seus cativos.\nIsso seria um grande~ erro.\nExistem muitos seres fortes neste mundo, seja em poder ou coração.",
+        "es-ES": "[Sanel]\nAh, una precaución.\nNo pienses que solo porque le guiñas a alguien, todos se convertirán en tus cautivos.\nEso sería un gran~ error.\nHay muchos seres fuertes en este mundo, ya sea en poder o en corazón."
     },
     "nlgwAw": {
-        "ko-KR": "[사넬]\n만약 그 존재가 너보다 강하다면\n기술은 통하지 않을 거야.\n뭐, 이 몸 앞에 쓰러지지 않는 건\n아~무 것도 없지만 말이야~♡",
-        "en-US": "[Canell]\nIf that being is stronger than you,\nthe technique won't work.\nThough, before this body,\nthere is absolutely~ nothing\nthat can resist~♡",
-        "pt-BR": "[Canella]\nSe esse ser for mais forte que você,\na técnica não funcionará.\nBem, não há naaaada que não caia\ndiante deste corpo aqui~♡",
-        "es-ES": "[Canell]\nSi ese ser es más fuerte que tú,\nla técnica no funcionará.\nAunque no existe na~da\nque no caiga ante mí~♡"
+        "en-US": "[Sanel]\nIf that being is stronger than you, the technique won't work.\nWell, nothing that doesn't fall before me exists, of course~♡",
+        "pt-BR": "[Sanel]\nSe aquele ser for mais forte que você, a técnica não funcionará.\nBem, nada que não caia diante de mim existe, claro~♡",
+        "es-ES": "[Sanel]\nSi ese ser es más fuerte que tú, la técnica no funcionará.\nBueno, nada que no caiga ante mí existe, por supuesto~♡"
     },
     "n1gwAw": {
-        "ko-KR": "[사넬]\n그런 것만 명심하면\n이제 더 이상 가르칠 건 없어.\n이제 어엿한 한명의 레이디로서\n인간도 천사도 악마도 모두\n포로로 만들 수 있길 바래♡",
-        "en-US": "[Canell]\nAs long as you remember that,\nthere is nothing more for me to teach.\nNow, as a proper lady,\nI hope you can captivate\nhumans, angels, and demons alike♡",
-        "pt-BR": "[Canella]\nSe tiver isso em mente,\nnão há mais nada a ensinar.\nAgora, como uma Lady respeitável,\nespero que você consiga fazer de humanos,\nanjos e demônios seus prisioneiros♡",
-        "es-ES": "[Canell]\nMientras tengas eso presente,\nya no tengo nada más que enseñarte.\nEspero que, como toda una lady,\npuedas cautivar a humanos,\nángeles y demonios por igual♡"
+        "en-US": "[Sanel]\nJust keep that in mind, and there's nothing more to teach you.\nFrom now on, as a proper lady,\nI hope you can make humans, angels, and demons all your captives♡",
+        "pt-BR": "[Sanel]\nApenas mantenha isso em mente, e não há mais nada a lhe ensinar.\nDe agora em diante, como uma dama adequada,\nEspero que você possa fazer humanos, anjos e demônios todos os seus cativos♡",
+        "es-ES": "[Sanel]\nSolo tenlo en cuenta, y no hay nada más que enseñarte.\nDe ahora en adelante, como una dama adecuada,\nespero que puedas hacer que humanos, ángeles y demonios sean todos tus cautivos♡"
     },
     "oFgwAw": {
-        "ko-KR": "[사넬]\n그럼 이제 헤어져야겠군.\n다음에 다시 만날 땐\n더 빛나는 존재가 되어있길",
-        "en-US": "[Canell]\nThen it is time for us to part.\nThe next time we meet,\nI hope you will have become\nan even more dazzling existence.",
-        "pt-BR": "[Canella]\nEntão agora devemos nos despedir.\nQuando nos encontrarmos novamente,\nespero que tenha se tornado\numa existência ainda mais brilhante.",
-        "es-ES": "[Canell]\nEntonces ha llegado el momento de despedirnos.\nCuando volvamos a vernos,\nespero que te hayas convertido\nen un ser aún más radiante."
+        "en-US": "[Sanel]\nNow we must part.\nNext time we meet, I hope you've become an even more radiant being",
+        "pt-BR": "[Sanel]\nAgora devemos nos separar.\nNa próxima vez que nos encontrarmos, espero que você tenha se tornado um ser ainda mais radiante",
+        "es-ES": "[Sanel]\nAhora debemos separarnos.\nLa próxima vez que nos encontremos, espero que te hayas convertido en un ser aún más radiante"
     },
     "oVgwAw": {
-        "ko-KR": "^4D4DFF -매혹의 윙크 스킬을 익혔다!- ^000000",
-        "en-US": "^4D4DFF -Learned the Charming Wink skill!- ^000000",
-        "pt-BR": "^4D4DFF -Você aprendeu a habilidade Piscadela!- ^000000",
-        "es-ES": "^4D4DFF -¡Has aprendido la habilidad Guiño Encantador!- ^000000"
+        "en-US": "^4D4DFF -You have learned the skill 'Seductive Wink'!- ^000000",
+        "pt-BR": "^4D4DFF -Você aprendeu a habilidade 'Piscadela Sedutora'!- ^000000",
+        "es-ES": "^4D4DFF -¡Has aprendido la habilidad 'Guiño Seductor'!- ^000000"
     },
     "olgwAw": {
-        "ko-KR": "[사넬]\n어머, 이게 누구야?\n몰라볼 정도로 눈부시게 변했구나.\n그래도 아직은 내게 못 미치지만♡",
-        "en-US": "[Canell]\nOh my, who is this?\nYou've changed so much,\nI barely recognized you.\nThough you're still not quite my equal♡",
-        "pt-BR": "[Canella]\nOra, quem é?\nVocê mudou tanto que mal dá para reconhecer.\nMas ainda não chega aos meus pés♡",
-        "es-ES": "[Canell]\nVaya, ¿quién es esta?\nHas cambiado tanto que casi no te reconozco,\ndeslumbrante como eres.\nAunque todavía no estás a mi altura♡"
+        "en-US": "[Sanel]\nOh my, look who it is.\nYou've changed so dazzlingly I almost didn't recognize you.\nBut you're still not as good as me, of course♡",
+        "pt-BR": "[Sanel]\nOh minha, vejam só quem está aqui.\nVocê mudou tão deslumbrantemente que quase não a reconheci.\nMas você ainda não é tão boa quanto eu, claro♡",
+        "es-ES": "[Sanel]\nOh cielos, mira quién está aquí.\nHas cambiado tan deslumbrantemente que casi no te reconozco.\nPero aún no eres tan buena como yo, por supuesto♡"
     },
     "o1gwAw": {
-        "ko-KR": "-여전하다. 이 사람...-",
-        "en-US": "-She hasn't changed at all...-",
-        "pt-BR": "-Ela continua a mesma. Esta pessoa...-",
-        "es-ES": "-Esta persona... sigue igual.-"
+        "en-US": "- Same as ever, this woman... -",
+        "pt-BR": "- A mesma de sempre, esta mulher... -",
+        "es-ES": "- La misma de siempre, esta mujer... -"
     },
     "pFgwAw": {
-        "ko-KR": "[사넬]\n앞으로 더욱더 눈부시게 빛나는\n모두의 마돈나가 되길 바래.",
-        "en-US": "[Canell]\nI hope you continue\nto shine even more brightly\nand become everyone's madonna.",
-        "pt-BR": "[Canella]\nEspero que, daqui em diante,\nvocê brilhe ainda mais\ne se torne a Madonna de todos.",
-        "es-ES": "[Canell]\nEspero que de ahora en adelante\nbrilles aún más\ny te conviertas en la Madonna de todos."
+        "en-US": "[Sanel]\nI hope you become an even more dazzling Madonna for everyone going forward.",
+        "pt-BR": "[Sanel]\nEspero que você se torne uma Madonna ainda mais deslumbrante para todos daqui para frente.",
+        "es-ES": "[Sanel]\nEspero que te conviertas en una Madonna aún más deslumbrante para todos en el futuro."
     },
     "pVgwAw": {
-        "ko-KR": "[사넬]\n음? 왜 또 말을 거는 거야?\n하항~ 알겠다.\n너도 나한테 반했구나?!\n휴. 너무 예쁜 것도 죄지 뭐람.",
-        "en-US": "[Canell]\nHm? Why are you talking to me again?\nAha~ I get it.\nYou've fallen for me too, haven't you?!\nSigh. Being too beautiful really is a sin.",
-        "pt-BR": "[Canella]\nHmm? Por que está falando comigo de novo?\nHah~ entendi.\nVocê também se apaixonou por mim, não é?!\nUfa. Ser bela demais também é pecado.",
-        "es-ES": "[Canell]\n¿Mmm? ¿Por qué vuelves a hablarme?\nJajá~ ya lo entiendo.\n¡Tú también te has enamorado de mí!\nUf. Ser demasiado hermosa también es pecado."
+        "en-US": "[Sanel]\nHmm? Why are you talking to me again?\nHa hang~ I see.\nYou've fallen for me too?!\nPhew. Being too pretty is a sin, I suppose.",
+        "pt-BR": "[Sanel]\nHmm? Por que está falando comigo de novo?\nHa hang~ Entendo.\nVocê também se apaixonou por mim?!\nUfa. Ser bonita demais é um pecado, suponho.",
+        "es-ES": "[Sanel]\n¿Hmm? ¿Por qué me hablas de nuevo?\nJa jang~ Ya veo.\n¡¿Tú también te has enamorado de mí?!\nUf. Ser demasiado bonita es un pecado, supongo."
     },
     "plgwAw": {
-        "ko-KR": "[{0}]\n......",
         "en-US": "[{0}]\n......",
         "pt-BR": "[{0}]\n......",
         "es-ES": "[{0}]\n......"
     },
     "p1gwAw": {
-        "ko-KR": "-이젠 뭐 놀랍지도 않다.-",
-        "en-US": "-At this point, it's not even surprising anymore.-",
-        "pt-BR": "-Agora isso nem surpreende mais.-",
-        "es-ES": "-Ya ni sorprende.-"
+        "en-US": "- Nothing surprises me anymore. -",
+        "pt-BR": "- Nada mais me surpreende. -",
+        "es-ES": "- Ya nada me sorprende. -"
     },
     "qFgwAw": {
-        "ko-KR": "[사넬]\n어머, 언니 너무 이쁘게 생겼다~\n그 무식하게 축 늘어진 뱃.살.이♡",
-        "en-US": "[Canell]\nOh my, sister, you're so beautiful~\nEspecially that uncivilized sagging be.lly.fat.♡",
-        "pt-BR": "[Canella]\nOra, irmã, você é tão bonita~\nCom essa gordura abdominal tão ignorantemente caída♡",
-        "es-ES": "[Canell]\nVaya, hermana, qué bonita eres~\nCon esa grosera y caída ba-rri-ga♡"
+        "en-US": "[Sanel]\nOh my, sister, you're so pretty~\nThat uncouthly sagging belly. fat.♡",
+        "pt-BR": "[Sanel]\nOh minha, irmã, você é tão bonita~\nEssa barriga flácida e deselegante. gordura.♡",
+        "es-ES": "[Sanel]\nOh cielos, hermana, eres tan bonita~\nEsa barriga flácida y poco elegante. grasa.♡"
     },
     "qVgwAw": {
-        "ko-KR": "-.......때려 버릴까....?....-",
-        "en-US": "-.......Should I hit her....?....-",
-        "pt-BR": "-.......Devo bater nela....?....-",
-        "es-ES": "-.......¿Debería pegarle....?....-"
+        "en-US": "-.......Should I hit her?....?....-",
+        "pt-BR": "-.......Devo bater nela?....?....-",
+        "es-ES": "-.......¿Debería golpearla?....?....-"
     },
     "qlgwAw": {
-        "ko-KR": "[사넬]\n꺅. 여기 좀 봐, 오빠♡\n(찡긋)",
-        "en-US": "[Canell]\nEek. Look over here, handsome♡\n(Wink)",
-        "pt-BR": "[Canella]\nKyaa. Olhe aqui, moço♡\n(Piscadela)",
-        "es-ES": "[Canell]\nKyaa. Mira aquí, guapo♡\n(guiño)"
+        "en-US": "[Sanel]\nEek. Look here, mister♡\n(wink)",
+        "pt-BR": "[Sanel]\nEek. Olhe aqui, senhor♡\n(piscadela)",
+        "es-ES": "[Sanel]\nEek. Mire aquí, señor♡\n(guiño)"
     },
     "q1gwAw": {
-        "ko-KR": "-왠지 모르게 가슴이 두근거린다.-",
-        "en-US": "-For some reason, your heart starts pounding.-",
-        "pt-BR": "-Por algum motivo, seu coração acelera.-",
-        "es-ES": "-Por alguna razón, el corazón te late con fuerza.-"
+        "en-US": "- For some reason, your heart flutters. -",
+        "pt-BR": "- Por alguma razão, seu coração palpita. -",
+        "es-ES": "- Por alguna razón, tu corazón se acelera. -"
     },
     "rFgwAw": {
-        "ko-KR": "아엘",
-        "en-US": "Aelle",
-        "pt-BR": "Aelle",
-        "es-ES": "Aelle"
+        "en-US": "Ael",
+        "pt-BR": "Ael",
+        "es-ES": "Ael"
     },
     "rVgwAw": {
-        "ko-KR": "[아엘]\n오크던전, 글레스트헤임, 폐광던전\n불법 워프 있어요~",
-        "en-US": "[Aelle]\nOrc Dungeon, Glast Heim, Abandoned Mine,\nillegal warps available~",
-        "pt-BR": "[Aelle]\nTenho teleporte ilegal para o Calabouço dos Orcs, Glast Heim e a Mina Abandonada~",
-        "es-ES": "[Aelle]\nHay warp ilegal a la mazmorra de orcos,\nGlast Heim y la mina abandonada~"
+        "en-US": "[Ael]\nOrc Dungeon, Glast Heim, Abandoned Mine Dungeon\nIllegal warps available~",
+        "pt-BR": "[Ael]\nDungeon dos Orcs, Glast Heim, Dungeon da Mina Abandonada\nTeleportes ilegais disponíveis~",
+        "es-ES": "[Ael]\nMazmorra de los Orcos, Glast Heim, Mazmorra de la Mina Abandonada\nTeleportes ilegales disponibles~"
     },
     "rlgwAw": {
-        "ko-KR": "[{0}]\n저...",
-        "en-US": "[{0}]\nExcuse me...",
-        "pt-BR": "[{0}]\nCom licença...",
-        "es-ES": "[{0}]\nEh..."
+        "en-US": "[{0}]\nUm...",
+        "pt-BR": "[{0}]\nUm...",
+        "es-ES": "[{0}]\nUm..."
     },
     "r1gwAw": {
-        "ko-KR": "[아엘]\n어디를 보내드릴까요?\n워프는 세 군데 다 2천제니 에요~",
-        "en-US": "[Aelle]\nWhere would you like to go?\nWarps to all three locations are 2,000 Zeny~",
-        "pt-BR": "[Aelle]\nPara onde devo enviar?\nOs três teleportes custam 2000 zenys cada~",
-        "es-ES": "[Aelle]\n¿Adónde quieres que te envíe?\nLos tres warps cuestan 2000 zeny~"
+        "en-US": "[Ael]\nWhere shall I send you?\nAll three warp destinations are 2000 zeny each~",
+        "pt-BR": "[Ael]\nPara onde devo enviá-lo?\nTodos os três destinos de teleporte custam 2000 zeny cada~",
+        "es-ES": "[Ael]\n¿A dónde lo envío?\nLos tres destinos de teleporte cuestan 2000 zeny cada uno~"
     },
     "sFgwAw": {
-        "ko-KR": "[{0}]\n사넬씨의 언니 되시나요?",
-        "en-US": "[{0}]\nAre you Miss Canell's older sister?",
-        "pt-BR": "[{0}]\nVocê é irmã da Srta. Canella?",
-        "es-ES": "[{0}]\n¿Es usted la hermana de la señora Canell?"
+        "en-US": "[{0}]\nAre you Ms. Sanel's older sister?",
+        "pt-BR": "[{0}]\nVocê é a irmã mais velha da Sra. Sanel?",
+        "es-ES": "[{0}]\n¿Es usted la hermana mayor de la Sra. Sanel?"
     },
     "sVgwAw": {
-        "ko-KR": "[아엘]\n응? 쳇, 뭐야. 손님이 아니잖아.\n우리 바보 동생이 보내서 온 거야?",
-        "en-US": "[Aelle]\nHm? Tch, what. You're not a customer.\nDid my foolish little sister send you?",
-        "pt-BR": "[Aelle]\nHã? Tch, o que é isso? Não é cliente.\nFoi minha irmã boba que mandou você?",
-        "es-ES": "[Aelle]\n¿Eh? Tch, qué pasa. No eres cliente.\n¿Te mandó mi tonta hermana?"
+        "en-US": "[Ael]\nHuh? Tch, what. You're not a customer.\nDid my silly little sister send you?",
+        "pt-BR": "[Ael]\nHuh? Tsc, o quê. Você não é um cliente.\nMinha irmãzinha boba a enviou?",
+        "es-ES": "[Ael]\n¿Eh? Tch, qué. No eres un cliente.\n¿Mi tonta hermanita te envió?"
     },
     "slgwAw": {
-        "ko-KR": "-그녀는 매우 실망한 듯 했으나-\n-그렇지 않은 척을 하며-\n-어색하게 미소를 지었다.-",
-        "en-US": "-She seemed deeply disappointed,-\n-but pretended otherwise-\n-and awkwardly forced a smile.-",
-        "pt-BR": "-Ela parecia muito desapontada,-\n-mas fingiu que não-\n-e sorriu de forma constrangida.-",
-        "es-ES": "-Ella pareció muy decepcionada,-\n-pero fingió no estarlo-\n-y sonrió con torpeza.-"
+        "en-US": "- She seemed very disappointed, -\n- but pretended not to be, -\n- forcing an awkward smile. -",
+        "pt-BR": "- Ela parecia muito desapontada, -\n- mas fingiu não estar, -\n- forçando um sorriso estranho. -",
+        "es-ES": "- Parecía muy decepcionada, -\n- pero fingió no estarlo, -\n- forzando una sonrisa incómoda. -"
     },
     "s1gwAw": {
-        "ko-KR": "[아엘]\n뭐, 그 녀석이 보내서 온 거라면\n용건은 뻔하겠구만.\n길게 끌 것 없이 바로 말해줄 수 있지만!",
-        "en-US": "[Aelle]\nWell, if that brat sent you,\nthen your business is obvious enough.\nI could just tell you right away, but!",
-        "pt-BR": "[Aelle]\nBem, se aquela garota mandou você,\no assunto é óbvio.\nEu poderia dizer logo, sem enrolar!",
-        "es-ES": "[Aelle]\nBueno, si viniste porque ella te mandó,\nel asunto es evidente.\n¡Podría decírtelo directamente sin alargarlo!"
+        "en-US": "[Ael]\nWell, if she sent you, I can guess your business.\nI can tell you right away without dragging it out, but!",
+        "pt-BR": "[Ael]\nBem, se ela a enviou, posso adivinhar seu assunto.\nPosso lhe contar imediatamente sem prolongar, mas!",
+        "es-ES": "[Ael]\nBueno, si ella te envió, puedo adivinar tu asunto.\nPuedo decírtelo de inmediato sin alargarlo, ¡pero!"
     },
     "tFgwAw": {
-        "ko-KR": "[{0}]\n있지만?!",
         "en-US": "[{0}]\nBut?!",
         "pt-BR": "[{0}]\nMas?!",
-        "es-ES": "[{0}]\n¿Pero?!"
+        "es-ES": "[{0}]\n¡¿Pero?!"
     },
     "tVgwAw": {
-        "ko-KR": "[아엘]\n이 몸이 지금껏 계속 말을 하다 보니\n갈증이 좀 나는데 말이야.\n뭔가 마실 걸 좀 가져다주지 않겠어?",
-        "en-US": "[Aelle]\nThis body has been talking nonstop,\nso I'm feeling a little thirsty, you see.\nWouldn't you bring me something to drink?",
-        "pt-BR": "[Aelle]\nComo este corpo tem falado sem parar até agora,\nestou ficando com um pouco de sede.\nPoderia trazer algo para eu beber?",
-        "es-ES": "[Aelle]\nComo llevo hablando sin parar hasta ahora,\nme ha entrado algo de sed.\n¿No podrías traerme algo de beber?"
+        "en-US": "[Ael]\nI've been talking non-stop, so I'm a bit thirsty.\nWould you bring me something to drink?",
+        "pt-BR": "[Ael]\nFiquei falando sem parar, então estou com um pouco de sede.\nVocê poderia me trazer algo para beber?",
+        "es-ES": "[Ael]\nHe estado hablando sin parar, así que tengo un poco de sed.\n¿Me traerías algo de beber?"
     },
     "tlgwAw": {
-        "ko-KR": "[{0}]\n아... 마실 것이요?\n포션같은 걸 말하시는 건가요?",
-        "en-US": "[{0}]\nAh... something to drink?\nDo you mean a potion or something?",
-        "pt-BR": "[{0}]\nAh... algo para beber?\nEstá falando de algo como uma poção?",
-        "es-ES": "[{0}]\nAh... ¿algo de beber?\n¿Se refiere a algo como una poción?"
+        "en-US": "[{0}]\nAh... a drink?\nDo you mean something like a potion?",
+        "pt-BR": "[{0}]\nAh... uma bebida?\nVocê quer dizer algo como uma poção?",
+        "es-ES": "[{0}]\nAh... ¿una bebida?\n¿Te refieres a algo como una poción?"
     },
     "t1gwAw": {
-        "ko-KR": "[아엘]\n너 정말 눈치가 꽝이로구나.\n마실 것이라고 한다면!\n^FF0000알코올^000000정도는 기본으로\n들어있어야 하는 거잖아?!",
-        "en-US": "[Aelle]\nYou're really hopeless at reading the mood.\nIf we're talking about drinks!\nThen at the very least,\nit should include some ^FF0000Alcohol^000000, right?!",
-        "pt-BR": "[Aelle]\nVocê é mesmo sem tato.\nQuando se fala em algo para beber!\nO básico é que contenha\npelo menos ^FF0000Álcool^000000, não é?!",
-        "es-ES": "[Aelle]\nDe verdad no tienes nada de tacto.\n¡Cuando se habla de algo de beber,\nlo básico es que al menos lleve\n^FF0000Alcohol^000000!"
+        "en-US": "[Ael}\nYou really are dense.\nWhen I say something to drink!\nIt should at least contain some ^FF0000alcohol^000000, right?!",
+        "pt-BR": "[Ael}\nVocê realmente é lerda.\nQuando eu digo algo para beber!\nDeveria pelo menos conter um pouco de ^FF0000álcool^000000, certo?!",
+        "es-ES": "[Ael}\nRealmente eres lerda.\n¡Cuando digo algo de beber!\n¡Debería al menos contener algo de ^FF0000alcohol^000000, ¿no?!"
     },
     "uFgwAw": {
-        "ko-KR": "[아엘]\n그리고 조금 더 센스가 있다면\n안주거리도 가져올거라 생각해.\n술 안주엔 ^FF0000과일^000000이 제격이지~♡\n^FF0000사과 1개^000000, ^FF0000바나나 3개^000000, ^FF0000쿠키 5개^000000를\n^FF0000접시^000000에 담아서 와 줬음 좋겠어.",
-        "en-US": "[Aelle]\nAnd if you had even a little sense,\nyou'd also bring snacks.\n^FF0000Fruit^000000 is perfect with alcohol~♡\nI'd like you to bring ^FF00001 Apple^000000, ^FF00003 Banana^000000, and ^FF00005 Cookie^000000\nserved on a ^FF0000plate^000000.",
-        "pt-BR": "[Aelle]\nE se tiver um pouco mais de bom senso,\nacho que trará também alguns petiscos.\nPara acompanhar bebida, ^FF0000frutas^000000 são perfeitas~♡\nGostaria que trouxesse ^FF00001 Maçã^000000, ^FF00003 Banana^000000 e ^FF00005 Cookie^000000\nem um ^FF0000prato^000000.",
-        "es-ES": "[Aelle]\nY si tuvieras un poco más de gusto,\ntambién traerías algo para picar.\nPara acompañar el alcohol, la ^FF0000fruta^000000 es ideal~♡\nMe gustaría que trajeras ^FF00001 Manzana^000000, ^FF00003 Banana^000000 y ^FF00005 Galleta verde^000000\nen un ^FF0000plato^000000."
+        "en-US": "[Ael]\nAnd if you have a bit more sense, I'd expect you to bring a snack.\nFor a drink, ^FF0000fruit^000000 is the best~♡\nI'd like you to bring ^FF00001 Apple^000000, ^FF00003 Bananas^000000, ^FF00005 Cookies^000000 on a ^FF0000Plate^000000.",
+        "pt-BR": "[Ael]\nE se você tiver um pouco mais de noção, eu esperaria que você trouxesse um lanche.\nPara uma bebida, ^FF0000fruta^000000 é o melhor~♡\nEu gostaria que você trouxesse ^FF00001 Maçã^000000, ^FF00003 Bananas^000000, ^FF00005 Biscoitos^000000 em um ^FF0000Prato^000000.",
+        "es-ES": "[Ael]\nY si tienes un poco más de sentido común, esperaría que trajeras un bocadillo.\nPara una bebida, la ^FF0000fruta^000000 es lo mejor~♡\nMe gustaría que trajeras ^FF00001 Manzana^000000, ^FF00003 Plátanos^000000, ^FF00005 Galletas^000000 en un ^FF0000Plato^000000."
     },
     "uVgwAw": {
-        "ko-KR": "[아엘]\n어서 냉큼 다녀오지 못해?!\n참, 성당 쪽에서 모르게 다녀오라고~",
-        "en-US": "[Aelle]\nNow hurry up and go already?!\nOh, and don't let the church notice~",
-        "pt-BR": "[Aelle]\nVá logo e volte depressa!\nAh, e vá sem que o pessoal da catedral perceba~",
-        "es-ES": "[Aelle]\n¡Date prisa y vuelve de una vez!\nAh, y hazlo sin que se enteren\nen la catedral~"
+        "en-US": "[Ael]\nCan't you hurry up and go?!\nOh, and make sure the church doesn't find out~",
+        "pt-BR": "[Ael]\nVocê não pode se apressar e ir?!\nAh, e certifique-se de que a igreja não descubra~",
+        "es-ES": "[Ael]\n¡¿No puedes darte prisa e ir?!\nAh, y asegúrate de que la iglesia no se entere~"
     },
     "ulgwAw": {
-        "ko-KR": "[아엘]\n캬. 좋다 좋아.\n목 마를 땐 역시 이거 라니깐!",
-        "en-US": "[Aelle]\nKya. Wonderful, wonderful.\nNothing beats this when you're thirsty!",
-        "pt-BR": "[Aelle]\nAhh. Que bom, que bom.\nQuando se está com sede, isto é mesmo o melhor!",
-        "es-ES": "[Aelle]\nAhh. Qué bien, qué bien.\n¡Cuando una tiene sed,\nno hay nada como esto!"
+        "en-US": "[Ael}\nKyah. Good, good.\nWhen I'm thirsty, this is the best!",
+        "pt-BR": "[Ael}\nKyah. Bom, bom.\nQuando estou com sede, isso é o melhor!",
+        "es-ES": "[Ael}\nKyah. Bien, bien.\n¡Cuando tengo sed, esto es lo mejor!"
     },
     "u1gwAw": {
-        "ko-KR": "-그녀는 순식간에-\n-그것들을 모두 먹어 치웠다.-",
-        "en-US": "-In an instant,-\n-she devoured everything.-",
-        "pt-BR": "-Ela devorou tudo-\n-em um instante.-",
-        "es-ES": "-Ella devoró todo-\n-en un instante.-"
+        "en-US": "- She quickly devoured -\n- everything. -",
+        "pt-BR": "- Ela rapidamente devorou -\n- tudo. -",
+        "es-ES": "- Rápidamente devoró -\n- todo. -"
     },
     "vFgwAw": {
-        "ko-KR": "[기분파 아엘]\n커~흑. 아으 좋구만~\n좋아! 그럼 내가 너를 위해\n내 비장의 생존 방법을\n전수해 주겠~어.",
-        "en-US": "[Moody Aelle]\nKrr~h. Ahh, that's the stuff~\nAll right! Then for you,\nI'll pass down my ultimate method\nof survival~.",
-        "pt-BR": "[Aelle de humor instável]\nBurp~ Ah, que maravilha~\nÓtimo! Então vou transmitir a você\nmeu método secreto de sobrevivência.",
-        "es-ES": "[Aelle animada]\nGraa~h. Ah, qué bien~\n¡Bien! Entonces te transmitiré\nmi método secreto de supervivencia\npor tu bien."
+        "en-US": "[Moody Ael]\nKeo~heok. Ah, good~\nAlright! Then I will teach you\nmy secret survival method.",
+        "pt-BR": "[Ael Mal-humorada]\nKeo~heok. Ah, bom~\nMuito bem! Então eu lhe ensinarei\nmeu método secreto de sobrevivência.",
+        "es-ES": "[Ael Malhumorada]\nKeo~jeok. Ah, bueno~\n¡Muy bien! Entonces te enseñaré\nmi método secreto de supervivencia."
     },
     "vVgwAw": {
-        "ko-KR": "[아엘]\n힘들이지 않고 자신의 매력을\n상대방에게 어필할 수 있는 게\n뭔지 알고 있어?\n바로 ^FF0000윙크^000000야, ^FF0000윙크^000000",
-        "en-US": "[Aelle]\nDo you know what lets you\nappeal your charm to others\nwithout any effort?\nIt's a ^FF0000wink^000000, a ^FF0000wink^000000.",
-        "pt-BR": "[Aelle]\nSabe o que permite demonstrar\nseu charme ao outro\nsem muito esforço?\nÉ a ^FF0000piscadela^000000, a ^FF0000piscadela^000000.",
-        "es-ES": "[Aelle]\n¿Sabes qué permite mostrar\ntu encanto a otra persona\nsin esfuerzo?\nEl ^FF0000guiño^000000, claro, el ^FF0000guiño^000000."
+        "en-US": "[Ael]\nDo you know what allows you to appeal your charm to others effortlessly?\nIt's ^FF0000Wink^000000, ^FF0000Wink^000000.",
+        "pt-BR": "[Ael]\nVocê sabe o que permite que você mostre seu charme para os outros sem esforço?\nÉ ^FF0000Piscadela^000000, ^FF0000Piscadela^000000.",
+        "es-ES": "[Ael]\n¿Sabes qué es lo que te permite mostrar tu encanto a los demás sin esfuerzo?\nEs el ^FF0000Guiño^000000, el ^FF0000Guiño^000000."
     },
     "vlgwAw": {
-        "ko-KR": "[아엘]\n단순히 한쪽 눈을 살짝 감았다 뜨는\n그런 동작에 지나지 않는데도\n그 효과는 작지 않단 말이제!\n하트를 꿰뚫는 더블스트레이핑!!\n이라는 거시란 말이여~",
-        "en-US": "[Aelle]\nIt's just a simple motion\nof briefly closing one eye,\nbut its effect\nis far from insignificant!\nA Double Strafing that pierces hearts!!\nThat's what it is~",
-        "pt-BR": "[Aelle]\nMesmo sendo apenas um movimento simples\nde fechar e abrir levemente um olho,\no efeito não é pequeno!\nÉ como um Double Strafe que atravessa o coração!!\nÉ isso que quero dizer~",
-        "es-ES": "[Aelle]\nAunque solo sea un movimiento simple\nde cerrar y abrir ligeramente un ojo,\n¡su efecto no es nada pequeño!\n¡Es como un Double Strafe\nque atraviesa el corazón!\nEso es lo que es~"
+        "en-US": "[Ael]\nIt's just a simple action of closing and opening one eye,\nbut the effect is not small!\nIt's what you call Heart-Piercing Double Straiping!!~",
+        "pt-BR": "[Ael]\nÉ apenas uma simples ação de fechar e abrir um olho,\nmas o efeito não é pequeno!\nÉ o que você chama de Heart-Piercing Double Straiping!!~",
+        "es-ES": "[Ael]\nEs solo una simple acción de cerrar y abrir un ojo,\n¡pero el efecto no es pequeño!\n¡Es lo que llamas Heart-Piercing Double Straiping!!~"
     },
     "v1gwAw": {
-        "ko-KR": "-당신의 머리를 팍팍 때리며-\n-그녀는 기분 좋게 웃었다.-\n-심히 심기가 불편했으나-\n-일단은 참도록 하자.-",
-        "en-US": "-As she repeatedly smacked your head,-\n-she laughed cheerfully.-\n-You were deeply irritated,-\n-but for now, endure it.-",
-        "pt-BR": "-Batendo várias vezes em sua cabeça,-\n-ela riu de bom humor.-\n-Você ficou profundamente incomodada,-\n-mas por enquanto vamos aguentar.-",
-        "es-ES": "-Mientras te golpeaba la cabeza varias veces,-\n-ella reía de buen humor.-\n-Te sentiste bastante irritada,-\n-pero por ahora decidiste soportarlo.-"
+        "en-US": "- Hitting your head hard, -\n- she laughs cheerfully. -\n- It's highly irritating, -\n- but let's bear with it for now. -",
+        "pt-BR": "- Batendo forte na sua cabeça, -\n- ela ri alegremente. -\n- É altamente irritante, -\n- mas vamos aguentar por enquanto. -",
+        "es-ES": "- Golpeando fuerte tu cabeza, -\n- se ríe alegremente. -\n- Es altamente irritante, -\n- pero aguantemos por ahora. -"
     },
     "wFgwAw": {
-        "ko-KR": "[아엘]\n......\n사넬이 말했던 대로\n정말 맹한 애로구나?\n^FF0000알코올 1개, 사과 1개, 바나나 3개^000000\n^FF0000잘구운 쿠키 5개^000000를 ^FF0000접시^000000에 담아와!\n썩 가서 술 가져와! 술!!!\n알코올 만세!!!!!!!!!!!!!",
-        "en-US": "[Aelle]\n......\nJust as Canell said,\nyou really are a dimwitted child.\nBring me ^FF00001 Alcohol, 1 Apple, and 3 Banana^000000,\nalong with ^FF00005 Well-Baked Cookie^000000\nserved on a ^FF0000plate^000000!\nNow hurry and bring me booze! Booze!!!\nLong live Alcohol!!!!!!!!!!!!!",
-        "pt-BR": "[Aelle]\n......\nComo Canella disse,\nvocê é mesmo uma garota distraída, não é?\nTraga ^FF00001 Álcool, 1 Maçã, 3 Banana^000000\ne ^FF00005 Cookie bem assados^000000 em um ^FF0000prato^000000!\nVá logo trazer bebida! Bebida!!!\nViva o Álcool!!!!!!!!!!!!!",
-        "es-ES": "[Aelle]\n......\nTal como dijo Canell,\nde verdad eres bastante lenta, ¿eh?\n¡Trae ^FF00001 Alcohol, 1 Manzana, 3 Banana^000000\ny ^FF00005 Galleta verde bien horneadas^000000 en un ^FF0000plato^000000!\n¡Ve ahora mismo a por alcohol! ¡¡¡Alcohol!!!\n¡¡¡¡¡Viva el Alcohol!!!!!"
+        "en-US": "[Ael]\n......\nYou're really as dumb as Sanel said, aren't you?\nBring ^FF00001 Alcohol, 1 Apple, 3 Bananas^000000,\n^FF00005 Well-Baked Cookies^000000 on a ^FF0000Plate^000000!\nGo get the alcohol! Alcohol!!!\nAlcohol hurray!!!!!!!!!!!!!",
+        "pt-BR": "[Ael]\n......\nVocê é realmente tão burra quanto a Sanel disse, não é?\nTraga ^FF00001 Álcool, 1 Maçã, 3 Bananas^000000,\n^FF00005 Biscoitos Bem-Assados^000000 em um ^FF0000Prato^000000!\nVá pegar o álcool! Álcool!!!\nÁlcool hurray!!!!!!!!!!!!!",
+        "es-ES": "[Ael]\n......\nRealmente eres tan tonta como dijo Sanel, ¿no es así?\n¡Trae ^FF00001 Alcohol, 1 Manzana, 3 Plátanos^000000,\n^FF00005 Galletas Bien Horneadas^000000 en un ^FF0000Plato^000000!\n¡Ve a buscar el alcohol! ¡¡Alcohol!!!\n¡¡¡Alcohol hurra!!!!!!!!!!!!!"
     },
     "wVgwAw": {
-        "ko-KR": "[{0}]\n(동생이나 언니나 똑같군...)\n그냥 윙크만으론 안 될 것 같은데\n무슨 비법이라도 있는 건가요?!",
-        "en-US": "[{0}]\n(Like sister, like sister...)\nI don't think a simple wink alone would work.\nIs there some kind of secret technique?!",
-        "pt-BR": "[{0}]\n(A irmã e a mais nova são iguais...)\nAcho que apenas piscar não vai bastar.\nHá algum segredo?!",
-        "es-ES": "[{0}]\n(Las hermanas son exactamente iguales...)\nNo creo que baste con un simple guiño.\n¿Hay algún secreto?!"
+        "en-US": "[{0}]\n(Like sister, like brother...)\nJust winking doesn't seem enough.\nIs there a secret trick?!",
+        "pt-BR": "[{0}]\n(Tal irmã, tal irmão...)\nApenas piscar não parece suficiente.\nExiste um truque secreto?!",
+        "es-ES": "[{0}]\n(De tal palo, tal astilla...)\nSolo guiñar un ojo no parece suficiente.\n¡¿Hay un truco secreto?!"
     },
     "wlgwAw": {
-        "ko-KR": "-그녀는 취기가 도는지-\n-알 수 없는 사투리를-\n-섞어서 말하기 시작했다.-",
-        "en-US": "-Perhaps because she was getting drunk,-\n-she began speaking-\n-in a strange dialect.-",
-        "pt-BR": "-Talvez por estar ficando bêbada,-\n-ela começou a falar-\n-misturando um dialeto incompreensível.-",
-        "es-ES": "-Quizá por el alcohol,-\n-ella empezó a hablar-\n-mezclando un dialecto incomprensible.-"
+        "en-US": "- Whether tipsy or not, -\n- she starts speaking in a strange dialect. -",
+        "pt-BR": "- Quer esteja embriagada ou não, -\n- ela começa a falar num dialeto estranho. -",
+        "es-ES": "- Ya sea que esté achispada o no, -\n- comienza a hablar en un dialecto extraño. -"
     },
     "w1gwAw": {
-        "ko-KR": "[아엘]\n눈만 살짝 감았다 뜨면 말여!\n인간이든, 악마든, 천사든 간에\n표옹~ 하고 반해버린단 말이지.",
-        "en-US": "[Aelle]\nJust close one eye and open it again, y'hear!\nWhether it's humans, demons, or angels,\nthey'll go poof~ and fall for ya.",
-        "pt-BR": "[Aelle]\nSe fechar e abrir um olho bem de leve!\nSeja humano, demônio ou anjo,\nfica compleeetamente apaixonado.",
-        "es-ES": "[Aelle]\n¡Si cierras y abres un poquito un ojo!\nDa igual que sea humano, demonio o ángel,\n¡se enamorará de golpe!"
+        "en-US": "[Ael]\nJust closing and opening your eyes, I say!\nWhether human, demon, or angel,\nthey fall for you, 'poof'~",
+        "pt-BR": "[Ael]\nBasta fechar e abrir os olhos, eu digo!\nSeja humano, demônio ou anjo,\neles se apaixonam por você, 'poof'~",
+        "es-ES": "[Ael]\n¡Basta con cerrar y abrir los ojos, digo!\nYa sea humano, demonio o ángel,\nse enamoran de ti, 'puf'~"
     },
     "xFgwAw": {
-        "ko-KR": "[취기 오른 아엘]\n¸Ó¸® À§¿¡ ÇÏÆ®°¡ ”??¶á´Ü ¸»¿©!\n공격을 하던 몬스터도\n그때만큼은 너의 포로~라는겨.",
-        "en-US": "[Tipsy Aelle]\nLittle hearts'll go boing boing above their heads!\nEven monsters attacking ya\nbecome your captives~\nat least for that moment.",
-        "pt-BR": "[Aelle bêbada]\nCorações aparecem pipocando acima da cabeça!\nAté monstros que estavam atacando\nviram seus prisioneiros naquele momento.",
-        "es-ES": "[Aelle achispada]\n¡Le saldrán corazones flotando sobre la cabeza!\nIncluso un monstruo que estuviera atacando\nserá tu cautivo en ese instante."
+        "en-US": "[Tipsy Ael]\nHearts pop out above their heads, I say!\nEven a monster that was attacking\nbecomes your captive~ at that moment.",
+        "pt-BR": "[Ael Bêbada]\nCorações saltam acima de suas cabeças, eu digo!\nAté um monstro que estava atacando\ntorna-se seu cativo~ naquele momento.",
+        "es-ES": "[Ael Ebria]\n¡Los corazones saltan por encima de sus cabezas, digo!\nIncluso un monstruo que estaba atacando\nse convierte en tu cautivo~ en ese momento."
     },
     "xVgwAw": {
-        "ko-KR": "[취기 오른 아엘]\n그렇다고\n여왕님처럼 괜히 때리진 말드라고.\n그럼 오 천년 묵은 애정도\n저 멀리 달아나니까안 말이여.",
-        "en-US": "[Tipsy Aelle]\nBut don't go around\nhitting people like some queen.\nEven ten-thousand-year-old affection\nwill run far, far away if ya do.",
-        "pt-BR": "[Aelle bêbada]\nMas isso não significa\nque deve bater neles como uma rainha.\nSe fizer isso, até um amor de cinco mil anos\nvai fugir para longe.",
-        "es-ES": "[Aelle achispada]\nPero eso sí,\nno le pegues sin motivo como una reina.\nPorque entonces hasta un amor de cinco mil años\nsaldría corriendo muy lejos."
+        "en-US": "[Tipsy Ael]\nBut don't go hitting people like a queen or something.\nBecause even a thousand years of affection\nwill run far away if you do that, I say.",
+        "pt-BR": "[Ael Bêbada]\nMas não saia batendo nas pessoas como uma rainha ou algo assim.\nPorque até mesmo mil anos de afeição\nfugirão para longe se você fizer isso, eu digo.",
+        "es-ES": "[Ael Ebria]\nPero no vayas golpeando a la gente como una reina o algo así.\nPorque incluso mil años de afecto\nhuirán muy lejos si haces eso, digo."
     },
     "xlgwAw": {
-        "ko-KR": "[취한 아엘]\n자! 나를 따라 윙크를 해 보드라고!\n이렇게! 이렇게 말이여!\n(찡긋)",
-        "en-US": "[Drunk Aelle]\nNow! Try winking after me!\nLike this! Like this, y'hear!\n(Wink)",
-        "pt-BR": "[Aelle bêbada]\nVamos! Faça uma piscadela me imitando!\nAssim! Assim!\n(Piscadela)",
-        "es-ES": "[Aelle borracha]\n¡Vamos! ¡Haz un guiño siguiendo mi ejemplo!\n¡Así! ¡Así, digo!\n(guiño)"
+        "en-US": "[Drunk Ael]\nNow! Try winking along with me, I say!\nLike this! Like this, I say!\n(Wink)",
+        "pt-BR": "[Ael Bêbada]\nAgora! Tente piscar junto comigo, eu digo!\nAssim! Assim, eu digo!\n(Piscadela)",
+        "es-ES": "[Ael Ebria]\n¡Ahora! ¡Intenta guiñar el ojo junto conmigo, digo!\n¡Así! ¡Así, digo!\n(Guiño)"
     },
     "x1gwAw": {
-        "ko-KR": "[{0}]\n으..응?!\n왠지...\n왠지 예뻐보여!! 예뻐보여요!\n나 당신이 좋아진 거 같아요!",
-        "en-US": "[{0}]\nU-uh?!\nSomehow...\nSomehow you look beautiful!! Beautiful!\nI think I've started to like you!",
-        "pt-BR": "[{0}]\nH-hã?!\nPor algum motivo...\nPor algum motivo você parece bonita!! Parece bonita!\nAcho que comecei a gostar de você!",
-        "es-ES": "[{0}]\n¿Eh...?\nPor alguna razón...\n¡Por alguna razón parece bonita! ¡Parece bonita!\n¡Creo que me ha empezado a gustar!"
+        "en-US": "[{0}]\nUh... huh?!\nSomehow...\nSomehow you look pretty!! You look pretty!\nI think I'm falling for you!",
+        "pt-BR": "[{0}]\nUh... huh?!\nDe alguma forma...\nDe alguma forma você parece bonita!! Você parece bonita!\nAcho que estou me apaixonando por você!",
+        "es-ES": "[{0}]\nUh... ¡¿eh?!\nDe alguna manera...\n¡¡De alguna manera te ves bonita!! ¡Te ves bonita!\n¡Creo que me estoy enamorando de ti!"
     },
     "yFgwAw": {
-        "ko-KR": "[주정하는 아엘]\n흐흥. 다앙연한 거 아니여~어?\n이 몸이 한번 맘 먹으며언\n바포메트도, 오크히어로도,\n심지어는 엔젤링마저\n헤롱헤롱인 것이란 말이제~.\n아히히히히힝~♡",
-        "en-US": "[Drunken Aelle]\nHmph. Oooof course ya did~?\nIf this body really puts her mind to it,\neven Baphomet, Orc Hero,\nand even Angeling itself\ngo all woozy woozy~.\nAhihihihihing~♡",
-        "pt-BR": "[Aelle embriagada]\nHuhum. Claaaro, não é~?\nQuando este corpo decide,\nBaphomet, Orc Hero,\ne até Angeling\nficam todos tontos de paixão~.\nAhihihihihing~♡",
-        "es-ES": "[Aelle farfullando borracha]\nJe, je. ¿No es obvio~?\nCuando yo me lo propongo,\nBaphomet, Orc Hero\ne incluso Angeling\nquedan mareaditos por mí~.\nAjijijijijí~♡"
+        "en-US": "[Babbling Ael]\nHeu heung. Isn't that o~bvious, say?\nOnce I make up my mind, I say,\nBaphomet, Orc Hero, even an Angeling\ngoes 'heorong heorong', I say.\nA hi hi hi hi hing~♡",
+        "pt-BR": "[Ael Balbuciante]\nHeu heung. Isso não é ó~bvio, digo?\nUma vez que eu me decido, eu digo,\nBaphomet, Orc Hero, até um Angeling\nfica 'heorong heorong', eu digo.\nA hi hi hi hi hing~♡",
+        "es-ES": "[Ael Balbuceante]\nJeu jeung. Eso es o~bvio, ¿digo?\nUna vez que me lo propongo, digo,\nBaphomet, Orc Hero, incluso un Angeling\nse queda 'jeorong jeorong', digo.\nA ji ji ji ji jing~♡"
     },
     "yVgwAw": {
-        "ko-KR": "[인사불성 아엘]\nzZzz... Zzzz...\n......아히힝.. 이 몸은 천잰겨..\n...zzzZzz...",
-        "en-US": "[Blackout Drunk Aelle]\nzZzz... Zzzz...\n......Ahihing.. This body's a genius..\n...zzzZzz...",
-        "pt-BR": "[Aelle completamente bêbada]\nzZzz... Zzzz...\n......Ahihing... este corpo é genial..\n...zzzZzz...",
-        "es-ES": "[Aelle completamente ebria]\nzZzz... Zzzz...\n......Ajijí... Soy un genio...\n...zzzZzz..."
+        "en-US": "[Unconscious Ael]\nzZzz... Zzzz...\n......ahihing.. I'm a genius, say..\n...zzzZzz...",
+        "pt-BR": "[Ael Inconsciente]\nzZzz... Zzzz...\n......ahihing.. sou um gênio, digo..\n...zzzZzz...",
+        "es-ES": "[Ael Inconsciente]\nzZzz... Zzzz...\n......ajijing... soy un genio, digo...\n...zzzZzz..."
     },
     "ylgwAw": {
-        "ko-KR": "[{0}]\n앗, 이, 이봐요!!\n잠들지 말고 일어나요!\n비법을!!!",
-        "en-US": "[{0}]\nH-Hey, hey!!\nDon't fall asleep, wake up!\nThe secret technique!!!",
-        "pt-BR": "[{0}]\nEi, e-ei!!\nNão durma, acorde!\nO segredo!!!",
-        "es-ES": "[{0}]\n¡Ah, e... espere!\n¡No se duerma, despierte!\n¡El secreto!!!"
+        "en-US": "[{0}]\nAh, he-hey!!\nDon't fall asleep, wake up!\nThe secret trick!!!",
+        "pt-BR": "[{0}]\nAh, ei-ei!!\nNão durma, acorde!\nO truque secreto!!!",
+        "es-ES": "[{0}]\n¡Ah, oye-oye!!\n¡No te duermas, despierta!\n¡¡¡El truco secreto!!!"
     },
     "y1gwAw": {
-        "ko-KR": "[귀찮은 아엘]\n깨우지마!!!!!\n저리로 가 버리드라고!!!",
-        "en-US": "[Annoyed Aelle]\nDon't wake me up!!!!!\nGet lost already!!!",
-        "pt-BR": "[Aelle irritada]\nNão me acorde!!!!!\nVá embora para lá!!!",
-        "es-ES": "[Aelle molesta]\n¡¡¡¡¡No me despiertes!!!!!\n¡¡¡Vete por ahí!!!"
+        "en-US": "[Annoyed Ael]\nDon't wake me!!!!!\nGo away over there, I say!!!",
+        "pt-BR": "[Ael Irritada]\nNão me acorde!!!!!\nVá para lá, eu digo!!!",
+        "es-ES": "[Ael Enojada]\n¡¡¡No me despiertes!!!!!\n¡¡¡Vete para allá, digo!!!"
     },
     "zFgwAw": {
-        "ko-KR": "[{0}]\n이, 이봐요!!",
-        "en-US": "[{0}]\nH-Hey!!",
+        "en-US": "[{0}]\nHe-hey!!",
         "pt-BR": "[{0}]\nE-ei!!",
-        "es-ES": "[{0}]\n¡E... espere!"
+        "es-ES": "[{0}]\n¡O-oye!!"
     },
     "zVgwAw": {
-        "ko-KR": "[아엘]\n아히힝. 좀 깨우지 좀 말어!\n나머진 동생한테 물어보란 말여!\n눈치 없는 여잔 사랑 못 받는다니껜!",
-        "en-US": "[Aelle]\nAhihing. Stop waking me up!\nAsk my sister about the rest!\nGirls without tact don't get loved!",
-        "pt-BR": "[Aelle]\nAhihing. Pare de me acordar!\nPergunte o resto à minha irmã!\nMulher sem tato não recebe amor!",
-        "es-ES": "[Aelle]\nAjijí. ¡Deja de despertarme!\n¡Pregúntale el resto a mi hermana!\n¡Las mujeres sin tacto no reciben amor!"
+        "en-US": "[Ael]\nAhihing. Don't wake me up, I say!\nAsk the rest to my little sister, I say!\nA woman with no sense can't receive love, they say!",
+        "pt-BR": "[Ael]\nAhihing. Não me acorde, eu digo!\nPergunte o resto para minha irmãzinha, eu digo!\nUma mulher sem noção não pode receber amor, dizem!",
+        "es-ES": "[Ael]\nAjijing. ¡No me despiertes, digo!\n¡Pregúntale el resto a mi hermanita, digo!\n¡Una mujer sin sentido común no puede recibir amor, dicen!"
     },
     "zlgwAw": {
-        "ko-KR": "[머리 아픈 아엘]\n...으으으.. 숙취가...",
-        "en-US": "[Hungover Aelle]\n...Ughhh.. this hangover...",
-        "pt-BR": "[Aelle com dor de cabeça]\n...Uuugh... ressaca...",
-        "es-ES": "[Aelle con dolor de cabeza]\n...Uuuuh... la resaca..."
+        "en-US": "[Hungover Ael]\n...Euuugh.. hangover...",
+        "pt-BR": "[Ael de Ressaca]\n...Euuugh.. ressaca...",
+        "es-ES": "[Ael con Resaca]\n...Euuugh... resaca..."
     },
     "z1gwAw": {
-        "ko-KR": "[아엘]\n엇, 이게 누구야?\n흠, 이제 좀 레이디의 티가 나는데?\n이제 촌티는 찾아볼 수도 없는걸?",
-        "en-US": "[Aelle]\nOh, look who it is?\nHmm, now you finally have\nthe look of a proper lady.\nThat country bumpkin vibe is completely gone now.",
-        "pt-BR": "[Aelle]\nOh, quem é?\nHmm, agora você parece um pouco mais Lady.\nNem dá mais para ver aquela aparência caipira.",
-        "es-ES": "[Aelle]\nOh, ¿a quién tenemos aquí?\nMmm, ahora sí que pareces una lady, ¿eh?\nYa no queda ni rastro de ese aire pueblerino."
+        "en-US": "[Ael]\nOh, look who it is.\nHmm, you're finally starting to look like a lady?\nCan't find any rusticness now, can you?",
+        "pt-BR": "[Ael]\nOh, vejam só quem está aqui.\nHmm, você finalmente está começando a parecer uma dama?\nNão consigo mais encontrar nenhum rastro de rusticidade, posso?",
+        "es-ES": "[Ael]\nOh, mira quién está aquí.\nHmm, ¿finalmente estás comenzando a parecer una dama?\nYa no puedo encontrar ningún rastro de rusticidad, ¿verdad?"
     },
     "0FgwAw": {
-        "ko-KR": "[아엘]\n이제 어엿한 한명의 레이디로서\n당당하게 남들 위에 서도록 해.\n레이디는 존재한다는 것만으로도\n모두의 감사를 받을만한 존재야.\n마음껏 어리광부리고, 떼쓰고\n누구에게든, 뭐든지 부탁하렴.",
-        "en-US": "[Aelle]\nNow, as a proper lady,\nstand proudly above others.\nA lady is a being worthy\nof everyone's gratitude\nsimply for existing.\nFeel free to act spoiled, whine,\nand ask anyone for anything.",
-        "pt-BR": "[Aelle]\nAgora, como uma Lady respeitável,\nfique acima dos outros com confiança.\nUma Lady é uma existência que merece\na gratidão de todos apenas por existir.\nFaça manha à vontade, insista,\ne peça qualquer coisa a qualquer um.",
-        "es-ES": "[Aelle]\nAhora, como una lady hecha y derecha,\nmantente con orgullo por encima de los demás.\nUna lady merece la gratitud de todos\nsolo por existir.\nHaz caprichos cuanto quieras, exige lo que desees\ny pide cualquier cosa a quien sea."
+        "en-US": "[Ael]\nNow stand proudly above others as a proper lady.\nA lady is someone who deserves everyone's gratitude just by existing.\nFeel free to act spoiled, throw tantrums,\nand ask anyone for anything.",
+        "pt-BR": "[Ael]\nAgora fique orgulhosamente acima dos outros como uma dama adequada.\nUma dama é alguém que merece a gratidão de todos apenas por existir.\nSinta-se à vontade para agir como mimada, fazer birras,\ne pedir qualquer coisa a qualquer um.",
+        "es-ES": "[Ael]\nAhora mantente orgullosamente por encima de los demás como una dama adecuada.\nUna dama es alguien que merece la gratitud de todos solo por existir.\nSiéntete libre de actuar como una mimada, hacer berrinches,\ny pedirle cualquier cosa a cualquiera."
     },
     "0VgwAw": {
-        "ko-KR": "[아엘]\n모든 존재를 무릎 꿇게 만들 수 있는\n나같이 멋진 레이디가 되길 빌게.\n힘들겠지만 말이야, 푸훗~♡",
-        "en-US": "[Aelle]\nI hope you become\na magnificent lady like me,\ncapable of bringing all beings\nto their knees.\nThough it'll be difficult, puhut~♡",
-        "pt-BR": "[Aelle]\nEspero que você se torne uma Lady maravilhosa como eu,\ncapaz de fazer todos os seres se ajoelharem.\nVai ser difícil, claro. Puhut~♡",
-        "es-ES": "[Aelle]\nEspero que te conviertas en una lady\ntan maravillosa como yo,\ncapaz de hacer que todos los seres\nse arrodillen ante ti.\nAunque será difícil, fufú~♡"
+        "en-US": "[Ael]\nI hope you become a wonderful lady like me,\nwho can make every being kneel.\nThough it'll be hard, poo hoot~♡",
+        "pt-BR": "[Ael]\nEspero que você se torne uma dama maravilhosa como eu,\nque pode fazer todo ser se ajoelhar.\nEmbora seja difícil, poo hoot~♡",
+        "es-ES": "[Ael]\nEspero que te conviertas en una dama maravillosa como yo,\nque puede hacer que todo ser se arrodille.\nAunque será difícil, poo juut~♡"
     },
     "0lgwAw": {
-        "ko-KR": "-정말 끝까지 닮은 자매였다.-",
-        "en-US": "-They truly resembled each other to the very end.-",
-        "pt-BR": "-Foram irmãs parecidas até o fim.-",
-        "es-ES": "-De verdad eran hermanas parecidas hasta el final.-"
+        "en-US": "- They were truly sisters to the end. -",
+        "pt-BR": "- Elas eram verdadeiramente irmãs até o fim. -",
+        "es-ES": "- Eran verdaderamente hermanas hasta el final. -"
     },
     "01gwAw": {
-        "ko-KR": "[??????]\n또, 불법 워프 열고 있는 건가요!\n어디 있어요, 아엘 자매님!\n성당으로 신고가 들어왔다고요!",
-        "en-US": "[??????]\nYou're running illegal warps again, aren't you?!\nWhere are you, Sisters Aelle?!\nWe've received a report at the church!",
-        "pt-BR": "[??????]\nEstá abrindo teleporte ilegal de novo?!\nOnde está, Irmã Aelle?\nRecebemos uma denúncia na catedral!",
-        "es-ES": "[??????]\n¿Otra vez estás abriendo warps ilegales?\n¿Dónde está, hermana Aelle?\n¡Ha llegado una denuncia a la catedral!"
+        "en-US": "[??????]\nAre you, again, opening illegal warps?!\nWhere are you, Sister Ael!\nA report has come in to the church!",
+        "pt-BR": "[??????]\nVocê está, de novo, abrindo teleportes ilegais?!\nOnde você está, Irmã Ael!\nUma denúncia chegou à igreja!",
+        "es-ES": "[??????]\n¡¿Estás, otra vez, abriendo teleportes ilegales?!\n¡¿Dónde estás, Hermana Ael?!\n¡Ha llegado un informe a la iglesia!"
     },
     "1FgwAw": {
-        "ko-KR": "[아엘]\n헛. 주임 복사님이다!\n나 여기 있는 거 비밀이에요!!",
-        "en-US": "[Aelle]\nEek. It's the Head Priest!\nKeep it a secret that I'm here!!",
-        "pt-BR": "[Aelle]\nEek. É o Acólito-chefe!\nÉ segredo que estou aqui!!",
-        "es-ES": "[Aelle]\n¡Ah! ¡Es la acólita superior!\n¡¡No digan que estoy aquí!!"
+        "en-US": "[Ael]\nGosh. It's the head acolyte!\nIt's a secret that I'm here!!",
+        "pt-BR": "[Ael]\nNossa. É a acólita chefe!\nÉ segredo que estou aqui!!",
+        "es-ES": "[Ael]\nCielos. ¡Es la acólita jefa!\n¡Es un secreto que estoy aquí!!"
     }
 }

@@ -541,8 +541,8 @@
     },
     "zBgj": {
         "en-US": "- You can't understand what he is saying. -",
-        "pt-BR": "[Trabalhador]\nOlá, {callme}.\nVocê veio me ajudar?",
-        "es-ES": "[Trabajador]\nHola, {callme}.\n¿Viniste para ayudarme?"
+        "pt-BR": "- Você não consegue entender o que ele está dizendo. -",
+        "es-ES": "- No entiendes lo que dice. -"
     },
     "zRgj": {
         "en-US": "[Gill]\nI need something to fix the tent with,\nif you can get^0000FF 30 Horn of Hillslion^000000, I can make them into sturdy enough screws.",

@@ -1,0 +1,2587 @@
+{
+    "YP4CDQ": {
+        "en-US": "Security Guard Dent",
+        "pt-BR": "Guarda Dent",
+        "es-ES": "Agente de seguridad Dent"
+    },
+    "Yf4CDQ": {
+        "en-US": "[Security Guard Dent]\n<FONT SIZE = 16><B>Hold it!!</FONT></B>\n<FONT SIZE = 14>Hey!</FONT>\nCan’t you see the line?\nIf you’re here to see ^E5555ENiren^000000, wait your turn!",
+        "pt-BR": "[Guarda Dent]\n<FONT SIZE = 16><B>Espere!!</FONT></B>\n<FONT SIZE = 14>Ei!</FONT>\nNão está vendo a fila?\nSe veio ver ^E5555ENiren^000000, respeite a ordem!",
+        "es-ES": "[Agente de seguridad Dent]\n<FONT SIZE = 16><B>¡Un momento!</FONT></B>\n<FONT SIZE = 14>¡Oye!</FONT>\n¿No ves la fila?\n¡Si has venido a ver a ^E5555ENiren^000000, respeta tu turno!"
+    },
+    "Yv4CDQ": {
+        "en-US": "Hold it!! Hey!",
+        "pt-BR": "Espere!! Ei!",
+        "es-ES": "¡Un momento! ¡Oye!"
+    },
+    "Y/4CDQ": {
+        "en-US": "[Elly]\nThere are so many people.\nBut it’ll be a problem if we don’t meet Lady Niren soon.",
+        "pt-BR": "[Elly]\nTem muita gente mesmo.\nMas vai ser complicado se não encontrarmos a Senhorita Niren rapidamente.",
+        "es-ES": "[Elly]\nDe verdad hay muchísima gente.\nPero tendremos problemas si no vemos pronto al señorita Niren."
+    },
+    "ZP4CDQ": {
+        "en-US": "Say it’s urgent.",
+        "pt-BR": "Diga que é urgente.",
+        "es-ES": "Dice que es un asunto urgente."
+    },
+    "Zf4CDQ": {
+        "en-US": "[Security Guard Dent]\n<FONT SIZE = 16><B>What?</FONT></B>\n<FONT SIZE = 14>I’m extremely busy too, you know?</FONT>",
+        "pt-BR": "[Guarda Dent]\n<FONT SIZE = 16><B>O quê?</FONT></B>\n<FONT SIZE = 14>Eu também estou super ocupado, sabia?</FONT>",
+        "es-ES": "[Agente de seguridad Dent]\n<FONT SIZE = 16><B>¿Qué?</FONT></B>\n<FONT SIZE = 14>¡Yo también estoy ocupadísimo!</FONT>"
+    },
+    "Zv4CDQ": {
+        "en-US": "What?",
+        "pt-BR": "O quê?",
+        "es-ES": "¿Qué?"
+    },
+    "Z/4CDQ": {
+        "en-US": "[Security Guard Dent]\n<FONT SIZE = 14><B>Ugh~</FONT></B>\nDo you know how many times I’ve been dispatched just today to break up fights?!\nPeople keep fighting nonstop, I can’t think straight!",
+        "pt-BR": "[Guarda Dent]\n<FONT SIZE = 14><B>Aff~</FONT></B>\nSó hoje já tive que apartar brigas não sei quantas vezes!\nAs pessoas vivem brigando a qualquer hora, não dá nem tempo de respirar!",
+        "es-ES": "[Agente de seguridad Dent]\n<FONT SIZE = 14><B>¡Ay~!</FONT></B>\n¿Sabes cuántas veces he tenido que salir hoy solo para detener peleas?\n¡La gente se pelea a todas horas y aquí no damos abasto!"
+    },
+    "aP4CDQ": {
+        "en-US": "Sigh~ I wish everyone would just stop fighting…",
+        "pt-BR": "Aff~ se ao menos parassem de brigar...",
+        "es-ES": "Uf~ Ojalá dejaran ya de pelear…"
+    },
+    "af4CDQ": {
+        "en-US": "[Security Guard Dent]\nEven when we try to stop them, they don’t listen!\nThey’ve been fighting over ^E5555Eimmigrants^000000 and ^E5555Enatives^000000 for a while, but lately it’s really gotten out of hand!",
+        "pt-BR": "[Guarda Dent]\nMesmo quando tentamos separar, ninguém escuta!\nAntes já era normal brigar por causa de ^E5555Eimigrantes^000000 e ^E5555Enativos^000000, mas ultimamente está fora de controle!",
+        "es-ES": "[Agente de seguridad Dent]\n¡Y aunque intentemos detener las peleas, ni siquiera hacen caso!\nAntes ya se peleaban por si eran ^E5555Einmigrantes^000000 o ^E5555Enativos^000000, ¡pero últimamente esto ya no es normal!"
+    },
+    "av4CDQ": {
+        "en-US": "[Security Guard Dent]\nThe moment you say anything, they start yelling about ^E5555Ediscrimination^000000 against natives……\nJust thinking about it gives me a headache.",
+        "pt-BR": "[Guarda Dent]\nQualquer coisa que a gente fala já reclamam que é ^E5555Ediscriminação^000000 contra nativos...\nSó de pensar nisso já me dá dor de cabeça.",
+        "es-ES": "[Agente de seguridad Dent]\nEn cuanto dices algo, se ponen a gritar que estás ^E5555Ediscriminando^000000 a los nativos…\nDe verdad, solo de pensarlo ya me duele la cabeza."
+    },
+    "a/4CDQ": {
+        "en-US": "Just thinking about it gives me a headache.",
+        "pt-BR": "Só de pensar nisso já me dá dor de cabeça.",
+        "es-ES": "De verdad, solo de pensarlo ya me duele la cabeza."
+    },
+    "bP4CDQ": {
+        "en-US": "[Security Guard Dent]\nHow about you these days, Nil?",
+        "pt-BR": "[Guarda Dent]\nE você, como está ultimamente, Nil?",
+        "es-ES": "[Agente de seguridad Dent]\n¿Y tú qué tal lo llevas últimamente, Nil?"
+    },
+    "bf4CDQ": {
+        "en-US": "[Security Guard Dent]\nSigh~\nI wish everyone would just stop fighting…",
+        "pt-BR": "[Guarda Dent]\nAff~\nSe ao menos todos parassem de brigar...",
+        "es-ES": "[Agente de seguridad Dent]\nUf~\nOjalá dejaran ya de pelear…"
+    },
+    "bv4CDQ": {
+        "en-US": "Security Guard Nil",
+        "pt-BR": "Guarda Nil",
+        "es-ES": "Agente de seguridad Nil"
+    },
+    "b/4CDQ": {
+        "en-US": "[Security Guard Nil]\n<FONT SIZE = 14><B>Don’t even get me started!</FONT></B>\nStill, you’ve got it better than me.\nAs you know, I’m a native.",
+        "pt-BR": "[Guarda Nil]\n<FONT SIZE = 14><B>Nem me fale!</FONT></B>\nMesmo assim você está melhor que eu.\nVocê sabe que eu sou nativo.",
+        "es-ES": "[Agente de seguridad Nil]\n<FONT SIZE = 14><B>¡Ni me lo digas!</FONT></B>\nAun así, tú estás mejor que yo.\nComo ya sabes, yo soy de origen nativo."
+    },
+    "cP4CDQ": {
+        "en-US": "Don’t even get me started!",
+        "pt-BR": "Nem me fale!",
+        "es-ES": "¡Ni me lo digas!"
+    },
+    "cf4CDQ": {
+        "en-US": "[Security Guard Nil]\nBefore I even start talking, they tell me to bring another guard because I’m a native.",
+        "pt-BR": "[Guarda Nil]\nAntes mesmo de eu abrir a boca já pedem para chamar outro guarda só porque sou nativo.",
+        "es-ES": "[Agente de seguridad Nil]\nAntes incluso de que empiece a hablar, ya me dicen que llamen a otro guardia porque soy nativo."
+    },
+    "cv4CDQ": {
+        "en-US": "The discrimination is no joke!",
+        "pt-BR": "Discriminação absurda!",
+        "es-ES": "¡La discriminación es una locura!"
+    },
+    "c/4CDQ": {
+        "en-US": "[Security Guard Nil]\nI’m sick of hearing “How dare a native—do you know who I am~”\nWhat do they think the guards are!",
+        "pt-BR": "[Guarda Nil]\n“Como ousa, sendo nativo?” “Sabe com quem está falando?”... Já cansei disso.\nO que pensam que é a guarda!",
+        "es-ES": "[Agente de seguridad Nil]\nYa estoy harto, hartísimo de oír eso de “cómo te atreves siendo nativo” o “¿sabes quién soy yo?”.\n¡¿Qué se creen que es la guardia?!"
+    },
+    "dP4CDQ": {
+        "en-US": "[Security Guard Nil]\nHonestly, things have been really strange lately.\nEven people who never caused trouble before are joining fights, turning small disputes into big ones.",
+        "pt-BR": "[Guarda Nil]\nSinceramente, está tudo estranho ultimamente.\nAté pessoas que antes não causavam problemas estão entrando em brigas, e pequenas discussões viram grandes conflitos.",
+        "es-ES": "[Agente de seguridad Nil]\nSinceramente, últimamente todo está muy raro.\nHasta gente que antes no causaba este tipo de problemas ha empezado a meterse en las peleas, y cualquier riña pequeña acaba convirtiéndose en una grande."
+    },
+    "df4CDQ": {
+        "en-US": "[Security Guard Nil]\nRight!\nLately it’s been chaos everywhere.\nCome to think of it, I was at the temple yesterday.\nYou’re the priest who called me, right?\nHow’s the temple these days?",
+        "pt-BR": "[Guarda Nil]\nPois é!\nUltimamente está um caos por todo lado.\nAh, falando nisso, você esteve no Santuário ontem, não foi?\nA sacerdotisa de lá foi quem me chamou, certo?\nComo estão as coisas por lá?",
+        "es-ES": "[Agente de seguridad Nil]\n¡Sí!\nÚltimamente hay alboroto por todas partes.\nAhora que lo pienso, ayer también fui al templo.\nAquel sacerdote de allí fue quien me llamó ayer, ¿no?\n¿Cómo están las cosas últimamente en el templo?"
+    },
+    "dv4CDQ": {
+        "en-US": "[Security Guard Nil]\nAh~\nLady Niren must be very busy…",
+        "pt-BR": "[Guarda Nil]\nAh~\nA Senhorita Niren está muito ocupada...",
+        "es-ES": "[Agente de seguridad Nil]\nAh~\nLa señorita Niren está muy ocupado…"
+    },
+    "d/4CDQ": {
+        "en-US": "[High Priestess Niren]\nNil, have you perhaps seen ^E5555EMaram^000000 today?",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nNil, por acaso você viu ^E5555EMaram^000000 hoje?",
+        "es-ES": "[Suma Sacerdotisa Niren]\nNeil, ¿no habrás visto hoy a ^E5555EMaram^000000?"
+    },
+    "eP4CDQ": {
+        "en-US": "[Security Guard Nil]\nMaram?\nI think I saw him earlier near the ^E5555Eplaza^000000 on my way to the temple…",
+        "pt-BR": "[Guarda Nil]\nMaram?\nAcho que o vi perto da ^E5555Epraça^000000 enquanto vinha para o Santuário...",
+        "es-ES": "[Agente de seguridad Nil]\n¿Maram?\nCreo que antes lo vi por ^E5555Ela plaza^000000, de camino al templo…"
+    },
+    "ef4CDQ": {
+        "en-US": "[Security Guard Nil]\nI don’t know if he’s still there, but if you ^E5555Eask people at the plaza^000000, you might find out where Maram went.",
+        "pt-BR": "[Guarda Nil]\nNão sei se ainda está lá, mas talvez alguém ^E5555Ena praça^000000 saiba para onde Maram foi.",
+        "es-ES": "[Agente de seguridad Nil]\nNo sé si seguirá en la plaza, pero si ^E5555Epregunta a la gente que está allí^000000, quizá pueda averiguar adónde fue Maram."
+    },
+    "ev4CDQ": {
+        "en-US": "[High Priestess Niren]\nHmm… I see.\n{0}, the matter I asked earlier—^E5555Emy son, Maram, will assist you.^000000\nHe knows this matter better than anyone.",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nHm... entendo.\n{0}, o assunto que mencionei antes será guiado pelo ^E5555Emeu filho, Maram^000000.\nEle conhece isso melhor do que ninguém.",
+        "es-ES": "[Suma Sacerdotisa Niren]\nHm… ya veo.\n{0}, ^E5555Emi hijo Maram les ayudará^000000 con lo que les pedí antes.\nEs un chico que sabe de este asunto mejor que nadie."
+    },
+    "e/4CDQ": {
+        "en-US": "The matter I asked earlier—my son Maram will assist you.",
+        "pt-BR": "O assunto será guiado pelo meu filho, Maram.",
+        "es-ES": "Mi hijo Maram les ayudará con lo que les pedí antes."
+    },
+    "fP4CDQ": {
+        "en-US": "[High Priestess Niren]\nI would prefer to introduce you personally, but as you can see, I cannot leave right now.\nIf you ask around ^E5555Enear the plaza^000000, you should be able to find him.",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nEu gostaria de apresentá-lo pessoalmente, mas como pode ver, não posso sair daqui.\nSe perguntar às pessoas ^E5555Eperto da praça^000000, poderá encontrá-lo.",
+        "es-ES": "[Suma Sacerdotisa Niren]\nMe gustaría presentárselo personalmente, pero como puede ver ahora mismo no puedo ausentarme.\nSi pregunta a la gente ^E5555Ecerca de la plaza^000000, podrá encontrarlo."
+    },
+    "ff4CDQ": {
+        "en-US": "[High Priestess Niren]\nHmm… I see.\n{0}, the matter I asked earlier—^E5555E my son, Maram, will assist you.^000000\nHe knows this matter better than anyone.",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nHm... entendo.\n{0}, o assunto que mencionei antes será guiado por^E5555E meu filho, Maram^000000.\nEle conhece isso melhor do que ninguém.",
+        "es-ES": "[Suma Sacerdotisa Niren]\nHm… ya veo.\n{0}, ^E5555E mi hijo Maram les ayudará^000000 con lo que les pedí antes.\nEs un chico que sabe de este asunto mejor que nadie."
+    },
+    "fv4CDQ": {
+        "en-US": "[Security Guard Nil]\nUgh…\nWhere did Lady Niren go…",
+        "pt-BR": "[Guarda Nil]\nUgh...\nOnde será que a Senhorita Niren foi...",
+        "es-ES": "[Agente de seguridad Nil]\nUgh…\n¿Adónde habrá ido la señorita Niren…?"
+    },
+    "f/4CDQ": {
+        "en-US": "Freya Priest",
+        "pt-BR": "Sacerdote de Freya",
+        "es-ES": "Sacerdote de Freya"
+    },
+    "gP4CDQ": {
+        "en-US": "[Freya Priest]\nWe always pray for the sincere faith and peace of mind of the believers.",
+        "pt-BR": "[Sacerdote de Freya]\nNós sempre rezamos pela fé verdadeira e pela paz de espírito dos fiéis.",
+        "es-ES": "[Sacerdote de Freya]\nSiempre rezamos por la fe sincera y la paz interior de nuestros fieles."
+    },
+    "gf4CDQ": {
+        "en-US": "[Security Guard Nil]\nHey, not that scripted greeting~\nI saw it myself~\nAnd if it were nothing, a Priest wouldn’t be standing in line here.",
+        "pt-BR": "[Guarda Nil]\nAh, nada desses cumprimentos formais~\nEu vi com meus próprios olhos~\nAlém disso, se não fosse nada, um Sacerdote não estaria numa fila dessas.",
+        "es-ES": "[Agente de seguridad Nil]\nVenga, no me salgas con un saludo tan de manual~\n¡Que te vi yo!\nAdemás, si no fuera nada importante, Sacerdote no estaría haciendo cola aquí."
+    },
+    "gv4CDQ": {
+        "en-US": "[Security Guard Nil]\nWe need to know what people are dealing with these days so the guards can prepare a response, right?\nEspecially since we don’t know much about what’s happening with people coming to the temple.",
+        "pt-BR": "[Guarda Nil]\nPrecisamos saber como estão as coisas para poder nos preparar.\nEspecialmente sobre quem vem ao Santuário, não sabemos muito.",
+        "es-ES": "[Agente de seguridad Nil]\nLa guardia también tiene que prepararse según cómo esté la situación de la gente, ¿no crees?\nSobre todo porque tampoco sabemos bien cómo están las cosas con la gente que viene hacia el templo."
+    },
+    "g/4CDQ": {
+        "en-US": "We don’t know much about the people coming to the temple.",
+        "pt-BR": "Não sabemos muito sobre quem vem ao Santuário.",
+        "es-ES": "Tampoco sabemos bien cómo están las cosas con la gente que viene hacia el templo."
+    },
+    "hP4CDQ": {
+        "en-US": "[Security Guard Dent]\nGive us some information~",
+        "pt-BR": "[Guarda Dent]\nCompartilhe alguma informação~",
+        "es-ES": "[Agente de seguridad Dent]\nDanos algo de información~"
+    },
+    "hf4CDQ": {
+        "en-US": "Give us some information~",
+        "pt-BR": "Compartilhe alguma informação~",
+        "es-ES": "Danos algo de información~"
+    },
+    "hv4CDQ": {
+        "en-US": "[Freya Priest]\nThe temple is a place to pray for Freya.\nWith a reverent heart…",
+        "pt-BR": "[Sacerdote de Freya]\nO Santuário é um lugar de oração para Freya.\nCom devoção...",
+        "es-ES": "[Sacerdote de Freya]\nEl templo es un lugar para rezar por la señora Freyja.\nCon un corazón sereno…"
+    },
+    "h/4CDQ": {
+        "en-US": "[Security Guard Nil]\nI saw it yesterday.\n<FONT SIZE = 14>Among people pulling each other’s hair and fighting, this priest here had their mask half torn off…</FONT>",
+        "pt-BR": "[Guarda Nil]\nEu vi ontem.\n<FONT SIZE = 14>Entre pessoas puxando cabelo e brigando, esse sacerdote aqui estava com a máscara meio arrancada...</FONT>",
+        "es-ES": "[Agente de seguridad Nil]\nAyer lo vi con mis propios ojos.\n<FONT SIZE = 14>Entre toda esa gente tirándose del pelo mientras peleaban, este sacerdote estaba allí con la máscara medio quitada…</FONT>"
+    },
+    "iP4CDQ": {
+        "en-US": "[Freya Priest]\n<FONT SIZE = 16><B>Ah!!!</FONT></B>\n<FONT SIZE = 14><B>Wait!</FONT></B>\n<FONT SIZE = 14><B>That’s enough!!!</FONT></B>",
+        "pt-BR": "[Sacerdote de Freya]\n<FONT SIZE = 16><B>Ah!!!</FONT></B>\n<FONT SIZE = 14><B>Espere!</FONT></B>\n<FONT SIZE = 14><B>Já chega!!!</FONT></B>",
+        "es-ES": "[Sacerdote de Freya]\n<FONT SIZE = 16><B>¡¡¡Ah!!!</FONT></B>\n<FONT SIZE = 14><B>¡Espere un momento!</FONT></B>\n<FONT SIZE = 14><B>¡¡¡Hasta ahí!!!</FONT></B>"
+    },
+    "if4CDQ": {
+        "en-US": "Ah!!! Wait!",
+        "pt-BR": "Ah!!! Espere!",
+        "es-ES": "¡¡¡Ah!!! ¡Espere un momento!"
+    },
+    "iv4CDQ": {
+        "en-US": "[Freya Priest]\n<FONT SIZE = 10>Ugh…</FONT>",
+        "pt-BR": "[Sacerdote de Freya]\n<FONT SIZE = 10>Ugh...</FONT>",
+        "es-ES": "[Sacerdote de Freya]\n<FONT SIZE = 10>Guh…</FONT>"
+    },
+    "i/4CDQ": {
+        "en-US": "[Freya Priest]\nActually…",
+        "pt-BR": "[Sacerdote de Freya]\nNa verdade...",
+        "es-ES": "[Sacerdote de Freya]\nLa verdad es que…"
+    },
+    "jP4CDQ": {
+        "en-US": "[Freya Priest]\nIt is true that recently, more people have been causing trouble at the temple.",
+        "pt-BR": "[Sacerdote de Freya]\nÉ verdade que recentemente aumentaram muito as pessoas causando problemas no Santuário.",
+        "es-ES": "[Sacerdote de Freya]\nEs cierto que últimamente ha aumentado mucho la gente que causa problemas en el templo."
+    },
+    "jf4CDQ": {
+        "en-US": "[Freya Priest]\nMost of them can’t file formal complaints and are just venting personal frustrations, so they cause disturbances or shout at the temple entrance.",
+        "pt-BR": "[Sacerdote de Freya]\nA maioria não apresenta queixas oficiais, apenas descarrega frustrações pessoais, causando confusão na entrada ou gritando.",
+        "es-ES": "[Sacerdote de Freya]\nEn su mayoría no se trata de asuntos que puedan plantearse oficialmente, sino de personas que descargan sus frustraciones personales, así que por lo general solo montan escándalo o se ponen a gritar en la entrada del templo."
+    },
+    "jv4CDQ": {
+        "en-US": "[High Priestess Niren]\nWait…\nMay I hear more details about that?",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nEspere...\nPosso ouvir isso com mais detalhes?",
+        "es-ES": "[Suma Sacerdotisa Niren]\nUn momento…\n¿Podría escuchar esa historia con más detalle?"
+    },
+    "j/4CDQ": {
+        "en-US": "May I hear more details about that?",
+        "pt-BR": "Posso ouvir isso com mais detalhes?",
+        "es-ES": "¿Podría escuchar esa historia con más detalle?"
+    },
+    "kP4CDQ": {
+        "en-US": "[Freya Priest]\nLady Niren!!!!",
+        "pt-BR": "[Sacerdote de Freya]\nSenhorita Niren!!!!",
+        "es-ES": "[Sacerdote de Freya]\n¡¡¡¡Señorita Niren!!!!"
+    },
+    "kf4CDQ": {
+        "en-US": "Lady Niren!!!!",
+        "pt-BR": "Senhorita Niren!!!!",
+        "es-ES": "¡¡¡¡Señorita Niren!!!!"
+    },
+    "kv4CDQ": {
+        "en-US": "[Freya Priest]\nWell…\nPeople with personal grievances coming to the temple and shouting has always happened, and we calm them down and send them away,",
+        "pt-BR": "[Sacerdote de Freya]\nBem...\nPessoas com frustrações sempre vieram ao Santuário gritar, e nós as acalmávamos e mandávamos embora.",
+        "es-ES": "[Sacerdote de Freya]\nBueno…\nDesde hace tiempo ya ocurría que personas con quejas personales venían al templo a gritar, pero normalmente logramos calmarlas y hacer que se marchen,"
+    },
+    "k/4CDQ": {
+        "en-US": "[Freya Priest]\nBut recently, there have been more cases where visitors even get into physical fights…",
+        "pt-BR": "[Sacerdote de Freya]\nMas recentemente até brigas físicas entre visitantes têm acontecido...",
+        "es-ES": "[Sacerdote de Freya]\npero últimamente incluso se están produciendo peleas físicas entre quienes vienen al templo…"
+    },
+    "lP4CDQ": {
+        "en-US": "[High Priestess Niren]\nPhysical fights in a sacred temple…\nWas there no way to resolve their grievances through dialogue?",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nBrigas dentro do Santuário sagrado...\nNão havia como resolver isso com diálogo?",
+        "es-ES": "[Suma Sacerdotisa Niren]\n¿Peleas físicas en un templo sagrado…?\n¿No había forma de resolver sus quejas mediante el diálogo?"
+    },
+    "lf4CDQ": {
+        "en-US": "Good heavens…",
+        "pt-BR": "Meu Deus...",
+        "es-ES": "Dios mío…"
+    },
+    "lv4CDQ": {
+        "en-US": "[Freya Priest]\nEven when we try to mediate, some accuse us of ignoring them by calling them heretics, while others demand why we tolerate heretics for so long, making it difficult for us to resolve the situation.",
+        "pt-BR": "[Sacerdote de Freya]\nAlguns ignoram dizendo que estamos chamando-os de hereges, enquanto outros perguntam até quando toleraremos hereges.\nPara nós, não é fácil resolver.",
+        "es-ES": "[Sacerdote de Freya]\nAunque intentamos mediar entre las partes, algunos montan un escándalo diciendo que los estamos ignorando al llamarlos herejes, mientras que otros preguntan hasta cuándo vamos a dejar tranquilos a esos herejes, así que para nosotros no es una situación fácil de resolver."
+    },
+    "l/4CDQ": {
+        "en-US": "[Freya Priest]\nBut since these are such complaints, they cannot directly protest to Lady Niren and instead take it out on the temple.\nThey know how important harmony is to her.",
+        "pt-BR": "[Sacerdote de Freya]\nMas como não podem reclamar diretamente à Senhorita Niren, acabam descontando no Santuário.\nEles sabem o quanto ele valoriza a harmonia.",
+        "es-ES": "[Sacerdote de Freya]\nPero como se trata de quejas de ese tipo, parece que no pueden protestar directamente ante el Señorita Niren y descargan su frustración contra el templo.\nEllos también saben lo importante que es para el Señorita Niren la armonía."
+    },
+    "mP4CDQ": {
+        "en-US": "[High Priestess Niren]\nSigh…\nHeretics…\nIt seems our efforts to eliminate discrimination have not reached their hearts.",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nAh...\nHereges...\nParece que nossos esforços para eliminar a discriminação não alcançaram seus corações.",
+        "es-ES": "[Suma Sacerdotisa Niren]\nAh…\nHerejes…\nParece que nuestros esfuerzos por eliminar la discriminación no han llegado a sus corazones."
+    },
+    "mf4CDQ": {
+        "en-US": "Sigh…",
+        "pt-BR": "Ah...",
+        "es-ES": "Ah…"
+    },
+    "mv4CDQ": {
+        "en-US": "[High Priestess Niren]\nAnd causing fights even in the temple… this is not something we can overlook.",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nE ainda causam brigas no Santuário...\nIsso não pode ser ignorado.",
+        "es-ES": "[Suma Sacerdotisa Niren]\nAdemás, que estén provocando peleas incluso en el templo no es algo que pueda dejarse pasar tan fácilmente."
+    },
+    "m/4CDQ": {
+        "en-US": "[High Priestess Niren]\nI had heard about some level of disagreement, but I thought living together and understanding each other would resolve it naturally. Perhaps I was mistaken.",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nEu sabia de alguns conflitos, mas pensei que convivendo poderiam se entender naturalmente.\nTalvez eu estivesse errado.",
+        "es-ES": "[Suma Sacerdotisa Niren]\nYo también había oído que había ciertos choques de opinión… pero quizá estaba equivocado al pensar que, si convivían y llegaban a conocerse y comprenderse mutuamente, eso se resolvería de forma natural."
+    },
+    "nP4CDQ": {
+        "en-US": "[Freya Priest]\nEven if the hardliners have stepped back, the hearts of those who supported them cannot change all at once.",
+        "pt-BR": "[Sacerdote de Freya]\nMesmo que os radicais tenham recuado, seus apoiadores não mudam tão facilmente.",
+        "es-ES": "[Sacerdote de Freya]\nAunque los radicales se hayan retirado, los corazones de quienes los apoyaban no cambian de golpe."
+    },
+    "nf4CDQ": {
+        "en-US": "[High Priestess Niren]\nSadly, that is true.\nThe time we waited for healing has only allowed the wounds to fester.\nNow even dialogue for reconciliation will not be easy…",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nÉ triste, mas é verdade.\nO tempo que esperei pela cura só deixou a ferida piorar.\nAgora até o diálogo parece difícil...",
+        "es-ES": "[Suma Sacerdotisa Niren]\nEs triste, pero tiene razón.\nEl tiempo que dejamos pasar esperando que se curara solo acabó convirtiéndose en dejar que la herida se infectara y reventara.\nAhora hasta dialogar para reconciliarnos será difícil…"
+    },
+    "nv4CDQ": {
+        "en-US": "[High Priestess Niren]\n<FONT SIZE = 10>We need some kind of catalyst…</FONT>",
+        "pt-BR": "[Suma Sacerdotisa Niren]\n^660000Precisamos de um gatilho...^000000",
+        "es-ES": "[Suma Sacerdotisa Niren]\n<FONT SIZE = 10>Necesitaríamos algún detonante…</FONT>"
+    },
+    "n/4CDQ": {
+        "en-US": "[Security Guard Dent]\nLady Niren.\nIf you need a catalyst, how about this adventurer here?\nThey’re a complete outsider.\nWell… maybe they can at least start a conversation?",
+        "pt-BR": "[Guarda Dent]\nSenhorita Niren.\nE se esse viajante aqui fosse esse gatilho?\nÉ um completo estrangeiro.\nTalvez ao menos consiga iniciar o diálogo?",
+        "es-ES": "[Agente de seguridad Dent]\nSeñorita Niren.\nSi hace falta un detonante, ¿qué le parece este aventurero de aquí?\nEs un completo forastero.\nBueno… quizá al menos no sea imposible empezar a hablar."
+    },
+    "oP4CDQ": {
+        "en-US": "[Security Guard Dent]\nThey said they came to speak with you anyway.",
+        "pt-BR": "[Guarda Dent]\nO viajante disse que veio falar com a senhora.",
+        "es-ES": "[Agente de seguridad Dent]\nAdemás, dijo que había venido porque quería hablar con usted."
+    },
+    "of4CDQ": {
+        "en-US": "[High Priestess Niren]\nOh…!\n{0}!!!\nI was so distracted I didn’t even notice you were here.",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nAh...!\n{0}!!!\nCom tanta coisa, nem percebi que estava aqui.",
+        "es-ES": "[Suma Sacerdotisa Niren]\n¡Oh…!\n{0}!!!\nCon todo este caos ni me había dado cuenta de que {0} estaba aquí."
+    },
+    "ov4CDQ": {
+        "en-US": "Oh…!",
+        "pt-BR": "Ah...!",
+        "es-ES": "¡Oh…!"
+    },
+    "o/4CDQ": {
+        "en-US": "[High Priestess Niren]\nAs you can see, I’m extremely busy with ^E5555Einternal issues in Rachel^000000, so I apologize.\nNow, what was it you wished to tell me…?",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nComo pode ver, estou ocupada com ^E5555Eproblemas internos de Rachel^000000.\nPeço desculpas.\nEntão, o que queria me dizer...?",
+        "es-ES": "[Suma Sacerdotisa Niren]\nComo puede ver, ahora mismo estoy desbordado con ^E5555Elos problemas internos de Rachel^000000, así que lo siento mucho.\nPero ¿qué era eso que quería decirme…?"
+    },
+    "pP4CDQ": {
+        "en-US": "About the intruder.",
+        "pt-BR": "Sobre o invasor.",
+        "es-ES": "Sobre el intruso."
+    },
+    "pf4CDQ": {
+        "en-US": "[High Priestess Niren]\nAh…\n<FONT SIZE = 10>This is not something to discuss here.</FONT>\nPlease follow me.",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nAh...\n^660000Não é adequado falar disso aqui.^000000\nVenha comigo.",
+        "es-ES": "[Suma Sacerdotisa Niren]\nAh…\n<FONT SIZE = 10>Un momento, será un poco difícil hablar de eso aquí.</FONT>\nSígame por aquí."
+    },
+    "pv4CDQ": {
+        "en-US": "[Freya Priest]\nWeren’t you looking for someone? Did you not meet them?",
+        "pt-BR": "[Sacerdote de Freya]\nNão encontrou quem estava procurando?",
+        "es-ES": "[Sacerdote de Freya]\nParece que la señorita Niren le estaba buscando, ¿todavía no se ha reunido con él?"
+    },
+    "p/4CDQ": {
+        "en-US": "[High Priestess Niren]\n{0}, please follow me.",
+        "pt-BR": "[Suma Sacerdotisa Niren]\n{0}, venha por aqui.",
+        "es-ES": "[Suma Sacerdotisa Niren]\n{0}, sígame por aquí."
+    },
+    "qP4CDQ": {
+        "en-US": "Niren",
+        "pt-BR": "Niren",
+        "es-ES": "Niren"
+    },
+    "qf4CDQ": {
+        "en-US": "Rachel Resident",
+        "pt-BR": "Residente de Rachel",
+        "es-ES": "Habitante de Rachel"
+    },
+    "qv4CDQ": {
+        "en-US": "[High Priestess Niren]\nThis place should be free of listeners.\nAs this is ^E5555Ea particularly sensitive matter^000000,\nI apologize for bringing you here.",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nAqui ninguém deve ouvir.\nComo é ^E5555Eum assunto sensível^000000,\npeço desculpas por te trazer aqui.",
+        "es-ES": "[Suma Sacerdotisa Niren]\nAquí creo que no habrá nadie escuchando.\nComo se trata de ^E5555Eun asunto especialmente delicado^000000,\nlamento haber tenido que traerlo a un sitio así."
+    },
+    "q/4CDQ": {
+        "en-US": "Explain the identity of the intruder.",
+        "pt-BR": "Explique sobre o invasor.",
+        "es-ES": "Explica la identidad del intruso."
+    },
+    "rP4CDQ": {
+        "en-US": "[High Priestess Niren]\n<FONT SIZE = 14>This cannot be!!!</FONT>\nIf the ^E5555EHeart Hunters^000000 are targeting the ^E5555EFragment of Ymir’s Heart^000000, we cannot remain idle!",
+        "pt-BR": "[Suma Sacerdotisa Niren]\n<FONT SIZE = 14>Isso é impossível!!!</FONT>\nSe os ^E5555ECaça-Corações^000000 estão atrás do ^E5555EFragmento do Coração de Ymir^000000, não podemos ficar parados!",
+        "es-ES": "[Suma Sacerdotisa Niren]\n<FONT SIZE = 14>¡¡¡No puede ser!!!</FONT>\n¡Si los ^E5555EHeart Hunter^000000 van tras el ^E5555EFragmento del Corazón de Ymir^000000, no podemos quedarnos de brazos cruzados!"
+    },
+    "rf4CDQ": {
+        "en-US": "[High Priestess Niren]\nTo think they could infiltrate so easily…\nWe will immediately ^E5555Ereinforce security at the Heart Storage^000000 and ^E5555Eactively cooperate with Rebellion^000000.",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nEles conseguiram invadir tão facilmente...\nVou reforçar ^E5555Ea segurança de onde o coração está guardado^000000 imediatamente e ^E5555Ecooperar com a Rebelião^000000.",
+        "es-ES": "[Suma Sacerdotisa Niren]\nJamás imaginé que fueran a infiltrarse tan fácilmente…\nAhora mismo ^E5555Ereforzaré la vigilancia en la zona del almacén del corazón^000000 y ^E5555Ecolaboraremos activamente con Rebellion^000000."
+    },
+    "rv4CDQ": {
+        "en-US": "[High Priestess Niren]\nHowever, even if we strengthen security, the current unrest among residents makes it an ideal situation for intruders to run rampant.",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nMas mesmo reforçando a segurança, o clima instável entre os Residentes facilita a ação dos invasores.",
+        "es-ES": "[Suma Sacerdotisa Niren]\nPero por mucho que reforcemos la vigilancia en la zona del almacén del corazón, lo cierto es que el ambiente enrarecido que hay últimamente entre los habitantes crea una situación perfecta para que los intrusos hagan de las suyas."
+    },
+    "r/4CDQ": {
+        "en-US": "[High Priestess Niren]\nI will focus on strengthening security for now, so may I ask {0} to ^E5555Emediate among the residents^000000?",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nVou me concentrar nisso, então poderia ^E5555Eajudar a mediar os conflitos^000000?",
+        "es-ES": "[Suma Sacerdotisa Niren]\nYo me concentraré de momento en reforzar la seguridad, así que ¿podría pedirle a {0} que ^E5555Emedie entre los habitantes^000000?"
+    },
+    "sP4CDQ": {
+        "en-US": "[High Priestess Niren]\nNo…\nEven just listening to their concerns and conveying them would be enough.",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nNão...\nApenas ouvir e transmitir suas histórias já é suficiente.",
+        "es-ES": "[Suma Sacerdotisa Niren]\nNo…\nMás que mediar, bastará con que escuche sus historias y me las transmita."
+    },
+    "sf4CDQ": {
+        "en-US": "[High Priestess Niren]\nIn making a decision I believed would bring happiness to many, I failed to fully consider the feelings of those who did not support it.",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nTomei uma decisão acreditando que traria felicidade a muitos, mas não considerei os que discordavam.",
+        "es-ES": "[Suma Sacerdotisa Niren]\nAl tomar una decisión que pensé que haría felices a muchas personas, no supe comprender debidamente los sentimientos de quienes no apoyaban esa elección."
+    },
+    "sv4CDQ": {
+        "en-US": "[High Priestess Niren]\nI don’t expect everyone to get along overnight.\nI only wish…\nto understand what their grievances are…\nand where things went wrong, so we can begin again.",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nNão espero harmonia imediata.\nMas se soubermos...\no que os incomoda...\nonde tudo começou a dar errado...\npodemos recomeçar.",
+        "es-ES": "[Suma Sacerdotisa Niren]\nNo espero que de la noche a la mañana todos se lleven bien.\nSolo…\nsi logramos averiguar qué les descontenta…\ny desde dónde empezó a torcerse todo, creo que podremos empezar de nuevo."
+    },
+    "s/4CDQ": {
+        "en-US": "[High Priestess Niren]\nThey may not listen to anyone right now, but as Dent said, since {0} is an outsider, they might speak.",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nTalvez não escutem ninguém agora, mas como disse Dent, talvez um estrangeiro como {0} consiga.",
+        "es-ES": "[Suma Sacerdotisa Niren]\nAhora mismo parece que no van a escuchar a nadie, pero como dijo Dent, quizá si es un forastero como {0}, sí estén dispuestos a hablar…"
+    },
+    "tP4CDQ": {
+        "en-US": "[Elly]\nRelationships between people are complicated.",
+        "pt-BR": "[Elly]\nAs relações entre pessoas são complicadas.",
+        "es-ES": "[Elly]\nLas relaciones entre las personas son complicadas."
+    },
+    "tf4CDQ": {
+        "en-US": "[High Priestess Niren]\nHaha… indeed.\nShall we return to the temple entrance for now?\nThere are things I must ask the ^E5555Eguards^000000…",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nHaha... de fato.\nVamos voltar à entrada do Santuário?\nHá algo para perguntar à ^E5555Eguarda^000000.",
+        "es-ES": "[Suma Sacerdotisa Niren]\nJa, ja… así es.\nEntonces, ¿volvemos primero a la entrada del templo?\nTambién tengo algunas cosas que preguntar a los ^E5555Eguardias^000000…"
+    },
+    "tv4CDQ": {
+        "en-US": "[High Priestess Niren]\nShall we return to the temple entrance for now?\nThere are things I must ask the ^E5555Eguards^000000…",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nVamos voltar à entrada do Santuário?\nHá algo para perguntar à ^E5555Eguarda^000000.",
+        "es-ES": "[Suma Sacerdotisa Niren]\nEntonces, ¿volvemos primero a la entrada del templo?\nTambién tengo algunas cosas que preguntar a los ^E5555Eguardias^000000…"
+    },
+    "t/4CDQ": {
+        "en-US": "[High Priestess Niren]\nI’m a bit busy right now…\nI apologize.",
+        "pt-BR": "[Suma Sacerdotisa Niren]\nEstou ocupada agora...\nDesculpe.",
+        "es-ES": "[Suma Sacerdotisa Niren]\nAhora mismo estoy un poco ocupado…\nLo siento."
+    },
+    "uP4CDQ": {
+        "en-US": "Villager",
+        "pt-BR": "Residente",
+        "es-ES": "Habitante del pueblo"
+    },
+    "uf4CDQ": {
+        "en-US": "Ask if they’ve seen Maram.",
+        "pt-BR": "Perguntar sobre Maram.",
+        "es-ES": "Pregunta si ha visto a Maram."
+    },
+    "uv4CDQ": {
+        "en-US": "[Villager]\nWhat?\nI don’t know!\nWhy would I know where that guy is?",
+        "pt-BR": "[Residente]\nO quê?\nNão sei!\nComo eu saberia onde ele está?",
+        "es-ES": "[Habitante del pueblo]\n¿Qué?\n¡No lo sé!\n¿Por qué iba a saber yo dónde está un tipo así?"
+    },
+    "u/4CDQ": {
+        "en-US": "What? I don’t know!",
+        "pt-BR": "O quê? Não sei!",
+        "es-ES": "¿Qué? ¡No lo sé!"
+    },
+    "vP4CDQ": {
+        "en-US": "[Villager]\nCome to think of it, you!\nI haven’t seen you around here before…",
+        "pt-BR": "[Residente]\nAliás!\nVocê não é daqui...",
+        "es-ES": "[Habitante del pueblo]\nAhora que lo pienso, ¡tú!\nNo recuerdo haberte visto por aquí…"
+    },
+    "vf4CDQ": {
+        "en-US": "[Villager]\nWhy are you looking for him?\nYou’re not up to something suspicious, are you?",
+        "pt-BR": "[Residente]\nPor que está procurando ele?\nEstá tramando algo?",
+        "es-ES": "[Habitante del pueblo]\n¿Y por qué estás buscando a ese tipo?\n¿No estarás tramando algo raro?"
+    },
+    "vv4CDQ": {
+        "en-US": "[Elly]\nThat person isn’t very helpful.\nThey won’t tell us where Maram is. Let’s ask someone else.",
+        "pt-BR": "[Elly]\nQue pessoa rude.\nVamos perguntar a outra pessoa.",
+        "es-ES": "[Elly]\nQué persona tan antipática.\nNo parece que vaya a decirnos dónde está el señor Maram, así que preguntemos a otra persona."
+    },
+    "v/4CDQ": {
+        "en-US": "[Villager]\n…",
+        "pt-BR": "[Residente]\n...",
+        "es-ES": "[Habitante del pueblo]\n…"
+    },
+    "wP4CDQ": {
+        "en-US": "[Villager]\nI’m not sure.",
+        "pt-BR": "[Residente]\nNão sei.",
+        "es-ES": "[Habitante del pueblo]\nPues no lo sé."
+    },
+    "wf4CDQ": {
+        "en-US": "[Villager]\nBut who are you?\nWhy are you looking for Maram?",
+        "pt-BR": "[Residente]\nMas quem é você?\nPor que procura Maram?",
+        "es-ES": "[Habitante del pueblo]\nPero ¿quién es usted?\n¿Por qué busca a Maram?"
+    },
+    "wv4CDQ": {
+        "en-US": "[Villager]\nHow do you know Maram?",
+        "pt-BR": "[Residente]\nComo conhece Maram?",
+        "es-ES": "[Habitante del pueblo]\n¿Qué relación tiene con Maram?"
+    },
+    "w/4CDQ": {
+        "en-US": "Suspicious?",
+        "pt-BR": "Estranho...",
+        "es-ES": "Sospechoso…"
+    },
+    "xP4CDQ": {
+        "en-US": "[Elly]\nThis person doesn’t seem like they’ll tell us either.\nLet’s ask someone else.",
+        "pt-BR": "[Elly]\nEsse também não vai ajudar.\nVamos perguntar a outra pessoa.",
+        "es-ES": "[Elly]\nParece que esta persona tampoco nos va a decir dónde está el señor Maram.\nPreguntemos a otra."
+    },
+    "xf4CDQ": {
+        "en-US": "[Villager]\nIf you mean Maram, I think he said he had an appointment nearby.\nHe passed this way, so if you go ^E5555Eup^000000, you might find him.",
+        "pt-BR": "[Residente]\nMaram disse que tinha um encontro por aqui.\nEle passou por aqui, então talvez o encontre se você for ^E5555Epara cima^000000.",
+        "es-ES": "[Habitante del pueblo]\nSi se refiere al señor Maram, creo que dijo que tenía una cita cerca.\nComo pasó por aquí, quizá lo encuentre si ^E5555Esubes^000000."
+    },
+    "xv4CDQ": {
+        "en-US": "[Villager]\nThings have been tense in Rachel lately.\nI wonder what’s going on?",
+        "pt-BR": "[Residente]\nO clima em Rachel anda estranho.\nSerá que aconteceu algo?",
+        "es-ES": "[Habitante del pueblo]\nÚltimamente el ambiente en Rachel está muy revuelto.\n¿Habrá pasado algo?"
+    },
+    "x/4CDQ": {
+        "en-US": "Maram",
+        "pt-BR": "Maram",
+        "es-ES": "Maram"
+    },
+    "yP4CDQ": {
+        "en-US": "[Maram]\nI wonder when Miriam will arrive~",
+        "pt-BR": "[Maram]\nQuando será que Miriam chega?~",
+        "es-ES": "[Maram]\n¿Cuándo llegará Miriam~?"
+    },
+    "yf4CDQ": {
+        "en-US": "[Maram]\nHello.\nI don’t think we’ve met before—Is this your first time in Rachel?\nMay Freya’s blessing be with you, traveler.",
+        "pt-BR": "[Maram]\nOlá.\nÉ sua primeira vez em Rachel?\nQue a bênção de Freya esteja com você.",
+        "es-ES": "[Maram]\nHola.\nCreo que es la primera vez que nos vemos, ¿es su primera vez en Rachel?\nQue la bendición de Freyja acompañe al viajero."
+    },
+    "yv4CDQ": {
+        "en-US": "Deliver Niren’s message.",
+        "pt-BR": "Niren pediu para falar com você.",
+        "es-ES": "Le transmite las palabras de Niren."
+    },
+    "y/4CDQ": {
+        "en-US": "[Maram]\nAh!\nIf it’s a task entrusted by Mother, I will do my utmost to help!!!",
+        "pt-BR": "[Maram]\nAh!\nSe é algo que minha mãe pediu, farei o meu melhor para ajudar!!!",
+        "es-ES": "[Maram]\n¡Ah!\nSi es un encargo de mi madre, por supuesto haré todo lo posible por ayudar!!!"
+    },
+    "zP4CDQ": {
+        "en-US": "Leave it to me.",
+        "pt-BR": "Pode deixar.",
+        "es-ES": "Déjemelo a mí."
+    },
+    "zf4CDQ": {
+        "en-US": "[Elly]\nBut we don’t know much about the situation here. How can we mediate people?",
+        "pt-BR": "[Elly]\nMas nós não conhecemos bem a situação daqui. Como poderíamos mediar os conflitos?",
+        "es-ES": "[Elly]\nPero nosotros no conocemos bien la situación de aquí, ¿cómo vamos a mediar entre la gente?"
+    },
+    "zv4CDQ": {
+        "en-US": "[Maram]\nFrom my perspective…\nBefore mediating, I would like you to understand the situation of the natives and us, the ^E5555EGray Children^000000.",
+        "pt-BR": "[Maram]\nDo meu ponto de vista...\nAntes de mediar os conflitos, eu queria que vocês entendessem a situação dos nativos e de nós, os ^E5555EFilhos Cinzentos^000000.",
+        "es-ES": "[Maram]\nDesde mi punto de vista……\nantes de mediar entre la gente, me gustaría que entendieran la situación en la que se encuentran los nativos y nuestros ^E5555ENiños grises^000000."
+    },
+    "z/4CDQ": {
+        "en-US": "What are the Gray Children?",
+        "pt-BR": "O que são os Filhos Cinzentos?",
+        "es-ES": "¿Qué es un Niño Gris?"
+    },
+    "0P4CDQ": {
+        "en-US": "[Maram]\nRachel…\nNow it is a city with a beautiful temple, but long ago it was ^E5555Ea wasteland inhabited by natives^000000.",
+        "pt-BR": "[Maram]\nRachel...\nÉ uma cidade com um belo Santuário, mas há muito tempo era uma ^E5555Eterra desolada onde viviam os nativos^000000.",
+        "es-ES": "[Maram]\nRachel……\nahora es una ciudad con un hermoso templo, pero hace mucho tiempo era ^E5555Eun páramo donde vivían los nativos^000000."
+    },
+    "0f4CDQ": {
+        "en-US": "[Maram]\nThen one day, the ^E5555Efollowers of Freya^000000 suddenly arrived, drove out the natives, and built the temple.",
+        "pt-BR": "[Maram]\nMas um dia, de repente, os ^E5555Efiéis de Freya^000000 chegaram, expulsaram os nativos e construíram o Santuário.",
+        "es-ES": "[Maram]\nPero un día, los ^E5555Eseguidores de Freyja^000000 que llegaron de repente desplazaron a los nativos y construyeron el templo."
+    },
+    "0v4CDQ": {
+        "en-US": "[Maram]\nSome tried to live alongside the immigrants who followed the temple, but ^E5555Emany could not endure and left^000000… or ^E5555Esuffered unfortunate fates^000000.",
+        "pt-BR": "[Maram]\nHouve quem tentasse viver em harmonia junto com o povo do Santuário, mas ^E5555Emuitas pessoas não suportaram e deixaram este lugar^000000... e dizem que também houve ^E5555Epessoas que sofreram coisas terríveis^000000.",
+        "es-ES": "[Maram]\nHubo quienes intentaron convivir con los que emigraron siguiendo al templo, pero ^E5555Emuchos no pudieron soportarlo y abandonaron este lugar^000000…… y también hubo ^E5555Epersonas a las que les ocurrieron cosas terribles^000000."
+    },
+    "0/4CDQ": {
+        "en-US": "[Maram]\nIf only those events were just the past… but ^E5555Ethey continue even now^000000.\nAs a result, ^E5555Echildren who lost their homes^000000 were created, and I am one of them.",
+        "pt-BR": "[Maram]\nEu queria que tudo isso fosse apenas coisa do passado... mas ^E5555Econtinua até hoje^000000.\nComo resultado, surgiram ^E5555Ecrianças que perderam o seu lugar^000000, e eu sou uma delas.",
+        "es-ES": "[Maram]\nOjalá todo eso hubiera quedado solo en el pasado…… pero ^E5555Eha continuado hasta el día de hoy^000000.\nComo resultado, surgieron ^E5555Eniños que perdieron su hogar^000000, y yo soy uno de ellos."
+    },
+    "1P4CDQ": {
+        "en-US": "[Maram]\nMy mother, who pitied us, adopted me, and after becoming a High Priest, she led efforts to ^E5555Eplace those children in wealthy immigrant households^000000.",
+        "pt-BR": "[Maram]\nMinha mãe teve pena disso e me adotou. Depois que se tornou uma Sacerdotisa de alto escalão, ela passou a liderar a iniciativa de ^E5555Eencaminhar aquelas crianças para adoção em casas de imigrantes ricos^000000.",
+        "es-ES": "[Maram]\nMi madre, apenada por ello, me adoptó, y después de convertirse en una Sacerdote de alto rango, tomó la iniciativa para que esos niños fueran ^E5555Eadoptados por familias adineradas de inmigrantes^000000."
+    },
+    "1f4CDQ": {
+        "en-US": "[Maram]\nSome people resented that and called us ^E5555EGray Children^000000, ^E5555Ediscriminating^000000 against us, but Mother hoped we would become a bridge between immigrants and natives.",
+        "pt-BR": "[Maram]\nAs pessoas que não gostavam disso nos chamavam de ^E5555EFilhos Cinzentos^000000 e nos ^E5555Ediscriminavam^000000, mas minha mãe queria que fôssemos uma ponte entre imigrantes e nativos.",
+        "es-ES": "[Maram]\nHubo quienes, sin verlo con buenos ojos, nos llamaron ^E5555ENiños grises^000000 y nos ^E5555Ediscriminaron^000000, pero mi madre deseaba que nosotros fuéramos un puente entre inmigrantes y nativos."
+    },
+    "1v4CDQ": {
+        "en-US": "Why are they like this…",
+        "pt-BR": "Por que será que fazem isso...?",
+        "es-ES": "¿Por qué tienen que ser así…?"
+    },
+    "1/4CDQ": {
+        "en-US": "[Maram]\n<FONT SIZE = 14>Instead, we became nothing more than an alien existence that belonged nowhere.</FONT>",
+        "pt-BR": "[Maram]\nNo fim, não passamos de <FONT SIZE = 14>seres estranhos que não conseguem se misturar de verdade com lugar nenhum</FONT>.",
+        "es-ES": "[Maram]\n<FONT SIZE = 14>Pero al final no pudimos ser más que seres extraños incapaces de integrarse de verdad en ningún sitio</FONT>."
+    },
+    "2P4CDQ": {
+        "en-US": "[Maram]\nIt might be better to hear these stories ^E5555Edirectly from people^000000…",
+        "pt-BR": "[Maram]\nAcho que seria melhor ouvir esse tipo de história ^E5555Ediretamente das pessoas^000000, mas...",
+        "es-ES": "[Maram]\nAunque creo que sería mejor escuchar este tipo de historias ^E5555Edirectamente de la gente^000000……"
+    },
+    "2f4CDQ": {
+        "en-US": "[Maram]\nBut I have ^E5555Ean important appointment with a friend^000000 right now.\nMay I meet her first and explain the situation?",
+        "pt-BR": "[Maram]\nEu tenho ^E5555Eum compromisso importante com uma amiga^000000 agora. Poderiam me dar um tempo para encontrá-la e explicar a situação?",
+        "es-ES": "[Maram]\nAhora mismo ^E5555Etengo una cita importante con un amigo^000000, ¿podrían darme tiempo para verle y explicarle la situación?"
+    },
+    "2v4CDQ": {
+        "en-US": "[Maram]\nThe meeting time was…",
+        "pt-BR": "[Maram]\nEstou um pouco atrasado...",
+        "es-ES": "[Maram]\nLa hora a la que habíamos quedado……"
+    },
+    "2/4CDQ": {
+        "en-US": "[???]\nIt’s already been 5 minutes.",
+        "pt-BR": "[???]\nJá se passaram 5 minutos, sabia?",
+        "es-ES": "[???]\nYa han pasado 5 minutos, ¿sabes?"
+    },
+    "3P4CDQ": {
+        "en-US": "It’s already been 5 minutes.",
+        "pt-BR": "Já se passaram 5 minutos, sabia?",
+        "es-ES": "Ya han pasado 5 minutos, ¿sabes?"
+    },
+    "3f4CDQ": {
+        "en-US": "[Maram]\n<FONT SIZE = 14>^E5555EMiriam!^000000</FONT>\nWhen did you get here?",
+        "pt-BR": "[Maram]\n<FONT SIZE = 14>^E5555EMiriam!^000000</FONT>\nDesde quando você está aí?",
+        "es-ES": "[Maram]\n<FONT SIZE = 14>^E5555E¡Miriam!^000000</FONT>\n¿Cuándo has llegado?"
+    },
+    "3v4CDQ": {
+        "en-US": "That startled me!",
+        "pt-BR": "Que susto!",
+        "es-ES": "¡Qué susto!"
+    },
+    "3/4CDQ": {
+        "en-US": "[Miriam]\nMore importantly…",
+        "pt-BR": "[Miriam]\nMais importante que isso...",
+        "es-ES": "[Miriam]\nMás importante que eso……"
+    },
+    "4P4CDQ": {
+        "en-US": "[Maram]\nAh!\n{0}, this is my ^E5555Efriend Miriam^000000.\nMiriam, this is {0} and… Eli?\nThey came looking for me at Mother’s request.",
+        "pt-BR": "[Maram]\nAh!\n{0}, esta é minha ^E5555Eamiga Miriam^000000.\nMiriam, estes são {0} e... Elly?\nVieram me procurar a pedido da minha mãe.",
+        "es-ES": "[Maram]\n¡Ah!\n{0}, ella es ^E5555Emi amiga Miriam^000000.\nMiriam, ellos son {0} y… ¿la señorita Elly?\nHan venido a buscarme por petición de mi madre."
+    },
+    "4f4CDQ": {
+        "en-US": "[Maram]\n{0}, I’m sorry, but is it okay if I quickly buy something before we go?\nIt won’t take long, just placing an order.",
+        "pt-BR": "[Maram]\n{0}, me desculpe, mas tudo bem se eu sair só depois de comprar umas coisas?\nÉ só fazer o pedido, então não vai demorar.",
+        "es-ES": "[Maram]\n{0}, lo siento, pero ¿le importaría si compramos unas cosas y salimos después?\nSolo tengo que hacer el pedido, así que terminaremos enseguida."
+    },
+    "4v4CDQ": {
+        "en-US": "Please wait a moment.",
+        "pt-BR": "Espere só um pouco.",
+        "es-ES": "Espéreme un momento, por favor."
+    },
+    "4/4CDQ": {
+        "en-US": "[Maram]\nBuying items isn’t easy.",
+        "pt-BR": "[Maram]\nNão está sendo fácil comprar as coisas.",
+        "es-ES": "[Maram]\nNo está siendo fácil comprar las cosas."
+    },
+    "5P4CDQ": {
+        "en-US": "Ugh…",
+        "pt-BR": "Ugh...",
+        "es-ES": "Ugh…"
+    },
+    "5f4CDQ": {
+        "en-US": "[Maram]\nThe recruitment of merchants is going smoothly.",
+        "pt-BR": "[Maram]\nO recrutamento da caravana está indo bem.",
+        "es-ES": "[Maram]\nEl reclutamiento del grupo mercante va viento en popa."
+    },
+    "5v4CDQ": {
+        "en-US": "[Maram]\nAh!\n{0}, you’re here.\nIt’s not much, but I gathered some of the needed people.",
+        "pt-BR": "[Maram]\nAh!\n{0}, você chegou.\nAinda falta um pouco, mas já reuni boa parte das pessoas de que precisamos.",
+        "es-ES": "[Maram]\n¡Ah!\n{0}, ya ha llegado.\nNo es suficiente, pero he reunido a parte de la gente que necesitábamos."
+    },
+    "5/4CDQ": {
+        "en-US": "[Maram]\nOnce Miriam returns… Ah!",
+        "pt-BR": "[Maram]\nQuando Miriam voltar... ah!",
+        "es-ES": "[Maram]\nCuando vuelva Miriam…… ¡Ah!"
+    },
+    "6P4CDQ": {
+        "en-US": "Ah!",
+        "pt-BR": "Ah!",
+        "es-ES": "¡Ah!"
+    },
+    "6f4CDQ": {
+        "en-US": "[Tamarin]\nOh!\nNiren’s son!",
+        "pt-BR": "[Tamarin]\nAh!\nO filho da Senhorita Niren!",
+        "es-ES": "[Tamarin]\n¡Eh!\n¡El hijo de la señorita Niren!"
+    },
+    "6v4CDQ": {
+        "en-US": "Oh!",
+        "pt-BR": "Ah!",
+        "es-ES": "¡Eh!"
+    },
+    "6/4CDQ": {
+        "en-US": "[Maram]\nAh, you’re the ones who came to see Mother last time.\nTamarin, Mark, and Magi, right?",
+        "pt-BR": "[Maram]\nAh, vocês são as pessoas que vieram procurar minha mãe da última vez.\nVocês eram o Sr. Tamarin, o Sr. Mark e a Sra. Magi, certo?",
+        "es-ES": "[Maram]\nAh, ustedes son quienes vinieron a buscar a mi madre la otra vez.\nEran el señor Tamarin, el señor Mark y la señorita Magi, ¿verdad?"
+    },
+    "7P4CDQ": {
+        "en-US": "[Miriam]\n<FONT SIZE = 14>Maram.</FONT>",
+        "pt-BR": "[Miriam]\n<FONT SIZE = 14>Maram.</FONT>",
+        "es-ES": "[Miriam]\n<FONT SIZE = 14>Maram.</FONT>"
+    },
+    "7f4CDQ": {
+        "en-US": "[Maram]\nMiriam, you’re back?\nDid you get the clothes?",
+        "pt-BR": "[Maram]\nMiriam, você voltou?\nConseguiu as roupas?",
+        "es-ES": "[Maram]\n¿Ya has vuelto, Miriam?\n¿Has conseguido la ropa?"
+    },
+    "7v4CDQ": {
+        "en-US": "[Miriam]\nI brought something, but…\nWill this be enough?",
+        "pt-BR": "[Miriam]\nPeguei algumas coisas, mais ou menos...\nSerá que isso basta?",
+        "es-ES": "[Miriam]\nHe traído algo más o menos……\n¿Crees que con esto bastará?"
+    },
+    "7/4CDQ": {
+        "en-US": "[Maram]\n<FONT SIZE = 14>Hahahahaha!</FONT>\nThose clothes… no way…\nPerfect!",
+        "pt-BR": "[Maram]\n<FONT SIZE = 14>Hahahahaha!</FONT>\nEssas roupas, não me diga...\nEstão ótimas!",
+        "es-ES": "[Maram]\n<FONT SIZE = 14>¡Ja, ja, ja, ja, ja!</FONT>\nEsa ropa, no me digas que……\n¡Está perfecta!"
+    },
+    "8P4CDQ": {
+        "en-US": "Hahahahaha!",
+        "pt-BR": "Hahahahaha!",
+        "es-ES": "¡Ja, ja, ja, ja, ja!"
+    },
+    "8f4CDQ": {
+        "en-US": "[Maram]\nNow that we have everyone and the clothes, I’ll explain the task.",
+        "pt-BR": "[Maram]\nEntão, já reunimos as pessoas necessárias e também temos as roupas, então vou explicar o plano.",
+        "es-ES": "[Maram]\nBien, ya tenemos a toda la gente necesaria y también la ropa, así que les explicaré el plan."
+    },
+    "8v4CDQ": {
+        "en-US": "[Maram]\nWe will ^E5555Edisguise ourselves as a foreign merchant group using the clothes Miriam brought^000000 and transport goods.\nI cannot reveal the destination yet, so just follow me.",
+        "pt-BR": "[Maram]\nNós vamos ^E5555Evestir as roupas que Miriam trouxe e nos disfarçar de uma caravana estrangeira^000000 para transportar as mercadorias.\nAinda não posso dizer o destino, então basta me seguirem.",
+        "es-ES": "[Maram]\nNos pondremos ^E5555Ela ropa que trajo Miriam y fingiremos ser un grupo mercante extranjero^000000 para transportar la mercancía.\nAún no puedo decirles cuál es el destino, así que solo tienen que seguirme."
+    },
+    "8/4CDQ": {
+        "en-US": "[Maram]\n{0}, please go to the ^E5555Eshop where we bought the goods earlier^000000 and inform them we are departing soon.\nThe rest of you, change clothes with me and head to the village entrance first.",
+        "pt-BR": "[Maram]\n{0}, vá à ^E5555Eloja onde compramos as mercadorias^000000 e avise que já vamos partir.\nOs outros venham comigo trocar de roupa e aguardem primeiro na entrada da vila.",
+        "es-ES": "[Maram]\n{0}, vaya a ^E5555Ela tienda donde compramos las cosas^000000 hace un rato y avíseles de que saldremos enseguida.\nLos demás, cambiense de ropa conmigo y adelántense a la entrada del pueblo."
+    },
+    "9P4CDQ": {
+        "en-US": "[Maram]\nThanks to you, {0}, things are going quite smoothly!",
+        "pt-BR": "[Maram]\nGraças a você, {0}, parece que tudo está correndo muito bem!",
+        "es-ES": "[Maram]\n¡Parece que las cosas están saliendo bastante bien gracias a usted, {0}!"
+    },
+    "9f4CDQ": {
+        "en-US": "Miriam",
+        "pt-BR": "Miriam",
+        "es-ES": "Miriam"
+    },
+    "9v4CDQ": {
+        "en-US": "Greet.",
+        "pt-BR": "Cumprimentar.",
+        "es-ES": "Saluda."
+    },
+    "9/4CDQ": {
+        "en-US": "[Miriam]\nGreetings.\nA pleasure to meet you.\n{0}.\nI am Miriam, a friend of Maram.",
+        "pt-BR": "[Miriam]\nComo vai?\nÉ um prazer conhecer você.\n{0}.\nEu sou Miriam, amiga de Maram.",
+        "es-ES": "[Miriam]\n¿Cómo está?\nEncantada de conocerle.\n{0}.\nSoy Miriam, amiga de Maram."
+    },
+    "+P4CDQ": {
+        "en-US": "[Maram]\nBy the way, Miriam.\nSince Mother asked me to assist {0}, I may not be able to go this time.\nCan you manage on your own?",
+        "pt-BR": "[Maram]\nEntão, Miriam.\nMinha mãe pediu para eu ajudar {0}, então acho que desta vez não vou poder ir junto.\nVocê consegue ir sozinha?",
+        "es-ES": "[Maram]\nVerás, Miriam.\nMi madre me ha pedido que ayude a {0}, así que creo que esta vez no podré ir contigo.\n¿Podrás ir tú sola?"
+    },
+    "+f4CDQ": {
+        "en-US": "I’m sorry.",
+        "pt-BR": "Desculpe.",
+        "es-ES": "Lo siento."
+    },
+    "+v4CDQ": {
+        "en-US": "[Miriam]\nIf it’s Lady Niren’s order, it can’t be helped.\nBut without goods, we cannot depart.",
+        "pt-BR": "[Miriam]\nSe foi a Senhorita Niren quem pediu, não há o que fazer.\nMas sem as mercadorias, nem podemos partir.",
+        "es-ES": "[Miriam]\nSi es un encargo de la señorita Niren, no se puede evitar.\nPero sin la mercancía no podemos ni partir."
+    },
+    "+/4CDQ": {
+        "en-US": "No goods?",
+        "pt-BR": "Mas não temos as mercadorias.",
+        "es-ES": "¿Pero si no hay mercancía?"
+    },
+    "/P4CDQ": {
+        "en-US": "[Maram]\nWhat?\nYou couldn’t buy them?",
+        "pt-BR": "[Maram]\nO quê?\nNão conseguiu comprar?",
+        "es-ES": "[Maram]\n¿Qué?\n¿No lo has comprado?"
+    },
+    "/f4CDQ": {
+        "en-US": "[Miriam]\nHere, the check.",
+        "pt-BR": "[Miriam]\nAqui, o cheque.",
+        "es-ES": "[Miriam]\nToma, aquí está el cheque."
+    },
+    "/v4CDQ": {
+        "en-US": "I’ll return it.",
+        "pt-BR": "Vou devolver.",
+        "es-ES": "Te lo devuelvo."
+    },
+    "//4CDQ": {
+        "en-US": "[Maram]\nUgh…\nYou didn’t make a mistake while buying them, did you?",
+        "pt-BR": "[Maram]\nAh...\nVocê não fez nenhuma besteira ao comprar as coisas, fez?",
+        "es-ES": "[Maram]\nUgh……\nNo habrás cometido algún error al comprar las cosas, ¿verdad?"
+    },
+    "AP8CDQ": {
+        "en-US": "[Miriam]\nMe…?",
+        "pt-BR": "[Miriam]\nEu...?",
+        "es-ES": "[Miriam]\n¿Yo……?"
+    },
+    "Af8CDQ": {
+        "en-US": "What do you take me for!",
+        "pt-BR": "O que está pensando de mim?!",
+        "es-ES": "¿Por quién me tomas?"
+    },
+    "Av8CDQ": {
+        "en-US": "[Maram]\nYou usually do well, but sometimes you lose your temper…",
+        "pt-BR": "[Maram]\nÉ que às vezes você perde a cabeça do nada...",
+        "es-ES": "[Maram]\nEs que a veces, aunque lo haces bien, te exaltas de repente……"
+    },
+    "A/8CDQ": {
+        "en-US": "[Miriam]\n<FONT SIZE = 16><B>No, I don’t?</FONT></B>",
+        "pt-BR": "[Miriam]\n<FONT SIZE = 16><B>Não perco, não!</FONT></B>",
+        "es-ES": "[Miriam]\n<FONT SIZE = 16><B>¡Eso no es verdad!</FONT></B>"
+    },
+    "BP8CDQ": {
+        "en-US": "[Maram]\nSigh…\nThis is really bad…",
+        "pt-BR": "[Maram]\nHa...\nAgora estamos mesmo encrencados...",
+        "es-ES": "[Maram]\nAaah……\nEsto sí que es grave……"
+    },
+    "Bf8CDQ": {
+        "en-US": "We’re doomed!",
+        "pt-BR": "Acabou!",
+        "es-ES": "¡Estamos perdidos!"
+    },
+    "Bv8CDQ": {
+        "en-US": "[Miriam]\nCan’t we buy from those merchants from before?",
+        "pt-BR": "[Miriam]\nNão dá para comprar com aqueles mercadores de antes?",
+        "es-ES": "[Miriam]\n¿No podríamos comprárselo a esos comerciantes de la otra vez?"
+    },
+    "B/8CDQ": {
+        "en-US": "[Maram]\nHmm…\nTo trade with them, ^E5555EI would have to go myself^000000…",
+        "pt-BR": "[Maram]\nHm...\nMas para negociar com eles, ^E5555Eeu teria de ir pessoalmente^000000...",
+        "es-ES": "[Maram]\nMmm……\nPara tratar con ellos tendría que ir ^E5555Eyo mismo^000000……"
+    },
+    "CP8CDQ": {
+        "en-US": "Tamarin",
+        "pt-BR": "Tamarin",
+        "es-ES": "Tamarin"
+    },
+    "Cf8CDQ": {
+        "en-US": "Merchant",
+        "pt-BR": "Comerciante",
+        "es-ES": "Comerciante"
+    },
+    "Cv8CDQ": {
+        "en-US": "[Maram]\nHello.\nMrs. Sirin.",
+        "pt-BR": "[Maram]\nOlá.\nSra. Sirin.",
+        "es-ES": "[Maram]\nHola.\nSeñora Sirin."
+    },
+    "C/8CDQ": {
+        "en-US": "[Merchant Sirin]\n<FONT SIZE = 16><B>Why are you here!</FONT></B>\n<FONT SIZE = 14><B>I have nothing to sell to you—get out!</FONT></B>",
+        "pt-BR": "[Comerciante Sirin]\n<FONT SIZE = 16><B>O que você veio fazer aqui?!</FONT></B>\n<FONT SIZE = 14><B>Não tenho nada para vender a gente como vocês, então vá embora!</FONT></B>",
+        "es-ES": "[Comerciante Sirin]\n<FONT SIZE = 16><B>¡¿A qué has venido?!</FONT></B>\n<FONT SIZE = 14><B>¡No tengo nada que venderle a gente como vosotros, así que lárgate!</FONT></B>"
+    },
+    "DP8CDQ": {
+        "en-US": "[Maram]\nPlease don’t say that.",
+        "pt-BR": "[Maram]\nNão diga isso.",
+        "es-ES": "[Maram]\nNo diga eso."
+    },
+    "Df8CDQ": {
+        "en-US": "[Merchant Sirin]\n<FONT SIZE = 16><B>You think I’m not throwing you out by force only because of Lady Niren!</FONT></B>",
+        "pt-BR": "[Comerciante Sirin]\n<FONT SIZE = 16><B>Só não mando expulsarem vocês à força por consideração à Senhorita Niren!</FONT></B>",
+        "es-ES": "[Comerciante Sirin]\n<FONT SIZE = 16><B>¡Da gracias a que no te echo a la fuerza por respeto al señorita Niren!</FONT></B>"
+    },
+    "Dv8CDQ": {
+        "en-US": "[Miriam]\n<FONT SIZE = 14>Stop.</FONT>\nLet’s go back.",
+        "pt-BR": "[Miriam]\n<FONT SIZE = 14>Chega.</FONT>\nVamos embora.",
+        "es-ES": "[Miriam]\n<FONT SIZE = 14>Basta.</FONT>\nVámonos."
+    },
+    "D/8CDQ": {
+        "en-US": "[Miriam]\n<B>I apologize.</B>\nMrs. Sirin.",
+        "pt-BR": "[Miriam]\n<B>Peço desculpas.</B>\nSra. Sirin.",
+        "es-ES": "[Miriam]\n<B>Lo sentimos mucho.</B>\nSeñora Sirin."
+    },
+    "EP8CDQ": {
+        "en-US": "[Maram]\nBut Miriam…",
+        "pt-BR": "[Maram]\nMas Miriam...",
+        "es-ES": "[Maram]\nPero Miriam……"
+    },
+    "Ef8CDQ": {
+        "en-US": "[Miriam]\n<FONT SIZE = 14><B>Let’s go!</FONT></B>",
+        "pt-BR": "[Miriam]\n<FONT SIZE = 14><B>Vamos!</FONT></B>",
+        "es-ES": "[Miriam]\n<FONT SIZE = 14><B>¡He dicho que nos vayamos!</FONT></B>"
+    },
+    "Ev8CDQ": {
+        "en-US": "[Maram]\nI spoke confidently, yet I embarrassed myself from the start.\nShall we try ^E5555Eanother shop^000000?",
+        "pt-BR": "[Maram]\nEu falei com tanta confiança, mas já passei vergonha logo de cara.\nEntão, vamos ^E5555Ea outra loja^000000?",
+        "es-ES": "[Maram]\nHablé con mucha seguridad, pero he terminado haciendo el ridículo desde el principio.\nEntonces, ¿vamos a ^E5555Eotra tienda^000000?"
+    },
+    "E/8CDQ": {
+        "en-US": "[Merchant Sirin]\nHmm… Are you from another region?",
+        "pt-BR": "[Comerciante Sirin]\nHm... vocês vieram de outra região?",
+        "es-ES": "[Comerciante Sirin]\nHm… ¿Vienen de otra región?"
+    },
+    "FP8CDQ": {
+        "en-US": "[Maram]\nHello.\nMr. Sannat.\nIs your wife well?",
+        "pt-BR": "[Maram]\nOlá.\nSr. Sannat.\nComo vai sua esposa?",
+        "es-ES": "[Maram]\nHola.\nTío Sannat.\n¿Y su esposa también está bien?"
+    },
+    "Ff8CDQ": {
+        "en-US": "[Merchant Sannat]\nAh…\nYes…\nWhat is it?\nMaram.",
+        "pt-BR": "[Comerciante Sannat]\nAh...\nEla está bem...\nO que foi?\nMaram.",
+        "es-ES": "[Comerciante Sannat]\nAh……\nSí……\n¿Qué ocurre,\nMaram?"
+    },
+    "Fv8CDQ": {
+        "en-US": "[Merchant Sannat]\n…",
+        "pt-BR": "[Comerciante Sannat]\n...",
+        "es-ES": "[Comerciante Sannat]\n…"
+    },
+    "F/8CDQ": {
+        "en-US": "[Maram]\nI would like to purchase the items listed here.",
+        "pt-BR": "[Maram]\nQuero comprar alguns dos itens listados aqui.",
+        "es-ES": "[Maram]\nQuería comprar algunos de los artículos que figuran aquí."
+    },
+    "GP8CDQ": {
+        "en-US": "[Merchant Sannat]\nAh… well…\nI’m sorry, but I don’t have much stock right now.",
+        "pt-BR": "[Comerciante Sannat]\nAh... hum...\nDesculpe, mas meu estoque está bem baixo no momento.",
+        "es-ES": "[Comerciante Sannat]\nAh…… mm……\nLo siento, pero ahora mismo no tenemos mucho stock."
+    },
+    "Gf8CDQ": {
+        "en-US": "[Maram]\nThen please check the list, and I’ll take whatever you have in stock.",
+        "pt-BR": "[Maram]\nEntão dê uma olhada na lista, e mesmo se forem só os itens que ainda tiver em estoque, já ajuda.",
+        "es-ES": "[Maram]\nEntonces, ¿podría echarle un vistazo a la lista? Me basta con llevarme solo lo que tenga en existencia."
+    },
+    "Gv8CDQ": {
+        "en-US": "[Merchant Sannat]\nHmm…\nI’m sorry, but the items here are low in stock…",
+        "pt-BR": "[Comerciante Sannat]\nHum...\nDesculpe, mas os itens daqui estão justamente com pouco estoque...",
+        "es-ES": "[Comerciante Sannat]\nMmm……\nLo siento, pero justo de esos artículos andamos escasos……"
+    },
+    "G/8CDQ": {
+        "en-US": "[Maram]\nEven a small amount is fine.",
+        "pt-BR": "[Maram]\nNão tem problema mesmo que falte um pouco.",
+        "es-ES": "[Maram]\nEntonces no importa aunque no haya suficiente."
+    },
+    "HP8CDQ": {
+        "en-US": "[Merchant Sannat]\nI’m sorry…",
+        "pt-BR": "[Comerciante Sannat]\nSinto muito...",
+        "es-ES": "[Comerciante Sannat]\nLo siento……"
+    },
+    "Hf8CDQ": {
+        "en-US": "[Maram]\nThen bread and meat…",
+        "pt-BR": "[Maram]\nEntão pão e carne...",
+        "es-ES": "[Maram]\nEntonces, ¿pan y carne……?"
+    },
+    "Hv8CDQ": {
+        "en-US": "[Merchant Sannat]\nAh…\n<FONT SIZE = 10>Those are already reserved…</FONT>",
+        "pt-BR": "[Comerciante Sannat]\nAh...\n^660000Isso também já foi reservado...^000000",
+        "es-ES": "[Comerciante Sannat]\nAh……\n<FONT SIZE = 10>Eso también está ya reservado……</FONT>"
+    },
+    "H/8CDQ": {
+        "en-US": "[Maram]\n…",
+        "pt-BR": "[Maram]\n...",
+        "es-ES": "[Maram]\n…"
+    },
+    "IP8CDQ": {
+        "en-US": "[Maram]\nI see… I’m sorry.\nThen next time…",
+        "pt-BR": "[Maram]\nSim... me desculpe.\nEntão, numa próxima vez...",
+        "es-ES": "[Maram]\nSí…… lo siento.\nEntonces, la próxima vez……"
+    },
+    "If8CDQ": {
+        "en-US": "[Merchant Sannat]\n<FONT SIZE = 10>Yes…</FONT>",
+        "pt-BR": "[Comerciante Sannat]\n^660000Está bem...^000000",
+        "es-ES": "[Comerciante Sannat]\n<FONT SIZE = 10>Sí……</FONT>"
+    },
+    "Iv8CDQ": {
+        "en-US": "[Merchant Sannat]\nI’m sorry.\nI have nothing to sell right now.",
+        "pt-BR": "[Comerciante Sannat]\nPeço desculpas.\nNo momento, não tenho nada que possa vender.",
+        "es-ES": "[Comerciante Sannat]\nLo siento.\nAhora mismo no tengo mercancía que pueda vender."
+    },
+    "I/8CDQ": {
+        "en-US": "[Merchant Sannat]\nTry another shop in that direction.",
+        "pt-BR": "[Comerciante Sannat]\nSe for outra loja, tente por este lado.",
+        "es-ES": "[Comerciante Sannat]\nSi quiere probar en otra tienda, vaya por aquí."
+    },
+    "JP8CDQ": {
+        "en-US": "[Miriam]\nSigh…",
+        "pt-BR": "[Miriam]\nHaaaaa...",
+        "es-ES": "[Miriam]\nHaaaa……"
+    },
+    "Jf8CDQ": {
+        "en-US": "What is this!",
+        "pt-BR": "Mas o que é isso?!",
+        "es-ES": "¡¿Qué es esto?!"
+    },
+    "Jv8CDQ": {
+        "en-US": "Calm down, Miriam.",
+        "pt-BR": "Acalme-se, Miriam.",
+        "es-ES": "Cálmate, Miriam."
+    },
+    "J/8CDQ": {
+        "en-US": "[Miriam]\nBefore confessing my disgraceful behavior, I must first apologize.\nI am sorry.",
+        "pt-BR": "[Miriam]\nAntes de confessar meu comportamento vergonhoso, peço desculpas primeiro.\nSinto muito.",
+        "es-ES": "[Miriam]\nAntes de confesar mi comportamiento vergonzoso, permítame disculparme primero.\nLo siento."
+    },
+    "KP8CDQ": {
+        "en-US": "[Maram]\n???",
+        "pt-BR": "[Maram]\n???",
+        "es-ES": "[Maram]\n???"
+    },
+    "Kf8CDQ": {
+        "en-US": "[Miriam]\nI know it was improper, but I overheard part of your conversation with {0} earlier.",
+        "pt-BR": "[Miriam]\nSei que não foi educado, mas a verdade é que acabei ouvindo um pouco da conversa entre {0} e Maram.",
+        "es-ES": "[Miriam]\nSé que fue una falta de respeto, pero la verdad es que antes acabé escuchando un poco a escondidas la conversación que {0} estaba teniendo con Maram."
+    },
+    "Kv8CDQ": {
+        "en-US": "[Miriam]\nI do not know how much Lady Niren and {0} understand about the ^E5555Econflict among Rachel residents^000000, but I believe what you saw has made it clear.",
+        "pt-BR": "[Miriam]\nNão sei até que ponto a Senhorita Niren e {0} acham que ^E5555Eo conflito entre os Residentes de Rachel^000000 chegou, mas acredito que agora tenham certeza pelo que acabaram de ver.",
+        "es-ES": "[Miriam]\nNo sé hasta qué punto la señorita Niren y {0} creen que han llegado ^E5555Elos conflictos entre los habitantes de Rachel^000000, pero creo que con lo que acaban de ver ya habrá quedado claro."
+    },
+    "K/8CDQ": {
+        "en-US": "[Miriam]\nThat they are saying they have nothing to sell to the ^E5555EGray Children^000000…",
+        "pt-BR": "[Miriam]\nQue estão dizendo que não têm mercadoria alguma para vender aos ^E5555EFilhos Cinzentos^000000...",
+        "es-ES": "[Miriam]\nQue están diciendo que no tienen ninguna mercancía que venderle a ^E5555ENiños grises^000000……"
+    },
+    "LP8CDQ": {
+        "en-US": "[Maram]\nMiriam, not that far…",
+        "pt-BR": "[Maram]\nMiriam, não precisa ir tão longe...",
+        "es-ES": "[Maram]\nMiriam, tampoco hace falta llegar tan lejos……"
+    },
+    "Lf8CDQ": {
+        "en-US": "[Miriam]\n<FONT SIZE = 14>Maram, this is reality.</FONT>\n<FONT SIZE = 14>You know that well.</FONT>",
+        "pt-BR": "[Miriam]\n<FONT SIZE = 14>Maram, esta é a realidade.</FONT>\n<FONT SIZE = 14>Você sabe muito bem disso.</FONT>",
+        "es-ES": "[Miriam]\n<FONT SIZE = 14>Maram, esta es la realidad.</FONT>\n<FONT SIZE = 14>Tú también lo sabes bien.</FONT>"
+    },
+    "Lv8CDQ": {
+        "en-US": "This is reality.",
+        "pt-BR": "Esta é a realidade.",
+        "es-ES": "Esta es la realidad."
+    },
+    "L/8CDQ": {
+        "en-US": "[Maram]\nMiriam…",
+        "pt-BR": "[Maram]\nMiriam...",
+        "es-ES": "[Maram]\nMiriam……"
+    },
+    "MP8CDQ": {
+        "en-US": "[Miriam]\n…",
+        "pt-BR": "[Miriam]\n...",
+        "es-ES": "[Miriam]\n…"
+    },
+    "Mf8CDQ": {
+        "en-US": "[Maram]\n<FONT SIZE = 10>You’re right.</FONT>\nMrs. Sirin and Mr. Sannat used to sell to us until recently, but now even they refuse.",
+        "pt-BR": "[Maram]\n^660000Sim, você está certa.^000000\nSirin e Sannat ^E5555Eaté pouco tempo atrás ainda nos vendiam mercadorias^000000...\nMas agora até eles estão tentando deixar de vender para nós.",
+        "es-ES": "[Maram]\n<FONT SIZE = 10>Sí, tienes razón.</FONT>\nHasta hace poco, tanto la señora Sirin como el tío Sannat ^E5555Esí nos vendían mercancías^000000……\npero ahora incluso ellos intentan no vendernos nada."
+    },
+    "Mv8CDQ": {
+        "en-US": "You’re right.",
+        "pt-BR": "Você está certa.",
+        "es-ES": "Tienes razón."
+    },
+    "M/8CDQ": {
+        "en-US": "[Maram]\n<FONT SIZE = 16><B>Yes!!!</FONT></B>\n<FONT SIZE = 16><B>That’s right!!!</FONT></B>\n<FONT SIZE = 14><B>It might be easier if I just accept it!!!</FONT></B>",
+        "pt-BR": "[Maram]\n<FONT SIZE = 16><B>É!!!</FONT></B>\n<FONT SIZE = 16><B>É isso mesmo!!!</FONT></B>\n<FONT SIZE = 14><B>Talvez seja mais fácil simplesmente aceitar de uma vez!!!</FONT></B>",
+        "es-ES": "[Maram]\n<FONT SIZE = 16><B>¡¡¡Sí!!!</FONT></B>\n<FONT SIZE = 16><B>¡¡¡Es verdad!!!</FONT></B>\n<FONT SIZE = 14><B>¡¡¡Casi que sería un alivio aceptar la realidad de una vez!!!</FONT></B>"
+    },
+    "NP8CDQ": {
+        "en-US": "Damn it!",
+        "pt-BR": "Droga!",
+        "es-ES": "¡Bah!"
+    },
+    "Nf8CDQ": {
+        "en-US": "[Maram]\nSince it’s come to this, instead of worrying, let’s think about how to get the goods!",
+        "pt-BR": "[Maram]\nJá que chegamos a esse ponto, em vez de continuar sofrendo com isso, vamos pensar em como conseguir comprar as mercadorias!",
+        "es-ES": "[Maram]\nEn cualquier caso, ya que hemos llegado a esto, en vez de seguir lamentándonos, ¡mejor pensemos cómo podemos conseguir la mercancía!"
+    },
+    "Nv8CDQ": {
+        "en-US": "[Maram]\nThis is really bad.\nWe need to secure the goods somehow.",
+        "pt-BR": "[Maram]\nFalando nisso, isso é realmente grave.\nPrecisamos arranjar as mercadorias o quanto antes.",
+        "es-ES": "[Maram]\nEn fin, esto sí que es grave.\nTenemos que conseguir la mercancía como sea, y rápido."
+    },
+    "N/8CDQ": {
+        "en-US": "[Maram]\nIt’ll be tough, but maybe we should buy from another city~\nBut with Rachel’s situation and <FONT SIZE = 10>Mother’s task</FONT>, it’s difficult to leave…",
+        "pt-BR": "[Maram]\nVai dar trabalho, mas será melhor comprar em outra cidade?\nMas com a situação de Rachel e ^FF0000a missão que minha mãe me deu^000000, fica difícil ir até outra cidade...",
+        "es-ES": "[Maram]\nAunque sería un fastidio, quizá sería mejor ir a comprarla a otra ciudad~\nPero con la situación de Rachel y <FONT SIZE = 10>el encargo que me hizo mi madre</FONT>, sería difícil ir hasta otra ciudad……"
+    },
+    "OP8CDQ": {
+        "en-US": "[Maram]\nIf only ^E5555Ea foreign trading company^000000 like Gina would come at a time like this.\n<FONT SIZE = 10>Foreign…</FONT>",
+        "pt-BR": "[Maram]\nNuma hora dessas, seria ótimo se ^E5555Euma caravana comercial estrangeira^000000 com a Gina pudesse vir até aqui.\n<FONT SIZE = 10>Estrangeira...</FONT>",
+        "es-ES": "[Maram]\nOjalá en un momento así apareciera aunque fuera ^E5555Euna compañía mercante extranjera^000000 Gina.\n<FONT SIZE = 10>Extranjera……</FONT>"
+    },
+    "Of8CDQ": {
+        "en-US": "[Maram]\n<FONT SIZE = 16><B>!!!</FONT></B>",
+        "pt-BR": "[Maram]\n<FONT SIZE = 16><B>!!!</FONT></B>",
+        "es-ES": "[Maram]\n<FONT SIZE = 16><B>!!!</FONT></B>"
+    },
+    "Ov8CDQ": {
+        "en-US": "[Maram]\n<FONT SIZE = 16><B>Ah!!!!</FONT></B>\n<FONT SIZE = 16><B>That’s it!!!!</FONT></B>\n<FONT SIZE = 14><B>{0}!!!!</FONT></B>",
+        "pt-BR": "[Maram]\n<FONT SIZE = 16><B>Ah!!!!</FONT></B>\n<FONT SIZE = 16><B>É isso!!!!</FONT></B>\n<FONT SIZE = 14><B>{0}!!!!</FONT></B>",
+        "es-ES": "[Maram]\n<FONT SIZE = 16><B>¡¡¡¡Ah!!!!</FONT></B>\n<FONT SIZE = 16><B>¡¡¡¡Eso es!!!!</FONT></B>\n<FONT SIZE = 14><B>¡¡¡¡{0}!!!!</FONT></B>"
+    },
+    "O/8CDQ": {
+        "en-US": "Ah!!!! That’s it!!!!",
+        "pt-BR": "Ah!!!! É isso!!!!",
+        "es-ES": "¡¡¡¡Ah!!!! ¡¡¡¡Eso es!!!!"
+    },
+    "PP8CDQ": {
+        "en-US": "[Maram]\n<FONT SIZE = 14>I have a request!</FONT>\nCould you ^E5555Ehelp me buy goods in secret from Mother^000000?",
+        "pt-BR": "[Maram]\n<FONT SIZE = 14>Tenho um pedido!</FONT>\nVocê poderia ^E5555Eme ajudar a comprar as mercadorias em segredo da minha mãe^000000?",
+        "es-ES": "[Maram]\n<FONT SIZE = 14>¡Tengo un favor que pedirle!</FONT>\n¿Podría ^E5555Eayudarme a comprar la mercancía sin que mi madre lo sepa^000000?"
+    },
+    "Pf8CDQ": {
+        "en-US": "[Maram]\nIf I’m with you, {0}, an ^E5555Eoutsider^000000, we might be able to buy them!",
+        "pt-BR": "[Maram]\nSe eu estiver com {0}, que é ^E5555Ede fora do país^000000, talvez consigamos comprar as mercadorias!",
+        "es-ES": "[Maram]\n¡Si voy con {0}, que es ^E5555Eforastero^000000, quizá podamos comprarla!"
+    },
+    "Pv8CDQ": {
+        "en-US": "Reason for buying goods",
+        "pt-BR": "E qual o motivo para comprar mercadorias?",
+        "es-ES": "La razón por la que hay que comprar la mercancía"
+    },
+    "P/8CDQ": {
+        "en-US": "[Maram]\nAh~\nThat is…",
+        "pt-BR": "[Maram]\nAh~\nÉ que...",
+        "es-ES": "[Maram]\nAh~\nEso es……"
+    },
+    "QP8CDQ": {
+        "en-US": "[Miriam]\nHow long do you plan to hide it?\nIf you ask for help without giving a reason, of course they would refuse.",
+        "pt-BR": "[Miriam]\nAté quando pretende esconder isso?\nSe alguém ouve um pedido desses sem saber o motivo, é natural recusar.",
+        "es-ES": "[Miriam]\n¿Hasta cuándo piensas seguir ocultándolo?\nSi le pides algo así sin decirle el motivo, es normal que se niegue."
+    },
+    "Qf8CDQ": {
+        "en-US": "[Maram]\nYou’re right.\nOkay.",
+        "pt-BR": "[Maram]\nÉ.\nTem razão.",
+        "es-ES": "[Maram]\nSí.\nEntiendo."
+    },
+    "Qv8CDQ": {
+        "en-US": "[Maram]\n{0},\nIn truth, Miriam and I ^E5555Ehelp natives who have fled to other regions and struggle to survive^000000.\nOne of those tasks is ^E5555Esupplying essential goods^000000.",
+        "pt-BR": "[Maram]\n{0},\nna verdade, Miriam e eu ^E5555Eajudamos nativos que fugiram para outras regiões e vivem com dificuldades^000000.\nParte disso é ^E5555Econseguir os suprimentos de que precisam para sobreviver^000000.",
+        "es-ES": "[Maram]\n{0},\nla verdad es que Miriam y yo ^E5555Eestamos ayudando a los nativos que se marcharon a otras regiones y están sobreviviendo a duras penas^000000.\n^E5555EConseguir los suministros necesarios para vivir^000000 también forma parte de eso."
+    },
+    "Q/8CDQ": {
+        "en-US": "[Maram]\nThey call it ^E5555Ediscrimination and persecution^000000, but in truth they ^E5555Efled from hardliners and fanatics^000000.\nThe only way those ^E5555Erefugees^000000 could survive was to ^E5555Ehide^000000.",
+        "pt-BR": "[Maram]\nChamam isso de ^E5555Ediscriminação e perseguição^000000, mas na verdade não é muito diferente de ^E5555Efugir dos radicais e fanáticos^000000.\nE a única maneira para esses ^E5555Efugitivos^000000 sobreviverem era ^E5555Ese escondendo^000000.",
+        "es-ES": "[Maram]\nSe habla de ^E5555Ediscriminación y persecución^000000, pero en realidad es prácticamente lo mismo que ^E5555Ehuir de los radicales y los fanáticos^000000.\nLa única forma que tenían de sobrevivir esos ^E5555Efugitivos^000000 era ^E5555Eesconderse^000000."
+    },
+    "RP8CDQ": {
+        "en-US": "[Maram]\nLiving in hiding… it would be fine if they could somehow survive without our help—even if not sufficiently—but that is not the case.",
+        "pt-BR": "[Maram]\nViver escondido... seria bom se eles conseguissem ao menos... ^FF00FFdar um jeito de sobreviver^000000, mas não é assim.",
+        "es-ES": "[Maram]\nVivir escondidos…… ojalá pudieran, sin nuestra ayuda, vivir aunque fuera lo justo……<FONT SIZE = 10>no, aunque no fuera suficiente</FONT> arreglárselas de algún modo, pero no es así."
+    },
+    "Rf8CDQ": {
+        "en-US": "It would be fine if they could somehow survive…",
+        "pt-BR": "Seria bom se ao menos conseguissem sobreviver...",
+        "es-ES": "Ojalá pudieran arreglárselas de algún modo aunque no fuera suficiente…"
+    },
+    "Rv8CDQ": {
+        "en-US": "[Miriam]\nI also ask for your help.\n<FONT SIZE = 14>I do not want children exhausted by hunger to walk the same path as I did…</FONT> <FONT SIZE = 10>to suffer as I did</FONT>.",
+        "pt-BR": "[Miriam]\nEu também peço ajuda.\n<FONT SIZE = 14>Não quero que crianças mortas de fome acabem seguindo o mesmo caminho que eu...</FONT> ^660000nem que passem pela mesma dor que eu^000000.",
+        "es-ES": "[Miriam]\nYo también se lo suplico.\n<FONT SIZE = 14>No quiero que esos niños, agotados por el hambre, terminen recorriendo el mismo camino que yo……</FONT> <FONT SIZE = 10>ni sufran el mismo dolor</FONT> que sufrí yo."
+    },
+    "R/8CDQ": {
+        "en-US": "I do not want them to suffer as I did.",
+        "pt-BR": "Não quero que aquelas crianças passem pela mesma dor que eu.",
+        "es-ES": "No quiero que esos niños sufran el mismo dolor que yo."
+    },
+    "SP8CDQ": {
+        "en-US": "Help.",
+        "pt-BR": "Ajudar.",
+        "es-ES": "Ayudar."
+    },
+    "Sf8CDQ": {
+        "en-US": "Do not help.",
+        "pt-BR": "Não ajudar.",
+        "es-ES": "No ayudar."
+    },
+    "Sv8CDQ": {
+        "en-US": "Report to Niren.",
+        "pt-BR": "Contar à Niren.",
+        "es-ES": "Informárselo a Niren."
+    },
+    "S/8CDQ": {
+        "en-US": "[Maram]\n<FONT SIZE = 14><B>Thank you!</FONT></B>\n<FONT SIZE = 14><B>Then let’s go right away!</FONT></B>\nIt would be strange to return to the same shop, so ^E5555Ethe shop across the plaza^000000 would be best.",
+        "pt-BR": "[Maram]\n<FONT SIZE = 14><B>Obrigado!</FONT></B>\n<FONT SIZE = 14><B>Então vamos agora mesmo!</FONT></B>\nSeria estranho voltar aos mesmos comerciantes de antes, então é melhor procurarmos ^E5555Eoutro comerciante na praça^000000.",
+        "es-ES": "[Maram]\n<FONT SIZE = 14><B>¡Muchas gracias!</FONT></B>\n<FONT SIZE = 14><B>¡Entonces vayamos ahora mismo!</FONT></B>\nSería un poco raro volver a la tienda de antes, así que será mejor ir a ^E5555Ela tienda que está al otro lado de la plaza^000000."
+    },
+    "TP8CDQ": {
+        "en-US": "Thank you!",
+        "pt-BR": "Obrigado!",
+        "es-ES": "¡Muchas gracias!"
+    },
+    "Tf8CDQ": {
+        "en-US": "[Maram]\nPerhaps it was too much to ask.\nThen could you wait a moment?\nI need to talk with Miriam.",
+        "pt-BR": "[Maram]\nParece que foi um pedido difícil.\nEntão pode esperar só um instante?\nTenho algo para conversar com Miriam.",
+        "es-ES": "[Maram]\nAl final sí que debió de ser una petición demasiado atrevida.\nEntonces, ¿podría esperar un momento?\nTengo algo que hablar con Miriam."
+    },
+    "Tv8CDQ": {
+        "en-US": "[Miriam]\n<FONT SIZE = 16><B>No!</FONT></B>\n<FONT SIZE = 16><B>That’s not right at all!</FONT></B>",
+        "pt-BR": "[Miriam]\n<FONT SIZE = 16><B>Não!</FONT></B>\n<FONT SIZE = 16><B>Mesmo assim, isso já é demais!</FONT></B>",
+        "es-ES": "[Miriam]\n<FONT SIZE = 16><B>¡No!</FONT></B>\n<FONT SIZE = 16><B>¡Por mucho que sea así, eso no puede ser!</FONT></B>"
+    },
+    "T/8CDQ": {
+        "en-US": "That’s not right at all!",
+        "pt-BR": "Mesmo assim, isso já é demais!",
+        "es-ES": "¡Por mucho que sea así, eso no puede ser!"
+    },
+    "UP8CDQ": {
+        "en-US": "[Maram]\nHello~\nMs. Rensia~",
+        "pt-BR": "[Maram]\nOlá~\nSr. Rensia~",
+        "es-ES": "[Maram]\nHola~\nSeñora Lensia~"
+    },
+    "Uf8CDQ": {
+        "en-US": "[Merchant Rensia]\nWhat?\nI won’t sell to you…",
+        "pt-BR": "[Comerciante Rensia]\nO quê?\nEu não vou vender nada para você...",
+        "es-ES": "[Comerciante Rensia]\nQué pasa.\nA ti no te……"
+    },
+    "Uv8CDQ": {
+        "en-US": "[Maram]\nNot me—<FONT SIZE = 14><B>this merchant here</FONT></B> will be purchasing.",
+        "pt-BR": "[Maram]\nNão é para mim. Na verdade, <FONT SIZE = 14><B>é este comerciante aqui</FONT></B> que vai comprar.",
+        "es-ES": "[Maram]\nNo voy a comprar yo, sino <FONT SIZE = 14><B>este comerciante de aquí</FONT></B>."
+    },
+    "U/8CDQ": {
+        "en-US": "[Merchant Rensia]\nHmm…\n<FONT SIZE = 10>They don’t look like a merchant?</FONT>",
+        "pt-BR": "[Comerciante Rensia]\nHmm...\n<FONT SIZE = 10>Mas ele não parece um comerciante, não?</FONT>",
+        "es-ES": "[Comerciante Rensia]\nMmm……\n<FONT SIZE = 10>No parece un comerciante, precisamente.</FONT>"
+    },
+    "VP8CDQ": {
+        "en-US": "[Maram]\nThis is Pam{0}sam, who runs ^E5555Ea small trading group in Maroll^000000.\nSince they travel for trade, they pass through dangerous areas and must be armed~",
+        "pt-BR": "[Maram]\nSe chama ^FF00FFZé {0}nildo da Silva^000000, que administra ^B3DFFBuma pequena companhia mercantil em Maroll^000000.\nComo vive viajando de um lado para outro fazendo comércio, passa com frequência por áreas perigosas, então anda com escolta armada~",
+        "es-ES": "[Maram]\nEsta persona es el señor Pam{0}sam, ^E5555Eque dirige una pequeña compañía mercante en Maroll^000000.\nComo se dedica a comerciar viajando de un lado a otro y a menudo tiene que pasar por zonas peligrosas, va armado~"
+    },
+    "Vf8CDQ": {
+        "en-US": "[Merchant Rensia]\nMaroll… sounds familiar…",
+        "pt-BR": "[Comerciante Rensia]\nMaroll...? acho que já ouvi falar...",
+        "es-ES": "[Comerciante Rensia]\nMaroll… creo que me suena……"
+    },
+    "Vv8CDQ": {
+        "en-US": "[Maram]\nIt would be trouble if they encountered a <FONT SIZE = 14>monster</FONT> on the road~",
+        "pt-BR": "[Maram]\nSeria terrível encontrar <FONT SIZE = 14>monstros</FONT> pelo caminho, não é?~",
+        "es-ES": "[Maram]\n¡Si se encontrara con algún <FONT SIZE = 14>monstruo</FONT> por el camino, sería un problema~!"
+    },
+    "V/8CDQ": {
+        "en-US": "[Merchant Rensia]\n<FONT SIZE = 10>That’s true.</FONT>",
+        "pt-BR": "[Comerciante Rensia]\n<FONT SIZE = 10>VERDADE.</FONT>",
+        "es-ES": "[Comerciante Rensia]\n<FONT SIZE = 10>Eso es cierto.</FONT>"
+    },
+    "WP8CDQ": {
+        "en-US": "[Maram]\n<FONT SIZE = 16><B>Now!</FONT></B>\n<FONT SIZE = 14><B>Here is the list of goods!</FONT></B>",
+        "pt-BR": "[Maram]\n<FONT SIZE = 16><B>Aqui!</FONT></B>\n<FONT SIZE = 14><B>Esta é a lista de mercadorias!</FONT></B>",
+        "es-ES": "[Maram]\n<FONT SIZE = 16><B>¡Bien!</FONT></B>\n<FONT SIZE = 14><B>¡Aquí tiene la lista de mercancías!</FONT></B>"
+    },
+    "Wf8CDQ": {
+        "en-US": "[Merchant Rensia]\nYou’re saying you’ll purchase all this quantity by yourself?",
+        "pt-BR": "[Comerciante Rensia]\nVai comprar tudo isso?",
+        "es-ES": "[Comerciante Rensia]\n¿Dice que ha venido usted solo a comprar tanta cantidad?"
+    },
+    "Wv8CDQ": {
+        "en-US": "[Maram]\n<FONT SIZE = 16><B>Of-course-</FONT></B> The others from the merchant group are waiting elsewhere.\n<FONT SIZE = 14><B>Right?</FONT></B>",
+        "pt-BR": "[Maram]\n<FONT SIZE = 16><B>Cla-ro</FONT></B>, os outros membros da caravana estão esperando em outro lugar.\n<FONT SIZE = 14><B>Né?</FONT></B>",
+        "es-ES": "[Maram]\n<FONT SIZE = 16><B>Pues-cla-ro-que-</FONT></B> los demás miembros de la compañía están esperando en otro sitio.\n<FONT SIZE = 14><B>¿Verdad?</FONT></B>"
+    },
+    "W/8CDQ": {
+        "en-US": "Say they are at the tavern.",
+        "pt-BR": "Dizer que estão na taverna.",
+        "es-ES": "Dice que están en la taberna."
+    },
+    "XP8CDQ": {
+        "en-US": "Say they are at the inn.",
+        "pt-BR": "Dizer que estão na estalagem.",
+        "es-ES": "Dice que están en la posada."
+    },
+    "Xf8CDQ": {
+        "en-US": "Say they are at the temple.",
+        "pt-BR": "Dizer que estão no Santuário.",
+        "es-ES": "Dice que están en el templo."
+    },
+    "Xv8CDQ": {
+        "en-US": "[Merchant Rensia]\nHmm, I did hear there have been occasional outsiders lately…",
+        "pt-BR": "[Comerciante Rensia]\nHmm, ouvi dizer que ultimamente alguns estrangeiros têm aparecido por aqui, mas...",
+        "es-ES": "[Comerciante Rensia]\nMmm, últimamente he oído decir que a veces se ve a forasteros por aquí……"
+    },
+    "X/8CDQ": {
+        "en-US": "[Merchant Rensia]\nBut I don’t think I heard anything about a group of customers like that arriving…",
+        "pt-BR": "[Comerciante Rensia]\nNão me lembro de ter ouvido que um grupo desses chegou...",
+        "es-ES": "[Comerciante Rensia]\nPero no creo haber oído nada de que haya llegado un grupo así……"
+    },
+    "YP8CDQ": {
+        "en-US": "[Merchant Rensia]\nFor an outsider, you’ve got good sense!",
+        "pt-BR": "[Comerciante Rensia]\nPara um estrangeiro, você até que tem bom senso!",
+        "es-ES": "[Comerciante Rensia]\n¡Para ser forastero, tiene usted buen ojo!"
+    },
+    "Yf8CDQ": {
+        "en-US": "[Merchant Rensia]\nAnyway, it doesn’t look like you brought a cart, so if you tell me when you plan to leave ^E5555EI’ll have it delivered to the village entrance^000000.",
+        "pt-BR": "[Comerciante Rensia]\nDe qualquer forma, como parece que vocês não trouxeram uma carroça, ^E5555Eentregaremos as mercadorias na entrada da cidade^000000 se nos informarem a hora em que vão partir.",
+        "es-ES": "[Comerciante Rensia]\nEn cualquier caso, como no parece que haya traído un carro para la carga, si me dice a qué hora ^E5555Esaldrán del pueblo, se la enviaré a la entrada del pueblo^000000."
+    },
+    "Yv8CDQ": {
+        "en-US": "[Maram]\nYou really don’t have to go that far…",
+        "pt-BR": "[Maram]\nNão precisa ir tão longe...",
+        "es-ES": "[Maram]\nNo hace falta que haga tanto……"
+    },
+    "Y/8CDQ": {
+        "en-US": "[Merchant Rensia]\nHm?\nWhy not?",
+        "pt-BR": "[Comerciante Rensia]\nHm?\nPor quê?",
+        "es-ES": "[Comerciante Rensia]\n¿Mm?\n¿Por qué?"
+    },
+    "ZP8CDQ": {
+        "en-US": "[Maram]\nWe haven’t even decided when we’re leaving yet…",
+        "pt-BR": "[Maram]\nÉ que ainda nem definimos a hora de partir...",
+        "es-ES": "[Maram]\nEs que todavía ni siquiera hemos decidido a qué hora saldremos……"
+    },
+    "Zf8CDQ": {
+        "en-US": "[Merchant Rensia]\nI’ll prepare it in advance, so tell me once the time is set.\nYou’re buying this much, so I should at least provide this kind of <FONT SIZE = 14><B>service</FONT></B>~!",
+        "pt-BR": "[Comerciante Rensia]\nVou deixar tudo preparado, então me avisem quando o horário for definido.\nEstão comprando tanta coisa que esse é o tipo de <FONT SIZE = 14><B>serviço</FONT></B>que eu preciso oferecer~!",
+        "es-ES": "[Comerciante Rensia]\nLo dejaré todo preparado de antemano, así que avísenme cuando decidan la hora.\nYa que compran tantísimo, ¡como mínimo tendré que darles este <FONT SIZE = 14><B>servicio</FONT></B>~!"
+    },
+    "Zv8CDQ": {
+        "en-US": "[Miriam]\nThank you for even offering delivery.\nWe’ll let you know once our departure time is decided.\nThen we’ll see you when we leave.",
+        "pt-BR": "[Miriam]\nMuito obrigada por entregar.\nQuando o horário da partida for decidido, avisaremos.\nEntão nos vemos na hora de partir.",
+        "es-ES": "[Miriam]\nMuchas gracias por ofrecernos incluso el envío.\nLe avisaremos en cuanto decidamos la hora de salida.\nEntonces nos veremos al partir."
+    },
+    "Z/8CDQ": {
+        "en-US": "[Merchant Rensia]\nThank you for your purchase.\nPam{0}sam.",
+        "pt-BR": "[Comerciante Rensia]\nObrigado pela compra.\nZé {0}nildo da Silva.",
+        "es-ES": "[Comerciante Rensia]\nGracias por su compra.\nSeñor Pam{0}sam."
+    },
+    "aP8CDQ": {
+        "en-US": "[Miriam]\nLet’s ^E5555Etalk over here for a moment^000000.",
+        "pt-BR": "[Miriam]\nVamos ^E5555Econversar um pouco aqui^000000.",
+        "es-ES": "[Miriam]\nVamos a ^E5555Ehablar un momento por aquí^000000."
+    },
+    "af8CDQ": {
+        "en-US": "[Merchant Rensia]\nAh!\nYou’re that merchant from earlier.\nDid you forget something?",
+        "pt-BR": "[Comerciante Rensia]\nAh!\nÉ comerciante de antes.\nEsqueceu alguma coisa?",
+        "es-ES": "[Comerciante Rensia]\n¡Ah!\nEs aquel comerciante de antes.\n¿Se ha dejado algo?"
+    },
+    "av8CDQ": {
+        "en-US": "Preparations for departure are complete.",
+        "pt-BR": "Estamos nos preparando para sair.",
+        "es-ES": "Los preparativos de salida han terminado."
+    },
+    "a/8CDQ": {
+        "en-US": "[Merchant Rensia]\nReally?\nThen I’ll notify my staff, so you can receive the goods at ^E5555Ethe west entrance of the village^000000.",
+        "pt-BR": "[Comerciante Rensia]\nÉ mesmo?\nEntão vou avisar um funcionário. Vocês podem retirar as mercadorias na ^E5555Eentrada oeste da cidade^000000.",
+        "es-ES": "[Comerciante Rensia]\n¿Sí?\nEntonces avisaré a mis empleados, así que podrá recoger la mercancía en ^E5555Ela entrada oeste del pueblo^000000."
+    },
+    "bP8CDQ": {
+        "en-US": "[Merchant Rensia]\nThank you for your purchase!\nIf you need goods again next time, I look forward to your business~",
+        "pt-BR": "[Comerciante Rensia]\nObrigado pela compra!\nDa próxima vez que precisar de mercadorias, espero ver você de novo~ Hoho~",
+        "es-ES": "[Comerciante Rensia]\n¡Gracias por su compra!\n¡Cuando vuelva a necesitar mercancía, espero contar de nuevo con usted~!"
+    },
+    "bf8CDQ": {
+        "en-US": "[Miriam]\nEven while talking to you, she doesn’t look at your side at all…",
+        "pt-BR": "[Miriam]\nMesmo falando com você, ele nem olha para nós...",
+        "es-ES": "[Miriam]\nEstá hablando contigo y ni siquiera mira hacia tu lado……"
+    },
+    "bv8CDQ": {
+        "en-US": "[Maram]\nWell…\nIt can’t be helped.\nLet’s just be glad we managed to buy the goods safely thanks to {0}.",
+        "pt-BR": "[Maram]\nBem...\nNão tem jeito.\nSó de termos conseguido comprar as mercadorias graças a {0}, já devemos nos dar por satisfeitos.",
+        "es-ES": "[Maram]\nBueno……\nNo se puede evitar.\nPensemos que bastante suerte hemos tenido con haber podido comprar la mercancía gracias a {0}."
+    },
+    "b/8CDQ": {
+        "en-US": "[Miriam]\nWe can’t let our guard down until they are completely in our hands.",
+        "pt-BR": "[Miriam]\nAté as mercadorias estarem em nossas mãos, não podemos baixar a guarda.",
+        "es-ES": "[Miriam]\nNo podemos bajar la guardia hasta que la mercancía esté completamente en nuestras manos."
+    },
+    "cP8CDQ": {
+        "en-US": "[Maram]\nTrue, maybe Ms. Rensia is a little suspicious because we were together.",
+        "pt-BR": "[Maram]\nÉ, acho que o Sr. Rensia também está um pouco desconfiado porque estamos juntos.",
+        "es-ES": "[Maram]\nEs verdad, creo que la señora Lensia también está un poco sospechando porque estamos juntos."
+    },
+    "cf8CDQ": {
+        "en-US": "[Miriam]\nA person who doesn’t want to sell goods.\nAnd a merchant in battle gear who came with that person.\nOther unseen members of the merchant group.\nAnd hesitation even when offering to deliver the goods…",
+        "pt-BR": "[Miriam]\nUm comerciante que não quer vender.\nE foi um viajante que o convenceu...\nOs outros nem foram cumprimentados.\nDesconfia até mesmo ao dizer que vai entregar as mercadorias...",
+        "es-ES": "[Miriam]\nUna persona a la que no quieren venderle mercancía.\nY un comerciante vestido para el combate que ha venido con esa persona.\nLos demás miembros de la compañía, que no se ven por ninguna parte.\nY además esa vacilación incluso cuando dicen que harán la entrega……"
+    },
+    "cv8CDQ": {
+        "en-US": "[Miriam]\n<FONT SIZE = 14>Isn’t it natural to be suspicious?</FONT>",
+        "pt-BR": "[Miriam]\n<FONT SIZE = 14>É natural achar isso suspeito, não é?</FONT>",
+        "es-ES": "[Miriam]\n<FONT SIZE = 14>¿No es normal que resulte sospechoso?</FONT>"
+    },
+    "c/8CDQ": {
+        "en-US": "[Maram]\n<FONT SIZE = 14><B>Hahaha!</FONT></B>\n<FONT SIZE = 14>Well, it’s all actually a lie anyway~</FONT>",
+        "pt-BR": "[Maram]\n<FONT SIZE = 14><B>Hahahah!</FONT></B>\n<FONT SIZE = 14>Bom, na verdade é tudo mentira mesmo~ Hahah</FONT>",
+        "es-ES": "[Maram]\n<FONT SIZE = 14><B>¡Ja, ja, ja!</FONT></B>\n<FONT SIZE = 14>Bueno, en realidad todo es mentira, así que~</FONT>"
+    },
+    "dP8CDQ": {
+        "en-US": "[Miriam]\n<FONT SIZE = 16><B>Is this the time to laugh!!!!</FONT></B>",
+        "pt-BR": "[Miriam]\n<FONT SIZE = 16><B>VOCÊ ACHA ENGRAÇADO?!</FONT></B>",
+        "es-ES": "[Miriam]\n<FONT SIZE = 16><B>¡¡¡¡No es momento de reírse!!!!</FONT></B>"
+    },
+    "df8CDQ": {
+        "en-US": "[Maram]\nSorry, sorry~\nAnyway, even if it’s called service, offering delivery right before departure makes it seem like they want to ^E5555Everify the merchant group themselves^000000.",
+        "pt-BR": "[Maram]\nDesculpa, desculpa~\nDe qualquer forma, mesmo sendo um serviço pago, parece que ele quer ^E5555Everificar a caravana pessoalmente^000000.",
+        "es-ES": "[Maram]\nLo siento, lo siento~\nEn cualquier caso, aunque lo llame servicio, si dice que lo entregará justo antes de salir, me da la impresión de que quiere ^E5555Ecomprobar personalmente la compañía mercante^000000."
+    },
+    "dv8CDQ": {
+        "en-US": "[Maram]\nIf we want to receive the goods safely, it would be best to ^E5555Edress up so we look like real merchants^000000 when we leave.",
+        "pt-BR": "[Maram]\nSe quisermos receber as mercadorias sem problemas, é melhor ^E5555Enos arrumarmos para parecermos mercadores de verdade^000000 na hora da partida.",
+        "es-ES": "[Maram]\nSi queremos recibir la mercancía sin problemas, será mejor ^E5555Eprepararlo todo para que de verdad parezcamos comerciantes^000000 cuando salgamos."
+    },
+    "d/8CDQ": {
+        "en-US": "[Maram]\nIf only ^E5555Ethe three of us go^000000, I can only see a future where the goods get taken from us on the spot.",
+        "pt-BR": "[Maram]\nSe formos só ^E5555Enós três, receio que vão roubar as mercadorias na hora^000000.",
+        "es-ES": "[Maram]\nPorque si vamos ^E5555Esolo nosotros tres, lo único que puedo imaginar es que nos quiten la mercancía allí mismo^000000."
+    },
+    "eP8CDQ": {
+        "en-US": "[Maram]\nThen first, we’ll need ^E5555Epeople to disguise themselves as members of the merchant group^000000…",
+        "pt-BR": "[Maram]\nEntão, antes de tudo, vamos precisar de ^E5555Epessoas para fingirem ser da caravana^000000...",
+        "es-ES": "[Maram]\nEntonces, para empezar, necesitaremos ^E5555Egente que se disfrace de compañía mercante^000000……"
+    },
+    "ef8CDQ": {
+        "en-US": "[Maram]\nIt’s risky if other merchants hear about this.\nI’ll try ^E5555Ehiring adventurers from outside as escort mercenaries^000000.\nMiriam, can you find some clothes that would suit a merchant group?",
+        "pt-BR": "[Maram]\nTambém é perigoso que isso chegue aos ouvidos dos outros mercadores.\nEu vou tentar ^E5555Econtratar aventureiros de fora como escolta armada^000000.\nMiriam, você pode procurar umas roupas que combinem com uma caravana?",
+        "es-ES": "[Maram]\nTambién sería peligroso que esto llegara a oídos de otros comerciantes.\nYo intentaré ^E5555Econtratar aventureros de fuera como mercenarios de escolta^000000.\nMiriam, ¿podrías ir a buscar ropa que pueda ponerse una compañía mercante?"
+    },
+    "ev8CDQ": {
+        "en-US": "[Miriam]\nGot it.",
+        "pt-BR": "[Miriam]\nTudo bem.",
+        "es-ES": "[Miriam]\nEntendido."
+    },
+    "e/8CDQ": {
+        "en-US": "[Maram]\nAs for {0}……\n<FONT SIZE = 14>Hmm……</FONT>\n<FONT SIZE = 16>Hmmmm……</FONT>",
+        "pt-BR": "[Maram]\n{0}...\n<FONT SIZE = 14>Hum...</FONT>\n<FONT SIZE = 16>Hmm...</FONT>",
+        "es-ES": "[Maram]\nY {0}……\n<FONT SIZE = 14>Mmm……</FONT>\n<FONT SIZE = 16>Mmmm……</FONT>"
+    },
+    "fP8CDQ": {
+        "en-US": "[Maram]\nCould you rest for a while at the shop in front of here?\nI’ll order some ^E5555Efood^000000, so once you finish eating, please come to ^E5555Ethe tree where we first met^000000.",
+        "pt-BR": "[Maram]\nVocê não quer comer um pouco na barraquinha aqui perto?\nVamos ^E5555Ecomer alguma coisa^000000, e depois, venha até ^E5555Ea árvore onde nos encontramos pela primeira vez^000000.",
+        "es-ES": "[Maram]\n¿Podría descansar un rato en la tienda de aquí delante?\nPediré algo de ^E5555Ecomida^000000, así que cuando termine de comer venga ^E5555Eal árbol bajo el que nos vimos por primera vez^000000."
+    },
+    "ff8CDQ": {
+        "en-US": "[Maram]\nAnd if you happen to ^E5555Erun into anyone you know, I’d appreciate it if you could lightly suggest the mercenary job^000000~",
+        "pt-BR": "[Maram]\nE se por acaso encontrar ^E5555Ealgum conhecido, eu agradeceria se pedisse ajuda discretamente^000000~",
+        "es-ES": "[Maram]\nY si por casualidad se encuentra con ^E5555Ealguien conocido, le agradecería que le sugiriera discretamente lo de ser mercenario^000000~"
+    },
+    "fv8CDQ": {
+        "en-US": "[Elly]\nIt feels like what we’re supposed to do keeps changing.",
+        "pt-BR": "[Elly]\nParece que o que temos para fazer não para de mudar.",
+        "es-ES": "[Elly]\nParece que lo que tenemos que hacer no deja de cambiar."
+    },
+    "f/8CDQ": {
+        "en-US": "Dumplings",
+        "pt-BR": "Comida",
+        "es-ES": "Dumplings"
+    },
+    "gP8CDQ": {
+        "en-US": "Eat the food Maram ordered.",
+        "pt-BR": "Comer a comida que Maram pediu.",
+        "es-ES": "Come la comida que pidió Maram."
+    },
+    "gf8CDQ": {
+        "en-US": "[Tamarin]\n<FONT SIZE = 16><B>Ah?</FONT></B>\n{0}!!\nHello!",
+        "pt-BR": "[Tamarin]\n<FONT SIZE = 16><B>Hã?</FONT></B>\n{0}!!\nOlá!",
+        "es-ES": "[Tamarin]\n<FONT SIZE = 16><B>¿Ah?</FONT></B>\n¡¡{0}!!\n¡Hola!"
+    },
+    "gv8CDQ": {
+        "en-US": "Nice to see you!",
+        "pt-BR": "Que bom ver você!",
+        "es-ES": "¡Qué alegría verle!"
+    },
+    "g/8CDQ": {
+        "en-US": "[Tamarin]\nWhat a coincidence to meet here!",
+        "pt-BR": "[Tamarin]\nQue coincidência encontrar você aqui!",
+        "es-ES": "[Tamarin]\n¡Qué casualidad encontrarnos en un sitio así!"
+    },
+    "hP8CDQ": {
+        "en-US": "We meet again!",
+        "pt-BR": "Nos encontramos de novo!",
+        "es-ES": "¡Nos volvemos a ver!"
+    },
+    "hf8CDQ": {
+        "en-US": "[Tamarin]\nThis place is really delicious, right?\nI tried it when I came to Rachel before, and it was so good that I always stop by this shop whenever I come.",
+        "pt-BR": "[Tamarin]\nAqui é muito gostoso, não é?\nQuando vim a Rachel antes, comi aqui e gostei tanto que, sempre que venho, faço questão de passar nesta loja.",
+        "es-ES": "[Tamarin]\n¿Verdad que aquí está todo buenísimo?\nLa primera vez que vine a Rachel lo probé y estaba tan rico que ahora cada vez que vengo tengo que pasar por esta tienda sí o sí."
+    },
+    "hv8CDQ": {
+        "en-US": "[Tamarin]\n<FONT SIZE = 14>Owner, one order of dumplings please!!!</FONT>",
+        "pt-BR": "[Tamarin]\n<FONT SIZE = 14>Senhor, me vê um bolinho, por favor!!!</FONT>",
+        "es-ES": "[Tamarin]\n<FONT SIZE = 14>¡¡¡Señor, póngame unos dumplings!!!</FONT>"
+    },
+    "h/8CDQ": {
+        "en-US": "What are you doing?",
+        "pt-BR": "O que está fazendo?",
+        "es-ES": "¿Qué está haciendo?"
+    },
+    "iP8CDQ": {
+        "en-US": "[Tamarin]\nEating dumplings, of course?\n<FONT SIZE = 14><B>Ah!</FONT></B>\n<FONT SIZE = 14>You mean why I came to Rachel?</FONT>",
+        "pt-BR": "[Tamarin]\nEstou comendo bolinho, ué.\n<FONT SIZE = 14><B>Ah!</FONT></B>\n<FONT SIZE = 14>Você quis dizer, o que estou fazendo em Rachel?</FONT>",
+        "es-ES": "[Tamarin]\n¿No lo ve?\n¿Estoy comiendo dumplings?\n<FONT SIZE = 14><B>¡Ah!</FONT></B>\n<FONT SIZE = 14>¿Se refiere a por qué he venido a Rachel?</FONT>"
+    },
+    "if8CDQ": {
+        "en-US": "[Tamarin]\nWell… I can’t tell you the details, but ^E5555Ebecause of a request, we met Lady Niren, and then she said they urgently needed manpower for the guard, so she took Dulan and Alf with her^000000.",
+        "pt-BR": "[Tamarin]\nBem... não posso contar em detalhes, mas, devido a ^E5555Eum pedido da Senhorita Niren, nós viemos encontrá-la, e ela disse que precisava de ajuda urgentemente para a Guarda, e levou Dulan e Alf com ela^000000.",
+        "es-ES": "[Tamarin]\nBueno…… no puedo contárselo con detalle, pero cuando fuimos a ver a la señorita Niren por ^E5555Eun encargo que nos hicieron, se produjo de repente la necesidad de reunir más efectivos para la guardia, así que se llevó consigo al señor Dulan y Alf^000000."
+    },
+    "iv8CDQ": {
+        "en-US": "[Tamarin]\nSo while waiting for the two of them, we’re taking a short rest in Rachel.\nIf it seems like we’ll have to wait too long, we were thinking of heading to the next area first…",
+        "pt-BR": "[Tamarin]\nEntão, enquanto espero pelos dois, estou descansando um pouco em Rachel.\nMas, se tiver que esperar por muito tempo, estou pensando em seguir primeiro para a próxima região...",
+        "es-ES": "[Tamarin]\nAsí que, mientras esperamos a esos dos, estamos descansando un rato en Rachel.\nAunque, si parece que vamos a tener que esperar demasiado, también estamos pensando en pasar antes a la siguiente zona……"
+    },
+    "i/8CDQ": {
+        "en-US": "They’ll follow on their own.",
+        "pt-BR": "Deixar ele seguir o caminho.",
+        "es-ES": "Ya vendrán por su cuenta, ¿no?"
+    },
+    "jP8CDQ": {
+        "en-US": "Request merchant disguise help.",
+        "pt-BR": "Quer vir comigo numa Caravana?",
+        "es-ES": "Encarga disfraces de compañía mercante."
+    },
+    "jf8CDQ": {
+        "en-US": "[Tamarin]\n<FONT SIZE = 14><B>Oh!</FONT></B>\nThat sounds good?\nThen let’s find ^E5555EMr. Mark and Mr. Magi^000000 and go together.\nThey’re probably ^E5555Eshopping near the plaza^000000.",
+        "pt-BR": "[Tamarin]\n<FONT SIZE = 14><B>Oh!</FONT></B>\nGostei da ideia!\nEntão vamos procurar o ^E5555ESr. Mark e a Sra. Magi^000000 e levá-los também.\nEles provavelmente estão ^E5555Efazendo compras perto da fonte central^000000.",
+        "es-ES": "[Tamarin]\n<FONT SIZE = 14><B>¡Oh!</FONT></B>\n¿Eso no está nada mal?\nEntonces vayamos a buscar también a ^E5555Eel señor Mark y la señorita Magi^000000.\nSeguramente estarán ^E5555Ede compras cerca de la plaza^000000."
+    },
+    "jv8CDQ": {
+        "en-US": "[Tamarin]\nOnce we finish the dumplings, let’s find ^E5555EMr. Mark and Mr. Magi^000000 and go together.\nThey’re probably ^E5555Eshopping near the plaza^000000.",
+        "pt-BR": "[Tamarin]\nQuando terminarmos de comer os bolinhos, vamos procurar o ^E5555ESr. Mark e a Sra. Magi^000000 e levá-los também.\nEles provavelmente estão ^E5555Efazendo compras perto da fonte central^000000.",
+        "es-ES": "[Tamarin]\nCuando termine de comer los dumplings, vayamos a buscar también a ^E5555Eel señor Mark y la señorita Magi^000000.\nSeguramente estarán ^E5555Ede compras cerca de la plaza^000000."
+    },
+    "j/8CDQ": {
+        "en-US": "- They look like delicious dumplings. -",
+        "pt-BR": "- Parece um bolinho delicioso. -",
+        "es-ES": "- Parecen unos dumplings deliciosos. -"
+    },
+    "kP8CDQ": {
+        "en-US": "Mark",
+        "pt-BR": "Mark",
+        "es-ES": "Mark"
+    },
+    "kf8CDQ": {
+        "en-US": "[Mark]\nHello.\n{0}.",
+        "pt-BR": "[Mark]\nOlá.\n{0}.",
+        "es-ES": "[Mark]\nHola.\n{0}."
+    },
+    "kv8CDQ": {
+        "en-US": "[Magi]\nH-Hello……",
+        "pt-BR": "[Magi]\nO... olá...",
+        "es-ES": "[Magi]\nHo… hola……"
+    },
+    "k/8CDQ": {
+        "en-US": "[Tamarin]\nMr. Mark, Mr. Magi, are you done with your errands?\n{0} introduced a job to us.\nWe’re going to meet the client now, so come with us.",
+        "pt-BR": "[Tamarin]\nSr. Mark, Sra. Magi, vocês já terminaram o que tinham para fazer?\n{0} nos propôs uma missão.\nVamos encontrar o contratante agora, então venham conosco.",
+        "es-ES": "[Tamarin]\nSeñor Mark, señorita Magi, ¿ya han terminado lo que tenían que hacer?\n{0} nos ha presentado un trabajo.\nAhora vamos a reunirnos con el cliente, así que vengan con nosotros."
+    },
+    "lP8CDQ": {
+        "en-US": "[Mark]\nAh……\nWe found the book Alf asked for.\nBut we couldn’t find the snacks Du wanted.",
+        "pt-BR": "[Mark]\nAh...\nEncontrei o livro que o Sr. Alf pediu.\nMas não achei os doces que o Du queria.",
+        "es-ES": "[Mark]\nAh……\nEncontré el libro que pidió Alf.\nPero no encontré los dulces que pidió Du."
+    },
+    "lf8CDQ": {
+        "en-US": "[Tamarin]\nThen I guess we can depart now.\nLet’s head to the meeting place.",
+        "pt-BR": "[Tamarin]\nEntão já podemos ir.\nVamos ao local combinado.",
+        "es-ES": "[Tamarin]\nEntonces ya podemos salir.\nVamos al lugar de la cita."
+    },
+    "lv8CDQ": {
+        "en-US": "Magi",
+        "pt-BR": "Magi",
+        "es-ES": "Magi"
+    },
+    "l/8CDQ": {
+        "en-US": "Box",
+        "pt-BR": "Caixa",
+        "es-ES": "Caja"
+    },
+    "mP8CDQ": {
+        "en-US": "[Merchant Rensia]\nThen please check whether these are the goods you ordered…",
+        "pt-BR": "[Comerciante Rensia]\nEntão confirme se estas são mesmo as mercadorias encomendadas...",
+        "es-ES": "[Comerciante Rensia]\nEntonces, compruebe si la mercancía que pidió es la correcta y……"
+    },
+    "mf8CDQ": {
+        "en-US": "Hand over the check.",
+        "pt-BR": "Entregar o comprovante.",
+        "es-ES": "Entrega el cheque."
+    },
+    "mv8CDQ": {
+        "en-US": "[Merchant Rensia]\nOh my~\nThe amount is exact too!\nThank you!\nPlease come again next time~!",
+        "pt-BR": "[Comerciante Rensia]\nAh~\nO valor está certinho!\nMuito obrigado!\nVolte sempre~!",
+        "es-ES": "[Comerciante Rensia]\nAy~\n¡La cantidad es exacta!\n¡Muchas gracias!\n¡Vuelva a comprar aquí la próxima vez~!"
+    },
+    "m/8CDQ": {
+        "en-US": "[Maram]\nBefore Pam{0}sam departs, let’s ^E5555Echeck the road outside the door once^000000.",
+        "pt-BR": "[Maram]\nZé {0}nildo da Silva, antes de partirmos, vamos ^E5555Edar uma olhada do lado de fora da cidade^000000.",
+        "es-ES": "[Maram]\nSeñor Pam{0}sam, antes de partir, ^E5555Eechemos un vistazo al camino fuera de la puerta^000000."
+    },
+    "nP8CDQ": {
+        "en-US": "[Disguised Maram]\n{0}, from here please head to ^E5555Ethe western Oz Canyon^000000 together with Miriam and Tamarin’s party.",
+        "pt-BR": "[Maram Disfarçado]\n{0}, a partir de agora siga com Miriam e o grupo do Sr. Tamarin para ^E5555Eoeste no Desfiladeiro de Oz^000000.",
+        "es-ES": "[Maram disfrazado]\n{0}, a partir de ahora diríjase junto con Miriam y el grupo del señor Tamarin hacia ^E5555Eel Cañón de Oz, al oeste^000000."
+    },
+    "nf8CDQ": {
+        "en-US": "[Disguised Maram]\nGiven the nature of this matter, I don’t think I can take all of these people along, so I’ll send them back and follow after.",
+        "pt-BR": "[Maram Disfarçado]\nPor causa da natureza deste trabalho, acho melhor não levar todo esse pessoal comigo, então vou mandá-los de volta e seguirei depois.",
+        "es-ES": "[Maram disfrazado]\nComo el asunto es delicado, no creo que pueda llevarme a toda esta gente conmigo, así que los haré volver y luego iré tras ustedes."
+    },
+    "nv8CDQ": {
+        "en-US": "[Disguised Maram]\nIf we want to ^E5555Ekeep our destination hidden^000000, it would be better to move elsewhere and send them back there.",
+        "pt-BR": "[Maram Disfarçado]\nPara ^E5555Enão revelar o nosso destino^000000, acho melhor irmos para outro lugar antes de dispensar as pessoas.",
+        "es-ES": "[Maram disfrazado]\nSi ^E5555Equeremos evitar que descubran nuestro destino^000000, será mejor movernos a otro lugar antes de hacer que la gente regrese."
+    },
+    "n/8CDQ": {
+        "en-US": "[Merchant]\nThe wind is rough…",
+        "pt-BR": "[Comerciante]\nO vento está forte...",
+        "es-ES": "[Comerciante]\nEl viento sopla con fuerza…"
+    },
+    "oP8CDQ": {
+        "en-US": "[Disguised Miriam]\nWe will now enter <FONT SIZE = 14><B>^E5555EOz Labyrinth^000000</FONT></B>.\nPlease speak again ^E5555Eonce you are ready^000000.",
+        "pt-BR": "[Miriam Disfarçada]\nA partir de agora entraremos no <FONT SIZE = 14><B>^E5555ELabirinto de Oz^000000</FONT></B>.\nQuando ^E5555Eestiver com tudo pronto, fale comigo novamente^000000.",
+        "es-ES": "[Miriam disfrazada]\nA partir de ahora entraremos en <FONT SIZE = 14><B>^E5555ELaberinto de Oz^000000</FONT></B>.\nCuando ^E5555Ehaya terminado los preparativos^000000, vuelva a decírmelo."
+    },
+    "of8CDQ": {
+        "en-US": "Oz Labyrinth",
+        "pt-BR": "Labirinto de Oz",
+        "es-ES": "Laberinto de Oz"
+    },
+    "ov8CDQ": {
+        "en-US": "^00B7EEThis event proceeds as a Memorial Dungeon.^000000\n^00B7EEOz Labyrinth can only be entered with a 1-person party.^000000",
+        "pt-BR": "^00B7EEVocê entrará em uma instância.^000000\n^00B7EELabirinto de Oz só pode ser realizado em um grupo de 1 pessoa.^000000",
+        "es-ES": "^00B7EEEste evento se desarrolla como Memorial Dungeon.^000000\n^00B7EELaberinto de Oz solo puede jugarse en un grupo de 1 persona.^000000"
+    },
+    "o/8CDQ": {
+        "en-US": "[Disguised Miriam]\nThen we will depart for ^E5555EOz Labyrinth^000000.",
+        "pt-BR": "[Miriam Disfarçada]\nEntão partiremos para ^E5555ELabirinto de Oz^000000.",
+        "es-ES": "[Miriam disfrazada]\nEntonces partiremos hacia ^E5555ELaberinto de Oz^000000."
+    },
+    "pP8CDQ": {
+        "en-US": "Open the door.",
+        "pt-BR": "Gerar instância.",
+        "es-ES": "Abre la puerta."
+    },
+    "pf8CDQ": {
+        "en-US": "Enter.",
+        "pt-BR": "Entrar na instância.",
+        "es-ES": "Entra."
+    },
+    "pv8CDQ": {
+        "en-US": "Quit.",
+        "pt-BR": "Desistir.",
+        "es-ES": "Lo deja."
+    },
+    "p/8CDQ": {
+        "en-US": "Party Name:{0}\nParty Leader:{1}\n^0000FF{2} ^000000- Reservation Failed",
+        "pt-BR": "Nome do grupo:{0}\nLíder do grupo:{1}\n^0000FF{2} ^000000- Falha na reserva",
+        "es-ES": "Nombre del grupo:{0}\nLíder del grupo:{1}\n^0000FF{2} ^000000- Error de reserva"
+    },
+    "qP8CDQ": {
+        "en-US": "[Disguised Miriam]\nIt would be best to wait a moment before trying to enter.",
+        "pt-BR": "[Miriam Disfarçada]\nÉ melhor esperar um pouco antes de tentar entrar.",
+        "es-ES": "[Miriam disfrazada]\nSerá mejor esperar un poco antes de entrar."
+    },
+    "qf8CDQ": {
+        "en-US": "[Disguised Miriam]\nIt seems some kind of problem occurred.\nLet’s try again.",
+        "pt-BR": "[Miriam Disfarçada]\nParece que houve algum problema.\nVamos tentar de novo.",
+        "es-ES": "[Miriam disfrazada]\nParece que ha surgido algún problema.\nVolvamos a intentarlo."
+    },
+    "qv8CDQ": {
+        "en-US": "[Disguised Miriam]\nLet’s wait a moment and try again.",
+        "pt-BR": "[Miriam Disfarçada]\nVamos esperar um pouco e tentar novamente.",
+        "es-ES": "[Miriam disfrazada]\nEsperemos un poco y volvamos a intentarlo."
+    },
+    "q/8CDQ": {
+        "en-US": "[Disguised Miriam]\nJust in case, it would be best to ^FF0000form a party^000000 before entering.",
+        "pt-BR": "[Miriam Disfarçada]\nPor segurança, acho melhor ^FF0000formar um grupo^000000 antes de entrar.",
+        "es-ES": "[Miriam disfrazada]\nPor si acaso, será mejor ^FF0000formar un grupo^000000 antes de entrar."
+    },
+    "rP8CDQ": {
+        "en-US": "[Disguised Miriam]\nSince you are effectively the representative of this merchant group, it would be best for you to enter {0} as the ^FF0000party leader^000000.",
+        "pt-BR": "[Miriam Disfarçada]\nComo você é o representante desta caravana, é melhor entrar em {0} como ^FF0000líder do grupo^000000.",
+        "es-ES": "[Miriam disfrazada]\nComo usted viene a ser el representante de esta compañía mercante, será mejor que entre en {0} como ^FF0000líder del grupo^000000."
+    },
+    "rf8CDQ": {
+        "en-US": "[Disguised Miriam]\nSince you are effectively the representative of this merchant group, it would be best for you to enter {0} as the ^FF0000party leader^000000.",
+        "pt-BR": "[Miriam Disfarçada]\nComo você é o representante desta caravana, é melhor entrar em {0} como ^FF0000líder do grupo^000000.",
+        "es-ES": "[Miriam disfrazada]\nComo usted viene a ser el representante de esta compañía mercante, será mejor que entre en {0} como ^FF0000líder del grupo^000000."
+    },
+    "rv8CDQ": {
+        "en-US": "[Merchant]\nI think someone was around here, but they disappeared in an instant.\nWhere did they go?",
+        "pt-BR": "[Comerciante]\nParecia que havia alguém por aqui, mas desapareceu num instante.\nPara onde foi?",
+        "es-ES": "[Comerciante]\nJuraría que había alguien por aquí cerca, pero desapareció en un instante.\n¿Adónde habrá ido?"
+    },
+    "r/8CDQ": {
+        "en-US": "[Maram]\n<FONT SIZE = 14><B>Phew!</FONT></B>\nWe finally made it out!",
+        "pt-BR": "[Maram]\n<FONT SIZE = 14><B>Ufa!</FONT></B>\nFinalmente saímos!",
+        "es-ES": "[Maram]\n<FONT SIZE = 14><B>¡Uf!</FONT></B>\n¡Por fin hemos salido!"
+    },
+    "sP8CDQ": {
+        "en-US": "I’m exhausted…",
+        "pt-BR": "Estou exausto...",
+        "es-ES": "Estoy agotado…"
+    },
+    "sf8CDQ": {
+        "en-US": "[Maram]\nIf we go a little farther ^E5555Ewest^000000 from here, there is ^E5555Ethe village entrance^000000.",
+        "pt-BR": "[Maram]\nSe seguirmos mais um pouco ^E5555Epara o oeste^000000, encontraremos ^E5555Ea entrada da aldeia^000000.",
+        "es-ES": "[Maram]\nSi seguimos un poco más hacia ^E5555Eel oeste^000000, llegaremos a ^E5555Ela entrada del pueblo^000000."
+    },
+    "sv8CDQ": {
+        "en-US": "A village?",
+        "pt-BR": "Aldeia?",
+        "es-ES": "¿El pueblo?"
+    },
+    "s/8CDQ": {
+        "en-US": "[Maram]\nRather than a village, you could call it ^E5555Ea hideout^000000 where people who fled from Rachel live in hiding.",
+        "pt-BR": "[Maram]\nMais do que uma aldeia, dá para chamar de ^E5555Erefúgio^000000 onde vivem escondidas as pessoas que fugiram de Rachel.",
+        "es-ES": "[Maram]\nMás que un pueblo, podría decirse que es ^E5555Eun refugio^000000 donde se esconden quienes huyeron de Rachel."
+    },
+    "tP8CDQ": {
+        "en-US": "[Maram]\nIt would be better for you to see it directly than for me to explain.",
+        "pt-BR": "[Maram]\nAcho que é melhor ver com os próprios olhos do que eu ficar explicando.",
+        "es-ES": "[Maram]\nSerá mejor que lo vean con sus propios ojos en lugar de que se lo explique yo."
+    },
+    "tf8CDQ": {
+        "en-US": "<FONT SIZE = 14><B>Phew!</FONT></B>\nWe finally made it out!",
+        "pt-BR": "<FONT SIZE = 14><B>Ufa!</FONT></B>\nFinalmente saímos!",
+        "es-ES": "<FONT SIZE = 14><B>¡Uf!</FONT></B>\n¡Por fin hemos salido!"
+    },
+    "tv8CDQ": {
+        "en-US": "[Camper]\nHwaaaa...\nCamping like this once in a while isn’t bad....",
+        "pt-BR": "[Campista]\nUaaaaah..... Que sono!\nAcampar de vez em quando não é nada mau....",
+        "es-ES": "[Camper]\nHuaaa....\nDe vez en cuando, acampar así tampoco está nada mal...."
+    },
+    "t/8CDQ": {
+        "en-US": "[Maram]\n<FONT SIZE = 14><B>It’s me! Me!</FONT></B>",
+        "pt-BR": "[Maram]\n<FONT SIZE = 14><B>Ei! Sou eu!</FONT></B>",
+        "es-ES": "[Maram]\n<FONT SIZE = 14><B>¡Soy yo! ¡Yo!</FONT></B>"
+    },
+    "uP8CDQ": {
+        "en-US": "[Camper]\nMe?\nDo we know each other?",
+        "pt-BR": "[Campista]\nVocê?\nNós nos conhecemos?",
+        "es-ES": "[Camper]\n¿Que eres tú?\n¿Nos conocemos?"
+    },
+    "uf8CDQ": {
+        "en-US": "[Maram]\nWhat are you talking about?",
+        "pt-BR": "[Maram]\nDo que você está falando?",
+        "es-ES": "[Maram]\n¿Pero qué estás diciendo?"
+    },
+    "uv8CDQ": {
+        "en-US": "[Miriam]\nIs this how people react when you bring an ^E5555Eoutsider^000000?",
+        "pt-BR": "[Miriam]\nÉ assim que ele reage quando você traz ^E5555Ealguém de fora^000000?",
+        "es-ES": "[Miriam]\n¿Así reaccionan cuando uno trae a ^E5555Eforasteros^000000?"
+    },
+    "u/8CDQ": {
+        "en-US": "[Maram]\nAh……",
+        "pt-BR": "[Maram]\nAh...",
+        "es-ES": "[Maram]\nAh……"
+    },
+    "vP8CDQ": {
+        "en-US": "[Imril]\nThen I’ll go first.",
+        "pt-BR": "[Imril]\nEntão, eu vou indo primeiro.",
+        "es-ES": "[Imril]\nEntonces yo me voy primero."
+    },
+    "vf8CDQ": {
+        "en-US": "[Maram]\n<FONT SIZE = 14><B>Ah!! Imril, wait!!!!</FONT></B>",
+        "pt-BR": "[Maram]\n<FONT SIZE = 14><B>Ah!! Imril, espere!!!!</FONT></B>",
+        "es-ES": "[Maram]\n<FONT SIZE = 14><B>¡¡Ah!! ¡¡Imril, espera un momento!!!!</FONT></B>"
+    },
+    "vv8CDQ": {
+        "en-US": "[Maram]\nSuad is late……\nWhat if they really don’t come?",
+        "pt-BR": "[Maram]\nSuad está demorando...\nE se ele realmente não vier?",
+        "es-ES": "[Maram]\nSuad está tardando……\n¿Y si de verdad no viene?"
+    },
+    "v/8CDQ": {
+        "en-US": "[Miriam]\nThen we’ll have to go back to Rachel.\nIf trust has already been broken, we ^E5555Emay never be allowed into the village again^000000.",
+        "pt-BR": "[Miriam]\nEntão teremos que voltar para Rachel.\nSe a confiança já foi quebrada, talvez ^E5555Enunca mais possamos entrar na aldeia^000000.",
+        "es-ES": "[Miriam]\nEntonces tendremos que volver a Rachel.\nSi la confianza ya se ha roto, puede que ^E5555Enunca más nos dejen entrar en el pueblo^000000."
+    },
+    "wP8CDQ": {
+        "en-US": "[Maram]\nBut if this continues, the villagers will only keep suffering.\nIf necessary, even help from outsiders……",
+        "pt-BR": "[Maram]\nMas se continuar assim, as pessoas da aldeia só vão sofrer cada vez mais.\nSe for preciso, até ajuda de forasteiros...",
+        "es-ES": "[Maram]\nPero si seguimos así, la gente del pueblo no hará más que sufrir.\nSi hace falta, incluso necesitaremos ayuda de forasteros……"
+    },
+    "wf8CDQ": {
+        "en-US": "[Miriam]\nYou don’t understand.",
+        "pt-BR": "[Miriam]\nVocê não entende.",
+        "es-ES": "[Miriam]\nTú no lo entiendes."
+    },
+    "wv8CDQ": {
+        "en-US": "Because you are like us, yet different.",
+        "pt-BR": "Ele é igual a nós e, ao mesmo tempo, diferente.",
+        "es-ES": "Porque eres como nosotros y, al mismo tiempo, diferente."
+    },
+    "w/8CDQ": {
+        "en-US": "[Maram]\nI also…… want to understand…… all of you……",
+        "pt-BR": "[Maram]\nEu também... quero entender... vocês...",
+        "es-ES": "[Maram]\nYo también…… quiero entenderos…… a vosotros……"
+    },
+    "xP8CDQ": {
+        "en-US": "I’m sorry…",
+        "pt-BR": "Desculpe...",
+        "es-ES": "Lo siento…"
+    },
+    "xf8CDQ": {
+        "en-US": "I’m the one who should be sorry for saying that.",
+        "pt-BR": "Eu quem devia pedir desculpas.",
+        "es-ES": "He sido yo quien debía disculparse por decir algo así."
+    },
+    "xv8CDQ": {
+        "en-US": "[Suad]\nAnd yet that fool brought outsiders here without discussing it with anyone.\nBe grateful I came to hear your final excuse for the sake of our past bond.",
+        "pt-BR": "[Suad]\nE esse sujeito ainda traz um forasteiro sem consultar ninguém.\nAgradeça por eu ter vindo ouvir ao menos sua desculpa, em consideração ao que passamos.",
+        "es-ES": "[Suad]\nY resulta que un tipo así trae a forasteros sin consultar a nadie.\nAgradece que, en consideración al tiempo que hemos compartido, haya venido a escuchar al menos tu última excusa."
+    },
+    "x/8CDQ": {
+        "en-US": "[Maram]\nSuad!\nI was careless to bring outsiders to the village entrance without saying anything!",
+        "pt-BR": "[Maram]\nSuad!\nFui imprudente por trazer um forasteiro até a entrada da aldeia sem avisar!",
+        "es-ES": "[Maram]\n¡Suad!\nHe sido imprudente al traer a forasteros hasta la entrada del pueblo sin decir nada!"
+    },
+    "yP8CDQ": {
+        "en-US": "[Maram]\nBut these are people Mother trusts enough to entrust with important work!\nWhat you are worried about will not happen!",
+        "pt-BR": "[Maram]\nMas estas pessoas são confiáveis a ponto de minha mãe lhes confiar uma tarefa importante!\nAquilo com que você se preocupa não vai acontecer!",
+        "es-ES": "[Maram]\n¡Pero estas personas son de fiar hasta el punto de que mi madre les ha confiado una tarea importante!\n¡No ocurrirá nada de lo que temes!"
+    },
+    "yf8CDQ": {
+        "en-US": "[Suad]\nTrustworthy enough for Lady Niren to entrust work to?\nWhat does it matter whether they have Lady Niren’s trust?",
+        "pt-BR": "[Suad]\nConfiáveis a ponto de Niren lhes confiar uma tarefa?\nE o que importa o fato de terem a confiança de Niren?",
+        "es-ES": "[Suad]\n¿Son de fiar porque la señorita Niren les encarga cosas?\n¿Y qué importa que la señorita Niren confíe en ellos?"
+    },
+    "yv8CDQ": {
+        "en-US": "It means nothing!",
+        "pt-BR": "Não significa nada!",
+        "es-ES": "¡No importa en absoluto!"
+    },
+    "y/8CDQ": {
+        "en-US": "[Suad]\n<FONT SIZE = 14>Lady Niren doesn’t even know that you’ve been delivering supplies here.</FONT>",
+        "pt-BR": "[Suad]\n<FONT SIZE = 14>Niren nem sabe que você está trazendo suprimentos para cá.</FONT>",
+        "es-ES": "[Suad]\n<FONT SIZE = 14>La señorita Niren ni siquiera sabe que estás trayendo suministros a este lugar.</FONT>"
+    },
+    "zP8CDQ": {
+        "en-US": "[Maram]\nThat is……",
+        "pt-BR": "[Maram]\nIsso é...",
+        "es-ES": "[Maram]\nEso es……"
+    },
+    "zf8CDQ": {
+        "en-US": "That’s true, but…",
+        "pt-BR": "Isso é verdade, mas...",
+        "es-ES": "Eso es cierto, pero…"
+    },
+    "zv8CDQ": {
+        "en-US": "[Miriam]\nSuad, stop being sarcastic.",
+        "pt-BR": "[Miriam]\nSuad, sem grosseria.",
+        "es-ES": "[Miriam]\nSuad, deja ya de hablar con sarcasmo."
+    },
+    "z/8CDQ": {
+        "en-US": "Why do you always have to say it like that!",
+        "pt-BR": "Quando ele fala, é desse jeito!",
+        "es-ES": "¡Siempre tienes que hablar así!"
+    },
+    "0P8CDQ": {
+        "en-US": "[Suad]\nI’m not being sarcastic.\nI’m only speaking the truth…",
+        "pt-BR": "[Suad]\nNão estou sendo grosseiro.\nSó estou dizendo a verdade...",
+        "es-ES": "[Suad]\nNo estoy siendo sarcástico.\nSolo digo la verdad…"
+    },
+    "0f8CDQ": {
+        "en-US": "[Miriam]\nIf we’re talking about the truth, then the truth is that ^E5555Ethere is no longer anyone in Rachel willing to sell goods to us, and at this rate we will all starve to death together^000000.",
+        "pt-BR": "[Miriam]\nE a verdade é que ^E5555Eem Rachel já não resta ninguém disposto a nos vender mercadorias e, se continuar assim, todos nós vamos acabar morrendo de fome juntos^000000.",
+        "es-ES": "[Miriam]\nY la verdad es que ^E5555Een Rachel ya no queda nadie que quiera vendernos mercancía, y que si esto sigue así todos acabaremos muriendo de hambre juntos^000000."
+    },
+    "0v8CDQ": {
+        "en-US": "That’s not what you want, is it?",
+        "pt-BR": "Você não quer que isso aconteça, quer?",
+        "es-ES": "Tampoco quieres que eso ocurra, ¿verdad?"
+    },
+    "0/8CDQ": {
+        "en-US": "[Maram]\nWe can still buy goods in Veins or other villages, but ^E5555Efewer and fewer people can pass through Oz Labyrinth^000000, right?",
+        "pt-BR": "[Maram]\nAinda dá para comprar mercadorias em Veins ou em outras vilas, mas ^E5555Ecada vez menos gente consegue atravessar Labirinto de Oz^000000, não é?",
+        "es-ES": "[Maram]\nTodavía se pueden comprar cosas en Veins o en otros pueblos, pero cada vez son menos los que ^E5555Epueden atravesar Laberinto de Oz^000000."
+    },
+    "1P8CDQ": {
+        "en-US": "Even Imril was in danger.",
+        "pt-BR": "Até Imril correu perigo.",
+        "es-ES": "Imril también estuvo en peligro."
+    },
+    "1f8CDQ": {
+        "en-US": "[Maram]\nFor now, if someone has enough ^E5555Ecombat ability^000000, they can still get through while defeating monsters, but later it may no longer be a matter of combat ability—^E5555Ethe entire labyrinth may be submerged in lava^000000.",
+        "pt-BR": "[Maram]\nPor enquanto, quem tem ^E5555Ehabilidades de combate^000000 ainda consegue passar eliminando os monstros, mas depois talvez o problema piore se ^E5555Etodo o labirinto acabe submerso em lava^000000.",
+        "es-ES": "[Maram]\nPor ahora, si uno tiene ^E5555Ehabilidad de combate^000000, todavía puede abrirse paso derrotando monstruos, pero más adelante puede que el problema no sea la fuerza, sino que ^E5555Etodo el laberinto termine cubierto de lava^000000."
+    },
+    "1v8CDQ": {
+        "en-US": "[Maram]\nWhen that happens, even those who want to help won’t be able to come this far.",
+        "pt-BR": "[Maram]\nQuando isso acontecer, ninguém sequer conseguirá chegar até aqui.",
+        "es-ES": "[Maram]\nCuando llegue ese momento, quienes quieran ayudarnos ni siquiera podrán llegar hasta aquí."
+    },
+    "1/8CDQ": {
+        "en-US": "By then it’ll be too late!",
+        "pt-BR": "Quando isso acontecer, já será tarde!",
+        "es-ES": "¡Entonces ya será demasiado tarde!"
+    },
+    "2P8CDQ": {
+        "en-US": "[Maram]\nAnd if ^E5555Ethe mediation between natives and immigrants^000000 that Mother ^E5555Easked for^000000 is achieved, we will be able to cross above Oz Gorge by bridge again!",
+        "pt-BR": "[Maram]\nE se a ^E5555Emediação entre nativos e imigrantes^000000, que ^E5555Eminha mãe pediu^000000, realmente acontecer, poderemos voltar a atravessar o Cânion de Oz por uma ponte!",
+        "es-ES": "[Maram]\nY si se logra la ^E5555Emediación entre nativos e inmigrantes^000000 que ^E5555Emi madre pidió^000000, ¡podremos volver a cruzar por el puente sobre el Cañón de Oz!"
+    },
+    "2f8CDQ": {
+        "en-US": "[Suad]\nMediation? Lady Niren is dreaming again.\nIt was the same when the ^E5555EGray Children^000000 came to be.",
+        "pt-BR": "[Suad]\nMediação? Niren continua sonhando alto.\nFoi assim também quando surgiram os ^E5555EFilhos Cinzentos^000000.",
+        "es-ES": "[Suad]\n¿Mediación? La señorita Niren sigue pensando en fantasías.\nYa pasó lo mismo cuando aparecieron los ^E5555ENiños grises^000000."
+    },
+    "2v8CDQ": {
+        "en-US": "Lady Niren is dreaming again.",
+        "pt-BR": "Niren continua sonhando alto.",
+        "es-ES": "La señorita Niren sigue pensando en fantasías."
+    },
+    "2/8CDQ": {
+        "en-US": "[Miriam]\nBut thanks to that, we did not have to go hungry, and now we can help keep the children in the village from starving.",
+        "pt-BR": "[Miriam]\nMas graças a isso pudemos não passar fome, e agora podemos ajudar as crianças da aldeia a não passarem fome.",
+        "es-ES": "[Miriam]\nPero gracias a ello pudimos no pasar hambre, y ahora podemos ayudar a que los niños del pueblo no se mueran de hambre."
+    },
+    "3P8CDQ": {
+        "en-US": "[Suad]\nFine.\nThen I will give them a chance.\nJust as Lady Niren once gave us a chance.",
+        "pt-BR": "[Suad]\nMuito bem.\nEntão eu darei uma chance.\nAssim como Niren nos deu uma chance.",
+        "es-ES": "[Suad]\nBien.\nEntonces os daré una oportunidad.\nIgual que la señorita Niren nos dio una oportunidad a nosotros."
+    },
+    "3f8CDQ": {
+        "en-US": "Though I threw that chance away and ran…",
+        "pt-BR": "Embora eu tenha jogado essa chance fora...",
+        "es-ES": "Aunque yo deseché esa oportunidad y huí…"
+    },
+    "3v8CDQ": {
+        "en-US": "[Miriam]\nWhat?",
+        "pt-BR": "[Miriam]\nO quê?",
+        "es-ES": "[Miriam]\n¿Qué?"
+    },
+    "3/8CDQ": {
+        "en-US": "You’re allowing it this easily?",
+        "pt-BR": "Vai permitir assim tão facilmente?",
+        "es-ES": "¿Nos lo vas a permitir así de fácil?"
+    },
+    "4P8CDQ": {
+        "en-US": "[Maram]\nReally?!",
+        "pt-BR": "[Maram]\nSério?!",
+        "es-ES": "[Maram]\n¿De verdad?!"
+    },
+    "4f8CDQ": {
+        "en-US": "[Maram]\nYou mean it?",
+        "pt-BR": "[Maram]\nEstá falando sério?",
+        "es-ES": "[Maram]\n¿Lo dices en serio?"
+    },
+    "4v8CDQ": {
+        "en-US": "I honestly wasn’t expecting much!",
+        "pt-BR": "Na verdade eu nem esperava muito!",
+        "es-ES": "¡La verdad, no esperaba gran cosa!"
+    },
+    "4/8CDQ": {
+        "en-US": "[Suad]\nWhat is with\nthat reaction.",
+        "pt-BR": "[Suad]\nQue reações\nsão essas???",
+        "es-ES": "[Suad]\n¿Qué pasa\ncon esa reacción?"
+    },
+    "5P8CDQ": {
+        "en-US": "Then go back!!",
+        "pt-BR": "Se for assim, podem voltar!!",
+        "es-ES": "¡Entonces volveos!"
+    },
+    "5f8CDQ": {
+        "en-US": "[Maram]\nNo~ no~\nThank you~",
+        "pt-BR": "[Maram]\nNão, não~\nObrigado~",
+        "es-ES": "[Maram]\nNo~ no~\nGracias~"
+    },
+    "5v8CDQ": {
+        "en-US": "[Maram]\nThen before Suad changes their mind, let’s quickly go ^E5555Einto the village^000000!",
+        "pt-BR": "[Maram]\nEntão, antes que Suad mude de ideia, vamos entrar logo ^E5555Ena aldeia^000000!",
+        "es-ES": "[Maram]\n¡Entonces entremos rápido ^E5555Eal pueblo^000000 antes de que Suad cambie de idea!"
+    },
+    "5/8CDQ": {
+        "en-US": "[Maram]\nWe’ll discuss the details once we are inside.",
+        "pt-BR": "[Maram]\nFalamos com mais detalhes depois de entrar.",
+        "es-ES": "[Maram]\nYa hablaremos con más detalle una vez dentro."
+    },
+    "6P8CDQ": {
+        "en-US": "[Maram]\nPhew~\nMaybe I should light a campfire.",
+        "pt-BR": "[Maram]\nUfa~\nSerá que eu acendo uma fogueira?",
+        "es-ES": "[Maram]\nUf~\n¿Encendemos aunque sea una hoguera?"
+    },
+    "6f8CDQ": {
+        "en-US": "Suad",
+        "pt-BR": "Suad",
+        "es-ES": "Suad"
+    },
+    "6v8CDQ": {
+        "en-US": "Imril",
+        "pt-BR": "Imril",
+        "es-ES": "Imril"
+    },
+    "6/8CDQ": {
+        "en-US": "[Imril]\nWhat.",
+        "pt-BR": "[Imril]\nPor quê?",
+        "es-ES": "[Imril]\n¿Qué."
+    },
+    "7P8CDQ": {
+        "en-US": "[Maram]\nDon’t go alone—help us out a little.",
+        "pt-BR": "[Maram]\nNão vá só, venha nos ajudar.",
+        "es-ES": "[Maram]\nNo te vayas tú solo y échamos una mano."
+    },
+    "7f8CDQ": {
+        "en-US": "[Imril]\nNot letting outsiders in is ^E5555Eour rule^000000.\nEven if you ask for help, there’s nothing I can do.",
+        "pt-BR": "[Imril]\nNão deixar forasteiros entrarem é ^E5555Euma regra nossa^000000.\nMesmo que peça ajuda, não há nada que eu possa fazer.",
+        "es-ES": "[Imril]\nNo dejar entrar a forasteros es ^E5555Enuestra norma^000000.\nAunque me pidas ayuda, no hay nada que pueda hacer."
+    },
+    "7v8CDQ": {
+        "en-US": "What power do I have?",
+        "pt-BR": "O que eu poderia fazer?",
+        "es-ES": "¿Qué poder iba a tener yo?"
+    },
+    "7/8CDQ": {
+        "en-US": "[Maram]\nHmm……",
+        "pt-BR": "[Maram]\nHum......",
+        "es-ES": "[Maram]\nMmm……"
+    },
+    "8P8CDQ": {
+        "en-US": "[Maram]\nThen could you go to the village and call ^E5555ESuad^000000 for us?",
+        "pt-BR": "[Maram]\nEntão, você poderia ir até a aldeia e chamar ^E5555ESuad^000000 para mim?",
+        "es-ES": "[Maram]\nEntonces, ¿podrías ir al pueblo y llamar a ^E5555ESuad^000000?"
+    },
+    "8f8CDQ": {
+        "en-US": "[Maram]\nBecause I brought outsiders, I don’t think they’ll let me into the village either.",
+        "pt-BR": "[Maram]\nPor eu ter trazido um forasteiro, acho que nem eu vão deixar entrar na aldeia.",
+        "es-ES": "[Maram]\nNo creo que me dejen entrar al pueblo tampoco por haber traído a forasteros."
+    },
+    "8v8CDQ": {
+        "en-US": "Help me…",
+        "pt-BR": "Socorro...",
+        "es-ES": "Ayúdame…"
+    },
+    "8/8CDQ": {
+        "en-US": "[Imril]\n^E5555ESuad^000000 is sensitive about things like that.\nYou should’ve said something in advance.",
+        "pt-BR": "[Imril]\n^E5555ESuad^000000 é sensível a esse tipo de coisa.\nVocê devia ter avisado antes.",
+        "es-ES": "[Imril]\n^E5555ESuad^000000 es muy sensible con esas cosas.\nDeberías haberlo avisado con antelación."
+    },
+    "9P8CDQ": {
+        "en-US": "They’re going to be furious.",
+        "pt-BR": "Ele vai ficar furioso.",
+        "es-ES": "Se va a enfadar muchísimo."
+    },
+    "9f8CDQ": {
+        "en-US": "[Maram]\nThings got tangled up this time, so I didn’t have a chance to say anything beforehand.\nYou roughly know the ^E5555Esituation in Rachel^000000, don’t you?",
+        "pt-BR": "[Maram]\nDesta vez tudo se complicou e eu não tive tempo de avisar.\nVocê também sabe mais ou menos qual é a ^E5555Esituacão de Rachel^000000 agora.",
+        "es-ES": "[Maram]\nEsta vez todo se complicó y no tuve ocasión de avisarlo antes.\nTú también sabes más o menos cómo está ahora ^E5555Ela situación en Rachel^000000."
+    },
+    "9v8CDQ": {
+        "en-US": "[Imril]\nThat’s why I went as far as ^E5555EVeins^000000 to buy goods myself.",
+        "pt-BR": "[Imril]\nFoi por isso que eu também fui até ^E5555EVeins^000000 comprar mercadorias.",
+        "es-ES": "[Imril]\nPor eso yo también fui hasta ^E5555EVeins^000000 a comprar mercancías."
+    },
+    "9/8CDQ": {
+        "en-US": "[Imril]\nSince you helped me earlier, I’ll at least ask ^E5555ESuad^000000.\nBut don’t expect too much.",
+        "pt-BR": "[Imril]\nComo estou em dívida pela ajuda de antes, vou ao menos perguntar a ^E5555ESuad^000000.\nMas não crie grandes expectativas.",
+        "es-ES": "[Imril]\nComo me ayudaste antes, al menos se lo preguntaré a ^E5555ESuad^000000.\nPero no te hagas muchas ilusiones."
+    },
+    "+P8CDQ": {
+        "en-US": "[Maram]\nGot it.",
+        "pt-BR": "[Maram]\nTudo bem.",
+        "es-ES": "[Maram]\nEntendido."
+    },
+    "+f8CDQ": {
+        "en-US": "Thank you.",
+        "pt-BR": "Obrigado.",
+        "es-ES": "Gracias."
+    },
+    "+v8CDQ": {
+        "en-US": "[Maram]\n{0}, it seems that if we want to enter the village, we’ll need to ^E5555Emeet Suad and persuade them^000000.\nThough I don’t know if they’ll agree to meet us……",
+        "pt-BR": "[Maram]\n{0}, para entrar na aldeia, acho que teremos de ^E5555Eencontrar Suad e convencê-lo^000000.\nNão sei se ele vai querer nos ver, mas...",
+        "es-ES": "[Maram]\n{0}, para poder entrar al pueblo parece que tendremos que reunirnos con ^E5555ESuad y convencerlo^000000.\nAunque no sé si querrá vernos……"
+    },
+    "+/8CDQ": {
+        "en-US": "[Maram]\nFor now, let’s wait until ^E5555ESuad^000000 comes.",
+        "pt-BR": "[Maram]\nPor enquanto, vamos esperar até ^E5555ESuad^000000 chegar",
+        "es-ES": "[Maram]\nDe momento esperemos hasta que venga ^E5555ESuad^000000"
+    },
+    "/P8CDQ": {
+        "en-US": "Foreign Merchant",
+        "pt-BR": "Comerciante Estrangeiro",
+        "es-ES": "Comerciante extranjero"
+    },
+    "/f8CDQ": {
+        "en-US": "- You cannot continue the conversation because you are carrying too many items or risk exceeding the maximum carrying limit.\nPlease organize your inventory and try again. -",
+        "pt-BR": "- Você está carregando itens demais ou corre o risco de exceder o limite de itens, por isso não é possível prosseguir com a conversa.\nOrganize o inventário e tente novamente. -",
+        "es-ES": "- No puede continuar la conversación porque lleva demasiados objetos o corre el riesgo de superar el límite máximo de objetos transportables.\nOrdene su inventario y vuelva a intentarlo. -"
+    },
+    "/v8CDQ": {
+        "en-US": "^4D4DFFThe people of Gray Wolf Village have accepted you as a member of the village.^000000\n^4D4DFFYou are now qualified to attend the Grand Council.^000000",
+        "pt-BR": "^4D4DFFAs pessoas de Aldeia do Lobo Cinzento aceitaram você como membro da aldeia.^000000\n^4D4DFFVocê agora tem qualificação para participar da grande assembleia.^000000",
+        "es-ES": "^4D4DFFLa gente de Pueblo del Lobo Gris le ha aceptado como miembro del pueblo.^000000\n^4D4DFFHa obtenido el derecho a asistir al gran consejo.^000000"
+    },
+    "//8CDQ": {
+        "en-US": "[Imril]\n<FONT SIZE = 14>Wow!</FONT>\nYou really got in?",
+        "pt-BR": "[Imril]\n<FONT SIZE = 14>Olha só!</FONT>\nVocê realmente entrou!",
+        "es-ES": "[Imril]\n<FONT SIZE = 14>¡Vaya!</FONT>\n¿De verdad has entrado?"
+    },
+    "AAADDQ": {
+        "en-US": "[Imril]\nI did pass along the message.\nBut to think that ^E5555ESuad^000000 would allow an outsider into the village!",
+        "pt-BR": "[Imril]\nEu passei a mensagem, mas\npensar que ^E5555ESuad^000000 permitiria a entrada de um forasteiro na aldeia!",
+        "es-ES": "[Imril]\nSí que transmití el mensaje, pero…\n¡Pensar que ^E5555ESuad^000000 permitiría la entrada de un forastero al pueblo!"
+    },
+    "AQADDQ": {
+        "en-US": "[Miriam]\nThat just means the village’s situation is that bad.",
+        "pt-BR": "[Miriam]\nIsso só mostra o quanto a situação da aldeia está ruim.",
+        "es-ES": "[Miriam]\nEso solo significa que la situación del pueblo es peor de lo que parece."
+    },
+    "AgADDQ": {
+        "en-US": "[Elly]\nIn an environment like this, even self-sufficiency is impossible.\nThe wood is as hard as stone.\nOr maybe it isn’t wood, but stone?",
+        "pt-BR": "[Elly]\nNum ambiente desses, seria impossível viver de autossuficiência.\nA madeira é dura como pedra.\nOu será que nem é madeira, mas pedra?",
+        "es-ES": "[Elly]\nEn un entorno así, hasta el autoabastecimiento parece imposible.\nLa madera es tan dura como la piedra.\nNo… ¿será que no es madera, sino piedra?"
+    },
+    "AwADDQ": {
+        "en-US": "[Maram]\nI think things will improve compared to now if we can receive even a little help from outside.",
+        "pt-BR": "[Maram]\nSe pudermos receber um pouco de ajuda externa, acho que a situação vai melhorar em relação a agora.",
+        "es-ES": "[Maram]\nCreo que la situación mejorará aunque sea un poco si logramos recibir algo de ayuda del exterior."
+    },
+    "BAADDQ": {
+        "en-US": "[Imril]\nThat would be nice.\nSuad didn’t say it, but they must have been worrying a lot too.",
+        "pt-BR": "[Imril]\nSeria bom se isso acontecesse.\nSuad também devia estar muito preocupado, mesmo sem dizer nada.",
+        "es-ES": "[Imril]\nOjalá sea así.\nPuede que Suad no lo dijera, pero seguro que también ha estado dándole muchas vueltas."
+    },
+    "BQADDQ": {
+        "en-US": "Because they have a strong sense of responsibility.",
+        "pt-BR": "Porque ele tem um forte senso de responsabilidade.",
+        "es-ES": "Porque es alguien con un fuerte sentido de la responsabilidad."
+    },
+    "BgADDQ": {
+        "en-US": "[Maram]\nAnd it seems that {0} helping with the purchase was effective!",
+        "pt-BR": "[Maram]\nE, pelo visto, o fato de {0} ter ajudado a comprar as mercadorias realmente fez diferença!",
+        "es-ES": "[Maram]\n¡Y parece que al final sí tuvo efecto que {0} me ayudara a comprar la mercancía!"
+    },
+    "BwADDQ": {
+        "en-US": "[Maram]\nThey said entry would only be allowed ^E5555Ewhen procuring supplies^000000, but once they realize {0} is ^E5555Esomeone trustworthy^000000, they’ll soften up more.",
+        "pt-BR": "[Maram]\nEle disse que ^E5555Esó permitiria a entrada para o fornecimento de suprimentos^000000, mas quando perceber que {0} é ^E5555Ealguém confiável^000000, vai baixar mais a guarda.",
+        "es-ES": "[Maram]\nPuede que digan que ^E5555Esolo te permitirán entrar para el abastecimiento^000000, pero en cuanto vean que {0} es ^E5555Ealguien de confianza^000000, seguro que se les ablanda un poco el corazón."
+    },
+    "CAADDQ": {
+        "en-US": "[Maram]\nThen shall we begin by ^E5555Etalking with the villagers^000000 first?",
+        "pt-BR": "[Maram]\nEntão, para começar, que tal ^E5555Econversarmos com o pessoal da aldeia^000000?",
+        "es-ES": "[Maram]\nEntonces, ¿empezamos primero por ^E5555Ehablar con la gente del pueblo^000000?"
+    },
+    "CQADDQ": {
+        "en-US": "[Maram]\nIf we listen to ^E5555Etheir stories^000000 and become close to them, we might find ^E5555Ea clue to the task Mother entrusted to us^000000.",
+        "pt-BR": "[Maram]\nSe ouvirmos ^E5555Eas histórias das pessoas^000000 e ficarmos mais próximos delas, talvez apareça ^E5555Euma pista para a tarefa que minha mãe confiou^000000.",
+        "es-ES": "[Maram]\nSi escuchamos ^E5555Elas historias de la gente^000000 y entablamos amistad con ellos, puede que encontremos ^E5555Euna pista sobre el encargo que dejó mi madre^000000."
+    },
+    "CgADDQ": {
+        "en-US": "[Imril]\nThanks to you, we were able to pass through ^E5555EOz Labyrinth^000000 safely.\nThank you.",
+        "pt-BR": "[Imril]\nGraças a você, conseguimos atravessar ^E5555ELabirinto de Oz^000000 em segurança.\nObrigado.",
+        "es-ES": "[Imril]\nGracias a ti pude atravesar ^E5555ELaberinto de Oz^000000 sin problemas.\nGracias."
+    },
+    "CwADDQ": {
+        "en-US": "[Imril]\nIn the past, as long as you were careful, traveling alone wasn’t a big problem, but these days it’s becoming harder and harder to go alone.",
+        "pt-BR": "[Imril]\nAntigamente, se tomássemos cuidado, andar sozinho não era grande problema, mas ultimamente está cada vez mais difícil andar só.",
+        "es-ES": "[Imril]\nAntes, si uno iba con cuidado, no había demasiado problema en moverse solo, pero últimamente cada vez es más difícil hacerlo."
+    },
+    "DAADDQ": {
+        "en-US": "[Imril]\nGiven our village’s situation right now, we can’t bring escorts every time, and traveling in groups is dangerous because it attracts attention.",
+        "pt-BR": "[Imril]\nCom a situação da nossa aldeia agora, não dá para levar escolta toda vez, e além disso andar em grupo chama atenção, o que é perigoso.",
+        "es-ES": "[Imril]\nCon la situación actual de nuestro pueblo no podemos llevar escolta cada vez y, además, moverse en grupo también es peligroso porque llama demasiado la atención."
+    },
+    "DQADDQ": {
+        "en-US": "[Imril]\nIt would be nice if we could investigate the deeper parts of ^B3DFFBOz Labyrinth^000000.\n<FONT SIZE = 14>The progress of the lava, for example…</FONT>\n<FONT SIZE = 16><B>Or the distribution of monsters…</FONT></B>",
+        "pt-BR": "[Imril]\nSeria bom se pudéssemos investigar as partes mais profundas de Labirinto de Oz.\n<FONT SIZE = 14>O avanço da lava...</FONT>\n<FONT SIZE = 16><B>A distribuição dos monstros...</FONT></B>",
+        "es-ES": "[Imril]\nOjalá pudiéramos investigar las zonas más profundas de Laberinto de Oz.\n<FONT SIZE = 14>El avance de la lava, por ejemplo…</FONT>\n<FONT SIZE = 16><B>o la distribución de los monstruos…</FONT></B>"
+    },
+    "DgADDQ": {
+        "en-US": "[Imril]\nHmm…\nAdventurer, since you’re strong, would you ^E5555Ecome with me to Oz Labyrinth^000000 when you have time?\nIt may be a shameless request, but it’s rare to meet someone as strong as you.",
+        "pt-BR": "[Imril]\nHum...\nViajante, como você é forte, não gostaria de ir comigo até ^E5555ELabirinto de Oz^000000 quando tiver tempo?\nTalvez seja um pedido abusado, mas não é comum ter a chance de encontrar alguém tão forte quanto você.",
+        "es-ES": "[Imril]\nHmm…\nComo eres fuerte, aventurero, ¿te importaría venir conmigo a ^E5555ELaberinto de Oz^000000 cuando tengas tiempo?\nSé que es una petición descarada, pero no es frecuente encontrar a alguien tan fuerte como tú."
+    },
+    "DwADDQ": {
+        "en-US": "Let’s go now!",
+        "pt-BR": "Vamos agora!",
+        "es-ES": "¡Partamos ahora mismo!"
+    },
+    "EAADDQ": {
+        "en-US": "Later…",
+        "pt-BR": "Mais tarde...",
+        "es-ES": "Más tarde…"
+    },
+    "EQADDQ": {
+        "en-US": "[Imril]\nWow!\nReally?\nI’m touched that you agreed so readily!",
+        "pt-BR": "[Imril]\nUau!\nSério?\nFico até emocionado por aceitar tão prontamente!",
+        "es-ES": "[Imril]\n¡Guau!\n¿De verdad?\n¿Aceptas así de fácil? ¡Hasta me emociona!"
+    },
+    "EgADDQ": {
+        "en-US": "[Imril]\nThen let’s meet first at ^E5555Ethe entrance to Oz Labyrinth^000000!\nYou remember the way, right?",
+        "pt-BR": "[Imril]\nEntão nos encontramos na ^E5555Eentrada de Labirinto de Oz^000000!\nLembra-se do caminho, não lembra?",
+        "es-ES": "[Imril]\nEntonces nos vemos en ^E5555Ela entrada de Laberinto de Oz^000000!\n¿Te acuerdas del camino, verdad?"
+    },
+    "EwADDQ": {
+        "en-US": "[Imril]\nRight!\nIf you’re busy now, it can’t be helped.",
+        "pt-BR": "[Imril]\nÉ!\nSe está sem tempo agora, não tem jeito.",
+        "es-ES": "[Imril]\n¡Claro!\nSi ahora estás ocupado, no se puede evitar."
+    },
+    "FAADDQ": {
+        "en-US": "[Imril]\nWhen you have time later, you’ll come with me, right?",
+        "pt-BR": "[Imril]\nEntão, quando tiver tempo, venha comigo, certo?",
+        "es-ES": "[Imril]\n¿Vendrás conmigo cuando tengas tiempo, verdad?"
+    },
+    "FQADDQ": {
+        "en-US": "[Imril]\nOw…\nMy skin stings.",
+        "pt-BR": "[Imril]\nAi...\nMinha pele está ardendo.",
+        "es-ES": "[Imril]\nAgh…\nMe escuece la piel."
+    },
+    "FgADDQ": {
+        "en-US": "[Suad]\nWell, what kind of idiot goes deep into the labyrinth dressed like that?\nBe grateful you didn’t get roasted alive!",
+        "pt-BR": "[Suad]\nMas também... que idiota vai vestido assim até as profundezas do labirinto?\nDê graças por não ter sido assado vivo!",
+        "es-ES": "[Suad]\nClaro, ¿a quién se le ocurre entrar vestido así hasta las profundidades del laberinto?\n¡Da gracias de no haber acabado asado!"
+    },
+    "FwADDQ": {
+        "en-US": "[Imril]\nYou always have to talk like that!",
+        "pt-BR": "[Imril]\nVocê também, viu?",
+        "es-ES": "[Imril]\n¡Siempre tienes que hablar así!"
+    },
+    "GAADDQ": {
+        "en-US": "[Imril]\nAnyway, the ^E5555Esituation in Oz Labyrinth is getting worse and worse^000000.\nThe ^E5555Elava area is rising too^000000.",
+        "pt-BR": "[Imril]\nEnfim, a situação em ^E5555ELabirinto de Oz está piorando a cada dia^000000.\n^E5555EA área de lava também está subindo cada vez mais^000000.",
+        "es-ES": "[Imril]\nEn cualquier caso, ^E5555Ela situación en Laberinto de Oz está empeorando cada vez más^000000.\nY ^E5555Ela zona de lava sigue extendiéndose^000000."
+    },
+    "GQADDQ": {
+        "en-US": "[Imril]\nAt this rate, it won’t be long before we can no longer pass through Oz Labyrinth at all.",
+        "pt-BR": "[Imril]\nSe continuar assim, logo não será mais possível atravessar Labirinto de Oz.",
+        "es-ES": "[Imril]\nComo siga así, no faltará mucho para que ya no se pueda pasar por Laberinto de Oz."
+    },
+    "GgADDQ": {
+        "en-US": "[Suad]\nIf the lava really has spread that far, then we will need countermeasures as soon as possible.",
+        "pt-BR": "[Suad]\nSe a lava realmente se espalhou até esse ponto, então precisamos de uma solução o quanto antes.",
+        "es-ES": "[Suad]\nDesde luego, si la lava se ha extendido hasta ese punto, tendremos que tomar medidas cuanto antes."
+    },
+    "GwADDQ": {
+        "en-US": "[Suad]\nFor now…\nIf we are going to send workers in, we’ll need to reduce the number of monsters in Oz Labyrinth first.",
+        "pt-BR": "[Suad]\nAntes de mais nada...\nSe vamos enviar pessoas para trabalhar lá, será preciso reduzir a quantidade de monstros no Labirinto de Oz.",
+        "es-ES": "[Suad]\nPor ahora…\nsi queremos enviar gente a trabajar, primero habrá que reducir la cantidad de monstruos que hay en Laberinto de Oz."
+    },
+    "HAADDQ": {
+        "en-US": "^4D4DFFA favorable evaluation of you has occurred.^000000",
+        "pt-BR": "^4D4DFFSua reputação na Aldeia do Lobo Cinzento aumentou.^000000",
+        "es-ES": "^4D4DFFSe ha generado una evaluación favorable sobre ti.^000000"
+    },
+    "HQADDQ": {
+        "en-US": "^8C8C8COz Labyrinth 1F[170](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em curso) Labirinto de Oz 1º andar^000000",
+        "es-ES": "^8C8C8CLaberinto de Oz (1)[170](En progreso)^000000"
+    },
+    "HgADDQ": {
+        "en-US": "^8C8C8COz Labyrinth 1F[170](Pending)^000000",
+        "pt-BR": "^8C8C8C(Em espera) Labirinto de Oz 1º andar^000000",
+        "es-ES": "^8C8C8CLaberinto de Oz (1)[170](En espera)^000000"
+    },
+    "HwADDQ": {
+        "en-US": "Oz Labyrinth 1F[170]",
+        "pt-BR": "[170] Labirinto de Oz 1º andar",
+        "es-ES": "Laberinto de Oz (1)[170]"
+    },
+    "IAADDQ": {
+        "en-US": "^8C8C8COz Labyrinth 2F[200](In Progress)^000000",
+        "pt-BR": "^8C8C8C(Em curso) Labirinto de Oz 2º andar^000000",
+        "es-ES": "^8C8C8CLaberinto de Oz (2)[200](En progreso)^000000"
+    },
+    "IQADDQ": {
+        "en-US": "^8C8C8COz Labyrinth 2F[200](Pending)^000000",
+        "pt-BR": "^8C8C8C(Em espera) Labirinto de Oz 2º andar^000000",
+        "es-ES": "^8C8C8CLaberinto de Oz (2)[200](En espera)^000000"
+    },
+    "IgADDQ": {
+        "en-US": "^8C8C8COz Labyrinth 2F[200](Level Too Low)^000000",
+        "pt-BR": "^8C8C8C(Nível baixo) Labirinto de Oz 2º andar^000000",
+        "es-ES": "^8C8C8CLaberinto de Oz (2)[200](Nivel insuficiente)^000000"
+    },
+    "IwADDQ": {
+        "en-US": "Oz Labyrinth 2F[200]",
+        "pt-BR": "[200] Labirinto de Oz 2º andar",
+        "es-ES": "Laberinto de Oz (2)[200]"
+    },
+    "JAADDQ": {
+        "en-US": "[Imril]\nWhether transporting goods or dealing with lava, the monsters are the obstacle.\nIt would be nice if there were a way to wipe them out.",
+        "pt-BR": "[Imril]\nSeja para transportar carga ou lidar com a lava, os monstros são o obstáculo.\nSeria ótimo se houvesse um jeito de acabar com eles de vez.",
+        "es-ES": "[Imril]\nTanto para mover la carga como para tratar la lava, los monstruos son un gran obstáculo.\nOjalá hubiera alguna forma de eliminarlos de una vez."
+    },
+    "JQADDQ": {
+        "en-US": "[Imril]\nWhat do you think, Adventurer?\nAre you interested in ^E5555Emonster subjugation^000000?",
+        "pt-BR": "[Imril]\nE então, viajante?\nTem interesse em ^E5555Ecaçar monstros^000000?",
+        "es-ES": "[Imril]\n¿Qué dices, aventurero?\n¿Te interesa ^E5555Ecazar monstruos^000000?"
+    },
+    "JgADDQ": {
+        "en-US": "[Imril]\nPlease defeat about ^E5555E20 Ash Toads in Oz Labyrinth 1F^000000.\nEven reducing the monster count a little would be a great help to the peddlers passing through the labyrinth.",
+        "pt-BR": "[Imril]\nDerrote cerca de ^E5555E20 Sapos Cinzentos^000000.\nMesmo uma pequena redução na quantidade de monstros já ajuda muito os mercadores ambulantes que atravessam o labirinto.",
+        "es-ES": "[Imril]\nElimina unos ^E5555E20 Sapo de ceniza en Laberinto de Oz (1)^000000.\nAunque solo disminuya un poco la cantidad de monstruos, eso ya será de gran ayuda para los mercaderes ambulantes que cruzan el laberinto."
+    },
+    "JwADDQ": {
+        "en-US": "[Imril]\nAlready done?\nYou really are dependable!",
+        "pt-BR": "[Imril]\nJá terminou?\nAh eu sabia, você é mesmo confiável!",
+        "es-ES": "[Imril]\n¿Ya has terminado?\n¡Como siempre, eres de lo más fiable!"
+    },
+    "KAADDQ": {
+        "en-US": "[Imril]\nYou worked hard today. Thank you.\nYou’ll help again tomorrow too, right?.",
+        "pt-BR": "[Imril]\nBom trabalho hoje. Obrigado.\nVai me ajudar amanhã também, não vai?.",
+        "es-ES": "[Imril]\nBuen trabajo por hoy. Gracias.\nMañana también me ayudarás, ¿verdad?."
+    },
+    "KQADDQ": {
+        "en-US": "Accept.",
+        "pt-BR": "Aceitar.",
+        "es-ES": "Acepta."
+    },
+    "KgADDQ": {
+        "en-US": "[Imril]\nThen be careful on your way~",
+        "pt-BR": "[Imril]\nEntão vá com cuidado~",
+        "es-ES": "[Imril]\nEntonces ten cuidado por ahí~"
+    },
+    "KwADDQ": {
+        "en-US": "[Imril]\nWhy~? Busy?",
+        "pt-BR": "[Imril]\nPor quê~? Está sem tempo?",
+        "es-ES": "[Imril]\n¿Por qué~? ¿Estás ocupado?"
+    },
+    "LAADDQ": {
+        "en-US": "[Imril]\nThis is still too dangerous for now, so how about trying again when you’re around ^FF0000Level 200^000000!?",
+        "pt-BR": "[Imril]\nAinda é perigoso demais, então que tal ^FF0000tentar de novo quando estiver por volta do nível 200^000000?!",
+        "es-ES": "[Imril]\nEsto sigue siendo demasiado peligroso, así que ¿qué te parece si lo vuelves a intentar cuando seas más o menos ^FF0000nivel 200^000000?!"
+    },
+    "LQADDQ": {
+        "en-US": "[Imril]\nPlease defeat about ^E5555E20 Hot Molars in Oz Labyrinth 2F^000000.\nEven reducing the monster count a little would be a great help to the peddlers passing through the labyrinth.",
+        "pt-BR": "[Imril]\nDerrote cerca de ^E5555E20 Molares de Fogo^000000.\nMesmo uma pequena redução na quantidade de monstros já ajuda muito os mercadores ambulantes que atravessam o labirinto.",
+        "es-ES": "[Imril]\nElimina unos ^E5555E20 Molares de Fuego en Laberinto de Oz (2)^000000.\nAunque solo disminuya un poco la cantidad de monstruos, eso ya será de gran ayuda para los mercaderes ambulantes que cruzan el laberinto."
+    },
+    "LgADDQ": {
+        "en-US": "[Imril]\nPhew… So hot!\nIt used to be a cool cave…\nNow it feels like I’d start sweating just standing still.",
+        "pt-BR": "[Imril]\nUrgh... que calor!\nAntes era uma caverna mais fresca...\nAgora, só de ficar parado já parece que o suor vai escorrer sem parar.",
+        "es-ES": "[Imril]\nUf… ¡Qué calor!\nAntes esto era una cueva fresca…\npero ahora parece que hasta quedándote quieto vas a acabar empapado en sudor."
+    },
+    "LwADDQ": {
+        "en-US": "[Imril]\nIf we stay too long, I think I’ll get dizzy, so let’s take a quick look around.\nFirst of all, this path is ^E5555Ea single road^000000, so just keep walking straight.",
+        "pt-BR": "[Imril]\nSe ficarmos muito tempo aqui, acho que vou ficar tonto, então vamos dar uma olhada rápido.\nPor enquanto, este caminho é ^E5555Ereto e sem desvios^000000, então é só seguir em frente.",
+        "es-ES": "[Imril]\nSi nos quedamos demasiado tiempo aquí, creo que acabaré mareándome, así que demos una vuelta rápido.\nDe momento, este camino es ^E5555Ede una sola dirección^000000, así que solo hay que seguir recto."
+    },
+    "MAADDQ": {
+        "en-US": "[Imril]\nSomeone left luggage behind.\nIf you encounter monsters or get too exhausted to carry things, people sometimes hide their luggage like this and move on.",
+        "pt-BR": "[Imril]\nAlguém deixou bagagem aqui.\nQuando encontram monstros ou ficam cansados demais para carregar tudo, às vezes escondem a carga assim e seguem em frente.",
+        "es-ES": "[Imril]\nAlguien dejó carga aquí.\nA veces, si se topan con monstruos o están demasiado agotados para seguir cargando con las cosas, esconden la mercancía así y continúan moviéndose."
+    },
+    "MQADDQ": {
+        "en-US": "[Imril]\nTransporting goods is important, but you only have one life.\nThis place is close to the entrance, so it’s easy to recover the luggage later.",
+        "pt-BR": "[Imril]\nTransportar as mercadorias é importante, mas a vida é uma só.\nComo isto fica perto da entrada, também é fácil recuperar depois.",
+        "es-ES": "[Imril]\nEs importante transportar la mercancía, pero la vida solo se tiene una vez.\nAdemás, esto está cerca de la entrada, así que luego será fácil recuperar la carga."
+    },
+    "MgADDQ": {
+        "en-US": "[Imril]\nThen let’s recover this luggage later and move on.",
+        "pt-BR": "[Imril]\nEntão vamos deixar esta bagagem para recuperar mais tarde e seguir em frente.",
+        "es-ES": "[Imril]\nEntonces dejemos esta carga para recogerla más tarde y sigamos adelante."
+    },
+    "MwADDQ": {
+        "en-US": "- A box has been left unattended. -",
+        "pt-BR": "- Há uma caixa abandonada. -",
+        "es-ES": "- Hay una caja abandonada. -"
+    },
+    "NAADDQ": {
+        "en-US": "Steep Path",
+        "pt-BR": "Caminho Íngreme",
+        "es-ES": "Camino escarpado"
+    },
+    "NQADDQ": {
+        "en-US": "[Imril]\nThe path is rough here, so be careful.\nIf you slip, your ankle won’t come out unharmed.",
+        "pt-BR": "[Imril]\nTenha cuidado, o caminho aqui é traiçoeiro.\nSe escorregar por descuido, seus tornozelos não vão sair ilesos.",
+        "es-ES": "[Imril]\nAquí el terreno es peligroso, así que ten cuidado.\nComo resbales, no saldrás con el tobillo intacto."
+    },
+    "NgADDQ": {
+        "en-US": "[Imril]\nLet’s go straight ^E5555Edown^000000 from here.",
+        "pt-BR": "[Imril]\nVamos ^E5555Epara baixo^000000 por aqui.",
+        "es-ES": "[Imril]\nDesde aquí bajemos todo recto ^E5555Ehacia abajo^000000."
+    },
+    "NwADDQ": {
+        "en-US": "Hole Releasing Steam",
+        "pt-BR": "Vapor",
+        "es-ES": "Agujero del que sale vapor"
+    },
+    "OAADDQ": {
+        "en-US": "[Imril]\nWah!\nHot!\nSteam is leaking out from the crack.",
+        "pt-BR": "[Imril]\nAi!\nEstá quente!\nTem vapor saindo da fenda.",
+        "es-ES": "[Imril]\n¡Uah!\n¡Quema!\nEstá saliendo vapor por las grietas."
+    },
+    "OQADDQ": {
+        "en-US": "[Imril]\nFortunately the ground still seems fine, but if steam is rising, that means deep underground has grown hotter, so before long lava may start leaking here as well.",
+        "pt-BR": "[Imril]\nFelizmente o chão ainda parece estável, mas se o vapor está subindo, isso prova que as profundezas da terra esquentaram. Talvez em breve a lava também comece a vazar por aqui.",
+        "es-ES": "[Imril]\nPor suerte parece que el suelo todavía aguanta, pero si sale vapor es señal de que las profundidades se están calentando, así que puede que no tarde mucho en empezar a filtrarse lava también por aquí."
+    },
+    "OgADDQ": {
+        "en-US": "[Imril]\nIt’s really bad that it’s started getting this hot even near the paths people usually take…",
+        "pt-BR": "[Imril]\nÉ realmente grave que já tenha começado a esquentar assim até perto do caminho mais usado...",
+        "es-ES": "[Imril]\nQue haya empezado a calentarse tanto incluso cerca del camino que solemos usar… esto sí que es grave…"
+    },
+    "OwADDQ": {
+        "en-US": "[???]\n<FONT SIZE = 16><B>Imril!!</FONT></B>",
+        "pt-BR": "[???]\n<FONT SIZE = 16><B>Imril!!</FONT></B>",
+        "es-ES": "[???]\n<FONT SIZE = 16><B>¡¡Imril!!</FONT></B>"
+    },
+    "PAADDQ": {
+        "en-US": "???",
+        "pt-BR": "???",
+        "es-ES": "???"
+    },
+    "PQADDQ": {
+        "en-US": "[Imril]\nAre you all right, Mr. Pols?",
+        "pt-BR": "[Imril]\nEstá bem, Sr. Pols?",
+        "es-ES": "[Imril]\n¿Se encuentra bien, señor Pols?"
+    },
+    "PgADDQ": {
+        "en-US": "[Pols]\nHaha…\nI was running from monsters and got hit by the hot steam.\nI let my guard down because it was a path I always take.",
+        "pt-BR": "[Pols]\nHaha...\nEu estava fugindo de um monstro e acabei pegando vapor quente.\nEra um caminho por onde sempre passava, então baixei a guarda.",
+        "es-ES": "[Pols]\nJa, ja…\nMientras huía de unos monstruos me alcanzó el vapor caliente.\nComo siempre paso por este camino, bajé la guardia."
+    },
+    "PwADDQ": {
+        "en-US": "[Pols]\nI’m not even sure where I dropped my luggage.\nGetting injured and losing my luggage too… how miserable…",
+        "pt-BR": "[Pols]\nTambém nem sei onde deixei cair a carga.\nQue miséria... me machuquei e ainda perdi a bagagem...",
+        "es-ES": "[Pols]\nNi siquiera sé dónde dejé caer la carga.\nQué miserable… salgo herido y encima pierdo la mercancía…"
+    },
+    "QAADDQ": {
+        "en-US": "[Imril]\nYour life is more important than luggage, so please don’t say that.",
+        "pt-BR": "[Imril]\nA vida é mais importante do que a carga, então não diga uma coisa dessas.",
+        "es-ES": "[Imril]\nNo diga eso, la vida es más importante que la carga."
+    },
+    "QQADDQ": {
+        "en-US": "[Pols]\nYou’re right.\nThank you.",
+        "pt-BR": "[Pols]\nÉ.\nObrigado.",
+        "es-ES": "[Pols]\nSí.\nGracias."
+    },
+    "QgADDQ": {
+        "en-US": "[Imril]\nI brought some potions, so drink this and head back to the village first.\nWe can find the luggage later.",
+        "pt-BR": "[Imril]\nEu trouxe uma poção, então beba isto e volte primeiro para a aldeia.\nA carga pode ser encontrada depois.",
+        "es-ES": "[Imril]\nHe traído una poción, así que bébase esto y vuelva primero al pueblo.\nLa carga ya la buscaremos después."
+    },
+    "QwADDQ": {
+        "en-US": "[Pols]\nNo, keep it!\nI can’t waste the village’s ^E5555Eprecious supplies^000000 like this.",
+        "pt-BR": "[Pols]\nNão, guarde isso!\nNão posso desperdiçar assim os ^E5555Evaliosos suprimentos^000000 da aldeia.",
+        "es-ES": "[Pols]\n¡No, guárdala!\nNo podemos malgastar así ^E5555Elos valiosos suministros^000000 del pueblo."
+    },
+    "RAADDQ": {
+        "en-US": "[Pols]\nI’ll just rest a bit and go back to the village to apply ointment.",
+        "pt-BR": "[Pols]\nVou só descansar um pouco e depois voltar para a aldeia para passar pomada.",
+        "es-ES": "[Pols]\nDescansaré un momento y volveré al pueblo para ponerme ungüento."
+    },
+    "RQADDQ": {
+        "en-US": "[Pols]\nStill, I don’t want to get hit by monsters while recovering, so could you ^E5555Eclear out at least the nearby monsters^000000?",
+        "pt-BR": "[Pols]\nMas eu também não quero ser atacado por monstros enquanto me recupero, então você poderia ao menos ^E5555Ese livrar dos monstros que estão por perto^000000?",
+        "es-ES": "[Pols]\nAun así, no me gustaría ponerme a recuperarme para que me golpeen unos monstruos, así que ¿podrías ^E5555Edespejar al menos los monstruos que haya por los alrededores^000000?"
+    },
+    "RgADDQ": {
+        "en-US": "[Pols]\nPhew~\nThank you!\nI think I can move a little now.",
+        "pt-BR": "[Pols]\nUfa~\nObrigado!\nAgora já consigo me mover um pouco melhor.",
+        "es-ES": "[Pols]\nUf~\n¡Gracias!\nAhora ya me siento capaz de moverme un poco."
+    },
+    "RwADDQ": {
+        "en-US": "[Pols]\nThen I’ll start heading back to the village now.\nInvestigating the labyrinth is fine, but be careful.",
+        "pt-BR": "[Pols]\nEntão eu já vou voltando aos poucos para a aldeia.\nInvestigar o labirinto é bom, mas tomem cuidado.",
+        "es-ES": "[Pols]\nEntonces yo iré volviendo ya al pueblo.\nEstá bien investigar el laberinto, pero tened cuidado."
+    },
+    "SAADDQ": {
+        "en-US": "[Imril]\nAll right.\nPlease be careful too, Mr. Pols.",
+        "pt-BR": "[Imril]\nTudo bem.\nO senhor também se cuide, Sr. Pols.",
+        "es-ES": "[Imril]\nEntendido.\nUsted también tenga cuidado, señor Pols."
+    },
+    "SQADDQ": {
+        "en-US": "[Imril]\nHmm…\nAs expected, not only the monsters, but also steam erupting here and there is a major problem.",
+        "pt-BR": "[Imril]\nHum...\nComo eu pensava, não são só os monstros; o vapor saindo por todos os lados também é um grande problema.",
+        "es-ES": "[Imril]\nHmm…\nDesde luego, no solo los monstruos; también es un gran problema que el vapor esté saliendo por todas partes."
+    },
+    "SgADDQ": {
+        "en-US": "[Imril]\nPeddlers rarely have reason to go farther down, but if they get chased by monsters, they can take the wrong path…",
+        "pt-BR": "[Imril]\nOs comerciantes ambulantes quase nunca precisam descer mais do que isso, mas quando estão fugindo de monstros, às vezes acabam pegando o caminho errado...",
+        "es-ES": "[Imril]\nLos mercaderes ambulantes rara vez tienen que bajar tanto, pero si los persiguen monstruos pueden equivocarse de camino…"
+    },
+    "SwADDQ": {
+        "en-US": "[Imril]\nFor now, let’s ^E5555Ego down a little farther^000000.",
+        "pt-BR": "[Imril]\nPor enquanto, vamos ^E5555Edescer um pouco mais^000000.",
+        "es-ES": "[Imril]\nDe momento bajemos ^E5555Eun poco más^000000."
+    },
+    "TAADDQ": {
+        "en-US": "[Pols]\nI’m going back to the village soon.\nI really am going!!",
+        "pt-BR": "[Pols]\nVou voltar logo para a aldeia.\nEstou falando sério, vou mesmo!!",
+        "es-ES": "[False]\nYa vuelvo al pueblo enseguida.\n¡Que sí, que me voy de verdad!!"
+    },
+    "TQADDQ": {
+        "en-US": "[Imril]\nThere’s luggage here too…\nIs this the luggage Mr. Pols lost?",
+        "pt-BR": "[Imril]\nTem carga aqui também...\nSerá a bagagem que o Sr. Pols perdeu?",
+        "es-ES": "[Imril]\nAquí también hay carga…\n¿Será la que perdió el señor Pols?"
+    },
+    "TgADDQ": {
+        "en-US": "[Imril]\nI’ll just remember the location for now and recover it later.\nWe still need to check ^E5555Efarther below^000000.\nThis way…",
+        "pt-BR": "[Imril]\nPor enquanto, vou só guardar a localização e recuperar depois.\nAinda precisamos verificar mais ^E5555Eabaixo^000000.\nPor aqui...",
+        "es-ES": "[Imril]\nDe momento recordaré la ubicación y ya la recogeremos después.\nTodavía tenemos que comprobar más cosas ^E5555Eahí abajo^000000.\nPor aquí…"
+    },
+    "TwADDQ": {
+        "en-US": "[Imril]\nUgh…\nThe heat is already no joke.\nIt’s even more dangerous farther down, so be really careful.",
+        "pt-BR": "[Imril]\nUgh...\nO calor já está insuportável.\nLá embaixo é ainda mais perigoso, então precisamos ter muito cuidado.",
+        "es-ES": "[Imril]\nUgh…\nYa desde aquí el calor es insoportable.\nMás abajo es todavía más peligroso, así que de verdad hay que ir con mucho cuidado."
+    },
+    "UAADDQ": {
+        "en-US": "[Imril]\nHonestly, unless someone is as strong as you, Adventurer, coming this far is basically a death sentence.",
+        "pt-BR": "[Imril]\nNa verdade, se não fosse alguém forte como você, viajante, quem chegasse até aqui já estaria praticamente morto.",
+        "es-ES": "[Imril]\nLa verdad es que, si uno no es tan fuerte como tú, aventurero, llegar hasta aquí es prácticamente lo mismo que estar muerto."
+    },
+    "UQADDQ": {
+        "en-US": "[Imril]\nI’m only going down because I came with you, Adventurer.",
+        "pt-BR": "[Imril]\nEu também só estou descendo porque vim com você, viajante.",
+        "es-ES": "[Imril]\nYo también he bajado solo porque vengo contigo, aventurero."
+    },
+    "UgADDQ": {
+        "en-US": "[Imril]\nWe’ve only come a little farther down the path, but it feels like ^E5555Ethe monsters have changed form a little too^000000.\nAt this point, it might be dangerous even for you, Adventurer.",
+        "pt-BR": "[Imril]\nSó por termos descido um pouco mais, parece que ^E5555Eaté o tipo dos monstros mudou um pouco^000000.\nNesse nível, isso pode ficar perigoso até para você, viajante.",
+        "es-ES": "[Imril]\nSolo hemos bajado un poco más por el camino, pero parece que ^E5555Ela forma de los monstruos también cambia un poco^000000.\nA este nivel, hasta para ti, aventurero, puede ser peligroso."
+    },
+    "UwADDQ": {
+        "en-US": "[Imril]\nThis place is too dangerous, so let’s just look around a little more nearby and then return to the village.",
+        "pt-BR": "[Imril]\nAqui é perigoso demais, então vamos olhar só mais um pouco por perto e voltar para a aldeia.",
+        "es-ES": "[Imril]\nEsto es demasiado peligroso, así que echemos un vistazo rápido por los alrededores y volvamos al pueblo."
+    },
+    "VAADDQ": {
+        "en-US": "Old Man",
+        "pt-BR": "Velho",
+        "es-ES": "Anciano"
+    },
+    "VQADDQ": {
+        "en-US": "[Old Man]\nThe heat is downright burn~ing~",
+        "pt-BR": "[Velho]\nO calor está de rachar~",
+        "es-ES": "[Anciano]\nEl calor está de lo más a~bo~cha~rnan~te~"
+    },
+    "VgADDQ": {
+        "en-US": "[Imril]\n<FONT SIZE = 14><B>Old man!!!!</FONT></B>\nYou’re safe!!!",
+        "pt-BR": "[Imril]\n<FONT SIZE = 14><B>Vovô!!!!</FONT></B>\nO senhor está bem?!",
+        "es-ES": "[Imril]\n<FONT SIZE = 14><B>¡¡¡¡Abuelo!!!!</FONT></B>\n¡¡¡Está a salvo!!!"
+    },
+    "VwADDQ": {
+        "en-US": "[Old Man]\nWell now.\nWho do we have here.\nIsn’t that Imril.\nWhy did you come to such a dangerous place!",
+        "pt-BR": "[Vovô]\nOra.\nMas vejam só quem é.\nNão é o Imril?\nPor que veio a um lugar tão perigoso?!",
+        "es-ES": "[Abuelo]\nVaya.\nPero si eres tú.\nImril.\n¡¿Qué haces en un sitio tan peligroso?!"
+    },
+    "WAADDQ": {
+        "en-US": "[Imril]\nNo, why are you here, old man?",
+        "pt-BR": "[Imril]\nPor que o senhor está aqui, Vovô?",
+        "es-ES": "[Imril]\n¡Pero abuelo, más bien debería preguntarle yo qué hace usted aquí!"
+    },
+    "WQADDQ": {
+        "en-US": "[Old Man, Keeper of the Maze]\nWhere else would the Keeper of the Maze be, if not in the maze.",
+        "pt-BR": "[Velho Guardião do Labirinto]\nUé, se o guardião do labirinto não estiver no labirinto, onde mais estaria?",
+        "es-ES": "[Viejo Guardián del Laberinto]\nPues si soy el guardián del laberinto, ¿dónde voy a estar si no es en el laberinto?"
+    },
+    "WgADDQ": {
+        "en-US": "[Imril]\nBut the monsters here are far too dangerous…",
+        "pt-BR": "[Imril]\nMas os monstros aqui são perigosíssimos e...",
+        "es-ES": "[Imril]\nPero aquí los monstruos son demasiado peligrosos y…"
+    },
+    "WwADDQ": {
+        "en-US": "[Old Man, Keeper of the Maze]\nWell, I’m not always here, so don’t worry.\nThe monsters have been making too much of a ruckus lately, so I just came down to see whether anyone had fallen into danger.",
+        "pt-BR": "[Velho Guardião do Labirinto]\nOra, não fico sempre aqui, então não se preocupe.\nUltimamente esses monstros andam fazendo barulho demais, então desci para ver se alguém estava em perigo.",
+        "es-ES": "[Viejo Guardián del Laberinto]\nBueno, no es que esté siempre aquí, así que no te preocupes.\nÚltimamente esos monstruos están demasiado alborotados y he bajado por si había alguien en peligro."
+    },
+    "XAADDQ": {
+        "en-US": "[Old Man, Keeper of the Maze]\nTell ^E5555ESuad^000000 that the lava has risen this far, and below this point the ground has already melted a great deal, making it even more dangerous, so do not go farther down.",
+        "pt-BR": "[Velho Guardião do Labirinto]\nAvise o ^E5555ESuad^000000 que a lava já chegou até aqui, e diga que mais abaixo o chão já derreteu bastante e ficou ainda mais perigoso, então não desçam.",
+        "es-ES": "[Viejo Guardián del Laberinto]\nVe y dile a ^E5555ESuad^000000 que la lava ya ha llegado hasta aquí, y no bajes más, porque por debajo de este punto el suelo ya se ha derretido mucho y se ha vuelto todavía más peligroso."
+    },
+    "XQADDQ": {
+        "en-US": "[Old Man, Keeper of the Maze]\nMaybe the adventurer beside you could handle it, but it’s far too dangerous for you.",
+        "pt-BR": "[Velho Guardião do Labirinto]\nTalvez o viajante ao seu lado consiga, mas para você é perigoso demais.",
+        "es-ES": "[Viejo Guardián del Laberinto]\nA menos que seas ese aventurero de tu lado, para ti es demasiado peligroso."
+    },
+    "XgADDQ": {
+        "en-US": "[Imril]\nUnderstood.\nPlease be careful too, old man.\nCome back to the village soon.",
+        "pt-BR": "[Imril]\nEntendi.\nO senhor também se cuide.\nE volte logo para a aldeia.",
+        "es-ES": "[Imril]\nEntendido.\nAbuelo, usted también tenga cuidado.\nY vuelva pronto al pueblo."
+    },
+    "XwADDQ": {
+        "en-US": "[Old Man, Keeper of the Maze]\nHey now~\nIf the Keeper of the Maze isn’t in the maze, who’s going to manage it!",
+        "pt-BR": "[Velho Guardião do Labirinto]\nOra essa~\nSe o guardião do labirinto não estiver no labirinto, quem vai cuidar dele?!",
+        "es-ES": "[Viejo Guardián del Laberinto]\n¡Bah~\nSi el guardián del laberinto no está en el laberinto, entonces quién va a ocuparse de él!"
+    },
+    "YAADDQ": {
+        "en-US": "[Imril]\nSo stubborn, honestly…",
+        "pt-BR": "[Imril]\nEnfim, que teimosia...",
+        "es-ES": "[Imril]\nEn fin, qué terquedad…"
+    },
+    "YQADDQ": {
+        "en-US": "[Imril]\nAnyway, as the old man said, I don’t think I can endure going any farther down, so let’s go back to ^E5555Ethe village^000000.\nIt already feels like my skin is cooking.",
+        "pt-BR": "[Imril]\nComo o Vovô disse, acho que eu não vou aguentar descer mais, então vamos voltar ^E5555Epara a aldeia^000000.\nAté agora parece que minha pele já vai cozinhar.",
+        "es-ES": "[Imril]\nComo ha dicho el abuelo, creo que no podré resistir si bajamos más, así que volvamos ^E5555Eal pueblo^000000.\nAhora mismo ya noto como si la piel se me estuviera asando."
+    },
+    "YgADDQ": {
+        "en-US": "[Old Man, Keeper of the Maze]\nGoodness,\nI hope no one loses their way in the maze.",
+        "pt-BR": "[Velho Guardião do Labirinto]\nAi, ai...\nEspero que ninguém se perca no labirinto.",
+        "es-ES": "[Viejo Guardián del Laberinto]\nAy, ay…\nEspero que no haya nadie que se pierda dentro del laberinto."
+    },
+    "YwADDQ": {
+        "en-US": "Party Name:{0}\nParty Leader:{1}\n^0000FF{2} ^000000- Reservation Failed",
+        "pt-BR": "Nome do Grupo:{0}\nLíder do Grupo:{1}\n^0000FF{2} ^000000- Falha na Reserva",
+        "es-ES": "Nombre del Grupo:{0}\nLíder del Grupo:{1}\n^0000FF{2} ^000000- Falla en la Reserva"
+    },
+    "ZAADDQ": {
+        "en-US": "Member {1} of party {0} enters {2}.",
+        "pt-BR": "O membro {1} do grupo {0} entrou em {2}.",
+        "es-ES": "El miembro {1} del grupo {0} ha entrado a {2}."
+    }
+}

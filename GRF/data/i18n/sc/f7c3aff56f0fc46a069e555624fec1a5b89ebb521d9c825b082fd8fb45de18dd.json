@@ -1,0 +1,452 @@
+{
+    "4LctDQ": {
+        "en-US": "Long Rope",
+        "pt-BR": "Corda",
+        "es-ES": "Cuerda larga"
+    },
+    "4bctDQ": {
+        "en-US": "It seems you can use Long Rope to climb up.",
+        "pt-BR": "Parece que é possível subir usando a corda.",
+        "es-ES": "Parece que se puede subir usando Cuerda larga."
+    },
+    "4rctDQ": {
+        "en-US": "Use Long Rope to climb up.",
+        "pt-BR": "Subir usando Corda.",
+        "es-ES": "Subir usando Cuerda larga."
+    },
+    "47ctDQ": {
+        "en-US": "Do not use.",
+        "pt-BR": "Não usar.",
+        "es-ES": "No usar."
+    },
+    "5LctDQ": {
+        "en-US": "Miriam",
+        "pt-BR": "Miriam",
+        "es-ES": "Miriam"
+    },
+    "5bctDQ": {
+        "en-US": "Miriam : This is the entrance to Oz Labyrinth.",
+        "pt-BR": "Miriam : Aqui é a entrada do Labirinto de Oz.",
+        "es-ES": "Miriam : Este es el acceso a Laberinto de Oz."
+    },
+    "5rctDQ": {
+        "en-US": "Miriam : Please proceed carefully, everyone.",
+        "pt-BR": "Miriam : Todos, movam-se com cuidado.",
+        "es-ES": "Miriam : Por favor, muévanse todos con precaución."
+    },
+    "57ctDQ": {
+        "en-US": "Magi : Cough cough… something hot and full of dust…",
+        "pt-BR": "Magi : Cof cof… está quente e cheio de poeira……",
+        "es-ES": "Magi : Cof, cof… algo caliente y lleno de polvo…"
+    },
+    "6LctDQ": {
+        "en-US": "Mark : Are you alright?",
+        "pt-BR": "Mark : Você está bem?",
+        "es-ES": "Mark : ¿Estás bien?"
+    },
+    "6bctDQ": {
+        "en-US": "Miriam : Lava is flowing right below, so ash is constantly scattering.",
+        "pt-BR": "Miriam : Logo abaixo flui lava, então cinzas estão sempre sendo espalhadas.",
+        "es-ES": "Miriam : Justo debajo fluye lava, por lo que la ceniza siempre está dispersándose."
+    },
+    "6rctDQ": {
+        "en-US": "Miriam : There may still be embers in the volcanic ash, so please be careful.",
+        "pt-BR": "Miriam : Pode haver brasas nas cinzas vulcânicas, então tenham cuidado.",
+        "es-ES": "Miriam : Podría quedar alguna brasa en la ceniza volcánica, así que tengan cuidado."
+    },
+    "67ctDQ": {
+        "en-US": "Miriam : If you inhale it incorrectly, it will burn your lungs.",
+        "pt-BR": "Miriam : Se inalarem por engano, podem sofrer queimaduras nos pulmões.",
+        "es-ES": "Miriam : Si la inhalan por error, podrían sufrir quemaduras en los pulmones."
+    },
+    "7LctDQ": {
+        "en-US": "Miriam : There do not seem to be any monsters nearby, so it would be best to move slowly and assess the situation again.",
+        "pt-BR": "Miriam : Não parece haver monstros por aqui, então é melhor avançarmos devagar e observarmos a situação novamente.",
+        "es-ES": "Miriam : Parece que no hay monstruos cerca, así que será mejor avanzar despacio y evaluar la situación nuevamente."
+    },
+    "7bctDQ": {
+        "en-US": "Miriam : For now, please follow the path leading north.",
+        "pt-BR": "Miriam : Por enquanto, sigam pelo caminho ao norte.",
+        "es-ES": "Miriam : Por ahora, síganme por el camino que conduce hacia el norte."
+    },
+    "7rctDQ": {
+        "en-US": "[Miriam]\nIt seems you are not meant to be here.\nI will send you outside.",
+        "pt-BR": "[Miriam]\nParece que você não deveria estar aqui.\nVou levá-lo para fora.",
+        "es-ES": "[Miriam]\nNo parece que deba estar aquí.\nLe haré salir al exterior."
+    },
+    "77ctDQ": {
+        "en-US": "Magi",
+        "pt-BR": "Magi",
+        "es-ES": "Magi"
+    },
+    "8LctDQ": {
+        "en-US": "Mark",
+        "pt-BR": "Mark",
+        "es-ES": "Mark"
+    },
+    "8bctDQ": {
+        "en-US": "Tamarin",
+        "pt-BR": "Tamarin",
+        "es-ES": "Tamarin"
+    },
+    "8rctDQ": {
+        "en-US": "Miriam : If you cross the bridge ahead, it is the real Oz Labyrinth.",
+        "pt-BR": "Miriam : Se atravessarmos a ponte logo à frente, será o verdadeiro Labirinto de Oz.",
+        "es-ES": "Miriam : Si cruzan el puente que ven adelante, estarán en el verdadero Laberinto de Oz."
+    },
+    "87ctDQ": {
+        "en-US": "Miriam : Crossing the bridge requires special caution, so let us talk again in front of the bridge.",
+        "pt-BR": "Miriam : Atravessar a ponte é perigoso, então vamos conversar novamente diante dela.",
+        "es-ES": "Miriam : Cruzar el puente requiere especial cuidado, así que hablemos de nuevo antes de cruzarlo."
+    },
+    "9LctDQ": {
+        "en-US": "Miriam",
+        "pt-BR": "Miriam",
+        "es-ES": "Miriam"
+    },
+    "9bctDQ": {
+        "en-US": "Miriam : This bridge is dangerous, so it would be best to divide the load and cross one by one.",
+        "pt-BR": "Miriam : Esta ponte é perigosa, então é melhor dividir a carga e atravessar um por um.",
+        "es-ES": "Miriam : Este puente es peligroso, así que es mejor repartir la carga y cruzar por turnos."
+    },
+    "9rctDQ": {
+        "en-US": "Miriam : Then I will cross first, so please follow slowly. It will help if you do not look down.",
+        "pt-BR": "Miriam : Eu vou primeiro, então venham devagar atrás de mim. Será melhor não olhar para baixo.",
+        "es-ES": "Miriam : Entonces cruzaré primero, síganme despacio. Será mejor no mirar hacia abajo."
+    },
+    "97ctDQ": {
+        "en-US": "Tamarin : Wow… I cannot see the ground.",
+        "pt-BR": "Tamarin : Uau… não dá para ver o fundo.",
+        "es-ES": "Tamarin : Vaya… no se ve el fondo."
+    },
+    "+LctDQ": {
+        "en-US": "Magi : The bridge looks very old…",
+        "pt-BR": "Magi : A ponte parece muito velha…",
+        "es-ES": "Magi : Parece que el puente está muy deteriorado…"
+    },
+    "+bctDQ": {
+        "en-US": "Mark : Everyone, be careful.",
+        "pt-BR": "Mark : Todos, cuidado.",
+        "es-ES": "Mark : Tengan cuidado todos."
+    },
+    "+rctDQ": {
+        "en-US": "Jatooad",
+        "pt-BR": "Sapo",
+        "es-ES": "Sapo de ceniza"
+    },
+    "+7ctDQ": {
+        "en-US": "Miriam : Ah!! A monster!!!",
+        "pt-BR": "Miriam : Ah!! Um monstro!!!",
+        "es-ES": "Miriam : ¡Ah!! ¡Un monstruo!!!"
+    },
+    "/LctDQ": {
+        "en-US": "Miriam : I will take care of this rude one.",
+        "pt-BR": "Miriam : Eu cuidarei desse insolente.",
+        "es-ES": "Miriam : Yo me encargaré de este insolente."
+    },
+    "/bctDQ": {
+        "en-US": "Tamarin : They appeared behind us too!!!",
+        "pt-BR": "Tamarin : Também apareceu atrás!!!",
+        "es-ES": "Tamarin : ¡¡¡También han aparecido detrás!!!"
+    },
+    "/rctDQ": {
+        "en-US": "Magi : Aah!!!",
+        "pt-BR": "Magi : Aaah!!!",
+        "es-ES": "Magi : ¡¡¡Aaah!!!"
+    },
+    "/7ctDQ": {
+        "en-US": "Mark : Please support the front!!!",
+        "pt-BR": "Mark : Preciso de apoio na frente!!!",
+        "es-ES": "Mark : ¡¡¡Apoyo al frente, por favor!!!"
+    },
+    "ALgtDQ": {
+        "en-US": "Jatooad",
+        "pt-BR": "Sapo",
+        "es-ES": "Sapo de ceniza"
+    },
+    "AbgtDQ": {
+        "en-US": "Tamarin : We took it down!!!",
+        "pt-BR": "Tamarin : Derrotamos!!!",
+        "es-ES": "Tamarin : ¡¡¡Lo derrotamos!!!"
+    },
+    "ArgtDQ": {
+        "en-US": "Magi : This side too!!",
+        "pt-BR": "Magi : Aqui também!!",
+        "es-ES": "Magi : ¡¡Aquí también!!"
+    },
+    "A7gtDQ": {
+        "en-US": "Miriam : Phew… it was not a formidable monster, but it would have been dangerous for ordinary merchants.",
+        "pt-BR": "Miriam : Ufa… não eram monstros tão fortes, mas para comerciantes comuns teria sido perigoso.",
+        "es-ES": "Miriam : Uf… no era un monstruo especialmente fuerte, pero para comerciantes comunes habría sido peligroso."
+    },
+    "BLgtDQ": {
+        "en-US": "Maram : {0}, are you alright?",
+        "pt-BR": "Maram : {0}, você está bem?",
+        "es-ES": "Maram : {0}, ¿estás bien?"
+    },
+    "BbgtDQ": {
+        "en-US": "Miriam : You are late! Maram!!!",
+        "pt-BR": "Miriam : Você demorou! Maram!!!",
+        "es-ES": "Miriam : ¡Llegas tarde, Maram!!!"
+    },
+    "BrgtDQ": {
+        "en-US": "Maram : I encountered a monster on the way, so I was a bit late.",
+        "pt-BR": "Maram : Encontrei monstros no caminho, então me atrasei um pouco.",
+        "es-ES": "Maram : Me encontré con un monstruo en el camino y me retrasé un poco."
+    },
+    "B7gtDQ": {
+        "en-US": "Miriam : There were no monsters on the path we passed earlier.",
+        "pt-BR": "Miriam : Mas no caminho que passamos antes não havia monstros.",
+        "es-ES": "Miriam : Antes no había monstruos en el camino por el que pasamos."
+    },
+    "CLgtDQ": {
+        "en-US": "Maram : Really? Where on earth are all these monsters coming from…",
+        "pt-BR": "Maram : Sério? De onde estão surgindo tantos monstros…",
+        "es-ES": "Maram : ¿Sí? ¿De dónde están saliendo tantos monstruos…?"
+    },
+    "CbgtDQ": {
+        "en-US": "Maram : Because of these monsters, transporting supplies is becoming increasingly difficult, which is a big problem.",
+        "pt-BR": "Maram : Por causa desses monstros, o transporte de suprimentos está ficando cada vez mais difícil.",
+        "es-ES": "Maram : Por culpa de estos monstruos, el transporte de suministros se está volviendo cada vez más difícil."
+    },
+    "CrgtDQ": {
+        "en-US": "Tamarin : What if we travel above ground?",
+        "pt-BR": "Tamarin : E se usarmos a superfície?",
+        "es-ES": "Tamarin : ¿Y si se va por la superficie?"
+    },
+    "C7gtDQ": {
+        "en-US": "Tamarin : I heard there used to be a bridge to pass through the canyon?",
+        "pt-BR": "Tamarin : Ouvi dizer que antes havia uma ponte que atravessava o desfiladeiro.",
+        "es-ES": "Tamarin : Escuché que antes había un puente para cruzar el cañón."
+    },
+    "DLgtDQ": {
+        "en-US": "Tamarin : There are still some remains left even now…",
+        "pt-BR": "Tamarin : Ainda restam vestígios dela…",
+        "es-ES": "Tamarin : Aún quedan restos…"
+    },
+    "DbgtDQ": {
+        "en-US": "Maram : It is said the bridge above was destroyed after seeing the natives fleeing from hardliners crossing it.",
+        "pt-BR": "Maram : Dizem que a ponte de cima foi destruída depois que viram os nativos fugindo dos ataques dos radicais por ela.",
+        "es-ES": "Maram : Dicen que el puente de arriba fue destruido después de que vieran a los nativos huir cruzándolo para escapar de los radicales."
+    },
+    "DrgtDQ": {
+        "en-US": "Maram : The land beyond the bridge became uninhabitable due to volcanic ash, so they likely intended to let them die trapped.",
+        "pt-BR": "Maram : Do outro lado da ponte virou uma terra onde ninguém pode viver por causa das cinzas vulcânicas, então provavelmente queriam deixá-los morrer.",
+        "es-ES": "Maram : Al otro lado del puente la tierra se volvió inhabitable por la ceniza volcánica, así que probablemente intentaban dejarlos morir."
+    },
+    "D7gtDQ": {
+        "en-US": "Maram : Rebuilding the bridge is not difficult, but…",
+        "pt-BR": "Maram : Não é difícil construir a ponte novamente, mas…",
+        "es-ES": "Maram : Reconstruir el puente no es difícil, pero…"
+    },
+    "ELgtDQ": {
+        "en-US": "Maram : Since we are in hiding, we cannot advertise our presence here by building something like a bridge.",
+        "pt-BR": "Maram : Como estamos escondidos, não podemos anunciar nossa presença construindo uma ponte.",
+        "es-ES": "Maram : Como estamos escondidos, no podemos anunciar nuestra ubicación construyendo algo como un puente."
+    },
+    "EbgtDQ": {
+        "en-US": "Maram : For now, it is dangerous and inconvenient, but we have no choice but to use Oz Labyrinth.",
+        "pt-BR": "Maram : Por enquanto, apesar de perigoso e inconveniente, não temos escolha senão usar o Labirinto de Oz.",
+        "es-ES": "Maram : Por ahora es peligroso e incómodo, pero no tenemos más opción que usar Laberinto de Oz."
+    },
+    "ErgtDQ": {
+        "en-US": "Maram : It may be the reason we have not been discovered until now.",
+        "pt-BR": "Maram : Talvez seja por isso que ainda não fomos descobertos.",
+        "es-ES": "Maram : Puede que por eso no hayamos sido descubiertos hasta ahora."
+    },
+    "E7gtDQ": {
+        "en-US": "Miriam : If not for Oz Labyrinth…",
+        "pt-BR": "Miriam : Se não fosse o Labirinto de Oz…",
+        "es-ES": "Miriam : Sin Laberinto de Oz…"
+    },
+    "FLgtDQ": {
+        "en-US": "Miriam : It would have been much harder than it is now.",
+        "pt-BR": "Miriam : Estaríamos em uma situação muito pior.",
+        "es-ES": "Miriam : habría sido mucho más difícil que ahora."
+    },
+    "FbgtDQ": {
+        "en-US": "Maram : That is right.",
+        "pt-BR": "Maram : Exato.",
+        "es-ES": "Maram : Exacto."
+    },
+    "FrgtDQ": {
+        "en-US": "Maram : Now then~ shall we walk our lovely Oz Labyrinth path again?",
+        "pt-BR": "Maram : Então~ vamos voltar a percorrer nosso querido Labirinto de Oz?",
+        "es-ES": "Maram : Bien, entonces ¿volvemos a recorrer nuestro querido camino de Laberinto de Oz?"
+    },
+    "F7gtDQ": {
+        "en-US": "Miriam : What are you even saying…",
+        "pt-BR": "Miriam : Do que você está falando…",
+        "es-ES": "Miriam : ¿De qué estás hablando…?"
+    },
+    "GLgtDQ": {
+        "en-US": "Miriam : {0}, from here on, please keep heading downward until you reach a fork.",
+        "pt-BR": "Miriam : {0}, a partir daqui siga sempre para baixo até encontrar uma bifurcação.",
+        "es-ES": "Miriam : {0}, a partir de aquí sigan recto hacia abajo hasta llegar a una bifurcación."
+    },
+    "GbgtDQ": {
+        "en-US": "Miriam : I hope no monsters appear…",
+        "pt-BR": "Miriam : Espero que não apareçam monstros, mas…",
+        "es-ES": "Miriam : Ojalá no aparezcan monstruos, pero…"
+    },
+    "GrgtDQ": {
+        "en-US": "Maram",
+        "pt-BR": "Maram",
+        "es-ES": "Maram"
+    },
+    "G7gtDQ": {
+        "en-US": "Maram",
+        "pt-BR": "Maram",
+        "es-ES": "Maram"
+    },
+    "HLgtDQ": {
+        "en-US": "Maram : It was not this bad before, but perhaps due to the influence of Thor Volcano, the lower ground is starting to melt, and more monsters are appearing.",
+        "pt-BR": "Maram : Antes não era assim, mas talvez por influência do vulcão Thor, o solo inferior começou a derreter e os monstros estão aparecendo mais.",
+        "es-ES": "Maram : Antes no era tan grave, pero parece que por la influencia del volcán Thor la tierra de abajo ha empezado a derretirse y están apareciendo más monstruos."
+    },
+    "HbgtDQ": {
+        "en-US": "Maram : Especially in areas where the ground has melted a lot, many people try to avoid monsters but end up getting severely injured by lava or never returning…",
+        "pt-BR": "Maram : Especialmente nas áreas onde o solo derreteu muito, há muitos que tentam evitar monstros e acabam se ferindo gravemente na lava ou não conseguem voltar……",
+        "es-ES": "Maram : Especialmente en las zonas donde el suelo se ha derretido mucho, hay personas que al intentar evitar a los monstruos resultan gravemente heridas por la lava o no regresan…"
+    },
+    "HrgtDQ": {
+        "en-US": "Maram : How long Oz Labyrinth will endure…",
+        "pt-BR": "Maram : Não sei até quando o Labirinto de Oz vai resistir…",
+        "es-ES": "Maram : No sé cuánto tiempo podrá resistir Laberinto de Oz…"
+    },
+    "H7gtDQ": {
+        "en-US": "??? : Aaaah!!!!!!!!!!!!!!!!!!!",
+        "pt-BR": "??? : Aaaah!!!!!!!!!!!!!!!!!!!",
+        "es-ES": "??? : ¡¡¡Aaah!!!!!!!!!!!!!!!!!!!"
+    },
+    "ILgtDQ": {
+        "en-US": "Maram : That voice?!?!?!?!?",
+        "pt-BR": "Maram : Essa voz?!?!?!?!?",
+        "es-ES": "Maram : ¡¿¡¿¡Esa voz!?!?!"
+    },
+    "IbgtDQ": {
+        "en-US": "Miriam : Imril!!!!",
+        "pt-BR": "Miriam : Imril!!!!",
+        "es-ES": "Miriam : ¡¡¡Imril!!!"
+    },
+    "IrgtDQ": {
+        "en-US": "Maram : It seems our friend is in trouble! I will go ahead, so please follow carefully!",
+        "pt-BR": "Maram : Parece que um amigo está em perigo! Vou na frente, então sigam com cuidado!",
+        "es-ES": "Maram : ¡Parece que un amigo está en problemas! Iré primero, síganme con cuidado."
+    },
+    "I7gtDQ": {
+        "en-US": "Maram : Imril, are you alright?",
+        "pt-BR": "Maram : Imril, você está bem?",
+        "es-ES": "Maram : Imril, ¿estás bien?"
+    },
+    "JLgtDQ": {
+        "en-US": "Imril",
+        "pt-BR": "Imril",
+        "es-ES": "Imril"
+    },
+    "JbgtDQ": {
+        "en-US": "Imril : Do not just stand there watching, help me!!!",
+        "pt-BR": "Imril : Não fiquem só olhando, ajudem!!!",
+        "es-ES": "Imril : ¡No te quedes mirando y ayúdame!!!"
+    },
+    "JrgtDQ": {
+        "en-US": "Rakehand",
+        "pt-BR": "Rakehand",
+        "es-ES": "Mano Rastrera"
+    },
+    "J7gtDQ": {
+        "en-US": "Imril : Thanks! I almost died right at the end!",
+        "pt-BR": "Imril : Obrigado! Eu quase morri já chegando aqui!",
+        "es-ES": "Imril : ¡Gracias! ¡Estuve a punto de morir justo al final!"
+    },
+    "KLgtDQ": {
+        "en-US": "Imril : The situation feels unusual, so do not go down below.",
+        "pt-BR": "Imril : A situação não está boa, então não desçam mais.",
+        "es-ES": "Imril : La situación no parece buena, así que no bajen más."
+    },
+    "KbgtDQ": {
+        "en-US": "Miriam : It does seem like there are more monsters than before.",
+        "pt-BR": "Miriam : Parece que há mais monstros do que da última vez.",
+        "es-ES": "Miriam : Parece que hay más monstruos que la última vez."
+    },
+    "KrgtDQ": {
+        "en-US": "Imril : But who are those people?",
+        "pt-BR": "Imril : E essas pessoas?",
+        "es-ES": "Imril : ¿Y esas personas?"
+    },
+    "K7gtDQ": {
+        "en-US": "Maram : They are adventurers who sometimes help my mother with her work.",
+        "pt-BR": "Maram : São aventureiros que às vezes ajudam minha mãe.",
+        "es-ES": "Maram : Son aventureros que a veces ayudan a mi madre."
+    },
+    "LLgtDQ": {
+        "en-US": "Maram : They are trustworthy, so do not be so wary.",
+        "pt-BR": "Maram : São confiáveis, então não precisa desconfiar tanto.",
+        "es-ES": "Maram : Son de confianza, no hace falta que estés tan a la defensiva."
+    },
+    "LbgtDQ": {
+        "en-US": "Imril : You trust people too easily.",
+        "pt-BR": "Imril : Você confia nas pessoas facilmente demais.",
+        "es-ES": "Imril : Confías en la gente con demasiada facilidad."
+    },
+    "LrgtDQ": {
+        "en-US": "Miriam : Indeed.",
+        "pt-BR": "Miriam : Pois é.",
+        "es-ES": "Miriam : Eso mismo."
+    },
+    "L7gtDQ": {
+        "en-US": "Maram : Anyway, let us escape quickly before more monsters appear.",
+        "pt-BR": "Maram : Enfim, vamos sair rápido antes que apareçam mais monstros.",
+        "es-ES": "Maram : En fin, escapemos rápido antes de que aparezcan más monstruos."
+    },
+    "MLgtDQ": {
+        "en-US": "Maram : We are almost there.",
+        "pt-BR": "Maram : Já estamos quase lá.",
+        "es-ES": "Maram : Ya casi llegamos."
+    },
+    "MbgtDQ": {
+        "en-US": "Maram : It may not be clearly visible, but if you follow the path leading upward here, you will be fine!",
+        "pt-BR": "Maram : Não dá para ver bem, mas sigam por este caminho acima!",
+        "es-ES": "Maram : No se ve bien, pero sigan recto por el camino que sube por aquí."
+    },
+    "MrgtDQ": {
+        "en-US": "Tamarin : I think this is the way!",
+        "pt-BR": "Tamarin : Acho que é por aqui!",
+        "es-ES": "Tamarin : ¡Creo que es por aquí!"
+    },
+    "M7gtDQ": {
+        "en-US": "Maram : Follow this lower path downward.",
+        "pt-BR": "Maram : Desçam por este caminho abaixo.",
+        "es-ES": "Maram : Bajen por este camino."
+    },
+    "NLgtDQ": {
+        "en-US": "Maram : This way!!!",
+        "pt-BR": "Maram : É por aqui!!!",
+        "es-ES": "Maram : ¡¡¡Por aquí!!!"
+    },
+    "NbgtDQ": {
+        "en-US": "Maram : If you climb up using the Long Rope ahead, you can get outside.",
+        "pt-BR": "Maram : Se subir pela Corda à frente, poderá sair.",
+        "es-ES": "Maram : Si suben por Cuerda larga que está adelante, podrán salir al exterior."
+    },
+    "NrgtDQ": {
+        "en-US": "Imril : I will gather some hidden items here, so go up first.",
+        "pt-BR": "Imril : Eu vou pegar alguns itens escondidos aqui, então subam primeiro.",
+        "es-ES": "Imril : Yo recogeré algunas cosas ocultas aquí, así que suban primero."
+    },
+    "N7gtDQ": {
+        "en-US": "Miriam : Everyone is very tired. Let us go up quickly.",
+        "pt-BR": "Miriam : Todos estão muito cansados. Vamos subir logo.",
+        "es-ES": "Miriam : Todos están muy cansados. Subamos rápido."
+    },
+    "OLgtDQ": {
+        "en-US": "It seems you can use Long Rope to climb up.",
+        "pt-BR": "Parece que é possível subir usando a corda.",
+        "es-ES": "Parece que se puede subir usando Cuerda larga."
+    },
+    "ObgtDQ": {
+        "en-US": "You cannot use it yet. Speak with Maram first.",
+        "pt-BR": "Ainda não é possível usar. Fale primeiro com Maram.",
+        "es-ES": "Aún no se puede usar. Hable primero con Maram."
+    }
+}

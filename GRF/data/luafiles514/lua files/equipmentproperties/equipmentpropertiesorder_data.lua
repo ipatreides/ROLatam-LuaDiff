@@ -198,15 +198,6 @@ ValuePreset = {
 		[3] = Operation.ADD
 	}
 }
-SymbolPreset = {
-	IncSign = {"+", "-"},
-	DecSign = {"-", "+"},
-	IncWord = {"increase", "decrease"},
-	DecWord = {"decrease", "increase"},
-	SkillWord = {"Enable", "Unlock"},
-	ApplyWord = {"", " Unlock"},
-	OnlyDecSign = {"", "-"}
-}
 EquipmentPropertiesOrder_data = {
 	[1] = {
 		name = "Status",

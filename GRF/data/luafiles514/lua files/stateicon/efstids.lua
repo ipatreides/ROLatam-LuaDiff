@@ -1238,6 +1238,7 @@ EFST_IDs = {
 	EFST_TEMPERING = 1343,
 	EFST_C_BUFF_16 = 1524,
 	EFST_C_BUFF_17 = 1525,
+	EFST_BLOCK = 1688,
 	__newindex = function()
 		error("unknown state")
 	end

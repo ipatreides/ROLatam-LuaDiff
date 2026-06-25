@@ -1551,7 +1551,7 @@
     },
     "VitfBg": {
         "en-US": "[An Susceptible Soldier]\nDamn ^BDBDBDit^000000... ^BDBDBDDamn^000000it...\nMunch, Murmur... ^FF0000munch^000000, munch...",
-        "pt-BR": "[Soldado Bravo]\nIsso! ^BDBDBDsoca^000000... ^BDBDBDsoca^000000...\nRááá... ^FF0000esmurra^000000...",
+        "pt-BR": "[Soldado Bravo]\nIsso! ^BDBDBDsoca^000000... ^BDBDBDgolpeia^000000...\nRááá... ^FF0000esmurra^000000...",
         "es-ES": "[Un Soldado Susceptible]\nMaldita^BDBDBDsea^000000… ^BDBDBDMaldita^000000sea…\n*Mastica, murmura…* ^FF0000*Mastica^000000, mastica…*"
     },
     "VytfBg": {
@@ -1566,12 +1566,12 @@
     },
     "WStfBg": {
         "en-US": "[An Susceptible Soldier]\nMunch, Murmur...\n^FF0000munch^000000, munch.^FF0000munch^000000...\nThe Damn^BDBDBDhuh^000000Mon..^BDBDBDMonster^000000...",
-        "pt-BR": "[Soldado Bravo]\nTodos esses... ^FF0000ataca^000000 tesouros ^FF0000esmurra^000000 seriam...\nArgh! Esses tesouros ^BDBDBDespanca^000000 seria meus... ^BDBDBDsoca^000000...",
+        "pt-BR": "[Soldado Bravo]\nTodos esses... ^FF0000ataca^000000 tesouros ^FF0000esmurra^000000 seriam...\nArgh! Esses tesouros ^BDBDBDespanca^000000 seriam meus... ^BDBDBDsoca^000000...",
         "es-ES": "[Un Soldado Susceptible]\nÑom, *murmura*… \n^FF0000Ñom^000000, ñom. ^FF0000Ñom^000000…\nEl maldito^BDBDBDeh…^000000mon…^BDBDBDmonstruo^000000…"
     },
     "WitfBg": {
         "en-US": "[An Susceptible Soldier]\nIt's all mine ^BDBDBDCould be^000000 all^BDBDBDmine^000000...\nMy... my treasure^BDBDBDall^000000of...my... ^FF0000munch,munch^000000...",
-        "pt-BR": "[Soldado Bravo]\nTodos esses... ^BDBDBDataca^000000 tesouros ^BDBDBDesmurra^000000 seriam...\nArgh! Esses tesouros ^BDBDBDespanca^000000 seria meus... ^FF0000soca^000000...",
+        "pt-BR": "[Soldado Bravo]\nTodos esses... ^BDBDBDataca^000000 tesouros ^BDBDBDesmurra^000000 seriam...\nArgh! Esses tesouros ^BDBDBDespanca^000000 seriam meus... ^FF0000soca^000000...",
         "es-ES": "[Un Soldado Susceptible]\nEs todo mío. ^BDBDBDPodría ser^000000 todo ^BDBDBDmío^000000…\nMi… mi tesoro. ^BDBDBDTodo^000000mi… ^FF0000ñom, ñom^000000…"
     },
     "WytfBg": {
@@ -3015,16 +3015,24 @@
         "es-ES": "General Tortuga Siniestro: ¡¡¡Quién interfiere con mi autoridad!!!"
     },
     "eyxfBg": {
-        "en-US": "[An Susceptible Soldier]\nMunch, Murmur...\n^FF0000munch^000000, munch. ^FF0000munch^000000...\nThe Damn ^BDBDBDhuh^000000Mon..^BDBDBDMonster^000000..."
+        "en-US": "[An Susceptible Soldier]\nMunch, Murmur...\n^FF0000munch^000000, munch. ^FF0000munch^000000...\nThe Damn ^BDBDBDhuh^000000Mon..^BDBDBDMonster^000000...",
+        "pt-BR": "[Soldado Bravo]\nTodos esses... ^FF0000ataca^000000 tesouros ^FF0000esmurra^000000 seriam...\nArgh! Esses tesouros ^BDBDBDespanca^000000 seriam meus... ^BDBDBDsoca^000000...",
+        "es-ES": "[Un Soldado Susceptible]\nÑom, *murmura*… \n^FF0000Ñom^000000, ñom. ^FF0000Ñom^000000…\nEl maldito^BDBDBDeh…^000000mon…^BDBDBDmonstruo^000000…"
     },
     "fCxfBg": {
-        "en-US": "[An Susceptible Soldier]\nIt's all mine ^BDBDBDCould be^000000 all ^BDBDBDmine^000000...\nMy... my treasure ^BDBDBDall^000000of...my... ^FF0000munch,munch^000000..."
+        "en-US": "[An Susceptible Soldier]\nIt's all mine ^BDBDBDCould be^000000 all ^BDBDBDmine^000000...\nMy... my treasure ^BDBDBDall^000000of...my... ^FF0000munch,munch^000000...",
+        "pt-BR": "[Soldado Bravo]\nTodos esses... ^BDBDBDataca^000000 tesouros ^BDBDBDesmurra^000000 seriam...\nArgh! Esses tesouros ^BDBDBDespanca^000000 seria meus... ^FF0000soca^000000...",
+        "es-ES": "[Un Soldado Susceptible]\nEs todo mío. ^BDBDBDPodría ser^000000 todo ^BDBDBDmío^000000…\nMi… mi tesoro. ^BDBDBDTodo^000000mi… ^FF0000ñom, ñom^000000…"
     },
     "fSxfBg": {
-        "en-US": "[An Susceptible Soldier]\nMunch, Murmur...\n^FF0000munch^000000, munch.^FF0000munch^000000...\nThe Damn ^BDBDBDhuh^000000 Mon..^BDBDBDMonster^000000..."
+        "en-US": "[An Susceptible Soldier]\nMunch, Murmur...\n^FF0000munch^000000, munch.^FF0000munch^000000...\nThe Damn ^BDBDBDhuh^000000 Mon..^BDBDBDMonster^000000...",
+        "pt-BR": "[Soldado Bravo]\nTodos esses... ^FF0000ataca^000000 tesouros ^FF0000esmurra^000000 seriam...\nArgh! Esses tesouros ^BDBDBDespanca^000000 seriam meus... ^BDBDBDsoca^000000...",
+        "es-ES": "[Un Soldado Susceptible]\nÑom, *murmura*… \n^FF0000Ñom^000000, ñom. ^FF0000Ñom^000000…\nEl maldito^BDBDBDeh…^000000mon…^BDBDBDmonstruo^000000…"
     },
     "fixfBg": {
-        "en-US": "[An Susceptible Soldier]\nIt's all mine ^BDBDBDCould be^000000 all^BDBDBD mine^000000...\nMy... my treasure ^BDBDBDall^000000 of...my... ^FF0000munch,munch^000000..."
+        "en-US": "[An Susceptible Soldier]\nIt's all mine ^BDBDBDCould be^000000 all^BDBDBD mine^000000...\nMy... my treasure ^BDBDBDall^000000 of...my... ^FF0000munch,munch^000000...",
+        "pt-BR": "[Soldado Bravo]\nTodos esses... ^BDBDBDataca^000000 tesouros ^BDBDBDesmurra^000000 seriam...\nArgh! Esses tesouros ^BDBDBDespanca^000000 seria meus... ^FF0000soca^000000...",
+        "es-ES": "[Un Soldado Susceptible]\nEs todo mío. ^BDBDBDPodría ser^000000 todo ^BDBDBDmío^000000…\nMi… mi tesoro. ^BDBDBDTodo^000000mi… ^FF0000ñom, ñom^000000…"
     },
     "fyxfBg": {
         "en-US": "- You are carrying too many items to proceed with this quest. -",

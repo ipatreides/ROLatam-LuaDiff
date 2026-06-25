@@ -1,0 +1,657 @@
+{
+    "YGgbDQ": {
+        "en-US": "Adventurer!",
+        "pt-BR": "Aventureiro!",
+        "es-ES": "¡Aventurero!"
+    },
+    "YWgbDQ": {
+        "en-US": "Further entry is prohibited!",
+        "pt-BR": "Mais avanços não são permitidos!",
+        "es-ES": "¡No se permite avanzar más!"
+    },
+    "YmgbDQ": {
+        "en-US": "This is too much! You are treating us like criminals!",
+        "pt-BR": "Que absurdo! Estão nos tratando como criminosos!",
+        "es-ES": "¡Qué abuso! ¡Nos están tratando como criminales!"
+    },
+    "Y2gbDQ": {
+        "en-US": "Did we come to a place we are not allowed to enter?",
+        "pt-BR": "Viemos a um lugar onde não podemos entrar?",
+        "es-ES": "¿Hemos venido a un lugar donde no podemos entrar?"
+    },
+    "ZGgbDQ": {
+        "en-US": "Hey, that land over there belonged to our great-grandmother!",
+        "pt-BR": "Ei, aquela terra era da nossa tataravó!",
+        "es-ES": "¡Oye, esa tierra pertenecía a nuestra bisabuela!"
+    },
+    "ZWgbDQ": {
+        "en-US": "We have the right to come here!",
+        "pt-BR": "Também temos o direito de estar aqui!",
+        "es-ES": "¡También tenemos derecho a estar aquí!"
+    },
+    "ZmgbDQ": {
+        "en-US": "That is right!! Withdraw at once!",
+        "pt-BR": "Isso!! Recuem agora!",
+        "es-ES": "¡¡Sí!! ¡Retírense ahora!"
+    },
+    "Z2gbDQ": {
+        "en-US": "You drove us out!",
+        "pt-BR": "Vocês nos expulsaram!",
+        "es-ES": "¡Nos expulsaron!"
+    },
+    "aGgbDQ": {
+        "en-US": "Do we not look like people to you?",
+        "pt-BR": "Vocês nem nos veem como pessoas?",
+        "es-ES": "¿No nos ven como personas?"
+    },
+    "aWgbDQ": {
+        "en-US": "Do we look that easy to you?",
+        "pt-BR": "Parecemos tão insignificantes assim?",
+        "es-ES": "¿Les parecemos tan insignificantes?"
+    },
+    "amgbDQ": {
+        "en-US": "We are asserting our rightful rights!",
+        "pt-BR": "Estamos reivindicando nossos direitos legítimos!",
+        "es-ES": "¡Estamos reclamando nuestros derechos legítimos!"
+    },
+    "a2gbDQ": {
+        "en-US": "What is this, give it back!! Our land!!",
+        "pt-BR": "O quê? Devolvam!! Nossa terra!!",
+        "es-ES": "¿Qué es esto? ¡Devuélvannos nuestra tierra!!"
+    },
+    "bGgbDQ": {
+        "en-US": "We are the long-standing owners of this land and displaced people who lost our homes to settlers.",
+        "pt-BR": "Somos os antigos donos desta terra e deslocados que tiveram seus lares tomados por imigrantes.",
+        "es-ES": "Somos los antiguos dueños de esta tierra, desplazados que perdieron su hogar ante los colonos."
+    },
+    "bWgbDQ": {
+        "en-US": "Who is it that is interfering with us!",
+        "pt-BR": "Quem está nos impedindo!",
+        "es-ES": "¿Quiénes son los que nos están bloqueando?"
+    },
+    "bmgbDQ": {
+        "en-US": "As the rightful owners of this land, we have come to assert our legitimate rights.",
+        "pt-BR": "Viemos reivindicar nossos direitos legítimos como antigos donos desta terra.",
+        "es-ES": "Como antiguos dueños de esta tierra, hemos venido a reclamar nuestros derechos legítimos."
+    },
+    "b2gbDQ": {
+        "en-US": "Those who are illegally occupying our land, withdraw!",
+        "pt-BR": "Aqueles que ocupam ilegalmente nossa terra, recuem!",
+        "es-ES": "¡Los que ocupan ilegalmente nuestra tierra deben retirarse!"
+    },
+    "cGgbDQ": {
+        "en-US": "Illegal protests are not permitted! Disperse!",
+        "pt-BR": "Protestos ilegais não são permitidos! Dispersem!",
+        "es-ES": "¡Las protestas ilegales no están permitidas! ¡Dispérsense!"
+    },
+    "cWgbDQ": {
+        "en-US": "Who are you calling illegal?",
+        "pt-BR": "Quem você está chamando de ilegal?",
+        "es-ES": "¿A quién llamas ilegal?"
+    },
+    "cmgbDQ": {
+        "en-US": "Did you just call us illegal?",
+        "pt-BR": "Você acabou de nos chamar de ilegais?",
+        "es-ES": "¿Nos estás llamando ilegales ahora?"
+    },
+    "c2gbDQ": {
+        "en-US": "Our demands are as follows!",
+        "pt-BR": "Nossas exigências são as seguintes!",
+        "es-ES": "¡Nuestras demandas son las siguientes!"
+    },
+    "dGgbDQ": {
+        "en-US": "One! We are the owners of this land! Those who have illegally occupied it must withdraw!",
+        "pt-BR": "Primeiro! Somos os donos desta terra! Aqueles que a ocupam ilegalmente devem recuar!",
+        "es-ES": "¡Primero! ¡Somos los dueños de esta tierra! ¡Los ocupantes ilegales deben retirarse!"
+    },
+    "dWgbDQ": {
+        "en-US": "Withdraw!",
+        "pt-BR": "Recuem!",
+        "es-ES": "¡Retírense!"
+    },
+    "dmgbDQ": {
+        "en-US": "One! Abolish baseless discriminatory policies and recognize our rights!",
+        "pt-BR": "Primeiro! Abolam as políticas discriminatórias sem fundamento e reconheçam nossos direitos!",
+        "es-ES": "¡Primero! ¡Abolan las políticas discriminatorias sin fundamento y reconozcan nuestros derechos!"
+    },
+    "d2gbDQ": {
+        "en-US": "Recognize them!",
+        "pt-BR": "Reconheçam!",
+        "es-ES": "¡Reconózcanlos!"
+    },
+    "eGgbDQ": {
+        "en-US": "Miriam",
+        "pt-BR": "Miriam",
+        "es-ES": "Miriam"
+    },
+    "eWgbDQ": {
+        "en-US": "That ahead is the assembly point.",
+        "pt-BR": "Ali à frente é o ponto de reunião.",
+        "es-ES": "Ese es el punto de reunión."
+    },
+    "emgbDQ": {
+        "en-US": "Has the party leader not arrived yet?",
+        "pt-BR": "O líder do grupo ainda não chegou?",
+        "es-ES": "¿El líder del grupo aún no ha llegado?"
+    },
+    "e2gbDQ": {
+        "en-US": "This way.",
+        "pt-BR": "Venha por aqui.",
+        "es-ES": "Por aquí."
+    },
+    "fGgbDQ": {
+        "en-US": "It is just ahead.",
+        "pt-BR": "É logo ali.",
+        "es-ES": "Es allí adelante."
+    },
+    "fWgbDQ": {
+        "en-US": "Suad, what is the situation?",
+        "pt-BR": "Suad, qual é a situação?",
+        "es-ES": "Suad, ¿cómo está la situación?"
+    },
+    "fmgbDQ": {
+        "en-US": "Miriam, Adventurer. Come a bit closer.",
+        "pt-BR": "Miriam, Aventureiro. Venham mais para cá.",
+        "es-ES": "Miriam, aventurero. Vengan un poco más hacia aquí."
+    },
+    "f2gbDQ": {
+        "en-US": "Suad knows the current situation better.",
+        "pt-BR": "Suad deve saber melhor a situação atual.",
+        "es-ES": "Suad conoce mejor la situación actual."
+    },
+    "gGgbDQ": {
+        "en-US": "Suad",
+        "pt-BR": "Suad",
+        "es-ES": "Suad"
+    },
+    "gWgbDQ": {
+        "en-US": "[Suad]\nThe situation is not very good. Armed guards... it seems security has been increased.",
+        "pt-BR": "[Suad]\nA situação não é nada boa. Guardas armados... parece que reforçaram bastante a segurança.",
+        "es-ES": "[Suad]\nLa situación no es nada buena. Esos guardias armados... parece que han reforzado la seguridad."
+    },
+    "gmgbDQ": {
+        "en-US": "It seems the merchant guild attack caused a major issue.",
+        "pt-BR": "Parece que o ataque à caravana teve um grande impacto.",
+        "es-ES": "Parece que el problema del asalto al gremio fue grave."
+    },
+    "g2gbDQ": {
+        "en-US": "[Miriam]\nOr the information leaked. Otherwise, they would not have prepared like this.",
+        "pt-BR": "[Miriam]\nOu então houve vazamento de informação. Caso contrário, não teriam se preparado assim.",
+        "es-ES": "[Miriam]\nO quizá la información se filtró. De otro modo no habrían estado tan preparados."
+    },
+    "hGgbDQ": {
+        "en-US": "[Temple Guard]\nFurther entry is prohibited. Submit peacefully to arrest.",
+        "pt-BR": "[Guarda do Templo]\nMais avanços não são permitidos. Rendam-se pacificamente à prisão.",
+        "es-ES": "[Guardia del templo]\nNo se permite avanzar más. Entréguense sin resistencia."
+    },
+    "hWgbDQ": {
+        "en-US": "[Residents]\nWhat did we do wrong! Are we not allowed to enter here?",
+        "pt-BR": "[Habitantes nativos]\nO que foi que fizemos! Não podemos entrar aqui?",
+        "es-ES": "[Residentes]\n¿Qué hemos hecho? ¿No podemos entrar aquí?"
+    },
+    "hmgbDQ": {
+        "en-US": "[Residents]\nThis was originally our land! Why are you stopping the rightful owners from entering?",
+        "pt-BR": "[Habitantes nativos]\nEsta terra era originalmente nossa! Por que nos impedem de entrar em nossa própria terra?",
+        "es-ES": "[Residentes]\n¡Este lugar era originalmente nuestra tierra! ¿Por qué nos impiden entrar en nuestra propia tierra?"
+    },
+    "h2gbDQ": {
+        "en-US": "[Residents]\nYou are the ones illegally occupying it!",
+        "pt-BR": "[Habitantes nativos]\nQuem está ocupando ilegalmente são vocês!",
+        "es-ES": "[Residentes]\n¡Los que ocupan ilegalmente este lugar son ustedes!"
+    },
+    "iGgbDQ": {
+        "en-US": "[Residents]\nWhat is this, give it back!! Our land!!",
+        "pt-BR": "[Habitantes nativos]\nO quê? Devolvam!! Nossa terra!!",
+        "es-ES": "[Residentes]\n¿Qué es esto? ¡Devuélvannos nuestra tierra!!"
+    },
+    "iWgbDQ": {
+        "en-US": "[Representative]\nWe are the long-standing owners of this land and displaced people who lost our homes to settlers.",
+        "pt-BR": "[Representante dos habitantes]\nSomos os antigos donos desta terra e deslocados que tiveram seus lares tomados por imigrantes.",
+        "es-ES": "[Representante de los residentes]\nSomos los antiguos dueños de esta tierra, desplazados que perdieron su hogar ante los colonos."
+    },
+    "imgbDQ": {
+        "en-US": "[Representative]\nAs the rightful owners of this land, we have come to assert our legitimate rights.",
+        "pt-BR": "[Representante dos habitantes]\nViemos reivindicar nossos direitos legítimos como antigos donos desta terra.",
+        "es-ES": "[Representante de los residentes]\nComo antiguos dueños de esta tierra, hemos venido a reclamar nuestros derechos legítimos."
+    },
+    "i2gbDQ": {
+        "en-US": "[Representative]\nOur demands are as follows.",
+        "pt-BR": "[Representante dos habitantes]\nNossas exigências são as seguintes.",
+        "es-ES": "[Representante de los residentes]\nNuestras demandas son las siguientes."
+    },
+    "jGgbDQ": {
+        "en-US": "[Representative]\nOne! We are...",
+        "pt-BR": "[Representante dos habitantes]\nPrimeiro! Nós somos...",
+        "es-ES": "[Representante de los residentes]\nPrimero! ¡Nosotros..."
+    },
+    "jWgbDQ": {
+        "en-US": "Now. Follow quietly.",
+        "pt-BR": "Agora. Venha em silêncio.",
+        "es-ES": "Ahora. Síganme en silencio."
+    },
+    "jmgbDQ": {
+        "en-US": "[Miriam]\nSuad. Did you give any separate orders to the ones who looted the merchant guild?",
+        "pt-BR": "[Miriam]\nSuad. Você deu alguma ordem separada àqueles que atacaram a caravana?",
+        "es-ES": "[Miriam]\nSuad. ¿Diste alguna orden a los que asaltaron el gremio?"
+    },
+    "j2gbDQ": {
+        "en-US": "[Suad]\nNo? Why?",
+        "pt-BR": "[Suad]\nNão? Por quê?",
+        "es-ES": "[Suad]\n¿No? ¿Por qué?"
+    },
+    "kGgbDQ": {
+        "en-US": "[Miriam]\nSee those people over there? Moving carefully. They are the group that attacked the merchant guild.",
+        "pt-BR": "[Miriam]\nAli, está vendo aquelas pessoas? Estão se movendo com cautela. São o grupo que atacou a caravana.",
+        "es-ES": "[Miriam]\n¿Ves a esas personas? Se mueven con cautela. Son el grupo que atacó el gremio."
+    },
+    "kWgbDQ": {
+        "en-US": "[Suad]\nI did not give any orders. Are they acting on their own?",
+        "pt-BR": "[Suad]\nNão dei nenhuma ordem. Estão agindo por conta própria?",
+        "es-ES": "[Suad]\nNo les di ninguna orden. ¿Actúan por su cuenta?"
+    },
+    "kmgbDQ": {
+        "en-US": "It seems they are heading toward the temple.",
+        "pt-BR": "Parece que estão indo em direção ao templo.",
+        "es-ES": "Parece que se dirigen hacia el templo."
+    },
+    "k2gbDQ": {
+        "en-US": "[Miriam]\nAn unsanctioned independent action. Given their past record, it will not lead to anything good. We should quietly follow them. We do not know what trouble they might cause.",
+        "pt-BR": "[Miriam]\nUma ação independente não planejada. Já têm antecedentes, então não é algo bom. Vou segui-los em silêncio. Não sabemos o que podem aprontar.",
+        "es-ES": "[Miriam]\nSi es una acción no autorizada... y con antecedentes, no será nada bueno. Deberíamos seguirlos en silencio."
+    },
+    "lGgbDQ": {
+        "en-US": "[Suad]\nYou are going alone?",
+        "pt-BR": "[Suad]\nVai sozinha?",
+        "es-ES": "[Suad]\n¿Vas sola?"
+    },
+    "lWgbDQ": {
+        "en-US": "[Miriam]\nWe are just tracking them. There is no need for multiple people. I am enough alone. Stay here. I will signal if anything happens.",
+        "pt-BR": "[Miriam]\nÉ só seguir de perto, não precisamos ir em grupo. Sozinha já basta. Fique aqui. Se algo acontecer, darei sinal.",
+        "es-ES": "[Miriam]\nSolo es seguirlos. No hace falta que vayamos muchos. Puedo hacerlo sola. Quédate aquí. Si pasa algo, daré la señal."
+    },
+    "lmgbDQ": {
+        "en-US": "[Suad]\nWill you be alright? Even if you are just following them, we do not know their intentions. Even if they appear disarmed, they may be hiding something...",
+        "pt-BR": "[Suad]\nSerá que é seguro? Mesmo sendo só seguir, não sabemos o objetivo deles. Podem estar escondendo algo...",
+        "es-ES": "[Suad]\n¿Será seguro? Aunque solo los sigas, no sabemos qué planean. Puede que oculten algo..."
+    },
+    "l2gbDQ": {
+        "en-US": "I will follow.",
+        "pt-BR": "Eu vou junto.",
+        "es-ES": "Yo iré con ella."
+    },
+    "mGgbDQ": {
+        "en-US": "[Suad]\nThat is reassuring. I cannot move recklessly from here. Miriam will leave traces, so follow them. I will leave it to you.",
+        "pt-BR": "[Suad]\nAssim fico mais tranquilo. Não posso me mover imprudentemente daqui. Miriam deixará um rastro, então siga-o. Conto com você.",
+        "es-ES": "[Suad]\nEso me tranquiliza. No puedo moverme imprudentemente desde aquí. Miriam dejará rastros, síguelos. Te lo encargo."
+    },
+    "mWgbDQ": {
+        "en-US": "[Suad]\nWhere is the party leader?",
+        "pt-BR": "[Suad]\nOnde está o líder do grupo?",
+        "es-ES": "[Suad]\n¿Dónde está el líder del grupo?"
+    },
+    "mmgbDQ": {
+        "en-US": "[Suad]\nBe careful.",
+        "pt-BR": "[Suad]\nTenha cuidado.",
+        "es-ES": "[Suad]\nTen cuidado."
+    },
+    "m2gbDQ": {
+        "en-US": "Ramakus",
+        "pt-BR": "Ramakus",
+        "es-ES": "Ramakus"
+    },
+    "nGgbDQ": {
+        "en-US": "Kun",
+        "pt-BR": "Kun",
+        "es-ES": "Koon"
+    },
+    "nWgbDQ": {
+        "en-US": "Yopi",
+        "pt-BR": "Yopi",
+        "es-ES": "Yopi"
+    },
+    "nmgbDQ": {
+        "en-US": "Temple Guard",
+        "pt-BR": "Guarda do Templo",
+        "es-ES": "Guardia del templo"
+    },
+    "n2gbDQ": {
+        "en-US": "Angry Mob",
+        "pt-BR": "Multidão Enfurecida",
+        "es-ES": "Multitud enfurecida"
+    },
+    "oGgbDQ": {
+        "en-US": "We are alive too! Acknowledge us!",
+        "pt-BR": "Nós também estamos vivos! Reconheçam nossa existência!",
+        "es-ES": "¡También estamos vivos! ¡Reconózcanos!"
+    },
+    "oWgbDQ": {
+        "en-US": "The situation does not look good. Let us get closer.",
+        "pt-BR": "A situação não parece boa. Vamos nos aproximar mais.",
+        "es-ES": "La situación no parece buena. Acerquémonos más."
+    },
+    "omgbDQ": {
+        "en-US": "Heart Hunter",
+        "pt-BR": "Caça-Corações",
+        "es-ES": "Cazacorazones"
+    },
+    "o2gbDQ": {
+        "en-US": "We are alive too! Alive!",
+        "pt-BR": "Nós também estamos vivos! Estamos vivos!",
+        "es-ES": "¡También estamos vivos! ¡Vivos!"
+    },
+    "pGgbDQ": {
+        "en-US": "We exist! We exist!",
+        "pt-BR": "Nós existimos! Existimos!",
+        "es-ES": "¡Existimos! ¡Existimos!"
+    },
+    "pWgbDQ": {
+        "en-US": "Return the rights to the rightful owners of this land! Return them!",
+        "pt-BR": "Devolvam os direitos ao verdadeiro dono desta terra! Devolvam!",
+        "es-ES": "¡Devuelvan los derechos al dueño de esta tierra! ¡Devuélvanlos!"
+    },
+    "pmgbDQ": {
+        "en-US": "Return them!",
+        "pt-BR": "Devolvam!",
+        "es-ES": "¡Devuélvanlos!"
+    },
+    "p2gbDQ": {
+        "en-US": "We are alive!",
+        "pt-BR": "Estamos vivos!",
+        "es-ES": "¡Estamos vivos!"
+    },
+    "qGgbDQ": {
+        "en-US": "We exist!",
+        "pt-BR": "Existimos!",
+        "es-ES": "¡Existimos!"
+    },
+    "qWgbDQ": {
+        "en-US": "Adventurer, are you safe?",
+        "pt-BR": "Aventureiro, você está bem?",
+        "es-ES": "Aventurero, ¿estás bien?"
+    },
+    "qmgbDQ": {
+        "en-US": "Has the party leader not arrived yet?",
+        "pt-BR": "O líder do grupo ainda não chegou?",
+        "es-ES": "¿El líder del grupo aún no ha llegado?"
+    },
+    "q2gbDQ": {
+        "en-US": "[Crowd]\nAcknowledge us!",
+        "pt-BR": "[Multidão]\nReconheçam nossa existência!",
+        "es-ES": "[Multitud]\n¡Reconózcanos!"
+    },
+    "rGgbDQ": {
+        "en-US": "[Crowd]\nWe are alive too! We are here!!",
+        "pt-BR": "[Multidão]\nNós também estamos vivos! Estamos aqui!!",
+        "es-ES": "[Multitud]\n¡También estamos vivos! ¡Estamos aquí!!"
+    },
+    "rWgbDQ": {
+        "en-US": "[Crowd]\nThis was originally our land!",
+        "pt-BR": "[Multidão]\nEsta terra era originalmente nossa!",
+        "es-ES": "[Multitud]\n¡Este lugar era originalmente nuestra tierra!"
+    },
+    "rmgbDQ": {
+        "en-US": "[Crowd]\nReturn the land to its rightful owners!",
+        "pt-BR": "[Multidão]\nDevolvam a terra aos seus verdadeiros donos!",
+        "es-ES": "[Multitud]\n¡Devuelvan la tierra a sus dueños!"
+    },
+    "r2gbDQ": {
+        "en-US": "[Temple Guard]\nIf you disperse now, we will not question the temple intrusion!",
+        "pt-BR": "[Guarda do Templo]\nSe se dispersarem agora, não responsabilizaremos pela invasão ao templo!",
+        "es-ES": "[Guardia del templo]\n¡Si se dispersan ahora, no se les acusará por invadir el templo!"
+    },
+    "sGgbDQ": {
+        "en-US": "[Temple Guard]\nWe will give you exactly 30 minutes! Return within that time!",
+        "pt-BR": "[Guarda do Templo]\nDaremos exatamente 30 minutos! Retornem dentro do prazo!",
+        "es-ES": "[Guardia del templo]\n¡Tienen exactamente 30 minutos! ¡Regresen dentro del tiempo!"
+    },
+    "sWgbDQ": {
+        "en-US": "[Crowd]\nAre you threatening us now?",
+        "pt-BR": "[Multidão]\nEstão nos ameaçando agora?",
+        "es-ES": "[Multitud]\n¿Nos están amenazando?"
+    },
+    "smgbDQ": {
+        "en-US": "[Crowd]\nWhat are you planning to do to us?",
+        "pt-BR": "[Multidão]\nO que pretendem fazer conosco?",
+        "es-ES": "[Multitud]\n¿Qué planean hacer con nosotros?"
+    },
+    "s2gbDQ": {
+        "en-US": "[Crowd]\nYou are going to arrest us all and throw us in prison, right?",
+        "pt-BR": "[Multidão]\nVão nos prender todos?",
+        "es-ES": "[Multitud]\n¿Nos arrestarán a todos y nos encerrarán?"
+    },
+    "tGgbDQ": {
+        "en-US": "[Crowd]\nIf it comes to this, let us charge in first!!!",
+        "pt-BR": "[Multidão]\nSe é assim, vamos invadir primeiro!!!",
+        "es-ES": "[Multitud]\n¡Si es así, ataquemos primero!!!"
+    },
+    "tWgbDQ": {
+        "en-US": "[Miriam]\nSomething is strange. The people are becoming more aggressive.",
+        "pt-BR": "[Miriam]\nAlgo está estranho. As pessoas estão ficando mais agressivas.",
+        "es-ES": "[Miriam]\nAlgo no está bien. La gente se está volviendo violenta."
+    },
+    "tmgbDQ": {
+        "en-US": "[Miriam]\nThe situation seems bad. We should call Suad. But where is the High Priest?",
+        "pt-BR": "[Miriam]\nA situação não parece boa. Precisamos chamar Suad. Mas onde está o Sumo Sacerdote?",
+        "es-ES": "[Miriam]\nLa situación no es buena. Debemos llamar a Suad. Pero, ¿dónde está el sumo sacerdote?"
+    },
+    "t2gbDQ": {
+        "en-US": "Someone call Suad! It is urgent!",
+        "pt-BR": "Alguém chame Suad! É urgente!",
+        "es-ES": "¡Alguien llame a Suad! ¡Es urgente!"
+    },
+    "uGgbDQ": {
+        "en-US": "[Niren]\nHere you are. I have also brought High Priest Zed.",
+        "pt-BR": "[Niren]\nAh, vocês estão aqui. Também trouxe o Sumo Sacerdote Zed.",
+        "es-ES": "[Niren]\nAquí estaban. También he traído al sumo sacerdote Zed."
+    },
+    "uWgbDQ": {
+        "en-US": "[Zed]\nWhat is happening? Is it related to the people gathered here? Could it be, inside the temple...",
+        "pt-BR": "[Zed]\nO que está acontecendo? Tem relação com essas pessoas reunidas aqui? Ou talvez com o interior do templo...",
+        "es-ES": "[Zed]\n¿Qué ocurre? ¿Tiene que ver con esta multitud? ¿Acaso dentro del templo...?"
+    },
+    "umgbDQ": {
+        "en-US": "[Suad]\nWhat is it? You said it was urgent?",
+        "pt-BR": "[Suad]\nO que foi? Disseram que era urgente?",
+        "es-ES": "[Suad]\n¿Qué pasa? Dijiste que era urgente."
+    },
+    "u2gbDQ": {
+        "en-US": "What is it? You said it was urgent?",
+        "pt-BR": "O que foi? Disseram que era urgente?",
+        "es-ES": "¿Qué pasa? Dijiste que era urgente."
+    },
+    "vGgbDQ": {
+        "en-US": "[Miriam]\nIf things are roughly under control, move quickly. Everyone is waiting at the safe area.",
+        "pt-BR": "[Miriam]\nSe a situação já foi controlada, vamos nos mover rápido. Todos estão esperando em local seguro.",
+        "es-ES": "[Miriam]\nSi ya han controlado un poco la situación, muévanse rápido. Todos están esperando en la zona segura."
+    },
+    "vWgbDQ": {
+        "en-US": "This way.",
+        "pt-BR": "É por aqui.",
+        "es-ES": "Es por aquí."
+    },
+    "vmgbDQ": {
+        "en-US": "It would be best if the leader spoke on behalf.",
+        "pt-BR": "Seria bom se o líder falasse como representante.",
+        "es-ES": "Sería mejor que el líder hablara en representación."
+    },
+    "v2gbDQ": {
+        "en-US": "[Suad]\nWhat is it?",
+        "pt-BR": "[Suad]\nO que houve?",
+        "es-ES": "[Suad]\n¿Qué sucede?"
+    },
+    "wGgbDQ": {
+        "en-US": "[Miriam]\nThere is a spy among us.",
+        "pt-BR": "[Miriam]\nHá um infiltrado entre nós.",
+        "es-ES": "[Miriam]\nHay un infiltrado entre nosotros."
+    },
+    "wWgbDQ": {
+        "en-US": "[Suad]\nA spy? Where?",
+        "pt-BR": "[Suad]\nUm infiltrado? Onde?",
+        "es-ES": "[Suad]\n¿Un infiltrado? ¿Dónde?"
+    },
+    "wmgbDQ": {
+        "en-US": "[Miriam]\nSuad, first explain the situation here. It looks like it is about to turn into a riot, right? Greetings, High Priest Zed.",
+        "pt-BR": "[Miriam]\nSuad, primeiro explique a situação daqui. Parece que estamos à beira de um motim, certo? Olá, Sumo Sacerdote Zed.",
+        "es-ES": "[Miriam]\nSuad, primero explica la situación aquí. Parece que estamos al borde de un motín, ¿verdad? Buenas tardes, sumo sacerdote Zed."
+    },
+    "w2gbDQ": {
+        "en-US": "[Suad]\nWhy is the High Priest here?",
+        "pt-BR": "[Suad]\nPor que o Sumo Sacerdote está aqui?",
+        "es-ES": "[Suad]\n¿Por qué está el sumo sacerdote aquí?"
+    },
+    "xGgbDQ": {
+        "en-US": "[Zed]\nMiriam? Were you involved in this as well?",
+        "pt-BR": "[Zed]\nMiriam? Você também estava envolvida nisso?",
+        "es-ES": "[Zed]\n¿Miriam? ¿Tú también estás involucrada en esto?"
+    },
+    "xWgbDQ": {
+        "en-US": "[Miriam]\nThere is another cause. Let us hear the situation first. Suad?",
+        "pt-BR": "[Miriam]\nA causa é outra. Antes disso, ouça a situação. Suad?",
+        "es-ES": "[Miriam]\nLa causa es otra. Primero escuchemos la situación. ¿Suad?"
+    },
+    "xmgbDQ": {
+        "en-US": "[Suad]\nIt is very bad right now. It is getting out of control. The temple side is also taking a hard stance and urging dispersal. There is not much time left. We are preparing to withdraw for now.",
+        "pt-BR": "[Suad]\nEstá muito ruim. Está saindo do controle. O templo também está reagindo de forma dura e exigindo dispersão. Não temos muito tempo. Estamos nos preparando para recuar.",
+        "es-ES": "[Suad]\nLa situación es muy mala. Está fuera de control. El templo también está adoptando una postura dura y recomendando la dispersión. No queda mucho tiempo. Estamos preparando la retirada."
+    },
+    "x2gbDQ": {
+        "en-US": "[Suad]\nWhat about the ones you followed? What happened to them?",
+        "pt-BR": "[Suad]\nE as pessoas que você seguiu? O que aconteceu?",
+        "es-ES": "[Suad]\n¿Y los que seguiste? ¿Qué pasó?"
+    },
+    "yGgbDQ": {
+        "en-US": "I will explain.",
+        "pt-BR": "Eu explico.",
+        "es-ES": "Yo lo explicaré."
+    },
+    "yWgbDQ": {
+        "en-US": "- You relayed what happened inside the temple. -",
+        "pt-BR": "- Relatei o que aconteceu dentro do templo. -",
+        "es-ES": "- Se relató lo ocurrido dentro del templo. -"
+    },
+    "ymgbDQ": {
+        "en-US": "[Miriam]\nThis was orchestrated by my father in collusion with external forces. To divide Arunafeltz and suppress the natives.",
+        "pt-BR": "[Miriam]\nFoi algo orquestrado pelo meu pai em conluio com forças externas. Para dividir Arunafeltz e reprimir os nativos.",
+        "es-ES": "[Miriam]\nEsto fue obra de mi padre y fuerzas externas aliadas. Intentaban dividir Arunafeltz y oprimir a los nativos."
+    },
+    "y2gbDQ": {
+        "en-US": "[Suad]\nAmong us... there is a traitor?",
+        "pt-BR": "[Suad]\nEntre nós... há um traidor?",
+        "es-ES": "[Suad]\n¿Hay... un traidor entre nosotros?"
+    },
+    "zGgbDQ": {
+        "en-US": "[Miriam]\nRather than a traitor, it is more accurate to say they infiltrated us. They were never on our side from the beginning.",
+        "pt-BR": "[Miriam]\nMais do que traidor, alguém que se infiltrou. Nunca esteve realmente do nosso lado.",
+        "es-ES": "[Miriam]\nMás que traidor, es alguien que se infiltró. Nunca estuvo de nuestro lado."
+    },
+    "zWgbDQ": {
+        "en-US": "[Suad]\nSo we were about to be dragged into a planned riot from the start?",
+        "pt-BR": "[Suad]\nEntão quase fomos envolvidos em um motim planejado desde o início?",
+        "es-ES": "[Suad]\nEntonces, ¿casi caemos en un motín planeado desde el principio?"
+    },
+    "zmgbDQ": {
+        "en-US": "[Niren]\nThis is not the time. If they have also infiltrated the temple side, we must pull back both sides for now.",
+        "pt-BR": "[Niren]\nNão é hora para isso. Se eles também se infiltraram no lado do templo, precisamos recuar ambas as forças.",
+        "es-ES": "[Niren]\nNo es momento para esto. Dijeron que también se han infiltrado en el templo, así que debemos retirar a ambos bandos."
+    },
+    "z2gbDQ": {
+        "en-US": "Beep--------",
+        "pt-BR": "Piiii--------",
+        "es-ES": "Piiii--------"
+    },
+    "0GgbDQ": {
+        "en-US": "[Suad]\nWhat is that whistle sound? It is not our signal.",
+        "pt-BR": "[Suad]\nEsse som de apito... não é o nosso sinal.",
+        "es-ES": "[Suad]\n¿Qué es ese silbido? No es nuestra señal."
+    },
+    "0WgbDQ": {
+        "en-US": "Now?",
+        "pt-BR": "Agora?",
+        "es-ES": "¿Ahora?"
+    },
+    "0mgbDQ": {
+        "en-US": "Now!",
+        "pt-BR": "Agora!",
+        "es-ES": "¡Ahora!"
+    },
+    "02gbDQ": {
+        "en-US": "[Crowd]\nWhy are you taking off your clothes??",
+        "pt-BR": "[Multidão]\nPor que estão tirando as roupas??",
+        "es-ES": "[Multitud]\n¿Por qué se están quitando la ropa??"
+    },
+    "1GgbDQ": {
+        "en-US": "[Temple Guard]\nDo not lower your guard!",
+        "pt-BR": "[Guarda do Templo]\nNão baixem a guarda!",
+        "es-ES": "[Guardia del templo]\n¡No bajen la guardia!"
+    },
+    "1WgbDQ": {
+        "en-US": "[Crowd]\nWhat? What are you doing right now??",
+        "pt-BR": "[Multidão]\nO quê? O que estão fazendo agora??",
+        "es-ES": "[Multitud]\n¿Qué pasa? ¿Qué están haciendo??"
+    },
+    "1mgbDQ": {
+        "en-US": "Sorry. There are no personal feelings.",
+        "pt-BR": "Desculpa. Não é nada pessoal.",
+        "es-ES": "Lo siento. No es personal."
+    },
+    "12gbDQ": {
+        "en-US": "You should have dispersed when you were told!",
+        "pt-BR": "Deveriam ter se dispersado quando mandaram!",
+        "es-ES": "¡Deberían haberse dispersado cuando se les dijo!"
+    },
+    "2GgbDQ": {
+        "en-US": "Do you still not understand the situation?",
+        "pt-BR": "Ainda não entenderam a situação?",
+        "es-ES": "¿Aún no entienden la situación?"
+    },
+    "2WgbDQ": {
+        "en-US": "What Goddess? Better believe in me instead!",
+        "pt-BR": "Que deusa nada? Melhor acreditarem em mim!",
+        "es-ES": "¿La Diosa? ¡Mejor crean en mí!"
+    },
+    "2mgbDQ": {
+        "en-US": "How is it? The taste of oppression??",
+        "pt-BR": "E então? Como é o gosto da opressão??",
+        "es-ES": "¿Qué tal? ¿El sabor de la opresión??"
+    },
+    "22gbDQ": {
+        "en-US": "[Crowd]\nAaaah!!!! Uaaah!!! The Temple Guards are killing people!!!",
+        "pt-BR": "[Multidão]\nAaah!!!! Uaaah!!! A guarda do templo está matando pessoas!!!",
+        "es-ES": "[Multitud]\n¡¡¡Aaaah!!! ¡¡¡Aaah!!! ¡Los guardias del templo están matando gente!!!"
+    },
+    "3GgbDQ": {
+        "en-US": "[Temple Guard]\nIt is a riot! Suppress them immediately!!",
+        "pt-BR": "[Guarda do Templo]\nÉ um motim! Contenham-nos imediatamente!!",
+        "es-ES": "[Guardia del templo]\n¡Es un motín! ¡Redúzcanlos de inmediato!!"
+    },
+    "3WgbDQ": {
+        "en-US": "[Miriam]\nAh... too late...!!",
+        "pt-BR": "[Miriam]\nAh... chegamos tarde demais...!!",
+        "es-ES": "[Miriam]\nAh... llegamos tarde...!!"
+    },
+    "3mgbDQ": {
+        "en-US": "[Suad]\nWe must stop those attacking indiscriminately.",
+        "pt-BR": "[Suad]\nPrecisamos deter aqueles que estão atacando indiscriminadamente.",
+        "es-ES": "[Suad]\nHay que detener a los que atacan indiscriminadamente."
+    },
+    "32gbDQ": {
+        "en-US": "[Niren]\nI will evacuate the people.",
+        "pt-BR": "[Niren]\nVou evacuar as pessoas.",
+        "es-ES": "[Niren]\nEvacuaré a la gente."
+    },
+    "4GgbDQ": {
+        "en-US": "Niren",
+        "pt-BR": "Niren",
+        "es-ES": "Niren"
+    },
+    "4WgbDQ": {
+        "en-US": "Zed",
+        "pt-BR": "Zed",
+        "es-ES": "Zed"
+    },
+    "4mgbDQ": {
+        "en-US": "Heart Hunter",
+        "pt-BR": "Caça-Corações",
+        "es-ES": "Cazacorazones"
+    }
+}

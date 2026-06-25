@@ -1,440 +1,367 @@
 {
     "AAlyDA": {
-        "ko-KR": "베르카셀",
         "en-US": "Verkhasel",
-        "pt-BR": "Berksel",
-        "es-ES": "Vercasel"
+        "pt-BR": "Verkhasel",
+        "es-ES": "Verkhasel"
     },
     "AQlyDA": {
-        "ko-KR": "[베르카셀]\n여기가 어딘지 기억나나?\n지난번 작전으로 방문했던 그 저택이지.\n덕분에 네가 길로틴크로스가 될 수 있지 않았나.",
         "en-US": "[Verkhasel]\nRemember this place?\nWe visited it during our last operation together.\nYou became a Guillotine Cross afterward.",
-        "pt-BR": "[Vercasel]\nLembras-te de onde estamos?\nÉ aquela mansão que visitamos na última missão.\nFoi graças a ela que você conseguiu se tornar um Guillotine Cross, não foi?",
-        "es-ES": "[Vercasel]\n¿Te acuerdas de dónde estamos?\nEs esa mansión que visitamos en la última misión.\nGracias a eso pudiste convertirte en un Guillotine Cross, ¿no?"
+        "pt-BR": "[Verkhasel]\nVocê lembra deste lugar?\nÉ aquela mansão que visitamos na última missão.\nFoi graças a ela que você conseguiu se tornar um Sicário, não foi?",
+        "es-ES": "[Verkhasel]\n¿Te acuerdas de dónde estamos?\nEs esa mansión que visitamos en la última misión.\nGracias a eso pudiste convertirte en un Guillotine Cross, ¿no?"
     },
     "AglyDA": {
-        "ko-KR": "[둠크]\n흐음. 이런 곳이 있었네?\n그러고보니 너는 내가 처음이겠구나.\n쉐도우체이서의 수장, 둠크다.",
         "en-US": "[Doomk]\nHm. So there was a place like this?\nCome to think of it, you must be the first I've met.\nI'm Doomk, leader of the Shadow Chasers.",
-        "pt-BR": "[Doomk]\nHum. Existia um lugar assim?\nPensando bem, você deve ser o primeiro a me ver.\nSou Doomk, o líder dos Shadow Chasers.",
-        "es-ES": "[Doomk]\nMmm. ¿Existía un lugar así?\nAhora que lo pienso, tú debes de ser el primero.\nSoy Doomk, el líder de los Shadow Chasers."
+        "pt-BR": "[Dumk]\nHum. Existia um lugar assim?\nPensando bem, você deve ser o primeiro a me ver.\nSou Dumk, o líder dos Renegados.",
+        "es-ES": "[Dumk]\nMmm. ¿Existía un lugar así?\nAhora que lo pienso, tú debes de ser el primero.\nSoy Dumk, el líder de los Shadow Chasers."
     },
     "AwlyDA": {
-        "ko-KR": "[둠크]\n그럼 어둠의 정령인가 뭔가하는 것을 잡으러 가보자고.",
         "en-US": "[Doomk]\nNow, let's go hunt the dark elemental, or whatever it is.",
-        "pt-BR": "[Doomk]\nEntão vamos lá caçar esse espírito das trevas ou algo do tipo.",
-        "es-ES": "[Doomk]\nBueno, vamos a ir a atrapar a ese espíritu de la oscuridad o lo que sea."
+        "pt-BR": "[Dumk]\nEntão vamos lá caçar esse elemental das trevas ou algo do tipo.",
+        "es-ES": "[Dumk]\nBueno, vamos a ir a atrapar a ese espíritu de la oscuridad o lo que sea."
     },
     "BAlyDA": {
-        "ko-KR": "[메이셀]\n잡으러 가는 게 아니라, 불러내는 거랍니다. 둠크.\n여전히 입이 험하시군요.",
         "en-US": "[Mayssel]\nWe're not hunting it; we're summoning it, Doomk.\nYou're as crude as I remember.",
-        "pt-BR": "[Meisel]\nNão é para irmos capturá-lo, mas sim para invocá-lo, Doomk.\nVocê continua com essa boca suja.",
-        "es-ES": "[Meisel]\nNo es ir a atraparlo, sino a invocarlo, Doomk.\nSigues teniendo la lengua afilada."
+        "pt-BR": "[Mayssel]\nNão é caçar, mas sim invocar, Dumk.\nVocê continua rude como sempre.",
+        "es-ES": "[Meisel]\nNo es ir a atraparlo, sino a invocarlo, Dumk.\nSigues teniendo la lengua afilada."
     },
     "BQlyDA": {
-        "ko-KR": "[베르카셀]\n메이셀, 이제부터 어떻게 하면 되나?\n어둠의 정령으로부터 직접 힘을 사사받은 건 네가 유일하니 ….",
         "en-US": "[Verkhasel]\nMayssel, what do we do from here?\nYou're the only one who's acquired its power directly from the dark elemental....",
-        "pt-BR": "[Verkaxel]\nMeisel, o que fazemos agora?\nJá que você é a única que recebeu o poder diretamente do Espírito das Trevas...",
-        "es-ES": "[Berkaxel]\nMeisel, ¿qué hacemos ahora?\nTú eres el único que ha recibido el poder directamente del espíritu de la oscuridad..."
+        "pt-BR": "[Verkhasel]\nMayssel, o que fazemos agora?\nJá que você é a única que recebeu o poder diretamente do Elemental Sombrio...",
+        "es-ES": "[Verkhasel]\nMeisel, ¿qué hacemos ahora?\nTú eres el único que ha recibido el poder directamente del espíritu de la oscuridad..."
     },
     "BglyDA": {
-        "ko-KR": "[메이셀]\n제가 모든 걸 알고 있지는 않답니다.\n우선 어둠의 정령이 좋아할 만한 장소를 찾아보죠.",
         "en-US": "[Mayssel]\nI don't know everything.\nFor now, let's look for a place that the dark elemental likes.",
-        "pt-BR": "[Meisel]\nEu não sei tudo, sabe.\nPrimeiro, vamos procurar um lugar que agrade ao Espírito das Trevas.",
+        "pt-BR": "[Mayssel]\nEu não sei tudo, sabe.\nPrimeiro, vamos procurar um lugar que agrade o Elemental Sombrio.",
         "es-ES": "[Meisel]\nNo lo sé todo.\nPrimero, busquemos un lugar que le guste al espíritu de la oscuridad."
     },
     "BwlyDA": {
-        "ko-KR": "[메이셀]\n낮이어도 빛이 들지 않도록 항상 그림자가 지는 곳이어야 합니다.\n정원수 아래나 ….",
         "en-US": "[Mayssel]\nIt must be a place that's always in shadow, where light doesn't reach even in the daytime.\nUnder a garden tree, for instance.",
-        "pt-BR": "[Meisel]\nTem que ser um lugar onde sempre haja sombra, mesmo durante o dia, para que a luz não entre.\nDebaixo de uma árvore de jardim ou...",
+        "pt-BR": "[Mayssel]\nTem que ser um lugar onde sempre haja sombra, mesmo durante o dia, para que a luz não entre.\nDebaixo de uma árvore ou...",
         "es-ES": "[Meisel]\nTiene que ser un lugar donde siempre haya sombra, para que no entre la luz ni siquiera durante el día.\nDebajo de un árbol de jardín o..."
     },
     "CAlyDA": {
-        "ko-KR": "[둠크]\n어이, 그냥 각자 돌아다녀보자고.\n어디든 마음에 들면 반응하겠지.",
         "en-US": "[Doomk]\nHey, why don't we just scatter and look?\nIt'll respond to wherever it likes, won't it?",
-        "pt-BR": "[Doomk]\nEi, vamos cada um dar uma volta por aí.\nSe ele gostar de algum lugar, vai reagir.",
-        "es-ES": "[Doomk]\nOye, mejor andemos cada uno por su lado.\nSi le gusta algún lugar, ya nos lo dirá."
+        "pt-BR": "[Dumk]\nEi, vamos cada um dar uma volta por aí.\nSe ele gostar de algum lugar, vai reagir.",
+        "es-ES": "[Dumk]\nOye, mejor andemos cada uno por su lado.\nSi le gusta algún lugar, ya nos lo dirá."
     },
     "CQlyDA": {
-        "ko-KR": "[둠크]\n적당한 장소를 찾으면 부를테니까 와서 소환인지 뭔지 해보던가.\n그럼 먼저 뒤져보러 간다.",
         "en-US": "[Doomk]\nI'll call you if I find a suitable place. You can summon it there, then.\nNow, I'll go first.",
-        "pt-BR": "[Doomk]\nQuando achar um lugar adequado, vou te chamar, então vem aqui e faz essa invocação ou algo assim.\nVou dar uma olhada por aí primeiro.",
-        "es-ES": "[Doomk]\nCuando encuentre un lugar adecuado, te llamaré para que vengas a hacer esa invocación o lo que sea.\nBueno, yo me voy a dar una vuelta primero."
+        "pt-BR": "[Dumk]\nQuando achar um lugar adequado, vou te chamar, então vem aqui e faz essa invocação ou algo assim.\nVou dar uma olhada por aí primeiro.",
+        "es-ES": "[Dumk]\nCuando encuentre un lugar adecuado, te llamaré para que vengas a hacer esa invocación o lo que sea.\nBueno, yo me voy a dar una vuelta primero."
     },
     "CglyDA": {
-        "ko-KR": "[메이셀]\n뭐 그럼 저도 주변을 좀 둘러보겠어요.\n사실 적당히 아무데서나 불러도 상관없을 것 같지만요.",
         "en-US": "[Mayssel]\nWell then, I'll look around the area too.\nFrankly, I don't think it'd mind wherever we call it.",
-        "pt-BR": "[Meisel]\nBem, então eu também vou dar uma olhada por aqui.\nNa verdade, acho que não faz diferença se a gente chamá-lo em qualquer lugar.",
+        "pt-BR": "[Mayssel]\nBem, então eu também vou dar uma olhada por aqui.\nNa verdade, acho que não faz diferença se a gente chamá-lo em qualquer lugar.",
         "es-ES": "[Meisel]\nBueno, entonces yo también voy a echar un vistazo por aquí.\nAunque, la verdad, creo que no importa mucho dónde lo invoquemos."
     },
     "CwlyDA": {
-        "ko-KR": "[베르카셀]\n다들 제멋대로군.\n넌 주변을 살피다가 어둠의 정령이 반응하는 곳을 찾아 봐.",
         "en-US": "[Verkhasel]\nNot team players, those.\nYou should look around and find where the dark elemental reacts.",
-        "pt-BR": "[Vercasel]\nTodo mundo faz o que quer.\nVocê fica de olho nos arredores e tenta achar um lugar onde o espírito das trevas reaja.",
-        "es-ES": "[Vercasel]\nTodos hacen lo que les da la gana.\nTú echa un vistazo por ahí y busca algún lugar donde el espíritu de la oscuridad reaccione."
+        "pt-BR": "[Verkhasel]\nTodo mundo faz o que quer.\nVocê fica de olho nos arredores e tenta achar um lugar onde o Elemental Sombrio reaja.",
+        "es-ES": "[Verkhasel]\nTodos hacen lo que les da la gana.\nTú echa un vistazo por ahí y busca algún lugar donde el espíritu de la oscuridad reaccione."
     },
     "DAlyDA": {
-        "ko-KR": "[베르카셀]\n장소를 찾아 신호를 보내면 즉시 그쪽으로 이동하지.",
         "en-US": "[Verkhasel]\nFind the spot and signal us. We'll be there at once.",
-        "pt-BR": "[Berksel]\nQuando encontrar o lugar e enviar o sinal, vou para lá na hora.",
-        "es-ES": "[Vercasel]\nCuando encuentres el lugar y me envíes una señal, me desplazaré inmediatamente hacia allí."
+        "pt-BR": "[Verkhasel]\nQuando encontrar o lugar e enviar o sinal, irei correndo.",
+        "es-ES": "[Verkhasel]\nCuando encuentres el lugar y me envíes una señal, me desplazaré inmediatamente hacia allí."
     },
     "DQlyDA": {
-        "ko-KR": "[베르카셀]\n넌 주변을 살피다가 어둠의 정령이 반응하는 곳을 찾아 봐.\n장소를 찾아 신호를 보내면 즉시 그쪽으로 이동하지.",
         "en-US": "[Verkhasel]\nYou should look around and find where the dark elemental reacts.\nIf you find it, signal us. We'll be there at once.",
-        "pt-BR": "[Vercasel]\nVocê fica de olho nos arredores e procura um lugar onde o espírito das trevas reaja.\nQuando encontrar o lugar e mandar um sinal, eu vou pra lá na hora.",
-        "es-ES": "[Vercasel]\nTú echa un vistazo por ahí y busca un lugar donde reaccione el espíritu de la oscuridad.\nCuando encuentres el lugar y me envíes una señal, me desplazaré hacia allí de inmediato."
+        "pt-BR": "[Verkhasel]\nVocê fica de olho nos arredores e procura por um lugar onde o Elemental Sombrio reaja.\nQuando encontrar o lugar e mandar um sinal, eu vou pra lá na hora.",
+        "es-ES": "[Verkhasel]\nTú echa un vistazo por ahí y busca un lugar donde reaccione el espíritu de la oscuridad.\nCuando encuentres el lugar y me envíes una señal, me desplazaré hacia allí de inmediato."
     },
     "DglyDA": {
-        "ko-KR": "둠크",
         "en-US": "Doomk",
-        "pt-BR": "Doomk",
-        "es-ES": "Doomk"
+        "pt-BR": "Dumk",
+        "es-ES": "Dumk"
     },
     "DwlyDA": {
-        "ko-KR": "그래서 이제 어떡할 건데?",
         "en-US": "So, what are we going to do now?",
         "pt-BR": "Então, o que vamos fazer agora?",
         "es-ES": "¿Y ahora qué hacemos?"
     },
     "EAlyDA": {
-        "ko-KR": "메이셀",
         "en-US": "Mayssel",
-        "pt-BR": "Meisel",
+        "pt-BR": "Mayssel",
         "es-ES": "Meisel"
     },
     "EQlyDA": {
-        "ko-KR": "오랜만이에요.",
         "en-US": "Long time no see.",
         "pt-BR": "Há quanto tempo.",
         "es-ES": "Cuánto tiempo sin vernos."
     },
     "EglyDA": {
-        "ko-KR": "그림자",
         "en-US": "Shadow",
         "pt-BR": "Sombra",
         "es-ES": "Sombra"
     },
     "EwlyDA": {
-        "ko-KR": "여기가 좋겠어!",
         "en-US": "This spot looks good.",
         "pt-BR": "Acho que aqui é um bom lugar!",
         "es-ES": "¡Este lugar está bien!"
     },
     "FAlyDA": {
-        "ko-KR": "- 소지하고 계신 아이템이 많아 퀘스트를 진행할 수 없습니다. -",
         "en-US": "- You're carrying too many items to proceed with this quest. -",
-        "pt-BR": "- Não dá pra continuar a missão porque você tá com muitos itens. -",
+        "pt-BR": "- Não dá pra continuar a missão porque você possui muitos itens. -",
         "es-ES": "- Tienes demasiados objetos y no puedes continuar con la misión. -"
     },
     "FQlyDA": {
-        "ko-KR": "품 속에 갈무리되어 있던 어둠의 결정체와 어둠의 조각이 반응했다.",
         "en-US": "The Crystals of Darkness and Dark Pieces inside my pocket reacted.",
-        "pt-BR": "O cristal das trevas e o fragmento das trevas que estavam guardados no meu peito reagiram.",
+        "pt-BR": "Os Cristais da Escuridão e os Fragmentos Sombrios que estavam comigo reagiram.",
         "es-ES": "El cristal de la oscuridad y el fragmento de la oscuridad que guardaba en mi pecho reaccionaron."
     },
     "FglyDA": {
-        "ko-KR": "이 몸, 부활!",
         "en-US": "I'm back!",
-        "pt-BR": "Este corpo, ressuscite!",
+        "pt-BR": "Este corpo, ressuscitou!",
         "es-ES": "¡Este cuerpo, resucita!"
     },
     "FwlyDA": {
-        "ko-KR": "이 기운은 뭐지?",
         "en-US": "What's this energy?",
         "pt-BR": "Que energia é essa?",
         "es-ES": "¿Qué es esta energía?"
     },
     "GAlyDA": {
-        "ko-KR": "뭐야, 무슨 일인데?",
         "en-US": "What's going on?",
         "pt-BR": "O que é isso? O que está acontecendo?",
         "es-ES": "¿Qué pasa? ¿Qué está pasando?"
     },
     "GQlyDA": {
-        "ko-KR": "[메이셀]\n어두미! 오랜만이군요!",
-        "en-US": "[Mayssel]\nDarkne! Long time no see!",
-        "pt-BR": "[Meisel]\nEdomi! Há quanto tempo!",
+        "en-US": "[Mayssel]\nDarky! Long time no see!",
+        "pt-BR": "[Mayssel]\nDarky! Há quanto tempo!",
         "es-ES": "[Meisel]\n¡Eodumi! ¡Cuánto tiempo sin verte!"
     },
     "GglyDA": {
-        "ko-KR": "[까망이]\n오호? 오랜만에 듣는 이름이네.\n하지만 지금 이 몸의 이름은 까망이.\n어린 인간들이 붙여준 귀한 이름이 있다.",
-        "en-US": "[Blackie]\nOooh? That's a name I haven't heard in a while.\nBut now, this body's name is Blackie.\nSome young humans gave me this precious name.",
-        "pt-BR": "[Kkaman-i]\nOh? Faz tempo que não ouço esse nome.\nMas agora o nome deste corpo é Kkaman-i.\nTenho um nome precioso que as crianças humanas me deram.",
+        "en-US": "[Blacky]\nOooh? That's a name I haven't heard in a while.\nBut now, this body's name is Blacky.\nSome young humans gave me this precious name.",
+        "pt-BR": "[Blacky]\nOh? Faz tempo que não ouço esse nome.\nMas agora o nome deste corpo é Blacky.\nÉ um nome precioso que as crianças humanas me deram.",
         "es-ES": "[Kkaman-i]\n¿Oh? Hace tiempo que no oigo ese nombre.\nPero ahora mi nombre es Kkaman-i.\nLos humanos pequeños me pusieron un nombre precioso."
     },
     "GwlyDA": {
-        "ko-KR": "[까망이]\n후 …. 그나저나 여기 뭐냐? 되게 좋은데?\n당분간 여길 내 거처로 삼아도 되는 거냐?",
-        "en-US": "[Blackie]\nWhew! By the way, what kind of place is this? It's pretty nice.\nCan I stay here for a while?",
-        "pt-BR": "[Kkaman-i]\nUfa... Enfim, o que é isso aqui? É bem legal, né?\nPor enquanto, posso fazer disso meu lar?",
+        "en-US": "[Blacky]\nWhew! By the way, what kind of place is this? It's pretty nice.\nCan I stay here for a while?",
+        "pt-BR": "[Blacky]\nUfa... Enfim, que lugar é esse aqui? É bem legal, né?\nPor enquanto, posso fazer disso meu lar?",
         "es-ES": "[Kkaman-i]\nUf… Por cierto, ¿qué es esto? ¿Es un lugar genial?\n¿Puedo usar esto como mi morada por un tiempo?"
     },
     "HAlyDA": {
-        "ko-KR": "[둠크]\n뭐야? 이 시커먼 것은.\n이게 그 어둠의 정령인가 하는 건가?\n신기하게 생겼군 ….",
         "en-US": "[Doomk]\nWhat's this? This dark thing.\nIs this the dark elemental?\nIt looks pretty interesting….",
-        "pt-BR": "[Doomk]\nO que é isso? Essa coisa toda preta.\nSerá que é o tal espírito das trevas?\nTem uma aparência bem estranha...",
-        "es-ES": "[Doomk]\n¿Qué es esto? ¿Esta cosa negra?\n¿Es este el espíritu de la oscuridad?\nTiene un aspecto curioso…"
+        "pt-BR": "[Dumk]\nO que é isso? Essa coisa toda preta.\nSerá que é o tal Elemental Sombrio?\nTem uma aparência bem estranha...",
+        "es-ES": "[Dumk]\n¿Qué es esto? ¿Esta cosa negra?\n¿Es este el espíritu de la oscuridad?\nTiene un aspecto curioso…"
     },
     "HQlyDA": {
-        "ko-KR": "[베르카셀]\n여긴 어차피 아무도 오지 못하도록 출입을 제한하는 곳이니 언제든 머물고 싶을때까지 있어도 좋다.",
         "en-US": "[Verkhasel]\nThis place is private property, anyway. People can't come in here as they please. You can stay for as long as you want.",
-        "pt-BR": "[Berkasel]\nDe qualquer forma, este é um lugar com acesso restrito, onde ninguém pode entrar, então fica à vontade até quando quiser.",
+        "pt-BR": "[Verkhasel]\nDe qualquer forma, este é um lugar com acesso restrito, onde ninguém pode entrar, então fique à vontade por quanto tempo quiser.",
         "es-ES": "[Berkasel]\nDe todos modos, este es un lugar al que nadie puede entrar, así que puedes quedarte todo el tiempo que quieras."
     },
     "HglyDA": {
-        "ko-KR": "[베르카셀]\n다만 세상에 공짜는 없지.\n조건이 있다. 어둠의 정령.",
-        "en-US": "[Bercassell]\nBut nothing in this world is free.\nThere's a condition. The elemental of darkness.",
-        "pt-BR": "[Bercasel]\nMas nada na vida é de graça.\nTem uma condição, Espírito das Trevas.",
-        "es-ES": "[Bercasel]\nPero nada es gratis en este mundo.\nHay una condición, espíritu de la oscuridad."
+        "en-US": "[Verkhasel]\nBut nothing in this world is free.\nThere's a condition, Dark Elemental.",
+        "pt-BR": "[Verkhasel]\nMas nada na vida é de graça.\nHá uma condição, Elemental Sombrio.",
+        "es-ES": "[Verkhasel]\nPero nada es gratis en este mundo.\nHay una condición, espíritu de la oscuridad."
     },
     "HwlyDA": {
-        "ko-KR": "[까망이]\n그 조건이라는 건, 이 몸의 힘의 일부를 얻겠다는 거겠지?\n좋아. 거기까지는 이 몸의 예상 범위다.",
-        "en-US": "[Blackie]\nThat condition, you mean you want a portion of this body's power, right?\nFine. That much is within this body's expectations.",
-        "pt-BR": "[Kkaman-i]\nEssa condição é que você quer uma parte do poder deste corpo, não é?\nTudo bem. Isso está dentro do que eu esperava.",
+        "en-US": "[Blacky]\nThat condition, you mean you want a portion of this body's power, right?\nFine. That much is within this body's expectations.",
+        "pt-BR": "[Blacky]\nEssa condição é que você quer uma parte do poder deste corpo, não é?\nTudo bem. Isso está dentro do que eu esperava.",
         "es-ES": "[Negrito]\nEsa condición será que quieres quedarte con parte de mi poder, ¿no?\nEstá bien. Hasta ahí, estaba dentro de lo que esperaba."
     },
     "IAlyDA": {
-        "ko-KR": "[까망이]\n너희들은 이미 그림자의 기운을 품고 있는 것 같으니 상성는 걱정 안 한다.\n하지만 이 몸의 힘을 습득할 녀석이 허약해서 픽픽 쓰러져선 안되겠지.",
-        "en-US": "[Blackie]\nYou lot already seem to possess the essence of shadow, so I'm not worried about compatibility.\nBut the one who'll master this body's power can't be weak and collapse at the slightest provocation.",
-        "pt-BR": "[Kkaman-i]\nParece que vocês já estão imbuídos da energia das sombras, então não me preocupo com a compatibilidade.\nMas o garoto que vai absorver o poder deste corpo não pode ser tão frágil a ponto de desmaiar a qualquer momento.",
+        "en-US": "[Blacky]\nYou lot already seem to possess the essence of shadow, so I'm not worried about compatibility.\nBut the one who'll master this body's power can't be weak and collapse at the slightest provocation.",
+        "pt-BR": "[Blacky]\nParece que vocês já estão imbuídos da energia das sombras, então não me preocupo com a compatibilidade.\nMas o garoto que vai absorver o poder deste corpo não pode ser tão frágil a ponto de desmaiar a qualquer momento.",
         "es-ES": "[Kkaman-i]\nParece que ya tienen la energía de las sombras, así que no me preocupa la compatibilidad.\nPero el chico que va a absorber el poder de este cuerpo no puede ser tan débil como para desmayarse a cada rato."
     },
     "IQlyDA": {
-        "ko-KR": "[까망이]\n그리고 그 대상은 이 몸이 결정하겠어.",
-        "en-US": "[Blackie]\nAnd I'll decide who that is.",
-        "pt-BR": "[Kkaman-i]\nE quem vai ser o escolhido, sou eu quem decide.",
+        "en-US": "[Blacky]\nAnd I'll decide who that is.",
+        "pt-BR": "[Blacky]\nE quem vai ser o escolhido, sou eu quem decido.",
         "es-ES": "[Negrito]\nY yo decidiré quién será ese."
     },
     "IglyDA": {
-        "ko-KR": "[베르카셀]\n마음대로 해.\n대신 여기에 머무는 동안, 원하는 자가 오면 누구든 대상으로 고려해야 할 것이다.",
         "en-US": "[Verkhasel]\nDo as you wish.\nBut while you stay here, you must consider sharing your power with any one of us who wants it.",
-        "pt-BR": "[Berkaxel]\nFaz o que quiseres.\nMas, enquanto ficarem aqui, se alguém se apresentar, terão que considerá-lo como candidato.",
-        "es-ES": "[Bercasel]\nHaz lo que quieras.\nPero mientras te quedes aquí, tendrás que considerar como objetivo a cualquiera que se presente."
+        "pt-BR": "[Verkhasel]\nFaça como quiser.\nMas, enquanto permanecer aqui, se alguém se apresentar, terá que considerar como candidato.",
+        "es-ES": "[Verkhasel]\nHaz lo que quieras.\nPero mientras te quedes aquí, tendrás que considerar como objetivo a cualquiera que se presente."
     },
     "IwlyDA": {
-        "ko-KR": "[까망이]\n한 번으로 끝나는 게 아니야?",
-        "en-US": "[Blackie]\nDoesn't this end after just one time?",
-        "pt-BR": "[Kkaman-i]\nNão vai acabar logo de uma vez, né?",
+        "en-US": "[Blacky]\nDoesn't this end after just one time?",
+        "pt-BR": "[Blacky]\nNão vai acabar logo de uma vez, né?",
         "es-ES": "[Negrito]\n¿No se acabará en una sola vez?"
     },
     "JAlyDA": {
-        "ko-KR": "[메이셀]\n어머, 무슨 그런 섭섭한 말씀을.\n당분간 이 저택에서 나가지 못할텐데요.\n우리가 보내는 우수한 전력을 더 우수하게 도와주셔야지요?",
         "en-US": "[Mayssel]\nOh, of course.\nYou get to keep this mansion all to yourself.\nIn return, we just want you to help us grow stronger. You can do it, can't you?",
-        "pt-BR": "[Meisel]\nNossa, que comentário triste.\nPor enquanto, não vamos poder sair desta mansão.\nVocê precisa ajudar ainda mais os excelentes guerreiros que enviamos, não é?",
+        "pt-BR": "[Mayssel]\nNossa, que comentário triste.\nPor enquanto, não vamos poder sair desta mansão.\nVocê ainda precisa ajudar os excelentes guerreiros que enviamos, não é?",
         "es-ES": "[Meisel]\nAy, qué comentarios tan desagradables.\nPor el momento no podremos salir de esta mansión.\n¿No deberías ayudar aún más a los excelentes combatientes que enviamos?"
     },
     "JQlyDA": {
-        "ko-KR": "[둠크]\n어둠의 정령을 어떻게 보고 그런 협잡을 부리는 거지?\n그게 통하나?",
         "en-US": "[Doomk]\nHow dare you scheme like this with the dark elemental?\nDo you think that'll work?",
-        "pt-BR": "[Doomk]\nComo você ousa fazer esse tipo de trapaça com um espírito das trevas?\nIsso vai funcionar?",
-        "es-ES": "[Doomk]\n¿Cómo te atreves a hacerme ese tipo de chantaje a un espíritu de la oscuridad?\n¿Crees que eso va a funcionar?"
+        "pt-BR": "[Dumk]\nComo você ousa fazer esse tipo de trapaça com o Elemental Sombrio?\nAcha q isso vai funcionar?",
+        "es-ES": "[Dumk]\n¿Cómo te atreves a hacerme ese tipo de chantaje a un espíritu de la oscuridad?\n¿Crees que eso va a funcionar?"
     },
     "JglyDA": {
-        "ko-KR": "[까망이]\n이 몸은...",
-        "en-US": "[Blackie]\nThis body...",
-        "pt-BR": "[Kkaman-i]\nEste corpo é...",
+        "en-US": "[Blacky]\nThis body...",
+        "pt-BR": "[Blacky]\nEste corpo é...",
         "es-ES": "[Negrito]\nEste cuerpo es..."
     },
     "JwlyDA": {
-        "ko-KR": "위대하죠! 뭐든 해 줄 수 있는 능력있는 정령이죠!",
         "en-US": "It's magnificent! A capable elemental that can do anything!",
         "pt-BR": "É grandioso! É um espírito capaz de fazer qualquer coisa!",
         "es-ES": "¡Es grandioso! ¡Es un espíritu capaz de hacer cualquier cosa!"
     },
     "KAlyDA": {
-        "ko-KR": "위대해! 뭐든 해 줄 수 있다!",
         "en-US": "Awesome! I can do anything!",
-        "pt-BR": "É grandioso! Pode fazer qualquer coisa!",
+        "pt-BR": "É grandioso! Posso fazer qualquer coisa!",
         "es-ES": "¡Es grandioso! ¡Puedo hacer cualquier cosa!"
     },
     "KQlyDA": {
-        "ko-KR": "[까망이]\n좋아. 거기 인간.\n이 몸에게 어둠을 가져다 준 인간!\n너를 시험해 보겠다.",
-        "en-US": "[Blackie]\nAlright. You over there.\nYou brought me the darkness!\nI'll test you.",
-        "pt-BR": "[Kkaman-i]\nTudo bem. Ei, humano.\nHumano que trouxe a escuridão para mim!\nVou te testar.",
+        "en-US": "[Blacky]\nAlright. You over there.\nYou brought me the darkness!\nI'll test you.",
+        "pt-BR": "[Blacky]\nTudo bem. Ei, humano.\nHumano que trouxe a escuridão para mim!\nVou te testar.",
         "es-ES": "[Kkaman-i]\nBien. Oye, humano.\n¡Humano que le trajiste la oscuridad a este cuerpo!\nTe pondré a prueba."
     },
     "KglyDA": {
-        "ko-KR": "[까망이]\n적당히 실력만 볼 거니까 겁먹지 말고 준비해라.",
-        "en-US": "[Blackie]\nI'll only test your skills, so don't be scared. Get ready.",
-        "pt-BR": "[Kkaman-i]\nVou apenas avaliar o teu nível, então não te assustes e prepara-te.",
+        "en-US": "[Blacky]\nI'll only test your skills, so don't be scared. Get ready.",
+        "pt-BR": "[Blacky]\nVou apenas avaliar o teu nível, então não se assuste e prepara-se.",
         "es-ES": "[Kkaman-i]\nSolo voy a evaluar tu nivel, así que no te asustes y prepárate."
     },
     "KwlyDA": {
-        "ko-KR": "[베르카셀]\n잘됐군. 이걸로 조직내 새 등급을 신설하는데는 문제가 없을 것 같군.",
         "en-US": "[Verkhasel]\nGood. Now, we won't have a problem creating a new rank among ourselves.",
-        "pt-BR": "[Berkaxel]\nQue bom. Parece que não haverá problema em criar uma nova classificação dentro da organização com isso.",
-        "es-ES": "[Berkaxel]\nQué bien. Parece que no habrá problema para crear un nuevo rango dentro de la organización con esto."
+        "pt-BR": "[Verkhasel]\nQue bom. Parece que não haverá problema em criar uma nova classificação dentro da organização com isso.",
+        "es-ES": "[Verkhasel]\nQué bien. Parece que no habrá problema para crear un nuevo rango dentro de la organización con esto."
     },
     "LAlyDA": {
-        "ko-KR": "어둠의 결정체와 어둠의 조각이 부족한 것 같다 ….",
         "en-US": "I don't have enough Crystals of Darkness or Dark Pieces.",
-        "pt-BR": "Parece que faltam o Cristal das Trevas e o Fragmento das Trevas...",
+        "pt-BR": "Parece que faltam Cristais da Escuridão e Fragmentos Sombrios...",
         "es-ES": "Parece que nos faltan cristales de oscuridad y fragmentos de oscuridad..."
     },
     "LQlyDA": {
-        "ko-KR": "[까망이]\n준비가 됐나?\n그럼 누가 좋을까 ….\n흐으응. 그래 너로 결정했다!",
-        "en-US": "[Blackie]\nReady?\nThen, whom should I use...?\nHmm... Yes, you!",
-        "pt-BR": "[Kkaman-i]\nJá está pronto?\nEntão, quem seria uma boa escolha...\nHmmm. É, decidi que serás tu!",
+        "en-US": "[Blacky]\nReady?\nThen, whom should I use...?\nHmm... Yes, you!",
+        "pt-BR": "[Blacky]\nTudo pronto?\nEntão, quem seria uma boa escolha...\nHmmm. É, será você!",
         "es-ES": "[Kkaman-i]\n¿Ya estás listo?\nEntonces, ¿quién sería un buen candidato...?\nMmm... ¡Sí, me quedo contigo!"
     },
     "LglyDA": {
-        "ko-KR": "[까망이]\n둠크라고 했나?\n너, 너의 그 흰 머리카락이 마음에 안 들어.\n그러니 널 이용하겠어.",
-        "en-US": "[Blackie]\nDoomk, right?\nY-your white hair displeases me.\nSo, I'm going to use you.",
-        "pt-BR": "[Kkaman-i]\nDisseste Doomk, não foi?\nNão gosto do teu cabelo branco.\nPor isso, vou usar-te.",
-        "es-ES": "[Kkaman-i]\n¿Dijiste que te llamabas Doomk?\nNo me gusta tu pelo blanco.\nAsí que te voy a usar."
+        "en-US": "[Blacky]\nDoomk, right?\nY-your white hair displeases me.\nSo, I'm going to use you.",
+        "pt-BR": "[Blacky]\nDumk, não é?\nNão gosto do teu cabelo branco.\nPor isso, vou te usar.",
+        "es-ES": "[Kkaman-i]\n¿Dijiste que te llamabas Dumk?\nNo me gusta tu pelo blanco.\nAsí que te voy a usar."
     },
     "LwlyDA": {
-        "ko-KR": "[둠크]\n무슨 소린지 도통 모르겠네?\n잠깐, 내 몸에 무슨 짓이야!",
         "en-US": "[Doomk]\nWhat the hell are you talking about?\nWait, what are you doing to my body?",
-        "pt-BR": "[Doomk]\nNão estou entendendo nada disso...\nEspere aí, o que você está fazendo comigo!",
-        "es-ES": "[Doomk]\n¿De qué diablos estás hablando?\n¡Espera, qué le estás haciendo a mi cuerpo!"
+        "pt-BR": "[Dumk]\nNão estou entendendo nada disso...\nEspere aí, o que você está fazendo comigo!",
+        "es-ES": "[Dumk]\n¿De qué diablos estás hablando?\n¡Espera, qué le estás haciendo a mi cuerpo!"
     },
     "MAlyDA": {
-        "ko-KR": "실력을 좀 볼까?",
         "en-US": "Let's see what you've got.",
         "pt-BR": "Vamos ver do que você é capaz?",
         "es-ES": "¿Vamos a ver de qué estás hecho?"
     },
     "MQlyDA": {
-        "ko-KR": "너 …. 가만 두지 않겠어 …!",
         "en-US": "You... You won't get away with this!",
         "pt-BR": "Você... Não vou deixar isso passar...!",
         "es-ES": "Tú… ¡No te lo voy a dejar pasar…!"
     },
     "MglyDA": {
-        "ko-KR": "자, 싸워라! 싸워서 이겨라!",
         "en-US": "Now, fight! Fight and win!",
-        "pt-BR": "Vamos lá, luta! Luta e vence!",
+        "pt-BR": "Vamos lá, lute! Lute e vença!",
         "es-ES": "¡Vamos, lucha! ¡Lucha y gana!"
     },
     "MwlyDA": {
-        "ko-KR": "무운을 빈다. 둠크.",
         "en-US": "Good luck, Doomk.",
-        "pt-BR": "Boa sorte, Doomk.",
-        "es-ES": "Que tengas suerte, Doomk."
+        "pt-BR": "Boa sorte, Dumk.",
+        "es-ES": "Que tengas suerte, Dumk."
     },
     "NAlyDA": {
-        "ko-KR": "조종당하는 둠크",
         "en-US": "Possessed Doomk",
-        "pt-BR": "Doomk sendo controlado",
-        "es-ES": "Doomk, bajo control"
+        "pt-BR": "Dumk sendo controlado",
+        "es-ES": "Dumk, bajo control"
     },
     "NQlyDA": {
-        "ko-KR": "자, 어서 실력을 보이라고.",
         "en-US": "Come on, show me what you've got.",
-        "pt-BR": "Vamos lá, mostra logo o que sabes fazer.",
+        "pt-BR": "Vamos lá, mostre-me logo o que sabe fazer.",
         "es-ES": "Vamos, muéstrame de qué estás hecho."
     },
     "NglyDA": {
-        "ko-KR": "[까망이]\n크크크크큭 시시하게도 이겨버렸구나!\n아, 어차피 어둠을 받아들일 수 있는지 알아보려고 가볍게 전투를 해본 것 뿐이야.",
-        "en-US": "[Blackie]\nHah hah hah hah! You won.\nFor your information, this fight was just to see if you could accept darkness.",
-        "pt-BR": "[Kkaman-i]\nKekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekekek",
+        "en-US": "[Blacky]\nHah hah hah hah! You won.\nFor your information, this fight was just to see if you could accept darkness.",
+        "pt-BR": "[Blacky]\nHah hah hah hah! Você venceu.\nIsso foi só para ver se ele conseguiria aguentar a escuridão.",
         "es-ES": "[Negrito]\nJajajaja, ¡qué fácil me ganaste!\nAh, de todos modos, solo fue una pelea de prueba para ver si podías aceptar la oscuridad."
     },
     "NwlyDA": {
-        "ko-KR": "[까망이]\n둠크라는 저 작자가 약한 게 아니니까 말이야.\n나중에라도 건방지게 굴면 안 된다?",
-        "en-US": "[Blackie]\nDon't go thinking Doomk is weak, you hear me?\nDon't get cocky later, got it?",
-        "pt-BR": "[Kkaman-i]\nEsse tal de Doomk não é fraco, tá?\nNão dá pra ficar se achando, nem que seja mais tarde, tá?",
-        "es-ES": "[Negrito]\nEs que ese tipo, Doomk, no es ningún debilucho.\n¿No te atrevas a ponerte chulo ni siquiera más adelante?"
+        "en-US": "[Blacky]\nDon't go thinking Doomk is weak, you hear me?\nDon't get cocky later, got it?",
+        "pt-BR": "[Blacky]\nEsse tal de Dumk não é fraco, tá?\nNão vá ficar se achando, entendeu?",
+        "es-ES": "[Negrito]\nEs que ese tipo, Dumk, no es ningún debilucho.\n¿No te atrevas a ponerte chulo ni siquiera más adelante?"
     },
     "OAlyDA": {
-        "ko-KR": "[까망이]\n넌 자질이 충분한 것 같네.\n좋아! 그럼 이 몸의 힘을 좀 나눠줘볼까?\n내 힘을 받아들일 준비가 되면 다시 말을 걸어달라고.",
-        "en-US": "[Blackie]\nYou seem qualified enough.\nAlright! Then shall I share some of my power with you?\nWhen you're ready to accept my power, come talk to me again.",
-        "pt-BR": "[Kkaman-i]\nParece que você tem potencial suficiente.\nÓtimo! Então, que tal eu te dar um pouco do meu poder?\nQuando estiver pronto para receber meu poder, fala comigo de novo.",
+        "en-US": "[Blacky]\nYou seem qualified enough.\nAlright! Then shall I share some of my power with you?\nWhen you're ready to accept my power, come talk to me again.",
+        "pt-BR": "[Blacky]\nParece que você tem potencial suficiente.\nÓtimo! Então, que tal eu te dar um pouco do meu poder?\nQuando estiver pronto para receber meu poder, fala comigo de novo.",
         "es-ES": "[Negrito]\nParece que tienes suficiente potencial.\n¡Bien! ¿Te voy a compartir un poco de mi poder?\nCuando estés listo para recibir mi poder, vuelve a hablarme."
     },
     "OQlyDA": {
-        "ko-KR": "[베르카셀]\n일단 탈 것에서 내려오면 좋겠군.\n지금부터 어둠의 힘을 받아야 하니까.",
         "en-US": "[Verkhasel]\nYou'd better get off your mount first.\nIt's time you accept the power of darkness.",
-        "pt-BR": "[Berksel]\nSeria bom se você descesse do veículo primeiro.\nPorque agora você precisa receber o poder das trevas.",
-        "es-ES": "[Berksel]\nSería mejor que te bajaras del vehículo.\nPorque a partir de ahora tienes que recibir el poder de la oscuridad."
+        "pt-BR": "[Verkhasel]\nVocê deveria descer de sua montaria primeiro.\nPorque agora você é a hora de receber o poder das trevas.",
+        "es-ES": "[Verkhasel]\nSería mejor que te bajaras del vehículo.\nPorque a partir de ahora tienes que recibir el poder de la oscuridad."
     },
     "OglyDA": {
-        "ko-KR": "[베르카셀]\n잠깐, 지금 네가 어둠의 힘을 받으면 조직에서 새로 생성되는 ^4D4DFF쉐도우 크로스^000000가 된다.\n어쌔신들의 정점이 되는 것이지.",
         "en-US": "[Verkhasel]\nWait. If you accept the power of darkness now, you'll become a ^4D4DFFShadow Cross^000000, a member of the new group in the Guild,\nwhich is above all Assassins.",
-        "pt-BR": "[Berksel]\nEspera aí, se você receber o poder das trevas agora, vai se tornar um ^4D4DFFShadow Cross^000000 recém-criado pela organização.\nIsso significa que você vai chegar ao topo dos Assassinos.",
-        "es-ES": "[Bercasel]\nUn momento, si recibes el poder de la oscuridad ahora, te convertirás en un nuevo ^4D4DFFShadow Cross^000000 creado por la organización.\nSerás la cúspide de los asesinos."
+        "pt-BR": "[Verkhasel]\nEspera aí, se você receber o poder das trevas agora, vai se tornar um ^4D4DFFExecutor^000000 recém-criado pela organização.\nIsso significa que você vai chegar ao topo dos Mercenários.",
+        "es-ES": "[Verkhasel]\nUn momento, si recibes el poder de la oscuridad ahora, te convertirás en un nuevo ^4D4DFFEjecutor^000000 creado por la organización.\nSerás la cúspide de los asesinos."
     },
     "OwlyDA": {
-        "ko-KR": "[베르카셀]\n널 위해 메이셀과 함께 준비한 새로운 제복이다.\n다시 태어나는 기념으로 입어주면 좋겠군.",
-        "en-US": "[Bercassell]\nMayssel and I have prepared this new uniform for you.\nI hope you like it.",
-        "pt-BR": "[Vercasel]\nÉ o novo uniforme que preparei com o Meisel especialmente para você.\nGostaria que você o vestisse para comemorar o seu renascimento.",
-        "es-ES": "[Vercasel]\nEste es el nuevo uniforme que preparamos para ti junto con Meisel.\nMe gustaría que te lo pusieras para celebrar tu renacimiento."
+        "en-US": "[Verkhasel]\nMayssel and I have prepared this new uniform for you.\nI hope you like it.",
+        "pt-BR": "[Verkhasel]\nÉ o novo uniforme que preparei com Mayssel especialmente para você.\nGostaria que você o vestisse para comemorar o seu renascimento.",
+        "es-ES": "[Verkhasel]\nEste es el nuevo uniforme que preparamos para ti junto con Meisel.\nMe gustaría que te lo pusieras para celebrar tu renacimiento."
     },
     "PAlyDA": {
-        "ko-KR": "[메이셀]\n디자인은 둠크랑 같이 했답니다. 잘 어울릴 거에요.",
         "en-US": "[Mayssel]\nDoomk helped us design it. I'm sure it'll look good on you.",
-        "pt-BR": "[Meisel]\nO design foi feito junto com o Doomk. Vai ficar bem em você.",
-        "es-ES": "[Meisel]\nEl diseño lo hicimos junto con Doomk. Te va a quedar genial."
+        "pt-BR": "[Mayssel]\nO design foi feito junto com Dumk. Vai ficar bem em você.",
+        "es-ES": "[Meisel]\nEl diseño lo hicimos junto con Dumk. Te va a quedar genial."
     },
     "PQlyDA": {
-        "ko-KR": "[둠크]\n흥, 당연한 말을 하고 있군.\n어둠의 정령. 이쪽 준비는 다 됐다. 어서 이 녀석을 새롭게 만들어 달라고.",
         "en-US": "[Doomk]\nHmph, stating the obvious.\nDark elemental, we're ready. Come on, give them a makeover.",
-        "pt-BR": "[Doomk]\nHmph, estás a dizer o óbvio.\nEspírito das Trevas. A nossa parte está pronta. Pede-lhe para transformar este rapaz.",
-        "es-ES": "[Doomk]\nJe, qué obviedad.\nEspíritu de la Oscuridad. Por aquí ya estamos listos. Dile que renueve a este chico."
+        "pt-BR": "[Dumk]\nHmph, mas isso é óbvio.\nElemental Sombrio, a nossa parte está pronta. Pode transformar este rapaz.",
+        "es-ES": "[Dumk]\nJe, qué obviedad.\nEspíritu de la Oscuridad. Por aquí ya estamos listos. Dile que renueve a este chico."
     },
     "PglyDA": {
-        "ko-KR": "[까망이]\n후후후. 그러지.\n이 몸은 은혜를 갚을 줄 아는 정령이다.\n그럼 긴장을 풀고 이 몸의 기운을 받아들이도록.",
-        "en-US": "[Blackie]\nHah hah hah. As you wish.\nI'm an elemental who never forgets the favors.\nNow, relax and accept my energy.",
-        "pt-BR": "[Kkaman-i]\nHuhuhuh. É isso aí.\nEu sou um espírito que sabe retribuir favores.\nEntão relaxa e recebe a minha energia.",
+        "en-US": "[Blacky]\nHah hah hah. As you wish.\nI'm an elemental who never forgets the favors.\nNow, relax and accept my energy.",
+        "pt-BR": "[Blacky]\nHuhuhuh. É isso aí.\nEu sou um espírito que sabe retribuir favores.\nEntão relaxa e receba a minha energia.",
         "es-ES": "[Kkaman-i]\nJujuju. Así es.\nEste ser es un espíritu que sabe cómo devolver un favor.\nEntonces, relájate y recibe la energía de este ser."
     },
     "PwlyDA": {
-        "ko-KR": "[베르카셀]\n쉐도우 크로스가 된 걸 축하한다.",
-        "en-US": "[Bercassell]\nCongratulations on becoming Shadow Cross.",
-        "pt-BR": "[Vercasel]\nParabéns por te tornares um Shadow Cross.",
-        "es-ES": "[Vercasel]\nFelicidades por convertirte en Shadow Cross."
+        "en-US": "[Verkhasel]\nCongratulations on becoming Shadow Cross.",
+        "pt-BR": "[Verkhasel]\nParabéns por te tornares um Executor.",
+        "es-ES": "[Verkhasel]\nFelicidades por convertirte en Ejecutor."
     },
     "QAlyDA": {
-        "ko-KR": "기분이 어떤가요?",
         "en-US": "How do you feel?",
         "pt-BR": "Como você está se sentindo?",
         "es-ES": "¿Cómo te sientes?"
     },
     "QQlyDA": {
-        "ko-KR": "축하한다.",
         "en-US": "Congratulations.",
         "pt-BR": "Parabéns.",
         "es-ES": "Felicidades."
     },
     "QglyDA": {
-        "ko-KR": "[베르카셀]\n잠깐, 아직 스킬포인트가 남아있군.\n새로운 힘을 받아들이기 전에 소모하는 게 좋을 거다.\n스킬포인트를 모두 사용한 다음에 다시 말을 걸어라.",
-        "en-US": "[Vercasel]\nHold on, you still have skill points left.\nYou should use them up before accepting new power.\nUse all your skill points, then talk to me again.",
-        "pt-BR": "[Vercasel]\nEspere um pouco, ainda tem pontos de habilidade sobrando.\nÉ melhor gastá-los antes de receber o novo poder.\nUse todos os pontos de habilidade e depois fale comigo novamente.",
-        "es-ES": "[Vercasel]\nUn momento, aún te quedan puntos de habilidad.\nSerá mejor que los gastes antes de aceptar el nuevo poder.\nUsa todos los puntos de habilidad y luego vuelve a hablarme."
+        "en-US": "[Verkhasel]\nHold on, you still have skill points left.\nYou should use them up before accepting new power.\nUse all your skill points, then talk to me again.",
+        "pt-BR": "[Verkhasel]\nEspere um pouco, ainda tem pontos de habilidade sobrando.\nÉ melhor gastá-los antes de receber o novo poder.\nUse todos os pontos de habilidade e depois fale comigo novamente.",
+        "es-ES": "[Verkhasel]\nUn momento, aún te quedan puntos de habilidad.\nSerá mejor que los gastes antes de aceptar el nuevo poder.\nUsa todos los puntos de habilidad y luego vuelve a hablarme."
     },
     "QwlyDA": {
-        "ko-KR": "[까망이]\n뭔지 모르겠지만 네 선배님이 하는 말씀이니 잘 들어.",
-        "en-US": "[Blackie]\nI don't know what that means, but you should listen to your senior.",
-        "pt-BR": "[Kkaman-i]\nNão sei o que é, mas como é o que o teu veterano está dizendo, ouve com atenção.",
+        "en-US": "[Blacky]\nI don't know what that means, but you should listen to your senior.",
+        "pt-BR": "[Blacky]\nNão sei o que é, mas como é o que o teu veterano está dizendo, ouça com atenção.",
         "es-ES": "[Kkaman-i]\nNo sé qué es, pero como lo dice tu senior, escúchalo bien."
     },
     "RAlyDA": {
-        "ko-KR": "[까망이]\n자, 다 끝났지? 그럼 이제 내 집에서 나가!",
-        "en-US": "[Blackie]\nAlright, we're done now, right? Okay, then get out of my house!",
-        "pt-BR": "[Kkaman-i]\nPronto, já acabou, não é? Então, agora sai da minha casa!",
+        "en-US": "[Blacky]\nAlright, we're done now, right? Okay, then get out of my house!",
+        "pt-BR": "[Blacky]\nPronto, já acabou, não é? Então, agora saia da minha casa!",
         "es-ES": "[Kkaman-i]\nBueno, ¿ya terminaste? ¡Pues ahora lárgate de mi casa!"
     },
     "RQlyDA": {
-        "ko-KR": "제법인데?! 이 몸의 힘과 상성이 맞아!",
         "en-US": "Not bad! You're more compatible with me than I thought!",
         "pt-BR": "Você é bom, hein?! A gente combina bem!",
         "es-ES": "¡No te va nada mal! ¡Tu energía encaja perfectamente con la mía!"
     },
     "RglyDA": {
-        "ko-KR": "크윽, 내 몸을 제멋대로 이용했겠다...!",
         "en-US": "Grr, you used me!",
-        "pt-BR": "Grr, você deve ter usado meu corpo como bem entendeu...!",
+        "pt-BR": "Grr, você usou meu corpo como bem entendeu...!",
         "es-ES": "¡Grrr, seguro que has usado mi cuerpo a tu antojo...!"
     },
     "RwlyDA": {
-        "ko-KR": "[베르카셀]\n준비가 되면 어둠의 정령에게 말을 걸어라.\n스킬포인트는 모두 소모했겠지?",
         "en-US": "[Verkhasel]\nTalk to the Dark Elemental when you're ready.\nYou spent all your Skill Points, right?",
-        "pt-BR": "[Verkasel]\nQuando estiver pronto, fala com o Espírito das Trevas.\nJá gastaste todos os teus pontos de habilidade, não é?",
+        "pt-BR": "[Verkasel]\nQuando estiver pronto, fale com o Elemental Sombrio.\nJá gastou todos os seus pontos de habilidade, não é?",
         "es-ES": "[Verkasel]\nCuando estés listo, habla con el espíritu de la oscuridad.\nYa habrás gastado todos tus puntos de habilidad, ¿no?"
     },
     "SAlyDA": {
-        "ko-KR": "[베르카셀]\n보기가 좋군.\n이제까지 그래왔듯 너는 길드에 얽매이지 말고 자유롭게 다니도록 해.\n그럼 밖으로 보내주겠다.",
-        "en-US": "[Bercassell]\nYou look nice.\nAs you always have, don't be bound by the Guild and go about freely.\nNow, let me send you outside.",
-        "pt-BR": "[Bercasel]\nQue bom ver isso.\nComo sempre fizeste, não te prenda à guilda e anda por aí livremente.\nEntão vou te mandar para fora.",
-        "es-ES": "[Bercasel]\nMe gusta lo que veo.\nComo hasta ahora, no te quedes atado al gremio, sino que anda libremente.\nEntonces te dejaré salir."
+        "en-US": "[Verkhasel]\nYou look nice.\nAs you always have, don't be bound by the Guild and go about freely.\nNow, let me send you outside.",
+        "pt-BR": "[Verkhasel]\nQue bom ver isso.\nComo sempre, não se prenda à guilda e ande por aí livremente.\nEntão vou te mandar para fora.",
+        "es-ES": "[Verkhasel]\nMe gusta lo que veo.\nComo hasta ahora, no te quedes atado al gremio, sino que anda libremente.\nEntonces te dejaré salir."
     }
 }

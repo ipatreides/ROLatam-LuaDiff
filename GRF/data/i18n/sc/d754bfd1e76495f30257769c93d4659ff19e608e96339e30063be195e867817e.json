@@ -1,858 +1,715 @@
 {
     "wHtUBg": {
-        "ko-KR": "경험치 이벤트 진행중입니다.",
         "en-US": "Normal 1.0 Mode",
         "pt-BR": "Normal 1.0 Mode",
         "es-ES": "Normal 1.0 Mode"
     },
     "wXtUBg": {
-        "ko-KR": "경험치 이벤트 진행중입니다.",
         "en-US": "[Version Check] Normal version of Illusion",
         "pt-BR": "[Version Check] Normal version of Illusion",
         "es-ES": "[Version Check] Normal version of Illusion"
     },
     "wntUBg": {
-        "ko-KR": "뒤틀린균열",
         "en-US": "Twisted Rift",
         "pt-BR": "Fenda Retorcida",
         "es-ES": "Grieta Retorcida"
     },
     "w3tUBg": {
-        "ko-KR": "뒤틀린 균열 너머로 익숙하면서도 낯선 미궁의 모습이 펼쳐져있습니다.",
         "en-US": "Beyond this Rift lies a famous yet unknown labyrinth.",
         "pt-BR": "Além dessa Fenda, há um famoso e desconhecido labirinto.",
         "es-ES": "Más allá de esta Grieta, hay un laberinto famoso y desconocido."
     },
     "xHtUBg": {
-        "ko-KR": "뒤틀린 균열 너머로 익숙하면서도 낯선 미궁의 모습이 펼쳐져있습니다.\n^FF0000 발을 들이면 다시 못 빠져 나올지 모릅니다.^000000",
         "en-US": "Beyond this Rift lies a famous yet unknown labyrinth.\n^FF0000If you enter, you might never leave.^000000",
         "pt-BR": "Além dessa Fenda, há um famoso e desconhecido labirinto.\n^FF0000Se você entrar, talvez nunca sairá do lugar.^000000",
         "es-ES": "Más allá de esta Grieta, hay un laberinto famoso y desconocido.\n^FF0000Si entras, puede que nunca salgas.^000000"
     },
     "xXtUBg": {
-        "ko-KR": "못본것으로 한다",
         "en-US": "Ignore",
         "pt-BR": "Ignorar",
         "es-ES": "Ignorar"
     },
     "xntUBg": {
-        "ko-KR": "균열 너머로 입장한다",
         "en-US": "Enter the Rift",
         "pt-BR": "Entrar na Fenda",
         "es-ES": "Entrar por la grieta."
     },
     "x3tUBg": {
-        "ko-KR": "^0000FF호기심은 몸에 좋지 않은 법. 조용히 묻어둡니다.^000000",
         "en-US": "^0000FFCuriosity killed the cat. Better not be the cat.^000000",
         "pt-BR": "^0000FFA curiosidade matou o gato. Melhor não ser o gato.^000000",
         "es-ES": "^0000FFLa curiosidad mató al gato. Mejor no ser el gato.^000000"
     },
     "yHtUBg": {
-        "ko-KR": "이레네",
         "en-US": "Irene",
         "pt-BR": "Irene",
         "es-ES": "Irene"
     },
     "yXtUBg": {
-        "ko-KR": "<사제회 복사>",
         "en-US": "Guild Member",
         "pt-BR": "Membro do Clã",
         "es-ES": "Miembro del Gremio"
     },
     "yntUBg": {
-        "ko-KR": "꺄악! 죄송합니다. 저 유령아니예요 몬스터도 아니예요!!",
         "en-US": "Ah! I'm sorry, I'm not a monster or a ghost!!",
         "pt-BR": "Ah! Me desculpe, eu não sou um monstro ou um fantasma!!",
         "es-ES": "¡Auch! Perdón. ¡No soy un fantasma ni un monstruo!"
     },
     "y3tUBg": {
-        "ko-KR": "[이레네]\n꺄악! 죄송합니다. 저 유령아니예요 몬스터도 아니예요! 놀라게 해 드릴 생각은 없었어요!",
         "en-US": "[Irene]\nAh! I'm sorry, I'm not a monster or a ghost! I didn't mean to scare you!",
         "pt-BR": "[Irene]\nAh! Me desculpe, eu não sou um monstro ou um fantasma! Não queria assustar você!",
         "es-ES": "[Irene]\n¡Auch! Perdón. ¡No soy un fantasma ni un monstruo! ¡No quería asustarte!"
     },
     "zHtUBg": {
-        "ko-KR": "아이 깜짝이야!! 뭐야 이거!",
         "en-US": "I'm not so sure?! Who are you?!",
         "pt-BR": "Sei não, hein?! Quem é você?!",
         "es-ES": "No sé, ¿eh? ¡¿Quién eres tú?!"
     },
     "zXtUBg": {
-        "ko-KR": "[이레네]\n제발 저에게 무기를 겨누지 마시고 제 말을 좀 들어주세요. 부탁드립니다.",
         "en-US": "[Irene]\nP-please don't point your weapon at me, please listen.",
         "pt-BR": "[Irene]\nN-não aponte sua arma para mim, por favor, me escute.",
         "es-ES": "[Irene]\n¡Por favor, no me apuntes con tu arma y escúchame! ¡Por favor!"
     },
     "zntUBg": {
-        "ko-KR": "정신은 멀쩡해보이는군. 그럽시다.",
         "en-US": "Hmm, go ahead.",
         "pt-BR": "Hm, pode falar.",
         "es-ES": "Mmm, puedes hablar."
     },
     "z3tUBg": {
-        "ko-KR": "[이레네]\n감사합니다. 저는 프론테라의 사제회 길드의 일반 길드원인 이레네라고 합니다. 아.. 지금 이 모습은 약간의 사정이 있는데요.",
         "en-US": "[Irene]\nThank you. I am Irene, a novice from Prontera Cathedral... Ah... I'm in this situation.",
         "pt-BR": "[Irene]\nObrigada. Eu sou Irene, noviça da Catedral de Prontera... Ah... eu estou nessa situação.",
         "es-ES": "[Irene]\nGracias. Mi nombre es Irene, acólita de la Catedral de Prontera. Ah... Estoy en esta situación."
     },
     "0HtUBg": {
-        "ko-KR": "사냥중에 사망이라도 하셨나?",
         "en-US": "You died here?",
         "pt-BR": "Você morreu aqui?",
         "es-ES": "¿Moriste mientras cazabas?"
     },
     "0XtUBg": {
-        "ko-KR": "[이레네]\n네... 다른 4명의 신입 길드원들과 함께 수련장소를 찾던중에 이 수상한 균열을 발견했는데, 신입 길드원들이 덥석 이곳으로 들어가는바람에 따라 들어갔다가 그만...",
         "en-US": "[Irene]\nY-yes... I found this suspicious rift while on a pilgrimage with four other novices...",
         "pt-BR": "[Irene]\nS-sim... eu encontrei essa fenda suspeita enquanto peregrinava com outros quatro noviços...",
         "es-ES": "[Irene]\nSí… Encontré esta grieta sospechosa durante una peregrinación con otros cuatro acólitos del gremio. Vinieron hasta este lugar, así que los seguí…"
     },
     "0ntUBg": {
-        "ko-KR": "[이레네]\n부탁드려요, 지금 상황을 저희 길드장님에게 알려주셨으면 해요. 프론테라의 성당 부근에서 모집활동 중이거예요. 전 이곳에서 나올지도 모를 길드원들을 기다려야해서...",
         "en-US": "[Irene]\nPlease inform our Leader about this situation. She is near Prontera Cathedral...",
         "pt-BR": "[Irene]\nPor favor, informe à nossa Líder essa situação. Ela está perto da Catedral de Prontera...",
         "es-ES": "[Irene]\nPor favor, me gustaría que le informaras la situación actual a nuestra líder. Ella está cerca de la Catedral de Prontera."
     },
     "03tUBg": {
-        "ko-KR": "음 거절한다.",
         "en-US": "Well, I'll refuse.",
         "pt-BR": "Bom, vou recusar.",
         "es-ES": "Bueno, me niego."
     },
     "1HtUBg": {
-        "ko-KR": "쉬운일이구만",
         "en-US": "That's easy.",
         "pt-BR": "Isso é fácil.",
         "es-ES": "Eso es fácil."
     },
     "1XtUBg": {
-        "ko-KR": "[이레네]\n역시, 무리한 부탁이었던거겠죠...",
         "en-US": "[Irene]\nI imagine it's a difficult task...",
         "pt-BR": "[Irene]\nImagino que seja uma missão difícil...",
         "es-ES": "[Irene]\nImagino que es una tarea difícil..."
     },
     "1ntUBg": {
-        "ko-KR": "[이레네]\n감사합니다! 길드장님의 위치는 제가 따로 메모로 남겨드릴게요! 꼭 부탁드립니다!",
         "en-US": "[Irene]\nThank you! I'll leave a marker for the leader's location. Please help me!",
         "pt-BR": "[Irene]\nObrigada! Vou deixar uma indicação do local onde a líder está. Por favor, me ajude!",
         "es-ES": "[Irene]\n¡Gracias! Dejaré una marca para la ubicación de la líder. ¡Por favor, ayúdame!"
     },
     "13tUBg": {
-        "ko-KR": "일단 바깥으로 나간다",
         "en-US": "Leave now.",
         "pt-BR": "Sair agora.",
         "es-ES": "Salir ahora."
     },
     "2HtUBg": {
-        "ko-KR": "[이레네]\n제가 드린 쪽지를 살펴보시면 길드장님의 위치가 적혀있어요.",
         "en-US": "[Irene]\nIf you look at the information I gave you, you'll see a marker for our Leader's location.",
         "pt-BR": "[Irene]\nSe  olhar para a informação que dei à você, verá que tem uma indicação da localização da nossa Líder.",
         "es-ES": "[Irene]\nSi miras la información que te di, verás una marca para la ubicación de nuestra Líder."
     },
     "2XtUBg": {
-        "ko-KR": "[이레네]\n으으, 제 유해는 아예 흔적도 없어진거같아요...",
         "en-US": "[Irene]\nOh, it seems my remains are gone forever...",
         "pt-BR": "[Irene]\nOh, parece que meus restos mortais se foram para sempre...",
         "es-ES": "[Irene]\nOh, parece que mis restos se han ido para siempre..."
     },
     "2ntUBg": {
-        "ko-KR": "[에스메랄다]\n네 수호성물은 다행히도 길드에 보관중이니까 부활은 어떻게든 될거야. 돈이 좀 들겠지만.",
         "en-US": "[Esmeralda]\nThanks to Odin, your remains are stored at the church. Revival might be possible, but it will cost money.",
         "pt-BR": "[Esmeralda]\nGraças à Odin, suas remanescências encontram-se armazenadas na igreja. Talvez seja possível ressuscitar, mas custará dinheiro.",
         "es-ES": "[Esmeralda]\nGracias a Odín, tus restos están almacenados en la iglesia. La revivir podría ser posible, pero costará dinero."
     },
     "23tUBg": {
-        "ko-KR": "[이레네]\n죄송해요오...",
         "en-US": "[Irene]\nSorry...",
         "pt-BR": "[Irene]\nPerdão...",
         "es-ES": "[Irene]\nLo siento..."
     },
     "3HtUBg": {
-        "ko-KR": "[이레네]\n저는 슬슬 길드로 돌아가봐야겠어요. 영혼 상태라 상당히 민망하지만.",
         "en-US": "[Irene]\nI'll return to the Cathedral soon, but it's a bit embarrassing to appear there in spirit form.",
         "pt-BR": "[Irene]\nVou voltar para a Catedral logo, mas é um pouco vergonhoso aparecer lá na forma de espírito.",
         "es-ES": "[Irene]\nRegresaré a la Catedral pronto, pero es un poco vergonzoso aparecer allí en forma de espíritu."
     },
     "3XtUBg": {
-        "ko-KR": "에스메랄다",
         "en-US": "Esmeralda",
         "pt-BR": "Esmeralda",
         "es-ES": "Esmeralda"
     },
     "3ntUBg": {
-        "ko-KR": "<사제회 길드장>",
         "en-US": "Guild Leader",
         "pt-BR": "Líder do Clã",
         "es-ES": "Líder del Gremio"
     },
     "33tUBg": {
-        "ko-KR": "[에스메랄다]\n이레네 자꾸 울지말고 정신차려.",
         "en-US": "[Esmeralda]\nIrene, stop crying there and pull yourself together.",
         "pt-BR": "[Esmeralda]\nIrene, não fique aí chorando e se recomponha.",
         "es-ES": "[Esmeralda]\nIrene, deja de llorar y recobra la cordura."
     },
     "4HtUBg": {
-        "ko-KR": "[에스메랄다]\n이 사고뭉치 녀석은 부활이 급할것 같으니 일단 길드로 돌려보내겠습니다.",
         "en-US": "[Esmeralda]\nI think this mischievous girl is in a hurry to be revived. I'll send her to the Cathedral for now.",
         "pt-BR": "[Esmeralda]\nAcho que essa mocinha peralta está com pressa de ser revivida. Vou enviá-la para a Catedral por agora.",
         "es-ES": "[Esmeralda]\nCreo que esta jovencita traviesa tiene prisa por ser revivida. La enviaré a la Catedral por ahora."
     },
     "4XtUBg": {
-        "ko-KR": "[에스메랄다]\n감사 인사를 드려야하는데, 염치 없지만 기왕 도와주신김에 한 가지 부탁을 더 드려도 될까요.",
         "en-US": "[Esmeralda]\nI need to thank you, but first, I'd like you to do me one more favor, traveler.",
         "pt-BR": "[Esmeralda]\nEu preciso lhe agradecer, mas antes, gostaria que você me fizesse mais um favor, viajante.",
         "es-ES": "[Esmeralda]\nTengo que darte las gracias, pero ya que me has ayudado, ¿puedo pedirte un favor más?"
     },
     "4ntUBg": {
-        "ko-KR": "진짜 염치없으시네요",
         "en-US": "Another favor?",
         "pt-BR": "Mais um favor?",
         "es-ES": "¿Un favor más?"
     },
     "43tUBg": {
-        "ko-KR": "어... 그러죠 뭐",
         "en-US": "Ah, yes... go on",
         "pt-BR": "Ah, sim... diga",
         "es-ES": "Uh… por supuesto."
     },
     "5HtUBg": {
-        "ko-KR": "[에스메랄다]\n아, 그게 아무래도 그렇죠. 정말 면목이 없습니다. 나머지 일은 저희가 알아서 해볼게요.",
         "en-US": "[Esmeralda]\nYes. I'm almost embarrassed to ask so much of you.",
         "pt-BR": "[Esmeralda]\nSim. Fico até envergonhada de pedir tanto de você.",
         "es-ES": "[Esmeralda]\nSí. Hasta me da vergüenza pedirte tanto."
     },
     "5XtUBg": {
-        "ko-KR": "[에스메랄다]\n이레네는 오래전에 수호 성물과 영혼계약을 했기에 부활에 별다른 문제가 없을 것 같습니다만.",
         "en-US": "[Esmeralda]\nIrene has already completed her catechism, signing her contract with the Divine Being. So, she won't have problems being resurrected.",
         "pt-BR": "[Esmeralda]\nIrene já concluiu sua catequese, assinando seu contrato com o Ser Divino. Então, ela não terá problemas para ser ressuscitada.",
         "es-ES": "[Esmeralda]\nIrene hizo un contrato de alma con la reliquia guardiana hace mucho tiempo, así que no creo que haya problemas con su resurrección."
     },
     "5ntUBg": {
-        "ko-KR": "[에스메랄다]\n실종자가 총 4명이 더 있습니다. 이 녀석들은 수호 성물과의 계약을 하지않아서 영혼상태로도 나타나지 않는군요. 하아... 정말이지...",
         "en-US": "[Esmeralda]\nHowever, there are still 4 missing novices... and they haven't signed that contract yet... and haven't even appeared as spirits...",
         "pt-BR": "[Esmeralda]\nEntretanto, ainda há 4 noviços desaparecidos... e eles ainda não assinaram esse contrato... e sequer apareceram como espíritos...",
         "es-ES": "[Esmeralda]\nMientras tanto, todavía hay 4 acólitos desaparecidos... y ellos aún no tienen un contrato con la reliquia guardiana, así que no aparecen en forma de espíritu."
     },
     "53tUBg": {
-        "ko-KR": "수호성물로 계약하는건 보험같은겁니까?",
         "en-US": "It's like a life insurance?",
         "pt-BR": "É como um seguro de vida?",
         "es-ES": "¿Es como un seguro de vida?"
     },
     "6HtUBg": {
-        "ko-KR": "[에스메랄다]\n예, 저희 길드가 성직자로만 이루어진 길드다 보니 의외로 사망사고가 없을법 하면서도 매우 잦은 편이거든요.",
         "en-US": "[Esmeralda]\nYes. Since our Cathedral Order is composed of priesthood aspirants, there shouldn't be deaths, even though they are frequent.",
         "pt-BR": "[Esmeralda]\nSim. Como nossa Ordem da Catedral é composta por aspirantes ao sacerdócio, não deveriam haver mortes, apesar de serem frequentes.",
         "es-ES": "[Esmeralda]\nSí, dado que nuestro gremio está formado solo por sacerdotes, los accidentes fatales son inesperadamente raros, pero muy frecuentes."
     },
     "6XtUBg": {
-        "ko-KR": "[에스메랄다]\n입단과 동시에 수호 성물과의 계약으로 사망후에도 완벽하게 영혼과 육신을 부활시키는 보험의식 같은걸 치룹니다.",
         "en-US": "[Esmeralda]\nWhen you sign the contract with the Divine Being, it guarantees your body and soul will be resurrected.",
         "pt-BR": "[Esmeralda]\nQuando você assina o contrato com o Ser Divino, garante que seu corpo e alma sejam ressuscitados.",
         "es-ES": "[Esmeralda]\nTan pronto como te unes, firmas un contrato con una reliquia guardiana y participas en una ceremonia que resucita por completo tu alma y tu cuerpo, incluso después de la muerte."
     },
     "6ntUBg": {
-        "ko-KR": "[에스메랄다]\n문제는 오늘 사라진 신입 4명은 그런 과정도 치루지 않은 녀석들이란거죠.",
         "en-US": "[Esmeralda]\nThe problem is that the four novices were still beginners and hadn't even started catechism.",
         "pt-BR": "[Esmeralda]\nO problema é que os quatro noviços ainda eram iniciantes e sequer iniciaram a catequese.",
         "es-ES": "[Esmeralda]\nEl problema es que los cuatro acólitos nuevos que desaparecieron hoy son los que ni siquiera pasaron por ese proceso."
     },
     "63tUBg": {
-        "ko-KR": "유해라도 수습해서 와야하는겁니까?",
         "en-US": "Should I find remains?",
         "pt-BR": "Devo achar restos mortais?",
         "es-ES": "¿Debo encontrar restos?"
     },
     "7HtUBg": {
-        "ko-KR": "[에스메랄다]\n아.. 음, 신체의 매우 작은 흔적만이라도 좋아요. 온전할수록 부활 가격은 저렴해지겠지만 일단은 살리고 봐야죠.",
         "en-US": "[Esmeralda]\nSigh... I think just a body part is enough. The more intact the corpse, the cheaper the resurrection process.",
         "pt-BR": "[Esmeralda]\nAi... acho que só uma parte do corpo já serve. Quanto mais intacto o cadáver estiver, mais barato é o processo de ressurreição.",
         "es-ES": "[Esmeralda]\nAh… incluso los rastros más pequeños del cuerpo sirven. Cuanto más intacto esté, más barato será el precio de la resurrección."
     },
     "7XtUBg": {
-        "ko-KR": "(가구 수리같은 느낌이네)",
         "en-US": "(Everything involves money here)",
         "pt-BR": "(Tudo envolve dinheiro aqui)",
         "es-ES": "(Aquí todo gira alrededor del dinero)"
     },
     "7ntUBg": {
-        "ko-KR": "[에스메랄다]\n성직자들은 이런 저런 일들로 수련을 하니까요. 수련 과정에선 꽤 아름답지 못한 일들도 많답니다.",
         "en-US": "[Esmeralda]\nI didn't hear what you said, but I understand things aren't as beautiful as they say. We are trained for various things.",
         "pt-BR": "[Esmeralda]\nNão ouvi o que você disse, mas eu entendo que as coisas não são tão bonitas como dizem que é. Somos treinados para várias coisas.",
         "es-ES": "[Esmeralda]\nLos sacerdotes se entrenan en varias cosas. Durante el proceso de entrenamiento, hay muchas cosas que no son del todo bonitas."
     },
     "73tUBg": {
-        "ko-KR": "음 위험해보여서 전 좀...",
         "en-US": "I'm not sure I want to do this...",
         "pt-BR": "Não sei se quero fazer isso...",
         "es-ES": "No estoy seguro de querer hacer esto..."
     },
     "8HtUBg": {
-        "ko-KR": "좋습니다 하죠",
         "en-US": "Okay, let's do it.",
         "pt-BR": "Ok, vamos fazer isso.",
         "es-ES": "Está bien, hagámoslo."
     },
     "8XtUBg": {
-        "ko-KR": "[에스메랄다]\n감사합니다. 4명의 길드원에 대한 정보가 될만한걸 추렸으니 수습할만한 뭔가가 보인다면 이 정보와 대조해주세요. 아마 신입 길드원들의 흔적은 이 뒤틀린 균열 너머에 있을거예요.",
         "en-US": "[Esmeralda]\nThank you. I'll give you the information on the four missing novices. I suspect they are on the other side of this Rift.",
         "pt-BR": "[Esmeralda]\nObrigada. Vou te passar as informações dos quatro noviços desaparecidos. Suspeito que eles estejam do outro lado desta Fenda.",
         "es-ES": "[Esmeralda]\nGracias. Te pasaré la información sobre los cuatro acólitos desaparecidos. Sospecho que están al outro lado de esta grieta."
     },
     "8ntUBg": {
-        "ko-KR": "^0000FF뭔가 살펴보느라 바쁜모양이다. 잠시후 다시 말을 걸어보자^000000",
         "en-US": "^0000FFShe seems busy. It's better to come back later.^000000",
         "pt-BR": "^0000FFParece que ela está ocupada. É melhor voltar mais tarde^000000",
         "es-ES": "^0000FFElla parece ocupada. Es mejor volver más tarde.^000000"
     },
     "83tUBg": {
-        "ko-KR": "[에스메랄다]\n4명의 길드원에 대한 정보가 될만한걸 추려 드렸으니 수습할만한 흔적이 보인다면 그 정보와 대조해주세요. 아마 신입 길드원들의 흔적은 이 뒤틀린 균열 너머에 있을거예요.",
         "en-US": "[Esmeralda]\nI gave you the information on the four missing novices. I suspect they are on the other side of this Rift.",
         "pt-BR": "[Esmeralda]\nEu passei à você as informações dos quatro noviços desaparecidos. Suspeito que eles estejam do outro lado desta Fenda.",
         "es-ES": "[Esmeralda]\nTe di la información sobre los cuatro acólitos desaparecidos. Sospecho que están al outro lado de esta grieta."
     },
     "9HtUBg": {
-        "ko-KR": "[에스메랄다]\n오, 감사해요. 거의 포기하고 있었는데 정말 저희 신입들을 다 구해오셨군요",
         "en-US": "[Esmeralda]\nOh, thank you. I was almost giving up, but you saved the 4 novices.",
         "pt-BR": "[Esmeralda]\nOh, obrigada. Eu estava quase desistindo, mas você salvou os 4 noviços.",
         "es-ES": "[Esmeralda]\n¡Ah, gracias! Ya casi me rendía, pero realmente salvaste a los 4 acólitos."
     },
     "9XtUBg": {
-        "ko-KR": "(이 흔적들을 신입들이라고 할 수 있는건가...)",
         "en-US": "(Good thing you didn't give up...)",
         "pt-BR": "(Que bom que não desistiu...)",
         "es-ES": "(Menos mal que no te rendiste...)"
     },
     "9ntUBg": {
-        "ko-KR": "[에스메랄다]\n정말 감사드려요. 일단 저희 길드원들의 영혼을 이 근처에 불러내야겠어요. 완전한 부활작업이 이루어지기 전까진 도시보단 이곳이 나을것 같군요.",
         "en-US": "[Esmeralda]\nThank you. I should start the resurrection ritual right here, it's better than in the city.",
         "pt-BR": "[Esmeralda]\nObrigada. Devo iniciar o ritual de ressurreição aqui mesmo, é melhor que na cidade.",
         "es-ES": "[Esmeralda]\nGracias. Debo comenzar el ritual de resurrección aquí mismo, es mejor que en la ciudad."
     },
     "93tUBg": {
-        "ko-KR": "[에스메랄다]\n아, 그리고 저희 길드의 영혼 소환과정은 길드 소속이 아니면 보여드리기가 좀 곤란한데. 잠시만 던전 바깥으로 나가주시겠어요?",
         "en-US": "[Esmeralda]\nOh, since it's an exclusive ritual for members, could you please step away?",
         "pt-BR": "[Esmeralda]\nOh, como é um ritual exclusivo para membros, você poderia sair de perto, por favor?",
         "es-ES": "[Esmeralda]\nOh, como es un ritual exclusivo para miembros, ¿podrías alejarte, por favor?"
     },
     "+HtUBg": {
-        "ko-KR": "그냥 지켜보면 안되나요?",
         "en-US": "I can't watch?",
         "pt-BR": "Não posso assistir?",
         "es-ES": "¿No puedo mirar?"
     },
     "+XtUBg": {
-        "ko-KR": "그러죠",
         "en-US": "Sure.",
         "pt-BR": "Claro.",
         "es-ES": "Claro."
     },
     "+ntUBg": {
-        "ko-KR": "[에스메랄다]\n아, 이런 건 길드 외부인에게 보여드리기가 좀...",
         "en-US": "[Esmeralda]\nAh, it's complicated to break the secrecy of our ritual for non-members...",
         "pt-BR": "[Esmeralda]\nAh, é complicado quebrar o sigilo do nosso ritual para não membros...",
         "es-ES": "[Esmeralda]\nAh, sería un poco incómodo mostrarle esto a alguien que no forma parte del gremio…"
     },
     "+3tUBg": {
-        "ko-KR": "[에스메랄다]\n배려에 감사드려요. 그럼 잠시 바깥으로 보내드릴게요.",
         "en-US": "[Esmeralda]\nThank you for your consideration, I'll guide you to the exit.",
         "pt-BR": "[Esmeralda]\nObrigada pela sua consideração, vou te guiar até a saída.",
         "es-ES": "[Esmeralda]\nGracias por tu consideración, te guiaré hasta la salida."
     },
     "/HtUBg": {
-        "ko-KR": "빛의 인도를 받는 저희 프론테라 사제회 길드가 신입 길드원을 모집합니다",
         "en-US": "Our clan is recruiting members in the name of Prontera Cathedral.",
         "pt-BR": "Nosso clã está recrutando membros em nome da Catedral de Prontera.",
         "es-ES": "Nuestro gremio, está reclutando nuevos miembros para el gremio."
     },
     "/XtUBg": {
-        "ko-KR": "[에스메랄다]\n응? 무슨 일이시죠? 보아하니 저희 길드와는 다른 길을 가는 분 같은데.",
         "en-US": "[Esmeralda]\nCan I help? You don't seem interested in the clan.",
         "pt-BR": "[Esmeralda]\nPosso ajudar? Você não parece ter interesse no clã.",
         "es-ES": "[Esmeralda]\n¿Puedo ayudarte? No pareces interesado en el clan."
     },
     "/ntUBg": {
-        "ko-KR": "사제회 길드에 닥친 끔찍한 일을 알린다.",
         "en-US": "Talk about Irene.",
         "pt-BR": "Falar sobre Irene.",
         "es-ES": "Hablar sobre Irene."
     },
     "/3tUBg": {
-        "ko-KR": "[에스메랄다]\n우리 신입들이 실종이라고요?\n하... 길드의 전통인가. 매년마다 반복되네.",
         "en-US": "[Esmeralda]\nOur novices are missing?\nSigh... that's almost a tradition. It happens every year.",
         "pt-BR": "[Esmeralda]\nNossos noviços sumiram?\nHah... isso já é quase tradição. Acontece todo ano.",
         "es-ES": "[Esmeralda]\n¿Desaparecieron los nuevos reclutas?\nJa… eso ya es casi una tradición. Pasa todos los años."
     },
     "AHxUBg": {
-        "ko-KR": "[에스메랄다]\n알려주셔서 감사합니다. 저는 이녀석들 뒷처리를 하러 가봐야겠군요. 모험가님에게도 신의 가호가 함께 하시길.",
         "en-US": "[Esmeralda]\nI'll go there. Thank you for the information. May Odin bless you.",
         "pt-BR": "[Esmeralda]\nEu vou até lá. Obrigada pela informação. Odin te abeçoe.",
         "es-ES": "[Esmeralda]\nIré allí. Gracias por la información. Que Odín te bendiga."
     },
     "AXxUBg": {
-        "ko-KR": "[이레네]\n제가 도와드릴일이라도 있나요?",
         "en-US": "[Esmeralda]\nCan I help?",
         "pt-BR": "[Esmeralda]\nPosso ajudar?",
         "es-ES": "[Esmeralda]\n¿Puedo ayudarte?"
     },
     "AnxUBg": {
-        "ko-KR": "세실리아",
         "en-US": "Cecilia",
         "pt-BR": "Cecília",
         "es-ES": "Cecilia"
     },
     "A3xUBg": {
-        "ko-KR": "<사제회 신입>",
         "en-US": "Recruit",
         "pt-BR": "Recruta",
         "es-ES": "Recluta"
     },
     "BHxUBg": {
-        "ko-KR": "[세실리아]\n저희 모두 {0}님께 감사드립니다. 그리고 길드장님게서 ^0000FF안드레아^000000를 통해 전언을 남기셨습니다.",
         "en-US": "[Cecilia]\nThank you, {0}. Our leader sent a message via ^0000FFAndrea^000000, it's better to talk to him.",
         "pt-BR": "[Cecília]\nAgradeço à você, {0}. Nossa líder enviou uma mensagem via ^0000FFAndrea^000000, é melhor falar com ele.",
         "es-ES": "[Cecilia]\nGracias por tu ayuda, {0}. Nuestra líder dejó un mensaje a través de ^0000FFAndrea^000000."
     },
     "BXxUBg": {
-        "ko-KR": "[세실리아]\n제가 도와드릴일이라도 있나요?",
         "en-US": "[Cecilia]\nCan I help?",
         "pt-BR": "[Cecília]\nPosso ajudar?",
         "es-ES": "[Cecilia]\n¿Puedo ayudarte?"
     },
     "BnxUBg": {
-        "ko-KR": "취소",
         "en-US": "Cancel",
         "pt-BR": "Cancelar",
         "es-ES": "Cancelar"
     },
     "B3xUBg": {
-        "ko-KR": "바깥으로 보내줄 수 있어?",
         "en-US": "Can you get me out of here?",
         "pt-BR": "Pode me tirar daqui?",
         "es-ES": "¿Puedes sacarme de aquí?"
     },
     "CHxUBg": {
-        "ko-KR": "[세실리아]\n도움이 못되어서 죄송해요.",
         "en-US": "[Cecilia]\nSorry for not being helpful.",
         "pt-BR": "[Cecília]\nDesculpe por não ter sido útil.",
         "es-ES": "[Cecilia]\nPerdón por no ser útil."
     },
     "CXxUBg": {
-        "ko-KR": "안드레아",
         "en-US": "Andrea",
         "pt-BR": "Andrea",
         "es-ES": "Andrea"
     },
     "CnxUBg": {
-        "ko-KR": "[안드레아]\n에스메랄다 길드장님에게 이야기를 전해 들었습니다. 저희를 구해주신 분이라고요.",
         "en-US": "[Andrea]\nEsmeralda told me you saved us.",
         "pt-BR": "[Andrea]\nEsmeralda me contou que você nos salvou.",
         "es-ES": "[Andrea]\nEsmeralda me dijo que nos salvaste."
     },
     "C3xUBg": {
-        "ko-KR": "딱히 거창한 일을 한건 아니외다.",
         "en-US": "It was nothing.",
         "pt-BR": "Não fiz nada demais.",
         "es-ES": "No fue nada."
     },
     "DHxUBg": {
-        "ko-KR": "[안드레아]\n이 무슨 겸손한 말씀이신지. 하마터면 영혼상태로도 되살아나지 못할뻔 했습니다 정말 감사드립니다.",
         "en-US": "[Andrea]\nYou're too humble. I almost couldn't revive as a spirit.",
         "pt-BR": "[Andrea]\nÉ muita humildade sua. Eu quase não consegui reviver como espírito.",
         "es-ES": "[Andrea]\nEres muy humilde. Casi no pude revivir como espíritu."
     },
     "DXxUBg": {
-        "ko-KR": "에스메랄다 길드장은 어디로 갔죠?",
         "en-US": "Where is Esmeralda?",
         "pt-BR": "Onde está Esmeralda?",
         "es-ES": "¿Dónde está Esmeralda?"
     },
     "DnxUBg": {
-        "ko-KR": "[안드레아]\n아, 길드장님이라면 몇가지 준비할 것이 있다며 잠시 길드주둔지로 돌아가셨습니다. 다시 이곳 미궁 입구로 곧장 돌아오신다 하셨고요.",
         "en-US": "[Andrea]\nOh, she said she needed to handle Cathedral matters. However, she said she would return to the labyrinth entrance.",
         "pt-BR": "[Andrea]\nOh, ela disse que precisava resolver assuntos da Catedral. Entretanto, ela avisou que voltaria para a entrada do labirinto.",
         "es-ES": "[Andrea]\nOh, dijo que necesitaba ocuparse de asuntos de la Catedral. Sin embargo, dijo que volvería a la entrada del laberinto."
     },
     "D3xUBg": {
-        "ko-KR": "[안드레아]\n그리고, {0}님께 저희 길드의 객원 길드원으로 활동해주실수 없는지 꼭 여쭤보라고 하시더군요",
         "en-US": "[Andrea]\nShe said {0} should be treated as a member of our clan.",
         "pt-BR": "[Andrea]\nEla disse que {0} deve ter o tratamento de um membro do nosso clã.",
         "es-ES": "[Andrea]\nDijo que {0} debe ser tratado como un miembro de nuestro gremio."
     },
     "EHxUBg": {
-        "ko-KR": "[안드레아]\n실질적으로 뛰어야하는 저희가 지금 이런 꼴인데다, 부활 자금을 마련할 인력도 없고. 그래서 손이 하나라도 부족한 상황입니다.",
         "en-US": "[Andrea]\nWe are working to get enough money for our resurrection. That's why we are still in this state.",
         "pt-BR": "[Andrea]\nEstamos correndo atrás de conseguir dinheiro suficiente para a nossa ressurreição. Por isso ainda estamos nesse estado.",
         "es-ES": "[Andrea]\nEstamos trabajando para conseguir suficiente dinero para nuestra resurrección. Por eso todavía estamos en este estado."
     },
     "EXxUBg": {
-        "ko-KR": "[안드레아]\n새로 밝혀진 이 뒤틀린 미궁의 공략을 할 수 있다면 저희 길드를 되살릴만한 불씨가 될텐데. 길드 주변에서 당장 믿고 맡길만한 경험자라곤 {0}님 뿐입니다",
         "en-US": "[Andrea]\nIf we explore this labyrinth, we might manage to revive. That's why we trust you to do this, {0}.",
         "pt-BR": "[Andrea]\nSe explorarmos esse labirinto, poderíamos conseguir reviver. Por isso confiamos em você para fazer isso, {0}.",
         "es-ES": "[Andrea]\nSi exploramos este laberinto, podríamos lograr revivir. Por eso confiamos en que tú hagas esto, {0}."
     },
     "EnxUBg": {
-        "ko-KR": "[안드레아]\n{0}님 저희길드의 객원 길드원으로서 활동해 주실 수 있으십니까?",
         "en-US": "[Andrea]\nWould you like to join as a temporary member of our clan, {0}?",
         "pt-BR": "[Andrea]\nGostaria de se juntar como membro temporário do nosso clã, {0}?",
         "es-ES": "[Andrea]\n¿Te gustaría unirte como miembro temporal de nuestro gremio, {0}?"
     },
     "E3xUBg": {
-        "ko-KR": "아무래도 그것까진 무리죠",
         "en-US": "I'd rather not.",
         "pt-BR": "Acho melhor não.",
         "es-ES": "Prefiero no hacerlo."
     },
     "FHxUBg": {
-        "ko-KR": "활동한다면 무슨 혜택이 있죠?",
         "en-US": "What are the benefits?",
         "pt-BR": "Quais os benefícios?",
         "es-ES": "¿Cuáles son los beneficios?"
     },
     "FXxUBg": {
-        "ko-KR": "[안드레아]\n아... 그렇죠, 제가 생각해도 좀 무리한 부탁이었던 것 같군요.",
         "en-US": "[Andrea]\nI understand... it's really a very indelicate request to make.",
         "pt-BR": "[Andrea]\nEntendo... é realmente um pedido muito indelicado a se fazer.",
         "es-ES": "[Andrea]\nAh… cierto, creo que fue un pedido un poco irrazonable."
     },
     "FnxUBg": {
-        "ko-KR": "[안드레아]\n비록 저희가 영혼의 상태지만 이 뒤틀린 미궁안을 돌며 얻은 여러가지의 지식을 가지고 있습니다.",
         "en-US": "[Andrea]\nEven though I'm a spirit, I've gained much knowledge about this labyrinth.",
         "pt-BR": "[Andrea]\nApesar de ser um espírito, adquiri muito conhecimento sobre esse labirinto.",
         "es-ES": "[Andrea]\nAunque soy un espíritu, he adquirido mucho conocimiento sobre este laberinto."
     },
     "F3xUBg": {
-        "ko-KR": "[안드레아]\n탐사하게 되실 뒤틀린 미궁내부와 관련하여 여러가지 의뢰를 드리고 적절한 보상을 드릴 생각입니다. 객원 길드원으로 활동해보실 생각이 있으십니까?",
         "en-US": "[Andrea]\nI want to ask you to explore the labyrinth and you will receive rewards. What do you think?",
         "pt-BR": "[Andrea]\nQuero lhe pedir para explorar o labirinto e você receberá recompensas. O que acha?",
         "es-ES": "[Andrea]\nQuiero pedirte que explores el laberinto y recibirás recompensas. ¿Qué te parece?"
     },
     "GHxUBg": {
-        "ko-KR": "역시 안되겠소",
         "en-US": "I can't do that.",
         "pt-BR": "Não posso fazer isso.",
         "es-ES": "No puedo hacer eso."
     },
     "GXxUBg": {
-        "ko-KR": "그럽시다!",
         "en-US": "Let's do it!",
         "pt-BR": "Vamos fazer isso!",
         "es-ES": "¡Hagámoslo!"
     },
     "GnxUBg": {
-        "ko-KR": "[안드레아]\n정말 감사합니다. 이제 저희가 길드를 대표해서 이 뒤틀린 미궁과 관련한 의뢰를 {0}님께 부탁드리도록 하겠습니다.",
         "en-US": "[Andrea]\nThank you. In the name of our clan and the cathedral, we accept {0} as part of our family.",
         "pt-BR": "[Andrea]\nObrigado. Em nome do nosso clã e da catedral, aceitamos {0} como parte da nossa família.",
         "es-ES": "[Andrea]\nGracias. En nombre del gremio y de la catedral, aceptamos a {0} como parte de nuestra familia."
     },
     "G3xUBg": {
-        "ko-KR": "[안드레아]\n아직 새 의뢰를 드릴 시간이 아닙니다. 지금은 이전의 의뢰를 먼저 완료해 주세요.",
         "en-US": "[Andrea]\nIt's not yet time for new requests. Finish the other requests first.",
         "pt-BR": "[Andrea]\nAinda não é tempo de novos pedidos. Finalize os outros pedidos primeiro.",
         "es-ES": "[Andrea]\nTodavía no es momento para nuevas solicitudes. Termina las otras solicitudes primero."
     },
     "HHxUBg": {
-        "ko-KR": "[안드레아]\n완료 보고를 하지 않은 의뢰가 남아있군요. 실바노에게 의뢰를 보고해주세요.",
         "en-US": "[Andrea]\nThere are requests that haven't been completed yet. Please report them to Silvano.",
         "pt-BR": "[Andrea]\nHá pedidos que ainda não foram completados. Por favor, reporte-os para Silvano.",
         "es-ES": "[Andrea]\nHay solicitudes que aún no se han completado. Por favor, repórtalas a Silvano."
     },
     "HXxUBg": {
-        "ko-KR": "[안드레아]",
         "en-US": "[Andrea]",
         "pt-BR": "[Andrea]",
         "es-ES": "[Andrea]"
     },
     "HnxUBg": {
-        "ko-KR": "어제 미처 완료하지 못한 의뢰가 아직 남아있군요. ^FF0000만약 지금 새로 의뢰를 받게될경우 어제 완료하지 못한 의뢰는 오늘 이어가게됩니다.^000000 오늘의 의뢰를 모두 받으시겠습니까?",
         "en-US": "You still have a request from yesterday that you didn't complete. ^FF0000If you accept a new mission now, yesterday's will be continued.^000000 Do you wish to accept all missions?",
         "pt-BR": "Você ainda tem um pedido de ontem que não completou. ^FF0000Se receber uma nova missão agora, a de ontem será continuada.^000000 Deseja aceitar todas as missões?",
         "es-ES": "Todavía tienes una solicitud de ayer que no completaste. ^FF0000Si aceptas una nueva misión ahora, la de ayer continuará.^000000 ¿Deseas aceptar todas las misiones?"
     },
     "H3xUBg": {
-        "ko-KR": "{0}님께 드릴 의뢰가 잔뜩 쌓여있습니다. 모든 의뢰를 다 받으시겠습니까?",
         "en-US": "Hey, {0}. I have several requests for you. Do you wish to accept all missions?",
         "pt-BR": "Ei, {0}. Eu tenho vários pedidos para você. Deseja aceitar todas as missões?",
         "es-ES": "Oye, {0}. Tengo varias solicitudes para ti. ¿Deseas aceptar todas las misiones?"
     },
     "IHxUBg": {
-        "ko-KR": "모두 받는다",
         "en-US": "Accept.",
         "pt-BR": "Aceitar.",
         "es-ES": "Aceptar."
     },
     "IXxUBg": {
-        "ko-KR": "[안드레아]\n의뢰를 다시 받을 준비가 되시면 오십시오.",
         "en-US": "[Andrea]\nCome back whenever you want to do missions.",
         "pt-BR": "[Andrea]\nVolte quando quiser fazer missões.",
         "es-ES": "[Andrea]\nVuelve cuando quieras hacer misiones."
     },
     "InxUBg": {
-        "ko-KR": "[안드레아]\n오늘도 수고해주세요.\n늘 감사합니다.",
         "en-US": "[Andrea]\nDo your best.\nThank you.",
         "pt-BR": "[Andrea]\nDê o seu melhor.\nObrigado.",
         "es-ES": "[Andrea]\nDa lo mejor de ti.\nGracias."
     },
     "I3xUBg": {
-        "ko-KR": "아네스",
         "en-US": "Agnes",
         "pt-BR": "Agnes",
         "es-ES": "Agnes"
     },
     "JHxUBg": {
-        "ko-KR": "[아네스]\n저희 모두 {0}님께 감사드립니다. 그리고 길드장님게서 ^0000FF안드레아^000000를 통해 전언을 남기셨습니다.",
         "en-US": "[Agnes]\nThank you, {0}. Our leader sent a message via ^0000FFAndrea^000000, it's better to talk to him.",
         "pt-BR": "[Agnes]\nAgradeço à você, {0}. Nossa líder enviou uma mensagem via ^0000FFAndrea^000000, é melhor falar com ele.",
         "es-ES": "[Agnes]\nGracias, {0}. Nuestra líder envió un mensaje a través de ^0000FFAndrea^000000, es mejor hablar con él."
     },
     "JXxUBg": {
-        "ko-KR": "[아네스]\n아직 새 의뢰를 드릴 시간이 아닙니다. 지금은 이전의 의뢰를 먼저 완료해 주세요.",
         "en-US": "[Agnes]\nIt's not yet time for new requests. Finish the other requests first.",
         "pt-BR": "[Agnes]\nAinda não é tempo de novos pedidos. Finalize os outros pedidos primeiro.",
         "es-ES": "[Agnes]\nTodavía no es momento para nuevas solicitudes. Termina las otras solicitudes primero."
     },
     "JnxUBg": {
-        "ko-KR": "[아네스]\n완료 보고를 하지 않은 의뢰가 남아있군요. 실바노에게 의뢰를 보고해주세요.",
         "en-US": "[Agnes]\nThere are requests that haven't been completed yet. Please report them to Silvano.",
         "pt-BR": "[Agnes]\nHá pedidos que ainda não foram completados. Por favor, reporte-os para Silvano.",
         "es-ES": "[Agnes]\nHay solicitudes que aún no se han completado. Por favor, repórtalas a Silvano."
     },
     "J3xUBg": {
-        "ko-KR": "[아네스]",
         "en-US": "[Agnes]",
         "pt-BR": "[Agnes]",
         "es-ES": "[Agnes]"
     },
     "KHxUBg": {
-        "ko-KR": "미처 완료하지 못한 의뢰가 아직 남아있군요. ^FF0000만약 지금 새로 의뢰를 받게될경우 지난주에 완료하지 못한 의뢰는 삭제됩니다.^000000 새 주간 의뢰를 받으시겠습니까?",
         "en-US": "There are still incomplete missions. ^FF0000If you accept a new request, last week's incomplete mission will be deleted.^000000 Do you wish to accept the weekly mission?",
         "pt-BR": "Ainda há missões incompletas. ^FF0000Se receber um novo pedido, a missão incompleta semana passada será deletada.^000000 Deseja aceitar a missão semanal?",
         "es-ES": "Todavía hay misiones incompletas. ^FF0000Si aceptas una nueva solicitud, la misión incompleta de la semana pasada se eliminará.^000000 ¿Deseas aceptar la misión semanal?"
     },
     "KXxUBg": {
-        "ko-KR": "{0}님 1주일단위로 받으실 수 있는 주간의뢰가 1건 있습니다. 받으시겠습니까?",
         "en-US": "Oh, {0}, I have a request to make every week. Do you wish to accept the weekly mission?",
         "pt-BR": "Oh, {0}, eu tenho um pedido para fazer toda a semana. Deseja aceitar a missão semanal?",
         "es-ES": "Oh, {0}, tengo una solicitud que hacer cada semana. ¿Deseas aceptar la misión semanal?"
     },
     "KnxUBg": {
-        "ko-KR": "주간의뢰 1건을 받는다",
         "en-US": "Accept weekly mission.",
         "pt-BR": "Aceitar missão da semana.",
         "es-ES": "Aceptar misión semanal."
     },
     "K3xUBg": {
-        "ko-KR": "[아네스]\n의뢰를 다시 받을 준비가 되시면 오십시오.",
         "en-US": "[Agnes]\nCome back whenever you want to do missions.",
         "pt-BR": "[Agnes]\nVolte quando quiser fazer missões.",
         "es-ES": "[Agnes]\nVuelve cuando quieras hacer misiones."
     },
     "LHxUBg": {
-        "ko-KR": "[아네스]\n이번 한주도 신의 가호가 함께 하길 기원합니다.",
         "en-US": "[Agnes]\nMay Odin bless your week.",
         "pt-BR": "[Agnes]\nQue Odin abençoe sua semana.",
         "es-ES": "[Agnes]\nQue Odín bendiga tu semana."
     },
     "LXxUBg": {
-        "ko-KR": "실바노",
         "en-US": "Silvano",
         "pt-BR": "Silvano",
         "es-ES": "Silvano"
     },
     "LnxUBg": {
-        "ko-KR": "보유한 물건의 종류나 무게가 너무 많은 것 같습니다. 인벤토리를 정리해주세요.",
         "en-US": "Please reorganize your inventory and come back again.",
         "pt-BR": "Por favor, reorganize seu inventário e volte novamente.",
         "es-ES": "Por favor, reorganiza tu inventario y vuelve otra vez."
     },
     "L3xUBg": {
-        "ko-KR": "^FF0000보상아이템을 이미 너무 많이 보유하고 있습니다. 보상아이템을 비운 뒤 다시 진행 해주십시오^000000",
         "en-US": "^FF0000You already have too many items from this reward. Please store them and try again.^000000",
         "pt-BR": "^FF0000Você já tem muitos itens dessa recompensa. Por favor, guarde-os e tente novamente.^000000",
         "es-ES": "^FF0000Ya tienes demasiados ítems de esta recompensa. Por favor, guárdalos e inténtalo de nuevo.^000000"
     },
     "MHxUBg": {
-        "ko-KR": "[실바노]\n저희 모두 {0}님께 감사드립니다. 그리고 길드장님게서 ^0000FF안드레아^000000를 통해 전언을 남기셨습니다.",
         "en-US": "[Silvano]\nThank you, {0}. Our leader sent a message via ^0000FFAndrea^000000, it's better to talk to him.",
         "pt-BR": "[Silvano]\nAgradeço à você, {0}. Nossa líder enviou uma mensagem via ^0000FFAndrea^000000, é melhor falar com ele.",
         "es-ES": "[Silvano]\nGracias, {0}. Nuestra líder envió un mensaje a través de ^0000FFAndrea^000000, és mejor hablar con él."
     },
     "MXxUBg": {
-        "ko-KR": "[실바노]\n완료하신 의뢰가 있다면 보상을 받으셔야지요. 지금 받으시겠습니까?",
         "en-US": "[Silvano]\nIf you've completed a request, you receive the reward from me. Do you want it now?",
         "pt-BR": "[Silvano]\nSe você completou um pedido, é comigo que recebe a recompensa. Quer ela agora?",
         "es-ES": "[Silvano]\nSi has completado una solicitud, recibes la recompensa de mí. ¿La quieres ahora?"
     },
     "MnxUBg": {
-        "ko-KR": "조금 기다린다",
         "en-US": "One moment",
         "pt-BR": "Um momento",
         "es-ES": "Un momento"
     },
     "M3xUBg": {
-        "ko-KR": "보상을 받는다",
         "en-US": "Receive reward",
         "pt-BR": "Receber recompensa",
         "es-ES": "Recibir recompensa"
     },
     "NHxUBg": {
-        "ko-KR": "[실바노]\n얼마든지 기다려드리죠.",
         "en-US": "[Silvano]\nOk, I'll wait a moment.",
         "pt-BR": "[Silvano]\nOk, vou aguardar um momento.",
         "es-ES": "[Silvano]\nOk, esperaré un momento."
     },
     "NXxUBg": {
-        "ko-KR": "^0000FF혼돈의 바포메트 주니어 처치^000000 완료",
         "en-US": "[Complete] ^0000FFEliminate Chaotic Baphomet Jr.^000000",
         "pt-BR": "[Completo] ^0000FFEliminar Bafinho Caótico^000000",
         "es-ES": "[Completo] ^0000FFEliminar Baphomet Jr. Caótico^000000"
     },
     "NnxUBg": {
-        "ko-KR": "^0000FF혼돈의 고스트링 처치^000000 완료",
         "en-US": "[Complete] ^0000FFEliminate Chaotic Ghostring^000000",
         "pt-BR": "[Completo] ^0000FFEliminar Ghostring Caótico^000000",
         "es-ES": "[Completo] ^0000FFEliminar Ghostring Caótico^000000"
     },
     "N3xUBg": {
-        "ko-KR": "^0000FF혼돈의 헌터플라이 처치^000000 완료",
         "en-US": "[Complete] ^0000FFEliminate Chaotic Hunterfly^000000",
         "pt-BR": "[Completo] ^0000FFEliminar Mosca Caótica^000000",
         "es-ES": "[Completo] ^0000FFEliminar Mosca Caótica^000000"
     },
     "OHxUBg": {
-        "ko-KR": "^0000FF혼돈의 킬러맨티스 처치^000000 완료",
         "en-US": "[Complete] ^0000FFEliminate Chaotic Killer Mantis^000000",
         "pt-BR": "[Completo] ^0000FFEliminar Mantis Caótico^000000",
         "es-ES": "[Completo] ^0000FFEliminar Mantis Asesino Caótico^000000"
     },
     "OXxUBg": {
-        "ko-KR": "^0000FF혼돈의 맨티스 처치^000000 완료",
         "en-US": "[Complete] ^0000FFEliminate Chaotic Mantis^000000",
         "pt-BR": "[Completo] ^0000FFEliminar Louva-Caos^000000",
         "es-ES": "[Completo] ^0000FFEliminar Mantis Caótico^000000"
     },
     "OnxUBg": {
-        "ko-KR": "^0000FF혼돈의 포포링 처치^000000 완료",
         "en-US": "[Complete] ^0000FFEliminate Chaotic Poporing^000000",
         "pt-BR": "[Completo] ^0000FFEliminar Poporing Caótico^000000",
         "es-ES": "[Completo] ^0000FFEliminar Poporing Caótico^000000"
     },
     "O3xUBg": {
-        "ko-KR": "^0000FF혼돈의 사이드와인더 처치^000000 완료",
         "en-US": "[Complete] ^0000FFEliminate Chaotic Sidewinder^000000",
         "pt-BR": "[Completo] ^0000FFEliminar Sorrateiro Caótico^000000",
         "es-ES": "[Completo] ^0000FFEliminar Soratero Caótico^000000"
     },
     "PHxUBg": {
-        "ko-KR": "^0000FF혼돈의 스템웜 처치^000000 완료",
         "en-US": "[Complete] ^0000FFEliminate Chaotic Stem Worm^000000",
         "pt-BR": "[Completo] ^0000FFEliminar Talo Caótico^000000",
         "es-ES": "[Completo] ^0000FFEliminar Cola de Gusano Caótico^000000"
     },
     "PXxUBg": {
-        "ko-KR": "^0000FF안드레아 퇴치^000000 완료",
         "en-US": "[Complete] ^0000FFPurify Andrea^000000",
         "pt-BR": "[Completo] ^0000FFPurificar Andrea^000000",
         "es-ES": "[Completo] ^0000FFPurificar a Andrea^000000"
     },
     "PnxUBg": {
-        "ko-KR": "^0000FF아네스 퇴치^000000 완료",
         "en-US": "[Complete] ^0000FFPurify Agnes^000000",
         "pt-BR": "[Completo] ^0000FFPurificar Agnes^000000",
         "es-ES": "[Completo] ^0000FFPurificar a Agnes^000000"
     },
     "P3xUBg": {
-        "ko-KR": "^0000FF실바노 퇴치^000000 완료",
         "en-US": "[Complete] ^0000FFPurify Silvano^000000",
         "pt-BR": "[Completo] ^0000FFPurificar Silvano^000000",
         "es-ES": "[Completo] ^0000FFPurificar a Silvano^000000"
     },
     "QHxUBg": {
-        "ko-KR": "^0000FF세실리아 퇴치^000000 완료",
         "en-US": "[Complete] ^0000FFPurify Cecilia^000000",
         "pt-BR": "[Completo] ^0000FFPurificar Cecília^000000",
         "es-ES": "[Completo] ^0000FFPurificar a Cecilia^000000"
     },
     "QXxUBg": {
-        "ko-KR": "[실바노]\n완료한 의뢰에 대한 보상지급이 모두 완료되었습니다.",
         "en-US": "[Silvano]\nThe rewards for completed missions have been delivered.",
         "pt-BR": "[Silvano]\nAs recompensas das missões completadas foram entregues.",
         "es-ES": "[Silvano]\nLas recompensas por las misiones completadas han sido entregadas."
     },
     "QnxUBg": {
-        "ko-KR": "[실바노]\n완료하신 의뢰가 없군요. 1개 이상의 의뢰를 완료하신뒤에 다시 저를 찾아와주세요.",
         "en-US": "[Silvano]\nThere are no completed missions. Please talk to me when you complete some mission.",
         "pt-BR": "[Silvano]\nNão há missões completadas. Por favor, fale comigo quando concluir alguma missão.",
         "es-ES": "[Silvano]\nNo hay misiones completadas. Por favor, háblame cuando completes alguna misión."
     },
     "Q3xUBg": {
-        "ko-KR": "안드레아의 흔적",
         "en-US": "Andrea's Remains",
         "pt-BR": "Restos de Andrea",
         "es-ES": "Restos de Andrea"
     },
     "RHxUBg": {
-        "ko-KR": "^0000FF안드레아의 흔적을 찾았습니다. 그의 흔적을 수습하겠습니까?^000000",
         "en-US": "^0000FFAndrea's remains found. Do you wish to take them?^000000",
         "pt-BR": "^0000FFRestos de Andrea encontrados. Deseja levá-los?^000000",
         "es-ES": "^0000FFRestos de Andrea encontrados. ¿Deseas tomarlos?^000000"
     },
     "RXxUBg": {
-        "ko-KR": "그만둔다",
         "en-US": "Leave",
         "pt-BR": "Sair",
         "es-ES": "Dejar"
     },
     "RnxUBg": {
-        "ko-KR": "수습한다",
         "en-US": "Take",
         "pt-BR": "Levar",
         "es-ES": "Tomar"
     },
     "R3xUBg": {
-        "ko-KR": "^0000FF수습을 중단합니다.^000000",
         "en-US": "^0000FFYou left them as they were.^000000",
         "pt-BR": "^0000FFVocê deixou como está.^000000",
         "es-ES": "^0000FFLos dejaste como estaban.^000000"
     },
     "SHxUBg": {
-        "ko-KR": "^0000FF모든 사제회 수십 길드원의 흔적을 찾았습니다. 미궁 내부에 있는 에스메랄다를 찾아가 봅시다.^000000",
         "en-US": "^0000FFFound all the remains of the missing novices. I'll return to Prontera and speak with Esmeralda.^000000",
         "pt-BR": "^0000FFEncontrei todos os restos dos noviços desaparecidos. Vou voltar para Prontera e falar com Esmeralda.^000000",
         "es-ES": "^0000FFEncontré todos los restos de los novicios desaparecidos. Volveré a Prontera y hablaré con Esmeralda.^000000"
     },
     "SXxUBg": {
-        "ko-KR": "아네스의 흔적",
         "en-US": "Agnes's Remains",
         "pt-BR": "Restos de Agnes",
         "es-ES": "Restos de Agnes"
     },
     "SnxUBg": {
-        "ko-KR": "^0000FF아네스의 흔적을 찾았습니다. 그의 흔적을 수습하겠습니까?^000000",
         "en-US": "^0000FFAgnes's remains found. Do you wish to take them?^000000",
         "pt-BR": "^0000FFRestos de Agnes encontrados. Deseja levá-los?^000000",
         "es-ES": "^0000FFRestos de Agnes encontrados. ¿Deseas tomarlos?^000000"
     },
     "S3xUBg": {
-        "ko-KR": "실바노의 흔적",
         "en-US": "Silvano's Remains",
         "pt-BR": "Restos de Silvano",
         "es-ES": "Restos de Silvano"
     },
     "THxUBg": {
-        "ko-KR": "^0000FF실바노의 흔적을 찾았습니다. 그의 흔적을 수습하겠습니까?^000000",
         "en-US": "^0000FFSilvano's remains found. Do you wish to take them?^000000",
         "pt-BR": "^0000FFRestos de Silvano encontrados. Deseja levá-los?^000000",
         "es-ES": "^0000FFRestos de Silvano encontrados. ¿Deseas tomarlos?^000000"
     },
     "TXxUBg": {
-        "ko-KR": "세실리아의 흔적",
         "en-US": "Cecilia's Remains",
         "pt-BR": "Restos de Cecília",
         "es-ES": "Restos de Cecilia"
     },
     "TnxUBg": {
-        "ko-KR": "^0000FF세실리아의 흔적을 찾았습니다. 그의 흔적을 수습하겠습니까?^000000",
         "en-US": "^0000FFCecilia's remains found. Do you wish to take them?^000000",
         "pt-BR": "^0000FFRestos de Cecília encontrados. Deseja levá-los?^000000",
         "es-ES": "^0000FFRestos de Cecilia encontrados. ¿Deseas tomarlos?^000000"

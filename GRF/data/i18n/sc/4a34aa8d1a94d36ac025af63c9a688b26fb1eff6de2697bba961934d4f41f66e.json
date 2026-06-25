@@ -1,1170 +1,975 @@
 {
     "AJ9ZDA": {
-        "ko-KR": "조사관 시아라",
         "en-US": "Investigator Ciara",
         "pt-BR": "Agente Siaro",
         "es-ES": "Agente Siaro"
     },
     "AZ9ZDA": {
-        "ko-KR": "<유노 몬스터 학회>",
         "en-US": "<Juno Monster Society>",
         "pt-BR": "Sociedade de Monstros",
         "es-ES": "Sociedad de Monstruos"
     },
     "Ap9ZDA": {
-        "ko-KR": "[조사관 시아라]\n모험가님, 여긴 위험해요.\n목숨이 아깝지 않으면 모를까...",
         "en-US": "[Investigator Ciara]\nAdventurer, it's dangerous here.\nIf you don't care about your life, then you wouldn't know...",
         "pt-BR": "[Agente Siaro]\nViajante, aqui é perigoso.\nÉ melhor você ficar mais forte se quiser explorar esse lugar...",
         "es-ES": "[Agente Siaro]\nTrotamundos, aquí es peligroso.\nSerá mejor que te fortalezcas si quieres explorar este lugar..."
     },
     "A59ZDA": {
-        "ko-KR": "[조사관 시아라]\n안녕하세요. 유노 몬스터 학회의 시아라입니다.\n모험가분들께 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?\n혹은 가까운 곳이라면 순간이동 서비스도 지원합니다.",
         "en-US": "[Investigator Ciara]\nHello. I am Ciara from the Juno Monster Society.\nI'm asking adventurers to investigate and hunting monsters. What do you think?\nOr, if you are nearby, we also support teleportation service.",
         "pt-BR": "[Agente Siaro]\nOlá. Eu sou Siaro, da Sociedade Juniana de Monstros.\nDeseja participar das missões de caçada dessa área?\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Siaro]\nHola. Soy Siaro, de la Sociedad Juniana de Monstruos.\n¿Desea participar en las misiones de cacería de esta área?\nTambién ofrezco servicio de teletransporte."
     },
     "BJ9ZDA": {
-        "ko-KR": "사정을 들어본다",
         "en-US": "Listen the details",
         "pt-BR": "Iniciar a caçada",
         "es-ES": "Iniciar la cacería"
     },
     "BZ9ZDA": {
-        "ko-KR": "가까운 도시로 이동",
         "en-US": "Move to a nearby city",
         "pt-BR": "Teleportar para cidade",
         "es-ES": "Teletransportar a ciudad"
     },
     "Bp9ZDA": {
-        "ko-KR": "그만둔다",
         "en-US": "Cancel",
         "pt-BR": "Sair",
         "es-ES": "Salir"
     },
     "B59ZDA": {
-        "ko-KR": "[조사관 시아라]\n최근들어 이 주변을 비롯한 몇몇 지역에서 몬스터의 개체수가 늘어나고 있어요.\n이전보다 인적이 뜸해진 게 이유인 것 같긴 한데...",
         "en-US": "[Investigator Ciara]\nRecently, the number of monsters has been increasing in this area and other areas.\nI think it's because there are fewer people here than before...",
         "pt-BR": "[Agente Siaro]\nRecentemente, a população de monstros aumentou significativamente.\nAcho que a razão é a falta de caçadores...",
         "es-ES": "[Agente Siaro]\nRecientemente, la población de monstruos aumentó significativamente.\nCreo que la razón es la falta de cazadores..."
     },
     "CJ9ZDA": {
-        "ko-KR": "[조사관 시아라]\n이미 자연적으로는 개체 조절이 안 된다는 뜻이겠죠.\n더 군락지가 확장되는 것을 막기 위해서, 저희 유노 몬스터 학회에서는 대대적 토벌을 계획했습니다.",
         "en-US": "[Investigator Ciara]\nThis means that natural self-regulation is no longer possible.\nIn order to prevent the monsters from expanding further, we at the Juno Monster Society have planned a large-scale expedition.",
         "pt-BR": "[Agente Siaro]\nA situação saiu do controle.\nE para não piorar as coisas, a Sociedade Juniana de Monstros está recrutando pessoas para ajudar.",
         "es-ES": "[Agente Siaro]\nLa situación se salió de control.\nY para no empeorar las cosas, la Sociedad Juniana de Monstruos está reclutando personas para ayudar."
     },
     "CZ9ZDA": {
-        "ko-KR": "[조사관 시아라]\n아무리 모험가들의 방문이 줄었다 해도, 사람이 사는 곳까지 내려오면 큰일이니까요...\n그래서 말씀인데 토벌을 부탁드려도 되겠습니까?",
         "en-US": "[Investigator Ciara]\nNo matter how much the number of adventurers has decreased, it would be a big problem if they came down to where people live...\nSo, can I ask you to help me subdue them?",
         "pt-BR": "[Agente Siaro]\nEla está enviando agentes para os locais mais críticos...\nPor isso estou aqui, posso contar com você?",
         "es-ES": "[Agente Siaro]\nEstá enviando agentes a los lugares más críticos...\nPor eso estoy aquí, ¿puedo contar contigo?"
     },
     "Cp9ZDA": {
-        "ko-KR": "[조사관 시아라]\n 이 아우둠라 초원, 제 눈이 닿는 이 필드 내에서 몬스터 80마리를 처치해 주시면 저희 학회에서 공적을 인정하여 경험치를 부여해 드립니다.\n^FF0000어린 데저트울프는 제외하고요.^000000",
         "en-US": "[Investigator Ciara]\nIf you defeat 80 monsters within this area, the Audhumbla Grassland, our society will recognize your achievement and grant you experience points.\n^FF0000Except for the young desert wolf.^000000",
         "pt-BR": "[Agente Siaro]\nSeu objetivo é caçar 80 monstros desse mapa.\n^FF0000Exceto, Filhotes de Lobo do Deserto.^000000",
         "es-ES": "[Agente Siaro]\nTu objetivo es cazar 80 monstruos de este mapa.\n^FF0000Excepto, Cachorros de Lobo del Desierto.^000000"
     },
     "C59ZDA": {
-        "ko-KR": "수락한다",
         "en-US": "Accept",
         "pt-BR": "Aceitar",
         "es-ES": "Aceptar"
     },
     "DJ9ZDA": {
-        "ko-KR": "거절한다",
         "en-US": "Refuse",
         "pt-BR": "Rejeitar",
         "es-ES": "Rechazar"
     },
     "DZ9ZDA": {
-        "ko-KR": "[조사관 시아라]\n서로 득이 되는 일인데 왜 마다하시는지...",
         "en-US": "[Investigator Ciara]\nIt's something that is beneficial to both of us, so why are you hesitating?",
         "pt-BR": "[Agente Siaro]\nTeria uma recompensa, mas tudo bem...",
         "es-ES": "[Agente Siaro]\nHabría una recompensa, pero está bien..."
     },
     "Dp9ZDA": {
-        "ko-KR": "[조사관 시아라]\n좋아요 좋아요.\n저는 여기서 충분히 개체수가 조절되는지 확인하고 있겠습니다.",
         "en-US": "[Investigator Ciara]\nGood, good.\nI'll be checking here to make sure the population is sufficiently regulated.",
         "pt-BR": "[Agente Siaro]\nBom, bom.\nVolte aqui quando finalizar a caçada.",
         "es-ES": "[Agente Siaro]\nBien, bien.\nRegresa aquí cuando finalices la cacería."
     },
     "D59ZDA": {
-        "ko-KR": "[조사관 시아라]\n여기서라면 제일 가까운 곳은 ^0033FF라헬^000000입니다만,\n가지고 계신 초절탄산수가 있으시면 한 개... 주시면 그걸로 보내드릴게요.\n하~ 그게 또 요새 인기인데 사러 갈 수가 없어서.",
         "en-US": "[Investigator Ciara]\nThe closest one from here is ^0033FFRachel^000000,\nIf you have any <ITEM>[Sparkling Carbonated Water]<INFO>1000374</INFO></ITEM>, give me one and I'll send it to you.\nHa~ That's popular these days, but I can't go buy it.",
         "pt-BR": "[Agente Siaro]\nA cidade mais perto daqui é ^0033FFRachel^000000.\nO teleporte custa 1 Água Mineral.\nAh~ seria uma pena se você não tiver.",
         "es-ES": "[Agente Siaro]\nLa ciudad más cercana de aquí es ^0033FFRachel^000000.\nEl teletransporte cuesta 1 Agua Mineral.\nAh~ sería una pena si no tuvieras."
     },
     "EJ9ZDA": {
-        "ko-KR": "초절탄산수 1개를 주고 라헬로",
         "en-US": "Give 1 Bottle and go to Rachel.",
         "pt-BR": "Dar Água Mineral",
         "es-ES": "Dar Agua Mineral"
     },
     "EZ9ZDA": {
-        "ko-KR": "안 준다",
         "en-US": "I won't give it to you.",
         "pt-BR": "Não dar",
         "es-ES": "No dar"
     },
     "Ep9ZDA": {
-        "ko-KR": "[조사관 시아라]\n초절탄산수를 안 갖고 계신 것 같은데요?\n설렜잖아요... 아쉽네.",
         "en-US": "[Investigator Ciara]\nI guess you don't have any sparkling water?\nWhat a pity...",
         "pt-BR": "[Agente Siaro]\nVocê viu se tem mesmo a Água Mineral?\nRealmente... seria uma pena.",
         "es-ES": "[Agente Siaro]\n¿Viste si tienes realmente el Agua Mineral?\nEn verdad... sería una pena."
     },
     "E59ZDA": {
-        "ko-KR": "[조사관 시아라]\n아... 그럼 뭐 어쩔 수 없죠.\n언제 또 먹어 본다...",
         "en-US": "[Investigator Ciara]\nAh... Well then, I guess there's nothing I can do.\nWhen will I get to drink it again...",
         "pt-BR": "[Agente Siaro]\nAh... não há nada que eu possa fazer, então.\nTente de novo na próxima...",
         "es-ES": "[Agente Siaro]\nAh... no hay nada que pueda hacer, entonces.\nInténtalo de nuevo la próxima..."
     },
     "FJ9ZDA": {
-        "ko-KR": "[조사관 시아라]\n이 주변의 몬스터들을 도합 80마리 처치하고 오시기 바랍니다.\n...네? 이동 서비스요?",
         "en-US": "[Investigator Ciara]\nPlease defeat a total of 80 monsters in this area.\n...Hmm? Teleport service?",
         "pt-BR": "[Agente Siaro]\nPor favor, elimine 80 monstros desse mapa.\n...Hã? Teleporte?",
         "es-ES": "[Agente Siaro]\nPor favor, elimina 80 monstruos de este mapa.\n...¿Eh? ¿Teletransporte?"
     },
     "FZ9ZDA": {
-        "ko-KR": "[조사관 시아라]\n아, 모험가님! 활약상 충분히 잘 보았습니다. 수고가 많으세요.",
         "en-US": "[Investigator Ciara]\nAh, adventurer! I've seen your exploits well. Thank you for your hard work.",
         "pt-BR": "[Agente Siaro]\nAh, viajante! Agradeço o seu esforço pela caçada.",
         "es-ES": "[Agente Siaro]\n¡Ah, Trotamundos! Agradezco tu esfuerzo por la cacería."
     },
     "Fp9ZDA": {
-        "ko-KR": "[조사관 시아라]\n정말 뭐든지 적정량이 중요한 것 같아요. 그쵸?",
         "en-US": "[Investigator Ciara]\nI really think moderation is key to everything, right?",
         "pt-BR": "[Agente Siaro]\nAcho que esse prêmio tá de bom tamanho, certo?",
         "es-ES": "[Agente Siaro]\nCreo que este premio es de buen tamaño, ¿verdad?"
     },
     "F59ZDA": {
-        "ko-KR": "[조사관 시아라]\n토벌 의뢰 수행은 원칙적으로 1일 1회 제한이 있습니다.\n오늘은 이만 쉬시고, 다음에 또...",
         "en-US": "[Investigator Ciara]\nIn principle, carrying out subjugation requests is limited to once per day.\nLet's rest for today, and see you next time...",
         "pt-BR": "[Agente Siaro]\nA princípio, as missões de caça só podem ser feitas 1 vez por dia.\nDê um descanso para o seu corpo...",
         "es-ES": "[Agente Siaro]\nEn principio, las misiones de caza solo pueden hacerse 1 vez al día.\nDale un descanso a tu cuerpo..."
     },
     "GJ9ZDA": {
-        "ko-KR": "초절탄산수를 권한다",
         "en-US": "Here, have some Sparkling Carbonated Water.",
         "pt-BR": "Quer Água Mineral?",
         "es-ES": "¿Quieres Agua Mineral?"
     },
     "GZ9ZDA": {
-        "ko-KR": "내일 뵐게요",
         "en-US": "See you tomorrow.",
         "pt-BR": "Te vejo amanhã!",
         "es-ES": "¡Te veo mañana!"
     },
     "Gp9ZDA": {
-        "ko-KR": "[조사관 시아라]\n앗, 이건 내가 제일 좋아하는 초절탄산수!\n받아도 되나요? 감사합니다!\n꼴깍 꼴깍...",
         "en-US": "[Investigator Ciara]\nOh, this is my favorite sparkling water!\nCan I have it? Thank you!\nGulp gulp...",
         "pt-BR": "[Agente Siaro]\nAh, essa é a minha bebida favorita!\nPosso beber? Uau!\nGlub Glub...",
         "es-ES": "[Agente Siaro]\n¡Ah, esta es mi bebida favorita!\n¿Puedo beberla? ¡Guau!\nGlub Glub..."
     },
     "G59ZDA": {
-        "ko-KR": "[조사관 시아라]\n상쾌해!\n캬하~...\n...\n아! 모험가님!",
         "en-US": "[Investigator Ciara]\nRefreshing!\nKyaha~...\n...\nAh! Adventurer!",
         "pt-BR": "[Agente Siaro]\nRefrescante!\nHahah~...\n...\nAh! Viajante!",
         "es-ES": "[Agente Siaro]\n¡Refrescante!\nJajaj~...\n...\n¡Ah! ¡Trotamundos!"
     },
     "HJ9ZDA": {
-        "ko-KR": "[조사관 시아라]\n마침 잘됐네요. 여기쯤 지나다니시는 모험가분들께 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?\n혹은 가까운 곳이라면 순간이동 서비스도 지원해요.",
         "en-US": "[Investigator Ciara]\nI'd like to ask adventurers passing by here to investigate and hunt monsters. What do you think?\nOr, if you are nearby, we also provide teleportation service.",
         "pt-BR": "[Agente Siaro]\nMuito bem. Deseja participar das missões de caçada dessa área?\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Siaro]\nMuy bien. ¿Desea participar en las misiones de cacería de esta área?\nTambién ofrezco servicio de teletransporte."
     },
     "HZ9ZDA": {
-        "ko-KR": "토벌 퀘스트",
         "en-US": "Hunting Quest",
         "pt-BR": "Iniciar caçada",
         "es-ES": "Iniciar cacería"
     },
     "Hp9ZDA": {
-        "ko-KR": "[조사관 시아라]\n 이 아우둠라 초원, 제 눈이 닿는 이 필드 내에서 몬스터 80마리를 처치해 주시면 저희 학회에서 공적을 인정하여 경험치를 부여해 드립니다.",
         "en-US": "[Investigator Ciara]\nIf you defeat 80 monsters within this area, the Audhumbla Grassland, our society will recognize your achievement and grant you experience points.",
         "pt-BR": "[Agente Siaro]\nSeu objetivo é caçar 80 monstros desse mapa.",
         "es-ES": "[Agente Siaro]\nTu objetivo es cazar 80 monstruos de este mapa."
     },
     "H59ZDA": {
-        "ko-KR": "[조사관 시아라]\n네! 내일 뵙겠습니다.",
         "en-US": "[Investigator Ciara]\nIt's something that is beneficial to both of us, so why are you hesitating...",
         "pt-BR": "[Agente Siaro]\nOk! Te vejo amanhã.",
         "es-ES": "[Agente Siaro]\n¡Ok! Te veo mañana."
     },
     "IJ9ZDA": {
-        "ko-KR": "[조사관 시아라]\n안녕하세요. 오늘도 와 주셨군요!\n여기쯤 지나다니시는 모험가분들께 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?\n혹은 가까운 곳이라면 순간이동 서비스도 지원해요.",
         "en-US": "[Investigator Ciara]\nHello. You came today!\nI'd like to ask adventurers passing by here to investigate and hunt monsters. What do you think?\nOr, if you are nearby, we also provide teleportation service.",
         "pt-BR": "[Agente Siaro]\nOlá. Você voltou!\nEntão... Deseja participar das missões de caçada dessa área?\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Siaro]\nHola. ¡Regresaste!\nEntonces... ¿Desea participar en las misiones de cacería de esta área?\nTambién ofrezco servicio de teletransporte."
     },
     "IZ9ZDA": {
-        "ko-KR": "조사관 로렌",
         "en-US": "Investigator Lauren",
         "pt-BR": "Agente Lauren",
         "es-ES": "Agente Lauren"
     },
     "Ip9ZDA": {
-        "ko-KR": "[조사관 로렌]\n모험가님, 여긴 위험해요.\n목숨이 아깝지 않으면 모를까...",
         "en-US": "[Investigator Lauren]\nAdventurer, it's dangerous here.\nIf you don't care about your life, you won't know...",
         "pt-BR": "[Agente Lauren]\nViajante, aqui é perigoso.\nÉ melhor você ficar mais forte se quiser explorar esse lugar...",
         "es-ES": "[Agente Lauren]\nTrotamundos, aquí es peligroso.\nSerá mejor que te fortalezcas si quieres explorar este lugar..."
     },
     "I59ZDA": {
-        "ko-KR": "[조사관 로렌]\n유노 몬스터 학회의 로렌입니다, 모험가님, 안녕하세요!\n모험가분들께 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?\n혹은 가까운 곳이라면 순간이동 서비스도 지원합니다.",
         "en-US": "[Investigator Lauren]\nHello, adventurers! I am Lauren from the Yuno Monster Society!\nI'm asking adventurers to investigate and hunt monsters. What do you think?\nOr, if you are nearby, we also provide teleportation service.",
         "pt-BR": "[Agente Lauren]\nOlá, sou da Sociedade Juniana de Monstros, meu nome é Lauren!\nDeseja participar das missões de caçada dessa área?\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Lauren]\n¡Hola, soy de la Sociedad Juniana de Monstruos, mi nombre es Lauren!\n¿Desea participar en las misiones de cacería de esta área?\nTambién ofrezco servicio de teletransporte."
     },
     "JJ9ZDA": {
-        "ko-KR": "[조사관 로렌]\n최근들어 이 주변을 비롯한 몇몇 지역에서 몬스터의 개체수가 늘어나고 있어요.\n이전보다 인적이 뜸해진 게 이유인 것 같긴 한데...",
         "en-US": "[Investigator Lauren]\nRecently, the number of monsters has been increasing in some areas, including this area.\nI think it's because there are fewer people than before...",
         "pt-BR": "[Agente Lauren]\nRecentemente, a população de monstros aumentou significativamente.\nAcho que a razão é a falta de caçadores...",
         "es-ES": "[Agente Lauren]\nRecientemente, la población de monstruos aumentó significativamente.\nCreo que la razón es la falta de cazadores..."
     },
     "JZ9ZDA": {
-        "ko-KR": "[조사관 로렌]\n이미 자연적으로는 개체 조절이 안 된다는 뜻이겠죠.\n더 군락지가 확장되는 것을 막기 위해서, 저희 유노 몬스터 학회에서는 대대적 토벌을 계획했습니다.",
         "en-US": "[Investigator Lauren]\nThis means that natural self-regulation is no longer possible.\nIn order to prevent the monsters from expanding further, we at the Juno Monster Society have planned a large-scale expedition.",
         "pt-BR": "[Agente Lauren]\nA situação saiu do controle.\nE para não piorar as coisas, a Sociedade Juniana de Monstros está recrutando pessoas para ajudar.",
         "es-ES": "[Agente Lauren]\nLa situación se salió de control.\nY para no empeorar las cosas, la Sociedad Juniana de Monstruos está reclutando personas para ayudar."
     },
     "Jp9ZDA": {
-        "ko-KR": "[조사관 로렌]\n아무리 모험가들의 방문이 줄었다 해도, 사람이 사는 곳까지 내려오면 큰일이니까요...\n그래서 말씀인데 토벌을 부탁드려도 될까요?",
         "en-US": "[Investigator Lauren]\nNo matter how much the number of adventurers has decreased, it would be a big problem if they came down to where people live...\nSo, can I ask you to help me subdue them?",
         "pt-BR": "[Agente Lauren]\nEla está enviando agentes para os locais mais críticos...\nEntão, gostaria de nos ajudar?",
         "es-ES": "[Agente Lauren]\nEstá enviando agentes a los lugares más críticos...\nEntonces, ¿le gustaría ayudarnos?"
     },
     "J59ZDA": {
-        "ko-KR": "[조사관 로렌]\n 이 이다 평원, 제 눈이 닿는 이 필드 내에서 몬스터 80마리를 처치해 주시면 저희 학회에서 공적을 인정하여 경험치를 부여해 드립니다.",
         "en-US": "[Investigator Lauren]\nIf you defeat 80 monsters within this area, our society will recognize your achievement and grant you experience points.",
         "pt-BR": "[Agente Lauren]\nPreciso que você elimine 80 monstros desse mapa.",
         "es-ES": "[Agente Lauren]\nNecesito que elimines 80 monstruos de este mapa."
     },
     "KJ9ZDA": {
-        "ko-KR": "[조사관 로렌]\n서로 득이 되는 일인데 왜 마다하시는지...",
         "en-US": "[Investigator Lauren]\nIt's something that is beneficial to both of us, so why are you hesitating...",
         "pt-BR": "[Agente Lauren]\nTeria uma recompensa, mas tudo bem...",
         "es-ES": "[Agente Lauren]\nHabría una recompensa, pero está bien..."
     },
     "KZ9ZDA": {
-        "ko-KR": "[조사관 로렌]\n그럼 저는 여기서 개체수가 조절되는지 확인하고 있겠습니다.",
         "en-US": "[Investigator Lauren]\nSo I'm going to check here to see if the population is regulated.",
         "pt-BR": "[Agente Lauren]\nVou esperar você aqui.",
         "es-ES": "[Agente Lauren]\nTe esperaré aquí."
     },
     "Kp9ZDA": {
-        "ko-KR": "[조사관 로렌]\n여기서라면 제일 가까운 곳은 ^0033FF라헬^000000입니다만,\n가지고 계신 초절탄산수가 있으시면 한 개 주시면 그걸로 보내드릴게요.\n여기 있자니 그게 아쉽네요.",
         "en-US": "[Investigator Lauren]\nThe closest one from here is ^0033FFRachel^000000,\nIf you have any Sparkling Carbonated Water, give me one and I'll send it to you.\nHa~ That's popular these days, but I can't go buy it.",
         "pt-BR": "[Agente Lauren]\nA cidade mais perto daqui é ^0033FFRachel^000000.\nO serviço custa 1 Água Mineral.\nNem mais, nem menos.",
         "es-ES": "[Agente Lauren]\nLa ciudad más cercana de aquí es ^0033FFRachel^000000.\nEl servicio cuesta 1 Agua Mineral.\nNi más, ni menos."
     },
     "K59ZDA": {
-        "ko-KR": "[조사관 로렌]\n초절탄산수를 안 갖고 계신 것 같은데요?",
         "en-US": "[Investigator Lauren]\nI guess you don't have any sparkling water?",
         "pt-BR": "[Agente Lauren]\nVocê viu se tem mesmo a Água Mineral?",
         "es-ES": "[Agente Lauren]\n¿Viste si tienes realmente el Agua Mineral?"
     },
     "LJ9ZDA": {
-        "ko-KR": "[조사관 로렌]\n그럼 어쩔 수 없지요.",
         "en-US": "[Investigator Lauren]\nWell then, there's nothing we can do.",
         "pt-BR": "[Agente Lauren]\nOk, fique à vontade.",
         "es-ES": "[Agente Lauren]\nOk, siéntete a gusto."
     },
     "LZ9ZDA": {
-        "ko-KR": "[조사관 로렌]\n아아... 실적 올리게 해 주세요...",
         "en-US": "[Investigator Lauren]\nAhh... Please let me improve my performance...",
         "pt-BR": "[Agente Lauren]\nNesse caso... me deixe em paz...",
         "es-ES": "[Agente Lauren]\nEn ese caso... déjame en paz..."
     },
     "Lp9ZDA": {
-        "ko-KR": "[조사관 로렌]\n이 주변의 몬스터들을 도합 80마리 처치하고 오시기 바랍니다.\n...네? 이동 서비스요?",
         "en-US": "[Investigator Lauren]\nPlease defeat a total of 80 monsters in this area.\n...Hmm? Teleport service?",
         "pt-BR": "[Agente Lauren]\nPor favor, elimine 80 monstros desse mapa.\n...Hã? Teleporte?",
         "es-ES": "[Agente Lauren]\nPor favor, elimina 80 monstruos de este mapa.\n...¿Eh? ¿Teletransporte?"
     },
     "L59ZDA": {
-        "ko-KR": "[조사관 로렌]\n아... 그럼 뭐 어쩔 수 없죠.\n언제 또 먹어 본다...",
         "en-US": "[Investigator Lauren]\nAh... Well then, I guess there's nothing I can do.\nWhen will I get to drink it again...",
         "pt-BR": "[Agente Lauren]\nAh... não há nada que eu possa fazer, então.\nTente de novo na próxima...",
         "es-ES": "[Agente Lauren]\nAh... no hay nada que pueda hacer, entonces.\nInténtalo de nuevo la próxima..."
     },
     "MJ9ZDA": {
-        "ko-KR": "[조사관 로렌]\n아, 모험가님! 활약상 충분히 잘 보았습니다. 수고가 많으세요.",
         "en-US": "[Investigator Lauren]\nAh, adventurer! I've seen your exploits well. Thank you for your hard work.",
         "pt-BR": "[Agente Lauren]\nAh, viajante! Agradeço o seu esforço pela caçada.",
         "es-ES": "[Agente Lauren]\n¡Ah, Trotamundos! Agradezco tu esfuerzo por la cacería."
     },
     "MZ9ZDA": {
-        "ko-KR": "[조사관 로렌]\n오늘의 기록은 완료되었습니다.",
         "en-US": "[Investigator Lauren]\nToday's hunting is complete.",
         "pt-BR": "[Agente Lauren]\nGostaria que voltasse amanhã.",
         "es-ES": "[Agente Lauren]\nMe gustaría que volvieras mañana."
     },
     "Mp9ZDA": {
-        "ko-KR": "[조사관 로렌]\n토벌 의뢰 수행은 원칙적으로 1일 1회 제한이 있습니다.\n오늘은 이만 쉬시고, 다음에 또...",
         "en-US": "[Investigator Lauren]\nIn principle, carrying out subjugation requests is limited to once per day.\nLet's rest for today, and see you next time...",
         "pt-BR": "[Agente Lauren]\nA princípio, as missões de caça só podem ser feitas 1 vez por dia.\nDê um descanso para o seu corpo...",
         "es-ES": "[Agente Lauren]\nEn principio, las misiones de caza solo pueden hacerse 1 vez al día.\nDale un descanso a tu cuerpo..."
     },
     "M59ZDA": {
-        "ko-KR": "[조사관 로렌]\n앗, 이건 내가 제일 좋아하는 초절탄산수!\n받아도 되나요? 감사합니다!\n꼴깍 꼴깍...",
         "en-US": "[Investigator Lauren]\nOh, this is my favorite sparkling water!\nCan I have it? Thank you!\nGulp gulp...",
         "pt-BR": "[Agente Lauren]\nAh, essa é a minha bebida favorita!\nPosso beber? Uau!\nGlub Glub...",
         "es-ES": "[Agente Lauren]\n¡Ah, esta es mi bebida favorita!\n¿Puedo beberla? ¡Guau!\nGlub Glub..."
     },
     "NJ9ZDA": {
-        "ko-KR": "[조사관 로렌]\n!\n캬하~...\n...",
         "en-US": "[Investigator Lauren]\n!\nKyaha~...\n...",
         "pt-BR": "[Agente Lauren]\n!\nHahah~...\n...",
         "es-ES": "[Agente Lauren]\n!\nJajaj~...\n..."
     },
     "NZ9ZDA": {
-        "ko-KR": "[조사관 로렌]\n아, 모험가님! 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?\n혹은 가까운 곳이라면 순간이동 서비스도 지원해요.",
         "en-US": "[Investigator Lauren]\nI'd like to ask adventurers passing by here to investigate and hunt monsters. What do you think?\nOr, if you are nearby, we also provide teleportation service.",
         "pt-BR": "[Agente Lauren]\nAh, viajante! Gostaria que você participasse da caçada de hoje, você pode?\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Lauren]\n¡Ah, Trotamundos! Me gustaría que participara en la cacería de hoy, ¿puede?\nTambién ofrezco servicio de teletransporte."
     },
     "Np9ZDA": {
-        "ko-KR": "[조사관 로렌]\n좋아요 좋아요.\n저는 여기서 충분히 개체수가 조절되는지 확인하고 있겠습니다.",
         "en-US": "[Investigator Lauren]\n If you defeat 80 monsters within this area, our society will recognize your achievement and grant you experience points.",
         "pt-BR": "[Agente Lauren]\nBom, bom.\nVolte aqui quando finalizar a caçada.",
         "es-ES": "[Agente Lauren]\nBien, bien.\nRegresa aquí cuando finalices la cacería."
     },
     "N59ZDA": {
-        "ko-KR": "[조사관 로렌]\n여기서라면 제일 가까운 곳은 ^0033FF라헬^000000입니다만,\n가지고 계신 초절탄산수가 있으시면 한 개... 주시면 그걸로 보내드릴게요.\n하~ 그게 또 요새 인기인데 사러 갈 수가 없어서.",
         "en-US": "[Investigator Lauren]\nGood, good.\nI'm going to make sure that the population here is sufficiently regulated..",
         "pt-BR": "[Agente Lauren]\nA cidade mais perto daqui é ^0033FFRachel^000000.\nO teleporte custa 1 Água Mineral.\nAh~ seria uma pena se você não tiver.",
         "es-ES": "[Agente Lauren]\nLa ciudad más cercana de aquí es ^0033FFRachel^000000.\nEl teletransporte cuesta 1 Agua Mineral.\nAh~ sería una pena si no tuvieras."
     },
     "OJ9ZDA": {
-        "ko-KR": "[조사관 로렌]\n초절탄산수를 안 갖고 계신 것 같은데요?\n설렜잖아요... 아쉽네.",
         "en-US": "[Investigator Lauren]\nI guess you don't have any sparkling water?\nWhat a pity...",
         "pt-BR": "[Agente Lauren]\nVocê viu se tem mesmo a Água Mineral?\nRealmente... seria uma pena.",
         "es-ES": "[Agente Lauren]\n¿Viste si tienes realmente el Agua Mineral?\nEn verdad... sería una pena."
     },
     "OZ9ZDA": {
-        "ko-KR": "[조사관 로렌]\n네! 내일 뵙겠습니다.",
         "en-US": "[Investigator Lauren]\nYes! See you tomorrow.",
         "pt-BR": "[Agente Lauren]\nOk! Te vejo amanhã.",
         "es-ES": "[Agente Lauren]\n¡Ok! Te veo mañana."
     },
     "Op9ZDA": {
-        "ko-KR": "[조사관 로렌]\n안녕하세요. 오늘도 와 주셨군요!\n여기쯤 지나다니시는 모험가분들께 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?\n혹은 가까운 곳이라면 순간이동 서비스도 지원해요.",
         "en-US": "[Investigator Lauren]\nHello. You came today!\nI'd like to ask adventurers passing by here to investigate and hunt monsters. What do you think?\nOr, if you are nearby, we also provide teleportation service.",
         "pt-BR": "[Agente Lauren]\nOlá. Você voltou!\nEntão... Deseja participar das missões de caçada dessa área?\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Lauren]\nHola. ¡Regresaste!\nEntonces... ¿Desea participar en las misiones de cacería de esta área?\nTambién ofrezco servicio de teletransporte."
     },
     "O59ZDA": {
-        "ko-KR": "[조사관 로렌]\n정말 뭐든지 적정량이 중요한 것 같아요. 그쵸?",
         "en-US": "[Investigator Lauren]\nI really think moderation is key to everything, right?",
         "pt-BR": "[Agente Lauren]\nAcho que esse prêmio tá de bom tamanho, certo?",
         "es-ES": "[Agente Lauren]\nCreo que este premio es de buen tamaño, ¿verdad?"
     },
     "PJ9ZDA": {
-        "ko-KR": "[조사관 로렌]\n안 되면 어쩔 수 없고요...",
         "en-US": "[Investigator Lauren]\nIf it doesn't work, there's nothing I can do...",
         "pt-BR": "[Agente Lauren]\nNão há nada que eu possa fazer...",
         "es-ES": "[Agente Lauren]\nNo hay nada que pueda hacer..."
     },
     "PZ9ZDA": {
-        "ko-KR": "[조사관 로렌]\n여기서라면 제일 가까운 곳은 ^0033FF라헬^000000입니다만,\n가지고 계신 초절탄산수가 있으시면 한 개... 주시면 그걸로 보내드릴게요.\n여기 있자니 그게 제일 아쉽네요.",
         "en-US": "[Investigator Lauren]\nThe closest one from here is ^0033FFRachel^000000,\nIf you have any Sparkling Carbonated Water, give me one and I'll send it to you.\nThat's the most regrettable thing about being here.",
         "pt-BR": "[Agente Lauren]\nA cidade mais perto daqui é ^0033FFRachel^000000.\nO teleporte custa 1 Água Mineral.\nNem mais, nem menos.",
         "es-ES": "[Agente Lauren]\nLa ciudad más cercana de aquí es ^0033FFRachel^000000.\nEl teletransporte cuesta 1 Agua Mineral.\nNi más, ni menos."
     },
     "Pp9ZDA": {
-        "ko-KR": "[조사관 로렌]\n아... 그럼 뭐 어쩔 수 없죠.",
         "en-US": "[Investigator Lauren]\nAh... Well then, I guess there's nothing I can do.",
         "pt-BR": "[Agente Lauren]\nAh... não há nada que eu possa fazer, então.",
         "es-ES": "[Agente Lauren]\nAh... no hay nada que pueda hacer, entonces."
     },
     "P59ZDA": {
-        "ko-KR": "[조사관 로렌]\n다음에 또 도와 주세요.",
         "en-US": "[Investigator Lauren]\nPlease help me again next time.",
         "pt-BR": "[Agente Lauren]\nPor favor, me ajude na próxima vez.",
         "es-ES": "[Agente Lauren]\nPor favor, ayúdame la próxima vez."
     },
     "QJ9ZDA": {
-        "ko-KR": "조사관 스쿠마리",
         "en-US": "Investigator Sukhmari",
         "pt-BR": "Agente Sukumari",
         "es-ES": "Agente Sukumari"
     },
     "QZ9ZDA": {
-        "ko-KR": "[조사관 스쿠마리]\n모험가님, 여긴 위험해요.\n목숨이 아깝지 않으면 모를까...",
         "en-US": "[Investigator Sukhmari]\nAdventurer, it's dangerous here.\nIf you don't care about your life, you won't know...",
         "pt-BR": "[Agente Sukumari]\nViajante, aqui é perigoso.\nÉ melhor você ficar mais forte se quiser explorar esse lugar...",
         "es-ES": "[Agente Sukumari]\nTrotamundos, aquí es peligroso.\nSerá mejor que te fortalezcas si quieres explorar este lugar..."
     },
     "Qp9ZDA": {
-        "ko-KR": "[조사관 스쿠마리]\n안녕하세요. 유노 몬스터 학회의 스쿠마리입니다.\n모험가분들께 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?\n혹은 가까운 곳이라면 순간이동 서비스도 지원합니다.",
         "en-US": "[Investigator Sukhmari]\nHello. I am Sukumari from the Juno Monster Society..\nI'm asking adventurers to investigate and hunt monsters. What do you think?\nOr, if you are nearby, we also provide teleportation service.",
         "pt-BR": "[Agente Sukumari]\nOlá. Me chamo Sukumari, da Sociedade Juniana de Monstros.\nDeseja participar das missões de caçada dessa área?\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Sukumari]\nHola. Me llamo Sukumari, de la Sociedad Juniana de Monstruos.\n¿Desea participar en las misiones de cacería de esta área?\nTambién ofrezco servicio de teletransporte."
     },
     "Q59ZDA": {
-        "ko-KR": "[조사관 스쿠마리]\n최근들어 이 주변을 비롯한 몇몇 지역에서 몬스터의 개체수가 늘어나고 있어요.\n이전보다 인적이 뜸해진 게 이유인 것 같긴 한데...",
         "en-US": "[Investigator Sukhmari]\nRecently, the number of monsters has been increasing in some areas, including this area.\nI think it's because there are fewer people than before...",
         "pt-BR": "[Agente Sukumari]\nRecentemente, a população de monstros aumentou significativamente.\nAcho que a razão é a falta de caçadores...",
         "es-ES": "[Agente Sukumari]\nRecientemente, la población de monstruos aumentó significativamente.\nCreo que la razón es la falta de cazadores..."
     },
     "RJ9ZDA": {
-        "ko-KR": "[조사관 스쿠마리]\n이미 자연적으로는 개체 조절이 안 된다는 뜻이겠죠.\n더 군락지가 확장되는 것을 막기 위해서, 저희 유노 몬스터 학회에서는 대대적 토벌을 계획했습니다.",
         "en-US": "[Investigator Sukhmari]\nThis means that natural self-regulation is no longer possible.\nIn order to prevent the monsters from expanding further, we at the Juno Monster Society have planned a large-scale expedition.",
         "pt-BR": "[Agente Sukumari]\nA situação saiu do controle.\nE para não piorar as coisas, a Sociedade Juniana de Monstros está recrutando pessoas para ajudar.",
         "es-ES": "[Agente Sukumari]\nLa situación se salió de control.\nY para no empeorar las cosas, la Sociedad Juniana de Monstruos está reclutando personas para ayudar."
     },
     "RZ9ZDA": {
-        "ko-KR": "[조사관 스쿠마리]\n아무리 모험가들의 방문이 줄었다 해도, 사람이 사는 곳까지 내려오면 큰일이니까요...\n그래서 말씀인데 토벌을 부탁드려도 되겠습니까?",
         "en-US": "[Investigator Sukhmari]\nNo matter how much the number of adventurers has decreased, it would be a big problem if they came down to where people live...\nSo, can I ask you to help me hunt them?",
         "pt-BR": "[Agente Sukumari]\nEla está enviando agentes para os locais mais críticos...\nPor isso estou aqui, posso contar com você?",
         "es-ES": "[Agente Sukumari]\nEstá enviando agentes a los lugares más críticos...\nPor eso estoy aquí, ¿puedo contar contigo?"
     },
     "Rp9ZDA": {
-        "ko-KR": "[조사관 스쿠마리]\n 이 아우둠라 초원, 제 눈이 닿는 이 필드 내에서 몬스터 80마리를 처치해 주시면 저희 학회에서 공적을 인정하여 경험치를 부여해 드립니다.",
         "en-US": "[Investigator Sukhmari]\nIf you defeat 80 monsters within this area, the Audhumbla Grassland, our society will recognize your achievement and grant you experience points.",
         "pt-BR": "[Agente Sukumari]\nSeu objetivo é caçar 80 monstros desse mapa.",
         "es-ES": "[Agente Sukumari]\nTu objetivo es cazar 80 monstruos de este mapa."
     },
     "R59ZDA": {
-        "ko-KR": "[조사관 스쿠마리]\n서로 득이 되는 일인데 왜 마다하시는지...",
         "en-US": "[Investigator Sukhmari]\nIt's something that is beneficial to both of us, so why are you hesitating...",
         "pt-BR": "[Agente Sukumari]\nTeria uma recompensa, mas tudo bem...",
         "es-ES": "[Agente Sukumari]\nHabría una recompensa, pero está bien..."
     },
     "SJ9ZDA": {
-        "ko-KR": "[조사관 스쿠마리]\n좋아요 좋아요.\n저는 여기서 충분히 개체수가 조절되는지 확인하고 있겠습니다.",
         "en-US": "[Investigator Sukhmari]\nGood, good.\nI'm going to make sure that the population here is sufficiently regulated..",
         "pt-BR": "[Agente Sukumari]\nBom, bom.\nVolte aqui quando finalizar a caçada.",
         "es-ES": "[Agente Sukumari]\nBien, bien.\nRegresa aquí cuando finalices la cacería."
     },
     "SZ9ZDA": {
-        "ko-KR": "[조사관 스쿠마리]\n여기서라면 제일 가까운 곳은 ^0033FF라헬^000000입니다만,\n가지고 계신 초절탄산수가 있으시면 한 개... 주시면 그걸로 보내드릴게요.\n하~ 그게 또 요새 인기인데 사러 갈 수가 없어서.",
         "en-US": "[Investigator Sukhmari]\nThe closest one from here is ^0033FFRachel^000000,\nIf you have any Sparkling Carbonated Water, give me one and I'll send it to you.\nHa~ That's popular these days, but I can't go buy it.",
         "pt-BR": "[Agente Sukumari]\nA cidade mais perto daqui é ^0033FFRachel^000000.\nO teleporte custa 1 Água Mineral.\nAh~ seria uma pena se você não tiver.",
         "es-ES": "[Agente Sukumari]\nLa ciudad más cercana de aquí es ^0033FFRachel^000000.\nEl teletransporte cuesta 1 Agua Mineral.\nAh~ sería una pena si no tuvieras."
     },
     "Sp9ZDA": {
-        "ko-KR": "[조사관 스쿠마리]\n초절탄산수를 안 갖고 계신 것 같은데요?\n설렜잖아요... 아쉽네.",
         "en-US": "[Investigator Sukhmari]\nI guess you don't have any sparkling water?\nWhat a pity...",
         "pt-BR": "[Agente Sukumari]\nVocê viu se tem mesmo a Água Mineral?\nRealmente... seria uma pena.",
         "es-ES": "[Agente Sukumari]\n¿Viste si tienes realmente el Agua Mineral?\nEn verdad... sería una pena."
     },
     "S59ZDA": {
-        "ko-KR": "[조사관 스쿠마리]\n아... 그럼 뭐 어쩔 수 없죠.\n언제 또 먹어 본다...",
         "en-US": "[Investigator Sukhmari]\nAh... Well then, I guess there's nothing I can do.\nWhen will I get to drink it again...",
         "pt-BR": "[Agente Sukumari]\nAh... não há nada que eu possa fazer, então.\nTente de novo na próxima...",
         "es-ES": "[Agente Sukumari]\nAh... no hay nada que pueda hacer, entonces.\nInténtalo de nuevo la próxima..."
     },
     "TJ9ZDA": {
-        "ko-KR": "[조사관 스쿠마리]\n이 주변의 몬스터들을 도합 80마리 처치하고 오시기 바랍니다.\n...네? 이동 서비스요?",
         "en-US": "[Investigator Sukhmari]\nPlease defeat a total of 80 monsters in this area.\n...Hmm? Teleport service?",
         "pt-BR": "[Agente Sukumari]\nPor favor, elimine 80 monstros desse mapa.\n...Hã? Teleporte?",
         "es-ES": "[Agente Sukumari]\nPor favor, elimina 80 monstruos de este mapa.\n...¿Eh? ¿Teletransporte?"
     },
     "TZ9ZDA": {
-        "ko-KR": "[조사관 스쿠마리]\n아, 모험가님! 활약상 충분히 잘 보았습니다. 수고가 많으세요.",
         "en-US": "[Investigator Sukhmari]\nAh, adventurer! I've seen your exploits well. Thank you for your hard work.",
         "pt-BR": "[Agente Sukumari]\nAh, viajante! Agradeço o seu esforço pela caçada.",
         "es-ES": "[Agente Sukumari]\n¡Ah, Trotamundos! Agradezco tu esfuerzo por la cacería."
     },
     "Tp9ZDA": {
-        "ko-KR": "[조사관 스쿠마리]\n정말 뭐든지 적정량이 중요한 것 같아요. 그쵸?",
         "en-US": "[Investigator Sukhmari]\nI really think moderation is key to everything, right?",
         "pt-BR": "[Agente Sukumari]\nAcho que esse prêmio tá de bom tamanho, certo?",
         "es-ES": "[Agente Sukumari]\nCreo que este premio es de buen tamaño, ¿verdad?"
     },
     "T59ZDA": {
-        "ko-KR": "[조사관 스쿠마리]\n토벌 의뢰 수행은 원칙적으로 1일 1회 제한이 있습니다.\n오늘은 이만 쉬시고, 다음에 또...",
         "en-US": "[Investigator Sukhmari]\nIn principle, carrying out subjugation requests is limited to once per day.\nLet's rest for today, and see you next time...",
         "pt-BR": "[Agente Sukumari]\nA princípio, as missões de caça só podem ser feitas 1 vez por dia.\nDê um descanso para o seu corpo...",
         "es-ES": "[Agente Sukumari]\nEn principio, las misiones de caza solo pueden hacerse 1 vez al día.\nDale un descanso a tu cuerpo..."
     },
     "UJ9ZDA": {
-        "ko-KR": "[조사관 스쿠마리]\n앗, 이건 내가 제일 좋아하는 초절탄산수!\n받아도 되나요? 감사합니다!\n꼴깍 꼴깍...",
         "en-US": "[Investigator Sukhmari]\nOh, this is my favorite sparkling water!\nCan I have it? Thank you!\nGulp gulp...",
         "pt-BR": "[Agente Sukumari]\nAh, essa é a minha bebida favorita!\nPosso beber? Uau!\nGlub Glub...",
         "es-ES": "[Agente Sukumari]\n¡Ah, esta es mi bebida favorita!\n¿Puedo beberla? ¡Guau!\nGlub Glub..."
     },
     "UZ9ZDA": {
-        "ko-KR": "[조사관 스쿠마리]\n상쾌해!\n캬하~...\n...\n아! 모험가님!",
         "en-US": "[Investigator Sukhmari]\nIt's refreshing!\nKyaha~...\n...\nAh! Adventurer!",
         "pt-BR": "[Agente Sukumari]\nRefrescante!\nHahah~...\n...\nAh! Viajante!",
         "es-ES": "[Agente Sukumari]\n¡Refrescante!\nJajaj~...\n...\n¡Ah! ¡Trotamundos!"
     },
     "Up9ZDA": {
-        "ko-KR": "[조사관 스쿠마리]\n여기쯤 지나다니시는 모험가분들께 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?\n혹은 가까운 곳이라면 순간이동 서비스도 지원해요.",
         "en-US": "[Investigator Sukhmari]\nI'd like to ask adventurers passing by here to investigate and hunt monsters. What do you think?\nOr, if you are nearby, we also provide teleportation service.",
         "pt-BR": "[Agente Sukumari]\nEntão... Deseja participar das missões de caçada dessa área?\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Sukumari]\nEntonces... ¿Desea participar en las misiones de cacería de esta área?\nTambién ofrezco servicio de teletransporte."
     },
     "U59ZDA": {
-        "ko-KR": "[조사관 스쿠마리]\n네! 내일 뵙겠습니다.",
         "en-US": "[Investigator Sukhmari]\nYes! See you tomorrow.",
         "pt-BR": "[Agente Sukumari]\nOk! Te vejo amanhã.",
         "es-ES": "[Agente Sukumari]\n¡Ok! Te veo mañana."
     },
     "VJ9ZDA": {
-        "ko-KR": "[조사관 스쿠마리]\n안녕하세요. 오늘도 와 주셨군요!\n여기쯤 지나다니시는 모험가분들께 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?\n혹은 가까운 곳이라면 순간이동 서비스도 지원해요.",
         "en-US": "[Investigator Sukhmari]\nHello. You came today!\nI'd like to ask adventurers passing by here to investigate and hunt monsters. What do you think?\nOr, if you are nearby, we also provide teleportation service.",
         "pt-BR": "[Agente Sukumari]\nOlá. Você voltou!\nEntão... Deseja participar das missões de caçada dessa área?\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Sukumari]\nHola. ¡Regresaste!\nEntonces... ¿Desea participar en las misiones de cacería de esta área?\nTambién ofrezco servicio de teletransporte."
     },
     "VZ9ZDA": {
-        "ko-KR": "조사관 발렌젤라",
         "en-US": "Investigator Valenzuela",
         "pt-BR": "Agente Valangela",
         "es-ES": "Agente Valangela"
     },
     "Vp9ZDA": {
-        "ko-KR": "[조사관 발렌젤라]\n모험가님, 여긴 위험해요.\n목숨이 아깝지 않으면 모를까...",
         "en-US": "[Investigator Valenzuela]\nAdventurer, it's dangerous here.\nIf you don't care about your life, you won't know...",
         "pt-BR": "[Agente Valangela]\nViajante, aqui é perigoso.\nÉ melhor você ficar mais forte se quiser explorar esse lugar...",
         "es-ES": "[Agente Valangela]\nTrotamundos, aquí es peligroso.\nSerá mejor que te fortalezcas si quieres explorar este lugar..."
     },
     "V59ZDA": {
-        "ko-KR": "[조사관 발렌젤라]\n안녕하세요. 유노 몬스터 학회의 발렌젤라입니다.\n모험가분들께 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?\n혹은 가까운 곳이라면 순간이동 서비스도 지원합니다.",
         "en-US": "[Investigator Valenzuela]\nHello. I am Valenzuela from the Juno Monster Society.\nI'm asking adventurers to investigate and hunt monsters. What do you think?\nOr, if you are nearby, we also provide teleportation service.",
         "pt-BR": "[Agente Valangela]\nOlá. Me chamo Valangela, da Sociedade Juniana de Monstros.\nDeseja participar das missões de caçada dessa área?\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Valangela]\nHola. Me llamo Valangela, de la Sociedad Juniana de Monstruos.\n¿Desea participar en las misiones de cacería de esta área?\nTambién ofrezco servicio de teletransporte."
     },
     "WJ9ZDA": {
-        "ko-KR": "[조사관 발렌젤라]\n최근들어 이 주변을 비롯한 몇몇 지역에서 몬스터의 개체수가 늘어나고 있어요.\n이전보다 인적이 뜸해진 게 이유인 것 같긴 한데...",
         "en-US": "[Investigator Valenzuela]\nRecently, the number of monsters has been increasing in some areas, including this area.\nI think it's because there are fewer people than before...",
         "pt-BR": "[Agente Valangela]\nRecentemente, a população de monstros aumentou significativamente.\nAcho que a razão é a falta de caçadores...",
         "es-ES": "[Agente Valangela]\nRecientemente, la población de monstruos aumentó significativamente.\nCreo que la razón es la falta de cazadores..."
     },
     "WZ9ZDA": {
-        "ko-KR": "[조사관 발렌젤라]\n이미 자연적으로는 개체 조절이 안 된다는 뜻이겠죠.\n더 군락지가 확장되는 것을 막기 위해서, 저희 유노 몬스터 학회에서는 대대적 토벌을 계획했습니다.",
         "en-US": "[Investigator Valenzuela]\nThis means that natural self-regulation is no longer possible.\nIn order to prevent the monsters from expanding further, we at the Juno Monster Society have planned a large-scale expedition.",
         "pt-BR": "[Agente Valangela]\nA situação saiu do controle.\nE para não piorar as coisas, a Sociedade Juniana de Monstros está recrutando pessoas para ajudar.",
         "es-ES": "[Agente Valangela]\nLa situación se salió de control.\nY para no empeorar las cosas, la Sociedad Juniana de Monstruos está reclutando personas para ayudar."
     },
     "Wp9ZDA": {
-        "ko-KR": "[조사관 발렌젤라]\n아무리 모험가들의 방문이 줄었다 해도, 사람이 사는 곳까지 내려오면 큰일이니까요...\n그래서 말씀인데 토벌을 부탁드려도 되겠습니까?",
         "en-US": "[Investigator Valenzuela]\nNo matter how much the number of adventurers has decreased, it would be a big problem if they came down to where people live...\nSo, can I ask you to help me hunt them?",
         "pt-BR": "[Agente Valangela]\nEla está enviando agentes para os locais mais críticos...\nPor isso estou aqui, posso contar com você?",
         "es-ES": "[Agente Valangela]\nEstá enviando agentes a los lugares más críticos...\nPor eso estoy aquí, ¿puedo contar contigo?"
     },
     "W59ZDA": {
-        "ko-KR": "[조사관 발렌젤라]\n 이 아우둠라 초원, 제 눈이 닿는 이 필드 내에서 몬스터 80마리를 처치해 주시면 저희 학회에서 공적을 인정하여 경험치를 부여해 드립니다.",
         "en-US": "[Investigator Valenzuela]\n If you defeat 80 monsters within this area, the Audhumbla Grassland, our society will recognize your achievement and grant you experience points.",
         "pt-BR": "[Agente Valangela]\nSeu objetivo é caçar 80 monstros desse mapa.",
         "es-ES": "[Agente Valangela]\nTu objetivo es cazar 80 monstruos de este mapa."
     },
     "XJ9ZDA": {
-        "ko-KR": "[조사관 발렌젤라]\n서로 득이 되는 일인데 왜 마다하시는지...",
         "en-US": "[Investigator Valenzuela]\nIt's something that is beneficial to both of us, so why are you hesitating...",
         "pt-BR": "[Agente Valangela]\nTeria uma recompensa, mas tudo bem...",
         "es-ES": "[Agente Valangela]\nHabría una recompensa, pero está bien..."
     },
     "XZ9ZDA": {
-        "ko-KR": "[조사관 발렌젤라]\n좋아요 좋아요.\n저는 여기서 충분히 개체수가 조절되는지 확인하고 있겠습니다.",
         "en-US": "[Investigator Valenzuela]\nGood, good.\nI'm going to make sure that the population here is sufficiently regulated..",
         "pt-BR": "[Agente Valangela]\nBom, bom.\nVolte aqui quando finalizar a caçada.",
         "es-ES": "[Agente Valangela]\nBien, bien.\nRegresa aquí cuando finalices la cacería."
     },
     "Xp9ZDA": {
-        "ko-KR": "[조사관 발렌젤라]\n여기서라면 제일 가까운 곳은 ^0033FF라헬^000000입니다만,\n가지고 계신 초절탄산수가 있으시면 한 개... 주시면 그걸로 보내드릴게요.\n하~ 그게 또 요새 인기인데 사러 갈 수가 없어서.",
         "en-US": "[Investigator Valenzuela]\nThe closest one from here is ^0033FFRachel^000000,\nIf you have any Sparkling Carbonated Water, give me one and I'll send it to you.\nHa~ That's popular these days, but I can't go buy it.",
         "pt-BR": "[Agente Valangela]\nA cidade mais perto daqui é ^0033FFRachel^000000.\nO teleporte custa 1 Água Mineral.\nAh~ seria uma pena se você não tiver.",
         "es-ES": "[Agente Valangela]\nLa ciudad más cercana de aquí es ^0033FFRachel^000000.\nEl teletransporte cuesta 1 Agua Mineral.\nAh~ sería una pena si no tuvieras."
     },
     "X59ZDA": {
-        "ko-KR": "[조사관 발렌젤라]\n초절탄산수를 안 갖고 계신 것 같은데요?\n설렜잖아요... 아쉽네.",
         "en-US": "[Investigator Valenzuela]\nI guess you don't have any sparkling water?\nWhat a pity...",
         "pt-BR": "[Agente Valangela]\nVocê viu se tem mesmo a Água Mineral?\nRealmente... seria uma pena.",
         "es-ES": "[Agente Valangela]\n¿Viste si tienes realmente el Agua Mineral?\nEn verdad... sería una pena."
     },
     "YJ9ZDA": {
-        "ko-KR": "[조사관 발렌젤라]\n아... 그럼 뭐 어쩔 수 없죠.\n언제 또 먹어 본다...",
         "en-US": "[Investigator Valenzuela]\nAh... Well then, I guess there's nothing I can do.\nWhen will I get to drink it again...",
         "pt-BR": "[Agente Valangela]\nAh... não há nada que eu possa fazer, então.\nTente de novo na próxima...",
         "es-ES": "[Agente Valangela]\nAh... no hay nada que pueda hacer, entonces.\nInténtalo de nuevo la próxima..."
     },
     "YZ9ZDA": {
-        "ko-KR": "[조사관 발렌젤라]\n이 주변의 몬스터들을 도합 80마리 처치하고 오시기 바랍니다.\n...네? 이동 서비스요?",
         "en-US": "[Investigator Valenzuela]\nPlease defeat a total of 80 monsters in this area.\n...Hmm? Teleport service?",
         "pt-BR": "[Agente Valangela]\nPor favor, elimine 80 monstros desse mapa.\n...Hã? Teleporte?",
         "es-ES": "[Agente Valangela]\nPor favor, elimina 80 monstruos de este mapa.\n...¿Eh? ¿Teletransporte?"
     },
     "Yp9ZDA": {
-        "ko-KR": "[조사관 발렌젤라]\n아, 모험가님! 활약상 충분히 잘 보았습니다. 수고가 많으세요.",
         "en-US": "[Investigator Valenzuela]\nAh, adventurer! I've seen your exploits well. Thank you for your hard work.",
         "pt-BR": "[Agente Valangela]\nAh, viajante! Agradeço o seu esforço pela caçada.",
         "es-ES": "[Agente Valangela]\n¡Ah, Trotamundos! Agradezco tu esfuerzo por la cacería."
     },
     "Y59ZDA": {
-        "ko-KR": "[조사관 발렌젤라]\n정말 뭐든지 적정량이 중요한 것 같아요. 그쵸?",
         "en-US": "[Investigator Valenzuela]\nI really think moderation is key to everything, right?",
         "pt-BR": "[Agente Valangela]\nAcho que esse prêmio tá de bom tamanho, certo?",
         "es-ES": "[Agente Valangela]\nCreo que este premio es de buen tamaño, ¿verdad?"
     },
     "ZJ9ZDA": {
-        "ko-KR": "[조사관 발렌젤라]\n토벌 의뢰 수행은 원칙적으로 1일 1회 제한이 있습니다.\n오늘은 이만 쉬시고, 다음에 또...",
         "en-US": "[Investigator Valenzuela]\nIn principle, carrying out subjugation requests is limited to once per day.\nLet's rest for today, and see you next time...",
         "pt-BR": "[Agente Valangela]\nA princípio, as missões de caça só podem ser feitas 1 vez por dia.\nDê um descanso para o seu corpo...",
         "es-ES": "[Agente Valangela]\nEn principio, las misiones de caza solo pueden hacerse 1 vez al día.\nDale un descanso a tu cuerpo..."
     },
     "ZZ9ZDA": {
-        "ko-KR": "[조사관 발렌젤라]\n앗, 이건 내가 제일 좋아하는 초절탄산수!\n받아도 되나요? 감사합니다!\n꼴깍 꼴깍...",
         "en-US": "[Investigator Valenzuela]\nOh, this is my favorite sparkling water!\nCan I have it? Thank you!\nGulp gulp...",
         "pt-BR": "[Agente Valangela]\nAh, essa é a minha bebida favorita!\nPosso beber? Uau!\nGlub Glub...",
         "es-ES": "[Agente Valangela]\n¡Ah, esta es mi bebida favorita!\n¿Puedo beberla? ¡Guau!\nGlub Glub..."
     },
     "Zp9ZDA": {
-        "ko-KR": "[조사관 발렌젤라]\n상쾌해!\n캬하~...\n...\n아! 모험가님!",
         "en-US": "[Investigator Valenzuela]\nIt's refreshing!\nKyaha~...\n...\nAh! Adventurer!",
         "pt-BR": "[Agente Valangela]\nRefrescante!\nHahah~...\n...\nAh! Viajante!",
         "es-ES": "[Agente Valangela]\n¡Refrescante!\nJajaj~...\n...\n¡Ah! ¡Trotamundos!"
     },
     "Z59ZDA": {
-        "ko-KR": "[조사관 발렌젤라]\n여기쯤 지나다니시는 모험가분들께 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?\n혹은 가까운 곳이라면 순간이동 서비스도 지원해요.",
         "en-US": "[Investigator Valenzuela]\nI'd like to ask adventurers passing by here to investigate and hunt monsters. What do you think?\nOr, if you are nearby, we also provide teleportation service.",
         "pt-BR": "[Agente Valangela]\nEntão... Deseja participar das missões de caçada dessa área?\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Valangela]\nEntonces... ¿Desea participar en las misiones de cacería de esta área?\nTambién ofrezco servicio de teletransporte."
     },
     "aJ9ZDA": {
-        "ko-KR": "[조사관 발렌젤라]\n네! 내일 뵙겠습니다.",
         "en-US": "[Investigator Valenzuela]\nYes! See you tomorrow.",
         "pt-BR": "[Agente Valangela]\nOk! Te vejo amanhã.",
         "es-ES": "[Agente Valangela]\n¡Ok! Te veo mañana."
     },
     "aZ9ZDA": {
-        "ko-KR": "[조사관 발렌젤라]\n안녕하세요. 오늘도 와 주셨군요!\n여기쯤 지나다니시는 모험가분들께 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?\n혹은 가까운 곳이라면 순간이동 서비스도 지원해요.",
         "en-US": "[Investigator Valenzuela]\nHello. You came today!\nI'd like to ask adventurers passing by here to investigate and hunt monsters. What do you think?\nOr, if you are nearby, we also provide teleportation service.",
         "pt-BR": "[Agente Valangela]\nOlá. Você voltou!\nEntão... Deseja participar das missões de caçada dessa área?\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Valangela]\nHola. ¡Regresaste!\nEntonces... ¿Desea participar en las misiones de cacería de esta área?\nTambién ofrezco servicio de teletransporte."
     },
     "ap9ZDA": {
-        "ko-KR": "조사관 칸투",
         "en-US": "Investigator Khanthu",
         "pt-BR": "Agente Kantu",
         "es-ES": "Agente Kantu"
     },
     "a59ZDA": {
-        "ko-KR": "[조사관 칸투]\n모험가님, 여긴 위험해요.\n목숨이 아깝지 않으면 모를까...",
         "en-US": "[Investigator Khanthu]\nAdventurer, it's dangerous here.\nIf you don't care about your life, you won't know...",
         "pt-BR": "[Agente Kantu]\nViajante, aqui é perigoso.\nÉ melhor você ficar mais forte se quiser explorar esse lugar...",
         "es-ES": "[Agente Kantu]\nTrotamundos, aquí es peligroso.\nSerá mejor que te fortalezcas si quieres explorar este lugar..."
     },
     "bJ9ZDA": {
-        "ko-KR": "[조사관 칸투]\n안녕하세요, 모험가님! 저는 유노 몬스터 학회에서 파견 나온 칸투라고 합니다.\n모험가분들께 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?",
         "en-US": "[Investigator Khanthu]\nHello, adventurers! My name is Khanthu, dispatched from the Juno Monster Society.\nI'm asking adventurers to investigate and hunt monsters. What do you think?",
         "pt-BR": "[Agente Kantu]\nOlá, me chamo Kantu, da Sociedade Juniana de Monstros.\nDeseja participar das missões de caçada dessa área?",
         "es-ES": "[Agente Kantu]\nHola, me llamo Kantu, de la Sociedad Juniana de Monstruos.\n¿Desea participar en las misiones de cacería de esta área?"
     },
     "bZ9ZDA": {
-        "ko-KR": "[조사관 칸투]\n혹은 가까운 곳이라면 순간이동 서비스도 지원해 드려요.",
         "en-US": "[Investigator Khanthu]\nOr, if you are nearby, we also provide teleportation service..",
         "pt-BR": "[Agente Kantu]\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Kantu]\nTambién ofrezco servicio de teletransporte."
     },
     "bp9ZDA": {
-        "ko-KR": "[조사관 칸투]\n최근들어 이 주변을 비롯한 몇몇 지역에서 몬스터의 개체수가 늘어나고 있어요.\n이미 자연적으로는 개체 조절이 안 된다는 뜻이겠죠.",
         "en-US": "[Investigator Khanthu]\nRecently, the number of monsters has been increasing in some areas, including this area.\nThis means that natural self-regulation is no longer possible.",
         "pt-BR": "[Agente Kantu]\nRecentemente, a população de monstros aumentou significativamente.\nA situação saiu do controle.",
         "es-ES": "[Agente Kantu]\nRecientemente, la población de monstruos aumentó significativamente.\nLa situación se salió de control."
     },
     "b59ZDA": {
-        "ko-KR": "[조사관 칸투]\n더 군락지가 확장되는 것을 막기 위해서, 저희 유노 몬스터 학회에서는 대대적 토벌을 계획했습니다.\n아무리 모험가들의 방문이 줄었다 해도, 사람이 사는 곳까지 내려오면 큰일이니까요...",
         "en-US": "[Investigator Khanthu]\nIn order to prevent the monsters from expanding further, we at the Juno Monster Society have planned a large-scale expedition.\nNo matter how much the number of adventurers has decreased, it would be a big problem if they came down to where people live...",
         "pt-BR": "[Agente Kantu]\nE para não piorar as coisas, a Sociedade Juniana de Monstros está recrutando pessoas para ajudar.\nEla está enviando agentes para os locais mais críticos...",
         "es-ES": "[Agente Kantu]\nY para no empeorar las cosas, la Sociedad Juniana de Monstruos está reclutando personas para ayudar.\nEstá enviando agentes a los lugares más críticos..."
     },
     "cJ9ZDA": {
-        "ko-KR": "[조사관 칸투]\n그래서 말씀인데 토벌을 부탁드려도 되겠습니까?\n 이 포르투 루나, 제 눈이 닿는 이 필드 내에서 몬스터 80마리를 처치해 주시면 저희 학회에서 공적을 인정하여 경험치를 부여해 드립니다.",
         "en-US": "[Investigator Khanthu]\nSo, can I ask you to help me hunt them?\nIf you defeat 80 monsters within this area, Portus Luna, our society will recognize your achievement and grant you experience points.",
         "pt-BR": "[Agente Kantu]\nPor isso estou aqui, posso contar com você?\nBasta eliminar 80 monstros de Portus Luna.",
         "es-ES": "[Agente Kantu]\nPor eso estoy aquí, ¿puedo contar contigo?\nBasta eliminar 80 monstruos de Portus Luna."
     },
     "cZ9ZDA": {
-        "ko-KR": "[조사관 칸투]\n아아... 저희 좀 도와 주시면 안 될까요?",
         "en-US": "[Investigator Khanthu]\nAhh... Could you please help us?",
         "pt-BR": "[Agente Kantu]\nAh... não pode nos ajudar?",
         "es-ES": "[Agente Kantu]\nAh... ¿no puede ayudarnos?"
     },
     "cp9ZDA": {
-        "ko-KR": "[조사관 칸투]\n네, 등록했습니다!\n저는 여기서 개체수가 조절되는지 확인하고 있겠습니다.",
         "en-US": "[Investigator Khanthu]\nYes, thank you!\nI'll be checking here to see if the population is regulated.",
         "pt-BR": "[Agente Kantu]\nConfirmado!\nEstou aqui para ter certeza que o trabalho será feito.",
         "es-ES": "[Agente Kantu]\n¡Confirmado!\nEstoy aquí para asegurarme de que el trabajo se haga."
     },
     "c59ZDA": {
-        "ko-KR": "[조사관 칸투]\n여기서라면 제일 가까운 곳은 ^0033FF라헬^000000입니다만,\n가지고 계신 초절탄산수가 있으시면 한 개... 주시면 그걸로 보내드릴게요.\n하~ 그게 또 요새 인기인데 사러 갈 수가 없어서.",
         "en-US": "[Investigator Khanthu]\nThe closest one from here is ^0033FFRachel^000000,\nIf you have any <ITEM>[Sparkling Carbonated Water]<INFO>1000374</INFO></ITEM>, give me one and I'll send it to you.\nHa~ That's popular these days, but I can't go buy it.",
         "pt-BR": "[Agente Kantu]\nA cidade mais perto daqui é ^0033FFRachel^000000.\nO teleporte custa 1 Água Mineral.\nAh~ seria uma pena se você não tiver.",
         "es-ES": "[Agente Kantu]\nLa ciudad más cercana de aquí es ^0033FFRachel^000000.\nEl teletransporte cuesta 1 Agua Mineral.\nAh~ sería una pena si no tuvieras."
     },
     "dJ9ZDA": {
-        "ko-KR": "[조사관 칸투]\n초절탄산수를 안 갖고 계신 것 같은데요?",
         "en-US": "[Investigator Khanthu]\nI guess you don't have any sparkling water?",
         "pt-BR": "[Agente Kantu]\nVocê viu se tem mesmo a Água Mineral?",
         "es-ES": "[Agente Kantu]\n¿Viste si tienes realmente el Agua Mineral?"
     },
     "dZ9ZDA": {
-        "ko-KR": "[조사관 칸투]\n뭐 어쩔 수 없죠.",
         "en-US": "[Investigator Khanthu]\nWell, there's nothing we can do about it.",
         "pt-BR": "[Agente Kantu]\nNão posso fazer nada.",
         "es-ES": "[Agente Kantu]\nNo puedo hacer nada."
     },
     "dp9ZDA": {
-        "ko-KR": "[조사관 칸투]\n아아... 저희 좀 도와 주세요...",
         "en-US": "[Investigator Khanthu]\nAhh... please help us...",
         "pt-BR": "[Agente Kantu]\nAh... por favor, ajude...",
         "es-ES": "[Agente Kantu]\nAh... por favor, ayude..."
     },
     "d59ZDA": {
-        "ko-KR": "[조사관 칸투]\n이 주변의 몬스터들을 도합 80마리 처치하고 오시기 바랍니다.\n...네? 이동 서비스요?",
         "en-US": "[Investigator Khanthu]\nPlease defeat a total of 80 monsters in this area.\n...Hmm? Teleport service?",
         "pt-BR": "[Agente Kantu]\nPor favor, elimine 80 monstros desse mapa.\n...Hã? Teleporte?",
         "es-ES": "[Agente Kantu]\nPor favor, elimina 80 monstruos de este mapa.\n...¿Eh? ¿Teletransporte?"
     },
     "eJ9ZDA": {
-        "ko-KR": "[조사관 칸투]\n여기서라면 제일 가까운 곳은 ^0033FF라헬^000000입니다만,\n가지고 계신 초절탄산수가 있으시면 한 개... 주시면 그걸로 보내드릴게요.",
         "en-US": "[Investigator Khanthu]\nThe closest one from here is ^0033FFRachel^000000,\nIf you have any Sparkling Carbonated Water, give me one and I'll send it to you.",
         "pt-BR": "[Agente Kantu]\nA cidade mais perto daqui é ^0033FFRachel^000000.\nO teleporte custa 1 Água Mineral.",
         "es-ES": "[Agente Kantu]\nLa ciudad más cercana de aquí es ^0033FFRachel^000000.\nEl teletransporte cuesta 1 Agua Mineral."
     },
     "eZ9ZDA": {
-        "ko-KR": "[조사관 칸투]\n아... 그럼 뭐 어쩔 수 없죠.",
         "en-US": "[Investigator Khanthu]\nAh... Well then, I guess there's nothing I can do.",
         "pt-BR": "[Agente Kantu]\nAh... não há nada que eu possa fazer, então.",
         "es-ES": "[Agente Kantu]\nAh... no hay nada que pueda hacer, entonces."
     },
     "ep9ZDA": {
-        "ko-KR": "[조사관 칸투]\n아, 모험가님! 활약상 충분히 잘 보았습니다. 수고가 많으세요.",
         "en-US": "[Investigator Khanthu]\nAh, adventurer! I've seen your exploits well. Thank you for your hard work.",
         "pt-BR": "[Agente Kantu]\nAh, viajante! Agradeço o seu esforço pela caçada.",
         "es-ES": "[Agente Kantu]\n¡Ah, Trotamundos! Agradezco tu esfuerzo por la cacería."
     },
     "e59ZDA": {
-        "ko-KR": "[조사관 칸투]\n토벌 의뢰 수행은 원칙적으로 1일 1회 제한이 있습니다.\n오늘은 이만 쉬시고, 다음에 또...",
         "en-US": "[Investigator Khanthu]\nIn principle, carrying out subjugation requests is limited to once per day.\nLet's rest for today, and see you next time...",
         "pt-BR": "[Agente Kantu]\nA princípio, as missões de caça só podem ser feitas 1 vez por dia.\nDê um descanso para o seu corpo...",
         "es-ES": "[Agente Kantu]\nEn principio, las misiones de caza solo pueden hacerse 1 vez al día.\nDale un descanso a tu cuerpo..."
     },
     "fJ9ZDA": {
-        "ko-KR": "[조사관 칸투]\n앗, 이건 내가 제일 좋아하는 초절탄산수!\n받아도 되나요? 감사합니다!",
         "en-US": "[Investigator Khanthu]\nOh, this is my favorite sparkling water!\nCan I have it? Thank you!",
         "pt-BR": "[Agente Kantu]\nAh, essa é a minha bebida favorita!\nPosso beber? Uau!",
         "es-ES": "[Agente Kantu]\n¡Ah, esta es mi bebida favorita!\n¿Puedo beberla? ¡Guau!"
     },
     "fZ9ZDA": {
-        "ko-KR": "[조사관 칸투]\n상쾌해!\n캬하~...",
         "en-US": "[Investigator Khanthu]\nIt's refreshing!\nKyaha~...",
         "pt-BR": "[Agente Kantu]\nRefrescante!\nHahah~...",
         "es-ES": "[Agente Kantu]\n¡Refrescante!\nJajaj~..."
     },
     "fp9ZDA": {
-        "ko-KR": "[조사관 칸투]\n아, 모험가님. 오늘도 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?\n혹은 가까운 곳이라면 순간이동 서비스도 지원해요.",
         "en-US": "[Investigator Khanthu]\nOh, Adventurer. How do you feel about today's monster hunting request?\nOr, if you are nearby, we also provide teleportation service.",
         "pt-BR": "[Agente Kantu]\nViajante, deseja iniciar a caçada de hoje?\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Kantu]\nTrotamundos, ¿desea iniciar la cacería de hoy?\nTambién ofrezco servicio de teletransporte."
     },
     "f59ZDA": {
-        "ko-KR": "[조사관 칸투]\n 이 포르투 루나, 제 눈이 닿는 이 필드 내에서 몬스터 80마리를 처치해 주시면 저희 학회에서 공적을 인정하여 경험치를 부여해 드립니다.",
         "en-US": "[Investigator Khanthu]\n If you defeat 80 monsters within this area, Portus Luna, our society will recognize your achievement and grant you experience points.",
         "pt-BR": "[Agente Kantu]\nBasta eliminar 80 monstros de Portus Luna.",
         "es-ES": "[Agente Kantu]\nBasta eliminar 80 monstruos de Portus Luna."
     },
     "gJ9ZDA": {
-        "ko-KR": "[조사관 칸투]\n서로 득이 되는 일인데 왜 마다하시는지...",
         "en-US": "[Investigator Khanthu]\nIt's something that is beneficial to both of us, so why are you hesitating...",
         "pt-BR": "[Agente Kantu]\nTeria uma recompensa, mas tudo bem...",
         "es-ES": "[Agente Kantu]\nHabría una recompensa, pero está bien..."
     },
     "gZ9ZDA": {
-        "ko-KR": "[조사관 칸투]\n좋아요 좋아요.\n저는 여기서 충분히 개체수가 조절되는지 확인하고 있겠습니다.",
         "en-US": "[Investigator Khanthu]\nGood, good.\nI'm going to make sure that the population here is sufficiently regulated..",
         "pt-BR": "[Agente Kantu]\nBom, bom.\nVolte aqui quando finalizar a caçada.",
         "es-ES": "[Agente Kantu]\nBien, bien.\nRegresa aquí cuando finalices la cacería."
     },
     "gp9ZDA": {
-        "ko-KR": "[조사관 칸투]\n초절탄산수를 안 갖고 계신 것 같은데요?\n설렜잖아요... 아쉽네.",
         "en-US": "[Investigator Khanthu]\nI guess you don't have any sparkling water?\nWhat a pity...",
         "pt-BR": "[Agente Kantu]\nVocê viu se tem mesmo a Água Mineral?\nRealmente... seria uma pena.",
         "es-ES": "[Agente Kantu]\n¿Viste si tienes realmente el Agua Mineral?\nEn verdad... sería una pena."
     },
     "g59ZDA": {
-        "ko-KR": "[조사관 칸투]\n아... 그럼 뭐 어쩔 수 없죠.\n언제 또 먹어 본다...",
         "en-US": "[Investigator Khanthu]\nAh... Well then, I guess there's nothing I can do.\nWhen will I get to drink it again...",
         "pt-BR": "[Agente Kantu]\nAh... não há nada que eu possa fazer, então.\nTente de novo na próxima...",
         "es-ES": "[Agente Kantu]\nAh... no hay nada que pueda hacer, entonces.\nInténtalo de nuevo la próxima..."
     },
     "hJ9ZDA": {
-        "ko-KR": "[조사관 칸투]\n네! 내일 뵙겠습니다.",
         "en-US": "[Investigator Khanthu]\nYes! See you tomorrow.",
         "pt-BR": "[Agente Kantu]\nOk! Te vejo amanhã.",
         "es-ES": "[Agente Kantu]\n¡Ok! Te veo mañana."
     },
     "hZ9ZDA": {
-        "ko-KR": "[조사관 칸투]\n안녕하세요. 오늘도 와 주셨군요!\n여기쯤 지나다니시는 모험가분들께 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?\n혹은 가까운 곳이라면 순간이동 서비스도 지원해요.",
         "en-US": "[Investigator Khanthu]\nHello. You came today!\nI'd like to ask adventurers passing by here to investigate and hunt monsters. What do you think?\nOr, if you are nearby, we also provide teleportation service.",
         "pt-BR": "[Agente Kantu]\nOlá. Você voltou!\nEntão... Deseja participar das missões de caçada dessa área?\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Kantu]\nHola. ¡Regresaste!\nEntonces... ¿Desea participar en las misiones de cacería de esta área?\nTambién ofrezco servicio de teletransporte."
     },
     "hp9ZDA": {
-        "ko-KR": "[조사관 칸투]\n그럼 어쩔 수 없죠...",
         "en-US": "[Investigator Khanthu]\nWell then, there's nothing we can do...",
         "pt-BR": "[Agente Kantu]\nNão posso fazer nada...",
         "es-ES": "[Agente Kantu]\nNo puedo hacer nada..."
     },
     "h59ZDA": {
-        "ko-KR": "[조사관 칸투]\n좋습니다.\n저는 여기서 개체수가 조절되는지 확인하고 있겠습니다.",
         "en-US": "[Investigator Khanthu]\nGreat.\nI'll be checking here to see if the population is regulated.",
         "pt-BR": "[Agente Kantu]\nÓtimo.\nEstou aqui para ter certeza que o trabalho será feito.",
         "es-ES": "[Agente Kantu]\nExcelente.\nEstoy aquí para asegurarme de que el trabajo se haga."
     },
     "iJ9ZDA": {
-        "ko-KR": "[조사관 칸투]\n 이 아우둠라 초원, 제 눈이 닿는 이 필드 내에서 몬스터 80마리를 처치해 주시면 저희 학회에서 공적을 인정하여 경험치를 부여해 드립니다.",
         "en-US": "[Investigator Khanthu]\n If you defeat 80 monsters within this area, the Audhumbla Grassland, our society will recognize your achievement and grant you experience points.",
         "pt-BR": "[Agente Kantu]\nSeu objetivo é caçar 80 monstros desse mapa.",
         "es-ES": "[Agente Kantu]\nTu objetivo es cazar 80 monstruos de este mapa."
     },
     "iZ9ZDA": {
-        "ko-KR": "조사관 듀",
         "en-US": "Investigator Dawe",
         "pt-BR": "Agente Dew",
         "es-ES": "Agente Dew"
     },
     "ip9ZDA": {
-        "ko-KR": "[조사관 듀]\n모험가님, 여긴 위험해요.\n목숨이 아깝지 않으면 모를까...",
         "en-US": "[Investigator Dawe]\nAdventurer, it's dangerous here.\nIf you don't care about your life, you won't know...",
         "pt-BR": "[Agente Dew]\nViajante, aqui é perigoso.\nÉ melhor você ficar mais forte se quiser explorar esse lugar...",
         "es-ES": "[Agente Dew]\nTrotamundos, aquí es peligroso.\nSerá mejor que te fortalezcas si quieres explorar este lugar..."
     },
     "i59ZDA": {
-        "ko-KR": "[조사관 듀]\n안녕하세요. 유노 몬스터 학회의 듀입니다.\n모험가분들께 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?\n혹은 가까운 곳이라면 순간이동 서비스도 지원합니다.",
         "en-US": "[Investigator Dawe]\nHello. I am Dawe from the Juno Monster Society..\nI'm asking adventurers to investigate and hunt monsters. What do you think?\nOr, if you are nearby, we also provide teleportation service.",
         "pt-BR": "[Agente Dew]\nOlá. Meu nome é Dew, agente da Sociedade Juniana de Monstros.\nDeseja participar das missões de caçada dessa área?\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Dew]\nHola. Mi nombre es Dew, agente de la Sociedad Juniana de Monstruos.\n¿Desea participar en las misiones de cacería de esta área?\nTambién ofrezco servicio de teletransporte."
     },
     "jJ9ZDA": {
-        "ko-KR": "[조사관 듀]\n최근들어 이 주변을 비롯한 몇몇 지역에서 몬스터의 개체수가 늘어나고 있어요.\n이전보다 인적이 뜸해진 게 이유인 것 같긴 한데...",
         "en-US": "[Investigator Dawe]\nRecently, the number of monsters has been increasing in some areas, including this area.\nI think it's because there are fewer people than before...",
         "pt-BR": "[Agente Dew]\nRecentemente, a população de monstros aumentou significativamente.\nAcho que a razão é a falta de caçadores...",
         "es-ES": "[Agente Dew]\nRecientemente, la población de monstruos aumentó significativamente.\nCreo que la razón es la falta de cazadores..."
     },
     "jZ9ZDA": {
-        "ko-KR": "[조사관 듀]\n이미 자연적으로는 개체 조절이 안 된다는 뜻이겠죠.\n더 군락지가 확장되는 것을 막기 위해서, 저희 유노 몬스터 학회에서는 대대적 토벌을 계획했습니다.",
         "en-US": "[Investigator Dawe]\nThis means that natural self-regulation is no longer possible.\nIn order to prevent the monsters from expanding further, we at the Juno Monster Society have planned a large-scale expedition.",
         "pt-BR": "[Agente Dew]\nA situação saiu do controle.\nE para não piorar as coisas, a Sociedade Juniana de Monstros está recrutando pessoas para ajudar.",
         "es-ES": "[Agente Dew]\nLa situación se salió de control.\nY para no empeorar las cosas, la Sociedad Juniana de Monstruos está reclutando personas para ayudar."
     },
     "jp9ZDA": {
-        "ko-KR": "[조사관 듀]\n아무리 모험가들의 방문이 줄었다 해도, 사람이 사는 곳까지 내려오면 큰일이니까요...\n그래서 말씀인데 토벌을 부탁드려도 되겠습니까?",
         "en-US": "[Investigator Dawe]\nNo matter how much the number of adventurers has decreased, it would be a big problem if they came down to where people live...\nSo, can I ask you to help me hunt them?",
         "pt-BR": "[Agente Dew]\nEla está enviando agentes para os locais mais críticos...\nPor isso estou aqui, posso contar com você?",
         "es-ES": "[Agente Dew]\nEstá enviando agentes a los lugares más críticos...\nPor eso estoy aquí, ¿puedo contar contigo?"
     },
     "j59ZDA": {
-        "ko-KR": "[조사관 듀]\n 이 베인스 필드, 제 눈이 닿는 이 필드 내에서 몬스터 80마리를 처치해 주시면 저희 학회에서 공적을 인정하여 경험치를 부여해 드립니다.",
         "en-US": "[Investigator Dawe]\nIf you defeat 80 monsters within this area, the Veins Field, our society will recognize your achievement and grant you experience points.",
         "pt-BR": "[Agente Dew]\nBasta eliminar 80 monstros desse mapa que estamos.",
         "es-ES": "[Agente Dew]\nBasta eliminar 80 monstruos de este mapa en el que estamos."
     },
     "kJ9ZDA": {
-        "ko-KR": "[조사관 듀]\n어쩔 수 없지요.",
         "en-US": "[Investigator Dawe]\nThere's nothing I can do.",
         "pt-BR": "[Agente Dew]\nEntendo, não posso te obrigar a nada.",
         "es-ES": "[Agente Dew]\nEntiendo, no puedo obligarte a nada."
     },
     "kZ9ZDA": {
-        "ko-KR": "[조사관 듀]\n좋아요 좋아요.\n저는 여기서 충분히 개체수가 조절되는지 확인하고 있겠습니다.",
         "en-US": "[Investigator Dawe]\nGood, good.\nI'm going to make sure that the population here is sufficiently regulated..",
         "pt-BR": "[Agente Dew]\nBom, bom.\nVolte aqui quando finalizar a caçada.",
         "es-ES": "[Agente Dew]\nBien, bien.\nRegresa aquí cuando finalices la cacería."
     },
     "kp9ZDA": {
-        "ko-KR": "[조사관 듀]\n여기서라면 제일 가까운 곳은 ^0033FF베인스^000000입니다만,\n가지고 계신 초절탄산수가 있으시면 한 개... 주시면 그걸로 보내드릴게요.\n하~ 그게 또 요새 인기인데 사러 갈 수가 없어서.",
         "en-US": "[Investigator Dawe]\nThe closest place from here is ^0033FFVeins^000000,\nIf you have any Sparkling Carbonated Water, give me one and I'll send it to you.\nHa~ That's popular these days, but I can't go buy it.",
         "pt-BR": "[Agente Dew]\nA cidade mais perto daqui é ^0033FFVeins^000000.\nO teleporte custa 1 Água Mineral.\nAh~ seria uma pena se você não tiver.",
         "es-ES": "[Agente Dew]\nLa ciudad más cercana de aquí es ^0033FFVeins^000000.\nEl teletransporte cuesta 1 Agua Mineral.\nAh~ sería una pena si no tuvieras."
     },
     "k59ZDA": {
-        "ko-KR": "초절탄산수 1개를 주고 베인스로",
         "en-US": "Give 1 Bottle and go to Veins.",
         "pt-BR": "Dar Água Mineral",
         "es-ES": "Dar Agua Mineral"
     },
     "lJ9ZDA": {
-        "ko-KR": "[조사관 듀]\n초절탄산수를 안 갖고 계신 것 같은데요?\n설렜잖아요... 아쉽네.",
         "en-US": "[Investigator Dawe]\nI guess you don't have any sparkling water?\nWhat a pity...",
         "pt-BR": "[Agente Dew]\nVocê viu se tem mesmo a Água Mineral?\nRealmente... seria uma pena.",
         "es-ES": "[Agente Dew]\n¿Viste si tienes realmente el Agua Mineral?\nEn verdad... sería una pena."
     },
     "lZ9ZDA": {
-        "ko-KR": "[조사관 듀]\n아... 그럼 뭐 어쩔 수 없죠.",
         "en-US": "[Investigator Dawe]\nAh... Well then, I guess there's nothing I can do.",
         "pt-BR": "[Agente Dew]\nAh... não há nada que eu possa fazer, então.",
         "es-ES": "[Agente Dew]\nAh... no hay nada que pueda hacer, entonces."
     },
     "lp9ZDA": {
-        "ko-KR": "[조사관 듀]\n아쉽군요...",
         "en-US": "[Investigator Dawe]\nThat's too bad...",
         "pt-BR": "[Agente Dew]\nPor favor, ajude...",
         "es-ES": "[Agente Dew]\nPor favor, ayude..."
     },
     "l59ZDA": {
-        "ko-KR": "[조사관 듀]\n이 주변의 몬스터들을 도합 80마리 처치하고 오시기 바랍니다.\n...네? 이동 서비스요?",
         "en-US": "[Investigator Dawe]\nPlease defeat a total of 80 monsters in this area.\n...Hmm? Teleport service?",
         "pt-BR": "[Agente Dew]\nPor favor, elimine 80 monstros desse mapa.\n...Hã? Teleporte?",
         "es-ES": "[Agente Dew]\nPor favor, elimina 80 monstruos de este mapa.\n...¿Eh? ¿Teletransporte?"
     },
     "mJ9ZDA": {
-        "ko-KR": "[조사관 듀]\n초절탄산수를 안 갖고 계신 것 같은데요?",
         "en-US": "[Investigator Dawe]\nI guess you don't have any sparkling water?",
         "pt-BR": "[Agente Dew]\nVocê viu se tem mesmo a Água Mineral?",
         "es-ES": "[Agente Dew]\n¿Viste si tienes realmente el Agua Mineral?"
     },
     "mZ9ZDA": {
-        "ko-KR": "[조사관 듀]\n아, 모험가님! 활약상 충분히 잘 보았습니다. 수고가 많으십니다.",
         "en-US": "[Investigator Dawe]\nAh, Adventurer! I have seen your activities well. Thank you for your hard work.",
         "pt-BR": "[Agente Dew]\nAgradeço seu empenho em nos ajudar, viajante.",
         "es-ES": "[Agente Dew]\nAgradezco tu empeño en ayudarnos, Trotamundos."
     },
     "mp9ZDA": {
-        "ko-KR": "[조사관 듀]\n토벌 의뢰 수행은 원칙적으로 1일 1회 제한이 있습니다.\n오늘은 이만 쉬시고, 다음에 또...",
         "en-US": "[Investigator Dawe]\nIn principle, carrying out subjugation requests is limited to once per day.\nLet's rest for today, and see you next time...",
         "pt-BR": "[Agente Dew]\nA princípio, as missões de caça só podem ser feitas 1 vez por dia.\nDê um descanso para o seu corpo...",
         "es-ES": "[Agente Dew]\nEn principio, las misiones de caza solo pueden hacerse 1 vez al día.\nDale un descanso a tu cuerpo..."
     },
     "m59ZDA": {
-        "ko-KR": "[조사관 듀]\n앗, 이건 내가 제일 좋아하는 초절탄산수!\n받아도 되나요? 감사합니다!\n꼴깍 꼴깍...",
         "en-US": "[Investigator Dawe]\nOh, this is my favorite sparkling water!\nCan I have it? Thank you!\nGulp gulp...",
         "pt-BR": "[Agente Dew]\nAh, essa é a minha bebida favorita!\nPosso beber? Uau!\nGlub Glub...",
         "es-ES": "[Agente Dew]\n¡Ah, esta es mi bebida favorita!\n¿Puedo beberla? ¡Guau!\nGlub Glub..."
     },
     "nJ9ZDA": {
-        "ko-KR": "[조사관 듀]\n상쾌해!\n캬~...",
         "en-US": "[Investigator Dawe]\nIt's refreshing!\nWow~...",
         "pt-BR": "[Agente Dew]\nRefrescante!\nAh~...",
         "es-ES": "[Agente Dew]\n¡Refrescante!\nAh~..."
     },
     "nZ9ZDA": {
-        "ko-KR": "[조사관 듀]\n모험가분들께 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?\n혹은 가까운 곳이라면 순간이동 서비스도 지원해요.",
         "en-US": "[Investigator Dawe]\nI'm asking adventurers to investigate and hunt monsters. What do you think?\nOr, if you are nearby, we also provide teleportation service.",
         "pt-BR": "[Agente Dew]\nDeseja participar das missões de caçada dessa área?\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Dew]\n¿Desea participar en las misiones de cacería de esta área?\nTambién ofrezco servicio de teletransporte."
     },
     "np9ZDA": {
-        "ko-KR": "[조사관 듀]\n아쉽군요.",
         "en-US": "[Investigator Dawe]\nThat's too bad.",
         "pt-BR": "[Agente Dew]\nPor favor, ajude.",
         "es-ES": "[Agente Dew]\nPor favor, ayude."
     },
     "n59ZDA": {
-        "ko-KR": "[조사관 듀]\n좋습니다.\n저는 여기서 개체수가 조절되는지 확인하고 있도록 하죠.",
         "en-US": "[Investigator Dawe]\nGreat.\nI'm here to make sure the population is regulated.",
         "pt-BR": "[Agente Dew]\nÓtimo.\nVou aguardar seu reporte aqui.",
         "es-ES": "[Agente Dew]\nExcelente.\nVoy a esperar tu reporte aquí."
     },
     "oJ9ZDA": {
-        "ko-KR": "[조사관 듀]\n여기서라면 제일 가까운 곳은 ^0033FF베인스^000000입니다만,\n가지고 계신 초절탄산수가 있으시면 한 개... 주시면 그걸로 보내드릴게요.",
         "en-US": "[Investigator Dawe]\nThe closest place from here is ^0033FFVeins^000000,\nIf you have any Sparkling Carbonated Water, give me one and I'll send it to you.",
         "pt-BR": "[Agente Dew]\nA cidade mais perto daqui é ^0033FFVeins^000000.\nO teleporte custa 1 Água Mineral.",
         "es-ES": "[Agente Dew]\nLa ciudad más cercana de aquí es ^0033FFVeins^000000.\nEl teletransporte cuesta 1 Agua Mineral."
     },
     "oZ9ZDA": {
-        "ko-KR": "[조사관 듀]\n아... 그럼 어쩔 수 없죠.",
         "en-US": "[Investigator Dawe]\nHuh... Well then, there's nothing we can do.",
         "pt-BR": "[Agente Dew]\nOh... Não posso fazer nada.",
         "es-ES": "[Agente Dew]\nOh... No puedo hacer nada."
     },
     "op9ZDA": {
-        "ko-KR": "[조사관 듀]\n아쉽네요.",
         "en-US": "[Investigator Dawe]\nThat's too bad...",
         "pt-BR": "[Agente Dew]\nPor favor, ajude...",
         "es-ES": "[Agente Dew]\nPor favor, ayude..."
     },
     "o59ZDA": {
-        "ko-KR": "[조사관 듀]\n네! 내일 뵙겠습니다.",
         "en-US": "[Investigator Dawe]\nYes! See you tomorrow.",
         "pt-BR": "[Agente Dew]\nOk! Te vejo amanhã.",
         "es-ES": "[Agente Dew]\n¡Ok! Te veo mañana."
     },
     "pJ9ZDA": {
-        "ko-KR": "[조사관 듀]\n안녕하세요. 오늘도 와 주셨군요!\n여기쯤 지나다니시는 모험가분들께 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?\n혹은 가까운 곳이라면 순간이동 서비스도 지원해요.",
         "en-US": "[Investigator Dawe]\nHello. You came today!\nI'd like to ask adventurers passing by here to investigate and hunt monsters. What do you think?\nOr, if you are nearby, we also provide teleportation service.",
         "pt-BR": "[Agente Dew]\nOlá. Você voltou!\nEntão... Deseja participar das missões de caçada dessa área?\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Dew]\nHola. ¡Regresaste!\nEntonces... ¿Desea participar en las misiones de cacería de esta área?\nTambién ofrezco servicio de teletransporte."
     },
     "pZ9ZDA": {
-        "ko-KR": "[조사관 듀]\n좋습니다.\n저는 여기서 개체수가 조절되는지 확인하고 있지요.",
         "en-US": "[Investigator Dawe]\nGreat.\nI'm here to check if the population is regulated.",
         "pt-BR": "[Agente Dew]\nÓtimo.\nVou aguardar seu reporte aqui.",
         "es-ES": "[Agente Dew]\nExcelente.\nVoy a esperar tu reporte aquí."
     },
     "pp9ZDA": {
-        "ko-KR": "[조사관 듀]\n서로 득이 되는 일인데 왜 마다하시는지...",
         "en-US": "[Investigator Dawe]\nIt's something that is beneficial to both of us, so why are you hesitating...",
         "pt-BR": "[Agente Dew]\nTeria uma recompensa, mas tudo bem...",
         "es-ES": "[Agente Dew]\nHabría una recompensa, pero está bien..."
     },
     "p59ZDA": {
-        "ko-KR": "[조사관 듀]\n아, 모험가님! 활약상 충분히 잘 보았습니다. 수고가 많으세요.",
         "en-US": "[Investigator Dawe]\nAh, adventurer! I've seen your exploits well. Thank you for your hard work.",
         "pt-BR": "[Agente Dew]\nAh, viajante! Agradeço o seu esforço pela caçada.",
         "es-ES": "[Agente Dew]\n¡Ah, Trotamundos! Agradezco tu esfuerzo por la cacería."
     },
     "qJ9ZDA": {
-        "ko-KR": "[조사관 듀]\n정말 뭐든지 적정량이 중요한 것 같아요. 그쵸?",
         "en-US": "[Investigator Dawe]\nI really think moderation is key to everything, right?",
         "pt-BR": "[Agente Dew]\nAcho que esse prêmio tá de bom tamanho, certo?",
         "es-ES": "[Agente Dew]\nCreo que este premio es de buen tamaño, ¿verdad?"
     },
     "qZ9ZDA": {
-        "ko-KR": "조사관 라냐",
         "en-US": "Investigator Rania",
         "pt-BR": "Agente Rania",
         "es-ES": "Agente Rania"
     },
     "qp9ZDA": {
-        "ko-KR": "[조사관 라냐]\n모험가님, 여긴 위험해요.\n목숨이 아깝지 않으면 모를까...",
         "en-US": "[Investigator Rania]\nAdventurer, it's dangerous here.\nIf you don't care about your life, you won't know...",
         "pt-BR": "[Agente Rania]\nViajante, aqui é perigoso.\nÉ melhor você ficar mais forte se quiser explorar esse lugar...",
         "es-ES": "[Agente Rania]\nTrotamundos, aquí es peligroso.\nSerá mejor que te fortalezcas si quieres explorar este lugar..."
     },
     "q59ZDA": {
-        "ko-KR": "[조사관 라냐]\n안녕하세요. 유노 몬스터 학회의 라냐입니다.\n모험가분들께 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?\n혹은 가까운 곳이라면 순간이동 서비스도 지원합니다.",
         "en-US": "[Investigator Rania]\nHello. This is Rania from the Juno Monster Society.\nI'm asking adventurers to investigate and hunt monsters. What do you think?\nOr, if you are nearby, we also provide teleportation service.",
         "pt-BR": "[Agente Rania]\nOlá. Eu sou Rania, agente da Sociedade Juniana de Monstros.\nDeseja participar das missões de caçada dessa área?\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Rania]\nHola. Soy Rania, agente de la Sociedad Juniana de Monstruos.\n¿Desea participar en las misiones de cacería de esta área?\nTambién ofrezco servicio de teletransporte."
     },
     "rJ9ZDA": {
-        "ko-KR": "[조사관 라냐]\n최근들어 이 주변을 비롯한 몇몇 지역에서 몬스터의 개체수가 늘어나고 있어요.\n이전보다 인적이 뜸해진 게 이유인 것 같긴 한데...",
         "en-US": "[Investigator Rania]\nRecently, the number of monsters has been increasing in some areas, including this area.\nI think it's because there are fewer people than before...",
         "pt-BR": "[Agente Rania]\nRecentemente, a população de monstros aumentou significativamente.\nAcho que a razão é a falta de caçadores...",
         "es-ES": "[Agente Rania]\nRecientemente, la población de monstruos aumentó significativamente.\nCreo que la razón es la falta de cazadores..."
     },
     "rZ9ZDA": {
-        "ko-KR": "[조사관 라냐]\n이미 자연적으로는 개체 조절이 안 된다는 뜻이겠죠.\n더 군락지가 확장되는 것을 막기 위해서, 저희 유노 몬스터 학회에서는 대대적 토벌을 계획했습니다.",
         "en-US": "[Investigator Rania]\nThis means that natural self-regulation is no longer possible.\nIn order to prevent the monsters from expanding further, we at the Juno Monster Society have planned a large-scale expedition.",
         "pt-BR": "[Agente Rania]\nA situação saiu do controle.\nE para não piorar as coisas, a Sociedade Juniana de Monstros está recrutando pessoas para ajudar.",
         "es-ES": "[Agente Rania]\nLa situación se salió de control.\nY para no empeorar las cosas, la Sociedad Juniana de Monstruos está reclutando personas para ayudar."
     },
     "rp9ZDA": {
-        "ko-KR": "[조사관 라냐]\n아무리 모험가들의 방문이 줄었다 해도, 사람이 사는 곳까지 내려오면 큰일이니까요...\n그래서 말씀인데 토벌을 부탁드려도 되겠습니까?",
         "en-US": "[Investigator Rania]\nNo matter how much the number of adventurers has decreased, it would be a big problem if they came down to where people live...\nSo, can I ask you to help me hunt them?",
         "pt-BR": "[Agente Rania]\nEla está enviando agentes para os locais mais críticos...\nPor isso estou aqui, posso contar com você?",
         "es-ES": "[Agente Rania]\nEstá enviando agentes a los lugares más críticos...\nPor eso estoy aquí, ¿puedo contar contigo?"
     },
     "r59ZDA": {
-        "ko-KR": "[조사관 라냐]\n 이 베인스 필드, 제 눈이 닿는 이 필드 내에서 몬스터 80마리를 처치해 주시면 저희 학회에서 공적을 인정하여 경험치를 부여해 드립니다.",
         "en-US": "[Investigator Rania]\n If you defeat 80 monsters within this area, the Veins Field, our society will recognize your achievement and grant you experience points.",
         "pt-BR": "[Agente Rania]\nBasta eliminar 80 monstros desse mapa que estamos.",
         "es-ES": "[Agente Rania]\nBasta eliminar 80 monstruos de este mapa en el que estamos."
     },
     "sJ9ZDA": {
-        "ko-KR": "[조사관 라냐]\n서로 득이 되는 일인데 왜 마다하시는지...",
         "en-US": "[Investigator Rania]\nIt's something that is beneficial to both of us, so why are you hesitating...",
         "pt-BR": "[Agente Rania]\nTeria uma recompensa, mas tudo bem...",
         "es-ES": "[Agente Rania]\nHabría una recompensa, pero está bien..."
     },
     "sZ9ZDA": {
-        "ko-KR": "[조사관 라냐]\n좋습니다.\n저는 여기서 대기하지요.",
         "en-US": "[Investigator Rania]\nGreat.\nI'll wait here.",
         "pt-BR": "[Agente Rania]\nÓtimo.\nVolte para cá quando finalizar a caçada.",
         "es-ES": "[Agente Rania]\nExcelente.\nVuelve para acá cuando finalices la cacería."
     },
     "sp9ZDA": {
-        "ko-KR": "[조사관 라냐]\n여기서라면 제일 가까운 곳은 ^0033FF베인스^000000입니다만,\n가지고 계신 초절탄산수가 있으시면 한 개... 주시면 그걸로 보내드릴게요.",
         "en-US": "[Investigator Rania]\nThe closest place from here is ^0033FFVeins^000000,\nIf you have any Sparkling Carbonated Water, give me one and I'll send it to you.",
         "pt-BR": "[Agente Rania]\nA cidade mais perto daqui é ^0033FFVeins^000000.\nO teleporte custa 1 Água Mineral.",
         "es-ES": "[Agente Rania]\nLa ciudad más cercana de aquí es ^0033FFVeins^000000.\nEl teletransporte cuesta 1 Agua Mineral."
     },
     "s59ZDA": {
-        "ko-KR": "[조사관 라냐]\n초절탄산수를 안 갖고 계신 것 같은데요?",
         "en-US": "[Investigator Rania]\nI guess you don't have any sparkling water?",
         "pt-BR": "[Agente Rania]\nVocê viu se tem mesmo a Água Mineral?",
         "es-ES": "[Agente Rania]\n¿Viste si tienes realmente el Agua Mineral?"
     },
     "tJ9ZDA": {
-        "ko-KR": "[조사관 라냐]\n아... 그럼 뭐 어쩔 수 없죠.",
         "en-US": "[Investigator Rania]\nAh... Well then, I guess there's nothing I can do.",
         "pt-BR": "[Agente Rania]\nAh... não há nada que eu possa fazer, então.",
         "es-ES": "[Agente Rania]\nAh... no hay nada que pueda hacer, entonces."
     },
     "tZ9ZDA": {
-        "ko-KR": "[조사관 라냐]\n이 주변의 몬스터들을 도합 80마리 처치하고 오시기 바랍니다.\n...네? 이동 서비스요?",
         "en-US": "[Investigator Rania]\nPlease defeat a total of 80 monsters in this area.\n...Hmm? Teleport service?",
         "pt-BR": "[Agente Rania]\nPor favor, elimine 80 monstros desse mapa.\n...Hã? Teleporte?",
         "es-ES": "[Agente Rania]\nPor favor, elimina 80 monstruos de este mapa.\n...¿Eh? ¿Teletransporte?"
     },
     "tp9ZDA": {
-        "ko-KR": "[조사관 라냐]\n아... 그럼 뭐 어쩔 수 없죠.\n언제 또 먹어 본다...",
         "en-US": "[Investigator Rania]\nAh... Well then, I guess there's nothing I can do.\nWhen will I get to drink it again...",
         "pt-BR": "[Agente Rania]\nAh... não há nada que eu possa fazer, então.\nTente de novo na próxima...",
         "es-ES": "[Agente Rania]\nAh... no hay nada que pueda hacer, entonces.\nInténtalo de nuevo la próxima..."
     },
     "t59ZDA": {
-        "ko-KR": "[조사관 라냐]\n아, 모험가님! 활약상 충분히 잘 보았습니다. 수고가 많으세요.",
         "en-US": "[Investigator Rania]\nAh, adventurer! I've seen your exploits well. Thank you for your hard work.",
         "pt-BR": "[Agente Rania]\nAh, viajante! Agradeço o seu esforço pela caçada.",
         "es-ES": "[Agente Rania]\n¡Ah, Trotamundos! Agradezco tu esfuerzo por la cacería."
     },
     "uJ9ZDA": {
-        "ko-KR": "[조사관 라냐]\n토벌 의뢰 수행은 원칙적으로 1일 1회 제한이 있습니다.\n오늘은 이만 쉬시고, 다음에 또...",
         "en-US": "[Investigator Rania]\nIn principle, carrying out subjugation requests is limited to once per day.\nLet's rest for today, and see you next time...",
         "pt-BR": "[Agente Rania]\nA princípio, as missões de caça só podem ser feitas 1 vez por dia.\nDê um descanso para o seu corpo...",
         "es-ES": "[Agente Rania]\nEn principio, las misiones de caza solo pueden hacerse 1 vez al día.\nDale un descanso a tu cuerpo..."
     },
     "uZ9ZDA": {
-        "ko-KR": "[조사관 라냐]\n앗, 이건 내가 제일 좋아하는 초절탄산수!\n받아도 되나요? 감사합니다!\n꼴깍 꼴깍...",
         "en-US": "[Investigator Rania]\nOh, this is my favorite sparkling water!\nCan I have it? Thank you!\nGulp gulp...",
         "pt-BR": "[Agente Rania]\nAh, essa é a minha bebida favorita!\nPosso beber? Uau!\nGlub Glub...",
         "es-ES": "[Agente Rania]\n¡Ah, esta es mi bebida favorita!\n¿Puedo beberla? ¡Guau!\nGlub Glub..."
     },
     "up9ZDA": {
-        "ko-KR": "[조사관 라냐]\n상쾌해!\n...\n아! 모험가님!",
         "en-US": "[Investigator Rania]\nIt's refreshing!\n...\nAh! Adventurer!",
         "pt-BR": "[Agente Rania]\nRefrescante!\n...\nAh! Viajante!",
         "es-ES": "[Agente Rania]\n¡Refrescante!\n...\n¡Ah! ¡Trotamundos!"
     },
     "u59ZDA": {
-        "ko-KR": "[조사관 라냐]\n여기쯤 지나다니시는 모험가분들께 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?\n혹은 가까운 곳이라면 순간이동 서비스도 지원해요.",
         "en-US": "[Investigator Rania]\nI'd like to ask adventurers passing by here to investigate and hunt monsters. What do you think?\nOr, if you are nearby, we also provide teleportation service.",
         "pt-BR": "[Agente Rania]\nEntão... Deseja participar das missões de caçada dessa área?\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Rania]\nEntonces... ¿Desea participar en las misiones de cacería de esta área?\nTambién ofrezco servicio de teletransporte."
     },
     "vJ9ZDA": {
-        "ko-KR": "[조사관 라냐]\n좋습니다. 저는 여기서 기다리지요.",
         "en-US": "[Investigator Rania]\nGreat. I'll wait here.",
         "pt-BR": "[Agente Rania]\nÓtimo. Volte para cá quando finalizar a caçada.",
         "es-ES": "[Agente Rania]\nExcelente. Vuelve para acá cuando finalices la cacería."
     },
     "vZ9ZDA": {
-        "ko-KR": "[조사관 라냐]\n아쉽게 되었네요.",
         "en-US": "[Investigator Rania]\nIt's a shame.",
         "pt-BR": "[Agente Rania]\nNão vou te obrigar.",
         "es-ES": "[Agente Rania]\nNo voy a obligarte."
     },
     "vp9ZDA": {
-        "ko-KR": "[조사관 라냐]\n네! 내일 뵙겠습니다.",
         "en-US": "[Investigator Rania]\nYes! See you tomorrow.",
         "pt-BR": "[Agente Rania]\nOk! Te vejo amanhã.",
         "es-ES": "[Agente Rania]\n¡Ok! Te veo mañana."
     },
     "v59ZDA": {
-        "ko-KR": "[조사관 라냐]\n안녕하세요. 오늘도 와 주셨군요!\n여기쯤 지나다니시는 모험가분들께 몬스터 토벌 조사 의뢰를 드리고 있는데 어떠신지요?\n혹은 가까운 곳이라면 순간이동 서비스도 지원해요.",
         "en-US": "[Investigator Rania]\nHello. You came today!\nI'd like to ask adventurers passing by here to investigate and hunt monsters. What do you think?\nOr, if you are nearby, we also provide teleportation service.",
         "pt-BR": "[Agente Rania]\nOlá. Você voltou!\nEntão... Deseja participar das missões de caçada dessa área?\nTambém ofereço serviço de teleporte.",
         "es-ES": "[Agente Rania]\nHola. ¡Regresaste!\nEntonces... ¿Desea participar en las misiones de cacería de esta área?\nTambién ofrezco servicio de teletransporte."
     },
     "wJ9ZDA": {
-        "ko-KR": "[조사관 라냐]\n아쉽군요.",
         "en-US": "[Investigator Rania]\nThat's too bad.",
         "pt-BR": "[Agente Rania]\nPor favor, ajude.",
         "es-ES": "[Agente Rania]\nPor favor, ayude."
     },
     "wZ9ZDA": {
-        "ko-KR": "[조사관 라냐]\n여기서라면 제일 가까운 곳은 ^0033FF베인스^000000입니다만,\n가지고 계신 초절탄산수가 있으시면 한 개... 주시면 그걸로 보내드릴게요.\n하~ 그게 또 요새 인기인데 사러 갈 수가 없어서.",
         "en-US": "[Investigator Rania]\nThe closest place from here is ^0033FFVeins^000000,\nIf you have any Sparkling Carbonated Water, give me one and I'll send it to you.\nHa~ That's popular these days, but I can't go buy it.",
         "pt-BR": "[Agente Rania]\nA cidade mais perto daqui é ^0033FFVeins^000000.\nO teleporte custa 1 Água Mineral.\nAh~ seria uma pena se você não tiver.",
         "es-ES": "[Agente Rania]\nLa ciudad más cercana de aquí es ^0033FFVeins^000000.\nEl teletransporte cuesta 1 Agua Mineral.\nAh~ sería una pena si no tuvieras."
     },
     "wp9ZDA": {
-        "ko-KR": "[조사관 라냐]\n이런... 아쉽게 되었군요.",
         "en-US": "[Investigator Rania]\nOh... what a pity.",
         "pt-BR": "[Agente Rania]\nAh... gostaria que você ajudasse.",
         "es-ES": "[Agente Rania]\nAh... me gustaría que usted ayudara."

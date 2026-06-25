@@ -1360,10 +1360,14 @@
         "es-ES": "Bailarina de fondo"
     },
     "cHarBg": {
-        "en-US": "[Aile]\nOnce again that's\n^CD688910,000 Zeny^000000,\n^CD68895 Earthworm Peelings^000000 and\n^CD68891 Boots^000000."
+        "en-US": "[Aile]\nOnce again that's\n^CD688910,000 Zeny^000000,\n^CD68895 Earthworm Peelings^000000 and\n^CD68891 Boots^000000.",
+        "pt-BR": "[Ale]\nMais uma vez, isso é\n^CD688910.000 Zeny^000000,\n^CD68895 Peles de Minhoca^000000 e \n^CD68891 par de Botas^000000",
+        "es-ES": "[Aile]\nUna vez más, son\n^CD688910000 zeny^000000,\n^CD68895 Pieles de lombriz^000000 y \n^CD68891 par de Botas^000000."
     },
     "cXarBg": {
-        "en-US": "[Aile]\nBring...\n^CD688910,000 Zeny^000000,\n^CD68895 Earthworm Peelings^000000 and\n^CD68891 Boots^000000."
+        "en-US": "[Aile]\nBring...\n^CD688910,000 Zeny^000000,\n^CD68895 Earthworm Peelings^000000 and\n^CD68891 Boots^000000.",
+        "pt-BR": "[Ale]\nMais uma vez, isso é\n^CD688910.000 Zeny^000000,\n^CD68895 Peles de Minhoca^000000 e \n^CD68891 par de Botas^000000",
+        "es-ES": "[Aile]\nUna vez más, son\n^CD688910000 zeny^000000,\n^CD68895 Pieles de lombriz^000000 y \n^CD68891 par de Botas^000000."
     },
     "cnarBg": {
         "en-US": "Uses Dance skills.",

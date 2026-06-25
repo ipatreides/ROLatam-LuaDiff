@@ -85,7 +85,9 @@
         "es-ES": "[Mergician]\nCree en Merge. Entonces podré ayudarte a ser feliz y estar contento."
     },
     "kfdz": {
-        "en-US": "[Kain]\nYou must approach the NPC closely to initiate conversation."
+        "en-US": "[Kain]\nYou must approach the NPC closely to initiate conversation.",
+        "pt-BR": "[Kain]\nVocê deve se aproximar do NPC para conversar.",
+        "es-ES": "[Kain]\nTienes que acercarte al NPC para hablar."
     },
     "kvdz": {
         "en-US": "[Mergician]\nYou must approach the NPC closely to initiate conversation.",

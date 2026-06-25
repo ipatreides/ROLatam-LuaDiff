@@ -1,1314 +1,1095 @@
 {
     "AHBkCA": {
-        "ko-KR": "교황",
         "en-US": "Pope",
         "pt-BR": "Papisa",
         "es-ES": "Papisa"
     },
     "AXBkCA": {
-        "ko-KR": "[교황]\n옆에 그건 누구..? 용병? 무서워...",
         "en-US": "[Pope]\nWho's that next to you...? A mercenary...? I'm scared...",
         "pt-BR": "[Papisa]\nQuem é esse? Um assistente...? Você está com medo...?",
         "es-ES": "[Papisa]\n¿Quién es ese? ¿Un asistente...? Tú tienes miedo...?"
     },
     "AnBkCA": {
-        "ko-KR": "[교황]\n여긴...?",
         "en-US": "[Pope]\nThis place is...?",
         "pt-BR": "[Papisa]\nIsto é...?",
         "es-ES": "[Papisa]\n¿Esto es...?"
     },
     "A3BkCA": {
-        "ko-KR": "[루우민]\n이제 괜찮아. 이곳은 안전해.",
         "en-US": "[Luwmin]\nIt's okay. It's safe here.",
         "pt-BR": "[Loomin]\nEstá tudo bem agora. Você está a salvo aqui.",
         "es-ES": "[Loomin]\nTodo está bien ahora. Estás a salvo aquí."
     },
     "BHBkCA": {
-        "ko-KR": "[교황]\n우리끼리 늘 얘기하던 꿈의 장소? 어떻게?",
         "en-US": "[Pope]\nIs this the dream place we've always talked about? But how?",
         "pt-BR": "[Papisa]\n...O lugar dos meus sonhos que eu sempre falava com você?",
         "es-ES": "[Papisa]\n...¿El lugar de mis sueños del que siempre te hablaba?"
     },
     "BXBkCA": {
-        "ko-KR": "[루우민]\n빌고, 또 빌었어. 꿈을 현실로 만들어 달라고.",
         "en-US": "[Luwmin]\nI prayed over and over again. To make the dream real.",
         "pt-BR": "[Loomin]\nEu rezava e rezava de novo. Tudo para tornar esse sonho realidade.",
         "es-ES": "[Loomin]\nRecé y recé una y otra vez. Todo para hacer realidad ese sueño."
     },
     "BnBkCA": {
-        "ko-KR": "[교황]\n이런건 꿈 속에서나 존재하는 장소인줄 알았어.",
         "en-US": "[Pope]\nI thought this kind of place only exists in dreams.",
         "pt-BR": "[Papisa]\nEu pensava que esse lugar só existia em meus sonhos.",
         "es-ES": "[Papisa]\nCreía que este lugar solo existía en mis sueños."
     },
     "B3BkCA": {
-        "ko-KR": "[교황]\n실제로 보니까 정말 예뻐. 이 분수도 내가 상상하던 그대로야. 이 나무도. 저 인형도!",
         "en-US": "[Pope]\nIt's so pretty. Just as I've imagined it to be. This tree is so pretty. And that doll, too!",
         "pt-BR": "[Papisa]\nE é lindo! É exatamente como imaginava! Aquela fonte de água, a árvore e a até a boneca!",
         "es-ES": "[Papisa]\n¡Y es hermoso! ¡Exactamente como lo imaginaba! ¡Esa fuente de agua, el árbol y hasta la muñeca!"
     },
     "CHBkCA": {
-        "ko-KR": "[루우민]\n여기에 숨어 있으면 아무도 우리를 찾지 못할 거야.",
         "en-US": "[Luwmin]\nIf we hide here, no one will find us.",
         "pt-BR": "[Loomin]\nSe você se esconder aqui, ninguém virá nos encontrar.",
         "es-ES": "[Loomin]\nSi te escondes aquí, nadie vendrá a encontrarnos."
     },
     "CXBkCA": {
-        "ko-KR": "[교황]\n아무도 우릴 찾지 못해?",
         "en-US": "[Pope]\nNo one can find us?",
         "pt-BR": "[Papisa]\nNinguém?",
         "es-ES": "[Papisa]\n¿Nadie?"
     },
     "CnBkCA": {
-        "ko-KR": "아무도?",
         "en-US": "No one?",
         "pt-BR": "Ninguém?",
         "es-ES": "¿Nadie?"
     },
     "C3BkCA": {
-        "ko-KR": "[루우민]\n응. 그러니까 저 사람은 이제 돌려 보내자.",
         "en-US": "[Luwmin]\nYes. So let's send the Adventurer back.",
         "pt-BR": "[Loomin]\nSim. Então, é melhor nos livrarmos dessa pessoa aí.",
         "es-ES": "[Loomin]\nSí. Entonces, es mejor que nos deshagamos de esa persona ahí."
     },
     "DHBkCA": {
-        "ko-KR": "이제 돌려 보내자.",
         "en-US": "Let's send the Adventurer back.",
         "pt-BR": "Peça para se retirar.",
         "es-ES": "Pídele que se retire."
     },
     "DXBkCA": {
-        "ko-KR": "[루우민]\n여긴 안전하니까 이젠 필요 없잖아.",
         "en-US": "[Luwmin]\nIt's safe here, so there's no need for protection.",
         "pt-BR": "[Loomin]\nAqui é seguro. Não precisa de outras pessoas.",
         "es-ES": "[Loomin]\nAquí es seguro. No necesitamos a otras personas."
     },
     "DnBkCA": {
-        "ko-KR": "[교황]\n모험가를? 하지만...",
         "en-US": "[Pope]\nThe Adventurer? But...",
         "pt-BR": "[Papisa]\nEstá falando da pessoa que me acompanha? Mas...",
         "es-ES": "[Papisa]\n¿Estás hablando de la persona que me acompaña? Pero..."
     },
     "D3BkCA": {
-        "ko-KR": "[{0}]\n저는 끝까지 교황님과 함께 하며 지킬겁니다.",
         "en-US": "[{0}]\nI will protect and be with the Pope until the very end.",
         "pt-BR": "[{0}]\nFicarei ao lado da Papisa até o fim.",
         "es-ES": "[{0}]\nMe quedaré al lado de la Papisa hasta el final."
     },
     "EHBkCA": {
-        "ko-KR": "저는 끝까지 교황님과 함께 하며 지킬겁니다.",
         "en-US": "I will protect and be with the Pope until the very end.",
         "pt-BR": "Ficarei ao lado da Papisa até o fim.",
         "es-ES": "Me quedaré al lado de la Papisa hasta el final."
     },
     "EXBkCA": {
-        "ko-KR": "[루우민]\n무엇으로부터 지킨다는 거지? 당신이 나타나기 전까진 우린 안전하고 평화로웠어!",
         "en-US": "[Luwmin]\nProtect her from what? We were safe and in peace until you appeared!",
         "pt-BR": "[Loomin]\nMas você vai protegê-la de quem? Estávamos em paz até você aparecer!",
         "es-ES": "[Loomin]\n¿Pero de quién la vas a proteger? ¡Estábamos en paz hasta que apareciste tú!"
     },
     "EnBkCA": {
-        "ko-KR": "[루우민]\n하지만, 당신이 나타나고부터는 경비병들이며 신관들, 엄마, 아빠까지 우리를 해치려고 했어!",
         "en-US": "[Luwmin]\nAs soon as you appeared, the guards, priests, and even mom and dad tried to hurt us!",
         "pt-BR": "[Loomin]\nAgora tem guardas e sacerdotes atrás de nós! Até nossos pais nos abandonaram!",
         "es-ES": "[Loomin]\n¡Ahora hay guardias y sacerdotes tras nosotros! ¡Hasta nuestros padres nos abandonaron!"
     },
     "E3BkCA": {
-        "ko-KR": "[루우민]\n위험한건 바로 당신이라고!!!",
         "en-US": "[Luwmin]\nYou are the danger!!!",
         "pt-BR": "[Loomin]\nVOCÊ que é o perigo!!!",
         "es-ES": "[Loomin]\n¡¡¡ERES TÚ el peligro!!!"
     },
     "FHBkCA": {
-        "ko-KR": "위험한건 바로 당신이라고!!!",
         "en-US": "You are the danger!!!",
         "pt-BR": "VOCÊ que é o perigo!!!",
         "es-ES": "¡¡¡ERES TÚ el peligro!!!"
     },
     "FXBkCA": {
-        "ko-KR": "[교황]\n오빠, 그러지 마. 모험가는 위험한 사람이 아니야.",
         "en-US": "[Pope]\nLuwmin, don't say that. Adventurer is not a dangerous person.",
         "pt-BR": "[Papisa]\nNão, maninho, aventureiros não são perigosos.",
         "es-ES": "[Papisa]\nNo, hermanito, los aventureros no son peligrosos."
     },
     "FnBkCA": {
-        "ko-KR": "[루우민]\n정말? 정말로? 바깥에 있는 사람들 모두가 우릴 배신했는데도?",
         "en-US": "[Luwmin]\nReally? Is that so? Even when everyone outside here betrayed us?",
         "pt-BR": "[Loomin]\nSério? Sério mesmo? Mesmo com todo mundo lá fora ter traído a gente?",
         "es-ES": "[Loomin]\n¿En serio? ¿De verdad? ¿Incluso con todo el mundo allá afuera que nos traicionó?"
     },
     "F3BkCA": {
-        "ko-KR": "[교황]\n응. 나는 모험가를 믿어.",
         "en-US": "[Pope]\nYes. I trust the Adventurer.",
         "pt-BR": "[Papisa]\nSim. Eu confio nos aventureiros.",
         "es-ES": "[Papisa]\nSí. Confío en los aventureros."
     },
     "GHBkCA": {
-        "ko-KR": "[루우민]\n하지만 이곳은 우리 둘만의 비밀 장소잖아. 너랑 나말고 다른 사람은 안돼.",
         "en-US": "[Luwmin]\nBut this is our secret garden. Others can't stay here.",
         "pt-BR": "[Loomin]\nMas aqui é um lugar secreto para nós dois. Mais ninguém. Só eu e você.",
         "es-ES": "[Loomin]\nPero este es un lugar secreto para nosotros dos. Nadie más. Solo yo y tú."
     },
     "GXBkCA": {
-        "ko-KR": "[루우민]\n저 사람이 나보다 더 널 잘 지켜 줄 수 있다는 거야?",
         "en-US": "[Luwmin]\nAre you saying that that one can keep you safer than I can?",
         "pt-BR": "[Loomin]\nEntão, você quer dizer que esse viajante é melhor que eu?",
         "es-ES": "[Loomin]\nEntonces, ¿quieres decir que este aventurero es mejor que yo?"
     },
     "GnBkCA": {
-        "ko-KR": "[교황]\n하지만...",
         "en-US": "[Pope]\nBut...",
         "pt-BR": "[Papisa]\nMas...",
         "es-ES": "[Papisa]\nPero..."
     },
     "G3BkCA": {
-        "ko-KR": "하지만...",
         "en-US": "But...",
         "pt-BR": "Mas...",
         "es-ES": "Pero..."
     },
     "HHBkCA": {
-        "ko-KR": "[루우민]\n이곳에서 영원히 숨어 있자. 신관도 엄마도 아빠도 우릴 못 찾을 거야.",
         "en-US": "[Luwmin]\nLet's hide here forever. Priests, mom, and dad, they all can't find us here.",
         "pt-BR": "[Loomin]\nNossos pais ou sacerdotes nunca nos encontrarão. Vamos ficar aqui para sempre.",
         "es-ES": "[Loomin]\nNuestros padres o los sacerdotes nunca nos encontrarán. Nos quedaremos aquí para siempre."
     },
     "HXBkCA": {
-        "ko-KR": "[교황]\n영원히... 아무도 못 찾는...",
         "en-US": "[Pope]\nForever.... No one will find us...",
         "pt-BR": "[Papisa]\nNunca nos encontrarão... para sempre...",
         "es-ES": "[Papisa]\nNunca nos encontrarán... para siempre..."
     },
     "HnBkCA": {
-        "ko-KR": "영원히... 아무도 못 찾는...",
         "en-US": "Forever.... No one will find us...",
         "pt-BR": "Para sempre...",
         "es-ES": "Para siempre..."
     },
     "H3BkCA": {
-        "ko-KR": "[{0}]\n교황님! 이곳에서 영원히 머물게 되면 꿈에서 깨어날 수 없습니다.",
         "en-US": "[{0}]\nYour Holiness! If you stay here forever, you can't wake up from this dream.",
         "pt-BR": "[{0}]\nPapisa, se você ficar aqui para sempre, você nunca acordará desse sonho.",
         "es-ES": "[{0}]\nPapisa, si te quedas aquí para siempre, nunca despertarás de este sueño."
     },
     "IHBkCA": {
-        "ko-KR": "[교황]\n꿈...?",
         "en-US": "[Pope]\nDream...?",
         "pt-BR": "[Papisa]\nSonho...?",
         "es-ES": "[Papisa]\n¿Sueño...?"
     },
     "IXBkCA": {
-        "ko-KR": "꿈...?",
         "en-US": "Dream...?",
         "pt-BR": "Sonho...?",
         "es-ES": "¿Sueño...?"
     },
     "InBkCA": {
-        "ko-KR": "[{0}]\n현실에는 교황님을 기다리고 있는 사람들이 많습니다. 교황님을 해치지 않는 진짜 사람들이요. 모두 이 꿈과는 정 반대입니다.",
         "en-US": "[{0}]\nThere are so many waiting for your return in the real world. The real people who won't hurt Your Holiness. Everything is exactly the opposite of this dream.",
         "pt-BR": "[{0}]\nExistem pessoas na vida real esperando por você. Pessoas que nunca te machucariam. Eles são o oposto desse sonho.",
         "es-ES": "[{0}]\nHay personas en la vida real esperándote. Personas que nunca te harían daño. Son lo opuesto a este sueño."
     },
     "I3BkCA": {
-        "ko-KR": "[루우민]\n저 말 듣지 마! 모두 거짓말이야!",
         "en-US": "[Luwmin]\nDon't listen to that nonsense! It's a lie!",
         "pt-BR": "[Loomin]\nNão dê ouvidos a isso! É tudo mentira!",
         "es-ES": "[Loomin]\n¡No le hagas caso a eso! ¡Todo es mentira!"
     },
     "JHBkCA": {
-        "ko-KR": "저 말 듣지 마!",
         "en-US": "Don't listen to that nonsense!",
         "pt-BR": "Você está mentindo!",
         "es-ES": "¡Estás mintiendo!"
     },
     "JXBkCA": {
-        "ko-KR": "[교황]\n이것이 꿈...?",
         "en-US": "[Pope]\nThis is... A dream?",
         "pt-BR": "[Papisa]\nIsso é um sonho...?",
         "es-ES": "[Papisa]\n¿Esto es un sueño...?"
     },
     "JnBkCA": {
-        "ko-KR": "이것이 꿈...?",
         "en-US": "This is... A dream?",
         "pt-BR": "Isso é um sonho...?",
         "es-ES": "¿Esto es un sueño...?"
     },
     "J3BkCA": {
-        "ko-KR": "[{0}]\n네, 맞습니다. 이것은 모두 교황님의 불안과 루우민님이 보여주는 꿈일 뿐입니다. 모두 현실이 아닙니다.",
         "en-US": "[{0}]\nYes, that's right. This is but a dream created by your anxieties and Luwmin. None of these are real.",
         "pt-BR": "[{0}]\nExato. Tudo isso aqui é só a ansiedade da Papisa e sonhos do Loomin. Nada disso é real.",
         "es-ES": "[{0}]\nExacto. Todo esto aquí es solo la ansiedad de la Papisa y los sueños de Loomin. Nada de esto es real."
     },
     "KHBkCA": {
-        "ko-KR": "[루우민]\n거짓말! 거짓말이야!!!",
         "en-US": "[Luwmin]\nLiar! That's a lie!!!",
         "pt-BR": "[Loomin]\nMentira! Mentira!!!",
         "es-ES": "[Loomin]\n¡Mentira! ¡¡¡Mentira!!!"
     },
     "KXBkCA": {
-        "ko-KR": "[교황]\n어둠 속에서 틸비를 잃어버렸어. 그리고 신관들이... 대신관도... 내가 필요 없다고 했어.",
         "en-US": "[Pope]\nI lost Tilbie in the darkness. And the priests... Even the High Priest... They said they don't need me.",
         "pt-BR": "[Papisa]\nEu perdi a Tilbi no escuro. E os sacerdotes... os sumos sacerdotes... disseram que não precisavam de mim.",
         "es-ES": "[Papisa]\nPerdí a Tilbi en la oscuridad. Y los sacerdotes... los sumos sacerdotes... dijeron que no me necesitaban."
     },
     "KnBkCA": {
-        "ko-KR": "[{0}]\n모두 교황님께서 갖고 계신 불안이 꿈을 통해 왜곡 되어 보이는 것입니다.",
         "en-US": "[{0}]\nYour anxieties are distorting your reality in the dreams.",
         "pt-BR": "[{0}]\nEssas pessoas são apenas sua ansiedade amplificada por este sonho.",
         "es-ES": "[{0}]\nEsas personas son solo tu ansiedad amplificada por este sueño."
     },
     "K3BkCA": {
-        "ko-KR": "[루우민]\n듣지 마! 생각하지 마!!!",
         "en-US": "[Luwmin]\nDon't listen to that lie! Don't think about it!!!",
         "pt-BR": "[Loomin]\nNão escute! É mentira!!!",
         "es-ES": "[Loomin]\n¡No escuches! ¡Es mentira!!!"
     },
     "LHBkCA": {
-        "ko-KR": "[교황]\n엄마도, 아빠도... 모두 나를 버렸어.",
         "en-US": "[Pope]\nMom and dad... They all abandoned me.",
         "pt-BR": "[Papisa]\nNem mamãe e papai... todos me abandonaram.",
         "es-ES": "[Papisa]\nNi mamá ni papá... todos me abandonaron."
     },
     "LXBkCA": {
-        "ko-KR": "[{0}]\n그 사람들은 교황님의 진짜 부모님이 아니십니다.",
         "en-US": "[{0}]\nThey are not your real parents.",
         "pt-BR": "[{0}]\nEles não são seus pais de verdade.",
         "es-ES": "[{0}]\nEllos no son tus padres de verdad."
     },
     "LnBkCA": {
-        "ko-KR": "[교황]\n나는... 내가 있어야 할 곳은...",
         "en-US": "[Pope]\nI'm... The place I belong to...",
         "pt-BR": "[Papisa]\nE onde eu... onde eu deveria estar...",
         "es-ES": "[Papisa]\nY entonces yo... ¿dónde debería estar...?"
     },
     "L3BkCA": {
-        "ko-KR": "[루우민]\n그곳으로 돌아 갈 거야? 이곳이라면 다른 사람의 방해를 받지 않고 영원히 있을 수 있어. 너도 그곳에서의 생활을 갑갑해 했잖아.",
         "en-US": "[Luwmin]\nAre you going back to that place? You can stay here forever, away from others' prying eyes. You found the Temple suffocating.",
         "pt-BR": "[Loomin]\nVocê vai voltar pra lá? Aqui você ficará pra sempre sem incômodos. Você já sofreu demais na vida.",
         "es-ES": "[Loomin]\n¿Vas a volver allí? Aquí te quedarás para siempre sin molestias. Ya sufriste demasiado en la vida."
     },
     "MHBkCA": {
-        "ko-KR": "[교황]\n오빠도 같이 가. 둘이라면 견딜 수 있어.",
         "en-US": "[Pope]\nCome with me. We can overcome it together.",
         "pt-BR": "[Papisa]\nEu posso levar meu irmão? Se ele for junto, não ficarei mais sozinha.",
         "es-ES": "[Papisa]\n¿Puedo llevar a mi hermano? Si él viene, no estaré más sola."
     },
     "MXBkCA": {
-        "ko-KR": "오빠도 같이 가.",
         "en-US": "Come with me.",
         "pt-BR": "Quero ir com meu irmão.",
         "es-ES": "Quiero ir con mi hermano."
     },
     "MnBkCA": {
-        "ko-KR": "[{0}]\n그럴 순 없습니다. 루우민님은 얼어 붙어 움직일 수 없습니다.",
         "en-US": "[{0}]\nYou can't. Luwmin is frozen and can't move.",
         "pt-BR": "[{0}]\nNão dá. O Loomin da vida real está congelado e imóvel.",
         "es-ES": "[{0}]\nNo se puede. El Loomin de la vida real está congelado e inmóvil."
     },
     "M3BkCA": {
-        "ko-KR": "[교황]\n얼어 있어?",
         "en-US": "[Pope]\nFrozen?",
         "pt-BR": "[Papisa]\nCongelado?",
         "es-ES": "[Papisa]\n¿Congelado?"
     },
     "NHBkCA": {
-        "ko-KR": "얼어 있어?",
         "en-US": "Frozen?",
         "pt-BR": "Congelado?",
         "es-ES": "¿Congelado?"
     },
     "NXBkCA": {
-        "ko-KR": "[{0}]\n이곳으로 오기 전, 니르엔님께서 어떤 사람에 대해 이야기를 해주셨습니다.",
         "en-US": "[{0}]\nBefore I came here, Niruen told me about him.",
         "pt-BR": "[{0}]\nAntes de vir aqui, a Sumo Sacerdotisa Niren me contou a história.",
         "es-ES": "[{0}]\nAntes de venir aquí, la Suma Sacerdotisa Niren me contó la historia."
     },
     "NnBkCA": {
-        "ko-KR": "[{0}]\n얼음 동굴에 봉인된 교황님의 쌍둥이 오빠, 루우민.",
         "en-US": "[{0}]\nLuwmin, the twin brother of the Pope, who is imprisoned in Ice Cave.",
         "pt-BR": "[{0}]\nA Papisa possui um irmão gêmeo selado no último andar da Caverna de Gelo, o Loomin.",
         "es-ES": "[{0}]\nLa Papisa tiene un hermano gemelo sellado en el último piso de la Cueva de Hielo, Loomin."
     },
     "N3BkCA": {
-        "ko-KR": "[루우민]\n네가 뭘 알아! 그 사람들은 악마야! 우리가 선택할 수 있는 건 아무 것도 없었어! 그들은 그저 끊임 없이 강요하고 강요하다 필요 없으면 버렸어!",
         "en-US": "[Luwmin]\nWhat do you know about us?! They're monsters! We couldn't even make one decision for ourselves! They forced things on us over and over again and abandoned us as soon as we weren't needed!",
         "pt-BR": "[Loomin]\nO que você sabe? Humanos são demônios! Não tínhamos escolha! Eles nos usam e depois nos jogam fora!",
         "es-ES": "[Loomin]\n¿Tú qué sabes? ¡Los humanos son demonios! ¡No teníamos opción! ¡Nos usan y luego nos desechan!"
     },
     "OHBkCA": {
-        "ko-KR": "[루우민]\n우린 단지 이런 생김새로 태어났다는 이유로 태어나자마자 신전에 끌려 왔고, 나는 쌍둥이라는 이유로 차고 단단한 얼음 속에 갇혀버렸어!",
         "en-US": "[Luwmin]\nWe were dragged to the Temple just for our looks, and I'm imprisoned here in this freezing ice because I'm her twin!",
         "pt-BR": "[Loomin]\nAssim que nascemos nos arrastaram até o Santuário só por causa da nossa aparência!",
         "es-ES": "[Loomin]\n¡Tan pronto como nacimos nos arrastraron al Santuario solo por nuestra apariencia!"
     },
     "OXBkCA": {
-        "ko-KR": "[루우민]\n아무도 우리에게 제대로 된 설명조차 해주지 않았다고!",
         "en-US": "[Luwmin]\nNo one even bothered to give us a proper explanation!",
         "pt-BR": "[Loomin]\nE eu fui preso em um bloco de gelo só por ser um gêmeo!",
         "es-ES": "[Loomin]\n¡Y a mí me encerraron en un bloque de hielo solo por ser gemelo!"
     },
     "OnBkCA": {
-        "ko-KR": "[루우민]\n우리가 왜 그런 일을 당해야 하는데? 난 단지 태어났을 뿐인데?",
         "en-US": "[Luwmin]\nWhy did we have to suffer those horrible things? My only fault is that I was born in this body!",
         "pt-BR": "[Loomin]\nPor que fizeram isso comigo? Por que fui selado?",
         "es-ES": "[Loomin]\n¿Por qué me hicieron esto? ¿Por qué fui sellado?"
     },
     "O3BkCA": {
-        "ko-KR": "[교황]\n봉인... 오빠가 봉인...?",
         "en-US": "[Pope]\nImprisoned... Luwmin is imprisoned...?",
         "pt-BR": "[Papisa]\nSelado... meu irmão foi selado...?",
         "es-ES": "[Papisa]\nSellado... ¿mi hermano fue sellado...?"
     },
     "PHBkCA": {
-        "ko-KR": "[루우민]\n하지만 이제 그런건 중요하지 않아. 예전엔 우린 언제나 함께였잖아. 그 날로 다시 돌아가는 거야.",
         "en-US": "[Luwmin]\nBut none of that matters now. We were always together before. We can go back to those days.",
         "pt-BR": "[Loomin]\nMas isso nem importa agora. Éramos próximos antigamente. Volte pra lá.",
         "es-ES": "[Loomin]\nPero eso ni siquiera importa ahora. Antes éramos cercanos. Vuelve allá."
     },
     "PXBkCA": {
-        "ko-KR": "우린 언제나 함께였잖아.",
         "en-US": "We were always together.",
         "pt-BR": "Nós sempre ficávamos juntos.",
         "es-ES": "Siempre estábamos juntos."
     },
     "PnBkCA": {
-        "ko-KR": "[교황]\n그건, 오래 전의 일...",
         "en-US": "[Pope]\nThat was such a long time ago...",
         "pt-BR": "[Papisa]\nIsso foi há muito tempo...",
         "es-ES": "[Papisa]\nEso fue hace mucho tiempo..."
     },
     "P3BkCA": {
-        "ko-KR": "그건, 오래 전의 일...",
         "en-US": "That was such a long time ago...",
         "pt-BR": "Isso foi há muito tempo...",
         "es-ES": "Eso fue hace mucho tiempo..."
     },
     "QHBkCA": {
-        "ko-KR": "[교황]\n오빠는 갑자기 사라졌어.",
         "en-US": "[Pope]\nLuwmin suddenly disappeared.",
         "pt-BR": "[Papisa]\nMeu irmão simplesmente desapareceu.",
         "es-ES": "[Papisa]\nMi hermano simplemente desapareció."
     },
     "QXBkCA": {
-        "ko-KR": "오빠는 갑자기 사라졌어.",
         "en-US": "Luwmin suddenly disappeared.",
         "pt-BR": "Meu irmão simplesmente desapareceu.",
         "es-ES": "Mi hermano simplemente desapareció."
     },
     "QnBkCA": {
-        "ko-KR": "[교황]\n봉인... 얼음 동굴... 지금 이곳도 추워.",
         "en-US": "[Pope]\nImprisoned... Ice Cave... It's cold here.",
         "pt-BR": "[Papisa]\nCongelado... Caverna de Gelo... Aqui também é frio.",
         "es-ES": "[Papisa]\nCongelado... Cueva de Hielo... Aquí también hace frío."
     },
     "Q3BkCA": {
-        "ko-KR": "지금 이곳도 추워.",
         "en-US": "It's cold here.",
         "pt-BR": "Esse jardim é gelado.",
         "es-ES": "Este jardín está helado."
     },
     "RHBkCA": {
-        "ko-KR": "[교황]\n오빠는 지금 무슨 꿈을 꾸는 거야?",
         "en-US": "[Pope]\nWhat dreams are you having, Luwmin?",
         "pt-BR": "[Papisa]\nManinho... quais são seus sonhos?",
         "es-ES": "[Papisa]\nHermanito... ¿cuáles son tus sueños?"
     },
     "RXBkCA": {
-        "ko-KR": "오빠는 지금 무슨 꿈을 꾸는 거야?",
         "en-US": "What dreams are you having, Luwmin?",
         "pt-BR": "Maninho... quais são seus sonhos?",
         "es-ES": "Hermanito... ¿cuáles son tus sueños?"
     },
     "RnBkCA": {
-        "ko-KR": "[교황]\n이 꿈의 결말은 어떻게 되는 거야?",
         "en-US": "[Pope]\nHow does this dream end?",
         "pt-BR": "[Papisa]\nQual que é o seu sonho mais profundo?",
         "es-ES": "[Papisa]\n¿Cuál es tu sueño más profundo?"
     },
     "R3BkCA": {
-        "ko-KR": "이 꿈의 결말은 어떻게 되는 거야?",
         "en-US": "How does this dream end?",
         "pt-BR": "Qual que é o seu sonho mais profundo?",
         "es-ES": "¿Cuál es tu sueño más profundo?"
     },
     "SHBkCA": {
-        "ko-KR": "[교황]\n오빠는 어떤 꿈을 원해?",
         "en-US": "[Pope]\nWhat kind of dream do you want to have?",
         "pt-BR": "[Papisa]\nQue tipo de sonho você quer realizar?",
         "es-ES": "[Papisa]\n¿Qué tipo de sueño quieres cumplir?"
     },
     "SXBkCA": {
-        "ko-KR": "오빠는 어떤 꿈을 원해?",
         "en-US": "What kind of dream do you want to have?",
         "pt-BR": "Que tipo de sonho você quer realizar?",
         "es-ES": "¿Qué tipo de sueño quieres cumplir?"
     },
     "SnBkCA": {
-        "ko-KR": "[루우민]\n예전처럼 함께 하는 것.",
         "en-US": "[Luwmin]\nFor us to be together like before.",
         "pt-BR": "[Loomin]\nFicarmos juntos, como antigamente.",
         "es-ES": "[Loomin]\nEstar juntos, como antes."
     },
     "S3BkCA": {
-        "ko-KR": "예전처럼 함께 하는 것.",
         "en-US": "For us to be together like before.",
         "pt-BR": "Ficarmos juntos, como antigamente.",
         "es-ES": "Estar juntos, como antes."
     },
     "THBkCA": {
-        "ko-KR": "[루우민]\n이곳에서.",
         "en-US": "[Luwmin]\nRight here.",
         "pt-BR": "[Loomin]\nNesse lugar.",
         "es-ES": "[Loomin]\nEn este lugar."
     },
     "TXBkCA": {
-        "ko-KR": "이곳에서.",
         "en-US": "Right here.",
         "pt-BR": "Nesse lugar.",
         "es-ES": "En este lugar."
     },
     "TnBkCA": {
-        "ko-KR": "[루우민]\n영원히.",
         "en-US": "[Luwmin]\nForever.",
         "pt-BR": "[Loomin]\nPara sempre.",
         "es-ES": "[Loomin]\nPara siempre."
     },
     "T3BkCA": {
-        "ko-KR": "영원히.",
         "en-US": "Forever.",
         "pt-BR": "Para sempre.",
         "es-ES": "Para siempre."
     },
     "UHBkCA": {
-        "ko-KR": "[{0}]\n그건 안됩니다.",
         "en-US": "[{0}]\nYou can't have that.",
         "pt-BR": "[{0}]\nIsso não será possível.",
         "es-ES": "[{0}]\nEso no será posible."
     },
     "UXBkCA": {
-        "ko-KR": "[루우민]\n상관 하지마!",
         "en-US": "[Luwmin]\nIt's not your business!",
         "pt-BR": "[Loomin]\nCALE A SUA BOCA!",
         "es-ES": "[Loomin]\n¡CIERRA LA BOCA!"
     },
     "UnBkCA": {
-        "ko-KR": "[루우민]\n방해자는 이제 사라져!!!!",
         "en-US": "[Luwmin]\nBegone, you intruder!!!",
         "pt-BR": "[Loomin]\nVOCÊ DEVE IR EMBORA AGORA!!!!",
         "es-ES": "[Loomin]\n¡¡¡DEBES IRTE AHORA MISMO!!!!"
     },
     "U3BkCA": {
-        "ko-KR": "방해자는 이제 사라져!!!!",
         "en-US": "Begone, you intruder!!!",
         "pt-BR": "VOCÊ DEVE IR EMBORA AGORA!!!!",
         "es-ES": "¡¡¡DEBES IRTE AHORA MISMO!!!!"
     },
     "VHBkCA": {
-        "ko-KR": "큿....",
         "en-US": "Argh...",
         "pt-BR": "Hã...?",
         "es-ES": "¿Huh...?"
     },
     "VXBkCA": {
-        "ko-KR": "[루우민]\n사라지란 말이야!",
         "en-US": "[Luwmin]\nI said, begone!",
         "pt-BR": "[Loomin]\nQUERO QUE DESAPAREÇA!",
         "es-ES": "[Loomin]\n¡QUIERO QUE DESAPAREZCAS!"
     },
     "VnBkCA": {
-        "ko-KR": "[교황]\n오빠...?",
         "en-US": "[Pope]\nBrother...?",
         "pt-BR": "[Papisa]\nManinho...?",
         "es-ES": "[Papisa]\n¿Hermanito...?"
     },
     "V3BkCA": {
-        "ko-KR": "오빠....?",
         "en-US": "Brother...?",
         "pt-BR": "Maninho....?",
         "es-ES": "¿Hermanito....?"
     },
     "WHBkCA": {
-        "ko-KR": "[{0}]\n교황님, 위험합니다! 어서 이리로...!!!",
         "en-US": "[{0}]\nYour Holiness, it's dangerous! Quickly, this way...!!!",
         "pt-BR": "[{0}]\nPapisa, é perigoso. Vamos lá...!!!",
         "es-ES": "[{0}]\nPapisa, es peligroso. ¡Vamos...!"
     },
     "WXBkCA": {
-        "ko-KR": "루우민",
         "en-US": "Luwmin",
         "pt-BR": "Loomin",
         "es-ES": "Loomin"
     },
     "WnBkCA": {
-        "ko-KR": "차가운 기운이 느껴져...",
         "en-US": "I feel a cold energy...",
         "pt-BR": "Eu sinto tanto frio...",
         "es-ES": "Tengo tanto frío..."
     },
     "W3BkCA": {
-        "ko-KR": "분노한 루우민",
         "en-US": "Enraged Luwmin",
         "pt-BR": "Loomin Selado",
         "es-ES": "Loomin Sellado"
     },
     "XHBkCA": {
-        "ko-KR": "나와 함께 해! 혼자 있는 건 외로워!",
         "en-US": "Stay with me! It's so lonely here!",
         "pt-BR": "Fique comigo! Me sinto sozinho!",
         "es-ES": "¡Quédate conmigo! ¡Me siento solo!"
     },
     "XXBkCA": {
-        "ko-KR": "너도 교황이 되고 싶어서 된 건 아니잖아? 왜 자신이 원하지 않는 길을 가야 해?",
         "en-US": "You never wanted to be the Pope, right? Why do you have to do things that you don't want to do?",
         "pt-BR": "Você não queria ser Papisa. Por que aceitou?",
         "es-ES": "Tú no querías ser Papisa. ¿Por qué aceptaste?"
     },
     "XnBkCA": {
-        "ko-KR": "언젠가 너도 쓸모가 없어지면 버려질 거야. 나처럼!",
         "en-US": "When you run of out of your use, you will be abandoned. Just like me!",
         "pt-BR": "Se você for inútil, vão te jogar fora um dia!",
         "es-ES": "¡Si eres inútil, un día te desecharán!"
     },
     "X3BkCA": {
-        "ko-KR": "방해가 되는 사람은 없애 버리고 이곳에서 함께 지내자! 영원히!",
         "en-US": "Get rid of the intruder and we can stay here together! Forever!",
         "pt-BR": "Vamos nos livrar desses traidores e ficarmos juntos aqui! Para sempre!",
         "es-ES": "¡Deshagámonos de estos traidores y quedémonos juntos aquí! ¡Para siempre!"
     },
     "YHBkCA": {
-        "ko-KR": "루우민이 나타났던 자리에 무언가가 떨어지는 소리가 들렸다.",
         "en-US": "Something dropped where Luwmin appeared.",
         "pt-BR": "Alguma coisa caiu onde Loomin estava.",
         "es-ES": "Algo cayó donde estaba Loomin."
     },
     "YXBkCA": {
-        "ko-KR": "혼자는 싫어... 외롭고... 추워...",
         "en-US": "I don't want to be alone... It's lonely... And cold...",
         "pt-BR": "Eu me odeio... estou só... e com frio...",
         "es-ES": "Me odio... estoy solo... y tengo frío..."
     },
     "YnBkCA": {
-        "ko-KR": "얼어 붙은 마음",
         "en-US": "The Frozen Heart",
         "pt-BR": "Coração Congelado",
         "es-ES": "Corazón Congelado"
     },
     "Y3BkCA": {
-        "ko-KR": "떨어져 있던 무언가의 형체가 점점 희미해진다.",
         "en-US": "The dropped item is growing faint.",
         "pt-BR": "Algum objeto está desaparecendo.",
         "es-ES": "Algún objeto está desapareciendo."
     },
     "ZHBkCA": {
-        "ko-KR": "무언가 떨어져 있다. 확인해 보자.",
         "en-US": "Something is dropped on the ground. Let's check it out.",
         "pt-BR": "Algo está faltando. Vamos conferir.",
         "es-ES": "Falta algo. Vamos a ver."
     },
     "ZXBkCA": {
-        "ko-KR": "가방에 더 이상 들어 갈 공간이 없다. 좀 비우고 오자.",
         "en-US": "There is no room in the inventory. Let's make some room.",
         "pt-BR": "Não há mais espaço no inventário. Vamos esvaziá-lo e voltar.",
         "es-ES": "No hay más espacio en el inventario. Vaciémoslo y volvamos."
     },
     "ZnBkCA": {
-        "ko-KR": "낡은 인형이다. 누구 것일까.",
         "en-US": "It's an old doll. Whose doll is this?",
         "pt-BR": "Parece uma Boneca. De quem é?",
         "es-ES": "Parece una Muñeca. ¿De quién es?"
     },
     "Z3BkCA": {
-        "ko-KR": "[교황]\n가방이 너무 무거워 보여. 좀 더는게 어때?",
         "en-US": "[Pope]\nYour bag looks so heavy. Why don't you take some items out?",
         "pt-BR": "[Papisa]\nSeu inventário parece cheio. Tentou esvaziá-lo?",
         "es-ES": "[Papisa]\nTu inventario parece lleno. ¿Intentaste vaciarlo?"
     },
     "aHBkCA": {
-        "ko-KR": "[{0}]\n교황님, 괜찮으십니까?",
         "en-US": "[{0}]\nPope, are you okay?",
         "pt-BR": "[{0}]\nPapisa, você está bem??",
         "es-ES": "[{0}]\n¿Papisa, estás bien?"
     },
     "aXBkCA": {
-        "ko-KR": "[교황]\n오빠가... 얼었어.",
         "en-US": "[Pope]\nLuwmin... He froze.",
         "pt-BR": "[Papisa]\nMeu irmão... está congelado.",
         "es-ES": "[Papisa]\nMi hermano... está congelado."
     },
     "anBkCA": {
-        "ko-KR": "[{0}]\n루우민님의 의식이 다시 얼은 모양입니다.",
         "en-US": "[{0}]\nLuwmin's mind must have been frozen again.",
         "pt-BR": "[{0}]\nA consciência de Loomin congelou de novo.",
         "es-ES": "[{0}]\nLa conciencia de Loomin se congeló de nuevo."
     },
     "a3BkCA": {
-        "ko-KR": "[{0}]\n이곳은 루우민님의 꿈의 세계이자 교황님의 꿈의 세계입니다. 쌍둥이로 태어난 운명이 꿈을 이어지도록 만든 것이지요.",
         "en-US": "[{0}]\nThis is Luwmin's world of dream. And it is yours as well. Your fate as twins connected your dreams.",
         "pt-BR": "[{0}]\nEsse sonho é o mundo ideal da Papisa e de Loomin. O fato de terem nascido gêmeos deu continuidade ao sonho.",
         "es-ES": "[{0}]\nEste sueño es el mundo ideal de la Papisa y de Loomin. El hecho de haber nacido gemelos dio continuidad al sueño."
     },
     "bHBkCA": {
-        "ko-KR": "[교황]\n오빠를 구하고 싶어, 오빠와 함께 있고 싶어.",
         "en-US": "[Pope]\nI want to save him. I want to be with him.",
         "pt-BR": "[Papisa]\nQuero salvar meu irmão. Quero ficar ao lado do meu maninho.",
         "es-ES": "[Papisa]\nQuiero salvar a mi hermano. Quiero estar al lado de mi hermanito."
     },
     "bXBkCA": {
-        "ko-KR": "[{0}]\n교황님이 돌아가지 않으면 많은 사람들이 슬퍼할 겁니다.",
         "en-US": "[{0}]\nMany will be sad if Your Holiness doesn't return.",
         "pt-BR": "[{0}]\nMuita gente vai ficar triste se a Papisa não acordar.",
         "es-ES": "[{0}]\nMucha gente se pondrá triste si la Papisa no despierta."
     },
     "bnBkCA": {
-        "ko-KR": "[교황]\n돌아가고 싶지 않아. 내가 있을 곳은 없어.",
         "en-US": "[Pope]\nI don't want to go back. There's no place for me to be.",
         "pt-BR": "[Papisa]\nEu não quero voltar. Não há lugar pra mim.",
         "es-ES": "[Papisa]\nNo quiero volver. No hay lugar para mí."
     },
     "b3BkCA": {
-        "ko-KR": "[교황]\n돌아 가. 너의 자리로.",
         "en-US": "[Pope]\nGo back. Back to where you belong.",
         "pt-BR": "[Papisa]\nVolte pra lá. De onde você veio.",
         "es-ES": "[Papisa]\nVuelve allá. De donde viniste."
     },
     "cHBkCA": {
-        "ko-KR": "돌아 가. 너의 자리로.",
         "en-US": "Go back. Back to where you belong.",
         "pt-BR": "Volte pra lá. De onde você veio.",
         "es-ES": "Vuelve allá. De donde viniste."
     },
     "cXBkCA": {
-        "ko-KR": "[교황]\n언제까지고 백일몽을 거닐 수는 없어. 꿈은 어두운 밤 속에 있어야만 해.",
         "en-US": "[Pope]\nYou can't tread in daydreams forever. Dreams belong to the darkness of night.",
         "pt-BR": "[Papisa]\nVocê não pode andar nos sonhos dos outros para sempre. Sonhos devem ser noturnos.",
         "es-ES": "[Papisa]\nNo puedes andar en los sueños de los demás para siempre. Los sueños deben ser nocturnos."
     },
     "cnBkCA": {
-        "ko-KR": "[교황]\n낮에 나온 달은 숨을 수도, 숨길 수가 없어.",
         "en-US": "[Pope]\nThe moon hanging in the midday sky cannot hide or be hidden.",
         "pt-BR": "[Papisa]\nA lua que aparece durante o dia não pode ser escondida.",
         "es-ES": "[Papisa]\nLa luna que aparece durante el día no puede esconderse."
     },
     "c3BkCA": {
-        "ko-KR": "[교황]\n너는, 너는 누구야?",
         "en-US": "[Pope]\nYou, who are you?",
         "pt-BR": "[Papisa]\nQuem é você?",
         "es-ES": "[Papisa]\n¿Quién eres tú?"
     },
     "dHBkCA": {
-        "ko-KR": "너는, 너는 누구야?",
         "en-US": "You, who are you?",
         "pt-BR": "Quem é você?",
         "es-ES": "¿Quién eres tú?"
     },
     "dXBkCA": {
-        "ko-KR": "[교황]\n넌, 그 질문에 대답할 수 있어? 넌, 누구지?",
         "en-US": "[Pope]\nCan you answer to that question? Who are you?",
         "pt-BR": "[Papisa]\nEu que pergunto. Quem é você?",
         "es-ES": "[Papisa]\nYo pregunto. ¿Quién eres tú?"
     },
     "dnBkCA": {
-        "ko-KR": "넌, 누구지?",
         "en-US": "Who are you?",
         "pt-BR": "Eu que pergunto. Quem é você?",
         "es-ES": "Yo pregunto. ¿Quién eres tú?"
     },
     "d3BkCA": {
-        "ko-KR": "[교황]\n난... 나는...",
         "en-US": "[Pope]\nI... I'm...",
         "pt-BR": "[Papisa]\nEu... Eu...",
         "es-ES": "[Papisa]\nYo... Yo..."
     },
     "eHBkCA": {
-        "ko-KR": "[교황]\n넌 이미 답을 알고 있어.",
         "en-US": "[Pope]\nYou already know the answer.",
         "pt-BR": "[Papisa]\nVocê já sabe a resposta.",
         "es-ES": "[Papisa]\nTú ya sabes la respuesta."
     },
     "eXBkCA": {
-        "ko-KR": "[교황]\n답 같은 건 몰라...나는, 오빠와 함께 있을 거야. 여기서.",
         "en-US": "[Pope]\nI don't know the answer... I'm staying with my brother. Right here.",
         "pt-BR": "[Papisa]\nEu não sei... eu quero ficar com meu irmão. Aqui.",
         "es-ES": "[Papisa]\nNo sé... quiero estar con mi hermano. Aquí."
     },
     "enBkCA": {
-        "ko-KR": "...나는, 오빠와 함께 있을 거야. 여기서.",
         "en-US": "I'm staying with my brother. Right here.",
         "pt-BR": "...Quero ficar com meu irmão. Aqui.",
         "es-ES": "...Quiero estar con mi hermano. Aquí."
     },
     "e3BkCA": {
-        "ko-KR": "[교황]\n오빠와 늘 함께 있고 싶었지.",
         "en-US": "[Pope]\nI wanted to be with my brother always.",
         "pt-BR": "[Papisa]\nEu também quero ficar ao lado do meu irmão.",
         "es-ES": "[Papisa]\nYo también quiero estar al lado de mi hermano."
     },
     "fHBkCA": {
-        "ko-KR": "오빠와 늘 함께 있고 싶었지.",
         "en-US": "I wanted to be with my brother always.",
         "pt-BR": "Eu também quero ficar ao lado do meu irmão.",
         "es-ES": "Yo también quiero estar al lado de mi hermano."
     },
     "fXBkCA": {
-        "ko-KR": "[교황]\n엄마, 아빠는 우리를 보내고 싶지 않았을 거야. 우릴 버렸을리 없어.",
         "en-US": "[Pope]\nMom and dad must have not wanted to let us go. They couldn't have abandoned us.",
         "pt-BR": "[Papisa]\nNossos pais queriam nos dar. Nos abandonaram.",
         "es-ES": "[Papisa]\nNuestros padres querían darnos. Nos abandonaron."
     },
     "fnBkCA": {
-        "ko-KR": "엄마, 아빠는 우리를 보내고 싶지 않았을 거야. 우릴 버렸을리 없어.",
         "en-US": "Mom and dad must have not wanted to let us go. They couldn't have abandoned us.",
         "pt-BR": "Nossos pais queriam nos dar. Nos abandonaram.",
         "es-ES": "Nuestros padres querían darnos. Nos abandonaron."
     },
     "f3BkCA": {
-        "ko-KR": "[교황]\n우리는 엄마, 아빠에게 영광이었어.",
         "en-US": "[Pope]\nThey praised and honored us.",
         "pt-BR": "[Papisa]\nFomos uma honra para os nossos pais.",
         "es-ES": "[Papisa]\nFuimos un honor para nuestros padres."
     },
     "gHBkCA": {
-        "ko-KR": "우리는 엄마, 아빠에게 영광이었어.",
         "en-US": "They praised and honored us.",
         "pt-BR": "Fomos uma honra para os nossos pais.",
         "es-ES": "Fuimos un honor para nuestros padres."
     },
     "gXBkCA": {
-        "ko-KR": "[교황]\n누구도 날 원하지 않아.",
         "en-US": "[Pope]\nNo one wants me.",
         "pt-BR": "[Papisa]\nNinguém me queria.",
         "es-ES": "[Papisa]\nNadie me quería."
     },
     "gnBkCA": {
-        "ko-KR": "누구도 날 원하지 않아.",
         "en-US": "No one wants me.",
         "pt-BR": "Ninguém me queria.",
         "es-ES": "Nadie me quería."
     },
     "g3BkCA": {
-        "ko-KR": "[교황]\n모두들 널 기다려.",
         "en-US": "[Pope]\nEveryone is waiting for you.",
         "pt-BR": "[Papisa]\nTodos estão à sua espera.",
         "es-ES": "[Papisa]\nTodos te están esperando."
     },
     "hHBkCA": {
-        "ko-KR": "모두들 널 기다려.",
         "en-US": "Everyone is waiting for you.",
         "pt-BR": "Todos estão à sua espera.",
         "es-ES": "Todos te están esperando."
     },
     "hXBkCA": {
-        "ko-KR": "[교황]\n내가 한 선택이 아니야, 이런건 원한적 없어.",
         "en-US": "[Pope]\nIt wasn't my choice, I've never wanted this.",
         "pt-BR": "[Papisa]\nNão foi escolha minha! Eu nunca pedi por isso.",
         "es-ES": "[Papisa]\n¡No fue mi elección! Yo nunca pedí esto."
     },
     "hnBkCA": {
-        "ko-KR": "내가 한 선택이 아니야, 이런건 원한적 없어.",
         "en-US": "It wasn't my choice, I've never wanted this.",
         "pt-BR": "Não foi escolha minha! Eu nunca pedi por isso.",
         "es-ES": "¡No fue mi elección! Yo nunca pedí esto."
     },
     "h3BkCA": {
-        "ko-KR": "[교황]\n원하는 것을 선택할 수 있는 삶은 축복이지.",
         "en-US": "[Pope]\nYou live a blessed life if you can choose what you want.",
         "pt-BR": "[Papisa]\nA bênção da vida é algo que você não escolhe.",
         "es-ES": "[Papisa]\nLa bendición de la vida es algo que no eliges."
     },
     "iHBkCA": {
-        "ko-KR": "원하는 것을 선택할 수 있는 삶은 축복이지.",
         "en-US": "You live a blessed life if you can choose what you want.",
         "pt-BR": "A bênção da vida é algo que você não escolhe.",
         "es-ES": "La bendición de la vida es algo que no eliges."
     },
     "iXBkCA": {
-        "ko-KR": "[교황]\n나에겐 기회조차 없었어.",
         "en-US": "[Pope]\nI didn't even have a chance to.",
         "pt-BR": "[Papisa]\nNão escolhi nascer... não queria isso.",
         "es-ES": "[Papisa]\nNo elegí nacer... no quería esto."
     },
     "inBkCA": {
-        "ko-KR": "나에겐 기회조차 없었어.",
         "en-US": "I didn't even have a chance to.",
         "pt-BR": "Não escolhi nascer... não queria isso.",
         "es-ES": "No elegí nacer... no quería esto."
     },
     "i3BkCA": {
-        "ko-KR": "[교황]\n너는 축복을 줄 수 있는 사람이자 기회를 줄 수 있는 사람. 어둠 속의 달과 같은 존재.",
         "en-US": "[Pope]\nYou are someone who can give blessings and chances. The moon rising in the darkness.",
         "pt-BR": "[Papisa]\nVocê foi escolhida para ter oportunidades. Você é como a lua na escuridão.",
         "es-ES": "[Papisa]\nTú fuiste elegida para tener oportunidades. Eres como la luna en la oscuridad."
     },
     "jHBkCA": {
-        "ko-KR": "너는 축복을 줄 수 있는 사람이자 기회를 줄 수 있는 사람. 어둠 속의 달과 같은 존재.",
         "en-US": "You are someone who can give blessings and chances. The moon rising in the darkness.",
         "pt-BR": "Você foi escolhida para ter oportunidades. Você é como a lua na escuridão.",
         "es-ES": "Tú fuiste elegida para tener oportunidades. Eres como la luna en la oscuridad."
     },
     "jXBkCA": {
-        "ko-KR": "[교황]\n나는, 나는...",
         "en-US": "[Pope]\nI, I'm...",
         "pt-BR": "[Papisa]\nEu... Eu...",
         "es-ES": "[Papisa]\nYo... Yo..."
     },
     "jnBkCA": {
-        "ko-KR": "[교황]\n넌, 누구지?",
         "en-US": "[Pope]\nWho are you?",
         "pt-BR": "[Papisa]\nMe diga, quem é você?",
         "es-ES": "[Papisa]\nDime, ¿quién eres tú?"
     },
     "j3BkCA": {
-        "ko-KR": "[교황]\n나는 아루나펠츠의 교황.",
         "en-US": "[Pope]\nI am the Pope of Arunafeltz.",
         "pt-BR": "[Papisa]\nEu sou a Papisa de Arunafeltz.",
         "es-ES": "[Papisa]\nYo soy la Papisa de Arunafeltz."
     },
     "kHBkCA": {
-        "ko-KR": "나는 아루나펠츠의 교황.",
         "en-US": "I am the Pope of Arunafeltz.",
         "pt-BR": "Eu sou a Papisa de Arunafeltz.",
         "es-ES": "Yo soy la Papisa de Arunafeltz."
     },
     "kXBkCA": {
-        "ko-KR": "[교황]\n너는 나.",
         "en-US": "[Pope]\nYou are me.",
         "pt-BR": "[Papisa]\nEu sou você.",
         "es-ES": "[Papisa]\nYo soy tú."
     },
     "knBkCA": {
-        "ko-KR": "너는 나.",
         "en-US": "You are me.",
         "pt-BR": "Eu sou você.",
         "es-ES": "Yo soy tú."
     },
     "k3BkCA": {
-        "ko-KR": "[교황]\n나는 너.",
         "en-US": "[Pope]\nI am you.",
         "pt-BR": "[Papisa]\nVocê sou eu.",
         "es-ES": "[Papisa]\nTú eres yo."
     },
     "lHBkCA": {
-        "ko-KR": "나는 너.",
         "en-US": "I am you.",
         "pt-BR": "Você sou eu.",
         "es-ES": "Tú eres yo."
     },
     "lXBkCA": {
-        "ko-KR": "[{0}]\n괜찮으십니까?",
         "en-US": "[{0}]\nAre you alright?",
         "pt-BR": "[{0}]\nVocê está bem?",
         "es-ES": "[{0}]\n¿Estás bien?"
     },
     "lnBkCA": {
-        "ko-KR": "[교황]\n내가 나를 부정하면 내 자신은 스러져. 마치 기우는 달처럼.",
         "en-US": "[Pope]\nIf I deny myself, I'll lose myself. Like a waning moon.",
         "pt-BR": "[Papisa]\nSe eu negar quem eu sou, eu desabo. Como a Lua Nova.",
         "es-ES": "[Papisa]\nSi niego quién soy, me derrumbo. Como la Luna Nueva."
     },
     "l3BkCA": {
-        "ko-KR": "[교황]\n세상에서 나를 가장 사랑해야 할 사람은 바로 나.",
         "en-US": "[Pope]\nI am the one who needs to love myself the most in this world.",
         "pt-BR": "[Papisa]\nEu sou a única pessoa do mundo quem mais deveria me amar.",
         "es-ES": "[Papisa]\nSoy la única persona en el mundo que más debería amarme a mí misma."
     },
     "mHBkCA": {
-        "ko-KR": "[교황]\n이젠 이 꿈에서 깨야 할 때야.",
         "en-US": "[Pope]\nIt's time to wake up from this dream.",
         "pt-BR": "[Papisa]\nEstá na hora de acordar desse sonho.",
         "es-ES": "[Papisa]\nEs hora de despertar de este sueño."
     },
     "mXBkCA": {
-        "ko-KR": "[{0}]\n꿈은 어떠셨습니까?",
         "en-US": "[{0}]\nHow was your dream?",
         "pt-BR": "[{0}]\nComo foi seu sonho?",
         "es-ES": "[{0}]\n¿Cómo estuvo tu sueño?"
     },
     "mnBkCA": {
-        "ko-KR": "[교황]\n즐거운 순간도, 잊고 싶지 않은 순간도 깨어나면 모두 잊어버릴 꿈이야. 그래서 더 없이 행복한 꿈도, 지독한 악몽도 견딜 수가 있어.",
         "en-US": "[Pope]\nThere were joyful moments and the moments I want to hold on to. But they'll be all gone once I wake up. So I could savor the happy dreams and endure the terrible nightmares.",
         "pt-BR": "[Papisa]\nFoi um sonho para esquecer ao acordar, mesmo com momentos inesquecíveis.",
         "es-ES": "[Papisa]\nFue un sueño para olvidar al despertar, aunque con momentos inolvidables."
     },
     "m3BkCA": {
-        "ko-KR": "[교황]\n... 하지만 이렇게라도 오빠를 만날 수 있어서 좋았어.",
         "en-US": "[Pope]\n... But it was good to see Luwmin even in dreams like this.",
         "pt-BR": "[Papisa]\n... Mas ainda assim, foi legal conhecer meu irmão.",
         "es-ES": "[Papisa]\n... Pero aún así, fue bueno conocer a mi hermano."
     },
     "nHBkCA": {
-        "ko-KR": "[교황]\n우리는 오래도록 떨어져 있었거든.",
         "en-US": "[Pope]\nWe've been apart for so long.",
         "pt-BR": "[Papisa]\nNós estamos longe há tanto tempo.",
         "es-ES": "[Papisa]\nHemos estado separados tanto tiempo."
     },
     "nXBkCA": {
-        "ko-KR": "[교황]\n이렇게라도 만날 수 있다면 매일매일 꿈 꾸고 싶어. 언젠간, 오빠를 구하고 싶어.",
         "en-US": "[Pope]\nI'd like to have the same dreams every night if I can see him in there. Some day, I want to save him.",
         "pt-BR": "[Papisa]\nSe nos encontrarmos sempre aqui, quero sonhar toda a noite. Desejo salvar meu irmão algum dia.",
         "es-ES": "[Papisa]\nSi nos encontramos siempre aquí, quiero soñar todas las noches. Deseo salvar a mi hermano algún día."
     },
     "nnBkCA": {
-        "ko-KR": "구할 수 있다면...",
         "en-US": "Only if I can save him...",
         "pt-BR": "Algum dia...",
         "es-ES": "Algún día..."
     },
     "n3BkCA": {
-        "ko-KR": "[{0}]\n하지만,",
         "en-US": "[{0}]\nBut...",
         "pt-BR": "[{0}]\nMas...",
         "es-ES": "[{0}]\nPero..."
     },
     "oHBkCA": {
-        "ko-KR": "[교황]\n걱정할 일은 하지 않아. 이제 억지로 잠에 들려 하지도 않을 거야.",
         "en-US": "[Pope]\nI won't make anyone worried again. I won't try to run away to slumber either.",
         "pt-BR": "[Papisa]\nNão se preocupe, não serei forçada a dormir novamente.",
         "es-ES": "[Papisa]\nNo te preocupes, no seré obligada a dormir de nuevo."
     },
     "oXBkCA": {
-        "ko-KR": "[교황]\n그래도 나는... 아마도 매일매일 같은 꿈을 꾸겠지.",
         "en-US": "[Pope]\nBut still, I... I will have the same dream every night.",
         "pt-BR": "[Papisa]\nMas... talvez eu tenha o mesmo sonho todas as noites.",
         "es-ES": "[Papisa]\nPero... tal vez tenga el mismo sueño todas las noches."
     },
     "onBkCA": {
-        "ko-KR": "[교황]\n오빠와 함께 하면서 오빠를 구하는 꿈을.",
         "en-US": "[Pope]\nI'll be at his side and try to save him.",
         "pt-BR": "[Papisa]\nAssim, posso sonhar com meu irmão e salvá-lo.",
         "es-ES": "[Papisa]\nAsí podré soñar con mi hermano y salvarlo."
     },
     "o3BkCA": {
-        "ko-KR": "[{0}]\n앞으로 제가 함께 하겠습니다.",
         "en-US": "[{0}]\nI will be with you from now on.",
         "pt-BR": "[{0}]\nEstarei com você nessa.",
         "es-ES": "[{0}]\nEstaré contigo en eso."
     },
     "pHBkCA": {
-        "ko-KR": "[교황]\n고마워.",
         "en-US": "[Pope]\nThank you.",
         "pt-BR": "[Papisa]\nObrigada.",
         "es-ES": "[Papisa]\nGracias."
     },
     "pXBkCA": {
-        "ko-KR": "[교황]\n낮에 나온 반달은 기다려야 해.",
         "en-US": "[Pope]\nThe half-moon that hangs in the midday sky must wait.",
         "pt-BR": "[Papisa]\nEu devo aguardar a Lua em Quarto Crescente que aparece de dia.",
         "es-ES": "[Papisa]\nDebo esperar a la Luna Cuarto Creciente que aparece de día."
     },
     "pnBkCA": {
-        "ko-KR": "[교황]\n밤이 될 때까지, 달이 찰 때까지.",
         "en-US": "[Pope]\nUntil the night falls, until it grows full.",
         "pt-BR": "[Papisa]\nAté as noites de Lua Cheia.",
         "es-ES": "[Papisa]\nHasta las noches de Luna Llena."
     },
     "p3BkCA": {
-        "ko-KR": "[{0}]\n참, 오다가 이 인형을 찾았습니다.",
         "en-US": "[{0}]\nAh, I found this doll on my way here.",
         "pt-BR": "[{0}]\nAh, eu encontrei essa boneca no caminho.",
         "es-ES": "[{0}]\nAh, encontré esta muñeca en el camino."
     },
     "qHBkCA": {
-        "ko-KR": "[교황]\n틸비!",
         "en-US": "[Pope]\nTilbie!",
         "pt-BR": "[Papisa]\nTilbi!",
         "es-ES": "[Papisa]\n¡Tilbi!"
     },
     "qXBkCA": {
-        "ko-KR": "[{0}]\n역시 교황님이 잃어버린 인형이 맞았군요.",
         "en-US": "[{0}]\nSo it was the doll you've lost.",
         "pt-BR": "[{0}]\nAcho que é a boneca que a Papisa perdeu.",
         "es-ES": "[{0}]\nCreo que es la muñeca que la Papisa perdió."
     },
     "qnBkCA": {
-        "ko-KR": "[교황]\n오빠가 없어지고 나서 슬퍼하는 나에게 니르엔이 준 거야.",
         "en-US": "[Pope]\nNiruen gave it to me when I was in despair after Luwmin's disappearance.",
         "pt-BR": "[Papisa]\nQuando eu estava triste pelo sumiço do meu irmão, Niren me deu essa boneca.",
         "es-ES": "[Papisa]\nCuando estaba triste por la desaparición de mi hermano, Niren me dio esta muñeca."
     },
     "q3BkCA": {
-        "ko-KR": "[교황]\n이제 나는 필요 없으니까 오빠 옆에 둘래. 외롭지 않게.",
         "en-US": "[Pope]\nI don't need it anymore. I'll leave it next to Luwmin. So that he won't be lonely.",
         "pt-BR": "[Papisa]\nAgora que tenho meu irmão, não me sinto mais sozinha. Pode ficar.",
         "es-ES": "[Papisa]\nAhora que tengo a mi hermano, ya no me siento sola. Puedes quedártela."
     },
     "rHBkCA": {
-        "ko-KR": "[교황]\n내가 있어야 할 곳으로 돌아 갈래.",
         "en-US": "[Pope]\nI'm going back where I should be.",
         "pt-BR": "[Papisa]\nDesejo voltar ao meu lugar.",
         "es-ES": "[Papisa]\nDeseo volver a mi lugar."
     },
     "rXBkCA": {
-        "ko-KR": "[{0}]\n그럼, 내일 또 뵙겠습니다.",
         "en-US": "[{0}]\nThen, I'll see you tomorrow.",
         "pt-BR": "[{0}]\nBom, vejo você amanhã.",
         "es-ES": "[{0}]\nBueno, te veo mañana."
     },
     "rnBkCA": {
-        "ko-KR": "[교황]\n도와줘서 고마워.",
         "en-US": "[Pope]\nThank you for helping me.",
         "pt-BR": "[Papisa]\nObrigada pela ajuda, viajante.",
         "es-ES": "[Papisa]\nGracias por tu ayuda, aventurero."
     },
     "r3BkCA": {
-        "ko-KR": "혼자는... 싫어... 외롭고... 추워...",
         "en-US": "I don't... Want to be alone... It's lonely... And cold...",
         "pt-BR": "Sozinho... não... frio...",
         "es-ES": "Solo... no... frío..."
     },
     "sHBkCA": {
-        "ko-KR": "크툴라낙스",
         "en-US": "Ktullanux",
         "pt-BR": "Ktullanux",
         "es-ES": "Ktullanux"
     },
     "sXBkCA": {
-        "ko-KR": "못난 인간 녀석. 별 기대도 안했지만 정말로 하찮군. 내가 나설 수 밖에.",
         "en-US": "A fool of a human. I've never had high expectations, but how pathetic. I'll have to do it myself.",
         "pt-BR": "Humano terrível. Você é insignificante, não esperava ter que aparecer.",
         "es-ES": "Humano terrible. Eres insignificante, no esperaba tener que aparecer."
     },
     "snBkCA": {
-        "ko-KR": "[?????]\n하찮은 인간 주제에 제법이구나.",
         "en-US": "[?????]\nNot bad for a lowly human.",
         "pt-BR": "[?????]\nConversas humanas são tão triviais.",
         "es-ES": "[?????]\nLas conversaciones humanas son tan triviales."
     },
     "s3BkCA": {
-        "ko-KR": "[교황]\n당신은 누구?",
         "en-US": "[Pope]\nWho are you?",
         "pt-BR": "[Papisa]\nMe diga, quem é você?",
         "es-ES": "[Papisa]\nDime, ¿quién eres tú?"
     },
     "tHBkCA": {
-        "ko-KR": "[크툴라낙스]\n이 몸은 크툴라낙스. 얼음 동굴의 주인이다.",
         "en-US": "[Ktullanux]\nI am Ktullanux. The master of this cave.",
         "pt-BR": "[Ktullanux]\nVocê não sabe quem eu sou? Eu sou Ktullanux, dono da Caverna de Gelo.",
         "es-ES": "[Ktullanux]\n¿No sabes quién soy? Soy Ktullanux, dueño de la Cueva de Hielo."
     },
     "tXBkCA": {
-        "ko-KR": "이 몸을 몰라 보다니.",
         "en-US": "How dare you not recognize me.",
         "pt-BR": "Eu sou Ktullanux.",
         "es-ES": "Soy Ktullanux."
     },
     "tnBkCA": {
-        "ko-KR": "모두가 자신을 알아 볼거라 생각하다니, 오만하군.",
         "en-US": "How arrogant to expect everyone to recognize you.",
         "pt-BR": "Mas é muita arrogância achar que todo mundo te conhece.",
         "es-ES": "Pero es mucha arrogancia creer que todos te conocen."
     },
     "t3BkCA": {
-        "ko-KR": "[{0}]\n얼음동굴의 주인이 왜 이곳에 있지? 이곳은 교황님과 루우민의 꿈이 아니었나?",
         "en-US": "[{0}]\nWhy is the master of Ice Cave here? Wasn't this the Pope and Luwmin's dream?",
         "pt-BR": "[{0}]\nO que o dono da Caverna de Gelo faz aqui? Não é um sonho da Papisa e do Loomin?",
         "es-ES": "[{0}]\n¿Qué hace aquí el dueño de la Cueva de Hielo? ¿No es un sueño de la Papisa y Loomin?"
     },
     "uHBkCA": {
-        "ko-KR": "[크툴라낙스]\n아무리 쌍둥이라고 해도 꿈까지 공유할 수는 없는 법이지. 꿈을 연결하기 위해서는 힘이 필요하다.",
         "en-US": "[Ktullanux]\nEven twins can't share the same dream. They needed my power to bridge their dreams.",
         "pt-BR": "[Ktullanux]\nMesmo sendo gêmeos, eles não compartilham o mesmo sonho. Precisam de magia.",
         "es-ES": "[Ktullanux]\nAunque sean gemelos, no comparten el mismo sueño. Necesitan magia."
     },
     "uXBkCA": {
-        "ko-KR": "단지 쌍둥이라서 꿈을 공유할 수 있다고 믿었다니. 순진하기 짝이 없군.",
         "en-US": "They must have believed that they can share the same dream for being twins. How naive of them.",
         "pt-BR": "Sabe de nada, inocente.",
         "es-ES": "Qué inocentes..."
     },
     "unBkCA": {
-        "ko-KR": "[크툴라낙스]\n한낱 봉인 된 어린애일뿐인 루우민에게 그 힘을 준 것이 누구라고 생각하나?",
         "en-US": "[Ktullanux]\nWho do you think granted that power to Luwmin who is merely an imprisoned child?",
         "pt-BR": "[Ktullanux]\nQuem você acha que deu poderes para um garoto adormecido no gelo?",
         "es-ES": "[Ktullanux]\n¿Quién crees que le dio poderes a un niño dormido en el hielo?"
     },
     "u3BkCA": {
-        "ko-KR": "[교황]\n왜?",
         "en-US": "[Pope]\nWhy?",
         "pt-BR": "[Papisa]\nPor que?",
         "es-ES": "[Papisa]\n¿Por qué?"
     },
     "vHBkCA": {
-        "ko-KR": "왜 오빠에게...",
         "en-US": "Why did you do this to my brother...?",
         "pt-BR": "Por que meu irmão...?",
         "es-ES": "¿Por qué mi hermano...?"
     },
     "vXBkCA": {
-        "ko-KR": "[크툴라낙스]\n가여웠기 때문이다. 루우민이. 그리고 내가.",
         "en-US": "[Ktullanux]\nBecause I took pity. On Luwmin. And on myself as well.",
         "pt-BR": "[Ktullanux]\nPorque a situação é lamentável. Loomin e eu.",
         "es-ES": "[Ktullanux]\nPorque la situación es lamentable. Loomin y yo."
     },
     "vnBkCA": {
-        "ko-KR": "[크툴라낙스]\n자신보다 어린 동생에게 밀려 동굴 깊은 곳에 얼어 붙은 루우민이.",
         "en-US": "[Ktullanux]\nI took pity on Luwmin who ended up frozen deep in a cave, ousted by his younger sister.",
         "pt-BR": "[Ktullanux]\nLoomin, que foi congelado no fundo da caverna por causa de sua irmã.",
         "es-ES": "[Ktullanux]\nLoomin, que fue congelado en el fondo de la cueva por culpa de su hermana."
     },
     "v3BkCA": {
-        "ko-KR": "......",
         "en-US": "......",
         "pt-BR": "......",
         "es-ES": "......"
     },
     "wHBkCA": {
-        "ko-KR": "[크툴라낙스]\n얼음 동굴의 주인임에도 오딘의 불을 들고 위협하는 인간들에게 굴복해서 저 어린 아이를 지켜야만 하는 그 치욕을 당하는 내가!",
         "en-US": "[Ktullanux]\nAnd I took pity on myself, the master of Ice Cave, who had to bend my knees to the humans that threatened me with the Flame of Odin and be the jailer of this young child!",
         "pt-BR": "[Ktullanux]\nE eu, ameaçado de ser queimado pelo fogo de Thor, tive que sucumbir ao desejo dos humanos de proteger uma criancinha!",
         "es-ES": "[Ktullanux]\n¡Y yo, amenazado con ser quemado por el fuego de Thor, tuve que sucumbir al deseo de los humanos de proteger a un niñito!"
     },
     "wXBkCA": {
-        "ko-KR": "[크툴라낙스]\n나는 저 어린 것을 증오하면서도 불쌍히 여겼다. 같은 처지의 인간을!",
         "en-US": "[Ktullanux]\nI hated that young thing and pitied him. A human who is suffering the same fate as I!",
         "pt-BR": "[Ktullanux]\nOdeio esse garoto, mas tive pena! Um ser humano na mesma situação que a minha!",
         "es-ES": "[Ktullanux]\n¡Odiaba a este niño, pero me dio lástima! ¡Un ser humano en la misma situación que yo!"
     },
     "wnBkCA": {
-        "ko-KR": "[크툴라낙스]\n나는 거울을 들여다 보듯 내가 지키고 있는 루우민의 의식을 들여다 보았다.",
         "en-US": "[Ktullanux]\nI looked into Luwmin's mind as if I look into a mirror.",
         "pt-BR": "[Ktullanux]\nE, como olhar para um espelho, observei a consciência de Loomin.",
         "es-ES": "[Ktullanux]\nY, como mirar a un espejo, observé la conciencia de Loomin."
     },
     "w3BkCA": {
-        "ko-KR": "[크툴라낙스]\n혼몽 속에서 저 어린 것은 기억할 수 있는 것들을 기억하며 자신을 잃지 않기 위해 최선을 다했다.",
         "en-US": "[Ktullanux]\nThat youngling struggled to keep himself intact by remembering what he could remember.",
         "pt-BR": "[Ktullanux]\nE em sonhos confusos, esse menino fez o possível para não se perder. Lembrando de várias coisas.",
         "es-ES": "[Ktullanux]\nY en sueños confusos, este niño hizo todo lo posible por no perderse. Recordando varias cosas."
     },
     "xHBkCA": {
-        "ko-KR": "[크툴라낙스]\n그 기억은 주로 쌍둥이 동생과 관련된 것이었다.",
         "en-US": "[Ktullanux]\nAnd those memories were often related to his twin sister.",
         "pt-BR": "[Ktullanux]\nA maioria das lembranças estão relacionadas à irmã gêmea.",
         "es-ES": "[Ktullanux]\nLa mayoría de los recuerdos estaban relacionados con su hermana gemela."
     },
     "xXBkCA": {
-        "ko-KR": "[크툴라낙스]\n동생과 함께 놀던 기억, 동생과 나누었던 대화, 동생과 함께 웃고 울었던 기억, 동생을 지키려 애쓰던 기억, 몸이 얼어가던 그 순간까지도 온통 네 걱정 뿐이었다.",
         "en-US": "[Ktullanux]\nMemories of him playing with his sister, conversations he had with her, all the joys and tears, and his struggles to keep her safe. Even the very moment his body froze, he was worried about you.",
         "pt-BR": "[Ktullanux]\nLembranças de brincadeiras, conversas, risos, lágrimas, acolhimento e até o dia do congelamento.",
         "es-ES": "[Ktullanux]\nRecuerdos de juegos, conversaciones, risas, lágrimas, consuelo y hasta el día de la congelación."
     },
     "xnBkCA": {
-        "ko-KR": "기억의 전부가 동생이었다.",
         "en-US": "All his memories had his sister.",
         "pt-BR": "Ele só lembrava da irmã.",
         "es-ES": "Solo recordaba a su hermana."
     },
     "x3BkCA": {
-        "ko-KR": "[교황]\n오빠가...",
         "en-US": "[Pope]\nLuwmin...",
         "pt-BR": "[Papisa]\nManinho...",
         "es-ES": "[Papisa]\nHermanito..."
     },
     "yHBkCA": {
-        "ko-KR": "[크툴라낙스]\n나는 루우민을 도와주기로 했다. 루우민을 돕는 것이 바로 나를 돕는 길이었다. 이 불쌍한 나를!",
         "en-US": "[Ktullanux]\nI decided to help him. To help him was to help myself. I wanted to save my pitiful self!",
         "pt-BR": "[Ktullanux]\nDecidi ajudar Loomin. Isso me ajudaria também! Pobre garotinho!",
         "es-ES": "[Ktullanux]\nDecidí ayudar a Loomin. ¡Eso también me ayudaría a mí! ¡Pobre niño!"
     },
     "yXBkCA": {
-        "ko-KR": "[크툴라낙스]\n우리 모두 해방 될 방법을 찾아 보았다. 그리고 그것은 어렵지 않았다.",
         "en-US": "[Ktullanux]\nSo I began to look for a way to release both of us. And I found that it wasn't hard.",
         "pt-BR": "[Ktullanux]\nNós procuramos uma forma de nos libertar. E não foi difícil.",
         "es-ES": "[Ktullanux]\nBuscamos una forma de liberarnos. Y no fue difícil."
     },
     "ynBkCA": {
-        "ko-KR": "[크툴라낙스]\n루우민에게 힘을 주어 쌍둥이 동생과 함께 꿈을 공유할 수 있도록 했다.",
         "en-US": "[Ktullanux]\nI gave him power so that he can share his dreams with his twin sister.",
         "pt-BR": "[Ktullanux]\nEu dei poderes para que Loomin pudesse compartilhar seus sonhos com a irmã gêmea.",
         "es-ES": "[Ktullanux]\nLe di poderes a Loomin para que pudiera compartir sus sueños con su hermana gemela."
     },
     "y3BkCA": {
-        "ko-KR": "[크툴라낙스]\n교황의 자리에 앉아 있는 동생이 스스로 영원히 꿈 속에 갇히게 만들도록.",
         "en-US": "[Ktullanux]\nSo that his sister, the Pope, can be trapped in her dreams forever of her own volition.",
         "pt-BR": "[Ktullanux]\nNa esperança que a gêmea, sentada na cadeira da Papisa, fique presa eternamente nesse sonho.",
         "es-ES": "[Ktullanux]\nCon la esperanza de que la gemela, sentada en la silla de la Papisa, quedara atrapada eternamente en este sueño."
     },
     "zHBkCA": {
-        "ko-KR": "[{0}]\n그게 어떻게 널 돕는 건가?",
         "en-US": "[{0}]\nHow could that help you?",
         "pt-BR": "[{0}]\nE como isso te ajuda, Ktullanux?",
         "es-ES": "[{0}]\n¿Y cómo te ayuda eso a ti, Ktullanux?"
     },
     "zXBkCA": {
-        "ko-KR": "[크툴라낙스]\n날 위협했던 인간들이 영원한 잠에 빠져 있는 교황을 가만히 둘 것 같은가? 죽은 것과 다름이 없는 교황 대신 루우민을 봉인에서 풀어 교황의 자리에 앉힐 것이다.",
         "en-US": "[Ktullanux]\nDo you think that the humans will keep the Pope who dwells in her eternal slumber around? Instead of the living corpse, they will release Luwmin from his imprisonment and make him the new Pope.",
         "pt-BR": "[Ktullanux]\nVocê acha que os sacerdotes deixariam a Papisa em sono eterno? Ela estaria praticamente morta.",
         "es-ES": "[Ktullanux]\n¿Crees que los sacerdotes dejarían a la Papisa en sueño eterno? Estaría prácticamente muerta."
     },
     "znBkCA": {
-        "ko-KR": "[크툴라낙스]\n그렇게 된다면,",
         "en-US": "[Ktullanux]\nWhen that happens,",
         "pt-BR": "[Ktullanux]\nEles acordariam Loomin do gelo e o colocariam como novo Papa.",
         "es-ES": "[Ktullanux]\nDespertarían a Loomin del hielo y lo pondrían como nuevo Papa."
     },
     "z3BkCA": {
-        "ko-KR": "[교황]\n그렇게 된다면 오빠도, 당신도 해방 되는 것.",
         "en-US": "[Pope]\nThen Luwmin and you will all be released.",
         "pt-BR": "[Papisa]\nE com isso, você ficaria livre também.",
         "es-ES": "[Papisa]\nY con eso, tú también quedarías libre."
     },
     "0HBkCA": {
-        "ko-KR": "[{0}]\n여기 또 꿈을 꾸는 자가 하나 더 있었군.",
         "en-US": "[{0}]\nHere I see yet another dreamer.",
         "pt-BR": "[{0}]\nFala sério, então temos outro sonhador aqui.",
         "es-ES": "[{0}]\nHablando en serio, entonces tenemos otro soñador aquí."
     },
     "0XBkCA": {
-        "ko-KR": "그것도 이룰 수 없는 꿈을.",
         "en-US": "Dreaming of impossible dreams.",
         "pt-BR": "Você sonhou alto demais.",
         "es-ES": "Soñaste demasiado alto."
     },
     "0nBkCA": {
-        "ko-KR": "무례하다!",
         "en-US": "How insolent!",
         "pt-BR": "Babaca!",
         "es-ES": "¡Idiota!"
     },
     "03BkCA": {
-        "ko-KR": "[크툴라낙스]\n네 녀석이 방해만 하지 않았다면!!!",
         "en-US": "[Ktullanux]\nHow dare you interfere with my plan!!!",
         "pt-BR": "[Ktullanux]\nTeria dado certo se você não tivesse se intrometido!!!",
         "es-ES": "[Ktullanux]\n¡¡¡Habría funcionado si tú no te hubieras entrometido!!!"
     },
     "1HBkCA": {
-        "ko-KR": "[크툴라낙스]\n이참에 둘 다 없애버리고 루우민과 나 모두 해방되겠다!",
         "en-US": "[Ktullanux]\nI will obliterate both of you and release Luwmin and myself!",
         "pt-BR": "[Ktullanux]\nAgora eu prefiro eliminar você e Loomin juntos! E aí serei libertado!",
         "es-ES": "[Ktullanux]\n¡Ahora prefiero eliminar a ti y a Loomin juntos! ¡Y así seré liberado!"
     },
     "1XBkCA": {
-        "ko-KR": "[크툴라낙스]\n교황님, 어서 이쪽으로 오십시오!",
         "en-US": "[Ktullanux]\nYour Holiness, please come this way!",
         "pt-BR": "[Ktullanux]\nPapisa, fique atrás de mim!",
         "es-ES": "[Ktullanux]\n¡Papisa, ponte detrás de mí!"
     },
     "1nBkCA": {
-        "ko-KR": "얌전히 목숨을 내놓는다면 고통 없이 보내주겠다.",
         "en-US": "If you accept your defeat, I will grant you a painless death.",
         "pt-BR": "Se você desistir, a morte não será dolorida.",
         "es-ES": "Si te rindes, la muerte no será dolorosa."
     },
     "13BkCA": {
-        "ko-KR": "크툴라낙스의 환영",
         "en-US": "Ktullanux Illusion",
         "pt-BR": "Espectro de Ktullanux",
         "es-ES": "Ktullanux Ilusorio"
     },
     "2HBkCA": {
-        "ko-KR": "널 쓰러뜨리고 교황을 영원히 이곳에 묶어 두겠다!",
         "en-US": "I will defeat you and bind the Pope here forever!",
         "pt-BR": "Vou matar você e a Papisa!",
         "es-ES": "¡Voy a matarte a ti y a la Papisa!"
     },
     "2XBkCA": {
-        "ko-KR": "나와 루우민은 자유를 얻을 것이다!!!",
         "en-US": "Luwmin and I will be free!!!",
         "pt-BR": "Eu e Loomin seremos livres!!!",
         "es-ES": "¡¡¡Loomin y yo seremos libres!!!"
     },
     "2nBkCA": {
-        "ko-KR": "크흣... 이 몸이 한낱 인간에게 당하다니...!!! 이런 치욕이...!!!",
         "en-US": "Damn you... To be defeated by a meager human...!!! What a humiliation...!!!",
         "pt-BR": "Não... minha ilusão foi atingida...!!! Que vergonha...!!!",
         "es-ES": "No... ¡¡¡Mi ilusión fue golpeada!!! ¡Qué vergüenza!"

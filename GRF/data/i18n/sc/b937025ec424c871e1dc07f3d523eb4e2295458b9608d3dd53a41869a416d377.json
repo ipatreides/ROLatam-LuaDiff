@@ -1,2322 +1,1935 @@
 {
     "IPa0Bw": {
-        "ko-KR": "엘레나 볼코바",
         "en-US": "Elena Volkova",
         "pt-BR": "Elena Bolkova",
         "es-ES": "Elena Bolkova"
     },
     "Ifa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n왔나, {0}.\n아직 수색중이니 너무 깊이 들어가지는 마라. 뭐가 숨어 있는지 모르니 조심해.",
         "en-US": "[Elena Volkova]\nYou're here, {0}.\nWe're still searching, so don't go too far in. Be careful—you never know what might be hiding.",
         "pt-BR": "[Elena Bolkova]\nCuidado, {0}.\nNão vá muito fundo, pois ainda estamos investigando. Não sabemos o que nos espera.",
         "es-ES": "[Elena Bolkova]\nCuidado, {0}.\nNo te adentres demasiado, todavía estamos investigando. No sabemos qué nos espera."
     },
     "Iva0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n왔나, 모험가. 널 찾은 이유는 들었지?\n아까 난동을 부리고 도망친 연구원 말이지. 수색은 보다시피 난항이다. 쥐새끼처럼 잘도 도망쳐 다니는군…",
         "en-US": "[Elena Volkova]\nYou're here, adventurer. I assume you've heard why I was looking for you?\nIt's about that Researcher who caused a commotion earlier and ran off. As you can see, the search isn't going well. They're scurrying around and hiding like a rat...",
         "pt-BR": "[Elena Bolkova]\nVocê sabe o motivo de eu ter te chamado?\nÉ porque aquela cientista agressiva fugiu. Ela é mais rápida que uma barata...",
         "es-ES": "[Elena Bolkova]\n¿Sabes por qué te llamé?\nEs porque esa científica agresiva escapó. Es más rápida que una cucaracha..."
     },
     "I/a0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n윽, 이건 또 뭐야?",
         "en-US": "[Elena Volkova]\nUgh, what is this now?",
         "pt-BR": "[Elena Bolkova]\nUgh, o que foi isso?",
         "es-ES": "[Elena Bolkova]\nUgh, ¿qué fue eso?"
     },
     "JPa0Bw": {
-        "ko-KR": "[리벨리온]\n대장, 시설 부근에 또 폭발이!\n그 ^0000CD엘류미나^000000라는 연구원이 작동시킨 듯합니다! 곧바로 쫓도록 하겠습니다!",
         "en-US": "[Rebellion]\nBoss, there's been another explosion near the facility!\nIt seems that Researcher called ^0000CDEliumina^000000 set it off! I'll pursue them immediately!",
         "pt-BR": "[Insurgente]\nComandante, outra explosão perto da instalação!\nDeve ter sido ^0000CDElyumina^000000! Vamos para lá imediatamente!",
         "es-ES": "[Rebelde]\n¡Comandante, otra explosión cerca de la instalación!\n¡Debe haber sido ^0000CDElyumina^000000! ¡Vamos allá de inmediato!"
     },
     "Jfa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n그 녀석, 전면전은 역시 무리라고 생각한 건가. 게릴라전으로 나서는군.\n바로 가지. {0}, 너도 따라와라. <NAVI>[이쪽]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>이다!",
         "en-US": "[Elena Volkova]\nSo, he must have realized that a frontal assault would be impossible. He's resorting to guerrilla tactics.\nLet's go right away. {0}, you come with me too. <NAVI>[This way]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>!",
         "pt-BR": "[Elena Bolkova]\nAquela cientista conhece muito bem as táticas de guerrilha.\nVem comigo, {0}, venha <NAVI>[por aqui]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>!",
         "es-ES": "[Elena Bolkova]\nEsa científica conoce muy bien las tácticas de guerrilla.\nVen conmigo, {0}, ven <NAVI>[por aquí]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>!"
     },
     "Jva0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n풀어 기른 짐승은 딱 질색이다.\n길들이려면 제대로 목줄을 채워 놔야지. 그렇지 않아?",
         "en-US": "[Elena Volkova]\nI can't stand animals that are raised without restraint.\nIf you're going to tame them, you should put a proper leash on them. Don't you think?",
         "pt-BR": "[Elena Bolkova]\nEu odeio animais agressivos.\nPara domá-los, você precisa amarrá-los bem firme, certo?",
         "es-ES": "[Elena Bolkova]\nOdio a los animales agresivos.\nPara domarlos, hay que atarlos bien fuerte, ¿no?"
     },
     "J/a0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n시설 부근에 폭발이 일어났다. 범인은 이곳의 연구원, 엘류미나다.\n이번에야말로 생포해야 하니 <NAVI>[이쪽]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>으로 따라와!",
         "en-US": "[Elena Volkova]\nThere was an explosion near the facility. The culprit is the Researcher, Eliumina from this place.\nThis time, we must capture them alive, so follow me to <NAVI>[this way]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>!",
         "pt-BR": "[Elena Bolkova]\nHouve uma explosão perto da instalação. Só pode ser culpa da Elyumina.\nVenha <NAVI>[por aqui]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>! Nós temos que capturá-la!",
         "es-ES": "[Elena Bolkova]\nHubo una explosión cerca de la instalación. Solo puede ser culpa de Elyumina.\nVen <NAVI>[por aquí]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>! ¡Tenemos que capturarla!"
     },
     "KPa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n풀어 기른 짐승은 딱 질색이다.\n길들이려면 제대로 목줄을 채워 놔야지. 안 그래?",
         "en-US": "[Elena Volkova]\nI can't stand animals that have been raised wild.\nIf you're going to tame them, you should put a proper leash on them. Don't you think?",
         "pt-BR": "[Elena Bolkova]\nEu odeio animais agressivos.\nPara domá-los, você precisa amarrá-los bem firme, certo?",
         "es-ES": "[Elena Bolkova]\nOdio a los animales agresivos.\nPara domarlos, hay que atarlos bien fuerte, ¿no?"
     },
     "Kfa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n음? 모험가. 혼자서 너무 휘젓고 다니지 마라. 나는 네 실력을 알지만, 다른 녀석들은 불안해한다고.",
         "en-US": "[Elena Volkova]\nHm? Adventurer. Don't go wandering around too much on your own. I know what you're capable of, but the others get uneasy.",
         "pt-BR": "[Elena Bolkova]\nViajante, não faça tudo sem ajuda. Confio no seu talento, mas outros membros não.",
         "es-ES": "[Elena Bolkova]\nTrotamundos, no hagas todo sin apoyo. Confío en tu talento, pero los demás no."
     },
     "Kva0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n이곳에 있던 자들의 잔당이나 남겨두고 간 장치 같은 게 있을지도 모르니 되도록 조사가 끝난 지역에서 다른 녀석들과 함께 있어.",
         "en-US": "[Elena Volkova]\nThere might still be remnants of those who were here or devices they left behind, so stay with the others in areas that have already been investigated as much as possible.",
         "pt-BR": "[Elena Bolkova]\nAlguns experimentos podem ter ficado para trás. Então, fique com os outros insurgentes na área onde a investigação foi concluída.",
         "es-ES": "[Elena Bolkova]\nPuede que algunos experimentos hayan quedado atrás. Quédate con los otros insurgentes en el área donde terminó la investigación."
     },
     "K/a0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n나? 나는 왜 혼자 있냐고? 나 걱정하는 거냐? 하하하!",
         "en-US": "[Elena Volkova]\nMe? Are you asking why I'm alone? Are you worried about me? Hahaha!",
         "pt-BR": "[Elena Bolkova]\nE quanto à mim? Por que estou sozinha? Você se preocupa comigo? Hahaha!",
         "es-ES": "[Elena Bolkova]\n¿Y yo qué? ¿Por qué estoy sola? ¿Te preocupas por mí? ¡Jajaja!"
     },
     "LPa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n조금 늦었군. 뭐, 우리도 늦었다만.\n엘류미나는 놓쳤다. 전투는 영 어설프더니 치고 빠지는 솜씨가 아주 일품이야. 빌어먹을!",
         "en-US": "[Elena Volkova]\nYou're a bit late. Well, so are we.\nWe lost Eliumina. She was clumsy in battle, but her hit-and-run tactics are top-notch. Damn it!",
         "pt-BR": "[Elena Bolkova]\nNós nos atrasamos.\nPerdemos Elyumina. Ela pode não ser boa de briga, mas é uma ótima fujona!",
         "es-ES": "[Elena Bolkova]\nLlegamos tarde.\nPerdimos a Elyumina. Puede que no sea buena peleando, ¡pero sí escapando!"
     },
     "Lfa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n저 자식을 붙잡아 매 놓지 않으면 수색도 복구도 제대로 돌아가질 않겠어.",
         "en-US": "[Elena Volkova]\nIf we don't tie that guy down, neither the search nor the restoration will go smoothly.",
         "pt-BR": "[Elena Bolkova]\nNão vamos conseguir reocupar esse distrito sem capturar Elyumina primeiro.",
         "es-ES": "[Elena Bolkova]\nNo podremos recuperar este distrito sin capturar a Elyumina primero."
     },
     "Lva0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n리벨리온 대장들끼리 토의한 결과, 지역 전체를 소개하고 리벨리온 정예 부대를 투입해 수색하기로 했다.",
         "en-US": "[Elena Volkova]\nAfter a discussion among the Rebellion leaders, we decided to search the entire area and deploy an elite Rebellion unit for the operation.",
         "pt-BR": "[Elena Bolkova]\nOutros comandantes da Rebelião decidiram evacuar todos os civis desse lugar e ordenar nossas tropas para procurar.",
         "es-ES": "[Elena Bolkova]\nOtros comandantes de la Rebelión decidieron evacuar a todos los civiles de este lugar y ordenar a nuestras tropas que busquen."
     },
     "L/a0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n이미 소개를 시작해서 민간인과 대통령의 아기 병아리들은 퇴각중이다.",
         "en-US": "[Elena Volkova]\nThe introduction has already begun, so the civilians and the president's little chicks are retreating.",
         "pt-BR": "[Elena Bolkova]\nNós já começamos a evacuação, os civis e os caras da 'Mijo Secreto' já estão saindo.",
         "es-ES": "[Elena Bolkova]\nYa comenzamos la evacuación, los civiles y los del 'Pis Secreto' ya están saliendo."
     },
     "MPa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\nUSU와 그 밖의 리벨리온 중에서도 정예 대원만 선발했고, 지휘는 이 몸이 맡는다. 나머지 리벨리온은 코르 전체의 출입구를 봉쇄하고 포위한다.",
         "en-US": "[Elena Volkova]\nOnly the elite members from USU and other Rebellion units have been selected, and I will be in command. The rest of the Rebellion will block and surround all entrances to Core.",
         "pt-BR": "[Elena Bolkova]\nEu irei capitanear minhas tropas da US e os outros Rebeldes. O resto da Rebelião vão bloquear a entrada de COR.",
         "es-ES": "[Elena Bolkova]\nYo lideraré a mis tropas de la US y a los demás rebeldes. El resto de la Rebelión bloqueará la entrada de COR."
     },
     "Mfa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n이 작전에는 물론 지원 온 모험가, 네 전력도 포함이야. 네 실력은 내가 아니까 적극 추천했다. 함께 해 주겠지?",
         "en-US": "[Elena Volkova]\nOf course, this operation also includes the adventurers who came to support us—your strength as well. I know your skills, so I highly recommended you. Will you join us?",
         "pt-BR": "[Elena Bolkova]\nNossa operação conta com você, viajante. Seu talento é inegável. Você gostaria de se juntar a nós?",
         "es-ES": "[Elena Bolkova]\nNuestra operación cuenta contigo, trotamundos. Tu talento es innegable. ¿Te unirías a nosotros?"
     },
     "Mva0Bw": {
-        "ko-KR": "당연하다.",
         "en-US": "Of course.",
         "pt-BR": "É claro.",
         "es-ES": "Claro."
     },
     "M/a0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n좋아!\n이번에는 나를 포함해 단독 행동이 가능한 녀석들만 선별했다. 너도 ^0000CD1인 파티를 맺고^000000 다시 오도록 해.",
         "en-US": "[Elena Volkova]\nAlright!\nThis time, I've selected only those who can operate independently, including myself. You should also ^0000CDform a solo party^000000 and come back.",
         "pt-BR": "[Elena Bolkova]\nExcelente!\nPrecisamos de pessoas que saibam se virar sozinhas. Por isso, ^0000CDfaça grupo com 1 única pessoa^000000, no caso, você.",
         "es-ES": "[Elena Bolkova]\n¡Excelente!\nNecesitamos personas que sepan valerse por sí mismas. Por eso, ^0000CDforma un grupo con una sola persona^000000, es decir, tú."
     },
     "NPa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n풀어 기른 짐승은 딱 질색이야.\n길들이려면 제대로 목줄을 채워 놔야겠지.",
         "en-US": "[Elena Volkova]\nI can't stand animals that have been raised wild.\nIf you're going to tame them, you need to put a proper leash on them.",
         "pt-BR": "[Elena Bolkova]\nEu odeio animais agressivos.\nPara domá-los, você precisa amarrá-los bem firme, certo?",
         "es-ES": "[Elena Bolkova]\nOdio a los animales agresivos.\nPara domarlos, hay que atarlos bien fuerte, ¿no?"
     },
     "Nfa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n어이, 모험가 너, 할 일 다 해놓고 보고하는 걸 까먹으면 어떡하냐. 여러 번 시킬 뻔했잖아.\n보고는 부하 녀석들이 해 줬으니 또 하지는 않아도 된다.",
         "en-US": "[Elena Volkova]\nHey, adventurer, how could you forget to report back after finishing your tasks? I almost had to send you out several times.\nMy subordinates have already given me the report, so you don't need to do it again.",
         "pt-BR": "[Elena Bolkova]\nAh, você já concluiu a missão? Você nem me avisou.\nMas tudo bem, meus subordinados já fizeram o relatório.",
         "es-ES": "[Elena Bolkova]\nAh, ¿ya completaste la misión? Ni siquiera me avisaste.\nPero está bien, mis subordinados ya hicieron el informe."
     },
     "Nva0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n지역 봉쇄가 끝났다. 소개 작업은 막바지다!\n돌입이 머지 않았다. 제군, 준비됐나!",
         "en-US": "[Elena Volkova]\nThe area lockdown has ended. The introduction process is almost complete!\nThe operation will begin soon. Are you ready, everyone?",
         "pt-BR": "[Elena Bolkova]\nEssa área está fechada. Finalizamos a evacuação.\nVamos entrar! Membros da Rebelião, estão comigo?",
         "es-ES": "[Elena Bolkova]\nEsta área está cerrada. Terminamos la evacuación.\n¡Entremos! ¿Miembros de la Rebelión, están conmigo?"
     },
     "N/a0Bw": {
-        "ko-KR": "엘레나 볼코바 : 정보의 열쇠를 쥔 녀석이니 생포하도록 한다.",
         "en-US": "Elena Volkova: Capture them alive, as they hold the key to the information.",
         "pt-BR": "Elena Bolkova: Ela sabe o que fez! Vamos capturá-la!!",
         "es-ES": "Elena Bolkova: ¡Ella sabe lo que hizo! ¡Vamos a capturarla!"
     },
     "OPa0Bw": {
-        "ko-KR": "준비되었습니다!",
         "en-US": "Ready!",
         "pt-BR": "Entendido!",
         "es-ES": "¡Entendido!"
     },
     "Ofa0Bw": {
-        "ko-KR": "……",
         "en-US": "……",
         "pt-BR": "...",
         "es-ES": "..."
     },
     "Ova0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n좋다, 용맹한 리벨리온의 정예 중에서도 특별히 선발된 여러분의 목적은 피아 구분 없이 지역 내를 무차별 공격하는 연구원 놈의 확보다.",
         "en-US": "[Elena Volkova]\nAlright, your mission—as elite members specially selected from among the brave Rebellion—is to secure the Researcher, who is indiscriminately attacking everyone in the area, regardless of friend or foe.",
         "pt-BR": "[Elena Bolkova]\nVocês foram escolhidos por serem os melhores da Rebelião. O objetivo é prender Elyumina!!",
         "es-ES": "[Elena Bolkova]\nFueron elegidos por ser los mejores de la Rebelión. ¡El objetivo es arrestar a Elyumina!"
     },
     "O/a0Bw": {
-        "ko-KR": "엘레나 볼코바 : 어쭈, 기어오른다? 이 빌어먹을 녀석들.",
         "en-US": "Elena Volkova: Oh, trying to crawl up, are you? You damn bastards.",
         "pt-BR": "Elena Bolkova: VÃO PEDIR PRA SAIR??",
         "es-ES": "Elena Bolkova: ¿¿VAN A PEDIR SALIR??"
     },
     "PPa0Bw": {
-        "ko-KR": "띄워 주셔도 뭐…",
         "en-US": "It's fine if you let me go up…",
         "pt-BR": "Não!",
         "es-ES": "¡No!"
     },
     "Pfa0Bw": {
-        "ko-KR": "굴리기 쉬워서 뽑은 거 아닙니까?",
         "en-US": "Didn't you pick it because it's easy to roll?",
         "pt-BR": "N-não, comandante!",
         "es-ES": "¡N-no, comandante!"
     },
     "Pva0Bw": {
-        "ko-KR": "내가 활약할 때가 왔어!",
         "en-US": "It's my time to shine!",
         "pt-BR": "Chegou nossa vez, Ilya!",
         "es-ES": "¡Llegó nuestro turno, Ilya!"
     },
     "P/a0Bw": {
-        "ko-KR": "드디어 우리가 날뛸 때야!",
         "en-US": "It's finally our time to run wild!",
         "pt-BR": "Finalmente, Jana!",
         "es-ES": "¡Por fin, Jana!"
     },
     "QPa0Bw": {
-        "ko-KR": "민망하게 왜 그러세요?",
         "en-US": "Why are you acting so embarrassed?",
         "pt-BR": "Parem de falar, Levedevs!",
         "es-ES": "¡Dejen de hablar, Levedevs!"
     },
     "Qfa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n모험가 너는 '작전 준비'를 선택한 뒤 잠시 기다려.\nMD가 활성화 되면 '작전 돌입'을 선택해. 네 돌입을 신호로 작전을 개시한다.",
         "en-US": "[Elena Volkova]\nAdventurer, after selecting 'Prepare for Operation', wait for a moment.\nOnce the MD is activated, choose 'Commence Operation'. Your entry will signal the start of the mission.",
         "pt-BR": "[Elena Bolkova]\nViajante, primeiro entre na fila.\nQuando você estiver com tudo pronto, dê o sinal para entrar.",
         "es-ES": "[Elena Bolkova]\nTrotamundos, primero entra en la cola.\nCuando esté todo listo, da la señal para entrar."
     },
     "Qva0Bw": {
-        "ko-KR": "^FF0000던전 안에서 몬스터 테이밍 등의 임의의 몬스터 처리를 하실 경우 정상적인 진행으로 간주하지 않습니다. 이 점 유의하시기 바랍니다.^000000",
         "en-US": "If you arbitrarily handle monsters inside the ^FF0000dungeon, such as taming monsters, it will not be considered normal progression. Please keep this in mind.^000000",
         "pt-BR": "^FF0000Não tente domesticar monstros dentro de instâncias. O progresso da missão ficará comprometido.^000000",
         "es-ES": "^FF0000No intentes domesticar monstruos dentro de instancias. El progreso de la misión se verá afectado.^000000"
     },
     "Q/a0Bw": {
-        "ko-KR": "코르 메모리얼",
         "en-US": "Core Memorial",
         "pt-BR": "Memorial COR",
         "es-ES": "Memorial COR"
     },
     "RPa0Bw": {
-        "ko-KR": "작전 준비",
         "en-US": "Mission Preparation",
         "pt-BR": "Criar instância",
         "es-ES": "Crear instancia"
     },
     "Rfa0Bw": {
-        "ko-KR": "작전 돌입",
         "en-US": "Commencing operation.",
         "pt-BR": "Entrar na instância",
         "es-ES": "Entrar en la instancia"
     },
     "Rva0Bw": {
-        "ko-KR": "취소",
         "en-US": "Cancel",
         "pt-BR": "Cancelar",
         "es-ES": "Cancelar"
     },
     "R/a0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n뭔가 잘못된 모양이군. 신청에 실패했다. 잠시 후 다시 시도하고, 같은 반응이 반복된다면 운영팀에 문의하도록.",
         "en-US": "[Elena Volkova]\nSomething seems to have gone wrong. The application has failed. Please try again after a short while, and if the same issue persists, contact the support team.",
         "pt-BR": "[Elena Bolkova]\nAlgo está errado. Por favor, tente novamente depois de um tempo, e se a mesma mensagem se repetir, entre em contato com a administração.",
         "es-ES": "[Elena Bolkova]\nAlgo está mal. Inténtalo de nuevo más tarde y, si el mismo mensaje se repite, contacta con la administración."
     },
     "SPa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n좋아, 잠시 후 MD가 활성화되면 다시 내게 말을 걸어 '^0000CD작전 돌입^000000'을 선택해라. 그것을 신호로 작전을 개시한다.",
         "en-US": "[Elena Volkova]\nAlright, once the MD is activated, talk to me again and select '^0000CDCommence Operation^000000'. That will be the signal to begin the mission.",
         "pt-BR": "[Elena Bolkova]\nAguarde sua posição na fila. Quando tiver tudo ok, selecione '^0000CDEntrar na instância^000000'.",
         "es-ES": "[Elena Bolkova]\nEspera tu turno en la cola. Cuando todo esté listo, selecciona '^0000CDEntrar en la instancia^000000'."
     },
     "Sfa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n잠깐, 다른 모험가를 데려갈 셈이야?\n나는 너를 믿지만 네 전우들의 실력은 아직 몰라. ^0000CD1인 파티^000000로 다시 와라.",
         "en-US": "[Elena Volkova]\nWait, are you planning to bring another adventurer along?\nI trust you, but I don't know the skills of your companions yet. Come back as a ^0000CDsolo party^000000.",
         "pt-BR": "[Elena Bolkova]\nNegativo. Não há espaço para mais de um viajante nessa operação.\nPreciso que ^0000CDsó você^000000 esteja num grupo.",
         "es-ES": "[Elena Bolkova]\nNegativo. No hay espacio para más de un trotamundos en esta operación.\nNecesito que ^0000CDsolo tú^000000 estés en el grupo."
     },
     "Sva0Bw": {
-        "ko-KR": "{0} 파티의 {1} 파티원이 엘류미나 확보 작전에 돌입합니다.",
         "en-US": "The {1} party member of the {0} party is commencing the Eliumina securing operation.",
         "pt-BR": "{1}, do grupo {0}, começou a operação para capturar Elyumina.",
         "es-ES": "{1}, del grupo {0}, inició la operación para capturar a Elyumina."
     },
     "S/a0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n파티장이 던전을 생성하지 않았잖아. 다시 확인해.",
         "en-US": "[Elena Volkova]\nThe party leader hasn't created the dungeon yet. Please check again.",
         "pt-BR": "[Elena Bolkova]\nO líder do grupo não criou a instância. Verifique novamente.",
         "es-ES": "[Elena Bolkova]\nEl líder del grupo no creó la instancia. Verifica de nuevo."
     },
     "TPa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n던전이 생성되지 않았잖아. 다시 확인해.",
         "en-US": "[Elena Volkova]\nThe dungeon hasn't been created. Please check again.",
         "pt-BR": "[Elena Bolkova]\nA instância não foi criada. Verifique novamente.",
         "es-ES": "[Elena Bolkova]\nLa instancia no fue creada. Verifica de nuevo."
     },
     "Tfa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n이건 무슨 오류지? 다시 확인하도록 해.",
         "en-US": "[Elena Volkova]\nWhat kind of error is this? Please check it again.",
         "pt-BR": "[Elena Bolkova]\nQue tipo de erro é esse? Por favor, verifique novamente.",
         "es-ES": "[Elena Bolkova]\n¿Qué tipo de error es este? Verifica de nuevo."
     },
     "Tva0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n알 수 없는 오류로군… 다시 확인하도록 해.",
         "en-US": "[Elena Volkova]\nAn unknown error has occurred... Please check again.",
         "pt-BR": "[Elena Bolkova]\nErro desconhecido... Verifique novamente.",
         "es-ES": "[Elena Bolkova]\nError desconocido... Verifica de nuevo."
     },
     "T/a0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n무슨 일이야? 푸하, 설마 긴장한 거냐? 표정이 말이 아닌데?",
         "en-US": "[Elena Volkova]\nWhat's wrong? Puhaha, are you nervous or something? Your face says it all!",
         "pt-BR": "[Elena Bolkova]\nO que aconteceu? Que cara é essa?",
         "es-ES": "[Elena Bolkova]\n¿Qué pasó? ¿Qué cara es esa?"
     },
     "UPa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n단독 행동이 필요하다고 하지 않았나.\n^0000CD/결성 (원하는 파티명)^000000 명령어를 사용해 ^0000CD1인 파티^000000를 맺고 다시 와라.",
         "en-US": "[Elena Volkova]\nDidn't I tell you that you need to act alone?\nUse the ^0000CD/organize (desired party name)^000000 command to create a ^0000CDsolo party^000000 and come back.",
         "pt-BR": "[Elena Bolkova]\nVocê não sabe criar um grupo?\nDigite ^0000CD/organize nome do grupo^000000 e esteja ^0000CD1somente você^000000 no grupo.",
         "es-ES": "[Elena Bolkova]\n¿No sabes crear un grupo?\nEscribe ^0000CD/organize nombre del grupo^000000 y asegúrate de que esté ^0000CDsolo tú^000000 en el grupo."
     },
     "Ufa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n문제가 발생한 듯한데. 내가 같은 말을 반복하면 운영팀에 문의하도록 해.",
         "en-US": "[Elena Volkova]\nIt seems there's a problem. If I keep repeating myself, please contact the support team.",
         "pt-BR": "[Elena Bolkova]\nParece haver um problema. Se eu repetir a mesma mensagem várias vezes, entrarei em contato com a equipe de operações.",
         "es-ES": "[Elena Bolkova]\nParece haber un problema. Si repito el mismo mensaje varias veces, contactaré al equipo de operaciones."
     },
     "Uva0Bw": {
-        "ko-KR": "[알림]\n - 가방이 가득 찼습니다. 소지 무게와 소지 물품 수량 확인 뒤 다시 말을 걸어 주세요. -",
         "en-US": "[Notice]\n - Your bag is full. Please check your carrying weight and the number of items you have, then talk to me again. -",
         "pt-BR": "[Elena Bolkova]\n- Sua bolsa está cheia. Por favor, verifique o peso e a quantidade de itens que você tem e depois fale conosco novamente. -",
         "es-ES": "[Elena Bolkova]\n- Tu bolsa está llena. Verifica el peso y la cantidad de objetos y luego habla con nosotros de nuevo. -"
     },
     "U/a0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n수고, 수고! 하하, 역시 이 녀석들, 전부 믿음직한 녀석들이라니까.\n아, 물론 모험가 너도야. 고생했다!",
         "en-US": "[Elena Volkova]\nGood job, good job! Haha, as expected, these guys are all so reliable.\nAh, of course, you too, adventurer. Well done!",
         "pt-BR": "[Elena Bolkova]\nBom trabalho, pessoal! Hahaha.\nEu tenho a melhor equipe! Obrigada à você também, viajante!",
         "es-ES": "[Elena Bolkova]\n¡Buen trabajo, equipo! ¡Jajaja!\n¡Tengo el mejor equipo! ¡Gracias a ti también, trotamundos!"
     },
     "VPa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n덕분에 엘류미나는 무사히 생포했다. 이제 불시에 습격당할 일은 없으니 대통령의 병아리들이랑 민간인들도 자기 자리로 돌려보냈고.",
         "en-US": "[Elena Volkova]\nThanks to you, we were able to safely capture Eliumina. Now that we won't be ambushed unexpectedly, I've sent the president's chicks and the civilians back to their places.",
         "pt-BR": "[Elena Bolkova]\nGraças a você, Elyumina foi capturada. Agora que não haverá mais ataques, todos podemos ir pra casa.",
         "es-ES": "[Elena Bolkova]\nGracias a ti, Elyumina fue capturada. Ahora que no habrá más ataques, todos podemos volver a casa."
     },
     "Vfa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n대통령의 그 날개인가 하는 녀석들과 루키가 심문할 준비를 하고 있어.\n마지막 기계덩어리와 싸운 장소를 정리해서 거기서 진행할 모양이야.",
         "en-US": "[Elena Volkova]\nThe President's so-called Wings and Rookie are getting ready to conduct the interrogation.\nIt looks like they're cleaning up the place where we fought the last machine and will carry it out there.",
         "pt-BR": "[Elena Bolkova]\nLukie e os guardas do 'Xixi Secreto' estão se preparando para interrogar a cientista.\nNós vamos ficar aqui e retirar as máquinas que você destruiu.",
         "es-ES": "[Elena Bolkova]\nLukie y los guardias del 'Pis Secreto' se están preparando para interrogar a la científica.\nNos quedaremos aquí retirando las máquinas que destruiste."
     },
     "Vva0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n나는 원하는 대답을 듣기 위해서 말재주를 부리는 것보다는 쥐어패는 게 편해서 가서 할 일은 없다만…\n고니도 데려가 배경으로 서서 눈이라도 부라리고 있을까 한다.",
         "en-US": "[Elena Volkova]\nI'm more comfortable using my fists than trying to talk my way into getting the answers I want, so I don't really have any business going there...\nBut maybe I'll bring Gony along to stand in the background and glare at them.",
         "pt-BR": "[Elena Bolkova]\nComo eu gosto de partir pra agressão, é melhor eu ficar longe do interrogatório...\nTalvez eu e Gonie devemos ficar ameaçando ela de longe.",
         "es-ES": "[Elena Bolkova]\nComo me gusta ir a la ofensiva, mejor me mantengo lejos del interrogatorio...\nTal vez Gonie y yo deberíamos amenazarla desde lejos."
     },
     "V/a0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n너도 <NAVI>[그 쪽으로]<INFO>sp_cor,136,210,0,101,0</INFO></NAVI> 와라.\n우리랑 같이 눈을 부라리든 루키와 함께 심문을 하든 말이야.",
         "en-US": "[Elena Volkova]\nYou come over <NAVI>[that way]<INFO>sp_cor,136,210,0,101,0</INFO></NAVI> too.\nWhether you want to glare with us or interrogate together with Rookie, it's up to you.",
         "pt-BR": "[Elena Bolkova]\nPor que você não <NAVI>[dá uma olhada]<INFO>sp_cor,136,210,0,101,0</INFO></NAVI> lá?\nVai ser um show e tanto.",
         "es-ES": "[Elena Bolkova]\n¿Por qué no <NAVI>[echas un vistazo]<INFO>sp_cor,136,210,0,101,0</INFO></NAVI> por allí?\nSerá todo un espectáculo."
     },
     "WPa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n문제가 발생한 모양인데. 내가 같은 말을 반복하면 운영팀에 문의하도록 해.",
         "en-US": "[Elena Volkova]\nIt seems there's a problem. If I repeat the same thing, please contact the support team.",
         "pt-BR": "[Elena Bolkova]\nParece haver um problema. Se eu repetir a mesma coisa várias vezes, vou perguntar à equipe de gerenciamento.",
         "es-ES": "[Elena Bolkova]\nParece haber un problema. Si repito lo mismo varias veces, preguntaré al equipo de gestión."
     },
     "Wfa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n대통령의 그… 날개인가 하는 녀석들과 루키가 심문할 준비를 하고 있어.\n마지막 기계덩어리와 싸운 장소를 정리해서 거기서 진행할 모양이야.",
         "en-US": "[Elena Volkova]\nThe President’s so-called… wings, and Rookie, are getting ready to conduct the interrogation.\nIt looks like they’ve cleaned up the place where we fought the last machine, and that’s where it’ll take place.",
         "pt-BR": "[Elena Bolkova]\nVe… Vento do Presidente — ou seja lá como se chamam — e o Lukie estão se preparando para um interrogatório.\nEles estão organizando o local onde você lutou contra a última máquina e pretendem conduzir tudo por lá.",
         "es-ES": "[Elena Bolkova]\nVie… Viento del Presidente — o como se llamen — y Lukie se están preparando para un interrogatorio.\nEstán organizando el lugar donde luchaste contra la última máquina y planean proceder allí."
     },
     "Wva0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n여어. 바쁜 모양이다?\n나도 당분간 여기와 리벨리온 본거지를 뻔질나게 드나들어야 할 것 같네.",
         "en-US": "[Elena Volkova]\nHey. You look busy, huh?\nIt seems I'll also be coming and going from here and the Rebellion headquarters quite often for a while.",
         "pt-BR": "[Elena Bolkova]\nEi, você tá fazendo alguma coisa agora?\nEu fico indo para o quartel-general da Rebelião e para cá diariamente.",
         "es-ES": "[Elena Bolkova]\nOye, ¿estás haciendo algo ahora?\nVoy y vengo diariamente entre el cuartel general de la Rebelión y aquí."
     },
     "W/a0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n정규 리벨리온이 처리하기 곤란한 일도 종종 생기기 마련이거든, 이런 곳에서는.",
         "en-US": "[Elena Volkova]\nIn a place like this, there are often situations that even the regular Rebellion have trouble handling.",
         "pt-BR": "[Elena Bolkova]\nLugares como esse são fáceis de acontecerem incidentes, mas nada que a Rebelião não saiba como lidar.",
         "es-ES": "[Elena Bolkova]\nLugares como este son propensos a incidentes, pero nada que la Rebelión no sepa manejar."
     },
     "XPa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n숨 좀 돌리고 나면 클라나 네미에리로 또 한 판 붙으러 와라.\n기계덩어리 부수는 것도 싫진 않지만, 너만큼 싸우기 재미있는 녀석이 또 없다니까.",
         "en-US": "[Elena Volkova]\nOnce you've caught your breath, come back to Klana Nemieri for another round.\nI don't mind smashing machines, but honestly, there's no one as fun to fight as you.",
         "pt-BR": "[Elena Bolkova]\nQuando tiver um tempo livre, vem lutar de novo comigo, lá em Clana Nemieri.\nEstou com saudades de te moer de porrada. Heheh.",
         "es-ES": "[Elena Bolkova]\nCuando tengas tiempo libre, vuelve a luchar conmigo en Clana Nemieri.\nExtraño molerte a golpes. Jeje."
     },
     "Xfa0Bw": {
-        "ko-KR": "고니",
         "en-US": "Gony",
         "pt-BR": "Gonie",
         "es-ES": "Gonie"
     },
     "Xva0Bw": {
-        "ko-KR": "[고니]\n……",
         "en-US": "[Gony]\n……",
         "pt-BR": "[Gonie]\n...",
         "es-ES": "[Gonie]\n..."
     },
     "X/a0Bw": {
-        "ko-KR": "아... 안녕하세요?",
         "en-US": "Ah... Hello?",
         "pt-BR": "Ah... olá?",
         "es-ES": "Ah... ¿hola?"
     },
     "YPa0Bw": {
-        "ko-KR": "[고니]\n(꾸벅)",
         "en-US": "[Gony]\n(Bows)",
         "pt-BR": "[Gonie]\n(acenou com a cabeça)",
         "es-ES": "[Gonie]\n(asintió con la cabeza)"
     },
     "Yfa0Bw": {
-        "ko-KR": "[루키]\n어, 일찍 오셨군요. 좀 쉬다 오신다고 들었는데.\n레이지 씨, 포로를 데리고 와 주세요.",
         "en-US": "[Rookie]\nOh, you arrived early. I heard you were going to take a short break.\nLeizi, please bring the prisoner here.",
         "pt-BR": "[Lukie]\nUh, você veio cedo. Achei que você ia fazer uma pausa.\nNalandro, por favor, traga a prisioneira.",
         "es-ES": "[Lukie]\nUh, llegaste temprano. Pensé que ibas a tomarte un descanso.\nLazy, por favor, trae a la prisionera."
     },
     "Yva0Bw": {
-        "ko-KR": "[레이지]\n예에이, 여기 포로 대령했습니다.\n우리 본 지 얼마나 됐다고 기회 되니까 벌써 나를 입안의 혀처럼 부려먹네.",
         "en-US": "[Leizi]\nHey, I’ve brought the prisoner as ordered.\nIt hasn’t even been that long since we met, but you’re already bossing me around like I’m the tongue in your mouth.",
         "pt-BR": "[Nalandro]\nAqui está, Lukie.\nVocê nem é meu pai e já quer mandar em mim.",
         "es-ES": "[Lazy]\nAquí está, Lukie.\nNi siquiera eres mi padre y ya quieres mandarme."
     },
     "Y/a0Bw": {
-        "ko-KR": "[레이지]\n역시 소질이 있다니까, 럭키 루키. 내 안목은 대단해. 멋진 나, 대단한 나♡",
         "en-US": "[Leizi]\nSee, I told you you had talent, Lucky Rookie. My eye for talent is amazing. I'm so cool, I'm so great <3",
         "pt-BR": "[Nalandro]\nNa real, eu até curto ser mandado por você, eu só trabalho assim. <3",
         "es-ES": "[Lazy]\nLa verdad, me gusta que me mandes, así es como trabajo. <3"
     },
     "ZPa0Bw": {
-        "ko-KR": "레이지 : 얼른 데려다가 써먹고 싶다. 가슴이 두근두근해.",
         "en-US": "Leizi: I can't wait to bring it over and put it to use. My heart is pounding with excitement.",
         "pt-BR": "Nalandro: Eu quero trazer você pro meu lado!",
         "es-ES": "Lazy: ¡Quiero llevarte a mi lado!"
     },
     "Zfa0Bw": {
-        "ko-KR": "루키 : …전부 듣고 있는 데서 그런 이야기 작작 해요.",
         "en-US": "Rookie: …Please stop talking about things like that when everyone can hear.",
         "pt-BR": "Lukie: ...Pare de falar isso na frente das pessoas.",
         "es-ES": "Lukie: ...Deja de decir eso delante de la gente."
     },
     "Zva0Bw": {
-        "ko-KR": "레이지 : 이제 말도 막 하고. 그런 점도 좋아, 정말 좋아.",
         "en-US": "Leizi: Now you even talk freely. I like that about you, I really do.",
         "pt-BR": "Nalandro: Ooooh! Tão mandão, eu gosto disso em você.",
         "es-ES": "Lazy: ¡Ooooh! Tan mandón, eso me gusta de ti."
     },
     "Z/a0Bw": {
-        "ko-KR": "[엘류미나]\n에잇, 멍청이들아! 아파, 그렇게 꽉 잡지 마! 내 몸은 귀하다고? 네놈들의 멍청한 근육덩이보다 말이야!",
         "en-US": "[Eliumina]\nHey, you idiots! Ouch, don’t grab me so hard! My body is precious, you know? Way more than your dumb lumps of muscle!",
         "pt-BR": "[Elyumina]\nArgh, babacas! Me soltem! Minha inteligência é mais forte que os músculos de vocês!",
         "es-ES": "[Elyumina]\n¡Argh, idiotas! ¡Suéltenme! ¡Mi inteligencia es más fuerte que sus músculos!"
     },
     "aPa0Bw": {
-        "ko-KR": "[레이지]\n어이쿠, 실례. 그럼 루키, 잘 해보도록 해.",
         "en-US": "[Leizi]\nOops, my apologies. Well then, Rookie, do your best.",
         "pt-BR": "[Nalandro]\nAh é, a bandida! Vai Lukiezinho, faça o seu melhor.",
         "es-ES": "[Lazy]\nAh sí, ¡la bandida! Vamos, Lukiecito, haz lo mejor que puedas."
     },
     "afa0Bw": {
-        "ko-KR": "[고니]\n……?",
         "en-US": "[Gony]\n......?",
         "pt-BR": "[Gonie]\n...?",
         "es-ES": "[Gonie]\n...?"
     },
     "ava0Bw": {
-        "ko-KR": "루키",
         "en-US": "Rookie",
         "pt-BR": "Lukie",
         "es-ES": "Lukie"
     },
     "a/a0Bw": {
-        "ko-KR": "[루키]\n이건 일어나지 않아야 하는 예외상황이야.\n운영팀에 문의해 보도록 하자.",
         "en-US": "[Rookie]\nThis is an exceptional situation that shouldn't happen.\nPlease contact the support team for assistance.",
         "pt-BR": "[Lukie]\nEsta é uma exceção que não deveria acontecer.\nVamos perguntar à equipe de operação.",
         "es-ES": "[Lukie]\nEsta es una excepción que no debería ocurrir.\nVamos a preguntar al equipo de operaciones."
     },
     "bPa0Bw": {
-        "ko-KR": "[루키]\n에… 그러면.\n(진짜 제가 심문해요?)",
         "en-US": "[Rookie]\nUh... then.\n(Am I really the one interrogating?)",
         "pt-BR": "[Lukie]\nEr... Então.\n(Sou eu quem vai interrogar?)",
         "es-ES": "[Lukie]\nEh... entonces.\n(¿Yo soy quien va a interrogar?)"
     },
     "bfa0Bw": {
-        "ko-KR": "(끄덕끄덕)",
         "en-US": "(Nod nod)",
         "pt-BR": "Sim",
         "es-ES": "Sí"
     },
     "bva0Bw": {
-        "ko-KR": "엘류미나 : 놔! 아 진짜, 안 도망간다고! 내 똑똑한 기계들과 멍청한 부하들은 다 어디 간 거야?",
         "en-US": "Eliumina: Let go! Ugh, seriously, I’m not going to run away! Where did all my brilliant machines and my dumb underlings go?",
         "pt-BR": "Elyumina: Me soltem! Eu não vou fugir! Cadê minhas máquinas??",
         "es-ES": "Elyumina: ¡Suéltenme! ¡No voy a huir! ¿Dónde están mis máquinas??"
     },
     "b/a0Bw": {
-        "ko-KR": "[루키]\n……저기, 날뛰지 마. 이봐, 지금 그렇게 멋대로 굴 상황 아니야.\n네가 헤집고 다닌 덕에 우리는 큰 피해를 입었다고.",
         "en-US": "[Rookie]\n...Hey, calm down. Look, this isn't the time to act on your own.\nThanks to you stirring things up, we've suffered a lot of damage.",
         "pt-BR": "[Lukie]\n... Calma, quem pergunta aqui sou eu.\nVocê causou muitos problemas para nós.",
         "es-ES": "[Lukie]\n...Tranquila, aquí quien pregunta soy yo.\nNos causaste muchos problemas."
     },
     "cPa0Bw": {
-        "ko-KR": "[엘류미나]\n웃기네! 나야말로 네 녀석들이 멋대로 설치고 다닌 덕분에 손해가 어마어마해!\n연구소를 쑥대밭으로 만들고 내 연구를 훔치려고 한 주제에?",
         "en-US": "[Eliumina]\nHow funny! Thanks to you guys running around doing whatever you please, I've suffered enormous losses!\nYou turned the laboratory upside down and even tried to steal my research?",
         "pt-BR": "[Elyumina]\nPalhaçada! Vocês destruíram minhas máquinas e eu perdi dinheiro!\nVocês invadiram meu laboratório e roubaram minhas pesquisas!!",
         "es-ES": "[Elyumina]\n¡Qué farsa! ¡Destruyeron mis máquinas y perdí dinero!\n¡Invadieron mi laboratorio y robaron mis investigaciones!"
     },
     "cfa0Bw": {
-        "ko-KR": "루키 : 훔치다니, 실례네.",
         "en-US": "Rookie: Stealing, huh? That's quite rude.",
         "pt-BR": "Lukie: Não roubamos nada.",
         "es-ES": "Lukie: No robamos nada."
     },
     "cva0Bw": {
-        "ko-KR": "[루키]\n네 연구라면 그 불법 실험인가.\n그런 걸 저지를 때부터 언젠가 일어날 일이라고 각오하지 않았어?",
         "en-US": "[Rookie]\nIs your research that illegal experiment?\nDidn't you expect that something like this would happen eventually, ever since you started doing things like that?",
         "pt-BR": "[Lukie]\nSua pesquisa é ilegal, sabia?\nVocê achou que nunca seria descoberta?",
         "es-ES": "[Lukie]\nTu investigación es ilegal, ¿lo sabías?\n¿Pensaste que nunca te descubrirían?"
     },
     "c/a0Bw": {
-        "ko-KR": "[루키]\n뭐, 그런 건 이제 아무래도 좋아. 넌 네 연구가 중요한 거지?\n네가 우리에게 전적으로 협조한다면 네 실험을 보존하고 지원해 줄게.",
         "en-US": "[Rookie]\nWell, that doesn't really matter anymore. Your research is what's important to you, right?\nIf you fully cooperate with us, we'll preserve and support your experiments.",
         "pt-BR": "[Lukie]\nSe a pesquisa é tão importante para você, podemos fazer um acordo.\nVocê colabora com a gente e nós deixamos você continuar com a pesquisa.",
         "es-ES": "[Lukie]\nSi la investigación es tan importante para ti, podemos hacer un trato.\nTú cooperas con nosotros y te dejamos continuar con la investigación."
     },
     "dPa0Bw": {
-        "ko-KR": "[루키]\n물론 합법적인 것만이지만, 그것만은 확실히 보호해 줄 테니까. 그러니 이곳과 네 동료들에 대한 정보를 전부 말해.",
         "en-US": "[Rookie]\nOf course, only the legal ones, but I can definitely guarantee that much protection. So, tell me everything you know about this place and your companions.",
         "pt-BR": "[Lukie]\nAPENAS a parte legal, óbvio. Então, me conte tudo sobre este lugar e seus colaboradores.",
         "es-ES": "[Lukie]\nSOLO la parte legal, obviamente. Así que cuéntame todo sobre este lugar y tus colaboradores."
     },
     "dfa0Bw": {
-        "ko-KR": "[엘류미나]\n동료? 그 미친 녀석들이 뭘 하는지는 관심 없어.\n그 놈들 내 동료 아냐. 내 연구를 위해서 이용한 것뿐이지.",
         "en-US": "[Eliumina]\nCompanions? I don't care what those crazy guys are up to.\nThey're not my allies. I just used them for my research, that's all.",
         "pt-BR": "[Elyumina]\nColaboradores? Eu não ligo para esses malucos.\nEles não são meus colaboradores. Eu os uso para minhas pesquisas, apenas.",
         "es-ES": "[Elyumina]\n¿Colaboradores? No me importan esos locos.\nNo son mis colaboradores. Solo los uso para mis investigaciones."
     },
     "dva0Bw": {
-        "ko-KR": "[루키]\n그러고 보니 네 이름은 기업이 넘겨준 명단에는 없던데.\n넌 뭐야? 무슨 연구를 하느라 그 녀석들을 이용했다는 건데?",
         "en-US": "[Rookie]\nCome to think of it, your name wasn't on the list the company handed over.\nWho are you? What kind of research were you doing that made you use those guys?",
         "pt-BR": "[Lukie]\nA propósito, seu nome não estava na lista de empregados da Rekenber ou da Regenschirm.\nQuem é você? Por que você precisa dos funcionários da corporação?",
         "es-ES": "[Lukie]\nPor cierto, tu nombre no estaba en la lista de empleados de Rekenber ni de Regenschirm.\n¿Quién eres? ¿Por qué necesitas a los empleados de la corporación?"
     },
     "d/a0Bw": {
-        "ko-KR": "[엘류미나]\n날 모른다고? 난 슈발츠발드, 아니 대륙 최고의 기계학습 연구자야. 내 기술로 만든 서비스로이드를 네놈들도 이미 봤을걸.",
         "en-US": "[Eliumina]\nYou don't know who I am? I'm the top machine learning researcher in Schwarzwald—no, on the entire continent. You've probably already seen the Service Roids I created with my technology.",
         "pt-BR": "[Elyumina]\nVocê não me conhece? Eu sou a maior engenheira que esse continente já viu! Vocês deveriam ver os Autômatos que criei.",
         "es-ES": "[Elyumina]\n¿No me conoces? ¡Soy la mayor ingeniera que este continente ha visto!\nDeberían ver los Autómatas que creé."
     },
     "ePa0Bw": {
-        "ko-KR": "[루키]\n……본 적 없는데.",
         "en-US": "[Rookie]\n...I haven't seen you before.",
         "pt-BR": "[Lukie]\n...Eu nunca vi isso.",
         "es-ES": "[Lukie]\n...Nunca he visto eso."
     },
     "efa0Bw": {
-        "ko-KR": "없지?",
         "en-US": "There isn't, right?",
         "pt-BR": "Nem eu. Você já?",
         "es-ES": "Yo tampoco. ¿Tú sí?"
     },
     "eva0Bw": {
-        "ko-KR": "없는데.",
         "en-US": "There isn't any.",
         "pt-BR": "Não.",
         "es-ES": "No."
     },
     "e/a0Bw": {
-        "ko-KR": "[엘류미나]\n흥, 네녀석들이 내 아이들을 서비스로이드라고 생각 못했겠지.\n조금만 더 했으면, 인간의 정신을 내 기계들에게 거의 그대로 보존해 넣을 수 있었는데.",
         "en-US": "[Eliumina]\nHmph, you probably never imagined that my children were actually Servicioids.\nIf I had just a little more time, I could have almost perfectly preserved the human mind within my machines.",
         "pt-BR": "[Elyumina]\nHahah. Vocês nem os reconheceriam.\nEu estava perto de preservar a mente humana dentro das minhas máquinas.",
         "es-ES": "[Elyumina]\nJajaja. Ni siquiera los reconocerían.\nEstuve a punto de preservar la mente humana dentro de mis máquinas."
     },
     "fPa0Bw": {
-        "ko-KR": "[엘류미나]\n너희가 힘들게 쌓은 지식을 그 나약하고 불쌍한 육신 대신 아름다운 나의 기계 안에 채워 줄 수 있었단 말이야.",
         "en-US": "[Eliumina]\nYou could have filled the beautiful machine that is me with the hard-earned knowledge you accumulated, instead of leaving it in your weak and pitiful flesh.",
         "pt-BR": "[Elyumina]\nCom isso, você poderia preservar suas memórias e ter um corpo de máquina imortal, deixando para trás seu corpo fraco e indefeso.",
         "es-ES": "[Elyumina]\nCon eso, podrías preservar tus recuerdos y tener un cuerpo mecánico inmortal,\ndejando atrás tu cuerpo débil e indefenso."
     },
     "ffa0Bw": {
-        "ko-KR": "[엘류미나]\n알아듣겠어? 난 아둔한 네 녀석들은 상상도 못할 만큼 위대한 연구를 하고 있다고.\n보르 누구인가 베르 뭐인가 하는 녀석들이 하던 장난질이랑은 비교도 할 수 없지.",
         "en-US": "[Eliumina]\nDo you understand? I'm conducting research so great that dull-witted beings like you couldn't even imagine.\nIt's nothing like the childish pranks those Bor or Ver or whatever-their-names-are used to do—there's simply no comparison.",
         "pt-BR": "[Elyumina]\nVocês entenderam? Eu estava pesquisando algo muito maior do que vocês poderiam imaginar.\nMinha pesquisa era maior que aquelas brincadeiras do Wolfchev e do Werner.",
         "es-ES": "[Elyumina]\n¿Entendieron? Investigaba algo mucho más grande de lo que imaginan.\nMi investigación era mayor que esos jueguitos de Wolfchev y Werner."
     },
     "fva0Bw": {
-        "ko-KR": "나약해? 난 강한데.",
         "en-US": "Are you weak? I'm strong.",
         "pt-BR": "E quem precisa de corpo de máquina?",
         "es-ES": "¿Y quién necesita un cuerpo mecánico?"
     },
     "f/a0Bw": {
-        "ko-KR": "나도 강한데.",
         "en-US": "I'm strong too.",
         "pt-BR": "Eu não, eu sou forte.",
         "es-ES": "Yo no, soy fuerte."
     },
     "gPa0Bw": {
-        "ko-KR": "보르… 라면, 과연.",
         "en-US": "If it's Bor... I see.",
         "pt-BR": "Werner... Wolfchev...",
         "es-ES": "Werner... Wolfchev..."
     },
     "gfa0Bw": {
-        "ko-KR": "[루키]\n보르… 라면 보르세브? 아니면… 베르너? 그들을 알아?",
         "en-US": "[Rookie]\nBor... do you mean Borsev? Or... Werner? Do you know them?",
         "pt-BR": "[Lukie]\nEspera... você conhece Werner e Wolfchev?",
         "es-ES": "[Lukie]\nEspera... ¿conoces a Werner y Wolfchev?"
     },
     "gva0Bw": {
-        "ko-KR": "[엘류미나]\n뭐, 둘다 이름이야 알지. 그 이상은 관심 없어. 쓸데도 없는 데 목숨걸고 매달려 있던 녀석들.",
         "en-US": "[Eliumina]\nWell, they're just names, you know. I don't care beyond that. They were people clinging desperately to something pointless.",
         "pt-BR": "[Elyumina]\nConheço esses nomes, mas não tive interesse em saber deles. Foram estúpidos em arriscarem as próprias vidas por pesquisas ruins.",
         "es-ES": "[Elyumina]\nConozco esos nombres, pero no me interesó saber de ellos.\nFueron estúpidos al arriesgar sus vidas por malas investigaciones."
     },
     "g/a0Bw": {
-        "ko-KR": "[루키]\n아니, 관심 있어야 할걸? 지금부터 우리에게 이야기해 줘야 하니까.\n지금부터 잘 들어. 네 선택지는 두 개야.",
         "en-US": "[Rookie]\nNo, you should be interested. You’re about to tell us your story.\nListen carefully from now on. You have two choices.",
         "pt-BR": "[Lukie]\nVocê deveria ter se interessado, agora queremos saber mais detalhes.\nVocê tem duas opções.",
         "es-ES": "[Lukie]\nDeberías haberte interesado, ahora queremos saber más detalles.\nTienes dos opciones."
     },
     "hPa0Bw": {
-        "ko-KR": "엘류미나 : ……",
         "en-US": "Eliumina: ……",
         "pt-BR": "Elyumina: ...",
         "es-ES": "Elyumina: ..."
     },
     "hfa0Bw": {
-        "ko-KR": "[루키]\n첫째. 그대로 계속 고집을 피운다.\n연구가 합법인지 불법인지 따지지도 않고, 네 친구들의 소중한 정보도 발설하지 말고.\n절개와 기개를 지키다 장렬하게… 사형. 이야, 이건 미래가 없네.",
         "en-US": "[Rookie]\nFirst. You stubbornly stick to your guns.\nYou don't even question whether the research is legal or illegal, and you refuse to reveal any valuable information about your friends.\nYou uphold your integrity and spirit to the end... and face execution. Wow, there's really no future in that.",
         "pt-BR": "[Lukie]\nA primeira: continuar sendo teimosa e não colaborar conosco.\nPorém aí, a lealdade com a sua pesquisa e seus companheiros vai lhe custar a vida.\nOu seja, você não terá futuro.",
         "es-ES": "[Lukie]\nLa primera: seguir siendo terca y no cooperar con nosotros.\nEn ese caso, tu lealtad a tu investigación y a tus compañeros te costará la vida.\nEs decir, no tendrás futuro."
     },
     "hva0Bw": {
-        "ko-KR": "[루키]\n둘째, 좀더 앞날을 생각한다.\n어차피 이해 관계로 모였던 녀석들의 정보 정도야 줘 버리고 연구의 일부라도 지켜 제한적이나마 연구를 지속한다.",
         "en-US": "[Rookie]\nSecond, I think more about the future.\nSince we were brought together by mutual interests anyway, I can just give away information about those guys and protect at least part of my research, so I can continue my studies, even if only in a limited way.",
         "pt-BR": "[Lukie]\nA segunda opção: continuar viva.\nDessa forma, poderá trabalhar na sua pesquisa, sem passar dos limites da ética e legalidade.",
         "es-ES": "[Lukie]\nLa segunda opción: seguir viva.\nAsí podrás trabajar en tu investigación sin cruzar los límites de la ética y la legalidad."
     },
     "h/a0Bw": {
-        "ko-KR": "[루키]\n물론 지금까지 한 일의 대가는 치러야지. 하지만 결국은 네가 지키려던 일을 계속하게 될 거야.",
         "en-US": "[Rookie]\nOf course, you have to pay the price for what you've done so far. But in the end, you'll continue doing what you were trying to protect.",
         "pt-BR": "[Lukie]\nClaro, você terá que pagar pelo que fez até agora. Mas no final, você continuará fazendo o que gosta.",
         "es-ES": "[Lukie]\nClaro, tendrás que pagar por lo que hiciste hasta ahora. Pero al final, seguirás haciendo lo que te gusta."
     },
     "iPa0Bw": {
-        "ko-KR": "[엘류미나]\n……",
         "en-US": "[Eliumina]\n……",
         "pt-BR": "[Elyumina]\n...",
         "es-ES": "[Elyumina]\n..."
     },
     "ifa0Bw": {
-        "ko-KR": "[루키]\n이건 사법 거래야. 우리로서도 손해를 보겠지. 하지만 너 위대한 연구를 한다고 했지? 네게 거는 거야, 우리는.\n현명한 판단 하길 바라.",
         "en-US": "[Rookie]\nThis is a judicial deal. We'll be taking a loss as well. But you said you're conducting great research, right? We're putting our trust in you.\nI hope you make a wise decision.",
         "pt-BR": "[Lukie]\nÉ um acordo.\nOu você trabalha para nós, ou morre sem terminar o que queria.",
         "es-ES": "[Lukie]\nEs un trato.\nO trabajas para nosotros, o mueres sin terminar lo que querías."
     },
     "iva0Bw": {
-        "ko-KR": "[엘류미나]\n다른… 녀석들이 뭘 하느라 처박혀 있었는지는 진짜 몰라.\n……그래도 그 거래, 유효한 거야?",
         "en-US": "[Eliumina]\nI really have no idea what the others were holed up doing.\n...But that deal, is it still valid?",
         "pt-BR": "[Elyumina]\nEu... não sou como aqueles outros dois cientistas.\n...Vocês prometem?",
         "es-ES": "[Elyumina]\nYo... no soy como esos otros dos científicos.\n...¿Lo prometen?"
     },
     "i/a0Bw": {
-        "ko-KR": "[루키]\n음… 물론이지. 성실하게 협조한다면 그런 정도는 특별히 눈감아 줄게.\n그럼 이제 깊은 이야기를 해 볼까? 이리로 보내 주세요, 레이지 씨.",
         "en-US": "[Rookie]\nHmm... Of course. If you cooperate sincerely, I can overlook something like that just this once.\nNow, shall we get into the deeper conversation? Please send Leizi over here.",
         "pt-BR": "[Lukie]\nSim... é claro. Se você cooperar, definimos o acordo mais detalhadamente.\nTraga ela para cá, Nalandro.",
         "es-ES": "[Lukie]\nSí... claro. Si cooperas, definiremos el acuerdo con más detalle.\nTráela aquí, Lazy."
     },
     "jPa0Bw": {
-        "ko-KR": "레이지 : 그럼 잘 하고 와, 위대한 과학자 씨?",
         "en-US": "Leizi: Then do a good job, great scientist?",
         "pt-BR": "Nalandro: Bora lá, Gugu de saia.",
         "es-ES": "Lazy: Vamos, chica rubia."
     },
     "jfa0Bw": {
-        "ko-KR": "루키 : …그래서, 아아. 그렇구나…",
         "en-US": "Rookie: ...So, ah. I see...",
         "pt-BR": "Lukie: ... Então, Elyumina...",
         "es-ES": "Lukie: ...Entonces, Elyumina..."
     },
     "jva0Bw": {
-        "ko-KR": "[레이지]\n……",
         "en-US": "[Leizi]\n……",
         "pt-BR": "[Nalandro]\n...",
         "es-ES": "[Lazy]\n..."
     },
     "j/a0Bw": {
-        "ko-KR": "[레이지]\n……\n거기, 말입니다. 화끈한 대장?",
         "en-US": "[Leizi]\n……\nHey, you there. Are you the hotshot boss?",
         "pt-BR": "[Nalandro]\n...\nEi, marombeira!",
         "es-ES": "[Lazy]\n...\n¡Eh, musculosa!"
     },
     "kPa0Bw": {
-        "ko-KR": "엘류미나 : …맞아. 하지만 그 이상은 나도…",
         "en-US": "Eliumina: ...That's right. But beyond that, even I...",
         "pt-BR": "Elyumina: ...Sim, Lukie, mas...",
         "es-ES": "Elyumina: ...Sí, Lukie, pero..."
     },
     "kfa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n……그거 설마 나 부르는 거야?",
         "en-US": "[Elena Volkova]\n...Wait, are you calling me?",
         "pt-BR": "[Elena Bolkova]\n...Você tá falando de mim?",
         "es-ES": "[Elena Bolkova]\n...¿Estás hablando de mí?"
     },
     "kva0Bw": {
-        "ko-KR": "엘류미나 : …그러니까 그런 거야. 또…",
         "en-US": "Eliumina: ...So that's how it is. And then...",
         "pt-BR": "Elyumina: ...E é por isso que...",
         "es-ES": "Elyumina: ...Y por eso..."
     },
     "k/a0Bw": {
-        "ko-KR": "[레이지]\n그럼 여기 당신 말고 그렇게 불릴 사람이 또 어딨어. 일단 대장이 당신밖에 없는 거 아닙니까?\n아무튼, 이제 눈에 힘 빼시라고 하려고 했죠. 이야기 잘 된 것 같으니까.",
         "en-US": "[Leizi]\nThen who else here could be called that besides you? You're the only one who could be the leader, aren't you?\nAnyway, I was just about to tell you to relax a little. It seems like the conversation went well.",
         "pt-BR": "[Nalandro]\nE tem outra bombadona por aqui?\nEu só ia pedir pra você relaxar, não precisa mais vigiar a presidiária.",
         "es-ES": "[Lazy]\n¿Y hay otra bomba ambulante por aquí?\nSolo iba a pedirte que te relajaras, ya no hace falta vigilar a la prisionera."
     },
     "lPa0Bw": {
-        "ko-KR": "루키 : …좋아. 그래서 여기에…",
         "en-US": "Rookie: ...Alright. So, here...",
         "pt-BR": "Lukie: ...Ok. Então, você estava aqui...",
         "es-ES": "Lukie: ...Ok. Entonces, estabas aquí..."
     },
     "lfa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n아… 음. 그래.\n을렀다 달랬다 혼을 쏙 빼놓네, 루키 녀석. 저런 걸 할 줄 알았나?",
         "en-US": "[Elena Volkova]\nAh... Hmm. Right.\nThat Rookie really knows how to keep me on my toes, switching things up like that. I didn't expect them to pull something like that off.",
         "pt-BR": "[Elena Bolkova]\nAh... hm. Tá bom.\nO Lukie fez um ótimo trabalho, não sabia que ele era bom em interrogar.",
         "es-ES": "[Elena Bolkova]\nAh... hm. Está bien.\nLukie hizo un gran trabajo, no sabía que era bueno interrogando."
     },
     "lva0Bw": {
-        "ko-KR": "엘류미나 : …알았지? 약속은 꼭 지켜. 그래야 또…",
         "en-US": "Eliumina: ...Alright? Make sure you keep your promise. Only then will we be able to...",
         "pt-BR": "Elyumina: ...É melhor que você cumpra sua promessa, se não...",
         "es-ES": "Elyumina: ...Será mejor que cumplas tu promesa, si no..."
     },
     "l/a0Bw": {
-        "ko-KR": "[레이지]\n그야 모르는 게 당연하지. 당신들이 할 기회를 안 줬잖아요?\n하지만 이제 알았으니까, 그 다음은 저 녀석 몫이거든요.",
         "en-US": "[Leizi]\nOf course you wouldn't know. You never gave us a chance, did you?\nBut now that I know, it's up to that guy next.",
         "pt-BR": "[Nalandro]\nClaro que não sabia, vocês nunca deram chance para ele.\nAgora que sabem, podiam dar mais ouvidos ao garoto.",
         "es-ES": "[Lazy]\nClaro que no lo sabías, nunca le dieron una oportunidad.\nAhora que lo saben, podrían escuchar más al chico."
     },
     "mPa0Bw": {
-        "ko-KR": "루키 : 좋아, 수고했다! 이제 네 처분은 걱정 마.",
         "en-US": "Rookie: Good, well done! Now, don't worry about your punishment.",
         "pt-BR": "Lukie: Tudo bem! Tomaremos conta de você.",
         "es-ES": "Lukie: ¡Está bien! Nos haremos cargo de ti."
     },
     "mfa0Bw": {
-        "ko-KR": "[엘레나]\n흐음……",
         "en-US": "[Elena Volkova]\nHmm...",
         "pt-BR": "[Elena Bolkova]\nHum...",
         "es-ES": "[Elena Bolkova]\nHum..."
     },
     "mva0Bw": {
-        "ko-KR": "[루키]\n무슨 이야기 하고 있어요? 아무튼, 지금 필요한 건 다 들었어요.\n저 녀석들의 이름은 ^0000CD일루시온^000000. 이전까지 ^0000CD레겐쉬름의 연구원이었다는 사실^000000도 알고 있었지요.",
         "en-US": "[Rookie]\nWhat are you talking about? Anyway, I've heard everything I need to know for now.\nTheir name is ^0000CDIllusion^000000. I also knew that they used to be a Researcher of ^0000CDRegenschirm^000000.",
         "pt-BR": "[Lukie]\nDo que vocês estavam falando? Enfim, Elyumina me contou tudo.\nAs pessoas daqui são de um grupo chamado ^0000CDIlusión^000000, formado por ^0000CDex-funcionários da Regenschim^000000.",
         "es-ES": "[Lukie]\n¿De qué estaban hablando? En fin, Elyumina me contó todo.\nLa gente de aquí pertenece a un grupo llamado ^0000CDIlusión^000000, formado por ^0000CDex empleados de Regenschirm^000000."
     },
     "m/a0Bw": {
-        "ko-KR": "[루키]\n엘류미나는 자세한 사정은 모르는 모양이더군요.\n기업과는 거의 엮이지 않고 일루시온에게 연구비를 받고 연구 자료를 넘기고 있었나봐요. 그래서 목록엔 없었던 거지요.",
         "en-US": "[Rookie]\nIt seems that Eliumina doesn't really know the details.\nApparently, she wasn't much involved with the company and was receiving research funding from Illusion in exchange for her research data. That's probably why she wasn't on the list.",
         "pt-BR": "[Lukie]\nPorém, Elyumina não sabe muito sobre a ^0000CDIlusión^000000. Ela é financiada por eles para fazer suas pesquisas, mas possui zero contato com a Rekenber e a Regenschirm.\nÉ por isso que não estava na lista de funcionários.",
         "es-ES": "[Lukie]\nSin embargo, Elyumina no sabe mucho sobre ^0000CDIlusión^000000.\nLa financian para hacer sus investigaciones, pero no tiene ningún contacto con Rekenber ni con Regenschirm.\nPor eso no estaba en la lista de empleados."
     },
     "nPa0Bw": {
-        "ko-KR": "레이지 : 하청의 하청 같네.",
         "en-US": "Leizi: It's like subcontracting a subcontract.",
         "pt-BR": "Nalandro: É como se fosse a terceirzada da terceirizada.",
         "es-ES": "Lazy: Es como subcontratar a un subcontratista."
     },
     "nfa0Bw": {
-        "ko-KR": "엘류미나 : 하청이 아니라 연구 지원이야!",
         "en-US": "Eliumina: It's not outsourcing, it's research support!",
         "pt-BR": "Elyumina: Sou terceirizada, eu era a pesquisadora!",
         "es-ES": "Elyumina: ¡Soy subcontratada, yo era la investigadora!"
     },
     "nva0Bw": {
-        "ko-KR": "[루키]\n그리고 이들이 터를 잡은 이 지역 너머는…… 숨겨져 있던 ^0000CD바르문트의 저택^000000이라고 합니다.\n이곳을 발견한 뒤, 여기의 지식을 독식하려고 저 녀석들이 만든 집단이 일루시온.",
         "en-US": "[Rookie]\nAnd beyond the area where they've settled... lies the hidden ^0000CDVarmunt's Mansion^000000.  \nAfter discovering this place, those guys formed a group called Illusion to monopolize the knowledge found here.",
         "pt-BR": "[Lukie]\nE ao norte está escondida a ^0000CDMansão de Varmunt^000000.\nA ^0000CDIlusión^000000 nasceu para evitar que descobrissem essa mansão.",
         "es-ES": "[Lukie]\nY al norte está escondida la ^0000CDMansión de Varmunt^000000.\n^0000CDIlusión^000000 nació para evitar que descubrieran esa mansión."
     },
     "n/a0Bw": {
-        "ko-KR": "[루키]\n저택 내부에 대해서는 엘류미나도 잘 모르는 모양이에요.\n다른 자들이 여기를 버리고 저택에 들어가 농성을 선택한 뒤에도 연구 자료를 지키려고 여기 남아서 그렇답니다.",
         "en-US": "[Rookie]\nIt seems that even Eliumina doesn't know much about the inside of the mansion.\nAfter the others abandoned this place and chose to barricade themselves inside the mansion, she stayed here to protect the research materials.",
         "pt-BR": "[Lukie]\nNem Elyumina sabe como é o interior da mansão.\nEla preferiu ficar aqui com os outros para proteger os materiais de pesquisa.",
         "es-ES": "[Lukie]\nNi siquiera Elyumina sabe cómo es el interior de la mansión.\nPrefirió quedarse aquí con los demás para proteger los materiales de investigación."
     },
     "oPa0Bw": {
-        "ko-KR": "루키 : 하지만 입구는 안대요.",
         "en-US": "Rookie: But the entrance is not allowed.",
         "pt-BR": "Lukie: E a mansão tem uma entrada.",
         "es-ES": "Lukie: Y la mansión tiene una entrada."
     },
     "ofa0Bw": {
-        "ko-KR": "[루키]\n울타리 오른쪽 끝에 설치된 <NAVI>[수로]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI>를 통해 직접 들어갈 수 있다고 하네요\n정보도 얻어야 하고 남은 자들도 소탕해야 하니 직접 보는 게 낫겠지요. 함께 가 보시죠, 대장, 모험가님도!",
         "en-US": "[Rookie]\nIt seems you can enter directly through the <NAVI>[Sewer]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI> installed at the far right end of the fence.\nSince we need to gather information and clear out any remaining enemies, it would be best to see it for ourselves. Let's go together, Captain, and you too, Adventurer!",
         "pt-BR": "[Lukie]\nTem um <NAVI>[canal de esgoto]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI> perto da cerca.\nPreciso obter informações e interrogar os outros trabalhadores. Você poderia vir junto, viajante!",
         "es-ES": "[Lukie]\nHay un <NAVI>[canal de alcantarilla]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI> cerca de la cerca.\nNecesito obtener información e interrogar a los otros trabajadores. ¡Podrías acompañarme, trotamundos!"
     },
     "ova0Bw": {
-        "ko-KR": "[루키]\n새로운 소식이 있으면 가장 먼저 알려드리겠습니다, 모험가님!",
         "en-US": "[Rookie]\nIf there’s any new information, I’ll let you know first, Adventurer!",
         "pt-BR": "[Lukie]\nSe eu tiver novidades, eu avisarei você!",
         "es-ES": "[Lukie]\nSi tengo novedades, te avisaré."
     },
     "o/a0Bw": {
-        "ko-KR": "[루키]\n어, 이쪽은 아직 조사 중이에요. 모험가님.\n아직 무슨 위험 요소가 있을지 모르니 가까이 오지 마세요.",
         "en-US": "[Rookie]\nOh, we're still investigating this area, Adventurer.\nWe don't know what dangers might be here yet, so please don't come any closer.",
         "pt-BR": "[Lukie]\nViajante, ainda estamos investigando esse canal.\nNão sabemos o que tem lá dentro, então, melhor não se aproximar.",
         "es-ES": "[Lukie]\nTrotamundos, todavía estamos investigando ese canal.\nNo sabemos qué hay dentro, así que mejor no te acerques."
     },
     "pPa0Bw": {
-        "ko-KR": "[루키]\n이 수로에서 흘러나오는 물도 보기에는 깨끗해 보이지만, 먼저 조금 떠 가서 성분 조사를 의뢰하려고요.",
         "en-US": "[Rookie]\nThe water flowing out from this canal looks clean at first glance, but I plan to collect a sample and request an analysis of its components first.",
         "pt-BR": "[Lukie]\nA água que sai deste cano parece limpa. Vou coletar um pouco para análise de composição química.",
         "es-ES": "[Lukie]\nEl agua que sale de esta tubería parece limpia. Recogeré un poco para analizar su composición química."
     },
     "pfa0Bw": {
-        "ko-KR": "[루키]\n이곳엔 상상 이상인 것들이 즐비해서... 마치 멀쩡해 보이는 것들도 경계해야만 한다는 사실이 매분 매초 일깨워지네요.",
         "en-US": "[Rookie]\nThere are so many unimaginable things here... Every moment, I'm reminded that even things that seem perfectly normal need to be approached with caution.",
         "pt-BR": "[Lukie]\nHá muitas coisas nesse mundo que estão além da nossa imaginação... Queria entrar nessa mansão logo.",
         "es-ES": "[Lukie]\nHay muchas cosas en este mundo que están más allá de nuestra imaginación...\nOjalá pudiera entrar a esa mansión pronto."
     },
     "pva0Bw": {
-        "ko-KR": "[루키]\n아… 이거 참. 이게, 이거인 것 같은데… 또 잘 안 열리네. 뻑뻑해서 그런가?",
         "en-US": "[Rookie]\nAh... Geez. I think this is the right one, but... it just won't open. Is it stuck or something?",
         "pt-BR": "[Lukie]\nAh... então é aqui. Deixe-me tent-aaar aaa-briiir... Urgh, está muito enferrujado para puxar.",
         "es-ES": "[Lukie]\nAh... entonces es aquí. Déjame intent-aaaar abr-ir... Urgh, está demasiado oxidado para tirar."
     },
     "p/a0Bw": {
-        "ko-KR": "[루키]\n아, 해 주겠다고? 고마워, 고니.",
         "en-US": "[Rookie]\nOh, you'll do it? Thanks, Gony.",
         "pt-BR": "[Lukie]\nAh, quer tentar? Obrigado, Gonie.",
         "es-ES": "[Lukie]\nAh, ¿quieres intentar? Gracias, Gonie."
     },
     "qPa0Bw": {
-        "ko-KR": "[고니]\n……\n…………",
         "en-US": "[Gony]\n……\n…………",
         "pt-BR": "[Gonie]\n...\n......",
         "es-ES": "[Gonie]\n...\n......"
     },
     "qfa0Bw": {
-        "ko-KR": "[고니]\n……\n…………\n………………",
         "en-US": "[Gony]\n……\n…………\n………………",
         "pt-BR": "[Gonie]\n...\n......\n............",
         "es-ES": "[Gonie]\n...\n......\n............"
     },
     "qva0Bw": {
-        "ko-KR": "[루키]\n어, 고니. 그거 정말이야? 호오, 그렇구나. 재미있네……",
         "en-US": "[Rookie]\nOh, Gony. Is that true? Huh, I see. That's interesting...",
         "pt-BR": "[Lukie]\nIiih, Gonie, até você? Que engraçado...",
         "es-ES": "[Lukie]\nVaya, Gonie, ¿tú también? Qué gracioso..."
     },
     "q/a0Bw": {
-        "ko-KR": "[엘류미나]\n뭐야, 그 표정은? 난 진실만 말했어! 거기가 출입구야!\n이 상황에서 거짓말을 할 리가 없잖아. 거짓말을 하면 그게 바보 아냐?!",
         "en-US": "[Eliumina]\nWhat’s with that look? I’m only telling the truth! That’s the entrance over there!\nWhy would I lie in a situation like this? Wouldn’t it be stupid to lie now?!",
         "pt-BR": "[Elyumina]\nPor que estão me olhando assim? Eu disse a verdade! Essa é a entrada!\nEu não menti! Eu juro!",
         "es-ES": "[Elyumina]\n¿Por qué me miran así? ¡Dije la verdad! ¡Esta es la entrada!\n¡No mentí! ¡Lo juro!"
     },
     "rPa0Bw": {
-        "ko-KR": "[루키]\n누가 뭐라고 했나? 입구 찾았어.\n하지만 안에서 봉쇄돼 있더라. 고니 힘으로도 못 열도록 말이야. 그게 재밌다는 거였는데.",
         "en-US": "[Rookie]\nDid someone say something? I found the entrance.\nBut it's sealed from the inside. Even Gony couldn't open it with force. That's what made it interesting.",
         "pt-BR": "[Lukie]\nCalma, ninguém está te acusando de nada.\nA entrada só está trancada. Não consigo nem abrir com minhas próprias forças. Achei engraçado.",
         "es-ES": "[Lukie]\nTranquila, nadie te acusa de nada.\nLa entrada solo está cerrada. Ni siquiera puedo abrirla con mis propias fuerzas. Me pareció gracioso."
     },
     "rfa0Bw": {
-        "ko-KR": "[루키]\n혹시 안이랑 말을 맞췄는지 확인해야 했는데, 그럴 필요는 없어졌네.\n너 생각보다 더 좋은 녀석이구나. 네 말마따나 바보도 아니고.",
         "en-US": "[Rookie]\nI was going to check if you had coordinated with Ani, but it looks like that's no longer necessary.\nYou're a better person than I thought. Like you said, you're no fool.",
         "pt-BR": "[Lukie]\nEu só deveria saber que você poderia ter mandado fechar a entrada antes da gente te interrogar.\nSabemos que idiota você não é.",
         "es-ES": "[Lukie]\nSolo debería haber sabido que podrías haber mandado cerrar la entrada antes de que te interrogáramos.\nSabemos que tonta no eres."
     },
     "rva0Bw": {
-        "ko-KR": "엘류미나 : …누굴 놀려! 아악!",
         "en-US": "Eliumina: …Who are you making fun of! Argh!",
         "pt-BR": "Elyumina: ...Claro que não sou!",
         "es-ES": "Elyumina: ...¡Claro que no lo soy!"
     },
     "r/a0Bw": {
-        "ko-KR": "[루키]\n모험가님, 리벨리온은 여기를 포위하고 당분간 주변을 조사할 거예요.\n저곳이 어디인지 알았으니 물러날 수 없죠.",
         "en-US": "[Rookie]\nAdventurer, Rebellion will surround this area and investigate the surroundings for a while.\nNow that we know where that place is, we can't back down.",
         "pt-BR": "[Lukie]\nViajante, a Rebelião vai sitiar aqui e investigar o perímetro por um tempo.\nAgora que sabemos desse lugar, não podemos ignorá-lo.",
         "es-ES": "[Lukie]\nTrotamundos, la Rebelión se desplegará por esta zona y patrullará los alrededores un tempo.\nAhora que conocemos este sitio, no podemos ignorarlo."
     },
     "sPa0Bw": {
-        "ko-KR": "[루키]\n우리와는 은원이 깊은 정부와 기업. 그 두 집단과 손을 잡든 잡지 않든 일루시온에게서는 저 바르문트의 유산을 반드시 탈환해야 합니다.",
         "en-US": "[Rookie]\nThe government and corporations have a long-standing feud with us. Whether we choose to ally with those two groups or not, we must reclaim the legacy of Verus from Illusion at all costs.",
         "pt-BR": "[Lukie]\nAgora que a Rebelião se juntou com o Vento Secreto e a Rekenber, devemos descobrir o porquê da Ilusión proteger o ^0000CDlegado de Varmunt^000000.",
         "es-ES": "[Lukie]\nAhora que la Rebelión se unió con Viento Secreto y Rekenber,\ndebemos descubrir por qué Ilusión protege el ^0000CDlegado de Varmunt^000000."
     },
     "sfa0Bw": {
-        "ko-KR": "[루키]\n하지만 지금 당장은 말씀드린 대로 입구가 봉쇄되어 있지요.\n정보를 더 얻게 되면 연락드릴게요. 그러니 당분간 한숨 돌리도록 하세요.",
         "en-US": "[Rookie]\nBut as I mentioned, the entrance is currently sealed off.\nI'll contact you if I get more information. So for now, try to take a breather.",
         "pt-BR": "[Lukie]\nMas agora, a entrada está fechada.\nEu entrarei em contato com você quando eu conseguir mais informações. Então, faça uma pausa por um tempo.",
         "es-ES": "[Lukie]\nPero por ahora, la entrada está cerrada.\nMe pondré en contacto contigo cuando obtenga más información. Así que tómate un descanso por ahora."
     },
     "sva0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n아, 그렇지. 엘류미나도 당분간은 이곳에 억류할 예정이다.\n지금으로서는 일루시온에 대해 가장 많은 정보를 가진 자이니 바깥으로 내돌릴 수는 없지.",
         "en-US": "[Elena Volkova]\nAh, that's right. Eliumina will also be detained here for the time being.\nRight now, since she has the most information about Illusion, we can't just let her go outside.",
         "pt-BR": "[Elena Bolkova]\nAh, sim. Elyumina também ficará detida aqui, por enquanto.\nEla sabe tudo sobre a Ilusión, então não podemos perdê-la de vista.",
         "es-ES": "[Elena Bolkova]\nAh, sí. Elyumina también quedará detenida aquí por ahora.\nElla lo sabe todo sobre Ilusión, así que no podemos perderla de vista."
     },
     "s/a0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n우리가 감시하면서 이곳에서 얻을 수 있는 파손된 무기를 우리가 쓸 수 있도록 개조할 수 있는지 시켜 볼 생각이야.",
         "en-US": "[Elena Volkova]\nI'm thinking of having them see if they can modify the damaged weapons we find here while we're keeping watch, so that we can use them ourselves.",
         "pt-BR": "[Elena Bolkova]\nVamos ver se ela pode ajudar a recuperar as Armas Danificadas que encontramos aqui.",
         "es-ES": "[Elena Bolkova]\nVeamos si puede ayudar a recuperar las Armas Dañadas que encontramos aquí."
     },
     "tPa0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n너도 혹시 관심 있다면 똘똘한 <NAVI>[부하]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>녀석들이 관리할 예정이니 가서 물어보도록 해.",
         "en-US": "[Elena Volkova]\nIf you're interested as well, those smart <NAVI>[subordinates]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI> will be in charge, so go and ask them.",
         "pt-BR": "[Elena Bolkova]\nSe você tiver interesse nessas armas, fale com um dos meus <NAVI>[subordinados]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>.",
         "es-ES": "[Elena Bolkova]\nSi te interesan esas armas, habla con uno de mis <NAVI>[subordinados]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>."
     },
     "tfa0Bw": {
-        "ko-KR": "[루키]\n이 주변에 아직 할 일이 꽤 많으니, 혹시 한가해지신다면 주변의 일손을 좀 도와주셔도 좋고요.\n그럼 행운을 빕니다, 모험가님! 새로운 정보을 알게 되면 연락드릴게요!",
         "en-US": "[Rookie]\nThere’s still quite a bit to do around here, so if you find yourself with some free time, feel free to lend a hand with the local tasks.\nGood luck, adventurer! I’ll contact you if I learn any new information!",
         "pt-BR": "[Lukie]\nTem muita coisa para fazer aqui, se você quiser, pode ajudar os trabalhadores.\nE boa sorte, viajante! Entrarei em contato com você quando tiver novas informações!",
         "es-ES": "[Lukie]\nHay mucho que hacer aquí. Si quieres, puedes ayudar a los trabajadores.\n¡Y buena suerte, trotamundos! ¡Me pondré en contacto contigo cuando tenga nueva información!"
     },
     "tva0Bw": {
-        "ko-KR": "[루키]\n정보를 더 얻게 되면 연락드릴게요. 그러니 당분간 한숨 돌리도록 하세요.\n엘류미나도 당분간은 여기서 맡아야겠지요.",
         "en-US": "[Rookie]\nI'll contact you if I get any more information. So, take a breather for now.\nI suppose I'll have to look after Eliumina here for the time being as well.",
         "pt-BR": "[Lukie]\nEu entrarei em contato com você quando eu conseguir mais informações. Então faça uma pausa por um tempo.\nElyumina estará no comando aqui por enquanto.",
         "es-ES": "[Lukie]\nMe pondré en contacto contigo cuando consiga más información. Así que descansa un poco.\nElyumina quedará al mando aquí por ahora."
     },
     "t/a0Bw": {
-        "ko-KR": "[루키]\n저희가 감시하면서 이곳에서 얻을 수 있는 파손된 무기를 우리가 쓸 수 있도록 개조하도록 제안해 볼 예정이에요.",
         "en-US": "[Rookie]\nWe plan to suggest that, while we’re monitoring this place, we modify the broken weapons we find here so that we can use them ourselves.",
         "pt-BR": "[Lukie]\nEnquanto isso, experimente ajudar os outros insurgentes a recuperarem as Armas Danificadas.",
         "es-ES": "[Lukie]\nMientras tanto, intenta ayudar a los otros insurgentes a recuperar las Armas Dañadas."
     },
     "uPa0Bw": {
-        "ko-KR": "[루키]\n모험가님도 혹시 관심 있으시다면 볼코바 대장님 <NAVI>[부하들]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI> 쪽에서 관리하고 있으니 가서 물어보세요.",
         "en-US": "[Rookie]\nIf you're interested, Adventurer, Captain Volkova is in charge of it over by <NAVI>[Subordinates]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>, so go and ask there.",
         "pt-BR": "[Lukie]\nVá até um <NAVI>[insurgente]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI> subordinado da comandante Elena.",
         "es-ES": "[Lukie]\nVe a un <NAVI>[insurgente]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI> subordinado de la comandante Elena."
     },
     "ufa0Bw": {
-        "ko-KR": "리벨리온",
         "en-US": "Rebellion",
         "pt-BR": "Insurgente",
         "es-ES": "Rebelde"
     },
     "uva0Bw": {
-        "ko-KR": "[리벨리온]\n이 건물은 임시로 리벨리온에서 사용하고 있습니다.\n이 주변의 몇몇 다른 건물도 말이지요.",
         "en-US": "[Rebellion]\nThis building is currently being used by Rebellion.\nA few other buildings in the area are as well.",
         "pt-BR": "[Insurgente]\nEsse local está sendo ocupado temporariamente pela Rebelião.\nFico orgulhosa de ter ajudado na operação.",
         "es-ES": "[Rebelde]\nEste lugar está siendo ocupado temporalmente por la Rebelión.\nMe enorgullece haber ayudado en la operación."
     },
     "u/a0Bw": {
-        "ko-KR": "[리벨리온]\n간만에 바쁘네요.\n대통령이니 기업이랑 손잡는 게 그다지 탐탁한 건 아니지만, 그래도 뭔가 하고 있다는 기분이 드는 건 좋군요.",
         "en-US": "[Rebellion]\nIt's been a while since I've been this busy.\nI'm not exactly thrilled about the president teaming up with corporations, but it does feel good to be actually doing something.",
         "pt-BR": "[Insurgente]\nFaz tempo que não tivemos uma missão tão grandiosa assim.\nEu só não gosto de estar ajudando a Rekenber nesse processo.",
         "es-ES": "[Rebelde]\nHace tiempo que no teníamos una misión tan grande.\nLo único que no me gusta es estar ayudando a Rekenber en el proceso."
     },
     "vPa0Bw": {
-        "ko-KR": "[리벨리온]\n연락 받으셨군요! 지금 대장님들이 안에 모여서 회의하고 계십니다. 엘레나 볼코바 대장님이 모험가님을 부르셨을 겁니다.\n불러 드리… 려고 했는데, 벌써 오셨군요.",
         "en-US": "[Rebellion]\nYou received the message! The commanders are currently gathered inside for a meeting. Captain Elena Volkova must have called for you, adventurer.\nI was just about to call you in... but you’re already here.",
         "pt-BR": "[Insurgente]\nVocê recebeu a mensagem! Nesse momento, os líderes estão se reunindo lá dentro. A comandante Elena Bolkova deve ter chamado você.\nEu ia chamá-la, mas... ela já está aqui.",
         "es-ES": "[Rebelde]\n¡Recibiste el mensaje! En este momento, los líderes se están reuniendo allí dentro. La comandante Elena Bolkova seguramente te llamó.\nIba a llamarte, pero... ya estás aquí."
     },
     "vfa0Bw": {
-        "ko-KR": "엘레나 볼코바 : 아, 찾고 있었다, 모험가.",
         "en-US": "Elena Volkova: Ah, I was looking for you, adventurer.",
         "pt-BR": "Elena Bolkova: Te achei, viajante.",
         "es-ES": "Elena Bolkova: Te encontré, trotamundos."
     },
     "vva0Bw": {
-        "ko-KR": "[리벨리온]\n이 건물은 임시로 리벨리온에서 사용하고 있습니다.\n이 주변의 몇몇 다른 건물도요.",
         "en-US": "[Rebellion]\nThis building is currently being used by Rebellion.\nSeveral other buildings in the area are as well.",
         "pt-BR": "[Insurgente]\nEsse local está sendo ocupado temporariamente pela Rebelião.\nFico orgulhosa de ter ajudado na operação.",
         "es-ES": "[Rebelde]\nEste lugar está siendo ocupado temporalmente por la Rebelión.\nMe enorgullece haber ayudado en la operación."
     },
     "v/a0Bw": {
-        "ko-KR": "[리벨리온]\n파손된 무기 가져오셨습니까? 과학 범죄자 찾으시나요? 안에 있습니다. 불러 드릴까요?\n아니면 제게 용무가 있으신가요? 무기 개조장치, 방어구 개조모듈은 제가 교환해드리고 있습니다.",
         "en-US": "[Rebellion]\nDid you bring the damaged weapon? Are you looking for the science criminal? They're inside. Shall I call them for you?\nOr do you need something from me? I can exchange weapon modification devices and armor modification modules for you.",
         "pt-BR": "[Insurgente]\nVocê quer falar com aquela criminosa ou quer falar comigo?\nEu posso trocar alguns Módulos e vender Moduladores.",
         "es-ES": "[Rebelde]\n¿Quieres hablar con esa criminal o quieres hablar conmigo?\nPuedo intercambiar algunos Módulos y vender Moduladores."
     },
     "wPa0Bw": {
-        "ko-KR": "리벨리온 : 어이, 범죄자, 너 찾으신다!",
         "en-US": "Rebellion: Hey, criminal, someone’s looking for you!",
         "pt-BR": "Insurgente: Ei, bandida, tem gente querendo falar com você!",
         "es-ES": "Rebelde: ¡Eh, bandida, hay gente que quiere hablar contigo!"
     },
     "wfa0Bw": {
-        "ko-KR": "엘류미나 : 간다, 간다고! 너넨 나 아니면 여기서 총도 못 구해서 콩주머니 던지면서 싸워야 할 테니까 이 몸이 가 주셔야지!",
         "en-US": "Eliumina: I'm going, I'm really going! Without me, you guys wouldn't even be able to get a gun here—you'd have to fight by throwing beanbags! That's why you need me to go!",
         "pt-BR": "Elyumina: Já vou, já vou! Vocês não conseguem fazer nada sem mim!",
         "es-ES": "Elyumina: ¡Ya voy, ya voy! ¡No pueden hacer nada sin mí!"
     },
     "wva0Bw": {
-        "ko-KR": "엘류미나에게 용무가 있다.",
         "en-US": "I have business with Eliumina.",
         "pt-BR": "Vou falar com Elyumina.",
         "es-ES": "Hablar con Elyumina."
     },
     "w/a0Bw": {
-        "ko-KR": "무기 개조 장치 요청",
         "en-US": "Weapon Modification Device Request",
         "pt-BR": "Comprar Moduladores",
         "es-ES": "Comprar Moduladores"
     },
     "xPa0Bw": {
-        "ko-KR": "방어구 개조 모듈 요청",
         "en-US": "Requesting armor modification module.",
         "pt-BR": "Trocar Módulos",
         "es-ES": "Intercambiar Módulos"
     },
     "xfa0Bw": {
-        "ko-KR": "[리벨리온]\n예, 그럼 이야기 나누십시오.\n이래저래 달래느라 진을 빼기는 했지만 그 녀석이 무기와 방어구를 개조해 주기로 했거든요. 시키니까 잘 하데요. 하루 종일 틀어박혀서 작업하더군요.",
         "en-US": "[Rebellion]\nYes, go ahead and talk to him.\nIt was exhausting trying to calm him down, but he agreed to modify weapons and armor for us. Once you give him a task, he does it well. He spent the whole day holed up working on it.",
         "pt-BR": "[Insurgente]\nTudo bem.\nLevou um tempo para convencê-la de produzir armas e equipamentos para nós. E ela se saiu muito bem nisso.",
         "es-ES": "[Rebelde]\nEstá bien.\nNos llevó un tiempo convencerla de producir armas y equipos para nosotros. Y lo hizo muy bien."
     },
     "xva0Bw": {
-        "ko-KR": "엘류미나 : 뭐야, 뭔데! 왜 사람을 불러 놓고 옆에 장식물처럼 세워놔?! 하여간 야만스럽긴!",
         "en-US": "Eliumina: What is this, what’s going on?! Why did you call me here just to have me stand around like some kind of decoration?! Honestly, how barbaric!",
         "pt-BR": "Elyumina: Aff! Se não é comigo, porque devo ficar parada aqui que nem uma planta?",
         "es-ES": "Elyumina: ¡Aff! Si no es conmigo, ¿por qué tengo que quedarme aquí parada como una planta?"
     },
     "x/a0Bw": {
-        "ko-KR": "[리벨리온]\n무기 개조장치가 필요하신가요? <ITEM>[코르 코어]<INFO>25723</INFO></ITEM> 5개 또는 100만 제니로 교환해 드립니다… 만.\n지금 가방이 가득 차 있으시네요. 가방을 정리하고 와 주세요.",
         "en-US": "[Rebellion]\nDo you need a weapon modification device? I can exchange it for 5 <ITEM>[Core Core]<INFO>25723</INFO></ITEM> or 1,000,000 Zeny... but,\nyour inventory is currently full. Please organize your bag and come back.",
         "pt-BR": "[Insurgente]\nMe traga 5 <ITEM>[Núcleo COR]<INFO>25723</INFO></ITEM> ou 1 milhão de zeny.\nSua bolsa está cheia agora. Libere espaço.",
         "es-ES": "[Rebelde]\nTráeme 5 <ITEM>[Núcleo COR]<INFO>25723</INFO></ITEM> o 1 millón de zeny.\nTu bolsa está llena ahora. Libera espacio."
     },
     "yPa0Bw": {
-        "ko-KR": "[리벨리온]\n무기 개조장치가 필요하신가요? <ITEM>[코르 코어]<INFO>25723</INFO></ITEM> 5개 또는 100만 제니로 교환해 드립니다.\n무기가 필요하시면 엘류미나가 제작해주고 있으니 그와 대화하시면 됩니다.",
         "en-US": "[Rebellion]\nDo you need a weapon modification device? I can exchange it for 5 <ITEM>[Core Core]<INFO>25723</INFO></ITEM> or 1,000,000 Zeny.\nIf you need a weapon, Eliumina is crafting them, so just talk to him.",
         "pt-BR": "[Insurgente]\nMe traga 5 <ITEM>[Núcleo COR]<INFO>25723</INFO></ITEM> ou 1 milhão de zeny.\nSe quiser arma, fale com a Elyumina.",
         "es-ES": "[Rebelde]\nTráeme 5 <ITEM>[Núcleo COR]<INFO>25723</INFO></ITEM> o 1 millón de zeny.\nSi quieres un arma, habla con Elyumina."
     },
     "yfa0Bw": {
-        "ko-KR": "무기 개조 장치(물리) 요청",
         "en-US": "Weapon Modification Device (Physical) Request",
         "pt-BR": "Moduladores Físicos",
         "es-ES": "Moduladores Físicos"
     },
     "yva0Bw": {
-        "ko-KR": "무기 개조 장치(마법) 요청",
         "en-US": "Weapon Modification Device (Magic) Request",
         "pt-BR": "Moduladores Mágicos",
         "es-ES": "Moduladores Mágicos"
     },
     "y/a0Bw": {
-        "ko-KR": "[리벨리온]\n<ITEM>[무기 개조 장치(물리)]<INFO>23776</INFO></ITEM>, <ITEM>[상급 무기 개조 장치(물리)]<INFO>23777</INFO></ITEM>, <ITEM>[최상급 무기 개조 장치(물리)]<INFO>23778</INFO></ITEM> 중 하나를 무작위로 지급해 드립니다.\n코르 코어 5개와 100만 제니 중, 어느 것으로 교환하시겠습니까?",
         "en-US": "[Rebellion]\nYou will receive one item at random from <ITEM>[Weapon Modification Device (Physical))]<INFO>23776</INFO></ITEM>, <ITEM>[Advanced Weapon Modification Device (Physical)]<INFO>23777</INFO></ITEM>, or <ITEM>[Superior Weapon Modification Device (Physical)]<INFO>23778</INFO></ITEM>.\nWould you like to exchange 5 Core Cores or 1,000,000 Zeny?",
         "pt-BR": "[Insurgente]\nTenho <ITEM>[Modulador Físico Comum]<INFO>23776</INFO></ITEM>, <ITEM>[Modulador Físico Avançado]<INFO>23777</INFO></ITEM> e <ITEM>[Modulador Físico Premium]<INFO>23778</INFO></ITEM>. Você vai receber uma variante aleatória.\nComo deseja comprar?",
         "es-ES": "[Rebelde]\nTengo <ITEM>[Modulador Físico Común]<INFO>23776</INFO></ITEM>, <ITEM>[Modulador Físico Avanzado]<INFO>23777</INFO></ITEM> y <ITEM>[Modulador Físico Premium]<INFO>23778</INFO></ITEM>. Recibirás una variante aleatoria.\n¿Cómo deseas comprar?"
     },
     "zPa0Bw": {
-        "ko-KR": "코르 코어 5개",
         "en-US": "5 Core Cores",
         "pt-BR": "Com 5 Núcleos COR",
         "es-ES": "Con 5 Núcleos COR"
     },
     "zfa0Bw": {
-        "ko-KR": "100만 제니",
         "en-US": "1,000,000 Zeny",
         "pt-BR": "Com 1.000.000 zenys",
         "es-ES": "Con 1 millón de zenys"
     },
     "zva0Bw": {
-        "ko-KR": "[리벨리온]\n가지고 계신 코르 코어가 부족합니다. 가방을 다시 한 번 확인해 주세요.",
         "en-US": "[Rebellion]\nYou do not have enough Cor Core. Please check your inventory again.",
         "pt-BR": "[Insurgente]\nVocê não tem núcleos suficientes. Por favor, verifique sua bolsa novamente.",
         "es-ES": "[Rebelde]\nNo tienes núcleos suficientes. Verifica tu bolsa nuevamente."
     },
     "z/a0Bw": {
-        "ko-KR": "[리벨리온]\n가지고 계신 제니가 부족합니다. 지갑을 다시 한 번 확인해 주세요.",
         "en-US": "[Rebellion]\nYou do not have enough Zeny. Please check your wallet again.",
         "pt-BR": "[Insurgente]\nVocê não tem zeny suficiente. Por favor, verifique sua carteira novamente.",
         "es-ES": "[Rebelde]\nNo tienes zeny suficiente. Verifica tu cartera nuevamente."
     },
     "0Pa0Bw": {
-        "ko-KR": "[리벨리온]\n지금 남은 것들 중 가장 좋은 것으로 챙겨드렸습니다!\n강화는 제 옆에 있는 <NAVI>[고철덩이]<INFO>sp_cor,106,136,0,101,0</INFO></NAVI>가 잘 해줄 겁니다.",
         "en-US": "[Rebellion]\nI've picked out the best of what's left for you!\nFor upgrades, <NAVI>[Scrap Pile]<INFO>sp_cor,106,136,0,101,0</INFO></NAVI> right next to me will handle it well.",
         "pt-BR": "[Insurgente]\nEsse é o melhor Modulador que eu tenho.\nSe quiser refiná-lo, fale com o <NAVI>[RS26]<INFO>sp_cor,106,136,0,101,0</INFO></NAVI> aqui do lado.",
         "es-ES": "[Rebelde]\nEste es el mejor Modulador que tengo.\nSi quieres refinarlo, habla con el <NAVI>[RS26]<INFO>sp_cor,106,136,0,101,0</INFO></NAVI> de aquí al lado."
     },
     "0fa0Bw": {
-        "ko-KR": "[리벨리온]\n뭔가 문제가 생긴 것 같습니다… 가방 정리는 하셨는지, 교환할 물품은 잘 가지고 계신지 다시 확인 부탁드려요.",
         "en-US": "[Rebellion]\nIt seems that something has gone wrong... Please double-check if you've organized your inventory and if you have the items ready for exchange.",
         "pt-BR": "[Insurgente]\nAlgo parece ter dado errado... Por favor, verifique novamente se você organizou sua bolsa e tem os itens para serem trocados.",
         "es-ES": "[Rebelde]\nAlgo parece haber salido mal... Verifica nuevamente si organizaste tu bolsa y tienes los objetos para intercambiar."
     },
     "0va0Bw": {
-        "ko-KR": "[리벨리온]\n<ITEM>[무기 개조 장치(마법)]<INFO>23779</INFO></ITEM>, <ITEM>[상급 무기 개조 장치(마법)]<INFO>23780</INFO></ITEM>, <ITEM>[최상급 무기 개조 장치(마법)]<INFO>23781</INFO></ITEM> 중 하나를 무작위로 지급해 드립니다.\n코르 코어 5개와 100만 제니 중, 어느 것으로 교환하시겠습니까?",
         "en-US": "[Rebellion]\nYou will receive one of the following items at random: <ITEM>[Weapon Modification Device (Magic)]<INFO>23779</INFO></ITEM>, <ITEM>[Advanced Weapon Modification Device (Magic)]<INFO>23780</INFO></ITEM>, or <ITEM>[Superior Weapon Modification Device (Magic)]<INFO>23781</INFO></ITEM>.\nWould you like to exchange for 5 Core Cores or 1,000,000 Zeny?",
         "pt-BR": "[Insurgente]\nTenho <ITEM>[Modulador Mágico Comum]<INFO>23779</INFO></ITEM>, <ITEM>[Modulador Mágico Avançado]<INFO>23780</INFO></ITEM> e <ITEM>[Modulador Mágico Premium] <INFO>23781</INFO></ITEM>. Você vai receber uma variante aleatória.\nComo deseja comprar?",
         "es-ES": "[Rebelde]\nTengo <ITEM>[Modulador Mágico Común]<INFO>23779</INFO></ITEM>, <ITEM>[Modulador Mágico Avanzado]<INFO>23780</INFO></ITEM> y <ITEM>[Modulador Mágico Premium]<INFO>23781</INFO></ITEM>. Recibirás una variante aleatoria.\n¿Cómo deseas comprar?"
     },
     "0/a0Bw": {
-        "ko-KR": "[리벨리온]\n갖고 계신 코르 코어가 부족합니다. 가방을 다시 확인해 주세요.",
         "en-US": "[Rebellion]\nYou do not have enough Core Core. Please check your inventory again.",
         "pt-BR": "[Insurgente]\nVocê não tem Núcleos COR  suficientes. Verifique sua mochila.",
         "es-ES": "[Rebelde]\nNo tienes Núcleos COR suficientes. Verifica tu mochila."
     },
     "1Pa0Bw": {
-        "ko-KR": "[리벨리온]\n갖고 계신 제니가 부족합니다. 지갑을 다시 확인해 주세요.",
         "en-US": "[Rebellion]\nYou don't have enough Zeny. Please check your wallet again.",
         "pt-BR": "[Insurgente]\nVocê não tem zenys suficientes. Verifique sua carteira.",
         "es-ES": "[Rebelde]\nNo tienes zenys suficientes. Verifica tu cartera."
     },
     "1fa0Bw": {
-        "ko-KR": "[리벨리온]\n뭔가 문제가 생긴 것 같습니다… 가방 정리 하셨는지, 교환할 물품은 잘 가지고 계신지 다시 확인 부탁드려요.",
         "en-US": "[Rebellion]\nIt seems that something has gone wrong... Please double-check if you've organized your bag and if you have the items ready for exchange.",
         "pt-BR": "[Insurgente]\nVocê não vai conseguir item nenhum assim.\nSua bolsa está cheia. Por favor, alivie sua carga.",
         "es-ES": "[Rebelde]\nNo conseguirás ningún objeto así.\nTu bolsa está llena. Por favor, aligera tu carga."
     },
     "1va0Bw": {
-        "ko-KR": "엘류미나 : 뭐야, 뭔데! 왜 사람을 불러 놓고 옆에 장식물처럼 세워놔?! 하여간 상식도 없는 놈들 같으니!",
         "en-US": "Eliumina: What is this, what’s going on! Why did you call me here just to have me stand around like some kind of decoration?! Seriously, you people have no sense at all!",
         "pt-BR": "Elyumina: O quê? Se era só para me deixar aqui parada como uma estátua, por que me chamou então? Seus brutos!",
         "es-ES": "Elyumina: ¿¡Qué!? Si solo ibas a dejarme aquí parada como una estatua, ¿para qué me llamaste? ¡Brutos!"
     },
     "1/a0Bw": {
-        "ko-KR": "[리벨리온]\n방어구 개조 모듈이 필요하신가요? <ITEM>[의문의 부속품]<INFO>25669</INFO></ITEM> 30개와 <ITEM>[코르 코어]<INFO>25723</INFO></ITEM> 5개로 교환해 드립니다… 만.\n지금 가방이 가득 차 있으시네요. 가방을 정리하고 와 주세요.",
         "en-US": "[Rebellion]\nDo you need an Armor Modification Module? I can exchange 30 <ITEM>[Mysterious Component]<INFO>25669</INFO></ITEM> and 5 <ITEM>[Core Core]<INFO>25723</INFO></ITEM> for one... however,\nyour inventory is currently full. Please organize your bag and come back.",
         "pt-BR": "[Insurgente]\nMe traga 30 <ITEM>[Chip Misterioso]<INFO>25669</INFO></ITEM> e\n5 <ITEM>[Núcleo COR]<INFO>25723</INFO></ITEM> para receber um Módulo.\nSua bolsa está cheia. Por favor, alivie sua carga.",
         "es-ES": "[Rebelde]\nTráeme 30 <ITEM>[Chip Misterioso]<INFO>25669</INFO></ITEM> y 5 <ITEM>[Núcleo COR]<INFO>25723</INFO></ITEM> para recibir un Módulo.\nTu bolsa está llena. Por favor, aligera tu carga."
     },
     "2Pa0Bw": {
-        "ko-KR": "[리벨리온]\n방어구 개조 모듈이 필요하신가요? <ITEM>[의문의 부속품]<INFO>25669</INFO></ITEM> 30개와 <ITEM>[코르 코어]<INFO>25723</INFO></ITEM> 5개로 교환해 드립니다.\n종류는 무작위로 지급합니다.",
         "en-US": "[Rebellion]\nDo you need an armor modification module? I can exchange 30 <ITEM>[Mysterious Component]<INFO>25669</INFO></ITEM> and 5 <ITEM>[Core Core]<INFO>25723</INFO></ITEM> for one.\nThe type will be given at random.",
         "pt-BR": "[Insurgente]\nMe traga 30 <ITEM>[Chip Misterioso]<INFO>25669</INFO></ITEM> e\n5 <ITEM>[Núcleo COR]<INFO>25723</INFO></ITEM> para conseguir um Módulo ^FF0000aleatório^000000.",
         "es-ES": "[Rebelde]\nTráeme 30 <ITEM>[Chip Misterioso]<INFO>25669</INFO></ITEM> y 5 <ITEM>[Núcleo COR]<INFO>25723</INFO></ITEM> para obtener un Módulo ^FF0000aleatorio^000000."
     },
     "2fa0Bw": {
-        "ko-KR": "[리벨리온]\n방어구 개조 모듈이 필요하실 때는 언제든 저에게 요청해주시면 됩니다.",
         "en-US": "[Rebellion]\nIf you ever need an armor modification module, just let me know anytime.",
         "pt-BR": "[Insurgente]\nSe você precisar de um Módulo de modificação, pode me pedir.",
         "es-ES": "[Rebelde]\nSi necesitas un Módulo de modificación, puedes pedírmelo."
     },
     "2va0Bw": {
-        "ko-KR": "[리벨리온]\n모듈을 요청하시려면 의문의 부속품 30개와 코르 코어 5개를 주셔야 합니다. 수량이 부족하니 다시 확인해 주세요.",
         "en-US": "[Rebellion]\nTo request a module, you need to provide 30 Mysterious Components and 5 Core Cores. You don't have enough, so please check again.",
         "pt-BR": "[Insurgente]\nA quantidade de materiais é insuficiente. Verifique novamente.",
         "es-ES": "[Rebelde]\nLa cantidad de materiales es insuficiente. Verifica nuevamente."
     },
     "2/a0Bw": {
-        "ko-KR": "[리벨리온]\n방어구 개조 모듈을 지급해 드렸습니다.\n강화는 제 옆에 있는 <NAVI>[고철덩이]<INFO>sp_cor,106,136,0,101,0</INFO></NAVI>가 잘 해줄 겁니다.",
         "en-US": "[Rebellion]\nYou have received an armor modification module.\nFor enhancements, <NAVI>[Scrap Metal]<INFO>sp_cor,106,136,0,101,0</INFO></NAVI> next to me will handle it well.",
         "pt-BR": "[Insurgente]\nEu te dei um Módulo de modificação.\nSe quiser refiná-lo, fale com o <NAVI>[RS26]<INFO>sp_cor,106,136,0,101,0</INFO></NAVI> aqui do lado.",
         "es-ES": "[Rebelde]\nTe di un Módulo de modificación.\nSi quieres refinarlo, habla con el <NAVI>[RS26]<INFO>sp_cor,106,136,0,101,0</INFO></NAVI> de aquí al lado."
     },
     "3Pa0Bw": {
-        "ko-KR": "[리벨리온]\n뭔가 문제가 생긴 것 같습니다… 가방 정리는 다 하셨는지, 교환할 물품은 잘 가지고 계신지 다시 확인 부탁드립니다.",
         "en-US": "[Rebellion]\nIt seems that something has gone wrong... Please double-check if you have finished organizing your bag and if you are carrying the items you wish to exchange.",
         "pt-BR": "[Insurgente]\nAlgo parece ter dado errado... Por favor, verifique novamente se você organizou sua bolsa e tem os itens para serem trocados.",
         "es-ES": "[Rebelde]\nAlgo parece haber salido mal... Verifica nuevamente si organizaste tu bolsa y tienes los objetos para intercambiar."
     },
     "3fa0Bw": {
-        "ko-KR": "엘류미나",
         "en-US": "Eliumina",
         "pt-BR": "Elyumina",
         "es-ES": "Elyumina"
     },
     "3va0Bw": {
-        "ko-KR": "[엘류미나]\n아, 진짜. 사람 연구하느라 바쁜데 쓸데없이 불러내지 마. 이 몸은 바쁘다고, 알았어? 한가하면 나가서 파손된 무기나 더 주워 와!",
         "en-US": "[Eliumina]\nUgh, seriously. I'm busy researching humans, so don't call me out for pointless things. I'm telling you, I'm busy, got it? If you have free time, go out and pick up more broken weapons!",
         "pt-BR": "[Elyumina]\nAff... Eu tô focada nas minhas pesquisas! Por que você fica me interrompendo? Se quiser algo para fazer, me traga mais Armas Danificadas!",
         "es-ES": "[Elyumina]\nAff... ¡Estoy concentrada en mis investigaciones! ¿Por qué me sigues interrumpiendo?\n¡Si quieres algo que hacer, tráeme más Armas Dañadas!"
     },
     "3/a0Bw": {
-        "ko-KR": "[엘류미나]\n무기나 방어구 때문에 온 거 아니야? 가방 꽉 찼는데? 바쁜 사람 앞에서 꾸물거리면서 재료 찾을 생각 말고 정리하고 다시 와!",
         "en-US": "[Eliumina]\nYou're not here because of weapons or armor, are you? Your bag is already full! Don't stand around looking for materials in front of someone busy—go organize your inventory and come back!",
         "pt-BR": "[Elyumina]\nHmpf. Você nem se toca que está carregando coisas demais!",
         "es-ES": "[Elyumina]\nHmpf. ¡Ni siquiera te das cuenta de que llevas demasiadas cosas!"
     },
     "4Pa0Bw": {
-        "ko-KR": "- 가방이 가득 찼습니다. 가방을 비우고 다시 말을 걸어 주세요. -",
         "en-US": "- Your inventory is full. Please clear some space in your bag and talk to me again. -",
         "pt-BR": "- Sua bolsa está cheia. Por favor, esvazie seu inventário e fale comigo novamente. -",
         "es-ES": "- Tu bolsa está llena. Vacía tu inventario y habla conmigo de nuevo. -"
     },
     "4fa0Bw": {
-        "ko-KR": "[엘류미나]\n무슨 일이야? 연구하느라 바쁜 사람을 불러냈으면 용건은 당연히 너무나 중요해서 촌각을 다투기 때문에 반드시 지금 당장 이야기해야 하는 거겠지?",
         "en-US": "[Eliumina]\nWhat is it? If you've called out someone as busy as I am with research, then it must be something extremely important and urgent—so I assume you need to tell me right this instant?",
         "pt-BR": "[Elyumina]\nO que você quer de tão importante para interromper minhas pesquisas?",
         "es-ES": "[Elyumina]\n¿Qué quieres que sea tan importante como para interrumpir mis investigaciones?"
     },
     "4va0Bw": {
-        "ko-KR": "OS 무기 요청",
         "en-US": "Requesting OS weapon",
         "pt-BR": "Criar Arma OS",
         "es-ES": "Crear Arma OS"
     },
     "4/a0Bw": {
-        "ko-KR": "일루시온 방어구 요청",
         "en-US": "Illusion Armor Request",
         "pt-BR": "Criar Equipamento Ilusión",
         "es-ES": "Crear Equipo Ilusión"
     },
     "5Pa0Bw": {
-        "ko-KR": "[엘류미나]\nOS 무기? <ITEM>[파손된 무기]<INFO>25668</INFO></ITEM> 1개, <ITEM>[의문의 부속품]<INFO>25669</INFO></ITEM> 50개 모아오면 하나 준다.\n종류는 내 마음이야. 완성품 중에 아무 거나 집어 줄 거니까. 내가 왜 그런 것까지 널 챙겨 줘야 하는데?",
         "en-US": "[Eliumina]\nAn OS weapon? If you bring me 1 <ITEM>[Damaged Weapon]<INFO>25668</INFO></ITEM> and 50 <ITEM>[Mysterious Component]<INFO>25669</INFO></ITEM>, I'll give you one.\nThe type is up to me. I'll just hand you any finished product I feel like. Why should I go out of my way to take care of you?",
         "pt-BR": "[Elyumina]\nPara fazer uma Arma OS, preciso de\n1 <ITEM>[Arma Danificada]<INFO>25668</INFO></ITEM> e 50 <ITEM>[Chip Misterioso]<INFO>25669</INFO></ITEM>.",
         "es-ES": "[Elyumina]\nPara crear un Arma OS, necesito 1 <ITEM>[Arma Dañada]<INFO>25668</INFO></ITEM> y 50 <ITEM>[Chip Misterioso]<INFO>25669</INFO></ITEM>."
     },
     "5fa0Bw": {
-        "ko-KR": "OS 무기 교환",
         "en-US": "OS Weapon Exchange",
         "pt-BR": "Trocar",
         "es-ES": "Intercambiar"
     },
     "5va0Bw": {
-        "ko-KR": "전체 무기 목록 확인",
         "en-US": "View the complete weapon list.",
         "pt-BR": "Ver lista de armas",
         "es-ES": "Ver lista de armas"
     },
     "5/a0Bw": {
-        "ko-KR": "[엘류미나]\n필요한 거 알려 줬잖아. 파손된 무기 1개, 의문의 부속품 50개. 귀를 열고 잘 들어.",
         "en-US": "[Eliumina]\nI already told you what I need. One damaged weapon and 50 mysterious components. Open your ears and listen carefully.",
         "pt-BR": "[Elyumina]\nVocê não tem os materiais necessários. Não sabe conferir seu inventário?",
         "es-ES": "[Elyumina]\nNo tienes los materiales necesarios. ¿No sabes revisar tu inventario?"
     },
     "6Pa0Bw": {
-        "ko-KR": "[엘류미나]\n자, 가져가. 다른 게 필요하면 파손된 무기와 의문의 부속품을 가지고 다시 와.\n난 네 덕에 여기 틀어박혀 장난감이나 고쳐 주고 있는데 이 정도는 감수하겠지?",
         "en-US": "[Eliumina]\nHere, take it. If you need anything else, come back with a Broken Weapon and a Mysterious Component.\nThanks to you, I'm stuck here fixing toys, but I guess I can put up with it, right?",
         "pt-BR": "[Elyumina]\nAí está. Não te falei que a arma ia ser aleatória? Hahah. Bem feito.\nGraças a você, estou presa aqui consertando brinquedinhos.",
         "es-ES": "[Elyumina]\nAhí está. ¿No te dije que el arma sería aleatoria? Jajaja. Bien hecho.\nGracias a ti, estoy atrapada aquí arreglando juguetitos."
     },
     "6fa0Bw": {
-        "ko-KR": "[엘류미나]\n……뭐야. 문제 있는데.\n당연히 나 말고 네 문제지. 가방은 비었는지, 재료는 충분한지. 확인해보고 다시 와.",
         "en-US": "[Eliumina]\n...What? There's a problem.\nOf course, it's not my problem—it's yours. Check if your bag is empty and if you have enough materials. Make sure of that and come back.",
         "pt-BR": "[Elyumina]\n... O que aconteceu?\nEm um momento você tinha os materiais e agora não tem mais.",
         "es-ES": "[Elyumina]\n...¿Qué pasó?\nEn un momento tenías los materiales y ahora ya no."
     },
     "6va0Bw": {
-        "ko-KR": "[엘류미나]\n쯧, 아무 거나 집어줘도 다 최고라니까 굳이 또 고른다… 귀 열고 잘 들어!",
         "en-US": "[Eliumina]\nTsk, no matter what you pick, it's always the best, so why bother choosing again... Listen up and pay attention!",
         "pt-BR": "[Elyumina]\nAi ai... Já falei que tudo que eu crio é BOM, não precisa verificar nada... Enfim, essa é a lista...",
         "es-ES": "[Elyumina]\nAy ay... Ya dije que todo lo que creo es BUENO, no hace falta verificar nada...\nEn fin, esta es la lista..."
     },
     "6/a0Bw": {
-        "ko-KR": "[엘류미나]\n검 <ITEM>[캐논 레이피어-OS]<INFO>13493</INFO></ITEM>\n양손검 <ITEM>[빔 크레이모어-OS]<INFO>21047</INFO></ITEM>\n지팡이 <ITEM>[루틸루스 스틱-OS]<INFO>26151</INFO></ITEM>\n책 <ITEM>[서킷 보드-OS]<INFO>28629</INFO></ITEM>\n도끼 <ITEM>[블라스티-OS]<INFO>28136</INFO></ITEM>\n둔기 <ITEM>[자피어 홀-OS]<INFO>16088</INFO></ITEM>\n활 <ITEM>[버츄얼 보우-OS]<INFO>18178</INFO></ITEM>\n크로스보우 <ITEM>[MH-P89-OS]<INFO>18179</INFO></ITEM>\n카타르 <ITEM>[모이슈라-OS]<INFO>28038</INFO></ITEM>\n너클 <ITEM>[버닝너클-OS]<INFO>1862</INFO></ITEM>\n저격 라이플 <ITEM>[HR-S55-OS]<INFO>28253</INFO></ITEM>\n단검 <ITEM>[쿠로이로-OS]<INFO>28755</INFO></ITEM>\n활 <ITEM>[AC-B44-OS]<INFO>18180</INFO></ITEM>\n랜스 <ITEM>[부스트 랜스-OS]<INFO>32019</INFO></ITEM>\n둔기 <ITEM>[울티오-OS]<INFO>16089</INFO></ITEM>\n한손 지팡이 <ITEM>[일렉트릭폭스-OS]<INFO>26164</INFO></ITEM>",
         "en-US": "[Eliumina]\nSword <ITEM>[Cannon Rapier-OS]<INFO>13493</INFO></ITEM>\nTwo-handed Sword <ITEM>[Beam Claymore-OS]<INFO>21047</INFO></ITEM>\nStaff <ITEM>[Rutilus Stick-OS]<INFO>26151</INFO></ITEM>\nBook <ITEM>[Circuit Board-OS]<INFO>28629</INFO></ITEM>\nAxe <ITEM>[Blasty-OS]<INFO>28136</INFO></ITEM>\nMace <ITEM>[Zaphir Hall-OS]<INFO>16088</INFO></ITEM>\nBow <ITEM>[Virtual Bow-OS]<INFO>18178</INFO></ITEM>\nCrossbow <ITEM>[MH-P89-OS]<INFO>18179</INFO></ITEM>\nKatar <ITEM>[Moishura-OS]<INFO>28038</INFO></ITEM>\nKnuckle <ITEM>[Burning Knuckle-OS]<INFO>1862</INFO></ITEM>\nSniper Rifle <ITEM>[HR-S55-OS]<INFO>28253</INFO></ITEM>\nDagger <ITEM>[Kuroiro-OS]<INFO>28755</INFO></ITEM>\nBow <ITEM>[AC-B44-OS]<INFO>18180</INFO></ITEM>\nLance <ITEM>[Boost Lance-OS]<INFO>32019</INFO></ITEM>\nMace <ITEM>[Ultio-OS]<INFO>16089</INFO></ITEM>\nOne-handed Staff <ITEM>[Electric Fox-OS]<INFO>26164</INFO></ITEM>",
         "pt-BR": "[Elyumina]\n<ITEM>[Rapieira-OS]<INFO>13493</INFO></ITEM>\n<ITEM>[Claymore-OS]<INFO>21047</INFO></ITEM>\n<ITEM>[Rutilus-OS]<INFO>26151</INFO></ITEM>\n<ITEM>[Placa-Mãe-OS]<INFO>28629</INFO></ITEM>\n<ITEM>[Blasti-OS]<INFO>28136</INFO></ITEM>\n<ITEM>[Safira-OS]<INFO>16088</INFO></ITEM>\n<ITEM>[Virtual-OS]<INFO>18178</INFO></ITEM>\n<ITEM>[MH-P89-OS]<INFO>18179</INFO></ITEM>\n<ITEM>[Meuchler-OS]<INFO>28038</INFO></ITEM>\n<ITEM>[Incendiária-OS]<INFO>1862</INFO></ITEM>\n<ITEM>[HR-S55-OS]<INFO>28253</INFO></ITEM>\n<ITEM>[Kuroiro-OS]<INFO>28755</INFO></ITEM>\n<ITEM>[AC-B44-OS]<INFO>18180</INFO></ITEM>\n<ITEM>[Propulsora-OS]<INFO>32019</INFO></ITEM>\n<ITEM>[Ultio-OS]<INFO>16089</INFO></ITEM>\n<ITEM>[Eletricauda-OS]<INFO>26164</INFO></ITEM>",
         "es-ES": "[Elyumina]\n<ITEM>[Rapieira-OS]<INFO>13493</INFO></ITEM>\n<ITEM>[Claymore-OS]<INFO>21047</INFO></ITEM>\n<ITEM>[Rutilus-OS]<INFO>26151</INFO></ITEM>\n<ITEM>[Placa base-OS]<INFO>28629</INFO></ITEM>\n<ITEM>[Blasti-OS]<INFO>28136</INFO></ITEM>\n<ITEM>[Zafiro-OS]<INFO>16088</INFO></ITEM>\n<ITEM>[Virtual-OS]<INFO>18178</INFO></ITEM>\n<ITEM>[MH-P89-OS]<INFO>18179</INFO></ITEM>\n<ITEM>[Meuchler-OS]<INFO>28038</INFO></ITEM>\n<ITEM>[Incendiary-OS]<INFO>1862</INFO></ITEM>\n<ITEM>[HR-S55-OS]<INFO>28253</INFO></ITEM>\n<ITEM>[Kuroiro-OS]<INFO>28755</INFO></ITEM>\n<ITEM>[AC-B44-OS]<INFO>18180</INFO></ITEM>\n<ITEM>[Hélice-OS]<INFO>32019</INFO></ITEM>\n<ITEM>[Ultio-OS]<INFO>16089</INFO></ITEM>\n<ITEM>[Eléctrico-OS]<INFO>26164</INFO></ITEM>"
     },
     "7Pa0Bw": {
-        "ko-KR": "[엘류미나]\n일루시온 방어구라면 <ITEM>[코르 코어]<INFO>25723</INFO></ITEM> 50개 모아 오면 하나 줄게.\n어디 보자… 어라, 골고루 만들어 놨네? 기분이다. 뭐 필요한데?",
         "en-US": "[Eliumina]\nIf you bring me 50 <ITEM>[Core Core]<INFO>25723</INFO></ITEM> from Illusion equipment, I'll give you one.  \nLet's see... Oh, looks like I've made a good variety! I'm in a good mood. So, what do you need?",
         "pt-BR": "[Elyumina]\nPara fazer qualquer equipamento ilusión,\nvou precisar de 50 <ITEM>[Núcleo COR]<INFO>25723</INFO></ITEM>.",
         "es-ES": "[Elyumina]\nPara crear cualquier equipo Ilusión,\nnecesitaré 50 <ITEM>[Núcleo COR]<INFO>25723</INFO></ITEM>."
     },
     "7fa0Bw": {
-        "ko-KR": "일루시온 아머",
         "en-US": "Illusion Armor",
         "pt-BR": "Colete Ilusión",
         "es-ES": "Chaleco Ilusión"
     },
     "7va0Bw": {
-        "ko-KR": "일루시온 엔진윙",
         "en-US": "Illusion Engine Wing",
         "pt-BR": "Motor Ilusión",
         "es-ES": "Motor Ilusión"
     },
     "7/a0Bw": {
-        "ko-KR": "일루시온 레그",
         "en-US": "Illusion Leg",
         "pt-BR": "Perna Ilusión",
         "es-ES": "Pierna Ilusión"
     },
     "8Pa0Bw": {
-        "ko-KR": "일루시온 부스터",
         "en-US": "Illusion Booster",
         "pt-BR": "Turbina Ilusión",
         "es-ES": "Turbina Ilusión"
     },
     "8fa0Bw": {
-        "ko-KR": "일루시온 배틀칩",
         "en-US": "Illusion Battle Chip",
         "pt-BR": "Soquete Ilusión",
         "es-ES": "Zócalo Ilusión"
     },
     "8va0Bw": {
-        "ko-KR": "[엘류미나]\n<ITEM>[일루시온 아머 A타입]<INFO>15376</INFO></ITEM>\n<ITEM>[일루시온 아머 B타입]<INFO>15377</INFO></ITEM>\n둘 중 어느 거?",
         "en-US": "[Eliumina]\n<ITEM>[Illusion Armor A-Type]<INFO>15376</INFO></ITEM>\n<ITEM>[Illusion Armor B-Type]<INFO>15377</INFO></ITEM>\nWhich one do you want?",
         "pt-BR": "[Elyumina]\n<ITEM>[Colete Ilusión A]<INFO>15376</INFO></ITEM>\n<ITEM>[Colete Ilusión B]<INFO>15377</INFO></ITEM>\nQual dos dois?",
         "es-ES": "[Elyumina]\n<ITEM>[Chaleco Ilusión A]<INFO>15376</INFO></ITEM>\n<ITEM>[Chaleco Ilusión B]<INFO>15377</INFO></ITEM>\n¿Cuál de los dos?"
     },
     "8/a0Bw": {
-        "ko-KR": "일루시온 아머 A타입",
         "en-US": "Illusion Armor A-Type",
         "pt-BR": "Colete Ilusión A",
         "es-ES": "Chaleco Ilusión A"
     },
     "9Pa0Bw": {
-        "ko-KR": "일루시온 아머 B타입",
         "en-US": "Illusion Armor B-type",
         "pt-BR": "Colete Ilusión B",
         "es-ES": "Chaleco Ilusión B"
     },
     "9fa0Bw": {
-        "ko-KR": "일루시온 아머 A타입",
         "en-US": "Illusion Armor A-Type",
         "pt-BR": "Colete Ilusión A",
         "es-ES": "Chaleco Ilusión A"
     },
     "9va0Bw": {
-        "ko-KR": "일루시온 아머 B타입",
         "en-US": "Illusion Armor B-type",
         "pt-BR": "Colete Ilusión B",
         "es-ES": "Chaleco Ilusión B"
     },
     "9/a0Bw": {
-        "ko-KR": "[엘류미나]\n<ITEM>[일루시온 엔진윙 A타입]<INFO>20933</INFO></ITEM>\n<ITEM>[일루시온 엔진윙 B타입]<INFO>20934</INFO></ITEM>\n둘 중 어느 거?",
         "en-US": "[Eliumina]\n<ITEM>[Illusion Engine Wing A Type]<INFO>20933</INFO></ITEM>\n<ITEM>[Illusion Engine Wing B Type]<INFO>20934</INFO></ITEM>\nWhich one of these?",
         "pt-BR": "[Elyumina]\n<ITEM>[Motor Ilusión A]<INFO>20933</INFO></ITEM>\n<ITEM>[Motor Ilusión B]<INFO>20934</INFO></ITEM>\nQual dos dois?",
         "es-ES": "[Elyumina]\n<ITEM>[Motor Ilusión A]<INFO>20933</INFO></ITEM>\n<ITEM>[Motor Ilusión B]<INFO>20934</INFO></ITEM>\n¿Cuál de los dos?"
     },
     "+Pa0Bw": {
-        "ko-KR": "일루시온 엔진윙 A타입",
         "en-US": "Illusion Engine Wing A-Type",
         "pt-BR": "Motor Ilusión A",
         "es-ES": "Motor Ilusión A"
     },
     "+fa0Bw": {
-        "ko-KR": "일루시온 엔진윙 B타입",
         "en-US": "Illusion Engine Wing B-type",
         "pt-BR": "Motor Ilusión B",
         "es-ES": "Motor Ilusión B"
     },
     "+va0Bw": {
-        "ko-KR": "일루시온 엔진윙 A타입",
         "en-US": "Illusion Engine Wing A-Type",
         "pt-BR": "Motor Ilusión A",
         "es-ES": "Motor Ilusión A"
     },
     "+/a0Bw": {
-        "ko-KR": "일루시온 엔진윙 B타입",
         "en-US": "Illusion Engine Wing B-type",
         "pt-BR": "Motor Ilusión B",
         "es-ES": "Motor Ilusión B"
     },
     "/Pa0Bw": {
-        "ko-KR": "[엘류미나]\n<ITEM>[일루시온 레그 A타입]<INFO>22196</INFO></ITEM>\n<ITEM>[일루시온 레그 B타입]<INFO>22197</INFO></ITEM>\n둘 중 어느 거?",
         "en-US": "[Eliumina]\n<ITEM>[Illusion Leg Type A]<INFO>22196</INFO></ITEM>\n<ITEM>[Illusion Leg Type B]<INFO>22197</INFO></ITEM>\nWhich one do you want?",
         "pt-BR": "[Elyumina]\n<ITEM>[Perna Ilusión A]<INFO>22196</INFO></ITEM>\n<ITEM>[Perna Ilusión B]<INFO>22197</INFO></ITEM>\nQual dos dois?",
         "es-ES": "[Elyumina]\n<ITEM>[Pierna Ilusión A]<INFO>22196</INFO></ITEM>\n<ITEM>[Pierna Ilusión B]<INFO>22197</INFO></ITEM>\n¿Cuál de los dos?"
     },
     "/fa0Bw": {
-        "ko-KR": "일루시온 레그 A타입",
         "en-US": "Illusion Leg Type A",
         "pt-BR": "Perna Ilusión A",
         "es-ES": "Pierna Ilusión A"
     },
     "/va0Bw": {
-        "ko-KR": "일루시온 레그 B타입",
         "en-US": "Illusion Leg Type B",
         "pt-BR": "Perna Ilusión B",
         "es-ES": "Pierna Ilusión B"
     },
     "//a0Bw": {
-        "ko-KR": "일루시온 레그 A타입",
         "en-US": "Illusion Leg Type A",
         "pt-BR": "Perna Ilusión A",
         "es-ES": "Pierna Ilusión A"
     },
     "APe0Bw": {
-        "ko-KR": "일루시온 레그 B타입",
         "en-US": "Illusion Leg Type B",
         "pt-BR": "Perna Ilusión B",
         "es-ES": "Pierna Ilusión B"
     },
     "Afe0Bw": {
-        "ko-KR": "[엘류미나]\n<ITEM>[일루시온 부스터R]<INFO>32207</INFO></ITEM>\n<ITEM>[일루시온 부스터L]<INFO>32208</INFO></ITEM>\n둘 중 어느 거?",
         "en-US": "[Eliumina]\n<ITEM>[Illusion Booster R]<INFO>32207</INFO></ITEM>\n<ITEM>[Illusion Booster L]<INFO>32208</INFO></ITEM>\nWhich one do you want?",
         "pt-BR": "[Elyumina]\n<ITEM>[Turbina Ilusión A-D]<INFO>32207</INFO></ITEM>\n<ITEM>[Turbina Ilusión B-E]<INFO>32208</INFO></ITEM>\nQual dos dois?",
         "es-ES": "[Elyumina]\n<ITEM>[Turbina Ilusión A]<INFO>32207</INFO></ITEM>\n<ITEM>[Turbina Ilusión B]<INFO>32208</INFO></ITEM>\n¿Cuál de los dos?"
     },
     "Ave0Bw": {
-        "ko-KR": "일루시온 부스터R",
         "en-US": "Illusion BoosterR",
         "pt-BR": "Turbina Ilusión A",
         "es-ES": "Turbina Ilusión A"
     },
     "A/e0Bw": {
-        "ko-KR": "일루시온 부스터L",
         "en-US": "Illusion Booster L",
         "pt-BR": "Turbina Ilusión B",
         "es-ES": "Turbina Ilusión B"
     },
     "BPe0Bw": {
-        "ko-KR": "일루시온 부스터R",
         "en-US": "Illusion BoosterR",
         "pt-BR": "Turbina Ilusión A",
         "es-ES": "Turbina Ilusión A"
     },
     "Bfe0Bw": {
-        "ko-KR": "일루시온 부스터L",
         "en-US": "Illusion Booster L",
         "pt-BR": "Turbina Ilusión B",
         "es-ES": "Turbina Ilusión B"
     },
     "Bve0Bw": {
-        "ko-KR": "[엘류미나]\n<ITEM>[일루시온 배틀칩R]<INFO>32209</INFO></ITEM>\n<ITEM>[일루시온 배틀칩L]<INFO>32210</INFO></ITEM>\n둘 중 어느 거?",
         "en-US": "[Eliumina]\n<ITEM>[Illusion Battle Chip R]<INFO>32209</INFO></ITEM>\n<ITEM>[Illusion Battle Chip L]<INFO>32210</INFO></ITEM>\nWhich one do you want?",
         "pt-BR": "[Elyumina]\n<ITEM>[Soquete Ilusión A-D]<INFO>32209</INFO></ITEM>\n<ITEM>[Soquete Ilusión B-E]<INFO>32210</INFO></ITEM>\nQual dos dois?",
         "es-ES": "[Elyumina]\n<ITEM>[Zócalo Ilusión A]<INFO>32209</INFO></ITEM>\n<ITEM>[Zócalo Ilusión B]<INFO>32210</INFO></ITEM>\n¿Cuál de los dos?"
     },
     "B/e0Bw": {
-        "ko-KR": "일루시온 배틀칩R",
         "en-US": "Illusion Battle Chip R",
         "pt-BR": "Soquete Ilusión A",
         "es-ES": "Zócalo Ilusión A"
     },
     "CPe0Bw": {
-        "ko-KR": "일루시온 배틀칩L",
         "en-US": "Illusion Battle Chip L",
         "pt-BR": "Soquete Ilusión B",
         "es-ES": "Zócalo Ilusión B"
     },
     "Cfe0Bw": {
-        "ko-KR": "일루시온 배틀칩R",
         "en-US": "Illusion Battle Chip R",
         "pt-BR": "Soquete Ilusión A",
         "es-ES": "Zócalo Ilusión A"
     },
     "Cve0Bw": {
-        "ko-KR": "일루시온 배틀칩L",
         "en-US": "Illusion Battle Chip L",
         "pt-BR": "Soquete Ilusión B",
         "es-ES": "Zócalo Ilusión B"
     },
     "C/e0Bw": {
-        "ko-KR": "[엘류미나]\n그래, 원하는 거 {0} 맞지? 코르 코어 50개와 교환이다?",
         "en-US": "[Eliumina]\nYes, you want {0}, right? I'll trade it for 50 Core Cores.",
         "pt-BR": "[Elyumina]\nCerteza que você quer ^0000CD{0}^000000? Custará 50 Núcleos COR.",
         "es-ES": "[Elyumina]\n¿Seguro que quieres ^0000CD{0}^000000? Costará 50 Núcleos COR."
     },
     "DPe0Bw": {
-        "ko-KR": "교환한다.",
         "en-US": "Exchange.",
         "pt-BR": "Trocar.",
         "es-ES": "Intercambiar."
     },
     "Dfe0Bw": {
-        "ko-KR": "교환하지 않는다.",
         "en-US": "Not for exchange.",
         "pt-BR": "Cancelar.",
         "es-ES": "Cancelar."
     },
     "Dve0Bw": {
-        "ko-KR": "[엘류미나]\n이 자식, 장난하는 거야?  코르 코어가 모자라잖아! 일부러 신경 좀 써 줬더니!",
         "en-US": "[Eliumina]\nAre you kidding me? We're short on Core Core! I went out of my way to pay attention to this!",
         "pt-BR": "[Elyumina]\nTá tirando com a minha cara, babaca? Você não tem Núcleos COR suficientes! Você estava prestando atenção?!",
         "es-ES": "[Elyumina]\n¿Te estás burlando de mí, imbécil? ¡No tienes suficientes Núcleos COR! ¿¡Estabas prestando atención!?"
     },
     "D/e0Bw": {
-        "ko-KR": "[엘류미나]\n여기, {0}! 가져가, 네 인생 최고의 방어구일 테니 이 몸을 찬양하는 것도 잊지 말고.",
         "en-US": "[Eliumina]\nHere, {0}! Take it—this will be the best armor of your life, so don’t forget to praise me as well.",
         "pt-BR": "[Elyumina]\n{0}, né? Tenho certeza que é o melhor equipamento que você vai ter na sua vida.",
         "es-ES": "[Elyumina]\n{0}, ¿eh? Estoy segura de que será el mejor equipo que tendrás en tu vida."
     },
     "EPe0Bw": {
-        "ko-KR": "[엘류미나]\n잠깐, 잠깐만. 뭐야, 뭐 잘못된 거 같은데? 물론 나 말고 너. 교환은 취소다. 다시 확인해 보고 와.",
         "en-US": "[Eliumina]\nWait, hold on. What is this? Something seems off, doesn't it? Of course, not with me—it's you. The trade is canceled. Go check again and come back.",
         "pt-BR": "[Elyumina]\nEspere, espere. O que parece errado? Claro, você, não eu. A troca foi cancelada. Venha verificar novamente.",
         "es-ES": "[Elyumina]\nEspera, espera. ¿Qué parece estar mal? Claro, tú, no yo.\nEl intercambio fue cancelado. Ven a verificar de nuevo."
     },
     "Efe0Bw": {
-        "ko-KR": "[엘류미나]\n이 자식, 장난하는 거야? 일부러 신경 좀 써 줬더니!",
         "en-US": "[Eliumina]\nYou little punk, are you messing with me? I actually put in some effort for you!",
         "pt-BR": "[Elyumina]\nTá tirando com a minha cara, babaca? Eu tenho mais o que fazer!",
         "es-ES": "[Elyumina]\n¿Te estás burlando de mí, imbécil? ¡Tengo cosas mejores que hacer!"
     },
     "Eve0Bw": {
-        "ko-KR": "[리벨리온]\n앗, 모험가님이잖아? 너무 오랜만이다. 나 보고싶지 않았어요?",
         "en-US": "[Rebellion]\nOh, it's you, Adventurer! It's been such a long time. Didn't you miss me?",
         "pt-BR": "[Insurgente]\nAí está você, viajante! Já faz tempo. Você sentiu minha falta?",
         "es-ES": "[Rebelde]\n¡Ahí estás, trotamundos! Ya pasó tiempo. ¿Me extrañaste?"
     },
     "E/e0Bw": {
-        "ko-KR": "저 아세요?",
         "en-US": "Do you know me?",
         "pt-BR": "Você me conhece?",
         "es-ES": "¿Me conoces?"
     },
     "FPe0Bw": {
-        "ko-KR": "아니오…",
         "en-US": "No…",
         "pt-BR": "Não senti...",
         "es-ES": "No te extrañé..."
     },
     "Ffe0Bw": {
-        "ko-KR": "[리벨리온]\n앗, 차가워, 모험가님. 너무 차가워. 난 추운 거 싫어한단 말이에요.\n난 여기서 경비 서는 중이에요. 내가 모르는 사람은 여기 못 지나가.",
         "en-US": "[Rebellion]\nAh, it's cold, Adventurer. It's so cold. I really don't like the cold.\nI'm standing guard here. No one I don't know is allowed to pass through.",
         "pt-BR": "[Insurgente]\nQue insensível...\nEstou de guarda aqui. Impedindo estranhos de entrarem.",
         "es-ES": "[Rebelde]\nQué insensible...\nEstoy de guardia aquí. Impidiendo que extraños entren."
     },
     "Fve0Bw": {
-        "ko-KR": "[리벨리온]\n하지만 모험가님은 제가 아주 잘 아는 분이니까, 얼마든지 지나가세요!\n직업에 맞는 무기와 방어구도 챙겼고, 옷도 따뜻하게 입었고. 그럼 통과~!",
         "en-US": "[Rebellion]\nBut since I know you very well, adventurer, you can go right ahead!\nYou've got weapons and armor suited to your job, and you're dressed warmly, too. Alright, you may pass~!",
         "pt-BR": "[Insurgente]\nMas como eu conheço você, pode transitar o quanto quiser!\nVocê usa um dos meus visuais favoritos, então pode passar~!",
         "es-ES": "[Rebelde]\nPero como te conozco, ¡puedes moverte cuanto quieras!\nUsas uno de mis estilos favoritos, ¡así que puedes pasar~!"
     },
     "F/e0Bw": {
-        "ko-KR": "[리벨리온]\n조금 전까지 바쁘게 돌아다니신 거 아니에요? 10분만 쉬고 다시 오세요, 10분만 쉬고.",
         "en-US": "[Rebellion]\nWeren't you just running around busily a moment ago? Take a break for 10 minutes and come back, just rest for 10 minutes.",
         "pt-BR": "[Insurgente]\nVocê precisa de descanso. Poxa, tire pelo menos dez minutinhos de uma sonequinha gostosa.",
         "es-ES": "[Rebelde]\nNecesitas descansar. Vamos, tómate al menos diez minutitos de una buena siesta."
     },
     "GPe0Bw": {
-        "ko-KR": "[리벨리온]\n미나가 아직 좀 더 쉬어도 된대요. 아직은 미나의 사랑스러운 아이들도 쉬고 있을 거라고?",
         "en-US": "[Rebellion]\nMina says you can rest a little longer. She thinks Mina's lovely children are probably still resting too, right?",
         "pt-BR": "[Insurgente]\nA tia Elyu quer um tempinho pra descansar e reprogramar suas crias.",
         "es-ES": "[Rebelde]\nLa tía Elyu quiere un tiempo para descansar y reprogramar a sus crías."
     },
     "Gfe0Bw": {
-        "ko-KR": "엘류미나 : 나를... 그런, 경멸스러운, 호칭으로, 부르지, 마!",
         "en-US": "Eliumina: Don't call me... by such a despicable name!",
         "pt-BR": "Elyumina: N-não me chame de tia!",
         "es-ES": "Elyumina: ¡N-no me llames tía!"
     },
     "Gve0Bw": {
-        "ko-KR": "[엘류미나]\n……몬스터를 소환하는 방범 장치와 함정은 아직 저전력 모드야. 일부러 손대면 오히려 과열될 수 있으니 손대지 마.",
         "en-US": "[Eliumina]\n……The monster-summoning security devices and traps are still in low-power mode. If you touch them on purpose, they might actually overheat, so don't mess with them.",
         "pt-BR": "[Elyumina]\n...Meus dispositivos de segurança ainda estão no modo de baixa energia. Não toque neles, pois eles podem superaquecer se forem tocados deliberadamente.",
         "es-ES": "[Elyumina]\n...Mis dispositivos de seguridad aún están en modo de baja energía.\nNo los toques, podrían sobrecalentarse si se manipulan deliberadamente."
     },
     "G/e0Bw": {
-        "ko-KR": "[리벨리온]\n새벽이 지난 뒤에 미나의 아이들이 아침을 맞이해 힘이 쑥쑥 나면 다시 오세요!",
         "en-US": "[Rebellion]\nCome back after Mina's children have greeted the Morning and feel full of energy!",
         "pt-BR": "[Insurgente]\nViajante, é melhor você voltar ao amanhecer para lidar com as crias da tia Elyu!",
         "es-ES": "[Rebelde]\nTrotamundos, será mejor que regreses al amanecer para lidiar con las crías de la tía Elyu."
     },
     "HPe0Bw": {
-        "ko-KR": "[엘류미나]\n새벽이 지나면 충전이 끝나니까 그 이후에 다시 소모 작업을 할 수 있으니 그때 와!",
         "en-US": "[Eliumina]\nThe charging will be complete after dawn, so you can resume the consumption process then. Come back at that time!",
         "pt-BR": "[Elyumina]\nMinhas máquinas precisam carregar e só ligaremos elas amanhã!",
         "es-ES": "[Elyumina]\n¡Mis máquinas necesitan cargarse y solo las activaremos mañana!"
     },
     "Hfe0Bw": {
-        "ko-KR": "(……의외로 저 말썽꾸러기를 잘 다루네, 이 용병…)",
         "en-US": "(...Surprisingly, this mercenary handles that troublemaker quite well...)",
         "pt-BR": "(...Acho que esses dois vão se dar bem...)",
         "es-ES": "(...Creo que estos dos se llevarán bien...)"
     },
     "Hve0Bw": {
-        "ko-KR": "[리벨리온]\n오, 모험가님. 오랜만에 뵈어요! 여기, 부탁드리고 싶은 게 있어요. 미나에게 관련된 일인데…",
         "en-US": "[Rebellion]\nOh, Adventurer. It's been a while since I last saw you! I have a favor to ask. It's something related to Mina...",
         "pt-BR": "[Insurgente]\nE aí, viajante. Faz tempo que não te vejo! Eu quero te perguntar uma coisa. É sobre a tia Elyu...",
         "es-ES": "[Rebelde]\n¿Y qué tal, trotamundos? Hace tiempo que no te veo.\nQuería preguntarte algo. Es sobre la tía Elyu..."
     },
     "H/e0Bw": {
-        "ko-KR": "미나?",
         "en-US": "Mina?",
         "pt-BR": "Tia?",
         "es-ES": "¿Tía?"
     },
     "IPe0Bw": {
-        "ko-KR": "엘류미나 : 나를, 그런 끔찍한 별명으로, 부르지, 마!",
         "en-US": "Eliumina: Don't call me by that horrible nickname!",
         "pt-BR": "Elyumina: Não me chame de tiaaa!",
         "es-ES": "Elyumina: ¡No me llames tíaaa!"
     },
     "Ife0Bw": {
-        "ko-KR": "너였냐.",
         "en-US": "Was it you?",
         "pt-BR": "Ah, é você.",
         "es-ES": "Ah, eres tú."
     },
     "Ive0Bw": {
-        "ko-KR": "[엘류미나]\n내가 설명한다, 내가. 전에 너희들이 날 쫓아왔을 때 날 지키던 내 아이들이…",
         "en-US": "[Eliumina]\nI'll explain, I will. The children who protected me when you were chasing after me before...",
         "pt-BR": "[Elyumina]\nDeixa eu explicar. Quando me perseguiram, eu costumava ser protegida pelas minhas máquin-...",
         "es-ES": "[Elyumina]\nDéjame explicar. Cuando me perseguían, solía estar protegida por mis máquin-..."
     },
     "I/e0Bw": {
-        "ko-KR": "[리벨리온]\n네, 미나의 아이들은 그때 잡지 못했잖아요? 그게 숨어서 자고 있던 거래요.",
         "en-US": "[Rebellion]\nYes, we didn't catch Mina's children back then, right? Apparently, they were hiding and sleeping at the time.",
         "pt-BR": "[Insurgente]\n- Não! A gente não capturou as crias da tia Elyu, porque elas estavam escondidas, dormindo.",
         "es-ES": "[Rebelde]\n- ¡No! No capturamos a las crías de la tía Elyu porque estaban escondidas, durmiendo."
     },
     "JPe0Bw": {
-        "ko-KR": "[엘류미나]\n내! 기계와 함정들은! 위급 상황에는 스텔스 상태로 저전력 모드에 들어가. 그리고 그게 다 끝날 때가 됐거든. 이제 곧 다시 등장해서 날뛸 거야.",
         "en-US": "[Eliumina]\nMy machines and traps enter stealth mode with low power in emergencies! And now, the time for that is almost over. They'll soon reappear and go wild again.",
         "pt-BR": "[Elyumina]\nNão me chama de TIA! Enfim, minhas máquinas entram em esconderijo quando estão com baixa energia. Quando carregam, reaparecem e atacam.",
         "es-ES": "[Elyumina]\n¡No me llames TÍA!\nEn fin, mis máquinas se esconden cuando tienen poca energía.\nCuando se recargan, reaparecen y atacan."
     },
     "Jfe0Bw": {
-        "ko-KR": "……네가 만든 건데, 네가 끄면 되잖아.",
         "en-US": "...You made it, so you can turn it off yourself.",
         "pt-BR": "... E por que você não altera para não ficar escondida?",
         "es-ES": "...¿Y por qué no lo cambias para que no se escondan?"
     },
     "Jve0Bw": {
-        "ko-KR": "[리벨리온]\n그게 말이죠, 미나는…",
         "en-US": "[Rebellion]\nWell, you see, Mina is...",
         "pt-BR": "[Insurgente]\nÉ, porque não, tia Elyu...?",
         "es-ES": "[Rebelde]\nSí, ¿por qué no, tía Elyu...?"
     },
     "J/e0Bw": {
-        "ko-KR": "[엘류미나]\n내가! 못하니까 그렇지! 그 아이들은 최첨단 기계학습 모듈이 적용되어 있단 말이야.\n그 날의 너희들은 그 애들이 접한 가장 강한 데이터야. 그것을 바탕으로 그 애들은 크게 성장했어.",
         "en-US": "[Eliumina]\nIt's because I can't do it! Those kids have state-of-the-art machine learning modules installed, you know.\nOn that day, you were the strongest data they had ever encountered. Based on that, they grew tremendously.",
         "pt-BR": "[Elyumina]\nELYUMINA! Não posso porque não dá! Elas têm módulos de última geração aplicados.\nDesde aquele dia, essas máquinas estão coletando dados dos aventureiros mais fortes, ou seja, de você.",
         "es-ES": "[Elyumina]\n¡ELYUMINA!\n¡No puedo porque no se puede!\nTienen módulos de última generación aplicados.\nDesde aquel día, esas máquinas han estado recopilando datos de los aventureros más fuertes, es decir, de ti."
     },
     "KPe0Bw": {
-        "ko-KR": "리벨리온 : 그래서 그만 미나의 손길을 벗어나 반항기에…",
         "en-US": "Rebellion: So, that's how I ended up escaping Mina's grasp and entering my rebellious phase...",
         "pt-BR": "Insurgente: E agora, esses brinquedos estão se rebelando contra a tia...",
         "es-ES": "Rebelde: Y ahora, esos juguetes se están rebelando contra la tía..."
     },
     "Kfe0Bw": {
-        "ko-KR": "[엘류미나]\n그래서! 지금 내 조종을 받아들이지 않아. 이건 예상 외야…\n지금 쓸 수 있는 방법은, 꾸준히 녀석들을 소모시켜서 약화한 뒤 무력화하는 거야.",
         "en-US": "[Eliumina]\nSo! They're not accepting my control right now. This is unexpected...\nThe only method I can use now is to steadily wear them down, weaken them, and then neutralize them.",
         "pt-BR": "[Elyumina]\nJustamente... agora eu não consigo mais controlar minhas criações.\nA única coisa que dá para fazer é deixar elas sem energia.",
         "es-ES": "[Elyumina]\nExactamente... ahora ya no puedo controlar mis creaciones.\nLo único que se puede hacer es dejarlas sin energía."
     },
     "Kve0Bw": {
-        "ko-KR": "[엘류미나]\n그리고 그걸 할 수 있는 건… 그때 EL1_A17T을 쓰러트린 너뿐이다. 물론 나도 갈 거지만 난 그저 그 녀석들의 새로운 데이터를 모으러 갈 뿐이야.",
         "en-US": "[Eliumina]\nAnd the only one who can do that... is you, the one who defeated EL1_A17T back then. Of course, I'll be going as well, but I'm just there to collect new data on those guys.",
         "pt-BR": "[Elyumina]\nE só você sabe fazer isso... você quem derrotou EL1-A17T. Eu vou com você, mas só para coletar novos dados de batalha.",
         "es-ES": "[Elyumina]\nY solo tú sabes cómo hacerlo...\ntú fuiste quien derrotó a EL1-A17T.\nIré contigo, pero solo para recopilar nuevos datos de combate."
     },
     "K/e0Bw": {
-        "ko-KR": "[리벨리온]\n저도 따라가보고 싶지만 어쩐지 미나가 한사코 말리네요. 제가 위험해질까봐 걱정하는 걸까요?",
         "en-US": "[Rebellion]\nI’d like to go along too, but for some reason, Mina is strongly against it. Is she worried that I might be in danger?",
         "pt-BR": "[Insurgente]\nEu queria ir, mas a tia Elyu fica muito preocupada comigo batalhando.",
         "es-ES": "[Rebelde]\nQuería ir, pero la tía Elyu se preocupa mucho cuando peleo."
     },
     "LPe0Bw": {
-        "ko-KR": "엘류미나 : 절대 아니야!!!",
         "en-US": "Eliumina: Absolutely not!!!",
         "pt-BR": "Elyumina: Nem ferrando!!!",
         "es-ES": "Elyumina: ¡Ni loca!"
     },
     "Lfe0Bw": {
-        "ko-KR": "[엘류미나]\n아무튼, 지금은 너 혼자서는 무리일지도 몰라.\n그날 날 억류한 망나니도 같이 간다고 하지만 둘도 힘들걸. 네 동료 모험가들과 파티를 맺고 와라.",
         "en-US": "[Eliumina]\nAnyway, it might be too much for you to handle alone right now.\nEven if that ruffian who detained me that day goes with you, it’ll still be tough for just the two of you. Come back after forming a party with your fellow adventurers.",
         "pt-BR": "[Elyumina]\nEnfim, se for muito difícil para você ir só, pode trazer seus amigos.\nEsse carcereiro aí também não vai ser de muita ajuda.",
         "es-ES": "[Elyumina]\nEn fin, si es muy difícil que vayas solo, puedes traer a tus amigos.\nEse carcelero tampoco será de mucha ayuda."
     },
     "Lve0Bw": {
-        "ko-KR": "[리벨리온]\n그럼 저와 미나까지 합해서 넷은…",
         "en-US": "[Rebellion]\nThen, including Mina and myself, that makes four of us…",
         "pt-BR": "[Insurgente]\nEu posso ser útil, tia Elyu...",
         "es-ES": "[Rebelde]\nPuedo ser útil, tía Elyu..."
     },
     "L/e0Bw": {
-        "ko-KR": "[엘류미나]\n자세한 설명은 안에서 해줄 테니까!!! 어서, 간다고 말해!!!\n부탁이야! 저 자식이 날 말려 죽이기 전에!",
         "en-US": "[Eliumina]\nI'll explain everything in detail once we're inside!!! Hurry, just say you'll go!!!\nPlease! Before that guy talks me to death!",
         "pt-BR": "[Elyumina]\nDurante a batalha eu explico melhor!!!\nPodemos ir? Eu não aguento mais ser chamada de tia!",
         "es-ES": "[Elyumina]\n¡¡¡Durante la batalla lo explico mejor!!!\n¿Podemos ir ya? ¡No aguanto más que me llamen tía!"
     },
     "MPe0Bw": {
-        "ko-KR": "[리벨리온]\n이제 미나의 아이들이 일어났을 시간이네요! 모험가님.\n다시 다른 사람들은 조용히 기다리게 하고, 놀아주시고 이야기를 들어주고 재우러 가실 건가요?",
         "en-US": "[Rebellion]\nIt's about time for Mina's children to wake up now! Adventurer.\nWill you go and let the others wait quietly again, play with them, listen to their stories, and put them to bed?",
         "pt-BR": "[Insurgente]\nAs baterias das crias da tia Elyu recarregaram.\nVocê vai brincar com elas, de novo?",
         "es-ES": "[Rebelde]\nLas baterías de las crías de la tía Elyu se recargaron.\n¿Vas a jugar con ellas otra vez?"
     },
     "Mfe0Bw": {
-        "ko-KR": "[엘류미나]\n……이제 저전력 대기 시간이 끝나서 방범 장치와 함정이 다시 활동할 거야.",
         "en-US": "[Eliumina]\n...Now that the low-power standby period is over, the security devices and traps will become active again.",
         "pt-BR": "[Elyumina]\n...Agora que as máquinas estão prontas, os dispositivos de segurança e as armadilhas estarão ativos novamente.",
         "es-ES": "[Elyumina]\n...Ahora que las máquinas están listas, los dispositivos de seguridad y las trampas estarán activos nuevamente."
     },
     "Mve0Bw": {
-        "ko-KR": "[엘류미나]\n다시 코르를 소개하고 녀석들을 소모시키고 데이터를 모을 거냐?\n그렇다고 말해. 제발. 나도 따라갈 거니까. 이 녀석 곁에서 벗어나고 싶어.",
         "en-US": "[Eliumina]\nAre you going to introduce Korr again, use them up, and collect data?\nPlease say yes. Seriously. I’ll go with you. I just want to get away from this guy.",
         "pt-BR": "[Elyumina]\nVamos esvaziar COR e coletar dados?\nPelo amor de deus, diga que sim. Eu quero ficar longe desse garoto.",
         "es-ES": "[Elyumina]\n¿Vamos a vaciar COR y recopilar datos?\nPor el amor de Dios, di que sí. Quiero mantenerme lejos de este chico."
     },
     "M/e0Bw": {
-        "ko-KR": "[리벨리온]\n으으음, 그거 참 아쉽네요. 모험가님. 작전에 참가하시려면 먼저 파티장이신 모험가님이 작전 준비를 선택해 주세요.",
         "en-US": "[Rebellion]\nHmm, that's too bad. Adventurer, if you want to participate in the operation, the party leader must first select \"Prepare for Operation.\"",
         "pt-BR": "[Insurgente]\nViajante, para criar uma instância, você precisa ser líder de um grupo.",
         "es-ES": "[Rebelde]\nTrotamundos, para crear una instancia, debes ser líder de un grupo."
     },
     "NPe0Bw": {
-        "ko-KR": "[리벨리온]\n그리고 메모리얼 던전이 생성된 후 파티원이 모두 작전 돌입 명령으로 돌입하시면, 모험가 파티의 돌입을 신호로 전부 시작할 거랍니다~",
         "en-US": "[Rebellion]\nAnd once the Memorial Dungeon has been created, if all party members enter with the Operation Commence command, everything will begin at the signal of the adventurer party’s entry~",
         "pt-BR": "[Insurgente]\nAssim que a instância for gerada, aguarde sua posição na fila para entrar com seus membros~",
         "es-ES": "[Rebelde]\nUna vez creada la instancia, espera tu turno en la cola para entrar con tus miembros~"
     },
     "Nfe0Bw": {
-        "ko-KR": "[리벨리온]\n뭔가 잘못된것 같아요. 신청에 실패했어요. 잠시 후 다시 시도하시고, 같은 반응이 반복되면 운영팀에 문의해 주세요.",
         "en-US": "[Rebellion]\nSomething seems to have gone wrong. The application has failed. Please try again after a while, and if the same issue persists, contact the support team.",
         "pt-BR": "[Insurgente]\nAcho que algo está errado. O pedido falhou. Por favor, tente novamente depois de um tempo, e se a mesma reação se repetir, entre em contato com a equipe de gerenciamento.",
         "es-ES": "[Rebelde]\nCreo que algo salió mal. La solicitud falló.\nInténtalo de nuevo más tarde y, si la misma reacción se repite, contacta con el equipo de gestión."
     },
     "Nve0Bw": {
-        "ko-KR": "후후, 영 귀엽단 말이에요.",
         "en-US": "Hehe, you're really cute.",
         "pt-BR": "Huhu, você é tão fofa.",
         "es-ES": "Jaja, eres tan linda."
     },
     "N/e0Bw": {
-        "ko-KR": "[리벨리온]\n좋았어! 잠시 후 MD가 활성화되면 다시 제게 말을 걸어 주세요. '^0000CD작전 돌입^000000'을 선택하시면 그것을 신호로 작전을 개시합니다.",
         "en-US": "[Rebellion]\nAlright! Once the MD is activated, please talk to me again. When you select '^0000CDCommence Operation^000000', that will be the signal to begin the mission.",
         "pt-BR": "[Insurgente]\nMuito bem! Quando for sua vez na fila, selecione '^0000CDEntrar na instância^000000' para iniciarmos a operação.",
         "es-ES": "[Rebelde]\n¡Muy bien! Cuando sea tu turno en la cola, selecciona '^0000CDEntrar en la instancia^000000' para iniciar la operación."
     },
     "OPe0Bw": {
-        "ko-KR": "{0} 파티의 {1} 파티원이 EL1_A17T 진압 작전에 돌입합니다.",
         "en-US": "A member of the {0} party, {1}, is commencing the EL1_A17T suppression operation.",
         "pt-BR": "{1}, do grupo, {0}, iniciou a operação EL1-A17T.",
         "es-ES": "{1}, del grupo {0}, inició la operación EL1-A17T."
     },
     "Ofe0Bw": {
-        "ko-KR": "[리벨리온]\n파티장이 던전을 생성하지 않았군요. 다시 확인해 볼게요.",
         "en-US": "[Rebellion]\nThe party leader hasn't created the dungeon yet. Let me check again.",
         "pt-BR": "[Insurgente]\nO líder do grupo não criou a instância. Vou verificar novamente.",
         "es-ES": "[Rebelde]\nEl líder del grupo no creó la instancia. Verificaré de nuevo."
     },
     "Ove0Bw": {
-        "ko-KR": "[리벨리온]\n던전이 생성되지 않았군요? 다시 확인해 볼게요.",
         "en-US": "[Rebellion]\nThe dungeon hasn't been created, has it? Let me check again.",
         "pt-BR": "[Insurgente]\nA instância não foi criada? Vou verificar novamente.",
         "es-ES": "[Rebelde]\n¿La instancia no fue creada? Verificaré de nuevo."
     },
     "O/e0Bw": {
-        "ko-KR": "[리벨리온]\n이건 무슨 오류인지 잘 모르겠군요. 다시 확인해 볼게요.",
         "en-US": "[Rebellion]\nI'm not sure what kind of error this is. Let me check again.",
         "pt-BR": "[Insurgente]\nNão tenho certeza de qual é o erro. Vou verificar novamente.",
         "es-ES": "[Rebelde]\nNo estoy seguro de cuál es el error. Verificaré de nuevo."
     },
     "PPe0Bw": {
-        "ko-KR": "[리벨리온]\n알 수 없는 오류네요. 다시 확인해 봅시다~",
         "en-US": "[Rebellion]\nAn unknown error has occurred. Let's check again~",
         "pt-BR": "[Insurgente]\nEste é um erro desconhecido. Vamos verificar novamente~",
         "es-ES": "[Rebelde]\nEste es un error desconocido. Vamos a verificar de nuevo~"
     },
     "Pfe0Bw": {
-        "ko-KR": "[엘류미나]\n무슨 짓이야! 얼른 가자. 응? 빨리! 날 저런 끔찍한 별명으로 부르는 녀석이랑 조금이라도 더 말을 섞고 싶지 않아.",
         "en-US": "[Eliumina]\nWhat are you doing! Let's go, now. Huh? Hurry up! I don't want to talk to someone who calls me by such a terrible nickname for even a second longer.",
         "pt-BR": "[Elyumina]\nVamos logo! Depressa! Eu não quero mais ser chamada de tia.",
         "es-ES": "[Elyumina]\n¡Vamos ya! ¡Rápido! ¡No quiero que me llamen tía!"
     },
     "Pve0Bw": {
-        "ko-KR": "[엘류미나]\n무슨 짓이야! 얼른 가자. 응? 빨리! 날 저런 끔찍한 별명으로 부르는 녀석이랑 조금이라도 더 말을 섞고 싶지 않다고.",
         "en-US": "[Eliumina]\nWhat are you doing! Let's go, now. Huh? Hurry up! I don't want to spend another second talking to someone who calls me by such a terrible nickname.",
         "pt-BR": "[Elyumina]\nVamos logo! Depressa! Eu não quero mais ser chamada de tia.",
         "es-ES": "[Elyumina]\n¡Vamos ya! ¡Rápido! ¡No quiero que me llamen tía!"
     },
     "P/e0Bw": {
-        "ko-KR": "[리벨리온]\n음? 미나가, 혼자서는 어려울 거라는데요. 파티를 맺고 다시 와 주세요, 모험가님.",
         "en-US": "[Rebellion]\nHm? Mina says it might be difficult to handle alone. Please form a party and come back, adventurer.",
         "pt-BR": "[Insurgente]\nHum? A tia Elyu acha difícil você conseguir sem ajuda. Volte com um grupo, viajante.",
         "es-ES": "[Rebelde]\n¿Hm? La tía Elyu cree que será difícil que lo logres sin ayuda.\nVuelve con un grupo, trotamundos."
     },
     "QPe0Bw": {
-        "ko-KR": "농장 일꾼",
         "en-US": "Farm Worker",
         "pt-BR": "Fazendeiro",
         "es-ES": "Agricultor"
     },
     "Qfe0Bw": {
-        "ko-KR": "[농장 일꾼]\n거, 바쁩니다. 여기는 비료 냄새도 나고 도시 사람들은 싫어할 건디요. 저기 연구원님들 계시던 쪽에 사람들 많이 와 있으니 그리 가보십쇼.",
         "en-US": "[Farm Worker]\nHey, I'm busy. It smells like fertilizer around here, so city folks probably wouldn't like it. There are a lot of people gathered where the Researcher folks are, so you should head over there.",
         "pt-BR": "[Fazendeiro]\nEi, saia daqui. Vocês da cidade grande não curtem o cheiro de fertilizante.",
         "es-ES": "[Agricultor]\nOye, lárgate de aquí. A la gente de ciudad no le gusta el olor a fertilizante."
     },
     "Qve0Bw": {
-        "ko-KR": "[농장 일꾼]\n저희는 여기서 작물을 기르는 일을 맡고 있었습죠. 자급자족이 가능한 농장은 저희 자랑이지요.",
         "en-US": "[Farm Worker]\nWe were in charge of growing crops here. Our self-sufficient farm is something we take great pride in.",
         "pt-BR": "[Fazendeiro]\nEstamos encarregados de cultivar aqui. Estamos orgulhosos de sermos auto-suficientes.",
         "es-ES": "[Agricultor]\nNos encargamos de cultivar aquí. Estamos orgullosos de ser autosuficientes."
     },
     "Q/e0Bw": {
-        "ko-KR": "[농장 일꾼]\n하지만 이번 일로 전근 희망자들이 생겨 일손이 부족해서… 작물을 돌보는 일을 좀 도와주시겠습니까요?",
         "en-US": "[Farm Worker]\nBut because of this incident, some workers have requested transfers, so we're short-handed... Could you help take care of the crops?",
         "pt-BR": "[Fazendeiro]\nMas desde o incidente, os trabalhadores estão pedindo transferência daqui, e estou ficando sem pessoal... Você poderia me ajudar a cuidar das plantações?",
         "es-ES": "[Agricultor]\nPero desde el incidente, los trabajadores están pidiendo traslado, y me estoy quedando sin personal...\n¿Podrías ayudarme a cuidar los cultivos?"
     },
     "RPe0Bw": {
-        "ko-KR": "도와준다.",
         "en-US": "Helps.",
         "pt-BR": "Ajudar.",
         "es-ES": "Ayudar."
     },
     "Rfe0Bw": {
-        "ko-KR": "도와주지 않는다.",
         "en-US": "Does not help.",
         "pt-BR": "Não ajudar.",
         "es-ES": "No ayudar."
     },
     "Rve0Bw": {
-        "ko-KR": "[농장 일꾼]\n감사합니다! 농장에 가보시면 포도, 깍지콩, 호박이 있는데 각각 해주셔야 하는 일이 다르니 잘 기억해 주시면 됩니다요.",
         "en-US": "[Farm Worker]\nThank you! When you visit the farm, you'll find Grape, Pod Bean, and Pumpkin. Each one requires a different task, so please remember what you need to do for each.",
         "pt-BR": "[Fazendeiro]\nObrigado! Nós criamos uvas, feijões e abóboras. Cada um tem um cuidado diferente, então, por favor, lembre-se disso.",
         "es-ES": "[Agricultor]\n¡Gracias! Cultivamos uvas, frijoles y calabazas.\nCada uno requiere un cuidado distinto, así que recuérdalo."
     },
     "R/e0Bw": {
-        "ko-KR": "진딧물을 잡아",
         "en-US": "Catch the aphids.",
         "pt-BR": "retire os pulgões",
         "es-ES": "Retira los pulgones"
     },
     "SPe0Bw": {
-        "ko-KR": "비료를 쳐",
         "en-US": "Apply fertilizer.",
         "pt-BR": "fertilize",
         "es-ES": "Aplicar fertilizante"
     },
     "Sfe0Bw": {
-        "ko-KR": "잡초를 뽑아",
         "en-US": "Pull out the weeds.",
         "pt-BR": "remova ervas daninhas",
         "es-ES": "Arranca malezas"
     },
     "Sve0Bw": {
-        "ko-KR": "진딧물을 잡아",
         "en-US": "Catch the aphids.",
         "pt-BR": "retire os pulgões",
         "es-ES": "Retira los pulgones"
     },
     "S/e0Bw": {
-        "ko-KR": "비료를 쳐",
         "en-US": "Apply fertilizer.",
         "pt-BR": "fertilize",
         "es-ES": "Aplicar fertilizante"
     },
     "TPe0Bw": {
-        "ko-KR": "잡초를 뽑아",
         "en-US": "Pull out the weeds.",
         "pt-BR": "remova ervas daninhas",
         "es-ES": "Arranca malezas"
     },
     "Tfe0Bw": {
-        "ko-KR": "진딧물을 잡아",
         "en-US": "Catch the aphids.",
         "pt-BR": "retire os pulgões",
         "es-ES": "Retira los pulgones"
     },
     "Tve0Bw": {
-        "ko-KR": "비료를 쳐",
         "en-US": "Apply fertilizer.",
         "pt-BR": "fertilize",
         "es-ES": "Aplicar fertilizante"
     },
     "T/e0Bw": {
-        "ko-KR": "잡초를 뽑아",
         "en-US": "Pull out the weeds.",
         "pt-BR": "remova ervas daninhas",
         "es-ES": "Arranca malezas"
     },
     "UPe0Bw": {
-        "ko-KR": "[농장 일꾼]\n포도는 {0} 주시고, 깍지콩은 {1} 주시고, 호박은 {2} 주시면 됩니다요.\n그럼 잘 부탁드립니다.",
         "en-US": "[Farm Worker]\nPlease give me {0} Grape, {1} Pod Bean, and {2} Pumpkin.\nThank you in advance.",
         "pt-BR": "[Fazendeiro]\nPara cuidar das uvas, ^0000CD{0}^000000. Para os feijões, ^0000CD{1}^000000. E as abóboras, ^0000CD{2}^000000.\nLembre-se disso.",
         "es-ES": "[Agricultor]\nPara cuidar las uvas, ^0000CD{0}^000000. Para los frijoles, ^0000CD{1}^000000. Y las calabazas, ^0000CD{2}^000000.\nRecuérdalo."
     },
     "Ufe0Bw": {
-        "ko-KR": "[농장 일꾼]\n어르신들이 와서 들쑤시는 바람에 저희의 평화가 끝났지만…",
         "en-US": "[Farm Worker]\nOur peace came to an end when the elders came and stirred things up…",
         "pt-BR": "[Fazendeiro]\nAh, sim. Graças a todos vocês, tenho menos mão-de-obra e um pouco mais de trabalho a fazer, mas tudo bem...",
         "es-ES": "[Agricultor]\nAh, sí. Gracias a todos ustedes, tengo menos mano de obra y un poco más de trabajo, pero está bien..."
     },
     "Uve0Bw": {
-        "ko-KR": "[농장 일꾼]\n뭐 됐수다. 사실 진짜 평화도 아니었던 것 같고…",
         "en-US": "[Farm Worker]\nWell, whatever. Honestly, I don't think it was real peace anyway...",
         "pt-BR": "[Fazendeiro]\nO que foi? Só falei verdades...",
         "es-ES": "[Agricultor]\n¿Qué fue? Solo dije la verdad..."
     },
     "U/e0Bw": {
-        "ko-KR": "[농장 일꾼]\n전부 완료해 주셨구만요. 그것 참, 모험가답지 않게 밭일하는 손이 야무지십니다그려.",
         "en-US": "[Farm Worker]\nYou've finished everything. I must say, for an adventurer, you're quite skilled at farm work.",
         "pt-BR": "[Fazendeiro]\nVocê terminou tudo. Nada mal para alguém sem experiência de campo.",
         "es-ES": "[Agricultor]\nTerminaste todo. Nada mal para alguien sin experiencia en el campo."
     },
     "VPe0Bw": {
-        "ko-KR": "[농장 일꾼]\n저희가 드릴 것은 없고 근처에서 주운 부품을 좀 드리겠습니다. 그… 용병님들이 이걸 모으시는 걸 봤거든요. 모험가님도 필요하시다믄서요?",
         "en-US": "[Farm Worker]\nI don't have much to offer, but I'll give you some parts I picked up nearby. I saw some mercenaries collecting these... You need them too, right, Adventurer?",
         "pt-BR": "[Fazendeiro]\nNós não tenho como te pagar, mas tenho algumas peças encontradas aqui. Acho que é de seu interesse, né?",
         "es-ES": "[Agricultor]\nNo tengo cómo pagarte, pero encontré algunas piezas aquí.\nCreo que te interesarán, ¿no?"
     },
     "Vfe0Bw": {
-        "ko-KR": "[농장 일꾼]\n매일 돌봐줘야 하는 작물들이니 다음에도 잘 부탁드립니다.",
         "en-US": "[Farm Worker]\nThese are crops that need to be taken care of every day, so I’ll be counting on you again next time.",
         "pt-BR": "[Fazendeiro]\nEssas plantações precisam ser cuidadas todos os dias, então, por favor, volte aqui para cuidar delas numa próxima vez.",
         "es-ES": "[Agricultor]\nEstos cultivos deben cuidarse todos los días, así que vuelve otro día para encargarte de ellos."
     },
     "Vve0Bw": {
-        "ko-KR": "진딧물을 잡아 주셔야 하고,",
         "en-US": "You need to catch the aphids,",
         "pt-BR": "falta retirar os pulgões",
         "es-ES": "Falta retirar los pulgones"
     },
     "V/e0Bw": {
-        "ko-KR": "비료를 쳐 주셔야 하고,",
         "en-US": "You need to apply fertilizer, and",
         "pt-BR": "falta aplicar o fertilizante",
         "es-ES": "Falta aplicar fertilizante"
     },
     "WPe0Bw": {
-        "ko-KR": "잡초를 뽑아 주셔야 하고,",
         "en-US": "You need to pull out the weeds,",
         "pt-BR": "falta remover ervas daninhas",
         "es-ES": "Falta arrancar malezas"
     },
     "Wfe0Bw": {
-        "ko-KR": "잘 돌봐 주셨군요.",
         "en-US": "You took good care of it.",
         "pt-BR": "não precisa fazer nada",
         "es-ES": "No hay que hacer nada"
     },
     "Wve0Bw": {
-        "ko-KR": "진딧물을 잡아 주셔야 하고,",
         "en-US": "You need to catch aphids,",
         "pt-BR": "falta retirar os pulgões",
         "es-ES": "Falta retirar los pulgones"
     },
     "W/e0Bw": {
-        "ko-KR": "비료를 쳐 주셔야 하고,",
         "en-US": "You need to apply fertilizer, and",
         "pt-BR": "falta aplicar o fertilizante",
         "es-ES": "Falta aplicar fertilizante"
     },
     "XPe0Bw": {
-        "ko-KR": "잡초를 뽑아 주셔야 하고,",
         "en-US": "You need to pull out the weeds,",
         "pt-BR": "falta remover ervas daninhas",
         "es-ES": "Falta arrancar malezas"
     },
     "Xfe0Bw": {
-        "ko-KR": "잘 돌봐 주셨구요.",
         "en-US": "You took good care of me.",
         "pt-BR": "não precisa fazer nada",
         "es-ES": "No hay que hacer nada"
     },
     "Xve0Bw": {
-        "ko-KR": "진딧물을 잡아 주셔야 합죠.",
         "en-US": "You need to catch the aphids.",
         "pt-BR": "falta retirar os pulgões",
         "es-ES": "Falta retirar los pulgones"
     },
     "X/e0Bw": {
-        "ko-KR": "비료를 쳐 주셔야 합죠.",
         "en-US": "You need to apply fertilizer.",
         "pt-BR": "falta aplicar o fertilizante",
         "es-ES": "Falta aplicar fertilizante"
     },
     "YPe0Bw": {
-        "ko-KR": "잡초를 뽑아 주셔야 합죠.",
         "en-US": "You need to pull out the weeds.",
         "pt-BR": "falta remover ervas daninhas",
         "es-ES": "Falta arrancar malezas"
     },
     "Yfe0Bw": {
-        "ko-KR": "잘 돌봐 주셨습니다.",
         "en-US": "You have taken good care of me.",
         "pt-BR": "não precisa fazer nada",
         "es-ES": "No hay que hacer nada"
     },
     "Yve0Bw": {
-        "ko-KR": "[농장 일꾼]\n아이구, 아직 일이 덜 됐습니다요.",
         "en-US": "[Farm Worker]\nOh dear, the work isn’t finished yet.",
         "pt-BR": "[Fazendeiro]\nOpa, seu trabalho ainda não acabou.",
         "es-ES": "[Agricultor]\nOpa, tu trabajo aún no terminó."
     },
     "Y/e0Bw": {
-        "ko-KR": "[농장 일꾼]\n포도는 {0} 깍지콩은 {1} 호박은 {2}",
         "en-US": "[Farm Worker]\nGrape is {0}, Pod Bean is {1}, and Pumpkin is {2}.",
         "pt-BR": "[Fazendeiro]\nPara cuidar das uvas, ^0000CD{0}^000000. Para os feijões, ^0000CD{1}^000000. E as abóboras, ^0000CD{2}^000000.",
         "es-ES": "[Agricultor]\nPara cuidar las uvas, ^0000CD{0}^000000. Para los frijoles, ^0000CD{1}^000000. Y las calabazas, ^0000CD{2}^000000."
     },
     "ZPe0Bw": {
-        "ko-KR": "[농장 일꾼]\n다시 가셔서 확인해 봐 주십쇼.",
         "en-US": "[Farm Worker]\nPlease go back and check again.",
         "pt-BR": "[Fazendeiro]\nPor favor, termine o serviço o quanto antes.",
         "es-ES": "[Agricultor]\nPor favor, termina el trabajo lo antes posible."
     },
     "Zfe0Bw": {
-        "ko-KR": "[농장 일꾼]\n아직은 작물이 싱싱합니다. 너무 자주 만지면 또 안 좋습지요. 그 녀석들이 그래봬도 예민하그든요.",
         "en-US": "[Farm Worker]\nThe crops are still fresh. It's not good to handle them too often, you know. They're actually quite sensitive, despite how they look.",
         "pt-BR": "[Fazendeiro]\nAs plantas ainda estão frescas. É ruim se você tocá-las com muita frequência. Plantas são sensíveis.",
         "es-ES": "[Agricultor]\nLas plantas aún están frescas. Es malo tocarlas con demasiada frecuencia. Las plantas son sensibles."
     },
     "Zve0Bw": {
-        "ko-KR": "[농장 일꾼]\n새벽이 지난 뒤에 다시 와주시면 무척 감사드리굽쇼.",
         "en-US": "[Farm Worker]\nI would greatly appreciate it if you could come back after dawn.",
         "pt-BR": "[Fazendeiro]\nSe você voltar depois do amanhecer, eu ficaria muito grato.",
         "es-ES": "[Agricultor]\nSi vuelves después del amanecer, te lo agradecería mucho."
     },
     "Z/e0Bw": {
-        "ko-KR": "[농장 일꾼]\n시간이 시간이라 그런지 작물이 다시 기운이 없습니다… 오늘도 밭일을 좀 도와주시렵니까?",
         "en-US": "[Farm Worker]\nMaybe it's because of the time, but the crops still look lifeless... Would you be able to help out with the farm work again today?",
         "pt-BR": "[Fazendeiro]\nMais um dia raiou e eu minha plantação precisa de cuidados... Você gostaria de ajudar no trabalho de campo hoje?",
         "es-ES": "[Agricultor]\nHa amanecido otro día y mis cultivos necesitan cuidados...\n¿Te gustaría ayudar hoy en el trabajo del campo?"
     },
     "aPe0Bw": {
-        "ko-KR": "[농장 일꾼]\n여러분이 오신 덕에 자잘하게 할 일이 늘어나서, 제가 전부 돌보기에는 자잘하게 힘에 부쳐서 말입죠.",
         "en-US": "[Farm Worker]\nThanks to your arrival, there are now more small tasks to handle, and honestly, it's a bit much for me to take care of everything on my own.",
         "pt-BR": "[Fazendeiro]\nGraças a vocês, tenho muita coisa para fazer e é um pouco difícil para mim cuidar de todas elas.",
         "es-ES": "[Agricultor]\nGracias a ustedes, tengo mucho que hacer y me resulta un poco difícil ocuparme de todo."
     },
     "afe0Bw": {
-        "ko-KR": "[농장 일꾼]\n감사합니다! 포도, 깍지콩, 호박이 있는데 각각 해주셔야 하는 일이 다르다고 말씀드렸습지요.",
         "en-US": "[Farm Worker]\nThank you! As I mentioned, there are Grape, Pod Bean, and Pumpkin, and each of them has a different task for you to do.",
         "pt-BR": "[Fazendeiro]\nObrigado! Eu já te disse que criamos uvas, feijões e abóboras. Cada um tem um cuidado diferente.",
         "es-ES": "[Agricultor]\n¡Gracias! Ya te dije que cultivamos uvas, frijoles y calabazas.\nCada uno tiene un cuidado distinto."
     },
     "ave0Bw": {
-        "ko-KR": "[농장 일꾼]\n포도는 {0} 주시고, 깍지콩은 {1} 주시고, 호박은 {2} 주시면 됩니다요. 이미 해 주신 적이 있으니 든든합니다그려.",
         "en-US": "[Farm Worker]\nPlease bring me {0} Grape, {1} Pod Bean, and {2} Pumpkin. You've already helped me before, so I feel reassured.",
         "pt-BR": "[Farmhand]\nTraga {0} uvas, {1} feijões e {2} abóboras. Você já sabe como funciona, então nem preciso ficar falando.",
         "es-ES": "[Farmhand]\nTrae {0} uvas, {1} frijoles y {2} calabazas.\nYa sabes cómo funciona, así que no necesito repetirlo."
     },
     "a/e0Bw": {
-        "ko-KR": "[농장 일꾼]\n아, 그러믄요. 제가 여러분 덕에 일손은 줄고 자잘하게 할 일은 자잘하게 늘어났지만 괜찮습니다요.",
         "en-US": "[Farm Worker]\nOh, of course. Thanks to you, I have less heavy work to do, though the small chores have increased a bit, but it's all right.",
         "pt-BR": "[Fazendeiro]\nAh, sim. Graças a todos vocês, tenho menos mão-de-obra e um pouco mais de trabalho a fazer, mas tudo bem.",
         "es-ES": "[Agricultor]\nAh, sí. Gracias a todos ustedes, tengo menos mano de obra y un poco más de trabajo, pero está bien."
     },
     "bPe0Bw": {
-        "ko-KR": "[농장 일꾼]\n뭐, 됐습니다. 그쪽도 어지간히 바쁘신 거겠지요… 저는 농투성이라 어려운 건 잘 모르굽쇼.",
         "en-US": "[Farm Worker]\nWell, that's fine. You must be quite busy yourself... I'm just a simple farmer, so I don't really understand complicated things.",
         "pt-BR": "[Fazendeiro]\nVocê deve estar sem tempo também... Eu sou um fazendeiro, então, não sei de coisas difíceis.",
         "es-ES": "[Agricultor]\nSeguro que tú también andas sin tiempo...\nSoy agricultor, así que no sé de cosas complicadas."
     },
     "bfe0Bw": {
-        "ko-KR": "[농장 일꾼]\n거, 바쁩니다. 여기는 비료 냄새도 나고 도시 사람들은 싫어할 건디요. 저기 연구원님들 계시던 쪽에 사람들 많이 와 있수다. 그리 가보십쇼.",
         "en-US": "[Farm Worker]\nHey, I'm busy. It smells like fertilizer around here, so city folks probably wouldn't like it. There are a lot of people gathered where the Researcher folks are. You should head over there.",
         "pt-BR": "[Fazendeiro]\nÔ, tô ocupado demais.\nAqui fede a fertilizante, gente da cidade não costuma gostar disso.\nLá pro lado onde ficavam os pesquisadores, tem bastante gente reunida.\nDá uma olhada por lá.",
         "es-ES": "[Agricultor]\nOye, estoy muy ocupado.\nAquí huele a fertilizante, a la gente de ciudad no le suele gustar.\nPor el lado donde estaban los investigadores, hay mucha gente reunida.\nVe a echar un vistazo por allí."
     },
     "bve0Bw": {
-        "ko-KR": "포도",
         "en-US": "Grape",
         "pt-BR": "Uvas",
         "es-ES": "Uvas"
     },
     "b/e0Bw": {
-        "ko-KR": "[포도]\n포도가 조금 기운이 없어 보인다.",
         "en-US": "[Grape]\nGrape looks a bit tired.",
         "pt-BR": "[Uvas]\nAs uvas parecem um pouco mortas.",
         "es-ES": "[Uvas]\nLas uvas parecen un poco marchitas."
     },
     "cPe0Bw": {
-        "ko-KR": "진딧물을 잡는다.",
         "en-US": "Catching aphids.",
         "pt-BR": "Retirar pulgões.",
         "es-ES": "Retirar pulgones."
     },
     "cfe0Bw": {
-        "ko-KR": "비료를 준다.",
         "en-US": "Give fertilizer.",
         "pt-BR": "Fertilizar.",
         "es-ES": "Aplicar fertilizante."
     },
     "cve0Bw": {
-        "ko-KR": "잡초를 뽑는다.",
         "en-US": "Pulls out weeds.",
         "pt-BR": "Remover ervas daninhas.",
         "es-ES": "Arrancar malezas."
     },
     "c/e0Bw": {
-        "ko-KR": "[포도]\n포도 줄기에 붙은 진딧물을 잡았다.",
         "en-US": "[Grape]\nYou caught the aphids attached to the Grape stem.",
         "pt-BR": "[Uvas]\nVocê retirou os pulgões dos cachos de uva.",
         "es-ES": "[Uvas]\nQuitaste los pulgones de los racimos de uva."
     },
     "dPe0Bw": {
-        "ko-KR": "[포도]\n느껴져, 포도가 기뻐하는 것이 느껴져!",
         "en-US": "[Grape]\nI can feel it, I can sense that Grape is happy!",
         "pt-BR": "[Uvas]\nEu posso sentir as uvas se alegrando!",
         "es-ES": "[Uvas]\n¡Puedo sentir a las uvas alegrarse!"
     },
     "dfe0Bw": {
-        "ko-KR": "[포도]\n모든 작물을 돌보았다. 이제 농장 일꾼에게 돌아가 보자.",
         "en-US": "[Grape]\nYou’ve taken care of all the crops. Now, let’s go back to Farm Worker.",
         "pt-BR": "[Uvas]\nEu cuidei de todas as plantas. Vamos voltar para o fazendeiro.",
         "es-ES": "[Uvas]\nCuidé todas las plantas. Volvamos con el granjero."
     },
     "dve0Bw": {
-        "ko-KR": "[포도]\n어쩐지 여전히 시들시들해 보이는데…?",
         "en-US": "[Grape]\nSomehow, it still looks wilted... doesn't it?",
         "pt-BR": "[Uvas]\nAcho que eu não fiz a ação certa...",
         "es-ES": "[Uvas]\nCreo que no hice la acción correcta..."
     },
     "d/e0Bw": {
-        "ko-KR": "[포도]\n포도에 비료를 쳤다.",
         "en-US": "[Grape]\nYou have fertilized the Grape.",
         "pt-BR": "[Uvas]\nVocê fertilizou as uvas.",
         "es-ES": "[Uvas]\nAplicaste fertilizante a las uvas."
     },
     "ePe0Bw": {
-        "ko-KR": "[포도]\n포도 주변에 난 잡초를 뽑았다.",
         "en-US": "[Grape]\nI pulled out the weeds around Grape.",
         "pt-BR": "[Uvas]\nVocê arrancou as ervas daninhas ao redor das uvas.",
         "es-ES": "[Uvas]\nArrancaste las malezas alrededor de las uvas."
     },
     "efe0Bw": {
-        "ko-KR": "[포도]\n생기를 되찾은 포도 줄기에 파랗고 조그만 포도가 열려 있다.",
         "en-US": "[Grape]\nOn the rejuvenated Grape vine, small blue Grape are growing.",
         "pt-BR": "[Uvas]\nExistem cachos de uvas revigorados aqui.",
         "es-ES": "[Uvas]\nHay racimos de uvas revitalizados aquí."
     },
     "eve0Bw": {
-        "ko-KR": "[포도]\n생기있는 포도 줄기에 파랗고 조그만 포도가 열려 있다.",
         "en-US": "[Grape]\nSmall, blue Grape are growing on the lively Grape vine.",
         "pt-BR": "[Uvas]\nExistem cachos de uvas saudáveis aqui.",
         "es-ES": "[Uvas]\nHay racimos de uvas saludables aquí."
     },
     "e/e0Bw": {
-        "ko-KR": "깍지콩",
         "en-US": "Pod Bean",
         "pt-BR": "Feijão",
         "es-ES": "Frijoles"
     },
     "fPe0Bw": {
-        "ko-KR": "[깍지콩]\n깍지콩이 조금 기운이 없어 보인다.",
         "en-US": "[Pod Bean]\nPod Bean looks a little weak.",
         "pt-BR": "[Feijão]\nOs feijões parecem um pouco mortos.",
         "es-ES": "[Frijoles]\nLos frijoles parecen un poco marchitos."
     },
     "ffe0Bw": {
-        "ko-KR": "[깍지콩]\n깍지콩 줄기에 붙은 진딧물을 잡았다.",
         "en-US": "[Pod Bean]\nYou caught the aphids clinging to the Pod Bean stem.",
         "pt-BR": "[Feijão]\nVocê retirou os pulgões dos pés de feijão.",
         "es-ES": "[Frijoles]\nQuitaste los pulgones de las plantas de frijol."
     },
     "fve0Bw": {
-        "ko-KR": "[깍지콩]\n느껴져, 깍지콩이 기뻐하는 것이 느껴져!",
         "en-US": "[Pod Bean]\nI can feel it, I can sense that Pod Bean is happy!",
         "pt-BR": "[Feijão]\nEu posso sentir os feijões se alegrarem!",
         "es-ES": "[Frijoles]\n¡Puedo sentir a los frijoles alegrarse!"
     },
     "f/e0Bw": {
-        "ko-KR": "[깍지콩]\n모든 작물을 돌보았다. 이제 농장 일꾼에게 돌아가 보자.",
         "en-US": "[Pod Bean]\nYou’ve taken care of all the crops. Now, let’s go back to Farm Worker.",
         "pt-BR": "[Feijão]\nEu cuidei de todas as plantas. Vamos voltar para o fazendeiro.",
         "es-ES": "[Frijoles]\nCuidé todas las plantas. Volvamos con el granjero."
     },
     "gPe0Bw": {
-        "ko-KR": "[깍지콩]\n어쩐지 여전히 시들시들해 보이는데…?",
         "en-US": "[Pod Bean]\nSomehow, it still looks wilted... doesn't it?",
         "pt-BR": "[Feijão]\nAcho que eu não fiz a ação certa...",
         "es-ES": "[Frijoles]\nCreo que no hice la acción correcta..."
     },
     "gfe0Bw": {
-        "ko-KR": "[깍지콩]\n깍지콩에 비료를 쳤다.",
         "en-US": "[Pod Bean]\nYou have fertilized the Pod Bean.",
         "pt-BR": "[Feijão]\nVocê fertilizou o pé de feijão.",
         "es-ES": "[Frijoles]\nAplicaste fertilizante a la planta de frijol."
     },
     "gve0Bw": {
-        "ko-KR": "[깍지콩]\n깍지콩 주변에 난 잡초를 뽑았다.",
         "en-US": "[Pod Bean]\nYou pulled out the weeds around Pod Bean.",
         "pt-BR": "[Feijão]\nVocê arrancou as ervas daninhas ao redor do pé de feijão.",
         "es-ES": "[Frijoles]\nArrancaste las malezas alrededor de la planta de frijol."
     },
     "g/e0Bw": {
-        "ko-KR": "[깍지콩]\n생기를 되찾은 깍지콩 줄기에 파랗고 조그만 콩깍지가 열려 있다.",
         "en-US": "[Pod Bean]\nA small, blue pod has grown on the revived Pod Bean stem.",
         "pt-BR": "[Feijão]\nExistem pés de feijão revigorados aqui.",
         "es-ES": "[Frijoles]\nHay plantas de frijol revitalizadas aquí."
     },
     "hPe0Bw": {
-        "ko-KR": "[깍지콩]\n생기있는 깍지콩 줄기에 파랗고 조그만 콩깍지가 열려 있다.",
         "en-US": "[Pod Bean]\nA lively Pod Bean stem bears a small, blue pod.",
         "pt-BR": "[Feijão]\nExistem pés de feijão saudáveis aqui.",
         "es-ES": "[Frijoles]\nHay plantas de frijol saludables aquí."
     },
     "hfe0Bw": {
-        "ko-KR": "호박",
         "en-US": "Pumpkin",
         "pt-BR": "Abóbora",
         "es-ES": "Calabazas"
     },
     "hve0Bw": {
-        "ko-KR": "[호박]\n호박 줄기가 조금 기운이 없어 보인다.",
         "en-US": "[Pumpkin]\nThe stem of the Pumpkin looks a little wilted.",
         "pt-BR": "[Abóbora]\nAs abóboras parecem um pouco mortas.",
         "es-ES": "[Calabazas]\nLas calabazas parecen un poco marchitas."
     },
     "h/e0Bw": {
-        "ko-KR": "[호박]\n호박 줄기에 붙은 진딧물을 잡았다.",
         "en-US": "[Pumpkin]\nI caught the aphids attached to the Pumpkin stem.",
         "pt-BR": "[Abóbora]\nVocê retirou os pulgões das abóboras.",
         "es-ES": "[Calabazas]\nQuitaste los pulgones de las calabazas."
     },
     "iPe0Bw": {
-        "ko-KR": "[호박]\n느껴져, 호박이 기뻐하는 것이 느껴져!",
         "en-US": "[Pumpkin]\nI can feel it, I can sense that Pumpkin is happy!",
         "pt-BR": "[Abóbora]\nEu posso sentir as abóboras se alegrarem!",
         "es-ES": "[Calabazas]\n¡Puedo sentir a las calabazas alegrarse!"
     },
     "ife0Bw": {
-        "ko-KR": "[호박]\n모든 작물을 돌보았다. 이제 농장 일꾼에게 돌아가 보자.",
         "en-US": "[Pumpkin]\nYou’ve taken care of all the crops. Now, let’s go back to Farm Worker.",
         "pt-BR": "[Abóbora]\nEu cuidei de todas as plantas. Vamos voltar para o fazendeiro.",
         "es-ES": "[Calabazas]\nCuidé todas las plantas. Volvamos con el granjero."
     },
     "ive0Bw": {
-        "ko-KR": "[호박]\n어쩐지 여전히 시들시들해 보이는데…?",
         "en-US": "[Pumpkin]\nSomehow, it still looks wilted... doesn't it?",
         "pt-BR": "[Abóbora]\nAcho que eu não fiz a ação certa...",
         "es-ES": "[Calabazas]\nCreo que no hice la acción correcta..."
     },
     "i/e0Bw": {
-        "ko-KR": "[호박]\n호박 줄기에 비료를 쳤다.",
         "en-US": "[Pumpkin]\nYou applied fertilizer to the stem of the Pumpkin.",
         "pt-BR": "[Abóbora]\nVocê fertilizou as abóboras.",
         "es-ES": "[Calabazas]\nAplicaste fertilizante a las calabazas."
     },
     "jPe0Bw": {
-        "ko-KR": "[호박]\n호박 줄기 주변에 난 잡초를 뽑았다.",
         "en-US": "[Pumpkin]\nYou pulled out the weeds growing around the Pumpkin stem.",
         "pt-BR": "[Abóbora]\nVocê arrancou as ervas daninhas ao redor das abóboras.",
         "es-ES": "[Calabazas]\nArrancaste las malezas alrededor de las calabazas."
     },
     "jfe0Bw": {
-        "ko-KR": "[호박]\n생기를 되찾은 호박 줄기에 솜털이 난 손바닥만한 잎이 돋아 있다.",
         "en-US": "[Pumpkin]\nOn the revived stem of the Pumpkin, small, fuzzy leaves the size of a palm have sprouted.",
         "pt-BR": "[Abóbora]\nExistem abóboras revigoradas aqui.",
         "es-ES": "[Calabazas]\nHay calabazas revitalizadas aquí."
     },
     "jve0Bw": {
-        "ko-KR": "[호박]\n생기있는 호박 줄기에 솜털이 난 손바닥만한 잎이 돋아 있다.",
         "en-US": "[Pumpkin]\nOn the lively stem of the Pumpkin, there are palm-sized leaves covered with fine fuzz.",
         "pt-BR": "[Abóbora]\nExistem abóboras saudáveis aqui.",
         "es-ES": "[Calabazas]\nHay calabazas saludables aquí."
     },
     "j/e0Bw": {
-        "ko-KR": "띄워 주셔도 뭐… 딱히 특별하지도 않잖아요, 저흰 늘 정예니까? 헤헷.",
         "en-US": "Even if you highlight us… it’s not like it’s anything special, right? We’re always elite anyway! Hehe.",
         "pt-BR": "Bom saber que sou um dos melhores.",
         "es-ES": "Es bueno saber que soy uno de los mejores."
     },
     "kPe0Bw": {
-        "ko-KR": "굴리기 쉬워서 뽑은 거 아닙니까? 우리가 제일 만만한 놈들이라서 말이에요!",
         "en-US": "Didn't you pick us because we're easy to push around? Because we're the easiest targets!",
         "pt-BR": "Eles são presas fáceis!",
         "es-ES": "¡Son presas fáciles!"
     },
     "kfe0Bw": {
-        "ko-KR": "와, 드디어 내가 활약할 때가 왔어!",
         "en-US": "Wow, it's finally my time to shine!",
         "pt-BR": "Estou ansiosa pela minha primeira missão com o Ilya!",
         "es-ES": "¡Estoy ansiosa por mi primera misión con Ilya!"
     },
     "kve0Bw": {
-        "ko-KR": "그래, 이제 우리가 날뛸 때야, 동생아!",
         "en-US": "Yeah, it's our time to go wild now, little brother!",
         "pt-BR": "Vamos dar o nosso melhor, Jana!",
         "es-ES": "¡Hagámoslo lo mejor posible, Jana!"
     },
     "k/e0Bw": {
-        "ko-KR": "진짜 민망하게 왜 그러세요? 평소엔 뭐 하나 한번에 좋다 하시는 적이 없으시면서!",
         "en-US": "Why are you acting so embarrassingly? You never say you like anything right away!",
         "pt-BR": "Espero não envergonhar minha tropa!",
         "es-ES": "¡Espero no avergonzar a mi tropa!\""
     },
     "lPe0Bw": {
-        "ko-KR": "[리벨리온]\n안내가 필요하십니까? <NAVI>[리벨리온]<INFO>sp_cor,127,140,0,101,0</INFO></NAVI>에 용무가 있으시면 7시 방향으로 가 보십시오.\n5시 방향은 식료 자급자족 및 연구를 위한 것으로 보이는 <NAVI>[식량 생산 구역]<INFO>sp_cor,243,84,0,101,0</INFO></NAVI>입니다.",
         "en-US": "[Rebellion]\nDo you need guidance? If you have business at <NAVI>[Rebellion]<INFO>sp_cor,127,140,0,101,0</INFO></NAVI>, please head in the 7 o'clock direction.\nThe area at 5 o'clock appears to be the <NAVI>[Food Production Zone]<INFO>sp_cor,243,84,0,101,0</INFO></NAVI>, which is used for food self-sufficiency and research.",
         "pt-BR": "[Guia]\nVocê precisa de orientação?\nVou te indicar os lugares mais importantes.",
         "es-ES": "[Guía]\n¿Necesitas orientación?\nTe indicaré los lugares más importantes."
     },
     "lfe0Bw": {
-        "ko-KR": "[리벨리온]\n10시 방향 <NAVI>[막사]<INFO>sp_cor,159,220,0,101,0</INFO></NAVI>들은 위험하오니 개인 출입을 삼가 주십시오. 2시 방향 <NAVI>[수로]<INFO>sp_cor,236,275,0,101,0</INFO></NAVI>도 마찬가지입니다.",
         "en-US": "[Rebellion]\nPlease refrain from entering the <NAVI>[Barracks]<INFO>sp_cor,159,220,0,101,0</INFO></NAVI> at the 10 o'clock direction, as they are dangerous. The same applies to the <NAVI>[Waterway]<INFO>sp_cor,236,275,0,101,0</INFO></NAVI> at the 2 o'clock direction.",
         "pt-BR": "[Guia]\n<NAVI>[Base de Operações]<INFO>sp_cor,127,140,0,101,0</INFO></NAVI> <NAVI>[Fazenda]<INFO>sp_cor,243,84,0,101,0</INFO></NAVI> <NAVI>[Barracas]<INFO>sp_cor,159,220,0,101,0</INFO></NAVI> <NAVI>[Canal de Esgoto]<INFO>sp_cor,236,275,0,101,0</INFO></NAVI>",
         "es-ES": "[Guía]\n<NAVI>[Base de Operaciones]<INFO>sp_cor,127,140,0,101,0</INFO></NAVI> <NAVI>[Granja]<INFO>sp_cor,243,84,0,101,0</INFO></NAVI> <NAVI>[Barracas]<INFO>sp_cor,159,220,0,101,0</INFO></NAVI> <NAVI>[Canal de Alcantarillado]<INFO>sp_cor,236,275,0,101,0</INFO></NAVI>"
     },
     "lve0Bw": {
-        "ko-KR": "[엘레나 볼코바]\n(눈에 힘 주느라 바빠, 지금은!!)",
         "en-US": "[Elena Volkova]\n(I’m busy focusing my gaze right now, so not now!!)",
         "pt-BR": "[Elena Bolkova]\n(Estou ocupada vigiando Elyumina!!)",
         "es-ES": "[Elena Bolkova]\n(¡¡Estoy ocupada vigilando a Elyumina!!)"
     },
     "l/e0Bw": {
-        "ko-KR": "레이지",
         "en-US": "Leizi",
         "pt-BR": "Nalandro",
         "es-ES": "Lazy"
     },
     "mPe0Bw": {
-        "ko-KR": "[레이지]\n럭키 루키가 실력을 발휘할 때가 왔네. 야아, 기대되는데?",
         "en-US": "[Leizi]\nIt's time for the lucky Rookie to show what you've got. Wow, I'm looking forward to this!",
         "pt-BR": "[Nalandro]\nFinalmente, Lukiezinho vai mostrar todo o seu talento! Uhuuul~",
         "es-ES": "[Lazy]\n¡Por fin, Lukiezito va a mostrar todo su talento! ¡Yujuu!"
     },
     "mfe0Bw": {
-        "ko-KR": "[엘류미나]\n말 걸지 마!",
         "en-US": "[Eliumina]\nDon't talk to me!",
         "pt-BR": "[Elyumina]\nNão fale comigo!",
         "es-ES": "[Elyumina]\n¡No me hables!"
     },
     "mve0Bw": {
-        "ko-KR": "필로폰테스",
         "en-US": "Philopontess",
         "pt-BR": "Philopontess",
         "es-ES": "Philopontesss"
     },
     "m/e0Bw": {
-        "ko-KR": "[테스]\n중요한 심문이니 정부 측에서도 되도록 머릿수를 맞춰 놓아야 하지 않겠습니까. 나중에 무슨 말이 나올지 모르니 말입니다.",
         "en-US": "[Tess]\nSince this is an important interrogation, shouldn't the government also make sure to have the right number of people present? You never know what might be said later.",
         "pt-BR": "[Tess]\nComo esse é um interrogatório importante, deveríamos ter mais agentes do governo aqui, para evitar confusões depois.",
         "es-ES": "[Tess]\nComo este es un interrogatorio importante, deberíamos tener más agentes del gobierno aquí para evitar problemas después."
     },
     "nPe0Bw": {
-        "ko-KR": "레이지 : 우리 약쟁이, 역시 꼼꼼하다니까~",
         "en-US": "Leizi: Our little druggie, you really are thorough as always~",
         "pt-BR": "Nalandro: Relaxa, Tess, toma uma cervejinha~",
         "es-ES": "Lazy: Tranquilo, Tess, tómate una cervecita~"
     },
     "nfe0Bw": {
-        "ko-KR": "아직 위험성을 예측할 수 없는 물품들입니다. 모험가님은 가까이 오시지 마십시오.",
         "en-US": "These are items whose dangers cannot yet be predicted. Adventurer, please do not come any closer.",
         "pt-BR": "Cuidado, não se aproximem, não sabemos o que são essas coisas.",
         "es-ES": "Cuidado, no se acerquen, no sabemos qué son estas cosas."
     },
     "nve0Bw": {
-        "ko-KR": "장부를 작성하는 중이지만 모르는 물건이 너무 많아요. 혼자서 잘 해내고 싶은데.",
         "en-US": "I'm working on keeping the ledger, but there are so many items I don't know. I want to do well on my own, though.",
         "pt-BR": "Estou fazendo um relatório, mas não sei o que são essas coisas.",
         "es-ES": "Estoy haciendo un informe, pero no sé qué son estas cosas."
     },
     "n/e0Bw": {
-        "ko-KR": "모르는 게 있으면 물어보라고 여기 서 있는데, 고집도 세지 말입니다.",
         "en-US": "I'm standing here so you can ask me if there's anything you don't know, but you're being so stubborn.",
         "pt-BR": "Estou aqui para tirar dúvidas, mas ela é tão convencida.",
         "es-ES": "Estoy aquí para resolver dudas, pero ella es muy engreída."
     },
     "oPe0Bw": {
-        "ko-KR": "사주 경계 중입니다! 이상 없습니다!",
         "en-US": "We are on alert! No abnormalities detected!",
         "pt-BR": "Estou de vigília! Está tudo limpo.",
         "es-ES": "¡Estoy de guardia! Todo está despejado."
     },
     "ofe0Bw": {
-        "ko-KR": "[리벨리온]\n여기 있는 것들, 엄청 가치있는 물건인 걸까? 비싼 걸까? 만져라도 보고 싶어! 냄새맡아 보고 싶어! 귀중품의 향기, 귀중품의 촉감!",
         "en-US": "[Rebellion]\nAre the things here really valuable? Are they expensive? I just want to touch them! I want to smell them! The scent of treasures, the feel of precious items!",
         "pt-BR": "[Insurgente]\nEssas coisas são realmente valiosas? São caras? Eu quero tocá-las e cheirá-las! Tem cheiro de objetos de valor!",
         "es-ES": "[Rebelde]\n¿Estas cosas son realmente valiosas? ¿Son caras?\n¡Quiero tocarlas y olerlas! ¡Huelen a objetos de valor!"
     },
     "ove0Bw": {
-        "ko-KR": "[리벨리온]\n과학자들이나 연구자 같은 사람이나 눈 뒤집히는 물건이겠지. 아서라, 함부로 만지다가 손 녹아내리고 그런다?",
         "en-US": "[Rebellion]\nIt's probably the kind of thing that would make scientists or researchers lose their minds. Seriously, if you mess with it carelessly, your hand might just melt off, you know?",
         "pt-BR": "[Insurgente]\nProvavelmente são úteis somente para os cientistas. Melhor não tocar nisso.",
         "es-ES": "[Rebelde]\nProbablemente solo sean útiles para los científicos.\nMejor no tocar eso."

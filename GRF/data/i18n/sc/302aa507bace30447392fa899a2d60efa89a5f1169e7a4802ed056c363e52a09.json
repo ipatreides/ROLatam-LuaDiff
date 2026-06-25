@@ -201,8 +201,8 @@
     },
     "aPQPAg": {
         "en-US": "ssss[{0}] guild has conquered Rothenburg in the [{1}] Realm.",
-        "pt-BR": "ssssO clã [{0}] conquistou o castelo [{1}]",
-        "es-ES": "ssssEl gremio [{0}] conquistó el castillo [{1}]"
+        "pt-BR": "ssssO clã [{0}] conquistou o castelo de [{1}]",
+        "es-ES": "ssssEl gremio [{0}] conquistó el castillo de [{1}]"
     },
     "afQPAg": {
         "en-US": "The Emperium has been destroyed.",
@@ -673,5 +673,45 @@
         "en-US": "Nothing happened.",
         "pt-BR": "Não aconteceu nada.",
         "es-ES": "No pasó nada."
+    },
+    "x/QPAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "yPQPAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "yfQPAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "yvQPAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "y/QPAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "zPQPAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "zfQPAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "zvQPAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     }
 }

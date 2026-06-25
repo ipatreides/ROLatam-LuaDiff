@@ -1,444 +1,370 @@
 {
     "4P1RDA": {
-        "ko-KR": "예언자 K 조수 테스트",
         "en-US": "Prophet K Assistant Test",
         "pt-BR": "[GM] Assistente Q",
         "es-ES": "Asistente del Profeta K Test"
     },
     "4f1RDA": {
-        "ko-KR": "소지하고 계시는 아이템의 갯수가 많아 퀘스트를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
         "en-US": "You have too many items in your possession and cannot proceed with the quest.\nPlease organize your inventory and try again.",
         "pt-BR": "Você tem muitos itens em sua posse e não pode prosseguir com a missão.\nPor favor, organize seu inventário e tente novamente.",
         "es-ES": "Tienes demasiados objetos en tu posesión y no puedes continuar con la misión.\nPor favor, organiza tu inventario e inténtalo de nuevo."
     },
     "4v1RDA": {
-        "ko-KR": "1월",
         "en-US": "January",
         "pt-BR": "Janeiro",
         "es-ES": "Enero"
     },
     "4/1RDA": {
-        "ko-KR": "2월",
         "en-US": "February",
         "pt-BR": "Fevereiro",
         "es-ES": "Febrero"
     },
     "5P1RDA": {
-        "ko-KR": "3월",
         "en-US": "March",
         "pt-BR": "Março",
         "es-ES": "Marzo"
     },
     "5f1RDA": {
-        "ko-KR": "4월",
         "en-US": "April",
         "pt-BR": "Abril",
         "es-ES": "Abril"
     },
     "5v1RDA": {
-        "ko-KR": "5월",
         "en-US": "May",
         "pt-BR": "Maio",
         "es-ES": "Mayo"
     },
     "5/1RDA": {
-        "ko-KR": "6월",
         "en-US": "June",
         "pt-BR": "Junho",
         "es-ES": "Junio"
     },
     "6P1RDA": {
-        "ko-KR": "7월",
         "en-US": "July",
         "pt-BR": "Julho",
         "es-ES": "Julio"
     },
     "6f1RDA": {
-        "ko-KR": "8월",
         "en-US": "August",
         "pt-BR": "Agosto",
         "es-ES": "Agosto"
     },
     "6v1RDA": {
-        "ko-KR": "9월",
         "en-US": "September",
         "pt-BR": "Setembro",
         "es-ES": "Septiembre"
     },
     "6/1RDA": {
-        "ko-KR": "10월",
         "en-US": "October",
         "pt-BR": "Outubro",
         "es-ES": "Octubre"
     },
     "7P1RDA": {
-        "ko-KR": "11월",
         "en-US": "November",
         "pt-BR": "Novembro",
         "es-ES": "Noviembre"
     },
     "7f1RDA": {
-        "ko-KR": "12월",
         "en-US": "December",
         "pt-BR": "Dezembro",
         "es-ES": "Diciembre"
     },
     "7v1RDA": {
-        "ko-KR": "모두체크",
         "en-US": "Check All",
         "pt-BR": "Marcar Todos",
         "es-ES": "Marcar Todos"
     },
     "7/1RDA": {
-        "ko-KR": "모두해제",
         "en-US": "Uncheck All",
         "pt-BR": "Desmarcar Todos",
         "es-ES": "Desmarcar Todos"
     },
     "8P1RDA": {
-        "ko-KR": "대화를 종료한다",
         "en-US": "End Conversation",
         "pt-BR": "Encerrar Conversa",
         "es-ES": "Terminar Conversación"
     },
     "8f1RDA": {
-        "ko-KR": "1월",
         "en-US": "January",
         "pt-BR": "Janeiro",
         "es-ES": "Enero"
     },
     "8v1RDA": {
-        "ko-KR": "2월",
         "en-US": "February",
         "pt-BR": "Fevereiro",
         "es-ES": "Febrero"
     },
     "8/1RDA": {
-        "ko-KR": "3월",
         "en-US": "March",
         "pt-BR": "Março",
         "es-ES": "Marzo"
     },
     "9P1RDA": {
-        "ko-KR": "4월",
         "en-US": "April",
         "pt-BR": "Abril",
         "es-ES": "Abril"
     },
     "9f1RDA": {
-        "ko-KR": "5월",
         "en-US": "May",
         "pt-BR": "Maio",
         "es-ES": "Mayo"
     },
     "9v1RDA": {
-        "ko-KR": "6월",
         "en-US": "June",
         "pt-BR": "Junho",
         "es-ES": "Junio"
     },
     "9/1RDA": {
-        "ko-KR": "7월",
         "en-US": "July",
         "pt-BR": "Julho",
         "es-ES": "Julio"
     },
     "+P1RDA": {
-        "ko-KR": "8월",
         "en-US": "August",
         "pt-BR": "Agosto",
         "es-ES": "Agosto"
     },
     "+f1RDA": {
-        "ko-KR": "9월",
         "en-US": "September",
         "pt-BR": "Setembro",
         "es-ES": "Septiembre"
     },
     "+v1RDA": {
-        "ko-KR": "10월",
         "en-US": "October",
         "pt-BR": "Outubro",
         "es-ES": "Octubre"
     },
     "+/1RDA": {
-        "ko-KR": "11월",
         "en-US": "November",
         "pt-BR": "Novembro",
         "es-ES": "Noviembre"
     },
     "/P1RDA": {
-        "ko-KR": "12월",
         "en-US": "December",
         "pt-BR": "Dezembro",
         "es-ES": "Diciembre"
     },
     "/f1RDA": {
-        "ko-KR": "1월에서 12월 모두 체크",
         "en-US": "Check all from January to December",
         "pt-BR": "Marcar todos de Janeiro a Dezembro",
         "es-ES": "Marcar todos de Enero a Diciembre"
     },
     "/v1RDA": {
-        "ko-KR": "1월에서 12월 모두 해제",
         "en-US": "Uncheck all from January to December",
         "pt-BR": "Desmarcar todos de Janeiro a Dezembro",
         "es-ES": "Desmarcar todos de Enero a Diciembre"
     },
     "//1RDA": {
-        "ko-KR": "종료",
         "en-US": "Exit",
         "pt-BR": "Sair",
         "es-ES": "Salir"
     },
     "AP5RDA": {
-        "ko-KR": "예언자 K 조수",
         "en-US": "Prophet K Assistant",
         "pt-BR": "Assistente Q",
         "es-ES": "Asistente del Profeta K"
     },
     "Af5RDA": {
-        "ko-KR": "[예언자 K 조수]\n예언자 K님의 예언을\n실현하는데 오랜 도움을\n주신 분들에게\n그에 합당한 보상을\n드리고 있습니다.",
         "en-US": "[Prophet K Assistant]\nWe are providing appropriate rewards\nto those who have provided\nlong-time assistance in realizing\nProphet K's prophecies.",
         "pt-BR": "[Assistente Q]\nEstamos fornecendo recompensas apropriadas\npara aqueles que prestaram\nassistência de longa data na realização\ndas profecias do Profeta K.",
         "es-ES": "[Asistente del Profeta K]\nEstamos otorgando recompensas apropiadas\na aquellos que han proporcionado\nasistencia prolongada para realizar\nlas profecías de Prophet K."
     },
     "Av5RDA": {
-        "ko-KR": "12지신 보상 획득 방법",
         "en-US": "How to receive 12 Zodiac Deity rewards",
         "pt-BR": "Como receber as recompensas?",
         "es-ES": "Cómo recibir las recompensas de las 12 Deidades del Zodíaco"
     },
     "A/5RDA": {
-        "ko-KR": "12지신 진행 상황 확인",
         "en-US": "Check 12 Zodiac Deity progress",
         "pt-BR": "Verificar progresso.",
         "es-ES": "Verificar progreso de las 12 Deidades del Zodíaco"
     },
     "BP5RDA": {
-        "ko-KR": "12지신 보상 받기",
         "en-US": "Receive 12 Zodiac Deity reward",
         "pt-BR": "Receber recompensa.",
         "es-ES": "Recibir recompensa de las 12 Deidades del Zodíaco"
     },
     "Bf5RDA": {
-        "ko-KR": "[예언자 K 조수]\n12지신님의 보상을\n획득하기 위해서는\n우리 예언자 K 님의\n예언에 따라서 12지신과\n관련된 임무를 전부\n수행해야 합니다.",
         "en-US": "[Prophet K Assistant]\nTo obtain the rewards of the 12 Zodiac Deities,\nyou must fully complete all tasks\nrelated to the 12 Zodiac Deities\naccording to our Prophet K's prophecies.",
         "pt-BR": "[Assistente Q]\nPara obter as recompensas das 12 Divindades do Zodíaco,\nvocê deve completar totalmente todas as tarefas\nrelacionadas às 12 Divindades do Zodíaco\nde acordo com as profecias do nosso Profeta K.",
         "es-ES": "[Asistente del Profeta K]\nPara obtener las recompensas de las 12 Deidades del Zodíaco,\ndebes completar en su totalidad todas las tareas\nrelacionadas con las 12 Deidades del Zodíaco\nde acuerdo con las profecías de nuestro Prophet K."
     },
     "Bv5RDA": {
-        "ko-KR": "[예언자 K 조수]\n12지신 임무 중 하나라도\n수행하지 못하신다면\n12지신님이 노하셔서\n보상을 드릴 수 없으니\n양해 부탁 드립니다.",
         "en-US": "[Prophet K Assistant]\nIf you fail to complete even one\nof the 12 Zodiac Deity tasks,\nthe 12 Zodiac Deities will be angered\nand we cannot give you the reward.\nWe ask for your understanding.",
         "pt-BR": "[Assistente Q]\nSe você falhar em completar mesmo uma\ndas tarefas das 12 Divindades do Zodíaco,\nas 12 Divindades do Zodíaco ficarão irritadas\ne não poderemos lhe dar a recompensa.\nPedimos sua compreensão.",
         "es-ES": "[Asistente del Profeta K]\nSi fallas en completar incluso una\nde las tareas de las 12 Deidades del Zodíaco,\nlas 12 Deidades del Zodíaco se enojarán\ny no podremos darte la recompensa.\nPedimos tu comprensión."
     },
     "B/5RDA": {
-        "ko-KR": "[예언자 K 조수]\n또한 3종의 아이템 중 1종을\n선택하여 획득 할 수 있으며\n1종의 아이템을 획득하면\n나머지 2종의 아이템은 획득\n할 수 없습니다.",
         "en-US": "[Prophet K Assistant]\nFurthermore, you can choose to acquire\none type out of three types of items.\nIf you acquire one type of item,\nyou cannot acquire the other two types.",
         "pt-BR": "[Assistente Q]\nAlém disso, você pode escolher adquirir\num tipo entre três tipos de itens.\nSe você adquirir um tipo de item,\nnão poderá adquirir os outros dois tipos.",
         "es-ES": "[Asistente del Profeta K]\nAdemás, puedes elegir adquirir\nun tipo de entre tres tipos de objetos.\nSi adquieres un tipo de objeto,\nno podrás adquirir los otros dos tipos."
     },
     "CP5RDA": {
-        "ko-KR": "[예언자 K 조수]\n나머지 2종의 아이템을\n획득하기 위해서는 다시\n예언자 K님의 12지신 예언을\n도와주셔야만 합니다.\n혹시 더 궁금한 점이 있습니까?",
         "en-US": "[Prophet K Assistant]\nTo acquire the other two types of items,\nyou must assist Prophet K's\n12 Zodiac Deity prophecies again.\nDo you have any other questions?",
         "pt-BR": "[Assistente Q]\nPara adquirir os outros dois tipos de itens,\nvocê deve auxiliar novamente as profecias\ndas 12 Divindades do Zodíaco do Profeta K.\nVocê tem alguma outra pergunta?",
         "es-ES": "[Asistente del Profeta K]\nPara adquirir los otros dos tipos de objetos,\ndebes asistir nuevamente las profecías\nde las 12 Deidades del Zodíaco de Prophet K.\n¿Tienes alguna otra pregunta?"
     },
     "Cf5RDA": {
-        "ko-KR": "1월-의상 생쥐 모자",
         "en-US": "January - [Costume] Mouse Hat",
         "pt-BR": "Janeiro - [Visual] Gorro do Rato",
         "es-ES": "Enero - [Disfraz] Sombrero de Ratón"
     },
     "Cv5RDA": {
-        "ko-KR": "2월-의상 젖소 모자",
         "en-US": "February - [Costume] Cow Hat",
         "pt-BR": "Fevereiro - [Visual] Touca de Vaquinha",
         "es-ES": "Febrero - [Disfraz] Sombrero de Vaca"
     },
     "C/5RDA": {
-        "ko-KR": "3월-의상 백호 모자",
         "en-US": "March - [Costume] White Tiger Hat",
         "pt-BR": "Março - [Visual] Chapéu de Tigre Branco",
         "es-ES": "Marzo - [Disfraz] Sombrero de Tigre Blanco"
     },
     "DP5RDA": {
-        "ko-KR": "4월-의상 흰 토끼 헤어밴드",
         "en-US": "April - [Costume] White Rabbit Hairband",
         "pt-BR": "Abril - [Visual] Chapéu de Coelho Branco",
         "es-ES": "Abril - [Disfraz] Sombrero de Conejo Blanco"
     },
     "Df5RDA": {
-        "ko-KR": "5월-의상 여의주를 품은 용 모자",
         "en-US": "May - [Costume] Dragon Hat",
         "pt-BR": "Maio - [Visual] Chapéu do Dragão",
         "es-ES": "Mayo - [Disfraz] Sombrero de Dragón"
     },
     "Dv5RDA": {
-        "ko-KR": "6월-의상 똬리 튼 뱀 모자",
         "en-US": "June - [Costume] Coiled Snake Hat",
         "pt-BR": "Junho - [Visual] Chapéu de Serpente",
         "es-ES": "Junio - [Disfraz] Sombrero de Serpiente"
     },
     "D/5RDA": {
-        "ko-KR": "7월-의상 미니 말 머리핀",
         "en-US": "July - [Costume] Mini Horse Hairpin",
         "pt-BR": "Julho - [Visual] Presilha de Cavalo",
         "es-ES": "Julio - [Disfraz] Pasador de Caballo Miniatura"
     },
     "EP5RDA": {
-        "ko-KR": "8월-의상 양털 모자",
         "en-US": "August - [Costume] Wool Hat",
         "pt-BR": "Agosto - [Visual] Touca de Ovelha",
         "es-ES": "Agosto - [Disfraz] Sombrero de Lana"
     },
     "Ef5RDA": {
-        "ko-KR": "9월-의상 원숭이 털모자",
         "en-US": "September - [Costume] Monkey Fur Hat",
         "pt-BR": "Setembro - [Visual] Chapéu de Macaco",
         "es-ES": "Septiembre - [Disfraz] Sombrero de Piel de Mono"
     },
     "Ev5RDA": {
-        "ko-KR": "10월-의상 꼬꼬 모자",
         "en-US": "October - [Costume] Chick Hat",
         "pt-BR": "Outubro - [Visual] Touca de Galinha",
         "es-ES": "Octubre - [Disfraz] Sombrero de Pollito"
     },
     "E/5RDA": {
-        "ko-KR": "11월-의상 강아지 모자",
         "en-US": "November - [Costume] Puppy Hat",
         "pt-BR": "Novembro - [Visual] Chapéu de Cachorrinho",
         "es-ES": "Noviembre - [Disfraz] Sombrero de Cachorro"
     },
     "FP5RDA": {
-        "ko-KR": "12월-의상 돼지 저금통 모자",
         "en-US": "December - [Costume] Piggy Bank Hat",
         "pt-BR": "Dezembro - [Visual] Cofrinho de Porco",
         "es-ES": "Diciembre - [Disfraz] Sombrero de Alcancía Cerdito"
     },
     "Ff5RDA": {
-        "ko-KR": "[예언자 K 조수]\n당신은 12지신 임무를 모두 완료하여\n12지신 보상을 받을 준비가\n되어있는 신성한 분이군요!\n어서 보상을 선택하여 받으세요!",
         "en-US": "[Prophet K Assistant]\nYou have completed all 12 Zodiac Deity tasks\nand are a sacred individual ready\nto receive the 12 Zodiac Deity reward!\nPlease select and receive your reward quickly!",
         "pt-BR": "[Assistente Q]\nVocê completou todas as 12 tarefas das Divindades do Zodíaco\ne é um indivíduo sagrado preparado\npara receber a recompensa das 12 Divindades do Zodíaco!\nPor favor, selecione e receba sua recompensa rapidamente!",
         "es-ES": "[Asistente del Profeta K]\n¡Has completado las 12 tareas de las Deidades del Zodíaco\ny eres un individuo sagrado listo\npara recibir la recompensa de las 12 Deidades del Zodíaco!\n¡Por favor, selecciona y recibe tu recompensa rápidamente!"
     },
     "Fv5RDA": {
-        "ko-KR": "[예언자 K 조수]\n예언자 K님의 예언을\n아직 도와드리지 못했군요.\n예언자 K님의 12지신 예언 중\n당신이 보상을 받기 위해\n앞으로도와드려야 할 예언은",
         "en-US": "[Prophet K Assistant]\nIt seems you have not yet assisted\nProphet K's prophecies.\nThe prophecies you still need to assist\nin order to receive your reward from\nProphet K's 12 Zodiac Deity prophecies are:",
         "pt-BR": "[Assistente Q]\nParece que você ainda não auxiliou\nas profecias do Profeta K.\nAs profecias que você ainda precisa auxiliar\npara receber sua recompensa das\nprofecias das 12 Divindades do Zodíaco do Profeta K são:",
         "es-ES": "[Asistente del Profeta K]\nParece que aún no has asistido\nlas profecías de Prophet K.\nLas profecías que aún necesitas asistir\npara recibir tu recompensa de las\nprofecías de las 12 Deidades del Zodíaco de Prophet K son:"
     },
     "F/5RDA": {
-        "ko-KR": "[예언자 K 조수]\n12지신 중\n{0}\n{1}\n{2}\n{3}\n{4}\n{5}\n{6}\n{7}\n{8}\n{9}\n{10}\n{11}\n의 예언 입니다.",
         "en-US": "[Prophet K Assistant]\nAmong the 12 Zodiac Deities,\nthe prophecies are:\n{0}\n{1}\n{2}\n{3}\n{4}\n{5}\n{6}\n{7}\n{8}\n{9}\n{10}\n{11}.",
         "pt-BR": "[Assistente Q]\nEntre as 12 Divindades do Zodíaco,\nas profecias são:\n{0}\n{1}\n{2}\n{3}\n{4}\n{5}\n{6}\n{7}\n{8}\n{9}\n{10}\n{11}.",
         "es-ES": "[Asistente del Profeta K]\nEntre las 12 Deidades del Zodíaco,\nlas profecías son:\n{0}\n{1}\n{2}\n{3}\n{4}\n{5}\n{6}\n{7}\n{8}\n{9}\n{10}\n{11}."
     },
     "GP5RDA": {
-        "ko-KR": "[예언자 K 조수]\n더 궁금한게 있습니까?",
         "en-US": "[Prophet K Assistant]\nDo you have any other questions?",
         "pt-BR": "[Assistente Q]\nVocê tem alguma outra pergunta?",
         "es-ES": "[Asistente del Profeta K]\n¿Tienes alguna otra pregunta?"
     },
     "Gf5RDA": {
-        "ko-KR": "[예언자 K 조수]\n12지신 보상은 총 3종류로\n준비되어 있습니다.",
         "en-US": "[Prophet K Assistant]\nThe 12 Zodiac Deity reward\nis prepared in a total of 3 types.",
         "pt-BR": "[Assistente Q]\nA recompensa das 12 Divindades do Zodíaco\nestá preparada em um total de 3 tipos.",
         "es-ES": "[Asistente del Profeta K]\nLa recompensa de las 12 Deidades del Zodíaco\nestá preparada en un total de 3 tipos."
     },
     "Gv5RDA": {
-        "ko-KR": "전사 달고양이",
         "en-US": "Warrior Moon Cat",
         "pt-BR": "Touca do Gato Guerreiro",
         "es-ES": "Sombrero de Gato Guerrero"
     },
     "G/5RDA": {
-        "ko-KR": "마법의 달고양이",
         "en-US": "Magic Moon Cat",
         "pt-BR": "Touca do Gato Mágico",
         "es-ES": "Sombrero de Gato Mágico"
     },
     "HP5RDA": {
-        "ko-KR": "싸움꾼 달고양이",
         "en-US": "Fighter Moon Cat",
         "pt-BR": "Touca do Gato Bárbaro",
         "es-ES": "Sombrero de Gato Luchador"
     },
     "Hf5RDA": {
-        "ko-KR": "대화를 종료한다.",
         "en-US": "End Conversation.",
         "pt-BR": "Encerrar Conversa.",
         "es-ES": "Terminar Conversación."
     },
     "Hv5RDA": {
-        "ko-KR": "- 전사 달고양이 -\n^006400타 계정과 거래가^000000\n^006400불가능한 아이템 입니다.^000000\n^006400쥐에게 속아 12간지의 첫번째^000000\n^006400자리를 빼앗긴 고양이.^000000\n^006400달에서 수련을 쌓고 돌아왔다.^000000\n^006400All State + 3.^000000\n^006400괴수의 울부짖음 1Lv 사용 가능.^000000\n^006400물리 공격 시, 4%의 확률로^000000\n^006400데미지의 5%를 HP로 흡수.^000000\n^006400물리 공격 시, 1%의 확률로^000000\n^006400대미지의 2%를 SP로 흡수.^000000\n^006400제련도 3당 HP 흡수량이^000000\n^0064001%씩 추가 증가.^000000\n^006400제련도 5당 SP 흡수량이^000000\n^0064001%씩 추가 증가.^000000\n^006400계열: 투구 / 방어: 5^000000\n^006400위치: 상단 / 무게: 10^000000\n^006400요구레벨: 1 / 장착: 전 직업^000000\n^006400SLOT: 1 / 가격: 0^000000",
         "en-US": "[Prophet K Assistant]\n^006400Please, check item description^000000\n<ITEM>[Moon Cat Warrior]<INFO>19051</INFO></ITEM>",
         "pt-BR": "[Assistente Q]\n^006400Por favor, verifique a descrição do item^000000\n<ITEM>[Touca do Gato Guerreiro]<INFO>19051</INFO></ITEM>",
         "es-ES": "[Asistente del Profeta K]\n^006400Por favor, revisa la descripción del objeto^000000\n<ITEM>[Sombrero de Gato Guerrero]<INFO>19051</INFO></ITEM>"
     },
     "H/5RDA": {
-        "ko-KR": "[예언자 K 조수]\n이 아이템을 선택하면\n나머지 2종의 아이템은 획득\n할 수 없으며, 나머지 2종의\n아이템을 획득하려면 다시\n예언자 K님의 12지신 예언을\n도와주셔야만 합니다.",
         "en-US": "[Prophet K Assistant]\nIf you select this item,\nyou cannot acquire the other 2 types of items.\nTo acquire the other 2 types of items,\nyou must assist Prophet K's\n12 Zodiac Deity prophecies again.",
         "pt-BR": "[Assistente Q]\nSe você selecionar este item,\nnão poderá adquirir os outros 2 tipos de itens.\nPara adquirir os outros 2 tipos de itens,\nvocê deve auxiliar novamente as profecias\ndas 12 Divindades do Zodíaco do Profeta K.",
         "es-ES": "[Asistente del Profeta K]\nSi seleccionas este objeto,\nno podrás adquirir los otros 2 tipos de objetos.\nPara adquirir los otros 2 tipos de objetos,\ndebes asistir nuevamente las profecías\nde las 12 Deidades del Zodíaco de Prophet K."
     },
     "IP5RDA": {
-        "ko-KR": "아이템을 받지 않는다",
         "en-US": "Do not take the item",
         "pt-BR": "Não pegar o item",
         "es-ES": "No tomar el objeto"
     },
     "If5RDA": {
-        "ko-KR": "아이템을 받는다",
         "en-US": "Take the item",
         "pt-BR": "Pegar o item",
         "es-ES": "Tomar el objeto"
     },
     "Iv5RDA": {
-        "ko-KR": "[예언자 K 조수]\n잘 선택해서 결정하세요.",
         "en-US": "[Prophet K Assistant]\nPlease choose carefully and decide.",
         "pt-BR": "[Assistente Q]\nPor favor, escolha com cuidado e decida.",
         "es-ES": "[Asistente del Profeta K]\nPor favor, elige con cuidado y decide."
     },
     "I/5RDA": {
-        "ko-KR": "[예언자 K 조수]\n12지신님의 가호가 당신과\n함께 하기를..\n앞으로 예언자 K님은 계속해서\n예언을 하실 예정이니\n많은 도움 부탁드립니다.",
         "en-US": "[Prophet K Assistant]\nMay the blessing of the 12 Zodiac Deities\nbe with you...\nProphet K will continue to make prophecies\nin the future, so we ask for your continued assistance.",
         "pt-BR": "[Assistente Q]\nQue a bênção das 12 Divindades do Zodíaco\nesteja com você...\nO Profeta K continuará a fazer profecias\nno futuro, então pedimos sua contínua assistência.",
         "es-ES": "[Asistente del Profeta K]\nQue la bendición de las 12 Deidades del Zodíaco\nesté contigo...\nProphet K continuará haciendo profecías\nen el futuro, así que pedimos tu continua asistencia."
     },
     "JP5RDA": {
-        "ko-KR": "[예언자 K 조수]\n예언자 K님의 예언을\n아직 도와드리지 못했군요.\n예언자 K님의 12지신 예언 중\n당신에 보상을 받기 위해\n앞으로도와드려야 할 예언은",
         "en-US": "[Prophet K Assistant]\nIt seems you have not yet assisted\nProphet K's prophecies.\nThe prophecies you still need to assist\nin order to receive your reward from\nProphet K's 12 Zodiac Deity prophecies are:",
         "pt-BR": "[Assistente Q]\nParece que você ainda não auxiliou\nas profecias do Profeta K.\nAs profecias que você ainda precisa auxiliar\npara receber sua recompensa das\nprofecias das 12 Divindades do Zodíaco do Profeta K são:",
         "es-ES": "[Asistente del Profeta K]\nParece que aún no has asistido\nlas profecías de Prophet K.\nLas profecías que aún necesitas asistir\npara recibir tu recompensa de las\nprofecías de las 12 Deidades del Zodíaco de Prophet K son:"
     },
     "Jf5RDA": {
-        "ko-KR": "- 마법의 달고양이 -\n^006400타 계정과 거래가^000000\n^006400불가능한 아이템 입니다.^000000\n^006400쥐에게 속아 12간지의 첫번째^000000\n^006400자리를 빼앗긴 고양이.^000000\n^006400달에서 수련을 쌓고 돌아왔다.^000000\n^006400All State + 3.^000000\n^006400괴수의 울부짖음 1Lv 사용 가능.^000000\n^006400스킬 후 딜레이 5% 감소.^000000\n^006400변동 캐스팅 시간 5% 감소.^000000\n^006400제련도 2당 스킬 후 딜레이,^000000\n^006400변동 캐스팅 시간 1%씩^000000\n^006400추가 감소.^000000\n^006400계열: 투구 / 방어: 5^000000\n^006400위치: 상단 / 무게: 10^000000\n^006400요구레벨: 1 / 장착: 전 직업^000000\n^006400SLOT: 1 / 가격: 0^000000",
         "en-US": "[Prophet K Assistant]\n^006400Please, check item description^000000\n<ITEM>[Moon Cat Magic]<INFO>18970</INFO></ITEM>",
         "pt-BR": "[Assistente Q]\n^006400Por favor, verifique a descrição do item^000000\n<ITEM>[Touca do Gato Mágico]<INFO>18970</INFO></ITEM>",
         "es-ES": "[Asistente del Profeta K]\n^006400Por favor, revisa la descripción del objeto^000000\n<ITEM>[Sombrero de Gato Mágico]<INFO>18970</INFO></ITEM>"
     },
     "Jv5RDA": {
-        "ko-KR": "- 싸움꾼 달고양이 -\n^006400타 계정과 거래가^000000\n^006400불가능한 아이템 입니다.^000000\n^006400쥐에게 속아 12간지의 첫번째^000000\n^006400자리를 빼앗긴 고양이.^000000\n^006400달에서 수련을 쌓고 돌아왔다.^000000\n^006400All State + 3.^000000\n^006400괴수의 울부짖음 1Lv 사용 가능.^000000\n^006400근거리, 원거리 물리 공격 시,^000000\n^0064005% 확률로 적에게 스턴을 건다.^000000\n^006400제련도 1당 스턴 확률 1%씩 증가.^000000\n^006400마법 공격 시, 1% 확률로^000000\n^006400적에게 스턴을 건다.^000000\n^006400제련도 1당 스턴 확률 0.5%씩 증가.^000000\n^006400계열: 투구 / 방어: 5^000000\n^006400위치: 상단 / 무게: 10^000000\n^006400요구레벨: 1 / 장착: 전 직업^000000\n^006400SLOT: 1 / 가격: 0^000000",
         "en-US": "[Prophet K Assistant]\n^006400Please, check item description^000000\n<ITEM>[Moon Cat Fighter]<INFO>19053</INFO></ITEM>",
         "pt-BR": "[Assistente Q]\n^006400Por favor, verifique a descrição do item^000000\n<ITEM>[Touca do Gato Bárbaro]<INFO>19053</INFO></ITEM>",
         "es-ES": "[Asistente del Profeta K]\n^006400Por favor, revisa la descripción del objeto^000000\n<ITEM>[Sombrero de Gato Luchador]<INFO>19053</INFO></ITEM>"
     },
     "J/5RDA": {
-        "ko-KR": "[예언자 K 조수]\n12지신님의 가호가\n언제나 당신과 함께하길...",
         "en-US": "[Prophet K Assistant]\nMay the blessing of the 12 Zodiac Deities\nalways be with you...",
         "pt-BR": "[Assistente Q]\nQue a bênção das 12 Divindades do Zodíaco\nesteja sempre com você...",
         "es-ES": "[Asistente del Profeta K]\nQue la bendición de las 12 Deidades del Zodíaco\nsiempre esté contigo..."
     },
     "KP5RDA": {
-        "ko-KR": "[예언자 K 조수]\n12지신님의 가호가\n언제나 당신과 함께하길..",
         "en-US": "[Prophet K Assistant]\nMay the blessing of the 12 Zodiac Deities\nalways be with you..",
         "pt-BR": "[Assistente Q]\nQue a bênção das 12 Divindades do Zodíaco\nesteja sempre com você..",
         "es-ES": "[Asistente del Profeta K]\nQue la bendición de las 12 Deidades del Zodíaco\nsiempre esté contigo.."
     },
     "Kf5RDA": {
-        "ko-KR": "[예언자 K 조수]\n하지만 당신은\n소지품이 가득차 있군요.\n12지신님의 보상을 드리는\n저로서는 소지품을 가득히\n가지고 계신 분과는\n이야기 할 수 없습니다.",
         "en-US": "[Prophet K Assistant]\nHowever, your inventory is full.\nAs the one who gives the 12 Zodiac Deity rewards,\nI cannot speak with someone\nwhose inventory is completely full.",
         "pt-BR": "[Assistente Q]\nNo entanto, seu inventário está cheio.\nComo aquele que concede as recompensas das 12 Divindades do Zodíaco,\neu não posso falar com alguém\ncujo inventário está completamente cheio.",
         "es-ES": "[Asistente del Profeta K]\nSin embargo, tu inventario está lleno.\nComo quien otorga las recompensas de las 12 Deidades del Zodíaco,\nno puedo hablar con alguien\ncuyo inventario está completamente lleno."

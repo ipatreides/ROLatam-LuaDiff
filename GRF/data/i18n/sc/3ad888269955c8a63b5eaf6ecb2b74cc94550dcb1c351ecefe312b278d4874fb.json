@@ -150,34 +150,54 @@
         "es-ES": "[¡Viva la Pista turbo!]\nYa veo.\n¡Entonces restableceré todas las variables globales!\n¡Saludos a mi líder!"
     },
     "fpS1": {
-        "en-US": "Breezy Havana"
+        "en-US": "Breezy Havana",
+        "pt-BR": "Breezy Havana",
+        "es-ES": "Breezy Havana"
     },
     "f5S1": {
-        "en-US": "RS125"
+        "en-US": "RS125",
+        "pt-BR": "RS125",
+        "es-ES": "RS125"
     },
     "gJS1": {
-        "en-US": "Hollgrehenn"
+        "en-US": "Hollgrehenn",
+        "pt-BR": "Hollgrehenn",
+        "es-ES": "Hollgrehenn"
     },
     "gZS1": {
-        "en-US": "Antonio"
+        "en-US": "Antonio",
+        "pt-BR": "Antonio",
+        "es-ES": "Antonio"
     },
     "gpS1": {
-        "en-US": "Aragham"
+        "en-US": "Aragham",
+        "pt-BR": "Aragham",
+        "es-ES": "Aragham"
     },
     "g5S1": {
-        "en-US": "Kafra Jasmine"
+        "en-US": "Kafra Jasmine",
+        "pt-BR": "Kafra Jasmine",
+        "es-ES": "Kafra Jasmine"
     },
     "hJS1": {
-        "en-US": "Chris"
+        "en-US": "Chris",
+        "pt-BR": "Chris",
+        "es-ES": "Chris"
     },
     "hZS1": {
-        "en-US": "Nari"
+        "en-US": "Nari",
+        "pt-BR": "Nari",
+        "es-ES": "Nari"
     },
     "hpS1": {
-        "en-US": "Senorita Sylvia"
+        "en-US": "Senorita Sylvia",
+        "pt-BR": "Senorita Sylvia",
+        "es-ES": "Senorita Sylvia"
     },
     "h5S1": {
-        "en-US": "Joo Jahk"
+        "en-US": "Joo Jahk",
+        "pt-BR": "Joo Jahk",
+        "es-ES": "Joo Jahk"
     },
     "iJS1": {
         "en-US": "[Turbo Track Yay!]\nEverything is done!",

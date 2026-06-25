@@ -1,0 +1,182 @@
+{
+    "wHcBDQ": {
+        "en-US": "Long Rope",
+        "pt-BR": "Corda Longa",
+        "es-ES": "Cuerda Larga"
+    },
+    "wXcBDQ": {
+        "en-US": "It looks like an underground cave can be seen below the crack in the rock. It seems you could enter the gap by using Long Rope.",
+        "pt-BR": "Parece que há uma caverna subterrânea entre as fendas das rochas. Talvez seja possível descer usando a corda.",
+        "es-ES": "Parece que se ve una cueva subterránea bajo la grieta de la roca. Si usa Cuerda larga, parece que podrá entrar por la abertura."
+    },
+    "wncBDQ": {
+        "en-US": "Use Long Rope to climb down.",
+        "pt-BR": "Descer usando a corda.",
+        "es-ES": "Bajar usando Cuerda larga."
+    },
+    "w3cBDQ": {
+        "en-US": "Do not use it.",
+        "pt-BR": "Não usar a corda.",
+        "es-ES": "No usa la corda."
+    },
+    "xHcBDQ": {
+        "en-US": "It looks like you could climb up to Comfort using Long Rope.",
+        "pt-BR": "Parece que é possível subir usando a corda.",
+        "es-ES": "Parece que podrá subir a Consuelo usando Cuerda larga."
+    },
+    "xXcBDQ": {
+        "en-US": "Use Long Rope to climb up.",
+        "pt-BR": "Subir usando a corda.",
+        "es-ES": "Sube usando Cuerda larga."
+    },
+    "xncBDQ": {
+        "en-US": "Old Signpost",
+        "pt-BR": "Placa Velha",
+        "es-ES": "Señal Desgastada"
+    },
+    "x3cBDQ": {
+        "en-US": "Beyond the cliff, only traces of a broken bridge can be seen. It is a path that cannot be used now.",
+        "pt-BR": "É possível ver apenas vestígios de uma ponte quebrada além do penhasco. Não é possível usar o caminho neste momento.",
+        "es-ES": "Más allá del acantilado solo se ven los restos de un puente roto. Es un camino que ahora no puede usarse."
+    },
+    "yHcBDQ": {
+        "en-US": "Camper",
+        "pt-BR": "Campista",
+        "es-ES": "Camper"
+    },
+    "yXcBDQ": {
+        "en-US": "You cannot proceed with the quest because you are carrying too many items. Please organize your items and try again.",
+        "pt-BR": "Você não pode prosseguir com a missão porque está carregando itens demais. Organize seu inventário e tente novamente.",
+        "es-ES": "No puede continuar con la misión porque lleva demasiados objetos. Ordene sus objetos e inténtelo de nuevo."
+    },
+    "yncBDQ": {
+        "en-US": "[Gatekeeper]\nOh, things seemed peaceful around here, so I guess you granted my request. Thanks. Here, I’ll empty out everything I’ve got for you.",
+        "pt-BR": "[Guarda]\nOh, então foi você quem atendeu ao meu pedido, já que tudo por aqui ficou em paz. Obrigado. Aqui, vou te dar tudo que tenho.",
+        "es-ES": "[Portero]\nOh, con razón todo estaba tan tranquilo por aquí, así que cumpliste con mi petición. Gracias. Toma, te daré todo lo que tengo."
+    },
+    "y3cBDQ": {
+        "en-US": "[Gatekeeper]\nAre you entering the village?",
+        "pt-BR": "[Guarda]\nVai entrar na aldeia?",
+        "es-ES": "[Portero]\n¿Vas a entrar al pueblo?"
+    },
+    "zHcBDQ": {
+        "en-US": "To Gray Wolf Village",
+        "pt-BR": "Para Aldeia do Lobo Cinzento",
+        "es-ES": "Al Pueblo del Lobo Gris"
+    },
+    "zXcBDQ": {
+        "en-US": "Do not go.",
+        "pt-BR": "Não ir.",
+        "es-ES": "No va."
+    },
+    "zncBDQ": {
+        "en-US": "What are you, exactly?",
+        "pt-BR": "Quem é você exatamente?",
+        "es-ES": "¿Qué eres exactamente?"
+    },
+    "z3cBDQ": {
+        "en-US": "Making the Gray Wolf Forest Safer",
+        "pt-BR": "Tornar a Floresta do Lobo Cinzento Mais Segura",
+        "es-ES": "Hacer más seguro el Bosque del Lobo Gris"
+    },
+    "0HcBDQ": {
+        "en-US": "[Gatekeepr]\nGood. You have to go carefully through the trees this way. Follow me.",
+        "pt-BR": "[Guarda]\nCerto. Você precisa passar com cuidado por entre essas árvores. Siga-me.",
+        "es-ES": "[Portero]\nBien. Tienes que entrar bien por entre estos árboles. Sígueme."
+    },
+    "0XcBDQ": {
+        "en-US": "[Gatekeepr]\nRight, then since you’re here, want to take out some nearby monsters on the way? They’re too noisy when I’m trying to sleep.",
+        "pt-BR": "[Guarda]\nJá que veio, que tal eliminar alguns monstros por aqui no caminho? Eles fazem muito barulho quando tento dormir.",
+        "es-ES": "[Portero]\nBueno, ya que has venido, ¿quieres ir eliminando algunos monstruos cercanos de paso? Hacen demasiado ruido cuando intento dormir."
+    },
+    "0ncBDQ": {
+        "en-US": "[Gatekeeper]\nAs you can see, I’m a gatekeeper. If unrelated folks come around, I drive them off. I usually disguise myself as a homeless person, but I’m not actually homeless. Don’t get the wrong idea!",
+        "pt-BR": "[Guarda]\nComo pode ver, sou um guarda. Expulso forasteiros indesejados. Normalmente me disfarço de mendigo, mas não sou um de verdade. Não se engane!",
+        "es-ES": "[Portero]\nComo ves, soy el portero. Si vienen tipos que no tienen nada que ver, también los echo. Normalmente voy disfrazado de vagabundo, pero no soy un vagabundo de verdad. ¡Que no haya malentendidos!"
+    },
+    "03cBDQ": {
+        "en-US": "[Gatekeeper]\nNo, no. It’s fine. You’re not at a level where you need to worry about the safety of this forest yet. So don’t worry about it.",
+        "pt-BR": "[Guarda]\nNão, não. Está tudo bem. Você ainda não está no nível para discutir a segurança desta floresta. Não precisa se preocupar.",
+        "es-ES": "[Portero]\nNo, no. Está bien. Aún no estás al nivel de poder hablar sobre la seguridad de este bosque. No te preocupes."
+    },
+    "1HcBDQ": {
+        "en-US": "^4D4DFF There is a request available from Level 170 and above.^000000",
+        "pt-BR": "^4D4DFF Há missões disponíveis a partir do nível 170.^000000",
+        "es-ES": "^4D4DFF Hay encargos disponibles a partir del nivel 170.^000000"
+    },
+    "1XcBDQ": {
+        "en-US": "[Gatekeeper]\nNo, no. We’ve only just met.. why would I ask you for something? The forest is a bit dangerous, but it’s fine.",
+        "pt-BR": "[Guarda]\nNão, não. Acabamos de nos conhecer... que pedido eu faria? A floresta é um pouco perigosa, mas está tudo bem.",
+        "es-ES": "[Portero]\nNo, no. Apenas acabamos de conocernos... ¿cómo iba a pedirte algo? El bosque es un poco peligroso, pero está bien."
+    },
+    "1ncBDQ": {
+        "en-US": "[Gatekeeper]\nAnything is fine, so just kill some monsters around here. That way I can stand watch more safely too, right?",
+        "pt-BR": "[Guarda]\nQualquer coisa serve, então elimine alguns monstros por aqui. Assim eu também posso fazer minha guarda com mais segurança.",
+        "es-ES": "[Portero]\nMe da igual cuáles sean, pero elimina algunos monstruos por aquí. Así yo también podré hacer guardia con más seguridad, ¿no?"
+    },
+    "13cBDQ": {
+        "en-US": "[Gatekeeper]\nHmm…. It should be fine for a while. I’ve shown them enough of a threat that, if they have any sense, they won’t come at me.",
+        "pt-BR": "[Guarda]\nHum... por enquanto isso deve bastar. Já os intimidamos de certa forma, então, se eles tiverem juízo, não vão atacar.",
+        "es-ES": "[Portero]\nMmm…. Por un tiempo estará bien. Ya que han sentido cierta amenaza, si tienen algo de cabeza no se lanzarán al ataque."
+    },
+    "2HcBDQ": {
+        "en-US": "[Gatekeeper]\nAs you can see, I’m guarding the entrance here, right? Sometimes I’m tired, but monsters still come all the way here and bother me.",
+        "pt-BR": "[Guarda]\nComo pode ver, estou guardando a entrada aqui. Às vezes fico cansado, mas os monstros continuam vindo para me incomodar.",
+        "es-ES": "[Portero]\nComo ves, estoy aquí vigilando la entrada, ¿verdad? A veces, aunque estoy cansado, los monstruos vienen hasta aquí a molestarme."
+    },
+    "2XcBDQ": {
+        "en-US": "[Gatekeeper]\nNo matter what kind, could you take down just thirty monsters in the nearby forest? I’ve got an Amethyst Fragment I picked up because the color was pretty, and I’ll give it to you.",
+        "pt-BR": "[Guarda]\nNão importa qual seja, poderia eliminar trinta monstros nesta floresta? Tenho um Fragmento de Ametista que peguei por achar bonito, eu posso dá-lo a você.",
+        "es-ES": "[Portero]\n¿Podrías derrotar solo treinta monstruos de cualquier tipo en este bosque cercano? Tengo un Fragmento de amatista que recogí porque era bonito, y te lo daré."
+    },
+    "2ncBDQ": {
+        "en-US": "Accept Request",
+        "pt-BR": "Aceitar a missão",
+        "es-ES": "Aceptar encargo"
+    },
+    "23cBDQ": {
+        "en-US": "Decline Request",
+        "pt-BR": "Recusar a missão",
+        "es-ES": "Rechazar encargo"
+    },
+    "3HcBDQ": {
+        "en-US": "[Gatekeeper]\nThanks! Now I can relax a little and rest too! Then I’m counting on you.",
+        "pt-BR": "[Guarda]\nObrigado! Agora posso relaxar um pouco e descansar! Então, conto com você.",
+        "es-ES": "[Portero]\n¡Gracias! ¡Ahora yo también podré relajarme un poco y descansar! Entonces te lo encargo."
+    },
+    "3XcBDQ": {
+        "en-US": "[Gatekeeper]\nRight…. You’re such a busy and important person that the safety of a mere gatekeeper like me doesn’t matter …. Understood. Your true feelings. I’ll engrave them deep in my heart.",
+        "pt-BR": "[Guarda]\nEntendo... você é alguém muito ocupado, então a segurança de um simples guarda não é importante... entendi, tudo bem. Vou guardar suas palavras no fundo do meu coração.",
+        "es-ES": "[Portero]\nYa veo…. Eres una persona muy ocupada, así que la seguridad de un simple portero no importa …. Entendido. Tu sinceridad. La guardaré muy dentro de mi corazón."
+    },
+    "3ncBDQ": {
+        "en-US": "[Camper]\nI couldn’t find a job, and I kept failing exams, so I ran away from home in frustration …. And then I happened to find a place like this, you know? I’m planning to live here for a while.",
+        "pt-BR": "[Campista]\nNão consegui arrumar emprego e continuei reprovando nos exames, então saí de casa frustrado... E então, acabei encontrando este lugar. Vou morar aqui por um tempo.",
+        "es-ES": "[Camper]\nComo no encontraba trabajo y seguía suspendiendo los exámenes, me fui de casa por un arrebato…. Y justo encontré un sitio así, ¿te lo puedes creer? Pienso vivir aquí por un tiempo."
+    },
+    "33cBDQ": {
+        "en-US": "I wanted to try camping...",
+        "pt-BR": "Eu queria tentar acampar...",
+        "es-ES": "Quería probar a acampar~"
+    },
+    "4HcBDQ": {
+        "en-US": "[Camper]\nAren’t I scared? The elders asking me when I’m going to get a job every time we meet are scarier….",
+        "pt-BR": "[Campista]\nSe tenho medo? Mais assustador são os adultos sempre me perguntando quando vou conseguir um emprego...",
+        "es-ES": "[Camper]\n¿Que si no me da miedo? Me dan más miedo los mayores que me preguntan cada vez que nos vemos cuándo voy a encontrar trabajo.  …."
+    },
+    "4XcBDQ": {
+        "en-US": "Maram",
+        "pt-BR": "Maram",
+        "es-ES": "Maram"
+    },
+    "4ncBDQ": {
+        "en-US": "[Maram]\nHere, here! Follow me! It’s a bit of a detour, but this is a <NAVI>[shortcut]<INFO>que_thr,133,53,0,101,0</INFO></NAVI>, that way we can avoid surveillance.",
+        "pt-BR": "[Maram]\nÉ aqui! Siga-me! Estamos desviando um pouco do caminho, mas é um <NAVI>[atalho]<INFO>que_thr,133,53,0,101,0</INFO></NAVI>, assim evitamos a vigilância.",
+        "es-ES": "[Maram]\n¡Es por aquí, por aquí! ¡Sígame! Da un poco de rodeo, pero es un <NAVI>[atajo]<INFO>que_thr,133,53,0,101,0</INFO></NAVI> con el que se puede evitar la vigilancia."
+    },
+    "43cBDQ": {
+        "en-US": "[Maram]\nThere’s something that’s been bothering me, so I’ve been investigating it continuously.\nHehe, since we’re both busy, I’d appreciate it if you’d just pretend you didn’t see me and pass by.```",
+        "pt-BR": "[Maram]\nHá algo que tem me incomodado, por isso estou investigando.\nHehe, como nós dois estamos ocupados, agradeço se fingir que não me viu por aqui, e siga seu caminho.",
+        "es-ES": "[Maram]\nHay algo que me preocupa un poco, así que sigo investigándolo. Je, je, como ambos estamos ocupados, le agradecería que fingiera no verme y siguiera su camino."
+    }
+}

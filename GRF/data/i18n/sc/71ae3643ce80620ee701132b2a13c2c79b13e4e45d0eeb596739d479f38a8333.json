@@ -1306,7 +1306,7 @@
     },
     "xV/ZAg": {
         "en-US": "[Mayssel]\nVerkhasel is in the opposite room.\nYou should talk to him.",
-        "pt-BR": "[Mayshell]\nNo quarto do lado oposto, estará Bercasell.\nEncontre-se com ele.",
+        "pt-BR": "[Mayshell]\nNo quarto do lado oposto, estará Verkhasell.\nEncontre-se com ele.",
         "es-ES": "[Mayssel]\nVerkhasel está en la sala de enfrente.\nDeberías hablar con él."
     },
     "xl/ZAg": {
@@ -3421,7 +3421,7 @@
     },
     "bGHZAg": {
         "en-US": "Verkhasel",
-        "pt-BR": "Bercasell",
+        "pt-BR": "Verkhasell",
         "es-ES": "Verkhasel"
     },
     "bWHZAg": {
@@ -3431,7 +3431,7 @@
     },
     "bmHZAg": {
         "en-US": "[Verkhasel]\n...Can't you people just leave me alone to rest?\nWhat? Did Mayssel send you?\nWhy did you come here?",
-        "pt-BR": "[Bercasell]\nEstou tão cansado...\nVocê foi enviado por Mayshell?\nMe diga por que você veio aqui me ver.",
+        "pt-BR": "[Verkhasell]\nEstou tão cansado...\nVocê foi enviado por Mayshell?\nMe diga por que você veio aqui me ver.",
         "es-ES": "[Verkhasel]\n¿No pueden dejarme descansar en paz?\n¿Qué? ¿Te envió Mayssel?\n¿Por qué viniste?"
     },
     "b2HZAg": {
@@ -3451,12 +3451,12 @@
     },
     "cmHZAg": {
         "en-US": "[Verkhasel]\n...",
-        "pt-BR": "[Bercasell]\n.....",
+        "pt-BR": "[Verkhasell]\n.....",
         "es-ES": "[Verkhasel]\n…"
     },
     "c2HZAg": {
         "en-US": "[Verkhasel]\nYou don't need to know.\nOut.",
-        "pt-BR": "[Bercasell]\nEntão você quer saber sobre os Sicários? \nCai fora!",
+        "pt-BR": "[Verkhasell]\nEntão você quer saber sobre os Sicários? \nCai fora!",
         "es-ES": "[Verkhasel]\nNo necesitas saberlo.\nFuera."
     },
     "dGHZAg": {
@@ -3466,47 +3466,47 @@
     },
     "dWHZAg": {
         "en-US": "[Verkhasel]\nThe Guillotine Cross is... an executioner.\nA killing machine that moves and breathes.\nSo to speak.",
-        "pt-BR": "[Bercasell]\nOs Sicários são impositores.\nArmas vivas e agressivas...",
+        "pt-BR": "[Verkhasell]\nOs Sicários são impositores.\nArmas vivas e agressivas...",
         "es-ES": "[Verkhasel]\nEl Cortador de cruces es… un verdugo.\nUna máquina de matar que se mueve y respira.\nPor así decirlo."
     },
     "dmHZAg": {
         "en-US": "[Verkhasel]\nWho do you think is us Assassins' archenemies?\nKnights? Priests?\nMages?\nOr monsters?",
-        "pt-BR": "[Bercasell]\nQuem é o inimigo natural de um Mercenário?\nUm Espadachim? Um Sacerdote?\nUm Bruxo?\nCoisas do mal em abundância?",
+        "pt-BR": "[Verkhasell]\nQuem é o inimigo natural de um Mercenário?\nUm Espadachim? Um Sacerdote?\nUm Bruxo?\nCoisas do mal em abundância?",
         "es-ES": "[Verkhasel]\n¿Quiénes crees que son los archienemigos de los Asesinos?\n¿Caballeros? ¿Sacerdotes?\n¿Magos?\n¿O monstruos?"
     },
     "d2HZAg": {
         "en-US": "[Verkhasel]\nNo. Us Assassins' archenemies are other Assassins.\nAs a group, we're more tightly bonded than others.\nWe know everything about each other, which makes us more dangerous to each other than anyone else.",
-        "pt-BR": "[Bercasell]\nNão, o inimigo natural de um Mercenário são outros Mercenários.\nA maior ameaça para nós somos nós mesmos.",
+        "pt-BR": "[Verkhasell]\nNão, o inimigo natural de um Mercenário são outros Mercenários.\nA maior ameaça para nós somos nós mesmos.",
         "es-ES": "[Verkhasel]\nNo, los archienemigos de los Asesinos son otros Asesinos.\nComo grupo, somos más unidos que otros.\nSabemos todo de todos, lo que nos hace más peligrosos para nosotros mismos que nadie más."
     },
     "eGHZAg": {
         "en-US": "[Verkhasel]\nGuillotine Crosses exist\nin the shadows of the Guild\nto maintain order and discipline among its members.",
-        "pt-BR": "[Bercasell]\nNa escuridão da guilda, nas sombras, nós somos os Sicários.\nMantemos a lei e a ordem dentro da Guilda dos Mercenários.",
+        "pt-BR": "[Verkhasell]\nNa escuridão da guilda, nas sombras, nós somos os Sicários.\nMantemos a lei e a ordem dentro da Guilda dos Mercenários.",
         "es-ES": "[Verkhasel]\nLos Cortadores de cruces existen\nen las sombras del gremio\npara mantener el orden y la disciplina entre sus miembros."
     },
     "eWHZAg": {
         "en-US": "[Verkhasel]\nSometimes we set a good example to the other Assassins.\nSometimes we punish those who betrayed us.\nThat's what we do as Guillotine Crosses.",
-        "pt-BR": "[Bercasell]\nÀs vezes, damos o exemplo para os nossos colegas; outras vezes, colocamos espadas no pescoço deles em nome da Guilda.\nSomos os Sicários, as espadas da Guilda dos Mercenários.",
+        "pt-BR": "[Verkhasell]\nÀs vezes, damos o exemplo para os nossos colegas; outras vezes, colocamos espadas no pescoço deles em nome da Guilda.\nSomos os Sicários, as espadas da Guilda dos Mercenários.",
         "es-ES": "[Verkhasel]\nA veces, damos un buen ejemplo a los demás Asesinos.\nA veces, castigamos a quienes nos traicionan.\nEso es lo que hacemos como Cortadores de cruces."
     },
     "emHZAg": {
         "en-US": "[Verkhasel]\nAlso, for that, we use a special selection of poisons that no other Assassins can,\nlearn skills to find traitors hiding in the shadows",
-        "pt-BR": "[Bercasell]\nEntão, temos a habilidade de encontrar os companheiros que estão na escuridão, mas você está sendo insistente demais.",
+        "pt-BR": "[Verkhasell]\nEntão, temos a habilidade de encontrar os companheiros que estão na escuridão, mas você está sendo insistente demais.",
         "es-ES": "[Verkhasel]\nPara eso, usamos una selección especial de venenos que ningún otro Asesino puede usar,\ny aprendemos habilidades para encontrar traidores ocultos en las sombras"
     },
     "e2HZAg": {
         "en-US": "[Verkhasel]\nand eliminate them with deadly efficiency.",
-        "pt-BR": "[Bercasell]\nTemos habilidades de combate muito avançadas.",
+        "pt-BR": "[Verkhasell]\nTemos habilidades de combate muito avançadas.",
         "es-ES": "[Verkhasel]\ny los eliminamos con mortal eficacia."
     },
     "fGHZAg": {
         "en-US": "[Verkhasel]\nIn other words, by choosing the path of the Guillotine Cross, you'll give up your heart and become a living killing machine.\nAs someone who's already it, maybe I shouldn't say this, but...\nI wouldn't choose it if I were you.",
-        "pt-BR": "[Bercasell]\nÉ engraçado estar conversando com você assim. Quero impedir que você vire um Sicário por causa de seu desacato.",
+        "pt-BR": "[Verkhasell]\nÉ engraçado estar conversando com você assim. Quero impedir que você vire um Sicário por causa de seu desacato.",
         "es-ES": "[Verkhasel]\nEn otras palabras, al elegir el camino del Cortador de Cruces, renuncias a tu corazón y te conviertes en una máquina de matar.\nComo alguien que ya lo es, quizá no debería decirte esto, pero…\nEn tu lugar, no lo elegiría."
     },
     "fWHZAg": {
         "en-US": "[Verkhasel]\nYou give up so quickly.\nGood.\nCouldn't be better. Say,\nare you sure you don't want to come over to this side?",
-        "pt-BR": "[Bercasell]\nSim, você não faz perguntas.\nMuito bom. Você é qualificado. Que tal se tornar um Sicário?\nVocê quer ser um Sicário?",
+        "pt-BR": "[Verkhasell]\nSim, você não faz perguntas.\nMuito bom. Você é qualificado. Que tal se tornar um Sicário?\nVocê quer ser um Sicário?",
         "es-ES": "[Verkhasel]\nTe rindes demasiado rápido.\nBien.\nMejor imposible. Dime,\n¿estás seguro de que no quieres cambiar?"
     },
     "fmHZAg": {
@@ -3521,12 +3521,12 @@
     },
     "gGHZAg": {
         "en-US": "[Verkhasel]\nAre you sure you won't regret it?\nThe Guillotine Cross is... an executioner.\nA killing machine that moves and breathes.\nSo to speak.",
-        "pt-BR": "[Bercasell]\nVocê não se arrepende?\nOs Sicários são impositores.\nArmas vivas e agressivas...",
+        "pt-BR": "[Verkhasell]\nVocê não se arrepende?\nOs Sicários são impositores.\nArmas vivas e agressivas...",
         "es-ES": "[Verkhasel]\n¿Estás seguro de que no te arrepentirás?\nEl Cortador de cruces es… un verdugo.\nUna máquina de matar que se mueve y respira.\nPor así decirlo."
     },
     "gWHZAg": {
         "en-US": "[Verkhasel]\nIn other words, by choosing the path of the Guillotine Cross, you'll give up your heart and become a living killing machine.\nAnd you're about to choose it.\nIs this really the path you want?",
-        "pt-BR": "[Bercasell]\nNão, o inimigo natural de um Mercenário é um Mercenário.\nA maior ameaça para nós somos nós mesmos.\nVocê poderá se tornar uma arma viva e agressiva.\nQuer mesmo se tornar um Sicário?",
+        "pt-BR": "[Verkhasell]\nNão, o inimigo natural de um Mercenário é um Mercenário.\nA maior ameaça para nós somos nós mesmos.\nVocê poderá se tornar uma arma viva e agressiva.\nQuer mesmo se tornar um Sicário?",
         "es-ES": "[Verkhasel]\nEn otras palabras, al elegir el camino del Cortador de Cruces, renuncias a tu corazón y te conviertes en una máquina de matar.\nY estás a punto de elegirlo.\n¿Este es el camino que realmente quieres?"
     },
     "gmHZAg": {
@@ -3536,137 +3536,137 @@
     },
     "g2HZAg": {
         "en-US": "[Verkhasel]\n...You can't learn new skills without perfectly mastering the ones you already know.\nUse all your remaining Skill Points first, will you?",
-        "pt-BR": "[Bercassell]\n...Não é possível aprender novas habilidades sem dominar perfeitamente as que você já conhece.\nUse todos os seus pontos de habilidade restantes primeiro, está bem?",
+        "pt-BR": "[Verkhasel]\n...Não é possível aprender novas habilidades sem dominar perfeitamente as que você já conhece.\nUse todos os seus pontos de habilidade restantes primeiro, está bem?",
         "es-ES": "[Verkhasel]\n…No puedes aprender nuevas habilidades sin antes dominar a la perfección las que ya conoces.\nPrimero, usa todos los puntos de habilidad restantes, ¿lo harás?"
     },
     "hGHZAg": {
         "en-US": "[Verkhasel]\nAlright, then get off your mount\nand come back.",
-        "pt-BR": "[Bercassell]\nTudo bem, então desça de sua montaria\ne volte.",
+        "pt-BR": "[Verkhasel]\nTudo bem, então desça de sua montaria\ne volte.",
         "es-ES": "[Verkhasel]\nMuy bien, entonces, bájate de tu montura\ny vuelve."
     },
     "hWHZAg": {
         "en-US": "[Verkhasel]\nIt's not appropriate to sit so tall and haughty on a mount\nduring such an important ceremony to reestablish your resolve and start anew.",
-        "pt-BR": "[Bercassell]\nNão pega bem ficar montado, todo orgulhoso, numa cerimônia \ntão importante pra renovar seu compromisso e recomeçar.",
+        "pt-BR": "[Verkhasel]\nNão pega bem ficar montado, todo orgulhoso, numa cerimônia \ntão importante pra renovar seu compromisso e recomeçar.",
         "es-ES": "[Verkhasel]\nNo es apropiado sentarse tan alto y arrogante sobre una montura\ndurante una ceremonia tan importante para restablecer tu determinación y empezar de nuevo."
     },
     "hmHZAg": {
         "en-US": "[Verkhasel]\nHave you made up your mind already?\nOkay.",
-        "pt-BR": "[Bercasell]\nEssa é sua decisão final?\nÓtimo.",
+        "pt-BR": "[Verkhasell]\nEssa é sua decisão final?\nÓtimo.",
         "es-ES": "[Verkhasel]\n¿Ya te decidiste?\nBueno."
     },
     "h2HZAg": {
         "en-US": "[Verkhasel]\nNow, you're still an Assassin, but you're not like the others.\nYou're still in the shadows, but you're not with the rest of them.",
-        "pt-BR": "[Bercasell]\nAgora você é um mercenário, mas não é mais um mercenário.\nVocê está nas sombras, mas são diferentes de outras sombras.",
+        "pt-BR": "[Verkhasell]\nAgora você é um mercenário, mas não é mais um mercenário.\nVocê está nas sombras, mas são diferentes de outras sombras.",
         "es-ES": "[Verkhasel]\nSigues siendo un Asesino, pero no eres como los demás.\nSigues en las sombras, pero no estás con el resto."
     },
     "iGHZAg": {
         "en-US": "[Verkhasel]\nYour enemies are everything in front of you.\nAnd yourself. Don't forget\nthe weight of the blood that will coat your sword.",
-        "pt-BR": "[Bercasell]\nSeu inimigo é tudo aquilo que você pode ver.\nNão se esqueça.\nO sangue pesará em suas armas.",
+        "pt-BR": "[Verkhasell]\nSeu inimigo é tudo aquilo que você pode ver.\nNão se esqueça.\nO sangue pesará em suas armas.",
         "es-ES": "[Verkhasel]\nTu enemigo es todo lo que tienes frente a ti.\nY tú mismo. No olvides que\nel peso de la sangre recubrirá tu espada."
     },
     "iWHZAg": {
         "en-US": "[Verkhasel]\nAlright, then change to this uniform.\nAs of now, you're a Guillotine Cross. A blade of the Shadows.",
-        "pt-BR": "[Bercasell]\nCerto, troque de roupa e coloque seu novo uniforme.\nVocê agora é um Sicário.",
+        "pt-BR": "[Verkhasell]\nCerto, troque de roupa e coloque seu novo uniforme.\nVocê agora é um Sicário.",
         "es-ES": "[Verkhasel]\nMuy bien, entonces, cambia a este uniforme.\nA partir de ahora, eres Cortador de cruces. Una espada de las sombras."
     },
     "imHZAg": {
         "en-US": "[Verkhasel]\n...Congratulations.",
-        "pt-BR": "[Bercasell]\nUma espada das sombras...",
+        "pt-BR": "[Verkhasell]\nUma espada das sombras...",
         "es-ES": "[Verkhasel]\nFelicitaciones."
     },
     "i2HZAg": {
         "en-US": "[Verkhasel]\nI'll also give you a couple of gifts.\nDon't worry, everyone gets the same things, regardless of their mission rank.",
-        "pt-BR": "[Bercasell]\nE... receba um bilhete e um anel\nde presente para comemorar o fato de você ter se tornado um Sicário.",
+        "pt-BR": "[Verkhasell]\nE... receba um bilhete e um anel\nde presente para comemorar o fato de você ter se tornado um Sicário.",
         "es-ES": "[Verkhasel]\nTambién te daré algunos regalos.\nNo te preocupes, todo el mundo recibe lo mismo, independientemente del rango de su misión."
     },
     "jGHZAg": {
         "en-US": "[Verkhasel]\nUsing them will show your determination as a Guillotine Cross,\nto put everything in its place, by death or otherwise.",
-        "pt-BR": "[Bercasell]\nInfelizmente, não temos armas novas para oferecer desta vez.",
+        "pt-BR": "[Verkhasell]\nInfelizmente, não temos armas novas para oferecer desta vez.",
         "es-ES": "[Verkhasel]\nUsarlos mostrará tu determinación como Cortador de cruces\npara poner cada cosa en su lugar con la muerte o de otro modo."
     },
     "jWHZAg": {
         "en-US": "[Verkhasel]\nSure. You can't be too careful.\nI'll wait here\nfor as long as you need.",
-        "pt-BR": "[Bercasell]\nSim, você é cauteloso, isso é bom.\nVou esperar pelo dia em que você decidirá se juntar a nós como um Sicário.",
+        "pt-BR": "[Verkhasell]\nSim, você é cauteloso, isso é bom.\nVou esperar pelo dia em que você decidirá se juntar a nós como um Sicário.",
         "es-ES": "[Verkhasel]\nClaro. No puedes tener tanto cuidado.\nEsperaré aquí \nel tiempo que necesites."
     },
     "jmHZAg": {
         "en-US": "[Verkhasel]\nStop bothering me. I'm tired.",
-        "pt-BR": "[Bercasell]\nNão me perturbe.",
+        "pt-BR": "[Verkhasell]\nNão me perturbe.",
         "es-ES": "[Verkhasel]\nDeja de molestarme. Siento cansancio."
     },
     "j2HZAg": {
         "en-US": "[Verkhasel]\n...\n...What do you want?",
-        "pt-BR": "[Bercasell]\n......\n....... O que posso fazer por você?",
+        "pt-BR": "[Verkhasell]\n......\n....... O que posso fazer por você?",
         "es-ES": "[Verkhasel]\n…\n¿Qué quieres?"
     },
     "kGHZAg": {
         "en-US": "[Verkhasel]\nOkay.\n...But why?\nI'm sure you came to me of your own accord, but...",
-        "pt-BR": "[Bercasell]\nAh, é?\n... Para quê?\nÉ claro, você veio aqui por vontade própria...",
+        "pt-BR": "[Verkhasell]\nAh, é?\n... Para quê?\nÉ claro, você veio aqui por vontade própria...",
         "es-ES": "[Verkhasel]\nBueno.\n¿Pero por qué?\nSeguramente, viniste a mí por tu propia voluntad, pero…"
     },
     "kWHZAg": {
         "en-US": "[Verkhasel]\nOur title is derived from the execution apparatus, guillotine.\nAre you sure you can execute anyone, even your own comrades?",
-        "pt-BR": "[Bercasell]\nO Sicário é um impositor das leis da Guilda dos Mercenários.\nVocê conseguiria cravar uma adaga nas costas de um de seus companheiros?",
+        "pt-BR": "[Verkhasell]\nO Sicário é um impositor das leis da Guilda dos Mercenários.\nVocê conseguiria cravar uma adaga nas costas de um de seus companheiros?",
         "es-ES": "[Verkhasel]\nnuestro título deriva del aparato de ejecución, la guillotina.\n¿Estás seguro de que puedes ejecutar a cualquiera, incluso a tus camaradas?"
     },
     "kmHZAg": {
         "en-US": "[Verkhasel]\nPfft, why do I even bother?\nYou haven't even trained long enough to be one.\nYou're not ready.",
-        "pt-BR": "[Bercasell]\nVocê ainda não está pronto para fazer isso...",
+        "pt-BR": "[Verkhasell]\nVocê ainda não está pronto para fazer isso...",
         "es-ES": "[Verkhasel]\nPfff, ¿para qué me molesto?\nNi siquiera entrenaste lo suficiente para serlo.\nAún te falta preparación."
     },
     "k2HZAg": {
         "en-US": "[Verkhasel]\nDon't let yourself be obsessed with strength.\nYou'll be miserable.\nActually, you'll be worse than that.\nWith great power comes great responsibility.",
-        "pt-BR": "[Bercasell]\nNão busque apenas a força.\nAí, poderá ficar cansado.\nMas pode ser pior do que apenas viver.\nSe você quiser apenas a força...",
+        "pt-BR": "[Verkhasell]\nNão busque apenas a força.\nAí, poderá ficar cansado.\nMas pode ser pior do que apenas viver.\nSe você quiser apenas a força...",
         "es-ES": "[Verkhasel]\nNo te obsesiones con la fuerza.\nSerás miserable.\nEn realidad, peor que eso.\nUn gran poder conlleva una gran responsabilidad."
     },
     "lGHZAg": {
         "en-US": "[Verkhasel]\nIn our case, a hefty price, more like.\nWell, what do I know? I'm just another killing machine.",
-        "pt-BR": "[Bercasell]\nAlgum dia, isso voltará para você.\nBem, não tenho certeza se tenho o direito de julgar uma vida como uma arma.",
+        "pt-BR": "[Verkhasell]\nAlgum dia, isso voltará para você.\nBem, não tenho certeza se tenho o direito de julgar uma vida como uma arma.",
         "es-ES": "[Verkhasel]\nEn nuestro caso, más bien un precio elevado.\nBueno, ¿qué sé yo? Solo soy otra máquina de matar."
     },
     "lWHZAg": {
         "en-US": "[Verkhasel]\n...Gah, what is Daora doing?\nWhy are you here?\nWhen did I call you?",
-        "pt-BR": "[Bercasell]\nO que está acontecendo com Daora?\nPor que você está aqui?\nEu disse que você podia vir aqui?",
+        "pt-BR": "[Verkhasell]\nO que está acontecendo com Daora?\nPor que você está aqui?\nEu disse que você podia vir aqui?",
         "es-ES": "[Verkhasel]\nAh, ¿qué está haciendo Daora?\n¿Por qué estás aquí?\n¿Cuándo te llamé?"
     },
     "lmHZAg": {
         "en-US": "[Verkhasel]\nOr did Mayssel send you?\nIf not, what? Are you a fan?\nDon't you get it? You're in the wrong place.",
-        "pt-BR": "[Bercasell]\nOu foi Mayshell quem mandou você?\nOu você é um fã?\nVocê encontrou o lugar errado!",
+        "pt-BR": "[Verkhasell]\nOu foi Mayshell quem mandou você?\nOu você é um fã?\nVocê encontrou o lugar errado!",
         "es-ES": "[Verkhasel]\n¿O te envió Mayssel?\nSi no, ¿qué? ¿Eres fan?\n¿No lo entiendes? Estás en el lugar equivocado."
     },
     "l2HZAg": {
         "en-US": "[Verkhasel]\nGIT!",
-        "pt-BR": "[Bercasell]\nSaia daqui agora!!!",
+        "pt-BR": "[Verkhasell]\nSaia daqui agora!!!",
         "es-ES": "[Verkhasel]\n¡VETE!"
     },
     "mGHZAg": {
         "en-US": "[Verkhasel]\nLong time, no see.\nHow have you been?",
-        "pt-BR": "[Bercasell]\nHá quanto tempo não vejo você.\nEstá se saindo bem?",
+        "pt-BR": "[Verkhasell]\nHá quanto tempo não vejo você.\nEstá se saindo bem?",
         "es-ES": "[Verkhasel]\nTanto tiempo sin vernos.\n¿Cómo has estado?"
     },
     "mWHZAg": {
         "en-US": "[Verkhasel]\nThis reminds me, your supplies finally have arrived from the Guild.\nIt must have a hard time creating them again.",
-        "pt-BR": "[Bercasell]\nNa verdade, os suprimentos da guilda acabaram de chegar.\nFoi bastante trabalhoso conseguir itens novos.",
+        "pt-BR": "[Verkhasell]\nNa verdade, os suprimentos da guilda acabaram de chegar.\nFoi bastante trabalhoso conseguir itens novos.",
         "es-ES": "[Verkhasel]\nEsto me recuerda que, finalmente, llegaron tus recursos del gremio.\nLes debe haber costado mucho volver a crearlos."
     },
     "mmHZAg": {
         "en-US": "[Verkhasel]\nDon't worry, everyone gets the same things, regardless of their mission rank.\nUsing them will show your determination as a Guillotine Cross,",
-        "pt-BR": "[Bercasell]\nSe você me devolver o bilhete que lhe dei antes, eu lhe entregarei os suprimentos.",
+        "pt-BR": "[Verkhasell]\nSe você me devolver o bilhete que lhe dei antes, eu lhe entregarei os suprimentos.",
         "es-ES": "[Verkhasel]\nNo te preocupes, todo el mundo recibe lo mismo, independientemente del rango de su misión.\nUsarlos mostrará tu determinación como Cortador de cruces"
     },
     "m2HZAg": {
         "en-US": "[Verkhasel]\nto put everything in its place, by death or otherwise.",
-        "pt-BR": "[Bercasell]\nNão vá muito atrás da força.\nVocê vai se cansar.\nNão é melhor que viver.\nSe você procura apenas pelo poder...",
+        "pt-BR": "[Verkhasell]\nNão vá muito atrás da força.\nVocê vai se cansar.\nNão é melhor que viver.\nSe você procura apenas pelo poder...",
         "es-ES": "[Verkhasel]\npara poner cada cosa en su lugar con la muerte o de otro modo."
     },
     "nGHZAg": {
         "en-US": "[Verkhasel]\nI gave you a coupon before. Bring it to me, and I'll give them to you.",
-        "pt-BR": "[Bercasell]\nAlgum dia, tudo isso voltará para você.\nBem, sou apenas uma arma, acho que não tenho o direito de falar sobre a vida.",
+        "pt-BR": "[Verkhasell]\nAlgum dia, tudo isso voltará para você.\nBem, sou apenas uma arma, acho que não tenho o direito de falar sobre a vida.",
         "es-ES": "[Verkhasel]\nTe di un cupón antes. Tráemelo y te los daré."
     },
     "nWHZAg": {
         "en-US": "[Verkhasel]\nWho are you?\nHow did you get in here?\nGit! Get out of here!",
-        "pt-BR": "[Bercasell]\nO quê? Oi.\nVocê não deveria estar aqui.\nSaia daqui. Imediatamente!",
+        "pt-BR": "[Verkhasell]\nO quê? Oi.\nVocê não deveria estar aqui.\nSaia daqui. Imediatamente!",
         "es-ES": "[Verkhasel]\n¿Quién eres?\n¿Cómo entraste aquí?\n¡Vete! ¡Fuera de aquí!"
     },
     "nmHZAg": {

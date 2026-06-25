@@ -1,0 +1,1142 @@
+{
+    "oAsGDQ": {
+        "en-US": "Ezekiel",
+        "pt-BR": "Ezekiel",
+        "es-ES": "Ezekiel"
+    },
+    "oQsGDQ": {
+        "en-US": "What glory or riches did you expect to find by coming here? What on earth have you gotten yourself into?",
+        "pt-BR": "Que glória e fortuna você queria alcançar vindo para cá? Como foi se meter nisso?",
+        "es-ES": "¿Qué gloria y riqueza esperabas alcanzar al venir aquí? ¿Cómo pudiste meterte en esto?"
+    },
+    "ogsGDQ": {
+        "en-US": "[Ezekiel]\nYou came to help with the work? But you don’t look like someone who can do the work. I’ll gratefully accept the thought, though.",
+        "pt-BR": "[Ezekiel]\nVeio para ajudar no trabalho? Mas você não parece ter condições de trabalhar. Mesmo assim, agradeço sua boa intenção.",
+        "es-ES": "[Ezekiel]\n¿Ha venido a ayudar con el trabajo? Pero no parece que vaya a poder trabajar. Aun así, le agradezco la intención."
+    },
+    "owsGDQ": {
+        "en-US": "- This quest can be performed from Level 170. -",
+        "pt-BR": "- Esta é uma missão disponível a partir do nível 170. -",
+        "es-ES": "- Esta misión puede realizarse a partir del nivel 170. -"
+    },
+    "pAsGDQ": {
+        "en-US": "^4D4DFFThe people of Gray Wolf Village have accepted you as a member of the village.^000000\n^4D4DFFYou are now qualified to attend the Grand Council.^000000",
+        "pt-BR": "^4D4DFFAs pessoas de Aldeia do Lobo Cinzento aceitaram você como membro da aldeia.^000000\n^4D4DFFVocê agora tem qualificação para participar da grande assembleia.^000000",
+        "es-ES": "^4D4DFFLa gente de Pueblo del Lobo Gris le ha aceptado como miembro del pueblo.^000000\n^4D4DFFHa obtenido el derecho a asistir al gran consejo.^000000"
+    },
+    "pQsGDQ": {
+        "en-US": "You cannot continue the conversation because you are carrying too many items.\nPlease organize your items and try again.",
+        "pt-BR": "Não é possível prosseguir com a conversa porque você está carregando muitos itens.\nPor favor, organize seus itens e tente novamente.",
+        "es-ES": "No puede continuar la conversación porque lleva demasiados objetos.\nOrdene sus objetos e inténtelo de nuevo."
+    },
+    "pgsGDQ": {
+        "en-US": "[Ezekiel]\nEzekiel, what glory or riches did you expect to find by coming here? What on earth have you gotten yourself into!",
+        "pt-BR": "[Ezekiel]\nEzekiel, que glória e fortuna você queria alcançar vindo para cá? Como foi se meter nisso?!",
+        "es-ES": "[Ezekiel]\nEzekiel, ¿qué gloria y riqueza esperabas alcanzar al venir aquí? ¡¿Cómo pudiste meterte en esto?!"
+    },
+    "pwsGDQ": {
+        "en-US": "[Ezekiel]\nNo. Still, living as myself here is what truly means living. I’m an eternal outsider there anyway, aren’t I?",
+        "pt-BR": "[Ezekiel]\nNão. Mesmo assim, viver aqui sendo eu mesmo é que é viver de verdade. Lá, eu serei um estrangeiro para sempre, não é?",
+        "es-ES": "[Ezekiel]\nNo. Aun así, vivir aquí siendo yo mismo es vivir de verdad. ¿Acaso allí no seré siempre un forastero?"
+    },
+    "qAsGDQ": {
+        "en-US": "That person is...?",
+        "pt-BR": "Aquela pessoa é...?",
+        "es-ES": "¿Esa persona es...?"
+    },
+    "qQsGDQ": {
+        "en-US": "[Maram]\nShh- Just a moment. Listen to what they’re saying. It sounds like they’re saying something interesting.",
+        "pt-BR": "[Maram]\nShhh- espere um pouco. Vamos ouvir o que ele está dizendo. Parece estar falando coisas interessantes.",
+        "es-ES": "[Maram]\nShh- Un momento. Escuchemos lo que dice. Parece que está diciendo algo interesante."
+    },
+    "qgsGDQ": {
+        "en-US": "[Ezekiel]\nBut no, it’s the same here too, isn’t it? I’m treated like an outsider here as well. It’s the same here and there. Then wouldn’t it be better to stay somewhere more comfortable?\nShould I just give up and go back?",
+        "pt-BR": "[Ezekiel]\nMas, pensando bem, aqui também me tratam como forasteiro, não é? Aqui e lá é a mesma coisa, não é? Então não seria melhor ficar no lugar mais confortável?\nTalvez eu devesse simplesmente desistir e voltar.",
+        "es-ES": "[Ezekiel]\nPero entonces, aquí también me tratan como a un forastero, ¿no? ¿No da igual aquí que allí? Entonces, ¿no sería mejor quedarse donde se vive más cómodo?\n¿Y si simplemente renuncio y regreso?"
+    },
+    "qwsGDQ": {
+        "en-US": "[Ezekiel]\nNo, still, there was something I originally set out to do. To find my roots after all...",
+        "pt-BR": "[Ezekiel]\nNão, mas eu tinha um objetivo quando vim para cá. Eu queria encontrar minhas raízes...",
+        "es-ES": "[Ezekiel]\nNo, pero al principio tenía un objetivo, ¿no? Encontrar mis raíces..."
+    },
+    "rAsGDQ": {
+        "en-US": "[Maram]\nEzekiel! Have you been well? What are you muttering to yourself about?",
+        "pt-BR": "[Maram]\nEzekiel! Você está bem? O que está murmurando aí sozinho?",
+        "es-ES": "[Maram]\n¡Ezekiel! ¿Has estado bien? ¿Qué murmuras ahí tú solo?"
+    },
+    "rQsGDQ": {
+        "en-US": "[Ezekiel]\nMaram? Maram?? Good, perfect. Listen, hear me out. Are you busy? Even if you are, please listen. Who else could I talk to about this? I still don’t have anyone I’m close with here. So please, just listen.",
+        "pt-BR": "[Ezekiel]\nMaram? Maram?? Ainda bem. Escuta, preciso te contar uma coisa. Está ocupado? Mesmo se estiver, me escuta um pouco. Com quem mais eu poderia falar disso? Ainda nem tenho alguém próximo aqui. Então me ouve, por favor.",
+        "es-ES": "[Ezekiel]\n¿Maram? ¿Maram?? Menos mal. Oye, escúchame un momento. ¿Estás ocupado? Aunque lo estés, escúchame un poco. ¿A quién más voy a contarle esto? Si todavía no tengo a nadie cercano. Así que escucha un poco."
+    },
+    "rgsGDQ": {
+        "en-US": "Okay, okay. I’ll listen, so calm down.",
+        "pt-BR": "Tudo bem, tudo bem. Eu vou ouvir, então se acalme.",
+        "es-ES": "Vale, vale. Te escucharé, así que cálmate."
+    },
+    "rwsGDQ": {
+        "en-US": "[Ezekiel]\nI told you I was going to build a clinic here, right? I said there wasn’t even a proper clinic here after I arrived, so I said I’d build one, didn’t I?",
+        "pt-BR": "[Ezekiel]\nEu disse que construiria uma clínica aqui, lembra? Eu falei que, depois de chegar aqui, vi que não havia sequer uma clínica decente, então eu mesmo a construiria.",
+        "es-ES": "[Ezekiel]\nTe dije que iba a construir una clínica aquí. Te dije que había venido y que no había ni una clínica decente, así que iba a construir una."
+    },
+    "sAsGDQ": {
+        "en-US": "[Maram]\nYou did. That’s why I brought back a lot of things to fill it with this time.",
+        "pt-BR": "[Maram]\nDisse sim. Por isso também trouxe bastante coisa para equipá-la desta vez.",
+        "es-ES": "[Maram]\nEso dijiste. Por eso esta vez he traído muchas cosas para llenarla."
+    },
+    "sQsGDQ": {
+        "en-US": "Really? I’ll look at that later. First, listen to me.",
+        "pt-BR": "Sério? Vejo isso depois. Primeiro, me escute.",
+        "es-ES": "¿De verdad? Ya lo veré luego. Primero escúchame."
+    },
+    "sgsGDQ": {
+        "en-US": "[Ezekiel]\nBut the moment I started digging, the elders here stopped me. Saying we have to keep living with nature like we always have, and looking at me like I’m some kind of destroyer of the environment. Do I look like that kind of person?",
+        "pt-BR": "[Ezekiel]\nMas assim que comecei a cavar, os anciãos daqui vieram me impedir. Disseram que, como sempre, temos que viver em harmonia com a natureza, e passaram a me olhar como se eu fosse um destruidor do meio ambiente. Eu sou esse tipo de pessoa?",
+        "es-ES": "[Ezekiel]\nPues en cuanto empecé a cavar, los mayores de aquí empezaron a detenerme. Dicen que hay que seguir viviendo en armonía con la naturaleza, como hasta ahora, y me miran como si yo fuera algún destructor del medioambiente. ¿Te parezco ese tipo de persona?"
+    },
+    "swsGDQ": {
+        "en-US": "[Ezekiel]\nIs building a cleaner, more modern clinic really such an act of destroying nature and the environment? We could even respond more quickly in emergencies, couldn’t we?",
+        "pt-BR": "[Ezekiel]\nConstruir uma clínica um pouco mais higiênica e um pouco mais moderna é mesmo um ato tão agressivo contra a natureza e o ambiente? Numa emergência, daria até para reagir mais rápido.",
+        "es-ES": "[Ezekiel]\n¿Construir una clínica un poco más higiénica y un poco más moderna es realmente una acción que destruya la naturaleza y el entorno? Además, en caso de emergencia se podría responder más rápido."
+    },
+    "tAsGDQ": {
+        "en-US": "[Maram]\nOf course not. You would never be that kind of person. Even if everyone else were, you absolutely wouldn’t.",
+        "pt-BR": "[Maram]\nClaro que não. Você jamais seria esse tipo de pessoa. Mesmo que todo mundo dissesse isso, você jamais seria.",
+        "es-ES": "[Maram]\nClaro que no. Tú jamás serías ese tipo de persona. Aunque todos los demás lo fueran, tú jamás lo serías."
+    },
+    "tQsGDQ": {
+        "en-US": "[Ezekiel]\nRight? But they keep making me out to be that way... and now I’m stuck thinking... am I really trash? I can’t do anything.",
+        "pt-BR": "[Ezekiel]\nNão é? Mas me pressionaram tanto desse jeito... que comecei a pensar: será que eu sou mesmo um lixo? E agora não consigo fazer nada.",
+        "es-ES": "[Ezekiel]\n¿Verdad? Pero como me acusan así... ahora estoy aquí sin poder hacer nada, pensando si de verdad seré basura."
+    },
+    "tgsGDQ": {
+        "en-US": "[Maram]\nIf that’s the case, talk to Suad. That’s too much. This is supposed to help everyone live better together. It’s not like a clinic goes against nature. Honestly.",
+        "pt-BR": "[Maram]\nSe é assim, fala com Suad. Isso é demais. Estamos fazendo isso para que todos vivam melhor. Não é como se uma clínica fosse contra a natureza. Francamente.",
+        "es-ES": "[Maram]\nSi es por eso, habla con Suad. Qué barbaridad. Si esto es para que todos vivamos mejor. Y la clínica no va contra la naturaleza ni nada. Vaya tela."
+    },
+    "twsGDQ": {
+        "en-US": "[Ezekiel]\nWell... I did talk to Suad... but they said it couldn’t be helped, that they couldn’t just act on their own.",
+        "pt-BR": "[Ezekiel]\nÉ que... eu falei com Suad... mas ele disse que não pode fazer nada e que também não pode agir por conta própria.",
+        "es-ES": "[Ezekiel]\nEs que... ya hablé con Suad... pero me dijo que no podía hacer nada y que tampoco podía decidir por su cuenta."
+    },
+    "uAsGDQ": {
+        "en-US": "[Ezekiel]\nA clinic is needed, yes, but if the elders who have lived here a long time feel that way, then we can’t just push it through. They said the only option is to persuade them carefully.",
+        "pt-BR": "[Ezekiel]\nEle disse que a clínica é necessária, sim, mas que, se os anciãos que vivem aqui há tanto tempo pensam assim, não dá para forçar a situação, então só resta tentar convencê-los.",
+        "es-ES": "[Ezekiel]\nMe dijo que la clínica hace falta, sí, pero que si la opinión de los mayores que llevan mucho tiempo viviendo aquí es esa, no se puede imponer sin más, así que no queda otra que convencerlos bien."
+    },
+    "uQsGDQ": {
+        "en-US": "[Maram]\nNow that I hear that, I guess that’s true too. We can’t ignore the elders’ opinions, after all. And it’s not like Suad is the type to force things through while ignoring everyone.",
+        "pt-BR": "[Maram]\nOuvindo assim, ele também tem razão. No fim das contas, não dá para ignorar a opinião dos anciãos. E Suad também não é do tipo que impõe a própria vontade ignorando os outros.",
+        "es-ES": "[Maram]\nVisto así, también tiene sentido. Al fin y al cabo, no se puede ignorar la opinión de los mayores. Y Suad tampoco tiene el carácter de imponerse ignorando opiniones."
+    },
+    "ugsGDQ": {
+        "en-US": "[Ezekiel]\nSo... what do you think about me... going back to Rachel again?",
+        "pt-BR": "[Ezekiel]\nEntão... o que você acha de eu... voltar para Rachel?",
+        "es-ES": "[Ezekiel]\nY por eso... yo... volver a Rachel... ¿qué te parece?"
+    },
+    "uwsGDQ": {
+        "en-US": "[Maram]\nWhat? You came all the way here, and now you want to go back?",
+        "pt-BR": "[Maram]\nO quê? Você veio até aqui e agora quer voltar?",
+        "es-ES": "[Maram]\n¿Qué? ¿Has venido hasta aquí y ahora quieres volver?"
+    },
+    "vAsGDQ": {
+        "en-US": "[Ezekiel]\nNo, I didn’t decide to go back... but people are like that, right? You come here wanting a better life, but if it’s the same here and there, wouldn’t you want to stay somewhere more comfortable...?",
+        "pt-BR": "[Ezekiel]\nNão, não decidi voltar... mas é assim mesmo, não é? A gente vem em busca de uma vida melhor, e, se aqui e lá é a mesma coisa, não dá vontade de ficar no lugar mais confortável?",
+        "es-ES": "[Ezekiel]\nNo, no he decidido volver... ya sabes cómo es la gente. Si vienes buscando una vida mejor y resulta que aquí y allí es lo mismo, ¿no preferirías estar donde se vive más cómodo...?"
+    },
+    "vQsGDQ": {
+        "en-US": "[Ezekiel]\nWhat I mean is... I’m thinking about it. When did I ever say flat out that I was going back? Could you stop hearing only what you want to hear?",
+        "pt-BR": "[Ezekiel]\nQuer dizer... eu ainda estou pensando. Quando foi que eu disse claramente que ia voltar? Não pode parar de interpretar do seu jeito?",
+        "es-ES": "[Ezekiel]\nQuiero decir... que estoy pensándolo. ¿Cuándo he dicho yo claramente que voy a volver? ¿Podrías no sacar tus propias conclusiones?"
+    },
+    "vgsGDQ": {
+        "en-US": "[Maram]\nHmm... but even I think the clinic is absolutely necessary. If only we could persuade them somehow...",
+        "pt-BR": "[Maram]\nHum... mas, pensando bem, a clínica é realmente necessária. Se conseguirmos convencê-los...",
+        "es-ES": "[Maram]\nHmm... pero la clínica, incluso yo creo que es absolutamente necesaria. Si pudiéramos convencerlos bien de alguna forma..."
+    },
+    "vwsGDQ": {
+        "en-US": "[Maram]\nThat’s it! I think this Adventurer might be able to help? You know, this Adventurer is really good with words? Don’t they just have one of those faces you can trust at a glance? Exactly the kind of face elders would like.",
+        "pt-BR": "[Maram]\nIsso! Acho que o aventureiro pode ajudar. Sabe, este aventureiro aqui fala muito bem, sabia? Só de olhar para ele já dá para confiar, não acha? Tem exatamente o rosto que os anciãos gostam.",
+        "es-ES": "[Maram]\n¡Eso es! ¿No podría ayudarnos un poco el aventurero? Oye, este aventurero habla de maravilla, ¿sabes? ¿No inspira confianza con solo verle la cara? Tiene justo ese aspecto que les gusta a los mayores."
+    },
+    "wAsGDQ": {
+        "en-US": "[Maram]\nAnd they’re kind-hearted too, helping us from buying supplies all the way to transporting them.",
+        "pt-BR": "[Maram]\nAlém disso, também é muito bondoso e já nos ajudou desde a compra dos suprimentos até o transporte.",
+        "es-ES": "[Maram]\nAdemás, tiene buen corazón y nos ayudó desde la compra de suministros hasta su transporte."
+    },
+    "wQsGDQ": {
+        "en-US": "[Ezekiel]\nA good person. A very good person. That may be true, but...",
+        "pt-BR": "[Ezekiel]\nÉ uma boa pessoa. Uma boa pessoa. Mas...",
+        "es-ES": "[Ezekiel]\nParece buena persona. Una buena persona. Pero aun así..."
+    },
+    "wgsGDQ": {
+        "en-US": "[Ezekiel]\n...Would someone like that really win the elders’ favor? They seemed very... well... stubborn.",
+        "pt-BR": "[Ezekiel]\n...você realmente acha que alguém assim conseguiria cair nas graças dos anciãos? Eles parecem ser bem... hum... teimosos.",
+        "es-ES": "[Ezekiel]\n...¿de verdad alguien así cae bien a los mayores? Parecían muy... eh... muy obstinados."
+    },
+    "wwsGDQ": {
+        "en-US": "You wrap up “pigheaded” quite nicely.",
+        "pt-BR": "Você soube mesmo suavizar a palavra cabeça-dura.",
+        "es-ES": "Cómo suavizas eso de cabezotas."
+    },
+    "xAsGDQ": {
+        "en-US": "[Maram]\nNothing ventured, nothing gained. Even if the persuasion fails, the worst that happens is getting another bucketful of nagging, right? And this Adventurer will be the one hearing it instead.",
+        "pt-BR": "[Maram]\nNa pior das hipóteses, não perdemos nada. Mesmo se não conseguir convencê-los, o máximo que vai acontecer é ouvir mais um monte de sermões, não é? E quem vai ouvir tudo isso no seu lugar é esse aventureiro.",
+        "es-ES": "[Maram]\nEl no ya lo tenemos. Aunque no logre convencerlos, ¿qué más puede pasar aparte de que le echen otro cubo de sermones? Y encima los escuchará ese aventurero en nuestro lugar."
+    },
+    "xQsGDQ": {
+        "en-US": "Ah, that actually sounds pretty good?",
+        "pt-BR": "Ah, isso até parece bom.",
+        "es-ES": "Ah, pues eso no suena tan mal."
+    },
+    "xgsGDQ": {
+        "en-US": "[Ezekiel]\nThen... may I ask a favor?\nAdventurer, I have a favor to ask. This place absolutely needs a modern clinic. Even if it’s not on the scale of Rachel.",
+        "pt-BR": "[Ezekiel]\nEntão... posso pedir isso?\nAventureiro, por favor, peço sua ajuda. Este lugar precisa muito de uma clínica moderna. Não precisa ser do tamanho da de Rachel, claro.",
+        "es-ES": "[Ezekiel]\nEntonces... ¿debería pedirlo?\nAventurero, por favor, le pido ayuda. Aquí hace muchísima falta una clínica moderna. Aunque no sea del tamaño de la de Rachel."
+    },
+    "xwsGDQ": {
+        "en-US": "[Ezekiel]\nAs things are now, if someone gets hurt or sick here, all we can do is rely on folk remedies passed down from ancient times.",
+        "pt-BR": "[Ezekiel]\nDo jeito que está agora, quando alguém se machuca ou adoece por aqui, não há outra opção a não ser recorrer a remédios populares passados de geração em geração.",
+        "es-ES": "[Ezekiel]\nAhora mismo, aquí, si alguien se hiere o enferma, no queda más remedio que depender de remedios populares heredados de tiempos remotos."
+    },
+    "yAsGDQ": {
+        "en-US": "Ah, I know what that is! They smear some mysterious ointment on wounds!",
+        "pt-BR": "Ah, eu sei o que é isso! Passam uma pomada misteriosa no ferimento!",
+        "es-ES": "Ah, ¡yo sé lo que es eso! ¡Le ponen una pomada rara a la herida!"
+    },
+    "yQsGDQ": {
+        "en-US": "[Ezekiel]\nThere are some medicines and medical tools being brought little by little from Rachel, but they’re nowhere near enough. And there isn’t even a suitable environment here to use them.",
+        "pt-BR": "[Ezekiel]\nAté chegam alguns remédios e instrumentos médicos trazidos de Rachel, mas são de longe insuficientes. E também não há um ambiente adequado para usá-los.",
+        "es-ES": "[Ezekiel]\nHay algunas medicinas y herramientas médicas que llegan poco a poco desde Rachel, pero ni de lejos son suficientes. Y tampoco hay un entorno adecuado para usarlas."
+    },
+    "ygsGDQ": {
+        "en-US": "[Ezekiel]\nBut I have absolutely no way to persuade those who oppose it. So I’m asking you, Adventurer with the face that gets a free pass from the <NAVI>[elders]<INFO>wolfvill,176,111,0,101,0</INFO></NAVI>.",
+        "pt-BR": "[Ezekiel]\nMas eu realmente não tenho ideia de como convencer os que são contra. Então peço ajuda ao aventureiro que tem passe livre entre os <NAVI>[anciãos]<INFO>wolfvill,176,111,0,101,0</INFO></NAVI>.",
+        "es-ES": "[Ezekiel]\nPero yo no tengo ninguna forma de convencer a quienes se oponen. Así que se lo pido a usted, aventurero con cara de tener pase libre entre los <NAVI>[mayores]<INFO>wolfvill,176,111,0,101,0</INFO></NAVI>."
+    },
+    "ywsGDQ": {
+        "en-US": "[Maram]\nPlease, we’re counting on you. In the meantime, I’ll go meet with some other people too.",
+        "pt-BR": "[Maram]\nPor favor, ajude mesmo. Enquanto isso, eu vou tentar falar com outras pessoas.",
+        "es-ES": "[Maram]\nPor favor, ayúdenos. Mientras tanto, yo iré a hablar con otras personas."
+    },
+    "zAsGDQ": {
+        "en-US": "[Ezekiel]\nPlease persuade the <NAVI>[elders]<INFO>wolfvill,176,111,0,101,0</INFO></NAVI>. It’s a facility we truly need.",
+        "pt-BR": "[Ezekiel]\nPor favor, convença os <NAVI>[anciãos]<INFO>wolfvill,176,111,0,101,0</INFO></NAVI>. É uma instalação realmente necessária.",
+        "es-ES": "[Ezekiel]\nPor favor, convenza a los <NAVI>[mayores]<INFO>wolfvill,176,111,0,101,0</INFO></NAVI>. Es una instalación absolutamente necesaria."
+    },
+    "zQsGDQ": {
+        "en-US": "[Ezekiel]\nAdventurer, how did it go? Can I start construction now?",
+        "pt-BR": "[Ezekiel]\nAventureiro, e então? Deu certo? Posso começar a obra?",
+        "es-ES": "[Ezekiel]\nAventurero, ¿qué ha pasado? ¿Ya puedo empezar las obras?"
+    },
+    "zgsGDQ": {
+        "en-US": "I did speak to them, but...",
+        "pt-BR": "Eu falei com eles, mas...",
+        "es-ES": "Se lo he comentado, pero..."
+    },
+    "zwsGDQ": {
+        "en-US": "[Ezekiel]\nAh, I thought so, right? Even though I’m trying to build it out here on the outskirts so it affects other places as little as possible, I guess even that won’t do.",
+        "pt-BR": "[Ezekiel]\nAh, imaginei. E eu que já estava escolhendo construir nesta parte mais afastada justamente para não afetar outros lugares... mas pelo visto nem isso basta.",
+        "es-ES": "[Ezekiel]\nAh, claro, ya me lo imaginaba. Aunque estoy intentando construirla aquí, en las afueras, para que afecte lo menos posible al resto, parece que ni aun así."
+    },
+    "0AsGDQ": {
+        "en-US": "[Ezekiel]\nStill, I can’t give up. Since they said they’d come talk again, I should gather people who share my view and prepare to persuade them before then.",
+        "pt-BR": "[Ezekiel]\nMesmo assim, eu não posso desistir. Disseram que voltariam para falar de novo, então, antes disso, vou reunir pessoas que pensam como eu e me preparar para tentar convencê-los.",
+        "es-ES": "[Ezekiel]\nAun así no pienso rendirme. Dijeron que volverían a hablarlo, así que antes de eso reuniré a quienes piensan como yo y me prepararé para convencerlos."
+    },
+    "0QsGDQ": {
+        "en-US": "[Ezekiel]\nI did think about trying it their way, but no, I can’t. I don’t know about anything else, but this is absolutely necessary.",
+        "pt-BR": "[Ezekiel]\nAté pensei em tentar do jeito que eles sugeriram, mas não dá. Não sei quanto ao resto, mas isto aqui é absolutamente necessário.",
+        "es-ES": "[Ezekiel]\nPensé en hacer las cosas a su manera, como ellos dijeron, pero no, eso tampoco. Aunque en otras cosas pueda ceder, esto sí que es absolutamente necesario."
+    },
+    "0gsGDQ": {
+        "en-US": "[Ezekiel]\nSo, Adventurer, I have a favor to ask.",
+        "pt-BR": "[Ezekiel]\nEntão, aventureiro, tenho um pedido a fazer.",
+        "es-ES": "[Ezekiel]\nY ya que estamos, aventurero, tengo una petición."
+    },
+    "0wsGDQ": {
+        "en-US": "What is it?",
+        "pt-BR": "O que foi?",
+        "es-ES": "¿Qué ocurre?"
+    },
+    "1AsGDQ": {
+        "en-US": "[Ezekiel]\nYou can get most things here, but not Steel. It’s hard to bring in, and producing Steel requires a lot of facilities. Please, just a little. About 3 pieces...",
+        "pt-BR": "[Ezekiel]\nA maioria das coisas dá para conseguir por aqui, mas Aço não. É difícil trazer para cá, e, para produzir Aço, também seriam necessárias muitas instalações. Só peço um pouco. Uns 3, talvez...",
+        "es-ES": "[Ezekiel]\nLa mayoría de las cosas se pueden conseguir aquí, pero el Acero no. Es difícil traerlo, y además para fabricar Acero hacen falta muchas instalaciones. Le pido un pequeño favor. Solo unos 3..."
+    },
+    "1QsGDQ": {
+        "en-US": "I’ll bring them to you.",
+        "pt-BR": "Eu trago para você.",
+        "es-ES": "Se los traeré."
+    },
+    "1gsGDQ": {
+        "en-US": "[Ezekiel]\nThank you for accepting so readily. Not only do you understand my work, you’re helping me with it too... Then I’ll be preparing for construction.",
+        "pt-BR": "[Ezekiel]\nMuito obrigado por aceitar tão prontamente. Você se sensibilizou com o que eu faço e ainda decidiu me ajudar... Então, enquanto isso, vou preparar tudo para a construção.",
+        "es-ES": "[Ezekiel]\nGracias por aceptarlo tan de buena gana. No solo comprende mi situación, sino que además me ayuda... Entonces, yo iré preparando la obra."
+    },
+    "1wsGDQ": {
+        "en-US": "[Ezekiel]\nYou can get most things here, but not Steel. Please, just a little. About 3 pieces...",
+        "pt-BR": "[Ezekiel]\nA maioria das coisas dá para conseguir por aqui, mas Aço não. Só peço um pouco. Uns 3, talvez...",
+        "es-ES": "[Ezekiel]\nLa mayoría de las cosas se pueden conseguir aquí, pero el Acero no. Le pido un pequeño favor. Solo unos 3..."
+    },
+    "2AsGDQ": {
+        "en-US": "[Ezekiel]\nSteel!! When will the Steel get here! ...Ah, it’s here. You’ve arrived, Adventurer. Heavy, isn’t it? Give it here. You’re a valued person; I can’t let you carry it for even one second longer. Thank you. You’ve worked hard.",
+        "pt-BR": "[Ezekiel]\nAço!! Quando será que o Aço vem! ...ah, chegou. Você veio, aventureiro. Está pesado, não é? Me dê aqui. Uma pessoa tão importante não pode ficar segurando isso nem por mais um segundo. Muito obrigado. Você trabalhou duro.",
+        "es-ES": "[Ezekiel]\n¡¡Acero!! ¡¿Cuándo llegará el Acero?! ...Ya ha llegado. Ha venido, aventurero. ¿Pesa, verdad? Démelo. Es usted alguien importante; no puedo permitir que lo cargue ni un segundo más. Gracias. Ha sido de gran ayuda."
+    },
+    "2QsGDQ": {
+        "en-US": "[Ezekiel]\nOnce this clinic is complete, I will carve the Adventurer’s name into the cornerstone so that even newborns in the future will know your name far and wide.",
+        "pt-BR": "[Ezekiel]\nQuando esta clínica ficar pronta, vou gravar o nome do aventureiro na pedra fundamental, para que até os recém-nascidos do futuro conheçam seu nome amplamente.",
+        "es-ES": "[Ezekiel]\nCuando esta clínica esté terminada, grabaré su nombre en la piedra angular para que su nombre sea conocido incluso por los recién nacidos del futuro."
+    },
+    "2gsGDQ": {
+        "en-US": "[Ezekiel]\nEven if time passes and the building disappears, your will shall remain forever.",
+        "pt-BR": "[Ezekiel]\nMesmo que os anos passem e o prédio desapareça, a sua vontade permanecerá para sempre.",
+        "es-ES": "[Ezekiel]\nAunque pasen los años y el edificio desaparezca, su voluntad permanecerá para siempre."
+    },
+    "2wsGDQ": {
+        "en-US": "No, that really won’t be necessary...",
+        "pt-BR": "Não, não precisa ir tão longe...",
+        "es-ES": "No, no hace falta llegar tan lejos..."
+    },
+    "3AsGDQ": {
+        "en-US": "[Ezekiel]\nWith this Steel, I will build a clinic as solid as Steel. It won’t budge even in wind and rain.",
+        "pt-BR": "[Ezekiel]\nCom este Aço, vou construir uma clínica tão sólida quanto Aço. Nem vento nem chuva vão abalá-la.",
+        "es-ES": "[Ezekiel]\nCon este Acero construiré una clínica tan firme como el Acero. Ni el viento ni la lluvia la moverán."
+    },
+    "3QsGDQ": {
+        "en-US": "[Old Man]\nNow then, what exactly are you doing?",
+        "pt-BR": "[Ancião]\nOra, o que está acontecendo aqui?",
+        "es-ES": "[Anciano]\nPero bueno, ¿qué está haciendo ahora?"
+    },
+    "3gsGDQ": {
+        "en-US": "Didn’t I explain it clearly enough?",
+        "pt-BR": "Eu não expliquei de um jeito que desse para entender?",
+        "es-ES": "¿No se lo expliqué de forma que se entendiera?"
+    },
+    "3wsGDQ": {
+        "en-US": "[Old Man]\nAre you really going to build that clinic? Right now?",
+        "pt-BR": "[Ancião]\nEstá mesmo insistindo em construir essa clínica? Agora?",
+        "es-ES": "[Anciano]\n¿Así que al final piensa construir la clínica? ¿Ahora?"
+    },
+    "4AsGDQ": {
+        "en-US": "Please calm down, elders...",
+        "pt-BR": "Anciãos, acalmem-se...",
+        "es-ES": "Mayores, tranquilícense..."
+    },
+    "4QsGDQ": {
+        "en-US": "[Old Man]\nWhen were we ever excited? We’re having this conversation with minds as cold and rational as ice, right now!",
+        "pt-BR": "[Ancião]\nQuando foi que ficamos exaltados? Estamos conversando com uma frieza racional como gelo neste exato momento!",
+        "es-ES": "[Anciano]\n¿Quién ha dicho que estemos alterados? ¡Estamos manteniendo esta conversación con una racionalidad fría como el hielo!"
+    },
+    "4gsGDQ": {
+        "en-US": "We don’t even have the energy to waste on this sort of thing!",
+        "pt-BR": "Não temos nem energia para gastar com isso!",
+        "es-ES": "¡Ni siquiera tenemos energías para gastar en algo así!"
+    },
+    "4wsGDQ": {
+        "en-US": "[Ezekiel]\nWhy are you all acting like this? Is this because we’re people who have just moved here? Are you giving us a hard time?",
+        "pt-BR": "[Ezekiel]\nAfinal, por que estão agindo assim? É porque somos recém-chegados, e querem nos tratar mal?",
+        "es-ES": "[Ezekiel]\nPero ¿por qué se ponen así? ¿Es que están marcando territorio porque somos recién llegados?"
+    },
+    "5AsGDQ": {
+        "en-US": "[Old Man]\nOh my, we’re not that kind of people.",
+        "pt-BR": "[Ancião]\nOra, nós não somos esse tipo de gente.",
+        "es-ES": "[Anciano]\nVaya, pero si nosotros no somos esa clase de personas."
+    },
+    "5QsGDQ": {
+        "en-US": "What? Giving you a hard time?",
+        "pt-BR": "O quê? Tratar mal?",
+        "es-ES": "¿Qué? ¿Marcar territorio?"
+    },
+    "5gsGDQ": {
+        "en-US": "[Ezekiel]\nThen why are you opposing it this strongly?",
+        "pt-BR": "[Ezekiel]\nEntão por que se opõem tanto assim?",
+        "es-ES": "[Ezekiel]\nEntonces, ¿por qué se oponen hasta este punto?"
+    },
+    "5wsGDQ": {
+        "en-US": "[Old Man]\nBecause the comfortable life you desire is the trap. Things from outside, comfortable things. Those things will ruin us.",
+        "pt-BR": "[Ancião]\nPorque essa vida confortável que você deseja é justamente a armadilha. As coisas de fora, as coisas confortáveis. Isso é o que vai nos arruinar.",
+        "es-ES": "[Anciano]\nPorque la vida cómoda que tú deseas es precisamente la trampa. Lo de fuera, lo cómodo. Esas cosas nos arruinarán."
+    },
+    "6AsGDQ": {
+        "en-US": "[Ezekiel]\nComfortable housing, a proper school, a clean clinic. Why should we not enjoy those things? We fled discrimination, not convenience.",
+        "pt-BR": "[Ezekiel]\nMoradia confortável, uma escola decente, uma clínica limpa. Por que não podemos desfrutar disso? Nós viemos para fugir da discriminação, não para fugir da comodidade.",
+        "es-ES": "[Ezekiel]\nUna vivienda confortable, una escuela decente, una clínica limpia. ¿Por qué no podríamos disfrutar de eso? Hemos venido huyendo de la discriminación, no huyendo de la comodidad."
+    },
+    "6QsGDQ": {
+        "en-US": "[Ezekiel]\nSince we’re living here anyway, what is wrong with having better facilities?",
+        "pt-BR": "[Ezekiel]\nSe já vamos viver aqui de qualquer jeito, o que há de errado em ter instalações melhores?",
+        "es-ES": "[Ezekiel]\nYa que de todos modos vivimos aquí, ¿qué tiene de malo contar con mejores instalaciones?"
+    },
+    "6gsGDQ": {
+        "en-US": "[Old Man]\nNo, I’m telling you, that’s exactly what those immigrant bastards want?",
+        "pt-BR": "[Ancião]\nMas é exatamente isso que os imigrantes querem, rapaz!",
+        "es-ES": "[Anciano]\nPero si precisamente eso es lo que quieren esos inmigrantes."
+    },
+    "6wsGDQ": {
+        "en-US": "That’s right!",
+        "pt-BR": "Pois é!",
+        "es-ES": "Eso mismo."
+    },
+    "7AsGDQ": {
+        "en-US": "[Old Man]\nTo accustom our bodies to comfort until we can no longer endure hardship. To make us live satisfied within the minimum life they provide.\nAnd if you resist, they say they’ll take even that away.",
+        "pt-BR": "[Ancião]\nQuerem acostumar nossos corpos ao conforto, para que não suportemos mais uma vida difícil. Querem que a gente se conforme em viver com o mínimo que eles oferecem.\nE ainda dizem que, se vocês se rebelarem, até isso vão tirar de vocês.",
+        "es-ES": "[Anciano]\nAcostumbrarnos a la comodidad para que ya no podamos soportar una vida incómoda. Para que vivamos conformes con la mínima vida que ellos nos proporcionan.\nY dicen que si os rebeláis, hasta eso os lo quitarán."
+    },
+    "7QsGDQ": {
+        "en-US": "[Old Man]\nHow long do you think we’re going to keep living here? And without even thinking of taking our land back!",
+        "pt-BR": "[Ancião]\nVocê acha que vamos viver aqui para sempre? E não vai pensar em retomar nossa terra?",
+        "es-ES": "[Anciano]\n¿Cuánto tiempo creéis que vamos a vivir aquí? ¿Ni siquiera pensáis en recuperar nuestra tierra?"
+    },
+    "7gsGDQ": {
+        "en-US": "Exactly!",
+        "pt-BR": "É isso mesmo!",
+        "es-ES": "¡Eso digo yo!"
+    },
+    "7wsGDQ": {
+        "en-US": "[Old Man]\nWhat more do we need when what we have now is already enough?",
+        "pt-BR": "[Ancião]\nO que já temos agora não é suficiente? O que mais seria necessário?",
+        "es-ES": "[Anciano]\nCon lo que tenemos ahora ya es suficiente, ¿qué más hace falta?"
+    },
+    "8AsGDQ": {
+        "en-US": "[Ezekiel]\nIt’s not like I’m doing this out of envy. I’m not bringing this because it’s an immigrant way of life. It’s technology and facilities that have developed over time, and you just can’t understand that!",
+        "pt-BR": "[Ezekiel]\nNão é por inveja que estou dizendo isso. E isto não é algo trazido por ser um costume dos imigrantes. São tecnologias e instalações desenvolvidas com o passar do tempo, e vocês simplesmente não entendem isso!",
+        "es-ES": "[Ezekiel]\nNo es que yo esté cegado por la admiración. No se trata de traer algo por ser estilo inmigrante. ¡Es tecnología e instalaciones desarrolladas con el paso del tiempo, y ustedes no lo entienden!"
+    },
+    "8QsGDQ": {
+        "en-US": "[Yoel]\nOh dear, I’m dying. I’m dying...",
+        "pt-BR": "[Yoel]\nAi, eu vou morrer. Vou morrer...",
+        "es-ES": "[Joel]\nAy, que me muero. Me muero..."
+    },
+    "8gsGDQ": {
+        "en-US": "Someone’s waving from far away...",
+        "pt-BR": "Alguém está acenando lá de longe...",
+        "es-ES": "Allí a lo lejos alguien hace señas..."
+    },
+    "8wsGDQ": {
+        "en-US": "[Maram]\nEzekiel!!! This is bad!",
+        "pt-BR": "[Maram]\nEzekiel!!! É urgente!",
+        "es-ES": "[Maram]\n¡¡¡Ezekiel!!! ¡Es grave!"
+    },
+    "9AsGDQ": {
+        "en-US": "[Ezekiel]\nMaram? Why? What happened?",
+        "pt-BR": "[Ezekiel]\nMaram? O quê? O que aconteceu?",
+        "es-ES": "[Ezekiel]\n¿Maram? ¿Por qué? ¿Qué ha pasado?"
+    },
+    "9QsGDQ": {
+        "en-US": "[Yoel]\nIf I die... all the wealth I gathered...! Burn it with me. Do you know how hard I worked to gather it! It’s so unfair! Maram, you keep watch! Don’t let them steal even a single stone!",
+        "pt-BR": "[Yoel]\nSe eu morrer... a riqueza que juntei a vida toda...! Queimem junto comigo. Sabe o trabalho que deu juntar isso tudo?! É injusto! Maram, vigie bem! Não deixe roubarem nem uma pedra!",
+        "es-ES": "[Joel]\nSi me muero... ¡todo el patrimonio que he ido reuniendo...! ¡Quémalo conmigo! ¡¿Sabes lo que me costó juntarlo?! ¡Qué injusticia! ¡Maram, vigílalo bien! ¡Que no me roben ni una piedra!"
+    },
+    "9gsGDQ": {
+        "en-US": "[Maram]\nNo, you’re not dying. Don’t say such ominous things.",
+        "pt-BR": "[Maram]\nNão, você não vai morrer. Para de falar coisas agourentas.",
+        "es-ES": "[Maram]\nNo, no te vas a morir. No digas esas cosas."
+    },
+    "9wsGDQ": {
+        "en-US": "[Old Man]\nWhy is Yoel like this?",
+        "pt-BR": "[Ancião]\nO que aconteceu com Yoel?",
+        "es-ES": "[Anciano]\n¿Qué le pasa a Joel?"
+    },
+    "+AsGDQ": {
+        "en-US": "[Maram]\nThere was an accident while moving cargo. It looks like we need to treat it quickly. Can you do it, Ezekiel?",
+        "pt-BR": "[Maram]\nHouve um acidente enquanto ele carregava bagagem. Acho que precisamos tratá-lo rápido. Você consegue, Ezekiel?",
+        "es-ES": "[Maram]\nHa habido un accidente mientras movía una carga. Creo que hay que atenderlo cuanto antes. ¿Podrás hacerlo, Ezekiel?"
+    },
+    "+QsGDQ": {
+        "en-US": "[Old Man]\nOh dear, that’s awful. What are we to do? That leg is completely unusable now.",
+        "pt-BR": "[Ancião]\nAh, coitado, o que houve? Uma das pernas dele já não serve para nada.",
+        "es-ES": "[Anciano]\nAy, madre, ¿cómo ha sido? Ya no puede usar una de las piernas en absoluto."
+    },
+    "+gsGDQ": {
+        "en-US": "[Old Man]\nLet me have a look. Hmm...",
+        "pt-BR": "[Ancião]\nDeixe-me ver. Hum...",
+        "es-ES": "[Anciano]\nDéjame ver. Hmm..."
+    },
+    "+wsGDQ": {
+        "en-US": "[Old Man]\nMove him to my house at once. The leg can’t be used anymore, but now that it’s come to this, we should at least apply medicine so it doesn’t rot.",
+        "pt-BR": "[Ancião]\nLevem-no logo para a minha casa. Ele não vai mais usar a perna, mas agora ao menos temos que passar remédio para que ela não apodreça.",
+        "es-ES": "[Anciano]\nLlevémoslo enseguida a mi casa. La pierna no podrá usarse, pero ya que ha quedado así, al menos habrá que ponerle medicina para que no se le pudra."
+    },
+    "/AsGDQ": {
+        "en-US": "What did you say? My leg is going to rot??",
+        "pt-BR": "Como assim? Minha perna vai apodrecer??",
+        "es-ES": "¿Cómo dice? ¿Que mi pierna se va a pudrir??"
+    },
+    "/QsGDQ": {
+        "en-US": "Will that ointment really be enough?",
+        "pt-BR": "Acha mesmo que uma pomada vai resolver?",
+        "es-ES": "¿Seguro que con una pomada bastará?"
+    },
+    "/gsGDQ": {
+        "en-US": "[Yoel]\nDo I... do I have to cut my leg off like Elder White Poplar? I can’t do that..! I just bought new work boots with great determination this time...!",
+        "pt-BR": "[Yoel]\nEu, eu... vou ter que amputar a perna como o ancião do choupo branco? Isso não pode! Desta vez eu finalmente criei coragem e comprei botas de trabalho novas...!",
+        "es-ES": "[Joel]\n¿T-t-tendrán que cortarme la pierna como al anciano del álamo blanco? ¡Eso no puede ser...! ¡Si me acabo de comprar estas botas de trabajo nuevas con todo mi esfuerzo...!"
+    },
+    "/wsGDQ": {
+        "en-US": "[Old Man]\nIs that really what matters right now, boots?",
+        "pt-BR": "[Ancião]\nAgora o problema são as botas?",
+        "es-ES": "[Anciano]\n¿Ahora el problema son las botas?"
+    },
+    "AAwGDQ": {
+        "en-US": "[Yoel]\n...That’s what they say, Maram. I have a favor to ask. Could you find someone who has no left leg but does have a right leg? I need to sell them my right boot.\nElder, please make it as neat as possible.",
+        "pt-BR": "[Yoel]\n...então é isso, Maram. Tenho um pedido: pode encontrar alguém que não tenha a perna esquerda, mas tenha a direita inteira? Quero vender para essa pessoa minha bota direita.\nAncião, por favor, tente deixar o corte o mais limpo possível.",
+        "es-ES": "[Joel]\n...Eso dicen, Maram. Tengo una petición: ¿podrías buscar a alguien que no tenga pierna izquierda pero sí tenga sana la derecha? Tengo que venderle mi bota derecha.\nAnciano, por favor, córtemela lo más limpio posible."
+    },
+    "AQwGDQ": {
+        "en-US": "Size doesn’t matter.",
+        "pt-BR": "O tamanho não importa.",
+        "es-ES": "La talla no importa."
+    },
+    "AgwGDQ": {
+        "en-US": "[Ezekiel]\nWe’re not cutting off your leg. I can treat it.",
+        "pt-BR": "[Ezekiel]\nNão vamos amputar a perna. Eu consigo tratá-lo.",
+        "es-ES": "[Ezekiel]\nNo vamos a cortarle la pierna. Yo puedo tratarlo."
+    },
+    "AwwGDQ": {
+        "en-US": "[Old Man]\nWhat? With the leg in that condition?",
+        "pt-BR": "[Ancião]\nO quê? Com a perna daquele jeito?",
+        "es-ES": "[Anciano]\n¿Qué? ¿Con la pierna en ese estado?"
+    },
+    "BAwGDQ": {
+        "en-US": "[Old Man]\nHow are you going to fix a leg like that...! Cut it off quickly and apply medicine so we can at least stop infection! Don’t just hold on to him and waste time...!",
+        "pt-BR": "[Ancião]\nComo é que vai consertar uma perna assim...! É melhor amputar logo e passar o remédio ao menos para evitar infecção! Não fiquem enrolando e perdendo tempo à toa...!",
+        "es-ES": "[Anciano]\n¿Cómo va a curar una pierna así...? ¡Hay que cortarla cuanto antes y aplicar medicina para evitar al menos una infección! ¡No la retenga y no haga perder el tiempo...!"
+    },
+    "BQwGDQ": {
+        "en-US": "[Ezekiel]\nI’m saying I can do it because I can do it. Everyone, please step aside.",
+        "pt-BR": "[Ezekiel]\nEu estou dizendo que consigo porque realmente consigo. Todos, por favor, saiam da frente.",
+        "es-ES": "[Ezekiel]\nPuedo hacerlo, por eso digo que puedo hacerlo. Apártense todos."
+    },
+    "BgwGDQ": {
+        "en-US": "[Maram]\nElders, please trust him for now. Ezekiel may look a bit lacking in your eyes, but his skill is pretty good, you know?",
+        "pt-BR": "[Maram]\nAnciãos, por favor, confiem nele por enquanto. Talvez, aos seus olhos, Ezekiel pareça meio atrapalhado, mas ele é bastante competente, sabia?",
+        "es-ES": "[Maram]\nMayores, confíen en él por un momento. Puede que a sus ojos Ezekiel parezca un poco torpe, pero tiene bastante habilidad, ¿saben?"
+    },
+    "BwwGDQ": {
+        "en-US": "It’s not like I brought him here after all that effort for no reason.",
+        "pt-BR": "Não foi à toa que me esforcei tanto para trazê-lo.",
+        "es-ES": "No lo traje hasta aquí sin razón, tomándome tantas molestias."
+    },
+    "CAwGDQ": {
+        "en-US": "[Old Man]\nNo, but the time...!",
+        "pt-BR": "[Ancião]\nMas o tempo...!",
+        "es-ES": "[Anciano]\nNo, pero el tiempo...!"
+    },
+    "CQwGDQ": {
+        "en-US": "[Ezekiel]\nAh... If only the equipment had been properly set up... I could’ve done this faster... but it can’t be helped.",
+        "pt-BR": "[Ezekiel]\nAh... se ao menos eu tivesse instalações adequadas... poderia fazer isso muito mais rápido... mas não tem jeito.",
+        "es-ES": "[Ezekiel]\nAh... si al menos las instalaciones hubieran estado en condiciones... podría hacerlo mucho más rápido... pero no hay más remedio."
+    },
+    "CgwGDQ": {
+        "en-US": "[Yoel]\nGyaaah!!! I’m dying!!!",
+        "pt-BR": "[Yoel]\nAaaah!!! Vou morrer!!!",
+        "es-ES": "[Joel]\n¡¡¡Aaaagh!!! ¡¡¡Me muero!!!"
+    },
+    "CwwGDQ": {
+        "en-US": "Oh no!!!",
+        "pt-BR": "Meu Deus!!!",
+        "es-ES": "¡¡¡Madre mía!!!"
+    },
+    "DAwGDQ": {
+        "en-US": "Isn’t he going to kill someone at this rate?",
+        "pt-BR": "Ele não vai acabar matando o homem?",
+        "es-ES": "¿No estará matándolo?"
+    },
+    "DQwGDQ": {
+        "en-US": "Someone stop them!!!!",
+        "pt-BR": "Parem esse pessoal, pelo amor de Deus!!!!",
+        "es-ES": "¡Deténganlo, por favor!"
+    },
+    "DgwGDQ": {
+        "en-US": "[Ezekiel]\nWell? For a while, don’t overdo it. Eat well, think good thoughts, and rest properly, and you should be able to walk or even do some light running.",
+        "pt-BR": "[Ezekiel]\nE então? Se não fizer esforço por um tempo, comer bem, pensar coisas boas e descansar bastante, vai conseguir ao menos andar ou correr de leve.",
+        "es-ES": "[Ezekiel]\n¿Qué le parece? Mientras no haga esfuerzos durante un tiempo, coma bien, piense en cosas buenas y descanse bien, podrá caminar e incluso correr un poco."
+    },
+    "DwwGDQ": {
+        "en-US": "[Yoel]\nI lived?? I survived?? My leg is okay??",
+        "pt-BR": "[Yoel]\nEu sobrevivi?? Estou vivo?? Minha perna está bem??",
+        "es-ES": "[Joel]\n¿He sobrevivido?? ¿Estoy vivo?? ¿Mi pierna está bien??"
+    },
+    "EAwGDQ": {
+        "en-US": "[Maram]\nUh, if he says so, then I guess that must be true?",
+        "pt-BR": "[Maram]\nAh, se ele disse isso, então deve ser verdade, não é?",
+        "es-ES": "[Maram]\nEh, si él lo dice, supongo que de verdad será así, ¿no?"
+    },
+    "EQwGDQ": {
+        "en-US": "[Yoel]\nThank you so much!! You saved my boots! What’s your name? I’ll treat you well from now on. You are my benefactor. Yoel never forgets a benefactor. Never.",
+        "pt-BR": "[Yoel]\nMuito obrigado!! Você salvou minhas botas! Qual é o seu nome? Vou tratá-lo muito bem de agora em diante. Você é meu benfeitor. Yoel nunca esquece um benfeitor. Nunca, por toda a vida.",
+        "es-ES": "[Joel]\n¡¡Muchas gracias!! ¡Ha salvado mis botas! ¿Cómo se llama? A partir de ahora lo trataré bien. Usted es mi benefactor. Joel no olvida a sus benefactores. Jamás."
+    },
+    "EgwGDQ": {
+        "en-US": "[Old Man]\nH-how did you save a leg that had become unusable?",
+        "pt-BR": "[Ancião]\nC-como foi que salvou uma perna que já estava perdida?",
+        "es-ES": "[Anciano]\nP-pero... ¿cómo ha salvado una pierna que ya no podía usarse?"
+    },
+    "EwwGDQ": {
+        "en-US": "[Ezekiel]\nBecause that’s what I learned to do. If only we’d had a proper clinic, I could have treated it even more perfectly and sped up his recovery.",
+        "pt-BR": "[Ezekiel]\nFoi isso que eu aprendi a fazer. Se houvesse uma clínica devidamente equipada, eu poderia ter tratado tudo de forma ainda mais perfeita e acelerado a recuperação.",
+        "es-ES": "[Ezekiel]\nEso es precisamente lo que he aprendido a hacer. Si hubiéramos tenido una clínica en condiciones, podría haberlo tratado aún mejor y acelerar su recuperación."
+    },
+    "FAwGDQ": {
+        "en-US": "[Old Man]\nHo... So these days, everyone does it like that?",
+        "pt-BR": "[Ancião]\nOh... então hoje em dia todo mundo faz assim?",
+        "es-ES": "[Anciano]\nOh... ¿hoy en día todos lo hacen así?"
+    },
+    "FQwGDQ": {
+        "en-US": "[Ezekiel]\nThat’s right. An injury like this does not make the leg unusable. As long as it is treated properly.",
+        "pt-BR": "[Ezekiel]\nSim. Com um caso assim, a pessoa não perde a perna. Desde que seja tratada da forma adequada.",
+        "es-ES": "[Ezekiel]\nAsí es. Con algo así no se pierde una pierna. Siempre que se actúe de la manera adecuada."
+    },
+    "FgwGDQ": {
+        "en-US": "[Old Man]\nAnd you’re saying that if there were a clinic, it could be done more quickly and properly?",
+        "pt-BR": "[Ancião]\nE, com uma clínica, isso poderia ser feito mais rápido e da forma correta, é isso?",
+        "es-ES": "[Anciano]\n¿Y dice que, con una clínica, eso podría hacerse de forma más rápida y adecuada?"
+    },
+    "FwwGDQ": {
+        "en-US": "[Ezekiel]\nYes...? That’s right...?",
+        "pt-BR": "[Ezekiel]\nSim...? É isso...?",
+        "es-ES": "[Ezekiel]\n¿Eh...? Sí...?"
+    },
+    "GAwGDQ": {
+        "en-US": "[Old Man]\nHmm... So that’s how things are these days? Hey there, Adventurer, is that really true?",
+        "pt-BR": "[Ancião]\nHum... então hoje em dia é assim, é? Ei, aventureiro, isso é verdade?",
+        "es-ES": "[Anciano]\nHmm... ¿así se hace hoy en día? Oiga, aventurero, ¿de verdad es así?"
+    },
+    "GQwGDQ": {
+        "en-US": "That’s how it is these days.",
+        "pt-BR": "Hoje em dia é assim mesmo.",
+        "es-ES": "Hoy en día todo se hace así."
+    },
+    "GgwGDQ": {
+        "en-US": "[Ezekiel]\nI told you. It’s not immigrant technology, but the technology and facilities of an age that has advanced.",
+        "pt-BR": "[Ezekiel]\nFoi o que eu disse. Não são técnicas de imigrantes, mas sim tecnologias e instalações desenvolvidas com o avanço dos tempos.",
+        "es-ES": "[Ezekiel]\nYa se lo dije. No es tecnología de inmigrantes, sino tecnología e instalaciones de una época más avanzada."
+    },
+    "GwwGDQ": {
+        "en-US": "[Old Man]\nHold on, maybe this isn’t something we should oppose blindly.",
+        "pt-BR": "[Ancião]\nEspere, acho que isso não é algo para simplesmente rejeitar de imediato.",
+        "es-ES": "[Anciano]\nUn momento, me parece que esto no es algo a lo que debamos oponernos sin más."
+    },
+    "HAwGDQ": {
+        "en-US": "It seems quite useful.",
+        "pt-BR": "Parece ter muita utilidade.",
+        "es-ES": "Parece muy útil."
+    },
+    "HQwGDQ": {
+        "en-US": "[Old Man]\nRight? That’s what I think too. This is about saving lives. It could save those who would die if we followed our old way.",
+        "pt-BR": "[Ancião]\nNão é? Eu também penso assim. É algo para salvar vidas. Quer dizer que pessoas que morreriam do nosso jeito podem ser salvas.",
+        "es-ES": "[Anciano]\n¿Verdad? Eso mismo pienso yo. Se trata de salvar vidas. Significa que podríamos salvar a gente que, con nuestro método, moriría."
+    },
+    "HgwGDQ": {
+        "en-US": "If only White Poplar’s house had done it this way...",
+        "pt-BR": "Se tivessem feito isso na casa do choupo branco...",
+        "es-ES": "Si en casa del álamo blanco hubieran hecho esto..."
+    },
+    "HwwGDQ": {
+        "en-US": "[Old Man]\nHmm... This clinic thing, if we build it, how long would it take?",
+        "pt-BR": "[Ancião]\nHum... essa clínica, se forem construí-la, quanto tempo levaria?",
+        "es-ES": "[Anciano]\nHmm... esa clínica, si se construyera, ¿cuánto tardaría?"
+    },
+    "IAwGDQ": {
+        "en-US": "[Ezekiel]\nWhat...? Well, that depends on manpower and capital.",
+        "pt-BR": "[Ezekiel]\nO quê...? Isso depende de mão de obra e recursos.",
+        "es-ES": "[Ezekiel]\n¿Eh...? Pues eso depende de la mano de obra y del capital."
+    },
+    "IQwGDQ": {
+        "en-US": "[Old Man]\nWe’ll support you as much as we can. Go ahead and build it.",
+        "pt-BR": "[Ancião]\nNós vamos ajudar no que pudermos. Vá em frente e construa.",
+        "es-ES": "[Anciano]\nNosotros le ayudaremos todo lo posible. Intente construirla."
+    },
+    "IgwGDQ": {
+        "en-US": "I’ll at least carry the materials.",
+        "pt-BR": "Eu mesmo posso carregar os materiais.",
+        "es-ES": "Yo mismo traeré materiales si hace falta."
+    },
+    "IwwGDQ": {
+        "en-US": "[Old Man]\nBut it must fit the way of life here and match the atmosphere of this place.",
+        "pt-BR": "[Ancião]\nMas, em troca, ela precisa combinar com o modo de vida daqui e se adequar ao ambiente deste lugar.",
+        "es-ES": "[Anciano]\nEso sí, debe encajar con la forma de vida de aquí y con el ambiente de este lugar."
+    },
+    "JAwGDQ": {
+        "en-US": "People this old have a hard time adapting to things that are too new.",
+        "pt-BR": "As pessoas mais velhas daqui têm dificuldade em se adaptar a coisas novas demais.",
+        "es-ES": "A la gente mayor de aquí le cuesta mucho adaptarse a cosas demasiado nuevas."
+    },
+    "JQwGDQ": {
+        "en-US": "[Ezekiel]\nThat... understood.",
+        "pt-BR": "[Ezekiel]\nQuanto a isso... tudo bem.",
+        "es-ES": "[Ezekiel]\nEso... de acuerdo."
+    },
+    "JgwGDQ": {
+        "en-US": "[Maram]\nWow, elders, that was a wise decision. This is something we truly need. I’m grateful myself.",
+        "pt-BR": "[Maram]\nNossa, anciãos, vocês tomaram uma ótima decisão. Isso era realmente muito necessário. Eu mesmo fico agradecido.",
+        "es-ES": "[Maram]\nVaya, mayores, han tomado una buena decisión. Esto sí que era realmente necesario. Hasta yo les estoy agradecido."
+    },
+    "JwwGDQ": {
+        "en-US": "[Old Man]\nI wonder if there’s anything else we might need here?",
+        "pt-BR": "[Ancião]\nSerá que não existe mais alguma coisa necessária por aqui?",
+        "es-ES": "[Anciano]\n¿Habrá alguna otra cosa que haga falta por aquí?"
+    },
+    "KAwGDQ": {
+        "en-US": "[Old Man]\nWhat? You’re saying we should accept more than just the clinic?",
+        "pt-BR": "[Ancião]\nO quê? Quer dizer que deveríamos aceitar algo além da clínica?",
+        "es-ES": "[Anciano]\n¿Qué? ¿Que además de la clínica vamos a aceptar más cosas?"
+    },
+    "KQwGDQ": {
+        "en-US": "[Old Man]\nDidn’t seeing that teach you anything? As time passes, you have to live according to the way time flows. You can’t be stubborn forever.",
+        "pt-BR": "[Ancião]\nVocês não perceberam nada ao ver aquilo? Conforme o tempo passa, temos que viver de acordo com a forma como ele passa. Não dá para continuar teimando para sempre.",
+        "es-ES": "[Anciano]\n¿No has aprendido nada al ver aquello? A medida que pasa el tiempo, hay que vivir conforme a la manera en que el tiempo avanza. No podemos seguir obstinándonos para siempre."
+    },
+    "KgwGDQ": {
+        "en-US": "[Old Man]\nBesides, even if we did take back our land, we wouldn’t live exactly the same way as before. We already live differently from the truly old ways.",
+        "pt-BR": "[Ancião]\nMesmo que um dia retomemos nossa terra, também não viveremos do jeito de agora. Nós mesmos já vivemos de um modo diferente daquele de tempos muito antigos.",
+        "es-ES": "[Anciano]\nEn fin, aunque recuperemos nuestra tierra, tampoco viviremos como ahora. Nosotros mismos ya vivimos de manera distinta a la de hace muchísimo tiempo."
+    },
+    "KwwGDQ": {
+        "en-US": "[Old Man]\nHey, young man. If there’s anything else important or necessary, tell us. We’ll give it some thought too.",
+        "pt-BR": "[Ancião]\nEi, jovem. Se houver outra coisa importante ou necessária, nos diga. Nós também vamos pensar a respeito.",
+        "es-ES": "[Anciano]\nOiga, joven. Si hay algo más importante o necesario, dígalo. Nosotros también lo pensaremos."
+    },
+    "LAwGDQ": {
+        "en-US": "[Ezekiel]\nI will. I’ll build the clinic to fit this place as much as possible, just as the elders asked.",
+        "pt-BR": "[Ezekiel]\nVou dizer, sim. Quanto à clínica, vou construí-la de forma a combiná-la o máximo possível com este lugar, como os anciãos pediram.",
+        "es-ES": "[Ezekiel]\nAsí lo haré. La clínica la construiré ajustándola lo máximo posible a este lugar, tal como ustedes han dicho."
+    },
+    "LQwGDQ": {
+        "en-US": "[Old Man]\nGood. You do know we won’t be living here forever, right?",
+        "pt-BR": "[Ancião]\nMuito bem. Você sabe que não viveremos aqui para sempre, não sabe?",
+        "es-ES": "[Anciano]\nMuy bien. Sabe que no vamos a vivir aquí para siempre, ¿verdad?"
+    },
+    "LgwGDQ": {
+        "en-US": "[Ezekiel]\nOf course! I think so too.",
+        "pt-BR": "[Ezekiel]\nClaro! Eu também penso assim.",
+        "es-ES": "[Ezekiel]\n¡Claro! Yo también lo pienso."
+    },
+    "LwwGDQ": {
+        "en-US": "[Old Man]\nThen, we’ll be off now. You worked hard today.",
+        "pt-BR": "[Ancião]\nEntão, nós vamos indo. Você trabalhou duro hoje.",
+        "es-ES": "[Anciano]\nEntonces, nosotros nos iremos ya. Hoy ha trabajado mucho."
+    },
+    "MAwGDQ": {
+        "en-US": "[Maram]\nTake care on your way!!!\nWhew- What a relief. Right?",
+        "pt-BR": "[Maram]\nVão com cuidado!!!\nUfa- ainda bem. Não é?",
+        "es-ES": "[Maram]\n¡¡¡Cuídense en el camino!!!\nUf- Menos mal. ¿Verdad?"
+    },
+    "MQwGDQ": {
+        "en-US": "[Ezekiel]\nWell... that’s true, right? But it happened so suddenly, I’m a bit flustered??",
+        "pt-BR": "[Ezekiel]\nÉ... não é? Mas foi tão de repente que até fiquei desnorteado??",
+        "es-ES": "[Ezekiel]\nEso sí... ¿verdad? Pero ha sido todo tan repentino que estoy desconcertado, ¿sabes?"
+    },
+    "MgwGDQ": {
+        "en-US": "[Maram]\nThe elders changed their minds because they saw it with their own eyes. Take it as a good thing. Now then, you should finish what you were building, right?",
+        "pt-BR": "[Maram]\nOs anciãos mudaram de ideia porque viram tudo com os próprios olhos. Pense pelo lado bom. Agora, então, é hora de continuar a construção, não?",
+        "es-ES": "[Maram]\nEs que, al verlo con sus propios ojos, los mayores cambiaron de opinión. Tómatelo a bien. Bueno, entonces, ¿ahora seguirás construyendo lo que estabas haciendo?"
+    },
+    "MwwGDQ": {
+        "en-US": "[Ezekiel]\nRight. But before that, I think I need to change the design so it fits this place better.",
+        "pt-BR": "[Ezekiel]\nÉ. Mas antes disso, acho que preciso mudar o projeto para que combine com este lugar.",
+        "es-ES": "[Ezekiel]\nSí. Pero antes creo que tendré que cambiar el diseño para que encaje con este lugar."
+    },
+    "NAwGDQ": {
+        "en-US": "[Maram]\nThe Adventurer will help you. Right?",
+        "pt-BR": "[Maram]\nO aventureiro vai ajudar, não vai? Certo?",
+        "es-ES": "[Maram]\nEl aventurero te ayudará, ¿verdad?"
+    },
+    "NQwGDQ": {
+        "en-US": "Well... that’s true...",
+        "pt-BR": "Bem... é claro...",
+        "es-ES": "Claro... supongo..."
+    },
+    "NgwGDQ": {
+        "en-US": "[Maram]\nIf you need any equipment or tools, tell me in advance. I’ll bring them next time.\nYoel, let’s go get some rest too.",
+        "pt-BR": "[Maram]\nSe precisar de alguma instalação ou ferramenta, diga com antecedência. Na próxima vez eu trago tudo certo.\nYoel, vamos nós também descansar um pouco.",
+        "es-ES": "[Maram]\nSi necesitas alguna instalación o herramienta, dímelo con antelación. La próxima vez te la traeré preparada.\nJoel, vámonos nosotros también a descansar un poco."
+    },
+    "NwwGDQ": {
+        "en-US": "[Yoel]\nFarewell, my benefactor. I’ll come again soon!",
+        "pt-BR": "[Yoel]\nAté logo, meu benfeitor. Voltarei a vê-lo em breve!",
+        "es-ES": "[Joel]\nAdiós, mi benefactor. ¡Volveré a verte muy pronto!"
+    },
+    "OAwGDQ": {
+        "en-US": "[Ezekiel]\nAdventurer, thank you so much for your help. This is something I received while settling here, but I have no use for it... so I’ll give it to you. As a sign that I hope for your continued support.",
+        "pt-BR": "[Ezekiel]\nAventureiro, muito obrigado pela ajuda. Recebi isto quando me estabeleci aqui, mas eu não preciso mesmo... então vou lhe dar. Considere como um sinal de que espero continuar contando com você.",
+        "es-ES": "[Ezekiel]\nAventurero, muchísimas gracias por su ayuda. Esto me lo dieron cuando me asenté aquí, pero yo no lo necesito para nada... Se lo daré a usted. Como muestra de que espero seguir contando con su ayuda."
+    },
+    "OQwGDQ": {
+        "en-US": "[Ezekiel]\nThen, I’ll see you again next time. I may even have another favor to ask, so please stop by from time to time!",
+        "pt-BR": "[Ezekiel]\nEntão, até a próxima. Talvez eu ainda lhe peça um favor, então apareça de vez em quando!",
+        "es-ES": "[Ezekiel]\nEntonces, hasta la próxima. Puede que vuelva a pedirle ayuda, así que pase a verme de vez en cuando."
+    },
+    "OgwGDQ": {
+        "en-US": "^4D4DFFA favorable evaluation of you has occurred.^000000",
+        "pt-BR": "^4D4DFFUma avaliação favorável sobre você foi gerada.^000000",
+        "es-ES": "^4D4DFFSe ha generado una evaluación favorable sobre ti.^000000"
+    },
+    "OwwGDQ": {
+        "en-US": "[Ezekiel]\nAdventurer, you’ve worked hard. I’m always grateful. Rest for today, and I’ll see you again after dawn passes!",
+        "pt-BR": "[Ezekiel]\nAventureiro, você trabalhou duro. Sou sempre muito grato. Descanse por hoje, e nos veremos de novo depois que a madrugada passar!",
+        "es-ES": "[Ezekiel]\nAventurero, ha trabajado muy duro. Siempre se lo agradezco. ¡Descanse por hoy y volvamos a vernos después de la madrugada!"
+    },
+    "PAwGDQ": {
+        "en-US": "[Ezekiel]\nAdventurer, you’ve worked hard. Uh... but the quantity is a bit short? Did you perhaps forget something...?",
+        "pt-BR": "[Ezekiel]\nAventureiro, você trabalhou duro. Ah... mas parece que está faltando um pouco na quantidade. Será que esqueceu alguma coisa...?",
+        "es-ES": "[Ezekiel]\nAventurero, ha trabajado muy duro. Eh... pero creo que falta un poco de cantidad. ¿Se le ha olvidado algo...?"
+    },
+    "PQwGDQ": {
+        "en-US": "[Ezekiel]\nPlease bring 1 Steel and 10 Berry Hard Crystals. Berry Hard Crystals can be obtained from Gray Wolves.",
+        "pt-BR": "[Ezekiel]\nPreciso só de 1 Aço e 10 Cristais Berry Firmes. Os Cristais Berry Firmes podem ser obtidos dos Lobos Cinzentos.",
+        "es-ES": "[Ezekiel]\nLe pediré solo 1 Acero y 10 Cristales Berry Firmes. Los Cristales Berry Firmes pueden obtenerse de los Lobos Grises."
+    },
+    "PgwGDQ": {
+        "en-US": "[Ezekiel]\nHello, Adventurer.",
+        "pt-BR": "[Ezekiel]\nAventureiro, olá.",
+        "es-ES": "[Ezekiel]\nAventurero, hola."
+    },
+    "PwwGDQ": {
+        "en-US": "Is the construction going well?",
+        "pt-BR": "A obra está indo bem?",
+        "es-ES": "¿Las obras van bien?"
+    },
+    "QAwGDQ": {
+        "en-US": "[Ezekiel]\nOf course. But we’re still short on a few supplies. Things like Steel or Berry Hard Crystals.",
+        "pt-BR": "[Ezekiel]\nClaro. Mas ainda faltam alguns materiais. Coisas como Aço e Cristais Berry Firmes.",
+        "es-ES": "[Ezekiel]\nClaro que sí. Pero aún faltan algunos suministros. Cosas como Acero o Cristales Berry Firmes."
+    },
+    "QQwGDQ": {
+        "en-US": "[Ezekiel]\nThey use a lot of crystals here. They’re very hard, so they’re useful in many places.",
+        "pt-BR": "[Ezekiel]\nPelo visto, eles usam muitos cristais por aqui. São muito resistentes, então servem para todo tipo de coisa.",
+        "es-ES": "[Ezekiel]\nAquí se usan mucho los cristales. Son muy duros y van bien para usarlos en muchas cosas."
+    },
+    "QgwGDQ": {
+        "en-US": "I’ll get them for you.",
+        "pt-BR": "Eu trago para você.",
+        "es-ES": "Se los traeré."
+    },
+    "QwwGDQ": {
+        "en-US": "I’d like to get them for you, but...",
+        "pt-BR": "Eu gostaria de trazer, mas...",
+        "es-ES": "Me gustaría traérselos, pero..."
+    },
+    "RAwGDQ": {
+        "en-US": "[Ezekiel]\nWow, thank you so much!",
+        "pt-BR": "[Ezekiel]\nUau, muito obrigado!",
+        "es-ES": "[Ezekiel]\n¡Vaya, muchísimas gracias!"
+    },
+    "RQwGDQ": {
+        "en-US": "[Ezekiel]\nPlease bring 1 Steel and 10 Berry Hard Crystals. Berry Hard Crystals can be obtained from Gray Wolves.\nI’ll be waiting!",
+        "pt-BR": "[Ezekiel]\nPreciso só de 1 Aço e 10 Cristais Berry Firmes. Os Cristais Berry Firmes podem ser obtidos dos Lobos Cinzentos.\nVou ficar esperando!",
+        "es-ES": "[Ezekiel]\nLe pediré solo 1 Acero y 10 Cristales Berry Firmes. Los Cristales Berry Firmes pueden obtenerse de los Lobos Grises.\n¡Esperaré!"
+    },
+    "RgwGDQ": {
+        "en-US": "[Ezekiel]\nYou’re busy, aren’t you? It looked that way. Even if you’re busy, make sure you eat properly.",
+        "pt-BR": "[Ezekiel]\nVocê está ocupado, não é? Dá para perceber. Mas, mesmo ocupado, não deixe de se alimentar direito.",
+        "es-ES": "[Ezekiel]\nEstá ocupado, ¿verdad? Eso parece. Aunque esté ocupado, no deje de comer."
+    },
+    "RwwGDQ": {
+        "en-US": "[Ezekiel]\nPhew, this is hard. What brings you here, Adventurer? We’re right in the middle of construction with what you brought earlier... It’s dangerous if you stay here, so please come back after dawn passes.",
+        "pt-BR": "[Ezekiel]\nNossa, que cansaço. O que o traz aqui, aventureiro? A obra está a todo vapor com o que você trouxe antes... mas ficar aqui é perigoso, então volte depois que a madrugada passar.",
+        "es-ES": "[Ezekiel]\nUf, qué cansancio. Aventurero, ¿qué le trae por aquí? Con lo que me trajo antes estoy en plena obra... pero aquí es peligroso, así que vuelva después de la madrugada."
+    },
+    "SAwGDQ": {
+        "en-US": "[Ezekiel]\nComing here wasn’t the wrong choice... was it?",
+        "pt-BR": "[Ezekiel]\nSerá que vir para cá não foi uma escolha errada...?",
+        "es-ES": "[Ezekiel]\n¿No habrá sido un error venir aquí...?"
+    },
+    "SQwGDQ": {
+        "en-US": "Maram",
+        "pt-BR": "Maram",
+        "es-ES": "Maram"
+    },
+    "SgwGDQ": {
+        "en-US": "Old Man",
+        "pt-BR": "Ancião",
+        "es-ES": "Anciano"
+    },
+    "SwwGDQ": {
+        "en-US": "Villager",
+        "pt-BR": "Morador da aldeia",
+        "es-ES": "Habitante del pueblo"
+    },
+    "TAwGDQ": {
+        "en-US": "Injured Person",
+        "pt-BR": "Ferido",
+        "es-ES": "Herido"
+    },
+    "TQwGDQ": {
+        "en-US": "Building Materials",
+        "pt-BR": "Material de construção",
+        "es-ES": "Materiales de construcción"
+    },
+    "TgwGDQ": {
+        "en-US": "[Old Man]\nThe people who came in this time will have to adapt well too.",
+        "pt-BR": "[Ancião]\nEspero que as pessoas que chegaram desta vez também consigam se adaptar bem.",
+        "es-ES": "[Anciano]\nEspero que los que han llegado esta vez también se adapten bien."
+    },
+    "TwwGDQ": {
+        "en-US": "[Old Man]\nWe should keep an eye on them once more.",
+        "pt-BR": "[Ancião]\nVamos ter que observar tudo mais uma vez.",
+        "es-ES": "[Anciano]\nTendremos que echarles un vistazo una vez más."
+    },
+    "UAwGDQ": {
+        "en-US": "[Old Man]\nThey won’t like it if we go too often. Do they think it’s the same as in our day?",
+        "pt-BR": "[Ancião]\nSe formos visitá-los com frequência demais, eles vão acabar não gostando. Será que acham que ainda é como no nosso tempo?",
+        "es-ES": "[Anciano]\nSi va a verlos tan a menudo, acabarán molestándose. ¿O cree que esto sigue siendo como en nuestros tiempos?"
+    },
+    "UQwGDQ": {
+        "en-US": "[Old Man]\nIf they want to live here from now on, then they have to adapt. Everyone follows the rules of this place so we can all live in harmony. Yes.",
+        "pt-BR": "[Ancião]\nSe querem viver aqui daqui para frente, precisam se adaptar. É seguindo as regras deste lugar que todos vivem em harmonia. Isso mesmo.",
+        "es-ES": "[Anciano]\nSi quieren vivir aquí de ahora en adelante, tendrán que adaptarse. Todos vivimos en armonía cuando seguimos las normas de este lugar. Así es."
+    },
+    "UgwGDQ": {
+        "en-US": "[Old Man]\nWhether it’s the same as our day or not, it’s true that people adapt more easily if you talk to them even one more time. Who would refuse a kind neighbor?",
+        "pt-BR": "[Ancião]\nSeja igual ou diferente do nosso tempo, quanto mais se conversa, mais fácil é se adaptar. Quem recusaria um vizinho gentil?",
+        "es-ES": "[Anciano]\nSea igual o no que en nuestros tiempos, eso de que hablar una vez más facilita adaptarse es cierto. ¿Quién rechazaría a unos vecinos amables?"
+    },
+    "UwwGDQ": {
+        "en-US": "Everyone my age adapted like that.",
+        "pt-BR": "Todos os da minha geração se adaptaram assim.",
+        "es-ES": "Todos los de mi generación se adaptaron así."
+    },
+    "VAwGDQ": {
+        "en-US": "Um...",
+        "pt-BR": "Eu...",
+        "es-ES": "Yo..."
+    },
+    "VQwGDQ": {
+        "en-US": "[Old Man]\nWho might you be? I haven’t seen your face before.",
+        "pt-BR": "[Ancião]\nQuem seria você? Não me lembro de já ter visto seu rosto.",
+        "es-ES": "[Anciano]\n¿Quién es usted? Tiene una cara que no he visto antes."
+    },
+    "VgwGDQ": {
+        "en-US": "Are you one of the people who came here recently?",
+        "pt-BR": "É alguém que chegou recentemente?",
+        "es-ES": "¿Es uno de los recién llegados esta vez?"
+    },
+    "VwwGDQ": {
+        "en-US": "Right? I’m not just failing to remember, am I?",
+        "pt-BR": "Não é? Eu não estou me confundindo, estou?",
+        "es-ES": "¿Verdad? No será que lo he olvidado yo, ¿no?"
+    },
+    "WAwGDQ": {
+        "en-US": "[Old Man]\nAh, you’re here again already? It hasn’t been that long since the last time, has it? Can you come often now?",
+        "pt-BR": "[Ancião]\nAh, já veio de novo? Não faz tanto tempo desde a última vez, não? Agora vai poder vir com frequência?",
+        "es-ES": "[Anciano]\nAh, así que ha vuelto tan pronto. ¿No vino la otra vez hace poco? ¿Ahora va a poder venir a menudo?"
+    },
+    "WQwGDQ": {
+        "en-US": "[Old Man]\nWelcome, welcome. If there’s anything difficult, make sure to ask.",
+        "pt-BR": "[Ancião]\nQue bom que veio, que bom. Se tiver alguma dificuldade, pode perguntar.",
+        "es-ES": "[Anciano]\nBienvenido, bienvenido. Si tiene alguna dificultad, pregunte sin falta."
+    },
+    "WgwGDQ": {
+        "en-US": "[Old Man]\nThe people here don’t find that sort of thing bothersome, so ask without feeling burdened.",
+        "pt-BR": "[Ancião]\nO pessoal daqui não acha isso incômodo, então pergunte sem se sentir pressionado.",
+        "es-ES": "[Anciano]\nLa gente de aquí no se molesta por esas cosas, así que pregunte sin reparos."
+    },
+    "WwwGDQ": {
+        "en-US": "I came about the clinic issue...",
+        "pt-BR": "Vim por causa da clínica...",
+        "es-ES": "He venido por lo de la clínica..."
+    },
+    "XAwGDQ": {
+        "en-US": "[Old Man]\nWhat? The clinic? Surely you don’t mean that clinic they were talking about building or not building?",
+        "pt-BR": "[Ancião]\nO quêê? Clínica? Não está falando daquela clínica sobre a qual já se discutiu se devia ou não ser construída, está?",
+        "es-ES": "[Anciano]\n¿Queeeé? ¿Una clííínica? No será esa clínica que estaban diciendo si construir o no, ¿verdad?"
+    },
+    "XQwGDQ": {
+        "en-US": "Must be. What else could it be?",
+        "pt-BR": "Deve ser essa mesma. Que outra seria?",
+        "es-ES": "Supongo. ¿Qué otra podría ser?"
+    },
+    "XgwGDQ": {
+        "en-US": "[Old Man]\nI thought we explained it clearly enough back then. There’s no need to build a clinic, and it should not be built.",
+        "pt-BR": "[Ancião]\nNaquela vez parece que explicamos tudo de um jeito bem claro. Não há necessidade de construir clínica nenhuma, e também não deve ser construída.",
+        "es-ES": "[Anciano]\nCreo que ya se lo explicamos muy claramente en su momento. No hace falta construir una clínica, y tampoco deben construirla."
+    },
+    "XwwGDQ": {
+        "en-US": "[Old Man]\nThe treatment we have now is enough, and it can be done in the places that already exist just like now. Why build a new building for it, and in an immigrant style at that?",
+        "pt-BR": "[Ancião]\nO tratamento que fazemos agora já é suficiente, e já pode ser feito nos lugares que existem. Para que levantar um prédio novo, ainda por cima no estilo dos imigrantes?",
+        "es-ES": "[Anciano]\nCon lo que hacemos ahora para tratar a la gente ya es suficiente, y se puede seguir haciendo en los lugares que ya existen. ¿Para qué construir un edificio nuevo, y encima al estilo de los inmigrantes?"
+    },
+    "YAwGDQ": {
+        "en-US": "[Old Man]\nDon’t we all live just fine without that sort of thing?",
+        "pt-BR": "[Ancião]\nSerá que todos nós já não vivemos bem assim, sem isso?",
+        "es-ES": "[Anciano]\n¿Acaso no vivimos todos perfectamente bien así?"
+    },
+    "YQwGDQ": {
+        "en-US": "Medical facilities are important.",
+        "pt-BR": "Instalações médicas são importantes.",
+        "es-ES": "Porque las instalaciones médicas son importantes."
+    },
+    "YgwGDQ": {
+        "en-US": "[Old Man]\nWhat, what? Then are you saying we’re like this because we don’t think they’re important? Are we lacking?",
+        "pt-BR": "[Ancião]\nO quê? Então quer dizer que estamos assim porque não consideramos isso importante? Está dizendo que somos insuficientes?",
+        "es-ES": "[Anciano]\n¿Pero qué? ¿Está diciendo que nosotros no pensamos que sean importantes? ¿Que somos insuficientes?"
+    },
+    "YwwGDQ": {
+        "en-US": "We are not being spiteful for no reason.",
+        "pt-BR": "Nós não estamos fazendo isso por maldade nem sem motivo.",
+        "es-ES": "No es que estemos siendo maliciosos sin motivo."
+    },
+    "ZAwGDQ": {
+        "en-US": "[Old Man]\nWe know those things are good too. Convenient, and how nice they are. But that’s exactly why we mustn’t get used to them.",
+        "pt-BR": "[Ancião]\nNós também sabemos que isso é bom. É confortável, claro que é ótimo. Mas o problema é justamente se acostumar com isso.",
+        "es-ES": "[Anciano]\nNosotros también sabemos que esas cosas son buenas. Son cómodas y están muy bien. Pero no podemos acostumbrarnos a ellas, por eso es así."
+    },
+    "ZQwGDQ": {
+        "en-US": "[Old Man]\nIf we become accustomed to the immigrants’ way of life, then in the end we’ll soak into it, and later we’ll no longer be able to live without that convenience.",
+        "pt-BR": "[Ancião]\nSe nos acostumarmos com a vida dos imigrantes, acabaremos nos impregnando dela, e então, mais tarde, não conseguiremos mais viver sem essa comodidade.",
+        "es-ES": "[Anciano]\nSi nos acostumbramos a la vida de los inmigrantes, acabaremos empapándonos de ella y más adelante ya no podremos vivir sin esa comodidad."
+    },
+    "ZgwGDQ": {
+        "en-US": "That’s what the ones occupying our land want.",
+        "pt-BR": "É exatamente isso que aqueles que ocupam nossa terra querem.",
+        "es-ES": "Eso es justo lo que quieren quienes ocupan nuestra tierra."
+    },
+    "ZwwGDQ": {
+        "en-US": "[Old Man]\nExactly. What we have now is enough, so we mustn’t lean on it. That would be the same as losing.",
+        "pt-BR": "[Ancião]\nIsso mesmo. O que temos agora já é suficiente, então não podemos nos apoiar nisso. Fazer isso seria o mesmo que perder.",
+        "es-ES": "[Anciano]\nExacto. Con lo que tenemos ahora ya basta, así que no debemos apoyarnos en eso. Eso sí que sería perder."
+    },
+    "aAwGDQ": {
+        "en-US": "But it is a necessary facility.",
+        "pt-BR": "Mas é uma instalação necessária.",
+        "es-ES": "Pero es una instalación necesaria."
+    },
+    "aQwGDQ": {
+        "en-US": "[Old Man]\nWell, what we have had until now has not been insufficient. If it truly had been insufficient, then we could not have survived here for so long.",
+        "pt-BR": "[Ancião]\nOra, até agora não nos faltou nada. Se realmente faltasse, não teríamos sobrevivido aqui por tanto tempo.",
+        "es-ES": "[Anciano]\nPues verá, hasta ahora no nos ha faltado. Si realmente hubiera faltado, no habríamos sobrevivido aquí durante tanto tiempo."
+    },
+    "agwGDQ": {
+        "en-US": "[Old Man]\nAnyway, that’s how it is. Even after we explained it nicely, you still don’t understand.",
+        "pt-BR": "[Ancião]\nEnfim, é isso. Eu lhe falei numa boa, e mesmo assim você não entendeu.",
+        "es-ES": "[Anciano]\nEn fin, ya sabe cómo es. Aunque se lo hemos dicho de buenas maneras, sigue sin entenderlo."
+    },
+    "awwGDQ": {
+        "en-US": "[Old Man]\nIf you’re going to live here from now on, it would be better for you to forget all about the life you had over there as soon as possible.",
+        "pt-BR": "[Ancião]\nSe você vai viver aqui de agora em diante, é melhor esquecer o mais rápido possível toda a vida que tinha lá.",
+        "es-ES": "[Anciano]\nSi también va a vivir aquí a partir de ahora, será mejor que olvide cuanto antes la vida de allí."
+    },
+    "bAwGDQ": {
+        "en-US": "[Old Man]\nThe faster you adapt to life here, the better people seem to live.",
+        "pt-BR": "[Ancião]\nQuanto mais rápido se adaptar à vida daqui, melhor as pessoas vivem.",
+        "es-ES": "[Anciano]\nCuanto antes se adaptan a la vida de aquí, mejor les va."
+    },
+    "bQwGDQ": {
+        "en-US": "I’m... not from here...",
+        "pt-BR": "Mas eu... não sou daqui...",
+        "es-ES": "Yo... no soy de aquí..."
+    },
+    "bgwGDQ": {
+        "en-US": "[Old Man]\nWhat? You’re not even from here? Then by what right does an outsider interfere like this?",
+        "pt-BR": "[Ancião]\nO quê? Então você nem sequer é daqui? Com que autoridade um forasteiro se mete assim?",
+        "es-ES": "[Anciano]\n¿Qué? ¿Ni siquiera es de aquí? ¿Con qué derecho se entromete tanto alguien de fuera?"
+    },
+    "bwwGDQ": {
+        "en-US": "[Old Man]\nCalm down. That can happen. They’re someone who helped the children, so don’t get angry.",
+        "pt-BR": "[Ancião]\nAcalme-se. Isso pode acontecer. Foi alguém que ajudou as crianças, então não fique zangado.",
+        "es-ES": "[Anciano]\nTranquilícese. Puede pasar. Es alguien que ayudó a los chicos, así que no se enfade."
+    },
+    "cAwGDQ": {
+        "en-US": "[Old Man]\nAs for the clinic matter, we’ll go speak once more later to <NAVI>[that one]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>, so it would be best if an outsider stays out of this.",
+        "pt-BR": "[Ancião]\nQuanto à clínica, nós mesmos vamos novamente conversar com <NAVI>[aquele ali]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>, então é melhor que o forasteiro fique fora disso.",
+        "es-ES": "[Anciano]\nSobre lo de la clínica, más adelante iremos nosotros mismos a hablar una vez más con <NAVI>[ese muchacho]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>, así que será mejor que el forastero se mantenga al margen de este asunto."
+    },
+    "cQwGDQ": {
+        "en-US": "[Old Man]\nThere will be many things to worry about from now on.",
+        "pt-BR": "[Ancião]\nDaqui para frente haverá muitas outras coisas com que nos preocupar.",
+        "es-ES": "[Anciano]\nA partir de ahora habrá muchas cosas de las que ocuparse."
+    },
+    "cgwGDQ": {
+        "en-US": "[Old Man]\nI should go see the newcomers.",
+        "pt-BR": "[Ancião]\nVou ter que ir falar com os recém-chegados.",
+        "es-ES": "[Anciano]\nTendré que ir a ver a los recién llegados."
+    },
+    "cwwGDQ": {
+        "en-US": "[Old Man]\nWhat? Do you need something?",
+        "pt-BR": "[Ancião]\nO quê? Está precisando de alguma coisa?",
+        "es-ES": "[Anciano]\n¿Qué? ¿Necesita algo?"
+    },
+    "dAwGDQ": {
+        "en-US": "[Old Man]\nTell them to think it over again. We are not living like this for no reason.",
+        "pt-BR": "[Ancião]\nDiga para pensarem de novo. Não é à toa que vivemos assim.",
+        "es-ES": "[Anciano]\nDígale que lo piense otra vez. No vivimos así porque sí."
+    },
+    "dQwGDQ": {
+        "en-US": "[Old Man]\nGoodness... it really does make me think again.. it does.",
+        "pt-BR": "[Ancião]\nPuxa... isso realmente me fez repensar algumas coisas...",
+        "es-ES": "[Anciano]\nYo, la verdad... esto me hace replantearme cosas..."
+    },
+    "dgwGDQ": {
+        "en-US": "[Old Man]\nIf life brings you difficulties, say so.",
+        "pt-BR": "[Ancião]\nSe tiver dificuldades na vida, diga.",
+        "es-ES": "[Anciano]\nSi tiene dificultades en la vida, dígalo."
+    },
+    "dwwGDQ": {
+        "en-US": "[Old Man]\nI’m a bit busy right now, so it would be better if you came back later.",
+        "pt-BR": "[Ancião]\nAgora estou um pouco ocupado, então seria melhor voltar mais tarde.",
+        "es-ES": "[Anciano]\nAhora estoy un poco ocupado, así que sería mejor que volviera más tarde."
+    },
+    "eAwGDQ": {
+        "en-US": "[Old Man]\nYou’re not the first person who wanted to change this place. Things are sufficient as they are now.",
+        "pt-BR": "[Ancião]\nVocê não é o primeiro a querer mudar este lugar. O que temos agora já é suficiente.",
+        "es-ES": "[Anciano]\nNo es la primera vez que alguien dice que quiere cambiar esto. Con lo de ahora ya es suficiente."
+    },
+    "eQwGDQ": {
+        "en-US": "[Old Man]\nWhat, they say they need something? I suppose I should go again later and see.",
+        "pt-BR": "[Ancião]\nO quê, então precisam de alguma coisa? Vou ter que passar lá de novo mais tarde.",
+        "es-ES": "[Anciano]\n¿Qué? ¿Que necesita algo? Tendré que pasar otra vez más adelante."
+    },
+    "egwGDQ": {
+        "en-US": "[Old Man]\nIs there something you’re curious about?",
+        "pt-BR": "[Ancião]\nTem alguma dúvida?",
+        "es-ES": "[Anciano]\n¿Tiene alguna duda?"
+    },
+    "ewwGDQ": {
+        "en-US": "Sarana",
+        "pt-BR": "Sarana",
+        "es-ES": "Sarana"
+    },
+    "fAwGDQ": {
+        "en-US": "[Sarana]\nHere we mostly plant corn and beans.\nThey grow well even if you just plant them however you like. You only need to fertilize them properly.",
+        "pt-BR": "[Sarana]\nAqui, geralmente plantamos milho e feijão.\nCrescem bem mesmo se plantar sem muito cuidado. Basta adubar direito.",
+        "es-ES": "[Sarana]\nAquí solemos plantar maíz o judías.\nCrecen bien aunque los plantes sin más. Basta con abonar bien."
+    },
+    "fQwGDQ": {
+        "en-US": "[Sarana]\nPotatoes grow steadily well too. But other than that...\nHa... I want to eat food made with flour.",
+        "pt-BR": "[Sarana]\nBatatas também crescem sempre bem. Mas, fora isso...\nah... eu queria comer alguma coisa feita com farinha.",
+        "es-ES": "[Sarana]\nLas patatas también crecen bien de forma constante. Pero aparte de eso...\nAy... quiero comer algo hecho con harina."
+    },
+    "fgwGDQ": {
+        "en-US": "Village Child",
+        "pt-BR": "Criança da aldeia",
+        "es-ES": "Niño del pueblo"
+    },
+    "fwwGDQ": {
+        "en-US": "[Village Child]\nI hid the grown-ups’ potatoes in that fire. They said it’s a sacred fire and not to touch it carelessly, but what do I care. They’ll become sacred roasted potatoes!\nOnce they’re done, I’m going to take them out and eat them! Hee hee hee!!",
+        "pt-BR": "[Criança da aldeia]\nEscondi as batatas dos adultos dentro daquele fogo. Disseram que não era para mexer à toa porque era um fogo sagrado, mas e daí? Vão virar umas belas batatas assadas sagradas!\nQuando estiverem prontas, vou tirar para comer! Hihihi!!",
+        "es-ES": "[Niño del pueblo]\nHe escondido las patatas de los mayores en ese fuego. Dijeron que no tocara el fuego sagrado a la ligera, ¡pero qué más me da! ¡Se convertirán en patatas asadas sagradas!\n¡Cuando estén bien hechas, las sacaré y me las comeré! ¡Je, je, je!!"
+    },
+    "gAwGDQ": {
+        "en-US": "Oha",
+        "pt-BR": "Oha",
+        "es-ES": "Oha"
+    },
+    "gQwGDQ": {
+        "en-US": "[Oha]\nWill this make 35 servings? No matter how often I cook, I can never get the quantity right.",
+        "pt-BR": "[Oha]\nSerá que isso vai dar para 35 porções? Não importa quantas vezes eu cozinhe, nunca consigo acertar a quantidade.",
+        "es-ES": "[Oha]\n¿Con esto alcanzará para 35 raciones? Por más que cocine, nunca consigo ajustar la cantidad."
+    },
+    "ggwGDQ": {
+        "en-US": "Zen",
+        "pt-BR": "Zen",
+        "es-ES": "Zen"
+    },
+    "gwwGDQ": {
+        "en-US": "[Zen]\nPlease watch over us so that the Primal Fire does not swallow this village and the forest...```",
+        "pt-BR": "[Zen]\nQue o fogo ancestral jamais devore esta aldeia e esta floresta, e que continue a protegê-las...```",
+        "es-ES": "[Zen]\nQue el fuego primigenio no devore este pueblo ni el bosque, y que simplemente los proteja bien..."
+    }
+}

@@ -1,728 +1,607 @@
 {
     "4D0qAw": {
-        "ko-KR": "청년",
-        "en-US": "Youth",
-        "pt-BR": "Jovem",
-        "es-ES": "Joven"
+        "en-US": "Young Man",
+        "pt-BR": "Homem Jovem",
+        "es-ES": "Joven Hombre"
     },
     "4T0qAw": {
-        "ko-KR": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
-        "en-US": "- You are carrying too many items to proceed. -",
-        "pt-BR": "- Você possui muitos itens e não pode prosseguir. -",
-        "es-ES": "- No puedes continuar porque llevas demasiados objetos. -"
+        "en-US": "- You have too many items in your possession. Cannot proceed. -",
+        "pt-BR": "- Você está com muitos itens. Não pode prosseguir. -",
+        "es-ES": "- Tienes demasiados objetos. No puedes continuar. -"
     },
     "4j0qAw": {
-        "ko-KR": "[소심한 청년]\n히이이익-!\n가..가까이 오지마!\n난 당신들이 싫어어어어!!!!!",
-        "en-US": "[Timid Youth]\nEeeek-!\nD-Don't come near me!\nI hate all of you!!!!!",
-        "pt-BR": "[Jovem tímido]\nHiiiiik-!\nN-não chegue perto!\nEu odeio vocês!!!!",
-        "es-ES": "[Joven tímido]\n¡Hiiiii!\n¡No... no te acerques!\n¡¡¡¡¡Os odio a todos!!!!!"
+        "en-US": "[Timid Young Man]\nHiiieek-!\nD..don't come near me!\nI hate you all!!!!!",
+        "pt-BR": "[Jovem Tímido]\nHiiieek-!\nN..não se aproxime de mim!\nEu odeio todos vocês!!!!!",
+        "es-ES": "[Joven Tímido]\n¡Hiiieek-!\n¡N..no te acerques a mí!\n¡¡¡Los odio a todos!!!!!"
     },
     "4z0qAw": {
-        "ko-KR": "왜? 왜 싫은데?!!",
-        "en-US": "Why? Why do you hate us?!!",
-        "pt-BR": "Por quê? Por que odeia?!!",
+        "en-US": "Why? Why do you hate us?!",
+        "pt-BR": "Por que? Por que você nos odeia?!",
         "es-ES": "¿Por qué? ¡¿Por qué nos odias?!"
     },
     "5D0qAw": {
-        "ko-KR": "일단 진정시키자.",
-        "en-US": "Calm him down first.",
+        "en-US": "Let's calm him down first.",
         "pt-BR": "Vamos acalmá-lo primeiro.",
-        "es-ES": "Primero intentemos calmarlo."
+        "es-ES": "Vamos a calmarlo primero."
     },
     "5T0qAw": {
-        "ko-KR": "[소심한 청년]\n히이이이익!!\n나.. 나한테 무슨 짓을 하려는거야?!\n그래! 전에도 그랬어!\n친근하게 다가와서는!!!!!",
-        "en-US": "[Timid Youth]\nEeeeeek!!\nWh-What are you going to do to me?!\nThat's right! It was like that before, too!\nYou approached me all friendly!!!!!",
-        "pt-BR": "[Jovem tímido]\nHiiiiiiik!!\nO-o que você pretende fazer comigo?!\nIsso! Foi assim antes também!\nAproximaram-se de forma amigável e!!!!!",
-        "es-ES": "[Joven tímido]\n¡¡Hiiiii!!\n¿Q... qué pretendes hacerme?!\n¡Sí! ¡Antes también fue así!\n¡¡¡¡¡Se acercó fingiendo amabilidad!!!!!"
+        "en-US": "[Timid Young Man]\nHiiieeek!!\nWh..what are you trying to do to me?!\nYes! That's how it was before too!\nThey come close acting friendly, then!!!!!",
+        "pt-BR": "[Jovem Tímido]\nHiiieeek!!\nO..o que você está tentando fazer comigo?!\nSim! Foi assim da última vez também!\nEles se aproximam agindo de forma amigável, então!!!!!",
+        "es-ES": "[Joven Tímido]\n¡¡Hiiieeek!!\n¡¿Q..qué estás tratando de hacerme?!\n¡Sí! ¡Así fue la última vez también!\n¡Se acercan actuando de manera amistosa, y luego!!!!!"
     },
     "5j0qAw": {
-        "ko-KR": "[{0}]\n다가와서 무슨 짓을 했는데요?\n등짝이라도 보여달라고 하던가요?",
-        "en-US": "[{0}]\nWhat did they do after approaching you?\nDid they ask you to show them your back or something?",
-        "pt-BR": "[{0}]\nE o que fizeram depois de se aproximar?\nPediram para você mostrar as costas?",
-        "es-ES": "[{0}]\n¿Y qué hizo al acercarse?\n¿Le pidió que le mostrara la espalda o algo así?"
+        "en-US": "[{0}]\nAnd what did they do after coming close?\nDid they ask to see your back or something?",
+        "pt-BR": "[{0}]\nE o que eles fizeram depois de se aproximar?\nPerguntaram se podiam ver suas costas ou algo assim?",
+        "es-ES": "[{0}]\n¿Y qué hicieron después de acercarse?\n¿Preguntaron si podían ver tu espalda o algo así?"
     },
     "5z0qAw": {
-        "ko-KR": "[소심한 청년]\n그래! 그거야!\n난 네녀석들의 그 되지도 않는 농담과 시시껄렁한 소리들이 싫다고!!!!!\n저리가! 떨어져!",
-        "en-US": "[Timid Youth]\nYes! That's it!\nI hate those worthless jokes and silly nonsense of yours!!!!!\nGo away! Stay back!",
-        "pt-BR": "[Jovem tímido]\nIsso! Foi isso!\nEu odeio as piadas sem graça e as conversas idiotas de vocês!!!!!\nSaia daqui! Afaste-se!",
-        "es-ES": "[Joven tímido]\n¡Sí! ¡Eso fue!\n¡¡¡¡¡Odio vuestras bromas absurdas y vuestras tonterías!!!!!\n¡Lárgate! ¡Aléjate!"
+        "en-US": "[Timid Young Man]\nYes! That's it!\nI hate you guys' lousy jokes and boring small talk!!!!!\nGo away! Get lost!",
+        "pt-BR": "[Jovem Tímido]\nSim! É isso!\nEu odeio as piadas de mau gosto e a conversa fiada de vocês!!!!!\nVá embora! Suma!",
+        "es-ES": "[Joven Tímido]\n¡Sí! ¡Eso es!\n¡¡¡Odio sus bromas de mal gusto y su charla aburrida!!!!!\n¡Vete! ¡Lárgate!"
     },
     "6D0qAw": {
-        "ko-KR": "음료수라도 한 잔 건넨다.",
-        "en-US": "Offer him a drink.",
+        "en-US": "Offer a drink.",
         "pt-BR": "Oferecer uma bebida.",
-        "es-ES": "Ofrecerle una bebida."
+        "es-ES": "Ofrecer una bebida."
     },
     "6T0qAw": {
-        "ko-KR": "어깨를 다독인다.",
-        "en-US": "Pat him on the shoulder.",
-        "pt-BR": "Dar tapinhas no ombro.",
-        "es-ES": "Darle unas palmaditas en el hombro."
+        "en-US": "Pat his shoulder.",
+        "pt-BR": "Dar um tapinha no ombro dele.",
+        "es-ES": "Darle una palmada en el hombro."
     },
     "6j0qAw": {
-        "ko-KR": "[소심한 청년]\n오오오오오-!!! 이건 내가 좋아하는 트로피칼 소그라트가 아닌가!\n고맙게 잘 먹겠.......흐억?!\n설마 이걸로 내 긴장을 풀어놓고 또 그걸 쓸 셈인가?!!!",
-        "en-US": "[Timid Youth]\nOoooooh-!!! Isn't this my favorite Tropical Sograt!\nThank you, I'll drink it....... Hrk?!\nDon't tell me you're going to use this to make me relax, then use that again?!!!",
-        "pt-BR": "[Jovem tímido]\nOoooooh-!!! Isto não é Sograt Tropical, de que eu gosto?\nVou beber com gratid....... hã?!\nNão me diga que pretende me relaxar com isto e usar aquilo de novo?!!!",
-        "es-ES": "[Joven tímido]\n¡¡¡Ooooooh!!! ¿No es este mi querido Sograt tropical?\nMuchas gracias, me lo tomaré con gusto... ¿¡Ugh?!\n¿Acaso piensas relajarme con esto para usar eso otra vez?!!!"
+        "en-US": "[Timid Young Man]\nOoooh-!!! Isn't this my favorite Tropical Sograt!\nThank you, I'll enjoy it.......Heok?!\nAre you planning to use this to calm me down and then use that again?!!!",
+        "pt-BR": "[Jovem Tímido]\nOoooh-!!! Não é meu Tropical Sograt favorito!\nObrigado, vou apreciá-lo.......Heok?!\nVocê está planejando usar isso para me acalmar e depois usar aquilo de novo?!!!",
+        "es-ES": "[Joven Tímido]\n¡Ooooh-!!! ¡¿No es mi Tropical Sograt favorito?!\nGracias, lo disfrutaré.......¡¿Heok?!\n¡¿Estás planeando usar esto para calmarme y luego usar eso de nuevo?!!!"
     },
     "6z0qAw": {
-        "ko-KR": "[소심한 청년]\n당장꺼지지 못해?!!!",
-        "en-US": "[Timid Youth]\nGet out of here right now?!!!",
-        "pt-BR": "[Jovem tímido]\nNão vai sair daqui agora?!!!",
-        "es-ES": "[Joven tímido]\n¡¡¡Lárgate ahora mismo!!!"
+        "en-US": "[Timid Young Man]\nCan't you just get lost right now?!!!",
+        "pt-BR": "[Jovem Tímido]\nVocê não pode simplesmente sumir agora?!!!",
+        "es-ES": "[Joven Tímido]\n¡¿No puedes simplemente largarte ahora?!!!"
     },
     "7D0qAw": {
-        "ko-KR": "[소심한 청년]\n오오오오오-!!! 이건 내가 좋아하는 트로피칼 소그라트가 아닌가!\n응? 자네는 전에도.....나한테 음료수를 사 준 젊은이로군.\n.......혹시 전에 내가 말했던 그걸 배우러 다니는건 아니겠지?",
-        "en-US": "[Timid Youth]\nOoooooh-!!! Isn't this my favorite Tropical Sograt!\nHm? You're the young one who bought me a drink before.....\n.......You're not going around trying to learn that thing I mentioned before, are you?",
-        "pt-BR": "[Jovem tímido]\nOoooooh-!!! Isto não é Sograt Tropical, de que eu gosto?\nHã? Você é o jovem que já...\ncomprou uma bebida para mim antes.\n.......Por acaso não está andando por aí para aprender aquilo de que falei antes, está?",
-        "es-ES": "[Joven tímido]\n¡¡¡Ooooooh!!! ¿No es este mi querido Sograt tropical?\n¿Eh? Tú eres... el joven que me compró una bebida antes.\n.......¿No estarás yendo por ahí aprendiendo aquello de lo que hablé, verdad?"
+        "en-US": "[Timid Young Man]\nOoooh-!!! Isn't this my favorite Tropical Sograt!\nHuh? You are... the young man who bought me a drink before.\n.......By any chance, are you here to learn that thing I mentioned last time?",
+        "pt-BR": "[Jovem Tímido]\nOoooh-!!! Não é meu Tropical Sograt favorito!\nHuh? Você é... o jovem que me comprou uma bebida antes.\n.......Por acaso, você está aqui para aprender aquela coisa que mencionei da última vez?",
+        "es-ES": "[Joven Tímido]\n¡Ooooh-!!! ¡¿No es mi Tropical Sograt favorito?!\n¿Eh? Tú eres... el joven que me compró una bebida antes.\n.......¿Por casualidad, estás aquí para aprender esa cosa que mencioné la última vez?"
     },
     "7T0qAw": {
-        "ko-KR": "[{0}]\n하핫-! 설마요~",
-        "en-US": "[{0}]\nHaha-! Of course not~",
-        "pt-BR": "[{0}]\nHahá-! Claro que não~",
-        "es-ES": "[{0}]\n¡Ja, ja! ¡Claro que no~!"
+        "en-US": "[{0}]\nHaha-! No way~",
+        "pt-BR": "[{0}]\nHaha-! Claro que não~",
+        "es-ES": "[{0}]\nJaja-! ¡Claro que no~"
     },
     "7j0qAw": {
-        "ko-KR": "[소심한 청년]\n오오오오오-!!! 이건 내가 좋아하는 트로피칼 소그라트가 아닌가!\n후아아아......\n.....이런걸 가져오다니, 나한테 바라는게 뭔가?",
-        "en-US": "[Timid Youth]\nOoooooh-!!! Isn't this my favorite Tropical Sograt!\nHuaaaah......\n.....Bringing me something like this, what do you want from me?",
-        "pt-BR": "[Jovem tímido]\nOoooooh-!!! Isto não é Sograt Tropical, de que eu gosto?\nUaaah......\n.....Trazer algo assim... o que você quer de mim?",
-        "es-ES": "[Joven tímido]\n¡¡¡Ooooooh!!! ¿No es este mi querido Sograt tropical?\nUaaah......\n.....Traerme algo así... ¿qué quieres de mí?"
+        "en-US": "[Timid Young Man]\nOoooh-!!! Isn't this my favorite Tropical Sograt!\nHwaaa......\n.....bringing me something like this, what do you want from me?",
+        "pt-BR": "[Jovem Tímido]\nOoooh-!!! Não é meu Tropical Sograt favorito!\nHwaaa......\n.....trazendo algo assim para mim, o que você quer de mim?",
+        "es-ES": "[Joven Tímido]\n¡Ooooh-!!! ¡¿No es mi Tropical Sograt favorito?!\nJuaaa......\n.....trayéndome algo así, ¿qué quieres de mí?"
     },
     "7z0qAw": {
-        "ko-KR": "무슨짓을 당하셨어요?",
-        "en-US": "What did they do to you?",
-        "pt-BR": "O que fizeram com você?",
-        "es-ES": "¿Qué le hicieron?"
+        "en-US": "What happened to you?",
+        "pt-BR": "O que aconteceu com você?",
+        "es-ES": "¿Qué te pasó?"
     },
     "8D0qAw": {
-        "ko-KR": "그냥 불안해보여서..",
-        "en-US": "You just looked nervous..",
-        "pt-BR": "Você parecia apenas ansioso...",
-        "es-ES": "Solo parecía nervioso..."
+        "en-US": "You just looked anxious..",
+        "pt-BR": "Você parecia ansioso..",
+        "es-ES": "Parecías ansioso..."
     },
     "8T0qAw": {
-        "ko-KR": "[소심한 청년]\n그건.....\n아주 예전에 움발라를 여행할 때의 일이었어.\n움발라의 샤먼에게 뭔가를 수업중이라던 음유시인을 만났었지.",
-        "en-US": "[Timid Youth]\nThat was.....\nsomething that happened long ago when I was traveling through Umbala.\nI met a bard who said he was learning something from a shaman in Umbala.",
-        "pt-BR": "[Jovem tímido]\nIsso foi.....\nalgo que aconteceu há muito tempo, quando eu viajava por Umbala.\nEncontrei um menestrel que dizia estar recebendo algum tipo de aula com um xamã de Umbala.",
-        "es-ES": "[Joven tímido]\nEso fue.....\nHace mucho tiempo, cuando viajaba por Umbala.\nConocí a un bardo que decía estar aprendiendo algo de un chamán de Umbala."
+        "en-US": "[Timid Young Man]\nThat was.....\na long time ago when I was traveling in Umbala.\nI met a bard who was taking lessons from a shaman in Umbala.",
+        "pt-BR": "[Jovem Tímido]\nIsso foi.....\nhá muito tempo, quando eu estava viajando em Umbala.\nConheci um bardo que estava recebendo lições de um xamã em Umbala.",
+        "es-ES": "[Joven Tímido]\nEso fue.....\nhace mucho tiempo, cuando estaba viajando en Umbala.\nConocí a un bardo que estaba recibiendo lecciones de un chamán en Umbala."
     },
     "8j0qAw": {
-        "ko-KR": "[소심한 청년]\n그리고 난 끔찍한 경험을 하게 되었지.\n움발라에 가면 왜 그거 있지 않나? 높은 곳......",
-        "en-US": "[Timid Youth]\nAnd then I had a terrible experience.\nYou know that thing in Umbala, don't you? The high place......",
-        "pt-BR": "[Jovem tímido]\nE então tive uma experiência terrível.\nQuando se vai a Umbala, sabe aquilo que tem lá? Um lugar alto......",
-        "es-ES": "[Joven tímido]\nY entonces tuve una experiencia terrible.\nCuando vas a Umbala, ya sabes eso que hay, ¿no? Un lugar alto......"
+        "en-US": "[Timid Young Man]\nAnd then I had a terrible experience.\nWhen you go to Umbala, you know that thing? The high place......",
+        "pt-BR": "[Jovem Tímido]\nE então tive uma experiência terrível.\nQuando você vai para Umbala, você conhece aquela coisa? O lugar alto......",
+        "es-ES": "[Joven Tímido]\nY luego tuve una experiencia terrible.\nCuando vas a Umbala, ¿conoces esa cosa? El lugar alto......"
     },
     "8z0qAw": {
-        "ko-KR": "[{0}]\n번지점프.. 말이군요.\n높은 곳 싫어하세요?",
-        "en-US": "[{0}]\nYou mean... bungee jumping.\nDo you dislike high places?",
-        "pt-BR": "[{0}]\nBungee jump... é disso que está falando.\nVocê não gosta de lugares altos?",
-        "es-ES": "[{0}]\nBungee jumping... se refiere.\n¿No le gustan los lugares altos?"
+        "en-US": "[{0}]\nBungee jumping.. you mean.\nYou dislike high places?",
+        "pt-BR": "[{0}]\nBungee jumping.. você quer dizer.\nVocê não gosta de lugares altos?",
+        "es-ES": "[{0}]\nBungee jumping... quieres decir.\n¿No te gustan los lugares altos?"
     },
     "9D0qAw": {
-        "ko-KR": "[소심한 청년]\n싫어! 충분히! 그런데 그 녀석 어느날 담력을 시험해 보지 않겠느냐며...",
-        "en-US": "[Timid Youth]\nI hate them! Very much! But one day, that fellow asked me if I wanted to test my courage...",
-        "pt-BR": "[Jovem tímido]\nOdeio! Muito! Mas certo dia aquele sujeito perguntou se eu não queria testar minha coragem...",
-        "es-ES": "[Joven tímido]\n¡No! ¡Para nada! Y aun así, un día ese tipo dijo que si quería poner a prueba mi valor..."
+        "en-US": "[Timid Young Man]\nI hate it! More than enough! But that guy one day asked if I wanted to test my courage...",
+        "pt-BR": "[Jovem Tímido]\nEu odeio! Mais do que suficiente! Mas aquele cara um dia perguntou se eu queria testar minha coragem...",
+        "es-ES": "[Joven Tímido]\n¡Lo odio! ¡Más que suficiente! Pero ese tipo un día preguntó si quería probar mi coraje..."
     },
     "9T0qAw": {
-        "ko-KR": "[{0}]\n왜요? 뒤에서 떠밀기라도 했나요?",
-        "en-US": "[{0}]\nWhy? Did he push you from behind or something?",
+        "en-US": "[{0}]\nWhy? Did he push you from behind?",
         "pt-BR": "[{0}]\nPor quê? Ele o empurrou por trás?",
-        "es-ES": "[{0}]\n¿Por qué? ¿Lo empujó por detrás?"
+        "es-ES": "[{0}]\n¿Por qué? ¿Te empujó por detrás?"
     },
     "9j0qAw": {
-        "ko-KR": "[소심한 청년]\n그게 아니야!\n그 녀석이 날 노려보며 뭐라고 중얼중얼 거리자 내 몸이 의지와는 상관없이\n움직이기 시작했다구!!!",
-        "en-US": "[Timid Youth]\nThat's not it!\nWhen that fellow stared at me and started muttering something, my body began moving against my will!!!",
-        "pt-BR": "[Jovem tímido]\nNão foi isso!\nQuando aquele sujeito me encarou e começou a murmurar algo, meu corpo começou a se mover contra a minha vontade!!!",
-        "es-ES": "[Joven tímido]\n¡No fue eso!\n¡Ese tipo me miró fijamente y empezó a murmurar algo, y mi cuerpo empezó a moverse contra mi voluntad!"
+        "en-US": "[Timid Young Man}\nThat's not it!\nThat guy stared at me and started mumbling something, and then my body started moving against my will!!!",
+        "pt-BR": "[Jovem Tímido}\nNão foi isso!\nAquele cara ficou me encarando e começou a murmurar algo, e então meu corpo começou a se mover contra a minha vontade!!!",
+        "es-ES": "[Joven Tímido}\n¡No fue eso!\n¡Ese tipo se me quedó mirando y comenzó a murmurar algo, y luego mi cuerpo comenzó a moverse contra mi voluntad!!!"
     },
     "9z0qAw": {
-        "ko-KR": "[소심한 청년]\n높은곳에서 멀어지려고 발버둥치면 칠수록 내 몸은 여기저기\n제 멋대로 이동했지..\n그리고......",
-        "en-US": "[Timid Youth]\nThe more I struggled to get away from the high place, the more my body moved here and there\non its own..\nAnd then......",
-        "pt-BR": "[Jovem tímido]\nQuanto mais eu me debatia tentando me afastar do lugar alto, mais meu corpo se movia\npara todos os lados por conta própria...\nE então......",
-        "es-ES": "[Joven tímido]\nCuanto más luchaba por alejarme de aquel lugar alto,\nmás se movía mi cuerpo por su cuenta de un lado a otro...\nY entonces......"
+        "en-US": "[Timid Young Man]\nThe more I struggled to get away from the high place,\nthe more my body moved around on its own..\nAnd then......",
+        "pt-BR": "[Jovem Tímido]\nQuanto mais eu lutava para me afastar do lugar alto,\nmais meu corpo se movia sozinho..\nE então......",
+        "es-ES": "[Joven Tímido]\nCuanto más luchaba por alejarme del lugar alto,\nmás se movía mi cuerpo por sí solo...\nY entonces......"
     },
     "+D0qAw": {
-        "ko-KR": "[{0}]\n뛰어내리셨군요.......\n하핫.",
         "en-US": "[{0}]\nYou jumped down.......\nHaha.",
-        "pt-BR": "[{0}]\nVocê pulou.......\nHahá.",
-        "es-ES": "[{0}]\nSaltó......\nJa, ja."
+        "pt-BR": "[{0}]\nVocê pulou.......\nHaha.",
+        "es-ES": "[{0}]\nSaltaste.......\nJaja."
     },
     "+T0qAw": {
-        "ko-KR": "[소심한 청년]\n그렇게 웃을일이 아닐세!\n두 눈 멀쩡히 뜨고, 내 의지와는 상관없이 움직이는 몸뚱이가\n사지로 뛰어는 그 기분!\n겪어보지 않은 자는 몰라.......",
-        "en-US": "[Timid Youth]\nThat's nothing to laugh about!\nWith both eyes wide open, feeling your body move against your will\nand leap into certain death!\nNo one who hasn't experienced it could understand.......",
-        "pt-BR": "[Jovem tímido]\nIsso não é motivo para rir!\nA sensação de ver com os dois olhos bem abertos o próprio corpo,\nmovendo-se contra a vontade,\nsaltar para a morte!\nQuem não passou por isso não sabe.......",
-        "es-ES": "[Joven tímido]\n¡No es algo de lo que reírse!\n¡Esa sensación de tener los ojos bien abiertos mientras tu cuerpo, moviéndose contra tu voluntad,\nse lanza hacia la muerte!\nQuien no lo ha vivido no lo entiende......"
+        "en-US": "[Timid Young Man]\nThat's not something to laugh about!\nWith my own two eyes open, my body moving against my will\njumping into a deadly situation!\nYou wouldn't understand unless you've experienced it.......",
+        "pt-BR": "[Jovem Tímido]\nIsso não é motivo de riso!\nCom meus próprios dois olhos abertos, meu corpo se movendo contra minha vontade\npulando para uma situação mortal!\nVocê não entenderia a menos que tivesse experimentado.......",
+        "es-ES": "[Joven Tímido]\n¡Eso no es motivo de risa!\n¡Con mis propios dos ojos abiertos, mi cuerpo moviéndose contra mi voluntad\nsaltando a una situación mortal!\nNo lo entenderías a menos que lo hubieras experimentado......."
     },
     "+j0qAw": {
-        "ko-KR": "[{0}]\n예. 예.. 그런데 그거 참 신기한 기술이네요?\n아니, 제가 아는 음유시인의 노래 중에 그런건 없는데...",
-        "en-US": "[{0}]\nYes, yes.. But that really is an interesting technique, isn't it?\nNo, I don't know any songs like that among the bards I know...",
-        "pt-BR": "[{0}]\nSim, sim... Mas isso é uma técnica bem curiosa, não?\nQuer dizer, entre as canções de menestrel que conheço, não há nada assim...",
-        "es-ES": "[{0}]\nSí, sí... Pero esa técnica suena muy curiosa, ¿no?\nEs decir, no conozco ninguna canción de bardo que haga algo así..."
+        "en-US": "[{0}]\nYes. Yes.. But that's quite an interesting technique, isn't it?\nNo, I don't know any bard's song like that...",
+        "pt-BR": "[{0}]\nSim. Sim.. Mas essa é uma técnica bastante interessante, não é?\nNão, não conheço nenhuma canção de bardo assim...",
+        "es-ES": "[{0}]\nSí. Sí... Pero esa es una técnica bastante interesante, ¿no?\nNo, no conozco ninguna canción de bardo así..."
     },
     "+z0qAw": {
-        "ko-KR": "[소심한 청년]\n나도 그런걸 쓰는 녀석은 처음봤어!\n중얼중얼 거리는 그 입가에 서린 미소!\n그 놈은 지옥의 사자야. 사자.",
-        "en-US": "[Timid Youth]\nThat was the first time I'd ever seen someone use something like that!\nThat smile on his lips as he muttered away!\nHe's a messenger from hell. A messenger.",
-        "pt-BR": "[Jovem tímido]\nEu também nunca tinha visto alguém usar algo assim!\nAquele sorriso nos lábios enquanto murmurava!\nAquele homem é um mensageiro do inferno. Um mensageiro.",
-        "es-ES": "[Joven tímido]\n¡Yo tampoco había visto nunca a alguien usar algo así!\n¡Aquella sonrisa en la boca mientras murmuraba!\nEse hombre es un mensajero del infierno. Un mensajero."
+        "en-US": "[Timid Young Man}\nI've never seen anyone use anything like that either!\nThe smile on his lips as he mumbled!\nThat guy is a messenger of hell. A messenger.",
+        "pt-BR": "[Jovem Tímido}\nEu também nunca vi ninguém usar algo assim!\nO sorriso em seus lábios enquanto murmurava!\nAquele cara é um mensageiro do inferno. Um mensageiro.",
+        "es-ES": "[Joven Tímido}\n¡Yo tampoco he visto a nadie usar algo así!\n¡La sonrisa en sus labios mientras murmuraba!\nEse tipo es un mensajero del infierno. Un mensajero."
     },
     "/D0qAw": {
-        "ko-KR": "[소심한 청년]\n그나저나 이 음료. 참 고맙네.\n행여나 그 기분나쁜 녀석을 찾을 생각은 말게.",
-        "en-US": "[Timid Youth]\nAnyway, thank you for this drink.\nDon't even think of looking for that unpleasant fellow.",
-        "pt-BR": "[Jovem tímido]\nDe todo modo, obrigado por esta bebida.\nMas nem pense em procurar aquele sujeito desagradável.",
-        "es-ES": "[Joven tímido]\nEn fin, gracias por esta bebida.\nNi se te ocurra buscar a ese tipo desagradable."
+        "en-US": "[Timid Young Man]\nAnyway, thanks for this drink.\nDon't even think about looking for that creepy guy.",
+        "pt-BR": "[Jovem Tímido]\nDe qualquer forma, obrigado por esta bebida.\nNem pense em procurar aquele cara assustador.",
+        "es-ES": "[Joven Tímido]\nDe todas formas, gracias por esta bebida.\nNi siquiera pienses en buscar a ese tipo espeluznante."
     },
     "/T0qAw": {
-        "ko-KR": "굳이 찾을 생각이라면 말리진 않겠지만 어느 구석에 처박혀있는지는 몰라!",
-        "en-US": "I won't stop you if you insist on looking for him, but I don't know what corner he's hiding in!",
-        "pt-BR": "Se você insistir em procurá-lo, não vou impedir, mas não sei em que canto ele se enfiou!",
-        "es-ES": "No te detendré si aun así piensas buscarlo, ¡pero no sé en qué rincón estará metido!"
+        "en-US": "Even if you insist on finding him, I won't stop you, but I don't know which corner he's buried in!",
+        "pt-BR": "Mesmo que você insista em encontrá-lo, não vou impedi-lo, mas não sei em que canto ele está enterrado!",
+        "es-ES": "¡Incluso si insistes en encontrarlo, no te detendré, pero no sé en qué esquina está enterrado!"
     },
     "/j0qAw": {
-        "ko-KR": "게다가, 그 실력으론 배우지도 못할걸?\n적어도 직업레벨이 40이상은 되어야지. 암..",
-        "en-US": "Besides, with your skill, you wouldn't be able to learn it anyway.\nYou need to be at least Job Level 40. Yes..",
-        "pt-BR": "Além disso, com essa habilidade, você nem conseguiria aprender.\nNo mínimo, precisa ter nível de classe 40 ou superior. Sim...",
-        "es-ES": "Además, con tu habilidad, ni siquiera podrías aprenderlo.\nComo mínimo tendrías que tener nivel de oficio 40 o superior. Sí..."
+        "en-US": "Besides, with your skill, you probably couldn't even learn it?\nYou'd need at least Job Level 40 to learn it. Yeah..",
+        "pt-BR": "Além disso, com sua habilidade, você provavelmente nem conseguiria aprender?\nVocê precisaria de pelo menos Nível de Classe 40 para aprender. Sim..",
+        "es-ES": "Además, con tu habilidad, ¿probablemente ni siquiera podrías aprenderlo?\nNecesitarías al menos Nivel de Clase 40 para aprenderlo. Sí..."
     },
     "/z0qAw": {
-        "ko-KR": "[소심한 청년]\n뭐..뭐야? 나한테 뭘 먹이려는거야!!!!\n난 과일이 잔뜩 들어간 게 좋다구!\n하지만....그건 모로크 특산이라서 구하기가 너무 힘들어. 흑흑..",
-        "en-US": "[Timid Youth]\nWh-What? What are you trying to make me eat!!!!\nI like things filled with fruit!\nBut....that's a specialty of Morroc, so it's very hard to get. Sob sob..",
-        "pt-BR": "[Jovem tímido]\nO-o quê? O que está tentando me fazer comer!!!!\nEu gosto de coisas cheias de frutas!\nMas... isso é especialidade de Morroc, então é difícil demais de conseguir. Snif, snif...",
-        "es-ES": "[Joven tímido]\n¿Q... qué? ¡¡¡Qué pretendes hacerme comer!!!!\n¡A mí me gustan las cosas llenas de fruta!\nPero... eso es una especialidad de Morroc, así que es muy difícil de conseguir. Snif, snif..."
+        "en-US": "[Timid Young Man]\nWh..what are you trying to feed me!!!!\nI like ones with lots of fruit!\nBut....that's a Morroc specialty, so it's too hard to get. Hoo hoo..",
+        "pt-BR": "[Jovem Tímido]\nO..o que você está tentando me dar para beber!!!!\nEu gosto daqueles com muitas frutas!\nMas....isso é uma especialidade de Morroc, então é muito difícil de conseguir. Hoo hoo..",
+        "es-ES": "[Joven Tímido]\n¡¡¿Q..qué estás tratando de darme de beber!!!!\n¡Me gustan los que tienen mucha fruta!\nPero... eso es una especialidad de Morroc, así que es muy difícil de conseguir. Joo joo..."
     },
     "AD4qAw": {
-        "ko-KR": "[소심한 청년]\n아니, 그런데 왜 내가 당신과 이야기를 하고 있지?!\n.......\n아앙.....트로피칼 소그라트......마시고 싶다아.......",
-        "en-US": "[Timid Youth]\nNo, wait, why am I even talking to you?!\n.......\nAaah.....Tropical Sograt......I want to drink it.......",
-        "pt-BR": "[Jovem tímido]\nNão, mas por que estou conversando com você?!\n.......\nAaah..... Sograt Tropical...... quero beber.......",
-        "es-ES": "[Joven tímido]\nNo, pero ¿por qué estoy hablando contigo?!\n.......\nAaaah..... Sograt tropical...... quiero beberlo......."
+        "en-US": "[Timid Young Man]\nNo, but why am I talking to you?!\n.......\nAah.....Tropical Sograt.......I want to drink it.......",
+        "pt-BR": "[Jovem Tímido]\nNão, mas por que estou falando com você?!\n.......\nAah.....Tropical Sograt.......Eu quero beber.......",
+        "es-ES": "[Joven Tímido]\n¡No, pero por qué estoy hablando contigo?!\n.......\nAah.....Tropical Sograt.......Quiero beberlo......."
     },
     "AT4qAw": {
-        "ko-KR": "[소심한 청년]\n뭐.. 뭐야?!\n나한테 이번엔 무슨 저주를 걸 셈이야?!",
-        "en-US": "[Timid Youth]\nWh-What?!\nWhat kind of curse are you going to put on me this time?!",
-        "pt-BR": "[Jovem tímido]\nO-o quê?!\nQue maldição você pretende lançar em mim desta vez?!",
-        "es-ES": "[Joven tímido]\n¿Q... qué?!\n¡¿Qué maldición piensas lanzarme esta vez?!"
+        "en-US": "[Timid Young Man]\nWh..what?!\nAre you trying to curse me this time?!",
+        "pt-BR": "[Jovem Tímido]\nO..o quê?!\nVocê está tentando me amaldiçoar desta vez?!",
+        "es-ES": "[Joven Tímido]\n¡¿Q..qué?!\n¡¿Esta vez estás tratando de maldecirme?!"
     },
     "Aj4qAw": {
-        "ko-KR": "....저리 꺼지지 못해?",
-        "en-US": "....Why don't you get lost?",
-        "pt-BR": "....Não pode sair daqui?",
-        "es-ES": "....¿No puedes largarte?"
+        "en-US": "....can't you just get lost?",
+        "pt-BR": "....você não pode simplesmente sumir?",
+        "es-ES": "....¿no puedes simplemente largarte?"
     },
     "Az4qAw": {
-        "ko-KR": "아..아직 넌 그걸 할 줄 모르는구나?\n다행이다아.. 휴우..",
-        "en-US": "Ah... you still don't know how to do that?\nThank goodness.. Phew..",
-        "pt-BR": "Ah... você ainda não sabe fazer aquilo?\nQue alívio... Ufa...",
-        "es-ES": "A... ¿aún no sabes hacer eso?\nQué alivio... uf..."
+        "en-US": "Ah..you don't know how to do that yet, do you?\nThank goodness.. phew..",
+        "pt-BR": "Ah..você não sabe como fazer isso ainda, não é?\nAinda bem.. ufa..",
+        "es-ES": "Ah... no sabes cómo hacer eso todavía, ¿verdad?\nMenos mal... uf..."
     },
     "BD4qAw": {
-        "ko-KR": "[소심한 청년]\n세상은 참 좋아. 그렇지않아?\n바드....들만 빼면 말이지.\n크윽.\n아아. 내가 무슨 소리를 하고 있담.\n하하하...",
-        "en-US": "[Timid Youth]\nThe world is such a fine place, isn't it?\nExcept for Bards.... that is.\nKrrgh.\nAhh. What am I saying?\nHahaha...",
-        "pt-BR": "[Jovem tímido]\nO mundo é mesmo bom. Não acha?\nExceto pelos Bardos... claro.\nUrgh.\nAh. O que estou dizendo?\nHahaha...",
-        "es-ES": "[Joven tímido]\nEl mundo es maravilloso, ¿no crees?\nExcepto por los bardos... claro.\nUgh.\nAh, ¿qué estoy diciendo?\nJa, ja, ja..."
+        "en-US": "[Timid Young Man]\nThe world is a good place, isn't it?\nExcept for bards....\nGrrk.\nAh ah. What am I saying?\nHahaha...",
+        "pt-BR": "[Jovem Tímido]\nO mundo é um bom lugar, não é?\nExceto pelos bardos....\nGrrk.\nAh ah. O que estou dizendo?\nHahaha...",
+        "es-ES": "[Joven Tímido]\nEl mundo es un buen lugar, ¿no es así?\nExcepto por los bardos...\nGrrk.\nAh ah. ¿Qué estoy diciendo?\nJajaja..."
     },
     "BT4qAw": {
-        "ko-KR": "음침한바드",
         "en-US": "Gloomy Bard",
-        "pt-BR": "Bardo sombrio",
-        "es-ES": "Bardo sombrío"
+        "pt-BR": "Bardo Sombrio",
+        "es-ES": "Bardo Sombrío"
     },
     "Bj4qAw": {
-        "ko-KR": "[라이오트]\n....쿡.",
-        "en-US": "[Riot]\n....Kuk.",
-        "pt-BR": "[Riot]\n....Kuk.",
-        "es-ES": "[Riot]\n....Je."
+        "en-US": "[Riot]\n....kek.",
+        "pt-BR": "[Riot]\n....kek.",
+        "es-ES": "[Riot]\n....kek."
     },
     "Bz4qAw": {
-        "ko-KR": "[{0}]\n뭐가 그렇게 재미있어요?",
         "en-US": "[{0}]\nWhat's so funny?",
-        "pt-BR": "[{0}]\nO que é tão divertido?",
-        "es-ES": "[{0}]\n¿Qué te resulta tan divertido?"
+        "pt-BR": "[{0}]\nO que é tão engraçado?",
+        "es-ES": "[{0}]\n¿Qué es tan gracioso?"
     },
     "CD4qAw": {
-        "ko-KR": "[라이오트]",
         "en-US": "[Riot]",
         "pt-BR": "[Riot]",
         "es-ES": "[Riot]"
     },
     "CT4qAw": {
-        "ko-KR": "음? 흑의 인장을 소유한 자군.",
-        "en-US": "Hm? You bear the Black Seal.",
-        "pt-BR": "Hmm? Você possui o selo negro.",
-        "es-ES": "¿Mmm? Posees el sello negro."
+        "en-US": "Huh? One who possesses the Black Seal.",
+        "pt-BR": "Huh? Alguém que possui o Selo Negro.",
+        "es-ES": "¿Eh? Alguien que posee el Sello Negro."
     },
     "Cj4qAw": {
-        "ko-KR": "음? 은의 인장을 소유한 자군.",
-        "en-US": "Hm? You bear the Silver Seal.",
-        "pt-BR": "Hmm? Você possui o selo prateado.",
-        "es-ES": "¿Mmm? Posees el sello plateado."
+        "en-US": "Huh? One who possesses the Silver Seal.",
+        "pt-BR": "Huh? Alguém que possui o Selo Prateado.",
+        "es-ES": "¿Eh? Alguien que posee el Sello Plateado."
     },
     "Cz4qAw": {
-        "ko-KR": "큭.큭.큭.\n저기를 봐.",
-        "en-US": "Kuk. Kuk. Kuk.\nLook over there.",
-        "pt-BR": "Kuk. Kuk. Kuk.\nOlhe para lá.",
-        "es-ES": "Je. Je. Je.\nMira allí."
+        "en-US": "Kuk. kuk. kuk.\nLook over there.",
+        "pt-BR": "Kuk. kuk. kuk.\nOlhe ali.",
+        "es-ES": "Kuk. kuk. kuk.\nMira allí."
     },
     "DD4qAw": {
-        "ko-KR": "- 음유시인이 눈짓으로 가리킨 곳을 보니 두 사람이 술을 나누고 있었다.-",
-        "en-US": "- Looking where the bard gestured with his eyes, two people were sharing drinks.-",
-        "pt-BR": "- Ao olhar para onde o menestrel indicou com os olhos, duas pessoas estavam bebendo juntas. -",
-        "es-ES": "- Al mirar hacia donde el bardo señaló con los ojos, dos personas estaban compartiendo bebida.-"
+        "en-US": "- The bard points with his eyes to two people sharing a drink.-",
+        "pt-BR": "- O bardo aponta com os olhos para duas pessoas compartilhando uma bebida.-",
+        "es-ES": "- El bardo señala con sus ojos a dos personas compartiendo una bebida.-"
     },
     "DT4qAw": {
-        "ko-KR": "[{0}]\n별로 이상한 걸 못 느끼겠는데요?",
         "en-US": "[{0}]\nI don't see anything strange.",
-        "pt-BR": "[{0}]\nNão percebo nada de estranho.",
-        "es-ES": "[{0}]\nNo veo nada especialmente raro."
+        "pt-BR": "[{0}]\nNão vejo nada de estranho.",
+        "es-ES": "[{0}]\nNo veo nada extraño."
     },
     "Dj4qAw": {
-        "ko-KR": "[라이오트]\n가까이 가서 직접 봐.\n큭.큭.큭.",
-        "en-US": "[Riot]\nGo closer and see for yourself.\nKuk. Kuk. Kuk.",
-        "pt-BR": "[Riot]\nChegue perto e veja por si.\nKuk. Kuk. Kuk.",
-        "es-ES": "[Riot]\nAcércate y míralo tú mismo.\nJe. Je. Je."
+        "en-US": "[Riot]\nGo closer and see for yourself.\nKuk. kuk. kuk.",
+        "pt-BR": "[Riot]\nAproxime-se e veja por si mesmo.\nKuk. kuk. kuk.",
+        "es-ES": "[Riot]\nAcércate y velo por ti mismo.\nKuk. kuk. kuk."
     },
     "Dz4qAw": {
-        "ko-KR": "- 음유시인은 그 둘 중 하나를 노려보며 나즈막하게 뭔가를 중얼거리기 시작했다.\n그러자 술을 마시던 사람 중 한 명의 행동이 이상해지기 시작했다.-",
-        "en-US": "- The bard began glaring at one of the two and muttering something under his breath.\nThen one of the drinking men began acting strangely.-",
-        "pt-BR": "- O menestrel começou a encarar um dos dois e a murmurar algo em voz baixa.\nEntão, o comportamento de uma das pessoas que bebia começou a ficar estranho. -",
-        "es-ES": "- El bardo miró fijamente a uno de los dos y empezó a murmurar algo en voz baja.\nEntonces, el comportamiento de una de las personas que bebían empezó a volverse extraño.-"
+        "en-US": "- The bard starts muttering something quietly while staring at one of the two.\nThen one of the drinkers begins to act strangely.-",
+        "pt-BR": "- O bardo começa a murmurar algo baixinho enquanto encara um dos dois.\nEntão um dos bebedores começa a agir de forma estranha.-",
+        "es-ES": "- El bardo comienza a murmurar algo en voz baja mientras mira fijamente a uno de los dos.\nEntonces uno de los bebedores comienza a actuar de manera extraña.-"
     },
     "ED4qAw": {
-        "ko-KR": "[조금 취한 남자]\n이봐! 느.. 느닷없이 왜 이래?\n왜 나한테 안겨?!",
-        "en-US": "[Slightly Drunk Man]\nHey! Wh-Why are you doing this all of a sudden?\nWhy are you hugging me?!",
-        "pt-BR": "[Homem um pouco bêbado]\nEi! P-por que isso de repente?\nPor que está me abraçando?!",
-        "es-ES": "[Hombre algo ebrio]\n¡Oye! ¿P... por qué haces eso de repente?\n¡¿Por qué te abrazas a mí?!"
+        "en-US": "[Slightly Drunk Man]\nHey! Wh..why are you doing this all of a sudden?\nWhy are you clinging to me?!",
+        "pt-BR": "[Homem Ligeiramente Bêbado]\nEi! P..por que você está fazendo isso de repente?\nPor que está se agarrando a mim?!",
+        "es-ES": "[Hombre Ligeramente Bebido]\n¡Oye! ¿P..por qué haces esto de repente?\n¡¿Por qué te aferras a mí?!"
     },
     "ET4qAw": {
-        "ko-KR": "[많이 취한 남자]\n어? 어어? 네가 자네한테 안겼나?\n...아니야. 아니라고. 난 저 쪽. 저 쪽으로 가는거야.",
-        "en-US": "[Very Drunk Man]\nHuh? Huhh? Did you hug me?\n...No. No, I didn't. I'm going that way. That way.",
-        "pt-BR": "[Homem muito bêbado]\nHã? Hãã? Foi você que me abraçou?\n...Não. Não foi. Eu vou para aquele lado. Aquele lado.",
-        "es-ES": "[Hombre muy ebrio]\n¿Eh? ¿Eeeh? ¿Fuiste tú quien se abrazó a mí?\n...No. No es eso. Yo voy hacia allí. Hacia allí."
+        "en-US": "[Very Drunk Man]\nHuh? Huh? Did I cling to you?\n...No. That's not it. I'm going that way. That way.",
+        "pt-BR": "[Homem Muito Bêbado]\nHuh? Huh? Eu me agarrei a você?\n...Não. Não é isso. Estou indo para aquele lado. Aquele lado.",
+        "es-ES": "[Hombre Muy Bebido]\n¿Eh? ¿Eh? ¿Me aferré a ti?\n...No. No es eso. Voy para allá. Para allá."
     },
     "Ej4qAw": {
-        "ko-KR": "[조금 취한 남자]\n저쪽으로 간다더니 왜 이쪽으로 딸꾹 오는겐가?\n내가 딸꾹 피해..피해야지..",
-        "en-US": "[Slightly Drunk Man]\nYou said you were going that way, so why hic are you coming this way?\nI should hic get... get away..",
-        "pt-BR": "[Homem um pouco bêbado]\nVocê disse que ia para aquele lado, então por que está vindo soluço para cá?\nEu vou soluço fugir... fugir...",
-        "es-ES": "[Hombre algo ebrio]\nSi ibas hacia allí, ¿por qué vienes hacia aquí, hic?\nYo tengo que hic esquivarte..."
+        "en-US": "[Slightly Drunk Man]\nWhy are you coming this way when you said you were going that way, hic?\nI have to...avoid..hic..you..",
+        "pt-BR": "[Homem Ligeiramente Bêbado]\nPor que você está vindo para cá quando disse que estava indo para lá, hic?\nEu tenho que...evitar..hic..você..",
+        "es-ES": "[Hombre Ligeramente Bebido]\n¿Por qué vienes hacia acá cuando dijiste que ibas para allá, hip?\nTengo que...evitarte..hip..a ti..."
     },
     "Ez4qAw": {
-        "ko-KR": "어..얼래?",
-        "en-US": "H-Huh?",
-        "pt-BR": "O-opa?",
-        "es-ES": "¿Eh... qué?"
+        "en-US": "Uh...huh?",
+        "pt-BR": "Uh...huh?",
+        "es-ES": "¿Eh...eh?"
     },
     "FD4qAw": {
-        "ko-KR": "[많이 취한 남자]\n자아네! 취했구마아안. 왜 내 등에 붙엇!\n히끅.",
-        "en-US": "[Very Drunk Man]\nYouuuu! You're druuunk. Why are you stuck to my back!\nHic.",
-        "pt-BR": "[Homem muito bêbado]\nCamaaaarada! Você está bêêêbado. Por que grudou nas minhas costas!\nHic.",
-        "es-ES": "[Hombre muy ebrio]\n¡Amiiigo! ¡Estás borrachooo! ¡¿Por qué te pegas a mi espalda?!\nHic."
+        "en-US": "[Very Drunk Man]\nYoouu're druuunk, maaan. Why are you clinging to my back!\nHic.",
+        "pt-BR": "[Homem Muito Bêbado]\nVocêêê está bêbado, caara. Por que está se agarrando às minhas costas!\nHic.",
+        "es-ES": "[Hombre Muy Bebido]\nEstááás borracho, hombreee. ¡¿Por qué te aferras a mi espalda?!\nHip."
     },
     "FT4qAw": {
-        "ko-KR": "- 두 남자는 서로 어디로 가야할지 모르는 듯 우왕좌왕 하고 있다. -",
-        "en-US": "- The two men are stumbling around, as though they don't know where to go. -",
-        "pt-BR": "- Os dois homens estão confusos, como se não soubessem para onde ir. -",
-        "es-ES": "- Los dos hombres se tambalean de un lado a otro, como si no supieran adónde ir. -"
+        "en-US": "- The two men are wandering around, seemingly unsure which way to go. -",
+        "pt-BR": "- Os dois homens estão vagando por aí, aparentemente sem saber para que lado ir. -",
+        "es-ES": "- Los dos hombres deambulan, aparentemente sin saber hacia dónde ir. -"
     },
     "Fj4qAw": {
-        "ko-KR": "[{0}]\n....지독하게 술에 취했군요...",
-        "en-US": "[{0}]\n....They are terribly drunk...",
-        "pt-BR": "[{0}]\n....Estão terrivelmente bêbados...",
+        "en-US": "[{0}]\n....They're terribly drunk...",
+        "pt-BR": "[{0}]\n....Eles estão terrivelmente bêbados...",
         "es-ES": "[{0}]\n....Están terriblemente borrachos..."
     },
     "Fz4qAw": {
-        "ko-KR": "[라이오트]\n아니야. 이건 내 비기.\n저들은 의지와 다르게 움직이는거야.\n정신에 혼란이 온거지.......",
-        "en-US": "[Riot]\nNo. This is my secret technique.\nThey are moving against their will.\nTheir minds have fallen into confusion.......",
-        "pt-BR": "[Riot]\nNão. Esta é minha técnica secreta.\nEles estão se movendo contra a própria vontade.\nA mente deles entrou em confusão.......",
-        "es-ES": "[Riot]\nNo. Esta es mi técnica secreta.\nSe mueven contra su voluntad.\nSus mentes han caído en la confusión......."
+        "en-US": "[Riot]\nNo. This is my secret technique.\nThey're moving against their will.\nTheir minds are confused.......",
+        "pt-BR": "[Riot]\nNão. Esta é minha técnica secreta.\nEles estão se movendo contra sua vontade.\nSuas mentes estão confusas.......",
+        "es-ES": "[Riot]\nNo. Esta es mi técnica secreta.\nSe están moviendo contra su voluntad.\nSus mentes están confundidas......."
     },
     "GD4qAw": {
-        "ko-KR": "[{0}]\n에이~ 거짓말.\n취한 사람들 두고 그러면 안되죠.",
-        "en-US": "[{0}]\nOh, come on~ That's a lie.\nYou shouldn't say that about drunk people.",
-        "pt-BR": "[{0}]\nAh, que mentira~\nNão se deve fazer isso com pessoas bêbadas.",
-        "es-ES": "[{0}]\nVenga ya~ Mentira.\nNo deberías hacer eso con unos borrachos."
+        "en-US": "[{0}]\nOh~ Liar.\nYou shouldn't do that to drunk people.",
+        "pt-BR": "[{0}]\nOh~ Mentiroso.\nVocê não deveria fazer isso com pessoas bêbadas.",
+        "es-ES": "[{0}]\nOh~ Mentiroso.\nNo deberías hacer eso con personas borrachas."
     },
     "GT4qAw": {
-        "ko-KR": "[라이오트]\n.......사람의 진실을 몰라주다니.\n네 녀석은 세상의 죄악이다!!!",
-        "en-US": "[Riot]\n.......Failing to recognize a person's truth.\nYou are the sin of this world!!!",
-        "pt-BR": "[Riot]\n.......Não reconhecer a verdade de uma pessoa.\nVocê é o pecado do mundo!!!",
-        "es-ES": "[Riot]\n.......Que no reconozcas la verdad de una persona...\n¡¡¡Tú eres un pecado del mundo!!!"
+        "en-US": "[Riot]\n.......To not recognize a person's truth.\nYou are the evil of this world!!!",
+        "pt-BR": "[Riot]\n.......Não reconhecer a verdade de uma pessoa.\nVocê é o mal deste mundo!!!",
+        "es-ES": "[Riot]\n.......No reconocer la verdad de una persona.\n¡¡¡Eres el mal de este mundo!!!"
     },
     "Gj4qAw": {
-        "ko-KR": "[라이오트]\n.......나 조용히 살고 싶다.\n....그러고보니 인장도 없는 친구들이 아직 있군.\n큭.큭.큭.",
-        "en-US": "[Riot]\n.......I want to live quietly.\n....Now that I think of it, there are still friends without seals.\nKuk. Kuk. Kuk.",
-        "pt-BR": "[Riot]\n.......Quero viver em silêncio.\n....Agora que penso nisso, ainda há amigos sem selo.\nKuk. Kuk. Kuk.",
-        "es-ES": "[Riot]\n.......Quiero vivir tranquilo.\n....Ahora que lo pienso, aún hay amigos sin sello.\nJe. Je. Je."
+        "en-US": "[Riot]\n.......I want to live quietly.\n....Come to think of it, there are still friends without seals.\nKuk. kuk. kuk.",
+        "pt-BR": "[Riot]\n.......Quero viver em paz.\n....Pensando bem, ainda há amigos sem selos.\nKuk. kuk. kuk.",
+        "es-ES": "[Riot]\n.......Quiero vivir en paz.\n....Ahora que lo pienso, todavía hay amigos sin sellos.\nKuk. kuk. kuk."
     },
     "Gz4qAw": {
-        "ko-KR": "[라이오트]\n너도 시인이지만 진정한 시인의 친구는 아니야.\n게펜에서 울고 있는 어린 시인을 못본척 한 적이 있지 않나?",
-        "en-US": "[Riot]\nYou may be a poet, but you are not a true poet's friend.\nDidn't you once ignore a young poet crying in Geffen?",
-        "pt-BR": "[Riot]\nVocê também é poeta, mas não é amigo de um verdadeiro poeta.\nNão fingiu não ver um jovem poeta chorando em Geffen?",
-        "es-ES": "[Riot]\nTú también eres poeta, pero no eres un verdadero amigo de los poetas.\n¿Acaso no fingiste no ver a un joven poeta llorando en Geffen?"
+        "en-US": "[Riot]\nYou may also be a bard, but you're not a true bard's friend.\nHaven't you ever ignored a young bard crying in Geffen?",
+        "pt-BR": "[Riot]\nVocê também pode ser um bardo, mas não é um verdadeiro amigo dos bardos.\nVocê nunca ignorou um jovem bardo chorando em Geffen?",
+        "es-ES": "[Riot]\nTú también puedes ser un bardo, pero no eres un verdadero amigo de los bardos.\n¿Nunca has ignorado a un joven bardo llorando en Geffen?"
     },
     "HD4qAw": {
-        "ko-KR": "[라이오트]\n.....흥.\n동업자끼리 그런 죄악을..",
-        "en-US": "[Riot]\n.....Hmph.\nSuch a sin among fellow artists..",
-        "pt-BR": "[Riot]\n.....Hmph.\nCometer esse pecado entre colegas de ofício...",
-        "es-ES": "[Riot]\n.....Hmph.\nQué pecado entre colegas..."
+        "en-US": "[Riot]\n.....Hmph.\nFor colleagues to commit such evil..",
+        "pt-BR": "[Riot]\n.....Hmph.\nPara colegas cometerem tal maldade..",
+        "es-ES": "[Riot]\n.....Hmph.\nQue colegas cometan tal maldad..."
     },
     "HT4qAw": {
-        "ko-KR": "[{0}]\n응? 혼란? 멋대로 움직여?\n설마.. 예전에 혹시 한 남자에게 그걸 이용해서 번지점프를 시킨 적이 있지 않나요?!",
-        "en-US": "[{0}]\nHm? Confusion? Moving on their own?\nWait... did you, by any chance, once use that on a man to make him bungee jump?!",
-        "pt-BR": "[{0}]\nHã? Confusão? Mover-se contra a vontade?\nNão me diga... Por acaso, no passado, você usou isso em um homem para fazê-lo fazer bungee jump?!",
-        "es-ES": "[{0}]\n¿Eh? ¿Confusión? ¿Moverse contra la voluntad?\nEspera... ¿acaso en el pasado usaste eso con un hombre para hacerlo saltar en bungee jumping?!"
+        "en-US": "[{0}]\nHuh? Confusion? Moving on their own?\nSurely... didn't you once use that to make a man bungee jump?!",
+        "pt-BR": "[{0}]\nHuh? Confusão? Movendo-se por conta própria?\nCertamente... você não usou isso uma vez para fazer um homem pular de bungee jump?!",
+        "es-ES": "[{0}]\n¿Eh? ¿Confusión? ¿Moviéndose por su cuenta?\nSeguramente... ¡¿no usaste eso una vez para hacer que un hombre saltara en bungee jump?!"
     },
     "Hj4qAw": {
-        "ko-KR": "[라이오트]\n그걸 어떻게 알지?\n설마.. 그 이야길 듣고 배우려고 날 찾아온건가?",
-        "en-US": "[Riot]\nHow do you know that?\nDon't tell me... you heard that story and came looking for me to learn it?",
-        "pt-BR": "[Riot]\nComo sabe disso?\nNão me diga... ouviu essa história e veio me procurar para aprender?",
-        "es-ES": "[Riot]\n¿Cómo sabes eso?\n¿Acaso oíste esa historia y viniste a buscarme para aprenderlo?"
+        "en-US": "[Riot]\nHow do you know that?\nSurely... you came looking for me after hearing that story to learn it?",
+        "pt-BR": "[Riot]\nComo você sabe disso?\nCertamente... você veio me procurar depois de ouvir essa história para aprendê-la?",
+        "es-ES": "[Riot]\n¿Cómo sabes eso?\nSeguramente... ¿viniste a buscarme después de escuchar esa historia para aprenderla?"
     },
     "Hz4qAw": {
-        "ko-KR": "그래요! 가르쳐주세요!",
-        "en-US": "Yes! Teach me!",
-        "pt-BR": "Isso! Ensine-me!",
-        "es-ES": "¡Sí! ¡Enséñamelo!"
+        "en-US": "Yes! Please teach me!",
+        "pt-BR": "Sim! Por favor, ensine-me!",
+        "es-ES": "¡Sí! ¡Por favor, enséñame!"
     },
     "ID4qAw": {
-        "ko-KR": "아니요.",
         "en-US": "No.",
         "pt-BR": "Não.",
         "es-ES": "No."
     },
     "IT4qAw": {
-        "ko-KR": "[라이오트]\n그렇군. 그랬군..\n그럼..........어쩐다.\n실은 나도 이걸 움발라의 샤먼이 거는 주술들을 보고\n아주 힘겹게 터득한거라서 말야.",
-        "en-US": "[Riot]\nI see. So that's how it is..\nThen..........what shall I do?\nThe truth is, I had a very hard time learning this after watching\nthe spells cast by the shamans of Umbala.",
-        "pt-BR": "[Riot]\nEntendo. Então foi isso...\nBem.......... o que fazer?\nNa verdade, eu também aprendi isso com muita dificuldade\nobservando os feitiços lançados por um xamã de Umbala.",
-        "es-ES": "[Riot]\nYa veo. Así que eso fue...\nEntonces.......... qué haré.\nLa verdad es que yo también aprendí esto con mucho esfuerzo\ntras ver los hechizos que lanzaba un chamán de Umbala."
+        "en-US": "[Riot]\nI see. So that's it..\nThen..........what should I do.\nThe truth is, I learned this myself with great difficulty by watching the shamans in Umbala cast their spells.",
+        "pt-BR": "[Riot]\nEntendo. Então é isso..\nEntão..........o que devo fazer.\nA verdade é que eu mesmo aprendi isso com grande dificuldade observando os xamãs em Umbala lançarem seus feitiços.",
+        "es-ES": "[Riot]\nYa veo. Así que es eso...\nEntonces..........qué debo hacer.\nLa verdad es que yo mismo aprendí esto con gran dificultad observando a los chamanes en Umbala lanzar sus hechizos."
     },
     "Ij4qAw": {
-        "ko-KR": "[라이오트]\n게다가 목소리의 관리도 아주 중요해.\n으흠.. 어쩔까.\n......\n그렇지! 그거다!",
-        "en-US": "[Riot]\nBesides, taking care of your voice is very important.\nAhem.. What should I do?\n......\nThat's right! That's it!",
-        "pt-BR": "[Riot]\nAlém disso, controlar a voz é muito importante.\nHmm... o que faço?\n......\nIsso! É isso!",
-        "es-ES": "[Riot]\nAdemás, cuidar la voz también es muy importante.\nEjem... ¿qué hacer?\n......\n¡Eso es! ¡Eso!"
+        "en-US": "[Riot]\nMoreover, voice control is very important.\nHmm.. What to do.\n......\nYes! That's it!",
+        "pt-BR": "[Riot]\nAlém disso, o controle de voz é muito importante.\nHmm.. O que fazer.\n......\nSim! É isso!",
+        "es-ES": "[Riot]\nAdemás, el control de la voz es muy importante.\nHmm... Qué hacer.\n......\n¡Sí! ¡Eso es!"
     },
     "Iz4qAw": {
-        "ko-KR": "[라이오트]\n움발라의 알 수 없는 나무줄기를 타고 놀다가 이상한 곳에 가게 된 적이 있었어.\n거기에서 '이히레' 라는 이름의 닭을 만났었는데..",
-        "en-US": "[Riot]\nOnce, while playing on the mysterious vines of Umbala, I ended up in a strange place.\nThere, I met a chicken named 'Yhelle'..",
-        "pt-BR": "[Riot]\nCerta vez, brincando nas vinhas misteriosas de Umbala, acabei chegando a um lugar estranho.\nLá encontrei uma galinha chamada 'Yhelle'...",
-        "es-ES": "[Riot]\nUna vez, jugando con unas enredaderas misteriosas de Umbala,\nacabé en un lugar extraño.\nAllí conocí a una gallina llamada 'Yhelle'..."
+        "en-US": "[Riot]\nI once ended up in a strange place while playing around on some unknown tree vines in Umbala.\nThere I met a chicken named 'Ihire'..",
+        "pt-BR": "[Riot]\nUma vez acabei em um lugar estranho enquanto brincava em alguns cipós de árvore desconhecidos em Umbala.\nLá conheci uma galinha chamada 'Ihire'..",
+        "es-ES": "[Riot]\nUna vez terminé en un lugar extraño mientras jugaba en unas enredaderas de árbol desconocidas en Umbala.\nAllí conocí a una gallina llamada 'Ihire'..."
     },
     "JD4qAw": {
-        "ko-KR": "[라이오트]\n그 녀석의 알이 최고였지. 하아아아아아...\n^4D4DFF이히레의 알을 다섯 개^191200만 구해 올래?\n목청 가다듬는덴 최고야!",
-        "en-US": "[Riot]\nThat chicken's eggs were the best. Haaaaaaah...\nWill you bring me ^4D4DFFfive Yhelle eggs^191200?\nThey're the best for clearing the throat!",
-        "pt-BR": "[Riot]\nOs ovos dela eram os melhores. Aaaaaah...\nPode trazer ^4D4DFFcinco ovos de Yhelle^191200?\nSão perfeitos para preparar a garganta!",
-        "es-ES": "[Riot]\nSus huevos eran lo mejor. Aaaaaah...\n¿Podrías traerme ^4D4DFFcinco huevos de Yhelle^191200?\n¡Son perfectos para aclarar la voz!"
+        "en-US": "[Riot]\nThat chicken's eggs were the best. Haaaaaa...\nCould you bring me ^4D4DFFfive Ihire Eggs^191200?\nThey're the best for clearing the throat!",
+        "pt-BR": "[Riot]\nOs ovos daquela galinha eram os melhores. Haaaaaa...\nVocê poderia me trazer ^4D4DFFcinco Ovos de Ihire^191200?\nEles são ótimos para limpar a garganta!",
+        "es-ES": "[Riot]\nLos huevos de esa gallina eran los mejores. Haaaaaa...\n¿Podrías traerme ^4D4DFFcinco Huevos de Ihire^191200?\n¡Son los mejores para aclarar la garganta!"
     },
     "JT4qAw": {
-        "ko-KR": "[라이오트]\n............\n.........쳇.\n재밌는데.",
-        "en-US": "[Riot]\n............\n.........Tch.\nIt was interesting.",
-        "pt-BR": "[Riot]\n............\n.........Tch.\nÉ divertido.",
-        "es-ES": "[Riot]\n............\n.........Tch.\nCon lo divertido que es."
+        "en-US": "[Riot]\n............\n.........Tch.\nThat would be amusing.",
+        "pt-BR": "[Riot]\n............\n.........Tsc.\nIsso seria divertido.",
+        "es-ES": "[Riot]\n............\n.........Tch.\nEso sería divertido."
     },
     "Jj4qAw": {
-        "ko-KR": "[라이오트]\n그래, 알 구하기는 어떤가?\n이히레 그녀석 꽤 재빠르지?\n큭큭큭..",
-        "en-US": "[Riot]\nSo, how is the egg gathering going?\nThat Yhelle is quite nimble, isn't she?\nKuk kuk kuk..",
-        "pt-BR": "[Riot]\nEntão, como vai a busca pelos ovos?\nYhelle é bem rápida, não é?\nKukukuk...",
-        "es-ES": "[Riot]\nEntonces, ¿qué tal va lo de conseguir los huevos?\nEsa Yhelle es bastante rápida, ¿verdad?\nJe, je, je..."
+        "en-US": "[Riot]\nSo, how's the egg gathering going?\nThat Ihire fellow is quite fast, isn't he?\nKuk kuk kuk..",
+        "pt-BR": "[Riot]\nEntão, como está a coleta de ovos?\nAquele sujeito Ihire é bem rápido, não é?\nKuk kuk kuk..",
+        "es-ES": "[Riot]\nEntonces, ¿cómo va la recolección de huevos?\nEse tipo Ihire es bastante rápido, ¿no?\nKuk kuk kuk..."
     },
     "Jz4qAw": {
-        "ko-KR": "[라이오트]\n오옷! 정말 구해왔군!\n어디보자아아...\n이 토실토실 새하얀 알~\n과연 이히레!\n일부러 저주걸어서 니플헤임에 풀어 둔 보람이 있어..",
-        "en-US": "[Riot]\nOoh! You really brought them!\nLet's seeee...\nThese plump, snow-white eggs~\nAs expected of Yhelle!\nIt was worth deliberately cursing her and releasing her in Niflhiem..",
-        "pt-BR": "[Riot]\nOhh! Você realmente trouxe!\nVamos veeerrr...\nEstes ovos brancos e rechonchudos~\nComo esperado de Yhelle!\nValeu a pena lançar uma maldição nela de propósito e soltá-la em Niflhiem...",
-        "es-ES": "[Riot]\n¡Oooh! ¡De verdad los has traído!\nA veeer...\nEstos huevos blancos y rollizos~\n¡Como era de esperar de Yhelle!\nValió la pena maldecirla a propósito y soltarla en Niflhiem..."
+        "en-US": "[Riot]\nOoh! You actually brought them!\nLet me seeee...\nThese plump, white eggs~\nIndeed, Ihire!\nIt was worth purposely casting a curse and releasing her in Niflheim..",
+        "pt-BR": "[Riot]\nOoh! Você realmente os trouxe!\nDeixe-me veeer...\nEstes ovos brancos e roliços~\nRealmente, Ihire!\nValeu a pena lançar uma maldição de propósito e soltá-la em Niflheim..",
+        "es-ES": "[Riot]\n¡Ooh! ¡Realmente los trajiste!\nDéjame verrr...\nEstos huevos blancos y regordetes~\n¡Ciertamente, Ihire!\nValió la pena lanzar una maldición a propósito y liberarla en Niflheim..."
     },
     "KD4qAw": {
-        "ko-KR": "[라이오트]\n큭큭큭...\n이 기술은 말야. 내가 움발라를 여행할때 샤먼 할멈이 주술을 보고\n나만의 기술로 만든거야.\n.......큭.큭.큭..",
-        "en-US": "[Riot]\nKuk kuk kuk...\nThis technique, you see, is one I created as my own after watching\nan old shaman woman's spells when I traveled through Umbala.\n.......Kuk. Kuk. Kuk..",
-        "pt-BR": "[Riot]\nKukukuk...\nEsta técnica, sabe... eu a criei como minha própria técnica\nobservando os feitiços de uma velha xamã quando viajava por Umbala.\n.......Kuk. Kuk. Kuk...",
-        "es-ES": "[Riot]\nJe, je, je...\nEsta técnica, verás. La creé como una técnica propia\ncuando viajé por Umbala y vi los hechizos de una vieja chamán.\n.......Je. Je. Je..."
+        "en-US": "[Riot]\nKuk kuk kuk...\nThis technique... I created it as my own after watching the shaman grandmother's spells when I traveled to Umbala.\n.......kuk. kuk. kuk..",
+        "pt-BR": "[Riot]\nKuk kuk kuk...\nEsta técnica... Eu a criei por conta própria depois de observar os feitiços da avó xamã quando viajei para Umbala.\n.......kuk. kuk. kuk..",
+        "es-ES": "[Riot]\nKuk kuk kuk...\nEsta técnica... La creé por mi cuenta después de observar los hechizos de la abuela chamán cuando viajé a Umbala.\n.......kuk. kuk. kuk..."
     },
     "KT4qAw": {
-        "ko-KR": "[라이오트]\n이 기술을 쓸 사람을 일단 노려봐.\n그런다음 굉장한 사념을 주입하면서 이 주문을 외우는거야.\n기묘한 목소리를 내는게 중요해.",
-        "en-US": "[Riot]\nFirst, glare at the person you want to use this technique on.\nThen, while infusing it with powerful thought, recite this spell.\nIt is important to use a peculiar voice.",
-        "pt-BR": "[Riot]\nPrimeiro, encare a pessoa em quem vai usar esta técnica.\nDepois, injete pensamentos intensos e recite este encantamento.\nÉ importante emitir uma voz estranha.",
-        "es-ES": "[Riot]\nPrimero mira fijamente a quien vaya a recibir la técnica.\nLuego, mientras le infundes una intención tremenda, recita este conjuro.\nEs importante usar una voz extraña."
+        "en-US": "[Riot]\nFirst, target the person you want to use this technique on.\nThen, while injecting strong mental energy, recite this chant.\nIt's important to produce a strange voice.",
+        "pt-BR": "[Riot]\nPrimeiro, mire na pessoa em quem deseja usar esta técnica.\nEntão, enquanto injeta forte energia mental, recite este canto.\nÉ importante produzir uma voz estranha.",
+        "es-ES": "[Riot]\nPrimero, apunta a la persona en quien deseas usar esta técnica.\nLuego, mientras inyectas una fuerte energía mental, recita este canto.\nEs importante producir una voz extraña."
     },
     "Kj4qAw": {
-        "ko-KR": "[라이오트]\n토드의뒷다리히드라의촉수베릿트의심장이두근\n하늘에서 별이 돌고 땅에서도 별이 돈다\n이제니가니제니니제니가이제니니\n손발을내가속박손발을네가속박\n머릿속이아찔아찔한머리속\n귓가에파고드는친절한\n내목소리네목소리!",
-        "en-US": "[Riot]\nToad'shindlegHydra'stentacleVerit'sheartgoesthump\nStars spin in the sky and stars spin on the ground\nNowyouareyourZenyandyourZenyisyourZeny\nYourhandsandfeetIbindyourhandsandfeet\nA dizzy dizzy mind inside your head\nDigging into your ears, my kindly\nVoiceyourvoice!",
-        "pt-BR": "[Riot]\nPernadetrásdeToadtentáculodeHydracoraçãodeVeritbate\nas estrelas giram no céu e as estrelas giram na terra\nestzenyésseuzenyeseuzenyéestezeny\namarrosuasmãoseseuspésvocêamarraminhasmãoseseuspés\ncabeçaturvaturvamenteturbilhãonacabeça\nminhavozgentilpenetranosouvidos\nsuavozminhavoz!",
-        "es-ES": "[Riot]\npatastraserasdetoadtentáculosdehydraelcorazóndeveritlate\nlasestrellasgiranenelcieloylasestrellastambiénengiranlatierra\nestozennyestuzennytuzennyesmiozenny\nyotusmanospiesato túmismanospiesatas\nlacabezaaturdidaaturdidalacabeza\nentrandoentusoídosamable\nmivoztuvoz!"
+        "en-US": "[Riot]\nToad's hind leg, Hydra's tentacle, Beret's heart pounds\nStars revolve in the sky, stars also revolve on the ground\nNow I go, you go, you go, now I go\nI bind your hands and feet, you bind my hands and feet\nMy head spins, spinning head\nA kind voice digging into your ears\nMy voice, your voice!",
+        "pt-BR": "[Riot]\nPerna traseira de sapo, tentáculo de Hidra, o coração de Beret bate forte\nEstrelas giram no céu, estrelas também giram no chão\nAgora eu vou, você vai, você vai, agora eu vou\nEu amarro suas mãos e pés, você amarra minhas mãos e pés\nMinha cabeça gira, cabeça giratória\nUma voz gentil cavando em seus ouvidos\nMinha voz, sua voz!",
+        "es-ES": "[Riot]\nPata trasera de sapo, tentáculo de Hidra, el corazón de Beret late fuerte\nLas estrellas giran en el cielo, las estrellas también giran en el suelo\nAhora yo voy, tú vas, tú vas, ahora yo voy\nYo ato tus manos y pies, tú atas mis manos y pies\nMi cabeza da vueltas, cabeza giratoria\nUna voz amable cavando en tus oídos\n¡Mi voz, tu voz!"
     },
     "Kz4qAw": {
-        "ko-KR": "[라이오트]\n아, 방금 한 썰렁한 농담은 다른사람들이 눈치채지 못하도록 일부러 한거야.\n방금 가르쳐 준 기술은 '팽 보이스'라는 기술!",
-        "en-US": "[Riot]\nAh, that chilly joke just now was done on purpose so others wouldn't notice.\nThe technique I just taught you is called 'Pang Voice'!",
-        "pt-BR": "[Riot]\nAh, a piada sem graça que acabei de fazer foi de propósito para que os outros não percebessem.\nA técnica que acabei de ensinar se chama 'Voz Dolorosa'!",
-        "es-ES": "[Riot]\nAh, ese chiste malo de hace un momento fue a propósito,\npara que los demás no se dieran cuenta.\n¡La técnica que acabo de enseñarte se llama 'Voz Chillona'!"
+        "en-US": "[Riot]\nAh, that lame joke I just made was on purpose so others wouldn't notice.\nThe technique I just taught you is called 'Pang Voice'!",
+        "pt-BR": "[Riot]\nAh, aquela piada sem graça que acabei de fazer foi de propósito para que os outros não percebessem.\nA técnica que acabei de ensinar é chamada 'Voz Pang'!",
+        "es-ES": "[Riot]\nAh, esa broma tonta que acabo de hacer fue a propósito para que otros no se dieran cuenta.\n¡La técnica que acabo de enseñarte se llama 'Voz Pang'!"
     },
     "LD4qAw": {
-        "ko-KR": "[라이오트]\n사념을 더한 기괴한 목소리로 대상자의 정신에 충격을 가하지.\n그럼 그는 일시적으로 자신의 몸을 통제하지 못한다.\n...큭큭큭..",
-        "en-US": "[Riot]\nWith a bizarre voice infused with thought, you shock the target's mind.\nThen they temporarily lose control of their body.\n...Kuk kuk kuk..",
-        "pt-BR": "[Riot]\nCom uma voz grotesca somada a pensamentos, você causa um choque na mente do alvo.\nEntão ele perde temporariamente o controle do próprio corpo.\n...Kukukuk...",
-        "es-ES": "[Riot]\nGolpea la mente del objetivo con una voz grotesca cargada de intención.\nEntonces pierde temporalmente el control de su cuerpo.\n...Je, je, je..."
+        "en-US": "[Riot]\nYou shock the target's mind with a bizarre voice infused with mental energy.\nThen, they temporarily lose control of their own body.\n...kuk kuk kuk..",
+        "pt-BR": "[Riot]\nVocê choca a mente do alvo com uma voz bizarra infundida com energia mental.\nEntão, eles perdem temporariamente o controle do próprio corpo.\n...kuk kuk kuk..",
+        "es-ES": "[Riot]\nImpactas la mente del objetivo con una voz bizarra infundida con energía mental.\nEntonces, pierden temporalmente el control de su propio cuerpo.\n...kuk kuk kuk..."
     },
     "LT4qAw": {
-        "ko-KR": "[라이오트]\n그런데 그거. 아무렇게나 막 썼다간 나처럼 미움 받을거야.\n큭큭큭. 그러니 저런 술주정뱅이들에게나 쓰라구.",
-        "en-US": "[Riot]\nBut if you use that carelessly, you'll be hated like me.\nKuk kuk kuk. So use it only on drunks like them.",
-        "pt-BR": "[Riot]\nMas isso aí... se usar de qualquer jeito, será odiado como eu.\nKukukuk. Então use apenas em bêbados como aqueles.",
-        "es-ES": "[Riot]\nPero si usas eso a la ligera, acabarán odiándote como a mí.\nJe, je, je. Así que úsalo solo con borrachos como esos."
+        "en-US": "[Riot]\nBut that. If you use it carelessly, you'll be hated like me.\nKuk kuk kuk. So only use it on drunkards like that.",
+        "pt-BR": "[Riot]\nMas isso. Se você usar descuidadamente, será odiado como eu.\nKuk kuk kuk. Então só use em bêbados como aqueles.",
+        "es-ES": "[Riot]\nPero eso. Si la usas descuidadamente, serás odiado como yo.\nKuk kuk kuk. Así que solo úsala en borrachos como esos."
     },
     "Lj4qAw": {
-        "ko-KR": "[라이오트]\n이게뭐얏?!\n알이 모자라잖아?!\n크르릉..\n그럼 할 수 없지. 벌로 ^4D4DFFMunak_Doll^191200을 한 개 구해와.",
-        "en-US": "[Riot]\nWhat is this?!\nThere aren't enough eggs?!\nGrrrr..\nThen it can't be helped. As punishment, bring me one ^4D4DFFMunak Doll^191200.",
-        "pt-BR": "[Riot]\nO que é isto?!\nEstão faltando ovos?!\nGrrrr...\nEntão não tem jeito. Como punição, traga uma ^4D4DFFBoneca de Munak^191200.",
-        "es-ES": "[Riot]\n¡¿Qué es esto?!\n¡Faltan huevos!\nGrrrr...\nEntonces no queda otra. Como castigo, tráeme ^4D4DFFuna muñeca Munak^191200."
+        "en-US": "[Riot]\nWhat's this?!\nThere aren't enough eggs?!\nGrrr...\nThen no choice. As a penalty, bring me ^4D4DFFone Munak_Doll^191200.",
+        "pt-BR": "[Riot]\nO que é isso?!\nNão há ovos suficientes?!\nGrrr...\nEntão sem escolha. Como penalidade, traga-me ^4D4DFFuma Boneca_Munak^191200.",
+        "es-ES": "[Riot]\n¡¿Qué es esto?!\n¡¿No hay suficientes huevos?!\nGrrr...\nEntonces no hay opción. Como penalización, tráeme ^4D4DFFun Muñeco Munak^191200."
     },
     "Lz4qAw": {
-        "ko-KR": "[라이오트]\n일단 알은 내가 다 받겠어!",
-        "en-US": "[Riot]\nI'll take all the eggs first!",
-        "pt-BR": "[Riot]\nPor enquanto, vou ficar com todos os ovos!",
-        "es-ES": "[Riot]\n¡Por ahora me quedaré con todos los huevos!"
+        "en-US": "[Riot]\nI'll take all the eggs for now!",
+        "pt-BR": "[Riot]\nVou levar todos os ovos por enquanto!",
+        "es-ES": "[Riot]\n¡Me llevaré todos los huevos por ahora!"
     },
     "MD4qAw": {
-        "ko-KR": "[라이오트]\n혜군이라는 녀석이 만든 Munak_Doll이 참 잘 만들어졌어.\n으키키킥",
-        "en-US": "[Riot]\nThe Munak Dolls made by a fellow named Yao Jun are very well crafted.\nUkikikik",
-        "pt-BR": "[Riot]\nAs Bonecas de Munak feitas por um sujeito chamado Yao Jun são muito bem feitas.\nUkikikik",
-        "es-ES": "[Riot]\nLas muñecas Munak que hace alguien llamado Yao Jun\nestán muy bien hechas.\nUikikik."
+        "en-US": "[Riot]\nThe Munak_Doll made by a guy named Hyegun is really well-made.\nE ke ke kik",
+        "pt-BR": "[Riot]\nA Boneca_Munak feita por um cara chamado Hyegun é realmente bem feita.\nE ke ke kik",
+        "es-ES": "[Riot]\nEl Muñeco Munak hecho por un tipo llamado Hyegun está realmente bien hecho.\nE ke ke kik"
     },
     "MT4qAw": {
-        "ko-KR": "[라이오트]\n........왜 그런 눈으로 보는거야?!\n이히레의 알, 네가 먹은거지? 그렇지?!\n나쁜자식.........",
-        "en-US": "[Riot]\n........Why are you looking at me like that?!\nYou ate the Yhelle eggs, didn't you? Didn't you?!\nYou rotten brat.........",
-        "pt-BR": "[Riot]\n........Por que está me olhando assim?!\nVocê comeu os ovos de Yhelle, não comeu? Não foi?!\nSeu maldito.........",
-        "es-ES": "[Riot]\n........¿Por qué me miras así?!\nTe comiste los huevos de Yhelle, ¿verdad? ¡¿Verdad?!\nMaldito........."
+        "en-US": "[Riot]\n........Why are you looking at me like that?!\nYou ate the Ihire Eggs, didn't you? Right?!\nYou bad person.........",
+        "pt-BR": "[Riot]\n........Por que você está me olhando assim?!\nVocê comeu os Ovos de Ihire, não foi? Certo?!\nSeu pessoa má.........",
+        "es-ES": "[Riot]\n........¡¿Por qué me miras así?!\nTe comiste los Huevos de Ihire, ¿no es así? ¡¿Verdad?!\nTú, mala persona........."
     },
     "Mj4qAw": {
-        "ko-KR": "[라이오트]\n오옷! 정말 구해왔군!\n이 수려한 바느질 솜씨!\n더하지도 덜하지도 않도록 균일하게 채워진 솜!\n과연 혜군의 솜씨로다.",
-        "en-US": "[Riot]\nOoh! You really brought it!\nSuch elegant stitching!\nCotton stuffed evenly, neither too much nor too little!\nIndeed, the work of Yao Jun.",
-        "pt-BR": "[Riot]\nOhh! Você realmente trouxe!\nEsta habilidade de costura refinada!\nO algodão preenchido de forma uniforme, sem excesso nem falta!\nComo esperado do trabalho de Yao Jun.",
-        "es-ES": "[Riot]\n¡Oooh! ¡De verdad la has traído!\n¡Qué magnífica costura!\n¡Relleno distribuido de forma uniforme, ni demasiado ni demasiado poco!\nComo era de esperar de la mano de Yao Jun."
+        "en-US": "[Riot]\nOoh! You actually brought it!\nThis beautiful stitching!\nThe uniformly filled cotton, neither too much nor too little!\nIndeed, Hyegun's skill.",
+        "pt-BR": "[Riot]\nOoh! Você realmente trouxe!\nEste costurado lindo!\nO algodão preenchido uniformemente, nem muito nem pouco!\nRealmente, a habilidade de Hyegun.",
+        "es-ES": "[Riot]\n¡Ooh! ¡Realmente lo trajiste!\n¡Esta hermosa costura!\n¡El algodón relleno uniformemente, ni demasiado ni muy poco!\nCiertamente, la habilidad de Hyegun."
     },
     "Mz4qAw": {
-        "ko-KR": "[라이오트]\n크흠 크흠. 칭찬은 이쯤하고 기술을 가르쳐주도록 하지.\n큭큭큭...\n이 기술은 말야. 내가 움발라를 여행할때 샤먼 할멈이 주술을 보고\n나만의 기술로 만든거야.\n.......큭.큭.큭..",
-        "en-US": "[Riot]\nAhem, ahem. Enough praise. Now I'll teach you the technique.\nKuk kuk kuk...\nThis technique, you see, is one I created as my own after watching\nan old shaman woman's spells when I traveled through Umbala.\n.......Kuk. Kuk. Kuk..",
-        "pt-BR": "[Riot]\nAhem, ahem. Chega de elogios, vou ensinar a técnica.\nKukukuk...\nEsta técnica, sabe... eu a criei como minha própria técnica\nobservando os feitiços de uma velha xamã quando viajava por Umbala.\n.......Kuk. Kuk. Kuk...",
-        "es-ES": "[Riot]\nEjem, ejem. Dejemos los elogios hasta aquí y te enseñaré la técnica.\nJe, je, je...\nEsta técnica, verás. La creé como una técnica propia\ncuando viajé por Umbala y vi los hechizos de una vieja chamán.\n.......Je. Je. Je..."
+        "en-US": "[Riot]\nAhem ahem. Enough praise, let me teach you the technique.\nKuk kuk kuk...\nThis technique... I created it as my own after watching the shaman grandmother's spells when I traveled to Umbala.\n.......kuk. kuk. kuk..",
+        "pt-BR": "[Riot]\nAhem ahem. Chega de elogios, deixe-me ensinar-lhe a técnica.\nKuk kuk kuk...\nEsta técnica... Eu a criei por conta própria depois de observar os feitiços da avó xamã quando viajei para Umbala.\n.......kuk. kuk. kuk..",
+        "es-ES": "[Riot]\nEjem ejem. Suficientes elogios, déjame enseñarte la técnica.\nKuk kuk kuk...\nEsta técnica... La creé por mi cuenta después de observar los hechizos de la abuela chamán cuando viajé a Umbala.\n.......kuk. kuk. kuk..."
     },
     "ND4qAw": {
-        "ko-KR": "[라이오트]\nMunak_Doll! Munak_Doll이라고 했다!\n이히레의 알을 깨먹은 녀석!\n....콜렉터의 피를 불태우게 하는 Munak_Doll을 가지고 오란 말이다.",
-        "en-US": "[Riot]\nA Munak Doll! I said a Munak Doll!\nYou who broke the Yhelle eggs!\n....Bring me a Munak Doll that sets a collector's blood aflame.",
-        "pt-BR": "[Riot]\nBoneca de Munak! Eu disse Boneca de Munak!\nVocê, que quebrou os ovos de Yhelle!\n....Estou dizendo para trazer uma Boneca de Munak que inflama o sangue de um colecionador.",
-        "es-ES": "[Riot]\n¡Una muñeca Munak! ¡Dije una muñeca Munak!\n¡Tú, que rompiste los huevos de Yhelle!\n....Te digo que traigas una muñeca Munak capaz de encender la sangre de un coleccionista."
+        "en-US": "[Riot]\nMunak_Doll! I said Munak_Doll!\nThe one who broke the Ihire Eggs!\n....I told you to bring the Munak_Doll that ignites a collector's blood.",
+        "pt-BR": "[Riot]\nBoneca_Munak! Eu disse Boneca_Munak!\nAquele que quebrou os Ovos de Ihire!\n....Eu lhe disse para trazer a Boneca_Munak que inflama o sangue de um colecionador.",
+        "es-ES": "[Riot]\n¡Muñeco Munak! ¡Dije Muñeco Munak!\n¡El que rompió los Huevos de Ihire!\n....Te dije que trajeras el Muñeco Munak que enciende la sangre de un coleccionista."
     },
     "NT4qAw": {
-        "ko-KR": "[라이오트]\n하아... 모든 시인의 아버지 브라기여..\n저에게 어찌 이런 시련을 주셨나이까..",
-        "en-US": "[Riot]\nHaa... Bragi, father of all poets..\nWhy have you given me such a trial..",
-        "pt-BR": "[Riot]\nHaa... Bragi, pai de todos os poetas...\nPor que me impôs tamanha provação...",
-        "es-ES": "[Riot]\nAh... Bragi, padre de todos los poetas...\n¿Por qué me has dado semejante prueba...?"
+        "en-US": "[Riot]\nHaa... Oh Bragi, father of all bards..\nWhy have you bestowed such trials upon me..",
+        "pt-BR": "[Riot]\nHaa... Oh Bragi, pai de todos os bardos..\nPor que me concedeste tais provações..",
+        "es-ES": "[Riot]\nHaa... Oh Bragi, padre de todos los bardos...\n¿Por qué me has otorgado tales pruebas?..."
     },
     "Nj4qAw": {
-        "ko-KR": "[라이오트]\n.....음? 이상한데........\n전에 너랑 꼭 닮은 녀석을 본 것 같은데...\n내가 가르쳐 줬던 기술 기억해?",
-        "en-US": "[Riot]\n.....Hm? Strange........\nI think I've seen someone who looked just like you before...\nDo you remember the technique I taught you?",
-        "pt-BR": "[Riot]\n.....Hmm? Que estranho........\nAcho que já vi antes alguém exatamente igual a você...\nLembra da técnica que eu ensinei?",
-        "es-ES": "[Riot]\n.....¿Mmm? Qué extraño........\nCreo que antes vi a alguien exactamente igual a ti...\n¿Recuerdas la técnica que te enseñé?"
+        "en-US": "[Riot]\n.....Hmm? That's strange........\nI think I've seen someone exactly like you before...\nDo you remember the technique I taught you?",
+        "pt-BR": "[Riot]\n.....Hmm? Isso é estranho........\nAcho que já vi alguém exatamente como você antes...\nVocê se lembra da técnica que lhe ensinei?",
+        "es-ES": "[Riot]\n.....¿Hmm? Eso es extraño........\nCreo que he visto a alguien exactamente como tú antes...\n¿Recuerdas la técnica que te enseñé?"
     },
     "Nz4qAw": {
-        "ko-KR": "[라이오트]\n모르나보네.\n.........\n그냥 가르쳐 줘야지.",
-        "en-US": "[Riot]\nLooks like you don't.\n.........\nI'll just teach you.",
-        "pt-BR": "[Riot]\nParece que não sabe.\n.........\nVou simplesmente ensinar.",
-        "es-ES": "[Riot]\nParece que no.\n.........\nTendré que enseñártela sin más."
+        "en-US": "[Riot]\nI guess not.\n.........\nI'll just teach you again.",
+        "pt-BR": "[Riot]\nAcho que não.\n.........\nVou apenas ensinar-lhe novamente.",
+        "es-ES": "[Riot]\nSupongo que no.\n.........\nSimplemente te la enseñaré de nuevo."
     },
     "OD4qAw": {
-        "ko-KR": "싫어!",
         "en-US": "No!",
-        "pt-BR": "Não quero!",
-        "es-ES": "¡No quiero!"
+        "pt-BR": "Não!",
+        "es-ES": "¡No!"
     },
     "OT4qAw": {
-        "ko-KR": "....고마워.",
         "en-US": "....Thank you.",
         "pt-BR": "....Obrigado.",
         "es-ES": "....Gracias."
     },
     "Oj4qAw": {
-        "ko-KR": "[라이오트]\n뭐? 싫어?\n나한테 정말 이럴 수 있는거야?!\n그만 두라니!\n.......\n그만 둬야지. 뭐...",
-        "en-US": "[Riot]\nWhat? No?\nCan you really do this to me?!\nTelling me to stop!\n.......\nI suppose I'll stop. Fine...",
-        "pt-BR": "[Riot]\nO quê? Não quer?\nComo pode fazer isso comigo?!\nDizer para parar!\n.......\nEntão vou parar. Bem...",
-        "es-ES": "[Riot]\n¿Qué? ¿No quieres?\n¡¿De verdad puedes hacerme esto?!\n¡Dices que lo deje!\n.......\nEntonces lo dejaré. Bueno..."
+        "en-US": "[Riot]\nWhat? No?\nYou can really do this to me?!\nYou say stop?\n.......\nI should stop. Well...",
+        "pt-BR": "[Riot]\nO quê? Não?\nVocê pode realmente fazer isso comigo?!\nVocê diz para parar?\n.......\nEu deveria parar. Bem...",
+        "es-ES": "[Riot]\n¿Qué? ¿No?\n¡¿Realmente puedes hacerme esto?!\n¿Dices que pare?\n.......\nDebería parar. Bueno..."
     },
     "Oz4qAw": {
-        "ko-KR": "[라이오트]\n우음블라아 우음블라아~\n끄으리에에에 끄으리에에에에에\n여으기이어으드이이느아아느으으느으우우그으우우우우우우우......",
-        "en-US": "[Riot]\nUumblahh uumblahh~\nKrrrieeeehhh krrrieeeeeehhh\nYooouu heeere wheeere iiis thaaat oooone whoooo whaaaaaaaat......",
-        "pt-BR": "[Riot]\nUumblaa, uumblaa~\nKrrrieee, krrrieeeee\nAaaquiiiooondeeeevooocccêêêeeestáááááááááááááá......",
-        "es-ES": "[Riot]\nUuumbláaa uumbláaa~\ncriiieeee criiieeeeee\naaaqquuííídooondeeeessstáááaaaqueeeellooooo......"
+        "en-US": "[Riot]\nUumbulaa uumbulaa~\nKeurieee keurieeeeeee\nYeogie ieude in a a neu neu uuu... (incoherent chanting)",
+        "pt-BR": "[Riot]\nUumbulaa uumbulaa~\nKeurieee keurieeeeeee\nYeogie ieude in a a neu neu uuu... (canto incoerente)",
+        "es-ES": "[Riot]\nUumbulaa uumbulaa~\nKeurieee keurieeeeeee\nYeogie ieude in a a neu neu uuu... (canto incoherente)"
     },
     "PD4qAw": {
-        "ko-KR": "[라이오트]\n헉헉....\n이건 사람을 혼란시키는 기술이야.\n치명적인 기술은 아니지만 정신상태를 붕괴시킬 수 있다는 점에서 아주 좋은 기술이지.\n잘 쓰라고. 과거의 내 그림자..",
-        "en-US": "[Riot]\nHuff huff....\nThis is a technique that confuses people.\nIt isn't a fatal technique, but it is very good in that it can collapse one's mental state.\nUse it well. Shadow of my past..",
-        "pt-BR": "[Riot]\nOfeg, ofeg....\nEsta é uma técnica que confunde pessoas.\nNão é uma técnica fatal, mas é muito boa por poder destruir o estado mental.\nUse bem. Sombra do meu passado...",
-        "es-ES": "[Riot]\nJadeo, jadeo....\nEsta es una técnica que confunde a las personas.\nNo es una técnica mortal, pero es muy buena\nporque puede colapsar el estado mental.\nÚsala bien, sombra de mi pasado..."
+        "en-US": "[Riot]\nHuff huff....\nThis is a technique to confuse people.\nIt's not a lethal technique, but it's very good because it can break a person's mental state.\nUse it well. Shadow of my past..",
+        "pt-BR": "[Riot]\nHuff huff....\nEsta é uma técnica para confundir as pessoas.\nNão é uma técnica letal, mas é muito boa porque pode quebrar o estado mental de uma pessoa.\nUse-a bem. Sombra do meu passado..",
+        "es-ES": "[Riot]\nHuff huff....\nEsta es una técnica para confundir a las personas.\nNo es una técnica letal, pero es muy buena porque puede romper el estado mental de una persona.\nÚsala bien. Sombra de mi pasado..."
     },
     "PT4qAw": {
-        "ko-KR": "[라이오트]\n큭.큭.큭\n내가 알려준 그 기술은 잘 쓰고 있나?\n그런데 그거. 아무렇게나 막 썼다간 나처럼 미움 받을거야.\n큭큭큭. 그러니 저런 술주정뱅이들에게나 쓰라구.",
-        "en-US": "[Riot]\nKuk. Kuk. Kuk\nAre you using the technique I taught you well?\nBut if you use that carelessly, you'll be hated like me.\nKuk kuk kuk. So use it only on drunks like them.",
-        "pt-BR": "[Riot]\nKuk. Kuk. Kuk.\nEstá usando bem aquela técnica que ensinei?\nMas isso aí... se usar de qualquer jeito, será odiado como eu.\nKukukuk. Então use apenas em bêbados como aqueles.",
-        "es-ES": "[Riot]\nJe. Je. Je.\n¿Estás usando bien aquella técnica que te enseñé?\nPero si la usas a la ligera, acabarán odiándote como a mí.\nJe, je, je. Así que úsala solo con borrachos como esos."
+        "en-US": "[Riot]\nKuk. kuk. kuk\nAre you using the technique I taught you well?\nBut that. If you use it carelessly, you'll be hated like me.\nKuk kuk kuk. So only use it on drunkards like that.",
+        "pt-BR": "[Riot]\nKuk. kuk. kuk\nVocê está usando bem a técnica que lhe ensinei?\nMas isso. Se você usar descuidadamente, será odiado como eu.\nKuk kuk kuk. Então só use em bêbados como aqueles.",
+        "es-ES": "[Riot]\nKuk. kuk. kuk\n¿Estás usando bien la técnica que te enseñé?\nPero eso. Si la usas descuidadamente, serás odiado como yo.\nKuk kuk kuk. Así que solo úsala en borrachos como esos."
     },
     "Pj4qAw": {
-        "ko-KR": "[라이오트]\n큭.큭.큭",
-        "en-US": "[Riot]\nKuk. Kuk. Kuk",
-        "pt-BR": "[Riot]\nKuk. Kuk. Kuk.",
-        "es-ES": "[Riot]\nJe. Je. Je."
+        "en-US": "[Riot]\nKuk. kuk. kuk",
+        "pt-BR": "[Riot]\nKuk. kuk. kuk",
+        "es-ES": "[Riot]\nKuk. kuk. kuk"
     },
     "Pz4qAw": {
-        "ko-KR": "- 음유시인은 그 둘 중 하나를 노려보며 나즈막하게 뭔가를 중얼거리기 시작했다. -",
-        "en-US": "- The bard began glaring at one of the two and muttering something under his breath. -",
-        "pt-BR": "- O menestrel começou a encarar um dos dois e a murmurar algo em voz baixa. -",
-        "es-ES": "- El bardo miró fijamente a uno de los dos y empezó a murmurar algo en voz baja. -"
+        "en-US": "- The bard starts muttering something quietly while staring at one of the two. -",
+        "pt-BR": "- O bardo começa a murmurar algo baixinho enquanto encara um dos dois. -",
+        "es-ES": "- El bardo comienza a murmurar algo en voz baja mientras mira fijamente a uno de los dos. -"
     },
     "QD4qAw": {
-        "ko-KR": "[라이오트]\n뭐야? 시인의 친구가 아닌 자와는 할 말이 없다.\n큭.큭.큭.",
-        "en-US": "[Riot]\nWhat? I have nothing to say to someone who is not a poet's friend.\nKuk. Kuk. Kuk.",
-        "pt-BR": "[Riot]\nO quê? Não tenho nada a dizer a quem não é amigo de poetas.\nKuk. Kuk. Kuk.",
-        "es-ES": "[Riot]\n¿Qué quieres? No tengo nada que decir a quien no es amigo de los poetas.\nJe. Je. Je."
+        "en-US": "[Riot]\nWhat? I have nothing to say to those who are not friends of bards.\nKuk. kuk. kuk.",
+        "pt-BR": "[Riot]\nO quê? Não tenho nada a dizer para aqueles que não são amigos dos bardos.\nKuk. kuk. kuk.",
+        "es-ES": "[Riot]\n¿Qué? No tengo nada que decir a aquellos que no son amigos de los bardos.\nKuk. kuk. kuk."
     },
     "QT4qAw": {
-        "ko-KR": "이히레",
-        "en-US": "Yhelle",
-        "pt-BR": "Yhelle",
-        "es-ES": "Yhelle"
+        "en-US": "Ihire",
+        "pt-BR": "Ihire",
+        "es-ES": "Ihire"
     },
     "Qj4qAw": {
-        "ko-KR": "[닭 이히레]\n꼬꾸욱?\n꼬꼬오오옥!!!",
-        "en-US": "[Chicken Yhelle]\nCluck?\nCluck cluck!!!",
-        "pt-BR": "[Galinha Yhelle]\nCóóó?\nCococóóó!!!",
-        "es-ES": "[Gallina Yhelle]\n¿Co-co?\n¡¡¡Cocorocooo!!!"
+        "en-US": "[Chicken Ihire]\nCluck?\nCLUCK!!",
+        "pt-BR": "[Galinha Ihire]\nCluck?\nCLUCK!!",
+        "es-ES": "[Gallina Ihire]\n¿Cluck?\n¡¡CLUCK!!"
     },
     "Qz4qAw": {
-        "ko-KR": "닭이 놀래서 도망쳤다.",
-        "en-US": "The chicken was startled and ran away.",
-        "pt-BR": "A galinha se assustou e fugiu.",
-        "es-ES": "La gallina huyó asustada."
+        "en-US": "The chicken gets startled and runs away.",
+        "pt-BR": "A galinha se assusta e foge.",
+        "es-ES": "La gallina se asusta y huye."
     },
     "RD4qAw": {
-        "ko-KR": "이히레의 알 다섯 개라고 했지? 라이오트에게 돌아가도록 할까?",
-        "en-US": "He said five Yhelle eggs, right? Shall I return to Riot?",
-        "pt-BR": "Ele disse cinco ovos de Yhelle, não disse? Vamos voltar a Riot?",
-        "es-ES": "Dijo que eran cinco huevos de Yhelle, ¿verdad? ¿Debería volver con Riot?"
+        "en-US": "He said five Ihire Eggs, right? Shall we head back to Riot?",
+        "pt-BR": "Ele disse cinco Ovos de Ihire, certo? Voltamos para Riot?",
+        "es-ES": "Dijo cinco Huevos de Ihire, ¿verdad? ¿Volvemos con Riot?"
     },
     "RT4qAw": {
-        "ko-KR": "^4D4DFF이히레가 있던 곳에서 '알' 발견.\n'알'을 하나 입수하였습니다.^191200",
-        "en-US": "^4D4DFFFound an 'egg' where Yhelle had been.\nObtained one 'egg'.^191200",
-        "pt-BR": "^4D4DFFUm 'ovo' foi encontrado no lugar onde Yhelle estava.\nVocê obteve um 'ovo'.^191200",
-        "es-ES": "^4D4DFFHas encontrado un 'huevo' donde estaba Yhelle.\nHas obtenido un 'huevo'.^191200"
+        "en-US": "^4D4DFFFound an 'Egg' where Ihire was.\nObtained one 'Egg'.^191200",
+        "pt-BR": "^4D4DFFEncontrou um 'Ovo' onde Ihire estava.\nObteve um 'Ovo'.^191200",
+        "es-ES": "^4D4DFFEncontraste un 'Huevo' donde estaba Ihire.\nObtuviste un 'Huevo'.^191200"
     },
     "Rj4qAw": {
-        "ko-KR": "손님",
-        "en-US": "Guest",
+        "en-US": "Customer",
         "pt-BR": "Cliente",
         "es-ES": "Cliente"
     },
     "Rz4qAw": {
-        "ko-KR": "[조금 취한 남자]\n역시 술은 말이야. 거기 어디냐. 거기 거기 그게 제일이야!\n트.. 트리스탄?",
-        "en-US": "[Slightly Drunk Man]\nWhen it comes to liquor, you know. Where was it again? That, that stuff is the best!\nT-Tristan?",
-        "pt-BR": "[Homem um pouco bêbado]\nSabe, bebida é... como é mesmo aquele lugar. Ali, ali, aquela é a melhor!\nTr... Tristan?",
-        "es-ES": "[Hombre algo ebrio]\nEl alcohol, verás. ¿Dónde era? Allí, allí, ese es el mejor.\n¿Tr... Tristan?"
+        "en-US": "[Slightly Drunk Man]\nWhen it comes to alcohol, you know, that one, that one's the best!\nT..Tristan?",
+        "pt-BR": "[Homem Ligeiramente Bêbado]\nQuando se trata de álcool, sabe, aquele, aquele é o melhor!\nT..Tristan?",
+        "es-ES": "[Hombre Ligeramente Bebido]\nCuando se trata de alcohol, sabes, ese, ¡ese es el mejor!\n¿T..Tristan?"
     },
     "SD4qAw": {
-        "ko-KR": "[많이 취한 남자]\n아~ 트리스탄 13년산? 히끅.\n하지만 우리같은 서민이 그런 비싼 술을 마실 수 있나?\n난 말여. 히끅. 거시기.. 히끅\n버밀....버무리....해변에 버무리....",
-        "en-US": "[Very Drunk Man]\nAh~ Tristan 13-year? Hic.\nBut can common folk like us drink such expensive liquor?\nFor me, hic. You know.. hic\nVermil... Vermurli.... mixed on the beach....",
-        "pt-BR": "[Homem muito bêbado]\nAh~ Tristan 13 anos? Hic.\nMas plebeus como nós conseguem beber algo tão caro?\nEu digo... hic. Aquilo... hic.\nVermil... vermistura... misturado na praia...",
-        "es-ES": "[Hombre muy ebrio]\nAh~ ¿Tristan de 13 años? Hic.\nPero ¿cómo vamos nosotros, gente humilde, a beber un licor tan caro?\nYo, verás. Hic. Eso... hic.\nBermil... bermu... bermu en la playa..."
+        "en-US": "[Very Drunk Man]\nAh~ Tristan 13-year aged? Hic.\nBut can we commoners drink such expensive liquor?\nI mean, hic. That thing.. hic\nVermil....Vermuli....Vermuli on the beach....",
+        "pt-BR": "[Homem Muito Bêbado]\nAh~ Tristan envelhecido 13 anos? Hic.\nMas nós, plebeus, podemos beber um licor tão caro?\nQuero dizer, hic. Aquela coisa.. hic\nVermil....Vermuli....Vermuli na praia....",
+        "es-ES": "[Hombre Muy Bebido]\nAh~ ¿Tristan añejado 13 años? Hip.\nPero, ¿nosotros los plebeyos podemos beber un licor tan caro?\nQuiero decir, hip. Esa cosa... hip\nVermil....Vermuli....Vermuli en la playa...."
     },
     "ST4qAw": {
-        "ko-KR": "[조금 취한 남자]\n버밀? 버밀리온 더 비치~!\n그으래! 그거 명품이지. 아주 한잔 들이키면 그냥 눈앞이 깜깜해진다고!",
-        "en-US": "[Slightly Drunk Man]\nVermil? Vermilion on the Beach~!\nThaaat's right! That's a fine drink. One sip and everything just goes dark before your eyes!",
-        "pt-BR": "[Homem um pouco bêbado]\nVermil? Escarlate Praiano~!\nIsso! Aquilo é coisa fina. Basta uma dose para tudo ficar escuro diante dos olhos!",
-        "es-ES": "[Hombre algo ebrio]\n¿Bermil? ¡Bermellón de playa~!\n¡Esooo! Es una obra maestra. ¡Con un solo trago se te apaga la vista!"
+        "en-US": "[Slightly Drunk Man]\nVermil? Vermilion the Beach~!\nYeeah! That's a luxury good. They say after one shot, everything goes dark!",
+        "pt-BR": "[Homem Ligeiramente Bêbado]\nVermil? Vermilion the Beach~!\nSim! Isso é um artigo de luxo. Dizem que depois de um gole, tudo fica escuro!",
+        "es-ES": "[Hombre Ligeramente Bebido]\n¡¿Vermil?! ¡¡Vermilion the Beach~!!\n¡Sí! Eso es un artículo de lujo. ¡Dicen que después de un trago, todo se oscurece!"
     },
     "Sj4qAw": {
-        "ko-KR": "[많이 취한 남자]\n히끅. 트로.트로피칼! 그것도 멋지래~\n아....\n나 잠시....",
-        "en-US": "[Very Drunk Man]\nHic. Tro... Tropical! That's great too~\nAh....\nI need a moment....",
-        "pt-BR": "[Homem muito bêbado]\nHic. Tro... tropical! Esse também é ótimo~\nAh....\nEu por um instante...",
-        "es-ES": "[Hombre muy ebrio]\nHic. ¡Tro... tropical! Ese también es genial~\nAh....\nYo un momento...."
+        "en-US": "[Very Drunk Man]\nHic. Tro..Tropical! They say that's also great~\nAh....\nI'll be right....",
+        "pt-BR": "[Homem Muito Bêbado]\nHic. Tro..Tropical! Dizem que também é ótimo~\nAh....\nJá volto....",
+        "es-ES": "[Hombre Muy Bebido]\nHip. Tro..¡Tropical! ¡Dicen que también es genial~\nAh....\nYa vuelvo...."
     },
     "Sz4qAw": {
-        "ko-KR": "[조금 취한 남자]\n내가 언제 그랬나!\n이상하게 몸이 제 멋대로 가네....딸꾹.\n술을 ...딸꾹. 너무 ....딸꾹....마셨나?",
-        "en-US": "[Slightly Drunk Man]\nWhen did I do that!\nMy body keeps moving strangely on its own....hic.\nDid I ...hic. drink too ....hic....much?",
-        "pt-BR": "[Homem um pouco bêbado]\nQuando foi que eu disse isso?!\nMeu corpo está se movendo sozinho de um jeito estranho... soluço.\nSerá que eu... soluço. bebi... soluço... demais?",
-        "es-ES": "[Hombre algo ebrio]\n¡¿Cuándo hice yo eso?!\nMi cuerpo se mueve raro por su cuenta... hic.\n¿He bebido... hic... demasiado... hic...?"
+        "en-US": "[Slightly Drunk Man]\nWhen did I ever do that!\nMy body's moving strangely on its own....hic.\nDid I...hic...drink too...hic...much?",
+        "pt-BR": "[Homem Ligeiramente Bêbado]\nQuando foi que eu fiz isso!\nMeu corpo está se movendo estranhamente sozinho....hic.\nEu...hic...bebi...hic...demais?",
+        "es-ES": "[Hombre Ligeramente Bebido]\n¡¿Cuándo hice yo eso?!\nMi cuerpo se está moviendo extrañamente solo....hip.\n¿Yo...hip...bebí...hip...demasiado?"
     },
     "TD4qAw": {
-        "ko-KR": "- 술을 마시던 두 남자는 볼일을 보러 가려는 듯 일어나더니 제각각 엉뚱한 방향으로 움직이며 당황해 했다.-",
-        "en-US": "- The two drinking men stood up as if to relieve themselves, then began moving in completely wrong directions and panicking.-",
-        "pt-BR": "- Os dois homens que bebiam se levantaram como se fossem resolver uma necessidade e ficaram confusos, movendo-se cada um para uma direção absurda. -",
-        "es-ES": "- Los dos hombres que bebían se levantaron como si fueran a hacer sus necesidades, pero se movieron cada uno en direcciones absurdas y se desconcertaron.-"
+        "en-US": "- The two men drinking stand up as if to go take care of something, then move in different, wrong directions, looking flustered.-",
+        "pt-BR": "- Os dois homens bebendo se levantam como se fossem cuidar de algo, então se movem em direções diferentes e erradas, parecendo confusos.-",
+        "es-ES": "- Los dos hombres bebiendo se levantan como si fueran a hacer algo, luego se mueven en direcciones diferentes y equivocadas, luciendo confundidos.-"
     },
     "TT4qAw": {
-        "ko-KR": "- 한쪽에서 그 광경을 지켜보던 음유시인이 큭. 하고 웃는다.-\n- 술은 많이 마시는게 아니다. -",
-        "en-US": "- The bard watching from one side laughed, kuk.-\n- One should not drink too much. -",
-        "pt-BR": "- O menestrel que observava a cena de um lado soltou uma risada: kuk. -\n- Não se deve beber demais. -",
-        "es-ES": "- El bardo que observaba la escena desde un lado soltó una risita.-\n- No conviene beber demasiado. -"
+        "en-US": "- The bard watching from the corner chuckles, 'Kuk'.-\n- Drinking too much is not good. -",
+        "pt-BR": "- O bardo observando do canto ri, 'Kuk'.-\n- Beber demais não é bom. -",
+        "es-ES": "- El bardo observando desde la esquina se ríe, 'Kuk'.-\n- Beber demasiado no es bueno. -"
     },
     "Tj4qAw": {
-        "ko-KR": "바텐더",
         "en-US": "Bartender",
-        "pt-BR": "Barman",
-        "es-ES": "Camarero"
+        "pt-BR": "Garçom",
+        "es-ES": "Cantinero"
     },
     "Tz4qAw": {
-        "ko-KR": "- 여기서 잠깐 !! -\n- 가지고 계신 아이템이 너무 많아 -\n- 아이템을 받을 수 없습니다. -\n- 몸을 가볍게 하시고 -\n- 다시 시도해주세요. -",
-        "en-US": "- Wait a moment!! -\n- You are carrying too many items -\n- and cannot receive any more. -\n- Please lighten your load -\n- and try again. -",
-        "pt-BR": "- Espere um pouco!! -\n- Você está carregando itens demais -\n- e não pode receber itens. -\n- Alivie sua carga -\n- e tente novamente. -",
-        "es-ES": "- ¡¡Un momento!! -\n- Llevas demasiados objetos, -\n- así que no puedes recibir más. -\n- Aligera tu carga -\n- e inténtalo de nuevo. -"
+        "en-US": "- Hold it right there !! -\n- You have too many items in your possession -\n- Cannot receive items. -\n- Please lighten your load -\n- And try again. -",
+        "pt-BR": "- Pare aí mesmo !! -\n- Você está com muitos itens -\n- Não pode receber itens. -\n- Por favor, alivie sua carga -\n- E tente novamente. -",
+        "es-ES": "- ¡¡Detente ahí mismo!! -\n- Tienes demasiados objetos. -\n- No puedes recibir objetos. -\n- Por favor, aligera tu carga -\n- E inténtalo de nuevo. -"
     },
     "UD4qAw": {
-        "ko-KR": "[바텐더]\n주문 하겠나?",
         "en-US": "[Bartender]\nWill you order?",
-        "pt-BR": "[Barman]\nVai fazer um pedido?",
-        "es-ES": "[Camarero]\n¿Vas a pedir algo?"
+        "pt-BR": "[Garçom]\nVai pedir?",
+        "es-ES": "[Cantinero]\n¿Va a pedir?"
     },
     "UT4qAw": {
-        "ko-KR": "트로피칼 소그라트",
         "en-US": "Tropical Sograt",
-        "pt-BR": "Sograt Tropical",
-        "es-ES": "Sograt tropical"
+        "pt-BR": "Tropical Sograt",
+        "es-ES": "Tropical Sograt"
     },
     "Uj4qAw": {
-        "ko-KR": "버밀리온 더 비치",
-        "en-US": "Vermilion on the Beach",
-        "pt-BR": "Escarlate Praiano",
-        "es-ES": "Bermellón de playa"
+        "en-US": "Vermilion the Beach",
+        "pt-BR": "Vermilion the Beach",
+        "es-ES": "Vermilion the Beach"
     },
     "Uz4qAw": {
-        "ko-KR": "그만 둔다.",
-        "en-US": "Cancel.",
-        "pt-BR": "Desistir.",
-        "es-ES": "Dejarlo."
+        "en-US": "Stop.",
+        "pt-BR": "Parar.",
+        "es-ES": "Parar."
     },
     "VD4qAw": {
-        "ko-KR": "[바텐더]\n자네 술잔 들 기운은 있는가?\n뭐 그리 주렁주렁 달고 다니나.",
-        "en-US": "[Bartender]\nDo you even have the strength to hold a glass?\nWhy are you carrying so much stuff around?",
-        "pt-BR": "[Barman]\nVocê tem força para segurar um copo?\nPor que anda carregando tanta coisa pendurada?",
-        "es-ES": "[Camarero]\n¿Tienes siquiera fuerzas para levantar una copa?\n¿Por qué llevas tantas cosas encima?"
+        "en-US": "[Bartender]\nDo you even have the strength to hold a drink?\nWhy are you carrying so many things?",
+        "pt-BR": "[Garçom]\nVocê ao menos tem força para segurar uma bebida?\nPor que está carregando tantas coisas?",
+        "es-ES": "[Cantinero]\n¿Al menos tienes fuerza para sostener una bebida?\n¿Por qué llevas tantas cosas?"
     },
     "VT4qAw": {
-        "ko-KR": "[바텐더]\n.... 지불할 능력은 되나?\n지갑부터 확인하고 주문하게.\n한 잔에 1000제니.",
-        "en-US": "[Bartender]\n....Can you afford to pay?\nCheck your wallet before ordering.\n1000 Zeny per glass.",
-        "pt-BR": "[Barman]\n.... Tem como pagar?\nConfira a carteira antes de pedir.\n1000 zenys por copo.",
-        "es-ES": "[Camarero]\n....¿Puedes pagar?\nRevisa primero tu cartera antes de pedir.\nSon 1000 zeny por copa."
+        "en-US": "[Bartender]\n.... Can you afford it?\nCheck your wallet first before ordering.\n1000 zeny per glass.",
+        "pt-BR": "[Garçom]\n.... Você pode pagar?\nVerifique sua carteira primeiro antes de pedir.\n1000 zeny por copo.",
+        "es-ES": "[Cantinero]\n.... ¿Puedes pagarlo?\nRevisa tu billetera primero antes de pedir.\n1000 zeny por vaso."
     },
     "Vj4qAw": {
-        "ko-KR": "[바텐더]\n여기 있네.\n과일즙이 주성분이긴 하지만\n과음은 말게.",
-        "en-US": "[Bartender]\nHere you are.\nIt's mostly fruit juice,\nbut don't drink too much.",
-        "pt-BR": "[Barman]\nAqui está.\nÉ feito principalmente de suco de frutas,\nmas não exagere.",
-        "es-ES": "[Camarero]\nAquí tienes.\nAunque está hecho principalmente con zumo de fruta,\nno bebas en exceso."
+        "en-US": "[Bartender]\nHere you go.\nFruit juice is the main ingredient, but\ndon't overdrink.",
+        "pt-BR": "[Garçom]\nAqui está.\nSuco de fruta é o ingrediente principal, mas\nnão beba demais.",
+        "es-ES": "[Cantinero]\nAquí tienes.\nEl jugo de fruta es el ingrediente principal, pero\nno bebas demasiado."
     },
     "Vz4qAw": {
-        "ko-KR": "[바텐더]\n여기 있네.\n과음은 말게.",
-        "en-US": "[Bartender]\nHere you are.\nDon't drink too much.",
-        "pt-BR": "[Barman]\nAqui está.\nNão exagere.",
-        "es-ES": "[Camarero]\nAquí tienes.\nNo bebas en exceso."
+        "en-US": "[Bartender]\nHere you go.\nDon't overdrink.",
+        "pt-BR": "[Garçom]\nAqui está.\nNão beba demais.",
+        "es-ES": "[Cantinero]\nAquí tienes.\nNo bebas demasiado."
     },
     "WD4qAw": {
-        "ko-KR": "[바텐더]\n흠...",
         "en-US": "[Bartender]\nHmm...",
-        "pt-BR": "[Barman]\nHmm...",
-        "es-ES": "[Camarero]\nMmm..."
+        "pt-BR": "[Garçom]\nHmm...",
+        "es-ES": "[Cantinero]\nHmm..."
     }
 }

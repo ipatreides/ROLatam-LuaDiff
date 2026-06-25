@@ -216,8 +216,8 @@
     },
     "y9cmAg": {
         "en-US": "ssss[{0}] guild has conquered Gondul in the [{1}] Realm.",
-        "pt-BR": "ssssO clã [{0}] conquistou o castelo [{1}]",
-        "es-ES": "ssssEl gremio [{0}] conquistó el castillo [{1}]"
+        "pt-BR": "ssssO clã [{0}] conquistou o castelo de [{ignorei18n_agitName}]",
+        "es-ES": "ssssEl gremio [{0}] conquistó el castillo de [{ignorei18n_agitName}]"
     },
     "zNcmAg": {
         "en-US": "The Emperium has been destroyed.",
@@ -688,5 +688,45 @@
         "en-US": "Nothing happened.",
         "pt-BR": "Não aconteceu nada.",
         "es-ES": "No pasó nada."
+    },
+    "KtgmAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "K9gmAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "LNgmAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "LdgmAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "LtgmAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "L9gmAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "MNgmAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "MdgmAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     }
 }

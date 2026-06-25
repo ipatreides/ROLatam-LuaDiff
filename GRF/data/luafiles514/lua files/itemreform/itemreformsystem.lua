@@ -1215,6 +1215,1956 @@ ReformInfo = {
 			"3) Informações de cartas e encantamentos : Mantidas"
 		}
 	},
+	[51] = {
+		BaseItem = "Adulter_F_T_Sword",
+		Material = {
+			Conse_F_T_Sword = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_T_Sword",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[52] = {
+		BaseItem = "Adulter_F_Lance",
+		Material = {
+			Conse_F_Lance = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[53] = {
+		BaseItem = "Adulter_F_G_Sword",
+		Material = {
+			Conse_F_G_Sword = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_G_Sword",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[54] = {
+		BaseItem = "Adulter_F_G_Spear",
+		Material = {
+			Conse_F_G_Spear = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_G_Spear",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[55] = {
+		BaseItem = "Adulter_F_Axe",
+		Material = {
+			Conse_F_Axe = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Axe",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[56] = {
+		BaseItem = "Adulter_F_Mace",
+		Material = {
+			Conse_F_Mace = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Mace",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[57] = {
+		BaseItem = "Adulter_F_Lapier",
+		Material = {
+			Conse_F_Lapier = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Lapier",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[58] = {
+		BaseItem = "Adulter_F_Hall",
+		Material = {
+			Conse_F_Hall = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Hall",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[59] = {
+		BaseItem = "Adulter_F_Cakram",
+		Material = {
+			Conse_F_Cakram = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Cakram",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[60] = {
+		BaseItem = "Adulter_F_Katar",
+		Material = {
+			Conse_F_Katar = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Katar",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[61] = {
+		BaseItem = "Adulter_F_Dagger",
+		Material = {
+			Conse_F_Dagger = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Dagger",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[62] = {
+		BaseItem = "Adulter_F_C_Bow",
+		Material = {
+			Conse_F_C_Bow = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_C_Bow",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[63] = {
+		BaseItem = "Adulter_F_T_Staff",
+		Material = {
+			Conse_F_T_Staff = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_T_Staff",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[64] = {
+		BaseItem = "Adulter_F_Rod",
+		Material = {
+			Conse_F_Rod = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Rod",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[65] = {
+		BaseItem = "Adulter_F_M_Book",
+		Material = {
+			Conse_F_M_Book = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_M_Book",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[66] = {
+		BaseItem = "Adulter_F_P_Book",
+		Material = {
+			Conse_F_P_Book = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_P_Book",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[67] = {
+		BaseItem = "Adulter_F_Bible",
+		Material = {
+			Conse_F_Bible = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Bible",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[68] = {
+		BaseItem = "Adulter_F_Wand",
+		Material = {
+			Conse_F_Wand = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Wand",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[69] = {
+		BaseItem = "Adulter_F_Knuckle",
+		Material = {
+			Conse_F_Knuckle = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Knuckle",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[70] = {
+		BaseItem = "Adulter_F_Claw",
+		Material = {
+			Conse_F_Claw = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Claw",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[71] = {
+		BaseItem = "Adulter_F_Ballista",
+		Material = {
+			Conse_F_Ballista = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Ballista",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[72] = {
+		BaseItem = "Adulter_F_A_Bow",
+		Material = {
+			Conse_F_A_Bow = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_A_Bow",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[73] = {
+		BaseItem = "Adulter_F_Violin",
+		Material = {
+			Conse_F_Violin = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Violin",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[74] = {
+		BaseItem = "Adulter_F_C_Rope",
+		Material = {
+			Conse_F_C_Rope = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_C_Rope",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[75] = {
+		BaseItem = "Adulter_F_Harp",
+		Material = {
+			Conse_F_Harp = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Harp",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[76] = {
+		BaseItem = "Adulter_F_Ribbon",
+		Material = {
+			Conse_F_Ribbon = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Ribbon",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[77] = {
+		BaseItem = "Adulter_F_T_Sword",
+		Material = {
+			Conse_F_T_Sword = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_T_Sword",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[78] = {
+		BaseItem = "Adulter_F_Lance",
+		Material = {
+			Conse_F_Lance = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[79] = {
+		BaseItem = "Adulter_F_G_Sword",
+		Material = {
+			Conse_F_G_Sword = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_G_Sword",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[80] = {
+		BaseItem = "Adulter_F_G_Spear",
+		Material = {
+			Conse_F_G_Spear = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_G_Spear",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[81] = {
+		BaseItem = "Adulter_F_Axe",
+		Material = {
+			Conse_F_Axe = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Axe",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[82] = {
+		BaseItem = "Adulter_F_Mace",
+		Material = {
+			Conse_F_Mace = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Mace",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[83] = {
+		BaseItem = "Adulter_F_Lapier",
+		Material = {
+			Conse_F_Lapier = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lapier",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[84] = {
+		BaseItem = "Adulter_F_Hall",
+		Material = {
+			Conse_F_Hall = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Hall",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[85] = {
+		BaseItem = "Adulter_F_Cakram",
+		Material = {
+			Conse_F_Cakram = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Cakram",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[86] = {
+		BaseItem = "Adulter_F_Katar",
+		Material = {
+			Conse_F_Katar = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Katar",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[87] = {
+		BaseItem = "Adulter_F_Dagger",
+		Material = {
+			Conse_F_Dagger = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Dagger",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[88] = {
+		BaseItem = "Adulter_F_C_Bow",
+		Material = {
+			Conse_F_C_Bow = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_C_Bow",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[89] = {
+		BaseItem = "Adulter_F_T_Staff",
+		Material = {
+			Conse_F_T_Staff = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_T_Staff",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[90] = {
+		BaseItem = "Adulter_F_Rod",
+		Material = {
+			Conse_F_Rod = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Rod",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[91] = {
+		BaseItem = "Adulter_F_M_Book",
+		Material = {
+			Conse_F_M_Book = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_M_Book",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[92] = {
+		BaseItem = "Adulter_F_P_Book",
+		Material = {
+			Conse_F_P_Book = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_P_Book",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[93] = {
+		BaseItem = "Adulter_F_Bible",
+		Material = {
+			Conse_F_Bible = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Bible",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[94] = {
+		BaseItem = "Adulter_F_Wand",
+		Material = {
+			Conse_F_Wand = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Wand",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[95] = {
+		BaseItem = "Adulter_F_Knuckle",
+		Material = {
+			Conse_F_Knuckle = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Knuckle",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[96] = {
+		BaseItem = "Adulter_F_Claw",
+		Material = {
+			Conse_F_Claw = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Claw",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[97] = {
+		BaseItem = "Adulter_F_Ballista",
+		Material = {
+			Conse_F_Ballista = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Ballista",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[98] = {
+		BaseItem = "Adulter_F_A_Bow",
+		Material = {
+			Conse_F_A_Bow = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_A_Bow",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[99] = {
+		BaseItem = "Adulter_F_Violin",
+		Material = {
+			Conse_F_Violin = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Violin",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[100] = {
+		BaseItem = "Adulter_F_C_Rope",
+		Material = {
+			Conse_F_C_Rope = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_C_Rope",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[101] = {
+		BaseItem = "Adulter_F_Harp",
+		Material = {
+			Conse_F_Harp = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Harp",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[102] = {
+		BaseItem = "Adulter_F_Ribbon",
+		Material = {
+			Conse_F_Ribbon = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Ribbon",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[370] = {
+		BaseItem = "Adulter_F_Humma",
+		Material = {
+			Conse_F_Humma = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Humma",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[371] = {
+		BaseItem = "Adulter_F_C_Humma",
+		Material = {
+			Conse_F_C_Humma = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_C_Humma",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[372] = {
+		BaseItem = "Adulter_F_Revolver",
+		Material = {
+			Conse_F_Revolver = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Revolver",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[373] = {
+		BaseItem = "Adulter_F_Rifle",
+		Material = {
+			Conse_F_Rifle = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Rifle",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[374] = {
+		BaseItem = "Adulter_F_Gatling",
+		Material = {
+			Conse_F_Gatling = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Gatling",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[375] = {
+		BaseItem = "Adulter_F_Launcher",
+		Material = {
+			Conse_F_Launcher = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Launcher",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[376] = {
+		BaseItem = "Adulter_F_Moon_B",
+		Material = {
+			Conse_F_Moon_B = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Moon_B",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[377] = {
+		BaseItem = "Adulter_F_Star_B",
+		Material = {
+			Conse_F_Star_B = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Star_B",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[378] = {
+		BaseItem = "Adulter_F_S_Stick",
+		Material = {
+			Conse_F_S_Stick = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_S_Stick",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[379] = {
+		BaseItem = "Adulter_F_D_Wand",
+		Material = {
+			Conse_F_D_Wand = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_D_Wand",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[380] = {
+		BaseItem = "Adulter_F_F_Wand",
+		Material = {
+			Conse_F_F_Wand = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_F_Wand",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[381] = {
+		BaseItem = "Adulter_F_F_model",
+		Material = {
+			Conse_F_F_model = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_F_model",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[394] = {
+		BaseItem = "Adulter_F_Humma",
+		Material = {
+			Conse_F_Humma = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[395] = {
+		BaseItem = "Adulter_F_C_Humma",
+		Material = {
+			Conse_F_C_Humma = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[396] = {
+		BaseItem = "Adulter_F_Revolver",
+		Material = {
+			Conse_F_Revolver = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[397] = {
+		BaseItem = "Adulter_F_Rifle",
+		Material = {
+			Conse_F_Rifle = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[398] = {
+		BaseItem = "Adulter_F_Gatling",
+		Material = {
+			Conse_F_Gatling = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[399] = {
+		BaseItem = "Adulter_F_Launcher",
+		Material = {
+			Conse_F_Launcher = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[400] = {
+		BaseItem = "Adulter_F_Moon_B",
+		Material = {
+			Conse_F_Moon_B = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[401] = {
+		BaseItem = "Adulter_F_Star_B",
+		Material = {
+			Conse_F_Star_B = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[402] = {
+		BaseItem = "Adulter_F_S_Stick",
+		Material = {
+			Conse_F_S_Stick = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[403] = {
+		BaseItem = "Adulter_F_D_Wand",
+		Material = {
+			Conse_F_D_Wand = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[404] = {
+		BaseItem = "Adulter_F_F_Wand",
+		Material = {
+			Conse_F_F_Wand = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[405] = {
+		BaseItem = "Adulter_F_F_model",
+		Material = {
+			Conse_F_F_model = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[430] = {
+		BaseItem = "Adulter_F_Shotgun",
+		Material = {
+			Conse_F_Shotgun = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Shotgun",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-5^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[431] = {
+		BaseItem = "Adulter_F_Shotgun",
+		Material = {
+			Conse_F_Shotgun = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Shotgun",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^FF0000-1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
 	[223] = {
 		BaseItem = "Up_Saint_Hall",
 		Material = {},
@@ -2762,6 +4712,1506 @@ ReformInfo = {
 			"2) Informações de opção aleatória : ser removido",
 			"3) Informações de classificação : Mantidas"
 		}
+	},
+	[318] = {
+		BaseItem = "Vivatus_F_M_Book",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_M_Book",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[319] = {
+		BaseItem = "Vivatus_F_P_Book",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_P_Book",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[320] = {
+		BaseItem = "Vivatus_F_Bible",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Bible",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[321] = {
+		BaseItem = "Vivatus_F_Ribbon",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Ribbon",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[322] = {
+		BaseItem = "Vivatus_F_Harp",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Harp",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[323] = {
+		BaseItem = "Vivatus_F_Claw",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Claw",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[324] = {
+		BaseItem = "Vivatus_F_C_Rope",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_C_Rope",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[325] = {
+		BaseItem = "Vivatus_F_Violin",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Violin",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[326] = {
+		BaseItem = "Vivatus_F_A_Bow",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_A_Bow",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[327] = {
+		BaseItem = "Vivatus_F_Ballista",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Ballista",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[328] = {
+		BaseItem = "Vivatus_F_Knuckle",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Knuckle",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[329] = {
+		BaseItem = "Vivatus_F_Wand",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Wand",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[330] = {
+		BaseItem = "Vivatus_F_Rod",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Rod",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[331] = {
+		BaseItem = "Vivatus_F_T_Staff",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_T_Staff",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[332] = {
+		BaseItem = "Vivatus_F_C_Bow",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_C_Bow",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[333] = {
+		BaseItem = "Vivatus_F_Cakram",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Cakram",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[334] = {
+		BaseItem = "Vivatus_F_Hall",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Hall",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[335] = {
+		BaseItem = "Vivatus_F_Dagger",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Dagger",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[336] = {
+		BaseItem = "Vivatus_F_Katar",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Katar",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[337] = {
+		BaseItem = "Vivatus_F_Lapier",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Lapier",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[338] = {
+		BaseItem = "Vivatus_F_Mace",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Mace",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[339] = {
+		BaseItem = "Vivatus_F_G_Sword",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_G_Sword",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[340] = {
+		BaseItem = "Vivatus_F_Axe",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Axe",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[341] = {
+		BaseItem = "Vivatus_F_G_Spear",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_G_Spear",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[342] = {
+		BaseItem = "Vivatus_F_Lance",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[343] = {
+		BaseItem = "Vivatus_F_T_Sword",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_T_Sword",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[406] = {
+		BaseItem = "Vivatus_F_Humma",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Humma",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[407] = {
+		BaseItem = "Vivatus_F_C_Humma",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_C_Humma",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[408] = {
+		BaseItem = "Vivatus_F_Revolver",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Revolver",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[409] = {
+		BaseItem = "Vivatus_F_Rifle",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Rifle",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[410] = {
+		BaseItem = "Vivatus_F_Gatling",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Gatling",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[411] = {
+		BaseItem = "Vivatus_F_Launcher",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Launcher",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[412] = {
+		BaseItem = "Vivatus_F_Moon_B",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Moon_B",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[413] = {
+		BaseItem = "Vivatus_F_Star_B",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Star_B",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[414] = {
+		BaseItem = "Vivatus_F_S_Stick",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_S_Stick",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[415] = {
+		BaseItem = "Vivatus_F_D_Wand",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_D_Wand",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[416] = {
+		BaseItem = "Vivatus_F_F_Wand",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_F_Wand",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[417] = {
+		BaseItem = "Vivatus_F_Shotgun",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Shotgun",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[432] = {
+		BaseItem = "Vivatus_F_F_model",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_F_model",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[1874] = {
+		BaseItem = "Vivatus_F_N_Hall",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_N_Hall",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[1875] = {
+		BaseItem = "Vivatus_F_N_Axe",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_N_Axe",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[644] = {
+		BaseItem = "Viva_Adul_Hat_WL1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_WL1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[645] = {
+		BaseItem = "Viva_Adul_Hat_WL2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_WL2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[646] = {
+		BaseItem = "Viva_Adul_Hat_SR1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SR1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[647] = {
+		BaseItem = "Viva_Adul_Hat_SR2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SR2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[648] = {
+		BaseItem = "Viva_Adul_Hat_AB1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_AB1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[649] = {
+		BaseItem = "Viva_Adul_Hat_AB2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_AB2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[650] = {
+		BaseItem = "Viva_Adul_Hat_SC1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SC1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[651] = {
+		BaseItem = "Viva_Adul_Hat_SC2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SC2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[652] = {
+		BaseItem = "Viva_Adul_Hat_RA1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_RA1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[653] = {
+		BaseItem = "Viva_Adul_Hat_RA2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_RA2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[654] = {
+		BaseItem = "Viva_Adul_Hat_LG1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_LG1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[655] = {
+		BaseItem = "Viva_Adul_Hat_LG2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_LG2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[656] = {
+		BaseItem = "Viva_Adul_Hat_GC1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_GC1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[657] = {
+		BaseItem = "Viva_Adul_Hat_GC2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_GC2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[658] = {
+		BaseItem = "Viva_Adul_Hat_SO1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SO1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[659] = {
+		BaseItem = "Viva_Adul_Hat_SO2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SO2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[660] = {
+		BaseItem = "Viva_Adul_Hat_RK1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_RK1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[661] = {
+		BaseItem = "Viva_Adul_Hat_RK2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_RK2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[662] = {
+		BaseItem = "Viva_Adul_Hat_WM1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_WM1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[663] = {
+		BaseItem = "Viva_Adul_Hat_WM2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_WM2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[664] = {
+		BaseItem = "Viva_Adul_Hat_NC1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_NC1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[665] = {
+		BaseItem = "Viva_Adul_Hat_NC2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_NC2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[666] = {
+		BaseItem = "Viva_Adul_Hat_GN1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_GN1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[667] = {
+		BaseItem = "Viva_Adul_Hat_GN2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_GN2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[668] = {
+		BaseItem = "Viva_Adul_Hat_KO1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_KO1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[669] = {
+		BaseItem = "Viva_Adul_Hat_KO2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_KO2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[670] = {
+		BaseItem = "Viva_Adul_Hat_RL1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_RL1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[671] = {
+		BaseItem = "Viva_Adul_Hat_RL2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_RL2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[672] = {
+		BaseItem = "Viva_Adul_Hat_SP1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SP1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[673] = {
+		BaseItem = "Viva_Adul_Hat_SP2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SP2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[674] = {
+		BaseItem = "Viva_Adul_Hat_SJ1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SJ1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[675] = {
+		BaseItem = "Viva_Adul_Hat_SJ2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SJ2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[676] = {
+		BaseItem = "Viva_Adul_Hat_SU1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SU1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[677] = {
+		BaseItem = "Viva_Adul_Hat_SU2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SU2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
 	}
 }
 ReformItemList = {
@@ -2834,6 +6284,62 @@ ReformItemList = {
 		164,
 		714,
 		715
+	},
+	Consecrate_Weapon_1 = {
+		51,
+		52,
+		53,
+		54,
+		55,
+		56,
+		57,
+		58,
+		59,
+		60,
+		61,
+		62,
+		63,
+		64,
+		65,
+		66,
+		67,
+		68,
+		69,
+		70,
+		71,
+		72,
+		73,
+		74,
+		75,
+		76
+	},
+	Consecrate_Weapon_2 = {
+		77,
+		78,
+		79,
+		80,
+		81,
+		82,
+		83,
+		84,
+		85,
+		86,
+		87,
+		88,
+		89,
+		90,
+		91,
+		92,
+		93,
+		94,
+		95,
+		96,
+		97,
+		98,
+		99,
+		100,
+		101,
+		102
 	},
 	Hero_Weapon_Up_Box_1 = {
 		223,
@@ -2933,5 +6439,84 @@ ReformItemList = {
 		604,
 		605,
 		606
+	},
+	Vivatus_Weapon_Hammer = {
+		318,
+		319,
+		320,
+		321,
+		322,
+		323,
+		324,
+		325,
+		326,
+		327,
+		328,
+		329,
+		330,
+		331,
+		332,
+		333,
+		334,
+		335,
+		336,
+		337,
+		338,
+		339,
+		340,
+		341,
+		342,
+		343,
+		406,
+		407,
+		408,
+		409,
+		410,
+		411,
+		412,
+		413,
+		414,
+		415,
+		416,
+		417,
+		432,
+		1874,
+		1875
+	},
+	Helm_Of_Faith_Hammer = {
+		644,
+		645,
+		646,
+		647,
+		648,
+		649,
+		650,
+		651,
+		652,
+		653,
+		654,
+		655,
+		656,
+		657,
+		658,
+		659,
+		660,
+		661,
+		662,
+		663,
+		664,
+		665,
+		666,
+		667,
+		668,
+		669,
+		670,
+		671,
+		672,
+		673,
+		674,
+		675,
+		676,
+		677
 	}
 }

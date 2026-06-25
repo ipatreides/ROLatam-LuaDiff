@@ -25247,7 +25247,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SWHOO] = {
 		"SP_SWHOO",
-		SkillName = "Eswoo",
+		SkillName = "Eswhoo",
 		MaxLv = 10,
 		SpAmount = {
 			66,

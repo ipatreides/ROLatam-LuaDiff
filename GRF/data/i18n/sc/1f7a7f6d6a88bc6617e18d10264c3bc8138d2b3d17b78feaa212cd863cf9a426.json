@@ -1,0 +1,1487 @@
+{
+    "YNIzDQ": {
+        "en-US": "Kerlin",
+        "pt-BR": "Kerlin",
+        "es-ES": "Kerlin"
+    },
+    "YdIzDQ": {
+        "en-US": "<Popcorn Festa Committee>",
+        "pt-BR": "<Comitê da Festa da Pipoca>",
+        "es-ES": "<Comité del Festival de las Palomitas>"
+    },
+    "YtIzDQ": {
+        "en-US": "[Kerlin]\nYou're an adventurer who needs more experience. If you come back after building up your skills a bit more, I'll ask for your help then.",
+        "pt-BR": "[Kerlin]\nVocê é um viajante que precisa de mais experiência. Se você voltar depois de aprimorar suas habilidades, vou pedir sua ajuda.",
+        "es-ES": "[Kerlin]\nEres un trotamundos que aún necesita acumular más experiencia. Si regresas cuando hayas mejorado tus habilidades, voy a pedir tu ayuda."
+    },
+    "Y9IzDQ": {
+        "en-US": "- Event available from Level 30. -",
+        "pt-BR": "- Evento disponível a partir do nível 30. -",
+        "es-ES": "- Evento disponible a partir del nivel 30. -"
+    },
+    "ZNIzDQ": {
+        "en-US": "[Kerlin]\nYour bag is full. There's no room for the ^4D4DFFFestival Gift^000000. Please empty your bag and come back.",
+        "pt-BR": "[Kerlin]\nSua mochila está cheia. Não há espaço para colocar o ^4D4DFFPresente do Festival^000000. Esvazie sua mochila e volte.",
+        "es-ES": "[Kerlin]\nTu mochila está llena. No hay espacio para poner el ^4D4DFFRegalo del Festival^000000. Vacía tu mochila y regresa."
+    },
+    "ZdIzDQ": {
+        "en-US": "- Your inventory is full. Please empty your bag and talk to me again. -",
+        "pt-BR": "- Seu inventário está cheio. Esvazie sua mochila e fale comigo de novo. -",
+        "es-ES": "- Tu mochila está llena. Vacíala y háblame de nuevo. -"
+    },
+    "ZtIzDQ": {
+        "en-US": "[Kerlin]\nGreetings, Adventurer!\nI'm ^4D4DFFKerlin^000000, the person in charge of registration for this year's Popcorn Festa.",
+        "pt-BR": "[Kerlin]\nSaudações, Viajante!\nSou ^4D4DFFKerlin^000000, a responsável pela inscrição na Festa da Pipoca desse ano.",
+        "es-ES": "[Kerlin]\n¡Saludos, Trotamundos!\nSoy ^4D4DFFKerlin^000000, encargada del registro en el Festival de las Palomitas este año."
+    },
+    "Z9IzDQ": {
+        "en-US": "[Kerlin]\nYou've come at the perfect time when Comodo is at its most splendid.",
+        "pt-BR": "[Kerlin]\nVocê veio exatamente na época em que Comodo está mais esplêndida.",
+        "es-ES": "[Kerlin]\nLlegaste justo en la época más espléndida de Comodo."
+    },
+    "aNIzDQ": {
+        "en-US": "[Kerlin]\nHow do you like Comodo in June? Isn't it truly magnificent?",
+        "pt-BR": "[Kerlin]\nO que está achando de Comodo em junho? Não é magnífica?",
+        "es-ES": "[Kerlin]\n¿Qué tal Comodo en junio? ¿No es increíble?"
+    },
+    "adIzDQ": {
+        "en-US": "You mean this place is magnificent?",
+        "pt-BR": "Esse lugar aqui é magnífico?",
+        "es-ES": "¿Ese lugar es increíble?"
+    },
+    "atIzDQ": {
+        "en-US": "It's crazy hot, isn't it?",
+        "pt-BR": "Está um calor infernal, não está?",
+        "es-ES": "Hace un calor insoportable, ¿verdad?"
+    },
+    "a9IzDQ": {
+        "en-US": "[Kerlin]\nRight now... Is the hottest time in Comodo.",
+        "pt-BR": "[Kerlin]\nAgora... É a época mais quente de Comodo.",
+        "es-ES": "[Kerlin]\nAhora... Es el período más caliente de Comodo."
+    },
+    "bNIzDQ": {
+        "en-US": "[Kerlin]\nIn the past, we thought of it as a disaster that Comodo gets this hot every June and lava overflows in the Volcanic Island of Korodo.",
+        "pt-BR": "[Kerlin]\nAntes, a gente pensava que era um desastre Comodo ficar tão quente todo mês de junho e a lava transbordar na ilha vulcânica Korodo.",
+        "es-ES": "[Kerlin]\nAntes pensábamos que era un desastre que Comodo se calentara tanto cada mes de junio y que la lava se desbordara en la isla volcánica Korodo."
+    },
+    "bdIzDQ": {
+        "en-US": "[Kerlin]\nAt some point, the residents of Comodo here started to not avoid this annual phenomenon, but instead started to enjoy it.",
+        "pt-BR": "[Kerlin]\nEm algum momento, os moradores de Comodo começaram a não evitar esse fenômeno anual e o transformaram em diversão.",
+        "es-ES": "[Kerlin]\nEn algún momento, los habitantes de Comodo, en lugar de huir de este fenómeno anual, empezaron a transformarlo en diversión."
+    },
+    "btIzDQ": {
+        "en-US": "[Kerlin]\nAnd the event that originated from that is the ^4D4DFFPopcorn Festa^000000!",
+        "pt-BR": "[Kerlin]\nE o evento que originou disso é a ^4D4DFFFesta da Pipoca^000000!",
+        "es-ES": "[Kerlin]\n¡Y el evento que surgió de eso es precisamente el ^4D4DFFFiesta de las Palomitas^000000!"
+    },
+    "b9IzDQ": {
+        "en-US": "[Kerlin]\nSo, how about registering for the Popcorn Festa? If you do, I'll give you this ^4D4DFF[Costume] Poppycorn^000000 that I'm wearing as a gift!",
+        "pt-BR": "[Kerlin]\nEntão, que tal se inscrever na Festa da Pipoca? Se você o fizer, vou te dar esse ^4D4DFF[Visual] Pipoquinho^000000 que estou vestindo de presente!",
+        "es-ES": "[Kerlin]\nEntonces, ¿no te gustaría registrarte en la Fiesta de las Palomitas? Al hacerlo, ¡te voy a regalar este ^4D4DFF[Disfraz] Palomitín^000000 que llevo puesto!"
+    },
+    "cNIzDQ": {
+        "en-US": "[Kerlin]\nI need ^4D4DFF10 Blazing Beads^000000 to craft it. Is that okay?",
+        "pt-BR": "[Kerlin]\nPreciso de ^4D4DFF10 Piroclastos^000000 para fabricá-lo. Tudo bem?",
+        "es-ES": "[Kerlin]\nSe necesitan ^4D4DFF10 Piroclastos^000000 para fabricarlo. ¿Está bien?"
+    },
+    "cdIzDQ": {
+        "en-US": "[Kerlin]\nIf you bring me 10 Blazing Beads, I'll give you the gift and proceed with your Popcorn Festa registration!",
+        "pt-BR": "[Kerlin]\nSe você trouxer 10 Piroclastos, vou te dar o presente e te inscrever na Festa da Pipoca!",
+        "es-ES": "[Kerlin]\n¡Si me traes 10 Piroclastos, te voy entregar el regalo y hacer tu registro en la Fiesta de las Palomitas!"
+    },
+    "ctIzDQ": {
+        "en-US": "[Kerlin]\nDo you want to proceed with the ^4D4DFFPopcorn Festa^000000 registration?",
+        "pt-BR": "[Kerlin]\nDeseja prosseguir com a inscrição na ^4D4DFFFesta da Pipoca^000000?",
+        "es-ES": "[Kerlin]\n¿Deseas continuar el registro en la ^4D4DFFFiesta de las Palomitas^000000?"
+    },
+    "c9IzDQ": {
+        "en-US": "Of course.",
+        "pt-BR": "Claro.",
+        "es-ES": "Claro."
+    },
+    "dNIzDQ": {
+        "en-US": "Hold on, let me think about it.",
+        "pt-BR": "Espera, preciso pensar um pouco.",
+        "es-ES": "Espera, déjame pensarlo un poco."
+    },
+    "ddIzDQ": {
+        "en-US": "[Kerlin]\nYeah, I knew you'd say that.",
+        "pt-BR": "[Kerlin]\nSim, eu sabia que você diria isso.",
+        "es-ES": "[Kerlin]\nBien, imaginé que aceptarías."
+    },
+    "dtIzDQ": {
+        "en-US": "[Kerlin]\nYou can get ^4D4DFFBlazing Beads^000000 by hunting ^4D4DFFFire property monsters^000000 scattered across all fields and dungeons.",
+        "pt-BR": "[Kerlin]\nVocê pode obter ^4D4DFFPiroclastos^000000 caçando ^4D4DFFmonstros de propriedade Fogo^000000 espalhados por todos os campos e masmorras.",
+        "es-ES": "[Kerlin]\nPuedes obtener ^4D4DFFPiroclastos^000000 cazando a ^4D4DFFmonstruos de propiedade Fuego^000000 deambulando por campos y mazmorras."
+    },
+    "d9IzDQ": {
+        "en-US": "[Kerlin]\nTake care then!",
+        "pt-BR": "[Kerlin]\nEntão vá com cuidado!",
+        "es-ES": "[Kerlin]\n¡Entonces, ve con cuidado!"
+    },
+    "eNIzDQ": {
+        "en-US": "[Kerlin]\nOh my, it seems you're not ready to enjoy this wonderful festival.",
+        "pt-BR": "[Kerlin]\nCaramba, parece que você não está pronto(a) para aproveitar esse festival maravilhoso.",
+        "es-ES": "[Kerlin]\nVaya, parece que no estás listo(a) para disfrutar de este festival maravilloso."
+    },
+    "edIzDQ": {
+        "en-US": "[Kerlin]\nGreat, you've gathered them well.\nYour whole body looks hot. Would you like to cool down for a bit?",
+        "pt-BR": "[Kerlin]\nÓtimo, você as reuniu bem.\nSeu corpo todo parece quente. Gostaria de se refrescar um pouco?",
+        "es-ES": "[Kerlin]\nIncreíble, lograste recolectarlas bien.\nTu cuerpo se ve muy caliente, ¿qué tal si descansas un poco para refrescarte?"
+    },
+    "etIzDQ": {
+        "en-US": "[Kerlin]\nWait a moment, please.",
+        "pt-BR": "[Kerlin]\nAguarde um momento.",
+        "es-ES": "[Kerlin]\nEspera un momento."
+    },
+    "e9IzDQ": {
+        "en-US": "[Kerlin]\n.",
+        "pt-BR": "[Kerlin]\n.",
+        "es-ES": "[Kerlin]\n."
+    },
+    "fNIzDQ": {
+        "en-US": "[Kerlin]\n..",
+        "pt-BR": "[Kerlin]\n..",
+        "es-ES": "[Kerlin]\n.."
+    },
+    "fdIzDQ": {
+        "en-US": "[Kerlin]\n...",
+        "pt-BR": "[Kerlin]\n...",
+        "es-ES": "[Kerlin]\n..."
+    },
+    "ftIzDQ": {
+        "en-US": "[Kerlin]\nHmm... This is harder than I thought...",
+        "pt-BR": "[Kerlin]\nHmm... Isso é mais difícil do que pensava...",
+        "es-ES": "[Kerlin]\nHmm... ¿Esto no es tan fácil como pensé?"
+    },
+    "f9IzDQ": {
+        "en-US": "[Kerlin]\nHa... I failed. I couldn't make anything worthy of giving you as a gift...",
+        "pt-BR": "[Kerlin]\nAh... Falhei, não consegui fazer nada digno de te dar de presente...",
+        "es-ES": "[Kerlin]\nAh... fallé, no pude crear nada digno para regalarte a ti..."
+    },
+    "gNIzDQ": {
+        "en-US": "[Kerlin]\nIt seems I need more ^4D4DFFBlazing Beads^000000. Hmm... How about ^4D4DFF20^000000?",
+        "pt-BR": "[Kerlin]\nAcho que preciso de mais ^4D4DFFPiroclastos^000000. Hmm... Que tal uns ^4D4DFF20^000000?",
+        "es-ES": "[Kerlin]\nCreo que ecesito más ^4D4DFFPiroclastos^000000. Mmm... ¿Unos ^4D4DFF20^000000 más?"
+    },
+    "gdIzDQ": {
+        "en-US": "[Kerlin]\nI know it's a hassle, but could you bring me ^4D4DFFBlazing Beads^000000 once more?",
+        "pt-BR": "[Kerlin]\nSei que é um incômodo, mas você poderia me trazer mais ^4D4DFFPiroclastos^000000 de novo?",
+        "es-ES": "[Kerlin]\nSé que es una molestia, pero ¿podrías traerme más ^4D4DFFPiroclastos^000000 otra vez?"
+    },
+    "gtIzDQ": {
+        "en-US": "[Kerlin]\nIf you bring them back safely, I'll definitely succeed this time!",
+        "pt-BR": "[Kerlin]\nSe você os trouxer em segurança, com certeza vou conseguir dessa vez!",
+        "es-ES": "[Kerlin]\n¡Si vuelves con ellos a salvo, esta vez te aseguro que lo voy a conseguir!"
+    },
+    "g9IzDQ": {
+        "en-US": "[Kerlin]\nHere. As yu've worked hard, I'll give you Comodo's famous ^4D4DFFGolden Corn^000000! You can make delicious popcorn with this!",
+        "pt-BR": "[Kerlin]\nAqui. Como você fez um bom trabalho, vou te dar o famoso ^4D4DFFMilho Dourado^000000 de Comodo! Com isso você vai poder fazer uma pipoca deliciosa!",
+        "es-ES": "[Kerlin]\nAquí. Ya que hicistes un buen trabajo, te voy a dar el ^4D4DFFMaíz Dorado^000000, especialidad de Comodo. ¡Con esto podrás hacer deliciosas palomitas!"
+    },
+    "hNIzDQ": {
+        "en-US": "[Kerlin]\nYou can get ^4D4DFFBlazing Beads^000000 by defeating volcanic monsters scattered across all fields and dungeons.",
+        "pt-BR": "[Kerlin]\nVocê pode obter ^4D4DFFPiroclastos^000000 derrotando monstros vulcânicos espalhados por todos os campos e masmorras.",
+        "es-ES": "[Kerlin]\nPuedes obtener ^4D4DFFPiroclastos^000000 eliminando monstruos volcánicos deambulando por campos y mazmorras."
+    },
+    "hdIzDQ": {
+        "en-US": "[Kerlin]\nAfter you gather ^4D4DFF10^000000 of them, come find me again.",
+        "pt-BR": "[Kerlin]\nDepois de juntar ^4D4DFF10^000000 deles, volte a me procurar.",
+        "es-ES": "[Kerlin]\nDespués de conseguir ^4D4DFF10 unidades^000000, vuelve a buscarme."
+    },
+    "htIzDQ": {
+        "en-US": "[Kerlin]\nGood! You've gathered all the Blazing Beads and came back. I'll make sure to craft it properly this time.",
+        "pt-BR": "[Kerlin]\nÓtimo! Você juntou os Piroclastos e voltou a me procurar. Pode deixar que dessa vez vou fabricar o presente direito.",
+        "es-ES": "[Kerlin]\n¡Muy bien! Reuniste los Piroclastos y regresaste. No te preocupes, esta vez voy a hacer el regalo correctamente."
+    },
+    "h9IzDQ": {
+        "en-US": "[Kerlin]\nWould you like to craft <ITEM>[[Costume] Poppycorn]<INFO>410069</INFO></ITEM>?",
+        "pt-BR": "[Kerlin]\nDeseja fabricar <ITEM>[[Visual] Pipoquinho]<INFO>410069</INFO></ITEM>?",
+        "es-ES": "[Kerlin]\n¿Quieres fabricar <ITEM>[[Disfraz] Palomitín]<INFO>410069</INFO></ITEM>?"
+    },
+    "iNIzDQ": {
+        "en-US": "Craft it.",
+        "pt-BR": "Fabricar.",
+        "es-ES": "Fabricar."
+    },
+    "idIzDQ": {
+        "en-US": "No, thanks.",
+        "pt-BR": "Não, obrigado.",
+        "es-ES": "No, gracias."
+    },
+    "itIzDQ": {
+        "en-US": "[Kerlin]\nThe <ITEM>[[Costume] Poppycorn]<INFO>410069</INFO></ITEM> will follow you around and cheer you on!",
+        "pt-BR": "[Kerlin]\nO <ITEM>[[Visual] Pipoquinho]<INFO>410069</INFO></ITEM> vai te seguir por toda parte e torcer por você!",
+        "es-ES": "[Kerlin]\n¡El <ITEM>[[Disfraz] Palomitín]<INFO>410069</INFO></ITEM> te va a seguir a todas las partes animándote!"
+    },
+    "i9IzDQ": {
+        "en-US": "[Kerlin]\nAlright.. Just wait a moment!",
+        "pt-BR": "[Kerlin]\nBem... Espera um momento!",
+        "es-ES": "[Kerlin]\nBien... ¡Espera un momento!"
+    },
+    "jNIzDQ": {
+        "en-US": "[Kerlin]\n....",
+        "pt-BR": "[Kerlin]\n....",
+        "es-ES": "[Kerlin]\n...."
+    },
+    "jdIzDQ": {
+        "en-US": "[Kerlin]\n......",
+        "pt-BR": "[Kerlin]\n......",
+        "es-ES": "[Kerlin]\n......"
+    },
+    "jtIzDQ": {
+        "en-US": "[Kerlin]\nPhew, I finally succeeded...",
+        "pt-BR": "[Kerlin]\nUfa, finalmente consegui...",
+        "es-ES": "[Kerlin]\nUf, por fin lo conseguí..."
+    },
+    "j9IzDQ": {
+        "en-US": "[Kerlin]\n<ITEM>[[Costume] Poppycorn]<INFO>410069</INFO></ITEM> was crafted!",
+        "pt-BR": "[Kerlin]\nO <ITEM>[[Visual] Pipoquinho]<INFO>410069</INFO></ITEM> foi fabricado!",
+        "es-ES": "[Kerlin]\n¡El <ITEM>[[Disfraz] Palomitín]<INFO>410069</INFO></ITEM> fue fabricado!"
+    },
+    "kNIzDQ": {
+        "en-US": "[Kerlin]\nYou've worked hard, so I'll give you one more gift.",
+        "pt-BR": "[Kerlin]\nVocê trabalhou duro, então vou te dar mais um presente.",
+        "es-ES": "[Kerlin]\nTe esforzaste mucho, así que te daré un regalo más."
+    },
+    "kdIzDQ": {
+        "en-US": "[Kerlin]\nIt's a <ITEM>[Caipirinha]<INFO>420074</INFO></ITEM>, and it will help you on your adventures.",
+        "pt-BR": "[Kerlin]\nÉ uma <ITEM>[Caipirinha]<INFO>420074</INFO></ITEM>, e vai te ajudar em suas aventuras.",
+        "es-ES": "[Kerlin]\nEs la <ITEM>[Caipirinha]<INFO>420074</INFO></ITEM>, y te ayudará en tus aventuras."
+    },
+    "ktIzDQ": {
+        "en-US": "[Kerlin]\nThis equipment can be enchanted. If you want an enchantment, please talk to me again.",
+        "pt-BR": "[Kerlin]\nEsse equipamento pode receber encantamento. Se quiser encantá-lo, fale comigo novamente.",
+        "es-ES": "[Kerlin]\nEste equipamiento se puede encantar. Si deseas encantarlo, háblame de nuevo."
+    },
+    "k9IzDQ": {
+        "en-US": "[Kerlin]\nThen I hope you enjoy the festival!",
+        "pt-BR": "[Kerlin]\nEntão espero que você aproveite o festival!",
+        "es-ES": "[Kerlin]\n¡Entonces, que disfrutes el festival!"
+    },
+    "lNIzDQ": {
+        "en-US": "[Kerlin]\nWhat? Aren't you tempted by this magnificent costume?",
+        "pt-BR": "[Kerlin]\nO quê? Você não está tentado por esse visual maravilhoso?",
+        "es-ES": "[Kerlin]\n¿Ah, no te tienta este disfraz maravilloso?"
+    },
+    "ldIzDQ": {
+        "en-US": "[Kerlin]\nI hope you'll come find me when you have gathered ^4D4DFF20 Blazing Beads^000000.",
+        "pt-BR": "[Kerlin]\nEspero que você me procure quando tiver ^4D4DFF20 Piroclastos^000000.",
+        "es-ES": "[Kerlin]\nCuando tengas ^4D4DFF20 Piroclastos^000000, ven a buscarme."
+    },
+    "ltIzDQ": {
+        "en-US": "[Kerlin]\nHello! We meet again.\nWhat help do you need?",
+        "pt-BR": "[Kerlin]\nOlá! Nos encontramos novamente.\nVocê precisa de ajuda?",
+        "es-ES": "[Kerlin]\n¡Hola! Nos encontramos de nuevo.\n¿Qué necesitas?"
+    },
+    "l9IzDQ": {
+        "en-US": "Open ^4D4DFFPopcorn Festa Gift^000000.",
+        "pt-BR": "Abrir ^4D4DFFPresente da Festa da Pipoca^000000.",
+        "es-ES": "Abrir el ^4D4DFFRegalo de la Fiesta de las Palomitas^000000."
+    },
+    "mNIzDQ": {
+        "en-US": "Enchant Caipirinha.",
+        "pt-BR": "Encantar Caipirinha.",
+        "es-ES": "Encantar Caipirinha."
+    },
+    "mdIzDQ": {
+        "en-US": "I'll come back later.",
+        "pt-BR": "Volto mais tarde.",
+        "es-ES": "Regreso más tarde."
+    },
+    "mtIzDQ": {
+        "en-US": "[Kerlin]\nIf you give me ^4D4DFF20 Blazing Beads^000000, I'll open it for you. Would you like to open the gift?",
+        "pt-BR": "[Kerlin]\nSe você me der ^4D4DFF20 Piroclastos^000000, eu abro pra você. Quer abrir o presente?",
+        "es-ES": "[Kerlin]\nSi me das ^4D4DFF20 Piroclastos^000000, te lo abriré. ¿Quieres abrir el regalo?"
+    },
+    "m9IzDQ": {
+        "en-US": "Open it.",
+        "pt-BR": "Abrir.",
+        "es-ES": "Abrir."
+    },
+    "nNIzDQ": {
+        "en-US": "Don't open it.",
+        "pt-BR": "Não abrir.",
+        "es-ES": "No abrir."
+    },
+    "ndIzDQ": {
+        "en-US": "[Kerlin]\nI've received the Blazing Beads. Then I'll open it for you. May the luck be with you!",
+        "pt-BR": "[Kerlin]\nRecebi os Piroclastos. Então vou entregar um presente pra você. Que a sorte esteja com você!",
+        "es-ES": "[Kerlin]\nRecibí los Piroclastos. Ahora lo abriré. ¡Que la suerte te acompañe!"
+    },
+    "ntIzDQ": {
+        "en-US": "[Kerlin]\nYou don't have enough Blazing Beads.\nGather ^4D4DFF20^000000 of them and come find me again.",
+        "pt-BR": "[Kerlin]\nVocê não tem Piroclastos suficientes.\nJunte ^4D4DFF20^000000 deles e volte a me procurar.",
+        "es-ES": "[Kerlin]\nLos Piroclastos son insuficientes.\nReúna ^4D4DFF20^000000 deles y vuelve a buscarme."
+    },
+    "n9IzDQ": {
+        "en-US": "[Kerlin]\nWhenever you have gathered ^4D4DFFBlazing Beads^000000, come find me again!",
+        "pt-BR": "[Kerlin]\nSe você juntar ^4D4DFFPiroclastos^000000, pode vir me procurar quando quiser!",
+        "es-ES": "[Kerlin]\n¡Cuando tengas ^4D4DFFPiroclastos^000000, vuelve a verme en cualquier momento!"
+    },
+    "oNIzDQ": {
+        "en-US": "[Kerlin]\nIf you have ^4D4DFFGolden Corn^000000 or ^4D4DFFHealthy Herb^000000, I'll exchange them for enchantment items.",
+        "pt-BR": "[Kerlin]\nSe você tiver ^4D4DFFMilho Dourado^000000 ou ^4D4DFFErva de Incenso^000000, trocarei por itens de encantamento.",
+        "es-ES": "[Kerlin]\nSi tienes ^4D4DFFMaíz Dorado^000000 o ^4D4DFFHierbas de Incienso^000000, te los cambio por objetos de encantamiento."
+    },
+    "odIzDQ": {
+        "en-US": "[Kerlin]\nUsing that item, you can enchant the ^4D4DFFCaipirinha^000000 equipment.",
+        "pt-BR": "[Kerlin]\nUsando esse item, você pode encantar o equipamento ^4D4DFFCaipirinha^000000.",
+        "es-ES": "[Kerlin]\nUsando esos objetos, puedes encantar el equipamiento ^4D4DFFCaipirinha^000000."
+    },
+    "otIzDQ": {
+        "en-US": "[Kerlin]\nAlright, there are plenty of things to enjoy, so come find me again if you need gifts.",
+        "pt-BR": "[Kerlin]\nBem, tem muita coisa pra aproveitar, então quando precisar de presentes, é só me procurar.",
+        "es-ES": "[Kerlin]\nBien, hay mucho que disfrutar. Si necesitas regalos, vuelve a verme."
+    },
+    "o9IzDQ": {
+        "en-US": "Dr. Corn",
+        "pt-BR": "Dra. Pipoka",
+        "es-ES": "Dra. Maíz"
+    },
+    "pNIzDQ": {
+        "en-US": "<Golden Corn Doctor>",
+        "pt-BR": "<Doutora do Milho Dourado>",
+        "es-ES": "<Doctora Maíz Dorado>"
+    },
+    "pdIzDQ": {
+        "en-US": "Dr. Corn : Need some Golden Corn?",
+        "pt-BR": "Dra. Pipoka : Precisa de Milho Dourado?",
+        "es-ES": "Dra. Maíz : ¿Necesitas Maíz Dorado?"
+    },
+    "ptIzDQ": {
+        "en-US": "[Dr. Corn]\nYou're an adventurer who needs more experience. If you come back after building up your skills a bit more, I'll ask for your help then.",
+        "pt-BR": "[Dra. Pipoka]\nVocê é um(a) viajante que precisa de mais experiência. Se você voltar depois de aprimorar suas habilidades, pedirei sua ajuda.",
+        "es-ES": "[Dra. Maíz]\nEres un(a) trotamundos que aún necesita acumular más experiencia. Regresa cuando hayas mejorado tus habilidades, entonces podré pedir tu ayuda."
+    },
+    "p9IzDQ": {
+        "en-US": "[Dr. Corn]\nAdventurer, did you come because you need Golden Corn?",
+        "pt-BR": "[Dra. Pipoka]\nViajante, você veio porque precisa de Milho Dourado?",
+        "es-ES": "[Dra. Maíz]\nTrotamundos, ¿vinistes porque necesitas Maíz Dorado?"
+    },
+    "qNIzDQ": {
+        "en-US": "[Dr. Corn]\nIf so, first go to <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI> and complete your Popcorn Festa registration.",
+        "pt-BR": "[Dra. Pipoka]\nSe sim, primeiro vá até <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI> e complete sua inscrição na Festa da Pipoca.",
+        "es-ES": "[Dra. Maíz]\nEn ese caso, primero ve a <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI> y completa el registro en la Fiesta de las Palomitas."
+    },
+    "qdIzDQ": {
+        "en-US": "[Dr. Corn]\nYour bag is full. There's no room to put Golden Corn. Please empty your bag and come back.",
+        "pt-BR": "[Dra. Pipoka]\nSua mochila está cheia. Não há espaço para colocar Milho Dourado. Esvazie sua mochila e volte.",
+        "es-ES": "[Dra. Maíz]\nTu mochila está llena. No hay espacio para poner el Maíz Dorado. Vacía tu mochila y regresa."
+    },
+    "qtIzDQ": {
+        "en-US": "[Dr. Corn]\nEven inside Comodo Cave, the heat is intense. It's not good for the Golden Corn.",
+        "pt-BR": "[Dra. Pipoka]\nMesmo dentro da Caverna de Comodo, o calor é intenso. Não é muito bom para o Milho Dourado.",
+        "es-ES": "[Dra. Maíz]\nIncluso dentro de la Cueva de Comodo, el calor es intenso. No es muy bueno para el Maíz Dorado."
+    },
+    "q9IzDQ": {
+        "en-US": "[Dr. Corn]\nI'm Dr. Corn. You can call me the Golden Corn Doctor.\nJune is the season when Golden Corn ripens.",
+        "pt-BR": "[Dra. Pipoka]\nSou a Dra. Pipoka. Pode me chamar de Doutora do Milho Dourado.\nJunho é a época em que o Milho Dourado amadurece.",
+        "es-ES": "[Dra. Maíz]\nSoy la Dra. Maíz. Puedes llamarme Doctora Maíz Dorado.\nJusto en junio es cuando madura el Maíz Dorado."
+    },
+    "rNIzDQ": {
+        "en-US": "[Dr. Corn]\n...... The guest I was waiting for has arrived.",
+        "pt-BR": "[Dra. Pipoka]\n...... O(A) convidado(a) que eu esperava chegou.",
+        "es-ES": "[Dra. Maíz]\n...... Llegó el(la) invitado(a) que esperaba."
+    },
+    "rdIzDQ": {
+        "en-US": "The guest you were waiting for?",
+        "pt-BR": "O convidado que você esperava?",
+        "es-ES": "¿El cliente que esperaba?"
+    },
+    "rtIzDQ": {
+        "en-US": "[Dr. Corn]\nYes, I mean you, Adventurer.\nI'd like you to help me out for the sake of the Golden Corn.",
+        "pt-BR": "[Dra. Pipoka]\nSim, estou falando de você, Viajante.\nGostaria que você me ajudasse com a situação do Milho Dourado.",
+        "es-ES": "[Dra. Maíz]\nSí, Trotamundos, hablo de ti.\nQuisiera que me ayudaras con la situación del Maíz Dorado."
+    },
+    "r9IzDQ": {
+        "en-US": "[Dr. Corn]\nEvery June, due to the movement of the constellations, the fire energy in Comodo and Korodo grows stronger. That's why Fire Property monsters that have lost their heat over the winter gather here.",
+        "pt-BR": "[Dra. Pipoka]\nTodo mês de junho, devido ao movimento das constelações, a energia do fogo em Comodo e Korodo fica mais forte. Por isso, monstros de propriedade Fogo que perderam seu calor durante o inverno se reúnem aqui.",
+        "es-ES": "[Dra. Maíz]\nCada junio, debido al movimiento de las constelaciones, la energía del fuego se intensifica en Comodo y Korodo. Por eso, los monstruos de propiedad Fuego que perdieron el calor durante el invierno suelen reunirse aquí."
+    },
+    "sNIzDQ": {
+        "en-US": "[Dr. Corn]\nAdding to that, Fire Property monsters brimming with heat also make Comodo Volcano and Korodo Volcano more active. A volcanic eruption could occur.",
+        "pt-BR": "[Dra. Pipoka]\nSomando-se a isso, monstros de propriedade Fogo repletos de calor também tornam o Vulcão Comodo e o Vulcão Korodo mais ativos. Uma erupção vulcânica poderia ocorrer.",
+        "es-ES": "[Dra. Maíz]\nAdemás, los monstruos de propiedad fuego cargados de calor hacen que los volcanes de Comodo y Korodo estéan más activos. Podría incluso ocurrir una erupción."
+    },
+    "sdIzDQ": {
+        "en-US": "[Dr. Corn]\nTo control this heat, instead of running away, people drive away the Fire Property monsters, gather here, and have fun making delicious popcorn. That is the ^4D4DFFPopcorn Festa^000000.",
+        "pt-BR": "[Dra. Pipoka]\nPara controlar esse calor, em vez de fugir, as pessoas expulsam os monstros vulcânicos, se reúnem aqui e se divertem fazendo uma pipoca deliciosa. Essa é a ^4D4DFFFesta da Pipoca^000000.",
+        "es-ES": "[Dra. Maíz]\nPara controlar este calor, en lugar de huir, la gente expulsa a los monstruos volcánicos, se reúne aquí, y se divierte preparando ricas palomitas. Eso es la ^4D4DFFFiesta de las Palomitas^000000."
+    },
+    "stIzDQ": {
+        "en-US": "[Dr. Corn]\nTo make popcorn, my Golden Corn is essential. Moderate heat helps the corn ripen sweetly, but at this rate, my precious corn will suffer from the extreme heat.",
+        "pt-BR": "[Dra. Pipoka]\nPara fazer pipoca, meu Milho Dourado é essencial. O calor moderado ajuda o milho a amadurecer docemente, mas nesse ritmo, meu precioso milho sofrerá com o calor extremo.",
+        "es-ES": "[Dra. Maíz]\nPara hacer palomitas, mi Maíz Dorado es esencial. Un calor moderado ayuda a que el maíz madure dulcemente, pero tal como está, el exceso de calor dañará mi preciado maíz."
+    },
+    "s9IzDQ": {
+        "en-US": "[Dr. Corn]\nPeople are joining forces to drive away the Warm Explosions and Warm Imps heading this way, but it seems it's still not enough.",
+        "pt-BR": "[Dra. Pipoka]\nAs pessoas estão se unindo para expulsar as Explosões Quentes e os Imps Quentes que vêm em direção a este lugar, mas parece que ainda não é suficiente.",
+        "es-ES": "[Dra. Maíz]\nLa gente se está uniendo para expulsar a los Explosión Caliente y a los Diablillo Caliente que se dirigen hacia aquí, pero parece que aún no es suficiente."
+    },
+    "tNIzDQ": {
+        "en-US": "[Dr. Corn]\nSo, Adventurer, would you like to help too? Hunt ^4D4DFF3 Warm Explosions^000000 and ^4D4DFF3 Warm Imps^000000 ^4D4DFFeach^000000. In return, I'll give you 10 <ITEM>[Golden Corn]<INFO>25340</INFO></ITEM>.",
+        "pt-BR": "[Dra. Pipoka]\nEntão, Aventureiro, gostaria de ajudar também? Caçe ^4D4DFF3 Explosões Quentes^000000 e ^4D4DFF3 Imps Quentes^000000 ^4D4DFFcada^000000. Em troca, lhe darei 10 <ITEM>[Milho Dourado]<INFO>25340</INFO></ITEM>.",
+        "es-ES": "[Dra. Maíz]\nAsí que, aventurero, ¿podrías ayudar también? Caza ^4D4DFF3 Explosión Calientes^000000 y ^4D4DFF3 Diablillos Calientes^000000, ^4D4DFFtres de cada uno^000000. Como recompensa, te daré 10 <ITEM>[Maíz Dorado]<INFO>25340</INFO></ITEM>."
+    },
+    "tdIzDQ": {
+        "en-US": "I will do it.",
+        "pt-BR": "Aceito.",
+        "es-ES": "Acepto."
+    },
+    "ttIzDQ": {
+        "en-US": "I refuse.",
+        "pt-BR": "Recuso.",
+        "es-ES": "Rechazo."
+    },
+    "t9IzDQ": {
+        "en-US": "[Dr. Corn]\nAdventurer, you don't yet know how scary someone who demands something in return for corn can be. Once you find out, you can't go back to how you were......",
+        "pt-BR": "[Dra. Pipoka]\nAventureiro, você ainda não sabe o quão assustadora é uma pessoa que pede algo em troca do milho. Quando descobrir, não poderá voltar atrás......",
+        "es-ES": "[Dra. Maíz]\nAventurero, aún no sabes lo aterrador que es alguien que exige algo a cambio de maíz. Cuando lo descubras, no podrás volver atrás..."
+    },
+    "uNIzDQ": {
+        "en-US": "[Dr. Corn]\n^4D4DFF3 Warm Explosions^000000 and ^4D4DFF3 Warm Imps^000000 ^4D4DFFeach^000000. They are ^4D4DFFscattered across all fields and dungeons^000000 heading here. I'm counting on you.",
+        "pt-BR": "[Dra. Pipoka]\n^4D4DFF3 Explosões Quentes^000000 e ^4D4DFF3 Imps Quentes^000000 ^4D4DFFcada^000000. Eles estão ^4D4DFFespalhados por todos os campos e masmorras^000000 vindo para cá. Estou contando com você.",
+        "es-ES": "[Dra. Maíz]\nSon ^4D4DFF3 Explosión Caliente^000000 y ^4D4DFF3 Diablillo Caliente^000000, ^4D4DFFtres de cada uno^000000. Están viniendo hacia acá, ^4D4DFFrepartidos por campos y mazmorras^000000. Cuento contigo."
+    },
+    "udIzDQ": {
+        "en-US": "[Dr. Corn]\nThe most important element of the Popcorn Festa is popcorn. You've taken on the most important role of protecting the corn, Adventurer.",
+        "pt-BR": "[Dra. Pipoka]\nO elemento mais importante da Festa da Pipoca é a pipoca. Você assumiu o papel mais importante de proteger o milho, Aventureiro.",
+        "es-ES": "[Dra. Maíz]\nEl elemento más importante del Festival de las Palomitas es la palomita. Tú tienes la misión crucial de proteger el maíz, aventurero."
+    },
+    "utIzDQ": {
+        "en-US": "[Dr. Corn]\nPlease hunt ^4D4DFF3 Warm Explosions^000000 and ^4D4DFF3 Warm Imps^000000 ^4D4DFFeach^000000. They are ^4D4DFFscattered across all fields and dungeons^000000 heading here. I'm counting on you.",
+        "pt-BR": "[Dra. Pipoka]\nPor favor, caçe ^4D4DFF3 Estrondo Morno^000000 e ^4D4DFF3 Imp Morno^000000 ^4D4DFFcada^000000. Eles estão ^4D4DFFespalhados por todos os campos e masmorras^000000 vindo para cá. Estou contando com você.",
+        "es-ES": "[Dra. Maíz]\nCaza a ^4D4DFF3 Explosión Tibia^000000 y ^4D4DFF3 Diabillo Tibio^000000 ^4D4DFFcada^000000. Están ^4D4DFFdeambulando por campos y mazmorras^000000 viniendo hacia acá. Cuento contigo."
+    },
+    "u9IzDQ": {
+        "en-US": "[Dr. Corn]\nYou've hunted well. How did I know? Your body emanates heat after coming back from hunting. How could I not know?",
+        "pt-BR": "[Dra. Pipoka]\nVocê fez um bom trabalho. Como eu sabia? Seu corpo emana calor depois de ter voltado da caçada. Como eu não perceberia?",
+        "es-ES": "[Dra. Maíz]\nHas hecho un buen trabajo. ¿Cómo lo sabía? Tu cuerpo desprende calor tras haber vuelto de la caza. ¿Cómo no iba a darme cuenta?"
+    },
+    "vNIzDQ": {
+        "en-US": "[Dr. Corn]\nAs promised, I'll give you 10 <ITEM>[Golden Corn]<INFO>25340</INFO></ITEM>. Go to <NAVI>[Popcorn Master]<INFO>comodo.gat,170,196,0,101,0</INFO></NAVI> and they will pop this corn into popcorn for you.",
+        "pt-BR": "[Dra. Pipoka]\nComo prometido, lhe darei 10 <ITEM>[Milho Dourado]<INFO>25340</INFO></ITEM>. Vá até o <NAVI>[Pipoqueiro]<INFO>comodo.gat,170,196,0,101,0</INFO></NAVI> e ele vai transformar esse milho em pipoca para você.",
+        "es-ES": "[Dra. Maíz]\nTal como prometí, aquí tienes 10 <ITEM>[Maíz Dorado]<INFO>25340</INFO></ITEM>. Si vas al <NAVI>[Maestro Palomita]<INFO>comodo.gat,170,196,0,101,0</INFO></NAVI>, él preparará palomitas con este maíz."
+    },
+    "vdIzDQ": {
+        "en-US": "[Dr. Corn]\nNow, go sit by the beach and cool off while eating some popcorn. And if you don't mind, I'd like you to help me again tomorrow.",
+        "pt-BR": "[Dra. Pipoka]\nAgora, vá se sentar na praia e se refresque enquanto come pipoca. E se você não se importar, gostaria que você me ajudasse de novo amanhã.",
+        "es-ES": "[Dra. Maíz]\nAhora, siéntate en la playa, come palomitas y refresca tu cuerpo. Y si puedes, me gustaría que me ayudaras de nuevo mañana."
+    },
+    "vtIzDQ": {
+        "en-US": "[Dr. Corn]\nMy reliable Adventurer, I'm counting on you to take care of the Golden Corn during the festival period.",
+        "pt-BR": "[Dra. Pipoka]\nConfiável Viajante, estou contando com você para cuidar do Milho Dourado durante o festival.",
+        "es-ES": "[Dra. Maíz]\nMi fiel Trotamundos, necesito que cuides bien del Maíz Dorado durante el festival."
+    },
+    "v9IzDQ": {
+        "en-US": "[Dr. Corn]\nIt's harvest season, so I'm the only one who could come out to the festival grounds. Thanks to that, I'm quite busy handling things here alone.",
+        "pt-BR": "[Dra. Pipoka]\nÉ época de colheita, então eu sou o único que pôde vir ao local do festival. Graças a isso, estou bastante ocupado cuidando das coisas aqui sozinho.",
+        "es-ES": "[Dra. Maíz]\nJusto en temporada de cosecha, yo era el único disponible para venir al lugar del festival. Por eso, estoy solo a cargo de todo esto y ando bastante ocupado."
+    },
+    "wNIzDQ": {
+        "en-US": "[Dr. Corn]\nI'd like you to help a lot, but I'm short-handed here... Please just once a day. Come back after midnight.",
+        "pt-BR": "[Dra. Pipoka]\nGostaria que você ajudasse bastante, mas estou com falta de mão de obra... Apenas uma vez por dia. Volte depois da meia-noite.",
+        "es-ES": "[Dra. Maíz]\nMe gustaría recibir mucha ayuda, pero por falta de manos... Solo puedo pedir una vez al día. Vuelve cuando haya pasado la madrugada."
+    },
+    "wdIzDQ": {
+        "en-US": "[Dr. Corn]\nYou've come. Did you try the popcorn? If you go to <NAVI>[Popcorn Master]<INFO>comodo.gat,170,196,0,101,0</INFO></NAVI>, they'll not only pop popcorn for you but also make <ITEM>[Gourmet Popcorn]<INFO>11625</INFO></ITEM>. That's also a delicacy.",
+        "pt-BR": "[Dra. Pipoka]\nVocê veio. Experimentou a pipoca? Se você for até <NAVI>[Mestre da Pipoca]<INFO>comodo.gat,170,196,0,101,0</INFO></NAVI>, eles não só estouram a pipoca para você, mas também fazem <ITEM>[Pipoca Gourmet]<INFO>11625</INFO></ITEM>. Isso também é uma delícia.",
+        "es-ES": "[Dra. Maíz]\nViniste. ¿Ya probaste las palomitas? Si vas al <NAVI>[Maestro de las Palomitas]<INFO>comodo.gat,170,196,0,101,0</INFO></NAVI>, no solo prepara palomitas, sino que también elabora <ITEM>[Palomitas Gourmet]<INFO>11625</INFO></ITEM>. También son una delicia."
+    },
+    "wtIzDQ": {
+        "en-US": "[Dr. Corn]\nI'd like you to hunt ^4D4DFF3 Warm Explosions^000000 and ^4D4DFF3 Warm Imps^000000 ^4D4DFFeach^000000. If you hunt them, I'll give you 10 <ITEM>[Golden Corn]<INFO>25340</INFO></ITEM>.",
+        "pt-BR": "[Dra. Pipoka]\nGostaria que você caçasse ^4D4DFF3 Estrondo Morno^000000 e ^4D4DFF3 Imp Morno^000000 ^4D4DFFcada^000000. Se os caçar, lhe darei 10 <ITEM>[Milho Dourado]<INFO>25340</INFO></ITEM>.",
+        "es-ES": "[Dra. Maíz]\nMe gustaría que caces ^4D4DFF3 Explosión Tibia^000000 y ^4D4DFF3 Diabillo Tibio^000000, ^4D4DFFcada^000000. Cuando regreses, te daré 10 <ITEM>[Maíz Dorado]<INFO>25340</INFO></ITEM>."
+    },
+    "w9IzDQ": {
+        "en-US": "I'll be back.",
+        "pt-BR": "Volto já.",
+        "es-ES": "Ya vuelvo."
+    },
+    "xNIzDQ": {
+        "en-US": "[Dr. Corn]\nAdventurer, it seems you still don't know how scary someone who demands something in return for corn can be. Is it because I'm not asking for gold?",
+        "pt-BR": "[Dra. Pipoka]\nViajante, parece que você ainda não sabe o quanto uma pessoa que pede algo em troca de milho pode ser assustadora. Será que é porque não estou pedindo ouro?",
+        "es-ES": "[Dra. Maíz]\nTrotamundos, parece que aún no sabes lo aterrador que es alguien que exige algo a cambio de maíz. ¿Será porque yo no pido oro?"
+    },
+    "xdIzDQ": {
+        "en-US": "Pakiha",
+        "pt-BR": "Pakiha",
+        "es-ES": "Pakiha"
+    },
+    "xtIzDQ": {
+        "en-US": "<Korodo Guide>",
+        "pt-BR": "<Guia de Korodo>",
+        "es-ES": "<Guía de Korodo>"
+    },
+    "x9IzDQ": {
+        "en-US": "[Pakiha]\nHello, brave warrior I see you're invested on your adventures, aren't you?",
+        "pt-BR": "[Pakiha]\nOlá, bravo(a) guerreiro(a). Vejo que está empenhado(a) nas suas aventuras, não está?",
+        "es-ES": "[Pakiha]\n¡Hola, valiente guerrero(a)! ¿Veo que estás en plena aventura, verdad?"
+    },
+    "yNIzDQ": {
+        "en-US": "[Pakiha]\nOnce you build up your skills a bit more, I'll tell you another way to enjoy the Popcorn Festa even more. Until then, see you!",
+        "pt-BR": "[Pakiha]\nQuando você aprimorar suas habilidades um pouco mais, vou te contar outra maneira de aproveitar ainda mais a Festa da Pipoca. Até lá, cuide-se!",
+        "es-ES": "[Pakiha]\nCuando acumules un poco más de experiencia, te enseñaré otra forma de disfrutar aún más la Fiesta de las Palomitas. ¡Hasta entonces, saludos!"
+    },
+    "ydIzDQ": {
+        "en-US": "[Pakiha]\nHello, brave warrior I see you're invested on your adventures, aren't you?",
+        "pt-BR": "[Pakiha]\nOlá, bravo(a) guerreiro(a). Vejo que está empenhado(a) nas suas aventuras, não está?",
+        "es-ES": "[Pakiha]\n¡Hola, valiente guerrero(a)! ¿Veo que estás en plena aventura, verdad?"
+    },
+    "ytIzDQ": {
+        "en-US": "[Pakiha]\nYour inventory is too full right now. Kafra is over there! Organize your bag and meet me again!",
+        "pt-BR": "[Pakiha]\nSeu inventário está muito cheio agora. A Kafra é por ali! Arrume sua mochila e me encontre de novo!",
+        "es-ES": "[Pakiha]\nAhora mismo tienes demasiados objetos en el inventario. ¡La Kafra está por allí! Organiza tu mochila y nos vemos después, con una reverencia, ¡saludos!"
+    },
+    "y9IzDQ": {
+        "en-US": "[Pakiha]\nHello~ Our brave warrior. Have you come to participate in the Popcorn Festa?",
+        "pt-BR": "[Pakiha]\nOlá~ Nosso bravo guerreiro. Você veio para participar da Festa da Pipoca?",
+        "es-ES": "[Pakiha]\n¡Hola~, nuestro héroe! ¿Vienes a participar en la Fiesta de las Palomitas?"
+    },
+    "zNIzDQ": {
+        "en-US": "[Pakiha]\nIf so, please first fulfill <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI>'s request. Then, hoping to see you again!",
+        "pt-BR": "[Pakiha]\nSe sim, primeiro atenda ao pedido de <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI>. Espero te ver de novo!",
+        "es-ES": "[Pakiha]\nEn ese caso, primero atiende la petición de <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI>. ¡Espero verte de nuevo!"
+    },
+    "zdIzDQ": {
+        "en-US": "[Pakiha]\nHello~ Our brave warrior. You're trying to visit Korodo for the first time!",
+        "pt-BR": "[Pakiha]\nOlá, bravo(a) guerreiro(a). Você está tentando visitar Korodo pela primeira vez!",
+        "es-ES": "[Pakiha]\n¡Hola, valiente guerrero(a)! ¡Es la primera vez que visitas Korodo!"
+    },
+    "ztIzDQ": {
+        "en-US": "[Pakiha]\nFirst~ let me introduce myself! I am Pakiha, the Korodo Guide who helps you visit Korodo!",
+        "pt-BR": "[Pakiha]\nPrimeiro, deixe-me me apresentar! Sou Pakiha, a Guia de Korodo que ajuda você a visitar Korodo!",
+        "es-ES": "[Pakiha]\n¡Primero, me presentaré! ¡Soy Pakiha, la guía de Korodo, y ayudo en las visitas a la isla!"
+    },
+    "z9IzDQ": {
+        "en-US": "[Pakiha]\nHello~ and bowing face to face, see~! Clap clap! What is our brave warrior's name~?",
+        "pt-BR": "[Pakiha]\nOlá~ e curvando face a face, see~! Palmas, palmas! Qual é o nome do nosso bravo guerreiro?",
+        "es-ES": "[Pakiha]\n¡Hola~ frente a frente, salu~do! ¡Aplausos, plas plas! ¿Y el nombre de nuestro héroe es~?"
+    },
+    "0NIzDQ": {
+        "en-US": "My name is~ clap clap!",
+        "pt-BR": "Meu nome é~ palmas, palmas!",
+        "es-ES": "Mi nombre es~ ¡plas plas!"
+    },
+    "0dIzDQ": {
+        "en-US": "My name, you say...",
+        "pt-BR": "O nome, você diz...",
+        "es-ES": "Mi nombre..."
+    },
+    "0tIzDQ": {
+        "en-US": "[Pakiha]\nBrave {0} warrior! See~! Now, let's prepare to visit Korodo, from now on you'll do it with me~",
+        "pt-BR": "[Pakiha]\nBravo guerreiro {0}! See~! Agora, vamos nos preparar para visitar Korodo, a partir de agora você fará isso comigo~",
+        "es-ES": "[Pakiha]\n¡Valiente héroe {0}! ¡Salu~do! Ahora, preparémonos para visitar Korodo juntos~"
+    },
+    "09IzDQ": {
+        "en-US": "[Pakiha]\nOur brave warrior will tell me what kind of place Korodo is, which we will visit together! Listen carefully to the warrior's words! Clap clap!",
+        "pt-BR": "[Pakiha]\nMeu bravo guerreiro vai me dizer que tipo de lugar é Korodo, que visitaremos juntos! Ouça atentamente as palavras do guerreiro! Palmas, palmas!",
+        "es-ES": "[Pakiha]\n¡Nuestro héroe nos contará cómo es Korodo, el lugar que vamos a visitar! ¡Prestemos atención a lo que dice! ¡Plas plas!"
+    },
+    "1NIzDQ": {
+        "en-US": "I don't know.",
+        "pt-BR": "Não sei.",
+        "es-ES": "No sé."
+    },
+    "1dIzDQ": {
+        "en-US": "It's a volcanic island near Comodo, clap clap!",
+        "pt-BR": "É uma ilha vulcânica perto de Comodo, palmas, palmas!",
+        "es-ES": "Es la isla volcánica cerca de Comodo, ¡plas plas!"
+    },
+    "1tIzDQ": {
+        "en-US": "[Pakiha]\nAh~ Our brave warrior. Don't worry! I'll explain Korodo well~ for you!",
+        "pt-BR": "[Pakiha]\nAh~ Meu bravo guerreiro. Não se preocupe! Vou explicar Korodo bem~ para você!",
+        "es-ES": "[Pakiha]\n¡Ah~, nuestro héroe, no te preocupes! ¡Yo te explico muy bien sobre Korodo!"
+    },
+    "19IzDQ": {
+        "en-US": "[Pakiha]\nAh! Our brave warrior. You really know it well! Korodo is~ a volcanic island near Comodo, clap clap!",
+        "pt-BR": "[Pakiha]\nAh! Meu bravo guerreiro. Você realmente sabe bem! Korodo é~ uma ilha vulcânica perto de Comodo, palmas, palmas!",
+        "es-ES": "[Pakiha]\n¡Ah! ¡Nuestro héroe lo sabe muy bien! Korodo es~ la isla volcánica cerca de Comodo, ¡plas plas!"
+    },
+    "2NIzDQ": {
+        "en-US": "[Pakiha]\nKorodo is a small volcanic island visible to the south~ of Comodo, and volcanic activity becomes more active in June!",
+        "pt-BR": "[Pakiha]\nKorodo é uma pequena ilha vulcânica visível ao sul~ de Comodo, e a atividade vulcânica se torna mais ativa em junho!",
+        "es-ES": "[Pakiha]\nKorodo es una isla volcánica pequeñita que se ve al sur de Comodo, ¡y en junio la actividad volcánica se vuelve más intensa!"
+    },
+    "2dIzDQ": {
+        "en-US": "[Pakiha]\nTo receive this active fire energy~ every June, Fire Property monsters swarm to Korodo! And then what happens? That's right~ there's a risk of volcanic eruption!",
+        "pt-BR": "[Pakiha]\nPara receber essa energia do fogo ativa~ todo mês de junho, monstros de propriedade Fogo se aglomeram em Korodo! E o que acontece então? Isso mesmo~ há risco de erupção vulcânica!",
+        "es-ES": "[Pakiha]\nPara recibir esa energía ígnea tan activa~, cada junio los monstruos de elemento Fuego se congregan en Korodo. ¿Y qué pasa entonces? Así es~, ¡existe el riesgo de que el volcán haga erupción!"
+    },
+    "2tIzDQ": {
+        "en-US": "[Pakiha]\nSo in Comodo~ every June, everyone sends the Fire Property monsters back home, and then they hold a festival where they pop delicious popcorn using the remaining fire energy!",
+        "pt-BR": "[Pakiha]\nEntão em Comodo~ todo mês de junho, todos enviam os monstros de propriedade Fogo de volta para casa, e então realizam um festival onde estouram pipoca deliciosa usando a energia do fogo restante!",
+        "es-ES": "[Pakiha]\nPor eso en Comodo~, cada junio, todos juntos mandamos a los monstruos de fuego de vuelta a casa, y con la energía ígnea restante, ¡hacemos un festival donde preparamos deliciosas palomitas!"
+    },
+    "29IzDQ": {
+        "en-US": "[Pakiha]\nAs part of the festival, I, Pakiha, am in charge of sending back home the Fire Property monsters that have already arrived at Korodo and become lethargic from receiving the fire energy.",
+        "pt-BR": "[Pakiha]\nComo parte do festival, eu, Pakiha, sou responsável por enviar de volta para casa os monstros de propriedade Fogo que já chegaram a Korodo e ficaram letárgicos por receberem a energia do fogo.",
+        "es-ES": "[Pakiha]\nComo parte del festival, yo, Pakiha, me encargo de mandar de regreso a casa a los monstruos de fuego que llegan a Korodo, reciben la energía ígnea y se quedan flojos y perezosos."
+    },
+    "3NIzDQ": {
+        "en-US": "[Pakiha]\nBut right now, Korodo is extremely hot, so you can't stay long~ You can only go once a day, and you can stay for at most ^4D4DFF10 minutes^000000. After that, I, Pakiha, will guide you back~",
+        "pt-BR": "[Pakiha]\nMas agora, Korodo está extremamente quente, então você não pode ficar muito tempo~ Você só pode ir uma vez por dia, e pode ficar no máximo ^4D4DFF10 minutos^000000. Depois disso, eu, Pakiha, guiarei você de volta~",
+        "es-ES": "[Pakiha]\nPero ahora mismo Korodo está muy, muy caliente, así que no puedes quedarte mucho tiempo~. Solo puedes ir una vez al día y permanecer un máximo de ^4D4DFF10 minutos^000000. Después, yo, Pakiha, te traeré de vuelta~"
+    },
+    "3dIzDQ": {
+        "en-US": "[Pakiha]\nI'll guide you on the time, so don't worry~ Just go to the island and nicely! persuade the Fire Property monsters!",
+        "pt-BR": "[Pakiha]\nEu guiarei você no horário, então não se preocupe~ Basta ir à ilha e persuadir bem! os monstros de propriedade Fogo!",
+        "es-ES": "[Pakiha]\nNo te preocupes, que yo controlaré el tiempo~. En la isla, solo tienes que ¡regañar bien a los monstruos de fuego!"
+    },
+    "3tIzDQ": {
+        "en-US": "[Pakiha]\nSince it's difficult for me to guide everyone if many go together, you can only visit Korodo in a ^4D4DFFsolo party^000000~",
+        "pt-BR": "[Pakiha]\nComo é difícil para mim guiar todos se muitos forem juntos, você só pode visitar Korodo ^4D4DFFem um grupo sozinho^000000~",
+        "es-ES": "[Pakiha]\nSi van varias personas juntas, se me hace difícil cuidar de todas, así que solo se puede visitar Korodo en ^4D4DFFgrupo de 1 persona^000000~"
+    },
+    "39IzDQ": {
+        "en-US": "[Pakiha]\nThe stronger monsters are located toward the central volcano, but don't feel pressured.",
+        "pt-BR": "[Pakiha]\nOs monstros mais fortes estão localizados em direção ao vulcão central, mas não se sinta pressionado.",
+        "es-ES": "[Pakiha]\nCuanto más cerca del volcán central, más fuertes son los monstruos, pero no tienes que preocuparte."
+    },
+    "4NIzDQ": {
+        "en-US": "[Pakiha]\nAll monsters have Glowing Beads and Golden Corn, so just punish the monsters as much as you can and come back~ It's a festival, after all!",
+        "pt-BR": "[Pakiha]\nTodos os monstros têm Contas Cintilantes e Milho Dourado, então apenas puna os monstros o quanto puder e volte~ É um festival, afinal!",
+        "es-ES": "[Pakiha]\nTodos los monstruos llevan Esferas Ígneas y Maíz Dorado, así que regaña a los monstruos hasta donde puedas y regresa~ ¡Es un festival!"
+    },
+    "4dIzDQ": {
+        "en-US": "[Pakiha]\nThen, warrior, would you like to go to Korodo with me? Clap clap!",
+        "pt-BR": "[Pakiha]\nEntão, guerreiro, gostaria de ir para Korodo comigo? Palmas, palmas!",
+        "es-ES": "[Pakiha]\nEntonces, héroe, ¿vamos juntos a Korodo? ¡Plas plas!"
+    },
+    "4tIzDQ": {
+        "en-US": "I'll go~ clap clap!",
+        "pt-BR": "Vou~ palmas, palmas!",
+        "es-ES": "¡Vamos~ plas plas!"
+    },
+    "49IzDQ": {
+        "en-US": "I won't go.",
+        "pt-BR": "Não vou.",
+        "es-ES": "No voy."
+    },
+    "5NIzDQ": {
+        "en-US": "[Pakiha]\nThen our warrior~ you'll come back later, right~ Promise! Whenever you feel like visiting Korodo, come to me anytime!",
+        "pt-BR": "[Pakiha]\nEntão nosso guerreiro~ você voltará mais tarde, certo? Promessa! Quando sentir vontade de visitar Korodo, venha a mim a qualquer momento!",
+        "es-ES": "[Pakiha]\nNuestro héroe, entonces~ volverás más tarde, ¿verdad? ¡Promesa! Si te animas a visitar Korodo, ¡ven a verme cuando quieras!"
+    },
+    "5dIzDQ": {
+        "en-US": "[Pakiha]\nOur warrior, I'm so glad you're participating in the Popcorn Festa this~ actively!",
+        "pt-BR": "[Pakiha]\nNosso guerreiro, estou tão feliz que você está participando da Festa da Pipoca de forma tão ativa!",
+        "es-ES": "[Pakiha]\n¡Nuestro héroe, estoy tan contenta de que participes tan activamente en el Festival de las Palomitas!"
+    },
+    "5tIzDQ": {
+        "en-US": "[Pakiha]\nThen I'll prepare for departure right away, so our warrior, please call me again after you finish preparing!",
+        "pt-BR": "[Pakiha]\nEntão vou me preparar para a partida agora, então nosso guerreiro, por favor, me chame novamente depois de terminar seus preparativos!",
+        "es-ES": "[Pakiha]\nEntonces, prepararé la partida ahora mismo. Nuestro héroe, cuando termines tus preparativos, ¡llámame de nuevo!"
+    },
+    "59IzDQ": {
+        "en-US": "[Pakiha]\nOur warrior~ when you're ready, select '^4D4DFFApply for Volcanic Island Korodo^000000' to create a Memorial Dungeon, and if you see a success message, select '^4D4DFFEnter Volcanic Island Korodo^000000' to enter~",
+        "pt-BR": "[Pakiha]\nNosso guerreiro~ quando estiver pronto, selecione '^4D4DFFInscrição para Ilha Vulcânica Korodo^000000' para criar uma Masmorra Memorial, e se vir uma mensagem de sucesso, selecione '^4D4DFFEntrar na Ilha Vulcânica Korodo^000000' para entrar~",
+        "es-ES": "[Pakiha]\nNuestro héroe~ cuando estés listo, selecciona '^4D4DFFSolicitar Isla Volcánica Korodo^000000' para crear la Mazmorra Memorial. Una vez que confirmes el mensaje de creación exitosa, selecciona '^4D4DFFEntrar en Isla Volcánica Korodo^000000' para ingresar~"
+    },
+    "6NIzDQ": {
+        "en-US": "Apply for Volcanic Island Korodo",
+        "pt-BR": "Inscrição para Ilha Vulcânica Korodo",
+        "es-ES": "Solicitar Isla Volcánica Korodo"
+    },
+    "6dIzDQ": {
+        "en-US": "Enter Volcanic Island Korodo",
+        "pt-BR": "Entrar na Ilha Vulcânica Korodo",
+        "es-ES": "Entrar en Isla Volcánica Korodo"
+    },
+    "6tIzDQ": {
+        "en-US": "Volcanic Island Korodo",
+        "pt-BR": "Ilha Vulcânica Korodo",
+        "es-ES": "Isla Volcánica Korodo"
+    },
+    "69IzDQ": {
+        "en-US": "[Pakiha]\nAaah~ Warrior! To visit Korodo, you need to form a solo party~",
+        "pt-BR": "[Pakiha]\nAaah~ Guerreiro! Para visitar Korodo, você precisa formar uma party solo~",
+        "es-ES": "[Pakiha]\n¡Aah~, héroe! ¡Para visitar Korodo necesitas crear un grupo de 1 persona~"
+    },
+    "7NIzDQ": {
+        "en-US": "[Pakiha]\nUse '^4D4DFF/organize PartyName^000000' to give your party a name that suits it best, create the party~ and apply again!",
+        "pt-BR": "[Pakiha]\nUse '^4D4DFF/organizar NomeDaParty^000000' para dar um nome à sua party que mais combina com ela, crie a party~ e inscreva-se novamente!",
+        "es-ES": "[Pakiha]\nUsa ^4D4DFF/creargrupo NombreDelGrupo^000000 y crea un grupo con el nombre que más le convenga a nuestro héroe~ ¡y solicítalo de nuevo!"
+    },
+    "7dIzDQ": {
+        "en-US": "[Pakiha]\nApplication failed. I'll check what went wrong, so our warrior, please wait a moment and then apply again~ Clap clap!",
+        "pt-BR": "[Pakiha]\nFalha na inscrição. Vou verificar o que deu errado, então nosso guerreiro, aguarde um momento e depois inscreva-se novamente~ Palmas, palmas!",
+        "es-ES": "[Pakiha]\nFalló la solicitud. Voy a revisar qué salió mal. Nuestro héroe, espera un momento y vuelve a intentarlo~ ¡plas plas!"
+    },
+    "7tIzDQ": {
+        "en-US": "[Pakiha]\nYour application was successful~ After Volcanic Island Korodo is created, talk to me again, select ^4D4DFFEnter Volcanic Island Korodo^000000, and let's enter Korodo together!",
+        "pt-BR": "[Pakiha]\nSua inscrição foi bem-sucedida~ Depois que a Ilha Vulcânica Korodo for criada, fale comigo novamente, selecione ^4D4DFFEntrar na Ilha Vulcânica Korodo^000000 e vamos entrar em Korodo juntos!",
+        "es-ES": "[Pakiha]\nLa solicitud se realizó con éxito~. Una vez que se haya creado la Isla Volcánica Korodo, háblame de nuevo, selecciona ^4D4DFFEntrar en Isla Volcánica Korodo^000000 y entremos juntos."
+    },
+    "79IzDQ": {
+        "en-US": "[Pakiha]\nThen, see you in Korodo~ Face to face, see~! I'll be back!",
+        "pt-BR": "[Pakiha]\nEntão, vejo você em Korodo~ Face a face, see~! Volto já!",
+        "es-ES": "[Pakiha]\n¡Entonces nos vemos en Korodo~ frente a frente, salu~do! ¡Voy!"
+    },
+    "8NIzDQ": {
+        "en-US": "{1} of party {0} enters {2}.",
+        "pt-BR": "{1} da party {0} entra em {2}.",
+        "es-ES": "El grupo {0} de {1} está entrando en {2}."
+    },
+    "8dIzDQ": {
+        "en-US": "[Pakiha]\nYou haven't created the Memorial Dungeon as party leader yet~ First select ^4D4DFFApply for Volcanic Island Korodo^000000 to create the dungeon~!",
+        "pt-BR": "[Pakiha]\nVocê ainda não criou a Masmorra Memorial como líder da party~ Primeiro selecione ^4D4DFFInscrição para Ilha Vulcânica Korodo^000000 para criar a masmorra~!",
+        "es-ES": "[Pakiha]\nEl líder del grupo aún no ha creado la Mazmorra Memorial~ Selecciona primero ^4D4DFFSolicitar Isla Volcánica Korodo^000000 para crear la mazmorra~"
+    },
+    "8tIzDQ": {
+        "en-US": "[Pakiha]\nYou haven't created the Memorial Dungeon yet~ First select ^4D4DFFApply for Volcanic Island Korodo^000000 to create the dungeon~!",
+        "pt-BR": "[Pakiha]\nVocê ainda não criou a Masmorra Memorial~ Primeiro selecione ^4D4DFFInscrição para Ilha Vulcânica Korodo^000000 para criar a masmorra~!",
+        "es-ES": "[Pakiha]\nAún no has creado la Mazmorra Memorial~ Selecciona primero ^4D4DFFSolicitar Isla Volcánica Korodo^000000 para crear la mazmorra~"
+    },
+    "89IzDQ": {
+        "en-US": "[Pakiha]\nAn unknown error has occurred~ Our warrior, please try again!",
+        "pt-BR": "[Pakiha]\nOcorreu um erro desconhecido~ Nosso guerreiro, por favor, tente novamente!",
+        "es-ES": "[Pakiha]\nOcurrió un error desconocido~ ¡Nuestro héroe, inténtalo una vez más!"
+    },
+    "9NIzDQ": {
+        "en-US": "[Pakiha]\nAn exception has occurred~ Our warrior, please try again, and if I keep repeating the same thing, please take a screenshot and contact the operations team~ Clap clap!",
+        "pt-BR": "[Pakiha]\nOcorreu uma exceção~ Nosso guerreiro, por favor, tente novamente, e se eu continuar repetindo a mesma coisa, tire um print e contate a equipe de operações~ Palmas, palmas!",
+        "es-ES": "[Pakiha]\nOcurrió una excepción~ Nuestro héroe, inténtalo de nuevo. Si me repito, haz una captura y contacta al equipo de soporte~ ¡plas plas!"
+    },
+    "9dIzDQ": {
+        "en-US": "[Pakiha]\nOur warrior~ You've shown a great performance in Korodo and returned. Then, get plenty~ of rest today and come back after midnight, okay?",
+        "pt-BR": "[Pakiha]\nNosso guerreiro~ Você mostrou um ótimo desempenho em Korodo e voltou. Então, descanse bastante hoje e volte depois da meia-noite, ok?",
+        "es-ES": "[Pakiha]\nNuestro héroe~ regresaste después de mostrarnos tu gran desempeño en Korodo. Entonces, descansa bien hoy y vuelve cuando haya pasado la madrugada, ¿de acuerdo?"
+    },
+    "9tIzDQ": {
+        "en-US": "[Pakiha]\nGo to the beach, eat some popcorn, and cool your body and mind! Please come again tomorrow~ Pinky swear~ Promise!",
+        "pt-BR": "[Pakiha]\nVá à praia, coma um pouco de pipoca e refresque seu corpo e mente! Por favor, volte amanhã também~ Juramento de mindinho~ Promessa!",
+        "es-ES": "[Pakiha]\n¡Ve a la playa, come palomitas y refresca cuerpo y mente! Mañana no dejes de venir~ ¡promesa de meñique!"
+    },
+    "99IzDQ": {
+        "en-US": "[Pakiha]\nOur warrior~ I'm so glad to see you again! See~ once more!",
+        "pt-BR": "[Pakiha]\nNosso guerreiro~ Estou tão feliz em ver você novamente! See~ mais uma vez!",
+        "es-ES": "[Pakiha]\n¡Nuestro héroe~, qué alegría volver a verte! ¡Una vez más, salu~do!"
+    },
+    "+NIzDQ": {
+        "en-US": "[Pakiha]\nWould you like to visit Korodo with me, Pakiha, the Korodo Guide, again today?",
+        "pt-BR": "[Pakiha]\nGostaria de visitar Korodo comigo, Pakiha, a Guia de Korodo, novamente hoje?",
+        "es-ES": "[Pakiha]\nHoy también, ¿quieres visitar Korodo conmigo, tu guía Pakiha?"
+    },
+    "+dIzDQ": {
+        "en-US": "Visit.",
+        "pt-BR": "Visitar.",
+        "es-ES": "Visitar."
+    },
+    "+tIzDQ": {
+        "en-US": "Don't visit.",
+        "pt-BR": "Não visitar.",
+        "es-ES": "No visitar."
+    },
+    "+9IzDQ": {
+        "en-US": "[Pakiha]\nThen our warrior~ you'll come back later, right? Promise~ Stamp! Whenever you feel like visiting Korodo, come to me anytime!",
+        "pt-BR": "[Pakiha]\nEntão nosso guerreiro~ você voltará mais tarde, certo? Promessa~ Carimbo! Quando sentir vontade de visitar Korodo, venha a mim a qualquer momento!",
+        "es-ES": "[Pakiha]\nNuestro héroe, entonces~ volverás más tarde, ¿no? ¡Promesa~ sello! Cuando quieras visitar Korodo, ¡ven a verme cuando sea!"
+    },
+    "/NIzDQ": {
+        "en-US": "Yerva",
+        "pt-BR": "Yerva",
+        "es-ES": "Yerba"
+    },
+    "/dIzDQ": {
+        "en-US": "<Comodo Herb Gatherer>",
+        "pt-BR": "<Coletora de Ervas de Comodo>",
+        "es-ES": "<Herbolaria de Comodo>"
+    },
+    "/tIzDQ": {
+        "en-US": "[Yerva]\nYou must have had a hard time coming to Comodo, young adventurer. But your experience is too short for a request.",
+        "pt-BR": "[Yerva]\nVocê deve ter tido dificuldades para vir a Comodo, jovem aventureiro. Mas sua experiência é curta para uma missão.",
+        "es-ES": "[Yerba]\nDebe haber sido agotador llegar a Comodo, joven aventurero. Pero aún tienes poca experiencia para recibir un encargo."
+    },
+    "/9IzDQ": {
+        "en-US": "[Yerva]\nYou must have had a hard time carrying heavy loads, strong adventurer. But it would be too painful for you to take on a request.",
+        "pt-BR": "[Yerva]\nVocê deve ter tido dificuldades carregando pesos pesados, forte aventureiro. Mas seria muito doloroso para você aceitar uma missão.",
+        "es-ES": "[Yerba]\nDebe haber sido difícil cargar tanto peso, aventurero fuerte. Pero sería demasiado penoso para ti aceptar el encargo ahora."
+    },
+    "ANMzDQ": {
+        "en-US": "[Yerva]\nNice to meet you, Adventurer. But to enjoy the Popcorn Festa, before taking on my request, please stop by <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI> first.",
+        "pt-BR": "[Yerva]\nPrazer em conhecê-lo, Aventureiro. Mas para aproveitar a Festa da Pipoca, antes de aceitar minha missão, por favor, passe primeiro por <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI>.",
+        "es-ES": "[Yerba]\nMucho gusto, aventurero. Pero si desea disfrutar del Festival de las Palomitas, antes de recibir mi encargo, pase primero por <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI>."
+    },
+    "AdMzDQ": {
+        "en-US": "[Yerva]\nHello, Adventurer. In June, have you seen the Magic Herbs that sprout all over the fields and dungeons outside town? By gathering Magic Herbs, you can obtain <ITEM>[Healthy Herb]<INFO>25342</INFO></ITEM>.",
+        "pt-BR": "[Yerva]\nOlá, Aventureiro. Em junho, você viu as Ervas Mágicas que brotam por todos os campos e masmorras fora da cidade? Coletando Ervas Mágicas, você pode obter <ITEM>[Erva de Incenso]<INFO>25342</INFO></ITEM>.",
+        "es-ES": "[Yerba]\nHola, aventurero. En junio, ¿ha visto las Hierbas mágicas que brotan por todos los campos y mazmorras fuera del pueblo? Recolectando las hierbas mágicas se obtiene <ITEM>[Hierba Saludable]<INFO>25342</INFO></ITEM>."
+    },
+    "AtMzDQ": {
+        "en-US": "[Yerva]\nBurning this Healthy Herb in the bonfire managed by <NAVI>[Parthy]<INFO>comodo.gat,288,180,0,101,0</INFO></NAVI> to pray for a year's health and breathing in the bonfire smoke brings various good things.",
+        "pt-BR": "[Yerva]\nQueimando esta Erva de Incenso na fogueira gerenciada por <NAVI>[Parthy]<INFO>comodo.gat,288,180,0,101,0</INFO></NAVI> para rezar por um ano de saúde e respirando a fumaça da fogueira, várias coisas boas acontecem.",
+        "es-ES": "[Yerba]\nSi quema esta Hierba Benéfica en la fogata que administra <NAVI>[Parti]<INFO>comodo.gat,288,180,0,101,0</INFO></NAVI> y pide un deseo de salud para el año, al exponerse al humo de la fogata ocurren varias cosas buenas."
+    },
+    "A9MzDQ": {
+        "en-US": "[Yerva]\nI am here asking for small errands to help Parthy by promoting the bonfire on the beach. You gather 3 Magic Herbs.",
+        "pt-BR": "[Yerva]\nEstou aqui pedindo pequenos recados para ajudar Parthy, promovendo a fogueira na praia. Você coleta 3 Ervas Mágicas.",
+        "es-ES": "[Yerba]\nEstoy aquí pidiendo pequeños favores para ayudar a Parti a promocionar las fogatas de la playa. Se trata de recolectar 3 Hierbas mágicas."
+    },
+    "BNMzDQ": {
+        "en-US": "[Yerva]\nYou keep the Healthy Herb you get from gathering Magic Herbs, and if you tell me you've gathered the herbs, I'll give you an extra 10 leaves of <ITEM>[Healthy Herb]<INFO>25342</INFO></ITEM> as a bonus. Would you like to try it?",
+        "pt-BR": "[Yerva]\nVocê fica com a Erva de Incenso que obtém ao coletar Ervas Mágicas, e se me disser que coletou as ervas, lhe darei 10 folhas extras de <ITEM>[Erva de Incenso]<INFO>25342</INFO></ITEM> como bônus. Gostaria de tentar?",
+        "es-ES": "[Yerba]\nUsted se queda con la Hierba Benéfica que consiga al recolectar las hierbas mágicas, y si viene a decirme que las recolectó, como extra le doy 10 hojas de <ITEM>[Hierba Saludable]<INFO>25342</INFO></ITEM>. ¿Quiere probar?"
+    },
+    "BdMzDQ": {
+        "en-US": "Of course I will.",
+        "pt-BR": "Claro que sim.",
+        "es-ES": "Por supuesto."
+    },
+    "BtMzDQ": {
+        "en-US": "Not interested.",
+        "pt-BR": "Não tenho interesse.",
+        "es-ES": "No me interesa."
+    },
+    "B9MzDQ": {
+        "en-US": "[Yerva]\nCome to me later when you need Healthy Herb. It's only once a day, but I can give you a bonus on top of what you gather outside.",
+        "pt-BR": "[Yerva]\nVenha a mim mais tarde quando precisar de Erva de Incenso. É apenas uma vez por dia, mas posso lhe dar um bônus além do que você coleta lá fora.",
+        "es-ES": "[Yerba]\nSi más adelante necesita Hierba Saludable, venga a verme. Aunque solo es una vez al día, puedo darle un bono por lo que recolecte fuera."
+    },
+    "CNMzDQ": {
+        "en-US": "[Yerva]\nAnytime! Ah. Of course, I'm only asking once a day. Just go and gather 3 Magic Herbs.",
+        "pt-BR": "[Yerva]\nQuando quiser! Ah. Claro, só peço uma vez por dia. Basta ir e coletar 3 Ervas Mágicas.",
+        "es-ES": "[Yerba]\n¡Cuando quiera! Ah, claro, solo puedo pedir una vez al día. Vaya y recolecte 3 Hierbas mágicas."
+    },
+    "CdMzDQ": {
+        "en-US": "[Yerva]\nParthy works hard in front of the hot fire all day long. He would be happy if you go and use the bonfire a lot.",
+        "pt-BR": "[Yerva]\nParthy trabalha duro em frente ao fogo quente o dia todo. Ele ficaria feliz se você fosse e usasse bastante a fogueira.",
+        "es-ES": "[Yerba]\nParti se esfuerza todo el día frente al fuego abrasador. Estaría encantada si usted usa mucho la fogata."
+    },
+    "CtMzDQ": {
+        "en-US": "[Yerva]\nIf you gather 3 Magic Herbs, I'll give you 10 leaves of <ITEM>[Healthy Herb]<INFO>25342</INFO></ITEM>.",
+        "pt-BR": "[Yerva]\nSe você coletar 3 Ervas Mágicas, lhe darei 10 folhas de <ITEM>[Erva de Incenso]<INFO>25342</INFO></ITEM>.",
+        "es-ES": "[Yerba]\nSi recolecta 3 hierbas mágicas, le daré 10 hojas de <ITEM>[Hierba Saludable]<INFO>25342</INFO></ITEM>."
+    },
+    "C9MzDQ": {
+        "en-US": "[Yerva]\nYou've gathered 3 herbs. You were able to get <ITEM>[Healthy Herb]<INFO>25342</INFO></ITEM>, right? Here, I'll give you an additional 10 leaves.",
+        "pt-BR": "[Yerva]\nVocê coletou 3 ervas. Você conseguiu <ITEM>[Erva de Incenso]<INFO>25342</INFO></ITEM>, não foi? Aqui, lhe darei mais 10 folhas extras.",
+        "es-ES": "[Yerba]\nRecolectó las 3 hierbas. Pudo obtener <ITEM>[Hierba Saludable]<INFO>25342</INFO></ITEM>, ¿verdad? Aquí le doy 10 hojas más de bono."
+    },
+    "DNMzDQ": {
+        "en-US": "[Yerva]\nPlease use Parthy's bonfire a lot during the festival. I'm sure you'll be able to adventure healthily throughout the year. If you come again tomorrow, I'll ask you for herbs again.",
+        "pt-BR": "[Yerva]\nPor favor, use bastante a fogueira do Parthy durante o festival. Com certeza você poderá se aventurar com saúde durante todo o ano. Se você voltar amanhã, lhe pedirei ervas novamente.",
+        "es-ES": "[Yerba]\nDurante el festival, use mucho la fogata de Parti. Seguro tendrá un año de aventuras con salud. Si vuelve mañana, le pediré las hierbas nuevamente."
+    },
+    "DdMzDQ": {
+        "en-US": "[Yerva]\nHello. Have you come to gather Healthy Herb again today?",
+        "pt-BR": "[Yerva]\nOlá. Você veio coletar Erva de Incenso novamente hoje?",
+        "es-ES": "[Yerba]\nHola. ¿Hoy también viene a recolectar Hierba Saludable?"
+    },
+    "DtMzDQ": {
+        "en-US": "I'll go gather herbs.",
+        "pt-BR": "Vou coletar ervas.",
+        "es-ES": "Iré a recolectar hierbas."
+    },
+    "D9MzDQ": {
+        "en-US": "Not today.",
+        "pt-BR": "Hoje não.",
+        "es-ES": "Hoy no."
+    },
+    "ENMzDQ": {
+        "en-US": "[Yerva]\nA day hasn't passed yet. I'm only asking for the favor once a day. Please come back after midnight.",
+        "pt-BR": "[Yerva]\nAinda não passou um dia. Só peço o favor uma vez por dia. Por favor, volte depois da meia-noite.",
+        "es-ES": "[Yerba]\nAún no ha pasado un día. Solo puedo pedir una vez al día. Vuelva después de la madrugada."
+    },
+    "EdMzDQ": {
+        "en-US": "[Yerva]\nWould you like to gather Magic Herbs again? Just gather 3, and I'll give you 10 leaves of <ITEM>[Healthy Herb]<INFO>25342</INFO></ITEM>.",
+        "pt-BR": "[Yerva]\nGostaria de coletar Ervas Mágicas novamente? Basta coletar 3, e lhe darei 10 folhas de <ITEM>[Erva de Incenso]<INFO>25342</INFO></ITEM>.",
+        "es-ES": "[Yerba]\n¿Quiere recolectar hierbas mágicas de nuevo? Si recolecta solo 3, le daré 10 hojas de <ITEM>[Hierba Saludable]<INFO>25342</INFO></ITEM>."
+    },
+    "EtMzDQ": {
+        "en-US": "I won't go.",
+        "pt-BR": "Não vou.",
+        "es-ES": "No iré."
+    },
+    "E9MzDQ": {
+        "en-US": "[Yerva]\nAnytime! Ah. Of course, I'm only asking once a day. Just go and gather 3 Magic Herbs again today.",
+        "pt-BR": "[Yerva]\nQuando quiser! Ah. Claro, só peço uma vez por dia. Basta ir e coletar 3 Ervas Mágicas novamente hoje.",
+        "es-ES": "[Yerba]\n¡Cuando quiera! Ah, claro, solo puedo pedir una vez al día. Hoy también vaya y recolecte 3 hierbas mágicas."
+    },
+    "FNMzDQ": {
+        "en-US": "[Yerva]\nAnytime! Come again when you have time and gather herbs.",
+        "pt-BR": "[Yerva]\nQuando quiser! Volte quando tiver tempo e colete ervas.",
+        "es-ES": "[Yerba]\n¡Cuando quiera! Cuando tenga tiempo, venga otra vez y recolecte las hierbas."
+    },
+    "FdMzDQ": {
+        "en-US": "Popcorn Master",
+        "pt-BR": "Mestre da Pipoca",
+        "es-ES": "Maestro de las Palomitas"
+    },
+    "FtMzDQ": {
+        "en-US": "<Popcorn Maestro>",
+        "pt-BR": "<Maestro da Pipoca>",
+        "es-ES": "<Maestro Palomitero>"
+    },
+    "F9MzDQ": {
+        "en-US": "[Popcorn Master]\nLittle newbie, your bag is full. My popcorn is delicate, so I can't put it in your bag.",
+        "pt-BR": "[Mestre da Pipoca]\nNovato, sua mochila está cheia. Minha pipoca é delicada, então não posso colocá-la em sua mochila.",
+        "es-ES": "[Maestro de las Palomitas]\nNovato, tienes la mochila llena. Mis palomitas son delicadas, no puedo ponerlas si no hay espacio."
+    },
+    "GNMzDQ": {
+        "en-US": "[Popcorn Master]\nGo organize your bag and come back, okay? If you want to eat lots of my amazing popcorn!",
+        "pt-BR": "[Mestre da Pipoca]\nVá organizar sua mochila e volte, ok? Se quiser comer muita da minha pipoca incrível!",
+        "es-ES": "[Maestro de las Palomitas]\nVe a organizar tu mochila y vuelve. ¿Entendido? ¡Si quieres comer un montón de mis increíbles palomitas!"
+    },
+    "GdMzDQ": {
+        "en-US": "[Popcorn Master]\nLittle newbie, oh dear. You're a real newbie, huh? Sorry, but the Popcorn Master's Elegance & Luxury popcorn is an adult taste.",
+        "pt-BR": "[Mestre da Pipoca]\nNovato, oh céus. Você é um novato de verdade, hein? Desculpe, mas a pipoca Elegância & Luxo do Mestre da Pipoca tem gosto adulto.",
+        "es-ES": "[Maestro de las Palomitas]\nNovato, qué lástima. Eres un novato total, ¿verdad? Lo siento, pero las elegantes y lujosas palomitas del Maestro de las Palomitas tienen sabor de adulto."
+    },
+    "GtMzDQ": {
+        "en-US": "[Popcorn Master]\nThe Popcorn Master's popcorn soul only burns during the Popcorn Festa. First, stop by <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI> and complete your Popcorn Festa registration.",
+        "pt-BR": "[Mestre da Pipoca]\nA alma da pipoca do Mestre da Pipoca só queima durante a Festa da Pipoca. Primeiro, passe por <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI> e complete sua inscrição na Festa da Pipoca.",
+        "es-ES": "[Maestro de las Palomitas]\nEl alma palomitera del Maestro de las Palomitas solo arde en el Festival de las Palomitas. Primero, pasa por <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI> y completa el registro en el Festival de las Palomitas."
+    },
+    "G9MzDQ": {
+        "en-US": "[Popcorn Master]\nThe heat of Comodo's volcano in June, fresh butter and natural salt delivered daily from Hugel, and Golden Corn!",
+        "pt-BR": "[Mestre da Pipoca]\nO calor do vulcão de Comodo em junho, manteiga fresca e sal natural entregues diariamente de Hugel, e Milho Dourado!",
+        "es-ES": "[Maestro de las Palomitas]\nEl calor del volcán de Comodo en junio, la mantequilla fresca y la sal natural que llegan a diario desde Hugel. ¡Y el Maíz Dorado!"
+    },
+    "HNMzDQ": {
+        "en-US": "[Popcorn Master]\nThese are perfect conditions for popping the best popcorn. So I dropped everything and rushed here. I'm going to burn my popcorn soul for these two weeks.",
+        "pt-BR": "[Mestre da Pipoca]\nSão condições perfeitas para estourar a melhor pipoca. Então larguei tudo e vim correndo. Vou queimar minha alma da pipoca durante estas duas semanas.",
+        "es-ES": "[Maestro de las Palomitas]\nSon las condiciones perfectas para hacer las mejores palomitas. Por eso lo dejé todo y vine corriendo. Durante estas dos semanas arderá mi alma palomitera."
+    },
+    "HdMzDQ": {
+        "en-US": "I came to pop popcorn.",
+        "pt-BR": "Vim estourar pipoca.",
+        "es-ES": "Vine a hacer palomitas."
+    },
+    "HtMzDQ": {
+        "en-US": "[Popcorn Master]\nUhm? No no~ Impossible talk. If a newbie recklessly tries to pop corn in this intense heat, you might get seriously burned.",
+        "pt-BR": "[Mestre da Pipoca]\nUhm? Não não~ Conversa impossível. Se um novato se aventurar a estourar milho neste calor intenso, pode se queimar seriamente.",
+        "es-ES": "[Maestro de las Palomitas]\n¿Mmm? No, no~ Ni hablar. Un novato no puede hacer palomitas en este calor abrasador, podría quemarse gravemente."
+    },
+    "H9MzDQ": {
+        "en-US": "[Popcorn Master]\nSo let me! pop the popcorn for you. You give me the Golden Corn, and I'll present you with freshly popped popcorn~ How about that, isn't it a good idea?",
+        "pt-BR": "[Mestre da Pipoca]\nEntão deixe comigo! estourarei a pipoca para você. Você me dá o Milho Dourado, e eu lhe apresentarei pipoca fresca estourada~ Que tal, não é uma boa ideia?",
+        "es-ES": "[Maestro de las Palomitas]\n¡Así que lo haré yo! Yo haré las palomitas por ti. Si me das Maíz Dorado, te regalaré palomitas recién hechas. ¿Qué te parece? ¿Buena idea?"
+    },
+    "INMzDQ": {
+        "en-US": "[Popcorn Master]\nPlus a special service! If you get tired of just eating popcorn plain, bring me 3 Popcorns and 1000 Zeny.",
+        "pt-BR": "[Mestre da Pipoca]\nAlém disso, um serviço especial! Se você se cansar de comer pipoca pura, traga-me 3 Pipocas e 1000 Zeny.",
+        "es-ES": "[Maestro de las Palomitas]\nAdemás, ¡servicio especial! Si te cansaste de comer palomitas solas, tráeme 3 palomitas y 1000 zenys."
+    },
+    "IdMzDQ": {
+        "en-US": "[Popcorn Master]\nI'll melt fresh butter, mix it in chup chup, and sprinkle so~lt choak choak to make it into <ITEM>[Gourmet Popcorn]<INFO>11625</INFO></ITEM> for you.",
+        "pt-BR": "[Mestre da Pipoca]\nDerreterei manteiga fresca, misturarei chup chup e polvilharei sa~l choak choak para transformá-la em <ITEM>[Pipoca Gourmet]<INFO>11625</INFO></ITEM> para você.",
+        "es-ES": "[Maestro de las Palomitas]\nTe prepararé <ITEM>[Palomitas Gourmet]<INFO>11625</INFO></ITEM>, derritiendo mantequilla fresca, mezclando y rociando sal."
+    },
+    "ItMzDQ": {
+        "en-US": "[Popcorn Master]\nUhm, delicious~ Very good smell~ How about it, good deal, wanna do it?",
+        "pt-BR": "[Mestre da Pipoca]\nUhm, delicioso~ Cheiro muito bom~ Que tal, bom negócio, quer fazer?",
+        "es-ES": "[Maestro de las Palomitas]\nMmm, delicioso~ muy buen olor~ ¿Qué tal, quieres algo bueno?"
+    },
+    "I9MzDQ": {
+        "en-US": "[Popcorn Master]\nUhm, fantastic~ Very good smell~ How about it, good deal again today, wanna do it?",
+        "pt-BR": "[Mestre da Pipoca]\nUhm, fantástico~ Cheiro muito bom~ Que tal, bom negócio de novo hoje, quer fazer?",
+        "es-ES": "[Maestro de las Palomitas]\nMmm, fantástico~ muy buen olor~ ¿Qué tal, hoy también quieres algo bueno?"
+    },
+    "JNMzDQ": {
+        "en-US": "Exchange Popcorn",
+        "pt-BR": "Trocar Pipoca",
+        "es-ES": "Cambiar Palomitas"
+    },
+    "JdMzDQ": {
+        "en-US": "Exchange Gourmet Popcorn",
+        "pt-BR": "Trocar Pipoca Gourmet",
+        "es-ES": "Cambiar Palomitas Gourmet"
+    },
+    "JtMzDQ": {
+        "en-US": "I don't want to exchange.",
+        "pt-BR": "Não quero trocar.",
+        "es-ES": "No quiero cambiar."
+    },
+    "J9MzDQ": {
+        "en-US": "[Popcorn Master]\nExcellent! I'll pop fresh popcorn right away. With one Golden Corn, you can get between 3 and 7 Popcorns.",
+        "pt-BR": "[Mestre da Pipoca]\nExcelente! Vou estourar pipoca fresca agora mesmo. Com um Milho Dourado, você pode obter entre 3 e 7 Pipocas.",
+        "es-ES": "[Maestro de las Palomitas]\n¡Excelente! Haré palomitas frescas de inmediato. Con un Maíz Dorado puedes obtener entre 3 y 7 palomitas."
+    },
+    "KNMzDQ": {
+        "en-US": "[Popcorn Master]\nBut with a newbie's luck~ you might get even more popcorn. How many Golden Corn will you give me? I can pop ^4D4DFFfrom 1 to 100^000000 in one batch~",
+        "pt-BR": "[Mestre da Pipoca]\nMas com a sorte de um novato~ você pode ganhar ainda mais pipoca. Quantos Milhos Dourados vai me dar? Posso estourar ^4D4DFFde 1 a 100^000000 em uma leva~",
+        "es-ES": "[Maestro de las Palomitas]\nPero si eres un novato con suerte~ podrías conseguir muchas más. ¿Cuántos Maíces Dorados me darás? Puedo hacer ^4D4DFFde 1 hasta 100 unidades^000000 en una tanda~"
+    },
+    "KdMzDQ": {
+        "en-US": "[Popcorn Master]\nEnter the number of Golden Corn you want to pop!",
+        "pt-BR": "[Mestre da Pipoca]\nDigite o número de Milhos Dourados que você quer estourar!",
+        "es-ES": "[Maestro de las Palomitas]\n¡Escribe cuántos Maíces Dorados quieres hacer!"
+    },
+    "KtMzDQ": {
+        "en-US": "[Popcorn Master]\nYou can pop up to 100 Golden Corn in one batch. If you have a lot of corn, I'll pop it all in several batches, so don't be too impatient.",
+        "pt-BR": "[Mestre da Pipoca]\nVocê pode estourar até 100 Milhos Dourados em uma leva. Se você tiver muito milho, vou estourar tudo em várias levas, então não fique muito impaciente.",
+        "es-ES": "[Maestro de las Palomitas]\nPuedo hacer hasta 100 Maíces Dorados por tanda. Si tienes muchos, los haré en varias tandas, no te desesperes."
+    },
+    "K9MzDQ": {
+        "en-US": "[Popcorn Master]\nYou don't have as many Golden Corn as the number you entered? My very delicious popcorn magic absolutely needs Golden Corn. Check your bag carefully and come back.",
+        "pt-BR": "[Mestre da Pipoca]\nVocê não tem tantos Milhos Dourados quanto o número que digitou? Minha mágica de pipoca muito deliciosa precisa absolutamente de Milho Dourado. Verifique sua mochila cuidadosamente e volte.",
+        "es-ES": "[Maestro de las Palomitas]\nNo tienes la cantidad de Maíz Dorado que escribiste. Mi deliciosa magia palomitera necesita obligatoriamente Maíz Dorado. Revisa bien tu mochila y vuelve."
+    },
+    "LNMzDQ": {
+        "en-US": "[Popcorn Master]\nThe total Golden Corn you gave me is {0}. Popping it in Comodo volcano, it became {1} Popcorns. Mmm, delicious smell~ If you need more popcorn, come back with more Golden Corn!",
+        "pt-BR": "[Mestre da Pipoca]\nO total de Milhos Dourados que você me deu é {0}. Estourando no vulcão de Comodo, rendeu {1} Pipocas. Mmm, cheiro delicioso~ Se precisar de mais pipoca, volte com mais Milho Dourado!",
+        "es-ES": "[Maestro de las Palomitas]\nMe diste un total de {0} Maíces Dorados. Al hacer palomitas en el volcán de Comodo, resultaron {1} palomitas. Mmm, delicioso olor~ Si necesitas más palomitas, ¡trae Maíz Dorado y vuelve!"
+    },
+    "LdMzDQ": {
+        "en-US": "[Popcorn Master]\nYou mean Gourmet Popcorn with fresh butter mixed in chup chup and so~lt sprinkled choak choak? Give me 3 Popcorns and 1000 Zeny, and I'll make you one! I can make ^4D4DFFfrom 1 to 100^000000 in one batch.",
+        "pt-BR": "[Mestre da Pipoca]\nVocê quer dizer Pipoca Gourmet com manteiga fresca misturada chup chup e sa~l polvilhado choak choak? Me dê 3 Pipocas e 1000 Zeny, e eu faço uma para você! Posso fazer ^4D4DFFde 1 a 100^000000 em uma leva.",
+        "es-ES": "[Maestro de las Palomitas]\nLas Palomitas Gourmet, con mantequilla fresca mezclada y sal rociada, ¿verdad? Con 3 palomitas y 1000 zenys hago una. Puedo hacer ^4D4DFFde 1 hasta 100 unidades^000000 por tanda."
+    },
+    "LtMzDQ": {
+        "en-US": "[Popcorn Master]\nWrite the number of Gourmet Popcorn you want. For each Gourmet Popcorn you write, you need 3 Popcorns and 1000 Zeny, so check your wallet and bag and enter the number!",
+        "pt-BR": "[Mestre da Pipoca]\nEscreva o número de Pipocas Gourmet que você quer. Para cada Pipoca Gourmet que você escrever, você precisa de 3 Pipocas e 1000 Zeny, então verifique sua carteira e mochila e digite o número!",
+        "es-ES": "[Maestro de las Palomitas]\nEscribe cuántas Palomitas Gourmet quieres. Por cada unidad que escribas, se necesitan 3 palomitas y 1000 zenys. ¡Revisa tu billetera y mochila y escribe la cantidad!"
+    },
+    "L9MzDQ": {
+        "en-US": "[Popcorn Master]\nYou can make a total of up to 100 Gourmet Popcorn in one batch. Even if it's a large quantity, I'll make it in several batches, so don't be too impatient.",
+        "pt-BR": "[Mestre da Pipoca]\nVocê pode fazer um total de até 100 Pipocas Gourmet em uma leva. Mesmo que seja uma grande quantidade, vou fazer em várias levas, então não fique muito impaciente.",
+        "es-ES": "[Maestro de las Palomitas]\nPuedo hacer hasta 100 Palomitas Gourmet por tanda. Aunque sea mucha cantidad, las haré en varias veces, no te desesperes."
+    },
+    "MNMzDQ": {
+        "en-US": "[Popcorn Master]\nYou don't have enough Popcorns? My very delicious popcorn magic requires 3 Popcorns for each Gourmet Popcorn you said you want. Please check your bag again.",
+        "pt-BR": "[Mestre da Pipoca]\nVocê não tem Pipocas suficientes? Minha mágica de pipoca muito deliciosa requer 3 Pipocas para cada Pipoca Gourmet que você disse que queria. Por favor, verifique sua mochila novamente.",
+        "es-ES": "[Maestro de las Palomitas]\nTe faltan palomitas. Mi deliciosa magia palomitera necesita 3 palomitas por cada Palomita Gourmet que deseas. Vuelve a revisar tu mochila."
+    },
+    "MdMzDQ": {
+        "en-US": "[Popcorn Master]\nYou don't have enough Zeny? Fresh butter and so~lt price, my effort also costs, so it's not free. You need 1000 Zeny for each Gourmet Popcorn you said you want, so please check your wallet again.",
+        "pt-BR": "[Mestre da Pipoca]\nVocê não tem Zeny suficiente? O preço da manteiga fresca e do sal, meu esforço também custa, então não é de graça. Você precisa de 1000 Zeny para cada Pipoca Gourmet que você disse que queria, então por favor, verifique sua carteira novamente.",
+        "es-ES": "[Maestro de las Palomitas]\nTe faltan zenys. La mantequilla fresca, el precio de la sal y mi esfuerzo tienen costo, no puede ser gratis. Necesito 1000 zenys por cada Palomita Gourmet que deseas. Revisa tu billetera otra vez."
+    },
+    "MtMzDQ": {
+        "en-US": "Chup chup... Choak choak... The Popcorns you gave me are {0}, the Zeny is {1}. Using the heat of Comodo volcano, I made a total of {2} Gourmet Popcorns. Mmm, delicious smell~ If you need Gourmet Popcorn, come back anytime!",
+        "pt-BR": "Chup chup... Choak choak... As Pipocas que você me deu são {0}, o Zeny é {1}. Usando o calor do vulcão de Comodo, fiz um total de {2} Pipocas Gourmet. Mmm, cheiro delicioso~ Se precisar de Pipoca Gourmet, volte a qualquer momento!",
+        "es-ES": "Mezclando... rociando... Me diste {0} palomitas y {1} zenys. Con el calor del volcán de Comodo, preparé un total de {2} Palomitas Gourmet. Mmm, delicioso olor~ Si necesitas más Palomitas Gourmet, ¡vuelve cuando quieras!"
+    },
+    "M9MzDQ": {
+        "en-US": "[Popcorn Master]\nLittle newbie, the Popcorn Festa is a really good opportunity. It's very rare for an expert like me to personally pop popcorn and cook Gourmet Popcorn! So next time, be sure to try the popcorn!",
+        "pt-BR": "[Mestre da Pipoca]\nNovato, a Festa da Pipoca é uma oportunidade realmente boa. É muito raro um especialista como eu estourar pipoca pessoalmente e cozinhar Pipoca Gourmet para você! Então, da próxima vez, não deixe de experimentar a pipoca!",
+        "es-ES": "[Maestro de las Palomitas]\nNovato, el Festival de las Palomitas es una gran oportunidad. ¡Es muy raro que un experto como yo haga palomitas y prepare Palomitas Gourmet personalmente! Así que la próxima vez, ¡no dejes de probarlas!"
+    },
+    "NNMzDQ": {
+        "en-US": "Parthy",
+        "pt-BR": "Parthy",
+        "es-ES": "Parti"
+    },
+    "NdMzDQ": {
+        "en-US": "<Herb Bonfire Guide>",
+        "pt-BR": "<Guia da Fogueira de Ervas>",
+        "es-ES": "<Guía de la Fogata de Hierbas>"
+    },
+    "NtMzDQ": {
+        "en-US": "Parthy : Adventurer, burning Healthy Herb in the bonfire gives good effects! We prepared it!",
+        "pt-BR": "Parthy : Aventureiro, queimar Erva de Incenso na fogueira dá bons efeitos! Nós preparamos!",
+        "es-ES": "Parti : ¡Aventurero, si quemas Hierba Saludables en la fogata obtienes buenos efectos! ¡Nosotros la preparamos!"
+    },
+    "N9MzDQ": {
+        "en-US": "[Parthy]\nI've lit a bonfire blazing on the beach!\nAnd, yeah, I'm putting in herbs that give good effects and burning them together! The villagers prepared it!",
+        "pt-BR": "[Parthy]\nAcendi uma fogueira ardendo na praia!\nE, sim, estou colocando ervas que dão bons efeitos e queimando-as junto! Os moradores prepararam!",
+        "es-ES": "[Parti]\n¡Encendimos una fogata bien viva en la playa!\n¡Y también estamos quemando hierbas medicinales que dan buenos efectos! ¡La gente del pueblo las preparó!"
+    },
+    "ONMzDQ": {
+        "en-US": "[Parthy]\nTo get some bonfire, first go to <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI> and, yeah, participate in the Popcorn Festa first, then come.",
+        "pt-BR": "[Parthy]\nPara aproveitar a fogueira, primeiro vá até <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI> e, sim, participe da Festa da Pipoca primeiro, então volte.",
+        "es-ES": "[Parti]\nPara calentarte en la fogata, primero ve con <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI> y, ejem, inscríbete en el Festival de las Palomitas."
+    },
+    "OdMzDQ": {
+        "en-US": "[Parthy]\nBring <ITEM>[Healthy Herb]<INFO>25342</INFO></ITEM>, burn it in the bonfire, and breathe in the smoke, then, yeah, you can get good effects! Which bonfire gives which effect, Parthy will tell you when you go in front of the bonfire.",
+        "pt-BR": "[Parthy]\nTraga <ITEM>[Erva de Incenso]<INFO>25342</INFO></ITEM>, queime na fogueira e respire a fumaça, então, sim, você pode obter bons efeitos! Qual fogueira dá qual efeito, Parthy lhe dirá quando você for em frente à fogueira.",
+        "es-ES": "[Parti]\nSi traes <ITEM>[Hierba Saludables]<INFO>25342</INFO></ITEM> y la quemas en la fogata para inhalar el humo, ejem, ¡obtienes buenos efectos! Yo, Parti, te diré qué efecto tiene cada fogata cuando te acerques a ella."
+    },
+    "OtMzDQ": {
+        "en-US": "[Parthy]\nHealthy Herb only appears in June, and you can get it by gathering Magic Herbs anywhere outside town. You can also get it from the village herb gatherer, <NAVI>[Yerva]<INFO>comodo.gat,226,188,0,101,0</INFO></NAVI>!",
+        "pt-BR": "[Parthy]\nErva de Incenso só aparece em junho, e você pode obtê-la coletando Ervas Mágicas em qualquer lugar fora da cidade. Você também pode obtê-la com o coletor de ervas da vila, <NAVI>[Yerva]<INFO>comodo.gat,226,188,0,101,0</INFO></NAVI>!",
+        "es-ES": "[Parti]\nLa Hierba Saludables solo sale en junio; puedes conseguirla recolectando hierbas mágicas en cualquier lugar fuera del pueblo. ¡Y también te la puede dar la herbolaria del pueblo, <NAVI>[Yerba]<INFO>comodo.gat,226,188,0,101,0</INFO></NAVI>!"
+    },
+    "O9MzDQ": {
+        "en-US": "Mighty and Strong Bonfire",
+        "pt-BR": "Fogueira Poderosa e Forte",
+        "es-ES": "Fogata Fuerte y Poderosa"
+    },
+    "PNMzDQ": {
+        "en-US": "<Herb Bonfire>",
+        "pt-BR": "<Fogueira de Ervas>",
+        "es-ES": "<Fogata de Hierbas>"
+    },
+    "PdMzDQ": {
+        "en-US": "[Parthy]\nUm, um... Sorry...... This, the smoke... yeah, is too strong for you right now...",
+        "pt-BR": "[Parthy]\nHum, hum... Desculpe...... Esta, a fumaça... sim, é forte demais para você agora...",
+        "es-ES": "[Parti]\nEjem, ejem... lo siento... este humo... ejem, es demasiado fuerte para el aventurero ahora..."
+    },
+    "PtMzDQ": {
+        "en-US": "[Parthy]\nTo get some bonfire, first go to <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI> and, yeah, participate in the Popcorn Festa first, then come.",
+        "pt-BR": "[Parthy]\nPara aproveitar a fogueira, primeiro vá até <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI> e, sim, participe da Festa da Pipoca primeiro, então volte.",
+        "es-ES": "[Parti]\nPara calentarte en la fogata, primero ve con <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI> y, ejem, inscríbete en el Festival de las Palomitas."
+    },
+    "P9MzDQ": {
+        "en-US": "[Parthy]\nIf you breathe in the herb smoke too often, yeah, it's bad for you...\nAfter breathing in this herb smoke, you have to wait at least ^4D4DFF90 minutes^000000!",
+        "pt-BR": "[Parthy]\nSe você respirar a fumaça da erva com muita frequência, sim, faz mal...\nDepois de respirar esta fumaça de erva, você tem que esperar pelo menos ^4D4DFF90 minutos^000000!",
+        "es-ES": "[Parti]\nSi inhalas el humo de la hierba con mucha frecuencia, ejem, es malo para el cuerpo...\n¡Después de inhalar este humo de hierbas, hay que esperar al menos ^4D4DFF90 minutos^000000!"
+    },
+    "QNMzDQ": {
+        "en-US": "[Parthy]\nSo, adventurer, yeah, come back to Parthy a bit later!",
+        "pt-BR": "[Parthy]\nEntão, aventureiro, sim, volte para Parthy um pouco mais tarde!",
+        "es-ES": "[Parti]\nAsí que, aventurero, ejem, ¡vuelve a verme más tarde, Parti!"
+    },
+    "QdMzDQ": {
+        "en-US": "[Parthy]\nYeah, they say that burning <ITEM>[Healthy Herb]<INFO>25342</INFO></ITEM> in this bonfire and breathing the smoke gives... ^4D4DFFan effect that strengthens your attack power for 90 minutes^000000!",
+        "pt-BR": "[Parthy]\nSim, dizem que queimar <ITEM>[Erva de Incenso]<INFO>25342</INFO></ITEM> nesta fogueira e respirar a fumaça dá... ^4D4DFFum efeito que fortalece seu poder de ataque por 90 minutos^000000!",
+        "es-ES": "[Parti]\nEjem, si quemas <ITEM>[Hierba Saludables]<INFO>25342</INFO></ITEM> en esta fogata e inhalas el humo... ¡dicen que ^4D4DFFaumenta el ataque durante 90 minutos^000000!"
+    },
+    "QtMzDQ": {
+        "en-US": "[Parthy]\nThey say you need to burn a total of ^4D4DFF5 leaves^000000 of Healthy Herb for the effect. And once you breathe the smoke, you shouldn't burn more herbs in this bonfire and breathe the smoke again for ^4D4DFF90 minutes^000000.",
+        "pt-BR": "[Parthy]\nDizem que você precisa queimar um total de ^4D4DFF5 folhas^000000 de Erva de Incenso para o efeito. E depois de respirar a fumaça, você não deve queimar mais ervas nesta fogueira e respirar a fumaça novamente por ^4D4DFF90 minutos^000000.",
+        "es-ES": "[Parti]\nDicen que hay que quemar un total de ^4D4DFF5 hojas^000000 de Hierba Saludables para que surta efecto. Y después de inhalar el humo una vez, no se puede quemar hierba ni inhalar humo en esta misma fogata durante ^4D4DFF90 minutos^000000."
+    },
+    "Q9MzDQ": {
+        "en-US": "[Parthy]\nI've told you all the, yeah, precautions! Will you burn 5 leaves of <ITEM>[Healthy Herb]<INFO>25342</INFO></ITEM> in this bonfire and breathe the smoke?",
+        "pt-BR": "[Parthy]\nEu já lhe disse todas as, sim, precauções! Você vai queimar 5 folhas de <ITEM>[Erva de Incenso]<INFO>25342</INFO></ITEM> nesta fogueira e respirar a fumaça?",
+        "es-ES": "[Parti]\nYa te dije todas las precauciones. ¿Quieres quemar 5 hojas de <ITEM>[Hierba Saludables]<INFO>25342</INFO></ITEM> en esta fogata e inhalar el humo?"
+    },
+    "RNMzDQ": {
+        "en-US": "Burn the herb.",
+        "pt-BR": "Queimar a erva.",
+        "es-ES": "Quemar la hierba."
+    },
+    "RdMzDQ": {
+        "en-US": "Don't burn the herb.",
+        "pt-BR": "Não queimar a erva.",
+        "es-ES": "No quemar la hierba."
+    },
+    "RtMzDQ": {
+        "en-US": "[Parthy]\nYeah, they say you need to burn 5 leaves of herb to get the good effect from this bonfire. Bring more <ITEM>[Healthy Herb]<INFO>25342</INFO></ITEM>, yeah, and burn it, adventurer!",
+        "pt-BR": "[Parthy]\nSim, dizem que você precisa queimar 5 folhas de erva para obter o bom efeito desta fogueira. Traga mais <ITEM>[Erva de Incenso]<INFO>25342</INFO></ITEM>, sim, e queime, aventureiro!",
+        "es-ES": "[Parti]\nEjem, dicen que para obtener un buen efecto en esta fogata hay que quemar 5 hojas de hierba. Trae más <ITEM>[Hierba Saludables]<INFO>25342</INFO></ITEM>, ejem, y quemémosla, aventurero."
+    },
+    "R9MzDQ": {
+        "en-US": "- Under Parthy's guidance, you burned 5 leaves of Healthy Herb. Breathing the smoke praying for health, your attack power has increased! -",
+        "pt-BR": "- Sob a orientação de Parthy, você queimou 5 folhas de Erva de Incenso. Respirando a fumaça que reza pela saúde, seu poder de ataque aumentou! -",
+        "es-ES": "- Siguiendo la guía de Parti, quemaste 5 hojas de Hierba Saludables. Al inhalar el humo pidiendo salud, ¡el ataque aumentó! -"
+    },
+    "SNMzDQ": {
+        "en-US": "[Parthy]\nSo, yeah, you don't want to burn herbs right now? Okay, adventurer! Come back later!",
+        "pt-BR": "[Parthy]\nEntão, sim, você não quer queimar ervas agora? Tudo bem, aventureiro! Volte mais tarde!",
+        "es-ES": "[Parti]\nEntonces, ejem, ¿ahora no quieres quemar hierba? ¡Entendido, aventurero! ¡Vuelve más tarde!"
+    },
+    "SdMzDQ": {
+        "en-US": "Wise and Strong Bonfire",
+        "pt-BR": "Fogueira Sábia e Forte",
+        "es-ES": "Fogata Sabia y Poderosa"
+    },
+    "StMzDQ": {
+        "en-US": "[Parthy]\nYeah, they say that burning <ITEM>[Healthy Herb]<INFO>25342</INFO></ITEM> in this bonfire and breathing the smoke gives... ^4D4DFFan effect that strengthens your magic attack power for 90 minutes^000000!",
+        "pt-BR": "[Parthy]\nSim, dizem que queimar <ITEM>[Erva de Incenso]<INFO>25342</INFO></ITEM> nesta fogueira e respirar a fumaça dá... ^4D4DFFum efeito que fortalece seu poder de ataque mágico por 90 minutos^000000!",
+        "es-ES": "[Parti]\nEjem, si quemas <ITEM>[Hierba Saludables]<INFO>25342</INFO></ITEM> en esta fogata e inhalas el humo... ¡dicen que ^4D4DFFaumenta el ataque mágico durante 90 minutos^000000!"
+    },
+    "S9MzDQ": {
+        "en-US": "- Under Parthy's guidance, you burned 5 leaves of Healthy Herb. Breathing the smoke praying for health, your magic attack power has increased! -",
+        "pt-BR": "- Sob a orientação de Parthy, você queimou 5 folhas de Erva de Incenso. Respirando a fumaça que reza pela saúde, seu poder de ataque mágico aumentou! -",
+        "es-ES": "- Siguiendo la guía de Parti, quemaste 5 hojas de Hierba Saludables. Al inhalar el humo pidiendo salud, ¡el ataque mágico aumentó! -"
+    },
+    "TNMzDQ": {
+        "en-US": "Sharp and Strong Bonfire",
+        "pt-BR": "Fogueira Afiada e Forte",
+        "es-ES": "Fogata Afilada y Poderosa"
+    },
+    "TdMzDQ": {
+        "en-US": "[Parthy]\nYeah, they say that burning <ITEM>[Healthy Herb]<INFO>25342</INFO></ITEM> in this bonfire and breathing the smoke gives... ^4D4DFFan effect that allows you to attack faster for 90 minutes^000000!",
+        "pt-BR": "[Parthy]\nSim, dizem que queimar <ITEM>[Erva de Incenso]<INFO>25342</INFO></ITEM> nesta fogueira e respirar a fumaça dá... ^4D4DFFum efeito que permite atacar mais rapidamente por 90 minutos^000000!",
+        "es-ES": "[Parti]\nEjem, si quemas <ITEM>[Hierba Saludables]<INFO>25342</INFO></ITEM> en esta fogata e inhalas el humo... ¡dicen que ^4D4DFFaumenta un poco la velocidad de ataque y la evasión durante 90 minutos^000000!"
+    },
+    "TtMzDQ": {
+        "en-US": "- Under Parthy's guidance, you burned 5 leaves of Healthy Herb. Breathing the smoke praying for health, your attack speed and flee rate have increased! -",
+        "pt-BR": "- Sob a orientação de Parthy, você queimou 5 folhas de Erva de Incenso. Respirando a fumaça que reza pela saúde, sua velocidade de ataque e taxa de esquiva aumentaram! -",
+        "es-ES": "- Siguiendo la guía de Parti, quemaste 5 hojas de Hierba Saludables. Al inhalar el humo pidiendo salud, ¡la velocidad de ataque y la tasa de evasión aumentaron! -"
+    },
+    "T9MzDQ": {
+        "en-US": "Popcorn Festa Promotion",
+        "pt-BR": "Divulgação da Festa da Pipoca",
+        "es-ES": "Promoción del Festival de las Palomitas"
+    },
+    "UNMzDQ": {
+        "en-US": "[Popcorn Festa Promotion]\nEvery year in June, the Popcorn Festa is held in Comodo amidst the intense heat! Enjoy delicious popcorn and have fun at the exciting festival!",
+        "pt-BR": "[Divulgação da Festa da Pipoca]\nTodo ano em junho, a Festa da Pipoca é realizada em Comodo em meio ao calor intenso! Aproveite a pipoca deliciosa e divirta-se no festival emocionante!",
+        "es-ES": "[Promoción del Festival de las Palomitas]\n¡Cada año, en junio, en medio del intenso calor se celebra el Festival de las Palomitas en Comodo! ¡Ven a comer deliciosas palomitas y a disfrutar de un animado festival!"
+    },
+    "UdMzDQ": {
+        "en-US": "[Popcorn Festa Promotion]\nIf you put 1 <ITEM>[Blazing Bead]<INFO>25341</INFO></ITEM> into this red box I'm riding, you can move to Comodo.",
+        "pt-BR": "[Divulgação da Festa da Pipoca]\nSe você colocar 1 <ITEM>[Piroclasto]<INFO>25341</INFO></ITEM> nesta caixa vermelha em que estou montado, poderá se mover para Comodo.",
+        "es-ES": "[Promoción del Festival de las Palomitas]\nSi pones 1 <ITEM>[Piroclasto]<INFO>25341</INFO></ITEM> en esta caja roja sobre la que estoy subido, puedes teletransportarte a Comodo."
+    },
+    "UtMzDQ": {
+        "en-US": "[Popcorn Festa Promotion]\nWould you like to move directly to the festival grounds?",
+        "pt-BR": "[Divulgação da Festa da Pipoca]\nGostaria de se mover diretamente para o local do festival?",
+        "es-ES": "[Promoción del Festival de las Palomitas]\n¿Quieres teletransportarte directamente al lugar del festival?"
+    },
+    "U9MzDQ": {
+        "en-US": "Move.",
+        "pt-BR": "Mover.",
+        "es-ES": "Teletransportar."
+    },
+    "VNMzDQ": {
+        "en-US": "Don't move.",
+        "pt-BR": "Não mover.",
+        "es-ES": "No teletransportar."
+    },
+    "VdMzDQ": {
+        "en-US": "[Popcorn Festa Promotion]\nYou don't have enough Blazing Beads to move.\nGlowing Beads can be obtained from Warm Imps and Warm Explosions roaming outside town.",
+        "pt-BR": "[Divulgação da Festa da Pipoca]\nVocê não tem Piroclastos suficientes para se mover.\nContas Cintilantes podem ser obtidas de Imps Quentes e Explosões Quentes que vagam fora da cidade.",
+        "es-ES": "[Promoción del Festival de las Palomitas]\nNo es posible teletransportarse por falta de Piroclastos.\nPuedes obtener Esferas Ígneas de los Diablillos Calientes y Explosiones Calientes que rondan fuera de la aldea."
+    },
+    "VtMzDQ": {
+        "en-US": "[Popcorn Festa Promotion]\nThe Popcorn Festa runs for two weeks in June.\nBe sure to participate!",
+        "pt-BR": "[Divulgação da Festa da Pipoca]\nA Festa da Pipoca acontece por duas semanas em junho.\nNão deixe de participar!",
+        "es-ES": "[Promoción del Festival de las Palomitas]\nEl Festival de las Palomitas se lleva a cabo durante dos semanas en junio.\n¡No dejes de participar!"
+    },
+    "V9MzDQ": {
+        "en-US": "Gantrin",
+        "pt-BR": "Gantrin",
+        "es-ES": "Gantrin"
+    },
+    "WNMzDQ": {
+        "en-US": "<Popcorn Limited Sales>",
+        "pt-BR": "<Venda Limitada de Pipoca>",
+        "es-ES": "<Venta Limitada de Palomitas>"
+    },
+    "WdMzDQ": {
+        "en-US": "[Gantrin]\nYou're an adventurer who needs more experience. It seems a bit early for you to use the limited shop.",
+        "pt-BR": "[Gantrin]\nVocê é um aventureiro que precisa de mais experiência. Parece um pouco cedo para você usar a loja limitada.",
+        "es-ES": "[Gantrin]\nEres un aventurero que aún necesita acumular más experiencia. Parece pronto para que uses la tienda limitada."
+    },
+    "WtMzDQ": {
+        "en-US": "[Gantrin]\nYour bag is full. There's no room to put popcorn. Please empty your bag and come back.",
+        "pt-BR": "[Gantrin]\nSua mochila está cheia. Não há espaço para colocar pipoca. Esvazie sua mochila e volte.",
+        "es-ES": "[Gantrin]\nTu mochila está llena. No hay espacio para poner palomitas. Vacía tu mochila y regresa."
+    },
+    "W9MzDQ": {
+        "en-US": "[Gantrin]\nDid you come to buy limited popcorn?",
+        "pt-BR": "[Gantrin]\nVocê veio comprar pipoca limitada?",
+        "es-ES": "[Gantrin]\n¿Vienes a comprar las palomitas limitadas?"
+    },
+    "XNMzDQ": {
+        "en-US": "[Gantrin]\nIf so, first go to <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI> and complete your Popcorn Festa registration.",
+        "pt-BR": "[Gantrin]\nSe sim, primeiro vá até <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI> e complete sua inscrição na Festa da Pipoca.",
+        "es-ES": "[Gantrin]\nEn ese caso, primero ve con <NAVI>[Kerlin]<INFO>comodo.gat,262,126,0,101,0</INFO></NAVI> y completa el registro en el Festival de las Palomitas."
+    },
+    "XdMzDQ": {
+        "en-US": "[Gantrin]\nI am a merchant selling ^4D4DFFPopcorn^000000 in limited quantities.",
+        "pt-BR": "[Gantrin]\nSou um mercador que vende ^4D4DFFPipoca^000000 em quantidades limitadas.",
+        "es-ES": "[Gantrin]\nSoy un comerciante que vende ^4D4DFFPalomitas^000000 por tiempo limitado."
+    },
+    "XtMzDQ": {
+        "en-US": "[Gantrin]\nI'm selling Popcorn for 2000 zeny each, so buy plenty while you can.",
+        "pt-BR": "[Gantrin]\nEstou vendendo Pipoca por 2000 zeny cada, então compre bastante enquanto pode.",
+        "es-ES": "[Gantrin]\nVendo cada palomita a 2000 zenys. Aprovecha ahora y compra muchas."
+    },
+    "X9MzDQ": {
+        "en-US": "[Gantrin]\nWould you like to buy ^4D4DFFPopcorn^000000?",
+        "pt-BR": "[Gantrin]\nGostaria de comprar ^4D4DFFPipoca^000000?",
+        "es-ES": "[Gantrin]\n¿Quieres comprar ^4D4DFFPalomitas^000000?"
+    },
+    "YNMzDQ": {
+        "en-US": "Buy.",
+        "pt-BR": "Comprar.",
+        "es-ES": "Comprar."
+    },
+    "YdMzDQ": {
+        "en-US": "Don't buy.",
+        "pt-BR": "Não comprar.",
+        "es-ES": "No comprar."
+    },
+    "YtMzDQ": {
+        "en-US": "[Gantrin]\nUnfortunately, the items are sold out.",
+        "pt-BR": "[Gantrin]\nInfelizmente, os itens estão esgotados.",
+        "es-ES": "[Gantrin]\nLamentablemente, los productos se agotaron."
+    },
+    "Y9MzDQ": {
+        "en-US": "[Gantrin]\nThere will be another chance next week, so try then.",
+        "pt-BR": "[Gantrin]\nHaverá outra chance na próxima semana, então tente então.",
+        "es-ES": "[Gantrin]\nLa próxima semana habrá otra oportunidad; inténtalo entonces."
+    },
+    "ZNMzDQ": {
+        "en-US": "[Gantrin]\nThere are {0} ^4D4DFFPopcorns^000000 left right now.\nBuy them quickly.",
+        "pt-BR": "[Gantrin]\nRestam {0} ^4D4DFFPipocas^000000 agora.\nCompre-as rapidamente.",
+        "es-ES": "[Gantrin]\nAhora quedan {0} unidades de ^4D4DFFPalomitas^000000.\nDate prisa y compra."
+    },
+    "ZdMzDQ": {
+        "en-US": "[Gantrin]\nNo?\nHmm.. It's a good opportunity... Too bad.",
+        "pt-BR": "[Gantrin]\nNão?\nHmm.. É uma boa oportunidade... Pena.",
+        "es-ES": "[Gantrin]\n¿Ah, sí?\nMmm... es una buena oportunidad... qué lástima."
+    },
+    "ZtMzDQ": {
+        "en-US": "Nutty Chipchips",
+        "pt-BR": "Nutty Chipchips",
+        "es-ES": "Nutty Chipchips"
+    },
+    "Z9MzDQ": {
+        "en-US": "Nutty Chipchips : If you want to know about the Popcorn Festa, I'll tell you!",
+        "pt-BR": "Nutty Chipchips : Se você quiser saber sobre a Festa da Pipoca, eu conto!",
+        "es-ES": "Nutty Chipchips : ¡Si quieres saber sobre el Festival de las Palomitas, yo te cuento!"
+    },
+    "aNMzDQ": {
+        "en-US": "[Nutty Chipchips]\nYahoo, hello Adventurer?\nYou visiting Comodo now means... you came to hang out at the Popcorn Festa, right?",
+        "pt-BR": "[Nutty Chipchips]\nYahoo, olá Aventureiro?\nVocê visitar Comodo agora significa... que veio se divertir na Festa da Pipoca, certo?",
+        "es-ES": "[Nutty Chipchips]\n¡Hey, aventurero, hola!\nSi estás visitando Comodo ahora... viniste a divertirte al Festival de las Palomitas, ¿verdad?"
+    },
+    "adMzDQ": {
+        "en-US": "Nutty Chipchips : I'm right, right? Hehe.",
+        "pt-BR": "Nutty Chipchips : Estou certo, certo? Hehe.",
+        "es-ES": "Nutty Chipchips : ¿Adiviné? Jeje."
+    },
+    "atMzDQ": {
+        "en-US": "Of course!",
+        "pt-BR": "Claro!",
+        "es-ES": "¡Claro, por supuesto!"
+    },
+    "a9MzDQ": {
+        "en-US": "What's the Popcorn Festa?",
+        "pt-BR": "O que é a Festa da Pipoca?",
+        "es-ES": "¿Qué es el Festival de las Palomitas?"
+    },
+    "bNMzDQ": {
+        "en-US": "[Nutty Chipchips]\nSee, June in Comodo means the Popcorn Festa! Have lots of fun, Adventurer!",
+        "pt-BR": "[Nutty Chipchips]\nViu, junho em Comodo é a Festa da Pipoca! Divirta-se bastante, Aventureiro!",
+        "es-ES": "[Nutty Chipchips]\n¡Como esperaba, junio en Comodo es el Festival de las Palomitas! ¡Disfruta al máximo, aventurero!"
+    },
+    "bdMzDQ": {
+        "en-US": "[Nutty Chipchips]\nYou don't know what the Popcorn Festa is? But you came to Comodo in June anyway, Adventurer, you must be very lucky!",
+        "pt-BR": "[Nutty Chipchips]\nVocê não sabe o que é a Festa da Pipoca? Mas você veio a Comodo em junho mesmo assim, Aventureiro, você deve ser muito sortudo!",
+        "es-ES": "[Nutty Chipchips]\n¿No sabes qué es el Festival de las Palomitas? Y aun así viniste a Comodo en junio, ¡parece que tienes mucha suerte!"
+    },
+    "btMzDQ": {
+        "en-US": "[Nutty Chipchips]\nAdventurer. I want to tell the Adventurer about the Popcorn Festa! Is that okay?",
+        "pt-BR": "[Nutty Chipchips]\nAventureiro. Quero contar ao Aventureiro sobre a Festa da Pipoca! Tudo bem?",
+        "es-ES": "[Nutty Chipchips]\nAventurero, ¡quiero contarte sobre el Festival de las Palomitas! ¿Puedo?"
+    },
+    "b9MzDQ": {
+        "en-US": "Nutty Chipchips : Will you listen? Can you listen?",
+        "pt-BR": "Nutty Chipchips : Você vai ouvir? Pode ouvir?",
+        "es-ES": "Nutty Chipchips : ¿Me escucharás? ¿Puedes?"
+    },
+    "cNMzDQ": {
+        "en-US": "Of course!",
+        "pt-BR": "Claro!",
+        "es-ES": "¡Claro!"
+    },
+    "cdMzDQ": {
+        "en-US": "Sorry, I'm busy right now.",
+        "pt-BR": "Desculpe, estou ocupado agora.",
+        "es-ES": "Lo siento, ahora estoy ocupado."
+    },
+    "ctMzDQ": {
+        "en-US": "[Nutty Chipchips]\nIn June, the stars gradually move and new constellations are formed.\nThey say that due to the influence of these new constellations, fire energy overflows in our Comodo and the surrounding volcanoes!",
+        "pt-BR": "[Nutty Chipchips]\nEm junho, as estrelas se movem gradualmente e novas constelações são formadas.\nDizem que devido à influência dessas novas constelações, a energia do fogo transborda em nosso Comodo e nos vulcões ao redor!",
+        "es-ES": "[Nutty Chipchips]\nEn junio, las estrellas se mueven y se forma una nueva constelación.\n¡Dicen que por la influencia de esa nueva constelación, nuestra Comodo y los volcanes de alrededor se llenan de energía ígnea!"
+    },
+    "c9MzDQ": {
+        "en-US": "[Nutty Chipchips]\nThe place most affected is, the volcanic island Corodo!\nAn island inside the same cave as Comodo, visible far south from Comodo.",
+        "pt-BR": "[Nutty Chipchips]\nO lugar mais afetado é, a ilha vulcânica Corodo!\nUma ilha dentro da mesma caverna que Comodo, visível bem ao sul de Comodo.",
+        "es-ES": "[Nutty Chipchips]\nEl lugar que más influencia recibe es justamente la isla volcánica Corodo.\nEs una isla dentro de la misma cueva de Comodo, que se ve yendo bien al sur desde Comodo."
+    },
+    "dNMzDQ": {
+        "en-US": "[Nutty Chipchips]\nUnlike the Comodo crater, which is resting from volcanic activity, volcanic activity still occurs in the Corodo crater.\nSo, you see, a big problem arises in June.",
+        "pt-BR": "[Nutty Chipchips]\nDiferentemente da cratera de Comodo, que está em repouso da atividade vulcânica, a atividade vulcânica ainda ocorre na cratera de Corodo.\nEntão, você vê, surge um grande problema em junho.",
+        "es-ES": "[Nutty Chipchips]\nA diferencia de la cratera de Comodo, que está en reposo, en la cratera de Corodo la actividad volcánica continúa.\nPor eso, en junio, ocurre algo grave."
+    },
+    "ddMzDQ": {
+        "en-US": "[Nutty Chipchips]\nFire Property monsters whose bodies have cooled down over the winter come to Corodo to receive some fire energy.",
+        "pt-BR": "[Nutty Chipchips]\nMonstros de propriedade Fogo cujos corpos esfriaram durante o inverno vêm a Corodo para receber um pouco de energia do fogo.",
+        "es-ES": "[Nutty Chipchips]\nLos monstruos de elemento Fuego, que se enfriaron durante el invierno, vienen a Corodo a recibir la energía ígnea."
+    },
+    "dtMzDQ": {
+        "en-US": "[Nutty Chipchips]\nAlways carrying a 'Blazing Bead' they created by storing fire energy somewhere on their bodies to survive even in cold regions.",
+        "pt-BR": "[Nutty Chipchips]\nSempre carregando um 'Piroclasto' que criaram armazenando energia do fogo em alguma parte de seus corpos para sobreviver mesmo em regiões frias.",
+        "es-ES": "[Nutty Chipchips]\nSiempre cargan consigo 'Piroclasto', hechas con energía de fuego guardada en alguna parte del cuerpo para soportar incluso las regiones frías."
+    },
+    "d9MzDQ": {
+        "en-US": "[Nutty Chipchips]\nThis is a big problem. Because the fire energy is getting stronger, even the Comodo crater starts to boil with lava...",
+        "pt-BR": "[Nutty Chipchips]\nIsso é um grande problema. Porque a energia do fogo está ficando mais forte, até a cratera de Comodo começa a ferver com lava...",
+        "es-ES": "[Nutty Chipchips]\nEsto es grave. Con la energía ígnea ya intensificándose, la lava empieza a hervir incluso en la cratera de Comodo..."
+    },
+    "eNMzDQ": {
+        "en-US": "[Nutty Chipchips]\nIf volcano region monsters carrying such dangerous things swarm into Corodo, the Corodo volcano might go KABOOM! and erupt.",
+        "pt-BR": "[Nutty Chipchips]\nSe monstros da região vulcânica carregando coisas tão perigosas se aglomerarem em Corodo, o vulcão Corodo pode ir KABOOM! e entrar em erupção.",
+        "es-ES": "[Nutty Chipchips]\nSi esos monstruos volcánicos que portan algo tan peligroso se amontonan en Corodo, ¡el volcán de Corodo podría explotar 'bum'!"
+    },
+    "edMzDQ": {
+        "en-US": "[Nutty Chipchips]\nIf a volcanic eruption occurs in Korodo, of course Comodo becomes dangerous too.\nSo! To prevent that from happening, the old folks put their heads together.",
+        "pt-BR": "[Nutty Chipchips]\nSe ocorrer uma erupção vulcânica em Korodo, é claro que Comodo também fica perigoso.\nEntão! Para evitar que isso aconteça, os antigos juntaram suas cabeças.",
+        "es-ES": "[Nutty Chipchips]\nSi hay una erupción volcánica en Korodo, es obvio que Comodo también corre peligro.\n¡Así que! Para evitar eso, los antiguos se pusieron de acuerdo."
+    },
+    "etMzDQ": {
+        "en-US": "[Nutty Chipchips]\nAt first, there was talk of abandoning the village and running away... but that's absolutely not okay!\nIt's our precious home, our village!",
+        "pt-BR": "[Nutty Chipchips]\nNo início, houve conversa de abandonar a vila e fugir... mas isso não está certo!\nÉ nossa casa preciosa, nossa vila!",
+        "es-ES": "[Nutty Chipchips]\nDicen que al principio se habló de abandonar el pueblo y huir... ¡pero eso nunca!\n¡Es nuestro querido hogar, nuestro pueblo!"
+    },
+    "e9MzDQ": {
+        "en-US": "[Nutty Chipchips]\nAfter talking for four nights and four days, the villagers made a decision.\nThey said, let's suppress things like volcanic energy with our lively, energetic spirit!",
+        "pt-BR": "[Nutty Chipchips]\nDepois de conversar por quatro noites e quatro dias, os moradores tomaram uma decisão.\nEles disseram: vamos suprimir coisas como energia vulcânica com nosso espírito vivo e enérgico!",
+        "es-ES": "[Nutty Chipchips]\nDespués de hablar cuatro noches y cuatro días, los aldeanos tomaron una decisión.\n¡Decidieron suprimir la energía del volcán con la energía vibrante de las personas!"
+    },
+    "fNMzDQ": {
+        "en-US": "[Nutty Chipchips]\nSo everyone gathered together, joined forces to send the Fire Property monsters back...\nAnd instead, people gathered to enjoy festivals all night long.",
+        "pt-BR": "[Nutty Chipchips]\nEntão todos se reuniram, juntaram forças para enviar os monstros de propriedade Fogo de volta...\nE, em vez disso, as pessoas se reuniram para aproveitar festas a noite toda.",
+        "es-ES": "[Nutty Chipchips]\nAsí que todos se reunieron, unieron fuerzas para mandar de vuelta a los monstruos de fuego...\ny en lugar de eso, la gente se juntó y empezó a disfrutar del festival toda la noche."
+    },
+    "fdMzDQ": {
+        "en-US": "[Nutty Chipchips]\nGathering on the beach all night, lighting fires, researching how to imbue items with mysterious effects using Glowing Beads, and popping and eating popcorn with the remaining heat from the crater!",
+        "pt-BR": "[Nutty Chipchips]\nReunindo-se na praia a noite toda, acendendo fogueiras, pesquisando como imbuir itens com efeitos misteriosos usando Contas Cintilantes, e estourando e comendo pipoca com o calor restante da cratera!",
+        "es-ES": "[Nutty Chipchips]\nReunidos en la playa toda la noche, encendieron fogatas, investigaron cómo infundir efectos misteriosos en los objetos con las Esferas Ígneas, ¡y con el calor sobrante de la cratera hicieron palomitas y se las comieron!"
+    },
+    "ftMzDQ": {
+        "en-US": "[Nutty Chipchips]\nHehe, it's a festival held every year, so enjoy it to the fullest this year, and come again next year!",
+        "pt-BR": "[Nutty Chipchips]\nHehe, é um festival realizado todo ano, então aproveite ao máximo este ano e volte no ano que vem!",
+        "es-ES": "[Nutty Chipchips]\nJeje, como es un festival anual, este año disfruta al máximo, ¡y el año que viene vuelve otra vez!"
+    },
+    "f9MzDQ": {
+        "en-US": "[Nutty Chipchips]\nAh, right, right! There are so many fun things, so of course you're busy.",
+        "pt-BR": "[Nutty Chipchips]\nAh, sim, sim! Há tantas coisas divertidas, então é claro que você está ocupado.",
+        "es-ES": "[Nutty Chipchips]\nAh, ¡es verdad! Hay tantas cosas divertidas que no puedes estar ocupado."
+    },
+    "gNMzDQ": {
+        "en-US": "Zella Subindo",
+        "pt-BR": "Zella Subindo",
+        "es-ES": "Gela Subindo"
+    },
+    "gdMzDQ": {
+        "en-US": "[Zella Subindo]\nMunch munch, crunch crunch...\nPopcorn popped from Golden Corn is the best, after all.",
+        "pt-BR": "[Zella Subindo]\nMastiga, mastiga, croc, croc...\nPipoca estourada com Milho Dourado é a melhor, afinal.",
+        "es-ES": "[Gela Subindo]\nÑam ñam, nham nham...\nComo siempre, las palomitas hechas con Maíz Dorado son lo mejor."
+    },
+    "gtMzDQ": {
+        "en-US": "[Zella Subindo]\nAnd then, butter popcorn that's well mixed with melted butter and salted, savory and rich, is truly irresistible!",
+        "pt-BR": "[Zella Subindo]\nE então, pipoca de manteiga bem misturada com manteiga derretida e salgada, saborosa e rica, é verdadeiramente irresistível!",
+        "es-ES": "[Gela Subindo]\nY las palomitas de mantequilla, con mantequilla derretida bien mezclada y sal, ¡son realmente irresistibles!"
+    },
+    "g9MzDQ": {
+        "en-US": "[Zella Subindo]\nWhen you're thirsty, gulp down some cool soda, then grab another handful of savory butter popcorn...\nAh, ugh! Buh-ib you can't talk!",
+        "pt-BR": "[Zella Subindo]\nQuando estiver com sede, beba um bom gole de refrigerante gelado, então pegue outro punhado de pipoca de manteiga saborosa...\nAh, ugh! Mas não posso falar!",
+        "es-ES": "[Gela Subindo]\nCuando me da sed, me tomo un refresco helado y luego otro puñado de palomitas de mantequilla...\n¡Ah, arg! ¡Perohablandoconlabocallena!"
+    },
+    "hNMzDQ": {
+        "en-US": "Rerenoha",
+        "pt-BR": "Rerenoha",
+        "es-ES": "Lelenoha"
+    },
+    "hdMzDQ": {
+        "en-US": "[Rerenoha]\nToday, I am the king of the beach!\nEven in this sweltering weather, everyone gathers together, wears pretty clothes, and plays all night, so it's fun!",
+        "pt-BR": "[Rerenoha]\nHoje, eu sou o rei da praia!\nMesmo neste clima abafado, todos se reúnem, vestem roupas bonitas e brincam a noite toda, então é divertido!",
+        "es-ES": "[Lelenoha]\n¡Hoy soy el rey de la playa!\n¡Incluso con este clima tan caluroso, juntarnos todos, usar ropa bonita y bailar toda la noche es muy divertido!"
+    },
+    "htMzDQ": {
+        "en-US": "[Rerenoha]\nYou too, put on an outfit that suits the festival and come play on the beach!",
+        "pt-BR": "[Rerenoha]\nVocê também, vista uma roupa que combine com o festival e venha brincar na praia!",
+        "es-ES": "[Lelenoha]\n¡Tú también ponte un atuendo que combine con el festival y ven a jugar a la playa con nosotros!"
+    },
+    "h9MzDQ": {
+        "en-US": "Rurunaha",
+        "pt-BR": "Rurunaha",
+        "es-ES": "Rurunoha"
+    },
+    "iNMzDQ": {
+        "en-US": "[Rurunaha]\nDance all night in front of the bonfire~ Eat popcorn and pop more~\nIt's fun~ La la la~ Happy Popcorn Festa!",
+        "pt-BR": "[Rurunaha]\nDance a noite toda em frente à fogueira~ Coma pipoca e estoure mais~\nÉ divertido~ La la la~ Feliz Festa da Pipoca!",
+        "es-ES": "[Rurunoha]\nBailando toda la noche frente a la fogata~ Comiendo palomitas y haciendo más~\nDisfruta~ lalalá~ ¡Feliz Festival de las Palomitas!"
+    }
+}

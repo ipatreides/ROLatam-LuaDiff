@@ -1,0 +1,2317 @@
+{
+    "4BgJDQ": {
+        "en-US": "Junok",
+        "pt-BR": "Junok",
+        "es-ES": "Junok"
+    },
+    "4RgJDQ": {
+        "en-US": "[Junok]\nHello. It seems you still lack the experience to accept my request.",
+        "pt-BR": "[Junok]\nOlá. Parece que você ainda não tem experiência suficiente para aceitar meu pedido.",
+        "es-ES": "[Junok]\nHola. Parece que aún le falta experiencia para aceptar mi petición."
+    },
+    "4hgJDQ": {
+        "en-US": "[Priest]\nPlease come back to me after you have undergone more training.",
+        "pt-BR": "[Sacerdote]\nPor favor, treine um pouco mais e volte a me procurar.",
+        "es-ES": "[Sacerdote]\nLe ruego que vuelva a verme después de haber entrenado un poco más."
+    },
+    "4xgJDQ": {
+        "en-US": "- This quest is available for participation at level 170 or higher. -",
+        "pt-BR": "- Esta é uma missão disponível para personagens acima do nível 170. -",
+        "es-ES": "- Es una misión disponible a partir del nivel 170. -"
+    },
+    "5BgJDQ": {
+        "en-US": "[Junok]\nI do hope this situation will settle down to some extent.",
+        "pt-BR": "[Junok]\nEspero que essa situação se acalme um pouco.",
+        "es-ES": "[Junok]\nOjalá esta situación pudiera calmarse un poco."
+    },
+    "5RgJDQ": {
+        "en-US": "[Junok]\nFirst, please lighten your load a little before we speak.",
+        "pt-BR": "[Junok]\nPrimeiro, alivie um pouco sua bagagem antes de conversarmos.",
+        "es-ES": "[Junok]\nPrimero, aligere un poco la carga que lleva y luego conversemos."
+    },
+    "5hgJDQ": {
+        "en-US": "[Junok]\nHave you been well? Could you check on the atmosphere between the natives and the migrants again today?",
+        "pt-BR": "[Junok]\nEstá tudo bem com você? Poderia ir verificar novamente o clima entre os nativos e os imigrantes hoje?",
+        "es-ES": "[Junok]\n¿Todo ha estado en orden? ¿Podría ir a observar el ambiente entre los nativos y los inmigrantes una vez más hoy?"
+    },
+    "5xgJDQ": {
+        "en-US": "Yes.",
+        "pt-BR": "Sim.",
+        "es-ES": "Sí."
+    },
+    "6BgJDQ": {
+        "en-US": "No.",
+        "pt-BR": "Não.",
+        "es-ES": "No."
+    },
+    "6RgJDQ": {
+        "en-US": "[Junok]\nThen I leave it in your hands.",
+        "pt-BR": "[Junok]\nEntão, conto com você.",
+        "es-ES": "[Junok]\nEntonces, cuento con usted."
+    },
+    "6hgJDQ": {
+        "en-US": "[Junok]\nPlease speak with the three designated natives and three migrants, then return.",
+        "pt-BR": "[Junok]\nBasta conversar com os 3 nativos e os 3 imigrantes que indiquei e depois voltar.",
+        "es-ES": "[Junok]\nDeberá hablar con los 3 nativos asignados y con los 3 inmigrantes."
+    },
+    "6xgJDQ": {
+        "en-US": "[Junok]\nYou may refer to the quest window or minimap for the list of people to speak with.",
+        "pt-BR": "[Junok]\nConsulte a lista das pessoas com quem deve falar na janela de missão ou no minimapa.",
+        "es-ES": "[Junok]\nPuede consultar la lista de personas en la ventana de misión o en el minimapa."
+    },
+    "7BgJDQ": {
+        "en-US": "[Junok]\nThat is unfortunate. It pains my heart greatly.",
+        "pt-BR": "[Junok]\nQue pena, meu coração dói muito.",
+        "es-ES": "[Junok]\nQué lástima, me duele mucho."
+    },
+    "7RgJDQ": {
+        "en-US": "[Junok]\nWe have gathered sufficient information for today. Please return again tomorrow if you are able to assist.",
+        "pt-BR": "[Junok]\nObtivemos informações suficientes hoje. Se puder ajudar novamente amanhã, por favor volte.",
+        "es-ES": "[Junok]\nHoy hemos obtenido suficiente información. Si puede ayudarnos mañana, por favor vuelva."
+    },
+    "7hgJDQ": {
+        "en-US": "[Junok]\nHello, I am Junok, Priest.",
+        "pt-BR": "[Junok]\nOlá, sou Junok, Sacerdote.",
+        "es-ES": "[Junok]\nHola, soy Junok, Sacerdote."
+    },
+    "7xgJDQ": {
+        "en-US": "[Junok]\nAt some point, this village has become divided into two factions—natives and migrants—who are in conflict.",
+        "pt-BR": "[Junok]\nHá algum tempo, esta vila se encontra dividida em duas facções, os nativos e os imigrantes, que vivem em oposição.",
+        "es-ES": "[Junok]\nDesde hace un tiempo, este pueblo se ha dividido en dos bandos: los nativos y los inmigrantes, que están en conflicto."
+    },
+    "8BgJDQ": {
+        "en-US": "[Junok]\nEfforts to resolve the conflict between the two factions are ongoing, but no clear results have been achieved.",
+        "pt-BR": "[Junok]\nOs esforços para resolver o conflito entre os dois lados continuam, mas ainda não houve resultados claros.",
+        "es-ES": "[Junok]\nSe han hecho esfuerzos constantes por resolver el conflicto, pero aún no hay resultados claros."
+    },
+    "8RgJDQ": {
+        "en-US": "[Junok]\nTherefore, I would like to approach each individual directly to learn what issues they are facing.",
+        "pt-BR": "[Junok]\nPor isso, gostaria que alguém se aproximasse de cada um deles pessoalmente para descobrir qual é o problema.",
+        "es-ES": "[Junok]\nPor eso me gustaría acercarme a cada uno de ellos para entender cuál es el problema."
+    },
+    "8hgJDQ": {
+        "en-US": "[Junok]\nAdventurer, could you speak with them on my behalf? It is difficult for me to leave my post.",
+        "pt-BR": "[Junok]\nAventureiro, você poderia ir conversar com eles em meu lugar? É difícil para mim me ausentar daqui.",
+        "es-ES": "[Junok]\n¿Podría, en mi lugar, hablar con ellos? Me resulta difícil ausentarme de aquí."
+    },
+    "8xgJDQ": {
+        "en-US": "I will.",
+        "pt-BR": "Aceito.",
+        "es-ES": "Lo haré."
+    },
+    "9BgJDQ": {
+        "en-US": "I will do it later.",
+        "pt-BR": "Farei depois.",
+        "es-ES": "Lo haré después."
+    },
+    "9RgJDQ": {
+        "en-US": "[Junok]\nThat is unfortunate. It pains my heart that you would refuse.",
+        "pt-BR": "[Junok]\nQue pena, fico muito triste por você recusar.",
+        "es-ES": "[Junok]\nQué pena, me entristece que haya rechazado la propuesta."
+    },
+    "9hgJDQ": {
+        "en-US": "[Junok]\nI see... as expected...",
+        "pt-BR": "[Junok]\nEntão é mesmo assim...",
+        "es-ES": "[Junok]\nYa veo..."
+    },
+    "9xgJDQ": {
+        "en-US": "[Junok]\nIt seems there is still much Sediment remaining between them.",
+        "pt-BR": "[Junok]\nParece que ainda restam muitos Resíduo entre eles.",
+        "es-ES": "[Junok]\nParece que aún queda mucha Pasta de judía roja entre ellos."
+    },
+    "+BgJDQ": {
+        "en-US": "[Junok]\nThis is worse than I expected... Hmm, what should be done...",
+        "pt-BR": "[Junok]\nEstá pior do que eu esperava... hmm, o que devo fazer?",
+        "es-ES": "[Junok]\nEsto es peor de lo que esperaba... ¿qué debería hacer?"
+    },
+    "+RgJDQ": {
+        "en-US": "[Junok]\nHmm, I see. That is the situation.",
+        "pt-BR": "[Junok]\nHum, então essa é a situação.",
+        "es-ES": "[Junok]\nHmm, ya veo que esa es la situación."
+    },
+    "+hgJDQ": {
+        "en-US": "[Junok]\nStill, it seems slightly better than before.",
+        "pt-BR": "[Junok]\nAinda assim, parece que melhorou um pouco em relação a algum tempo atrás.",
+        "es-ES": "[Junok]\nAun así, parece un poco mejor que hace algún tiempo."
+    },
+    "+xgJDQ": {
+        "en-US": "[Junok]\nFor that alone, I am grateful.",
+        "pt-BR": "[Junok]\nSou grato até mesmo por isso.",
+        "es-ES": "[Junok]\nEstoy sinceramente agradecido con eso."
+    },
+    "/BgJDQ": {
+        "en-US": "[Junok]\nHmm, I see. It seems the situation is gradually improving.",
+        "pt-BR": "[Junok]\nHum, entendo. Parece que a situação está melhorando aos poucos.",
+        "es-ES": "[Junok]\nEntiendo. Parece que la situación está mejorando poco a poco."
+    },
+    "/RgJDQ": {
+        "en-US": "[Junok]\nIt feels that our efforts have been worthwhile.",
+        "pt-BR": "[Junok]\nAcho que todo o esforço até agora valeu a pena.",
+        "es-ES": "[Junok]\nParece que todo el esfuerzo ha valido la pena."
+    },
+    "/hgJDQ": {
+        "en-US": "[Junok]\nWhat lies ahead will be even more important.",
+        "pt-BR": "[Junok]\nO que vem daqui para frente será ainda mais importante.",
+        "es-ES": "[Junok]\nLo importante será lo que venga a partir de ahora."
+    },
+    "/xgJDQ": {
+        "en-US": "Junok: Today is a fortunate day.",
+        "pt-BR": "Junok: Hoje tivemos sorte.",
+        "es-ES": "Junok: Hoy tenemos suerte."
+    },
+    "ABkJDQ": {
+        "en-US": "[Junok]\nThis has been a valuable reference.",
+        "pt-BR": "[Junok]\nFoi uma ótima referência.",
+        "es-ES": "[Junok]\nHa sido de gran ayuda."
+    },
+    "ARkJDQ": {
+        "en-US": "[Junok]\nThank you for your help. Please come again tomorrow if you are able to assist.",
+        "pt-BR": "[Junok]\nObrigado pela ajuda. Se puder ajudar novamente amanhã, por favor volte.",
+        "es-ES": "[Junok]\nGracias por su ayuda. Si puede colaborar mañana, por favor vuelva."
+    },
+    "AhkJDQ": {
+        "en-US": "[Junok]\nPlease return after speaking with all six individuals.",
+        "pt-BR": "[Junok]\nPor favor, volte depois de conversar com todas as 6 pessoas.",
+        "es-ES": "[Junok]\nPor favor, regrese después de hablar con los 6."
+    },
+    "AxkJDQ": {
+        "en-US": "Zarad",
+        "pt-BR": "Zarad",
+        "es-ES": "Zarad"
+    },
+    "BBkJDQ": {
+        "en-US": "[Zarad]\nHello.",
+        "pt-BR": "[Zarad]\nOlá.",
+        "es-ES": "[Zarad]\nHola."
+    },
+    "BRkJDQ": {
+        "en-US": "[Zarad]\nLately, the atmosphere in this village does not seem normal.",
+        "pt-BR": "[Zarad]\nUltimamente, parece que o clima nesta vila não anda nada bem.",
+        "es-ES": "[Zarad]\nÚltimamente, el ambiente en este pueblo no parece muy normal."
+    },
+    "BhkJDQ": {
+        "en-US": "[Zarad]\nWell, it does not really concern me.",
+        "pt-BR": "[Zarad]\nBem, na verdade, isso não tem muito a ver comigo.",
+        "es-ES": "[Zarad]\nBueno, en realidad no es algo que me afecte demasiado."
+    },
+    "BxkJDQ": {
+        "en-US": "[Zarad]\nIt seems small and large disputes are breaking out here and there.",
+        "pt-BR": "[Zarad]\nParece que pequenas e grandes brigas estão acontecendo por toda parte.",
+        "es-ES": "[Zarad]\nParece que están ocurriendo disputas grandes y pequeñas por todas partes."
+    },
+    "CBkJDQ": {
+        "en-US": "[Zarad]\nI am a bit uneasy, worried that I might get caught up in it.",
+        "pt-BR": "[Zarad]\nTambém fico um pouco inquieto com medo de acabar me envolvendo nisso.",
+        "es-ES": "[Zarad]\nMe preocupa un poco verme envuelto en ello."
+    },
+    "CRkJDQ": {
+        "en-US": "[Zarad]\nThey say institutional measures are being prepared regarding the rights of natives and migrants.",
+        "pt-BR": "[Zarad]\nDizem que serão criados dispositivos institucionais sobre os direitos dos nativos e dos imigrantes.",
+        "es-ES": "[Zarad]\nDicen que se están preparando medidas institucionales sobre los derechos de los nativos y los inmigrantes."
+    },
+    "ChkJDQ": {
+        "en-US": "[Zarad]\nI would rather not concern myself with it, but I must admit I am hopeful.",
+        "pt-BR": "[Zarad]\nNão quero me importar com isso, mas a verdade é que tenho expectativas.",
+        "es-ES": "[Zarad]\nNo quiero preocuparme, pero la verdad es que tengo expectativas."
+    },
+    "CxkJDQ": {
+        "en-US": "[Zarad]\nThere was a major disturbance in the village not long ago.",
+        "pt-BR": "[Zarad]\nHouve uma grande confusão na vila há algum tempo.",
+        "es-ES": "[Zarad]\nHace poco hubo un gran alboroto en el pueblo."
+    },
+    "DBkJDQ": {
+        "en-US": "[Zarad]\nOrator was giving a speech on the respect of ideal humanity, but it seems it provoked some of the audience instead.",
+        "pt-BR": "[Zarad]\nOrador estava fazendo um discurso sobre o respeito ao ser humano ideal, mas parece que isso acabou provocando parte do público.",
+        "es-ES": "[Zarad]\nOrador estaba dando un discurso sobre el respeto ideal hacia las personas, pero parece que provocó a parte del público."
+    },
+    "DRkJDQ": {
+        "en-US": "[Zarad]\nEven I did not find the speech particularly pleasant to hear.",
+        "pt-BR": "[Zarad]\nPara mim também, aquele discurso não soou nada agradável.",
+        "es-ES": "[Zarad]\nA mí tampoco me pareció un discurso muy agradable de escuchar."
+    },
+    "DhkJDQ": {
+        "en-US": "[Zarad]\nIt was merely idealistic, far removed from reality.",
+        "pt-BR": "[Zarad]\nAfinal, era apenas algo ideal, um discurso distante da realidade.",
+        "es-ES": "[Zarad]\nAl fin y al cabo, eran ideas ideales, alejadas de la realidad."
+    },
+    "DxkJDQ": {
+        "en-US": "[Zarad]\nVoices were raised, and it nearly escalated into a fistfight before people nearby managed to stop it.",
+        "pt-BR": "[Zarad]\nTrocaram gritos em uma grande discussão e, para piorar, quase chegaram às vias de fato, mas as pessoas ao redor conseguiram impedir por pouco.",
+        "es-ES": "[Zarad]\nHubo una fuerte discusión y casi llegan a los golpes, pero los demás lograron detenerlo a tiempo."
+    },
+    "EBkJDQ": {
+        "en-US": "[Zarad]\nWell, as long as it does not affect me... it does not really matter.",
+        "pt-BR": "[Zarad]\nBem, desde que isso não me afete... para mim, tanto faz.",
+        "es-ES": "[Zarad]\nBueno, mientras no me afecte directamente... no es asunto mío."
+    },
+    "ERkJDQ": {
+        "en-US": "[Zarad]\nSince the dispute at the speech, no major disturbances have occurred.",
+        "pt-BR": "[Zarad]\nDesde a briga que houve no local do discurso há algum tempo, ainda não ocorreu nenhuma grande confusão.",
+        "es-ES": "[Zarad]\nDesde la disputa en el discurso, no ha habido grandes disturbios."
+    },
+    "EhkJDQ": {
+        "en-US": "[Zarad]\nDespite the poor situation, it seems Suad's active assistance helped prevent things from escalating.",
+        "pt-BR": "[Zarad]\nDizem que, apesar da situação ruim, graças à ajuda ativa do senhor Suad, foi possível impedir que as coisas saíssem muito do controle.",
+        "es-ES": "[Zarad]\nA pesar de la situación, dicen que gracias a la ayuda activa de Suad, se evitó que el problema se agravara."
+    },
+    "ExkJDQ": {
+        "en-US": "[Zarad]\nWell...",
+        "pt-BR": "[Zarad]\nBem...",
+        "es-ES": "[Zarad]\nBueno..."
+    },
+    "FBkJDQ": {
+        "en-US": "[Zarad]\nThat is their business, but I am always anxious that their conflict might affect me.",
+        "pt-BR": "[Zarad]\nIsso é problema deles, e eu vivo apreensivo com medo de que a briga deles acabe respingando em mim.",
+        "es-ES": "[Zarad]\nEs asunto suyo, pero siempre temo que el conflicto termine afectándome."
+    },
+    "FRkJDQ": {
+        "en-US": "[Zarad]\nHmm... nothing will happen, right??",
+        "pt-BR": "[Zarad]\nHum... não vai acontecer nada, certo??",
+        "es-ES": "[Zarad]\nHmm... no pasará nada, ¿verdad?"
+    },
+    "FhkJDQ": {
+        "en-US": "[Zarad]\nAs a native, I have always accepted whatever treatment was given to us.",
+        "pt-BR": "[Zarad]\nComo nativo, até agora minha postura sempre foi aceitar qualquer tratamento que nos fosse dado, do jeito que fosse.",
+        "es-ES": "[Zarad]\nComo nativo, siempre he aceptado cualquier trato que se nos haya dado."
+    },
+    "FxkJDQ": {
+        "en-US": "[Zarad]\nIf it is impossible to change your surroundings through your own efforts, then give up change and live in acceptance.",
+        "pt-BR": "[Zarad]\nSe for impossível mudar o que está ao seu redor com seu próprio esforço, então desista da mudança e viva se adaptando.",
+        "es-ES": "[Zarad]\nSi no puedes cambiar tu entorno con tu propio esfuerzo, abandona el cambio y vive adaptándote."
+    },
+    "GBkJDQ": {
+        "en-US": "[Zarad]\nThat is what I have come to feel over the years, though it has made me somewhat passive...",
+        "pt-BR": "[Zarad]\nFoi isso que senti ao longo de muitos anos de vida, embora isso tenha me deixado um tanto passivo...",
+        "es-ES": "[Zarad]\nEs algo que he aprendido tras muchos años, aunque me ha vuelto algo pasivo..."
+    },
+    "GRkJDQ": {
+        "en-US": "[Zarad]\nBut now, it feels like real change is beginning to appear.",
+        "pt-BR": "[Zarad]\nMas agora parece que há sinais de uma mudança de verdade.",
+        "es-ES": "[Zarad]\nPero ahora parece que realmente hay señales de cambio."
+    },
+    "GhkJDQ": {
+        "en-US": "[Zarad]\nThey say institutional measures for us are being prepared, so I will try to believe in it.",
+        "pt-BR": "[Zarad]\nDizem que serão criados dispositivos institucionais para nós, então vou tentar acreditar.",
+        "es-ES": "[Zarad]\nDicen que se están preparando medidas para nosotros, así que quiero creer en ello."
+    },
+    "GxkJDQ": {
+        "en-US": "[Zarad]\nAt some point... without realizing it, I developed an inferiority complex toward migrants, and my self-esteem kept declining.",
+        "pt-BR": "[Zarad]\nEm algum momento... sem nem perceber, acho que passei a sentir inferioridade em relação aos imigrantes, e minha autoestima foi caindo cada vez mais.",
+        "es-ES": "[Zarad]\nEn algún momento... sin darme cuenta, desarrollé un complejo de inferioridad hacia los inmigrantes, y mi autoestima fue cayendo."
+    },
+    "HBkJDQ": {
+        "en-US": "[Zarad]\nBecause of that, even when treated unfairly compared to migrants, I simply accepted it.",
+        "pt-BR": "[Zarad]\nPor isso, mesmo quando eu recebia um tratamento injusto em comparação com os imigrantes, acho que acabava aceitando sem alternativa.",
+        "es-ES": "[Zarad]\nPor eso, incluso cuando recibía un trato injusto en comparación con ellos, simplemente lo aceptaba."
+    },
+    "HRkJDQ": {
+        "en-US": "[Zarad]\nEven in the recent conflict, I kept my distance and only watched.",
+        "pt-BR": "[Zarad]\nMesmo nos conflitos recentes, eu só ficava observando de longe, medindo a situação.",
+        "es-ES": "[Zarad]\nIncluso en los conflictos recientes, me mantenía al margen observando."
+    },
+    "HhkJDQ": {
+        "en-US": "[Zarad]\nIn the end, thanks to those natives who fought for their basic rights instead of remaining passive like me, I may benefit as well.",
+        "pt-BR": "[Zarad]\nNo fim das contas, graças aos nativos que, ao contrário de mim, não ficaram passivos e lutaram arduamente para recuperar seus direitos básicos, parece que eu também poderei me beneficiar.",
+        "es-ES": "[Zarad]\nAl final, gracias a los nativos que lucharon por sus derechos en lugar de ser pasivos como yo, también podré beneficiarme."
+    },
+    "HxkJDQ": {
+        "en-US": "[Zarad]\nI am truly grateful and sorry...",
+        "pt-BR": "[Zarad]\nSinto muita gratidão e também culpa...",
+        "es-ES": "[Zarad]\nEstoy realmente agradecido... y también me siento culpable."
+    },
+    "IBkJDQ": {
+        "en-US": "[Zarad]\nStill, things do not seem so bad these days.",
+        "pt-BR": "[Zarad]\nMesmo assim, ultimamente as coisas não parecem tão ruins.",
+        "es-ES": "[Zarad]\nAun así, últimamente no está tan mal."
+    },
+    "IRkJDQ": {
+        "en-US": "[Zarad]\nRecently, the treatment of natives has begun to improve little by little.",
+        "pt-BR": "[Zarad]\nHá algum tempo, o tratamento dado aos nativos começou a melhorar aos poucos.",
+        "es-ES": "[Zarad]\nDesde hace poco, el trato hacia los nativos ha empezado a mejorar."
+    },
+    "IhkJDQ": {
+        "en-US": "[Zarad]\nSince I had not expected anything, this feels even more significant.",
+        "pt-BR": "[Zarad]\nComo eu não esperava absolutamente nada, acho que isso me toca ainda mais.",
+        "es-ES": "[Zarad]\nComo no esperaba nada, esto se siente aún más significativo."
+    },
+    "IxkJDQ": {
+        "en-US": "[Zarad]\nWell... I can only be grateful.",
+        "pt-BR": "[Zarad]\nBem... só me resta agradecer.",
+        "es-ES": "[Zarad]\nBueno... solo puedo estar agradecido."
+    },
+    "JBkJDQ": {
+        "en-US": "[Zarad]\nI should no longer remain in the present, but look toward a positive future.",
+        "pt-BR": "[Zarad]\nAgora eu também preciso deixar de ficar preso apenas ao presente e passar a viver olhando para um futuro positivo.",
+        "es-ES": "[Zarad]\nYo también debo dejar de quedarme en el presente y vivir mirando hacia un futuro positivo."
+    },
+    "JRkJDQ": {
+        "en-US": "[Zarad]\nThen, have a good day.",
+        "pt-BR": "[Zarad]\nEntão, tenha um bom dia.",
+        "es-ES": "[Zarad]\nQue tenga un buen día."
+    },
+    "JhkJDQ": {
+        "en-US": "- Finished conversation with Zarad. -",
+        "pt-BR": "- A conversa com Zarad terminou. -",
+        "es-ES": "- Has terminado la conversación con Zarad. -"
+    },
+    "JxkJDQ": {
+        "en-US": "- Finished conversations with all 6 people. Return to Junok. -",
+        "pt-BR": "- Todas as conversas com as 6 pessoas foram concluídas. Vamos voltar para Junok. -",
+        "es-ES": "- Has terminado de hablar con los 6. Regresa con Junok. -"
+    },
+    "KBkJDQ": {
+        "en-US": "- Proceed to find the next person to speak with. -",
+        "pt-BR": "- Vamos procurar pela próxima pessoa. -",
+        "es-ES": "- Busca al siguiente interlocutor. -"
+    },
+    "KRkJDQ": {
+        "en-US": "[Zarad]\nQuietly...",
+        "pt-BR": "[Zarad]\nEm silêncio...",
+        "es-ES": "[Zarad]\nEn calma..."
+    },
+    "KhkJDQ": {
+        "en-US": "[Zarad]\nWithout incident... I wish to live that way.",
+        "pt-BR": "[Zarad]\nQuero viver assim... sem que nada aconteça.",
+        "es-ES": "[Zarad]\nQuiero vivir sin problemas..."
+    },
+    "KxkJDQ": {
+        "en-US": "[Zarad]\nI hope you, Adventurer, can also stay without getting involved and depart safely.",
+        "pt-BR": "[Zarad]\nEspero que você também consiga permanecer em segurança, sem se envolver em nada desnecessário, aventureiro.",
+        "es-ES": "[Zarad]\nEspero que usted tampoco se vea envuelto en nada y pueda marcharse sano y salvo."
+    },
+    "LBkJDQ": {
+        "en-US": "[Zarad]\nThough only slightly, things seem to be improving, giving me hope for tomorrow.",
+        "pt-BR": "[Zarad]\nÉ bem pouco, mas parece que está melhorando, então agora consigo esperar pelo dia de amanhã também.",
+        "es-ES": "[Zarad]\nAunque sea poco, parece que está mejorando, así que puedo esperar con ilusión el día de mañana."
+    },
+    "LRkJDQ": {
+        "en-US": "Rohi",
+        "pt-BR": "Rohi",
+        "es-ES": "Rohi"
+    },
+    "LhkJDQ": {
+        "en-US": "[Rohi]\nHello, I am Rohi.",
+        "pt-BR": "[Rohi]\nOlá, sou Rohi.",
+        "es-ES": "[Rohi]\nHola, soy Rohi."
+    },
+    "LxkJDQ": {
+        "en-US": "[Rohi]\nI managed to find a job with difficulty...",
+        "pt-BR": "[Rohi]\nConsegui um trabalho com muita dificuldade, mas...",
+        "es-ES": "[Rohi]\nMe costó conseguir trabajo, pero..."
+    },
+    "MBkJDQ": {
+        "en-US": "[Rohi]\nBut lately, I have another concern...",
+        "pt-BR": "[Rohi]\nUltimamente surgiu outra preocupação...",
+        "es-ES": "[Rohi]\nÚltimamente tengo otras preocupaciones..."
+    },
+    "MRkJDQ": {
+        "en-US": "[Rohi]\nGina is someone I am grateful to...",
+        "pt-BR": "[Rohi]\nA senhora Gina é alguém por quem sou grato...",
+        "es-ES": "[Rohi]\nLa señora Gina es alguien a quien le estoy agradecido..."
+    },
+    "MhkJDQ": {
+        "en-US": "[Rohi]\nI do not wish for things to become hostile between us...",
+        "pt-BR": "[Rohi]\nNão queria que acabássemos discutindo...",
+        "es-ES": "[Rohi]\nNo quiero que terminemos discutiendo..."
+    },
+    "MxkJDQ": {
+        "en-US": "[Rohi]\nAfter many twists and turns, it seems we reached an agreement.",
+        "pt-BR": "[Rohi]\nDepois de muitos altos e baixos, parece que conseguimos chegar a um bom acordo.",
+        "es-ES": "[Rohi]\nTras muchos esfuerzos, parece que hemos llegado a un acuerdo."
+    },
+    "NBkJDQ": {
+        "en-US": "[Rohi]\nWhat a relief.",
+        "pt-BR": "[Rohi]\nQue alívio.",
+        "es-ES": "[Rohi]\nQué alivio."
+    },
+    "NRkJDQ": {
+        "en-US": "[Rohi]\nHello, I am Rohi.",
+        "pt-BR": "[Rohi]\nOlá, eu sou Rohi.",
+        "es-ES": "[Rohi]\nHola, soy Rohi."
+    },
+    "NhkJDQ": {
+        "en-US": "[Rohi]\nUntil recently, I was living in poverty without proper work...",
+        "pt-BR": "[Rohi]\nAté pouco tempo atrás, eu levava uma vida miserável, sem nenhum trabalho decente...",
+        "es-ES": "[Rohi]\nHasta hace poco vivía en la pobreza sin un trabajo estable..."
+    },
+    "NxkJDQ": {
+        "en-US": "[Rohi]\nThanks to Gina, I was able to take on building management work and at least get by.",
+        "pt-BR": "[Rohi]\nGraças à senhora Gina, passei a trabalhar cuidando de prédios e pelo menos consegui garantir o básico para viver.",
+        "es-ES": "[Rohi]\nGracias a la señora Gina, conseguí un trabajo como encargado de mantenimiento y ahora puedo subsistir."
+    },
+    "OBkJDQ": {
+        "en-US": "[Rohi]\nBut at some point, my working hours increased without any additional compensation.",
+        "pt-BR": "[Rohi]\nMas, desde certo momento, as horas de trabalho aumentaram e ela não aumentou a compensação por isso.",
+        "es-ES": "[Rohi]\nPero desde hace un tiempo, mis horas de trabajo han aumentado sin que me suban el salario."
+    },
+    "ORkJDQ": {
+        "en-US": "[Rohi]\nWhy is that?? Gina is one of the wealthiest migrants, so it is not like they lack money.",
+        "pt-BR": "[Rohi]\nPor quê?? A senhora Gina é uma das pessoas mais ricas entre os imigrantes, então não é como se lhe faltasse dinheiro para pagar.",
+        "es-ES": "[Rohi]\n¿Por qué será? La señora Gina es una de las más ricas entre los inmigrantes, así que no le falta dinero."
+    },
+    "OhkJDQ": {
+        "en-US": "[Rohi]\nI tried discussing the unfairness directly with Gina, but it was no use.",
+        "pt-BR": "[Rohi]\nTentei falar diretamente com a senhora Gina sobre essa injustiça, mas não adiantou.",
+        "es-ES": "[Rohi]\nIntenté hablar con ella sobre este trato injusto, pero no sirvió de nada."
+    },
+    "OxkJDQ": {
+        "en-US": "[Rohi]\nThey even said there are many willing to work for less pay...",
+        "pt-BR": "[Rohi]\nEla ainda disse que há muita gente disposta a trabalhar mesmo recebendo menos...",
+        "es-ES": "[Rohi]\nDice que hay mucha gente dispuesta a trabajar por menos salario..."
+    },
+    "PBkJDQ": {
+        "en-US": "[Rohi]\nThe priests, including Maram, are discussing ways to resolve this issue, so I decided to wait for now.",
+        "pt-BR": "[Rohi]\nDisseram que os sacerdotes, incluindo Maram, estão discutindo uma forma de resolver esse problema, então decidi esperar por enquanto.",
+        "es-ES": "[Rohi]\nEl señor Maram y los sacerdotes están discutiendo cómo resolver este problema, así que decidí esperar."
+    },
+    "PRkJDQ": {
+        "en-US": "[Rohi]\nAh, how have I been lately?",
+        "pt-BR": "[Rohi]\nAh, quer saber como tenho passado ultimamente?",
+        "es-ES": "[Rohi]\nAh, ¿cómo estoy últimamente?"
+    },
+    "PhkJDQ": {
+        "en-US": "[Rohi]\nI told you that my workload has increased while my pay remains the same, right?",
+        "pt-BR": "[Rohi]\nLembra que eu disse que estava exausto porque o salário continuava o mesmo, mas o trabalho só aumentava?",
+        "es-ES": "[Rohi]\n¿Recuerda que le dije que era difícil porque el trabajo aumentaba pero el salario seguía igual?"
+    },
+    "PxkJDQ": {
+        "en-US": "[Rohi]\nRecently, I gathered my courage and spoke with Gina about improving my treatment.",
+        "pt-BR": "[Rohi]\nHá algum tempo, tomei coragem e conversei com a senhora Gina sobre a melhoria das condições.",
+        "es-ES": "[Rohi]\nHace poco reuní valor y hablé con la señora Gina sobre mejorar las condiciones."
+    },
+    "QBkJDQ": {
+        "en-US": "[Rohi]\nOur opinions did not easily align...",
+        "pt-BR": "[Rohi]\nNossas opiniões não conseguiam se aproximar de jeito nenhum...",
+        "es-ES": "[Rohi]\nNuestras opiniones no coincidían..."
+    },
+    "QRkJDQ": {
+        "en-US": "[Rohi]\nDuring the conversation, I became emotional and things almost turned bad, but thanks to Maram's intervention, we avoided a fight.",
+        "pt-BR": "[Rohi]\nNo meio da conversa, acabei me exaltando e o ambiente estava ficando ruim, mas graças à intervenção de Maram conseguimos evitar uma briga.",
+        "es-ES": "[Rohi]\nDurante la conversación, me exalté y la situación estuvo a punto de empeorar, pero gracias a la intervención del señor Maram evitamos una pelea."
+    },
+    "QhkJDQ": {
+        "en-US": "[Rohi]\nAfter things calmed down, Maram persuaded Gina to consider a pay raise.",
+        "pt-BR": "[Rohi]\nSó depois que a situação se acalmou um pouco é que, por persuasão de Maram, a senhora Gina disse que consideraria um aumento salarial.",
+        "es-ES": "[Rohi]\nTras calmarnos, gracias a su persuasión, la señora Gina dijo que consideraría un aumento salarial."
+    },
+    "QxkJDQ": {
+        "en-US": "[Rohi]\nFor now... I will have to wait...",
+        "pt-BR": "[Rohi]\nPor enquanto... acho que só me resta esperar...",
+        "es-ES": "[Rohi]\nPor ahora... tendré que esperar..."
+    },
+    "RBkJDQ": {
+        "en-US": "[Rohi]\nHello, have you been well?",
+        "pt-BR": "[Rohi]\nOlá, como você tem passado?",
+        "es-ES": "[Rohi]\nHola, ¿ha estado bien todo este tiempo?"
+    },
+    "RRkJDQ": {
+        "en-US": "[Rohi]\nGina has finally agreed.",
+        "pt-BR": "[Rohi]\nA senhora Gina finalmente concordou.",
+        "es-ES": "[Rohi]\nLa señora Gina finalmente aceptó."
+    },
+    "RhkJDQ": {
+        "en-US": "[Rohi]\nI can finally receive proper wages from Gina.",
+        "pt-BR": "[Rohi]\nFinalmente vou poder receber um salário justo da senhora Gina.",
+        "es-ES": "[Rohi]\nPor fin podré recibir un salario adecuado de la señora Gina."
+    },
+    "RxkJDQ": {
+        "en-US": "[Rohi]\nIt was not something I could achieve alone, so I am truly grateful to Maram and the priests.",
+        "pt-BR": "[Rohi]\nEra algo muito difícil de conseguir apenas com minhas próprias forças, então sou realmente muito grato aos sacerdotes, incluindo Maram.",
+        "es-ES": "[Rohi]\nEra algo difícil de lograr por mí solo, así que estoy realmente agradecido con el señor Maram y los sacerdotes."
+    },
+    "SBkJDQ": {
+        "en-US": "[Rohi]\nI heard others in similar situations also saw improvements, which is wonderful.",
+        "pt-BR": "[Rohi]\nOuvi dizer que também houve melhorias para outras pessoas que estavam em uma situação parecida com a minha, então isso é realmente uma ótima notícia.",
+        "es-ES": "[Rohi]\nDicen que también hubo mejoras para otros que estaban en una situación similar a la mía, así que es una gran noticia."
+    },
+    "SRkJDQ": {
+        "en-US": "[Rohi]\nNow I can sleep with peace of mind. Thank you as well, Adventurer.",
+        "pt-BR": "[Rohi]\nAgora vou poder dormir um pouco mais tranquilo. Também gostaria de agradecer ao aventureiro.",
+        "es-ES": "[Rohi]\nAhora podré dormir tranquilo. También quiero agradecerle, aventurero."
+    },
+    "ShkJDQ": {
+        "en-US": "[Rohi]\nI have good news to share.",
+        "pt-BR": "[Rohi]\nPude trazer boas notícias.",
+        "es-ES": "[Rohi]\nTengo buenas noticias que compartir."
+    },
+    "SxkJDQ": {
+        "en-US": "[Rohi]\nI can now receive proper wages from Gina.",
+        "pt-BR": "[Rohi]\nAgora vou poder receber um salário justo da senhora Gina.",
+        "es-ES": "[Rohi]\nAhora puedo recibir un salario adecuado de la señora Gina."
+    },
+    "TBkJDQ": {
+        "en-US": "[Rohi]\nIt is only right to be paid fairly for the work done.",
+        "pt-BR": "[Rohi]\nAfinal, o certo é receber a devida recompensa pelo trabalho honestamente realizado.",
+        "es-ES": "[Rohi]\nEs lo justo recibir una compensación acorde al trabajo realizado."
+    },
+    "TRkJDQ": {
+        "en-US": "[Rohi]\nFor a long time, there was unseen discrimination and oppression, and though it has not completely disappeared...",
+        "pt-BR": "[Rohi]\nPor muito tempo houve discriminação e opressão invisíveis, e embora elas ainda não tenham desaparecido por completo...",
+        "es-ES": "[Rohi]\nDurante mucho tiempo hubo discriminación y opresión invisibles, y aunque aún no han desaparecido por completo..."
+    },
+    "ThkJDQ": {
+        "en-US": "[Rohi]\nI can now have hope because there is a better tomorrow.",
+        "pt-BR": "[Rohi]\nAgora posso ter esperança, porque existe um amanhã melhor do que hoje.",
+        "es-ES": "[Rohi]\nAhora puedo tener esperanza en un mañana mejor."
+    },
+    "TxkJDQ": {
+        "en-US": "[Rohi]\nConvincing Gina was not easy, but I can finally receive proper wages.",
+        "pt-BR": "[Rohi]\nNão foi fácil convencer a senhora Gina, mas só agora finalmente vou poder receber um salário justo.",
+        "es-ES": "[Rohi]\nNo fue fácil convencer a la señora Gina, pero finalmente podré recibir un salario justo."
+    },
+    "UBkJDQ": {
+        "en-US": "[Rohi]\nThey will even pay all the additional allowances I had not received at once!",
+        "pt-BR": "[Rohi]\nTambém disseram que vão pagar de uma só vez todos os adicionais que eu não havia recebido até agora!",
+        "es-ES": "[Rohi]\n¡También me pagarán de una vez todos los complementos que no había recibido hasta ahora!"
+    },
+    "URkJDQ": {
+        "en-US": "[Rohi]\nHaah~ I am so happy to receive such a large sum unexpectedly.",
+        "pt-BR": "[Rohi]\nAh~ Estou tão feliz por poder receber uma quantia inesperada.",
+        "es-ES": "[Rohi]\nAh... estoy muy feliz de poder recibir una suma tan grande que no esperaba."
+    },
+    "UhkJDQ": {
+        "en-US": "[Rohi]\nI should cook something delicious for dinner today.",
+        "pt-BR": "[Rohi]\nHoje à noite vou preparar uma refeição deliciosa.",
+        "es-ES": "[Rohi]\nEsta noche prepararé una comida deliciosa."
+    },
+    "UxkJDQ": {
+        "en-US": "[Rohi]\nThen, I wish you a peaceful day.",
+        "pt-BR": "[Rohi]\nEntão, espero que seu dia de hoje também seja tranquilo.",
+        "es-ES": "[Rohi]\nQue tenga un día tranquilo."
+    },
+    "VBkJDQ": {
+        "en-US": "- Finished conversation with Rohi. -",
+        "pt-BR": "- A conversa com Rohi terminou. -",
+        "es-ES": "- Has terminado la conversación con Rohi. -"
+    },
+    "VRkJDQ": {
+        "en-US": "[Rohi]\nThere is so much work today that I am not sure I can finish it all on time.",
+        "pt-BR": "[Rohi]\nHoje também recebi muito trabalho, então não sei se conseguirei terminar tudo a tempo.",
+        "es-ES": "[Rohi]\nHoy tengo mucho trabajo asignado, no sé si podré terminar todo a tiempo."
+    },
+    "VhkJDQ": {
+        "en-US": "[Rohi]\nIt is frustrating that all I can do is wait.",
+        "pt-BR": "[Rohi]\nÉ um pouco frustrante não poder fazer nada além de esperar.",
+        "es-ES": "[Rohi]\nEs frustrante no poder hacer nada más que esperar."
+    },
+    "VxkJDQ": {
+        "en-US": "[Rohi]\nI can head to work today with a much lighter heart.",
+        "pt-BR": "[Rohi]\nHoje também vou poder ir trabalhar com o coração bem mais leve.",
+        "es-ES": "[Rohi]\nHoy podré ir a trabajar con un ánimo mucho más ligero."
+    },
+    "WBkJDQ": {
+        "en-US": "Jojin",
+        "pt-BR": "Jojin",
+        "es-ES": "Jojin"
+    },
+    "WRkJDQ": {
+        "en-US": "[Jojin]\nGreetings, I am Jojin.",
+        "pt-BR": "[Jojin]\nOlá, eu sou Jojin.",
+        "es-ES": "[Jojin]\nSaludos, me llamo Jojin."
+    },
+    "WhkJDQ": {
+        "en-US": "[Jojin]\nI own several buildings in Rachel, but maintaining them has become very difficult lately.",
+        "pt-BR": "[Jojin]\nPossuo alguns edifícios em Rachel, mas ultimamente está muito difícil mantê-los.",
+        "es-ES": "[Jojin]\nPoseo varios edificios en Rachel, pero últimamente es muy difícil mantenerlos."
+    },
+    "WxkJDQ": {
+        "en-US": "[Jojin]\nIs selling them the only option...?",
+        "pt-BR": "[Jojin]\nSerá que realmente não me resta outra opção além de vender os edifícios...?",
+        "es-ES": "[Jojin]\n¿Será que no queda más opción que venderlos...?"
+    },
+    "XBkJDQ": {
+        "en-US": "[Jojin]\nI received an offer from someone named Gina to purchase my buildings.",
+        "pt-BR": "[Jojin]\nRecebi uma proposta de compra dos edifícios de uma pessoa chamada Gina.",
+        "es-ES": "[Jojin]\nRecibí una propuesta de alguien llamado Gina para comprar mis edificios."
+    },
+    "XRkJDQ": {
+        "en-US": "[Jojin]\nThe price negotiations are not going well, so I am troubled.",
+        "pt-BR": "[Jojin]\nMas como não chegamos a um acordo quanto ao valor, estou pensando no que fazer.",
+        "es-ES": "[Jojin]\nNo logramos acordar el precio, así que sigo dudando."
+    },
+    "XhkJDQ": {
+        "en-US": "[Jojin]\nGreetings, I am Jojin",
+        "pt-BR": "[Jojin]\nOlá, eu sou Jojin",
+        "es-ES": "[Jojin]\nSaludos, me llamo Jojin"
+    },
+    "XxkJDQ": {
+        "en-US": "[Jojin]\nFortunately, it seems I will not have to sell the buildings.",
+        "pt-BR": "[Jojin]\nPor enquanto, felizmente, parece que não será necessário vender os edifícios.",
+        "es-ES": "[Jojin]\nPor suerte, parece que no tendré que vender los edificios."
+    },
+    "YBkJDQ": {
+        "en-US": "[Jojin]\nThey promised equal treatment with migrants, so I will wait and see.",
+        "pt-BR": "[Jojin]\nDisseram que prometeram tratamento igual aos imigrantes, então vou observar a situação.",
+        "es-ES": "[Jojin]\nHan prometido darnos un trato igualitario a los inmigrantes, así que esperaré."
+    },
+    "YRkJDQ": {
+        "en-US": "[Jojin]\nI am a native who has lived in this area since my ancestors' time.",
+        "pt-BR": "[Jojin]\nPode-se dizer que sou um nativo que vive nesta região desde os tempos dos meus antepassados.",
+        "es-ES": "[Jojin]\nPodría decirse que soy nativo, pues he vivido aquí desde tiempos de mis antepasados."
+    },
+    "YhkJDQ": {
+        "en-US": "[Jojin]\nLately, things have been quite noisy due to conflicts with migrants.",
+        "pt-BR": "[Jojin]\nUltimamente, as coisas andam um tanto agitadas por causa dos atritos com os imigrantes.",
+        "es-ES": "[Jojin]\nÚltimamente hay bastante tensión con los inmigrantes."
+    },
+    "YxkJDQ": {
+        "en-US": "[Jojin]\nMany among them are wealthy, and one named Gina is particularly influential.",
+        "pt-BR": "[Jojin]\nHá muitos ricos entre eles, e entre todos, uma pessoa chamada Gina possui um poder econômico especialmente imenso.",
+        "es-ES": "[Jojin]\nMuchos de ellos son adinerados, y entre ellos, Gina posee una riqueza especialmente grande."
+    },
+    "ZBkJDQ": {
+        "en-US": "[Jojin]\nEven I, who am relatively wealthy among natives, cannot compare to that person.",
+        "pt-BR": "[Jojin]\nMesmo eu, que entre os nativos tenho um patrimônio considerável, não posso me comparar a essa pessoa.",
+        "es-ES": "[Jojin]\nNi siquiera yo, que tengo bastante patrimonio entre los nativos, puedo compararme con esa persona."
+    },
+    "ZRkJDQ": {
+        "en-US": "[Jojin]\nThey have begun to dominate the local market, and policies are being made in their favor, making my business increasingly difficult...",
+        "pt-BR": "[Jojin]\nEles começaram a dominar o comércio da vila, e como as políticas passaram a ser criadas em favor deles, meus negócios também começaram a ficar cada vez mais difíceis...",
+        "es-ES": "[Jojin]\nHan empezado a dominar el comercio del pueblo y las políticas se inclinan a su favor, lo que ha dificultado mi negocio..."
+    },
+    "ZhkJDQ": {
+        "en-US": "[Jojin]\nAt that time, Gina offered to purchase some of my buildings, and I do not know what to do.",
+        "pt-BR": "[Jojin]\nFoi justamente nessa época que uma pessoa chamada Gina me propôs comprar parte dos edifícios que possuo, e eu realmente não sei o que fazer.",
+        "es-ES": "[Jojin]\nEn ese momento, Gina me propuso comprar algunos de mis edificios, pero no sé qué hacer."
+    },
+    "ZxkJDQ": {
+        "en-US": "[Jojin]\nHello, have you been well?",
+        "pt-BR": "[Jojin]\nOlá, tem passado bem?",
+        "es-ES": "[Jojin]\nHola, ¿cómo ha estado?"
+    },
+    "aBkJDQ": {
+        "en-US": "[Jojin]\nMy current business is struggling, so I desperately need additional funds.",
+        "pt-BR": "[Jojin]\nComo os negócios que administro atualmente estão em grande dificuldade, estou em uma situação em que preciso de certo capital adicional.",
+        "es-ES": "[Jojin]\nMi negocio atraviesa dificultades, así que necesito capital adicional."
+    },
+    "aRkJDQ": {
+        "en-US": "[Jojin]\nCoincidentally, Gina is actively offering to purchase my buildings...",
+        "pt-BR": "[Jojin]\nPor coincidência, uma pessoa chamada Gina está insistindo ativamente em comprar os edifícios que possuo...",
+        "es-ES": "[Jojin]\nJusto entonces, Gina insiste en comprar mis edificios..."
+    },
+    "ahkJDQ": {
+        "en-US": "[Jojin]\nBut I feel the price offered is far too unreasonable...",
+        "pt-BR": "[Jojin]\nMas me parece que ela está oferecendo um valor absurdo de tão baixo...",
+        "es-ES": "[Jojin]\nPero creo que el precio que ofrece es demasiado bajo..."
+    },
+    "axkJDQ": {
+        "en-US": "[Jojin]\nI am seriously 고민중인데...",
+        "pt-BR": "[Jojin]\nEstou seriamente pensando no que devo fazer...",
+        "es-ES": "[Jojin]\nEstoy considerando seriamente qué hacer..."
+    },
+    "bBkJDQ": {
+        "en-US": "[Jojin]\nFor now, I will try to hold on a bit longer.",
+        "pt-BR": "[Jojin]\nPor enquanto, pretendo resistir só mais um pouco.",
+        "es-ES": "[Jojin]\nPor ahora intentaré resistir un poco más."
+    },
+    "bRkJDQ": {
+        "en-US": "[Jojin]\nDid I mention before that I was troubled over selling my buildings?",
+        "pt-BR": "[Jojin]\nEu já havia lhe dito que até pouco tempo atrás estava sofrendo com esse problema da venda dos edifícios, não?",
+        "es-ES": "[Jojin]\n¿Le mencioné que tenía problemas por la venta de los edificios?"
+    },
+    "bhkJDQ": {
+        "en-US": "[Jojin]\nTo conclude, I no longer need to sell them.",
+        "pt-BR": "[Jojin]\nPara ir direto ao ponto, agora não será mais necessário vender os edifícios.",
+        "es-ES": "[Jojin]\nPara resumir, ya no tendré que venderlos."
+    },
+    "bxkJDQ": {
+        "en-US": "[Jojin]\nThe priests promised to grant equal rights to us natives.",
+        "pt-BR": "[Jojin]\nConseguimos uma promessa dos sacerdotes de que nós, nativos, também receberemos direitos iguais.",
+        "es-ES": "[Jojin]\nLogramos obtener la promesa de los sacerdotes de que tendremos los mismos derechos que los inmigrantes."
+    },
+    "cBkJDQ": {
+        "en-US": "[Jojin]\nMy business should gradually stabilize, and I believe I can maintain things as they are.",
+        "pt-BR": "[Jojin]\nMeus negócios vão se estabilizar aos poucos e, se isso acontecer, acho que conseguirei manter a situação atual.",
+        "es-ES": "[Jojin]\nMi negocio se irá estabilizando poco a poco, y podré mantener la situación actual."
+    },
+    "cRkJDQ": {
+        "en-US": "[Jojin]\nI am glad to share good news.",
+        "pt-BR": "[Jojin]\nFico feliz por poder lhe dar uma boa notícia.",
+        "es-ES": "[Jojin]\nMe alegra poder compartir esta buena noticia."
+    },
+    "chkJDQ": {
+        "en-US": "[Jojin]\nIf the priests had acted any later, I would have sold the buildings.",
+        "pt-BR": "[Jojin]\nSe a resposta dos sacerdotes tivesse demorado só um pouco mais, eu teria acabado vendendo os edifícios.",
+        "es-ES": "[Jojin]\nSi los sacerdotes hubieran actuado un poco más tarde, habría terminado vendiéndolos."
+    },
+    "cxkJDQ": {
+        "en-US": "[Jojin]\nThey have taken measures to ensure equal rights in business for natives and migrants.",
+        "pt-BR": "[Jojin]\nNão foi decidido que nativos e imigrantes teriam direitos iguais em seus negócios?",
+        "es-ES": "[Jojin]\nHan tomado medidas para que nativos e inmigrantes tengan los mismos derechos en los negocios."
+    },
+    "dBkJDQ": {
+        "en-US": "[Jojin]\nThat the migrants accepted it... is both surprising and something to be grateful for.",
+        "pt-BR": "[Jojin]\nOs imigrantes aceitarem isso... é algo ao mesmo tempo surpreendente e digno de gratidão.",
+        "es-ES": "[Jojin]\nQue los inmigrantes lo hayan aceptado... es sorprendente y también digno de agradecimiento."
+    },
+    "dRkJDQ": {
+        "en-US": "[Jojin]\nIn any case, it seems the time has come to accelerate my business.",
+        "pt-BR": "[Jojin]\nDe qualquer forma, parece que finalmente chegou o momento de impulsionar meus negócios.",
+        "es-ES": "[Jojin]\nEn fin, parece que ha llegado el momento de impulsar mi negocio."
+    },
+    "dhkJDQ": {
+        "en-US": "[Jojin]\nI hope you will support me as well.",
+        "pt-BR": "[Jojin]\nEspero que você também torça por mim.",
+        "es-ES": "[Jojin]\nEspero contar con su apoyo."
+    },
+    "dxkJDQ": {
+        "en-US": "[Jojin]\nMy business has become much more stable lately.",
+        "pt-BR": "[Jojin]\nUltimamente, os negócios que administro ficaram bem mais estáveis.",
+        "es-ES": "[Jojin]\nÚltimamente mi negocio se ha estabilizado bastante."
+    },
+    "eBkJDQ": {
+        "en-US": "[Jojin]\nThe structure that favored migrants alone has begun to change.",
+        "pt-BR": "[Jojin]\nA estrutura em que apenas os imigrantes saíam ganhando começou a mudar há algum tempo.",
+        "es-ES": "[Jojin]\nLa estructura en la que solo los inmigrantes se beneficiaban ha comenzado a cambiar."
+    },
+    "eRkJDQ": {
+        "en-US": "[Jojin]\nTherefore, I will not need to sell my buildings. What a relief.",
+        "pt-BR": "[Jojin]\nPor isso, acho que não será necessário vender os edifícios. Que alívio.",
+        "es-ES": "[Jojin]\nPor lo tanto, no tendré que vender los edificios. Es realmente un alivio."
+    },
+    "ehkJDQ": {
+        "en-US": "[Jojin]\nI have suffered greatly, but now I can finally sleep peacefully.",
+        "pt-BR": "[Jojin]\nPassei por muita angústia todo esse tempo, mas agora sinto que finalmente vou poder dormir em paz.",
+        "es-ES": "[Jojin]\nHe pasado momentos difíciles, pero ahora podré dormir tranquilo."
+    },
+    "exkJDQ": {
+        "en-US": "[Jojin]\nI am grateful to share good news.",
+        "pt-BR": "[Jojin]\nSou grato por poder lhe trazer boas notícias.",
+        "es-ES": "[Jojin]\nAgradezco poder compartir estas buenas noticias."
+    },
+    "fBkJDQ": {
+        "en-US": "[Jojin]\nThen, have a good day.",
+        "pt-BR": "[Jojin]\nEntão, tenha um bom dia.",
+        "es-ES": "[Jojin]\nQue tenga un buen día."
+    },
+    "fRkJDQ": {
+        "en-US": "- Finished conversation with Jojin. -",
+        "pt-BR": "- A conversa com Jojin terminou. -",
+        "es-ES": "- Has terminado la conversación con Jojin. -"
+    },
+    "fhkJDQ": {
+        "en-US": "[Jojin]\nHmm... what should I do...",
+        "pt-BR": "[Jojin]\nHmm... o que devo fazer...",
+        "es-ES": "[Jojin]\nHmm... ¿qué debería hacer...?"
+    },
+    "fxkJDQ": {
+        "en-US": "[Jojin]\nI have gone through difficult times, but now I feel I can look forward to a better tomorrow.",
+        "pt-BR": "[Jojin]\nPassei por tempos difíceis, mas agora acho que poderei esperar, aos poucos, por um amanhã melhor.",
+        "es-ES": "[Jojin]\nHe pasado tiempos difíciles, pero ahora puedo esperar un mañana mejor."
+    },
+    "gBkJDQ": {
+        "en-US": "Squain",
+        "pt-BR": "Squain",
+        "es-ES": "Squain"
+    },
+    "gRkJDQ": {
+        "en-US": "[Squain]\nHello.",
+        "pt-BR": "[Squain]\nOlá.",
+        "es-ES": "[Squain]\nHola."
+    },
+    "ghkJDQ": {
+        "en-US": "[Squain]\nI am Squain, the poorest person in this village.",
+        "pt-BR": "[Squain]\nSou Squain, o mais pobre desta vila.",
+        "es-ES": "[Squain]\nSoy Squain, el más pobre de este pueblo."
+    },
+    "gxkJDQ": {
+        "en-US": "[Squain]\nI hope I can get through today without incident.",
+        "pt-BR": "[Squain]\nEspero poder passar o dia de hoje sem nenhum problema.",
+        "es-ES": "[Squain]\nEspero poder pasar el día sin problemas."
+    },
+    "hBkJDQ": {
+        "en-US": "[Squain]\nHello, I am Squain.",
+        "pt-BR": "[Squain]\nOlá, sou Squain.",
+        "es-ES": "[Squain]\nHola, soy Squain."
+    },
+    "hRkJDQ": {
+        "en-US": "[Squain]\nLately, I have been witnessing various disputes breaking out here and there.",
+        "pt-BR": "[Squain]\nUltimamente tenho visto pequenas e grandes brigas acontecendo por toda parte.",
+        "es-ES": "[Squain]\nÚltimamente he visto muchas disputas por todas partes."
+    },
+    "hhkJDQ": {
+        "en-US": "[Squain]\nI am too afraid to even walk around.",
+        "pt-BR": "[Squain]\nA situação é tão assustadora que está difícil até sair andando por aí.",
+        "es-ES": "[Squain]\nTengo miedo, así que es difícil incluso salir a caminar."
+    },
+    "hxkJDQ": {
+        "en-US": "[Squain]\nNow, it seems the once noisy streets have quieted down a bit...",
+        "pt-BR": "[Squain]\nAgora parece que as ruas, antes barulhentas por causa das brigas, ficaram um pouco mais calmas...",
+        "es-ES": "[Squain]\nAhora parece que las calles se han calmado un poco..."
+    },
+    "iBkJDQ": {
+        "en-US": "[Squain]\nI think I can finally go outside with some peace of mind.",
+        "pt-BR": "[Squain]\nAcho que agora eu também posso sair com mais tranquilidade.",
+        "es-ES": "[Squain]\nCreo que ya puedo salir con tranquilidad."
+    },
+    "iRkJDQ": {
+        "en-US": "[Squain]\nHello~",
+        "pt-BR": "[Squain]\nOlá~",
+        "es-ES": "[Squain]\nHola~"
+    },
+    "ihkJDQ": {
+        "en-US": "[Squain]\nWhat brings you to someone as insignificant as me?",
+        "pt-BR": "[Squain]\nO que o traz até alguém tão insignificante como eu?",
+        "es-ES": "[Squain]\n¿Qué le trae por aquí, siendo yo alguien sin importancia?"
+    },
+    "ixkJDQ": {
+        "en-US": "[Squain]\nI am Squain, barely surviving day by day with the help of the townspeople.",
+        "pt-BR": "[Squain]\nSou Squain, alguém que mal consegue sobreviver dia após dia com a ajuda das pessoas da vila.",
+        "es-ES": "[Squain]\nSoy Squain, sobrevivo día a día gracias a la ayuda de la gente del pueblo."
+    },
+    "jBkJDQ": {
+        "en-US": "[Squain]\nYou can probably tell without me explaining, just by looking at me.",
+        "pt-BR": "[Squain]\nSe você viu minha aparência agora, acho que nem preciso explicar, certo?",
+        "es-ES": "[Squain]\nSi ha visto mi aspecto, no hará falta explicarlo, ¿verdad?"
+    },
+    "jRkJDQ": {
+        "en-US": "[Squain]\nThis place, Rachel, has long had a severe wealth gap.",
+        "pt-BR": "[Squain]\nEste lugar, Rachel, sempre teve uma desigualdade social bastante severa.",
+        "es-ES": "[Squain]\nEste lugar, Rachel, siempre ha tenido una gran desigualdad económica."
+    },
+    "jhkJDQ": {
+        "en-US": "[Squain]\nEspecially between natives and migrants, with migrants holding overwhelming economic power.",
+        "pt-BR": "[Squain]\nA diferença entre nativos e imigrantes é o maior exemplo disso. Os imigrantes ocupam a posição superior com base em seu imenso poder econômico.",
+        "es-ES": "[Squain]\nEspecialmente entre nativos e inmigrantes; estos últimos dominan gracias a su poder económico."
+    },
+    "jxkJDQ": {
+        "en-US": "[Squain]\nAs a native, I have sadly suffered greatly from that discrimination...",
+        "pt-BR": "[Squain]\nInfelizmente, eu, como nativo, estou sofrendo bastante com a discriminação causada por isso...",
+        "es-ES": "[Squain]\nComo nativo, lamentablemente sufro mucho esa discriminación..."
+    },
+    "kBkJDQ": {
+        "en-US": "[Squain]\nThat is all I have to say for now.",
+        "pt-BR": "[Squain]\nPor enquanto, é só isso que tenho a dizer.",
+        "es-ES": "[Squain]\nEso es todo lo que tenía que decir."
+    },
+    "kRkJDQ": {
+        "en-US": "[Squain]\nThings have been quite chaotic lately.",
+        "pt-BR": "[Squain]\nUltimamente, tudo ao redor anda bastante tumultuado.",
+        "es-ES": "[Squain]\nÚltimamente todo está algo agitado."
+    },
+    "khkJDQ": {
+        "en-US": "[Squain]\nHmm... there has been nothing I could do.",
+        "pt-BR": "[Squain]\nHum... nesse tempo todo, não houve nada que eu pudesse fazer.",
+        "es-ES": "[Squain]\nHmm... hasta ahora no había nada que pudiera hacer."
+    },
+    "kxkJDQ": {
+        "en-US": "[Squain]\nIt seems the priests are trying to provide various benefits to natives.",
+        "pt-BR": "[Squain]\nParece que, pelos esforços dos sacerdotes, estão tentando conceder vários benefícios aos nativos.",
+        "es-ES": "[Squain]\nParece que los sacerdotes intentan otorgar varios beneficios a los nativos."
+    },
+    "lBkJDQ": {
+        "en-US": "[Squain]\nWell... I wonder how much it will help me...",
+        "pt-BR": "[Squain]\nQuem sabe... será que isso realmente vai me ajudar de alguma forma...",
+        "es-ES": "[Squain]\nNo lo sé... ¿realmente me ayudará en algo...?"
+    },
+    "lRkJDQ": {
+        "en-US": "[Squain]\nI would consider it fortunate just not to be driven out of this street.",
+        "pt-BR": "[Squain]\nAcho que já será uma sorte se eu ao menos não for expulso desta rua.",
+        "es-ES": "[Squain]\nMientras no me echen de estas calles, me doy por satisfecho."
+    },
+    "lhkJDQ": {
+        "en-US": "[Squain]\nHello~~",
+        "pt-BR": "[Squain]\nOlá~~",
+        "es-ES": "[Squain]\nHola~~"
+    },
+    "lxkJDQ": {
+        "en-US": "[Squain]\nI thought I was finally earning enough to get by.",
+        "pt-BR": "[Squain]\nEu já estava pensando que agora daria para viver um pouco melhor, porque minha renda tinha melhorado até certo ponto.",
+        "es-ES": "[Squain]\nHace poco pensé que ya podía vivir mejor porque mis ingresos mejoraron un poco."
+    },
+    "mBkJDQ": {
+        "en-US": "[Squain]\nThat alone was enough to be grateful for, but I was also given an additional job.",
+        "pt-BR": "[Squain]\nNa verdade, eu já era plenamente grato só por isso, mas ainda me deram um trabalho adicional.",
+        "es-ES": "[Squain]\nEso ya era suficiente para mí, pero además me han dado un nuevo trabajo."
+    },
+    "mRkJDQ": {
+        "en-US": "[Squain]\nA law was passed requiring two managers per building owned.",
+        "pt-BR": "[Squain]\nFoi aprovada uma lei que exige a contratação de 2 administradores para cada edifício possuído.",
+        "es-ES": "[Squain]\nSe ha aprobado una ley que obliga a contratar a dos encargados por cada edificio."
+    },
+    "mhkJDQ": {
+        "en-US": "[Squain]\nAs a result, I was able to obtain proper work.",
+        "pt-BR": "[Squain]\nAssim, pude finalmente conseguir um trabalho de verdade.",
+        "es-ES": "[Squain]\nGracias a ello, ahora tengo un trabajo adecuado."
+    },
+    "mxkJDQ": {
+        "en-US": "[Squain]\nI am truly grateful...",
+        "pt-BR": "[Squain]\nSou realmente muito grato...",
+        "es-ES": "[Squain]\nEstoy realmente agradecido..."
+    },
+    "nBkJDQ": {
+        "en-US": "[Squain]\nThankfully, I have been given a job.",
+        "pt-BR": "[Squain]\nFelizmente, foi me dado um trabalho.",
+        "es-ES": "[Squain]\nAfortunadamente, me han dado un empleo."
+    },
+    "nRkJDQ": {
+        "en-US": "[Squain]\nI no longer have to rely on others to survive!",
+        "pt-BR": "[Squain]\nAgora não vou mais precisar viver dependendo dos outros!",
+        "es-ES": "[Squain]\n¡Ya no tendré que depender de otros para vivir!"
+    },
+    "nhkJDQ": {
+        "en-US": "[Squain]\nIf I start earning money, I would like to change my clothes first.",
+        "pt-BR": "[Squain]\nSe eu começar a receber dinheiro, a primeira coisa que quero fazer é trocar as roupas que estou vestindo.",
+        "es-ES": "[Squain]\nCuando reciba dinero, quiero cambiar la ropa que llevo."
+    },
+    "nxkJDQ": {
+        "en-US": "[Squain]\nI have received help from many people...",
+        "pt-BR": "[Squain]\nMuitas pessoas me ajudaram até aqui...",
+        "es-ES": "[Squain]\nMuchas personas me han ayudado..."
+    },
+    "oBkJDQ": {
+        "en-US": "[Squain]\nNow, I will become someone who can help others as well.",
+        "pt-BR": "[Squain]\nAgora eu também vou me tornar alguém capaz de ajudar os outros.",
+        "es-ES": "[Squain]\nAhora quiero convertirme en alguien que también pueda ayudar a otros."
+    },
+    "oRkJDQ": {
+        "en-US": "[Squain]\nAt one point, I had dark thoughts, but I am glad I endured.",
+        "pt-BR": "[Squain]\nHouve um tempo em que tive pensamentos ruins, mas agora penso que fiz bem em resistir sem seguir por esse caminho.",
+        "es-ES": "[Squain]\nHubo un momento en que tuve pensamientos negativos, pero me alegra haber resistido."
+    },
+    "ohkJDQ": {
+        "en-US": "[Squain]\nI now have a job.",
+        "pt-BR": "[Squain]\nAgora também recebi um trabalho.",
+        "es-ES": "[Squain]\nAhora también tengo un trabajo."
+    },
+    "oxkJDQ": {
+        "en-US": "[Squain]\nI never thought I would live a life sustained by my own efforts.",
+        "pt-BR": "[Squain]\nNunca imaginei que chegaria o dia em que eu poderia sustentar minha vida com minhas próprias forças.",
+        "es-ES": "[Squain]\nNunca imaginé que llegaría el día en que podría sostener mi vida por mis propios medios."
+    },
+    "pBkJDQ": {
+        "en-US": "[Squain]\nThere are so many people I must thank.",
+        "pt-BR": "[Squain]\nHá pessoas demais a quem devo agradecer.",
+        "es-ES": "[Squain]\nHay demasiadas personas a las que debo agradecer."
+    },
+    "pRkJDQ": {
+        "en-US": "[Squain]\nI will live diligently!!",
+        "pt-BR": "[Squain]\nVou viver com dedicação!!",
+        "es-ES": "[Squain]\n¡Viviré con esfuerzo!"
+    },
+    "phkJDQ": {
+        "en-US": "[Squain]\nThen, please take care on your way.",
+        "pt-BR": "[Squain]\nEntão, vá com cuidado.",
+        "es-ES": "[Squain]\nCuídese en el camino de regreso."
+    },
+    "pxkJDQ": {
+        "en-US": "- Finished conversation with Squain. -",
+        "pt-BR": "- A conversa com Squain terminou. -",
+        "es-ES": "- Has terminado la conversación con Squain. -"
+    },
+    "qBkJDQ": {
+        "en-US": "[Squain]\nI hope I can get through today safely as well.",
+        "pt-BR": "[Squain]\nEspero conseguir passar o dia de hoje em segurança.",
+        "es-ES": "[Squain]\nEspero poder pasar el día de hoy sin problemas."
+    },
+    "qRkJDQ": {
+        "en-US": "[Squain]\nWith everything in disorder around here, it makes me anxious for no reason.",
+        "pt-BR": "[Squain]\nCom tudo tão tumultuado ao redor, acabo ficando inquieto sem motivo.",
+        "es-ES": "[Squain]\nCon todo tan revuelto a mi alrededor, me siento inquieto sin motivo."
+    },
+    "qhkJDQ": {
+        "en-US": "[Squain]\nA fulfilling day awaits me.",
+        "pt-BR": "[Squain]\nUm dia proveitoso me espera.",
+        "es-ES": "[Squain]\nMe espera un día provechoso."
+    },
+    "qxkJDQ": {
+        "en-US": "Senado",
+        "pt-BR": "Senad",
+        "es-ES": "Senad"
+    },
+    "rBkJDQ": {
+        "en-US": "[Senad]\nHello.",
+        "pt-BR": "[Senad]\nOlá.",
+        "es-ES": "[Senad]\nHola."
+    },
+    "rRkJDQ": {
+        "en-US": "[Senad]\nI am the martial artist Senado.",
+        "pt-BR": "[Senad]\nSou a lutadora Senad.",
+        "es-ES": "[Senad]\nSoy Senad, artista marcial."
+    },
+    "rhkJDQ": {
+        "en-US": "[Senad]\nYou seem quite skilled yourself. Would you care to spar with me sometime?",
+        "pt-BR": "[Senad]\nVocê também parece bastante habilidoso. Que tal treinar comigo algum dia?",
+        "es-ES": "[Senad]\nTambién usted parece bastante hábil. ¿No le gustaría entrenar conmigo algún día?"
+    },
+    "rxkJDQ": {
+        "en-US": "[Senad]\nLately, the atmosphere in the village does not seem very good.",
+        "pt-BR": "[Senad]\nUltimamente, o clima na vila não parece nada bom.",
+        "es-ES": "[Senad]\nÚltimamente, el ambiente en el pueblo no parece muy bueno."
+    },
+    "sBkJDQ": {
+        "en-US": "[Senad]\nPlease be careful as you go about as well, Adventurer.",
+        "pt-BR": "[Senad]\nAventureiro, tome cuidado ao andar por aí.",
+        "es-ES": "[Senad]\nLe recomiendo que también ande con cuidado, aventurero."
+    },
+    "sRkJDQ": {
+        "en-US": "[Senad]\nHello~",
+        "pt-BR": "[Senad]\nOlá~",
+        "es-ES": "[Senad]\nHola~"
+    },
+    "shkJDQ": {
+        "en-US": "[Senad]\nI hope you have a pleasant day as well, Adventurer.",
+        "pt-BR": "[Senad]\nEspero que o aventureiro também tenha um bom dia.",
+        "es-ES": "[Senad]\nEspero que usted también tenga un buen día."
+    },
+    "sxkJDQ": {
+        "en-US": "[Senad]\nI am Senado, and I have trained in martial arts for over 20 years.",
+        "pt-BR": "[Senad]\nSou Senad, venho treinando apenas artes marciais há mais de 20 anos.",
+        "es-ES": "[Senad]\nSoy Senad, y llevo más de 20 años entrenando únicamente en las artes marciales."
+    },
+    "tBkJDQ": {
+        "en-US": "[Senad]\nIt has been quite a long time since I settled here in Rachel after traveling from village to village, challenging dojos to test the strength of the martial arts I have cultivated.",
+        "pt-BR": "[Senad]\nJá faz bastante tempo que me estabeleci aqui em Rachel, depois de viajar por várias vilas desafiando dojos para medir a força marcial que acumulei.",
+        "es-ES": "[Senad]\nHace ya bastante tiempo que me asenté aquí, en Rachel, después de recorrer varios pueblos desafiando dojos para medir la fuerza marcial que he acumulado."
+    },
+    "tRkJDQ": {
+        "en-US": "[Senad]\nBut lately, I have felt that the atmosphere in this village is far from ordinary.",
+        "pt-BR": "[Senad]\nMas acontece que, ultimamente, senti que o clima desta vila não anda nada normal.",
+        "es-ES": "[Senad]\nSin embargo, últimamente he notado que el ambiente de este pueblo no es nada normal."
+    },
+    "thkJDQ": {
+        "en-US": "[Senad]\nThe people have split into two opposing factions, the natives and the migrants...",
+        "pt-BR": "[Senad]\nAs pessoas estavam divididas em duas facções e se enfrentando; dizem que é um conflito entre nativos e imigrantes...",
+        "es-ES": "[Senad]\nLa gente se ha dividido en dos bandos enfrentados; dicen que se trata del conflicto entre nativos e inmigrantes..."
+    },
+    "txkJDQ": {
+        "en-US": "[Senad]\nIf you ask me, I belong to the natives. But I do not want any part in such a conflict.",
+        "pt-BR": "[Senad]\nSe for para classificar, eu pertenço aos nativos. Mas não quero fazer parte desse tipo de confronto.",
+        "es-ES": "[Senad]\nSi he de clasificarme, pertenezco a los nativos. Pero no quiero formar parte de esta confrontación."
+    },
+    "uBkJDQ": {
+        "en-US": "[Senad]\nI have no interest in their struggle for power.",
+        "pt-BR": "[Senad]\nNão tenho interesse nessa briga de poder deles.",
+        "es-ES": "[Senad]\nNo me interesa su lucha de poder."
+    },
+    "uRkJDQ": {
+        "en-US": "[Senad]\nHello, I am Senado.",
+        "pt-BR": "[Senad]\nOlá, sou Senad.",
+        "es-ES": "[Senad]\nHola, soy Senad."
+    },
+    "uhkJDQ": {
+        "en-US": "[Senad]\nRecently, someone who has been doing the same kind of dojo challenge I used to do came here and delivered me a challenge.",
+        "pt-BR": "[Senad]\nA pessoa que vem fazendo os mesmos desafios de dojo do que eu apareceu aqui há algum tempo e me entregou uma carta de desafio.",
+        "es-ES": "[Senad]\nHace poco, alguien que también iba derrotando dojos como yo vino aquí y me lanzó un desafío."
+    },
+    "uxkJDQ": {
+        "en-US": "[Senad]\nSo not long ago, a match was arranged for me to spar with that person.",
+        "pt-BR": "[Senad]\nAssim, há pouco tempo, foi preparado um lugar para que eu pudesse lutar com essa pessoa.",
+        "es-ES": "[Senad]\nAsí que hace poco se preparó un lugar donde podríamos enfrentarnos en combate."
+    },
+    "vBkJDQ": {
+        "en-US": "[Senad]\nBut then they told me I had to pay the arena rental fee in order to spar.",
+        "pt-BR": "[Senad]\nMas veja só, exigiram que pagássemos a taxa de aluguel da arena para realizar o duelo.",
+        "es-ES": "[Senad]\nPero resulta que me exigieron pagar la tarifa de alquiler del recinto para poder combatir."
+    },
+    "vRkJDQ": {
+        "en-US": "[Senad]\nIt was far too great a burden for me, so in the end, the sparring match was called off.",
+        "pt-BR": "[Senad]\nPara mim era um valor muito pesado, e no fim o duelo acabou sendo cancelado.",
+        "es-ES": "[Senad]\nEra una cantidad demasiado elevada para mí, así que al final el combate quedó cancelado."
+    },
+    "vhkJDQ": {
+        "en-US": "[Senad]\nWhat angers me even more is that they demanded an even higher fee from me simply because I am a native.",
+        "pt-BR": "[Senad]\nO mais revoltante é que exigiram de mim um valor ainda maior só por eu ser nativo.",
+        "es-ES": "[Senad]\nY lo que más me enfurece es que me exigieron una suma aún mayor por el simple hecho de ser nativo."
+    },
+    "vxkJDQ": {
+        "en-US": "[Senad]\nA match between masters would be more than enough entertainment for the spectators, so if anything, I should have been the one getting paid...",
+        "pt-BR": "[Senad]\nUm confronto entre lutadores experientes já seria um grande espetáculo para as pessoas ao redor, então na verdade eu é que deveria receber dinheiro...",
+        "es-ES": "[Senad]\nUn combate entre maestros sería un espectáculo más que suficiente para los presentes, así que, en todo caso, yo debería ser quien cobrara..."
+    },
+    "wBkJDQ": {
+        "en-US": "[Senad]\nIt is truly outrageous. My fists are clenching on their own.",
+        "pt-BR": "[Senad]\nIsso é realmente um absurdo, meus punhos se cerram sozinhos.",
+        "es-ES": "[Senad]\nEs realmente indignante, siento cómo mis puños se tensan por sí solos."
+    },
+    "wRkJDQ": {
+        "en-US": "[Senad]\nI was aware that the priests had been working to eliminate discrimination between natives and migrants.",
+        "pt-BR": "[Senad]\nEu sabia que os sacerdotes vinham se esforçando para acabar com a discriminação entre nativos e imigrantes.",
+        "es-ES": "[Senad]\nYa sabía que los sacerdotes habían estado esforzándose por acabar con la discriminación entre nativos e inmigrantes."
+    },
+    "whkJDQ": {
+        "en-US": "[Senad]\nAnd recently, I have begun to feel that those efforts are bearing fruit.",
+        "pt-BR": "[Senad]\nE, recentemente, tenho sentido que esses esforços estão começando a dar frutos.",
+        "es-ES": "[Senad]\nY últimamente estoy sintiendo que esos esfuerzos por fin están dando fruto."
+    },
+    "wxkJDQ": {
+        "en-US": "[Senad]\nEven regarding the arena rental fee for sparring, I am no longer being discriminated against for being a native.",
+        "pt-BR": "[Senad]\nHá pouco tempo, até mesmo em relação à taxa de aluguel para realizar o duelo, deixei de ser discriminado por ser nativo.",
+        "es-ES": "[Senad]\nHace poco, incluso en lo referente a la tarifa del recinto para el combate, dejé de ser discriminado por ser nativo."
+    },
+    "xBkJDQ": {
+        "en-US": "[Senad]\nThe match itself was also carried out safely amid a lively atmosphere filled with many people.",
+        "pt-BR": "[Senad]\nO duelo também foi realizado em segurança, em um ambiente animado e cheio de gente.",
+        "es-ES": "[Senad]\nY el combate pudo celebrarse sin problemas, en un ambiente animado y repleto de gente."
+    },
+    "xRkJDQ": {
+        "en-US": "[Senad]\nAh, of course, it ended in my victory. It was so obvious that I almost forgot to mention it.",
+        "pt-BR": "[Senad]\nAh, claro, terminou com a minha vitória. Era algo tão óbvio que quase deixei de mencionar.",
+        "es-ES": "[Senad]\nAh, por supuesto, terminó con mi victoria. Era algo tan evidente que casi se me olvida mencionarlo."
+    },
+    "xhkJDQ": {
+        "en-US": "[Senad]\nMy match against the challenger nearly fell through, but fortunately we were able to proceed with it.",
+        "pt-BR": "[Senad]\nO duelo contra o desafiante quase foi cancelado, mas felizmente conseguimos realizá-lo.",
+        "es-ES": "[Senad]\nEstuve a punto de no poder enfrentarme al retador, pero por suerte finalmente pudimos celebrar el combate."
+    },
+    "xxkJDQ": {
+        "en-US": "[Senad]\nI almost ended up paying that absurd rental fee in full, can you believe it...",
+        "pt-BR": "[Senad]\nPor pouco eu não acabei pagando toda aquela taxa absurda de aluguel, imagine só...",
+        "es-ES": "[Senad]\nPor poco termino pagando por completo una tarifa de alquiler absurda, imagínese..."
+    },
+    "yBkJDQ": {
+        "en-US": "[Senad]\nIt seems various policies for natives are being put into place, and I think that is truly a good thing.",
+        "pt-BR": "[Senad]\nParece que estão sendo preparadas várias políticas para os nativos, e acho isso realmente ótimo.",
+        "es-ES": "[Senad]\nParece que se están estableciendo varias políticas para los nativos, y creo que eso es realmente positivo."
+    },
+    "yRkJDQ": {
+        "en-US": "[Senad]\nAh, you ask what the result of the match was?",
+        "pt-BR": "[Senad]\nAh, está perguntando como terminou o duelo?",
+        "es-ES": "[Senad]\nAh, ¿que cómo terminó el combate?"
+    },
+    "yhkJDQ": {
+        "en-US": "[Senad]\nOf course I won. There was no way I could lose.",
+        "pt-BR": "[Senad]\nClaro que eu venci. Não havia como eu perder.",
+        "es-ES": "[Senad]\nPor supuesto, gané yo. No había posibilidad de que perdiera."
+    },
+    "yxkJDQ": {
+        "en-US": "[Senad]\nNot long ago, a formidable challenger appeared, and I went to settle things with him.",
+        "pt-BR": "[Senad]\nHá pouco tempo, apareceu um desafiante poderoso, e eu fui resolver isso.",
+        "es-ES": "[Senad]\nHace poco apareció un poderoso retador y fui a resolver el duelo."
+    },
+    "zBkJDQ": {
+        "en-US": "[Senad]\nThat challenger was a migrant martial artist, so it became quite the talked-about match.",
+        "pt-BR": "[Senad]\nComo esse desafiante era um lutador vindo dos imigrantes, foi um duelo que deu bastante o que falar.",
+        "es-ES": "[Senad]\nEl retador era un artista marcial inmigrante, así que fue un combate que dio mucho de qué hablar."
+    },
+    "zRkJDQ": {
+        "en-US": "[Senad]\nIt was not as though I had steeled myself thinking, I absolutely cannot lose as the representative of the natives!!\" but...\"",
+        "pt-BR": "[Senad]\nNão foi exatamente com a determinação de jamais perder por representar os nativos!! mas...",
+        "es-ES": "[Senad]\nNo diría que luché con la determinación de representar a los nativos y no poder perder bajo ningún concepto, pero..."
+    },
+    "zhkJDQ": {
+        "en-US": "[Senad]\nWhat mattered more to me was that, under the changed policies, the rental fee could be adjusted.",
+        "pt-BR": "[Senad]\nPara mim, o mais importante foi poder ajustar a taxa de aluguel de acordo com as políticas modificadas.",
+        "es-ES": "[Senad]\nPara mí, lo más importante era que gracias al cambio de políticas se pudiera ajustar la tarifa del recinto."
+    },
+    "zxkJDQ": {
+        "en-US": "[Senad]\nAh, and the match ended with my victory.",
+        "pt-BR": "[Senad]\nAh, e o duelo terminou com a minha vitória.",
+        "es-ES": "[Senad]\nAh, y el combate terminó con mi victoria."
+    },
+    "0BkJDQ": {
+        "en-US": "[Senad]\nI can sense uncommon martial skill from you as well... It might be good for you to spar with me sometime.",
+        "pt-BR": "[Senad]\nTambém sinto uma arte marcial nada comum em você... talvez fosse bom duelarmos algum dia.",
+        "es-ES": "[Senad]\nTambién percibo en usted unas artes marciales nada corrientes... quizá sería buena idea que algún día luchara conmigo."
+    },
+    "0RkJDQ": {
+        "en-US": "[Senad]\nThen let us meet again another time.",
+        "pt-BR": "[Senad]\nEntão, até a próxima.",
+        "es-ES": "[Senad]\nEntonces, nos volveremos a ver en otra ocasión."
+    },
+    "0hkJDQ": {
+        "en-US": "- Finished conversation with Senado. -",
+        "pt-BR": "- A conversa com Senad terminou. -",
+        "es-ES": "- Has terminado la conversación con Senad. -"
+    },
+    "0xkJDQ": {
+        "en-US": "[Senad]\nNative or migrant...",
+        "pt-BR": "[Senad]\nSeja nativo... ou imigrante...",
+        "es-ES": "[Senad]\nSean nativos... o sean inmigrantes..."
+    },
+    "1BkJDQ": {
+        "en-US": "[Senad]\nI do not understand why they insist on taking sides and fighting so much.",
+        "pt-BR": "[Senad]\nNão entendo por que ficam dividindo lados e brigando desse jeito.",
+        "es-ES": "[Senad]\nNo entiendo por qué se empeñan tanto en dividirse y pelear."
+    },
+    "1RkJDQ": {
+        "en-US": "[Senad]\nIt frustrates me greatly that I cannot use these fists I have honed.",
+        "pt-BR": "[Senad]\nÉ muito frustrante não poder usar os meus punhos tão bem treinados.",
+        "es-ES": "[Senad]\nMe indigna enormemente no poder usar los puños que tanto he pulido."
+    },
+    "1hkJDQ": {
+        "en-US": "[Senad]\nI can hardly remember the last time I lost a fight.",
+        "pt-BR": "[Senad]\nJá nem me lembro de quando foi a última vez que perdi uma luta.",
+        "es-ES": "[Senad]\nYa ni recuerdo cuándo fue la última vez que perdí una pelea."
+    },
+    "1xkJDQ": {
+        "en-US": "Japer",
+        "pt-BR": "Japer",
+        "es-ES": "Japer"
+    },
+    "2BkJDQ": {
+        "en-US": "[Japer]\nGreetings.",
+        "pt-BR": "[Japer]\nOlá.",
+        "es-ES": "[Japer]\nHola."
+    },
+    "2RkJDQ": {
+        "en-US": "[Japer]\nI am Japer, the head of a large merchant guild here.",
+        "pt-BR": "[Japer]\nSou Japer, o homem que comanda uma grande associação comercial aqui.",
+        "es-ES": "[Japer]\nSoy Japer, el que dirige un gran gremio de comerciantes en este lugar."
+    },
+    "2hkJDQ": {
+        "en-US": "[Japer]\nI possess a great quantity of fine goods.",
+        "pt-BR": "[Japer]\nTenho uma grande quantidade de mercadorias de boa qualidade.",
+        "es-ES": "[Japer]\nPoseo grandes cantidades de mercancía de gran calidad."
+    },
+    "2xkJDQ": {
+        "en-US": "[Japer]\nThese days, it seems many complaints are arising here and there about the way I do business.",
+        "pt-BR": "[Japer]\nUltimamente, parece que têm surgido muitas reclamações aqui e ali sobre a forma como faço negócios.",
+        "es-ES": "[Japer]\nÚltimamente parece que están surgiendo muchas quejas aquí y allá sobre mi forma de hacer negocios."
+    },
+    "3BkJDQ": {
+        "en-US": "[Japer]\nIt leaves me in a very foul mood.",
+        "pt-BR": "[Japer]\nIsso me desagrada bastante.",
+        "es-ES": "[Japer]\nEs realmente irritante."
+    },
+    "3RkJDQ": {
+        "en-US": "[Japer]\nAfter learning to let go to some extent, I feel a little more at ease.",
+        "pt-BR": "[Japer]\nDepois que deixei certas coisas de lado, meu coração ficou um pouco mais leve.",
+        "es-ES": "[Japer]\nAhora que he dejado algunas cosas atrás, me siento algo más tranquilo."
+    },
+    "3hkJDQ": {
+        "en-US": "[Japer]\nWell, I suppose it turned out for the best.",
+        "pt-BR": "[Japer]\nBem, acho que foi uma boa coisa.",
+        "es-ES": "[Japer]\nBueno, creo que al final ha sido para bien."
+    },
+    "3xkJDQ": {
+        "en-US": "[Japer]\nGreetings, I am the merchant Japer.",
+        "pt-BR": "[Japer]\nOlá, sou o comerciante Japer.",
+        "es-ES": "[Japer]\nHola, soy Japer, comerciante."
+    },
+    "4BkJDQ": {
+        "en-US": "[Japer]\nI believe I possess better business acumen than anyone else. That is how I rose to my current position.",
+        "pt-BR": "[Japer]\nAcredito que possuo uma habilidade comercial superior à de qualquer um. Foi assim que cheguei à posição em que estou hoje.",
+        "es-ES": "[Japer]\nCreo que tengo un talento comercial superior al de cualquiera. Por eso he llegado hasta donde estoy."
+    },
+    "4RkJDQ": {
+        "en-US": "[Japer]\nIs it not thanks to people like me doing our part diligently that the Holy State has prospered?",
+        "pt-BR": "[Japer]\nNão foi justamente por pessoas como eu desempenharem bem o seu papel que o reino religioso prosperou?",
+        "es-ES": "[Japer]\n¿Acaso no se ha vuelto próspero el reino sagrado gracias a que personas como yo han cumplido con esmero su papel?"
+    },
+    "4hkJDQ": {
+        "en-US": "[Japer]\nOn top of that, by building up a large merchant guild, I have been able to employ many natives living in Rachel.",
+        "pt-BR": "[Japer]\nAlém disso, ao formar uma grande associação comercial, consegui empregar muitos nativos que vivem em Rachel.",
+        "es-ES": "[Japer]\nAdemás, al haber formado un gremio de comerciantes tan grande, he podido emplear a muchos nativos que viven en Rachel."
+    },
+    "4xkJDQ": {
+        "en-US": "[Japer]\nYet judging from the current situation, the conflict between migrants and natives seems severe, and dissatisfaction toward me in particular appears to be growing.",
+        "pt-BR": "[Japer]\nMas, pelo que vejo ultimamente, o conflito entre imigrantes e nativos parece grave, e em especial a insatisfação comigo também parece ter aumentado.",
+        "es-ES": "[Japer]\nPero por cómo están las cosas últimamente, parece que el conflicto entre inmigrantes y nativos es intenso, y especialmente el descontento hacia mí parece estar creciendo."
+    },
+    "5BkJDQ": {
+        "en-US": "[Japer]\nIt seems they are unhappy with their current treatment. If not for me, they would not have had those jobs to begin with...",
+        "pt-BR": "[Japer]\nParece que eles não gostam do tratamento atual. Ora, se não fosse por mim, nem teriam conseguido esses empregos...",
+        "es-ES": "[Japer]\nParece que no están satisfechos con el trato actual. Si no fuera por mí, ni siquiera habrían conseguido ese trabajo..."
+    },
+    "5RkJDQ": {
+        "en-US": "[Japer]\nRather than feeling gratitude, the natives are full of victim mentality, and it makes my blood boil.",
+        "pt-BR": "[Japer]\nEm vez de gratidão, esses nativos estão cheios de ressentimento e vitimismo, e isso está me irritando profundamente.",
+        "es-ES": "[Japer]\nEn vez de agradecimiento, los nativos están llenos de complejo de víctima, y eso me pone de los nervios."
+    },
+    "5hkJDQ": {
+        "en-US": "[Japer]\nAs the scale of my business gradually grew, the number of native workers I employed also began to increase.",
+        "pt-BR": "[Japer]\nÀ medida que a escala dos meus negócios foi crescendo, o número de nativos empregados por isso também começou a aumentar.",
+        "es-ES": "[Japer]\nA medida que mi negocio fue creciendo, también empezó a aumentar la cantidad de trabajadores nativos que contrataba."
+    },
+    "5xkJDQ": {
+        "en-US": "[Japer]\nTo briefly explain the structure of my merchant guild, the duties assigned to natives and migrants are different.",
+        "pt-BR": "[Japer]\nFalando rapidamente sobre a estrutura da minha associação comercial, os cargos dados a nativos e imigrantes são diferentes.",
+        "es-ES": "[Japer]\nSi hablamos un poco de la composición de mi gremio de comerciantes, los cargos asignados a nativos e inmigrantes son distintos."
+    },
+    "6BkJDQ": {
+        "en-US": "[Japer]\nAnd the wages differ accordingly, that is all.",
+        "pt-BR": "[Japer]\nE apenas os salários pagos conforme isso são diferentes.",
+        "es-ES": "[Japer]\nY según eso, también varía el salario que reciben."
+    },
+    "6RkJDQ": {
+        "en-US": "[Japer]\nIt is only natural for management positions to be paid more, yet they see that as discrimination against natives...",
+        "pt-BR": "[Japer]\nPagar mais aos cargos de administração é algo comum, mas considerarem isso uma discriminação contra os nativos...",
+        "es-ES": "[Japer]\nEs normal que los puestos de gestión reciban mejor paga, pero ellos lo consideran discriminación hacia los nativos..."
+    },
+    "6hkJDQ": {
+        "en-US": "[Japer]\nIs it not only proper that those who possess more capital earn greater profits and that those entrusted with more difficult duties receive higher pay?",
+        "pt-BR": "[Japer]\nNão é natural que quem tem mais gere mais lucro e que quem assume funções mais difíceis receba mais?",
+        "es-ES": "[Japer]\n¿Acaso no es lógico que quien tiene más genere más beneficios y pague mejor a quien asume tareas más difíciles?"
+    },
+    "6xkJDQ": {
+        "en-US": "[Japer]\nI only hope the natives can understand my position.",
+        "pt-BR": "[Japer]\nEspero sinceramente que os nativos consigam compreender minha posição.",
+        "es-ES": "[Japer]\nOjalá los nativos pudieran entender mi postura."
+    },
+    "7BkJDQ": {
+        "en-US": "[Japer]\nNot long ago, due to the priests' intervention, restrictions were placed on the volume of goods I am allowed to sell.",
+        "pt-BR": "[Japer]\nHá pouco tempo, por intervenção dos sacerdotes, foi imposta uma limitação sobre a quantidade de mercadorias que posso vender.",
+        "es-ES": "[Japer]\nDesde hace poco, por la intervención de los sacerdotes, se me ha impuesto una limitación en la cantidad de mercancía que puedo vender."
+    },
+    "7RkJDQ": {
+        "en-US": "[Japer]\nOn top of that, it was decided that I should raise the wages of the natives I employ.",
+        "pt-BR": "[Japer]\nAlém disso, ficou decidido que eu deveria aumentar um pouco os salários dos nativos que empreguei.",
+        "es-ES": "[Japer]\nAdemás, se acordó aumentar un poco el salario de los nativos que tengo empleados."
+    },
+    "7hkJDQ": {
+        "en-US": "[Japer]\nFrom my standpoint, I have had to accept a considerable loss.",
+        "pt-BR": "[Japer]\nPara mim, isso significou aceitar um grande prejuízo.",
+        "es-ES": "[Japer]\nPara mí, eso supone aceptar pérdidas considerables."
+    },
+    "7xkJDQ": {
+        "en-US": "[Japer]\nOf course, there is some immediate financial loss, but the atmosphere in the market has improved.",
+        "pt-BR": "[Japer]\nClaro, financeiramente há uma pequena perda imediata, mas o clima do mercado melhorou bastante.",
+        "es-ES": "[Japer]\nClaro que a corto plazo hay una pequeña pérdida económica, pero el ambiente comercial ha mejorado mucho."
+    },
+    "8BkJDQ": {
+        "en-US": "[Japer]\nIn the long run, I do not think it is a bad outcome at all.",
+        "pt-BR": "[Japer]\nPensando no longo prazo, acho que o resultado não foi ruim de forma alguma.",
+        "es-ES": "[Japer]\nA largo plazo, no creo que sea un mal resultado en absoluto."
+    },
+    "8RkJDQ": {
+        "en-US": "[Japer]\nIt also made me think that perhaps I had been too selfish all this time.",
+        "pt-BR": "[Japer]\nTambém cheguei a pensar que talvez eu tenha sido egoísta demais.",
+        "es-ES": "[Japer]\nIncluso he llegado a pensar que quizá yo mismo no había sido demasiado egoísta."
+    },
+    "8hkJDQ": {
+        "en-US": "[Japer]\nAmong the goods I possess, there are quite a few kinds that I hold a monopoly on.",
+        "pt-BR": "[Japer]\nEntre os itens que possuo, há vários tipos que mantenho em monopólio.",
+        "es-ES": "[Japer]\nEntre las mercancías que poseo, hay bastantes tipos de los que tengo el monopolio."
+    },
+    "8xkJDQ": {
+        "en-US": "[Japer]\nIt is true that because of that, native merchants who could not compete have been struggling.",
+        "pt-BR": "[Japer]\nÉ verdade que, por causa disso, os comerciantes nativos que têm dificuldade em competir acabaram sofrendo.",
+        "es-ES": "[Japer]\nY es cierto que eso ha perjudicado a los comerciantes nativos, que apenas podían competir."
+    },
+    "9BkJDQ": {
+        "en-US": "[Japer]\nSo a system was created to prevent a single merchant from buying up all of certain goods.",
+        "pt-BR": "[Japer]\nPor isso, foi criado um sistema que impede um único comerciante de comprar todos os itens de um certo tipo.",
+        "es-ES": "[Japer]\nPor eso se ha creado una norma para impedir que un solo comerciante compre toda una mercancía concreta."
+    },
+    "9RkJDQ": {
+        "en-US": "[Japer]\nAnd it seems I will have to proceed in the direction of raising the wages of the native workers I employ as well.",
+        "pt-BR": "[Japer]\nAlém disso, parece que terei de seguir na direção de aumentar os salários dos nativos que empreguei.",
+        "es-ES": "[Japer]\nAdemás, parece que tendré que avanzar también hacia una subida salarial para los trabajadores nativos que he contratado."
+    },
+    "9hkJDQ": {
+        "en-US": "[Japer]\nIt is true that it is a great loss for now, but the market itself will become more 활발해질 테니 이왕 이렇게 되었으니 길게 봐야겠어.",
+        "pt-BR": "[Japer]\nÉ verdade que, por enquanto, isso representa uma grande perda, mas o mercado em si ficará ainda mais ativo, então agora que chegamos a esse ponto, preciso pensar no longo prazo.",
+        "es-ES": "[Japer]\nEs cierto que, de momento, supone una gran pérdida, pero el propio mercado será más activo, así que ya que hemos llegado a esto, será mejor verlo con perspectiva."
+    },
+    "9xkJDQ": {
+        "en-US": "[Japer]\nIt weighs on my mind somewhat, thinking that perhaps I had been too stubborn all this time.",
+        "pt-BR": "[Japer]\nSinto um pouco no coração que até agora fui teimoso demais.",
+        "es-ES": "[Japer]\nSiento cierta inquietud al pensar que quizá he sido demasiado terco todo este tiempo."
+    },
+    "+BkJDQ": {
+        "en-US": "[Japer]\nThis commotion gave me time to reflect a little on myself.",
+        "pt-BR": "[Japer]\nPor causa desta confusão, tive um tempo para refletir um pouco sobre mim mesmo.",
+        "es-ES": "[Japer]\nEste alboroto me ha dado algo de tiempo para reflexionar sobre mí mismo."
+    },
+    "+RkJDQ": {
+        "en-US": "[Japer]\nIt was no different from crushing a market made up mainly of natives with the power of capital.",
+        "pt-BR": "[Japer]\nAfinal, em um mercado formado principalmente por nativos, não foi diferente de esmagá-los com o poder do capital.",
+        "es-ES": "[Japer]\nPorque, en un mercado compuesto sobre todo por nativos, no era muy distinto de aplastarlos con la fuerza del capital."
+    },
+    "+hkJDQ": {
+        "en-US": "[Japer]\nSo in the end, I can no longer monopolize goods, and I have decided to raise the wages of the native workers I hired.",
+        "pt-BR": "[Japer]\nPor isso, no fim, não poderei mais monopolizar mercadorias e também decidi aumentar os salários dos nativos que empreguei.",
+        "es-ES": "[Japer]\nAsí que, al final, ya no podré monopolizar mercancías y también he decidido subir el salario de los trabajadores nativos que he contratado."
+    },
+    "+xkJDQ": {
+        "en-US": "[Japer]\nTo be honest, I am angry because it feels like I am suffering too much loss, but when I think about the natives' position, I can understand it to some extent.",
+        "pt-BR": "[Japer]\nNa verdade, é verdade que fico irritado por sentir que estou sofrendo prejuízo demais, mas quando penso na posição dos nativos, também consigo aceitar isso até certo ponto.",
+        "es-ES": "[Japer]\nLa verdad es que me enfada sentir que estoy saliendo demasiado perjudicado, pero si pienso en la posición de los nativos, hay cosas que puedo comprender hasta cierto punto."
+    },
+    "/BkJDQ": {
+        "en-US": "[Japer]\nIf time passes and the market as a whole develops, then it will not be such a bad thing for me either...",
+        "pt-BR": "[Japer]\nSe, com o passar do tempo, o mercado como um todo se desenvolver, então isso também não será algo ruim para mim...",
+        "es-ES": "[Japer]\nSi con el tiempo el mercado en su conjunto termina desarrollándose, tampoco será algo tan malo para mí..."
+    },
+    "/RkJDQ": {
+        "en-US": "[Japer]\nYes, it is for the best. That is how I should think of it.",
+        "pt-BR": "[Japer]\nSim, foi uma boa coisa. É assim que devo pensar.",
+        "es-ES": "[Japer]\nSí, es algo positivo. Debo pensar así."
+    },
+    "/hkJDQ": {
+        "en-US": "[Japer]\nThen let us meet again next time.",
+        "pt-BR": "[Japer]\nEntão, nos veremos de novo.",
+        "es-ES": "[Japer]\nEntonces, volvamos a vernos en otra ocasión."
+    },
+    "/xkJDQ": {
+        "en-US": "- Finished conversation with Japer. -",
+        "pt-BR": "- A conversa com Japer terminou. -",
+        "es-ES": "- Has terminado la conversación con Japer. -"
+    },
+    "ABoJDQ": {
+        "en-US": "[Japer]\nIt is because I maintained my methods that I was able to build up my wealth.",
+        "pt-BR": "[Japer]\nFoi mantendo o meu próprio jeito de fazer as coisas que consegui acumular riqueza.",
+        "es-ES": "[Japer]\nHe acumulado mi riqueza precisamente porque he mantenido mi forma de hacer las cosas."
+    },
+    "ARoJDQ": {
+        "en-US": "[Japer]\nThey are misunderstanding me.",
+        "pt-BR": "[Japer]\nSão eles que estão me entendendo mal.",
+        "es-ES": "[Japer]\nSon ellos quienes me están malinterpretando."
+    },
+    "AhoJDQ": {
+        "en-US": "[Japer]\nTo place a limit on sales quantities...",
+        "pt-BR": "[Japer]\nLimitar a quantidade vendida...",
+        "es-ES": "[Japer]\n¿Poner un límite a la cantidad de ventas...?"
+    },
+    "AxoJDQ": {
+        "en-US": "[Japer]\nThis is truly troublesome...",
+        "pt-BR": "[Japer]\nIsso realmente me complica...",
+        "es-ES": "[Japer]\nEsto sí que es problemático..."
+    },
+    "BBoJDQ": {
+        "en-US": "[Japer]\nWell, the surrounding merchants have to survive for me to survive as well.",
+        "pt-BR": "[Japer]\nBem, se os comerciantes ao redor vivem, eu também vivo.",
+        "es-ES": "[Japer]\nBueno, si los comerciantes de alrededor sobreviven, yo también sobreviviré."
+    },
+    "BRoJDQ": {
+        "en-US": "[Japer]\nI shall cheer up and do my best again!!!",
+        "pt-BR": "[Japer]\nVou me animar de novo e fazer dar certo!!!",
+        "es-ES": "[Japer]\n¡Volveré a esforzarme y saldrá bien!"
+    },
+    "BhoJDQ": {
+        "en-US": "Siroan",
+        "pt-BR": "Siroan",
+        "es-ES": "Siroan"
+    },
+    "BxoJDQ": {
+        "en-US": "[Siroan]\nHello, I am Siroan, Mr. Japer's apprentice.",
+        "pt-BR": "[Siroan]\nOlá, sou Siroan, discípulo do senhor Japer.",
+        "es-ES": "[Siroan]\nHola, soy Siroan, discípulo del señor Japer."
+    },
+    "CBoJDQ": {
+        "en-US": "[Siroan]\nThis village has been rather chaotic lately, has it not? Please be careful.",
+        "pt-BR": "[Siroan]\nEsta vila anda muito tumultuada ultimamente, não é? Tome cuidado ao andar por aí.",
+        "es-ES": "[Siroan]\nEste pueblo está bastante revuelto últimamente, ¿verdad? Ande con cuidado."
+    },
+    "CRoJDQ": {
+        "en-US": "[Siroan]\nIt seems that large and small quarrels are breaking out everywhere.",
+        "pt-BR": "[Siroan]\nParece que pequenas e grandes brigas estão acontecendo por toda parte.",
+        "es-ES": "[Siroan]\nParece que están ocurriendo disputas grandes y pequeñas por todas partes."
+    },
+    "ChoJDQ": {
+        "en-US": "[Siroan]\nI am also a little worried that I might get caught up in them.",
+        "pt-BR": "[Siroan]\nTambém fico um pouco inquieto com medo de acabar me envolvendo nisso.",
+        "es-ES": "[Siroan]\nYo también estoy un poco preocupado por si termino viéndome envuelto en ello."
+    },
+    "CxoJDQ": {
+        "en-US": "[Siroan]\nWith the priests' intervention, the marketplace seems to be gradually changing.",
+        "pt-BR": "[Siroan]\nParece que, com a intervenção dos sacerdotes, o mercado está começando a mudar aos poucos.",
+        "es-ES": "[Siroan]\nParece que, con la intervención de los sacerdotes, el mercado está empezando a cambiar poco a poco."
+    },
+    "DBoJDQ": {
+        "en-US": "[Siroan]\nI hope it goes well.",
+        "pt-BR": "[Siroan]\nEspero que tudo corra bem.",
+        "es-ES": "[Siroan]\nEspero que todo salga bien."
+    },
+    "DRoJDQ": {
+        "en-US": "[Siroan]\nHello.",
+        "pt-BR": "[Siroan]\nOlá.",
+        "es-ES": "[Siroan]\nHola."
+    },
+    "DhoJDQ": {
+        "en-US": "[Siroan]\nI am Siroan, Mr. Japer's apprentice.",
+        "pt-BR": "[Siroan]\nSou Siroan, discípulo do senhor Japer.",
+        "es-ES": "[Siroan]\nSoy Siroan, discípulo del señor Japer."
+    },
+    "DxoJDQ": {
+        "en-US": "[Siroan]\nI have always followed Mr. Japer.",
+        "pt-BR": "[Siroan]\nSempre acompanhei o senhor Japer.",
+        "es-ES": "[Siroan]\nSiempre he seguido al señor Japer."
+    },
+    "EBoJDQ": {
+        "en-US": "[Siroan]\nThere is truly much to learn from his excellent business skills.",
+        "pt-BR": "[Siroan]\nHá realmente muito a aprender com sua excelente habilidade para os negócios.",
+        "es-ES": "[Siroan]\nSu gran talento para los negocios tiene mucho que enseñar."
+    },
+    "ERoJDQ": {
+        "en-US": "[Siroan]\nBut at times, he can be far too unreasonable.",
+        "pt-BR": "[Siroan]\nMas, às vezes, ele também força demais as coisas.",
+        "es-ES": "[Siroan]\nPero a veces insiste demasiado en imponer su voluntad."
+    },
+    "EhoJDQ": {
+        "en-US": "[Siroan]\nBecause of that, his disputes with the natives he employs have become frequent.",
+        "pt-BR": "[Siroan]\nPor causa disso, as brigas com os nativos que ele empregou acabaram se tornando frequentes.",
+        "es-ES": "[Siroan]\nY por eso las disputas con los nativos que emplea se han vuelto frecuentes."
+    },
+    "ExoJDQ": {
+        "en-US": "[Siroan]\nHe is so stubborn that he will not even listen to me... I am worried.",
+        "pt-BR": "[Siroan]\nEle é tão teimoso que nem sequer ouve o que eu digo... estou preocupado.",
+        "es-ES": "[Siroan]\nEs tan terco que ni siquiera escucha lo que le digo... me preocupa."
+    },
+    "FBoJDQ": {
+        "en-US": "[Siroan]\nThings have been rather chaotic here lately, have they not? To be honest, the atmosphere is truly awful, because the friction between migrants and natives is so severe.",
+        "pt-BR": "[Siroan]\nUltimamente, este lugar anda muito tumultuado, não é? Sinceramente, o clima está realmente péssimo, porque o atrito entre imigrantes e nativos é muito forte.",
+        "es-ES": "[Siroan]\nÚltimamente todo está muy revuelto por aquí, ¿verdad? Sinceramente, el ambiente es muy malo, porque la fricción entre inmigrantes y nativos es muy intensa."
+    },
+    "FRoJDQ": {
+        "en-US": "[Siroan]\nThat friction appears in the marketplace as well, and Mr. Japer is having a hard time because he is entangled in it.",
+        "pt-BR": "[Siroan]\nEsse atrito também aparece da mesma forma no mercado. O senhor Japer também está envolvido nisso e vem sofrendo bastante.",
+        "es-ES": "[Siroan]\nEsa fricción también se refleja en el mercado, y el señor Japer también está sufriendo por verse involucrado en ello."
+    },
+    "FhoJDQ": {
+        "en-US": "[Siroan]\nLately, there have been signs that the priests intend to intervene in the marketplace within Rachel.",
+        "pt-BR": "[Siroan]\nHá algum tempo, começou a surgir um movimento por parte dos sacerdotes para intervir no mercado de Rachel.",
+        "es-ES": "[Siroan]\nDesde hace algún tiempo, parece que los sacerdotes están intentando intervenir en el mercado de Rachel."
+    },
+    "FxoJDQ": {
+        "en-US": "[Siroan]\nFor now, I heard that certain restrictions will be placed on the sale of goods.",
+        "pt-BR": "[Siroan]\nOuvi dizer, antes de tudo, que haverá certas restrições na venda de mercadorias.",
+        "es-ES": "[Siroan]\nPor ahora, he oído que se impondrán ciertas limitaciones a la venta de mercancías."
+    },
+    "GBoJDQ": {
+        "en-US": "[Siroan]\nOn top of that, he has also received demands to raise the wages of the natives he employs.",
+        "pt-BR": "[Siroan]\nAlém disso, ele também recebeu a exigência de aumentar os salários dos nativos que emprega.",
+        "es-ES": "[Siroan]\nAdemás, le han pedido que aumente el salario de los nativos que tiene empleados."
+    },
+    "GRoJDQ": {
+        "en-US": "[Siroan]\nHmm, I do wonder whether Mr. Japer will go along with that.",
+        "pt-BR": "[Siroan]\nHum, sinceramente, duvido que o senhor Japer vá aceitar isso.",
+        "es-ES": "[Siroan]\nHmm, la verdad es que dudo que el señor Japer vaya a aceptar eso."
+    },
+    "GhoJDQ": {
+        "en-US": "[Siroan]\nI was rather surprised that Mr. Japer accepted the priests' proposal.",
+        "pt-BR": "[Siroan]\nFiquei um pouco surpreso ao saber que o senhor Japer aceitou a proposta dos sacerdotes.",
+        "es-ES": "[Siroan]\nMe sorprendió un poco que el señor Japer aceptara la propuesta de los sacerdotes."
+    },
+    "GxoJDQ": {
+        "en-US": "[Siroan]\nHe was never someone who would bend his stubbornness once he had made a decision.",
+        "pt-BR": "[Siroan]\nAfinal, ele era o tipo de pessoa que jamais cedia depois de tomar uma decisão.",
+        "es-ES": "[Siroan]\nSiempre había sido una persona que jamás cedía una vez que tomaba una decisión."
+    },
+    "HBoJDQ": {
+        "en-US": "[Siroan]\nHe has always been a rational person, so I believe he made a wise choice.",
+        "pt-BR": "[Siroan]\nEle sempre foi uma pessoa racional, então acredito que fez uma escolha sábia.",
+        "es-ES": "[Siroan]\nComo siempre ha sido alguien razonable, yo creo que ha tomado una decisión sabia."
+    },
+    "HRoJDQ": {
+        "en-US": "[Siroan]\nOn top of that, the friction with the native merchants has decreased considerably, so I think it was for the best.",
+        "pt-BR": "[Siroan]\nAlém disso, o atrito com os comerciantes nativos também diminuiu bastante, então acho que foi uma boa coisa.",
+        "es-ES": "[Siroan]\nAdemás, las fricciones con los comerciantes nativos también han disminuido mucho, así que creo que ha sido para bien."
+    },
+    "HhoJDQ": {
+        "en-US": "[Siroan]\nIt seems fortunate.",
+        "pt-BR": "[Siroan]\nAinda bem.",
+        "es-ES": "[Siroan]\nMe alegro de que así sea."
+    },
+    "HxoJDQ": {
+        "en-US": "[Siroan]\nHave you perhaps heard the story of the person who was splashed with water by the natives?",
+        "pt-BR": "[Siroan]\nPor acaso você já ouviu a história da pessoa que levou um balde d'água jogado pelos nativos?",
+        "es-ES": "[Siroan]\n¿Ha oído hablar de la persona a la que unos nativos echaron un cubo de agua encima?"
+    },
+    "IBoJDQ": {
+        "en-US": "[Siroan]\nYes, that person was me...",
+        "pt-BR": "[Siroan]\nSim, essa pessoa sou eu...",
+        "es-ES": "[Siroan]\nSí, esa persona fui yo..."
+    },
+    "IRoJDQ": {
+        "en-US": "[Siroan]\nIt was a matter that should have been settled directly with Mr. Japer.",
+        "pt-BR": "[Siroan]\nEra uma questão que deveria ter sido resolvida diretamente com o senhor Japer.",
+        "es-ES": "[Siroan]\nEra un asunto que debían resolver directamente con el señor Japer."
+    },
+    "IhoJDQ": {
+        "en-US": "[Siroan]\nThey must have found it uncomfortable to approach the closed-minded Mr. Japer recklessly, so they took it out on easygoing me instead...",
+        "pt-BR": "[Siroan]\nComo é desconfortável se aproximar precipitadamente do senhor Japer, que é tão cabeça-dura, devem ter feito isso comigo por eu parecer mais fácil de enfrentar...",
+        "es-ES": "[Siroan]\nComo les resultaba incómodo acercarse sin más al señor Japer, que es tan cerrado, supongo que la tomaron conmigo, que era un blanco más fácil..."
+    },
+    "IxoJDQ": {
+        "en-US": "[Siroan]\nBut now, our interests seem to align to some extent, so I think I can walk around without worry.",
+        "pt-BR": "[Siroan]\nMas agora parece que, até certo ponto, os interesses de ambas as partes entraram em acordo, então acho que poderei andar por aí com tranquilidade.",
+        "es-ES": "[Siroan]\nPero ahora parece que, hasta cierto punto, los intereses de ambas partes coinciden, así que creo que ya podré moverme con tranquilidad."
+    },
+    "JBoJDQ": {
+        "en-US": "[Siroan]\nIt turned out well.",
+        "pt-BR": "[Siroan]\nQue bom que deu certo.",
+        "es-ES": "[Siroan]\nMe alegra que haya salido bien."
+    },
+    "JRoJDQ": {
+        "en-US": "[Siroan]\nI am truly relieved that Mr. Japer finally gave up his stubbornness.",
+        "pt-BR": "[Siroan]\nAcho realmente uma sorte que o senhor Japer finalmente tenha deixado a teimosia de lado.",
+        "es-ES": "[Siroan]\nMe parece una gran suerte que el señor Japer finalmente haya cedido."
+    },
+    "JhoJDQ": {
+        "en-US": "[Siroan]\nIt is not that I could not understand Mr. Japer's position, but I could also understand the natives' position.",
+        "pt-BR": "[Siroan]\nNão é que eu não entendesse a posição do senhor Japer, mas eu também entendia a posição dos nativos.",
+        "es-ES": "[Siroan]\nNo es que no pudiera entender la postura del señor Japer, pero también comprendía la de los nativos."
+    },
+    "JxoJDQ": {
+        "en-US": "[Siroan]\nSo I was always the one caught in the middle.",
+        "pt-BR": "[Siroan]\nPor isso, eu sempre acabava sendo quem mais sofria no meio de tudo.",
+        "es-ES": "[Siroan]\nAsí que yo siempre era el que acababa recibiendo las consecuencias."
+    },
+    "KBoJDQ": {
+        "en-US": "[Siroan]\nNow it seems they have reached some kind of agreement, so things should get better.",
+        "pt-BR": "[Siroan]\nAgora parece que houve algum nível de acordo entre as duas partes, então acho que as coisas vão melhorar.",
+        "es-ES": "[Siroan]\nAhora parece que han llegado a cierto acuerdo entre ambas partes, así que creo que las cosas mejorarán."
+    },
+    "KRoJDQ": {
+        "en-US": "[Siroan]\nMy mind is at ease now.",
+        "pt-BR": "[Siroan]\nFiquei mais tranquilo.",
+        "es-ES": "[Siroan]\nMe siento aliviado."
+    },
+    "KhoJDQ": {
+        "en-US": "[Siroan]\nThen, I wish you a peaceful day.",
+        "pt-BR": "[Siroan]\nEntão, espero que tenha um dia tranquilo.",
+        "es-ES": "[Siroan]\nLe deseo un día en paz."
+    },
+    "KxoJDQ": {
+        "en-US": "- Finished conversation with Siroan. -",
+        "pt-BR": "- A conversa com Siroan terminou. -",
+        "es-ES": "- Has terminado la conversación con Siroan. -"
+    },
+    "LBoJDQ": {
+        "en-US": "[Siroan]\nI hope Mr. Japer will stop fighting.",
+        "pt-BR": "[Siroan]\nEspero que o senhor Japer não brigue mais.",
+        "es-ES": "[Siroan]\nOjalá el señor Japer deje de pelearse."
+    },
+    "LRoJDQ": {
+        "en-US": "[Siroan]\nWill Mr. Japer really accept the proposal?",
+        "pt-BR": "[Siroan]\nSerá que o senhor Japer vai aceitar a proposta?",
+        "es-ES": "[Siroan]\n¿Aceptará de verdad la propuesta el señor Japer?"
+    },
+    "LhoJDQ": {
+        "en-US": "[Siroan]\nIn the end, I think it turned out well.",
+        "pt-BR": "[Siroan]\nNo fim das contas, acho que foi uma boa coisa.",
+        "es-ES": "[Siroan]\nAl final, creo que ha sido para bien."
+    },
+    "LxoJDQ": {
+        "en-US": "Ishira",
+        "pt-BR": "Ishira",
+        "es-ES": "Ishira"
+    },
+    "MBoJDQ": {
+        "en-US": "[Ishira]\nHello, my name is Ishira.",
+        "pt-BR": "[Ishira]\nOlá, sou Ishira.",
+        "es-ES": "[Ishira]\nHola, me llamo Ishira."
+    },
+    "MRoJDQ": {
+        "en-US": "[Ishira]\nThings around here have been quite noisy lately, so please do be careful.",
+        "pt-BR": "[Ishira]\nUltimamente, tudo ao redor anda muito barulhento, então por favor tome cuidado ao andar por aí.",
+        "es-ES": "[Ishira]\nÚltimamente todo está muy agitado por aquí, así que le ruego que ande con cuidado."
+    },
+    "MhoJDQ": {
+        "en-US": "[Ishira]\nHello.",
+        "pt-BR": "[Ishira]\nOlá.",
+        "es-ES": "[Ishira]\nHola."
+    },
+    "MxoJDQ": {
+        "en-US": "[Ishira]\nThings around here are noisy these days because of the conflict between the natives and the migrants.",
+        "pt-BR": "[Ishira]\nUltimamente, tudo ao redor anda barulhento por causa do conflito entre os nativos e os imigrantes.",
+        "es-ES": "[Ishira]\nÚltimamente, todo está revuelto por los conflictos entre los nativos y los inmigrantes."
+    },
+    "NBoJDQ": {
+        "en-US": "[Ishira]\nPlease be careful not to get caught up in it and suffer misfortune as well, Adventurer.",
+        "pt-BR": "[Ishira]\nAventureiro, tome cuidado para não acabar se envolvendo nisso e passar por maus bocados.",
+        "es-ES": "[Ishira]\nProcure no verse envuelto en ello ni sufrir ninguna desgracia, aventurero."
+    },
+    "NRoJDQ": {
+        "en-US": "[Ishira]\nWill this reduce the conflict a little?",
+        "pt-BR": "[Ishira]\nSerá que isso vai reduzir um pouco o conflito?",
+        "es-ES": "[Ishira]\n¿Con esto disminuirán un poco los conflictos?"
+    },
+    "NhoJDQ": {
+        "en-US": "[Ishira]\nI hope we can get through these difficult times without any major problems.",
+        "pt-BR": "[Ishira]\nEspero que possamos atravessar este período difícil sem maiores problemas.",
+        "es-ES": "[Ishira]\nEspero que podamos superar estos tiempos difíciles sin mayores problemas."
+    },
+    "NxoJDQ": {
+        "en-US": "[Ishira]\nHello, pleased to meet you. My name is Ishira.",
+        "pt-BR": "[Ishira]\nOlá, prazer em conhecê-lo. Sou Ishira.",
+        "es-ES": "[Ishira]\nHola, encantado. Me llamo Ishira."
+    },
+    "OBoJDQ": {
+        "en-US": "[Ishira]\nI am a devout follower of Lady Freyja.",
+        "pt-BR": "[Ishira]\nSou uma fiel devota de Freya.",
+        "es-ES": "[Ishira]\nSoy un devoto fiel de Lady Freyja."
+    },
+    "ORoJDQ": {
+        "en-US": "[Ishira]\nThe atmosphere in the Holy State has been quite unsettled recently, has it not?",
+        "pt-BR": "[Ishira]\nUltimamente, o clima na cidade sagrada anda tumultuado, não é?",
+        "es-ES": "[Ishira]\nÚltimamente el ambiente en la ciudad sagrada está bastante revuelto, ¿verdad?"
+    },
+    "OhoJDQ": {
+        "en-US": "[Ishira]\nI had not really felt it myself, but from what I have heard lately, it seems the conflict between the natives and the migrants has reached an extreme.",
+        "pt-BR": "[Ishira]\nEu não estava sentindo isso tão diretamente, mas pelo que ouvi sobre a situação recente, parece que o conflito entre nativos e imigrantes chegou ao extremo.",
+        "es-ES": "[Ishira]\nNo lo había sentido mucho en carne propia, pero por lo que he oído últimamente, parece que el conflicto entre los nativos y los inmigrantes ha llegado a un punto extremo."
+    },
+    "OxoJDQ": {
+        "en-US": "[Ishira]\nEven though the barren land was cultivated by the Goddess's grace and turned into fertile soil to give us a way to live...",
+        "pt-BR": "[Ishira]\nMesmo tendo transformado esta terra árida em solo fértil com a graça da deusa, criando assim um meio de sustento...",
+        "es-ES": "[Ishira]\nSi ya habíamos tomado unas tierras estériles y, con la gracia de la diosa, las habíamos convertido en un suelo fértil para que todos pudieran ganarse la vida..."
+    },
+    "PBoJDQ": {
+        "en-US": "[Ishira]\nShould they not be grateful to us instead??",
+        "pt-BR": "[Ishira]\nNão deveriam, ao contrário, ser gratos a nós??",
+        "es-ES": "[Ishira]\n¿No deberían más bien estar agradecidos con nosotros?"
+    },
+    "PRoJDQ": {
+        "en-US": "[Ishira]\nEven so, that disturbance that happened not long ago... Sigh...",
+        "pt-BR": "[Ishira]\nAinda assim, a confusão que aconteceu há algum tempo... ah...",
+        "es-ES": "[Ishira]\nY aun así, el alboroto que ocurrió hace poco... ay..."
+    },
+    "PhoJDQ": {
+        "en-US": "[Ishira]\nI truly do not understand what they are so dissatisfied about.",
+        "pt-BR": "[Ishira]\nEu realmente não entendo do que reclamam tanto.",
+        "es-ES": "[Ishira]\nLa verdad es que no entiendo qué les desagrada tanto."
+    },
+    "PxoJDQ": {
+        "en-US": "[Ishira]\nHello, I am Ishira.",
+        "pt-BR": "[Ishira]\nOlá, sou Ishira.",
+        "es-ES": "[Ishira]\nHola, soy Ishira."
+    },
+    "QBoJDQ": {
+        "en-US": "[Ishira]\nThese days, things are not as overheated as they were then, but it is still disorderly here and there.",
+        "pt-BR": "[Ishira]\nUltimamente, não está mais naquele nível de tensão exagerada de antes, mas ainda assim a situação por aqui continua tumultuada.",
+        "es-ES": "[Ishira]\nÚltimamente ya no se siente un ambiente tan exaltado como entonces, pero aun así la situación sigue revuelta en varios lugares."
+    },
+    "QRoJDQ": {
+        "en-US": "[Ishira]\nEven so, it seems large and small quarrels still keep breaking out.",
+        "pt-BR": "[Ishira]\nMesmo assim, parece que pequenas e grandes brigas continuam acontecendo.",
+        "es-ES": "[Ishira]\nAun así, parece que siguen produciéndose disputas grandes y pequeñas."
+    },
+    "QhoJDQ": {
+        "en-US": "[Ishira]\nNot long ago, I heard that a migrant was walking along the road when water was suddenly splashed on them from somewhere.",
+        "pt-BR": "[Ishira]\nOuvi dizer que, há algum tempo, um imigrante estava andando pela rua quando foi atingido por um balde d'água jogado de algum lugar.",
+        "es-ES": "[Ishira]\nHace poco oí que a un inmigrante que caminaba por la calle le cayó encima un cubo de agua lanzado desde algún lugar."
+    },
+    "QxoJDQ": {
+        "en-US": "[Ishira]\nThe culprit was never found, but the atmosphere is that it was almost certainly the doing of a native.",
+        "pt-BR": "[Ishira]\nNão encontraram o culpado, mas o clima é de quase certeza de que foi obra de um nativo.",
+        "es-ES": "[Ishira]\nNo encontraron al culpable, pero el ambiente apunta con bastante certeza a que fue obra de un nativo."
+    },
+    "RBoJDQ": {
+        "en-US": "[Ishira]\nI wonder how much resentment they must have had to do such a thing. It is quite hard to understand.",
+        "pt-BR": "[Ishira]\nQuanta insatisfação essa pessoa devia ter para fazer uma coisa dessas? Realmente é difícil de entender.",
+        "es-ES": "[Ishira]\nCuánto descontento debían de tener para llegar a eso. La verdad, me cuesta entenderlo."
+    },
+    "RRoJDQ": {
+        "en-US": "[Ishira]\nHello, have you been well?",
+        "pt-BR": "[Ishira]\nOlá, tem passado bem?",
+        "es-ES": "[Ishira]\nHola, ¿ha estado bien?"
+    },
+    "RhoJDQ": {
+        "en-US": "[Ishira]\nNot long ago, I had the opportunity to speak with some natives.",
+        "pt-BR": "[Ishira]\nHá algum tempo, tive a oportunidade de conversar com os nativos.",
+        "es-ES": "[Ishira]\nHace poco tuve la oportunidad de hablar con algunos nativos."
+    },
+    "RxoJDQ": {
+        "en-US": "[Ishira]\nI came to realize that the injustices they had experienced were far greater than I had thought.",
+        "pt-BR": "[Ishira]\nAssim, pude perceber que as injustiças que eles sofreram eram muito maiores do que eu imaginava.",
+        "es-ES": "[Ishira]\nY pude darme cuenta de que las injusticias que habían sufrido eran mucho mayores de lo que yo había imaginado."
+    },
+    "SBoJDQ": {
+        "en-US": "[Ishira]\nExcessive unpaid wages, abuse of employees... and I heard that violent retaliation can even arise because of such things.",
+        "pt-BR": "[Ishira]\nAtrasos excessivos no pagamento de salários, maus-tratos aos empregados... e ouvi dizer que, por causa disso, às vezes até ocorrem represálias violentas.",
+        "es-ES": "[Ishira]\nRetrasos excesivos en el pago de salarios, maltrato a los empleados... y, según oí, eso incluso había provocado represalias violentas."
+    },
+    "SRoJDQ": {
+        "en-US": "[Ishira]\nSince these issues are difficult for the parties themselves to resolve directly, the priests, including Suad and Mairam, have begun to intervene.",
+        "pt-BR": "[Ishira]\nEsses problemas são difíceis de resolver diretamente entre as próprias partes, por isso os sacerdotes, incluindo Suad e Mayram, começaram a intervir.",
+        "es-ES": "[Ishira]\nComo estos problemas eran difíciles de resolver directamente entre las partes, los sacerdotes, entre ellos Suad y Myram, comenzaron a intervenir."
+    },
+    "ShoJDQ": {
+        "en-US": "[Ishira]\nThey said they would do their best to ensure the natives' basic rights are equal to those of the migrants, and I am in favor of that as well.",
+        "pt-BR": "[Ishira]\nEles disseram que fariam o possível para que os direitos básicos dos nativos fossem equiparados aos dos imigrantes, e eu também sou a favor disso.",
+        "es-ES": "[Ishira]\nDijeron que harían todo lo posible para que los derechos básicos de los nativos fueran iguales a los de los inmigrantes, y yo también estoy de acuerdo con ello."
+    },
+    "SxoJDQ": {
+        "en-US": "[Ishira]\nBecause of the priests' intervention, the atmosphere in the village is gradually changing.",
+        "pt-BR": "[Ishira]\nCom a intervenção dos sacerdotes, o clima da vila está mudando aos poucos.",
+        "es-ES": "[Ishira]\nCon la intervención de los sacerdotes, el ambiente del pueblo está cambiando poco a poco."
+    },
+    "TBoJDQ": {
+        "en-US": "[Ishira]\nIf you put yourself in their shoes, they had every reason to feel they had been treated unfairly.",
+        "pt-BR": "[Ishira]\nSe eu me colocar no lugar deles, dá para entender perfeitamente por que sentiram que estavam recebendo um tratamento injusto.",
+        "es-ES": "[Ishira]\nSi uno se pone en su lugar, es comprensible que sintieran que habían recibido un trato injusto."
+    },
+    "TRoJDQ": {
+        "en-US": "[Ishira]\nI think they had more than enough reason to be angry at that speech from not long ago.",
+        "pt-BR": "[Ishira]\nAcho que, no discurso que houve há algum tempo, eles tinham razões suficientes para se enfurecer.",
+        "es-ES": "[Ishira]\nCreo que, en el discurso de hace poco, tenían motivos suficientes para enfurecerse."
+    },
+    "ThoJDQ": {
+        "en-US": "[Ishira]\nBut it is also true that they went too far. At the very least, they should not resort to violence!",
+        "pt-BR": "[Ishira]\nMas também é verdade que passaram dos limites. Pelo menos, não deveriam recorrer à violência!",
+        "es-ES": "[Ishira]\nPero también es cierto que se excedieron. ¡Al menos no deberían recurrir a la violencia!"
+    },
+    "TxoJDQ": {
+        "en-US": "[Ishira]\nIn any case, I hope the relationship between the natives and the migrants gradually improves.",
+        "pt-BR": "[Ishira]\nDe qualquer forma, espero que a relação entre nativos e imigrantes melhore aos poucos.",
+        "es-ES": "[Ishira]\nEn cualquier caso, deseo que la relación entre nativos e inmigrantes mejore poco a poco."
+    },
+    "UBoJDQ": {
+        "en-US": "[Ishira]\nStill, do the streets not seem comparatively quieter these days?",
+        "pt-BR": "[Ishira]\nMesmo assim, ultimamente as ruas não estão relativamente menos barulhentas?",
+        "es-ES": "[Ishira]\nAun así, últimamente las calles están algo menos ruidosas, ¿no le parece?"
+    },
+    "URoJDQ": {
+        "en-US": "[Ishira]\nThe priests have worked very hard, and as a result, the conflict between natives and migrants is on the decline.",
+        "pt-BR": "[Ishira]\nOs sacerdotes se esforçaram bastante, mas, no fim das contas, a tendência é que o conflito entre nativos e imigrantes esteja diminuindo.",
+        "es-ES": "[Ishira]\nLos sacerdotes han trabajado muy duro, pero al final la tendencia es que los conflictos entre nativos e inmigrantes están disminuyendo."
+    },
+    "UhoJDQ": {
+        "en-US": "[Ishira]\nI have not experienced the conflict directly myself, but I was always anxious that something might happen to me as well.",
+        "pt-BR": "[Ishira]\nEu nunca vivi esse conflito diretamente, mas sempre fiquei ansiosa, pensando se algo também poderia acontecer comigo.",
+        "es-ES": "[Ishira]\nYo no he vivido esos conflictos de forma directa, pero siempre me preocupaba que pudiera pasarme algo a mí también."
+    },
+    "UxoJDQ": {
+        "en-US": "[Ishira]\nStill, I think it is too early to feel completely at ease.",
+        "pt-BR": "[Ishira]\nAinda assim, acho que é cedo demais para ficar completamente tranquila.",
+        "es-ES": "[Ishira]\nAun así, creo que todavía es pronto para sentirse completamente tranquilo."
+    },
+    "VBoJDQ": {
+        "en-US": "[Ishira]\nThings will gradually improve.",
+        "pt-BR": "[Ishira]\nDaqui para frente, tudo vai melhorar aos poucos, não é?",
+        "es-ES": "[Ishira]\nPoco a poco irá mejorando."
+    },
+    "VRoJDQ": {
+        "en-US": "[Ishira]\nThen, I wish you a peaceful day.",
+        "pt-BR": "[Ishira]\nEntão, tenha um dia tranquilo.",
+        "es-ES": "[Ishira]\nLe deseo un día en paz."
+    },
+    "VhoJDQ": {
+        "en-US": "- Finished conversation with Ishira. -",
+        "pt-BR": "- A conversa com Ishira terminou. -",
+        "es-ES": "- Has terminado la conversación con Ishira. -"
+    },
+    "VxoJDQ": {
+        "en-US": "[Ishira]\nThe natives must have received many benefits thanks to the migrants...",
+        "pt-BR": "[Ishira]\nOs nativos devem ter recebido muitos benefícios graças aos imigrantes...",
+        "es-ES": "[Ishira]\nSeguro que los nativos han recibido muchos beneficios gracias a los inmigrantes..."
+    },
+    "WBoJDQ": {
+        "en-US": "[Ishira]\nI really do not understand why they are behaving this way.",
+        "pt-BR": "[Ishira]\nRealmente não entendo por que agem assim.",
+        "es-ES": "[Ishira]\nNo entiendo muy bien por qué se comportan así."
+    },
+    "WRoJDQ": {
+        "en-US": "[Ishira]\nSurely I am not going to get splashed with water from somewhere too, am I?",
+        "pt-BR": "[Ishira]\nSerá que eu também vou acabar levando um balde d'água jogado de algum lugar?",
+        "es-ES": "[Ishira]\nA mí no me caerá también un cubo de agua desde algún sitio, ¿verdad?"
+    },
+    "WhoJDQ": {
+        "en-US": "[Ishira]\nI hope for peaceful days without fighting.",
+        "pt-BR": "[Ishira]\nEspero que possamos passar dias tranquilos, sem brigas.",
+        "es-ES": "[Ishira]\nOjalá podamos pasar días tranquilos sin peleas."
+    },
+    "WxoJDQ": {
+        "en-US": "Gina",
+        "pt-BR": "Gina",
+        "es-ES": "Gina"
+    },
+    "XBoJDQ": {
+        "en-US": "[Gina]\nHello.",
+        "pt-BR": "[Gina]\nOlá.",
+        "es-ES": "[Gina]\nHola."
+    },
+    "XRoJDQ": {
+        "en-US": "[Gina]\nI am Gina, a migrant.",
+        "pt-BR": "[Gina]\nSou Gina, uma imigrante.",
+        "es-ES": "[Gina]\nSoy Gina, una inmigrante."
+    },
+    "XhoJDQ": {
+        "en-US": "[Gina]\nI am engaged in various activities in this region.",
+        "pt-BR": "[Gina]\nAtualmente, estou envolvida em várias atividades nesta região.",
+        "es-ES": "[Gina]\nEstoy realizando varias actividades en esta zona."
+    },
+    "XxoJDQ": {
+        "en-US": "[Gina]\nI really do not understand why people are building up resentment toward me.",
+        "pt-BR": "[Gina]\nRealmente não entendo por que as pessoas estão acumulando tanta insatisfação contra mim.",
+        "es-ES": "[Gina]\nLa verdad es que no entiendo por qué la gente está acumulando tanto descontento hacia mí."
+    },
+    "YBoJDQ": {
+        "en-US": "[Gina]\nHello, have you been well?",
+        "pt-BR": "[Gina]\nOlá, tem passado bem?",
+        "es-ES": "[Gina]\nHola, ¿cómo ha estado?"
+    },
+    "YRoJDQ": {
+        "en-US": "[Gina]\nI think I have been doing well.",
+        "pt-BR": "[Gina]\nAcho que tenho passado bem.",
+        "es-ES": "[Gina]\nCreo que he estado bien."
+    },
+    "YhoJDQ": {
+        "en-US": "[Gina]\nThrough what happened this time, I came to understand that one also needs a life that knows how to let go to some extent.",
+        "pt-BR": "[Gina]\nCom o que aconteceu desta vez, percebi muito bem que também é preciso saber abrir mão de certas coisas.",
+        "es-ES": "[Gina]\nLo que ha pasado esta vez me ha hecho comprender bien que también hace falta una vida en la que uno sepa renunciar a ciertas cosas."
+    },
+    "YxoJDQ": {
+        "en-US": "[Gina]\nHello, what brings you to see me?",
+        "pt-BR": "[Gina]\nOlá, o que o traz até mim?",
+        "es-ES": "[Gina]\nHola, ¿qué le trae a buscarme?"
+    },
+    "ZBoJDQ": {
+        "en-US": "[Gina]\nAh~ It seems there are various bad rumors going around about me?",
+        "pt-BR": "[Gina]\nAh~ Parece que andam circulando vários rumores ruins sobre mim, não é?",
+        "es-ES": "[Gina]\nAh~ Parece que andan circulando varios rumores poco favorables sobre mí, ¿verdad?"
+    },
+    "ZRoJDQ": {
+        "en-US": "[Gina]\nI hope you will not think only about the things you have heard, Adventurer.",
+        "pt-BR": "[Gina]\nEspero que o aventureiro não pense apenas no que ouviu dizer.",
+        "es-ES": "[Gina]\nEspero que no se quede solo con lo que le hayan contado, aventurero."
+    },
+    "ZhoJDQ": {
+        "en-US": "[Gina]\nIn order to build the wealth I have today, I have always acted with profit and loss in mind.",
+        "pt-BR": "[Gina]\nPara construir a riqueza que tenho hoje, sempre agi de forma calculista.",
+        "es-ES": "[Gina]\nPara alcanzar la riqueza que tengo hoy, siempre he actuado moviéndome por cálculos de interés."
+    },
+    "ZxoJDQ": {
+        "en-US": "[Gina]\nIt is a contractual relationship formed because our interests aligned, so it is very regrettable that all kinds of bad stories are surfacing these days.",
+        "pt-BR": "[Gina]\nNossa relação foi estabelecida por contrato, com interesses mútuos alinhados, então é muito lamentável ouvir tantas histórias ruins ultimamente.",
+        "es-ES": "[Gina]\nNuestra relación habrá sido contractual porque convenía a ambas partes, así que me parece muy lamentable que últimamente estén saliendo tantas historias desagradables."
+    },
+    "aBoJDQ": {
+        "en-US": "[Gina]\nAs for the matter of purchasing buildings, I plan to maintain my current position.",
+        "pt-BR": "[Gina]\nSe for sobre a compra dos edifícios, pretendo manter minha posição atual.",
+        "es-ES": "[Gina]\nSi se trata del asunto de la compra de edificios, tengo pensado mantener mi postura actual."
+    },
+    "aRoJDQ": {
+        "en-US": "[Gina]\nThis is the process of securing legitimate profit. It makes no sense for anyone to criticize that.",
+        "pt-BR": "[Gina]\nÉ um processo de obter lucro de maneira legítima. Não faz sentido criticarem isso.",
+        "es-ES": "[Gina]\nEs un proceso de obtener beneficios legítimos. No tiene sentido criticarme por ello."
+    },
+    "ahoJDQ": {
+        "en-US": "[Gina]\nHello, have you been well?",
+        "pt-BR": "[Gina]\nOlá, tem passado bem?",
+        "es-ES": "[Gina]\nHola, ¿ha estado bien?"
+    },
+    "axoJDQ": {
+        "en-US": "[Gina]\nI seem to be in a somewhat difficult situation.",
+        "pt-BR": "[Gina]\nAcho que estou em uma situação um pouco complicada.",
+        "es-ES": "[Gina]\nCreo que me encuentro en una situación algo complicada."
+    },
+    "bBoJDQ": {
+        "en-US": "[Gina]\nThe priests asked me to refrain from making any additional building purchases within Rachel,",
+        "pt-BR": "[Gina]\nRecebi um pedido dos sacerdotes para me abster de adquirir mais edifícios em Rachel,",
+        "es-ES": "[Gina]\nLos sacerdotes me han pedido que me abstenga de comprar más edificios dentro de Rachel,"
+    },
+    "bRoJDQ": {
+        "en-US": "[Gina]\nNot only the priests, but also various groups including the natives have begun pressuring me...",
+        "pt-BR": "[Gina]\nNão apenas os sacerdotes, mas vários outros lugares, incluindo os nativos, começaram a me pressionar...",
+        "es-ES": "[Gina]\nY no solo los sacerdotes, sino también varios grupos, incluidos los nativos, han empezado a presionarme..."
+    },
+    "bhoJDQ": {
+        "en-US": "[Gina]\nCould it be because the owner of the building I intend to purchase is a native?",
+        "pt-BR": "[Gina]\nSerá porque o proprietário do edifício que pretendo comprar é um nativo?",
+        "es-ES": "[Gina]\n¿Será porque el propietario del edificio que quiero comprar es un nativo?"
+    },
+    "bxoJDQ": {
+        "en-US": "[Gina]\nI have no intention of changing my plans... but just in case, I should make some calculations.",
+        "pt-BR": "[Gina]\nNão pretendo mudar meus planos, mas... por via das dúvidas, preciso fazer alguns cálculos.",
+        "es-ES": "[Gina]\nNo tengo intención de cambiar mis planes, pero... por si acaso, tendré que hacer cálculos."
+    },
+    "cBoJDQ": {
+        "en-US": "[Gina]\nIf I give up on the building I was planning to buy, what would the profit and loss be like...",
+        "pt-BR": "[Gina]\nComo ficariam os lucros e perdas se eu desistisse do edifício que planejo comprar...",
+        "es-ES": "[Gina]\nQué ganancias y pérdidas tendría si renunciara al edificio que planeo comprar..."
+    },
+    "cRoJDQ": {
+        "en-US": "[Gina]\nIn any case, it is a day that leaves me with much to think about.",
+        "pt-BR": "[Gina]\nDe qualquer forma, hoje é um dia que me traz muitas reflexões.",
+        "es-ES": "[Gina]\nEn fin, hoy es uno de esos días en los que se acumulan muchas ideas."
+    },
+    "choJDQ": {
+        "en-US": "[Gina]\nHello, you have been well, have you not?",
+        "pt-BR": "[Gina]\nOlá, tem passado bem, não é?",
+        "es-ES": "[Gina]\nHola, ¿se encuentra bien?"
+    },
+    "cxoJDQ": {
+        "en-US": "[Gina]\nIn the end, I decided to stop making additional building purchases.",
+        "pt-BR": "[Gina]\nNo fim, decidi desistir de adquirir mais edifícios.",
+        "es-ES": "[Gina]\nAl final he decidido dejar de comprar más edificios."
+    },
+    "dBoJDQ": {
+        "en-US": "[Gina]\nIf giving up a little of my personal profit can contribute to the peace of this place, then I suppose that is the right thing to do.",
+        "pt-BR": "[Gina]\nAcho que, se abrir mão um pouco do meu ganho pessoal puder contribuir para a paz deste lugar, então essa é a decisão certa.",
+        "es-ES": "[Gina]\nCreo que, si renunciar un poco a mi beneficio personal puede contribuir a la paz de este lugar, entonces es lo correcto."
+    },
+    "dRoJDQ": {
+        "en-US": "[Gina]\nI think it will be easier on my mind to live peacefully rather than constantly snarling at the natives.",
+        "pt-BR": "[Gina]\nAcho que será mais tranquilo viver em paz do que continuar rosnando contra os nativos.",
+        "es-ES": "[Gina]\nMe parece que vivir en buenos términos será más cómodo que seguir gruñéndoles a los nativos."
+    },
+    "dhoJDQ": {
+        "en-US": "[Gina]\nSo I decided to turn my attention in a somewhat different direction.",
+        "pt-BR": "[Gina]\nPor isso, decidi voltar minha atenção para outra direção.",
+        "es-ES": "[Gina]\nAsí que he decidido dirigir mi atención hacia otra parte."
+    },
+    "dxoJDQ": {
+        "en-US": "[Gina]\nI should strive to live within a conflict-free and peaceful Rachel without friction with the natives.",
+        "pt-BR": "[Gina]\nPreciso me esforçar para viver em Rachel de forma pacífica, sem atritos com os nativos.",
+        "es-ES": "[Gina]\nTendré que esforzarme por convivir en Rachel de forma pacífica y sin fricciones con los nativos."
+    },
+    "eBoJDQ": {
+        "en-US": "[Gina]\nIn the end, everything I had planned fell through.",
+        "pt-BR": "[Gina]\nNo fim das contas, tudo o que eu havia planejado acabou fracassando.",
+        "es-ES": "[Gina]\nAl final, todos los planes que había trazado se vinieron abajo."
+    },
+    "eRoJDQ": {
+        "en-US": "[Gina]\nThe priests' words—that many people could become unhappy because of my choice—really shook my heart.",
+        "pt-BR": "[Gina]\nAs palavras dos sacerdotes, de que muitas pessoas poderiam se tornar infelizes por causa da minha escolha, acabaram abalando meu coração.",
+        "es-ES": "[Gina]\nLas palabras de los sacerdotes, diciendo que mi elección podría hacer desgraciadas a muchas personas, hicieron vacilar mi corazón."
+    },
+    "ehoJDQ": {
+        "en-US": "[Gina]\nThere had been aspects I feared before forcing through the additional building purchases.",
+        "pt-BR": "[Gina]\nAntes de forçar a compra adicional dos edifícios, havia uma parte de mim que sentia medo.",
+        "es-ES": "[Gina]\nLa verdad es que, antes de seguir adelante con la compra adicional de edificios, ya había algo de temor en mí."
+    },
+    "exoJDQ": {
+        "en-US": "[Gina]\nThere certainly would have been serious friction caused by the backlash. It might even have resulted in greater losses than if I had not bought them.",
+        "pt-BR": "[Gina]\nCertamente teria havido um grande atrito por causa da oposição. Talvez eu até tivesse sofrido mais prejuízo do que se não os tivesse comprado.",
+        "es-ES": "[Gina]\nSeguro que se habría producido un gran choque como reacción. Puede que incluso hubiera perdido más que si no los hubiese comprado."
+    },
+    "fBoJDQ": {
+        "en-US": "[Gina]\nSo I decided to think of it as having turned out for the best.",
+        "pt-BR": "[Gina]\nPor isso, decidi simplesmente pensar que foi melhor assim.",
+        "es-ES": "[Gina]\nAsí que he decidido pensar que, al final, todo salió bien."
+    },
+    "fRoJDQ": {
+        "en-US": "[Gina]\nI have not been doing very well.",
+        "pt-BR": "[Gina]\nEu não tenho passado tão bem.",
+        "es-ES": "[Gina]\nLa verdad es que no lo he pasado muy bien."
+    },
+    "fhoJDQ": {
+        "en-US": "[Gina]\nI could have expanded my business through additional building purchases, but it ended in failure.",
+        "pt-BR": "[Gina]\nEu poderia ter expandido meus negócios com a compra adicional dos edifícios, mas tudo terminou em fracasso.",
+        "es-ES": "[Gina]\nPodía haber ampliado mi negocio con la compra adicional de edificios, pero todo terminó en fracaso."
+    },
+    "fxoJDQ": {
+        "en-US": "[Gina]\nBut now that I think about it, problems would have arisen even if I had succeeded in buying more buildings.",
+        "pt-BR": "[Gina]\nMas, pensando agora, mesmo que eu tivesse conseguido comprar mais edifícios, ainda assim teriam surgido problemas.",
+        "es-ES": "[Gina]\nPero, pensándolo ahora, incluso si hubiera logrado comprar más edificios, también habrían surgido problemas."
+    },
+    "gBoJDQ": {
+        "en-US": "[Gina]\nSo I decided to simply accept things as they are now.",
+        "pt-BR": "[Gina]\nPor isso, decidi simplesmente aceitar a situação como está.",
+        "es-ES": "[Gina]\nAsí que he decidido aceptar las cosas tal y como están ahora."
+    },
+    "gRoJDQ": {
+        "en-US": "[Gina]\nThese days, I feel I need to stop dwelling on negative thoughts and adopt a more positive mindset.",
+        "pt-BR": "[Gina]\nUltimamente, penso que preciso parar com os pensamentos negativos e ter uma atitude mais positiva.",
+        "es-ES": "[Gina]\nÚltimamente pienso que debo dejar a un lado los pensamientos negativos y adoptar una actitud más positiva."
+    },
+    "ghoJDQ": {
+        "en-US": "[Gina]\nThen, have a good day.",
+        "pt-BR": "[Gina]\nEntão, espero que tenha um bom dia.",
+        "es-ES": "[Gina]\nLe deseo un buen día."
+    },
+    "gxoJDQ": {
+        "en-US": "- Finished conversation with Gina. -",
+        "pt-BR": "- A conversa com Gina terminou. -",
+        "es-ES": "- Has terminado la conversación con Gina. -"
+    },
+    "hBoJDQ": {
+        "en-US": "[Gina]\nHonestly, I do not understand why everyone keeps singling me out.",
+        "pt-BR": "[Gina]\nNossa, realmente não entendo por que só pegam no meu pé.",
+        "es-ES": "[Gina]\nLa verdad, no entiendo por qué solo se meten conmigo."
+    },
+    "hRoJDQ": {
+        "en-US": "[Gina]\nSigh... I have been spending each day with many worries.",
+        "pt-BR": "[Gina]\nAh... tenho passado dias cheios de preocupações.",
+        "es-ES": "[Gina]\nAy... estoy pasando unos días llenos de preocupaciones."
+    },
+    "hhoJDQ": {
+        "en-US": "[Gina]\nIf you really knew me, I am not such a bad person.",
+        "pt-BR": "[Gina]\nNo fundo, eu não sou uma pessoa tão ruim assim.",
+        "es-ES": "[Gina]\nSi se mira bien, yo tampoco soy tan mala persona."
+    },
+    "hxoJDQ": {
+        "en-US": "Hari",
+        "pt-BR": "Hari",
+        "es-ES": "Hari"
+    },
+    "iBoJDQ": {
+        "en-US": "[Hari]\nHello, I am Hari.",
+        "pt-BR": "[Hari]\nOlá, sou Hari.",
+        "es-ES": "[Hari]\nHola, soy Hari."
+    },
+    "iRoJDQ": {
+        "en-US": "[Hari]\nThe stubborn wife standing before you.",
+        "pt-BR": "[Hari]\nSou a esposa teimosa diante dos seus olhos.",
+        "es-ES": "[Hari]\nEs la esposa terca que tiene delante."
+    },
+    "ihoJDQ": {
+        "en-US": "[Hari]\nHello, I am Hari, Japer's wife.",
+        "pt-BR": "[Hari]\nOlá, sou Hari, esposa de Japer.",
+        "es-ES": "[Hari]\nHola, soy Hari, la esposa de Japer."
+    },
+    "ixoJDQ": {
+        "en-US": "[Hari]\nBecause of the mess my husband has caused, even I am having quite a headache.",
+        "pt-BR": "[Hari]\nEstou numa situação em que até eu acabei com dor de cabeça por causa das confusões que meu marido provocou.",
+        "es-ES": "[Hari]\nLa situación me está dando dolores de cabeza incluso a mí, por culpa de todo lo que ha montado mi marido."
+    },
+    "jBoJDQ": {
+        "en-US": "[Hari]\nI only hope nothing happens...",
+        "pt-BR": "[Hari]\nEspero de verdade que nada aconteça...",
+        "es-ES": "[Hari]\nOjalá no ocurra nada grave..."
+    },
+    "jRoJDQ": {
+        "en-US": "[Hari]\nCompared to not long ago, when conflicts were frequent, things seem a little better now.",
+        "pt-BR": "[Hari]\nAcho que agora está um pouco melhor do que quando os conflitos eram frequentes até pouco tempo atrás.",
+        "es-ES": "[Hari]\nCreo que ahora estamos un poco mejor que cuando los conflictos eran frecuentes hasta hace poco."
+    },
+    "jhoJDQ": {
+        "en-US": "[Hari]\nI think that is fortunate.",
+        "pt-BR": "[Hari]\nAcho que isso é uma sorte.",
+        "es-ES": "[Hari]\nMe parece una suerte."
+    },
+    "jxoJDQ": {
+        "en-US": "[Hari]\nHello, I am Hari, Japer's wife.",
+        "pt-BR": "[Hari]\nOlá, sou Hari, esposa de Japer.",
+        "es-ES": "[Hari]\nHola, soy Hari, la esposa de Japer."
+    },
+    "kBoJDQ": {
+        "en-US": "[Hari]\nJaper tried to establish himself in a marketplace formed mainly by natives, and I had opposed it the whole time, but in the end, because of his stubbornness, I ended up coming along with him.",
+        "pt-BR": "[Hari]\nJaper queria se estabelecer em um mercado formado principalmente por nativos, e eu continuei me opondo a isso, mas no fim acabei vindo junto por causa da teimosia dele.",
+        "es-ES": "[Hari]\nJaper intentó asentarse en un mercado formado principalmente por nativos, y yo me opuse una y otra vez, pero al final, por su terquedad, acabamos viniendo juntos."
+    },
+    "kRoJDQ": {
+        "en-US": "[Hari]\nAnd so, in the end, he kept getting into disputes with the native merchants here, and I have suffered for it as well.",
+        "pt-BR": "[Hari]\nE então, no fim, as brigas com os comerciantes nativos daqui só ficaram mais frequentes, e até eu acabei sofrendo com isso.",
+        "es-ES": "[Hari]\nY al final, no ha hecho más que discutir constantemente con los comerciantes nativos de aquí, y yo también he tenido que sufrir las consecuencias."
+    },
+    "khoJDQ": {
+        "en-US": "[Hari]\nThis is exactly what happens because he does not listen to me.",
+        "pt-BR": "[Hari]\nÉ exatamente isso que acontece quando ele não escuta o que eu digo.",
+        "es-ES": "[Hari]\nComo nunca escucha lo que le digo, al final tenía que acabar así."
+    },
+    "kxoJDQ": {
+        "en-US": "[Hari]\nAt present, the atmosphere here is that the natives are striving to secure their basic rights.",
+        "pt-BR": "[Hari]\nAtualmente, o clima aqui é de que os nativos estão se esforçando para conquistar seus direitos básicos.",
+        "es-ES": "[Hari]\nAhora mismo, el ambiente aquí es que los nativos están luchando por conseguir sus derechos básicos."
+    },
+    "lBoJDQ": {
+        "en-US": "[Hari]\nAs a result, large and small quarrels are occurring frequently.",
+        "pt-BR": "[Hari]\nPor causa disso, pequenas e grandes brigas acontecem com frequência.",
+        "es-ES": "[Hari]\nY como consecuencia, se producen con frecuencia disputas grandes y pequeñas."
+    },
+    "lRoJDQ": {
+        "en-US": "[Hari]\nI just hope it does not affect the place where he does business.",
+        "pt-BR": "[Hari]\nEspero que isso não acabe afetando também o lugar onde ele faz negócios.",
+        "es-ES": "[Hari]\nEspero que todo eso no termine afectando al lugar donde él hace sus negocios."
+    },
+    "lhoJDQ": {
+        "en-US": "[Hari]\nI hear they are considering a system that would limit the maximum quantity of goods a single merchant can sell, as the natives' opinions have been accepted.",
+        "pt-BR": "[Hari]\nOuvi dizer que, atendendo às opiniões dos nativos, está sendo analisado um sistema para limitar a quantidade máxima de mercadorias que um comerciante pode vender.",
+        "es-ES": "[Hari]\nDicen que, a petición de los nativos, se está estudiando un sistema para limitar la cantidad máxima de mercancías que un solo comerciante puede vender."
+    },
+    "lxoJDQ": {
+        "en-US": "[Hari]\nIf that happens, our losses will be considerable.",
+        "pt-BR": "[Hari]\nSe isso acontecer, nosso prejuízo será grande.",
+        "es-ES": "[Hari]\nSi eso ocurre, nuestras pérdidas serán grandes."
+    },
+    "mBoJDQ": {
+        "en-US": "[Hari]\nAs I thought, I should have stopped him from the beginning. I should not have trusted what he said.",
+        "pt-BR": "[Hari]\nRealmente, eu devia tê-lo impedido desde o começo. Não devia ter acreditado no que ele dizia.",
+        "es-ES": "[Hari]\nYa lo sabía, debí haberlo detenido desde el principio. No debería haber confiado en lo que decía."
+    },
+    "mRoJDQ": {
+        "en-US": "[Hari]\nStill, if that happens, perhaps the territorial behavior of the surrounding merchants will lessen.",
+        "pt-BR": "[Hari]\nMas, se isso acontecer, será que a implicância dos comerciantes ao redor vai diminuir um pouco?",
+        "es-ES": "[Hari]\nPero si eso pasa, quizá disminuyan un poco las hostilidades de los comerciantes de alrededor."
+    },
+    "mhoJDQ": {
+        "en-US": "[Hari]\nFor now, I suppose we will have to wait and see.",
+        "pt-BR": "[Hari]\nPor enquanto, acho que teremos de observar a situação.",
+        "es-ES": "[Hari]\nPor ahora, supongo que tendremos que observar cómo evoluciona la situación."
+    },
+    "mxoJDQ": {
+        "en-US": "[Hari]\nDue to the priests' intervention, we ended up having to make some sacrifices in our business.",
+        "pt-BR": "[Hari]\nPor causa da intervenção dos sacerdotes, acabamos sendo nós a fazer certos sacrifícios em relação aos negócios.",
+        "es-ES": "[Hari]\nDebido a la intervención de los sacerdotes, ha resultado que nosotros somos quienes tenemos que hacer ciertos sacrificios en lo relativo al negocio."
+    },
+    "nBoJDQ": {
+        "en-US": "[Hari]\nAccording to him, it may feel like a loss for now, but in the long run it will actually be to our benefit.",
+        "pt-BR": "[Hari]\nSegundo ele, no momento pode parecer prejuízo, mas olhando no longo prazo, isso será lucro.",
+        "es-ES": "[Hari]\nSegún dice él, puede que ahora parezca una pérdida, pero a largo plazo será más bien una ganancia."
+    },
+    "nRoJDQ": {
+        "en-US": "[Hari]\nFor now, the disputes with the surrounding merchants have visibly decreased, and the marketplace as a whole seems to be stabilizing, so I think that part can be viewed positively.",
+        "pt-BR": "[Hari]\nPor enquanto, as brigas com os comerciantes ao redor diminuíram visivelmente, e o mercado como um todo parece estar se estabilizando, então acho que esse lado pode ser visto de forma positiva.",
+        "es-ES": "[Hari]\nPor ahora, las disputas con los comerciantes de alrededor han disminuido visiblemente, y el mercado en general parece ir estabilizándose, así que creo que eso puede verse de forma positiva."
+    },
+    "nhoJDQ": {
+        "en-US": "[Hari]\nAs a result, I feel I can understand the native merchants' feelings a little better as well.",
+        "pt-BR": "[Hari]\nCom isso, também passei a conseguir entender um pouco os sentimentos dos comerciantes nativos.",
+        "es-ES": "[Hari]\nAl ver eso, también he empezado a comprender un poco mejor cómo se sienten los comerciantes nativos."
+    },
+    "nxoJDQ": {
+        "en-US": "[Hari]\nSince it has come to this, I just hope everything turns out well for everyone.",
+        "pt-BR": "[Hari]\nJá que chegou a esse ponto, espero que tudo termine bem para todos.",
+        "es-ES": "[Hari]\nYa que las cosas han llegado a este punto, espero que todo salga bien para todos."
+    },
+    "oBoJDQ": {
+        "en-US": "[Hari]\nI have had such a hard time because of his fiery temper and stubbornness.",
+        "pt-BR": "[Hari]\nDurante todo esse tempo, foi muito difícil por causa do temperamento explosivo e da teimosia dele.",
+        "es-ES": "[Hari]\nTodo este tiempo lo he pasado realmente mal por culpa de su carácter explosivo y su terquedad."
+    },
+    "oRoJDQ": {
+        "en-US": "[Hari]\nI watched the priests trying to persuade Japer from the side, and it was so frustrating even for me, you know?",
+        "pt-BR": "[Hari]\nVi de perto os sacerdotes tentando convencer Japer, e foi tão frustrante que até eu me sentia sufocada.",
+        "es-ES": "[Hari]\nVi desde al lado cómo los sacerdotes intentaban convencer a Japer, ¡y era tan frustrante que hasta yo me desesperaba!"
+    },
+    "ohoJDQ": {
+        "en-US": "[Hari]\nAfter agonizing over it for quite a while, he decided to accept the priests' proposal.",
+        "pt-BR": "[Hari]\nDepois de pensar por muito tempo, ele acabou decidindo aceitar a proposta dos sacerdotes.",
+        "es-ES": "[Hari]\nDespués de pensarlo durante mucho tiempo, acabó decidiendo aceptar la propuesta de los sacerdotes."
+    },
+    "oxoJDQ": {
+        "en-US": "[Hari]\nIt may be a loss for now, but if the marketplace as a whole grows larger, then that is a good thing... right?",
+        "pt-BR": "[Hari]\nAgora pode até ser prejuízo, mas se o mercado como um todo crescer mais, então isso será uma coisa boa... não é?",
+        "es-ES": "[Hari]\nPuede que ahora mismo sea una pérdida, pero si el mercado crece en conjunto, será algo bueno... ¿no cree?"
+    },
+    "pBoJDQ": {
+        "en-US": "[Hari]\nI hope the native merchants can gain some strength as well.",
+        "pt-BR": "[Hari]\nEspero que os comerciantes nativos também consigam recobrar as forças.",
+        "es-ES": "[Hari]\nOjalá los comerciantes nativos también cobren algo de ánimo."
+    },
+    "pRoJDQ": {
+        "en-US": "[Hari]\nWhenever some trouble breaks out because of his fiery temper, I am the one who has to clean up after it. He really makes things hard for me.",
+        "pt-BR": "[Hari]\nPor causa do temperamento explosivo dele, quando algum problema acontece, sou eu quem acaba cuidando das consequências. Ele realmente me dá muito trabalho.",
+        "es-ES": "[Hari]\nPor culpa de su temperamento explosivo, cuando a veces ocurre algún problema, soy yo quien va detrás arreglando las consecuencias. Es alguien que me hace sufrir mucho."
+    },
+    "phoJDQ": {
+        "en-US": "[Hari]\nI had a very difficult time as they could not reach a compromise even on the issue of raising wages for the natives.",
+        "pt-BR": "[Hari]\nTambém sofremos bastante porque não havia acordo quanto ao aumento dos salários dos nativos.",
+        "es-ES": "[Hari]\nTambién nos costó mucho llegar a un acuerdo sobre el aumento de salario para los nativos."
+    },
+    "pxoJDQ": {
+        "en-US": "[Hari]\nIn truth, I also thought there was no need to raise the wages further, but I hated seeing my husband and them fighting even more.",
+        "pt-BR": "[Hari]\nNa verdade, eu também achava que não havia necessidade de aumentar mais os salários, mas odiava ainda mais ver meu marido brigando com eles.",
+        "es-ES": "[Hari]\nLa verdad es que yo tampoco pensaba que fuera necesario subirles más el salario, pero me disgustaba aún más ver a mi marido peleándose con ellos."
+    },
+    "qBoJDQ": {
+        "en-US": "[Hari]\nIn any case, I am relieved that some sort of compromise seems to have been reached.",
+        "pt-BR": "[Hari]\nDe qualquer forma, ainda bem que parece ter havido algum tipo de compromisso.",
+        "es-ES": "[Hari]\nEn fin, me alegra que al menos se haya llegado a cierto compromiso."
+    },
+    "qRoJDQ": {
+        "en-US": "[Hari]\nI just hope we can live a little more quietly now.",
+        "pt-BR": "[Hari]\nAgora espero que possamos viver um pouco mais em paz.",
+        "es-ES": "[Hari]\nAhora solo espero que podamos vivir un poco más en calma."
+    },
+    "qhoJDQ": {
+        "en-US": "[Hari]\nWell then, please be on your way~",
+        "pt-BR": "[Hari]\nEntão, pode ir agora~",
+        "es-ES": "[Hari]\nEntonces, puede retirarse ya~"
+    },
+    "qxoJDQ": {
+        "en-US": "- Finished conversation with Hari. -",
+        "pt-BR": "- A conversa com Hari terminou. -",
+        "es-ES": "- Has terminado la conversación con Hari. -"
+    },
+    "rBoJDQ": {
+        "en-US": "[Hari]\nI hope nothing happens at the place where he does business...",
+        "pt-BR": "[Hari]\nEspero que nada aconteça no lugar onde ele faz negócios...",
+        "es-ES": "[Hari]\nEspero que no ocurra nada en el lugar donde él hace sus negocios..."
+    },
+    "rRoJDQ": {
+        "en-US": "[Hari]\nEven if it means giving up some profit, if we can stay safe without conflict, that might be better.",
+        "pt-BR": "[Hari]\nMesmo que tenhamos de abrir mão de algum lucro, talvez seja melhor assim, contanto que possamos ficar em segurança sem conflitos.",
+        "es-ES": "[Hari]\nAunque tengamos que renunciar a algo de beneficio, quizá sea mejor si con eso podemos estar a salvo y sin conflictos."
+    },
+    "rhoJDQ": {
+        "en-US": "[Hari]\nI hope you have a good day today as well.",
+        "pt-BR": "[Hari]\nEspero que tenha um bom dia hoje também.",
+        "es-ES": "[Hari]\nLe deseo también un buen día hoy."
+    }
+}

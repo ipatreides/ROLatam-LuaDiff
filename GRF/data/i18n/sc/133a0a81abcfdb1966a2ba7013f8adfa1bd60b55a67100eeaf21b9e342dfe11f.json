@@ -1,18 +1,15 @@
 {
     "QOpw": {
-        "ko-KR": "임페리얼 교환원",
         "en-US": "Imperial Exchange Officer",
         "pt-BR": "Ilustre Mascate",
         "es-ES": "Mercader Ilustre"
     },
     "Qepw": {
-        "ko-KR": "[임페리얼 교환원]\n안녕하세요.\n전도유망한 모험가님, 조금 더 성장하시면 저희가 마련한 임페리얼 장비 세트를 사용하실 수 있겠네요?\n125Lv 까지 힘내요!",
         "en-US": "[Imperial Exchange Officer]\nHello.\nPromising adventurer, once you grow a bit more, you'll be able to use the Imperial equipment set we've prepared for you.\nKeep it up until you reach 125Lv!",
         "pt-BR": "[Ilustre Mascate]\nOlá, viajante.\nQuando estiver mais forte, volte aqui para adquirir Equipamentos Nobres.\nDê o seu melhor até o nível 125!",
         "es-ES": "[Mercader Ilustre]\nHola, trotamundos.\nCuando seas más fuerte, vuelve aquí para adquirir Equipo Noble.\n¡Da lo mejor de ti hasta el nivel 125!"
     },
     "Qupw": {
-        "ko-KR": "[임페리얼 교환원]\n안녕하세요.\n<ITEM>[슈발츠 명예의 증표]<INFO>25155</INFO></ITEM>로 교환 가능한 ^4D4DFF임페리얼^000000 장비가 준비되어 있습니다.\n직업별로 교환 가능한 품목을 안내해 드릴게요.",
         "en-US": "[Imperial Exchange Officer]\nHello.\nWe have ^4D4DFFImperial^000000 equipment available for exchange with <ITEM>[Schwartz Honor Token]<INFO>25155</INFO></ITEM>.\nLet me show you the items you can exchange for, based on your job.",
         "pt-BR": "[Ilustre Mascate]\nOlá, viajante.\nVocê pode trocar <ITEM>[Brasão de Honra]<INFO>25155</INFO></ITEM>... por ^4D4DFFEquipamentos Ilustres^000000 de acordo com a sua classe.\nDeixe-me mostrar a você.",
         "es-ES": "[Mercader Ilustre]\nHola, trotamundos.\nPuedes intercambiar <ITEM>[Emblema de Honor]<INFO>25155</INFO></ITEM> por ^4D4DFFEquipo Ilustre^000000 según tu clase.\nDéjame mostrártelo."

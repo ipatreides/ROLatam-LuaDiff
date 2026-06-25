@@ -2530,6 +2530,8 @@
         "es-ES": "[Joven enérgico]\n¿Qué? ¡Vaya…!\nDéjame en paz.\n¿No ves que estoy ocupado?"
     },
     "WhOqAg": {
-        "en-US": "^D43D1ABrave hero Siegfried\nVanquished a mighty dragon\nIts blood coated his skin\nMaking it impenetrable\nSave for one tender spot\nBlocked by a single leaf\nFrom a linden tree.^000000"
+        "en-US": "^D43D1ABrave hero Siegfried\nVanquished a mighty dragon\nIts blood coated his skin\nMaking it impenetrable\nSave for one tender spot\nBlocked by a single leaf\nFrom a linden tree.^000000",
+        "pt-BR": "^D43D1AO corajoso herói Siegfried \nVenceu um poderoso dragão\nSeu sangue cobriu sua pele\nTornando-a impenetrável\nExceto por um ponto sensível\nBloqueado por uma única folha\nDe uma tília.^000000",
+        "es-ES": "^D43D1AEl valiente héroe Siegfried \nVenció a un poderoso dragón\nSu sangre cubrió su piel\ny la volvió impenetrable.\nSalvo por un delicado lugar,\ncubierto por una sola hoja\nde un tilo.^000000"
     }
 }

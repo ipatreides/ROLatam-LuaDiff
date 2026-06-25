@@ -176,8 +176,8 @@
     },
     "w6IaAg": {
         "en-US": "ssss[{0}] guild has conquered the Sacred Palace in the [{1}] Realm.",
-        "pt-BR": "ssssO clã [{0}] conquistou o castelo [{1}]",
-        "es-ES": "ssssEl gremio [{0}] conquistó el castillo [{1}]"
+        "pt-BR": "ssssO clã [{0}] conquistou o castelo de [{ignorei18n_agitName}]",
+        "es-ES": "ssssEl gremio [{0}] conquistó el castillo de [{ignorei18n_agitName}]"
     },
     "xKIaAg": {
         "en-US": "The Emperium has been destroyed.",
@@ -648,5 +648,45 @@
         "en-US": "Nothing happened.",
         "pt-BR": "Não aconteceu nada.",
         "es-ES": "No pasó nada."
+    },
+    "IqMaAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "I6MaAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "JKMaAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "JaMaAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "JqMaAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "J6MaAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "KKMaAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
+    },
+    "KaMaAg": {
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     }
 }

@@ -1456,7 +1456,7 @@
     },
     "w8uWCA": {
         "en-US": "[Geffen Coin Exchanger]\n^006400Geffen Magic Contest coins^000000\ncan be obtained\nif you get a good result\nat the magic contest.\nMay I help you with anything else?",
-        "pt-BR": "[Negociante de Geffen]\n^006400As Moedas Mágicas de Geffen^000000 \nsão concedidas ao\nparticipar da competição de magia\ncom uma pontuação alta.\nPrecisa de mais alguma coisa?",
+        "pt-BR": "[Negociante de Geffen]\n^006400As Moedas Mágicas de Geffen^000000 \nsão concedidas ao\nparticipar da Torneio de Magia\ncom uma pontuação alta.\nPrecisa de mais alguma coisa?",
         "es-ES": "[Negociante de Geffen]\nLas ^006400monedas del Concurso de magia de Geffen^000000\nse pueden obtener\nsi logras un buen resultado\nen el concurso de magia.\n¿Puedo ayudarte en algo más?"
     },
     "xMuWCA": {
@@ -1466,7 +1466,7 @@
     },
     "xcuWCA": {
         "en-US": "[Geffen Coin Exchanger]\nEncyclopedia Revision can be exchanged\nfor 900 Geffen Magic Contest\ncoins.\nDo you want to exchange?",
-        "pt-BR": "[Negociante de Geffen]\nA Enciclopédia Revisada\ncusta 900 moedas \nda competição de magia.\nDeseja fazer a troca?",
+        "pt-BR": "[Negociante de Geffen]\nA Enciclopédia Revisada\ncusta 900 moedas \nda Torneio de Magia.\nDeseja fazer a troca?",
         "es-ES": "[Negociante de Geffen]\nLa Enciclopedia de revisión se puede intercambiar\npor 900 monedas del Concurso de magia\nde Geffen.\n¿Quieres hacer el intercambio?"
     },
     "xsuWCA": {
@@ -1671,7 +1671,7 @@
     },
     "7suWCA": {
         "en-US": "[Fenrir]\nAs a player who fought in the same contest,\nthis is a small reward\nfor showing me a good game.\nGood luck in the future!",
-        "pt-BR": "[Fenrir]\nSomos companheiros na competição de magia.\nEsse é meu presente\npor um bom jogo.\nContinue se esforçando!",
+        "pt-BR": "[Fenrir]\nSomos companheiros na Torneio de Magia.\nEsse é meu presente\npor um bom jogo.\nContinue se esforçando!",
         "es-ES": "[Fenrir]\nComo un jugador que luchó en el mismo concurso,\nesta es una pequeña recompensa\npor mostrarme un buen juego.\n¡Buena suerte en el futuro!"
     },
     "78uWCA": {
@@ -1721,7 +1721,7 @@
     },
     "+MuWCA": {
         "en-US": "Archi: Participating in the Magic Contest itself is meaningful.",
-        "pt-BR": "Alphard: Participar da competição de magia é uma ótima experiência!",
+        "pt-BR": "Alphard: Participar da Torneio de Magia é uma ótima experiência!",
         "es-ES": "Archi: Participar en el Concurso de magia en sí es importante."
     },
     "+cuWCA": {
@@ -1776,27 +1776,27 @@
     },
     "A8yWCA": {
         "en-US": "Pa Monk: There would be top quality participant like me at the Magic Contest?",
-        "pt-BR": "Mirzam: Será que a competição de magia não tem participantes decentes como eu?",
+        "pt-BR": "Mirzam: Será que a Torneio de Magia não tem participantes decentes como eu?",
         "es-ES": "Monja Pa: ¿Habrá participantes de gran calidad como yo en el Concurso de magia?"
     },
     "BMyWCA": {
         "en-US": "Ordre",
-        "pt-BR": "Muliphen",
+        "pt-BR": "Muliephen",
         "es-ES": "Ordre"
     },
     "BcyWCA": {
         "en-US": "Ordre: It's time to show the result of my training.",
-        "pt-BR": "Muliphen: Mostre o resultado do seu treinamento.",
+        "pt-BR": "Muliephen: Mostre o resultado do seu treinamento.",
         "es-ES": "Ordre: Es hora de mostrar el resultado de mi entrenamiento."
     },
     "BsyWCA": {
         "en-US": "Ordre: I've been waiting for this Geffen Magic Contest.",
-        "pt-BR": "Muliphen: A competição de magia de Geffen! Esperei tanto por essa atmosfera.",
+        "pt-BR": "Muliephen: A Torneio de Magia de Geffen! Esperei tanto por essa atmosfera.",
         "es-ES": "Ordre: He estado esperando el Concurso de magia de Geffen."
     },
     "B8yWCA": {
         "en-US": "Ordre: I should hurry up and register for the contest.",
-        "pt-BR": "Muliphen: Vou me inscrever na competição.",
+        "pt-BR": "Muliephen: Vou me inscrever na competição.",
         "es-ES": "Ordre: Debería darme prisa y registrarme en el concurso."
     },
     "CMyWCA": {
@@ -1806,7 +1806,7 @@
     },
     "CcyWCA": {
         "en-US": "Blut Hase: I'll make myself more famous at the Magic Contest.",
-        "pt-BR": "Wezen: Vou ganhar mais fama nessa competição de magia.",
+        "pt-BR": "Wezen: Vou ganhar mais fama nessa Torneio de Magia.",
         "es-ES": "Blut Hase: Me haré más famoso con el Concurso de magia."
     },
     "CsyWCA": {
@@ -1816,7 +1816,7 @@
     },
     "C8yWCA": {
         "en-US": "Blut Hase: Where can I register for the Magic Contest?",
-        "pt-BR": "Wezen: Onde posso me inscrever na competição de magia?",
+        "pt-BR": "Wezen: Onde posso me inscrever na Torneio de Magia?",
         "es-ES": "Blut Hase: ¿Dónde puedo registrarme en el Concurso de magia?"
     },
     "DMyWCA": {
@@ -1836,12 +1836,12 @@
     },
     "D8yWCA": {
         "en-US": "Kuro Akuma: There are innocent lambs participating in Magic Contest everywhere!",
-        "pt-BR": "Wei: Várias ovelhinhas inocentes vão participar da competição de magia!",
+        "pt-BR": "Wei: Várias ovelhinhas inocentes vão participar da Torneio de Magia!",
         "es-ES": "Kuro Akuma: ¡Hay corderitos inocentes por todas partes participando en el Concurso de magia!"
     },
     "EMyWCA": {
         "en-US": "Kuro Akuma: I'll make myself more famous at the Magic Contest!",
-        "pt-BR": "Wei: Vou ganhar mais fama nessa competição de magia!",
+        "pt-BR": "Wei: Vou ganhar mais fama nessa Torneio de Magia!",
         "es-ES": "Kuro Akuma: ¡Me haré más famoso en el Concurso de magia!"
     },
     "EcyWCA": {
@@ -1861,7 +1861,7 @@
     },
     "FMyWCA": {
         "en-US": "Hyper Death: I'll show them what I'm worth at the Magic Contest!",
-        "pt-BR": "Sargas: Vou mostrar quem sou na competição de magia!",
+        "pt-BR": "Sargas: Vou mostrar quem sou na Torneio de Magia!",
         "es-ES": "Hipermuerte: ¡Les demostraré lo que valgo en el Concurso de magia!"
     },
     "FcyWCA": {
@@ -1871,7 +1871,7 @@
     },
     "FsyWCA": {
         "en-US": "Rechenier: (Humming) Fun Geffen Magic Contest!",
-        "pt-BR": "Shaula: Oba! Oba! Feliz competição de magia!",
+        "pt-BR": "Shaula: Oba! Oba! Feliz Torneio de Magia!",
         "es-ES": "Rechenier: (Tararea) ¡Divertido Concurso de magia de Geffen!"
     },
     "F8yWCA": {
@@ -1881,7 +1881,7 @@
     },
     "GMyWCA": {
         "en-US": "Rechenier: Yoohoo~ Let's register for the Geffen Magic Contest.",
-        "pt-BR": "Shaula: Uhu! Vamos participar da competição de magia!",
+        "pt-BR": "Shaula: Uhu! Vamos participar da Torneio de Magia!",
         "es-ES": "Rechenier: Yuju~. Registrémonos en el Concurso de magia de Geffen."
     },
     "GcyWCA": {
@@ -1896,7 +1896,7 @@
     },
     "G8yWCA": {
         "en-US": "Odorico: It's crowded because it's a Magic Contest. Nice!",
-        "pt-BR": "Ahdara: A competição de magia fica tão lotada!",
+        "pt-BR": "Ahdara: A Torneio de Magia fica tão lotada!",
         "es-ES": "Odorico: Hay mucha gente porque es un Concurso de magia. ¡Genial!"
     },
     "HMyWCA": {
@@ -1941,7 +1941,7 @@
     },
     "JMyWCA": {
         "en-US": "Dy: I hope this Magic Contest turns my life around...",
-        "pt-BR": "Atria: Quero que essa competição de magia mude a minha vida...",
+        "pt-BR": "Atria: Quero que essa Torneio de Magia mude a minha vida...",
         "es-ES": "Dy: Espero que este Concurso de magia le dé un giro a mi vida…"
     },
     "JcyWCA": {
@@ -1956,7 +1956,7 @@
     },
     "J8yWCA": {
         "en-US": "Fei Kanabian: It's time to show the power of the Stone of Intelligence... Geffen Magic Contest!",
-        "pt-BR": "Fay Kanavion: Hora de mostrar minha pedra filosofal na competição de magia de Geffen!",
+        "pt-BR": "Fay Kanavion: Hora de mostrar minha pedra filosofal na Torneio de Magia de Geffen!",
         "es-ES": "Fei Kanabian: Es hora de mostrar el poder de la Piedra de la inteligencia… Concurso de Magia Geffen"
     },
     "KMyWCA": {
@@ -1971,7 +1971,7 @@
     },
     "KsyWCA": {
         "en-US": "Geffen Villager: It's crowded now that the Magic Contest starts!",
-        "pt-BR": "Residente de Geffen: A competição de magia fica tão lotada!",
+        "pt-BR": "Residente de Geffen: A Torneio de Magia fica tão lotada!",
         "es-ES": "Aldeano de Geffen: ¡Ahora que empieza el Concurso de magia, está lleno de gente!"
     },
     "K8yWCA": {
@@ -2146,7 +2146,7 @@
     },
     "TcyWCA": {
         "en-US": "Handsome Adventurer: There are so many pretty women, maybe because of the Magic Contest.",
-        "pt-BR": "Aventureiro Bonito: A competição de magia tem tantas moças lindas.",
+        "pt-BR": "Aventureiro Bonito: A Torneio de Magia tem tantas moças lindas.",
         "es-ES": "Trotamundos apuesto: Hay tantas mujeres bellas, tal vez por el Concurso de magia."
     },
     "TsyWCA": {
@@ -2417,12 +2417,12 @@
     "g8yWCA": {
         "en-US": "Taming Merchant",
         "pt-BR": "Adestradora",
-        "es-ES": "Comerciante domador"
+        "es-ES": "Comerciante Domador"
     },
     "hMyWCA": {
         "en-US": "Cooking Ingredient Merchant",
         "pt-BR": "Cozinheiro",
-        "es-ES": "Comerciante de ingredientes de cocina"
+        "es-ES": "Comerciante de Ingredientes de Cocina"
     },
     "hcyWCA": {
         "en-US": "Lady Para_Team_Hat",

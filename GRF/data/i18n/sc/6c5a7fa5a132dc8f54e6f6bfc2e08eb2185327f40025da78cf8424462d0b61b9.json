@@ -1,2082 +1,1735 @@
 {
     "IPVSBg": {
-        "ko-KR": "게인",
         "en-US": "Gein",
         "pt-BR": "Gael",
         "es-ES": "Gael"
     },
     "IfVSBg": {
-        "ko-KR": "경험치 이벤트 진행 중",
         "en-US": "EXP Bonus active",
         "pt-BR": "Bônus de EXP ativo",
         "es-ES": "Bonificación de EXP activa"
     },
     "IvVSBg": {
-        "ko-KR": "[게인]\n하아... 어째서 이것이 지금에야 발견된 거지??\n있을 수 없는 일이야, 이건...",
         "en-US": "[Gein]\nDarn... what am I going to do??\nIt can't be...",
         "pt-BR": "[Gael]\nDroga... o que eu vou fazer??\nNão pode ser...",
         "es-ES": "[Gael]\nMaldición... ¿qué voy a hacer??\nNo puede ser..."
     },
     "I/VSBg": {
-        "ko-KR": "- 이 사람에게서 심각한 고뇌가 느껴진다. 140 레벨 정도의 경험을 쌓은 뒤에 다시 찾아오도록 하자. -",
         "en-US": "- I feel great anguish from this person. Let's come back after I reach level 140. -",
         "pt-BR": "- Sinto uma grande angústia dessa pessoa. Vamos voltar depois que eu tiver nível 140. -",
         "es-ES": "- Siento una gran angustia en esta persona. Volvamos después de que alcance el nivel 140. -"
     },
     "JPVSBg": {
-        "ko-KR": "소지하고 계신 아이템의 수량이 많아 대화를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
         "en-US": "You have too many items.\nReorganize your inventory and come back again.",
         "pt-BR": "Você possui muitos itens.\nReorganize o inventário e volte novamente.",
         "es-ES": "Tienes demasiados objetos.\nReorganiza tu inventario y regresa."
     },
     "JfVSBg": {
-        "ko-KR": "[게인]\n고마워요 모험가님.",
         "en-US": "[Gein]\nThank you, traveler.",
         "pt-BR": "[Gael]\nObrigado, viajante.",
         "es-ES": "[Gael]\nGracias, trotamundos."
     },
     "JvVSBg": {
-        "ko-KR": "[게인]\n시루드를 다시 만날 수 있다니, 정말 꿈 같네요.",
         "en-US": "[Gein]\nSeeing Sirud again after 3 months is a great relief.",
         "pt-BR": "[Gael]\nRever Sirud após 3 meses é um grande alívio.",
         "es-ES": "[Gael]\nVer a Sirud después de 3 meses es un gran alivio."
     },
     "J/VSBg": {
-        "ko-KR": "무슨 고민이라도 있으신가요?",
         "en-US": "What happened?",
         "pt-BR": "O que houve?",
         "es-ES": "¿Qué pasó?"
     },
     "KPVSBg": {
-        "ko-KR": "[게인]\n아, 안녕하세요...",
         "en-US": "[Gein]\nAh, hi...",
         "pt-BR": "[Gael]\nAh, oi...",
         "es-ES": "[Gael]\nAh, hola..."
     },
     "KfVSBg": {
-        "ko-KR": "- 그는 낚싯대를 손에 쥔 채로 몹시 안절부절 못하고 있다. 보아하니 낚시를 하러 온 것 같아 보이지는 않는다. -",
         "en-US": "- He's very restless with the fishing rod in his hand. He doesn't even look like he's fishing. -",
         "pt-BR": "- Ele anda muito inquieto com a vara de pescar na mão. Nem parece que está pescando. -",
         "es-ES": "- Está muy inquieto con la caña de pescar en la mano. Ni siquiera parece que está pescando. -"
     },
     "KvVSBg": {
-        "ko-KR": "[게인]\n이 낚싯대는 3개월 전에 실종된 제 친구 <FONT COLOR = 4D4DFF><FONT SIZE = 16><B>시루드</FONT></FONT></B>의 물건입니다, 여기 앞 해수면에 떠오른 것을 제가 발견했어요!!!",
         "en-US": "[Gein]\nThis fishing rod belonged to my friend <FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Sirud</FONT></FONT></B> who disappeared three months ago!!!",
         "pt-BR": "[Gael]\nEsta vara de pescar pertencia ao meu amigo <FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Sirud</FONT></FONT></B> que desapareceu há três meses!!!",
         "es-ES": "[Gael]\n¡¡Esta caña de pescar le pertenecía a mi amigo <FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Sirud</FONT></FONT></B>, que desapareció hace tres meses!!!"
     },
     "K/VSBg": {
-        "ko-KR": "실종이라고요?",
         "en-US": "Disappeared?",
         "pt-BR": "Desapareceu?",
         "es-ES": "¿Desapareció?"
     },
     "LPVSBg": {
-        "ko-KR": "[게인]\n네... 시루드는 대단한 낚시광으로 상황을 가리지 않고 틈만 나면 낚시를 하러 이 곳으로 왔었습니다.",
         "en-US": "[Gein]\nYes... Sirud is a big fishing enthusiast and came to fish here whenever he could.",
         "pt-BR": "[Gael]\nSim... Sirud é um grande fanático por pesca e vinha pescar aqui sempre que podia.",
         "es-ES": "[Gael]\nSí... Sirud es un gran fanático de la pesca y venía a pescar aquí siempre que podía."
     },
     "LfVSBg": {
-        "ko-KR": "[게인]\n시루드의 영향을 받아 우리들도 낚시에 빠지게 되었고 그렇게 네 명이서 즐거운 시간을 종종 보내곤 했었어요.",
         "en-US": "[Gein]\nInfluenced by Sirud, we also fell in love with fishing, and the four of us had fun together.",
         "pt-BR": "[Gael]\nInfluenciados por Sirud, também nos apaixonamos pela pesca, e nós quatro nos divertíamos.",
         "es-ES": "[Gael]\nInfluenciados por Sirud, nosotros también nos aficionamos a la pesca, y los cuatro nos divertíamos juntos."
     },
     "LvVSBg": {
-        "ko-KR": "[게인]\n시루드의 낚시 열정은 비바람이 몰아쳐도 낚시를 하러 나가자고 저희들을 보챌 정도였는데요.",
         "en-US": "[Gein]\nSirud's passion for fishing reached the point of inviting us to fish even in rain and wind.",
         "pt-BR": "[Gael]\nA paixão de Sirud pela pesca chegou ao ponto de nos convidar para pescar mesmo com chuva e vento.",
         "es-ES": "[Gael]\nLa pasión de Sirud por la pesca llegó al punto de invitarnos a pescar incluso con lluvia y viento."
     },
     "L/VSBg": {
-        "ko-KR": "[게인]\n시루드가 실종된 날은 딱 그 비바람이 몰아치던 날이었습니다. 우의를 챙겨 입고 낚시를 하러 나갔죠.",
         "en-US": "[Gein]\nThe day Sirud disappeared was exactly on a rainy day. I put on my raincoat and went fishing.",
         "pt-BR": "[Gael]\nO dia em que Sirud desapareceu foi exatamente em um dia chuvoso. Coloquei minha capa de chuva e fui pescar.",
         "es-ES": "[Gael]\nEl día en que Sirud desapareció fue exactamente un día lluvioso. Me puse mi capa de lluvia y fui a pescar."
     },
     "MPVSBg": {
-        "ko-KR": "[게인]\n우리에게도 같이 나가자고 권했지만 모두 거절했어요. 비바람이 유독 거센 날이었거든요.",
         "en-US": "[Gein]\nWe were invited to go out together, but everyone refused. It was a very windy day.",
         "pt-BR": "[Gael]\nFomos convidados para sair juntos, mas todos recusaram. Era um dia de muito vento.",
         "es-ES": "[Gael]\nNos invitaron a salir juntos, pero todos rechazaron. Era un día con mucho viento."
     },
     "MfVSBg": {
-        "ko-KR": "[게인]\n시루드는 그렇게 혼자 낚시를 하러 나갔고 그 후로 우리는 그를 볼 수 없게 되었습니다...",
         "en-US": "[Gein]\nSirud went fishing alone and we haven't seen him since...",
         "pt-BR": "[Gael]\nSirud foi pescar sozinho e não o vimos desde então...",
         "es-ES": "[Gael]\nSirud fue a pescar solo y no lo hemos visto desde entonces..."
     },
     "MvVSBg": {
-        "ko-KR": "[게인]\n나가지 못하도록 말려야 했었는데...",
         "en-US": "[Gein]\nI should have stopped him...",
         "pt-BR": "[Gael]\nEu devia tê-lo impedido...",
         "es-ES": "[Gael]\nDebí haberlo detenido…"
     },
     "M/VSBg": {
-        "ko-KR": "- 게인은 잠시 눈물을 훔친 뒤에 다시 이야기를 이어 나갔다. -",
         "en-US": "- Gein wipes away tears. -",
         "pt-BR": "- Gael enxuga as lágrimas. -",
         "es-ES": "- Gael se seca las lágrimas. -"
     },
     "NPVSBg": {
-        "ko-KR": "[게인]\n시루드의 실종 소식은 곧바로 이즈루드 전역에 알려지게 되었고, 많은 시간과 인력을 투자하여 대대적인 수색 작업이 펼쳐졌으나 어떠한 단서도 찾지 못한 채로 수색은 종료가 되었습니다.",
         "en-US": "[Gein]\nSirud's disappearance mobilized everyone in Izlude. After a big search, no one found anything and it was called off.",
         "pt-BR": "[Gael]\nO sumiço de Sirud movimentou todo mundo de Izlude. Depois de uma grande busca, ninguém encontrou nada e ela foi encerrada.",
         "es-ES": "[Gael]\nLa desaparición de Sirud conmocionó a todo Izlude. Después de una gran búsqueda, no se encontró nada y fue cancelada."
     },
     "NfVSBg": {
-        "ko-KR": "[게인]\n그 후로도 저희끼리 모여 시루드를 찾기 위해 백방으로 뛰어다녔으나 성과는 전혀 없었고 이제 슬슬 포기하려던 참이었어요.",
         "en-US": "[Gein]\nAfter that, the four of us got together to search for Sirud, but we got no results and were about to give up.",
         "pt-BR": "[Gael]\nDepois disso, nós quatro nos reunimos para procurar Sirud, mas não tivemos resultado e estávamos prestes a desistir.",
         "es-ES": "[Gael]\nDespués de eso, los cuatro nos reunimos para buscar a Sirud, pero no obtuvimos resultados y estábamos a punto de rendirnos."
     },
     "NvVSBg": {
-        "ko-KR": "[게인]\n그런데 지금 방금!!",
         "en-US": "[Gein]\nUntil now!!",
         "pt-BR": "[Gael]\nAté agora!!",
         "es-ES": "[Gael]\n¡¡Hasta ahora!!"
     },
     "N/VSBg": {
-        "ko-KR": "[게인]\n3개월이 지난 지금에 와서!!!",
         "en-US": "[Gein]\nAfter 3 months!!!",
         "pt-BR": "[Gael]\nDepois de 3 meses!!!",
         "es-ES": "[Gael]\n¡¡Después de 3 meses!!!"
     },
     "OPVSBg": {
-        "ko-KR": "[게인]\n시루드의 낚싯대가 해수면 위로 올라왔다는 것입니다. 수색 작업 때는 전혀 찾을 수 없던 그의 물건이 말이에요!",
         "en-US": "[Gein]\nSirud's fishing rod just emerged! It wasn't found anywhere during the search!",
         "pt-BR": "[Gael]\nA vara de pesca do Sirud simplesmente emergiu! Não tinha sido encontrada em canto nenhum durante a busca!",
         "es-ES": "[Gael]\n¡¡La caña de pescar de Sirud simplemente apareció!! ¡¡No había sido encontrada en ningún lugar durante la búsqueda!!"
     },
     "OfVSBg": {
-        "ko-KR": "자, 진정하시고.. 시루드의 낚싯대가 확실해요?",
         "en-US": "Are you sure it's his?",
         "pt-BR": "Tem certeza que é dele?",
         "es-ES": "¿Estás seguro de que es de él?"
     },
     "OvVSBg": {
-        "ko-KR": "[게인]\n네 확실해요! 늘 봐왔던 낚싯대인걸요.",
         "en-US": "[Gein]\nYes, I'm sure! It's the fishing rod I always saw.",
         "pt-BR": "[Gael]\nSim, tenho certeza! É a vara de pescar que sempre vi.",
         "es-ES": "[Gael]\n¡Sí, estoy seguro! Es la caña de pescar que siempre vi."
     },
     "O/VSBg": {
-        "ko-KR": "[게인]\n이 낚싯대는 시루드가 직접 제작한 것이라 유일한 낚싯대에요. 여기 손잡이에 이니셜도 보이잖아요, S.R.D!!",
         "en-US": "[Gein]\nThis fishing rod was made by Sirud himself, so it's unique. You can see the initials on the handle here, S.R.D!!",
         "pt-BR": "[Gael]\nEsta vara de pescar foi feita pelo próprio Sirud, então é a única. Você pode ver as iniciais no cabo aqui, S.R.D!!",
         "es-ES": "[Gael]\nEsta caña de pescar fue hecha por el propio Sirud, así que es única. Puedes ver las iniciales aquí en el mango: ¡S.R.D.!"
     },
     "PPVSBg": {
-        "ko-KR": "앗, 그렇다면 왜 이제서야...",
         "en-US": "Only appearing now...",
         "pt-BR": "Aparecer só agora...",
         "es-ES": "¿Aparecer sólo ahora...?"
     },
     "PfVSBg": {
-        "ko-KR": "[게인]\n저도 지금 너무 놀랍고 황당해서 어쩔 줄 모르겠네요.",
         "en-US": "[Gein]\nI'm so surprised now I don't know what to do.",
         "pt-BR": "[Gael]\nEstou tão surpreso agora que não sei o que fazer.",
         "es-ES": "[Gael]\nEstoy tan sorprendido ahora que no sé qué hacer."
     },
     "PvVSBg": {
-        "ko-KR": "- 그런데 낚싯대를 자세히 보니 뭔가 이질감이 느껴진다. 나무로 만들어진 이 낚싯대가 무려 3개월간 물에 빠져있었는데도 원형 그대로의 모습이 아닌가, 게다가 약간 반짝거리는 광택도 느껴지는데... -",
         "en-US": "- Looking closer, you notice the fishing rod emits a glow... -",
         "pt-BR": "- Olhando melhor, você percebe que a vara de pescar emite um brilho... -",
         "es-ES": "- Mirando mejor, notas que la caña de pescar emite un brillo... -"
     },
     "P/VSBg": {
-        "ko-KR": "저기 이 낚싯대, 좀 이상하지 않아요?",
         "en-US": "Hey, do you see that?",
         "pt-BR": "Ei, você tá vendo isso?",
         "es-ES": "¿Oye, estás viendo eso?"
     },
     "QPVSBg": {
-        "ko-KR": "[게인]\n이상하다니, 뭐가요?",
         "en-US": "[Gein]\nWhat are you talking about?",
         "pt-BR": "[Gael]\nDo que você tá falando?",
         "es-ES": "[Gael]\n¿De qué estás hablando?"
     },
     "QfVSBg": {
-        "ko-KR": "[게인]\n어...",
         "en-US": "[Gein]\nHuh...",
         "pt-BR": "[Gael]\nHã...",
         "es-ES": "[Gael]\nEh..."
     },
     "QvVSBg": {
-        "ko-KR": "[게인]\n어.....??",
         "en-US": "[Gein]\nHuh.....??",
         "pt-BR": "[Gael]\nHã.....??",
         "es-ES": "[Gael]\n¿¿Eh.....??"
     },
     "Q/VSBg": {
-        "ko-KR": "[게인]\n3개월 동안 물에 빠져있었는데도... 전혀 부식되지 않았어요, 완전 멀쩡한걸요??",
         "en-US": "[Gein]\nAfter 3 months underwater... it didn't get corroded??",
         "pt-BR": "[Gael]\nDepois de 3 meses debaixo dágua... ela não ficou corroída??",
         "es-ES": "[Gael]\nDespués de 3 meses bajo el agua... ¿no se oxidó??"
     },
     "RPVSBg": {
-        "ko-KR": "[게인]\n음... 그리고 미묘하게 빛나고 있는 느낌도 있는 것 같은데... 낚싯대가 코팅되어 있는 것 같은 느낌이랄까요?",
         "en-US": "[Gein]\nHmm... And it seems to have a subtle glow... Could the fishing rod have been coated with something?",
         "pt-BR": "[Gael]\nHmm... E parece ter um brilho sutil... Será que a vara de pescar foi revestida com algo?",
         "es-ES": "[Gael]\nHmm... Y parece tener un brillo sutil... ¿Será que la caña de pescar fue revestida con algo?"
     },
     "RfVSBg": {
-        "ko-KR": "- 옆에서 이야기를 듣고 있던 게인의 친구로 보이는 자가 입을 열었다. -",
         "en-US": "- Gein's friend approaches to speak. -",
         "pt-BR": "- A amiga de Gael se aproxima para falar. -",
         "es-ES": "- La amiga de Gael se acerca para hablar. -"
     },
     "RvVSBg": {
-        "ko-KR": "[라케]\n어디어디, 나도 볼래!! 뭐가 문제인거야??",
         "en-US": "[Layla]\nHey, hey!! Where is it??",
         "pt-BR": "[Laís]\nEi, ei!! Onde tá??",
         "es-ES": "[Laís]\n¡¡Oye, oye!! ¿¿Dónde está??"
     },
     "R/VSBg": {
-        "ko-KR": "[게인]\n이 낚싯대 말이야... 3개월 동안 물에 빠져 있었던 낚싯대인데 원형 그대로, 아니 더욱 샤방샤방한 상태로 발견되었어.",
         "en-US": "[Gein]\nThis fishing rod... was submerged in water for three months, but was found intact, with no corrosion.",
         "pt-BR": "[Gael]\nEssa vara de pescar... estava submersa na água há três meses, mas foi encontrada intacta, e sem corrosão.",
         "es-ES": "[Gael]\nEsta caña de pescar... estuvo sumergida en el agua durante tres meses, pero la encontraron intacta, sin corrosión."
     },
     "SPVSBg": {
-        "ko-KR": "[라케]\n으으음...",
         "en-US": "[Layla]\nHmm...",
         "pt-BR": "[Laís]\nHmm...",
         "es-ES": "[Laís]\nHmm..."
     },
     "SfVSBg": {
-        "ko-KR": "[라케]\n음.....",
         "en-US": "[Layla]\nHmmmmmm.....",
         "pt-BR": "[Laís]\nHmmmmmm.....",
         "es-ES": "[Laís]\nHmmmmmm....."
     },
     "SvVSBg": {
-        "ko-KR": "- 라케는 열심히 낚싯대를 살펴 보고 나서 게인에게 대답하였다. -",
         "en-US": "- Layla took a good look at the fishing rod. -",
         "pt-BR": "- Laís deu uma boa olhada na vara de pescar. -",
         "es-ES": "- Laís observó detenidamente la caña de pescar. -"
     },
     "S/VSBg": {
-        "ko-KR": "[라케]\n나도 잘 모르겠는데?",
         "en-US": "[Layla]\nYou know, I don't know?",
         "pt-BR": "[Laís]\nSabe que eu não sei?",
         "es-ES": "[Laís]\n¿Sabes qué? No sé."
     },
     "TPVSBg": {
-        "ko-KR": "[게인]\n당연하지!! 내가 모르는데 너가 알겠어?",
         "en-US": "[Gein]\nReally!! Do you know anyone who understands this?",
         "pt-BR": "[Gael]\nClaro!! Você conhece alguém que entenda disso?",
         "es-ES": "[Gael]\n¡¡Claro!! ¿Conoces a alguien que entienda de esto?"
     },
     "TfVSBg": {
-        "ko-KR": "[라케]\n음... 하지만 이 낚싯대에 대해 조금 알고 있으실 만한 분은 내가 알고 있어.",
         "en-US": "[Layla]\nHm... I think I know a person who might know a bit about this fishing rod.",
         "pt-BR": "[Laís]\nHm... acho que eu conheço uma pessoa que pode saber um pouco sobre esta vara de pescar.",
         "es-ES": "[Laís]\nHm... creo que conozco a una persona que podría saber algo sobre esta caña de pescar."
     },
     "TvVSBg": {
-        "ko-KR": "[게인]\n누군데??",
         "en-US": "[Gein]\nWho??",
         "pt-BR": "[Gael]\nQuem??",
         "es-ES": "[Gael]\n¿¿Quién??"
     },
     "T/VSBg": {
-        "ko-KR": "누구인가요?",
         "en-US": "Who?",
         "pt-BR": "Quem?",
         "es-ES": "¿Quién?"
     },
     "UPVSBg": {
-        "ko-KR": "[라케]\n해양학자 <FONT COLOR = 4D4DFF><FONT SIZE = 16><B>제리몬</FONT></FONT></B>님이십니다. 우리 아버지와 친분이 있으셔서 몇 번 뵌 적이 있어요. 현재는 프론테라의 동쪽 도서관에 계신 것으로 알고 있어요.",
         "en-US": "[Layla]\n<FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Jerimon</FONT></FONT></B>, the oceanographer. He's a friend of my father and works at the Library in Prontera.",
         "pt-BR": "[Laís]\nO <FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Jeremias</FONT></FONT></B>, o oceanógrafo. Ele é amigo do meu pai e trabalha na Biblioteca em Prontera.",
         "es-ES": "[Laís]\nEl <FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Jeremías</FONT></FONT></B>, el oceanógrafo. Es amigo de mi padre y trabaja en la Biblioteca de Prontera."
     },
     "UfVSBg": {
-        "ko-KR": "[게인]\n앗, 아... 그러면.. 저기 모험가님!! 초면에 죄송하지만 부탁을 드려도 될까요?? 저희가 사정 상 여기 이즈루드에서 벗어날 수가 없어서요...",
         "en-US": "[Gein]\nAh, ah... so... hey, traveler!! I'm sorry, but can I ask you a favor?? We can't leave Izlude...",
         "pt-BR": "[Gael]\nAh, ah... então... ei, viajante!! Me desculpe, mas posso te pedir um favor?? Não podemos sair daqui de Izlude...",
         "es-ES": "[Gael]\nAh, ah... entonces... ¡¡oye, trotamundos!! Lo siento, ¿pero puedo pedirte un favor?? No podemos salir de aquí, de Izlude..."
     },
     "UvVSBg": {
-        "ko-KR": "[게인]\n저희 대신 제리몬 님을 찾아가셔서 이 낚싯대를 보여주세요... 사소한 것이라도 좋으니...정보가 조금이라도 있었으면 합니다..",
         "en-US": "[Gein]\nPlease, visit Jerimon and show him the fishing rod for us... Even if it's a trivial thing... I hope he has some information.",
         "pt-BR": "[Gael]\nPor favor, visite Jeremias e mostre a vara de pescar por nós... Mesmo que seja uma coisa trivial... Espero que ele tenha alguma informação.",
         "es-ES": "[Gael]\nPor favor, visita a Jeremías y muéstrale la caña de pescar por nosotros... Aunque sea una cosa trivial... Espero que él tenga alguna información."
     },
     "U/VSBg": {
-        "ko-KR": "좋습니다. 다녀오도록 하죠.",
         "en-US": "Alright, I'm going there.",
         "pt-BR": "Certo, estou indo lá.",
         "es-ES": "Está bien, voy para allá."
     },
     "VPVSBg": {
-        "ko-KR": "죄송합니다. 지금은 제가 조금 바빠서...",
         "en-US": "Sorry, I can't right now...",
         "pt-BR": "Desculpe, agora não posso...",
         "es-ES": "Lo siento, ahora no puedo..."
     },
     "VfVSBg": {
-        "ko-KR": "[게인]\n어엇... 감사합니다!",
         "en-US": "[Gein]\nAaah... Thank you!",
         "pt-BR": "[Gael]\nAaah... Obrigado!",
         "es-ES": "[Gael]\n¡Aaah...! ¡Gracias!"
     },
     "VvVSBg": {
-        "ko-KR": "[게인]\n^4D4DFF제리몬^000000 님은 아직 프론테라의 <NAVI>[동쪽 도서관]<INFO>prontera,192,264,</INFO></NAVI>에 계실 거에요.",
         "en-US": "[Gein]\n^4D4DFFJerimon^000000 should be at the <NAVI>[Library]<INFO>prontera,192,264,</INFO></NAVI>.",
         "pt-BR": "[Gael]\n^4D4DFFJeremias^000000 deve estar na <NAVI>[Biblioteca]<INFO>prontera,192,264,</INFO></NAVI>.",
         "es-ES": "[Gael]\n^4D4DFFJeremías^000000 debe estar en la <NAVI>[Biblioteca]<INFO>prontera,192,264,</INFO></NAVI>."
     },
     "V/VSBg": {
-        "ko-KR": "[게인]\n자 여기 시루드의 유품인 낚싯대를 드리겠습니다. 잘 부탁드립니다...",
         "en-US": "[Gein]\nHere, I'll hand you Sirud's Fishing Rod...",
         "pt-BR": "[Gael]\nAqui, vou te passar a Vara de Pescaria que era de Sirud...",
         "es-ES": "[Gael]\nAquí, te voy a pasar la Caña de Pescar que era de Sirud..."
     },
     "WPVSBg": {
-        "ko-KR": "[라케]\n뭐??? 유품이라니!! 시루드가 죽었는지 살아있는지도 모르면서!!",
         "en-US": "[Layla]\nWAS??? It still IS!! You don't even know if Sirud is alive or dead!!",
         "pt-BR": "[Laís]\nERA??? Ainda É!! Você nem sabe se Sirud está vivo ou morto!!",
         "es-ES": "[Laís]\n¿¿ERA?? ¡¡Todavía ES!! ¡¡Ni siquiera sabes si Sirud está vivo o muerto!!"
     },
     "WfVSBg": {
-        "ko-KR": "[게인]\n으엇... 그래 내가 말 실수를 했어, 시루드가 남기고 간 낚싯대입니다. 아무쪼록 잘 부탁드립니다.",
         "en-US": "[Gein]\nUrgh... Yes, I made a mistake. It's the fishing rod Sirud left behind. Please take good care of it.",
         "pt-BR": "[Gael]\nUrgh... Sim, eu cometi um erro. É a vara de pescar que Sirud deixou para trás. Por favor, cuide bem dela.",
         "es-ES": "[Gael]\nUrgh... Sí, me equivoqué. Es la caña de pescar que Sirud dejó atrás. Por favor, cuídala bien."
     },
     "WvVSBg": {
-        "ko-KR": "[라케]\n제가 아버지를 통해 해당 내용에 대해 미리 제리몬님에게 전달을 드리도록 할게요!",
         "en-US": "[Layla]\nI'll tell my father to pass on the information about you to Jerimon!",
         "pt-BR": "[Laís]\nJá vou avisar meu pai para ele repassar a informação sobre você ao Jeremias!",
         "es-ES": "[Laís]\n¡Voy a avisar a mi papá para que le pase la información sobre ti a Jeremías!"
     },
     "W/VSBg": {
-        "ko-KR": "[게인 & 라케 & 스프]\n그럼 잘 부탁드립니다!!!",
         "en-US": "[Gein & Layla & Soup]\nThank you!!!",
         "pt-BR": "[Gael & Laís & Canjica]\nObrigado!!!",
         "es-ES": "[Gael & Laís & Sopa]\n¡¡¡Gracias!!!"
     },
     "XPVSBg": {
-        "ko-KR": "[게인]\n아니... 정말이신가요?",
         "en-US": "[Gein]\nNo... are you sure?",
         "pt-BR": "[Gael]\nNão... você tem certeza?",
         "es-ES": "[Gael]\nNo... ¿estás seguro?"
     },
     "XfVSBg": {
-        "ko-KR": "[게인]\n이 가슴 아픈 사연과 수수께끼의 단서에 대한 내용을 들으시고도 뒤돌아서 가시는 건가요...",
         "en-US": "[Gein]\nYou're leaving after hearing this touching story and clues to the mystery...?",
         "pt-BR": "[Gael]\nVocê vai embora depois de ouvir sobre esta história comovente e pistas para o mistério...?",
         "es-ES": "[Gael]\n¿Te vas después de escuchar esta conmovedora historia y las pistas para el misterio...?"
     },
     "XvVSBg": {
-        "ko-KR": "[게인]\n라케가 알려줬던 대로 프론테라의 <NAVI>[동쪽 도서관]<INFO>prontera,192,264,</INFO></NAVI>으로 가시면 됩니다.",
         "en-US": "[Gein]\nLayla said Jerimon should be at the <NAVI>[Library]<INFO>prontera,192,264,</INFO></NAVI>.",
         "pt-BR": "[Gael] \nLaís disse que Jeremias deve estar na <NAVI>[Biblioteca]<INFO>prontera,192,264,</INFO></NAVI>.",
         "es-ES": "[Gael]\nLaís dijo que Jeremías debe estar en la <NAVI>[Biblioteca]<INFO>prontera,192,264,</INFO></NAVI>."
     },
     "X/VSBg": {
-        "ko-KR": "[게인]\n몸 조심히 다녀오세요!! 아주 작은 단서라도 나왔으면 좋겠네요...",
         "en-US": "[Gein]\nPlease, hurry!! I'll be happy with any clue, no matter how small...",
         "pt-BR": "[Gael]\nPor favor, apresse-se!! Vou ficar feliz com qualquer pista, por menor que seja...",
         "es-ES": "[Gael]\n¡Por favor, apúrate! Me alegrará cualquier pista, por pequeña que sea..."
     },
     "YPVSBg": {
-        "ko-KR": "[게인]\n아, 오셨군요!!!",
         "en-US": "[Gein]\nAh, you're back!!!",
         "pt-BR": "[Gael]\nAh, você voltou!!!",
         "es-ES": "[Gael]\n¡¡Ah, ¡has vuelto!!"
     },
     "YfVSBg": {
-        "ko-KR": "[게인]\n시루드에 대한 정보가 조금 있던가요??",
         "en-US": "[Gein]\nDid you find any clue about Sirud??",
         "pt-BR": "[Gael]\nEncontrou alguma pista sobre Sirud??",
         "es-ES": "[Gael]\n¿¿Encontraste alguna pista sobre Sirud??"
     },
     "YvVSBg": {
-        "ko-KR": "- 제리몬에게 들은 내용을 그대로 전달하였다. -",
         "en-US": "- I told him exactly what Jerimon said. -",
         "pt-BR": "- Falei exatamente o que Jeremias disse. -",
         "es-ES": "- Le conté exactamente lo que dijo Jeremías. -"
     },
     "Y/VSBg": {
-        "ko-KR": "[게인]\n아... 그렇군요, 해구에 대해서는 저도 처음 듣네요.",
         "en-US": "[Gein]\nAh... I see, but I've never heard of the Abyssal Trenches before.",
         "pt-BR": "[Gael]\nAh... entendi, mas eu nunca ouvi falar das Fossas Abissais antes.",
         "es-ES": "[Gael]\nAh... entiendo, pero nunca había oído hablar de las Fosas Abismales antes."
     },
     "ZPVSBg": {
-        "ko-KR": "[게인]\n이즈루드 근처에 그렇게나 크고 깊은 해구가 있다니...",
         "en-US": "[Gein]\nAnd to think something so deep exists near Izlude...",
         "pt-BR": "[Gael]\nE pensar que existe algo tão profundo perto de Izlude...",
         "es-ES": "[Gael]\nY pensar que existe algo tan profundo cerca de Izlude..."
     },
     "ZfVSBg": {
-        "ko-KR": "[게인]\n앗, 그런데 여기로 다시 오신 것은 추가로 더 필요하신 것이 있는 건가요?",
         "en-US": "[Gein]\nAh, by the way, do you need anything else to come back here?",
         "pt-BR": "[Gael]\nAh, a propósito, precisa de mais alguma coisa para voltar aqui?",
         "es-ES": "[Gael]\nAh, por cierto, ¿necesitas algo más para volver aquí?"
     },
     "ZvVSBg": {
-        "ko-KR": "낚싯대 외에 또 발견된 물건이 없을까 해서요.",
         "en-US": "Did you find anything else?",
         "pt-BR": "Você encontrou mais alguma coisa?",
         "es-ES": "¿Encontraste algo más?"
     },
     "Z/VSBg": {
-        "ko-KR": "[게인]\n아 맞다!!",
         "en-US": "[Gein]\nAh, yes!!",
         "pt-BR": "[Gael]\nAh, sim!!",
         "es-ES": "[Gael]\n¡¡Ah, sí!!"
     },
     "aPVSBg": {
-        "ko-KR": "[게인]\n낚싯대가 발견된 곳 근처에서 뜰채로 건져낸 덩어리에요.",
         "en-US": "[Gein]\nThis strange piece was stuck in the fishing net along with Sirud's rod.",
         "pt-BR": "[Gael]\nEsse estranho pedaço estava preso na rede de pesca junto com a vara de Sirud.",
         "es-ES": "[Gael]\nEste extraño pedazo estaba atrapado en la red de pesca junto con la caña de Sirud."
     },
     "afVSBg": {
-        "ko-KR": "- 이 덩어리는 제리몬이 말한\n^4D4DFF심연의 정수^000000가 틀림없는 듯 하다. -",
         "en-US": "- This piece must be the\n^4D4DFFAbyssal Essence^000000 Jerimon talked about. -",
         "pt-BR": "- Esse pedaço deve ser a\n^4D4DFFEssência Abismal^000000 que Jeremias contou. -",
         "es-ES": "- Este pedazo debe ser la\n^4D4DFFEsencia Abismal^000000 de la que habló Jeremías. -"
     },
     "avVSBg": {
-        "ko-KR": "[게인]\n뭔가 반짝거리는 것이 시루드의 낚싯대 느낌이 좀 있어서 일단 확보를 해 두었습니다.\n이 덩어리가 도움이 될 수 있을까요?",
         "en-US": "[Gein]\nIt shines just like Sirud's fishing rod.\nWill this piece help?",
         "pt-BR": "[Gael]\nEle é brilhante igual a vara de pesca de Sirud.\nEsse pedaço vai ajudar?",
         "es-ES": "[Gael]\nEs brillante, igual que la caña de pesca de Sirud.\n¿Este pedazo servirá de ayuda?"
     },
     "a/VSBg": {
-        "ko-KR": "고맙습니다, 큰 도움이 될 거에요.",
         "en-US": "Yes, it will.",
         "pt-BR": "Vai sim.",
         "es-ES": "Sí, ayudará."
     },
     "bPVSBg": {
-        "ko-KR": "[게인]\n다시 제리몬님께 가시는건가요? 부디 조심히 다녀오세요.",
         "en-US": "[Gein]\nAre you going back to Jerimon? Please be careful.",
         "pt-BR": "[Gael]\nVocê vai voltar para Jeremias? Por favor, tenha cuidado.",
         "es-ES": "[Gael]\n¿Vas a volver con Jeremías? Por favor, ten cuidado."
     },
     "bfVSBg": {
-        "ko-KR": "[게인]\n낚싯대가 멀쩡하게 나타난 것 처럼 시루드도 멀쩡한 모습으로 우리 앞에 나타났으면 좋겠네요...",
         "en-US": "[Gein]\nI hope Sirud appears intact, just like the fishing rod appeared intact...",
         "pt-BR": "[Gael]\nEspero que Sirud apareça intacto, assim como a vara de pescar apareceu intacta...",
         "es-ES": "[Gael]\nEspero que Sirud aparezca intacto, así como la caña de pescar apareció intacta..."
     },
     "bvVSBg": {
-        "ko-KR": "[게인]\n새로운 정보가 생기면 저에게 꼭 알려주세요!",
         "en-US": "[Gein]\nIf you get any new information, please let me know!",
         "pt-BR": "[Gael]\nSe você tiver alguma informação nova, por favor me avise!",
         "es-ES": "[Gael]\n¡Si tienes alguna información nueva, por favor avísame!"
     },
     "b/VSBg": {
-        "ko-KR": "[게인]\n헉...헉...안녕하세요 모험가님, 헥...헥... 지쳐서 움직일 수가 없네요...",
         "en-US": "[Gein]\nUgh...pant...Hi, traveler, ugh...pant...I'm so tired I can't speak properly...",
         "pt-BR": "[Gael]\nUf...arf...Oi, viajante, aff...arf...estou tão cansado que não consigo falar direito...",
         "es-ES": "[Gael]\nUf... arf... Hola, viajero, aff... arf... estoy tan cansado que no puedo hablar bien..."
     },
     "cPVSBg": {
-        "ko-KR": "라케",
         "en-US": "Layla",
         "pt-BR": "Laís",
         "es-ES": "Laís"
     },
     "cfVSBg": {
-        "ko-KR": "[라케]\n정말 고맙습니다!!",
         "en-US": "[Layla]\nThank you so much!!",
         "pt-BR": "[Laís]\nMuito obrigada!!",
         "es-ES": "[Laís]\n¡¡Muchas gracias!!"
     },
     "cvVSBg": {
-        "ko-KR": "[라케]\n이제 다시 시루드와 낚시를 할 수 있게 되었네요.",
         "en-US": "[Layla]\nNow I can fish with Sirud again.",
         "pt-BR": "[Laís]\nAgora posso pescar com Sirud novamente.",
         "es-ES": "[Laís]\nAhora puedo pescar con Sirud otra vez."
     },
     "c/VSBg": {
-        "ko-KR": "[라케]\n정말 다행이야...",
         "en-US": "[Layla]\nI'm so happy...",
         "pt-BR": "[Laís]\nEstou tão feliz...",
         "es-ES": "[Laís]\nEstoy tan feliz..."
     },
     "dPVSBg": {
-        "ko-KR": "[라케]\n헉헉... 한바탕 힘을 쓰니 너무 힘들어요...",
         "en-US": "[Layla]\nUrgh... it's so hard to use strength...",
         "pt-BR": "[Laís]\nUrgh... é tão difícil usar a força...",
         "es-ES": "[Laís]\nUrgh... es tan difícil usar la fuerza..."
     },
     "dfVSBg": {
-        "ko-KR": "[라케]\n하지만 시루드를 위해서하면 얼마든지...",
         "en-US": "[Layla]\nI'll do it for Sirud...",
         "pt-BR": "[Laís]\nFarei isso por Sirud...",
         "es-ES": "[Laís]\nLo haré por Sirud..."
     },
     "dvVSBg": {
-        "ko-KR": "[라케]\n시루드가 실종되고 나서 딱 3개월이 지난 오늘.",
         "en-US": "[Layla]\nToday, three months have passed since Sirud disappeared.",
         "pt-BR": "[Laís]\nHoje, três meses se passaram desde que Sirud desapareceu.",
         "es-ES": "[Laís]\nHoy, han pasado tres meses desde que Sirud desapareció."
     },
     "d/VSBg": {
-        "ko-KR": "[라케]\n시루드의 낚싯대가 발견되었네요.",
         "en-US": "[Layla]\nSirud's fishing rod was found.",
         "pt-BR": "[Laís]\nA vara de pescar de Sirud foi encontrada.",
         "es-ES": "[Laís]\nLa caña de pescar de Sirud fue encontrada."
     },
     "ePVSBg": {
-        "ko-KR": "[라케]\n저는 그런 생각이 들더라고요.",
         "en-US": "[Layla]\nI became so sad.",
         "pt-BR": "[Laís]\nEu fiquei tão triste.",
         "es-ES": "[Laís]\nMe puse muy triste."
     },
     "efVSBg": {
-        "ko-KR": "어떤 생각이요?",
         "en-US": "For what reason?",
         "pt-BR": "Por qual motivo?",
         "es-ES": "¿Por qué motivo?"
     },
     "evVSBg": {
-        "ko-KR": "[라케]\n왜 이제서야 발견되었을까요, 이것은 누군가가 보내는 메세지가 아닐까요?",
         "en-US": "[Layla]\nWhy was it only discovered now, isn't that a sign?",
         "pt-BR": "[Laís]\nPor que só foi descoberto agora, não é um sinal?",
         "es-ES": "[Laís]\n¿Por qué sólo fue descubierta ahora, no es una señal?"
     },
     "e/VSBg": {
-        "ko-KR": "듣고 보니 일리가 없지는 않네요.",
         "en-US": "Maybe it's not.",
         "pt-BR": "Pode ser que não.",
         "es-ES": "Puede que no lo sea."
     },
     "fPVSBg": {
-        "ko-KR": "[라케]\n하... 그냥 저의 망상일 뿐이에요. 오늘따라 유난히 그 아이가 보고 싶습니다.",
         "en-US": "[Layla]\nYeah... it might just be in my head. I miss that jokester so much.",
         "pt-BR": "[Laís]\nÉ... pode ser só coisa da minha cabeça. Eu sinto muita falta daquele brincalhão.",
         "es-ES": "[Laís]\nSí... puede ser sólo cosa mía. Extraño mucho a ese bromista."
     },
     "ffVSBg": {
-        "ko-KR": "스프",
         "en-US": "Soup",
         "pt-BR": "Canjica",
         "es-ES": "Sopa"
     },
     "fvVSBg": {
-        "ko-KR": "[스프]\n시루드가 우리 곁으로 돌아왔어요.",
         "en-US": "[Soup]\nSirud is back.",
         "pt-BR": "[Canjica]\nSirud está de volta.",
         "es-ES": "[Sopa]\nSirud ha vuelto."
     },
     "f/VSBg": {
-        "ko-KR": "[스프]\n모험가님 덕분입니다. 정말 감사드려요.",
         "en-US": "[Soup]\nThank you very much, traveler.",
         "pt-BR": "[Canjica]\nMuito obrigado viajante.",
         "es-ES": "[Sopa]\nMuchas gracias, trotamundos."
     },
     "gPVSBg": {
-        "ko-KR": "[스프]\n저의 온 힘을 다했습니다.",
         "en-US": "[Soup]\nI did what I could.",
         "pt-BR": "[Canjica]\nEu fiz o que pude.",
         "es-ES": "[Sopa]\nHice lo que pude."
     },
     "gfVSBg": {
-        "ko-KR": "[스프]\n시루드는 무사히 돌아오겠죠?",
         "en-US": "[Soup]\nSirud will come back safely, right?",
         "pt-BR": "[Canjica]\nSirud vai voltar em segurança, não é?",
         "es-ES": "[Sopa]\nSirud volverá sano y salvo, ¿verdad?"
     },
     "gvVSBg": {
-        "ko-KR": "[스프]\n안녕하세요, 실종된 시루드의 친구 스프라고 합니다.",
         "en-US": "[Soup]\nHi, I'm Soup, a friend of Sirud.",
         "pt-BR": "[Canjica]\nOi, eu sou o Canjica, um amigo de Sirud.",
         "es-ES": "[Sopa]\nHola, soy Potaje, un amigo de Sirud."
     },
     "g/VSBg": {
-        "ko-KR": "[스프]\n저와 시루드, 라케, 게인 이렇게 넷이서 종종 낚시를 즐겼었어요.",
         "en-US": "[Soup]\nSirud, Layla, Gein and I used to go out fishing.",
         "pt-BR": "[Canjica]\nSirud, Laís, Gael e eu saíamos para pescar.",
         "es-ES": "[Sopa]\nSirud, Laís, Gael y yo salíamos a pescar."
     },
     "hPVSBg": {
-        "ko-KR": "[스프]\n그 비바람이 몰아쳤던 날... 시루드가 낚시하러 나가는 것을 말리지 않았던 것에 대해 큰 죄책감을 가지고 지내왔어요.",
         "en-US": "[Soup]\nThat stormy day... I've felt very guilty for not stopping Sirud from going out to fish.",
         "pt-BR": "[Canjica]\nAquele dia de tempestade... Tenho me sentido muito culpado por não ter impedido Sirud de sair para pescar.",
         "es-ES": "[Sopa]\nAquel día de tormenta… Me he sentido muy culpable por no haber impedido que Sirud saliera a pescar."
     },
     "hfVSBg": {
-        "ko-KR": "[스프]\n시루드의 낚싯대가 발견되었다는 이야기를 듣고 부리나케 뛰쳐 나왔습니다.",
         "en-US": "[Soup]\nWhen I heard Sirud's fishing rod was found, I started crying.",
         "pt-BR": "[Canjica]\nQuando soube que a vara de pescar de Sirud foi encontrada, eu comecei a chorar.",
         "es-ES": "[Sopa]\nCuando supe que la caña de pescar de Sirud fue encontrada, me puse a llorar."
     },
     "hvVSBg": {
-        "ko-KR": "[스프]\n무엇인가 단서가 있겠죠?",
         "en-US": "[Soup]\nCould it be a clue?",
         "pt-BR": "[Canjica]\nSerá que é uma pista?",
         "es-ES": "[Sopa]\n¿Será una pista?"
     },
     "h/VSBg": {
-        "ko-KR": "제리몬",
         "en-US": "Jerimon",
         "pt-BR": "Jeremias",
         "es-ES": "Jeremías"
     },
     "iPVSBg": {
-        "ko-KR": "[제리몬]\n음.... 으음...",
         "en-US": "[Jerimon]\nHmm.... Wow...",
         "pt-BR": "[Jeremias]\nHmm.... Uau...",
         "es-ES": "[Jeremías]\nHmm.... Guau..."
     },
     "ifVSBg": {
-        "ko-KR": "[제리몬]\n어맛, 깜짝이야!!",
         "en-US": "[Jerimon]\nWow, what a surprise!!",
         "pt-BR": "[Jeremias]\nNossa, que surpresa!!",
         "es-ES": "[Jeremías]\n¡¡Vaya, qué sorpresa!!"
     },
     "ivVSBg": {
-        "ko-KR": "[제리몬]\n무슨 일이시죠? 제가 지금 바쁘니 이야기는 나중에 듣겠습니다.",
         "en-US": "[Jerimon]\nCan I help you? I'm busy right now, so I'll talk to you later.",
         "pt-BR": "[Jeremias]\nPois não? Estou ocupado agora, então falo com você mais tarde.",
         "es-ES": "[Jeremías]\n¿En qué puedo ayudarte? Estoy ocupado ahora, así que hablamos más tarde."
     },
     "i/VSBg": {
-        "ko-KR": "[제리몬]\n무슨 일이시죠? 제가 지금은 좀 바쁜데...",
         "en-US": "[Jerimon]\nCan I help you? I'm busy at the moment...",
         "pt-BR": "[Jeremias]\nPois não? Estou ocupado agora no momento...",
         "es-ES": "[Jeremías]\n¿En qué puedo ayudarte? Estoy ocupado en este momento..."
     },
     "jPVSBg": {
-        "ko-KR": "[제리몬]\n아아, 라케의 소개로 오신 분이군요. 기다리고 있었습니다.\n일단 낚싯대를 저에게 보여주시겠어요?",
         "en-US": "[Jerimon]\nAh, Layla's father told me about you.\nDo you have the fishing rod there?",
         "pt-BR": "[Jeremias]\nAh, o pai da Laís me falou de você.\nEstá com a vara de pescar aí?",
         "es-ES": "[Jeremías]\nAh, el padre de Laís me habló de ti.\n¿Tienes la caña de pescar ahí?"
     },
     "jfVSBg": {
-        "ko-KR": "- 제리몬은 낚싯대를 면밀하게 관찰하기 시작했다. -",
         "en-US": "- Jerimon started examining the fishing rod. -",
         "pt-BR": "- Jeremias começou a examinar a vara de pescar. -",
         "es-ES": "- Jeremías comenzó a examinar la caña de pescar. -"
     },
     "jvVSBg": {
-        "ko-KR": ".",
         "en-US": ".",
         "pt-BR": ".",
         "es-ES": "."
     },
     "j/VSBg": {
-        "ko-KR": "..",
         "en-US": "..",
         "pt-BR": "..",
         "es-ES": ".."
     },
     "kPVSBg": {
-        "ko-KR": "...",
         "en-US": "...",
         "pt-BR": "...",
         "es-ES": "..."
     },
     "kfVSBg": {
-        "ko-KR": "....",
         "en-US": "....",
         "pt-BR": "....",
         "es-ES": "...."
     },
     "kvVSBg": {
-        "ko-KR": ".....",
         "en-US": ".....",
         "pt-BR": ".....",
         "es-ES": "....."
     },
     "k/VSBg": {
-        "ko-KR": "[제리몬]\n그래, 맞아... 이 물질은 바로 그거야... 이렇게 또 발견하게 되다니...",
         "en-US": "[Jerimon]\nYes, that's right... this substance is what it is... I imagined...",
         "pt-BR": "[Jeremias]\nSim, isso mesmo... essa substância é o que é... imaginei...",
         "es-ES": "[Jeremías]\nSí, eso es... esta sustancia es lo que es... me lo imaginaba..."
     },
     "lPVSBg": {
-        "ko-KR": "어떤 물질을 말씀하시는건가요??",
         "en-US": "Substance??",
         "pt-BR": "Substância??",
         "es-ES": "¿¿Sustancia??"
     },
     "lfVSBg": {
-        "ko-KR": "[제리몬]\n모험가님, 바다에서 가장 깊은 곳이 어디인지 아시나요?",
         "en-US": "[Jerimon]\nTraveler, do you know what the deepest place in the sea is?",
         "pt-BR": "[Jeremias]\nViajante, você sabe qual é o lugar mais profundo do mar?",
         "es-ES": "[Jeremías]\nTrotamundos, ¿sabes cuál es el lugar más profundo del mar?"
     },
     "lvVSBg": {
-        "ko-KR": "글쎄요...??",
         "en-US": "What...??",
         "pt-BR": "Qual...??",
         "es-ES": "¿¿Cuál...??"
     },
     "l/VSBg": {
-        "ko-KR": "[제리몬]\n바로 ^4D4DFF해구^000000라고 불리우는 곳인데요, 쉽게 말하면 바다 속에 있는 깊은 낭떠러지라고 보시면 됩니다.",
         "en-US": "[Jerimon]\nThe ^4D4DFFAbyssal Trenches^000000. It's like a big hole at the bottom of the ocean.",
         "pt-BR": "[Jeremias]\nSão as ^4D4DFFFossas Abissais^000000. É como um grande buraco no fundo do oceano.",
         "es-ES": "[Jeremías]\nSon las ^4D4DFFFosas Abismales^000000. Es como un gran agujero en el fondo del océano."
     },
     "mPVSBg": {
-        "ko-KR": "[제리몬]\n전 세계의 바다에는 다양한 형태의 해구가 수백 개 이상 존재한다고 알려져 있어요.",
         "en-US": "[Jerimon]\nIt's known that there are hundreds of different types of trenches in the world's oceans.",
         "pt-BR": "[Jeremias]\nSabe-se que existem centenas de tipos diferentes de fossas nos oceanos do mundo.",
         "es-ES": "[Jeremías]\nSe sabe que existen cientos de tipos diferentes de fosas en los océanos del mundo."
     },
     "mfVSBg": {
-        "ko-KR": "[제리몬]\n그 중에서 가장 넓고 깊은 해구로 알려진 곳이 바로 이즈루드 근처에 존재하는 ^4D4DFF바이아란 해구^000000입니다.",
         "en-US": "[Jerimon]\nThe widest and deepest known one is near ^4D4DFFByalan island^000000 close to Izlude.",
         "pt-BR": "[Jeremias]\nA mais larga e profunda conhecida é a da ^4D4DFFilha Byalan^000000 perto de Izlude.",
         "es-ES": "[Jeremías]\nLa más ancha y profunda conocida es la de la ^4D4DFFisla Byalan^000000 cerca de Izlude."
     },
     "mvVSBg": {
-        "ko-KR": "[제리몬]\n해구의 밑 바닥 쪽에는 희귀한 생명체들이 존재하고 있어서 저와 같은 해양 관련 학자들은 거기에 큰 관심을 보여왔고 탐색을 해 왔죠.",
         "en-US": "[Jerimon]\nRare life forms exist at the bottom of the trench, so marine scientists like me have shown great interest in them and have been exploring them.",
         "pt-BR": "[Jeremias]\nExistem formas de vida raras no fundo da fossa, então cientistas marinhos como eu demonstraram grande interesse por elas e as têm explorado.",
         "es-ES": "[Jeremías]\nExisten formas de vida raras en el fondo de la fosa, así que oceanógrafos como yo hemos demostrado gran interés por ellas y las hemos estado explorando."
     },
     "m/VSBg": {
-        "ko-KR": "[제리몬]\n그나마 깊이가 얕은 해구는 어느정도 탐색할 수가 있습니다.",
         "en-US": "[Jerimon]\nAt least, you can explore shallower trenches to some extent.",
         "pt-BR": "[Jeremias]\nPelo menos, você pode explorar fossas mais rasas até certo ponto.",
         "es-ES": "[Jeremías]\nAl menos, puedes explorar fosas más superficiales hasta cierto punto."
     },
     "nPVSBg": {
-        "ko-KR": "[제리몬]\n하지만 바이아란 해구 같은 경우에는 말도 안되게 깊은 곳이라 과학적으로는 그 어떤 생명체도 존재할 수 없다는 것이 학자들의 계산이었는데요.",
         "en-US": "[Jerimon]\nBut in the case of the Byalan Abyssal Trench, according to scientists... no life could exist there because it's ridiculously deep.",
         "pt-BR": "[Jeremias]\nMas no caso da Fossa Abissal de Byalan, de acordo com os cientistas... nenhuma vida poderia existir lá porque é ridiculamente profunda.",
         "es-ES": "[Jeremías]\nPero en el caso de la Fosa Abismal de Byalan, según los científicos... ninguna vida podría existir ahí porque es ridículamente profunda."
     },
     "nfVSBg": {
-        "ko-KR": "[제리몬]\n제가 최근에 바이아란 해구에 생명체가 존재한다는 것을 알아내었어요.",
         "en-US": "[Jerimon]\nI recently discovered that life exists in the Byalan Trench.",
         "pt-BR": "[Jeremias]\nDescobri recentemente que existe vida na Fossa de Byalan.",
         "es-ES": "[Jeremías]\nDescubrí recientemente que existe vida en la Fosa de Byalan."
     },
     "nvVSBg": {
-        "ko-KR": "어떻게 그것을 알 수가 있는거죠??",
         "en-US": "How do you know that??",
         "pt-BR": "Como você sabe disso??",
         "es-ES": "¿¿Cómo lo sabes??"
     },
     "n/VSBg": {
-        "ko-KR": "[제리몬]\n저의 마력이 담긴 돌로 알 수 있어요.",
         "en-US": "[Jerimon]\nThanks to my enchanted stone with my magical power.",
         "pt-BR": "[Jeremias]\nGraças à minha pedra encantada com meu poder mágico.",
         "es-ES": "[Jeremías]\nGracias a mi piedra encantada con mi poder mágico."
     },
     "oPVSBg": {
-        "ko-KR": "마력이 담긴 돌요?",
         "en-US": "Stone with magical power?",
         "pt-BR": "Pedra com poder mágico?",
         "es-ES": "¿Piedra con poder mágico?"
     },
     "ofVSBg": {
-        "ko-KR": "[제리몬]\n네, 저는 마법사 출신 해양학자에요. 해양학을 위해 마법을 배웠지요.",
         "en-US": "[Jerimon]\nYes, I'm a mage who became an oceanographer. I learned magic for oceanography.",
         "pt-BR": "[Jeremias]\nSim, sou um mago que virou oceanógrafo. Aprendi magia para oceanografia.",
         "es-ES": "[Jeremías]\nSí, soy un mago que se hizo oceanógrafo. Aprendí magia para la oceanografía."
     },
     "ovVSBg": {
-        "ko-KR": "[제리몬]\n커다란 돌멩이에 마법을 걸어 놓고 해구가 존재하는 수면으로 빠뜨립니다.",
         "en-US": "[Jerimon]\nI enchanted a stone, went by boat to the location of the abyssal trench, and submerged it.",
         "pt-BR": "[Jeremias]\nEu encantei uma pedra, fui de barco até a localização da fossa abissal e a mergulhei.",
         "es-ES": "[Jeremías]\nEncanté una piedra, fui en barco hasta la ubicación de la fosa abisal y la sumergí."
     },
     "o/VSBg": {
-        "ko-KR": "[제리몬]\n빠뜨린 돌멩이에 걸린 마력은 저와 연결되어 있기 때문에 거리를 측정함으로써 깊이가 어느정도인지 돌멩이의 근처에서 어떤 현상이 일어나고 있는지 조금은 알 수 있죠.",
         "en-US": "[Jerimon]\nSince the magical energy applied to the stone is connected to me, by measuring the distance, I can know its depth and what's happening around the stone.",
         "pt-BR": "[Jeremias]\nComo a energia mágica aplicada à pedra está conectada a mim, medindo a distância, posso saber a profundidade dela e o que está acontecendo ao redor da pedra.",
         "es-ES": "[Jeremías]\nComo la energía mágica aplicada a la piedra está conectada a mí, midiendo la distancia, puedo saber su profundidad y lo que está ocurriendo alrededor de la piedra."
     },
     "pPVSBg": {
-        "ko-KR": "[제리몬]\n그렇게 해서 알아낸 정보를 말씀드리자면...",
         "en-US": "[Jerimon]\nLet me share the information I discovered...",
         "pt-BR": "[Jeremias]\nDeixe-me compartilhar a informação que descobri...",
         "es-ES": "[Jeremías]\nDéjame compartir la información que descubrí..."
     },
     "pfVSBg": {
-        "ko-KR": "[제리몬]\n일반 바닷물과 심해 바닷물의 성분 차이는 거의 비슷해요. 그런데 유일하게 바이아란 해구의 심해는 달랐어요.",
         "en-US": "[Jerimon]\nThe composition of seawater and that of any abyssal trench is almost the same. However, in the Byalan trench there is a difference.",
         "pt-BR": "[Jeremias]\nA composição da água do mar e a de qualquer fossa abissal é quase a mesma. Todavia, na fossa de Byalan há uma diferença.",
         "es-ES": "[Jeremías]\nLa composición del agua del mar y la de cualquier fosa abisal es casi la misma. Sin embargo, en la fosa de Byalan hay una diferencia."
     },
     "pvVSBg": {
-        "ko-KR": "[제리몬]\n물과 기름 같다고 해야 할까, 서로 절대 섞이지 않는 구간이 존재하더군요.",
         "en-US": "[Jerimon]\nIt's like water and oil, there's an area where they never mix.",
         "pt-BR": "[Jeremias]\nÉ como água e óleo, há uma área em que eles nunca se misturam.",
         "es-ES": "[Jeremías]\nEs como el agua y el aceite, hay un área en la que nunca se mezclan."
     },
     "p/VSBg": {
-        "ko-KR": "[제리몬]\n서로 맞닥뜨린 곳에 강한 경계가 이루어졌는데 음 그것은 마치 그 구간의 심해수가 위에서 내려오는 바닷물을 필사적으로 막는 느낌이었어요.",
         "en-US": "[Jerimon]\nIt seems the water of the Byalan abyssal trenches was blocking the ocean water coming from above it.",
         "pt-BR": "[Jeremias]\nParece que a água das fossas abissais de Byalan estava bloqueando a água do oceano que vinha de cima dela.",
         "es-ES": "[Jeremías]\nParece que el agua de las fosas abisales de Byalan estaba bloqueando el agua del océano que venía desde arriba."
     },
     "qPVSBg": {
-        "ko-KR": "[제리몬]\n수압 또한 일반 바닷물보다 매우 낮아서 생명체가 살기에 좋은 환경을 가지고 있다.. 라고 추측하고 있습니다.",
         "en-US": "[Jerimon]\nThe water pressure is also much lower than normal ocean water, so it's speculated to be a good environment for living beings.",
         "pt-BR": "[Jeremias]\nA pressão da água também é muito menor do que a da água do oceano normal, por isso especula-se que seja um bom ambiente para os seres vivos.",
         "es-ES": "[Jeremías]\nLa presión del agua también es mucho menor que la del agua oceánica normal, por eso se especula que es un buen ambiente para los seres vivos."
     },
     "qfVSBg": {
-        "ko-KR": "[제리몬]\n우리는 그것을 ^4D4DFF심연의 해수^000000라고 부르고 있어요.",
         "en-US": "[Jerimon]\nTherefore, I called this mysterious area ^4D4DFFAbyssal Water^000000.",
         "pt-BR": "[Jeremias]\nPor isso, chamei de ^4D4DFFÁgua Abismal^000000 essa área misteriosa.",
         "es-ES": "[Jeremías]\nPor eso, llamé ^4D4DFFAgua Abismal^000000 a esta área misteriosa."
     },
     "qvVSBg": {
-        "ko-KR": "이 광택이 말씀하신 내용과 연관이 있는 건가요?",
         "en-US": "Is that where the glow comes from?",
         "pt-BR": "É de onde vem o brilho?",
         "es-ES": "¿De ahí viene el brillo?"
     },
     "q/VSBg": {
-        "ko-KR": "[제리몬]\n네! 맞아요!!\n바이아란 해구 깊숙한 곳에 있는 심연의 해수의 존재만 파악했고 샘플을 구하기가 굉장히 어려웠어요, 이 낚싯대에는 상당히 많은 양의 심연의 해수가 묻어있는데...",
         "en-US": "[Jerimon]\nThat! Exactly!!\nIt was very difficult to obtain proof of the existence of ^4D4DFFAbyssal Water^000000. And this fishing rod is soaked with the water from there...",
         "pt-BR": "[Jeremias]\nIsso! Certíssimo!!\nFoi muito difícil obter a prova da existência da ^4D4DFFÁgua Abismal^000000. E e essa vara de pesca está encharcada com a água de lá...",
         "es-ES": "[Jeremías]\n¡Eso! ¡¡Exactamente!!\nFue muy difícil obtener la prueba de la existencia del ^4D4DFFAgua Abismal^000000. Y esta caña de pescar está empapada con el agua de ahí..."
     },
     "rPVSBg": {
-        "ko-KR": "[제리몬]\n이 낚싯대를 저에게 맡겨 주시겠어요? 이 해수를 추출하여 정수로 만들면 무엇인가를 알아낼 수 있을 것 같아요.",
         "en-US": "[Jerimon]\nCould you lend me the fishing rod? If I extract this water and turn it into essence, I think I can discover something.",
         "pt-BR": "[Jeremias]\nVocê poderia me emprestar a vara de pescar? Se eu extrair esta água e transformá-la em essência, acho que posso descobrir alguma coisa.",
         "es-ES": "[Jeremías]\n¿Podrías prestarme la caña de pescar? Si extraigo esta agua y la convierto en esencia, creo que podré descubrir algo."
     },
     "rfVSBg": {
-        "ko-KR": "[제리몬]\n아 그리고 낚싯대가 오늘 발견되었다고 들었는데 근처 해상에 또 떠오른 물질이 없는지 확인을 좀 부탁드려도 될까요?",
         "en-US": "[Jerimon]\nAh, I also heard the fishing rod was found today. Can I ask you to check if there's another material that came along with it?",
         "pt-BR": "[Jeremias]\nAh, ainda ouvi dizer que a vara de pescar foi encontrada hoje. Posso pedir-lhe para verificar se há outro material que veio junto com ela?",
         "es-ES": "[Jeremías]\nAh, también escuché que la caña de pescar fue encontrada hoy. ¿Puedo pedirte que verifiques si hay otro material que vino junto con ella?"
     },
     "rvVSBg": {
-        "ko-KR": "좋습니다, 다녀올게요.",
         "en-US": "I'll check.",
         "pt-BR": "Verifico sim.",
         "es-ES": "Lo revisaré."
     },
     "r/VSBg": {
-        "ko-KR": "아 지금은 좀 바빠서...",
         "en-US": "I don't have time...",
         "pt-BR": "Estou sem tempo...",
         "es-ES": "No tengo tiempo..."
     },
     "sPVSBg": {
-        "ko-KR": "[제리몬]\n네, 잘 부탁드립니다! 기다리고 있을게요!!",
         "en-US": "[Jerimon]\nGreat! I'll be waiting for you!!",
         "pt-BR": "[Jeremias]\nÓtimo! Vou ficar aguardando você!!",
         "es-ES": "[Jeremías]\n¡Genial! ¡¡Te estaré esperando!!"
     },
     "sfVSBg": {
-        "ko-KR": "[제리몬]\n바쁜 일 끝나시면 꼭 다시 저를 찾아와 주세요!",
         "en-US": "[Jerimon]\nWhen you finish your work, please come back to me!",
         "pt-BR": "[Jeremias]\nQuando você terminar com seu trabalho, por favor, volte para mim!",
         "es-ES": "[Jeremías]\nCuando termines con tu trabajo, ¡por favor, vuelve conmigo!"
     },
     "svVSBg": {
-        "ko-KR": "[제리몬]\n아, 어서오세요. 모험가님!",
         "en-US": "[Jerimon]\nHello, traveler!",
         "pt-BR": "[Jeremias]\nOlá, viajante!",
         "es-ES": "[Jeremías]\n¡Hola, trotamundos!"
     },
     "s/VSBg": {
-        "ko-KR": "[제리몬]\n조사는 순조롭게 진행 중이에요~\n자, 이것을 봐 주시겠어요?",
         "en-US": "[Jerimon]\nThe investigation is proceeding smoothly.\nCould you, please, look at this?",
         "pt-BR": "[Jeremias]\nA investigação está ocorrendo sem problemas. \nVocê poderia, por favor, olhar para isso?",
         "es-ES": "[Jeremías]\nLa investigación está ocurriendo sin problemas.\n¿Podrías, por favor, mirar esto?"
     },
     "tPVSBg": {
-        "ko-KR": "[제리몬]\n여기 작은 물병 2개가 보이시죠?",
         "en-US": "[Jerimon]\nDo you see these two little bottles of water?",
         "pt-BR": "[Jeremias]\nEstá vendo essas duas garrafinhas de água?",
         "es-ES": "[Jeremías]\n¿Ves estas dos botellitas de agua?"
     },
     "tfVSBg": {
-        "ko-KR": "[제리몬]\n한 쪽에는 일반 해수, 다른 한 쪽에는 낚싯대에 묻어 있던 심연의 해수를 섞은 바닷물입니다. 이 두 가지 물을 섞어 볼게요.",
         "en-US": "[Jerimon]\nOn one side is ocean water, and on the other side is the abyssal water that was on the fishing rod. I'll try to mix these two waters.",
         "pt-BR": "[Jeremias]\nDe um lado está a água do oceano, e do outro lado está a água abismal que estava na vara de pescar. Vou tentar misturar essas duas águas.",
         "es-ES": "[Jeremías]\nDe un lado está el agua del océano, y del otro lado está el agua abisal que estaba en la caña de pescar. Intentaré mezclar estas dos aguas."
     },
     "tvVSBg": {
-        "ko-KR": "- 제리몬은 두 가지의 물을 한 쪽의 병에 모두 넣은 뒤에 흔들어 섞기 시작했다. -",
         "en-US": "- Jerimon mixed the two waters in a bottle and started shaking the container. -",
         "pt-BR": "- Jeremias misturou as duas águas em uma garrafa e começou a sacudir o recipiente. -",
         "es-ES": "- Jeremías mezcló las dos aguas en una botella y comenzó a agitar el recipiente. -"
     },
     "t/VSBg": {
-        "ko-KR": "[제리몬]\n자, 보세요. 저번에 말씀드렸다시피 전혀 섞이지 않죠?",
         "en-US": "[Jerimon]\nNow, observe. As I said, they don't mix, see?",
         "pt-BR": "[Jeremias]\nAgora, observe. Como eu disse, elas não se misturam, viu?",
         "es-ES": "[Jeremías]\nAhora, observa. Como te dije, no se mezclan, ¿ves?"
     },
     "uPVSBg": {
-        "ko-KR": "[제리몬]\n이것을.... 이것을!!",
         "en-US": "[Jerimon]\nThis is it.... I knew it!!",
         "pt-BR": "[Jeremias]\nÉ isso.... sabia!!",
         "es-ES": "[Jeremías]\nEsto es.... ¡¡lo sabía!!"
     },
     "ufVSBg": {
-        "ko-KR": "[제리몬]\n미칠듯한 속도로 흔들면!!",
         "en-US": "[Jerimon]\nAnd if you shake it really crazily...!!",
         "pt-BR": "[Jeremias]\nE se você agitar bem loucamente...!!",
         "es-ES": "[Jeremías]\n¡¡Y si agitas muy fuerte...!!"
     },
     "uvVSBg": {
-        "ko-KR": "[제리몬]\n<FONT COLOR = E68F8F><FONT SIZE = 16><B>와자자자자자자자자자자자자자자자자잤!!!!!!</FONT></FONT></B>",
         "en-US": "[Jerimon]\n<FONT COLOR = E68F8F><FONT SIZE = 16><B>AAAAAAaaaaaa!!!!!!</FONT></FONT></B>",
         "pt-BR": "[Jeremias]\n<FONT COLOR = E68F8F><FONT SIZE = 16><B>AAAAAAaaaaaa!!!!!!</FONT></FONT></B>",
         "es-ES": "[Jeremías]\n<FONT COLOR = E68F8F><FONT SIZE = 16><B>¡¡¡¡¡¡AAAAAAaaaaaa!!!!!!</FONT></FONT></B>"
     },
     "u/VSBg": {
-        "ko-KR": "[제리몬]\n<FONT COLOR = E68F8F><FONT SIZE = 16><B>으롸차차아아롸차아아아아우와아악앗아!!!!!!</FONT></FONT></B>",
         "en-US": "[Jerimon]\n<FONT COLOR = E68F8F><FONT SIZE = 16><B>AAAaaa! AAaaaAAAaa! aaaAAAAaaa! Aaaah!!!!!!</FONT></FONT></B>",
         "pt-BR": "[Jeremias]\n<FONT COLOR = E68F8F><FONT SIZE = 16><B>AAAaaa! AAaaaAAAaa! aaaAAAAaaa! Aaaah!!!!!!</FONT></FONT></B>",
         "es-ES": "[Jeremías]\n<FONT COLOR = E68F8F><FONT SIZE = 16><B>¡¡AAAaaa! ¡AAaaaAAAaa! ¡aaaAAAAaaa! ¡Aaaah!!!!!!</FONT></FONT></B>"
     },
     "vPVSBg": {
-        "ko-KR": "[제리몬]\n<FONT COLOR = E68F8F><FONT SIZE = 16><B>아라자자자자잤으와아아아아아앙아아았!!!!!!</FONT></FONT></B>",
         "en-US": "[Jerimon]\n<FONT COLOR = E68F8F><FONT SIZE = 16><B>AAAAA... AAAAAAAAH!!!!!!</FONT></FONT></B>",
         "pt-BR": "[Jeremias]\n<FONT COLOR = E68F8F><FONT SIZE = 16><B>AAAAA... AAAAAAAAH!!!!!!</FONT></FONT></B>",
         "es-ES": "[Jeremías]\n<FONT COLOR = E68F8F><FONT SIZE = 16><B>¡¡¡¡¡AAAAA... ¡AAAAAAA!!!!!!</FONT></FONT></B>"
     },
     "vfVSBg": {
-        "ko-KR": "[제리몬]\n아다따따따땄!! 아쵸오!! 으럈!! 켁, 커어엉얶...",
         "en-US": "[Jerimon]\n @_@...",
         "pt-BR": "[Jeremias]\n @_@...",
         "es-ES": "[Jeremías]\n @_@..."
     },
     "vvVSBg": {
-        "ko-KR": "아이고 사람 잡겠네, 괜찮아요??",
         "en-US": "Are you okay??",
         "pt-BR": "Você está bem??",
         "es-ES": "¿Estás bien??"
     },
     "v/VSBg": {
-        "ko-KR": "[제리몬]\n끄앍... 후우... 후우... 네 이제 괜찮습니다.",
         "en-US": "[Jerimon]\nI... got... di-dizzy... but I'm better now.",
         "pt-BR": "[Jeremias]\nEu... fiquei... to-tonto... mas estou melhor agora.",
         "es-ES": "[Jeremías]\nYo... me... ma-mareé... pero ya estoy mejor."
     },
     "wPVSBg": {
-        "ko-KR": "- 제리몬이 들고 있는 병 안을 보니 소용돌이의 모습이 선명하게 보였다. -",
         "en-US": "- The water in the bottle turned into a whirlpool. -",
         "pt-BR": "- A água na garrafa virou um redemoinho. -",
         "es-ES": "- El agua en la botella se volvió un remolino. -"
     },
     "wfVSBg": {
-        "ko-KR": "[제리몬]\n자, 보이시나요? 이 소용돌이 말이에요!! 이것이 바로 바이아란 해구의 최하단과 연결하는 통로가 됩니다!",
         "en-US": "[Jerimon]\nSee this? This whirlpool!! This is the passage that connects to the bottom of the Byalan Trench!",
         "pt-BR": "[Jeremias]\nTá vendo isso? Este redemoinho!! Esta é a passagem que se conecta ao fundo da Fossa Byalan!",
         "es-ES": "[Jeremías]\n¿Ves esto? ¡¡Este remolino!! ¡Este es el pasaje que se conecta al fondo de la Fosa Byalan!"
     },
     "wvVSBg": {
-        "ko-KR": "??? 그냥 흔들어서 생긴 소용돌이 아닌가요?",
         "en-US": "Er... you just shook it too much, didn't you?",
         "pt-BR": "Er... você só sacudiu demais, não?",
         "es-ES": "Eh... sólo lo agitaste demasiado, ¿no?"
     },
     "w/VSBg": {
-        "ko-KR": "[제리몬]\n아닙니다. 이것은 저의 마력이 담긴 돌인데요, 자 이것을 보시죠.",
         "en-US": "[Jerimon]\nLook, this is a stone containing my magical power. Now, observe.",
         "pt-BR": "[Jeremias]\nOlha só, esta é uma pedra contendo meu poder mágico. Agora, observe.",
         "es-ES": "[Jeremías]\nMira, esta es una piedra que contiene mi poder mágico. Ahora, observa."
     },
     "xPVSBg": {
-        "ko-KR": "- 제리몬은 빛나는 돌멩이를 병에 넣었다. 그 빛나는 돌은 병 안의 소용돌이에 빨려 들어가 흔적도 없이 사라졌다! -",
         "en-US": "- Jerimon put the stone in the bottle. It was sucked by the whirlpool and disappeared! -",
         "pt-BR": "- Jeremias colocou a pedra na garrafa. Ela foi sugada pelo redemoinho e desapareceu! -",
         "es-ES": "- Jeremías puso la piedra en la botella. ¡Fue succionada por el remolino y desapareció! -"
     },
     "xfVSBg": {
-        "ko-KR": "아니, 이럴수가??",
         "en-US": "Huh? How??",
         "pt-BR": "Hã? Como??",
         "es-ES": "¿Eh? ¿¿Cómo??"
     },
     "xvVSBg": {
-        "ko-KR": "[제리몬]\n제 마력이 담긴 돌멩이는 저와의 거리를 측정하는 것이 가능하다고 말씀 드린적이 있죠?",
         "en-US": "[Jerimon]\nDidn't I tell you the magic stone can measure the distance to me?",
         "pt-BR": "[Jeremias]\nNão te disse que a pedra mágica pode medir a distância até mim?",
         "es-ES": "[Jeremías]\n¿No te dije que la piedra mágica puede medir la distancia hasta mí?"
     },
     "x/VSBg": {
-        "ko-KR": "[제리몬]\n저번에 바이아란 해구로 돌멩이를 집어 넣었을 때와 똑같은 느낌이에요..\n이 소용돌이를 따라가면 낚싯대의 주인을 찾을 수 있을지도 모릅니다.",
         "en-US": "[Jerimon]\nThe sensation is the same as the last time I threw a stone into the Byalan trench.\nIf you enter this whirlpool, you might find the owner of the fishing rod.",
         "pt-BR": "[Jeremias]\nA sensação é a mesma da última vez que joguei uma pedra na fossa de Byalan. \nSe você entrar este redemoinho, poderá encontrar o dono da vara de pescar.",
         "es-ES": "[Jeremías]\nLa sensación es la misma que la última vez que tiré una piedra en la fosa de Byalan.\nSi entras en este remolino, podrías encontrar al dueño de la caña de pescar."
     },
     "yPVSBg": {
-        "ko-KR": "[제리몬]\n문제는... 낚싯대에 묻어 있는 정수의 양으로는 사람이 들어갈 만한 큰 소용돌이를 만들 수가 없어요.",
         "en-US": "[Jerimon]\nThe problem is... I need an essence large enough for a person to enter.",
         "pt-BR": "[Jeremias]\nO problema é... preciso de uma essência grande o suficiente para uma pessoa entrar.",
         "es-ES": "[Jeremías]\nEl problema es... necesito una esencia lo suficientemente grande para que una persona pueda entrar."
     },
     "yfVSBg": {
-        "ko-KR": "이 정도의 양으로는 괜찮을까요?",
         "en-US": "Is this amount enough?",
         "pt-BR": "Essa quantidade serve?",
         "es-ES": "¿Esta cantidad sirve?"
     },
     "yvVSBg": {
-        "ko-KR": "- 게인으로부터 받은 ^4D4DFF심연의 정수^000000를 제리몬에게 보여주었다. -",
         "en-US": "- You showed the ^4D4DFFAbyssal Essence^000000 you got from Gein. -",
         "pt-BR": "- Você mostrou a ^4D4DFFEssência Abismal^000000 que pegou de Gael. -",
         "es-ES": "- Mostraste la ^4D4DFFEsencia del Abismo^000000 que conseguiste de Gael. -"
     },
     "y/VSBg": {
-        "ko-KR": "[제리몬]\n오, 혹시나 해서 부탁드렸던 것인데 정말로 발견되었군요!",
         "en-US": "[Jerimon]\nOh, you really found it!",
         "pt-BR": "[Jeremias]\nOh, você realmente encontrou!",
         "es-ES": "[Jeremías]\n¡Oh, ¡realmente la encontraste!"
     },
     "zPVSBg": {
-        "ko-KR": "[제리몬]\n이 정도의 양이면 일반 사람이 출입 가능한 균열의 소용돌이를 만들 수 있을 것 같아요. 저에게 넘겨주시면 되겠습니다.",
         "en-US": "[Jerimon]\nI think with this amount I can create a whirlpool big enough for ordinary people to enter! Give me this, please.",
         "pt-BR": "[Jeremias]\nAcho que com essa quantia posso criar um redemoinho tão grande que as pessoas comuns podem entrar! Me dê isso, por favor.",
         "es-ES": "[Jeremías]\n¡Creo que con esta cantidad puedo crear un remolino tan grande que las personas comunes puedan entrar! Dame esto, por favor."
     },
     "zfVSBg": {
-        "ko-KR": "[제리몬]\n이 정도의 분량을 여기서 하기에는 장소가 협소하니 이즈루드에서 진행하도록 하시죠. 그쪽 친구들의 도움도 받을 겸.\n그럼 이즈루드에서 만나요!!",
         "en-US": "[Jerimon]\nThis place is too small to do something like that. Let's do it in Izlude.\nSo, see you in Izlude!!",
         "pt-BR": "[Jeremias]\nEsse lugar é muito pequeno para fazer algo do tipo. Vamos fazer em Izlude.\nEntão, nos vemos em Izlude!!",
         "es-ES": "[Jeremías]\nEste lugar es muy pequeño para hacer algo así. Hagámoslo en Izlude.\n¡Entonces, nos vemos en Izlude!!"
     },
     "zvVSBg": {
-        "ko-KR": "[제리몬]\n그럼 이즈루드에서 만날 수 있도록 해요!!",
         "en-US": "[Jerimon]\nSo, see you in Izlude!!",
         "pt-BR": "[Jeremias]\nEntão, nos vemos em Izlude!!",
         "es-ES": "[Jeremías]\n¡Entonces, nos vemos en Izlude!!"
     },
     "z/VSBg": {
-        "ko-KR": "[제리몬]\n번거로우시겠지만 부탁드리겠습니다. 저는 여기서 기다리고 있을게요.",
         "en-US": "[Jerimon]\nI know it's a bother, but do it as soon as possible, please. I'll be waiting for you.",
         "pt-BR": "[Jeremias]\nEu sei que é um aborrecimento, mas faça isso o quanto antes, por favor. Vou ficar aguardando você.",
         "es-ES": "[Jeremías]\nSé que es una molestia, pero hazlo lo antes posible, por favor. Te estaré esperando."
     },
     "0PVSBg": {
-        "ko-KR": "[제리몬]\n아아 오셨습니까!!",
         "en-US": "[Jerimon]\nAh, you're here!!",
         "pt-BR": "[Jeremias]\nAh, você está aqui!!",
         "es-ES": "[Jeremías]\n¡¡Ah, ¡estás aquí!!"
     },
     "0fVSBg": {
-        "ko-KR": "[제리몬]\n모험가님이 오시는 동안 저희가 만반의 준비를 다 마쳤답니다.",
         "en-US": "[Jerimon]\nWhile you were coming, we finished all preparations.",
         "pt-BR": "[Jeremias]\nEnquanto você estava vindo, concluímos todos os preparativos.",
         "es-ES": "[Jeremías]\nMientras venías, concluimos todos los preparativos."
     },
     "0vVSBg": {
-        "ko-KR": "- 게인은 두 친구들과 숨을 헐떡이며 인사를 한다. -",
         "en-US": "- Gein looks very tired. -",
         "pt-BR": "- Gael aparenta estar bem cansado. -",
         "es-ES": "- Gael parece muy cansado. -"
     },
     "0/VSBg": {
-        "ko-KR": "[게인]\n하악, 하악,,, 헉.. 헉.... 앗 모험가님 어서오세요.",
         "en-US": "[Gein]\nUgh, uff Ah... uh.... hi, traveler.",
         "pt-BR": "[Gael]\nAff, uff Ah... uh.... oi, viajante.",
         "es-ES": "[Gael]\nUff, uff Ah... uh.... hola, trotamundos."
     },
     "1PVSBg": {
-        "ko-KR": "[게인]\n어떤 원리인지는 잘 모르겠지만 제리몬님이 시키는 대로 열심히 휘저었습니다!!",
         "en-US": "[Gein]\nI don't know the reason, I just know I shook like crazy!!",
         "pt-BR": "[Gael]\nNão sei o motivo, só quei que eu sacudi que nem um louco!!",
         "es-ES": "[Gael]\nNo sé el motivo, ¡¡sólo sé que agité como un loco!!"
     },
     "1fVSBg": {
-        "ko-KR": "[라케 & 스프]\n히익... 헥.. 헥.... 아... 안녕하세요.",
         "en-US": "[Layla & Soup]\nUfff... huh... Aaah... Ah... Hello.",
         "pt-BR": "[Laís & Canjica]\nUfff... huh... Aaah... Ah... Olá.",
         "es-ES": "[Laís & Sopa]\nUfff... huh... Aaah... Ah... Hola."
     },
     "1vVSBg": {
-        "ko-KR": "[제리몬]",
         "en-US": "[Jerimon]",
         "pt-BR": "[Jeremias]",
         "es-ES": "[Jeremías]"
     },
     "1/VSBg": {
-        "ko-KR": "자, 이제 시작해 볼까요?",
         "en-US": "Well, shall we begin?",
         "pt-BR": "Bem, vamos começar?",
         "es-ES": "Bueno, ¿comenzamos?"
     },
     "2PVSBg": {
-        "ko-KR": "[제리몬]\n이제 곧 소용돌이가 생성될 거에요.",
         "en-US": "[Jerimon]\nA whirlpool will be created soon.",
         "pt-BR": "[Jeremias]\nUm redemoinho será criado em breve.",
         "es-ES": "[Jeremías]\nPronto se creará un remolino."
     },
     "2fVSBg": {
-        "ko-KR": "[제리몬]\n제가 신호를 드리면 제 손을 잡아주세요!!",
         "en-US": "[Jerimon]\nAt my signal, hold my hand!!",
         "pt-BR": "[Jeremias]\nAo meu sinal, segure minha mão!!",
         "es-ES": "[Jeremías]\n¡¡A mi señal, ¡sujeta mi mano!!"
     },
     "2vVSBg": {
-        "ko-KR": "아니, 잠깐만요. 지금 바로 가는겁니까?",
         "en-US": "Whoa, are we going already?",
         "pt-BR": "Eita, mas já vamos?",
         "es-ES": "¿Qué, ya nos vamos?"
     },
     "2/VSBg": {
-        "ko-KR": "[제리몬]\n네네, 일단 넘어가서 생각하시죠! 저만 믿으세요~~!!",
         "en-US": "[Jerimon]\nYes, yes, go ahead! Just trust me~~!!",
         "pt-BR": "[Jeremias]\nSim, sim, vá em frente! Apenas confie em mim~~!!",
         "es-ES": "[Jeremías]\n¡Sí, sí, adelante! ¡¡Sólo confía en mí~~!!"
     },
     "3PVSBg": {
-        "ko-KR": "[제리몬]\n자, 지금입니다. 제 손을 잡아요!",
         "en-US": "[Jerimon]\nNow, let's go. Take my hand!",
         "pt-BR": "[Jeremias]\nAgora, vamos. Pegue minha mão!",
         "es-ES": "[Jeremías]\nAhora, vamos. ¡Toma mi mano!"
     },
     "3fVSBg": {
-        "ko-KR": "[제리몬]\n으왓! 빙글빙글 돈다아~~!!",
         "en-US": "[Jerimon]\nWow! It's spinning and spinning~~!!",
         "pt-BR": "[Jeremias]\nUau! Está girando e girando~~!!",
         "es-ES": "[Jeremías]\n¡Guau! ¡¡Está girando y girando~~!!"
     },
     "3vVSBg": {
-        "ko-KR": "[제리몬]\n안녕하세요!!",
         "en-US": "[Jerimon]\nHi!!",
         "pt-BR": "[Jeremias]\nOi!!",
         "es-ES": "[Jeremías]\n¡¡Hola!!"
     },
     "3/VSBg": {
-        "ko-KR": "[제리몬]\n모험가님 덕분에 하루하루 설레고 즐거운 시간을 보내고 있답니다.",
         "en-US": "[Jerimon]\nThanks to you, I'm having fun every day.",
         "pt-BR": "[Jeremias]\nGraças à você, estou me divertindo todos os dias.",
         "es-ES": "[Jeremías]\nGracias a ti, me divierto todos los días."
     },
     "4PVSBg": {
-        "ko-KR": "[제리몬]\n심해로 다시 떠나시겠습니까? 저도 같이 따라가겠습니다!!",
         "en-US": "[Jerimon]\nYou want to go to the abyssal trenches again? I'll follow you!!",
         "pt-BR": "[Jeremias]\nVocê quer ir para as fossas abissais de novo? Eu vou te seguir!!",
         "es-ES": "[Jeremías]\n¿Quieres ir a las fosas abisales de nuevo? ¡¡Yo te sigo!!"
     },
     "4fVSBg": {
-        "ko-KR": "부탁드립니다.",
         "en-US": "Enter.",
         "pt-BR": "Entrar.",
         "es-ES": "Entrar."
     },
     "4vVSBg": {
-        "ko-KR": "다음에 가겠습니다.",
         "en-US": "I'll go next time.",
         "pt-BR": "Vou na próxima.",
         "es-ES": "Iré en la próxima."
     },
     "4/VSBg": {
-        "ko-KR": "좋습니다.",
         "en-US": "Cool!",
         "pt-BR": "Legal!",
         "es-ES": "¡Genial!"
     },
     "5PVSBg": {
-        "ko-KR": "[제리몬]\n자! 갑시다~~!! 이야아아앗!!",
         "en-US": "[Jerimon]\nAlright! Here we go~~!! Wheee!!",
         "pt-BR": "[Jeremias]\nCerto! Aqui vamos nós~~!! Uhuuuull!!",
         "es-ES": "[Jeremías]\n¡Bien! ¡¡Allá vamos~~!! ¡¡Yujuuuuu!!"
     },
     "5fVSBg": {
-        "ko-KR": "[제리몬]\n흑... 그럼 기다리고 있겠습니다.",
         "en-US": "[Jerimon]\nMeh... I'll stay around here.",
         "pt-BR": "[Jeremias]\nMeh... vou ficar por aqui.",
         "es-ES": "[Jeremías]\nMeh... me quedaré por aquí."
     },
     "5vVSBg": {
-        "ko-KR": "시루드",
         "en-US": "Sirud",
         "pt-BR": "Sirud",
         "es-ES": "Sirud"
     },
     "5/VSBg": {
-        "ko-KR": "[시루드]\n모험가님, 정말 감사드려요.",
         "en-US": "[Sirud]\nThank you very much, traveler.",
         "pt-BR": "[Sirud]\nMuito obrigado, viajante.",
         "es-ES": "[Sirud]\nMuchas gracias, trotamundos."
     },
     "6PVSBg": {
-        "ko-KR": "[시루드]\n다시는 돌아오지 못할 줄 알았는데...",
         "en-US": "[Sirud]\nI thought I would never return...",
         "pt-BR": "[Sirud]\nPensei que eu nunca mais voltaria...",
         "es-ES": "[Sirud]\nPensé que nunca volvería..."
     },
     "6fVSBg": {
-        "ko-KR": "제인",
         "en-US": "Jane",
         "pt-BR": "Janaína",
         "es-ES": "Janaína"
     },
     "6vVSBg": {
-        "ko-KR": "[???]\n안녕하세요.",
         "en-US": "[???]\nHello.",
         "pt-BR": "[???]\nOlá.",
         "es-ES": "[???]\nHola."
     },
     "6/VSBg": {
-        "ko-KR": "당신이 시루드인가요?",
         "en-US": "Are you Sirud?",
         "pt-BR": "Você é Sirud?",
         "es-ES": "¿Eres Sirud?"
     },
     "7PVSBg": {
-        "ko-KR": "[제인]\n아니요, 저는 제인이라고 해요.",
         "en-US": "[Jane]\nNo, I'm Jane.",
         "pt-BR": "[Janaína]\nNão, eu sou Janaína.",
         "es-ES": "[Janaina]\nNo, soy Janaina."
     },
     "7fVSBg": {
-        "ko-KR": "[제인]\n시루드...?\n어디서 들어본 이름인 것 같은데...",
         "en-US": "[Jane]\nSirud...?\nI think I've heard that name somewhere...",
         "pt-BR": "[Janaína]\nSirud...?\nAcho que eu ouvi esse nome em algum lugar...",
         "es-ES": "[Janaina]\n¿Sirud...?\nCreo que escuché ese nombre en algún lado..."
     },
     "7vVSBg": {
-        "ko-KR": "[제인]\n안녕하세요, 여기로 오신지 얼마 되지 않으신 것 같은데...",
         "en-US": "[Jane]\nHi, long time no see...",
         "pt-BR": "[Janaína]\nOi, quanto tempo não te vejo...",
         "es-ES": "[Janaina]\nHola, cuánto tiempo sin verte..."
     },
     "7/VSBg": {
-        "ko-KR": "[제인]\n어떠세요? 이 곳도 꽤나 매력적인 장소이지 않나요?",
         "en-US": "[Jane]\nDid you like it here? Isn't it a pleasant place??",
         "pt-BR": "[Janaína]\nVocê gostou daqui? Não é um lugar agradável??",
         "es-ES": "[Janaina]\n¿Te gustó aquí? ¿No es un lugar agradable??"
     },
     "8PVSBg": {
-        "ko-KR": "[제인]\n고향으로 돌아가긴 해야 하는데...",
         "en-US": "[Jane]\nI have to go back to my hometown...",
         "pt-BR": "[Janaína]\nEu tenho que voltar para minha cidade natal...",
         "es-ES": "[Janaina]\nTengo que volver a mi ciudad natal..."
     },
     "8fVSBg": {
-        "ko-KR": "닉",
         "en-US": "Nick",
         "pt-BR": "Nicolas",
         "es-ES": "Nicolás"
     },
     "8vVSBg": {
-        "ko-KR": "[???]\n아니?! 새로운 분이 또 오셨군요.",
         "en-US": "[???]\nHuh?! Ah, it's just a new person.",
         "pt-BR": "[???]\nHã?! Ah, é só uma pessoa nova.",
         "es-ES": "[???]\n¿¡Eh?! Ah, es sólo una persona nueva."
     },
     "8/VSBg": {
-        "ko-KR": "[닉]\n저는 닉이에요. 시루드라면... 3개월 전에 이쪽으로 유입되신 그 분인 것 같은데...",
         "en-US": "[Nick]\nI'm Nick. If it's Sirud... I think he was the one who came here three months ago...",
         "pt-BR": "[Nicolas]\nEu sou o Nicolas. Se for o Sirud... acho que foi ele quem veio aqui três meses atrás...",
         "es-ES": "[Nicolás]\nSoy Nicolás. Si es Sirud... creo que fue él quien vino aquí hace tres meses..."
     },
     "9PVSBg": {
-        "ko-KR": "[닉]\n어때요? 이곳에서는 지낼만하신가요?",
         "en-US": "[Nick]\nSo? Is it worth living here?",
         "pt-BR": "[Nicolas]\nE aí? Vale a pena morar aqui?",
         "es-ES": "[Nicolás]\n¿Y bien? ¿Vale la pena vivir aquí?"
     },
     "9fVSBg": {
-        "ko-KR": "[닉]\n여기는 그 어디보다도 깊은 곳인데, 숨을 자유로이 쉴 수 있는 것은 참 신기해요.\n어째서 그게 가능한지는 저도 잘 모르겠습니다.",
         "en-US": "[Nick]\nIt's deeper here than anywhere else and it's amazing to be able to breathe freely.\nI don't know why that's possible.",
         "pt-BR": "[Nicolas]\nÉ mais profundo aqui do que em qualquer outro lugar e é incrível poder respirar livremente.\nNão sei o porquê disso ser possível.",
         "es-ES": "[Nicolás]\nAquí es más profundo que en cualquier otro lugar y es increíble poder respirar libremente.\nNo sé por qué es posible."
     },
     "9vVSBg": {
-        "ko-KR": "선린",
         "en-US": "Sun",
         "pt-BR": "Sol",
         "es-ES": "Sol"
     },
     "9/VSBg": {
-        "ko-KR": "[???]\n시루드라는 사람을 찾으러 오셨다고요?",
         "en-US": "[???]\nAre you looking for Sirud?",
         "pt-BR": "[???]\nVocê está procurando Sirud?",
         "es-ES": "[???]\n¿Estás buscando a Sirud?"
     },
     "+PVSBg": {
-        "ko-KR": "[선린]\n저는 선린이라고 해요.",
         "en-US": "[Sun]\nMy name is Sun.",
         "pt-BR": "[Sol]\nEu me chamo Sol.",
         "es-ES": "[Sol]\nMe llamo Sol."
     },
     "+fVSBg": {
-        "ko-KR": "[선린]\n시루드라... 아아, 누군지 알 것 같습니다.",
         "en-US": "[Sun]\nSirud... Ah, I think I know who that is.",
         "pt-BR": "[Sol]\nSirud... Ah, acho que sei quem é.",
         "es-ES": "[Sol]\nSirud... Ah, creo que sé quién es."
     },
     "+vVSBg": {
-        "ko-KR": "[선린]\n왼쪽으로 쭈욱 가시면, 그 자를 만나볼 수 있을거에요.",
         "en-US": "[Sun]\nGo from here and turn left, you should find him.",
         "pt-BR": "[Sol]\nSiga daqui e vá para a esquerda que você deve encontrá-lo.",
         "es-ES": "[Sol]\nSigue por aquí y ve a la izquierda, que deberías encontrarlo."
     },
     "+/VSBg": {
-        "ko-KR": "[선린]\n그럼 오늘도 좋은 하루 되세요!!",
         "en-US": "[Sun]\nHave a nice day!!",
         "pt-BR": "[Sol]\nTenha um bom dia!!",
         "es-ES": "[Sol]\n¡¡Que tengas un buen día!!"
     },
     "/PVSBg": {
-        "ko-KR": "[선린]\n여기 있는 사람들은 모두 유입되어 정착한 사람들입니다.",
         "en-US": "[Sun]\nAll the people here came from outside.",
         "pt-BR": "[Sol]\nTodas as pessoas aqui vieram de fora.",
         "es-ES": "[Sol]\nTodas las personas aquí vinieron de afuera."
     },
     "/fVSBg": {
-        "ko-KR": "[선린]\n보시다시피 이 깊은 곳에 문명의 흔적이 보이지만 여기 있는 사람들은 모두 외부인이었다고 보시면 될 거에요.",
         "en-US": "[Sun]\nAs you can see, there are traces of civilization at these depths, but you can assume everyone here was an outsider.",
         "pt-BR": "[Sol]\nComo você pode ver, há vestígios de civilização nessas profundezas, mas você pode presumir que todos aqui eram forasteiros.",
         "es-ES": "[Sol]\nComo puedes ver, hay vestigios de civilización en estas profundidades, pero puedes suponer que todos aquí eran forasteros."
     },
     "/vVSBg": {
-        "ko-KR": "[선린]\n당신도 곧 익숙해지실 겁니다.",
         "en-US": "[Sun]\nYou'll get used to it soon too.",
         "pt-BR": "[Sol]\nVocê logo vai se acostumar também.",
         "es-ES": "[Sol]\nTú también te acostumbrarás pronto."
     },
     "//VSBg": {
-        "ko-KR": "[선린]\n해양 괴물들이 간혹 덤비기는 하지만, 그 정도 쯤이야...",
         "en-US": "[Sun]\nSea monsters attack from time to time, but that's it...",
         "pt-BR": "[Sol]\nMonstros marinhos atacam de vez em quando, mas é só isso...",
         "es-ES": "[Sol]\nDe vez en cuando atacan monstruos marinos, pero eso es todo..."
     },
     "APZSBg": {
-        "ko-KR": "문지기",
         "en-US": "Gatekeeper",
         "pt-BR": "Guarda",
         "es-ES": "Guarda"
     },
     "AfZSBg": {
-        "ko-KR": "[문지기]\n하층으로 건너가시기에는 당신의 힘이 조금 부족합니다.",
         "en-US": "[Gatekeeper]\nYou are not experienced enough to go deeper.",
         "pt-BR": "[Guarda]\nVocê não é experiente o bastante para ir mais fundo.",
         "es-ES": "[Guarda]\nNo tienes suficiente experiencia para ir más profundo."
     },
     "AvZSBg": {
-        "ko-KR": "[문지기]\n적어도 180레벨 이상이 된 후에 다시 찾아와 주시길 바랍니다.",
         "en-US": "[Gatekeeper]\nCome back when your base level is 180 or higher.",
         "pt-BR": "[Guarda]\nVolte quando seu nível de base for 180 ou superior.",
         "es-ES": "[Guarda]\nVuelve cuando tu nivel base sea 180 o superior."
     },
     "A/ZSBg": {
-        "ko-KR": "[문지기]\n하층으로 내려가시면 상당히 난폭한 어류들과 마주칠 수 있는데 괜찮으시겠습니까?",
         "en-US": "[Gatekeeper]\nThere are many violent monsters down there. Do you want to go down?",
         "pt-BR": "[Guarda]\nHá muitos monstros violentos lá embaixo. Quer descer?",
         "es-ES": "[Guarda]\nHay muchos monstruos violentos ahí abajo. ¿Quieres bajar?"
     },
     "BPZSBg": {
-        "ko-KR": "물론이다.",
         "en-US": "Sure.",
         "pt-BR": "Claro.",
         "es-ES": "Claro."
     },
     "BfZSBg": {
-        "ko-KR": "다음에 오겠다.",
         "en-US": "I'll go next time.",
         "pt-BR": "Eu irei na próxima vez.",
         "es-ES": "Iré la próxima vez."
     },
     "BvZSBg": {
-        "ko-KR": "[문지기]\n그럼 조심히 다녀오십시오.",
         "en-US": "[Gatekeeper]\nBe careful.",
         "pt-BR": "[Guarda]\nTome cuidado.",
         "es-ES": "[Guarda]\nTen cuidado."
     },
     "B/ZSBg": {
-        "ko-KR": "[문지기]\n건너갈 준비가 되시면 말을 다시 걸어 주시길 바랍니다.",
         "en-US": "[Gatekeeper]\nPlease talk to me again when you want to.",
         "pt-BR": "[Guarda]\nPor favor, fale comigo novamente quando quiser.",
         "es-ES": "[Guarda]\nPor favor, háblame de nuevo cuando quieras."
     },
     "CPZSBg": {
-        "ko-KR": "[문지기]\n안녕하세요, 상층으로 다시 올라가시겠습니까?",
         "en-US": "[Gatekeeper]\nDo you wish to return to the upper floor?",
         "pt-BR": "[Guarda]\nDeseja voltar para o andar superior?",
         "es-ES": "[Guarda]\n¿Deseas volver al piso superior?"
     },
     "CfZSBg": {
-        "ko-KR": "네.",
         "en-US": "Yes.",
         "pt-BR": "Sim.",
         "es-ES": "Sí."
     },
     "CvZSBg": {
-        "ko-KR": "아니오.",
         "en-US": "No.",
         "pt-BR": "Não.",
         "es-ES": "No."
     },
     "C/ZSBg": {
-        "ko-KR": "[문지기]\n건너갈 준비가 되면 말을 다시 걸어 주시길 바랍니다.",
         "en-US": "[Gatekeeper]\nPlease talk to me again when you want to.",
         "pt-BR": "[Guarda]\nPor favor, fale comigo novamente quando quiser.",
         "es-ES": "[Guarda]\nPor favor, háblame de nuevo cuando quieras."
     },
     "DPZSBg": {
-        "ko-KR": "[시루드]\n안녕하세요, 모험가님.",
         "en-US": "[Sirud]\nHello, traveler.",
         "pt-BR": "[Sirud]\nOlá, viajante.",
         "es-ES": "[Sirud]\nHola, trotamundos."
     },
     "DfZSBg": {
-        "ko-KR": "- 시루드는 기다리고 있었다는 듯이 인사를 건네왔다. -",
         "en-US": "- Sirud greeted me as if he was expecting me. -",
         "pt-BR": "- Sirud me cumprimentou como se estivesse me esperando. -",
         "es-ES": "- Sirud me saludó como si me estuviera esperando. -"
     },
     "DvZSBg": {
-        "ko-KR": "[시루드]\n제가 보냈던 메세지가 이즈루드에 닿았나 보네요, 정말 다행이에요...",
         "en-US": "[Sirud]\nIt seems the message I sent reached Izlude, I'm so happy...",
         "pt-BR": "[Sirud]\nParece que a mensagem que enviei chegou a Izlude, estou tão feliz...",
         "es-ES": "[Sirud]\nParece que el mensaje que envié llegó a Izlude, estoy tan feliz..."
     },
     "D/ZSBg": {
-        "ko-KR": "[시루드]\n3개월 전쯤이었나... 비바람이 몰아치던 날에 저는 낚시를 하러 나갔었어요.",
         "en-US": "[Sirud]\nAbout three months ago... I went fishing on a rainy day.",
         "pt-BR": "[Sirud]\nHá cerca de três meses... fui pescar em um dia chuvoso.",
         "es-ES": "[Sirud]\nHace unos tres meses... fui a pescar en un día lluvioso."
     },
     "EPZSBg": {
-        "ko-KR": "[시루드]\n첫 물고기를 낚은 후에, 뜰채로 건져내려다가 발을 헛디뎌서 물에 빠지고 말았었죠.",
         "en-US": "[Sirud]\nAfter I caught my first fish, I tripped and fell into the water while trying to pull it out with the fishing rod.",
         "pt-BR": "[Sirud]\nDepois que peguei meu primeiro peixe, tropecei e caí na água enquanto tentava tirá-lo com uma vara de pesca.",
         "es-ES": "[Sirud]\nDespués de que atrapara mi primer pez, tropecé y caí al agua mientras intentaba sacarlo con la caña de pescar."
     },
     "EfZSBg": {
-        "ko-KR": "[시루드]\n죽을 힘을 다해 헤엄쳐서 빠져나오려고 하는데 무엇인가가 저를 강한 힘으로 끌어들이는 것이 느껴졌어요.",
         "en-US": "[Sirud]\nI was trying to swim as hard as I could to get out, but I felt something pulling me with great force.",
         "pt-BR": "[Sirud]\nEu estava tentando nadar o máximo que pude para sair, mas senti algo me puxando com muita força.",
         "es-ES": "[Sirud]\nEstaba intentando nadar todo lo que podía para salir, pero sentí que algo me jalaba con mucha fuerza."
     },
     "EvZSBg": {
-        "ko-KR": "[시루드]\n무슨, 소용돌이 같았는데... 그렇게 난 죽나보다.. 하고 정신을 차려보니 이곳이었습니다.",
         "en-US": "[Sirud]\nIt was like a whirlpool... I thought I was going to die... and when I woke up, I was here.",
         "pt-BR": "[Sirud]\nFoi como um redemoinho... achei que ia morrer... e quando acordei, estava aqui.",
         "es-ES": "[Sirud]\nFue como un remolino… pensé que iba a morir… y cuando desperté, estaba aquí."
     },
     "E/ZSBg": {
-        "ko-KR": "[시루드]\n숨이 쉬어지는 것도, 먹지 않아도 배가 고프지 않은 것도, 어째서인지는 저도 잘 모르겠습니다.",
         "en-US": "[Sirud]\nI don't know how I can breathe... I don't even get hungry in here, even though I haven't eaten anything.",
         "pt-BR": "[Sirud]\nNão sei como eu consigo respirar... nem tenho fome aqui dentro, mesmo sem ter comido nada.",
         "es-ES": "[Sirud]\nNo sé cómo puedo respirar... ni siquiera tengo hambre aquí dentro, aunque no he comido nada."
     },
     "FPZSBg": {
-        "ko-KR": "[시루드]\n그리고 여기서 가만히 주변을 관찰하다보니 작은 소용돌이가 가끔씩 형성되는 것을 볼 수가 있었어요.",
         "en-US": "[Sirud]\nAnd while walking around here, I could see small whirlpools forming from time to time.",
         "pt-BR": "[Sirud]\nE enquanto dava uma volta por aqui, pude ver pequenos redemoinhos se formando de tempos em tempos.",
         "es-ES": "[Sirud]\nY mientras daba una vuelta por aquí, pude ver pequeños remolinos formándose de vez en cuando."
     },
     "FfZSBg": {
-        "ko-KR": "[시루드]\n제가 휩쓸려온 소용돌이와 같은 부류의 것이라고 직감할 수 있었어요.",
         "en-US": "[Sirud]\nI had a hunch it was the same type of whirlpool I was dragged into.",
         "pt-BR": "[Sirud]\nTive um palpite de que era o mesmo tipo de redemoinho para o qual fui arrastado.",
         "es-ES": "[Sirud]\nTuve la corazonada de que era el mismo tipo de remolino al que fui arrastrado."
     },
     "FvZSBg": {
-        "ko-KR": "[시루드]\n소용돌이가 유지되는 시간은 매우 짧아서 제 이름이 적혀 있는 낚싯대를 그 소용돌이 안에 집어넣는 데에만 2개월의 시간이 걸렸습니다.",
         "en-US": "[Sirud]\nThese whirlpools appear and disappear very quickly. It took me two months to throw my fishing rod into them.",
         "pt-BR": "[Sirud]\nEsses redemoinhos aparecem e desaparecem muito rápido. Levei dois meses para jogar minha vara de pescar neles.",
         "es-ES": "[Sirud]\nEsos remolinos aparecen y desaparecen muy rápido. Me tomó dos meses lanzar mi caña de pescar en ellos."
     },
     "F/ZSBg": {
-        "ko-KR": "[시루드]\n누군가 발견하게 되기를 기다리면서 말이죠...",
         "en-US": "[Sirud]\nHoping someone would discover it...",
         "pt-BR": "[Sirud]\nEsperando que alguém descubra...",
         "es-ES": "[Sirud]\nEsperando que alguien la descubriera..."
     },
     "GPZSBg": {
-        "ko-KR": "[시루드]\n그 낚싯대를 실마리로 저를 찾아오신 것이 맞으시죠?",
         "en-US": "[Sirud]\nIs it true you came to me because of my fishing rod?",
         "pt-BR": "[Sirud]\nÉ verdade que você veio até mim por causa da minha vara de pescar?",
         "es-ES": "[Sirud]\n¿Es cierto que viniste hasta mí por mi caña de pescar?"
     },
     "GfZSBg": {
-        "ko-KR": "맞습니다.",
         "en-US": "That's right.",
         "pt-BR": "Isso mesmo.",
         "es-ES": "Así es."
     },
     "GvZSBg": {
-        "ko-KR": "[시루드]\n아아 다행이에요.. 모험가님이 해상으로 돌아가실 때, 저도 꼭 같이 데려가주시면 감사하겠습니다.",
         "en-US": "[Sirud]\nAh, that's good... When you return to the surface, I'd appreciate it if you took me with you.",
         "pt-BR": "[Sirud]\nAh, que bom... Quando você voltar para a superfície, eu agradeceria se me levasse junto.",
         "es-ES": "[Sirud]\nAh, qué bien… Cuando regreses a la superficie, te agradecería que me llevaras contigo."
     },
     "G/ZSBg": {
-        "ko-KR": "- 시루드를 해상으로 보내기 위한 작업과 관련된 내용으로 제리몬과 대화를 해 봐야 할 것 같다. -",
         "en-US": "- I think I should talk to Jerimon. -",
         "pt-BR": "- Acho que devo falar com Jeremias. -",
         "es-ES": "- Creo que debo hablar con Jeremías. -"
     },
     "HPZSBg": {
-        "ko-KR": "[시루드]\n모험가님, 해상으로 다시 되돌아가실 때 저도 꼭 데려가주세요.",
         "en-US": "[Sirud]\nWhen you return to the surface, I'd appreciate it if you took me with you.",
         "pt-BR": "[Sirud]\nQuando você voltar para a superfície, eu agradeceria se me levasse junto.",
         "es-ES": "[Sirud]\nuando regreses a la superficie, te agradecería que me llevaras contigo."
     },
     "HfZSBg": {
-        "ko-KR": "^4D4DFF인벤토리에 여유공간이 없거나 동일한 아이템을 한계치에 가깝게 소지하고 있습니다.^000000\n^4D4DFF창고 서비스를 이용해서 정리해 주세요.^000000",
         "en-US": "^4D4DFFYou have too many items.^000000\n^4D4DFFReorganize your inventory and come back again.^000000",
         "pt-BR": "^4D4DFFVocê possui muitos itens.^000000\n^4D4DFFReorganize o inventário e volte novamente.^000000",
         "es-ES": "^4D4DFFTienes demasiados objetos.^000000\n^4D4DFFReorganiza tu inventario y vuelve de nuevo.^000000"
     },
     "HvZSBg": {
-        "ko-KR": "[제리몬]\n와아... 이 보랏빛 바다... 정말 환상적이에요!!!",
         "en-US": "[Jerimon]\nWow... these purple waters... so beautiful!!!",
         "pt-BR": "[Jeremias]\nNossa... essas águas púrpuras... tão lindas!!!",
         "es-ES": "[Jeremías]\nVaya... estas aguas púrpuras... ¡¡tan hermosas!!!"
     },
     "H/ZSBg": {
-        "ko-KR": "[제리몬]\n아가미 없이 우리가 숨을 쉴 수 있는 것도 너무 신기하고, 해수의 압력이 없는 것도, 그리고 난생 처음 보는 해양 생물들까지...!!!",
         "en-US": "[Jerimon]\nIt's so incredible that we can breathe here. And there's no sea pressure. And there's sea life we've never seen before...!!!",
         "pt-BR": "[Jeremias]\nÉ tão incrível que podemos respirar aqui. E também não há pressão do mar. E tem vida marinha que nunca vimos antes...!!!",
         "es-ES": "[Jeremías]\nEs tan increíble que podamos respirar aquí. Y tampoco hay presión del mar. ¡¡Y hay vida marina que nunca hemos visto antes...!!!"
     },
     "IPZSBg": {
-        "ko-KR": "[제리몬]\n조사해야 할 것이 한두 가지가 아니군요, 앞으로 바빠지겠어요.\n와아... 너무 신난다!!! 해양 학자로서의 14년 외길 인생에서 가장 감격스러운 순간인 것 같아요!",
         "en-US": "[Jerimon]\nThere are many things to investigate, I'll keep busy.\nWow... so exciting!!! I think it's the most exciting moment of my 14-year bachelor life as an oceanographer!",
         "pt-BR": "[Jeremias]\nHá muitas coisas para investigar, vou me manter ocupado.\nUau... tão emocionante!!! Acho que é o momento mais emocionante dos meus 14 anos de vida de solteiro como oceanógrafo!",
         "es-ES": "[Jeremías]\nHay muchas cosas por investigar, me mantendré ocupado.\n¡Guau… tan emocionante! ¡Creo que es el momento más emocionante de mis 14 años de vida soltero como oceanógrafo!"
     },
     "IfZSBg": {
-        "ko-KR": "[제리몬]\n룰루랄라~~~",
         "en-US": "[Jerimon]\nWheee~~~",
         "pt-BR": "[Jeremias]\nUhuuuuulll~~~",
         "es-ES": "[Jeremías]\n¡¡Yujuuuuu~~~!!"
     },
     "IvZSBg": {
-        "ko-KR": "아 저기, 저는 시루드를 찾으러 왔습니다만...",
         "en-US": "And Sirud...?",
         "pt-BR": "E Sirud...?",
         "es-ES": "¿Y Sirud...?"
     },
     "I/ZSBg": {
-        "ko-KR": "[제리몬]\n앗, 아... 그, 그렇죠? 그게 우선시 되어야죠.",
         "en-US": "[Jerimon]\nAh right... huh? That should be a priority.",
         "pt-BR": "[Jeremias]\nAh é... né? Isso deve ser prioridade.",
         "es-ES": "[Jeremías]\nAh, sí... ¿verdad? Eso debe ser prioritario."
     },
     "JPZSBg": {
-        "ko-KR": "[제리몬]\n시루드를 다시 해상으로 올리기 위해서는 ^4D4DFF심연의 정수^000000가 추가로 필요해요, 문제는 그것을 어떻게 구하느냐인데...",
         "en-US": "[Jerimon]\nTo bring Sirud back to the surface, I need additional ^4D4DFFAbyssal Essence^000000, the question is how to get it...",
         "pt-BR": "[Jeremias]\nPara trazer Sirud de volta à superfície, preciso de ^4D4DFFEssência Abismal^000000 adicional, a questão é como obtê-la...",
         "es-ES": "[Jeremías]\nPara traer a Sirud de vuelta a la superficie, necesito ^4D4DFFEsencia del Abismo^000000 adicional, la cuestión es cómo obtenerla..."
     },
     "JfZSBg": {
-        "ko-KR": "[제리몬]\n여기에 있는 심해 생물들을 유심히 봤는데, 몇몇 생물들에게서 심연의 정수의 빛이 나는 것을 봤습니다.\n게다가 간혹 우리를 위협하기도 하는 것 같고요.",
         "en-US": "[Jerimon]\nI took a look at the creatures here and saw the glow of Abyssal Essence in some of them.\nAlso, some of them seem to be violent.",
         "pt-BR": "[Jeremias]\nEu dei uma olhada nas criaturas daqui e vi o brilho da Essência Abismal em algumas delas.\nAlém disso, algumas delas parecem ser violentas.",
         "es-ES": "[Jeremías]\nEché un vistazo a las criaturas de aquí y vi el brillo de la Esencia del Abismo en algunas de ellas.\nAdemás, algunas parecen ser violentas."
     },
     "JvZSBg": {
-        "ko-KR": "[제리몬]\n그런 의미로 심해 생물들을 조금 처리해 주실 수 있을까요? 그것들로부터 ^4D4DFF심연의 정수^000000를 얻을 수 있을지도 몰라요.",
         "en-US": "[Jerimon]\nTherefore, could you deal with some of those creatures? Maybe we can get ^4D4DFFAbyssal Essence^000000 from them.",
         "pt-BR": "[Jeremias]\nPor isso, você poderia lidar com algumas dessas criaturas? Talvez possamos obter ^4D4DFFEssência Abismal^000000 delas.",
         "es-ES": "[Jeremías]\nPor eso, ¿podrías encargarte de algunas de esas criaturas? Tal vez podamos obtener ^4D4DFFEsencia del Abismo^000000 de ellas."
     },
     "J/ZSBg": {
-        "ko-KR": "[제리몬]\n^4D4DFF심해의 스로포^000000와 ^4D4DFF심해의 데비우스^000000 그리고 ^4D4DFF심해의 마르스^000000를 각각 10마리씩 처리 부탁드립니다.",
         "en-US": "[Jerimon]\nPlease, eliminate 10 ^4D4DFFAbyssal Sropho^000000, 10 ^4D4DFFAbyssal Deviace^000000 and 10 ^4D4DFFAbyssal Marse^000000 for me.",
         "pt-BR": "[Jeremias]\nPor favor, elimine 10 ^4D4DFFSropho Abismal^000000, 10 ^4D4DFFDeviace Abismal^000000 e 10 ^4D4DFFMarse Abismal^000000 para mim.",
         "es-ES": "[Jeremías]\nPor favor, elimina 10 ^4D4DFFSropho Abismal^000000, 10 ^4D4DFFDeviace Abismal^000000 y 10 ^4D4DFFMarse Abismal^000000 por mí."
     },
     "KPZSBg": {
-        "ko-KR": "알겠습니다.",
         "en-US": "Alright.",
         "pt-BR": "Tudo bem.",
         "es-ES": "Está bien."
     },
     "KfZSBg": {
-        "ko-KR": "다음에 하겠습니다.",
         "en-US": "I'll do it next time.",
         "pt-BR": "Eu farei isso da próxima vez.",
         "es-ES": "Lo haré en la próxima ocasión."
     },
     "KvZSBg": {
-        "ko-KR": "[제리몬]\n네네~ 저는 여기서 기다리고 있겠습니다!",
         "en-US": "[Jerimon]\nCool~ I'll wait for you here!",
         "pt-BR": "[Jeremias]\nLegal~ Vou aguardar você aqui!",
         "es-ES": "[Jeremías]\n¡Genial~ Te esperaré aquí!"
     },
     "K/ZSBg": {
-        "ko-KR": "[제리몬]\n저는 여기서 기다리고 있겠습니다.",
         "en-US": "[Jerimon]\nI'll wait for you here.",
         "pt-BR": "[Jeremias]\nVou aguardar você aqui.",
         "es-ES": "[Jeremías]\nTe esperaré aquí."
     },
     "LPZSBg": {
-        "ko-KR": "[제리몬]\n수고 많으셨습니다, ^4D4DFF심연의 정수^000000 또한 가져오셨군요!! 역시, 제 예상이 맞았습니다.",
         "en-US": "[Jerimon]\nThank you for your hard work, you also brought ^4D4DFFAbyssal Essence^000000!! As expected, my prediction was correct.",
         "pt-BR": "[Jeremias]\nObrigado por seu trabalho duro, você também trouxe ^4D4DFFEssência Abismal^000000!! Como esperado, minha previsão estava correta.",
         "es-ES": "[Jeremías]\nGracias por tu arduo trabajo, ¡¡también trajiste ^4D4DFFEsencia del Abismo^000000!! Como esperaba, mi predicción era correcta."
     },
     "LfZSBg": {
-        "ko-KR": "[제리몬]\n시루드를 해상으로 돌려 보내기 위해서는 ^4D4DFF심연의 정수^000000 10개 정도만 있으면 될 것 같습니다.",
         "en-US": "[Jerimon]\nI think we only need about 10 ^4D4DFFAbyssal Essences^000000 to send Sirud back.",
         "pt-BR": "[Jeremias]\nAcho que só precisamos de cerca de 10 ^4D4DFFEssências Abismais^000000 para enviar Sirud de volta.",
         "es-ES": "[Jeremías]\nCreo que sólo necesitamos alrededor de 10 ^4D4DFFEsencias del Abismo^000000 para enviar a Sirud de vuelta."
     },
     "LvZSBg": {
-        "ko-KR": "[제리몬]\n모아 오신다면 소용돌이를 생성해 드리도록 하겠습니다.",
         "en-US": "[Jerimon]\nIf you collect them, I'll create a whirlpool for you.",
         "pt-BR": "[Jeremias]\nSe coletá-los, criarei um redemoinho para você.",
         "es-ES": "[Jeremías]\nSi las recolectas, crearé un remolino para ti."
     },
     "L/ZSBg": {
-        "ko-KR": "[제리몬]\n아 그리고 이건 제가 조사하다가 발견한 돌인데요, 모험가님에게 쓰일 수 있는 물건 같아 보관해 두고 있었으니 받아두세요.",
         "en-US": "[Jerimon]\nAh, this is a stone I found while researching. I kept it because it seems like something adventurers can use, so please keep it.",
         "pt-BR": "[Jeremias]\nAh, esta é uma pedra que encontrei enquanto pesquisava. Eu a guardei porque parece algo que pode ser usado por aventureiros, então, por favor, fique com ela.",
         "es-ES": "[Jeremías]\nAh, esta es una piedra que encontré mientras investigaba. La guardé porque parece algo que los trotamundos pueden usar, así que, por favor, quédate con ella."
     },
     "MPZSBg": {
-        "ko-KR": "[제리몬]\n그럼 조심히 다녀오세요!!",
         "en-US": "[Jerimon]\nBe careful!!",
         "pt-BR": "[Jeremias]\nTenha cuidado!!",
         "es-ES": "[Jeremías]\n¡¡Ten cuidado!!"
     },
     "MfZSBg": {
-        "ko-KR": "[제리몬]\n고생 많으셨습니다!! ^4D4DFF심연의 정수^000000 10개를 가져오셨군요.",
         "en-US": "[Jerimon]\nThank you for your hard work!! You brought 10 ^4D4DFFAbyssal Essences^000000 as requested.",
         "pt-BR": "[Jeremias]\nObrigado por seu trabalho duro!! Você trouxe 10 ^4D4DFFEssências Abismais^000000 como pedido.",
         "es-ES": "[Jeremías]\n¡¡Gracias por tu arduo trabajo!! Trajiste 10 ^4D4DFFEsencias del Abismo^000000 como pedí."
     },
     "MvZSBg": {
-        "ko-KR": "[제리몬]\n지금 해상으로 올라가시겠습니까??",
         "en-US": "[Jerimon]\nWould you like to go to the surface now?",
         "pt-BR": "[Jeremias]\nVocê gostaria de ir para a superfície agora?",
         "es-ES": "[Jeremías]\n¿Te gustaría ir a la superficie ahora?"
     },
     "M/ZSBg": {
-        "ko-KR": "해상으로 올라간다.",
         "en-US": "Go up.",
         "pt-BR": "Subir.",
         "es-ES": "Subir."
     },
     "NPZSBg": {
-        "ko-KR": "지금은 올라가지 않는다.",
         "en-US": "Stay here.",
         "pt-BR": "Ficar aqui.",
         "es-ES": "Quedarme aquí."
     },
     "NfZSBg": {
-        "ko-KR": "[제리몬]\n모험가님을 기다리는 동안 이것을 또 발견했어요. 받아주세요!!",
         "en-US": "[Jerimon]\nI found more Illusion Stones around here! Please accept them!!",
         "pt-BR": "[Jeremias]\nEu encontrei mais Pedras Ilusionais por aqui! Por favor, aceite-as!!",
         "es-ES": "[Jeremías]\n¡Encontré más Piedras Ilusorias por aquí! ¡¡Por favor, acéptalas!!"
     },
     "NvZSBg": {
-        "ko-KR": "[제리몬]\n자 그럼, 이것을 응축 시켜서....",
         "en-US": "[Jerimon]\nNow then, let's shake this...",
         "pt-BR": "[Jeremias]\nAgora então, vamos sacudir isso...",
         "es-ES": "[Jeremías]\nAhora entonces, vamos a agitar esto..."
     },
     "N/ZSBg": {
-        "ko-KR": "[제리몬]\n흐읍....!!",
         "en-US": "[Jerimon]\nRah....!!",
         "pt-BR": "[Jeremias]\nRá....!!",
         "es-ES": "[Jeremías]\n¡¡Rá....!!"
     },
     "OPZSBg": {
-        "ko-KR": "[제리몬]\n자, 모험가님과 시루드님!! 좀 도와주시겠어요?? 으라차앗앗!!!!",
         "en-US": "[Jerimon]\nReady! Traveler and Sirud, are you ready?? Yaaah!!!!",
         "pt-BR": "[Jeremias]\nPronto! Viajante e Sirud, estão prontos?? iiiiá!!!!",
         "es-ES": "[Jeremías]\n¡Listo! trotamundos y Sirud, ¿están listos?? ¡¡¡¡iiiiá!!!!"
     },
     "OfZSBg": {
-        "ko-KR": "- 제리몬 앞에 거대한 소용돌이가 만들어졌다! -",
         "en-US": "- A huge whirlpool was created! -",
         "pt-BR": "- Um enorme redemoinho foi criado! -",
         "es-ES": "- ¡Se creó un enorme remolino! -"
     },
     "OvZSBg": {
-        "ko-KR": "[제리몬]\n그럼 저 먼저 건너갑니다!!! 조심히 따라 오세요!",
         "en-US": "[Jerimon]\nI'll go through first!!! Follow me carefully!",
         "pt-BR": "[Jeremias]\nEu vou atravessar primeiro!!! Siga-me com cuidado!",
         "es-ES": "[Jeremías]\n¡¡Yo atravesaré primero!!! ¡Sígueme con cuidado!"
     },
     "O/ZSBg": {
-        "ko-KR": "[제리몬]\n해상으로 올라갈 준비가 되면 저에게 말을 걸어주세요!",
         "en-US": "[Jerimon]\nTalk to me when you need to!",
         "pt-BR": "[Jeremias]\nFale comigo quando precisar!",
         "es-ES": "[Jeremías]\n¡Háblame cuando lo necesites!"
     },
     "PPZSBg": {
-        "ko-KR": "[제리몬]\n^4D4DFF심연의 정수^000000 10개를 부탁드립니다.",
         "en-US": "[Jerimon]\nBring me 10 ^4D4DFFAbyssal Essences^000000 please.",
         "pt-BR": "[Jeremias]\nTraga-me 10 ^4D4DFFEssências Abismais^000000 por favor.",
         "es-ES": "[Jeremías]\nTráeme 10 ^4D4DFFEsencias del Abismo^000000, por favor."
     },
     "PfZSBg": {
-        "ko-KR": "[제리몬]\n제가 직접 구하고 싶지만 보시다시피 제가 연약합니다, 흑흑.",
         "en-US": "[Jerimon]\nI want to save him myself, but as you can see, I'm weak",
         "pt-BR": "[Jeremias]\nEu mesmo quero salvá-lo, mas como você pode ver, sou fraco",
         "es-ES": "[Jeremías]\nYo mismo quisiera salvarlo, pero como puedes ver, soy débil"
     },
     "PvZSBg": {
-        "ko-KR": "^999999심연의 정수 수집 - 대기중^000000",
         "en-US": "^999999[Wait] Essence Sample^000000",
         "pt-BR": "^999999[Espera] Amostra de Essências^000000",
         "es-ES": "^999999[Espera] Muestra de Esencias^000000"
     },
     "P/ZSBg": {
-        "ko-KR": "심연의 정수 수집 - 완료",
         "en-US": "[Completed] Essence Sample",
         "pt-BR": "[Completado] Amostra de Essências",
         "es-ES": "[Completado] Muestra de Esencias"
     },
     "QPZSBg": {
-        "ko-KR": "심연의 정수 수집 - 진행중",
         "en-US": "[In Progress] Essence Sample",
         "pt-BR": "[Em curso] Amostra de Essências",
         "es-ES": "[En curso] Muestra de Esencias"
     },
     "QfZSBg": {
-        "ko-KR": "심연의 정수 수집",
         "en-US": "Essence Sample",
         "pt-BR": "Amostra de Essências",
         "es-ES": "Muestra de Esencias"
     },
     "QvZSBg": {
-        "ko-KR": "^999999심해 생물 처치 - 대기중^000000",
         "en-US": "^999999[Wait] Creature Control^000000",
         "pt-BR": "^999999[Espera] Controle de Criaturas^000000",
         "es-ES": "^999999[Espera] Control de Criaturas^000000"
     },
     "Q/ZSBg": {
-        "ko-KR": "심해 생물 처치 - 진행중",
         "en-US": "[In Progress] Creature Control",
         "pt-BR": "[Em curso] Controle de Criaturas",
         "es-ES": "[En curso] Control de Criaturas"
     },
     "RPZSBg": {
-        "ko-KR": "심해 생물 처치 - 완료",
         "en-US": "[Completed] Creature Control",
         "pt-BR": "[Completado] Controle de Criaturas",
         "es-ES": "[Completado] Control de Criaturas"
     },
     "RfZSBg": {
-        "ko-KR": "심해 생물 처치",
         "en-US": "Creature Control",
         "pt-BR": "Controle de Criaturas",
         "es-ES": "Control de Criaturas"
     },
     "RvZSBg": {
-        "ko-KR": "[제리몬]\n오늘 조사에 필요한 것은 모두 갖췄습니다, 감사드려요!!",
         "en-US": "[Jerimon]\nI have everything I need for today's research, thank you!!",
         "pt-BR": "[Jeremias]\nTenho tudo que preciso para a pesquisa de hoje, obrigado!!",
         "es-ES": "[Jeremías]\n¡Tengo todo lo que necesito para la investigación de hoy, gracias!!"
     },
     "R/ZSBg": {
-        "ko-KR": "[제리몬]\n볼일은 다 보신 것 같은데 이즈루드로 이동하시겠어요?",
         "en-US": "[Jerimon]\nIt seems you've finished your business with me. Would you like to return to Izlude?",
         "pt-BR": "[Jeremias]\nParece que você terminou seus negócios comigo. Gostaria de voltar para Izlude?",
         "es-ES": "[Jeremías]\nParece que terminaste tus asuntos conmigo. ¿Te gustaría volver a Izlude?"
     },
     "SPZSBg": {
-        "ko-KR": "이동한다.",
         "en-US": "Return.",
         "pt-BR": "Voltar.",
         "es-ES": "Volver."
     },
     "SfZSBg": {
-        "ko-KR": "이동하지 않는다.",
         "en-US": "Stay here.",
         "pt-BR": "Ficar aqui.",
         "es-ES": "Quedarme aquí."
     },
     "SvZSBg": {
-        "ko-KR": "[제리몬]\n알겠습니다. 흐읍!",
         "en-US": "[Jerimon]\nAlright. See you!",
         "pt-BR": "[Jeremias]\nTudo bem. Até!",
         "es-ES": "[Jeremías]\nEstá bien. ¡Hasta luego!"
     },
     "S/ZSBg": {
-        "ko-KR": "[제리몬]\n건너간다~~앗!!",
         "en-US": "[Jerimon]\nYaaah~~ yippee!!",
         "pt-BR": "[Jeremias]\niiirá~~ iupi!!",
         "es-ES": "[Jeremías]\n¡¡iiirá~~ ¡yupi!!"
     },
     "TPZSBg": {
-        "ko-KR": "[제리몬]\n도움이 필요하시면 언제든 말씀 주세요~!",
         "en-US": "[Jerimon]\nIf you need help, just let me know~!",
         "pt-BR": "[Jeremias]\nSe precisar de ajuda, é só me avisar~!",
         "es-ES": "[Jeremías]\n¡Si necesitas ayuda, sólo avísame~!"
     },
     "TfZSBg": {
-        "ko-KR": "[제리몬]\n안녕하세요, 연구는 순조롭게 되고 있습니다.",
         "en-US": "[Jerimon]\nHello, the research is going well.",
         "pt-BR": "[Jeremias]\nOlá, a pesquisa está indo bem.",
         "es-ES": "[Jeremías]\nHola, la investigación va bien."
     },
     "TvZSBg": {
-        "ko-KR": "[제리몬]\n잘만 하면 여기와 이즈루드를 연결하는 소용돌이를 영구적으로 지속되게 할 수 있을지도 몰라요!",
         "en-US": "[Jerimon]\nIf we do it right, we can make the whirlpool connecting here and Izlude last forever!",
         "pt-BR": "[Jeremias]\nSe fizermos direito, poderemos fazer o redemoinho que liga aqui e Izlude durar para sempre!",
         "es-ES": "[Jeremías]\nSi lo hacemos bien, ¡podremos hacer que el remolino que conecta aquí con Izlude dure para siempre!"
     },
     "T/ZSBg": {
-        "ko-KR": "[제리몬]\n그래서 말인데요, 저를 조금 더 도와주실 수 있을까요?",
         "en-US": "[Jerimon]\nSo, can you help me a little more?",
         "pt-BR": "[Jeremias]\nEntão, você pode me ajudar um pouco mais?",
         "es-ES": "[Jeremías]\nEntonces, ¿puedes ayudarme un poco más?"
     },
     "UPZSBg": {
-        "ko-KR": "[제리몬]\n^4D4DFF심연의 정수^000000가 추가로 더 필요해요, 그리고 연구하는데 방해가 되는 ^4D4DFF심해 생물^000000도 좀 처리해 주셨으면 좋겠습니다.",
         "en-US": "[Jerimon]\nI need more ^4D4DFFAbyssal Essence^000000 and I'd like you to take care of the ^4D4DFFAbyssal Creatures^000000 that hinder my research.",
         "pt-BR": "[Jeremias]\nPreciso de mais ^4D4DFFEssência Abismal^000000 e gostaria que você cuidasse das ^4D4DFFCriaturas Abismais^000000 que atrapalham minha pesquisa.",
         "es-ES": "[Jeremías]\nNecesito más ^4D4DFFEsencia del Abismo^000000 y me gustaría que te encargaras de las ^4D4DFFCriaturas Abismales^000000 que estorban mi investigación."
     },
     "UfZSBg": {
-        "ko-KR": "이즈루드로 돌아가고 싶습니다.",
         "en-US": "I want to go back to Izlude.",
         "pt-BR": "Quero voltar para Izlude.",
         "es-ES": "Quiero volver a Izlude."
     },
     "UvZSBg": {
-        "ko-KR": "[제리몬]\n감사합니다!! 어떤 것을 해주실 수 있나요?",
         "en-US": "[Jerimon]\nThank you!! What can you do for me today?",
         "pt-BR": "[Jeremias]\nObrigado!! O que você pode fazer por mim, hoje?",
         "es-ES": "[Jeremías]\n¡¡Gracias!! ¿Qué puedes hacer por mí, hoy?"
     },
     "U/ZSBg": {
-        "ko-KR": "다음에 온다.",
         "en-US": "Cancel.",
         "pt-BR": "Cancelar.",
         "es-ES": "Cancelar."
     },
     "VPZSBg": {
-        "ko-KR": "[제리몬]\n오늘 필요한 분량은 모두 갖췄습니다, 내일 다시 찾아와 주세요~",
         "en-US": "[Jerimon]\nI have everything I need for today, please come back tomorrow~",
         "pt-BR": "[Jeremias]\nTenho tudo que preciso para hoje, por favor, volte amanhã~",
         "es-ES": "[Jeremías]\nTengo todo lo que necesito por hoy, por favor, vuelve mañana~"
     },
     "VfZSBg": {
-        "ko-KR": "[제리몬]\n^4D4DFF심연의 정수^000000는 이 곳에 있는 모든 심해 생물들로부터 얻을 수 있습니다.\n현재 10개가 필요해요.",
         "en-US": "[Jerimon]\n^4D4DFFAbyssal Essence^000000 is found in all the creatures here.\nI need 10 units.",
         "pt-BR": "[Jeremias]\n^4D4DFFEssência Abismal^000000 é encontrada em todas as criaturas daqui\nPreciso de 10 unidades.",
         "es-ES": "[Jeremías]\nLa ^4D4DFFEsencia del Abismo^000000 se encuentra en todas las criaturas de aquí.\nNecesito 10 unidades."
     },
     "VvZSBg": {
-        "ko-KR": "[제리몬]\n그럼 조심히 다녀오세요~~!!",
         "en-US": "[Jerimon]\nBe careful~~!!",
         "pt-BR": "[Jeremias]\nTenha cuidado~~!!",
         "es-ES": "[Jeremías]\n¡¡Ten cuidado~~!!"
     },
     "V/ZSBg": {
-        "ko-KR": "[제리몬]\n심연의 정수를 모두 모아오셨군요!!",
         "en-US": "[Jerimon]\nYou brought all the Abyssal Essences!!",
         "pt-BR": "[Jeremias]\nVocê trouxe todas as Essências Abismais!!",
         "es-ES": "[Jeremías]\n¡¡Trajiste todas las Esencias del Abismo!!"
     },
     "WPZSBg": {
-        "ko-KR": "[제리몬]\n감사합니다, 연구에 잘 쓰도록 하겠습니다.",
         "en-US": "[Jerimon]\nThank you, it will help me a lot.",
         "pt-BR": "[Jeremias]\nObrigado, vai me ajudar muito.",
         "es-ES": "[Jeremías]\nGracias, me ayudará mucho."
     },
     "WfZSBg": {
-        "ko-KR": "[제리몬]\n^4D4DFF심연의 정수^000000 10개가 필요합니다.",
         "en-US": "[Jerimon]\nI need 10 units of ^4D4DFFAbyssal Essence^000000.",
         "pt-BR": "[Jeremias]\nPreciso de 10 unidades da ^4D4DFFEssência Abismal^000000.",
         "es-ES": "[Jeremías]\nNecesito 10 unidades de la ^4D4DFFEsencia del Abismo^000000."
     },
     "WvZSBg": {
-        "ko-KR": "[제리몬]\n정수를 모두 모으시면 저를 다시 찾아와 주세요!",
         "en-US": "[Jerimon]\nCome back to me when you've collected them all!",
         "pt-BR": "[Jeremias]\nVolte para mim quando tiver coletado todas!",
         "es-ES": "[Jeremías]\n¡Vuelve conmigo cuando hayas recolectado todas!"
     },
     "W/ZSBg": {
-        "ko-KR": "[제리몬]\n오늘은 이 정도면 된 것 같습니다.",
         "en-US": "[Jerimon]\nI think this is enough for today.",
         "pt-BR": "[Jeremias]\nEu acho que isso é o suficiente por hoje.",
         "es-ES": "[Jeremías]\nCreo que esto es suficiente por hoy."
     },
     "XPZSBg": {
-        "ko-KR": "[제리몬]\n도움이 필요하면 다시 말씀드리겠습니다, 감사합니다!!",
         "en-US": "[Jerimon]\nI'll let you know if I need help, thank you!!",
         "pt-BR": "[Jeremias]\nVou avisar se precisar de ajuda, obrigado!!",
         "es-ES": "[Jeremías]\nTe avisaré si necesito ayuda, ¡¡gracias!!"
     },
     "XfZSBg": {
-        "ko-KR": "[제리몬]\n이 근방을 휘젓고 다니는 ^4D4DFF심해의 스로포^000000, ^4D4DFF심해의 데비우스^000000 그리고 ^4D4DFF심해의 마르스^000000를 각각 10마리씩 처치 부탁드립니다.",
         "en-US": "[Jerimon]\nPlease, eliminate 10 ^4D4DFFAbyssal Sropho^000000, 10 ^4D4DFFAbyssal Deviace^000000 and 10 ^4D4DFFAbyssal Marse^000000 for me.",
         "pt-BR": "[Jeremias]\nPor favor, elimine 10 ^4D4DFFSropho Abismal^000000, 10 ^4D4DFFDeviace Abismal^000000 e 10 ^4D4DFFMarse Abismal^000000 para mim.",
         "es-ES": "[Jeremías]\nPor favor, elimina 10 ^4D4DFFSropho Abismal^000000, 10 ^4D4DFFDeviace Abismal^000000 y 10 ^4D4DFFMarse Abismal^000000 por mí."
     },
     "XvZSBg": {
-        "ko-KR": "[제리몬]\n심해 생물들을 모두 처리하고 오셨군요, 수고 많으셨습니다.",
         "en-US": "[Jerimon]\nYou dealt with all the abyssal creatures.",
         "pt-BR": "[Jeremias]\nVocê lidou com todas as criaturas abismais.",
         "es-ES": "[Jeremías]\nTe encargaste de todas las criaturas abismales."
     },
     "X/ZSBg": {
-        "ko-KR": "[제리몬]\n도움이 필요하게 되면 다시 말씀드리겠습니다. 감사합니다!!",
         "en-US": "[Jerimon]\nI'll contact you if I need help. Thank you!!",
         "pt-BR": "[Jeremias]\nEu entrarei em contato com você se precisar de ajuda. Obrigado!!",
         "es-ES": "[Jeremías]\nMe pondré en contacto contigo si necesito ayuda. ¡¡Gracias!!"
     },
     "YPZSBg": {
-        "ko-KR": "[제리몬]\n^4D4DFF심해의 스로포^000000와 ^4D4DFF심해의 데비우스^000000, 그리고 ^4D4DFF심해의 마르스^000000를 각각 10마리씩 처치 부탁드립니다.",
         "en-US": "[Jerimon]\nPlease, eliminate 10 ^4D4DFFAbyssal Sropho^000000, 10 ^4D4DFFAbyssal Deviace^000000 and 10 ^4D4DFFAbyssal Marse^000000 for me.",
         "pt-BR": "[Jeremias]\nPor favor, elimine 10 ^4D4DFFSropho Abismal^000000, 10 ^4D4DFFDeviace Abismal^000000 e 10 ^4D4DFFMarse Abismal^000000 para mim.",
         "es-ES": "[Jeremías]\nPor favor, elimina 10 ^4D4DFFSropho Abismal^000000, 10 ^4D4DFFDeviace Abismal^000000 y 10 ^4D4DFFMarse Abismal^000000 por mí."
     },
     "YfZSBg": {
-        "ko-KR": "[제리몬]\n부탁드릴 사람은 당신 밖에 없는데....",
         "en-US": "[Jerimon]\nThe only person I can ask is you....",
         "pt-BR": "[Jeremias]\nA única pessoa que posso pedir é você....",
         "es-ES": "[Jeremías]\nLa única persona a la que puedo pedirle eres tú...."
     },
     "YvZSBg": {
-        "ko-KR": "[제리몬]\n생각이 바뀌면 언제든지 말씀해주세요!!",
         "en-US": "[Jerimon]\nIf you change your mind, please let me know!!",
         "pt-BR": "[Jeremias]\nSe você mudar de ideia, por favor me avise!!",
         "es-ES": "[Jeremías]\n¡Si cambias de idea, por favor avísame!!"
     },
     "Y/ZSBg": {
-        "ko-KR": "[제리몬]\n저는 여기에 당분간 계속 있을 예정이니 생각이 바뀌면 말씀 부탁드려요!!",
         "en-US": "[Jerimon]\nI'll stay here for a while, so if you change your mind, please let me know!!",
         "pt-BR": "[Jeremias]\nEu vou ficar aqui por um tempo, então se você mudar de ideia, por favor me avise!!",
         "es-ES": "[Jeremías]\n¡Me quedaré aquí un tiempo, así que si cambias de idea, por favor avísame!!"
     },
     "ZPZSBg": {
-        "ko-KR": "케나",
         "en-US": "Kenna",
         "pt-BR": "Kenna",
         "es-ES": "Kenna"
     },
     "ZfZSBg": {
-        "ko-KR": "^999999심해 생물 처치 - 대기중^000000",
         "en-US": "^999999[Wait] Fish Control^000000",
         "pt-BR": "^999999[Espera] Controle de Peixes^000000",
         "es-ES": "^999999[Espera] Control de Peces^000000"
     },
     "ZvZSBg": {
-        "ko-KR": "심해 생물 처치 - 진행중",
         "en-US": "[In Progress] Fish Control",
         "pt-BR": "[Em curso] Controle de Peixes",
         "es-ES": "[En curso] Control de Peces"
     },
     "Z/ZSBg": {
-        "ko-KR": "심해 생물 처치 - 완료",
         "en-US": "[Completed] Fish Control",
         "pt-BR": "[Completado] Controle de Peixes",
         "es-ES": "[Completado] Control de Peces"
     },
     "aPZSBg": {
-        "ko-KR": "심해 생물 처치",
         "en-US": "Fish Control",
         "pt-BR": "Controle de Peixes",
         "es-ES": "Control de Peces"
     },
     "afZSBg": {
-        "ko-KR": "^999999심해 어인족 처치 - 대기중^000000",
         "en-US": "^999999[Wait] Species Control^000000",
         "pt-BR": "^999999[Espera] Controle de Espécies^000000",
         "es-ES": "^999999[Espera] Control de Especies^000000"
     },
     "avZSBg": {
-        "ko-KR": "심해 어인족 처치 - 진행중",
         "en-US": "[In Progress] Species Control",
         "pt-BR": "[Em curso] Controle de Espécies",
         "es-ES": "[En curso] Control de Especies"
     },
     "a/ZSBg": {
-        "ko-KR": "심해 어인족 처치 - 완료",
         "en-US": "[Completed] Species Control",
         "pt-BR": "[Completado] Controle de Espécies",
         "es-ES": "[Completado] Control de Especies"
     },
     "bPZSBg": {
-        "ko-KR": "심해 어인족 처치",
         "en-US": "Species Control",
         "pt-BR": "Controle de Espécies",
         "es-ES": "Control de Especies"
     },
     "bfZSBg": {
-        "ko-KR": "[케나]\n수고하셨습니다. 오늘은 푹 쉬시고 내일 방문해주세요.",
         "en-US": "[Kenna]\nThank you for your hard work. Rest well today and visit me tomorrow.",
         "pt-BR": "[Kenna]\nObrigado pelo seu trabalho árduo. Descanse bem hoje e visite-me amanhã.",
         "es-ES": "[Kenna]\nGracias por tu arduo trabajo. Descansa bien hoy y visítame mañana."
     },
     "bvZSBg": {
-        "ko-KR": "[케나]\n심해 생물들의 개체 수가 점점 늘어나고 있는 추세인데 도움을 청해도 될까요?",
         "en-US": "[Kenna]\nI heard there are many dangerous species in the deeper abyssal trenches, but when I arrived here, it was more dangerous than I thought.",
         "pt-BR": "[Kenna]\nOuvi dizer que existem muitas espécies perigosas nas fossas abissais mais profundas, mas quando cheguei aqui, era mais perigoso do que eu pensava.",
         "es-ES": "[Kenna]\nEscuché que existen muchas especies peligrosas en las fosas abisales más profundas, pero cuando llegué aquí, era más peligroso de lo que pensaba."
     },
     "b/ZSBg": {
-        "ko-KR": "[케나]\n오늘은 이 정도로 충분한 것 같습니다, 내일 다시 방문해주세요.",
         "en-US": "[Kenna]\nI think this is enough for today, please come back tomorrow.",
         "pt-BR": "[Kenna]\nEu acho que isso é o suficiente por hoje, por favor, volte amanhã.",
         "es-ES": "[Kenna]\nCreo que esto es suficiente por hoy, por favor, vuelve mañana."
     },
     "cPZSBg": {
-        "ko-KR": "[케나]\n^4D4DFF심해의 소드 피쉬^000000와 ^4D4DFF심해의 휀^000000, 그리고 ^4D4DFF심해의 킹 드라모^000000를 각각 10마리씩 처치 부탁드립니다.",
         "en-US": "[Kenna]\nPlease, eliminate 10 ^4D4DFFAbyssal Fish^000000, 10 ^4D4DFFAbyssal Fens^000000 and 10 ^4D4DFFAbyssal Dramohs^000000 for me.",
         "pt-BR": "[Kenna]\nPor favor, elimine 10 ^4D4DFFPeixes Abismais^000000, 10 ^4D4DFFFens Abismais^000000 e 10 ^4D4DFFDramohs Abismais^000000 para mim.",
         "es-ES": "[Kenna]\nPor favor, elimina 10 ^4D4DFFPeces Abismales^000000, 10 ^4D4DFFFens Abismales^000000 y 10 ^4D4DFFDramohs Abismales^000000 por mí."
     },
     "cfZSBg": {
-        "ko-KR": "[케나]\n모두 처치하고 오셨군요, 정말 수고 많으셨습니다. 시간이 되신다면 내일 다시 들러주세요. 기다리고 있겠습니다.",
         "en-US": "[Kenna]\nYou defeated all of them, then. Thank you very much for your effort. If you have time, come back tomorrow. I'll be waiting.",
         "pt-BR": "[Kena]\nVocê derrotou todos, então. Muito obrigado pelo seu esforço. Se tiver tempo, volte amanhã. Estarei esperando.",
         "es-ES": "[Kenna]\nLos derrotaste a todos, entonces. Muchas gracias por tu esfuerzo. Si tienes tiempo, vuelve mañana. Te estaré esperando."
     },
     "cvZSBg": {
-        "ko-KR": "[케나]\n^4D4DFF심해의 세도라^000000와 ^4D4DFF심해의 스트라우프^000000를 각각 15마리씩 처리 부탁드립니다.",
         "en-US": "[Kenna]\nPlease, eliminate 15 ^4D4DFFAbyssal Sedora^000000 and 15 ^4D4DFFAbyssal Strouf^000000.",
         "pt-BR": "[Kena]\nPor favor, elimine 15 de ^4D4DFFSedora Abismal^000000 e 15 de ^4D4DFFStrouf Abismal^000000.",
         "es-ES": "[Kenna]\nPor favor, elimina 15 ^4D4DFFSedora Abismal^000000 y 15 ^4D4DFFStrouf Abismal^000000."
     },
     "c/ZSBg": {
-        "ko-KR": "[케나]\n모두 처치하고 오셨군요, 정말 수고 많으셨습니다. 시간이 되시면 내일 다시 들러주세요. 기다리고 있겠습니다.",
         "en-US": "[Kenna]\nIf you have time, please come back tomorrow. I'll be waiting for you.",
         "pt-BR": "[Kenna]\nSe você tiver tempo, por favor, volte amanhã. Estarei esperando por você.",
         "es-ES": "[Kenna]\nSi tienes tiempo, por favor, vuelve mañana. Te estaré esperando."
     },
     "dPZSBg": {
-        "ko-KR": "호렌",
         "en-US": "Horen",
         "pt-BR": "Horen",
         "es-ES": "Horen"
     },
     "dfZSBg": {
-        "ko-KR": "[호렌]\n안녕하세요. 이 곳에서 얻을 수 있는 진귀한 재료들을 가지고 계시다면 장비를 강화해드릴 수 있습니다.",
         "en-US": "[Horen]\nHello~ If you're looking for illusionary equipment, you're talking to the right guy!",
         "pt-BR": "[Horen]\nOlá~ Se procura por equipamentos ilusionais, você tá falando com o cara certo!",
         "es-ES": "[Horen]\n¡Hola~! Si buscas equipo ilusorio, ¡estás hablando con la persona indicada!"
     },
     "dvZSBg": {
-        "ko-KR": "[호렌]\n강화 가능한 장비를 구경하시겠습니까?",
         "en-US": "[Horen]\nCan I open my little shop?",
         "pt-BR": "[Horen]\nPosso abrir a minha lojinha?",
         "es-ES": "[Horen]\n¿Puedo abrir mi tiendita?"
     },
     "d/ZSBg": {
-        "ko-KR": "[호렌]\n종류는 많으니 천천히 구경하세요, 원하시는 것이 있으시면 바로 강화 가능합니다.",
         "en-US": "[Horen]\nPay close attention! Some items need to have card slots and +9 refinement. You will lose cards, refinements, and enchantments when making the exchange.",
         "pt-BR": "[Horen]\nPreste bastante atenção! Alguns itens precisam ter slot de carta e refino +9. Você perderá cartas, refinos e encantos ao fazer a troca.",
         "es-ES": "[Horen]\n¡Presta mucha atención! Algunos objetos necesitan tener slot de carta y refinamiento +9. Perderás cartas, refinamientos y encantamientos al hacer el intercambio."
     },
     "ePZSBg": {
-        "ko-KR": "[호렌]\n관심이 생기시면 다시 찾아와 주세요.",
         "en-US": "[Horen]\nSo, come back when you're interested.",
         "pt-BR": "[Horen]\nEntão, volte quando tiver interesse.",
         "es-ES": "[Horen]\nEntonces, vuelve cuando tengas interés."
     },
     "efZSBg": {
-        "ko-KR": "심해의 마녀가 바닷속을 거닐고 있습니다!!",
         "en-US": "A sound of serpents rises from the sea!",
         "pt-BR": "Um barulho de serpentes surge no fundo do mar!",
         "es-ES": "¡Un sonido de serpientes surge en el fondo del mar!"
     },
     "evZSBg": {
-        "ko-KR": "심해의 크라켄이 바닷속을 거닐고 있습니다!!",
         "en-US": "A sound of tentacles rises from the sea!",
         "pt-BR": "Um barulho de tentáculos surge no fundo do mar!",
         "es-ES": "¡Un sonido de tentáculos surge en el fondo del mar!"

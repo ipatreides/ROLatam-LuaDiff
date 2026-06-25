@@ -1,0 +1,1117 @@
+{
+    "oKoqDQ": {
+        "en-US": "Aira",
+        "pt-BR": "Aira",
+        "es-ES": "Aira"
+    },
+    "oaoqDQ": {
+        "en-US": "Please do not worry about me. I will stay near the door, and if it gets dangerous, I will leave at once.",
+        "pt-BR": "Não se preocupe comigo. Vou ficar perto da porta e, se houver perigo, saio imediatamente.",
+        "es-ES": "No se preocupe por mí. Me quedaré cerca de la puerta y saldré enseguida si hay peligro."
+    },
+    "oqoqDQ": {
+        "en-US": "What in the world is happening?",
+        "pt-BR": "Afinal, o que está acontecendo?",
+        "es-ES": "¿Qué demonios está pasando?"
+    },
+    "o6oqDQ": {
+        "en-US": "Miriam",
+        "pt-BR": "Miriam",
+        "es-ES": "Miriam"
+    },
+    "pKoqDQ": {
+        "en-US": "[Miriam]\nHas everyone gathered?",
+        "pt-BR": "[Miriam]\nTodos chegaram?",
+        "es-ES": "[Miriam]\n¿Están todos reunidos?"
+    },
+    "paoqDQ": {
+        "en-US": "[Miriam]\nI think we should check whether there are any other servants and then go up to the second floor.",
+        "pt-BR": "[Miriam]\nAcho que devemos verificar se há mais algum empregado e então subir para o segundo andar.",
+        "es-ES": "[Miriam]\nCreo que deberíamos buscar si queda algún empleado más y luego subir a la segunda planta."
+    },
+    "pqoqDQ": {
+        "en-US": "Miriam: I think we should check whether there are any other servants and then go up to the second floor.",
+        "pt-BR": "Miriam: Acho que devemos verificar se há mais algum empregado e então subir para o segundo andar.",
+        "es-ES": "Miriam: Creo que deberíamos buscar si queda algún empleado más y luego subir a la segunda planta."
+    },
+    "p6oqDQ": {
+        "en-US": "[Miriam]\nI can sense a sharp presence beyond the central staircase.\nIt is probably the Heart Hunter we fought at the temple.",
+        "pt-BR": "[Miriam]\nSinto uma presença afiada além da escadaria central.\nProvavelmente é um Caça-Corações contra quem lutamos no templo.",
+        "es-ES": "[Miriam]\nMás allá de la escalera central noto una presencia afilada.\nProbablemente sea el Cazacorazones contra el que luchamos en el templo."
+    },
+    "qKoqDQ": {
+        "en-US": "Miriam: I sense a fierce presence. It is probably the Heart Hunter we fought at the temple.",
+        "pt-BR": "Miriam: Sinto uma presença agressiva. Provavelmente é um Caça-Corações contra quem lutamos no templo.",
+        "es-ES": "Miriam: Siento una presencia feroz. Probablemente sea el Cazacorazones contra el que luchamos en el templo."
+    },
+    "qaoqDQ": {
+        "en-US": "[Miriam]\nI am also concerned about the missing Fragment of Ymir’s Heart.\nIf they mean to stir up trouble, what happened at the temple should have been enough.",
+        "pt-BR": "[Miriam]\nDe todo modo, continuo preocupada com o Fragmento do Coração de Ymir que desapareceu.\nSe querem incitar confusão, o que aconteceu no templo já basta.",
+        "es-ES": "[Miriam]\nNo deja de inquietarme ese Fragmento del Corazón de Ymir que ha desaparecido.\nSi querían provocar disturbios, ya bastaba con lo ocurrido en el templo."
+    },
+    "qqoqDQ": {
+        "en-US": "Miriam: I am also concerned about the missing Fragment of Ymir’s Heart. The trouble at the temple should have been enough already.",
+        "pt-BR": "Miriam: De todo modo, continuo preocupada com o Fragmento do Coração de Ymir que desapareceu. O que aconteceu no templo já basta para causar confusão.",
+        "es-ES": "Miriam: No deja de inquietarme ese Fragmento del Corazón de Ymir que ha desaparecido. Para provocar disturbios, ya bastaba con el templo."
+    },
+    "q6oqDQ": {
+        "en-US": "[Miriam]\nIf Father has another plan….\nIf he is about to walk the wrong path again, then we must stop him.",
+        "pt-BR": "[Miriam]\nSe, por acaso, meu pai tiver outro plano em mente…\nSe ele estiver tentando seguir mais uma vez pelo caminho errado, teremos de impedi-lo.",
+        "es-ES": "[Miriam]\nSi padre tiene otro plan en mente…\nSi pretende volver a tomar el camino equivocado, tendré que detenerlo."
+    },
+    "rKoqDQ": {
+        "en-US": "Miriam: If Father has another plan and is about to walk the wrong path again, then we must stop him.",
+        "pt-BR": "Miriam: Se meu pai tiver outro plano em mente e tentar seguir pelo caminho errado mais uma vez, teremos de impedi-lo.",
+        "es-ES": "Miriam: Si mi padre tiene otro plan en mente y pretende volver a tomar el camino equivocado, tendré que detenerlo."
+    },
+    "raoqDQ": {
+        "en-US": "[Miriam]\nShall we get some information from the villa servants first?\nI can see a male servant over there, as it happens.",
+        "pt-BR": "[Miriam]\nPrimeiro, que tal obtermos informações com os empregados da mansão?\nPor acaso, vejo um empregado ali.",
+        "es-ES": "[Miriam]\n¿Probamos primero a obtener información de los empleados de la villa?\nJusto allí veo a un empleado."
+    },
+    "rqoqDQ": {
+        "en-US": "Miriam: Shall we get some information from the remaining servants first?",
+        "pt-BR": "Miriam: Primeiro, que tal obtermos informações com os empregados restantes?",
+        "es-ES": "Miriam: ¿Probamos primero a obtener información de los empleados que quedan?"
+    },
+    "r6oqDQ": {
+        "en-US": "[Miriam]\nI will go to that male servant.\nAdventurer, please find another servant and ask about the mansion.",
+        "pt-BR": "[Miriam]\nEu vou falar com aquele empregado.\nAventureiro, por favor, procure outro empregado e pergunte sobre a mansão.",
+        "es-ES": "[Miriam]\nIré a hablar con ese empleado.\nAventurero, busque a otro empleado y pregúntele por la mansión."
+    },
+    "sKoqDQ": {
+        "en-US": "Miriam: I will go to that male servant. Adventurer, please look for another servant.",
+        "pt-BR": "Miriam: Eu vou falar com aquele empregado. Aventureiro, por favor, procure outro empregado.",
+        "es-ES": "Miriam: Iré a hablar con ese empleado. Aventurero, busque a otro empleado."
+    },
+    "saoqDQ": {
+        "en-US": "Miriam: Find another servant.",
+        "pt-BR": "Miriam: Procure outro empregado.",
+        "es-ES": "Miriam: Busque a otro empleado."
+    },
+    "sqoqDQ": {
+        "en-US": "Aira: Over here. Only servants use the first floor, so it should be fine.",
+        "pt-BR": "Aira: É aqui. No primeiro andar só circulam os criados, então deve estar tudo bem.",
+        "es-ES": "Aira: Estoy aquí. Por la primera planta solo pasan los sirvientes, así que estará bien."
+    },
+    "s6oqDQ": {
+        "en-US": "Miriam: The second floor?",
+        "pt-BR": "Miriam: E o segundo andar?",
+        "es-ES": "Miriam: ¿Y la segunda planta?"
+    },
+    "tKoqDQ": {
+        "en-US": "Aira: The officiating priests are staying there. Though I do not know if they are really priests.",
+        "pt-BR": "Aira: Os sacerdotes assistentes estão hospedados lá. Embora eu não saiba se são mesmo sacerdotes assistentes.",
+        "es-ES": "Aira: Allí se alojan los sacerdotes ascetas. Aunque no sé si de verdad lo son."
+    },
+    "taoqDQ": {
+        "en-US": "Aira: They are violent, and I think they have weapons too.",
+        "pt-BR": "Aira: Eles também são violentos e parecem estar armados.",
+        "es-ES": "Aira: Además, son violentos y parece que van armados."
+    },
+    "tqoqDQ": {
+        "en-US": "Miriam: Understood. Thank you for showing us. We will handle the search inside.",
+        "pt-BR": "Miriam: Entendi. Obrigada por nos guiar. Nós vamos vasculhar o interior.",
+        "es-ES": "Miriam: Entendido. Gracias por guiarnos. Nosotros registraremos el interior."
+    },
+    "t6oqDQ": {
+        "en-US": "Aira: Please do not worry about me. Be careful, both of you.",
+        "pt-BR": "Aira: Não se preocupem comigo. Tenham cuidado, vocês dois.",
+        "es-ES": "Aira: No se preocupen por mí. Tengan cuidado, los dos."
+    },
+    "uKoqDQ": {
+        "en-US": "Miriam: Then let us head upstairs slowly.",
+        "pt-BR": "Miriam: Então vamos subir devagar.",
+        "es-ES": "Miriam: Entonces subamos despacio."
+    },
+    "uaoqDQ": {
+        "en-US": "Aira: Please look for the key to the second-floor banquet hall. I think there is something beyond it!",
+        "pt-BR": "Aira: Procurem a chave do salão de banquetes no segundo andar. Deve haver algo além dele!",
+        "es-ES": "Aira: ¡Busquen la llave del salón de banquetes de la segunda planta! ¡Seguro que hay algo más allá!"
+    },
+    "uqoqDQ": {
+        "en-US": "Miriam: Adventurer, shall we split up the tasks a little?",
+        "pt-BR": "Miriam: Aventureiro, que tal dividirmos um pouco as tarefas?",
+        "es-ES": "Miriam: Aventurero, ¿repartimos un poco las tareas?"
+    },
+    "u6oqDQ": {
+        "en-US": "Then I will go to that servant over there.",
+        "pt-BR": "Então eu vou até aquele empregado.",
+        "es-ES": "Entonces yo iré a ver a ese empleado de allí."
+    },
+    "vKoqDQ": {
+        "en-US": "Villa Servant",
+        "pt-BR": "Empregado da Vila",
+        "es-ES": "Empleado de la villa"
+    },
+    "vaoqDQ": {
+        "en-US": "[Villa Servant]\nI do not believe we have met before. Who are you?\nAre you one of the master's guests?",
+        "pt-BR": "[Empregado da Vila]\nÉ a primeira vez que vejo você. Quem é?\nÉ um dos hóspedes do senhor?",
+        "es-ES": "[Empleado de la villa]\nNo recuerdo haberle visto antes. ¿Quién es usted?\n¿Es un invitado del señor?"
+    },
+    "vqoqDQ": {
+        "en-US": "Where is Amal?",
+        "pt-BR": "Onde está o senhor Amal?",
+        "es-ES": "¿Dónde está el señor Amal?"
+    },
+    "v6oqDQ": {
+        "en-US": "[Villa Servant]\nWould he not be in the chapel?\nWhenever he came here, he always looked for the chapel first….",
+        "pt-BR": "[Empregado da Vila]\nNão estaria na capela?\nSempre que vinha aqui, ele procurava primeiro a capela…",
+        "es-ES": "[Empleado de la villa]\n¿No estará en la capilla?\nSiempre que venía aquí, lo primero que hacía era ir a la capilla…"
+    },
+    "wKoqDQ": {
+        "en-US": "There is a chapel in the villa?",
+        "pt-BR": "Há uma capela na mansão?",
+        "es-ES": "¿Hay una capilla en la villa?"
+    },
+    "waoqDQ": {
+        "en-US": "[Villa Servant]\nYes. He is such a devout man that he had a chapel built inside the mansion.",
+        "pt-BR": "[Empregado da Vila]\nSim. Como ele é muito devoto, mandou construir uma capela na parte interna da mansão.",
+        "es-ES": "[Empleado de la villa]\nSí. Como es un hombre muy devoto, mandó construir una capilla en el interior de la mansión."
+    },
+    "wqoqDQ": {
+        "en-US": "What about the others?",
+        "pt-BR": "E os outros?",
+        "es-ES": "¿Y los demás?"
+    },
+    "w6oqDQ": {
+        "en-US": "[Villa Servant]\nMost of them were suddenly dismissed.\nI was just told to leave a little while ago, but I do not know whether that means I am to quit work….",
+        "pt-BR": "[Empregado da Vila]\nA maioria foi demitida de repente.\nEu também ouvi há pouco que devia ir embora, mas não sei se isso quer dizer que devo largar o emprego…",
+        "es-ES": "[Empleado de la villa]\nA la mayoría los despidieron de repente.\nA mí también me acaban de decir que me vaya, pero no sé si eso significa que debo dejar el trabajo…"
+    },
+    "xKoqDQ": {
+        "en-US": "[Villa Servant]\nThe atmosphere was so hostile that I could not even ask.\nYou can reach the chapel by going up the central staircase and passing through the banquet hall.\nPlease go ahead, then.",
+        "pt-BR": "[Empregado da Vila]\nO clima estava tão agressivo que nem consegui perguntar.\nVocê pode chegar à capela subindo a escadaria central e passando pelo salão de banquetes.\nEntão cuide do que precisa.",
+        "es-ES": "[Empleado de la villa]\nEl ambiente estaba tan tenso que ni siquiera me atreví a preguntar.\nPuede llegar a la capilla subiendo por la escalera central y cruzando el salón de banquetes.\nEntonces, ocúpese de lo suyo."
+    },
+    "xaoqDQ": {
+        "en-US": "[Villa Servant]\nAmal went to the chapel.\nGo up the central staircase, and once you pass through the banquet hall, you will find the chapel.",
+        "pt-BR": "[Empregado da Vila]\nO senhor Amal foi para a capela.\nSuba a escadaria central e passe pelo salão de banquetes, então verá a capela.",
+        "es-ES": "[Empleado de la villa]\nEl señor Amal fue a la capilla.\nSuba por la escalera central, cruce el salón de banquetes y llegará a la capilla."
+    },
+    "xqoqDQ": {
+        "en-US": "Why is everything so chaotic today…?",
+        "pt-BR": "Por que hoje está tudo tão caótico…?",
+        "es-ES": "¿Por qué estará hoy todo tan revuelto...?"
+    },
+    "x6oqDQ": {
+        "en-US": "This is the person Miriam said she would investigate. Let us look for someone else.",
+        "pt-BR": "Esta é a pessoa que Miriam decidiu investigar. Vamos procurar mais alguém.",
+        "es-ES": "Es la persona que Miriam iba a investigar. Busquemos a alguien más."
+    },
+    "yKoqDQ": {
+        "en-US": "Hans: The atmosphere in the villa is unsettling. The officiating priests were all armed.",
+        "pt-BR": "Hans: O clima na mansão não é nada normal. Todos os sacerdotes assistentes estavam armados.",
+        "es-ES": "Hans: El ambiente en la villa no es nada normal. Todos esos sacerdotes ascetas iban armados."
+    },
+    "yaoqDQ": {
+        "en-US": "Miriam: Then they must indeed be Heart Hunters disguised as Priest, correct?",
+        "pt-BR": "Miriam: Então eram Caça-Coraçõess disfarçados de Sacerdote, como eu imaginava?",
+        "es-ES": "Miriam: Entonces, como suponíamos, ¿serán Cazacorazoness disfrazados de Sacerdote?"
+    },
+    "yqoqDQ": {
+        "en-US": "A voice cries out: Gah! Why are you doing this?! Help me!",
+        "pt-BR": "Grito de alguém: Ai, não! Por que estão fazendo isso?! Socorro!",
+        "es-ES": "El grito de alguien: ¡Ay! ¿Pero qué hacen? ¡Ayúdenme!"
+    },
+    "y6oqDQ": {
+        "en-US": "Miriam: That scream just now! What is happening?",
+        "pt-BR": "Miriam: Agora há pouco ouvimos um grito! O que está acontecendo?",
+        "es-ES": "Miriam: ¡Ese grito! ¿Qué está ocurriendo?"
+    },
+    "zKoqDQ": {
+        "en-US": "Aaaahhh-!",
+        "pt-BR": "Aaaah-!",
+        "es-ES": "¡Aaaah!"
+    },
+    "zaoqDQ": {
+        "en-US": "Miriam: Aira!!",
+        "pt-BR": "Miriam: Aira!!",
+        "es-ES": "Miriam: ¡¡Aira!!"
+    },
+    "zqoqDQ": {
+        "en-US": "Miriam: Something must have happened. I am going to Aira.",
+        "pt-BR": "Miriam: Acho que aconteceu alguma coisa. Vou até Aira.",
+        "es-ES": "Miriam: Debe de haber pasado algo. Iré a ver a Aira."
+    },
+    "z6oqDQ": {
+        "en-US": "Hans: My lady! Please take me with you as well!",
+        "pt-BR": "Hans: Senhorita! Leve-me também!",
+        "es-ES": "Hans: ¡Señorita! ¡Lléveme con usted!"
+    },
+    "0KoqDQ": {
+        "en-US": "Miriam: Then I will go see whether Aira and the others are safe.",
+        "pt-BR": "Miriam: Então eu vou verificar se Aira e os outros estão em segurança.",
+        "es-ES": "Miriam: Entonces iré a comprobar si Aira y los demás están a salvo."
+    },
+    "0aoqDQ": {
+        "en-US": "Miriam: Adventurer, proceed inside first. Mr. Hans, let us go together.",
+        "pt-BR": "Miriam: Aventureiro, avance primeiro. Sr. Hans, venha comigo.",
+        "es-ES": "Miriam: Aventurero, adelante primero. Sr. Hans, venga conmigo."
+    },
+    "0qoqDQ": {
+        "en-US": "Hey, we have met before, have we not?",
+        "pt-BR": "Ei, nós já nos conhecemos, não é?",
+        "es-ES": "Oye, ya nos conocemos, ¿no?"
+    },
+    "06oqDQ": {
+        "en-US": "Thanks for pretending to be an ally back in Wolf Village. Friend.",
+        "pt-BR": "Obrigado por fingir no vilarejo dos lobos que era nosso aliado. Amigo.",
+        "es-ES": "Gracias por fingir que éramos compañeros en la aldea de los lobos, amigo."
+    },
+    "1KoqDQ": {
+        "en-US": "Villa Heart Hunter",
+        "pt-BR": "Caça-Corações da Mansão",
+        "es-ES": "Cazacorazones de la Mansión"
+    },
+    "1aoqDQ": {
+        "en-US": "Villa Heart Hunter",
+        "pt-BR": "Caça-Corações da Mansão",
+        "es-ES": "Cazacorazones de la Mansión"
+    },
+    "1qoqDQ": {
+        "en-US": "Aira",
+        "pt-BR": "Aira",
+        "es-ES": "Aira"
+    },
+    "16oqDQ": {
+        "en-US": "Anna",
+        "pt-BR": "Anna",
+        "es-ES": "Anna"
+    },
+    "2KoqDQ": {
+        "en-US": "Hans",
+        "pt-BR": "Hans",
+        "es-ES": "Hans"
+    },
+    "2aoqDQ": {
+        "en-US": "Hah... Did I not clearly tell you to clear everyone out? Why are these rats still here?",
+        "pt-BR": "Ha... eu claramente mandei esvaziar tudo, não foi? Por que esses ratos ainda estão aqui?",
+        "es-ES": "Ja... ¿No os dije claramente que lo vaciarais todo? ¿Por qué siguen aquí estas ratas?"
+    },
+    "2qoqDQ": {
+        "en-US": "Miriam: Adventurer, I will take care of this side.",
+        "pt-BR": "Miriam: Aventureiro, eu cuido deste lado.",
+        "es-ES": "Miriam: Aventurero, yo me encargaré de esto."
+    },
+    "26oqDQ": {
+        "en-US": "Miriam: Adventurer, please break through the lobby. Let us split up and deal with them.",
+        "pt-BR": "Miriam: Aventureiro, atravesse o saguão. Vamos dividir isso.",
+        "es-ES": "Miriam: Aventurero, abra paso por el vestíbulo. Nos dividiremos."
+    },
+    "3KoqDQ": {
+        "en-US": "We cannot let that happen. Block the stairs!",
+        "pt-BR": "Não podemos deixar assim. Bloqueiem a escada!",
+        "es-ES": "No podemos dejarlos así. ¡Bloquead la escalera!"
+    },
+    "3aoqDQ": {
+        "en-US": "Miriam: Adventurer! Stop them! I will handle this side and get everyone to safety!",
+        "pt-BR": "Miriam: Aventureiro! Detenha-os! Eu cuido daqui e faço todos evacuarem!",
+        "es-ES": "Miriam: ¡Aventurero! ¡Deténgalos! ¡Yo me encargo aquí y haré que todos evacúen!"
+    },
+    "3qoqDQ": {
+        "en-US": "Miriam: Leave this to me and take care of the Heart Hunter on the second floor.",
+        "pt-BR": "Miriam: Deixe isto comigo e elimine o Caça-Corações do segundo andar.",
+        "es-ES": "Miriam: Déjemelo a mí y ocupése del Cazacorazones de la segunda planta."
+    },
+    "36oqDQ": {
+        "en-US": "Miriam: The door is locked. Shall we search separately?",
+        "pt-BR": "Miriam: A porta está trancada. Vamos procurar separados?",
+        "es-ES": "Miriam: La puerta está cerrada. ¿La buscamos por separado?"
+    },
+    "4KoqDQ": {
+        "en-US": "Miriam: I will check the corridor on the right. Adventurer, please search the left side.",
+        "pt-BR": "Miriam: Eu vou pelo corredor da direita. Aventureiro, procure no da esquerda.",
+        "es-ES": "Miriam: Yo iré por el pasillo derecho. Aventurero, registre el izquierdo."
+    },
+    "4aoqDQ": {
+        "en-US": "Villa Heart Hunter",
+        "pt-BR": "Caça-Corações da Vila",
+        "es-ES": "Cazacorazones de la villa"
+    },
+    "4qoqDQ": {
+        "en-US": "How admirable, your courage!",
+        "pt-BR": "Que coragem admirável!",
+        "es-ES": "¡Tu valor es admirable!"
+    },
+    "46oqDQ": {
+        "en-US": "Miriam: Hyaah!",
+        "pt-BR": "Miriam: Hia!",
+        "es-ES": "Miriam: ¡Toma!"
+    },
+    "5KoqDQ": {
+        "en-US": "Urgh!",
+        "pt-BR": "Urgh!",
+        "es-ES": "¡Ghh!"
+    },
+    "5aoqDQ": {
+        "en-US": "You think you can handle this alone?",
+        "pt-BR": "Acha que consegue lidar sozinho?",
+        "es-ES": "¿Pretendes cargar tú sola con todo?"
+    },
+    "5qoqDQ": {
+        "en-US": "You cannot escape!",
+        "pt-BR": "Você não pode fugir!",
+        "es-ES": "¡No puedes huir!"
+    },
+    "56oqDQ": {
+        "en-US": "Silver Key",
+        "pt-BR": "Chave Prateada",
+        "es-ES": "Llave plateada"
+    },
+    "6KoqDQ": {
+        "en-US": "You found a small Silver Key.",
+        "pt-BR": "Você encontrou uma pequena Chave Prateada.",
+        "es-ES": "Has encontrado una pequeña Llave plateada."
+    },
+    "6aoqDQ": {
+        "en-US": "Locked Door",
+        "pt-BR": "Porta Trancada",
+        "es-ES": "Puerta cerrada"
+    },
+    "6qoqDQ": {
+        "en-US": "Firmly shut Locked Door.\nThere is a Silver Key hole.",
+        "pt-BR": "Porta Trancada firmemente trancada.\nHá uma fechadura para Chave Prateada.",
+        "es-ES": "Una Puerta cerrada firmemente cerrada.\nHay una ranura para Llave plateada."
+    },
+    "66oqDQ": {
+        "en-US": "I need the Silver Key.",
+        "pt-BR": "Preciso de Chave Prateada.",
+        "es-ES": "Necesito Llave plateada."
+    },
+    "7KoqDQ": {
+        "en-US": "Golden Key",
+        "pt-BR": "Chave Dourada",
+        "es-ES": "Llave dorada"
+    },
+    "7aoqDQ": {
+        "en-US": "You found a small Golden Key.",
+        "pt-BR": "Você encontrou uma pequena Chave Dourada.",
+        "es-ES": "Has encontrado una pequeña Llave dorada."
+    },
+    "7qoqDQ": {
+        "en-US": "Miriam",
+        "pt-BR": "Miriam",
+        "es-ES": "Miriam"
+    },
+    "76oqDQ": {
+        "en-US": "Miriam: I can hear someone inside. But it is locked. We need a key.",
+        "pt-BR": "Miriam: Ouço presença lá dentro. Mas está trancado. Precisamos de uma chave.",
+        "es-ES": "Miriam: Oigo presencia al otro lado. Pero está cerrado con llave. Necesitamos una llave."
+    },
+    "8KoqDQ": {
+        "en-US": "[Miriam]\nI can hear someone inside.\nBut it is locked. We need a key.",
+        "pt-BR": "[Miriam]\nOuço presença lá dentro.\nMas está trancado. Precisamos de uma chave.",
+        "es-ES": "[Miriam]\nOigo presencia al otro lado.\nPero está cerrado con llave. Necesitamos una llave."
+    },
+    "8aoqDQ": {
+        "en-US": "[Miriam]\nSo you found the key.\nIt seems several of the mansion servants are trapped inside.\nI will stand guard here, so please go in.",
+        "pt-BR": "[Miriam]\nEntão você encontrou a chave.\nParece que alguns empregados da mansão estão presos lá dentro.\nEu ficarei de vigia, então entre.",
+        "es-ES": "[Miriam]\nAsí que ha encontrado la llave.\nParece que hay varios empleados de la mansión encerrados dentro.\nYo vigilaré, así que entre."
+    },
+    "8qoqDQ": {
+        "en-US": "Miriam: I will guard the entrance, so please search the inside of the room.",
+        "pt-BR": "Miriam: Eu guardarei a entrada, então procure dentro do quarto.",
+        "es-ES": "Miriam: Yo vigilaré la entrada, así que registre el interior."
+    },
+    "86oqDQ": {
+        "en-US": "[Miriam]\nIf we leave them like this, they will all be silenced.\nWe must evacuate them before more Heart Hunters arrive.",
+        "pt-BR": "[Miriam]\nSe deixarmos assim, todos eles serão silenciados.\nPrecisamos evacuar essas pessoas antes que mais Caça-Coraçõess cheguem.",
+        "es-ES": "[Miriam]\nSi los dejamos así, a todos ellos los silenciarán.\nDebemos evacuar a esas personas antes de que lleguen más Cazacorazoness."
+    },
+    "9KoqDQ": {
+        "en-US": "[Miriam]\nThen I will leave the chapel investigation to you, Adventurer.\nI will escort them to safety.\nPlease.",
+        "pt-BR": "[Miriam]\nEntão deixarei a investigação da capela com você, Aventureiro.\nEu vou escoltar essas pessoas para evacuá-las.\nConto com você.",
+        "es-ES": "[Miriam]\nEntonces le dejaré a usted la investigación de la capilla.\nYo escoltaré a estas personas y las pondré a salvo.\nSe lo ruego."
+    },
+    "9aoqDQ": {
+        "en-US": "Miriam: Those of you inside, I will escort you. Let us go.",
+        "pt-BR": "Miriam: Pessoal que está aí dentro. Eu vou escoltá-los. Vamos sair.",
+        "es-ES": "Miriam: Ustedes, los de dentro. Yo los escoltaré. Salgamos."
+    },
+    "9qoqDQ": {
+        "en-US": "Are we getting out?",
+        "pt-BR": "Vamos sair?",
+        "es-ES": "¿Nos vamos?"
+    },
+    "96oqDQ": {
+        "en-US": "We can live too!",
+        "pt-BR": "Nós também podemos viver!",
+        "es-ES": "¡Nosotros también podemos salvarnos!"
+    },
+    "+KoqDQ": {
+        "en-US": "Quickly, follow the young lady!",
+        "pt-BR": "Vamos, sigam a senhorita!",
+        "es-ES": "¡Rápido, sigamos a la señorita!"
+    },
+    "+aoqDQ": {
+        "en-US": "Mansion Servant",
+        "pt-BR": "Empregado da Mansão",
+        "es-ES": "Empleado de la mansión"
+    },
+    "+qoqDQ": {
+        "en-US": "Mansion Servant: Please let me out of here..",
+        "pt-BR": "Empregado da Mansão: Por favor, deixem-nos sair daqui...",
+        "es-ES": "Empleado de la mansión: Por favor, sáquenos de aquí..."
+    },
+    "+6oqDQ": {
+        "en-US": "[Mansion Servant]\nDestroying evidence? Silencing us by murder?\nI was suddenly dismissed and came to protest, and all I did was sneak a look at the chapel. Is that such a grave crime?",
+        "pt-BR": "[Empregado da Mansão]\nDestruição de provas? Queima de arquivo?\nFui demitido de repente e vim protestar, mas foi assim tão grave ter espiado um pouco a capela?",
+        "es-ES": "[Empleado de la mansión]\n¿Eliminar pruebas? ¿Silenciarnos para siempre?\nNos despidieron de repente, vinimos a protestar y ¿acaso fue tan grave echar un vistazo a la capilla?"
+    },
+    "/KoqDQ": {
+        "en-US": "[Mansion Servant]\nYou! You came to save us, did you not?\nThat voice outside, it was Miss Miriam, was it not?",
+        "pt-BR": "[Empregado da Mansão]\nVocê! Veio nos salvar, não foi?\nA voz que ouvimos lá fora era da senhorita Miriam, não era?",
+        "es-ES": "[Empleado de la mansión]\n¡Usted! Ha venido a rescatarnos, ¿verdad?\nLa voz que oímos fuera era la de la señorita Miriam, ¿verdad?"
+    },
+    "/aoqDQ": {
+        "en-US": "[Mansion Servant]\nInvestigate the chapel! It is highly suspicious!\nWhat? The banquet hall door is shut?",
+        "pt-BR": "[Empregado da Mansão]\nInvestigue a capela! É extremamente suspeita!\nO quê? A porta do salão de banquetes está fechada?",
+        "es-ES": "[Empleado de la mansión]\n¡Investigue la capilla! ¡Es muy sospechosa!\n¿Cómo? ¿Que la puerta del salón de banquetes está cerrada?"
+    },
+    "/qoqDQ": {
+        "en-US": "[Mansion Servant]\nHere is the side door key.\nIt can open the door you see right in front of you after leaving this room.\nWe normally used that door to carry food, so I have a spare key.",
+        "pt-BR": "[Empregado da Mansão]\nAqui está a chave da porta lateral.\nSaindo desta sala, você poderá abrir a porta logo à frente.\nComo era a porta por onde normalmente levávamos comida, eu tenho uma chave reserva.",
+        "es-ES": "[Empleado de la mansión]\nAquí tiene la llave de la puerta lateral.\nPuede abrir la puerta que verá justo enfrente al salir de esta habitación.\nEs por donde solían llevar la comida, así que tengo una llave de repuesto."
+    },
+    "/6oqDQ": {
+        "en-US": "[Mansion Servant]\nAnd please save us.\nWe have done nothing wrong.",
+        "pt-BR": "[Empregado da Mansão]\nE, por favor, nos salvem.\nNós não temos culpa de nada.",
+        "es-ES": "[Empleado de la mansión]\nY sálvenos, por favor.\nNosotros no hemos cometido ningún delito."
+    },
+    "AKsqDQ": {
+        "en-US": "You obtained ^4D4DFFSpare Key^000000.",
+        "pt-BR": "Você obteve ^4D4DFFChave Reserva^000000.",
+        "es-ES": "Has obtenido ^4D4DFFLlave de repuesto^000000."
+    },
+    "AasqDQ": {
+        "en-US": "Mansion Servant: You can open the door with the spare key.",
+        "pt-BR": "Empregado da Mansão: Você pode abrir a porta com a chave reserva.",
+        "es-ES": "Empleado de la mansión: Puede abrir la puerta con la llave de repuesto."
+    },
+    "AqsqDQ": {
+        "en-US": "Mansion Servant: I was only doing the work I was told, and now I have no idea what is going on.",
+        "pt-BR": "Empregado da Mansão: Eu só fazia o que me mandavam, então não faço ideia do que está acontecendo de repente.",
+        "es-ES": "Empleado de la mansión: Solo hacía el trabajo que me mandaban, pero no entiendo qué está pasando de repente."
+    },
+    "A6sqDQ": {
+        "en-US": "Mansion Servant: We are not all going to die, are we?",
+        "pt-BR": "Empregado da Mansão: Será que todos nós vamos morrer?",
+        "es-ES": "Empleado de la mansión: ¿No irán a matarnos a todos?"
+    },
+    "BKsqDQ": {
+        "en-US": "Firmly shut Locked Door.\nThere is a small keyhole.",
+        "pt-BR": "Porta Trancada firmemente trancada.\nHá uma pequena fechadura.",
+        "es-ES": "Una Puerta cerrada firmemente cerrada.\nHay una pequeña cerradura."
+    },
+    "BasqDQ": {
+        "en-US": "I need a key.",
+        "pt-BR": "Preciso de uma chave.",
+        "es-ES": "Necesito una llave."
+    },
+    "BqsqDQ": {
+        "en-US": "You used the spare key.",
+        "pt-BR": "Você usou a chave reserva.",
+        "es-ES": "Has usado la llave de repuesto."
+    },
+    "B6sqDQ": {
+        "en-US": "Splendid Gate",
+        "pt-BR": "Porta Magnífica",
+        "es-ES": "Puerta espléndida"
+    },
+    "CKsqDQ": {
+        "en-US": "The door will not open.\nIt feels as though a powerful magic is blocking it.",
+        "pt-BR": "A porta não abre.\nParece que uma forte energia mágica a está bloqueando.",
+        "es-ES": "La puerta no se abre.\nSe siente como si una poderosa fuerza mágica la estuviera bloqueando."
+    },
+    "CasqDQ": {
+        "en-US": "Splendid Knight",
+        "pt-BR": "Cavaleiro Magnífico",
+        "es-ES": "Caballero espléndido"
+    },
+    "CqsqDQ": {
+        "en-US": "The magic of Splendid Knight has already faded.",
+        "pt-BR": "A energia mágica de Cavaleiro Magnífico já desapareceu.",
+        "es-ES": "La fuerza mágica de Caballero espléndido ya ha desaparecido."
+    },
+    "C6sqDQ": {
+        "en-US": "Elegant Gate",
+        "pt-BR": "Porta Elegante",
+        "es-ES": "Puerta elegante"
+    },
+    "DKsqDQ": {
+        "en-US": "^4D4DFFViolet^000000",
+        "pt-BR": "^4D4DFFVioleta^000000",
+        "es-ES": "^4D4DFFVioleta^000000"
+    },
+    "DasqDQ": {
+        "en-US": "^4D4DFFHydrangea^000000",
+        "pt-BR": "^4D4DFFHortênsia^000000",
+        "es-ES": "^4D4DFFHortensia^000000"
+    },
+    "DqsqDQ": {
+        "en-US": "^4D4DFFRose^000000",
+        "pt-BR": "^4D4DFFRosa^000000",
+        "es-ES": "^4D4DFFRosa^000000"
+    },
+    "D6sqDQ": {
+        "en-US": "^4D4DFFGlass Lily^000000",
+        "pt-BR": "^4D4DFFLírio de Vidro^000000",
+        "es-ES": "^4D4DFFLirio de cristal^000000"
+    },
+    "EKsqDQ": {
+        "en-US": "^4D4DFFLotus^000000",
+        "pt-BR": "^4D4DFFLótus^000000",
+        "es-ES": "^4D4DFFLoto^000000"
+    },
+    "EasqDQ": {
+        "en-US": "There is a door engraved with an elegant {0} pattern.\nAn unknown magic can be felt from it.",
+        "pt-BR": "Há uma porta com um elegante padrão de {0} gravado.\nÉ possível sentir uma energia mágica desconhecida.",
+        "es-ES": "Hay una puerta grabada con un elegante motivo de {0}.\nSe percibe una magia desconocida."
+    },
+    "EqsqDQ": {
+        "en-US": "There is a flower-shaped device.",
+        "pt-BR": "Há um dispositivo em forma de flor.",
+        "es-ES": "Hay un mecanismo con forma de flor."
+    },
+    "E6sqDQ": {
+        "en-US": "Operate it.",
+        "pt-BR": "Manipular.",
+        "es-ES": "Manipularlo."
+    },
+    "FKsqDQ": {
+        "en-US": "Stop.",
+        "pt-BR": "Parar.",
+        "es-ES": "Dejarlo."
+    },
+    "FasqDQ": {
+        "en-US": "Nothing happened.",
+        "pt-BR": "Nada aconteceu.",
+        "es-ES": "No ocurrió nada."
+    },
+    "FqsqDQ": {
+        "en-US": "Let us look for another device.",
+        "pt-BR": "Vamos procurar outro dispositivo.",
+        "es-ES": "Busquemos otro mecanismo."
+    },
+    "F6sqDQ": {
+        "en-US": "Schulang",
+        "pt-BR": "Schulang",
+        "es-ES": "Schulang"
+    },
+    "GKsqDQ": {
+        "en-US": "[Schulang]\nAdventurer…. So you did not come alone?\nWho is your leader?",
+        "pt-BR": "[Schulang]\nAventureiro…. então você não veio sozinho?\nQuem é o líder de vocês?",
+        "es-ES": "[Schulang]\nAventurero... Así que no has venido solo.\n¿Quién es el líder de vuestro grupo?"
+    },
+    "GasqDQ": {
+        "en-US": "[Schulang]\nTo have come this far, you are no ordinary one.\nA talent too precious to lose.\nHow about joining hands with us?",
+        "pt-BR": "[Schulang]\nChegar até aqui não é para qualquer um.\nVocê é um talento precioso demais para ser desperdiçado.\nQue tal unir forças conosco?",
+        "es-ES": "[Schulang]\nLlegar hasta aquí no está nada mal.\nSería una pena dejar escapar un talento como tú.\n¿Qué te parecería unir fuerzas con nosotros?"
+    },
+    "GqsqDQ": {
+        "en-US": "Quit talking crazy.",
+        "pt-BR": "Pare de falar besteira",
+        "es-ES": "Deja ya de decir tonterías"
+    },
+    "G6sqDQ": {
+        "en-US": "What is in it for me?",
+        "pt-BR": "O que eu ganho com isso?",
+        "es-ES": "¿Qué gano yo con eso?"
+    },
+    "HKsqDQ": {
+        "en-US": "Stop talking crazy.",
+        "pt-BR": "Pare com esse papo maluco.",
+        "es-ES": "Deja ya de decir tonterías."
+    },
+    "HasqDQ": {
+        "en-US": "[Schulang]\nCrazy, you say.\nWhat do allies and enemies matter when recruiting talent?",
+        "pt-BR": "[Schulang]\nPapo maluco?\nAo recrutar gente talentosa, o que importa quem é aliado ou inimigo?",
+        "es-ES": "[Schulang]\n¿Tonterías, dices?\nCuando se trata de reclutar talento, no hay bandos que valgan."
+    },
+    "HqsqDQ": {
+        "en-US": "What is in it for me?",
+        "pt-BR": "O que eu ganho com isso?",
+        "es-ES": "¿Qué gano yo con eso?"
+    },
+    "H6sqDQ": {
+        "en-US": "[Schulang]\nAdventurers are always in pursuit of strength.\nThe strength you seek, we can give you.",
+        "pt-BR": "[Schulang]\nAventureiros sempre buscam poder.\nNós podemos lhe dar a força que você deseja.",
+        "es-ES": "[Schulang]\nLos aventureros siempre buscan más poder.\nPodemos darte la fuerza que deseas."
+    },
+    "IKsqDQ": {
+        "en-US": "Why make such an offer to me?",
+        "pt-BR": "Por que está me fazendo essa proposta?",
+        "es-ES": "¿Por qué me haces esa oferta a mí?"
+    },
+    "IasqDQ": {
+        "en-US": "[Schulang]\nBecause you seem easier to reason with than that stiff fellow.",
+        "pt-BR": "[Schulang]\nPorque acho que você seria mais fácil de convencer do que aquele sujeito cabeça-dura.",
+        "es-ES": "[Schulang]\nPorque me da la impresión de que contigo se puede razonar mejor que con ese estirado."
+    },
+    "IqsqDQ": {
+        "en-US": "By that stiff fellow, do you mean Aas?",
+        "pt-BR": "Por sujeito cabeça-dura, você quer dizer As?",
+        "es-ES": "¿Con ese estirado te refieres a As?"
+    },
+    "I6sqDQ": {
+        "en-US": "[Schulang]\nThat was his name. A talent who could become even stronger if only he fixed that old-fashioned personality.\nA pity, but the opportunity has passed.",
+        "pt-BR": "[Schulang]\nEra esse o nome. Um talento que poderia se tornar ainda mais forte se largasse esse jeito antiquado.\nInfelizmente, a oportunidade já passou.",
+        "es-ES": "[Schulang]\nAsí se llamaba, ¿no? Un talento que podría hacerse aún más fuerte si corrigiera ese carácter tan anticuado.\nLástima, pero su oportunidad ya pasó."
+    },
+    "JKsqDQ": {
+        "en-US": "[Schulang]\nIt seems you will not be so easily swayed either.\nIt cannot be helped.",
+        "pt-BR": "[Schulang]\nPelo visto, você também não parece alguém que vá ceder tão facilmente.\nNão há jeito.",
+        "es-ES": "[Schulang]\nPor lo que veo, tú tampoco pareces de los que se dejan convencer fácilmente.\nNo hay más remedio."
+    },
+    "JasqDQ": {
+        "en-US": "^4D4DFFOnly the party leader may proceed with this event.^000000",
+        "pt-BR": "^4D4DFFSomente o líder do grupo pode prosseguir com este evento.^000000",
+        "es-ES": "^4D4DFFSolo el líder del grupo puede continuar este evento.^000000"
+    },
+    "JqsqDQ": {
+        "en-US": "Schulang: You can go no farther.",
+        "pt-BR": "Schulang: Não é possível avançar mais.",
+        "es-ES": "Schulang: No se puede avanzar más."
+    },
+    "J6sqDQ": {
+        "en-US": "Schulang: For the sake of the great cause, you must die here.",
+        "pt-BR": "Schulang: Pelo grande propósito, vocês terão de morrer aqui.",
+        "es-ES": "Schulang: Por la gran obra, tendré que hacer que muráis aquí."
+    },
+    "KKsqDQ": {
+        "en-US": "Defector Schulang",
+        "pt-BR": "Traidor Schulang",
+        "es-ES": "Schulang el traidor"
+    },
+    "KasqDQ": {
+        "en-US": "Priest Youth",
+        "pt-BR": "Sacerdote Yus",
+        "es-ES": "Sacerdote Jus"
+    },
+    "KqsqDQ": {
+        "en-US": "Yus: Do not lay a hand on me! Sacrilegious wretch!",
+        "pt-BR": "Yus: Não ponha as mãos em mim! Herege!",
+        "es-ES": "Yus: ¡No me toques! ¡Sacrílego!"
+    },
+    "K6sqDQ": {
+        "en-US": "[Yus]\n Do not lay a hand on me! Sacrilegious wretch!",
+        "pt-BR": "[Yus]\n Não ponha as mãos em mim! Herege!",
+        "es-ES": "[Yus]\n ¡No me toques! ¡Sacrílego!"
+    },
+    "LKsqDQ": {
+        "en-US": "[Yus]\nYou loathsome heathens have crawled all the way here at last.\nBut it matters not.\nYou shall soon kneel before the sublime divine.",
+        "pt-BR": "[Yus]\nAfinal, esse pagão repugnante chegou até aqui.\nMas não importa.\nEm breve vocês se ajoelharão diante da sublime santidade.",
+        "es-ES": "[Yus]\nAsí que esos repugnantes herejes han logrado llegar hasta aquí.\nPero no importa.\nPronto os arrodillaréis ante la suprema divinidad."
+    },
+    "LasqDQ": {
+        "en-US": "Yus: The loathsome heathens have crawled all the way here at last. But you shall soon kneel before the sublime divine.",
+        "pt-BR": "Yus: Afinal, esse pagão repugnante chegou até aqui. Mas em breve vocês se ajoelharão diante da sublime santidade.",
+        "es-ES": "Yus: Así que esos repugnantes herejes han logrado llegar hasta aquí. Pero pronto os arrodillaréis ante la suprema divinidad."
+    },
+    "LqsqDQ": {
+        "en-US": "[Yus]\nI shall show a miracle to Odin's arrogant brood.\nBagot, continue the ritual.",
+        "pt-BR": "[Yus]\nMostrarei um milagre aos lacaios arrogantes de Odin.\nBagot, continue o ritual.",
+        "es-ES": "[Yus]\nMostraré un milagro a esos arrogantes siervos de Odín.\nBagot, continúa con el ritual."
+    },
+    "L6sqDQ": {
+        "en-US": "Yus: I shall show a miracle to Odin's arrogant brood. Bagot, continue the ritual.",
+        "pt-BR": "Yus: Mostrarei um milagre aos lacaios arrogantes de Odin. Bagot, continue o ritual.",
+        "es-ES": "Yus: Mostraré un milagro a esos arrogantes siervos de Odín. Bagot, continúa con el ritual."
+    },
+    "MKsqDQ": {
+        "en-US": "[Yus]\nThey themselves shall witness Lady Freya's miracle and bear witness to it.\nProstrate yourselves at the feet of the god and be reborn as servants of the god!",
+        "pt-BR": "[Yus]\nEles testemunharão pessoalmente o milagre de Lady Freya e serão suas testemunhas.\nProstrem-se aos pés da deusa e renasçam como seus servos!",
+        "es-ES": "[Yus]\nEllos contemplarán con sus propios ojos el milagro de lady Freyja y serán sus testigos.\n¡Postraos a los pies de la deidad y renaced como siervos suyos!"
+    },
+    "MasqDQ": {
+        "en-US": "Yus: They themselves shall witness Lady Freya's miracle and bear witness to it. Prostrate yourselves at the feet of the god and be reborn as servants of the god!",
+        "pt-BR": "Yus: Eles testemunharão pessoalmente o milagre de Lady Freya e serão suas testemunhas. Prostrem-se aos pés da deusa e renasçam como seus servos!",
+        "es-ES": "Yus: Ellos contemplarán con sus propios ojos el milagro de lady Freyja y serán sus testigos. ¡Postraos a los pies de la deidad y renaced como siervos suyos!"
+    },
+    "MqsqDQ": {
+        "en-US": "[Bagot]\nOh, come on…. Old man. That way of talking, honestly.\nStill, a promise is a promise, so I am protecting you. Understood?",
+        "pt-BR": "[Bagot]\nAi…. velhote. Esse seu jeito de falar, viu.\nMas como fizemos um acordo, eu estou protegendo você. Entendeu?",
+        "es-ES": "[Bagot]\nUf... viejo. Vaya forma de hablar tienes.\nPero como hicimos un trato, soy yo quien te está protegiendo. ¿Entendido?"
+    },
+    "M6sqDQ": {
+        "en-US": "Bagot: Oh, come on…. Old man. That way of talking, honestly. Still, a promise is a promise, so I am protecting you. Understood?",
+        "pt-BR": "Bagot: Ai…. velhote. Esse seu jeito de falar, viu. Mas como fizemos um acordo, eu estou protegendo você. Entendeu?",
+        "es-ES": "Bagot: Uf... viejo. Vaya forma de hablar tienes. Pero como hicimos un trato, soy yo quien te está protegiendo. ¿Entendido?"
+    },
+    "NKsqDQ": {
+        "en-US": "[Bagot]\nFirst of all, hey there, Adventurer?\nWould you care to admire my work?\nCome share the feeling of taking a beautifully crafted ceramic out of the kiln.",
+        "pt-BR": "[Bagot]\nPrimeiro, ei, aventureiro?\nQue tal admirar a minha obra?\nSinta junto comigo a emoção de tirar uma cerâmica lindamente moldada do forno.",
+        "es-ES": "[Bagot]\nBueno, tú, aventurero.\n¿Quieres admirar mi obra?\nSiente conmigo la emoción de sacar una hermosa pieza de cerámica del horno."
+    },
+    "NasqDQ": {
+        "en-US": "Bagot: Hey there, Adventurer? Would you care to admire my work? Come share the feeling of taking a beautifully crafted ceramic out of the kiln.",
+        "pt-BR": "Bagot: Ei, aventureiro? Que tal admirar a minha obra? Sinta junto comigo a emoção de tirar uma cerâmica lindamente moldada do forno.",
+        "es-ES": "Bagot: Oye, aventurero. ¿Quieres admirar mi obra? Siente conmigo la emoción de sacar una hermosa pieza de cerámica del horno."
+    },
+    "NqsqDQ": {
+        "en-US": "Bagot: Bagot feels absolutely wonderful getting to check the experiment results right away~",
+        "pt-BR": "Bagot: Bagot fica de ótimo humor por poder conferir o resultado do experimento imediatamente~",
+        "es-ES": "Bagot: A Bagot le pone de muy buen humor poder comprobar los resultados del experimento al instante~"
+    },
+    "N6sqDQ": {
+        "en-US": "[Bagot]\nTa-da~ The essence of bioengineering and magic is right here!\nDescending in the form of a god~!",
+        "pt-BR": "[Bagot]\nTcharam~ A essência da bioengenharia e da magia está bem aqui!\nDesce à terra na forma de um deus~!",
+        "es-ES": "[Bagot]\n¡Tachán~! ¡La esencia misma de la bioingeniería y la magia está aquí!\n¡Desciende adoptando la forma de una deidad~!"
+    },
+    "OKsqDQ": {
+        "en-US": "Bagot: Ta-da~ The essence of bioengineering and magic is right here! Descending in the form of a god~!",
+        "pt-BR": "Bagot: Tcharam~ A essência da bioengenharia e da magia está bem aqui! Desce à terra na forma de um deus~!",
+        "es-ES": "Bagot: ¡Tachán~! ¡La esencia misma de la bioingeniería y la magia está aquí! ¡Desciende adoptando la forma de una deidad~!"
+    },
+    "OasqDQ": {
+        "en-US": "[Bagot]\nMaking a vessel for a god to descend into is nothing at all for Bagot~!",
+        "pt-BR": "[Bagot]\nPara este Bagot, criar um receptáculo para a descida de um deus não é nada demais~!",
+        "es-ES": "[Bagot]\n¡Para este Bagot, preparar un recipiente donde pueda descender una deidad no es nada del otro mundo~!"
+    },
+    "OqsqDQ": {
+        "en-US": "Bagot: Making a vessel for a god to descend into is nothing at all for Bagot~!",
+        "pt-BR": "Bagot: Para este Bagot, criar um receptáculo para a descida de um deus não é nada demais~!",
+        "es-ES": "Bagot: ¡Para este Bagot, preparar un recipiente donde pueda descender una deidad no es nada del otro mundo~!"
+    },
+    "O6sqDQ": {
+        "en-US": "[The Being Called a God]\n ….",
+        "pt-BR": "[Ser chamado de deus]\n ….",
+        "es-ES": "[Ser llamado dios]\n …."
+    },
+    "PKsqDQ": {
+        "en-US": "The Being Called a God:….",
+        "pt-BR": "Ser chamado de deus:….",
+        "es-ES": "Ser llamado dios:...."
+    },
+    "PasqDQ": {
+        "en-US": "[Yus]\nO.. .Ooh...! O Freya …! Are you truly my god?!",
+        "pt-BR": "[Yus]\nOh.. .oooh...! Ó Freya…! Sois verdadeiramente minha deusa!?",
+        "es-ES": "[Yus]\n¡O.. .ohh...! ¡Lady Freyja…! ¿Sois de verdad mi diosa?"
+    },
+    "PqsqDQ": {
+        "en-US": "Yus: O.. .Ooh...! O Freya …! Are you truly my god?!",
+        "pt-BR": "Yus: Oh.. .oooh...! Ó Freya…! Sois verdadeiramente minha deusa!?",
+        "es-ES": "Yus: ¡O.. .ohh...! ¡Lady Freyja…! ¿Sois de verdad mi diosa?"
+    },
+    "P6sqDQ": {
+        "en-US": "^4D4DFFWhat was called a god looked much like a grown form of the Pope.^000000\n^4D4DFFA vessel for Goddess Freya to descend into this world. Its essential purpose.^000000",
+        "pt-BR": "^4D4DFFAquilo que era chamado de deus parecia a forma amadurecida do Papa.^000000\n^4D4DFFUm receptáculo para a deusa Freya descer ao mundo presente. Seu uso essencial.^000000",
+        "es-ES": "^4D4DFFAquello que era llamado dios se parecía a una versión adulta de la Pontífice.^000000\n^4D4DFFUn recipiente para que la diosa Freyja descienda al mundo mortal. Ese era su uso esencial.^000000"
+    },
+    "QKsqDQ": {
+        "en-US": "The Pope, perhaps?!",
+        "pt-BR": "Não me diga que é o Papa?!",
+        "es-ES": "¡¿No me digas que a la Pontífice?!"
+    },
+    "QasqDQ": {
+        "en-US": "The Pope, perhaps?!",
+        "pt-BR": "Não me diga que é o Papa?!",
+        "es-ES": "¡¿No me digas que a la Pontífice?!"
+    },
+    "QqsqDQ": {
+        "en-US": "[Bagot]\nWhat a terrifying thing to say.\nNo matter how wicked Bagot may be, I am not bold enough to lay a hand on the Pope!",
+        "pt-BR": "[Bagot]\nQue história assustadora é essa?\nPor pior que Bagot seja, eu não teria coragem de pôr as mãos no Papa!",
+        "es-ES": "[Bagot]\n¿Cómo puedes decir algo tan horrible?\nPor muy mala persona que sea Bagot, no tengo agallas para ponerle la mano encima a la Pontífice."
+    },
+    "Q6sqDQ": {
+        "en-US": "Bagot: What a terrifying thing to say. No matter how wicked Bagot may be, I am not bold enough to lay a hand on the Pope!",
+        "pt-BR": "Bagot: Que história assustadora é essa? Por pior que Bagot seja, eu não teria coragem de pôr as mãos no Papa!",
+        "es-ES": "Bagot: ¿Cómo puedes decir algo tan horrible? Por muy mala persona que sea Bagot, no tengo agallas para ponerle la mano encima a la Pontífice."
+    },
+    "RKsqDQ": {
+        "en-US": "[Bagot]\nHow rude of you to say such a thing about my masterpiece?!\nAre you frightened by my skill, being able to create even a vessel for a god's descent?!",
+        "pt-BR": "[Bagot]\nQue falta de respeito com a minha obra-prima?!\nEstá com medo da minha habilidade de criar até mesmo um receptáculo para a descida de um deus?!",
+        "es-ES": "[Bagot]\n¡¿Cómo te atreves a decir algo tan ofensivo de mi obra maestra?!\n¿Te asusta mi habilidad, capaz incluso de crear un recipiente donde pueda descender una deidad?"
+    },
+    "RasqDQ": {
+        "en-US": "Bagot: How rude of you to say such a thing about my masterpiece?! Are you frightened by my skill, being able to create even a vessel for a god's descent?!",
+        "pt-BR": "Bagot: Que falta de respeito com a minha obra-prima?! Está com medo da minha habilidade de criar até mesmo um receptáculo para a descida de um deus?!",
+        "es-ES": "Bagot: ¡¿Cómo te atreves a decir algo tan ofensivo de mi obra maestra?! ¿Te asusta mi habilidad, capaz incluso de crear un recipiente donde pueda descender una deidad?"
+    },
+    "RqsqDQ": {
+        "en-US": "[Bagot]\nYou are not listening to me. Then what else could it be? Ah~! Right, a miracle. I just need to show you a miracle, yes~?",
+        "pt-BR": "[Bagot]\nVocê não escuta o que eu digo. Então o que mais poderia ser? Ah~! Isso mesmo, um milagre. Basta mostrar um milagre, certo~?",
+        "es-ES": "[Bagot]\nNo escuchas lo que te digo. Entonces, ¿qué más da? ¡Ah~! Claro, un milagro. ¿Bastará con mostrarte un milagro~?"
+    },
+    "R6sqDQ": {
+        "en-US": "Bagot: You are not listening to me again. Then what else could it be? Ah~! Right, a miracle. I just need to show you a miracle, yes~?",
+        "pt-BR": "Bagot: Você não escuta o que eu digo de novo. Então o que mais poderia ser? Ah~! Isso mesmo, um milagre. Basta mostrar um milagre, certo~?",
+        "es-ES": "Bagot: Otra vez no escuchas lo que te digo. Entonces, ¿qué más da? ¡Ah~! Claro, un milagro. ¿Bastará con mostrarte un milagro~?"
+    },
+    "SKsqDQ": {
+        "en-US": "[The Being Called a God]\n….\nSo",
+        "pt-BR": "[Ser chamado de deus]\n….\nQue",
+        "es-ES": "[Ser llamado dios]\n….\nQue"
+    },
+    "SasqDQ": {
+        "en-US": "The Being Called a God:…huh…",
+        "pt-BR": "Ser chamado de deus:…uh…",
+        "es-ES": "Ser llamado dios:…ah…"
+    },
+    "SqsqDQ": {
+        "en-US": "Be",
+        "pt-BR": "assim",
+        "es-ES": "así"
+    },
+    "S6sqDQ": {
+        "en-US": "The Being Called a God:…one…",
+        "pt-BR": "Ser chamado de deus:…han…",
+        "es-ES": "Ser llamado dios:…u…"
+    },
+    "TKsqDQ": {
+        "en-US": "it",
+        "pt-BR": "seja",
+        "es-ES": "sea"
+    },
+    "TasqDQ": {
+        "en-US": "The Being Called a God:…da…",
+        "pt-BR": "Ser chamado de deus:…da…",
+        "es-ES": "Ser llamado dios:…na…"
+    },
+    "TqsqDQ": {
+        "en-US": "Bagot: What? Did it come back to life? Priest, did you see that? What did Bagot tell you? I said it would work.",
+        "pt-BR": "Bagot: O quê? Essa coisa voltou à vida? Sacerdote, viu só? O que foi que Bagot disse? Eu falei que dava.",
+        "es-ES": "Bagot: ¿Qué? ¿Es que la has revivido? ¿Lo ha visto, sacerdote? ¿Qué le dije? Le dije que funcionaría."
+    },
+    "T6sqDQ": {
+        "en-US": "[Bagot]\nThere is your proof. A miracle~☆\nPriest, old man. As promised, I called your god, so I will be taking the ^4D4DFFheart^000000.",
+        "pt-BR": "[Bagot]\nAqui está a prova. Um milagre~☆\nVelhote Sacerdote. Como prometido, já invoquei o seu deus, então vou levar o ^4D4DFFcoração^000000.",
+        "es-ES": "[Bagot]\nAquí tienes la prueba. ¡Milagro~☆\nViejo Sacerdote. Como prometí, he invocado a tu dios, así que me llevaré el ^4D4DFFcorazón^000000."
+    },
+    "UKsqDQ": {
+        "en-US": "Bagot: There is your proof. A miracle~☆ Priest, old man. As promised, I called your god, so I will be taking the heart.",
+        "pt-BR": "Bagot: Aqui está a prova. Um milagre~☆ Velhote Sacerdote. Como prometido, já invoquei o seu deus, então vou levar o coração.",
+        "es-ES": "Bagot: Aquí tienes la prueba. ¡Milagro~☆ Viejo Sacerdote. Como prometí, he invocado a tu dios, así que me llevaré el corazón."
+    },
+    "UasqDQ": {
+        "en-US": "[Bagot]\nMay you enjoy a long and healthy life~",
+        "pt-BR": "[Bagot]\nEspero que viva longos anos~",
+        "es-ES": "[Bagot]\nEspero que disfrutes de una larga vida~"
+    },
+    "UqsqDQ": {
+        "en-US": "Bagot: May you enjoy a long and healthy life~",
+        "pt-BR": "Bagot: Espero que viva longos anos~",
+        "es-ES": "Bagot: Espero que disfrutes de una larga vida~"
+    },
+    "U6sqDQ": {
+        "en-US": "[Yus]\nThis humble servant has witnessed the miracle of the god!",
+        "pt-BR": "[Yus]\nEste humilde servo testemunhou o milagre divino!",
+        "es-ES": "[Yus]\n¡Este humilde siervo ha contemplado el milagro de la deidad!"
+    },
+    "VKsqDQ": {
+        "en-US": "Yus: This humble servant has witnessed the miracle of the god!",
+        "pt-BR": "Yus: Este humilde servo testemunhou o milagre divino!",
+        "es-ES": "Yus: ¡Este humilde siervo ha contemplado el milagro de la deidad!"
+    },
+    "VasqDQ": {
+        "en-US": "[Bagot]\nYou really do not listen to people, do you?\nSchulang is a bit of a waste, but I suppose that is as far as his role goes.",
+        "pt-BR": "[Bagot]\nEntão você não ouve o que os outros dizem?\nÉ uma pena quanto a Schulang, mas o papel dele termina aqui.",
+        "es-ES": "[Bagot]\n¿No escuchas cuando te hablan?\nSchulang da un poco de pena, pero su papel termina aquí."
+    },
+    "VqsqDQ": {
+        "en-US": "Bagot: You really do not listen to people, do you? Schulang is a bit of a waste, but I suppose that is as far as his role goes.",
+        "pt-BR": "Bagot: Então você não ouve o que os outros dizem? É uma pena quanto a Schulang, mas o papel dele termina aqui.",
+        "es-ES": "Bagot: ¿No escuchas cuando te hablan? Schulang da un poco de pena, pero su papel termina aquí."
+    },
+    "V6sqDQ": {
+        "en-US": "[Bagot]\nI let you live on ^4D4DFFstrong stuff^000000 all this time, so I have kept my promise.\nI am off now~. Well then, Adventurer? Bye~!",
+        "pt-BR": "[Bagot]\nComo eu deixei você viver esse tempo todo com um ^4D4DFFsabor forte^000000, cumpri a promessa.\nEu vou indo~. Então, aventureiro? Tchau~!",
+        "es-ES": "[Bagot]\nTe he dejado vivir todo este tiempo saboreando ^4D4DFFlo fuerte^000000, así que ya he cumplido mi promesa.\nYo me largo~. Bueno, aventurero. ¡Adiós~!"
+    },
+    "WKsqDQ": {
+        "en-US": "Bagot: I let you live on 'strong stuff' all this time, so I have kept my promise. Well then, Adventurer? Bye~!",
+        "pt-BR": "Bagot: Como eu deixei você viver esse tempo todo com um 'sabor forte', cumpri a promessa. Então, aventureiro? Tchau~!",
+        "es-ES": "Bagot: Te he dejado vivir todo este tiempo saboreando 'lo fuerte', así que ya he cumplido mi promesa. Bueno, aventurero. ¡Adiós~!"
+    },
+    "WasqDQ": {
+        "en-US": "Yus: Ooh... O Freya! Please bring divine punishment upon that wicked creature!",
+        "pt-BR": "Yus: Oooh... Ó Freya! Lançai punição divina sobre aquele perverso!",
+        "es-ES": "Yus: ¡Ohh... lady Freyja! ¡Castigad a ese malvado con la ira divina!"
+    },
+    "WqsqDQ": {
+        "en-US": "The Being Called a God: Kkigik kikikik kkigik",
+        "pt-BR": "Ser chamado de deus: Kkigik kikik kikigik",
+        "es-ES": "Ser llamado dios: Kkigik kikikik kkigik"
+    },
+    "W6sqDQ": {
+        "en-US": "Yus: …? My god. This humble servant is prepared to hear your holy words….",
+        "pt-BR": "Yus: …? Meu deus. Este humilde servo está pronto para ouvir vossas palavras sagradas….",
+        "es-ES": "Yus: ¿...? Mi deidad. Este humilde siervo está preparado para escuchar vuestra sagrada palabra..."
+    },
+    "XKsqDQ": {
+        "en-US": "The Being Called a God: Kkigigigi aaaahhh!!!!",
+        "pt-BR": "Ser chamado de deus: Kikigigigi aaaaaah!!!!",
+        "es-ES": "Ser llamado dios: Kkigigigi aaaaaaah!!!!"
+    },
+    "XasqDQ": {
+        "en-US": "Yus: … I can no longer feel any divinity …? Why …?",
+        "pt-BR": "Yus: … Não sinto a divindade …? Como pode …?",
+        "es-ES": "Yus: ...¿No siento ninguna divinidad...? ¿Por qué...?"
+    },
+    "XqsqDQ": {
+        "en-US": "Yus: Why would the god attack me?",
+        "pt-BR": "Yus: Como pode meu deus me atacar?",
+        "es-ES": "Yus: ¿Cómo puede la deidad atacarme?"
+    },
+    "X6sqDQ": {
+        "en-US": "Miriam: This is no time for this. You must get away! That is not a god!",
+        "pt-BR": "Miriam: Agora não é hora para isso. Você precisa se esquivar! Aquilo não é um deus!",
+        "es-ES": "Miriam: ¡Ahora no es momento para esto! ¡Tiene que apartarse! ¡Eso no es una deidad!"
+    },
+    "YKsqDQ": {
+        "en-US": "The Being Called a God: Kikikik kikikik ….",
+        "pt-BR": "Ser chamado de deus: Kikikik kikikik ….",
+        "es-ES": "Ser llamado dios: Kikikik kikikik ...."
+    },
+    "YasqDQ": {
+        "en-US": "Yus: Impossible! Miriam, stand aside!",
+        "pt-BR": "Yus: Isso não pode ser! Miriam, saia da frente!",
+        "es-ES": "Yus: ¡Eso es imposible! ¡Miriam, apártate!"
+    },
+    "YqsqDQ": {
+        "en-US": "Miriam: You almost died just now. Look properly. In what way is that a god?",
+        "pt-BR": "Miriam: O senhor quase morreu agora há pouco. Veja direito. Em que parte daquela coisa há algo divino?",
+        "es-ES": "Miriam: Ha estado a punto de morir. Mire bien. ¿En qué parte de eso ve usted a una deidad?"
+    },
+    "Y6sqDQ": {
+        "en-US": "Miriam: It seems you need to calm down. Father.",
+        "pt-BR": "Miriam: Acho que o senhor precisa se acalmar, pai.",
+        "es-ES": "Miriam: Parece que necesita calmarse, padre."
+    },
+    "ZKsqDQ": {
+        "en-US": "Yus: This cannot be! Let go of me, Miriam!",
+        "pt-BR": "Yus: Isso não pode estar acontecendo! Solte-me, Miriam!",
+        "es-ES": "Yus: ¡Esto no puede ser! ¡Suéltame, Miriam!"
+    },
+    "ZasqDQ": {
+        "en-US": "The Being Called a God: Kkigik...? Kkigigi kyahahahahahahahaha!!!",
+        "pt-BR": "Ser chamado de deus: Kigik...? Kikigigi kyahahahahahaha!!!",
+        "es-ES": "Ser llamado dios: Kkigik...? Kkigigi kyahahahahahaha!!!"
+    },
+    "ZqsqDQ": {
+        "en-US": "Miriam: What are you doing!!!!",
+        "pt-BR": "Miriam: O que está fazendo!!!!",
+        "es-ES": "Miriam: ¡¡¡¿Qué estás haciendo?!!!"
+    },
+    "Z6sqDQ": {
+        "en-US": "The Being Called a God: Kyarrrk!!!",
+        "pt-BR": "Ser chamado de deus: Kyaruruk!!!",
+        "es-ES": "Ser llamado dios: ¡Kyá jajaja!!!"
+    },
+    "aKsqDQ": {
+        "en-US": "The chapel has been sealed off.",
+        "pt-BR": "A capela foi selada.",
+        "es-ES": "La capilla ha quedado sellada."
+    },
+    "aasqDQ": {
+        "en-US": "Yus: … This …. This cannot be ….",
+        "pt-BR": "Yus: … Isso …. isso não pode ser ….",
+        "es-ES": "Yus: ...Esto... Esto no puede ser...."
+    },
+    "aqsqDQ": {
+        "en-US": "Miriam: Father!",
+        "pt-BR": "Miriam: Pai!",
+        "es-ES": "Miriam: ¡Padre!"
+    },
+    "a6sqDQ": {
+        "en-US": "[Miriam]\nWhat did that creature do? We were suddenly flung outside.\nAre you unharmed?",
+        "pt-BR": "[Miriam]\nO que foi que ele fez? De repente fomos arremessados para fora.\nVocê está bem?",
+        "es-ES": "[Miriam]\n¿Qué ha hecho ese sujeto? De pronto ha salido despedido hacia fuera.\n¿Está bien?"
+    },
+    "bKsqDQ": {
+        "en-US": "[Yus]\nWhat have you done to the god!!!!!!!!!!\nThat cannot be!\nWhat do you think I have done all this time, waiting for this day …!",
+        "pt-BR": "[Yus]\nO que fez com o deus!!!!!!!!!!\nIsso não pode acontecer!\nSabe o que eu fiz esperando por este dia…!",
+        "es-ES": "[Yus]\n¡¡¡¡¡¡¿Qué le has hecho a la deidad?!!!!!!!!!!\n¡Eso no puede ser!\n¡Sabes todo lo que he hecho esperando este día…!"
+    },
+    "basqDQ": {
+        "en-US": "[Miriam]\nDo you still believe that is a god?\nSurely you do not mean that thing?",
+        "pt-BR": "[Miriam]\nAinda acredita que aquilo era um deus?\nNão me diga que está falando daquilo?",
+        "es-ES": "[Miriam]\n¿Aún cree que eso era una deidad?\n¿No me estará hablando de eso?"
+    },
+    "bqsqDQ": {
+        "en-US": "Embryo dropped.",
+        "pt-BR": "Embrião caiu.",
+        "es-ES": "Se cayó Embrión."
+    },
+    "b6sqDQ": {
+        "en-US": "[Miriam]\nIndeed….\nIt looked similar to the grown form of the Pope, but ….\nSeeing that Embryo dropped, it must be something made by the one called Bagot.",
+        "pt-BR": "[Miriam]\nComo eu pensava….\nParecia a forma amadurecida de Sua Santidade o Papa, mas….\nSe Embrião caiu, então deve ser algo criado por aquele chamado Bagot.",
+        "es-ES": "[Miriam]\nYa veo….\nSe parecía a una versión adulta de Su Santidad la Pontífice, pero….\nsi ha caído Embrión, entonces debe de ser algo creado por ese tal Bagot."
+    },
+    "cKsqDQ": {
+        "en-US": "We will handle the analysis here.",
+        "pt-BR": "Nós cuidaremos da análise aqui.",
+        "es-ES": "Yo me encargaré del análisis aquí."
+    },
+    "casqDQ": {
+        "en-US": "[Yus]\nMiriam! Capture that one!\nThat one deserves divine punishment!\nThat one has blasphemed the divine!",
+        "pt-BR": "[Yus]\nMiriam! Capture essa pessoa!\nÉ alguém que deve receber punição divina!\nÉ alguém que blasfemou contra o sagrado!",
+        "es-ES": "[Yus]\n¡Miriam! ¡Captura a ese sujeto!\n¡Debe recibir el castigo divino!\n¡Ha profanado la santidad!"
+    },
+    "cqsqDQ": {
+        "en-US": "[Miriam]\nOf course not.\nThe Adventurer is here to help us.",
+        "pt-BR": "[Miriam]\nDe jeito nenhum.\nO Aventureiro está aqui para nos ajudar.",
+        "es-ES": "[Miriam]\nClaro que no.\nEl aventurero está aquí para ayudarnos."
+    },
+    "c6sqDQ": {
+        "en-US": "[Miriam]\nThey did the same at the temple as well.\nIt seems they have finally blinded Father too.",
+        "pt-BR": "[Miriam]\nNo templo foi a mesma coisa.\nParece que eles finalmente cegaram até mesmo os olhos de meu pai.",
+        "es-ES": "[Miriam]\nYa pasó lo mismo en el templo.\nParece que al final ellos también han logrado cegar a mi padre."
+    },
+    "dKsqDQ": {
+        "en-US": "[Yus]\nAre you saying now that I have fallen for their deception!",
+        "pt-BR": "[Yus]\nEstá dizendo agora que eu caí no engano deles!?",
+        "es-ES": "[Yus]\n¡¿Insinúas ahora que he caído en sus engaños?!"
+    },
+    "dasqDQ": {
+        "en-US": "[Miriam]\nLet us leave this place first.\nWe can discuss the details after examining that Embryo.",
+        "pt-BR": "[Miriam]\nVamos sair daqui primeiro.\nPodemos falar dos detalhes depois que investigarmos esse Embrião.",
+        "es-ES": "[Miriam]\nSalgamos primero de aquí.\nPodremos hablar de los detalles después de investigar ese Embrión."
+    },
+    "dqsqDQ": {
+        "en-US": "[Miriam]\nAdventurer, once the investigation is finished and the identity of the holy body is revealed, please let me know.\nI will look after Father.",
+        "pt-BR": "[Miriam]\nAventureiro, quando a investigação terminar e a verdadeira natureza da entidade sagrada for revelada, por favor, me avise.\nEu cuidarei de meu pai.",
+        "es-ES": "[Miriam]\nAventurero, cuando termine la investigación y se aclare la verdadera identidad del cuerpo sagrado, hágamelo saber.\nYo me ocuparé de mi padre."
+    },
+    "d6sqDQ": {
+        "en-US": "[Miriam]\nI will attend to Father, so let us leave this place.",
+        "pt-BR": "[Miriam]\nEu cuidarei de meu pai, então vamos sair daqui.",
+        "es-ES": "[Miriam]\nYo me encargaré de mi padre, así que salgamos de aquí."
+    },
+    "eKsqDQ": {
+        "en-US": "Illusion Bagot",
+        "pt-BR": "Ilusión Bagot",
+        "es-ES": "Illusion Bagot"
+    },
+    "easqDQ": {
+        "en-US": "Interesting.",
+        "pt-BR": "Interessante.",
+        "es-ES": "Qué divertido."
+    },
+    "eqsqDQ": {
+        "en-US": "Statue of the Goddess",
+        "pt-BR": "Imagem da Deusa",
+        "es-ES": "Figura de la diosa"
+    },
+    "e6sqDQ": {
+        "en-US": "False God",
+        "pt-BR": "Deus falso",
+        "es-ES": "Falso dios"
+    },
+    "fKsqDQ": {
+        "en-US": "Yus cries out: O God--!!!",
+        "pt-BR": "Grito de Yus: Meu deus--!!!",
+        "es-ES": "El grito de Yus: ¡¡¡Oh, deidad--!!!"
+    },
+    "fasqDQ": {
+        "en-US": "Revived Schulang",
+        "pt-BR": "Schulang revivido",
+        "es-ES": "Schulang revivido"
+    },
+    "fqsqDQ": {
+        "en-US": "[Miriam]\nAdventurer, would you come over here for a moment?",
+        "pt-BR": "[Miriam]\nAventureiro, poderia vir aqui por um instante?",
+        "es-ES": "[Miriam]\nAventurero, ¿podría venir un momento por aquí?"
+    }
+}

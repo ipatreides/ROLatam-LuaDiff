@@ -1,1608 +1,1340 @@
 {
     "4B2+Bw": {
-        "ko-KR": "리벨리온 대원",
         "en-US": "Rebellion Member",
         "pt-BR": "Membro da Rebelião",
         "es-ES": "Miembro de la Rebelión"
     },
     "4R2+Bw": {
-        "ko-KR": "[리벨리온 대원]\n아앗 잠시만요!\n최근 작전지가 넓어져서요.\n대응책이라고 해야 할까, 아인브로크쪽에도 거점을 마련했습니다.",
         "en-US": "[Rebellion Member]\nAh, wait!\nOur field of operations recently has been expanded.\nIn response to that, we've established another base in Einbroch.",
         "pt-BR": "[Membro da Rebelião]\nAh, espere um pouco.\nNossa área de operações se expandiu.\nEntão, estabelecemos uma base nova em Einbroch.",
         "es-ES": "[Miembro de la Rebelión]\nAh, espera un momento.\nNuestra área de operaciones se ha expandido.\nAsí que establecimos una nueva base en Einbroch."
     },
     "4h2+Bw": {
-        "ko-KR": "[리벨리온 대원]\n그래서 위치를 알려드리려고요.\n아인브로크 기차역 너머에 있는 <NAVI>[총알 탄 야옹이]<INFO>einbroch,302,329,0,101,0</INFO></NAVI>라고..\n작은 술집이 있는데, 다음 작전은 거기서 진행한답니다.",
         "en-US": "[Rebellion Member]\nI'd like to tell you where it is.\nIt's the <NAVI>[Cat on a Bullet]<INFO>einbroch,302,329,0,101,0</INFO></NAVI> beyond the Einbroch Train Station,\na small pub. Our next operation will take place in there.",
         "pt-BR": "[Membro da Rebelião]\nEla fica ao norte de Einbroch.\nSe chama <NAVI>[Miado de Bala]<INFO>einbroch,302,329,0,101,0</INFO></NAVI>...\nEstá disfarçado de Boteco.",
         "es-ES": "[Miembro de la Rebelión]\nEstá al norte de Einbroch.\nSe llama <NAVI>[Maullido de Bala]<INFO>einbroch,302,329,0,101,0</INFO></NAVI>...\nEstá disfrazado de taberna."
     },
     "4x2+Bw": {
-        "ko-KR": "[리벨리온 대원]\n그럼 전해드렸습니다!",
         "en-US": "[Rebellion Member]\nOkay, that's all.",
         "pt-BR": "[Membro da Rebelião]\nIsso é tudo!",
         "es-ES": "[Miembro de la Rebelión]\n¡Eso es todo!"
     },
     "5B2+Bw": {
-        "ko-KR": "[리벨리온 대원]\n아인브로크의 기차역 너머에 있는 술집입니다.\n<NAVI>[총알 탄 야옹이]<INFO>einbroch,302,329,0,101,0</INFO></NAVI>. 술집 이름치고는 귀엽죠?",
         "en-US": "[Rebellion Member]\nIt's a pub beyond the Einbroch Train Station\ncalled the <NAVI>[Cat on a Bullet]<INFO>einbroch,302,329,0,101,0</INFO></NAVI>. Sounds pretty cute for a watering hole, doesn't it?",
         "pt-BR": "[Membro da Rebelião]\nEm Einbroch, mais ao norte fica o\n<NAVI>[Miado de Bala]<INFO>einbroch,302,329,0,101,0</INFO></NAVI>. Belo nome de bar, não é?",
         "es-ES": "[Miembro de la Rebelión]\nEn Einbroch, más al norte está\n<NAVI>[Maullido de Bala]<INFO>einbroch,302,329,0,101,0</INFO></NAVI>. Bonito nombre de bar, ¿no?"
     },
     "5R2+Bw": {
-        "ko-KR": "필로폰테스",
         "en-US": "Philopontess",
         "pt-BR": "Philopontess",
         "es-ES": "Philopontesss"
     },
     "5h2+Bw": {
-        "ko-KR": "[테스]\n이런 장소가 있다는걸 이제껏 몰랐습니다.\n생각보다 굉장하군요.",
         "en-US": "[Tess]\nI didn't know there was a place like this.\nIt's incredible.",
         "pt-BR": "[Tess]\nEu nunca soube que existia um lugar assim.\nÉ mais incrível do que eu pensava.",
         "es-ES": "[Tess]\nNunca supe que existía un lugar así.\nEs más increíble de lo que imaginaba."
     },
     "5x2+Bw": {
-        "ko-KR": "[테스]\n강한 모험가는 소중한 존재입니다.\n그냥 하는 소리가 아니라 정말로요.",
         "en-US": "[Tess]\nWe appreciate strong adventurers.\nI mean it.",
         "pt-BR": "[Tess]\nPrecisamos de viajantes mais fortes.\nNão é o seu caso.",
         "es-ES": "[Tess]\nNecesitamos trotamundos más fuertes.\nNo es tu caso."
     },
     "6B2+Bw": {
-        "ko-KR": "^4D4DFF레벨 110 이상 수행 가능한 퀘스트 입니다. (에피소드 16.2 완료)^000000",
         "en-US": "^4D4DFFThis quest requires at least Level 110. (Complete Episode 16.2.)^000000",
         "pt-BR": "^4D4DFFEsta missão só pode ser realizada no nível 110 ou superior. (E com o Episódio 16.2 concluído)^000000",
         "es-ES": "^4D4DFFEsta misión solo puede realizarse a partir del nivel 110. (Y con el Episodio 16.2 completado)^000000"
     },
     "6R2+Bw": {
-        "ko-KR": "소지하고 계시는 아이템의 갯수가 많아 퀘스트를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
         "en-US": "You're carrying too many items to proceed with the quest.\nPlease make some room in your inventory, and then try again.",
         "pt-BR": "Você não pode prosseguir com a missão porque há muitos itens em sua posse.\nPor favor, limpe os itens e tente novamente.",
         "es-ES": "No puedes continuar la misión porque llevas demasiados objetos.\nPor favor, organiza tu inventario y vuelve a intentarlo."
     },
     "6h2+Bw": {
-        "ko-KR": "테스: 이쪽입니다.",
         "en-US": "Tess: This way.",
         "pt-BR": "Tess: Por aqui.",
         "es-ES": "Tess: Por aquí."
     },
     "6x2+Bw": {
-        "ko-KR": "[테스]\n기다리고 있었습니다.\n장소가 조금 번잡스럽습니다만 리벨리온들은 오히려 이런 곳이 좋다는군요.",
         "en-US": "[Tess]\nI've been waiting.\nThis place is a little bit too crowded for my liking, but the members of the Rebellion seem to be rather fond of it.",
         "pt-BR": "[Tess]\nEu estava esperando.\nO lugar está um pouco cheio, mas os membros da Rebelião parecem gostar desse lugar.",
         "es-ES": "[Tess]\nTe estaba esperando.\nEl lugar está un poco lleno, pero parece que a los miembros de la Rebelión les gusta."
     },
     "7B2+Bw": {
-        "ko-KR": "[테스]\n외부 활동 중에 거점으로 쓰는 곳 중 하나라니 믿어야겠지요.",
         "en-US": "[Tess]\nThey're using it as their home-away base.",
         "pt-BR": "[Tess]\nAcredito que é um local que eles usam como descanso também.",
         "es-ES": "[Tess]\nCreo que también lo usan como lugar de descanso."
     },
     "7R2+Bw": {
-        "ko-KR": "[테스]\n그 동안 지난번 작전에서 얻은 정보를 분석했습니다.\n그리고 그 결과, 또 다른 유사 시설이 존재한다는 결론을 내렸습니다.",
         "en-US": "[Tess]\nWhile waiting for you, I've analyzed the information we obtained during the last operation,\nand come to a conclusion that there are more similar establishments.",
         "pt-BR": "[Tess]\nEnquanto isso, analisamos as informações que recebemos da última operação.\nE, como resultado, concluímos que existe outra instalação clandestina.",
         "es-ES": "[Tess]\nMientras tanto, analizamos la información obtenida en la última operación.\nY como resultado, concluimos que existe otra instalación clandestina."
     },
     "7h2+Bw": {
-        "ko-KR": "[테스]\n초기에 저희가 예상했던 그대로지요.\n이번엔 추측이 아니라 명확하게 사실이 드러났을 뿐이고요.",
         "en-US": "[Tess]\nThis is just as we expected in the beginning.\nI've only confirmed our suspicion.",
         "pt-BR": "[Tess]\nÉ o que esperávamos desde o início.\nDesta vez, não é especulação, são apenas os fatos.",
         "es-ES": "[Tess]\nEs lo que esperábamos desde el principio.\nEsta vez no son suposiciones, solo hechos."
     },
     "7x2+Bw": {
-        "ko-KR": "[테스]\n현재 의심가는 지역의 조사를 위해 볼코바씨가 선발대를 편성 중입니다.\n모험가님도 함께 해주신다면 큰 도움이 될 것 같습니다만 ….",
         "en-US": "[Tess]\nCaptain Volkova is organizing an advance party to investigate one of those suspicious places.\nWe'll really appreciate it if you can join the party.",
         "pt-BR": "[Tess]\nA senhorita Bolkova está organizando uma tropa para investigar a área suspeita.\nSeria ótimo se você se juntasse a nós, mas...",
         "es-ES": "[Tess]\nLa señorita Bolkova está organizando una tropa para investigar el área sospechosa.\nSería genial que te unieras a nosotros, pero..."
     },
     "8B2+Bw": {
-        "ko-KR": "[엘레나 볼코바]\n어이~ 테스!\n선발대는 다 구성했고, 네가 말한 지역으로 사전 조사를 보내놨다.",
         "en-US": "[Elena Volkova]\nHey, Tess.\nI've organized and sent an advance party to the area you said for a preliminary inspection.",
         "pt-BR": "[Elena Bolkova]\nEi, Tess!\nFormei a tropa e uma investigação preliminar foi enviada para a área que você mencionou.",
         "es-ES": "[Elena Bolkova]\n¡Eh, Tess!\nFormé la tropa y ya enviamos una investigación preliminar al área que mencionaste."
     },
     "8R2+Bw": {
-        "ko-KR": "거기가 어디죠?",
         "en-US": "Where is it?",
         "pt-BR": "Onde é essa área?",
         "es-ES": "¿Dónde queda esa área?"
     },
     "8h2+Bw": {
-        "ko-KR": "[엘레나 볼코바]\n모험가도 왔군? 테스 네가 불렀나?\n하긴 너같이 강하고 근성있는 녀석이라면 큰 도움이 되겠지.",
         "en-US": "[Elena Volkova]\nAdventurer, you came. Tess, did you call them?\nSure, we always welcome strong and tenacious people like you.",
         "pt-BR": "[Elena Bolkova]\nVocê também está aqui? Tess, você quem chamou?\nBem, seria uma grande ajuda se você for conosco.",
         "es-ES": "[Elena Bolkova]\n¿Tú también estás aquí? Tess, ¿fuiste tú quien lo llamó?\nBueno, sería de gran ayuda que vinieras con nosotros."
     },
     "8x2+Bw": {
-        "ko-KR": "[엘레나 볼코바]\n그런데 정말 거기가 확실해?\n루키가 그러던데. 거기 그냥 광산을 폐쇄하면서 같이 버려진 제련공장이라고 ….",
         "en-US": "[Elena Volkova]\nBy the way, are you sure about that area?\nRookie thinks it's just a refinery that was closed down along with the mine there.",
         "pt-BR": "[Elena Bolkova]\nTess, você realmente tem certeza que aquela é a área?\nLukie disse que lá é apenas uma mineradora fechada...",
         "es-ES": "[Elena Bolkova]\nTess, ¿estás realmente seguro de que es esa zona?\nLukie dijo que ahí solo hay una mina cerrada..."
     },
     "9B2+Bw": {
-        "ko-KR": "[테스]\n저도 그렇게 알고 있습니다만, 일전에 베르너 연구소에서 수집한 자료 일부 중\n^4D4DFF폐기물 일부를 루두스에 버렸다.^000000는 항목이 있었습니다.",
         "en-US": "[Tess]\nThat's what I thought too, but according to some research data we collected from Werner's lab,\n^4D4DFFsome waste was disposed in Rudus^000000.",
         "pt-BR": "[Tess]\nDe acordo com os dados coletados no Laboratório Werner,\nalguns resíduos foram ^4D4DFFdescartados em Rudus.^000000.",
         "es-ES": "[Tess]\nSegún los datos recolectados en el Laboratorio Werner,\nalgunos residuos fueron ^4D4DFFdesechados en Rudus.^000000"
     },
     "9R2+Bw": {
-        "ko-KR": "[테스]\n이동 경로나 위치를 유추했을 때, 그 폐광산 겸 공장이었기에 여러분께 조사를 부탁드린겁니다.",
         "en-US": "[Tess]\nAnd that closed mine plus refinery is the most likely disposal site we've found. That's why we'd like you to look into it.",
         "pt-BR": "[Tess]\nE tudo apontava para aquela mineradora abandonada, então pedi que você investigasse.",
         "es-ES": "[Tess]\nY todo apuntaba a esa mina abandonada, así que te pedí que investigaras."
     },
     "9h2+Bw": {
-        "ko-KR": "[엘레나 볼코바]\n어찌됐든 구린 구석이 있는 지역이다 이거로군?\n그럼 나도 현장으로 가 볼게.\n모험가는 따로 오려면 따라오고.",
         "en-US": "[Elena Volkova]\nYou mean, it's suspicious, no matter how you look at it.\nThen, I'll go there, too.\nAdventurer, you can follow us if you want.",
         "pt-BR": "[Elena Bolkova]\nEntão, lá tem mais chances de ser o local. É isso?\nEu vou investigar ali, então.\nViajante, se você quiser ir, pode nos seguir.",
         "es-ES": "[Elena Bolkova]\nEntonces, es muy probable que sea allí. ¿Eso dices?\nIré a investigar entonces.\nTrotamundos, si quieres ir, puedes seguirnos."
     },
     "9x2+Bw": {
-        "ko-KR": "[테스]\n그럼 부탁 드립니다. 위치는 따로 알려드리겠습니다.",
         "en-US": "[Tess]\nThank you. I'll give you the location info.",
         "pt-BR": "[Tess]\nCerto. Vou lhe dizer a localização.",
         "es-ES": "[Tess]\nBien. Te diré la ubicación."
     },
     "+B2+Bw": {
-        "ko-KR": "[엘레나 볼코바]\n맡겨만 두라고.",
         "en-US": "[Elena Volkova]\nCount on me.",
         "pt-BR": "[Elena Bolkova]\nDeixa comigo!",
         "es-ES": "[Elena Bolkova]\n¡Déjamelo a mí!"
     },
     "+R2+Bw": {
-        "ko-KR": "[테스]\n이렇게 됐으니 당신도 합류 하셔서 상황을 보시는건 어떻습니까?\n위치는 아인브로크 북-동 필드. 작전지의 코드명은 루두스라고 합니다.",
         "en-US": "[Tess]\nNow that you're here, how'd you like to join our operation and observe the situation?\nIt takes place in the northeast Einbroch field. Its code name: Rudus.",
         "pt-BR": "[Tess]\nDeseja participar da operação e ver a situação?\nFica no campo nordeste de Einbroch. O lugar se chama Rudus.",
         "es-ES": "[Tess]\n¿Deseas participar en la operación y ver la situación?\nEstá en el campo noreste de Einbroch. El lugar se llama Rudus."
     },
     "+h2+Bw": {
-        "ko-KR": "[테스]\n앞으로도 이 지역은 <NAVI>[루두스]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>라고 부르겠습니다.\n가서 합류한다면 큰 도움이 되겠죠.",
         "en-US": "[Tess]\nWe'll continue to call this place <NAVI>[Rudus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>.\nWe'll really appreciate if you join the operation.",
         "pt-BR": "[Tess]\nDe agora em diante, toda aquela área nós chamaremos de <NAVI>[Rudus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>.\nSeria uma grande ajuda se você se juntar a nós.",
         "es-ES": "[Tess]\nA partir de ahora llamaremos <NAVI>[Rudus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI> a toda esa zona.\nSería de gran ayuda que te unieras a nosotros."
     },
     "+x2+Bw": {
-        "ko-KR": "[테스]\n전 그 동안 리히타르젠쪽을 좀 더 알아보겠습니다.\n지금쯤 분석이 필요한 다른 정보들도 들어왔을테니까요.",
         "en-US": "[Tess]\nIn the meantime, I'll check Lighthalzen.\nMore information must have arrived by now that needs an analysis.",
         "pt-BR": "[Tess]\nEnquanto isso, vou dar uma olhada em Lighthalzen.\nPorque chegaram outras informações que precisam de análise.",
         "es-ES": "[Tess]\nMientras tanto, iré a echar un vistazo a Lighthalzen.\nPorque llegaron otras informaciones que necesitan ser analizadas."
     },
     "/B2+Bw": {
-        "ko-KR": "[테스]\n<NAVI>[루두스]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>는 아인브로크 북-동 필드에 있습니다.\n당신이 합류한다면 분명 도움이 되겠지요.",
         "en-US": "[Tess]\n<NAVI>[Rudus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI> takes place in the northeast Einbroch field.\nWe'll really appreciate if you join the operation.",
         "pt-BR": "[Tess]\nRudus localiza-se no <NAVI>[Nordeste de Einbroch]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>.\nSe você se juntar a nós, com certeza vai ser uma ajuda e tanto.",
         "es-ES": "[Tess]\nRudus se encuentra en el <NAVI>[Noreste de Einbroch]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>.\nSi te unes a nosotros, sin duda serás de gran ayuda."
     },
     "/R2+Bw": {
-        "ko-KR": "[테스]\n다녀오셨습니까?\n흐음, 폐쇄된 갱도에 격벽이 쳐져있고 그 너머에 괴물이 있다?",
         "en-US": "[Tess]\nWelcome back.\nHm, a wall in front of the closed tunnel, with monsters behind it.",
         "pt-BR": "[Tess]\nVocê esteve lá?\nHmm, há um paredão e monstros no túnel da mineradora fechada?",
         "es-ES": "[Tess]\n¿Ya estuviste allí?\nHmm, ¿hay un muro y monstruos en el túnel de la mina cerrada?"
     },
     "/h2+Bw": {
-        "ko-KR": "[테스]\n다른 대원들이 보내온 보고서를 봐도 그 곳은 뭔가의 연구시설은 아닌것 같습니다.\n실패한 폐기물을 은폐하는 곳이었던 모양이군요.",
         "en-US": "[Tess]\nEven the other members who reported back don't think that place is a lab.\nIt's got to be a secret dump site for failed text subjects.",
         "pt-BR": "[Tess]\nPelos relatórios que os outros membros enviaram, não parece ser um outro laboratório.\nParece ser um depósito de testes fracassados.",
         "es-ES": "[Tess]\nSegún los informes de los demás miembros, no parece otro laboratorio.\nParece un depósito de experimentos fallidos."
     },
     "/x2+Bw": {
-        "ko-KR": "[테스]\n어쩐지 그런 실험을 자행하는데, 겉으로 드러나는 사고가 없나 했더니. 쯧 ….\n당분간 리벨리온의 신세를 또 지게 생겼군요.",
         "en-US": "[Tess]\nSo, this is how they keep their terrible experiments from being exposed to the public. Tsk, tsk.\nThis means we'll have to rely on the Rebellion again.",
         "pt-BR": "[Tess]\nEntão, é ali que eles escondiam os experimentos rejeitados da população em geral.\nTsc, tsc, tsc... Parece que vamos precisar da ajuda da Rebelião novamente.",
         "es-ES": "[Tess]\nAsí que ahí escondían los experimentos rechazados del público en general.\nTsk, tsk, tsk... Parece que necesitaremos la ayuda de la Rebelión otra vez."
     },
     "AB6+Bw": {
-        "ko-KR": "[테스]\n루두스의 일이 큰 게 아니라 다행입니다. 거기는 볼코바님께서 충분히 대응하실테니까요.",
         "en-US": "[Tess]\nI'm glad things in Rudus aren't so serious that Captain Volkova can't handle them.",
         "pt-BR": "[Tess]\nNossa sorte é que Rudus parece ser fácil para a senhorita Bolkova.",
         "es-ES": "[Tess]\nPor suerte, Rudus parece ser terreno fácil para la señorita Bolkova."
     },
     "AR6+Bw": {
-        "ko-KR": "[테스]\n그보다 지금 안쪽 방으로 가보셔야겠습니다.\n제가 괜한 손님을 모셔온 것 같지만 어찌됐든 모험가님의 손이 필요한 일 같으니까요.",
         "en-US": "[Tess]\nAnyway, you should go to the room in the back.\nI hope you don't mind that I've brought a guest with me who needs your help.",
         "pt-BR": "[Tess]\nBom, gostaria de conversar com você em um lugar particular.\nEu trouxe um convidado especial, espero que não se importe.",
         "es-ES": "[Tess]\nBien, me gustaría hablar contigo en privado.\nTraje a un invitado especial, espero que no te importe."
     },
     "Ah6+Bw": {
-        "ko-KR": "[테스]\n저기 보이는 저 방입니다. 리벨리온 이외에는 출입 하지 못하는 곳이라는군요.\n다른 대장님들도 전부 계십니다.",
         "en-US": "[Tess]\nIn the room over there. Only the members of the Rebellion can enter it.\nAll the other Captains are in there as well.",
         "pt-BR": "[Tess]\nÉ aquela sala ali atrás, fale com o Aposentado.\nEstamos te esperando lá.",
         "es-ES": "[Tess]\nEs esa sala de atrás. Habla con el Jubilado.\nTe estaremos esperando allí."
     },
     "Ax6+Bw": {
-        "ko-KR": "[테스]\n위치는 리히타르젠 본사의 왼쪽 건물입니다.\n아스님이 배치한 레켄베르 가드와 저희 공화국에서 파견한 병력,\n그리고 에스트님과 함께 간 리벨리온 특수부대가 있어 찾기는 쉬울 겁니다.",
         "en-US": "[Tess]\nIt's the left-hand building at the Lighthalzen headquarters.\nAce's Rekenber Guards, the government forces,\nand even Est and his Rebellion special forces are there. You won't miss it.",
         "pt-BR": "[Tess]\nO prédio da Regenschirm fica à esquerda da sede da Rekenber, em Lighthalzen.\nA Guarda Ace, a Comandante Est e nossos agentes estarão esperando você lá.\nNão demore.",
         "es-ES": "[Tess]\nEl edificio de Regenschirm está a la izquierda de la sede de Rekenber, en Lighthalzen.\nLa Guardia Ace, la Comandante Est y nuestros agentes te estarán esperando allí.\nNo tardes."
     },
     "BB6+Bw": {
-        "ko-KR": "[테스]\n모쪼록 좋은 결과 있기를 바랍니다.",
         "en-US": "[Tess]\nGood luck.",
         "pt-BR": "[Tess]\nE boa sorte.",
         "es-ES": "[Tess]\nY buena suerte."
     },
     "BR6+Bw": {
-        "ko-KR": "[테스]\n이야기는 들었습니다.\n에스트님과 아스님, 그리고 당신이 연계하여 연구소를 탈환하는 작전.",
         "en-US": "[Tess]\nI've heard about the operation.\nYou, Est, and Ace will work together to reclaim the Lab.",
         "pt-BR": "[Tess]\nEu fiquei sabendo de tudo.\nVocê, Est e Ace fizeram um ótimo trabalho.",
         "es-ES": "[Tess]\nMe he enterado de todo.\nTú, Est y Ace hicieron un gran trabajo."
     },
     "Bh6+Bw": {
-        "ko-KR": "[테스]\n내부에서 되도록 많은 자료와 정보를 가져와 주시기 바랍니다.\n지금이 아니면 언제 기업의 연구소를 털어보겠습니까?",
         "en-US": "[Tess]\nPlease collect as much information as you can from the inside.\nWe might not get another chance at raiding a corporate laboratory.",
         "pt-BR": "[Tess]\nPor favor, colete o máximo de informações de lá.\nÉ uma oportunidade única de investigar o laboratório.",
         "es-ES": "[Tess]\nPor favor, recopila toda la información que puedas de allí.\nEs una oportunidad única para investigar el laboratorio."
     },
     "Bx6+Bw": {
-        "ko-KR": "- 소지하고 계신 아이템이 많아 퀘스트를 진행할 수 없습니다. -",
         "en-US": "- You're carrying too many items to continue with this quest. -",
         "pt-BR": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
         "es-ES": "- No puedes continuar la misión porque tienes demasiados objetos. -"
     },
     "CB6+Bw": {
-        "ko-KR": "[테스]\n이제 오시는군요.\n에스트님이 먼저 오셔서 무슨 일이 생긴 것은 아닌가 했습니다.",
         "en-US": "[Tess]\nFinally, you're here.\nI was worried about you because Est came back alone.",
         "pt-BR": "[Tess]\nVocê voltou.\nEstava preocupado porque a Comandante Est chegou sozinha.",
         "es-ES": "[Tess]\nHas vuelto.\nEstaba preocupado porque la Comandante Est regresó sola."
     },
     "CR6+Bw": {
-        "ko-KR": "[테스]\n에스트님이 가져온 정보가 엄청나더군요.\n그리고 레이지씨가 당신에게 뭔가 할 말이 있는 모양입니다.",
         "en-US": "[Tess]\nEst has brought a tremendous amount of information.\nAnd Leizi seems to have something to say to you.",
         "pt-BR": "[Tess]\nE Est trouxe muita informação bombástica.\nE parece que Nalandro tem algo a dizer a você.",
         "es-ES": "[Tess]\nY Est trajo información muy impactante.\nY parece que Lazy tiene algo que decirte."
     },
     "Ch6+Bw": {
-        "ko-KR": "[테스]\n카야님도 함께 계시니 만나 보십시오.\n저는 산처럼 쌓인 자료를 분석해야 하니까요.\n수고많으셨습니다.",
         "en-US": "[Tess]\nKaya's with him. Why don't you go see them?\nI've got a mountain of information to analyze.\nGood job.",
         "pt-BR": "[Tess]\nO sr. Kaya também está com ele.\nAgora eu tenho uma pilha de informações para analisar.\nVocê fez um ótimo trabalho.",
         "es-ES": "[Tess]\nEl señor Kaya también está con él.\nAhora tengo una montaña de información para analizar.\nHiciste un gran trabajo."
     },
     "Cx6+Bw": {
-        "ko-KR": "[테스]\n이건? 연구소 보안과 관련된 자료 아닙니까?\n아스님이 전해주라 하신거군요.",
         "en-US": "[Tess]\nWhat's this? \nIt's information related the Lab's security.\nAce asked you to give it to me.",
         "pt-BR": "[Tess]\nIsso é a informação coletada do laboratório?\nAce pediu que você me entregasse.",
         "es-ES": "[Tess]\n¿Esta es la información recolectada del laboratorio?\nAce te pidió que me la entregaras."
     },
     "DB6+Bw": {
-        "ko-KR": "[테스]\n이런걸 남겼다는건 상당히 자의식 강한 사람인가봅니다.\n그 슐랑이라는 자 말입니다.",
         "en-US": "[Tess]\nHe must have strong self-esteem, enough to leave a record like this.\nI'm talking about that man, Shulang.",
         "pt-BR": "[Tess]\nEsse cara deve ter uma auto-estima muito alta para deixar os dados assim.\nEsse tal de ^4D4DFFShulang^000000.",
         "es-ES": "[Tess]\nEse tipo debe tener una autoestima muy alta para dejar los datos así.\nEse tal ^4D4DFFShulang^000000."
     },
     "DR6+Bw": {
-        "ko-KR": "[테스]\n알겠습니다.\n이건 제가 다른 자료들과 함께 분석하겠습니다.",
         "en-US": "[Tess]\nOkay.\nI'll analyze it along with other data.",
         "pt-BR": "[Tess]\nCerto.\nVou analisar isso junto com outras informações.",
         "es-ES": "[Tess]\nBien.\nAnalizaré esto junto con la otra información."
     },
     "Dh6+Bw": {
-        "ko-KR": "[테스]\n레이지씨가 뭔가 일을 꾸미고 있는 것 같았습니다.\n여기 주점 어딘가에 있을테니 찾아 보십시오.",
         "en-US": "[Tess]\nI think Leizi is up to something.\nHe must be somewhere in this pub. Maybe you should talk to him.",
         "pt-BR": "[Tess]\nParece que Nalandro está tramando algo.\nEle deve estar em algum lugar desse boteco.",
         "es-ES": "[Tess]\nParece que Lazy está tramando algo.\nDebe de estar en algún lugar de esa taberna."
     },
     "Dx6+Bw": {
-        "ko-KR": "[테스]\n레이지씨와 뭔가 조사를 하러 가신 것 같았는데 표정을 보아하니 썩 좋은 결과는 아니었던 모양입니다.",
         "en-US": "[Tess]\nI saw you leaving with Leizi to check something. It didn't go well, did it?",
         "pt-BR": "[Tess]\nEu vi você e Nalandro indo investigar algo. Parece que não deu muito certo, né?",
         "es-ES": "[Tess]\nTe vi a ti y a Lazy investigando algo. Parece que no salió muy bien, ¿verdad?"
     },
     "EB6+Bw": {
-        "ko-KR": "[테스]\n지난번 레겐쉬름 연구소에서 가져온 정보들을 분석했는데, 지원품 일부와 연구자료가 서로 교류한 흔적이 있었습니다.",
         "en-US": "[Tess]\nI've analyzed the information we got from the Regenschirm Lab last time, and found evidence of supply and research information exchanges.",
         "pt-BR": "[Tess]\nAnalisei as informações da Regenschirm e encontrei vestígios de trocas de suprimento e pesquisa.",
         "es-ES": "[Tess]\nAnalicé la información de Regenschirm y encontré rastros de intercambio de suministros e investigación."
     },
     "ER6+Bw": {
-        "ko-KR": "[테스]\n이제까지 기업의 술수라고 생각했는데, 그 기업의 뒤통수를 친 자들이라니.\n후우...",
         "en-US": "[Tess]\nI thought the corporation was lying to us; it was just being lied to by the people it hired.\n*Sigh*",
         "pt-BR": "[Tess]\nEu achava que era a Corporação Rekenber quem mentia para nós, mas era a contratada deles quem escondia tudo da empresa.\nTsc, tsc, tsc.",
         "es-ES": "[Tess]\nPensé que la Corporación Rekenber nos mentía, pero era su contratista quien ocultaba todo a la empresa.\nTsk, tsk, tsk."
     },
     "Eh6+Bw": {
-        "ko-KR": "[카야 토스]\n그 말에 동감하오.\n진실을 파고들수록 무슨일이 일어나고 있었는지 도무지 모르겠소.",
         "en-US": "[Kaya Tos]\nI agree.\nThe more we look for the truth, the more confused I feel.",
         "pt-BR": "[Kaya Toss]\nEu concordo com você.\nQuanto mais informações aparecem, mais eu percebo que não sabíamos de tudo.",
         "es-ES": "[Kaya Toss]\nEstoy de acuerdo contigo.\nCuanta más información aparece, más me doy cuenta de que no sabíamos todo."
     },
     "Ex6+Bw": {
-        "ko-KR": "오셨습니까?",
         "en-US": "You came.",
         "pt-BR": "Você chegou, sr. Kaya.",
         "es-ES": "Ya llegó, señor Kaya."
     },
     "FB6+Bw": {
-        "ko-KR": "[카야 토스]\n이제까지 내가 본 것은 정말로 빙산의 일각이었던 것이지.\n덕분에 눈을 좀 뜬 것 같소.",
         "en-US": "[Kaya Tos]\nWhat I've seen is just the tip of the iceberg.\nYou opened my eyes.",
         "pt-BR": "[Kaya Toss]\nO que eu vi até agora é apenas a ponta do iceberg.\nGraças a você, abri meus olhos.",
         "es-ES": "[Kaya Toss]\nLo que he visto hasta ahora es solo la punta del iceberg.\nGracias a ti, abrí los ojos."
     },
     "FR6+Bw": {
-        "ko-KR": "갑자기 끼어들어 미안하군.",
         "en-US": "I'm sorry I interrupted you.",
         "pt-BR": "Estou chocado.",
         "es-ES": "Estoy impactado."
     },
     "Fh6+Bw": {
-        "ko-KR": "[테스]\n그러고보니 경비인력을 점령하고 연구소를 공격한 무리 말입니다.\n그 정체가 어느정도 윤곽이 잡히지 않습니까?",
         "en-US": "[Tess]\nCome to think of it, there's that group that neutralized the security guards and attacked the Lab.\nI think I know who it is. \nDon't you?",
         "pt-BR": "[Tess]\nA propósito, sobre os cientistas que estavam na Regenschirm.\nVocê sabe a identidade deles?",
         "es-ES": "[Tess]\nPor cierto, sobre los científicos que estaban en Regenschirm.\n¿Conoces sus identidades?"
     },
     "Fx6+Bw": {
-        "ko-KR": "[카야 토스]\n몇몇 인물은 나도 알 것 같소.\n연구소에서 무분별한 실험을 강행하던 자들이 몇 있었소.",
         "en-US": "[Kaya Tos]\nI do. \nAt least a few of its members.\nThere were a few reckless researchers at the Lab.",
         "pt-BR": "[Kaya Toss]\nEu conheço alguns.\nHavia alguns cientistas realizando experimentos imprudentes no laboratório.",
         "es-ES": "[Kaya Toss]\nConozco a algunos.\nHabía científicos realizando experimentos imprudentes en el laboratorio."
     },
     "GB6+Bw": {
-        "ko-KR": "[카야 토스]\n비윤리적 실험 진행으로 그들을 퇴출한 바 있었소만,\n그때 방출된 자들이 이번일을 꾸민게 아닌가, 그리 추측 중이라오.",
         "en-US": "[Kaya Tos]\nWe had to let them go based on ethical grounds.\nI'm thinking they're involved in this.",
         "pt-BR": "[Kaya Toss]\nEu os expulsei por conduzir experimentos antiéticos\nAcredito que eles estavam envolvidos nisso.",
         "es-ES": "[Kaya Toss]\nLos expulsé por llevar a cabo experimentos poco éticos.\nCreo que estaban involucrados en esto."
     },
     "GR6+Bw": {
-        "ko-KR": "[테스]\n흐음 …. 그 부분은 조사가 좀 더 명확하게 필요하겠군요.\n지금은 밝혀진 시설에 먼저 조사하죠.",
         "en-US": "[Tess]\nHm... We'd better look in to them.\nBut for now, let's focus on the facility we've discovered.",
         "pt-BR": "[Tess]\nHmm... precisamos ficar de olho neles.\nPor enquanto, vamos investigar aquela construção primeiro.",
         "es-ES": "[Tess]\nHmm... debemos vigilarlos.\nPor ahora, investiguemos primero esa construcción."
     },
     "Gh6+Bw": {
-        "ko-KR": "[카야 토스]\n이번 일은 전적으로 당신들에게 맡기겠소.\n그럼 나는 본사로 돌아가 관련 조사를 좀 해보지.",
         "en-US": "[Kaya Tos]\nI'll leave it to you,\nand go back to my company to look into other related matters.",
         "pt-BR": "[Kaya Toss]\nDeixarei esta tarefa inteiramente para você.\nEu vou voltar para a Rekenber e resolver outras questões.",
         "es-ES": "[Kaya Toss]\nDejaré esta tarea completamente en tus manos.\nVolveré a Rekenber para resolver otros asuntos."
     },
     "Gx6+Bw": {
-        "ko-KR": "[카야 토스]\n먼저 실례하겠소.",
         "en-US": "[Kaya Tos]\nExcuse me.",
         "pt-BR": "[Kaya Toss]\nCom licença.",
         "es-ES": "[Kaya Toss]\nCon permiso."
     },
     "HB6+Bw": {
-        "ko-KR": "[테스]\n …. 그럼 다음 작전에 대한 이야기를 계속 하겠습니다.",
         "en-US": "[Tess]\n ... Then, let's go back to the subject of our next operation.",
         "pt-BR": "[Tess]\n.... Ok, vamos voltar a falar sobre a nossa próxima missão.",
         "es-ES": "[Tess]\n.... Bien, volvamos a hablar de nuestra próxima misión."
     },
     "HR6+Bw": {
-        "ko-KR": "[테스]\n지역은 아인브로크에서 북-서 지역 필드의 역시 폐쇄된 광산입니다.\n이 근처에 폐광산들이 많은데, 그 지역들이 전부 이런식으로 쓰이고 있었다니...",
         "en-US": "[Tess]\nIt takes place in yet another closed mine, but one in the northwest Einbroch field.\nThere are many closed mines around here. \nI can't believe all of them have been repurposed like this.",
         "pt-BR": "[Tess]\nHá uma outra mineradora abandonada ao noroeste de Einbroch.\nÉ um absurdo esse país ter tanta construção largada por aí sendo usada para esse tipo de coisa.",
         "es-ES": "[Tess]\nHay otra mina abandonada al noroeste de Einbroch.\nEs absurdo que este país tenga tantas construcciones abandonadas usadas para estas cosas."
     },
     "Hh6+Bw": {
-        "ko-KR": "[테스]\n좀 더 주변 조사를 확실히 했어야 했는데, 면목이 없군요.\n....",
         "en-US": "[Tess]\nI should have checked that area more thoroughly. \nI'm sorry.\n...",
         "pt-BR": "[Tess]\nEu gostaria de ter mais informações sobre isso, me desculpe.\n...",
         "es-ES": "[Tess]\nMe gustaría tener más información sobre eso, lo siento.\n..."
     },
     "Hx6+Bw": {
-        "ko-KR": "[테스]\n.. 어쨌든 이번엔 리벨리온의 원로분들도 작전에 참여하신다고 합니다.\n가서 든든한 지원군이 되어주세요.",
         "en-US": "[Tess]\nAnyway, the elders of the Rebellion will also join us for the operation this time.\nPlease go help them.",
         "pt-BR": "[Tess]\n...Enfim, desta vez, as Veteranas da Rebelião querem participar dessa missão.\nPor favor, vá e as ajude.",
         "es-ES": "[Tess]\n...En fin, esta vez las Veteranas de la Rebelión quieren participar en la misión.\nPor favor, ve y ayúdalas."
     },
     "IB6+Bw": {
-        "ko-KR": "[테스]\n북-서 지역 폐광산 앞에 <NAVI>[리벨리온 대원]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI>이 대기하고 있을겁니다.",
         "en-US": "[Tess]\nA <NAVI>[Rebellion Member]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI> will be waiting for you at the front of the closed mine in the northwest.",
         "pt-BR": "[Tess]\nUm <NAVI>[Membro da Rebelião]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI> estará esperando na frente da Mineradora abandonada.",
         "es-ES": "[Tess]\nUn <NAVI>[Miembro de la Rebelión]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI> estará esperando frente a la mina abandonada."
     },
     "IR6+Bw": {
-        "ko-KR": "[테스]\n이번 작전지는 아인브로크 북-서 필드의 폐광산입니다.\n<NAVI>[리벨리온 대원]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI>이 대기하고 있을테니 가서 합류하시면 됩니다.",
         "en-US": "[Tess]\nThis time, our operation takes place in the northwest Einbroch field.\nA <NAVI>[Rebellion Member]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI> is waiting for you there. Please go join him.",
         "pt-BR": "[Tess]\nNossa próxima missão é na mineradora abandonada à noroeste de Einbroch.\nUm <NAVI>[Membro da Rebelião]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI> estará esperando na frente da Mineradora abandonada..",
         "es-ES": "[Tess]\nNuestra próxima misión es en la mina abandonada al noroeste de Einbroch.\nUn <NAVI>[Miembro de la Rebelión]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI> estará esperando frente a la mina abandonada."
     },
     "Ih6+Bw": {
-        "ko-KR": "[테스]\n좀 피곤합니다. 서류 분석의 연속이네요.",
         "en-US": "[Tess]\nI'm exhausted, from analyzing documents all day.",
         "pt-BR": "[Tess]\nEstou um pouco cansado. É muita papelada para analisar.",
         "es-ES": "[Tess]\nEstoy un poco cansada. Hay demasiado papeleo que analizar."
     },
     "Ix6+Bw": {
-        "ko-KR": "엘레나 볼코바",
         "en-US": "Elena Volkova",
         "pt-BR": "Elena Bolkova",
         "es-ES": "Elena Bolkova"
     },
     "JB6+Bw": {
-        "ko-KR": "카야 토스",
         "en-US": "Kaya Tos",
         "pt-BR": "Kaya Toss",
         "es-ES": "Kaya Toss"
     },
     "JR6+Bw": {
-        "ko-KR": "은퇴한 리벨리온",
         "en-US": "Rebellion Retiree",
         "pt-BR": "Aposentado",
         "es-ES": "Jubilado"
     },
     "Jh6+Bw": {
-        "ko-KR": "[은퇴한 리벨리온]\n들어갈건가?",
         "en-US": "[Rebellion Retiree]\nWant to go in?",
         "pt-BR": "[Aposentado]\nVocê vai entrar?",
         "es-ES": "[Jubilado]\n¿Vas a entrar?"
     },
     "Jx6+Bw": {
-        "ko-KR": "그래요.",
         "en-US": "Yes.",
         "pt-BR": "Sim.",
         "es-ES": "Sí."
     },
     "KB6+Bw": {
-        "ko-KR": "아니요.",
         "en-US": "No.",
         "pt-BR": "Não.",
         "es-ES": "No."
     },
     "KR6+Bw": {
-        "ko-KR": "[은퇴한 리벨리온]\n푹 쉬라고.",
         "en-US": "[Rebellion Retiree]\nGet some rest.",
         "pt-BR": "[Aposentado]\nTudo bem.",
         "es-ES": "[Jubilado]\nDe acuerdo."
     },
     "Kh6+Bw": {
-        "ko-KR": "은퇴한 리벨리온: 다른 방에 가서 놀아. 여긴 네놈이 들어갈 자리 없다.",
         "en-US": "Rebellion Retiree: Go pick a different room. You don't get to enter this one.",
         "pt-BR": "Aposentado: Você não tem autorização para entrar.",
         "es-ES": "Jubilado: No tienes autorización para entrar."
     },
     "Kx6+Bw": {
-        "ko-KR": "이번만 협력하는 거야. 알겠냐?",
         "en-US": "I'm only going to help you just this once, got it?",
         "pt-BR": "Só iremos te ajudar desta vez, ok?",
         "es-ES": "Solo te ayudaremos esta vez, ¿entendido?"
     },
     "LB6+Bw": {
-        "ko-KR": "[테스]\n이제 결정 하신 겁니까?",
         "en-US": "[Tess]\nDid you make up your mind?",
         "pt-BR": "[Tess]\nJá tomou sua decisão?",
         "es-ES": "[Tess]\n¿Ya tomaste tu decisión?"
     },
     "LR6+Bw": {
-        "ko-KR": "[에스트]\n일은 일이니까. 지원 가능한 곳이 여기밖에 없다며?\n도대체 정부는 그동안 얼마나 무능해진 거야?",
         "en-US": "[Est]\nWork is work. \nAnd you said this is the only place I can apply.\nHow incompetent the government has become since I left?",
         "pt-BR": "[Est Loveloy]\nTrabalho é trabalho. Você disse que este é o único lugar em que posso operar.\nComo diabos o governo se tornou tão incompetente?",
         "es-ES": "[Est Loveloy]\nTrabajo es trabajo. Dijiste que este es el único lugar donde puedo operar.\n¿Cómo diablos se volvió tan incompetente el gobierno?"
     },
     "Lh6+Bw": {
-        "ko-KR": "[테스]\n그 부분은 뭐라 드릴 말씀이 없군요.\n이제 와서 그만한 병력을 키울 수 있는 여력이 있는 것도 아니고 말입니다.",
         "en-US": "[Tses]\nI don't know what to say about that.\nWe just don't have the time or resources to raise an army as big as yours.",
         "pt-BR": "[Tess]\nNão tenho nada a dizer sobre isso.\nSó não temos tempo e recursos para erguer um exército tão grande como o seu.",
         "es-ES": "[Tess]\nNo tengo nada que decir al respecto.\nSimplemente no tenemos el tiempo ni los recursos para levantar un ejército tan grande como el tuyo."
     },
     "Lx6+Bw": {
-        "ko-KR": "[에스트]\n나도 알아. 그리고 일반 병사에게 그런 일을 맡길 수도 없지.\n머리로는 이해를 하는데 말이야. 그게 다는 아니잖냐.",
         "en-US": "[Est]\nI know. And you can't trust private soldiers with things like this.\nMy brain understands it, but my brain is only a part of me.",
         "pt-BR": "[Est Loveloy]\nEu sei. E você não pode confiar em qualquer soldado.\nMinha mente entende isso, mas minha intuição diz outra coisa.",
         "es-ES": "[Est Loveloy]\nLo sé. Y no se puede confiar en cualquier soldado.\nMi mente lo entiende, pero mi intuición dice otra cosa."
     },
     "MB6+Bw": {
-        "ko-KR": "기업의 사람이 왜 여기 있죠?!",
         "en-US": "What's a Rekenber man doing here?!",
         "pt-BR": "E esses caras da Rekenber?!",
         "es-ES": "¿¡Y esos tipos de Rekenber?!"
     },
     "MR6+Bw": {
-        "ko-KR": "[에스트]\n그렇지? 너도 이상하지?\n우리도 정말 이상한데 더 이상한게 뭔지 알려줄까, 꼬맹아?",
         "en-US": "[Est]\nI know. It's strange to you too, isn't it?\nWant to know what's more strange, kiddo?",
         "pt-BR": "[Est Loveloy]\nEstranho, não é?\nE sabe o que é mais estranho ainda?",
         "es-ES": "[Est Loveloy]\nExtraño, ¿verdad?\n¿Y sabes qué es aún más extraño?"
     },
     "Mh6+Bw": {
-        "ko-KR": "[에스트]\n리벨리온의 쁘띠 아지트에 기업의 인사가 있는 것도 놀라운데 지금 리벨리온 부대 하나가 기업을 도와주러 출동 할 거란다.",
         "en-US": "[Est]\nA Rekenber man is in the Rebellion's base, and a unit of the Rebellion is about to go out to help his corporation.",
         "pt-BR": "[Est Loveloy]\nMembros da Rekenber estão no esconderijo da Rebelião e nós nos unimos para ajudar a corporação.",
         "es-ES": "[Est Loveloy]\nMiembros de Rekenber están en el escondite de la Rebelión y nosotros nos unimos para ayudar a la corporación."
     },
     "Mx6+Bw": {
-        "ko-KR": "[에스트]\n정말로 놀랍고 경이로운 일 아니냐? 내 살다 살다 이런 날이 올 줄이야.\n그런데 거기에 너도 있네?",
         "en-US": "[Est]\nAstounding, isn't it? \nWho knew I'd see this day before I die?\nAnd even you're here.",
         "pt-BR": "[Est Loveloy]\nNão é surpreendente e bizarro? Estou testemunhando tudo isso com meus próprios olhos.\nE você também.",
         "es-ES": "[Est Loveloy]\n¿No es sorprendente y absurdo?\nLo estoy presenciando con mis propios ojos.\nY tú también."
     },
     "NB6+Bw": {
-        "ko-KR": "[중년의 신사]\n하아 …. 왜 이렇게까지 우리를 적대시하는 건지 모르겠소.\n그래도 기업이 사회에 공헌바가 적지 않소만...",
         "en-US": "[Middle-aged Gentleman]\n*Sigh* I don't know why you hate us so much.\nMy company has made a lot of contributions to society.",
         "pt-BR": "[Cavalheiro]\nUgh... não precisa ser tão hostil conosco.\nNossa empresa contribuiu muito para a sociedade...",
         "es-ES": "[Caballero]\nUgh... no es necesario ser tan hostil con nosotros.\nNuestra empresa ha contribuido mucho a la sociedad..."
     },
     "NR6+Bw": {
-        "ko-KR": "[에스트]\n정말로 그렇게 생각하시나?\n애초에 우리가 왜 리벨리온이라는 이름을 달고 있는지 모르는 거야?\n당신들 정말 자기 좋을 대로만 생각하는 건 여전하네.",
         "en-US": "[Est]\nDo you really think so?\nDon't you know why we're called the Rebellion?\nYou guys are so self-centered.",
         "pt-BR": "[Est Loveloy]\nJura??\nVocê não sabe nem por que nossa organização se chama Rebelião?\nSó olham para o próprio umbigo.",
         "es-ES": "[Est Loveloy]\n¿Ah, sí?\n¿Ni siquiera sabes por qué nuestra organización se llama Rebelión?\nSolo se preocupan por sí mismos."
     },
     "Nh6+Bw": {
-        "ko-KR": "[에스트]\n그래. 그게 기업이지. 기업의 총수라고 뭐 다를 바 있겠어?\n코빼기도 안 보이는 잘난 대통령 나리도 우리를 무슨 자기가 편하게 부릴 수 있는 수족쯤으로 생각하나 본데.",
         "en-US": "[Est]\nWell, that's Rekenber for you. \nAnd you're the head honcho.\nI don't know where the president of the country is, but I bet he also thinks we're his pawns.",
         "pt-BR": "[Est Loveloy]\nBom, o que esperar dos superiores da Rekenber, né?\nE o presidente da república tá lá na salinha ventilada dele, enquanto nós estamos nos arriscando aqui.",
         "es-ES": "[Est Loveloy]\nBueno, ¿qué se puede esperar de los altos mandos de Rekenber?\nY el presidente de la república está allá, en su salita ventilada, mientras nosotros nos arriesgamos aquí."
     },
     "Nx6+Bw": {
-        "ko-KR": "[테스]\n그거 아닙니다. 에스트님.\n다 그럴만한 사정이 있다는 것 아시지 않습니까.",
         "en-US": "[Tess]\nThat's not true, Est.\nYou know the reason he's not here.",
         "pt-BR": "[Tess]\nNão é isso, Est.\nVocê sabe muito bem o motivo do presidente não estar aqui conosco.",
         "es-ES": "[Tess]\nNo es eso, Est.\nSabes perfectamente por qué el presidente no está aquí con nosotros."
     },
     "OB6+Bw": {
-        "ko-KR": "[에스트]\n그래서 지원병력 보내기로 했잖아.\n그렇다해도 배알이 꼴리는 건 어쩔 수 없는 노릇 아니겠어?",
         "en-US": "[Est]\nSo, I agreed to provide reinforcements, didn't I?\nThis doesn't mean I'm not angry at him, though.",
         "pt-BR": "[Est Loveloy]\nBom, eu concordei em ajudar com as minhas tropas, não é?\nMesmo assim, não vou perder a oportunidade de falar na cara o que eu penso.",
         "es-ES": "[Est Loveloy]\nBueno, acepté ayudar con mis tropas, ¿no?\nAun así, no perderé la oportunidad de decirles en la cara lo que pienso."
     },
     "OR6+Bw": {
-        "ko-KR": ".....",
         "en-US": "...",
         "pt-BR": ".....",
         "es-ES": "....."
     },
     "Oh6+Bw": {
-        "ko-KR": "....히익..",
         "en-US": "... *Gasp*",
         "pt-BR": "...Ugh...",
         "es-ES": "...Ugh..."
     },
     "Ox6+Bw": {
-        "ko-KR": "그래서 무슨 일인데요?",
         "en-US": "So, what happened?",
         "pt-BR": "O que tá acontecendo?",
         "es-ES": "¿Qué está pasando?"
     },
     "PB6+Bw": {
-        "ko-KR": "[에스트]\n쯧.\n내가 좀 흥분했네. 난 닥치고 있을테니 말 잘하는 테스가 설명 해.",
         "en-US": "[Est]\nHmpf,\nI'm a little bit miffed right now. \nI'm just going to keep quiet. \nTess, you talk.",
         "pt-BR": "[Est Loveloy]\nHmpf.\nMelhor ficar na minha, Tess explicará para você.",
         "es-ES": "[Est Loveloy]\nHmpf.\nMejor me quedo callada, Tess te lo explicará."
     },
     "PR6+Bw": {
-        "ko-KR": "...하아..",
         "en-US": "... *Sigh*",
         "pt-BR": "...Hmm...",
         "es-ES": "...Hmm..."
     },
     "Ph6+Bw": {
-        "ko-KR": "[테스]\n단도직입적으로 말씀드리자면, 현재 기업의 부설 연구소인 레겐쉬름이 괴한들에게 점령 당해 있습니다.\n그리고 그 탈환을 위해 에스트님 휘하의 리벨리온 특수부대가 출동할 예정이고요.",
         "en-US": "[Tess]\nLong story short, currently the company's annex laboratory, Regenschirm, has been occupied by a group of assailants.\nAnd Est and the Rebellion's special forces under his command will go there to reclaim it.",
         "pt-BR": "[Tess]\nPara resumir, a Regenschirm, afiliada da Rekenber, está ocupada por bandidos.\nE as tropas da Rebelião sob o comando da senhorita Est irão reconquistar o lugar.",
         "es-ES": "[Tess]\nPara resumir, Regenschirm, afiliada de Rekenber, está ocupada por delincuentes.\nY las tropas de la Rebelión bajo el mando de la señorita Est, volverán a tomar el lugar."
     },
     "Px6+Bw": {
-        "ko-KR": "[테스]\n그래서 에스트님이 저렇게 골이 잔뜩 나신 거지요.",
         "en-US": "[Tess]\nThat's why Est is so grumpy.",
         "pt-BR": "[Tess]\nÉ por isso que a senhorita Est está alterada.",
         "es-ES": "[Tess]\nPor eso la señorita Est está alterada."
     },
     "QB6+Bw": {
-        "ko-KR": "기업 가드들은 뭐하고요?",
         "en-US": "What about the company's security team?",
         "pt-BR": "E a Guarda da Rekenber?",
         "es-ES": "¿Y la Guardia de Rekenber?"
     },
     "QR6+Bw": {
-        "ko-KR": "[테스]\n그건...",
         "en-US": "[Tess]\nThat's--",
         "pt-BR": "[Tess]\nEla se chama...",
         "es-ES": "[Tess]\nSe llama..."
     },
     "Qh6+Bw": {
-        "ko-KR": "다 제 불찰입니다!",
         "en-US": "This is my fault!",
         "pt-BR": "É tudo culpa minha!",
         "es-ES": "¡Es toda mi culpa!"
     },
     "Qx6+Bw": {
-        "ko-KR": "[아스]\n그건 이 일이 경호단 내부의 배신자로부터 시작되었기 때문입니다.\n참, 전 레켄베르 경호단 안전지원대장 아스입니다.",
         "en-US": "[Ace]\nBecause all this began with a traitor inside its security team.\nOh, right, I'm Ace, the Safety Support Team Captain of Rekenber's Security Department.",
         "pt-BR": "[Ace]\nEu me chamo Ace, sou chefe da equipe de segurança da Rekenber.\nTudo isso começou com um traidor da minha equipe.",
         "es-ES": "[Ace]\nMe llamo Ace, soy la jefa del equipo de seguridad de Rekenber.\nTodo esto comenzó con un traidor de mi equipo."
     },
     "RB6+Bw": {
-        "ko-KR": "[아스]\n그리고 내부의 배신자라는 것은 경호단 내부의 실질적 무력을 가진 경호경비대장 슐랑이고요.",
         "en-US": "[Ace]\nAnd that traitor happens to be Shulang, the Bodyguard and Security Guard Team Captain, who holds military sway over the team.",
         "pt-BR": "[Ace]\nE o traidor se chama ^4D4DFFShulang^000000, capitão dos guardas da Rekenber, que possui formação militar.",
         "es-ES": "[Ace]\nY el traidor se llama ^4D4DFFShulang^000000, capitán de los guardias de Rekenber, con formación militar."
     },
     "RR6+Bw": {
-        "ko-KR": "[아스]\n현재 레겐쉬름을 점령한 건 슐랑이 이끄는 경호경비대입니다.\n경호단 대부분의 무력이 경호경비대에 집중되어 있는데다, 슐랑이 스스로를 하트헌터라 했습니다.",
         "en-US": "[Ace]\nCurrently, Regenschirm is occupied by Shulang and his men.\nMost of the Security Department's military power is concentrated on his team, and Shulang called himself a Heart Hunter.",
         "pt-BR": "[Ace]\nAtualmente, são os guardas liderados por ^4D4DFFShulang^000000 que ocupam Regenschirm.\nA maioria dos Guardas militares da corporação está concentrada nas mãos de Shulang, que se declarou um ^4D4DFFCaça-Coração^000000.",
         "es-ES": "[Ace]\nActualmente, son los guardias liderados por ^4D4DFFShulang^000000 quienes ocupan Regenschirm.\nLa mayoría de los guardias militares de la corporación está bajo su mando, y él se declara un ^4D4DFFCazador de Corazones^000000."
     },
     "Rh6+Bw": {
-        "ko-KR": "하트헌터?!",
         "en-US": "A Heart Hunter?!",
         "pt-BR": "Caça-Coração?!",
         "es-ES": "¿¡Cazador de Corazones?!"
     },
     "Rx6+Bw": {
-        "ko-KR": "[아스]\n예. 분명 하트헌터라고 했습니다.\n사건이 있던 날 자정, 근무 교대 시간에 교대조가 평소와는 다른 제복을 입고 왔다고 합니다.",
         "en-US": "[Ace]\nYes, a Heart Hunter.\nAt midnight on the day of the incident, the guards who worked the night shift showed up for work wearing different uniforms.",
         "pt-BR": "[Ace]\nSim, foi o que disse.\nNo dia do incidente, durante a troca de turno da meia-noite, os guardas trabalharam com um uniforme diferente do habitual.",
         "es-ES": "[Ace]\nSí, eso mismo.\nEl día del incidente, durante el cambio de turno de medianoche, los guardias llevaban un uniforme distinto al habitual."
     },
     "SB6+Bw": {
-        "ko-KR": "[아스]\n낮에는 저희 안전지원대가 경비와 순찰을 담당하고 밤에는 슐랑의 경호경비대가 교대를 하러 옵니다.",
         "en-US": "[Ace]\nDuring the daytime, my Safety Support Team guards and patrols the buildings, and Shulang's Bodyguard and Security Guard Team shows up at night to change shifts with us.",
         "pt-BR": "[Ace]\nMeus seguranças patrulham o laboratório durante o dia. De noite, trocam de turno com os guardas de ^4D4DFFShulang^000000.",
         "es-ES": "[Ace]\nMis guardias patrullan el laboratorio durante el día. Por la noche, cambian turno con los guardias de ^4D4DFFShulang^000000."
     },
     "SR6+Bw": {
-        "ko-KR": "[아스]\n그날도 예정된 교대조가 처음 보는 제복을 입고 찾아왔는데, 시험용 복장이라는 소리에 그러려니 했던게 실수였습니다.",
         "en-US": "[Ace]\nThat day, the night shift guys showed up in an unfamiliar-looking uniform. They said they were just testing a new uniform, and my guys believed them. They shouldn't have.",
         "pt-BR": "[Ace]\nNo dia do plantão programado, eles vieram com um uniforme que eu nunca tinha visto, duvido que seja uma roupa de teste laboratorial.",
         "es-ES": "[Ace]\nEl día del turno programado, vinieron con un uniforme que nunca había visto. Dudo que fuera ropa de prueba de laboratorio."
     },
     "Sh6+Bw": {
-        "ko-KR": "[아스]\n그들은 교대를 위해 인계작업을 하던 안전지원대의 대원들을 그자리에서 기습했습니다.\n교묘하게도 안전지원대가 담당한 지역에서만 동시 다발적으로 발생했으며...",
         "en-US": "[Ace]\nThey attacked my men during the change in shifts.\nThe same thing happened everywhere where the members of the Security Support Team worked.",
         "pt-BR": "[Ace]\nEles atacaram meus seguranças durante a troca de turno.\nA mesma coisa aconteceu com todos os seguranças de outras áreas...",
         "es-ES": "[Ace]\nAtacaron a mis guardias durante el cambio de turno.\nLo mismo ocurrió con los guardias de otras áreas..."
     },
     "Sx6+Bw": {
-        "ko-KR": "[아스]\n비상 연락을 받고 대응팀을 꾸려보려고 했으나, 그들은 비상식적으로 강한데다.....\n추가로 투입했던 대원들만 희생되고 아무런 성과를 거두지 못했습니다.",
         "en-US": "[Ace]\nWhen I got the call, I tried to organize a response team, but the enemy was ridiculously strong.\nI only ended up sacrificing the men who went in there to subdue it for me.",
         "pt-BR": "[Ace]\nQuando fui informada, enviei uma equipe de repressão, mas eles eram ridiculamente fortes...\nInfelizmente, só fiz enviar homens e mulheres da minha equipe para a morte.",
         "es-ES": "[Ace]\nCuando fui informada, envié un equipo de represión, pero eran absurdamente fuertes...\nLamentablemente, solo envié a hombres y mujeres de mi equipo a la muerte."
     },
     "TB6+Bw": {
-        "ko-KR": "[아스]\n그리고 망연자실한 제 앞에 나타난 게, 새로운 제복을 입은 슐랑이었습니다.\n저에게 무력하냐, 강해지고 싶지 않으냐. 자신을 따라오면 이들처럼 하트헌터로 만들어 주겠다.라고 했죠.",
         "en-US": "[Ace]\nI was stupefied. And then, Shulang showed up before my eyes, wearing that new uniform.\nHe asked me if I felt helpless and wanted to become strong. He said if I followed him, he'd turn me into a Heart Hunter like his men.",
         "pt-BR": "[Ace]\nE de repente, diante dos meus olhos, ^4D4DFFShulang^000000 aparece com o novo uniforme.\nEle me perguntou se eu gostaria de me juntar à ele, e me tornar uma Caça-Coração, como ele.",
         "es-ES": "[Ace]\nY de repente, ante mis ojos, ^4D4DFFShulang^000000 apareció con el nuevo uniforme.\nMe preguntó si quería unirme a él y convertirme en una Cazadora de Corazones, como él."
     },
     "TR6+Bw": {
-        "ko-KR": "[아스]\n저는 거절했고 선택을 후회하게 해준다며 지켜보라고는 떠났습니다.\n대원들 대부분이 치명상을 입었는데 저 혼자 부끄럽게 살아남아버렸죠...",
         "en-US": "[Ace]\nI said no. He said he'd make me regret my decision before he left.\nAlmost everyone in my team is gravely injured, and I'm the only one who's still standing on his feet.",
         "pt-BR": "[Ace]\nQuando recusei a oferta, ele disse que eu iria me arrepender da decisão.\nA maioria da minha equipe sofreu ferimentos fatais, mas eu sobrevivi à derrota vergonhosa sozinha...",
         "es-ES": "[Ace]\nCuando rechacé la oferta, dijo que me arrepentiría.\nLa mayoría de la tripulación sufrió heridas mortales, pero yo sobreviví sola a la humillante derrota..."
     },
     "Th6+Bw": {
-        "ko-KR": "[아스]\n새로운 제복을 입었던, 그러니까 슐랑의 대원들은 아마 전부 그 하트헌터 라는 것이 됐거나 되려고 할지도 모릅니다.\n슐랑이 힘을 추구하는 강한 자들만 끌어모아 만든 부대니까요.",
         "en-US": "[Ace]\nShulang's men who were wearing that new uniform could be Heart Hunters by now, or in the process of becoming them.\nShulang has filled his team with those who pursue power.",
         "pt-BR": "[Ace]\nOs seguidores de ^4D4DFFShulang^000000 podem ter se tornado ou vão se tornar Caçadores de Corações.\nEle formou um exército de pessoas que buscam um poder sobrenatural.",
         "es-ES": "[Ace]\nLos seguidores de ^4D4DFFShulang^000000 pueden haberse convertido o convertirse en Cazadores de Corazones.\nFormó un ejército de personas que buscan un poder sobrenatural."
     },
     "Tx6+Bw": {
-        "ko-KR": "여기에서도 하트헌터라니..",
         "en-US": "Heart Hunters... Not again...",
         "pt-BR": "São os Caça-Coração...",
         "es-ES": "Son los Cazadores de Corazones..."
     },
     "UB6+Bw": {
-        "ko-KR": "[에스트]\n하트헌터라는 것들 또 있었냐?\n얼마전 작전지에서 처리한 것들이 전부가 아니었단 말이지?",
         "en-US": "[Est]\nHave you dealt with these Heart Hunters before?\nSo, those we eliminated in our field of operations aren't the only ones.",
         "pt-BR": "[Est Loveloy]\nJá não lidamos com os Caça-Coração?\nEntão, aqueles que já eliminamos na operação passada não eram os únicos.",
         "es-ES": "[Est Loveloy]\n¿No nos hemos enfrentado ya a los Cazadores de Corazones?\nEntonces, los que eliminamos en la operación pasada no eran los únicos."
     },
     "UR6+Bw": {
-        "ko-KR": "[에스트]\n상대가 하트헌터라면 흥미가 좀 동하네.\n그런 이야기는 빨리 했었어야지.\n그렇다면 난 먼저 가보지.",
         "en-US": "[Est]\nIf we're fighting Heart Hunters, I'm interested.\nYou should have told me earlier.\nNow, I'm going to leave first.",
         "pt-BR": "[Est Loveloy]\nSe nosso inimigo é um Caça-Coração, estou interessada.\nVocê deveria ter dito isso antes.\nEntão, eu vou querer ir primeiro.",
         "es-ES": "[Est Loveloy]\nSi nuestro enemigo es un Cazador de Corazones, me interesa.\nDeberías haberlo dicho antes.\nEntonces, iré yo primero."
     },
     "Uh6+Bw": {
-        "ko-KR": "[에스트]\n거기, 아스라고 했나?",
         "en-US": "[Est]\nYou there. \nYou're Ace, right?",
         "pt-BR": "[Est Loveloy]\nEi, você. Ace, né?",
         "es-ES": "[Est Loveloy]\nOye, tú. ¿Ace, verdad?"
     },
     "Ux6+Bw": {
-        "ko-KR": "[아스]\n예? 예! 제가 도울 일이 있겠습니까?",
         "en-US": "[Ace]\nYes? \nYes, sir! \nIs there anything I can do to help?",
         "pt-BR": "[Ace]\nSim? Há algo que eu possa fazer para ajudar?",
         "es-ES": "[Ace]\n¿Sí? ¿Hay algo que pueda hacer para ayudar?"
     },
     "VB6+Bw": {
-        "ko-KR": "[에스트]\n당연한 소리 하지 말아 줄래?\n경호 말아 먹은 건 너라며. 네가 가서 진입 루트 알려줘야 할 거 아냐?\n왜 이래? 초짜같이.",
         "en-US": "[Est]\nYou're kidding, right?\nYou said you've failed your team. \nShouldn't you come with me and show me around?\nCome on, you can't be this dumb.",
         "pt-BR": "[Est Loveloy]\nLógico, mulher!\nVocê acabou de dizer que enfrentou os Caça-Coração na Regenschirm.\nVocê não deveria nos acompanhar até a entrada? Parece até que é uma novata.",
         "es-ES": "[Est Loveloy]\n¡Claro que sí!\nAcabas de decir que te enfrentaste a los Cazadores de Corazones en Regenschirm.\n¿No deberías acompañarnos hasta la entrada? Pareces una novata."
     },
     "VR6+Bw": {
-        "ko-KR": "[아스]\n그렇. .그렇군요. 그렇습니다.\n제가 가서 정황을 더 자세히 설명 드려야 할 텐데...",
         "en-US": "[Ace]\nI-I see. \nI'm sorry.\nI'd like to come with you and give you more details about the situation, but...",
         "pt-BR": "[Ace]\nS-sim... isso mesmo. É verdade.\nEu deveria levar vocês e explicar a situação com mais detalhes...",
         "es-ES": "[Ace]\nS-sí... así es. Tienes razón.\nDebería guiarlos y explicar la situación con más detalle..."
     },
     "Vh6+Bw": {
-        "ko-KR": "부사장님...",
         "en-US": "Mr. Vice President...",
         "pt-BR": "Senhor Kaya...",
         "es-ES": "Señor Kaya..."
     },
     "Vx6+Bw": {
-        "ko-KR": "[중년의 남자]\n내 걱정 말고 가보게.\n나야 여기 있으면 안전한 거 아닌가?\n이쪽에서도 내가 할 일이 있겠지. 자넨 자네 일을 하게.",
         "en-US": "[Middle-aged Man]\nGo. \nDon't worry about me.\nI'll be safe here.\nYou do what you have to do. \nI'll see what I can do here.",
         "pt-BR": "[Cavalheiro]\nNão se preocupe comigo, vá.\nVou estar seguro aqui.\nTambém tenho trabalho a fazer aqui. Você deve fazer o seu.",
         "es-ES": "[Caballero]\nNo te preocupes por mí, ve.\nEstaré a salvo aquí.\nTambién tengo trabajo que hacer. Tú haz el tuyo."
     },
     "WB6+Bw": {
-        "ko-KR": "[아스]\n알겠습니다. 그러면 전 에스트님과 함께 행동하겠습니다.",
         "en-US": "[Ace]\nYes, sir.\nThen, I'll go with Est.",
         "pt-BR": "[Ace]\nOk. Então eu vou atuar com a Comandante Est.",
         "es-ES": "[Ace]\nDe acuerdo. Entonces actuaré junto a la Comandante Est."
     },
     "WR6+Bw": {
-        "ko-KR": "[에스트]\n테스, 뒷 일은 맡기마.\n아아. 귀찮아라.",
         "en-US": "[Est]\nTess, I'll leave the rest to you.\nUgh, I can't believe I have to do this.",
         "pt-BR": "[Est Loveloy]\nTess, o resto é contigo.\nHaha não acredito que vou fazer isso.",
         "es-ES": "[Est Loveloy]\nTess, el resto queda en tus manos.\nJaja, no puedo creer que vaya a hacer esto."
     },
     "Wh6+Bw": {
-        "ko-KR": "[카야 토스]\n …. 번개같은 분이군.\n작전 시행 전에 천천히 이야기를 나눌 수 있으면 좋겠소만.",
         "en-US": "[Kaya Tos]\n... He's like lightning.\nI hope we can talk before the operation.",
         "pt-BR": "[Kaya Toss]\n... Elas são rápidas.\nEspero que possamos conversar antes que a operação comece.",
         "es-ES": "[Kaya Toss]\n... Son rápidas.\nEspero que podamos hablar antes de que comience la operación."
     },
     "Wx6+Bw": {
-        "ko-KR": "카야님께서 하실 말씀이 있나봅니다.",
         "en-US": "It seems Mr. Kaya wants to talk to you.",
         "pt-BR": "Eu acho que Kaya tem algo a dizer.",
         "es-ES": "Creo que Kaya tiene algo que decir."
     },
     "XB6+Bw": {
-        "ko-KR": "중년의 신사",
         "en-US": "Middle-aged Gentleman",
         "pt-BR": "Cavalheiro",
         "es-ES": "Caballero"
     },
     "XR6+Bw": {
-        "ko-KR": "[중년의 남자]\n아직은 내가 나설 자리가 아닌 것 같으니, 옆의 테스군과 이야기 나눠 보시겠소?",
         "en-US": "[Middle-aged Man]\nI don't think I should step in, just yet. \nWhy don't you talk to Mr. Tess next to me?",
         "pt-BR": "[Cavalheiro]\nAcredito que você deva falar com Tess, primeiro.",
         "es-ES": "[Caballero]\nCreo que deberías hablar primero con Tess."
     },
     "Xh6+Bw": {
-        "ko-KR": "[카야 토스]\n이제야 정식으로 소개할 수 있겟군.\n카야 토스라고 하오. 레켄베르 사업부에서 일하고 있소.",
         "en-US": "[Kaya Tos]\nFinally, I can introduce myself.\nMy name is Kaya Tos, and I'm from Rekenber's Business Department.",
         "pt-BR": "[Kaya Toss]\nAgora, posso me apresentar oficialmente.\nMe chame de Kaya Toss. Eu trabalho no departamento de negócios da Rekenber, sou o Vice-Presidente da Corporação.",
         "es-ES": "[Kaya Toss]\nAhora, permíteme presentarme oficialmente.\nLlámame Kaya Toss. Trabajo en el departamento de negocios de Rekenber, soy el Vicepresidente de la Corporación."
     },
     "Xx6+Bw": {
-        "ko-KR": "[카야 토스]\n기업의 경호 인력이 적지 않은데 여기까지 찾아온 연유는 그 경호 인력들이 배신했기 때문이오.",
         "en-US": "[Kaya Tos]\nMy company has a sizable security team, but I had to come all the way here seeking help because a majority of our security team has turned against us.",
         "pt-BR": "[Kaya Toss]\nNossa corporação possui um enorme time de segurança, mas a maior parte dela nos traiu. Esse é o motivo de eu estar aqui.",
         "es-ES": "[Kaya Toss]\nNuestra corporación tiene un enorme equipo de seguridad, pero la mayoría nos traicionó. Por eso estoy aquí."
     },
     "YB6+Bw": {
-        "ko-KR": "[카야 토스]\n현재 남은 그러니까 슐랑과 같은 배신자를 제외한 인력들은 레겐쉬름을 폐쇄하는 데만 전력을 다하는 중이라...\n도움을 청하기 위해 여기저기 다녀봤는데 썩 뾰족한 수가 없더이다.",
         "en-US": "[Kaya Tos]\nThe rest of the team can barely keep Shulang and other traitors inside Regenschirm.\nWe looked to other places for help, but to no avail.",
         "pt-BR": "[Kaya Toss]\nO resto dos seguranças sequer conseguiu capturar ^4D4DFFShulang^000000 na Regenschirm...\nProcurei ajuda em todos os lugares, mas sem sucesso.",
         "es-ES": "[Kaya Toss]\nEl resto de los guardias ni siquiera logró capturar a ^4D4DFFShulang^000000 en Regenschirm...\nBusqué ayuda en todas partes, pero sin éxito."
     },
     "YR6+Bw": {
-        "ko-KR": "[테스]\n이례적으로 기업의 총수 그러니까 레켄베르 회장의 직속 비서실에서 대통령궁으로 직접 요청이 들어왔습니다.",
         "en-US": "[Tess]\nThis is extraordinary, but the Presidential Palace received a request directly from the Secretary Office of Rekenber CEO.",
         "pt-BR": "[Tess]\nO Palácio Presidencial recebeu o pedido de ajuda feito pessoalmente pelo presidente da Corporação Rekenber. Algo totalmente incomum.",
         "es-ES": "[Tess]\nEl Palacio Presidencial recibió la solicitud de ayuda hecha personalmente por el presidente de la Corporación Rekenber. Algo totalmente inusual."
     },
     "Yh6+Bw": {
-        "ko-KR": "[테스]\n하지만 공화국의 일반 병사로는 대응이 힘든 상대였고, 결국 리벨리온과 당신의 힘을 빌리러 온 것입니다.",
         "en-US": "[Tess]\nBut even the regular forces of the government couldn't handle them. That's why we came here to ask for help from you and the Rebellion.",
         "pt-BR": "[Tess]\nEntretanto, até o exército da República não conseguiu lidar com a situação. Então, viemos pedir ajuda à Rebelião.",
         "es-ES": "[Tess]\nSin embargo, ni siquiera el ejército de la República pudo manejar la situación. Por eso vinimos a pedir ayuda a la Rebelión."
     },
     "Yx6+Bw": {
-        "ko-KR": "[카야 토스]\n에스트님께서 그렇게 화를 내신 것도 이해는 하오.\n정도경영의 본질을 흐리고 제멋대로 일을 진행하는 자들이 많다는 것도 알고 있소.",
         "en-US": "[Kaya Tos]\nI understand why Est is not happy with us.\nI admit that there are some of us who ignore business ethics and responsibility.",
         "pt-BR": "[Kaya Toss]\nEu entendo por que a senhorita Est estava tão brava.\nEu admito que nós, da Rekenber, ignoramos o compromisso com a ética e responsabilidade.",
         "es-ES": "[Kaya Toss]\nEntiendo por qué la señorita Est estaba tan enfadada.\nAdmito que nosotros, en Rekenber, ignoramos nuestro compromiso con la ética y la responsabilidad."
     },
     "ZB6+Bw": {
-        "ko-KR": "[카야 토스]\n내부의 썩어버린 암덩어리를 개혁 해 보고자 이 자리까지 왔으니말이오.\n다만 이 썩어버린 인사들이 정계에 그렇게 뿌리깊게 박혀있는 줄은 몰랐소.",
         "en-US": "[Kaya Tos]\nAnd that's why I came here, to get rid of the rotting tumor in my company.\nI just didn't know it had such powerful political and economical connections.",
         "pt-BR": "[Kaya Toss]\nPor isso, vim aqui. Para remover as maçãs podres de dentro da Corporação.\nSó não sabíamos que essas maçãs tinham ligações políticas e econômicas.",
         "es-ES": "[Kaya Toss]\nPor eso vine aquí. Para eliminar las manzanas podridas dentro de la Corporación.\nSolo que no sabíamos que esas manzanas tenían conexiones políticas y económicas."
     },
     "ZR6+Bw": {
-        "ko-KR": "[카야 토스]\n시민의 안전이 위협받을지도 모르는데, 기업의 사고를 밝힐 수 없고, 공식적으로 도움을 청하거나 받을 수도 없다니.",
         "en-US": "[Kaya Tos]\nWhat happened at the company is threatening public safety, and yet I'm not allowed to share it with the public or openly ask for help.",
         "pt-BR": "[Kaya Toss]\nO que aconteceu na corporação pode ser uma ameaça à população e nós não podemos vir à público pedir ajuda.",
         "es-ES": "[Kaya Toss]\nLo que ocurrió en la corporación puede ser una amenaza para la población y no podemos pedir ayuda públicamente."
     },
     "Zh6+Bw": {
-        "ko-KR": "[테스]\n하아, 잠시만요.\n물론 틀린 말은 아닙니다만 이번 건을 비밀리에 진행하는 이유는 따로 있습니다.\n아무래도 각하께서 그쪽 회장님과 모종의 거래를 하신 것 같으니까요.",
         "en-US": "[Tess]\n*Sigh* Wait a minute.\nWhat you said isn't entirely wrong, but there's a reason it has to be kept secret.\nI believe Mr. President has made a deal with your president.",
         "pt-BR": "[Tess]\nEr... espere aí.\nVocê contou uma meia-verdade, existe uma boa razão para agirmos escondidos da população.\nAcredito que o Presidente da República fez um acordo com o presidente da sua corporação.",
         "es-ES": "[Tess]\nEh… espera un momento.\nContaste una media verdad, hay una buena razón para que actuemos a escondidas de la población.\nCreo que el Presidente de la República hizo un acuerdo con el presidente de tu corporación."
     },
     "Zx6+Bw": {
-        "ko-KR": "[카야 토스]\n아니오. 애초에 제대로 된 인사들이 정치를 하고 있다면 이런 거래 따위는 필요하지도 않았을 것이오!",
         "en-US": "[Kaya Tos]\nWell, my president wouldn't have had to make a deal with him if he and his administration did their job!",
         "pt-BR": "[Kaya Toss]\nBom, não precisaríamos fazer acordo se o Presidente da República fizesse o trabalho dele direito!",
         "es-ES": "[Kaya Toss]\n¡Bueno, no necesitaríamos acuerdos si el Presidente de la República hiciera bien su trabajo!"
     },
     "aB6+Bw": {
-        "ko-KR": "[테스]\n애초에 기업이 제대로 사람 관리를 했다면 이 사태까지 안 왔을 거란 생각은 못하십니까?",
         "en-US": "[Tess]\nDo you not know that if your company actually took good care of its people, this would never have happened?",
         "pt-BR": "[Tess]\nVocê não acha que essa situação teria acontecido se a Rekenber fosse uma empresa ética?",
         "es-ES": "[Tess]\n¿No crees que esta situación no habría ocurrido si Rekenber fuera una empresa ética?"
     },
     "aR6+Bw": {
-        "ko-KR": "[카야 토스]\n … ….\n미안하오. 내가 흥분했군. 이래서야 그치들과 뭐가 다르겠나.\n지금은 앞으로의 상황이 더 나아질 것만 생각해야겠지.",
         "en-US": "[Kaya Tos]\n ...\nI'm sorry. I got worked up. I'm no better than those corrupt people, blaming you.\nI should focus on the situation we're in.",
         "pt-BR": "[Kaya Toss]\n....\nDesculpe, me exaltei. Somos todos farinhas do mesmo saco.\nDevemos focar na situação de agora.",
         "es-ES": "[Kaya Toss]\n....\nLo siento. Me dejé llevar. No soy mejor que esas personas corruptas al culparte a ti.\nDebemos centrarnos en la situación actual."
     },
     "ah6+Bw": {
-        "ko-KR": "[테스]\n동감입니다. 급한 불부터 끄고 봐야겠죠.\n{0}님,\n가능하면 에스트님과 합류해서 조사를 좀 해주시겠습니까?",
         "en-US": "[Tess]\nI agree. Let's take care of the matter at hand first.\n{0},\nwould you be so kind as to join Est and help him with his investigation?",
         "pt-BR": "[Tess]\nEu concordo. Devemos controlar a situação, primeiro.\nEi, {0}.\nVocê gostaria de se juntar à Comandante Est na investigação?",
         "es-ES": "[Tess]\nEstoy de acuerdo. Primero debemos controlar la situación.\nOye, {0}.\n¿Te gustaría unirte a la Comandante Est en la investigación?"
     },
     "ax6+Bw": {
-        "ko-KR": "[테스]\n아무래도 아스님이 언급하신 '하트 헌터'라는 것이 걸리는군요.\n지난번 사건과 연관점이 있을지도 모르니까요. 룬 미드가츠쪽에 보낼 추가 정보가 있을지도 모릅니다.",
         "en-US": "[Tess]\nI can't stop thinking about the Heart Hunters that Ace mentioned.\nThey might be related to our last case, and have extra information that we could send to Rune-Midgarts.",
         "pt-BR": "[Tess]\nPode ser que os 'Caça-Coração' mencionados por Ace estão relacionados à nossa última missão.\nPode haver informações adicionais para enviar ao Reino de Rune-Midgard.",
         "es-ES": "[Tess]\nPuede que los 'Cazadores de Corazones' mencionados por Ace estén relacionados con nuestra última misión.\nPodría haber información adicional para enviar al Reino de Rune-Midgard."
     },
     "bB6+Bw": {
-        "ko-KR": "[테스]\n카야님과 저는 이곳에 남아서 들어오는 자료와 정보를 분석하겠습니다.\n전투는 에스트님과 여러분께 맡긴다고 전해 주십시오.",
         "en-US": "[Tess]\nKaya and I will stay here and analyze the data we receive.\nPlease tell Est that we'll trust him with the fighting part.",
         "pt-BR": "[Tess]\nO sr. Kaya e eu ficaremos aqui para analisar os dados e informações recebidas.\nDiga à Comandante Est que nós confiamos nela.",
         "es-ES": "[Tess]\nEl señor Kaya y yo nos quedaremos aquí para analizar los datos e información recibidos.\nDile a la Comandante Est que confiamos en ella."
     },
     "bR6+Bw": {
-        "ko-KR": "[카야 토스]\n잘 부탁하오.",
         "en-US": "[Kaya Tos]\nThank you.",
         "pt-BR": "[Kaya Toss]\nBoa sorte.",
         "es-ES": "[Kaya Toss]\nBuena suerte."
     },
     "bh6+Bw": {
-        "ko-KR": "[테스]\n밖에서 뵙죠.",
         "en-US": "[Tess]\nI'll see you outside.",
         "pt-BR": "[Tess]\nVejo você lá fora.",
         "es-ES": "[Tess]\nNos vemos afuera."
     },
     "bx6+Bw": {
-        "ko-KR": "[카야 토스]\n도움이 되지 못해 미안하오.\n지저분한 싸움에 끼어들게 만든 것 같아 면목없소.",
         "en-US": "[Kaya Tos]\nI'm sorry I can't be of help.\nAnd that I got you involved in such a nasty feud.",
         "pt-BR": "[Kaya Toss]\nLamento não poder ajudar em nada.\nSinto muito por fazer você testemunhar um barraco.",
         "es-ES": "[Kaya Toss]\nLamento no poder ayudar en nada.\nSiento que hayas tenido que presenciar esta discusión."
     },
     "cB6+Bw": {
-        "ko-KR": "레켄베르 상급가드",
         "en-US": "Senior Rekenber Guard",
         "pt-BR": "Guarda da Rekenber",
         "es-ES": "Guarda de Rekenber"
     },
     "cR6+Bw": {
-        "ko-KR": "[아스]\n앗, 안녕하십니까! 레켄베르 경호단 안전지원대의 아스입니다!\n현재 카야 토스님을 수행하고 있습니다!",
         "en-US": "[Ace]\nAh, hello! I'm Ace, the Safety Support Team Captain of Rekenber's Security Department!\nI'm currently assisting Mr. Vice President Kaya Tos!",
         "pt-BR": "[Ace]\nAh, o-oi! Eu sou Ace, da Equipe de Segurança Rekenber!\nEstou de guarda-costas do Vice-Presidente, senhor Kaya-Toss",
         "es-ES": "[Ace]\nAh, h-hola. Soy Ace, del Equipo de Seguridad de Rekenber.\nEstoy escoltando al Vicepresidente, el señor Kaya Toss."
     },
     "ch6+Bw": {
-        "ko-KR": "에스트 러브로이",
         "en-US": "Est Loveroy",
         "pt-BR": "Est Loveloy",
         "es-ES": "Est Loveloy"
     },
     "cx6+Bw": {
-        "ko-KR": "[에스트]\n그러니까 우리가 그걸 왜 도와야 하냐고?\n철천지 원수도 납득 하고 손에서 칼 놓을 정도로 다시 설명 좀 해보겠어?",
         "en-US": "[Est]\nSo, why should we help you?\nMake me understand why we should help our archenemy.",
         "pt-BR": "[Est Loveloy]\nPor que devemos ajudá-lo?\nMe faça entender por que devo ajudar nosso maior inimigo.",
         "es-ES": "[Est Loveloy]\n¿Por qué deberíamos ayudarte?\nExplícame por qué deberíamos ayudar a nuestro mayor enemigo."
     },
     "dB6+Bw": {
-        "ko-KR": "[엘레나 볼코바]\n아아, 너무나 평화로워.\n너 완전 헛걸음 했다.\n...\n는 농담이고 아무래도 조사에 시간이 필요한 것 같네.",
         "en-US": "[Elena Volkova]\nOh, everything's fine here.\nYou totally wasted your time coming here.\n...\nNo. I was kidding. Our investigation will take longer than we thought.",
         "pt-BR": "[Elena Bolkova]\nAh... tudo aqui é tão fácil.\nVocê perdeu seu tempo vindo aqui.\n...\nHaha, eu estava sendo irônica. A investigação deve tomar mais tempo do que imaginei.",
         "es-ES": "[Elena Bolkova]\nAh... todo aquí es tan fácil.\nPerdiste tu tiempo viniendo.\n...\nJaja, estaba siendo irónica. La investigación tomará más tiempo de lo que imaginé."
     },
     "dR6+Bw": {
-        "ko-KR": "무슨 문제라도?",
         "en-US": "Is there a problem?",
         "pt-BR": "Algum problema?",
         "es-ES": "¿Algún problema?"
     },
     "dh6+Bw": {
-        "ko-KR": "[엘레나 볼코바]\n저길 봐. 강철로 세워진 격벽이 보여?\n분명히 이 시설은 광물을 바로 제련하는 시설일텐데 말이야.\n갱도가 있어야 할 자리가 전부 벽으로 막혀있어.",
         "en-US": "[Elena Volkova]\nSee the steel wall over there?\nThis building is supposed to be a mineral refinery,\nand yet the mining tunnel is completely blocked by that wall.",
         "pt-BR": "[Elena Bolkova]\nTá vendo aquela muralha feita de aço?\nEsse local deveria ser uma mineradora.\nTodavia, a passagem está bloqueada por um muro gigantesco.",
         "es-ES": "[Elena Bolkova]\n¿Ves ese muro hecho de acero?\nEste lugar se suponía que era una mina.\nSin embargo, el paso está bloqueado por un muro gigantesco."
     },
     "dx6+Bw": {
-        "ko-KR": "[엘레나 볼코바]\n조사하던 녀석들에 의하면 폐쇄 된 후 모종의 목적으로 세워진 격벽같다고 하는군.\n이래서야 수상한 냄새 풀풀 나지않나.",
         "en-US": "[Elena Volkova]\nOur investigators think it was erected after the mine was closed, for a reason we don't know yet.\nThere's something fishy about it, isn't there?",
         "pt-BR": "[Elena Bolkova]\nSuspeitamos que essa muralha tenha sido erguida após a mineradora ter fechado.\nSó não sabemos o motivo desse muro aí.",
         "es-ES": "[Elena Bolkova]\nSospechamos que este muro se haya construido después de que la mina cerrara.\nSolo que no sabemos por qué lo construyeron."
     },
     "eB6+Bw": {
-        "ko-KR": "[엘레나 볼코바]\n어쨌든 테스가 만족할만한 정보를 얻으려면 저 격벽 너머로 가야겠지?\n대원들이 출입구 확보를 최우선으로 작업 중이니까 열리면 바로 조사하라고.",
         "en-US": "[Elena Volkova]\nAnyway, if we want to find information good enough to satisfy Tess, then we'll probably have to go beyond that wall.\nOur men are trying to secure an entrance before everything else. \nYou should enter it as soon as it becomes available.",
         "pt-BR": "[Elena Bolkova]\nBom, se quisermos coletar informações para Tess, precisaremos passar por esse muro, certo?\nNossa tropa está tentando garantir uma entrada, então, por favor, investigue assim que abrirem.",
         "es-ES": "[Elena Bolkova]\nBien, si queremos reunir información para Tess, tendremos que pasar ese muro, ¿verdad?\nNuestra tropa está intentando asegurar una entrada, así que investiga en cuanto la abran."
     },
     "eR6+Bw": {
-        "ko-KR": "[엘레나 볼코바]\n루키 알지? 루키도 있으니까 궁금한건 그녀석한테 물어보고.",
         "en-US": "[Elena Volkova]\nYou know Rookie, right? \nHe's here, too. \nIf you have questions, ask him.",
         "pt-BR": "[Elena Bolkova]\nSabe o Lukie? Ele está aqui com a gente. Se você tiver alguma dúvida, pergunte a ele.",
         "es-ES": "[Elena Bolkova]\n¿Conoces a Lukie? Está aquí con nosotros. Si tienes dudas, pregúntale."
     },
     "eh6+Bw": {
-        "ko-KR": "[엘레나 볼코바]\n격벽 너머에 뭐가 있는지 알아봐야겠지.\n별 거 없으면 이대로 철수하고, 별 게 있다면 오랜만에 힘 좀 쓰겠는걸?\n당연히 나는 후자가 좋다.",
         "en-US": "[Elena Volkova]\nWe need to know what's behind that wall.\nIf there's nothing, then we'll just leave. If not, I'll get to let off some steam after a long time.\nI prefer the later, of course.",
         "pt-BR": "[Elena Bolkova]\nTemos que descobrir o que está atrás dessa muralha.\nSe não houver nada de especial, vamos embora, mas se esconder algo, vou deitar tudo na porrada.\nClaro que eu gosto da última opção.",
         "es-ES": "[Elena Bolkova]\nTenemos que descubrir qué hay detrás de ese muro.\nSi no hay nada especial, nos iremos, pero si ocultan algo, lo destrozaré todo.\nClaro que me gusta más la última opción."
     },
     "ex6+Bw": {
-        "ko-KR": "[엘레나 볼코바]\n격벽 너머 조사를 할테지?\n뭔가 수상한 녀석이 나타나면 해치워버리라고!",
         "en-US": "[Elena Volkova]\nYou're going to check beyond the wall, right?\nGet rid of all suspicious creatures you see in there.",
         "pt-BR": "[Elena Bolkova]\nVocê vai investigar o que está atrás da muralha?\nLivre-se de todas as criaturas suspeitas de lá!",
         "es-ES": "[Elena Bolkova]\n¿Vas a investigar lo que hay detrás del muro?\n¡Elimina a todas las criaturas sospechosas de allí!"
     },
     "fB6+Bw": {
-        "ko-KR": "[엘레나 볼코바]\n뭐야? 왜 그렇게 못 볼 꼴 본 모양이야?\n괴물이 나와?\n그렇단말이지...?",
         "en-US": "[Elena Volkova]\nWhat? Why do you look so serious?\nMonsters?\nMonsters, huh?",
         "pt-BR": "[Elena Bolkova]\nEita, tá tudo bem com você?\nExistem monstros?\nSério...?",
         "es-ES": "[Elena Bolkova]\nEh, ¿por qué te ves tan serio?\n¿Hay monstruos?\n¿En serio...?"
     },
     "fR6+Bw": {
-        "ko-KR": "[엘레나 볼코바]\n그럼 이제 이 엘레나 볼코바님의 출전 차례구만!\n모험가, 넌 지금 당장 야옹이로 달려가서 테스에게 알려주라고.",
         "en-US": "[Elena Volkova]\nAlright, then it's time for Elena Volkova to step in!\nAdventurer, run back to the Cat and report to Tess.",
         "pt-BR": "[Elena Bolkova]\nCerto, então, é a vez da Elena Bolkova meter pipoco!\nViajante, volte para a Miado de Bala agora mesmo e conte a Tess.",
         "es-ES": "[Elena Bolkova]\nBien, ¡entonces es hora de que Elena Bolkova dispare!\nTrotamundos, vuelve ahora mismo a Maullido de Bala e informa a Tess."
     },
     "fh6+Bw": {
-        "ko-KR": "[엘레나 볼코바]\n다른녀석들의 조사내용도 너랑 별반 차이가 없어.\n아무래도 여긴 쓰레기장 같으니까 말야.",
         "en-US": "[Elena Volkova]\nThe other investigators have come to a similar conclusion as yours.\nThis place is a dump.",
         "pt-BR": "[Elena Bolkova]\nAs investigações dos outros não diferem da sua.\nEsse lugar é como um depósito de lixo.",
         "es-ES": "[Elena Bolkova]\nLas investigaciones de los demás no difieren de las tuyas.\nEste lugar es como un vertedero."
     },
     "fx6+Bw": {
-        "ko-KR": "[엘레나 볼코바]\n여긴 우리 USU팀이 어떻게든 해볼 테니까, 넌 가서 테스에게 상황이나 보고해 줘.\n그동안 난 여기서 손 좀 풀어야겠다. 오랜만이야. 하핫.",
         "en-US": "[Elena Volkova]\nWe the USU Team will take care of this place. \nGo report to Tess.\nFinally, I get to let off some steam. \nIt's been a while. \nTeehee!",
         "pt-BR": "[Elena Bolkova]\nNossa equipe da US fará algo a respeito, então vá em frente e relate a situação a Tess.\nFinalmente, vamos ter um pouco de ação! Hahah.",
         "es-ES": "[Elena Bolkova]\nNuestro equipo de la US se encargará de esto, así que adelante, informa la situación a Tess.\n¡Por fin tendremos algo de acción! Jajaja."
     },
     "gB6+Bw": {
-        "ko-KR": "[엘레나 볼코바]\n이 지역은 '섬멸'중심의 작전을 펼치기로 했다.\n아무래도 생체실험에서 실패한 폐기물을 버린 곳인 것 같네.",
         "en-US": "[Elena Volkova]\nWe've decided to annihilate everything in this area.\nWe believe they're failed bio experiment subjects dumped here.",
         "pt-BR": "[Elena Bolkova]\nDecidimos eliminar qualquer coisa dessa área.\nAparentemente, esse lugar é um depósito de experimentos descartados.",
         "es-ES": "[Elena Bolkova]\nDecidimos eliminar todo lo que haya en esta área.\nAl parecer, este lugar es un depósito de experimentos descartados."
     },
     "gR6+Bw": {
-        "ko-KR": "[엘레나 볼코바]\n저런 녀석들이 이 격벽을 넘어 밖으로 나가면 큰일 나겠지.\n오랜만에 공짜 훈련이군!",
         "en-US": "[Elena Volkova]\nWe can't let them come around this wall, out into the world.\nIt's free training for me. \nIt's about time!",
         "pt-BR": "[Elena Bolkova]\nNão podemos deixar que essas aberrações ultrapassem a muralha.\nPra mim, isso tudo é mel na chupeta!",
         "es-ES": "[Elena Bolkova]\nNo podemos permitir que estas aberraciones crucen el muro.\n¡Para mí, esto es pan comido!"
     },
     "gh6+Bw": {
-        "ko-KR": "엘레나: 후후후. 뭐가 됐든 쳐부수면 되는거 아닐까.",
         "en-US": "Elena: Ho ho ho. I don't care what they are, so long as I can destroy them.",
         "pt-BR": "Elena: Hohoho... Hora de dar uns pipocos.",
         "es-ES": "Elena: Jojojo... Hora de disparar."
     },
     "gx6+Bw": {
-        "ko-KR": "루키",
         "en-US": "Rookie",
         "pt-BR": "Lukie",
         "es-ES": "Lukie"
     },
     "hB6+Bw": {
-        "ko-KR": "[루키]\n모험가님이 오셨군요?\n테스님이 보내셨나요? 확실히 그쪽에서 원하는 정보라면 모험가님이 직접 확인하시는 게 정확할지도요.",
         "en-US": "[Rookie]\nAdventurer, you came.\nDid Tess send you? \nSure, I understand he wants you to check the information that's found here for him.",
         "pt-BR": "[Lukie]\nAh, você veio?\nTess te enviou? Claro, né? Se ele quer mais informações, ele pediria para você mesmo.",
         "es-ES": "[Lukie]\nAh, ¿viniste?\n¿Tess te envió? Claro, ¿no? Si necesitara más información, te lo pediría a ti."
     },
     "hR6+Bw": {
-        "ko-KR": "[루키]\n일단 여길 좀 보시겠어요?\n삼중으로 처리 된 문이에요. 우선은 여길 열어보기 위해 작업을 진행하는 중이죠.",
         "en-US": "[Rookie]\nWould you take a look here?\nThis door has triple layers. \nWe're trying to unlock it and see what's behind it.",
         "pt-BR": "[Lukie]\nTá vendo aquilo?\nÉ uma porta com 3 camadas de aço. Estamos trabalhando nela para abrir o caminho.",
         "es-ES": "[Lukie]\n¿Ves eso?\nEs una puerta con tres capas de acero. Estamos trabajando para abrir el camino."
     },
     "hh6+Bw": {
-        "ko-KR": "[루키]\n물론 파리의 날개나 텔레포테이션 같은 마법을 쓰면 해결되긴 하지만\n그런 요행을 바라기엔 저희 인원이 좀 많죠. 하하 ….\n기왕이면 두 다리로 직접 가는 편이 좋잖아요?",
         "en-US": "[Rookie]\nOf course, we could use ^4D4DFFFly Wings or Teleport^000000 instead,\nif only there weren't so many of us. \nHeh heh.\nBesides, walking is better for your health, right?",
         "pt-BR": "[Lukie]\nAh, dá pra contornar ela usando ^4D4DFFTeleporte ou Asa de Mosca^000000.\nMas a equipe tem MUITA gente e não tem para todo mundo...\nAlém disso, é melhor usas as pernas, né?",
         "es-ES": "[Lukie]\nAh, se puede rodear usando ^4D4DFFTeletransporte o Ala de Mosca^000000.\nPero el equipo es MUY grande y no hay para todos...\nAdemás, es mejor usar las piernas, ¿no?"
     },
     "hx6+Bw": {
-        "ko-KR": "[루키]\n다른 대원들도 진입 가능한 장소를 찾는 중인데 괜찮다면 모험가님도 찾아봐 주세요.\n아무래도 이쪽은 시간이 좀 걸릴 것 같거든요.",
         "en-US": "[Rookie]\nThe others are looking for other possible entry points. \nIf you're not busy, please help us with that, too.\nI'm afraid unlocking this door will take a long time.",
         "pt-BR": "[Lukie]\nDê uma volta e fale com os outros membros da equipe para entender a situação.\nAcho que essa operação vai levar algum tempo.",
         "es-ES": "[Lukie]\nDa una vuelta y habla con los demás miembros del equipo para entender la situación.\nCreo que esta operación llevará algo de tiempo."
     },
     "iB6+Bw": {
-        "ko-KR": "[루키]\n여기서 들리는 소리로는 저 너머가 폐광 같지는 않으니까요. 조심하세요.",
         "en-US": "[Rookie]\nJudging by the sound coming from behind the door, I don't think this is a closed mine.\nPlease be careful.",
         "pt-BR": "[Lukie]\nParando para pensar, o barulho que vem depois dessa muralha não soa como uma mineradora abandonada. Tenha cuidado.",
         "es-ES": "[Lukie]\nPensándolo bien, el ruido que viene detrás de este muro no suena como una mina abandonada. Ten cuidado."
     },
     "iR6+Bw": {
-        "ko-KR": "[루키]\n여기 이 문 말고도 진입 가능한 곳을 찾으면 더 좋고요.",
         "en-US": "[Rookie]\nAlso, it's better if we secure multiple entry points.",
         "pt-BR": "[Lukie]\nSeria melhor se encontrássemos mais lugares acessíveis além desta porta.",
         "es-ES": "[Lukie]\nSería mejor si encontráramos más accesos además de esta puerta."
     },
     "ih6+Bw": {
-        "ko-KR": "[루키]\n헤에... 감시탑과 개구멍을 찾으셨다구요?\n개구멍이 너무 작아서 사람은 무리? 하하... 그것 참 아쉽네요.",
         "en-US": "[Rookie]\nHeh. So, you've found a watchtower and a small hole.\nBut the hole is too small for grown men to pass through.\nAh, that's a shame.",
         "pt-BR": "[Lukie]\nEi... Você encontrou uma torre de vigia e um buraco?\nE o buraco é pequeno demais para adultos passarem? Ahh... uma pena.",
         "es-ES": "[Lukie]\nOye... ¿Encontraste una torre de vigilancia y un agujero?\n¿Y el agujero es demasiado pequeño para que pasen adultos? Ahh... qué pena."
     },
     "ix6+Bw": {
-        "ko-KR": "[루키]\n그 개구멍 쓸 수 있었으면 제 노력이 수포가 되는거잖아요?\n후훗 실망하지 마세요!\n이 문의 잠금 장치를 풀었거든요.",
         "en-US": "[Rookie]\nIf we could use that hole, my effort so far would have gone to waste.\nHah hah, don't be disappointed just yet.\nI've unlocked this door!",
         "pt-BR": "[Lukie]\nSe a gente pudesse atravessar o buraco, todo nosso trabalho teria sido mais fácil, né?\nPorque agora nós temos uma porta destrancada!!\nOlha só!",
         "es-ES": "[Lukie]\nSi pudiéramos pasar por el agujero, todo nuestro trabajo habría sido más fácil, ¿verdad?\n¡Porque ahora tenemos una puerta desbloqueada!\n¡Mira!"
     },
     "jB6+Bw": {
-        "ko-KR": "[루키]\n그런데 이거 이쪽에서 조작단추를 누르고 있어야 문이 열려있고 손을 떼면 닫혀버린답니다.\n이건 별로 이쪽에서 저쪽으로 건너갈 의사가 없다는 것 아닐까요?",
         "en-US": "[Rookie]\nBut there's a problem. \nSomeone has to hold down on this control button to keep it open.\nWhoever designed this door had no intention of going behind it often.",
         "pt-BR": "[Lukie]\nPorém, alguém tem que ficar pressionando o botão de abertura para outra pessoa passar.\nSe soltar o botão, a porta fecha automaticamente.",
         "es-ES": "[Lukie]\nPero alguien tiene que mantener presionado el botón de apertura para que otra persona pase.\nSi se suelta el botón, la puerta se cierra automáticamente."
     },
     "jR6+Bw": {
-        "ko-KR": "[루키]\n2인 1조로 행동한다 해도... 이런 방식은 불편하니까요.\n아무래도 이건 '집어넣겠다'라는 의지로 만들어진 것 같은데 ….",
         "en-US": "[Rookie]\nEven if you have someone else with you, this system is still inconvenient.\nI think this door was just made to hold back whatever's behind.",
         "pt-BR": "[Lukie]\nEntão... mesmo se um grupo de 2 pessoas vier aqui, uma delas vai ter que ficar de fora.\nAlguém queria essa porta sempre fechada...",
         "es-ES": "[Lukie]\nAsí que... incluso si viene un grupo de dos personas, una tendrá que quedarse fuera.\nAlguien quería que esta puerta permaneciera siempre cerrada..."
     },
     "jh6+Bw": {
-        "ko-KR": "집어넣겠다?",
         "en-US": "Hold back?",
         "pt-BR": "Que sistema estranho.",
         "es-ES": "Qué sistema tan extraño."
     },
     "jx6+Bw": {
-        "ko-KR": "[루키]\n이런 비슷한 장치가 쓰이는 곳이 있긴 해요.\n감옥이라고. 교도소요. 악질 수감자용이죠. … …. 어라?\n어라? 어라? 설마 여기 범죄자 수용소인가?",
         "en-US": "[Rookie]\nI've seen similar devices before.\nIn prisons. Penitentiaries, where heinous criminals are kept--err.\nWait a minute. \nIs this a prison?",
         "pt-BR": "[Lukie]\nTem vários lugares que usam esse sistema.\nÉ muito usado na prisão. Feito para evitar que prisioneir-- ei!\nSerá que isso tudo é uma prisão?",
         "es-ES": "[Lukie]\nHay muchos lugares que usan este sistema.\nSe utiliza mucho en las prisiones. Hecho para evitar que los prisioner— ¡eh!\n¿Será que todo esto es una prisión?"
     },
     "kB6+Bw": {
-        "ko-KR": "[루키]\n아니 아니죠. 그런 시설이라면 테스씨가 몰랐을리 없죠.\n하아, 결국은 직접 들어가 보는 수 밖에 없는거죠.",
         "en-US": "[Rookie]\nNo, it can't be. \nIf it was, Tess would have known.\nBah, we won't know until we go in.",
         "pt-BR": "[Lukie]\nNão, não. Se fosse, Tess saberia.\nBom, só saberemos quando entrarmos.",
         "es-ES": "[Lukie]\nNo, no. Si lo fuera, Tess lo sabría.\nBueno, solo lo sabremos cuando entremos."
     },
     "kR6+Bw": {
-        "ko-KR": "수상한 소리가 ….",
         "en-US": "Suspicious noises...",
         "pt-BR": "E esses barulhos...?",
         "es-ES": "¿Y esos ruidos...?"
     },
     "kh6+Bw": {
-        "ko-KR": "[루키]\n음? 아아! 저도 들었어요. 이상한 울부짖는 소리? 그래서 다른 대원들이 일단 들어갔는데요.\n저는 여기에서 살아있는 스위치가 되었답니다.",
         "en-US": "[Rookie]\nHuh? \nOh, I've heard them, too. \nThey sound like screams, right? \nSome other members have gone in to check.\nWell, I'm here to serve as the switch.",
         "pt-BR": "[Lukie]\nSim, eu ouvi também. Parecem gritos. Nossas tropas já foram investigar.\nEnfim, eu estou aqui para ser o seu porteiro, hehe.",
         "es-ES": "[Lukie]\nSí, yo también los oí. Parecen gritos. Nuestras tropas ya fueron a investigar.\nEn fin, yo estoy aquí para ser tu portero, jeje."
     },
     "kx6+Bw": {
-        "ko-KR": "[루키]\n건너편에서 문 열어달라고 하면 열어줘야 하니까요.\n모험가님도 들어가실거죠? 이상한 소리의 근원을 찾으면 혹시라도 괴물이 나타나면 해치워 주세요!",
         "en-US": "[Rookie]\nSomeone has to be here to open this door in case someone on the other side wants to come out.\nAdventurer, you're going to go in, right? \nIf you find out that these noises come from monsters, then please take care of them.",
         "pt-BR": "[Lukie]\nAlguém tem que ficar aqui para abrir a porta.\nEntão, você passa por ela e investiga esses barulhos!",
         "es-ES": "[Lukie]\nAlguien tiene que quedarse aquí para abrir la puerta.\n¡Así que pasa e investiga esos ruidos!"
     },
     "lB6+Bw": {
-        "ko-KR": "[루키]\n나오실땐 건너편에서 '똑똑똑' 하고 철문을 세 번 두드려 주세요.\n제가 문을 열어드릴게요.\n물론 마법으로 나오셔도 되지만요 …. 하하 ….",
         "en-US": "[Rookie]\nIf you want to come out, just knock on this steel door three times.\nI'll open it for you.\nOf course, you can magically pass through it if you want. Hah hah.",
         "pt-BR": "[Lukie]\nSe deseja sair, basta bater na porta 3 vezes.\nDaí, eu vou abrir a porta.\nE, claro, você pode usar teleporte, se quiser...",
         "es-ES": "[Lukie]\nSi quieres salir, solo golpea la puerta tres veces.\nEntonces la abriré.\nY, claro, puedes usar teletransporte si quieres..."
     },
     "lR6+Bw": {
-        "ko-KR": "[루키]\n다른 대원들도 이미 진입했답니다.\n아무래도 우리가 생각하는 그런 폐광이 아닌 모양이에요.\n조심하세요.",
         "en-US": "[Rookie]\nSome other members are already in there.\nI don't think this is a closed mine like we thought.\nPlease be careful.",
         "pt-BR": "[Lukie]\nOutros membros da Rebelião já entraram.\nNão acho que seja uma mineradora abandonada como achávamos que era.\nTenha cuidado.",
         "es-ES": "[Lukie]\nOtros miembros de la Rebelión ya entraron.\nNo creo que sea una mina abandonada como pensábamos.\nTen cuidado."
     },
     "lh6+Bw": {
-        "ko-KR": "[루키]\n으와아.. 안에서 도대체 무슨 일이 있었던 거에요?\n엄청 지쳐보이시는데 ….",
         "en-US": "[Rookie]\nGeez, what happened to you in there?\nYou look like hell.",
         "pt-BR": "[Lukie]\nUau, o que diabos aconteceu lá dentro?\nVocê tá horrível...",
         "es-ES": "[Lukie]\n¡Guau, qué demonios pasó ahí dentro?\nEstás hecho polvo..."
     },
     "lx6+Bw": {
-        "ko-KR": "괴물이 나왔다.",
         "en-US": "There are monsters in there.",
         "pt-BR": "Tem monstros lá.",
         "es-ES": "Hay monstruos ahí dentro."
     },
     "mB6+Bw": {
-        "ko-KR": "[루키]\n세상에 괴물이요?\n어서 엘레나님께 보고하고, 야옹이에 가서 테스님께도 보고해야겠네요!",
         "en-US": "[Rookie]\nMonsters? \nHoly cow!\nWe'd better report to Captain Elena, and Tess at the Cat!",
         "pt-BR": "[Lukie]\nNossa! Monstros?!\nVamos reportar para a Comandante Elena, e depois, para Tess, no Miado de Bala!",
         "es-ES": "[Lukie]\n¡¿Qué?! ¿Monstruos?\n¡Vamos a informar a la Comandante Elena y luego a Tess, en Maullido de Bala!"
     },
     "mR6+Bw": {
-        "ko-KR": "[루키]\n그리고 그 괴물들이 이 틈으로 튀어나올 수도 있겠네요?\n여긴 제가 지킬테니 어서 엘레나님께 보고해 주세요!",
         "en-US": "[Rookie]\nThe monsters can come out through this, right?\nI'll keep it shut. \nPlease go report to Captain Elena!",
         "pt-BR": "[Lukie]\nSerá que tem chances desses monstros escaparem da muralha?\nEu vou proteger este lugar, se apresse e informe Elena!",
         "es-ES": "[Lukie]\n¿Crees que esos monstruos puedan escapar del muro?\nYo protegeré este lugar. ¡Date prisa e informa a Elena!"
     },
     "mh6+Bw": {
-        "ko-KR": "[루키]\n갑자기 활동할 일이 많아진 건 좋은데요.... 이러다 몸이 남아나질 않겠어요.",
         "en-US": "[Rookie]\nI like that we're out here doing things, but I need a break sometimes, or I won't last long.",
         "pt-BR": "[Lukie]\nEu gosto de fazer operações para a tropa, mas às vezes meu corpo não aguenta.",
         "es-ES": "[Lukie]\nMe gusta trabajar en operaciones para la tropa, pero a veces mi cuerpo no aguanta."
     },
     "mx6+Bw": {
-        "ko-KR": "[리벨리온 대원]\n어라? 이번 작전도 함께 하십니까?\n제가 아인브로크 태생이긴 해도 이런 건 저도 처음보는게 말입니다.",
         "en-US": "[Rebellion Member]\nOh? \nI didn't know you were also in this operation.\nI'm from Einbroch myself, but I've never seen anything like this.",
         "pt-BR": "[Membro da Rebelião]\nHuh? Não sabia que você estava com a gente.\nEu nasci e vivi em Einbroch, mas nunca vi algo assim.",
         "es-ES": "[Miembro de la Rebelión]\n¿Eh? No sabía que estabas con nosotros.\nNací y crecí en Einbroch, pero nunca vi algo así."
     },
     "nB6+Bw": {
-        "ko-KR": "뭐가 이상하죠?",
         "en-US": "What do you mean?",
         "pt-BR": "O que há de errado?",
         "es-ES": "¿Qué ocurre?"
     },
     "nR6+Bw": {
-        "ko-KR": "[리벨리온 대원]\n여기 좀 보세요. 이상하지 않습니까?\n광물을 나르던 철로인데 그 위에 격벽을 세웠잖아요.\n심지어 문이 달린 것도 아니고요.",
         "en-US": "[Rebellion Member]\nLook at this. \nDoesn't it look strange to you?\nSomeone erected a wall across a mining railroad.\nIt doesn't have a door, either.",
         "pt-BR": "[Membro da Rebelião]\nOlhe aqui. Não é estranho?\nÉ uma ferrovia que transportava minerais, mas uma muralha foi construída em cima dela.\nNem sequer tem uma porta.",
         "es-ES": "[Miembro de la Rebelión]\nMira esto. ¿No es extraño?\nEs una vía férrea que transportaba minerales, pero se construyó un muro encima.\nNi siquiera tiene una puerta."
     },
     "nh6+Bw": {
-        "ko-KR": "[리벨리온 대원]\n처음엔 이 벽이 제련 공장과 갱도를 분리하기 위한 것이 아닐까 했는데 ….\n이걸 보니 그건 아닌거 같죠?",
         "en-US": "[Rebellion Member]\nAt first, I thought it was to separate the refinery from the mining tunnel.\nBut then, I saw this.",
         "pt-BR": "[Membro da Rebelião]\nNo começo, eu pensei que esta parede poderia ser para separar a mineradora da mina...\nMas aí, eu vi isso.",
         "es-ES": "[Miembro de la Rebelión]\nAl principio pensé que esta pared servía para separar la mina del yacimiento...\nPero entonces vi esto."
     },
     "nx6+Bw": {
-        "ko-KR": "격벽이 나중에 세워진거군요?",
         "en-US": "The wall was added later.",
         "pt-BR": "A muralha foi construída depois.",
         "es-ES": "El muro fue construido después."
     },
     "oB6+Bw": {
-        "ko-KR": "[리벨리온 대원]\n그렇습니다.\n그런데 이미 폐쇄된 갱도와 공장에 격벽이 필요할까요?\n그리고 이런건 교도소에서나 쓸법한 구조인데요.",
         "en-US": "[Rebellion Member]\nThat's right.\nWhat's the purpose of this wall for the tunnel and refinery that are already closed?\nI've only seen things like this in prisons.",
         "pt-BR": "[Membro da Rebelião]\nIsso mesmo.\nQual o propósito de construir uma parede em cima de uma ferrovia em uma mineradora abandonada?\nE esta é uma estrutura que só é usada nos presídios.",
         "es-ES": "[Miembro de la Rebelión]\nExacto.\n¿Cuál es el propósito de construir un muro sobre una vía férrea en una mina abandonada?\nAdemás, esta es una estructura que solo se usa en prisiones."
     },
     "oR6+Bw": {
-        "ko-KR": "[리벨리온 대원]\n이 벽의 목적은 여전히 모르겠지만, 적어도 공장으로 굴러가던 시절에 만들어진 건 아닐겁니다.",
         "en-US": "[Rebellion Member]\nI may not know what it's for, but I can say without a doubt that it wasn't built while the refinery was in operation.",
         "pt-BR": "[Membro da Rebelião]\nAinda não sei o propósito deste muro, mas duvido que tenha sido erguido na época que a mineradora funcionava.",
         "es-ES": "[Miembro de la Rebelión]\nAún no sé el propósito de este muro, pero dudo que se haya levantado cuando la mina estaba activa."
     },
     "oh6+Bw": {
-        "ko-KR": "[리벨리온 대원]\n더 보셔도 딱히 쓸만한 정보가 나올 것 같진 않네요.\n이만 루키에게 돌아가셔도 될 것 같습니다.\n저는 좀 더 둘러보고 합류하죠.",
         "en-US": "[Rebellion Member]\nI doubt you'll find more useful information, even if you stay.\nWhy don't you go back to Rookie now?\nI'll look around here for a little longer.",
         "pt-BR": "[Membro da Rebelião]\nAcho que isso é tudo de informações que temos agora.\nSugiro você conversar com o Lukie.\nEu vou ficar investigando por aqui.",
         "es-ES": "[Miembro de la Rebelión]\nCreo que eso es toda la información que tenemos por ahora.\nSugiero que hables con Lukie.\nSeguiré investigando por aquí."
     },
     "ox6+Bw": {
-        "ko-KR": "[리벨리온 대원]\n저는 좀 더 둘러보고 합류하겠습니다.\n그렇게 전해 주세요.",
         "en-US": "[Rebellion Member]\nI'll look around here for a little longer.\nPlease tell the others.",
         "pt-BR": "[Membro da Rebelião]\nVou dar uma olhada por aí e me juntar à vocês.\nConverse com os outros membros.",
         "es-ES": "[Miembro de la Rebelión]\nDaré una vuelta por aquí y me uniré a ustedes.\nHabla con los demás miembros."
     },
     "pB6+Bw": {
-        "ko-KR": "[리벨리온 대원]\n저는 다른 곳을 좀 더 둘러봐야겠습니다.",
         "en-US": "[Rebellion Member]\nI'm going to check elsewhere.",
         "pt-BR": "[Membro da Rebelião]\nVou investigar um pouco mais ao redor.",
         "es-ES": "[Miembro de la Rebelión]\nInvestigaré un poco más por los alrededores."
     },
     "pR6+Bw": {
-        "ko-KR": "[리벨리온 대원]\n여긴 제가 더 조사할테니까 이만 루키에게 돌아가시죠.\n혹시 압니까, 이미 격벽 문을 열었을지.",
         "en-US": "[Rebellion Member]\nI want to check this place for a little longer. \nYou should go back to Rookie now.\nWho knows? He may have unlocked the wall door.",
         "pt-BR": "[Membro da Rebelião]\nVou investigar mais aqui, então fale com Lukie.\nTalvez a porta da muralha já tenha sido aberta.",
         "es-ES": "[Miembro de la Rebelión]\nSeguiré investigando aquí, así que habla con Lukie.\nTal vez la puerta del muro ya se haya abierto."
     },
     "ph6+Bw": {
-        "ko-KR": "으... 가끔 들리는 이상한 소리 때문에 소름이 돋아.",
         "en-US": "Aww... Sometimes I hear strange noises, and they give me the creeps.",
         "pt-BR": "Ugh... fico arrepiado por causa dos barulhos estranhos que ouço.",
         "es-ES": "Ugh... se me eriza la piel con los ruidos extraños que escucho."
     },
     "px6+Bw": {
-        "ko-KR": "[리벨리온 대원]\n음? 모험가님이 여긴 어쩔 일임까?\n이번 작전을 함께 하는검까?",
         "en-US": "[Rebellion Member]\nMm? \nAdventurer, what brings you here?\nAre you in this operation, too?",
         "pt-BR": "[Membra da Rebelião]\nHum? O que você vai fazer aqui?\nVamos fazer essa missão juntos?",
         "es-ES": "[Miembra de la Rebelión]\n¿Hm? ¿Qué haces aquí?\n¿Vamos a hacer esta misión juntos?"
     },
     "qB6+Bw": {
-        "ko-KR": "[리벨리온 대원]\n오오! 그럼 제가 알아낸 걸 알려드리겠슴다.\n여기 이 기둥 보임까?\n이거 제가 올라가봤는데, 감시탑임다!",
         "en-US": "[Rebellion Member]\nOoh, then let me share with you what I've discovered so far.\nSee this pillar here?\nI've climbed it, and guess what? It's a watchtower!",
         "pt-BR": "[Membra da Rebelião]\nAh! Então, eu vou deixar você saber o que eu descobri.\nVocê tá vendo este pilar aqui?\nEu escalei e descobri que é uma torre de vigia!",
         "es-ES": "[Miembra de la Rebelión]\n¡Ah! Entonces, déjame contarte lo que descubrí.\n¿Ves este pilar aquí?\nLo escalé y descubrí que es una torre de vigilancia."
     },
     "qR6+Bw": {
-        "ko-KR": "[리벨리온 대원]\n격벽 너머가 훤하게 잘 보임다!\n제련 공장 시설에 왜 이런 감시탑이 있는지 모르겠지만 어쨌든 이건 감시탑이 분명함다!\n세기의 발견임다. 하하핫!",
         "en-US": "[Rebellion Member]\nFrom the top, you can see what's behind the wall.\nI don't know what a tower like this is doing in a refinery, but this is definitely a watchtower.\nIt's got to be the discovery of the century, right? \nMwa hah hah!",
         "pt-BR": "[Membra da Rebelião]\nDá para ver além da muralha!\nEu não sei por que a mineradora tem uma torre de vigia, mas é o que descobri!\nA descoberta do século. Ha ha ha!",
         "es-ES": "[Miembra de la Rebelión]\n¡Se puede ver más allá del muro!\nNo sé por qué una mina tiene una torre de vigilancia, ¡pero es lo que encontré!\n¡El descubrimiento del siglo! Ja ja ja."
     },
     "qh6+Bw": {
-        "ko-KR": "[리벨리온 대원]\n감시탑은 제가 좀 더 조사를 할검다.\n어둠 속에 뭔가 움직이는걸 본 것 같아서 자세히 본 뒤에 보고하려면 또 올라가야 함다!\n감시탑은 제가 완벽하게 숙지하겠슴다! 안심하고 루키에게 보고하러 가시면 됨다!",
         "en-US": "[Rebellion Member]\nI want to stay around this watchtower for a little longer.\nI think I've seen something moving in the dark. \nI'm going to go up there and find out what it is.\nPlease leave this watchtower to me, and go report back to Rookie.",
         "pt-BR": "[Membra da Rebelião]\nVou investigar a torre de vigia mais um pouco.\nAcho que vi algo se movendo no escuro, então tenho que subir novamente para detalhar!\nDeixe isso comigo! Você pode ir e relatar ao Lukie!",
         "es-ES": "[Miembra de la Rebelión]\nInvestigaré un poco más la torre de vigilancia.\nCreo que vi algo moviéndose en la oscuridad, así que debo subir otra vez para verlo mejor.\n¡Déjamelo a mí! ¡Puedes ir a informar a Lukie!"
     },
     "qx6+Bw": {
-        "ko-KR": "[리벨리온 대원]\n얼핏 움직이는 뭔가를 본 것 같아서 또 올라갈 예정임다.\n자세히 보고 반드시 정체를 밝혀내겠슴다!",
         "en-US": "[Rebellion Member]\nI think I've seen something moving, so I'm going to go back up there soon.\nI'm determined to find out what it is.",
         "pt-BR": "[Membra da Rebelião]\nAcho que vi algo se movendo, então vou subir novamente.\nVou dar uma olhada mais de perto e descobrirei a identidade!",
         "es-ES": "[Miembra de la Rebelión]\nCreo que vi algo moviéndose, así que subiré de nuevo.\n¡Lo examinaré más de cerca y descubriré su identidad!"
     },
     "rB6+Bw": {
-        "ko-KR": "[리벨리온 대원]\n후후 이 감시탑 아주 좋슴다! 또 올라갈검다!",
         "en-US": "[Rebellion Member]\nHeh heh. I like this watchtower. I want to go back up there again.",
         "pt-BR": "[Membra da Rebelião]\nUau! Essa torre de vigia é muito legal! Vou escalar de novo!",
         "es-ES": "[Miembra de la Rebelión]\n¡Guau! ¡Esta torre de vigilancia es genial! ¡Voy a escalar otra vez!"
     },
     "rR6+Bw": {
-        "ko-KR": "[리벨리온 대원]\n감시탑은 제가 완벽하게 숙지하겠슴다! 안심하고 루키에게 보고하러 가시면 됨다!",
         "en-US": "[Rebellion Member]\nPlease leave this watchtower to me, and go report back to Rookie.",
         "pt-BR": "[Membra da Rebelião]\nEu vou estudar a torre de vigia! Você pode ir e relatar ao Lukie!!",
         "es-ES": "[Miembra de la Rebelión]\n¡Estudiaré la torre de vigilancia! ¡Puedes ir a informar a Lukie!"
     },
     "rh6+Bw": {
-        "ko-KR": "역시 이 감시탑을 내가 점령해야겠슴다..!",
         "en-US": "I think I'm just going to keep this watchtower to myself.",
         "pt-BR": "Acho que vou tomar conta desta torre de vigia..!",
         "es-ES": "Creo que me encargaré de esta torre de vigilancia..."
     },
     "rx6+Bw": {
-        "ko-KR": "개구멍",
         "en-US": "Small Hole",
         "pt-BR": "Buraco",
         "es-ES": "Agujero"
     },
     "sB6+Bw": {
-        "ko-KR": "아주 작은 어린아이가 겨우 통과 할 수 있을 정도로 작은 개구멍이 있다.\n아무래도 동굴에 사는 작은 짐승이 파 놓은 것 같다.",
         "en-US": "There's a hole that's barely big enough to let a small child crawl through.\nPerhaps a small animal that lives in the cave has created it.",
         "pt-BR": "Há um buraco grande o suficiente para que uma criança muito pequena possa passar.\nParece ter sido escavado por algum pequeno animal que vive aqui.",
         "es-ES": "Hay un agujero lo suficientemente grande para que pase un niño muy pequeño.\nParece haber sido excavado por algún animal pequeño que vive aquí."
     },
     "sR6+Bw": {
-        "ko-KR": "특별한 부분은 찾을 수 없다.\n적당히 정보가 모였으니 루키에게 돌아가 전해주자.",
         "en-US": "I don't see anything out of ordinary here.\nI think I've got enough information now. I should go back to Rookie.",
         "pt-BR": "Não consigo encontrar nada de especial.\nAgora que reunimos informações suficientes, vamos voltar para Lukie.",
         "es-ES": "No logro encontrar nada especial.\nAhora que reunimos suficiente información, volvamos con Lukie."
     },
     "sh6+Bw": {
-        "ko-KR": "다른 곳을 더 돌아보자.",
         "en-US": "I'd better check elsewhere.",
         "pt-BR": "Vamos procurar em outro lugar.",
         "es-ES": "Busquemos en otro lugar."
     },
     "sx6+Bw": {
-        "ko-KR": "별 거 없네.",
         "en-US": "There's nothing here.",
         "pt-BR": "Não tem nada.",
         "es-ES": "No hay nada."
     },
     "tB6+Bw": {
-        "ko-KR": "이만 돌아갈까.",
         "en-US": "Should I go back now?",
         "pt-BR": "Devo voltar?",
         "es-ES": "¿Debería volver?"
     },
     "tR6+Bw": {
-        "ko-KR": "이 개구멍은 너무 작아서 쓸모없어.",
         "en-US": "This hole is too small to be of any use for us.",
         "pt-BR": "Este buraco é tão pequeno que é inútil para mim.",
         "es-ES": "Este agujero es tan pequeño que no me sirve."
     },
     "th6+Bw": {
-        "ko-KR": "공화국 경비병",
         "en-US": "Republic Guard",
         "pt-BR": "Guarda da República",
         "es-ES": "Guardia de la República"
     },
     "tx6+Bw": {
-        "ko-KR": "[공화국 경비병]\n테스님께 연락 받았습니다.\n저도 비밀의 날개 소속이니 걱정마십시오.\n아스님과 에스트님은 주변을 둘러보러 가셨습니다.",
         "en-US": "[Republic Guard]\nI've received a message from Tess.\nDon't worry. I'm a Secret Wing, too.\nAce and Est went to check around the area.",
         "pt-BR": "[Guarda da República]\nRecebi a mensagem de Tess.\nNão se preocupe, eu também sou um membro da Vento Secreto.\nAce e Est foram dar uma olhada.",
         "es-ES": "[Guardia de la República]\nRecibí el mensaje de Tess.\nNo te preocupes, yo también soy miembro del Viento Secreto.\nAce y Est fueron a echar un vistazo."
     },
     "uB6+Bw": {
-        "ko-KR": "[공화국 경비병]\n아, 마침 오셨네요.",
         "en-US": "[Republic Guard]\nAh, speak of the devil.",
         "pt-BR": "[Guarda da República]\nAh, vocês chegaram.",
         "es-ES": "[Guardia de la República]\nAh, ya llegaron."
     },
     "uR6+Bw": {
-        "ko-KR": "에스트: 이제 진입해도 되겠어.",
         "en-US": "Est: Now, we can go in.",
         "pt-BR": "Est: Estamos aqui.",
         "es-ES": "Est: Estamos aquí."
     },
     "uh6+Bw": {
-        "ko-KR": "[에스트]\n시간 맞춰 잘 왔군.\n이제부터 잠입을 할까 했단 말이지.\n데려온 놈들 전부 외부 봉쇄에 써버렸으니까 마침 너 같은 인재가 필요했거든.",
         "en-US": "[Est]\nYour timing is impeccable.\nWe're about to sneak in,\nand we could use talent like you. All the soldiers we've brought with us are keeping this area closed.",
         "pt-BR": "[Est Loveloy]\nVocê é pontual, viajante.\nAgora podemos nos infiltrar.\nEu trouxe minha equipe, mas precisamos de alguém com o seu talento.",
         "es-ES": "[Est Loveloy]\nEres puntual, trotamundos.\nAhora podemos infiltrarnos.\nTraje a mi equipo, pero necesitamos a alguien con tu talento."
     },
     "ux6+Bw": {
-        "ko-KR": "[에스트]\n상황을 보니 내부에 적은 얼마 없는 것 같고...",
         "en-US": "[Est]\nJudging by the situation, I don't think there are many enemies in there.",
         "pt-BR": "[Est Loveloy]\nOlhando a situação, parece que não há muitos inimigos lá dentro...",
         "es-ES": "[Est Loveloy]\nPor la situación, parece que no hay muchos enemigos dentro..."
     },
     "vB6+Bw": {
-        "ko-KR": "[아스]\n그렇습니다. 제가 붙여놨던 인원들에게도 시민에게 피해가 가는게 아니라면 전투를 걸지 말고 추적만 하라고 지시했었으니까요.",
         "en-US": "[Ace]\nNo. \nI also told my men just to follow them without engaging them unless they threaten civilians.",
         "pt-BR": "[Ace]\nSim. Eu instruí minha equipe a não lutar, exceto se houver ameaça civil.",
         "es-ES": "[Ace]\nSí. Instruí a mi equipo para que no luche, salvo que exista una amenaza civil."
     },
     "vR6+Bw": {
-        "ko-KR": "[아스]\n자세한 정황은 들어가봐야 알겠지만요.\n그래서 우선 최소의 인원이 잠입 후 상황을 파악, 후에 총 공략을 펼친다는 작전인 것 같습니다만...",
         "en-US": "[Ace]\nWe wouldn't know the exact situation unless we're in there, though.\nI think Est wants to only take a few good men with him to assess the situation before an all-out attack.",
         "pt-BR": "[Ace]\nNão teríamos detalhes se não fosse essa estratégia.\nNosso plano é infiltrar um número mínimo de pessoas, entender a situação e depois atacar com força total...",
         "es-ES": "[Ace]\nNo tendríamos detalles de no ser por esta estrategia.\nNuestro plan es infiltrar a un número mínimo de personas, entender la situación y luego atacar con toda la fuerza..."
     },
     "vh6+Bw": {
-        "ko-KR": "[에스트]\n어어. 맞아. 그러니 나랑, 아스, 그리고 너 이렇게 들어가자고.\n나머지 놈들은 대기하고 있다가 내가 부르면 오고.",
         "en-US": "[Est]\nOoh, yes. And I'm thinking you, me, and the Adventurer.\nThe others can wait outside until I call.",
         "pt-BR": "[Est Loveloy]\nHum-huh. Isso mesmo. Então, eu, Ace e você vamos entrar assim.\nO resto ficará esperando pela minha chamada.",
         "es-ES": "[Est Loveloy]\nAjá. Exacto. Entonces, Ace, tú y yo entraremos así.\nEl resto se quedará esperando mi señal."
     },
     "vx6+Bw": {
-        "ko-KR": "[에스트]\n한 놈도 빠져나가지 못하도록 철저히 봉쇄하는 게 더 중요하니까.\n남은 놈들, 말 안해도 알겠지?",
         "en-US": "[Est]\nIt's important that we keep this area closed and all the enemies inside.\nThe rest of you, I don't have to say more, do I?",
         "pt-BR": "[Est Loveloy]\nÉ importante mantermos a área sitiada para que ninguém escape.\nO resto, posso contar com vocês?",
         "es-ES": "[Est Loveloy]\nEs importante mantener la zona cercada para que nadie escape.\n¿Puedo contar con ustedes para eso?"
     },
     "wB6+Bw": {
-        "ko-KR": "에밀: 그럼요, 대장. 걱정 마십쇼!",
         "en-US": "Emile: No, Captain. Count on us!",
         "pt-BR": "Oficial Emily: Entendido, comandante! Não se preocupe!",
         "es-ES": "Oficial Emily: ¡Entendido, comandante! ¡No se preocupe!"
     },
     "wR6+Bw": {
-        "ko-KR": "[에스트]\n난 다른 루트로 진입할테니 정문은 아스와 모험가, 너에게 맡기겠다.\n그럼 안에서 만나자고.",
         "en-US": "[Est]\nAce and Adventurer, take the front gate. \nI'll use a different route.\nI'll see you in there.",
         "pt-BR": "[Est Loveloy]\nVocê e Ace vão pelo portão da frente. Eu vou por outro caminho.\nNos encontramos lá dentro.",
         "es-ES": "[Est Loveloy]\nTú y Ace entrarán por la puerta principal. Yo iré por otro camino.\nNos vemos dentro."
     },
     "wh6+Bw": {
-        "ko-KR": "[아스]\n알겠습니다.\n그러면 오스카에게 문을 열라고 하겠습니다.",
         "en-US": "[Ace]\nOkay.\nI'll have Oscar open the gate for us.",
         "pt-BR": "[Ace]\nEntendido.\nVou pedir ao Oscar para abrir a porta.",
         "es-ES": "[Ace]\nEntendido.\nLe pediré a Oscar que abra la puerta."
     },
     "wx6+Bw": {
-        "ko-KR": "[공화국 경비병]\n잠입 루트는 정문 앞에 서 있는 오스카씨가 확보 한 상태입니다.\n바깥쪽은 저와 리벨리온, 그리고 아스님의 직속 대원들이 꼼꼼하게 포위해서 처리할테니 걱정 마시고요.\n무운을 빕니다.",
         "en-US": "[Republic Guard]\nMr. Oscar at the front gate has secured an infiltration route for you.\nDon't worry about the outside. \nThe Rebellion, Captain Ace's men, and I will take care of it.\nGood luck.",
         "pt-BR": "[Guarda da República]\nSr. Oscar liberou o portão da frente para você.\nEu, e os rebeldes ficaremos vigiando o perímetro. Não se preocupe.\nBoa sorte.",
         "es-ES": "[Guardia de la República]\nEl señor Oscar liberó la puerta principal para ti.\nLos rebeldes y yo vigilaremos el perímetro. No te preocupes.\nBuena suerte."
     },
     "xB6+Bw": {
-        "ko-KR": "관계자 외 출입금지입니다. 물러나세요.",
         "en-US": "This place is off limits. Please leave.",
         "pt-BR": "A entrada é proibida, exceto para funcionários. Por favor, afaste-se.",
         "es-ES": "La entrada está prohibida excepto para el personal autorizado. Por favor, aléjese."
     },
     "xR6+Bw": {
-        "ko-KR": "아스",
         "en-US": "Ace",
         "pt-BR": "Ace",
         "es-ES": "Ace"
     },
     "xh6+Bw": {
-        "ko-KR": "[아스]\n정문 쪽 루트로 진입하게 되었습니다.\n우선 오스카를 통해 문을 열도록 하죠.",
         "en-US": "[Ace]\nWe'll enter through the front gate.\nLet me have Oscar open it for us.",
         "pt-BR": "[Ace]\nVamos entrar pelo portão da frente.\nDeixe-me pedir ao Oscar abrir para nós.",
         "es-ES": "[Ace]\nEntraremos por la puerta principal.\nDéjame pedirle a Oscar que la abra para nosotros."
     },
     "xx6+Bw": {
-        "ko-KR": "리벨리온 에밀",
         "en-US": "Rebellion Emile",
         "pt-BR": "Oficial Emily",
         "es-ES": "Oficial Emily"
     },
     "yB6+Bw": {
-        "ko-KR": "레켄베르 가드",
         "en-US": "Rekenber Guard",
         "pt-BR": "Guarda da Rekenber",
         "es-ES": "Guardia de Rekenber"
     },
     "yR6+Bw": {
-        "ko-KR": "레켄베르 가드 오스카",
         "en-US": "Rekenber Guard Oscar",
         "pt-BR": "Guarda Oscar",
         "es-ES": "Guardia Oscar"
     },
     "yh6+Bw": {
-        "ko-KR": "레겐쉬름",
         "en-US": "Regenschirm",
         "pt-BR": "Regenschirm",
         "es-ES": "Regenschirm"
     },
     "yx6+Bw": {
-        "ko-KR": "[오스카]\n연구소 내부로 들어가는 정문은 이중잠금장치가 있습니다.\n안쪽은 저쪽에서 먼저 닫아걸었으니까요.\n저희는 바깥쪽에서 해제해서 진입합니다.",
         "en-US": "[Oscar]\nThe front gate of the Lab has a double lock.\nThe enemy has locked it from the inside.\nWe'll be unlocking it from the outside to enter.",
         "pt-BR": "[Oscar]\nA entrada pode ser trancada por dentro e por fora.\nO inimigo a trancou por dentro.\nEntretanto, podemos destrancar por fora.",
         "es-ES": "[Oscar]\nLa entrada puede cerrarse desde dentro y desde fuera.\nEl enemigo la cerró desde dentro.\nSin embargo, podemos abrirla desde fuera."
     },
     "zB6+Bw": {
-        "ko-KR": "[오스카]\n내부 잠금장치를 지나치게 신뢰하는지 되려 보초가 없다시피 해서 오히려 힘이 빠지더군요.\n어쨌든 '레겐쉬름' 내부로 진입하겠습니다.\n준비 되셨습니까?",
         "en-US": "[Oscar]\nThe enemy must really trust that internal locking device because it hasn't left any guards outside. Bummer!\nAnyway, let's enter Regenschirm.\nReady?",
         "pt-BR": "[Oscar]\nO inimigo realmente confia demais na segurança interna, visto que não há nada vigiando do lado de fora.\nEnfim, vamos entrar na 'Regenschirm'.\nTodos prontos?",
         "es-ES": "[Oscar]\nEl enemigo confía demasiado en la seguridad interna, ya que no hay vigilancia exterior.\nEn fin, entremos en ''Regenschirm''.\n¿Todos listos?"
     },
     "zR6+Bw": {
-        "ko-KR": "'레겐쉬름'을 신청한다.",
         "en-US": "Request Regenschirm.",
         "pt-BR": "Criar instância.",
         "es-ES": "Crear instancia."
     },
     "zh6+Bw": {
-        "ko-KR": "'레겐쉬름'에 입장한다.",
         "en-US": "Enter Regenschirm.",
         "pt-BR": "Entrar na instância.",
         "es-ES": "Entrar a la instancia."
     },
     "zx6+Bw": {
-        "ko-KR": "[오스카]\n잠깐, 근처까지 움직임이 감지 됐습니다.\n나름 순찰은 돌고 있나보군요. 잠시 기다렸다가 진입해야겠습니다.",
         "en-US": "[Oscar]\nWait, someone's near us.\nAt least the enemy's making patrols. \nLet's wait until it passes.",
         "pt-BR": "[Oscar]\nEspere, tem alguém suspeito por perto.\nParece que a patrulha inimiga está rondando. Vamos esperar um pouco antes de entrar.",
         "es-ES": "[Oscar]\nEspera, hay alguien sospechoso cerca.\nParece que la patrulla enemiga está rondando. Esperemos un poco antes de entrar."
     },
     "0B6+Bw": {
-        "ko-KR": "[오스카]\n준비되셨으면 진입하십시오.\n내부의 잠금 장치는 아스님께서 처리하실겁니다.",
         "en-US": "[Oscar]\nPlease enter if you're ready.\nCaptain Ace will take care of the locking device on the inside.",
         "pt-BR": "[Oscar]\nSe estiver com tudo pronto, pode entrar.\nAce vai dar conta da saída pelo lado de dentro.",
         "es-ES": "[Oscar]\nSi estás listo, puedes entrar.\nAce se encargará de la salida desde el interior."
     },
     "0R6+Bw": {
-        "ko-KR": "^4D4DFF메모리얼로 진행되는 이벤트입니다.\n메모리얼 던전 신청은 파티리더로 해야합니다.^000000",
         "en-US": "^4D4DFFThis is a Memorial event.\nOnly party leaders can request to enter the Memorial dungeon.^000000",
         "pt-BR": "^4D4DFF Aviso!\nPor ser uma instância, você deve ser líder de um grupo para entrar na fila.^000000",
         "es-ES": "^4D4DFFAviso!\nAl tratarse de una instancia, debes ser líder de grupo para entrar en la cola.^000000"
     },
     "0h6+Bw": {
-        "ko-KR": "[오스카]\n잠시 상황을 지켜봐야 할 것 같습니다.\n아무래도 시작은 잠입이니까요.",
         "en-US": "[Oscar]\nWe should first observe the situation for a while.\nWe are here to infiltrate, after all.",
         "pt-BR": "[Oscar]\nAcho que teremos que observar a situação, primeiro.\nEstamos aqui para nos infiltrar.",
         "es-ES": "[Oscar]\nCreo que primero tendremos que observar la situación.\nEstamos aquí para infiltrarnos."
     },
     "0x6+Bw": {
-        "ko-KR": "[오스카]\n저희가 확보한 루트에 움직임이 감지 됐습니다.\n잠깐 기다려야 할 것 같네요.",
         "en-US": "[Oscar]\nThere's someone else moving along the route we're using.\nLet's wait until they pass.",
         "pt-BR": "[Oscar]\nTem alguém suspeito se movimentando na nossa rota.\nAcho que vamos ter que esperar um pouco.",
         "es-ES": "[Oscar]\nHay alguien sospechoso moviéndose en nuestra ruta.\nCreo que tendremos que esperar un poco."
     },
     "1B6+Bw": {
-        "ko-KR": "^4D4DFF메모리얼을 통해 진행되는 이벤트입니다.\n파티를 결성 한 뒤 다시 시도해 주십시오.^000000",
         "en-US": "^4D4DFFThis is a Memorial event.\nPlease form a party first.^000000",
         "pt-BR": "^4D4DFFAviso!\nPor favor, forme um grupo e tente novamente.^000000",
         "es-ES": "^4D4DFFAviso!\nPor favor, forma un grupo e inténtalo de nuevo.^000000"
     },
     "1R6+Bw": {
-        "ko-KR": "{0} 파티의 {1} 파티원이 {2} 에 입장합니다",
         "en-US": "{1} in the {0} party enters {2}.",
         "pt-BR": "{1}, do grupo {0}, entrou na {2}.",
         "es-ES": "{1}, del grupo {0}, entró en {2}."
     },
     "1h6+Bw": {
-        "ko-KR": "^4D4DFF메모리얼로 진행되는 이벤트입니다.\n파티를 결성 한 뒤 다시 시도해 주십시오.^000000\n^4D4DFF파티는 /결성 파티명 ^000000 으로 만들 수 있습니다.",
         "en-US": "^4D4DFFThis is a Memorial event.\nPlease form a party first.^000000\n^4D4DFFYou can form a party by typing /organize [party name]^000000.",
         "pt-BR": "^4D4DFFAviso!\nPor favor, forme um grupo e tente novamente.^000000\nUm grupo pode ser criado com ^4D4DFF/organize nome do grupo^000000.",
         "es-ES": "^4D4DFFAviso!\nPor favor, forma un grupo e inténtalo de nuevo.^000000\nUn grupo puede crearse con ^4D4DFF/organize nombre_del_grupo^000000."
     },
     "1x6+Bw": {
-        "ko-KR": "[오스카]\n무사히 나오셨군요.\n에스트님은 이 곳을 정리하고 연구원들을 넘겨 주신 뒤 거점으로 복귀하셨습니다.\n아스님도 연구원들 문제로 본사에 가셨고요.",
         "en-US": "[Oscar]\nWelcome back.\nEst, after clearing this place and handing over the researchers to us, returned to his base.\nCaptain Ace went to the headquarters to discuss the treatment of the researchers.",
         "pt-BR": "[Oscar]\nVocê saiu em segurança.\nEst limpou este lugar, lidou com os cientistas e depois voltou para a base.\nAce também foi para a sede devido a problemas com os cientistas.",
         "es-ES": "[Oscar]\nSaliste a salvo.\nEst limpió este lugar, se ocupó de los científicos y luego regresó a la base.\nAce también volvió a la sede debido a problemas con los científicos."
     },
     "2B6+Bw": {
-        "ko-KR": "[오스카]\n총알 탄 야옹이로 오라는 전언을 남기셨습니다.\n바로 가보시는게 좋겠습니다.",
         "en-US": "[Oscar]\nThey asked you to come to the Cat on a Bullet.\nPlease go there.",
         "pt-BR": "[Oscar]\nVocê deveria ir para a Miado de Bala.\nImediatamente.",
         "es-ES": "[Oscar]\nDeberías ir a Maullido de Bala.\nDe inmediato."
     },
     "2R6+Bw": {
-        "ko-KR": "레켄베르 가드: 이 곳은 관계자 외 출입금지입니다.",
         "en-US": "Rekenber Guard: Only authorized personnel can enter this place.",
         "pt-BR": "Guarda Oscar: Este lugar é proibido para pessoas não autorizadas.",
         "es-ES": "Guardia Oscar: Este lugar está prohibido para personas no autorizadas."
     },
     "2h6+Bw": {
-        "ko-KR": "유슬란",
         "en-US": "Juslan",
         "pt-BR": "Yuslan",
         "es-ES": "Yuslan"
     },
     "2x6+Bw": {
-        "ko-KR": "[유슬란]\n으음? 아무래도 저 지역에 남은 하트헌터를 좀 정리해야 할 것 같은데...?\n대장님들은 다음 작전 진행 안하실까?",
         "en-US": "[Juslan]\nMm? \nI think we need to get rid of the remaining Heart Hunters in there.\nWhat are the Captains' plans for our next operation?",
         "pt-BR": "[Yuslan]\nAcho que vamos ficar aqui e lidar com os Caça-Coração...\nSerá que teremos mais operações da Rebelião no futuro?",
         "es-ES": "[Yuslan]\nCreo que nos quedaremos aquí y nos ocuparemos de los Cazadores de Corazones...\n¿Habrá más operaciones de la Rebelión en el futuro?"
     },
     "3B6+Bw": {
-        "ko-KR": "[유슬란]\n워워, 오늘 수고 하셨어요.\n특수부대가 수색을 함께 하고 있긴 하지만 안에 무슨 공장이라도 있는지...",
         "en-US": "[Juslan]\nWow, you did very well today.\nWe've been searching together with the special forces, but it's as if there's a factory in there.",
         "pt-BR": "[Yuslan]\nUau, você fez um ótimo trabalho hoje.\nAinda estamos em operação com outras tropas...",
         "es-ES": "[Yuslan]\nGuau, hiciste un gran trabajo hoy.\nSeguimos en operación con otras tropas..."
     },
     "3R6+Bw": {
-        "ko-KR": "[유슬란]\n하트헌터란 녀석들 어디에서 그렇게 끈임없이 튀어나올까요?\n다시 싸워야 할 것 같으니 지금은 좀 쉬죠.",
         "en-US": "[Juslan]\nThose Heart Hunters just won't stop showing up.\nWe'll have to fight them again soon, but let's get some rest for now.",
         "pt-BR": "[Yuslan]\nDe onde vêm esses Caça-Corações?\nAcho que teremos que lutar novamente, mas vamos fazer uma pausa hoje.",
         "es-ES": "[Yuslan]\n¿De dónde salen estos Cazadores de Corazones?\nCreo que tendremos que luchar de nuevo, pero hoy haremos una pausa."
     },
     "3h6+Bw": {
-        "ko-KR": "[유슬란]\n으음~ 충분히 쉬셨나요?\n하트헌터를 사냥할 준비 말이에요.\n준비가 되면 다시 가봅시다!",
         "en-US": "[Juslan]\nMm, are you well rested?\nI'm asking if you're ready to hunt Heart Hunters.\nIf you are, then let's go!",
         "pt-BR": "[Yuslan]\nIh, você descansou o suficiente?\nSe sim, podemos nos livrar dos Caça-Coração, hoje.\nVolte quando você tiver com tudo ok!",
         "es-ES": "[Yuslan]\nEh, ¿descansaste lo suficiente?\nSi es así, hoy podremos encargarnos de los Cazadores de Corazones.\n¡Vuelve cuando estés listo!"
     },
     "3x6+Bw": {
-        "ko-KR": "[유슬란]\n^4D4DFF하트헌터 사나레, 하트헌터 벨라레의 처리^000000를 부탁 드립니다.\n전투 정보를 입수하고 싶은 모양이에요.",
         "en-US": "[Juslan]\nPlease take care of ^4D4DFFHeart Hunter Sanares and Bellares^000000.\nWe need their combat data.",
         "pt-BR": "[Yuslan]\nPor favor, elimine os Caça-Coração ^4D4DFFSanare^000000 e ^4D4DFFBellare^000000.\nPrecisamos coletar informações deles.",
         "es-ES": "[Yuslan]\nPor favor, elimina a los Cazadores de Corazones ^4D4DFFSanare^000000 y ^4D4DFFBellare^000000.\nNecesitamos recopilar información de ellos."
     },
     "4B6+Bw": {
-        "ko-KR": "[유슬란]\n위치는 아시죠?\n여기 선로를 따라 들어가면 됩니다.",
         "en-US": "[Juslan]\nYou know where they are, right?\nPlease follow these tracks.",
         "pt-BR": "[Yuslan]\nVocê sabe onde é, certo?\nSó seguir os trilhos da ferrovia.",
         "es-ES": "[Yuslan]\nSabes dónde están, ¿verdad?\nSolo sigue las vías del tren."
     },
     "4R6+Bw": {
-        "ko-KR": "[유슬란]\n예전에 상대했던 놈들보다 더 강하군요.\n여러가지로 장비나 능력치가 상승된 것 같네요.",
         "en-US": "[Juslan]\nThese ones are much stronger than the ones we fought before.\nOverall, their equipment and capabilities have been improved.",
         "pt-BR": "[Yuslan]\nEsses Caça-Corações são mais fortes que os outros.\nParece até que estão melhorando suas habilidades.",
         "es-ES": "[Yuslan]\nEstos Cazadores de Corazones son más fuertes que los demás.\nParece que están mejorando sus habilidades."
     },
     "4h6+Bw": {
-        "ko-KR": "[유슬란]\n여기에서 실험을 통해 강해진 자들이겠죠?\n저도 강한게 좋지만 저건 아닌것 같아요. 사람이길 포기한 거니까 ….",
         "en-US": "[Juslan]\nI bet they've been augmented through bio experiments here.\nI'd love to become stronger, but not like that. \nThey gave up to be human.",
         "pt-BR": "[Yuslan]\nAcho que foram os experimentos feitos aqui que os fortaleceram.\nEles desistiram de serem humanos...",
         "es-ES": "[Yuslan]\nCreo que los experimentos realizados aquí los fortalecieron.\nRenunciaron a ser humanos..."
     },
     "4x6+Bw": {
-        "ko-KR": "[유슬란]\n오늘은 정말 수고하셨습니다.\n이제 가서 좀 쉬세요.",
         "en-US": "[Juslan]\nYou really did well today.\nNow, please go get some rest.",
         "pt-BR": "[Yuslan]\nVocê trabalhou muito hoje.\nAgora, vá descansar um pouco.",
         "es-ES": "[Yuslan]\nTrabajaste duro hoy.\nAhora ve a descansar un poco."
     },
     "5B6+Bw": {
-        "ko-KR": "[유슬란]\n하트헌터 사나레랑 벨라레는 이제까지 만난 놈들과는 다른 것 같네요.\n상대하기도 까다롭고.",
         "en-US": "[Juslan]\nHeart Hunter Sanares and Bellares are different from the enemies I've met before.\nThey're more difficult, too.",
         "pt-BR": "[Yuslan]\nOs Caça-Coração Sanare e Bellare são mais fortes que os outros.\nEstou com problemas de lidar com eles.",
         "es-ES": "[Yuslan]\nLos Cazadores de Corazones Sanare y Bellare son más fuertes que los demás.\nTengo problemas para lidiar con ellos."
     },
     "5R6+Bw": {
-        "ko-KR": "[유슬란]\n에스트님의 특수부대가 섬멸전과 수색전을 진행하는데 숨어있다가 튀어나오는 놈들이 있으니까요.\n저희가 그런 놈들을 처리하는데, 솔직히 말해서 힘들어요.",
         "en-US": "[Juslan]\nSometimes they descend on Est's special forces while they carry out their annihilation and search missions.\nWe have to take care of them, and I've got to say, it's tough.",
         "pt-BR": "[Yuslan]\nMesmo com as forças especiais da Comandante Est, ainda aparecem muitos deles.\nPrecisamos de ajuda.",
         "es-ES": "[Yuslan]\nIncluso con las fuerzas especiales de la Comandante Est, siguen apareciendo muchos.\nNecesitamos ayuda."
     },
     "5h6+Bw": {
-        "ko-KR": "같이 하자.",
         "en-US": "I'll help you.",
         "pt-BR": "Vou ajudar.",
         "es-ES": "Voy a ayudar."
     },
     "5x6+Bw": {
-        "ko-KR": "고생 해라.",
         "en-US": "Keep up the good work.",
         "pt-BR": "Boa sorte aí.",
         "es-ES": "Buena suerte."
     },
     "6B6+Bw": {
-        "ko-KR": "[유슬란]\n그거 듣던 중 반가운 소리네요.\n그러면 하트헌터 벨라레와 사나레를 적당히 상대 해 주시겠습니까?\n으음 각각 15체 정도씩요?",
         "en-US": "[Juslan]\nThat would be great!\nThen, could you take care of Heart Hunter Bellares and Sanares?\nMm... How about 15 each?",
         "pt-BR": "[Yuslan]\nÉ bom ouvir isso.\nEntão, você vai lidar com os Caça-Coração Bellare e Sanare?\nHm, cerca de 15, cada?",
         "es-ES": "[Yuslan]\nMe alegra oír eso.\nEntonces, ¿te encargarás de los Cazadores de Corazones Bellare y Sanare?\nHm, ¿unos 15 de cada uno?"
     },
     "6R6+Bw": {
-        "ko-KR": "[유슬란]\n적을 해치운다는 이유도 있지만 전투 데이터를 좀 얻고 싶어서요.\n그럼 부탁드리겠습니다.",
         "en-US": "[Juslan]\nWe need to take care of them, and we also want their combat data.\nThen, we'll be counting on you.",
         "pt-BR": "[Yuslan]\nHá uma razão para isso: quero obter alguns dados de batalha.\nEntão, contamos com você, por favor.",
         "es-ES": "[Yuslan]\nHay una razón para eso: quiero obtener algunos datos de combate.\nAsí que contamos contigo, por favor."
     },
     "6h6+Bw": {
-        "ko-KR": "[유슬란]\n그래야지요. 어휴 ….\n모험가님도 틈틈히 쉬세요. 이러다 우리 몸이 먼저 축나겠습니다.",
         "en-US": "[Juslan]\n*Sigh* Thank you.\nWe should take a break whenever we can. \nWe'll never last long, working like this.",
         "pt-BR": "[Yuslan]\nObrigado. Uh huh...\nViajantes precisam de uma pausa. Assim como nós...",
         "es-ES": "[Yuslan]\nGracias. Uh huh...\nLos trotamundos también necesitan un descanso. Igual que nosotros..."
     },
     "6x6+Bw": {
-        "ko-KR": "휴식이 필요해….",
         "en-US": "I need rest...",
         "pt-BR": "Queria dormir...",
         "es-ES": "Quisiera dormir..."

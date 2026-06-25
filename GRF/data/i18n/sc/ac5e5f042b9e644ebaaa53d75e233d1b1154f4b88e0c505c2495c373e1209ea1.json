@@ -1,42 +1,35 @@
 {
     "QGvtBw": {
-        "ko-KR": "하트헌터 기습병",
         "en-US": "Heart Hunter Ambusher",
         "pt-BR": "Caça-Coração Emboscador",
-        "es-ES": "Heart Hunter Ambusher"
+        "es-ES": "Cazacorazones Ambusher"
     },
     "QWvtBw": {
-        "ko-KR": "하트헌터 척후병",
         "en-US": "Heart Hunter",
         "pt-BR": "Intruso",
         "es-ES": "Cazador de corazones"
     },
     "QmvtBw": {
-        "ko-KR": "소지하고 계시는 아이템의 갯수가 많아 퀘스트를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
         "en-US": "You cannot proceed with the quest because you are carrying too many items.\nPlease organize your items and try again.",
         "pt-BR": "Você está com muitos itens no inventário e não pode prosseguir com a missão.\nPor favor, organize seus itens e tente novamente.",
         "es-ES": "No puede continuar la misión porque tiene demasiados objetos en su inventario.\nPor favor, organice sus objetos e inténtelo de nuevo."
     },
     "Q2vtBw": {
-        "ko-KR": "흐트러진 조경수 아래로 관리자 베타의 소체가 숨겨져 있다.",
         "en-US": "The body of Administrator Beta is hidden beneath the scattered landscaping trees.",
         "pt-BR": "Há uma carcaça de Guarda Beta escondida.",
         "es-ES": "Bajo el árbol ornamental desordenado está oculto el cuerpo del administrador Beta."
     },
     "RGvtBw": {
-        "ko-KR": "코어를 회수 했다.\n나중에 아몬드에게 알려 소체를 수습할 수 있도록 해야겠다.",
         "en-US": "I recovered the core.\nLater, I should tell Almond so they can retrieve the body.",
         "pt-BR": "Recuperei o núcleo.\nMais tarde, devo avisar Amêndoa para que possa recolher a carcaça.",
         "es-ES": "Recuperé el núcleo.\nMás tarde, debo avisarle a Almendra para que pueda recoger el cuerpo."
     },
     "RWvtBw": {
-        "ko-KR": "코어 부분이 비어있다.",
         "en-US": "The core section is empty.",
         "pt-BR": "A parte do núcleo está vazia.",
         "es-ES": "La parte del núcleo está vacía."
     },
     "RmvtBw": {
-        "ko-KR": "코어가 있어야 할 자리가 비어있다.\n나중에 알파에게 알려 소체를 수습할 수 있도록 해야겠다.",
         "en-US": "The place where the core should be is empty.\nLater, I should tell Alpha so they can retrieve the body.",
         "pt-BR": "O lugar onde o núcleo deveria ficar está vazio.\nMais tarde, devo avisar Alpha para que possa recolher a carcaça.",
         "es-ES": "El lugar donde debería estar el núcleo está vacío.\nMás tarde, debo avisarle a Alpha para que pueda recoger el cuerpo."

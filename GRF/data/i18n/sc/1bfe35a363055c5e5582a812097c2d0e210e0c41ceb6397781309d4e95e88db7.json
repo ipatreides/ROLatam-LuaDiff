@@ -1,156 +1,130 @@
 {
     "AIlXBg": {
-        "ko-KR": "X - Y - 플래그 - 킬누적\n------------------\n안드레아 - {0} {1} - {2} - {3}\n아네스   - {4} {5} - {6} - {7}\n실바노   - {8} {9} - {10} - {11}\n세실리아 - {12} {13} - {14} - {15}\n바포메트 - {16} {17} - {18} - {19}",
         "en-US": "X - Y - Flag - Kill Count\n------------------\nAndrea - {0} {1} - {2} - {3}\nAgnes   - {4} {5} - {6} - {7}\nSilvano   - {8} {9} - {10} - {11}\nCecilia - {12} {13} - {14} - {15}\nBaphomet - {16} {17} - {18} - {19}",
         "pt-BR": "Contagem de Caça\n------------------\nAndrea - {0} {1} - {2} - {3}\nAgnes   - {4} {5} - {6} - {7}\nSilvano   - {8} {9} - {10} - {11}\nCecilia - {12} {13} - {14} - {15}\nBafomé - {16} {17} - {18} - {19}",
         "es-ES": "X - Y - Bandera - Acumulado de Muertes\n------------------\nAndrea - {0} {1} - {2} - {3}\nAgnes   - {4} {5} - {6} - {7}\nSilvano   - {8} {9} - {10} - {11}\nCecilia - {12} {13} - {14} - {15}\nBaphomet - {16} {17} - {18} - {19}"
     },
     "AYlXBg": {
-        "ko-KR": "시간체크",
         "en-US": "Time Check",
         "pt-BR": "Ver cronômetro",
         "es-ES": "Verificar Tiempo"
     },
     "AolXBg": {
-        "ko-KR": "보스리셋",
         "en-US": "Boss Reset",
         "pt-BR": "Reiniciar Chefe",
         "es-ES": "Reiniciar Jefe"
     },
     "A4lXBg": {
-        "ko-KR": "중보소환",
         "en-US": "Mid-Boss Summon",
         "pt-BR": "Invocar Noviço",
         "es-ES": "Invocar Subjefe"
     },
     "BIlXBg": {
-        "ko-KR": "보스소환",
         "en-US": "Boss Summon",
         "pt-BR": "Invocar Chefe",
         "es-ES": "Invocar Jefe"
     },
     "BYlXBg": {
-        "ko-KR": "보스추적",
         "en-US": "Boss Tracking",
         "pt-BR": "Ir até o Chefe",
         "es-ES": "Rastrear Jefe"
     },
     "BolXBg": {
-        "ko-KR": "- 중보스 리젠 쿨타임 -\n안드레아 {0}초\n아네스 {1}초\n실바노 {2}초\n세실리아 {3}초\n------------\n보스 소환불가 잔여시간\n바포메트 {4}초",
         "en-US": "- Mid-Boss Respawn Cooldown -\nAndrea {0}sec\nAgnes {1}sec\nSilvano {2}sec\nCecilia {3}sec\n------------\nBoss Summon Unavailable Time Remaining\nBaphomet {4}sec",
         "pt-BR": "- Respawn do Noviço -\nAndrea {0} segundos\nAgnes {1} segundos\nSilvano {2} segundos\nCecilia {3} segundos\n------------\nTempo restante para invocar o Chefe:\nBafomé {4} segundos",
         "es-ES": "- Tiempo de Reaparición de Subjefe -\nAndrea {0}seg\nAgnes {1}seg\nSilvano {2}seg\nCecilia {3}seg\n------------\nTiempo Restante para Invocar al Jefe\nBaphomet {4}seg"
     },
     "B4lXBg": {
-        "ko-KR": "중보스 소환완료",
         "en-US": "Mid-Boss Summon Complete",
         "pt-BR": "Invocação completa dos Noviços",
         "es-ES": "Invocación de Subjefe Completada"
     },
     "CIlXBg": {
-        "ko-KR": "안드레아",
         "en-US": "Andrea",
         "pt-BR": "Andrea",
         "es-ES": "Andrea"
     },
     "CYlXBg": {
-        "ko-KR": "아네스",
         "en-US": "Agnes",
         "pt-BR": "Agnes",
         "es-ES": "Agnes"
     },
     "ColXBg": {
-        "ko-KR": "실바노",
         "en-US": "Silvano",
         "pt-BR": "Silvano",
         "es-ES": "Silvano"
     },
     "C4lXBg": {
-        "ko-KR": "세실리아",
         "en-US": "Cecilia",
         "pt-BR": "Cecilia",
         "es-ES": "Cecilia"
     },
     "DIlXBg": {
-        "ko-KR": "보스",
         "en-US": "Boss",
         "pt-BR": "Chefe",
         "es-ES": "Jefe"
     },
     "DYlXBg": {
-        "ko-KR": "깊은 심연의 혼돈 너머에서 끔찍한 존재가 강림하였습니다.",
         "en-US": "A terrifying entity has descended from beyond the deep abyss of chaos.",
         "pt-BR": "Uma terrível criatura ourinda do caos apareceu.",
         "es-ES": "Una entidad aterradora descendió de las profundidades del caos del abismo."
     },
     "DolXBg": {
-        "ko-KR": "혼돈의 바포메트",
         "en-US": "Baphomet of Chaos",
         "pt-BR": "Bafomé Caótico",
         "es-ES": "Baphomet Caótico"
     },
     "D4lXBg": {
-        "ko-KR": "따라올테면 따라와 봐라",
         "en-US": "Follow me if you dare.",
         "pt-BR": "Sigam-me, meus fiéis apóstolos!",
         "es-ES": "Atrápame y sígueme si te atreves."
     },
     "EIlXBg": {
-        "ko-KR": "지루해서 같이 놀아주기 힘들군.",
         "en-US": "It's hard to play along when it's so boring.",
         "pt-BR": "Vocês são tão patéticos.",
         "es-ES": "Ustedes son tan patéticos."
     },
     "EYlXBg": {
-        "ko-KR": "100년은 더 수련하고 오는게 어때?",
         "en-US": "Maybe you should train for another hundred years?",
         "pt-BR": "Por que você não treina pelos próximos 100 anos?",
         "es-ES": "¿Qué tal si entrenas por otros 100 años?"
     },
     "EolXBg": {
-        "ko-KR": "겨우 그정도로 내게 덤빈 것이냐?",
         "en-US": "You dare challenge me with such pitiful strength?",
         "pt-BR": "Quer mesmo que eu gaste minha força contra você?",
         "es-ES": "¿Acabas de atacarme?"
     },
     "E4lXBg": {
-        "ko-KR": "네놈이 날 찾을 수 있을까?",
         "en-US": "Do you think you can find me?",
         "pt-BR": "Consegue me peitar?",
         "es-ES": "¿Puedes encontrarme?"
     },
     "FIlXBg": {
-        "ko-KR": "혼돈의 바포메트가 무적 상태가 됩니다.",
         "en-US": "Baphomet of Chaos has become invincible.",
         "pt-BR": "Bafomé Caótico ativou a invencibilidade.",
         "es-ES": "Baphomet caótico se vuelve invencible."
     },
     "FYlXBg": {
-        "ko-KR": "혼돈의 바포메트에 걸린 무적상태가 해제되었습니다.",
         "en-US": "The invincibility status on Baphomet of Chaos has been removed.",
         "pt-BR": "Bafomé Caótico não está mais invencível.",
         "es-ES": "Se terminó la invencibilidad de Baphomet caótico."
     },
     "FolXBg": {
-        "ko-KR": "혼돈의 안드레아",
         "en-US": "Andrea of Chaos",
         "pt-BR": "Andrea Caótico",
         "es-ES": "Andrea Caótico"
     },
     "F4lXBg": {
-        "ko-KR": "혼돈의 아네스",
         "en-US": "Agnes of Chaos",
         "pt-BR": "Agnes Caótica",
         "es-ES": "Anes Caótico"
     },
     "GIlXBg": {
-        "ko-KR": "혼돈의 실바노",
         "en-US": "Silvano of Chaos",
         "pt-BR": "Silvano Caótico",
         "es-ES": "Silvano Caótico"
     },
     "GYlXBg": {
-        "ko-KR": "혼돈의 세실리아",
         "en-US": "Cecilia of Chaos",
         "pt-BR": "Cecília Caótica",
         "es-ES": "Cecilia Caótico"

@@ -1250,6 +1250,26 @@ worldtable_main = {
 		"180"
 	},
 	{
+		46,
+		"oz_dun01.rsw",
+		53,
+		232,
+		130,
+		268,
+		WORLD_MSGID.MSI_46_OZ_DUN01,
+		"170"
+	},
+	{
+		46,
+		"oz_dun02.rsw",
+		53,
+		232,
+		130,
+		268,
+		WORLD_MSGID.MSI_46_OZ_DUN02,
+		"200"
+	},
+	{
 		47,
 		"prt_mk.rsw",
 		942,
@@ -1451,6 +1471,26 @@ worldtable_main = {
 	},
 	{
 		101,
+		"ra_fild10.rsw",
+		107,
+		292,
+		163,
+		351,
+		WORLD_MSGID.MSI_101_RA_FILD10,
+		"165"
+	},
+	{
+		101,
+		"ra_fild11.rsw",
+		164,
+		292,
+		223,
+		351,
+		WORLD_MSGID.MSI_101_RA_FILD11,
+		"168"
+	},
+	{
+		101,
 		"ra_fild12.rsw",
 		283,
 		292,
@@ -1458,6 +1498,26 @@ worldtable_main = {
 		351,
 		WORLD_MSGID.MSI_101_RA_FILD12,
 		"95"
+	},
+	{
+		101,
+		"gw_fild01.rsw",
+		50,
+		292,
+		106,
+		351,
+		WORLD_MSGID.MSI_101_GW_FILD01,
+		"185"
+	},
+	{
+		105,
+		"gw_fild02.rsw",
+		50,
+		352,
+		106,
+		409,
+		WORLD_MSGID.MSI_101_GW_FILD02,
+		"185"
 	},
 	{
 		102,

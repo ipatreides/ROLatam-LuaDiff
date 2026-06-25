@@ -1,0 +1,142 @@
+{
+    "wOEZDQ": {
+        "en-US": "Aira",
+        "pt-BR": "Aira",
+        "es-ES": "Aira"
+    },
+    "weEZDQ": {
+        "en-US": "[Aira] Ah, it is not yet time for you to meet me. Please go back and have an apple.",
+        "pt-BR": "[Aira] Ah, senhor, ainda não é hora de me encontrar. Volte e vá comer uma maçã.",
+        "es-ES": "[Aira] Ah, profesor, aún no es el momento de verme. Regrese y coma una manzana mientras tanto."
+    },
+    "wuEZDQ": {
+        "en-US": "Villa of Deception",
+        "pt-BR": "Mansão da Desilusão",
+        "es-ES": "Mansión de la Desilusión"
+    },
+    "w+EZDQ": {
+        "en-US": "Villa of Deception(Advanced)",
+        "pt-BR": "Mansão da Desilusão(Avançado)",
+        "es-ES": "Mansión de la Desilusión(Avanzado)"
+    },
+    "xOEZDQ": {
+        "en-US": "^000044{0}^000000 Created",
+        "pt-BR": "^000044{0}^000000 criado",
+        "es-ES": "^000044{0}^000000 creado"
+    },
+    "xeEZDQ": {
+        "en-US": "^0000FF{0}^000000 Created",
+        "pt-BR": "^0000FF{0}^000000 criado",
+        "es-ES": "^0000FF{0}^000000 creado"
+    },
+    "xuEZDQ": {
+        "en-US": "^0000FFPlease form a party with at least 2 members and proceed.^000000",
+        "pt-BR": "^0000FFPor favor, forme um grupo com pelo menos 2 membros e prossiga.^000000",
+        "es-ES": "^0000FFPor favor, forme un grupo de al menos 2 personas para continuar.^000000"
+    },
+    "x+EZDQ": {
+        "en-US": "^0000FFAll aftereffects of entry have disappeared.^000000",
+        "pt-BR": "^0000FFTodos os efeitos colaterais de entrada desapareceram.^000000",
+        "es-ES": "^0000FFTodos los efectos secundarios de la entrada han desaparecido.^000000"
+    },
+    "yOEZDQ": {
+        "en-US": "[Aira] Thanks to you, {0}, I arrived safely at the village. However, it seems something inside the villa has come back to life again. I may need your help once more.",
+        "pt-BR": "[Aira] Graças a você, {0}, conseguimos chegar em segurança até a vila. Mas parece que algo reviveu novamente dentro da mansão. Acho que precisaremos da sua ajuda mais uma vez.",
+        "es-ES": "[Aira] Gracias a usted, {0}, he llegado sana y salva al pueblo. Pero parece que algo ha vuelto a despertar dentro de la villa. Creo que tendré que pedirle ayuda una vez más."
+    },
+    "yeEZDQ": {
+        "en-US": "Enter",
+        "pt-BR": "Entrar",
+        "es-ES": "Entrar"
+    },
+    "yuEZDQ": {
+        "en-US": "^00CCCCPlease form a party with at least 2 members and proceed.^000000",
+        "pt-BR": "^00CCCCPor favor, forme um grupo com pelo menos 2 membros e prossiga.^000000",
+        "es-ES": "^00CCCCPor favor, forme un grupo de al menos 2 personas para continuar.^000000"
+    },
+    "y+EZDQ": {
+        "en-US": "^0000FFVilla of Deception(Advanced)^000000",
+        "pt-BR": "^0000FFMansão da Desilusão(Avançado)^000000",
+        "es-ES": "^0000FFMansión de la Desilusión(Avanzado)^000000"
+    },
+    "zOEZDQ": {
+        "en-US": "Villa of Deception",
+        "pt-BR": "Mansão da Desilusão",
+        "es-ES": "Mansión de la Desilusión"
+    },
+    "zeEZDQ": {
+        "en-US": "Villa of Deception",
+        "pt-BR": "Mansão da Desilusão",
+        "es-ES": "Mansión de la Desilusión"
+    },
+    "zuEZDQ": {
+        "en-US": "Villa of Deception(Advanced)",
+        "pt-BR": "Mansão da Desilusão(Avançado)",
+        "es-ES": "Mansión de la Desilusión(Avanzado)"
+    },
+    "z+EZDQ": {
+        "en-US": "^FF0000An unknown error has occurred.^000000",
+        "pt-BR": "^FF0000Ocorreu um erro desconhecido.^000000",
+        "es-ES": "^FF0000Se ha producido un error desconocido.^000000"
+    },
+    "0OEZDQ": {
+        "en-US": "^0000FFThe dungeon has not been created or you are attempting to enter a different dungeon from the party leader.^000000",
+        "pt-BR": "^0000FFParece que a masmorra não foi criada ou que você está tentando entrar em uma masmorra diferente da do líder do grupo.^000000",
+        "es-ES": "^0000FFSe ha detectado que la mazmorra no ha sido creada o que se intenta entrar en una diferente a la del líder del grupo.^000000"
+    },
+    "0eEZDQ": {
+        "en-US": "^FF0000You cannot enter unless you are in a party.^000000",
+        "pt-BR": "^FF0000Não é possível entrar se não estiver em um grupo.^000000",
+        "es-ES": "^FF0000No puedes entrar si no estás en un grupo.^000000"
+    },
+    "0uEZDQ": {
+        "en-US": "<ITEM>Required Item<INFO>1000471</INFO></ITEM> Required Level: 200 or higher ^0000FFYou do not meet the dungeon entry requirements (level/required items). Entry has been canceled",
+        "pt-BR": "<ITEM>Item Necessário<INFO>1000471</INFO></ITEM> Nível necessário: 200 ou superior ^0000FFVocê não atende às condições de entrada da masmorra (nível/item necessário). A entrada foi cancelada",
+        "es-ES": "<ITEM>Objeto requerido<INFO>1000471</INFO></ITEM> Nivel requerido: 200 o superior ^0000FFNo se cumplen los requisitos de entrada de la mazmorra (nivel/objeto requerido). Se cancela la entrada"
+    },
+    "0+EZDQ": {
+        "en-US": "^0000FFThe aftereffects of dungeon entry have not yet disappeared. During this time, entering/creating the dungeon is not possible.",
+        "pt-BR": "^0000FFOs efeitos colaterais de entrada na masmorra ainda não desapareceram. Durante esse tempo, não é possível entrar/criar a masmorra.",
+        "es-ES": "^0000FFLos efectos secundarios de entrada a la mazmorra aún no han desaparecido. Durante este tiempo no es posible entrar/crear la mazmorra."
+    },
+    "1OEZDQ": {
+        "en-US": "A member of {0} party is participating in the {1} dungeon.",
+        "pt-BR": "Um membro do grupo {0} participa da incursão na masmorra {1}.",
+        "es-ES": "Un miembro del grupo {0} participa en la incursión de la mazmorra {1}."
+    },
+    "1eEZDQ": {
+        "en-US": "^0000FFOnly the party leader can create the dungeon.^000000",
+        "pt-BR": "^0000FFApenas o líder do grupo pode criar a masmorra.^000000",
+        "es-ES": "^0000FFSolo el líder del grupo puede crear la mazmorra.^000000"
+    },
+    "1uEZDQ": {
+        "en-US": "Villa of Deception",
+        "pt-BR": "Mansão da Desilusão",
+        "es-ES": "Mansión de la Desilusión"
+    },
+    "1+EZDQ": {
+        "en-US": "^0000FF{0} ^000000- Reservation Failed",
+        "pt-BR": "^0000FF{0} ^000000- falha na reserva",
+        "es-ES": "^0000FF{0} ^000000- reserva fallida"
+    },
+    "2OEZDQ": {
+        "en-US": "^0000FF{0} ^000000- Reservation Failed",
+        "pt-BR": "^0000FF{0} ^000000- Falha na Reserva",
+        "es-ES": "^0000FF{0} ^000000- Falla en la Reserva"
+    },
+    "2eEZDQ": {
+        "en-US": "^0000FF{0} ^000000- Reservation Failed",
+        "pt-BR": "^0000FF{0} ^000000- falha na reserva",
+        "es-ES": "^0000FF{0} ^000000- reserva fallida"
+    },
+    "2uEZDQ": {
+        "en-US": "Villa of Deception(Advanced)",
+        "pt-BR": "Mansão da Desilusão (Difícil)",
+        "es-ES": "Mansión de la Desilusión(Avanzado)"
+    },
+    "2+EZDQ": {
+        "en-US": "Villa of Deception",
+        "pt-BR": "Mansão da Desilusão",
+        "es-ES": "Mansión de la Desilusión"
+    }
+}

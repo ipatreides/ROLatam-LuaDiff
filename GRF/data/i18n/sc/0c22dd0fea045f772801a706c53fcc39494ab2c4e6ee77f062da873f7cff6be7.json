@@ -1,656 +1,547 @@
 {
     "INZIDA": {
-        "ko-KR": "예언자 K",
         "en-US": "Prophet K",
         "pt-BR": "Profeta K",
         "es-ES": "Profeta K"
     },
     "IdZIDA": {
-        "ko-KR": "소지하고 계시는 아이템의 갯수가 많아 퀘스트를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
         "en-US": "You are carrying too many items and cannot proceed with the quest.\nPlease organize your inventory and try again.",
         "pt-BR": "Você possui muitos itens no inventário e não pode prosseguir com a missão.\nPor favor, organize seus itens e tente novamente.",
         "es-ES": "No puede continuar con la misión porque tiene demasiados objetos en su inventario.\nPor favor, organice sus objetos e inténtelo de nuevo."
     },
     "ItZIDA": {
-        "ko-KR": "[예언자 K]\n말의 영혼조각을\n구해오는 것에\n성공한 것 같군!\n훌륭해!!",
-        "en-US": "[Prophet K]\nIt seems you have succeeded\nin gathering\nthe Horse Soul Fragments!\nExcellent!!",
-        "pt-BR": "[Profeta K]\nParece que você conseguiu\nrecuperar os\nFragmentos de Alma de Cavalo!\nExcelente!!",
+        "en-US": "[Prophet K]\nIt seems you have succeeded in gathering the Horse Spirit Fragments!\nExcellent!!",
+        "pt-BR": "[Profeta K]\nParece que você conseguiu os Fragmentos de Alma de Cavalo!\nExcelente!!",
         "es-ES": "[Profeta K]\n¡Parece que has tenido éxito\nen recuperar\nlos Fragmentos de Alma de Caballo!\n¡¡Excelente!!"
     },
     "I9ZIDA": {
-        "ko-KR": "[예언자 K]\n자 그럼 바로\n말의 영혼조각을 이용해\n12지신 중 말의 기운을 받은\n영웅의 위치를 찾는 의식을\n시작하도록 하지!",
-        "en-US": "[Prophet K]\nWell then, let's begin\nthe ritual immediately!\nUsing the Horse Soul Fragments,\nwe will locate the hero\nblessed by the Horse,\none of the 12 Zodiac Deities!",
-        "pt-BR": "[Profeta K]\nCerto, então vamos começar\nimediatamente o ritual\nusando os Fragmentos de Alma de Cavalo\npara encontrar o herói\nque possui a energia do Cavalo\nentre os 12 Signos Divinos!",
+        "en-US": "[Prophet K]\nWell then, let's begin the ritual immediately!\nUsing the Horse Spirit Fragments, we will locate the hero blessed by the Horse, one of the 12 Zodiac Deities!",
+        "pt-BR": "[Profeta K]\nCerto, então vamos começar imediatamente o ritual usando os Fragmentos de Alma de Cavalo para encontrar o herói que possui a energia do Cavalo entre os 12 Signos Divinos!",
         "es-ES": "[Profeta K]\nBien, entonces ahora mismo,\nusando los Fragmentos de Alma de Caballo,\n¡comencemos el ritual para encontrar\nal héroe bendecido por la energía\ndel Caballo entre los 12 Signos Zodiacales!"
     },
     "JNZIDA": {
-        "ko-KR": "[예언자 K]\n흠! 차..찾은거 같군!!\n아름다운 자연과 원주민이\n어울려 사는 그곳..",
         "en-US": "[Prophet K]\nHmm! I...I think I've found it!!\nA place where beautiful nature and natives\nharmoniously live together..",
-        "pt-BR": "[Profeta K]\nHmm! En..contrei, parece!!\nUm lugar onde a bela natureza e os nativos\nvivem em harmonia..",
+        "pt-BR": "[Profeta K]\nHmm! A...Acho que encontrei!!\nUm lugar onde a bela natureza e os nativos vivem em harmonia...",
         "es-ES": "[Profeta K]\n¡Mm! ¡Parece que lo... lo he encontrado!\nEse lugar donde la hermosa naturaleza\ny los nativos conviven en armonía..."
     },
     "JdZIDA": {
-        "ko-KR": "[예언자 K]\n그 원주민들 사이에..\n가장 높은 그곳에서..\n말끔히 정장을 입은\n한 사내가 보이는군!",
         "en-US": "[Prophet K]\nAmong those natives..\nAt the highest point there..\nI see a man dressed in a neat suit!",
-        "pt-BR": "[Profeta K]\nEntre aqueles nativos..\nNo ponto mais alto..\nVejo um homem vestido com um\nterno impecável!",
+        "pt-BR": "[Profeta K]\nEntre aqueles nativos...\nNo ponto mais alto...\nVejo um homem vestido com um terno impecável!",
         "es-ES": "[Profeta K]\nEntre esos nativos...\nen el punto más alto...\n¡puedo ver a un hombre\nvestido con un traje impecable!"
     },
     "JtZIDA": {
-        "ko-KR": "[예언자 K]\n영혼의 부적을 안가져왔나?\n이미 효과가 다했으니, 그냥 자네가 알아서 처리해도 상관없네만.\n하던 이야기를 계속 하지.",
-        "en-US": "[Prophet K]\nDid you not bring the Soul Amulet?\nIts effect has already worn off, so you can handle it as you see fit, no problem.\nLet's continue our story.",
+        "en-US": "[Prophet K]\nDid you not bring the Talisman of Soul?\nIts effect has already worn off, so you can handle it as you see fit, no problem.\nLet's continue our story.",
         "pt-BR": "[Profeta K]\nVocê não trouxe o Amuleto da Alma?\nJá que seu efeito acabou, não há problema se você lidar com isso por conta própria.\nVamos continuar de onde paramos.",
         "es-ES": "[Profeta K]\n¿No trajiste el Amuleto de Alma?\nSu efecto ya se agotó, así que no hay problema si te encargas de ello por tu cuenta.\nContinuemos con lo que estábamos hablando."
     },
     "J9ZIDA": {
-        "ko-KR": "[예언자 K]\n아마도 지역은\n움발라로 추정되는데..\n가서 그 사람을 찾아봐주길\n바라네!",
-        "en-US": "[Prophet K]\nThe area is presumed to be\nUmbala...\nI ask that you go\nand find that person!",
-        "pt-BR": "[Profeta K]\nAcredito que a região seja\nprovavelmente Umbala...\nEspero que você vá até lá\ne encontre aquela pessoa!",
+        "en-US": "[Prophet K]\nThe area is presumed to be Umbala...\nI ask that you go and find that person!",
+        "pt-BR": "[Profeta K]\nAcredito que a região seja provavelmente Umbala...\nEspero que você vá até lá e encontre aquela pessoa!",
         "es-ES": "[Profeta K]\nSupongo que el área\nes Umbala...\nEspero que vayas\ny encuentres a esa persona."
     },
     "KNZIDA": {
-        "ko-KR": "[예언자 K]\n그를 찾아서 내가 준\n밀서를 건네주도록 하게.\n그 이후에 판단은\n그가 스스로 하겠지..\n모든 것 은 하늘의 뜻 대로..\n후후..",
-        "en-US": "[Prophet K]\nFind him and deliver\nthe secret letter I gave you.\nHe will judge for himself\nafter that...\nEverything is according to heaven's will...\nHoo hoo..",
-        "pt-BR": "[Profeta K]\nEncontre-o e entregue\na carta secreta que eu lhe dei.\nA partir daí, a decisão\nserá dele...\nTudo segue a vontade do céu..\nHuhu..",
+        "en-US": "[Prophet K]\nFind him and deliver the secret letter I gave you.\nHe will judge for himself after that...\nEverything is according to heaven's will...\nHoo hoo..",
+        "pt-BR": "[Profeta K]\nEncontre-o e entregue a carta secreta que eu lhe dei.\nA partir daí, a decisão será dele...\nTudo segue a vontade do céu...\nHuhu...",
         "es-ES": "[Profeta K]\nBúscalo y entrégale\nla carta secreta que te di.\nDespués de eso, él\ntomará su propia decisión...\nTodo sigue la voluntad del cielo...\nJuju..."
     },
     "KdZIDA": {
-        "ko-KR": "[예언자 K]\n말의 영혼조각을\n모아오는 일은\n잘 되고 있는가?",
-        "en-US": "[Prophet K]\nIs the task of gathering\nthe Horse Soul Fragments\ngoing well?",
-        "pt-BR": "[Profeta K]\nComo está indo a tarefa\nde juntar os\nFragmentos de Alma de Cavalo?",
+        "en-US": "[Prophet K]\nIs the task of gathering the Horse Spirits going well?",
+        "pt-BR": "[Profeta K]\nComo está indo a tarefa de juntar os Fragmentos de Alma de Cavalo?",
         "es-ES": "[Profeta K]\n¿Va bien la tarea de\nrecolectar los\nFragmentos de Alma de Caballo?"
     },
     "KtZIDA": {
-        "ko-KR": "[예언자 K]\n아직은 조금 부족한 것 같군.\n그래, 나에게 무슨 할 말이라도\n있는가?",
-        "en-US": "[Prophet K]\nIt still seems a bit lacking.\nYes, do you have something\nto say to me?",
-        "pt-BR": "[Profeta K]\nAinda parece estar um pouco insuficiente.\nCerto, você tem algo\npara me dizer?",
+        "en-US": "[Prophet K]\nIt still seems a bit lacking.\nYes, do you have something to say to me?",
+        "pt-BR": "[Profeta K]\nAinda parece estar faltando um pouco.\nCerto, você tem algo para me dizer?",
         "es-ES": "[Profeta K]\nParece que todavía faltan algunos.\nDime, ¿tienes algo\nque quieras preguntarme?"
     },
     "K9ZIDA": {
-        "ko-KR": "영혼을 얻는 위치를 물어본다.",
         "en-US": "Ask about the soul gathering location.",
-        "pt-BR": "Pergunta onde obter as almas.",
+        "pt-BR": "Perguntar onde obter os fragmentos.",
         "es-ES": "Preguntar la ubicación para obtener las almas."
     },
     "LNZIDA": {
-        "ko-KR": "대화를 종료한다",
         "en-US": "End the conversation.",
-        "pt-BR": "Encerra a conversa.",
+        "pt-BR": "Encerrar a conversa.",
         "es-ES": "Terminar la conversación."
     },
     "LdZIDA": {
-        "ko-KR": "[예언자 K]\n알베르타에서 배를 타고\n브라질리스 필드로 가면\n머리없는 말이\n서식하고 있을 것 이네.",
-        "en-US": "[Prophet K]\nIf you take a ship from Alberta\nto the Brasilis Fields,\nthere should be Headless Horses\ninhabiting the area.",
-        "pt-BR": "[Profeta K]\nSe você pegar um barco de Alberta\npara os Campos de Brasilis,\nencontrará Mula-sem-Cabeça\nhabitando por lá.",
+        "en-US": "[Prophet K]\nIf you take a ship from Alberta to the Brasilis Fields, there should be Headless Mules inhabiting the area.",
+        "pt-BR": "[Profeta K]\nSe você pegar um barco em Alberta para os Campos de Brasilis,\nencontrará Mula-sem-Cabeça habitando por lá.",
         "es-ES": "[Profeta K]\nToma un bote desde Alberta\nhacia el campo Brasilis,\nallí encontrarás\nCaballos sin Cabeza\nhabitando."
     },
     "LtZIDA": {
-        "ko-KR": "[예언자 K]\n그 머리없는 말을\n잡아서 말의 영혼 조각\n150개를 구해와 주게.",
-        "en-US": "[Prophet K]\nHunt those Headless Horses\nand gather 150\nHorse Soul Fragments for me.",
-        "pt-BR": "[Profeta K]\nDerrote aqueles Mula-sem-Cabeça\ne traga para mim\n150 Fragmentos de Alma de Cavalo.",
+        "en-US": "[Prophet K]\nHunt those Headless Mules and gather 150 Horse Spirit Fragments for me.",
+        "pt-BR": "[Profeta K]\nDerrote aquelas Mula-sem-Cabeça e traga me traga 150 Fragmentos de Alma de Cavalo.",
         "es-ES": "[Profeta K]\nPor favor, derrota a esos\nCaballos sin Cabeza\ny consigue 150 Fragmentos de Alma de Caballo."
     },
     "L9ZIDA": {
-        "ko-KR": "[예언자 K]\n영혼 조각을 전부 모으고\n나를 다시 찾아와주길 바라네.",
-        "en-US": "[Prophet K]\nI hope you gather all the soul fragments\nand come find me again.",
-        "pt-BR": "[Profeta K]\nEspero que você colete todos\nos Fragmentos de Alma\ne volte até mim.",
+        "en-US": "[Prophet K]\nI hope you gather all the soul fragments and come find me again.",
+        "pt-BR": "[Profeta K]\nEspero que você colete todos os Fragmentos de Alma e volte até mim.",
         "es-ES": "[Profeta K]\nEspero que reúnas todos\nlos Fragmentos de Alma\ny vuelvas a buscarme."
     },
     "MNZIDA": {
-        "ko-KR": "[예언자 K]\n나는 예언자 K라고 하네,\n12지신을 모시고 있는\n사제이기도 하며,\n주로 예지몽을 이용해\n미래를 예측하고는 하지.",
-        "en-US": "[Prophet K]\nI am called Prophet K.\nI am a priest who serves\nthe 12 Zodiac Deities,\nand I mainly predict the future\nusing prophetic dreams.",
-        "pt-BR": "[Profeta K]\nMeu nome é Profeta K.\nSou um sacerdote que serve\nos 12 Signos Divinos,\ne geralmente prevejo o futuro\nusando sonhos premonitórios.",
+        "en-US": "[Prophet K]\nI am called Prophet K.\nI am a priest who serves the 12 Zodiac Deities, and I mainly predict the future using prophetic dreams.",
+        "pt-BR": "[Profeta K]\nMeu nome é Profeta K.\nSou um sacerdote que serve os 12 Signos Divinos e geralmente prevejo o futuro através de sonhos premonitórios.",
         "es-ES": "[Profeta K]\nMe llaman el Profeta K.\nSoy un sacerdote que sirve\na los 12 Dioses Zodiacales,\ny principalmente predigo el futuro\nusando sueños proféticos."
     },
     "MdZIDA": {
-        "ko-KR": "[예언자 K]\n어제 저녁에 드디어\n12지신의 계시를 받아\n잠을 자다가 예지몽을 꿨어..\n이건 정말 중요한\n꿈 인 것 같아, 그래서 내가\n부탁할 사람이 필요한데..",
-        "en-US": "[Prophet K]\nLast night, I finally\nreceived a revelation from the 12 Zodiac Deities\nand had a prophetic dream while sleeping..\nThis seems to be a very important\ndream, so I need\nsomeone to do me a favor...",
-        "pt-BR": "[Profeta K]\nFinalmente, ontem à noite,\nrecebi uma revelação dos 12 Signos Divinos\ne tive um sonho premonitório enquanto dormia...\nParece ser um sonho muito importante,\nentão preciso de alguém\npara me fazer um favor...",
+        "en-US": "[Prophet K]\nLast night, I finally received a revelation from the 12 Zodiac Deities and had a prophetic dream while sleeping...\nThis seems to be a very important dream, so I need someone to do me a favor...",
+        "pt-BR": "[Profeta K]\nOntem à noite, eu finalmente recebi uma revelação dos 12 Signos Divinos\ne tive um sonho premonitório enquanto dormia...\nParece ser um sonho muito importante, então preciso de alguém para me fazer um favor...",
         "es-ES": "[Profeta K]\nAnoche, finalmente\nrecibí una revelación de los 12 Dioses Zodiacales\ny tuve un sueño profético mientras dormía...\nParece un sueño muy importante,\nasí que necesito\nque alguien me haga un favor..."
     },
     "MtZIDA": {
-        "ko-KR": "^8B4513예지몽^000000에 대해서 듣는다.",
         "en-US": "Listen about the ^8B4513prophetic dream^000000.",
-        "pt-BR": "Ouve sobre o ^8B4513sonho premonitório^000000.",
+        "pt-BR": "Ouvir sobre o ^8B4513sonho premonitório^000000.",
         "es-ES": "Escuchar sobre el ^8B4513sueño profético^000000."
     },
     "M9ZIDA": {
-        "ko-KR": "예언자 K의 ^8B4513부탁^000000을 들어본다",
         "en-US": "Hear Prophet K's ^8B4513request^000000.",
-        "pt-BR": "Ouve o ^8B4513pedido^000000 do Profeta K.",
+        "pt-BR": "Ouvir o ^8B4513pedido^000000 do Profeta K.",
         "es-ES": "Escuchar la ^8B4513solicitud^000000 del Profeta K."
     },
     "NNZIDA": {
-        "ko-KR": "[예언자 K]\n그래 그 꿈 속은..\n드넓은 초원과 푸르른\n하늘이 보였어..",
-        "en-US": "[Prophet K]\nYes, in that dream..\nI saw a vast grassland and a blue\nsky..",
-        "pt-BR": "[Profeta K]\nCerto, naquele sonho..\nEu via uma vasta planície\ne um céu azul..",
+        "en-US": "[Prophet K]\nYes, in that dream...\nI saw a vast grassland and a blue sky...",
+        "pt-BR": "[Profeta K]\nCerto, naquele sonho...\nEu via uma vasta planície e um céu azul.",
         "es-ES": "[Profeta K]\nBien, en ese sueño...\nVi una vasta pradera\ny un cielo azul..."
     },
     "NdZIDA": {
-        "ko-KR": "[예언자 K]\n아름다운 풍경을 감상하고\n있을 때 쯤 갑자기..\n엄청난 속도로 내 몸이 초원을\n가로지르기 시작했어!\n놀란 마음에 주변을 살펴보니..",
-        "en-US": "[Prophet K]\nJust as I was admiring\nthe beautiful scenery, suddenly..\nMy body began crossing the grassland\nat an incredible speed!\nWhen I looked around in surprise..",
-        "pt-BR": "[Profeta K]\nMais ou menos quando eu estava\napreciando a bela paisagem, de repente..\nMeu corpo começou a cruzar a planície\na uma velocidade tremenda!\nQuando olhei ao redor, assustado..",
-        "es-ES": "[Profeta K]\nCasi cuando estaba admirando\nel hermoso paisaje, de repente...\n¡Mi cuerpo comenzó a cruzar la pradera\na una velocidad tremenda!\nAl asombrarme, miré a mi alrededor..."
+        "en-US": "[Prophet K]\nJust as I was admiring the beautiful scenery, suddenly...\nMy body began crossing the grassland at an incredible speed!\nWhen I looked around in surprise...",
+        "pt-BR": "[Profeta K]\nEnquanto eu estava apreciando a bela paisagem, de repente meu corpo começou a cruzar a planície\na uma velocidade tremenda!\nQuando olhei ao redor, assustado...",
+        "es-ES": "[Profeta K]\nJusto cuando disfrutaba\ndel hermoso paisaje, de repente...\n¡Mi cuerpo comenzó a cruzar la pradera\na una velocidad tremenda!\nCuando miré a mi alrededor, aterrorizado..."
     },
     "NtZIDA": {
-        "ko-KR": "[예언자 K]\n바로 12지신 중\n말의 신 이었어!\n말의 신은 나를 위에 태우고\n엄청난 속도로 달리기 시작헀고,\n얼마 지나지 않아 내가 지나왔던\n초원에 엄청난 폭발이 일어났어.",
-        "en-US": "[Prophet K]\nIt was the Horse Deity,\none of the 12 Zodiac Deities!\nThe Horse Deity carried me on its back and\nbegan running at tremendous speed,\nand shortly after, a huge explosion occurred\nin the grassland I had just passed through.",
-        "pt-BR": "[Profeta K]\nEra o Deus Cavalo\nentre os 12 Signos Divinos!\nO Deus Cavalo me carregou nas suas costas\ne começou a correr a uma velocidade incrível,\ne pouco depois, uma explosão enorme\nocorreu na planície por onde eu tinha passado.",
-        "es-ES": "[Profeta K]\n¡Era el Dios Caballo\nentre los 12 Signos Zodiacales!\nEl Dios Caballo me montó sobre él\ny comenzó a correr a una velocidad increíble,\ny poco después, una explosión masiva\nocurrió en la pradera por donde había pasado."
+        "en-US": "[Prophet K]\nIt was the Horse Deity, one of the 12 Zodiac Deities!\nThe Horse Deity carried me on its back and began running at tremendous speed, and shortly after, a huge explosion occurred in the grassland I had just passed through.",
+        "pt-BR": "[Profeta K]\nEra o Deus Cavalo entre os 12 Signos Divinos!\nO Deus Cavalo me carregou nas suas costas e começou a correr a uma velocidade incrível, e pouco depois, uma explosão enorme ocorreu na planície por onde eu tinha passado.",
+        "es-ES": "[Profeta K]\n¡Era el Dios Caballo\nentre los 12 Signos Zodiacales!\nEl Dios Caballo me llevó a cuestas\ny comenzó a correr a una velocidad increíble,\ny poco después, una explosión masiva\nocurrió en la pradera por donde había pasado."
     },
     "N9ZIDA": {
-        "ko-KR": "[예언자 K]\n그 때 알게 되었지,\n아 이건 예지몽이다!\n큰 환란이 앞으로\n일어날 것이다! 라고",
-        "en-US": "[Prophet K]\nThat's when I realized,\nAh, this is a prophetic dream!\nA great calamity\nwill occur in the future!",
-        "pt-BR": "[Profeta K]\nFoi quando eu percebi,\nAh, isto é um sonho premonitório!\nUma grande calamidade\nestá prestes a acontecer!",
-        "es-ES": "[Profeta K]\nFue entonces cuando me di cuenta,\n¡Ah, esto es un sueño profético!\n¡Significa que una gran calamidad\nocurrirá en el futuro!"
+        "en-US": "[Prophet K]\nThat's when I realized, Ah, this is a prophetic dream!\nA great calamity will occur in the future!",
+        "pt-BR": "[Profeta K]\nFoi quando eu percebi que aquilo era um sonho premonitório!\nUma grande calamidade está prestes a acontecer!",
+        "es-ES": "[Profeta K]\nFue entonces cuando me di cuenta,\n¡Ah, esto es un sueño profético!\n¡Una gran calamidad\nestá a punto de ocurrir!"
     },
     "ONZIDA": {
-        "ko-KR": "[예언자 K]\n그리고는 말의 신 께서\n내게 말했어!\n12지신의 기운을 받은\n사람을 찾아야 한다고..\n그래야 이 환란을\n막을 수 있다고..",
-        "en-US": "[Prophet K]\nAnd then the Horse Deity\nspoke to me!\nWe must find the people\nblessed by the energy of the 12 Zodiac Deities..\nOnly then can we stop\nthis calamity..",
-        "pt-BR": "[Profeta K]\nE então o Deus Cavalo\nme disse!\nQue eu preciso encontrar\na pessoa que possui a energia dos 12 Signos Divinos..\nSó assim poderemos\nimpedir esta calamidade..",
+        "en-US": "[Prophet K]\nAnd then the Horse Deity spoke to me!\nWe must find the people blessed by the energy of the 12 Zodiac Deities...\nOnly then can we stop this calamity...",
+        "pt-BR": "[Profeta K]\nE então o Deus Cavalo me disse que eu preciso encontrar\na pessoa que possui a energia dos 12 Signos Divinos.\nSó assim poderemos impedir esta calamidade...",
         "es-ES": "[Profeta K]\n¡Y entonces el Dios Caballo\nme habló!\nDijo que debíamos encontrar\na las personas bendecidas\npor la energía de los 12 Dioses Zodiacales...\nSolo así podremos\ndetener esta calamidad..."
     },
     "OdZIDA": {
-        "ko-KR": "[예언자 K]\n아직 그 사람의 이름도,\n사는 곳도 전혀 모르지만,\n이 예지몽은 나에게\n그 를 찾아야 한다고\n말하고 있어!.",
-        "en-US": "[Prophet K]\nI still don't know their names\nor where they live at all,\nbut this prophetic dream\nis telling me\nthat I must find them!",
-        "pt-BR": "[Profeta K]\nAinda não sabemos o nome dela,\nnem onde vive,\nmas este sonho premonitório\nestá me dizendo\nque preciso encontrá-lo!",
-        "es-ES": "[Profeta K]\nTodavía no sé su nombre,\nni dónde vive,\n¡pero este sueño profético\nme dice que\ndebo encontrarlo!"
+        "en-US": "[Prophet K]\nI still don't know their names or where they live at all, but this prophetic dream is telling me that I must find them!",
+        "pt-BR": "[Profeta K]\nAinda não sabemos o nome dela e nem onde vive, mas este sonho premonitório\nestá me dizendo que preciso encontrá-lo!",
+        "es-ES": "[Profeta K]\nTodavía no sé su nombre,\nni dónde vive,\npero este sueño profético\nme está diciendo\n¡que tengo que encontrarlo!"
     },
     "OtZIDA": {
-        "ko-KR": "[예언자 K]\n역시 이대로는 단서가\n너무 부족해, 그래서\n나의 예언 능력을 발휘하는\n의식을 통해 그 를 찾아야 해",
-        "en-US": "[Prophet K]\nAs expected, there are too few clues like this.\nSo, we must find them\nthrough a ritual where I utilize\nmy prophetic abilities.",
-        "pt-BR": "[Profeta K]\nRealmente, assim as pistas são\ninsuficientes. Portanto,\npreciso encontrá-lo através de um ritual\nonde utilizo minha habilidade de profecia.",
-        "es-ES": "[Profeta K]\nComo era de esperar, así no hay suficientes pistas.\nPor eso, necesito encontrarlo\nrealizando un ritual\ndonde despliego mi habilidad de profecía."
+        "en-US": "[Prophet K]\nAs expected, there are too few clues like this.\nSo, we must find them through a ritual where I utilize my prophetic abilities.",
+        "pt-BR": "[Profeta K]\nAs pistas são poucas. \nPortanto, preciso encontrá-lo através de um ritual onde utilizo minha habilidade de profecia.",
+        "es-ES": "[Profeta K]\nEn efecto, las pistas son\ninsuficientes. Por lo tanto,\nnecesito encontrarlo mediante un ritual\nen el que utilice mi habilidad de profecía."
     },
     "O9ZIDA": {
-        "ko-KR": "[예언자 K]\n그 의식을 하기 위해서는\n의식에 가장 중요한\n찾고자 하는 대상을\n나타내는 물품, 또는 유사한\n기운, 에너지가 필요하지.",
-        "en-US": "[Prophet K]\nTo perform that ritual,\nwe need the most important item:\nan object representing the target we seek,\nor a similar\nenergy, aura.",
-        "pt-BR": "[Profeta K]\nPara realizar este ritual,\né necessário um item que represente\no alvo que desejo encontrar,\nou uma energia semelhante,\né o mais importante.",
-        "es-ES": "[Profeta K]\nPara realizar ese ritual,\nse necesita lo más importante:\nun objeto que represente\nel objetivo que busco, o una energía similar."
+        "en-US": "[Prophet K]\nTo perform that ritual, we need the most important item: an object representing the target we seek, or a similar energy or aura.",
+        "pt-BR": "[Profeta K]\nPara realizar este ritual, é necessário um item que represente\no alvo ou uma energia semelhante a que desejo encontrar, isto é o mais importante.",
+        "es-ES": "[Profeta K]\nPara realizar este ritual,\nse necesita un objeto que represente\nal objetivo que deseo encontrar,\no una energía similar,\neso es lo más importante."
     },
     "PNZIDA": {
-        "ko-KR": "[예언자 K]\n그래서 그걸 구하기 위해\n자네의 도움이 필요한거야.",
-        "en-US": "[Prophet K]\nThat's why I need your help\nto obtain it.",
-        "pt-BR": "[Profeta K]\nÉ por isso que preciso\nda sua ajuda para consegui-lo.",
+        "en-US": "[Prophet K]\nThat's why I need your help to obtain it.",
+        "pt-BR": "[Profeta K]\nÉ por isso que preciso da sua ajuda para consegui-lo.",
         "es-ES": "[Profeta K]\nEs por eso que para conseguir eso,\nnecesito tu ayuda."
     },
     "PdZIDA": {
-        "ko-KR": "[예언자 K]\n그래서 이번에 꾼 꿈은\n말의 기운을 받은\n사람을 말하는 것\n이라고 생각해.",
-        "en-US": "[Prophet K]\nSo, I believe the dream I had this time\nrefers to the person\nblessed by the Horse's energy.",
-        "pt-BR": "[Profeta K]\nEntão, acho que o sonho que tive\nse refere à pessoa\nque possui a energia do Cavalo.",
-        "es-ES": "[Profeta K]\nCreo que el sueño que tuve esta vez\nse refiere a la persona\nbendecida con la energía\ndel Caballo."
+        "en-US": "[Prophet K]\nSo, I believe the dream I had this time refers to the person blessed by the Horse's energy.",
+        "pt-BR": "[Profeta K]\nEntão, acho que o sonho que tive se refere à pessoa que possui a energia do Cavalo.",
+        "es-ES": "[Profeta K]\nCreo que el sueño que tuve se refiere \na la persona bendecida\ncon la energía el Caballo."
     },
     "PtZIDA": {
-        "ko-KR": "[예언자 K]\n그래서 말야\n말의 영혼 조각이 필요한데\n나를 도와 영혼 조각을\n찾아 줄 수 있겠는가?",
-        "en-US": "[Prophet K]\nSo, you see,\nI need Horse Soul Fragments.\nCan you help me find\nthe soul fragments?",
-        "pt-BR": "[Profeta K]\nSendo assim,\npreciso de Fragmentos de Alma de Cavalo.\nVocê pode me ajudar a\nencontrar os Fragmentos de Alma?",
-        "es-ES": "[Profeta K]\nAsí que, verás,\nnecesito Fragmentos de Alma de Caballo.\n¿Podrías ayudarme a encontrar\nlos Fragmentos de Alma?"
+        "en-US": "[Prophet K]\nSo, you see, I need Horse Spirit Fragments.\nCan you help me find the soul fragments?",
+        "pt-BR": "[Profeta K]\nSendo assim, preciso de Fragmentos de Alma de Cavalo.\nVocê pode me ajudar a encontrar os Fragmentos de Alma?",
+        "es-ES": "[Profeta K]\nEn ese caso,\nnecesito Fragmentos de Alma de Caballo.\n¿Podrías ayudarme a encontrar\nlos Fragmentos de Alma?"
     },
     "P9ZIDA": {
-        "ko-KR": "부탁을 들어준다.",
         "en-US": "Agree to the request.",
-        "pt-BR": "Aceita o pedido.",
+        "pt-BR": "Aceitar o pedido.",
         "es-ES": "Aceptar la solicitud."
     },
     "QNZIDA": {
-        "ko-KR": "부탁을 거절한다.",
         "en-US": "Refuse the request.",
-        "pt-BR": "Recusa o pedido.",
+        "pt-BR": "Recusar o pedido.",
         "es-ES": "Rechazar la solicitud."
     },
     "QdZIDA": {
-        "ko-KR": "[예언자 K]\n고맙네.\n여기 영혼의 부적을 주겠네\n이걸 가지고 있는 상태로\n말의 영혼을 얻을 수 있는\n몬스터를 사냥해야 하네.",
-        "en-US": "[Prophet K]\nThank you.\nI'll give you this Soul Amulet.\nWhile holding this,\nyou must hunt monsters\nfrom which you can obtain Horse Souls.",
-        "pt-BR": "[Profeta K]\nAgradeço.\nAqui está o Amuleto da Alma.\nVocê precisa carregá-lo consigo\ne caçar monstros dos quais\npossa obter a Alma de Cavalo.",
-        "es-ES": "[Profeta K]\nGracias.\nTe daré este Amuleto de Alma.\nDebes llevarlo contigo\ny cazar monstruos de los que\npuedas obtener almas de caballo."
+        "en-US": "[Prophet K]\nThank you.\nI'll give you this Talisman of Soul.\nWhile holding this, you must hunt monsters from which you can obtain Horse Spirits.",
+        "pt-BR": "[Profeta K]\nAgradeço.\nAqui está o Amuleto da Alma.\nVocê precisa carregá-lo consigo e caçar monstros dos quais possa obter a Alma de Cavalo.",
+        "es-ES": "[Profeta K]\nGracias.\nAquí tienes el Amuleto del Alma.\nDebes llevarlo contigo\ny cazar monstruos de los que\npuedas obtener Alma de Caballo."
     },
     "QtZIDA": {
-        "ko-KR": "[예언자 K]\n게펜 중앙 탑으로 가서\n지하로 내려가다 보면\n게펜 지하던전이 나올 것이네.\n지하던전 2층으로 내려가면\n나이트 메어가 보일 것이야.",
-        "en-US": "[Prophet K]\nGo to the central tower in Geffen\nand head downstairs,\nyou'll find the Geffen Underground Dungeon.\nGo down to the 2nd floor of the underground dungeon,\nand you'll see Nightmares.",
-        "pt-BR": "[Profeta K]\nVá até a Torre Central de Geffen\ne desça até o subsolo,\nvocê encontrará a Masmorra de Geffen.\nDesça até o 2º andar da masmorra\ne verá Pesadelos.",
-        "es-ES": "[Profeta K]\nVe a la Torre Central de Geffen\ny desciende bajo tierra,\nencontrarás la Mazmorra Subterránea de Geffen.\nSi bajas al segundo nivel de la mazmorra,\nverás a Nightmare."
+        "en-US": "[Prophet K]\nGo to the central tower in Geffen and head downstairs, you'll find the Geffen Underground Dungeon.\nGo down to the 2nd floor of the underground dungeon, and you'll see Nightmares.",
+        "pt-BR": "[Profeta K]\nVá até a Torre Central de Geffen e desça até o subsolo, você encontrará a Masmorra de Geffen.\nDesça até o 2º andar da masmorra e verá Pesadelos.",
+        "es-ES": "[Profeta K]\nVe a la Torre Central de Geffen\ny baja al subsuelo,\nallí encontrarás la Mazmorra de Geffen.\nBaja al segundo piso de la mazmorra\ny verás a las Pesadillas."
     },
     "Q9ZIDA": {
-        "ko-KR": "[예언자 K]\n나이트메어를 잡아서\n말의 영혼조각 100개를\n모아오게!",
-        "en-US": "[Prophet K]\nCatch Nightmares and\ngather 100 Horse Soul Fragments!",
-        "pt-BR": "[Profeta K]\nDerrote Pesadelos\ne colete 100 Fragmentos de Alma de Cavalo!",
-        "es-ES": "[Profeta K]\n¡Derrota Nightmares\ny reúne 100\nFragmentos de Alma de Caballo!"
+        "en-US": "[Prophet K]\nDefeat Nightmares and gather 100 Horse Spirit Fragments!",
+        "pt-BR": "[Profeta K]\nDerrote Pesadelos e colete 100 Fragmentos de Alma de Cavalo!",
+        "es-ES": "[Profeta K]\n¡Derrota Pesadillas\ny reúne 100\nFragmentos de Alma de Caballo!"
     },
     "RNZIDA": {
-        "ko-KR": "[예언자 K]\n그 정도라면 충분히\n말의 기운을 받은 사람을\n찾는 의식에 부족함이 없을거야.",
-        "en-US": "[Prophet K]\nThat amount should be\nsufficient for the ritual to find\nthe person blessed by the Horse's energy.",
-        "pt-BR": "[Profeta K]\nCom essa quantidade, será\nsuficiente para o ritual\nde encontrar a pessoa\ncom a energia do Cavalo.",
-        "es-ES": "[Profeta K]\nCon esa cantidad, seguramente\nserá suficiente para el ritual\npara encontrar a la persona\nbendecida por la energía del Caballo."
+        "en-US": "[Prophet K]\nThat amount should be sufficient for the ritual to find the person blessed by the Horse's energy.",
+        "pt-BR": "[Profeta K]\nEssa quantidade será suficiente para o ritual de encontrar a pessoa com a energia do Cavalo.",
+        "es-ES": "[Profeta K]\nCon esa cantidad, será\nsuficiente para el ritual\nde encontrar a la persona\nbendecida por la energía del Caballo."
     },
     "RdZIDA": {
-        "ko-KR": "[예언자 K]\n가방에 소지품이 가득하게\n차 있군. 소지품을 줄여야\n나를 도와줄 수 있다네.\n소지품을 줄이고 다시\n다시 나를 찾아오게",
-        "en-US": "[Prophet K]\nYour bag is completely full of items.\nYou must reduce your inventory\nto be able to help me.\nReduce your inventory and\ncome find me again.",
-        "pt-BR": "[Profeta K]\nSua mochila está cheia de itens.\nVocê precisa reduzir seus itens\npara poder me ajudar.\nReduza seus itens e\nvolte até mim.",
-        "es-ES": "[Profeta K]\nTu mochila está llena de objetos.\nDebes reducir el número de objetos\npara poder ayudarme.\nReduce tus objetos y vuelve\na buscarme."
+        "en-US": "[Prophet K]\nYour bag is completely full of items.\nYou must reduce your inventory to be able to help me.\nReduce your inventory and come find me again.",
+        "pt-BR": "[Profeta K]\nSua mochila está cheia de itens.\nVocê precisa reduzir seus itens para poder me ajudar.\nReduza seus itens e volte até mim.",
+        "es-ES": "[Profeta K]\nTu mochila está llena de objetos.\nDebes reducir el número de objetos\npara poder ayudarme.\nReduce tus objetos y\nvuelve a verme."
     },
     "RtZIDA": {
-        "ko-KR": "[예언자 K]\n어쩔 수 없지\n자네의 생각이 그렇다면..\n나에게 더 궁금한 점이 있나?",
-        "en-US": "[Prophet K]\nIt can't be helped\nif that's your thinking..\nDo you have any other questions for me?",
+        "en-US": "[Prophet K]\nIt can't be helped\nif that's your thinking...\nDo you have any other questions for me?",
         "pt-BR": "[Profeta K]\nNão há outro jeito.\nSe essa é a sua decisão...\nHá algo mais que queira saber?",
         "es-ES": "[Profeta K]\nNo hay otra opción.\nSi esa es tu decisión...\n¿Hay algo más que quieras saber?"
     },
     "R9ZIDA": {
-        "ko-KR": "[예언자 K]\n세계의 운명이 달린..\n일인데...\n다시 생각 해 보고\n찾아오길 바라네.",
-        "en-US": "[Prophet K]\nIt's a matter concerning\nthe fate of the world...\nPlease think it over again\nand come back.",
-        "pt-BR": "[Profeta K]\nÉ algo que envolve\no destino do mundo...\nEspero que reconsidere\ne volte até mim.",
-        "es-ES": "[Profeta K]\nEs un asunto del que depende\nel destino del mundo...\nEspero que lo reconsideres\ny vuelvas a buscarme."
+        "en-US": "[Prophet K]\nIt's a matter concerning the fate of the world...\nPlease think it over again and come back.",
+        "pt-BR": "[Profeta K]\nÉ algo que envolve o destino do mundo...\nEspero que reconsidere e volte até mim.",
+        "es-ES": "[Profeta K]\nEs algo que involucra\nel destino del mundo...\nEspero que lo reconsideres\ny vuelvas a buscarme."
     },
     "SNZIDA": {
-        "ko-KR": "[예언자 K]\n오! 말의 기운이 가득하군!\n잘 모아왔어 훌륭해~!",
         "en-US": "[Prophet K]\nOh! It's full of the Horse's energy!\nYou gathered them well, excellent~!",
-        "pt-BR": "[Profeta K]\nOh! Está cheio da energia do Cavalo!\nVocê os coletou muito bem, excelente~!",
-        "es-ES": "[Profeta K]\n¡Oh! ¡Está lleno de la energía del caballo!\nLos reuniste bien, ¡excelente~!"
+        "pt-BR": "[Profeta K]\nOh! Está cheio da energia do Cavalo!\nVocê os coletou todos, excelente!",
+        "es-ES": "[Profeta K]\n¡Oh! ¡Está lleno de la energía del Caballo!\nLos has recolectado muy bien, ¡excelente~!"
     },
     "SdZIDA": {
-        "ko-KR": "[예언자 K]\n흠.. 하지만 이걸 어쩐다..\n나이트메어가 가지고 있는\n말의 기운으로는..\n12지신 중 말의 기운을 받은\n영웅의 위치를 찾는 의식을\n하기 부족한 것 같아..",
-        "en-US": "[Prophet K]\nHmm.. But what to do about this..\nIt seems the Horse energy from the Nightmares\nis insufficient..\nfor the ritual to locate the hero\nblessed by the Horse,\none of the 12 Zodiac Deities..",
-        "pt-BR": "[Profeta K]\nHmm.. Mas o que fazer com isso..\nParece que a energia do Cavalo\nque os Pesadelos possuem..\né insuficiente para o ritual\npara encontrar a localização do herói\nque possui a energia do Cavalo entre os 12 Signos Divinos..",
-        "es-ES": "[Profeta K]\nMmm... Pero, ¿qué hago con esto?\nParece que la energía del caballo\nque poseen los Nightmares...\nes insuficiente para el ritual\npara encontrar la ubicación del héroe\nbendecido por la energía del Caballo\nentre los 12 Signos Zodiacales..."
+        "en-US": "[Prophet K]\nHmm... But what to do about this...\nIt seems the Horse energy from the Nightmares is insufficient for the ritual to locate the hero blessed by the Horse, one of the 12 Zodiac Deities...",
+        "pt-BR": "[Profeta K]\nHmm...\nParece que a energia do Cavalo que os Pesadelos possuem é insuficiente para o ritual para encontrar a localização do herói que possui a energia do Cavalo entre os 12 Signos Divinos...",
+        "es-ES": "[Profeta K]\nMmm... Pero ¿qué hacemos con esto...?\nParece que la energía del Caballo\nque poseen las Pesadillas...\nes insuficiente para el ritual\nque nos permita localizar al héroe\nbendecido por la energía del Caballo\nentre los 12 Signos Zodiacales..."
     },
     "StZIDA": {
-        "ko-KR": "[예언자 K]\n아무래도 말이야..\n말의 영혼조각이\n더 필요할 것 같은데 말이야..",
-        "en-US": "[Prophet K]\nIt seems, you see..\nthat we need more\nHorse Soul Fragments..",
-        "pt-BR": "[Profeta K]\nParece que..\nprecisamos de mais\nFragmentos de Alma de Cavalo..",
-        "es-ES": "[Profeta K]\nParece que...\nnecesitamos más Fragmentos de Alma de Caballo..."
+        "en-US": "[Prophet K]\nIt seems, you see...\nthat we need more Horse Spirit Fragments...",
+        "pt-BR": "[Profeta K]\nParece que precisamos de mais Fragmentos de Alma de Cavalo...",
+        "es-ES": "[Profeta K]\nParece que...\nnecesitamos más\nFragmentos del Alma del Caballo..."
     },
     "S9ZIDA": {
-        "ko-KR": "[예언자 K]\n그 정도라면 분명히\n말의 기운을 받은 사람을\n찾는 의식에 부족함이 없을거야.",
-        "en-US": "[Prophet K]\nThat amount should surely be\nsufficient for the ritual\nto find the person blessed\nby the Horse's energy.",
-        "pt-BR": "[Profeta K]\nCom essa quantidade, certamente\nserá o suficiente para o ritual\npara encontrar a pessoa\nque possui a energia do Cavalo.",
-        "es-ES": "[Profeta K]\nCon esa cantidad, seguramente\nserá suficiente para el ritual\npara encontrar a la persona\nbendecida por la energía del Caballo."
+        "en-US": "[Prophet K]\nThat amount should surely be sufficient for the ritual to find the person blessed by the Horse's energy.",
+        "pt-BR": "[Profeta K]\nCom essa quantidade, certamente será o suficiente para o ritual para encontrar a pessoa que possui a energia do Cavalo.",
+        "es-ES": "[Profeta K]\nCon esa cantidad, sin duda\nserá suficiente para el ritual\npara encontrar a la persona\nbendecida por la energía del Caballo."
     },
     "TNZIDA": {
-        "ko-KR": "머리없는 말이요?",
-        "en-US": "Headless Horses?",
+        "en-US": "Headless Mules?",
         "pt-BR": "Mula-sem-Cabeça?",
-        "es-ES": "¿Caballos sin cabeza?"
+        "es-ES": "¿Mula sin cabeza?"
     },
     "TdZIDA": {
-        "ko-KR": "[{0}]\n머리없는 말은.. 상상만해도\n완전 공포스러운데..\n귀신이잖아요 귀신!",
-        "en-US": "[{0}]\nHeadless Horses.. Just imagining them\nis totally terrifying..\nThey're ghosts! Ghosts!",
-        "pt-BR": "[{0}]\nMula-sem-Cabeça.. só de imaginar\njá é totalmente aterrorizante..\nSão fantasmas, fantasmas!",
-        "es-ES": "[{0}]\nLos Caballos sin Cabeza... solo imaginarlos\nes completamente aterrador...\n¡Son fantasmas, fantasmas!"
+        "en-US": "[{0}]\nHeadless Mules... Just imagining them is totally terrifying...\nThey're ghosts! Ghosts!",
+        "pt-BR": "[{0}]\nMula-sem-Cabeça... só de imaginar já é totalmente aterrorizante...\nSão fantasmas, fantasmas!",
+        "es-ES": "[{0}]\nMula sin cabeza... solo imaginarlos\nes completamente aterrador...\n¡Son fantasmas, fantasmas!"
     },
     "TtZIDA": {
-        "ko-KR": "[{0}]\n어릴적에 할머니한테\n무서운이야기만 들어도\n잠 못 이루곤 했는데..",
-        "en-US": "[{0}]\nWhen I was little, even just hearing\nscary stories from my grandmother\nwould make me unable to sleep..",
-        "pt-BR": "[{0}]\nQuando era criança, mesmo ouvindo\napenas histórias assustadoras da vovó\neu não conseguia dormir..",
+        "en-US": "[{0}]\nWhen I was little, even just hearing scary stories from my grandmother would make me unable to sleep...",
+        "pt-BR": "[{0}]\nQuando era criança, mesmo ouvindo apenas histórias assustadoras da vovó eu não conseguia dormir...",
         "es-ES": "[{0}]\nCuando era pequeño, si solo escuchaba\nhistorias de miedo de mi abuela,\nno podía dormir..."
     },
     "T9ZIDA": {
-        "ko-KR": "[예언자 K]\n연약한 인간아..\n왜 이리도 겁내 하느뇨.\n12지신께서 네 곁에 항상\n함께 하신다는 것을 모르느냐..\n특별히 1000만 제니짜리\n모자를 선물로 주려 했거늘..",
-        "en-US": "[Prophet K]\nFragile human..\nWhy are you so frightened?\nDo you not know that the 12 Zodiac Deities\nare always by your side..\nI was even going to give you a special\n10 million Zeny hat as a gift..",
-        "pt-BR": "[Profeta K]\nHumano frágil..\nPor que está tão amedrontado?\nNão sabe que os 12 Signos Divinos\nestão sempre ao seu lado?\nEu até ia te dar um chapéu especial\nno valor de 10 milhões de Zenny como presente..",
-        "es-ES": "[Profeta K]\nHumano frágil...\n¿Por qué tanto miedo?\n¿No sabes que los 12 Dioses Zodiacales\nsiempre están a tu lado...?\nIncluso tenía pensado regalarte\nun gorro valorado en 10,000,000 de zeny..."
+        "en-US": "[Prophet K]\nFragile human...\nWhy are you so frightened?\nDo you not know that the 12 Zodiac Deities are always by your side...\nI was even going to give you a special 10 million Zeny hat as a gift...",
+        "pt-BR": "[Profeta K]\nHumano frágil...\nPor que está tão amedrontado?\nNão sabe que os 12 Signos Divinos estão sempre ao seu lado?\nEu até ia te dar um chapéu especial no valor de 10 milhões de Zeny como presente..",
+        "es-ES": "[Profeta K]\nHumano frágil...\n¿Por qué estás tan asustado?\n¿No sabes que los 12 Dioses Zodiacales\nsiempre están a tu lado...?\nIncluso iba a regalarte un sombrero especial\nvalorado en 10 millones de Zeny..."
     },
     "UNZIDA": {
-        "ko-KR": "[{0}]\n어째.. 단위가 올라간 느낌이..",
-        "en-US": "[{0}]\nSomehow.. it feels like the amount has increased..",
-        "pt-BR": "[{0}]\nSinto que.. o valor subiu..",
-        "es-ES": "[{0}]\nCómo que... siento que la cifra subió..."
+        "en-US": "[{0}]\nSomehow... it feels like the amount has increased...",
+        "pt-BR": "[{0}]\nSinto que o valor subiu...",
+        "es-ES": "[{0}]\nSiento que... su valor ha aumentado..."
     },
     "UdZIDA": {
-        "ko-KR": "[예언자 K]\n이번에는 특별히\n말의 기운이 가득한\n귀여운 머리 장식을\n해줄 수 있는 그런 모자라네.\n기대하고 있게!",
-        "en-US": "[Prophet K]\nThis time, very specially,\nit's a hat filled with the Horse's energy\nthat can give you\na cute hair accessory.\nLook forward to it!",
-        "pt-BR": "[Profeta K]\nDesta vez é muito especial,\né um chapéu que permite\nusar um acessório de cabeça fofo,\ncheio da energia do cavalo.\nEspere por ele!",
-        "es-ES": "[Profeta K]\nEsta vez es especial,\nes un gorro que te permite\nusar un lindo accesorio para el cabello\nlleno de la energía del caballo.\n¡Espéralo con ansias!"
+        "en-US": "[Prophet K]\nThis time, very specially, it's a hat filled with the Horse's energy that can give you a cute hair accessory.\nLook forward to it!",
+        "pt-BR": "[Profeta K]\nDesta vez é muito especial, é um chapéu que permite usar um acessório de cabeça fofo, cheio da energia do cavalo, então se anime!",
+        "es-ES": "[Profeta K]\nEsta vez es especial,\nes un sombrero que te permite\nllevar un lindo accesorio para la cabeza,\nlleno de energía de caballo.\n¡Espéralo con ansias!"
     },
     "UtZIDA": {
-        "ko-KR": "[{0}]\n흐..흠.! 그..그렇다면..\n꼭.. 구해오곘습니다!",
-        "en-US": "[{0}]\nH..Hmm.! Th..Then..\nI..I will definitely go get them!",
-        "pt-BR": "[{0}]\nHm..Hmm.! En..tão..\nCo.. com certeza vou trazê-los!",
-        "es-ES": "[{0}]\n¡Mm...! En-ton-ces...\n¡Def-init-iva-mente lo traeré!"
+        "en-US": "[{0}]\nH...Hmm! Th...Then...\nI...I will definitely go get them!",
+        "pt-BR": "[{0}]\nHm... Hmm! Então...\nCo... com certeza vou trazê-los!",
+        "es-ES": "[{0}]\n¡Mm...! ¡E... entonces...\nC... claro que te los traeré!"
     },
     "U9ZIDA": {
-        "ko-KR": "[예언자 K]\n오해가 풀려서 다행이야\n후후훗.....\n어서 구해와주길 부탁하네.\n흠흠..",
-        "en-US": "[Prophet K]\nI'm glad the misunderstanding is cleared up.\nHoo hoo hoot.....\nI ask that you please go get them quickly.\nAhem, ahem..",
-        "pt-BR": "[Profeta K]\nQue bom que o mal-entendido foi resolvido\nHuhuhu.....\nPor favor, traga-os para mim.\nHum hum..",
-        "es-ES": "[Profeta K]\nMe alegra que hayas entendido.\nJujuju.....\nTe ruego que lo consigas pronto.\nEjém, ejém.."
+        "en-US": "[Prophet K]\nI'm glad the misunderstanding is cleared up.\nHoo hoo hoo...\nI ask that you please go get them quickly.\nAhem, ahem...",
+        "pt-BR": "[Profeta K]\nQue bom que o mal-entendido foi resolvido\nHuhuhu...\nPor favor, traga-os para mim.\nHum hum...",
+        "es-ES": "[Profeta K]\nQué bien que se resolvió el malentendido.\nJujuju.....\nPor favor, tráemelos.\nEjém, ejém.."
     },
     "VNZIDA": {
-        "ko-KR": "영혼을 모아오는 걸 포기한다",
         "en-US": "Give up on gathering the souls.",
-        "pt-BR": "Desiste de coletar as almas.",
+        "pt-BR": "Desistir de coletar os fragmentos.",
         "es-ES": "Abandonar la recolección de almas."
     },
     "VdZIDA": {
-        "ko-KR": "[예언자 K]\n이런... 정말 포기하려 하는가?\n이런... 큰일났군..\n나의 예지몽은 분명히 그들을\n찾아야 하는데...\n정말 포기할텐가?",
-        "en-US": "[Prophet K]\nOh my... Are you really giving up?\nOh my... This is a big problem..\nMy prophetic dream clearly said we must\nfind them...\nAre you really going to give up?",
-        "pt-BR": "[Profeta K]\nOh... Você realmente vai desistir?\nOh não.. que problema..\nMeu sonho premonitório claramente diz\nque preciso encontrá-los...\nVocê realmente vai desistir?",
-        "es-ES": "[Profeta K]\nVaya... ¿De verdad piensas rendirte?\nEsto es malo...\nMi sueño profético claramente indica\nque debo encontrarlos...\n¿De verdad te rendirás?"
+        "en-US": "[Prophet K]\nOh my... Are you really giving up?\nOh my... This is a big problem...\nMy prophetic dream clearly said we must find them...\nAre you really going to give up?",
+        "pt-BR": "[Profeta K]\nOh... Você realmente vai desistir?\nOh não... Que problema...\nMeu sonho premonitório claramente diz que preciso encontrá-los...\nVocê realmente vai desistir?",
+        "es-ES": "[Profeta K]\nOh... ¿De verdad vas a rendirte?\nOh, no... qué problema...\nMi sueño profético claramente indica\nque debo encontrarlos...\n¿De verdad vas a rendirte?"
     },
     "VtZIDA": {
-        "ko-KR": "포기한다.",
         "en-US": "I give up.",
-        "pt-BR": "Desisto.",
+        "pt-BR": "Desistir.",
         "es-ES": "Rendirse."
     },
     "V9ZIDA": {
-        "ko-KR": "포기하지 않는다.",
         "en-US": "I won't give up.",
-        "pt-BR": "Não desisto.",
+        "pt-BR": "Não desistir.",
         "es-ES": "No rendirse."
     },
     "WNZIDA": {
-        "ko-KR": "[예언자 K]\n정 생각이 그렇다면\n어쩔 수 없지.\n생각이 바뀌면\n다시 나를 찾아오도록 하게.",
-        "en-US": "[Prophet K]\nIf that's truly your decision,\nthen it can't be helped.\nIf you change your mind,\ncome find me again.",
-        "pt-BR": "[Profeta K]\nBem, se essa é a sua decisão,\nnão há o que fazer.\nSe mudar de ideia,\nvolte até mim.",
+        "en-US": "[Prophet K]\nIf that's truly your decision, then it can't be helped.\nIf you change your mind, come find me again.",
+        "pt-BR": "[Profeta K]\nBem, se essa é a sua decisão, não há o que fazer.\nSe mudar de ideia, volte até mim.",
         "es-ES": "[Profeta K]\nSi esa es tu decisión,\nno hay más remedio.\nSi cambias de opinión,\nvuelve a buscarme."
     },
     "WdZIDA": {
-        "ko-KR": "[예언자 K]\n그래, 잘 생각했네.\n어서 빨리 영혼 조각을\n찾아오도록 하게!",
-        "en-US": "[Prophet K]\nGood, you thought well.\nHurry and go find\nthe soul fragments quickly!",
-        "pt-BR": "[Profeta K]\nCerto, boa decisão.\nRápido, vá buscar\nos Fragmentos de Alma!",
-        "es-ES": "[Profeta K]\nBien, buena decisión.\n¡Date prisa y trae\nlos Fragmentos de Alma!"
+        "en-US": "[Prophet K]\nGood, you thought well.\nHurry and go find the soul fragments quickly!",
+        "pt-BR": "[Profeta K]\nCerto, boa decisão.\nRápido, vá buscar os Fragmentos de Alma!",
+        "es-ES": "[Profeta K]\nDe acuerdo, buena decisión.\n¡Rápido, ve a buscar\nlos Fragmentos de Alma!"
     },
     "WtZIDA": {
-        "ko-KR": "[예언자 K]\n12지신 중 말의 기운을 받은\n영웅의 위치를 아직 찾지\n못 했나 보군",
-        "en-US": "[Prophet K]\nIt seems you still haven't found\nthe location of the hero blessed by the Horse,\none of the 12 Zodiac Deities.",
-        "pt-BR": "[Profeta K]\nParece que você ainda não encontrou\na localização do herói\nque possui a energia do Cavalo entre os 12 Signos Divinos.",
+        "en-US": "[Prophet K]\nIt seems you still haven't found the location of the hero blessed by the Horse, one of the 12 Zodiac Deities.",
+        "pt-BR": "[Profeta K]\nParece que você ainda não encontrou a localização do herói que possui a energia do Cavalo entre os 12 Signos Divinos.",
         "es-ES": "[Profeta K]\nParece que aún no has encontrado\nla ubicación del héroe bendecido\npor la energía del Caballo entre los 12 Signos Zodiacales."
     },
     "W9ZIDA": {
-        "ko-KR": "[예언자 K]\n내가 준 밀서를 잃어버린건가?\n어쩔 수 없구만.\n다시 주겠네.",
-        "en-US": "[Prophet K]\nDid you lose the secret letter I gave you?\nIt can't be helped then.\nI'll give you another one.",
-        "pt-BR": "[Profeta K]\nPerdeu a carta secreta que eu lhe dei?\nNão tem outro jeito.\nAqui está outra.",
-        "es-ES": "[Profeta K]\n¿Perdiste la carta secreta que te di?\nQué se le va a hacer.\nTe la daré de nuevo."
+        "en-US": "[Prophet K]\nDid you lose the secret letter I gave you?\nIt can't be helped then. I'll give you another one.",
+        "pt-BR": "[Profeta K]\nPerdeu a carta secreta que eu lhe dei?\nNão tem outro jeito. Aqui está outra.",
+        "es-ES": "[Profeta K]\n¿Perdiste la carta secreta que te di?\nNo hay otra manera.\nAquí tienes otra."
     },
     "XNZIDA": {
-        "ko-KR": "[예언자 K]\n오 돌아왔군!\n말의 기운을 받은\n영웅은 잘 찾았나?\n그래, 이야기는 어떻게\n진행됐나?",
-        "en-US": "[Prophet K]\nOh, you're back!\nDid you find the hero\nblessed by the Horse's energy well?\nSo, how did the conversation go?",
-        "pt-BR": "[Profeta K]\nOh, você voltou!\nConseguiu encontrar o herói\nque possui a energia do Cavalo?\nCerto, como foi\na conversa?",
+        "en-US": "[Prophet K]\nOh, you're back!\nDid you find the hero blessed by the Horse's energy well?\nSo, how did the conversation go?",
+        "pt-BR": "[Profeta K]\nOh, você voltou!\nConseguiu encontrar o herói que possui a energia do Cavalo?\nCerto, como foi a conversa?",
         "es-ES": "[Profeta K]\n¡Oh, has vuelto!\n¿Lograste encontrar al héroe\nbendecido por la energía del Caballo?\nDime, ¿cómo fue\nla conversación?"
     },
     "XdZIDA": {
-        "ko-KR": "- 그 동안 있었던 일을 -\n- 전부 이야기 했다. -",
-        "en-US": "- I told him everything -\n- that happened during this time. -",
-        "pt-BR": "- Contou tudo que -\n- aconteceu até agora. -",
+        "en-US": "- I told him everything that happened during this time. -",
+        "pt-BR": "- Conto tudo que aconteceu até agora. -",
         "es-ES": "- Le conté todo lo que había sucedido -"
     },
     "XtZIDA": {
-        "ko-KR": "[예언자 K]\n그래...그런 일이 있었군.\n좋아, 나머지는 내가 직접\n찾아가서 이야기 해 보도록\n하겠어.",
-        "en-US": "[Prophet K]\nI see... So that's what happened.\nGood, I will go myself\nto find him and talk to him\nfrom here on out.",
-        "pt-BR": "[Profeta K]\nCerto... Então isso aconteceu.\nOk, o resto eu mesmo\nvou até lá\npara conversar.",
-        "es-ES": "[Profeta K]\nYa veo... Eso pasó.\nBien, el resto lo haré yo mismo,\niré personalmente\ny hablaré con él."
+        "en-US": "[Prophet K]\nI see... So that's what happened.\nGood, I will go myself to find him and talk to him from here on out.",
+        "pt-BR": "[Profeta K]\nCerto... Então foi isso que aconteceu.\nOk, o resto eu mesmo vou até lá para conversar.",
+        "es-ES": "[Profeta K]\nYa veo... Así que eso es lo que pasó.\nBien, el resto lo haré yo mismo,\niré personalmente\ny hablaré con él."
     },
     "X9ZIDA": {
-        "ko-KR": "[예언자 K]\n그 동안 너무 고마웠네\n그에대한 보답으로\n자네가 구해왔던\n영혼 조각이 조금 남아서\n12지신의 기운을 담아\n모자를 한번 만들어봤네.",
-        "en-US": "[Prophet K]\nThank you so much for all your help.\nAs a reward,\nthere were some soul fragments left\nfrom what you gathered,\nso I tried making a hat\nimbued with the energy of the 12 Zodiac Deities.",
-        "pt-BR": "[Profeta K]\nMuito obrigado por tudo\naté agora.\nComo recompensa,\nsobraram alguns dos\nFragmentos de Alma que você coletou,\nentão imbui com a energia dos 12 Signos Divinos\ne fiz um chapéu para você.",
-        "es-ES": "[Profeta K]\nMuchas gracias por todo este tiempo.\nComo recompensa por ello,\nsobraron algunos de los\nFragmentos de Alma que conseguiste,\nasí que, imbuyéndolos con la energía\nde los 12 Signos Zodiacales, hice un gorro."
+        "en-US": "[Prophet K]\nThank you so much for all your help.\nAs a reward, there were some soul fragments left from what you gathered, so I tried making a hat imbued with the energy of the 12 Zodiac Deities.",
+        "pt-BR": "[Profeta K]\nMuito obrigado por tudo até agora.\nComo recompensa, sobraram alguns dos Fragmentos de Alma que você coletou, então fiz esse chapéu e o imbui com a energia dos 12 Signos Divinos.",
+        "es-ES": "[Profeta K]\nMuchas gracias por todo\nlo que has hecho hasta ahora.\nComo recompensa,\nme sobraron algunos de los\nFragmentos de Alma que recolectaste,\nasí que los imbuí con la energía de los 12 Signos Zodiacales\ny te hice un sombrero"
     },
     "YNZIDA": {
-        "ko-KR": "[예언자 K]\n특별한 12지신의 기운이\n담긴 모자라서 1000만 제니의\n가치가 있지만 자네는 나를\n도와줬으니 특별히 20만제니에\n주도록 하지. 어떤가?",
-        "en-US": "[Prophet K]\nIt's a special hat imbued with the energy\nof the 12 Zodiac Deities, worth 10 million Zeny,\nbut since you helped me,\nI'll specially give it to you for 200,000 Zeny.\nWhat do you say?",
-        "pt-BR": "[Profeta K]\nÉ um chapéu especial imbuiído com\na energia dos 12 Signos Divinos, vale 10 milhões de Zenny,\nmas como você me ajudou,\nvou te dar por um preço especial de 200k Zenny.\nO que acha?",
-        "es-ES": "[Profeta K]\nEs un gorro imbuido con la energía especial\nde los 12 Signos Zodiacales, con un valor de 10,000,000 de zeny,\npero como me ayudaste,\nte lo dejaré especial por 200,000 zeny.\n¿Qué te parece?"
+        "en-US": "[Prophet K]\nIt's a special hat imbued with the energy of the 12 Zodiac Deities, worth 10 million Zeny, but since you helped me, I'll specially give it to you for 200,000 Zeny.\nWhat do you say?",
+        "pt-BR": "[Profeta K]\nÉ um chapéu especial imbuído com a energia dos 12 Signos Divinos, vale 10 milhões de Zeny, mas como você me ajudou, vou te dar por um preço especial de 200 mil Zeny.\nO que acha?",
+        "es-ES": "[Profeta K]\nEs un sombrero especial imbuido con\nla energía de los 12 Signos Zodiacales, vale 10 millones de Zeny,\npero como me ayudaste,\nte lo dejaré a un precio especial de 200 mil Zeny.\n¿Qué te parece?"
     },
     "YdZIDA": {
-        "ko-KR": "[{0}]\n너무 비싼거 아니에요?..",
-        "en-US": "[{0}]\nIsn't it too expensive?..",
-        "pt-BR": "[{0}]\nNão é muito caro?..",
+        "en-US": "[{0}]\nIsn't it too expensive?",
+        "pt-BR": "[{0}]\nNão é muito caro?",
         "es-ES": "[{0}]\n¿No es demasiado caro?.."
     },
     "YtZIDA": {
-        "ko-KR": "[예언자 K]\n잘 생각 해봐...\n무려 1000만 제니야!",
         "en-US": "[Prophet K]\nThink about it carefully...\nIt's a whopping 10 million Zeny!",
-        "pt-BR": "[Profeta K]\nPense bem...\nSão incríveis 10 milhões de Zenny!",
-        "es-ES": "[Profeta K]\nPiénsalo bien...\n¡Son 10,000,000 de zeny!"
+        "pt-BR": "[Profeta K]\nPense bem...\nSão incríveis 10 milhões de Zeny!",
+        "es-ES": "[Profeta K]\nPiénsalo bien...\n¡Son 10 millones de Zeny!"
     },
     "Y9ZIDA": {
-        "ko-KR": "[예언자 K]\n선택에 후회는 절대\n없을 것 이네~!",
-        "en-US": "[Prophet K]\nYou will absolutely never\nregret this choice~!",
-        "pt-BR": "[Profeta K]\nVocê definitivamente não\nse arrependerá da escolha~!",
-        "es-ES": "[Profeta K]\n¡Nunca te arrepentirás\nde esta elección~!"
+        "en-US": "[Prophet K]\nYou will absolutely never regret this choice!",
+        "pt-BR": "[Profeta K]\nVocê definitivamente não se arrependerá da escolha!",
+        "es-ES": "[Profeta K]\n¡Definitivamente no\nte arrepentirás de tu elección~!"
     },
     "ZNZIDA": {
-        "ko-KR": "제니가 부족..",
         "en-US": "Not enough Zeny...",
-        "pt-BR": "Estou sem Zenny..",
+        "pt-BR": "Estou sem Zeny...",
         "es-ES": "No tengo suficiente zeny..."
     },
     "ZdZIDA": {
-        "ko-KR": "알겠어요, 20만제니에 주세요.",
         "en-US": "Okay, I'll take it for 200,000 Zeny.",
-        "pt-BR": "Tudo bem, me dê por 200k Zenny.",
-        "es-ES": "Está bien, démelos por 200,000 zeny."
+        "pt-BR": "Tudo bem, me dê por 200 mil Zeny.",
+        "es-ES": "Está bien, dámelo por 200 000 zeny."
     },
     "ZtZIDA": {
-        "ko-KR": "[예언자 K]\n흐흠....\n12지신의 기운이 담긴!\n1000만 제니의 가치를 지닌\n신의 영물인데...\n그럴 수는 없네!\n빌려서 라도 오게나~!",
-        "en-US": "[Prophet K]\nAhem....\nImbued with the energy of the 12 Zodiac Deities!\nA divine artifact worth 10 million Zeny...\nIt can't be like that!\nCome back even if you have to borrow the money~!",
-        "pt-BR": "[Profeta K]\nAhem....\nImbuído com a energia dos 12 Signos Divinos!\nTem o valor de 10 milhões de Zenny,\né uma relíquia divina...\nNão pode ser assim!\nVenha mesmo que tenha que pedir emprestado~!",
-        "es-ES": "[Profeta K]\nEjem....\n¡Está imbuido con la energía de los 12 Signos Zodiacales!\n¡Tiene un valor de 10,000,000 de zeny,\nes una reliquia divina...!\n¡Eso no puede ser!\n¡Consigue el dinero, pidiéndolo prestado si es necesario~!"
+        "en-US": "[Prophet K]\nAhem...\nImbued with the energy of the 12 Zodiac Deities!\nA divine artifact worth 10 million Zeny...\nIt can't be like that!\nCome back even if you have to borrow the money!",
+        "pt-BR": "[Profeta K]\nAhem...\nImbuído com a energia dos 12 Signos Divinos!\nTem o valor de 10 milhões de Zeny, é uma relíquia divina...\nAssim não dá!\nVolte com Zeny, mesmo que tenha que pedir emprestado!",
+        "es-ES": "[Profeta K]\nEjem....\n¡Imbuido con la energía de los 12 Signos Zodiacales!\nVale 10 millones de Zeny,\nes una reliquia divina...\n¡Eso no puede ser!\n¡Ven aunque tenga que pedir prestado~!"
     },
     "Z9ZIDA": {
-        "ko-KR": "[예언자 K]\n특별히 아주 좋은 옵션을\n넣을 수 있도록 노력했지만..\n아쉽게도 그렇게\n만들지는 못했어.\n어쨋든 마음에 들었으면\n좋겠군.",
-        "en-US": "[Prophet K]\nI tried specially to add\nvery good options..\nBut unfortunately,\nI couldn't make it that way.\nAnyway, I hope you like it.",
-        "pt-BR": "[Profeta K]\nTentei especialmente colocar\nopções muito boas nele..\nInfelizmente, não consegui\nfazê-lo daquela forma.\nDe qualquer modo, espero\nque goste.",
-        "es-ES": "[Profeta K]\nIntenté especialmente esforzarme\npara incluir opciones muy buenas...\nPero lamentablemente,\nno logré hacerlo tan bien.\nEspero que te guste, de todas formas."
+        "en-US": "[Prophet K]\nI tried specially to add very good options...\nBut unfortunately, I couldn't make it that way.\nAnyway, I hope you like it.",
+        "pt-BR": "[Profeta K]\nTentei colocar opções muito boas nele...\nInfelizmente, não consegui.\nDe qualquer modo, espero que goste.",
+        "es-ES": "[Profeta K]\nIntenté especialmente esforzarme\npara incluir buenas opciones...\nPor desgracia, no pude\nhacerlo de esa manera.\nDe todos modos, espero\nque te guste."
     },
     "aNZIDA": {
-        "ko-KR": "[예언자 K]\n하지만,\n아무래도 나의 예지몽은\n아직 끝나지 않은 것 같아.\n분명히 그 이후 12지신의\n기운을 받은 영웅들에 대한\n예지몽이 이어질 것 같네.",
-        "en-US": "[Prophet K]\nHowever,\nit seems my prophetic dream\nis not over yet.\nIt seems the prophetic dreams about\nthe heroes blessed by the energy\nof the 12 Zodiac Deities will surely continue.",
-        "pt-BR": "[Profeta K]\nNo entanto,\nacho que meu sonho premonitório\nainda não terminou.\nParece que certamente\nsonhos premonitórios sobre os outros heróis\nque possuem a energia dos 12 Signos Divinos continuarão.",
+        "en-US": "[Prophet K]\nHowever, it seems my prophetic dream is not over yet.\nIt seems the prophetic dreams about the heroes blessed by the energy of the 12 Zodiac Deities will surely continue.",
+        "pt-BR": "[Profeta K]\nNo entanto, acho que meu sonho premonitório ainda não terminou.\nParece que os sonhos premonitórios sobre os outros heróis\nque possuem a energia dos 12 Signos Divinos continuarão.",
         "es-ES": "[Profeta K]\nSin embargo,\ncreo que mi sueño profético\naún no ha terminado.\nParece que los sueños proféticos\nsobre los otros héroes bendecidos por la energía\nde los 12 Signos Zodiacales continuarán."
     },
     "adZIDA": {
-        "ko-KR": "[예언자 K]\n얼마 후 다시 나를 찾아와주게\n분명히 도와줄 일이 있을거야.",
         "en-US": "[Prophet K]\nCome find me again after a while.\nI'm sure there will be something you can help with.",
-        "pt-BR": "[Profeta K]\nVolte até mim depois de um tempo.\nCertamente terei algo para sua ajuda.",
-        "es-ES": "[Profeta K]\nBúscame de nuevo en unos días.\nSeguramente habrá cosas en las que puedas ayudarme."
+        "pt-BR": "[Profeta K]\nVolte até mim depois de um tempo.\nCertamente precisarei da sua ajuda.",
+        "es-ES": "[Profeta K]\nVuelve a verme dentro de un tiempo.\nSeguramente tendré algo en lo que puedas ayudarme."
     },
     "atZIDA": {
-        "ko-KR": "[예언자 K]\n제니가 부족하군!\n12지신의 기운이 담긴!\n1000만 제니의 가치를 지닌\n신의 영물인데...\n그럴 수는 없네!\n빌려서 라도 오게나~!",
-        "en-US": "[Prophet K]\nYou don't have enough Zeny!\nIt's a divine artifact imbued with the energy\nof the 12 Zodiac Deities, worth 10 million Zeny...\nIt can't be like that!\nCome back even if you have to borrow the money~!",
-        "pt-BR": "[Profeta K]\nEstá sem Zenny!\nImbuído com a energia dos 12 Signos Divinos!\nTem o valor de 10 milhões de Zenny,\né uma relíquia divina...\nNão pode ser assim!\nVenha mesmo que tenha que pedir emprestado~!",
-        "es-ES": "[Profeta K]\n¡Te falta zeny!\n¡Está imbuido con la energía de los 12 Signos Zodiacales!\n¡Tiene un valor de 10,000,000 de zeny,\nes una reliquia divina...!\n¡Eso no puede ser!\n¡Consigue el dinero, pidiéndolo prestado si es necesario~!"
+        "en-US": "[Prophet K]\nYou don't have enough Zeny!\nIt's a divine artifact imbued with the energy of the 12 Zodiac Deities, worth 10 million Zeny...\nIt can't be like that!\nCome back even if you have to borrow the money~!",
+        "pt-BR": "[Profeta K]\nAhem...\nImbuído com a energia dos 12 Signos Divinos!\nTem o valor de 10 milhões de Zeny, é uma relíquia divina...\nAssim não dá!\nVolte com Zeny, mesmo que tenha que pedir emprestado!",
+        "es-ES": "[Profeta K]\n¡Te falta zeny!\n¡Imbuido con la energía de los 12 Signos Zodiacales!\n¡Tiene un valor de 10 millones de Zeny,\nes una reliquia divina...!\n¡Eso no puede ser!\n¡Ven aunque tengas que pedir prestado~!"
     },
     "a9ZIDA": {
-        "ko-KR": "[예언자 K]\n가방에 소지품이 가득하게\n차 있군.\n소지품을 줄이고 다시\n다시 나를 찾아오게",
-        "en-US": "[Prophet K]\nYour bag is completely full of items.\nReduce your inventory and\ncome find me again.",
-        "pt-BR": "[Profeta K]\nSua mochila está cheia de itens.\nReduza seus itens e\nvolte até mim.",
+        "en-US": "[Prophet K]\nYour bag is completely full of items.\nReduce your inventory and come find me again.",
+        "pt-BR": "[Profeta K]\nSua mochila está cheia de itens.\nReduza seus itens e volte até mim.",
         "es-ES": "[Profeta K]\nTu mochila está llena de objetos.\nReduce tus objetos y vuelve\na buscarme."
     },
     "bNZIDA": {
-        "ko-KR": "[예언자 K]\n아무래도 나의 예지몽은\n아직 끝나지 않은 것 같아.\n분명히 그 이후 12지신의\n기운을 받은 영웅들에 대한\n예지몽이 이어질 것 같아.",
-        "en-US": "[Prophet K]\nIt seems my prophetic dream\nis not over yet.\nIt seems the prophetic dreams about\nthe heroes blessed by the energy\nof the 12 Zodiac Deities will surely continue.",
-        "pt-BR": "[Profeta K]\nAcho que meu sonho premonitório\nainda não terminou.\nParece que certamente\nsonhos premonitórios sobre os outros heróis\nque possuem a energia dos 12 Signos Divinos continuarão.",
+        "en-US": "[Prophet K]\nIt seems my prophetic dream is not over yet.\nIt seems the prophetic dreams about the heroes blessed by the energy of the 12 Zodiac Deities will surely continue.",
+        "pt-BR": "[Profeta K]\nNo entanto, acho que meu sonho premonitório ainda não terminou.\nParece que os sonhos premonitórios sobre os outros heróis\nque possuem a energia dos 12 Signos Divinos continuarão.",
         "es-ES": "[Profeta K]\nCreo que mi sueño profético\naún no ha terminado.\nParece que los sueños proféticos\nsobre los otros héroes bendecidos por la energía\nde los 12 Signos Zodiacales continuarán."
     },
     "bdZIDA": {
-        "ko-KR": "지미 로버트",
         "en-US": "Jimmy Robert",
         "pt-BR": "Jimmy Robert",
         "es-ES": "Jimmy Robert"
     },
     "btZIDA": {
-        "ko-KR": "[지미 로버트]\n이짓도 이젠 그만..\n해야하는 게 아닐까..",
-        "en-US": "[Jimmy Robert]\nShouldn't I stop..\ndoing this job soon..",
-        "pt-BR": "[Jimmy Robert]\nSerá que não está na hora..\nde parar com isso..",
+        "en-US": "[Jimmy Robert]\nShouldn't I stop...\ndoing this job soon...",
+        "pt-BR": "[Jimmy Robert]\nSerá que não está na hora de parar com isso...",
         "es-ES": "[Jimmy Robert]\nEste trabajo... quizás ya\ndebería dejarlo.."
     },
     "b9ZIDA": {
-        "ko-KR": "-예언자 K가 말한 사람이 맞는 것 같은데 ^4D4DFF예언자 K의 밀서^000000가 없다.-",
         "en-US": "- It seems like the person Prophet K mentioned, but I don't have ^4D4DFFProphet K's Secret Letter^000000. -",
         "pt-BR": "- Parece ser a pessoa de quem o Profeta K falou, mas você não tem a ^4D4DFFCarta Secreta do Profeta K^000000. -",
         "es-ES": "-Parece ser la persona de la que habló el Profeta K, pero no tengo la ^4D4DFFcarta secreta del Profeta K^000000.-"
     },
     "cNZIDA": {
-        "ko-KR": "[지미 로버트]\n움발라 바람은\n참 시원하군....",
-        "en-US": "[Jimmy Robert]\nThe Umbala wind\nis so cool....",
-        "pt-BR": "[Jimmy Robert]\nO vento de Umbala\né tão refrescante....",
+        "en-US": "[Jimmy Robert]\nThe Umbala wind is so cool....",
+        "pt-BR": "[Jimmy Robert]\nO vento de Umbala é tão refrescante....",
         "es-ES": "[Jimmy Robert]\nEl viento de Umbala\nes tan fresco...."
     },
     "cdZIDA": {
-        "ko-KR": "- 뭐라고 말을 걸어야 할까? -",
         "en-US": "- What should I say to him? -",
         "pt-BR": "- O que devo dizer para ele? -",
         "es-ES": "- ¿Qué debería decirle? -"
     },
     "ctZIDA": {
-        "ko-KR": "인상이 참 좋으세요.",
         "en-US": "You have a very nice impression.",
         "pt-BR": "Você tem uma boa aparência.",
         "es-ES": "Tiene una impresión muy favorable."
     },
     "c9ZIDA": {
-        "ko-KR": "기운이 참 좋으세요",
         "en-US": "You have very good energy.",
         "pt-BR": "Você tem uma boa energia.",
         "es-ES": "Tiene muy buena energía."
     },
     "dNZIDA": {
-        "ko-KR": "얼굴에서 빛이 나시네요",
         "en-US": "Your face is glowing.",
         "pt-BR": "Seu rosto está brilhando.",
         "es-ES": "Su rostro irradia luz."
     },
     "ddZIDA": {
-        "ko-KR": "조상님이 공덕을 많이 쌓았나봐요",
         "en-US": "Your ancestors must have accumulated much merit.",
         "pt-BR": "Parece que seus ancestrais acumularam muitos méritos.",
         "es-ES": "Parece que sus ancestros acumularon muchas buenas acciones."
     },
     "dtZIDA": {
-        "ko-KR": "[지미 로버트]\n좋게 봐주셔서 고맙네요.\n하지만...\n아무것도 아니에요...",
         "en-US": "[Jimmy Robert]\nThank you for the compliment.\nBut...\nIt's nothing...",
         "pt-BR": "[Jimmy Robert]\nObrigado pelo elogio.\nMas...\nNão é nada...",
         "es-ES": "[Jimmy Robert]\nGracias por el cumplido.\nPero...\nno es nada..."
     },
     "d9ZIDA": {
-        "ko-KR": "[지미 로버트]\n그런데 무슨일로..\n저를??",
-        "en-US": "[Jimmy Robert]\nBut for what reason..\nare you approaching me??",
+        "en-US": "[Jimmy Robert]\nBut for what reason are you approaching me??",
         "pt-BR": "[Jimmy Robert]\nMas o que traz\nvocê até mim??",
         "es-ES": "[Jimmy Robert]\nPero, ¿a qué debo...\nsu visita...?"
     },
     "eNZIDA": {
-        "ko-KR": "예언자 K의 밀서를 건넨다",
         "en-US": "Hand over Prophet K's Secret Letter.",
         "pt-BR": "Entrega a Carta Secreta do Profeta K.",
         "es-ES": "Entregar la carta secreta del Profeta K."
     },
     "edZIDA": {
-        "ko-KR": "- 에언자 K의 밀서를 -\n- 건네고 자초지종을 -\n- 이야기 했다. -",
-        "en-US": "- Handed over Prophet K's Secret Letter -\n- and explained the whole story. -",
-        "pt-BR": "- Entrega a Carta Secreta do -\n- Profeta K e explica -\n- toda a situação. -",
+        "en-US": "- Handed over Prophet K's Secret Letter and explained the whole story. -",
+        "pt-BR": "- Entrega a Carta Secreta do Profeta K e explica toda a situação. -",
         "es-ES": "- Le entregué la carta secreta del Profeta K -\n- y le conté todos los detalles -"
     },
     "etZIDA": {
-        "ko-KR": "[지미 로버트]\n솔직히 당신의 말을\n쉽게 믿을 수는 없어요.\n꼭 사기꾼이 하는\n말 처럼 들려요",
-        "en-US": "[Jimmy Robert]\nFrankly, I can't easily\nbelieve your words.\nIt sounds just like\nwhat a scammer would say.",
-        "pt-BR": "[Jimmy Robert]\nSinceramente, não posso\nacreditar facilmente em suas palavras.\nSoam como as palavras\nde um golpista.",
+        "en-US": "[Jimmy Robert]\nFrankly, I can't easily believe your words.\nIt sounds just like what a scammer would say.",
+        "pt-BR": "[Jimmy Robert]\nSinceramente, não posso acreditar facilmente em suas palavras.\nSoam como as palavras de um golpista.",
         "es-ES": "[Jimmy Robert]\nSinceramente, no puedo\ncreer tus palabras tan fácilmente.\nSuenan como las cosas\nque diría un estafador."
     },
     "e9ZIDA": {
-        "ko-KR": "[지미 로버트]\n당신의 말을 믿고\n이 밀서를 읽게 하고 싶다면\n당신에 대한 신뢰가 필요해요.",
-        "en-US": "[Jimmy Robert]\nIf you want me to believe your words\nand read this secret letter,\nI need to have trust in you.",
-        "pt-BR": "[Jimmy Robert]\nSe você quer que eu acredite em você\ne leia esta carta secreta,\npreciso confiar em você.",
+        "en-US": "[Jimmy Robert]\nIf you want me to believe your words and read this secret letter, I need to have trust in you.",
+        "pt-BR": "[Jimmy Robert]\nSe você quer que eu acredite em você e leia esta carta,\npreciso primeiro confiar em você.",
         "es-ES": "[Jimmy Robert]\nSi quieres que confíe en ti\ny lea esta carta secreta,\nnecesito tener confianza en ti."
     },
     "fNZIDA": {
-        "ko-KR": "제가 어떻게 하면..될까요?",
-        "en-US": "What should I do..?",
-        "pt-BR": "O que devo fazer..?",
+        "en-US": "What should I do?",
+        "pt-BR": "O que devo fazer?",
         "es-ES": "¿Qué debo hacer...?"
     },
     "fdZIDA": {
-        "ko-KR": "[지미 로버트]\n음... 제가 지금\n꼭 필요한게 있거든요,\n그 걸 가져다 주시면\n그쪽에서 그만큼 의지가\n있는 걸로 판단 할게요",
-        "en-US": "[Jimmy Robert]\nHmm... There's something\nI really need right now.\nIf you can bring that to me,\nI'll take it as a sign of your\nsincerity.",
-        "pt-BR": "[Jimmy Robert]\nHmm... No momento,\nhá algo que eu realmente preciso,\nse você trouxer isso para mim,\nvou considerar isso como um sinal\nde sua sinceridade.",
+        "en-US": "[Jimmy Robert]\nHmm... There's something I really need right now.\nIf you can bring that to me, I'll take it as a sign of your sincerity.",
+        "pt-BR": "[Jimmy Robert]\nHmm...\nHá algo que eu realmente preciso, e se você trouxer isso para mim,\nvou considerar isso como um sinal de sua sinceridade.",
         "es-ES": "[Jimmy Robert]\nMmm... En este momento\nhay algo que necesito mucho.\nSi me lo traes,\nlo tomaré como una muestra\nde tu determinación."
     },
     "ftZIDA": {
-        "ko-KR": "[지미 로버트]\n제가 나비 연구를 하고 있어서\n나비과 곤충의 가루를\n구하고 있어요.\n나비의 날개가루 20개,\n나방의 날개가루 20개를\n구해다 주세요",
-        "en-US": "[Jimmy Robert]\nI'm researching butterflies,\nso I'm looking for\npowder from butterfly-family insects.\nPlease get me\n20 Butterfly Wings,\nand 20 Moth Wings.",
-        "pt-BR": "[Jimmy Robert]\nEstou pesquisando sobre borboletas\ne preciso de pó de insetos\nda ordem Lepidoptera.\nPreciso que você me traga\n20 Pós de Asa de Borboleta,\ne 20 Pós de Asa de Mariposa.",
+        "en-US": "[Jimmy Robert]\nI'm researching butterflies, so I'm looking for powder from butterfly-family insects.\nPlease get me 20 Butterfly Powder, and 20 Moth Powder.",
+        "pt-BR": "[Jimmy Robert]\nEstou pesquisando sobre borboletas e preciso de pó de insetos da ordem Lepidoptera.\nPreciso que você me traga 20 Pós de Borboleta e 20 Pós de Mariposa.",
         "es-ES": "[Jimmy Robert]\nEstoy investigando mariposas,\nasí que estoy buscando\npolvo de insectos lepidópteros.\nPor favor, consíguame\n20 Polvos de Ala de Mariposa\ny 20 Polvos de Ala de Polilla."
     },
     "f9ZIDA": {
-        "ko-KR": "[지미 로버트]\n게펜 근처에 있는 집시마을이나\n묘르닐 산맥 북쪽 산기슭에 있는\n크리미나 더스티네스에게\n구할 수 있을 거에요.",
-        "en-US": "[Jimmy Robert]\nYou can get them from\nCreamy Dustiness in the Gypsy Village near Geffen\nor at the northern foothills of the Mjolnir Mountains.",
-        "pt-BR": "[Jimmy Robert]\nVocê pode consegui-los\nda vila dos Ciganos perto de Geffen\nou dos Poeiras\nno sopé norte do Monte Mjolnir.",
+        "en-US": "[Jimmy Robert]\nYou can get them from Creamy and Dustiness in the Gypsy Village near Geffen or at the northern foothills of the Mjolnir Mountains.",
+        "pt-BR": "[Jimmy Robert]\nVocê pode consegui-los da vila dos Ciganos perto de Geffen ou dos Poeiras no sopé norte do Monte Mjolnir.",
         "es-ES": "[Jimmy Robert]\nPuede conseguirlos\nde las Crimina Dustiness\nen la aldea gitana cerca de Geffen\no en las laderas norte de la Cordillera Mjolnir."
     },
     "gNZIDA": {
-        "ko-KR": "[지미 로버트]\n그 정도 성의를 보여주시면\n충분히 당신의 이야기와\n이 밀서에 관한 내용에\n신뢰가 갈 것 같아요.\n그래 주실거죠?\n기다리고 있을게요~!",
-        "en-US": "[Jimmy Robert]\nIf you show that much sincerity,\nI should be able to trust\nyour story and the contents\nof this secret letter.\nYou'll do it, right?\nI'll be waiting~!",
-        "pt-BR": "[Jimmy Robert]\nSe você mostrar essa boa vontade,\nvou conseguir confiar\nsuficientemente na sua história\ne no conteúdo desta carta secreta.\nVocê fará isso, não é?\nEstarei esperando~!",
+        "en-US": "[Jimmy Robert]\nIf you show that much sincerity, I should be able to trust your story and the contents of this secret letter.\nYou'll do it, right?\nI'll be waiting!",
+        "pt-BR": "[Jimmy Robert]\nSe você mostrar essa boa vontade, vou conseguir confiar\nsuficientemente na sua história e no conteúdo desta carta secreta.\nVocê fará isso, não é?\nEstarei esperando!",
         "es-ES": "[Jimmy Robert]\nSi muestras esa buena voluntad,\ncreeré suficientemente en tu historia\ny en el contenido de esta carta secreta.\n¿Aceptará?\n¡Estaré esperando~!"
     },
     "gdZIDA": {
-        "ko-KR": "[지미 로버트]\n음..? 나한테\n할 말이 있지 않았나?..",
-        "en-US": "[Jimmy Robert]\nHmm..? Didn't you have\nsomething to say to me?..",
-        "pt-BR": "[Jimmy Robert]\nHmm..? Você não tinha\nalgo para me dizer?..",
+        "en-US": "[Jimmy Robert]\nHmm? Didn't you have something to say to me?",
+        "pt-BR": "[Jimmy Robert]\nHmm? Você não tinha algo para me dizer?",
         "es-ES": "[Jimmy Robert]\n¿Mm...? ¿No tenías\nalgo que decirme...?"
     },
     "gtZIDA": {
-        "ko-KR": "[지미 로버트]\n좋게 봐주셔서 고맙긴 한데..\n하지만...\n피곤하긴 한데.. 아니에요..",
-        "en-US": "[Jimmy Robert]\nThank you for the compliment, but...\nHowever...\nI am tired though.. No, it's nothing..",
-        "pt-BR": "[Jimmy Robert]\nObrigado pelo elogio, mas..\nEstou...\nCansado, mas... não, nada..",
+        "en-US": "[Jimmy Robert]\nThank you for the compliment, but...\nHowever... I am tired though... No, it's nothing...",
+        "pt-BR": "[Jimmy Robert]\nObrigado pelo elogio, mas...\nEstou... cansado, mas... não, nada..",
         "es-ES": "[Jimmy Robert]\nGracias por el cumplido, pero...\nEstoy...\nCansado, pero... no, nada.."
     },
     "g9ZIDA": {
-        "ko-KR": "[지미 로버트]\n근심이 많아지면\n얼굴에 빛이 나나..음..",
-        "en-US": "[Jimmy Robert]\nIf worries increase,\ndoes your face glow?.. Hmm..",
-        "pt-BR": "[Jimmy Robert]\nSerá que quando as preocupações aumentam\no rosto fica brilhante.. hmm..",
+        "en-US": "[Jimmy Robert]\nIf worries increase, does your face glow? Hmm...",
+        "pt-BR": "[Jimmy Robert]\nSerá que quando as preocupações aumentam o rosto fica brilhante...",
         "es-ES": "[Jimmy Robert]\nSi las preocupaciones aumentan,\n¿el rostro irradia luz?.. Mm.."
     },
     "hNZIDA": {
-        "ko-KR": "[지미 로버트]\n말씀하시는게 꼭 우리..\n아.. 아니에요..",
-        "en-US": "[Jimmy Robert]\nWhat you're saying sounds just like our..\nAh.. Never mind..",
-        "pt-BR": "[Jimmy Robert]\nO que você está dizendo parece com nosso..\nAh.. não, nada..",
+        "en-US": "[Jimmy Robert]\nWhat you're saying sounds just like our...\nAh... Never mind...",
+        "pt-BR": "[Jimmy Robert]\nO que você está dizendo parece com nosso...\nAh... não, nada...",
         "es-ES": "[Jimmy Robert]\nLo que dice suena como nuestro...\nAh... no, nada.."
     },
     "hdZIDA": {
-        "ko-KR": "[지미 로버트]\n왠지 나한테 할 이야기가..\n있어 보이는데..",
-        "en-US": "[Jimmy Robert]\nFor some reason, it seems like\nyou have something to tell me..",
-        "pt-BR": "[Jimmy Robert]\nParece que você tem\nalgo para me dizer..",
+        "en-US": "[Jimmy Robert]\nFor some reason, it seems like you have something to tell me...",
+        "pt-BR": "[Jimmy Robert]\nParece que você tem algo para me dizer...",
         "es-ES": "[Jimmy Robert]\nParece que tienes algo\nque contarme..."
     },
     "htZIDA": {
-        "ko-KR": "부탁한 걸 가져왔어요",
         "en-US": "I've brought what you asked for.",
         "pt-BR": "Trouxe o que você pediu.",
         "es-ES": "He traído lo que me pidió."
     },
     "h9ZIDA": {
-        "ko-KR": "[지미 로버트]\n음? 구해오시다니..\n신뢰를 드릴 수 밖에 없군요.\n이 정도 노력이라면\n12지신님도 감동하실거에요.\n물론 제 신뢰도\n무한히 쌓였습니다~!",
-        "en-US": "[Jimmy Robert]\nHmm? You brought them..\nI have no choice but to trust you.\nWith this level of effort,\neven the 12 Zodiac Deities would be moved.\nOf course, my trust in you\nhas built up infinitely~!",
-        "pt-BR": "[Jimmy Robert]\nOh? Você realmente trouxe..\nNão tenho escolha senão confiar em você.\nCom esse esforço,\naté os 12 Signos Divinos ficariam comovidos.\nClaro, minha confiança em você\ncresceu infinitamente~!",
+        "en-US": "[Jimmy Robert]\nHmm? You brought them...\nI have no choice but to trust you.\nWith this level of effort, even the 12 Zodiac Deities would be moved.\nOf course, my trust in you has built up infinitely!",
+        "pt-BR": "[Jimmy Robert]\nOh? Você realmente trouxe.\nNão tenho escolha senão confiar em você.\nCom esse esforço toda, até os 12 Signos Divinos ficariam comovidos.\nClaro, minha confiança em você cresceu bastante!",
         "es-ES": "[Jimmy Robert]\n¿Mm? ¿Los conseguiste...?\nNo me queda más que confiar en usted.\nCon ese nivel de esfuerzo,\nhasta los 12 Dioses Zodiacales se conmoverían.\n¡Por supuesto, mi confianza en usted\ntambién ha crecido infinitamente~!"
     },
     "iNZIDA": {
-        "ko-KR": "[지미 로버트]\n구해 오신건\n잘 받도록 하겠습니다.\n그리고 당신이 이야기한\n내용과 이 밀서를 신중하게\n읽어보겠습니다.",
-        "en-US": "[Jimmy Robert]\nI'll accept what you\nbrought for me.\nAnd I will carefully read\nthe contents you mentioned\nand this secret letter.",
-        "pt-BR": "[Jimmy Robert]\nVou receber o que\nvocê trouxe.\nE vou ler com cuidado\na sua história\ne esta carta secreta.",
+        "en-US": "[Jimmy Robert]\nI'll accept what you brought for me.\nAnd I will carefully read the contents you mentioned and this secret letter.",
+        "pt-BR": "[Jimmy Robert]\nVou receber o que você trouxe.\nE vou ler com cuidado a sua história e esta carta secreta.",
         "es-ES": "[Jimmy Robert]\nAceptaré lo que\nha conseguido.\nY leeré con cuidado\nlo que me ha contado\ny esta carta secreta."
     },
     "idZIDA": {
-        "ko-KR": "[지미 로버트]\n그럼 이 밀서를 보내준\n예언자 K라는 분에게도\n잘 이야기해주시길.",
-        "en-US": "[Jimmy Robert]\nPlease tell the person who sent this letter,\nProphet K,\nthe same for me.",
-        "pt-BR": "[Jimmy Robert]\nPor favor, diga também\nao Profeta K, que enviou esta carta,\nque conversei com você.",
+        "en-US": "[Jimmy Robert]\nPlease tell the person who sent this letter, Prophet K, the same for me.",
+        "pt-BR": "[Jimmy Robert]\nPor favor, diga também ao Profeta K, que enviou esta carta, que conversei com você.",
         "es-ES": "[Jimmy Robert]\nEntonces, por favor, dile\na esa persona, el Profeta K,\nque me envió esta carta secreta,\nque todo está bien."
     },
     "itZIDA": {
-        "ko-KR": "[지미 로버트]\n음...? 아직 부족해 보이는데요?\n나비의 날개가루 20개,\n나방의 날개가루 20개를\n구해다 주세요",
-        "en-US": "[Jimmy Robert]\nHmm...? It still seems insufficient?\nPlease get me\n20 Butterfly Wings,\nand 20 Moth Wings.",
-        "pt-BR": "[Jimmy Robert]\nHmm...? Ainda parece insuficiente.\nPreciso de 20 Pós de Asa de Borboleta,\ne 20 Pós de Asa de Mariposa.",
+        "en-US": "[Jimmy Robert]\nHmm? It still seems insufficient?\nPlease get me 20 Butterfly Wings, and 20 Moth Wings.",
+        "pt-BR": "[Jimmy Robert]\nHmm...? Ainda não é o suficiente.\nPreciso de 20 Pós de Borboleta e 20 Pós de Mariposa.",
         "es-ES": "[Jimmy Robert]\n¿Mm...? Aún parece no ser suficiente.\nPor favor, consiga\n20 Polvos de Ala de Mariposa\ny 20 Polvos de Ala de Polilla."
     },
     "i9ZIDA": {
-        "ko-KR": "[지미 로버트]\n그 정도 성의를 보여주시면\n충분히 당신의 이야기와\n이 밀서에 관한 내용에\n신뢰가 갈 것 같아요.\n그래 주실거죠?",
-        "en-US": "[Jimmy Robert]\nIf you show that much sincerity,\nI should be able to trust\nyour story and the contents\nof this secret letter.\nYou'll do it, right?",
-        "pt-BR": "[Jimmy Robert]\nSe você mostrar essa boa vontade,\nvou conseguir confiar\nsuficientemente na sua história\ne no conteúdo desta carta secreta.\nVocê fará isso, não é?",
+        "en-US": "[Jimmy Robert]\nIf you show that much sincerity, I should be able to trust your story and the contents of this secret letter.\nYou'll do it, right?",
+        "pt-BR": "[Jimmy Robert]\nSe você mostrar essa boa vontade, vou conseguir confiar\nsuficientemente na sua história e no conteúdo desta carta secreta.\nVocê fará isso, não é?",
         "es-ES": "[Jimmy Robert]\nSi muestras esa buena voluntad,\ncreeré suficientemente en tu historia\ny en el contenido de esta carta secreta.\n¿Aceptará?"
     },
     "jNZIDA": {
-        "ko-KR": "[지미 로버트]\n바람도 불고\n날씨도 나쁘지 않네..",
-        "en-US": "[Jimmy Robert]\nThe wind is blowing\nand the weather isn't bad either..",
-        "pt-BR": "[Jimmy Robert]\nO vento está soprando\ne o clima não está ruim..",
+        "en-US": "[Jimmy Robert]\nThe wind is blowing and the weather isn't bad either...",
+        "pt-BR": "[Jimmy Robert]\nO vento está soprando e o clima não está ruim...",
         "es-ES": "[Jimmy Robert]\nEl viento sopla\ny el clima no está mal.."
     }
 }

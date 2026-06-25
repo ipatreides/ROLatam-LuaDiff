@@ -21,19 +21,26 @@ function get_AgitMoveMapName(in_Number)
 	end
 end
 function get_agit_name(in_Number)
-	local agitinfo = get_AgitMapName(in_Number)
-	if nil ~= agitinfo then
-		return agitinfo.Name
+	local agitInfo = get_AgitMapName(in_Number)
+	if nil ~= agitInfo then
+		return agitInfo.Name
+	end
+	return nil
+end
+function get_agit_name_by_map_name(in_String)
+	local agitInfo = tbl_AgitInfo[in_String]
+	if nil ~= agitInfo then
+		return agitInfo.Name
 	end
 	return nil
 end
 function get_agit_costzeny(in_Number, in_seigemode)
-	local agitinfo = get_AgitMapName(in_Number)
-	if nil ~= agitinfo and nil ~= agitinfo.Warp then
+	local agitInfo = get_AgitMapName(in_Number)
+	if nil ~= agitInfo and nil ~= agitInfo.Warp then
 		if false == in_seigemode then
-			return agitinfo.Warp.CostZeny
+			return agitInfo.Warp.CostZeny
 		else
-			return agitinfo.Warp.CostZenySeigeTime
+			return agitInfo.Warp.CostZenySeigeTime
 		end
 	end
 	return nil

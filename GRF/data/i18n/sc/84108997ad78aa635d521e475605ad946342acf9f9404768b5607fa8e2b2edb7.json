@@ -1,0 +1,827 @@
+{
+    "wKwNDQ": {
+        "en-US": "Meeting Point",
+        "pt-BR": "Ponto de Encontro",
+        "es-ES": "Punto de encuentro"
+    },
+    "wawNDQ": {
+        "en-US": "We have arrived at the meeting place.\nIt seems the others have not arrived yet.\nLet us wait.",
+        "pt-BR": "Cheguei ao local combinado.\nParece que os outros ainda não chegaram.\nVamos esperar.",
+        "es-ES": "Has llegado al lugar acordado.\nParece que los demás aún no han llegado.\nSerá mejor esperar."
+    },
+    "wqwNDQ": {
+        "en-US": "Ah! You are still here!",
+        "pt-BR": "Ah! Ainda estou aqui!",
+        "es-ES": "¡Ah! ¡Todavía está aquí!"
+    },
+    "w6wNDQ": {
+        "en-US": "Were you not late?",
+        "pt-BR": "Não se atrasou?",
+        "es-ES": "¿No llego tarde?"
+    },
+    "xKwNDQ": {
+        "en-US": "I was waiting for Miriam.",
+        "pt-BR": "Estávamos esperando por Miriam...",
+        "es-ES": "¿Estabas esperando a Miriam?"
+    },
+    "xawNDQ": {
+        "en-US": "[Maram]\nI asked Mother for permission and stepped out for a moment.\nI still have to go back soon, since we are in the middle of settling the protest ....\nWhere is Miriam?",
+        "pt-BR": "[Maram]\nPedi licença à minha mãe e saí por um instante.\nAinda estamos resolvendo o protesto, então logo preciso voltar, mas....\nOnde está Miriam?",
+        "es-ES": "[Maram]\nHe salido un momento tras pedir permiso a mi madre.\nTodavía tengo que volver enseguida, porque siguen ocupándose de sofocar la manifestación...\n¿Dónde está Miriam?"
+    },
+    "xqwNDQ": {
+        "en-US": "[Suad]\nThere she comes.",
+        "pt-BR": "[Suad]\nLá vem ela.",
+        "es-ES": "[Suad]\nYa viene por allí."
+    },
+    "x6wNDQ": {
+        "en-US": "[Miriam]\nI apologize for being late. It took some time to find someone.",
+        "pt-BR": "[Miriam]\nPeço desculpas pelo atraso. Levei algum tempo procurando uma pessoa.",
+        "es-ES": "[Miriam]\nPerdón por llegar tarde. Me ha llevado algo de tiempo encontrar a una persona."
+    },
+    "yKwNDQ": {
+        "en-US": "[Miriam]\nThis is Aira.\nShe is a girl who often attends to Father, but we need her help to enter the villa.",
+        "pt-BR": "[Miriam]\nEsta é Aira.\nEla é uma menina que às vezes ajuda meu pai, e precisamos da ajuda dela para entrar na casa de campo.",
+        "es-ES": "[Miriam]\nElla es Aira.\nA veces atiende a mi padre, y necesitamos su ayuda para entrar en la villa."
+    },
+    "yawNDQ": {
+        "en-US": "Hello.",
+        "pt-BR": "Olá.",
+        "es-ES": "Encantado."
+    },
+    "yqwNDQ": {
+        "en-US": "[Maram]\nWhat? Why is Aira here?\nIs she related to this matter?",
+        "pt-BR": "[Maram]\nMas o quê, por que Aira veio aqui?\nEla tem alguma relação com este assunto?",
+        "es-ES": "[Maram]\n¿Qué? ¿Y qué hace Aira aquí?\n¿Tiene algo que ver con todo esto?"
+    },
+    "y6wNDQ": {
+        "en-US": "[Aira]\nIt has been a while. Brother Maram.\nI came to repay the debt I owe Sister Miriam while I had the chance.",
+        "pt-BR": "[Aira]\nQuanto tempo. Maram oppa.\nAproveitei a oportunidade para vir e também retribuir um favor que devo à irmã Miriam.",
+        "es-ES": "[Aira]\nCuánto tiempo, Maram oponi.\nYa que estamos, he venido también para devolverle a la hermana Miriam el favor que le debo."
+    },
+    "zKwNDQ": {
+        "en-US": "[Aira]\nI heard you have business at the villa?\nSince I push Lord Amal's wheelchair, I travel all over the place.",
+        "pt-BR": "[Aira]\nOuvi dizer que vocês têm algo para resolver na casa de campo, não é?\nComo eu empurro a cadeira de rodas do Sr. Amal, acabo indo e voltando de todo tipo de lugar.",
+        "es-ES": "[Aira]\nHan dicho que tienen asuntos en la villa, ¿verdad?\nComo suelo empujar la silla de ruedas de Amal, termino yendo y viniendo por todo tipo de sitios."
+    },
+    "zawNDQ": {
+        "en-US": "[Aira]\nAs it happens, I still have a servant's key I was given.\nI have not returned it yet because I recently escorted Lord Amal there.",
+        "pt-BR": "[Aira]\nPor acaso, eu ainda estou com uma chave de uso dos criados.\nRecentemente acompanhei o Sr. Amal até lá, então ainda não a devolvi.",
+        "es-ES": "[Aira]\nDa la casualidad de que tengo una llave para el servicio.\nHace poco acompañé al señor Amal, así que todavía no la he devuelto y la sigo llevando encima."
+    },
+    "zqwNDQ": {
+        "en-US": "[Aira]\nAnd about that villa.\nIt is sometimes lent out to acolytes, is it not?\nIt was this time as well.\nBut something feels strange.",
+        "pt-BR": "[Aira]\nE sobre aquela casa de campo.\nÀs vezes a emprestam para sacerdotes em retiro, não é?\nDesta vez também foi assim.\nMas há algo estranho.",
+        "es-ES": "[Aira]\nY sobre esa villa...\nA veces se la prestan a los sacerdotes ascetas.\nY esta vez ha vuelto a pasar.\nPero hay algo raro."
+    },
+    "z6wNDQ": {
+        "en-US": "[Suad]\nStrange?\nI would appreciate it if you could be specific.",
+        "pt-BR": "[Suad]\nEstranho?\nSeria bom se explicasse com mais detalhes.",
+        "es-ES": "[Suad]\n¿Raro?\nSería mejor que nos lo explicaras con detalle."
+    },
+    "0KwNDQ": {
+        "en-US": "[Aira]\nThey said some acolytes would be staying there for a while, but I do not think they were really acolytes....",
+        "pt-BR": "[Aira]\nDisseram que eram sacerdotes em retiro e que ficariam ali por um tempo, mas acho que esse negócio de sacerdotes em retiro é mentira...",
+        "es-ES": "[Aira]\nDijeron que unos sacerdotes ascetas se quedarían allí un tiempo, pero me da la impresión de que eso de los sacerdotes ascetas era mentira..."
+    },
+    "0awNDQ": {
+        "en-US": "[Aira]\nIt looks like Lord Amal is running another secret group again.\nDid he not say he was going to wage war last time, only to be driven out of the temple?",
+        "pt-BR": "[Aira]\nParece que o Sr. Amal está comandando outro grupo secreto de novo.\nDa outra vez ele disse que ia fazer guerra e acabou sendo expulso do santuário, não foi?",
+        "es-ES": "[Aira]\nParece que el señor Amal ha vuelto a poner en marcha algún grupo secreto.\nLa otra vez ya quiso ir a la guerra y por eso lo echaron del santuario, ¿recuerdan?"
+    },
+    "0qwNDQ": {
+        "en-US": "[Aira]\nIt seems he still has not given up.\nThis time, people who look even more dangerous than last time are staying at the villa.",
+        "pt-BR": "[Aira]\nAcho que ele ainda não desistiu.\nDesta vez, na casa de campo, estão hospedadas pessoas que parecem ainda mais perigosas do que da outra vez.",
+        "es-ES": "[Aira]\nParece que todavía no ha renunciado.\nEsta vez se están alojando en la villa personas que parecen aún más peligrosas que la vez anterior."
+    },
+    "06wNDQ": {
+        "en-US": "[Aira]\nI do not care who it is, I just wish someone would stop it.\nThe atmosphere in Rachel is already bad enough.\nIf a war breaks out, it is us natives who will be used as arrow fodder.",
+        "pt-BR": "[Aira]\nTanto faz quem seja, só queria que alguém o impedisse.\nO clima em Rachel também não está bom.\nSe uma guerra estourar, nós, os nativos, é que vamos acabar servindo de escudo.",
+        "es-ES": "[Aira]\nMe da igual quién sea, pero me gustaría que alguien lo detuviera.\nEl ambiente en Rachel tampoco es bueno, ¿verdad?\nSi llegara a estallar una guerra, los que acabaríamos poniéndonos delante para recibir las flechas seríamos nosotros, los indígenas."
+    },
+    "1KwNDQ": {
+        "en-US": "[Miriam]\nHmm .... No, it will not be a war.\nYou may rest easy.",
+        "pt-BR": "[Miriam]\nHum.... não, não deve ser uma guerra.\nPode ficar tranquila.",
+        "es-ES": "[Miriam]\nMmm.... No, no creo que sea una guerra.\nPuedes quedarte tranquila."
+    },
+    "1awNDQ": {
+        "en-US": "[Aira]\nSister! How can you be so calm?\nDo you know how scared I was while managing that villa?!\nEspecially that woman who seems out of her mind....",
+        "pt-BR": "[Aira]\nIrmã! Como pode estar tão tranquila assim?\nVocê sabe o quanto eu fiquei assustada enquanto cuidava da casa de campo?!\nAinda mais por causa daquela mulher completamente perturbada...",
+        "es-ES": "[Aira]\n¡Hermana! ¿Cómo puede estar tan tranquila?\n¿Sabe el miedo que he pasado mientras cuidaba de la villa?\nSobre todo por esa mujer que está mal de la cabeza..."
+    },
+    "1qwNDQ": {
+        "en-US": "[Maram]\nHahaha ....\nAll right. Calm down, Aira.\nWe gathered here to find that out.",
+        "pt-BR": "[Maram]\nHahaha ....\nEntendi. Acalme-se, Aira.\nNós nos reunimos agora justamente para descobrir isso.",
+        "es-ES": "[Maram]\nJa, ja, ja....\nVale, tranquilízate, Aira.\nNos hemos reunido precisamente para averiguar eso a partir de ahora."
+    },
+    "16wNDQ": {
+        "en-US": "[Miriam]\nFor that reason, we are planning to enter the villa where those violent guests are staying.\nThe ones we encountered at the temple seem to be those very guests.",
+        "pt-BR": "[Miriam]\nPor esse motivo, pretendemos entrar na casa de campo onde dizem que hóspedes violentos estão hospedados.\nAo que tudo indica, aqueles que encontramos no santuário devem ser esses hóspedes.",
+        "es-ES": "[Miriam]\nPor ese motivo, vamos a entrar en la villa donde, según parece, se alojan unos huéspedes peligrosos.\nPor lo visto, los que nos encontramos en el santuario deben de ser esos huéspedes."
+    },
+    "2KwNDQ": {
+        "en-US": "[Suad]\nI understand well enough what you mean.\nTo be honest, I would like to go with you.\nBut there is still work I must finish.",
+        "pt-BR": "[Suad]\nEntendo muito bem o que quer dizer.\nSendo sincero, eu gostaria de ir junto.\nMas ainda tenho coisas a resolver.",
+        "es-ES": "[Suad]\nEntiendo perfectamente lo que quieres decir.\nSinceramente, me gustaría ir con vosotros.\nPero aún me quedan asuntos que debo arreglar."
+    },
+    "2awNDQ": {
+        "en-US": "[Maram]\nThat is right. I hurriedly asked for permission and stepped away for a moment.\nWe still have to settle the protest and carry out the mediation work.",
+        "pt-BR": "[Maram]\nIsso. Eu pedi licença às pressas e saí só por um instante.\nAinda preciso terminar de resolver o protesto, e também são necessários ajustes.",
+        "es-ES": "[Maram]\nSí. Pedí permiso deprisa y vine a ausentarme solo un momento.\nTodavía tenemos que terminar de resolver la manifestación, y también hace falta coordinar varias cosas."
+    },
+    "2qwNDQ": {
+        "en-US": "[Maram]\nI am sorry, but Suad and I cannot go with you.\nYou understand, do you not?",
+        "pt-BR": "[Maram]\nDesculpe, mas eu e Suad não poderemos ir juntos.\nPode entender isso, não é?",
+        "es-ES": "[Maram]\nLo siento, pero ni Suad ni yo podremos acompañaros.\n¿Podréis comprenderlo?"
+    },
+    "26wNDQ": {
+        "en-US": "[Miriam]\nOf course.\nMatters between people are more properly resolved by the two of you.\nPlease look after the people of Gray Wolf Village.",
+        "pt-BR": "[Miriam]\nClaro.\nÉ mais adequado que vocês resolvam os assuntos entre as pessoas.\nConto com vocês para cuidar do povo da Vila do Lobo.",
+        "es-ES": "[Miriam]\nPor supuesto.\nLos asuntos entre la gente es mejor que los resolváis vosotros.\nOs encargo a la gente del Pueblo del Lobo."
+    },
+    "3KwNDQ": {
+        "en-US": "[Miriam]\nThen, {0}, would you scout the villa with me?",
+        "pt-BR": "[Miriam]\nEntão, Sr. {0}, poderia me ajudar a fazer o reconhecimento da casa de campo?",
+        "es-ES": "[Miriam]\nEntonces, {0}, ¿nos acompañarás a explorar la villa?"
+    },
+    "3awNDQ": {
+        "en-US": "Leave it to me.",
+        "pt-BR": "Deixe comigo.",
+        "es-ES": "Déjamelo a mí."
+    },
+    "3qwNDQ": {
+        "en-US": "[Suad]\nThank you for understanding.\nOnce you safely enter the villa, we will take Aira with us.",
+        "pt-BR": "[Suad]\nObrigado por compreender.\nQuando vocês conseguirem entrar em segurança na casa de campo, nós levaremos Aira conosco.",
+        "es-ES": "[Suad]\nGracias por comprenderlo.\nCuando consigáis entrar a salvo en la villa, nosotros nos llevaremos a Aira."
+    },
+    "36wNDQ": {
+        "en-US": "[Miriam]\nThank you.\nThen, Aira. Will you send us to the villa?",
+        "pt-BR": "[Miriam]\nObrigada.\nEntão, Aira. Pode nos mandar para a casa de campo?",
+        "es-ES": "[Miriam]\nGracias.\nEntonces, Aira. ¿Podrías enviarnos a la villa?"
+    },
+    "4KwNDQ": {
+        "en-US": "[Aira]\nOf course.\nOnce you are ready, please speak to me.\nI will send you there right away.",
+        "pt-BR": "[Aira]\nClaro.\nQuando estiverem prontos, falem comigo.\nEu mando vocês imediatamente.",
+        "es-ES": "[Aira]\nClaro que sí.\nCuando estén preparados, háblenme.\nLos enviaré enseguida."
+    },
+    "4awNDQ": {
+        "en-US": "Are you ready?",
+        "pt-BR": "Já estão prontos?",
+        "es-ES": "¿Ya están preparados?"
+    },
+    "4qwNDQ": {
+        "en-US": "High Priest Villa",
+        "pt-BR": "Aposento do Clérigo",
+        "es-ES": "Cuarteles del clérigo"
+    },
+    "46wNDQ": {
+        "en-US": "You can enter MD High Priest Villa Story Mode.\nAdventurers who have already completed it may only enter to accompany a fellow adventurer.\nWould you like to enter together for your companion?",
+        "pt-BR": "É possível entrar no modo história do MD Aposento do Clérigo.\nAventureiros que já o concluíram só podem entrar para acompanhar outros aventureiros.\nDeseja entrar junto para acompanhar seus companheiros?",
+        "es-ES": "Se puede entrar en el modo historia de MD Cuarteles del clérigo.\nLos trotamundos que ya lo hayan completado solo pueden entrar para acompañar a otros trotamundos.\n¿Desea entrar para acompañar a sus compañeros?"
+    },
+    "5KwNDQ": {
+        "en-US": "Enter 'High Priest Villa'.",
+        "pt-BR": "Entrar em 'Mansão Sacerdotal'.",
+        "es-ES": "Entrar en 'Cuarteles del clérigo'."
+    },
+    "5awNDQ": {
+        "en-US": "Entry is taking a little time.\nPlease wait a moment.",
+        "pt-BR": "A entrada está levando algum tempo.\nPor favor, aguarde um momento.",
+        "es-ES": "La entrada está tardando un poco.\nEspere un momento, por favor."
+    },
+    "5qwNDQ": {
+        "en-US": "You cannot accompany anyone at this time. Please check whether your companion has applied for the MD.",
+        "pt-BR": "No momento, não é possível acompanhar. Verifique se o companheiro com quem deseja acompanhar solicitou o MD.",
+        "es-ES": "No es posible acompañar en este momento. Compruebe si el compañero al que va a acompañar ha solicitado el MD."
+    },
+    "56wNDQ": {
+        "en-US": "^4D4DFFThis is an event processed through a memorial.\nPlease form a party and try again.^000000",
+        "pt-BR": "^4D4DFFEste é um evento realizado por meio de memorial.\nPor favor, forme um grupo e tente novamente.^000000",
+        "es-ES": "^4D4DFFEste es un evento que se desarrolla a través de un memorial.\nForme un grupo y vuelva a intentarlo.^000000"
+    },
+    "6KwNDQ": {
+        "en-US": "{1} of party {0} enters {2}",
+        "pt-BR": "O membro {1} do grupo {0} entra em {2}",
+        "es-ES": "El miembro del grupo {1} del grupo {0} entra en {2}"
+    },
+    "6awNDQ": {
+        "en-US": "^4D4DFFThis is an event processed through a memorial.\nPlease form a party and try again.^000000\n^4D4DFFA party can be created with /organize Party Name ^000000.",
+        "pt-BR": "^4D4DFFEste é um evento realizado por memorial.\nPor favor, forme um grupo e tente novamente.^000000\n^4D4DFFÉ possível criar um grupo com /organize nome do grupo ^000000.",
+        "es-ES": "^4D4DFFEste es un evento que se desarrolla en un memorial.\nForme un grupo y vuelva a intentarlo.^000000\n^4D4DFFPuede crear un grupo con /organize nombre_del_grupo ^000000."
+    },
+    "6qwNDQ": {
+        "en-US": "Maram",
+        "pt-BR": "Maram",
+        "es-ES": "Maram"
+    },
+    "66wNDQ": {
+        "en-US": "[Maram]\nEven if this matter was manipulated by the Heart Hunters and those called Illusion, it was something bound to erupt someday.",
+        "pt-BR": "[Maram]\nMesmo que desta vez tenha sido manipulado por aqueles chamados Caça-Corações e Ilusión, isso era algo que acabaria explodindo um dia.",
+        "es-ES": "[Maram]\nAunque esta vez haya sido algo manipulado por esos llamados Cazacorazones y Illusion, era algo que tarde o temprano iba a estallar."
+    },
+    "7KwNDQ": {
+        "en-US": "[Maram]\nI do not know why it is so difficult for everyone to live well together.",
+        "pt-BR": "[Maram]\nNão sei por que é tão difícil para todos viverem bem juntos.",
+        "es-ES": "[Maram]\nNo entiendo por qué resulta tan difícil que todos podamos vivir bien juntos."
+    },
+    "7awNDQ": {
+        "en-US": "[Maram]\nThese concerns are now for those of us who remain.\nAdventurer, please investigate the villa with Miriam.\nI have no idea what Lord Amal could possibly be thinking.",
+        "pt-BR": "[Maram]\nEssas preocupações cabem a nós que ficamos.\nAventureiro, por favor, investigue a casa de campo junto com Miriam.\nEu realmente não sei o que o Sr. Amal está pensando.",
+        "es-ES": "[Maram]\nEstas preocupaciones nos corresponden a los que nos quedamos.\nTrotamundos, por favor, investigue la villa junto a Miriam.\nNo sé qué estará pensando exactamente el señor Amal."
+    },
+    "7qwNDQ": {
+        "en-US": "[Maram]\nAh, you are out.\nThe disturbance has been somewhat settled, so I came over.\nMiriam and Priest Yus have gone to the temple.",
+        "pt-BR": "[Maram]\nAh, você saiu.\nVim porque a agitação já foi parcialmente contida.\nMiriam e o Sacerdote Yus foram para o santuário.",
+        "es-ES": "[Maram]\nAh, ya ha salido.\nVine a ver cómo iba todo, porque la conmoción ya está más o menos controlada.\nLa sacerdotisa Miriam y el sacerdote Yus fueron al santuario."
+    },
+    "76wNDQ": {
+        "en-US": "[Maram]\nLord Yus made quite a scene, so Suad practically hauled him off as if arresting him.\nHe said we should discuss the details at the temple.",
+        "pt-BR": "[Maram]\nComo o Sr. Yus estava um pouco fora de controle, Suad acabou levando-o quase à força.\nEle disse que conversaria em detalhes no santuário.",
+        "es-ES": "[Maram]\nComo el señor Yus se puso un poco fuera de sí, Suad se lo llevó prácticamente detenido.\nDijo que ya hablaríamos con detalle en el santuario."
+    },
+    "8KwNDQ": {
+        "en-US": "[Maram]\nWill you go right away?",
+        "pt-BR": "[Maram]\nQuer ir agora mesmo?",
+        "es-ES": "[Maram]\n¿Quiere ir ahora mismo?"
+    },
+    "8awNDQ": {
+        "en-US": "Please do.",
+        "pt-BR": "Por favor.",
+        "es-ES": "Te lo encargo."
+    },
+    "8qwNDQ": {
+        "en-US": "I will go on my own.",
+        "pt-BR": "Vou por conta própria.",
+        "es-ES": "Iré por mi cuenta."
+    },
+    "86wNDQ": {
+        "en-US": "[Maram]\nThen let us go this way together. Haha..",
+        "pt-BR": "[Maram]\nEntão vamos por aqui, venha comigo. Haha..",
+        "es-ES": "[Maram]\nEntonces venga por aquí conmigo. Ja, ja..."
+    },
+    "9KwNDQ": {
+        "en-US": "[Maram]\nUnderstood.\nIf you need guidance, please speak to me.",
+        "pt-BR": "[Maram]\nEntendido.\nSe precisar de orientação, fale comigo.",
+        "es-ES": "[Maram]\nEntendido.\nSi en algún momento necesita guía, hábleme."
+    },
+    "9awNDQ": {
+        "en-US": "Suad",
+        "pt-BR": "Suad",
+        "es-ES": "Suad"
+    },
+    "9qwNDQ": {
+        "en-US": "[Suad]\nI am sorry for saddling you with this troublesome matter.\nBut the members of Gray Wolf Village must be waiting for me.",
+        "pt-BR": "[Suad]\nDesculpe por deixar uma tarefa incômoda nas suas mãos.\nMas os membros de Aldeia do Lobo Cinzento devem estar me esperando.",
+        "es-ES": "[Suad]\nPerdona por dejarte esta tarea tan molesta.\nPero los miembros de Pueblo del Lobo Gris me estarán esperando."
+    },
+    "96wNDQ": {
+        "en-US": "[Suad]\nPlease take care of Miriam.",
+        "pt-BR": "[Suad]\nConto com você para cuidar de Miriam.",
+        "es-ES": "[Suad]\nTe encargo a Miriam."
+    },
+    "+KwNDQ": {
+        "en-US": "Miriam",
+        "pt-BR": "Miriam",
+        "es-ES": "Miriam"
+    },
+    "+awNDQ": {
+        "en-US": "[Miriam]\nOnly the Adventurer and I will enter the villa.\nSuad and Maram will return to settle the protest.",
+        "pt-BR": "[Miriam]\nViajante, só você e eu entraremos na mansão.\nSuad e Maram vão voltar para terminar de resolver o protesto.",
+        "es-ES": "[Miriam]\nA la villa entraremos solo el aventurero y yo.\nSuad y Maram volverán para seguir encargándose de resolver la manifestación."
+    },
+    "+qwNDQ": {
+        "en-US": "[Miriam]\nThe villa is said to be below this ravine.\nAira has a separate entry key, so please speak to Aira once you are ready.",
+        "pt-BR": "[Miriam]\nDizem que a mansão fica abaixo deste desfiladeiro.\nAira disse que tem uma chave de acesso separada, então, quando estiver pronto, fale com Aira.",
+        "es-ES": "[Miriam]\nDicen que la villa está al fondo de este desfiladero.\nAl parecer, Aira tiene una llave de acceso aparte, así que, cuando esté preparado, háblele a Aira."
+    },
+    "+6wNDQ": {
+        "en-US": "Aira",
+        "pt-BR": "Aira",
+        "es-ES": "Aira"
+    },
+    "/KwNDQ": {
+        "en-US": "[Aira]\nThe villa entrance? The key is the entrance.\nThere is some kind of teleportation magic on it.\nIf you are ready, shall I guide you to the villa?",
+        "pt-BR": "[Aira]\nA entrada da mansão? A chave é a entrada.\nEla tem algo como uma magia de teleporte aplicada.\nSe já estiverem prontos, devo guiá-los até a mansão?",
+        "es-ES": "[Aira]\n¿La entrada de la villa? La llave es la entrada.\nTiene aplicada una especie de magia de traslado.\nSi ya están preparados, ¿quieren que los guíe hasta la villa?"
+    },
+    "/awNDQ": {
+        "en-US": "[Aira]\nAnd.... since we do not know what might happen inside.\nIf you have companions, I recommend going together.",
+        "pt-BR": "[Aira]\nE também.... como não sabemos o que pode acontecer lá dentro.\nSe tiver companheiros, recomendo que vão juntos.",
+        "es-ES": "[Aira]\nY además.... no sabemos qué puede ocurrir dentro.\nSi tienen compañeros, les recomiendo ir juntos."
+    },
+    "/qwNDQ": {
+        "en-US": "Apply for 'High Priest Villa'.",
+        "pt-BR": "Solicitar 'Aposento do Clérigo'.",
+        "es-ES": "Solicitar 'Cuarteles del Clérigo'."
+    },
+    "/6wNDQ": {
+        "en-US": "[Aira]\nJust a moment, I need to activate the key, but a slight problem has come up.\nCould you wait just a little?",
+        "pt-BR": "[Aira]\nSó um instante, preciso ativar a chave, mas surgiu um pequeno problema.\nPode esperar só um pouco?",
+        "es-ES": "[Aira]\nUn momento, tengo que activar la llave, pero ha surgido un pequeño problema.\n¿Podrían esperar un poco?"
+    },
+    "AK0NDQ": {
+        "en-US": "[Aira]\nThen I shall escort you.",
+        "pt-BR": "[Aira]\nEntão, vou guiá-los.",
+        "es-ES": "[Aira]\nEntonces, permítanme acompañarlos."
+    },
+    "Aa0NDQ": {
+        "en-US": "^4D4DFFThis is an event processed through a memorial.\nYou must be the party leader to apply for the memorial dungeon.^000000",
+        "pt-BR": "^4D4DFFEste é um evento realizado em uma instância.\nA solicitação do calabouço memorial deve ser feita pelo líder do grupo.^000000",
+        "es-ES": "^4D4DFFEste es un evento que se desarrolla en un memorial.\nLa solicitud del memorial dungeon debe hacerla el líder del grupo.^000000"
+    },
+    "Aq0NDQ": {
+        "en-US": "[Aira]\nNormally, it is difficult to get inside.\nIt works by manipulating the villa key to enter....",
+        "pt-BR": "[Aira]\nNormalmente é difícil entrar.\nÉ um método de entrada manipulado por meio da chave da mansão....",
+        "es-ES": "[Aira]\nNormalmente no es fácil entrar.\nSe hace manipulando la llave de la villa para acceder...."
+    },
+    "A60NDQ": {
+        "en-US": "[Aira]\nThe key takes some time to activate.\nCould you wait just a moment?",
+        "pt-BR": "[Aira]\nA chave está demorando para funcionar.\nPode esperar só um instante?",
+        "es-ES": "[Aira]\nLa llave está tardando en activarse.\n¿Podrían esperar un momento?"
+    },
+    "BK0NDQ": {
+        "en-US": "[Est]\nHmm? Could you please check whether the party leader has applied for entry to the villa?",
+        "pt-BR": "[Est]\nHum? Poderia verificar se o líder do grupo solicitou a entrada na mansão?",
+        "es-ES": "[Est]\n¿Mmm? ¿Podría comprobar si el líder del grupo ha solicitado la entrada a la villa?"
+    },
+    "Ba0NDQ": {
+        "en-US": "Temple Knight",
+        "pt-BR": "Cavaleiro do santuário",
+        "es-ES": "Caballero del Santuario"
+    },
+    "Bq0NDQ": {
+        "en-US": "We have been expecting you. Please go inside.",
+        "pt-BR": "Estávamos esperando. Entre.",
+        "es-ES": "Le estábamos esperando. Pase al interior."
+    },
+    "B60NDQ": {
+        "en-US": "Entry is prohibited to unauthorized personnel.",
+        "pt-BR": "Entrada proibida para pessoas não autorizadas.",
+        "es-ES": "Entrada prohibida a personas no autorizadas."
+    },
+    "CK0NDQ": {
+        "en-US": "[Temple Knight]\nThis is the holy land of Sessrumnir.\nThe public chapel is not this way, so turn back.",
+        "pt-BR": "[Cavaleiro do santuário]\nEste é o santuário Sessrumnir.\nA capela comum não é por aqui, então volte.",
+        "es-ES": "[Caballero del Santuario]\nEste es el santuario sagrado de Sessrumnir.\nLa capilla general no está por aquí, así que regrese."
+    },
+    "Ca0NDQ": {
+        "en-US": "Miriam has information she has learned, so let us hear it together.",
+        "pt-BR": "Vamos entrar para ouvir o que Miriam descobriu.",
+        "es-ES": "Escuchemos juntos lo que ha averiguado Miriam."
+    },
+    "Cq0NDQ": {
+        "en-US": "I hope I can accompany you as well when you go to find the heart.",
+        "pt-BR": "Seria bom se eu também pudesse ir junto quando forem procurar o coração.",
+        "es-ES": "Me gustaría poder acompañarlos también cuando vayan a buscar el corazón."
+    },
+    "C60NDQ": {
+        "en-US": "....",
+        "pt-BR": "....",
+        "es-ES": "...."
+    },
+    "DK0NDQ": {
+        "en-US": "Thank you for helping Gray Wolf Forest.",
+        "pt-BR": "Obrigado por ajudar a Floresta do Lobo Cinzento.",
+        "es-ES": "Gracias por ayudar al Bosque del Lobo Gris."
+    },
+    "Da0NDQ": {
+        "en-US": "Niren",
+        "pt-BR": "Niren",
+        "es-ES": "Niren"
+    },
+    "Dq0NDQ": {
+        "en-US": "I never imagined Yus would do such a thing....",
+        "pt-BR": "Eu não imaginava que Yus fosse capaz disso....",
+        "es-ES": "No imaginaba que Yus fuera a hacer algo así...."
+    },
+    "D60NDQ": {
+        "en-US": "As Eli said, time will help us. This time, not the gods, but time....",
+        "pt-BR": "Como disse aquela pessoa chamada Elly, o tempo estará do nosso lado. Desta vez, não Deus, mas o tempo....",
+        "es-ES": "Como dijo esa señora Elly, el tiempo estará de nuestro lado. Esta vez no un dios, sino el tiempo...."
+    },
+    "EK0NDQ": {
+        "en-US": "You cannot proceed with the quest because you are carrying too many items.\nPlease organize your items and try again.",
+        "pt-BR": "Você não pode prosseguir com a missão porque está carregando itens demais.\nPor favor, organize seus itens e tente novamente.",
+        "es-ES": "No puedes continuar la misión porque llevas demasiados objetos.\nOrdena tus objetos y vuelve a intentarlo."
+    },
+    "Ea0NDQ": {
+        "en-US": "[Miriam]\nI heard the details on the way here....\nIt seems the true objective was to bring about Lady Freya's descent using the Fragment of Ymir’s Heart.",
+        "pt-BR": "[Miriam]\nOuvi a história detalhadamente enquanto você vinha, mas....\nParece que o verdadeiro objetivo era realmente fazer descer Freya usando o Fragmento do Coração de Ymir.",
+        "es-ES": "[Miriam]\nPor lo que he oído en detalle mientras veníamos....\nParece que el objetivo real era hacer descender a la señora Freya utilizando Fragmento del Corazón de Ymir."
+    },
+    "Eq0NDQ": {
+        "en-US": "[Miriam]\nStirring up conflict between natives and migrants was also meant to divert the attention of the temple and the people.\nHaah...",
+        "pt-BR": "[Miriam]\nO fato de terem provocado o conflito entre nativos e imigrantes também era para desviar a atenção do santuário e das pessoas.\nHaah...",
+        "es-ES": "[Miriam]\nY también encendieron el conflicto entre indígenas e inmigrantes para desviar la atención del santuario y de la gente.\nAaah..."
+    },
+    "E60NDQ": {
+        "en-US": "[Miriam]\nHow many people were hurt and suffered because of that....",
+        "pt-BR": "[Miriam]\nQuantas pessoas sofreram e ficaram de coração partido por causa disso....",
+        "es-ES": "[Miriam]\n¿Cuántas personas han sufrido y han sentido dolor por culpa de eso...?"
+    },
+    "FK0NDQ": {
+        "en-US": "[Miriam]\nA god? What is a god, really?\nWhat in the world did my father hope for when he offered such a twisted prayer?",
+        "pt-BR": "[Miriam]\nDeus? O que é, afinal, um deus?\nO que meu pai estava realmente desejando ao fazer uma oração tão equivocada?",
+        "es-ES": "[Miriam]\n¿Los dioses? ¿Qué son en realidad los dioses?\n¿Qué deseaba exactamente mi padre al elevar una plegaria tan equivocada?"
+    },
+    "Fa0NDQ": {
+        "en-US": "[Miriam]\n....\nWe will only know the details after further questioning,\nbut I truly feel disgusted by blind faith.",
+        "pt-BR": "[Miriam]\n....\nSó vamos saber dos detalhes depois de interrogá-lo mais a fundo,\nmas estou realmente enojada com essa fé cega.",
+        "es-ES": "[Miriam]\n....\nTendremos que seguir interrogando para conocer los detalles,\npero sentir una fe ciega así me produce auténtica repulsión."
+    },
+    "Fq0NDQ": {
+        "en-US": "[Niren]\nI truly have no face to show you.\nI never imagined that Yus would do such a thing.",
+        "pt-BR": "[Niren]\nSinto mesmo que não tenho como encará-los.\nJamais imaginei que aquele Yus fosse capaz de fazer isso.",
+        "es-ES": "[Niren]\nDe verdad no tengo cara para miraros.\nJamás imaginé que Yus fuera capaz de algo así."
+    },
+    "F60NDQ": {
+        "en-US": "[Niren]\nDo you remember that he was once the leader of the hardliners?\nBut we could not wage war.\nTo think that, after stepping back from the front line because of that, he was plotting something like this behind the scenes.",
+        "pt-BR": "[Niren]\nVocês se lembram de que ele já foi o líder da facção radical?\nMas não podíamos fazer guerra.\nE pensar que, depois de se afastar da linha de frente por causa daquilo, ele estaria tramando algo assim nos bastidores.",
+        "es-ES": "[Niren]\n¿Recuerdas que tiempo atrás ese hombre era el cabecilla del ala dura?\nPero no se podía ir a la guerra.\nJamás imaginé que, después de apartarse del frente por aquello, estuviera tramando algo así desde las sombras."
+    },
+    "GK0NDQ": {
+        "en-US": "[Niren]\nWe are servants of the gods, those who serve their will.\nWe are always those who wait and hope for Lady Freya to let us hear her voice once more.",
+        "pt-BR": "[Niren]\nNós somos servos dos deuses e aqueles que servem à vontade divina.\nSempre fomos aqueles que esperam para que Deusa Freya volte a nos fazer ouvir sua voz.",
+        "es-ES": "[Niren]\nNosotros somos siervos de los dioses y servimos su voluntad.\nSomos quienes siempre esperan el día en que la señora Freya vuelva a hacernos oír su voz."
+    },
+    "Ga0NDQ": {
+        "en-US": "[Niren]\nBut even so, we must never dare to think of summoning a god down to this earth.\nThat is not the will of the gods.",
+        "pt-BR": "[Niren]\nMas isso não significa que devamos sequer ousar pensar em invocar uma deusa à terra.\nIsso não é a vontade divina.",
+        "es-ES": "[Niren]\nPero aun así, jamás debemos atrevernos a traer a un dios a la tierra.\nEso no es la voluntad divina."
+    },
+    "Gq0NDQ": {
+        "en-US": "[Niren]\nYus broke a taboo.\nA mere human, claiming to be a servant of the gods, sought to summon a god and use it as his own power.",
+        "pt-BR": "[Niren]\nAquele Yus violou um tabu.\nUm humano que ousava se chamar servo dos deuses tentou invocar uma deusa e fazer dela seu próprio poder.",
+        "es-ES": "[Niren]\nEse Yus ha quebrantado un tabú.\nUn humano que se hacía llamar siervo de los dioses se atrevió a invocar a un dios para convertirlo en su propio poder."
+    },
+    "G60NDQ": {
+        "en-US": "[Niren]\nThat alone is unforgivable, yet for that he plunged believers and innocents alike into suffering.\nWhat are we to do about the lost Fragment of Ymir’s Heart....",
+        "pt-BR": "[Niren]\nSó isso já seria imperdoável, mas, por causa disso, ele lançou fiéis e inocentes ao sofrimento.\nO que devemos fazer com o Fragmento do Coração de Ymir perdido...",
+        "es-ES": "[Niren]\nSolo por eso ya sería imperdonable, y aun así hizo sufrir a fieles e inocentes para lograrlo.\nQué deberíamos hacer con el Fragmento del Corazón de Ymir perdido...."
+    },
+    "HK0NDQ": {
+        "en-US": "[Maram]\nMother.\nWe will be able to retrieve the Fragment of Ymir’s Heart.\nPlease do not worry too much.",
+        "pt-BR": "[Maram]\nMãe.\nVamos conseguir recuperar o Fragmento do Coração de Ymir.\nPor favor, não se preocupe tanto.",
+        "es-ES": "[Maram]\nMadre.\nPodremos recuperar Fragmento del Corazón de Ymir.\nNo se preocupe tanto."
+    },
+    "Ha0NDQ": {
+        "en-US": "[Miriam]\nThat is right.\nI will retrieve the Fragment of Ymir’s Heart as well.",
+        "pt-BR": "[Miriam]\nIsso mesmo.\nEu também vou recuperar o Fragmento do Coração de Ymir.",
+        "es-ES": "[Miriam]\nAsí es.\nYo también recuperaré Fragmento del Corazón de Ymir."
+    },
+    "Hq0NDQ": {
+        "en-US": "The conversation is getting long.\nWhen will it be all right for me to join in....",
+        "pt-BR": "A conversa está se prolongando.\nQuando será que posso entrar nela....",
+        "es-ES": "La conversación se está alargando.\n¿Cuándo será buen momento para meterme...?"
+    },
+    "H60NDQ": {
+        "en-US": "[Suad]\n....\nIf you have arrived, then make your presence known.",
+        "pt-BR": "[Suad]\n....\nSe chegou, então dê algum sinal de presença.",
+        "es-ES": "[Suad]\n....\nSi has llegado, hazte notar."
+    },
+    "IK0NDQ": {
+        "en-US": "[Niren]\nOh dear, I did not even realize the Adventurer had arrived while we were talking.\nHow did your investigation go?\nI mean the remnants of that profane thing discovered in Yus's villa.",
+        "pt-BR": "[Niren]\nOra, nem percebemos que havia chegado e continuamos conversando.\nComo foi a investigação?\nRefiro-me aos vestígios daquela coisa profana encontrada na mansão de Yus.",
+        "es-ES": "[Niren]\nVaya, no me había dado cuenta de que trotamundos había llegado y estábamos aquí hablando.\n¿Qué tal fue su investigación?\nMe refiero a los restos de esa blasfemia que encontraron en la villa de Yus."
+    },
+    "Ia0NDQ": {
+        "en-US": "[Miriam]\nWas it called Bagot?\nWhat we saw at the villa was a chimera created by Bagot....",
+        "pt-BR": "[Miriam]\nEra Bagot, não era?\nO que vimos na mansão era uma quimera criada por Bagot....",
+        "es-ES": "[Miriam]\n¿Se llamaba Bagot?\nLo que vimos en la villa era una quimera creada por Bagot...."
+    },
+    "Iq0NDQ": {
+        "en-US": "Eli: I will explain that.",
+        "pt-BR": "Elly: Eu explico isso.",
+        "es-ES": "Elly: Permítanme explicarlo yo."
+    },
+    "I60NDQ": {
+        "en-US": "You must be carrying Droopy Elly.",
+        "pt-BR": "É necessário estar com a Boneca da Elly.",
+        "es-ES": "Debe llevar consigo Muñeca de Elly."
+    },
+    "JK0NDQ": {
+        "en-US": "I should have stopped Father before he committed a greater sin.",
+        "pt-BR": "Eu precisava impedir meu pai antes que ele cometesse um pecado ainda maior.",
+        "es-ES": "Debí detener a mi padre antes de que cometiera un pecado aún mayor."
+    },
+    "Ja0NDQ": {
+        "en-US": "The form of Elly",
+        "pt-BR": "Forma de Elly",
+        "es-ES": "La Figura de Elly"
+    },
+    "Jq0NDQ": {
+        "en-US": "[Elly]\nIt seemed like something all of you should hear together, so I projected my original form.",
+        "pt-BR": "[Elly]\nProjetei minha forma original porque achei que era uma história que todos vocês precisavam ouvir juntos.",
+        "es-ES": "[Elly]\nHe proyectado mi forma original porque me ha parecido que era una historia que todos debían escuchar juntos."
+    },
+    "J60NDQ": {
+        "en-US": "[Maram]\nOh.... So you were here. I thought I kept hearing a little voice chattering from somewhere?",
+        "pt-BR": "[Maram]\nOh.... então era você que estava aqui, já que às vezes eu ouvia uma voz tagarelando em algum lugar?",
+        "es-ES": "[Maram]\nOh.... Así que estaba aquí. A veces oía una vocecita parloteando por algún lado."
+    },
+    "KK0NDQ": {
+        "en-US": "[Elly]\nIt is pleasant to see how calm you are. As expected of the Adventurer's companions.\nWithout further ado, let us get to the point. This form cannot be maintained for long.",
+        "pt-BR": "[Elly]\nÉ bom ver essa calma. Como esperado de alguém desse grupo de aventureiros.\nSem rodeios, vamos ao ponto principal. O tempo de manutenção desta forma é curto.",
+        "es-ES": "[Elly]\nDa gusto ver que mantiene la calma. Sin duda, se puede decir que es compañero del trotamundos.\nSin rodeos, vayamos al asunto. Esta forma no puede mantenerse mucho tiempo."
+    },
+    "Ka0NDQ": {
+        "en-US": "[Niren]\nIt is indeed astonishing, but please do. I must first understand the true nature of this so-called manifestation of Lady Freya.",
+        "pt-BR": "[Niren]\nÉ realmente espantoso, mas por favor, faça isso. Antes de tudo, preciso saber a verdadeira natureza dessa manifestação de Freya.",
+        "es-ES": "[Niren]\nEs realmente asombroso, pero adelante. Lo primero que debo saber es cuál era la verdadera naturaleza de esa supuesta encarnación de Freya."
+    },
+    "Kq0NDQ": {
+        "en-US": "[Elly]\nVery well. I will explain quickly.\nThe remains collected at the villa basically had the same structure as Embryo, the source of a Homunculus.",
+        "pt-BR": "[Elly]\nCerto. Vou explicar rapidamente.\nOs resíduos coletados na mansão tinham, basicamente, a mesma estrutura de um Embrião, que é a base dos Homúnculos.",
+        "es-ES": "[Elly]\nMuy bien. Lo explicaré rápido.\nLos restos recogidos en la villa tenían básicamente la misma estructura que Embrión, el origen de los homúnculos."
+    },
+    "K60NDQ": {
+        "en-US": "[Maram]\nEmbryo?\nWhat is that? Some kind of alchemy?",
+        "pt-BR": "[Maram]\nEmbrião?\nO que é isso? Algo como alquimia?",
+        "es-ES": "[Maram]\n¿Embrión?\n¿Qué es eso? ¿Algo de alquimia?"
+    },
+    "LK0NDQ": {
+        "en-US": "[Elly]\nAre you somewhat familiar with this field?\nYou may think of Embryo as the embryonic form of an artificial life-form called a Homunculus.",
+        "pt-BR": "[Elly]\nVocê sabe um pouco sobre esse campo?\nPode-se considerar como a forma embrionária de uma forma de vida artificial chamada Homúnculo.",
+        "es-ES": "[Elly]\n¿Conoce algo de este campo?\nPuede considerar Embrión como la forma embrionaria de los homúnculos, que son formas de vida artificial."
+    },
+    "La0NDQ": {
+        "en-US": "[Elly]\nArtificial life-forms are beautiful. Depending on the alchemist who raises them, they can take a hundred or a thousand different forms.",
+        "pt-BR": "[Elly]\nFormas de vida artificiais são belas. Dependendo do alquimista que as cria, podem assumir cem, mil aparências diferentes.",
+        "es-ES": "[Elly]\nLas formas de vida artificial son hermosas. Dependiendo del alquimista que las críe, pueden adoptar cientos o miles de apariencias distintas."
+    },
+    "Lq0NDQ": {
+        "en-US": "[Elly]\nUsing Embryo as a base, Bagot raised one modeled after the Pope, then modified it into a chimera.\nWhat you saw at the villa was that modified chimera.",
+        "pt-BR": "[Elly]\nUsando um Embrião, Bagot o moldou usando a imagem da Papisa, e depois o modificou em uma quimera.\nO que vocês viram na mansão foi essa quimera modificada.",
+        "es-ES": "[Elly]\nBagot tomó como base Embrión, lo hizo crecer imitando la apariencia de Su Santidad la Papisa y después lo modificó como una quimera.\nLo que vieron en la villa era esa quimera modificada."
+    },
+    "L60NDQ": {
+        "en-US": "Because it is Illusion.",
+        "pt-BR": "Porque era Ilusión.",
+        "es-ES": "Porque es una Illusion."
+    },
+    "MK0NDQ": {
+        "en-US": "[Suad]\nCan you tell us more in detail about this thing called Illusion?",
+        "pt-BR": "[Suad]\nÉ possível saber mais detalhadamente sobre essa Ilusión?",
+        "es-ES": "[Suad]\n¿Podrías contarnos con más detalle qué es eso de Illusion?"
+    },
+    "Ma0NDQ": {
+        "en-US": "I gave them a rough explanation of Illusion.",
+        "pt-BR": "Expliquei por alto sobre Ilusión.",
+        "es-ES": "Le conté por encima lo que sabía sobre Illusion."
+    },
+    "Mq0NDQ": {
+        "en-US": "[Suad]\nSo in the end, we were played by the trickery of that Illusion in its attempt to obtain the Fragment of Ymir’s Heart?",
+        "pt-BR": "[Suad]\nNo fim, então, fomos usados por essa tal de Ilusión em uma trama para que eles obtivessem Fragmento do Coração de Ymir?",
+        "es-ES": "[Suad]\nEntonces, en resumen, ¿hemos sido juguete de la estratagema que urdió esa Illusion para hacerse con Fragmento del Corazón de Ymir?"
+    },
+    "M60NDQ": {
+        "en-US": "[Elly]\nThat is the summary of it.\nYou are quick to understand. Your brain is most excellent.",
+        "pt-BR": "[Elly]\nResumindo, foi isso.\nVocê compreende rápido. Deve ter um cérebro excelente.",
+        "es-ES": "[Elly]\nResumiéndolo, sí.\nQué comprensión tan rápida; sin duda es usted una persona de gran talento cerebral."
+    },
+    "NK0NDQ": {
+        "en-US": "[Suad]\nI understand well enough that Lord Yus was manipulated by Illusion, tried to summon the goddess, and brought about his own ruin.\nThen where did that Illusion? That one called Bagot and the heart go?",
+        "pt-BR": "[Suad]\nEntendi muito bem que o Sr. Yus foi manipulado por Ilusión, tentou invocar a deusa e acabou se destruindo.\nEntão essa Ilusión? Esse tal de Bagot e o coração, para onde foram?",
+        "es-ES": "[Suad]\nHe entendido perfectamente que el señor Yus cayó en las garras de Illusion, intentó invocar a la diosa y acabó destruyéndose a sí mismo.\nEntonces, ¿adónde fueron esa Illusion? ¿Ese tal Bagot y el corazón?"
+    },
+    "Na0NDQ": {
+        "en-US": "[Suad]\nAbove all .... I cannot endure the fact that we suffered in the end because of a scheme for personal power, dressed up as the will of the gods and all that nonsense.",
+        "pt-BR": "[Suad]\nAcima de tudo, eu.... não consigo suportar o fato de que, no fim das contas, nós sofremos por uma intriga voltada ao poder pessoal, tudo isso sob o pretexto da vontade divina.",
+        "es-ES": "[Suad]\nSobre todo.... no puedo soportar el hecho de que al final nosotros hayamos sufrido por una intriga nacida únicamente para satisfacer el poder personal de alguien, disfrazada de voluntad divina y demás."
+    },
+    "Nq0NDQ": {
+        "en-US": "[Miriam]\nSuad.\nI feel the same. All of us do.\nMore than anything, what weighs most on me is that I was right there beside him and still failed to notice....",
+        "pt-BR": "[Miriam]\nSuad.\nEu também. Todos nós devemos nos sentir assim.\nAcima de tudo, o que mais me dói é o fato de eu estar tão perto e ainda assim não ter percebido....",
+        "es-ES": "[Miriam]\nSuad.\nYo también. Creo que todos nos sentimos igual.\nY yo, sobre todo, no puedo soportar haber estado tan cerca y aun así no haberme dado cuenta...."
+    },
+    "N60NDQ": {
+        "en-US": "[Maram]\nMother. What should we do from here?",
+        "pt-BR": "[Maram]\nMãe. O que devemos fazer daqui para frente?",
+        "es-ES": "[Maram]\nMadre. ¿Qué deberíamos hacer a partir de ahora?"
+    },
+    "OK0NDQ": {
+        "en-US": "[Elly]\nForm a council.\nFrom what this Elly has observed, this nation lacks communication.\nIf natives and migrants do not speak to one another, how can they know what the other wants?",
+        "pt-BR": "[Elly]\nFormem um conselho.\nPelo que esta Elly observa, falta diálogo neste país.\nSe nativos e imigrantes não conversam entre si, como vão saber o que o outro deseja?",
+        "es-ES": "[Elly]\nConstituyan una asamblea.\nA ojos de esta Elly, en este país falta comunicación.\nSi indígenas e inmigrantes no hablan entre sí, ¿cómo van a saber lo que desea el otro?"
+    },
+    "Oa0NDQ": {
+        "en-US": "[Elly]\nGive the natives status and power. Guarantee it by law.\nIt is difficult, yet simple. All you need to do is guarantee it.",
+        "pt-BR": "[Elly]\nDeem posição e poder aos nativos. Garantam isso por lei.\nÉ difícil, mas simples. Basta que vocês mesmos o garantam.",
+        "es-ES": "[Elly]\nDen estatus y poder a los indígenas. Garanticen eso por ley.\nEs difícil, pero también sencillo. Solo tienen que garantizarlo ustedes."
+    },
+    "Oq0NDQ": {
+        "en-US": "[Niren]\nI see. So rather than merely waiting for the words of the gods and forcing them upon others, we must also learn to listen to the words of the people.\nSomething so fundamental....",
+        "pt-BR": "[Niren]\nEntendo. Quer dizer que, em vez de apenas esperar e impor a palavra divina, também precisamos saber ouvir o que as pessoas têm a dizer.\nAlgo tão fundamental....",
+        "es-ES": "[Niren]\nYa veo. Quiere decir que, en lugar de esperar solo la palabra de los dioses e imponerla, también debemos saber escuchar la voz de la gente.\nAlgo tan fundamental...."
+    },
+    "O60NDQ": {
+        "en-US": "[Maram]\nBut the established privileged class will not stay still.\nThere may be resistance and unrest even worse than now.",
+        "pt-BR": "[Maram]\nMas a camada básica dos privilegiados não vai ficar parada.\nPode haver uma resistência e uma agitação ainda piores do que agora.",
+        "es-ES": "[Maram]\nPero las capas privilegiadas de siempre no se quedarán quietas.\nPodría haber una resistencia y unos disturbios aún mayores que ahora."
+    },
+    "PK0NDQ": {
+        "en-US": "[Suad]\nHa, but that does not mean we can just continue as we are, does it?",
+        "pt-BR": "[Suad]\nHa, mas também não podemos continuar assim para sempre, podemos?",
+        "es-ES": "[Suad]\nJa, pero tampoco podemos seguir así para siempre, ¿no?"
+    },
+    "Pa0NDQ": {
+        "en-US": "[Miriam]\nThat is right. Reform is necessary.\nWe cannot keep shouting at walls and hiding in the forest forever.",
+        "pt-BR": "[Miriam]\nIsso mesmo. É necessária uma reforma.\nNão podemos continuar gritando para uma parede e escondendo nossos corpos na floresta para sempre.",
+        "es-ES": "[Miriam]\nEs verdad. Hace falta una reforma.\nNo podemos pasarnos la vida gritándole a un muro y escondiéndonos en el bosque."
+    },
+    "Pq0NDQ": {
+        "en-US": "[Elly]\nHumans. Do not worry.\nTime is always on our side.\nYour role is simply to place weight on the opposite side to balance the scales of power. Nothing more.",
+        "pt-BR": "[Elly]\nHumanos. Não se preocupem.\nO tempo está sempre do nosso lado.\nO papel de vocês é apenas pôr força no lado oposto para equilibrar o peso do poder. Apenas isso.",
+        "es-ES": "[Elly]\nHumanos. No se preocupen.\nEl tiempo siempre está de nuestro lado.\nSu papel solo consiste en poner fuerza en el lado opuesto para equilibrar la balanza del poder. Solo eso."
+    },
+    "P60NDQ": {
+        "en-US": "[Elly]\nThe rest will be handled by time and human adaptability.",
+        "pt-BR": "[Elly]\nO resto será resolvido pelo tempo e pela capacidade de adaptação dos humanos.",
+        "es-ES": "[Elly]\nDel resto se encargan el tiempo y la capacidad humana de adaptarse."
+    },
+    "QK0NDQ": {
+        "en-US": "[Niren]\nTo think we would receive such a great lesson from a guest from another land.\nVery well. I shall see that this matter is formally put forward as an agenda item.",
+        "pt-BR": "[Niren]\nEstamos recebendo um grande ensinamento de um visitante de terras estrangeiras.\nEntendido. Vamos levar isso como uma pauta oficial e prosseguir.",
+        "es-ES": "[Niren]\nEstamos recibiendo una gran enseñanza de una visitante forastera.\nEntendido. Haré que este asunto se presente formalmente como una propuesta oficial."
+    },
+    "Qa0NDQ": {
+        "en-US": "[Niren]\nI believe High Priest Zed would be of great help.\nYou should decide on representatives of the natives.",
+        "pt-BR": "[Niren]\nProvavelmente o Sumo Sacerdote Zed será de grande ajuda.\nVocês devem definir os representantes dos nativos.",
+        "es-ES": "[Niren]\nQuizá el gran sacerdote Zed pueda ser de gran ayuda.\nUstedes deben elegir a un representante de los indígenas."
+    },
+    "Qq0NDQ": {
+        "en-US": "[Miriam]\nWe have Suad, Priest.\nAnd there are Maram and myself. Is this not exactly why we exist today?",
+        "pt-BR": "[Miriam]\nHá Suad, Sacerdote.\nE também estamos eu e Maram. Não é para este dia que nós existimos?",
+        "es-ES": "[Miriam]\nEstá Suad, reverendo.\nY además estamos Maram y yo. ¿Acaso no existimos precisamente para este día?"
+    },
+    "Q60NDQ": {
+        "en-US": "[Maram]\nIt is time for the Gray Children to do their proper work.\nIt seems Mother adopted me for the sake of this very day.",
+        "pt-BR": "[Maram]\nChegou a vez dos Filhos Cinzentos fazerem o seu trabalho direito.\nParece que minha mãe me adotou justamente para este dia.",
+        "es-ES": "[Maram]\nHa llegado el momento de que Niños grises haga bien su trabajo.\nParece que el hecho de que madre me adoptara fue para este día."
+    },
+    "RK0NDQ": {
+        "en-US": "[Suad]\nDo not worry about this side, just prepare a proper stage for us.",
+        "pt-BR": "[Suad]\nNão se preocupem conosco, apenas preparem um palco adequado.",
+        "es-ES": "[Suad]\nNo os preocupéis por este lado y preparadnos un marco adecuado."
+    },
+    "Ra0NDQ": {
+        "en-US": "[Niren]\nThank you. You have grown well....",
+        "pt-BR": "[Niren]\nObrigada. Você cresceu bem....",
+        "es-ES": "[Niren]\nGracias. Has crecido muy bien...."
+    },
+    "Rq0NDQ": {
+        "en-US": "[Elly]\nGood. In truth, the affairs of this nation are none of my concern, but it seems to have been resolved well enough.\nNow I shall return to Story of Illusion.",
+        "pt-BR": "[Elly]\nÓtimo. Na verdade, a situação deste país não me diz respeito, mas parece que tudo foi bem resolvido.\nAgora voltarei para a História da Ilusión.",
+        "es-ES": "[Elly]\nMuy bien. En realidad, la situación de este país no es asunto mío, pero parece que se ha resuelto bastante bien.\nAhora volveré a Historia de Illusion."
+    },
+    "R60NDQ": {
+        "en-US": "[Maram]\nRight. So Bagot took the Fragment of Ymir’s Heart and went somewhere?\nAnd you, Adventurer, will set out to find the heart.",
+        "pt-BR": "[Maram]\nCerto. Então Bagot foi embora para algum lugar com o Fragmento do Coração de Ymir, não é?\nE o aventureiro partirá em busca do coração.",
+        "es-ES": "[Maram]\nSí. Entonces Bagot se fue a algún lugar llevándose Fragmento del Corazón de Ymir, ¿verdad?\nY usted, trotamundos, partirá a buscar el corazón."
+    },
+    "SK0NDQ": {
+        "en-US": "We need to learn Bagot's whereabouts.",
+        "pt-BR": "É preciso descobrir o paradeiro de Bagot.",
+        "es-ES": "Hay que averiguar el paradero de Bagot."
+    },
+    "Sa0NDQ": {
+        "en-US": "[Miriam]\nIt seems Bagot headed to the northern continent.\nApparently there was a time when he spoke with Father about Jormungand.",
+        "pt-BR": "[Miriam]\nTudo indica que Bagot seguiu para o continente do norte.\nDizem que, em algum momento, ele já conversou com meu pai sobre Jormungand.",
+        "es-ES": "[Miriam]\nPor lo visto, Bagot se dirigió al continente del norte.\nDicen que en cierta ocasión habló con mi padre sobre Jormungand."
+    },
+    "Sq0NDQ": {
+        "en-US": "[Elly]\nThe north?\nDo you mean the region beyond the barrier where Jormungand is sealed?",
+        "pt-BR": "[Elly]\nNorte?\nEstá falando da região além da barreira, onde Jormungand foi selado?",
+        "es-ES": "[Elly]\n¿Al norte?\n¿Se refiere a la región más allá de la barrera, donde Jormungand está sellado?"
+    },
+    "S60NDQ": {
+        "en-US": "[Miriam]\nReally? Jormungand is sealed there? That would certainly interest Bagot.\nIt is said that Bagot was interested in reviving a god.",
+        "pt-BR": "[Miriam]\nÉ verdade? Então Jormungand está selado. Algo assim certamente despertaria o interesse de Bagot.\nDizem que Bagot tinha interesse em ressuscitar um deus.",
+        "es-ES": "[Miriam]\n¿De verdad? Así que Jormungand está sellado. Es normal que despertara el interés de Bagot.\nDicen que Bagot estaba interesado en resucitar a un dios."
+    },
+    "TK0NDQ": {
+        "en-US": "[Miriam]\nAt first, it seems he promised the descent of a false god in order to steal away the Fragment of Ymir’s Heart....\nNo one knows what he will do with the heart of Ymir now that he has it.",
+        "pt-BR": "[Miriam]\nNo começo, parece que ele prometeu uma falsa aparição divina para desviar Fragmento do Coração de Ymir, mas....\nNinguém sabe o que ele pretende fazer com o coração de Ymir que conseguiu pôr nas mãos.",
+        "es-ES": "[Miriam]\nAl principio parece que prometió la falsa aparición de un dios para robar Fragmento del Corazón de Ymir, pero....\nnadie sabe qué pretende hacer con el corazón de Ymir que ha conseguido."
+    },
+    "Ta0NDQ": {
+        "en-US": "[Miriam]\nHowever, it seems one of Bagot's companions has already moved to the northern continent.",
+        "pt-BR": "[Miriam]\nMas parece que um companheiro de Bagot já se deslocou para o continente do norte.",
+        "es-ES": "[Miriam]\nLo que sí parece es que algunos compañeros de Bagot ya se han desplazado al continente del norte."
+    },
+    "Tq0NDQ": {
+        "en-US": "[Maram]\nJormungand really exists?",
+        "pt-BR": "[Maram]\nJormungand existe de verdade?",
+        "es-ES": "[Maram]\n¿Jormungand existe de verdad?"
+    },
+    "T60NDQ": {
+        "en-US": "[Niren]\nThe Order of Jormungand truly did exist.\nThe heroes who gained the upper hand in the battle against the order became the origin of the Rune-Midgarts Kingdom.",
+        "pt-BR": "[Niren]\nA seita de Jormungand existiu, sim.\nForam os heróis que obtiveram a vantagem na luta contra a seita aqueles que se tornaram o início do Reino de Rune-Midgarts.",
+        "es-ES": "[Niren]\nLa Orden de Jormungand existió realmente.\nLos héroes que lograron imponerse en la lucha contra la Orden fueron el origen del Reino de Rune-Midgarts."
+    },
+    "UK0NDQ": {
+        "en-US": "[Niren]\nAt the time, they fought in Odin's name, while we fought in Lady Freya's name.\nIt was certainly Lady Freya who carried out the will for humankind.",
+        "pt-BR": "[Niren]\nNaquela época, eles lutaram em nome de Odin, e nós, em nome de Lady Freya.\nFoi claramente Lady Freya quem levou adiante uma vontade em favor da humanidade.",
+        "es-ES": "[Niren]\nEn aquel entonces, ellos lucharon en nombre de Odín y nosotros en nombre de la señora Freya.\nSin duda, quien desplegó una voluntad en favor de la humanidad fue la señora Freya."
+    },
+    "Ua0NDQ": {
+        "en-US": "[Niren]\nHowever, the family of the hero who won the war against the order founded the nation in Odin's name.\nBecause of that, there is also a story that Jormungand placed a curse on the victorious hero and first king.",
+        "pt-BR": "[Niren]\nMas a família do herói que venceu a luta contra a seita fundou o país em nome de Odin.\nPor isso também existe a história de que Jormungand lançou uma maldição sobre o herói vitorioso e primeiro rei.",
+        "es-ES": "[Niren]\nPero la familia del héroe que venció en la guerra contra la Orden fundó el país en nombre de Odín.\nPor eso también se dice que Jormungand maldijo al héroe victorioso y primer rey."
+    },
+    "Uq0NDQ": {
+        "en-US": "[Maram]\nI have never heard that story before.\nA curse...?",
+        "pt-BR": "[Maram]\nÉ a primeira vez que ouço essa história.\nMaldição....?",
+        "es-ES": "[Maram]\n¿Es la primera vez que oigo esa historia?\n¿Una maldición...?"
+    },
+    "U60NDQ": {
+        "en-US": "The curse is not important.",
+        "pt-BR": "A maldição não é importante.",
+        "es-ES": "La maldición no es lo importante."
+    },
+    "VK0NDQ": {
+        "en-US": "[Niren]\nYes. The tale of the royal family's curse is not important right now.\nWhat matters is that the Order of Jormungand truly existed.",
+        "pt-BR": "[Niren]\nIsso mesmo. A história da maldição da família real não é importante agora.\nO importante é que a seita de Jormungand realmente existiu.",
+        "es-ES": "[Niren]\nAsí es. Ahora la historia de la maldición de la familia real no es lo importante.\nLo importante es que la Orden de Jormungand existió realmente."
+    },
+    "Va0NDQ": {
+        "en-US": "[Niren]\nThat also means the story that Jormungand, said to be sealed in the place called the northern continent, is real.",
+        "pt-BR": "[Niren]\nIsso também significa que a história de que Jormungand realmente existe, selado no lugar chamado continente do norte, pode ser verdade.",
+        "es-ES": "[Niren]\nY eso significa también que Jormungand, de quien se dice que está sellado en el llamado continente del norte, existe de verdad."
+    },
+    "Vq0NDQ": {
+        "en-US": "[Miriam]\nIf Bagot truly seeks to revive a god, then next he will be after Jormungand.",
+        "pt-BR": "[Miriam]\nSe Bagot realmente quer ressuscitar um deus, então agora ele vai mirar em Jormungand.",
+        "es-ES": "[Miriam]\nSi Bagot realmente quiere resucitar a un dios, entonces la próxima vez irá a por Jormungand."
+    },
+    "V60NDQ": {
+        "en-US": "[Niren]\nThat must be stopped.\nJormungand was a darkness upon the continent greater than even the thousand-year War of the Gods and Demons.\nWe must track down and stop the one called Bagot.",
+        "pt-BR": "[Niren]\nPrecisamos impedir isso.\nJormungand era uma escuridão continental ainda maior do que a Guerra dos Deuses e Demônios que durou mil anos.\nPrecisamos rastrear e deter esse tal de Bagot.",
+        "es-ES": "[Niren]\nEso hay que impedirlo a toda costa.\nJormungand fue una oscuridad continental aún mayor que la Guerra Sagrada y Demoníaca que duró mil años.\nHay que seguirle la pista a ese Bagot y detenerlo."
+    },
+    "WK0NDQ": {
+        "en-US": "[Elly]\nThe north is a sealed land. There is a barrier, so it cannot be crossed easily.",
+        "pt-BR": "[Elly]\nO norte é uma terra selada. Há uma barreira, então não é fácil atravessá-la.",
+        "es-ES": "[Elly]\nEl norte es una tierra sellada. Hay una barrera, así que no se puede cruzar fácilmente."
+    },
+    "Wa0NDQ": {
+        "en-US": "[Miriam]\nYou are saying we cannot cross because of the barrier?\nThen perhaps he used the Fragment of Ymir’s Heart to get beyond the barrier?",
+        "pt-BR": "[Miriam]\nVocê quer dizer que não dá para atravessar por causa da barreira?\nEntão será que ele usou Fragmento do Coração de Ymir para atravessar a barreira?",
+        "es-ES": "[Miriam]\n¿No se puede cruzar porque hay una barrera?\nEntonces, ¿habrán usado Fragmento del Corazón de Ymir para atravesarla?"
+    },
+    "Wq0NDQ": {
+        "en-US": "[Miriam]\nIf we are to pursue him, we must find a way to cross the barrier blocking the north.\nIt will take time.",
+        "pt-BR": "[Miriam]\nSe quisermos rastreá-lo, teremos que encontrar um meio de atravessar a barreira que bloqueia o norte.\nIsso vai levar tempo.",
+        "es-ES": "[Miriam]\nSi queremos seguir la pista de ese hombre, tendremos que encontrar una manera de cruzar la barrera que bloquea el norte.\nNos llevará tiempo."
+    },
+    "W60NDQ": {
+        "en-US": "[Elly]\nI will handle that.\nI will return to the mansion and search for a way to cross the barrier.",
+        "pt-BR": "[Elly]\nEu cuidarei disso.\nVoltarei à mansão e procurarei um meio de atravessar a barreira.",
+        "es-ES": "[Elly]\nDe eso me ocuparé yo.\nVolveré a la mansión y buscaré un método para atravesar la barrera."
+    },
+    "XK0NDQ": {
+        "en-US": "[Elly]\nAnd though this is hardly a boast, if Master's airship was used, would it not have found some way to cross such a barrier?\nIf they used the airship, we should be able to trace its trail.",
+        "pt-BR": "[Elly]\nE, sem querer me gabar, se ele usou o dirigível do Mestre, não acha que teria dado um jeito de atravessar uma simples barreira?\nSe usaram o dirigível, talvez possamos rastrear os vestígios.",
+        "es-ES": "[Elly]\nY, aunque no sea por presumir, si usaron el dirigible de mi amo, ¿no habrían encontrado alguna forma de pasar una simple barrera?\nSi usaron el dirigible, podremos seguirles el rastro."
+    },
+    "Xa0NDQ": {
+        "en-US": "[Elly]\nI must return to my main body as the airship administrator. I will give this shell to the Adventurer as a souvenir.\nI hope to see you again at the mansion.",
+        "pt-BR": "[Elly]\nAcho que preciso voltar ao corpo principal, o administrador do dirigível. Darei esta casca ao aventureiro como lembrança.\nNos vemos novamente na mansão.",
+        "es-ES": "[Elly]\nTendré que volver a mi cuerpo principal de administradora del dirigible. Esta carcasa se la dejaré al trotamundos como recuerdo.\nEspero verle de nuevo en la mansión."
+    },
+    "Xq0NDQ": {
+        "en-US": "[Miriam]\nThere is nothing we can do until more information is gathered.\nI will speak with Father a little more.\nThank you for your help.",
+        "pt-BR": "[Miriam]\nNão há nada que possamos fazer até que mais informações sejam reunidas.\nEu vou conversar mais com meu pai.\nObrigada por sua ajuda.",
+        "es-ES": "[Miriam]\nHasta que no se reúna más información, no hay nada que podamos hacer.\nYo hablaré un poco más con mi padre.\nGracias por su ayuda."
+    },
+    "X60NDQ": {
+        "en-US": "[Suad]\nThen I will return to Gray Wolf Forest.\nLady Niren. Please call for me again when the council is formed. Until then, I will prepare.",
+        "pt-BR": "[Suad]\nEntão eu voltarei para a Floresta do Lobo Cinzento.\nSra. Niren. Por favor, chame-me novamente quando o conselho for formado. Até lá, vou me preparar.",
+        "es-ES": "[Suad]\nEntonces yo volveré al Bosque del Lobo Gris.\nSeñora Niren. Cuando se constituya la asamblea, vuelva a llamarme. Hasta entonces me iré preparando."
+    },
+    "YK0NDQ": {
+        "en-US": "[Maram]\nThen shall I go hear more from Miriam and Elder Yus as well?\nI want to help find the Fragment of Ymir’s Heart.",
+        "pt-BR": "[Maram]\nEntão vou ouvir um pouco da história de Miriam e do ancião Yus junto com eles.\nQuero ajudar a encontrar Fragmento do Coração de Ymir.",
+        "es-ES": "[Maram]\nEntonces yo escucharé junto a Miriam la historia del anciano Yus.\nQuiero ayudar a encontrar Fragmento del Corazón de Ymir."
+    },
+    "Ya0NDQ": {
+        "en-US": "[Niren]\nThen I must go now to meet High Priest Zed.\nAdventurer, I am indebted to you once again.",
+        "pt-BR": "[Niren]\nEntão eu preciso ir encontrar o Sumo Sacerdote Zed.\nAventureiro. Mais uma vez ficamos em dívida com você.",
+        "es-ES": "[Niren]\nEntonces yo iré ahora mismo a ver al gran sacerdote Zed.\nTrotamundos. Esta vez también le he quedado en deuda."
+    },
+    "Yq0NDQ": {
+        "en-US": "[Niren]\nPrayer is always offered toward the gods\nso that it may embrace those who pray....\nToward what, then, did Yus offer his prayers?",
+        "pt-BR": "[Niren]\nAs orações sempre são dirigidas aos deuses\npara que possam acolher aqueles que suplicam....\nMas a quem será que aquele Yus dirigia suas orações?",
+        "es-ES": "[Niren]\nLas plegarias siempre se elevan hacia los dioses\npara abrazar a quien suplica....\n¿Hacia qué elevaba sus plegarias ese Yus?"
+    },
+    "Y60NDQ": {
+        "en-US": "[Niren]\nAt the end of those prayers lies only the abyss.\n....",
+        "pt-BR": "[Niren]\nNo fim dessa oração, não há nada além do abismo.\n....",
+        "es-ES": "[Niren]\nSi al final de esas plegarias no había más que abismo.\n...."
+    },
+    "ZK0NDQ": {
+        "en-US": "Member {1} of party {0} enters {2}.",
+        "pt-BR": "{1} do grupo {0} entrou em {2}.",
+        "es-ES": "{1} del grupo {0} ha entrado a {2}."
+    }
+}

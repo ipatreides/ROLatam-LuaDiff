@@ -1,852 +1,710 @@
 {
     "YMn2DA": {
-        "ko-KR": "전직 요원",
         "en-US": "Former Agent",
         "pt-BR": "Oficial de Classe",
         "es-ES": "Antiguo Agente"
     },
     "Ycn2DA": {
-        "ko-KR": "<부스터 프로모션>",
         "en-US": "<Booster Promotion>",
         "pt-BR": "<Evento de Apoio>",
         "es-ES": "<Evento de Apoyo>"
     },
     "Ysn2DA": {
-        "ko-KR": "거기 지나가는 초보 모험가분? 잠깐 저 좀 보시겠습니까?",
         "en-US": "Hey there, passing novice adventurer? Got a moment to look over here?",
         "pt-BR": "Ei, iniciante, fale comigo!",
         "es-ES": "¡Oye, principiante, háblame!"
     },
     "Y8n2DA": {
-        "ko-KR": "[전직 요원]\n혹시 나한테 볼 일이 있어? 그치만 미안. 나, 조금 낯을 가리는 성격이라. 낯선 사람하고는 말 안하거든.",
         "en-US": "[Former Agent]\nYou have business with me? Sorry though, I'm a bit shy. I don't talk with strangers.",
         "pt-BR": "[Oficial de Classe]\nVocê tem negócios comigo? Desculpe, sou meio tímido. Não falo com estranhos.",
         "es-ES": "[Antiguo Agente]\n¿Tienes algún asunto conmigo? Lo siento, soy un poco tímido. No hablo con extraños."
     },
     "ZMn2DA": {
-        "ko-KR": "소지하고 계신 아이템의 수량이 많아 대화를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
         "en-US": "You cannot proceed with the conversation as you possess too many items.\nPlease organize your inventory and try again.",
         "pt-BR": "Você não pode prosseguir com a conversa, pois possui muitos itens.\nPor favor, organize seu inventário e tente novamente.",
         "es-ES": "No puedes continuar la conversación porque tienes demasiados objetos.\nPor favor, organiza tu inventario e inténtalo de nuevo."
     },
     "Zcn2DA": {
-        "ko-KR": "[전직 요원]\n이제 막 모험을 시작한 초보 모험가로군요. 직업, 필요하지 않으십니까?",
         "en-US": "[Former Agent]\nAh, a novice adventurer just starting your journey. Could you use a job change?",
         "pt-BR": "[Oficial de Classe]\nAh, você está começando sua jornada. Não precisa de uma mudança de classe?",
         "es-ES": "[Antiguo Agente]\nAh, ¿estás comenzando tu viaje? ¿No necesitas un cambio de clase?"
     },
     "Zsn2DA": {
-        "ko-KR": "안 사고, 안 믿고, 바빠요.",
         "en-US": "Not buying, not interested, busy.",
         "pt-BR": "Quero nada não, valeu.",
         "es-ES": "No quiero nada, gracias."
     },
     "Z8n2DA": {
-        "ko-KR": "[전직 요원]\n판매원 아니고, 종교 권유도 아닙니다. 잠시만 시간 내주세요. 어차피 전직은 하셔야 하지 않습니까.",
         "en-US": "[Former Agent]\nI'm not a salesperson, nor am I here to preach. Please, just a moment of your time. You'll need to change jobs eventually, after all.",
         "pt-BR": "[Oficial de Classe]\nNão vou te vender nada! Por favor, só um momento do seu tempo. Afinal, você vai precisar mudar de classe uma hora.",
         "es-ES": "[Antiguo Agente]\n¡No te voy a vender nada! Por favor, solo un momento de tu tiempo. Después de todo, vas a necesitar cambiar de clase alguna vez."
     },
     "aMn2DA": {
-        "ko-KR": "[전직 요원]\n지금은 초보자들의 성장을 돕는 프로모션 기간이니까요. 전직에 필요한 최소한의 조건 확인만 하면 바로 전직시켜 드립니다.",
         "en-US": "[Former Agent]\nWe're currently running a promotion to help beginners grow. I can job change you immediately after verifying just the minimum requirements.",
         "pt-BR": "[Oficial de Classe]\nEstamos com uma promoção para ajudar iniciantes a crescer. Posso mudar sua classe imediatamente após verificar apenas os requisitos mínimos.",
         "es-ES": "[Antiguo Agente]\nTenemos una promoción para ayudar a los principiantes a crecer. Puedo cambiar tu clase inmediatamente después de verificar solo los requisitos mínimos."
     },
     "acn2DA": {
-        "ko-KR": "[전직 요원]\n어차피 ^0000CD저를 통하지 않고서는 각 직업 길드에서 전직을 못^000000하십니다. 지금 전직하시겠습니까?",
         "en-US": "[Former Agent]\n^0000CDYou cannot job change through the regular guilds without going through me^000000 anyway. Would you like to change jobs now?",
         "pt-BR": "[Oficial de Classe]\n^0000CDVocê não consegue mudar de classe pela Guilda^000000. Quer mudar de classe agora?",
         "es-ES": "[Antiguo Agente]\n^0000CDNo puedes cambiar de clase por el Gremio normalmente sin pasar por mí^000000. ¿Quieres cambiar de clase ahora?"
     },
     "asn2DA": {
-        "ko-KR": "[전직 요원]\n안녕하십니까? 숙련된 모험가가 되셨군요. 건승을 빕니다.",
         "en-US": "[Former Agent]\nGreetings. You've become a seasoned adventurer. I wish you continued success.",
         "pt-BR": "[Oficial de Classe]\nSaudações. Você se tornou experiente. Desejo-lhe sucesso contínuo.",
         "es-ES": "[Antiguo Agente]\nSaludos. Te has vuelto un aventurero experimentado. Te deseo éxito continuo."
     },
     "a8n2DA": {
-        "ko-KR": "[전직 요원]\n전직하러 오셨습니까?",
         "en-US": "[Former Agent]\nHere for a job change?",
         "pt-BR": "[Oficial de Classe]\nVeio para mudar de classe?",
         "es-ES": "[Antiguo Agente]\n¿Viniste para cambiar de clase?"
     },
     "bMn2DA": {
-        "ko-KR": "전직시켜 주세요.",
         "en-US": "Please change my job.",
         "pt-BR": "Por favor, mude minha classe.",
         "es-ES": "Por favor, cambia mi clase."
     },
     "bcn2DA": {
-        "ko-KR": "조건이 뭔데요...?",
         "en-US": "What are the conditions...?",
         "pt-BR": "Quais são as condições...?",
         "es-ES": "¿Cuáles son las condiciones...?"
     },
     "bsn2DA": {
-        "ko-KR": "노는 게 제일 좋아요.",
         "en-US": "I'd rather just play.",
         "pt-BR": "Prefiro essa classe atual.",
         "es-ES": "Prefiero seguir con mi clase actual."
     },
     "b8n2DA": {
-        "ko-KR": "[전직 요원]\n전직 안내가 필요하십니까? 제가 지원 가능한 범위의 전직 조건에 대해 안내하겠습니다.",
         "en-US": "[Former Agent]\nDo you need information on job changes? I can explain the conditions for job changes that I am authorized to handle.",
         "pt-BR": "[Oficial de Classe]\nPrecisa de informações sobre mudanças de classe? Posso explicar as condições para as mudanças de classe que estou autorizado a realizar.",
         "es-ES": "[Antiguo Agente]\n¿Necesitas información sobre cambios de clase? Puedo explicarte las condiciones para los cambios de clase que estoy autorizado a realizar."
     },
     "cMn2DA": {
-        "ko-KR": "괜찮습니다.",
         "en-US": "It's fine.",
         "pt-BR": "Tudo bem.",
         "es-ES": "Está bien."
     },
     "ccn2DA": {
-        "ko-KR": "1차 직업 전직 조건",
         "en-US": "First Class Job Change Conditions",
         "pt-BR": "Como virar Classe 1?",
         "es-ES": "¿Cómo cambiarse a Clase 1?"
     },
     "csn2DA": {
-        "ko-KR": "2차 직업 전직 조건",
         "en-US": "Second Class Job Change Conditions",
         "pt-BR": "Como virar Classe 2?",
         "es-ES": "¿Cómo cambiarse a Clase 2?"
     },
     "c8n2DA": {
-        "ko-KR": "3차 직업 전직 조건",
         "en-US": "Third Class Job Change Conditions",
         "pt-BR": "Como virar Classe 3?",
         "es-ES": "¿Cómo cambiarse a Clase 3?"
     },
     "dMn2DA": {
-        "ko-KR": "상위 확장 직업 전직 조건",
         "en-US": "Higher Expansion Job Change Conditions",
         "pt-BR": "Como virar Classe Expandida?",
         "es-ES": "¿Cómo cambiarse a Clase de Expansión?"
     },
     "dcn2DA": {
-        "ko-KR": "[전직 요원]\n도움은 필요 없습니까?",
         "en-US": "[Former Agent]\nNo help needed then?",
         "pt-BR": "[Oficial de Classe]\nNão precisa de ajuda então?",
         "es-ES": "[Antiguo Agente]\n¿Entonces no necesitas ayuda?"
     },
     "dsn2DA": {
-        "ko-KR": "[전직 요원]\n^0000CD1차 직업의 전직^000000 조건은 매우 간단합니다. ^0000CD직업 레벨이 10^000000이고 ^0000CD남아있는 스킬 포인트가 없^000000으면 됩니다.",
         "en-US": "[Former Agent]\nThe conditions for ^0000CDFirst Class job changes^000000 are very simple. ^0000CDJob Level 10^000000 and ^0000CDno remaining Skill Points^000000.",
         "pt-BR": "[Oficial de Classe]\nAs condições para mudança de ^0000CDclasse 1^000000 são muito simples. ^0000CDNível de Classe 10^000000 e ^0000CDnenhum Ponto de Habilidade restante^000000.",
         "es-ES": "[Antiguo Agente]\nLas condiciones para el cambio de ^0000CDClase 1^000000 son muy simples. ^0000CDNivel de Clase 10^000000 y ^0000CDningún Punto de Habilidad restante^000000."
     },
     "d8n2DA": {
-        "ko-KR": "[전직 요원]\n^0000CD2차 직업의 전직^000000 조건이 궁금하군요.\n2차 전직은 ^0000CD1차 직업^000000을 가진 분들을 대상으로 합니다.",
         "en-US": "[Former Agent]\nSo you're curious about ^0000CDSecond Class job change^000000 conditions.\nSecond Class changes are for those who have a ^0000CDFirst Class job^000000.",
         "pt-BR": "[Oficial de Classe]\nEntão, você tem curiosidade sobre as condições para mudança de ^0000CDClasse 2^000000.\nAs mudanças de Classe 2 são para aqueles que têm uma ^0000CDClasse 1^000000.",
         "es-ES": "[Antiguo Agente]\nEntonces tienes curiosidad sobre las condiciones para el cambio de ^0000CDClase 2^000000.\nLos cambios de Clase 2 son para aquellos que tienen una ^0000CDClase 1^000000."
     },
     "eMn2DA": {
-        "ko-KR": "[전직 요원]\n^0000CD직업 레벨은 50^000000이어야 하고 ^0000CD남아있는 스킬 포인트가 없^000000으면 전직할 수 있습니다.",
         "en-US": "[Former Agent]\nYou can job change once ^0000CDJob Level reaches 50^000000 and you have ^0000CDno remaining Skill Points^000000.",
         "pt-BR": "[Oficial de Classe]\nVocê pode mudar de classe quando ^0000CDo Nível de Classe chegar a 50^000000 e você tiver ^0000CDnenhum Ponto de Habilidade restante^000000.",
         "es-ES": "[Antiguo Agente]\nPuedes cambiar de clase cuando ^0000CDel Nivel de Clase llegue a 50^000000 y tengas ^0000CDningún Punto de Habilidad restante^000000."
     },
     "ecn2DA": {
-        "ko-KR": "[전직 요원]\n^0000CD3차 직업의 전직^000000조건이 궁금하군요.\n3차 전직은 ^0000CD2차 직업^000000을 가진 분들을 대상으로 합니다.",
         "en-US": "[Former Agent]\nSo you're curious about ^0000CDThird Class job change^000000 conditions.\nThird Class changes are for those who have a ^0000CDSecond Class job^000000.",
         "pt-BR": "[Oficial de Classe]\nEntão você tem curiosidade sobre as condições para mudança de ^0000CDClasse 3^000000.\nAs mudanças de Classe 3 são para aqueles que têm uma ^0000CDClasse 2^000000.",
         "es-ES": "[Antiguo Agente]\nEntonces tienes curiosidad sobre las condiciones para el cambio de ^0000CDClase 3^000000.\nLos cambios de Clase 3 son para aquellos que tienen una ^0000CDClase 2^000000."
     },
     "esn2DA": {
-        "ko-KR": "[전직 요원]\n^0000CD베이스 레벨 99^000000까지, 그리고 ^0000CD직업 레벨은 70^000000이어야 합니다. 당연히 ^0000CD남아있는 스킬 포인트는 없^000000어야 합니다.",
         "en-US": "[Former Agent]\nYou need ^0000CDBase Level 99^000000, and ^0000CDJob Level must be 70^000000. Naturally, you must have ^0000CDno remaining Skill Points^000000.",
         "pt-BR": "[Oficial de Classe]\nVocê precisa de ^0000CDNível Base 99^000000, e ^0000CDo Nível de Classe deve ser 70^000000. Naturalmente, você deve ter ^0000CDnenhum Ponto de Habilidade restante^000000.",
         "es-ES": "[Antiguo Agente]\nNecesitas ^0000CDNivel Base 99^000000, y ^0000CDel Nivel de Clase debe ser 70^000000. Naturalmente, debes tener ^0000CDningún Punto de Habilidad restante^000000."
     },
     "e8n2DA": {
-        "ko-KR": "[전직 요원]\n확장 직업군의 상위 직업 전직 조건이 궁금하시군요.\n확장 직업군은 현재의 직업에 따라 전직 조건이 조금씩 다릅니다.",
         "en-US": "[Former Agent]\nSo you're curious about the conditions for higher expansion jobs.\nThe conditions vary slightly depending on your current expansion job.",
         "pt-BR": "[Oficial de Classe]\nEntão você tem curiosidade sobre as condições para as Classes Expanidas.\nAs condições variam um pouco dependendo da sua Classe.",
         "es-ES": "[Antiguo Agente]\nEntonces tienes curiosidad sobre las condiciones para las Clases Expandidas.\nLas condiciones varían un poco dependiendo de tu Clase de Expansión actual."
     },
     "fMn2DA": {
-        "ko-KR": "[전직 요원]\n^0000CD먼저 태권은 직업 레벨이 50^000000이어야 전직이 가능합니다.\n^0000CD권성이나 소울리퍼는 베이스 레벨이 99, 직업 레벨이 50^000000이어야 전직이 가능하고요.",
         "en-US": "[Former Agent]\n^0000CDFirst, Taekwon can job change at Job Level 50^000000.\n^0000CDStar Gladiators or Soul Linkers need Base Level 99 and Job Level 50^000000.",
         "pt-BR": "[Oficial de Classe]\n^0000CDPrimeiro, Taekwon pode mudar de classe no Nível de Classe 50^000000.\n^0000CDMestres Taekwons ou Espiritualistas precisam de Nível Base 99 e Nível de Classe 50^000000.",
         "es-ES": "[Antiguo Agente]\n^0000CDPrimero, Taekwon puede cambiar de clase en el Nivel de Clase 50^000000.\n^0000CDMaestro de Taekwon o Vinculador de Almas necesitan Nivel Base 99 y Nivel de Clase 50^000000."
     },
     "fcn2DA": {
-        "ko-KR": "[전직 요원]\n^0000CD슈퍼노비스는 베이스 레벨 99, 직업 레벨 또한 99^000000여야 전직이 가능합니다.",
         "en-US": "[Former Agent]\n^0000CDSuper Novices need Base Level 99 and Job Level 99^000000 to change jobs.",
         "pt-BR": "[Oficial de Classe]\n^0000CDSuperaprendizes precisam de Nível Base 99 e Nível de Classe 99^000000 para mudar de classe.",
         "es-ES": "[Antiguo Agente]\n^0000CDSuperprincipiante necesita Nivel Base 99 y Nivel de Clase 99^000000 para cambiar de clase."
     },
     "fsn2DA": {
-        "ko-KR": "[전직 요원]\n^0000CD나머지 확장 직업군은 베이스 레벨 99, 직업 레벨이 70^000000이어야 전직이 가능합니다.",
         "en-US": "[Former Agent]\n^0000CDFor the other expansion jobs, you need Base Level 99 and Job Level 70^000000 to change jobs.",
         "pt-BR": "[Oficial de Classe]\n^0000CDPara as outras Classes Expandidas, você precisa de Nível Base 99 e Nível de Classe 70^000000 para mudar de classe.",
         "es-ES": "[Antiguo Agente]\n^0000CDPara las otras Clases Expandidas, necesitas Nivel Base 99 y Nivel de Clase 70^000000 para cambiar de clase."
     },
     "f8n2DA": {
-        "ko-KR": "[전직 요원]\n^0000CD공통사항으로 전직 시에 남아 있는 스킬 포인트가 없^000000어야 전직 가능합니다.",
         "en-US": "[Former Agent]\n^0000CDA common requirement is that you have no remaining Skill Points^000000 when changing jobs.",
         "pt-BR": "[Oficial de Classe]\n^0000CDUm requisito comum é que você não tenha Pontos de Habilidade restantes^000000 ao mudar de classe.",
         "es-ES": "[Antiguo Agente]\n^0000CDUn requisito común es que no tengas Puntos de Habilidad restantes^000000 al cambiar de clase."
     },
     "gMn2DA": {
-        "ko-KR": "[전직 요원]\n저도 사실 노는 것이 제일 좋습니다. 그 마음 충분히 이해 합니다만은... 잘 생각해 보고 필요하면 절 찾아 오십시오.",
         "en-US": "[Former Agent]\nTruth be told, I also prefer just playing. I completely understand the feeling... but think it over, and come find me if you need me.",
         "pt-BR": "[Oficial de Classe]\nPara ser sincero, eu também prefiro. Entendo completamente esse sentimento... mas pense bem, e me procure se precisar.",
         "es-ES": "[Antiguo Agente]\nPara ser sincero, yo también prefiero solo jugar. Entiendo completamente ese sentimiento... pero piénsalo bien, y búscame si me necesitas."
     },
     "gcn2DA": {
-        "ko-KR": "[전직 요원]\n그럼 전직을 시켜드리기 전에 몇 가지 확인해 보겠습니다.",
         "en-US": "[Former Agent]\nVery well, I will verify a few things before proceeding with the job change.",
         "pt-BR": "[Oficial de Classe]\nMuito bem, vou verificar algumas coisas antes de prosseguir com a mudança de classe.",
         "es-ES": "[Antiguo Agente]\nMuy bien, verificaré algunas cosas antes de proceder con el cambio de clase."
     },
     "gsn2DA": {
-        "ko-KR": "[전직 요원]\n흠... 전직을 하려면 먼저 탈것에서 내려오셔야 합니다.",
         "en-US": "[Former Agent]\nHmm... To change jobs, you'll first need to dismount from your vehicle.",
         "pt-BR": "[Oficial de Classe]\nHmm... Para mudar de classe, você primeiro precisará sair da sua montaria.",
         "es-ES": "[Antiguo Agente]\nHmm... Para cambiar de clase, primero tendrás que bajarte de tu montura."
     },
     "g8n2DA": {
-        "ko-KR": "[전직 요원]\n흠... 전직을 하려면 먼저 카트나 팔콘은 해제하는 것이 좋겠군요. 최대한 가벼운 차림이어야 하니까요.",
         "en-US": "[Former Agent]\nHmm... It would be best to dismiss your Cart or Falcon before changing jobs. You need to be as lightly equipped as possible.",
         "pt-BR": "[Oficial de Classe]\nHmm... Seria melhor dispensar seu Carrinho ou Ave de Rapina antes de mudar de classe. Você precisa estar sem nada anexado.",
         "es-ES": "[Antiguo Agente]\nHmm... Sería mejor que dispensaras tu Carro o Ave de Presa antes de cambiar de clase. Necesitas estar sin nada adjunto."
     },
     "hMn2DA": {
-        "ko-KR": "[전직 요원]\n흠... 도람, 그러니까 소환사군요. 아쉽지만 이번 초보자 지원 대상이 아닙니다. 다음에 좋은 기회로 뵐 수 있으면 좋겠군요.",
         "en-US": "[Former Agent]\nHmm... Doram, a Summoner, is it? Unfortunately, you're not eligible for this beginner support. I hope we can meet again on a better occasion.",
         "pt-BR": "[Oficial de Classe]\nHmm... Doram, é? Infelizmente, você não é elegível. Espero que possamos nos encontrar novamente em uma ocasião melhor.",
         "es-ES": "[Antiguo Agente]\nHmm... ¿Doram? Por desgracia, no eres elegible para este apoyo a principiantes. Espero que podamos encontrarnos de nuevo en una ocasión mejor."
     },
     "hcn2DA": {
-        "ko-KR": "[전직 요원]\n직업 레벨이 좀 모자라는군요. 1차 직업 전직 조건은 ^0000CD직업 레벨이 10^000000입니다. 조금 더 올리고 다시 오십시오.",
         "en-US": "[Former Agent]\nYour Job Level seems a bit low. The requirement for First Class job change is ^0000CDJob Level 10^000000. Raise it a bit more and come back.",
         "pt-BR": "[Oficial de Classe]\nSeu Nível de Classe está um pouco baixo. O requisito para mudança de classe Inicial é ^0000CDNível de Classe 10^000000. Aumente um pouco mais e volte.",
         "es-ES": "[Antiguo Agente]\nTu Nivel de Clase está un poco bajo. El requisito para el cambio de Clase Inicial es ^0000CDNivel de Clase 10^000000. Súbelo un poco más y vuelve."
     },
     "hsn2DA": {
-        "ko-KR": "[전직 요원]\n흠...직업 레벨을 10까지 올렸지만 ^0000CD기본 기능을 9까지 올리지 못^000000하셨군요. 기다리고 있을 테니 기본 기능을 다 올리고 오십시오.",
         "en-US": "[Former Agent]\nHmm... You've reached Job Level 10, but ^0000CDyou haven't maxed your Basic Skill to level 9^000000. I'll be waiting, so max out your Basic Skill and come back.",
         "pt-BR": "[Oficial de Classe]\nHmm... Você alcançou o Nível de Classe 10, mas ^0000CDnão maximizou suas Habilidades Básicas para o nível 9^000000. Estarei esperando, então maximize sua Habilidade Básica e volte.",
         "es-ES": "[Antiguo Agente]\nHmm... Has alcanzado el Nivel de Clase 10, pero ^0000CDno has maximizado tu Habilidad Básica al nivel 9^000000. Estaré esperando, así que maximiza tu Habilidad Básica y vuelve."
     },
     "h8n2DA": {
-        "ko-KR": "[전직 요원]\n좋습니다. 모든 조건이 완벽합니다. 지금 바로 전직하시겠습니까?",
         "en-US": "[Former Agent]\nGood. All conditions are perfect. Would you like to change jobs right now?",
         "pt-BR": "[Oficial de Classe]\nÓtimo. Todas as condições estão perfeitas. Gostaria de mudar de classe agora?",
         "es-ES": "[Antiguo Agente]\nBien. Todas las condiciones están perfectas. ¿Quieres cambiar de clase ahora?"
     },
     "iMn2DA": {
-        "ko-KR": "네.",
         "en-US": "Yes.",
         "pt-BR": "Sim.",
         "es-ES": "Sí."
     },
     "icn2DA": {
-        "ko-KR": "고민 좀...",
         "en-US": "I need to think about it...",
         "pt-BR": "Preciso pensar...",
         "es-ES": "Necesito pensarlo..."
     },
     "isn2DA": {
-        "ko-KR": "[전직 요원]\n신중하시군요. 조금 더 고민한 후에 다시 찾아 오십시오.",
         "en-US": "[Former Agent]\nHow prudent. Think it over a bit more, then come find me again.",
         "pt-BR": "[Oficial de Classe]\nComo é prudente. Pense mais um pouco e depois me procure novamente.",
         "es-ES": "[Antiguo Agente]\nQué prudente. Piensa un poco más y luego búscame de nuevo."
     },
     "i8n2DA": {
-        "ko-KR": "[전직 요원]\n초보 모험가분께서는 무슨 직업으로 전직하고 싶으신가요?",
         "en-US": "[Former Agent]\nSo, what job does this novice adventurer wish to change to?",
         "pt-BR": "[Oficial de Classe]\nEntão, para qual classe deseja mudar?",
         "es-ES": "[Antiguo Agente]\nEntonces, ¿a qué clase deseas cambiar?"
     },
     "jMn2DA": {
-        "ko-KR": "조금 더 고민해 볼게요.",
         "en-US": "I'll think about it a bit more.",
         "pt-BR": "Vou pensar mais um pouco.",
         "es-ES": "Lo pensaré un poco más."
     },
     "jcn2DA": {
-        "ko-KR": "검사",
         "en-US": "Swordsman",
         "pt-BR": "Espadachim",
         "es-ES": "Espadachín"
     },
     "jsn2DA": {
-        "ko-KR": "상인",
         "en-US": "Merchant",
         "pt-BR": "Mercador",
         "es-ES": "Comerciante"
     },
     "j8n2DA": {
-        "ko-KR": "도둑",
         "en-US": "Thief",
         "pt-BR": "Gatuno",
         "es-ES": "Ladrón"
     },
     "kMn2DA": {
-        "ko-KR": "마술사",
         "en-US": "Mage",
         "pt-BR": "Mago",
         "es-ES": "Mago"
     },
     "kcn2DA": {
-        "ko-KR": "복사",
         "en-US": "Acolyte",
         "pt-BR": "Noviço",
         "es-ES": "Acólito"
     },
     "ksn2DA": {
-        "ko-KR": "궁수",
         "en-US": "Archer",
         "pt-BR": "Arqueiro",
         "es-ES": "Arquero"
     },
     "k8n2DA": {
-        "ko-KR": "검사",
         "en-US": "Swordsman",
         "pt-BR": "Espadachim",
         "es-ES": "Espadachín"
     },
     "lMn2DA": {
-        "ko-KR": "상인",
         "en-US": "Merchant",
         "pt-BR": "Mercador",
         "es-ES": "Comerciante"
     },
     "lcn2DA": {
-        "ko-KR": "도둑",
         "en-US": "Thief",
         "pt-BR": "Gatuno",
         "es-ES": "Ladrón"
     },
     "lsn2DA": {
-        "ko-KR": "마술사",
         "en-US": "Mage",
         "pt-BR": "Mago",
         "es-ES": "Mago"
     },
     "l8n2DA": {
-        "ko-KR": "복사",
         "en-US": "Acolyte",
         "pt-BR": "Noviço",
         "es-ES": "Acólito"
     },
     "mMn2DA": {
-        "ko-KR": "궁수",
         "en-US": "Archer",
         "pt-BR": "Arqueiro",
         "es-ES": "Arquero"
     },
     "mcn2DA": {
-        "ko-KR": "[전직 요원]\n전직하려는 직업이 {0}. 맞습니까? 선택은 한 번 뿐이고 돌이킬 수 없으니 신중하게 결정하십시오.",
         "en-US": "[Former Agent]\nThe job you wish to change to is {0}. Is that correct? You only get one chance, and it cannot be undone, so decide carefully.",
         "pt-BR": "[Oficial de Classe]\nA classe para a qual deseja mudar é {0}. Está correto? Você só tem uma chance, e não pode ser desfeito, então decida com cuidado.",
         "es-ES": "[Antiguo Agente]\nLa clase a la que deseas cambiar es {0}. ¿Es correcto? Solo tienes una oportunidad y no se puede deshacer, así que decide con cuidado."
     },
     "msn2DA": {
-        "ko-KR": "조금 더 생각해보고 올게요.",
         "en-US": "I'll think about it some more and come back.",
         "pt-BR": "Vou pensar...",
         "es-ES": "Lo pensaré..."
     },
     "m8n2DA": {
-        "ko-KR": "맞으니 어서 전직시켜 주세요!",
         "en-US": "Yes, that's right, hurry and change my job!",
         "pt-BR": "Sim, mude minha classe!",
         "es-ES": "¡Sí, cambia mi clase!"
     },
     "nMn2DA": {
-        "ko-KR": "[전직 요원]\n요청하신대로 {0}, 전직 시켜드렸습니다.\n그럼, 2차 전직 시기가 오면 저에게 다시 찾아오십시오.",
         "en-US": "[Former Agent]\nAs you requested, I have changed your job to {0}.\nWell then, come find me again when it's time for your Second Class change.",
         "pt-BR": "[Oficial de Classe]\nConforme solicitado, mudei sua classe para {0}.\nBem, então, me procure novamente quando for a hora da sua mudança para Classe 2.",
         "es-ES": "[Antiguo Agente]\nComo solicitaste, he cambiado tu clase a {0}.\nBueno, entonces búscame de nuevo cuando sea el momento de tu cambio a Clase 2."
     },
     "ncn2DA": {
-        "ko-KR": "[전직 요원]\n직업 레벨이 좀 모자라는군요. 2차 직업 전직 조건은 ^0000CD직업 레벨이 50^000000입니다. 조금 더 올리고 다시 오십시오.",
         "en-US": "[Former Agent]\nYour Job Level seems a bit low. The requirement for Second Class job change is ^0000CDJob Level 50^000000. Raise it a bit more and come back.",
         "pt-BR": "[Oficial de Classe]\nSeu Nível de Classe está um pouco baixo. O requisito para mudança de Classe 2 é ^0000CDNível de Classe 50^000000. Aumente um pouco mais e volte.",
         "es-ES": "[Antiguo Agente]\nTu Nivel de Clase está un poco bajo. El requisito para el cambio de Clase 2 es ^0000CDNivel de Clase 50^000000. Súbelo un poco más y vuelve."
     },
     "nsn2DA": {
-        "ko-KR": "[전직 요원]\n흠...직업 레벨을 50까지 올렸지만 ^0000CD스킬 포인트가 남아^000000있군요. 기다리고 있을 테니 스킬 포인트를 모두 소모하고 오십시오.",
         "en-US": "[Former Agent]\nHmm... You've reached Job Level 50, but ^0000CDyou still have Skill Points left^000000. I'll be waiting, so use up all your Skill Points and come back.",
         "pt-BR": "[Oficial de Classe]\nHmm... Você alcançou o Nível de Classe 50, mas ^0000CDainda tem Pontos de Habilidade sobrando^000000. Estarei esperando, então use todos os seus Pontos de Habilidade e volte.",
         "es-ES": "[Antiguo Agente]\nHmm... Has alcanzado el Nivel de Clase 50, pero ^0000CDaún tienes Puntos de Habilidad restantes^000000. Estaré esperando, así que usa todos tus Puntos de Habilidad y vuelve."
     },
     "n8n2DA": {
-        "ko-KR": "[전직 요원]\n좋습니다. 2차 전직을 위한 모든 준비가 완벽합니다.",
         "en-US": "[Former Agent]\nGood. All your preparations for the Second Class change are perfect.",
         "pt-BR": "[Oficial de Classe]\nÓtimo. Todos os seus preparativos para a mudança para Classe 2 estão perfeitos.",
         "es-ES": "[Antiguo Agente]\nBien. Todos tus preparativos para el cambio a Clase 2 están perfectos."
     },
     "oMn2DA": {
-        "ko-KR": "[전직 요원]\n검사시군요? 검사라면 ^0000CD로드 나이트^000000나 ^EE0000팔라딘^000000으로 전직할 수 있는데 어떤 직업으로 전직하시겠습니까?",
         "en-US": "[Former Agent]\nAh, a Swordsman? As a Swordsman, you can change job to a ^0000CDLord Knight^000000 or a ^EE0000Paldin^000000. Which job would you like to change to?",
         "pt-BR": "[Oficial de Classe]\nAh, Espadachim? Como Espadachim, você pode mudar de classe para ^0000CDLorde^000000 ou ^EE0000Paladino^000000. Para qual classe gostaria de mudar?",
         "es-ES": "[Antiguo Agente]\nAh, ¿Espadachín? Como Espadachín, puedes cambiar de clase a ^0000CDLord Caballero^000000 o ^EE0000Paladín^000000. ¿A qué clase te gustaría cambiar?"
     },
     "ocn2DA": {
-        "ko-KR": "생각 좀 해보고요.",
         "en-US": "I need some time to think.",
         "pt-BR": "Preciso pensar...",
         "es-ES": "Necesito pensar..."
     },
     "osn2DA": {
-        "ko-KR": "로드 나이트로 전직할래요.",
         "en-US": "I want to change to Lord Knight.",
         "pt-BR": "Mudar para Lorde.",
         "es-ES": "Quiero cambiar a Lord Caballero."
     },
     "o8n2DA": {
-        "ko-KR": "팔라딘으로 전직할래요.",
         "en-US": "I want to change to Paladin.",
         "pt-BR": "Mudar para Paladino.",
         "es-ES": "Quiero cambiar a Paladín."
     },
     "pMn2DA": {
-        "ko-KR": "로드 나이트가",
         "en-US": "Lord Knight",
         "pt-BR": "Lorde",
         "es-ES": "Lord Caballero"
     },
     "pcn2DA": {
-        "ko-KR": "팔라딘이",
         "en-US": "Paladin",
         "pt-BR": "Paladino",
         "es-ES": "Paladín"
     },
     "psn2DA": {
-        "ko-KR": "[전직 요원]\n자, 이제 {0} 되셨습니다. 모험을 즐기다가 3차 직업으로 전직하실 때 즈음에 절 다시 찾아 오십시오.",
         "en-US": "[Former Agent]\nThere, you are now a {0}. Enjoy your adventures, and come find me again when it's about time for your Third Class job change.",
         "pt-BR": "[Oficial de Classe]\nConforme solicitado, mudei sua classe para {0}. Aproveite suas aventuras e me procure novamente quando estiver perto da hora da sua mudança para Classe 3.",
         "es-ES": "[Antiguo Agente]\nComo solicitaste, he cambiado tu clase a {0}. Disfruta tus aventuras y búscame de nuevo cuando esté cerca el momento de tu cambio a Clase 3."
     },
     "p8n2DA": {
-        "ko-KR": "[전직 요원]\n상인이시군요? 상인이라면 ^0000CD화이트스미스^000000나 ^EE0000크리에이터^000000로 전직할 수 있는데 어떤 직업으로 전직하시겠습니까?",
         "en-US": "[Former Agent]\nAh, a Merchant? As a Merchant, you can change job to a ^0000CDWhitesmith^000000 or a ^EE0000Creator^000000. Which job would you like to change to?",
         "pt-BR": "[Oficial de Classe]\nAh, Mercador? Como Mercador, você pode mudar de classe para ^0000CDMestre-Ferreiro^000000 ou ^EE0000Criador^000000. Para qual classe gostaria de mudar?",
         "es-ES": "[Antiguo Agente]\nAh, ¿Comerciante? Como Comerciante, puedes cambiar de clase a ^0000CDMaestro Herrero^000000 o ^EE0000Bioquímico^000000. ¿A qué clase te gustaría cambiar?"
     },
     "qMn2DA": {
-        "ko-KR": "잠깐 고민좀요.",
         "en-US": "Just a moment to think.",
         "pt-BR": "Preciso pensar...",
         "es-ES": "Necesito pensar..."
     },
     "qcn2DA": {
-        "ko-KR": "화이트스미스로 전직할래요.",
         "en-US": "I want to change to Whitesmith.",
         "pt-BR": "Mudar para Mestre-Ferreiro.",
         "es-ES": "Quiero cambiar a Maestro Herrero."
     },
     "qsn2DA": {
-        "ko-KR": "크리에이터로 전직할래요.",
         "en-US": "I want to change to Creator.",
         "pt-BR": "Mudar para Criador.",
         "es-ES": "Quiero cambiar a Bioquímico."
     },
     "q8n2DA": {
-        "ko-KR": "화이트스미스가",
         "en-US": "Whitesmith",
         "pt-BR": "Mestre-Ferreiro",
         "es-ES": "Maestro Herrero"
     },
     "rMn2DA": {
-        "ko-KR": "크리에이터가",
         "en-US": "Creator",
         "pt-BR": "Criador",
         "es-ES": "Bioquímico"
     },
     "rcn2DA": {
-        "ko-KR": "[전직 요원]\n도둑이시군요? 도둑이라면 ^0000CD어쌔신크로스^000000나 ^EE0000스토커^000000로 전직할 수 있는데 어떤 직업으로 전직하시겠습니까?",
         "en-US": "[Former Agent]\nAh, a Thief? As a Thief, you can change job to an ^0000CDAssassin Cross^000000 or a ^EE0000Stalker^000000. Which job would you like to change to?",
         "pt-BR": "[Oficial de Classe]\nAh, Gatuno? Como Gatuno, você pode mudar de classe para ^0000CDAlgoz^000000 ou ^EE0000Desordeiro^000000. Para qual classe gostaria de mudar?",
         "es-ES": "[Antiguo Agente]\nAh, ¿Ladrón? Como Ladrón, puedes cambiar de clase a ^0000CDAsesino Cruzado^000000 o ^EE0000Perseguidor^000000. ¿A qué clase te gustaría cambiar?"
     },
     "rsn2DA": {
-        "ko-KR": "어쌔신크로스로 전직할래요.",
         "en-US": "I want to change to Assassin Cross.",
         "pt-BR": "Mudar para Algoz.",
         "es-ES": "Quiero cambiar a Asesino Cruzado."
     },
     "r8n2DA": {
-        "ko-KR": "스토커로 전직할래요.",
         "en-US": "I want to change to Stalker.",
         "pt-BR": "Mudar para Desordeiro.",
         "es-ES": "Quiero cambiar a Perseguidor."
     },
     "sMn2DA": {
-        "ko-KR": "어쌔신크로스가",
         "en-US": "Assassin Cross",
         "pt-BR": "Algoz",
         "es-ES": "Asesino Cruzado"
     },
     "scn2DA": {
-        "ko-KR": "스토커가",
         "en-US": "Stalker",
         "pt-BR": "Desordeiro",
         "es-ES": "Perseguidor"
     },
     "ssn2DA": {
-        "ko-KR": "[전직 요원]\n마술사시군요? 마술사라면 ^0000CD하이위자드^000000나 ^EE0000프로페서^000000로 전직할 수 있는데 어떤 직업으로 전직하시겠습니까?",
         "en-US": "[Former Agent]\nAh, a Mage? As a Mage, you can change job to a ^0000CDHigh Wizard^000000 or a ^EE0000Professor^000000. Which job would you like to change to?",
         "pt-BR": "[Oficial de Classe]\nAh, Mago? Como Mago, você pode mudar de classe para ^0000CDArquimago^000000 ou ^EE0000Professor^000000. Para qual classe gostaria de mudar?",
         "es-ES": "[Antiguo Agente]\nAh, ¿Mago? Como Mago, puedes cambiar de clase a ^0000CDGran Hechicero^000000 o ^EE0000Erudito^000000. ¿A qué clase te gustaría cambiar?"
     },
     "s8n2DA": {
-        "ko-KR": "하이위자드로 전직할래요.",
         "en-US": "I want to change to High Wizard.",
         "pt-BR": "Mudar para Arquimago.",
         "es-ES": "Quiero cambiar a Gran Hechicero."
     },
     "tMn2DA": {
-        "ko-KR": "프로페서로 전직할래요.",
         "en-US": "I want to change to Professor.",
         "pt-BR": "Mudar para Professor.",
         "es-ES": "Quiero cambiar a Erudito."
     },
     "tcn2DA": {
-        "ko-KR": "하이위자드",
         "en-US": "High Wizard",
         "pt-BR": "Arquimago",
         "es-ES": "Gran Hechicero"
     },
     "tsn2DA": {
-        "ko-KR": "프로페서",
         "en-US": "Professor",
         "pt-BR": "Professor",
         "es-ES": "Erudito"
     },
     "t8n2DA": {
-        "ko-KR": "[전직 요원]\n자, 이제 {0}가 되셨습니다. 모험을 즐기다가 3차 직업으로 전직하실 때 즈음에 절 다시 찾아 오십시오.",
         "en-US": "[Former Agent]\nThere, you are now a {0}. Enjoy your adventures, and come find me again when it's about time for your Third Class job change.",
         "pt-BR": "[Oficial de Classe]\nConforme solicitado, mudei sua classe para {0}. Aproveite suas aventuras e me procure novamente quando estiver perto da hora da sua mudança para Classe 3.",
         "es-ES": "[Antiguo Agente]\nComo solicitaste, he cambiado tu clase a {0}. Disfruta tus aventuras y búscame de nuevo cuando esté cerca el momento de tu cambio a Clase 3."
     },
     "uMn2DA": {
-        "ko-KR": "[전직 요원]\n복사시군요? 복사라면 ^0000CD하이프리스트^000000나 ^EE0000챔피언^000000으로 전직할 수 있는데 어떤 직업으로 전직하시겠습니까?",
         "en-US": "[Former Agent]\nAh, an Acolyte? As an Acolyte, you can change job to a ^0000CDHigh Priest^000000 or a ^EE0000Champion^000000. Which job would you like to change to?",
         "pt-BR": "[Oficial de Classe]\nAh, Noviço? Como Noviço, você pode mudar de classe para ^0000CDSumo Sacerdote^000000 ou ^EE0000Mestre^000000. Para qual classe gostaria de mudar?",
         "es-ES": "[Antiguo Agente]\nAh, ¿Acólito? Como Acólito, puedes cambiar de clase a ^0000CDSumo Sacerdote^000000 o ^EE0000Campeón^000000. ¿A qué clase te gustaría cambiar?"
     },
     "ucn2DA": {
-        "ko-KR": "하이프리스트로 전직할래요.",
         "en-US": "I want to change to High Priest.",
         "pt-BR": "Mudar para Sumo Sacerdote.",
         "es-ES": "Quiero cambiar a Sumo Sacerdote."
     },
     "usn2DA": {
-        "ko-KR": "챔피언으로 전직할래요.",
         "en-US": "I want to change to Champion.",
         "pt-BR": "Mudar para Mestre.",
         "es-ES": "Quiero cambiar a Campeón."
     },
     "u8n2DA": {
-        "ko-KR": "하이프리스트가",
         "en-US": "High Priest",
         "pt-BR": "Sumo Sacerdote",
         "es-ES": "Sumo Sacerdote"
     },
     "vMn2DA": {
-        "ko-KR": "챔피언이",
         "en-US": "Champion",
         "pt-BR": "Mestre",
         "es-ES": "Campeón"
     },
     "vcn2DA": {
-        "ko-KR": "집시",
         "en-US": "Gypsy",
         "pt-BR": "Cigana",
         "es-ES": "Gitana"
     },
     "vsn2DA": {
-        "ko-KR": "[전직 요원]\n궁수시군요? 궁수라면 ^0000CD스나이퍼^000000나 ^EE0000집시^000000로 전직할 수 있는데 어떤 직업으로 전직하시겠습니까?",
         "en-US": "[Former Agent]\nAh, an Archer? As an Archer, you can change job to a ^0000CDSniper^000000 or a ^EE0000Gypsy^000000. Which job would you like to change to?",
         "pt-BR": "[Oficial de Classe]\nAh, Arqueira? Como Arqueira, você pode mudar de classe para ^0000CDAtiradora de Elite^000000 ou ^EE0000Cigana^000000. Para qual classe gostaria de mudar?",
         "es-ES": "[Antiguo Agente]\nAh, ¿Arquera? Como Arquera, puedes cambiar de clase a ^0000CDFrancotirador^000000 o ^EE0000Gitana^000000. ¿A qué clase te gustaría cambiar?"
     },
     "v8n2DA": {
-        "ko-KR": "크로운",
         "en-US": "Clown",
         "pt-BR": "Menestrel",
         "es-ES": "Ministril"
     },
     "wMn2DA": {
-        "ko-KR": "[전직 요원]\n궁수시군요? 궁수라면 ^0000CD스나이퍼^000000나 ^EE0000크로운^000000으로 전직할 수 있는데 어떤 직업으로 전직하시겠습니까?",
         "en-US": "[Former Agent]\nAh, an Archer? As an Archer, you can change job to a ^0000CDSniper^000000 or a ^EE0000Clown^000000. Which job would you like to change to?",
         "pt-BR": "[Oficial de Classe]\nAh, Arqueiro? Como Arqueiro, você pode mudar de classe para ^0000CDAtirador de Elite^000000 ou ^EE0000Menestrel^000000. Para qual classe gostaria de mudar?",
         "es-ES": "[Antiguo Agente]\nAh, ¿Arquero? Como Arquero, puedes cambiar de clase a ^0000CDFrancotirador^000000 o ^EE0000Ministril^000000. ¿A qué clase te gustaría cambiar?"
     },
     "wcn2DA": {
-        "ko-KR": "스나이퍼",
         "en-US": "Sniper",
         "pt-BR": "Atiradora de Elite",
         "es-ES": "Francotirador"
     },
     "wsn2DA": {
-        "ko-KR": "스나이퍼가",
         "en-US": "Sniper",
         "pt-BR": "Atirador de Elite",
         "es-ES": "Francotirador"
     },
     "w8n2DA": {
-        "ko-KR": "집시가",
         "en-US": "Gypsy",
         "pt-BR": "Cigana",
         "es-ES": "Gitana"
     },
     "xMn2DA": {
-        "ko-KR": "크로운이",
         "en-US": "Clown",
         "pt-BR": "Menestrel",
         "es-ES": "Ministril"
     },
     "xcn2DA": {
-        "ko-KR": "[전직 요원]\n당신은 무슨 직업을 가지고 계십니까?",
         "en-US": "[Former Agent]\nWhat job do you have?",
         "pt-BR": "[Oficial de Classe]\nHã?",
         "es-ES": "[Antiguo Agente]\n¿Eh?"
     },
     "xsn2DA": {
-        "ko-KR": "[전직 요원]\n그런데 베이스 레벨이 좀 모자라는군요. 3차 직업 전직 조건은 ^0000CD베이스 레벨이 99^000000입니다. 조금 더 올리고 다시 오십시오.",
         "en-US": "[Former Agent]\nHowever, your Base Level seems a bit low. The requirement for Third Class job change is ^0000CDBase Level 99^000000. Raise it a bit more and come back.",
         "pt-BR": "[Oficial de Classe]\nNo entanto, seu Nível Base está um pouco baixo. O requisito para mudança de Classe 3 é ^0000CDNível Base 99^000000. Aumente um pouco mais e volte.",
         "es-ES": "[Antiguo Agente]\nSin embargo, tu Nivel Base está un poco bajo. El requisito para el cambio de Clase 3 es ^0000CDNivel Base 99^000000. Súbelo un poco más y vuelve."
     },
     "x8n2DA": {
-        "ko-KR": "[전직 요원]\n직업 레벨이 좀 모자라는군요. 3차 직업 전직 조건은 ^0000CD직업 레벨이 70^000000입니다. 조금 더 올리고 다시 오십시오.",
         "en-US": "[Former Agent]\nYour Job Level seems a bit low. The requirement for Third Class job change is ^0000CDJob Level 70^000000. Raise it a bit more and come back.",
         "pt-BR": "[Oficial de Classe]\nSeu Nível de Classe está um pouco baixo. O requisito para mudança de Classe 3 é ^0000CDNível de Classe 70^000000. Aumente um pouco mais e volte.",
         "es-ES": "[Antiguo Agente]\nTu Nivel de Clase está un poco bajo. El requisito para el cambio de Clase 3 es ^0000CDNivel de Clase 70^000000. Súbelo un poco más y vuelve."
     },
     "yMn2DA": {
-        "ko-KR": "[전직 요원]\n흠...직업 레벨을 70까지 올렸지만 ^0000CD스킬 포인트가 남아^000000있군요. 기다리고 있을 테니 스킬 포인트를 모두 소모하고 오십시오.",
         "en-US": "[Former Agent]\nHmm... You've reached Job Level 70, but ^0000CDyou still have Skill Points left^000000. I'll be waiting, so use up all your Skill Points and come back.",
         "pt-BR": "[Oficial de Classe]\nHmm... Você alcançou o Nível de Classe 70, mas ^0000CDainda tem Pontos de Habilidade sobrando^000000. Estarei esperando, então use todos os seus Pontos de Habilidade e volte.",
         "es-ES": "[Antiguo Agente]\nHmm... Has alcanzado el Nivel de Clase 70, pero ^0000CDaún tienes Puntos de Habilidad restantes^000000. Estaré esperando, así que usa todos tus Puntos de Habilidad y vuelve."
     },
     "ycn2DA": {
-        "ko-KR": "[전직 요원]\n좋습니다. 준비가 완벽하군요. 그럼 이제 3차 직업으로 전직을 시켜드려도 괜찮겠습니까?",
         "en-US": "[Former Agent]\nGood. Your preparations are perfect. Now then, would it be alright to proceed with your Third Class job change?",
         "pt-BR": "[Oficial de Classe]\nÓtimo. Está tudo perfeito. Então, posso prosseguir com sua mudança para Classe 3?",
         "es-ES": "[Antiguo Agente]\nBien. Tus preparativos son perfectos. Entonces, ¿puedo proceder con tu cambio a Clase 3?"
     },
     "ysn2DA": {
-        "ko-KR": "아직 마음의 준비가...",
         "en-US": "I'm not mentally ready yet...",
         "pt-BR": "Não...",
         "es-ES": "No estoy listo mentalmente todavía..."
     },
     "y8n2DA": {
-        "ko-KR": "전직하고 싶습니다!",
         "en-US": "I want to change jobs!",
         "pt-BR": "Quero mudar de classe!",
         "es-ES": "¡Quiero cambiar de clase!"
     },
     "zMn2DA": {
-        "ko-KR": "[전직 요원]\n요청하신대로 룬나이트로 전직시켜드렸습니다.\n제 도움은 여기까지입니다. 멋진 모험가가 되어 온 대륙에 이름을 떨치시길 기원합니다.",
         "en-US": "[Former Agent]\nAs you requested, I have changed your job to Rune Knight.\nMy help ends here. I wish you become a splendid adventurer and make a name for yourself across the entire continent.",
         "pt-BR": "[Oficial de Classe]\nAgora você faz parte dos Cavaleiros Rúnicos.\nMinha ajuda termina aqui. Desejo que você seja formidável nas suas aventuras e faça seu nome por todo o continente.",
         "es-ES": "[Antiguo Agente]\nHas cambiado tu clase a Caballero Rúnico.\nMi ayuda termina aquí. Deseo que te conviertas en un aventurero espléndido y hagas famoso tu nombre por todo el continente."
     },
     "zcn2DA": {
-        "ko-KR": "[전직 요원]\n요청하신대로 로얄가드로 전직시켜드렸습니다.\n제 도움은 여기까지입니다. 멋진 모험가가 되어 온 대륙에 이름을 떨치시길 기원합니다.",
         "en-US": "[Former Agent]\nAs you requested, I have changed your job to Royal Guard.\nMy help ends here. I wish you become a splendid adventurer and make a name for yourself across the entire continent.",
         "pt-BR": "[Oficial de Classe]\nAgora você faz parte dos Guardiões Reais.\nMinha ajuda termina aqui. Desejo que você seja formidável nas suas aventuras e faça seu nome por todo o continente.",
         "es-ES": "[Antiguo Agente]\nHas cambiado tu clase a Guardia Real.\nMi ayuda termina aquí. Deseo que te conviertas en un aventurero espléndido y hagas famoso tu nombre por todo el continente."
     },
     "zsn2DA": {
-        "ko-KR": "[전직 요원]\n요청하신대로 미케닉으로 전직시켜드렸습니다.\n제 도움은 여기까지입니다. 멋진 모험가가 되어 온 대륙에 이름을 떨치시길 기원합니다.",
         "en-US": "[Former Agent]\nAs you requested, I have changed your job to Mechanic.\nMy help ends here. I wish you become a splendid adventurer and make a name for yourself across the entire continent.",
         "pt-BR": "[Oficial de Classe]\nAgora você faz parte dos Mecânicos.\nMinha ajuda termina aqui. Desejo que você seja formidável nas suas aventuras e faça seu nome por todo o continente.",
         "es-ES": "[Antiguo Agente]\nHas cambiado tu clase a Mecánico.\nMi ayuda termina aquí. Deseo que te conviertas en un aventurero espléndido y hagas famoso tu nombre por todo el continente."
     },
     "z8n2DA": {
-        "ko-KR": "[전직 요원]\n요청하신대로 제네릭으로 전직시켜드렸습니다.\n제 도움은 여기까지입니다. 멋진 모험가가 되어 온 대륙에 이름을 떨치시길 기원합니다.",
         "en-US": "[Former Agent]\nAs you requested, I have changed your job to Genetic.\nMy help ends here. I wish you become a splendid adventurer and make a name for yourself across the entire continent.",
         "pt-BR": "[Oficial de Classe]\nAgora você faz parte dos Bioquímicos.\nMinha ajuda termina aqui. Desejo que você seja formidável nas suas aventuras e faça seu nome por todo o continente.",
         "es-ES": "[Antiguo Agente]\nHas cambiado tu clase a Genetista.\nMi ayuda termina aquí. Deseo que te conviertas en un aventurero espléndido y hagas famoso tu nombre por todo el continente."
     },
     "0Mn2DA": {
-        "ko-KR": "[전직 요원]\n요청하신대로 길로틴크로스로 전직시켜드렸습니다.\n제 도움은 여기까지입니다. 멋진 모험가가 되어 온 대륙에 이름을 떨치시길 기원합니다.",
         "en-US": "[Former Agent]\nAs you requested, I have changed your job to Guillotine Cross.\nMy help ends here. I wish you become a splendid adventurer and make a name for yourself across the entire continent.",
         "pt-BR": "[Oficial de Classe]\nAgora você faz parte dos Sicários.\nMinha ajuda termina aqui. Desejo que você seja formidável nas suas aventuras e faça seu nome por todo o continente.",
         "es-ES": "[Antiguo Agente]\nHas cambiado tu clase a Cortador de Cruces.\nMi ayuda termina aquí. Deseo que te conviertas en un aventurero espléndido y hagas famoso tu nombre por todo el continente."
     },
     "0cn2DA": {
-        "ko-KR": "[전직 요원]\n요청하신대로 쉐도우체이서로 전직시켜드렸습니다.\n제 도움은 여기까지입니다. 멋진 모험가가 되어 온 대륙에 이름을 떨치시길 기원합니다.",
         "en-US": "[Former Agent]\nAs you requested, I have changed your job to Shadow Chaser.\nMy help ends here. I wish you become a splendid adventurer and make a name for yourself across the entire continent.",
         "pt-BR": "[Oficial de Classe]\nAgora você faz parte dos Renegados.\nMinha ajuda termina aqui. Desejo que você seja formidável nas suas aventuras e faça seu nome por todo o continente.",
         "es-ES": "[Antiguo Agente]\nHas cambiado tu clase a Perseguidor de Sombras.\nMi ayuda termina aquí. Deseo que te conviertas en un aventurero espléndido y hagas famoso tu nombre por todo el continente."
     },
     "0sn2DA": {
-        "ko-KR": "[전직 요원]\n요청하신대로 워록으로 전직시켜드렸습니다.\n제 도움은 여기까지입니다. 멋진 모험가가 되어 온 대륙에 이름을 떨치시길 기원합니다.",
         "en-US": "[Former Agent]\nAs you requested, I have changed your job to Warlock.\nMy help ends here. I wish you become a splendid adventurer and make a name for yourself across the entire continent.",
         "pt-BR": "[Oficial de Classe]\nAgora você faz parte dos Arcanos.\nMinha ajuda termina aqui. Desejo que você seja formidável nas suas aventuras e faça seu nome por todo o continente.",
         "es-ES": "[Antiguo Agente]\nHas cambiado tu clase a Brujo.\nMi ayuda termina aquí. Deseo que te conviertas en un aventurero espléndido y hagas famoso tu nombre por todo el continente."
     },
     "08n2DA": {
-        "ko-KR": "[전직 요원]\n요청하신대로 소서러로 전직시켜드렸습니다.\n제 도움은 여기까지입니다. 멋진 모험가가 되어 온 대륙에 이름을 떨치시길 기원합니다.",
         "en-US": "[Former Agent]\nAs you requested, I have changed your job to Sorcerer.\nMy help ends here. I wish you become a splendid adventurer and make a name for yourself across the entire continent.",
         "pt-BR": "[Oficial de Classe]\nAgora você faz parte dos Feiticeiros.\nMinha ajuda termina aqui. Desejo que você seja formidável nas suas aventuras e faça seu nome por todo o continente.",
         "es-ES": "[Antiguo Agente]\nHas cambiado tu clase a Conjurador.\nMi ayuda termina aquí. Deseo que te conviertas en un aventurero espléndido y hagas famoso tu nombre por todo el continente."
     },
     "1Mn2DA": {
-        "ko-KR": "[전직 요원]\n요청하신대로 아크비숍으로 전직시켜드렸습니다.\n제 도움은 여기까지입니다. 멋진 모험가가 되어 온 대륙에 이름을 떨치시길 기원합니다.",
         "en-US": "[Former Agent]\nAs you requested, I have changed your job to Arch Bishop.\nMy help ends here. I wish you become a splendid adventurer and make a name for yourself across the entire continent.",
         "pt-BR": "[Oficial de Classe]\nAgora você faz parte dos Arcebispos.\nMinha ajuda termina aqui. Desejo que você seja formidável nas suas aventuras e faça seu nome por todo o continente.",
         "es-ES": "[Antiguo Agente]\nHas cambiado tu clase a Arzobispo.\nMi ayuda termina aquí. Deseo que te conviertas en un aventurero espléndido y hagas famoso tu nombre por todo el continente."
     },
     "1cn2DA": {
-        "ko-KR": "[전직 요원]\n요청하신대로 수라로 전직시켜드렸습니다.\n제 도움은 여기까지입니다. 멋진 모험가가 되어 온 대륙에 이름을 떨치시길 기원합니다.",
         "en-US": "[Former Agent]\nAs you requested, I have changed your job to Sura.\nMy help ends here. I wish you become a splendid adventurer and make a name for yourself across the entire continent.",
         "pt-BR": "[Oficial de Classe]\nAgora você faz parte dos Shuras.\nMinha ajuda termina aqui. Desejo que você seja formidável nas suas aventuras e faça seu nome por todo o continente.",
         "es-ES": "[Antiguo Agente]\nHas cambiado tu clase a Sura.\nMi ayuda termina aquí. Deseo que te conviertas en un aventurero espléndido y hagas famoso tu nombre por todo el continente."
     },
     "1sn2DA": {
-        "ko-KR": "[전직 요원]\n요청하신대로 레인저로 전직시켜드렸습니다.\n제 도움은 여기까지입니다. 멋진 모험가가 되어 온 대륙에 이름을 떨치시길 기원합니다.",
         "en-US": "[Former Agent]\nAs you requested, I have changed your job to Ranger.\nMy help ends here. I wish you become a splendid adventurer and make a name for yourself across the entire continent.",
         "pt-BR": "[Oficial de Classe]\nAgora você faz parte dos Sentinelas.\nMinha ajuda termina aqui. Desejo que você seja formidável nas suas aventuras e faça seu nome por todo o continente.",
         "es-ES": "[Antiguo Agente]\nHas cambiado tu clase a Errante.\nMi ayuda termina aquí. Deseo que te conviertas en un aventurero espléndido y hagas famoso tu nombre por todo el continente."
     },
     "18n2DA": {
-        "ko-KR": "[전직 요원]\n요청하신대로 민스트럴로 전직시켜드렸습니다.\n제 도움은 여기까지입니다. 멋진 모험가가 되어 온 대륙에 이름을 떨치시길 기원합니다.",
         "en-US": "[Former Agent]\nAs you requested, I have changed your job to Minstrel.\nMy help ends here. I wish you become a splendid adventurer and make a name for yourself across the entire continent.",
         "pt-BR": "[Oficial de Classe]\nAgora você faz parte dos Trovadores.\nMinha ajuda termina aqui. Desejo que você seja formidável nas suas aventuras e faça seu nome por todo o continente.",
         "es-ES": "[Antiguo Agente]\nHas cambiado tu clase a Maestro.\nMi ayuda termina aquí. Deseo que te conviertas en un aventurero espléndido y hagas famoso tu nombre por todo el continente."
     },
     "2Mn2DA": {
-        "ko-KR": "[전직 요원]\n요청하신대로 원더러로 전직시켜드렸습니다.\n제 도움은 여기까지입니다. 멋진 모험가가 되어 온 대륙에 이름을 떨치시길 기원합니다.",
         "en-US": "[Former Agent]\nAs you requested, I have changed your job to Wanderer.\nMy help ends here. I wish you become a splendid adventurer and make a name for yourself across the entire continent.",
         "pt-BR": "[Oficial de Classe]\nAgora você faz parte das Musas.\nMinha ajuda termina aqui. Desejo que você seja formidável nas suas aventuras e faça seu nome por todo o continente.",
         "es-ES": "[Antiguo Agente]\nHas cambiado tu clase a Nómada.\nMi ayuda termina aquí. Deseo que te conviertas en un aventurero espléndido y hagas famoso tu nombre por todo el continente."
     },
     "2cn2DA": {
-        "ko-KR": "[전직 요원]\n죄송합니다만, 직업이 어떻게 되십니까?",
         "en-US": "[Former Agent]\nI apologize, but what is your job?",
         "pt-BR": "[Oficial de Classe]\nPeço desculpas, mas qual é a sua classe?",
         "es-ES": "[Antiguo Agente]\nTe pido disculpas, pero ¿cuál es tu clase?"
     },
     "2sn2DA": {
-        "ko-KR": "[전직 요원]\n그런데 베이스 레벨이 좀 모자라는군요. 상위 직업 전직 조건은 ^0000CD베이스 레벨이 99^000000입니다. 조금 더 올리고 다시 오십시오.",
         "en-US": "[Former Agent]\nHowever, your Base Level seems a bit low. The requirement for Higher job change is ^0000CDBase Level 99^000000. Raise it a bit more and come back.",
         "pt-BR": "[Oficial de Classe]\nNo entanto, seu Nível Base está um pouco baixo. O requisito para mudança de Classe Expandida é ^0000CDNível Base 99^000000. Aumente um pouco mais e volte.",
         "es-ES": "[Antiguo Agente]\nSin embargo, tu Nivel Base está un poco bajo. El requisito para el cambio de Clase de Expansión es ^0000CDNivel Base 99^000000. Súbelo un poco más y vuelve."
     },
     "28n2DA": {
-        "ko-KR": "[전직 요원]\n직업 레벨이 좀 모자라는군요. 상위 직업 전직 조건은 ^0000CD직업 레벨이 70^000000입니다. 조금 더 올리고 다시 오십시오.",
         "en-US": "[Former Agent]\nYour Job Level seems a bit low. The requirement for Higher job change is ^0000CDJob Level 70^000000. Raise it a bit more and come back.",
         "pt-BR": "[Oficial de Classe]\nSeu Nível de Classe está um pouco baixo. O requisito para mudança de Classe Expandida é ^0000CDNível de Classe 70^000000. Aumente um pouco mais e volte.",
         "es-ES": "[Antiguo Agente]\nTu Nivel de Clase está un poco bajo. El requisito para el cambio de Clase de Expansión es ^0000CDNivel de Clase 70^000000. Súbelo un poco más y vuelve."
     },
     "3Mn2DA": {
-        "ko-KR": "[전직 요원]\n직업 레벨이 좀 모자라는군요. 상위 직업 전직 조건은 ^0000CD직업 레벨이 50^000000입니다. 조금 더 올리고 다시 오십시오.",
         "en-US": "[Former Agent]\nYour Job Level seems a bit low. The requirement for Higher job change is ^0000CDJob Level 50^000000. Raise it a bit more and come back.",
         "pt-BR": "[Oficial de Classe]\nSeu Nível de Classe está um pouco baixo. O requisito para mudança de Classe Expandida é ^0000CDNível de Classe 50^000000. Aumente um pouco mais e volte.",
         "es-ES": "[Antiguo Agente]\nTu Nivel de Clase está un poco bajo. El requisito para el cambio de Clase de Expansión es ^0000CDNivel de Clase 50^000000. Súbelo un poco más y vuelve."
     },
     "3cn2DA": {
-        "ko-KR": "[전직 요원]\n직업 레벨이 좀 모자라는군요. 상위 직업 전직 조건은 ^0000CD직업 레벨이 99^000000입니다. 조금 더 올리고 다시 오십시오.",
         "en-US": "[Former Agent]\nYour Job Level seems a bit low. The requirement for Higher job change is ^0000CDJob Level 99^000000. Raise it a bit more and come back.",
         "pt-BR": "[Oficial de Classe]\nSeu Nível de Classe está um pouco baixo. O requisito para mudança de Classe Expandida é ^0000CDNível de Classe 99^000000. Aumente um pouco mais e volte.",
         "es-ES": "[Antiguo Agente]\nTu Nivel de Clase está un poco bajo. El requisito para el cambio de Clase de Expansión es ^0000CDNivel de Clase 99^000000. Súbelo un poco más y vuelve."
     },
     "3sn2DA": {
-        "ko-KR": "[전직 요원]\n흠...직업 레벨을 끝까지 올렸지만 ^0000CD스킬 포인트가 남아^000000있군요. 기다리고 있을 테니 스킬 포인트를 모두 소모하고 오십시오.",
         "en-US": "[Former Agent]\nHmm... You've maxed your Job Level, but ^0000CDyou still have Skill Points left^000000. I'll be waiting, so use up all your Skill Points and come back.",
         "pt-BR": "[Oficial de Classe]\nHmm... Você maximizou seu Nível de Classe, mas ^0000CDainda tem Pontos de Habilidade sobrando^000000. Estarei esperando, então use todos os seus Pontos de Habilidade e volte.",
         "es-ES": "[Antiguo Agente]\nHmm... Has maximizado tu Nivel de Clase, pero ^0000CDaún tienes Puntos de Habilidad restantes^000000. Estaré esperando, así que usa todos tus Puntos de Habilidad y vuelve."
     },
     "38n2DA": {
-        "ko-KR": "[전직 요원]\n좋습니다. 준비가 완벽하군요. 그럼 이제 상위 직업으로 전직을 시켜드려도 괜찮겠습니까?",
         "en-US": "[Former Agent]\nGood. Your preparations are perfect. Now then, would it be alright to proceed with your Higher job change?",
         "pt-BR": "[Oficial de Classe]\nÓtimo. Está tudo perfeito. Então, posso prosseguir com sua mudança para Classe Expandida?",
         "es-ES": "[Antiguo Agente]\nBien. Tus preparativos son perfectos. Entonces, ¿puedo proceder con tu cambio a Clase de Expansión?"
     },
     "4Mn2DA": {
-        "ko-KR": "[전직 요원]\n태권이시군요? 태권이라면 ^0000CD권성^000000이나 ^EE0000소울링커^000000로 전직할 수 있는데 어떤 직업으로 전직하시겠습니까?",
         "en-US": "[Former Agent]\nAh, a Taekwon? As a Taekwon, you can change job to a ^0000CDStar Gladiator^000000 or a ^EE0000Soul Linker^000000. Which job would you like to change to?",
         "pt-BR": "[Oficial de Classe]\nAh, Taekwon? Como Taekwon, você pode mudar de classe para ^0000CDMestre Taekwon^000000 ou ^EE0000Espiritualista^000000. Para qual classe gostaria de mudar?",
         "es-ES": "[Antiguo Agente]\nAh, ¿Taekwon? Como Taekwon, puedes cambiar de clase a ^0000CDEmperador Estelar^000000 o ^EE0000Segador de Almas^000000. ¿A qué clase te gustaría cambiar?"
     },
     "4cn2DA": {
-        "ko-KR": "권성으로 전직할래요.",
         "en-US": "I want to change to Star Gladiator.",
         "pt-BR": "Mudar para Mestre Taekwon.",
         "es-ES": "Quiero cambiar a Emperador Estelar."
     },
     "4sn2DA": {
-        "ko-KR": "소울링커로 전직할래요.",
         "en-US": "I want to change to Soul Linker.",
         "pt-BR": "Mudar para Espiritualista.",
         "es-ES": "Quiero cambiar a Segador de Almas."
     },
     "48n2DA": {
-        "ko-KR": "권성이",
         "en-US": "Star Gladiator",
         "pt-BR": "Mestre Taekwon",
         "es-ES": "Emperador Estelar"
     },
     "5Mn2DA": {
-        "ko-KR": "소울링커가",
         "en-US": "Soul Linker",
         "pt-BR": "Espiritualista",
         "es-ES": "Segador de Almas"
     },
     "5cn2DA": {
-        "ko-KR": "[전직 요원]\n자, 이제 {0} 되셨습니다. 모험을 즐기다가 상위 직업으로 전직하실 때 즈음에 절 다시 찾아 오십시오.",
         "en-US": "[Former Agent]\nThere, you are now a {0}. Enjoy your adventures, and come find me again when it's about time for your Higher job change.",
         "pt-BR": "[Oficial de Classe]\nPronto, agora você é {0}. Aproveite suas aventuras e me procure novamente quando estiver perto da hora da sua mudança para Classe Expandida.",
         "es-ES": "[Antiguo Agente]\nListo, ahora eres {0}. Disfruta tus aventuras y búscame de nuevo cuando esté cerca el momento de tu cambio a Clase de Expansión."
     },
     "5sn2DA": {
-        "ko-KR": "[전직 요원]\n요청하신대로 성제로 전직시켜드렸습니다.\n멋진 모험가가 되어 온 대륙에 이름을 떨치시길 기원합니다.",
         "en-US": "[Former Agent]\nAs you requested, I have changed your job to Champion.\nI wish you become a splendid adventurer and make a name for yourself across the entire continent.",
         "pt-BR": "[Oficial de Classe]\nAgora você faz parte dos Mestres Estelares.\nDesejo que você seja formidável nas suas aventuras e faça seu nome por todo o continente.",
         "es-ES": "[Antiguo Agente]\nHas cambiado tu clase a Emperador Estelar.\nDeseo que te conviertas en un aventurero espléndido y hagas famoso tu nombre por todo el continente."
     },
     "58n2DA": {
-        "ko-KR": "[전직 요원]\n요청하신대로 소울리퍼로 전직시켜드렸습니다.\n멋진 모험가가 되어 온 대륙에 이름을 떨치시길 기원합니다.",
         "en-US": "[Former Agent]\nAs you requested, I have changed your job to Soul Reaper.\nI wish you become a splendid adventurer and make a name for yourself across the entire continent.",
         "pt-BR": "[Oficial de Classe]\nAgora você faz parte dos Ceifadores de Almas.\nDesejo que você seja formidável nas suas aventuras e faça seu nome por todo o continente.",
         "es-ES": "[Antiguo Agente]\nHas cambiado tu clase a Segador de Almas.\nDeseo que te conviertas en un aventurero espléndido y hagas famoso tu nombre por todo el continente."
     },
     "6Mn2DA": {
-        "ko-KR": "[전직 요원]\n요청하신대로 오보로로 전직시켜드렸습니다.\n멋진 모험가가 되어 온 대륙에 이름을 떨치시길 기원합니다.",
         "en-US": "[Former Agent]\nAs you requested, I have changed your job to Oboro.\nI wish you become a splendid adventurer and make a name for yourself across the entire continent.",
         "pt-BR": "[Oficial de Classe]\nAgora você faz parte das Oboro.\nDesejo que você seja formidável nas suas aventuras e faça seu nome por todo o continente.",
         "es-ES": "[Antiguo Agente]\nHas cambiado tu clase a Oboro.\nDeseo que te conviertas en un aventurero espléndido y hagas famoso tu nombre por todo el continente."
     },
     "6cn2DA": {
-        "ko-KR": "[전직 요원]\n요청하신대로 카게로우로 전직시켜드렸습니다.\n멋진 모험가가 되어 온 대륙에 이름을 떨치시길 기원합니다.",
         "en-US": "[Former Agent]\nAs you requested, I have changed your job to Kagerou.\nI wish you become a splendid adventurer and make a name for yourself across the entire continent.",
         "pt-BR": "[Oficial de Classe]\nAgora você faz parte dos Kagerou.\nDesejo que você seja formidável nas suas aventuras e faça seu nome por todo o continente.",
         "es-ES": "[Antiguo Agente]\nHas cambiado tu clase a Kagerou.\nDeseo que te conviertas en un aventurero espléndido y hagas famoso tu nombre por todo el continente."
     },
     "6sn2DA": {
-        "ko-KR": "[전직 요원]\n요청하신대로 리벨리온으로 전직시켜드렸습니다.\n멋진 모험가가 되어 온 대륙에 이름을 떨치시길 기원합니다.",
         "en-US": "[Former Agent]\nAs you requested, I have changed your job to Rebellion.\nI wish you become a splendid adventurer and make a name for yourself across the entire continent.",
         "pt-BR": "[Oficial de Classe]\nAgora você faz parte dos Insurgentes.\nDesejo que você seja formidável nas suas aventuras e faça seu nome por todo o continente.",
         "es-ES": "[Antiguo Agente]\nHas cambiado tu clase a Rebelde.\nDeseo que te conviertas en un aventurero espléndido y hagas famoso tu nombre por todo el continente."
     },
     "68n2DA": {
-        "ko-KR": "[전직 요원]\n요청하신대로 슈퍼노비스의 한계 돌파를 도와드렸습니다.\n멋진 모험가가 되어 온 대륙에 이름을 떨치시길 기원합니다.",
         "en-US": "[Former Agent]\nAs you requested, I have assisted your Super Novice in breaking through their limits.\nI wish you become a splendid adventurer and make a name for yourself across the entire continent.",
         "pt-BR": "[Oficial de Classe]\nAgora você faz parte dos Superaprendizes Expandidos.\nDesejo que você seja formidável nas suas aventuras e faça seu nome por todo o continente.",
         "es-ES": "[Antiguo Agente]\nHas ayudado a tu Superprincipiante a romper sus límites.\nDeseo que te conviertas en un aventurero espléndido y hagas famoso tu nombre por todo el continente."
     },
     "7Mn2DA": {
-        "ko-KR": "[전직 요원]\n죄송합니다만, 제가 전직을 시켜드릴 수 있는 분들은 특별한 기간에 모험을 시작한 전승 노비스분들 뿐입니다.",
         "en-US": "[Former Agent]\nI apologize, but I can only provide job change services to Novices who have been reborn and started their adventure during a special period.",
         "pt-BR": "[Oficial de Classe]\nPeço desculpas, mas só posso fornecer serviços de mudança de classe para iniciantes que renasceram e começaram sua aventura durante o período do evento de apoio.",
         "es-ES": "[Antiguo Agente]\nTe pido disculpas, pero solo puedo ofrecer servicios de cambio de clase a Novatos que han renacido y comenzado su aventura durante el período del evento de apoyo."
     },
     "7cn2DA": {
-        "ko-KR": "[전직 요원]\n죄송합니다만, 전직 대상이 아니신 것 같습니다. 다시 한 번 확인해 보시겠습니까?",
         "en-US": "[Former Agent]\nI apologize, but it seems you are not eligible for a job change through me. Could you please double-check?",
         "pt-BR": "[Oficial de Classe]\nPeço desculpas, mas parece que você não está elegível para uma mudança de classe através de mim. Poderia verificar novamente, por favor?",
         "es-ES": "[Antiguo Agente]\nTe pido disculpas, pero parece que no eres elegible para un cambio de clase a través de mí. ¿Podrías verificarlo de nuevo, por favor?"

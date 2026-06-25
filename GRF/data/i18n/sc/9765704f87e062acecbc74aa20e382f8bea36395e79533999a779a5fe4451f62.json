@@ -3208,6 +3208,8 @@
         "en-US": "Yes, I am."
     },
     "gpSUBg": {
-        "en-US": "[Guildmaster]\nWelcome.\nThis place is called the 'Guildmaster's room,' the deepest place in the Assassin guild."
+        "en-US": "[Guildmaster]\nWelcome.\nThis place is called the 'Guildmaster's room,' the deepest place in the Assassin guild.",
+        "pt-BR": "[Líder da Guilda]\nSaudações.\nEste lugar é chamado de ''Câmara do Líder da Guilda'', o lugar mais profundo da Guilda dos Mercenários.",
+        "es-ES": "[Maestro del gremio]\nHola. \nEste lugar se llama Sala del maestro del gremio; el lugar más profundo del gremio de Asesinos."
     }
 }

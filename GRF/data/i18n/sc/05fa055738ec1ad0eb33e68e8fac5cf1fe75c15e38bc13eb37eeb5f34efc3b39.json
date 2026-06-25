@@ -1,528 +1,440 @@
 {
     "wPmqCQ": {
-        "ko-KR": "안내요원",
         "en-US": "Bazaar Guide",
         "pt-BR": "Guia do Bazar",
         "es-ES": "Guia do Bazar"
     },
     "wfmqCQ": {
-        "ko-KR": "[안내요원]\n지금 계신 곳은 프론테라 시장 거리 동쪽입니다.\n무엇을 도와드릴까요?",
         "en-US": "[Bazaar Guide]\nYou are in the Prontera Bazaar, East side.\nHow may I be of assistance?",
         "pt-BR": "[Guia do Bazar]\nVocê está no Bazar de Prontera, lado leste.\nEm que posso ajudar?",
         "es-ES": "[Guía del Bazar]\nEstás en el Bazar de Prontera, lado Este.\n¿Cómo puedo ayudar?"
     },
     "wvmqCQ": {
-        "ko-KR": "시장 거리 중앙으로 이동",
         "en-US": "Go to the center",
         "pt-BR": "Ir para o Centro",
         "es-ES": "Ir para el Centro"
     },
     "w/mqCQ": {
-        "ko-KR": "시장 거리 남쪽으로 이동",
         "en-US": "Go to South",
         "pt-BR": "Ir para o Sul",
         "es-ES": "Ir para el Sur"
     },
     "xPmqCQ": {
-        "ko-KR": "시장 거리 서쪽으로 이동",
         "en-US": "Go to West",
         "pt-BR": "Ir para o Oeste",
         "es-ES": "Ir para el Oeste"
     },
     "xfmqCQ": {
-        "ko-KR": "시장 거리 북쪽으로 이동",
         "en-US": "Go to North",
         "pt-BR": "Ir para o Norte",
         "es-ES": "Ir para el Norte"
     },
     "xvmqCQ": {
-        "ko-KR": "★프론테라 중심가로 이동",
         "en-US": "» Go back to Prontera",
         "pt-BR": "» Voltar para Prontera",
         "es-ES": "» Volver a Prontera"
     },
     "x/mqCQ": {
-        "ko-KR": "종료",
         "en-US": "Cancel",
         "pt-BR": "Cancelar",
         "es-ES": "Cancelar"
     },
     "yPmqCQ": {
-        "ko-KR": "[안내요원]\n시장 거리 중앙으로 안내하겠습니다.",
         "en-US": "[Bazaar Guide]\nI will take you to the center of the Bazaar.",
         "pt-BR": "[Guia do Bazar]\nVou levar você para o centro do Bazar.",
         "es-ES": "[Guía del Bazar]\nTe llevaré al Centro del Bazar."
     },
     "yfmqCQ": {
-        "ko-KR": "[안내요원]\n시장 거리 남쪽으로 안내하겠습니다.",
         "en-US": "[Bazaar Guide]\nI will take you to the South of the Bazaar.",
         "pt-BR": "[Guia do Bazar]\nVou levar você para o sul do Bazar.",
         "es-ES": "[Guía del Bazar]\nTe llevaré al Sur del Bazar."
     },
     "yvmqCQ": {
-        "ko-KR": "[안내요원]\n시장 거리 서쪽으로 안내하겠습니다.",
         "en-US": "[Bazaar Guide]\nI will take you to the West of the Bazaar.",
         "pt-BR": "[Guia do Bazar]\nVou levar você para o oeste do Bazar.",
         "es-ES": "[Guía del Bazar]\nTe llevaré al Oeste del Bazar."
     },
     "y/mqCQ": {
-        "ko-KR": "[안내요원]\n시장 거리 북쪽으로 안내하겠습니다.",
         "en-US": "[Bazaar Guide]\nI will take you to the North of the Bazaar.",
         "pt-BR": "[Guia do Bazar]\nVou levar você para o norte do Bazar.",
         "es-ES": "[Guía del Bazar]\nTe llevaré al Norte del Bazar."
     },
     "zPmqCQ": {
-        "ko-KR": "[안내요원]\n프론테라 중심가 동쪽으로 이동합니다.",
         "en-US": "[Bazaar Guide]\nI will guide you back to Prontera.",
         "pt-BR": "[Guia do Bazar]\nVou levar você de volta para Prontera.",
         "es-ES": "[Guía del Bazar]\nTe llevaré de regreso a Prontera."
     },
     "zfmqCQ": {
-        "ko-KR": "[안내요원]\n시장 거리 내부 이동이나 프론테라 중심가로 이동이 필요하시면 언제든지 찾아주십시오.",
         "en-US": "[Bazaar Guide]\nLet me know if you need to get back to Prontera or get around the Bazaar faster.",
         "pt-BR": "[Guia do Bazar]\nFale comigo se precisar voltar para Prontera ou se locomover mais rápido no Bazar.",
         "es-ES": "[Guía del Bazar]\nHáblame si necesitas regresar a Prontera o moverte por Bazar más rápido."
     },
     "zvmqCQ": {
-        "ko-KR": "[안내요원]\n지금 계신 곳은 프론테라 시장 거리 서쪽입니다.\n무엇을 도와드릴까요?",
         "en-US": "[Bazaar Guide]\nYou are in the Prontera Bazaar, West side.\nHow may I be of assistance?",
         "pt-BR": "[Guia do Bazar]\nVocê está no Bazar de Prontera, lado Oeste.\nEm que posso ajudar?",
         "es-ES": "[Guía del Bazar]\nEstás en el Bazar de Prontera, lado Oeste.\n¿Cómo puedo ayudar?"
     },
     "z/mqCQ": {
-        "ko-KR": "시장 거리 동쪽으로 이동",
         "en-US": "Go to East",
         "pt-BR": "Ir para o Leste",
         "es-ES": "Ir para el Este"
     },
     "0PmqCQ": {
-        "ko-KR": "[안내요원]\n시장 거리 동쪽으로 안내하겠습니다.",
         "en-US": "[Bazaar Guide]\nI will take you to the East of the Bazaar.",
         "pt-BR": "[Guia do Bazar]\nVou levar você para o leste do Bazar.",
         "es-ES": "[Guía del Bazar]\nTe llevaré al Este del Bazar."
     },
     "0fmqCQ": {
-        "ko-KR": "[안내요원]\n프론테라 중심가 서쪽로 이동합니다.",
         "en-US": "[Bazaar Guide]\nI will guide you back to Prontera.",
         "pt-BR": "[Guia do Bazar]\nVou levar você de volta para Prontera.",
         "es-ES": "[Guía del Bazar]\nTe llevaré de regreso a Prontera."
     },
     "0vmqCQ": {
-        "ko-KR": "[안내요원]\n지금 계신 곳은 프론테라 시장 거리 남쪽입니다.\n무엇을 도와드릴까요?",
         "en-US": "[Bazaar Guide]\nYou are in the Prontera Bazaar, South side.\nHow may I be of assistance?",
         "pt-BR": "[Guia do Bazar]\nVocê está no Bazar de Prontera, lado Sul.\nEm que posso ajudar?",
         "es-ES": "[Guía del Bazar]\nEstás en el Bazar de Prontera, lado Sur.\n¿Cómo puedo ayudar?"
     },
     "0/mqCQ": {
-        "ko-KR": "[안내요원]\n프론테라 중심가 남쪽으로 이동합니다.",
         "en-US": "[Bazaar Guide]\nI will guide you back to Prontera.",
         "pt-BR": "[Guia do Bazar]\nVou levar você de volta para Prontera.",
         "es-ES": "[Guía del Bazar]\nTe llevaré de regreso a Prontera."
     },
     "1PmqCQ": {
-        "ko-KR": "[안내요원]\n지금 계신 곳은 프론테라 시장 거리 북쪽입니다.\n무엇을 도와드릴까요?",
         "en-US": "[Bazaar Guide]\nYou are in the Prontera Bazaar, North side.\nHow may I be of assistance?",
         "pt-BR": "[Guia do Bazar]\nVocê está no Bazar de Prontera, lado Norte.\nEm que posso ajudar?",
         "es-ES": "[Guía del Bazar]\nEstás en el Bazar de Prontera, lado Norte.\n¿Cómo puedo ayudar?"
     },
     "1fmqCQ": {
-        "ko-KR": "[안내요원]\n프론테라 중심가 북쪽으로 이동합니다.",
         "en-US": "[Bazaar Guide]\nI will guide you back to Prontera.",
         "pt-BR": "[Guia do Bazar]\nVou levar você de volta para Prontera.",
         "es-ES": "[Guía del Bazar]\nTe llevaré de regreso a Prontera."
     },
     "1vmqCQ": {
-        "ko-KR": "[안내요원]\n지금 계신 곳은 프론테라 시장 거리입니다.\n무엇을 도와드릴까요?",
         "en-US": "[Bazaar Guide]\nYou're in the center of the Bazaar of Prontera.\nHow may I be of assistance?",
         "pt-BR": "[Guia do Bazar]\nVocê está no centro do Bazar de Prontera.\nEm que posso ajudar?",
         "es-ES": "[Guía del Bazar]\nEstás en el Centro del Bazar de Prontera.\n¿Cómo puedo ayudar?"
     },
     "1/mqCQ": {
-        "ko-KR": "[안내요원]\n프론테라 중심가 중앙 분수대로 이동합니다.",
         "en-US": "[Bazaar Guide]\nI will guide you back to Prontera.",
         "pt-BR": "[Guia do Bazar]\nVou levar você de volta para Prontera.",
         "es-ES": "[Guía del Bazar]\nTe llevaré de regreso a Prontera."
     },
     "2PmqCQ": {
-        "ko-KR": "카프라 직원",
         "en-US": "Kafra Employee",
         "pt-BR": "Funcionária Kafra",
         "es-ES": "Funcionária Kafra"
     },
     "2fmqCQ": {
-        "ko-KR": "[카프라 직원]\n어서오십시오. 카프라 서비스는 언제나 여러분 곁에 있습니다.\n프론테라 시장거리 지점에서는 카프라 포인트를 제공하지 않습니다. 이용에 참고하시기 바랍니다.\n무엇을 도와드릴까요?",
         "en-US": "[Kafra Employee]\nGreetings. Kafra Corporation is always here for you.\nPlease note that you do not receive Kafra Points when using our services here at Bazaar.\nHow may I be of assistance?",
         "pt-BR": "[Funcionária Kafra]\nSaudações. A Corporação Kafra está sempre aqui para você.\nObserve que você não recebe Pontos Kafra ao usar nossos serviços aqui no Bazar.\nEm que posso ajudar?",
         "es-ES": "[Personal de Kafra]\nSaludos. La Corporación Kafra siempre está aquí para ayudarte.\nTenga en cuenta que no recibes Puntos Kafra cuando utiliza nuestros servicios aquí en Bazar.\n¿Cómo puedo ayudar?"
     },
     "2vmqCQ": {
-        "ko-KR": "창고 1번 열기",
         "en-US": "Open the 1st Storage",
         "pt-BR": "Abrir o 1º Armazém",
         "es-ES": "Abrir el 1º Almacén"
     },
     "2/mqCQ": {
-        "ko-KR": "창고 2번 열기",
         "en-US": "Open the 2nd Storage",
         "pt-BR": "Abrir o 2º Armazém",
         "es-ES": "Abrir el 2º Almacén"
     },
     "3PmqCQ": {
-        "ko-KR": "창고 3번 열기",
         "en-US": "Open the 3rd Storage",
         "pt-BR": "Abrir o 3º Armazém",
         "es-ES": "Abrir el 3º Almacén"
     },
     "3fmqCQ": {
-        "ko-KR": "카트 서비스 이용",
         "en-US": "Buy a cart",
         "pt-BR": "Comprar um Carrinho",
         "es-ES": "Comprar un carrito"
     },
     "3vmqCQ": {
-        "ko-KR": "[카프라 직원]\n죄송합니다, 고객님.\n창고를 이용하시려면 초보자 스킬레벨을 6 이상 올리시거나 새로운 기본기능 스킬을 익히셔야 합니다.",
         "en-US": "[Kafra Employee]\nCustomer, I am sorry.\nUnfortunately, you do not have the necessary skills to use the Storage service.",
         "pt-BR": "[Funcionária Kafra]\nCliente, me desculpe.\nInfelizmente, você não possui a habilidade necessária para usar o serviço de armazém.",
         "es-ES": "[Personal de Kafra]\nCliente, lo siento.\nDesafortunadamente, no tienes las habilidades necesarias para utilizar el servicio de Almacén."
     },
     "3/mqCQ": {
-        "ko-KR": "[카프라 직원]\n창고를 열겠습니다.\n이용해 주셔서 감사합니다.",
         "en-US": "[Kafra Employee]\nI will open your Storage.\nThank you for using our services.",
         "pt-BR": "[Funcionária Kafra]\nVou abrir o seu armazém.\nAgradecemos por usar nossos serviços.",
         "es-ES": "[Personal de Kafra]\nAbriré tu Almacén.\nGracias por utilizar nuestros servicios."
     },
     "4PmqCQ": {
-        "ko-KR": "창고 1",
         "en-US": "Armazém 1",
         "pt-BR": "Armazém 1",
         "es-ES": "Armazém 1"
     },
     "4fmqCQ": {
-        "ko-KR": "[카프라 직원]\n고객님. 지불하실 금액이 부족 합니다.\n창고 이용료는 50 제니입니다.",
         "en-US": "[Kafra Employee]\nYou don't have enough money.\nThe Storage service costs 50 zeny.",
         "pt-BR": "[Funcionária Kafra]\nVocê não tem saldo suficiente.\nO serviço de armazém custa 50 Zeny.",
         "es-ES": "[Personal de Kafra]\nNo tienes suficiente saldo.\nEl servicio de Almacén cuesta 50 zenys."
     },
     "4vmqCQ": {
-        "ko-KR": "창고 2",
         "en-US": "Armazém 2",
         "pt-BR": "Armazém 2",
         "es-ES": "Armazém 2"
     },
     "4/mqCQ": {
-        "ko-KR": "창고 3",
         "en-US": "Armazém 3",
         "pt-BR": "Armazém 3",
         "es-ES": "Armazém 3"
     },
     "5PmqCQ": {
-        "ko-KR": "[카프라 직원]\n죄송합니다.\n카트는 상인계열 직업군에 속한 분들만 사용하실 수 있습니다.",
         "en-US": "[Kafra Employee]\nI'm sorry.\nThe cart service is only available for Merchants and evolutions.",
         "pt-BR": "[Funcionária Kafra]\nSinto muito.\nO serviço de carrinho está disponível apenas para Mercadores e evoluções.",
         "es-ES": "[Personal de Kafra]\nLo siento.\nEl servicio de carrito sólo está disponible para Comerciantes y evoluciones."
     },
     "5fmqCQ": {
-        "ko-KR": "[카프라 직원]\n고객님께선 현재 카트를 장착하고 계십니다.",
         "en-US": "[Kafra Employee]\nYou are currently equipped with a cart.",
         "pt-BR": "[Funcionária Kafra]\nVocê já possui um carrinho.",
         "es-ES": "[Personal de Kafra]\nYa tienes un carrito."
     },
     "5vmqCQ": {
-        "ko-KR": "[카프라 직원]\n'푸쉬 카트 스킬'을 배우셔야 카트를 이용하실 수 있습니다.",
         "en-US": "[Kafra Employee]\nYou need to have learned the [Push Cart] skill.",
         "pt-BR": "[Funcionária Kafra]\nVocê precisa ter aprendido a habilidade [Usar Carrinho]",
         "es-ES": "[Personal de Kafra]\nDebes haber aprendido la habilidad [Usar carrito]"
     },
     "5/mqCQ": {
-        "ko-KR": "[카프라 직원]\n카트 이용료는 800 제니입니다.\n이용을 하시겠습니까?",
         "en-US": "[Kafra Employee]\nThis service costs 800 zeny.\nDo you want to use it?",
         "pt-BR": "[Funcionária Kafra]\nEste serviço custa 800 Zeny.\nDeseja usá-lo?",
         "es-ES": "[Personal de Kafra]\nEste servicio cuesta 800 zenys.\n¿Quieres usarlo?"
     },
     "6PmqCQ": {
-        "ko-KR": "이용하다.",
         "en-US": "Buy a cart.",
         "pt-BR": "Comprar Carrinho.",
         "es-ES": "Comprar carrito."
     },
     "6fmqCQ": {
-        "ko-KR": "취소.",
         "en-US": "Cancel.",
         "pt-BR": "Cancelar.",
         "es-ES": "Cancelar."
     },
     "6vmqCQ": {
-        "ko-KR": "[카프라 직원]\n고객님. 지불하실 금액이 부족 합니다.\n카트 이용료는 800 제니입니다.",
         "en-US": "[Kafra Employee]\nYou don't have enough money.\nThis service costs 800 zeny.",
         "pt-BR": "[Funcionária Kafra]\nVocê não tem saldo suficiente.\nEste serviço custa 800 Zeny.",
         "es-ES": "[Personal de Kafra]\nNo tienes suficiente saldo.\nEste servicio cuesta 800 zenys."
     },
     "6/mqCQ": {
-        "ko-KR": "[카프라 직원]\n프론테라 중심가로 이동하겠습니다.",
         "en-US": "[Kafra Employee]\nI will send you to Prontera.",
         "pt-BR": "[Funcionária Kafra]\nVou enviar você para Prontera.",
         "es-ES": "[Personal de Kafra]\nTe enviaré a Prontera."
     },
     "7PmqCQ": {
-        "ko-KR": "[카프라 직원]\n이용해 주셔서 감사합니다.",
         "en-US": "[Kafra Employee]\nThank you for using our services.",
         "pt-BR": "[Funcionária Kafra]\nAgradecemos por usar nossos serviços.",
         "es-ES": "[Personal de Kafra]\nGracias por utilizar nuestros servicios."
     },
     "7fmqCQ": {
-        "ko-KR": "[카프라 직원]\n프론테라 중심가 남쪽으로 이동하겠습니다.",
         "en-US": "[Kafra Employee]\nI will send you to Prontera.",
         "pt-BR": "[Funcionária Kafra]\nVou enviar você para Prontera.",
         "es-ES": "[Empleada de Kafra]\nTe enviaré a Prontera."
     },
     "7vmqCQ": {
-        "ko-KR": "[카프라 직원]\n프론테라 중심가 동쪽으로 이동하겠습니다.",
         "en-US": "[Kafra Employee]\nI will send you to Prontera.",
         "pt-BR": "[Funcionária Kafra]\nVou enviar você para Prontera.",
         "es-ES": "[Empleada de Kafra]\nTe enviaré a Prontera."
     },
     "7/mqCQ": {
-        "ko-KR": "[카프라 직원]\n프론테라 중심가 서쪽으로 이동하겠습니다.",
         "en-US": "[Kafra Employee]\nI will send you to Prontera.",
         "pt-BR": "[Funcionária Kafra]\nVou enviar você para Prontera.",
         "es-ES": "[Empleada de Kafra]\nTe enviaré a Prontera."
     },
     "8PmqCQ": {
-        "ko-KR": "[카프라 직원]\n프론테라 중심가 북쪽으로 이동하겠습니다.",
         "en-US": "[Kafra Employee]\nI will send you to Prontera.",
         "pt-BR": "[Funcionária Kafra]\nVou enviar você para Prontera.",
         "es-ES": "[Empleada de Kafra]\nTe enviaré a Prontera."
     },
     "8fmqCQ": {
-        "ko-KR": "무인보관함 1호",
         "en-US": "Armazém Rápido 1",
         "pt-BR": "Armazém Rápido 1",
         "es-ES": "Almacén rápido 1"
     },
     "8vmqCQ": {
-        "ko-KR": "자동 무인보관함입니다.\n카프라 서비스의 1번 창고와 연결되어 있습니다.\n보관함을 사용하시려면 50z를 투입하세요.",
         "en-US": "Automatic Storage service.\nIt is connected to your Storage 1.\nPlease, insert 50 zeny to use it.",
         "pt-BR": "Serviço de Armazém automático.\nÉ conectado ao seu Armazém 1.\nPor favor, insira 50 Zeny para usar.",
         "es-ES": "Servicio de Almacén automático.\nEs conectado a tu Almacén 1.\nIngresa 50 zenys para utilizar."
     },
     "8/mqCQ": {
-        "ko-KR": "^4D4DFF창고를 이용하시려면 초보자 스킬레벨을 6 이상 올리시거나 새로운 기본기능 스킬을 익히셔야 합니다.^000000",
         "en-US": "^4D4DFFUnfortunately, you do not have the necessary skills to use the Storage service.^000000",
         "pt-BR": "^4D4DFFInfelizmente, você não possui a habilidade necessária para usar o serviço de armazém.^000000",
         "es-ES": "^4D4DFFDesafortunadamente, no tienes las habilidades necesarias para utilizar el servicio de Almacén.^000000"
     },
     "9PmqCQ": {
-        "ko-KR": "보관함 사용료는 50z입니다.",
         "en-US": "The price is 50 zeny.",
         "pt-BR": "O preço é de 50 Zeny.",
         "es-ES": "El precio es 50 zenys."
     },
     "9fmqCQ": {
-        "ko-KR": "50z 투입",
         "en-US": "Insert 50z",
         "pt-BR": "Inserir 50z",
         "es-ES": "Ingresar 50z"
     },
     "9vmqCQ": {
-        "ko-KR": "이용해 주셔서 감사합니다.",
         "en-US": "Thank you for using our services.",
         "pt-BR": "Agradecemos por usar nossos serviços.",
         "es-ES": "Gracias por utilizar nuestros servicios."
     },
     "9/mqCQ": {
-        "ko-KR": "무인보관함 2호",
         "en-US": "Armazém Rápido 2",
         "pt-BR": "Armazém Rápido 2",
         "es-ES": "Almacén rápido 2"
     },
     "+PmqCQ": {
-        "ko-KR": "자동 무인보관함입니다.\n카프라 서비스의 2번 창고와 연결되어 있습니다.\n보관함을 사용하시려면 50z를 투입하세요.",
         "en-US": "Automatic Storage service.\nIt is connected to your Storage 2.\nPlease, insert 50 zeny to use it.",
         "pt-BR": "Serviço de Armazém automático.\nÉ conectado ao seu Armazém 2.\nPor favor, insira 50 zeny para usar.",
         "es-ES": "Servicio de Almacén automático.\nEs conectado a tu Almacén 2.\nIngresa 50 zenys para utilizar."
     },
     "+fmqCQ": {
-        "ko-KR": "무인보관함 3호",
         "en-US": "Armazém Rápido 3",
         "pt-BR": "Armazém Rápido 3",
         "es-ES": "Tienda rápida 3"
     },
     "+vmqCQ": {
-        "ko-KR": "자동 무인보관함입니다.\n카프라 서비스의 3번 창고와 연결되어 있습니다.\n보관함을 사용하시려면 50z를 투입하세요.",
         "en-US": "Automatic Storage service.\nIt is connected to your Storage 3.\nPlease, insert 50 zeny to use it.",
         "pt-BR": "Serviço de Armazém automático.\nÉ conectado ao seu Armazém 3.\nPor favor, insira 50 zeny para usar.",
         "es-ES": "Servicio de Almacén automático.\nEs conectado a tu Almacén 3.\nIngresa 50 zenys para utilizar."
     },
     "+/mqCQ": {
-        "ko-KR": "카탈로그 자동 발급기",
         "en-US": "Máquina de Catálogos",
         "pt-BR": "Máquina de Catálogos",
         "es-ES": "Máquina de catálogos"
     },
     "/PmqCQ": {
-        "ko-KR": "노점에 등록된 물품을 한 눈에 파악할 수 있는 획기적인 카탈로그 판매 중!\n협찬:알베르타 상인 길드\n*운송료와 수수료가 포함된 제품입니다.",
         "en-US": "Use the Catalogs to search for products in the commerce!\nSponsorship: the Alberta Merchant Guild\n* Price includes shipping fee from Alberta to Prontera.",
         "pt-BR": "Use os Catálogos para procurar por produtos no comércio!\nPatrocínio: Guila dos Mercadores de Alberta\n* O preço inclui a taxa do transporte de Alberta para Prontera.",
         "es-ES": "¡Utiliza los catálogos para buscar productos en las tiendas!\nPatrocinio: Gremio de Comerciantes de Alberta\n* El precio incluye los gastos de envío desde Alberta a Prontera."
     },
     "/fmqCQ": {
-        "ko-KR": "포링",
         "en-US": "Poring",
         "pt-BR": "Poring",
         "es-ES": "Poring"
     },
     "/vmqCQ": {
-        "ko-KR": "포포링",
         "en-US": "Poporing",
         "pt-BR": "Poporing",
         "es-ES": "Poporing"
     },
     "//mqCQ": {
-        "ko-KR": "드롭프스",
         "en-US": "Drops",
         "pt-BR": "Drops",
         "es-ES": "Drops"
     },
     "APqqCQ": {
-        "ko-KR": "엔젤링",
         "en-US": "Angeling",
         "pt-BR": "Angeling",
         "es-ES": "Angeling"
     },
     "AfqqCQ": {
-        "ko-KR": "포포링",
         "en-US": "Poporing",
         "pt-BR": "Poporing",
         "es-ES": "Poporing"
     },
     "AvqqCQ": {
-        "ko-KR": "포링",
         "en-US": "Poring",
         "pt-BR": "Poring",
         "es-ES": "Poring"
     },
     "A/qqCQ": {
-        "ko-KR": "드롭프스",
         "en-US": "Drops",
         "pt-BR": "Drops",
         "es-ES": "Gotas"
     },
     "BPqqCQ": {
-        "ko-KR": "엔젤링",
         "en-US": "Angeling",
         "pt-BR": "Angeling",
         "es-ES": "Angeling"
     },
     "BfqqCQ": {
-        "ko-KR": "도구상인",
         "en-US": "Loja de Ferramentas",
         "pt-BR": "Loja de Ferramentas",
-        "es-ES": "Taller de herramientas"
+        "es-ES": "Taller de Herramientas"
     },
     "BvqqCQ": {
-        "ko-KR": "길드 창고 관리인",
         "en-US": "Agente do Armazém",
         "pt-BR": "Agente do Armazém",
         "es-ES": "Agente de almacén"
     },
     "B/qqCQ": {
-        "ko-KR": "[창고 관리인]\n안녕하세요? 저희는 창고 전문, ^0000CD스토리.G^000000 입니다.\n길드원끼리 공용으로 창고를 사용할 수 없을까? 하는 작은 의문에서 출발한 단체죠.",
         "en-US": "[Storage Keeper]\nHello! We are from ^0000CDStor-Age^000000.\nWe are experts in storage solutions for Guilds.",
         "pt-BR": "[Agente do Armazém]\nOlá! Somos da ^0000CDArma-Zen^000000.\nSomos especialistas em soluções de armazenamento para Clãs.",
         "es-ES": "[Almacenista]\n¡Hola! Somo de ^0000CDAlma-Cén^000000.\nExpertos en soluciones de almacenamiento para Clanes."
     },
     "CPqqCQ": {
-        "ko-KR": "[창고 관리인]\n1000제니로 창고를 열거나 길드원의 창고 이용 내역을 살펴보기를 지원합니다.\n어떤 것을 도와드릴까요?",
         "en-US": "[Storage Keeper]\nYou can access the Guild Storage for 1,000z or check its usage history.\nHow can I help?",
         "pt-BR": "[Agente do Armazém]\nVocê pode acessar o Armazém do Clã por 1.000z ou conferir o histórico de uso dele.\nComo posso ajudar??",
         "es-ES": "[Almacenista]\nPuedes acceder al Almacén del Clan por 1.000z o consultar su historial de uso.\n¿¿Cómo puedo ayudar??"
     },
     "CfqqCQ": {
-        "ko-KR": "길드 창고 열기",
         "en-US": "Access Guild Storage",
         "pt-BR": "Acessar Armazém do Clã.",
         "es-ES": "Acceder Almacén del Clan."
     },
     "CvqqCQ": {
-        "ko-KR": "창고 이용 내역 보기",
         "en-US": "Check usage history.",
         "pt-BR": "Ver histórico de uso.",
         "es-ES": "Consultar historial de uso."
     },
     "C/qqCQ": {
-        "ko-KR": "[창고 관리인]\n길드 창고는 길드에 가입한 길드원에게만 열어드립니다.",
         "en-US": "[Storage Keeper]\nThe Guild Storage is limited to members of a Guild.",
         "pt-BR": "[Agente do Armazém]\nO Armazém do Clã é limitado para membros de um Clã.",
         "es-ES": "[Almacenista]\nEl Almacén del Clan es limitado para integrantes de un Clan."
     },
     "DPqqCQ": {
-        "ko-KR": "[창고 관리인]\n죄송하지만 수수료로 지불하실 금액이 부족한것 같습니다.\n수수료는 1000제니입니다.",
         "en-US": "[Storage Keeper]\nI'm sorry, but you don't seem to have enough zeny to access the Storage.\nThe fee is 1,000z.",
         "pt-BR": "[Agente do Armazém]\nSinto muito, mas você não parece ter Zenys o suficiente para acessar o Armazém.\nA taxa é de 1.000z.",
         "es-ES": "[Almacenista]\nLo siento, pero parece que no tienes suficientes zenys para acceder al Almacén.\nLa tarifa es de 1.000z"
     },
     "DfqqCQ": {
-        "ko-KR": "[창고 관리인]\n그럼 길드 창고를 열어 드리겠습니다. 오늘도 좋은 추억 많이 쌓으세요!",
         "en-US": "[Storage Keeper]\nOkay, I am opening the Storage for you. Have a nice day!",
         "pt-BR": "[Agente do Armazém]\nOK, já estou abrindo o Armazém para você. Tenha um bom dia!",
         "es-ES": "[Almacenista]\nOK, ya te estoy abriendo el Almacén. ¡Que tengas un buen día!"
     },
     "DvqqCQ": {
-        "ko-KR": "[창고 관리인]\n죄송하지만 지금 다른분이 창고를 열고 계신것 같습니다.\n잠시 후에 다시 이용해주세요.",
         "en-US": "[Storage Keeper]\nSorry, but someone of your Guild already is using the Storage.\nWait a while and try again.",
         "pt-BR": "[Agente do Armazém]\nSinto muito, mas alguém do seu Clã já está usando o Armazém.\nEspere um pouco e tente novamente.",
         "es-ES": "[Almacenista]\nLo siento, pero alguien de tu Clan ya está usando el Almacén.\nEspera un momento y vuelve a intentarlo."
     },
     "D/qqCQ": {
-        "ko-KR": "[창고 관리인]\n아직 길드 창고를 사용하실 수 있는 단계가 아니거나 창고 이용 권한이 없는것 같습니다.\n길드 스킬이나 창고 이용 권한 확인 후에 다시 이용해주시길 바랍니다.",
         "en-US": "[Storage Keeper]\nHmm, you are in a Guild, but you cannot use the Storage.\nMake sure your Guild has the required skill and that you are allowed to use the Storage.",
         "pt-BR": "[Agente do Armazém]\nHmm, você está em um Clã, mas não pode usar o Armazém.\nVerifique se seu clã tem a habilidade necessária e se você tem permissão para usar o Armazém.",
         "es-ES": "[Almacenista]\nHmm, estás en un Clan, pero no puedes usar el Almacén.\nComprueba si tu Clan tiene la habilidad requerida y si tienes permiso para usar el Almacén."
     },
     "EPqqCQ": {
-        "ko-KR": "[창고 관리인]\n창고의 이용 내역은 길드원에게만 공개합니다.",
         "en-US": "[Storage Keeper]\nYou are not in a Guild.",
         "pt-BR": "[Agente do Armazém]\nVocê não está em um Clã.",
         "es-ES": "[Almacenista]\nNo estás en un Clan."
     },
     "EfqqCQ": {
-        "ko-KR": "[창고 관리인]\n창고 이용 내역을 보여드리겠습니다. 이용 내역은 최대 3개월까지 보존됩니다.\n오늘도 좋은 추억 많이 쌓으세요!",
         "en-US": "[Storage Keeper]\nHere is the Storage usage history. We keep all data from the last 3 months!\nHave a great day!",
         "pt-BR": "[Agente do Armazém]\nAqui está o histórico de uso do Armazém. Mantemos todos os dados dos últimos 3 meses!\nTenha um ótimo dia!",
         "es-ES": "[Almacenista]\nAquí está el historial de uso del Almacén. ¡Mantenemos todos los datos de los últimos 3 meses!\n¡Que tengas un excelente día!"
     },
     "EvqqCQ": {
-        "ko-KR": "창고 열기",
         "en-US": "Open the Storage",
         "pt-BR": "Abrir o Armazém",
         "es-ES": "Abrir el Almacén"
     },
     "E/qqCQ": {
-        "ko-KR": "[안내요원]\n죄송합니다. 낙원단에서 오신 분은 이동할 수 없습니다.",
         "en-US": "[Bazaar Guide]\nI'm sorry. Those from Eden Group cannot move.",
         "pt-BR": "[Guia do Bazar]\nDesculpe. Aqueles que vêm do Éden não podem teleportar.",
         "es-ES": "[Guía del Bazar]\nLo siento. Los que vienen de Edén no pueden mudarse."
     },
     "FPqqCQ": {
-        "ko-KR": "[카프라 직원]\n죄송합니다. 낙원단에서 오신 분은 이동할 수 없습니다.",
         "en-US": "[Kafra Employee]\nI'm sorry. Those from Eden Group cannot move.",
         "pt-BR": "[Funcionária Kafra]\nDesculpe. Aqueles que vêm do Éden não podem teleportar.",
         "es-ES": "[Empleada de Kafra]\nLo siento. Los que vienen de Edén no pueden moverse."
     },
     "FfqqCQ": {
-        "ko-KR": "낙원단으로 이동",
         "en-US": "Go to Eden Group.",
         "pt-BR": "Vá para o Grupo do Éden.",
         "es-ES": "Ir al Grupo del Edén."
     },
     "FvqqCQ": {
-        "ko-KR": "[안내요원]\n낙원단으로 이동합니다.",
         "en-US": "[Bazaar Guide]\nGoing to Eden Group",
         "pt-BR": "[Guia do Bazar]\nIndo ao Grupo do Éden.",
         "es-ES": "[Guía del Bazar]\nVoy al Grupo del Edén."
     },
     "F/qqCQ": {
-        "ko-KR": "[카프라 직원]\n낙원단으로 이동합니다.",
         "en-US": "[Kafra Employee]\nGoing to Eden Group",
         "pt-BR": "[Funcionária Kafra]\nIndo ao Grupo do Éden.",
         "es-ES": "[Empleada de Kafra]\nVoy al Grupo del Edén."

@@ -1,2340 +1,1950 @@
 {
     "AFkAAQ": {
-        "ko-KR": "가테",
         "en-US": "Gate",
         "pt-BR": "Gatei",
         "es-ES": "Gatei"
     },
     "AVkAAQ": {
-        "ko-KR": "<타나토스 타워 안내원>",
         "en-US": "<Thanatos Tower Guide>",
         "pt-BR": "< Torre de Thanatos >",
         "es-ES": "< Torre de Thanatos >"
     },
     "AlkAAQ": {
-        "ko-KR": "[관리자]\n안녕하십니까. ^0000CD'타나토스 타워'^000000를 방문하러 오셨습니까?",
         "en-US": "[Administrator]\nHello. Have you come to visit ^0000CD'Thanatos Tower'^000000?",
         "pt-BR": "[Gatei]\nSaudações. Veio visitar a ^0000CD'Torre de Thanatos'^000000?",
         "es-ES": "[Gatei]\nSaludos. ¿Has venido a visitar la ^0000CD'Torre de Thanatos'^000000?"
     },
     "A1kAAQ": {
-        "ko-KR": "[가테]\n안녕하십니까.\n전 이 곳 ^0000CD'타나토스 타워'^000000의 출입 관리를 맡고 있는 '가테 눔'이라고 합니다.\n무엇을 도와드릴까요?",
         "en-US": "[Gate]\nHello.\nI am 'Gate Noom', in charge of access control for ^0000CD'Thanatos Tower'^000000.\nHow may I help you?",
         "pt-BR": "[Gatei]\nSaudações.\nEu sou 'Gatei Noom', responsável pelo controle de acesso da ^0000CD'Torre de Thanatos'^000000.\nComo posso ajudar?",
         "es-ES": "[Gatei]\nSaludos.\nSoy 'Gatei Noom', encargado del control de acceso de la ^0000CD'Torre de Thanatos'^000000.\n¿Cómo puedo ayudarle?"
     },
     "BFkAAQ": {
-        "ko-KR": "탑으로.",
         "en-US": "To the tower.",
         "pt-BR": "Quero entrar na Torre.",
         "es-ES": "Quiero entrar a la Torre."
     },
     "BVkAAQ": {
-        "ko-KR": "타나토스 타워요?",
         "en-US": "Thanatos Tower?",
         "pt-BR": "Torre de Thanatos?",
         "es-ES": "¿Torre de Thanatos?"
     },
     "BlkAAQ": {
-        "ko-KR": "안에 들어갈 수 있을까요?",
         "en-US": "Can I go inside?",
         "pt-BR": "Posso entrar?",
         "es-ES": "¿Puedo entrar?"
     },
     "B1kAAQ": {
-        "ko-KR": "필요 없어요.",
         "en-US": "I don't need anything.",
         "pt-BR": "Não preciso.",
         "es-ES": "No lo necesito."
     },
     "CFkAAQ": {
-        "ko-KR": "[가테]\n{0}님, 어서 오십시오.\n오늘도 탑에 오르시겠습니까? 입장료는 ^0000CD3000제니^000000입니다.",
         "en-US": "[Gate]\nWelcome, {0}.\nAre you climbing the tower again today? The entrance fee is ^0000CD3000 Zeny^000000.",
         "pt-BR": "[Gatei]\nBoas-vindas, {0}.\nVai entrar na torre? A taxa é de ^0000CD3.000 zenys^000000.",
         "es-ES": "[Gatei]\nBienvenido, {0}.\n¿Vas a entrar a la torre? La tarifa es de ^0000CD3.000 zenys^000000."
     },
     "CVkAAQ": {
-        "ko-KR": "들어간다.",
         "en-US": "Enter.",
         "pt-BR": "Entrar.",
         "es-ES": "Entrar."
     },
     "ClkAAQ": {
-        "ko-KR": "다음에.",
         "en-US": "Maybe next time.",
         "pt-BR": "Depois.",
         "es-ES": "Después."
     },
     "C1kAAQ": {
-        "ko-KR": "[가테]\n감사합니다.",
         "en-US": "[Gate]\nThank you.",
         "pt-BR": "[Gatei]\nObrigado.",
         "es-ES": "[Gatei]\nGracias."
     },
     "DFkAAQ": {
-        "ko-KR": "[가테]\n죄송합니다만, 소지금이 부족한 것 같습니다.\n입장료는 ^0000CD3000제니^000000입니다. 소지금을 확인해 보십시오.",
         "en-US": "[Gate]\nI am sorry, but it seems you do not have enough money.\nThe entrance fee is ^0000CD3000 Zeny^000000. Please check your funds.",
         "pt-BR": "[Gatei]\nSinto muito, mas parece que você não tem zenys suficientes.\nA taxa de entrada é de ^0000CD3.000 zenys^000000. Verifique seus zenys.",
         "es-ES": "[Gatei]\nLo siento, pero parece que no tienes suficientes zenys.\nLa tarifa de entrada es de ^0000CD3.000 zenys^000000. Revisa tus zenys."
     },
     "DVkAAQ": {
-        "ko-KR": "[가테]\n다른 일로 바쁘신가 보군요.\n그럼 차후에 방문 부탁 드립니다.",
         "en-US": "[Gate]\nIt seems you are busy with something else.\nThen please visit us another time.",
         "pt-BR": "[Gatei]\nParece que está fazendo outra coisa.\nEntão, por favor, volte depois.",
         "es-ES": "[Gatei]\nParece que estás haciendo otra cosa.\nEntonces, por favor, regresa después."
     },
     "DlkAAQ": {
-        "ko-KR": "[가테]\n타나토스 타워에 입장하시겠습니까?\n입장료는 ^FF00005000제니^000000입니다.",
         "en-US": "[Gate]\nWould you like to enter Thanatos Tower?\nThe entrance fee is ^FF00005000 Zeny^000000.",
         "pt-BR": "[Gatei]\nDeseja entrar na Torre de Thanatos?\nA taxa de entrada é de ^FF00005.000 zenys^000000.",
         "es-ES": "[Gatei]\n¿Deseas entrar a la Torre de Thanatos?\nLa tarifa de entrada es de ^FF00005.000 zenys^000000."
     },
     "D1kAAQ": {
-        "ko-KR": "다음에",
         "en-US": "Maybe next time",
         "pt-BR": "Vou depois.",
         "es-ES": "Iré después."
     },
     "EFkAAQ": {
-        "ko-KR": "[가테]\n감사합니다.\n분명 멋진 추억이 될 겁니다.",
         "en-US": "[Gate]\nThank you.\nI'm sure it will become a wonderful memory.",
         "pt-BR": "[Gatei]\nObrigado.\nCom certeza você vai adorar a visita.",
         "es-ES": "[Gatei]\nGracias.\nSeguro que te encantará la visita."
     },
     "EVkAAQ": {
-        "ko-KR": "[가테]\n죄송합니다만, 소지금이 부족한 것 같습니다.\n입장료는 ^0000CD5000제니^000000입니다. 소지금을 확인해 보십시오.",
         "en-US": "[Gate]\nI am sorry, but it seems you do not have enough money.\nThe entrance fee is ^0000CD5000 Zeny^000000. Please check your funds.",
         "pt-BR": "[Gatei]\nSinto muito, mas parece que você não tem zenys suficientes.\nA taxa de entrada é de ^0000CD5.000 zenys^000000. Verifique seus zenys.",
         "es-ES": "[Gatei]\nLo siento, pero parece que no tienes suficientes zenys.\nLa tarifa de entrada es de ^0000CD5.000 zenys^000000. Revisa tus zenys."
     },
     "ElkAAQ": {
-        "ko-KR": "[가테]\n알겠습니다. 차후에 이용 부탁 드립니다.",
         "en-US": "[Gate]\nUnderstood. Please use our service another time.",
         "pt-BR": "[Gatei]\nEntendido. Por favor, volte depois.",
         "es-ES": "[Gatei]\nEntendido. Por favor, regresa después."
     },
     "E1kAAQ": {
-        "ko-KR": "[가테]\n예. 제 뒤로 보이는 저 탑이 바로 '타나토스 타워'입니다.",
         "en-US": "[Gate]\nYes. That tower you see behind me is 'Thanatos Tower'.",
         "pt-BR": "[Gatei]\nSim. Aquela torre que está vendo atrás de mim é justamente a 'Torre de Thanatos'.",
         "es-ES": "[Gatei]\nSí. Esa torre que ves detrás de mí es precisamente la 'Torre de Thanatos'."
     },
     "FFkAAQ": {
-        "ko-KR": "[가테]\n오랜 기간 버려져 있던 황폐한 탑을 저희 '레켄베르'가 대대적으로 보수한 뒤 개방하여 현재는 이 지역의 관광명소로 자리잡게 되었습니다.",
         "en-US": "[Gate]\nAfter Rekenber carried out major repairs on this desolate tower that had long been abandoned and opened it to the public, it has now become a tourist attraction in this area.",
         "pt-BR": "[Gatei]\nDepois que nós, da 'Rekenber', restauramos em grande escala essa torre devastada que ficou abandonada por muito tempo e a abrimos ao público, ela se tornou uma atração turística desta região.",
         "es-ES": "[Gatei]\nDespués de que nosotros, de 'Rekenber', restauramos a gran escala esta torre devastada que estuvo abandonada por mucho tiempo y la abrimos al público, se convirtió en una atracción turística de esta región."
     },
     "FVkAAQ": {
-        "ko-KR": "[가테]\n처음 이 탑을 발견했을 당시 주변에 있던 한 석판에 적혀 있던 글 속의 영웅의 이름을 따와 '타나토스 타워'라는 명칭을 붙였습니다.",
         "en-US": "[Gate]\nWhen this tower was first discovered, its name, 'Thanatos Tower', was given after the name of a hero written on a stone tablet found nearby.",
         "pt-BR": "[Gatei]\nQuando essa torre foi descoberta pela primeira vez, demos a ela o nome de 'Torre de Thanatos', inspirado no nome do herói escrito em uma placa de pedra encontrada nas proximidades.",
         "es-ES": "[Gatei]\nCuando esta torre fue descubierta por primera vez, le dimos el nombre de 'Torre de Thanatos', inspirados en el nombre del héroe escrito en una piedra encontrada cerca."
     },
     "FlkAAQ": {
-        "ko-KR": "[가테]\n그 후로 꾸준한 개발작업을 진행하여 탑에 존재하던 몬스터들 중 1,2층에 존재하던 몬스터들을 대부분 퇴치하여 일반인들이 안전하게 돌아다닐 수 있는 수준의 공간으로 바꿔 개방하고 있습니다.",
         "en-US": "[Gate]\nSince then, development has steadily continued, and most of the monsters that were on the 1st and 2nd floors have been eliminated, allowing those areas to be opened as spaces safe enough for ordinary people to walk around.",
         "pt-BR": "[Gatei]\nDesde então, continuamos o trabalho de desenvolvimento e derrotamos a maior parte dos monstros que existiam no 1º e 2º andares, abrindo essas áreas em um nível de segurança suficiente para que pessoas comuns possam circular.",
         "es-ES": "[Gatei]\nDesde entonces, continuamos el trabajo de desarrollo y derrotamos a la mayoría de los monstruos que existían en el 1.º y 2.º piso, abriendo estas áreas con un nivel de seguridad suficiente para que la gente común pueda circular."
     },
     "F1kAAQ": {
-        "ko-KR": "[가테]\n3층 이상의 구역들은 아직 개발 중에 있으며 그에 따라 몬스터 퇴치에 협력해 주실 분들을 모집하고 있습니다.",
         "en-US": "[Gate]\nThe areas above the 3rd floor are still under development, and accordingly we are recruiting people willing to cooperate in exterminating monsters.",
         "pt-BR": "[Gatei]\nAs áreas acima do 3º andar ainda estão em desenvolvimento e, por isso, estamos recrutando pessoas que possam cooperar com a eliminação dos monstros.",
         "es-ES": "[Gatei]\nLas áreas por encima del 3.º piso aún están en desarrollo y, por eso, estamos reclutando personas que puedan cooperar con la eliminación de los monstruos."
     },
     "GFkAAQ": {
-        "ko-KR": "[가테]\n더 궁금한 사항이 있으시면 내부에 있는 안내원들에게 물어보시길 바랍니다.",
         "en-US": "[Gate]\nIf you have any further questions, please ask the guides inside.",
         "pt-BR": "[Gatei]\nSe tiver mais alguma dúvida, pergunte às guias lá dentro.",
         "es-ES": "[Gatei]\nSi tienes alguna otra duda, pregúntales a las guías de adentro."
     },
     "GVkAAQ": {
-        "ko-KR": "[가테]\n물론 입장하실 수 있습니다. 일반인들에게도 공개되어 있으니까요. 다만 아직 개발중인 곳이라 개발비용 및 관리비를 포함해 약간의 입장료를 받고 있습니다.",
         "en-US": "[Gate]\nOf course you may enter. It is open to the general public as well. However, since it is still under development, we charge a small entrance fee that includes development and maintenance costs.",
         "pt-BR": "[Gatei]\nClaro que pode entrar. Afinal, está aberto ao público em geral. No entanto, como ainda está em desenvolvimento, cobramos uma pequena taxa de entrada para cobrir os custos de desenvolvimento e manutenção.",
         "es-ES": "[Gatei]\nClaro que puedes entrar. Después de todo, está abierta al público en general. Sin embargo, como aún está en desarrollo, cobramos una pequeña tarifa de entrada para cubrir los costos de desarrollo y mantenimiento."
     },
     "GlkAAQ": {
-        "ko-KR": "[가테]\n^0000CD입장료^000000는 개인당 ^0000CD'5000제니'^000000입니다만, 3층 이상의 구역 개발을 위해 몬스터 퇴치에 협력해 주시는 분들에겐 감사의 의미로 할인 혜택을 드립니다.",
         "en-US": "[Gate]\nThe ^0000CDentrance fee^000000 is ^0000CD'5000 Zeny'^000000 per person, but we offer a discount as a token of our appreciation to those who cooperate in exterminating monsters for the development of the areas above the 3rd floor.",
         "pt-BR": "[Gatei]\nA ^0000CDtaxa de entrada^000000 é de ^0000CD'5.000 zenys'^000000 por pessoa, mas oferecemos um desconto, como forma de agradecimento, àqueles que cooperarem com a eliminação dos monstros para o desenvolvimento das áreas acima do 3º andar.",
         "es-ES": "[Gatei]\nLa ^0000CDtarifa de entrada^000000 es de ^0000CD'5.000 zenys'^000000 por persona, pero ofrecemos un descuento, como agradecimiento, a aquellos que cooperen con la eliminación de monstruos para el desarrollo de las áreas superiores al 3.º piso."
     },
     "G1kAAQ": {
-        "ko-KR": "몬스터 퇴치요?",
         "en-US": "Monster extermination?",
         "pt-BR": "Eliminar monstros?",
         "es-ES": "¿Eliminar monstruos?"
     },
     "HFkAAQ": {
-        "ko-KR": "[가테]\n개발이 완료되어 안전한 장소는 1,2층 뿐입니다. 3층 이상의 구역들은 아직 개발 중에 있으며 그에 따라 몬스터 퇴치에 협력해 주실 분들께만 개방\n저희와 계약하신 분들께 드리는 할인 혜택이지요",
         "en-US": "[Gate]\nOnly the 1st and 2nd floors have been fully developed and made safe. The areas above the 3rd floor are still under development, and accordingly are open only to those willing to cooperate in exterminating monsters.\nThis is the discount benefit we provide to those under contract with us.",
         "pt-BR": "[Gatei]\nSomente o 1º e o 2º andares são áreas seguras com o desenvolvimento concluído. As áreas acima do 3º andar ainda estão em desenvolvimento e, por isso, são abertas somente àqueles que cooperarem com a eliminação dos monstros\nÉ um benefício de desconto concedido àqueles que firmam contrato conosco.",
         "es-ES": "[Gatei]\nSolo el 1.º y 2.º piso son áreas seguras con el desarrollo completado. Las áreas por encima del 3.º piso aún están en desarrollo y, por eso, se abren solo a aquellos que cooperen con la eliminación de monstruos.\nEs un beneficio de descuento concedido a quienes firman un contrato con nosotros."
     },
     "HVkAAQ": {
-        "ko-KR": "모집 조건은요?",
         "en-US": "What are the recruitment requirements?",
         "pt-BR": "Quais as condições?",
         "es-ES": "¿Cuáles son las condiciones?"
     },
     "HlkAAQ": {
-        "ko-KR": "[가테]\n강력한 몬스터가 출몰하기 때문에 어느 정도 경험이 풍부한 분들 위주로 모집을 하고 있습니다.\n관심 있으시면 안내원에게 자세한 이야기를 들으시는 것도 좋겠지요.",
         "en-US": "[Gate]\nBecause powerful monsters appear there, we mainly recruit those with a certain amount of experience.\nIf you are interested, it would be a good idea to hear the details from a guide.",
         "pt-BR": "[Gatei]\nComo monstros poderosos aparecem por lá, recrutamos principalmente pessoas com bastante experiência.\nSe tiver interesse, seria bom ouvir os detalhes com uma das recepcionistas.",
         "es-ES": "[Gatei]\nComo allí aparecen monstruos poderosos, reclutamos principalmente a personas con mucha experiencia.\nSi estás interesado, sería bueno que escuches los detalles con una de las recepcionistas."
     },
     "H1kAAQ": {
-        "ko-KR": "[가테]\n그렇습니까?\n나중에라도 이 곳 '타나토스 타워'와 관련된 일이 있으시면 저를 찾아오시길 바랍니다.",
         "en-US": "[Gate]\nI see.\nIf you ever have any business related to 'Thanatos Tower' later on, please come find me.",
         "pt-BR": "[Gatei]\nÉ mesmo?\nSe no futuro tiver algum assunto relacionado a este lugar, 'Torre de Thanatos', venha me procurar.",
         "es-ES": "[Gatei]\n¿Es así?\nSi en el futuro tienes algún asunto relacionado con este lugar, la 'Torre de Thanatos', ven a buscarme."
     },
     "IFkAAQ": {
-        "ko-KR": "디체 라파",
         "en-US": "Dice Lapa",
         "pt-BR": "Recepcionista",
         "es-ES": "Recepcionista"
     },
     "IVkAAQ": {
-        "ko-KR": "[디체]\n안녕하십니까?\n레켄베르가 제안하는 새로운 모험과 탐험의 장소, '타나토스 타워'에 잘 오셨습니다.",
         "en-US": "[Dice]\nHello.\nWelcome to 'Thanatos Tower', a new place of adventure and exploration proposed by Rekenber.",
         "pt-BR": "[Ditze]\nSaudações.\nBoas-vindas à 'Torre de Thanatos', patrocinada pela Corporação Rekenber.",
         "es-ES": "[Ditze]\nSaludos.\nBienvenido a la 'Torre de Thanatos', patrocinada por la Corporación Rekenber."
     },
     "IlkAAQ": {
-        "ko-KR": "[디체]\n이전에 계약한 계약자 분이시군요? 계약을 다시 갱신해드리겠습니다. 타나토스 타워에서 즐거운 시간 보내세요.",
         "en-US": "[Dice]\nSo, you are a previously contracted contractor? I will renew your contract. Enjoy your time at Thanatos Tower.",
         "pt-BR": "[Ditze]\nEntão você é alguém que já havia firmado contrato antes? Vou renovar seu contrato. Aproveite seu tempo na Torre de Thanatos.",
         "es-ES": "[Ditze]\nEntonces, ¿eres alguien que ya había firmado contrato antes? Voy a renovar tu contrato. Disfruta tu tiempo en la Torre de Thanatos."
     },
     "I1kAAQ": {
-        "ko-KR": "무엇을 도와드릴까요?",
         "en-US": "How may I help you?",
         "pt-BR": "Como posso ajudar?",
         "es-ES": "¿Cómo puedo ayudar?"
     },
     "JFkAAQ": {
-        "ko-KR": "타나토스 타워에 대해.",
         "en-US": "About Thanatos Tower.",
         "pt-BR": "Sobre a Torre de Thanatos.",
         "es-ES": "Sobre la Torre de Thanatos."
     },
     "JVkAAQ": {
-        "ko-KR": "사람을 모은다고 들었는데요.",
         "en-US": "I heard you are recruiting people.",
         "pt-BR": "Ouvi dizer que estão recrutando pessoas.",
         "es-ES": "Escuché que están reclutando gente."
     },
     "JlkAAQ": {
-        "ko-KR": "아무것도 아닙니다.",
         "en-US": "It's nothing.",
         "pt-BR": "Nada não.",
         "es-ES": "Nada."
     },
     "J1kAAQ": {
-        "ko-KR": "[디체]\n타나토스 타워가 궁금하신 거군요.\n이 곳 '타나토스 타워'는 정확히 누가 언제 왜 세웠는지 그 기원을 알 수 없는 건축물입니다.",
         "en-US": "[Dice]\nSo you are curious about Thanatos Tower.\nThis place, 'Thanatos Tower', is a structure whose origin is unknown, with no one knowing exactly who built it, when, or why.",
         "pt-BR": "[Ditze]\nVocê quer saber sobre Torre de Thanatos?\nBem, a origem dessa torre e sua função é totalmente desconhecida para nós.",
         "es-ES": "[Ditze]\n¿Quieres saber sobre la Torre de Thanatos?\nBueno, el origen de esta torre y su función son totalmente desconocidos para nosotros."
     },
     "KFkAAQ": {
-        "ko-KR": "[디체]\n거기에 대해서 몇 가지 가설이 존재하는데 '1000년전의 전쟁 당시 마족이 필요에 의해 세웠다.', '어느 마법사의 연구소였다.', 어떤 영웅이 마왕을 죽이고 그 기념으로 세웠다.' 등등...",
         "en-US": "[Dice]\nThere are several theories about it, such as 'It was built by demons out of necessity during the war 1,000 years ago.', 'It was some wizard's laboratory.', or 'A hero built it in commemoration after slaying the Demon King.', and so on...",
         "pt-BR": "[Ditze]\nHá várias hipóteses, tais como: 'Construída pelos demônios durante a guerra de 1.000 anos', 'era objeto de pesquisa de algum Sábio', 'construída em homenagem ao herói que derrotou o Demônio Rei', e assim por diante...",
         "es-ES": "[Ditze]\nHay varias hipótesis, tales como: 'Construida por los demonios durante la guerra de 1,000 años', 'era objeto de investigación de algún Sabio', 'construida en honor al héroe que derrotó al Rey Demonio', y así sucesivamente..."
     },
     "KVkAAQ": {
-        "ko-KR": "[디체]\n하지만 정확한 기원은 아무도 모릅니다. 저희 레켄베르에서 오랜 기간에 거쳐 발굴과 연구를 계속하고 있지만, 아직 정확한 기원을 찾지 못했습니다.",
         "en-US": "[Dice]\nBut no one knows its exact origin. We at Rekenber have continued excavation and research for a long time, but have yet to discover its true origins.",
         "pt-BR": "[Ditze]\nTodavia, ninguém tem certeza. A Corporação Rekenber iniciou o processo de escavação e pesquisa a pouco tempo, por isso ainda não temos todas as respostas.",
         "es-ES": "[Ditze]\nSin embargo, nadie está seguro. La Corporación Rekenber inició el proceso de excavación e investigación hace poco tiempo, por eso aún no tenemos todas las respuestas."
     },
     "KlkAAQ": {
-        "ko-KR": "[디체]\n게다가 탑의 내부에서 출몰하고 있는 몬스터들과의 싸움으로 인해 많은 인원이 희생되어 연구에 난항을 겪고 있습니다.",
         "en-US": "[Dice]\nMoreover, many people have been sacrificed in battles against the monsters appearing inside the tower, making research difficult.",
         "pt-BR": "[Ditze]\nE para completar, há monstros em quase todos os andares da torre, dificultando o trabalho dos arqueólogos.",
         "es-ES": "[Ditze]\nY para completar, hay monstruos en casi todos los pisos de la torre, dificultando el trabajo de los arqueólogos."
     },
     "K1kAAQ": {
-        "ko-KR": "[디체]\n하지만 저희 레켄베르에서는 이 곳 '타나토스 타워'에 수많은 비밀이 있을 거라는 확신에, 그리고 그 비밀이 인류 발전에 큰 역할을 할 것이라는 판단 하에 희생을 무릅쓰고 발굴을 진행하였습니다.",
         "en-US": "[Dice]\nHowever, we at Rekenber were convinced that this place, 'Thanatos Tower', held numerous secrets, and judged that those secrets would play a major role in the advancement of humanity, so we proceeded with excavation despite the sacrifices.",
         "pt-BR": "[Ditze]\nA Corporação Rekenber acredita que a Torre guarda muitos segredos que a humanidade desconhece. Por isso, todo o sacrifício dos trabalhadores da torre não será em vão.",
         "es-ES": "[Ditze]\nLa Corporación Rekenber cree que la Torre guarda muchos secretos que la humanidad desconoce. Por eso, todo el sacrificio de los trabajadores de la torre no será en vano."
     },
     "LFkAAQ": {
-        "ko-KR": "[디체]\n그 결과 전체 12층 중 1층과 2층의 개발을 완료하였고, 3층과 4층의 추가 개발에 박차를 가하고 있습니다.",
         "en-US": "[Dice]\nAs a result, development of the 1st and 2nd floors out of the total 12 floors has been completed, and we are accelerating further development of the 3rd and 4th floors.",
         "pt-BR": "[Ditze]\n2 de 12 andares já foram restaurados. O 3º e o 4º andar estão em fase de desenvolvimento e reestruturação.",
         "es-ES": "[Ditze]\n2 de 12 pisos ya han sido restaurados. El 3.º y 4.º piso están en fase de desarrollo y reestructuración."
     },
     "LVkAAQ": {
-        "ko-KR": "[디체]\n강력한 몬스터들로 인해 난항을 겪고 있긴 하지만 많은 분들이 몬스터 퇴치에 지원해 주셔서 많은 성과를 올리고 있습니다.",
         "en-US": "[Dice]\nAlthough powerful monsters have made things difficult, many people have volunteered for monster extermination, and we have achieved a great deal.",
         "pt-BR": "[Ditze]\nApesar das dificuldades, vários aventureiros estão se candidatando para ajudar. Ficamos agradecidos.",
         "es-ES": "[Ditze]\nA pesar de las dificultades, varios aventureros se están postulando para ayudar. Estamos agradecidos."
     },
     "LlkAAQ": {
-        "ko-KR": "[디체]\n이러한 상태라면 오래지 않아 3층과 4층의 개발도 완료할 듯 합니다.",
         "en-US": "[Dice]\nAt this rate, development of the 3rd and 4th floors should be completed before long.",
         "pt-BR": "[Ditze]\nSe continuar assim, a restauração do 3º e 4º andar não deve demorar.",
         "es-ES": "[Ditze]\nSi sigue así, la restauración del 3.º y 4.º piso no debería demorar."
     },
     "L1kAAQ": {
-        "ko-KR": "몬스터요?",
         "en-US": "Monsters?",
         "pt-BR": "Monstros na Torre?",
         "es-ES": "¿Monstruos en la Torre?"
     },
     "MFkAAQ": {
-        "ko-KR": "몬스터 퇴치?",
         "en-US": "Monster extermination?",
         "pt-BR": "Como posso ajudar?",
         "es-ES": "¿Cómo puedo ayudar?"
     },
     "MVkAAQ": {
-        "ko-KR": ".........",
         "en-US": ".........",
         "pt-BR": ".........",
         "es-ES": "........."
     },
     "MlkAAQ": {
-        "ko-KR": "[디체]\n예. 저희가 이 곳을 개발하기 시작한 직후, 등장하기 시작했습니다.",
         "en-US": "[Dice]\nYes. They began appearing shortly after we started developing this place.",
         "pt-BR": "[Ditze]\nIsso. Quando começamos a restauração da torre, apareceram vários monstros.",
         "es-ES": "[Ditze]\nSí. Cuando comenzamos la restauración de la torre, aparecieron varios monstruos."
     },
     "M1kAAQ": {
-        "ko-KR": "[디체]\n특이한 점이라면 그들이 어디에서 나오는지 알 수 없다는 점이고.\n그리고 그들이 마치 천사와도 같은 형상을 하고 있다는 것입니다.",
         "en-US": "[Dice]\nWhat is strange is that we do not know where they come from.\nAnd they have forms that resemble angels.",
         "pt-BR": "[Ditze]\nO mais estranho é que não sabemos de onde eles vêm.\nE também que eles têm uma aparência semelhante à de anjos.",
         "es-ES": "[Ditze]\nLo más extraño es que no sabemos de dónde vienen.\nY también que tienen una apariencia similar a la de ángeles."
     },
     "NFkAAQ": {
-        "ko-KR": "[디체]\n그래서 그들을 본 누군가는 그들이 신의 사자라고도 하지만, 신의 사자가 우리 인간들을 죽일 이유는 없지 않겠습니까?",
         "en-US": "[Dice]\nSo some who have seen them say they are messengers of God, but why would God's messengers kill us humans?",
         "pt-BR": "[Ditze]\nHouve quem dissesse que eram mensageiros divinos, mas não haveria motivo para mensageiros divinos matarem nós, humanos, não é?",
         "es-ES": "[Ditze]\nHubo quien dijo que eran mensajeros divinos, pero no habría motivo para que mensajeros divinos nos mataran, ¿no?"
     },
     "NVkAAQ": {
-        "ko-KR": "[디체]\n그래서 저희가 유노의 세이지 학회에 의뢰해 조사해본 결과 그들은 단지 천사의 모습을 하고 있는 몬스터에 불과하다는 사실을 알아냈습니다.",
         "en-US": "[Dice]\nSo we asked the Sage Association of Juno to investigate, and found out that they are merely monsters taking the shape of angels.",
         "pt-BR": "[Ditze]\nPor isso, pedimos uma investigação à Associação de Sábios de Juno e descobrimos que eles não passam de monstros com aparência angelical.",
         "es-ES": "[Ditze]\nPor eso, pedimos una investigación a la Asociación de Sabios de Juno y descubrimos que no son más que monstruos con apariencia angelical."
     },
     "NlkAAQ": {
-        "ko-KR": "[디체]\n그래서 저희는 보다 강력히 그들을 물리치기 시작했고 지금까지 그들과의 싸움이 현재까지 이어져 온 것입니다.",
         "en-US": "[Dice]\nThus, we began fighting them more forcefully, and that battle has continued to this day.",
         "pt-BR": "[Ditze]\nEntão, já que não eram anjos de verdade, optamos pedir aos aventureiros que derrotassem esses monstros.",
         "es-ES": "[Ditze]\nEntonces, como no eran ángeles de verdad, optamos por pedir a los aventureros que derrotaran a esos monstruos."
     },
     "N1kAAQ": {
-        "ko-KR": "[디체]\n입구에 있는 안내원으로부터 들으셨는지는 모르겠습니다만, 저희 레켄베르에서는 3층과 4층 그리고 그 이상 층들의 발굴 및 개발을 위해 계약직의 사람들을 모으고 있습니다.",
         "en-US": "[Dice]\nI don't know whether you heard it from the guide at the entrance, but we at Rekenber are recruiting contract workers for the excavation and development of the 3rd and 4th floors and the floors above them.",
         "pt-BR": "[Ditze]\nBom, a Rekenber está  contratando aventureiros para ajudar na restauração do 3º e 4º andar da Torre. Como você deve saber, o contrato é temporário.",
         "es-ES": "[Ditze]\nBueno, Rekenber está contratando aventureros para ayudar en la restauración del 3.º y 4.º piso de la Torre. Como debes saber, el contrato es temporal."
     },
     "OFkAAQ": {
-        "ko-KR": "[디체]\n일종의 용병입니다. 저희와 계약을 하시는 분들에겐 일반인들에게 제한되어있는 3층 이상의 층의 출입권한을 드립니다.",
         "en-US": "[Dice]\nThey are a kind of mercenary. Those who sign a contract with us will be granted access to floors above the 3rd floor, which are restricted to ordinary people.",
         "pt-BR": "[Ditze]\nQuem assina o contrato tem acesso aos andares 3 e 4 que atualmente estão restritos para os turistas e curiosos.",
         "es-ES": "[Ditze]\nQuien firma el contrato tiene acceso a los pisos 3 y 4 que actualmente están restringidos para turistas y curiosos."
     },
     "OVkAAQ": {
-        "ko-KR": "[디체]\n또한 해당 몬스터들을 처리했다는 증거를 가져오시면 그에 해당하는 보상을 지급하고 있습니다.",
         "en-US": "[Dice]\nAlso, if you bring us proof that you have dealt with those monsters, we provide rewards accordingly.",
         "pt-BR": "[Ditze]\nO pagamento só será feito se você trouxer provas de que lidou com os monstros.",
         "es-ES": "[Ditze]\nEl pago solo se hará si traes pruebas de que te enfrentaste a los monstruos."
     },
     "OlkAAQ": {
-        "ko-KR": "[디체]\n혹시 지원하실 생각이 있으시면 저를 통해 지원해 주시길 바랍니다.",
         "en-US": "[Dice]\nIf you are thinking of applying, please apply through me.",
         "pt-BR": "[Ditze]\nSe estiver pensando em se candidatar, faça sua inscrição comigo.",
         "es-ES": "[Ditze]\nSi estás pensando en postularte, haz tu inscripción conmigo."
     },
     "O1kAAQ": {
-        "ko-KR": "[디체]\n이 상층의 개발은 많은 인원을 필요로 하기 때문에, 다른 지원자들도 받고 있습니다. 혹시 생각이 있으시면 지원해 보시는 건 어떻겠습니까?",
         "en-US": "[Dice]\nThe development of these upper floors requires many people, so we are accepting other applicants as well. If you are interested, why not apply?",
         "pt-BR": "[Ditze]\nRestaurar andares superiores necessita de muito esforço e trabalhadores fortes. Se quer acessar os andares, por que não trabalha conosco?",
         "es-ES": "[Ditze]\nRestaurar pisos superiores requiere mucho esfuerzo y trabajadores fuertes. Si quieres acceder a los pisos, ¿por qué no trabajas con nosotros?"
     },
     "PFkAAQ": {
-        "ko-KR": "다음에요.",
         "en-US": "Maybe next time.",
         "pt-BR": "Fica pra próxima.",
         "es-ES": "Déjalo para la próxima."
     },
     "PVkAAQ": {
-        "ko-KR": "지금 접수하겠습니다.",
         "en-US": "I will apply now.",
         "pt-BR": "Aceito trabalhar.",
         "es-ES": "Acepto trabajar."
     },
     "PlkAAQ": {
-        "ko-KR": "[디체]\n언제나 접수 창고는 열려있으니 생각이 바뀌시면 다시 찾아오시길 바랍니다.",
         "en-US": "[Dice]\nThe registration desk is always open, so if you change your mind, please come see us again.",
         "pt-BR": "[Ditze]\nA inscrição está sempre aberta, então, se mudar de ideia, volte a me procurar.",
         "es-ES": "[Ditze]\nLa inscripción siempre está abierta, así que si cambias de opinión, vuelve a buscarme."
     },
     "P1kAAQ": {
-        "ko-KR": "[디체]\n지원 감사합니다! 그럼 이 서류를 작성해 주시겠습니까?\n간단한 서약서 같은 것입니다.",
         "en-US": "[Dice]\nThank you for applying! Then, would you fill out this document?\nIt is like a simple pledge.",
         "pt-BR": "[Ditze]\nOh, obrigada. Por favor, poderia assinar o formulário?\nÉ o documento de contratação.",
         "es-ES": "[Ditze]\nOh, gracias. ¿Podrías firmar el formulario?\nEs el documento de contratación."
     },
     "QFkAAQ": {
-        "ko-KR": "[디체]\n아.. 성함이.....\n{0}님, 맞으시죠?",
         "en-US": "[Dice]\nAh.. your name.....\n{0}, correct?",
         "pt-BR": "[Ditze]\nHm... o seu nome é.....\n{0}, certo?",
         "es-ES": "[Ditze]\nHm... tu nombre es.....\n{0}, ¿cierto?"
     },
     "QVkAAQ": {
-        "ko-KR": "예",
         "en-US": "Yes",
         "pt-BR": "Sim.",
         "es-ES": "Sí."
     },
     "QlkAAQ": {
-        "ko-KR": "[디체]\n그럼 서류를 읽어 보시고 서명해주세요.",
         "en-US": "[Dice]\nThen please read the document and sign it.",
         "pt-BR": "[Ditze]\nEntão, por favor, leia o documento e assine.",
         "es-ES": "[Ditze]\nEntonces, por favor, lee el documento y fírmalo."
     },
     "Q1kAAQ": {
-        "ko-KR": "그녀는 당신에게 작은 글씨가 빽빽히 적혀있는 종이를 건내 주었다.",
         "en-US": "She handed you a sheet of paper densely filled with tiny letters.",
         "pt-BR": "*Você começa a ler o contrato.*",
         "es-ES": "*Comienzas a leer el contrato.*"
     },
     "RFkAAQ": {
-        "ko-KR": "-계약서-\n1. 이 계약서는 레켄베르(이하 '가')와 {0}(이하 '나') 사이의 계약으로서 효력을 발휘한다.\n1-1. 이 계약의 명칭은 '가'와 '나'간의 용병계약이라 칭한다.",
         "en-US": "-Contract-\n1. This contract shall take effect as a contract between Rekenber (hereinafter 'A') and {0} (hereinafter 'B').\n1-1. The name of this contract shall be referred to as a mercenary contract between 'A' and 'B'.",
         "pt-BR": "'- Contrato de Trabalho -\n1. Vínculo empregatício de {0}.\n1-1. Contatante: Corporação Rekenber.",
         "es-ES": "'- Contrato de Trabajo -\n1. Vínculo laboral de {0}.\n1-1. Contratante: Corporación Rekenber."
     },
     "RVkAAQ": {
-        "ko-KR": "2. 계약의 효력은 양측이 계약서에 서명함으로써 발생한다.",
         "en-US": "2. This contract shall take effect when both parties sign the contract.",
         "pt-BR": "2. Contrato válido após assinatura.",
         "es-ES": "2. Contrato válido después de la firma."
     },
     "RlkAAQ": {
-        "ko-KR": "3. 임무에 의한 성과는 '가'에 의해 통보되는 증거로서 그 성과를 확인한다.\n3-1. 증거는 다음과 같다.",
         "en-US": "3. Results achieved through missions shall be verified by evidence notified by 'A'.\n3-1. The evidence is as follows.",
         "pt-BR": "3. Do pagamento.\n3-1. Feito após provar que trabalhou.",
         "es-ES": "3. Del pago.\n3-1. Se realiza después de comprobar que trabajaste."
     },
     "R1kAAQ": {
-        "ko-KR": "........\n...........\n..............",
         "en-US": "........\n...........\n..............",
         "pt-BR": "........\n...........\n..............",
         "es-ES": "........\n...........\n.............."
     },
     "SFkAAQ": {
-        "ko-KR": "13. 이 계약서의 효력은 타나토스 타워에서만 발생하며 기타 지역에서는 그 효력을 발휘하지 않는다.\n...................\n...추가로 '가'는 '나'에게 타나토스 타워 출입에 필요한 5000제니에 대한 비용 할인을 약속한다. 할인 후 입장료는 3000제니로 상시 적용한다.",
         "en-US": "13. This contract shall take effect only within Thanatos Tower and shall have no effect in any other area.\n...................\n...Additionally, 'A' promises 'B' a discount on the 5000 Zeny required for access to Thanatos Tower. After the discount, the entrance fee shall be permanently applied as 3000 Zeny.",
         "pt-BR": "13. Válido somente na Torre de Thanatos.\n...................\n... desconto na entrada de 5.000 para 3.000 zeny.",
         "es-ES": "13. Válido solo en la Torre de Thanatos.\n...................\n... descuento en la entrada de 5,000 a 3,000 zeny."
     },
     "SVkAAQ": {
-        "ko-KR": ".......\n............\n       레켄베르\n       {0}",
         "en-US": ".......\n............\n       Rekenber\n       {0}",
         "pt-BR": ".......\n............\n       Rekenber\n       {0}",
         "es-ES": ".......\n............\n       Rekenber\n       {0}"
     },
     "SlkAAQ": {
-        "ko-KR": "서명한다.",
         "en-US": "Sign it.",
         "pt-BR": "Assinar.",
         "es-ES": "Firmar."
     },
     "S1kAAQ": {
-        "ko-KR": "서명하지 않는다.",
         "en-US": "Do not sign it.",
         "pt-BR": "Não assinar.",
         "es-ES": "No firmar."
     },
     "TFkAAQ": {
-        "ko-KR": "당신은 같은 내용이 적힌 두 장의 계약서에 서명했다.",
         "en-US": "You signed two copies of the contract bearing the same contents.",
         "pt-BR": "Você assinou as duas cópias do contrato de trabalho.",
         "es-ES": "Firmaste las dos copias del contrato de trabajo."
     },
     "TVkAAQ": {
-        "ko-KR": "[디체]\n감사합니다.\n이것으로 저희와의 용병 계약이 체결되었습니다.",
         "en-US": "[Dice]\nThank you.\nWith this, our mercenary contract has been concluded.",
         "pt-BR": "[Ditze]\nObrigada.\nAgora você trabalha para a Corporação Rekenber.",
         "es-ES": "[Ditze]\nGracias.\nAhora trabajas para la Corporación Rekenber."
     },
     "TlkAAQ": {
-        "ko-KR": "[디체]\n이 계약서의 효력은 이 곳, 타나토스 타워에서만 효력을 발휘하니 걱정하지 않으셔도 됩니다.",
         "en-US": "[Dice]\nThis contract is effective only here, in Thanatos Tower, so you need not worry.",
         "pt-BR": "[Ditze]\nComo você já sabe, o contrato só é válido dentro da Torre de Thanatos.",
         "es-ES": "[Ditze]\nComo ya sabes, el contrato solo es válido dentro de la Torre de Thanatos."
     },
     "T1kAAQ": {
-        "ko-KR": "[디체]\n자세한 사항은 계약서에 쓰여있는 대로이며 3층 출입은 2층 안내원이 맡고 있으니 안내를 받으시면 됩니다.",
         "en-US": "[Dice]\nThe details are as written in the contract, and the guide on the 2nd floor handles access to the 3rd floor, so please receive guidance there.",
         "pt-BR": "[Ditze]\nOs detalhes estão conforme escritos no contrato, e o acesso ao 3º andar é feito pelo Porteiro do 2º andar, então receba as instruções com ele.",
         "es-ES": "[Ditze]\nLos detalles están según lo escrito en el contrato, y el acceso al 3.º piso es por el Portero del 2.º piso, así que recibe las instrucciones con él."
     },
     "UFkAAQ": {
-        "ko-KR": "[디체]\n그리고 그에 관한 자세한 설명은 2층 안내원이 해 드릴겁니다. 그럼 좋은 성과 거두시길 바랍니다.",
         "en-US": "[Dice]\nAnd the 2nd floor guide will explain the details. Then, I wish you good results.",
         "pt-BR": "[Ditze]\nE o Porteiro do 2º andar lhe dará uma explicação mais detalhada sobre isso. Então, desejo sucesso.",
         "es-ES": "[Ditze]\nY el Portero del 2.º piso te dará una explicación más detallada sobre esto. Así que te deseo éxito."
     },
     "UVkAAQ": {
-        "ko-KR": "[디체]\n어라....\n서명하지 않으시는 건가요?\n음...뭔가 마음에 안 드시는 부분이 있으신가 보군요.",
         "en-US": "[Dice]\nHuh....\nAre you not going to sign?\nHmm... It seems there is something you do not like.",
         "pt-BR": "[Ditze]\nUé....\nNão vai assinar?\nBem... imagino que viu alguma cláusula que não concorda.",
         "es-ES": "[Ditze]\nVaya....\n¿No vas a firmar?\nBueno... supongo que viste alguna cláusula con la que no estás de acuerdo."
     },
     "UlkAAQ": {
-        "ko-KR": "[디체]\n그럼 어쩔 수 없죠.\n혹시라도 생각이 바뀌시면 다시 찾아와 주시길 바랍니다.",
         "en-US": "[Dice]\nThen it cannot be helped.\nIf you change your mind, please come visit us again.",
         "pt-BR": "[Ditze]\nEntão não há o que fazer.\nSe mudar de ideia, por favor, volte a me procurar.",
         "es-ES": "[Ditze]\nEntonces no hay nada que hacer.\nSi cambias de opinión, por favor, vuelve a buscarme."
     },
     "U1kAAQ": {
-        "ko-KR": "[디체]\n'타나토스 타워' 내부 안내요원 '디체 라파'였습니다.\n좋은 시간 보내십시오.",
         "en-US": "[Dice]\nThis was 'Dice Lapa', an information staff member inside 'Thanatos Tower'.\nPlease enjoy your time.",
         "pt-BR": "[Ditze]\nEu sou 'Ditze Lappa', recepcionista da 'Torre de Thanatos'.\nAproveite seu tempo.",
         "es-ES": "[Ditze]\nSoy 'Ditze Lappa', recepcionista de la 'Torre de Thanatos'.\nDisfruta tu estancia."
     },
     "VFkAAQ": {
-        "ko-KR": "[디체]\n보다 자세한 사항들은 2층의 안내원과 제 옆의 안내원이 해 드릴 겁니다.\n감사합니다.",
         "en-US": "[Dice]\nFor more detailed information, the guide on the 2nd floor and the guide beside me will assist you.\nThank you.",
         "pt-BR": "[Ditze]\nPara mais informações, vá até o 2º andar e fale com o funcionário encarregado.\nObrigada.",
         "es-ES": "[Ditze]\nPara más información, ve al 2.º piso y habla con el empleado encargado.\nGracias."
     },
     "VVkAAQ": {
-        "ko-KR": "리에 크니지에",
         "en-US": "Lie Knizier",
         "pt-BR": "Ascensorista",
         "es-ES": "Ascensorista"
     },
     "VlkAAQ": {
-        "ko-KR": "엘리베이터로 상층까지 편안하게 가세요!",
         "en-US": "Ride comfortably to the upper floors by elevator!",
         "pt-BR": "Elevador subindo!",
         "es-ES": "¡Ascensor subiendo!"
     },
     "V1kAAQ": {
-        "ko-KR": "[리에]\n타나토스 타워에 좀 더 편하게 오르고 싶으시다면 엘리베이터를 이용하세요!\n이용 요금 단돈 ^0000CD1000제니^000000에 원하는 층으로 바로 모십니다.",
         "en-US": "[Lie]\nIf you would like to climb Thanatos Tower more conveniently, use the elevator!\nFor the low price of just ^0000CD1000 Zeny^000000, we will take you directly to the floor you want.",
         "pt-BR": "[Liei Knizier]\nQue tal usar o elevador para alcançar os andares mais altos?\nEste serviço custa ^0000CD1.000 zenys^000000, e você irá ao andar desejado.",
         "es-ES": "[Liei Knizier]\n¿Qué tal usar el ascensor para alcanzar los pisos más altos?\nEste servicio cuesta ^0000CD1,000 zenys^000000, y te llevará al piso deseado."
     },
     "WFkAAQ": {
-        "ko-KR": "다음에 이용할게요.",
         "en-US": "I'll use it next time.",
         "pt-BR": "Agora não.",
         "es-ES": "Ahora no."
     },
     "WVkAAQ": {
-        "ko-KR": "2층으로",
         "en-US": "To the 2nd floor",
         "pt-BR": "Para o 2º andar",
         "es-ES": "Al 2.º piso"
     },
     "WlkAAQ": {
-        "ko-KR": "3층으로",
         "en-US": "To the 3rd floor",
         "pt-BR": "Para o 3º andar",
         "es-ES": "Al 3.º piso"
     },
     "W1kAAQ": {
-        "ko-KR": "4층으로",
         "en-US": "To the 4th floor",
         "pt-BR": "Para o 4º andar",
         "es-ES": "Al 4.º piso"
     },
     "XFkAAQ": {
-        "ko-KR": "5층으로",
         "en-US": "To the 5th floor",
         "pt-BR": "Para o 5º andar",
         "es-ES": "Al 5.º piso"
     },
     "XVkAAQ": {
-        "ko-KR": "6층으로",
         "en-US": "To the 6th floor",
         "pt-BR": "Para o 6º andar",
         "es-ES": "Al 6.º piso"
     },
     "XlkAAQ": {
-        "ko-KR": "7층으로",
         "en-US": "To the 7th floor",
         "pt-BR": "Para o 7º andar",
         "es-ES": "Al 7.º piso"
     },
     "X1kAAQ": {
-        "ko-KR": "8층으로",
         "en-US": "To the 8th floor",
         "pt-BR": "Para o 8º andar",
         "es-ES": "Al 8.º piso"
     },
     "YFkAAQ": {
-        "ko-KR": "9층으로",
         "en-US": "To the 9th floor",
         "pt-BR": "Para o 9º andar",
         "es-ES": "Al 9.º piso"
     },
     "YVkAAQ": {
-        "ko-KR": "10층으로",
         "en-US": "To the 10th floor",
         "pt-BR": "Para o 10º andar",
         "es-ES": "Al 10.º piso"
     },
     "YlkAAQ": {
-        "ko-KR": "11층으로",
         "en-US": "To the 11th floor",
         "pt-BR": "Para o 11º andar",
         "es-ES": "Al 11.º piso"
     },
     "Y1kAAQ": {
-        "ko-KR": "12층으로",
         "en-US": "To the 12th floor",
         "pt-BR": "Para o 12º andar",
         "es-ES": "Al 12.º piso"
     },
     "ZFkAAQ": {
-        "ko-KR": "[리에]\n에- 걸어서 올라가시려고요? 그것도 나쁘지 않죠! 다음에 이용해주세요!",
         "en-US": "[Lie]\nEh- You're going to walk up? That's not bad either! Please use us next time!",
         "pt-BR": "[Liei Knizier]\nHã... vai subir a pé? Isso também não é uma má ideia! Faz bem pra saúde!",
         "es-ES": "[Liei Knizier]\nHmm... ¿vas a subir caminando? ¡Tampoco es mala idea! ¡Hace bien a la salud!"
     },
     "ZVkAAQ": {
-        "ko-KR": "[리에]\n{0}층에 가시는 것 맞으신가요?",
         "en-US": "[Lie]\nYou are going to the {0} floor, correct?",
         "pt-BR": "[Liei Knizier]\nDeseja ir ao {0}º andar?",
         "es-ES": "[Liei Knizier]\n¿Deseas ir al {0}º piso?"
     },
     "ZlkAAQ": {
-        "ko-KR": "네.",
         "en-US": "Yes.",
         "pt-BR": "Sim.",
         "es-ES": "Sí."
     },
     "Z1kAAQ": {
-        "ko-KR": "아니오!",
         "en-US": "No!",
         "pt-BR": "Não!",
         "es-ES": "¡No!"
     },
     "aFkAAQ": {
-        "ko-KR": "[리에]\n원하시는 층을 다시 확인하시고 이용해주세요.",
         "en-US": "[Lie]\nPlease check the floor you want again before using it.",
         "pt-BR": "[Liei Knizier]\nPor favor, confirme o andar desejado antes de usar.",
         "es-ES": "[Liei Knizier]\nPor favor, confirma el piso deseado antes de usarlo."
     },
     "aVkAAQ": {
-        "ko-KR": "[리에]\n그렇지만 소지금이 부족하신데요? 이용 요금은 ^0000CD1000제니^000000예요! 소지금을 확인한 후에 이용해주세요!",
         "en-US": "[Lie]\nBut you don't seem to have enough money? The fee is ^0000CD1000 Zeny^000000! Please check your funds before using it!",
         "pt-BR": "[Liei Knizier]\nMas você não tem zenys suficientes! A taxa é de ^0000CD1.000 zenys^000000! Verifique seus zenys antes de usar!",
         "es-ES": "[Liei Knizier]\n¡Pero no tienes suficientes zenys! ¡La tarifa es de ^0000CD1,000 zenys^000000! ¡Revisa tus zenys antes de usarlo!"
     },
     "alkAAQ": {
-        "ko-KR": "[리에]\n이용해주셔서 감사합니다!",
         "en-US": "[Lie]\nThank you for using our service!",
         "pt-BR": "[Liei Knizier]\nObrigada por usar nossos serviços!",
         "es-ES": "[Liei Knizier]\n¡Gracias por usar nuestros servicios!"
     },
     "a1kAAQ": {
-        "ko-KR": "[리에]\n어... 잠시만요! 상층부는 강력한 몬스터가 출현하기 때문에 입장 제한을 두고 있어요. 다음에 다시 이용해주세요!",
         "en-US": "[Lie]\nUh... wait a moment! Powerful monsters appear in the upper floors, so entry is restricted. Please use it another time!",
         "pt-BR": "[Liei Knizier]\nAh... só um momento! Os andares superiores têm restrição de entrada porque monstros poderosos aparecem por lá. Por favor, volte depois!",
         "es-ES": "[Liei Knizier]\nAh... ¡un momento! Los pisos superiores tienen restricción de entrada porque aparecen monstruos poderosos. ¡Por favor, regresa después!"
     },
     "bFkAAQ": {
-        "ko-KR": "^4D4DFF타나토스 타워 상층부 권장 입장 레벨은 95 이상입니다.^000000",
         "en-US": "^4D4DFFThe recommended entry level for the upper floors of Thanatos Tower is 95 or higher.^000000",
         "pt-BR": "^4D4DFFApenas no nível de base 95 ou mais.^000000",
         "es-ES": "^4D4DFFSolo nivel base 95 o más.^000000"
     },
     "bVkAAQ": {
-        "ko-KR": "[리에]\n어... 잠시만요! 최상층부는 강력한 몬스터가 출현하기 때문에 입장 제한을 두고 있어요. 다음에 다시 이용해주세요!",
         "en-US": "[Lie]\nUh... wait a moment! Powerful monsters appear in the topmost floors, so entry is restricted. Please use it another time!",
         "pt-BR": "[Liei Knizier]\nAh... só um momento! A parte mais alta da torre tem restrição de entrada porque monstros poderosos aparecem por lá. Por favor, volte depois!",
         "es-ES": "[Liei Knizier]\nAh... ¡un momento! La parte más alta de la torre tiene restricción de entrada porque aparecen monstruos poderosos. ¡Por favor, regresa después!"
     },
     "blkAAQ": {
-        "ko-KR": "^4D4DFF타나토스 타워 상층부 권장 입장 레벨은 180 이상입니다.^000000",
         "en-US": "^4D4DFFThe recommended entry level for the upper floors of Thanatos Tower is 180 or higher.^000000",
         "pt-BR": "^4D4DFFApenas no nível de base 180 ou mais.^000000",
         "es-ES": "^4D4DFFSolo nivel base 180 o más.^000000"
     },
     "b1kAAQ": {
-        "ko-KR": "[리에]\n풀리지 않는 미스터리! 타나토스 타워에 오신 것을 환영합니다!\n타나토스 타워에 대한 궁금증이 있으시다면 옆의 안내원에게 안내를 받으세요!",
         "en-US": "[Lie]\nWelcome to the unsolved mystery, Thanatos Tower!\nIf you have questions about Thanatos Tower, please receive guidance from the guide next to me!",
         "pt-BR": "[Liei Knizier]\nBoas-vindas à Torre de Thanatos!\nSe tiver curiosidade sobre o local, peça informações à Recepcionista ao lado!",
         "es-ES": "[Liei Knizier]\n¡Bienvenido a la Torre de Thanatos!\nSi tienes curiosidad sobre el lugar, ¡pide información a la Recepcionista de al lado!"
     },
     "cFkAAQ": {
-        "ko-KR": "블레드 콘시드",
         "en-US": "Blade Conceed",
         "pt-BR": "Guia da Entrada",
         "es-ES": "Guía de la Entrada"
     },
     "cVkAAQ": {
-        "ko-KR": "[블레드]\n이 곳은 3층으로 통하는 통로입니다.\n저희와 계약을 맺고 활동하시는 분들만 출입이 가능합니다. 이전에 계약한 계약자 분이시라면 새로 계약을 갱신하고 오시기 바랍니다.",
         "en-US": "[Blade]\nThis is the passage leading to the 3rd floor.\nOnly those who have signed a contract with us and are active may enter. If you are a previously contracted contractor, please renew your contract first.",
         "pt-BR": "[Burled]\nEssa é a entrada do 3º andar.\nApenas funcionários têm permissão para entrar.",
         "es-ES": "[Burled]\nEsta es la entrada del 3.º piso.\nSolo los empleados tienen permiso para entrar."
     },
     "clkAAQ": {
-        "ko-KR": "[블레드]\n자세한 사항은 아래층의 안내원을 이용해주시길 바랍니다.",
         "en-US": "[Blade]\nFor details, please use the guide on the lower floor.",
         "pt-BR": "[Burled]\nPara mais informações, fale com a Recepcionista no térreo.",
         "es-ES": "[Burled]\nPara más información, habla con la Recepcionista en la planta baja."
     },
     "c1kAAQ": {
-        "ko-KR": "[블레드]\n아주 오래 전에 이곳을 다녀가신 모양이군요? 그간 많은 변화가 있었습니다. 아마도 갖고 계신 정보와 기억, 모두 소용이 없을 겁니다.",
         "en-US": "[Blade]\nIt seems you visited this place a very long time ago? A lot has changed since then. The information and memories you have now will probably be of no use.",
         "pt-BR": "[Burled]\nParece que você visitou este lugar há muito tempo, não é? Muita coisa mudou desde então. Provavelmente, todas as informações e lembranças que você tem não servirão mais.",
         "es-ES": "[Burled]\nParece que visitaste este lugar hace mucho tiempo, ¿no es así? Muchas cosas han cambiado desde entonces. Probablemente, toda la información y recuerdos que tienes ya no sirvan."
     },
     "dFkAAQ": {
-        "ko-KR": "[블레드]\n기록을 깨끗이 정리를 해드릴테니 다시 한 번 조사를 부탁드립니다.",
         "en-US": "[Blade]\nI will clear up the records for you, so please investigate once again.",
         "pt-BR": "[Burled]\nVou limpar seus registros, então peço que faça a missão novamente.",
         "es-ES": "[Burled]\nVoy a borrar tus registros, así que te pido que hagas la misión nuevamente."
     },
     "dVkAAQ": {
-        "ko-KR": "[블레드]\n이 곳은 3층으로 통하는 통로입니다. 저희와 계약을 맺고 활동하시는 분들만 출입이 가능합니다.\n무엇을 도와드릴까요?",
         "en-US": "[Blade]\nThis is the passage leading to the 3rd floor. Only those who have signed a contract with us and are active may enter.\nHow may I help you?",
         "pt-BR": "[Burled]\nEssa é a entrada do 3º andar. Apenas funcionários têm permissão para entrar. \nEm que posso ajudar?",
         "es-ES": "[Burled]\nEsta es la entrada del 3.º piso. Solo los empleados tienen permiso para entrar.\n¿En qué puedo ayudarle?"
     },
     "dlkAAQ": {
-        "ko-KR": "3층으로 올라간다.",
         "en-US": "Go up to the 3rd floor.",
         "pt-BR": "Entrar no 3º andar.",
         "es-ES": "Entrar al 3.º piso."
     },
     "d1kAAQ": {
-        "ko-KR": "타워에 대한 안내를 부탁한다.",
         "en-US": "Please give me guidance about the tower.",
         "pt-BR": "Quero informações sobre a torre.",
         "es-ES": "Quiero información sobre la torre."
     },
     "eFkAAQ": {
-        "ko-KR": "대화한다.",
         "en-US": "Talk.",
         "pt-BR": "Conversar",
         "es-ES": "Conversar"
     },
     "eVkAAQ": {
-        "ko-KR": "[블레드]\n3층으로 진입하시겠습니까?\n계약자 분 성함이...\n{0} 님 이시군요. 확인했습니다.",
         "en-US": "[Blade]\nWill you enter the 3rd floor?\nYour name as a contractor is...\n{0}. Confirmed.",
         "pt-BR": "[Burled]\nDeseja entrar no 3º andar?\nDeixe-me verificar seu contrato...\nSeu nome é {0}.",
         "es-ES": "[Burled]\n¿Deseas entrar al 3.º piso?\nDéjame verificar tu contrato...\nTu nombre es {0}."
     },
     "elkAAQ": {
-        "ko-KR": "[블레드]\n신속히 이동하여 주시길 바랍니다.\n시간을 지체하면 윗 층의 몬스터들이 이 곳으로 넘어올 수도 있습니다.",
         "en-US": "[Blade]\nPlease move quickly.\nIf you delay, the monsters from the upper floors may come down here.",
         "pt-BR": "[Burled]\nCerto, pode entrar.\nSeja breve, a porta não pode ficar aberta por muito tempo, pois os monstros podem sair desse andar.",
         "es-ES": "[Burled]\nBien, puedes pasar.\nSé breve, la puerta no puede estar abierta mucho tiempo, porque los monstruos pueden salir de este piso."
     },
     "e1kAAQ": {
-        "ko-KR": "^4D4DFF블레드는 나만 알아볼 수 있을정도로 가볍게 눈짓을 하며 미소지었다.\n나는 가볍게 고개를 끄덕이며 블레드가 게이트를 여는 것을 지켜보았다.^000000",
         "en-US": "^4D4DFFBlade lightly winked and smiled, so subtly that only I could notice.\nI lightly nodded as I watched Blade open the gate.^000000",
         "pt-BR": "^4D4DFFBurled sorri disfarçadamente para você...\n... e ele abre o portão.^000000",
         "es-ES": "^4D4DFFBurled sonríe disimuladamente hacia ti...\n... y abre el portón.^000000"
     },
     "fFkAAQ": {
-        "ko-KR": "[블레드]\n타워에 대한 것이 궁금하시다고요? 대부분을 밑에서 들으셨을테니 간략한 설명만 하겠습니다.",
         "en-US": "[Blade]\nYou are curious about the tower? You must have heard most of it below, so I will keep the explanation brief.",
         "pt-BR": "[Burled]\nQuer saber sobre a torre? Como provavelmente já ouviu a maior parte lá embaixo, farei apenas uma explicação breve.",
         "es-ES": "[Burled]\n¿Quieres saber sobre la torre? Como probablemente ya escuchaste la mayor parte abajo, solo haré una explicación breve."
     },
     "fVkAAQ": {
-        "ko-KR": "[블레드]\n3층과 4층은 저희가 어느 정도 발굴과 개발을 진행하여 비교적 자유롭게 움직일 수 있지만, 5층부터는 계단을 통해 이동하셔야 합니다.",
         "en-US": "[Blade]\nThe 3rd and 4th floors have been excavated and developed to some extent by us, so you can move around them relatively freely, but from the 5th floor onward, you must move via stairs.",
         "pt-BR": "[Burled]\nPrimeiro, só há uma passagem para o 3º andar, essa entrada. A partir do 5º andar, será necessário subir pelas escadas.",
         "es-ES": "[Burled]\nPrimero, solo hay un pasaje al 3.º piso, esta entrada. A partir del 5.º piso, será necesario subir por las escaleras."
     },
     "flkAAQ": {
-        "ko-KR": "[블레드]\n탑의 최상층은 12층으로, 상층부로 올라갈수록 등장하는 몬스터들도 상당히 강해지며, 주변 지형도 변화가 심합니다.\n되도록 파티원과 함께 움직이길 권합니다.",
         "en-US": "[Blade]\nThe topmost floor of the tower is the 12th floor, and as you go higher into the upper floors, the monsters that appear become considerably stronger, and the surrounding terrain also changes greatly.\nWe recommend moving together with party members whenever possible.",
         "pt-BR": "[Burled]\nO último andar é o 12º. Quanto mais alto você sobe, mais fortes os monstros ficam. A aparência dos andares também muda completamente.\nRecomendamos que esteja em um grupo sempre que possível.",
         "es-ES": "[Burled]\nEl último piso es el 12.º. Cuanto más alto subes, más fuertes se vuelven los monstruos. La apariencia de los pisos también cambia completamente.\nRecomendamos que estés en grupo siempre que sea posible."
     },
     "f1kAAQ": {
-        "ko-KR": "[블레드]\n최근 상층부에 대한 연구가 한창이라고 하니 관심 있으시면 6층에서 7층으로 이어지는 계단을 찾아가 보십시오.",
         "en-US": "[Blade]\nI hear research on the upper floors is in full swing recently, so if you are interested, look for the stairs leading from the 6th floor to the 7th floor.",
         "pt-BR": "[Burled]\nHá uma pesquisa em desenvolvimento nas escadarias que ligam o 6º ao 7º andar.",
         "es-ES": "[Burled]\nHay una investigación en desarrollo en las escaleras que conectan el 6.º con el 7.º piso."
     },
     "gFkAAQ": {
-        "ko-KR": "소지하고 계신 아이템의 수량이 많아 대화를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
         "en-US": "You cannot continue the conversation because you are carrying too many items.\nPlease organize your items and try again.",
         "pt-BR": "Não é possível prosseguir com a conversa porque você está carregando uma quantidade grande de itens.\nPor favor, organize seus itens e tente novamente.",
         "es-ES": "No se puede continuar con la conversación porque llevas una gran cantidad de objetos.\nPor favor, organiza tus objetos e inténtalo de nuevo."
     },
     "gVkAAQ": {
-        "ko-KR": "[블레드]\n뭔가 더 궁금한 게 있습니까?",
         "en-US": "[Blade]\nIs there something else you are curious about?",
         "pt-BR": "[Burled]\nHá mais alguma coisa que queira saber?",
         "es-ES": "[Burled]\n¿Hay algo más que quieras saber?"
     },
     "glkAAQ": {
-        "ko-KR": "저 뒤에 있는 몬스터들은 강력한가요?",
         "en-US": "Are the monsters back there strong?",
         "pt-BR": "Os monstros são fortes?",
         "es-ES": "¿Los monstruos son fuertes?"
     },
     "g1kAAQ": {
-        "ko-KR": "[블레드]\n제가 모험가님 실력을 가늠할 수는 없지만... 레켄베르가 아무하고나 계약하지는 않죠. 충분히 상대할 수 있습니다.",
         "en-US": "[Blade]\nI cannot judge your abilities, adventurer, but... Rekenber doesn't make contracts with just anyone. You are more than capable of handling them.",
         "pt-BR": "[Burled]\nEu não sei, mas... A Rekenber não faz contrato com qualquer um. Você é perfeitamente capaz de enfrentá-los.",
         "es-ES": "[Burled]\nNo lo sé, pero... Rekenber no hace contrato con cualquiera. Eres perfectamente capaz de enfrentarlos."
     },
     "hFkAAQ": {
-        "ko-KR": "개발 당시 뒷이야기는 없나요?",
         "en-US": "Is there any backstory from when it was being developed?",
         "pt-BR": "O que sabe sobre Zonda e Rekenber?",
         "es-ES": "¿Qué sabes sobre Zonda y Rekenber?"
     },
     "hVkAAQ": {
-        "ko-KR": "[블레드]\n무슨 얘기가 궁금합니까? 조금 더 은밀하고 위험한 이야기? 마침 레켄베르의 경비원도 자리도 비웠고... 모험가님이 흥미를 가질만한 게 하나 있는데.",
         "en-US": "[Blade]\nWhat kind of story are you curious about? Something a little more secretive and dangerous? As luck would have it, the Rekenber guard has stepped away... and I happen to have something that might interest an adventurer like you.",
         "pt-BR": "[Burled]\nO que eu sei? Bem... já que o guarda da Rekenber saiu do posto... e você pode trocar informações comigo.",
         "es-ES": "[Burled]\n¿Lo que sé? Bueno... ya que el guardia de Rekenber salió del puesto... y puedes intercambiar información conmigo."
     },
     "hlkAAQ": {
-        "ko-KR": "[블레드]\n저희 존다에 대해서 혹시 아십니까? 룬-미드가츠에 카프라가 있다면 슈발츠발드엔 존다 서비스가 있죠. 들어는 보셨죠?",
         "en-US": "[Blade]\nDo you happen to know about our Zonda? If Rune-Midgarts has Kafra, then Schwarzwald has Zonda services. You have heard of it, haven't you?",
         "pt-BR": "[Burled]\nVocê por acaso conhece a Agência Zonda? Assim como há a Kafra em Rune-Midgard, há o serviço Zonda em Schwartzwald. Já ouviu falar, não é?",
         "es-ES": "[Burled]\n¿Por casualidad conoces la Agencia Zonda? Así como está Kafra en Rune-Midgard, está el servicio Zonda en Schwartzwald. Has oído hablar, ¿no es así?"
     },
     "h1kAAQ": {
-        "ko-KR": "[블레드]\n모험가들을 대상으로 행사 안내나 던전 안내, 물류 거래 같은 걸 하던 작은 이벤트 회사가 시작이었는데 회사의 자잘한 역사를 얘기 하려는 건 아니고...",
         "en-US": "[Blade]\nWe started as a small event company that handled event guidance for adventurers, dungeon guidance, and logistics trading, but I am not trying to tell you the company's little history...",
         "pt-BR": "[Burled]\nA Zonda é uma empresa que trabalha em muitas áreas. Produção de eventos, guias para calabouços, comércio de itens...",
         "es-ES": "[Burled]\nZonda es una empresa que trabaja en muchas áreas. Producción de eventos, guías para calabozos, comercio de objetos..."
     },
     "iFkAAQ": {
-        "ko-KR": "[블레드]\n그런 저희를 눈여겨보던 레켄베르가 회사에 상당한 투자를 했어요. 그래서 저희는 사업 영역을 확장시킬 수 있었죠.",
         "en-US": "[Blade]\nRekenber, who had been watching us closely, made a considerable investment in our company. Thanks to that, we were able to expand our business.",
         "pt-BR": "[Burled]\nEmbora a empresa tenha começado pequena, ela está crescendo com a ajuda da Rekenber. E eles sugeriram que explorássemos esta torre juntos.",
         "es-ES": "[Burled]\nAunque la empresa comenzó pequeña, está creciendo con la ayuda de Rekenber. Y ellos sugirieron que exploráramos esta torre juntos."
     },
     "iVkAAQ": {
-        "ko-KR": "[블레드]\n그러던 중에 레켄베르 측에서 이 타워를 공동으로 개발하지 않겠냐는 제안을 해왔어요. 이 작은 회사에.",
         "en-US": "[Blade]\nThen, in the middle of all that, Rekenber proposed that we jointly develop this tower. To a small company like ours.",
         "pt-BR": "[Burled]\nA Corporação Rekenber está escavando as ruínas para estudos. Depois disso, o local viraria uma atração turística para a Zonda gerenciar.",
         "es-ES": "[Burled]\nLa Corporación Rekenber está excavando las ruinas para estudiarlas. Después de eso, el lugar se convertiría en una atracción turística para que Zonda la administrara."
     },
     "ilkAAQ": {
-        "ko-KR": "[블레드]\n연구를 위해 유적을 발굴을 하고 완료된 유적은 관광단지로 조성해 운영을 우리에게 맡긴다는 걸로 말이에요.",
         "en-US": "[Blade]\nThe deal was that they would excavate the ruins for research, and once development was complete, they would turn them into a tourist site and entrust the operation to us.",
         "pt-BR": "[Burled]\nÉ um grande negócio. Seria bem lucrativo como atração turística. Mas...",
         "es-ES": "[Burled]\nEs un gran negocio. Sería bastante lucrativo como atracción turística. Pero..."
     },
     "i1kAAQ": {
-        "ko-KR": "[블레드]\n창립이래 가장 큰 사업이었습니다. 관광자원으로서의 수익성도 보장된 사업이었고, 하지 않을 이유가 없었지요.",
         "en-US": "[Blade]\nIt was the biggest project since our founding. It was a business whose profitability as a tourism resource was guaranteed, so there was no reason not to do it.",
         "pt-BR": "[Burled]\nOs monstros fortes que aparecem na torre... Monstros que não apareciam antes.",
         "es-ES": "[Burled]\nLos monstruos fuertes que aparecen en la torre... Monstruos que no aparecían antes."
     },
     "jFkAAQ": {
-        "ko-KR": "[블레드]\n개발은 순조로웠습니다. 그 날 그 사건만 아니었다면...",
         "en-US": "[Blade]\nDevelopment was proceeding smoothly. If only that incident had not happened that day...",
         "pt-BR": "[Burled]\nE... aquele ... acidente aconteceu.",
         "es-ES": "[Burled]\nY... ese ... accidente sucedió."
     },
     "jVkAAQ": {
-        "ko-KR": "그 사건이라뇨?",
         "en-US": "That incident?",
         "pt-BR": "Que acidente?",
         "es-ES": "¿Qué accidente?"
     },
     "jlkAAQ": {
-        "ko-KR": "그랬군요.",
         "en-US": "I see.",
         "pt-BR": "Entendo.",
         "es-ES": "Entiendo."
     },
     "j1kAAQ": {
-        "ko-KR": "[블레드]\n이야기는 이쯤에서 마무리 짓는 것이 좋겠습니다. 아무쪼록 조심하시길...",
         "en-US": "[Blade]\nIt would be best to end the story here. Please be careful, no matter what...",
         "pt-BR": "[Burled]\nAcho melhor encerrar a história por aqui. Já falei muito...",
         "es-ES": "[Burled]\nCreo que es mejor terminar la historia aquí. Ya hablé demasiado..."
     },
     "kFkAAQ": {
-        "ko-KR": "[블레드]\n흠... 역시 이건 기업 비밀이라 말하기가 좀 곤란하네요.",
         "en-US": "[Blade]\nHmm... after all, this is a corporate secret, so it is rather difficult to talk about.",
         "pt-BR": "[Burled]\nDesculpe, não deveria falar assim sobre esse caso... Estou muito preocupado com isso.",
         "es-ES": "[Burled]\nLo siento, no debería hablar así sobre este caso... Estoy muy preocupado por esto."
     },
     "kVkAAQ": {
-        "ko-KR": "[블레드]\n하지만 이렇게 관심 있는 모험가는 처음이니 제 부탁을 들어주신다면 말씀 드리지요. 어차피 관련된 일이기도 하고.",
         "en-US": "[Blade]\nStill, you are the first adventurer to show this much interest, so if you grant my request, I will tell you. Since it is related, after all.",
         "pt-BR": "[Burled]\nMas... se você me prometer que vai me fazer um favor...",
         "es-ES": "[Burled]\nPero... si me prometes que me harás un favor..."
     },
     "klkAAQ": {
-        "ko-KR": "알겠어요.",
         "en-US": "All right.",
         "pt-BR": "Eu prometo!",
         "es-ES": "¡Lo prometo!"
     },
     "k1kAAQ": {
-        "ko-KR": "그럼 듣지 않겠어요.",
         "en-US": "Then I won't hear it.",
         "pt-BR": "Não prometo nada.",
         "es-ES": "No prometo nada."
     },
     "lFkAAQ": {
-        "ko-KR": "[블레드]\n알겠습니다. 아무쪼록 조심하시길...",
         "en-US": "[Blade]\nUnderstood. Please be careful...",
         "pt-BR": "[Burled]\nCerto. Tome cuidado...",
         "es-ES": "[Burled]\nBien. Ten cuidado..."
     },
     "lVkAAQ": {
-        "ko-KR": "[블레드]\n흠... 제 부탁을 들어 주시기엔 아무래도 지금 당신의 역량으로는 부족하군요.",
         "en-US": "[Blade]\nHmm... it seems your current abilities are insufficient to fulfill my request.",
         "pt-BR": "[Burled]\nVocê não é forte o bastante.",
         "es-ES": "[Burled]\nNo eres lo suficientemente fuerte."
     },
     "llkAAQ": {
-        "ko-KR": "[블레드]\n당신을 위험에 빠뜨리고 싶지 않습니다.",
         "en-US": "[Blade]\nI do not want to put you in danger.",
         "pt-BR": "[Burled]\nNão quero colocar você em uma situação perigosa.",
         "es-ES": "[Burled]\nNo quiero ponerte en una situación peligrosa."
     },
     "l1kAAQ": {
-        "ko-KR": "^4D4DFF타나토스 타워 조사 권장 레벨은 90 이상입니다.^000000",
         "en-US": "^4D4DFFThe recommended level for investigating Thanatos Tower is 90 or higher.^000000",
         "pt-BR": "^4D4DFFDisponível para o nível de base 90 ou mais.^000000",
         "es-ES": "^4D4DFFDisponible para nivel base 90 o más.^000000"
     },
     "mFkAAQ": {
-        "ko-KR": "[블레드]\n그럼, 모험가님만 믿습니다?",
         "en-US": "[Blade]\nThen, I am counting on you, adventurer.",
         "pt-BR": "[Burled]\nEntão, conto com você, viajante.",
         "es-ES": "[Burled]\nEntonces, cuento contigo, viajero."
     },
     "mVkAAQ": {
-        "ko-KR": "[블레드]\n타워 내부에 강력한 몬스터들이 나타나는 건 들으셨죠? 몬스터들이 처음부터 이 곳에 있었던 것은 아닙니다.",
         "en-US": "[Blade]\nYou have heard that powerful monsters appear inside the tower, right? Those monsters were not here from the beginning.",
         "pt-BR": "[Burled]\n...Os problemas que esses monstros causaram... Nós da Zonda e da Rekenber ficamos chocados.",
         "es-ES": "[Burled]\n...Los problemas que causaron estos monstruos... Nosotros, de Zonda y Rekenber, quedamos conmocionados."
     },
     "mlkAAQ": {
-        "ko-KR": "[블레드]\n그 날, 그 사건 이후로... 아무튼 그 사고로 저희 존다는 큰 타격을 받고 말았습니다. 물질적 타격도 컸지만 가장 컸던 건 따로 있어요.",
         "en-US": "[Blade]\nAfter that day, after that incident... Anyway, because of that accident, our Zonda suffered a severe blow. The material losses were significant, but the greatest loss was something else.",
         "pt-BR": "[Burled]\nVamos sofrer economicamente, mas o mais sério é que... Muitos funcionários envolvidos na exploração estão... se sacrificando ao entrar no 3º andar.",
         "es-ES": "[Burled]\nVamos a sufrir económicamente, pero lo más grave es que... Muchos empleados involucrados en la exploración están... sacrificándose al entrar al 3.º piso."
     },
     "m1kAAQ": {
-        "ko-KR": "[블레드]\n갑작스레 나타난 몬스터들에 저항 한 번 못하고 희생된 사원들이었죠. 꽤 많은 수였습니다.",
         "en-US": "[Blade]\nIt was the employees who were sacrificed without even a chance to resist the monsters that suddenly appeared. There were quite a lot of them.",
         "pt-BR": "[Burled]\nInvestimos tanto neste negócio, e aconteceu esse acidente... Acabou que a Zonda se fundiu com a Rekenber...",
         "es-ES": "[Burled]\nInvertimos tanto en este negocio, y sucedió este accidente... Resultó que Zonda se fusionó con Rekenber..."
     },
     "nFkAAQ": {
-        "ko-KR": "[블레드]\n레켄베르는 그 사건에 대한 모든 내용에 대해 생존자들의 입을 철저히 막고 유족들에게도 단순 사고로만 알리고 처리를 했어요.",
         "en-US": "[Blade]\nRekenber thoroughly silenced the survivors regarding everything about that incident, and even informed the bereaved families that it had been nothing more than a simple accident.",
         "pt-BR": "[Burled]\nTodos os locais explorados, com exceção dos materiais de pesquisa, seriam devolvidos para nós, para usarmos como atrações turísticas...",
         "es-ES": "[Burled]\nTodos los lugares explorados, con excepción de los materiales de investigación, serían devueltos a nosotros, para usarlos como atracciones turísticas..."
     },
     "nVkAAQ": {
-        "ko-KR": "[블레드]\n그로 인해 여러모로 사정이 악화된 회사는 레켄베르와 합병을 할 수 밖에 없었습니다. 말이 합병이지 사실상 흡수죠.",
         "en-US": "[Blade]\nAs a result, the company, whose circumstances worsened in many ways, had no choice but to merge with Rekenber. They called it a merger, but in truth it was absorption.",
         "pt-BR": "[Burled]\nNa verdade, todo o pessoal envolvido no desenvolvimento da Torre é da Zonda.",
         "es-ES": "[Burled]\nEn realidad, todo el personal involucrado en el desarrollo de la Torre es de Zonda."
     },
     "nlkAAQ": {
-        "ko-KR": "[블레드]\n그 후로 타워 개발은 잠정적으로 중단된 채로 개발을 다각도에서 재검토를 했습니다만 뾰족한 수가 나지 않았던 모양입니다.",
         "en-US": "[Blade]\nAfter that, tower development was temporarily suspended while its development was reviewed from many angles, but apparently no clear solution was found.",
         "pt-BR": "[Burled]\nAgora, a Zonda é tratada como uma mera subsidiária da Rekenber.",
         "es-ES": "[Burled]\nAhora, Zonda es tratada como una mera subsidiaria de Rekenber."
     },
     "n1kAAQ": {
-        "ko-KR": "[블레드]\n결국 타워를 개방하고 풀리지 않는 미스터리라며 모험심을 자극해 각지에서 모험가들을 끌어들여 몬스터를 처리하게 됐지요",
         "en-US": "[Blade]\nIn the end, they opened the tower, stirred people's spirit of adventure by calling it an unsolved mystery, drew adventurers from all over, and had them deal with the monsters.",
         "pt-BR": "[Burled]\nNo fim, abriram a torre ao público, chamando-a de mistério sem solução, despertando o espírito aventureiro e atraindo aventureiros de toda parte para eliminar os monstros.",
         "es-ES": "[Burled]\nAl final, abrieron la torre al público, llamándola misterio sin solución, despertando el espíritu aventurero y atrayendo aventureros de todas partes para eliminar a los monstruos."
     },
     "oFkAAQ": {
-        "ko-KR": "[블레드]\n말로는 모험가들의 협력을 구한다고는 하지만...",
         "en-US": "[Blade]\nThey say they are asking for adventurers' cooperation, but...",
         "pt-BR": "[Burled]\nEles dizem que estão pedindo a cooperação dos viajantes, mas...",
         "es-ES": "[Burled]\nDicen que están pidiendo la cooperación de los viajeros, pero..."
     },
     "oVkAAQ": {
-        "ko-KR": "[블레드]\n어떻게든 자신들은 손해를 보지 않고 일처리를 하겠다는거 아닙니까? 우리들은 버리는 말처럼 써놓고 말입니다.",
         "en-US": "[Blade]\nIsn't it just that they are trying to get the job done without taking losses themselves? Using us as though we were disposable.",
         "pt-BR": "[Burled]\nNo fim das contas, não é só uma forma de resolver tudo sem que eles mesmos saiam no prejuízo? Usam a gente como se fôssemos descartáveis.",
         "es-ES": "[Burled]\nAl final, ¿no es solo una forma de resolver todo sin que ellos mismos salgan perdiendo? Nos usan como si fuéramos desechables."
     },
     "olkAAQ": {
-        "ko-KR": "[블레드]\n그 날 그 사건에 대한 진상을 밝히지도 않고 말입니다.",
         "en-US": "[Blade]\nAnd all without even revealing the truth of what happened that day.",
         "pt-BR": "[Burled]\nNem me sinto mais vítima, só quero saber 'o que está nos matando'...?",
         "es-ES": "[Burled]\nYa no me siento víctima, solo quiero saber 'qué nos está matando'...?"
     },
     "o1kAAQ": {
-        "ko-KR": "그러니까 그 사건이라는 것이...?",
         "en-US": "So that incident was...?",
         "pt-BR": "Então aquele acidente foi...?",
         "es-ES": "Entonces, ¿ese accidente fue...?"
     },
     "pFkAAQ": {
-        "ko-KR": "[블레드]\n그게 워낙 믿을 수 없는 이야기라.. 사실 저도 그 이야기를 완전히 믿을 수가 없거든요. 알고 있는 것도 그다지 많지 않고. 그러니 이걸 받으세요.",
         "en-US": "[Blade]\nIt is such an unbelievable story... To be honest, even I cannot completely believe it myself. And I do not know that much, either. So take this.",
         "pt-BR": "[Burled]\nÉ uma história tão difícil de acreditar... Por isso, quero que fique com isto.",
         "es-ES": "[Burled]\nEs una historia tan difícil de creer... Por eso, quiero que te quedes con esto."
     },
     "pVkAAQ": {
-        "ko-KR": "빨간색 열쇠...?",
         "en-US": "A red key...?",
         "pt-BR": "Uma Chave Vermelha...?",
         "es-ES": "¿Una Llave Roja...?"
     },
     "plkAAQ": {
-        "ko-KR": "[블레드]\n네. 제 부탁은 이 열쇠와 타워에 관해 조사해 달라는 겁니다. 이 열쇠는 분명 이 타워가 간직한 비밀과 관련이 있어요.",
         "en-US": "[Blade]\nYes. My request is that you investigate this key and the tower. This key is surely connected to the secret this tower holds.",
         "pt-BR": "[Burled]\nSim. Meu pedido é que investigue esta torre. Esta chave certamente está ligada ao segredo que esta torre guarda.",
         "es-ES": "[Burled]\nSí. Mi petición es que investigues esta torre. Esta llave ciertamente está ligada al secreto que esta torre guarda."
     },
     "p1kAAQ": {
-        "ko-KR": "[블레드]\n그건 아마도 레켄베르가 이 타워를 개발하려는 진짜 목적에도 닿아있겠죠.",
         "en-US": "[Blade]\nIt may even lead to Rekenber's true purpose in trying to develop this tower.",
         "pt-BR": "[Burled]\nA Corporação Rekenber tem alguma outra intenção, não está tão interessada na torre.",
         "es-ES": "[Burled]\nLa Corporación Rekenber tiene alguna otra intención, no está tan interesada en la torre."
     },
     "qFkAAQ": {
-        "ko-KR": "진짜 목적?",
         "en-US": "Their true purpose?",
         "pt-BR": "Outra intenção?",
         "es-ES": "¿Otra intención?"
     },
     "qVkAAQ": {
-        "ko-KR": "[블레드]\n생각해보면 처음부터 레켄베르는 타워 개발에 다른 목적이 있었던 것 같습니다. 저희 같은 소규모 기업에 제시한 조건이 너무 좋았거든요.",
         "en-US": "[Blade]\nCome to think of it, I feel Rekenber had another purpose for developing this tower from the very beginning. The terms they offered to a small company like ours were too good.",
         "pt-BR": "[Burled]\nDesde o começo a Rekenber parecia ter outro objetivo no desenvolvimento da torre. As condições que ofereceram a uma empresa pequena como a nossa eram boas demais.",
         "es-ES": "[Burled]\nDesde el principio Rekenber parecía tener otro objetivo en el desarrollo de la torre. Las condiciones que ofrecieron a una empresa pequeña como la nuestra eran demasiado buenas."
     },
     "qlkAAQ": {
-        "ko-KR": "[블레드]\n그들은 아마도 알고 있었을 겁니다.\n이 사업엔 수많은 희생이 따를 것이고 그 짐을 대신 짊어질 희생양이 필요했겠죠.",
         "en-US": "[Blade]\nThey probably knew.\nThat this project would entail countless sacrifices, and that they would need a scapegoat to bear that burden in their place.",
         "pt-BR": "[Burled]\nEles provavelmente sabiam.\nSabiam que este projeto acarretaria inúmeros sacrifícios e que precisariam de um bode expiatório para carregar esse peso.",
         "es-ES": "[Burled]\nEllos probablemente sabían.\nSabían que este proyecto acarrearía innumerables sacrificios y que necesitarían un chivo expiatorio para cargar con ese peso."
     },
     "q1kAAQ": {
-        "ko-KR": "[블레드]\n그들의 예상대로 상당수의 희생이 있었고 레켄베르는 그것을 덮으면서도 이곳을 계속해서 개발하려고 해요. 보상까지 쥐어 주면서요.",
         "en-US": "[Blade]\nAs they expected, there were many sacrifices, and Rekenber is still trying to continue developing this place while covering it up. They are even handing out compensation.",
         "pt-BR": "[Burled]\nComo previsto por eles, houve um número considerável de mortes, e a Rekenber continua tentando desenvolver este lugar mesmo enquanto encobre tudo isso. Até oferecendo recompensas.",
         "es-ES": "[Burled]\nComo ellos previeron, hubo un número considerable de muertes, y Rekenber continúa intentando desarrollar este lugar incluso mientras encubre todo esto. Hasta ofreciendo recompensas."
     },
     "rFkAAQ": {
-        "ko-KR": "[블레드]\n그 열쇠는 사고가 일어난 뒤, 현장을 수습하러 들어갔을 때 동료의 시신 밑에서 발견한 거예요.",
         "en-US": "[Blade]\nThat key was found under the body of a colleague when we went in to recover the site after the accident.",
         "pt-BR": "[Burled]\nEssa chave foi encontrada sob o corpo de um colega, quando entramos para organizar o local depois do acidente.",
         "es-ES": "[Burled]\nEsta llave fue encontrada bajo el cuerpo de un colega, cuando entramos para organizar el lugar después del accidente."
     },
     "rVkAAQ": {
-        "ko-KR": "[블레드]\n원래 이 타워는 강력한 결계와 봉인으로인해 철저하게 외부와 단절되어 있었습니다.\n그 봉인을 하나 하나 해제 해 가며 내부를 탐사하고, 개발을 해야했죠.",
         "en-US": "[Blade]\nOriginally, this tower was completely cut off from the outside by powerful barriers and seals.\nWe had to explore the interior and carry out development while removing those seals one by one.",
         "pt-BR": "[Burled]\nEsta torre está selada e separada do exterior.\nTivemos de desfazer esses selos um a um para explorar o interior e realizar o desenvolvimento.",
         "es-ES": "[Burled]\nEsta torre está sellada y separada del exterior.\nTuvimos que deshacer estos sellos uno por uno para explorar el interior y realizar el desarrollo."
     },
     "rlkAAQ": {
-        "ko-KR": "[블레드]\n그 전엔 조사해도 아무 것도 없던 평범한 구조물에 인간의 피가 묻자 갑자기 생긴 거죠. 아마 이 탑에는 그런 장치가 더 있을 거예요.",
         "en-US": "[Blade]\nBefore that, it had been just an ordinary structure where nothing appeared no matter how much we investigated, but once human blood was spilled, it suddenly came into being. There are probably more mechanisms like that in this tower.",
         "pt-BR": "[Burled]\nAntes disso, mesmo quando investigávamos, era uma estrutura comum sem nada. Mas, depois que o sangue humano foi derramado, aquilo surgiu de repente. Provavelmente há mais selos assim nesta torre.",
         "es-ES": "[Burled]\nAntes de eso, incluso cuando investigábamos, era una estructura común sin nada. Pero, después de que se derramó sangre humana, aquello surgió de repente. Probablemente haya más sellos así en esta torre."
     },
     "r1kAAQ": {
-        "ko-KR": "[블레드]\n이곳엔 무언가 더 있고, 아마도 그것이 레켄베르의 진짜 목적이 아닐까. 물론 제 짐작이지만요. 그런 생각이 드니까 차마 열쇠를 레켄베르에 넘길 수가 없더군요.",
         "en-US": "[Blade]\nThere is something more here, and perhaps that is Rekenber's true objective. Of course, that is just my guess. But thinking that way, I just could not hand the key over to Rekenber.",
         "pt-BR": "[Burled]\nHá algo mais aqui, e talvez seja esse o verdadeiro objetivo da Rekenber. Claro, isso é só uma suposição minha. Mas com esse pensamento, simplesmente não consegui entregar a chave à Rekenber.",
         "es-ES": "[Burled]\nHay algo más aquí, y tal vez ese sea el verdadero objetivo de Rekenber. Claro, esto es solo una suposición mía. Pero con este pensamiento, simplemente no pude entregar la llave a Rekenber."
     },
     "sFkAAQ": {
-        "ko-KR": "[블레드]\n도대체 이 타워는 무엇입니까. 왜 이런 위험한 지역을 그들은 기를 써서 개발하려고 한 거죠..?",
         "en-US": "[Blade]\nWhat in the world is this tower? Why are they so desperate to develop such a dangerous place..?",
         "pt-BR": "[Burled]\nO que é esta torre, afinal? Por que eles insistiram tanto em desenvolver uma região tão perigosa assim?",
         "es-ES": "[Burled]\n¿Qué es esta torre, al final? ¿Por qué insistieron tanto en desarrollar una región tan peligrosa?"
     },
     "sVkAAQ": {
-        "ko-KR": "[블레드]\n왜? 무엇을 위해? 제 동료들은 죽어야 했던 거죠?",
         "en-US": "[Blade]\nWhy? For what purpose? Why did my colleagues have to die?",
         "pt-BR": "[Burled]\nPor quê? Com que propósito? Por que meus colegas tiveram de morrer?",
         "es-ES": "[Burled]\n¿Por qué? ¿Con qué propósito? ¿Por qué mis colegas tuvieron que morir?"
     },
     "slkAAQ": {
-        "ko-KR": "[블레드]\n그러니 이렇게 고개 숙여 부탁드립니다.",
         "en-US": "[Blade]\nSo I bow my head and ask you this.",
         "pt-BR": "[Burled]\nPor isso, imploro à você.",
         "es-ES": "[Burled]\nPor eso, te ruego."
     },
     "s1kAAQ": {
-        "ko-KR": "[블레드]\n레켄베르의 목적을.. 동료들이 희생되어야 했던 이유를.... 알려주세요.",
         "en-US": "[Blade]\nPlease... tell me Rekenber's purpose.. and the reason my colleagues had to be sacrificed....",
         "pt-BR": "[Burled]\nPor favor, descubra o objetivo da Rekenber... e a razão pela qual meus colegas morreram....",
         "es-ES": "[Burled]\nPor favor, descubre el objetivo de Rekenber... y la razón por la que mis colegas murieron..."
     },
     "tFkAAQ": {
-        "ko-KR": "- 고개를 숙여 부탁해 오는 블레드의 꽉 쥔 두 손이 가늘게 떨리고 있었다. 나는 크게 대답 하지도 못한 채 그저 알았다고 고개를 끄덕여 줄 뿐이었다.-",
         "en-US": "- Blade's tightly clenched hands trembled faintly as he bowed his head and begged. Unable to give any grand reply, I could only nod and say that I understood. -",
         "pt-BR": "*Burled está tremendo de nervoso... Você apenas balanca a cabeça.*",
         "es-ES": "*Burled está temblando de nervios... Tú solo asientes con la cabeza.*"
     },
     "tVkAAQ": {
-        "ko-KR": "[블레드]\n정말 감사합니다. 그럼 문을 열어 드릴게요. 무사히 다녀오시길.",
         "en-US": "[Blade]\nThank you so much. Then I will open the door for you. Please return safely.",
         "pt-BR": "[Burled]\nMuito obrigado. Então vou abrir a porta. Vá e volte em segurança.",
         "es-ES": "[Burled]\nMuchas gracias. Entonces voy a abrir la puerta. Ve y regresa con seguridad."
     },
     "tlkAAQ": {
-        "ko-KR": "- 빨간 열쇠를 쥐자 희미하게 떨리며 미약한 힘이 느껴진다. 힘이 이끄는 곳으로 가 보자. -",
         "en-US": "- When you grasp the red key, it trembles faintly and you can feel a slight power. Let us go where that power leads. -",
         "pt-BR": "*Ao segurar a chave vermelha, ela vibra levemente e uma força fraca pode ser sentida. Vamos para o lugar para onde essa força leva.*",
         "es-ES": "*Al sostener la llave roja, vibra ligeramente y se siente una fuerza débil. Vayamos al lugar hacia donde esa fuerza lleva.*"
     },
     "t1kAAQ": {
-        "ko-KR": "[블레드]\n저희가 개발을 진행한 것은 겨우 3-4층정도이기 때문에 아직도 봉인과 같은 것들이 남아 있을겁니다.\n그런걸 중심으로 찾아보시면 뭔가가 나올 것 같기도 하네요.",
         "en-US": "[Blade]\nWe only managed to develop about the 3rd and 4th floors, so there are probably still things like seals remaining.\nIf you search around those, you may find something.",
         "pt-BR": "[Burled]\nEstamos explorando o 3º e 4º andar agora... Ainda há selos por lá.\nVocê pode descobrir pistas quando procurar os selos.",
         "es-ES": "[Burled]\nEstamos explorando el 3.º y 4.º piso ahora... Aún hay sellos por allí.\nPuedes descubrir pistas cuando busques los sellos."
     },
     "uFkAAQ": {
-        "ko-KR": "[블레드]\n먼저... 희생된 제 친구가 이상한 기운이 느껴졌다던 곳부터 가주셨으면 합니다.\n끝내 그 기운의 정체를 밝히지 못했거든요.",
         "en-US": "[Blade]\nFirst... I would like you to go to the place where my late friend said he felt a strange aura.\nHe was never able to uncover what that aura really was.",
         "pt-BR": "[Burled]\nPrimeiro... gostaria que você fosse ao lugar onde meu amigo morto dizia sentir uma aura estranha.\nNo fim, ele não conseguiu descobrir a verdadeira natureza daquela aura.",
         "es-ES": "[Burled]\nPrimero... me gustaría que fueras al lugar donde mi amigo muerto decía sentir un aura extraña.\nAl final, él no pudo descubrir la verdadera naturaleza de esa aura."
     },
     "uVkAAQ": {
-        "ko-KR": "[블레드]\n다른 열쇠와.. 메시지.. 라구요?\n...역시 이 타워 곳곳에는 아직 우리가 풀지 못한 비밀들이 있군요.",
         "en-US": "[Blade]\nOther keys... and a message...?\n...As I thought, there are still secrets throughout this tower that we have not yet solved.",
         "pt-BR": "[Burled]\nOutras chaves... e uma mensagem...?\n...Certamente não descobrimos todos os segredos da torre.",
         "es-ES": "[Burled]\n¿Otras llaves... y un mensaje...?\n...Ciertamente no descubrimos todos los secretos de la torre."
     },
     "ulkAAQ": {
-        "ko-KR": "[블레드]\n이 곳을 봉인한 분은.....\n... 아. 조금만 더 조사해 주시지 않겠습니까?\n분명히 ^4D4DFF결정적인 무언가^000000가 있을 겁니다.",
         "en-US": "[Blade]\nThe one who sealed this place was.....\n...Ah. Would you not investigate just a little more?\nSurely there must be ^4D4DFFsomething decisive^000000.",
         "pt-BR": "[Burled]\nQuem fez esses selos...\n... Você pode investigar mais??\nDeve ter algo mais ^4D4DFFimportante^000000.",
         "es-ES": "[Burled]\nQuien hizo estos sellos...\n... ¿Puedes investigar más?\nDebe haber algo más ^4D4DFFimportante^000000."
     },
     "u1kAAQ": {
-        "ko-KR": "[블레드]\n뭔가 진전이 있었습니까?",
         "en-US": "[Blade]\nHas there been any progress?",
         "pt-BR": "[Burled]\nVocê fez algum progresso?",
         "es-ES": "[Burled]\n¿Has progresado en algo?"
     },
     "vFkAAQ": {
-        "ko-KR": "바르문트의 수첩을...",
         "en-US": "Varmunt's Notebook…",
         "pt-BR": "Achei o Caderno de Varmunt...",
         "es-ES": "Encontré el Cuaderno de Varmunt..."
     },
     "vVkAAQ": {
-        "ko-KR": "-나는 블레드에게 바르문트의 수첩을 보여주었다. 블레드는 한동안 수첩의 내용을 읽었다.-",
         "en-US": "-I showed Blade Varmunt's notebook to him. Blade read the contents of the notebook for a while.-",
         "pt-BR": "*Você mostra o Caderno de Varmunt. Burled lê o caderno.*",
         "es-ES": "*Muestras el Cuaderno de Varmunt. Burled lee el cuaderno.*"
     },
     "vlkAAQ": {
-        "ko-KR": "[블레드]\n...수첩을 읽어보셨습니까? 읽지 않으셨다면 한 번 읽어 보십시오. 이건.. 분명하게 확신할 수 있습니다.\n대현자 바르문트님의 필적이군요.",
         "en-US": "[Blade]\n...Have you read the notebook? If not, please do. This, I can assure you with absolute certainty.\nThe handwriting of the Archmage Varmunt.",
         "pt-BR": "[Burled]\n...Você leu o caderno? Se ainda não leu, leia uma vez. Isto... posso afirmar com certeza.\nÉ a letra do Grande Sábio Varmunt.",
         "es-ES": "[Burled]\n...¿Leíste el cuaderno? Si aún no lo has leído, léelo una vez. Esto... puedo afirmarlo con certeza.\nEs la letra del Gran Sabio Varmunt."
     },
     "v1kAAQ": {
-        "ko-KR": "[블레드]\n.. 그렇군요. 그들이 찾는 것이 이것이었나요?! 레켄베르의 거대한 연구소 레겐쉬름은 이 분이 남긴 업적을.......\n말없이 사라져버린 대현자 바르문트의 연구자료를 되찾는게 그들의 목적이었던거죠?",
         "en-US": "[Blade]\n.. So this is what they were looking for?! The Regenschirm, the great laboratory in Rekenber, is dedicated to keeping this man's work alive through their creations.......\nTheir goal was to recover the work of the Archmage Varmunt, who had disappeared without a trace?",
         "pt-BR": "[Burled]\n...Isso... é real. É a letra do grande sábio Varmunt.. o laboratório Regenschrim, da Rekenber, é o legado desse cara...\n... Era isso que eles estavam procurando?!",
         "es-ES": "[Burled]\n...Esto... es real. Es la letra del gran sabio Varmunt... el laboratorio Regenschrim, de Rekenber, es el legado de ese tipo...\n... ¿Era esto lo que estaban buscando?"
     },
     "wFkAAQ": {
-        "ko-KR": "[블레드]\n그래서... 흉내내기 밖에 하지 못하는 미완의 연구를 보완하기 위해 대부분 소실되어버린 그 분의 연구자료를...\n그들의 목적은... 역시 타워 자체가 아니었군요.",
         "en-US": "[Blade]\nSo... to supplement their incomplete research that can do nothing but imitate...\nTheir purpose was... as expected, not the tower itself.",
         "pt-BR": "[Burled]\nO propósito era recuperar os materiais do Sábio desaparecido?\nEntão... a Corporação estava atrás desses materiais...\npara copiar a pesquisa dele... não era a Torre em si.",
         "es-ES": "[Burled]\n¿El propósito era recuperar los materiales del Sabio desaparecido?\nEntonces... la Corporación estaba tras estos materiales...\npara copiar su investigación... no era la Torre en sí."
     },
     "wVkAAQ": {
-        "ko-KR": "[블레드]\n자신들이 이용할 수 있는 또 다른 무언가...\n그 분이 어디에 뭘 남겼는지도 모르면서...\n그들이 목적 중 하나는 이것일 수도 있겠군요.",
         "en-US": "[Blade]\nSomething else they could make use of...\nWithout even knowing what he left behind or where...\nThis may have been one of their objectives.",
         "pt-BR": "[Burled]\nAlgo para obter alguma vantagem...\nMesmo que não saibam o que é...\n...Enfim, com certeza estão procurando por isso.",
         "es-ES": "[Burled]\nAlgo para obtener alguna ventaja...\nAunque no sepan qué es...\n...En fin, seguramente están buscando esto."
     },
     "wlkAAQ": {
-        "ko-KR": "[블레드]\n확실히 굉장하긴 하네요. 대현자 바르문트의 유품이라니...하하.. 과연 눈에 불을 켜고 타워 개발을 할만한 이유네요.",
         "en-US": "[Blade]\nThat's pretty cool, a relic of the Archmage Varmunt... haha. Now that's a reason to light up and start working on the tower.",
         "pt-BR": "[Burled]\nIsso é ótimo. Os pertences do sábio Varmunt. Inacreditável!... Agora, o que vamos fazer com isso?",
         "es-ES": "[Burled]\nEsto es genial. Las pertenencias del sabio Varmunt. ¡Increíble!... Ahora, ¿qué vamos a hacer con esto?"
     },
     "w1kAAQ": {
-        "ko-KR": "[블레드]\n그럼 이제 그 사건에 대해 말씀을 드릴 차례군요. 말도 안되는 일이라고 생각했었는데... 정황상 모두 사실인 것 같습니다.",
         "en-US": "[Blade]\nThen now it is my turn to tell you about that incident. I thought it was something impossible, but judging from the circumstances, it all seems to be true.",
         "pt-BR": "[Burled]\nA princípio, tudo o que for encontrado nesta torre fica sob o controle da Corporação Rekenber... Isso deveria ficar com eles, mas...",
         "es-ES": "[Burled]\nEn principio, todo lo que se encuentre en esta torre queda bajo el control de la Corporación Rekenber... Esto debería ir a ellos, pero..."
     },
     "xFkAAQ": {
-        "ko-KR": "[블레드]\n이곳을 봉인하기 위한 장치가 많았다고 하셨지요. 이 타워의 깊숙한 곳에 접근하려는 사람으로부터 말입니다.",
         "en-US": "[Blade]\nYou said there were many devices made to seal this place. To keep people from reaching deep inside this tower.",
         "pt-BR": "[Burled]\nVocê disse que havia muitos dispositivos para selar este lugar, não foi? Para impedir o acesso daqueles que tentassem chegar às profundezas desta torre.",
         "es-ES": "[Burled]\nDijiste que había muchos dispositivos para sellar este lugar, ¿no es así? Para impedir el acceso de aquellos que intentaran llegar a las profundidades de esta torre."
     },
     "xVkAAQ": {
-        "ko-KR": "[블레드]\n제가 드릴 이야기도 그것과 관련된 것입니다.",
         "en-US": "[Blade]\nThe story I am going to tell you is related to that as well.",
         "pt-BR": "[Burled]\nO que vou contar também está relacionado a isso.",
         "es-ES": "[Burled]\nLo que voy a contar también está relacionado con eso."
     },
     "xlkAAQ": {
-        "ko-KR": "[블레드]\n이 타나토스의 타워에서는 오랜 건물에 간간히 나오는 몬스터 외에는 별다른 몬스터가 없었다고 말씀 드렸지요?",
         "en-US": "[Blade]\nDid I tell you that in this Memory of Thanatos tower, aside from the occasional monster found in old buildings, there were no notable monsters?",
         "pt-BR": "[Burled]\nEu disse que nesta torre não havia muitos monstros além daqueles que costumam aparecer em construções antigas, não foi?",
         "es-ES": "[Burled]\nTe dije que en esta torre no había muchos monstruos aparte de los que suelen aparecer en construcciones antiguas, ¿no es así?"
     },
     "x1kAAQ": {
-        "ko-KR": "[블레드]\n처음 개발 의뢰를 받고 1층부터 꼼꼼히 살피며 올라갔습니다. 그때까지 큰 문제는 없었습니다.",
         "en-US": "[Blade]\nWhen we first received the development request, we carefully inspected it floor by floor, starting from the 1st floor and making our way up. Up until then, there had been no major problems.",
         "pt-BR": "[Burled]\nQuando recebemos a comissão para o desenvolvimento, subimos desde o 1º andar examinando tudo minuciosamente. Até aquele momento, não houve nenhum grande problema.",
         "es-ES": "[Burled]\nCuando recibimos la comisión para el desarrollo, subimos desde el 1.º piso examinando todo minuciosamente. Hasta ese momento, no hubo ningún gran problema."
     },
     "yFkAAQ": {
-        "ko-KR": "[블레드]\n그런데 그 날, 갑자기 눈부신 빛과 함께 천사의 형상을 한 것이 나타났다고 합니다.",
         "en-US": "[Blade]\nBut that day, it is said that something in the shape of an angel appeared in a blinding light.",
         "pt-BR": "[Burled]\nMas naquele dia, de repente, algo com a forma de um anjo apareceu junto com uma luz ofuscante.",
         "es-ES": "[Burled]\nPero ese día, de repente, algo con forma de ángel apareció junto con una luz ofuscante."
     },
     "yVkAAQ": {
-        "ko-KR": "[블레드]\n'너희, 이곳을 침범하지 말라. 이것은 경고다'라며 갑작스레 엄청나게 많은 몬스터들이 나타나 탑 안에 있던 사람들을 공격하기 시작했고, 그 많은 인원들은 전부…",
         "en-US": "[Blade]\n'Do not trespass here. This is a warning.' Then suddenly, an enormous number of monsters appeared and began attacking the people inside the tower, and all those people...",
         "pt-BR": "[Burled]\nDizendo 'Não invadam este lugar. Isto é um aviso', uma quantidade absurda de monstros apareceu subitamente e começou a atacar as pessoas que estavam dentro da torre, e todas aquelas pessoas...",
         "es-ES": "[Burled]\nDiciendo 'No invadan este lugar. Esto es una advertencia', una cantidad absurda de monstruos apareció súbitamente y comenzó a atacar a las personas que estaban dentro de la torre, y todas esas personas..."
     },
     "ylkAAQ": {
-        "ko-KR": "천사요?",
         "en-US": "An angel?",
         "pt-BR": "Forma de Anjo?",
         "es-ES": "¿Forma de Ángel?"
     },
     "y1kAAQ": {
-        "ko-KR": "[블레드]\n믿지 못하겠지요? 맞습니다.",
         "en-US": "[Blade]\nYou cannot believe it, can you? That's right.",
         "pt-BR": "[Burled]\nÉ difícil acreditar, não é? Exatamente.",
         "es-ES": "[Burled]\nEs difícil de creer, ¿no es así? Exactamente."
     },
     "zFkAAQ": {
-        "ko-KR": "[블레드]\n레켄베르는 그 사건을 보고 받고 아마 확신했을 겁니다. 이 타워는 바르문트에 의해 봉인이 되었고 그분이 남긴 유산이 남아있을 거라고요.",
         "en-US": "[Blade]\nOnce Rekenber was informed of the events, he must have been convinced. The tower was sealed by Varmunt, and the legacy he left behind would remain..",
         "pt-BR": "[Burled]\nAo receber o relatório sobre aquele incidente, a Rekenber provavelmente teve certeza. De que esta torre havia sido selada por Varmunt e de que os legados deixados por ele ainda estavam aqui.",
         "es-ES": "[Burled]\nAl recibir el informe sobre aquel incidente, Rekenber probablemente se aseguró. De que esta torre había sido sellada por Varmunt y de que los legados dejados por él aún estaban aquí."
     },
     "zVkAAQ": {
-        "ko-KR": "[블레드]\n그래서 몬스터가 있는 곳을 잘못 건드려 사고가 난 것이라며 사건을 은폐해 사람들의 관심으로부터 멀어지게 했습니다.",
         "en-US": "[Blade]\nSo they concealed the incident, saying it had been caused by mistakenly disturbing an area with monsters, and pushed it away from public attention.",
         "pt-BR": "[Burled]\nEntão encobriram o acidente, dizendo que aconteceu porque mexeram errado em um lugar onde havia monstros, afastando assim o interesse das pessoas.",
         "es-ES": "[Burled]\nEntonces encubrieron el accidente, diciendo que sucedió porque metieron mal las manos en un lugar donde había monstruos, alejando así el interés de la gente."
     },
     "zlkAAQ": {
-        "ko-KR": "[블레드]\n사정을 모르는 사람들은 레켄베르의 발표를 듣고 당연히 생존자들의 증언을 믿지 않았죠. 이런 곳에서 천사라니요. 저조차도 오늘 이전까진 믿지 못했으니까요.",
         "en-US": "[Blade]\nPeople who did not know the circumstances naturally did not believe the survivors' testimony after hearing Rekenber's announcement. Angels in a place like this? Even I could not believe it until today.",
         "pt-BR": "[Burled]\nQuem não conhecia a situação ouviu o pronunciamento da Rekenber e naturalmente não acreditou no testemunho dos sobreviventes. Anjos em um lugar como este? Nem eu mesmo conseguia acreditar até hoje.",
         "es-ES": "[Burled]\nQuien no conocía la situación escuchó el comunicado de Rekenber y naturalmente no creyó en el testimonio de los sobrevivientes. ¿Ángeles en un lugar como este? Ni yo mismo podía creerlo hasta hoy."
     },
     "z1kAAQ": {
-        "ko-KR": "[블레드]\n하지만 그건 이 탑을 함부로 오르려는 사람들을 향한 현자의 경고였군요.",
         "en-US": "[Blade]\nBut it was the sage's warning to those who would recklessly climb this tower.",
         "pt-BR": "[Burled]\nMas aquilo era o aviso do Sábio aos que tentassem subir esta torre imprudentemente.",
         "es-ES": "[Burled]\nPero aquello era la advertencia del Sabio a aquellos que intentaran subir esta torre imprudentemente."
     },
     "0FkAAQ": {
-        "ko-KR": "[블레드]\n그럼… 이제 이 수첩을 어떻게 할까요?",
         "en-US": "[Blade]\nThen... what should we do with this notebook now?",
         "pt-BR": "[Burled]\nEntão... o que faremos agora com este caderno?",
         "es-ES": "[Burled]\nEntonces... ¿qué haremos ahora con este cuaderno?"
     },
     "0VkAAQ": {
-        "ko-KR": "[블레드]\n원래 이 타워에서 발견되는 모든 정보 및 사학 자료들은 레켄베르에게 넘겨야 하기 때문에 이 것도 레켄베르에 넘기는게 맞지만..",
         "en-US": "[Blade]\nOriginally, all information and historical materials found in this tower must be handed over to Rekenber, so this too should be turned over to Rekenber, but..",
         "pt-BR": "[Burled]\nOriginalmente, todas as informações e materiais históricos encontrados nesta torre deveriam ser entregues à Rekenber, então o certo seria entregar isto também à Rekenber, mas...",
         "es-ES": "[Burled]\nOriginalmente, toda la información y materiales históricos encontrados en esta torre deberían ser entregados a Rekenber, así que lo correcto sería entregar esto también a Rekenber, pero..."
     },
     "0lkAAQ": {
-        "ko-KR": "[블레드]\n그냥 {0}님께서 보관하시지 않겠습니까? 물론 그들에겐 비밀로요.",
         "en-US": "[Blade]\nWouldn't it be better if you kept it, {0}? Of course, as a secret from them.",
         "pt-BR": "[Burled]\nQue tal você ficar com isso, {0}? Claro que vai ser nosso segredo.",
         "es-ES": "[Burled]\n¿Qué tal si te quedas con esto, {0}? Claro que será nuestro secreto."
     },
     "01kAAQ": {
-        "ko-KR": "네? 왜요?",
         "en-US": "What? Why?",
         "pt-BR": "O quê? Por quê?",
         "es-ES": "¿Qué? ¿Por qué?"
     },
     "1FkAAQ": {
-        "ko-KR": "[블레드]\n...그냥 소소한 복수정도로 생각하셔도 됩니다.",
         "en-US": "[Blade]\n...Just think of it as a small act of revenge.",
         "pt-BR": "[Burled]\n... Pense nisso como uma pequena vingança contra a Rekenber.",
         "es-ES": "[Burled]\n...Piénsalo como una pequeña venganza contra Rekenber."
     },
     "1VkAAQ": {
-        "ko-KR": "[블레드]\n수첩의 내용을 보면, 아직 이 타워에는 많은 비밀이 숨겨져 있는 것 같습니다. 그 비밀을, 레켄베르보다 먼저 {0}님께서 파헤쳐버리는 거죠.",
         "en-US": "[Blade]\nJudging from the notebook's contents, it seems many secrets are still hidden within this tower. You should uncover those secrets before Rekenber does.",
         "pt-BR": "[Burled]\nVários segredos dessa torre podem ser revelados com esse caderno. Em vez da Rekenber, seria melhor que você, {0}, os desvendasse primeiro.",
         "es-ES": "[Burled]\nVarios secretos de esta torre pueden ser revelados con este cuaderno. En lugar de Rekenber, sería mejor que tú, {0}, los descubrieras primero."
     },
     "1lkAAQ": {
-        "ko-KR": "[블레드]\n그들이 아무리 이 타워를 오르고 올라도 아무것도 모르게 말입니다...",
         "en-US": "[Blade]\nSo that no matter how much they climb and climb this tower, they learn nothing at all...",
         "pt-BR": "[Burled]\nNão importa o poder que eles tenham, não vão conseguir saber sobre essa torre...",
         "es-ES": "[Burled]\nNo importa el poder que tengan, no van a poder saber sobre esta torre..."
     },
     "11kAAQ": {
-        "ko-KR": "[블레드]\n하하.. 하하하... 하하하...",
         "en-US": "[Blade]\nHaha.. Hahaha... Hahaha...",
         "pt-BR": "[Burled]\nHaha.. hahaha... hahaha...",
         "es-ES": "[Burled]\nJaja.. jajaja... jajaja..."
     },
     "2FkAAQ": {
-        "ko-KR": "[블레드]\n...조금은 마음이 후련해졌습니다.\n감사합니다.",
         "en-US": "[Blade]\n...I feel a little lighter now.\nThank you.",
         "pt-BR": "[Burled]\n... Eu me sinto um pouco aliviado.\nObrigado.",
         "es-ES": "[Burled]\n...Me siento un poco aliviado.\nGracias."
     },
     "2VkAAQ": {
-        "ko-KR": "[블레드]\n비밀은 잘 지키고 계시겠죠?\n이 타워의 제일 위에는... 영웅이라 불리우는 마검사가 아직도 존재할까요?",
         "en-US": "[Blade]\nYou are keeping the secret well, right?\nAt the very top of this tower... does the magic swordsman called a hero still exist?",
         "pt-BR": "[Burled]\nEsse será o nosso segredo, ok?\nEntão... tem mesmo o fantasma de um herói no topo dessa torre?",
         "es-ES": "[Burled]\nEse será nuestro secreto, ¿de acuerdo?\nEntonces... ¿de verdad hay el fantasma de un héroe en la cima de esta torre?"
     },
     "2lkAAQ": {
-        "ko-KR": "피곤해 보이는군요. 별것 아니지만... 서비스입니다.",
         "en-US": "You look tired. It's nothing much, but... here, it's on the house.",
         "pt-BR": "Você não parece bem, espero que isso te ajude.",
         "es-ES": "No pareces estar bien, espero que esto te ayude."
     },
     "21kAAQ": {
-        "ko-KR": "[블레드]\n수첩을 아직 간직하고 계시군요. 최근에 이곳의 물건을 밀반출하는 모험가들이 많아 소지품을 조사한다던데, 제가 지니고 있어도 될까요?",
         "en-US": "[Blade]\nYou still have the notebook with you. I hear there have been many adventurers smuggling things out of this place recently, and that they are inspecting people's belongings. Would it be all right if I kept it?",
         "pt-BR": "[Burled]\nEntão você ainda está com o caderno. Ouvi dizer que estão revistando os exploradores por causa de contrabando. Posso ficar com o caderno?",
         "es-ES": "[Burled]\nEntonces, ¿aún tienes el cuaderno? Escuché que están registrando a los exploradores por contrabando. ¿Puedo quedarme con el cuaderno?"
     },
     "3FkAAQ": {
-        "ko-KR": "제가 가지고 있을게요.",
         "en-US": "I'll keep it with me.",
         "pt-BR": "Não, eu vou ficar com ele.",
         "es-ES": "No, yo me quedo con él."
     },
     "3VkAAQ": {
-        "ko-KR": "가지고 가세요.",
         "en-US": "Take it with you.",
         "pt-BR": "Sim, pode ficar com ele.",
         "es-ES": "Sí, puedes quedarte con él."
     },
     "3lkAAQ": {
-        "ko-KR": "[블레드]\n알겠습니다. 그럼... 다음에 또 뵐 수 있으면 좋겠군요.",
         "en-US": "[Blade]\nUnderstood. Well then... I hope we can meet again.",
         "pt-BR": "[Burled]\nEntendido. Então... espero poder te ver novamente da próxima vez.",
         "es-ES": "[Burled]\nEntendido. Entonces... espero poder verte nuevamente la próxima vez."
     },
     "31kAAQ": {
-        "ko-KR": "룬장치",
         "en-US": "Rune Device",
         "pt-BR": "Aparato Rúnico",
         "es-ES": "Aparato Rúnico"
     },
     "4FkAAQ": {
-        "ko-KR": "미약하게 마력이 느껴지는 장치가 있다.\n주변의 다른 것들과 똑같이 생겼지만 이 장치에서만 마력이 느껴진다.\n쉽게 드러나지 않도록 숨겨둔 듯한 마력이다.",
         "en-US": "There is a device that faintly emanates magical power.\nIt looks just like the others nearby, but only this device emits magical power.\nIt is magical power that seems hidden so as not to be easily revealed.",
         "pt-BR": "Essa pedra emana uma energia diferente.\nNão parece ser como as outras.\nEssa força mágica não será revelada facilmente.",
         "es-ES": "Esta piedra emana una energía diferente.\nNo parece ser como las otras.\nEsta fuerza mágica no será revelada fácilmente."
     },
     "4VkAAQ": {
-        "ko-KR": "조사한다.",
         "en-US": "Investigate.",
         "pt-BR": "Investigar.",
         "es-ES": "Investigar."
     },
     "4lkAAQ": {
-        "ko-KR": "무시한다.",
         "en-US": "Ignore it.",
         "pt-BR": "Ignorar.",
         "es-ES": "Ignorar."
     },
     "41kAAQ": {
-        "ko-KR": "룬 장치에서 희미하게 느껴지는 마력을 따라가자 룬장치 내부 표면에 뭔가 장막같은게 느껴진다.",
         "en-US": "Following the faint magical power felt from the rune device, you sense something like a veil on the inner surface of the rune device.",
         "pt-BR": "Ao seguir o poder mágico, você sente que há alguma coisa escondida em um mecanismo de runas.",
         "es-ES": "Al seguir el poder mágico, sientes que hay algo escondido en un mecanismo de runas."
     },
     "5FkAAQ": {
-        "ko-KR": "열쇠를 가져다 대자 붉은 빛이 나며 장막이 사라졌다.",
         "en-US": "When you bring the key close, it glows red and the veil disappears.",
         "pt-BR": "Ao aproximar a chave, uma luz vermelha surgiu e a cortina de fumaça desapareceu.",
         "es-ES": "Al acercar la llave, una luz roja surgió y la cortina de humo desapareció."
     },
     "5VkAAQ": {
-        "ko-KR": "장막이 걷히자 룬장치 안 속의 공간이 일그러지며 눈가림용 환영이 사라졌다.\n마력의 근원은 그 속에 감추어져 있던 노란색의 물질이었다.",
         "en-US": "As the veil was lifted, the space inside the rune device distorted, and the concealment illusion vanished.\nThe source of the magic was a yellow substance hidden within.",
         "pt-BR": "Quando a cortina de fumaça se desfez, o espaço dentro do Aparato Rúnico se distorceu e a ilusão usada para encobri-lo desapareceu.\nA fonte da magia era uma substância amarela escondida lá dentro.",
         "es-ES": "Cuando la cortina de humo se disipó, el espacio dentro del Aparato Rúnico se distorsionó y la ilusión usada para cubrirlo desapareció.\nLa fuente de la magia era una sustancia amarilla escondida allí dentro."
     },
     "5lkAAQ": {
-        "ko-KR": "- 강한 마력을 내뿜는 노란색의 열쇠를 획득했습니다.-\n^4D4DFF열쇠를 집어드는 순간 머리속을 관통하는 강렬한 충격과 함께 빛의 환영이 보이기 시작했다.^000000",
         "en-US": "- You have obtained a yellow key emitting strong magical power. -\n^4D4DFFThe moment you picked up the key, a fierce shock pierced your mind, and an illusion of light began to appear.^000000",
         "pt-BR": "- Você conseguiu a poderosa Chave Amarela. -\n^4D4DFFAo segurar a chave, você sente um choque na cabeça. Você vê uma luz muito forte.^000000",
         "es-ES": "- Conseguiste la poderosa Llave Amarilla. -\n^4D4DFFAl sostener la llave, sientes un choque en la cabeza. Ves una luz muy fuerte.^000000"
     },
     "51kAAQ": {
-        "ko-KR": "어지럽고 눈이 부셨지만, 일렁이는 빛의 잔상에 집중하자 환한 빛 무리 속에서 글자들이 떠올랐다.",
         "en-US": "You were dizzy and blinded, but when you focused on the shimmering afterimage of light, letters floated up amid the brilliant cluster of light.",
         "pt-BR": "Apesar da tontura, você se concentra e consegue ver algumas palavras surgindo.",
         "es-ES": "A pesar del mareo, te concentras y logras ver algunas palabras surgiendo."
     },
     "6FkAAQ": {
-        "ko-KR": "^B22222나는 타워의 봉인이 완전하지 않을것이며, 언젠가 깨어질 것을 예상하고 있기에 전언을 남긴다.\n그대가 이 곳에 있다는 것은 이미 입구를 봉쇄해 놓은 결계가 깨지고 봉인이 해제되었다는 의미.",
         "en-US": "^B22222I leave this message because I expect the seal on the tower will not be complete and will one day be broken.\nThe fact that you are here means the barrier sealing the entrance has already been broken and the seal lifted.",
         "pt-BR": "^B22222Eu estou deixando essa mensagem porque este não é o único selo.\nA quem rompeu o selo, significa que a barreira da entrada se dissipou e o selo foi quebrado.",
         "es-ES": "^B22222Estoy dejando este mensaje porque este no es el único sello.\nA quien rompió el sello, significa que la barrera de la entrada se disipó y el sello fue roto."
     },
     "6VkAAQ": {
-        "ko-KR": "^B22222첫 봉인을 푸는 와중에 수많은 자들이 희생되지 아니했는가? 그것이 더 이상의 접근을 막는 경고였거늘.",
         "en-US": "^B22222Were not many sacrificed in the course of breaking the first seal? That was a warning to prevent further approach.",
         "pt-BR": "^B22222Não sei como você rompeu este selo, mas me preocupo com uma coisa. Se o selo foi rompido à força, todos estarão expostos ao perigo. Quantos já morreram?",
         "es-ES": "^B22222No sé cómo rompiste este sello, pero me preocupa una cosa. Si el sello fue roto a la fuerza, todos estarán expuestos al peligro. ¿Cuántos han muerto?"
     },
     "6lkAAQ": {
-        "ko-KR": "^B22222이 탑은 거대한 마력과 수많은 사념들이 응집되어져 있다.\n그 중 가장 강하고 위대했던 한 사내의 염원을 위해 타워를 봉인하기로 했지.\n물론 그 것은 타워 자체의 위험성을 느껴서이기도 하다.",
         "en-US": "^B22222This tower is condensed from immense magical power and countless thoughts.\nFor the sake of the wish of one man, the strongest and greatest among them, I decided to seal the tower.\nOf course, it was also because I sensed the danger of the tower itself.",
         "pt-BR": "^B22222Esta torre tem concentrada em si uma grande energia maligna.\nEla foi selada apenas pela força de vontade de uma única pessoa.\nE já é perigosa por si só.",
         "es-ES": "^B22222Esta torre tiene concentrada en sí una gran energía maligna.\nFue sellada solo por la fuerza de voluntad de una sola persona.\nY ya es peligrosa por sí misma."
     },
     "61kAAQ": {
-        "ko-KR": "^B22222그래서 나는 타워의 봉인을 준비했고.. 내 나름의 성과도 거두었다.\n허나 분명히 먼 미래에 이 봉인을 제거하려는 자가 나타날 것이기에 그때를 대비한 경고를 남겼지.",
         "en-US": "^B22222So I prepared the seal on the tower.. and achieved some results in my own way.\nHowever, knowing that someone would surely appear in the distant future to remove this seal, I left behind a warning for that time.",
         "pt-BR": "^B22222Por isso me esforcei para selá-la, e consegui.\nMas sabia que haveria alguém para romper o selo, por isso deixo aqui o meu aviso.",
         "es-ES": "^B22222Por eso me esforcé en sellarla, y lo logré.\nPero sabía que habría alguien que rompería el sello, por eso dejo aquí mi advertencia."
     },
     "7FkAAQ": {
-        "ko-KR": "^B22222허나 그대가 이곳에 당도했다는 것은 강력한 경고를 무시하면서까지 진실을 알고자 함이겠지.\n그대가 도전하는 봉인은 시대의 영웅이자 슬픈 영혼의 한 사내를 위한 것.\n그리하여 나는 그 자의 이름을 빌어 이 탑의 이름을 짓고 그 자의 영혼을 봉인하였다.",
         "en-US": "^B22222Yet the fact that you have arrived here means you seek the truth even while ignoring a powerful warning.\nThe seal you challenge is for a man who was a hero of the age and a sorrowful soul.\nThus I borrowed his name to name this tower and sealed his soul within it.",
         "pt-BR": "^B22222Agora que o selo se partiu, não faz sentido parar por aqui.\nSeu desafio seria em nome do herói sacrificado.\nDei o nome dele a esta torre, e nela guardei seu espírito.",
         "es-ES": "^B22222Ahora que el sello se rompió, no tiene sentido parar aquí.\nTu desafío sería en nombre del héroe sacrificado.\nLe di su nombre a esta torre, y en ella guardé su espíritu."
     },
     "7VkAAQ": {
-        "ko-KR": "^B22222나는 이 타워 모처에 그에 대한 정보를 남기고 룬장치를 만들어 보호한 뒤 훗날 있을지도 모르는 만일에 대비하고자 하였다.",
         "en-US": "^B22222Somewhere in this tower, I left information about him and created rune devices to protect it, to prepare for what may happen in the future.",
         "pt-BR": "^B22222Ninguém consegue deter a curiosidade. Embora quisesse manter tudo isso em segredo, sabia que alguém acabaria sabendo. Por isso criei este aparato rúnico.",
         "es-ES": "^B22222Nadie puede detener la curiosidad. Aunque quería mantener todo esto en secreto, sabía que alguien terminaría sabiéndolo. Por eso creé este aparato rúnico."
     },
     "7lkAAQ": {
-        "ko-KR": "^B22222그대는 선택을 할 수 있다. 여기서 돌아갈 것인지, 내가 남긴 전언을 찾을 것인지.",
         "en-US": "^B22222You may choose. Will you turn back here, or will you seek the message I have left behind?",
         "pt-BR": "^B22222Você pode fazer uma escolha. Voltar daqui ou procurar a mensagem que deixei.",
         "es-ES": "^B22222Puedes hacer una elección. Regresar de aquí o buscar el mensaje que dejé."
     },
     "71kAAQ": {
-        "ko-KR": "^B22222만일 위험을 무릅쓰고서라도 전언을 찾는다면, 그대는 내가 겪었던 일들이 환상이 아니었음을 증명해 주기를 바란다.",
         "en-US": "^B22222If you seek the message despite the danger, then I hope you will prove that what I experienced was not an illusion.",
         "pt-BR": "^B22222Por favor, me prove que tudo que passei não foi uma mera ilusão.",
         "es-ES": "^B22222Por favor, demuéstrame que todo lo que pasé no fue una mera ilusión."
     },
     "8FkAAQ": {
-        "ko-KR": "내용은 여기까지다.\n환영과도 같은 글자들은 휘몰아치며 모이더니 노란색의 열쇠 표면으로 응집되어 사라졌다.",
         "en-US": "That is all it says.\nThe phantom-like letters swirled together, then condensed onto the surface of the yellow key and disappeared.",
         "pt-BR": "A mensagem acabou.\nAs palavras se condensaram em uma fechadura amarela.",
         "es-ES": "El mensaje terminó.\nLas palabras se condensaron en un candado amarillo."
     },
     "8VkAAQ": {
-        "ko-KR": "열쇠가 희미하게 떨리며 미약한 힘이 느껴진다. 힘이 이끄는 곳으로 가 보자.",
         "en-US": "The key trembles faintly, and a slight power can be felt. Let us go where that power leads.",
         "pt-BR": "A chave vibra levemente e uma força fraca pode ser sentida. Vamos para o lugar para onde essa força leva.",
         "es-ES": "La llave vibra ligeramente y se siente una fuerza débil. Vayamos al lugar hacia donde esa fuerza lleva."
     },
     "8lkAAQ": {
-        "ko-KR": "지금 가지고 있는 무기로는 장막을 깨지 못할 것 같다.\n좀 더 강력한 힘을 지닌 무기가 필요하다.",
         "en-US": "It seems impossible to break the veil with the weapon you currently have.\nA weapon with greater power is needed.",
         "pt-BR": "Você não pode romper o selo com a arma que está portando agora.\nVocê precisa de uma arma de nível maior.",
         "es-ES": "No puedes romper el sello con el arma que llevas ahora.\nNecesitas un arma de mayor nivel."
     },
     "81kAAQ": {
-        "ko-KR": "룬장치에서 느껴지는 마력이 신경쓰이긴 하지만 딱히 조사 해 볼 필요성은 느껴지지 않는다.",
         "en-US": "The magical power felt from the rune device is unsettling, but it does not seem necessary to investigate it further.",
         "pt-BR": "Você sente algo mágico no aparato rúnico, mas acha que não precisa investigar.",
         "es-ES": "Sientes algo mágico en el aparato rúnico, pero crees que no necesitas investigar."
     },
     "9FkAAQ": {
-        "ko-KR": "이 룬장치에서 얻을 수 있는 것은 모두 획득한 상태다.",
         "en-US": "Everything that can be obtained from this rune device has already been acquired.",
         "pt-BR": "Você já conseguiu tudo o que podia deste Aparato Rúnico.",
         "es-ES": "Ya has conseguido todo lo que podías de este Aparato Rúnico."
     },
     "9VkAAQ": {
-        "ko-KR": "억지로 감춘 듯한 미약한 마력이 느껴진다. 하지만 마력을 없앨 물건이 없는 것 같다.",
         "en-US": "You can feel a faint magical power that seems to have been forcibly concealed. But it seems you do not have anything that can erase the magic.",
         "pt-BR": "- Você sente alguma magia no aparato. -",
         "es-ES": "- Sientes algo de magia en el aparato. -"
     },
     "9lkAAQ": {
-        "ko-KR": "억지로 감춘 듯한 미약한 마력이 느껴진다. 노란색 열쇠를 가져다 대자 희미한 빛이 나며 장막이 사라졌다.",
         "en-US": "You can feel a faint magical power that seems to have been forcibly concealed. When you bring the yellow key close, it glows faintly and the veil disappears.",
         "pt-BR": "- Vendo de perto, você nota uma tela. -",
         "es-ES": "- Viendo de cerca, notas una pantalla. -"
     },
     "91kAAQ": {
-        "ko-KR": "장치를 살펴보자 낡고 작은 화면이 나왔다.\n화면을 건드리자 '삐~'하는 소리와 함께 화면 작은 칸 세개와 숫자판이 나타났다.",
         "en-US": "When you examine the device, an old, small screen appears.\nAs you touch the screen, it makes a 'Beep~' sound and three small slots and a numeric keypad appear.",
         "pt-BR": "Ao tocar no painel, você ouve um som de bipe.\nAparecem três painéis pequenos e um teclado numérico.",
         "es-ES": "Al tocar el panel, escuchas un sonido de bip.\nAparecen tres paneles pequeños y un teclado numérico."
     },
     "+FkAAQ": {
-        "ko-KR": "아무래도 세자리 숫자를 입력하는 것 같다.\n나타난 숫자판에는 '0'이 없다.\n111을 입력하자 오류가 발생했다. 아무래도 중복숫자의 입력은 불가능한 듯 하다.",
         "en-US": "It seems you need to enter a three-digit number.\nThere is no '0' on the keypad that appeared.\nWhen you enter 111, an error occurs. It seems duplicate numbers cannot be entered.",
         "pt-BR": "- Parece que é preciso colocar três números. -\n- Não há zero no teclado. -\n- Ao inserir '111', aparece um erro. Os números não podem ser repetidos. -",
         "es-ES": "- Parece que hay que poner tres números. -\n- No hay cero en el teclado. -\n- Al insertar '111', aparece un error. Los números no se pueden repetir. -"
     },
     "+VkAAQ": {
-        "ko-KR": "삐잇-\n하는 소리와 함께 오류가 발생했다.",
         "en-US": "Beep-\nAn error has occurred.",
         "pt-BR": "*Bip*\n- Esse som indica erro. -",
         "es-ES": "*Bip*\n- Ese sonido indica error. -"
     },
     "+lkAAQ": {
-        "ko-KR": "[화면]\n입력 숫자 : ^0000FF{0}^000000, ^0000FF{1}^000000, ^0000FF{2}^000000 .\n승인 결과.",
         "en-US": "[Screen]\nInput numbers : ^0000FF{0}^000000, ^0000FF{1}^000000, ^0000FF{2}^000000 .\nApproval result.",
         "pt-BR": "[Tela]\nNúmeros inseridos: ^0000FF{0}^000000, ^0000FF{1}^000000, ^0000FF{2}^000000.\nResultado válido.",
         "es-ES": "[Pantalla]\nNúmeros insertados: ^0000FF{0}^000000, ^0000FF{1}^000000, ^0000FF{2}^000000.\nResultado válido."
     },
     "+1kAAQ": {
-        "ko-KR": "숫자를 모두 맞추자, 룬장치에 갈무리 되어있던 마력이 화면 위로 응집되기 시작했다.\n밝은 빛무리가 모이더니 강한 마력이 느껴지는 어떠한 물체의 형상을 띄었다.",
         "en-US": "When all the numbers are correct, the magical power stored within the rune device begins to gather over the screen.\nThe bright cluster of light gathered and took the form of some object radiating strong magical power.",
         "pt-BR": "- Ao inserir os números certos, o poder mágico se condensa e aparece na superfície da tela. -\n- As luzes se reúnem até formar um objeto...",
         "es-ES": "- Al insertar los números correctos, el poder mágico se condensa y aparece en la superficie de la pantalla. -\n- Las luces se reúnen hasta formar un objeto..."
     },
     "/FkAAQ": {
-        "ko-KR": "^4D4DFF강한 마력을 지닌 파란색의 열쇠가 나타났다.^000000\n^4D4DFF열쇠를 집어드는 순간 머리속을 관통하는 강렬한 충격과 함께 빛의 환영이 보이기 시작했다.^000000",
         "en-US": "^4D4DFFA blue key possessing strong magical power appeared.^000000\n^4D4DFFThe moment you picked up the key, a fierce shock pierced your mind, and the illusion of light began to appear again.^000000",
         "pt-BR": "^4D4DFFApareceu uma Chave Azul com um forte poder mágico.^000000\n^4D4DFFCom uma forte sensação na sua cabeça, você segura a chave... Você vê a mesma luz de quando você adquiriu a primeira chave.^000000",
         "es-ES": "^4D4DFFApareció una Llave Azul con un fuerte poder mágico.^000000\n^4D4DFFCon una fuerte sensación en tu cabeza, sostienes la llave... Ves la misma luz que cuando adquiriste la primera llave.^000000"
     },
     "/VkAAQ": {
-        "ko-KR": "^B22222두번째 봉인까지 찾아내었는가.\n아무래도 그대는 진심인 것 같군.\n봉인의 위치를 알려주고 싶지만 그래선 내가 애써 봉인을 한 의미가 없지않겠나.\n힌트는 주지. 5층에서 독수리를 찾게나.",
         "en-US": "^B22222So you have found the second seal.\nIt seems you are sincere.\nI would like to tell you the location of the seal, but then there would be no meaning in the trouble I took to seal it.\nI will give you a hint. Search for the eagle on the 5th floor.",
         "pt-BR": "^B22222Você encontrou a segunda chave.\nVocê parece ter coragem, afinal.\nVou lhe dar pistas para encontrar o selo.\nProcure por uma Águia no 5º andar.",
         "es-ES": "^B22222Encontraste la segunda llave.\nParece que tienes coraje, después de todo.\nTe daré pistas para encontrar el sello.\nBusca un Águila en el 5.º piso."
     },
     "/lkAAQ": {
-        "ko-KR": "^B22222내가 이곳까지 오게 된 것은.. 여러가지 이유가 있겠지만 나는 어떠한 존재를 찾아 여기까지 온것이라네.\n우리 인간들의 머리로는 이해하지 못하는 존재..",
         "en-US": "^B22222There were many reasons why I came this far.. but I came here seeking a certain being.\nA being beyond the understanding of our human minds..",
         "pt-BR": "^B22222Há muitos motivos pelos quais cheguei até aqui... mas eu vim até este lugar em busca de certa existência.\nUma existência que nós, humanos, não conseguimos compreender com a nossa mente..",
         "es-ES": "^B22222Hay muchas razones por las que llegué hasta aquí... pero yo vine a este lugar en busca de cierta existencia.\nUna existencia que nosotros, los humanos, no podemos comprender con nuestra mente.."
     },
     "/1kAAQ": {
-        "ko-KR": "^B22222유페로스에서 그녀를 발견했을때 나는 놀란 가슴을 진정시킬 수가 없었다네.\n그녀와 함께 있던 그 깊은 지하 속에서 고대의 지식일지.. 신의 창조물일지 모를 거인들은 그간 멈춰 있던 나의 연구에 박차를 가해 주었지.",
         "en-US": "^B22222When I found her in Juperos, I could not calm my astonished heart.\nIn that deep underground place where she was, the giants that may have been ancient knowledge.. or perhaps creations of God, spurred on my research, which had long stood still.",
         "pt-BR": "^B22222Quando eu a encontrei em Juperos, não consegui relaxar.\nOs gigantes que estavam com ela nas profundezas da caverna me fizeram acelerar a investigação...",
         "es-ES": "^B22222Cuando la encontré en Juperos, no pude relajarme.\nLos gigantes que estaban con ella en las profundidades de la caverna me hicieron acelerar la investigación..."
     },
     "AFoAAQ": {
-        "ko-KR": "^B22222특히 그녀의 존재를 깨달았을때 나는 맹목적으로 그녀를 흔적을 찾고자 했다네.\n도대체 어떠한 존재였는가, 흡사 인간 여성의 모습을 그대로 가지고 있는 이 유체는..",
         "en-US": "^B22222Especially after realizing the existence of her, I pursued her traces blindly.\nWhat kind of being was this spirit, bearing the very appearance of a human woman..",
         "pt-BR": "^B22222Quando descobri que ela sumiu lá, fiquei cegamente obcecado por seguir seu rastro.\nO que é ela? Tem a forma de uma mulher...",
         "es-ES": "^B22222Cuando descubrí que ella desapareció allí, me obsesioné ciegamente por seguir su rastro.\n¿Qué es ella? Tiene forma de mujer..."
     },
     "AVoAAQ": {
-        "ko-KR": "^B22222그녀의 유체에서 감지한 특이한 마력의 기운을따라...10년전일지 100년전일지 심지어 1000년전일지도 모를 흔적을 찾아 떠돌다 마지막으로 그녀의 흔적, 마력이 끊긴 곳이 이 곳이었지.",
         "en-US": "^B22222Following the strange magical aura I detected from her spirit... I wandered in search of traces that might have been from 10 years ago, 100 years ago, or even 1,000 years ago, until at last this place was where her traces and magic were cut off.",
         "pt-BR": "^B22222Seguindo seus rastros mágicos, que poderiam ter 10, 100, 1.000 anos... descobri que aqui era o lugar onde seu rastro desaparecia.",
         "es-ES": "^B22222Siguiendo sus rastros mágicos, que podrían tener 10, 100, 1,000 años... descubrí que aquí era el lugar donde su rastro desaparecía."
     },
     "AloAAQ": {
-        "ko-KR": "^B22222이 탑은.. 탑이 세워진 목적은.....^000000",
         "en-US": "^B22222This tower.. the purpose for which this tower was built.....^000000",
         "pt-BR": "^B22222Essa torre... o propósito dessa torre era.....^000000",
         "es-ES": "^B22222Esta torre... el propósito de esta torre era.....^000000"
     },
     "A1oAAQ": {
-        "ko-KR": "갑자기 환영이 뭔가에 심한 방해를 받는듯 흔들렸다 멈추기를 반복하다 이내 사라져버렸다.",
         "en-US": "Suddenly, the illusion shook as if severely disturbed by something, stopping and starting, and then disappeared.",
         "pt-BR": "De repente, a mensagem se dissipa.",
         "es-ES": "De repente, el mensaje se disipa."
     },
     "BFoAAQ": {
-        "ko-KR": "[화면]\n삐이-\n잘못된 승인번호 입력",
         "en-US": "[Screen]\nBeeep-\nIncorrect approval number input",
         "pt-BR": "[Tela]\n*Biiiip*\nSequência numérica inválida",
         "es-ES": "[Pantalla]\n*Biiiip*\nSecuencia numérica inválida"
     },
     "BVoAAQ": {
-        "ko-KR": "[화면]\n숫자와 자리 수를 맞춘 건 ^FF0000{0}^000000 개\n숫자만 맞춘 건 ^FF0000{1}^000000 개",
         "en-US": "[Screen]\nThe number of digits with both correct number and position: ^FF0000{0}^000000\nThe number of correct numbers only: ^FF0000{1}^000000",
         "pt-BR": "[Tela]\nNúmeros no local correto: ^FF0000{0}^000000\nTotal de números corretos: ^FF0000{1}^000000",
         "es-ES": "[Pantalla]\nNúmeros en el lugar correcto: ^FF0000{0}^000000\nTotal de números correctos: ^FF0000{1}^000000"
     },
     "BloAAQ": {
-        "ko-KR": "[화면]\n숫자와 자리 수를 맞춘 건 ^FF0000{0}^000000 개\n숫자만 맞춘 건 ^FF0000{1}^000000 개 입니다.",
         "en-US": "[Screen]\nThe number of digits with both correct number and position: ^FF0000{0}^000000\nThe number of correct numbers only: ^FF0000{1}^000000.",
         "pt-BR": "[Tela]\nNúmeros no local correto: ^FF0000{0}^000000\nTotal de números corretos: ^FF0000{1}^000000.",
         "es-ES": "[Pantalla]\nNúmeros en el lugar correcto: ^FF0000{0}^000000\nTotal de números correctos: ^FF0000{1}^000000."
     },
     "B1oAAQ": {
-        "ko-KR": "승인 번호 : ^FF0000{0}^000000, ^FF0000{1}^000000, ^FF0000{2}^000000\n재 시도 시 승인번호 교체",
         "en-US": "Approval number : ^FF0000{0}^000000, ^FF0000{1}^000000, ^FF0000{2}^000000\nApproval number will change upon retry",
         "pt-BR": "Sequência correta: ^FF0000{0}^000000, ^FF0000{1}^000000, ^FF0000{2}^000000\nNúmeros serão alterados a cada tentativa.",
         "es-ES": "Secuencia correcta: ^FF0000{0}^000000, ^FF0000{1}^000000, ^FF0000{2}^000000\nLos números cambiarán en cada intento."
     },
     "CFoAAQ": {
-        "ko-KR": "이 룬장치에서 얻을 수 있는 것은 이미 모두 획득하였다.",
         "en-US": "Everything obtainable from this rune device has already been acquired.",
         "pt-BR": "Você já conseguiu tudo o que podia neste Aparato Rúnico.",
         "es-ES": "Ya has conseguido todo lo que podías de este Aparato Rúnico."
     },
     "CVoAAQ": {
-        "ko-KR": "화려한석상",
         "en-US": "Ornate Statue",
         "pt-BR": "Estátua Brilhante",
         "es-ES": "Estatua Brillante"
     },
     "CloAAQ": {
-        "ko-KR": "화려한 새의 모양을 한 석상에서 억지로 감춘 듯한 미약한 마력이 느껴진다. 하지만 마력을 없앨 물건이 없는 것 같다.",
         "en-US": "You can feel a faint magical power, as though forcibly hidden, from the statue shaped like a splendid bird. But it seems you do not have anything that can erase the magic.",
         "pt-BR": "- Você sente algum poder mágico nessa estátua parecida com uma Águia. Há uma pequena abertura em cada uma das asas. -",
         "es-ES": "- Sientes algo de poder mágico en esta estatua parecida a un Águila. Hay una pequeña abertura en cada una de las alas. -"
     },
     "C1oAAQ": {
-        "ko-KR": "화려한 새의 모양을 한 석상에서 억지로 감춘 듯한 미약한 마력이 느껴진다.\n석상을 자세히 살펴보니 양 날개에 깃털이 빠져있는 틈새가 보인다. 무언가를 꽂을 수 있을 것 같다.",
         "en-US": "You can feel a faint magical power, as though forcibly hidden, from the statue shaped like a splendid bird.\nOn closer inspection, there are gaps in both wings where feathers are missing. It seems something can be inserted there.",
         "pt-BR": "Você sente algum poder mágico nessa estátua parecida com uma Águia.\nHá uma pequena abertura em cada uma das asas.",
         "es-ES": "Sientes algo de poder mágico en esta estatua parecida a un Águila.\nHay una pequeña abertura en cada una de las alas."
     },
     "DFoAAQ": {
-        "ko-KR": "아무래도 날개에 꽂아 넣을 물건을 가지고 와야겠다.",
         "en-US": "It seems I will have to bring something to insert into the wings.",
         "pt-BR": "Traga 1x Pena Macia se deseja continuar.",
         "es-ES": "Trae 1x Pluma Suave si deseas continuar."
     },
     "DVoAAQ": {
-        "ko-KR": "부드러운 깃털을 가져다 대자 석상에서 글씨가 떠오른다.",
         "en-US": "When you bring the soft feather close, letters appear from the statue.",
         "pt-BR": "Ao aproximar a Pena Macia, letras surgem na estátua.",
         "es-ES": "Al acercar la Pluma Suave, letras surgen en la estatua."
     },
     "DloAAQ": {
-        "ko-KR": "그대는 영광을 위해 이것을 늘 기억해야 한다.\n첫째는 {0}번의 기도\n두번째는 {1}번의 승리\n세번째는 {2}번의 미소\n네번째는 {3}번의 절망\n다섯번째는 {4}번의 바람\n여섯번째는 {5}번의 꿈\n일곱번째는 {6}번의 친절\n그 가운데 바라는 것이 있다.",
         "en-US": "You must always remember this for glory.\nFirst, the {0}th prayer\nSecond, the {1}th victory\nThird, the {2}th smile\nFourth, the {3}th despair\nFifth, the {4}th wind\nSixth, the {5}th dream\nSeventh, the {6}th kindness\nAmong them is what you desire.",
         "pt-BR": "Lembre-se do poema:\nA primeira abertura é a {0}ª Oração.\nA segunda abertura é a {1}ª Vitória.\nA terceira abertura é a {2}ª Alegria.\nA quarta abertura é o {3}º Desespero.\nA quinta abertura é o {4}º Desejo.\nA sexta abertura é o {5}º Sonho.\nA sétima abertura é a {6}ª Bondade.\nSomente três penas garantirão a glória.",
         "es-ES": "Recuerda el poema:\nLa primera abertura es la {0}ª Oración.\nLa segunda abertura es la {1}ª Victoria.\nLa tercera abertura es la {2}ª Alegría.\nLa cuarta abertura es el {3}º Desespero.\nLa quinta abertura es el {4}º Deseo.\nLa sexta abertura es el {5}º Sueño.\nLa séptima abertura es la {6}ª Bondad.\nSolo tres plumas garantizarán la gloria."
     },
     "D1oAAQ": {
-        "ko-KR": "어떻게 할까?",
         "en-US": "What shall you do?",
         "pt-BR": "Onde usar a Pena Macia?",
         "es-ES": "¿Dónde usar la Pluma Suave?"
     },
     "EFoAAQ": {
-        "ko-KR": "첫번째 틈에 깃털을 꽂는다.",
         "en-US": "Insert the feather into the first slot.",
         "pt-BR": "Encaixar na 1ª abertura.",
         "es-ES": "Encajar en la 1.ª abertura."
     },
     "EVoAAQ": {
-        "ko-KR": "두번째 틈에 깃털을 꽂는다.",
         "en-US": "Insert the feather into the second slot.",
         "pt-BR": "Encaixar na 2ª abertura.",
         "es-ES": "Encajar en la 2.ª abertura."
     },
     "EloAAQ": {
-        "ko-KR": "세번째 틈에 깃털을 꽂는다.",
         "en-US": "Insert the feather into the third slot.",
         "pt-BR": "Encaixar na 3ª abertura.",
         "es-ES": "Encajar en la 3.ª abertura."
     },
     "E1oAAQ": {
-        "ko-KR": "네번째 틈에 깃털을 꽂는다.",
         "en-US": "Insert the feather into the fourth slot.",
         "pt-BR": "Encaixar na 4ª abertura.",
         "es-ES": "Encajar en la 4.ª abertura."
     },
     "FFoAAQ": {
-        "ko-KR": "다섯번째 틈에 깃털을 꽂는다.",
         "en-US": "Insert the feather into the fifth slot.",
         "pt-BR": "Encaixar na 5ª abertura.",
         "es-ES": "Encajar en la 5.ª abertura."
     },
     "FVoAAQ": {
-        "ko-KR": "여섯번째 틈에 깃털을 꽂는다.",
         "en-US": "Insert the feather into the sixth slot.",
         "pt-BR": "Encaixar na 6ª abertura.",
         "es-ES": "Encajar en la 6.ª abertura."
     },
     "FloAAQ": {
-        "ko-KR": "일곱번째 틈에 깃털을 꽂는다.",
         "en-US": "Insert the feather into the seventh slot.",
         "pt-BR": "Encaixar na 7ª abertura.",
         "es-ES": "Encajar en la 7.ª abertura."
     },
     "F1oAAQ": {
-        "ko-KR": "첫번째 틈에 깃털을 꽂아 넣자 석상이 푸르게 빛난다. 무엇을 넣어 볼까?",
         "en-US": "When you insert the feather into the first slot, the statue glows blue. What will you insert?",
         "pt-BR": "Ao encaixar a Pena Macia na 1ª abertura, a estátua brilha em azul. O que inserir?",
         "es-ES": "Al encajar la Pluma Suave en la 1.ª abertura, la estatua brilla en azul. ¿Qué insertar?"
     },
     "GFoAAQ": {
-        "ko-KR": "노란 열쇠",
         "en-US": "Yellow key",
         "pt-BR": "Chave Amarela",
         "es-ES": "Llave Amarilla"
     },
     "GVoAAQ": {
-        "ko-KR": "파란 열쇠",
         "en-US": "Blue key",
         "pt-BR": "Chave Azul",
         "es-ES": "Llave Azul"
     },
     "GloAAQ": {
-        "ko-KR": "빨간 열쇠",
         "en-US": "Red key",
         "pt-BR": "Chave Vermelha",
         "es-ES": "Llave Roja"
     },
     "G1oAAQ": {
-        "ko-KR": "초록 열쇠",
         "en-US": "Green key",
         "pt-BR": "Chave Verde",
         "es-ES": "Llave Verde"
     },
     "HFoAAQ": {
-        "ko-KR": "가지고 있는 소지품 중에는 알맞는 물건이 없다...!!\n강한 반발력과 함께 부드러운 깃털이 사라졌다.",
         "en-US": "There is no suitable item among the possessions you are carrying...!!\nThe soft feather vanished with a strong repelling force.",
         "pt-BR": "Não há nenhum item apropriado entre os seus pertences...!!\nA Pena Macia desapareceu junto com uma forte força de repulsão.",
         "es-ES": "No hay ningún objeto apropiado entre tus pertenencias...!!\nLa Pluma Suave desapareció junto con una fuerte fuerza de repulsión."
     },
     "HVoAAQ": {
-        "ko-KR": "첫번째 틈에 깃털을 꽂아 넣자 강한 반발력과 함께 부드러운 깃털이 사라졌다.",
         "en-US": "When you insert the feather into the first slot, the soft feather vanishes with a strong repelling force.",
         "pt-BR": "Ao encaixar a Pena Macia na 1ª abertura, a Pena Macia desapareceu junto com uma força de repulsão.",
         "es-ES": "Al encajar la Pluma Suave en la 1.ª abertura, la Pluma Suave desapareció junto con una fuerza de repulsión."
     },
     "HloAAQ": {
-        "ko-KR": "두번째 틈에 깃털을 꽂아 넣자 석상이 푸르게 빛난다. 무엇을 넣어 볼까?",
         "en-US": "When you insert the feather into the second slot, the statue glows blue. What will you insert?",
         "pt-BR": "Ao encaixar a Pena Macia na 2ª abertura, a estátua brilha em azul. O que tentar inserir?",
         "es-ES": "Al encajar la Pluma Suave en la 2.ª abertura, la estatua brilla en azul. ¿Qué intentas insertar?"
     },
     "H1oAAQ": {
-        "ko-KR": "두번째 틈에 깃털을 꽂아 넣자 강한 반발력과 함께 부드러운 깃털이 사라졌다.",
         "en-US": "When you insert the feather into the second slot, the soft feather vanishes with a strong repelling force.",
         "pt-BR": "Ao encaixar a Pena Macia na 2ª abertura, a Pena Macia desapareceu junto com uma força de repulsão.",
         "es-ES": "Al encajar la Pluma Suave en la 2.ª abertura, la Pluma Suave desapareció junto con una fuerza de repulsión."
     },
     "IFoAAQ": {
-        "ko-KR": "세번째 틈에 깃털을 꽂아 넣자 석상이 푸르게 빛난다. 무엇을 넣어 볼까?",
         "en-US": "When you insert the feather into the third slot, the statue glows blue. What will you insert?",
         "pt-BR": "Ao encaixar a Pena Macia na 3ª abertura, a estátua brilha em azul. O que tentar inserir?",
         "es-ES": "Al encajar la Pluma Suave en la 3.ª abertura, la estatua brilla en azul. ¿Qué intentas insertar?"
     },
     "IVoAAQ": {
-        "ko-KR": "세번째 틈에 깃털을 꽂아 넣자 강한 반발력과 함께 부드러운 깃털이 사라졌다.",
         "en-US": "When you insert the feather into the third slot, the soft feather vanishes with a strong repelling force.",
         "pt-BR": "Ao encaixar a Pena Macia na 3ª abertura, a Pena Macia desapareceu junto com uma força de repulsão.",
         "es-ES": "Al encajar la Pluma Suave en la 3.ª abertura, la Pluma Suave desapareció junto con una fuerza de repulsión."
     },
     "IloAAQ": {
-        "ko-KR": "네번째 틈에 깃털을 꽂아 넣자 석상이 푸르게 빛난다. 무엇을 넣어 볼까?",
         "en-US": "When you insert the feather into the fourth slot, the statue glows blue. What will you insert?",
         "pt-BR": "Ao encaixar a Pena Macia na 4ª abertura, a estátua brilha em azul. O que tentar inserir?",
         "es-ES": "Al encajar la Pluma Suave en la 4.ª abertura, la estatua brilla en azul. ¿Qué intentas insertar?"
     },
     "I1oAAQ": {
-        "ko-KR": "네번째 틈에 깃털을 꽂아 넣자 강한 반발력과 함께 부드러운 깃털이 사라졌다.",
         "en-US": "When you insert the feather into the fourth slot, the soft feather vanishes with a strong repelling force.",
         "pt-BR": "Ao encaixar a Pena Macia na 4ª abertura, a Pena Macia desapareceu junto com uma força de repulsão.",
         "es-ES": "Al encajar la Pluma Suave en la 4.ª abertura, la Pluma Suave desapareció junto con una fuerza de repulsión."
     },
     "JFoAAQ": {
-        "ko-KR": "다섯번째 틈에 깃털을 꽂아 넣자 석상이 푸르게 빛난다. 무엇을 넣어 볼까?",
         "en-US": "When you insert the feather into the fifth slot, the statue glows blue. What will you insert?",
         "pt-BR": "Ao encaixar a Pena Macia na 5ª abertura, a estátua brilha em azul. O que tentar inserir?",
         "es-ES": "Al encajar la Pluma Suave en la 5.ª abertura, la estatua brilla en azul. ¿Qué intentas insertar?"
     },
     "JVoAAQ": {
-        "ko-KR": "다섯번째 틈에 깃털을 꽂아 넣자 강한 반발력과 함께 부드러운 깃털이 사라졌다.",
         "en-US": "When you insert the feather into the fifth slot, the soft feather vanishes with a strong repelling force.",
         "pt-BR": "Ao encaixar a Pena Macia na 5ª abertura, a Pena Macia desapareceu junto com uma força de repulsão.",
         "es-ES": "Al encajar la Pluma Suave en la 5.ª abertura, la Pluma Suave desapareció junto con una fuerza de repulsión."
     },
     "JloAAQ": {
-        "ko-KR": "여섯번째 틈에 깃털을 꽂아 넣자 석상이 푸르게 빛난다. 무엇을 넣어 볼까?",
         "en-US": "When you insert the feather into the sixth slot, the statue glows blue. What will you insert?",
         "pt-BR": "Ao encaixar a Pena Macia na 6ª abertura, a estátua brilha em azul. O que tentar inserir?",
         "es-ES": "Al encajar la Pluma Suave en la 6.ª abertura, la estatua brilla en azul. ¿Qué intentas insertar?"
     },
     "J1oAAQ": {
-        "ko-KR": "여섯번째 틈에 깃털을 꽂아 넣자 강한 반발력과 함께 부드러운 깃털이 사라졌다.",
         "en-US": "When you insert the feather into the sixth slot, the soft feather vanishes with a strong repelling force.",
         "pt-BR": "Ao encaixar a Pena Macia na 6ª abertura, a Pena Macia desapareceu junto com uma força de repulsão.",
         "es-ES": "Al encajar la Pluma Suave en la 6.ª abertura, la Pluma Suave desapareció junto con una fuerza de repulsión."
     },
     "KFoAAQ": {
-        "ko-KR": "일곱번째 틈에 깃털을 꽂아 넣자 석상이 푸르게 빛난다. 무엇을 넣어 볼까?",
         "en-US": "When you insert the feather into the seventh slot, the statue glows blue. What will you insert?",
         "pt-BR": "Ao encaixar a Pena Macia na 7ª abertura, a estátua brilha em azul. O que tentar inserir?",
         "es-ES": "Al encajar la Pluma Suave en la 7.ª abertura, la estatua brilla en azul. ¿Qué intentas insertar?"
     },
     "KVoAAQ": {
-        "ko-KR": "일곱번째 틈에 깃털을 꽂아 넣자 강한 반발력과 함께 부드러운 깃털이 사라졌다.",
         "en-US": "When you insert the feather into the seventh slot, the soft feather vanishes with a strong repelling force.",
         "pt-BR": "Ao encaixar a Pena Macia na ª7ª abertura, a Pena Macia desapareceu junto com uma força de repulsão.",
         "es-ES": "Al encajar la Pluma Suave en la 7.ª abertura, la Pluma Suave desapareció junto con una fuerza de repulsión."
     },
     "KloAAQ": {
-        "ko-KR": "열쇠를 넣자 찰칵하는 소리가 나며 딱 맞게 들어간다.\n양 날개가 살짝 꺾이더니 새의 부리부분이 열리며 밝은 빛과 강한 마력이 쏟아져 나왔다.\n열린 공간 안쪽에 열쇠의 형상을 띈 무언가가 보인다.",
         "en-US": "When you insert the key, it fits perfectly with a click.\nThe two wings bend slightly, then the bird's beak opens and bright light and strong magical power pour out.\nInside the opened space, you can see something in the shape of a key.",
         "pt-BR": "- A chave se encaixa com um clique. -\n- De repente, o bico do pássaro se abre, emitindo uma luz forte. -\n- Dentro dela há algo que se parece com uma chave. -",
         "es-ES": "- La llave encaja con un clic. -\n- De repente, el pico del pájaro se abre, emitiendo una luz fuerte. -\n- Dentro de ella hay algo que se parece a una llave. -"
     },
     "K1oAAQ": {
-        "ko-KR": "^4D4DFF강한 마력을 지닌 초록색의 열쇠가 나타났다.^000000\n^4D4DFF열쇠를 집어드는 순간 머리속을 관통하는 강렬한 충격과 함께\n예의 그 빛으로 된 환영이 보이기 시작했다.^000000",
         "en-US": "^4D4DFFA green key possessing strong magical power appeared.^000000\n^4D4DFFThe moment you picked up the key, a fierce shock pierced your mind, and\nthat familiar illusion made of light began to appear again.^000000",
         "pt-BR": "^4D4DFFUma poderosa Chave Verde aparece.^000000\n^4D4DFFAo segurar a chave, você sente um choque na cabeça.\nUma luz muito forte surge.^000000",
         "es-ES": "^4D4DFFUna poderosa Llave Verde aparece.^000000\n^4D4DFFAl sostener la llave, sientes un choque en la cabeza.\nUna luz muy fuerte surge.^000000"
     },
     "LFoAAQ": {
-        "ko-KR": "이전과는 다르게 부분 부분이 흐릿하다.\n애써 집중해 보이는 부분만 드문드문 읽어보았다.",
         "en-US": "Unlike before, parts of it are blurred.\nYou tried hard to concentrate and could only read the visible portions in fragments.",
         "pt-BR": "Diferente das outras mensagens, o texto tem partes borradas.\nVocê tenta decifrar o que ele diz.",
         "es-ES": "A diferencia de otros mensajes, el texto tiene partes borrosas.\nIntentas descifrar lo que dice."
     },
     "LVoAAQ": {
-        "ko-KR": "^B22222....바로 이 탑을 세운 존재가 인간이나 신들이 아니라 마족이라는 사실이네.\n이 점에 흥미를 느낀 나는,\n과연 어떤 목적으로 마족들이 이 탑을 세웠는지 연구하기 시작했지.",
         "en-US": "^B22222....The very being that built this tower was not human nor gods, but demons.\nThis point intrigued me,\nand so I began researching for what purpose the demons had built this tower.",
         "pt-BR": "^B22222....É verdade que esta torre foi construída por demônios.\nIsso me intrigou.\nComecei a pesquisar o porquê dos demônios a terem erguido.",
         "es-ES": "^B22222....Es verdad que esta torre fue construida por demonios.\nEso me intrigó.\nComencé a investigar por qué los demonios la habían erigido."
     },
     "LloAAQ": {
-        "ko-KR": "^B22222그렇게 .... .. ., 두 가지...흥미로운 사실이... 첫 번째는 이 탑이 천년 전의 전쟁 당시 마족을 불러내는 게이트의 역할을 했다는 것이고..",
         "en-US": "^B22222Thus .... .. ., two... interesting facts... The first was that this tower served as a gate to summon demons during the war a thousand years ago..",
         "pt-BR": "^B22222Então.... ...dois fatos interessantes...O primeiro... essa torre já existia na guerra de 1.000 anos atrás. Ela servia como portal para invocar outros demônios...",
         "es-ES": "^B22222Entonces.... ...dos hechos interesantes... El primero... esta torre ya existía en la guerra de 1,000 años atrás. Servía como portal para invocar otros demonios..."
     },
     "L1oAAQ": {
-        "ko-KR": "..........잘 보이지 않는다.......\n^B22222..모로크가 이 게이트를 통해\n마계에서 이 곳, 미드가츠 대륙으로.. 하지만 그것은 천년 전쟁이 끝난 후...",
         "en-US": "..........It is hard to see.......\n^B22222..Morroc through this gate\nfrom the demon world to this place, the Midgarts Continent.. But that was after the thousand-year war had ended...",
         "pt-BR": ".......... Não consigo ler direito .......\n^B22222...Satã Morroc passou por esse portal.\nEle saiu do seu mundo e veio para Midgard, mas isso foi depois que a Guerra de 1.000 anos acabou...",
         "es-ES": ".......... No puedo leer bien .......\n^B22222...Satán Morroc pasó por este portal.\nSalió de su mundo y vino a Midgard, pero eso fue después de que la Guerra de 1,000 años terminara..."
     },
     "MFoAAQ": {
-        "ko-KR": "^B22222의문인 점은 어째서 그녀가 이 곳으로 온 시기와 마왕이 등장한 시기가 일치하는 것인가..\n라는 것이었............. 진실은.............^000000",
         "en-US": "^B22222What remained a mystery was why the time when she came here coincided with the time the Demon King appeared..\nwhich was............. the truth was.............^000000",
         "pt-BR": "^B22222A grande questão é: por que, quando ela apareceu aqui, Satã Morroc surgiu ao mesmo tempo?\nA verdade é.......... que.............^000000",
         "es-ES": "^B22222La gran pregunta es: ¿por qué, cuando ella apareció aquí, Satán Morroc surgió al mismo tiempo?\nLa verdad es.......... que.............^000000"
     },
     "MVoAAQ": {
-        "ko-KR": "환영은 크게 한 번 일렁이더니 곧 빛무리로 변해 열쇠의 표면으로 녹아들었다.",
         "en-US": "The illusion flickered once greatly, then soon turned into a cluster of light and melted into the surface of the key.",
         "pt-BR": "A imagem se funde à superfície da chave na forma de luz.",
         "es-ES": "La imagen se funde con la superficie de la llave en forma de luz."
     },
     "MloAAQ": {
-        "ko-KR": "이미 이 석상에서 얻을 수 있는 것은 모두 획득한 상태다.",
         "en-US": "Everything that can be obtained from this statue has already been acquired.",
         "pt-BR": "Você já conseguiu o que precisava nesta estátua.",
         "es-ES": "Ya has conseguido lo que necesitabas de esta estatua."
     },
     "M1oAAQ": {
-        "ko-KR": "화려한 석상 아래로 미약한 마력이 느껴진다.\n억지로 감춰진 느낌이 드는 것으로 보아 봉인의 하나인 듯 하다.",
         "en-US": "You can feel a slight magical power beneath the ornate statue.\nSince it feels forcibly concealed, it seems to be one of the seals.",
         "pt-BR": "- Você sente alguma coisa mágica sob esta estátua brilhante. -\n- Parece ser o selo. -",
         "es-ES": "- Sientes algo mágico debajo de esta estatua brillante. -\n- Parece ser el sello. -"
     },
     "NFoAAQ": {
-        "ko-KR": "좀 더 자세히 살펴보자, 여신상 주변에 작은 홈이 파인 둥근 장식물이 떠 있다.\n장식물에선 미약하게 초록 빛이 나고 있다.\n어떻게 할까?",
         "en-US": "On closer inspection, there is a round ornament with a small groove carved into it floating around the goddess statue.\nThe ornament is faintly glowing green.\nWhat shall you do?",
         "pt-BR": "- Há uma engrenagem, com um buraco no meio. -\n- Luzes vermelhas, amarelas e azuis se alternam brilhando dentro dela. -\n- O que você faz? -",
         "es-ES": "- Hay un engranaje, con un agujero en el medio. -\n- Luces rojas, amarillas y azules se alternan brillando dentro de él. -\n- ¿Qué haces? -"
     },
     "NVoAAQ": {
-        "ko-KR": "열쇠를 꽂아본다.",
         "en-US": "Try inserting the key.",
         "pt-BR": "Inserir Chaves.",
         "es-ES": "Insertar Llaves."
     },
     "NloAAQ": {
-        "ko-KR": "초록색 열쇠를 장식물의 홈에 알맞게 끼우자 아래쪽에 있던 석상의 단이 '덜컥' 열렸다.\n속에는 작은 톱니바퀴들이 서로 맞물려 돌아가고 있다.",
         "en-US": "When you fit the green key neatly into the groove of the ornament, the pedestal of the statue below opens with a 'Clunk.'\nInside, small gears are meshing and turning together.",
         "pt-BR": "- Ao inserir as chaves na fechadura, combinando-as com cada cor, a Estátua de Pedra se abre. -\n- Você vê pequenas engrenagens se movendo ali dentro. -",
         "es-ES": "- Al insertar las llaves en la cerradura, combinándolas con cada color, la Estatua de Piedra se abre. -\n- Ves pequeños engranajes moviéndose allí dentro. -"
     },
     "N1oAAQ": {
-        "ko-KR": "석상의 본체를 조사한다.",
         "en-US": "Inspect the main body of the statue.",
         "pt-BR": "Investigar a Estátua.",
         "es-ES": "Investigar la Estatua."
     },
     "OFoAAQ": {
-        "ko-KR": "톱니바퀴를 조사한다.",
         "en-US": "Inspect the gears.",
         "pt-BR": "Investigar as engrenagens.",
         "es-ES": "Investigar los engranajes."
     },
     "OVoAAQ": {
-        "ko-KR": "석상 자체에는 아무런 장치가 없다.\n단지 중심부에서 억지로 감춰둔 듯한 강한 마력이 느껴진다.",
         "en-US": "There is no mechanism on the statue itself.\nOnly a strong magical power can be felt from the center, as if it had been forcibly concealed.",
         "pt-BR": "- Parece que há algum aparato escondido na estátua. -\n- Você sente um poder maldito pulsando do centro da estátua, mas ele está escondido. -",
         "es-ES": "- Parece que hay algún aparato escondido en la estatua. -\n- Sientes un poder maldito pulsando desde el centro de la estatua, pero está escondido. -"
     },
     "OloAAQ": {
-        "ko-KR": "톱니바퀴를 조사하기 위해 톱니바퀴들에 손을 대자 톱니바퀴들이 미세하게 움직인다는 사실을 알게 됐다.",
         "en-US": "When you touch the gears to inspect them, you realize they move slightly.",
         "pt-BR": "Quando você põe a mão em uma das engrenagens você percebe que elas se movem lentamente.",
         "es-ES": "Cuando pones la mano en uno de los engranajes, notas que se mueven lentamente."
     },
     "O1oAAQ": {
-        "ko-KR": "톱니바퀴들을 좀 더 조사했다.",
         "en-US": "You examined the gears more closely.",
         "pt-BR": "- Você decide analisar as engrenagens um pouco mais. -",
         "es-ES": "- Decides analizar los engranajes un poco más. -"
     },
     "PFoAAQ": {
-        "ko-KR": "톱니바퀴들을 조사한 결과 5개의 톱니바퀴가 움직이며 작은 톱니바퀴가 2개, 큰 톱니바퀴가 3개가 움직인다는 사실을 알게 됐다.",
         "en-US": "As a result of examining the gears, you learned that five gears move: two small gears and three large gears.",
         "pt-BR": "Como resultado da investigação, você descobriu que 5 engrenagens se movem, sendo 2 pequenas e 3 grandes.",
         "es-ES": "Como resultado de la investigación, descubriste que 5 engranajes se mueven, siendo 2 pequeños y 3 grandes."
     },
     "PVoAAQ": {
-        "ko-KR": "이 중 작은 톱니바퀴는 위와 아래 그리고 살짝 눌러진다는 점을 알게 됐으며,",
         "en-US": "Among them, the small gears can move up, down, and be slightly pressed,",
         "pt-BR": "Ao investigar, você descobre 5 engrenagens se movendo sendo 2 pequenas e 3 engrenagens maiores.",
         "es-ES": "Al investigar, descubres 5 engranajes moviéndose, siendo 2 pequeños y 3 engranajes más grandes."
     },
     "PloAAQ": {
-        "ko-KR": "큰 톱니 바퀴는 위와 아래, 그리고 수직으로 움직인다는 사실을 알게 되었다.",
         "en-US": "while the large gears can move up, down, and rotate vertically.",
         "pt-BR": "Você percebe que as pequenas engrenagens se movem para cima e levemente para baixo. E as engrenagens grandes se movem horizontal e verticalmente.",
         "es-ES": "Notas que los engranajes pequeños se mueven hacia arriba y ligeramente hacia abajo. Y los engranajes grandes se mueven horizontal y verticalmente."
     },
     "P1oAAQ": {
-        "ko-KR": "톱니바퀴들을 움직여보자.",
         "en-US": "Try moving the gears.",
         "pt-BR": "Vamos mexer nas engrenagens.",
         "es-ES": "Vamos a mover los engranajes."
     },
     "QFoAAQ": {
-        "ko-KR": "첫 번째 작은 톱니바퀴",
         "en-US": "First small gear",
         "pt-BR": "1ª Engrenagem Pequena",
         "es-ES": "1.º Engranaje Pequeño"
     },
     "QVoAAQ": {
-        "ko-KR": "두 번째 작은 톱니바퀴",
         "en-US": "Second small gear",
         "pt-BR": "2ª Engrenagem Pequena",
         "es-ES": "2.º Engranaje Pequeño"
     },
     "QloAAQ": {
-        "ko-KR": "첫 번째 큰 톱니바퀴",
         "en-US": "First large gear",
         "pt-BR": "1ª Engrenagem Grande",
         "es-ES": "1.º Engranaje Grande"
     },
     "Q1oAAQ": {
-        "ko-KR": "두 번째 큰 톱니바퀴",
         "en-US": "Second large gear",
         "pt-BR": "2ª Engrenagem Grande",
         "es-ES": "2.º Engranaje Grande"
     },
     "RFoAAQ": {
-        "ko-KR": "세 번째 큰 톱니바퀴",
         "en-US": "Third large gear",
         "pt-BR": "3ª Engrenagem Grande",
         "es-ES": "3.º Engranaje Grande"
     },
     "RVoAAQ": {
-        "ko-KR": "현재 상태를 본다.",
         "en-US": "View current state.",
         "pt-BR": "Ver situação atual.",
         "es-ES": "Ver situación actual."
     },
     "RloAAQ": {
-        "ko-KR": "모두 원래대로 되돌린다.",
         "en-US": "Return everything to its original position.",
         "pt-BR": "Voltar à configuração original.",
         "es-ES": "Volver a la configuración original."
     },
     "R1oAAQ": {
-        "ko-KR": "위로 올린다.",
         "en-US": "Raise it.",
         "pt-BR": "Levantar Engrenagem.",
         "es-ES": "Levantar Engranaje."
     },
     "SFoAAQ": {
-        "ko-KR": "아래로 내린다.",
         "en-US": "Lower it.",
         "pt-BR": "Abaixar Engrenagem.",
         "es-ES": "Bajar Engranaje."
     },
     "SVoAAQ": {
-        "ko-KR": "누른다.",
         "en-US": "Press it.",
         "pt-BR": "Pressionar Engrenagem.",
         "es-ES": "Presionar Engranaje."
     },
     "SloAAQ": {
-        "ko-KR": "수직으로 돌린다.",
         "en-US": "Rotate it vertically.",
         "pt-BR": "Virar na vertical.",
         "es-ES": "Girar verticalmente."
     },
     "S1oAAQ": {
-        "ko-KR": "첫 번째 작은 톱니바퀴 : 그대로",
         "en-US": "First small gear : As is",
         "pt-BR": "1ª Engrenagem Pequena: Intacta",
         "es-ES": "1.º Engranaje Pequeño: Intacto"
     },
     "TFoAAQ": {
-        "ko-KR": "첫 번째 작은 톱니바퀴 : 아래로",
         "en-US": "First small gear : Down",
         "pt-BR": "1ª Engrenagem Pequena: Em baixo",
         "es-ES": "1.º Engranaje Pequeño: Abajo"
     },
     "TVoAAQ": {
-        "ko-KR": "첫 번째 작은 톱니바퀴 : 위로",
         "en-US": "First small gear : Up",
         "pt-BR": "1ª Engrenagem Pequena: Em cima",
         "es-ES": "1.º Engranaje Pequeño: Arriba"
     },
     "TloAAQ": {
-        "ko-KR": "첫 번째 작은 톱니바퀴 : 눌러짐",
         "en-US": "First small gear : Pressed",
         "pt-BR": "1ª Engrenagem Pequena: Pressionada",
         "es-ES": "1.º Engranaje Pequeño: Presionado"
     },
     "T1oAAQ": {
-        "ko-KR": "두 번째 작은 톱니바퀴 : 그대로",
         "en-US": "Second small gear : As is",
         "pt-BR": "2ª Engrenagem Pequena: Intacta",
         "es-ES": "2.º Engranaje Pequeño: Intacto"
     },
     "UFoAAQ": {
-        "ko-KR": "두 번째 작은 톱니바퀴 : 눌러짐",
         "en-US": "Second small gear : Pressed",
         "pt-BR": "2ª Engrenagem Pequena: Pressionada",
         "es-ES": "2.º Engranaje Pequeño: Presionado"
     },
     "UVoAAQ": {
-        "ko-KR": "두 번째 작은 톱니바퀴 : 아래로",
         "en-US": "Second small gear : Down",
         "pt-BR": "2ª Engrenagem Pequena: Em baixo",
         "es-ES": "2.º Engranaje Pequeño: Abajo"
     },
     "UloAAQ": {
-        "ko-KR": "두 번째 작은 톱니바퀴 : 위로",
         "en-US": "Second small gear : Up",
         "pt-BR": "2ª Engrenagem Pequena: Em cima",
         "es-ES": "2.º Engranaje Pequeño: Arriba"
     },
     "U1oAAQ": {
-        "ko-KR": "첫 번째 큰 톱니바퀴 : 그대로",
         "en-US": "First large gear : As is",
         "pt-BR": "1ª Engrenagem Grande: Intacta",
         "es-ES": "1.º Engranaje Grande: Intacto"
     },
     "VFoAAQ": {
-        "ko-KR": "첫 번째 큰 톱니바퀴 : 위로",
         "en-US": "First large gear : Up",
         "pt-BR": "2ª Engrenagem Grande: Em cima",
         "es-ES": "2.º Engranaje Grande: Arriba"
     },
     "VVoAAQ": {
-        "ko-KR": "첫 번째 큰 톱니바퀴 : 돌아감",
         "en-US": "First large gear : Rotated",
         "pt-BR": "1ª Engrenagem Grande: Virada",
         "es-ES": "1.º Engranaje Grande: Girado"
     },
     "VloAAQ": {
-        "ko-KR": "첫 번째 큰 톱니바퀴 : 아래로",
         "en-US": "First large gear : Down",
         "pt-BR": "1ª Engrenagem Grande: Em baixo",
         "es-ES": "1.º Engranaje Grande: Abajo"
     },
     "V1oAAQ": {
-        "ko-KR": "두 번째 큰 톱니바퀴 : 그대로",
         "en-US": "Second large gear : As is",
         "pt-BR": "2ª Engrenagem Grande: Intacta",
         "es-ES": "2.º Engranaje Grande: Intacto"
     },
     "WFoAAQ": {
-        "ko-KR": "두 번째 큰 톱니바퀴 : 돌아감",
         "en-US": "Second large gear : Rotated",
         "pt-BR": "2ª Engrenagem Grande: Virada",
         "es-ES": "2.º Engranaje Grande: Girado"
     },
     "WVoAAQ": {
-        "ko-KR": "두 번째 큰 톱니바퀴 : 위로",
         "en-US": "Second large gear : Up",
         "pt-BR": "2ª Engrenagem Grande: Em cima",
         "es-ES": "2.º Engranaje Grande: Arriba"
     },
     "WloAAQ": {
-        "ko-KR": "두 번째 큰 톱니바퀴 : 아래로",
         "en-US": "Second large gear : Down",
         "pt-BR": "2ª Engrenagem Grande: Em baixo",
         "es-ES": "2.º Engranaje Grande: Abajo"
     },
     "W1oAAQ": {
-        "ko-KR": "세 번째 큰 톱니바퀴 : 그대로",
         "en-US": "Third large gear : As is",
         "pt-BR": "3ª Engrenagem Grande: Intacta",
         "es-ES": "3.º Engranaje Grande: Intacto"
     },
     "XFoAAQ": {
-        "ko-KR": "세 번째 큰 톱니바퀴 : 아래로",
         "en-US": "Third large gear : Down",
         "pt-BR": "3ª Engrenagem Grande: Em baixo",
         "es-ES": "3.º Engranaje Grande: Abajo"
     },
     "XVoAAQ": {
-        "ko-KR": "세 번째 큰 톱니바퀴 : 위로",
         "en-US": "Third large gear : Up",
         "pt-BR": "3ª Engrenagem Grande: Em cima",
         "es-ES": "3.º Engranaje Grande: Arriba"
     },
     "XloAAQ": {
-        "ko-KR": "세 번째 큰 톱니바퀴 : 돌아감",
         "en-US": "Third large gear : Rotated",
         "pt-BR": "3ª Engrenagem Grande: Virada",
         "es-ES": "3.º Engranaje Grande: Girado"
     },
     "X1oAAQ": {
-        "ko-KR": "톱니바퀴를 움직이자 '철컹~' 하는 소리와 함께 톱니바퀴들이 굉장한 기세로 돌아가기 시작했다.\n드르륵드르륵 소리와 함께 석상의 장식물 일부분이 회전하였다.",
         "en-US": "When you move the gears, they begin spinning with tremendous force with a 'Clank~' sound.\nWith a rattling noise, part of the statue's ornament rotates.",
         "pt-BR": "Quando você mexe nas engrenagens, elas começam a rodar rapidamente. \nUma parte da estátua começa a girar.",
         "es-ES": "Cuando mueves los engranajes, comienzan a girar rápidamente.\nUna parte de la estatua comienza a girar."
     },
     "YFoAAQ": {
-        "ko-KR": "가장 화려한 여신상을 중심으로 빛무리가 타고 올라가기 시작했다.\n강한 마력이 한 곳에 응집되며 눈부신 검정색의 빛을 내며 응집되었다.",
         "en-US": "A cluster of light begins climbing up, centered on the most ornate goddess statue.\nStrong magical power gathers in one place and condenses into a dazzling black light.",
         "pt-BR": "Raios de luz começam a surgir da estátua.\nUma poderosa energia mágica se condensa em uma luz preta.",
         "es-ES": "Rayos de luz comienzan a surgir de la estatua.\nUna poderosa energía mágica se condensa en una luz negra."
     },
     "YVoAAQ": {
-        "ko-KR": "^4D4DFF강한 마력을 지닌 검정색의 열쇠가 나타났다.^000000\n^4D4DFF열쇠를 집어드는 순간 머리속을 관통하는 강렬한 충격과 함께 예의 그 빛으로 된 환영이 보이기 시작했다.^000000",
         "en-US": "^4D4DFFA black key possessing strong magical power appeared.^000000\n^4D4DFFThe moment you picked up the key, a fierce shock pierced your mind, and that familiar illusion made of light began to appear once more.^000000",
         "pt-BR": "^4D4DFFUma poderosa Chave Preta aparece.^000000\n^4D4DFFAo segurar a chave, você sente um choque na cabeça. Uma luz muito forte surge.^000000",
         "es-ES": "^4D4DFFUna poderosa Llave Negra aparece.^000000\n^4D4DFFAl sostener la llave, sientes un choque en la cabeza. Una luz muy fuerte surge.^000000"
     },
     "YloAAQ": {
-        "ko-KR": "^B22222..열쇠 네개를 찾고 네개의 마력을 해방했구나...\n이 탑은 먼 과거 마족이 드나들던 문이었고 마지막 방문자가 마왕이라 불리우는 모로크였지.",
         "en-US": "^B22222..You have found the four keys and released the power of the four magics...\nThis tower was a gate through which demons came and went in the distant past, and its last visitor was Morroc, who is called the Demon King.",
         "pt-BR": "^B22222...Você encontrou as 4 chaves... Essa torre era a porta de entrada para demônios de tempos antigos.\nO último a vistá-la foi Satã Morroc, o Demônio Rei.",
         "es-ES": "^B22222...Encontraste las 4 llaves... Esta torre era la puerta de entrada para demonios de tiempos antiguos.\nEl último en visitarla fue Satán Morroc, el Rey Demonio."
     },
     "Y1oAAQ": {
-        "ko-KR": "^B22222내가 흔적을 쫓던 그녀의 마력은 이 탑에 이리저리 흩어져있었고 어느부분을 기점으로 사라졌지.",
         "en-US": "^B22222The magic of her whose traces I pursued was scattered throughout this tower, and vanished from a certain point onward.",
         "pt-BR": "^B22222O rastro de magia daquela mulher estava espalhado por toda essa torre. Mas, em que ponto desapareceu?",
         "es-ES": "^B22222El rastro de magia de aquella mujer estaba esparcido por toda esta torre. Pero, ¿en qué punto desapareció?"
     },
     "ZFoAAQ": {
-        "ko-KR": "^B22222강렬한 마력들의 충돌과.. 전투가..\n그녀는 ..목적이.. 게이트의 봉쇄가...\n..해서.. 나는.. 불완전한 봉인을 ..  게이트를 지키는 자가..^000000",
         "en-US": "^B22222The clash of intense magical powers and.. battle..\nShe.. the purpose.. the sealing of the gate...\n..thus.. I.. the imperfect seal.. the one who guards the gate..^000000",
         "pt-BR": "^B22222Um confronto mágico aconteceu... \nO objetivo dela... era... selar o portal...\n...Tentei fazer o mesmo, mas... o ritual ficou incompleto... o Guardião do Portal era...^000000",
         "es-ES": "^B22222Un enfrentamiento mágico sucedió...\nEl objetivo de ella... era... sellar el portal...\n...Intenté hacer lo mismo, pero... el ritual quedó incompleto... el Guardián del Portal era...^000000"
     },
     "ZVoAAQ": {
-        "ko-KR": "[{0}]\n...읽기 힘들군.",
         "en-US": "[{0}]\n...This is hard to read.",
         "pt-BR": "[{0}]\n...Não consigo ler o nome.",
         "es-ES": "[{0}]\n...No puedo leer el nombre."
     },
     "ZloAAQ": {
-        "ko-KR": "^B22222...그래서 내가 가진 모든 지식을 ...해서 연결지점의 좌표를 ... 변경...아니..\n억지로 타워에 ...들면..뒤틀리도록..\n어찌하였든 그 자의 뜻을 존중해.. 마계로의 입구는.. 봉쇄..",
         "en-US": "^B22222...So with all the knowledge I possessed ... the coordinates of the connection point ... changed... no..\nif forced into the tower ... distorted..\nIn any case, honoring that one's will.. the entrance to the demon world.. sealed off..",
         "pt-BR": "^B22222...Então, com todo o conhecimento que tive... mudei as coordenadas do ponto de conexão...\nse você forçar a entrada da torre... vai ter problemas... \nEu queria respeitar sua vontade... a entrada para o reino dos demônios... está fechada.",
         "es-ES": "^B22222...Entonces, con todo el conocimiento que tuve... cambié las coordenadas del punto de conexión...\nsi fuerzas la entrada de la torre... vas a tener problemas...\nYo quería respetar su voluntad... la entrada al reino de los demonios... está cerrada."
     },
     "Z1oAAQ": {
-        "ko-KR": "^B22222그 자를.. 려면.. 마지막 마력을 해방.....\n...그녀의 .. 찾아와.... 그의 조각을 만났으니.......\n..결국.. .. ...^000000",
         "en-US": "^B22222To.. that one.. release the final magic.....\n...her .. come find.... since you have met his fragment.......\n..in the end.. .. ...^000000",
         "pt-BR": "^B22222Para liberar... sua última magia.....\n...ela reuniu... seus fragmentos.......\n..E então.. .. ...^000000",
         "es-ES": "^B22222Para liberar... su último hechizo.....\n...ella reunió... sus fragmentos.......\n..Y entonces.. .. ...^000000"
     },
     "aFoAAQ": {
-        "ko-KR": "환영이 심하게 일렁이더니 아지랭이처럼 피어올라 퍼지더니 검정색 열쇠의 표면으로 서서히 스며들었다.",
         "en-US": "The illusion flickered violently, then rose and spread like heat haze before slowly seeping into the surface of the black key.",
         "pt-BR": "A ilusão oscilou e desapareceu violentamente.",
         "es-ES": "La ilusión osciló y desapareció violentamente."
     },
     "aVoAAQ": {
-        "ko-KR": "........\n무시하는 게 좋을 듯 하다.",
         "en-US": "........\nIt would be best to ignore it.",
         "pt-BR": "........\nVocê preferiu ignorar.",
         "es-ES": "........\nPreferiste ignorar."
     },
     "aloAAQ": {
-        "ko-KR": "장식물의 홈에 알맞는 열쇠를 가지고 있지 않다.",
         "en-US": "You do not have the proper key for the groove in the ornament.",
         "pt-BR": "Você não tem a chave certa para esta fechadura.",
         "es-ES": "No tienes la llave correcta para esta cerradura."
     },
     "a1oAAQ": {
-        "ko-KR": "별다른 장치가 없을 듯 하다.",
         "en-US": "It does not seem to have any special mechanism.",
         "pt-BR": "Não parece haver nenhum mecanismo especial.",
         "es-ES": "No parece haber ningún mecanismo especial."
     },
     "bFoAAQ": {
-        "ko-KR": "이 석상의 마력은 이미 해방된 상태다. 여기에서 얻을 수 있는 물건은 모두 얻었다.",
         "en-US": "The magic of this statue has already been released. All items obtainable here have already been acquired.",
         "pt-BR": "O feitiço da estátua já foi liberado. Você já pegou tudo o que precisava daqui.",
         "es-ES": "El hechizo de la estatua ya ha sido liberado. Ya has tomado todo lo que necesitabas de aquí."
     },
     "bVoAAQ": {
-        "ko-KR": "화려한장식검",
         "en-US": "Ornate Decorative Sword",
         "pt-BR": "Espada Esplêndida",
         "es-ES": "Espada Espléndida"
     },
     "bloAAQ": {
-        "ko-KR": "화려한 검 장식대에 오래된 장식검이 걸려있다.\n음울한 마력이 은근히 퍼져나오고 있다.",
         "en-US": "An old decorative sword hangs on the ornate sword stand.\nA gloomy magical power is subtly spreading out.",
         "pt-BR": "- Uma espada velha e gasta está pendurada em uma mesa. -\n- Uma aura misteriosa emana da espada. -",
         "es-ES": "- Una espada vieja y gastada está colgada en una mesa. -\n- Un aura misteriosa emana de la espada. -"
     },
     "b1oAAQ": {
-        "ko-KR": "가까이 다가서자 품 속에 가지고 있던 열쇠의 마력과 반응하는듯 강력한 마력의 파장이 느껴진다.",
         "en-US": "As you approach, you can feel a powerful wave of magic, as though it is reacting with the magic of the keys you are carrying.",
         "pt-BR": "Ao se aproximar, sente-se uma poderosa onda de energia mágica, como se reagisse à energia das chaves que você carrega.",
         "es-ES": "Al acercarse, se siente una poderosa onda de energía mágica, como si reaccionara a la energía de las llaves que llevas."
     },
     "cFoAAQ": {
-        "ko-KR": "자세히 본다.",
         "en-US": "Take a closer look.",
         "pt-BR": "Observar de perto.",
         "es-ES": "Observar de cerca."
     },
     "cVoAAQ": {
-        "ko-KR": "가까이 다가갈수록 검에서 우우웅 거리는 소리가 나며 진동이 일어난다.\n검의 손잡이 부분에 자꾸 눈길이 가는 것이........\n품 속에 있던 열쇠들의 마력이 저절로 손을...",
         "en-US": "The closer you get, the more the sword vibrates with a humming sound.\nYour gaze keeps being drawn to the hilt of the sword........\nThe magic of the keys in your possession moves your hand on its own...",
         "pt-BR": "- Você se aproxima mais, e a espada treme, fazendo ruído. -\n- Seu olhar se dirige ao punho da espada, num impulso automático.\n- Você estende as mãos em direção à espada, em um gesto que não pode ser detido. -",
         "es-ES": "- Te acercas más, y la espada tiembla, haciendo ruido. -\n- Tu mirada se dirige al puño de la espada, en un impulso automático.\n- Extiendes las manos hacia la espada, en un gesto que no puedes detener. -"
     },
     "cloAAQ": {
-        "ko-KR": "검날쪽으로....",
         "en-US": "Toward the blade....",
         "pt-BR": "Pegar a Lâmina....",
         "es-ES": "Tomar la Hoja...."
     },
     "c1oAAQ": {
-        "ko-KR": "손잡이쪽으로...",
         "en-US": "Toward the hilt...",
         "pt-BR": "Pegar o Cabo...",
         "es-ES": "Tomar el Cabo..."
     },
     "dFoAAQ": {
-        "ko-KR": "장식대 아래로..",
         "en-US": "Beneath the stand..",
         "pt-BR": "Olhar embaixo da mesa.",
         "es-ES": "Mirar debajo de la mesa."
     },
     "dVoAAQ": {
-        "ko-KR": "알 수 없는 마력에 이끌려 손이 저절로 장식대의 검날 쪽으로 향했다.\n검날을 움켜쥐는 순간 날카로운 날에 손을 베이고 말았다.",
         "en-US": "Drawn by an unknown magical force, your hand moves on its own toward the blade of the sword on the stand.\nThe moment you grab the blade, the sharp edge cuts your hand.",
         "pt-BR": "- Por impulso, você segura a lâmina da espada. -\n- Suas mãos ficam feridas com a lâmina afiada. -",
         "es-ES": "- Por impulso, sujetas la hoja de la espada. -\n- Tus manos se hieren con la hoja afilada. -"
     },
     "dloAAQ": {
-        "ko-KR": "알 수 없는 마력에 손이 저절로 이끌려 장식검의 손잡이를 잡자...\n찌르르한 느낌과 함께 품 속에 갈무리 해뒀던 열쇠의 마력이 검으로 전해지며 '덜컹'하는 소리와 함께 장식대에서 검이 떨어져 나왔다.",
         "en-US": "Drawn by an unknown magical force, your hand is led on its own to grasp the hilt of the decorative sword...\nWith a tingling sensation, the magic of the keys you had kept with you is transferred into the sword, and with a 'Clunk' sound, the sword falls free from the stand.",
         "pt-BR": "- Por impulso, você segura o punho da espada. -\n- O poder misterioso das chaves é transferido para a espada que acaba caindo da mesa. -",
         "es-ES": "- Por impulso, sujetas el puño de la espada. -\n- El poder misterioso de las llaves se transfiere a la espada que termina cayendo de la mesa. -"
     },
     "d1oAAQ": {
-        "ko-KR": "그와 동시에 장식대에 얇고 기다란 홈이 생기며 강렬한 빛이 뿜어져 나왔다.\n이대로 검을 들어...",
         "en-US": "At the same time, a thin, long groove appears in the stand, and an intense light bursts out.\nWith the sword like this...",
         "pt-BR": "- Ao mesmo tempo, uma pequena abertura aparece na superfície da mesa. -\n- Você segura a espada e... -",
         "es-ES": "- Al mismo tiempo, una pequeña abertura aparece en la superficie de la mesa. -\n- Sujetas la espada y... -"
     },
     "eFoAAQ": {
-        "ko-KR": "장식대를 내려친다.",
         "en-US": "Strike down the stand.",
         "pt-BR": "Bate na mesa.",
         "es-ES": "Golpear la mesa."
     },
     "eVoAAQ": {
-        "ko-KR": "홈에 내리꽂는다.",
         "en-US": "Drive it into the groove.",
         "pt-BR": "Insere na abertura.",
         "es-ES": "Insertar en la abertura."
     },
     "eloAAQ": {
-        "ko-KR": "잘 챙겨간다.",
         "en-US": "Carefully take it with you.",
         "pt-BR": "Leva a espada embora.",
         "es-ES": "Llevarse la espada."
     },
     "e1oAAQ": {
-        "ko-KR": "그대로 검으로 장식대를 내려쳤다.\n커다란 마력간의 충돌이 일어나며 충격을 받았다.\n이게 아닌것 같다.\n손에서 떨어져나간 검은 덜그럭 거리더니 제자리로 돌아가 버렸다.",
         "en-US": "You struck down the stand with the sword.\nA great collision of magical powers occurred, and you were struck by the shock.\nThis does not seem right.\nThe sword, slipping from your hand, rattled and returned to its original place.",
         "pt-BR": "- Você acerta a mesa com a espada. -\n- O golpe é repelido por vários feitiços conflitantes. -\n- Você conclui que algo está errado. -\n- A espada automaticamente volta à mesa, como antes. -",
         "es-ES": "- Golpeas la mesa con la espada. -\n- El golpe es repelido por varios hechizos en conflicto. -\n- Concluyes que algo está mal. -\n- La espada vuelve automáticamente a la mesa, como antes. -"
     },
     "fFoAAQ": {
-        "ko-KR": "그대로 홈에 칼날을 내리꽂자 번쩍 하고 빛이 나더니 검은 오오라가 뿜어져 나왔다.\n오오라는 짙은 안개처럼 모이더니 어떤 물체의 형상을 띄기 시작했다.",
         "en-US": "When you thrust the blade into the groove, there is a flash, and a black aura bursts forth.\nThe aura gathers like thick mist and begins to take the shape of some object.",
         "pt-BR": "- Quando você a insere na abertura, luzes piscantes envolvem a espada e uma fumaça preta exala. -\n- Lentamente, a fumaça se solidifica em uma forma definida. -",
         "es-ES": "- Cuando la insertas en la abertura, luces parpadeantes envuelven la espada y un humo negro exhala. -\n- Lentamente, el humo se solidifica en una forma definida. -"
     },
     "fVoAAQ": {
-        "ko-KR": "^4D4DFF열쇠가 가늘게 떨리며 금이 가더니 재가 되어 흩어졌다.^000000",
         "en-US": "^4D4DFFThe keys tremble finely, crack, and scatter away as ash.^000000",
         "pt-BR": "^4D4DFFTodas as chaves se dissiparam.^000000",
         "es-ES": "^4D4DFFTodas las llaves se disiparon.^000000"
     },
     "floAAQ": {
-        "ko-KR": "장식대를 좀 더 자세히 살펴보니 아랫부분이 달칵 하며 열렸다.\n좁고 긴 공간 속에는 낡고 작은 수첩같은 것이 들어있다.",
         "en-US": "Looking more closely at the stand, the lower part clicks open.\nInside the narrow, long space is something like a worn, small notebook.",
         "pt-BR": "- Uma gaveta se abriu sob a mesa. -\n- Dentro dela, você vê um caderno velho. -",
         "es-ES": "- Un cajón se abrió debajo de la mesa. -\n- Dentro de él, ves un cuaderno viejo. -"
     },
     "f1oAAQ": {
-        "ko-KR": "이 수첩에 타워에 대한 정보가 있을 것 같다.\n어쩌면 레켄베르에서 그런 희생을 들여가며 찾으려고 했던 물건일지도 모르겠다.",
         "en-US": "This notebook seems likely to contain information about the tower.\nIt may even be the very item that Rekenber was trying to find at the cost of such sacrifices.",
         "pt-BR": "- O caderno parece ter alguma mensagem importante. -\n- Talvez este caderno seja o que a Rekenber queira tanto encontrar, mesmo sacrificando tanta gente. -",
         "es-ES": "- El cuaderno parece tener algún mensaje importante. -\n- Tal vez este cuaderno sea lo que Rekenber tanto quiere encontrar, incluso sacrificando a tanta gente. -"
     },
     "gFoAAQ": {
-        "ko-KR": "^4D4DFF일단 이 수첩을 블레드에게 보여주자.\n바르문트의 수첩을 획득했다.^000000",
         "en-US": "^4D4DFFFor now, show this notebook to Blade.\nYou obtained Varmundt's Notebook.^000000",
         "pt-BR": "^4D4DFFVocê achou o Caderno de Varmunt.\nVamos mostrar isso para Burled.^000000",
         "es-ES": "^4D4DFFEncontraste el Cuaderno de Varmunt.\nVamos a mostrárselo a Burled.^000000"
     },
     "gVoAAQ": {
-        "ko-KR": "검을 챙겨가기 위해 갈무리를 하려는 찰나 거대한 마력간의 충돌이 일어나 충격을 받았다.\n도둑질은 나쁜 짓이다.\n손에서 놓친 검은 덜그럭 거리더니 제자리로 돌아가 버렸다.",
         "en-US": "Just as you were about to stow away the sword, a great collision of magical powers occurred and struck you with shock.\nStealing is a bad thing.\nThe sword slipped from your hand, rattled, and returned to its original place.",
         "pt-BR": "Ao afastar a espada do local, um impulso mágico começa a vibrar. \nA espada solta de sua mão. \nE retorna para o lugar original.",
         "es-ES": "Al apartar la espada del lugar, un impulso mágico comienza a vibrar.\nLa espada se suelta de tu mano.\nY regresa a su lugar original."
     },
     "gloAAQ": {
-        "ko-KR": "장식대 아래로 뻗어 만져 보았으나 아무것도 나타나지 않았다.",
         "en-US": "You reached under the stand and felt around, but nothing appeared.",
         "pt-BR": "Você se abaixa, mas não encontra nada na mesa.",
         "es-ES": "Te agachas, pero no encuentras nada en la mesa."
     },
     "g1oAAQ": {
-        "ko-KR": "크게 신경 쓸 필요는 없는 것 같다.",
         "en-US": "It does not seem to be something worth worrying about.",
         "pt-BR": "Você decide ignorar.",
         "es-ES": "Decides ignorar."
     },
     "hFoAAQ": {
-        "ko-KR": "이 곳에 분명이 봉인된 마력이 느껴지지만 그것을 해방시키기 위한 매개체가 뭔지 알 수 없다.\n마력의 장막이 접근을 거부하고 있다.",
         "en-US": "You can definitely feel sealed magical power here, but you do not know what medium is needed to release it.\nThe magical veil refuses approach.",
         "pt-BR": "- Você tem certeza de que há um poder aqui, mas é difícil entender o que o bloqueia. -\n- Você não consegue se aproximar. -",
         "es-ES": "- Estás seguro de que hay un poder aquí, pero es difícil entender lo que lo bloquea. -\n- No puedes acercarte. -"
     },
     "hVoAAQ": {
-        "ko-KR": "이미 이 장식검을 매개로 한 봉인은 풀었다.\n이 곳에서 얻을 수 있는 물건은 모두 획득한 상태다.",
         "en-US": "The seal linked to this decorative sword has already been released.\nAll items obtainable here have already been acquired.",
         "pt-BR": "- Você já pegou tudo -\n- o que precisava daqui. -",
         "es-ES": "- Ya has tomado todo -\n- lo que necesitabas de aquí. -"

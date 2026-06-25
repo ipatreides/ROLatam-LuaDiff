@@ -1,1236 +1,1030 @@
 {
     "wGJhCA": {
-        "ko-KR": "교황",
         "en-US": "Pope",
         "pt-BR": "Papisa",
         "es-ES": "Papisa"
     },
     "wWJhCA": {
-        "ko-KR": "[교황]\n... 니르엔...?",
         "en-US": "[Pope]\n.... Niruen...?",
         "pt-BR": "[Papisa]\n.... Niren...?",
         "es-ES": "[Papisa]\n...Niren...?"
     },
     "wmJhCA": {
-        "ko-KR": "... 니르엔...?",
         "en-US": ".... Niruen...?",
         "pt-BR": ".... Niren...?",
         "es-ES": "...Niren...?"
     },
     "w2JhCA": {
-        "ko-KR": "[교황]\n니르엔...?",
         "en-US": "[Pope]\nNiruen...?",
         "pt-BR": "[Papisa]\nNiren...?",
         "es-ES": "[Papisa]\n¿Niren?"
     },
     "xGJhCA": {
-        "ko-KR": "[교황]\n틸비가 보이지 않아.\n... 여기 너무... 어두워...",
         "en-US": "[Pope]\nI can't find Tilbie.\n...It's so... Dark in here...",
         "pt-BR": "[Papisa]\nNão consigo encontrar Tilbi.\n....Está muito... escuro...",
         "es-ES": "[Papisa]\nNo puedo encontrar a Tilbi.\n....Está muy... oscuro..."
     },
     "xWJhCA": {
-        "ko-KR": "깜깜해... 아무것도 보이지 않아...",
         "en-US": "It's pitch black... I can't see anything...",
         "pt-BR": "Não consigo ver.... Está muito escuro...",
         "es-ES": "No puedo ver.... Está muy oscuro..."
     },
     "xmJhCA": {
-        "ko-KR": "[교황]\n... 어디 있어...?",
         "en-US": "[Pope]\n.... Where are you...?",
         "pt-BR": "[Papisa]\n.... Onde está você...?",
         "es-ES": "[Papisa]\n¿Dónde estás...?"
     },
     "x2JhCA": {
-        "ko-KR": "[{0}]\n교황님, 여기에 계셨군요.",
         "en-US": "[{0}]\nThere you are, Your Holiness.",
         "pt-BR": "[{0}]\nPapisa, você está aqui.",
         "es-ES": "[{0}]\nPapisa, estás aquí."
     },
     "yGJhCA": {
-        "ko-KR": "[교황]\n...........\n...........",
         "en-US": "[Pope]\n...........\n...........",
         "pt-BR": "[Papisa]\n...........\n...........",
         "es-ES": "[Papisa]\n...........\n..........."
     },
     "yWJhCA": {
-        "ko-KR": "[{0}]\n교황님, 교황님!! 안심하세요. 저는 니르엔님이 보내서 왔습니다.",
         "en-US": "[{0}]\nPope, Your Holiness, please calm down. I've been sent by Niruen.",
         "pt-BR": "[{0}]\nPapisa, fique tranquila. Eu vim em nome de Niren.",
         "es-ES": "[{0}]\nPapisa, tranquilízate. Vine en nombre de Niren."
     },
     "ymJhCA": {
-        "ko-KR": "[교황]\n... 누구...?",
         "en-US": "[Pope]\n... Who... Are you?",
         "pt-BR": "[Papisa]\n... Quem...?",
         "es-ES": "[Papisa]\n¿Quién...?"
     },
     "y2JhCA": {
-        "ko-KR": "니르엔이...?",
         "en-US": "Niruen sent you...?",
         "pt-BR": "Niren...?",
         "es-ES": "¿Niren...?"
     },
     "zGJhCA": {
-        "ko-KR": "[{0}]\n모험가 {0}입니다.",
         "en-US": "[{0}]\nI am the Adventurer, {0}.",
         "pt-BR": "[{0}]\nMe chamo {0}.",
         "es-ES": "[{0}]\nMe llamo {0}."
     },
     "zWJhCA": {
-        "ko-KR": "[교황]\n{0}?",
         "en-US": "[Pope]\n{0}?",
         "pt-BR": "[Papisa]\n{0}?",
         "es-ES": "[Papisa]\n¿{0}?"
     },
     "zmJhCA": {
-        "ko-KR": "[교황]\n니르엔이... 보냈어?",
         "en-US": "[Pope]\nNiruen...? She sent you?",
         "pt-BR": "[Papisa]\nNiren... te enviou?",
         "es-ES": "[Papisa]\n¿Niren te envió?"
     },
     "z2JhCA": {
-        "ko-KR": "[교황]\n니르엔은 어디 있어?",
         "en-US": "[Pope]\nWhere is Niruen?",
         "pt-BR": "[Papisa]\nOnde está Niren?",
         "es-ES": "[Papisa]\n¿Dónde está Niren?"
     },
     "0GJhCA": {
-        "ko-KR": "[{0}]\n니르엔님께 바쁜 일이 생기셔서 저를 대신 보내셨습니다.",
         "en-US": "[{0}]\nHigh Priest Niruen is busy, so she has sent me instead.",
         "pt-BR": "[{0}]\nNiren está muito ocupada, então ela me enviou.",
         "es-ES": "[{0}]\nNiren está muy ocupada, así que me envió a mí."
     },
     "0WJhCA": {
-        "ko-KR": "[교황]\n그래... 이제 기억이 나. 모험가...",
         "en-US": "[Pope]\nYes... I remember now. Adventurer...",
         "pt-BR": "[Papisa]\nSim... me lembro agora. Viajante...",
         "es-ES": "[Papisa]\nSí... ahora recuerdo. Aventurero..."
     },
     "0mJhCA": {
-        "ko-KR": "생각났어...",
         "en-US": "I remember now.",
         "pt-BR": "Eu lembrei...",
         "es-ES": "Lo recordé..."
     },
     "02JhCA": {
-        "ko-KR": "[{0}]\n무얼 하고 계셨습니까?",
         "en-US": "[{0}]\nWhat are you doing here?",
         "pt-BR": "[{0}]\nO que você está fazendo?",
         "es-ES": "[{0}]\n¿Qué estás haciendo?"
     },
     "1GJhCA": {
-        "ko-KR": "[교황]\n틸비가... 없어졌어. 아무리 찾아도 안보여.",
         "en-US": "[Pope]\nTilbie... Is gone. I can't find her anywhere.",
         "pt-BR": "[Papisa]\nTilbi... se foi. Não importa o quanto eu procure, não encontro.",
         "es-ES": "[Papisa]\nTilbi... desapareció. No importa cuánto busque, no la encuentro."
     },
     "1WJhCA": {
-        "ko-KR": "[{0}]\n틸비가 누구죠?",
         "en-US": "[{0}]\nWho's Tilbie?",
         "pt-BR": "[{0}]\nQuem é Tilbi?",
         "es-ES": "[{0}]\n¿Quién es Tilbi?"
     },
     "1mJhCA": {
-        "ko-KR": "[교황]\n니르엔이 준 인형. 조금 전까지 가지고 있었는데.",
         "en-US": "[Pope]\nThe doll that Niruen gave me. I was holding her just right then.",
         "pt-BR": "[Papisa]\nUma boneca que Niren me deu há um tempo.",
         "es-ES": "[Papisa]\nUna muñeca que Niren me regaló hace tiempo."
     },
     "12JhCA": {
-        "ko-KR": "[교황]\n여기서 잃어버린 것 같은데.",
         "en-US": "[Pope]\nI think I lost her here.",
         "pt-BR": "[Papisa]\nAcho que a perdi aqui.",
         "es-ES": "[Papisa]\nCreo que la perdí aquí."
     },
     "2GJhCA": {
-        "ko-KR": "어디 갔지...",
         "en-US": "Where did she go...?",
         "pt-BR": "Onde você foi parar...",
         "es-ES": "¿Dónde te habrás metido...?"
     },
     "2WJhCA": {
-        "ko-KR": "[{0}]\n저도 찾아 보겠습니다.",
         "en-US": "[{0}]\nI'll look for her too.",
         "pt-BR": "[{0}]\nEu te ajudo a procurar.",
         "es-ES": "[{0}]\nTe ayudo a buscar."
     },
     "2mJhCA": {
-        "ko-KR": "[교황]\n늦었어.",
         "en-US": "[Pope]\nIt's too late.",
         "pt-BR": "[Papisa]\nEstá tarde.",
         "es-ES": "[Papisa]\nEs tarde."
     },
     "22JhCA": {
-        "ko-KR": "[{0}]\n괜찮습니다. 반드시 찾을 수 있을 겁니다.",
         "en-US": "[{0}]\nIt's alright. We will find her.",
         "pt-BR": "[{0}]\nTá tudo bem. Nós vamos encontrá-la.",
         "es-ES": "[{0}]\nEstá bien. La encontraremos."
     },
     "3GJhCA": {
-        "ko-KR": "[교황]\n그게 아니라.... 약속이 있어.\n만나야 할 사람이 있는데.",
         "en-US": "[Pope]\nNo, it's not that... I'm late to a meeting.\nI was supposed to meet with someone.",
         "pt-BR": "[Papisa]\nNão, eu.... tenho um compromisso.\nTenho que me encontrar com alguém.",
         "es-ES": "[Papisa]\nNo, yo... tengo un compromiso.\nTengo que encontrarme con alguien."
     },
     "3WJhCA": {
-        "ko-KR": "늦어버렸어.",
         "en-US": "But I'm too late.",
         "pt-BR": "Está tarde.",
         "es-ES": "Es tarde."
     },
     "3mJhCA": {
-        "ko-KR": "[{0}]\n약속? 여기서요?",
         "en-US": "[{0}]\nMeet someone? Here?",
         "pt-BR": "[{0}]\nOnde? Aqui?",
         "es-ES": "[{0}]\n¿Dónde? ¿Aquí?"
     },
     "32JhCA": {
-        "ko-KR": "[교황]\n신전 밖... 그런데 틸비가 보이지 않아.",
         "en-US": "[Pope]\nNo, outside the Temple... But I can't find Tilbie.",
         "pt-BR": "[Papisa]\nFora do Santuário... mas não vejo Tilbi.",
         "es-ES": "[Papisa]\nFuera del Santuario... pero no veo a Tilbi."
     },
     "4GJhCA": {
-        "ko-KR": "[교황]\n틸비를 찾느라 늦어버렸어.",
         "en-US": "[Pope]\nI'm late because I was looking for Tilbie.",
         "pt-BR": "[Papisa]\nEstou atrasada procurando por Tilbi.",
         "es-ES": "[Papisa]\nMe atrasé buscando a Tilbi."
     },
     "4WJhCA": {
-        "ko-KR": "[{0}]\n틸비는 여기엔 없는 것 같으니 다른 곳에서 찾아 보면 어떨까요?",
         "en-US": "[{0}]\nI think Tilbie is not here. How about we look for somewhere else?",
         "pt-BR": "[{0}]\nParece que Tilbi não está aqui, porque você não procura em outro canto?",
         "es-ES": "[{0}]\nParece que Tilbi no está aquí, ¿por qué no buscas en otro lugar?"
     },
     "4mJhCA": {
-        "ko-KR": "[{0}]\n함께 찾아 보겠습니다.",
         "en-US": "[{0}]\nI'll help you find her.",
         "pt-BR": "[{0}]\nVamos procurar juntos.",
         "es-ES": "[{0}]\nBusquemos juntos."
     },
     "42JhCA": {
-        "ko-KR": "[교황]\n...좋아.",
         "en-US": "[Pope]\n...Okay.",
         "pt-BR": "[Papisa]\n...bom.",
         "es-ES": "[Papisa]\n...bueno."
     },
     "5GJhCA": {
-        "ko-KR": "[교황]\n이름, 뭐였지?",
         "en-US": "[Pope]\nWhat was your name?",
         "pt-BR": "[Papisa]\nComo é seu nome, mesmo?",
         "es-ES": "[Papisa]\n¿Cómo dijiste que te llamas?"
     },
     "5WJhCA": {
-        "ko-KR": "[{0}]\n{0}입니다.",
         "en-US": "[{0}]\n{0} is my name.",
         "pt-BR": "[{0}]\nEu sou {0}.",
         "es-ES": "[{0}]\nSoy {0}."
     },
     "5mJhCA": {
-        "ko-KR": "[교황]\n어서 가자.... 함께.",
         "en-US": "[Pope]\nLet's go... With me.",
         "pt-BR": "[Papisa]\nVamos.... juntos.",
         "es-ES": "[Papisa]\nVamos... juntos."
     },
     "52JhCA": {
-        "ko-KR": "아래로...",
         "en-US": "Go down...",
         "pt-BR": "Para baixo...",
         "es-ES": "Hacia abajo..."
     },
     "6GJhCA": {
-        "ko-KR": "신관",
         "en-US": "Priest",
         "pt-BR": "Sacerdote",
         "es-ES": "Sacerdote"
     },
     "6WJhCA": {
-        "ko-KR": "[신관]\n언제나 프레이야 여신님의 가호가 있기를...",
         "en-US": "[Priest]\nMay Goddess Freya watches over you always...",
         "pt-BR": "[Sacerdote]\nEu sempre peço proteção à Freya...",
         "es-ES": "[Sacerdote]\nSiempre le pido protección a Freya..."
     },
     "6mJhCA": {
-        "ko-KR": "분노한 대신관",
         "en-US": "Enraged High Priest",
         "pt-BR": "Sacerdote Violento",
         "es-ES": "Sacerdote Violento"
     },
     "62JhCA": {
-        "ko-KR": "몸가짐을 단정히 하십시오.",
         "en-US": "You must carry yourself with grace.",
         "pt-BR": "Vamos ser sinceros.",
         "es-ES": "Seamos sinceros."
     },
     "7GJhCA": {
-        "ko-KR": "프레이야 여신님을 담을 그릇으로서의 자질이 부족합니다.",
         "en-US": "You are unfit to be the vessel of Goddess Freya.",
         "pt-BR": "Falta qualidade nesse recipiente para abrigar a Deusa Freya.",
         "es-ES": "Este recipiente carece de calidad para albergar a la Diosa Freya."
     },
     "7WJhCA": {
-        "ko-KR": "교황을 새로 세우자. 선택을 되돌려야 해.",
         "en-US": "We must elect a new Pope. We must amend our wrong.",
         "pt-BR": "Vamos reverter a escolha e instituir outra Papisa.",
         "es-ES": "Revertamos la elección e instituyamos otra Papisa."
     },
     "7mJhCA": {
-        "ko-KR": "대신관이 나타났던 자리에 무언가가 떨어지는 소리가 들렸다.",
         "en-US": "Something dropped where the High Priest appeared.",
         "pt-BR": "Algo parece ter caído onde o Sacerdote estava.",
         "es-ES": "Algo parece haber caído donde estaba el Sacerdote."
     },
     "72JhCA": {
-        "ko-KR": "위협하던 사람들이 사라졌다. 어서 자리를 피해야겠어.",
         "en-US": "The threatening people disappeared. We should leave this place now.",
         "pt-BR": "As pessoas que estavam ameaçando sumiram. Preciso sair daqui.",
         "es-ES": "La gente que amenazaba desapareció. Necesito salir de aquí."
     },
     "8GJhCA": {
-        "ko-KR": "떨어져 있던 무언가의 형체가 점점 희미해진다.",
         "en-US": "The dropped item is growing faint.",
         "pt-BR": "Algum objeto está desaparecendo.",
         "es-ES": "Algún objeto está desapareciendo."
     },
     "8WJhCA": {
-        "ko-KR": "무언가 떨어져 있다. 확인해 보자.",
         "en-US": "Something is dropped on the ground. Let's check it out.",
         "pt-BR": "Algo está faltando. Vamos conferir.",
         "es-ES": "Falta algo. Vamos a revisar."
     },
     "8mJhCA": {
-        "ko-KR": "가방에 더 이상 들어 갈 공간이 없다. 좀 비우고 오자.",
         "en-US": "There is no room in the inventory. Let's make some room.",
         "pt-BR": "Não há mais espaço no inventário. Vamos esvaziá-lo e voltar.",
         "es-ES": "No hay más espacio en el inventario. Vamos a vaciarlo y volver."
     },
     "82JhCA": {
-        "ko-KR": "낡은 인형이다. 누구의 것일까.",
         "en-US": "It's an old doll. I wonder who the owner is.",
         "pt-BR": "Parece uma Boneca. De quem é?",
         "es-ES": "Parece una Muñeca. ¿De quién es?"
     },
     "9GJhCA": {
-        "ko-KR": "신도",
         "en-US": "Follower",
         "pt-BR": "Crente",
         "es-ES": "Creyente"
     },
     "9WJhCA": {
-        "ko-KR": "[신도]\n언제나 프레이야 여신님의 가호가 있기를...",
         "en-US": "[Follower]\nMay Goddess Freya watches over you always...",
         "pt-BR": "[Crente]\nEu sempre peço proteção à Freya...",
         "es-ES": "[Creyente]\nSiempre le pido protección a Freya..."
     },
     "9mJhCA": {
-        "ko-KR": "교황님, 어딜 가시려고 하십니까. 교황님이 계실 곳은 이곳입니다!",
         "en-US": "Pope, where do you think you're going? This is where you belong to!",
         "pt-BR": "Papisa, para onde você vai? É por aqui!!",
         "es-ES": "¡Papisa, a dónde vas? ¡¡Es por aquí!!"
     },
     "92JhCA": {
-        "ko-KR": "분노한 신도",
         "en-US": "Angry Follower",
         "pt-BR": "Crente Agressiva",
         "es-ES": "Creyente Agresiva"
     },
     "+GJhCA": {
-        "ko-KR": "성난 신도",
         "en-US": "Enraged Follower",
         "pt-BR": "Crente Agressivo",
         "es-ES": "Creyente Agresivo"
     },
     "+WJhCA": {
-        "ko-KR": "좀 더 강력한 기운이 느껴져...",
         "en-US": "I feel a stronger energy...",
         "pt-BR": "Eu sinto mais poder...",
         "es-ES": "Siento más poder..."
     },
     "+mJhCA": {
-        "ko-KR": "[교황]\n옆에 그건 누구..? 용병? 무서워...",
         "en-US": "[Pope]\nWho's that next to you...? A mercenary...? I'm scared...",
         "pt-BR": "[Papisa]\nQuem está perto...? Um assistente? Você está com medo...?",
         "es-ES": "[Papisa]\n¿Quién está cerca...? ¿Un asistente? ¿Tienes miedo...?"
     },
     "+2JhCA": {
-        "ko-KR": "[신관]\n교황님이시다.",
         "en-US": "[Priest]\nIt's the Pope.",
         "pt-BR": "[Sacerdote]\nOh! É a Papisa.",
         "es-ES": "[Sacerdote]\n¡Oh! Es la Papisa."
     },
     "/GJhCA": {
-        "ko-KR": "교황님이시다.",
         "en-US": "It's the Pope.",
         "pt-BR": "Oh! É a Papisa.",
         "es-ES": "¡Oh! Es la Papisa."
     },
     "/WJhCA": {
-        "ko-KR": "[신관]\n교황님이 오셨어.",
         "en-US": "[Priest]\nThe Pope has come.",
         "pt-BR": "[Sacerdote]\nA Papisa está aqui.",
         "es-ES": "[Sacerdote]\nLa Papisa está aquí."
     },
     "/mJhCA": {
-        "ko-KR": "교황님이 오셨어.",
         "en-US": "The Pope has come.",
         "pt-BR": "A Papisa está aqui.",
         "es-ES": "La Papisa está aquí."
     },
     "/2JhCA": {
-        "ko-KR": "[신도]\n교황님, 기다리고 있었습니다.",
         "en-US": "[Follower]\nPope, we've been waiting for you.",
         "pt-BR": "[Crente]\nPapisa, eu estava te esperando.",
         "es-ES": "[Creyente]\nPapisa, te estaba esperando."
     },
     "AGNhCA": {
-        "ko-KR": "기다리고 있었습니다.",
         "en-US": "We've been waiting for you.",
         "pt-BR": "Papisa, eu estava te esperando.",
         "es-ES": "Papisa, te estaba esperando."
     },
     "AWNhCA": {
-        "ko-KR": "[신도]\n시간을 지키지 않는 것도 프레이야님을 욕보이는 일입니다. 좀 더 지각있게 행동 하십시오.",
         "en-US": "[Follower]\nLack of punctuality is an insult to Goddess Freya. Please mind your behaviors.",
         "pt-BR": "[Crente]\nNão ser pontual é insulto à Freya. Tenha mais responsabilidade.",
         "es-ES": "[Creyente]\nNo ser puntual es un insulto a Freya. Sé más responsable."
     },
     "AmNhCA": {
-        "ko-KR": "시간을 지키지 않는 것도 프레이야님을 욕보이는 일입니다. 좀 더 지각있게 행동 하십시오.",
         "en-US": "Lack of punctuality is an insult to Goddess Freya. Please mind your behaviors.",
         "pt-BR": "Não ser pontual é insulto à Freya. Tenha mais responsabilidade.",
         "es-ES": "No ser puntual es un insulto a Freya. Sé más responsable."
     },
     "A2NhCA": {
-        "ko-KR": "[신도]\n교황님, 품행을 바르게 하셔야 합니다.",
         "en-US": "[Follower]\nPope, you must behave yourself.",
         "pt-BR": "[Crente]\nPapisa, você deve se comportar corretamente.",
         "es-ES": "[Creyente]\nPapisa, debes comportarte correctamente."
     },
     "BGNhCA": {
-        "ko-KR": "교황님, 품행을 바르게 하셔야 합니다.",
         "en-US": "Pope, you must behave yourself.",
         "pt-BR": "Papisa, você deve se comportar corretamente.",
         "es-ES": "Papisa, debes comportarte correctamente."
     },
     "BWNhCA": {
-        "ko-KR": "[신도]\n교황님께 무례하게 그 무슨 언행이오! 자신의 모습이나 돌아 보시오!",
         "en-US": "[Follower]\nHow dare you speak so disrespectfully to Pope! Mind your own business!",
         "pt-BR": "[Crente]\nVocê está sendo rude com a Papisa! Se enxerga!",
         "es-ES": "[Creyente]\n¡Estás siendo grosero con la Papisa! ¡Date cuenta!"
     },
     "BmNhCA": {
-        "ko-KR": "교황님께 무례하게 그 무슨 언행이오! 자신의 모습이나 돌아 보시오!",
         "en-US": "How dare you speak so disrespectfully to Pope! Mind your own business!",
         "pt-BR": "Você está sendo rude com a Papisa! Se enxerga!",
         "es-ES": "¡Estás siendo grosero con la Papisa! ¡Date cuenta!"
     },
     "B2NhCA": {
-        "ko-KR": "[신도]\n교황님은 신성하신 분입니다! 함부로 말씀하지 마십시오!",
         "en-US": "[Follower]\nPope is the holiness incarnate! Mind your tongue!",
         "pt-BR": "[Crente]\nA Papisa é divina! Não seja rude!",
         "es-ES": "[Creyente]\n¡La Papisa es divina! ¡No seas grosero!"
     },
     "CGNhCA": {
-        "ko-KR": "교황님은 신성하신 분입니다! 함부로 대하지 마십시오!",
         "en-US": "Pope is the holiness incarnate! Mind your behavior!",
         "pt-BR": "A Papisa é divina! Não seja rude!",
         "es-ES": "¡La Papisa es divina! ¡No seas grosero!"
     },
     "CWNhCA": {
-        "ko-KR": "[신도]\n교황님은 언젠가 오실 프레이야님을 담을 그릇입니다. 그릇이 깨끗해야 하는건 당연하지 않습니까!",
         "en-US": "[Follower]\nPope is the vessel that must be ready for the coming of Goddess Freya. It's only right that the divine vessel must be clean!",
         "pt-BR": "[Crente]\nA Papisa é só um recipiente para a Deusa Freya voltar para nós!",
         "es-ES": "[Creyente]\n¡La Papisa es solo un recipiente para que la Diosa Freya vuelva a nosotros!"
     },
     "CmNhCA": {
-        "ko-KR": "교황님은 언젠가 오실 프레이야님을 담을 그릇입니다. 그릇이 깨끗해야 하는건 당연하지 않습니까!",
         "en-US": "Pope is the vessel that must be ready for the coming of Goddess Freya. It's only right that the divine vessel must be clean!",
         "pt-BR": "A Papisa é só um recipiente para a Deusa Freya voltar para nós!",
         "es-ES": "¡La Papisa es solo un recipiente para que la Diosa Freya vuelva a nosotros!"
     },
     "C2NhCA": {
-        "ko-KR": "[신관]\n망발 그만 두시오! 교황님은 그 존재만으로도 우리에게 기쁨과 희망을 주시는 분입니다!",
         "en-US": "[Priest]\nStop your ludicrous words at once! The very presence of Her Holiness is our joy and hope!",
         "pt-BR": "[Sacerdote]\nBlasfêmia! A Papisa nos dá alegria e esperança só de estar aqui!",
         "es-ES": "[Sacerdote]\n¡Blasfemia! ¡Solo con estar aquí, la Papisa nos da alegría y esperanza!"
     },
     "DGNhCA": {
-        "ko-KR": "망발 그만 두시오! 교황님은 그 존재만으로도 우리에게 기쁨과 희망을 주시는 분입니다!",
         "en-US": "Stop your ludicrous words at once! The very presence of Her Holiness is our joy and hope!",
         "pt-BR": "Blasfêmia! A Papisa nos dá alegria e esperança só de estar aqui!",
         "es-ES": "¡Blasfemia! ¡Solo con estar aquí, la Papisa nos da alegría y esperanza!"
     },
     "DWNhCA": {
-        "ko-KR": "[교황]\n..... 나, 나는.... 교황...",
         "en-US": "[Pope]\n..... I, I'm... The Pope...",
         "pt-BR": "[Papisa]\n..... Eu, Eu....",
         "es-ES": "[Papisa]\nYo, yo...."
     },
     "DmNhCA": {
-        "ko-KR": "[교황]\n..... 나는 가야해....",
         "en-US": "[Pope]\n..... I must go...",
         "pt-BR": "[Papisa]\n..... Eu preciso ir....",
         "es-ES": "[Papisa]\n....Tengo que irme...."
     },
     "D2NhCA": {
-        "ko-KR": "[교황]\n........ 약속이... 있어............",
         "en-US": "[Pope]\n........ I have a promise... To keep............",
         "pt-BR": "[Papisa]\n........ Eu tenho um compromisso... Eu tenho............",
         "es-ES": "[Papisa]\nTengo un compromiso... Tengo............"
     },
     "EGNhCA": {
-        "ko-KR": "[신도]\n약속이라니요? 교황님은 이곳을 떠나서는 안됩니다.",
         "en-US": "[Follower]\nA promise? Your Holiness must not leave this place.",
         "pt-BR": "[Crente]\nCompromisso? Uma Papisa nunca deveria sair desse lugar.",
         "es-ES": "[Creyente]\n¿Compromiso? Una Papisa nunca debería salir de este lugar."
     },
     "EWNhCA": {
-        "ko-KR": "약속이라니요? 교황님은 이곳을 떠나서는 안됩니다.",
         "en-US": "A promise? Your Holiness must not leave this place.",
         "pt-BR": "Compromisso? Uma Papisa nunca deveria sair desse lugar.",
         "es-ES": "¿Compromiso? Una Papisa nunca debería salir de este lugar."
     },
     "EmNhCA": {
-        "ko-KR": "[신도]\n외부인과 함부로 접촉해서는 안됩니다.",
         "en-US": "[Follower]\nYou must not contact people outside the Temple.",
         "pt-BR": "[Crente]\nVocê não deve se encontrar com estranhos.",
         "es-ES": "[Creyente]\nNo debes encontrarte con extraños."
     },
     "E2NhCA": {
-        "ko-KR": "외부인과 함부로 접촉해서는 안됩니다.",
         "en-US": "You must not contact people outside the Temple.",
         "pt-BR": "Você não deve se encontrar com estranhos.",
         "es-ES": "No debes encontrarte con extraños."
     },
     "FGNhCA": {
-        "ko-KR": "[신도]\n교황님께서는 신전에서 허가한 사람들과만 만날 수 있습니다.",
         "en-US": "[Follower]\nYour Holiness can only meet people approved by the Temple.",
         "pt-BR": "[Crente]\nA Papisa só pode ver pessoas autorizadas pelo Santuário.",
         "es-ES": "[Creyente]\nLa Papisa solo puede ver personas autorizadas por el Santuario."
     },
     "FWNhCA": {
-        "ko-KR": "교황님께서는 신전에서 허가한 사람들과만 만날 수 있습니다.",
         "en-US": "Your Holiness can only meet people approved by the Temple.",
         "pt-BR": "A Papisa só pode ver pessoas autorizadas pelo Santuário.",
         "es-ES": "La Papisa solo puede ver personas autorizadas por el Santuario."
     },
     "FmNhCA": {
-        "ko-KR": "[신도]\n교황님은 그저 저희가 하라는 대로, 뜻대로 움직여 주시면 되는 겁니다.",
         "en-US": "[Follower]\nYour Holiness will do as we tell you.",
         "pt-BR": "[Crente]\nA Papisa deve atuar conforme nós mandamos.",
         "es-ES": "[Creyente]\nLa Papisa debe actuar como nosotros ordenamos."
     },
     "F2NhCA": {
-        "ko-KR": "교황님은 그저 저희가 하라는 대로, 뜻대로 움직여 주시면 되는 겁니다.",
         "en-US": "Your Holiness will do as we tell you.",
         "pt-BR": "A Papisa deve atuar conforme nós mandamos.",
         "es-ES": "La Papisa debe actuar como nosotros ordenamos."
     },
     "GGNhCA": {
-        "ko-KR": "[신관]\n무얼 하실 필요는 없습니다. 이 얼마나 편한 일입니까?",
         "en-US": "[Priest]\nYou don't have to do anything. Please, be comfortable.",
         "pt-BR": "[Sacerdote]\nVocê não precisa fazer nada. Moleza, hein?",
         "es-ES": "[Sacerdote]\nNo necesitas hacer nada. Fácil, ¿eh?"
     },
     "GWNhCA": {
-        "ko-KR": "무얼 하실 필요는 없습니다. 이 얼마나 편한 일입니까?",
         "en-US": "You don't have to do anything. Please, be comfortable.",
         "pt-BR": "Você não precisa fazer nada. Moleza, hein?",
         "es-ES": "No necesitas hacer nada. Fácil, ¿eh?"
     },
     "GmNhCA": {
-        "ko-KR": "[신도]\n그마저도 못하면 내려 오셔야지요.",
         "en-US": "[Follower]\nIf you can't even do that, then you must step down.",
         "pt-BR": "[Crente]\nSe você não é capaz de ser uma Papisa, deve ir embora daqui.",
         "es-ES": "[Creyente]\nSi no eres capaz de ser Papisa, deberías irte de aquí."
     },
     "G2NhCA": {
-        "ko-KR": "그마저도 못하면 내려 오셔야지요.",
         "en-US": "If you can't even do that, then you must step down.",
         "pt-BR": "Se você não é capaz de ser uma Papisa, deve ir embora daqui.",
         "es-ES": "Si no eres capaz de ser Papisa, deberías irte de aquí."
     },
     "HGNhCA": {
-        "ko-KR": "[신도]\n쉿- 그런 소리까지 하면 어쩝니까!",
         "en-US": "[Follower]\nShush! How dare you speak so?",
         "pt-BR": "[Crente]\nShh... Não diga isso!",
         "es-ES": "[Creyente]\nShh... ¡No digas eso!"
     },
     "HWNhCA": {
-        "ko-KR": "쉿- 그런 소리까지 하면 어쩝니까!",
         "en-US": "Shush! How dare you speak so?",
         "pt-BR": "Shh... Não diga isso!",
         "es-ES": "Shh... ¡No digas eso!"
     },
     "HmNhCA": {
-        "ko-KR": "[신도]\n그러다 진짜로 그만 둔다고 하면 어쩐답니까! 민심을 잡는데 교황만한 상징이 없거늘!",
         "en-US": "[Follower]\nDon't give her the idea! Having a Pope is the most effective way of securing popularity!",
         "pt-BR": "[Crente]\nImagina se a Papisa sair! Não há símbolo maior que uma Papisa aos olhos do público!",
         "es-ES": "[Creyente]\n¡Imagina si la Papisa se va! ¡No hay símbolo más grande ante el público que una Papisa!"
     },
     "H2NhCA": {
-        "ko-KR": "그러다 진짜로 그만 둔다고 하면 어쩐답니까! 민심을 잡는데 교황만한 상징이 없거늘!",
         "en-US": "Don't give her the idea! Having a Pope is the most effective way of securing popularity!",
         "pt-BR": "Imagina se a Papisa sair! Não há símbolo maior que uma Papisa aos olhos do público!",
         "es-ES": "¡Imagina si la Papisa se va! ¡No hay símbolo más grande ante el público que una Papisa!"
     },
     "IGNhCA": {
-        "ko-KR": "[신도]\n하지만 지금 교황은 자질이 부족한 것이 사실이긴 하지요.",
         "en-US": "[Follower]\nBut it is true that the current Pope's qualities are inadequate.",
         "pt-BR": "[Crente]\nMas a verdade é que essa Papisa é ruim.",
         "es-ES": "[Creyente]\nPero la verdad es que esta Papisa es mala."
     },
     "IWNhCA": {
-        "ko-KR": "하지만 지금 교황은 자질이 부족한 것이 사실이긴 하지요.",
         "en-US": "But it is true that the current Pope's qualities are inadequate.",
         "pt-BR": "Mas a verdade é que essa Papisa é ruim.",
         "es-ES": "Pero la verdad es que esta Papisa es mala."
     },
     "ImNhCA": {
-        "ko-KR": "[신도]\n부족하다면 바꾸면 됩니다. 우리에겐 또 하나의 완벽한 아바타가 있지 않습니까.",
         "en-US": "[Follower]\nIf she is, then we can replace her. We have yet another perfect avatar.",
         "pt-BR": "[Crente]\nSe não é boa, podemos mudar. Só não temos outro recipiente perfeito.",
         "es-ES": "[Creyente]\nSi no es buena, podemos cambiarla. Solo que no tenemos otro recipiente perfecto."
     },
     "I2NhCA": {
-        "ko-KR": "부족하다면 바꾸면 됩니다. 우리에겐 또 하나의 완벽한 아바타가 있지 않습니까.",
         "en-US": "If she is, then we can replace her. We have yet another perfect avatar.",
         "pt-BR": "Se não é boa, podemos mudar. Só não temos outro recipiente perfeito.",
         "es-ES": "Si no es buena, podemos cambiarla. Solo que no tenemos otro recipiente perfecto."
     },
     "JGNhCA": {
-        "ko-KR": "[신도]\n동시에 태어난 아바타...!",
         "en-US": "[Follower]\nThe avatar that was born with her...!",
         "pt-BR": "[Crente]\nO recipiente nasceu ao mesmo tempo que outro...!",
         "es-ES": "[Creyente]\n¡El recipiente nació al mismo tiempo que otro...!"
     },
     "JWNhCA": {
-        "ko-KR": "동시에 태어난 아바타...!",
         "en-US": "The avatar that was born with her...!",
         "pt-BR": "O recipiente nasceu ao mesmo tempo que outro...!",
         "es-ES": "¡El recipiente nació al mismo tiempo que otro...!"
     },
     "JmNhCA": {
-        "ko-KR": "[신도]\n우리는 잘못된 선택을 한걸지도 모릅니다.",
         "en-US": "[Follower]\nPerhaps we've made a wrong decision.",
         "pt-BR": "[Crente]\nAcho que a gente escolheu o recipiente errado.",
         "es-ES": "[Creyente]\nCreo que elegimos al recipiente equivocado."
     },
     "J2NhCA": {
-        "ko-KR": "우리는 잘못된 선택을 한걸지도 모릅니다.",
         "en-US": "Perhaps we've made a wrong decision.",
         "pt-BR": "Acho que a gente escolheu o recipiente errado.",
         "es-ES": "Creo que elegimos al recipiente equivocado."
     },
     "KGNhCA": {
-        "ko-KR": "[신도]\n지금이라도 선택을 돌린다면...!",
         "en-US": "[Follower]\nIf we could correct our wrong now...!",
         "pt-BR": "[Crente]\nSe a gente pudesse mudar a escolha agora...!",
         "es-ES": "[Creyente]\n¡Si pudiéramos cambiar la elección ahora...!"
     },
     "KWNhCA": {
-        "ko-KR": "지금이라도 선택을 돌린다면...!",
         "en-US": "If we could correct our wrong now...!",
         "pt-BR": "Se a gente pudesse mudar a escolha agora...!",
         "es-ES": "¡Si pudiéramos cambiar la elección ahora...!"
     },
     "KmNhCA": {
-        "ko-KR": "[신관]\n완벽하지 않은 교황은 바꿔야 해.",
         "en-US": "[Priest]\nAn imperfect Pope must be replaced.",
         "pt-BR": "[Sacerdote]\nEu mudaria a Papisa imperfeita.",
         "es-ES": "[Sacerdote]\nYo cambiaría a la Papisa imperfecta."
     },
     "K2NhCA": {
-        "ko-KR": "완벽하지 않은 교황은 바꿔야 해.",
         "en-US": "An imperfect Pope must be replaced.",
         "pt-BR": "Eu mudaria a Papisa imperfeita.",
         "es-ES": "Yo cambiaría a la Papisa imperfecta."
     },
     "LGNhCA": {
-        "ko-KR": "[신도]\n말 잘 듣는 교황이 필요해.",
         "en-US": "[Follower]\nWe need an obedient Pope.",
         "pt-BR": "[Crente]\nPrecisamos de uma Papisa que saiba escutar.",
         "es-ES": "[Creyente]\nNecesitamos una Papisa que sepa escuchar."
     },
     "LWNhCA": {
-        "ko-KR": "말 잘 듣는 교황이 필요해.",
         "en-US": "We need an obedient Pope.",
         "pt-BR": "Precisamos de uma Papisa que saiba escutar.",
         "es-ES": "Necesitamos una Papisa que sepa escuchar."
     },
     "LmNhCA": {
-        "ko-KR": "[신관]\n지금의 교황은 필요 없어.",
         "en-US": "[Priest]\nWe don't need the current Pope.",
         "pt-BR": "[Sacerdote]\nEu não quero essa Papisa.",
         "es-ES": "[Sacerdote]\nNo quiero a esta Papisa."
     },
     "L2NhCA": {
-        "ko-KR": "지금의 교황은 필요 없어.",
         "en-US": "We don't need the current Pope.",
         "pt-BR": "Eu não quero essa Papisa.",
         "es-ES": "No quiero a esta Papisa."
     },
     "MGNhCA": {
-        "ko-KR": "[신도]\n교황님도 가만히 계시지 말고 입장을 밝히십시오!",
         "en-US": "[Follower]\nBreak your silence, Pope! Speak your mind!",
         "pt-BR": "[Crente]\nMesmo que seja a Papisa errada, que assuma uma posição!",
         "es-ES": "[Creyente]\n¡Aunque sea la Papisa equivocada, que cumpla su posición!"
     },
     "MWNhCA": {
-        "ko-KR": "교황님도 가만히 계시지 말고 입장을 밝히십시오!",
         "en-US": "Break your silence, Pope! Speak your mind!",
         "pt-BR": "Mesmo que seja a Papisa errada, que assuma uma posição!",
         "es-ES": "¡Aunque sea la Papisa equivocada, que cumpla su posición!"
     },
     "MmNhCA": {
-        "ko-KR": "[{0}]\n교황님, 교황님! 정신을 차리십시오!!",
         "en-US": "[{0}]\nPope, Your Holiness! Pull yourself together!",
         "pt-BR": "[{0}]\nPapisa!! Acalme-se!!",
         "es-ES": "[{0}]\n¡¡Papisa!! ¡¡Cálmate!!"
     },
     "M2NhCA": {
-        "ko-KR": "교황님, 교황님! 정신을 차리십시오!!",
         "en-US": "Pope, Your Holiness! Pull yourself together!",
         "pt-BR": "Papisa!! Acalme-se!!",
         "es-ES": "¡¡Papisa!! ¡¡Cálmate!!"
     },
     "NGNhCA": {
-        "ko-KR": "[교황]\n.... 나... 나는... 나...",
         "en-US": "[Pope]\n.... I... I'm... I...",
         "pt-BR": "[Papisa]\n.... Eu... Eu... Eu...",
         "es-ES": "[Papisa]\nYo... Yo... Yo..."
     },
     "NWNhCA": {
-        "ko-KR": ".... 나... 나는... 나...",
         "en-US": ".... I... I'm... I...",
         "pt-BR": ".... Eu... Eu... Eu...",
         "es-ES": "Yo... Yo... Yo..."
     },
     "NmNhCA": {
-        "ko-KR": "[교황]\n.......... 필요 없어....?",
         "en-US": "[Pope]\n.......... They don't need me...?",
         "pt-BR": "[Papisa]\n.......... não precisa....?",
         "es-ES": "[Papisa]\n.......... ¿no se necesita....?"
     },
     "N2NhCA": {
-        "ko-KR": "[교황]\n나는... 사람들에게 어떤 존재인 거야?",
         "en-US": "[Pope]\nI'm... What am I to the people?",
         "pt-BR": "[Papisa]\nO que eu... sou para as pessoas?",
         "es-ES": "[Papisa]\n¿Qué soy... para la gente?"
     },
     "OGNhCA": {
-        "ko-KR": "[교황]\n여신님을 담을 신성한 그릇.",
         "en-US": "[Pope]\nA holy vessel to carry the Goddess...",
         "pt-BR": "[Papisa]\nUm recipiente para a Deusa Freya.",
         "es-ES": "[Papisa]\nUn recipiente para la Diosa Freya."
     },
     "OWNhCA": {
-        "ko-KR": "[교황]\n완전하지 못한 존재.",
         "en-US": "[Pope]\nAn imperfect creation.",
         "pt-BR": "[Papisa]\nUma existência vazia.",
         "es-ES": "[Papisa]\nUna existencia vacía."
     },
     "OmNhCA": {
-        "ko-KR": "[교황]\n나는 반쪽짜리.",
         "en-US": "[Pope]\nI'm a half-baked thing.",
         "pt-BR": "[Papisa]\nEu sou uma incompleta.",
         "es-ES": "[Papisa]\nSoy una incompleta."
     },
     "O2NhCA": {
-        "ko-KR": "[교황]\n나는 잘못된 선택.",
         "en-US": "[Pope]\nI'm the wrong choice.",
         "pt-BR": "[Papisa]\nEu sou a escolha errada.",
         "es-ES": "[Papisa]\nSoy la elección equivocada."
     },
     "PGNhCA": {
-        "ko-KR": "[교황]\n나에겐 처음부터 자격 같은건 없었던 거야.",
         "en-US": "[Pope]\nI was never the right one.",
         "pt-BR": "[Papisa]\nEu não tenho nenhuma qualidade desde o começo.",
         "es-ES": "[Papisa]\nNo tengo ninguna cualidad desde el principio."
     },
     "PWNhCA": {
-        "ko-KR": "[교황]\n여긴 내 자리가 아닌 자리.",
         "en-US": "[Pope]\nThis isn't where I should be.",
         "pt-BR": "[Papisa]\nMeu lugar não é aqui.",
         "es-ES": "[Papisa]\nMi lugar no está aquí."
     },
     "PmNhCA": {
-        "ko-KR": "여긴 내 자리가 아닌 자리.",
         "en-US": "This isn't where I should be.",
         "pt-BR": "Meu lugar não é aqui.",
         "es-ES": "Mi lugar no está aquí."
     },
     "P2NhCA": {
-        "ko-KR": "[교황]\n하지만 이건 내가 원한게 아니야.",
         "en-US": "[Pope]\nBut I've never wanted this.",
         "pt-BR": "[Papisa]\nIsso não é o que eu queria.",
         "es-ES": "[Papisa]\nEsto no es lo que yo quería."
     },
     "QGNhCA": {
-        "ko-KR": "하지만 이건 내가 원한게 아니야.",
         "en-US": "But I've never wanted this.",
         "pt-BR": "Isso não é o que eu queria.",
         "es-ES": "Esto no es lo que yo quería."
     },
     "QWNhCA": {
-        "ko-KR": "[{0}]\n교황님, 진정하세요. 이건 모두 꿈입니다. 교황님의 불안이 꿈에서 왜곡 되어 보이는 거라고요. 꿈 밖에서는 다들 교황님을 기다리고 있어요!",
         "en-US": "[{0}]\nPope, you must calm down. This is all but a dream. Your anxiety is simply distorted in your dream. Everyone is waiting for you outside the dream!",
         "pt-BR": "[{0}]\nPapisa, fique calma. Isso é um sonho. Sua ansiedade fica distorcida aqui. Fora do sonho, todos esperam por você!",
         "es-ES": "[{0}]\nPapisa, cálmate. Esto es un sueño. ¡Tu ansiedad se distorsiona aquí. ¡Fuera del sueño, todos te esperan!"
     },
     "QmNhCA": {
-        "ko-KR": "[교황]\n꿈...?",
         "en-US": "[Pope]\nDream...?",
         "pt-BR": "[Papisa]\nSonho...?",
         "es-ES": "[Papisa]\n¿Sueño...?"
     },
     "Q2NhCA": {
-        "ko-KR": "[교황]\n하지만... 난... 난 약속이 있었는데.",
         "en-US": "[Pope]\nBut... I... I have to meet him.",
         "pt-BR": "[Papisa]\nMas... eu... tenho um compromisso.",
         "es-ES": "[Papisa]\nPero... yo... tengo un compromiso."
     },
     "RGNhCA": {
-        "ko-KR": "[{0}]\n이건 꿈입니다!",
         "en-US": "[{0}]\nThis is a dream!",
         "pt-BR": "[{0}]\nIsso é um sonho!",
         "es-ES": "[{0}]\n¡Esto es un sueño!"
     },
     "RWNhCA": {
-        "ko-KR": "[교황]\n약속이 있어. 만나야 해. 어서 이곳을 빠져나가야 해.",
         "en-US": "[Pope]\nI'm late to a meeting. I have to meet him. I have to get away from here.",
         "pt-BR": "[Papisa]\nO meu compromisso era encontrar alguém. Preciso sair daqui.",
         "es-ES": "[Papisa]\nMi compromiso era encontrarme con alguien. Necesito salir de aquí."
     },
     "RmNhCA": {
-        "ko-KR": "약속이 있어. 만나야 해. 어서 이곳을 빠져나가야 해.",
         "en-US": "I'm late to a meeting. I have to meet him. I have to get away from here.",
         "pt-BR": "O meu compromisso era encontrar alguém. Preciso sair daqui.",
         "es-ES": "Mi compromiso era encontrarme con alguien. Necesito salir de aquí."
     },
     "R2NhCA": {
-        "ko-KR": "[신도]\n교황님! 어딜 가십니까!",
         "en-US": "[Follower]\nPope! Where are you going?",
         "pt-BR": "[Crente]\nPapisa! O que está fazendo!",
         "es-ES": "[Creyente]\n¡Papisa! ¿Qué estás haciendo?"
     },
     "SGNhCA": {
-        "ko-KR": "교황님! 어딜 가십니까!",
         "en-US": "Pope! Where are you going?",
         "pt-BR": "O que estou fazendo?",
         "es-ES": "¿Qué estoy haciendo?"
     },
     "SWNhCA": {
-        "ko-KR": "[신도]\n교황님, 자리를 지키십시오!",
         "en-US": "[Follower]\nYour Holiness, please stay where you are!",
         "pt-BR": "[Crente]\nPapisa! Fique no seu lugar!",
         "es-ES": "[Creyente]\n¡Papisa! ¡Quédate en tu lugar!"
     },
     "SmNhCA": {
-        "ko-KR": "교황님, 자리를 지키십시오!",
         "en-US": "Your Holiness, please stay where you are!",
         "pt-BR": "Papisa! Fique no seu lugar!",
         "es-ES": "¡Papisa! ¡Quédate en tu lugar!"
     },
     "S2NhCA": {
-        "ko-KR": "[신도]\n교황님이 있어야 할 곳은 이곳입니다!",
         "en-US": "[Follower]\nThis is where you should be!",
         "pt-BR": "[Crente]\nAqui é o lugar onde uma Papisa deveria estar!",
         "es-ES": "[Creyente]\n¡Aquí es donde una Papisa debe estar!"
     },
     "TGNhCA": {
-        "ko-KR": "교황님이 있어야 할 곳은 이곳입니다!",
         "en-US": "This is where you should be!",
         "pt-BR": "Aqui é o lugar onde uma Papisa deveria estar!",
         "es-ES": "¡Aquí es donde una Papisa debe estar!"
     },
     "TWNhCA": {
-        "ko-KR": "[교황]\n아무도 나를 필요로 하지 않아!",
         "en-US": "[Pope]\nNo one needs me!",
         "pt-BR": "[Papisa]\nNinguém precisa de mim!",
         "es-ES": "[Papisa]\n¡Nadie me necesita!"
     },
     "TmNhCA": {
-        "ko-KR": "[교황]\n누구도 나를 제대로 봐주지 않아!",
         "en-US": "[Pope]\nNo one sees me the way I am!",
         "pt-BR": "[Papisa]\nNinguém se importa comigo!",
         "es-ES": "[Papisa]\n¡A nadie le importo!"
     },
     "T2NhCA": {
-        "ko-KR": "[교황]\n내가 있을 곳은 여기엔 없어!",
         "en-US": "[Pope]\nThis isn't where I should be!",
         "pt-BR": "[Papisa]\nNão há lugar para mim aqui!",
         "es-ES": "[Papisa]\n¡No hay lugar para mí aquí!"
     },
     "UGNhCA": {
-        "ko-KR": "내가 있을 곳은 여기엔 없어!",
         "en-US": "This isn't where I should be!",
         "pt-BR": "Não há lugar para mim aqui!",
         "es-ES": "¡No hay lugar para mí aquí!"
     },
     "UWNhCA": {
-        "ko-KR": "[신도]\n교황님! 자리를 지키십시오!",
         "en-US": "[Follower]\nPope! Please stay where you are!",
         "pt-BR": "[Crente]\nPapisa! Fique no seu lugar!",
         "es-ES": "[Creyente]\n¡Papisa! ¡Quédate en tu lugar!"
     },
     "UmNhCA": {
-        "ko-KR": "교황님! 자리를 지키십시오!",
         "en-US": "Pope! Please stay where you are!",
         "pt-BR": "Papisa! Fique no seu lugar!",
         "es-ES": "¡Papisa! ¡Quédate en tu lugar!"
     },
     "U2NhCA": {
-        "ko-KR": "[교황]\n갈거야. 가야 돼.",
         "en-US": "[Pope]\nI'm going. I have to go.",
         "pt-BR": "[Papisa]\nEu estou indo. Preciso ir.",
         "es-ES": "[Papisa]\nMe voy. Tengo que irme."
     },
     "VGNhCA": {
-        "ko-KR": "[신도]\n모두 교황님을 막아라!",
         "en-US": "[Follower]\nEveryone, stop the Pope!",
         "pt-BR": "[Crente]\nPessoal, parem a Papisa!!",
         "es-ES": "[Creyente]\n¡Gente, detengan a la Papisa!!"
     },
     "VWNhCA": {
-        "ko-KR": "[교황]\n모험가, 도와줘.",
         "en-US": "[Pope]\nHelp me, Adventurer.",
         "pt-BR": "[Papisa]\nViajante, preciso da sua ajuda.",
         "es-ES": "[Papisa]\nViajero, necesito tu ayuda."
     },
     "VmNhCA": {
-        "ko-KR": "[{0}]\n교황님, 어서 제가 있는 쪽으로 오십시오!",
         "en-US": "[{0}]\nHurry, Your Holiness! Come to where I am!",
         "pt-BR": "[{0}]\nPapisa, fique atrás de mim!",
         "es-ES": "[{0}]\n¡Papisa, ponte detrás de mí!"
     },
     "V2NhCA": {
-        "ko-KR": "경비병",
         "en-US": "Guard",
         "pt-BR": "Guarda",
         "es-ES": "Guardia"
     },
     "WGNhCA": {
-        "ko-KR": "전원 대형으로 모여!",
         "en-US": "Everyone, get in formation!",
         "pt-BR": "Todos os guardas, atenção!",
         "es-ES": "¡Guardias, atención!"
     },
     "WWNhCA": {
-        "ko-KR": "전원 대형으로 모인다 실시!",
         "en-US": "Everyone, get in formation, now!",
         "pt-BR": "Vamos nos reunir em formação!",
         "es-ES": "¡Reúnanse en formación!"
     },
     "WmNhCA": {
-        "ko-KR": "집합!!",
         "en-US": "Assemble!!",
         "pt-BR": "Sim, senhor!!",
         "es-ES": "¡Sí, señor!"
     },
     "W2NhCA": {
-        "ko-KR": "신전 밖으로 나가실 수 없습니다!",
         "en-US": "You cannot leave the Temple!",
         "pt-BR": "Você não pode sair do Santuário!",
         "es-ES": "¡No puedes salir del Santuario!"
     },
     "XGNhCA": {
-        "ko-KR": "셋을 셀 동안 뒤로 물러 서십시오. 그렇지 않으면 무력을 행사하겠습니다.",
         "en-US": "Retreat in the count of three. If you refuse, we will use force on you!",
         "pt-BR": "Vou contar até 3 para você se render!",
         "es-ES": "¡Contaré hasta 3 para que te rindas!"
     },
     "XWNhCA": {
-        "ko-KR": "셋!!",
         "en-US": "Three!!",
         "pt-BR": "Um!!",
         "es-ES": "¡Uno!"
     },
     "XmNhCA": {
-        "ko-KR": "둘!!",
         "en-US": "Two!!",
         "pt-BR": "Dois!!",
         "es-ES": "¡Dos!"
     },
     "X2NhCA": {
-        "ko-KR": "하나!!!",
         "en-US": "One!!",
         "pt-BR": "Três!!!",
         "es-ES": "¡¡Tres!!"
     },
     "YGNhCA": {
-        "ko-KR": "경비대장 : 지금부터 모험가는 우리의 적으로 간주한다!",
         "en-US": "Guard Captain : From this moment, we see the Adventurer as our enemy!",
         "pt-BR": "Capitão da Guarda: De agora em diante, todos os aventureiros são nossos inimigos!",
         "es-ES": "Capitán de la Guardia: ¡De ahora en adelante, todos los aventureros son nuestros enemigos!"
     },
     "YWNhCA": {
-        "ko-KR": "지금부터 모험가는 우리의 적으로 간주한다!",
         "en-US": "From this moment, we see the Adventurer as our enemy!",
         "pt-BR": "Capitão da Guarda: De agora em diante, todos os aventureiros são nossos inimigos!",
         "es-ES": "Capitán de la Guardia: ¡De ahora en adelante, todos los aventureros son nuestros enemigos!"
     },
     "YmNhCA": {
-        "ko-KR": "경비대장 : 교황님을 보호하고 모험가를 처치하라!",
         "en-US": "Guard Captain : Protect the Pope and kill the Adventurer!",
         "pt-BR": "Capitão da Guarda: Protejam a Papisa e elimine os aventureiros!",
         "es-ES": "Capitán de la Guardia: ¡Protejan a la Papisa y eliminen a los aventureros!"
     },
     "Y2NhCA": {
-        "ko-KR": "교황님을 보호하고 모험가를 처치하라!",
         "en-US": "Protect the Pope and kill the Adventurer!",
         "pt-BR": "Capitão da Guarda: Protejam a Papisa e elimine os aventureiros!",
         "es-ES": "Capitán de la Guardia: ¡Protejan a la Papisa y eliminen a los aventureros!"
     },
     "ZGNhCA": {
-        "ko-KR": "교황님을 보호하고 모험가를 처치한다! 실시!",
         "en-US": "Protect the Pope and kill the Adventurer! Now!",
         "pt-BR": "Protejam a Papisa e elimine os aventureiros!",
         "es-ES": "¡Protejan a la Papisa y eliminen a los aventureros!"
     },
     "ZWNhCA": {
-        "ko-KR": "넷!!",
         "en-US": "Yes, sir!!",
         "pt-BR": "Entendido!!",
         "es-ES": "¡Entendido!"
     },
     "ZmNhCA": {
-        "ko-KR": "교황님을 반드시 막아야 한다!",
         "en-US": "You must stop the Pope!",
         "pt-BR": "A Papisa deve ser impedida!",
         "es-ES": "¡Se debe detener a la Papisa!"
     },
     "Z2NhCA": {
-        "ko-KR": "신전 경비병",
         "en-US": "Temple Guard",
         "pt-BR": "Guarda de Freya",
         "es-ES": "Guardia de Freya"
     },
     "aGNhCA": {
-        "ko-KR": "반드시 교황님을 막아라!!",
         "en-US": "Stop the Pope at all cost!",
         "pt-BR": "A Papisa deve ser impedida!!",
         "es-ES": "¡¡Se debe detener a la Papisa!!"
     },
     "aWNhCA": {
-        "ko-KR": "교황님, 괜찮으십니까? 이곳은 위험한 것 같습니다. 어서 자리를 피해야겠습니다.",
         "en-US": "Pope, are you okay? This place is dangerous. We must leave now.",
         "pt-BR": "Papisa, você está bem? Esse lugar parece ser perigoso.",
         "es-ES": "Papisa, ¿estás bien? Este lugar parece peligroso."
     },
     "amNhCA": {
-        "ko-KR": "늦었어.",
         "en-US": "It's too late.",
         "pt-BR": "Tarde demais.",
         "es-ES": "Demasiado tarde."
     },
     "a2NhCA": {
-        "ko-KR": "어서 이곳을 나가야 해.",
         "en-US": "I have to leave this place.",
         "pt-BR": "Preciso sair daqui.",
         "es-ES": "Necesito salir de aquí."
     },
     "bGNhCA": {
-        "ko-KR": "서둘러 교황님을 쫓아 가자.",
         "en-US": "Let's quickly go after the Pope.",
         "pt-BR": "Vamos fugir com a Papisa.",
         "es-ES": "Huyamos con la Papisa."
     },
     "bWNhCA": {
-        "ko-KR": "[???]\n아, 이제야 나왔구나.",
         "en-US": "[???]\nAh, there you are.",
         "pt-BR": "[???]\nVocê chegou.",
         "es-ES": "[???]\nLlegaste."
     },
     "bmNhCA": {
-        "ko-KR": "기다리고 있었어.",
         "en-US": "I've been waiting for you.",
         "pt-BR": "Eu estava te esperando.",
         "es-ES": "Te estaba esperando."
     },
     "b2NhCA": {
-        "ko-KR": "[교황님과 똑같은 얼굴에 하얀색 머리카락, 오드아이를 지닌 창백한 소년이 나타났다.]",
         "en-US": "[A pale boy who has the same appearance to the Pope as well as white hair and odd-eyes appeared.]",
         "pt-BR": "[Um menino de pele clara, cabelo branco e olhos heterocromáticos apareceu.]",
         "es-ES": "[Un niño de piel clara, cabello blanco y ojos heterocromáticos apareció.]"
     },
     "cGNhCA": {
-        "ko-KR": "교황님과 똑같이 생겼어.",
         "en-US": "He looks just like the Pope.",
         "pt-BR": "Ele é muito parecido com a Papisa.",
         "es-ES": "Se parece mucho a la Papisa."
     },
     "cWNhCA": {
-        "ko-KR": "[교황]\n오빠.",
         "en-US": "[Pope]\nBrother.",
         "pt-BR": "[Papisa]\nIrmão.",
         "es-ES": "[Papisa]\nHermano."
     },
     "cmNhCA": {
-        "ko-KR": "오빠...?",
         "en-US": "Brother...?",
         "pt-BR": "Irmão...?",
         "es-ES": "¿Hermano...?"
     },
     "c2NhCA": {
-        "ko-KR": "[이 소년이 니르엔 대신관님이 말한 루우민인 것 같다.]",
         "en-US": "[This boy must be Luwmin that High Priestess Niruen talked about.]",
         "pt-BR": "[Acho que ele é Loomin, o garoto que a Sacerdotisa Niren falou.]",
         "es-ES": "[Creo que es Loomin, el chico del que habló la Sacerdotisa Niren.]"
     },
     "dGNhCA": {
-        "ko-KR": "[루우민]\n안 오길래 여기까지 찾아 왔어. 걱정이 돼서.",
         "en-US": "[Luwmin]\nYou were not coming so I came to look for you. I was worried.",
         "pt-BR": "[Loomin]\nVocê não apareceu, então vim até aqui. Estava preocupado.",
         "es-ES": "[Loomin]\nNo apareciste, así que vine hasta aquí. Estaba preocupado."
     },
     "dWNhCA": {
-        "ko-KR": "[교황]\n몰래 빠져나올 수가 없었어.",
         "en-US": "[Pope]\nI couldn't sneak out.",
         "pt-BR": "[Papisa]\nNão conseguia sair.",
         "es-ES": "[Papisa]\nNo podía salir."
     },
     "dmNhCA": {
-        "ko-KR": "[루우민]\n저런, 괜찮아? 무슨 일이라도 있었어?",
         "en-US": "[Luwmin]\nMy, are you alright? What's happened?",
         "pt-BR": "[Loomin]\nOh... você está bem? O que aconteceu??",
         "es-ES": "[Loomin]\nOh... ¿estás bien? ¿Qué pasó??"
     },
     "d2NhCA": {
-        "ko-KR": "[교황]\n응. 지금은 괜찮아. 모험가님이 도와주셨어.",
         "en-US": "[Pope]\nYeah. I'm okay now. Adventurer helped me.",
         "pt-BR": "[Papisa]\nEstou sim, tive uma ajudinha.",
         "es-ES": "[Papisa]\nSí, tuve una ayudita."
     },
     "eGNhCA": {
-        "ko-KR": "[루우민]\n동생을 도와주셔서 고맙습니다. 여기서부터는 제가 데리고 갈게요.",
         "en-US": "[Luwmin]\nThank you for helping my sister. I'll take her from here.",
         "pt-BR": "[Loomin]\nObrigado por ajudar minha irmã. Eu cuidarei dela daqui em diante.",
         "es-ES": "[Loomin]\nGracias por ayudar a mi hermana. Yo me haré cargo de ella de ahora en adelante."
     },
     "eWNhCA": {
-        "ko-KR": "이만 가보셔도 됩니다.",
         "en-US": "You may go.",
         "pt-BR": "Você já pode ir embora.",
         "es-ES": "Ya puedes irte."
     },
     "emNhCA": {
-        "ko-KR": "[{0}]\n교황님이 무사히 돌아 오실 때까지 안전을 책임지기로 했습니다. 동행하겠습니다.",
         "en-US": "[{0}]\nI'm here to protect her until she safely returns to the Temple. I'll come with you.",
         "pt-BR": "[{0}]\nEu assumi a responsabilidade pela Papisa até ela retornar em segurança.",
         "es-ES": "[{0}]\nAsumí la responsabilidad por la Papisa hasta que regrese a salvo."
     },
     "e2NhCA": {
-        "ko-KR": "동행하겠습니다.",
         "en-US": "I'll come with you.",
         "pt-BR": "Eu acompanharei vocês.",
         "es-ES": "Los acompañaré."
     },
     "fGNhCA": {
-        "ko-KR": "[루우민]\n......",
         "en-US": "[Luwmin]\n......",
         "pt-BR": "[Loomin]\n......",
         "es-ES": "[Loomin]\n......"
     },
     "fWNhCA": {
-        "ko-KR": "[교황]\n어서 가자.",
         "en-US": "[Pope]\nLet's go.",
         "pt-BR": "[Papisa]\nEntão, vamos.",
         "es-ES": "[Papisa]\nEntonces, vamos."
     },
     "fmNhCA": {
-        "ko-KR": "오빠.",
         "en-US": "Brother.",
         "pt-BR": "Irmão.",
         "es-ES": "Hermano."
     },
     "f2NhCA": {
-        "ko-KR": "[루우민]\n그 복장은 눈에 너무 띄어서 안돼. 이걸로 갈아 입고 오는게 좋겠어.",
         "en-US": "[Luwmin]\nYou'll stand out too much in those clothes. Change to this.",
         "pt-BR": "[Loomin]\nSua roupa chama muita atenção, é melhor trocar.",
         "es-ES": "[Loomin]\nTu ropa llama demasiado la atención, mejor cámbiate."
     },
     "gGNhCA": {
-        "ko-KR": "[교황]\n옷을, 갈아 입어...?",
         "en-US": "[Pope]\nChange the clothes...?",
         "pt-BR": "[Papisa]\nTrocar de roupa...?",
         "es-ES": "[Papisa]\n¿Cambiarme de ropa...?"
     },
     "gWNhCA": {
-        "ko-KR": "[루우민]\n다른 아이들 것처럼 평범한 옷이야.",
         "en-US": "[Luwmin]\nIt's just normal clothes just like other kids.",
         "pt-BR": "[Loomin]\nSim, por roupas casuais, como as outras crianças.",
         "es-ES": "[Loomin]\nSí, por ropa casual, como los otros niños."
     },
     "gmNhCA": {
-        "ko-KR": "[교황]\n평범한 옷?",
         "en-US": "[Pope]\nNormal clothes?",
         "pt-BR": "[Papisa]\nRoupa casual?",
         "es-ES": "[Papisa]\n¿Ropa casual?"
     },
     "g2NhCA": {
-        "ko-KR": "[교황]\n알았어.",
         "en-US": "[Pope]\nAll right.",
         "pt-BR": "[Papisa]\nEntão, tá bom.",
         "es-ES": "[Papisa]\nEstá bien, entonces."
     },
     "hGNhCA": {
-        "ko-KR": "[교황]\n낯설어...",
         "en-US": "[Pope]\nIt's strange...",
         "pt-BR": "[Papisa]\nNão estou acostumada...",
         "es-ES": "[Papisa]\nNo estoy acostumbrada..."
     },
     "hWNhCA": {
-        "ko-KR": "[교황]\n이상해?",
         "en-US": "[Pope]\nDo I look weird?",
         "pt-BR": "[Papisa]\nPareço estranha?",
         "es-ES": "[Papisa]\n¿Me veo rara?"
     },
     "hmNhCA": {
-        "ko-KR": "[{0}]\n아닙니다. 잘 어울리십니다.",
         "en-US": "[{0}]\nNo. It looks good on you.",
         "pt-BR": "[{0}]\nNão, fica bem em você.",
         "es-ES": "[{0}]\nNo, te queda bien."
     },
     "h2NhCA": {
-        "ko-KR": "[루우민]\n정말 예뻐.",
         "en-US": "[Luwmin]\nYou look lovely.",
         "pt-BR": "[Loomin]\nMuito bonitinha.",
         "es-ES": "[Loomin]\nMuy bonita."
     },
     "iGNhCA": {
-        "ko-KR": "[교황]\n다행이다.",
         "en-US": "[Pope]\nThank Goddess.",
         "pt-BR": "[Papisa]\nQue bom.",
         "es-ES": "[Papisa]\nQué bueno."
     },
     "iWNhCA": {
-        "ko-KR": "[루우민]\n어서 가자. 엄마, 아빠가 기다리실 거야.",
         "en-US": "[Luwmin]\nLet's go. Mom and dad must be waiting for us.",
         "pt-BR": "[Loomin]\nAnda logo! A mãe e o pai estão esperando.",
         "es-ES": "[Loomin]\n¡Apúrate! Mamá y papá están esperando."
     },
     "imNhCA": {
-        "ko-KR": "[교황]\n응.",
         "en-US": "[Pope]\nYeah.",
         "pt-BR": "[Papisa]\nSim.",
         "es-ES": "[Papisa]\nSí."
     },
     "i2NhCA": {
-        "ko-KR": "교황님? 방금 나가시지 않으셨습니까? 게다가 복장이...",
         "en-US": "Your Holiness? Didn't you just leave? But your clothes...",
         "pt-BR": "Papisa? Você não tinha ido? Como mudou de roupa de novo...?",
         "es-ES": "¿Papisa? ¿No te habías ido? ¿Cómo es que cambiaste de ropa otra vez...?"
     },
     "jGNhCA": {
-        "ko-KR": "잘못 봤나... 이러다 놓치겠다 어서 교황님을 따라 가야겠다.",
         "en-US": "Am I mistaken...? I'm going to lose her. I should go after her now.",
         "pt-BR": "Tem algo errado... Vou seguir a Papisa ou acabarei a perdendo de vista.",
         "es-ES": "Algo anda mal... Seguiré a la Papisa o terminaré perdiéndola de vista."
     },
     "jWNhCA": {
-        "ko-KR": "루우민",
         "en-US": "Luwmin",
         "pt-BR": "Loomin",
         "es-ES": "Loomin"

@@ -1,48 +1,40 @@
 {
     "wNjcDA": {
-        "ko-KR": "에휴",
         "en-US": "Ehyu",
         "pt-BR": "Ehyu",
         "es-ES": "Ehyu"
     },
     "wdjcDA": {
-        "ko-KR": "안식을 주는 자",
         "en-US": "Mistress of Shelter",
         "pt-BR": "Anjo do Abrigo",
         "es-ES": "Ángel del Refugio"
     },
     "wtjcDA": {
-        "ko-KR": "타나토스의 기억 파편, 고뇌가 등장했습니다.",
         "en-US": "Memory of Thanatos Fragment, Anguish has appeared.",
         "pt-BR": "Um fragmento de Thanatos, a Agonia, apareceu no centro.",
         "es-ES": "Un fragmento de Thanatos, la Agonía, apareció en el centro."
     },
     "w9jcDA": {
-        "ko-KR": "고뇌의 기억",
         "en-US": "Memory of Anguish",
         "pt-BR": "Agonia de Thanatos",
         "es-ES": "Agonía de Thanatos"
     },
     "xNjcDA": {
-        "ko-KR": "타나토스의 고뇌",
         "en-US": "Anguish of Memory of Thanatos",
         "pt-BR": "Energia da Agonia",
         "es-ES": "Energía de la Agonía"
     },
     "xdjcDA": {
-        "ko-KR": "소지하고 계시는 아이템의 갯수가 많아 퀘스트를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
         "en-US": "You cannot proceed with the quest because you are carrying too many items. Please organize your inventory and try again.",
         "pt-BR": "Você possui itens demais para prosseguir com a missão. Organize seus itens e tente novamente.",
         "es-ES": "Tienes demasiados objetos para continuar con la misión. Organiza tu inventario e inténtalo de nuevo."
     },
     "xtjcDA": {
-        "ko-KR": "고뇌의 기억이 파편으로 형상화합니다. 게이트의 봉인이 해제되었습니다.",
         "en-US": "Memory of Anguish manifests as fragments. The seal of the gate has been released.",
         "pt-BR": "A agonia acumulou em um fragmento. O selo foi removido e um portal se abriu.",
         "es-ES": "La agonía se acumuló en un fragmento. El sello fue removido y un portal se abrió."
     },
     "x9jcDA": {
-        "ko-KR": "석상이 화염을 부릅니다..",
         "en-US": "The stone statue calls forth flames..",
         "pt-BR": "As estátuas começaram a lançar chamas.",
         "es-ES": "Las estatuas comenzaron a lanzar llamas."

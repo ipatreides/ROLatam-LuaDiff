@@ -1,217 +1,262 @@
 {
     "4OP8DA": {
-        "en-US": "ÆòÆÇ¸í·É¾îÅ×½ºÆ®",
+        "en-US": "Reputation Command Test",
         "pt-BR": "Teste de comando de reputação",
-        "es-ES": "Prueba del comando de reputación"
+        "es-ES": "Prueba de comando de reputación"
     },
     "4eP8DA": {
-        "en-US": "0 ~ 9999 ±îÁö ÀÔ·Â °¡´ÉÇÕ´Ï´Ù.",
-        "pt-BR": "Você pode inserir um valor de 0 a 9999.",
-        "es-ES": "Puedes introducir un valor de 0 a 9999."
+        "en-US": "You can enter a value from 0 to 3000.",
+        "pt-BR": "Pode introduzir de 0 a 3000.",
+        "es-ES": "Puedes introducir un valor entre 0 y 3000."
     },
     "4uP8DA": {
-        "en-US": "°¢ ÆòÆÇ ¼¼·ÂÀÇ ¾ÆÀÌµðÀÔ´Ï´Ù.\n¼³Á¤ ¹× È®ÀÎÇÏ°íÀÚ ÇÏ´Â ¼¼·ÂÀÇ ¼ýÀÚ¸¦ ÀÔ·ÂÇØ ÁÖ¼¼¿ä.\n¿ÀÅ©ºÎ¶ô: 1\n°íºí¸°ºÎ¶ô: 2\nÈ¸»ö´Á´ë¸¶À»: 3\n¾óÀ½¼º: 4\nÇÏ¾á °í¾çÀÌ µ¿¸Í: 5\n½ÉÃþ 1Ãþ ¿¬±¸: 6\n¿µ¿õµ¿¸Í(EP21): 7\nÃàÁ¦ÀÇ À½À¯½ÃÀÎ: 8\n½ÉÃþ ¾îºñ½º ¿¬±¸: 9\nÀÏ·ç½Ã¿Â ÆÐ½º: 10\nÇöÀÚÀÇ À¯»ê ÆÐ½º: 11\n±âµµÀÇ ¹æÇâ ÆÐ½º: 12\n°Ô¿Àº¸¸£±× »ç·ÉºÎ: 13\n°ËÀºº° ³×¸®¿ì½º: 14\n½£ÀÇ ÇöÀÚ ÇÏÀÌ³×: 15\n·Ú°ÕºÎ¸£±× ÇüÁ¦: 16\n¹ßÅÍ ÇÔ´ë: 17\nÀ§±×³Ê »ó´Ü: 18\n¸®ÇÏ¸£Æ® ¿ëº´´Ü: 19\nÈ²±Ý »Ñ¸®: 20\nÈ­¿° °¡Áö: 21",
-        "pt-BR": "Este é o ID de cada facção de reputação.\nPor favor, insira o número da facção que deseja definir e verificar.\nOrc Buraco: 1\nToca de Goblins: 2\nAldeia do Lobo Cinzento: 3\nCastelo de Gelo: 4\nAliança do Gato Branco: 5\nPesquisa do Andar 1 do Abismo: 6\nAliança dos Heróis (EP21): 7\nBardo do Festival: 8\nPesquisa do Abismo Profundo: 9\nPasse Ilusão: 10\nPasse do Legado do Sábio: 11\nPasse da Direção da Oração: 12\nComando de Geoborg: 13\nNerius, la Estrella Negra: 14\nHeine, o Sábio da Floresta: 15\nIrmãos de Rogenburg: 16\nFrota Walter: 17\nCompanhia Comercial Wiegner: 18\nCompanhia de Mercenários Reinhardt: 19\nRaiz Dourada: 20\nRamo de Chamas: 21",
-        "es-ES": "Este es el ID de cada facción de reputación.\nIntroduce el número de la facción que deseas configurar y comprobar.\nMadriguera de Orcos: 1\nMadriguera de Duendes: 2\nAldea del Lobo Gris: 3\nCastillo de Hielo: 4\nAlianza del Gato Blanco: 5\nInvestigación del Nivel 1 del Abismo: 6\nAlianza de Héroes (EP21): 7\nBardo del Festival: 8\nInvestigación del Abismo Profundo: 9\nPase de la Ilusión: 10\nPase del Legado del Sabio: 11\nPase de la Dirección de la Oración: 12\nMando de Geoborg: 13\nNerius, la Estrella Negra: 14\nHeine, el Sabio del Bosque: 15\nHermanos de Rogenburg: 16\nFlota Walter: 17\nCompañía Comercial Wiegner: 18\nCompañía de Mercenarios Reinhardt: 19\nRaíz Dorada: 20\nRama de Llamas: 21"
+        "en-US": "These are the IDs for each reputation faction.\nEnter the number of the faction you want to set or check.\nOrc Village: 1\nGoblin Village: 2\nGray Wolf Village: 3\nIce Castle: 4\nWhite Cat Alliance: 5\nDeep Level 1 Research: 6\nHero Alliance (EP21): 7\nFestival Bard: 8\nDeep Abyss Research: 9\nIllusion Pass: 10\nLegacy of the Wise Pass: 11\nDirection of Prayer Pass: 12\nGeoborg Command: 13\nBlack Star Nerius: 14\nHeinie, Sage of the Forest: 15\nThe Rogenburg Brothers: 16\nWalter Fleet: 17\nWigner Trading Company: 18\nRichard Mercenary Corps: 19\nGolden Root: 20\nFlame Branch: 21",
+        "pt-BR": "Estes são os IDs de cada tribo de reputação.\nIntroduza o número da tribo que pretende definir ou verificar.\nAldeia Orc: 1\nAldeia Goblin: 2\nAldeia do Lobo Cinzento: 3\nCastelo de Gelo: 4\nAliança do Gato Branco: 5\nInvestigação do Piso 1 das Profundezas: 6\nAliança dos Heróis (EP21): 7\nFestival de Bardos: 8\nInvestigação do Abismo Profundo: 9\nPasse Ilusión: 10\nPasse Legado do Sábio: 11\nPasse Caminho da Oração: 12\nComando Gaebolg: 13\nEstrela Negra Nerius: 14\nHeine, Sábio da Floresta: 15\nIrmãos Lugenburg: 16\nFrota Walther: 17\nCompanhia Mercante Wigner: 18\nCompanhia de Mercenários Richard: 19\nRaiz Dourada: 20\nRamo Flamejante: 21",
+        "es-ES": "Estos son los ID de cada facción de reputación.\nIntroduce el número de la facción que quieras configurar o comprobar.\nAldea orca: 1\nAldea goblin: 2\nAldea de los lobos grises: 3\nCastillo de hielo: 4\nAlianza de gatos blancos: 5\nInvestigación del nivel 1 profundo: 6\nAlianza de héroes (EP21): 7\nBardo del festival: 8\nInvestigación del Abismo profundo: 9\nPase de Illusion: 10\nPase del legado del sabio: 11\nPase de la dirección de la oración: 12\nCuartel general de Geoborg: 13\nNerius Estrella Negra: 14\nHeine, sabio del bosque: 15\nHermanos Rogenburg: 16\nFlota Walter: 17\nCompañía comercial Wigner: 18\nMercenarios Richard: 19\nRaíz dorada: 20\nRama ígnea: 21"
     },
     "4+P8DA": {
-        "en-US": "Ãë¼ÒÇÏ¼Ì½À´Ï´Ù.",
-        "pt-BR": "Você cancelou.",
-        "es-ES": "Has cancelado."
+        "en-US": "Orc friendship increased",
+        "pt-BR": "Aumento da afinidade com Orcs",
+        "es-ES": "Afinidad con los orcos aumentada"
     },
     "5OP8DA": {
-        "en-US": "¿ÀÅ©",
-        "pt-BR": "Orcs",
-        "es-ES": "Orcos"
+        "en-US": "Canceled.",
+        "pt-BR": "Cancelou.",
+        "es-ES": "Has cancelado."
     },
     "5eP8DA": {
-        "en-US": "°íºí¸°",
-        "pt-BR": "Goblins",
-        "es-ES": "Duendes"
+        "en-US": "Orc",
+        "pt-BR": "Orc",
+        "es-ES": "Orco"
     },
     "5uP8DA": {
-        "en-US": "È¸»ö´Á´ë",
-        "pt-BR": "Lobos Cinzentos",
-        "es-ES": "Lobos Grises"
+        "en-US": "Goblin",
+        "pt-BR": "Goblin",
+        "es-ES": "Goblin"
     },
     "5+P8DA": {
-        "en-US": "¾óÀ½¼º",
-        "pt-BR": "Castelo de Gelo",
-        "es-ES": "Castillo de Hielo"
+        "en-US": "Gray Wolf",
+        "pt-BR": "Lobo Cinzento",
+        "es-ES": "Lobo gris"
     },
     "6OP8DA": {
-        "en-US": "ÇÏ¾á °í¾çÀÌ µ¿¸Í",
-        "pt-BR": "Aliança do Gato Branco",
-        "es-ES": "Alianza del Gato Blanco"
+        "en-US": "Ice Castle",
+        "pt-BR": "Castelo de Gelo",
+        "es-ES": "Castillo de hielo"
     },
     "6eP8DA": {
-        "en-US": "½ÉÃþ 1Ãþ ¿¬±¸",
-        "pt-BR": "Pesquisa do Andar 1 do Abismo",
-        "es-ES": "Investigación del Nivel 1 del Abismo"
+        "en-US": "Friendship is already at maximum and hostility is 0, so friendship cannot be increased any further.",
+        "pt-BR": "A afinidade atual está no máximo e a hostilidade é 0, pelo que já não é possível aumentar mais a afinidade.",
+        "es-ES": "La afinidad actual está al máximo y el valor de hostilidad es 0, así que no puedes aumentar más la afinidad."
     },
     "6uP8DA": {
-        "en-US": "¿µ¿õµ¿¸Í",
-        "pt-BR": "Aliança dos Heróis",
-        "es-ES": "Alianza de Héroes"
+        "en-US": "Friendship increased by {0}",
+        "pt-BR": "Afinidade aumentada em {0}",
+        "es-ES": "Afinidad aumentada en {0}"
     },
     "6+P8DA": {
-        "en-US": "ÃàÁ¦ÀÇ À½À¯½ÃÀÎ",
-        "pt-BR": "Bardo do Festival",
-        "es-ES": "Bardo del Festival"
+        "en-US": "Hostility decreased by {0}",
+        "pt-BR": "Hostilidade reduzida em {0}",
+        "es-ES": "Hostilidad reducida en {0}"
     },
     "7OP8DA": {
-        "en-US": "½ÉÃþ ¾îºñ½º ¿¬±¸",
-        "pt-BR": "Pesquisa do Abismo Profundo",
-        "es-ES": "Investigación del Abismo Profundo"
+        "en-US": "Hostility is already at maximum and friendship is 0, so hostility cannot be increased any further.",
+        "pt-BR": "A hostilidade atual está no máximo e a afinidade é 0, pelo que já não é possível aumentar mais a hostilidade.",
+        "es-ES": "La hostilidad actual está al máximo y el valor de afinidad es 0, así que no puedes aumentar más la hostilidad."
     },
     "7eP8DA": {
-        "en-US": "ÀÏ·ç½Ã¿Â ÆÐ½º",
-        "pt-BR": "Passe Ilusão",
-        "es-ES": "Pase de la Ilusión"
+        "en-US": "Flame Branch",
+        "pt-BR": "Ramo Flamejante",
+        "es-ES": "Rama ígnea"
     },
     "7uP8DA": {
-        "en-US": "ÇöÀÚÀÇ À¯»ê ÆÐ½º",
-        "pt-BR": "Passe do Legado do Sábio",
-        "es-ES": "Pase del Legado del Sabio"
-    },
-    "7+P8DA": {
-        "en-US": "±âµµÀÇ ¹æÇâ ÆÐ½º",
-        "pt-BR": "Passe da Direção da Oração",
-        "es-ES": "Pase de la Dirección de la Oración"
-    },
-    "8OP8DA": {
-        "en-US": "°Ô¿Àº¸¸£±× »ç·ÉºÎ",
-        "pt-BR": "Comando de Geoborg",
-        "es-ES": "Mando de Geoborg"
-    },
-    "8eP8DA": {
-        "en-US": "°ËÀºº° ³×¸®¿ì½º",
-        "pt-BR": "Nerius, la Estrella Negra",
-        "es-ES": "Nerius, la Estrella Negra"
-    },
-    "8uP8DA": {
-        "en-US": "½£ÀÇ ÇöÀÚ ÇÏÀÌ³×",
-        "pt-BR": "Heine, o Sábio da Floresta",
-        "es-ES": "Heine, el Sabio del Bosque"
-    },
-    "8+P8DA": {
-        "en-US": "·Ú°ÕºÎ¸£±× ÇüÁ¦",
-        "pt-BR": "Irmãos de Rogenburg",
-        "es-ES": "Hermanos de Rogenburg"
-    },
-    "9OP8DA": {
-        "en-US": "¹ßÅÍ ÇÔ´ë",
-        "pt-BR": "Frota Walter",
-        "es-ES": "Flota Walter"
-    },
-    "9eP8DA": {
-        "en-US": "À§±×³Ê »ó´Ü",
-        "pt-BR": "Companhia Comercial Wiegner",
-        "es-ES": "Compañía Comercial Wiegner"
-    },
-    "9uP8DA": {
-        "en-US": "¸®ÇÏ¸£Æ® ¿ëº´´Ü",
-        "pt-BR": "Companhia de Mercenários Reinhardt",
-        "es-ES": "Compañía de Mercenarios Reinhardt"
-    },
-    "9+P8DA": {
-        "en-US": "È²±Ý »Ñ¸®",
-        "pt-BR": "Raiz Dourada",
-        "es-ES": "Raíz Dorada"
-    },
-    "+OP8DA": {
-        "en-US": "È­¿° °¡Áö",
-        "pt-BR": "Ramo de Chamas",
-        "es-ES": "Rama de Llamas"
-    },
-    "+eP8DA": {
-        "en-US": "¹Ìµî·Ï±âº»5Ãµ",
-        "pt-BR": "Padrão não registrado 5000",
+        "en-US": "Unregistered Default 5000",
+        "pt-BR": "Não registado predefinido 5000",
         "es-ES": "Predeterminado no registrado 5000"
     },
+    "7+P8DA": {
+        "en-US": "For reputation testing.\nAdjusts the reputation score for {0}.",
+        "pt-BR": "Para teste de reputação.\nManipula a pontuação de reputação de {0}.",
+        "es-ES": "Esto es para una prueba de reputación.\nModifica la puntuación de reputación de {0}."
+    },
+    "8OP8DA": {
+        "en-US": "Increase Friendship",
+        "pt-BR": "Aumentar afinidade",
+        "es-ES": "Aumentar afinidad"
+    },
+    "8eP8DA": {
+        "en-US": "Increase Hostility",
+        "pt-BR": "Aumentar hostilidade",
+        "es-ES": "Aumentar hostilidad"
+    },
+    "8uP8DA": {
+        "en-US": "Set Friendship to Specified Value",
+        "pt-BR": "Definir valor especificado de afinidade",
+        "es-ES": "Establecer valor específico de afinidad"
+    },
+    "8+P8DA": {
+        "en-US": "Input range exceeded.",
+        "pt-BR": "Excedeu o intervalo de entrada.",
+        "es-ES": "Has superado el intervalo de entrada."
+    },
+    "9OP8DA": {
+        "en-US": "Set Gray Wolf Village reputation to {0} points.",
+        "pt-BR": "Define a reputação da Aldeia do Lobo Cinzento para {0} pontos.",
+        "es-ES": "Establece la reputación de la Aldea de los lobos grises en {0} puntos."
+    },
+    "9eP8DA": {
+        "en-US": "You can enter a value from 0 to 5000.",
+        "pt-BR": "Pode introduzir de 0 a 5000.",
+        "es-ES": "Puedes introducir un valor entre 0 y 5000."
+    },
+    "9uP8DA": {
+        "en-US": "The reputation score has been increased by the amount entered.\nIt will not exceed the maximum of 5000.",
+        "pt-BR": "Foram adicionados pontos de reputação equivalentes ao valor introduzido.\nNão ultrapassa o máximo de 5000.",
+        "es-ES": "Se han añadido puntos de reputación por el valor introducido.\nNo superará el máximo de 5000."
+    },
+    "9+P8DA": {
+        "en-US": "Orc",
+        "pt-BR": "Orc",
+        "es-ES": "Orco"
+    },
+    "+OP8DA": {
+        "en-US": "Friendship points: {0}\nHostility points: {1}\nFinal score, friendship: {2}\nPositive reputation level: {3}\nNegative reputation level: {4}\nFinal reputation, friendship: {5}",
+        "pt-BR": "Pontos de afinidade: {0}\nPontos de hostilidade: {1}\nPontuação final de afinidade:{2}\nNível de reputação positiva: {3}\nNível de reputação negativa: {4}\nAfinidade da reputação final: {5}",
+        "es-ES": "Puntos de afinidad: {0}\nPuntos de hostilidad: {1}\nPuntuación final de afinidad: {2}\nNivel de reputación positiva: {3}\nNivel de reputación negativa: {4}\nReputación final de afinidad: {5}"
+    },
+    "+eP8DA": {
+        "en-US": "Friendship points: {0}\nHostility points: {1}\nFinal score, hostility: {2}\nPositive reputation level: {3}\nNegative reputation level: {4}\nFinal reputation, hostility: {5}",
+        "pt-BR": "Pontos de afinidade: {0}\nPontos de hostilidade: {1}\nPontuação final de hostilidade:{2}\nNível de reputação positiva: {3}\nNível de reputação negativa: {4}\nDesagrado da reputação final: {5}",
+        "es-ES": "Puntos de afinidad: {0}\nPuntos de hostilidad: {1}\nPuntuación final de hostilidad: {2}\nNivel de reputación positiva: {3}\nNivel de reputación negativa: {4}\nReputación final de aversión: {5}"
+    },
     "+uP8DA": {
-        "en-US": "ÆòÆÇ Å×½ºÆ®¿ëÀÔ´Ï´Ù.\n{0} ÀÇ ÆòÆÇ Á¡¼ö¸¦ Á¶ÀÛÇÕ´Ï´Ù.",
-        "pt-BR": "Isto é para testes de reputação.\nManipule a pontuação de reputação de {0}.",
-        "es-ES": "Esto es para pruebas de reputación.\nManipula la puntuación de reputación de {0}."
-    },
-    "++P8DA": {
-        "en-US": "¿ìÈ£µµ ¿Ã¸®±â",
-        "pt-BR": "Aumentar Afinidade",
-        "es-ES": "Aumentar Favor"
-    },
-    "/OP8DA": {
-        "en-US": "Àû´ëµµ ¿Ã¸®±â",
-        "pt-BR": "Aumentar Hostilidade",
-        "es-ES": "Aumentar Hostilidad"
-    },
-    "/eP8DA": {
-        "en-US": "¿ìÈ£µµ ÁöÁ¤°ª ¼³Á¤",
-        "pt-BR": "Definir Afinidade para um valor específico",
-        "es-ES": "Establecer Favor en un valor específico"
-    },
-    "/uP8DA": {
-        "en-US": "Àû´ëµµ ÁöÁ¤°ª ¼³Á¤",
-        "pt-BR": "Definir Hostilidade para um valor específico",
-        "es-ES": "Establecer Hostilidad en un valor específico"
-    },
-    "/+P8DA": {
-        "en-US": "0 ~ {0} ±îÁö ÀÔ·Â °¡´ÉÇÕ´Ï´Ù.",
-        "pt-BR": "Você pode inserir um valor de 0 a {0}.",
-        "es-ES": "Puedes introducir un valor de 0 a {0}."
-    },
-    "AOT8DA": {
-        "en-US": "ÇöÀç ¿ìÈ£µµ ÃÖ´ë, Àû´ë¼öÄ¡ 0ÀÌ¹Ç·Î ´õ ÀÌ»ó ¿ìÈ£µµ¸¦ ¿Ã¸± ¼ö ¾ø½À´Ï´Ù.",
-        "pt-BR": "A afinidade já está no máximo e a hostilidade é 0, então não é possível aumentar a afinidade mais.",
-        "es-ES": "El favor ya está en el máximo y la hostilidad es 0, así que no puedes aumentar el favor más."
-    },
-    "AeT8DA": {
-        "en-US": "¿ìÈ£µµ {0} ¿Ã¸²",
-        "pt-BR": "Aumentar afinidade em {0}",
-        "es-ES": "Aumentar favor en {0}"
-    },
-    "AuT8DA": {
-        "en-US": "Àû´ëµµ {0} ³»¸²",
-        "pt-BR": "Diminuir hostilidade em {0}",
-        "es-ES": "Disminuir hostilidad en {0}"
-    },
-    "A+T8DA": {
-        "en-US": "ÇöÀç Àû´ëµµ ÃÖ´ë, ¿ìÈ£¼öÄ¡ 0ÀÌ¹Ç·Î ´õ ÀÌ»ó Àû´ëµµ¸¦ ¿Ã¸± ¼ö ¾ø½À´Ï´Ù.",
-        "pt-BR": "A hostilidade já está no máximo e a afinidade é 0, então não é possível aumentar a hostilidade mais.",
-        "es-ES": "La hostilidad ya está en el máximo y el favor es 0, así que no puedes aumentar la hostilidad más."
-    },
-    "BOT8DA": {
-        "en-US": "ÀÔ·Â ¹üÀ§¸¦ ÃÊ°úÇÏ¿´½À´Ï´Ù.",
-        "pt-BR": "Você excedeu o intervalo de entrada.",
-        "es-ES": "Has superado el rango de entrada."
-    },
-    "BeT8DA": {
-        "en-US": "Áý°è ÁßÀÔ´Ï´Ù.",
-        "pt-BR": "Agregando.",
+        "en-US": "Calculating.",
+        "pt-BR": "A calcular.",
         "es-ES": "Calculando."
     },
+    "++P8DA": {
+        "en-US": "What is happening?",
+        "pt-BR": "O que se está a passar?",
+        "es-ES": "¿Qué está pasando?"
+    },
+    "/OP8DA": {
+        "en-US": "Friendship points: {0}\nHostility points: {1}\nFinal score, friendship: {2}\nPositive reputation level: {3}\nNegative reputation level: {4}\nFinal reputation, friendship: {5}",
+        "pt-BR": "Pontos de afinidade: {0}\nPontos de hostilidade: {1}\nPontuação final de afinidade:{2}\nNível de reputação positiva: {3}\nNível de reputação negativa: {4}\nAfinidade da reputação final: {5}",
+        "es-ES": "Puntos de afinidad: {0}\nPuntos de hostilidad: {1}\nPuntuación final de afinidad: {2}\nNivel de reputación positiva: {3}\nNivel de reputación negativa: {4}\nReputación final de afinidad: {5}"
+    },
+    "/eP8DA": {
+        "en-US": "Friendship points: {0}\nHostility points: {1}\nFinal score, hostility: {2}\nPositive reputation level: {3}\nNegative reputation level: {4}\nFinal reputation, hostility: {5}",
+        "pt-BR": "Pontos de afinidade: {0}\nPontos de hostilidade: {1}\nPontuação final de hostilidade:{2}\nNível de reputação positiva: {3}\nNível de reputação negativa: {4}\nDesagrado da reputação final: {5}",
+        "es-ES": "Puntos de afinidad: {0}\nPuntos de hostilidad: {1}\nPuntuación final de hostilidad: {2}\nNivel de reputación positiva: {3}\nNivel de reputación negativa: {4}\nReputación final de aversión: {5}"
+    },
+    "/uP8DA": {
+        "en-US": "Friendship points: {0}\nHostility points: {1}\nFinal score: {2}\nPositive reputation level: {3}\nNegative reputation level: {4}\nFinal reputation: {5}",
+        "pt-BR": "Pontos de afinidade: {0}\nPontos de hostilidade: {1}\nPontuação final:{2}\nNível de reputação positiva: {3}\nNível de reputação negativa: {4}\nReputação final: {5}",
+        "es-ES": "Puntos de afinidad: {0}\nPuntos de hostilidad: {1}\nPuntuación final: {2}\nNivel de reputación positiva: {3}\nNivel de reputación negativa: {4}\nReputación final: {5}"
+    },
+    "/+P8DA": {
+        "en-US": "Friendship points: {0}\nHostility points: {1}\nFinal score: {2}\nPositive reputation level: {3}\nNegative reputation level: {4}\nFinal reputation: {5}",
+        "pt-BR": "Pontos de afinidade: {0}\nPontos de hostilidade: {1}\nPontuação final:{2}\nNível de reputação positiva: {3}\nNível de reputação negativa: {4}\nReputação final: {5}",
+        "es-ES": "Puntos de afinidad: {0}\nPuntos de hostilidad: {1}\nPuntuación final: {2}\nNivel de reputación positiva: {3}\nNivel de reputación negativa: {4}\nReputación final: {5}"
+    },
+    "AOT8DA": {
+        "en-US": "You can enter a value from 0 to 9999.",
+        "pt-BR": "Pode introduzir de 0 a 9999.",
+        "es-ES": "Puedes introducir un valor entre 0 y 9999."
+    },
+    "AeT8DA": {
+        "en-US": "White Cat Alliance",
+        "pt-BR": "Aliança do Gato Branco",
+        "es-ES": "Alianza de gatos blancos"
+    },
+    "AuT8DA": {
+        "en-US": "Deep Level 1 Research",
+        "pt-BR": "Investigação do Piso 1 das Profundezas",
+        "es-ES": "Investigación del nivel 1 profundo"
+    },
+    "A+T8DA": {
+        "en-US": "Hero Alliance",
+        "pt-BR": "Aliança dos Heróis",
+        "es-ES": "Alianza de héroes"
+    },
+    "BOT8DA": {
+        "en-US": "Festival Bard",
+        "pt-BR": "Festival do Bardo",
+        "es-ES": "Bardo del festival"
+    },
+    "BeT8DA": {
+        "en-US": "Deep Abyss Research",
+        "pt-BR": "Investigação do Abismo Profundo",
+        "es-ES": "Investigación del Abismo profundo"
+    },
     "BuT8DA": {
-        "en-US": "ÆòÆÇ:{0}",
-        "pt-BR": "Reputação: {0}",
-        "es-ES": "Reputación: {0}"
+        "en-US": "Illusion Pass",
+        "pt-BR": "Passe Ilusión",
+        "es-ES": "Pase de Illusion"
     },
     "B+T8DA": {
-        "en-US": "¿ìÈ£Á¡¼ö: {0}\nÀû´ëÁ¡¼ö: {1}\nÃÖÁ¾Á¡¼ö ¿ìÈ£:{2}\n±àÁ¤ÆòÆÇ ·¹º§: {3}\nºÎÁ¤ÆòÆÇ ·¹º§: {4}\nÃÖÁ¾ÆòÆÇ ¿ìÈ£: {5}",
-        "pt-BR": "Pontuação positiva: {0}\nPontuação de hostilidade: {1}\nPontuação final (favor): {2}\nNível de reputação positiva: {3}\nNível de reputação negativa: {4}\nReputação final (favor): {5}",
-        "es-ES": "Puntuación positiva: {0}\nPuntuación de hostilidad: {1}\nPuntuación final (a favor): {2}\nNivel de reputación positiva: {3}\nNivel de reputación negativa: {4}\nReputación final (a favor): {5}"
+        "en-US": "Legacy of the Wise Pass",
+        "pt-BR": "Passe Legado do Sábio",
+        "es-ES": "Pase del legado del sabio"
     },
     "COT8DA": {
-        "en-US": "¿ìÈ£Á¡¼ö: {0}\nÀû´ëÁ¡¼ö: {1}\nÃÖÁ¾Á¡¼ö Àû´ë:{2}\n±àÁ¤ÆòÆÇ ·¹º§: {3}\nºÎÁ¤ÆòÆÇ ·¹º§: {4}\nÃÖÁ¾ÆòÆÇ ºÒÈ£: {5}",
-        "pt-BR": "Pontuação positiva: {0}\nPontuação de hostilidade: {1}\nPontuação final (hostilidade): {2}\nNível de reputação positiva: {3}\nNível de reputação negativa: {4}\nReputação final (desagrado): {5}",
-        "es-ES": "Puntuación positiva: {0}\nPuntuación de hostilidad: {1}\nPuntuación final (en contra): {2}\nNivel de reputación positiva: {3}\nNivel de reputación negativa: {4}\nReputación final (desagrado): {5}"
+        "en-US": "Direction of Prayer Pass",
+        "pt-BR": "Passe Caminho da Oração",
+        "es-ES": "Pase de la dirección de la oración"
     },
     "CeT8DA": {
-        "en-US": "¿ìÈ£Á¡¼ö: {0}\nÀû´ëÁ¡¼ö: {1}\nÃÖÁ¾Á¡¼ö:{2}\n±àÁ¤ÆòÆÇ ·¹º§: {3}\nºÎÁ¤ÆòÆÇ ·¹º§: {4}\nÃÖÁ¾ÆòÆÇ: {5}",
-        "pt-BR": "Pontuação positiva: {0}\nPontuação de hostilidade: {1}\nPontuação final: {2}\nNível de reputação positiva: {3}\nNível de reputação negativa: {4}\nReputação final: {5}",
-        "es-ES": "Puntuación positiva: {0}\nPuntuación de hostilidad: {1}\nPuntuación final: {2}\nNivel de reputación positiva: {3}\nNivel de reputación negativa: {4}\nReputación final: {5}"
+        "en-US": "Geoborg Command",
+        "pt-BR": "Comando Gaebolg",
+        "es-ES": "Cuartel general de Geoborg"
     },
     "CuT8DA": {
-        "en-US": "¹«½¼ÀÏÀÌ ¹ú¾îÁö°í ÀÖÁö¿ä?",
-        "pt-BR": "O que está acontecendo?",
-        "es-ES": "¿Qué está pasando?"
+        "en-US": "Black Star Nerius",
+        "pt-BR": "Estrela Negra Nerius",
+        "es-ES": "Nerius Estrella Negra"
+    },
+    "C+T8DA": {
+        "en-US": "Heinie, Sage of the Forest",
+        "pt-BR": "Heine, Sábio da Floresta",
+        "es-ES": "Heine, sabio del bosque"
+    },
+    "DOT8DA": {
+        "en-US": "The Rogenburg Brothers",
+        "pt-BR": "Irmãos Lugenburg",
+        "es-ES": "Hermanos Rogenburg"
+    },
+    "DeT8DA": {
+        "en-US": "Walter Fleet",
+        "pt-BR": "Frota Walther",
+        "es-ES": "Flota Walter"
+    },
+    "DuT8DA": {
+        "en-US": "Wigner Trading Company",
+        "pt-BR": "Companhia Mercante Wigner",
+        "es-ES": "Compañía comercial Wigner"
+    },
+    "D+T8DA": {
+        "en-US": "Richard Mercenary Corps",
+        "pt-BR": "Companhia de Mercenários Richard",
+        "es-ES": "Mercenarios Richard"
+    },
+    "EOT8DA": {
+        "en-US": "Golden Root",
+        "pt-BR": "Raiz Dourada",
+        "es-ES": "Raíz dorada"
+    },
+    "EeT8DA": {
+        "en-US": "Set Hostility to Specified Value",
+        "pt-BR": "Definir valor especificado de hostilidade",
+        "es-ES": "Establecer valor específico de hostilidad"
+    },
+    "EuT8DA": {
+        "en-US": "You can enter a value from 0 to {0}.",
+        "pt-BR": "Pode introduzir de 0 a {0}.",
+        "es-ES": "Puedes introducir un valor entre 0 y {0}."
+    },
+    "E+T8DA": {
+        "en-US": "Reputation: {0}",
+        "pt-BR": "Reputação: {0}",
+        "es-ES": "Reputación: {0}"
     }
 }

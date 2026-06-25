@@ -1,300 +1,250 @@
 {
     "oFJXAQ": {
-        "ko-KR": "카프라 직원",
         "en-US": "Kafra Employee",
         "pt-BR": "Funcionário da Kapra",
         "es-ES": "Empleado de Kapra"
     },
     "oVJXAQ": {
-        "ko-KR": "[카프라 직원]\n고객님의 카프라 포인트가\n위험수준까지 도달하였습니다.\n현재의 상태로는 저희 카프라\n서비스를 이용하실 수 없으니,\n알데바란 카프라 본사에 가셔서\n카프라 포인트를 상품으로 교환해 주시길 바랍니다.",
         "en-US": "[Kafra Employee]\nYour Kafra Points\nhave reached a dangerous level.\nYou cannot use Kafra services\nin your current state.\nPlease visit our Al De Baran headquarters\nand exchange your Kafra Points for goods.",
         "pt-BR": "[Funcionário da Kapra]\nSeus pontos Kapra\natingiram um nível crítico.\nNestas condições, você não poderá\nutilizar nossos serviços Kapra,\npor isso, por favor, dirija-se à\nsede da Kapra em Aldebaran\npara trocar seus pontos Kapra por itens.",
         "es-ES": "[Empleado de Kapra]\nTus puntos Kapra\nhan llegado a un nivel de riesgo.\nEn tu estado actual, no puedes\nusar nuestros servicios Kapra,\nasí que te pedimos que vayas a la\nsede central de Kapra en Aldebaran\npara canjear tus puntos Kapra por productos."
     },
     "olJXAQ": {
-        "ko-KR": "[카프라 직원]\n어서오십시오. 카프라 서비스는 언제나 여러분 곁에 있습니다.\n무엇을 도와드릴까요?",
         "en-US": "[Kafra Employee]\nWelcome. Kafra is always with you.\nHow may I help you today?",
         "pt-BR": "[Funcionário da Kapra]\nSeja bem-vindo. O serviço Kapra está sempre ao seu lado.\nEm que posso ajudar?",
         "es-ES": "[Empleado de Kapra]\nBienvenido. El servicio de Kapra siempre está a tu lado.\n¿En qué puedo ayudarte?"
     },
     "o1JXAQ": {
-        "ko-KR": "저장 서비스 이용",
         "en-US": "Save Point",
         "pt-BR": "Utilização do serviço de armazenamento",
         "es-ES": "Usar el servicio de almacenamiento"
     },
     "pFJXAQ": {
-        "ko-KR": "창고 서비스 이용",
         "en-US": "Use Storage",
         "pt-BR": "Utilizar o serviço de armazenamento",
         "es-ES": "Usar el servicio de almacén"
     },
     "pVJXAQ": {
-        "ko-KR": "카트 서비스 이용",
         "en-US": "Use Cart Service",
         "pt-BR": "Usar o serviço de carrinho",
         "es-ES": "Usar el servicio de carrito"
     },
     "plJXAQ": {
-        "ko-KR": "기타정보 확인",
         "en-US": "Check other info.",
         "pt-BR": "Verificar outras informações",
         "es-ES": "Ver más información"
     },
     "p1JXAQ": {
-        "ko-KR": "종료",
         "en-US": "End",
         "pt-BR": "Sair",
         "es-ES": "Salir"
     },
     "qFJXAQ": {
-        "ko-KR": "[카프라 직원]\n저장 되었습니다.\n이용해 주셔서 감사합니다.",
         "en-US": "[Kafra Employee]\nYour point has been saved.\nThank you for your patronage.",
         "pt-BR": "[Funcionário da Kapra]\nSalvo.\nObrigado por usar o serviço.",
         "es-ES": "[Empleado de Kapra]\nSe ha guardado.\nGracias por usar nuestro servicio."
     },
     "qVJXAQ": {
-        "ko-KR": "[카프라 직원]\n죄송합니다, 고객님.\n창고를 이용하시려면 초보자 스킬레벨을 6 이상 올리시거나 새로운 기본기능 스킬을 익히셔야 합니다.",
         "en-US": "[Kafra Employee]\nI'm sorry,\nbut to use our Storage service, you first must increase your Novice Job Level to 6 or learn the Basic Skill.",
         "pt-BR": "[Funcionário da Kapra]\nDesculpa, cliente.\nPara usar o armazém, você precisa aumentar o nível de habilidade de iniciante para 6 ou mais, ou aprender uma nova habilidade básica.",
         "es-ES": "[Empleado de Kapra]\nLo sentimos, cliente.\nPara usar el almacén, debes subir tu nivel de habilidad de principiante a 6 o más, o aprender una nueva habilidad básica."
     },
     "qlJXAQ": {
-        "ko-KR": "[카프라 직원]\n이용하실 창고를 선택 해 주세요.",
         "en-US": "[Kafra Employee]\nPlease select the storage you wish to use.",
         "pt-BR": "[Funcionário da Kapra]\nEscolha o armário que deseja usar.",
         "es-ES": "[Empleado de Kapra]\nElige el almacén que quieres usar."
     },
     "q1JXAQ": {
-        "ko-KR": "1번 창고",
         "en-US": "Warehouse 1",
         "pt-BR": "Armazém nº 1",
         "es-ES": "Almacén n.º 1"
     },
     "rFJXAQ": {
-        "ko-KR": "2번 창고",
         "en-US": "Warehouse 2",
         "pt-BR": "Armazém 2",
         "es-ES": "Almacén n.º 2"
     },
     "rVJXAQ": {
-        "ko-KR": "3번 창고",
         "en-US": "Warehouse 3",
         "pt-BR": "Armazém 3",
         "es-ES": "Almacén n.º 3"
     },
     "rlJXAQ": {
-        "ko-KR": "[카프라 직원]\n창고를 열겠습니다.\n이용해 주셔서 감사합니다.",
         "en-US": "[Kafra Employee]\nI'll open your storage.\nThank you for your patronage.",
         "pt-BR": "[Funcionário da Kapra]\nVou abrir o depósito.\nObrigado por usar nosso serviço.",
         "es-ES": "[Empleado de Kapra]\nVoy a abrir el almacén.\nGracias por tu visita."
     },
     "r1JXAQ": {
-        "ko-KR": "창고 1",
         "en-US": "Storage 1",
         "pt-BR": "Armazém 1",
         "es-ES": "Almacén 1"
     },
     "sFJXAQ": {
-        "ko-KR": "[카프라 직원]\n고객님. 지불하실 금액이 부족 합니다.\n창고 이용료는 50 제니입니다.",
         "en-US": "[Kafra Employee]\nCustomer. You don't have enough Zeny to pay.\nThe storage fee is 50 Zeny.",
         "pt-BR": "[Funcionário da Kapra]\nSenhor(a). O valor pago está insuficiente.\nA taxa de uso do armazém é de 50 Zeni.",
         "es-ES": "[Empleado de Kapra]\nCliente. Te falta dinero para pagar.\nLa tarifa del almacén es de 50 jenis."
     },
     "sVJXAQ": {
-        "ko-KR": "창고 2",
         "en-US": "Warehouse 2",
         "pt-BR": "Armazém 2",
         "es-ES": "Almacén 2"
     },
     "slJXAQ": {
-        "ko-KR": "창고 3",
         "en-US": "Warehouse 3",
         "pt-BR": "Armazém 3",
         "es-ES": "Almacén 3"
     },
     "s1JXAQ": {
-        "ko-KR": "[카프라 직원]\n죄송합니다.\n카트는 상인계열 직업군에 속한 분들만 사용하실 수 있습니다.",
         "en-US": "[Kafra Employee]\nI'm sorry.\nOnly those belonging to the merchant class can use the cart.",
         "pt-BR": "[Funcionário da Kapra]\nDesculpa.\nO carrinho só pode ser usado por pessoas que pertençam à classe de comerciantes.",
         "es-ES": "[Empleado de Kapra]\nLo siento.\nSolo las personas que pertenecen a la clase de comerciantes pueden usar el carrito."
     },
     "tFJXAQ": {
-        "ko-KR": "[카프라 직원]\n고객님께선 현재 카트를 장착하고 계십니다.",
         "en-US": "[Kapra Staff]\nYou currently have a cart equipped.",
         "pt-BR": "[Funcionário de Kapra]\nVocê está com o carrinho equipado no momento.",
         "es-ES": "[Empleado de Kapra]\nActualmente tienes el carrito equipado."
     },
     "tVJXAQ": {
-        "ko-KR": "[카프라 직원]\n'푸쉬 카트 스킬'을 배우셔야 카트를 이용하실 수 있습니다.",
         "en-US": "[Kafra Employee]\nYou must learn the 'Push Cart Skill' to use the cart.",
         "pt-BR": "[Funcionário da Kapra]\nVocê precisa aprender a “Habilidade Carrinho de Mão” para poder usar o carrinho.",
         "es-ES": "[Empleado de Kapra]\nTienes que aprender la «Habilidad de carrito» para poder usar el carrito."
     },
     "tlJXAQ": {
-        "ko-KR": "[카프라 직원]\n카트 이용료는 800 제니입니다.\n이용을 하시겠습니까?",
         "en-US": "[Kafra Employee]\nThe cart rental fee is 800 Zeny.\nWould you like to proceed?",
         "pt-BR": "[Funcionário da Kapra]\nA taxa de uso do carrinho é de 800 Zeny.\nDesejas utilizá-lo?",
         "es-ES": "[Empleado de Kapra]\nEl costo del carrito es de 800 jenis.\n¿Quieres usarlo?"
     },
     "t1JXAQ": {
-        "ko-KR": "이용하다.",
         "en-US": "Use.",
         "pt-BR": "Usar.",
         "es-ES": "Usar."
     },
     "uFJXAQ": {
-        "ko-KR": "취소.",
         "en-US": "Cancel.",
         "pt-BR": "Cancelar.",
         "es-ES": "Cancelar."
     },
     "uVJXAQ": {
-        "ko-KR": "[카프라 직원]\n고객님. 지불하실 금액이 부족 합니다.\n카트 이용료는 800 제니입니다.",
         "en-US": "[Kafra Employee]\nCustomer. Your payment amount is insufficient.\nThe cart usage fee is 800 Zeny.",
         "pt-BR": "[Funcionário da Kapra]\nOi, cliente. O valor disponível não é suficiente.\nA taxa de uso do carrinho é de 800 Zeny.",
         "es-ES": "[Empleado de Kapra]\nOye. No tienes suficiente saldo.\nEl costo del carrito es de 800 jenis."
     },
     "ulJXAQ": {
-        "ko-KR": "적립포인트 확인",
         "en-US": "Check Accumulated Points",
         "pt-BR": "Verificar pontos acumulados",
         "es-ES": "Verificar puntos acumulados"
     },
     "u1JXAQ": {
-        "ko-KR": "취소",
         "en-US": "Cancel",
         "pt-BR": "Cancelar",
         "es-ES": "Cancelar"
     },
     "vFJXAQ": {
-        "ko-KR": "[카프라 직원]\n{0} 고객님의 적립포인트는 {1} 점 입니다.",
         "en-US": "[Kafra Employee]\n{0}, your accumulated points are {1} points.",
         "pt-BR": "[Funcionário da Kapra]\nSeus pontos acumulados, {0}, são {1} pontos.",
         "es-ES": "[Empleado de Kapra]\n{0}, tus puntos acumulados son {1}."
     },
     "vVJXAQ": {
-        "ko-KR": "[카프라 직원]\n적립포인트는 저희 카프라 본사에서 상품과 교환이 가능합니다.\n편리한 저희 카프라 서비스도 이용하시고 많은 상품도 받아가세요~",
         "en-US": "[Kapra Staff]\nAccumulated points can be exchanged for products at our Kapra headquarters.\nPlease use our convenient Kapra services and take home many products~",
         "pt-BR": "[Funcionário da Kapra]\nOs pontos acumulados podem ser trocados por produtos na sede da Kapra.\nAproveita o nosso serviço Kapra, que é super prático, e leva muitos produtos pra casa~",
         "es-ES": "[Empleado de Kapra]\nLos puntos acumulados se pueden canjear por productos en nuestra sede central de Kapra.\nAprovecha nuestro cómodo servicio Kapra y llévate un montón de productos~"
     },
     "vlJXAQ": {
-        "ko-KR": "[카프라 직원]\n저희 카프라 서비스는 보다 완벽한 서비스와 엄격한 관리 업무로 고객 여러분이 안심하고 편하게 이용하실 수 있도록 최선을 다하고 있습니다.\n이용해 주셔서 감사합니다.",
         "en-US": "[Kapra Staff]\nOur Kapra service strives to provide the most complete service and strict management so that our valued customers can use it with peace of mind and convenience.\nThank you for using our service.",
         "pt-BR": "[Funcionário da Kapra]\nNós, da Kapra, estamos nos empenhando ao máximo para oferecer um serviço mais completo e uma gestão rigorosa, para que todos os clientes possam usar nossos serviços com tranquilidade e conforto.\nObrigado por nos escolher.",
         "es-ES": "[Empleado de Kapra]\nEn Kapra nos esforzamos al máximo para ofrecer un servicio más completo y una gestión rigurosa, para que puedas usar nuestros servicios con tranquilidad y comodidad.\nGracias por usarnos."
     },
     "v1JXAQ": {
-        "ko-KR": "모스코비아 홍보사절",
         "en-US": "Moscovia Ambassador",
         "pt-BR": "Embaixador de Moscóvia",
         "es-ES": "Embajador de Moscovia"
     },
     "wFJXAQ": {
-        "ko-KR": "[모스코비아 홍보사절]\n모스코비아!! 모스코비아를 아십니까?\n끝없는 바다위의 지상 낙원...\n끝없는 모험과 신비가 가득한 저희\n모스코비아로 당신을 초대합니다.",
         "en-US": "[Moscovia Ambassador]\nMoscovia!! Have you heard of Moscovia?\nA paradise on earth upon the endless sea...\nWe invite you to our land of endless adventure and mystery,\nMoscovia.",
         "pt-BR": "[Embaixador de Moscóvia]\nMoscóvia!! Você conhece Moscóvia?\nUm paraíso terrestre sobre o mar infinito...\nCheio de aventuras e mistérios sem fim,\nconvidamos você para a nossa Moscóvia.",
         "es-ES": "[Embajador de Moscovia]\n¡Moscovia! ¿Conoces Moscovia?\nUn paraíso terrenal sobre un mar infinito...\nTe invitamos a nuestra\nMoscovia, llena de aventuras y misterios sin fin."
     },
     "wVJXAQ": {
-        "ko-KR": "모스코비아에 대해서...",
         "en-US": "About Moscovia...",
         "pt-BR": "Sobre a Moscóvia...",
         "es-ES": "Sobre Moscovia..."
     },
     "wlJXAQ": {
-        "ko-KR": "모스코비아로 간다.",
         "en-US": "Heading to Moscovia.",
         "pt-BR": "Vou para Moscóvia.",
         "es-ES": "Me voy a Moscovia."
     },
     "w1JXAQ": {
-        "ko-KR": "취소한다.",
         "en-US": "Cancel.",
         "pt-BR": "Cancelar.",
         "es-ES": "Cancelar."
     },
     "xFJXAQ": {
-        "ko-KR": "[모스코비아 홍보사절]\n저희 모스코비아는 룬 미드가츠\n대륙에서 북쪽 바다의 끝에 있는\n아름다운 섬의 왕국입니다.",
         "en-US": "[Moscovia Ambassador]\nOur kingdom of Moscovia is a beautiful island realm\nat the northern edge of the sea\non the continent of Run Midgarts.",
         "pt-BR": "[Embaixador de Moscóvia]\nNossa Moscóvia é um belo reino insular\nlocalizado no extremo norte do mar,\nno continente de Rune Midgarts.",
         "es-ES": "[Embajador de Moscovia]\nMoscovia es un hermoso reino insular\nsituado al final del mar del norte,\nen el continente de Rune Midgarts."
     },
     "xVJXAQ": {
-        "ko-KR": "[모스코비아 홍보사절]\n자연이 만든 신비로운 절경의 광경!\n아름답고 화려한 예배당과 왕궁의\n모습을 보신다면 분명 모스코비아의\n매력에 푹 빠지실 겁니다.",
         "en-US": "[Moscovia Ambassador]\nA mystical spectacle crafted by nature!\nOnce you behold the beauty and splendor\nof the cathedrals and palaces,\nyou will surely be captivated by Moscovia's charm.",
         "pt-BR": "[Embaixador de Moscóvia]\nPaisagens misteriosas criadas pela natureza!\nSe você vir as capelas e o palácio real,\ntão belos e deslumbrantes, com certeza vai se apaixonar\npelo encanto de Moscóvia.",
         "es-ES": "[Embajador de Moscovia]\n¡Paisajes misteriosos creados por la naturaleza!\nSi ves la belleza y el esplendor de nuestras capillas y el palacio real,\nseguro que te enamorarás del encanto de Moscovia."
     },
     "xlJXAQ": {
-        "ko-KR": "[모스코비아 홍보사절]\n길고 길었던 겨울이 지나고 이제야\n모두에게 저희의 아름다운 고향을\n소개할 수 있게되어 정말 기쁘답니다.\n모스코비아의 겨울은 정말 길고도\n춥기 때문이지요.",
         "en-US": "[Moscovia Ambassador]\nAfter the long, long winter has passed,\nI'm truly delighted to finally introduce\nour beautiful homeland to everyone.\nMoscovia's winters are truly long\nand bitterly cold, you see.",
         "pt-BR": "[Embaixador de Moscóvia]\nDepois de um inverno longo e rigoroso,\nestamos muito felizes por finalmente\npoder apresentar nossa bela terra natal a todos.\nAfinal, o inverno em Moscóvia é realmente\nmuito longo e frio.",
         "es-ES": "[Embajador de Moscovia]\nTras un invierno largo y largo, por fin\nestamos muy contentos de poder presentarles a todos\nnuestra hermosa tierra natal.\nPorque el invierno en Moscovia es realmente largo\ny frío."
     },
     "x1JXAQ": {
-        "ko-KR": "[모스코비아 홍보사절]\n자, 아름다운 모스코비아로 오시고\n싶다면 지금이 기회입니다.\n성심성의껏 멋진 여행이 될 수 있게\n도와 드리겠습니다.",
         "en-US": "[Moskovia Ambassador]\nNow, if you wish to visit beautiful Moskovia,\nthis is your chance.\nWe will wholeheartedly help make it\na wonderful journey.",
         "pt-BR": "[Embaixador de Moscóvia]\nEntão, se você quer visitar a bela Moscóvia,\nesta é a sua chance.\nFaremos o possível para que você tenha\numa viagem maravilhosa.",
         "es-ES": "[Embajador de Moscovia]\nBueno, si quieres venir a la hermosa Moscovia,\nahora es tu oportunidad.\nTe ayudaremos con todo nuestro corazón\npara que tengas un viaje maravilloso."
     },
     "yFJXAQ": {
-        "ko-KR": "[모스코비아 홍보사절]\n그럼, 바로 출발하도록 하지요.\n모스코비아까지 가는데에 필요한\n여비는 10000 제니 입니다.\n돌아오실 때에는 무료로 모셔다\n드립니다.",
         "en-US": "[Moscovia Ambassador]\nThen, let's depart immediately.\nThe fare required to reach Moscovia\nis 10,000 Zeni.\nWe will escort you back\nfree of charge upon your return.",
         "pt-BR": "[Embaixador de Moscóvia]\nEntão, vamos partir agora mesmo.\nA passagem para chegar a Moscóvia\ncusta 10.000 zeni.\nNa volta, a gente te leva de volta\nde graça.",
         "es-ES": "[Embajador de Moscovia]\nBueno, entonces, partamos ya.\nEl costo del viaje hasta Moscovia\nes de 10 000 jenis.\nA la vuelta, te traemos de vuelta\nsin costo alguno."
     },
     "yVJXAQ": {
-        "ko-KR": "[[모스코비아 홍보사절]]\n그럼, 출발해도 괜찮겠습니까?",
         "en-US": "[[Moscovia Ambassador]]\nThen, is it okay to depart?",
         "pt-BR": "[[Embaixador de Moscóvia]]\nEntão, podemos partir?",
         "es-ES": "[[Embajador de Moscovia]]\nEntonces, ¿estás listo para partir?"
     },
     "ylJXAQ": {
-        "ko-KR": "출발!",
         "en-US": "Departure!",
         "pt-BR": "Partida!",
         "es-ES": "¡Vamos!"
     },
     "y1JXAQ": {
-        "ko-KR": "[모스코비아 홍보사절]\n그럼, 출발하겠습니다.",
         "en-US": "[Moscovia Ambassador]\nAlright, I'll be on my way.",
         "pt-BR": "[Embaixador de Moscóvia]\nEntão, vamos partir.",
         "es-ES": "[Embajador de Moscovia]\nBueno, vamos a partir."
     },
     "zFJXAQ": {
-        "ko-KR": "[모스코비아 홍보사절]\n죄송합니다만, 여행에 필요한\n10,000 제니를 준비해주셔야\n합니다. 소지금을 다시 한번\n확인하시고 말씀해주세요.\n감사합니다.",
         "en-US": "[Moscovia Ambassador]\nI'm sorry, but you'll need to prepare\n10,000 Zeni for the journey.\nPlease check your funds again\nand let me know.\nThank you.",
         "pt-BR": "[Embaixador de Moscóvia]\nDesculpa, mas precisas preparar\nos 10.000 zeni necessários para a viagem.\nVerifica o teu dinheiro mais uma vez\ne me avisa.\nObrigado.",
         "es-ES": "[Embajador de Moscovia]\nLo siento, pero debes preparar\nlos 10 000 zeni necesarios\npara el viaje. Por favor, revisa\ntu dinero una vez más y avísame.\nGracias."
     },
     "zVJXAQ": {
-        "ko-KR": "[모스코비아 홍보사절]\n지금 바쁘시다면, 다음에 언제든\n말씀해주세요. 여러분들께 저희\n모스코비아를 소개할 수 있는 영광을 기다리고 있겠습니다.",
         "en-US": "[Moscovia Ambassador]\nIf you're busy now, please let us know\nwhenever you're available. We look forward to the honor\nof introducing our Moscovia to you.",
         "pt-BR": "[Embaixador de Moscóvia]\nSe estiveres ocupado agora, avisa-me\nquando puderes. Estarei à espera da honra\nde apresentar a nossa Moscóvia a todos vocês.",
         "es-ES": "[Embajador de Moscovia]\nSi ahora estás ocupado, dímelo\ncuando quieras. Esperaré con ilusión\nla oportunidad de presentarles a todos ustedes\nnuestra Moscovia."
     },
     "zlJXAQ": {
-        "ko-KR": "[모스코비아 홍보사절]\n어떠셨나요? 정말 멋진 여행이\n되셨었겠지요?\n대륙으로 돌아가는 배가 지금\n준비되어 있습니다.",
         "en-US": "[Moscovia Ambassador]\nHow was it? I'm sure it was a truly wonderful journey.\nThe ship returning to the continent is now ready.",
         "pt-BR": "[Embaixador de Moscóvia]\nO que achaste? Deve ter sido\numa viagem maravilhosa, não é?\nO navio de volta ao continente já está\npronto.",
         "es-ES": "[Embajador de Moscovia]\n¿Qué te pareció? Seguro que fue\nun viaje maravilloso, ¿verdad?\nEl barco de regreso al continente ya\nestá listo."
     },
     "z1JXAQ": {
-        "ko-KR": "알베르타로 돌아간다",
         "en-US": "Returning to Alberta",
         "pt-BR": "Voltando para Alberta",
         "es-ES": "Volvemos a Alberta"
     },
     "0FJXAQ": {
-        "ko-KR": "[모스코비아 홍보사절]\n언제라도 꼭 다시 들려주세요.\n자, 출발하겠습니다.",
         "en-US": "[Moscovia Public Relations Delegation]\nPlease do visit us again anytime.\nNow, we shall depart.",
         "pt-BR": "[Embaixador de Moscóvia]\nPor favor, volta sempre que puderes.\nBom, vamos partir.",
         "es-ES": "[Embajador de Moscovia]\nNo dudes en volver a visitarnos cuando quieras.\nBueno, vamos a partir."
     },
     "0VJXAQ": {
-        "ko-KR": "[모스코비아 홍보사절]\n아직 구경하지 못한 곳이 있다면\n빼놓지 말고 천천히 즐기고 가세요.",
         "en-US": "[Moskovia Public Relations Delegation]\nIf there's anywhere you haven't seen yet,\nbe sure to take your time and enjoy it all.",
         "pt-BR": "[Embaixador de Moscóvia]\nSe ainda houver algum lugar que você não tenha visitado,\nnão deixe de aproveitar tudo com calma antes de partir.",
         "es-ES": "[Embajador de Moscovia]\nSi aún te queda algún lugar por visitar,\nno te lo pierdas y disfrútalo con calma antes de irte."

@@ -1,588 +1,490 @@
 {
     "IGDNBw": {
-        "ko-KR": "☜(^▽^)☞Ξ≡=З",
         "en-US": "(•_•)",
         "pt-BR": "(•_•)",
         "es-ES": "(•_•)"
     },
     "IWDNBw": {
-        "ko-KR": "(◀▶ω◀▶)",
         "en-US": "=^_^=",
         "pt-BR": "=^_^=",
         "es-ES": "=^_^="
     },
     "ImDNBw": {
-        "ko-KR": "(○㉦○)",
         "en-US": "(°w°)",
         "pt-BR": "(°w°)",
         "es-ES": "(°w°)"
     },
     "I2DNBw": {
-        "ko-KR": "(●㉦●)",
         "en-US": "(>_<)",
         "pt-BR": "(>_<)",
         "es-ES": "(>_<)"
     },
     "JGDNBw": {
-        "ko-KR": "(○ω○)",
         "en-US": "(@u@)",
         "pt-BR": "(@u@)",
         "es-ES": "(@u@)"
     },
     "JWDNBw": {
-        "ko-KR": "(●ω●)",
         "en-US": "(n_n)v",
         "pt-BR": "(n_n)v",
         "es-ES": "(n_n)v"
     },
     "JmDNBw": {
-        "ko-KR": "(♡З♡)~♥",
         "en-US": "(^_^)c[_] coffee~?",
         "pt-BR": "(^_^)c[_] cafézinho~?",
         "es-ES": "(^_^)c[_] ¿cafecito~?"
     },
     "J2DNBw": {
-        "ko-KR": "(◎ω◎)",
         "en-US": "(-_-)",
         "pt-BR": "(-_-)",
         "es-ES": "(-_-)"
     },
     "KGDNBw": {
-        "ko-KR": "(⊙ω⊙)",
         "en-US": "(u_u)",
         "pt-BR": "(u_u)",
         "es-ES": "(u_u)"
     },
     "KWDNBw": {
-        "ko-KR": "(≥▽≤)♥♡♥♡♥♡",
         "en-US": "(^o^) ~<3",
         "pt-BR": "(^o^) ~<3",
         "es-ES": "(^o^) ~<3"
     },
     "KmDNBw": {
-        "ko-KR": "(*'▼'*)b",
         "en-US": "(¬_¬)",
         "pt-BR": "(¬_¬)",
         "es-ES": "(¬_¬)"
     },
     "K2DNBw": {
-        "ko-KR": "청소로봇Ω",
         "en-US": "Cleaning Robot Ømega",
         "pt-BR": "Faxineira Ømega",
         "es-ES": "Robot de Limpieza Ømega"
     },
     "LGDNBw": {
-        "ko-KR": "^4D4DFF!-주의-!^000000\n^4D4DFF인벤토리에 여유공간이 없거나 동일한 아이템을 한계치에 가깝게 소지하고 있습니다.^000000\n^4D4DFF카프라나 존다의 창고 서비스를 이용해서 정리해 주세요.^000000",
         "en-US": "^4D4DFF!-Caution-!^000000\n^4D4DFFYou do not have enough inventory space or are carrying items close to the limit.^000000\n^4D4DFFPlease organize your items using the Kafra or Zonda storage service.^000000",
         "pt-BR": "^4D4DFF×××× Atenção ××××^000000\n^4D4DFFSeu inventário precisa estar organizado.^000000\n^4D4DFFPor favor, diminua seu peso ou guarde os itens no armazém.^000000",
         "es-ES": "^4D4DFF¡-Atención-!^000000\n^4D4DFFNo dispone de espacio libre en el inventario o lleva el número máximo de un mismo objeto.^000000\n^4D4DFFPor favor, utilice el servicio de almacén de Kafra o Zonda para organizarlo.^000000"
     },
     "LWDNBw": {
-        "ko-KR": "운영자모드-버전v1",
         "en-US": "GM Mode - Version v1",
         "pt-BR": "Modo GM - Versão v1",
         "es-ES": "Modo Administrador - Versión v1"
     },
     "LmDNBw": {
-        "ko-KR": "진행",
         "en-US": "Proceed",
         "pt-BR": "Prosseguir",
         "es-ES": "Continuar"
     },
     "L2DNBw": {
-        "ko-KR": "선행퀘스트(17333)세팅",
         "en-US": "Set Prerequisite Quest (17333)",
         "pt-BR": "Configurar Pré-requisito (17333)",
         "es-ES": "Configurar misión previa (17333)"
     },
     "MGDNBw": {
-        "ko-KR": "청소로봇Ω 선행퀘스트(5892)세팅",
         "en-US": "Cleaning Robot Ømega Set Prerequisite Quest (5892)",
         "pt-BR": "Configurar Pré-requisito da Faxineira (5892)",
         "es-ES": "Configurar misión previa (5892) de Robot de Limpieza Ømega"
     },
     "MWDNBw": {
-        "ko-KR": "쿨타임제거",
         "en-US": "Remove Cooldown",
         "pt-BR": "Remover Tempo de Espera",
         "es-ES": "Eliminar tiempo de reutilización"
     },
     "MmDNBw": {
-        "ko-KR": "ALL초기화",
         "en-US": "Reset ALL",
         "pt-BR": "Resetar Tudo",
         "es-ES": "Reiniciar TODO"
     },
     "M2DNBw": {
-        "ko-KR": "청소로봇위치리셋",
         "en-US": "Reset Cleaning Robot Position",
         "pt-BR": "Resetar Posição da Faxineira",
         "es-ES": "Restablecer posición del robot de limpieza"
     },
     "NGDNBw": {
-        "ko-KR": "청소로봇재시작",
         "en-US": "Restart Cleaning Robot",
         "pt-BR": "Resetar Faxineira",
         "es-ES": "Reiniciar robot de limpieza"
     },
     "NWDNBw": {
-        "ko-KR": "선행퀘스트(17333)세팅",
         "en-US": "Set Prerequisite Quest (17333)",
         "pt-BR": "Configurar Pré-requisito (17333)",
         "es-ES": "Configurar misión previa (17333)"
     },
     "NmDNBw": {
-        "ko-KR": "청소로봇Ω 선행퀘스트(5892)세팅",
         "en-US": "Cleaning Robot Ømega Set Prerequisite Quest (5892)",
         "pt-BR": "Configurar Pré-requisito da Faxineira (5892)",
         "es-ES": "Configurar misión previa (5892) de Robot de Limpieza Ømega"
     },
     "N2DNBw": {
-        "ko-KR": "쿨타임 제거",
         "en-US": "Remove Cooldown",
         "pt-BR": "Remover Tempo de Espera",
         "es-ES": "Eliminar tiempo de reutilización"
     },
     "OGDNBw": {
-        "ko-KR": "ALL초기화",
         "en-US": "Reset ALL",
         "pt-BR": "Resetar Tudo",
         "es-ES": "Reiniciar TODO"
     },
     "OWDNBw": {
-        "ko-KR": "청소로봇위치리셋",
         "en-US": "Reset Cleaning Robot Position",
         "pt-BR": "Resetar Posição da Faxineira",
         "es-ES": "Restablecer posición del robot de limpieza"
     },
     "OmDNBw": {
-        "ko-KR": "청소로봇재시작",
         "en-US": "Restart Cleaning Robot",
         "pt-BR": "Resetar Faxineira",
         "es-ES": "Reiniciar robot de limpieza"
     },
     "O2DNBw": {
-        "ko-KR": "(θ_θ?) ☎ Loading..",
         "en-US": "(=_=) Loading..",
         "pt-BR": "(=_=) Carregando•••",
         "es-ES": "(=_=) Cargando.."
     },
     "PGDNBw": {
-        "ko-KR": "청소로봇Ω: 사용자 인식을 위한 통신 중입니다.",
         "en-US": "Cleaning Robot Ømega: Establishing communication for user authentication.",
         "pt-BR": "Faxineira Ømega: Estabelecendo comunicação para reconhecimento do usuário.",
         "es-ES": "Robot de Limpieza Ømega: Iniciando comunicación para reconocimiento de usuario."
     },
     "PWDNBw": {
-        "ko-KR": "(⊙_⊙*) ☎ Connect !!",
         "en-US": "(Ô_Ô*) Connect !!",
         "pt-BR": "(Ô_Ô*) Conectado!!",
         "es-ES": "(Ô_Ô*) ¡Conectado!"
     },
     "PmDNBw": {
-        "ko-KR": "청소로봇Ω: 허가되지 않은 사용자입니다. 통신을 종료합니다.",
         "en-US": "Cleaning Robot Ømega: Unauthorized user. Terminating communication.",
         "pt-BR": "Faxineira Ømega: Usuário não autorizado. Encerrando comunicação.",
         "es-ES": "Robot de Limpieza Ømega: Usuario no autorizado. Finalizando comunicación."
     },
     "P2DNBw": {
-        "ko-KR": "청소로봇Ω: 허가된 사용자입니다. 반갑습니다.",
         "en-US": "Cleaning Robot Ømega: Authorized user confirmed. Greetings.",
         "pt-BR": "Faxineira Ømega: Usuário autorizado. Seja bem-vindo.",
         "es-ES": "Robot de Limpieza Ømega: Usuario autorizado. Bienvenido."
     },
     "QGDNBw": {
-        "ko-KR": "(≥▽≤)/",
         "en-US": "(^3^)/~~",
         "pt-BR": "(^3^)/~~",
         "es-ES": "(≥▽≤)/"
     },
     "QWDNBw": {
-        "ko-KR": "[청소로봇Ω]\n손님! 반가워용~ 나는 청소로봇Ω라고 해용~",
         "en-US": "[Cleaning Robot Ømega]\nCustomer! Nice to meet you~ I am Cleaning Robot Ømega~",
         "pt-BR": "[Faxineira Ømega]\nCliente! Que bom ver você~ Eu sou a Faxineira Ømega~",
         "es-ES": "[Robot de Limpieza Ømega]\n¡Cliente! ¡Encantadooo~! Soy el Robot de Limpieza Ω~"
     },
     "QmDNBw": {
-        "ko-KR": "안녕 반가워.",
         "en-US": "Hello, nice to meet you.",
         "pt-BR": "Olá, prazer.",
         "es-ES": "Hola, encantado."
     },
     "Q2DNBw": {
-        "ko-KR": "┏(^▽^)┛Cleaning..",
         "en-US": "(>^_^)>ƒ Cleaning..",
         "pt-BR": "(>^_^)>ƒ Limpando•••",
         "es-ES": "(>^_^)>ƒ Limpiando•••"
     },
     "RGDNBw": {
-        "ko-KR": "[청소로봇Ω]\n청소로봇Ω의 임무는 하수처리장과 제1 마력발전소를 청소하는 것이에용~",
         "en-US": "[Cleaning Robot Ømega]\nThe mission of Cleaning Robot Ømega is to clean the Sewage Treatment Plant and the 1st Magic Power Plant~",
         "pt-BR": "[Faxineira Ømega]\nA missão da Faxineira Ømega é limpar a Estação de Tratamento de Esgoto e a Usina Mágica de Energia~",
         "es-ES": "[Robot de Limpieza Ømega]\nLa misión de Robot de Limpieza Ømega es limpiar Planta de Tratamiento de Aguas Residuales y la Central Mágica Nº1~"
     },
     "RWDNBw": {
-        "ko-KR": "ㆀ(X_X)ㆀ",
         "en-US": "(+_+)",
         "pt-BR": "(+_+)",
         "es-ES": "(+_+)"
     },
     "RmDNBw": {
-        "ko-KR": "[청소로봇Ω]\n하지만 청소로봇Ω 지금 청소 못해용~ 슬퍼용~",
         "en-US": "[Cleaning Robot Ømega]\nBut Cleaning Robot Ømega cannot clean right now~ I am sad~",
         "pt-BR": "[Faxineira Ømega]\nMas a Faxineira Ømega não pode limpar agora~ Estou triste~",
         "es-ES": "[Robot de Limpieza Ømega]\nPero ahora Robot de Limpieza Ømega no puede limpiar~ Estoy triste~"
     },
     "R2DNBw": {
-        "ko-KR": "(-_-a);;;",
         "en-US": "(-_-a);;;",
         "pt-BR": "(X_X) -  ¬(T_T)",
         "es-ES": "(X_X) -  ¬(T_T)"
     },
     "SGDNBw": {
-        "ko-KR": "[청소로봇Ω]\n허가 받지 않은 사용자가 청소로봇Ω 청소 못하게 해요~",
         "en-US": "[Cleaning Robot Ømega]\nAn unauthorized user is preventing Cleaning Robot Ømega from cleaning~",
         "pt-BR": "[Faxineira Ømega]\nUm monstro maligno está impedindo a Faxineira Ømega de limpar~",
         "es-ES": "[Robot de Limpieza Ømega]\nUn usuario no autorizado impide que Robot de Limpieza Ømega limpie~"
     },
     "SWDNBw": {
-        "ko-KR": "☞☜ ☞♥☜ ☞☜",
         "en-US": "(._.) †",
         "pt-BR": "(._.) †",
         "es-ES": "(._.) †"
     },
     "SmDNBw": {
-        "ko-KR": "[청소로봇Ω]\n청소로봇Ω는 힘들어용~ 착한 손님이 도와줬으면 좋겠어용~ 부탁해용~",
         "en-US": "[Cleaning Robot Ømega]\nCleaning Robot Ømega is tired~ I wish a kind customer would help me~ Please~",
         "pt-BR": "[Faxineira Ømega]\nA Faxineira Ømega está cansada~ Seria tão bom se um cliente gentil pudesse ajudar~ Por favor~",
         "es-ES": "[Robot de Limpieza Ømega]\nRobot de Limpieza Ømega está cansado~ Ojalá un cliente amable me ayudara~ Por favor~"
     },
     "S2DNBw": {
-        "ko-KR": "알았어. 도와줄게.",
         "en-US": "Alright. I will help.",
         "pt-BR": "Tudo bem. Eu ajudo.",
         "es-ES": "De acuerdo. Te ayudaré."
     },
     "TGDNBw": {
-        "ko-KR": "싫어!",
         "en-US": "No!",
         "pt-BR": "Não quero!",
         "es-ES": "¡No!"
     },
     "TWDNBw": {
-        "ko-KR": "(≥▽≤)♥♡♥♡♥♡",
         "en-US": "€(›o‹)€",
         "pt-BR": "€(›o‹)€",
         "es-ES": "€(›o‹)€"
     },
     "TmDNBw": {
-        "ko-KR": "[청소로봇Ω]\n손님은 정말 친절한 손님이 에용~ 청소로봇Ω는 기뻐용~",
         "en-US": "[Cleaning Robot Ømega]\nYou are truly a kind customer~ Cleaning Robot Ømega is happy~",
         "pt-BR": "[Faxineira Ømega]\nCliente, você é muito gentil~ A Faxineira Ømega está feliz~",
         "es-ES": "[Robot de Limpieza Ømega]\n¡El cliente es realmente amable~! Robot de Limpieza Ømega está feliz~"
     },
     "T2DNBw": {
-        "ko-KR": "(T_T)ㆀ",
         "en-US": "(¤_¤)þ",
         "pt-BR": "(¤_¤)þ",
         "es-ES": "(¤_¤)þ"
     },
     "UGDNBw": {
-        "ko-KR": "[청소로봇Ω]\n청소로봇Ω는 슬퍼용~ 흑흑..",
         "en-US": "[Cleaning Robot Ømega]\nCleaning Robot Ømega is sad~ Sob..",
         "pt-BR": "[Faxineira Ømega]\nA Faxineira Ømega está triste~ Snif...",
         "es-ES": "[Robot de Limpieza Ømega]\nRobot de Limpieza Ømega está triste~ Snif snif.."
     },
     "UWDNBw": {
-        "ko-KR": "^000000[일일]하수처리장 청소^000000",
         "en-US": "^000000[Daily] Clean Sewage Treatment Plant^000000",
         "pt-BR": "^000000[Diária] Faxina no Esgoto^000000",
         "es-ES": "^000000[Diaria] Limpieza de Planta de Tratamiento de Aguas Residuales^000000"
     },
     "UmDNBw": {
-        "ko-KR": "^000000[일일]제1 마력발전소 청소^000000",
         "en-US": "^000000[Daily] Clean 1st Power Plant^000000",
         "pt-BR": "^000000[Diária] Faxina na Usina^000000",
         "es-ES": "^000000[Diaria] Limpieza de la Central Mágica Nº1^000000"
     },
     "U2DNBw": {
-        "ko-KR": "^777777[대기]하수처리장 청소^000000",
         "en-US": "^777777[Standby] Clean Sewage Treatment Plant^000000",
         "pt-BR": "^777777[Espera] Faxina no Esgoto^000000",
         "es-ES": "^777777[En espera] Limpieza de Planta de Tratamiento de Aguas Residuales^000000"
     },
     "VGDNBw": {
-        "ko-KR": "하수처리장 청소",
         "en-US": "Clean Sewage Treatment Plant",
         "pt-BR": "Faxina no Esgoto",
         "es-ES": "Limpieza de Planta de Tratamiento de Aguas Residuales"
     },
     "VWDNBw": {
-        "ko-KR": "^000000[오류]하수처리장 청소^000000",
         "en-US": "^000000[Error] Clean Sewage Treatment Plant^000000",
         "pt-BR": "^000000[Erro] Faxina no Esgoto^000000",
         "es-ES": "^000000[Error] Limpieza de Planta de Tratamiento de Aguas Residuales^000000"
     },
     "VmDNBw": {
-        "ko-KR": "^777777[대기]제1 마력발전소 청소^000000",
         "en-US": "^777777[Standby] Clean 1st Power Plant^000000",
         "pt-BR": "^777777[Espera] Faxina na Usina^000000",
         "es-ES": "^777777[En espera] Limpieza de la Central Mágica Nº1^000000"
     },
     "V2DNBw": {
-        "ko-KR": "제1 마력발전소 청소",
         "en-US": "Clean 1st Power Plant",
         "pt-BR": "Faxina na Usina",
         "es-ES": "Limpieza de la Central Mágica Nº1"
     },
     "WGDNBw": {
-        "ko-KR": "^000000[오류]제1 마력발전소 청소^000000",
         "en-US": "^000000[Error] Clean 1st Power Plant^000000",
         "pt-BR": "^000000[Erro] Faxina na Usina^000000",
         "es-ES": "^000000[Error] Limpieza de la Central Mágica Nº1^000000"
     },
     "WWDNBw": {
-        "ko-KR": "<{0} {1} 퀘스트 대기시간이 완료되었습니다. >",
         "en-US": "<{0} {1} - Quest waiting time has been completed. >",
         "pt-BR": "< Acabou o tempo de espera da {0} e {1} >",
         "es-ES": "<{0} {1} El tiempo de espera de la misión ha finalizado. >"
     },
     "WmDNBw": {
-        "ko-KR": "[E-R-R-O-R]\n쿨타임 오류가 해결되었습니다. 다시 말을 걸어주세요.",
         "en-US": "[E-R-R-O-R]\nThe cooldown error has been resolved. Please speak to me again.",
         "pt-BR": "[E-R-R-O]\nTempo de espera concluído. Por favor, fale comigo novamente.",
         "es-ES": "[E-R-R-O-R]\nEl error de tiempo de reutilización ha sido solucionado. Por favor, vuelva a hablar conmigo."
     },
     "W2DNBw": {
-        "ko-KR": "^777777[진행]하수처리장 청소^000000",
         "en-US": "^777777[In Progress] Clean Sewage Treatment Plant^000000",
         "pt-BR": "^777777[Em curso] Faxina no Esgoto^000000",
         "es-ES": "^777777[En curso] Limpieza de Planta de Tratamiento de Aguas Residuales^000000"
     },
     "XGDNBw": {
-        "ko-KR": "^777777[진행]제1 마력발전소 청소^000000",
         "en-US": "^777777[In Progress] Clean 1st Power Plant^000000",
         "pt-BR": "^777777[Em curso] Faxina na Usina^000000",
         "es-ES": "^777777[En curso] Limpieza de la Central Mágica Nº1^000000"
     },
     "XWDNBw": {
-        "ko-KR": "(*'▼'*)b",
         "en-US": "(*'u'*)b",
         "pt-BR": "(*'u'*)b",
         "es-ES": "(*'u'*)b"
     },
     "XmDNBw": {
-        "ko-KR": "[청소로봇Ω]\n손님 고마워용~ 청소로봇Ω은 청소하러 갈 수 있어서 기뻐용~",
         "en-US": "[Cleaning Robot Ømega]\nThank you, customer~ Cleaning Robot Ømega is happy to go clean now~",
         "pt-BR": "[Faxineira Ømega]\nObrigadinha, cliente~ A Faxineira Ømega está feliz por poder ir limpar~",
         "es-ES": "[Robot de Limpieza Ømega]\n¡Gracias, cliente~! Robot de Limpieza Ømega está feliz de poder ir a limpiar~"
     },
     "X2DNBw": {
-        "ko-KR": "[E-R-R-O-R]\n헌팅 퀘스트가 오류로 인해 초기화되었습니다. 다시 말을 걸어주세요.",
         "en-US": "[E-R-R-O-R]\nThe hunting quest has been reset due to an error. Please speak to me again.",
         "pt-BR": "[E-R-R-O]\nA missão foi reiniciada devido a um erro. Por favor, fale comigo novamente.",
         "es-ES": "[E-R-R-O-R]\nLa misión de caza se ha reiniciado debido a un error. Por favor, vuelva a hablar conmigo."
     },
     "YGDNBw": {
-        "ko-KR": "[청소로봇Ω]\n손님 반가워용~ 청소로봇Ω에용~",
         "en-US": "[Cleaning Robot Ømega]\nNice to meet you, customer~ I am Cleaning Robot Ømega~",
         "pt-BR": "[Faxineira Ømega]\nOlá, cliente~ Eu sou a Faxineira Ømega~",
         "es-ES": "[Robot de Limpieza Ømega]\n¡Hola, cliente~! Soy Robot de Limpieza Ømega~"
     },
     "YWDNBw": {
-        "ko-KR": "(⊙_⊙)?",
         "en-US": "(Õ_o)?",
         "pt-BR": "(Õ_o)?",
         "es-ES": "(Õ_o)?"
     },
     "YmDNBw": {
-        "ko-KR": "[청소로봇Ω]\n손님 무슨 일인가용?",
         "en-US": "[Cleaning Robot Ømega]\nCustomer, what can I do for you?",
         "pt-BR": "[Faxineira Ømega]\nCliente, o que deseja?",
         "es-ES": "[Robot de Limpieza Ømega]\n¿Cliente, qué ocurre?"
     },
     "Y2DNBw": {
-        "ko-KR": "┗(^▽^)┛ Power..",
         "en-US": "><((('> Little fishes ! ><((('>",
         "pt-BR": "><((('> Peixinhos! ><((('>",
         "es-ES": "><((('> ¡Pececitos! ><((('>"
     },
     "ZGDNBw": {
-        "ko-KR": "[청소로봇Ω]\n반가워용~ 나는 힘 쎄고 강한 청소로봇Ω!!",
         "en-US": "[Cleaning Robot Ømega]\nNice to meet you~ I am the strong and mighty Cleaning Robot Ømega!!",
         "pt-BR": "[Faxineira Ømega]\nPrazer~ Eu sou a poderosa Faxineira Ømega!!",
         "es-ES": "[Robot de Limpieza Ømega]\n¡Encantado~! ¡Soy el fuerte y poderoso Robot de Limpieza Ømega!"
     },
     "ZWDNBw": {
-        "ko-KR": "(≥▽≤)~♬",
         "en-US": "(\")> Little penguins ! <(\")",
         "pt-BR": "(\")> Pinguinzinhos! <(\")",
         "es-ES": "(\")> ¡Pinguinos! <(\")"
     },
     "ZmDNBw": {
-        "ko-KR": "[청소로봇Ω]\n오늘 날씨는 살균 청소를 해야할 것 같아용~",
         "en-US": "[Cleaning Robot Ømega]\nIt seems today’s weather calls for sterilization cleaning~",
         "pt-BR": "[Faxineira Ømega]\nHoje parece que precisamos fazer uma higienização~",
         "es-ES": "[Robot de Limpieza Ømega]\nHoy parece que habrá que hacer limpieza de desinfección~"
     },
     "Z2DNBw": {
-        "ko-KR": "[청소로봇Ω]\n청소는 즐거워용~",
         "en-US": "[Cleaning Robot Ømega]\nCleaning is fun~",
         "pt-BR": "[Faxineira Ømega]\nLimpar é divertido~",
         "es-ES": "[Robot de Limpieza Ømega]\n¡Limpiar es divertido~!"
     },
     "aGDNBw": {
-        "ko-KR": "(￣▽￣^)☞",
         "en-US": "(¬_¬')",
         "pt-BR": "(¬_¬')",
         "es-ES": "(¬_¬')"
     },
     "aWDNBw": {
-        "ko-KR": "[청소로봇Ω]\n손님 맞을래용?\n??? ???\n잠시 오류가 발생했어용~ 반가워용~",
         "en-US": "[Cleaning Robot Ømega]\nCustomer, do you want to get hit?\n??? ???\nA temporary error has occurred~ Nice to meet you~",
         "pt-BR": "[Faxineira Ømega]\nCliente, quer apanhar?\n??? ???\nOcorreu um pequeno erro~ Prazer~",
         "es-ES": "[Robot de Limpieza Ømega]\n¿Cliente, quieres recibir un golpe?\n??? ???\nHa ocurrido un pequeño error~ ¡Encantado~!"
     },
     "amDNBw": {
-        "ko-KR": "수고해.",
         "en-US": "Good work.",
         "pt-BR": "Bom trabalho.",
         "es-ES": "Buen trabajo."
     },
     "a2DNBw": {
-        "ko-KR": "＼(>▽<)∂",
         "en-US": "＼(›u‹)ð",
         "pt-BR": "＼(›u‹)ð",
         "es-ES": "＼(›u‹)ð"
     },
     "bGDNBw": {
-        "ko-KR": "[청소로봇Ω]\n착한 손님 고마워용~ 청소로봇Ω은 하수처리장 청소를 해냈어용~",
         "en-US": "[Cleaning Robot Ømega]\nThank you, kind customer~ Cleaning Robot Ømega has finished cleaning the Sewage Treatment Plant~",
         "pt-BR": "[Faxineira Ømega]\nCliente gentil, muito obrigada~ A Faxineira Ømega conseguiu limpar a Estação de Tratamento de Esgoto~",
         "es-ES": "[Robot de Limpieza Ømega]\n¡Gracias, cliente amable~! Robot de Limpieza Ømega ha completado la limpieza de Planta de Tratamiento de Aguas Residuales~"
     },
     "bWDNBw": {
-        "ko-KR": "ㆀ(T_≤)ㆀ",
         "en-US": "(^.^)",
         "pt-BR": "(^.^)",
         "es-ES": "(^.^)"
     },
     "bmDNBw": {
-        "ko-KR": "[청소로봇Ω]\n청소로봇Ω은 하수처리장 청소를 할 수 없어서 슬퍼용~ 몬스터는 너무 무서워용~",
         "en-US": "[Cleaning Robot Ømega]\nCleaning Robot Ømega cannot clean the Sewage Treatment Plant~ The monsters are too scary~",
         "pt-BR": "[Faxineira Ømega]\nA Faxineira Ømega não conseguiu limpar a Estação de Tratamento de Esgoto~ Os monstros são muito assustadores~",
         "es-ES": "[Robot de Limpieza Ømega]\nRobot de Limpieza Ømega no puede limpiar Planta de Tratamiento de Aguas Residuales~ Los monstruos dan mucho miedo~"
     },
     "b2DNBw": {
-        "ko-KR": "[E-R-R-O-R]\n하수처리장 청소 퀘스트에 심각한 오류가 발견되었습니다. 관련 퀘스트 초기화를 진행하였지만, 다시 진행해도 같은 현상이 반복되면 제보해주세요.",
         "en-US": "[E-R-R-O-R]\nA critical error has been found in the Sewage Treatment Plant cleaning quest. The related quest has been reset, but if the issue persists, please report it.",
         "pt-BR": "[E-R-R-O]\nFoi detectado um erro grave na missão de limpeza da Estação de Tratamento de Esgoto. A missão foi reiniciada, mas se o problema persistir, por favor, reporte.",
         "es-ES": "[E-R-R-O-R]\nSe ha detectado un error grave en la misión de limpieza de Planta de Tratamiento de Aguas Residuales. Se ha reiniciado la misión relacionada, pero si el problema persiste, por favor repórtelo."
     },
     "cGDNBw": {
-        "ko-KR": "(T^T) OTL ..",
         "en-US": "(@-@)",
         "pt-BR": "(@-@)",
         "es-ES": "(@-@)"
     },
     "cWDNBw": {
-        "ko-KR": "[청소로봇Ω]\n청소로봇Ω은 하수처리장에 하수 베네눔, 워터폴, 크램프가 많아져서 청소를 할 수 없어용~",
         "en-US": "[Cleaning Robot Ømega]\nThere are too many Sewage Venenum, Waterfall, and Cramp in the Sewage Treatment Plant, so Cleaning Robot Ømega cannot clean~",
         "pt-BR": "[Faxineira Ømega]\nA Faxineira Ømega não consegue limpar a Estação de Tratamento de Esgoto porque há muitos monstros Poluídos~",
         "es-ES": "[Robot de Limpieza Ømega]\nRobot de Limpieza Ømega no puede limpiar Planta de Tratamiento de Aguas Residuales porque hay demasiados Venenum de desagüe, Waterfall y Cramp~"
     },
     "cmDNBw": {
-        "ko-KR": "(￣▽￣)~♡",
         "en-US": "(^~^) <3",
         "pt-BR": "(^~^) <3",
         "es-ES": "(^~^) <3"
     },
     "c2DNBw": {
-        "ko-KR": "[청소로봇Ω]\n청소로봇Ω은 슬퍼용~\n손님이 하수 베네눔, 워터폴, 크램프 44 개체를 처리해주면 좋을 거 같아용~",
         "en-US": "[Cleaning Robot Ømega]\nCleaning Robot Ømega is sad~\nIt would be great if you could defeat 44 Sewage Venenum, Waterfall, and Cramp~",
         "pt-BR": "[Faxineira Ømega]\nA Faxineira Ømega está triste~\nSeria ótimo se você derrotasse 44 unidades de monstros Poluídos~",
         "es-ES": "[Robot de Limpieza Ømega]\nRobot de Limpieza Ømega está triste~\nSería genial que el cliente eliminara 44 Venenum de desagüe, Waterfall y Cramp~"
     },
     "dGDNBw": {
-        "ko-KR": "도와줄게.",
         "en-US": "I will help.",
         "pt-BR": "Vou ajudar.",
         "es-ES": "Te ayudaré."
     },
     "dWDNBw": {
-        "ko-KR": "거절한다.",
         "en-US": "I refuse.",
         "pt-BR": "Vou recusar.",
         "es-ES": "Rechazar."
     },
     "dmDNBw": {
-        "ko-KR": "(♡З♡)~♥",
         "en-US": "(*3*)~<3",
         "pt-BR": "(*3*)~<3",
         "es-ES": "(*3*)~<3"
     },
     "d2DNBw": {
-        "ko-KR": "[청소로봇Ω]\n손님 고마워용~",
         "en-US": "[Cleaning Robot Ømega]\nThank you, customer~",
         "pt-BR": "[Faxineira Ømega]\nObrigadinha, cliente~",
         "es-ES": "[Robot de Limpieza Ømega]\n¡Gracias, cliente~!"
     },
     "eGDNBw": {
-        "ko-KR": "ㆀ(@T@)ㆀ",
         "en-US": "‰(•_•)‰",
         "pt-BR": "‰(•_•)‰",
         "es-ES": "‰(•_•)‰"
     },
     "eWDNBw": {
-        "ko-KR": "[청소로봇Ω]\n청소로봇Ω은 청소를 할 수 없어 슬퍼용~",
         "en-US": "[Cleaning Robot Ømega]\nCleaning Robot Ømega is sad because I cannot clean~",
         "pt-BR": "[Faxineira Ømega]\nA Faxineira Ømega está triste porque não pode limpar~",
         "es-ES": "[Robot de Limpieza Ømega]\nRobot de Limpieza Ømega está triste porque no puede limpiar~"
     },
     "emDNBw": {
-        "ko-KR": "[청소로봇Ω]\n착한 손님 고마워용~ 청소로봇Ω은 제1 마력발전소 청소를 해냈어용~",
         "en-US": "[Cleaning Robot Ømega]\nThank you, kind customer~ Cleaning Robot Ømega has finished cleaning the 1st Magic Power Plant~",
         "pt-BR": "[Faxineira Ømega]\nCliente gentil, muito obrigada~ A Faxineira Ømega conseguiu limpar a Usina Mágica de Energia~",
         "es-ES": "[Robot de Limpieza Ømega]\n¡Gracias, cliente amable~! Robot de Limpieza Ømega ha completado la limpieza de la Central Mágica Nº1~"
     },
     "e2DNBw": {
-        "ko-KR": "[청소로봇Ω]\n청소로봇Ω은 제1 마력발전소 청소를 할 수 없어서 슬퍼용~ 몬스터는 너무 무서워용~",
         "en-US": "[Cleaning Robot Ømega]\nCleaning Robot Ømega cannot clean the 1st Magic Power Plant~ The monsters are too scary~",
         "pt-BR": "[Faxineira Ømega]\nA Faxineira Ømega não conseguiu limpar a Usina Mágica de Energia~ Os monstros são muito assustadores~",
         "es-ES": "[Robot de Limpieza Ømega]\nRobot de Limpieza Ømega no puede limpiar la Central Mágica Nº1~ Los monstruos dan mucho miedo~"
     },
     "fGDNBw": {
-        "ko-KR": "[E-R-R-O-R]\n제1 마력발전소 청소 퀘스트에 심각한 오류가 발견되었습니다. 관련 퀘스트 초기화를 진행하였지만, 다시 진행해도 같은 현상이 반복되면 제보해주세요.",
         "en-US": "[E-R-R-O-R]\nA critical error has been found in the 1st Magic Power Plant cleaning quest. The related quest has been reset, but if the issue persists, please report it.",
         "pt-BR": "[E-R-R-O]\nFoi detectado um erro grave na missão de limpeza da Usina Mágica de Energia. A missão foi reiniciada, mas se o problema persistir, por favor, reporte.",
         "es-ES": "[E-R-R-O-R]\nSe ha detectado un error grave en la misión de limpieza de la Central Mágica Nº1. Se ha reiniciado la misión relacionada, pero si el problema persiste, por favor repórtelo."
     },
     "fWDNBw": {
-        "ko-KR": "[청소로봇Ω]\n청소로봇Ω은 제1 마력발전소에 엘리트 벨라레, 마력중독 돌로르, 풀려난 마력이 많아져서 청소를 할 수 없어용~",
         "en-US": "[Cleaning Robot Ømega]\nThere are too many Elite Bellare, Mana Addicted Dolor, and Unleashed Magic in the 1st Power Plant, so Cleaning Robot Ømega cannot clean~",
         "pt-BR": "[Faxineira Ømega]\nA Faxineira Ømega não consegue limpar a Usina Mágica de Energia porque há muitos monstros agressivos~",
         "es-ES": "[Robot de Limpieza Ømega]\nRobot de Limpieza Ømega no puede limpiar la Central Mágica Nº1 porque hay demasiados Bellare de élite, Dolor adicta al mana y Plasmas~"
     },
     "fmDNBw": {
-        "ko-KR": "[청소로봇Ω]\n청소로봇Ω은 슬퍼용~\n손님이 엘리트 벨라레, 마력중독 돌로르, 풀려난 마력 44 개체를 처리해주면 좋을 거 같아용~",
         "en-US": "[Cleaning Robot Ømega]\nCleaning Robot Ømega is sad~\nIt would be great if you could defeat 44 Elite Bellare, Mana Addicted Dolor, and Unleashed Magic~",
         "pt-BR": "[Faxineira Ømega]\nA Faxineira Ømega está triste~\nSeria ótimo se você derrotasse 44 unidades de monstros agressivos daquele local~",
         "es-ES": "[Robot de Limpieza Ømega]\nRobot de Limpieza Ømega está triste~\nSería genial que el cliente eliminara 44 Bellare de élite, Dolor adicta al mana y Plasmas~"
     },
     "f2DNBw": {
-        "ko-KR": "(Θ_Θ). .(θ_θ). .(zZzZ)",
         "en-US": "(-.-)Zzz",
         "pt-BR": "(-.-)Zzz",
         "es-ES": "(-.-)Zzz"
     },
     "gGDNBw": {
-        "ko-KR": "[청소로봇Ω]\n통신을 종료합니다.",
         "en-US": "[Cleaning Robot Ømega]\nTerminating communication.",
         "pt-BR": "[Faxineira Ømega]\nEncerrando comunicação.",
         "es-ES": "[Robot de Limpieza Ømega]\nFinalizando comunicación."
     },
     "gWDNBw": {
-        "ko-KR": "[청소로봇Ω]\n반가워용~ 나는 힘 쌔고 강한 청소로봇Ω!!",
         "en-US": "[Cleaning Robot Ømega]\nNice to meet you~ I am the strong and mighty Cleaning Robot Ømega!!",
         "pt-BR": "[Faxineira Ømega]\nPrazer~ Eu sou a poderosa Faxineira Ømega!!",
         "es-ES": "[Robot de Limpieza Ømega]\n¡Encantado~! ¡Soy el fuerte y poderoso Robot de Limpieza Ømega!"

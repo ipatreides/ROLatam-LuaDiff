@@ -1,1140 +1,950 @@
 {
     "QMzIBw": {
-        "ko-KR": "오스카",
         "en-US": "Oscar",
         "pt-BR": "Oscar",
         "es-ES": "Oscar"
     },
     "QczIBw": {
-        "ko-KR": "[오스카]\n대장이 제어판을 보고 있습니다.\n조용히 안쪽으로 이동하시죠.",
         "en-US": "[Oscar]\nTheir captain is looking at the control panel.\nLet's go in quietly.",
         "pt-BR": "[Oscar]\nA capitã está indo para o painel de controle.\nEntre em silêncio.",
         "es-ES": "[Oscar]\nLa capitana se dirige al panel de control.\nEntre en silencio."
     },
     "QszIBw": {
-        "ko-KR": "아스",
         "en-US": "Ace",
         "pt-BR": "Ace",
         "es-ES": "Ace"
     },
     "Q8zIBw": {
-        "ko-KR": "[아스]\n평상시는 열려있지만 보안을 위해 잠겨있는 지금과 같은 경우에는 제가 제어기를 계속 조작한 상태여야 합니다.\n살펴보니 다른 출입구들도 대부분 비상 폐쇄가 된 것 같습니다.",
         "en-US": "[Ace]\nThis door is usually opened, but when it's locked like this for security purposes, I'll have to constantly operate its controller.\nIt seems all the other doors have been locked as well.",
         "pt-BR": "[Ace]\nPreciso ficar aqui controlando a porta por causa do sistema de segurança.\nParece que as outras entradas também foram fechadas.",
         "es-ES": "[Ace]\nDebo quedarme aquí controlando la puerta debido al sistema de seguridad.\nParece que las demás entradas también fueron cerradas."
     },
     "RMzIBw": {
-        "ko-KR": "[아스]\n하나씩 해제하는데 시간이 좀 걸릴 것 같네요.\n시스템을 통해 지원하도록 하겠습니다.",
         "en-US": "[Ace]\nIt'll take a while to disarm them one by one.\nI'll support you through the system.",
         "pt-BR": "[Ace]\nVai levar um tempo para desbloqueá-las uma por uma.\nEu vou te ajudar através do sistema.",
         "es-ES": "[Ace]\nTomará tiempo desbloquearlas una por una.\nTe ayudaré a través del sistema."
     },
     "RczIBw": {
-        "ko-KR": "[아스]\n준비 되셨으면 안쪽으로 보내드리겠습니다.\n진입 후 좌측에 있는 휴게실과 식당쪽으로 이동 하십시오.",
         "en-US": "[Ace]\nIf you're ready, I can let you in.\nWhen you're in, move to the lounge and cafeteria on the left side.",
         "pt-BR": "[Ace]\nMe diga quando puder, que te mando para dentro.\nLá dentro, vá para o salão e, depois, para a lanchonete.",
         "es-ES": "[Ace]\nAvísame cuando estés listo y te enviaré al interior.\nDentro, ve al salón y luego a la cafetería."
     },
     "RszIBw": {
-        "ko-KR": "[아스]\n식당을 통해 내부 복도로 들어가야 합니다.\n에스트님은 단독으로 작전을 수행하실 예정입니다.",
         "en-US": "[Ace]\nYou have to enter the inner hallway through the cafeteria.\nEst will operate alone from this point on.",
         "pt-BR": "[Ace]\nVocê deve entrar no corredor interior da sala de jantar.\nEst conduzirá a operação daqui em diante.",
         "es-ES": "[Ace]\nDebes entrar al corredor interior del comedor.\nEst dirigirá la operación a partir de ahora."
     },
     "R8zIBw": {
-        "ko-KR": "[아스]\n소동이 일어날 경우 에스트님께서 일부러 일으킨 것 일 수도 있으니 미리 확인 하시고 움직이세요.",
         "en-US": "[Ace]\nAny commotion you hear might have been caused by Est. Please check them before you move.",
         "pt-BR": "[Ace]\nSe ouvir um tumulto, pode sido de propósito pela Est. Confirme com ela antes de seguir adiante.",
         "es-ES": "[Ace]\nSi escuchas un alboroto, puede haber sido intencional por parte de Est.\nConfirma con ella antes de avanzar."
     },
     "SMzIBw": {
-        "ko-KR": "[아스]\n저는 모험가님을 보내드린 후, 보안제어기를 확보하는 작업을 할 겁니다.\n내부에 억류된 연구원들이 있을 수 있습니다.",
         "en-US": "[Ace]\nOnce I let you in, I'll go secure the security controller.\nThere might be some researchers being held hostage inside.",
         "pt-BR": "[Ace]\nAssim que você entrar, eu vou controlar o painel de segurança.\nPode haver cientistas reféns lá dentro.",
         "es-ES": "[Ace]\nEn cuanto entres, controlaré el panel de seguridad.\nPuede haber científicos retenidos dentro."
     },
     "SczIBw": {
-        "ko-KR": "[아스]\n그 분들의 안전을 최우선으로 생각 해 주세요.\n그럼 진입하겠습니다.",
         "en-US": "[Ace]\nPlease make their safety your priority.\nLet's go.",
         "pt-BR": "[Ace]\nPor favor, coloque a segurança deles em primeiro lugar.\nVamos lá.",
         "es-ES": "[Ace]\nPor favor, prioriza su seguridad.\nVamos."
     },
     "SszIBw": {
-        "ko-KR": "변절자",
         "en-US": "Traitor",
         "pt-BR": "Traidor",
         "es-ES": "Traidor"
     },
     "S8zIBw": {
-        "ko-KR": "치명적인 폼폼",
         "en-US": "Fatal Pompom",
         "pt-BR": "Gás Venenoso",
         "es-ES": "Gas Venenoso"
     },
     "TMzIBw": {
-        "ko-KR": "변절자",
         "en-US": "Traitor",
         "pt-BR": "Traidor",
         "es-ES": "Traidor"
     },
     "TczIBw": {
-        "ko-KR": "어떻게 들어왔지?!",
         "en-US": "How did you get in here!?",
         "pt-BR": "Como você entrou aqui?!",
         "es-ES": "¡¿Cómo entraste aquí?!"
     },
     "TszIBw": {
-        "ko-KR": "누구냐!",
         "en-US": "Who are you!?",
         "pt-BR": "Quem é você?",
         "es-ES": "¿Quién eres?"
     },
     "T8zIBw": {
-        "ko-KR": "출입제어기",
         "en-US": "Access Controller",
         "pt-BR": "Controle de acesso",
         "es-ES": "Control de acceso"
     },
     "UMzIBw": {
-        "ko-KR": "통.신.요.청.이.한.건.있.습.니.다.",
         "en-US": "You.have.one.communication.request.",
         "pt-BR": "Você.tem.uma.mensagem.de.voz.",
         "es-ES": "Usted.tiene.un.mensaje.de.voz."
     },
     "UczIBw": {
-        "ko-KR": "신.호.조.정.중.",
         "en-US": "Adjusting.signals...",
         "pt-BR": "Por.favor.aguarde.",
         "es-ES": "Por.favor.espere."
     },
     "UszIBw": {
-        "ko-KR": "음.성.전.달.모.드.실.행.",
         "en-US": "Activating.voice.communication.mode...",
         "pt-BR": "Ativando.modo.reprodução.",
         "es-ES": "Activando.modo.de.reproducción."
     },
     "U8zIBw": {
-        "ko-KR": "..연결됐나? 아스입니다.",
         "en-US": "... Am I connected? It's Ace.",
         "pt-BR": "... Estou conectada? Oi, é a Ace.",
         "es-ES": "...¿Estoy conectada? Hola, soy Ace."
     },
     "VMzIBw": {
-        "ko-KR": "제어시스템의 일부를 장악했습니다만, 출입 권한을 아직 완전하게 확보하지 못했습니다.",
         "en-US": "I was able to take over the control system, but only partially. I don't have all the entry permissions yet.",
         "pt-BR": "Consegui assumir os sistemas de controle, mas ainda não tenho permissões de acesso.",
         "es-ES": "Logré tomar control de los sistemas, pero aún no tengo permisos de acceso."
     },
     "VczIBw": {
-        "ko-KR": "다만 큰 소란이 일지 않는 한, 경보나 보안 장치가 작동하진 않을겁니다.",
         "en-US": "But the alarm or security devices won't be activated if you keep noise to a minimum.",
         "pt-BR": "Se você continuar em silêncio, os alarmes não vão disparar.",
         "es-ES": "Si continúas en silencio, las alarmas no se activarán."
     },
     "VszIBw": {
-        "ko-KR": "복도로 진입하는 이 문을 열어야하죠?",
         "en-US": "This door to the hallway must be open, right?",
         "pt-BR": "Essa porta de acesso ao corredor deve ser aberta, certo?",
         "es-ES": "Esa puerta de acceso al corredor debería abrirse, ¿verdad?"
     },
     "V8zIBw": {
-        "ko-KR": "식당에 억류된 연구원의 손을 쓰십시오.",
         "en-US": "Please use the hand of the researcher being held in the cafeteria.",
         "pt-BR": "Use a digital de algum cientista refém para abrir.",
         "es-ES": "Usa la huella de algún científico rehén para abrir."
     },
     "WMzIBw": {
-        "ko-KR": "...앗..",
         "en-US": "...Ah!",
         "pt-BR": "... EITA P--",
         "es-ES": "...¡MALDIC—"
     },
     "WczIBw": {
-        "ko-KR": "통.신.이.강.제.종.료.되.었.습.니.다.",
         "en-US": "Communication.force-terminated.",
         "pt-BR": "Mensagem.de.voz.encerrada.",
         "es-ES": "Mensaje.de.voz.finalizado."
     },
     "WszIBw": {
-        "ko-KR": "연구원: 괜찮다면 제가 문을 열어도 될까요?",
         "en-US": "Researcher: Mind if I open the door?",
         "pt-BR": "Cientista: Posso abrir a porta, então?",
         "es-ES": "Científico: ¿Entonces puedo abrir la puerta?"
     },
     "W8zIBw": {
-        "ko-KR": "연구원",
         "en-US": "Researcher",
         "pt-BR": "Cientista",
         "es-ES": "Científico"
     },
     "XMzIBw": {
-        "ko-KR": "승인되었습니다.",
         "en-US": "Approved.",
         "pt-BR": "Aprovado.",
         "es-ES": "Aprobado."
     },
     "XczIBw": {
-        "ko-KR": "[연구원]\n생체인식기가 아직 반응하니까요. 제가 여기 손을 대고 있겠습니다.\n... 급하신 분들은 이동하십시오.",
         "en-US": "[Researcher]\nThis biometrics system is still working. I'll keep my hand here.\n...If you have to go, please go now.",
         "pt-BR": "[Cientista]\nO sistema biométrico ainda funciona, então é só por a mão aqui.\n...Se você está com pressa, por favor, corra.",
         "es-ES": "[Científico]\nEl sistema biométrico aún funciona, solo coloque la mano aquí.\n...Si tienes prisa, adelante, corre."
     },
     "XszIBw": {
-        "ko-KR": "[연구원]\n갑자기 나타난 자들이 연구자료를 헤집고 달아났습니다.\n경비를 서던 가드들도 갑자기 변해버렸고요.",
         "en-US": "[Researcher]\nSome people showed up all of a sudden and scattered our research data before running away.\nOur security guards turned against us just as suddenly.",
         "pt-BR": "[Cientista]\nUmas pessoas estranhas apareceram de repente, rasgaram os materiais de pesquisa e fugiram.\nOs guardas que nos protegiam também se voltaram contra nós.",
         "es-ES": "[Científico]\nUnas personas extrañas aparecieron de repente, destrozaron los materiales de investigación y huyeron.\nLos guardias que nos protegían también se volvieron contra nosotros."
     },
     "X8zIBw": {
-        "ko-KR": "[연구원]\n이 안쪽에 더 많은 자들이 억류되어 있을겁니다.\n구해주세요!",
         "en-US": "[Researcher]\nMore people are being held on the inside.\nPlease save them.",
         "pt-BR": "[Cientista]\nDeve haver mais reféns por aqui.\nPor favor, salve-nos!",
         "es-ES": "[Científico]\nDebe haber más rehenes por aquí.\n¡Por favor, sálvenos!"
     },
     "YMzIBw": {
-        "ko-KR": "..우으..이게 도대체 무슨 난리랍니까..",
         "en-US": "...Aww, what in the world is going on?",
         "pt-BR": "... Quê isso?... O que tá acontecendo...??",
         "es-ES": "...¿Qué es esto?... ¿Qué está pasando...?"
     },
     "YczIBw": {
-        "ko-KR": "[억류된 연구원]\n우릴 구해주러 오신 분입니까?\n감사합니다! 감사합니다!",
         "en-US": "[Detained Researcher]\nDid you come to save us?\nThank you, thank you so much!",
         "pt-BR": "[Cientista refém]\nVocê veio para nos resgatar?\nObrigado, obrigado!",
         "es-ES": "[Científico rehén]\n¿Viniste a rescatarnos?\n¡Gracias, gracias!"
     },
     "YszIBw": {
-        "ko-KR": "[억류된 연구원]\n제가 왜 여기에서 배신자놈들의 식사 시중을 들고 있죠?",
         "en-US": "[Detained Researcher]\nWhy am I serving food to these traitors here?",
         "pt-BR": "[Cientista refém]\nO que querem esses traidores?",
         "es-ES": "[Científico rehén]\n¿Qué quieren esos traidores?"
     },
     "Y8zIBw": {
-        "ko-KR": "[억류된 연구원]\n퇴근하고 싶어요. 이제 그만 집에 가고 싶다고요...",
         "en-US": "[Detained Researcher]\nI don't want to be here anymore. I want to go home...",
         "pt-BR": "[Cientista refém]\nEu não quero mais trabalhar. Eu só quero ir para casa agora...",
         "es-ES": "[Científico rehén]\nYa no quiero trabajar. Solo quiero irme a casa ahora..."
     },
     "ZMzIBw": {
-        "ko-KR": "문 너머 목소리: 밖에 누가 있는 거야? 그 이상한 독가스부터 치워!!",
         "en-US": "Voice beyond the Door: Who's out there? Get rid of that mysterious poisonous gas first!",
         "pt-BR": "Voz atrás da porta: Quem está aí? Livre-se desse gás estranho!!",
         "es-ES": "Voz detrás de la puerta: ¿Quién está ahí? ¡Desháganse de ese gas extraño!"
     },
     "ZczIBw": {
-        "ko-KR": "에스트",
         "en-US": "Est",
         "pt-BR": "Est",
         "es-ES": "Est"
     },
     "ZszIBw": {
-        "ko-KR": "에스트: 누구야? 아스야? 모험가냐?",
         "en-US": "Est: Who's out there? Ace? Adventurer?",
         "pt-BR": "Est: Quem está aí? Ace? Viajante?",
         "es-ES": "Est: ¿Quién está ahí? ¿Ace? ¿Trotamundos?"
     },
     "Z8zIBw": {
-        "ko-KR": "[에스트]\n문 앞에 포진해있던 독가스 치운게 너냐?\n시기적절하게 잘 왔어.\n안그래도 그 독가스 때문에 강제로 문이 잠기더라고!",
         "en-US": "[Est]\nWas that you who got rid of the poisonous gas outside the doors?\nYou came at the right time.\nThat gas forced the doors to lock themselves!",
         "pt-BR": "[Est]\nFoi você quem se livrou do gás venenoso?\nVocê veio em boa hora.\nO cheiro do gás forçou as portas a se trancarem!",
         "es-ES": "[Est]\n¿Fuiste tú quien eliminó el gas venenoso?\nLlegaste en el momento justo.\n¡El olor del gas forzó a las puertas a bloquearse!"
     },
     "aMzIBw": {
-        "ko-KR": "[에스트]\n아스가 제어기를 확보해서 해제하기까지는 시간이 걸리고.\n이걸 어쩌나 하고 있던 참이었지.",
         "en-US": "[Est]\nAce needed time to gain access to their controller.\nI didn't know what else to do.",
         "pt-BR": "[Est]\nAce precisava de tempo para assumir o painel de controle.\nEu já não sabia para onde ir.",
         "es-ES": "[Est]\nAce necesitaba tiempo para tomar el control del panel.\nYa no sabía a dónde ir."
     },
     "aczIBw": {
-        "ko-KR": "[에스트]\n후, 하트헌터랑 똑같은 복장을 한 놈들이 진을 치고 있긴하더라니.\n그나마도 거의 다 해결하니까 독가스같은게 풀리지 뭐냐.",
         "en-US": "[Est]\nGeez, I should have known when I saw those guys wearing the same uniform as the Heart Hunters.\nJust when I was done with them, the poisonous gas was released.",
         "pt-BR": "[Est]\nPercebi que os traidores usam os mesmos uniformes que a Caça-Coração.\nEles soltaram esses gases letais na hora que eu ia acabar com a raça deles.",
         "es-ES": "[Est]\nNoté que los traidores usan los mismos uniformes que los Cazacorazones.\nLiberaron esos gases letales justo cuando iba a acabar con ellos."
     },
     "aszIBw": {
-        "ko-KR": "[에스트]\n어지간한 놈들은 이미 내 뺀 것 같다.\n대충 정리하고 사람 구하고 나가자.",
         "en-US": "[Est]\nMost of the enemies have run away already.\nLet's clear this place and get out of here with whoever we find.",
         "pt-BR": "[Est]\nAparentemente, eles já deixaram o prédio.\nVamos limpar a área e retirar os reféns daqui.",
         "es-ES": "[Est]\nAl parecer, ya abandonaron el edificio.\nVamos a limpiar el área y sacar a los rehenes."
     },
     "a8zIBw": {
-        "ko-KR": "[에스트]\n반대편에 연구실이 몰려있다니 거기도 이 사달이 나 있을거다.\n거창한 싸움이라도 있을까 했는데 진이 빠지는군.",
         "en-US": "[Est]\nMost research rooms are concentrated on the opposite side. I bet that side is also in shambles by now.\nI was ready for a big battle, but nothing happened. What a letdown!",
         "pt-BR": "[Est]\nEsse lugar está aos frangalhos.\nAchei que iria rolar uma luta épica, mas me decepcionei.",
         "es-ES": "[Est]\nEste lugar está hecho pedazos.\nPensé que habría una batalla épica, pero fue decepcionante."
     },
     "bMzIBw": {
-        "ko-KR": "[에스트]\n지금부터 리벨리온 특수부대는 구금된 연구원과 억류자들 구출을 최우선으로 한다.\n알아들었으면 빨리 빨리 움직여!",
         "en-US": "[Est]\nRebellion special forces, focus on rescuing researchers and other hostages in here from now on.\nYou heard me. Move!",
         "pt-BR": "[Est]\nA partir de agora, as Forças Especiais da Rebelião priorizarão o resgate dos reféns.\nCompreendido? Agora, vá, vá, vá!",
         "es-ES": "[Est]\nA partir de ahora, las Fuerzas Especiales de la Rebelión priorizarán el rescate de los rehenes.\n¿Entendido? ¡Ahora, vamos, vamos, vamos!"
     },
     "bczIBw": {
-        "ko-KR": "[에스트]\n참, 모험가 너는 여기에서 통신 가능한 장치를 찾아서 아스에게 연락 넣어.\n코드 0315.",
         "en-US": "[Est]\nOh, right. Adventurer, find a communication device around here and get ahold of Ace.\nCode 0315.",
         "pt-BR": "[Est]\nEncontre um dispositivo de comunicação por aqui e entre em contato com a Ace.\nCódigo 0315.",
         "es-ES": "[Est]\nEncuentra un dispositivo de comunicación por aquí y contacta a Ace.\nCódigo 0315."
     },
     "bszIBw": {
-        "ko-KR": "[에스트]\n개인 연구실쪽 출입구 개방하라고 해.",
         "en-US": "[Est]\nTell her to open the entrance to the personal research rooms.",
         "pt-BR": "[Est]\nDiga para ela abrir a entrada do laboratório particular.",
         "es-ES": "[Est]\nDile que abra la entrada del laboratorio privado."
     },
     "b8zIBw": {
-        "ko-KR": "[에스트]\n으으. 이쪽은 일단 인질 구출에 집중하겠다.\n넌 아스가 말한 경호대기실이란 곳을 찾아 봐.",
         "en-US": "[Est]\nUgh, we'll focus on rescuing hostages for now.\nYou should go check the guards' waiting room as Ace asked.",
         "pt-BR": "[Est]\nVou me concentrar em resgatar os reféns por enquanto.\nVá conferir a sala de espera dos guardas, como a Ace pediu.",
         "es-ES": "[Est]\nMe concentraré en rescatar a los rehenes por ahora.\nVe a revisar la sala de espera de los guardias, como pidió Ace."
     },
     "cMzIBw": {
-        "ko-KR": "[에스트]\n빨리 빨리 움직이라고.",
         "en-US": "[Est]\nCome on, hurry up!",
         "pt-BR": "[Est]\nVai! Corre!!",
         "es-ES": "[Est]\n¡Vamos! ¡Corre!"
     },
     "cczIBw": {
-        "ko-KR": "통신 기능을 가진 제어기가 있다.",
         "en-US": "This controller has voice chat capabilities.",
         "pt-BR": "Esse controlador tem função de voz.",
         "es-ES": "Este controlador tiene función de voz."
     },
     "cszIBw": {
-        "ko-KR": "1103",
         "en-US": "1103",
         "pt-BR": "1103",
         "es-ES": "1103"
     },
     "c8zIBw": {
-        "ko-KR": "4885",
         "en-US": "4885",
         "pt-BR": "4885",
         "es-ES": "4885"
     },
     "dMzIBw": {
-        "ko-KR": "0315",
         "en-US": "0315",
         "pt-BR": "0315",
         "es-ES": "0315"
     },
     "dczIBw": {
-        "ko-KR": "765",
         "en-US": "765",
         "pt-BR": "765",
         "es-ES": "765"
     },
     "dszIBw": {
-        "ko-KR": "활성 되지 못한 코드입니다.\n통신을 종료합니다.",
         "en-US": "Invalid code.\nTerminating communication...",
         "pt-BR": "Código inválido.\nEncerrando operação",
         "es-ES": "Código inválido.\nFinalizando operación"
     },
     "d8zIBw": {
-        "ko-KR": "통신을 시작합니다.",
         "en-US": "Initializing communication...",
         "pt-BR": "Estabelecendo comunicação...",
         "es-ES": "Estableciendo comunicación..."
     },
     "eMzIBw": {
-        "ko-KR": "누군가가 사용 중입니다.",
         "en-US": "Someone else is using it.",
         "pt-BR": "Alguém está usando.",
         "es-ES": "Alguien lo está usando."
     },
     "eczIBw": {
-        "ko-KR": "통신기능을 가진 제어기가 있다.",
         "en-US": "This controller has voice chat capabilities.",
         "pt-BR": "Esse controlador tem função de voz.",
         "es-ES": "Este controlador tiene función de voz."
     },
     "eszIBw": {
-        "ko-KR": "통신 응답 대기 중입니다...",
         "en-US": "Waiting for response...",
         "pt-BR": "Comunicação.estabelecida.",
         "es-ES": "Comunicación.establecida."
     },
     "e8zIBw": {
-        "ko-KR": "아스: 에스트 대장님? 소강당 잠금은 해제했습니다만, 무슨 문제가 있었습니까?",
         "en-US": "Ace: Captain Est? I've unlocked the small hall. Is there a problem?",
         "pt-BR": "Ace: Comandante Est? Destranquei o auditório. Algum problema?",
         "es-ES": "Ace: ¿Comandante Est? Desbloqueé el auditorio. ¿Algún problema?"
     },
     "fMzIBw": {
-        "ko-KR": "모험가님이시군요. 보고하겠습니다. 아직 보안 제어기 통제권을 완전히 확보하지 못했습니다.",
         "en-US": "It's you, Adventurer. Let me get you up to speed. I haven't secured full control over the security controller.",
         "pt-BR": "Ah, é você, viajante. Ainda não recuperei totalmente o controle do painel de segurança.",
         "es-ES": "Ah, eres tú, trotamundos. Aún no he recuperado totalmente el control del panel de seguridad."
     },
     "fczIBw": {
-        "ko-KR": "시간이 걸릴 것 같습니다만, 감시 모듈 대부분의 제어권을 확보했습니다.",
         "en-US": "It'll take a while, but I've at least have control over most of the security module.",
         "pt-BR": "Ainda vai demorar, mas consegui a visualização das câmeras de segurança.",
         "es-ES": "Aún tomará tiempo, pero conseguí acceso a las cámaras de seguridad."
     },
     "fszIBw": {
-        "ko-KR": "병력 대부분이 로비와 휴게지역쪽에 몰려 있었던터라 상대적으로 연구실쪽은 감시가 덜합니다.",
         "en-US": "Because most enemies were gathered in the lobby and lounge area, security around the research rooms are relatively loose.",
         "pt-BR": "Como os inimigos estão espalhados, o laboratório está desprotegido",
         "es-ES": "Como los enemigos están dispersos, el laboratorio está desprotegido."
     },
     "f8zIBw": {
-        "ko-KR": "다만 중앙 제어실을 확보 하려면 경호대기실로 가야하는데 그 쪽에 독계열 실험체 다수가 감지됩니다.",
         "en-US": "To secure the central control room, however, we'll have to go through the guards' waiting room, and I'm sensing a group of poisonous test subjects on that side.",
         "pt-BR": "Mas para entrar no saguão central, precisamos passar pelos inimigos e estou vendo cobaias venenosas por ali.",
         "es-ES": "Pero para entrar al vestíbulo central, debemos pasar por los enemigos y veo cobayas venenosas allí."
     },
     "gMzIBw": {
-        "ko-KR": "우선 연구실과 경호대기실 확보를 우선적으로....꺅",
         "en-US": "For now, please focus on securing the research rooms and the guards' waiting room--WAH!",
         "pt-BR": "Então, é melhor focar nos quartos dos cientistas e na sala dos AAGH-...",
         "es-ES": "Así que es mejor enfocarnos en los dormitorios de los científicos y en la sala de los AAGH-..."
     },
     "gczIBw": {
-        "ko-KR": "에스트: 꺅? 무슨 통신이 그래?",
         "en-US": "Est: Wah? What was that?",
         "pt-BR": "Est: Ei, ei! O que foi isso?",
         "es-ES": "Est: ¡Eh, eh! ¿Qué fue eso?"
     },
     "gszIBw": {
-        "ko-KR": "통신이 종료되었습니다.",
         "en-US": "Communication has been terminated.",
         "pt-BR": "Comunicação.encerrada.",
         "es-ES": "Comunicación.finalizada."
     },
     "g8zIBw": {
-        "ko-KR": "리벨리온 대원",
         "en-US": "Rebellion Member",
         "pt-BR": "Soldado da Rebelião",
         "es-ES": "Soldado de la Rebelión"
     },
     "hMzIBw": {
-        "ko-KR": "[리벨리온 대원]\n생각보다 내부 병력이 적어서 의아했는데, 독물질을 설치했을 줄은 몰랐죠.\n사람은 대부분 빠지고 그런 녀석들만 남겨둔 것 같아요.",
         "en-US": "[Rebellion Member]\nI wondered why there weren't as many enemies as I expected, but I never imagined they'd use poison.\nThey took most of their men and left those monsters behind.",
         "pt-BR": "[Soldado da Rebelião]\nEstou surpresa que tem poucos traidores e muitas armas venenosas.\nEles fugiram deixando armadilhas.",
         "es-ES": "[Soldado de la Rebelión]\nMe sorprende que haya pocos traidores y muchas armas venenosas.\nHuyeron dejando trampas."
     },
     "hczIBw": {
-        "ko-KR": "[리벨리온 대원]\n각오하고 왔는데 생각보다 시시하네요.\n여기 갇히기 전까진 그랬죠. 하하하하!",
         "en-US": "[Rebellion Member]\nI thought this place was more boring than I thought...\nuntil I got locked up here, that is. Hah hah hah!",
         "pt-BR": "[Soldado da Rebelião]\nEu vim preparado, mas tudo foi muito chato.\nNão vou criar mais expectativas. Hahahaha!",
         "es-ES": "[Soldado de la Rebelión]\nVine preparado, pero todo fue muy aburrido.\nNo crearé más expectativas. ¡Jajajaja!"
     },
     "hszIBw": {
-        "ko-KR": "[리벨리온 대원]\n이 근처에 억류되어 있던 연구원들은 일단 다 모아봤습니다.\n저희 리벨리온들이 보호하며 외부로 탈출 시킬 예정입니다.",
         "en-US": "[Rebellion Member]\nWe've collected all the researchers we could find around here.\nWe'll keep them with us until we get out of here.",
         "pt-BR": "[Soldado da Rebelião]\nConseguimos libertar todos os reféns.\nVamos levá-los para fora em segurança.",
         "es-ES": "[Soldado de la Rebelión]\nLogramos liberar a todos los rehenes.\nLos llevaremos afuera con seguridad."
     },
     "h8zIBw": {
-        "ko-KR": "억류된 연구원",
         "en-US": "Detained Researcher",
         "pt-BR": "Cientista refém",
         "es-ES": "Científico rehén"
     },
     "iMzIBw": {
-        "ko-KR": "[연구원]\n어째서 당신들이 구하러 온 겁니까?\n회사의 경비들은... 아니 잠깐..",
         "en-US": "[Researcher]\nWhy did you people come?\nWhat about our security guards--wait a second.",
         "pt-BR": "[Cientista]\nPor que vocês vieram?\nNós não temos guardas de segur-... espera aí!",
         "es-ES": "[Científico]\n¿Por qué vinieron?\nNo tenemos guardias de segu-... ¡espera!"
     },
     "iczIBw": {
-        "ko-KR": "[연구원]\n그러고보니 우릴 구금한 녀석들, 경호 1팀아니었던가..!\n그들이 왜...?",
         "en-US": "[Researcher]\nIt was the First Security Team that locked us up!\nWhy would it do that?",
         "pt-BR": "[Cientista]\nForam os guardas que nos trancaram aqui!\nPor que fariam isso...?",
         "es-ES": "[Científico]\n¡Fueron los guardias quienes nos encerraron aquí!\n¿Por qué harían eso...?"
     },
     "iszIBw": {
-        "ko-KR": "[연구원]\n그 놈들이 내 연구자료를 가져가고 날 여기 가뒀소!\n뿌리기만 해도 흡혈곤충이 기피하는 기피제였는데!",
         "en-US": "[Researcher]\nThey took my research data and locked me up in here!\nI've developed such a great blood-sucking insect spray!",
         "pt-BR": "[Cientista]\nEles roubaram os dados da minha pesquisa e me trancaram aqui!\nEu tinha desenvolvido um repelente de bicho-papão!",
         "es-ES": "[Científico]\n¡Robaron los datos de mi investigación y me encerraron aquí!\n¡Había desarrollado un repelente de chupasangres increíble!"
     },
     "i8zIBw": {
-        "ko-KR": "[연구원]\n그건 내 개인연구였소만 도대체 그걸 왜 가져갔는지 모르겠소!\n그렇다고 다른 연구자료를 가져가도 된다는건 아니오.",
         "en-US": "[Researcher]\nThat was my personal research data, and I don't know why they took it.\nI don't mean that I didn't mind them taking my other research data, either.",
         "pt-BR": "[Cientista]\nEra uma pesquisa pessoal!\nTinha tanta outra pesquisa para eles roubarem!",
         "es-ES": "[Científico]\n¡Era una investigación personal!\n¡Había tantas otras investigaciones para robar!"
     },
     "jMzIBw": {
-        "ko-KR": "[연구원]\n도대체 무슨 일이 일어나고 있는게요?\n아아.. 집에 가고 싶다...",
         "en-US": "[Researcher]\nWhat on earth is going on?\nAh... I want to go home...",
         "pt-BR": "[Cientista]\nO que diabos está acontecendo?\nAh... eu quero ir para casa...",
         "es-ES": "[Científico]\n¿Qué diablos está pasando?\nAh... quiero irme a casa..."
     },
     "jczIBw": {
-        "ko-KR": "외부에 치명적인 이물질이 감지되었습니다.",
         "en-US": "Lethal contaminants have been detected outside.",
         "pt-BR": "Contaminantes foram detectados nas proximidades.",
         "es-ES": "Se detectaron contaminantes en las proximidades."
     },
     "jszIBw": {
-        "ko-KR": "연구자료",
         "en-US": "Research Data",
         "pt-BR": "Dados de pesquisa",
         "es-ES": "Datos de investigación"
     },
     "j8zIBw": {
-        "ko-KR": "문서 일부가 심하게 훼손되었다.\n빛의 굴절을 이용한 장치를 개발하려 했던 것 같다.",
         "en-US": "Part of this document is severely damaged.\nThe writer must have tried to develop a device that uses light refraction.",
         "pt-BR": "Alguns dos documentos estão muito danificados.\nParece que eles estavam tentando desenvolver um dispositivo usando a refração da luz.",
         "es-ES": "Algunos de los documentos están muy dañados.\nParece que intentaban desarrollar un dispositivo usando la refracción de la luz."
     },
     "kMzIBw": {
-        "ko-KR": "신규 포션의 효능과 부작용에 대한 자료다.\n다만 핵심이라 할 수 있는 성분자료 일부가 없다.",
         "en-US": "This document is about the effects and adverse effects of new potions.\nIt's missing the core ingredient information.",
         "pt-BR": "Dados sobre a eficácia e efeitos colaterais de novas poções.\nNo entanto, não há nenhuma informação dos ingredientes principais.",
         "es-ES": "Datos sobre la eficacia y los efectos secundarios de nuevas pociones.\nSin embargo, no hay información sobre los ingredientes principales."
     },
     "kczIBw": {
-        "ko-KR": "서비스로이드의 기능 향상과 자유도에 대한 자료다.\n제목만 남기고 본문이 존재하지 않는다.",
         "en-US": "This document is about serviceroids' functional improvement and degrees of freedom.\nIts entire content is missing, except for the cover.",
         "pt-BR": "É um registro sobre a melhoria da função dos Autômatos.\nO documento inteiro está em branco, exceto o título.",
         "es-ES": "Es un registro sobre la mejora de la función de los Autómatas.\nTodo el documento está en blanco, excepto el título."
     },
     "kszIBw": {
-        "ko-KR": "책자가 한꺼번에 빠져있다.\n누군가가 고의로 자료를 빼돌린 것 같다.",
         "en-US": "Many of the books are missing.\nSomeone must have taken them with them.",
         "pt-BR": "Tem muitas páginas faltando.\nAcho que alguém as arrancou.",
         "es-ES": "Faltan muchas páginas.\nCreo que alguien las arrancó."
     },
     "k8zIBw": {
-        "ko-KR": "실험 자료가 일부 사라졌다.\n누군가가 황급히 챙긴 흔적이 있다.",
         "en-US": "Some of the experiment data are missing.\nWhoever took the missing part left the data scattered about in their haste to leave.",
         "pt-BR": "Alguns dos relatórios de experimentos desapareceram.\nHá sinais de que alguém o pegou às pressas.",
         "es-ES": "Algunos informes de experimentos desaparecieron.\nHay señales de que alguien los tomó con prisa."
     },
     "lMzIBw": {
-        "ko-KR": "기계장치의 도면 일부가 찢어져있다.\n누군가가 고의로 핵심 부분을 도려내었다.",
         "en-US": "These schematics of a mechanical device are partially torn.\nSomeone cut out the core designs on purpose.",
         "pt-BR": "Alguns desenhos de um dispositivo mecânico estão rasgados.\nAlguém arrancou de propósito.",
         "es-ES": "Algunos bocetos de un dispositivo mecánico están rasgados.\nAlguien los arrancó a propósito."
     },
     "lczIBw": {
-        "ko-KR": "구금된 연구원",
         "en-US": "Detained Researcher",
         "pt-BR": "Cientista refém",
         "es-ES": "Científico rehén"
     },
     "lszIBw": {
-        "ko-KR": "[연구원]\n내..내 연구..자료들..\n그 놈들이 전부 가져갔어요!\n몽땅 가져갔다고요!",
         "en-US": "[Researcher]\nM-my research data...\nThey took them all!\nAll of them!",
         "pt-BR": "[Cientista]\nM-minha..minha pesquisa...\nEles levaram tudo!\nTudinho!",
         "es-ES": "[Científico]\nM-mi... mi investigación...\n¡Se llevaron todo!\n¡Todo!"
     },
     "l8zIBw": {
-        "ko-KR": "[고니]\n …. …. ….",
         "en-US": "[Gony]\n ...",
         "pt-BR": "[Gonie]\n............",
         "es-ES": "[Gonie]\n............"
     },
     "mMzIBw": {
-        "ko-KR": "[연구원]\n아, 당신이 절 보호하신다고요?\n그럼 신세지겠습니다. 감사합니다!",
         "en-US": "[Researcher]\nOh, you'll keep me safe?\nOkay, then I'll be counting on you. Thank you!",
         "pt-BR": "[Cientista]\nMe proteja, por favor!\nEu estou com medo!",
         "es-ES": "[Científico]\n¡Protégeme, por favor!\n¡Tengo miedo!"
     },
     "mczIBw": {
-        "ko-KR": "살았다! 살았어!",
         "en-US": "I'm saved! I'm saved!",
         "pt-BR": "Estou salva!",
         "es-ES": "¡Estoy a salvo!"
     },
     "mszIBw": {
-        "ko-KR": "[연구원]\n... 정신 이상한 놈들은 전부 쫓아낸 줄 알았는데.\n이런식으로 뒤통수를 치다니.\n크읏.",
         "en-US": "[Researcher]\n...I thought we got rid of all the lunatics.\nClearly, we didn't.\nGah!",
         "pt-BR": "[Cientista]\n...Pensávamos que os loucos tinham ido embora.\nClaramente, não foram.\nInfelizmente.",
         "es-ES": "[Científico]\n...Pensábamos que los locos se habían ido.\nClaramente no fue así.\nPor desgracia."
     },
     "m8zIBw": {
-        "ko-KR": "[연구원]\n당신, 우릴 구하러 온 거요?\n어서 날 여기서 내보내 주시오!\n놈들이 문 밖에 독괴물을 붙여놔서 도망치지도 못했소!",
         "en-US": "[Researcher]\nYou. Did you come to save us?\nPlease get me out of here!\nI couldn't leave because the enemy left poisonous monsters outside my door!",
         "pt-BR": "[Cientista]\nVocê veio nos salvar?\nVamos, me tire daqui!\nEu não conseguia sair por causa dos gases na entrada!",
         "es-ES": "[Científico]\n¿Viniste a rescatarnos?\n¡Vamos, sácame de aquí!\nNo podía salir por los gases en la entrada."
     },
     "nMzIBw": {
-        "ko-KR": "[연구원]\n내가. 내가 그 놈들에 대해 좀 아는데 전부 말해드리리다!",
         "en-US": "[Researcher]\nI-I know a few things about the enemy. I'll tell them to you!",
         "pt-BR": "[Cientista]\nE-Eu sei um pouco sobre aqueles caras, eu vou te contar tudo!",
         "es-ES": "[Científico]\nY-yo sé un poco sobre esos tipos, ¡te contaré todo!"
     },
     "nczIBw": {
-        "ko-KR": "[에스트]\n아앙? 방금 그 이야기 좀 재밌는데?\n나랑 저쪽으로 가서 조용히 얘기 좀 할까?",
         "en-US": "[Est]\nMm? I'm interested.\nWhy don't we go over there and talk in private?",
         "pt-BR": "[Est]\nAh é? Tô interessada.\nPor que você não bate um papinho comigo?",
         "es-ES": "[Est]\n¿Ah, sí? Me interesa.\n¿Por qué no charlas un poco conmigo?"
     },
     "nszIBw": {
-        "ko-KR": "[에스트]\n이 녀석은 이쪽에서 챙겨갈테니 넌 다른 방을 살펴 줘.",
         "en-US": "[Est]\nI'll take him with me. Go check the other rooms, will you?",
         "pt-BR": "[Est]\nEu vou levar esse cara comigo, verifique os outros dormitórios.",
         "es-ES": "[Est]\nMe llevaré a este tipo conmigo, revisa los otros dormitorios."
     },
     "n8zIBw": {
-        "ko-KR": "[연구원]\n살려주세요!\n전 그냥 월급 받고 일한 것 뿐이에요!",
         "en-US": "[Researcher]\nHelp!\nI only worked here for the money!",
         "pt-BR": "[Cientista]\nMe ajude!\nEu só estava trabalhando por um salário!",
         "es-ES": "[Científico]\n¡Ayúdame!\n¡Solo estaba trabajando por un salario!"
     },
     "oMzIBw": {
-        "ko-KR": "[연구원]\n슐랑, 슐랑은 어딨죠?\n그 자가 배신자에요!\n내가 다 봤다고요. 경호원들을 그자가 막 죽였어요....",
         "en-US": "[Researcher]\nShulang. Where's Shulang?\nHe's the traitor!\nI saw him. He killed our guards...",
         "pt-BR": "[Cientista]\n^0000CDShulang^000000! A culpa é dele!\nEle é o traidor!\nEu vi tudo. Ele matou alguns oficiais...",
         "es-ES": "[Científico]\n¡^0000CDShulang^000000! ¡La culpa es de él!\n¡Es el traidor!\nLo vi todo. Mató a algunos oficiales..."
     },
     "oczIBw": {
-        "ko-KR": "진정하세요.",
         "en-US": "Please calm down.",
         "pt-BR": "Acalme-se.",
         "es-ES": "Cálmate."
     },
     "oszIBw": {
-        "ko-KR": "[연구원]\n지금 진정하게 생겼어요?\n연구소에서 일하게 됐을때만 해도 기뻤는데, 도대체 굴지의 기업에서 이게 무슨 일인지...",
         "en-US": "[Researcher]\nHow can I calm down?\nI was so excited to work at such a famous lab. I can't believe this happened...",
         "pt-BR": "[Cientista]\nMe acalmar?\nEu tava doida para trabalhar em um laboratório muito bem patrocinado e olha o que aconteceu...",
         "es-ES": "[Científico]\n¿Calmarme?\nEstaba desesperada por trabajar en un laboratorio bien financiado y mira lo que pasó..."
     },
     "o8zIBw": {
-        "ko-KR": "[연구원]\n뭐? 리벨리온들이 와서 구해준다고요?\n지금 당신과 함께 그냥 도망가면 안되나요?",
         "en-US": "[Researcher]\nHuh? The Rebellion's here to help us?\nWhy can't I go with you now?",
         "pt-BR": "[Cientista]\nHã? Os soldados da Rebelião que vão me levar?\nPor que eu não posso ir com você?",
         "es-ES": "[Científico]\n¿Eh? ¿Los soldados de la Rebelión me llevarán?\n¿Por qué no puedo ir contigo?"
     },
     "pMzIBw": {
-        "ko-KR": "[연구원]\n아.. 선발대라고요?\n그래요. 얌전히 구조를 기다릴게요.\n그런데 그 사람들 우루루 몰려왔다가 와장창 다 깨부수고 후다닥 떠나버려서...",
         "en-US": "[Researcher]\nAh, you're just an advance party...\nOkay, then I'll wait until I get rescued.\nBut those people... They came in droves, destroyed everything, and left just as quickly as they came.",
         "pt-BR": "[Cientista]\nAh... você é da tropa de batalha e não de resgate...\nTudo bem, eu vou aguardar.\nEsses traidores... entraram aqui, destruíram tudo e vazaram...",
         "es-ES": "[Científico]\nAh... eres de la tropa de combate y no de rescate...\nEstá bien, esperaré.\nEsos traidores... entraron aquí, destruyeron todo y se fueron..."
     },
     "pczIBw": {
-        "ko-KR": "[연구원]\n아, 이미 알고 계시구나.\n좋아요. 닥치고 있을게요.\n당신 제복 멋있네요.",
         "en-US": "[Researcher]\nAh, you know that already.\nOkay, I'll be quiet.\nI like your uniform.",
         "pt-BR": "[Cientista]\nAh, você já sabe disso.\nOk. Vou calar a boca.\nGostei do seu uniforme.",
         "es-ES": "[Científico]\nAh, ya lo sabes.\nOk. Me callaré.\nMe gustó tu uniforme."
     },
     "pszIBw": {
-        "ko-KR": "[연구원]\n알아요. 알아.\n여기서 기다리면 리벨리온이 와서 구해준다는거죠?\n얌전히 있을게요.",
         "en-US": "[Researcher]\nI know, I know.\nI should wait here until the Rebellion comes to rescue me, right?\nSure, I'll wait here quietly.",
         "pt-BR": "[Cientista]\nEu sei, eu sei.\nVou esperar aqui até a Rebelião me salvar, né?\nEu vou ficar quieta.",
         "es-ES": "[Científico]\nLo sé, lo sé.\nMe quedaré aquí hasta que la Rebelión me rescate, ¿sí?\nMe quedaré callada."
     },
     "p8zIBw": {
-        "ko-KR": "[연구원]\n그런데 당신 제복 진짜 멋있어요.",
         "en-US": "[Researcher]\nBy the way, I really like your uniform.",
         "pt-BR": "[Cientista]\nMas eu realmente gostei do seu uniforme.",
         "es-ES": "[Científico]\nPero de verdad me gustó tu uniforme."
     },
     "qMzIBw": {
-        "ko-KR": "제어기 통신: 강의구역에 지원이 필요합니다. 강의구역 지원 바랍니다.",
         "en-US": "Controller Communication: Support is needed at the lecture room area. Come to the lecture room area now.",
         "pt-BR": "Comunicação: Por favor, dirija-se ao Auditório. Precisamos de reforços lá.",
         "es-ES": "Comunicación: Por favor, diríjase al Auditorio. Necesitamos refuerzos allí."
     },
     "qczIBw": {
-        "ko-KR": "[아스]\n에스트님이 진입하신 강의구역에 문제가 발생한 것 같습니다.\n부디 지원 바랍니다.",
         "en-US": "[Ace]\nThere seems to be a problem in the lecture room area where Est is.\nPlease go there.",
         "pt-BR": "[Ace]\nParece haver um problema com a Est no auditório.\nPor favor, vá até lá.",
         "es-ES": "[Ace]\nParece haber un problema con Est en el auditorio.\nPor favor, vaya allí."
     },
     "qszIBw": {
-        "ko-KR": "[아스]\n아! 연구실은 다 확인하셨습니까?\n아직 억류된 연구원들이 있는지 한번 더 확인 해 주세요.",
         "en-US": "[Ace]\nAh, did you check all the research rooms?\nPlease double-check if there are still detained researchers in them.",
         "pt-BR": "[Ace]\nVocê conferiu todos os dormitórios dos cientistas?\nPor favor, volte lá e confirme se ainda há reféns.",
         "es-ES": "[Ace]\n¿Revisó todos los dormitorios de los científicos?\nPor favor, vuelva y confirme si aún hay rehenes."
     },
     "q8zIBw": {
-        "ko-KR": "[아스]\n스페어 마스터키가 남아있습니다.\n이것때문에 제어권을 전부 장악하지 못했습니다. 고생하셨죠?",
         "en-US": "[Ace]\nI've found the spare master key.\nIt was the reason I couldn't fully take control over the system. Not anymore.",
         "pt-BR": "[Ace]\nEu consegui a chave de acesso.\nÉ por isso que demorei, eu não tinha controle total do sistema.",
         "es-ES": "[Ace]\nConseguí la llave de acceso.\nPor eso tardé, no tenía control total del sistema."
     },
     "rMzIBw": {
-        "ko-KR": "[아스]\n이제 중앙 회의실만 확인하면 됩니다.\n하트헌터라고 했나요?\n슐랑이 이끄는 배신자들도 이미 철수한 것 같습니다.",
         "en-US": "[Ace]\nNow, we just need to check the central meeting room.\nHeart Hunters, right?\nShulang and his traitors seem to have left already.",
         "pt-BR": "[Ace]\nAgora, basta conferir o Auditório.\nVocê falou algo sobre os Caça-Coração, né?\nParece que os traidores liderados por ^0000CDShulang^000000 já se retiraram.",
         "es-ES": "[Ace]\nAhora, solo falta revisar el Auditorio.\nMencionaste a los Cazacorazones, ¿verdad?\nParece que los traidores liderados por ^0000CDShulang^000000 ya se retiraron."
     },
     "rczIBw": {
-        "ko-KR": "[아스]\n여기에 우리 눈을 묶어둔거죠.\n그렇게밖에 생각이 안드는군요.\n에스트님은 어디 계신가요?",
         "en-US": "[Ace]\nThey lured us in here to distract us.\nThat's the only reason I can think of.\nWhere's Est?",
         "pt-BR": "[Ace]\nEles nos atraíram aqui para nos distrair.\nEssa só pode ser a razão.\nOnde está Est?",
         "es-ES": "[Ace]\nNos atrajeron aquí para distraernos.\nEsa debe ser la razón.\n¿Dónde está Est?"
     },
     "rszIBw": {
-        "ko-KR": "[고니]\n … … … .",
         "en-US": "[Gony]\n ... ... ... .",
         "pt-BR": "[Gonie]\n ... ... ... .",
         "es-ES": "[Gonie]\n ... ... ... ."
     },
     "r8zIBw": {
-        "ko-KR": "[아스]\n남은 연구원과 독성 물질이 있는지 전체적으로 수색을 하신다고요?\n확실히 필요한 일이군요. 알겠습니다.",
         "en-US": "[Ace]\nHe's searching the place for remaining researchers and poison.\nYes, that needs to be done. I got it.",
         "pt-BR": "[Ace]\nVocê disse que ela ainda está procurando por reféns, Gonie?\nEntendido.",
         "es-ES": "[Ace]\n¿Dijiste que aún busca rehenes, Gonie?\nEntendido."
     },
     "sMzIBw": {
-        "ko-KR": "[아스]\n모험가님, 우리는 중앙 회의실로 가죠.\n거기만 확보하면 됩니다.",
         "en-US": "[Ace]\nAdventurer, let's go to the central meeting room.\nThat's the only place we haven't cleared yet.",
         "pt-BR": "[Ace]\nViajante, vamos para o auditório central.\nÉ o único lugar que não entramos ainda.",
         "es-ES": "[Ace]\nTrotamundos, vamos al auditorio central.\nEs el único lugar en el que aún no entramos."
     },
     "sczIBw": {
-        "ko-KR": "흩어진 문서",
         "en-US": "Scattered Document",
         "pt-BR": "Documentos dispersos",
         "es-ES": "Documentos dispersos"
     },
     "sszIBw": {
-        "ko-KR": "기업 경호팀의 명단이다.\n일부는 동그라미, 일부는 가위표가 그어져 있다.",
         "en-US": "It's the roster of Rekenber's Security Department.\nSome of the names have been circled while some others have been crossed.",
         "pt-BR": "É uma lista de pessoas do Departamento de Segurança da Rekenber.\nAlguns nomes estão circulados, outros riscados.",
         "es-ES": "Es una lista de personas del Departamento de Seguridad de Rekenber.\nAlgunos nombres están circulados, otros tachados."
     },
     "s8zIBw": {
-        "ko-KR": "[아스]\n... 이 동그라미가 쳐진 부분은 아마 매수가 된 자들일겁니다.\n옆에 x로 그어진 쪽이 저와 경호 2팀이 대부분이니까요.",
         "en-US": "[Ace]\n... The ones with circles around them must be the traitors.\nThese crossed ones are me and most of the other Second Security Team members.",
         "pt-BR": "[Ace]\n...Os nomes circulados são, provavelmente, dos traidores.\nOs riscados são o meu e os da minha equipe de segurança.",
         "es-ES": "[Ace]\n...Los nombres circulados probablemente sean los traidores.\nLos tachados son el mío y los de mi equipo de seguridad."
     },
     "tMzIBw": {
-        "ko-KR": "[아스]\n용병계약..이라는 표시가 있군요. 그리고 습격한 날에 대한 계획의 러프군요.\n.... 보란듯이 두고 갔다는 건...",
         "en-US": "[Ace]\n''Mercenary Contract...'' And there's a rough draft of their attack plans.\n... They left this here on purpose.",
         "pt-BR": "[Ace]\nContrato para Assassinos de Aluguel... E tem um plano para o dia do ataque.\n... Eles deixaram aqui de propósito...",
         "es-ES": "[Ace]\nContrato de mercenarios... Y hay un plan para el día del ataque.\n...Los dejaron aquí a propósito..."
     },
     "tczIBw": {
-        "ko-KR": "[아스]\n역시 절 도발하기 위함입니다.\n이번엔 지지 않아요. 끝까지 추적해서 이 빚을 받아낼겁니다.",
         "en-US": "[Ace]\nThey really want to make me mad, huh?\nI'm not going to let them win this time. I'm going to follow them and make them pay at all costs.",
         "pt-BR": "[Ace]\nEles querem me provocar.\nNão vou deixar eles ganharem essa. Vou fazer eles pagarem.",
         "es-ES": "[Ace]\nQuieren provocarme.\nNo dejaré que ganen. Haré que lo paguen."
     },
     "tszIBw": {
-        "ko-KR": "[아스]\n이건 회수하여 테스님께 가져가 분석하는게 낫겠습니다.",
         "en-US": "[Ace]\nWe should collect and take it to Tess and have him analyze it.",
         "pt-BR": "[Ace]\nVamos levar isso para Tess analisar.",
         "es-ES": "[Ace]\nLlevemos esto para que Tess lo analice."
     },
     "t8zIBw": {
-        "ko-KR": "여기에 있던 자료는 이미 입수했다.\n더 이상 볼 일이 없다.",
         "en-US": "I've collected all the data that was here.\nThere's no reason to stick around here anymore.",
         "pt-BR": "- Os documentos já foram coletados -\n- Não há mais nada para ver aqui. -",
         "es-ES": "- Los documentos ya fueron recolectados -\n- No hay nada más que ver aquí. -"
     },
     "uMzIBw": {
-        "ko-KR": "중앙회의실",
         "en-US": "Central Meeting Room",
         "pt-BR": "Auditório",
         "es-ES": "Auditorio"
     },
     "uczIBw": {
-        "ko-KR": "시스템을 사용하시려면 잠금을 해제 하십시오.",
         "en-US": "If you'd like to use the system, please disarm it first.",
         "pt-BR": "Desbloqueie o sistema para poder usá-lo.",
         "es-ES": "Desbloquee el sistema para poder usarlo."
     },
     "uszIBw": {
-        "ko-KR": "해당 코드는 잠겨있습니다.",
         "en-US": "Invalid code.",
         "pt-BR": "Código inválido.",
         "es-ES": "Código inválido."
     },
     "u8zIBw": {
-        "ko-KR": "[아스]\n통신? 모험가님?\n에스트님이 진입하신 강의구역에 문제가 발생한 것 같습니다.\n부디 지원 바랍니다.",
         "en-US": "[Ace]\nCommunication? Adventurer?\nThere seems to be a problem in the lecture room area where Est is.\nPlease go there.",
         "pt-BR": "[Ace]\nAlô? Viajante?\nParece haver um problema onde Est está.\nPor favor, vá até lá.",
         "es-ES": "[Ace]\n¿Hola? ¿Trotamundos?\nParece haber un problema donde está Est.\nPor favor, vaya allí."
     },
     "vMzIBw": {
-        "ko-KR": "[아스]\n통신? 모험가님?\n아직 스페어 마스터키를 찾는 중입니다.\n개별 연구실 쪽을 수색해 주시겠습니까?\n현 위치 기준으로 동편입니다.",
         "en-US": "[Ace]\nCommunication? Adventurer?\nI'm still looking for the spare master key.\nCould you check the personal research rooms?\nThey're east from here.",
         "pt-BR": "[Ace]\nAlô? Viajante?\nAinda estou procurando a chave mestra.\nVocê pode conferir os dormitórios dos cientistas?\nFica à leste da sua localização atual.",
         "es-ES": "[Ace]\n¿Hola? ¿Trotamundos?\nAún estoy buscando la llave maestra.\n¿Puede revisar los dormitorios de los científicos?\nEstá al este de su ubicación actual."
     },
     "vczIBw": {
-        "ko-KR": "[아스]\n제어판 장악에 시간이 걸리고 있어서 죄송합니다.\n주변에 다수의 독물질이 감지되고 있습니다. 조심하십시오.",
         "en-US": "[Ace]\nI'm sorry, it's taking longer than I thought to take over the control panel.\nWe're surrounded by poisonous substances. Please be careful.",
         "pt-BR": "[Ace]\nDesculpe por demorar em assumir o controle do painel.\nEstamos cercados por veneno. Tenha cuidado.",
         "es-ES": "[Ace]\nPerdón por tardar en tomar el control del panel.\nEstamos rodeados de veneno. Tenga cuidado."
     },
     "vszIBw": {
-        "ko-KR": "제가 늦었습니까?",
         "en-US": "Am I late?",
         "pt-BR": "Me atrasei?",
         "es-ES": "¿Llegué tarde?"
     },
     "v8zIBw": {
-        "ko-KR": "아니 제때 왔다.",
         "en-US": "No. You came at the right time.",
         "pt-BR": "Não, chegou na hora!",
         "es-ES": "No, llegaste justo a tiempo."
     },
     "wMzIBw": {
-        "ko-KR": "장치가 동작하지 않는다.",
         "en-US": "This device isn't working.",
         "pt-BR": "O aparelho não funciona.",
         "es-ES": "El dispositivo no funciona."
     },
     "wczIBw": {
-        "ko-KR": "아스는 에스트와 대화 중입니다.",
         "en-US": "Ace is talking to Est.",
         "pt-BR": "Ace está falando com Est.",
         "es-ES": "Ace está hablando con Est."
     },
     "wszIBw": {
-        "ko-KR": "[아스]\n이제 중앙회의실 하나 남았습니다.",
         "en-US": "[Ace]\nNow, we've only got the central meeting room left.",
         "pt-BR": "[Ace]\nAgora, só nos resta o auditório.",
         "es-ES": "[Ace]\nAhora, solo nos queda el auditorio."
     },
     "w8zIBw": {
-        "ko-KR": "들어간다.",
         "en-US": "Enter.",
         "pt-BR": "Entrar.",
         "es-ES": "Entrar."
     },
     "xMzIBw": {
-        "ko-KR": "기다린다.",
         "en-US": "Wait.",
         "pt-BR": "Esperar.",
         "es-ES": "Esperar."
     },
     "xczIBw": {
-        "ko-KR": "[아스]\n중앙회의실의 보안등급 레벨이 올라갔습니다.\n외부로 유출되면 안되는 것이 감지 될 경우 발생하는 것인데...",
         "en-US": "[Ace]\nThe central meeting room's security level has gone up.\nThis happens if something that must not be let outside is detected.",
         "pt-BR": "[Ace]\nO nível de segurança do auditório aumentou.\nIsso acontece quando algo que não deveria vazar é detectado...",
         "es-ES": "[Ace]\nEl nivel de seguridad del auditorio aumentó.\nEso ocurre cuando se detecta algo que no debería filtrarse..."
     },
     "xszIBw": {
-        "ko-KR": "[아스]\n이걸 유지하려면 제가 밖에 있어야 합니다.\n시스템 왜 이따위로 만든걸까요.",
         "en-US": "[Ace]\nI'll have to stay outside to keep it from going up.\nGah, who created this system?",
         "pt-BR": "[Ace]\nEu tenho que estar do lado de fora para abrir a porta.\nQuem criou esse sistema? É podre.",
         "es-ES": "[Ace]\nTengo que estar afuera para abrir la puerta.\n¿Quién creó este sistema? Es pésimo."
     },
     "x8zIBw": {
-        "ko-KR": "[아스]\n먼저 보내드리고 자동 잠금장치를 해제한 뒤 바로 따라 들어가겠습니다.",
         "en-US": "[Ace]\nPlease go in first. I'll follow you after disarming the auto-locking device.",
         "pt-BR": "[Ace]\nVocê vai primeiro, eu vou depois de destravar o sistema.",
         "es-ES": "[Ace]\nTú irás primero, yo iré después de desbloquear el sistema."
     },
     "yMzIBw": {
-        "ko-KR": "[아스]\n준비가 되면 말을 걸어주세요.\n이유는 모르겠지만 최고단계까지 폐쇄를 해두었네요. 승인 유지에 시간이 걸립니다.",
         "en-US": "[Ace]\nPlease let me know when you're ready.\nFor some reason, this room has been locked at the highest security level. It'll be a while before I get the authorization.",
         "pt-BR": "[Ace]\nFale comigo quando estiver com tudo pronto.\nNão sei o motivo, mas essa sala está fechada no mais alto nível de segurança. Vou custar para ter autorização do sistema.",
         "es-ES": "[Ace]\nHáblame cuando todo esté listo.\nNo sé por qué, pero esta sala está cerrada en el nivel máximo de seguridad. Me costará obtener autorización del sistema."
     },
     "yczIBw": {
-        "ko-KR": "[아스]\n보안 시스템으로 확인 상, 내부엔 아무것도 감지되고 있지 않지만.....\n그래도 마지막 확인은 필요하니까요.",
         "en-US": "[Ace]\nAs far as I can tell through the security system, there's nothing in there,\nbut still, we need to double-check.",
         "pt-BR": "[Ace]\nPelo que vi nas câmeras, o auditório está vazio...\nTodavia, é melhor confirmar isso lá dentro.",
         "es-ES": "[Ace]\nPor lo que vi en las cámaras, el auditorio está vacío...\nAun así, es mejor confirmarlo dentro."
     },
     "yszIBw": {
-        "ko-KR": "[아스]\n에스트님으로부터 통신이 들어왔습니다.\n내부 정리는 다 하셨다고 합니다. 모두 철수 한 모양이에요.\n저희도 나가죠.",
         "en-US": "[Ace]\nI've received a message from Est.\nThe inside is mostly cleared. Everyone else has left, too.\nLet's get out of here.",
         "pt-BR": "[Ace]\nRecebemos uma mensagem da Est.\nO interior está limpo. Todos se retiraram.\nVamos cair fora daqui.",
         "es-ES": "[Ace]\nRecibimos un mensaje de Est.\nEl interior está despejado. Todos se retiraron.\nVámonos de aquí."
     },
     "y8zIBw": {
-        "ko-KR": "아스: 중앙회의실 내부는 비어 있는 것 같습니다. 들어가서 확인만 하면 되겠네요.",
         "en-US": "Ace: The central meeting room seems to be empty, but we should go in and double-check.",
         "pt-BR": "Ace: Acho que o auditório está vazio. Só precisamos entrar e verificar.",
         "es-ES": "Ace: Creo que el auditorio está vacío. Solo debemos entrar y verificar."
     },
     "zMzIBw": {
-        "ko-KR": "에스트: 그럼 난 애들이랑 연구원들 데리고 철수한다. 그래도 되겠지?",
         "en-US": "Est: Alright, then the others and I will leave with the researchers. Do you mind?",
         "pt-BR": "Est: Então, eu vou levar minha tropa e os reféns para fora aqui, combinado?",
         "es-ES": "Est: Entonces, llevaré a mi tropa y a los rehenes afuera por aquí, ¿de acuerdo?"
     },
     "zczIBw": {
-        "ko-KR": "아스: 예. 시스템상으론 아무것도 감지되지 않습니다. 이제까지의 진행을 봤을때 이미 핵심 인물이나 적들은 빠져나간 뒤였으니까요.",
         "en-US": "Ace: Not at all. I can't see anything through the system, anyway. Given the situation so far, all enemies and their leaders have left the building a long time ago.",
         "pt-BR": "Ace: Combinado. Não tem mais nenhum inimigo detectado pelo sistema e a maioria já escapou.",
         "es-ES": "Ace: De acuerdo. El sistema no detecta más enemigos y la mayoría ya escapó."
     },
     "zszIBw": {
-        "ko-KR": "에스트: 뭐야, 한 발 늦었다고 자책하는건가? 그런건 집에 가서 해!",
         "en-US": "Est: You're not blaming yourself for coming late, are you? If you're going to do that, do it at home.",
         "pt-BR": "Est: Não quero ver você se culpando se algo indetectável estiver aí dentro!",
         "es-ES": "Est: ¡No quiero verte culpándote si hay algo indetectable ahí dentro!"
     },
     "z8zIBw": {
-        "ko-KR": "고니: .... 그럼 저도.",
         "en-US": "Gony: ...Then, I'll go, too.",
         "pt-BR": "Gonie: ... Deixa que eu levo os reféns.",
         "es-ES": "Gonie: ... Deja que yo lleve a los rehenes."
     },
     "0MzIBw": {
-        "ko-KR": "에스트: 개별 연구실인가 뭔가에 연구원 몇 명 더 있던 거, 그 자들도 인솔 해 와. 중앙 로비로 나가겠어.",
         "en-US": "Est: There are a few researchers left in the personal research rooms. Pick them up on your way out. We'll go out to the central lobby.",
         "pt-BR": "Est: Acredito que ainda tinham poucos reféns nos seus dormitórios, basta levá-los para fora.",
         "es-ES": "Est: Creo que aún quedaban pocos rehenes en los dormitorios, basta con llevarlos afuera."
     },
     "0czIBw": {
-        "ko-KR": "에스트: 그 뭐냐, 고니. 너는 중앙 로비에 먼저 가서 길 확보 해. 난 강의실 애들 데리고 간다.",
         "en-US": "Est: Gony, go to the central lobby and secure a path first. I'll bring those in the lecture room.",
         "pt-BR": "Est: Goni, você vai primeiro e abre o caminho. Eu vou fazer uma última ronda por aqui, combinado?",
         "es-ES": "Est: Gonie, tú vas primero y abres camino. Yo haré una última ronda por aquí, ¿de acuerdo?"
     },
     "0szIBw": {
-        "ko-KR": "고니: (끄덕)",
         "en-US": "Gony: *Nod*",
         "pt-BR": "Goni: (concorda com a cabeça)",
         "es-ES": "Gonie: (asiente con la cabeza)"
     },
     "08zIBw": {
-        "ko-KR": "아스: 그럼 저랑 모험가님이 중앙회의실을 점검하면 되겠군요.",
         "en-US": "Ace: Then, the Adventurer and I will check the central meeting room.",
         "pt-BR": "Ace: Então, nós iremos verificar o auditório.",
         "es-ES": "Ace: Entonces, iremos a revisar el auditorio."
     },
     "1MzIBw": {
-        "ko-KR": "[에스트]\n내부에 더이상 적이 없는 것 같으니 이제 그만 철수 할 생각이다.\n중앙회의실만 점검하고 귀환 하도록 해.",
         "en-US": "[Est]\nWe're going to go because there are no more enemies on the inside.\nJust check the central meeting room before you leave, alright?",
         "pt-BR": "[Est]\nParece que não há mais inimigos lá dentro, então vou me retirar.\nSó analise o auditório antes de sair.",
         "es-ES": "[Est]\nParece que no hay más enemigos dentro, así que me retiraré.\nSolo analiza el auditorio antes de salir."
     },
     "1czIBw": {
-        "ko-KR": "고니",
         "en-US": "Gony",
         "pt-BR": "Gonie",
         "es-ES": "Gonie"
     },
     "1szIBw": {
-        "ko-KR": "[고니]\n …. ….",
         "en-US": "[Gony]\n........",
         "pt-BR": "[Gonie]\n........",
         "es-ES": "[Gonie]\n........"
     },
     "18zIBw": {
-        "ko-KR": "구속당한 실험체",
         "en-US": "Restrained Test Subject",
         "pt-BR": "Cobaia Detida",
         "es-ES": "Cobaya Restringida"
     },
     "2MzIBw": {
-        "ko-KR": "구속당한 실험체: ..가..가까이 오지마!!! 큿.. 머리가. .아파...",
         "en-US": "Restrained Test Subject: D-don't get close! Ugh! My head...",
         "pt-BR": "Cobaia Detida: ...não chegue perto!!! Argh... cabeça... ...dor...",
         "es-ES": "Cobaya Restringida: ...¡¡¡no te acerques!!! Argh... cabeza... ...dolor..."
     },
     "2czIBw": {
-        "ko-KR": "..가..가까이 오지마!!! 큿.. 머리가. .아파...",
         "en-US": "D-don't get close! Ugh! My head...",
         "pt-BR": "...não chegue perto!!! Argh... cabeça... ...dor...",
         "es-ES": "...¡¡¡no te acerques!!! Argh... cabeza... ...dolor..."
     },
     "2szIBw": {
-        "ko-KR": "구속당한 실험체: 시키는건.. 다. .할테니까.. 제발.. 풀어.. 줘...",
         "en-US": "Restrained Test Subject: I'll do whatever you say... Please... let me go...",
         "pt-BR": "Cobaia Detida: Eu faço qualquer coisa... por favor... me solte... dor...",
         "es-ES": "Cobaya Restringida: Haré lo que sea... por favor... suéltame... dolor..."
     },
     "28zIBw": {
-        "ko-KR": "구속당한 실험체: ..크크크큭...크크크큭.. 모조리 죽여 주마!!!!",
         "en-US": "Restrained Test Subject: Heh heh heh... Heh heh heh heh! I'll kill you all!",
         "pt-BR": "Cobaia Detida: ...KukKKKKKKKKKKKKKKKKKKQUK... Eu vou matar todos vocês!!!!",
         "es-ES": "Cobaya Restringida: ...KukKKKKKKKKKKKKKKKKKKQUK... ¡¡¡los mataré a todos!!!"
     },
     "3MzIBw": {
-        "ko-KR": "아스: 무슨 일이죠 ? 꺅-! 안돼! 잠금 장치가..!!",
         "en-US": "Ace: What happened? WAH! No! The locking device!",
         "pt-BR": "Ace: O que está acontecendo? AAh-! Não! A fechadura está...!!",
         "es-ES": "Ace: ¿Qué está pasando? ¡¡AAh-!! ¡No! ¡La cerradura está...!!"
     },
     "3czIBw": {
-        "ko-KR": "구속당한 실험체: 난 쓰레기가 아니야!! 괴물이 아니야!!!",
         "en-US": "Restrained Test Subject: I'm not garbage! I'm not a monster!",
         "pt-BR": "Cobaia Detida: Eu não sou lixo!! Eu não sou um monstro!!!",
         "es-ES": "Cobaya Restringida: ¡¡No soy basura!! ¡¡No soy un monstruo!!"
     },
     "3szIBw": {
-        "ko-KR": "슬픈 크로브",
         "en-US": "Sorrow Crob",
         "pt-BR": "Cobaia Descontrolada",
         "es-ES": "Cobaya del Lamento"
     },
     "38zIBw": {
-        "ko-KR": "아스: 무사하십니까?",
         "en-US": "Ace: Are you okay?",
         "pt-BR": "Ace: Você está bem?",
         "es-ES": "Ace: ¿Estás bien?"
     },
     "4MzIBw": {
-        "ko-KR": "제어장치",
         "en-US": "Controller",
         "pt-BR": "Controlador",
         "es-ES": "Controlador"
     },
     "4czIBw": {
-        "ko-KR": "용도를 알 수 없는 기판이 있다.\n중앙에 네개의 버튼이 있다.",
         "en-US": "There's a panel whose purpose is unknown.\nIt has four buttons in the center.",
         "pt-BR": "Há um painel de função desconhecida.\nCom quatro botões no centro.",
         "es-ES": "Hay un panel de función desconocida.\nCon cuatro botones en el centro."
     },
     "4szIBw": {
-        "ko-KR": "빨간 버튼",
         "en-US": "Red Button",
         "pt-BR": "Botão Vermelho",
         "es-ES": "Botón Rojo"
     },
     "48zIBw": {
-        "ko-KR": "파란 버튼",
         "en-US": "Blue Button",
         "pt-BR": "Botão Azul",
         "es-ES": "Botón Azul"
     },
     "5MzIBw": {
-        "ko-KR": "하얀 버튼",
         "en-US": "White Button",
         "pt-BR": "Botão Branco",
         "es-ES": "Botón Blanco"
     },
     "5czIBw": {
-        "ko-KR": "노란 버튼",
         "en-US": "Yellow Button",
         "pt-BR": "Botão Amarelo",
         "es-ES": "Botón Amarillo"
     },
     "5szIBw": {
-        "ko-KR": "구속당한 실험체: 크아아아아악!!!!! 네.. 네놈 무슨 짓을 한 거냐!!!!",
         "en-US": "Restrained Test Subject: Kwarrggghhh! Y-you! Wh-what did you do!?",
         "pt-BR": "Cobaia Detida: AAAAAAAAAAAAA",
         "es-ES": "Cobaya Restringida: ¡AAAAAAAAAAAAA!"
     },
     "58zIBw": {
-        "ko-KR": "크아아아아악!!!!! 네.. 네놈 무슨 짓을 한 거냐!!!!",
         "en-US": "Kwarrggghhh! Y-you! Wh-what did you do!?",
         "pt-BR": "AAAAAAAAAAAAA",
         "es-ES": "AAAAAAAAAAAAA"
     },
     "6MzIBw": {
-        "ko-KR": "중력 제어 레벨 조정... 완료. 현재 3단계 입니다.",
         "en-US": "Gravity adjustment completed. Current level: 3.",
         "pt-BR": "Ajuste do nível de dor: Nível 3.",
         "es-ES": "Ajuste del nivel de dolor: Nivel 3."
     },
     "6czIBw": {
-        "ko-KR": "구속당한 실험체: ..사.. 살려줘!! 더이상 고통 받고 싶지 않아!!!!!",
         "en-US": "Restrained Test Subject: P-please help me! I don't want to suffer like this anymore!",
         "pt-BR": "Cobaia Detida: ..sa... me salve!! Eu não quero mais sofrer!!!!!",
         "es-ES": "Cobaya Restringida: ..sa... ¡sálvame!! ¡No quiero sufrir más!!!!!"
     },
     "6szIBw": {
-        "ko-KR": "..사.. 살려줘!! 더이상 고통 받고 싶지 않아!!!!!",
         "en-US": "P-please help me! I don't want to suffer like this anymore!",
         "pt-BR": "..sa...me salve!! Eu não quero mais sofrer!!!!!",
         "es-ES": "..sa...¡sálvame!! ¡No quiero sufrir más!!!!!"
     },
     "68zIBw": {
-        "ko-KR": "구속당한 실험체: 끄아아아아아아아!!!!",
         "en-US": "Restrained Test Subject: Kwarrrggghhhh!",
         "pt-BR": "Cobaia Detida: Aaaaaaaaaa!!!!",
         "es-ES": "Cobaya Restringida: ¡Aaaaaaaaaa!!!!"
     },
     "7MzIBw": {
-        "ko-KR": "끄아아아아아아아!!!!",
         "en-US": "Kwarrrggghhhh!",
         "pt-BR": "Aaaaaaaaaa!!!!",
         "es-ES": "¡Aaaaaaaaaa!!!!"
     },
     "7czIBw": {
-        "ko-KR": "이미 조작한 기판이다.",
         "en-US": "I already used this panel.",
         "pt-BR": "Eu já usei esse painel.",
         "es-ES": "Ya usé este panel."
     },
     "7szIBw": {
-        "ko-KR": "버튼을 누른다.",
         "en-US": "Press a button.",
         "pt-BR": "Apertar o botão.",
         "es-ES": "Presionar el botón."
     },
     "78zIBw": {
-        "ko-KR": "용도를 알 수 없는 기판이 있다.\n중앙에 네개의 버튼이 있다.\n눌러도 아무런 반응이 없다.",
         "en-US": "There's a panel whose purpose is unknown.\nIt has four buttons in the center.\nNone of the buttons are responsive.",
         "pt-BR": "Há um painel de função desconhecida.\nCom quatro botões no centro.\nNenhuma resposta quando pressionado.",
         "es-ES": "Hay un panel de función desconocida.\nCon cuatro botones en el centro.\nNo hay respuesta al presionarlo."
     },
     "8MzIBw": {
-        "ko-KR": "중력 제어 레벨 조정... 완료. 현재 2단계 입니다.",
         "en-US": "Gravity adjustment completed. Current level: 2.",
         "pt-BR": "Ajuste do nível de dor: Nível 2.",
         "es-ES": "Ajuste del nivel de dolor: Nivel 2."
     },
     "8czIBw": {
-        "ko-KR": "중력 제어 레벨 조정... 완료. 현재 1단계 입니다.",
         "en-US": "Gravity adjustment completed. Current level: 1.",
         "pt-BR": "Ajuste do nível de dor: Nível 1.",
         "es-ES": "Ajuste del nivel de dolor: Nivel 1."
     },
     "8szIBw": {
-        "ko-KR": "중력 제어 레벨 조정... 완료. 중앙 구속 장치 해제합니다.",
         "en-US": "Gravity adjustment completed. Releasing the central restraining device...",
         "pt-BR": "Ajuste o Nível de Controle de Gravidade... Pronto. Solte a retenção central.",
         "es-ES": "Ajustar el Nivel de Control de Gravedad... Listo. Liberar la retención central."
     },
     "88zIBw": {
-        "ko-KR": "[아스]\n내부 정리는 모두 에스트님이 하셨습니다.\n전혀 도움이 되지 못해 죄송합니다.",
         "en-US": "[Ace]\nEst has cleared the inside on his own.\nI'm sorry I couldn't help much.",
         "pt-BR": "[Ace]\nEst limpou tudo por conta própria.\nDesculpe por não ter ajudado em nada.",
         "es-ES": "[Ace]\nEst limpió todo por su cuenta.\nLo siento por no haber ayudado en nada."
     },
     "9MzIBw": {
-        "ko-KR": "[아스]\n우선 아인브로크로 돌아가시죠.\n저는... 본사에 들렀다가 합류 하도록 하겠습니다.",
         "en-US": "[Ace]\nWhy don't you go back to Einbroch for now?\nI'll... drop by headquarters, and then join you later.",
         "pt-BR": "[Ace]\nMelhor você voltar para Einbroch.\nEu vou... passar na corporação primeiro e me juntar a você mais tarde.",
         "es-ES": "[Ace]\nSerá mejor que regreses a Einbroch.\nYo iré... primero a la corporación y me reuniré contigo más tarde."
     },
     "9czIBw": {
-        "ko-KR": "아인브로크로 이동한다.",
         "en-US": "Go to Einbroch.",
         "pt-BR": "Ir para Einbroch.",
         "es-ES": "Ir a Einbroch."
     },
     "9szIBw": {
-        "ko-KR": "리히타르젠으로 이동한다.",
         "en-US": "Go to Lighthalzen.",
         "pt-BR": "Ir para Lighthalzen.",
         "es-ES": "Ir a Lighthalzen."
     },
     "98zIBw": {
-        "ko-KR": "나가지 않는다.",
         "en-US": "Don't leave.",
         "pt-BR": "Ir para lugar nenhum.",
         "es-ES": "No ir a ningún lugar."
     },
     "+MzIBw": {
-        "ko-KR": "[아스]\n아인브로크의 '총알 탄 야옹이'에서 테스님과 카야님께서 기다리고 계실겁니다.\n저는 이 곳을 정리하고 본사에 들린 후 합류하겠습니다.",
         "en-US": "[Ace]\nTes and Kaya are waiting for you at the Cat on a Bullet in Einbroch.\nI'll join you after I finish things up in here and drop by headquarters.",
         "pt-BR": "[Ace]\nO sr. Tess e o sr. Kaya estarão esperando por você no Miado de Bala.\nVou me juntar à vocês assim que eu terminar de contabilizar meus homens.",
         "es-ES": "[Ace]\nEl sr. Tess y el sr. Kaya te estarán esperando en Maullido de Bala.\nMe reuniré con ustedes en cuanto termine de contabilizar a mis hombres."
     },
     "+czIBw": {
-        "ko-KR": "[아스]\n... 더 조사하실 부분이 있습니까?\n기다리겠습니다.",
         "en-US": "[Ace]\n... Do you want to look for a little longer?\nI'll wait for you.",
         "pt-BR": "[Ace]\n...Há mais alguma coisa que você gostaria de investigar a mais?\nEu vou esperar.",
         "es-ES": "[Ace]\n...¿Hay algo más que quieras investigar?\nEsperaré."
     },
     "+szIBw": {
-        "ko-KR": "[아스]\n연구소 밖으로 탈출하시겠습니까?",
         "en-US": "[Ace]\nDo you want to move outside the Lab?",
         "pt-BR": "[Ace]\nVocê tem certeza que quer sair daqui?",
         "es-ES": "[Ace]\n¿Estás seguro de que quieres salir de aquí?"
     },
     "+8zIBw": {
-        "ko-KR": "이동한다.",
         "en-US": "Move.",
         "pt-BR": "Sim.",
         "es-ES": "Sí."
     },
     "/MzIBw": {
-        "ko-KR": "취소",
         "en-US": "Cancel.",
         "pt-BR": "Não.",
         "es-ES": "No."
     },
     "/czIBw": {
-        "ko-KR": "[아스]\n알겠습니다.",
         "en-US": "[Ace]\nOkay.",
         "pt-BR": "[Ace]\nTudo bem.",
         "es-ES": "[Ace]\nEstá bien."

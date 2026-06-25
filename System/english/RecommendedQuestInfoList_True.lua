@@ -64,5 +64,28 @@ And your story awaits.]],
 		QuestInfo3 = {
 			"^ff0000* This page is an update introduction, not a quest. It will not be removed even after completion.^000000"
 		}
+	},
+	[80] = {
+		Title = "Episode 18: Direction of Prayer",
+		IconName = "ico_ep.bmp",
+		Summary = "What Is Happening in Rachel?",
+		NpcSpr = "4_EP17_TABLET",
+		NpcNavi = "ba_in01",
+		NpcPosX = 26,
+		NpcPosY = 266,
+		BgName = "reco_80.bmp",
+		QuestInfo1 = {
+			"The long-stalled signal analysis of the airship has finally been completed!",
+			"It seems that the remnants of Illusion are plotting something in Rachel, the capital of the theocracy Arunafeltz.",
+			"Eli decides to head to Rachel together with the adventurer."
+		},
+		QuestInfo2 = {
+			"Prerequisites",
+			"Episode ^99000017.2^000000 completed",
+			"Adventurers of ^990000level 170 or higher^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000This page is an update introduction, not a quest. Please note that it will not be removed even after completing quests.^000000"
+		}
 	}
 }

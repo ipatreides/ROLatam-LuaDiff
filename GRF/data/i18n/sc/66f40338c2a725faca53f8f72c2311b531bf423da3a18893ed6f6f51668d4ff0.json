@@ -705,7 +705,9 @@
         "es-ES": "[Lalo]\nAllá vamos.\n*Ejem*\n1,2,3,4."
     },
     "DeKmBg": {
-        "en-US": "^3377FFBragi, Bragi,z^000000\nForever call the poets name.\nMy songs are his breath,\nMy mind is his will,\nAll wandering poets are his people,\nAnd all praise shall go to him."
+        "en-US": "^3377FFBragi, Bragi,z^000000\nForever call the poets name.\nMy songs are his breath,\nMy mind is his will,\nAll wandering poets are his people,\nAnd all praise shall go to him.",
+        "pt-BR": "^3377FFBragi, Bragi,^000000\nGrita o nome, inesquecível poeta.\nMinha canção é o seu suspiro,\nMinha mente, sua intenção\nTodo bardo serve a ele,\nTodos os louvores são dele.",
+        "es-ES": "^3377FFBragi, Bragi,^000000\nsiempre llama el nombre de los poetas.\nMis canciones son su aliento,\nmi mente es su voluntad.\nTodos los poetas errantes son su pueblo,\ny toda alabanza será para él."
     },
     "DuKmBg": {
         "en-US": "[Lalo]\nWonderful! Although it was not in one try!\nGood enough to become a good Bard",
@@ -788,18 +790,28 @@
         "es-ES": "[Lalo]\nWii~, wii~, wiii~."
     },
     "HuKmBg": {
-        "en-US": "[Lalo]\nThe sadness that overcomes my heart..\nIt will not reside..\nIs this the reason behind my troubles,\nis this why I am weak,\nThis must be why I cannot seem to forget you..."
+        "en-US": "[Lalo]\nThe sadness that overcomes my heart..\nIt will not reside..\nIs this the reason behind my troubles,\nis this why I am weak,\nThis must be why I cannot seem to forget you...",
+        "pt-BR": "[Ayealo]\nMeu coração dói tantas dores\nQue ninguém pode contar.\nPorque os monstros não me dão itens bons,\nAs velhas caixas azuis acabaram,\nE nenhum item raro me resta...",
+        "es-ES": "[Lalo]\nLa tristeza que invade mi corazón… \nNo radicará…\n¿Esta es la causa de mis problemas?\n¿Esta es la causa de mi debilidad?\nEsta debe ser la razón por la que no puedo olvidarte…"
     },
     "H+KmBg": {
-        "en-US": "[Lalo]\nThe deep purple charms a person..\nThank you, I really like this flower."
+        "en-US": "[Lalo]\nThe deep purple charms a person..\nThank you, I really like this flower.",
+        "pt-BR": "[Ayealo]\nSua fragrância, de um roxo profundo, fascina as pessoas.\nAdoro esta flor, obrigado.",
+        "es-ES": "[Lalo]\nEl morado profundo deja encantadas a las personas… \nGracias, me gusta mucho esta flor."
     },
     "IOKmBg": {
-        "en-US": "[Lalo]\nWonderful! Finished it in one try!\nYou can become a great Bard."
+        "en-US": "[Lalo]\nWonderful! Finished it in one try!\nYou can become a great Bard.",
+        "pt-BR": "[Ayealo]\nExcelente! Você conseguiu de primeira! Brilhante!\nVocê dará um ótimo cantor!",
+        "es-ES": "[Lalo]\n¡Qué maravilloso! ¡Lo hiciste en un solo intento!\nPuedes convertirte en un excelente Bardo."
     },
     "IeKmBg": {
-        "en-US": "[Lalo]\nMmm? Seems like you haven't prepared all trunks the yet?\nDo you want to just change jobs anyways?"
+        "en-US": "[Lalo]\nMmm? Seems like you haven't prepared all trunks the yet?\nDo you want to just change jobs anyways?",
+        "pt-BR": "[Ayealo]\nVocê quer prosseguir com a mudança de classe?\nOu quer ganhar um presente??",
+        "es-ES": "[Lalo]\n ¿Mmm? ¿Parece que aún no has preparado todos los troncos? \n ¿Quieres cambiar de clase de todos modos?"
     },
     "IuKmBg": {
-        "en-US": "[Lalo]\nOh, and also I have a souvenir for you, too...\nSo bring back some trunks.\nDoesn't matter what kind, just 60 of the same sort..."
+        "en-US": "[Lalo]\nOh, and also I have a souvenir for you, too...\nSo bring back some trunks.\nDoesn't matter what kind, just 60 of the same sort...",
+        "pt-BR": "[Ayealo]\nE eu lhe darei seu souvenir...\nTraga me alguns troncos.\nQualquer tipo serve. Apenas traga 60 do mesmo tipo...",
+        "es-ES": "[Lalo]\n Ah y también tengo un recuerdo para ti… \n Así que tráeme algunos troncos.\n No importa de qué tipo, solo que sean 60 de la misma clase…"
     }
 }

@@ -460,7 +460,9 @@
         "es-ES": "[Hada carpintera]\nNo puedes pasar por aquí hasta que esté reparado, así que ten cuidado."
     },
     "fBRd": {
-        "en-US": "002"
+        "en-US": "002",
+        "pt-BR": "002",
+        "es-ES": "002"
     },
     "fRRd": {
         "en-US": "What if you use magic to repair it?",
@@ -1278,7 +1280,9 @@
         "es-ES": "[Yube]\n¿Tato? Tato está en la parte oeste de la ciudad."
     },
     "IBVd": {
-        "en-US": "128"
+        "en-US": "128",
+        "pt-BR": "128",
+        "es-ES": "128"
     },
     "IRVd": {
         "en-US": "[Yube]\nHuh?!\nSo no one knows how old Moreng is?",

@@ -1,660 +1,550 @@
 {
     "4Jx2DA": {
-        "ko-KR": "주운 열쇠를 오두막 열쇠구멍에 넣고 돌렸다.",
         "en-US": "I inserted the key I'd found into the cabin's keyhole and turned.",
         "pt-BR": "Coloquei a chave que encontrei na fechadura da cabana e girei.",
         "es-ES": "Metí la llave que había encontrado en la cerradura de la cabaña y la giré."
     },
     "4Zx2DA": {
-        "ko-KR": "-철컥-",
         "en-US": "-click-",
         "pt-BR": "-clique-",
         "es-ES": "-clic-"
     },
     "4px2DA": {
-        "ko-KR": "문이 열리지 않는다. 잠겨있는 것 같다.",
         "en-US": "The door wouldn't open. It's locked.",
         "pt-BR": "A porta não abre. Parece estar trancada.",
         "es-ES": "La puerta no se abre. Parece que está cerrada con llave."
     },
     "45x2DA": {
-        "ko-KR": "- 팁이 있습니다.\n- 팁을 보시겠습니까?",
         "en-US": "- Here's a hint.\n- Would you like to see the hint?",
         "pt-BR": "- Há uma dica.\n- Quer ver a dica?",
         "es-ES": "- Hay una pista.\n- ¿Quieres ver la pista?"
     },
     "5Jx2DA": {
-        "ko-KR": "팁을 본다.",
         "en-US": "View the hint.",
-        "pt-BR": "Vejo a dica.",
+        "pt-BR": "Ver a dica.",
         "es-ES": "Miro la pista."
     },
     "5Zx2DA": {
-        "ko-KR": "보지 않는다.",
         "en-US": "Don't look.",
-        "pt-BR": "Não vejo.",
+        "pt-BR": "Não ver.",
         "es-ES": "No lo veo."
     },
     "5px2DA": {
-        "ko-KR": "- 루루카 깊은 숲 메모리얼 던전에서\n- 특정 오브젝트를 사용 또는\n- 활성화하려면, 관련한 도구를\n- 찾아야 사용을 할 수 있습니다.",
         "en-US": "- In the Luluka Deep Forest Memorial Dungeon,\n- to use or activate certain objects,\n- you must find the relevant tools.",
-        "pt-BR": "- Na Masmorra Memorial da Floresta Profunda de Luluka,\n- para usar ou\n- ativar determinados objetos,\n- é preciso encontrar a ferramenta correspondente\n- para poder usá-los.",
+        "pt-BR": "- Na Masmorra Memorial da Floresta Profunda de Luluka,\n- para usar ou ativar \n- determinados objetos,\n- é preciso encontrar a ferramenta correspondente\n- para poder usá-los.",
         "es-ES": "- En la mazmorra conmemorativa del Bosque Profundo de Luluka,\n- para usar o\n- activar ciertos objetos,\n- debes encontrar la herramienta correspondiente\n- para poder usarlos."
     },
     "55x2DA": {
-        "ko-KR": "- 예를 들면 이 오두막에\n- 들어가기 위해서는 열쇠가\n- 필요합니다. 오두막 주변에서\n- 오두막 열쇠를 찾아보세요.",
         "en-US": "- For example, this cabin -\n- requires the door key -\n- to enter. Look for a key -\n- around it. -",
-        "pt-BR": "- Por exemplo, para entrar nesta cabana,\n- é preciso uma chave.\n- Procure a chave da cabana\n- nos arredores da cabana.",
+        "pt-BR": "- Por exemplo, para entrar nesta cabana,\n- é preciso ter uma chave.\n- Procure pela chave da cabana\n- nos arredores da cabana.",
         "es-ES": "- Por ejemplo, para entrar\n- en esta cabaña, necesitas\n- una llave. Busca\n- la llave de la cabaña por los alrededores."
     },
     "6Jx2DA": {
-        "ko-KR": "그만 본다.",
         "en-US": "I'm done watching.",
         "pt-BR": "Chega de ver.",
         "es-ES": "Ya basta."
     },
     "6Zx2DA": {
-        "ko-KR": "다시 본다.",
         "en-US": "Read again.",
         "pt-BR": "Ver de novo.",
         "es-ES": "Volver a ver."
     },
     "6px2DA": {
-        "ko-KR": "꽃 덤불",
         "en-US": "Flower Bushes",
-        "pt-BR": "Arbusto de flores",
-        "es-ES": "Matorral de flores"
+        "pt-BR": "Arbusto de Flores",
+        "es-ES": "Arbusto de Flores"
     },
     "65x2DA": {
-        "ko-KR": "오두막 옆 작은 꽃의 줄기들이 얼기설기 얽혀 꽃 덤불이 되어있다.",
         "en-US": "Small flower stems are tangled together haphazardly beside the cabin, forming flower bushes.",
-        "pt-BR": "Ao lado da cabana, pequenos caules de flores estão entrelaçados, formando um arbusto de flores.",
+        "pt-BR": "Ao lado da cabana, pequenos ramos de flores estão entrelaçados, formando um arbusto de flores.",
         "es-ES": "Junto a la cabaña, los tallos de unas pequeñas flores se entrelazan formando un matorral."
     },
     "7Jx2DA": {
-        "ko-KR": "자세히 보니 반짝이는 물건이 아래 있는 것 같기도 하다.",
         "en-US": "Looking closely, it seems like there might be a shiny object below.",
-        "pt-BR": "Olhando mais de perto, parece que há um objeto brilhante lá embaixo.",
+        "pt-BR": "Olhando mais de perto, parece que há um objeto brilhante na parte de baixo.",
         "es-ES": "Si miras de cerca, parece que hay algo brillante ahí abajo."
     },
     "7Zx2DA": {
-        "ko-KR": "꽃 덤불을 뒤져본다.",
         "en-US": "Check the flower bushes.",
-        "pt-BR": "Procuro no arbusto de flores.",
+        "pt-BR": "Procurar no arbusto de flores.",
         "es-ES": "Revisa el matorral de flores."
     },
     "7px2DA": {
-        "ko-KR": "그냥 둔다.",
         "en-US": "Leave it as it is.",
-        "pt-BR": "Deixo assim.",
+        "pt-BR": "Deixar como está.",
         "es-ES": "Lo dejo así."
     },
     "75x2DA": {
-        "ko-KR": "꽃 덤불 아래에서 반짝이는 물건을 주웠다.",
         "en-US": "I picked up something shiny from the bottom of the flower bushes.",
         "pt-BR": "Peguei um objeto brilhante debaixo do arbusto de flores.",
         "es-ES": "Recogí el objeto brillante que estaba debajo del matorral de flores."
     },
     "8Jx2DA": {
-        "ko-KR": "열쇠 같은데? 어디 열쇠지?",
         "en-US": "A key? For what?",
         "pt-BR": "Parece uma chave, né? De onde será essa chave?",
         "es-ES": "¿Parece una llave? ¿De dónde será?"
     },
     "8Zx2DA": {
-        "ko-KR": "꽃 덤불이 있다. 여기에서 조금 전에 열쇠를 주웠지?",
         "en-US": "There are flower bushes. I found a key here earlier.",
         "pt-BR": "Tem um arbusto de flores. Foi aqui que peguei a chave há pouco, não foi?",
         "es-ES": "Hay un matorral de flores. ¿No fue aquí donde recogí la llave hace un rato?"
     },
     "8px2DA": {
-        "ko-KR": "창고",
         "en-US": "Storage",
         "pt-BR": "Depósito",
         "es-ES": "Almacén"
     },
     "85x2DA": {
-        "ko-KR": "호미, 양동이, 도끼 같은 도구들이 쌓여있다.",
         "en-US": "It's filled with hoes, buckets, axes, and other tools.",
         "pt-BR": "Há ferramentas empilhadas, como enxadas, baldes e machados.",
         "es-ES": "Hay herramientas apiladas: azadas, cubetas, hachas."
     },
     "9Jx2DA": {
-        "ko-KR": "어휴- 먼지 정리 좀 하시지.",
         "en-US": "Geez, it's so dusty in here!",
         "pt-BR": "Nossa... Dá uma limpada nessa poeira aí.",
         "es-ES": "Ay, ¿por qué no limpias un poco el polvo?"
     },
     "9Zx2DA": {
-        "ko-KR": "작은 샘",
         "en-US": "Small Spring",
-        "pt-BR": "Pequena fonte",
+        "pt-BR": "Pequena nascente",
         "es-ES": "Pequeña fuente"
     },
     "9px2DA": {
-        "ko-KR": "맑은 물이 퐁퐁- 솟아오르고 있는 작은 샘이다.",
         "en-US": "Clear water is bubbling up from this small spring.",
-        "pt-BR": "É uma pequena fonte de onde jorra água cristalina.",
+        "pt-BR": "É uma pequena nascente de onde jorra água cristalina.",
         "es-ES": "Es un pequeño manantial del que brota agua cristalina."
     },
     "95x2DA": {
-        "ko-KR": "팻말",
         "en-US": "Sign",
         "pt-BR": "Placa",
         "es-ES": "Cartel"
     },
     "+Jx2DA": {
-        "ko-KR": "샘물에 대한 안내문이 쓰여 있다.",
         "en-US": "Information about the spring is written on the sign.",
         "pt-BR": "Tem um aviso sobre a água da fonte.",
         "es-ES": "Hay un letrero con información sobre el agua del manantial."
     },
     "+Zx2DA": {
-        "ko-KR": "[샘물 수질 부적합 안내]\n- 이 샘물은 수질검사 결과\n- 음용하기에는 부적합 함을 알립니다.",
         "en-US": "[Warning: Poor Water Quality]\n- The water from this spring was tested and found\n- not suitable for drinking purposes.",
         "pt-BR": "[Aviso de água imprópria para consumo]\n- Informamos que, de acordo com os resultados dos testes de qualidade,\n- esta água não é adequada para consumo.",
         "es-ES": "[Aviso de agua no apta para el consumo]\n- Te informamos que, según los resultados de los análisis de calidad del agua,\n- esta fuente no es apta para el consumo."
     },
     "+px2DA": {
-        "ko-KR": "- 생수로 마시면, 건강을 해칠 수\n- 있으니 반드시 정수 작업을 마친 후\n- 마시기 바랍니다.",
         "en-US": "- Drinking it directly out of the spring can be -\n- harmful to your health. Please purify it -\n- before you drink. -",
-        "pt-BR": "- Beber a água sem tratar pode prejudicar\n- a saúde, por isso, por favor,\n- beba somente após a purificação.",
+        "pt-BR": "- Beber a água sem tratar pode prejudicar\n- a saúde, por isso, por favor,\n- beba somente após a filtrá-la.",
         "es-ES": "- Si la bebes sin tratar, puede ser perjudicial\n- para la salud, así que asegúrate de\n- purificarla antes de beberla."
     },
     "+5x2DA": {
-        "ko-KR": "바로 마시지 말고 정수 작업을 마친 후에 마시라는 것 같다.",
         "en-US": "It seems to mean not to drink it directly but to purify it first.",
-        "pt-BR": "Parece que não dá pra beber direto, só depois de passar por um processo de purificação.",
+        "pt-BR": "Parece que não dá pra beber direto, só depois de passar por um processo de filtragem.",
         "es-ES": "Parece que no debes beberla directamente, sino después de purificarla."
     },
     "/Jx2DA": {
-        "ko-KR": "이런 식물을 캐보면, 먹을 수 있는게 달려있었지 아마?",
         "en-US": "If you dig up a plant like this, it probably has something edible attached, right?",
-        "pt-BR": "Se a gente colher essa planta, provavelmente tem algo comestível nela, né?",
+        "pt-BR": "Se a gente colher essa planta, provavelmente tem algo que possa comer, né?",
         "es-ES": "Si desenterraras esta planta, seguro que encontraría algo comestible, ¿no?"
     },
     "/Zx2DA": {
-        "ko-KR": "뭐 엄청 배고프지 않으면, 안 먹겠지만..",
         "en-US": "Well, I wouldn't want to eat them unless I'm starving.",
         "pt-BR": "Bem, a menos que eu estivesse com muita fome, não comeria...",
         "es-ES": "Bueno, a menos que tengas mucha hambre, no te lo comerías..."
     },
     "/px2DA": {
-        "ko-KR": "누군가의 무덤",
         "en-US": "Someone's Grave",
-        "pt-BR": "O túmulo de alguém",
-        "es-ES": "La tumba de alguien"
+        "pt-BR": "Túmulo de Alguém",
+        "es-ES": "Tumba de Alguien"
     },
     "/5x2DA": {
-        "ko-KR": "사는 동안 늘 변함없이\n나를 맞이하던 숲이었지만, 네가\n떠나던 그날은 유난히도 햇살이\n차가운 날이었다.\n나와 평생을 함께했던 나의 친구\n편안하게 잠들기를..",
         "en-US": "This forest always felt welcoming\nfor as long as I remember, but on the day\nyou left, the sunlight felt\nespecially cold.\nMy buddy, you'll be with me forever.\nNow, rest in peace.",
-        "pt-BR": "Durante toda a minha vida, essa floresta\nsempre me recebeu com a mesma cordialidade, mas no dia em que você\npartiu, o sol estava\nexcepcionalmente frio.\nMeu amigo, que passou a vida inteira comigo,\nque você descanse em paz...",
+        "pt-BR": "Durante toda a minha vida, essa floresta\nsempre me acolheu bem,\nmas no dia em que você partiu,\no sol estava excepcionalmente frio.\nMeu amigo, você estará sempre comigo.\nDescanse em paz.",
         "es-ES": "Durante toda mi vida, este bosque siempre me recibió\nsin cambiar, pero el día que te\nfuiste, el sol brillaba\ncon una frialdad inusual.\nMi amigo, que estuvo conmigo toda la vida,\nque descanse en paz..."
     },
     "AJ12DA": {
-        "ko-KR": "떠나간 친구를 그리워하는 비문이 적힌 묘비이다.",
         "en-US": "This tombstone bears an inscription mourning a departed friend.",
-        "pt-BR": "É uma lápide com uma inscrição que expressa a saudade do amigo que partiu.",
+        "pt-BR": "É uma lápide com uma inscrição que expressa a saudade de um amigo que partiu.",
         "es-ES": "Es una lápida con una inscripción que expresa el recuerdo de un amigo que se fue."
     },
     "AZ12DA": {
-        "ko-KR": "야생동물의 흔적",
         "en-US": "Wild Animal Trace",
         "pt-BR": "Vestígios de animais selvagens",
         "es-ES": "Rastros de animales salvajes"
     },
     "Ap12DA": {
-        "ko-KR": "야생동물이 지나다닌 흔적 같다.",
         "en-US": "It looks like traces of wild animals passing through.",
         "pt-BR": "Parecem rastros de animais selvagens.",
         "es-ES": "Parece que por aquí han pasado animales salvajes."
     },
     "A512DA": {
-        "ko-KR": "주변에 위험한 동물이라도 사는 걸까?",
         "en-US": "Are there any dangerous animals living around here?",
         "pt-BR": "Será que há algum animal perigoso por aqui?",
         "es-ES": "¿Habrá algún animal peligroso por aquí?"
     },
     "BJ12DA": {
-        "ko-KR": "조잡한 함정",
         "en-US": "Rough Trap",
         "pt-BR": "Armadilha rudimentar",
         "es-ES": "Una trampa rudimentaria"
     },
     "BZ12DA": {
-        "ko-KR": "조잡하게 만들어 둔 함정이다.",
         "en-US": "It's a makeshift trap.",
         "pt-BR": "É uma armadilha feita de qualquer jeito.",
         "es-ES": "Es una trampa hecha de cualquier cosa."
     },
     "Bp12DA": {
-        "ko-KR": "야생동물이 이 함정에 걸리기는 할까?",
         "en-US": "Will wild animals actually get caught in this trap?",
         "pt-BR": "Será que algum animal selvagem vai cair nessa armadilha?",
         "es-ES": "¿Se atrapará algún animal silvestre en esta trampa?"
     },
     "B512DA": {
-        "ko-KR": "잡목을 쌓아둔 장소",
         "en-US": "Piled Wood",
         "pt-BR": "Local onde estão empilhados galhos",
         "es-ES": "Lugar donde se apilan matorrales"
     },
     "CJ12DA": {
-        "ko-KR": "잘라둔 나무가 어지럽게 쌓여 있다.",
         "en-US": "Cut trees are messily piled up here and there.",
         "pt-BR": "As árvores cortadas estão empilhadas de qualquer jeito.",
         "es-ES": "Los troncos cortados están apilados desordenadamente."
     },
     "CZ12DA": {
-        "ko-KR": "곳곳에 도끼 자국이 있는 걸 보면, 이곳에서 장작을 패는 건가?",
         "en-US": "There are axe marks everywhere, too. This must be where firewood is chopped.",
         "pt-BR": "Pelas marcas de machado espalhadas por todo o lado, será que cortam lenha aqui?",
         "es-ES": "Por las marcas de hacha que se ven por todas partes, ¿será que aquí se corta leña?"
     },
     "Cp12DA": {
-        "ko-KR": "운영자 체크",
         "en-US": "Operator Check",
         "pt-BR": "Verificação do administrador",
         "es-ES": "Verificación del administrador"
     },
     "C512DA": {
-        "ko-KR": "진행도----------\n던전{0} | 새이동{1} | 망함{2} |\n날자{3} | 날자확인{4} |\n도구----------\n열쇠{5} |\n호미{6} | 양동이{7} | 물뜸{8} |\n함정L{9} | 함정R{10} |\n생존품----------\n식량{11} | 수량{12} | 불상태{13} |\n펫\n알체크{14} | 팔콘체크{15} | 워그체크{16} |",
         "en-US": "Progress----------\nDungeon{0} | New Movement{1} | Failure{2} |\nDate{3} | Date Confirmation{4} |\nTools----------\nKey{5} |\nHoe{6} | Bucket{7} | Water{8} |\nTrapL{9} | TrapR{10} |\nSurvival Items----------\nFood{11} | Quantity{12} | Fire Status{13} |\nPet\nEgg Check{14} | Falcon Check{15} | Warg Check{16} |",
-        "pt-BR": "Progresso----------\nMasmorra{0} | Novo deslocamento{1} | Falha{2} |\nData{3} | Confirmar data{4} |\nFerramentas----------\nChave{5} |\nEnxada{6} | Balde{7} | Bala de água{8} |\nArmadilha L{9} | Armadilha R{10} |\nItens de sobrevivência----------\nComida{11} | Quantidade{12} | Estado do fogo{13} |\nAnimais de estimação\nOvo{14} | Falcão{15} | Warg{16} |",
+        "pt-BR": "Progresso----------\nMasmorra{0} | Novo deslocamento{1} | Falha{2} |\nData{3} | Confirmar data{4} |\nFerramentas----------\nChave{5} |\nEnxada{6} | Balde{7} | Bala de água{8} |\nArmadilha L{9} | Armadilha R{10} |\nItens de sobrevivência----------\nComida{11} | Quantidade{12} | Estado do fogo{13} |\nAnimais de estimação\nOvo{14} | Falcão{15} | Worg{16} |",
         "es-ES": "Progreso----------\nMazmorra{0} | Nuevo movimiento{1} | Fracaso{2} |\nFecha{3} | Confirmar fecha{4} |\nHerramientas----------\nLlave{5} |\nAzada{6} | Cubeta{7} | Cubo de agua{8} |\nTrampa L{9} | Trampa R{10} |\nArtículos de supervivencia----------\nComida{11} | Cantidad{12} | Estado del fuego{13} |\nMascotas\nHuevo{14} | Halcón{15} | Cuervo{16} |"
     },
     "DJ12DA": {
-        "ko-KR": "식량세팅",
         "en-US": "Food Settings",
         "pt-BR": "Configuração de comida",
         "es-ES": "Configuración de comida"
     },
     "DZ12DA": {
-        "ko-KR": "식수세팅",
         "en-US": "Water setting",
         "pt-BR": "Configuração de água",
         "es-ES": "Configuración de agua"
     },
     "Dp12DA": {
-        "ko-KR": "망포인트초기화",
-        "en-US": "Reset Fail Points",
+        "en-US": "Reset Control Points",
         "pt-BR": "Redefinir pontos de controle",
         "es-ES": "Inicializar puntos de control"
     },
     "D512DA": {
-        "ko-KR": "펫진행도점프",
         "en-US": "Pet Growth Jump",
         "pt-BR": "Avançar no progresso do animal de estimação",
         "es-ES": "Saltar progreso de mascotas"
     },
     "EJ12DA": {
-        "ko-KR": "범위오류",
         "en-US": "Out of range",
-        "pt-BR": "Erro de alcance",
+        "pt-BR": "Fora de alcance",
         "es-ES": "Error de rango"
     },
     "EZ12DA": {
-        "ko-KR": "식량 세팅완료",
         "en-US": "Food setting completed",
         "pt-BR": "Configuração de comida concluída",
         "es-ES": "Configuración de comida completada"
     },
     "Ep12DA": {
-        "ko-KR": "식수 세팅완료",
-        "en-US": "Water setting completed.",
+        "en-US": "Water setting completed",
         "pt-BR": "Configuração de água concluída",
         "es-ES": "Configuración de agua completada"
     },
     "E512DA": {
-        "ko-KR": "망포인트초기화",
-        "en-US": "Reset Fail Points",
+        "en-US": "Reset Control Points",
         "pt-BR": "Redefinir pontos de controle",
         "es-ES": "Inicializar puntos de control"
     },
     "FJ12DA": {
-        "ko-KR": "펫\n알체크{0} | 팔콘체크{1} | 워그체크{2} |\n상황에 따라 순서대로 진행 바랍니다.",
         "en-US": "Pet\nCheck Egg {0} | Check Falcon {1} | Check Warg {2} |\nPlease proceed in order depending on the situation.",
-        "pt-BR": "Pet\nVerificação de Ovo {0} | Verificação de Falcão {1} | Verificação de Warg {2} |\nSiga a ordem conforme a situação.",
+        "pt-BR": "Pet\nVerificação de Ovo {0} | Verificação de Falcão {1} | Verificação de Worg {2} |\nSiga a ordem conforme a situação.",
         "es-ES": "Mascotas\nRevisión de huevos {0} | Revisión de halcones {1} | Revisión de buitres {2} |\nSigue el orden según la situación."
     },
     "FZ12DA": {
-        "ko-KR": "10",
         "en-US": "10",
         "pt-BR": "10",
         "es-ES": "10"
     },
     "Fp12DA": {
-        "ko-KR": "60",
         "en-US": "60",
         "pt-BR": "60",
         "es-ES": "60"
     },
     "F512DA": {
-        "ko-KR": "99",
         "en-US": "99",
         "pt-BR": "99",
         "es-ES": "99"
     },
     "GJ12DA": {
-        "ko-KR": "다양한 도구가 쌓여있다. 필요한 것을 쓰고 가져다 두면 될 것 같다.",
         "en-US": "Various tools are stacked here. I can use what I need and bring them back here.",
         "pt-BR": "Há várias ferramentas empilhadas. Basta usar o que for necessário e guardá-las depois.",
         "es-ES": "Hay varias herramientas apiladas. Parece que basta con usar lo que necesites y dejarlo ahí."
     },
     "GZ12DA": {
-        "ko-KR": "호미",
         "en-US": "Hoe",
         "pt-BR": "Enxada",
         "es-ES": "Azada"
     },
     "Gp12DA": {
-        "ko-KR": "양동이",
         "en-US": "Water Bucket",
         "pt-BR": "Balde",
         "es-ES": "Cubo"
     },
     "G512DA": {
-        "ko-KR": "도끼",
         "en-US": "Axe",
         "pt-BR": "Machado",
         "es-ES": "Hacha"
     },
     "HJ12DA": {
-        "ko-KR": "도구를 반납한다.",
         "en-US": "Return the tool.",
-        "pt-BR": "Devolvo as ferramentas.",
+        "pt-BR": "Devolver as ferramentas.",
         "es-ES": "Devuelves las herramientas."
     },
     "HZ12DA": {
-        "ko-KR": "호미를 창고에서 꺼냈다.",
         "en-US": "I removed a hoe from the storage.",
         "pt-BR": "Tirei a enxada do depósito.",
         "es-ES": "Saqué la azada del almacén."
     },
     "Hp12DA": {
-        "ko-KR": "양동이를 창고에서 꺼냈다.",
         "en-US": "I took a bucket out of the storage.",
         "pt-BR": "Tirei o balde do depósito.",
         "es-ES": "Saqué el balde del almacén."
     },
     "H512DA": {
-        "ko-KR": "도끼를 창고에서 꺼냈다.",
         "en-US": "I took an axe out of the storage.",
         "pt-BR": "Tirei o machado do galpão.",
         "es-ES": "Saqué el hacha del almacén."
     },
     "IJ12DA": {
-        "ko-KR": "모든 도구를 창고에 넣었다.",
         "en-US": "I put all the tools in the storage.",
         "pt-BR": "Guardei todas as ferramentas no galpão.",
         "es-ES": "Guardé todas las herramientas en el almacén."
     },
     "IZ12DA": {
-        "ko-KR": "양동이로 물을 뜰까?",
         "en-US": "Should I draw some water with my water bucket?",
         "pt-BR": "Vou pegar água com o balde?",
         "es-ES": "¿Saco agua con el balde?"
     },
     "Ip12DA": {
-        "ko-KR": "양동이로 물을 뜬다.",
         "en-US": "Draw water with a bucket.",
         "pt-BR": "Vou pegar água com o balde.",
         "es-ES": "Saco agua con el balde."
     },
     "I512DA": {
-        "ko-KR": "그냥 간다.",
         "en-US": "Just go.",
-        "pt-BR": "Vou simplesmente.",
+        "pt-BR": "Só vou.",
         "es-ES": "Me voy sin más."
     },
     "JJ12DA": {
-        "ko-KR": "양동이에 물이 가득 담겼다.",
         "en-US": "The bucket is filled with water.",
         "pt-BR": "O balde está cheio de água.",
         "es-ES": "El balde está lleno de agua."
     },
     "JZ12DA": {
-        "ko-KR": "물은 이미 떴잖아.",
         "en-US": "I already drew water.",
         "pt-BR": "Já tirei a água, né?",
         "es-ES": "Ya sacaste el agua."
     },
     "Jp12DA": {
-        "ko-KR": "오두막 안에 있는 식수통에 부어놓자.",
         "en-US": "I should pour the water into the water bottle in the cabin.",
         "pt-BR": "Vamos despejar no galão de água que está dentro da cabana.",
         "es-ES": "Vamos a verterlo en el bidón de agua potable que hay dentro de la cabaña."
     },
     "J512DA": {
-        "ko-KR": "캐서 먹을만한 것을 구할까?",
         "en-US": "Should I dig and find something to eat?",
         "pt-BR": "Será que consigo encontrar algo comestível para cavar?",
         "es-ES": "¿Buscamos algo comestible?"
     },
     "KJ12DA": {
-        "ko-KR": "호미로 캔다.",
         "en-US": "Dig with a hoe.",
         "pt-BR": "Cavo com a enxada.",
         "es-ES": "Cavo con la azada."
     },
     "KZ12DA": {
-        "ko-KR": "먹을만한 식량을 얻었다.",
         "en-US": "I've found something to eat.",
         "pt-BR": "Consegui comida.",
         "es-ES": "Conseguiste comida."
     },
     "Kp12DA": {
-        "ko-KR": "이 풀 아래를 캐보면, 먹을 만한 것을 얻을 수 있다.",
         "en-US": "Digging beneath this plant may yield something edible.",
         "pt-BR": "Se cavarmos debaixo dessa erva, podemos conseguir algo comestível.",
         "es-ES": "Si cavas debajo de esta hierba, puedes conseguir algo comestible."
     },
     "K512DA": {
-        "ko-KR": "호미 같은 게 있으면 될 것 같은데..",
         "en-US": "I need a hoe to dig it out.",
         "pt-BR": "Acho que bastaria ter algo como uma enxada...",
         "es-ES": "Creo que con algo como una azada bastaría..."
     },
     "LJ12DA": {
-        "ko-KR": "야생동물의 흔적이다. 위험한 동물이 아니면 좋겠는데.",
         "en-US": "There are traces of wild animals. I hope they're not dangerous.",
         "pt-BR": "São rastros de animais selvagens. Espero que não seja um animal perigoso.",
         "es-ES": "Son rastros de animales salvajes. Ojalá no sean animales peligrosos."
     },
     "LZ12DA": {
-        "ko-KR": "함정을 설치해볼까? 운 좋으면, 식량을 얻을 수도 있고.",
         "en-US": "Should I set up a trap? If I'm lucky, I might get some food.",
         "pt-BR": "Será que eu instalo uma armadilha? Se tiver sorte, talvez consiga comida.",
         "es-ES": "¿Pongo una trampa? Con suerte, tal vez consiga comida."
     },
     "Lp12DA": {
-        "ko-KR": "함정을 설치한다.",
         "en-US": "Set up a trap.",
-        "pt-BR": "Arranjo uma armadilha.",
+        "pt-BR": "Montar uma armadilha.",
         "es-ES": "Pones la trampa."
     },
     "L512DA": {
-        "ko-KR": "주변의 식물 줄기들로 얼기설기 함정을 설치했다.",
         "en-US": "Using plant vines from the surroundings, I've set up a makeshift trap.",
         "pt-BR": "Usei os caules das plantas ao redor para montar uma armadilha improvisada.",
         "es-ES": "He armado una trampa con los tallos de las plantas de los alrededores."
     },
     "MJ12DA": {
-        "ko-KR": "내가 만들었지만, 딱히 뭔가 잡힐 것 같지 않은데?",
         "en-US": "I made it, but I doubt it can catch anything.",
         "pt-BR": "Fui eu quem fiz, mas não parece que vai pegar nada, né?",
         "es-ES": "Aunque la hice yo, ¿no parece que vaya a atrapar nada?"
     },
     "MZ12DA": {
-        "ko-KR": "식물 줄기로 대충 만들어둔 함정이다.",
         "en-US": "It's a makeshift trap woven with plant vines.",
         "pt-BR": "É uma armadilha feita às pressas com galhos de plantas.",
         "es-ES": "Es una trampa hecha a toda prisa con tallos de plantas."
     },
     "Mp12DA": {
-        "ko-KR": "큰 기대는 하지 말자.",
         "en-US": "Don't get your hopes up.",
         "pt-BR": "Não vamos criar muitas expectativas.",
         "es-ES": "No esperes mucho."
     },
     "M512DA": {
-        "ko-KR": "세상에?! 이런 함정에 걸렸다고?",
         "en-US": "What the...?",
-        "pt-BR": "Meu Deus?! Caíste nessa armadilha?",
+        "pt-BR": "O quê? Não acredito...",
         "es-ES": "¡¿Qué?! ¿Te has quedado atrapado en una trampa como esta?"
     },
     "NJ12DA": {
-        "ko-KR": "어디 볼까? 어...",
         "en-US": "Let's see... Erm...",
         "pt-BR": "Deixa eu dar uma olhada... Hum...",
         "es-ES": "¿A ver qué es? Eh..."
     },
     "NZ12DA": {
-        "ko-KR": "아직 작은 생명체 같은데 어쩌지? 일단 데려갈까?",
         "en-US": "It's such a tiny animal. What do I do? Should I take it with me?",
         "pt-BR": "Parece ser um pequeno ser vivo... O que faço? Levo ele comigo por enquanto?",
         "es-ES": "Todavía parece un bichito, ¿qué hago? ¿Lo llevo conmigo por ahora?"
     },
     "Np12DA": {
-        "ko-KR": "방치한다.",
         "en-US": "Leave it where it is.",
-        "pt-BR": "Deixo lá.",
+        "pt-BR": "Deixa pra lá.",
         "es-ES": "Lo dejo ahí."
     },
     "N512DA": {
-        "ko-KR": "데려간다.",
         "en-US": "Take it.",
         "pt-BR": "Vou levá-lo.",
         "es-ES": "Me lo llevo."
     },
     "OJ12DA": {
-        "ko-KR": "식량으로 사용한다.",
         "en-US": "Use it as food.",
         "pt-BR": "Vou usá-lo como alimento.",
         "es-ES": "Lo uso como comida."
     },
     "OZ12DA": {
-        "ko-KR": "그냥 둬야겠다. 운이 좋다면, 살아남겠지.",
         "en-US": "I'll just leave it where it is. If it's meant to live, then it'll survive.",
         "pt-BR": "Vou deixar ele lá. Se tiver sorte, vai sobreviver.",
         "es-ES": "Mejor lo dejo ahí. Si tiene suerte, sobrevivirá."
     },
     "Op12DA": {
-        "ko-KR": "그래! 데려가는 거야.",
         "en-US": "Alright! I'll take it with me.",
         "pt-BR": "É isso aí! Vou levá-lo.",
         "es-ES": "¡Sí! Me lo llevo."
     },
     "O512DA": {
-        "ko-KR": "따듯한 오두막에 데려가면, 어떻게든 되겠지.",
         "en-US": "If I take it to the warm cabin, it'll be fine somehow.",
         "pt-BR": "Se eu o levar para uma cabana quentinha, vai dar tudo certo.",
         "es-ES": "Si lo llevo a una cabaña calentita, seguro que se las arregla."
     },
     "PJ12DA": {
-        "ko-KR": "이것 또한 자연의 섭리겠지.",
         "en-US": "This too is a law of nature.",
         "pt-BR": "Isso também deve ser a mão da natureza.",
         "es-ES": "Supongo que esto también es el orden natural de las cosas."
     },
     "PZ12DA": {
-        "ko-KR": "오?! 뭔가 걸렸는데.",
         "en-US": "Oh?! I've caught something!",
         "pt-BR": "Oi?! Algo mordeu a isca.",
         "es-ES": "¡Oh! Algo se ha enganchado."
     },
     "Pp12DA": {
-        "ko-KR": "식량을 챙긴다.",
         "en-US": "Pick up the food.",
         "pt-BR": "Vou pegar comida.",
         "es-ES": "Recojo comida."
     },
     "P512DA": {
-        "ko-KR": "뭐 당장 식량이 급한 건 아니니까.",
         "en-US": "Well, I don't need more food right now.",
         "pt-BR": "Bem, não é como se precisássemos de comida agora.",
         "es-ES": "Bueno, no es que necesite comida ya mismo."
     },
     "QJ12DA": {
-        "ko-KR": "벽난로에 넣을 장작을 해갈까?",
         "en-US": "Should I chop some firewood for the fireplace?",
         "pt-BR": "Será que corto lenha para a lareira?",
         "es-ES": "¿Corto leña para la chimenea?"
     },
     "QZ12DA": {
-        "ko-KR": "장작을 팬다.",
         "en-US": "Chop the wood.",
         "pt-BR": "Corto lenha.",
         "es-ES": "Corto leña."
     },
     "Qp12DA": {
-        "ko-KR": "벽난로에 넣을 장작을 얻었다.",
         "en-US": "I've obtained some firewood for the fireplace.",
         "pt-BR": "Consegui lenha para a lareira.",
         "es-ES": "Ya tengo leña para la chimenea."
     },
     "Q512DA": {
-        "ko-KR": "장작은 이 정도면 충분해.",
         "en-US": "This should be enough firewood for now.",
         "pt-BR": "Essa quantidade de lenha já dá.",
         "es-ES": "Con esta cantidad de leña ya es suficiente."
     },
     "RJ12DA": {
-        "ko-KR": "목재를 구하려면, 여기서 도끼로 장작을 좀 패야겠는걸?",
         "en-US": "To get wood, I guess I'll have to chop some firewood here with an axe?",
         "pt-BR": "Para conseguir madeira, vou ter que cortar um pouco de lenha com o machado aqui, né?",
         "es-ES": "Para conseguir madera, ¿tendré que cortar un poco de leña con el hacha aquí?"
     },
     "RZ12DA": {
-        "ko-KR": "그동안 유용하게 사용한 도구들이다.",
         "en-US": "These are the tools I've found useful over time.",
         "pt-BR": "São ferramentas que usei bastante até agora.",
         "es-ES": "Estas son las herramientas que me han servido de mucho hasta ahora."
     },
     "Rp12DA": {
-        "ko-KR": "부서진 건 없겠지?",
         "en-US": "Nothing's broken, I hope.",
         "pt-BR": "Não deve ter quebrado nada, né?",
         "es-ES": "¿No se habrá roto nada?"
     },
     "R512DA": {
-        "ko-KR": "그동안 맑은 물을 제공해줬던 작은 샘이다.",
         "en-US": "This small spring provided me the water to drink while I was here.",
         "pt-BR": "Esta é a pequena fonte que nos forneceu água limpa até agora.",
         "es-ES": "Este es el pequeño manantial que nos ha dado agua limpia todo este tiempo."
     },
     "SJ12DA": {
-        "ko-KR": "캐면 먹을 것을 얻을 수 있다.",
         "en-US": "Digging it up will yield something to eat.",
         "pt-BR": "Se cavar, dá pra conseguir comida.",
         "es-ES": "Si cavas, puedes conseguir algo de comer."
     },
     "SZ12DA": {
-        "ko-KR": "그냥 두면, 야생동물들이 먹겠지?",
         "en-US": "If I leave it alone, wild animals might eat them.",
         "pt-BR": "Se deixarmos assim, os animais selvagens vão comer, né?",
         "es-ES": "Si lo dejas ahí, se lo comerán los animales salvajes, ¿no?"
     },
     "Sp12DA": {
-        "ko-KR": "야생동물이 지나다닌 흔적이다.",
         "en-US": "Traces of wild animals passing by.",
         "pt-BR": "São vestígios de animais selvagens que passaram por aqui.",
         "es-ES": "Son rastros de animales salvajes que han pasado por aquí."
     },
     "S512DA": {
-        "ko-KR": "조잡하게 만들어둔 함정이다.",
         "en-US": "It's a crude trap.",
         "pt-BR": "É uma armadilha feita de qualquer jeito.",
         "es-ES": "Es una trampa hecha a toda prisa."
     },
     "TJ12DA": {
-        "ko-KR": "종종 신세 졌지.",
         "en-US": "I've been indebted to you many times.",
         "pt-BR": "Já me ajudei disso várias vezes.",
         "es-ES": "Me ha servido de ayuda muchas veces."
     },
     "TZ12DA": {
-        "ko-KR": "아! 여기서 힘 좀 썼지.",
         "en-US": "Ah! I did let off some steam, chopping wood here.",
         "pt-BR": "Ah! Usei um pouco de força aqui.",
         "es-ES": "¡Ah! Aquí me costó un poco de esfuerzo."

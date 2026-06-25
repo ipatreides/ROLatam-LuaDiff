@@ -1,0 +1,1817 @@
+{
+    "ALoQDQ": {
+        "en-US": "Ahir",
+        "pt-BR": "Ahir",
+        "es-ES": "Ahir"
+    },
+    "AboQDQ": {
+        "en-US": "Ahir: Yaaawn...... I am so, so sleepy.",
+        "pt-BR": "Ahir: Haaam...... estou com tanto, tanto sono.",
+        "es-ES": "Ahir: Bostezo…… tengo muchísimo sueño."
+    },
+    "AroQDQ": {
+        "en-US": "Ahir: Sleepy...... I am so tired.",
+        "pt-BR": "Ahir: Com sono...... estou tão cansado.",
+        "es-ES": "Ahir: Tengo sueño…… estoy agotado."
+    },
+    "A7oQDQ": {
+        "en-US": "Ahir: Ugh...... I want to sleep more.",
+        "pt-BR": "Ahir: Ugh...... queria dormir mais.",
+        "es-ES": "Ahir: Uugh…… quiero dormir más."
+    },
+    "BLoQDQ": {
+        "en-US": "^4D4DFFThe people of Gray Wolf Village have accepted you as a member of the village.^000000\n^4D4DFFYou are now qualified to attend the Grand Council.^000000",
+        "pt-BR": "^4D4DFFAs pessoas da Aldeia do Lobo Cinzento aceitaram você como um membro da vila.^000000\n^4D4DFFVocê agora pode participar do Grande Conselho.^000000",
+        "es-ES": "^4D4DFFLa gente de Pueblo del Lobo Gris te ha aceptado como uno más del pueblo.^000000\n^4D4DFFHas obtenido el derecho a asistir al Gran Consejo.^000000"
+    },
+    "BboQDQ": {
+        "en-US": "- This quest can be undertaken at level 170 or higher -",
+        "pt-BR": "- Esta é uma missão que pode ser realizada a partir do nível 170 -",
+        "es-ES": "- Es una misión que se puede realizar a partir del nivel 170 -"
+    },
+    "BroQDQ": {
+        "en-US": "[Ahir]\nAh, an outsider......",
+        "pt-BR": "[Ahir]\nAh, mais uma pessoa de fora......",
+        "es-ES": "[Ahir]\nAh, otra persona que viene del extranjero..."
+    },
+    "B7oQDQ": {
+        "en-US": "[Ahir]\nYaaawn...... Huh? Someone I have not seen before. Are you a new member of Gray Wolf Village?\nYaaawn......",
+        "pt-BR": "[Ahir]\nHaaam...... ora? Um rosto que não conheço. Você é um novo membro da Aldeia do Lobo Cinzento?\nUhaaam......",
+        "es-ES": "[Ahir]\nBostezo…… ¿eh? No te había visto antes. ¿Eres nuevo en Pueblo del Lobo Gris?\nBosteezo……."
+    },
+    "CLoQDQ": {
+        "en-US": "Did you not sleep well last night?",
+        "pt-BR": "Você não conseguiu dormir bem à noite?",
+        "es-ES": "¿No has dormido bien por la noche?"
+    },
+    "CboQDQ": {
+        "en-US": "[Ahir]\nNo, I did not get a wink of sleep.\nYaaawn...... In Gray Wolf Forest, all kinds of sounds can be heard when you lie down to sleep.",
+        "pt-BR": "[Ahir]\nNão, não consegui dormir nem um pouco.\nHaaam...... quando eu me deito para dormir na Floresta do Lobo Cinzento (1), dá para ouvir todo tipo de som.",
+        "es-ES": "[Ahir]\nNo, no he pegado ojo.\nBostezo…… En Bosque del Lobo Gris (1), cuando me tumbo para dormir, se oye de todo."
+    },
+    "CroQDQ": {
+        "en-US": "[Ahir]\nThe sound of grass bugs, the sound of adults talking, the sounds of beasts......\nBut the most sleep-disrupting of all are the cries of all sorts of monsters.",
+        "pt-BR": "[Ahir]\nO som dos insetos de grama, o som dos adultos conversando, o som dos animais.......\nO que mais atrapalha o sono é o choro de todo tipo de monstro.",
+        "es-ES": "[Ahir]\nEl sonido de los insectos, las voces de los adultos, los sonidos de las bestias.......\nLo que más me impide dormir son los gritos de toda clase de monstruos."
+    },
+    "C7oQDQ": {
+        "en-US": "[Ahir]\nYaaawn...... Among them, the cry of Firewind Kite is the scariest.\nEven the adults worry that they might come carrying embers in their mouths and burn the whole village down.",
+        "pt-BR": "[Ahir]\nHuaam...... dentre eles, o grito do Gavião Ardente é o mais assustador.\nAté os adultos se preocupam, pensando se eles não vão acabar trazendo brasas na boca e incendiando a vila inteira.",
+        "es-ES": "[Ahir]\nBostezo…… De entre todos, el llanto del Halcón Ardiente es el que más miedo da.\nHasta los adultos se preocupan por si un día trae una brasa en la boca y acaba incendiando todo el pueblo."
+    },
+    "DLoQDQ": {
+        "en-US": "[Ahir]\nThe way they cry in those muffled voices with embers clenched in their mouths is truly frightening......\nUgh, just thinking about it makes me tremble.",
+        "pt-BR": "[Ahir]\nA forma como eles gritam com a voz abafada, segurando brasas na boca, é realmente assustadora......\nUuuh, só de pensar nisso meu corpo já treme.",
+        "es-ES": "[Ahir]\nDa muchísimo miedo verlo llorar con una voz apagada mientras lleva una brasa en la boca.........\nUf, solo de pensarlo ya me pongo a temblar."
+    },
+    "DboQDQ": {
+        "en-US": "I am an Adventurer. Want me to hunt them for you?",
+        "pt-BR": "Quer que eu os cace para você?",
+        "es-ES": "¿Quieres que vaya a cazarlos?"
+    },
+    "DroQDQ": {
+        "en-US": "[Ahir]\nWow! You are an Adventurer?\nThen please, I beg you!",
+        "pt-BR": "[Ahir]\nUau! Então você é um aventureiro?\nNesse caso, por favor, eu imploro!",
+        "es-ES": "[Ahir]\n¡Guau! ¿Así que es usted un trotamundos?\n¡Entonces se lo pido por favor!"
+    },
+    "D7oQDQ": {
+        "en-US": "[Ahir]\nWould you please hunt just 30 Firewind Kites?\nIf one flock is hunted down, perhaps the Firewind Kites will at least keep quiet tonight.",
+        "pt-BR": "[Ahir]\nVocê poderia derrotar só 30 Gaviões Ardentes?\nSe você caçar um bando, talvez ffiquem quietos ao menos esta noite.",
+        "es-ES": "[Ahir]\n¿No podría cazar unos 30 Halcón Ardientes?\nSi cazan una bandada entera, quizá los halcones se estén quietos al menos esta noche."
+    },
+    "ELoQDQ": {
+        "en-US": "Leave it to me!",
+        "pt-BR": "Deixa comigo!",
+        "es-ES": "¡Déjamelo a mí!"
+    },
+    "EboQDQ": {
+        "en-US": "Oops, now is not a good time.",
+        "pt-BR": "Ah, agora não dá.",
+        "es-ES": "Vaya, ahora me viene mal."
+    },
+    "EroQDQ": {
+        "en-US": "[Ahir]\nWow, thank you, Adventurer!\nThirty Firewind Kite. Please, I am counting on you.",
+        "pt-BR": "[Ahir]\nUaaah, muito obrigado, aventureiro!\nSão 30 Gaviões Ardentes. Estou contando mesmo com você.",
+        "es-ES": "[Ahir]\n¡Guau, muchas gracias, trotamundos!\nSon 30 Halcones Ardientes. ¡Se lo ruego!"
+    },
+    "E7oQDQ": {
+        "en-US": "[Ahir]\nIf you come back and speak to me after hunting them all, I will prepare a small reward for you!",
+        "pt-BR": "[Ahir]\nQuando terminar de caçar todos e voltar para falar comigo, vou preparar uma pequena recompensa para você!",
+        "es-ES": "[Ahir]\nCuando vuelva después de cazarlos, le tendré preparada aunque sea una pequeña recompensa."
+    },
+    "FLoQDQ": {
+        "en-US": "[Ahir]\nWell, you must be busy too, Adventurer.\nYou must be tired, so try to get some sleep. Though with all these noises, it will be hard to sleep well.",
+        "pt-BR": "[Ahir]\nBem, o aventureiro também deve estar ocupado, não é?\nVocê também deve estar cansado, então descanse um pouco. Embora, com todos esses sons, seja difícil dormir bem.",
+        "es-ES": "[Ahir]\nBueno, supongo que usted también estará ocupado, trotamundos.\nDebe de estar cansado, así que procure cerrar los ojos un rato. Aunque con todos estos ruidos le costará dormir bien."
+    },
+    "FboQDQ": {
+        "en-US": "[Ahir]\nThank you, Adventurer!\nThirty Firewind Kite. Please, I am counting on you.",
+        "pt-BR": "[Ahir]\nObrigado, aventureiro!\nSão 30 Gaviões Ardentes. Estou contando mesmo com você.",
+        "es-ES": "[Ahir]\n¡Gracias, trotamundos!\nSon 30 Halcones Ardientes. ¡Se lo ruego!"
+    },
+    "FroQDQ": {
+        "en-US": "[Notice]\n - There is not enough free space in your inventory, or you are carrying an item close to its limit. Please organize your inventory and speak to me again. -",
+        "pt-BR": "[Aviso]\n - Não há espaço livre no inventário ou você já possui um item idêntico próximo do limite. Organize tudo e fale comigo novamente. -",
+        "es-ES": "[Aviso]\n - No tiene suficiente espacio en el inventario o lleva demasiados objetos iguales cerca del límite. Ordénelo y vuelva a hablarme. -"
+    },
+    "F7oQDQ": {
+        "en-US": "[Ahir]\nThank you! The cries of Firewind Kite have definitely grown quieter!\nI think I will be able to sleep soundly tonight.",
+        "pt-BR": "[Ahir]\nObrigado! O choro dos Gaviões Ardentes realmente diminuiu bastante!\nAcho que hoje à noite vou conseguir dormir em paz.",
+        "es-ES": "[Ahir]\n¡Gracias! ¡Se nota que los llantos de Halcones Ardientes han disminuido muchísimo!\nCreo que esta noche podré dormir a gusto."
+    },
+    "GLoQDQ": {
+        "en-US": "[Ahir]\nUgh, though I doubt it will last long.\nBy tomorrow they will have increased again, so I hope you will come again after dawn and hunt Firewind Kite for me.",
+        "pt-BR": "[Ahir]\nNgh, embora isso provavelmente não vá durar muito.\nAmanhã eles vão aumentar de novo, então, depois da madrugada passar, queria que você viesse outra vez caçar Gaviões Ardentes.",
+        "es-ES": "[Ahir]\nUugh, aunque seguramente no dure mucho.\nMañana volverán a aumentar, así que me gustaría que regresara después del amanecer y volviera a cazar Halcones Ardientes."
+    },
+    "GboQDQ": {
+        "en-US": "[Ahir]\nThis is my token of thanks for helping me sleep comfortably tonight.\nPlease accept this small gesture, Adventurer.",
+        "pt-BR": "[Ahir]\nIsto é um sinal de agradecimento por me deixar dormir em paz esta noite.\nPor favor, aceite este pequeno gesto, aventureiro.",
+        "es-ES": "[Ahir]\nEsto es una muestra de agradecimiento por haberme permitido dormir tranquilo esta noche.\nPor favor, acepte este pequeño gesto, trotamundos."
+    },
+    "GroQDQ": {
+        "en-US": "^4D4DFFA favorable opinion of you has been formed.^000000",
+        "pt-BR": "^4D4DFFUma avaliação favorável sobre você foi gerada.^000000",
+        "es-ES": "^4D4DFFSe ha generado una valoración favorable hacia ti.^000000"
+    },
+    "G7oQDQ": {
+        "en-US": "[Ahir]\nFor now, it seems Firewind Kite are still keeping low.\nIf we provoke them now, they might only grow more vicious and make even more noise.",
+        "pt-BR": "[Ahir]\nParece que os Gaviões Ardentes ainda estão se resguardando por enquanto.\nSe forem provocados agora, talvez fiquem ainda mais agressivos e façam ainda mais barulho.",
+        "es-ES": "[Ahir]\nParece que por ahora Halcón Ardiente se está conteniendo.\nSi lo provocamos ahora, quizá se altere aún más y se ponga a hacer más ruido."
+    },
+    "HLoQDQ": {
+        "en-US": "[Ahir]\nWould you come again after dawn and hunt Firewind Kite?\nPlease, I beg you, Adventurer.",
+        "pt-BR": "[Ahir]\nVocê poderia voltar depois da madrugada passar e caçar Gaviões Ardentes de novo?\nPor favor, eu imploro, aventureiro.",
+        "es-ES": "[Ahir]\n¿Volvería después del amanecer a cazar Halcones Ardientes?\nSe lo ruego de verdad, trotamundos."
+    },
+    "HboQDQ": {
+        "en-US": "[Ahir]\nYaaawn, I am so sleepy again today.\nAdventurer, would you hunt just thirty Firewind Kite for me?",
+        "pt-BR": "[Ahir]\nHaaam, hoje também estou com tanto sono.\nAventureiro, você poderia derrotar só 30 Gaviões Ardentes?",
+        "es-ES": "[Ahir]\nBostezo, hoy también tengo muchísimo sueño.\nTrotamundos, ¿no podría cazar 30 Halcones Ardientes?"
+    },
+    "HroQDQ": {
+        "en-US": "[Ahir]\nIf one flock is hunted, the Firewind Kites will probably keep quiet at least for tonight.",
+        "pt-BR": "[Ahir]\nSe você caçar um bando, os gaviões ardentes provavelmente ficarão quietos pelo menos esta noite.",
+        "es-ES": "[Ahir]\nSi caza una bandada, los halcones ardientes estarán callados al menos esta noche."
+    },
+    "H7oQDQ": {
+        "en-US": "I will hunt them.",
+        "pt-BR": "Vou caçá-los.",
+        "es-ES": "Lo haré."
+    },
+    "ILoQDQ": {
+        "en-US": "I will not hunt them.",
+        "pt-BR": "Não vou caçá-los.",
+        "es-ES": "No lo haré."
+    },
+    "IboQDQ": {
+        "en-US": "Ethnologist Gudra",
+        "pt-BR": "Folclorista Gudra",
+        "es-ES": "Folclorista Gudra"
+    },
+    "IroQDQ": {
+        "en-US": "[Ethnologist Gudra]\nI do not believe I have seen you before. Who might you be?",
+        "pt-BR": "[Folclorista Gudra]\nÉ a primeira vez que nos vemos. Quem é você?",
+        "es-ES": "[Folclorista Gudra]\nEs la primera vez que le veo. ¿Quién es usted?"
+    },
+    "I7oQDQ": {
+        "en-US": "Scholar, what are you doing?",
+        "pt-BR": "Senhor estudioso, o que está fazendo?",
+        "es-ES": "Erudito, ¿qué está haciendo?"
+    },
+    "JLoQDQ": {
+        "en-US": "[Ethnologist Gudra]\nOh, ohh.\n......Do I look like a scholar to you?",
+        "pt-BR": "[Folclorista Gudra]\nOh, oooh.\n......eu pareço um estudioso para você?",
+        "es-ES": "[Folclorista Gudra]\nOh, oh.\n……¿Le parezco un erudito?"
+    },
+    "JboQDQ": {
+        "en-US": "Are you not a scholar?",
+        "pt-BR": "Você não é um estudioso?",
+        "es-ES": "¿No lo es?"
+    },
+    "JroQDQ": {
+        "en-US": "[Ethnologist Gudra]\nNo! I am indeed a scholar. A scholar.\nTo think someone from outside would recognize me as a scholar at once, I am simply delighted.",
+        "pt-BR": "[Folclorista Gudra]\nNão! Eu sou mesmo um tipo de estudioso.\nFico feliz que alguém vindo de fora tenha me reconhecido imediatamente como um estudioso.",
+        "es-ES": "[Folclorista Gudra]\n¡No! Sí, sí lo soy. Soy un tipo de erudito.\nMe alegra que alguien de fuera me haya tomado por un erudito de inmediato."
+    },
+    "J7oQDQ": {
+        "en-US": "[Ethnologist Gudra]\nAhem, ahem. You asked what I am doing.\nI am organizing the stories I have collected.",
+        "pt-BR": "[Folclorista Gudra]\nHum, hum. Você perguntou o que estou fazendo?\nEstou organizando as histórias que registrei.",
+        "es-ES": "[Folclorista Gudra]\nEjem, ejem. ¿Me preguntaba qué estoy haciendo?\nEstoy organizando los relatos que he recopilado."
+    },
+    "KLoQDQ": {
+        "en-US": "[Ethnologist Gudra]\nI am gathering the myths and oral tales passed down among our people.\nIt is also a way of preserving the natives' precious cultural heritage.",
+        "pt-BR": "[Folclorista Gudra]\nÉ o trabalho de reunir os mitos e contos orais transmitidos entre nós.\nTambém é uma forma de preservar o precioso patrimônio cultural dos nativos.",
+        "es-ES": "[Folclorista Gudra]\nEs el trabajo de reunir los mitos y cuentos transmitidos oralmente que han llegado hasta nosotros.\nTambién es una labor para proteger el valioso patrimonio cultural de los indígenas."
+    },
+    "KboQDQ": {
+        "en-US": "[Ethnologist Gudra]\nSo that these stories will not be lost and may be passed on to later generations, I intend to compile them into a book.",
+        "pt-BR": "[Folclorista Gudra]\nPara que essas histórias não se percam e possam ser transmitidas às futuras gerações, vou reuni-las e publicá-las em livro.",
+        "es-ES": "[Folclorista Gudra]\nVoy a reunir estas historias en un libro para que no se pierdan y puedan transmitirse a las generaciones futuras."
+    },
+    "KroQDQ": {
+        "en-US": "[Ethnologist Gudra]\nYou seem to be listening with interest.\n......Does this work interest you?",
+        "pt-BR": "[Folclorista Gudra]\nParece que está ouvindo com interesse.\n......Você se interessa por esse trabalho?",
+        "es-ES": "[Folclorista Gudra]\nParece que le resulta interesante escucharme.\n……¿Le interesa este trabajo?"
+    },
+    "K7oQDQ": {
+        "en-US": "It does.",
+        "pt-BR": "Tenho interesse.",
+        "es-ES": "Me interesa."
+    },
+    "LLoQDQ": {
+        "en-US": "It does not.",
+        "pt-BR": "Não tenho interesse.",
+        "es-ES": "No me interesa."
+    },
+    "LboQDQ": {
+        "en-US": "[Ethnologist Gudra]\nOh...... So you were not interested? You looked as though you were.\nIt seems I was mistaken.",
+        "pt-BR": "[Folclorista Gudra]\nAh...... então não tinha interesse? Parecia que tinha.\nAcho que eu me enganei.",
+        "es-ES": "[Folclorista Gudra]\nAh…… ¿Entonces no le interesaba? Parecía que sí.\nParece que me había equivocado."
+    },
+    "LroQDQ": {
+        "en-US": "[Ethnologist Gudra]\nHmm, it seems I still have much to learn.\nYou really looked as though you would help me...... but if not, then it cannot be helped.",
+        "pt-BR": "[Folclorista Gudra]\nHum, parece que ainda tenho muito a aprender.\nVocê realmente parecia alguém que certamente me ajudaria...... mas, se não é o caso, não há o que fazer.",
+        "es-ES": "[Folclorista Gudra]\nMmm, parece que aún me queda mucho por aprender.\nJuraría que iba a ayudarme…… pero si no es así, no hay nada que hacer."
+    },
+    "L7oQDQ": {
+        "en-US": "[Ethnologist Gudra]\nIf you say you are interested, does that mean you are willing to help?\nAn extra hand is always needed. I would be very glad if you helped me.",
+        "pt-BR": "[Folclorista Gudra]\nSe tem interesse, isso significa que estaria disposto a ajudar?\nSempre precisamos de ajuda. Eu ficaria feliz se pudesse colaborar.",
+        "es-ES": "[Folclorista Gudra]\n¿Que le interesa significa que está dispuesto a ayudarme?\nSiempre hace falta mano de obra. Me alegraría contar con su ayuda."
+    },
+    "MLoQDQ": {
+        "en-US": "[Ethnologist Gudra]\nYou do know how to write, yes? Excellent.\nPlease go and collect stories from the villagers for me.",
+        "pt-BR": "[Folclorista Gudra]\nVocê sabe escrever? Ótimo.\nPor favor, vá registrar histórias contadas pelos moradores da vila.",
+        "es-ES": "[Folclorista Gudra]\n¿Sabe escribir? Excelente.\nVaya a recoger historias de los habitantes del pueblo."
+    },
+    "MboQDQ": {
+        "en-US": "[Ethnologist Gudra]\nI have already arranged to hear stories from one child, one young adult, and one grandmother in the village.",
+        "pt-BR": "[Folclorista Gudra]\nCombinei de ouvir uma história de uma criança da vila, de uma jovem e de uma avó.",
+        "es-ES": "[Folclorista Gudra]\nHe quedado en escuchar historias de un niño del pueblo, un joven y una anciana."
+    },
+    "MroQDQ": {
+        "en-US": "[Ethnologist Gudra]\nThey say the stories are too long to hear in a single day, so you will need to help over a somewhat longer span.\nHere, I will give you a notebook for recording them.",
+        "pt-BR": "[Folclorista Gudra]\nDisseram que as histórias são longas e que não será possível ouvi-las todas em um só dia, então precisarei da sua ajuda em um ritmo mais longo.\nAqui, vou lhe dar um caderno de registro.",
+        "es-ES": "[Folclorista Gudra]\nDicen que son relatos largos y que no podrán contarlos enteros en un solo día, así que tendrá que ayudarme con un poco de paciencia y a largo plazo.\nTome, le daré una libreta para las transcripciones."
+    },
+    "M7oQDQ": {
+        "en-US": "[Ethnologist Gudra]\nThe child's name is Dinar. The young adult is a woman named Amira.\nAfter that, please visit Grandmother Shanina to hear and write down her story.",
+        "pt-BR": "[Folclorista Gudra]\nO nome da criança é Dinar. A jovem é uma mulher chamada Amira.\nDepois disso, vá até a avó Shanina, ouça a história e anote tudo.",
+        "es-ES": "[Folclorista Gudra]\nEl niño se llama Dinar. La joven es una mujer llamada Amira.\nDespués tendrá que ir a escuchar y anotar la historia de la abuela Shanina."
+    },
+    "NLoQDQ": {
+        "en-US": "[Ethnologist Gudra]\nThey say the stories are too long to hear in a single day, so you will need to help over a somewhat longer span.",
+        "pt-BR": "[Folclorista Gudra]\nDisseram que as histórias são longas e que não será possível ouvi-las todas em um só dia, então precisarei da sua ajuda em um ritmo mais longo.",
+        "es-ES": "[Folclorista Gudra]\nDicen que son relatos largos y que no podrán contarlos enteros en un solo día, así que tendrá que ayudarme con un poco de paciencia y a largo plazo."
+    },
+    "NboQDQ": {
+        "en-US": "Oh, did you lose the notebook? I will give you a new one. Do not lose this one.",
+        "pt-BR": "Ora, você perdeu o caderno? Vou lhe dar um novo. Não perca este.",
+        "es-ES": "¿Cómo? ¿Ha perdido la libreta? Le daré una nueva. No vuelva a perder esta."
+    },
+    "NroQDQ": {
+        "en-US": "Oh, did you lose the notebook? I will give you a new one. Do not lose this one.\nYou will have to hear the stories again and write them down.",
+        "pt-BR": "Ora, você perdeu o caderno? Vou lhe dar um novo. Não perca este.\nVocê terá que ouvir as histórias novamente e anotá-las.",
+        "es-ES": "¿Cómo? ¿Ha perdido la libreta? Le daré una nueva. No vuelva a perder esta.\nTendrá que volver a escuchar las historias y anotarlas."
+    },
+    "N7oQDQ": {
+        "en-US": "[Ethnologist Gudra]\nHave you collected stories from Dinar, Amira, and Grandmother Shanina?\nI am thrilled to know what kind of stories they are. Please, show me the notebook at once.",
+        "pt-BR": "[Folclorista Gudra]\nJá registrou as histórias da avó Dinar, Amira e Shanina?\nEstou ansioso para saber que tipo de histórias são. Mostre-me logo o caderno.",
+        "es-ES": "[Folclorista Gudra]\n¿Ha recogido las historias de Dinar, Amira y la abuela Shanina?\nEstoy deseando saber qué historias serán. Enséñeme la libreta cuanto antes."
+    },
+    "OLoQDQ": {
+        "en-US": "[Ethnologist Gudra]\nOh! This is...... a story I have never seen before!\n......How strange. Who told you this story?",
+        "pt-BR": "[Folclorista Gudra]\nOh! Isto é...... uma história completamente nova para mim!\n......Que estranho. Quem lhe contou essa história?",
+        "es-ES": "[Folclorista Gudra]\n¡Oh! Esto es…… ¡una historia completamente nueva para mí!\n……Qué extraño. ¿Quién se la contó?"
+    },
+    "OboQDQ": {
+        "en-US": "[Ethnologist Gudra]\nYou are saying Dinar...... made up this story personally?\nMy, I had asked for a story she had heard from one of the village elders.",
+        "pt-BR": "[Folclorista Gudra]\nVocê quer dizer que Dinar...... inventou essa história pessoalmente?\nNossa, eu tinha pedido que me contasse uma história ouvida de um ancião da vila.",
+        "es-ES": "[Folclorista Gudra]\n¿Quiere decir que Dinar…… es una historia que ha inventado él mismo?\nVaya, yo le había pedido que me contara una historia que hubiera oído a un adulto del pueblo."
+    },
+    "OroQDQ": {
+        "en-US": "[Ethnologist Gudra]\nBut...... hmm, this is...... not bad at all. No, it is extremely entertaining.\nIt is a little rough in places, but wonderfully original and peculiar.",
+        "pt-BR": "[Folclorista Gudra]\nMas...... hum, isto...... não é ruim. Não, é muito interessante.\nÉ um pouco desajeitada em alguns pontos, mas é original e curiosa.",
+        "es-ES": "[Folclorista Gudra]\nPero…… mmm, esto…… no está nada mal. No, es muy interesante.\nTiene algunas partes algo endebles, pero es original y extrañísima."
+    },
+    "O7oQDQ": {
+        "en-US": "[Ethnologist Gudra]\nThough it strays a little from my purpose, I wish to keep hearing this story.\nI would like you to continue hearing and writing down the next part, and the part after that, from now on as well.",
+        "pt-BR": "[Folclorista Gudra]\nEmbora se afaste um pouco do meu objetivo, quero continuar ouvindo essa história.\nDaqui para frente, eu gostaria que você ouvisse e anotasse também a continuação desta história.",
+        "es-ES": "[Folclorista Gudra]\nSe aparta un poco de mi objetivo, pero quiero seguir escuchando esta historia.\nMe gustaría que, a partir de ahora, siguiera oyendo y anotando la continuación y lo que venga después de esta historia."
+    },
+    "PLoQDQ": {
+        "en-US": "[Ethnologist Gudra]\nIs this the story Amira told you?\nIt is truly colorful and splendid! I too remember hearing stories of these gods when I was young.",
+        "pt-BR": "[Folclorista Gudra]\nEsta é a história que Amira contou?\nÉ realmente variada e maravilhosa! Eu também me lembro de ouvir histórias sobre esses deuses quando era criança.",
+        "es-ES": "[Folclorista Gudra]\n¿Esta es la historia que le contó Amira?\n¡Es realmente variada y maravillosa! Yo también recuerdo haber oído de pequeño historias sobre estos dioses."
+    },
+    "PboQDQ": {
+        "en-US": "[Ethnologist Gudra]\nHowever, the name of the animal god in this tale is similar to the one I heard in childhood, but slightly different.\nHmm, this will require investigation.",
+        "pt-BR": "[Folclorista Gudra]\nMas o nome do deus animal que aparece nessa história é parecido com o nome que ouvi quando era criança, embora um pouco diferente.\nHum, será necessária uma investigação.",
+        "es-ES": "[Folclorista Gudra]\nSin embargo, el nombre del dios animal que aparece en esta historia se parece, pero es un poco distinto, al que yo oía cuando era niño.\nMmm, habrá que investigarlo."
+    },
+    "ProQDQ": {
+        "en-US": "[Ethnologist Gudra]\nThese are excellent stories that stir my scholarly curiosity!\nFrom now on as well, I hope you will continue writing down Amira's stories.",
+        "pt-BR": "[Folclorista Gudra]\nSão histórias excelentes, que despertam meu desejo de pesquisa!\nDaqui em diante, espero que continue transcrevendo as histórias de Amira.",
+        "es-ES": "[Folclorista Gudra]\n¡Son historias estupendas que despiertan el deseo de investigar!\nMe gustaría que, a partir de ahora, siguiera transcribiendo las historias de Amira."
+    },
+    "P7oQDQ": {
+        "en-US": "[Ethnologist Gudra]\nHmm, hmm...... this is not a fairy tale that can be told to children today.\nIt contains discriminatory stereotypes that would not be accepted by today's standards.",
+        "pt-BR": "[Folclorista Gudra]\nHum, hum...... este é um conto que não posso contar às crianças de hoje.\nHá nele estereótipos discriminatórios que podem não ser aceitos pelos padrões atuais.",
+        "es-ES": "[Folclorista Gudra]\nAjá, mmm…… este es un cuento que no puede contarse a los niños de hoy.\nContiene estereotipos discriminatorios que hoy en día no podrían aceptarse."
+    },
+    "QLoQDQ": {
+        "en-US": "[Ethnologist Gudra]\nAh, do not misunderstand. It is only that it cannot be told to children. To me, it is excellent material.\nFrom whom did you hear this story?",
+        "pt-BR": "[Folclorista Gudra]\nAh, não entenda mal. Só não pode ser contado às crianças; para mim, é um excelente material.\nDe quem você ouviu essa história?",
+        "es-ES": "[Folclorista Gudra]\nAh, no me malinterprete. Solo digo que no puede contarse a los niños; para mí es una fuente magnífica.\n¿Quién le contó esta historia?"
+    },
+    "QboQDQ": {
+        "en-US": "[Ethnologist Gudra]\nYou say Grandmother Shanina told you this story.\nA story she herself heard while growing up......",
+        "pt-BR": "[Folclorista Gudra]\nVocê quer dizer que foi uma história contada pela avó Shanina.\nUma história com a qual a avó cresceu quando era criança......",
+        "es-ES": "[Folclorista Gudra]\n¿Dice que fue la abuela Shanina quien se la contó?\nAsí que es una historia con la que ella creció cuando era niña……."
+    },
+    "QroQDQ": {
+        "en-US": "[Ethnologist Gudra]\nI shall read this carefully and organize it myself.\nFrom now on as well, please continue bringing me stories from Grandmother Shanina.",
+        "pt-BR": "[Folclorista Gudra]\nVou ler isto com atenção e organizá-lo.\nDaqui para frente, por favor, continue trazendo histórias da avó Shanina.",
+        "es-ES": "[Folclorista Gudra]\nLa leeré bien y la organizaré por mi cuenta.\nA partir de ahora, siga trayéndome las historias de la abuela Shanina."
+    },
+    "Q7oQDQ": {
+        "en-US": "[Ethnologist Gudra]\nI would like you to come again tomorrow and write down the next part of this story.\nI am counting on you. This is your pay for today's work.",
+        "pt-BR": "[Folclorista Gudra]\nEu gostaria que você voltasse amanhã e transcrevesse a próxima parte desta história.\nConto com você. Isto é o pagamento pelo trabalho de hoje.",
+        "es-ES": "[Folclorista Gudra]\nMe gustaría que volviera mañana y transcribiera la siguiente parte de esta historia.\nSe lo encargo. Esto es el pago por el trabajo de hoy."
+    },
+    "RLoQDQ": {
+        "en-US": "[Ethnologist Gudra]\nPlease go to Dinar, Amira, and Grandmother Shanina, hear their stories, and write them down.",
+        "pt-BR": "[Folclorista Gudra]\nVá até Dinar, Amira e a avó Shanina, ouça as histórias e anote-as.",
+        "es-ES": "[Folclorista Gudra]\nVaya a escuchar y anotar las historias de Dinar, Amira y la abuela Shanina."
+    },
+    "RboQDQ": {
+        "en-US": "[Ethnologist Gudra]\nHaha...... So today as well Dinar told one of her invented myths?\nLet me see, to tell the truth, I was curious about the latter half.",
+        "pt-BR": "[Folclorista Gudra]\nHaha...... então hoje também Dinar lhe contou um mito criado por ela?\nSinceramente, a história me despertou curiosidade, gostaria de saber a continuação.",
+        "es-ES": "[Folclorista Gudra]\nJa, ja…… ¿Hoy también Dinar le ha contado una mitología inventada?\nA ver, la verdad es que tenía curiosidad por saber qué pasaba después."
+    },
+    "RroQDQ": {
+        "en-US": "[Ethnologist Gudra]\nDinar has the talent of a novelist. This is unmistakable.\nOnce the collection is complete, I would like to publish this story too, with Dinar's permission.",
+        "pt-BR": "[Folclorista Gudra]\nDinar tem talento para ser romancista. Isso é evidente.\nQuando o registro terminar, quero pedir a permissão de Dinar para publicar essa história também.",
+        "es-ES": "[Folclorista Gudra]\nDinar tiene talento de novelista. Eso es evidente.\nCuando terminemos las transcripciones, me gustaría publicar también esta historia con el permiso de Dinar."
+    },
+    "R7oQDQ": {
+        "en-US": "[Ethnologist Gudra]\nIt strays a bit from my original purpose, of course...... but it would be a shame to let such talent go to waste.\nFrom now on as well, I would like you to continue hearing and writing down the next part of this story.",
+        "pt-BR": "[Folclorista Gudra]\nEmbora, mais uma vez, isso se afaste um pouco do meu objetivo...... é um desperdício ignorar esse talento.\nDaqui para frente, espero que você continue ouvindo e anotando a continuação desta história.",
+        "es-ES": "[Folclorista Gudra]\nAunque, desde luego, esto también se aparta un poco de mi objetivo…… sería una pena desperdiciar ese talento.\nMe gustaría que a partir de ahora siguiera escuchando y anotando la continuación de esta historia."
+    },
+    "SLoQDQ": {
+        "en-US": "[Ethnologist Gudra]\nMany of Amira's stories are myths familiar even to me.\nThey are the stories that all the natives here grew up hearing in common.",
+        "pt-BR": "[Folclorista Gudra]\nMuitas das histórias de Amira também me são familiares.\nSão histórias que todos os nativos daqui ouviram em comum enquanto cresciam.",
+        "es-ES": "[Folclorista Gudra]\nMuchas de las historias de Amira también me resultan familiares.\nSon relatos con los que todos los indígenas de aquí han crecido."
+    },
+    "SboQDQ": {
+        "en-US": "[Ethnologist Gudra]\nOf course, there are some parts that differ slightly from the myths I know, but......\nIs it not precisely my work to study both those differences and the common points?",
+        "pt-BR": "[Folclorista Gudra]\nClaro, há partes um pouco diferentes dos mitos que conheço, mas......\nnão é justamente esse estudo das diferenças e semelhanças que constitui o meu trabalho?",
+        "es-ES": "[Folclorista Gudra]\nClaro que hay algunas partes algo distintas de los mitos que yo conozco, pero……\n¿no es precisamente ese estudio de diferencias y semejanzas mi trabajo?"
+    },
+    "SroQDQ": {
+        "en-US": "[Ethnologist Gudra]\nStill, taken all together, even those points are research material.\nThe fact that the spirit of past ages lives on in fairy tales, is that not fascinating?",
+        "pt-BR": "[Folclorista Gudra]\nMas, até mesmo esses pontos, tudo isso é material de pesquisa.\nO fato de a visão de uma época passada estar refletida nos contos é realmente fascinante, não acha?",
+        "es-ES": "[Folclorista Gudra]\nPero incluso esos puntos forman parte del material de investigación.\n¿No le parece fascinante cómo el espíritu de una época se refleja en los cuentos?"
+    },
+    "S7oQDQ": {
+        "en-US": "[Ethnologist Gudra]\nIf I had it my way, I would hear every story before the day ends......\nBut then both you and the villagers would grow weary, Adventurer.",
+        "pt-BR": "[Folclorista Gudra]\nSe dependesse só da minha vontade, eu ouviria todas as histórias hoje mesmo, mas......\nnesse caso, tanto o aventureiro quanto as pessoas ficariam exaustos.",
+        "es-ES": "[Folclorista Gudra]\nSi por mí fuera, hoy mismo escucharía todas las historias hasta el final, pero…….\nsi hacemos eso, tanto usted, trotamundos, como la gente acabarán agotados."
+    },
+    "TLoQDQ": {
+        "en-US": "[Ethnologist Gudra]\nPlease rest well for the remainder of the day and come again after dawn.\nIn the meantime, I shall organize and analyze the stories you have gathered.",
+        "pt-BR": "[Folclorista Gudra]\nDescanse bem pelo resto do dia e venha de novo depois que a madrugada passar.\nEnquanto isso, vou organizar e analisar as histórias que você reuniu.",
+        "es-ES": "[Folclorista Gudra]\nDescanse bien durante el resto del día y vuelva después del amanecer.\nMientras tanto, yo ordenaré y analizaré las historias que me ha reunido."
+    },
+    "TboQDQ": {
+        "en-US": "[Ethnologist Gudra]\nThank you for last time.\nI would like to ask you again today to record some stories.",
+        "pt-BR": "[Folclorista Gudra]\nAgradeço mais uma vez.\nHoje também vou lhe pedir que faça a gravação das histórias.",
+        "es-ES": "[Folclorista Gudra]\nGracias por la vez anterior.\nHoy también me gustaría pedirle que grabe las historias."
+    },
+    "TroQDQ": {
+        "en-US": "[Ethnologist Gudra]\nPlease go to Dinar, Amira, and Grandmother Shanina, hear their stories, and write them down.\nHere, I will give you the recording notebook.",
+        "pt-BR": "[Folclorista Gudra]\nVá até Dinar, Amira e a avó Shanina, ouça as histórias e anote-as.\nAqui está o caderno de registro.",
+        "es-ES": "[Folclorista Gudra]\nVaya a escuchar y anotar las historias de Dinar, Amira y la abuela Shanina.\nTome, le daré la libreta para las transcripciones."
+    },
+    "T7oQDQ": {
+        "en-US": "I will go.",
+        "pt-BR": "Vou indo.",
+        "es-ES": "Iré."
+    },
+    "ULoQDQ": {
+        "en-US": "It is difficult right now.",
+        "pt-BR": "Agora está difícil.",
+        "es-ES": "Ahora me resulta difícil."
+    },
+    "UboQDQ": {
+        "en-US": "[Ethnologist Gudra]\nThank you, as always, for so willingly taking on this work.\nI shall repay this kindness by making a fine storybook.",
+        "pt-BR": "[Folclorista Gudra]\nAgradeço por sempre aceitar de bom grado este trabalho.\nEu retribuirei essa gentileza fazendo um bom livro de histórias.",
+        "es-ES": "[Folclorista Gudra]\nGracias por aceptar siempre este trabajo con tanto gusto.\nLe devolveré este favor creando un buen libro de historias."
+    },
+    "UroQDQ": {
+        "en-US": "[Ethnologist Gudra]\nAh, of course, I will also make sure to pay you for today's work.\nThat matters too, does it not? I understand that as well.",
+        "pt-BR": "[Folclorista Gudra]\nAh, claro, também vou lhe dar o pagamento de hoje.\nIsso também é importante, não é? Eu sei disso.",
+        "es-ES": "[Folclorista Gudra]\nAh, por supuesto, también le daré hoy su jornal.\nEso también es importante, ¿verdad? Lo sé perfectamente."
+    },
+    "U7oQDQ": {
+        "en-US": "[Ethnologist Gudra]\nAh. Is it difficult right now? That is fine, even if it is later.\nJust please remember that this is a task that must be approached over the long term.",
+        "pt-BR": "[Folclorista Gudra]\nAh. Está difícil agora? Tudo bem, pode ser depois.\nSó não se esqueça de que este trabalho precisa ser feito com paciência por um longo tempo.",
+        "es-ES": "[Folclorista Gudra]\nAh. ¿Ahora le viene mal? Más tarde también está bien.\nSolo recuerde que este trabajo requiere paciencia y constancia."
+    },
+    "VLoQDQ": {
+        "en-US": "[Ethnologist Gudra]\nWe are already companions walking the same path, are we not?\nIf you are tired, you may rest for a while. So long as you continue onward in the future.",
+        "pt-BR": "[Folclorista Gudra]\nNós já somos companheiros que trilham o mesmo caminho. Não é?\nSe estiver sentindo cansaço, também pode parar e descansar um pouco. Desde que continue avançando com constância.",
+        "es-ES": "[Folclorista Gudra]\nYa somos compañeros que recorren el mismo camino. ¿No es así?\nSi le resulta duro, también puede detenerse a descansar un poco. Siempre que sigamos avanzando con constancia."
+    },
+    "VboQDQ": {
+        "en-US": "Dinar",
+        "pt-BR": "Dinar",
+        "es-ES": "Dinar"
+    },
+    "VroQDQ": {
+        "en-US": "[Dinar]\nDid you not come to hear my story?\nWithout a notebook, where are you going to write it down......",
+        "pt-BR": "[Dinar]\nVocê não veio ouvir a minha história?\nSem caderno, onde pretende anotar......",
+        "es-ES": "[Dinar]\n¿No ha venido a escuchar mi historia?\nSin libreta, ¿dónde va a apuntarla……?"
+    },
+    "V7oQDQ": {
+        "en-US": "[Dinar]\nIt is far too long to write on your palm, you know?\nGo to Miss Gudra and get a notebook, then come back.",
+        "pt-BR": "[Dinar]\nNa palma da mão vai ser longo demais, sabia?\nVá até a tia Gudra, pegue o caderno e volte.",
+        "es-ES": "[Dinar]\n¿En la palma de la mano? Va a ser demasiado larga.\nVaya a ver a la señora Gudra, pídale una libreta y vuelva."
+    },
+    "WLoQDQ": {
+        "en-US": "[Dinar]\nYou came to hear my story?\nAh, that is right, it is me. I made a promise with Miss Gudra!",
+        "pt-BR": "[Dinar]\nVocê veio ouvir a minha história?\nAh, sou eu mesma. Eu combinei com a tia Gudra!",
+        "es-ES": "[Dinar]\n¿Ha venido a escuchar mi historia?\nAh, sí, soy yo. ¡Se lo prometí a la señora Gudra!"
+    },
+    "WboQDQ": {
+        "en-US": "[Dinar]\nAhem, ahem. I will only tell it once, so write it down carefully.\nThis is something I really experienced.",
+        "pt-BR": "[Dinar]\nHum, hum. Vou contar só uma vez, então anote direitinho.\nIsto aconteceu comigo de verdade.",
+        "es-ES": "[Dinar]\nMmm, mmm. Se la contaré solo una vez, así que apúntela bien.\nEsto me pasó de verdad."
+    },
+    "WroQDQ": {
+        "en-US": "So it is not a story passed down orally?",
+        "pt-BR": "Não é uma história transmitida oralmente?",
+        "es-ES": "¿No es una historia transmitida oralmente?"
+    },
+    "W7oQDQ": {
+        "en-US": "[Dinar]\nWhat does oral mean? Anyway, listen carefully!\nLong ago, when I was still little.",
+        "pt-BR": "[Dinar]\nO que é transmitida oralmente? Enfim, preste atenção!\nAconteceu antigamente, quando eu ainda era pequena.",
+        "es-ES": "[Dinar]\n¿Qué es eso de transmitida oralmente? En cualquier caso, ¡escuche con atención!\nHace mucho tiempo, cuando yo aún era pequeño."
+    },
+    "XLoQDQ": {
+        "en-US": "You are still little now......",
+        "pt-BR": "Você ainda é pequena......",
+        "es-ES": "Ahora también eres pequeño……"
+    },
+    "XboQDQ": {
+        "en-US": "[Dinar]\nHey now, you keep interrupting me!\nAmong the gray wolves I met in Gray Wolf Forest, there was one that seemed to be the leader......",
+        "pt-BR": "[Dinar]\nEi, ei, para de me interromper!\nEntre os lobos cinzentos que encontrei na Floresta do Lobo Cinzento, havia um lobo que parecia ser o líder......",
+        "es-ES": "[Dinar]\n¡Oiga, deje de interrumpirme!\nEntre los lobos grises que conocí en el Bosque del Lobo Gris, había uno que parecía el líder......"
+    },
+    "XroQDQ": {
+        "en-US": "......And so the story continued for quite some time.",
+        "pt-BR": "......Depois disso, ouvi a história por um bom tempo.",
+        "es-ES": "……Durante un buen rato más escuché la historia."
+    },
+    "X7oQDQ": {
+        "en-US": "I wrote down all three people's stories. Let us return to Gudra.",
+        "pt-BR": "Anotei todas as histórias das três pessoas. Vamos voltar para Gudra.",
+        "es-ES": "He anotado las historias de las tres personas. Volvamos con Gudra."
+    },
+    "YLoQDQ": {
+        "en-US": "[Dinar]\nYou came to hear my story again today!\nMiss Gudra said she would turn it into a book later.",
+        "pt-BR": "[Dinar]\nHoje também veio ouvir a minha história!\nA tia Gudra disse que depois vai transformar tudo em livro.",
+        "es-ES": "[Dinar]\n¡Hoy también ha venido a escuchar mi historia!\nLa señora Gudra dijo que más tarde la convertiría en un libro."
+    },
+    "YboQDQ": {
+        "en-US": "[Dinar]\nHmm...... where did I leave off last time?\nYou remembered the part about the fairy's golden eyes being very beautiful!",
+        "pt-BR": "[Dinar]\nHum...... até onde eu tinha contado da última vez?\nEntão você lembra da parte em que os olhos dourados da fada eram muito bonitos!",
+        "es-ES": "[Dinar]\nMmm……, ¿por dónde me quedé la otra vez?\n¡Así que se acordaba de la parte en la que los ojos dorados del hada eran preciosos!"
+    },
+    "YroQDQ": {
+        "en-US": "[Dinar]\nAnd so the dragon and the fairy became friends forever. Friends, and each other's one and only good rival......",
+        "pt-BR": "[Dinar]\nE assim o dragão e a fada se tornaram amigos para sempre. Amigos e também rivais preciosos um do outro......",
+        "es-ES": "[Dinar]\nY así, el dragón y el hada se convirtieron en amigos para siempre. Eran amigos, y también rivales únicos y maravillosos......"
+    },
+    "Y7oQDQ": {
+        "en-US": "[Dinar]\nHmm...... where did I leave off last time?\nDid I stop in the middle of the scene where the dragon and the fairy were having their final showdown?",
+        "pt-BR": "[Dinar]\nHum...... até onde eu tinha contado da última vez?\nSerá que parei bem no meio da cena em que o dragão e a fada disputavam a batalha final?",
+        "es-ES": "[Dinar]\nMmm……, ¿por dónde me quedé la otra vez?\n¿Fue en mitad de la escena en la que el dragón y el hada libraban su enfrentamiento final?"
+    },
+    "ZLoQDQ": {
+        "en-US": "[Dinar]\nWhen the dragon summoned a gigantic tower of metal for the last time, the fairy answered by summoning a giant spirit of fire......",
+        "pt-BR": "[Dinar]\nQuando o dragão invocou pela última vez uma gigantesca torre de metal, a fada respondeu invocando um enorme espírito do fogo......",
+        "es-ES": "[Dinar]\nCuando el dragón invocó por última vez una enorme torre de metal, el hada respondió invocando un gigantesco espíritu de fuego......"
+    },
+    "ZboQDQ": {
+        "en-US": "[Dinar]\nHmm...... where did I leave off last time?\nIt was the scene where the dragon with sapphire eyes met the violet fairy, was it not?",
+        "pt-BR": "[Dinar]\nHum...... até onde eu tinha contado da última vez?\nEra a cena em que o dragão de olhos de safira encontrava a fada violeta, não era?",
+        "es-ES": "[Dinar]\nMmm……, ¿por dónde me quedé la otra vez?\n¿Era la escena en la que el dragón de ojos zafiro conocía al hada violeta?"
+    },
+    "ZroQDQ": {
+        "en-US": "[Dinar]\nThat violet fairy was actually one of the most exceptional among the fairies, and how that was proven was......",
+        "pt-BR": "[Dinar]\nNa verdade, a fada violeta era uma das mais extraordinárias entre as fadas, e sabe como isso foi provado......",
+        "es-ES": "[Dinar]\nEn realidad, el hada violeta era una de las más extraordinarias entre las hadas, y la forma en que lo demostró fue......"
+    },
+    "Z7oQDQ": {
+        "en-US": "[Dinar]\nI love reading interesting stories.\nBut imagining what comes next after reading them is even better.",
+        "pt-BR": "[Dinar]\nEu adoro ler histórias interessantes.\nE gosto ainda mais de imaginar a próxima parte depois de ler!",
+        "es-ES": "[Dinar]\nMe encanta leer historias interesantes.\nY todavía más imaginar lo que viene después."
+    },
+    "aLoQDQ": {
+        "en-US": "[Dinar]\nThe main characters live and move inside my heart.\nAll I have to do is watch them, just as if I were watching a play.",
+        "pt-BR": "[Dinar]\nOs protagonistas vivem e se movem dentro do meu coração.\nEu só preciso observá-los, como se estivesse assistindo a uma peça.",
+        "es-ES": "[Dinar]\nLos protagonistas viven y se mueven dentro de mi corazón.\nYo solo tengo que observarlos como si estuviera viendo una obra de teatro."
+    },
+    "aboQDQ": {
+        "en-US": "Amira",
+        "pt-BR": "Amira",
+        "es-ES": "Amira"
+    },
+    "aroQDQ": {
+        "en-US": "[Amira]\nHello! You came because you wanted to hear a story, right?\nBut you did not bring the notebook.",
+        "pt-BR": "[Amira]\nOi! Você veio ouvir uma história, não foi?\nMas não trouxe o caderno.",
+        "es-ES": "[Amira]\n¡Hola! Has venido porque quieres escuchar una historia, ¿verdad?\nPero no has ido a recoger la libreta."
+    },
+    "a7oQDQ": {
+        "en-US": "[Amira]\nIf you bring the notebook, I will tell you a new story.\nThere, just go visit Sister Gudra!",
+        "pt-BR": "[Amira]\nSe trouxer o caderno, conto uma nova história.\nPronto, é só ir até a irmã Gudra e voltar!",
+        "es-ES": "[Amira]\nSi vienes con la libreta, te contaré una historia nueva.\n¡Anda, ve a ver a la hermana Gudra!"
+    },
+    "bLoQDQ": {
+        "en-US": "[Amira]\nAre you the person who came at Sister Gudra's request?\nShe asked something strange. To tell old...... stories that I know.",
+        "pt-BR": "[Amira]\nÉ você a pessoa que veio a pedido da irmã Gudra?\nA irmã fez um pedido curioso. Pediu que eu contasse uma história antiga...... que eu conhecesse.",
+        "es-ES": "[Amira]\n¿Eres tú la persona que ha venido por encargo de la hermana Gudra?\nVaya petición tan extraña te ha hecho. Que le cuente una historia antigua...... de las que conozco."
+    },
+    "bboQDQ": {
+        "en-US": "[Amira]\nAnyway, I promised I would tell the stories my grandfather told me before he passed away, before we came to Gray Wolf Forest.",
+        "pt-BR": "[Amira]\nEnfim, prometi contar a história que ouvi do meu avô, que faleceu antes de chegarmos à Floresta do Lobo Cinzento.",
+        "es-ES": "[Amira]\nEn cualquier caso, prometí contar la historia que me narraba mi abuelo, que murió antes de que viniéramos al Bosque del Lobo Gris."
+    },
+    "broQDQ": {
+        "en-US": "[Amira]\nAre you ready to listen? All right, I will tell it slowly.\nThere are far more gods in this world than the ones we know......",
+        "pt-BR": "[Amira]\nEstá pronto para ouvir? Certo, vou contar devagar.\nNo mundo, existem muito mais deuses do que aqueles que nós conhecemos......",
+        "es-ES": "[Amira]\n¿Estás preparado para escucharla? Bien, te la contaré despacio.\nEn el mundo hay muchos más dioses de los que nosotros conocemos......"
+    },
+    "b7oQDQ": {
+        "en-US": "[Amira]\nSo, you came running errands for Sister Gudra again today.\nWhat in the world is she gathering all these stories for?",
+        "pt-BR": "[Amira]\nHoje também veio fazer um recado da irmã Gudra.\nPara que será que ela reúne histórias assim?",
+        "es-ES": "[Amira]\nHoy también has venido a hacerle un recado a la hermana Gudra.\n¿Para qué querrá reunir historias como estas?"
+    },
+    "cLoQDQ": {
+        "en-US": "[Amira]\nAnyway, I will tell you the next story.\nThis too is a story my grandfather told me, about how some gods still......",
+        "pt-BR": "[Amira]\nEnfim, vou contar a próxima história.\nEsta também foi contada pelo meu avô, e alguns deuses ainda......",
+        "es-ES": "[Amira]\nEn cualquier caso, te contaré la siguiente historia.\nEsta también me la contó mi abuelo, y trata sobre cómo algunos dioses todavía......"
+    },
+    "cboQDQ": {
+        "en-US": "[Amira]\n......And so, um, what was the name again? I cannot remember it well, but anyway, the important thing is......",
+        "pt-BR": "[Amira]\n......Então, hum, qual era mesmo o nome? Não lembro bem, mas o importante é que......",
+        "es-ES": "[Amira]\n……Y entonces, mmm, ¿cómo era el nombre? No lo recuerdo bien, pero, en fin, lo importante es......"
+    },
+    "croQDQ": {
+        "en-US": "[Amira]\nGrandfather used to say that it is important not to forget our gods.\nThat is why he told me so many stories.",
+        "pt-BR": "[Amira]\nFoi o que meu avô disse. Que é importante não esquecer os nossos deuses.\nE que era por isso que ele me contava tantas histórias.",
+        "es-ES": "[Amira]\nMi abuelo decía que era importante no olvidar a nuestros dioses.\nPor eso me contaba tantas historias."
+    },
+    "c7oQDQ": {
+        "en-US": "[Amira]\nI heard so many stories, but now there are some I have forgotten too......\nIf Sister Gudra turns them into a book, I will not forget them anymore.",
+        "pt-BR": "[Amira]\nOuvi tantas histórias, mas há algumas de que agora me esqueci......\nSe a irmã Gudra fizer um livro, então não vou mais esquecê-las.",
+        "es-ES": "[Amira]\nEscuché muchísimas historias, pero ahora hay algunas que ya he olvidado…….\nSi la hermana Gudra las convierte en un libro, ya no las olvidaré."
+    },
+    "dLoQDQ": {
+        "en-US": "Shanina",
+        "pt-BR": "Shanina",
+        "es-ES": "Shanina"
+    },
+    "dboQDQ": {
+        "en-US": "[Shanina]\nHmm? Did you not say you would write down the story? You came empty-handed.",
+        "pt-BR": "[Shanina]\nHmm? Você não disse que vinha escrever a história? Veio de mãos vazias.",
+        "es-ES": "[Shanina]\n¿Mmm? ¿No habías dicho que ibas a anotar la historia? Has venido con las manos vacías."
+    },
+    "droQDQ": {
+        "en-US": "[Shanina]\nYou said you were running an errand for Gudra, yes? Go to Gudra and fetch something to write with.",
+        "pt-BR": "[Shanina]\nDisse que veio a pedido de Gudra, não foi? Vá até Gudra e traga algo para escrever.",
+        "es-ES": "[Shanina]\n¿Dijiste que venías a hacerle un recado a Gudra? Ve a ver a Gudra y que te dé algo para escribir."
+    },
+    "d7oQDQ": {
+        "en-US": "[Shanina]\nAh, you are here on an errand for Gudra? You came to hear an old story, did you not?\nI shall tell you one. A very old story, one my grandmother used to tell me, though it may not suit your tastes.",
+        "pt-BR": "[Shanina]\nAh, então você veio a pedido de Gudra? Disse que vinha ouvir uma história antiga, não é?\nVou contar. É uma história muito antiga, que minha avó costumava me contar, então talvez não seja do seu gosto.",
+        "es-ES": "[Shanina]\nAh, ¿vienes de parte de Gudra? Dijiste que habías venido a escuchar una historia antigua, ¿verdad?\nTe contaré una. Es una historia muy vieja, una de las que me contaba mi abuela, así que quizá no sea de tu gusto."
+    },
+    "eLoQDQ": {
+        "en-US": "[Shanina]\nYou ask whether it is a bother? Do not worry. It gives me something to do, and that makes me happy.",
+        "pt-BR": "[Shanina]\nEstá preocupado em incomodar? Não se preocupe. Isso me diverte como passatempo.",
+        "es-ES": "[Shanina]\n¿Que si me molesta? No te preocupes. Me entretiene, así que me alegra."
+    },
+    "eboQDQ": {
+        "en-US": "[Shanina]\nThen, long ago, in a very distant age. There lived a blacksmith......",
+        "pt-BR": "[Shanina]\nEntão, antigamente, há muito, muito tempo. Havia um ferreiro que vivia......",
+        "es-ES": "[Shanina]\nBueno, pues hace mucho, muchísimo tiempo, vivía un herrero......"
+    },
+    "eroQDQ": {
+        "en-US": "[Shanina]\nSo you have come again on an errand for Gudra today. How diligent of you.\nDid she say the story I told was any good?",
+        "pt-BR": "[Shanina]\nHoje também veio a pedido de Gudra. Como você é diligente.\nEla disse que gostou da história que eu contei?",
+        "es-ES": "[Shanina]\nHoy también vienes a hacerle un recado a Gudra. Qué diligente eres.\n¿Dijo que la historia que te conté le pareció bien?"
+    },
+    "e7oQDQ": {
+        "en-US": "[Shanina]\nIf it helps Gudra, then I am glad.\nNow, where did I leave off? Was it time to tell a new story today?",
+        "pt-BR": "[Shanina]\nFico feliz se isso ajudar Gudra.\nAté onde eu tinha contado? Hoje era a vez de contar uma história nova?",
+        "es-ES": "[Shanina]\nSi le sirve de ayuda a Gudra, me alegro.\n¿Hasta dónde me había quedado? ¿Hoy tocaba contarte una historia nueva?"
+    },
+    "fLoQDQ": {
+        "en-US": "[Shanina]\nAh, had the last story still not ended? My memory is a bit hazy.\nYou say I had told you up to the part where the blacksmith rode an owl that descended from the sky and rose into the heavens?",
+        "pt-BR": "[Shanina]\nAh, a história da última vez ainda não tinha acabado, não é? Minha memória já falha um pouco.\nVocê ouviu até a parte em que o ferreiro subia ao céu montado numa coruja vinda do céu?",
+        "es-ES": "[Shanina]\nAh, ¿la historia anterior aún no había terminado? Tengo la memoria algo borrosa.\n¿Dijiste que la dejé en la parte en que el herrero subía al cielo montado en un búho que había descendido del cielo?"
+    },
+    "fboQDQ": {
+        "en-US": "[Shanina]\nMy, what a fine memory you have.\nThen I shall tell you the next part. The poor heavenly maiden, at last......",
+        "pt-BR": "[Shanina]\nOra, como sua memória é boa.\nEntão vou contar a próxima parte. A pobre donzela celestial acabou......",
+        "es-ES": "[Shanina]\nVaya, sí que tienes buena memoria.\nPues te contaré la parte siguiente. A la pobre doncella celestial le ocurrió......"
+    },
+    "froQDQ": {
+        "en-US": "[Shanina]\nAn old woman like me does not have many entertaining things left in life, but telling old stories to children is great fun.",
+        "pt-BR": "[Shanina]\nPara esta avó, já não há muitas coisas divertidas na vida, mas contar histórias antigas para as crianças é divertido.",
+        "es-ES": "[Shanina]\nA la abuela ya no le quedan demasiadas cosas divertidas en la vida, pero contar historias antiguas a los niños sí que lo es."
+    },
+    "f7oQDQ": {
+        "en-US": "[Shanina]\nI am very grateful that there is a child who comes to listen. You will be blessed.",
+        "pt-BR": "[Shanina]\nSou muito grata por haver uma criança que vem ouvir. Eu te dou a minha bênção.",
+        "es-ES": "[Shanina]\nTe agradezco mucho que vengas a escucharme. Recibirás bendiciones."
+    },
+    "gLoQDQ": {
+        "en-US": "Julan",
+        "pt-BR": "Julan",
+        "es-ES": "Julan"
+    },
+    "gboQDQ": {
+        "en-US": "[Julan]\nWhat is this, why are you eavesdropping on other people's conversation?",
+        "pt-BR": "[Julan]\nO quê? Por que está ouvindo escondido a conversa dos outros?",
+        "es-ES": "[Julan]\n¿Qué pasa? ¿Por qué estás escuchando a escondidas conversaciones ajenas?"
+    },
+    "groQDQ": {
+        "en-US": "[Julan]\nUgh, that man came to the village meeting again today and spouted nothing but strange nonsense.",
+        "pt-BR": "[Julan]\nUgh, hoje também aquele senhor veio à reunião da vila e só falou coisas sem sentido.",
+        "es-ES": "[Julan]\nUf, hoy otra vez ese señor fue a la reunión del pueblo y no hizo más que soltar tonterías."
+    },
+    "g7oQDQ": {
+        "en-US": "[Redsel]\nThat man? Ah, you mean that man whose name must not be spoken?",
+        "pt-BR": "[Redsel]\nAquele senhor? Ah, aquele senhor cujo nome não pode ser dito?",
+        "es-ES": "[Redsel]\n¿Ese señor? Ah, ¿ese señor cuyo nombre no se puede decir?"
+    },
+    "hLoQDQ": {
+        "en-US": "[Julan]\nWhat do you mean cannot be spoken? Of course it can be spoken.\nI heard he used to be somebody important in Rachel, but what power does that have in Gray Wolf Forest?",
+        "pt-BR": "[Julan]\nComo assim não pode ser dito? Claro que pode.\nDisseram que ele era alguém importante em Rachel, mas que força isso teria aqui na Floresta do Lobo Cinzento?",
+        "es-ES": "[Julan]\n¿Cómo que no se puede decir? Claro que se puede decir.\nDicen que en Rachel era alguien importante, pero ¿qué poder tiene eso en el Bosque del Lobo Gris?"
+    },
+    "hboQDQ": {
+        "en-US": "[Julan]\nThat man, Ahab or Dahab or whatever his name is!\nAlways saying things like, 'They do not do it that way in Rachel~ That is quite wrong~'",
+        "pt-BR": "[Julan]\nAquele senhor de Ahab ou Dahab, seja lá o que for!\nSempre fica com esse papo de \"em Rachel não é assim\", \"ah, isso aí está errado\"",
+        "es-ES": "[Julan]\n¡Ese señor, Ahab o Dahab o como se llame!\nSiempre sale con que \"en Rachel no se hacía así\", que \"eso estaba mal hecho\""
+    },
+    "hroQDQ": {
+        "en-US": "[Julan]\nIf that is the case, why did he not stay behind in Rachel? Why come all the way here so pathetically?\nI truly do not understand!",
+        "pt-BR": "[Julan]\nSe era assim, então por que não ficou em Rachel, em vez de vir até aqui de forma tão miserável?\nSinceramente, eu não entendo!",
+        "es-ES": "[Julan]\nPues si tanto le gustaba, ¿por qué no se quedó en Rachel en vez de venir arrastrándose hasta aquí?\nDe verdad, ¡no lo entiendo!"
+    },
+    "h7oQDQ": {
+        "en-US": "[Kayar]\nPerhaps he still thinks he is in Rachel.\nEven though he sleeps in a tent with the wind blowing through, maybe he still has not woken up from the dream.",
+        "pt-BR": "[Kayar]\nParece que ele ainda acha que está em Rachel.\nSerá que, mesmo dormindo numa tenda por onde entra vento, ainda não conseguiu acordar do sonho?",
+        "es-ES": "[Kayar]\nSupongo que todavía cree que sigue en Rachel.\n¿Será que duerme en una tienda donde entra el viento y aun así no se ha despertado del sueño?"
+    },
+    "iLoQDQ": {
+        "en-US": "[Julan]\nIf he is going to dream, he should dream alone.\nWhy be a nuisance to others too?",
+        "pt-BR": "[Julan]\nSe vai sonhar, que sonhe sozinho.\nPor que precisa incomodar os outros também?",
+        "es-ES": "[Julan]\nSi va a soñar, que sueñe él solo.\n¿Por qué tiene que causar molestias a los demás?"
+    },
+    "iboQDQ": {
+        "en-US": "[Redsel]\n......And who are you, eavesdropping on us?\nAre you one of Dahab old man's lackeys!",
+        "pt-BR": "[Redsel]\n......E você, o que é? Por que está ouvindo nossa conversa?\nÉ capanga daquele senhor Dahab?!",
+        "es-ES": "[Redsel]\n……¿Y tú quién eres para estar escuchando nuestra conversación?\n¡¿Eres un esbirro de ese señor de Dahab?!"
+    },
+    "iroQDQ": {
+        "en-US": "[Kayar]\nHe is not even someone clever enough to keep lackeys.\nSo then, who are you? Eavesdropping on other people's gossip. How embarrassing.",
+        "pt-BR": "[Kayar]\nEle nem é uma figura inteligente o bastante para manter capangas.\nEntão, quem é você? Ouvir escondido a conversa alheia, que vergonha.",
+        "es-ES": "[Kayar]\nNi siquiera es un personaje lo bastante listo como para criar esbirros.\nEntonces, ¿quién eres? Qué vergüenza, escuchando a escondidas las habladurías ajenas."
+    },
+    "i7oQDQ": {
+        "en-US": "I am just a traveler passing by.",
+        "pt-BR": "Sou só um viajante de passagem.",
+        "es-ES": "Solo soy un trotamundos que pasaba por aquí."
+    },
+    "jLoQDQ": {
+        "en-US": "[Julan]\nLiar. What traveler just happens to pass through Gray Wolf Forest?\nYou must be connected to us somehow.",
+        "pt-BR": "[Julan]\nMentiroso. Que viajante de passagem apareceria nesta Floresta do Lobo Cinzento?\nDe algum jeito, você deve ter relação conosco.",
+        "es-ES": "[Julan]\nMentiroso. ¿Qué trotamundos va a pasar por el Bosque del Lobo Gris?\nDe un modo u otro, tienes que ser alguien relacionado con nosotros."
+    },
+    "jboQDQ": {
+        "en-US": "[Redsel]\nIf you will not say it, then I suppose we will have to hear it by force~\nAre you really going to keep spouting lies?",
+        "pt-BR": "[Redsel]\nSe não quer falar, então só vamos poder descobrir à força!\nVai continuar dizendo só mentiras mesmo?",
+        "es-ES": "[Redsel]\nSi no quieres hablar, no nos quedará más remedio que sacártelo por la fuerza!\n¿De verdad vas a seguir diciendo mentiras?"
+    },
+    "jroQDQ": {
+        "en-US": "[Kayar]\nCalm down, Redsel. As Julan said, you cannot possibly be some traveler merely passing through, but. There is someone who might be here even if we do not know them, is there not?",
+        "pt-BR": "[Kayar]\nCalma, Redsel. Como Julan disse, não pode mesmo ser um viajante de passagem. Mas existe alguém que nós talvez não conheçamos e que não seria estranho estar aqui, não existe?",
+        "es-ES": "[Kayar]\nCálmate, Redsel. Como dice Julan, no puede ser un viajero de paso, pero hay alguien cuya presencia aquí no sería rara aunque nosotros no lo conozcamos, ¿no?"
+    },
+    "j7oQDQ": {
+        "en-US": "[Julan]\nAnd who would that be?",
+        "pt-BR": "[Julan]\nE quem seria?",
+        "es-ES": "[Julan]\n¿Y quién sería ese?"
+    },
+    "kLoQDQ": {
+        "en-US": "[Julan]\nIf you have no intention of following the rules of this forest, then I would like you to leave.\nThe same goes for you. Rules exist to be followed.",
+        "pt-BR": "[Julan]\nSe você não pretende seguir as regras desta floresta, então eu gostaria que fosse embora.\nIsso vale para você também. As regras existem para serem seguidas.",
+        "es-ES": "[Julan]\nSi no piensas respetar las normas de este bosque, me gustaría que te fueras.\nY eso también va por ti. Las normas existen para cumplirlas."
+    },
+    "kboQDQ": {
+        "en-US": "[Julan]\nThe same goes for manners. Is a place without manners and rules a society? No, it is savagery.\nI do not want to live in a wild state!",
+        "pt-BR": "[Julan]\nO mesmo vale para a educação. Um lugar sem educação e sem regras é uma sociedade? Não, é selvageria.\nEu não quero viver em estado selvagem!",
+        "es-ES": "[Julan]\nCon la educación pasa lo mismo. ¿Un lugar sin educación ni normas puede llamarse sociedad? Eso sería barbarie.\n¡Yo no quiero vivir en estado salvaje!"
+    },
+    "kroQDQ": {
+        "en-US": "[Julan]\nYou are back? What did Mr. Dahab say?\nWhat? That he said he will listen better to other people from now on?",
+        "pt-BR": "[Julan]\nEntão voltou? O que o senhor Dahab disse?\nO quê? Ele disse que agora vai ouvir melhor os outros?",
+        "es-ES": "[Julan]\n¿Ya has vuelto? ¿Qué dijo el señor Dahab?\n¿Qué? ¿Que a partir de ahora escuchará mejor a los demás?"
+    },
+    "k7oQDQ": {
+        "en-US": "[Julan]\nSo he really had not been listening up until now.",
+        "pt-BR": "[Julan]\nEntão, até agora, ele realmente não estava ouvindo.",
+        "es-ES": "[Julan]\nAsí que hasta ahora no los estaba escuchando, ¿eh?"
+    },
+    "lLoQDQ": {
+        "en-US": "[Kayar]\nSnrk... Do not tease, Julan.\nWhat matters is that he has decided to do things properly now, is it not?",
+        "pt-BR": "[Kayar]\nHmph... não zombe, Julan.\nO importante é que agora ele decidiu fazer o certo.",
+        "es-ES": "[Kayar]\nUf… no te burles, Julan.\nLo importante es que haya decidido hacerlo bien a partir de ahora."
+    },
+    "lboQDQ": {
+        "en-US": "[Redsel]\nYes, yes.\nD... no, Mr. Ahab, what has gotten into him?\nYou must have spoken very well, oh important person, or perhaps just an overly nosy one.",
+        "pt-BR": "[Redsel]\nIsso, isso.\nD... quero dizer, o Sr. Ahab? Que surpresa.\nFoi você que falou bem com ele, não foi, pessoa importante ou... pessoa intrometida.",
+        "es-ES": "[Redsel]\nSí, sí.\nD…… no, quiero decir, el señor Ahab, ¿qué le habrá pasado?\nSupongo que habrás hablado bien con él, persona importante."
+    },
+    "lroQDQ": {
+        "en-US": "[Redsel]\nThank you. Thanks to you, we no longer have to send someone away from here.\nEven though we said we would, it still felt terribly uncomfortable.",
+        "pt-BR": "[Redsel]\nAgradeço. Graças a você, também não vai mais acontecer de expulsarem alguém daqui.\nMesmo tendo sido só palavras vãs, isso ainda me deixava desconfortável.",
+        "es-ES": "[Redsel]\nGracias. Gracias a ti, ya no habrá que echar a nadie de aquí.\nAunque dijéramos que lo haríamos, la verdad es que yo me sentía muy incómodo con eso."
+    },
+    "l7oQDQ": {
+        "en-US": "[Kayar]\nWe do not represent the village meeting... merely attendees of the meeting, but we would like to offer a small token of gratitude.\nI am glad someone like you was here.",
+        "pt-BR": "[Kayar]\nNão posso dizer que represento a reunião da vila... sou só um participante, mas vamos mostrar um pequeno gesto de gratidão.\nAinda bem que existe alguém como você.",
+        "es-ES": "[Kayar]\nNo representamos… exactamente a la reunión del pueblo, solo somos asistentes, pero te mostraremos un pequeño gesto de agradecimiento.\nMenos mal que hay gente como tú."
+    },
+    "mLoQDQ": {
+        "en-US": "[Julan]\nNow that Mr. Ahab has started to listen to other people a little... maybe he is not such a bad person after all.\nYes, this is precisely how adults are meant to interact.",
+        "pt-BR": "[Julan]\nAgora que o Sr. Ahab começou a ouvir um pouco o que as pessoas dizem... acho que ele também não parece ser uma pessoa tão ruim.\nÉ assim que os adultos se relacionam, mesmo.",
+        "es-ES": "[Julan]\nAhora que el señor Ahab ha empezado a escuchar un poco a la gente… parece que no es una persona tan mala.\nSí, así es como se relacionan los adultos."
+    },
+    "mboQDQ": {
+        "en-US": "[Julan]\nI am glad it did not end with everyone shouting over one another with their ears closed until it became a matter of whether to drive someone out or not.\nIt is thanks to you. Thank you.",
+        "pt-BR": "[Julan]\nAinda bem que não acabou naquilo de cada um tapar os ouvidos, gritar e no fim falar em expulsar ou não expulsar alguém.\nFoi graças a você. Agradecemos por isso.",
+        "es-ES": "[Julan]\nMenos mal que no hemos acabado todos gritándonos con los oídos tapados y discutiendo si echarlo o no.\nHa sido gracias a ti. Gracias."
+    },
+    "mroQDQ": {
+        "en-US": "Kayar",
+        "pt-BR": "Kayar",
+        "es-ES": "Kayar"
+    },
+    "m7oQDQ": {
+        "en-US": "[Kayar]\nAh, what a headache. There is a troublesome problem.",
+        "pt-BR": "[Kayar]\nAh, que dor de cabeça. Tem um problema bem chato.",
+        "es-ES": "[Kayar]\nAh, qué dolor de cabeza. Tenemos un problema muy molesto."
+    },
+    "nLoQDQ": {
+        "en-US": "[Kayar]\nIt is an interpersonal issue, so I do not want to talk about it with a stranger....",
+        "pt-BR": "[Kayar]\nComo é um problema de relacionamento, não quero falar disso com desconhecidos....",
+        "es-ES": "[Kayar]\nEs un problema de relaciones humanas, así que no me apetece hablarlo con un desconocido...."
+    },
+    "nboQDQ": {
+        "en-US": "[Kayar]\nWould it not make sense if you were a guest of important people?\nWe cannot possibly know every little detail of the leaders' affairs here.",
+        "pt-BR": "[Kayar]\nNão faria sentido se você fosse um convidado das pessoas importantes?\nAfinal, não dá para sabermos detalhes dos assuntos dos líderes daqui.",
+        "es-ES": "[Kayar]\n¿No encajaría que fueras un invitado de las personas importantes?\nNosotros no tenemos por qué conocer al detalle hasta las cosas de los líderes de aquí."
+    },
+    "nroQDQ": {
+        "en-US": "[Julan]\nYou, is that true?\n......Well, if it is something kept secret from us, I suppose they would not tell us.",
+        "pt-BR": "[Julan]\nVocê, isso é verdade?\n......Bem, se é segredo para nós, imagino que não vá nos contar.",
+        "es-ES": "[Julan]\n¿De verdad es así?\n……Bueno, si es un secreto para nosotros, supongo que no nos lo dirás."
+    },
+    "n7oQDQ": {
+        "en-US": "[Redsel]\nIf you are really someone important, then hear us out.\nYou are not someone important? Even so, you must be somebody significant. So listen.",
+        "pt-BR": "[Redsel]\nSe você é realmente alguém importante, então ouça o que temos a dizer.\nNão é importante? Mesmo assim, deve ser alguém relevante. Então escute.",
+        "es-ES": "[Redsel]\nSi de verdad eres alguien importante, escúchanos un momento.\n¿No eres alguien importante? Aun así, debes de ser alguien relevante. Escúchanos un poco."
+    },
+    "oLoQDQ": {
+        "en-US": "[Redsel]\nThat Dahab...... no, that is just the nickname we use among ourselves.\nCould you do something about that old man called Ahab?",
+        "pt-BR": "[Redsel]\nAquele senhor Dahab...... não, esse é só o apelido que damos entre nós.\nSerá que você pode fazer alguma coisa a respeito daquele senhor chamado Ahab?",
+        "es-ES": "[Redsel]\nEse señor Dahab…… no, así es como le llamamos entre nosotros.\n¿Podrías hacer algo con ese señor llamado Ahab?"
+    },
+    "oboQDQ": {
+        "en-US": "[Julan]\nHe is a truly troublesome old man, that one!\nHe barges into every village meeting and spouts nonsense, and it is driving me mad.",
+        "pt-BR": "[Julan]\nAquele homem é realmente um senhor insuportável!\nEle se mete em toda reunião da vila para falar bobagens, e isso está me matando.",
+        "es-ES": "[Julan]\n¡Ese hombre es un auténtico dolor de cabeza!\nSe mete en todas las reuniones del pueblo para decir tonterías, y ya no podemos más."
+    },
+    "oroQDQ": {
+        "en-US": "[Julan]\nHe never listens to anyone else and only keeps talking about what he wants to say, and it is not even anything useful to hear.\nYet because he is older, he insists we must listen to him as our superior, and honestly it gives me such a headache.",
+        "pt-BR": "[Julan]\nEle nem escuta o que os outros dizem e só fica despejando o que quer falar, e, pior ainda, nem é algo útil de ouvir.\nAinda insiste que, por ser mais velho, é alguém superior e que devemos escutá-lo, e isso me dá uma dor de cabeça terrível.",
+        "es-ES": "[Julan]\nNo escucha a nadie y no hace más que soltar lo suyo, y encima ni siquiera son cosas útiles.\nY como él dice que, por ser mayor, es un superior y hay que escucharle, te juro que me duele la cabeza."
+    },
+    "o7oQDQ": {
+        "en-US": "[Julan]\nFrom what I hear, he used to live in grand style by serving the migrants.\nIf he thinks that means he can come here and tell natives what to do, he is sorely mistaken.",
+        "pt-BR": "[Julan]\nPelo que ouvi, ele era alguém que vivia muito bem servindo aos imigrantes.\nMas, se pensa que pode mandar nos nativos com a mesma arrogância de antes, está muito enganado.",
+        "es-ES": "[Julan]\nPor lo que he oído, fue uno de esos que vivían a cuerpo de rey sirviendo a los inmigrantes.\nPero si cree que por los aires que llevaba entonces puede venir aquí a decirles a los indígenas lo que tienen que hacer, está muy equivocado."
+    },
+    "pLoQDQ": {
+        "en-US": "[Kayar]\nIf we could simply drive him out, I would like to.\nIf we gather our opinions and insist strongly enough, it might even work.",
+        "pt-BR": "[Kayar]\nSe pudéssemos simplesmente expulsá-lo, eu gostaria de fazer isso.\nTalvez, se reunirmos nossas opiniões e insistirmos com força, até funcione.",
+        "es-ES": "[Kayar]\nSi pudiéramos echarlo sin más, lo haríamos.\nQuizá, si reuniéramos nuestras opiniones y lo defendiéramos con fuerza, sería posible."
+    },
+    "pboQDQ": {
+        "en-US": "[Redsel]\nHey, hey, no matter what, that is not right.\nThis is a place where people with nowhere else to go gather.",
+        "pt-BR": "[Redsel]\nEi, ei, por pior que seja, isso não.\nAqui é um lugar onde se reúnem pessoas que não têm mais para onde ir.",
+        "es-ES": "[Redsel]\nOye, oye, por mucho que eso sea así, tampoco se puede hacer eso.\nEste es un lugar donde se reúne gente que ya no tiene adónde ir."
+    },
+    "proQDQ": {
+        "en-US": "[Redsel]\nIf we drive him out from here, then that old man will have nowhere to go.",
+        "pt-BR": "[Redsel]\nSe o expulsarmos daqui, aquele senhor realmente não terá mais para onde ir.",
+        "es-ES": "[Redsel]\nSi lo echamos de aquí, ese señor no tendrá ningún sitio adonde ir."
+    },
+    "p7oQDQ": {
+        "en-US": "[Julan]\nThen how long are we supposed to keep putting up with that nuisance?\nI have nowhere else to go but here too, so does that mean I can start behaving however I want from now on?",
+        "pt-BR": "[Julan]\nMas isso significa que temos que continuar aguentando aquele incômodo para sempre?\nEu também não tenho para onde ir além daqui, então será que posso começar a fazer o que eu quiser?",
+        "es-ES": "[Julan]\n¿Y entonces cuánto tiempo tenemos que seguir aguantando a ese impresentable?\nComo yo tampoco tengo otro sitio adonde ir, ¿ahora resulta que puedo comportarme como me dé la gana?"
+    },
+    "qLoQDQ": {
+        "en-US": "[Kayar]\nIf you do it too, then we will have two nuisances. I will not survive that....",
+        "pt-BR": "[Kayar]\nSe até você fizer isso, então vão ser dois incômodos. Eu não aguento....",
+        "es-ES": "[Kayar]\nSi tú también haces eso, ya serían dos impresentables. No podría soportarlo...."
+    },
+    "qboQDQ": {
+        "en-US": "[Redsel]\nYes, you there, important person! Judging by the fact that you are still listening, you must have a great interest in our affairs.\nIt does not matter if you are not important. You nosy person!",
+        "pt-BR": "[Redsel]\nEi, você aí, pessoa importante! Pelo jeito ainda está ouvindo, então deve estar bastante interessado no nosso assunto, né?\nMesmo que não seja importante, tudo bem. Você é uma pessoa intrometida!",
+        "es-ES": "[Redsel]\nSí, usted, persona importante. Por cómo sigue aquí escuchando, debe de interesarle bastante nuestro asunto, ¿verdad?\nAunque no sea una persona importante, me da igual. ¡Persona entrometida!"
+    },
+    "qroQDQ": {
+        "en-US": "[Kayar]\nIn our village, it is not only important people who attend the village operations meeting.\nOf course, the final decisions are made by the important people, but still....",
+        "pt-BR": "[Kayar]\nNa nossa vila, não são só as pessoas importantes que participam da reunião sobre a administração da vila.\nClaro que as decisões em si são tomadas pelas pessoas importantes, mas mesmo assim....",
+        "es-ES": "[Kayar]\nEn nuestro pueblo no solo las personas importantes participan en la reunión donde se gestiona el pueblo.\nClaro que las decisiones en sí las toman las personas importantes, pero aun así...."
+    },
+    "q7oQDQ": {
+        "en-US": "[Kayar]\nSo just because someone participates in the meeting does not mean they act all high and mighty.\nExcept for that Dahab old man, that is.",
+        "pt-BR": "[Kayar]\nOu seja, participar da reunião não é motivo para ficar se achando.\nExceto por aquele senhor Dahab.",
+        "es-ES": "[Kayar]\nAsí que, por participar en la reunión, nadie va presumiendo.\nSalvo ese señor de Dahab, claro."
+    },
+    "rLoQDQ": {
+        "en-US": "[Kayar]\nThat sort of attitude is no good, truly no good....\nThe longer it goes on, the worse the influence it will have.",
+        "pt-BR": "[Kayar]\nEssa atitude não é boa, realmente não é boa....\nQuanto mais isso se prolongar, piores serão as consequências.",
+        "es-ES": "[Kayar]\nEsa actitud no es buena, de verdad que no es buena....\nCuanto más se alargue, peores consecuencias traerá."
+    },
+    "rboQDQ": {
+        "en-US": "[Kayar]\nWhat, Mr. Ahab said he would do better from now on?\nPeople do not change easily....",
+        "pt-BR": "[Kayar]\nO quê, o Sr. Ahab disse que vai tentar fazer melhor daqui para frente?\nAs pessoas não mudam tão fácil....",
+        "es-ES": "[Kayar]\n¿Cómo? ¿Que el señor Ahab ha dicho que, a partir de ahora, intentará hacerlo mejor?\nLa gente no cambia tan fácilmente...."
+    },
+    "rroQDQ": {
+        "en-US": "[Kayar]\nStill, you say he seemed desperate, so perhaps I should believe him one more time.\nIf people do not change easily, that means that, on rare occasions, they do change.",
+        "pt-BR": "[Kayar]\nMesmo assim, se ele parecia desesperado, que tal confiar nele mais uma vez?\nDizer que as pessoas não mudam fácil também significa que, raramente, elas mudam.",
+        "es-ES": "[Kayar]\nPero si dices que parecía desesperado, quizá deberíamos confiar en él una vez más.\nQue la gente no cambie fácilmente significa que, de vez en cuando, sí cambia."
+    },
+    "r7oQDQ": {
+        "en-US": "[Kayar]\nI did say people rarely change... Perhaps I have just witnessed one of those rare changes?",
+        "pt-BR": "[Kayar]\nEu disse que as pessoas mudam raramente... será que presenciamos essa rara mudança?",
+        "es-ES": "[Kayar]\nDecía que las personas cambian rara vez… ¿habré visto una de esas raras ocasiones?"
+    },
+    "sLoQDQ": {
+        "en-US": "[Kayar]\nIt may still take more time, but Mr. Ahab now makes me think he might become a good neighbor.",
+        "pt-BR": "[Kayar]\nTalvez ainda precise de mais tempo, mas o Sr. Ahab agora me faz pensar que pode vir a ser um bom vizinho.",
+        "es-ES": "[Kayar]\nPuede que aún haga falta más tiempo, pero el señor Ahab, al menos por ahora, me da la impresión de que podría llegar a ser un buen vecino."
+    },
+    "sboQDQ": {
+        "en-US": "Redsel",
+        "pt-BR": "Redsel",
+        "es-ES": "Redsel"
+    },
+    "sroQDQ": {
+        "en-US": "[Redsel]\nPeople who cannot understand what they are told! Stupid people! People who make others repeat themselves! People who let their emotions show in their work!",
+        "pt-BR": "[Redsel]\nPessoa que não entende o que falam! Pessoa burra! Pessoa que faz a gente repetir o que já disse! Pessoa que põe emoção no trabalho!",
+        "es-ES": "[Redsel]\n¡Gente que no entiende lo que se le dice! ¡Gente tonta! ¡Gente que te obliga a repetir lo mismo! ¡Gente que mezcla sus emociones con el trabajo!"
+    },
+    "s7oQDQ": {
+        "en-US": "[Redsel]\nPeople who hide what they did wrong and then quietly reveal it only after it is too late to fix! People who cannot take responsibility for their own work!",
+        "pt-BR": "[Redsel]\nPessoa que esconde o erro e só revela quando já não dá mais para voltar atrás! Pessoa que não assume responsabilidade pelo próprio trabalho!",
+        "es-ES": "[Redsel]\n¡Gente que oculta sus errores y solo los saca cuando ya no hay remedio! ¡Gente incapaz de responsabilizarse de sus actos!"
+    },
+    "tLoQDQ": {
+        "en-US": "[Redsel]\nI absolutely hate that sort!",
+        "pt-BR": "[Redsel]\nDetesto isso!",
+        "es-ES": "[Redsel]\n¡No los soporto!"
+    },
+    "tboQDQ": {
+        "en-US": "[Redsel]\nYou ask why there are so many people I dislike?\nNo, no, there is just one person I dislike... only one!",
+        "pt-BR": "[Redsel]\nEstá perguntando por que eu odeio tanta gente assim?\nNão, não. A pessoa que eu odeio... é só uma!",
+        "es-ES": "[Redsel]\n¿Que por qué hay tanta gente que me cae mal?\nNo, no, gente que me caiga mal… ¡solo hay una!"
+    },
+    "troQDQ": {
+        "en-US": "[Redsel]\nYou heard what we have been saying up until now, right?\nYou are the only one who can resolve this suffering of ours.",
+        "pt-BR": "[Redsel]\nVocê ouviu tudo até agora, não foi?\nA única pessoa que pode resolver este nosso sofrimento é você.",
+        "es-ES": "[Redsel]\n¿Has oído lo que veníamos diciendo hasta ahora?\nSolo tú puedes resolver este sufrimiento nuestro."
+    },
+    "t7oQDQ": {
+        "en-US": "[Julan]\nThere is truly no hope for him, so if nothing can be done, then we are going to gather our opinions and suggest expelling him from the village.",
+        "pt-BR": "[Julan]\nComo ele realmente não tem solução, se nada der certo, vamos reunir opiniões e propor que seja expulso da vila.",
+        "es-ES": "[Julan]\nDe verdad que no tiene remedio, así que, si no se puede hacer nada, reuniremos opiniones y pediremos que lo expulsen del pueblo."
+    },
+    "uLoQDQ": {
+        "en-US": "[Redsel]\nCome now, let us postpone that for later......\nBut yes, I suppose that really would be the last solution.",
+        "pt-BR": "[Redsel]\nPoxa, vamos deixar isso para mais tarde......\nMas, realmente, no fim essa vai ser a solução final.",
+        "es-ES": "[Redsel]\nBueno, eso dejémoslo para más adelante……\nPero sí, al final esa sería la solución definitiva."
+    },
+    "uboQDQ": {
+        "en-US": "[Kayar]\nIt is not just us who find him troublesome, so if we propose it, it will probably pass.\nEveryone attending the village meeting now is having a hard time with him.",
+        "pt-BR": "[Kayar]\nNão somos só nós que estamos sofrendo com isso, então se apresentarmos a proposta, ela deve passar.\nTodo mundo que participa da reunião da vila está tendo dificuldade.",
+        "es-ES": "[Kayar]\nNo somos los únicos a los que les da dolores de cabeza, así que si lo proponemos, seguramente saldrá adelante.\nTodos los que asisten a la reunión del pueblo dicen que es un problema."
+    },
+    "uroQDQ": {
+        "en-US": "[Redsel]\nBut! I said let us save that for the very end.\nPlease help before we reach that point, sir.",
+        "pt-BR": "[Redsel]\nMas! Vamos deixar isso como último recurso.\nAntes que chegue a esse ponto, nos ajude, moço.",
+        "es-ES": "[Redsel]\n¡Pero! Eso dejémoslo para el final.\nAyúdanos un poco antes de que llegue ese final, amigo."
+    },
+    "u7oQDQ": {
+        "en-US": "[Kayar]\nWe just cannot communicate with that old man.\nWould you go and talk to him for us?",
+        "pt-BR": "[Kayar]\nNós não conseguimos nos entender com aquele senhor.\nVocê poderia ir conversar com ele por nós?",
+        "es-ES": "[Kayar]\nNosotros no conseguimos entendernos con ese señor.\n¿No podrías ir a hablar un poco con él?"
+    },
+    "vLoQDQ": {
+        "en-US": "[Redsel]\nOh, wow. That would be great. Talk to him and find out why he acts that way, and whether there is any way he could stop.\nThis is truly the greatest favor I will ever ask in my whole life.",
+        "pt-BR": "[Redsel]\nAh, uau. Isso seria ótimo. Vá conversar com ele, descubra por que ele age assim e se não dá para ele parar com isso.\nEsse será o único favor que te peço na vida.",
+        "es-ES": "[Redsel]\nOh, vaya. Eso estaría genial. Ve a hablar con él, averigua por qué se comporta así y si no podría dejar de hacerlo.\nDe verdad, te lo pido como el mayor favor de mi vida."
+    },
+    "vboQDQ": {
+        "en-US": "[Julan]\nLet it be her greatest favor. I am saving mine for when I get a sweetheart.",
+        "pt-BR": "[Julan]\nPor favor, atenda esse pedido de Redsel. Eu pretendo guardar o meu pedido para arrumar alguém para namorar.",
+        "es-ES": "[Julan]\nQue sea el mayor favor de la vida de Redsel. Yo el mío me lo guardo para cuando tenga pareja."
+    },
+    "vroQDQ": {
+        "en-US": "[Redsel]\nFine, that does not matter. I am never going to date.\nSo this is my lifelong wish. Please make that old man Ahab into a proper person.",
+        "pt-BR": "[Redsel]\nSim, tanto faz. Eu não vou namorar.\nEntão este é o meu maior desejo de toda a vida. Faça daquele senhor Ahab uma pessoa decente.",
+        "es-ES": "[Redsel]\nSí, sí, eso da igual. Yo no voy a enamorarme.\nAsí que este es el deseo de toda mi vida. Haz de ese señor Ahab una persona de bien."
+    },
+    "v7oQDQ": {
+        "en-US": "[Kayar]\nIt somehow feels like that wish is quietly growing larger.\nAnyway, please help us. Go and talk with <NAVI>[Mr. Ahab]<INFO>wolfvill,127,155,0,101,0</INFO></NAVI>.",
+        "pt-BR": "[Kayar]\nDe alguma forma, sinto que o desejo está ficando maior aos poucos.\nEnfim, conto com você. Vá conversar com o <NAVI>[Sr. Ahab]<INFO>wolfvill,127,155,0,101,0</INFO></NAVI>.",
+        "es-ES": "[Kayar]\nMe da la sensación de que el deseo se está haciendo un poco más grande sin darnos cuenta.\nEn cualquier caso, te lo encargo. Ve a hablar con el <NAVI>[Señor Ahab]<INFO>wolfvill,127,155,0,101,0</INFO></NAVI>."
+    },
+    "wLoQDQ": {
+        "en-US": "[Redsel]\nPlease make that old man Ahab into a proper person.\nWhat makes a person a person is not merely looking like one, but acting like one....",
+        "pt-BR": "[Redsel]\nPor favor, faça daquele senhor Ahab uma pessoa decente.\nSó porque alguém tem forma humana não quer dizer que seja humano; é preciso agir como tal....",
+        "es-ES": "[Redsel]\nHaz de ese señor Ahab una persona de bien.\n¿Acaso por tener forma de persona ya lo es? Hay que comportarse como una persona para serlo...."
+    },
+    "wboQDQ": {
+        "en-US": "[Redsel]\nYou ask whether that is going too far? ......Well, I will admit it a little.\nBut once you work with him, you will understand too.",
+        "pt-BR": "[Redsel]\nEstá dizendo que isso é pedir demais? ......Bem, admito que é um pouco.\nMas, se trabalhar com ele, você também vai entender.",
+        "es-ES": "[Redsel]\n¿Que si eso no es pedir demasiado? ……Bueno, admito que un poco sí.\nPero si alguna vez trabajas con él, tú también lo entenderás."
+    },
+    "wroQDQ": {
+        "en-US": "[Redsel]\nHe said he will listen carefully to people from now on? Is that really true?",
+        "pt-BR": "[Redsel]\nEntão ele disse que agora vai ouvir o que as pessoas dizem? Isso é verdade mesmo?",
+        "es-ES": "[Redsel]\n¿Que ha dicho que a partir de ahora escuchará a la gente? ¿De verdad?"
+    },
+    "w7oQDQ": {
+        "en-US": "[Redsel]\nNo, no. Anyone can say the words. We have to see whether he keeps them.",
+        "pt-BR": "[Redsel]\nNão, não. Falar, qualquer um fala. Temos que ver se ele vai cumprir.",
+        "es-ES": "[Redsel]\nNo, no. Hablar puede hablar cualquiera. Lo importante es ver si cumple lo que dice."
+    },
+    "xLoQDQ": {
+        "en-US": "[Redsel]\nThat old man Ahab seems to have become a little easier to live alongside.\nThere is still a lot we need to watch, but compared to before, he is truly much better.",
+        "pt-BR": "[Redsel]\nAcho que aquele senhor Ahab ficou um pouco mais suportável de conviver.\nAinda há muita coisa a observar, mas, comparado a antes, ele está realmente muito melhor.",
+        "es-ES": "[Redsel]\nEl señor Ahab parece haberse vuelto alguien con quien se puede convivir un poco más.\nTodavía quedan muchas cosas por ver, pero comparado con antes, está muchísimo mejor."
+    },
+    "xboQDQ": {
+        "en-US": "[Redsel]\nWatching a person change is a sacred moment.\nI should also try harder to act like a proper person.",
+        "pt-BR": "[Redsel]\nVer uma pessoa mudar é um momento sagrado.\nEu também vou me esforçar mais para agir como uma pessoa de verdade.",
+        "es-ES": "[Redsel]\nVer cómo una persona cambia es un momento sagrado.\nYo también tendré que esforzarme más por comportarme como una persona decente."
+    },
+    "xroQDQ": {
+        "en-US": "Ahab",
+        "pt-BR": "Ahab",
+        "es-ES": "Ahab"
+    },
+    "x7oQDQ": {
+        "en-US": "[Ahab]\nHey, what is this. A face I have not seen before. You are one of the residents here, yes?\nHeh heh heh, naturally, it is difficult for a superior to remember all of his inferiors. You understand that, I trust.",
+        "pt-BR": "[Ahab]\nOra, o que temos aqui? Um rosto que não conheço. É morador daqui?\nAhahaha, é natural que uma pessoa superior tenha dificuldade para lembrar de todos os seus inferiores. Você entende, não é?",
+        "es-ES": "[Ahab]\nEh, ¿qué pasa? No te había visto antes. ¿Eres de aquí?\nJo, jo, jo. Ya sabes, a un superior le cuesta recordar a todos los de abajo. Compréndelo."
+    },
+    "yLoQDQ": {
+        "en-US": "[Ahab]\nWho is the superior, you ask? Why, naturally, it is this elder Ahab.\nWhy, I am someone who even attends the meetings where all village matters are decided.",
+        "pt-BR": "[Ahab]\nPessoa superior, quem? Ora, naturalmente, este venerável Ahab.\nEstou falando de mim, que sou alguém que até participa das reuniões onde se decidem todos os assuntos da vila.",
+        "es-ES": "[Ahab]\n¿Que quién es el superior? Pues naturalmente este señor Ahab.\nEstoy hablando de alguien que hasta asiste a la reunión donde se decide todo lo del pueblo."
+    },
+    "yboQDQ": {
+        "en-US": "[Ahab]\nHey, what is this. A face I have not seen before. You are one of the residents here, yes?\nHeh heh heh. Naturally, it is difficult for a superior to remember all of his inferiors. You understand that, I trust.",
+        "pt-BR": "[Ahab]\nOra, o que temos aqui? Um rosto que não conheço. É morador daqui?\nHahahá. É natural que uma pessoa superior tenha dificuldade para lembrar de todos os seus inferiores. Você entende, não é?",
+        "es-ES": "[Ahab]\nEh, ¿qué pasa? No te había visto antes. ¿Eres de aquí?\nJo, jo, jo. Ya sabes, a un superior le cuesta recordar a todos los de abajo. Compréndelo."
+    },
+    "yroQDQ": {
+        "en-US": "[Ahab]\nRight then, since you are here, run an errand for me.\nIt is nothing difficult. A simple task even a fool could do.",
+        "pt-BR": "[Ahab]\nJá que veio, faça um servicinho para mim.\nNão é nada difícil. É um serviço simples que até um tolo consegue fazer.",
+        "es-ES": "[Ahab]\nBueno, ya que has venido, hazme un trabajito.\nNo es nada difícil. Una tarea sencilla que hasta un tonto podría hacer."
+    },
+    "y7oQDQ": {
+        "en-US": "[Ahab]\nFor someone like me to do such a thing, you see, the value of a person's available time differs from one to another.\nNaturally, mine is expensive. Hahaha!",
+        "pt-BR": "[Ahab]\nPara alguém como eu fazer uma coisa dessas, veja bem, o valor do tempo disponível varia de pessoa para pessoa.\nClaro que o meu vale muito. Hahahá!",
+        "es-ES": "[Ahab]\nEs que una persona como yo tiene un valor distinto del tiempo disponible de cada uno.\nPor supuesto, el mío vale más. ¡Ja, ja, ja!"
+    },
+    "zLoQDQ": {
+        "en-US": "I will run the errand for you.",
+        "pt-BR": "Vou fazer o serviço.",
+        "es-ES": "Haré el trabajo."
+    },
+    "zboQDQ": {
+        "en-US": "I am not here to do that sort of thing.",
+        "pt-BR": "Não vim aqui para isso.",
+        "es-ES": "No he venido para eso."
+    },
+    "zroQDQ": {
+        "en-US": "[Ahab]\nMy, how very obedi~ent. Good.\nYes. Young people ought to have some obedience about them.",
+        "pt-BR": "[Ahab]\nOra, que obediente! Obediente, isso é bom.\nSim. Uma pessoa jovem precisa ter um pouco dessa docilidade.",
+        "es-ES": "[Ahab]\nAy, qué bien, ¡tan obediente!.\nEso es. La gente joven tiene que tener un poco de docilidad."
+    },
+    "z7oQDQ": {
+        "en-US": "[Ahab]\nWhat? That sort of thing? Are the tasks I give merely that sort of thing?\nWell, well, how can a young person be so ill-mannered and lacking in courtesy......",
+        "pt-BR": "[Ahab]\nO quê? Isso? O trabalho que eu mando fazer é isso?\nOra, vejam só como um jovem pode ser tão malcriado e sem educação......",
+        "es-ES": "[Ahab]\n¿Cómo? ¿Eso? ¿Eso es lo que llamas a lo que yo te mando hacer?\nVaya, vaya, cómo puede ser que una persona joven sea tan maleducada y tan falta de modales……."
+    },
+    "0LoQDQ": {
+        "en-US": "[Ahab]\nYou are just like a wicked Firewind Kite, always watching for a chance to set the roof on fire, truly!\nIf a person, yes, uses their heart so cruelly, they will be punished later.",
+        "pt-BR": "[Ahab]\nVocê é igualzinho a um Gavião Ardente, sempre à espreita para pôr fogo no telhado, exatamente assim!\nSe alguém usa o coração de maneira tão má, depois acaba sendo punido.",
+        "es-ES": "[Ahab]\n¡Eres igual que un Halcón Ardiente maligno, acechando en todo momento la oportunidad de prenderle fuego al tejado!\nSi una persona usa así el corazón, mmm, con tanta maldad, luego acaba recibiendo castigo."
+    },
+    "0boQDQ": {
+        "en-US": "[Ahab]\nPunished by heaven, by heaven itself! This will not do, if you have no manners and do not know how to respect your elders.\nSo run the errand! Where do you think you are running off to!",
+        "pt-BR": "[Ahab]\nVai receber castigo divino, castigo divino! Não pode ser assim, sem educação e sem saber respeitar os mais velhos.\nPor isso, vá fazer o servicinho! Aonde pensa que vai fugir assim?",
+        "es-ES": "[Ahab]\n¡Te caerá un castigo del cielo, un castigo del cielo! No puede ser que no tengas educación ni sepas respetar a tus mayores.\n¡Así que haz el recado! ¿A dónde crees que vas a escaparte?"
+    },
+    "0roQDQ": {
+        "en-US": "[Ahab]\nAs it happens, there is a delicious sauce I absolutely must have with my meals.\nWithout it, even when I eat, it never feels as though I truly have.",
+        "pt-BR": "[Ahab]\nÉ que há um molho delicioso que eu preciso comer junto com a refeição.\nSem ele, mesmo que eu coma, parece que não comi direito......",
+        "es-ES": "[Ahab]\nVerás, resulta que hay una salsa deliciosa que siempre tengo que tomar con la comida.\nSi no la tengo, aunque coma, siento que no he comido de verdad......"
+    },
+    "07oQDQ": {
+        "en-US": "[Ahab]\nSo, go to Rachel and buy me some of that sauce.\nIf you go to Mernomat and ask for Oigurt Sauce, they will know what you mean.",
+        "pt-BR": "[Ahab]\nPortanto, vá até Rachel e compre um pouco desse molho para mim.\nSe disserem Molho Oigurt em Mernomat, vão entender.",
+        "es-ES": "[Ahab]\nAsí que ve a Rachel y cómprame un poco de salsa.\nSi vas a Mernomat y pides salsa de Oigur con pepino, sabrán a qué te refieres."
+    },
+    "1LoQDQ": {
+        "en-US": "[Ahab]\nIf it is not eaten quickly, it will spoil, so go to <NAVI>[Mernomat]<INFO>rachel,135,64,0,101,0</INFO></NAVI> and buy exactly one bottle.\nFresh is what makes it taste good, you see.",
+        "pt-BR": "[Ahab]\nSe não comer logo, estraga, então vá a <NAVI>[Mernomat]<INFO>rachel,135,64,0,101,0</INFO></NAVI> e traga exatamente uma garrafa.\nTem que ser fresco para ter sabor.",
+        "es-ES": "[Ahab]\nComo se estropea si no se toma pronto, ve a <NAVI>[Mernomat]<INFO>rachel,135,64,0,101,0</INFO></NAVI> y cómprame una sola botella.\nEstá rica solo si se toma fresca."
+    },
+    "1boQDQ": {
+        "en-US": "[Ahab]\nWhy are you not going already! Do my words not sound like words to you?\nGood grief, truly, the young ones here have learned nothing at all.",
+        "pt-BR": "[Ahab]\nPor que ainda está aí? Minha palavra não vale nada?\nAi, sinceramente, esses jovens daqui realmente não sabem se comportar.",
+        "es-ES": "[Ahab]\n¿A qué esperas para ir? ¿Es que mis palabras no te parecen palabras?\nAy, de verdad, los jóvenes de aquí no han aprendido nada."
+    },
+    "1roQDQ": {
+        "en-US": "[Ahab]\nGo at once to <NAVI>[Mernomat]<INFO>rachel,135,64,0,101,0</INFO></NAVI> and buy Oigurt Sauce, I say!\nWhat, do I have to give you money too? Hurry up and go!",
+        "pt-BR": "[Ahab]\nVá logo até <NAVI>[Mernomat]<INFO>rachel,135,64,0,101,0</INFO></NAVI> comprar Molho Oigurt!\nO quê, eu ainda tenho que te dar dinheiro? Vá e volte logo!",
+        "es-ES": "[Ahab]\n¡Ve enseguida a <NAVI>[Mernomat]<INFO>rachel,135,64,0,101,0</INFO></NAVI> y compra Salsa de Oigur!\n¿Qué pasa, que también tengo que darte dinero? ¡Date prisa y vuelve!"
+    },
+    "17oQDQ": {
+        "en-US": "[Ahab]\nOh, did you buy the Oigurt Sauce? Let me see.\nYes, you bought the correct one.",
+        "pt-BR": "[Ahab]\nOh, então trouxe Molho Oigurt? Deixe-me ver.\nVocê comprou corretamente.",
+        "es-ES": "[Ahab]\nOh, ¿has traído Salsa de Oigur? A ver.\nSí, la has comprado bien."
+    },
+    "2LoQDQ": {
+        "en-US": "[Ahab]\nThen let me have my meal.\nI have not had a proper meal in this unfamiliar place for quite some time, so I have been terribly hungry.",
+        "pt-BR": "[Ahab]\nEntão, que tal eu finalmente fazer a refeição?\nNesse lugar estranho, até agora eu não consegui fazer uma refeição decente, então estou com muita fome.",
+        "es-ES": "[Ahab]\nEntonces, ¿qué tal si me pongo a comer?\nLlevo tanto tiempo sin poder comer como es debido en este sitio tan ajeno que estoy muerto de hambre."
+    },
+    "2boQDQ": {
+        "en-US": "Before that, let us talk a bit......",
+        "pt-BR": "Antes disso, preciso conversar......",
+        "es-ES": "Antes de eso, quería hablar con usted......"
+    },
+    "2roQDQ": {
+        "en-US": "[Ahab]\nOh, you rude young thing with no manners!\nWhen an elder is eating, you should wait politely until he is finished!",
+        "pt-BR": "[Ahab]\nOra essa, seu jovem sem educação!\nSe um ancião vai fazer a refeição, você deve esperar respeitosamente até ele terminar!",
+        "es-ES": "[Ahab]\n¡Ay, ay, ay, qué joven más maleducado!\nSi un mayor va a comer, ¡hay que esperar educadamente hasta que termine!"
+    },
+    "27oQDQ": {
+        "en-US": "[Ahab]\nBack in Rachel, if someone like you existed, everyone would point and say you were not properly raised!",
+        "pt-BR": "[Ahab]\nSe houvesse um sujeito como você em Rachel, todo mundo apontaria e diria que não teve educação!",
+        "es-ES": "[Ahab]\n¡En Rachel, si hubiera habido un tipo como tú, todos habrían señalado con el dedo diciendo que no tenía educación!"
+    },
+    "3LoQDQ": {
+        "en-US": "It is about Mr. Ahab's manners.",
+        "pt-BR": "É sobre a educação do Sr. Ahab.",
+        "es-ES": "Es sobre los modales del señor Ahab."
+    },
+    "3boQDQ": {
+        "en-US": "[Ahab]\nMr. Ahab? Mr. Ahab? Why, just because you ran a little errand, now you are putting on airs!\nRun two errands and next thing I know, you will be throwing your arm around me and calling me your friend!",
+        "pt-BR": "[Ahab]\nSr. Ahab? Sr. Ahab? Nããão, agora só porque fez um servicinho está se achando!\nSe fizer dois serviços, daqui a pouco vai querer andar de braço dado e me chamar de amigo!",
+        "es-ES": "[Ahab]\n¿El Señor Ahab? ¿El Señor Ahabííí? ¿O sea que ahora vienes a darte aires porque me has hecho un simple recado?\n¡Si me haces dos recados más, mmm, acabarás echándome el brazo por encima y haciéndote mi amigo!"
+    },
+    "3roQDQ": {
+        "en-US": "[Ahab]\nFine, let me hear these precious words of yours!\n......I will listen while I eat!",
+        "pt-BR": "[Ahab]\nMuito bem, então vamos ouvir esse discurso tão precioso!\n......Vou ouvir enquanto como!",
+        "es-ES": "[Ahab]\nBien, ¡a ver qué gran discurso tienes que decir!\n……¡Te escucharé mientras como!"
+    },
+    "37oQDQ": {
+        "en-US": "[Ahab]\nMunch munch, then go on, speak of Mr. Ahab's manners.\nIf you prattle on about nonsense, I shall not forgive you!",
+        "pt-BR": "[Ahab]\nNhac nhac, vá, diga então o que é essa história sobre a educação do Sr. Ahab.\nSe disser besteiras, não vou perdoar!",
+        "es-ES": "[Ahab]\nÑam, ñam, bien, a ver, habla de esos modales del señor Ahab.\n¡Si te pones a soltar tonterías, no te lo perdonaré!"
+    },
+    "4LoQDQ": {
+        "en-US": "Do you know people dislike you, Mr. Ahab?",
+        "pt-BR": "Você sabe que as pessoas não gostam do Sr. Ahab?",
+        "es-ES": "¿Sabe que la gente no soporta al señor Ahab?"
+    },
+    "4boQDQ": {
+        "en-US": "[Ahab]\nAh... I know! And what of it!\nIs that my fault? It is those young ones shunning me because I am old!",
+        "pt-BR": "[Ahab]\nAh... sei! E daí?\nA culpa é minha? São esses jovens que excluem os velhos!",
+        "es-ES": "[Ahab]\nAh… ¡Lo sé! ¿Y qué?\n¿Es culpa mía? ¡Son los jóvenes los que apartan a los viejos!"
+    },
+    "4roQDQ": {
+        "en-US": "That is not the issue.",
+        "pt-BR": "Não é esse o problema.",
+        "es-ES": "No se trata de eso."
+    },
+    "47oQDQ": {
+        "en-US": "The issue is you, Mr. Ahab.",
+        "pt-BR": "O problema é o Sr. Ahab.",
+        "es-ES": "El problema es usted, señor Ahab."
+    },
+    "5LoQDQ": {
+        "en-US": "[Ahab]\nWhat issue could there possibly be with me!\nThere is nothing wrong with me!",
+        "pt-BR": "[Ahab]\nQue problema eu tenho?\nEu não tenho problema nenhum!",
+        "es-ES": "[Ahab]\n¡¿Qué problema voy a tener yo?!\n¡Yo no tengo ningún problema!"
+    },
+    "5boQDQ": {
+        "en-US": "They are even thinking of driving you out of here.",
+        "pt-BR": "Estão pensando até em expulsá-lo daqui.",
+        "es-ES": "Dicen que hasta están pensando en echarlo de aquí."
+    },
+    "5roQDQ": {
+        "en-US": "[Ahab]\nW-what? That cannot happen!\nI have nowhere else to go but here.",
+        "pt-BR": "[Ahab]\nO quê, o quê? Isso não pode!\nEu não tenho para onde ir além daqui.",
+        "es-ES": "[Ahab]\n¿Q-qué? ¡Eso no puede ser!\nNo tengo ningún sitio adonde ir salvo aquí."
+    },
+    "57oQDQ": {
+        "en-US": "[Ahab]\nBack in Rachel... everything had been going well...\nI was proud that among the natives, there was no one as successful as I was.",
+        "pt-BR": "[Ahab]\nEm Rachel... tudo estava indo tão bem...\nEu tinha orgulho de ser o mais bem-sucedido entre os nativos.",
+        "es-ES": "[Ahab]\nEn Rachel… todo iba bien…\nMe enorgullecía que entre los indígenas no hubiera nadie tan exitoso como yo."
+    },
+    "6LoQDQ": {
+        "en-US": "[Ahab]\nBut then I accidentally offended a migrant shop owner...\nAnd after having all my property taken and being cast out, I had nowhere left to go, so I came here.",
+        "pt-BR": "[Ahab]\nMas acabei desagradando sem querer um chefe imigrante...\nPerdi todos os meus bens e fui expulso, então vim para cá sem ter para onde ir.",
+        "es-ES": "[Ahab]\nPero por haberle caído mal por error a un patrón inmigrante…\nme quitaron todos mis bienes y acabé viniendo aquí, porque no tenía adónde ir."
+    },
+    "6boQDQ": {
+        "en-US": "[Ahab]\nH-hey. What must I do so that I am not driven out of here?",
+        "pt-BR": "[Ahab]\nE-então. O que eu posso fazer para não ser expulso daqui?",
+        "es-ES": "[Ahab]\nO-oye. ¿Qué tengo que hacer para que no me echen de aquí?"
+    },
+    "6roQDQ": {
+        "en-US": "[Ahab]\nTruth be told, I know it already. That I have no power here at all.\nHm? I no longer have power, nor money. What am I to do?",
+        "pt-BR": "[Ahab]\nNa verdade, eu sei. Sei que aqui eu não tenho poder nenhum.\nHum? Agora não tenho mais poder nem dinheiro. O que eu faço?",
+        "es-ES": "[Ahab]\nEn realidad lo sé. Sé que aquí no tengo ningún poder.\n¿Mm? Ahora ya no tengo ni poder ni dinero. ¿Qué hago?"
+    },
+    "67oQDQ": {
+        "en-US": "You do not need power or money.",
+        "pt-BR": "Poder e dinheiro não são necessários.",
+        "es-ES": "No necesita poder ni dinero."
+    },
+    "7LoQDQ": {
+        "en-US": "Treat people with courtesy.",
+        "pt-BR": "Trate as pessoas com educação.",
+        "es-ES": "Trate a la gente con educación."
+    },
+    "7boQDQ": {
+        "en-US": "[Ahab]\nUngh, but I am doing my best.\nI give advice to the young people, and I attend every village meeting and speak my opinions too.",
+        "pt-BR": "[Ahab]\nNgh, eu estou dando o meu melhor.\nDou conselhos aos jovens e participo de todas as reuniões da vila para dar minha opinião.",
+        "es-ES": "[Ahab]\nUugh, pero si yo estoy haciendo todo lo que puedo.\nDoy consejos a los jóvenes y acudo sin falta a las reuniones del pueblo para dar mi opinión."
+    },
+    "7roQDQ": {
+        "en-US": "[Ahab]\nAre you saying my efforts are wrong?",
+        "pt-BR": "[Ahab]\nQuer dizer que o meu esforço está errado?",
+        "es-ES": "[Ahab]\n¿Me estás diciendo que mis esfuerzos están mal encaminados?"
+    },
+    "77oQDQ": {
+        "en-US": "You must not think of yourself as their superior.",
+        "pt-BR": "Você não deve se achar superior aos outros.",
+        "es-ES": "No debe pensar que es un superior."
+    },
+    "8LoQDQ": {
+        "en-US": "[Ahab]\nBut I am an elder! Is it wrong for an elder to wish to be treated as one?",
+        "pt-BR": "[Ahab]\nMas eu sou um adulto!\nÉ errado um adulto querer ser tratado como adulto?",
+        "es-ES": "[Ahab]\nPero ¡si soy un adulto! ¿Está mal que un adulto quiera ser tratado como un adulto?"
+    },
+    "8boQDQ": {
+        "en-US": "Then perhaps you should just be driven out....",
+        "pt-BR": "Então seja expulso....",
+        "es-ES": "Entonces que lo echen...."
+    },
+    "8roQDQ": {
+        "en-US": "[Ahab]\nUngh, uunngh... Then what am I supposed to do!",
+        "pt-BR": "[Ahab]\nNgh, nghhh... o que é que eu tenho que fazer?!",
+        "es-ES": "[Ahab]\nUugh, uuuugh… ¡Entonces qué tengo que hacer!"
+    },
+    "87oQDQ": {
+        "en-US": "First of all, stop shouting.",
+        "pt-BR": "Primeiro, pare de gritar.",
+        "es-ES": "Para empezar, no grite."
+    },
+    "9LoQDQ": {
+        "en-US": "Advice given without understanding the situation is just nagging.",
+        "pt-BR": "Dar conselhos sem entender a situação é só sermão.",
+        "es-ES": "Los consejos sin conocer la situación son solo regañinas."
+    },
+    "9boQDQ": {
+        "en-US": "Listen to what other people say.",
+        "pt-BR": "Preste atenção ao que os outros dizem.",
+        "es-ES": "Escuche lo que dicen los demás."
+    },
+    "9roQDQ": {
+        "en-US": "Try to learn about this place.",
+        "pt-BR": "Tente aprender sobre este lugar.",
+        "es-ES": "Intente aprender sobre este lugar."
+    },
+    "97oQDQ": {
+        "en-US": "[Ahab]\nA... all right. All right, I understand. Just tell them not to drive me out.\nSee, I listened carefully to what you said first, did I not? I am not even shouting, am I?",
+        "pt-BR": "[Ahab]\nA... certo. Certo, então. Só peça que não me expulsem.\nVeja bem, pelo menos ouvi atentamente o que você disse. Nem gritei, viu?",
+        "es-ES": "[Ahab]\nAh… vale. Vale, de acuerdo. Diles que no me echen.\nMira, para empezar ya he escuchado atentamente lo que me has dicho. ¿Ves? Ni siquiera estoy gritando."
+    },
+    "+LoQDQ": {
+        "en-US": "[Ahab]\nI will heed your advice.\nSo... please do not let them drive me out of here.",
+        "pt-BR": "[Ahab]\nVou seguir o seu conselho.\nEntão... não deixem que me expulsem daqui.",
+        "es-ES": "[Ahab]\nHaré caso a tus consejos.\nAsí que… no dejes que me echen también de aquí."
+    },
+    "+boQDQ": {
+        "en-US": "[Ahab]\nI... only wanted to get along well with the young people...\nWas that truly so upsetting? It leaves a bitter taste....",
+        "pt-BR": "[Ahab]\nEu... só queria me dar bem com os jovens e ser amigo deles...\nEra algo assim tão desagradável? Isso me deixa um pouco amargo....",
+        "es-ES": "[Ahab]\nYo… solo quería llevarme bien con la gente joven…\n¿De verdad era algo tan molesto? Qué amargo resulta...."
+    },
+    "+roQDQ": {
+        "en-US": "[Ahab]\nAnyway, thank you for coming to speak with me rather than driving me out at once.\nPlease go tell <NAVI>[the others]<INFO>wolfvill,85,111,0,101,0</INFO></NAVI>, that I will somehow do better now....",
+        "pt-BR": "[Ahab]\nDe qualquer forma, obrigado por vir conversar comigo em vez de me expulsarem de imediato.\nAgora vá até <NAVI>[as outras pessoas]<INFO>wolfvill,85,111,0,101,0</INFO></NAVI>, diga a elas que vou tentar fazer dar certo de alguma forma....",
+        "es-ES": "[Ahab]\nEn cualquier caso, gracias por venir a hablar conmigo en lugar de intentar echarme directamente.\nAhora ve y diles también a <NAVI>[los demás]<INFO>wolfvill,85,111,0,101,0</INFO></NAVI> que intentaré arreglar las cosas como sea...."
+    },
+    "+7oQDQ": {
+        "en-US": "[Ahab]\nI, I am trying too.\nSo please, do not drive me out.",
+        "pt-BR": "[Ahab]\nE-eu também estou me esforçando.\nEntão, por favor, não me expulsem.",
+        "es-ES": "[Ahab]\nYo, yo también me estoy esforzando.\nAsí que no me echéis."
+    },
+    "/LoQDQ": {
+        "en-US": "[Ahab]\nIf I am driven out from here, I will have nowhere to go.\nThat is why I was trying, in my own way, to do well. But to think everyone disliked me.",
+        "pt-BR": "[Ahab]\nSe eu for expulso daqui, não terei para onde ir.\nPor isso, do meu jeito, eu também estava tentando fazer dar certo. E mesmo assim, todos me odeiam.",
+        "es-ES": "[Ahab]\nSi me echan de aquí, no tendré adónde ir.\nAsí que, a mi manera, yo también estaba intentando hacerlo bien. Pero resulta que todos me detestan."
+    },
+    "/boQDQ": {
+        "en-US": "[Ahab]\nAt the meetings, I am trying as hard as I can to listen carefully.\nAnd because of that, even the young people's gazes have softened a little....",
+        "pt-BR": "[Ahab]\nNas reuniões, estou tentando ao máximo ouvir com atenção.\nE então até o olhar dos jovens ficou um pouco mais suave....",
+        "es-ES": "[Ahab]\nEn la reunión estoy esforzándome al máximo por escuchar atentamente.\nY parece que las miradas de los jóvenes también se han suavizado un poco...."
+    },
+    "/roQDQ": {
+        "en-US": "[Ahab]\nI think I am beginning to understand that it was not me they hated, but my attitude.\nThe world is changing. There is no place for an old man who does not change.",
+        "pt-BR": "[Ahab]\nAcho que começo a entender um pouco que não me odiavam, e sim odiavam a minha atitude.\nO mundo está mudando. Um velho que não muda não tem mais lugar.",
+        "es-ES": "[Ahab]\nCreo que empiezo a entender un poco que no me odiaban a mí, sino a mi actitud.\nLos tiempos están cambiando. Los viejos que no cambian ya no tienen sitio."
+    },
+    "/7oQDQ": {
+        "en-US": "Shop Owner",
+        "pt-BR": "Dono da loja",
+        "es-ES": "Tendero"
+    },
+    "ALsQDQ": {
+        "en-US": "[Shop Owner]\nWelcome. This is Mernomat Grocery.\nWhat ingredient are you looking for?",
+        "pt-BR": "[Dono da loja]\nBem-vindo, esta é a mercearia Mernomat.\nQue ingrediente está procurando?",
+        "es-ES": "[Tendero]\nBienvenido a la tienda de comestibles Mernomat.\n¿Qué ingrediente está buscando?"
+    },
+    "AbsQDQ": {
+        "en-US": "Oberuger Sauce",
+        "pt-BR": "Molho Obiruger",
+        "es-ES": "Salsa Obiruger"
+    },
+    "ArsQDQ": {
+        "en-US": "Obigurt Sauce",
+        "pt-BR": "Molho Obigurt",
+        "es-ES": "Salsa Obigurt"
+    },
+    "A7sQDQ": {
+        "en-US": "Oigurt Sauce",
+        "pt-BR": "Molho Oigurt",
+        "es-ES": "Salsa de Oigur"
+    },
+    "BLsQDQ": {
+        "en-US": "Oigeoyo Sauce",
+        "pt-BR": "Molho Oiguero",
+        "es-ES": "Salsa Oiguyo"
+    },
+    "BbsQDQ": {
+        "en-US": "[Shop Owner]\nAh~ Oigurt Sauce! Let me see...... Here it is.\nThis sauce contains cucumber and yogurt, so it is wonderfully refreshing and delicious on bread.",
+        "pt-BR": "[Dono da loja]\nAh, Molho Oigurt! Deixe-me ver...... aqui está.\nEste molho leva pepino e iogurte, então é bem refrescante, e fica delicioso sobre pão.",
+        "es-ES": "[Tendero]\nAh, ¡Salsa de Oigur! A ver…… aquí está.\nEsta salsa lleva pepino y Oigur, así que es muy refrescante y está deliciosa untada en pan."
+    },
+    "BrsQDQ": {
+        "en-US": "[Shop Owner]\nHow many would you like? One? Here you are.\nKeep it in a cool place, and once you break the seal, please consume it quickly.",
+        "pt-BR": "[Dono da loja]\nQuantos vai querer? Um? Aqui está.\nGuarde em um lugar fresco e, depois de abrir o lacre, consuma logo.",
+        "es-ES": "[Tendero]\n¿Cuántas botellas quiere? ¿Una? Aquí tiene.\nGuárdela en un lugar fresco y, una vez abierto el sello, consúmala cuanto antes."
+    },
+    "B7sQDQ": {
+        "en-US": "[Shop Owner]\nHmm? There is no such sauce.\nI have never even heard of a sauce by that name.",
+        "pt-BR": "[Dono da loja]\nHumm? Não temos um molho com esse nome.\nNa verdade, nunca ouvi falar de um molho assim.",
+        "es-ES": "[Tendero]\n¿Mmm? Esa salsa no existe.\nDe hecho, nunca he oído ese nombre."
+    },
+    "CLsQDQ": {
+        "en-US": "[Shop Owner]\nWelcome. This is Mernomat Grocery.\nThe finest grocery store in Rachel, yes indeed.",
+        "pt-BR": "[Dono da loja]\nBem-vindo, esta é a mercearia Mernomat.\nA melhor mercearia de Rachel, isso eu posso garantir.",
+        "es-ES": "[Tendero]\nBienvenido a la tienda de comestibles Mernomat.\nLa mejor tienda de comestibles de Rachel, sí señor."
+    },
+    "CbsQDQ": {
+        "en-US": "[Shop Owner]\nMost restaurants use our ingredients, you know.\nJust take them home, heat them up, cook them, fry them, and you can make a splendid dish in no time!",
+        "pt-BR": "[Dono da loja]\nPraticamente todos os restaurantes usam os nossos ingredientes.\nÉ só levar, aquecer, cozinhar ou fritar, e num instante você tem um prato excelente!",
+        "es-ES": "[Tendero]\nSe lo digo yo: la mayoría de restaurantes usan todos nuestros ingredientes.\nLléveselos y con solo calentarlos, cocinarlos o freírlos un poco, tendrá un plato magnífico en un abrir y cerrar de ojos."
+    },
+    "CrsQDQ": {
+        "en-US": "Samariam",
+        "pt-BR": "Samariam",
+        "es-ES": "Samariam"
+    },
+    "C7sQDQ": {
+        "en-US": "[Samariam]\nAh, I played so hard that now I am hungry and thirsty.\nI wish I could sit somewhere cool and have iced tea with dried fruit.",
+        "pt-BR": "[Samariam]\nAh, brinquei tanto que estou com fome e sede.\nQueria me sentar num lugar fresco e tomar um chá gelado com frutas secas.",
+        "es-ES": "[Samariam]\nAh, he jugado con tantas ganas que tengo hambre y sed.\nOjalá pudiera sentarme en un sitio fresquito a tomar té con hielo y comer fruta seca."
+    },
+    "DLsQDQ": {
+        "en-US": "[Samariam]\nNyman, I am thirsty. Could you fetch me some water? Your house is the closest from here, right?",
+        "pt-BR": "[Samariam]\nNyman, estou com sede. Pode ir pegar água para mim? Sua casa é a mais perto daqui, não é?",
+        "es-ES": "[Samariam]\nNyman, tengo sed. ¿Me traes un poco de agua? Tu casa es la más cercana de aquí, ¿no?"
+    },
+    "DbsQDQ": {
+        "en-US": "[Kar]\nDo you have anything to eat at home? If not, then buy us some dried fruit.\nNyman, you are a nice one, right?",
+        "pt-BR": "[Kar]\nTem alguma coisa para comer na sua casa? Se não tiver, vá comprar umas frutas secas.\nNyman, você é uma criança boazinha, não é?",
+        "es-ES": "[Kar]\n¿Tienes algo de comer en casa? Y si no, ve a comprar un poco de fruta seca.\nNyman, tú eres buena persona."
+    },
+    "DrsQDQ": {
+        "en-US": "[Nyman]\nSomething to eat... I do not have any.\nI do not have any money either....",
+        "pt-BR": "[Nyman]\nComida... não tem.\nEu também não tenho dinheiro....",
+        "es-ES": "[Nyman]\nNo… no tengo comida.\nY tampoco tengo dinero...."
+    },
+    "D7sQDQ": {
+        "en-US": "[Ruxi]\nOh, come on, what kind of house has nothing to eat?\nYou just do not want to give us any.",
+        "pt-BR": "[Ruxi]\nAh, deixa disso, que casa não tem nada para comer?\nVocê só não quer dar para a gente.",
+        "es-ES": "[Ruxi]\nBah, ¿cómo que no hay comida en una casa?\nLo dices porque no quieres dárnosla."
+    },
+    "ELsQDQ": {
+        "en-US": "[Samariam]\nI am disappointed, Nyman.\nI thought you were a nice child.",
+        "pt-BR": "[Samariam]\nQue decepção, Nyman.\nEu achei que você fosse uma criança boazinha.",
+        "es-ES": "[Samariam]\nQué decepción, Nyman.\nYo creía que eras buena persona."
+    },
+    "EbsQDQ": {
+        "en-US": "[Nyman]\nN-no!\nWe do have water, so I will go fetch some.",
+        "pt-BR": "[Nyman]\nN-não!\nÁgua tem, então vou lá buscar água.",
+        "es-ES": "[Nyman]\n¡N-no!\nAgua sí que hay, así que iré a por agua."
+    },
+    "ErsQDQ": {
+        "en-US": "[Samariam]\nForget it. Water would be too precious. What would you have to give us?\nWater costs money too, and you said your family has none.",
+        "pt-BR": "[Samariam]\nDeixa pra lá. Vai ser desperdício de água. De onde vocês teriam algo para dar pra nós?\nAté água se compra com dinheiro, e você disse que na sua casa não tem dinheiro.",
+        "es-ES": "[Samariam]\nDéjalo. Seguro que el agua será un desperdicio. ¿Cómo nos la ibas a dar?\nEl agua también se compra con dinero, y has dicho que en tu casa no tenéis dinero."
+    },
+    "E7sQDQ": {
+        "en-US": "[Samariam]\nAh, I am hungry and thirsty from playing.\nI wish I could sit somewhere cool and have iced tea with dried fruit.",
+        "pt-BR": "[Samariam]\nAh, brincar dá fome e sede.\nQueria sentar em algum lugar fresco e tomar um chá com gelo e frutas secas.",
+        "es-ES": "[Samariam]\nAh, mientras jugaba me ha entrado hambre y sed.\nOjalá pudiera sentarme en un sitio fresquito a tomar té con hielo y comer fruta seca."
+    },
+    "FLsQDQ": {
+        "en-US": "Kar",
+        "pt-BR": "Kar",
+        "es-ES": "Kar"
+    },
+    "FbsQDQ": {
+        "en-US": "[Kar]\nWhat do you mean you have no money? Your father works at Ruxi's cloth shop.\nAre you saying Ruxi's mother does not pay your father?",
+        "pt-BR": "[Kar]\nComo assim não tem dinheiro? Seu pai trabalha na loja de tecidos da mãe do Ruxi.\nEstá dizendo que a mãe do Ruxi não paga o seu pai?",
+        "es-ES": "[Kar]\n¿Cómo que no tienes dinero? Tu padre trabaja en la tienda de telas de Ruxi.\n¿O es que la madre de Ruxi no le paga a tu padre?"
+    },
+    "FrsQDQ": {
+        "en-US": "[Ruxi]\nMy mother gives your father money, and yet you do not want to buy us even a single dried fruit, is that it?",
+        "pt-BR": "[Ruxi]\nMinha mãe paga o seu pai, então você está dizendo que não quer comprar nem umas frutas secas para nós?",
+        "es-ES": "[Ruxi]\nMi madre sí le da dinero a tu padre, lo que pasa es que tú no quieres gastarte ni una sola fruta seca en nosotros, ¿no?"
+    },
+    "F7sQDQ": {
+        "en-US": "[Samariam]\nHeyyy, that is enough, stop it. How pitiful~\nShe said she has no money, so let us stop.",
+        "pt-BR": "[Samariam]\nEi, já chega, para com isso. Coitada dela! Se ela disse que não tem dinheiro, vamos parar.",
+        "es-ES": "[Samariam]\nAy, ya está. Pobrecita, si dice que no tiene dinero, no la molestemos más."
+    },
+    "GLsQDQ": {
+        "en-US": "[Nyman]\nNo!!! I am not pitiful....\nI am not pitiful...!!",
+        "pt-BR": "[Nyman]\nNão!!! Não sou coitada....\nNão sou coitada...!!",
+        "es-ES": "[Nyman]\n¡¡¡No!!! No soy pobrecita….\nNo soy pobrecita…!!"
+    },
+    "GbsQDQ": {
+        "en-US": "[Samariam]\nOh, sorry~ It was just a joke.\nWhy are you suddenly getting serious and angry? It is scary....",
+        "pt-BR": "[Samariam]\nAh, desculpa~ era brincadeira.\nPor que você ficou tão séria e brava assim? Que assustador....",
+        "es-ES": "[Samariam]\nAh, perdona~ Era una broma.\n¿Por qué te pones tan seria y te enfadas? Das miedo...."
+    },
+    "GrsQDQ": {
+        "en-US": "[Samariam]\nI heard natives are rather hot-blooded, but even so, getting angry over every little thing is a bit... much, no?\nWould you not agree?",
+        "pt-BR": "[Samariam]\nOuvi dizer que os nativos são meio temperamentais, mas mesmo assim ficar bravo por qualquer coisa é meio... não acha?\nNão é mesmo?",
+        "es-ES": "[Samariam]\nHabía oído que los indígenas son un poco temperamentales, pero aun así estar enfadándose por todo es un poco… ¿no?\n¿No te parece?"
+    },
+    "G7sQDQ": {
+        "en-US": "[Kar]\nExactly. Even if you are angry, you should know how to endure it if you want others to play with you.\nYou should be grateful to us for playing with someone like you.",
+        "pt-BR": "[Kar]\nPois é. Mesmo que fique bravo, tem que saber se conter para poder brincar junto.\nVocê devia agradecer a nós por brincarmos com alguém como você.",
+        "es-ES": "[Kar]\nEso mismo. Aunque te enfades, tienes que saber aguantarte para poder jugar con los demás.\nDeberías darnos las gracias por jugar con alguien como tú."
+    },
+    "HLsQDQ": {
+        "en-US": "[Kar]\nI want to drink some sweet tea with lots of ice in it.\nAfter that, playing would probably be even more fun!",
+        "pt-BR": "[Kar]\nQueria tanto beber um chá doce cheio de gelo.\nAcho que brincar ficaria ainda mais divertido depois disso!",
+        "es-ES": "[Kar]\nMe apetece muchísimo tomar un té dulce con muchísimo hielo.\n¡Después seguro que jugar sería todavía más divertido!"
+    },
+    "HbsQDQ": {
+        "en-US": "[Kar]\nIt is so hot and I am thirsty right now.\nBut I do not want to go home either.",
+        "pt-BR": "[Kar]\nAgora está quente demais e estou com sede.\nMas também não quero ir para casa.",
+        "es-ES": "[Kar]\nAhora mismo hace demasiado calor y tengo mucha sed.\nPero tampoco quiero irme a casa."
+    },
+    "HrsQDQ": {
+        "en-US": "Ruxi",
+        "pt-BR": "Ruxi",
+        "es-ES": "Ruxi"
+    },
+    "H7sQDQ": {
+        "en-US": "[Ruxi]\nThat is right, you should be grateful to us!",
+        "pt-BR": "[Ruxi]\nIsso, devia agradecer a nós!",
+        "es-ES": "[Ruxi]\n¡Sí, deberías darnos las gracias!"
+    },
+    "ILsQDQ": {
+        "en-US": "I cannot stand to watch this.",
+        "pt-BR": "Isso é difícil de aguentar.",
+        "es-ES": "No pienso tolerarlo."
+    },
+    "IbsQDQ": {
+        "en-US": "Stop bullying her.",
+        "pt-BR": "Parem de importuná-la.",
+        "es-ES": "Dejad de acosarla."
+    },
+    "IrsQDQ": {
+        "en-US": "[Ruxi]\nHmm? And who might you be, interrupting while we are playing?\nYou do not seem to be from here... so why are you interfering?",
+        "pt-BR": "[Ruxi]\nHum? E você, quem é para se meter enquanto estamos brincando?\nVocê não parece ser daqui... então por que está se intrometendo?",
+        "es-ES": "[Ruxi]\n¿Mmm? ¿Y usted quién es para entrometerse en nuestro juego?\nNo parece ser de aquí… ¿a qué viene meter las narices?"
+    },
+    "I7sQDQ": {
+        "en-US": "You call this playing?",
+        "pt-BR": "Isso é brincar?",
+        "es-ES": "¿A eso lo llamáis jugar?"
+    },
+    "JLsQDQ": {
+        "en-US": "It is not playing, it is bullying.",
+        "pt-BR": "Isso não é brincar, é importunar.",
+        "es-ES": "Más que jugar, la estáis acosando."
+    },
+    "JbsQDQ": {
+        "en-US": "[Samariam]\nIt cannot be helped that Nyman is a little different from us~\nShe is a native here, and all of us are migrants.",
+        "pt-BR": "[Samariam]\nNão tem jeito, Nyman é um pouco diferente de nós~\nEla é nativa daqui, e nós somos todos imigrantes.",
+        "es-ES": "[Samariam]\nEs inevitable que Nyman sea un poco distinta de nosotros~\nElla es indígena y nosotras somos inmigrantes."
+    },
+    "JrsQDQ": {
+        "en-US": "[Samariam]\nEveryone knows natives are a little lacking compared to migrants, right?\nEven so, we are still playing with her like this.",
+        "pt-BR": "[Samariam]\nTodo mundo sabe que os nativos são um pouco inferiores aos imigrantes em várias coisas, não é?\nMesmo assim, nós brincamos com ela desse jeito.",
+        "es-ES": "[Samariam]\nTodo el mundo sabe que los indígenas son algo inferiores a los inmigrantes en unas cosas y en otras, ¿no?\nY aun así jugamos con ella así."
+    },
+    "J7sQDQ": {
+        "en-US": "[Nyman]\nNo! Who says that? What difference is there between natives and migrants!",
+        "pt-BR": "[Nyman]\nNão! Quem disse isso? O que é que os nativos e os imigrantes têm de diferente?",
+        "es-ES": "[Nyman]\n¡No! ¿Quién dice eso? ¡¿Qué diferencia hay entre los indígenas y los inmigrantes?!"
+    },
+    "KLsQDQ": {
+        "en-US": "[Kar]\nThere she goes shouting again.\nYou are proving yourself that natives are the more hot-blooded ones.",
+        "pt-BR": "[Kar]\nLá vem ela gritar de novo.\nVocê mesmo está provando que os nativos são mais temperamentais.",
+        "es-ES": "[Kar]\nYa está gritando otra vez.\nNos estás demostrando tú misma que los indígenas sois más temperamentales."
+    },
+    "KbsQDQ": {
+        "en-US": "You are acting in a way that leaves no choice but anger.",
+        "pt-BR": "Vocês a forçam a ficar brava.",
+        "es-ES": "Es que os comportáis de una forma que no deja otra opción que enfadarse."
+    },
+    "KrsQDQ": {
+        "en-US": "If you talk like that, of course she will get angry.",
+        "pt-BR": "Falando desse jeito, é óbvio que ela vai se irritar.",
+        "es-ES": "Si le habláis así, es normal que se enfade."
+    },
+    "K7sQDQ": {
+        "en-US": "[Samariam]\nBut it is true, though?\nNyman's father works at Ruxi's cloth shop, and Ruxi's mother always says so.",
+        "pt-BR": "[Samariam]\nMas é verdade.\nO pai da Nyman trabalha na loja de tecidos do Ruxi, e a mãe do Ruxi vive dizendo isso.",
+        "es-ES": "[Samariam]\nPero si es verdad.\nEl padre de Nyman trabaja en la tienda de telas de Ruxi, y la madre de Ruxi siempre lo dice."
+    },
+    "LLsQDQ": {
+        "en-US": "[Samariam]\nShe says natives are slow to learn even when taught, and that they are hot-blooded.\nShe says that auntie is amazing for giving such natives employment and wages.",
+        "pt-BR": "[Samariam]\nEla diz que os nativos demoram mais para aprender o que se ensina e que são temperamentais.\nE que aquela senhora é incrível por dar emprego e salário a um nativo assim.",
+        "es-ES": "[Samariam]\nQue a los indígenas les cuesta más aprender lo que se les enseña y que son temperamentales.\nY que esa señora es admirable por haber contratado a un indígena así y pagarle un sueldo."
+    },
+    "LbsQDQ": {
+        "en-US": "[Ruxi]\nThere is cool tea and snacks at our house!\nBut it is too far...... Is not Nyman's house the closest from here?",
+        "pt-BR": "[Ruxi]\nNa minha casa tem chá gelado e lanche!\nMas é longe demais...... não é a casa da Nyman a mais perto daqui?",
+        "es-ES": "[Ruxi]\n¡En mi casa hay té fresco y aperitivos!\nPero está demasiado lejos…… ¿No es la casa de Nyman la que queda más cerca desde aquí?"
+    },
+    "LrsQDQ": {
+        "en-US": "Nyman",
+        "pt-BR": "Nyman",
+        "es-ES": "Nyman"
+    },
+    "L7sQDQ": {
+        "en-US": "[Nyman]\n......",
+        "pt-BR": "[Nyman]\n......",
+        "es-ES": "[Nyman]\n……."
+    },
+    "MLsQDQ": {
+        "en-US": "Why do you spend time with them?",
+        "pt-BR": "Por que você anda com essas crianças?",
+        "es-ES": "¿Y por qué te juntas con ellas?"
+    },
+    "MbsQDQ": {
+        "en-US": "[Nyman]\nM-me?",
+        "pt-BR": "[Nyman]\nO-o quê?",
+        "es-ES": "[Nyman]\n¿S-sí?"
+    },
+    "MrsQDQ": {
+        "en-US": "Why do you put up with being treated like this?",
+        "pt-BR": "Por que aceita esse tipo de tratamento?",
+        "es-ES": "¿Por qué aceptas que te traten así?"
+    },
+    "M7sQDQ": {
+        "en-US": "[Nyman]\nWell......\nBecause they are my friends.\nThere is no one else who will play with me if not them.",
+        "pt-BR": "[Nyman]\nÉ porque...... eles são meus amigos.\nSe não forem eles, não tem mais ninguém que brinque comigo.",
+        "es-ES": "[Nyman]\nPues…… porque son mis amigas.\nSi no son ellas, no hay nadie más que quiera jugar conmigo."
+    },
+    "NLsQDQ": {
+        "en-US": "[Samariam]\nSee? Nyman is with us because she wants to be.\nIf we were really bullying her, then she simply would not play with us, would he?",
+        "pt-BR": "[Samariam]\nViu só? Nyman também brinca conosco porque quer.\nSe estivéssemos mesmo maltratando ela, então ele simplesmente não brincaria com a gente.",
+        "es-ES": "[Samariam]\n¿Lo ve? A Nyman le gusta jugar con nosotros.\nSi de verdad la estuviéramos acosando, sencillamente no jugaría con nosotros."
+    },
+    "NbsQDQ": {
+        "en-US": "[Ruxi]\nI have already heard that outsiders are meddlesome, but......\nPlease do not meddle in things you know nothing about.",
+        "pt-BR": "[Ruxi]\nJá ouvi dizer que os forasteiros são intrometidos......\nEntão, por favor, não se meta até em coisas que não conhece direito.",
+        "es-ES": "[Ruxi]\nYa había oído que los forasteros son unos metomentodo…….\nPero no se meta en asuntos que no conoce bien."
+    },
+    "NrsQDQ": {
+        "en-US": "[Nyman]\nI...... I will go home and bring water.\nAnd...... sorry for losing my temper.",
+        "pt-BR": "[Nyman]\nEu...... vou para casa buscar água.\nE...... desculpa por ter perdido a paciência à toa.",
+        "es-ES": "[Nyman]\nYo…… iré a casa a por agua.\nY…… perdón por haberme enfadado sin motivo."
+    },
+    "N7sQDQ": {
+        "en-US": "[Samariam]\nWell, things like that can happen when people play together, right?\nDo not worry about it too much.",
+        "pt-BR": "[Samariam]\nBem, quando se brinca junto, essas coisas podem acontecer, não é?\nNão liga muito para isso.",
+        "es-ES": "[Samariam]\nBueno, esas cosas pueden pasar cuando se juega con alguien, ¿no?\nNo te lo tomes tan a pecho."
+    },
+    "OLsQDQ": {
+        "en-US": "[Ruxi]\nLet us go play somewhere else now.\nAnd leave this meddlesome outsider here.",
+        "pt-BR": "[Ruxi]\nAgora vamos brincar em outro lugar.\nE vamos deixar esse forasteiro intrometido aqui.",
+        "es-ES": "[Ruxi]\nVayámonos a jugar a otro sitio.\nY dejemos aquí a este forastero entrometido."
+    },
+    "ObsQDQ": {
+        "en-US": "[Kar]\nYes, let us.\nFarewell, outsider Adventurer!",
+        "pt-BR": "[Kar]\nIsso, vamos.\nFique bem, aventureiro forasteiro!",
+        "es-ES": "[Kar]\nSí, hagamos eso.\n¡Que le vaya bien, trotamundos forastero!"
+    },
+    "OrsQDQ": {
+        "en-US": "[{0}]\n......I feel as though I have gained some life experience.\nNot a very pleasant feeling, though......",
+        "pt-BR": "[{0}]\n......Tenho a sensação de ter ganho experiência de vida.\nEmbora não seja uma sensação muito boa......",
+        "es-ES": "[{0}]\n……Siento que he ganado algo de experiencia vital.\nNo es una sensación especialmente agradable, pero……."
+    },
+    "O7sQDQ": {
+        "en-US": "[Nyman]\nIt is hot...... I want to go home.\nBut everyone else still wants to play more......",
+        "pt-BR": "[Nyman]\nEstá quente...... quero ir para casa.\nMas todos querem continuar brincando......",
+        "es-ES": "[Nyman]\nQué calor…… quiero volver a casa.\nPero todos quieren seguir jugando……."
+    },
+    "PLsQDQ": {
+        "en-US": "Amodipin",
+        "pt-BR": "Amodipin",
+        "es-ES": "Amodipin"
+    },
+    "PbsQDQ": {
+        "en-US": "[Amodipin]\nTo say they cannot pay me again today. How can that be? It has already been delayed for three whole months......\nIf I had my way, I would quit this shop at once, but if I did that, there would be no way to recover the wages I am owed.",
+        "pt-BR": "[Amodipin]\nDizer que hoje também não vai poder me pagar o salário. Isso faz sentido?\nJá faz três meses de atraso......\nSe dependesse de mim, eu largava esta loja agora mesmo, mas, se fizesse isso, nunca mais receberia o salário atrasado.",
+        "es-ES": "[Amodipin]\nQue hoy tampoco me van a pagar el sueldo. ¿Se puede creer? Ya van tres meses de retraso…….\nSi fuera por mí, dejaría esta tienda ahora mismo, pero si lo hiciera, tampoco habría forma de cobrar todo lo que me deben."
+    },
+    "PrsQDQ": {
+        "en-US": "[Amodipin]\nTo say they cannot pay me again today. It has already been delayed for three whole months......\nIf I had my way, I would quit this shop at once, but if I did that, there would be no way to recover the wages I am owed.",
+        "pt-BR": "[Amodipin]\nDizer que hoje também não vai poder me pagar o salário. Já faz três meses de atraso......\nSe dependesse de mim, eu largava esta loja agora mesmo, mas, se fizesse isso, nunca mais receberia o salário atrasado.",
+        "es-ES": "[Amodipin]\nQue hoy tampoco me van a pagar el sueldo. Ya van tres meses de retraso…….\nSi fuera por mí, dejaría esta tienda ahora mismo, pero si lo hiciera, tampoco habría forma de cobrar todo lo que me deben."
+    },
+    "P7sQDQ": {
+        "en-US": "[Amodipin]\nAnd if word spreads that I ran off like that, then someone like me, a native, would never be able to work at another shop either.\nOh dear, what am I to do......",
+        "pt-BR": "[Amodipin]\nAlém disso, se o boato se espalhar de que eu saí correndo assim, um nativo como eu não conseguiria trabalho em nenhuma outra loja.\nAhh, o que eu faço......",
+        "es-ES": "[Amodipin]\nY además, si se corre el rumor de que salí huyendo así, un indígena como yo no podrá volver a trabajar en ninguna otra tienda.\nAy, ¿qué voy a hacer……?"
+    },
+    "QLsQDQ": {
+        "en-US": "[Amodipin]\nOh? Were you listening to what I was saying?\nJudging by your clothes, you must be an Adventurer. How nice. A life of freely going on adventures......",
+        "pt-BR": "[Amodipin]\nOra, você estava ouvindo a minha história?\nPelas roupas, você é um aventureiro. Que bom deve ser. Uma vida de aventuras em liberdade......",
+        "es-ES": "[Amodipin]\n¿Eh? ¿Ha estado escuchando lo que decía?\nPor la ropa que lleva, parece que es un aventurero. Qué bien debe de ser. Una vida de aventuras en libertad……."
+    },
+    "QbsQDQ": {
+        "en-US": "[Amodipin]\nWell, though I am ashamed to ask, I have a favor to ask of you, Adventurer.\nMy employer never listens to me, but I think they might listen if the words came from a famous Adventurer.",
+        "pt-BR": "[Amodipin]\nE-eu sei que é sem vergonha da minha parte, mas tenho um pedido para lhe fazer.\nNosso patrão finge que não ouve o que eu digo, mas acho que ouviria se fosse um aventureiro famoso falando.",
+        "es-ES": "[Amodipin]\nVerá, aunque me da vergüenza, tengo una petición que hacerle, aventurero.\nMi jefe no hace ni caso a lo que yo digo, pero creo que si lo dijera un aventurero famoso como usted, sí me escucharía."
+    },
+    "QrsQDQ": {
+        "en-US": "[Amodipin]\nWould you go to my employer's shop and press them a bit to pay my wages?\nAt this rate, I cannot even buy tomorrow's meal.",
+        "pt-BR": "[Amodipin]\nVocê poderia ir até a loja do nosso patrão e cobrar o pagamento do meu salário?\nSe continuar assim, amanhã mesmo eu não terei como comprar nem uma refeição.",
+        "es-ES": "[Amodipin]\n¿Podría ir a la tienda de mi jefe y apremiarlo para que me pague el sueldo?\nA este paso, mañana mismo no tendré ni para comprar la comida."
+    },
+    "Q7sQDQ": {
+        "en-US": "I will help.",
+        "pt-BR": "Vou ajudar.",
+        "es-ES": "Te ayudaré."
+    },
+    "RLsQDQ": {
+        "en-US": "Why should I?",
+        "pt-BR": "Por que eu faria isso?",
+        "es-ES": "¿Y por qué tendría que hacerlo?"
+    },
+    "RbsQDQ": {
+        "en-US": "[Amodipin]\nThere is no real need for you to do so.\nI was only wondering whether you might be willing to help a little.",
+        "pt-BR": "[Amodipin]\nVocê não tem obrigação nenhuma de fazer isso.\nEu só queria saber se poderia me ajudar um pouco.",
+        "es-ES": "[Amodipin]\nNo es que tenga por qué hacerlo, claro.\nSolo me preguntaba si podría echarme una mano."
+    },
+    "RrsQDQ": {
+        "en-US": "[Amodipin]\nThank you, thank you!\nMy employer's shop is <NAVI>[this way]<INFO>rachel,136,95,0,101,0</INFO></NAVI>.",
+        "pt-BR": "[Amodipin]\nObrigado, muito obrigado!\nA loja do meu patrão fica <NAVI>[por aqui]<INFO>rachel,136,95,0,101,0</INFO></NAVI>.",
+        "es-ES": "[Amodipin]\n¡Gracias, gracias!\nLa tienda de mi jefe está <NAVI>[por aquí]<INFO>rachel,136,95,0,101,0</INFO></NAVI>."
+    },
+    "R7sQDQ": {
+        "en-US": "[Amodipin]\nYou have come. Might there be some good news?",
+        "pt-BR": "[Amodipin]\nVocê voltou. Será que traz alguma boa notícia?",
+        "es-ES": "[Amodipin]\n¿Ha venido? ¿Tiene alguna buena noticia?"
+    },
+    "SLsQDQ": {
+        "en-US": "Tell her what was said.",
+        "pt-BR": "Vou contar a conversa que tivemos",
+        "es-ES": "Contarle la conversación que tuve"
+    },
+    "SbsQDQ": {
+        "en-US": "[Amodipin]\nThey say they will pay my overdue wages tomorrow! Oh, I owe it all to you. Thank you so very much.\nNow I can buy food and clothes for the children.",
+        "pt-BR": "[Amodipin]\nEle vai pagar o salário atrasado amanhã! Ai, graças a você. Muito obrigado.\nAgora vou poder comprar comida e roupas para as crianças.",
+        "es-ES": "[Amodipin]\n¡Dice que mañana me pagará el sueldo atrasado! Ay, se lo debo todo. Muchas gracias.\nAhora ya podré comprar comida y ropa para los niños."
+    },
+    "SrsQDQ": {
+        "en-US": "[Amodipin]\nWhen I go tomorrow, I suppose I will hear some nagging, but honestly I am just glad the wages are finally coming.\nAs for hearing nagging, well, that is hardly a new thing.",
+        "pt-BR": "[Amodipin]\nAmanhã, quando eu for, vou levar um sermão, mas, sinceramente, ainda assim fico mais feliz por receber o salário.\nLevar bronca, bem, não é como se fosse a primeira ou a segunda vez.",
+        "es-ES": "[Amodipin]\nMañana me tocará aguantar alguna que otra reprimenda, pero, la verdad, me alegra más que por fin me vaya a pagar.\nQue me echen la bronca, bueno, eso tampoco es nada nuevo."
+    },
+    "S7sQDQ": {
+        "en-US": "[Amodipin]\nYou ask whether I am angry? Of course I am.\nBut what can I do about it, even if I am angry? It is my fault for having been born a native.",
+        "pt-BR": "[Amodipin]\nSe fico com raiva? Claro que fico.\nMas o que posso fazer mesmo assim? O erro foi nascer no povo nativo.",
+        "es-ES": "[Amodipin]\n¿Que si no me enfada? Claro que me enfada.\nPero aunque me enfade, ¿qué puedo hacer? El error fue nacer indígena."
+    },
+    "TLsQDQ": {
+        "en-US": "[Amodipin]\nI cannot exactly run away and live elsewhere.\nI have heard rumors of a village near Veins where natives who fled are said to live, but could such a place really exist?",
+        "pt-BR": "[Amodipin]\nTambém não posso simplesmente fugir e viver em outro lugar.\nOuvi até rumores de que existe uma vila onde vivem nativos que fugiram para o lado de Veins, mas será que isso existe mesmo?",
+        "es-ES": "[Amodipin]\nTampoco puedo huir y vivir por ahí.\nHe oído rumores de que, por la zona de Veins, hay un pueblo donde viven indígenas que escaparon, pero vete tú a saber si eso existe de verdad."
+    },
+    "TbsQDQ": {
+        "en-US": "[Amodipin]\nAnd I do not even have the courage to live somewhere like that. Oh dear, I have spoken too much.\nI am sorry for holding you up when you must be busy. Thank you so very much!",
+        "pt-BR": "[Amodipin]\nTambém não tenho coragem de viver num lugar assim. Ai, falei demais.\nDesculpe por estar tomando seu tempo, já que você está ocupado. Agradeço muito mesmo!",
+        "es-ES": "[Amodipin]\nY además tampoco tengo el valor de vivir en un sitio así. Ay, ya he hablado demasiado.\nPerdone por entretenerle cuando estará ocupado. ¡Muchísimas gracias!"
+    },
+    "TrsQDQ": {
+        "en-US": "[Amodipin]\nEvery day it is worry over meals, worry over the children...... there is never a day without worry.\nWhy was I born a native, only to suffer hardships I should never have had to bear?",
+        "pt-BR": "[Amodipin]\nTodo dia é preocupação com a comida, preocupação com as crianças...... não há um só dia sem preocupação.\nPor que eu, por ter nascido no povo nativo, tenho que passar por sofrimentos que não precisava?",
+        "es-ES": "[Amodipin]\nCada día me preocupa la comida, los niños……, no hay un solo día sin preocupaciones.\n¿Por qué tuve que nacer indígena y sufrir todo esto sin necesidad?"
+    },
+    "T7sQDQ": {
+        "en-US": "Dahil",
+        "pt-BR": "Dahil",
+        "es-ES": "Dahil"
+    },
+    "ULsQDQ": {
+        "en-US": "[Dahil]\nWelcome to the Dahil Company.\nI do not believe I have seen you before. Judging by your clothes, an Adventurer!",
+        "pt-BR": "[Dahil]\nBem-vindo, esta é a companhia Dahil.\nÉ a primeira vez que nos vemos. Pelas roupas, você é um aventureiro!",
+        "es-ES": "[Dahil]\nBienvenido a la compañía de Dahil.\nEs la primera vez que le veo. ¡Por cómo va vestido, es usted un aventurero!"
+    },
+    "UbsQDQ": {
+        "en-US": "[Dahil]\nI simply adore Adventurers!\nI too once dreamed of becoming one. But then I took an arrow to the knee, so now I have settled down in the city instead.",
+        "pt-BR": "[Dahil]\nEu adoro aventureiros!\nEu também sonhei em ser um aventureiro um dia. Mas levei uma flecha no joelho e agora acabei me fixando na cidade.",
+        "es-ES": "[Dahil]\n¡A mí me encantan los trotamundos!\nYo también soñé con ser uno en su día. Pero me hirieron la rodilla con una flecha y ahora me he quedado a vivir en la ciudad."
+    },
+    "UrsQDQ": {
+        "en-US": "[Dahil]\nIf it would not trouble you, would you look at some goods and tell me a few adventure stories?",
+        "pt-BR": "[Dahil]\nSe não se importar, dê uma olhada nos produtos e me conte algumas histórias de aventura.",
+        "es-ES": "[Dahil]\nSi no le importa, eche un vistazo a la mercancía y cuénteme alguna aventura."
+    },
+    "U7sQDQ": {
+        "en-US": "I came to talk about something else.",
+        "pt-BR": "Vim falar de outra coisa.",
+        "es-ES": "He venido a hablar de otra cosa."
+    },
+    "VLsQDQ": {
+        "en-US": "[Dahil]\nSomething else, you say?\nHmm, do you mean Amodipin's wages? Did Amodipin ask you to come?",
+        "pt-BR": "[Dahil]\nOutra coisa?\nHum, está falando do salário de Amodipin? Foi Amodipin quem pediu?",
+        "es-ES": "[Dahil]\n¿Otra cosa?\nMmm, ¿se refiere al sueldo de Amodipin? ¿Se lo ha pedido Amodipin?"
+    },
+    "VbsQDQ": {
+        "en-US": "[Dahil]\nAhem, though Amodipin surely knows this as well, the shop's finances are not in good shape.\nI told them I would pay everything together next month, and yet to use an Adventurer I like so much.",
+        "pt-BR": "[Dahil]\nHum, é claro que Amodipin também sabe, mas a situação da loja não está boa.\nEu disse que pagaria tudo de uma vez no mês que vem, mas veja só, usando meu querido aventureiro assim.",
+        "es-ES": "[Dahil]\nAjá, claro, Amodipin también lo sabe, pero el negocio no va bien.\nYa le dije que se lo pagaría todo junto el mes que viene, y ahora va y utiliza a mi querido aventurero."
+    },
+    "VrsQDQ": {
+        "en-US": "[Dahil]\nI suppose I should say that hiding behind others so cowardly is typical of a native.\nI hired them because they seemed to work well until now, but perhaps I should reconsider employing natives at all.",
+        "pt-BR": "[Dahil]\nSerá que devo dizer que esse jeito covarde de se esconder atrás dos outros é mesmo próprio dos nativos?\nAté agora eu dei emprego porque parecia trabalhar bem, mas talvez eu devesse repensar essa história de contratar nativos.",
+        "es-ES": "[Dahil]\nSupongo que debería decirse que eso de esconderse cobardemente detrás de otro es muy propio de los indígenas.\nHasta ahora parecía que trabajaba bien, pero quizá deba replantearme eso de contratar indígenas."
+    },
+    "V7sQDQ": {
+        "en-US": "What exactly do you mean by that?",
+        "pt-BR": "O que quer dizer com isso?",
+        "es-ES": "¿Qué se supone que quiere decir con eso?"
+    },
+    "WLsQDQ": {
+        "en-US": "[Dahil]\nAh, there is no need for you to concern yourself with this, Adventurer. This is merely some old issue in the natives' way of thinking.\nWeak, and fond of hiding behind others.",
+        "pt-BR": "[Dahil]\nAh, aventureiro, não precisa se preocupar com isso. É algo como um velho problema de mentalidade dos nativos.\nSão fracos e gostam de se esconder atrás dos outros.",
+        "es-ES": "[Dahil]\nAh, aventurero, usted no tiene por qué preocuparse por eso. Esto es más bien un viejo problema de conciencia propio de los indígenas.\nSon débiles y les gusta esconderse detrás de los demás."
+    },
+    "WbsQDQ": {
+        "en-US": "Even so, withholding wages is wrong.",
+        "pt-BR": "Mesmo assim, atrasar salário está errado",
+        "es-ES": "Aun así, no pagar el sueldo está mal"
+    },
+    "WrsQDQ": {
+        "en-US": "Is that not discrimination?",
+        "pt-BR": "Isso não é discriminação?",
+        "es-ES": "¿Eso no es discriminación?"
+    },
+    "W7sQDQ": {
+        "en-US": "[Dahil]\nDo you think I do not know that? I know it well enough, but I have no money, so what can I do?",
+        "pt-BR": "[Dahil]\nAcha que eu não sei disso? Eu sei, mas não tenho dinheiro, então é assim.",
+        "es-ES": "[Dahil]\n¿Se cree que no lo sé? Lo sé, pero si no tengo dinero, no tengo dinero."
+    },
+    "XLsQDQ": {
+        "en-US": "[Dahil]\nDiscrimination, you say! I do no such thing. I am a kind and decent person.",
+        "pt-BR": "[Dahil]\nDiscriminação? Eu não faço esse tipo de coisa. Sou uma pessoa bondosa.",
+        "es-ES": "[Dahil]\n¡¿Discriminación?! Yo soy una persona bondadosa, no hago esas cosas."
+    },
+    "XbsQDQ": {
+        "en-US": "What, it is true that Amodipin's wages have been the most delayed. But that cannot be helped.",
+        "pt-BR": "Bem, de fato, o salário que vai para Amodipin foi o último a atrasar. Mas isso não teve jeito.",
+        "es-ES": "Bueno, el sueldo de Amodipin sí que fue el que más se retrasó. Pero eso era inevitable."
+    },
+    "XrsQDQ": {
+        "en-US": "[Dahil]\nIt is not native discrimination.\nIt is only that they were the most recently hired employee, so the order happened to work out that way.",
+        "pt-BR": "[Dahil]\nNão se trata de discriminação contra nativos.\nÉ que funcionários mais recentes ficam pro final, então a ordem acabou sendo essa.",
+        "es-ES": "[Dahil]\nNo se trata de discriminar a los indígenas.\nSimplemente era el empleado que entró más tarde, así que ese fue el orden."
+    },
+    "X7sQDQ": {
+        "en-US": "[Dahil]\nAh, I do not know why I must spend all this time talking only about such things with an Adventurer.\nPlease tell Amodipin I will pay the wages tomorrow, and to stop with these little tricks.",
+        "pt-BR": "[Dahil]\nAh, não sei por que tenho que ficar falando só dessas coisas com o aventureiro.\nDiga a Amodipin que amanhã vou depositar o salário, então que pare com esses truques.",
+        "es-ES": "[Dahil]\nVaya, no sé por qué tengo que estar hablando solo de esto con un aventurero.\nDígale a Amodipin que mañana le ingresaré el sueldo, y que deje de andar con estas maniobras."
+    },
+    "YLsQDQ": {
+        "en-US": "[Dahil]\nI will not scold them over this incident, so please tell <NAVI>[Amodipin]<INFO>rachel,181,51,0,101,0</INFO></NAVI> to come to work properly.\nI am not some native discriminator, but since natives lack responsibility, if I scold them too harshly, they may just quit.",
+        "pt-BR": "[Dahil]\nNão vou repreender por causa desta vez, então diga a <NAVI>[Amodipin]<INFO>rachel,181,51,0,101,0</INFO></NAVI> para comparecer ao trabalho direitinho.\nEu não sou alguém que discrimina nativos, mas nativos não têm senso de responsabilidade, então, se eu os repreender, podem acabar pedindo demissão.",
+        "es-ES": "[Dahil]\nNo voy a reprenderlo por esta vez, así que dígale a <NAVI>[Amodipin]<INFO>rachel,181,51,0,101,0</INFO></NAVI> que venga a trabajar como es debido.\nNo es que yo sea un discriminador de indígenas, pero como los indígenas carecen de sentido de la responsabilidad, si le riño podría dejar el trabajo."
+    },
+    "YbsQDQ": {
+        "en-US": "[Dahil]\nI may run a company now, but I absolutely love Adventurers!\nI too once dreamed of becoming one. But then I took an arrow to the knee, and have remained in the city ever since.",
+        "pt-BR": "[Dahil]\nAgora eu administro a companhia, mas adoro aventureiros!\nEu também sonhei em ser um aventureiro um dia. Mas levei uma flecha no joelho e fiquei preso na cidade.",
+        "es-ES": "[Dahil]\nAhora dirijo la compañía, pero a mí me encantan los aventureros.\nYo también soñé con ser uno en su día. Pero me hirieron la rodilla con una flecha y me quedé a vivir en la ciudad."
+    },
+    "YrsQDQ": {
+        "en-US": "Cassoulet",
+        "pt-BR": "Cassoulet",
+        "es-ES": "Cassoulet"
+    },
+    "Y7sQDQ": {
+        "en-US": "[Cassoulet]\nHyaa... What a delicious smell.\nI am going to wait here until it is all cooked.",
+        "pt-BR": "[Cassoulet]\nHyaa... que cheiro gostoso.\nVou ficar aqui esperando até terminar de cozinhar.",
+        "es-ES": "[Cassoulet]\nHala... qué olor tan rico.\nVoy a esperar aquí hasta que termine de hervir."
+    },
+    "ZLsQDQ": {
+        "en-US": "[Cassoulet]\nWhat if I am late and there is none left for me?\nI am going to stand in line here and eat first.",
+        "pt-BR": "[Cassoulet]\nE se eu chegar tarde e não sobrar a minha parte?\nVou ficar na fila aqui e comer primeiro.",
+        "es-ES": "[Cassoulet]\n¿Y si llego tarde y me quedo sin mi ración?\nMe quedaré haciendo cola aquí y seré la primera en comer."
+    },
+    "ZbsQDQ": {
+        "en-US": "Hiyareth",
+        "pt-BR": "Hiyareth",
+        "es-ES": "Hiyareth"
+    },
+    "ZrsQDQ": {
+        "en-US": "[Hiyareth]\nThis is an important storage jar of preserved food. It is still maturing, so you must not touch it.",
+        "pt-BR": "[Hiyareth]\nÉ um precioso pote de alimentos armazenados. Ainda está maturando, então não pode tocar.",
+        "es-ES": "[Hiyareth]\nEs un valioso recipiente de alimentos de reserva. Todavía está fermentando, así que no debe tocarlo."
+    },
+    "Z7sQDQ": {
+        "en-US": "[Hiyareth]\nIt is a fermented food made with a starter passed down since my grandfather's grandfather's time.\nTo be honest, I do not like it very much, since it smells so musty.",
+        "pt-BR": "[Hiyareth]\nDisseram que é um alimento fermentado feito com um fermento que vem sendo passado desde o tempo do avô do meu avô.\nNa verdade, eu não gosto muito, porque tem um cheiro forte demais.",
+        "es-ES": "[Hiyareth]\nDicen que es un alimento fermentado elaborado con un cultivo iniciador que se ha transmitido desde la época del abuelo de mi abuelo.\nLa verdad es que a mí no me gusta demasiado, porque huele muy fuerte."
+    },
+    "aLsQDQ": {
+        "en-US": "Ii-sa",
+        "pt-BR": "Ii-sa",
+        "es-ES": "Ii-sa"
+    },
+    "absQDQ": {
+        "en-US": "[Ii-sa]\nI cannot go into the water? Why not?",
+        "pt-BR": "[Ii-sa]\nNão posso entrar na água? Por quê?",
+        "es-ES": "[Ii-sa]\n¿No puedo meterme en el agua? ¿Por qué?"
+    },
+    "arsQDQ": {
+        "en-US": "[Ii-sa]\nIt looks so warm and pleasant... I want to play in the water.\nWhen I play outside with the wind blowing, I get covered in ash all over again in no time.",
+        "pt-BR": "[Ii-sa]\nParece tão quente e agradável...\nEu quero brincar na água.\nSe eu ficar brincando por causa do vento, logo fico toda cheia de poeira de novo.",
+        "es-ES": "[Ii-sa]\nSe ve tan calentita y tan agradable... quiero jugar en el agua.\nPorque, con este viento, aunque estés jugando, en un momento vuelves a llenarte de polvo."
+    }
+}

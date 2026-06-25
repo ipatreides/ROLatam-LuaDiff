@@ -1,891 +1,740 @@
 {
     "IEmeDA": {
-        "ko-KR": "RS26",
         "en-US": "RS26",
         "pt-BR": "RS26",
         "es-ES": "RS26"
     },
     "IUmeDA": {
-        "ko-KR": "보유한 물건의 종류가 너무 많은것 같다. 물건의 종류를 줄인뒤에 다시 진행해보자.",
         "en-US": "It seems you have too many different types of items. Please reduce the number of item types and try again.",
-        "unknown_3": "It seems you have too many different types of items. Please reduce the number of item types and try again.",
-        "unknown_4": "Parece que você possui muitos tipos diferentes de itens. Reduza a variedade de itens e tente novamente.",
-        "unknown_5": "Parece que tienes demasiados tipos de objetos. Reduce la variedad de objetos y vuelve a intentarlo.",
         "pt-BR": "Parece que você possui muitos tipos diferentes de itens. Reduza a variedade de itens e tente novamente.",
         "es-ES": "Parece que tienes demasiados tipos de objetos. Reduce la variedad de objetos y vuelve a intentarlo."
     },
     "IkmeDA": {
-        "ko-KR": "가진 물건이 너무 무거워 더이상의 진행이 힘들 것 같다. 무게를 줄인 후 다시 도전해보자.",
         "en-US": "Your items are too heavy to continue any further. Reduce your weight and try again.",
         "pt-BR": "Seus itens estão pesados demais para continuar. Reduza o peso e tente novamente.",
         "es-ES": "Tus objetos son demasiado pesados para continuar. Reduce el peso y vuelve a intentarlo."
     },
     "I0meDA": {
-        "ko-KR": "[RS26]\n{0} 님\n어서오십시오 환영합니다!",
         "en-US": "[RS26]\n{0}\nWelcome! We’re glad to have you!",
         "pt-BR": "[RS26]\n{0}\nSeja bem-vindo! É um prazer recebê-lo!",
         "es-ES": "[RS26]\n{0}\n¡Bienvenido! ¡Nos alegra darte la bienvenida!"
     },
     "JEmeDA": {
-        "ko-KR": "기기 살펴보기",
         "en-US": "Check Device",
         "pt-BR": "Verificar Dispositivo",
         "es-ES": "Revisar Dispositivo"
     },
     "JUmeDA": {
-        "ko-KR": "Enchant Shield",
         "en-US": "Enchant Shield",
         "pt-BR": "Encantar Escudo",
         "es-ES": "Encantar Escudo"
     },
     "JkmeDA": {
-        "ko-KR": "Buy Enchantment Orbs",
         "en-US": "Buy Enchantment Orbs",
         "pt-BR": "Comprar Orbes de Encantamento",
         "es-ES": "Comprar Orbes de Encantamiento"
     },
     "J0meDA": {
-        "ko-KR": "^0000FF#최신 홀로그램으로 표현된 안드로이드가 자연스런 동작으로 인사를 건네온다#^000000",
         "en-US": "^0000FF#A cutting-edge holographic android greets you with natural movements.#^000000",
         "pt-BR": "^0000FF#Um androide holográfico de última geração cumprimenta você com movimentos naturais.#^000000",
         "es-ES": "^0000FF#Un androide holográfico de última generación te saluda con movimientos naturales.#^000000"
     },
     "KEmeDA": {
-        "ko-KR": "리벨리온 : 아, 거기 그 기계는 개조 모듈이 없으면 아무 쓸모가 없어요.",
         "en-US": "Rebellion: Ah, that machine over there is completely useless without modification modules.",
         "pt-BR": "Rebellion: Ah, aquela máquina ali não serve para nada sem módulos de modificação.",
         "es-ES": "Rebellion: Ah, esa máquina de ahí no sirve para nada sin módulos de modificación."
     },
     "KUmeDA": {
-        "ko-KR": "[RS26]\n미래도시에서 발견된 기술이 이제 여러분의 생활속으로 파고듭니다. 레겐쉬름 로보틱스의 최신 테크놀러지 RS26 과 함께 하세요.",
         "en-US": "[RS26]\nTechnology discovered in the city of the future now enters your everyday life. Join Regen Schirm Robotics’ latest technology, RS26.",
         "pt-BR": "[RS26]\nA tecnologia descoberta na cidade do futuro agora faz parte do seu dia a dia. Junte-se à mais nova tecnologia da Regen Schirm Robotics, RS26.",
         "es-ES": "[RS26]\nLa tecnología descubierta en la ciudad del futuro ahora se integra en tu vida diaria. Únete a la última tecnología de Regen Schirm Robotics, RS26."
     },
     "KkmeDA": {
-        "ko-KR": "[RS26]\n일루시온 쉴드와 강화용 모듈을 가지고 오시면 모듈에 따라 장비를 강화해 드리고 있습니다.",
         "en-US": "[RS26]\nBring an Illusion Shield and enhancement modules, and we will upgrade your equipment according to the module.",
         "pt-BR": "[RS26]\nTraga um Escudo de Ilusão e módulos de aprimoramento, e melhoraremos seu equipamento de acordo com o módulo.",
         "es-ES": "[RS26]\nTrae un Escudo de Ilusión y módulos de mejora, y reforzaremos tu equipo según el módulo."
     },
     "K0meDA": {
-        "ko-KR": "[RS26]\n규격 모듈에 따라 작업하는 것이므로 장비가 파괴되는 일은 없습니다. 다만 모듈에 따라 업그레이드 횟수등은 다를 수 있습니다.",
         "en-US": "[RS26]\nSince we work only with standard modules, your equipment will not be destroyed. However, upgrade limits may vary by module.",
         "pt-BR": "[RS26]\nComo trabalhamos com módulos padrão, seu equipamento não será destruído. Porém, os limites de melhoria podem variar conforme o módulo.",
         "es-ES": "[RS26]\nComo trabajamos con módulos estándar, tu equipo no se destruirá. Sin embargo, los límites de mejora pueden variar según el módulo."
     },
     "LEmeDA": {
-        "ko-KR": "[RS26]\n그럼 도움이 필요하실때 다시 방문하십시오~",
         "en-US": "[RS26]\nCome back anytime if you need help~",
         "pt-BR": "[RS26]\nVolte quando precisar de ajuda~",
         "es-ES": "[RS26]\nVuelve cuando necesites ayuda~"
     },
     "LUmeDA": {
-        "ko-KR": "^AAAAAA개조 오브(방어)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (DEF)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (DEF)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (DEF)(Sin Plano)^000000"
     },
     "LkmeDA": {
-        "ko-KR": "개조 오브(방어)",
         "en-US": "Modification Orb (DEF)",
         "pt-BR": "Orbe de Modificação (DEF)",
         "es-ES": "Orbe de Modificación (DEF)"
     },
     "L0meDA": {
-        "ko-KR": "^AAAAAA개조 오브(마법방어)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (MDEF)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (MDEF)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (MDEF)(Sin Plano)^000000"
     },
     "MEmeDA": {
-        "ko-KR": "개조 오브(마법방어)",
         "en-US": "Modification Orb (MDEF)",
         "pt-BR": "Orbe de Modificação (MDEF)",
         "es-ES": "Orbe de Modificación (MDEF)"
     },
     "MUmeDA": {
-        "ko-KR": "^AAAAAAVIT+3(도면없음)^000000",
         "en-US": "^AAAAAAVIT+3(No Blueprint)^000000",
         "pt-BR": "^AAAAAAVIT+3(Sem Planta)^000000",
         "es-ES": "^AAAAAAVIT+3(Sin Plano)^000000"
     },
     "MkmeDA": {
-        "ko-KR": "VIT+3",
         "en-US": "VIT+3",
         "pt-BR": "VIT+3",
         "es-ES": "VIT+3"
     },
     "M0meDA": {
-        "ko-KR": "^AAAAAALUK+3(도면없음)^000000",
         "en-US": "^AAAAAALUK+3(No Blueprint)^000000",
         "pt-BR": "^AAAAAALUK+3(Sem Planta)^000000",
         "es-ES": "^AAAAAALUK+3(Sin Plano)^000000"
     },
     "NEmeDA": {
-        "ko-KR": "LUK+3",
         "en-US": "LUK+3",
         "pt-BR": "LUK+3",
         "es-ES": "LUK+3"
     },
     "NUmeDA": {
-        "ko-KR": "^AAAAAASTR+3(도면없음)^000000",
         "en-US": "^AAAAAASTR+3(No Blueprint)^000000",
         "pt-BR": "^AAAAAASTR+3(Sem Planta)^000000",
         "es-ES": "^AAAAAASTR+3(Sin Plano)^000000"
     },
     "NkmeDA": {
-        "ko-KR": "STR+3",
         "en-US": "STR+3",
         "pt-BR": "STR+3",
         "es-ES": "STR+3"
     },
     "N0meDA": {
-        "ko-KR": "^AAAAAAAGI+3(도면없음)^000000",
         "en-US": "^AAAAAAAGI+3(No Blueprint)^000000",
         "pt-BR": "^AAAAAAAGI+3(Sem Planta)^000000",
         "es-ES": "^AAAAAAAGI+3(Sin Plano)^000000"
     },
     "OEmeDA": {
-        "ko-KR": "AGI+3",
         "en-US": "AGI+3",
         "pt-BR": "AGI+3",
         "es-ES": "AGI+3"
     },
     "OUmeDA": {
-        "ko-KR": "^AAAAAAINT+3(도면없음)^000000",
         "en-US": "^AAAAAAINT+3(No Blueprint)^000000",
         "pt-BR": "^AAAAAAINT+3(Sem Planta)^000000",
         "es-ES": "^AAAAAAINT+3(Sin Plano)^000000"
     },
     "OkmeDA": {
-        "ko-KR": "INT+3",
         "en-US": "INT+3",
         "pt-BR": "INT+3",
         "es-ES": "INT+3"
     },
     "O0meDA": {
-        "ko-KR": "^AAAAAADEX+3(도면없음)^000000",
         "en-US": "^AAAAAADEX+3(No Blueprint)^000000",
         "pt-BR": "^AAAAAADEX+3(Sem Planta)^000000",
         "es-ES": "^AAAAAADEX+3(Sin Plano)^000000"
     },
     "PEmeDA": {
-        "ko-KR": "DEX+3",
         "en-US": "DEX+3",
         "pt-BR": "DEX+3",
         "es-ES": "DEX+3"
     },
     "PUmeDA": {
-        "ko-KR": "^AAAAAA개조 오브(HP회복량)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (HP Recovery)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Recuperação de HP)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Recuperación de HP)(Sin Plano)^000000"
     },
     "PkmeDA": {
-        "ko-KR": "개조 오브(HP회복량)",
         "en-US": "Modification Orb (HP Recovery)",
         "pt-BR": "Orbe de Modificação (Recuperação de HP)",
         "es-ES": "Orbe de Modificación (Recuperación de HP)"
     },
     "P0meDA": {
-        "ko-KR": "^AAAAAA개조 오브(SP회복량)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (SP Recovery)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Recuperação de SP)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Recuperación de SP)(Sin Plano)^000000"
     },
     "QEmeDA": {
-        "ko-KR": "개조 오브(SP회복량)",
         "en-US": "Modification Orb (SP Recovery)",
         "pt-BR": "Orbe de Modificação (Recuperação de SP)",
         "es-ES": "Orbe de Modificación (Recuperación de SP)"
     },
     "QUmeDA": {
-        "ko-KR": "^AAAAAA마력5Lv(도면없음)^000000",
         "en-US": "^AAAAAASpell Power Lv. 5(No Blueprint)^000000",
         "pt-BR": "^AAAAAAPoder Mágico Nv. 5(Sem Planta)^000000",
         "es-ES": "^AAAAAAPoder Mágico Nv. 5(Sin Plano)^000000"
     },
     "QkmeDA": {
-        "ko-KR": "마력5Lv",
         "en-US": "Spell Power Lv. 5",
         "pt-BR": "Poder Mágico Nv. 5",
         "es-ES": "Poder Mágico Nv. 5"
     },
     "Q0meDA": {
-        "ko-KR": "^AAAAAA공격후딜레이4Lv(도면없음)^000000",
         "en-US": "^AAAAAAAfter Attack Delay Lv. 4(No Blueprint)^000000",
         "pt-BR": "^AAAAAAAtraso Pós-Ataque Nv. 4(Sem Planta)^000000",
         "es-ES": "^AAAAAARetraso Post-Ataque Nv. 4(Sin Plano)^000000"
     },
     "REmeDA": {
-        "ko-KR": "공격후딜레이4Lv",
         "en-US": "After Attack Delay Lv. 4",
         "pt-BR": "Atraso Pós-Ataque Nv. 4",
         "es-ES": "Retraso Post-Ataque Nv. 4"
     },
     "RUmeDA": {
-        "ko-KR": "^AAAAAA치명4Lv(도면없음)^000000",
         "en-US": "^AAAAAACritical Lv. 4(No Blueprint)^000000",
         "pt-BR": "^AAAAAACrítico Nv. 4(Sem Planta)^000000",
         "es-ES": "^AAAAAACrítico Nv. 4(Sin Plano)^000000"
     },
     "RkmeDA": {
-        "ko-KR": "치명4Lv",
         "en-US": "Critical Lv. 4",
         "pt-BR": "Crítico Nv. 4",
         "es-ES": "Crítico Nv. 4"
     },
     "R0meDA": {
-        "ko-KR": "^AAAAAA명궁5Lv(도면없음)^000000",
         "en-US": "^AAAAAASharpshooter Lv. 5(No Blueprint)^000000",
         "pt-BR": "^AAAAAAAtirador de Elite Nv. 5(Sem Planta)^000000",
         "es-ES": "^AAAAAATirador Experto Nv. 5(Sin Plano)^000000"
     },
     "SEmeDA": {
-        "ko-KR": "명궁5Lv",
         "en-US": "Sharpshooter Lv. 5",
         "pt-BR": "Atirador de Elite Nv. 5",
         "es-ES": "Tirador Experto Nv. 5"
     },
     "SUmeDA": {
-        "ko-KR": "^AAAAAA개조 오브(체력)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (Vitality)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Vitalidade)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Vitalidad)(Sin Plano)^000000"
     },
     "SkmeDA": {
-        "ko-KR": "개조 오브(체력)",
         "en-US": "Modification Orb (Vitality)",
         "pt-BR": "Orbe de Modificação (Vitalidade)",
         "es-ES": "Orbe de Modificación (Vitalidad)"
     },
     "S0meDA": {
-        "ko-KR": "^AAAAAA개조 오브(정신력)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (Mental Strength)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Força Mental)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Fuerza Mental)(Sin Plano)^000000"
     },
     "TEmeDA": {
-        "ko-KR": "개조 오브(정신력)",
         "en-US": "Modification Orb (Mental Strength)",
         "pt-BR": "Orbe de Modificação (Força Mental)",
         "es-ES": "Orbe de Modificación (Fuerza Mental)"
     },
     "TUmeDA": {
-        "ko-KR": "^AAAAAA개조 오브(힐)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (Heal)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Cura)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Curación)(Sin Plano)^000000"
     },
     "TkmeDA": {
-        "ko-KR": "개조 오브(힐)",
         "en-US": "Modification Orb (Heal)",
         "pt-BR": "Orbe de Modificação (Cura)",
         "es-ES": "Orbe de Modificación (Curación)"
     },
     "T0meDA": {
-        "ko-KR": "^AAAAAA개조 오브(공격력)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (ATK)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (ATQ)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (ATQ)(Sin Plano)^000000"
     },
     "UEmeDA": {
-        "ko-KR": "개조 오브(공격력)",
         "en-US": "Modification Orb (ATK)",
         "pt-BR": "Orbe de Modificação (ATQ)",
         "es-ES": "Orbe de Modificación (ATQ)"
     },
     "UUmeDA": {
-        "ko-KR": "^AAAAAA개조 오브(마법력)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (MATK)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (MATQ)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (MATQ)(Sin Plano)^000000"
     },
     "UkmeDA": {
-        "ko-KR": "개조 오브(마법력)",
         "en-US": "Modification Orb (MATK)",
         "pt-BR": "Orbe de Modificação (MATQ)",
         "es-ES": "Orbe de Modificación (MATQ)"
     },
     "U0meDA": {
-        "ko-KR": "^AAAAAA개조 오브(명사수)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (Sharpshooter)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Atirador)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Tirador)(Sin Plano)^000000"
     },
     "VEmeDA": {
-        "ko-KR": "개조 오브(명사수)",
         "en-US": "Modification Orb (Sharpshooter)",
         "pt-BR": "Orbe de Modificação (Atirador)",
         "es-ES": "Orbe de Modificación (Tirador)"
     },
     "VUmeDA": {
-        "ko-KR": "^AAAAAA개조 오브(신속)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (Speed)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Velocidade)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Velocidad)(Sin Plano)^000000"
     },
     "VkmeDA": {
-        "ko-KR": "개조 오브(신속)",
         "en-US": "Modification Orb (Speed)",
         "pt-BR": "Orbe de Modificação (Velocidade)",
         "es-ES": "Orbe de Modificación (Velocidad)"
     },
     "V0meDA": {
-        "ko-KR": "^AAAAAA개조 오브(캐스터)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (Caster)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Conjurador)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Hechicero)(Sin Plano)^000000"
     },
     "WEmeDA": {
-        "ko-KR": "개조 오브(캐스터)",
         "en-US": "Modification Orb (Caster)",
         "pt-BR": "Orbe de Modificação (Conjurador)",
         "es-ES": "Orbe de Modificación (Hechicero)"
     },
     "WUmeDA": {
-        "ko-KR": "^AAAAAA개조 오브(크리티컬)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (Critical)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Crítico)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Crítico)(Sin Plano)^000000"
     },
     "WkmeDA": {
-        "ko-KR": "개조 오브(크리티컬)",
         "en-US": "Modification Orb (Critical)",
         "pt-BR": "Orbe de Modificação (Crítico)",
         "es-ES": "Orbe de Modificación (Crítico)"
     },
     "W0meDA": {
-        "ko-KR": "^AAAAAA개조 오브(스킬 후  딜레이)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (After Skill Delay)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Atraso Pós-Habilidade)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Retraso Post-Habilidad)(Sin Plano)^000000"
     },
     "XEmeDA": {
-        "ko-KR": "개조 오브(스킬 후  딜레이)",
         "en-US": "Modification Orb (After Skill Delay)",
         "pt-BR": "Orbe de Modificação (Atraso Pós-Habilidade)",
         "es-ES": "Orbe de Modificación (Retraso Post-Habilidad)"
     },
     "XUmeDA": {
-        "ko-KR": "^AAAAAA개조 오브(고정 캐스팅)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (Fixed Casting)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Conjuração Fixa)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Lanzamiento Fijo)(Sin Plano)^000000"
     },
     "XkmeDA": {
-        "ko-KR": "개조 오브(고정 캐스팅)",
         "en-US": "Modification Orb (Fixed Casting)",
         "pt-BR": "Orbe de Modificação (Conjuração Fixa)",
         "es-ES": "Orbe de Modificación (Lanzamiento Fijo)"
     },
     "X0meDA": {
-        "ko-KR": "^AAAAAA개조 오브(어보브 올)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (Above All)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Above All)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Above All)(Sin Plano)^000000"
     },
     "YEmeDA": {
-        "ko-KR": "개조 오브(어보브 올)",
         "en-US": "Modification Orb (Above All)",
         "pt-BR": "Orbe de Modificação (Above All)",
         "es-ES": "Orbe de Modificación (Above All)"
     },
     "YUmeDA": {
-        "ko-KR": "^AAAAAA개조 오브(드레인 라이프)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (Drain Life)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Drenar Vida)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Drenar Vida)(Sin Plano)^000000"
     },
     "YkmeDA": {
-        "ko-KR": "개조 오브(드레인 라이프)",
         "en-US": "Modification Orb (Drain Life)",
         "pt-BR": "Orbe de Modificação (Drenar Vida)",
         "es-ES": "Orbe de Modificación (Drenar Vida)"
     },
     "Y0meDA": {
-        "ko-KR": "^AAAAAA개조 오브(드레인 소울)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (Drain Soul)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Drenar Alma)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Drenar Alma)(Sin Plano)^000000"
     },
     "ZEmeDA": {
-        "ko-KR": "개조 오브(드레인 소울)",
         "en-US": "Modification Orb (Drain Soul)",
         "pt-BR": "Orbe de Modificação (Drenar Alma)",
         "es-ES": "Orbe de Modificación (Drenar Alma)"
     },
     "ZUmeDA": {
-        "ko-KR": "^AAAAAA개조 오브(매직 힐링)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (Magic Healing)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Cura Mágica)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Curación Mágica)(Sin Plano)^000000"
     },
     "ZkmeDA": {
-        "ko-KR": "개조 오브(매직 힐링)",
         "en-US": "Modification Orb (Magic Healing)",
         "pt-BR": "Orbe de Modificação (Cura Mágica)",
         "es-ES": "Orbe de Modificación (Curación Mágica)"
     },
     "Z0meDA": {
-        "ko-KR": "^AAAAAA개조 오브(매직 소울)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (Magic Soul)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Alma Mágica)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Alma Mágica)(Sin Plano)^000000"
     },
     "aEmeDA": {
-        "ko-KR": "개조 오브(매직 소울)",
         "en-US": "Modification Orb (Magic Soul)",
         "pt-BR": "Orbe de Modificação (Alma Mágica)",
         "es-ES": "Orbe de Modificación (Alma Mágica)"
     },
     "aUmeDA": {
-        "ko-KR": "^AAAAAA개조 오브(언리밋바이탈)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (Unlimited Vital)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Vital Ilimitado)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Vital Ilimitado)(Sin Plano)^000000"
     },
     "akmeDA": {
-        "ko-KR": "개조 오브(언리밋바이탈)",
         "en-US": "Modification Orb (Unlimited Vital)",
         "pt-BR": "Orbe de Modificação (Vital Ilimitado)",
         "es-ES": "Orbe de Modificación (Vital Ilimitado)"
     },
     "a0meDA": {
-        "ko-KR": "^AAAAAA개조 오브(스펠버스터)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (Spell Buster)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Spell Buster)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Spell Buster)(Sin Plano)^000000"
     },
     "bEmeDA": {
-        "ko-KR": "개조 오브(스펠버스터)",
         "en-US": "Modification Orb (Spell Buster)",
         "pt-BR": "Orbe de Modificação (Spell Buster)",
         "es-ES": "Orbe de Modificación (Spell Buster)"
     },
     "bUmeDA": {
-        "ko-KR": "^AAAAAA개조 오브(파이어링샷)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (Firing Shot)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Firing Shot)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Firing Shot)(Sin Plano)^000000"
     },
     "bkmeDA": {
-        "ko-KR": "개조 오브(파이어링샷)",
         "en-US": "Modification Orb (Firing Shot)",
         "pt-BR": "Orbe de Modificação (Firing Shot)",
         "es-ES": "Orbe de Modificación (Firing Shot)"
     },
     "b0meDA": {
-        "ko-KR": "^AAAAAA개조 오브(오버파워)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (Overpower)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Overpower)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Overpower)(Sin Plano)^000000"
     },
     "cEmeDA": {
-        "ko-KR": "개조 오브(오버파워)",
         "en-US": "Modification Orb (Overpower)",
         "pt-BR": "Orbe de Modificação (Overpower)",
         "es-ES": "Orbe de Modificación (Overpower)"
     },
     "cUmeDA": {
-        "ko-KR": "^AAAAAA개조 오브(페이탈 플래쉬)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (Fatal Flash)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Fatal Flash)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Fatal Flash)(Sin Plano)^000000"
     },
     "ckmeDA": {
-        "ko-KR": "개조 오브(페이탈 플래쉬)",
         "en-US": "Modification Orb (Fatal Flash)",
         "pt-BR": "Orbe de Modificação (Fatal Flash)",
         "es-ES": "Orbe de Modificación (Fatal Flash)"
     },
     "c0meDA": {
-        "ko-KR": "^AAAAAA개조 오브(럭키스트라이크)(도면없음)^000000",
         "en-US": "^AAAAAAModification Orb (Lucky Strike)(No Blueprint)^000000",
         "pt-BR": "^AAAAAAOrbe de Modificação (Lucky Strike)(Sem Planta)^000000",
         "es-ES": "^AAAAAAOrbe de Modificación (Lucky Strike)(Sin Plano)^000000"
     },
     "dEmeDA": {
-        "ko-KR": "개조 오브(럭키스트라이크)",
         "en-US": "Modification Orb (Lucky Strike)",
         "pt-BR": "Orbe de Modificação (Lucky Strike)",
         "es-ES": "Orbe de Modificación (Lucky Strike)"
     },
     "dUmeDA": {
-        "ko-KR": "[RS26]\n{0} 님\n업그레이드하실 효능을 선택해주십시오.",
         "en-US": "[RS26]\n{0}\nPlease select the effect you wish to upgrade.",
         "pt-BR": "[RS26]\n{0}\nSelecione o efeito que deseja aprimorar.",
         "es-ES": "[RS26]\n{0}\nSelecciona el efecto que deseas mejorar."
     },
     "dkmeDA": {
-        "ko-KR": "취소",
         "en-US": "Cancel",
         "pt-BR": "Cancelar",
         "es-ES": "Cancelar"
     },
     "d0meDA": {
-        "ko-KR": "노멀등급",
         "en-US": "Normal Grade",
         "pt-BR": "Grau Normal",
         "es-ES": "Grado Normal"
     },
     "eEmeDA": {
-        "ko-KR": "레어등급",
         "en-US": "Rare Grade",
         "pt-BR": "Grau Raro",
         "es-ES": "Grado Raro"
     },
     "eUmeDA": {
-        "ko-KR": "유니크등급",
         "en-US": "Unique Grade",
         "pt-BR": "Grau Único",
         "es-ES": "Grado Único"
     },
     "ekmeDA": {
-        "ko-KR": "레전드등급",
         "en-US": "Legend Grade",
         "pt-BR": "Grau Lendário",
         "es-ES": "Grado Legendario"
     },
     "e0meDA": {
-        "ko-KR": "[RS26]\n여기까지 하기로 하겠습니다.",
         "en-US": "[RS26]\nWe’ll stop here.",
         "pt-BR": "[RS26]\nVamos encerrar por aqui.",
         "es-ES": "[RS26]\nLo dejaremos aquí."
     },
     "fEmeDA": {
-        "ko-KR": "개조 오브(방어)",
         "en-US": "Modification Orb (DEF)",
         "pt-BR": "Orbe de Modificação (DEF)",
         "es-ES": "Orbe de Modificación (DEF)"
     },
     "fUmeDA": {
-        "ko-KR": "개조 오브(마법방어)",
         "en-US": "Modification Orb (MDEF)",
         "pt-BR": "Orbe de Modificação (MDEF)",
         "es-ES": "Orbe de Modificación (MDEF)"
     },
     "fkmeDA": {
-        "ko-KR": "VIT+3",
         "en-US": "VIT+3",
         "pt-BR": "VIT+3",
         "es-ES": "VIT+3"
     },
     "f0meDA": {
-        "ko-KR": "LUK+3",
         "en-US": "LUK+3",
         "pt-BR": "LUK+3",
         "es-ES": "LUK+3"
     },
     "gEmeDA": {
-        "ko-KR": "STR+3",
         "en-US": "STR+3",
         "pt-BR": "STR+3",
         "es-ES": "STR+3"
     },
     "gUmeDA": {
-        "ko-KR": "AGI+3",
         "en-US": "AGI+3",
         "pt-BR": "AGI+3",
         "es-ES": "AGI+3"
     },
     "gkmeDA": {
-        "ko-KR": "INT+3",
         "en-US": "INT+3",
         "pt-BR": "INT+3",
         "es-ES": "INT+3"
     },
     "g0meDA": {
-        "ko-KR": "DEX+3",
         "en-US": "DEX+3",
         "pt-BR": "DEX+3",
         "es-ES": "DEX+3"
     },
     "hEmeDA": {
-        "ko-KR": "개조 오브(HP회복량)",
         "en-US": "Modification Orb (HP Recovery)",
         "pt-BR": "Orbe de Modificação (Recuperação de HP)",
         "es-ES": "Orbe de Modificación (Recuperación de HP)"
     },
     "hUmeDA": {
-        "ko-KR": "개조 오브(SP회복량)",
         "en-US": "Modification Orb (SP Recovery)",
         "pt-BR": "Orbe de Modificação (Recuperação de SP)",
         "es-ES": "Orbe de Modificación (Recuperación de SP)"
     },
     "hkmeDA": {
-        "ko-KR": "마력5Lv",
         "en-US": "Spell Power Lv. 5",
         "pt-BR": "Poder Mágico Nv. 5",
         "es-ES": "Poder Mágico Nv. 5"
     },
     "h0meDA": {
-        "ko-KR": "공격후딜레이4Lv",
         "en-US": "After Attack Delay Lv. 4",
         "pt-BR": "Atraso Pós-Ataque Nv. 4",
         "es-ES": "Retraso Post-Ataque Nv. 4"
     },
     "iEmeDA": {
-        "ko-KR": "치명4Lv",
         "en-US": "Critical Lv. 4",
         "pt-BR": "Crítico Nv. 4",
         "es-ES": "Crítico Nv. 4"
     },
     "iUmeDA": {
-        "ko-KR": "명궁5Lv",
         "en-US": "Sharpshooter Lv. 5",
         "pt-BR": "Atirador de Elite Nv. 5",
         "es-ES": "Tirador Experto Nv. 5"
     },
     "ikmeDA": {
-        "ko-KR": "개조 오브(체력)",
         "en-US": "Modification Orb (Vitality)",
         "pt-BR": "Orbe de Modificação (Vitalidade)",
         "es-ES": "Orbe de Modificación (Vitalidad)"
     },
     "i0meDA": {
-        "ko-KR": "개조 오브(정신력)",
         "en-US": "Modification Orb (Mental Strength)",
         "pt-BR": "Orbe de Modificação (Força Mental)",
         "es-ES": "Orbe de Modificación (Fuerza Mental)"
     },
     "jEmeDA": {
-        "ko-KR": "개조 오브(힐)",
         "en-US": "Modification Orb (Heal)",
         "pt-BR": "Orbe de Modificação (Cura)",
         "es-ES": "Orbe de Modificación (Curación)"
     },
     "jUmeDA": {
-        "ko-KR": "개조 오브(공격력)",
         "en-US": "Modification Orb (ATK)",
         "pt-BR": "Orbe de Modificação (ATQ)",
         "es-ES": "Orbe de Modificación (ATQ)"
     },
     "jkmeDA": {
-        "ko-KR": "개조 오브(마법력)",
         "en-US": "Modification Orb (MATK)",
         "pt-BR": "Orbe de Modificação (MATQ)",
         "es-ES": "Orbe de Modificación (MATQ)"
     },
     "j0meDA": {
-        "ko-KR": "개조 오브(명사수)",
         "en-US": "Modification Orb (Sharpshooter)",
         "pt-BR": "Orbe de Modificação (Atirador)",
         "es-ES": "Orbe de Modificación (Tirador)"
     },
     "kEmeDA": {
-        "ko-KR": "개조 오브(신속)",
         "en-US": "Modification Orb (Speed)",
         "pt-BR": "Orbe de Modificação (Velocidade)",
         "es-ES": "Orbe de Modificación (Velocidad)"
     },
     "kUmeDA": {
-        "ko-KR": "개조 오브(캐스터)",
         "en-US": "Modification Orb (Caster)",
         "pt-BR": "Orbe de Modificação (Conjurador)",
         "es-ES": "Orbe de Modificación (Hechicero)"
     },
     "kkmeDA": {
-        "ko-KR": "개조 오브(크리티컬)",
         "en-US": "Modification Orb (Critical)",
         "pt-BR": "Orbe de Modificação (Crítico)",
         "es-ES": "Orbe de Modificación (Crítico)"
     },
     "k0meDA": {
-        "ko-KR": "개조 오브(스킬_후 _딜레이)",
         "en-US": "Modification Orb (After Skill Delay)",
         "pt-BR": "Orbe de Modificação (Atraso Pós-Habilidade)",
         "es-ES": "Orbe de Modificación (Retraso Post-Habilidad)"
     },
     "lEmeDA": {
-        "ko-KR": "개조 오브(고정_캐스팅)",
         "en-US": "Modification Orb (Fixed Casting)",
         "pt-BR": "Orbe de Modificação (Conjuração Fixa)",
         "es-ES": "Orbe de Modificación (Lanzamiento Fijo)"
     },
     "lUmeDA": {
-        "ko-KR": "개조 오브(어보브_올)",
         "en-US": "Modification Orb (Above All)",
         "pt-BR": "Orbe de Modificação (Above All)",
         "es-ES": "Orbe de Modificación (Above All)"
     },
     "lkmeDA": {
-        "ko-KR": "개조 오브(드레인_라이프)",
         "en-US": "Modification Orb (Drain Life)",
         "pt-BR": "Orbe de Modificação (Drenar Vida)",
         "es-ES": "Orbe de Modificación (Drenar Vida)"
     },
     "l0meDA": {
-        "ko-KR": "개조 오브(드레인_소울)",
         "en-US": "Modification Orb (Drain Soul)",
         "pt-BR": "Orbe de Modificação (Drenar Alma)",
         "es-ES": "Orbe de Modificación (Drenar Alma)"
     },
     "mEmeDA": {
-        "ko-KR": "개조 오브(매직_힐링)",
         "en-US": "Modification Orb (Magic Healing)",
         "pt-BR": "Orbe de Modificação (Cura Mágica)",
         "es-ES": "Orbe de Modificación (Curación Mágica)"
     },
     "mUmeDA": {
-        "ko-KR": "개조 오브(매직_소울)",
         "en-US": "Modification Orb (Magic Soul)",
         "pt-BR": "Orbe de Modificação (Alma Mágica)",
         "es-ES": "Orbe de Modificación (Alma Mágica)"
     },
     "mkmeDA": {
-        "ko-KR": "개조 오브(언리밋바이탈)",
         "en-US": "Modification Orb (Unlimited Vital)",
         "pt-BR": "Orbe de Modificação (Vital Ilimitado)",
         "es-ES": "Orbe de Modificación (Vital Ilimitado)"
     },
     "m0meDA": {
-        "ko-KR": "개조 오브(스펠버스터)",
         "en-US": "Modification Orb (Spell Buster)",
         "pt-BR": "Orbe de Modificação (Spell Buster)",
         "es-ES": "Orbe de Modificación (Spell Buster)"
     },
     "nEmeDA": {
-        "ko-KR": "개조 오브(파이어링샷)",
         "en-US": "Modification Orb (Firing Shot)",
         "pt-BR": "Orbe de Modificação (Firing Shot)",
         "es-ES": "Orbe de Modificación (Firing Shot)"
     },
     "nUmeDA": {
-        "ko-KR": "개조 오브(오버파워)",
         "en-US": "Modification Orb (Overpower)",
         "pt-BR": "Orbe de Modificação (Overpower)",
         "es-ES": "Orbe de Modificación (Overpower)"
     },
     "nkmeDA": {
-        "ko-KR": "개조 오브(페이탈 플래쉬)",
         "en-US": "Modification Orb (Fatal Flash)",
         "pt-BR": "Orbe de Modificação (Fatal Flash)",
         "es-ES": "Orbe de Modificación (Fatal Flash)"
     },
     "n0meDA": {
-        "ko-KR": "개조 오브(럭키스트라이크)",
         "en-US": "Modification Orb (Lucky Strike)",
         "pt-BR": "Orbe de Modificação (Lucky Strike)",
         "es-ES": "Orbe de Modificación (Lucky Strike)"
     },
     "oEmeDA": {
-        "ko-KR": "[RS26]\n효능과 일치하는 모듈을 소지하셔야 강화를 진행 할 수 있습니다.",
         "en-US": "[RS26]\nYou can proceed only if you have a module that matches the selected effect.",
         "pt-BR": "[RS26]\nVocê só pode prosseguir se possuir um módulo que corresponda ao efeito selecionado.",
         "es-ES": "[RS26]\nSolo puedes continuar si tienes un módulo que coincida con el efecto seleccionado."
     },
     "oUmeDA": {
-        "ko-KR": "[RS26]\n정상적인 진행이 불가능한 상황입니다. 관리자를 찾으셔야 할 것 같군요.",
         "en-US": "[RS26]\nNormal operation is not possible. You may need to contact an administrator.",
         "pt-BR": "[RS26]\nNão é possível prosseguir normalmente. Talvez você precise contatar um administrador.",
         "es-ES": "[RS26]\nNo es posible continuar con normalidad. Puede que debas contactar a un administrador."
     },
     "okmeDA": {
-        "ko-KR": "[RS26]\n장비를 벗고 계신건 아닌가요?",
         "en-US": "[RS26]\nAre you sure you’re not unequipped?",
         "pt-BR": "[RS26]\nTem certeza de que não está sem equipamento?",
         "es-ES": "[RS26]\n¿Seguro que no estás sin equipar el equipo?"
     },
     "o0meDA": {
-        "ko-KR": "^FF0000랜덤옵션이 확인됩니다. 해당 장비는 작업 하실 수 없습니다.^000000",
         "en-US": "^FF0000Random options detected. This equipment cannot be modified.^000000",
         "pt-BR": "^FF0000Opções aleatórias detectadas. Este equipamento não pode ser modificado.^000000",
         "es-ES": "^FF0000Se detectaron opciones aleatorias. Este equipo no se puede modificar.^000000"
     },
     "pEmeDA": {
-        "ko-KR": "[RS26]\n이미 레전드급 모듈을 장착 하셨었군요. 더 이상의 레전드급 모듈 장착은 불가능합니다",
         "en-US": "[RS26]\nYou have already installed a Legend-grade module. You cannot install any additional Legend-grade modules.",
         "pt-BR": "[RS26]\nVocê já instalou um módulo de grau Lendário. Não é possível instalar mais módulos Lendários.",
         "es-ES": "[RS26]\nYa has instalado un módulo de grado Legendario. No se pueden instalar más módulos Legendarios."
     },
     "pUmeDA": {
-        "ko-KR": "[RS26]\n선택하신 모듈과 선택하신 장비는 호환되지 않습니다.",
         "en-US": "[RS26]\nThe selected module is not compatible with the selected equipment.",
         "pt-BR": "[RS26]\nO módulo selecionado não é compatível com o equipamento selecionado.",
         "es-ES": "[RS26]\nEl módulo seleccionado no es compatible con el equipo seleccionado."
     },
     "pkmeDA": {
-        "ko-KR": "[RS26]\n이 모듈은 첫 강화 시에만 사용 가능합니다. 유감스럽게도 해당장비는 이미 다른 효능을 부여받으셨군요. 다른 모듈을 이용하여 강화해 주십시오.",
         "en-US": "[RS26]\nThis module can be used only for the first enhancement. Unfortunately, this equipment already has a different effect. Please use another module.",
         "pt-BR": "[RS26]\nEste módulo só pode ser usado na primeira melhoria. Infelizmente, este equipamento já recebeu outro efeito. Use outro módulo.",
         "es-ES": "[RS26]\nEste módulo solo puede usarse en la primera mejora. Lamentablemente, este equipo ya tiene otro efecto. Usa otro módulo."
     },
     "p0meDA": {
-        "ko-KR": "[RS26]\n이 모듈의 능력치는 {0}번 까지 확장 가능합니다. 이미 확장 한계치까지 작업이 된 것 같군요",
         "en-US": "[RS26]\nThis module’s stats can be extended up to {0} times. It seems it has already reached the limit.",
         "pt-BR": "[RS26]\nOs atributos deste módulo podem ser ampliados até {0} vezes. Parece que já atingiu o limite.",
         "es-ES": "[RS26]\nLos atributos de este módulo se pueden ampliar hasta {0} veces. Parece que ya alcanzó el límite."
     },
     "qEmeDA": {
-        "ko-KR": "[RS26]\n강화하시려는 장비가 이미 확장 한계치까지 작업이 된 것 같군요",
         "en-US": "[RS26]\nIt seems the equipment you want to enhance has already reached its expansion limit.",
         "pt-BR": "[RS26]\nParece que o equipamento que você deseja melhorar já atingiu o limite de expansão.",
         "es-ES": "[RS26]\nParece que el equipo que deseas mejorar ya alcanzó el límite de expansión."
     },
     "qUmeDA": {
-        "ko-KR": "[RS26]\n작업중에 장비를 장착해제 하시면 오류가 발생할 수 있습니다. 주의하십시오.",
         "en-US": "[RS26]\nUnequipping the equipment during the process may cause errors. Please be careful.",
         "pt-BR": "[RS26]\nRemover o equipamento durante o processo pode causar erros. Tenha cuidado.",
         "es-ES": "[RS26]\nDesequipar el equipo durante el proceso puede causar errores. Ten cuidado."
     },
     "qkmeDA": {
-        "ko-KR": "일루전 쉴드A",
         "en-US": "Illusion Shield A",
         "pt-BR": "Escudo de Ilusão A",
         "es-ES": "Escudo de Ilusión A"
     },
     "q0meDA": {
-        "ko-KR": "일루전 쉴드B",
         "en-US": "Illusion Shield B",
         "pt-BR": "Escudo de Ilusão B",
         "es-ES": "Escudo de Ilusión B"
     },
     "rEmeDA": {
-        "ko-KR": "[RS26]\n강화하시려는 장착한 제품에 시리얼넘버가 없습니다. 규격 외 상품이므로 강화를 해 드릴 수 없습니다.",
         "en-US": "[RS26]\nThe equipped item you want to enhance has no serial number. As it is non-standard, we cannot enhance it.",
         "pt-BR": "[RS26]\nO item equipado que você deseja melhorar não possui número de série. Por ser um produto fora do padrão, não é possível aprimorá-lo.",
         "es-ES": "[RS26]\nEl objeto equipado que deseas mejorar no tiene número de serie. Al ser un producto fuera de estándar, no se puede mejorar."
     },
     "rUmeDA": {
-        "ko-KR": "[RS26]^0000FF\n{0} + {1} 선택\n^000000------------------\n선택하신 도면은 해당 장비에 최대 ^0000FF{2} 회 까지 동일한 도면으로 업그레이드 가능^000000하며 현재 ^0000FF{3} 회^000000 강화되어 있습니다. 계속 진행 하시겠습니까?",
         "en-US": "[RS26]^0000FF\n{0} + {1} Selected\n^000000------------------\nThis blueprint can upgrade the selected equipment up to ^0000FF{2} times^000000 with the same blueprint, and it has been upgraded ^0000FF{3} times^000000 so far. Do you want to continue?",
         "pt-BR": "[RS26]^0000FF\n{0} + {1} Selecionado\n^000000------------------\nEsta planta pode aprimorar o equipamento selecionado até ^0000FF{2} vezes^000000 com a mesma planta, e ele já foi aprimorado ^0000FF{3} vezes^000000. Deseja continuar?",
         "es-ES": "[RS26]^0000FF\n{0} + {1} Seleccionado\n^000000------------------\nEste plano puede mejorar el equipo seleccionado hasta ^0000FF{2} veces^000000 con el mismo plano, y actualmente lleva ^0000FF{3} mejoras^000000. ¿Deseas continuar?"
     },
     "rkmeDA": {
-        "ko-KR": "생각 좀 더 해보고...",
         "en-US": "Let me think a bit more...",
         "pt-BR": "Vou pensar um pouco mais...",
         "es-ES": "Déjame pensarlo un poco más..."
     },
     "r0meDA": {
-        "ko-KR": "진행한다",
         "en-US": "Proceed",
         "pt-BR": "Prosseguir",
         "es-ES": "Continuar"
     },
     "sEmeDA": {
-        "ko-KR": "[RS26]\n선택하신 장비는 이미 확장 한계치까지 작업이 된 것 같군요",
         "en-US": "[RS26]\nIt seems the selected equipment has already reached its expansion limit.",
         "pt-BR": "[RS26]\nParece que o equipamento selecionado já atingiu o limite de expansão.",
         "es-ES": "[RS26]\nParece que el equipo seleccionado ya alcanzó el límite de expansión."
     },
     "sUmeDA": {
-        "ko-KR": "[RS26]\n장비의 ^990000{0}번째 ^000000업그레이드를 시도합니다.",
         "en-US": "[RS26]\nAttempting the ^990000{0}th^000000 upgrade of the equipment.",
         "pt-BR": "[RS26]\nTentando a ^990000{0}ª^000000 melhoria do equipamento.",
         "es-ES": "[RS26]\nIntentando la ^990000{0}.ª^000000 mejora del equipo."
     },
     "skmeDA": {
-        "ko-KR": "[RS26]\n장비의 ^990000 보너스 효능 ^000000업그레이드를 시도합니다.",
         "en-US": "[RS26]\nAttempting to upgrade the ^990000bonus effect^000000 of the equipment.",
         "pt-BR": "[RS26]\nTentando aprimorar o ^990000efeito bônus^000000 do equipamento.",
         "es-ES": "[RS26]\nIntentando mejorar el ^990000efecto adicional^000000 del equipo."
     },
     "s0meDA": {
-        "ko-KR": "[RS26]\n교환할 수 있는 보상을 보여드리겠습니다.",
         "en-US": "[RS26]\nI will show you the rewards you can exchange.",
         "pt-BR": "[RS26]\nVou mostrar as recompensas que podem ser trocadas.",
         "es-ES": "[RS26]\nTe mostraré las recompensas que puedes intercambiar."

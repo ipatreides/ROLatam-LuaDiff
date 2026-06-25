@@ -1,0 +1,1882 @@
+{
+    "AIUEDQ": {
+        "en-US": "- A greedy-looking man\n- is hurling abuse at a child.",
+        "pt-BR": "- Um homem de aparência gananciosa\n- está despejando insultos sobre uma criança.",
+        "es-ES": "- Un hombre de aspecto codicioso'\n- está profiriendo insultos verbales a un niño."
+    },
+    "AYUEDQ": {
+        "en-US": "Listen to what happened.",
+        "pt-BR": "Ouça o que aconteceu.",
+        "es-ES": "Escucha qué ha pasado."
+    },
+    "AoUEDQ": {
+        "en-US": "Ignore it.",
+        "pt-BR": "Ignore.",
+        "es-ES": "Ignorarlo."
+    },
+    "A4UEDQ": {
+        "en-US": "Man: I fed and housed a native Kid with nowhere to go, and this is all I get in return?",
+        "pt-BR": "Homem: Eu dei comida e abrigo a um Garotinho nativo sem ter para onde ir, e essa é a retribuição?",
+        "es-ES": "Hombre: ¿Te doy de comer y techo siendo un Pequeñín nativo sin adónde ir, y esta es toda tu forma de agradecerlo?"
+    },
+    "BIUEDQ": {
+        "en-US": "??",
+        "pt-BR": "??",
+        "es-ES": "¿¿?"
+    },
+    "BYUEDQ": {
+        "en-US": "Man: Ha?! Don’t make me laugh. How dare you put your hands on a customer’s wallet?",
+        "pt-BR": "Homem: Hã?! Só pode ser piada. Como ousa pôr a mão na carteira de um cliente?",
+        "es-ES": "Hombre: ¡¿Eh?! No tiene ninguna gracia. ¿Cómo te atreves a meter mano a la cartera de un cliente?"
+    },
+    "BoUEDQ": {
+        "en-US": "Man: Tch- I should have listened when people told me not to associate with natives.",
+        "pt-BR": "Homem: Aff- Deviam mesmo ter me ouvido quando disseram para eu nem me misturar com nativos.",
+        "es-ES": "Hombre: Bah- Debería haber escuchado a quienes me decían que no me relacionara con nativos."
+    },
+    "B4UEDQ": {
+        "en-US": "Man: I must have lost my mind for a while. I’ll let it slide this time, so get out of my sight right now.",
+        "pt-BR": "Homem: Eu devia estar fora de mim. Vou deixar passar desta vez, então suma já da minha frente.",
+        "es-ES": "Hombre: Fui yo quien perdió la cabeza un momento. Esta vez te dejaré pasar, así que desaparece ahora mismo de mi vista."
+    },
+    "CIUEDQ": {
+        "en-US": "Child: Aah!",
+        "pt-BR": "Criança: Aaah!",
+        "es-ES": "Niño: ¡Aaah!"
+    },
+    "CYUEDQ": {
+        "en-US": "Man: Can’t you keep quiet? Why are you screaming and making such a scene in the neighborhood?!",
+        "pt-BR": "Homem: Não pode ficar quieto? Vai ficar berrando e fazendo escândalo no bairro?!",
+        "es-ES": "Hombre: ¿No puedes callarte? ¿Por qué montas este escándalo gritando y armando jaleo en el barrio?"
+    },
+    "CoUEDQ": {
+        "en-US": "Child: I didn’t do it. I’ve never even seen the customer’s wallet.",
+        "pt-BR": "Criança: Eu não fiz isso. Nunca nem vi a carteira do cliente.",
+        "es-ES": "Niño: Yo no lo hice. Nunca he visto la cartera del cliente."
+    },
+    "C4UEDQ": {
+        "en-US": "Man: Y- You..",
+        "pt-BR": "Homem: Seu..",
+        "es-ES": "Hombre: Es... es..."
+    },
+    "DIUEDQ": {
+        "en-US": "Man: Instead of begging properly, where does this brat get off talking back like that?",
+        "pt-BR": "Homem: Seu pirralho, em vez de implorar de joelhos, como ousa ficar me respondendo?",
+        "es-ES": "Hombre: ¿Este mocoso no sabe ni suplicar como es debido y encima me contesta?"
+    },
+    "DYUEDQ": {
+        "en-US": "Man: I was showing you one last bit of kindness and trying to let it go, and now you’re even lying?",
+        "pt-BR": "Homem: Eu estava tentando ser generoso e deixar isso passar numa boa, e agora você ainda mente?",
+        "es-ES": "Hombre: ¡Estaba dispuesto a ser magnánimo y dejarlo pasar, y ahora hasta me mientes?"
+    },
+    "DoUEDQ": {
+        "en-US": "Man: I don’t need a cheeky brat like you! You’re fired on the spot!",
+        "pt-BR": "Homem: Não preciso de um pirralho insolente como você! Está demitido!",
+        "es-ES": "Hombre: ¡No necesito a un mocoso insolente como tú! ¡Estás despedido, ahora mismo!"
+    },
+    "D4UEDQ": {
+        "en-US": "Child: Boss, I’m sorry.",
+        "pt-BR": "Criança: Senhor, eu errei.",
+        "es-ES": "Niño: Jefe, lo siento."
+    },
+    "EIUEDQ": {
+        "en-US": "Child: Please, just don’t fire me.. I need to earn money for my father’s medicine.",
+        "pt-BR": "Criança: Por favor, não me demita… preciso ganhar o dinheiro do remédio do meu pai.",
+        "es-ES": "Niño: Por favor, no me despida... tengo que ganar dinero para las medicinas de mi padre."
+    },
+    "EYUEDQ": {
+        "en-US": "Man: Tch! What? Medicine money?",
+        "pt-BR": "Homem: Tsc! O quê? Remédio?",
+        "es-ES": "Hombre: ¡Pah! ¿Qué? ¿Medicinas?"
+    },
+    "EoUEDQ": {
+        "en-US": "Man: That’s your problem. Why should I take your circumstances into account?",
+        "pt-BR": "Homem: Isso é problema seu. Por que eu teria que me importar com esse tipo de coisa?",
+        "es-ES": "Hombre: Ese es tu problema. ¿Y yo tengo que preocuparme también por eso?"
+    },
+    "E4UEDQ": {
+        "en-US": "Child: Then at least the wages I earned so far..",
+        "pt-BR": "Criança: Senhor, então pelo menos me pague pelo trabalho de até agora…",
+        "es-ES": "Niño: Jefe, entonces al menos deme el dinero que he ganado hasta ahora..."
+    },
+    "FIUEDQ": {
+        "en-US": "Man: What? Wages?",
+        "pt-BR": "Homem: O quê? Dinheiro pelo trabalho?",
+        "es-ES": "Hombre: ¿Qué? ¿El dinero que has ganado?"
+    },
+    "FYUEDQ": {
+        "en-US": "Man: Hah, have I lived too long? I’m hearing all kinds of nonsense. You got caught stealing, and now you shamelessly want money?",
+        "pt-BR": "Homem: Hein, será que já vivi demais? Ouço cada absurdo… você foi pego roubando e ainda quer me pedir dinheiro na maior cara de pau?",
+        "es-ES": "Hombre: Ja, debo de haber vivido demasiado para oír semejantes tonterías. ¿Te pillan robando y encima tienes la cara de pedirme dinero?"
+    },
+    "FoUEDQ": {
+        "en-US": "Man: I should be demanding compensation for the stolen wallet, and you’re asking for money? What a joke.",
+        "pt-BR": "Homem: Eu é que devia exigir compensação pela carteira roubada, e você vem falar em dinheiro? Só pode estar brincando.",
+        "es-ES": "Hombre: Poco me faltaría para reclamarte una indemnización por la cartera robada y tú, ¿qué? ¿Dinero? Qué ridiculez."
+    },
+    "F4UEDQ": {
+        "en-US": "Man: Damn it! I said you’re noisy!",
+        "pt-BR": "Homem: Droga! Já falei para parar com esse barulho!",
+        "es-ES": "Hombre: ¡Joder! ¡Qué escándalo!"
+    },
+    "GIUEDQ": {
+        "en-US": "Man: Brat, if I catch you hanging around here again, you’d better be ready.",
+        "pt-BR": "Homem: Pirralho, se eu te vir rondando por aqui de novo, é melhor se preparar.",
+        "es-ES": "Hombre: Mocoso, como vuelva a verte merodeando por aquí, más te vale prepararte."
+    },
+    "GYUEDQ": {
+        "en-US": "Man: Tch, what rotten luck.",
+        "pt-BR": "Homem: Aff, que azar dos infernos.",
+        "es-ES": "Hombre: Bah, qué mala suerte tengo."
+    },
+    "GoUEDQ": {
+        "en-US": "Greedy Man",
+        "pt-BR": "Homem ganancioso",
+        "es-ES": "Hombre codicioso"
+    },
+    "G4UEDQ": {
+        "en-US": "Cowed Child",
+        "pt-BR": "Criança maltratada",
+        "es-ES": "Niño maltratado"
+    },
+    "HIUEDQ": {
+        "en-US": "^4D4DFF!-Warning-!^000000\n^4D4DFFYou do not have enough inventory space, or you are carrying a stack of the same item close to its limit.^000000\n^4D4DFFPlease organize your items using Kafra or Zonda's storage service.^000000",
+        "pt-BR": "^4D4DFF!-Atenção-!^000000\n^4D4DFFNão há espaço suficiente no inventário ou você está carregando um item próximo da quantidade máxima para este item.^000000\n^4D4DFFPor favor, organize tudo usando o serviço de armazém da Kafra ou da Zonda.^000000",
+        "es-ES": "^4D4DFF¡-Atención-!^000000\n^4D4DFFNo tiene espacio libre en el inventario o lleva una cantidad de objetos idénticos cercana al límite.^000000\n^4D4DFFOrdénelo utilizando el servicio de almacén de Kafra o Zonda.^000000"
+    },
+    "HYUEDQ": {
+        "en-US": "Ma’am",
+        "pt-BR": "Senhora",
+        "es-ES": "Señora"
+    },
+    "HoUEDQ": {
+        "en-US": "Ma’am",
+        "pt-BR": "Senhorita",
+        "es-ES": "Señora"
+    },
+    "H4UEDQ": {
+        "en-US": "Sir",
+        "pt-BR": "Senhor",
+        "es-ES": "Señor"
+    },
+    "IIUEDQ": {
+        "en-US": "Sir",
+        "pt-BR": "Senhor",
+        "es-ES": "Señor"
+    },
+    "IYUEDQ": {
+        "en-US": "[Child]\nTch.. just my luck. Natives really are the easiest targets.",
+        "pt-BR": "[Criança]\nAff… que azar, mesmo. No fim, nativo é sempre o alvo fácil.",
+        "es-ES": "[Niño]\nBah... qué mala suerte, total, un nativo siempre es la presa fácil."
+    },
+    "IoUEDQ": {
+        "en-US": "[Child]\nAh.. he paid pretty freely, but since he didn’t fire people freely, I actually liked that part. Thought it would last longer.",
+        "pt-BR": "[Criança]\nAh… ele até pagava com certa liberdade, mas como também demitia com a mesma liberdade, achei que até durou bastante.",
+        "es-ES": "[Niño]\nAh... bueno, soltaba el dinero con bastante liberalidad, pero como no despedía con la misma liberalidad, la verdad es que me gustaba bastante. Pensé que duraría."
+    },
+    "I4UEDQ": {
+        "en-US": "Are you okay?",
+        "pt-BR": "Você está bem?",
+        "es-ES": "¿Estás bien?"
+    },
+    "JIUEDQ": {
+        "en-US": "[Child]\n{0} What?",
+        "pt-BR": "[Criança]\n{0} O quê?",
+        "es-ES": "[Niño]\n{0} ¿Qué pasa?"
+    },
+    "JYUEDQ": {
+        "en-US": "[Child]\n{0} You look like an outsider, so if this is some clumsy pity, forget it. This kind of treatment is common for natives.",
+        "pt-BR": "[Criança]\n{0} Parece ser forasteiro, mas se for só pena mal ensaiada, pode parar. Esse tipo de tratamento é comum para os nativos.",
+        "es-ES": "[Niño]\n{0} Pareces forastero, así que si vienes con compasión barata, mejor déjalo. Para los nativos, este tipo de trato es de lo más normal."
+    },
+    "JoUEDQ": {
+        "en-US": "[Child]\nThen {0}, just keep going on your way. It wasn’t nice meeting you, and let’s not meet again either~",
+        "pt-BR": "[Criança]\nEntão {0}, siga seu caminho. Não foi prazer te conhecer, e espero também não te ver de novo~",
+        "es-ES": "[Niño]\nAsí que {0}, sigue tu camino. No es que me alegre de haberte conocido, así que mejor que no volvamos a vernos~"
+    },
+    "J4UEDQ": {
+        "en-US": "[Child]\nHa.. thought I got caught.",
+        "pt-BR": "[Criança]\nHa… achei que tinham me pego.",
+        "es-ES": "[Niño]\nUf... creí que me habían pillado."
+    },
+    "KIUEDQ": {
+        "en-US": "[Child]\nThe boss is dumb too. What I stole wasn’t the customer’s wallet.",
+        "pt-BR": "[Criança]\nO patrão também é burro, porque o que eu roubei não foi a carteira do cliente.",
+        "es-ES": "[Niño]\nY el jefe también es tonto; lo que robé no fue la cartera del cliente."
+    },
+    "KYUEDQ": {
+        "en-US": "[Child]\nAh! But then who stole the customer’s wallet? If I’d stolen that too, I’d feel less wronged.",
+        "pt-BR": "[Criança]\nAh! Mas então quem foi que roubou a carteira do cliente? Se pelo menos tivesse sido eu, seria menos injusto.",
+        "es-ES": "[Niño]\n¡Ah! Pero entonces, ¿quién robó la cartera del cliente? Casi me fastidia más no haberla robado yo."
+    },
+    "KoUEDQ": {
+        "en-US": "[Child]\nLet’s see~ how much is in here.",
+        "pt-BR": "[Criança]\nVamos ver~ quanto tem aqui.",
+        "es-ES": "[Niño]\nA ver~ cuánto habrá dentro."
+    },
+    "K4UEDQ": {
+        "en-US": "[Child]\nOne. Two.. three, raccoon, squid, squid and frog soup, snake, cross screwdriver",
+        "pt-BR": "[Criança]\nUm. Dois.. três, guaxinim, lula, sopa de lula e sapo, cobra, chave de fenda...",
+        "es-ES": "[Niño]\nUno. Dos... tres al cuarto, mapache, calamar, sopa de tinta de calamar con huevos de rana, serpiente del nueve, destornillador..."
+    },
+    "LIUEDQ": {
+        "en-US": "[Child]\nOh wow, not bad. Not bad at all.",
+        "pt-BR": "[Criança]\nOlha só, nada mal. Nada mal mesmo.",
+        "es-ES": "[Niño]\nVaya, esto sí que está jugoso. Bien jugoso."
+    },
+    "LYUEDQ": {
+        "en-US": "[Child]\nHaha? {0}.. you’re still here? You saw me counting the money, didn’t you? Going to rat me out to the boss?",
+        "pt-BR": "[Criança]\nHa? {0}.. ainda não foi embora? Viu eu contando o dinheiro, não viu? Vai contar para o patrão?",
+        "es-ES": "[Niño]\n¿Ja, ja? {0}... ¿aún no te has ido? Lo has visto todo mientras contaba el dinero, ¿verdad? ¿Vas a ir a chivarte al jefe?"
+    },
+    "LoUEDQ": {
+        "en-US": "How about returning it? I won’t tell.",
+        "pt-BR": "Não vou contar, então que tal devolver?",
+        "es-ES": "No se lo diré, ¿por qué no lo devuelves?"
+    },
+    "L4UEDQ": {
+        "en-US": "[Child]\nHa.. {0}! There you go again, talking like such a nice person. Didn’t you see what happened earlier?",
+        "pt-BR": "[Criança]\nHa.. você de novo, {0}! Ainda falando como se o mundo fosse bom, né? Não viu o que aconteceu antes?",
+        "es-ES": "[Niño]\nJa... ¡{0}! Otra vez hablando como si fueras tan buena persona, ¿no has visto lo que ha pasado antes?"
+    },
+    "MIUEDQ": {
+        "en-US": "[Child]\nI’m telling you, I didn’t even get properly paid for months of backbreaking work?",
+        "pt-BR": "[Criança]\nFiquei meses quebrando as costas de tanto trabalhar e nem recebi direito meu salário.",
+        "es-ES": "[Niño]\n¡Ni siquiera me pagaron bien el sueldo por meses de trabajo dejándome la vida!"
+    },
+    "MYUEDQ": {
+        "en-US": "[Child]\nAt the very least, taking the boss’s wallet should cover my unpaid wages and a little consolation fee.",
+        "pt-BR": "[Criança]\nNo mínimo, eu tinha que pegar ao menos a carteira do patrão para cobrir o salário atrasado e compensar o prejuízo.",
+        "es-ES": "[Niño]\nComo mínimo tendría que quedarme con la cartera del jefe para compensar el sueldo atrasado y una pequeña indemnización por consuelo."
+    },
+    "MoUEDQ": {
+        "en-US": "[Child]\nAh, whatever! Go ahead and rat me out if you want. Father’s gotten well enough to move around on his own now anyway.",
+        "pt-BR": "[Criança]\nAh, tanto faz! Se quiser contar, então conte. Meu pai já melhorou bastante e consegue se virar sozinho.",
+        "es-ES": "[Niño]\nAh, ¡qué más da! Si quieres chivarte, chívate. Mi padre ya está bastante mejor y al menos puede moverse solo."
+    },
+    "M4UEDQ": {
+        "en-US": "[Child]\nAnd I’ve pretty much saved up enough startup money, so I was thinking of leaving soon.",
+        "pt-BR": "[Criança]\nE eu já juntei mais ou menos todo o capital para começar meu negócio, então já estava pensando em cair fora.",
+        "es-ES": "[Niño]\nAdemás, ya he reunido más o menos todo el capital para el negocio, así que justo estaba pensando en largarme pronto."
+    },
+    "NIUEDQ": {
+        "en-US": "What kind of business? It’s not illegal, is it?",
+        "pt-BR": "Que tipo de negócio? Não é nada ilegal, né?",
+        "es-ES": "¿Qué negocio? No será algo ilegal, ¿no?"
+    },
+    "NYUEDQ": {
+        "en-US": "[Child]\nHeh.. {0}! You’re quite something, {0}.",
+        "pt-BR": "[Criança]\nHehe.. você, {0}! Vai acabar causando problema.",
+        "es-ES": "[Niño]\nJe, je... ¡{0}! Vaya elemento peligroso estás hecho."
+    },
+    "NoUEDQ": {
+        "en-US": "[Child]\nWhat, trying to snatch someone else’s business idea for free?",
+        "pt-BR": "[Criança]\nTentando roubar a ideia dos outros como se não fosse nada?",
+        "es-ES": "[Niño]\n¿Cómo que pretendes tragarte así, por la cara, la idea de negocio ajena?"
+    },
+    "N4UEDQ": {
+        "en-US": "[Child]\nWell, it’s more than I can handle alone, and you don’t seem like a bad adult, so I’ll make a special exception and let you in.",
+        "pt-BR": "[Criança]\nBom, para eu tocar isso sozinho também vai ser difícil, e você não parece ser um adulto de mau caráter, então vou deixar participar como exceção.",
+        "es-ES": "[Niño]\nBueno, de todos modos a mí solo se me haría cuesta arriba hacerlo, y no pareces un adulto de mala calaña, así que te dejaré entrar especialmente."
+    },
+    "OIUEDQ": {
+        "en-US": "[Child]\nI’ll give you a map to the place I picked out for my business. If you’re really interested, come find me.",
+        "pt-BR": "[Criança]\nVou te dar um mapa do lugar que escolhi para abrir meu negócio. Se realmente tiver interesse, venha me procurar.",
+        "es-ES": "[Niño]\nTe daré un mapa del lugar que tengo pensado para mi negocio. Si de verdad te interesa mi negocio, ven a buscarme."
+    },
+    "OYUEDQ": {
+        "en-US": "[Child]\nAh! And my name is Mejai. See you again.",
+        "pt-BR": "[Criança]\nAh! E meu nome é Mejai. Até a próxima.",
+        "es-ES": "[Niño]\n¡Ah! Y mi nombre es Mejai. Ya nos veremos."
+    },
+    "OoUEDQ": {
+        "en-US": "[Child]\nMy name is Mejai. See you again.",
+        "pt-BR": "[Criança]\nMeu nome é Mejai. Até a próxima.",
+        "es-ES": "[Niño]\nMi nombre es Mejai. Ya nos veremos."
+    },
+    "O4UEDQ": {
+        "en-US": "Mejai",
+        "pt-BR": "Mejai",
+        "es-ES": "Mejai"
+    },
+    "PIUEDQ": {
+        "en-US": "[Mejai]\nWell, well, this {0} actually came. If you came, that means you’re interested in my business, right?",
+        "pt-BR": "[Mejai]\nOra, ora, você realmente veio, {0}. Se veio, então quer dizer que tem interesse no meu negócio, certo?",
+        "es-ES": "[Mejai]\nMadre mía, de verdad has venido, {0}. Si has venido, eso significa que te interesa mi negocio, ¿no?"
+    },
+    "PYUEDQ": {
+        "en-US": "[Mejai]\nHmm.. what should I do..",
+        "pt-BR": "[Mejai]\nHmm.. o que eu faço..",
+        "es-ES": "[Mejai]\nHmm... qué hago..."
+    },
+    "PoUEDQ": {
+        "en-US": "[Mejai]\nEh, hiding things doesn’t suit me anyway, so I’ll just be honest.",
+        "pt-BR": "[Mejai]\nAh, esconder isso também não combina comigo, então vou falar logo a verdade.",
+        "es-ES": "[Mejai]\nBah, ocultarlo no va conmigo, así que te lo diré con sinceridad."
+    },
+    "P4UEDQ": {
+        "en-US": "[Mejai]\nA few people came saying they wanted to hear my business plan, but every single one left as soon as they heard it.",
+        "pt-BR": "[Mejai]\nAlgumas pessoas vieram ouvir meu plano de negócios, mas assim que ouviam, iam embora na hora.",
+        "es-ES": "[Mejai]\nHan venido varias personas diciendo que querían escuchar mi plan de negocio, pero en cuanto lo oían, todos se marchaban."
+    },
+    "QIUEDQ": {
+        "en-US": "What on earth is it?",
+        "pt-BR": "O que é afinal?",
+        "es-ES": "¿Pero qué es?"
+    },
+    "QYUEDQ": {
+        "en-US": "I’m not interested.",
+        "pt-BR": "Não tenho interesse.",
+        "es-ES": "No me interesa."
+    },
+    "QoUEDQ": {
+        "en-US": "[Mejai]\nHmph!\n{0} Then why come all this way and waste time if you’re not interested?",
+        "pt-BR": "[Mejai]\nAff!\n{0} Se não tinha interesse, por que veio aqui perder tempo?",
+        "es-ES": "[Mejai]\n¡Hmpf!\n{0} ¿Y por qué has venido a perder el tiempo si ni siquiera te interesa?"
+    },
+    "Q4UEDQ": {
+        "en-US": "[Mejai]\nHeh! Don’t be too shocked when you hear this. I’m going to sell flowers in this desert.",
+        "pt-BR": "[Mejai]\nHah! Não se assuste quando ouvir: eu vou vender flores neste deserto.",
+        "es-ES": "[Mejai]\n¡Ja! No te sorprendas al oírlo: voy a vender flores en este desierto."
+    },
+    "RIUEDQ": {
+        "en-US": "[Mejai]\nWhy? What? See? This is exactly why outsiders won’t do. Do you know how rare flowers are in the desert?",
+        "pt-BR": "[Mejai]\nPor quê? O quê? Está vendo só. Forasteiros são assim mesmo. Você sabe o quão raras são flores no deserto?",
+        "es-ES": "[Mejai]\n¿Por qué? ¿Qué? Mira eso. Por eso los forasteros no sirven. ¿Sabes lo valiosas que son las flores en el desierto?"
+    },
+    "RYUEDQ": {
+        "en-US": "[Mejai]\n{0} Have you seen a flower shop in Rachel?",
+        "pt-BR": "[Mejai]\n{0}, viu alguma floricultura em Rachel?",
+        "es-ES": "[Mejai]\n{0}, ¿has visto una floristería en Rachel?"
+    },
+    "RoUEDQ": {
+        "en-US": "[Mejai]\nWell, sure, you’ve probably seen one. It’s not like there are no flower shops in Rachel, right?",
+        "pt-BR": "[Mejai]\nBom, claro que deve ter visto. Não é como se Rachel não tivesse floriculturas, né?",
+        "es-ES": "[Mejai]\nBueno, claro, ver sí que habrás visto una, porque no es que en Rachel no haya floristerías."
+    },
+    "R4UEDQ": {
+        "en-US": "[Mejai]\nThat is, if you can call a shop that sells nothing but artificial flowers instead of living ones a flower shop.",
+        "pt-BR": "[Mejai]\nQuer dizer, se você puder chamar de floricultura um lugar que só vende flores artificiais em vez de flores vivas.",
+        "es-ES": "[Mejai]\nAunque claro, eso si se puede llamar floristería a una tienda que solo vende flores artificiales y ni una sola viva."
+    },
+    "SIUEDQ": {
+        "en-US": "[{0}]\nThen where would you get flowers?",
+        "pt-BR": "[{0}]\nMas então, onde vai conseguir flores?",
+        "es-ES": "[{0}]\nEntonces, ¿de dónde piensas sacar las flores?"
+    },
+    "SYUEDQ": {
+        "en-US": "[Mejai]\nExactly, that’s the problem. {0}, you’re pretty sharp, huh? I like that.",
+        "pt-BR": "[Mejai]\nIsso, esse é exatamente o problema. {0}, você é bem perspicaz, hein? Gostei.",
+        "es-ES": "[Mejai]\nSí, justo ese es el problema. {0}, eres bastante agudo, ¿eh? Me gustas."
+    },
+    "SoUEDQ": {
+        "en-US": "[Mejai]\nIt’s not impossible to get fresh flowers around here. It’s rare, but there is a way.",
+        "pt-BR": "[Mejai]\nNão é impossível conseguir flores frescas por aqui. É raro, mas existe um jeito.",
+        "es-ES": "[Mejai]\nNo es que sea imposible conseguir flores frescas por aquí. Es raro, pero hay una manera."
+    },
+    "S4UEDQ": {
+        "en-US": "[Mejai]\nDo you know about Half Flower? An outsider probably wouldn’t. Maybe only the natives around here would.",
+        "pt-BR": "[Mejai]\nVocê conhece a Flor Bicolor? Provavelmente um forasteiro não conhece. Talvez só os nativos saibam.",
+        "es-ES": "[Mejai]\n¿Conoces la Media Flor? Seguramente siendo forastero no la conocerás. Quizá solo los nativos de aquí la sepan."
+    },
+    "TIUEDQ": {
+        "en-US": "[Mejai]\nIt’s a beautiful, mysterious flower that blooms only in the Gray Wolf Forest, and I heard my father picked one to propose to my mother.",
+        "pt-BR": "[Mejai]\nÉ uma flor linda e misteriosa que só floresce na Floresta do Lobo Cinzento. Dizem que meu pai a colheu para pedir minha mãe em casamento.",
+        "es-ES": "[Mejai]\nEs una flor hermosa y misteriosa que solo florece en el Bosque del Lobo Gris, y dicen que mi padre se la arrancó para pedirle matrimonio a mi madre."
+    },
+    "TYUEDQ": {
+        "en-US": "[Mejai]\nAnd after my mother passed away, whenever my father got drunk, he would explain to me how to gather Half Flower.",
+        "pt-BR": "[Mejai]\nE depois que minha mãe morreu, sempre que bebia, meu pai me explicava como colher a Flor Bicolor.",
+        "es-ES": "[Mejai]\nY desde que mi madre murió, cada vez que mi padre bebía me explicaba cómo recolectar la Media Flor."
+    },
+    "ToUEDQ": {
+        "en-US": "[Mejai]\nIf Half Flower is blooming under a tree, then this... if it’s under a rock, then that... if it’s beside grass, then this...",
+        "pt-BR": "[Mejai]\nSe a Flor Bicolor estiver debaixo de uma árvore, isso… se estiver sob uma pedra, aquilo… se estiver ao lado da grama, aquilo outro…",
+        "es-ES": "[Mejai]\nQue si el lugar donde florece la Media Flor está bajo un árbol, entonces esto... que si está bajo una piedra, entonces aquello... que si está junto a la hierba, entonces lo otro..."
+    },
+    "T4UEDQ": {
+        "en-US": "[Mejai]\nConsidering the humidity around the flower, you have to cut at angles of 10, 20, or 30 degrees..",
+        "pt-BR": "[Mejai]\nTem que considerar a umidade ao redor da flor e cortar em 10, 20 ou 30 graus…",
+        "es-ES": "[Mejai]\nQue si hay que tener en cuenta la humedad alrededor de la flor para cortar a 10, 20 o 30 grados..."
+    },
+    "UIUEDQ": {
+        "en-US": "[Mejai]\nAh.. wait, I got carried away. It was always stressful whenever Father told me these stories..",
+        "pt-BR": "[Mejai]\nAh.. espera, me empolguei. Sempre foi estressante quando meu pai me contava isso…",
+        "es-ES": "[Mejai]\nAh... espera, me emocioné un poco. Cada vez que mi padre me contaba esto, era un estrés..."
+    },
+    "UYUEDQ": {
+        "en-US": "[Mejai]\nWell, in the end, it became my business, so I guess all that nagging really did become flesh and blood..",
+        "pt-BR": "[Mejai]\nMas no fim acabei transformando isso em negócio, então toda aquela falação virou algo útil…",
+        "es-ES": "[Mejai]\nPero bueno, al final he terminado montando un negocio con eso, así que todos aquellos sermones acabaron sirviendo de algo..."
+    },
+    "UoUEDQ": {
+        "en-US": "[{0}]\nSo what exactly do you want me to help with?",
+        "pt-BR": "[{0}]\nEntão em que eu vou ajudar?",
+        "es-ES": "[{0}]\nEntonces, ¿qué es exactamente lo que quieres que haga?"
+    },
+    "U4UEDQ": {
+        "en-US": "[Mejai]\nFor the business I’m planning to run stably, I think it’s important to maintain a sufficient supply of Half Flower.",
+        "pt-BR": "[Mejai]\nPara o negócio que estou planejando funcionar de forma estável, acho importante manter um bom volume de Flor Bicolor.",
+        "es-ES": "[Mejai]\nCreo que, para que el negocio que estoy planeando funcione de forma estable, es importante mantener un suministro suficiente de Media Flor."
+    },
+    "VIUEDQ": {
+        "en-US": "[Mejai]\nSo I plan to make contracts with multiple adventurers. Of course, {0}, you would be one of those multiple adventurers, right?",
+        "pt-BR": "[Mejai]\nPor isso estou pensando em fazer contratos com vários aventureiros. Claro, {0} também vai ser um deles, certo?",
+        "es-ES": "[Mejai]\nPor eso pienso firmar contratos con varios aventureros. Y, por supuesto, {0}, tú también serás uno de esos varios aventureros, ¿no?"
+    },
+    "VYUEDQ": {
+        "en-US": "[Mejai]\n{0} You’ll be going to Gray Wolf Forest to gather Half Flower.",
+        "pt-BR": "[Mejai]\n{0}, você vai até a Floresta do Lobo Cinzento para colher Flor Bicolor.",
+        "es-ES": "[Mejai]\n{0} Te encargarás de ir al Bosque del Lobo Gris y recolectar Media Flor."
+    },
+    "VoUEDQ": {
+        "en-US": "[Mejai]\nOf course, there is another business I want to start once this one becomes stable, but let’s talk about that after things are truly stable.",
+        "pt-BR": "[Mejai]\nClaro que tenho outro negócio em mente para quando isso tudo estiver estável, mas deixemos essa conversa para quando realmente estiver tudo firme.",
+        "es-ES": "[Mejai]\nClaro que tengo pensado un negocio más que añadir cuando esto se estabilice, pero de eso ya hablaremos cuando la cosa esté realmente asentada."
+    },
+    "V4UEDQ": {
+        "en-US": "[Mejai]\nSo, what do you think, {0}? Want to work with me?",
+        "pt-BR": "[Mejai]\nEntão, {0}, quer trabalhar comigo?",
+        "es-ES": "[Mejai]\n¿Qué dices, {0}? ¿Quieres trabajar conmigo?"
+    },
+    "WIUEDQ": {
+        "en-US": "Let’s do it.",
+        "pt-BR": "Vamos.",
+        "es-ES": "Hagámoslo."
+    },
+    "WYUEDQ": {
+        "en-US": "It’s a bit difficult right now.",
+        "pt-BR": "Agora é meio complicado.",
+        "es-ES": "Ahora mismo me viene mal."
+    },
+    "WoUEDQ": {
+        "en-US": "[Mejai]\nWell, if it’s difficult, there’s nothing to be done.",
+        "pt-BR": "[Mejai]\nBom, se é complicado, então não tem jeito.",
+        "es-ES": "[Mejai]\nBueno, si te viene mal, no se puede evitar."
+    },
+    "W4UEDQ": {
+        "en-US": "[Mejai]\nIn life, maybe there’ll come another day when we can work together. If you change your mind later, let’s work together then.",
+        "pt-BR": "[Mejai]\nNa vida, talvez ainda chegue o dia de trabalharmos juntos. Se mudar de ideia depois, vamos trabalhar juntos.",
+        "es-ES": "[Mejai]\nEn la vida da muchas vueltas; quizá otro día podamos trabajar juntos. Si más adelante cambias de idea, trabajemos juntos."
+    },
+    "XIUEDQ": {
+        "en-US": "[Mejai]\nExcellent. I believe mutual respect between employer and employee is important. I assume you can guess why I say this.",
+        "pt-BR": "[Mejai]\nMuito bem. Eu acho que respeito mútuo entre patrão e funcionário é importante. Acho que você consegue imaginar por que estou dizendo isso.",
+        "es-ES": "[Mejai]\nMuy bien. Yo creo que el respeto mutuo entre jefe y empleado es importante. Supongo que ya te imaginarás por qué digo esto."
+    },
+    "XYUEDQ": {
+        "en-US": "[Mejai]\nNow that we’ll be working together, from now on please call me Boss Mejai. I will also respect {0}—no, my employee.",
+        "pt-BR": "[Mejai]\nAgora que vamos trabalhar juntos, de agora em diante, por favor, me chame de Chefe Mejai. Eu também vou respeitar {0}… quer dizer, meu funcionário.",
+        "es-ES": "[Mejai]\nYa que vamos a trabajar juntos, a partir de ahora llámame Jefe Mejai. Y yo también respetaré a {0}, no, quiero decir, al empleado."
+    },
+    "XoUEDQ": {
+        "en-US": "[Mejai]\nI won’t treat you carelessly. I’m sick and tired of that sort of thing now..",
+        "pt-BR": "[Mejai]\nNão vou tratá-lo com desprezo. Já estou farto desse tipo de coisa…",
+        "es-ES": "[Mejai]\nNo voy a tratarte a la ligera. Ya estoy harto de cosas así..."
+    },
+    "X4UEDQ": {
+        "en-US": "[Mejai]\nFirst, I think it would be best to train you in the most important task: how to gather Half Flower.",
+        "pt-BR": "[Mejai]\nPrimeiro, acho melhor ensinar o procedimento de colheita da Flor Bicolor, que é a parte mais importante do trabalho.",
+        "es-ES": "[Mejai]\nPara empezar, lo mejor será enseñarte cómo recolectar Media Flor, que es la tarea más importante."
+    },
+    "YIUEDQ": {
+        "en-US": "[Mejai]\nTalk to me when you’re ready.",
+        "pt-BR": "[Mejai]\nQuando estiver pronto, fale comigo.",
+        "es-ES": "[Mejai]\nHáblame cuando estés listo."
+    },
+    "YYUEDQ": {
+        "en-US": "[Mejai]\nYou came again? I’m busy preparing for the business right now, so would you not talk to me unless you have business?",
+        "pt-BR": "[Mejai]\nVeio de novo? Estou ocupado preparando o negócio, então pode não falar comigo sem motivo?",
+        "es-ES": "[Mejai]\n¿Otra vez aquí? Estoy ocupado preparando el negocio, así que ¿podrías no hablarme si no tienes nada importante?"
+    },
+    "YoUEDQ": {
+        "en-US": "Sorry, maybe next time.",
+        "pt-BR": "Desculpe, vejo você outra hora.",
+        "es-ES": "Lo siento, nos vemos la próxima vez."
+    },
+    "Y4UEDQ": {
+        "en-US": "Could I join the business?",
+        "pt-BR": "Será que eu poderia participar do negócio?",
+        "es-ES": "¿Podría participar en el negocio?"
+    },
+    "ZIUEDQ": {
+        "en-US": "[Mejai]\nBe careful. I’ve got a lot on my mind, so I’m a bit sharp.",
+        "pt-BR": "[Mejai]\nTenha cuidado. Tenho muita coisa com que me preocupar, então estou meio sensível.",
+        "es-ES": "[Mejai]\nTen cuidado. Con tantas cosas que atender, ando irritable."
+    },
+    "ZYUEDQ": {
+        "en-US": "[Mejai]\nReally? Ahem!\nExcellent. I believe mutual respect between employer and employee is important. I assume you can guess why I say this.",
+        "pt-BR": "[Mejai]\nSério? Aham!\nMuito bem. Eu acho que respeito mútuo entre patrão e funcionário é importante. Acho que você consegue imaginar por que estou dizendo isso.",
+        "es-ES": "[Mejai]\n¿De verdad? ¡Ejem!\nMuy bien. Yo creo que el respeto mutuo entre jefe y empleado es importante. Supongo que ya te imaginarás por qué digo esto."
+    },
+    "ZoUEDQ": {
+        "en-US": "[Mejai]\nI won’t treat you carelessly. I’m sick and tired of that sort of thing now….",
+        "pt-BR": "[Mejai]\nNão vou tratá-lo com desprezo. Já estou farto desse tipo de coisa….",
+        "es-ES": "[Mejai]\nNo voy a tratarte a la ligera. Ya estoy harto de cosas así…."
+    },
+    "Z4UEDQ": {
+        "en-US": "[Mejai]\nI was about to begin training on gathering Half Flower. Are you ready?",
+        "pt-BR": "[Mejai]\nEstava pensando em começar o treinamento de colheita da Flor Bicolor. Está pronto?",
+        "es-ES": "[Mejai]\nEstaba pensando en empezar la formación para la recolección de Media Flor, ¿estás preparado?"
+    },
+    "aIUEDQ": {
+        "en-US": "Boss, let’s begin.",
+        "pt-BR": "Chefe, pode começar.",
+        "es-ES": "Jefe, empecemos."
+    },
+    "aYUEDQ": {
+        "en-US": "Just a moment.",
+        "pt-BR": "Só um momento.",
+        "es-ES": "Un momento, por favor."
+    },
+    "aoUEDQ": {
+        "en-US": "[Mejai]\nTake your time.",
+        "pt-BR": "[Mejai]\nVá com calma.",
+        "es-ES": "[Mejai]\nTómate tu tiempo."
+    },
+    "a4UEDQ": {
+        "en-US": "[Mejai]\nAhem, welcome to the Half Flower gathering training.",
+        "pt-BR": "[Mejai]\nAham, aham. Seja bem-vindo ao treinamento de colheita de Flor Bicolor.",
+        "es-ES": "[Mejai]\nEjem, bienvenido a la formación de recolección de Media Flor."
+    },
+    "bIUEDQ": {
+        "en-US": "[Mejai]\nHalf Flower gathering is broadly divided into four steps. First, you cut the stem.",
+        "pt-BR": "[Mejai]\nA colheita de Flor Bicolor é dividida em quatro etapas principais. Primeiro, cortamos o caule.",
+        "es-ES": "[Mejai]\nLa recolección de Media Flor se divide en cuatro pasos principales. Primero, se corta el tallo."
+    },
+    "bYUEDQ": {
+        "en-US": "[Mejai]\nThen second, remove the leaves from the cut stem..",
+        "pt-BR": "[Mejai]\nDepois, na segunda etapa, removemos as folhas do caule cortado…",
+        "es-ES": "[Mejai]\nDespués, en segundo lugar, se retiran las hojas del tallo cortado..."
+    },
+    "boUEDQ": {
+        "en-US": "[Mejai]\nThird, put water and a secret powder into a small container to soak the end of the stem, and mix them well.",
+        "pt-BR": "[Mejai]\nNa terceira etapa, colocamos água e um pó secreto em um pequeno recipiente para mergulhar a ponta do caule e misturamos bem.",
+        "es-ES": "[Mejai]\nEn tercer lugar, se echan agua y un polvo secreto en un pequeño recipiente donde se sumergirá el extremo del tallo, y se mezcla bien."
+    },
+    "b4UEDQ": {
+        "en-US": "[Mejai]\nFinally, in the fourth step, place the end of the stem into the small container and package it carefully so the flower won’t be damaged.",
+        "pt-BR": "[Mejai]\nE, por fim, na quarta etapa, colocamos a ponta do caule no pequeno recipiente e embalamos tudo com cuidado para a flor não estragar.",
+        "es-ES": "[Mejai]\nY, por último, en el cuarto paso, se introduce el extremo del tallo en el pequeño recipiente y se empaqueta bien para que la flor no se estropee. Y eso es todo."
+    },
+    "cIUEDQ": {
+        "en-US": "[Mejai]\nWell, if you only look at the method itself, it doesn’t sound difficult, right?",
+        "pt-BR": "[Mejai]\nBem, olhando só para o método em si, não parece difícil, certo?",
+        "es-ES": "[Mejai]\nBueno, si solo hablamos del procedimiento, no parece difícil, ¿verdad?"
+    },
+    "cYUEDQ": {
+        "en-US": "[Mejai]\nIn the advanced course, the cutting angle of the stem, the number of leaves to remove, and the amount of water and secret powder in the container vary depending on where Half Flower is blooming, but..",
+        "pt-BR": "[Mejai]\nNum nível mais avançado, o ângulo do corte, a quantidade de folhas removidas e a proporção de água e pó secreto no recipiente mudam dependendo do lugar onde a Flor Bicolor está florescendo, mas…",
+        "es-ES": "[Mejai]\nEn el nivel avanzado, según el lugar donde florezca la Media Flor, cambian el ángulo de corte del tallo, la cantidad de hojas que hay que retirar y la cantidad de agua y polvo secreto que hay que poner en el recipiente, pero..."
+    },
+    "coUEDQ": {
+        "en-US": "[Mejai]\nDon’t worry. I’ll write it all down in detail when I assign the job so that you absolutely won’t forget.",
+        "pt-BR": "[Mejai]\nNão se preocupe. Quando eu lhe passar um trabalho, vou escrever tudo em detalhes para que você não esqueça.",
+        "es-ES": "[Mejai]\nNo te preocupes. Para que no lo olvides jamás, te lo escribiré todo con detalle cada vez que aceptes un trabajo."
+    },
+    "c4UEDQ": {
+        "en-US": "[Mejai]\nYou see the practice Half Flower beside me, right?",
+        "pt-BR": "[Mejai]\nEstá vendo a Flor Bicolor de treino ao lado?",
+        "es-ES": "[Mejai]\n¿Ves la Media Flor de práctica que hay al lado?"
+    },
+    "dIUEDQ": {
+        "en-US": "[Mejai]\nI think I invested half of all the money I had when starting the business into making this practice Half Flower.",
+        "pt-BR": "[Mejai]\nAcho que investi metade do dinheiro que eu tinha só para fazer essa Flor Bicolor de treino quando abri o negócio.",
+        "es-ES": "[Mejai]\nCreo que al montar el negocio invertí la mitad del dinero que tenía solo en hacer esta Media Flor de práctica."
+    },
+    "dYUEDQ": {
+        "en-US": "[Mejai]\nWell, I don’t regret it since it makes training employees much easier. Then shall we practice as if it were the real thing?",
+        "pt-BR": "[Mejai]\nBom, isso tornou muito mais fácil treinar os funcionários, então não me arrependo. Então, vamos praticar como se fosse uma situação real?",
+        "es-ES": "[Mejai]\nPero bueno, como hace mucho más fácil formar a los empleados, no me arrepiento. Entonces, ¿practicamos como si fuera una situación real?"
+    },
+    "doUEDQ": {
+        "en-US": "[Mejai]\nWhat should we use? Let’s assume a Half Flower bloomed under a tree and practice with the training one.",
+        "pt-BR": "[Mejai]\nO que seria bom? Vamos supor que uma Flor Bicolor tenha florescido debaixo de uma árvore, e praticar com esse modelo.",
+        "es-ES": "[Mejai]\nA ver, ¿qué podría ser? Vamos a suponer que ha florecido una Media Flor bajo un árbol y practicaremos con la de entrenamiento."
+    },
+    "d4UEDQ": {
+        "en-US": "[Mejai]\nPlease focus not on me, but on the practice Half Flower beside me.",
+        "pt-BR": "[Mejai]\nEm vez de olhar para mim, foque na Flor Bicolor de treino ao meu lado.",
+        "es-ES": "[Mejai]\nNo me mire a mí; preste atención a la Media Flor de práctica que está a mi lado."
+    },
+    "eIUEDQ": {
+        "en-US": "[Mejai]\nGood work. The Half Flower gathering you will do from now on will proceed in the same way as just now.",
+        "pt-BR": "[Mejai]\nBom trabalho. A colheita de Flor Bicolor que você fará daqui para frente será feita exatamente desse jeito.",
+        "es-ES": "[Mejai]\nBuen trabajo. A partir de ahora, la recolección de Media Flor que realices seguirá el mismo procedimiento que acabamos de hacer."
+    },
+    "eYUEDQ": {
+        "en-US": "[Mejai]\nThe job is simply to deliver the gathered flowers to me.",
+        "pt-BR": "[Mejai]\nO trabalho em si é só me entregar a flor colhida.",
+        "es-ES": "[Mejai]\nTu trabajo consistirá en traerme las flores recolectadas."
+    },
+    "eoUEDQ": {
+        "en-US": "[Mejai]\nBut unlike me, you are someone who handles many other tasks at the same time..",
+        "pt-BR": "[Mejai]\nMas você, meu funcionário, diferente de mim, é uma pessoa que realiza várias outras tarefas ao mesmo tempo, então…",
+        "es-ES": "[Mejai]\nPero como tú, a diferencia de mí, eres alguien que lleva varias tareas a la vez..."
+    },
+    "e4UEDQ": {
+        "en-US": "[Mejai]\nSo I would appreciate it if you could bring them to me before the Half Flower wilts while you are doing your other work.",
+        "pt-BR": "[Mejai]\nSe puder me trazer a Flor Bicolor antes que ela murche, eu agradeço.",
+        "es-ES": "[Mejai]\nTe agradecería que me las trajeras mientras haces tus otras tareas, antes de que la Media Flor se marchite."
+    },
+    "fIUEDQ": {
+        "en-US": "[Mejai]\nAh! One tip: the more exactly you gather them using the method I taught you, the longer the flowers will last.",
+        "pt-BR": "[Mejai]\nAh! Uma dica: quanto mais a colheita for feita exatamente do jeito que ensinei, mais tempo a flor vai durar.",
+        "es-ES": "[Mejai]\n¡Ah! Un consejo: cuanto más fielmente sigas el método que te he enseñado, más tiempo se conservará la flor."
+    },
+    "fYUEDQ": {
+        "en-US": "When do we start work?",
+        "pt-BR": "Quando começamos o trabalho?",
+        "es-ES": "¿Cuándo empezamos a trabajar?"
+    },
+    "foUEDQ": {
+        "en-US": "[Mejai]\nI’m busy today too with preparing to open the shop and all that, so how about starting tomorrow?",
+        "pt-BR": "[Mejai]\nHoje eu também estou ocupado preparando a abertura da loja e outras coisas, então que tal começar amanhã?",
+        "es-ES": "[Mejai]\nHoy yo también ando ocupado preparando la apertura de la tienda y demás, así que ¿qué te parece si empiezas mañana?"
+    },
+    "f4UEDQ": {
+        "en-US": "All right. See you tomorrow.",
+        "pt-BR": "Tudo bem. Até amanhã.",
+        "es-ES": "De acuerdo. Nos vemos mañana."
+    },
+    "gIUEDQ": {
+        "en-US": "[Mejai]\nOh, right, I should give you this.",
+        "pt-BR": "[Mejai]\nAh, claro, preciso lhe dar isto.",
+        "es-ES": "[Mejai]\nAh, claro, tengo que darte esto."
+    },
+    "gYUEDQ": {
+        "en-US": "[Mejai]\nI’ve done all kinds of work myself, and making people work while deducting this and that under the excuse of a training period really is an ugly thing to do.",
+        "pt-BR": "[Mejai]\nJá fiz muito tipo de trabalho, mas sempre achei ridículo quando mandavam a gente trabalhar e depois descontavam isto e aquilo com a desculpa de ser período de treinamento.",
+        "es-ES": "[Mejai]\nHe hecho de todo un poco, y no hay nada más feo que ponerte a trabajar, quitarte esto y aquello con la excusa de que sigues en formación."
+    },
+    "goUEDQ": {
+        "en-US": "[Mejai]\nWhat I’m giving you now is compensation for today’s training. Get some good rest, and I’ll see you tomorrow.",
+        "pt-BR": "[Mejai]\nIsto que estou lhe dando agora é a recompensa pelo treinamento de hoje. Descanse bem e até amanhã.",
+        "es-ES": "[Mejai]\nEsto que te doy ahora es la compensación por la formación de hoy. Descansa bien y nos vemos mañana."
+    },
+    "g4UEDQ": {
+        "en-US": "[Mejai]\nIt seems you lost the Half Flower in the meantime. I’ll set up a practice Half Flower for you, so would you like to try again?",
+        "pt-BR": "[Mejai]\nNesse meio-tempo, você perdeu a Flor Bicolor. Vou instalar outra Flor Bicolor de treino, então quer tentar de novo?",
+        "es-ES": "[Mejai]\nAsí que has perdido la Media Flor mientras tanto. Te pondré una Media Flor de práctica, ¿quieres intentarlo otra vez?"
+    },
+    "hIUEDQ": {
+        "en-US": "[Mejai]\nGet some good rest, and I’ll see you tomorrow.",
+        "pt-BR": "[Mejai]\nDescanse bem e até amanhã.",
+        "es-ES": "[Mejai]\nDescansa bien y nos vemos mañana."
+    },
+    "hYUEDQ": {
+        "en-US": "Half Flower",
+        "pt-BR": "Flor Bicolor",
+        "es-ES": "Media Flor"
+    },
+    "hoUEDQ": {
+        "en-US": "Practice",
+        "pt-BR": "De treino",
+        "es-ES": "De práctica"
+    },
+    "h4UEDQ": {
+        "en-US": "Mejai: Could you bring me the Half Flower you just gathered?",
+        "pt-BR": "Mejai: Pode me trazer a Flor Bicolor que acabou de colher?",
+        "es-ES": "Mejai: ¿Podrías traerme la Media Flor que acabas de recolectar?"
+    },
+    "iIUEDQ": {
+        "en-US": "It is a practice Half Flower.",
+        "pt-BR": "É uma Flor Bicolor de treino.",
+        "es-ES": "Es una Media Flor de práctica."
+    },
+    "iYUEDQ": {
+        "en-US": "Mejai: Now then, let’s assume a Half Flower bloomed under a tree and begin.",
+        "pt-BR": "Mejai: Muito bem, vamos supor que a Flor Bicolor floresceu debaixo de uma árvore e começar.",
+        "es-ES": "Mejai: Bien, vamos a empezar suponiendo que ha florecido una Media Flor bajo un árbol."
+    },
+    "ioUEDQ": {
+        "en-US": "Mejai: First, shall we cut the stem of the Half Flower?",
+        "pt-BR": "Mejai: Primeiro, vamos cortar o caule da Flor Bicolor.",
+        "es-ES": "Mejai: Primero, ¿cortamos el tallo de la Media Flor?"
+    },
+    "i4UEDQ": {
+        "en-US": "Cut it at 10 °.",
+        "pt-BR": "Cortar a 10 °.",
+        "es-ES": "Cortarlo a 10 °."
+    },
+    "jIUEDQ": {
+        "en-US": "Cut it at 20 °.",
+        "pt-BR": "Cortar a 20 °.",
+        "es-ES": "Cortarlo a 20 °."
+    },
+    "jYUEDQ": {
+        "en-US": "Cut it at 30 °.",
+        "pt-BR": "Cortar a 30 °.",
+        "es-ES": "Cortarlo a 30 °."
+    },
+    "joUEDQ": {
+        "en-US": "Cut it at 40 °.",
+        "pt-BR": "Cortar a 40 °.",
+        "es-ES": "Cortarlo a 40 °."
+    },
+    "j4UEDQ": {
+        "en-US": "Mejai: Well done. First, you cut the stem.",
+        "pt-BR": "Mejai: Muito bem. A primeira etapa é cortar o caule.",
+        "es-ES": "Mejai: Muy bien. Lo primero es cortar el tallo."
+    },
+    "kIUEDQ": {
+        "en-US": "Mejai: Next, we’ll remove the leaves. Leave only as many as should remain and remove the rest.",
+        "pt-BR": "Mejai: Agora vamos remover as folhas. Deixe só o necessário e retire o restante.",
+        "es-ES": "Mejai: Lo siguiente será retirar las hojas. Deja solo las necesarias y quita el resto."
+    },
+    "kYUEDQ": {
+        "en-US": "Leave 2.",
+        "pt-BR": "Deixar 2 folhas.",
+        "es-ES": "Dejar 2 hojas."
+    },
+    "koUEDQ": {
+        "en-US": "Leave 4.",
+        "pt-BR": "Deixar 4 folhas.",
+        "es-ES": "Dejar 4 hojas."
+    },
+    "k4UEDQ": {
+        "en-US": "Leave 6.",
+        "pt-BR": "Deixar 6 folhas.",
+        "es-ES": "Dejar 6 hojas."
+    },
+    "lIUEDQ": {
+        "en-US": "Leave 8.",
+        "pt-BR": "Deixar 8 folhas.",
+        "es-ES": "Dejar 8 hojas."
+    },
+    "lYUEDQ": {
+        "en-US": "Mejai: Well done. Next, we’ll prepare the bottle to soak the end of the stem.",
+        "pt-BR": "Mejai: Muito bem. Agora vamos preparar o frasco onde a ponta do caule será mergulhada.",
+        "es-ES": "Mejai: Muy bien. Lo siguiente será preparar el frasco donde se sumergirá el extremo del tallo."
+    },
+    "loUEDQ": {
+        "en-US": "Mejai: First, pour water into the small bottle.",
+        "pt-BR": "Mejai: Primeiro, coloque água no pequeno frasco.",
+        "es-ES": "Mejai: Primero, llena el frasco pequeño con agua."
+    },
+    "l4UEDQ": {
+        "en-US": "Pour 20 ml.",
+        "pt-BR": "Colocar 20 ml.",
+        "es-ES": "Poner 20 ml."
+    },
+    "mIUEDQ": {
+        "en-US": "Pour 30 ml.",
+        "pt-BR": "Colocar 30 ml.",
+        "es-ES": "Poner 30 ml."
+    },
+    "mYUEDQ": {
+        "en-US": "Pour 40 ml.",
+        "pt-BR": "Colocar 40 ml.",
+        "es-ES": "Poner 40 ml."
+    },
+    "moUEDQ": {
+        "en-US": "Pour 50 ml.",
+        "pt-BR": "Colocar 50 ml.",
+        "es-ES": "Poner 50 ml."
+    },
+    "m4UEDQ": {
+        "en-US": "Mejai: Now we’ll add and mix the secret powder I made into the water.",
+        "pt-BR": "Mejai: Agora vamos adicionar à água o pó secreto que eu fiz e misturar.",
+        "es-ES": "Mejai: Ahora vamos a echar y mezclar en el agua el polvo secreto que he preparado."
+    },
+    "nIUEDQ": {
+        "en-US": "Mejai: Mix in an appropriate amount.",
+        "pt-BR": "Mejai: Misture uma quantidade adequada.",
+        "es-ES": "Mejai: Mezcla una cantidad adecuada."
+    },
+    "nYUEDQ": {
+        "en-US": "Add 2 g.",
+        "pt-BR": "Adicionar 2 g.",
+        "es-ES": "Poner 2 g."
+    },
+    "noUEDQ": {
+        "en-US": "Add 4 g.",
+        "pt-BR": "Adicionar 4 g.",
+        "es-ES": "Poner 4 g."
+    },
+    "n4UEDQ": {
+        "en-US": "Add 6 g.",
+        "pt-BR": "Adicionar 6 g.",
+        "es-ES": "Poner 6 g."
+    },
+    "oIUEDQ": {
+        "en-US": "Add 8 g.",
+        "pt-BR": "Adicionar 8 g.",
+        "es-ES": "Poner 8 g."
+    },
+    "oYUEDQ": {
+        "en-US": "Mejai: And now, finally,",
+        "pt-BR": "Mejai: Agora, por fim,",
+        "es-ES": "Mejai: Bien, y ahora, por último,"
+    },
+    "ooUEDQ": {
+        "en-US": "Mejai: Place the cut end of the stem into the container where you just mixed the water and secret powder, and package it, and then!",
+        "pt-BR": "Mejai: basta colocar a ponta do caule cortado no recipiente com a água e o pó secreto e embalar!",
+        "es-ES": "Mejai: ¡mete el extremo del tallo cortado en el recipiente donde has mezclado el agua y el polvo secreto, y solo quedará empaquetarlo!"
+    },
+    "o4UEDQ": {
+        "en-US": "Mejai: Complete! Now then, could you bring me the Half Flower you just gathered?",
+        "pt-BR": "Mejai: Pronto! Então, pode me trazer a Flor Bicolor que acabou de colher?",
+        "es-ES": "Mejai: ¡Listo! Entonces, ¿podrías traerme la Media Flor que acabas de recolectar?"
+    },
+    "pIUEDQ": {
+        "en-US": "Flower Room",
+        "pt-BR": "Sala das Flores",
+        "es-ES": "Sala de Flores"
+    },
+    "pYUEDQ": {
+        "en-US": "[Mejai]\nYou’re here? I’m sorry, but I haven’t opened \"Flower Room\" yet. Since it’s the first day, there’s a lot to prepare.",
+        "pt-BR": "[Mejai]\nChegou? Me desculpe, mas a \"Sala das Flores\" ainda não abriu. Como é o primeiro dia, ainda tenho muita coisa para preparar.",
+        "es-ES": "[Mejai]\n¿Ha venido? Lo siento, pero todavía no he abierto \"Sala de Flores\". Como es el primer día, todavía tengo que preparar muchas cosas."
+    },
+    "poUEDQ": {
+        "en-US": "[Mejai]\nI’ll make sure to open before too long, so see you then.",
+        "pt-BR": "[Mejai]\nVou abrir sem demora, então nos vemos depois.",
+        "es-ES": "[Mejai]\nAbriré sin retrasarme demasiado, así que nos vemos entonces."
+    },
+    "p4UEDQ": {
+        "en-US": "Mejai: Alright! Today’s work is done.",
+        "pt-BR": "Mejai: Muito bem! O trabalho de hoje termina aqui.",
+        "es-ES": "Mejai: ¡Muy bien! El trabajo de hoy ha terminado."
+    },
+    "qIUEDQ": {
+        "en-US": "Mejai: Go home and devote yourself to your household. This isn’t the only work you do, after all.",
+        "pt-BR": "Mejai: Vá para casa e seja dedicado à sua vida. Afinal, este não é o seu único trabalho.",
+        "es-ES": "Mejai: Vuelva a casa y sea responsable con su familia. Este no es el único trabajo que hace, ¿verdad?"
+    },
+    "qYUEDQ": {
+        "en-US": "Mejai: Ah, you’re here? Shall we start energetically again today?",
+        "pt-BR": "Mejai: Ah, você chegou? Vamos começar hoje com energia também?",
+        "es-ES": "Mejai: Ah, ¿ha venido? ¿Empezamos hoy también con energía?"
+    },
+    "qoUEDQ": {
+        "en-US": "[Mejai]\nWelcome. I was just planning a modest opening ceremony for \"Flower Room\".",
+        "pt-BR": "[Mejai]\nSeja bem-vindo. Eu estava justamente planejando fazer uma pequena cerimônia de abertura da \"Sala das Flores\".",
+        "es-ES": "[Mejai]\nBienvenido. Justo estaba pensando en hacer una pequeña inauguración de \"Sala de Flores\"."
+    },
+    "q4UEDQ": {
+        "en-US": "[Mejai]\nAhem..",
+        "pt-BR": "[Mejai]\nAham…",
+        "es-ES": "[Mejai]\nEjem..."
+    },
+    "rIUEDQ": {
+        "en-US": "[Mejai]\nNot everyone who should have been here is present, but I sincerely thank those who attended and honored the occasion.",
+        "pt-BR": "[Mejai]\nNem todos puderam comparecer, mas sou realmente grato a todos que vieram e prestigiaram este momento.",
+        "es-ES": "[Mejai]\nAunque no todos han podido asistir hoy, quiero dar sinceramente las gracias a quienes sí han venido y han honrado este lugar con su presencia."
+    },
+    "rYUEDQ": {
+        "en-US": "[Mejai]\nI really have to succeed.",
+        "pt-BR": "[Mejai]\nEu realmente preciso ter sucesso.",
+        "es-ES": "[Mejai]\nTengo que triunfar, de verdad."
+    },
+    "roUEDQ": {
+        "en-US": "[Mejai]\nI know I shouldn’t say this, but I started this business by scraping together every coin I had.",
+        "pt-BR": "[Mejai]\nEu sei que não deveria fazer isso, mas reuni todo o dinheiro que tinha e não tinha para começar este negócio.",
+        "es-ES": "[Mejai]\nSé que no debería decir esto, pero he reunido hasta el último céntimo que tenía, y también el que no tenía, para empezar este negocio."
+    },
+    "r4UEDQ": {
+        "en-US": "[Mejai]\nI have no way back. So I’ll do my best, and I ask that my employees do their best as well.",
+        "pt-BR": "[Mejai]\nNão tenho para onde recuar. Então eu também darei o meu melhor, e peço que os funcionários façam o mesmo.",
+        "es-ES": "[Mejai]\nNo tengo marcha atrás. Así que yo también daré lo mejor de mí, y espero que los empleados también den lo mejor de sí."
+    },
+    "sIUEDQ": {
+        "en-US": "[Mejai]\nI will strive to be a boss who rewards the best you give.",
+        "pt-BR": "[Mejai]\nVou me esforçar para ser um patrão que retribui o melhor que vocês derem.",
+        "es-ES": "[Mejai]\nMe esforzaré por ser un jefe que sepa corresponder a todo ese esfuerzo que pongáis."
+    },
+    "sYUEDQ": {
+        "en-US": "[Mejai]\nOpening ceremony over! Now then, shall we get to work?",
+        "pt-BR": "[Mejai]\nFim da cerimônia de abertura! Agora, vamos trabalhar com ânimo?",
+        "es-ES": "[Mejai]\n¡Fin de la inauguración! Entonces, ¿nos ponemos ya a trabajar con ganas?"
+    },
+    "soUEDQ": {
+        "en-US": "Mejai: You’re here? Today as well..",
+        "pt-BR": "Mejai: Você chegou? Hoje também..",
+        "es-ES": "Mejai: ¿Ha venido? Hoy también..."
+    },
+    "s4UEDQ": {
+        "en-US": "Customer: Ahem..",
+        "pt-BR": "Cliente: Aham..",
+        "es-ES": "Cliente: Ejem..."
+    },
+    "tIUEDQ": {
+        "en-US": "Mejai: Ah! Adventurer, just a moment.",
+        "pt-BR": "Mejai: Ah! Aventureiro, só um momento.",
+        "es-ES": "Mejai: ¡Ah! Aventurero, un momento, por favor."
+    },
+    "tYUEDQ": {
+        "en-US": "[Mejai]\nWelcome. Shall I prepare your usual order today as well, sir?",
+        "pt-BR": "[Mejai]\nSeja bem-vindo. Cliente, quer que eu prepare como de costume hoje também?",
+        "es-ES": "[Mejai]\nBienvenido. Cliente, ¿le doy hoy también lo de siempre?"
+    },
+    "toUEDQ": {
+        "en-US": "[Customer]\nAhem.. As always, I’ll leave it in your hands. Hm..",
+        "pt-BR": "[Cliente]\nAham.. como sempre, conto com você. Hum..",
+        "es-ES": "[Cliente]\nEjem... como siempre, cuento contigo. Hmm..."
+    },
+    "t4UEDQ": {
+        "en-US": "[Mejai]\nIs there anything else you need, sir?",
+        "pt-BR": "[Mejai]\nPrecisa de mais alguma coisa, cliente?",
+        "es-ES": "[Mejai]\n¿Necesita algo más, cliente?"
+    },
+    "uIUEDQ": {
+        "en-US": "[Customer]\nMy good shopkeeper friend, I’m very busy with work, so it’s difficult for me to come buy flowers every time.",
+        "pt-BR": "[Cliente]\nVeja bem, meu amigo dono da loja. Como ando muito ocupado, fica difícil vir comprar flores toda vez.",
+        "es-ES": "[Cliente]\nOiga, amigo mío, señor dueño. Como ando muy atareado, me resulta difícil venir a comprar flores cada vez."
+    },
+    "uYUEDQ": {
+        "en-US": "[Customer]\nDoes Flower Room have any plans to offer a delivery service?",
+        "pt-BR": "[Cliente]\nA Sala das Flores não pensa em oferecer serviço de entrega?",
+        "es-ES": "[Cliente]\n¿No está pensando «Sala de Flores en ofrecer un servicio de entrega?"
+    },
+    "uoUEDQ": {
+        "en-US": "[Mejai]\nUh..",
+        "pt-BR": "[Mejai]\nAh..",
+        "es-ES": "[Mejai]\nEh..."
+    },
+    "u4UEDQ": {
+        "en-US": "Yes. The business is gradually stabilizing, and we were preparing a delivery service as well.",
+        "pt-BR": "Sim. O negócio já está mais estável, e eu já estava preparando o serviço de entrega.",
+        "es-ES": "Claro. El negocio ya va asentándose poco a poco y justo estábamos preparando también el servicio de entrega."
+    },
+    "vIUEDQ": {
+        "en-US": "[Customer]\nHeh heh.. splendid, then starting today, please deliver them. I’ll tell you who will handle the deliveries.",
+        "pt-BR": "[Cliente]\nHehe.. que bom, então a partir de hoje entregue para mim. Vou lhe dizer a quem deve entregar.",
+        "es-ES": "[Cliente]\nJe, je... magnífico. Entonces, desde hoy mismo, hágamelo llegar. Le diré a la persona encargada de la entrega."
+    },
+    "vYUEDQ": {
+        "en-US": "[Customer]\nThen I’ll leave it to you.",
+        "pt-BR": "[Cliente]\nEntão conto com você.",
+        "es-ES": "[Cliente]\nEntonces, se lo encargo."
+    },
+    "voUEDQ": {
+        "en-US": "[Mejai]\nHahaha... What should I do? I think I messed up. A delivery service...",
+        "pt-BR": "[Mejai]\nHahaha... e agora? Acho que me meti em encrenca. Serviço de entrega...",
+        "es-ES": "[Mejai]\nJa, ja, ja... ¿qué hacemos? Creo que la he liado. ¿Servicio de entrega...?"
+    },
+    "v4UEDQ": {
+        "en-US": "[Mejai]\nI thought it was still too early..",
+        "pt-BR": "[Mejai]\nAcho que ainda é cedo demais…",
+        "es-ES": "[Mejai]\nCreo que todavía es demasiado pronto..."
+    },
+    "wIUEDQ": {
+        "en-US": "[Mejai]\nWell, it can’t be helped. Since it’s come to this, we’ll have to start the delivery service from today.",
+        "pt-BR": "[Mejai]\nMas não há o que fazer. Já que chegou a esse ponto, a partir de hoje vamos ter que começar também o serviço de entrega.",
+        "es-ES": "[Mejai]\nPero no hay más remedio. Ya que ha quedado así, a partir de hoy tendremos que empezar también con el servicio de entrega."
+    },
+    "wYUEDQ": {
+        "en-US": "[Mejai]\nIf you’re interested, please help out a lot with the delivery service as well.",
+        "pt-BR": "[Mejai]\nSe tiver interesse, por favor, ajude bastante também com o serviço de entrega.",
+        "es-ES": "[Mejai]\nSi le interesa, ayúdenos mucho también con el servicio de entrega."
+    },
+    "woUEDQ": {
+        "en-US": "Hello. Let’s do our best again today.",
+        "pt-BR": "Olá. Vamos dar o nosso melhor hoje também.",
+        "es-ES": "Hola. Demos lo mejor de nosotros hoy también."
+    },
+    "w4UEDQ": {
+        "en-US": "Hello. Did you get some rest? Tomorrow already starts a new week.",
+        "pt-BR": "Olá. Conseguiu descansar um pouco? Amanhã já começa uma nova semana.",
+        "es-ES": "Hola. ¿Ha descansado bien? Ya mañana empieza otra semana."
+    },
+    "xIUEDQ": {
+        "en-US": "Hello. It’s the first day of the week, so let’s do our best.",
+        "pt-BR": "Olá. É o primeiro dia da semana, então vamos dar o nosso melhor.",
+        "es-ES": "Hola. Como hoy empieza la semana, vamos a darlo todo."
+    },
+    "xYUEDQ": {
+        "en-US": "Hello. Let’s start today with bright smiles.",
+        "pt-BR": "Olá. Vamos começar hoje com um sorriso radiante.",
+        "es-ES": "Hola. Hoy empecemos con una sonrisa radiante."
+    },
+    "xoUEDQ": {
+        "en-US": "Hello. It’s already the middle of the week. Let’s do our best.",
+        "pt-BR": "Olá. Já estamos na metade da semana. Vamos dar o nosso melhor.",
+        "es-ES": "Hola. Ya hemos llegado a la mitad de la semana. Vamos a darlo todo."
+    },
+    "x4UEDQ": {
+        "en-US": "Hello. It’s Thursday. Feels like the kind of day when we need to pace ourselves so we don’t burn out.",
+        "pt-BR": "Olá. Já é quinta-feira. Parece que é hora de controlar o ritmo para não se esgotar.",
+        "es-ES": "Hola. Ya es jueves. Parece un momento en el que hace falta regular el ritmo para no agotarse."
+    },
+    "yIUEDQ": {
+        "en-US": "Hello. It’s already the last day of this week. Let’s finish it well too.",
+        "pt-BR": "Olá. Já é o último dia desta semana. Vamos encerrá-la bem também.",
+        "es-ES": "Hola. Ya es el último día de la semana. Vamos a cerrar bien esta semana también."
+    },
+    "yYUEDQ": {
+        "en-US": "Hello. It’s Saturday today, so how about working with a more relaxed mindset?",
+        "pt-BR": "Olá. Hoje é sábado, então que tal trabalhar com um pouco mais de tranquilidade?",
+        "es-ES": "Hola. Hoy es sábado, ¿qué le parece si trabajamos con un poco más de calma?"
+    },
+    "yoUEDQ": {
+        "en-US": "Mejai: {0}",
+        "pt-BR": "Mejai: {0}",
+        "es-ES": "Mejai: {0}"
+    },
+    "y4UEDQ": {
+        "en-US": "I’m busy right now..",
+        "pt-BR": "Agora estou ocupado..",
+        "es-ES": "Ahora mismo estoy ocupado..."
+    },
+    "zIUEDQ": {
+        "en-US": "Half Flower Gathering",
+        "pt-BR": "Flor Bicolor Coleta",
+        "es-ES": "Media Flor Recolección"
+    },
+    "zYUEDQ": {
+        "en-US": "Half Flower Delivery",
+        "pt-BR": "Flor Bicolor Entrega",
+        "es-ES": "Media Flor Entrega"
+    },
+    "zoUEDQ": {
+        "en-US": "[Mejai]\nAh! So you came only to attend the opening ceremony while you were busy.",
+        "pt-BR": "[Mejai]\nAh! Então você veio só para participar da cerimônia de abertura, mesmo estando ocupado.",
+        "es-ES": "[Mejai]\n¡Ah! Veo que, a pesar de estar ocupado, al menos ha venido a la inauguración."
+    },
+    "z4UEDQ": {
+        "en-US": "[Mejai]\nThank you very much. I’ll work hard.",
+        "pt-BR": "[Mejai]\nMuito obrigado. Vou me esforçar bastante.",
+        "es-ES": "[Mejai]\nMuchas gracias. Me esforzaré al máximo."
+    },
+    "0IUEDQ": {
+        "en-US": "Mejai: It seems you must be busy with something. Please come by whenever it is convenient for you.",
+        "pt-BR": "Mejai: Parece que você deve estar ocupado. Venha quando for melhor para você.",
+        "es-ES": "Mejai: Parece que tiene algo que hacer. Venga cuando le resulte cómodo."
+    },
+    "0YUEDQ": {
+        "en-US": "Mejai: Didn’t you say you were going to make deliveries? Please focus only on deliveries today.",
+        "pt-BR": "Mejai: Você não disse que faria as entregas? Hoje, concentre-se apenas nas entregas.",
+        "es-ES": "Mejai: ¿No dijo que iba a salir a repartir? Por hoy, concéntrese solo en las entregas."
+    },
+    "0oUEDQ": {
+        "en-US": "Mejai: Are you going to gather Half Flower?",
+        "pt-BR": "Mejai: Vai sair para coletar Flor Bicolor?",
+        "es-ES": "Mejai: ¿Va a ir a recolectar Media Flor?"
+    },
+    "04UEDQ": {
+        "en-US": "I’ll go gather it.",
+        "pt-BR": "Vou coletar.",
+        "es-ES": "Iré a recolectarla."
+    },
+    "1IUEDQ": {
+        "en-US": "I’ll skip it today.",
+        "pt-BR": "Hoje vou pular.",
+        "es-ES": "Hoy lo dejaré pasar."
+    },
+    "1YUEDQ": {
+        "en-US": "Mejai: Today, please keep an eye out for Half Flowers blooming near rocks.",
+        "pt-BR": "Mejai: Hoje, preste atenção especial às Flores Bicolores que florescem perto das pedras.",
+        "es-ES": "Mejai: Hoy, fíjese bien en las Medias Flores que florecen cerca de las rocas."
+    },
+    "1oUEDQ": {
+        "en-US": "Mejai: Today, please keep an eye out for Half Flowers blooming on flat ground.",
+        "pt-BR": "Mejai: Hoje, preste atenção especial às Flores Bicolores que florescem na planície.",
+        "es-ES": "Mejai: Hoy, fíjese bien en las Medias Flores que florecen en terreno llano."
+    },
+    "14UEDQ": {
+        "en-US": "Mejai: Today, please keep an eye out for Half Flowers blooming near trees.",
+        "pt-BR": "Mejai: Hoje, preste atenção especial às Flores Bicolores que florescem perto das árvores.",
+        "es-ES": "Mejai: Hoy, fíjese bien en las Medias Flores que florecen cerca de los árboles."
+    },
+    "2IUEDQ": {
+        "en-US": "Mejai: Today, please keep an eye out for Half Flowers blooming near the water.",
+        "pt-BR": "Mejai: Hoje, preste atenção especial às Flores Bicolores que florescem perto da água.",
+        "es-ES": "Mejai: Hoy, fíjese bien en las Medias Flores que florecen cerca del agua."
+    },
+    "2YUEDQ": {
+        "en-US": "Mejai: Then! Fighting again today! Please do your best and bring back fresh Half Flower.",
+        "pt-BR": "Mejai: Então! Boa sorte hoje também! Traga uma Flor Bicolor bem fresca.",
+        "es-ES": "Mejai: ¡Entonces! ¡Ánimo hoy también! Esfuércese y tráigame una Media Flor fresca."
+    },
+    "2oUEDQ": {
+        "en-US": "Mejai: Ah! Is that so?",
+        "pt-BR": "Mejai: Ah! Vai fazer isso mesmo?",
+        "es-ES": "Mejai: ¡Ah! ¿De verdad?"
+    },
+    "24UEDQ": {
+        "en-US": "Mejai: The day isn’t over yet, so if you finish your other work early, please help out at Flower Room as well.",
+        "pt-BR": "Mejai: O dia ainda não acabou, então, se terminar cedo o que tem para fazer, ajude também no trabalho da Sala das Flores.",
+        "es-ES": "Mejai: Aún no ha terminado el día, así que si acaba pronto con lo que tenga que hacer hoy, ayude también con el trabajo de Flower Room."
+    },
+    "3IUEDQ": {
+        "en-US": "Mejai: Then have a good rest today, and I’ll see you tomorrow.",
+        "pt-BR": "Mejai: Então descanse bem hoje e nos vemos amanhã.",
+        "es-ES": "Mejai: Entonces descanse bien hoy y nos vemos mañana."
+    },
+    "3YUEDQ": {
+        "en-US": "Mejai: You worked hard today as well. Leave the rest to me.",
+        "pt-BR": "Mejai: Bom trabalho hoje também. Deixe o resto comigo.",
+        "es-ES": "Mejai: Buen trabajo hoy también. Déjeme el resto a mí."
+    },
+    "3oUEDQ": {
+        "en-US": "Mejai: Please work hard again today for fresh Half Flower.",
+        "pt-BR": "Mejai: Obrigado pelo esforço de hoje também em nome de uma Flor Bicolor fresca.",
+        "es-ES": "Mejai: Hoy también, esfuércese por conseguir Medias Flores bien frescas."
+    },
+    "34UEDQ": {
+        "en-US": "Mejai: It seems some problem occurred during the Half Flower gathering process.",
+        "pt-BR": "Mejai: Parece que houve algum problema no processo de coleta de Flor Bicolor.",
+        "es-ES": "Mejai: Parece que ha surgido algún problema durante el proceso de recolección de Media Flor."
+    },
+    "4IUEDQ": {
+        "en-US": "Mejai: I fixed it roughly for now, but if the same issue happens again, please take a screenshot and contact the operations team.",
+        "pt-BR": "Mejai: Eu resolvi mais ou menos, mas se o mesmo problema acontecer de novo, tire uma captura de tela e entre em contato com a equipe de suporte.",
+        "es-ES": "Mejai: Lo he solucionado más o menos por mi cuenta, pero si vuelve a pasar lo mismo, haga una captura de pantalla y contacte con el equipo de operaciones."
+    },
+    "4YUEDQ": {
+        "en-US": "Mejai: It’s still only a service I’m considering. Maybe I’ll start it once the business is a little more stable?",
+        "pt-BR": "Mejai: Ainda é um serviço só em fase de ideia. Talvez eu comece quando o negócio estiver um pouco mais estável.",
+        "es-ES": "Mejai: Es un servicio en el que todavía solo estoy pensando. ¿No deberíamos empezarlo cuando el negocio esté un poco más estable?"
+    },
+    "4oUEDQ": {
+        "en-US": "Mejai: When that time comes, I’ll be counting on you.",
+        "pt-BR": "Mejai: Quando esse momento chegar, conto com você.",
+        "es-ES": "Mejai: Cuando llegue ese momento, espero contar con su ayuda."
+    },
+    "44UEDQ": {
+        "en-US": "Mejai: Didn’t you say you were going to gather Half Flower? Please focus only on gathering today.",
+        "pt-BR": "Mejai: Você não disse que faria a coleta de Flor Bicolor? Hoje, concentre-se apenas na coleta.",
+        "es-ES": "Mejai: ¿No dijo que iba a recolectar Media Flor? Por hoy, concéntrese solo en la recolección."
+    },
+    "5IUEDQ": {
+        "en-US": "Mejai: Are you heading out for deliveries today?",
+        "pt-BR": "Mejai: Hoje vai sair para fazer entregas?",
+        "es-ES": "Mejai: ¿Hoy va a encargarse de las entregas?"
+    },
+    "5YUEDQ": {
+        "en-US": "Where should I deliver it?",
+        "pt-BR": "Para onde devo entregar?",
+        "es-ES": "¿Adónde tengo que entregarlas?"
+    },
+    "5oUEDQ": {
+        "en-US": "Mejai: I’ll give you a Half Flower with a name written on it.",
+        "pt-BR": "Mejai: Vou lhe dar uma Flor Bicolor com um nome escrito.",
+        "es-ES": "Mejai: Le daré una Media Flor con el nombre escrito."
+    },
+    "54UEDQ": {
+        "en-US": "Mejai: It’s just part of the delivery driver verification process, so don’t worry too much about it.",
+        "pt-BR": "Mejai: É só um procedimento de verificação do entregador, então não se preocupe demais com isso.",
+        "es-ES": "Mejai: Es solo una especie de procedimiento de verificación para los repartidores, así que no le dé demasiada importancia."
+    },
+    "6IUEDQ": {
+        "en-US": "Mejai: You only need to deliver it to the person written on the slip, but please be careful so there are no delivery accidents.",
+        "pt-BR": "Mejai: Basta entregar à pessoa indicada no papel que escrevi, mas tenha cuidado para que não aconteça nenhum acidente na entrega.",
+        "es-ES": "Mejai: Solo tiene que entregarla a la persona que figura en la nota que le he escrito, pero procure que no ocurra ningún accidente durante la entrega."
+    },
+    "6YUEDQ": {
+        "en-US": "Mejai: Thank you in advance again today.",
+        "pt-BR": "Mejai: Conto com você hoje também.",
+        "es-ES": "Mejai: Hoy también cuento con usted."
+    },
+    "6oUEDQ": {
+        "en-US": "Mejai: Please make sure there are no delivery accidents and deliver accurately and quickly.",
+        "pt-BR": "Mejai: Por favor, faça a entrega de forma precisa e rápida, sem acidentes.",
+        "es-ES": "Mejai: Procure hacer una entrega exacta y rápida para que no ocurra ningún accidente."
+    },
+    "64UEDQ": {
+        "en-US": "Mejai: You worked hard today as well.",
+        "pt-BR": "Mejai: Hoje também foi um dia de muito esforço.",
+        "es-ES": "Mejai: Ha trabajado mucho hoy también."
+    },
+    "7IUEDQ": {
+        "en-US": "Mejai: Looking at the delivery receipt, it seems there was an accident. Well, I suppose that is the kind of thing that can happen while working.",
+        "pt-BR": "Mejai: Pelo comprovante de entrega, parece que houve um incidente. Bem, acho que é o tipo de coisa que pode acontecer quando se está trabalhando.",
+        "es-ES": "Mejai: Por el comprobante de entrega, parece que hubo un accidente. Bueno, supongo que son cosas que pueden pasar cuando uno trabaja."
+    },
+    "7YUEDQ": {
+        "en-US": "Mejai: Please be careful next time, and you worked hard today as well.",
+        "pt-BR": "Mejai: Tome mais cuidado da próxima vez, e obrigado pelo esforço de hoje também.",
+        "es-ES": "Mejai: Tenga más cuidado la próxima vez, y gracias por su esfuerzo hoy también."
+    },
+    "7oUEDQ": {
+        "en-US": "Mejai: It seems some problem occurred during the Half Flower delivery process.",
+        "pt-BR": "Mejai: Parece que houve algum problema no processo de entrega de Flor Bicolor.",
+        "es-ES": "Mejai: Parece que ha surgido algún problema durante el proceso de entrega de Media Flor."
+    },
+    "74UEDQ": {
+        "en-US": "[E-R-R-O-R]\nAn unknown error has been detected. If the same issue occurs again after retrying, please take a screenshot and contact the operations team.",
+        "pt-BR": "[E-R-R-O]\nFoi identificado um erro desconhecido. Se o mesmo problema ocorrer novamente após tentar de novo, tire uma captura de tela e entre em contato com a equipe de suporte.",
+        "es-ES": "[E-R-R-O-R]\nSe ha detectado un error desconocido. Si el mismo problema persiste tras volver a intentarlo, haga una captura de pantalla y contacte con el equipo de operaciones."
+    },
+    "8IUEDQ": {
+        "en-US": "Customer",
+        "pt-BR": "Cliente",
+        "es-ES": "Cliente"
+    },
+    "8YUEDQ": {
+        "en-US": "Flower Shop Lady",
+        "pt-BR": "Dona da floricultura",
+        "es-ES": "Señora de la floristería"
+    },
+    "8oUEDQ": {
+        "en-US": "- There is no\n- more need for Half Flower. Before it wilts,\n- let’s bring it to Mejai.",
+        "pt-BR": "- Flor Bicolor não é mais\n- necessária. Vamos levá-la a\n- Mejai antes que murche.",
+        "es-ES": "- Ya no hacen falta más\n- Medias Flores. Antes de que se marchiten,\n- llevémoselas a Mejai."
+    },
+    "84UEDQ": {
+        "en-US": "- A Half Flower is blooming. Let’s\n- find the necessary materials from the gathering tools\n- that Mejai gave us and gather it.",
+        "pt-BR": "- Há uma Flor Bicolor florescendo. Vamos\n- procurar os materiais necessários nas\n- ferramentas de coleta que Mejai nos deu\n- e coletá-la.",
+        "es-ES": "- Hay una Media Flor florecida. Use\n- los materiales necesarios del\n- equipo de recolección que le dio\n- Mejai y procédase a recolectarla."
+    },
+    "9IUEDQ": {
+        "en-US": "At what angle should I cut the stem?",
+        "pt-BR": "Em que ângulo devo cortar o caule?",
+        "es-ES": "¿Con qué ángulo debería cortar el tallo?"
+    },
+    "9YUEDQ": {
+        "en-US": "How many leaves should I leave?",
+        "pt-BR": "Quantas folhas devo deixar?",
+        "es-ES": "¿Cuántas hojas debería dejar?"
+    },
+    "9oUEDQ": {
+        "en-US": "How many ml of water should I put in the small bottle?",
+        "pt-BR": "Quantos ml de água devo colocar no frasco pequeno?",
+        "es-ES": "¿Cuántos ml de agua debería poner en el frasco pequeño?"
+    },
+    "94UEDQ": {
+        "en-US": "How many g of secret powder should I put in?",
+        "pt-BR": "Quantos g do pó secreto devo colocar?",
+        "es-ES": "¿Cuántos g de polvo secreto debería añadir?"
+    },
+    "+IUEDQ": {
+        "en-US": "- We gathered Half Flower,\n- so let’s bring it to Mejai\n- before it wilts.",
+        "pt-BR": "- Você coletou a Flor Bicolor,\n- então vamos levá-la a Mejai\n- antes que murche.",
+        "es-ES": "- Ya ha recolectado una Media Flor,\n- así que antes de que se marchite,\n- llévesela a Mejai."
+    },
+    "+YUEDQ": {
+        "en-US": "A Half Flower is blooming.",
+        "pt-BR": "Há uma Flor Bicolor florescendo.",
+        "es-ES": "Hay una Media Flor florecida."
+    },
+    "+oUEDQ": {
+        "en-US": "Mulli",
+        "pt-BR": "Mulli",
+        "es-ES": "Mulli"
+    },
+    "+4UEDQ": {
+        "en-US": "Mulli: They said they would send flowers, so when will they arrive?",
+        "pt-BR": "Mulli: Disseram que iam me mandar flores, mas quando será que chegam?",
+        "es-ES": "Mulli: Dijo que me enviaría flores, pero ¿cuándo llegarán?"
+    },
+    "/IUEDQ": {
+        "en-US": "The flower delivery is here.",
+        "pt-BR": "A entrega de flores chegou.",
+        "es-ES": "He traído la entrega de flores."
+    },
+    "/YUEDQ": {
+        "en-US": "I’m sorry.",
+        "pt-BR": "Sinto muito.",
+        "es-ES": "Lo siento."
+    },
+    "/oUEDQ": {
+        "en-US": "Mulli: That can happen. Have a good day.",
+        "pt-BR": "Mulli: Isso pode acontecer. Tenha um bom dia.",
+        "es-ES": "Mulli: Eso puede pasar. Que tenga un buen día."
+    },
+    "/4UEDQ": {
+        "en-US": "The flower delivery is here.",
+        "pt-BR": "A entrega de flores chegou.",
+        "es-ES": "He traído la entrega de flores."
+    },
+    "AIYEDQ": {
+        "en-US": "Mulli: It may be presumptuous of me to say, but that is not the flower they were supposed to send.",
+        "pt-BR": "Mulli: Não quero parecer intrometido, mas as flores que essa pessoa vai mandar não são essas.",
+        "es-ES": "Mulli: Sé que me estoy excediendo, pero esas no son las flores que esa persona iba a enviarme."
+    },
+    "AYYEDQ": {
+        "en-US": "Mulli: You’ve finally arrived. Thank you.",
+        "pt-BR": "Mulli: Finalmente você chegou. Obrigado.",
+        "es-ES": "Mulli: Por fin ha llegado. Muchas gracias."
+    },
+    "AoYEDQ": {
+        "en-US": "Could you sign the delivery receipt?",
+        "pt-BR": "Pode assinar o comprovante de entrega?",
+        "es-ES": "¿Podría firmar el comprobante de entrega?"
+    },
+    "A4YEDQ": {
+        "en-US": "Mulli: Here you are. Goodbye.",
+        "pt-BR": "Mulli: Aqui está. Tenha um bom dia.",
+        "es-ES": "Mulli: Aquí tiene. Que le vaya bien."
+    },
+    "BIYEDQ": {
+        "en-US": "Mulli: Half Flower is truly beautiful. If things were this harmonious, there would be no conflict in this world..",
+        "pt-BR": "Mulli: Flor Bicolor é realmente linda. Se tudo fosse tão harmonioso assim, talvez não houvesse conflitos neste mundo..",
+        "es-ES": "Mulli: Media Flor es realmente preciosa. Si todo en este mundo fuera así de armonioso, no existirían los conflictos..."
+    },
+    "BYYEDQ": {
+        "en-US": "Mulli: They said they would send flowers, but they still haven’t come. It feels like they should have arrived by now.",
+        "pt-BR": "Mulli: Disseram que iam mandar flores, mas elas ainda não chegaram. Acho que já está na hora.",
+        "es-ES": "Mulli: Dijo que me mandaría flores, pero no llegan. Ya deberían haber llegado."
+    },
+    "BoYEDQ": {
+        "en-US": "Mulli: Mutter.. mutter.. mutter..",
+        "pt-BR": "Mulli: *murmura*",
+        "es-ES": "Mulli: Murmullo... murmullo... murmullo..."
+    },
+    "B4YEDQ": {
+        "en-US": "Mulli: I’m not trying to argue, but I don’t think that’s the flower being delivered.",
+        "pt-BR": "Mulli: Não estou reclamando, mas acho que essa não é a flor que deveria ser entregue.",
+        "es-ES": "Mulli: No es que quiera quejarme, pero creo que esa no es la flor que tenían que entregar."
+    },
+    "CIYEDQ": {
+        "en-US": "Mulli: Flowers for me? Who could it be? There’s no one who would send me any.",
+        "pt-BR": "Mulli: Flores para mim? Quem será? Não tenho ninguém que me mande flores.",
+        "es-ES": "Mulli: ¿Flores para mí? ¿De quién? No conozco a nadie que me las fuera a mandar."
+    },
+    "CYYEDQ": {
+        "en-US": "Mulli: This feels a little strange, but since you say it was delivered for me, I’ll gratefully accept it.",
+        "pt-BR": "Mulli: Estou meio desconfiado, mas como disse que é uma entrega para mim, vou aceitar com gratidão.",
+        "es-ES": "Mulli: Me resulta un poco raro, pero si dice que son para mí, las aceptaré agradecida."
+    },
+    "CoYEDQ": {
+        "en-US": "Mulli: May Freya’s blessing be with you..",
+        "pt-BR": "Mulli: Que a graça de Freya esteja com você..",
+        "es-ES": "Mulli: Que la gracia de Freyja esté con usted..."
+    },
+    "C4YEDQ": {
+        "en-US": "Mulli: Who sent the flowers? Well, they’re pretty, so I like them.",
+        "pt-BR": "Mulli: Quem será que enviou as flores? Bem, são bonitas, então estou feliz.",
+        "es-ES": "Mulli: ¿Quién será la persona que me ha mandado flores? Bueno, son bonitas, así que me alegro."
+    },
+    "DIYEDQ": {
+        "en-US": "[Mulli]\nMay Freya’s blessing be with you..",
+        "pt-BR": "[Mulli]\nQue a graça de Freya esteja com você..",
+        "es-ES": "[Mulli]\nQue la gracia de Freyja esté con usted..."
+    },
+    "DYYEDQ": {
+        "en-US": "Molly",
+        "pt-BR": "Molly",
+        "es-ES": "Molly"
+    },
+    "DoYEDQ": {
+        "en-US": "Molly: Ah. Brother, this young lady is waiting for the flowers Brother said you would send.",
+        "pt-BR": "Molly: Aaah. Meu querido irmão disse que mandaria flores para esta jovem, e ela está esperando.",
+        "es-ES": "Molly: Ah, ah. Señor, esta joven está esperando las flores que dijo que le enviaría."
+    },
+    "D4YEDQ": {
+        "en-US": "Molly: Ah. So you were not Brother.",
+        "pt-BR": "Molly: Aaah. Então você não era meu querido irmão.",
+        "es-ES": "Molly: Ah, ah. Así que usted no era ese señor."
+    },
+    "EIYEDQ": {
+        "en-US": "Molly: Ah. That is not the flower. This young lady knows, because she receives flowers often.",
+        "pt-BR": "Molly: Aaah. Não são essas flores. Esta jovem já recebeu muitas flores, então sabe reconhecer.",
+        "es-ES": "Molly: Ah, ah. No, esas no son esas flores. Esta joven recibe flores a menudo, así que lo sabe."
+    },
+    "EYYEDQ": {
+        "en-US": "Molly: Ah. So Brother really did send flowers.",
+        "pt-BR": "Molly: Aaah. Então meu querido irmão realmente enviou flores.",
+        "es-ES": "Molly: Ah, ah. Así que el señor me ha mandado flores."
+    },
+    "EoYEDQ": {
+        "en-US": "Molly: Here it is. Ah. I must look at the flowers Brother sent, so would you leave now?",
+        "pt-BR": "Molly: Aqui está. Aaah. Como preciso admirar as flores que meu querido irmão enviou, poderia ir embora agora?",
+        "es-ES": "Molly: Aquí tiene. Ah, ah. Ahora que tengo que contemplar las flores que me ha enviado el señor, ¿podría retirarse ya?"
+    },
+    "E4YEDQ": {
+        "en-US": "Molly: Ah. Waiting was hard, but the flowers Brother sent were worth waiting for.",
+        "pt-BR": "Molly: Aaah. Esperar foi difícil, mas as flores enviadas por meu querido irmão valeram a espera.",
+        "es-ES": "Molly: Ah, ah. Esperar ha sido duro, pero las flores que me ha enviado el señor han merecido la espera."
+    },
+    "FIYEDQ": {
+        "en-US": "Molly: Ah. This young lady may wither away waiting for the flowers Brother said you would send.",
+        "pt-BR": "Molly: Aaah. Se eu continuar esperando as flores que meu querido irmão disse que mandaria, esta jovem vai acabar seca e morta.",
+        "es-ES": "Molly: Ah, ah. Si sigo esperando las flores que dijo que me enviaría el señor, esta joven va a acabar marchitándose."
+    },
+    "FYYEDQ": {
+        "en-US": "Molly: Please go to the temple and receive Freya’s grace in abundance..",
+        "pt-BR": "Molly: Vá ao templo e receba as bênçãos de Freya em abundância..",
+        "es-ES": "Molly: Vaya al templo y reciba en abundancia la gracia de Freyja..."
+    },
+    "FoYEDQ": {
+        "en-US": "Molly: May Freya’s blessing be with you..",
+        "pt-BR": "Molly: Que a graça de Freya esteja com você..",
+        "es-ES": "Molly: Que la gracia de Freyja esté con usted..."
+    },
+    "F4YEDQ": {
+        "en-US": "Molly: Strange. That should not be the flower being delivered.",
+        "pt-BR": "Molly: Que estranho. A flor entregue não devia ser essa.",
+        "es-ES": "Molly: Qué raro. No creo que esa sea la flor que iban a entregar."
+    },
+    "GIYEDQ": {
+        "en-US": "Molly: Strange. There is no one who would send me flowers. Still, since you are giving them to me, I will take them.",
+        "pt-BR": "Molly: Que estranho. Não tenho ninguém que me envie flores. Mas já que está me dando, vou aceitar.",
+        "es-ES": "Molly: Qué raro. No tengo a nadie que me vaya a enviar flores, pero bueno, ya que me la da, la aceptaré."
+    },
+    "GYYEDQ": {
+        "en-US": "Molly: Here. How strange? Who could it be?",
+        "pt-BR": "Molly: Aqui está. Que estranho… quem será?",
+        "es-ES": "Molly: Aquí tiene. Qué raro... ¿quién habrá sido?"
+    },
+    "GoYEDQ": {
+        "en-US": "Molly: May Freya’s blessing be with you..",
+        "pt-BR": "Molly: Que a graça de Freya esteja com você..",
+        "es-ES": "Molly: Que la gracia de Freyja esté con usted..."
+    },
+    "G4YEDQ": {
+        "en-US": "Molly: This flower is truly beautiful. Was it called Half Flower? And a fresh flower at that? That is quite rare.",
+        "pt-BR": "Molly: Esta flor é realmente bonita. Você disse que se chama Flor Bicolor? E ainda por cima é uma flor viva? Isso é realmente raro.",
+        "es-ES": "Molly: Qué flor tan bonita. ¿Ha dicho que es una Media Flor? ¿Y además una flor natural? Es algo realmente raro."
+    },
+    "HIYEDQ": {
+        "en-US": "[Molly]\nMay Freya’s blessing be with you..",
+        "pt-BR": "[Molly]\nQue a graça de Freya esteja com você..",
+        "es-ES": "[Molly]\nQue la gracia de Freyja esté con usted..."
+    },
+    "HYYEDQ": {
+        "en-US": "Masa",
+        "pt-BR": "Masa",
+        "es-ES": "Masa"
+    },
+    "HoYEDQ": {
+        "en-US": "Masa: Goodness, why would that person suddenly say they’re sending flowers?",
+        "pt-BR": "Masa: Ora, mas por que essa pessoa de repente disse que ia me mandar flores?",
+        "es-ES": "Masa: Vaya, vaya, ¿y por qué de repente esa persona iba a mandarme flores?"
+    },
+    "H4YEDQ": {
+        "en-US": "Masa: You’re working hard.",
+        "pt-BR": "Masa: Deve estar dando trabalho, hein.",
+        "es-ES": "Masa: Está trabajando duro, ¿eh?"
+    },
+    "IIYEDQ": {
+        "en-US": "Masa: That won’t be the flower being delivered.",
+        "pt-BR": "Masa: Acho que a flor que está entregando não é essa.",
+        "es-ES": "Masa: Creo que esa no es la flor que tenían que entregar."
+    },
+    "IYYEDQ": {
+        "en-US": "Masa: Oh my?! So this is the flower they said they would send?",
+        "pt-BR": "Masa: Nossa?! Então a flor que disseram que mandariam era esta?",
+        "es-ES": "Masa: ¿Eh? ¿¡Así que la flor que iban a enviarme era esta!?"
+    },
+    "IoYEDQ": {
+        "en-US": "Masa: Here you are. Was it called Half Flower? It is a flower that makes the long trip to Veins feel worthwhile.",
+        "pt-BR": "Masa: Aqui está. Você disse que é uma Flor Bicolor? Só por ver uma flor assim, já valeu a pena ter vindo de tão longe até Veins.",
+        "es-ES": "Masa: Aquí tiene. ¿Ha dicho que es una Media Flor? Es una flor que hace que haya valido la pena venir hasta la lejana Veins."
+    },
+    "I4YEDQ": {
+        "en-US": "Masa: Just learning about Half Flower already feels like reason enough to have come to Veins.",
+        "pt-BR": "Masa: Só de conhecer a Flor Bicolor, já sinto que vir até Veins valeu a pena.",
+        "es-ES": "Masa: Creo que solo con haber conocido la Media Flor ya ha valido la pena venir a Veins."
+    },
+    "JIYEDQ": {
+        "en-US": "Masa: They said they would send flowers, but that’s strange, they should be here soon.",
+        "pt-BR": "Masa: Disseram que iam me mandar flores, que estranho, já devia estar chegando.",
+        "es-ES": "Masa: Dijeron que me enviarían flores, qué raro, ya debería estar llegando."
+    },
+    "JYYEDQ": {
+        "en-US": "Masa: Ugh, I left because I hated the sandstorms, but this place is no joke either.",
+        "pt-BR": "Masa: Aff, fui embora porque odiava o vento de areia, mas aqui também não está nada fácil.",
+        "es-ES": "Masa: Uf, me fui por culpa del viento de arena y, aun así, este sitio tampoco se queda corto."
+    },
+    "JoYEDQ": {
+        "en-US": "Masa: Did some sand get in your mouth?",
+        "pt-BR": "Masa: Será que entrou areia na sua boca?",
+        "es-ES": "Masa: ¿Se le ha metido arena en la boca?"
+    },
+    "J4YEDQ": {
+        "en-US": "Masa: I guarantee it. I may not look it, but I’ve received lots of flower deliveries, and that’s not the flower.",
+        "pt-BR": "Masa: Eu garanto. Não parece, mas já recebi muitas flores na vida, e essa não é a flor certa.",
+        "es-ES": "Masa: Se lo aseguro. Aunque no lo parezca, he recibido muchas entregas de flores, y esa no es la flor."
+    },
+    "KIYEDQ": {
+        "en-US": "Masa: Whom could these flowers be from? Thank you for delivering them anyway.",
+        "pt-BR": "Masa: De quem será essa flor? Obrigado mesmo por entregar.",
+        "es-ES": "Masa: ¿Quién me habrá enviado estas flores? En fin, gracias por traerlas."
+    },
+    "KYYEDQ": {
+        "en-US": "Masa: Very thorough. Then be on your way.",
+        "pt-BR": "Masa: Você é bem rigoroso. Então, até mais.",
+        "es-ES": "Masa: Qué formal. Bueno, entonces adiós."
+    },
+    "KoYEDQ": {
+        "en-US": "Masa: I left my hometown because I hated sand, yet in the end I came to a place full of sand too. My life really is something.",
+        "pt-BR": "Masa: Saí da minha terra natal porque odiava areia, mas acabei vindo parar num lugar cheio dela do mesmo jeito. Que vida a minha.",
+        "es-ES": "Masa: Dejé mi tierra natal porque odiaba la arena, y al final he acabado en un lugar lleno de arena de todos modos. Mi vida sí que es algo serio."
+    },
+    "K4YEDQ": {
+        "en-US": "Masa: Was it called Half Flower? It’s a pretty flower.",
+        "pt-BR": "Masa: Você disse que é uma Flor Bicolor? Que flor bonita.",
+        "es-ES": "Masa: ¿Ha dicho que es una Media Flor? Qué flor tan bonita."
+    },
+    "LIYEDQ": {
+        "en-US": "[Masa]\nI left my hometown because I hated sand, yet in the end I came to a place full of sand too. My life really is something.",
+        "pt-BR": "[Masa]\nSaí da minha terra natal porque odiava areia, mas acabei vindo parar num lugar cheio dela do mesmo jeito. Que vida a minha.",
+        "es-ES": "[Masa]\nDejé mi tierra natal porque odiaba la arena, y al final he acabado en un lugar lleno de arena de todos modos. Mi vida sí que es algo serio."
+    },
+    "LYYEDQ": {
+        "en-US": "Masha",
+        "pt-BR": "Masha",
+        "es-ES": "Masha"
+    },
+    "LoYEDQ": {
+        "en-US": "Masha: Someone I met briefly not long ago said they would deliver Half Flower. I hope they come soon.",
+        "pt-BR": "Masha: Disseram que alguém que conheci recentemente vai me enviar uma Flor Bicolor. Espero que chegue logo.",
+        "es-ES": "Masha: Alguien con quien me crucé hace poco dijo que me enviaría una Media Flor. Ojalá llegue pronto."
+    },
+    "L4YEDQ": {
+        "en-US": "Masha: I thought you were the one making the delivery.",
+        "pt-BR": "Masha: Achei que você fosse quem vinha fazer a entrega.",
+        "es-ES": "Masha: Pensé que usted era quien venía a entregar las flores."
+    },
+    "MIYEDQ": {
+        "en-US": "Masha: Is that really the flower you brought? I don’t think it is.",
+        "pt-BR": "Masha: Tem certeza de que a flor que trouxe é a certa? Acho que não é essa.",
+        "es-ES": "Masha: ¿Está segura de que esa es la flor que trae? Creo que no era esa."
+    },
+    "MYYEDQ": {
+        "en-US": "Masha: You’re here. They remembered how I casually mentioned that I like flowers and sent them to me.",
+        "pt-BR": "Masha: Você chegou. Essa pessoa se lembrou de que eu mencionei de passagem que gosto de flores, e me enviou uma.",
+        "es-ES": "Masha: Ya ha llegado. Recordó que dejé caer como quien no quiere la cosa que me gustan las flores, y me las ha mandado."
+    },
+    "MoYEDQ": {
+        "en-US": "Masha: Here. All flowers are lovely, but Half Flower feels especially special among them.",
+        "pt-BR": "Masha: Aqui está. Todas as flores são bonitas, mas Flor Bicolor parece uma flor especialmente especial.",
+        "es-ES": "Masha: Aquí tiene. Todas las flores me gustan, pero la Media Flor me parece una flor especial entre todas ellas."
+    },
+    "M4YEDQ": {
+        "en-US": "Masha: I should think of a gift to send back to that person as well.",
+        "pt-BR": "Masha: Acho que eu também deveria pensar em um presente para mandar para essa pessoa.",
+        "es-ES": "Masha: Yo también debería pensar en algún regalo para enviarle a esa persona."
+    },
+    "NIYEDQ": {
+        "en-US": "Masha: Strange. They said they would send flowers.",
+        "pt-BR": "Masha: Que estranho. Disseram que iam me mandar flores.",
+        "es-ES": "Masha: Qué raro. Dijo que me iba a mandar flores..."
+    },
+    "NYYEDQ": {
+        "en-US": "Masha: I wore my favorite clothes for the first time in a while, and they got swept up in the sandstorm.",
+        "pt-BR": "Masha: Faz tempo que não usava minha roupa favorita, mas ela acabou sendo varrida pelo vento de areia.",
+        "es-ES": "Masha: Hacía mucho que no me ponía mi ropa favorita, y ha acabado arrastrada por el viento de arena."
+    },
+    "NoYEDQ": {
+        "en-US": "Masha: I’ll let it slide in honor of wearing my favorite clothes.",
+        "pt-BR": "Masha: Já que vesti minha roupa favorita, vou deixar passar.",
+        "es-ES": "Masha: Como hoy me he puesto mi ropa favorita, haré la vista gorda."
+    },
+    "N4YEDQ": {
+        "en-US": "Masha: That’s not the flower, is it? Check again.",
+        "pt-BR": "Masha: Acho que não é essa flor. Confira de novo.",
+        "es-ES": "Masha: Creo que esa no es la flor. Compruébelo."
+    },
+    "OIYEDQ": {
+        "en-US": "Masha: Flowers? For me? Thank you. I’ll gratefully accept them.",
+        "pt-BR": "Masha: Flores? Para mim? Obrigada. Vou aceitar com gratidão.",
+        "es-ES": "Masha: ¿Flores? ¿Para mí? Muchas gracias. Las aceptaré encantada."
+    },
+    "OYYEDQ": {
+        "en-US": "Masha: Oh! So you weren’t the one giving them to me? Then who sent me flowers?",
+        "pt-BR": "Masha: Eh! Então não foi você quem trouxe? Então quem me enviou flores?",
+        "es-ES": "Masha: ¡Eh! ¿Así que no me las trae usted? Entonces, ¿quién me habrá mandado flores?"
+    },
+    "OoYEDQ": {
+        "en-US": "Masha: Did you know? The outfit I’m wearing is said to be a traditional costume from a place called Dragon Castle somewhere out at sea.",
+        "pt-BR": "Masha: Sabia? Dizem que as roupas que estou usando são um traje tradicional de um lugar chamado Yongjiseong, que fica em algum lugar do mar.",
+        "es-ES": "Masha: ¿Sabe una cosa? La ropa que llevo dicen que es el traje tradicional de un lugar llamado Yongjiseong, en algún sitio del mar."
+    },
+    "O4YEDQ": {
+        "en-US": "Masha: I don’t know who sent them, but receiving flowers makes me happy.",
+        "pt-BR": "Masha: Não sei quem enviou, mas receber flores me deixou feliz.",
+        "es-ES": "Masha: No sé quién me las habrá mandado, pero recibir flores me alegra el día."
+    },
+    "PIYEDQ": {
+        "en-US": "[Masha]\nDid you know? The outfit I’m wearing is said to be a traditional costume from a place called Yongjiseong somewhere out at sea.",
+        "pt-BR": "[Masha]\nSabia? Dizem que as roupas que estou usando são um traje tradicional de um lugar chamado Yongjiseong, que fica em algum lugar do mar.",
+        "es-ES": "[Masha]\n¿Sabe una cosa? La ropa que llevo dicen que es el traje tradicional de un lugar llamado Yongjiseong, en algún sitio del mar."
+    },
+    "PYYEDQ": {
+        "en-US": "Tilling",
+        "pt-BR": "Tilling",
+        "es-ES": "Tilling"
+    },
+    "PoYEDQ": {
+        "en-US": "Tilling: Are you here to deliver flowers by any chance? Someone I know said they were sending flowers.",
+        "pt-BR": "Tilling: Por acaso veio fazer uma entrega de flores? Disseram que alguém conhecido me enviaria flores.",
+        "es-ES": "Tilling: ¿Ha venido a entregar flores, quizá? Es que alguien que conozco dijo que me enviaría flores."
+    },
+    "P4YEDQ": {
+        "en-US": "Tilling: So you’re not.",
+        "pt-BR": "Tilling: Então não era você.",
+        "es-ES": "Tilling: Ah, así que no."
+    },
+    "QIYEDQ": {
+        "en-US": "Tilling: Is that the right flower? As far as I know, it isn’t..",
+        "pt-BR": "Tilling: Tem certeza de que é essa a flor? Pelo que eu sei, não é..",
+        "es-ES": "Tilling: ¿Es esa realmente la flor? Según tengo entendido, no lo es..."
+    },
+    "QYYEDQ": {
+        "en-US": "Tilling: So the flower being delivered was Half Flower? That old man used to give me one every time I saw him, and now he’s even having them delivered?",
+        "pt-BR": "Tilling: Então a flor que iam entregar era Flor Bicolor? Aquele senhor me dava uma sempre que nos encontrávamos, e agora até manda entregar?",
+        "es-ES": "Tilling: ¿Así que la flor que iban a entregar era una Media Flor? ¿Ese señor ya me daba una cada vez que nos veíamos y ahora hasta me la envía a domicilio?"
+    },
+    "QoYEDQ": {
+        "en-US": "Tilling: Right, of course. Here you are. You must be busy? I wish you could at least give me a moment to admire them.",
+        "pt-BR": "Tilling: Pois é. Aqui está. Parece que está ocupado? Podia ao menos me dar tempo para apreciá-la por um instante.",
+        "es-ES": "Tilling: Pues sí. Aquí tiene. ¿Debe de estar ocupado? Podría dejarme al menos un momento para admirarla."
+    },
+    "Q4YEDQ": {
+        "en-US": "Tilling: Should I accept that old man’s feelings? The age gap is rather large, though, so what should I do.",
+        "pt-BR": "Tilling: Será que devo aceitar o sentimento desse senhor? A diferença de idade é bem grande… o que eu faço?",
+        "es-ES": "Tilling: ¿Debería aceptar los sentimientos de ese señor? Hay bastante diferencia de edad, ¿qué hago?"
+    },
+    "RIYEDQ": {
+        "en-US": "Tilling: Oh dear, they said they’d send flowers, so why aren’t they here yet? I’ll grow old and die waiting.",
+        "pt-BR": "Tilling: Ai, poxa, disse que ia me mandar flores, então por que ainda não chegou? Se eu esperar mais, vou envelhecer aqui.",
+        "es-ES": "Tilling: Ay, por favor, dijo que me enviaría flores y aún no llegan. Como siga esperando, me haré vieja aquí."
+    },
+    "RYYEDQ": {
+        "en-US": "Tilling: Ahh, I’m supposed to leave the shop during break time, but I can’t even do that..",
+        "pt-BR": "Tilling: Ahh, eu deveria sair da loja durante o intervalo, mas nem isso estou conseguindo…",
+        "es-ES": "Tilling: Ay... durante mi descanso debería salir de la tienda, pero ni siquiera puedo hacerlo..."
+    },
+    "RoYEDQ": {
+        "en-US": "Tilling: You’ve got it rough too.",
+        "pt-BR": "Tilling: Você também trabalha duro, hein.",
+        "es-ES": "Tilling: Usted también está pasando por mucho, ¿eh?"
+    },
+    "R4YEDQ": {
+        "en-US": "Tilling: A flower delivery? Who could it be? I’ll accept it for now, but if it’s not mine, you have to come get it back later. Understood?",
+        "pt-BR": "Tilling: Entrega de flores? Quem será? Vou aceitar por enquanto, mas, se não for para mim, vai ter que vir buscar depois. Entendeu?",
+        "es-ES": "Tilling: ¿Una entrega de flores? ¿De quién será? De momento la aceptaré, pero si no es para mí, tendrá que venir a buscarla. ¿Entendido?"
+    },
+    "SIYEDQ": {
+        "en-US": "Tilling: No matter how I think about it, it doesn’t feel like mine, but well, the flowers are pretty anyway.",
+        "pt-BR": "Tilling: Por mais que eu pense, acho que isso não é meu. Mas, mesmo assim, a flor é bonita.",
+        "es-ES": "Tilling: Por más que lo piense, no creo que sea para mí, pero bueno, la flor es bonita."
+    },
+    "SYYEDQ": {
+        "en-US": "Tilling: Hello~ This is Rachel Weapon Shop, proud of its long-standing tradition. Ah right! It was break time just now.",
+        "pt-BR": "Tilling: Olá~ esta é a tradicional loja de armas de Rachel, com uma longa história. Ah, é verdade! Agora é o horário de descanso.",
+        "es-ES": "Tilling: ¡Hola~! Esta es la histórica tienda de armas de Rachel. Ah, claro. Ahora estoy en mi descanso."
+    },
+    "SoYEDQ": {
+        "en-US": "Tilling: If it really isn’t mine, you’ll have to come back for it later. It would be so sad not to receive such pretty flowers.",
+        "pt-BR": "Tilling: Se realmente não for para mim, então vai ter que vir buscar depois. Seria muito triste não poder receber uma flor tão bonita.",
+        "es-ES": "Tilling: Si de verdad no es para mí, tendrá que venir luego a recogerla. Sería muy triste quedarme sin una flor tan bonita."
+    },
+    "S4YEDQ": {
+        "en-US": "[Tilling]\nHello~ This is Rachel Weapon Shop, proud of its long-standing tradition. Ah right! It was break time just now.",
+        "pt-BR": "[Tilling]\nOlá~ esta é a tradicional loja de armas de Rachel, com uma longa história. Ah, é verdade! Agora é o horário de descanso.",
+        "es-ES": "[Tilling]\n¡Hola~! Esta es la histórica tienda de armas de Rachel. Ah, claro. Ahora estoy en mi descanso."
+    },
+    "TIYEDQ": {
+        "en-US": "Telling",
+        "pt-BR": "Telling",
+        "es-ES": "Telling"
+    },
+    "TYYEDQ": {
+        "en-US": "Telling: Oh my! I know I’m being silly, but isn’t a flower gift just so romantic?",
+        "pt-BR": "Telling: Ai, nossa! Eu sei que estou sendo boba, mas presentes de flores não são algo muito romântico?",
+        "es-ES": "Telling: Ay, por favor. Ya sé que parezco ridícula, pero ¿no le parece muy romántico que te regalen flores?"
+    },
+    "ToYEDQ": {
+        "en-US": "Telling: So it’s not romantic, then. What a dry person you are.",
+        "pt-BR": "Telling: Então não acha romântico. Como você é uma pessoa seca.",
+        "es-ES": "Telling: Así que no le parece romántico. Qué persona tan seca."
+    },
+    "T4YEDQ": {
+        "en-US": "Telling: Sorry, but that’s not the flower. Who would accept a flower from an unknown source?",
+        "pt-BR": "Telling: Desculpe, mas essa não é a flor. Quem aceitaria uma flor de origem desconhecida?",
+        "es-ES": "Telling: Lo siento, pero esa no es la flor. ¿Quién va a aceptar una flor cuyo origen desconoce?"
+    },
+    "UIYEDQ": {
+        "en-US": "Telling: Oh! Heh! Gasp! Ah.. how embarrassing.",
+        "pt-BR": "Telling: Eh! Hm! Ah! Ah.. que vergonha.",
+        "es-ES": "Telling: ¡Eh! ¡Je! ¡Ay! Ah... qué vergüenza."
+    },
+    "UYYEDQ": {
+        "en-US": "Telling: Here, just take it and go already. I’m dying of embarrassment.",
+        "pt-BR": "Telling: Tome, pegue logo e vá embora. Estou morrendo de vergonha.",
+        "es-ES": "Telling: Toma, recíbela rápido y váyase ya. Me muero de la vergüenza."
+    },
+    "UoYEDQ": {
+        "en-US": "Telling: Why are you still here? I told you I’m embarrassed.",
+        "pt-BR": "Telling: Por que ainda não foi? Estou dizendo que estou com vergonha.",
+        "es-ES": "Telling: ¿Por qué sigue aquí? Ya le he dicho que me da vergüenza."
+    },
+    "U4YEDQ": {
+        "en-US": "Telling: In this dry desert city, isn’t the gift of a vivid fresh flower romantic?",
+        "pt-BR": "Telling: Neste deserto seco, um presente de flores frescas e vivas não é algo romântico?",
+        "es-ES": "Telling: ¿No le parece romántico que, en una ciudad desértica tan árida, alguien te regale una flor natural tan viva?"
+    },
+    "VIYEDQ": {
+        "en-US": "Telling: Nice to meet you. I’m Telling. Why did you come looking for me?",
+        "pt-BR": "Telling: Prazer. Eu sou Telling. Por que veio me procurar?",
+        "es-ES": "Telling: Encantada. Me llamo Telling. ¿Por qué ha venido a buscarme?"
+    },
+    "VYYEDQ": {
+        "en-US": "Telling: I suppose you got the wrong person. I understand. There are just too many people in the world with similar names.",
+        "pt-BR": "Telling: Acho que confundiu a pessoa. Eu entendo. No mundo existem muitos nomes parecidos.",
+        "es-ES": "Telling: Debe de haberse confundido de persona. Lo entiendo. En el mundo hay demasiada gente con nombres parecidos."
+    },
+    "VoYEDQ": {
+        "en-US": "Telling: A flower delivery? Who could it be? Isn’t the sender’s name written there?",
+        "pt-BR": "Telling: Entrega de flores? De quem será? Não tem o nome de quem enviou?",
+        "es-ES": "Telling: ¿Una entrega de flores? ¿Quién será? ¿No pone el nombre de quien las manda?"
+    },
+    "V4YEDQ": {
+        "en-US": "Telling: Here it is. By the way, you’re a quiet one.",
+        "pt-BR": "Telling: Aqui está. Pelo visto, você é uma pessoa de poucas palavras.",
+        "es-ES": "Telling: Aquí tiene. Por cierto, qué callado es usted."
+    },
+    "WIYEDQ": {
+        "en-US": "Telling: There’s a saying in the desert: if it’s hot, go to the shade! Sorry, don’t take it so seriously. I just made that up.",
+        "pt-BR": "Telling: Dizem que, se estiver calor no deserto, vá para a sombra! Desculpe. Não leve isso tão a sério. Acabei de inventar isso agora.",
+        "es-ES": "Telling: Hay un dicho que dice: “Si hace calor en el desierto, busca la sombra”. Lo siento, no lo tome tan en serio. Me lo acabo de inventar ahora mismo."
+    },
+    "WYYEDQ": {
+        "en-US": "Telling: Farewell. And tell the unknown sender that I received the flowers well.",
+        "pt-BR": "Telling: Vá com cuidado, e diga à pessoa desconhecida que recebi bem as flores.",
+        "es-ES": "Telling: Que le vaya bien. Y dígale a esa persona desconocida que he recibido bien las flores."
+    },
+    "WoYEDQ": {
+        "en-US": "[Telling]\nThere’s a saying in the desert: if it’s hot, go to the shade! Sorry, don’t take it so seriously. I just made that up.",
+        "pt-BR": "[Telling]\nDizem que, se estiver calor no deserto, vá para a sombra! Desculpe. Não leve isso tão a sério. Acabei de inventar isso agora.",
+        "es-ES": "[Telling]\nHay un dicho que dice: “Si hace calor en el desierto, busca la sombra”. Lo siento, no lo tome tan en serio. Me lo acabo de inventar ahora mismo."
+    },
+    "W4YEDQ": {
+        "en-US": "Sheil",
+        "pt-BR": "Sheil",
+        "es-ES": "Sheil"
+    },
+    "XIYEDQ": {
+        "en-US": "Sheil: You look like an outsider, so are you here to deliver flowers by any chance? Someone I know contacted me about it.",
+        "pt-BR": "Sheil: Parece ser de fora. Por acaso veio fazer uma entrega de flores? Recebi aviso de alguém conhecido.",
+        "es-ES": "Sheil: Parece forastero, ¿ha venido a entregar flores, quizá? Es que una persona conocida me avisó."
+    },
+    "XYYEDQ": {
+        "en-US": "Sheil: So you’re not.",
+        "pt-BR": "Sheil: Então não era você.",
+        "es-ES": "Sheil: Ah, así que no era usted."
+    },
+    "XoYEDQ": {
+        "en-US": "Sheil: As far as I know, that won’t be the flower. I heard the name of the person making the delivery would be written on it? I think so.",
+        "pt-BR": "Sheil: Pelo que sei, essa não deve ser a flor certa. Disseram que nela estaria escrito o nome da pessoa que entrega, ou algo assim.",
+        "es-ES": "Sheil: Según tengo entendido, esa no es la flor. ¿No dijo que tendría escrito el nombre de quien la reparte? Creo que sí."
+    },
+    "X4YEDQ": {
+        "en-US": "Sheil: Yes, yes! I’m Sheil, that’s right.",
+        "pt-BR": "Sheil: Sim, sim! Eu sou Sheil.",
+        "es-ES": "Sheil: ¡Sí, sí! Yo soy Sheil."
+    },
+    "YIYEDQ": {
+        "en-US": "Sheil: But you really did well finding your way all the way out to this remote place.",
+        "pt-BR": "Sheil: Mas até que conseguiu chegar muito bem a um lugar tão isolado.",
+        "es-ES": "Sheil: Pero tiene mérito haber encontrado un lugar tan apartado como este."
+    },
+    "YYYEDQ": {
+        "en-US": "Sheil: Wow, even though this Half Flower was picked, it still looks so fresh. I heard there are not many who know how to handle it, so whoever did this is quite skilled.",
+        "pt-BR": "Sheil: Uau, veja só, mesmo depois de cortada, esta Flor Bicolor continua viva. Pelo que sei, poucas pessoas sabem lidar com ela, então quem fez isso é muito habilidoso.",
+        "es-ES": "Sheil: Vaya, mire lo fresca que está esta Media Flor incluso cortada. Tengo entendido que casi nadie sabe manejarla bien, así que quien la haya preparado tiene mucha habilidad."
+    },
+    "YoYEDQ": {
+        "en-US": "Sheil: If the person delivering flowers looks for Sheil, please send them to me.",
+        "pt-BR": "Sheil: Se a pessoa que entrega flores estiver procurando por Sheil, mande-a até mim.",
+        "es-ES": "Sheil: Si la persona que trae las flores busca a Sheil, envíela conmigo."
+    },
+    "Y4YEDQ": {
+        "en-US": "Sheil: An outsider? Is that it? What brings you to this remote village?",
+        "pt-BR": "Sheil: Então você é um forasteiro? O que veio fazer até esta vila isolada?",
+        "es-ES": "Sheil: ¿Un forastero? ¿Verdad? ¿Qué le trae hasta un pueblo tan apartado?"
+    },
+    "ZIYEDQ": {
+        "en-US": "Sheil: You’re quite a strange person.",
+        "pt-BR": "Sheil: Que pessoa estranha.",
+        "es-ES": "Sheil: Qué persona tan curiosa."
+    },
+    "ZYYEDQ": {
+        "en-US": "Sheil: Flowers? Looking at them, they’re Half Flowers, right? But who would have sent these?",
+        "pt-BR": "Sheil: Flores? Por essa flor, vejo que é uma Flor Bicolor. Mas quem teria enviado isso?",
+        "es-ES": "Sheil: ¿Flores? ¿Entonces viendo esta flor, será una Media Flor? Pero ¿quién habrá enviado esto?"
+    },
+    "ZoYEDQ": {
+        "en-US": "Sheil: Who could it be? The one who sent these flowers?",
+        "pt-BR": "Sheil: Quem será? Quem enviou esta flor?",
+        "es-ES": "Sheil: ¿Quién será? ¿Quién habrá enviado esta flor?"
+    },
+    "Z4YEDQ": {
+        "en-US": "Sheil: I came here because I felt stifled and wanted somewhere with no one around, yet someone is here too.",
+        "pt-BR": "Sheil: Vim até aqui porque queria ficar em um lugar sem ninguém, mas parece que até aqui há alguém.",
+        "es-ES": "Sheil: He venido a un sitio donde no hubiera nadie porque me sentía agobiada, y resulta que aquí también hay alguien."
+    },
+    "aIYEDQ": {
+        "en-US": "Sheil: This Half Flower still looks fresh even after being picked? Whoever handled it is quite skilled.",
+        "pt-BR": "Sheil: Mesmo cortada, esta Flor Bicolor continua fresca. Quem quer que tenha sido, é alguém muito talentoso.",
+        "es-ES": "Sheil: Esta Media Flor sigue fresca incluso cortada, ¿verdad? Sea quien sea quien la haya preparado, tiene talento."
+    },
+    "aYYEDQ": {
+        "en-US": "[Sheil]\nI came here because I felt stifled and wanted somewhere with no one around, yet someone is here too.",
+        "pt-BR": "[Sheil]\nVim até aqui porque queria ficar em um lugar sem ninguém, mas parece que até aqui há alguém.",
+        "es-ES": "[Sheil]\nHe venido a un sitio donde no hubiera nadie porque me sentía agobiada, y resulta que aquí también hay alguien."
+    },
+    "aoYEDQ": {
+        "en-US": "Seil",
+        "pt-BR": "Seil",
+        "es-ES": "Seil"
+    },
+    "a4YEDQ": {
+        "en-US": "Seil: Ooohong! The elder said they would send flowers, but I wonder if they’ll really be able to find their way here?",
+        "pt-BR": "Seil: Oohong! Disseram que o senhor ia mandar flores, mas será que vão conseguir chegar até aqui?",
+        "es-ES": "Seil: ¡Oh, oh, oh! Dijo que me mandaría flores, pero ¿podrá llegar hasta aquí?"
+    },
+    "bIYEDQ": {
+        "en-US": "Seil: Ooohong! It’s okay. It’s okay!",
+        "pt-BR": "Seil: Oohong! Tudo bem. Tudo bem!",
+        "es-ES": "Seil: ¡Oh, oh, oh! Está bien. ¡Está bien!"
+    },
+    "bYYEDQ": {
+        "en-US": "Seil: That’s not the flower, ooohong!",
+        "pt-BR": "Seil: Acho que não é essa flor, oohong!",
+        "es-ES": "Seil: ¿No será esa la flor? ¡Oh, oh, oh!"
+    },
+    "boYEDQ": {
+        "en-US": "Seil: Ooohong, nice. Nice.",
+        "pt-BR": "Seil: Oohong, ótimo. Ótimo.",
+        "es-ES": "Seil: ¡Oh, oh, oh! Qué bien. Qué bien."
+    },
+    "b4YEDQ": {
+        "en-US": "Seil: It has already been quite a while since I stopped working at that household, yet they still remember and send me a gift. They truly are an impressive person.",
+        "pt-BR": "Seil: Já faz bastante tempo que deixei de trabalhar naquela casa, e ainda assim não se esqueceu de mim e até enviou um presente. É realmente uma pessoa impressionante.",
+        "es-ES": "Seil: Hace ya bastante que dejé de trabajar en aquella casa, y aun así no se ha olvidado de mí y hasta me manda un regalo. Qué persona tan extraordinaria."
+    },
+    "cIYEDQ": {
+        "en-US": "Seil: It was easier when I was earning money at that household, but ooohong! What a shame.",
+        "pt-BR": "Seil: Na época em que eu trabalhava naquela casa, ganhar dinheiro era mais fácil, mas oohong! Que pena.",
+        "es-ES": "Seil: Cuando ganaba dinero en aquella casa estaba más cómoda, pero ¡oh, oh, oh!, qué pena."
+    },
+    "cYYEDQ": {
+        "en-US": "Seil: The flower delivery definitely can’t find its way here. To think it still hasn’t come.",
+        "pt-BR": "Seil: Com certeza a entrega de flores não está conseguindo encontrar este lugar. Não imaginei que demoraria tanto.",
+        "es-ES": "Seil: Está clarísimo que la entrega de flores no consigue encontrar este lugar. No esperaba que tardara tanto."
+    },
+    "coYEDQ": {
+        "en-US": "Seil: Ooohong! The weather is nice today, right? Welcome to Gray Wolf Village.",
+        "pt-BR": "Seil: Oohong! O tempo está bom hoje, não é? Bem-vindo a Aldeia do Lobo Cinzento.",
+        "es-ES": "Seil: ¡Oh, oh, oh! Hace buen tiempo hoy, ¿verdad? Bienvenido a Pueblo del Lobo Gris."
+    },
+    "c4YEDQ": {
+        "en-US": "Seil: Oh my! Ooohong, who could it be? My husband wouldn’t have that kind of thoughtfulness.",
+        "pt-BR": "Seil: Nossa! Oohong, quem será? Meu marido não teria esse tipo de delicadeza.",
+        "es-ES": "Seil: ¡Madre mía! ¡Oh, oh, oh! ¿Quién habrá sido? Mi marido no tiene ese tipo de detalles."
+    },
+    "dIYEDQ": {
+        "en-US": "Seil: Ooohong! Thank you. What a surprise, even flower deliveries come here.",
+        "pt-BR": "Seil: Oohong! Obrigada. Que raro, até entrega de flores chegou aqui.",
+        "es-ES": "Seil: ¡Oh, oh, oh! Muchas gracias. Qué raro, hasta me llega una entrega de flores."
+    },
+    "dYYEDQ": {
+        "en-US": "Seil: Ooohong! Welcome to Gray Wolf Village.",
+        "pt-BR": "Seil: Oohong! Bem-vindo a Aldeia do Lobo Cinzento.",
+        "es-ES": "Seil: ¡Oh, oh, oh! Bienvenido a Pueblo del Lobo Gris."
+    },
+    "doYEDQ": {
+        "en-US": "Seil: Ooohong! Such a fresh Half Flower, even after being picked? Whoever gathered it must be quite skillful.",
+        "pt-BR": "Seil: Oohong! Uma Flor Bicolor tão viva assim… será que foi colhida por alguém muito habilidoso?",
+        "es-ES": "Seil: ¡Oh, oh, oh! Una Media Flor tan fresca como esta... ¿será que la ha recolectado alguien con mucha maña?"
+    },
+    "d4YEDQ": {
+        "en-US": "[Seil]\nOoohong! Welcome to Gray Wolf Village.",
+        "pt-BR": "[Seil]\nOohong! Bem-vindo a Aldeia do Lobo Cinzento.",
+        "es-ES": "[Seil]\n¡Oh, oh, oh! Bienvenido a Pueblo del Lobo Gris."
+    }
+}

@@ -1,191 +1,162 @@
 {
     "IB3PDA": {
-        "ko-KR": "1",
         "en-US": "1",
         "pt-BR": "1",
         "es-ES": "1"
     },
     "IR3PDA": {
-        "ko-KR": "[시간의 관리자]\n190722 보스 맥페 추가패치",
         "en-US": "[Time Administrator]\n190722 Boss HP Bar Additional Patch",
         "pt-BR": "[Administrador do Tempo]\n190722 Patch adicional de mecânica do chefe",
         "es-ES": "[Administrador del Tiempo]\n190722 Parche adicional de límite de daño del jefe"
     },
     "Ih3PDA": {
-        "ko-KR": "100",
         "en-US": "100",
         "pt-BR": "100",
         "es-ES": "100"
     },
     "Ix3PDA": {
-        "ko-KR": "히멜메즈의 환영",
         "en-US": "Illusion of Himmelmez",
         "pt-BR": "Miragem de Himmelmez",
         "es-ES": "Ilusión de Himmelmez"
     },
     "JB3PDA": {
-        "ko-KR": "암다라이스의 환영",
         "en-US": "Phantom of Amdarais",
         "pt-BR": "Miragem de Amdarais",
         "es-ES": "Fantasma de Amdarais"
     },
     "JR3PDA": {
-        "ko-KR": "오스카: (아, 좀 더 신나게 패도 되려나?)",
         "en-US": "Oscar: (Ah, maybe I can hit it a bit harder?)",
         "pt-BR": "Oscar: Ah, será que isso bate com mais força?",
         "es-ES": "Oscar: (Ah, ¿podría golpear un poco más fuerte?)"
     },
     "Jh3PDA": {
-        "ko-KR": "오스카: (얘, 더 때리면 화낼거같아...)",
         "en-US": "Oscar: (Hey, I think it might get angry if we hit it any more...)",
         "pt-BR": "Oscar: Ei, acho que vai piorar se eu bater mais...",
         "es-ES": "Oscar: (Oye, si le pego más parece que se va a enfadar...)"
     },
     "Jx3PDA": {
-        "ko-KR": "#grn_1",
         "en-US": "#grn_1",
         "pt-BR": "#grn_1",
         "es-ES": "#grn_1"
     },
     "KB3PDA": {
-        "ko-KR": "#grn_2",
         "en-US": "#grn_2",
         "pt-BR": "#grn_2",
         "es-ES": "#grn_2"
     },
     "KR3PDA": {
-        "ko-KR": "#grn_3",
         "en-US": "#grn_3",
         "pt-BR": "#grn_3",
         "es-ES": "#grn_3"
     },
     "Kh3PDA": {
-        "ko-KR": "#grn_4",
         "en-US": "#grn_4",
         "pt-BR": "#grn_4",
         "es-ES": "#grn_4"
     },
     "Kx3PDA": {
-        "ko-KR": "#grn_5",
         "en-US": "#grn_5",
         "pt-BR": "#grn_5",
         "es-ES": "#grn_5"
     },
     "LB3PDA": {
-        "ko-KR": "#grn_6",
         "en-US": "#grn_6",
         "pt-BR": "#grn_6",
         "es-ES": "#grn_6"
     },
     "LR3PDA": {
-        "ko-KR": "#grn_7",
         "en-US": "#grn_7",
         "pt-BR": "#grn_7",
         "es-ES": "#grn_7"
     },
     "Lh3PDA": {
-        "ko-KR": "#grn_8",
         "en-US": "#grn_8",
         "pt-BR": "#grn_8",
         "es-ES": "#grn_8"
     },
     "Lx3PDA": {
-        "ko-KR": "#grn_9",
         "en-US": "#grn_9",
         "pt-BR": "#grn_9",
         "es-ES": "#grn_9"
     },
     "MB3PDA": {
-        "ko-KR": "#grn_10",
         "en-US": "#grn_10",
         "pt-BR": "#grn_10",
         "es-ES": "#grn_10"
     },
     "MR3PDA": {
-        "ko-KR": "#grn_11",
         "en-US": "#grn_11",
         "pt-BR": "#grn_11",
         "es-ES": "#grn_11"
     },
     "Mh3PDA": {
-        "ko-KR": "#grn_12",
         "en-US": "#grn_12",
         "pt-BR": "#grn_12",
         "es-ES": "#grn_12"
     },
     "Mx3PDA": {
-        "ko-KR": "#grn_13",
         "en-US": "#grn_13",
         "pt-BR": "#grn_13",
         "es-ES": "#grn_13"
     },
     "NB3PDA": {
-        "ko-KR": "#grn_14",
         "en-US": "#grn_14",
         "pt-BR": "#grn_14",
         "es-ES": "#grn_14"
     },
     "NR3PDA": {
-        "ko-KR": "#grn_15",
         "en-US": "#grn_15",
         "pt-BR": "#grn_15",
         "es-ES": "#grn_15"
     },
     "Nh3PDA": {
-        "ko-KR": "#grn_16",
         "en-US": "#grn_16",
         "pt-BR": "#grn_16",
         "es-ES": "#grn_16"
     },
     "Nx3PDA": {
-        "ko-KR": "오스카: {0}이 불러오는 몬스터를 남겨둬선 안돼요. 우릴 사방으로 날려 보낼거예요",
         "en-US": "Oscar: We must not leave the monsters summoned by {0}. They will scatter us in every direction.",
         "pt-BR": "Oscar: Não podemos ignorar os monstros da {0}!",
         "es-ES": "Oscar: No deben dejar con vida a los monstruos que invoca {0}. Nos lanzarán por todas partes."
     },
     "OB3PDA": {
-        "ko-KR": "과거의 환영#",
         "en-US": "Illusion of the Past#",
         "pt-BR": "Khalitzburg do Passado#",
         "es-ES": "Ilusión del pasado#"
     },
     "OR3PDA": {
-        "ko-KR": "새로운 주인을 위해...",
         "en-US": "For the new master...",
         "pt-BR": "Por um novo mestre...",
         "es-ES": "Para el nuevo amo..."
     },
     "Oh3PDA": {
-        "ko-KR": "0",
         "en-US": "0",
         "pt-BR": "0",
         "es-ES": "0"
     },
     "Ox3PDA": {
-        "ko-KR": "잊혀진 환영#",
         "en-US": "Forgotten Illusion#",
         "pt-BR": "Cavaleiro Deprimido#",
         "es-ES": "Ilusión olvidada#"
     },
     "PB3PDA": {
-        "ko-KR": "나는 잊혀진 자....",
         "en-US": "I am the forgotten one....",
         "pt-BR": "Eu fui esquecido por todos....",
         "es-ES": "Soy el olvidado..."
     },
     "PR3PDA": {
-        "ko-KR": "저주받은 환영#",
         "en-US": "Cursed Illusion#",
         "pt-BR": "Arqueiro Amaldiçoado#",
         "es-ES": "Ilusión de maldito#"
     },
     "Ph3PDA": {
-        "ko-KR": "죽어라...",
         "en-US": "Die...",
         "pt-BR": "Morra...",
         "es-ES": "¡Muere..."
     },
     "Px3PDA": {
-        "ko-KR": "오스카: {0}이 불러오는 몬스터를 남겨둬선 안돼요. 우릴 사방으로 날려 보낼거예요"
+        "en-US": "Oscar: {0} must not leave any monsters summoned. They'll blow us all over the place.",
+        "pt-BR": "Oscar: {0} não deve deixar nenhum monstro invocado. Eles vão nos explodir para todo lado.",
+        "es-ES": "Oscar: {0} no debe dejar ningún monstruo invocado. Nos harán volar por todas partes."
     }
 }

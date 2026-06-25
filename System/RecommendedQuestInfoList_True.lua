@@ -61,5 +61,28 @@ RecommendedQuestInfoList = {
 		QuestInfo3 = {
 			"^ff0000× Esta página é uma introdução de atualização, não uma missão. Não será removida após a conclusão.^000000"
 		}
+	},
+	[80] = {
+		Title = "Episódio 18 A direção da oração",
+		IconName = "ico_ep.bmp",
+		Summary = "O que está acontecendo em Rachel?",
+		NpcSpr = "4_EP17_TABLET",
+		NpcNavi = "ba_in01",
+		NpcPosX = 26,
+		NpcPosY = 266,
+		BgName = "reco_80.bmp",
+		QuestInfo1 = {
+			"A análise do sinal do dirigível, que vinha se arrastando, finalmente terminou!",
+			"Parece que os remanescentes de Ilusión estão tramando algo na capital Rachel do Estado Papal de Arunafeltz.",
+			"Eli decide ir pessoalmente a Rachel junto com o aventureiro."
+		},
+		QuestInfo2 = {
+			"Pré-requisitos",
+			"Concluir o Episódio ^99000017.2^000000",
+			"Aventureiros de ^990000nível 170 ou superior^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página é uma introdução à atualização, não uma missão. Ela não será removida mesmo após a conclusão da missão.^000000"
+		}
 	}
 }

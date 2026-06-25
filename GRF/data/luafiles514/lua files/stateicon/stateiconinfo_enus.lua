@@ -8213,5 +8213,17 @@ StateIconList_string = {
 				"Reduces Global Cooldown"
 			}
 		}
+	},
+	[EFST_IDs.EFST_BLOCK] = {
+		descript = {
+			{"Blocked"},
+			{"%s"},
+			{
+				"No exp from monsters"
+			},
+			{
+				"No item dropped from monsters"
+			}
+		}
 	}
 }

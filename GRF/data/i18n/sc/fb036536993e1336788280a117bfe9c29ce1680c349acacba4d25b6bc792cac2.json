@@ -1,0 +1,1007 @@
+{
+    "QJIHDQ": {
+        "en-US": "[Time Administrator]\nScenario Mode Input 430",
+        "pt-BR": "[Administrador do Tempo]\nEntrada do Modo Cenário 430",
+        "es-ES": "[Administrador del tiempo]\nEntrada en modo escenario 430"
+    },
+    "QZIHDQ": {
+        "en-US": "For the First Time",
+        "pt-BR": "Pela primeira vez",
+        "es-ES": "Por primera vez"
+    },
+    "QpIHDQ": {
+        "en-US": "To the Assembly Hall",
+        "pt-BR": "Para a sala de reunião",
+        "es-ES": "A la sala de reuniones"
+    },
+    "Q5IHDQ": {
+        "en-US": "Retrieve Belongings",
+        "pt-BR": "Procurar carga",
+        "es-ES": "Buscar equipaje"
+    },
+    "RJIHDQ": {
+        "en-US": "Remove Prerequisite Quest",
+        "pt-BR": "Remover pré-missão",
+        "es-ES": "Eliminar misión previa"
+    },
+    "RZIHDQ": {
+        "en-US": "Add Prerequisite Quest",
+        "pt-BR": "Adicionar pré-missão",
+        "es-ES": "Añadir misión previa"
+    },
+    "RpIHDQ": {
+        "en-US": "^0000FFThe withered tree seems to speak of the harshness of the surrounding environment.^000000",
+        "pt-BR": "^0000FFA árvore ressequida parece mostrar a aridez do ambiente ao redor.^000000",
+        "es-ES": "^0000FFEl árbol marchito parece hablar de lo estéril del entorno.^000000"
+    },
+    "R5IHDQ": {
+        "en-US": "Hazar",
+        "pt-BR": "Hazar",
+        "es-ES": "Hazar"
+    },
+    "SJIHDQ": {
+        "en-US": "Hazar#ep18_1",
+        "pt-BR": "Hazar#ep18_1",
+        "es-ES": "Hazar#ep18_1"
+    },
+    "SZIHDQ": {
+        "en-US": "Kamil#ep18_1",
+        "pt-BR": "Kamil#ep18_1",
+        "es-ES": "Kamil#ep18_1"
+    },
+    "SpIHDQ": {
+        "en-US": "^0000FFAn elderly man is scolding a young man.^000000",
+        "pt-BR": "^0000FFUm velho ancião está repreendendo um jovem.^000000",
+        "es-ES": "^0000FFUn anciano está regañando a un joven.^000000"
+    },
+    "S5IHDQ": {
+        "en-US": "Did I or did I not tell you that I must depart on the caravan today?",
+        "pt-BR": "Eu não disse ou não disse que a caravana devia partir hoje?",
+        "es-ES": "¿Te dije o no te dije que hoy debía partir con la caravana?"
+    },
+    "TJIHDQ": {
+        "en-US": "You did.",
+        "pt-BR": "Disse sim.",
+        "es-ES": "Sí, me lo dijo."
+    },
+    "TZIHDQ": {
+        "en-US": "Then what is the state of this cart? There is a crack in the wheel. Or did you replace it with a new one and my old eyes simply fail to see it?",
+        "pt-BR": "Então o que é esse estado da carroça? A roda está rachada. Ou será que você a trocou por uma nova e meus olhos velhos já não conseguem ver?",
+        "es-ES": "Entonces, ¿qué es este estado de la carreta? La rueda está agrietada. ¿O es que tú la cambiaste por una nueva y mis viejos ojos no son capaces de verla?"
+    },
+    "TpIHDQ": {
+        "en-US": "I’m sorry! I tried to find a replacement wheel in haste, but there was no spare...",
+        "pt-BR": "Perdão! Procurei uma roda nova às pressas, mas não havia nenhuma de reserva...",
+        "es-ES": "¡Lo siento! He intentado encontrar una rueda nueva con urgencia, pero no había repuestos..."
+    },
+    "T5IHDQ": {
+        "en-US": "There should be 30 bundles of leather among the caravan goods. I do not see them either. Is that also my eyes failing me?",
+        "pt-BR": "Deveriam haver 30 fardos de couro entre os itens da caravana. Também não os vejo. Será que isso também é problema dos meus olhos?",
+        "es-ES": "Debería haber 30 fardos de cuero entre las mercancías de la caravana. Tampoco los veo. ¿Es también problema de mis ojos?"
+    },
+    "UJIHDQ": {
+        "en-US": "Gasp!",
+        "pt-BR": "Ah!",
+        "es-ES": "¡Ah!"
+    },
+    "UZIHDQ": {
+        "en-US": "And where has the pack animal that pulls the cart gone? It seems I have grown old enough to retire. I see nothing in front of the cart.",
+        "pt-BR": "E onde foi parar o animal de carga que vai puxar a carroça? Parece que fiquei velho demais e já está na hora de me aposentar. Não vejo nada na frente da carroça.",
+        "es-ES": "¿Y dónde está la bestia de carga que debe tirar de la carreta? Parece que ya estoy tan viejo que debería retirarme. Delante de la carreta no veo nada."
+    },
+    "UpIHDQ": {
+        "en-US": "I’m sorry! It should arrive soon!!",
+        "pt-BR": "Desculpe! Ela deve chegar a qualquer momento!!",
+        "es-ES": "¡Lo siento, llegará enseguida!"
+    },
+    "U5IHDQ": {
+        "en-US": "Have you recruited anyone to serve as a guard? Why do I see no one? Surely you do not intend to lead this entire caravan alone?",
+        "pt-BR": "Recrutou alguém para servir de guarda? Por que não vejo ninguém? Não me diga que pretende conduzir essa carroça sozinho!",
+        "es-ES": "¿Has reclutado a alguien para usarlo como guardaespaldas? ¿Cómo es que no se ve a nadie? No me digas que piensas llevar tú solo toda esta carreta."
+    },
+    "VJIHDQ": {
+        "en-US": "That is... Master, I tried recruiting after the caravan was decided, but no one volunteered.",
+        "pt-BR": "É que... mestre, tentei recrutar gente desde que a caravana foi decidida, mas ninguém se voluntariou.",
+        "es-ES": "Es que... maestro, desde que se decidió la caravana he intentado reclutar gente, pero nadie se ha ofrecido."
+    },
+    "VZIHDQ": {
+        "en-US": "You have no intention of setting out on this caravan, Kamil... What are you thinking?",
+        "pt-BR": "Você não tem intenção de partir com a caravana, Kamil... no que está pensando?",
+        "es-ES": "No tienes intención de partir con la caravana, Kamil... ¿Qué estás pensando?"
+    },
+    "VpIHDQ": {
+        "en-US": "......",
+        "pt-BR": "......",
+        "es-ES": "......"
+    },
+    "V5IHDQ": {
+        "en-US": "I will later question you strictly regarding your negligence in preparation, but for now let us speak of reality.",
+        "pt-BR": "Vou cobrar severamente depois por essa negligência nos preparativos, mas primeiro vamos falar do que é prático.",
+        "es-ES": "Ya te pediré cuentas más tarde por lo descuidado de los preparativos de la caravana, pero por ahora hablemos de lo práctico."
+    },
+    "WJIHDQ": {
+        "en-US": "The trading date is already set, and the caravan must depart. We must resolve the cart wheel and the missing goods. How do you intend to handle this?",
+        "pt-BR": "A data da negociação já foi marcada, e a carroça da caravana precisa partir. Temos de resolver a roda e os itens faltando. Como pretende fazer isso?",
+        "es-ES": "La fecha del trato ya está fijada y la carreta de la caravana debe partir. Habrá que resolver lo de la rueda y la falta de mercancías. ¿Cómo piensas solucionarlo?"
+    },
+    "WZIHDQ": {
+        "en-US": "F... First, I will work on meeting the leather quota! I have already sent someone for the pack animal, so it should be ready soon!",
+        "pt-BR": "E-eu... por enquanto vou cuidar de completar a quantidade de couro! Já mandei alguém buscar a besta de carga, então ela deve estar pronta logo.",
+        "es-ES": "Y-yo primero me encargaré de completar la cantidad de cuero. Ya he enviado a alguien a buscar la bestia de carga, así que estará lista enseguida."
+    },
+    "WpIHDQ": {
+        "en-US": "And what of the cart wheel? It looks like it will collapse before it even moves a few steps.",
+        "pt-BR": "E a roda da carroça? Ela parece prestes a desabar antes mesmo de andar alguns passos.",
+        "es-ES": "¿Y qué vas a hacer con la rueda de la carreta? Parece que ni siquiera aguantará unos pasos antes de venirse abajo."
+    },
+    "W5IHDQ": {
+        "en-US": "Intervene",
+        "pt-BR": "Intervir",
+        "es-ES": "Intervenir"
+    },
+    "XJIHDQ": {
+        "en-US": "Ignore",
+        "pt-BR": "Ignorar",
+        "es-ES": "Ignorar"
+    },
+    "XZIHDQ": {
+        "en-US": "^0000FFThere is nothing to gain from intervening. Let us be on our way.^000000",
+        "pt-BR": "^0000FFMelhor seguir seu caminho. Não vai sair nada de bom de se meter nisso.^000000",
+        "es-ES": "^0000FFAunque intervengas, no saldrá nada bueno, así que será mejor seguir tu camino.^000000"
+    },
+    "XpIHDQ": {
+        "en-US": "Hmm? You’ve been pacing around for a while now. Do you have some business with us? We’re troubled enough with this cart wheel, so do not interfere...",
+        "pt-BR": "Hum? Já faz um tempo que anda indo e vindo e chamando atenção. Tem algum assunto conosco? Já estamos preocupados com essa roda da carroça, então não atrapalhe...",
+        "es-ES": "¿Hm? Lleva un rato yendo y viniendo, llamando la atención. ¿Tiene algún asunto con nosotros? Bastante tenemos ya con esa rueda de la carreta, así que no moleste y..."
+    },
+    "X5IHDQ": {
+        "en-US": "Explain a repair method",
+        "pt-BR": "Explicar o método de reparo",
+        "es-ES": "Explica cómo repararla."
+    },
+    "YJIHDQ": {
+        "en-US": "This. If you reinforce the wheel with strong rope, it should roll somehow.",
+        "pt-BR": "Isto aqui. Se reforçarem a roda com uma corda resistente, ela deve conseguir rodar de algum jeito.",
+        "es-ES": "Esto. Si refuerzan la rueda con una cuerda resistente, de algún modo podría rodar."
+    },
+    "YZIHDQ": {
+        "en-US": "What? A cart wheel isn’t some wooden chair... But... could that actually work?",
+        "pt-BR": "Ora, meu senhor. Uma roda de carroça não é uma cadeira de madeira... mas... talvez seja possível?",
+        "es-ES": "Pero hombre. Una rueda de carreta no es precisamente como una silla de madera... Aunque... ¿podría funcionar?"
+    },
+    "YpIHDQ": {
+        "en-US": "Wouldn’t it be better to at least try?",
+        "pt-BR": "Não acha melhor ao menos tentar?",
+        "es-ES": "¿No sería mejor al menos intentarlo?"
+    },
+    "Y5IHDQ": {
+        "en-US": "It’s impossible after all",
+        "pt-BR": "Melhor não",
+        "es-ES": "Será imposible."
+    },
+    "ZJIHDQ": {
+        "en-US": "^0000FFIt’s best to stop getting too deeply involved here.^000000",
+        "pt-BR": "^0000FFÉ melhor parar por aqui antes de se envolver demais.^000000",
+        "es-ES": "^0000FFSerá mejor dejarlo aquí y no implicarse demasiado.^000000"
+    },
+    "ZZIHDQ": {
+        "en-US": "Adventurer. I am responsible for this caravan. If you can resolve the cart wheel, we will reward you with appropriate experience using our tribe’s tradition.",
+        "pt-BR": "Aventureiro, esta caravana está sob minha responsabilidade. Se puder resolver ao menos a roda da carroça, vou recompensá-lo com uma quantia adequada de experiência, segundo a tradição do nosso clã.",
+        "es-ES": "Aventurero. Yo soy quien está a cargo de esta caravana. Si logra arreglar aunque sea la rueda de la carreta, le daremos una experiencia apropiada con la técnica secreta de nuestra tribu."
+    },
+    "ZpIHDQ": {
+        "en-US": "Deal accepted!",
+        "pt-BR": "Negócio fechado!",
+        "es-ES": "¡Trato hecho!"
+    },
+    "Z5IHDQ": {
+        "en-US": "On second thought, no",
+        "pt-BR": "Acho melhor não",
+        "es-ES": "Al final no va a poder ser."
+    },
+    "aJIHDQ": {
+        "en-US": "^0000FFIt doesn’t seem appealing, and it looks like nothing but trouble ahead. It’s best to stop here.^000000",
+        "pt-BR": "^0000FFNão parece muito atraente, e só dá para ver sofrimento pela frente, então talvez seja melhor parar por aqui.^000000",
+        "es-ES": "^0000FFNo te atrae demasiado y parece que solo te espera sufrimiento, así que probablemente lo mejor sea dejarlo aquí.^000000"
+    },
+    "aZIHDQ": {
+        "en-US": "Thank you. Could you take a look at this cart right here?",
+        "pt-BR": "Muito obrigado. Poderia dar uma olhada nesta carroça?",
+        "es-ES": "Muchas gracias. ¿Le importaría echarle un vistazo a esta carreta?"
+    },
+    "apIHDQ": {
+        "en-US": "Please reinforce the wheel so it can be used for the caravan. I must go check the leather goods again, so I will step away for a moment.",
+        "pt-BR": "Ficarei grato se puder reforçar a roda desta carroça a ponto de ela poder ser usada na caravana. Preciso sair por um instante para verificar novamente o couro que será usado na caravana.",
+        "es-ES": "Le agradecería que reforzara la rueda de esta carreta para que sea apta para usarla en la caravana. Yo tengo que volver a comprobar el cuero que se usará en la caravana, así que me ausentaré un momento."
+    },
+    "a5IHDQ": {
+        "en-US": "Hmm... I do not know if you can truly fix that wheel, but I shall trust you.",
+        "pt-BR": "Hmm... não sei se realmente consegue consertar essa roda, mas vou acreditar em você.",
+        "es-ES": "Mmm, no sé si de verdad podrá arreglar esa rueda, pero confiaré en usted."
+    },
+    "bJIHDQ": {
+        "en-US": "^0000FFHazar looks at you with a favorable gaze.^000000",
+        "pt-BR": "^0000FFHazar olha para você com um olhar favorável.^000000",
+        "es-ES": "^0000FFHazar te mira con ojos amistosos.^000000"
+    },
+    "bZIHDQ": {
+        "en-US": "Oh... You possess quite an interesting skill.",
+        "pt-BR": "Oh... você tem uma habilidade bastante curiosa.",
+        "es-ES": "Oh... parece que tiene usted una habilidad bastante curiosa."
+    },
+    "bpIHDQ": {
+        "en-US": "By the way, has Kamil still not finished organizing?",
+        "pt-BR": "Mas afinal, esse Kamil ainda não terminou de organizar tudo?",
+        "es-ES": "Por cierto, ¿es que ese Kamil todavía no ha terminado de ordenar las cosas?"
+    },
+    "b5IHDQ": {
+        "en-US": "Sir, I have checked all the necessary goods for the caravan. Once we confirm the cart, we can depart...",
+        "pt-BR": "Ancião, confirmei todos os itens necessários para a caravana. Agora, se verificarmos a carroça, já podemos partir...",
+        "es-ES": "Anciano, ya he comprobado todas las mercancías necesarias para la caravana. Ahora, si revisamos la carreta, podremos partir..."
+    },
+    "cJIHDQ": {
+        "en-US": "This Adventurer has taken care of the cart wheel. You should offer your thanks.",
+        "pt-BR": "A roda da carroça foi resolvida por este aventureiro aqui. Vá agradecer a ele.",
+        "es-ES": "La rueda de la carreta la ha arreglado este aventurero. Dale las gracias como es debido."
+    },
+    "cZIHDQ": {
+        "en-US": "Thank you very much, Adventurer. Once I return from the caravan, I will be sure to visit you. May I know your name?",
+        "pt-BR": "Ah, muito obrigado, aventureiro. Quando eu voltar da caravana, vou procurá-lo com certeza. Poderia me dizer seu nome?",
+        "es-ES": "De verdad, muchísimas gracias, aventurero. Cuando regresemos de la caravana, me aseguraré de venir a verle. ¿Podría decirme su nombre?"
+    },
+    "cpIHDQ": {
+        "en-US": "My name is {0}.",
+        "pt-BR": "Meu nome é {0}.",
+        "es-ES": "Mi nombre es {0}."
+    },
+    "c5IHDQ": {
+        "en-US": "We have a long journey ahead, so please depart now.",
+        "pt-BR": "O caminho é longo, então é melhor partir logo.",
+        "es-ES": "Les queda mucho camino, así que será mejor que partan de una vez."
+    },
+    "dJIHDQ": {
+        "en-US": "Indeed. I must depart with the caravan now. I will greet you again upon my return, {0}. Then I shall be off, Master.",
+        "pt-BR": "Tem razão. Então vou partir com a caravana agora. Quando eu voltar, vou agradecê-lo devidamente, Sr. {0}. Então, com licença, ancião.",
+        "es-ES": "Tiene razón. Primero debo partir con la caravana. Cuando regrese, iré a darle las gracias como es debido, señor {0}. Entonces, me marcho, anciano."
+    },
+    "dZIHDQ": {
+        "en-US": "Thank you truly for helping my lacking successor. Though intelligent, Aira tends to overthink, and he has shown an embarrassing side unintentionally.",
+        "pt-BR": "Sou muito grato por ter ajudado meu pupilo tão inexperiente. Aira é brilhante, mas pensa demais, então acabou mostrando um lado constrangedor sem querer.",
+        "es-ES": "Le agradezco sinceramente que haya ayudado a mi inexperto sucesor. Es inteligente, pero piensa demasiado... Aira ha terminado mostrando un lado vergonzoso sin quererlo."
+    },
+    "dpIHDQ": {
+        "en-US": "I cannot be certain whether he will safely complete the caravan. If only my body were in better condition, I would have led it myself.",
+        "pt-BR": "Não posso garantir que esse rapaz conseguirá concluir a caravana em segurança. Se meu corpo estivesse um pouco melhor, eu mesmo a teria liderado.",
+        "es-ES": "No puedo asegurar que ese chico sea capaz de completar la caravana y volver sano y salvo. Si mi cuerpo estuviera un poco mejor, yo mismo la habría dirigido."
+    },
+    "d5IHDQ": {
+        "en-US": "May I call you {0}? If you have the time, could you grant this old man one more favor?",
+        "pt-BR": "Posso chamá-lo de Sr. {0}? Se tiver tempo, poderia atender a mais um pedido deste velho?",
+        "es-ES": "¿Puedo llamarle señor {0}? Si tiene tiempo, ¿podría concederle a este viejo un favor más?"
+    },
+    "eJIHDQ": {
+        "en-US": "Please, go ahead.",
+        "pt-BR": "Diga.",
+        "es-ES": "Dígame."
+    },
+    "eZIHDQ": {
+        "en-US": "That Kamil is leading a caravan for the first time, so I am uneasy in many ways. I even doubt whether he can properly avoid monster attacks.",
+        "pt-BR": "Aquele rapaz, Kamil, está liderando uma caravana pela primeira vez, então fico preocupado com muitas coisas. Tenho dúvidas até se conseguirá evitar um ataque de monstros.",
+        "es-ES": "Ese muchacho, Kamil, dirige una caravana por primera vez, así que me preocupa bastante. Incluso dudo que sea capaz de evitar bien los ataques de monstruos."
+    },
+    "epIHDQ": {
+        "en-US": "So, if possible, could you follow him from a distance and watch over him? I cannot offer much reward, but I ask this of you.",
+        "pt-BR": "Então, será que poderia segui-lo a certa distância e observá-lo por trás? Não posso oferecer grande recompensa, mas lhe peço esse favor.",
+        "es-ES": "Por eso le digo... ¿podría seguirlo discretamente y vigilarlo desde atrás? No puedo ofrecerle una gran recompensa, pero se lo ruego."
+    },
+    "e5IHDQ": {
+        "en-US": "Accept",
+        "pt-BR": "Aceitar",
+        "es-ES": "Aceptar"
+    },
+    "fJIHDQ": {
+        "en-US": "Decline",
+        "pt-BR": "Recusar",
+        "es-ES": "Rechazar"
+    },
+    "fZIHDQ": {
+        "en-US": "[Hazar]\nI see. It cannot be helped. I am sorry for making such a request.",
+        "pt-BR": "[Hazar]\nEntendo. Não há o que fazer. Perdoe-me por ter feito um pedido tão exagerado.",
+        "es-ES": "[Hazar]\nYa veo. No se puede evitar. Perdón por pedirle algo tan difícil."
+    },
+    "fpIHDQ": {
+        "en-US": "Thank you. Truly, thank you, {0}.",
+        "pt-BR": "Obrigado. Muito obrigado, Sr. {0}.",
+        "es-ES": "Gracias. Muchísimas gracias, señor {0}."
+    },
+    "f5IHDQ": {
+        "en-US": "Then I must go attend to my own matters.",
+        "pt-BR": "Então eu também já devo ir cuidar do que preciso fazer.",
+        "es-ES": "Entonces yo también debo irme a ocuparme de lo mío."
+    },
+    "gJIHDQ": {
+        "en-US": "Transport Cart",
+        "pt-BR": "Carroça de transporte",
+        "es-ES": "Carreta de transporte"
+    },
+    "gZIHDQ": {
+        "en-US": "^0000FFIt looks intact, but the cart wheel appears worn.^000000",
+        "pt-BR": "^0000FFEla parece normal, mas a roda da carroça parece velha.^000000",
+        "es-ES": "^0000FFParece en buen estado, pero se ve una rueda vieja.^000000"
+    },
+    "gpIHDQ": {
+        "en-US": "Attempt Repairs",
+        "pt-BR": "Tentar o reparo",
+        "es-ES": "Intentar repararla"
+    },
+    "g5IHDQ": {
+        "en-US": "Stop",
+        "pt-BR": "Parar",
+        "es-ES": "Dejarlo"
+    },
+    "hJIHDQ": {
+        "en-US": "^0000FFLet us come back later when the thought occurs.^000000",
+        "pt-BR": "^0000FFVolte quando tiver vontade.^000000",
+        "es-ES": "^0000FFSerá mejor volver cuando se te ocurra más tarde.^000000"
+    },
+    "hZIHDQ": {
+        "en-US": "^0000FFIt does not seem to be fully reinforced yet. The materials have not been lost, so let us continue trying.^000000",
+        "pt-BR": "^0000FFParece que ainda não foi reforçada direito. Como os materiais não desapareceram, vamos continuar tentando.^000000",
+        "es-ES": "^0000FFParece que todavía no está bien reforzada. Los materiales no han desaparecido, así que sigamos intentándolo.^000000"
+    },
+    "hpIHDQ": {
+        "en-US": "^0000FFRepair successful!^000000",
+        "pt-BR": "^0000FFReparo bem-sucedido!^000000",
+        "es-ES": "^0000FF¡Reparación completada!^000000"
+    },
+    "h5IHDQ": {
+        "en-US": "There are no [<ITEM>materials<INFO>7197</INFO></ITEM>] to reinforce the cart wheel.",
+        "pt-BR": "Você não tem [<ITEM>materiais<INFO>7197</INFO></ITEM>] para reforçar a roda da carroça.",
+        "es-ES": "No tiene [<ITEM>materiales<INFO>7197</INFO></ITEM>] para reforzar la rueda de la carreta."
+    },
+    "iJIHDQ": {
+        "en-US": "Kamil",
+        "pt-BR": "Kamil",
+        "es-ES": "Kamil"
+    },
+    "iZIHDQ": {
+        "en-US": "^0000FFHe seems distracted after being scolded by Hazar.^000000",
+        "pt-BR": "^0000FFParece tão atordoado por estar levando uma bronca de Hazar que mal percebe o que acontece ao redor.^000000",
+        "es-ES": "^0000FFParece demasiado aturdido por la bronca de Hazar.^000000"
+    },
+    "ipIHDQ": {
+        "en-US": "^0000FFMost of the cargo appears to have already been lost.^000000",
+        "pt-BR": "^0000FFParece que a maior parte da carga já foi perdida.^000000",
+        "es-ES": "^0000FFParece que la mayor parte de la carga ya se ha perdido.^000000"
+    },
+    "i5IHDQ": {
+        "en-US": "^0000FFThis is clearly the cart that Kamil led away. Judging by the scattered cargo, something bad must have happened. We should look for Kamil.^000000",
+        "pt-BR": "^0000FFÉ claramente a carroça com a qual Kamil partiu. Pelo estado da carga espalhada por toda parte, é evidente que algo ruim aconteceu. É melhor procurar Kamil.^000000",
+        "es-ES": "^0000FFSin duda es la carreta con la que partió Kamil. Viendo el estado de la carga esparcida por todas partes, está claro que ha ocurrido algo malo. Debes encontrar a Kamil.^000000"
+    },
+    "jJIHDQ": {
+        "en-US": "#ep18_2_mon",
+        "pt-BR": "#ep18_2_mon",
+        "es-ES": "#ep18_2_mon"
+    },
+    "jZIHDQ": {
+        "en-US": "Kamil#ep18_2",
+        "pt-BR": "Kamil#ep18_2",
+        "es-ES": "Kamil#ep18_2"
+    },
+    "jpIHDQ": {
+        "en-US": "^0000FFThe situation does not look good.^000000",
+        "pt-BR": "^0000FFA situação não parece nada boa.^000000",
+        "es-ES": "^0000FFLa situación no parece nada buena.^000000"
+    },
+    "j5IHDQ": {
+        "en-US": "Grrrr...",
+        "pt-BR": "Grrr...",
+        "es-ES": "Grrr..."
+    },
+    "kJIHDQ": {
+        "en-US": "Damn it",
+        "pt-BR": "Droga.",
+        "es-ES": "Maldita sea."
+    },
+    "kZIHDQ": {
+        "en-US": "^0000FFHe looks like he’s about to collapse. He cannot even focus his gaze to attack properly, his eyes darting wildly. He likely won’t last even a second and will end up as wolf fodder.^000000",
+        "pt-BR": "^0000FFEle parece prestes a desabar. Nem consegue fixar o olhar em onde deveria atacar, só fica revirando os olhos desesperadamente. Provavelmente não duraria nem 1 segundo antes de virar comida de lobo.^000000",
+        "es-ES": "^0000FFParece a punto de desplomarse. Ni siquiera puede fijar la vista para decidir dónde atacar y no hace más que mover los ojos frenéticamente. Probablemente no aguantará ni un segundo antes de acabar convertido en comida blanda para lobos.^000000"
+    },
+    "kpIHDQ": {
+        "en-US": "Give combat advice to Kamil",
+        "pt-BR": "Dar conselhos de combate a Kamil",
+        "es-ES": "Dar consejos de combate a Kamil."
+    },
+    "k5IHDQ": {
+        "en-US": "Defeat the wolves directly",
+        "pt-BR": "Eliminar o lobo diretamente",
+        "es-ES": "Encargarte tú mismo del lobo."
+    },
+    "lJIHDQ": {
+        "en-US": "Ignore and pass by",
+        "pt-BR": "Fingir que não viu e seguir em frente",
+        "es-ES": "Pasar de largo."
+    },
+    "lZIHDQ": {
+        "en-US": "^0000FFNo... perhaps it is better to let Kamil grow on his own and only assist from the side...^000000",
+        "pt-BR": "^0000FFNão... talvez, nesta oportunidade, o certo seja apenas ajudá-lo ao lado para que Kamil cresça por conta própria...^000000",
+        "es-ES": "^0000FFNo, quizá lo mejor sea limitarse a apoyar desde un lado para que Kamil crezca por sí mismo...^000000"
+    },
+    "lpIHDQ": {
+        "en-US": "^0000FFWe should come back later and at least make a grave for Kamil.^000000",
+        "pt-BR": "^0000FFVolte mais tarde e faça um túmulo para Kamil.^000000",
+        "es-ES": "^0000FFVolvamos más tarde y hagámosle una tumba a Kamil.^000000"
+    },
+    "l5IHDQ": {
+        "en-US": "^0000FFWhere should Kamil attack the wolf?^000000",
+        "pt-BR": "^0000FFEm que parte do lobo você deve mandar Kamil atacar?^000000",
+        "es-ES": "^0000FF¿Qué parte del lobo le dirás a Kamil que ataque?^000000"
+    },
+    "mJIHDQ": {
+        "en-US": "Wolf HP - ^FF0000{0}^000000\nKamil HP - ^0000FF{1}^000000",
+        "pt-BR": "Vida do lobo - ^FF0000{0}^000000\nVida de Kamil - ^0000FF{1}^000000",
+        "es-ES": "Vida del lobo - ^FF0000{0}^000000\nVida de Kamil - ^0000FF{1}^000000"
+    },
+    "mZIHDQ": {
+        "en-US": "Timid Attack",
+        "pt-BR": "Ataque tímido",
+        "es-ES": "Ataque tímido"
+    },
+    "mpIHDQ": {
+        "en-US": "Moderate Attack",
+        "pt-BR": "Ataque moderado",
+        "es-ES": "Ataque moderado"
+    },
+    "m5IHDQ": {
+        "en-US": "Strong Attack",
+        "pt-BR": "Ataque forte",
+        "es-ES": "Ataque fuerte"
+    },
+    "nJIHDQ": {
+        "en-US": "Critical Strike",
+        "pt-BR": "Golpe decisivo",
+        "es-ES": "Golpe crítico"
+    },
+    "nZIHDQ": {
+        "en-US": "{0}(High Chance)",
+        "pt-BR": "{0}(Chance alta)",
+        "es-ES": "{0}(Alta probabilidad)"
+    },
+    "npIHDQ": {
+        "en-US": "{0}(Medium Chance)",
+        "pt-BR": "{0}(Chance média)",
+        "es-ES": "{0}(Probabilidad media)"
+    },
+    "n5IHDQ": {
+        "en-US": "{0}(Low Chance)",
+        "pt-BR": "{0}(chance baixa)",
+        "es-ES": "{0}(Baja probabilidad)"
+    },
+    "oJIHDQ": {
+        "en-US": "{0}(Very Low Chance)",
+        "pt-BR": "{0}(Chance mínima)",
+        "es-ES": "{0}(Probabilidad muy escasa)"
+    },
+    "oZIHDQ": {
+        "en-US": "Make him retreat for now",
+        "pt-BR": "Faça-o fugir primeiro",
+        "es-ES": "Hacer que huya por ahora"
+    },
+    "opIHDQ": {
+        "en-US": "Frustrating, but there is no chance of winning in this state. Let us regroup and try again.",
+        "pt-BR": "É frustrante, mas nas condições atuais não há chance de vitória. Vamos recuar, nos preparar e tentar de novo.",
+        "es-ES": "Aunque frustre, en este estado no hay posibilidades de ganar. Reorganicémonos e inténtelo de nuevo."
+    },
+    "o5IHDQ": {
+        "en-US": "-{0}",
+        "pt-BR": "-{0}",
+        "es-ES": "-{0}"
+    },
+    "pJIHDQ": {
+        "en-US": "^0000FFThe Gray Wolf has been defeated.^000000",
+        "pt-BR": "^0000FFVocê derrotou o Lobo Cinzento.^000000",
+        "es-ES": "^0000FFHas derrotado al Lobo Gris.^000000"
+    },
+    "pZIHDQ": {
+        "en-US": "-{0}",
+        "pt-BR": "-{0}",
+        "es-ES": "-{0}"
+    },
+    "ppIHDQ": {
+        "en-US": "^FF0000This is dangerous!! We must stop the battle and recover Kamil’s HP.^000000",
+        "pt-BR": "^FF0000Perigo!! Interrompa o combate e recupere a vida de Kamil.^000000",
+        "es-ES": "^FF0000¡¡Es peligroso!! Será mejor interrumpir el combate y recuperar la salud de Kamil.^000000"
+    },
+    "p5IHDQ": {
+        "en-US": "Kamil#ep18_2",
+        "pt-BR": "Kamil#ep18_2",
+        "es-ES": "Kamil#ep18_2"
+    },
+    "qJIHDQ": {
+        "en-US": "^0000FFKamil’s body trembles faintly with the aftereffects of battle.^000000",
+        "pt-BR": "^0000FFO corpo de Kamil treme levemente devido à excitação após a batalha.^000000",
+        "es-ES": "^0000FFEl cuerpo de Kamil tiembla levemente por la excitación posterior al combate.^000000"
+    },
+    "qZIHDQ": {
+        "en-US": "Huff... huff...",
+        "pt-BR": "Ofegante... ofegante...",
+        "es-ES": "Jadeo... jadeo..."
+    },
+    "qpIHDQ": {
+        "en-US": "That was quite good movement.",
+        "pt-BR": "Você se moveu muito bem",
+        "es-ES": "Te moviste bastante bien."
+    },
+    "q5IHDQ": {
+        "en-US": "That was terrible. Don’t ever pick up a sword again.",
+        "pt-BR": "Foi péssimo. Não empunhe uma espada novamente.",
+        "es-ES": "Ha sido lamentable. No vuelvas a empuñar una espada."
+    },
+    "rJIHDQ": {
+        "en-US": "No, if it weren’t for your instructions, {0}, I would have been done for.",
+        "pt-BR": "Não, se não fosse pelas instruções de {0}, eu não teria tido chance alguma.",
+        "es-ES": "No, si no hubiera sido por las indicaciones de {0}, me habrían derrotado sin remedio."
+    },
+    "rZIHDQ": {
+        "en-US": "You’re right. I should have learned step by step as Master said...",
+        "pt-BR": "Pois é. Como o ancião disse, eu deveria ter aprendido passo a passo...",
+        "es-ES": "Eso mismo. Tal como dijo el anciano, debí haber aprendido paso a paso..."
+    },
+    "rpIHDQ": {
+        "en-US": "Why did you abandon the cart and come all the way here?",
+        "pt-BR": "Por que você abandonou a carroça e veio até aqui?",
+        "es-ES": "¿Por qué dejaste la carreta y llegaste hasta aquí?"
+    },
+    "r5IHDQ": {
+        "en-US": "I chased after those who scattered in all directions with the trade goods in their mouths. I couldn’t recover everything, but I did salvage some.",
+        "pt-BR": "Enquanto perseguia aqueles que levaram as mercadorias e se espalharam por todos os lados, acabei vindo parar aqui. Não recuperei tudo, mas consegui salvar uma parte.",
+        "es-ES": "Mientras perseguía a esos que mordían las mercancías y se dispersaban en todas direcciones, acabé así. No pude recuperarlo todo, pero al menos rescaté una parte."
+    },
+    "sJIHDQ": {
+        "en-US": "First, I must return the caravan cart to the village. I will gather what remains and accept my punishment.",
+        "pt-BR": "Primeiro, preciso levar a carroça de volta à vila. Vou juntar o que restou e assumir minha culpa.",
+        "es-ES": "Primero tendré que llevar de nuevo la carreta de la caravana al pueblo. Aunque sea, recogeré el equipaje que queda y pediré perdón."
+    },
+    "sZIHDQ": {
+        "en-US": "Isn’t it just an accident? No need to atone to that extent...",
+        "pt-BR": "Não foi apenas um acidente? Não precisa ir tão longe...",
+        "es-ES": "¿No ha sido simplemente un accidente? No es para pedir perdón..."
+    },
+    "spIHDQ": {
+        "en-US": "They were trade goods meant to be exchanged for food and daily necessities that sustain the village for months. My punishment will not be light.",
+        "pt-BR": "Eram mercadorias para trocar por alimentos e suprimentos que sustentariam a vila por meses. Minha culpa não será leve.",
+        "es-ES": "Eran mercancías que debían intercambiarse por alimentos y artículos de primera necesidad para varios meses de sustento del pueblo. Seguramente mi falta no será leve."
+    },
+    "s5IHDQ": {
+        "en-US": "That’s too harsh on the trade leader.",
+        "pt-BR": "Isso é duro demais para o responsável pelo comércio.",
+        "es-ES": "Están siendo demasiado duros con el responsable del comercio."
+    },
+    "tJIHDQ": {
+        "en-US": "Master tried to stop me, but I insisted on leading the caravan. It was not forced upon me, so it is my responsibility.",
+        "pt-BR": "Desde o início, meu mestre me impediu, mas fui eu quem insistiu em liderar a caravana. Não fui forçado, então a responsabilidade é minha.",
+        "es-ES": "Desde el principio, aunque mi maestro me lo impidió, fui yo quien insistió en querer dirigir una caravana. No me obligaron, así que es mi responsabilidad."
+    },
+    "tZIHDQ": {
+        "en-US": "If I had died or fled here, Master would have borne the responsibility. That must never happen.",
+        "pt-BR": "Se eu tivesse morrido ou fugido, meu mestre teria que assumir a responsabilidade. Isso jamais pode acontecer.",
+        "es-ES": "Si yo hubiera muerto aquí o hubiera huido, mi maestro habría tenido que asumir la responsabilidad. Eso jamás puede pasar."
+    },
+    "tpIHDQ": {
+        "en-US": "Do as you wish. It’s your matter.",
+        "pt-BR": "É seu problema, então resolva você mesmo.",
+        "es-ES": "Sí, es asunto tuyo, así que arréglatelas tú."
+    },
+    "t5IHDQ": {
+        "en-US": "How about running away as it is?",
+        "pt-BR": "Que tal fugir assim mesmo?",
+        "es-ES": "¿Qué te parece huir sin más?"
+    },
+    "uJIHDQ": {
+        "en-US": "Are you joking? You might as well tell me to die here.",
+        "pt-BR": "Está brincando? Prefiro que me diga para morrer aqui mesmo.",
+        "es-ES": "¿Está bromeando? Antes dígame que me mate aquí mismo."
+    },
+    "uZIHDQ": {
+        "en-US": "Thank you again for your help. I must now organize the caravan and return. If fate allows, we shall meet again...",
+        "pt-BR": "Agradeço novamente pela ajuda. Agora vou reorganizar a caravana e retornar. Se o destino permitir, nos veremos novamente...",
+        "es-ES": "Le agradezco una vez más su ayuda. Ahora tendré que recoger la caravana y volver. Si el destino nos guía, espero volver a verle..."
+    },
+    "upIHDQ": {
+        "en-US": "You’re still here. I will take my leave first.",
+        "pt-BR": "Você ainda não partiu. Eu irei primeiro.",
+        "es-ES": "Aún no se ha marchado. Yo partiré primero."
+    },
+    "u5IHDQ": {
+        "en-US": "^0000FFHe does not seem to be in a state to properly listen.^000000",
+        "pt-BR": "^0000FFParece que não está em condições de ouvir direito.^000000",
+        "es-ES": "^0000FFParece no encontrarse en condiciones de escuchar correctamente la conversación.^000000"
+    },
+    "vJIHDQ": {
+        "en-US": "^FF0000You seem to be carrying too many types or weight of items. Please organize your inventory.^000000",
+        "pt-BR": "^FF0000Você está carregando itens demais. Organize seu inventário.^000000",
+        "es-ES": "^FF0000Parece que lleva demasiados tipos de objetos o demasiado peso. Por favor, ordene su inventario.^000000"
+    },
+    "vZIHDQ": {
+        "en-US": "^FF0000You are already carrying too many reward items. Please clear them before proceeding.^000000",
+        "pt-BR": "^FF0000Você possui itens de recompensa em excesso. Esvazie-os antes de prosseguir.^000000",
+        "es-ES": "^FF0000Ya posee demasiados objetos de recompensa. Vacíe los objetos de recompensa y vuelva a intentarlo.^000000"
+    },
+    "vpIHDQ": {
+        "en-US": "Hazar#ep18_3",
+        "pt-BR": "Hazar#ep18_3",
+        "es-ES": "Hazar#ep18_3"
+    },
+    "v5IHDQ": {
+        "en-US": "Kamil#ep18_3",
+        "pt-BR": "Kamil#ep18_3",
+        "es-ES": "Kamil#ep18_3"
+    },
+    "wJIHDQ": {
+        "en-US": "Attendee#ep18_31",
+        "pt-BR": "Participante#ep18_31",
+        "es-ES": "Asistente#ep18_31"
+    },
+    "wZIHDQ": {
+        "en-US": "Attendee#ep18_32",
+        "pt-BR": "Participante#ep18_32",
+        "es-ES": "Asistente#ep18_32"
+    },
+    "wpIHDQ": {
+        "en-US": "Attendee#ep18_33",
+        "pt-BR": "Participante#ep18_33",
+        "es-ES": "Asistente#ep18_33"
+    },
+    "w5IHDQ": {
+        "en-US": "^0000FFA meeting of the head of Gray Wolf Village and the merchant leaders is in progress.^000000",
+        "pt-BR": "^0000FFUma reunião entre o administrador da vila dos lobos e os líderes mercantes está em andamento.^000000",
+        "es-ES": "^0000FFSe está celebrando una reunión entre el administrador general del pueblo lobo y los líderes de la compañía mercante.^000000"
+    },
+    "xJIHDQ": {
+        "en-US": "I must apologize to everyone. I have failed to properly raise my disciple.",
+        "pt-BR": "Peço desculpas a todos. Foi minha falha por não ter treinado bem meu discípulo.",
+        "es-ES": "He acabado poniendo a todos en una situación lamentable. Fue por mi falta de capacidad para no haber educado bien a mi discípulo."
+    },
+    "xZIHDQ": {
+        "en-US": "This is not your fault, Hazar. This is entirely due to Kamil’s greed in forcing the caravan.",
+        "pt-BR": "Hazar, isso não é sua culpa. A responsabilidade é de Kamil, que forçou essa caravana além do razoável.",
+        "es-ES": "No es culpa tuya, Hazar. Hasta el final esto ha sido culpa de Kamil, por codiciar imprudentemente dirigir una caravana."
+    },
+    "xpIHDQ": {
+        "en-US": "No, I was the one who pushed my disciple into taking on caravan experience.",
+        "pt-BR": "Não. Fui eu quem o pressionou a ganhar experiência na caravana.",
+        "es-ES": "No, fui yo quien empujó a mi discípulo a vivir la experiencia de la caravana."
+    },
+    "x5IHDQ": {
+        "en-US": "Is that true, Kamil? Did your master truly force you?",
+        "pt-BR": "É verdade, Kamil? Foi seu mestre quem o forçou?",
+        "es-ES": "¿Es eso verdad, Kamil? Te pregunto si tu maestro realmente te obligó a hacerlo."
+    },
+    "yJIHDQ": {
+        "en-US": "I sincerely apologize to everyone. And my master did not force me; I insisted on it.",
+        "pt-BR": "Peço desculpas a todos. Meu mestre não me forçou, fui eu que insisti.",
+        "es-ES": "Lo siento muchísimo ante todos ustedes. Y no, mi maestro no me obligó; fui yo quien insistió."
+    },
+    "yZIHDQ": {
+        "en-US": "I knew it. Something felt strange when Hazar suddenly claimed his condition was poor.",
+        "pt-BR": "Eu sabia. Desde que Hazar disse que estava doente de repente, achei estranho.",
+        "es-ES": "Ya lo sabía. Desde que Hazar dijo de repente que no se encontraba bien, me pareció que algo iba mal."
+    },
+    "ypIHDQ": {
+        "en-US": "Kamil, you fool! What are you doing!",
+        "pt-BR": "Kamil! O que você está fazendo agora?!",
+        "es-ES": "¡Kamil, muchacho! ¡¿Qué estás haciendo ahora?!"
+    },
+    "y5IHDQ": {
+        "en-US": "I insisted against my master, and I failed to complete the task. Everything is my fault.",
+        "pt-BR": "Insisti contra meu mestre e falhei em cumprir a tarefa. Tudo foi culpa minha.",
+        "es-ES": "Fui terco con mi maestro. Y además ni siquiera logré completar bien el trabajo. Todo fue culpa mía."
+    },
+    "zJIHDQ": {
+        "en-US": "Ahem... hm",
+        "pt-BR": "Cof cof...",
+        "es-ES": "Ejem... ejem."
+    },
+    "zZIHDQ": {
+        "en-US": "Hhm...",
+        "pt-BR": "Tsk~",
+        "es-ES": "Ay..."
+    },
+    "zpIHDQ": {
+        "en-US": "Tsk tsk.",
+        "pt-BR": "Hmm.",
+        "es-ES": "Tsk, tsk."
+    },
+    "z5IHDQ": {
+        "en-US": "Well, we understand the situation now. Then we should discuss the aftermath, shouldn’t we?",
+        "pt-BR": "Parece que já entendemos o que aconteceu. Agora devemos discutir as consequências.",
+        "es-ES": "Bueno, creo que ya sabemos más o menos lo ocurrido. Entonces, ahora deberíamos hablar de cómo resolverlo, ¿no?"
+    },
+    "0JIHDQ": {
+        "en-US": "Everyone! Why are you trying to make such a rushed decision!",
+        "pt-BR": "Senhores! Por que querem decidir tão rápido?",
+        "es-ES": "¡Oigan! ¿Por qué quieren tomar una decisión tan deprisa?"
+    },
+    "0ZIHDQ": {
+        "en-US": "We have watched Kamil since he was young. We want to take his circumstances into account, but...",
+        "pt-BR": "Também vimos Kamil crescer desde pequeno. Gostaria de considerar as circunstâncias.",
+        "es-ES": "La verdad es que nosotros también hemos visto crecer a Kamil desde que era pequeño. Nos gustaría tener consideración con su situación, pero..."
+    },
+    "0pIHDQ": {
+        "en-US": "That may be so, but the merchant group has its own rules.",
+        "pt-BR": "Mesmo assim, a guilda tem suas regras.",
+        "es-ES": "La situación es la que es, pero la compañía mercante tiene sus propias normas, ¿no es así?"
+    },
+    "05IHDQ": {
+        "en-US": "What are you saying! According to the rules, he should lose his head! This is not something to speak lightly about!",
+        "pt-BR": "Ora! Pelas regras, ele deveria pagar com a vida! Não fale levianamente!",
+        "es-ES": "¡Oiga! ¡Si seguimos las normas de la compañía mercante, tendría que perder la cabeza! ¡No es algo de lo que se pueda hablar a la ligera!"
+    },
+    "1JIHDQ": {
+        "en-US": "Well, that is true... sigh, what should we do...",
+        "pt-BR": "Sim, mas... ah, o que fazer...",
+        "es-ES": "No, eso es cierto, pero... ay, ¿qué vamos a hacer con esto?"
+    },
+    "1ZIHDQ": {
+        "en-US": "I will follow the rules. This is something I brought upon myself, so it is only right.",
+        "pt-BR": "Seguirei as regras. Foi minha responsabilidade.",
+        "es-ES": "Aceptaré lo que dicten las normas. Como fui yo quien provocó todo esto, creo que es lo correcto."
+    },
+    "1pIHDQ": {
+        "en-US": "Silence! Kamil! This is not your place to speak!",
+        "pt-BR": "Ei! Kamil, não é sua vez de falar!",
+        "es-ES": "¡Eh! ¡Kamil, muchacho! ¡No estás en situación de intervenir!"
+    },
+    "15IHDQ": {
+        "en-US": "Calm yourselves. Since the rules of the merchant group have been mentioned, let us first examine the basis for Kamil’s punishment.",
+        "pt-BR": "Acalmem-se. Já que falamos das regras, vamos analisar a base da punição.",
+        "es-ES": "Tranquilicémonos todos. Ya que ha salido el tema de las normas de la compañía mercante, examinemos primero en qué se basa el castigo de Kamil."
+    },
+    "2JIHDQ": {
+        "en-US": "The loss of 800 kg of clothing and leather goods intended for winter supplies. And the failure to procure food due to that loss.",
+        "pt-BR": "Perda de 800kg de couro e vestimentas para o orçamento de inverno, além da falha na compra de suprimentos.",
+        "es-ES": "Pérdida de 800 kg de ropa/cuero destinados al presupuesto de invierno. Y, como consecuencia de esa pérdida, fracaso en la compra de alimentos."
+    },
+    "2ZIHDQ": {
+        "en-US": "Hmm... could we not organize a search party and retrieve the goods even now?",
+        "pt-BR": "Hmm... não poderíamos organizar uma equipe de busca e recuperar a carga?",
+        "es-ES": "Mmm... ¿y no podríamos formar ahora mismo un grupo de búsqueda de la compañía mercante para recuperar la carga?"
+    },
+    "2pIHDQ": {
+        "en-US": "That is true, but if the merchant group resolves it, then Kamil’s mistake becomes an official matter of punishment.",
+        "pt-BR": "Poderíamos, mas se a guilda agir, a falha de Kamil se tornará oficialmente punível.",
+        "es-ES": "Eso es cierto, pero si la propia compañía mercante resuelve el problema, el error de Kamil pasará a ser oficialmente objeto de castigo."
+    },
+    "25IHDQ": {
+        "en-US": "Right. The villagers and staff still do not know. The moment we send a search party, his guilt is confirmed.",
+        "pt-BR": "Exato. Os moradores e funcionários ainda não sabem. Se enviarmos a busca, a culpa dele será confirmada.",
+        "es-ES": "Exacto. Ahora mismo ni los habitantes del pueblo ni los trabajadores de la compañía mercante conocen este hecho. En el momento en que enviemos una búsqueda, la culpa de Kamil quedará confirmada."
+    },
+    "3JIHDQ": {
+        "en-US": "Offer another suggestion",
+        "pt-BR": "Sugerir outra ideia",
+        "es-ES": "Proponer otra sugerencia."
+    },
+    "3ZIHDQ": {
+        "en-US": "What if an outsider unofficially retrieves and returns the cargo?",
+        "pt-BR": "E se alguém de fora recuperar a carga discretamente?",
+        "es-ES": "¿Qué ocurriría si alguien ajeno a la compañía mercante recuperara y devolviera la carga de manera extraoficial?"
+    },
+    "3pIHDQ": {
+        "en-US": "Ah, you are {0}, aren’t you?",
+        "pt-BR": "Ora, você não é {0}?",
+        "es-ES": "Vaya, ¿acaso no es usted el señor {0}?"
+    },
+    "35IHDQ": {
+        "en-US": "Ah, that is a good idea. If an outsider resolves it without anyone knowing, then this incident never happened.",
+        "pt-BR": "Boa ideia. Se um forasteiro resolver isso sem que ninguém saiba, será como se nunca tivesse acontecido.",
+        "es-ES": "Ah, esa es una buena idea. Si un forastero lo resuelve en secreto, entonces este incidente mismo pasará a ser algo que nunca ocurrió."
+    },
+    "4JIHDQ": {
+        "en-US": "The rules cannot punish something that never happened.",
+        "pt-BR": "A guilda não pode punir algo que não aconteceu.",
+        "es-ES": "Las normas de la compañía mercante no pueden castigar algo que no ocurrió."
+    },
+    "4ZIHDQ": {
+        "en-US": "{0}. Should we take that as you offering to retrieve the lost goods on behalf of our merchant group?",
+        "pt-BR": "{0}, isso significa que você fará isso por nós?",
+        "es-ES": "Señor {0}, ¿podemos interpretar entonces que está diciendo que encontrará los objetos perdidos en nombre de nuestra compañía mercante?"
+    },
+    "4pIHDQ": {
+        "en-US": "I will try.",
+        "pt-BR": "Vou tentar.",
+        "es-ES": "Lo intentaré yo mismo."
+    },
+    "45IHDQ": {
+        "en-US": "Are you joking?",
+        "pt-BR": "Está brincando?",
+        "es-ES": "¿Pero qué broma es esta?"
+    },
+    "5JIHDQ": {
+        "en-US": "Thank you, {0}. I will guide the way.",
+        "pt-BR": "Obrigado, {0}. Eu guiarei o caminho.",
+        "es-ES": "Muchas gracias, señor {0}. Yo mismo iré delante para guiarle."
+    },
+    "5ZIHDQ": {
+        "en-US": "No, that cannot be. This must be an incident that never existed. Kamil, you must not step forward.",
+        "pt-BR": "Não. Este incidente deve desaparecer. Kamil, você não pode se envolver.",
+        "es-ES": "No, eso no puede ser. Este incidente tiene que convertirse en un incidente inexistente. Kamil, tú no puedes salir a escena."
+    },
+    "5pIHDQ": {
+        "en-US": "Are you {0}? Thank you for stepping in for that foolish Kamil. I express my gratitude in his stead.",
+        "pt-BR": "Você é {0}? Agradeço por ajudar aquele inútil do Kamil.",
+        "es-ES": "¿Ha dicho señor {0}? Le agradezco en nombre de todos que actúe por ese inútil de Kamil."
+    },
+    "55IHDQ": {
+        "en-US": "I also thank you. He may be a bit clumsy, but he is not someone who should lose his life over this.",
+        "pt-BR": "Também agradeço. Ele pode ser ingênuo, mas não merece morrer por isso.",
+        "es-ES": "Yo también le doy las gracias. Puede que ese chico sea un poco torpe, pero no es alguien que deba perder la vida por algo así."
+    },
+    "6JIHDQ": {
+        "en-US": "I cannot express my gratitude enough. What are you doing, Kamil? At least provide the approximate location.",
+        "pt-BR": "Não há palavras para agradecer. Kamil, diga ao menos a localização aproximada.",
+        "es-ES": "Le estamos agradecidos en un grado que casi no puedo expresar con palabras. ¿Qué haces, Kamil? Al menos dale información aproximada sobre dónde fueron a parar."
+    },
+    "6ZIHDQ": {
+        "en-US": "Yes! Understood.",
+        "pt-BR": "Sim!",
+        "es-ES": "¡Sí! Entendido."
+    },
+    "6pIHDQ": {
+        "en-US": "^FF0000You have obtained approximate information on where the stolen cargo was taken from Kamil.^000000",
+        "pt-BR": "^FF0000Você obteve informações aproximadas sobre para onde as cargas roubadas de Kamil foram levadas.^000000",
+        "es-ES": "^FF0000Has obtenido información aproximada de Kamil sobre adónde fueron a parar las mercancías saqueadas.^000000"
+    },
+    "65IHDQ": {
+        "en-US": "Then we place everything on {0}.",
+        "pt-BR": "Então confiamos tudo a você, {0}.",
+        "es-ES": "Entonces lo apostaremos todo al señor {0}."
+    },
+    "7JIHDQ": {
+        "en-US": "This meeting never happened. Let us disperse quickly.",
+        "pt-BR": "Esta reunião nunca aconteceu. Vamos nos dispersar rapidamente.",
+        "es-ES": "Mmm, esta reunión misma nunca tuvo lugar. Será mejor que nos dispersemos rápido."
+    },
+    "7ZIHDQ": {
+        "en-US": "Indeed. I am busy as well.",
+        "pt-BR": "Sim, tenho trabalho a fazer.",
+        "es-ES": "Así sea. Yo también ando ocupado con mis asuntos."
+    },
+    "7pIHDQ": {
+        "en-US": "I have retrieved the lost cargo as much as possible. Please check the quantity.",
+        "pt-BR": "Recuperei as cargas perdidas. Verifiquem a quantidade.",
+        "es-ES": "He traído toda la carga perdida que he ido encontrando. Comprueben la cantidad."
+    },
+    "75IHDQ": {
+        "en-US": "Oh? So quickly?",
+        "pt-BR": "Oh! Tão rápido?",
+        "es-ES": "Oh. ¿Tan rápido?"
+    },
+    "8JIHDQ": {
+        "en-US": "It seems we owe you twice already. No, thrice, counting helping Kamil in battle.",
+        "pt-BR": "Já lhe devemos duas vezes... ou três, contando a luta de Kamil.",
+        "es-ES": "Parece que ya te debo dos favores. No, como también me ayudaste en el combate de Kamil, ¿ya van tres?"
+    },
+    "8ZIHDQ": {
+        "en-US": "I am ashamed... Thank you truly.",
+        "pt-BR": "Não tenho palavras... muito obrigado.",
+        "es-ES": "Me siento avergonzado. De verdad... muchísimas gracias."
+    },
+    "8pIHDQ": {
+        "en-US": "Let us see. Leather 500, processed clothing 280. Hmm... we are slightly short on clothing...",
+        "pt-BR": "Vamos ver... couro 500, tecido 280... hmm, falta um pouco de tecido...",
+        "es-ES": "Veamos, 500 de cuero, 280 de ropa procesada. Mmm... falta un poco de ropa, pero..."
+    },
+    "85IHDQ": {
+        "en-US": "That is within normal acceptable loss.",
+        "pt-BR": "Está dentro da margem aceitável de perda.",
+        "es-ES": "Eso está dentro del nivel habitual de pérdidas por defectos."
+    },
+    "9JIHDQ": {
+        "en-US": "Indeed, within tolerance. Then... we can revise the meeting agenda.",
+        "pt-BR": "Sim, isso é aceitável. Podemos redefinir a pauta.",
+        "es-ES": "Exacto, está de sobra dentro del margen permitido. Con esto, uf... creo que podremos rehacer el asunto de la reunión."
+    },
+    "9ZIHDQ": {
+        "en-US": "What will it be changed to?",
+        "pt-BR": "Qual será agora?",
+        "es-ES": "¿En qué cambiará exactamente?"
+    },
+    "9pIHDQ": {
+        "en-US": "Originally, it was about the loss of goods. Now, it becomes a delay in departure. Is that correct, Chief?",
+        "pt-BR": "Antes era sobre perda de carga. Agora será sobre atraso na partida. Certo, chefe?",
+        "es-ES": "El punto original era una reunión por la pérdida de mercancías comerciales. Pero ahora ha pasado a ser una cuestión sobre el retraso en la salida de la compañía mercante. ¿No es así, administrador general?"
+    },
+    "95IHDQ": {
+        "en-US": "Ahem... yes. The caravan will depart two days later than scheduled.",
+        "pt-BR": "Ah... cof cof. Sim. Partiremos dois dias atrasados.",
+        "es-ES": "Eh... ejem. Así es. La partida se ha retrasado dos días respecto al plan original."
+    },
+    "+JIHDQ": {
+        "en-US": "Master... that is...",
+        "pt-BR": "Mestre... isso...",
+        "es-ES": "Maestro... eso..."
+    },
+    "+ZIHDQ": {
+        "en-US": "Be quiet, Kamil. Now then, let us conclude. What is the punishment for delay?",
+        "pt-BR": "Fique em silêncio, Kamil. Agora vamos decidir. Qual é a punição por atraso?",
+        "es-ES": "Quédate quieto, Kamil. Bien, entonces resolvámoslo rápido. ¿Cuál era el castigo por el retraso de la caravana?"
+    },
+    "+pIHDQ": {
+        "en-US": "Three months of probation. Working as a junior administrator.",
+        "pt-BR": "Três meses de suspensão, trabalhando como assistente administrativo.",
+        "es-ES": "Tres meses de arresto domiciliario. Tendrá que ocuparse de tareas administrativas básicas de la compañía mercante mientras reflexiona."
+    },
+    "+5IHDQ": {
+        "en-US": "No objections.",
+        "pt-BR": "Concordo.",
+        "es-ES": "No tengo objeciones."
+    },
+    "/JIHDQ": {
+        "en-US": "None from me either.",
+        "pt-BR": "Também concordo.",
+        "es-ES": "Yo tampoco tengo objeción alguna."
+    },
+    "/ZIHDQ": {
+        "en-US": "There you have it, Kamil. You have avoided losing your head.",
+        "pt-BR": "Então é isso, Kamil. Você escapou da morte.",
+        "es-ES": "Ya lo has oído, Kamil. Te has librado de perder la cabeza."
+    },
+    "/pIHDQ": {
+        "en-US": "Thank you, Master. And thank you to the merchant leaders.",
+        "pt-BR": "Obrigado, mestre. E aos líderes também.",
+        "es-ES": "Gracias, maestro. Y gracias también a los líderes de la compañía mercante."
+    },
+    "/5IHDQ": {
+        "en-US": "Ahem. What are you doing? The caravan is delayed, so prepare for departure at once.",
+        "pt-BR": "Cof cof. O que está esperando? Vá se preparar para partir novamente.",
+        "es-ES": "Ejem, ejem, ¿qué haces aún ahí? Como la caravana se ha retrasado, ve enseguida y prepárate para volver a salir."
+    },
+    "AJMHDQ": {
+        "en-US": "That’s right. The sooner you start your punishment, the sooner it ends.",
+        "pt-BR": "Isso mesmo. Quanto antes começar a punição, mais cedo termina.",
+        "es-ES": "Exacto, cuanto antes empieces a cumplir el castigo, antes terminará."
+    },
+    "AZMHDQ": {
+        "en-US": "Then with the main agenda concluded, we shall end this meeting. Once again, thank you, {0}.",
+        "pt-BR": "Então encerramos a reunião. Agradecemos novamente a {0}.",
+        "es-ES": "Bien, como ya hemos resuelto el asunto principal, demos esto por concluido. Le damos las gracias una vez más, señor {0}."
+    },
+    "ApMHDQ": {
+        "en-US": "Thank you truly, {0}. You are my savior. Please accept this as a small token of my gratitude.",
+        "pt-BR": "Muito obrigado, {0}. Você salvou minha vida. Aceite esta pequena recompensa.",
+        "es-ES": "Muchísimas gracias, señor {0}. Es usted mi salvador. Aunque es poca cosa, esto es una muestra de mi gratitud."
+    },
+    "A5MHDQ": {
+        "en-US": "^4D4DFFThe people of Gray Wolf Village have accepted you as a member of the village.^000000\n^4D4DFFYou are now qualified to attend the Grand Council.^000000",
+        "pt-BR": "^4D4DFFAldeia do Lobo Cinzento o reconhece como membro da vila.^000000\n^4D4DFFAgora você pode participar da assembleia.^000000",
+        "es-ES": "^4D4DFFLa gente de Pueblo del Lobo Gris le ha aceptado como miembro del pueblo.^000000\n^4D4DFFHa obtenido el derecho a asistir al gran consejo.^000000"
+    },
+    "BJMHDQ": {
+        "en-US": "^4D4DFFA favorable evaluation of you has occurred.^000000",
+        "pt-BR": "^4D4DFFSua reputação aumentou.^000000",
+        "es-ES": "^4D4DFFSe ha generado una evaluación favorable sobre ti.^000000"
+    },
+    "BZMHDQ": {
+        "en-US": "Attendee",
+        "pt-BR": "Participante",
+        "es-ES": "Asistente"
+    },
+    "BpMHDQ": {
+        "en-US": "[Attendee]\nIdle chatter is forbidden during merchant meetings.",
+        "pt-BR": "[Participante]\nConversas paralelas são proibidas durante a reunião.",
+        "es-ES": "[Asistente]\nDurante la reunión de la compañía mercante, quedan prohibidas las conversaciones innecesarias."
+    },
+    "B5MHDQ": {
+        "en-US": "[Attendee]\nThere is no time for idle talk.",
+        "pt-BR": "[Participante]\nNão há tempo para conversa.",
+        "es-ES": "[Asistente]\nNo tenemos tiempo para charlas."
+    },
+    "CJMHDQ": {
+        "en-US": "[Attendee]\nAhem, let us save private conversations for later.",
+        "pt-BR": "[Participante]\nAssuntos pessoais, depois.",
+        "es-ES": "[Asistente]\nEjem, dejemos las conversaciones privadas para más tarde."
+    }
+}

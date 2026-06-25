@@ -1,0 +1,1042 @@
+{
+    "gJ8KDQ": {
+        "en-US": "Scania",
+        "pt-BR": "Scania",
+        "es-ES": "Scania"
+    },
+    "gZ8KDQ": {
+        "en-US": "Mungmung, even if you want to go for a walk, try to hold it in just a little longer.",
+        "pt-BR": "Au au, mesmo que você queira passear, aguente só mais um pouco.",
+        "es-ES": "Perrito, aunque quieras salir a pasear, aguanta un poco más."
+    },
+    "gp8KDQ": {
+        "en-US": "[Scania]\nNo, how did someone who looks like they would be blown away by a breeze get here? It is dangerous, so go back at once.",
+        "pt-BR": "[Scania]\nNão, como alguém que parece que vai ser levado até por uma brisa chegou até aqui? É perigoso, então volte logo.",
+        "es-ES": "[Scania]\nNo, ¿cómo ha llegado aquí alguien que parece que hasta la brisa se lo llevaría? Es peligroso, así que vuelva enseguida."
+    },
+    "g58KDQ": {
+        "en-US": "- This quest is available from level 170. -",
+        "pt-BR": "- Esta é uma missão que pode ser realizada a partir do nível 170. -",
+        "es-ES": "- Es una misión que se puede realizar a partir del nivel 170. -"
+    },
+    "hJ8KDQ": {
+        "en-US": "^4D4DFFThe people of Gray Wolf Village have accepted you as a member of the village.^000000\n^4D4DFFYou are now qualified to attend the Grand Council.^000000",
+        "pt-BR": "^4D4DFFAs pessoas de Aldeia do Lobo Cinzento aceitaram você como um membro da vila.^000000\n^4D4DFFVocê agora está qualificado para participar do Grande Conselho.^000000",
+        "es-ES": "^4D4DFFLa gente de Pueblo del Lobo Gris te ha aceptado como uno más del pueblo.^000000\n^4D4DFFHas obtenido el derecho a asistir al Gran Consejo.^000000"
+    },
+    "hZ8KDQ": {
+        "en-US": "You cannot proceed with the conversation because you are carrying too many items.\nPlease organize your items and try again.",
+        "pt-BR": "Você não pode prosseguir com a conversa porque está carregando itens demais.\nPor favor, organize seus itens e tente novamente.",
+        "es-ES": "No puedes continuar la conversación porque llevas demasiados objetos.\nOrdena tus objetos y vuelve a intentarlo."
+    },
+    "hp8KDQ": {
+        "en-US": "[Scania]\nMungmung, you need to learn foreign languages now too...",
+        "pt-BR": "[Scania]\nAu au, você também precisa aprender um idioma estrangeiro agora...",
+        "es-ES": "[Scania]\nPerrito, tú también vas a tener que aprender idiomas extranjeros..."
+    },
+    "h58KDQ": {
+        "en-US": "Yahang?",
+        "pt-BR": "Yahang?",
+        "es-ES": "¿Yaján?"
+    },
+    "iJ8KDQ": {
+        "en-US": "[Scania]\nOh my, oh my, just look at this one breathing. A genius at inhaling and exhaling, a genius!!",
+        "pt-BR": "[Scania]\nMeu Deus, meu Deus, olha só como ele respira. Um gênio da inspiração e expiração, um gênio!!",
+        "es-ES": "[Scania]\nAy, ay, mira cómo respira. ¡Es un genio inspirando y espirando, un genio!!"
+    },
+    "iZ8KDQ": {
+        "en-US": "[Maram]\nHello! Scania!",
+        "pt-BR": "[Maram]\nOi! Scania!",
+        "es-ES": "[Maram]\n¡Hola! ¡Scania!"
+    },
+    "ip8KDQ": {
+        "en-US": "[Scania]\nMaram? When did you get here? You came earlier than I expected?",
+        "pt-BR": "[Scania]\nMaram? Quando você chegou? Veio mais cedo do que eu esperava, não?",
+        "es-ES": "[Scania]\n¿Maram? ¿Cuándo has llegado? Has venido antes de lo que pensaba, ¿no?"
+    },
+    "i58KDQ": {
+        "en-US": "[Maram]\nThe Adventurer helped me, so I got here a bit quickly this time.",
+        "pt-BR": "[Maram]\nCom a ajuda do aventureiro, desta vez eu cheguei um pouco mais rápido.",
+        "es-ES": "[Maram]\nGracias a la ayuda del aventurero, esta vez he llegado bastante rápido."
+    },
+    "jJ8KDQ": {
+        "en-US": "Say hello. This is a strong and mighty Adventurer.",
+        "pt-BR": "Cumprimente. Este é o aventureiro forte e poderoso.",
+        "es-ES": "Saluda. Es un aventurero fuerte y poderoso."
+    },
+    "jZ8KDQ": {
+        "en-US": "[Scania]\nThe one who came over this time?",
+        "pt-BR": "[Scania]\nÉ a pessoa que veio desta vez?",
+        "es-ES": "[Scania]\n¿Es la persona que ha venido esta vez?"
+    },
+    "jp8KDQ": {
+        "en-US": "[Maram]\nNo, silly. This person is not from here. They are from somewhere else entirely. Since they helped me purchase goods this time, they carried them all the way here too.",
+        "pt-BR": "[Maram]\nIsso não é uma criança. Não é daqui. Veio de um lugar completamente diferente. Já que me ajudou a comprar umas coisas, também trouxe tudo até aqui.",
+        "es-ES": "[Maram]\nNo, eso no. No es de aquí. Viene de otro lugar por completo. Como me ayudó a comprar unas cosas, de paso también me las ha traído hasta aquí."
+    },
+    "j58KDQ": {
+        "en-US": "They really are a strong and mighty Adventurer.",
+        "pt-BR": "É realmente um aventureiro forte e poderoso.",
+        "es-ES": "De verdad es un aventurero fuerte y poderoso."
+    },
+    "kJ8KDQ": {
+        "en-US": "[Scania]\nHmm... An Adventurer...? Then that means an outsider? Is their identity certain? What if they loot everything here? Or leak word to those people over there? Or if not that, what if they take over our land like those migrants?",
+        "pt-BR": "[Scania]\nHumm... um aventureiro...? Então é um forasteiro? A identidade é confiável? E se levar tudo o que está aqui? Ou se sair espalhando alguma coisa por aí? Ou então, como aqueles migrantes, se tentar tomar nossa terra?",
+        "es-ES": "[Scania]\nMmm... ¿aventurero...? Entonces, ¿es un forastero? ¿Su identidad está bien comprobada? ¿Y si se lleva todo lo que hay aquí? ¿O si va y se lo cuenta al otro lado? ¿O si, como esos inmigrantes, intenta quitarnos nuestra tierra?"
+    },
+    "kZ8KDQ": {
+        "en-US": "[Maram]\nHey, you! You really have no filter, saying all that right in front of them! They are not that kind of person, you know? How could you compare them to those scoundrels?",
+        "pt-BR": "[Maram]\nEi, mas que é isso!! Você fala de tudo na frente da pessoa! Não é esse tipo de gente, viu? Em que parte você viu algo para comparar com uns desgraçados desses?",
+        "es-ES": "[Maram]\n¡Oye, tú! ¡No te falta nada por decir delante de la gente! ¡No es ese tipo de persona! ¿Cómo se te ocurre compararlo con esos maleantes?"
+    },
+    "kp8KDQ": {
+        "en-US": "[Scania]\nDo you think people like that go around with it written on their faces? Whether they are a thief or dead weight is something we will know only after watching them!\nAisha picked up a wolf cub, and now you, Maram, picked up a person?",
+        "pt-BR": "[Scania]\nEssas pessoas andam com isso escrito na cara? Se é ladrão ou apenas um peso morto, só o tempo dirá!\nAisha foi e trouxe um filhote de lobo, e você, Maram, trouxe uma pessoa?",
+        "es-ES": "[Scania]\n¿Acaso la gente así lo lleva escrito en la cara? Habrá que ver con el tiempo si es un ladrón o un estorbo.\n¿Aisha va y recoge algo como un cachorro de lobo, y tú, Maram, recoges a una persona?"
+    },
+    "k58KDQ": {
+        "en-US": "Picked up? Watch your mouth!",
+        "pt-BR": "Trazer? Olha como fala!",
+        "es-ES": "¡¿Recoger?! ¡Cuida tus palabras!"
+    },
+    "lJ8KDQ": {
+        "en-US": "I am not that kind of person...",
+        "pt-BR": "Eu não sou esse tipo de pessoa...",
+        "es-ES": "¿Yo no soy esa clase de persona, sabe?"
+    },
+    "lZ8KDQ": {
+        "en-US": "[Maram]\nAh, of course, that is not truly what is in their heart, it is just the way they speak. Just the way they speak.\nAnyway, a wolf cub? What wolf cub?",
+        "pt-BR": "[Maram]\nAh, claro, o que sai da boca dela não é de coração, viu? É só jeito de falar. Jeito de falar.\nMas falando nisso, filhote de lobo? Que filhote de lobo?",
+        "es-ES": "[Maram]\nAh, claro, lo que dice no va en serio, es solo una forma de hablar. Una forma de hablar.\nPero espera, ¿cachorro de lobo? ¿Qué cachorro de lobo?"
+    },
+    "lp8KDQ": {
+        "en-US": "[Scania]\nYeah! Aisha picked up a baby gray wolf in the forest not long ago! I told her to take it back, but she would not listen!",
+        "pt-BR": "[Scania]\nAh! A Aisha trouxe um filhote de lobo cinzento da floresta há pouco tempo! Eu disse para levar de volta, mas ela não me escuta!",
+        "es-ES": "[Scania]\n¡Sí! ¡Hace poco Aisha recogió en el bosque un cachorro de lobo gris! ¡Y por más que le digo que lo devuelva, no me hace caso!"
+    },
+    "l58KDQ": {
+        "en-US": "[Scania]\nDo you know what it did? It is already going after our sheep! If it is already like that now, what will happen when it grows bigger? It will harm our sheep!\nSo you go and talk to her for once! She never listens to what I say!",
+        "pt-BR": "[Scania]\nSabe o que aconteceu? Ele já está atacando nossas ovelhas! Se já está assim agora, imagina quando crescer? Vai machucar nossas ovelhas!\nEntão vá lá e fale com ela! Ela não escuta nada do que eu digo!",
+        "es-ES": "[Scania]\n¿Sabes qué está pasando? ¡Ya está intentando lanzarse sobre nuestras ovejas! ¡Y si ya está así ahora, imagina cuando crezca un poco más! ¡Acabará haciendo daño a nuestras ovejas!\n¡Así que ve tú y habla con ella! ¡A mí no me escucha!"
+    },
+    "mJ8KDQ": {
+        "en-US": "[Maram]\nHuh? That is quite a good suggestion. It would make for a very constructive conversation. But what should I do? I need to sort out the luggage I brought.",
+        "pt-BR": "[Maram]\nAh? Essa é uma ótima sugestão. Vai render uma conversa bem construtiva. Mas fazer o quê? Eu preciso organizar a carga que trouxe.",
+        "es-ES": "[Maram]\n¿Eh? Pues no es mala idea. Podría salir una conversación muy constructiva. Pero qué le vamos a hacer, yo tengo que ordenar la carga que he traído."
+    },
+    "mZ8KDQ": {
+        "en-US": "What is with that awkward way of speaking?",
+        "pt-BR": "O que foi esse jeito estranho de falar?",
+        "es-ES": "¿Qué es ese tono tan raro?"
+    },
+    "mp8KDQ": {
+        "en-US": "[Maram]\nAh, right! Adventurer! Would you go and take a look? It would also be a good chance to look around this place and make an impression on the people.\nYou are going to be staying here for a while anyway, right? Everyone here is as kind and warm as I am, so they will not treat you coldly.",
+        "pt-BR": "[Maram]\nAh, claro! Aventureiro! Você poderia ir lá uma vez? Aproveite para conhecer este lugar e também para causar uma boa impressão nas pessoas.\nDe qualquer forma, você vai ficar aqui por um tempo, não vai? As pessoas daqui são todas tão gentis e bondosas quanto eu, então ninguém vai tratar você mal.",
+        "es-ES": "[Maram]\n¡Ah, claro! ¡Aventurero! ¿Por qué no va usted? De paso puede echar un vistazo al lugar y darse a conocer entre la gente.\nTotal, va a tener que quedarse aquí una temporada, ¿no? La gente de aquí es tan amable y cariñosa como yo, así que no le harán ningún feo."
+    },
+    "m58KDQ": {
+        "en-US": "[Maram]\nRight, Scania?",
+        "pt-BR": "[Maram]\nNão é, Scania?",
+        "es-ES": "[Maram]\n¿Verdad, Scania?"
+    },
+    "nJ8KDQ": {
+        "en-US": "[Scania]\n......",
+        "pt-BR": "[Scania]\n......",
+        "es-ES": "[Scania]\n......"
+    },
+    "nZ8KDQ": {
+        "en-US": "Why are you glaring like that now?",
+        "pt-BR": "Pra que esse olhar agora?",
+        "es-ES": "¿Y esa mirada ahora a qué viene?"
+    },
+    "np8KDQ": {
+        "en-US": "[Maram]\nYou just need to go and check whether what Aisha picked up is really a wolf cub, or just a puppy that looks like a wolf.",
+        "pt-BR": "[Maram]\nBasta ir até lá e verificar se o que a Aisha pegou é realmente um filhote de lobo ou só um cachorro que parece lobo.",
+        "es-ES": "[Maram]\nSolo tiene que ir y comprobar si lo que recogió Aisha es de verdad un cachorro de lobo o solo un perro que se parece a un lobo."
+    },
+    "n58KDQ": {
+        "en-US": "I am telling you, it is a wolf without even checking! I saw it myself!",
+        "pt-BR": "Nem precisa verificar, eu vi que é um lobo!",
+        "es-ES": "¡Te digo que es un lobo, no hace falta comprobarlo! ¡Lo he visto con mis propios ojos!"
+    },
+    "oJ8KDQ": {
+        "en-US": "And after I check?",
+        "pt-BR": "E depois de verificar?",
+        "es-ES": "¿Y después de comprobarlo?"
+    },
+    "oZ8KDQ": {
+        "en-US": "[Maram]\nUh... Well? I had not thought that far ahead. But if it really is a wolf cub, would that not be a problem? Even a puppy would be a problem as it is.",
+        "pt-BR": "[Maram]\nAh... sei lá? Não pensei nessa parte. Mas não seria complicado se for mesmo um filhote de lobo? Já seria complicado até se fosse um cachorro.",
+        "es-ES": "[Maram]\nEh... pues... ¿quién sabe? No había pensado tan lejos. Pero si de verdad es un cachorro de lobo, ¿no sería un problema? Incluso un perro ya sería problemático."
+    },
+    "op8KDQ": {
+        "en-US": "As if it would only be a problem.",
+        "pt-BR": "Como se fosse só complicado...",
+        "es-ES": "¿Y tú dices que solo sería un problema?"
+    },
+    "o58KDQ": {
+        "en-US": "[Maram]\nTo explain for the Adventurer who has just arrived, the land here is like this, so there are not many animals we can raise.",
+        "pt-BR": "[Maram]\nPara explicar ao aventureiro que acabou de chegar, aqui a terra é assim, então não há muitos animais que possamos criar.",
+        "es-ES": "[Maram]\nPara explicárselo al aventurero, que acaba de llegar, aquí no se pueden criar muchos animales por culpa de esta tierra."
+    },
+    "pJ8KDQ": {
+        "en-US": "[Maram]\nThe mountain goats and chickens that Scania looks after are almost all there is. There are hardly any cows or pigs that can adapt to a place like this. That is why livestock is truly precious.",
+        "pt-BR": "[Maram]\nPraticamente só existem as cabras montesas e as galinhas que Scania cuida. Quase não há vacas nem porcos que consigam se adaptar a um lugar assim. Por isso o gado é realmente precioso.",
+        "es-ES": "[Maram]\nCasi todo lo que hay son las cabras monteses y las gallinas que cuida Scania. Apenas hay vacas o cerdos capaces de adaptarse a un lugar así. Por eso el ganado es realmente valioso."
+    },
+    "pZ8KDQ": {
+        "en-US": "[Scania]\nBut what if what Aisha is keeping is a wolf cub?",
+        "pt-BR": "[Scania]\nMas e se o que a Aisha está criando for um filhote de lobo?",
+        "es-ES": "[Scania]\nPero si lo que tiene Aisha es un cachorro de lobo, ¿entonces qué?"
+    },
+    "pp8KDQ": {
+        "en-US": "[Maram]\nIts mother will come looking for it!",
+        "pt-BR": "[Maram]\nA mãe vai vir procurar o filhote!",
+        "es-ES": "[Maram]\n¡Su madre vendrá a buscarlo!"
+    },
+    "p58KDQ": {
+        "en-US": "[Scania]\nAnd even if the mother does not come looking?",
+        "pt-BR": "[Scania]\nE mesmo se a mãe não vier?",
+        "es-ES": "[Scania]\n¿Y aunque la madre no venga a buscarlo?"
+    },
+    "qJ8KDQ": {
+        "en-US": "[Maram]\nThe cub will grow up and harm the livestock!",
+        "pt-BR": "[Maram]\nO filhote vai crescer e começar a atacar o gado!",
+        "es-ES": "[Maram]\n¡El cachorro crecerá y hará daño al ganado!"
+    },
+    "qZ8KDQ": {
+        "en-US": "[Scania]\nYou heard that, right?",
+        "pt-BR": "[Scania]\nOuviu?",
+        "es-ES": "[Scania]\n¿Lo ha oído?"
+    },
+    "qp8KDQ": {
+        "en-US": "Where should I go?",
+        "pt-BR": "Para onde devo ir?",
+        "es-ES": "¿Adónde tengo que ir?"
+    },
+    "q58KDQ": {
+        "en-US": "[Maram]\nWhere did Aisha live again? Ah! If you go <NAVI>[up here]<INFO>wolfvill,99,178,0,101,0</INFO></NAVI>, there is Aisha's house.",
+        "pt-BR": "[Maram]\nOnde era mesmo que a Aisha morava? Ah! Se você for para <NAVI>[cima]<INFO>wolfvill,99,178,0,101,0</INFO></NAVI>, a casa da Aisha fica lá.",
+        "es-ES": "[Maram]\n¿Dónde vivía Aisha? ¡Ah! Si va <NAVI>[arriba]<INFO>wolfvill,99,178,0,101,0</INFO></NAVI>, allí está la casa de Aisha."
+    },
+    "rJ8KDQ": {
+        "en-US": "[Scania]\nBut it will be useless no matter what you say, you know? If you can persuade her, I will change my opinion of you too.",
+        "pt-BR": "[Scania]\nMas falar não vai adiantar, viu? Se conseguir convencê-la, eu também mudo a forma como vejo você.",
+        "es-ES": "[Scania]\nPero aunque se lo diga, no servirá de nada. Si logra convencerla, también cambiaré mi opinión sobre usted."
+    },
+    "rZ8KDQ": {
+        "en-US": "Scania, the Adventurer is not someone whose worth can be measured by your opinion.",
+        "pt-BR": "Scania, o valor do aventureiro não é definido pela sua opinião.",
+        "es-ES": "Scania, el aventurero no es alguien cuyo valor dependa de tu opinión."
+    },
+    "rp8KDQ": {
+        "en-US": "Who said what? I said I would be nice to them.",
+        "pt-BR": "Quem disse o contrário? Eu vou tratar bem.",
+        "es-ES": "¿Quién ha dicho nada? Le trataré bien."
+    },
+    "r58KDQ": {
+        "en-US": "[Maram]\nAdventurer, then please go on! I should get going too!",
+        "pt-BR": "[Maram]\nAventureiro, então vá lá! Eu também já vou!",
+        "es-ES": "[Maram]\n¡Aventurero, entonces vaya! ¡Yo también me marcho!"
+    },
+    "sJ8KDQ": {
+        "en-US": "[Scania]\nIt will be useless no matter how much you talk to <NAVI>[Aisha]<INFO>wolfvill,99,178,0,101,0</INFO></NAVI>, you know? If you can persuade her, I will change my opinion of you too.",
+        "pt-BR": "[Scania]\nPode falar com <NAVI>[Aisha]<INFO>wolfvill,99,178,0,101,0</INFO></NAVI> cem vezes que não vai adiantar, viu? Se conseguir convencê-la, eu também mudo a forma como vejo você.",
+        "es-ES": "[Scania]\n¿De verdad cree que servirá de algo decirle una y otra vez a <NAVI>[Aisha]<INFO>wolfvill,99,178,0,101,0</INFO></NAVI>? Si logra convencerla, también cambiaré mi opinión sobre usted."
+    },
+    "sZ8KDQ": {
+        "en-US": "[Scania]\nMungmung. That is enough walking for today. I am too tired.",
+        "pt-BR": "[Scania]\nAu au. O passeio de hoje acaba aqui. Eu estou cansada demais.",
+        "es-ES": "[Scania]\nPerrito. Por hoy ya se acabó el paseo. Estoy demasiado cansada."
+    },
+    "sp8KDQ": {
+        "en-US": "[Dog]\nYaaaahng---",
+        "pt-BR": "[Cachorrinho]\nYaaaang---",
+        "es-ES": "[Perrito]\nYaaáaán---"
+    },
+    "s58KDQ": {
+        "en-US": "[Scania]\nI cannot send you alone. How could I let you go to such a dangerous place by yourself? Of course, I know you can handle walks just fine on your own, but I would be too worried.",
+        "pt-BR": "[Scania]\nNão posso mandar você sozinho. Como eu poderia deixar você ir sozinho para um lugar tão perigoso? Claro, eu sei que você consegue passear muito bem sozinho, mas sou eu que fico preocupada.",
+        "es-ES": "[Scania]\nNo puedo mandarte solo. ¿Cómo voy a dejarte ir solo a un sitio tan peligroso? Claro que sé que tú solo también puedes pasear bien, pero es que me preocupa."
+    },
+    "tJ8KDQ": {
+        "en-US": "Scania!",
+        "pt-BR": "Scania!",
+        "es-ES": "¡Scania!"
+    },
+    "tZ8KDQ": {
+        "en-US": "[Scania]\nAisha? Why did you come here? Did you send the wolf back and come?",
+        "pt-BR": "[Scania]\nAisha? O que veio fazer aqui? Veio depois de devolver o lobo?",
+        "es-ES": "[Scania]\n¿Aisha? ¿Qué haces aquí? ¿Ya has devuelto al lobo?"
+    },
+    "tp8KDQ": {
+        "en-US": "Woof!!",
+        "pt-BR": "Au!!",
+        "es-ES": "¡Guau!!"
+    },
+    "t58KDQ": {
+        "en-US": "[Scania]\nYou did not, did you? You... brought the wolf? In front of the sheep? Are you out of your mind?",
+        "pt-BR": "[Scania]\nNão devolveu, é? Você... trouxe o lobo? Na frente das ovelhas? Ficou louca?",
+        "es-ES": "[Scania]\n¿Pero no? ¿Has... traído al lobo? ¿Delante de las ovejas? ¿Estás en tu sano juicio?"
+    },
+    "uJ8KDQ": {
+        "en-US": "[Scania]\nWhy in the world are you trying to raise a wolf? Do you need a dog? Then just raise a dog.\nNo, forget it. I will just be the dog. I will make a mess of your house too, and bite things now and then.",
+        "pt-BR": "[Scania]\nAfinal, por que quer criar um lobo? Precisa de um cachorro? Então crie um cachorro.\nNão, deixa. Eu mesma viro um cachorro. Também vou bagunçar sua casa e, de vez em quando, morder tudo.",
+        "es-ES": "[Scania]\n¿Por qué quieres criar un lobo? ¿Necesitas un perro? Pues cría un perro.\nNo, mejor no. Ya seré yo el perro. Te pondré la casa patas arriba y a veces hasta te morderé."
+    },
+    "uZ8KDQ": {
+        "en-US": "[Aisha]\nScania, I heard your wishful thinking quite well. So you even sent a person to me? What is the Adventurer, some kind of hired hand?",
+        "pt-BR": "[Aisha]\nScania, ouvi muito bem o seu desejo. E por isso você ainda mandou uma pessoa até mim? O aventureiro é o quê, um capanga?",
+        "es-ES": "[Aisha]\nScania, he escuchado muy bien tus deseos. ¿Y por eso hasta me has mandado a una persona? ¿Qué pasa, que el aventurero es algún mercenario?"
+    },
+    "up8KDQ": {
+        "en-US": "[Aisha]\nAfter all that effort, what a pity? This person has already come over to my side! Hahaha! Come on, show me that face soaked in despair!!",
+        "pt-BR": "[Aisha]\nVocê se esforçou tanto, mas e agora? Esta pessoa já ficou do meu lado! Hahahá! Mostre logo essa cara mergulhada em desespero!!",
+        "es-ES": "[Aisha]\nPero después de tanto esfuerzo, ¿qué pena, eh? ¡Esta persona ya se ha puesto de mi lado! ¡Ja, ja, ja! ¡Venga, enséñame esa cara empapada de desesperación!!"
+    },
+    "u58KDQ": {
+        "en-US": "[Scania]\nWhat? Adventurer? You betrayed me? How could you do that? Betrayal the first time we meet, is that not too much? I knew it. Outsiders really cannot be trusted.",
+        "pt-BR": "[Scania]\nO quê? Aventureiro? Você me traiu? Como pôde fazer isso? Trair logo no primeiro encontro, isso não é demais? Eu sabia que isso ia acontecer. Forasteiros realmente não são confiáveis.",
+        "es-ES": "[Scania]\n¿Qué? ¿Aventurero? ¿Me ha traicionado? ¿Cómo ha podido hacerme esto? ¿Traicionarme nada más conocernos? ¿No le parece demasiado? Ya sabía yo que acabaría así. Los forasteros no son de fiar."
+    },
+    "vJ8KDQ": {
+        "en-US": "[Aisha]\nScania, have you ever been to the ice cave? The thing colder than the frozen water there must be the blood flowing in your veins. You cold-blooded thing!",
+        "pt-BR": "[Aisha]\nScania, você já foi à caverna de gelo? Acho que nem a água congelada de lá é tão fria quanto o sangue que corre nas suas veias. Sua sangue-frio!",
+        "es-ES": "[Aisha]\nScania, ¿has estado alguna vez en la cueva de hielo? Seguro que por tus venas corre algo más frío que el agua helada de allí. ¡Sanguinaria!"
+    },
+    "vZ8KDQ": {
+        "en-US": "What? That was frozen water?",
+        "pt-BR": "O quê? Aquilo era água congelada?",
+        "es-ES": "¿Qué? ¿Eso era agua congelada?"
+    },
+    "vp8KDQ": {
+        "en-US": "No...?",
+        "pt-BR": "Não era...?",
+        "es-ES": "¿No...?"
+    },
+    "v58KDQ": {
+        "en-US": "[Aisha]\nHow could you tell me to send this tiny, fragile Boksil back to such a harsh place? Its mother is dead, so it cannot survive alone.",
+        "pt-BR": "[Aisha]\nComo você quer que eu mande esta pequena e frágil Boksil de volta para um lugar tão cruel? A mãe dela morreu, então ela não consegue viver sozinha.",
+        "es-ES": "[Aisha]\n¿Cómo voy a devolver a este pequeño y delicado Boksil a un lugar tan peligroso? Su madre ha muerto, así que no puede sobrevivir solo."
+    },
+    "wJ8KDQ": {
+        "en-US": "[Scania]\nIt... lost its mother?",
+        "pt-BR": "[Scania]\nPerdeu... a mãe?",
+        "es-ES": "[Scania]\n¿Perdió... a su madre?"
+    },
+    "wZ8KDQ": {
+        "en-US": "[Aisha]\nI told you that. I told you a hundred times. You were not listening again, were you? You just believe whatever you want to believe, right?",
+        "pt-BR": "[Aisha]\nEu te falei. Falei isso umas 100 vezes. Você não escutou de novo, né? Só acredita no que quer acreditar?",
+        "es-ES": "[Aisha]\n¡Ya te lo dije! ¡Te lo he dicho cien veces! ¿Otra vez no escuchaste? ¿Solo crees lo que te da la gana?"
+    },
+    "wp8KDQ": {
+        "en-US": "[Aisha]\nI do not know about you, but I could never send this tiny, fragile young wolf back to certain death.",
+        "pt-BR": "[Aisha]\nNão sei você, mas eu jamais vou mandar este pequeno e frágil filhote de lobo de volta para a morte certa.",
+        "es-ES": "[Aisha]\nNo sé tú, pero yo jamás podré devolver a este pequeño y frágil cachorro de lobo a una muerte segura."
+    },
+    "w58KDQ": {
+        "en-US": "[Scania]\nBut if that wolf grows up, our sheep will...",
+        "pt-BR": "[Scania]\nMas quando esse lobo crescer, nossas ovelhas...",
+        "es-ES": "[Scania]\nPero si ese lobo crece, entonces nuestras ovejas..."
+    },
+    "xJ8KDQ": {
+        "en-US": "[Aisha]\nDo not worry about that. Adventurer?",
+        "pt-BR": "[Aisha]\nNão se preocupe com isso. Aventureiro?",
+        "es-ES": "[Aisha]\nNo te preocupes por eso. ¿Aventurero?"
+    },
+    "xZ8KDQ": {
+        "en-US": "Ah, I have to say it?",
+        "pt-BR": "Ah, eu que tenho que falar?",
+        "es-ES": "Ah, ¿tengo que explicarlo yo?"
+    },
+    "xp8KDQ": {
+        "en-US": "[Aisha]\nBecause if I say it, she will not listen. She never listens when I say it, and only believes it when someone else says it.",
+        "pt-BR": "[Aisha]\nPorque, se eu falar, ela não vai ouvir. Quando sou eu que digo, ela não escuta, mas se outra pessoa falar, aí acredita.",
+        "es-ES": "[Aisha]\nSi lo digo yo no me va a escuchar. Cuando hablo yo no hace caso, pero si lo dice otro, entonces sí se lo cree."
+    },
+    "x58KDQ": {
+        "en-US": "[{0}]\nThis wolf cub will be fine as long as it is trained. If it grows up with other friends from an early age, it will not harm them and will instead protect the sheep.",
+        "pt-BR": "[{0}]\nEste filhote de lobo ficará bem se for treinado. Se crescer junto com outros amigos desde pequeno, não vai machucar ninguém e ainda vai proteger as ovelhas.",
+        "es-ES": "[{0}]\nSi se entrena bien a este cachorro de lobo, no habrá problema. Si crece desde pequeño junto a otros compañeros, no les hará daño y más bien protegerá a las ovejas."
+    },
+    "yJ8KDQ": {
+        "en-US": "[Aisha]\nYou heard that, right? Go on, try to argue with that. Now then, smart little genius Boksil! Sit! Paw!",
+        "pt-BR": "[Aisha]\nOuviu? Agora tenta rebater isso. Vamos, minha inteligente e genial Boksil! Senta! Dá a pata!",
+        "es-ES": "[Aisha]\n¿Lo has oído? A ver, ¿por qué no intentas rebatir eso? ¡Venga, mi inteligente y genial Boksil! ¡Siéntate! ¡La pata!"
+    },
+    "yZ8KDQ": {
+        "en-US": "Good job!!! Our smart little Boksil!",
+        "pt-BR": "Muito bem!!! Nossa espertinha Boksil!",
+        "es-ES": "¡¡¡Muy bien!!! ¡Nuestro listo Boksil!"
+    },
+    "yp8KDQ": {
+        "en-US": "[Scania]\nIt is true. But... but I do not know how long that will last... and I do not know whether its wild nature can really be suppressed...",
+        "pt-BR": "[Scania]\nÉ verdade. Mesmo assim... mesmo assim, eu não sei até quando isso vai durar... e nem se realmente vai ser possível conter a natureza selvagem...",
+        "es-ES": "[Scania]\nEs verdad. Pero... pero no sé cuánto durará eso... ni si de verdad podrá reprimir su naturaleza salvaje..."
+    },
+    "y58KDQ": {
+        "en-US": "[Scania]\nMore than anything, I do not think you are the kind of person who would train it so persistently.",
+        "pt-BR": "[Scania]\nE, acima de tudo, também não parece que você teria tanta persistência para treiná-la.",
+        "es-ES": "[Scania]\nY sobre todo, tampoco parece que tú vayas a entrenarlo con tanta constancia."
+    },
+    "zJ8KDQ": {
+        "en-US": "What? What do you take me for! Hey, come outside with me.",
+        "pt-BR": "O quê? O que você acha que eu sou? Ei, vem aqui fora.",
+        "es-ES": "¿Qué pasa? ¿Por quién me tomas? Oye, ven aquí fuera conmigo."
+    },
+    "zZ8KDQ": {
+        "en-US": "[{0}]\nIf you are anxious, I will help. So that it can be trained perfectly. I will even help it take walks with its sheep friend so they can build a bond.",
+        "pt-BR": "[{0}]\nSe estiver insegura, eu posso ajudar. Para que ela seja treinada perfeitamente. E também posso ajudar nos passeios com a amiga ovelha para fortalecer o vínculo.",
+        "es-ES": "[{0}]\nSi te preocupa, yo te ayudaré. Para que pueda entrenarse perfectamente. Y también ayudaré a que estrechen lazos, incluso acompañándolo a pasear con la oveja."
+    },
+    "zp8KDQ": {
+        "en-US": "[Scania]\nBut...",
+        "pt-BR": "[Scania]\nMas...",
+        "es-ES": "[Scania]\nPero..."
+    },
+    "z58KDQ": {
+        "en-US": "[Aisha]\nYou always said it is hard to keep chasing after Mungmung while it walks around alone. Is that not a good thing?",
+        "pt-BR": "[Aisha]\nVocê sempre dizia que era difícil ficar seguindo o cachorrinho enquanto ele passeia sozinho. Isso não é bom?",
+        "es-ES": "[Aisha]\nSi siempre estabas diciendo que te costaba seguir a Perrito cuando se iba a pasear solo. ¿No te viene bien?"
+    },
+    "0J8KDQ": {
+        "en-US": "A shepherd, yet complains about feeding grass.",
+        "pt-BR": "Apesar de ser pastora, tem preguiça de alimentá-lo com capim.",
+        "es-ES": "Para ser pastor, te da pereza hasta darles hierba."
+    },
+    "0Z8KDQ": {
+        "en-US": "[Scania]\nYou really would... do that instead of me? W-would you...? Can you really take good care of our Mungmung? There are dangerous monsters out there too.",
+        "pt-BR": "[Scania]\nVocê vai mesmo... no meu lugar? S-Sério...? Vai mesmo cuidar bem do nosso cachorrinho? Lá fora também há monstros perigosos.",
+        "es-ES": "[Scania]\n¿De verdad... en mi lugar? ¿D-de verdad...? ¿Podrás cuidar bien de nuestro Perrito? Ahí fuera también hay monstruos peligrosos."
+    },
+    "0p8KDQ": {
+        "en-US": "[Aisha]\nCan you not see the calluses on the Adventurer's hands? Maram brought them here, right? Then they must be someone trustworthy. They are a veteran who even trained our Boksil in just a few minutes!",
+        "pt-BR": "[Aisha]\nVocê não vê os calos nas mãos do aventureiro? Foi trazido pela Maram, não foi? Então deve ser alguém confiável. E ainda é um veterano que treinou nossa Boksil em poucos minutos!",
+        "es-ES": "[Aisha]\n¿No ves los callos en las manos del aventurero? Dijiste que lo había traído Maram, ¿no? Entonces será alguien de confianza. ¡Y además es todo un veterano que entrenó a nuestro Boksil en cuestión de minutos!"
+    },
+    "058KDQ": {
+        "en-US": "There is nothing they cannot do!",
+        "pt-BR": "Não há nada que não consiga fazer!",
+        "es-ES": "¡No hay nada que no pueda hacer!"
+    },
+    "1J8KDQ": {
+        "en-US": "[Scania]\nAh, then... since you are going this far, I suppose there is no helping it. T-then shall I ask you? Hehehe.",
+        "pt-BR": "[Scania]\nAh, então... já que vocês estão insistindo tanto, não tenho escolha. E-Então, posso pedir isso? Hehehe.",
+        "es-ES": "[Scania]\nAh, entonces... bueno, si insisten tanto, no me queda otra. E-entonces, ¿te lo pediré? Jejeje."
+    },
+    "1Z8KDQ": {
+        "en-US": "[Aisha]\nYou look way too happy, as if you have been waiting for this very moment. Are you not accepting this a little too quickly?",
+        "pt-BR": "[Aisha]\nVocê parece feliz demais, como se estivesse esperando exatamente por este momento. Não aceitou rápido demais?",
+        "es-ES": "[Aisha]\nTú estás demasiado contenta, como si hubieras estado esperando justo este momento. ¿No lo has aceptado demasiado deprisa?"
+    },
+    "1p8KDQ": {
+        "en-US": "[Scania]\nNooo... you are begging soooo desperately!! So I have no choice but to...",
+        "pt-BR": "[Scania]\nNããão... é que você pediu com taaaantaaa insistência!! Então eu não tive escolha...",
+        "es-ES": "[Scania]\n¡Nooo... es que tú me lo estabas pidiendo con taaantas ganas! Así que yo, sin más remedio..."
+    },
+    "158KDQ": {
+        "en-US": "[Aisha]\nHonestly... I should go tell the villagers about Boksil. That our Boksil is safe! Come on, Boksil!",
+        "pt-BR": "[Aisha]\nEnfim... eu vou contar para o pessoal da vila sobre a Boksil. Que a nossa Boksil é segura! Vamos, Boksil!",
+        "es-ES": "[Aisha]\nEn fin... tengo que ir a hablar con la gente del pueblo sobre Boksil. ¡Que nuestro Boksil es seguro! ¡Vamos, Boksil!"
+    },
+    "2J8KDQ": {
+        "en-US": "Woof!",
+        "pt-BR": "Au!",
+        "es-ES": "¡Guau!"
+    },
+    "2Z8KDQ": {
+        "en-US": "[Scania]\nUh... I suddenly ended up with a shepherding substitute...? Thank you. I had a lot to do. What should I do for you?",
+        "pt-BR": "[Scania]\nAh... de repente, apareceu alguém para cuidar do rebanho no meu lugar...? Obrigada. Eu tinha muita coisa para fazer. O que posso fazer por você?",
+        "es-ES": "[Scania]\nEh... de repente ya tengo a alguien que haga de pastor por mí... Gracias. Tenía mucho que hacer. ¿Qué podría darte?"
+    },
+    "2p8KDQ": {
+        "en-US": "[Scania]\nAh, right! Outsiders tend to like things like this a lot. Do you like it too, Adventurer? Even if you do not, you can trade it for something someone who does like it needs, so take it.",
+        "pt-BR": "[Scania]\nAh, claro! Forasteiros costumam gostar muito dessas coisas. Você também gosta, aventureiro? Mesmo que não goste, pode trocar por algo de que alguém que goste precise, então leve.",
+        "es-ES": "[Scania]\n¡Ah, claro! A los forasteros suelen gustarles mucho estas cosas. ¿A usted también le gustan? Y aunque no le gusten, puede cambiarlas por algo que le haga falta a alguien a quien sí le gusten, así que lléveselas."
+    },
+    "258KDQ": {
+        "en-US": "[Scania]\nThen, see you at walk time.",
+        "pt-BR": "[Scania]\nEntão, nos vemos na hora do passeio.",
+        "es-ES": "[Scania]\nEntonces, nos vemos en el paseo."
+    },
+    "3J8KDQ": {
+        "en-US": "^4D4DFFA favorable opinion of you has been formed.^000000",
+        "pt-BR": "^4D4DFFUma avaliação favorável sobre você foi gerada.^000000",
+        "es-ES": "^4D4DFFSe ha generado una valoración favorable hacia ti.^000000"
+    },
+    "3Z8KDQ": {
+        "en-US": "[Scania]\nAdventurer, you worked very hard. Our Mungmung seems satisfied too. This little one must have had a good mealtime, hmm? Then please help again tomorrow!",
+        "pt-BR": "[Scania]\nAventureiro, você se esforçou bastante. Acho que o nosso cachorrinho também ficou satisfeito. Este danadinho deve ter aproveitado uma boa hora de refeição, né? Então amanhã conto com você de novo!",
+        "es-ES": "[Scania]\nAventurero, ha trabajado mucho. Parece que nuestro Perrito también está satisfecho. ¿Este pequeñín habrá disfrutado de una buena hora de comida? ¡Entonces mañana también se lo encargo!"
+    },
+    "3p8KDQ": {
+        "en-US": "[Scania]\nAdventurer, you came right on time for the walk. But Aisha is not here...",
+        "pt-BR": "[Scania]\nAventureiro, você chegou bem na hora do passeio. Mas a Aisha não veio...",
+        "es-ES": "[Scania]\nAventurero, ha venido justo a la hora del paseo. Pero Aisha no ha venido..."
+    },
+    "358KDQ": {
+        "en-US": "[Aisha]\nTa-da! We are here!",
+        "pt-BR": "[Aisha]\nTcharam! Nós chegamos!",
+        "es-ES": "[Aisha]\n¡Tarán! ¡Ya estamos aquí!"
+    },
+    "4J8KDQ": {
+        "en-US": "[Boksil]\nWoof!!",
+        "pt-BR": "[Boksil]\nAu!!",
+        "es-ES": "[Boksil]\n¡¡Guau!!"
+    },
+    "4Z8KDQ": {
+        "en-US": "[Scania]\nThen I will leave the walk to you. Really... is it truly okay if I do not go? I can trust you with this, right?",
+        "pt-BR": "[Scania]\nEntão deixo o passeio nas suas mãos. Mesmo... eu realmente não preciso ir? Posso mesmo confiar em você?",
+        "es-ES": "[Scania]\nEntonces le encargo el paseo. De verdad... ¿seguro que no hace falta que vaya yo? ¿Puedo dejarlo en sus manos con confianza?"
+    },
+    "4p8KDQ": {
+        "en-US": "Of course.",
+        "pt-BR": "Claro.",
+        "es-ES": "Claro que sí."
+    },
+    "458KDQ": {
+        "en-US": "I am a bit busy today.",
+        "pt-BR": "Hoje estou um pouco ocupado.",
+        "es-ES": "Hoy estoy un poco ocupado."
+    },
+    "5J8KDQ": {
+        "en-US": "[Aisha]\nIf you are anxious, then come along.",
+        "pt-BR": "[Aisha]\nSe está insegura, então vá junto.",
+        "es-ES": "[Aisha]\nPues si te preocupa, síguelos."
+    },
+    "5Z8KDQ": {
+        "en-US": "[Scania]\nN-no. Then, please take good care of them. Mungmung. Have a good trip. If you feel uneasy or do not like it, say so and come home. All right?",
+        "pt-BR": "[Scania]\nN-Não, tudo bem. Então, por favor, cuide bem dele. Cachorrinho. Vá e volte bem. Se ficar inseguro ou não gostar, diga e volte para casa. Entendeu?",
+        "es-ES": "[Scania]\nN-no, no. Entonces, se lo encargo. Perrito. Vuelve bien. Si te sientes inquieto o no te gusta, dilo y vuelve a casa. ¿Entendido?"
+    },
+    "5p8KDQ": {
+        "en-US": "[Dog]\nYahaaang---",
+        "pt-BR": "[Cachorrinho]\nYahaaang---",
+        "es-ES": "[Perrito]\nYajaaaáaán---"
+    },
+    "558KDQ": {
+        "en-US": "[Scania]\nThere are a few places Mungmung likes, and it will guide you there. It will find things to eat by itself just fine, so you only need to take care of the dangerous monsters nearby.",
+        "pt-BR": "[Scania]\nO cachorrinho vai guiar você até alguns lugares de que ele gosta. Ele mesmo vai saber encontrar algo para comer sozinho, então basta cuidar dos monstros perigosos por perto.",
+        "es-ES": "[Scania]\nHay varios lugares que le gustan a Perrito y te irá guiando. Incluso él solo sabrá encontrar dónde comer, así que solo tienes que ocuparte de los monstruos peligrosos que haya cerca."
+    },
+    "6J8KDQ": {
+        "en-US": "[Scania]\nAshring often comes charging in and causes trouble... Please deal with the nearby Ashring. We usually end up taking down about 20 a day. I will leave it to you.",
+        "pt-BR": "[Scania]\nAshring costuma atacar e isso é um problema... por favor, elimine os Ashring ao redor. Em um dia, geralmente acabamos caçando uns 20. Conto com você.",
+        "es-ES": "[Scania]\nAshring suele lanzarse encima y es un dolor de cabeza... elimina a los Ashring de alrededor. Normalmente acabamos matando unos 20 al día. Entonces, te lo encargo."
+    },
+    "6Z8KDQ": {
+        "en-US": "[Scania]\nAh... ah... You are busy. Then there is no helping it.",
+        "pt-BR": "[Scania]\nAh... ah... você está ocupado. Então não tem jeito.",
+        "es-ES": "[Scania]\nAh... ah... así que está ocupado. Entonces no se puede hacer nada."
+    },
+    "6p8KDQ": {
+        "en-US": "[Scania]\nL-look at that disappointed face. It cannot be helped. Today, you are coming with me. Well then, goodbye, Adventurer!",
+        "pt-BR": "[Scania]\nO-Olha só essa cara decepcionada. Não tem jeito. Hoje você vai comigo. Então, aventureiro, tchau!",
+        "es-ES": "[Scania]\nM-mira qué cara de decepción. No se puede evitar. Hoy vienes conmigo. Bueno, ¡adiós, aventurero!"
+    },
+    "658KDQ": {
+        "en-US": "[Scania]\nAdventurer? Surely you did not come because of Mungmung's walk? But our Mungmung ate not long ago, so it cannot have digested yet. Please come back again after dawn.",
+        "pt-BR": "[Scania]\nAventureiro? Não me diga que veio por causa do passeio do cachorrinho? Mas o nosso cachorrinho comeu há pouco tempo, então nem deve ter digerido ainda. Por favor, volte depois que amanhecer.",
+        "es-ES": "[Scania]\n¿Aventurero? ¿No me diga que ha venido por el paseo de Perrito? Pero nuestro Perrito comió hace poco y aún no habrá hecho la digestión. Vuelva después del amanecer."
+    },
+    "7J8KDQ": {
+        "en-US": "[Scania]\nThere are a few places Mungmung likes, and it will guide you there. You only need to take care of the dangerous monsters nearby.",
+        "pt-BR": "[Scania]\nO cachorrinho vai guiá-lo até alguns lugares de que ele gosta. Basta cuidar dos monstros perigosos por perto.",
+        "es-ES": "[Scania]\nHay varios lugares que le gustan a Perrito y te irá guiando. Solo tienes que ocuparte de los monstruos peligrosos que haya cerca."
+    },
+    "7Z8KDQ": {
+        "en-US": "[Scania]\nOh my, oh my. Just look at this one breathing. Our Mungmung is really adorable, right?",
+        "pt-BR": "[Scania]\nMeu Deus, meu Deus. Olha só como ele respira. O nosso cachorrinho é mesmo uma fofura, não é?",
+        "es-ES": "[Scania]\nAy, ay. Mira cómo respira. ¿A que nuestro Perrito es monísimo?"
+    },
+    "7p8KDQ": {
+        "en-US": "Maram",
+        "pt-BR": "Maram",
+        "es-ES": "Maram"
+    },
+    "758KDQ": {
+        "en-US": "Woofwoof",
+        "pt-BR": "Cachorrinho",
+        "es-ES": "Perrito"
+    },
+    "8J8KDQ": {
+        "en-US": "Yahaaang~~~",
+        "pt-BR": "Yahaaang~~~",
+        "es-ES": "Yajaaaán~~~"
+    },
+    "8Z8KDQ": {
+        "en-US": "Aisha",
+        "pt-BR": "Aisha",
+        "es-ES": "Aisha"
+    },
+    "8p8KDQ": {
+        "en-US": "Do you want to see our Scooter poop? It is just so adorable. No, really, it is adorable.",
+        "pt-BR": "Quer ver o cocô do Fido? Sabe como ele é fofo? Não, é sério, é fofo mesmo.",
+        "es-ES": "¿Quieres ver la caca de nuestro Max? ¿A que es monísima? No, en serio, es que de verdad es monísima."
+    },
+    "858KDQ": {
+        "en-US": "Scooter",
+        "pt-BR": "Fido",
+        "es-ES": "Max"
+    },
+    "9J8KDQ": {
+        "en-US": "Woof?",
+        "pt-BR": "Au?",
+        "es-ES": "¿Guau?"
+    },
+    "9Z8KDQ": {
+        "en-US": "Yangyangi",
+        "pt-BR": "Ovelhinha",
+        "es-ES": "Ovejita"
+    },
+    "9p8KDQ": {
+        "en-US": "Nibble...",
+        "pt-BR": "Nhac...",
+        "es-ES": "Ñam..."
+    },
+    "958KDQ": {
+        "en-US": "Big Cluck",
+        "pt-BR": "Galinhão",
+        "es-ES": "Gallo grande"
+    },
+    "+J8KDQ": {
+        "en-US": "Squawk... Squawk....",
+        "pt-BR": "Cóc... cóc....",
+        "es-ES": "¡Cloac... cloac...."
+    },
+    "+Z8KDQ": {
+        "en-US": "Little Cluck",
+        "pt-BR": "Galinhinha",
+        "es-ES": "Gallinita"
+    },
+    "+p8KDQ": {
+        "en-US": "Cluckcluckcluckcluck-",
+        "pt-BR": "Cócócócócócó-",
+        "es-ES": "Clo clo clo clo clo clo-"
+    },
+    "+58KDQ": {
+        "en-US": "Guessy",
+        "pt-BR": "Filó",
+        "es-ES": "Señora Plumas"
+    },
+    "/J8KDQ": {
+        "en-US": "....Cluck?",
+        "pt-BR": "....Cóc?",
+        "es-ES": "....¿clo?"
+    },
+    "/Z8KDQ": {
+        "en-US": "Cutey",
+        "pt-BR": "Fofura",
+        "es-ES": "Chiquita"
+    },
+    "/p8KDQ": {
+        "en-US": "Cluck!! Cluck!!!",
+        "pt-BR": "Cocóricóó!!",
+        "es-ES": "¡¡Clo!! ¡¡¡Clo!!!"
+    },
+    "/58KDQ": {
+        "en-US": "[Aisha]\nBoksil~ Let us live together for a thousand years and ten thousand years, big sis and you. If anyone comes to hurt you, I will personally bury them in the Oz Maze. So our Boksil should not worry about anything~ Just trust your big sis and live happily.",
+        "pt-BR": "[Aisha]\nBoksil~ vamos viver juntas para todo o sempre. Se alguém vier para te machucar, eu mesma enterro essa pessoa no Labirinto de Oz. Então nosso Boksil não precisa se preocupar com nada~ confie só na sua irmãzona e viva feliz.",
+        "es-ES": "[Aisha]\nBoksil~ vivamos juntas por los siglos de los siglos. Si viene alguien a hacerte daño, yo misma lo enterraré en el Laberinto de Oz. Así que nuestro Boksil, no te preocupes por nada~ confía solo en tu hermanita y vive feliz."
+    },
+    "AKAKDQ": {
+        "en-US": "[Boksil]\nGrrr---",
+        "pt-BR": "[Boksil]\nGrrr---",
+        "es-ES": "[Boksil]\nGrrr---"
+    },
+    "AaAKDQ": {
+        "en-US": "[Aisha]\nNo, Boksil, calm down a little. Oh dear. What am I supposed to do if you are still wary. No, I am not saying that to blame you... I just mean let us get closer.",
+        "pt-BR": "[Aisha]\nNão, Boksil, se acalma um pouco. Ai, puxa. Ainda vai ficar estranhando assim? Não, eu não estou brigando com você... vamos nos dar melhor, tá?",
+        "es-ES": "[Aisha]\nNo, Boksil, tranquilízate un poco. Ay, de verdad. ¿Qué vamos a hacer si todavía te incomoda todo? No, no te lo digo por regañarte... Es que deberíamos llevarnos mejor."
+    },
+    "AqAKDQ": {
+        "en-US": "[Boksil]\nGrrrr--- Woof!!",
+        "pt-BR": "[Boksil]\nGrrrr--- AU!!",
+        "es-ES": "[Boksil]\n¡Grrrrr--- guau!!"
+    },
+    "A6AKDQ": {
+        "en-US": "[Aisha]\nAll right, all right. You need some time alone. Actually, so do I. In the end, everyone in the world is alone anyway. So let us each live well while living together.",
+        "pt-BR": "[Aisha]\nTá bom, tá bom. Você precisa de um tempo sozinha. Na verdade, eu também. No fim, todo mundo está sozinho neste mundo. Então vamos viver cada uma do seu jeito, mas juntas.",
+        "es-ES": "[Aisha]\nVale, vale. Necesitas tiempo a solas. La verdad, a mí también me pasa. Total, en este mundo todos estamos solos. Así que vivamos bien cada uno por nuestra cuenta, pero juntos."
+    },
+    "BKAKDQ": {
+        "en-US": "[Boksil]\nGrrrrrrr---",
+        "pt-BR": "[Boksil]\nGrrrrrrr---",
+        "es-ES": "[Boksil]\nGrrrrrrrrr---"
+    },
+    "BaAKDQ": {
+        "en-US": "[Aisha]\nWhy? What did I even do...... Huh? Who are you? I have never seen you before.",
+        "pt-BR": "[Aisha]\nPor quê? O que foi que eu fiz...... Ah? Quem é você? Nunca te vi antes.",
+        "es-ES": "[Aisha]\n¿Qué? ¿Qué he hecho yo......? ¿Ah? ¿Quién es usted? No me suena de haberle visto antes."
+    },
+    "BqAKDQ": {
+        "en-US": "Our Boksil, were you on guard because a stranger came? Oh my, good job!",
+        "pt-BR": "Nossa Boksil, você ficou alerta porque um estranho apareceu? Muito bem!",
+        "es-ES": "¿Nuestro Boksil se ha puesto en guardia porque ha venido un desconocido? Ay, qué bien hecho!"
+    },
+    "B6AKDQ": {
+        "en-US": "Grrr--",
+        "pt-BR": "Grrr--",
+        "es-ES": "Grrr--"
+    },
+    "CKAKDQ": {
+        "en-US": "So this wolf is that wolf cub?",
+        "pt-BR": "Então este lobo é aquele filhote de lobo?",
+        "es-ES": "¿Así que este lobo es ese cachorro?"
+    },
+    "CaAKDQ": {
+        "en-US": "[Aisha]\nDo not come close to our Boksil. Put your hand down. Turn around and disappear.",
+        "pt-BR": "[Aisha]\nNão chegue perto da nossa Boksil. Abaixe essa mão. Vire-se e suma daqui.",
+        "es-ES": "[Aisha]\nNo te acerques a nuestro Boksil. Baja la mano. Date la vuelta y desaparece."
+    },
+    "CqAKDQ": {
+        "en-US": "I am not a bad person...",
+        "pt-BR": "Eu não sou uma pessoa má...",
+        "es-ES": "No soy una mala persona..."
+    },
+    "C6AKDQ": {
+        "en-US": "[Aisha]\nBad people do not say they are bad people. Anyone who tells me to abandon my Boksil is a villain. And I show no mercy to villains.",
+        "pt-BR": "[Aisha]\nUma pessoa má não diz que é uma pessoa má. Quem quer que diga para eu abandonar a minha Boksil é um vilão. E eu não tenho misericórdia com vilões.",
+        "es-ES": "[Aisha]\nLa mala gente no va diciendo que es mala gente. Cualquiera que diga que abandone a mi Boksil es un villano. Y yo no tengo piedad con los villanos."
+    },
+    "DKAKDQ": {
+        "en-US": "How long has it been since you came here?",
+        "pt-BR": "Há quanto tempo ele está aqui?",
+        "es-ES": "¿Cuánto tiempo lleva aquí?"
+    },
+    "DaAKDQ": {
+        "en-US": "[Aisha]\nThat is personal information, so I cannot tell you. Why do you ask?",
+        "pt-BR": "[Aisha]\nIsso é informação pessoal, então não posso dizer. Por que pergunta?",
+        "es-ES": "[Aisha]\nEso es información personal, así que no puedo decírtelo. ¿Por qué lo preguntas?"
+    },
+    "DqAKDQ": {
+        "en-US": "[{0}]\nNo, I mean this wolf cub. It does not seem to be trained yet.",
+        "pt-BR": "[{0}]\nNão, estou falando deste filhote de lobo. Parece que ele ainda não foi treinado.",
+        "es-ES": "[{0}]\nNo, me refiero a este cachorro de lobo. Parece que aún no está entrenado."
+    },
+    "D6AKDQ": {
+        "en-US": "[Aisha]\n... No, that is. It has been about half a month now. It is still a baby, so there is no way it could be trained yet.",
+        "pt-BR": "[Aisha]\n... Ah, isso. Já faz umas duas semanas. Ainda é um bebê, então não tem como treinar.",
+        "es-ES": "[Aisha]\n... No, eso... hará ya unas dos semanas. Todavía es un bebé, así que no puede entrenarse."
+    },
+    "EKAKDQ": {
+        "en-US": "Actually, the reason I came is...",
+        "pt-BR": "Na verdade, eu vim porque...",
+        "es-ES": "En realidad, he venido..."
+    },
+    "EaAKDQ": {
+        "en-US": "[Aisha]\nWhat? I knew it! Stay at least ten steps away from our Boksil right now. Do not come any closer.",
+        "pt-BR": "[Aisha]\nO quê? Eu sabia! Fique pelo menos 10 passos longe da nossa Boksil agora mesmo. Não se aproxime.",
+        "es-ES": "[Aisha]\n¿Qué? ¡Ya me lo imaginaba! Aléjate inmediatamente más de diez pasos de nuestro Boksil. No te acerques."
+    },
+    "EqAKDQ": {
+        "en-US": "[{0}]\nI did not come to take it away, only to take a look... If it got separated from its pack, it may need to be returned. And if the mother wolf comes looking for it, we should be prepared.",
+        "pt-BR": "[{0}]\nNão vim para levá-lo, mas para examiná-lo... Se ela se separou do grupo, talvez precise ser devolvido. E também precisamos nos preparar caso a mãe venha procurá-lo.",
+        "es-ES": "[{0}]\nNo he venido para llevármelo, sino para echarle un vistazo... Si se ha separado de la manada, habría que devolverlo. Y también habría que prepararse por si viene la madre a buscarlo."
+    },
+    "E6AKDQ": {
+        "en-US": "[Aisha]\nIt did not get separated from its pack. I brought it here when it was dying beside its dead mother.",
+        "pt-BR": "[Aisha]\nEla não se separou do grupo. Eu o trouxe quando estava morrendo ao lado da mãe, que já estava morta.",
+        "es-ES": "[Aisha]\nNo se separó de la manada. Lo traje conmigo cuando estaba muriéndose junto a su madre lobo, que ya estaba muerta."
+    },
+    "FKAKDQ": {
+        "en-US": "[{0}]\nI see. It must be anxious, separated from its mother and living in an unfamiliar place.",
+        "pt-BR": "[{0}]\nQue triste. Ele deve estar inseguro por ter se separado da mãe e passado a viver em um lugar desconhecido.",
+        "es-ES": "[{0}]\nVaya. Debe de sentirse inquieto por haberse separado de su madre y tener que vivir en un lugar desconocido."
+    },
+    "FaAKDQ": {
+        "en-US": "[Aisha]\nYou really did not come to take it away? Then why did you come?",
+        "pt-BR": "[Aisha]\nVocê não veio mesmo para levá-lo? Então por que veio?",
+        "es-ES": "[Aisha]\n¿De verdad no has venido para llevártelo? Entonces, ¿por qué has venido?"
+    },
+    "FqAKDQ": {
+        "en-US": "[{0}]\nI did come to check whether it was really a wolf cub and then try to persuade you, but...",
+        "pt-BR": "[{0}]\nNa verdade, vim para confirmar se era mesmo um filhote de lobo e depois tentar convencer você...",
+        "es-ES": "[{0}]\nLa verdad, sí venía a comprobar si era realmente un cachorro de lobo y luego a intentar convencerte, pero..."
+    },
+    "F6AKDQ": {
+        "en-US": "[Aisha]\nI knew it! Scania sent you, right? No, why are they meddling in someone else's pet? Our Boksil is not dangerous, so just go back. There is nothing more to see.",
+        "pt-BR": "[Aisha]\nEu sabia! Foi a Scania que mandou você, não foi? Sério, por que fica se metendo no animal de estimação dos outros? Nosso Boksil não é perigoso, então vá embora. Não há mais nada para ver.",
+        "es-ES": "[Aisha]\n¡Ya lo sabía! Te ha mandado Scania, ¿verdad? Vamos, ¿por qué se mete la gente a opinar sobre la mascota de los demás? Nuestro Boksil no es peligroso, así que vuelve por donde has venido. No hay nada más que ver."
+    },
+    "GKAKDQ": {
+        "en-US": "There is no harm in being careful.",
+        "pt-BR": "Não faz mal ser cauteloso.",
+        "es-ES": "No está de más ser prudente."
+    },
+    "GaAKDQ": {
+        "en-US": "[Aisha]\nDo you really think so? Do you really think our Boksil could become a potential threat? When it is this tiny and cute...?",
+        "pt-BR": "[Aisha]\nVocê pensa mesmo assim? Acha mesmo que o nosso Boksil pode se tornar uma ameaça em potencial? Sendo assim tão pequeno e fofo...?",
+        "es-ES": "[Aisha]\n¿De verdad piensas eso? ¿De verdad crees que nuestro Boksil podría convertirse en una amenaza potencial? ¿Siendo tan pequeño y tan mono...?"
+    },
+    "GqAKDQ": {
+        "en-US": "Ah, you do not like people praising Boksil? All right, all right.",
+        "pt-BR": "Ah, então o Boksil não gosta de elogios? Tá bom, tá bom.",
+        "es-ES": "Ah, ¿a Boksil no le gusta que lo alaben? Vale, vale."
+    },
+    "G6AKDQ": {
+        "en-US": "[{0}]\nNormally I would have thought so, but... if there is no mother, then at least there is no reason for wolves to come here.",
+        "pt-BR": "[{0}]\nEm circunstâncias normais, eu pensaria assim... mas, se ela não tem mãe, então pelo menos não há motivo para os lobos virem até aqui.",
+        "es-ES": "[{0}]\nNormalmente habría pensado eso, pero... si no tiene madre, al menos ya no hay razón para que los lobos vengan hasta aquí."
+    },
+    "HKAKDQ": {
+        "en-US": "[Aisha]\nThat is exactly what I am saying! But stupid Scania does not get it! Even a total stranger like you understands my heart this well!",
+        "pt-BR": "[Aisha]\nÉ isso que eu estou dizendo! Mas a idiota da Scania não entende isso! Até um estranho completo entende tão bem o meu coração!",
+        "es-ES": "[Aisha]\n¡Eso mismo digo yo! ¡Pero la tonta de Scania no lo entiende! ¡Y mira que hasta un desconocido, que ni me conoce de nada, entiende tan bien mi corazón!"
+    },
+    "HaAKDQ": {
+        "en-US": "[{0}]\nBesides, this motherless wolf cub would not be able to survive on its own.",
+        "pt-BR": "[{0}]\nAlém disso, este filhote de lobo sem mãe não conseguiria sobreviver sozinho.",
+        "es-ES": "[{0}]\nAdemás, este cachorro de lobo sin madre no podrá sobrevivir por sí solo."
+    },
+    "HqAKDQ": {
+        "en-US": "[Aisha]\nExactly! That cold-blooded thing must have ice for brains too.",
+        "pt-BR": "[Aisha]\nExatamente! Aquela sangue-frio deve ter congelado até o cérebro.",
+        "es-ES": "[Aisha]\n¡Exacto! ¡Esa sanguinaria tiene hasta la cabeza congelada!"
+    },
+    "H6AKDQ": {
+        "en-US": "[{0}]\nBut if Boksil is going to live together in the village, it needs training. It has to learn not to harm others and how to get along with them.",
+        "pt-BR": "[{0}]\nMas, se o Boksil vai viver junto na vila, ele precisa de treinamento. Precisa aprender a não machucar os outros e a conviver com eles.",
+        "es-ES": "[{0}]\nPero si Boksil va a vivir aquí, en el pueblo, necesita adiestramiento. Tiene que aprender a no hacer daño a los demás y a convivir."
+    },
+    "IKAKDQ": {
+        "en-US": "[Aisha]\nBut it is still this young...",
+        "pt-BR": "[Aisha]\nMas ele ainda é tão novinho...",
+        "es-ES": "[Aisha]\n¿Pero siendo todavía tan pequeño..."
+    },
+    "IaAKDQ": {
+        "en-US": "[{0}]\nThat is why it should be done while it is young. If it is trained from a young age, none of the things the villagers are worried about will happen.",
+        "pt-BR": "[{0}]\nÉ justamente quando é novo que deve ser treinado. Se for treinado desde pequeno, aquilo que preocupa o pessoal da vila não vai acontecer.",
+        "es-ES": "[{0}]\nJustamente hay que hacerlo de pequeño. Si se adiestra desde temprana edad, no ocurrirá nada de lo que teme la gente del pueblo."
+    },
+    "IqAKDQ": {
+        "en-US": "[{0}]\nA firm tone, immediate responses, and plenty of praise alone will be enough for it to understand well. Wolves are smart, after all. What does Boksil like the most?",
+        "pt-BR": "[{0}]\nUm tom de voz firme, reações imediatas e muitos elogios já vão fazer com que ele entenda bem. Os lobos são inteligentes. Do que o Boksil mais gosta?",
+        "es-ES": "[{0}]\nCon un tono firme, una reacción inmediata y bastantes elogios, lo entenderá bien. Los lobos son inteligentes. ¿Qué es lo que más le gusta a Boksil?"
+    },
+    "I6AKDQ": {
+        "en-US": "[Aisha]\nHmm... meat? But I do not have any right now. Do you have some, Adventurer?",
+        "pt-BR": "[Aisha]\nHum... carne? Mas agora não tenho. O aventureiro tem?",
+        "es-ES": "[Aisha]\nMmm... ¿carne? Pero ahora mismo no tengo. ¿Lleva el aventurero?"
+    },
+    "JKAKDQ": {
+        "en-US": "[{0}]\nAh...! I do not have any meat to use as a treat, meat... I should go and bring some meat.",
+        "pt-BR": "[{0}]\nAh...! Não tenho carne para dar como petisco, carne... preciso trazer carne.",
+        "es-ES": "[{0}]\n¡Ah...! No tengo carne para darle como premio, carne... tendré que traer carne."
+    },
+    "JaAKDQ": {
+        "en-US": "[{0}]\nOf course. You never know when or where you might run into stray cats or stray dogs, so you should always carry at least one piece of meat close to your chest.\nThen let us begin the training.",
+        "pt-BR": "[{0}]\nClaro. Nunca se sabe quando vamos encontrar gatos ou cachorros de rua, então é preciso sempre carregar ao menos um pedaço de carne junto ao peito.\nEntão vamos começar o treinamento.",
+        "es-ES": "[{0}]\nClaro. Uno nunca sabe cuándo puede encontrarse con gatos callejeros o perritos callejeros, así que siempre hay que llevar al menos un trozo de carne sobre el pecho.\nEntonces, empecemos el adiestramiento."
+    },
+    "JqAKDQ": {
+        "en-US": "[Aisha]\nHow are you supposed to train it with meat? Is one piece enough?",
+        "pt-BR": "[Aisha]\nComo você pretende treinar com carne? Só uma já basta?",
+        "es-ES": "[Aisha]\n¿Cómo se supone que lo vas a adiestrar con carne? ¿Basta con un solo trozo?"
+    },
+    "J6AKDQ": {
+        "en-US": "[Aisha]\nI need to show Scania that our Boksil is safe and reliable!",
+        "pt-BR": "[Aisha]\nPreciso mostrar para a Scania que o nosso Boksil é seguro e confiável!",
+        "es-ES": "[Aisha]\n¡Tengo que demostrarle a Scania que nuestro Boksil es seguro y digno de confianza!"
+    },
+    "KKAKDQ": {
+        "en-US": "[Aisha]\nDo you want to see our Boksil poop? It is just so adorable. Ah, but do not touch it.",
+        "pt-BR": "[Aisha]\nQuer ver o cocô do nosso Boksil? Sabe como ele é fofo? Ah, mas isso não quer dizer que pode tocar.",
+        "es-ES": "[Aisha]\n¿Quieres ver la caca de nuestro Boksil? ¿A que es monísima? Ah, pero no la toques."
+    },
+    "KaAKDQ": {
+        "en-US": "[Aisha]\nDid you not say you needed one chunk of meat? Or did you not?",
+        "pt-BR": "[Aisha]\nVocê não tinha dito que precisava de um pedaço de carne? Ou não?",
+        "es-ES": "[Aisha]\n¿No habías dicho que hacía falta un trozo de carne? ¿O no?"
+    },
+    "KqAKDQ": {
+        "en-US": "[{0}]\nHello~ I am {0}. You are Boksil, right? Nice to meet you. You are anxious because you came to an unfamiliar place, right? I understand exactly how you feel, I understand.",
+        "pt-BR": "[{0}]\nOi~ eu sou {0}. Você é o Boksil, não é? Prazer. Ficar em um lugar estranho deixa você inseguro, né? Eu entendo bem o seu coração, entendo tudo.",
+        "es-ES": "[{0}]\nHola~ Soy {0}. ¿Tú eres Boksil, verdad? Encantado. Estás inquieto por haber venido a un lugar desconocido, ¿verdad? Entiendo perfectamente cómo te sientes, perfectamente."
+    },
+    "K6AKDQ": {
+        "en-US": "[Boksil]\nGrrrrr---",
+        "pt-BR": "[Boksil]\nGrrrrrr---",
+        "es-ES": "[Boksil]\nGrrrrrr---"
+    },
+    "LKAKDQ": {
+        "en-US": "Will this be okay? It looks displeased.",
+        "pt-BR": "Será que está tudo bem? Ele parece incomodado.",
+        "es-ES": "¿Seguro que está bien? Parece de mal humor."
+    },
+    "LaAKDQ": {
+        "en-US": "[{0}]\nBut it is okay. Everything is okay. There is no one here who will harm our Boksil. So do not worry.",
+        "pt-BR": "[{0}]\nMas está tudo bem. Vai ficar tudo bem. Aqui não há ninguém que vá machucar o nosso Boksil. Fique tranquilo.",
+        "es-ES": "[{0}]\nPero no pasa nada. Todo está bien. Aquí no hay nadie que vaya a hacerle daño a nuestro Boksil. Tranquilo."
+    },
+    "LqAKDQ": {
+        "en-US": "[{0}]\nNow we are all going to live together. With a warm home and delicious food.\nBut to do that, we need to set a few rules. Is that okay?",
+        "pt-BR": "[{0}]\nAgora vamos viver todos juntos. Com um lar quentinho e comida gostosa.\nMas, para isso, precisamos definir algumas regras. Tudo bem?",
+        "es-ES": "[{0}]\nA partir de ahora vamos a vivir todos juntos. Con un hogar cálido y comida rica.\nPero para eso tenemos que poner algunas reglas. ¿Te parece bien?"
+    },
+    "L6AKDQ": {
+        "en-US": "[Boksil]\nWoof?",
+        "pt-BR": "[Boksil]\nAu?",
+        "es-ES": "[Boksil]\n¿Guau?"
+    },
+    "MKAKDQ": {
+        "en-US": "[Aisha]\nIt really sounds like you are talking to a child.",
+        "pt-BR": "[Aisha]\nParece até que você está falando com uma criancinha.",
+        "es-ES": "[Aisha]\nParece que le estés hablando a un niño pequeño."
+    },
+    "MaAKDQ": {
+        "en-US": "[{0}]\nNow, look. Meat. Does Boksil like meat? Grilled? Raw? Or boiled? Have you never tried grilled meat? That is okay. You will have plenty of chances to eat it from now on.",
+        "pt-BR": "[{0}]\nOlha só. É carne. O Boksil gosta de carne? Assada? Crua? Ou cozida? Nunca comeu assada? Tudo bem. Você ainda vai ter muitas chances de experimentar.",
+        "es-ES": "[{0}]\nMira. Carne. ¿A Boksil le gusta la carne? ¿Asada? ¿Cruda? ¿O hervida? ¿No has probado la asada? No pasa nada. Ya tendrás muchas oportunidades de comerla."
+    },
+    "MqAKDQ": {
+        "en-US": "[Boksil]\nWoof!",
+        "pt-BR": "[Boksil]\nAu!",
+        "es-ES": "[Boksil]\n¡Guau!"
+    },
+    "M6AKDQ": {
+        "en-US": "[{0}]\nLet us do well together.\nBoksil, sit!\nStay!\nGood job. Here, meat.",
+        "pt-BR": "[{0}]\nVamos nos dar bem.\nBoksil, senta!\nEspera!\nMuito bem. Aqui está a carne.",
+        "es-ES": "[{0}]\nVamos a hacerlo bien.\nBoksil, ¡siéntate!\n¡Quieto!\nMuy bien. Toma, carne."
+    },
+    "NKAKDQ": {
+        "en-US": "[{0}]\nSee? If it follows commands like this well, be sure to praise it a lot.",
+        "pt-BR": "[{0}]\nViu? Sempre que ele obedecer bem às instruções assim, elogie bastante.",
+        "es-ES": "[{0}]\n¿Lo ve? Si sigue bien las órdenes así, hay que elogiarlo mucho."
+    },
+    "NaAKDQ": {
+        "en-US": "[Aisha]\nOh my, oh my. Is our baby not truly a genius?\nOur Boksil did so well!!!!",
+        "pt-BR": "[Aisha]\nMeu Deus, meu Deus. Nosso filhote não é mesmo um gênio?\nNossa Boksil, muito bem!!!!",
+        "es-ES": "[Aisha]\nAy, ay. ¿A que nuestro niño es un auténtico genio?\n¡¡¡¡Nuestro Boksil lo ha hecho genial!!!!"
+    },
+    "NqAKDQ": {
+        "en-US": "[{0}]\nYou have to keep doing it until it gets used to it. Repetition training is important. You just need to keep doing it like now.",
+        "pt-BR": "[{0}]\nVocê precisa continuar até ele se acostumar. Treinamento repetitivo é importante. É só continuar como agora.",
+        "es-ES": "[{0}]\nHay que seguir hasta que se acostumbre. El entrenamiento repetido es importante. Basta con hacerlo como ahora."
+    },
+    "N6AKDQ": {
+        "en-US": "[{0}]\nBoksil, sit.\nPaw.\nStay. Now try it yourself.",
+        "pt-BR": "[{0}]\nBoksil, senta.\nDá a pata.\nEspera. Pronto, agora tente você mesma.",
+        "es-ES": "[{0}]\nBoksil, siéntate.\nLa pata.\nQuieto. Bien, ahora inténtelo usted misma."
+    },
+    "OKAKDQ": {
+        "en-US": "[Aisha]\nBoksil, sit!\nPaw!\nWow, that is really amazing.",
+        "pt-BR": "[Aisha]\nBoksil, senta!\nDá a pata!\nUau, isso é realmente incrível.",
+        "es-ES": "[Aisha]\n¡Boksil, siéntate!\n¡La pata!\nGuau, qué increíble de verdad."
+    },
+    "OaAKDQ": {
+        "en-US": "[{0}]\nCanine animals like this all depend on how they are trained. If it comes to feel this place is a safe home and forms a good bond, it will live well here.",
+        "pt-BR": "[{0}]\nEsses animais da família dos canídeos dependem de como são treinados. Se sentirem que este lugar é um lar seguro e criarem um bom vínculo, poderão viver bem.",
+        "es-ES": "[{0}]\nEste tipo de animales de la familia canina depende de cómo se los adiestre. Si siente que este lugar es un hogar seguro y se crea un buen vínculo, podrá convivir bien."
+    },
+    "OqAKDQ": {
+        "en-US": "[{0}]\nAnd if it greets the others and lives with them from a young age, it should get along without any major problems.",
+        "pt-BR": "[{0}]\nE, se ele também conhecer os outros amigos e conviver com eles desde pequeno, vai viver bem sem grandes problemas.",
+        "es-ES": "[{0}]\nY si además saluda a otros compañeros y vive con ellos desde pequeño, podrá llevarse bien sin grandes problemas."
+    },
+    "O6AKDQ": {
+        "en-US": "[Aisha]\nWill people understand that?",
+        "pt-BR": "[Aisha]\nSerá que as pessoas vão reconhecer isso?",
+        "es-ES": "[Aisha]\n¿Crees que la gente sabrá verlo?"
+    },
+    "PKAKDQ": {
+        "en-US": "[{0}]\nYou can just show them what it did just now. That Boksil is ready to live as a member of this village as well.\nGo to <NAVI>[Scania]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>. Go and show them our magnificent and dignified Boksil.",
+        "pt-BR": "[{0}]\nBasta mostrar o que acabamos de fazer. Mostrar que a Boksil também está pronto para viver como membro desta vila.\nVá até a Sra. <NAVI>[Scania]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>. Vá mostrar o nosso belo e imponente Boksil.",
+        "es-ES": "[{0}]\nBasta con enseñarles lo que acaba de hacer. Que Boksil también está preparado para vivir como un miembro más de este pueblo.\nVaya a ver a <NAVI>[Scania]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>. Vaya y enséñele a nuestro magnífico y gallardo Boksil."
+    },
+    "PaAKDQ": {
+        "en-US": "[Aisha]\nBoksil is cute, sure. But did you not say we were going to <NAVI>[Scania]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>? Do not forget.",
+        "pt-BR": "[Aisha]\nO Boksil é fofo, sim. Mas você não disse que ia até <NAVI>[Scania]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>? Não vá esquecer.",
+        "es-ES": "[Aisha]\nBoksil es mono, sí. Pero ¿no habíamos dicho que iríamos a ver a <NAVI>[Scania]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>? Que no se te olvide."
+    },
+    "PqAKDQ": {
+        "en-US": "[Aisha]\nAh, I told you not to touch our Boksil! It does not like it!",
+        "pt-BR": "[Aisha]\nAh, eu falei para não tocar no nosso Boksil! Ele não gosta!",
+        "es-ES": "[Aisha]\nAh, ¡te he dicho que no toques a nuestro Boksil! ¡Al niño no le gusta!"
+    },
+    "P6AKDQ": {
+        "en-US": "Grass",
+        "pt-BR": "Capim",
+        "es-ES": "Hierba"
+    },
+    "QKAKDQ": {
+        "en-US": "You were already here. Do you like it here? Ah.. there is no grass here. Let us look for somewhere else. Is there anywhere you want to go?",
+        "pt-BR": "Já chegou. Você gosta daqui? Ah... aqui não tem capim. Vamos procurar outro lugar. Tem algum lugar que queira?",
+        "es-ES": "Ya habías llegado. ¿Te gusta aquí? Ah... aquí no hay hierba. Vamos a buscar otro sitio. ¿Hay algún lugar que quieras?"
+    },
+    "QaAKDQ": {
+        "en-US": "Yahaaang!",
+        "pt-BR": "Yahaaang!",
+        "es-ES": "¡Yajaaaán!"
+    },
+    "QqAKDQ": {
+        "en-US": "Already left. Let us just catch some Ashring!!",
+        "pt-BR": "Já foi. Vamos caçar uns Ashring!!",
+        "es-ES": "Ya se fue. ¡Vamos a cazar a Ashring!!"
+    },
+    "Q6AKDQ": {
+        "en-US": "Did you eat your fill?",
+        "pt-BR": "Comeu bastante?",
+        "es-ES": "¿Has comido bien hasta llenarte?"
+    },
+    "RKAKDQ": {
+        "en-US": "Did Boksil protect Mungmung well?",
+        "pt-BR": "O Boksil protegeu bem o cachorrinho?",
+        "es-ES": "¿Boksil ha protegido bien a Perrito?"
+    },
+    "RaAKDQ": {
+        "en-US": "Woof!!!",
+        "pt-BR": "Au!!!",
+        "es-ES": "¡¡¡Guau!!!"
+    },
+    "RqAKDQ": {
+        "en-US": "Good job. Now let us go home!!!",
+        "pt-BR": "Muito bem. Agora vamos para casa!!!",
+        "es-ES": "Muy bien. ¡¡¡Ahora volvamos a casa!!!"
+    },
+    "R6AKDQ": {
+        "en-US": "Let us catch some Ashring so it can graze in peace!",
+        "pt-BR": "Vamos caçar uns Ashring para você poder pastar em paz!",
+        "es-ES": "¡Vamos a cazar a Ashring para que pueda pastar a gusto!"
+    },
+    "SKAKDQ": {
+        "en-US": "Yahahang?",
+        "pt-BR": "Yahahang?",
+        "es-ES": "¿Yajahán?"
+    },
+    "SaAKDQ": {
+        "en-US": "Woof!!",
+        "pt-BR": "Au!!",
+        "es-ES": "¡¡Guau!!"
+    },
+    "SqAKDQ": {
+        "en-US": "Mungmung",
+        "pt-BR": "Cachorrinho",
+        "es-ES": "Perrito"
+    },
+    "S6AKDQ": {
+        "en-US": "The current progress is {0}",
+        "pt-BR": "O progresso atual é {0}",
+        "es-ES": "El progreso actual es {0}"
+    },
+    "TKAKDQ": {
+        "en-US": "Munch munch~",
+        "pt-BR": "Nhac nhac nhac~",
+        "es-ES": "Ñam ñam~"
+    },
+    "TaAKDQ": {
+        "en-US": "Nibble~♬",
+        "pt-BR": "Nhac~♬",
+        "es-ES": "Ñam~♬"
+    },
+    "TqAKDQ": {
+        "en-US": "Munch munch~",
+        "pt-BR": "Nom nom~",
+        "es-ES": "Mmm mmm~"
+    },
+    "T6AKDQ": {
+        "en-US": "Boksil",
+        "pt-BR": "Boksil",
+        "es-ES": "Boksil"
+    }
+}

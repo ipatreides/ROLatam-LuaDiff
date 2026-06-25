@@ -1,0 +1,602 @@
+{
+    "oEASDQ": {
+        "en-US": "Employee",
+        "pt-BR": "Funcionário",
+        "es-ES": "Empleado"
+    },
+    "oUASDQ": {
+        "en-US": "[Employee]\n...!\nAdventurer, you smell of volcanic ash.\nThor Volcano... no.",
+        "pt-BR": "[Funcionário]\n...!\nAventureiro, você está com cheiro de cinzas vulcânicas.\nVulcão Thor... não.",
+        "es-ES": "[Empleado]\n...!\nTrotamundos, huele a ceniza volcánica.\nVolcán Thor... No."
+    },
+    "okASDQ": {
+        "en-US": "Employee glanced around for a moment, then spoke in a low voice.",
+        "pt-BR": "Funcionário olhou em volta por um instante e falou em voz baixa.",
+        "es-ES": "Empleado echó un vistazo a su alrededor por un instante y habló en voz baja."
+    },
+    "o0ASDQ": {
+        "en-US": "[Employee]\nCould it be that you know the way to... Gray Wolf Forest?",
+        "pt-BR": "[Funcionário]\nPor acaso, o caminho para a Floresta do Lobo Cinzento...",
+        "es-ES": "[Empleado]\n¿Conoce, por casualidad, el camino a Bosque del Lobo Gris (1)..."
+    },
+    "pEASDQ": {
+        "en-US": "I do.",
+        "pt-BR": "Eu sei.",
+        "es-ES": "Sí lo conozco"
+    },
+    "pUASDQ": {
+        "en-US": "I do not.",
+        "pt-BR": "Eu não sei.",
+        "es-ES": "No lo conozco"
+    },
+    "pkASDQ": {
+        "en-US": "[Employee]\nThere is no use pretending you do not know.",
+        "pt-BR": "[Funcionário]\nNão adianta fingir que não sabe.",
+        "es-ES": "[Empleado]\nNo sirve de nada fingir que no lo sabe."
+    },
+    "p0ASDQ": {
+        "en-US": "[Employee]\n...Could you guide me there?\nI truly... truly want to go there.",
+        "pt-BR": "[Funcionário]\n...você poderia me guiar até lá?\nEu realmente... realmente quero ir até aquele lugar.",
+        "es-ES": "[Empleado]\n...¿Podría guiarme hasta allí?\nDe verdad... de verdad quiero ir a ese lugar."
+    },
+    "qEASDQ": {
+        "en-US": "[Employee]\nI know it is a dangerous road. I am no Adventurer, after all...\nBut I truly have no other way to reach that place.",
+        "pt-BR": "[Funcionário]\nEu sei que é um caminho perigoso. Eu não sou aventureiro...\nMas eu realmente não tenho como chegar lá.",
+        "es-ES": "[Empleado]\nSé que es un camino peligroso. Yo no soy aventurero...\nPero de verdad no tengo forma alguna de llegar hasta allí."
+    },
+    "qUASDQ": {
+        "en-US": "[Employee]\nWhen my friends and family said they were leaving, I said I would endure here a little longer...\nBut perhaps they thought I would only try to stop them, because one night they all left as though fleeing under cover of darkness.\nAnd of course, all news from them stopped after that...",
+        "pt-BR": "[Funcionário]\nQuando meus amigos e minha família disseram que iam partir, eu disse que tentaria aguentar mais um pouco...\nMas, talvez por acharem que eu seria um obstáculo, todos foram embora certa noite como se estivessem fugindo às escondidas.\nE, naturalmente, depois disso perdi todo o contato...",
+        "es-ES": "[Empleado]\nCuando mis amigos y mi familia se fueron, yo dije que intentaría aguantar un poco más aquí...\nPero debieron de pensar que yo sería un estorbo, porque una noche se marcharon todos como si huyeran a escondidas.\nY, claro, desde entonces no he vuelto a saber nada de ellos..."
+    },
+    "qkASDQ": {
+        "en-US": "[Employee]\nPlease take me there.\nI have no one left now.",
+        "pt-BR": "[Funcionário]\nLeve-me até aquele lugar.\nAgora eu não tenho mais ninguém.",
+        "es-ES": "[Empleado]\nLléveme a ese lugar.\nYa no me queda nadie."
+    },
+    "q0ASDQ": {
+        "en-US": "Did something go wrong?",
+        "pt-BR": "Aconteceu alguma coisa?",
+        "es-ES": "¿Pasó algo malo?"
+    },
+    "rEASDQ": {
+        "en-US": "Before even finishing his introduction, he gave a bitter smile.",
+        "pt-BR": "Sem sequer terminar de se apresentar, ele soltou um sorriso amargo.",
+        "es-ES": "Sin haber terminado siquiera de presentarse, esbozó una sonrisa amarga."
+    },
+    "rUASDQ": {
+        "en-US": "[Horim]\nIndeed, what am I even saying to someone I have only just met.\nMy name is Horim.\nAnd you are...\n{0}, is that right?",
+        "pt-BR": "[Horim]\nPois é, nem eu sei o que estou falando assim com alguém que acabei de conhecer.\nMeu nome é Horim.\nE o aventureiro é...\n{0}, certo?",
+        "es-ES": "[Horim]\nEso digo yo, contándole todo esto a alguien a quien veo por primera vez.\nMe llamo Horim.\nY usted, trotamundos...\n¿se llama {0}?"
+    },
+    "rkASDQ": {
+        "en-US": "[Horim]\nThen... {0}.\nIf you have been there, that means you know the situation that <B>we</B> are in right now.",
+        "pt-BR": "[Horim]\nEntão... {0}.\nSe você já foi até lá, isso significa que sabe a situação em que <B>nós</B> nos encontramos agora.",
+        "es-ES": "[Horim]\nEntonces... {0}.\nSi ya ha estado allí, eso significa que sabe en qué situación nos encontramos <B>nosotros</B> ahora mismo."
+    },
+    "r0ASDQ": {
+        "en-US": "[Horim]\nIt was better than this, at least until my family left.\nThough to look at it, things are no different now than they were then...",
+        "pt-BR": "[Horim]\nQuando minha família foi embora, as coisas ainda estavam melhores do que agora.\nEmbora, por fora, naquela época e agora não pareça tão diferente...",
+        "es-ES": "[Horim]\nHasta que mi familia se marchó, las cosas iban mejor que ahora.\nAunque por fuera entonces y ahora no parezca tan distinto..."
+    },
+    "sEASDQ": {
+        "en-US": "[Horim]\nNow... on the surface, things seem fine. There are all sorts of policies and such. But inside, it has festered beyond measure...\nWhen I go out into the streets, it is hard even to hear laughter. It feels as though someone is cursing me, cursing us, again.\nI just cannot endure it anymore...",
+        "pt-BR": "[Horim]\nAgora... por fora parece tudo bem. Existem várias políticas e tudo mais. Mas por dentro já apodreceu até não dar mais...\nQuando saio para a rua, é difícil até ouvir risadas. Parece que mais alguém está me insultando, insultando a nós.\nEu não consigo mais aguentar...",
+        "es-ES": "[Horim]\nAhora... por fuera parece que todo está bien. Hay políticas y todo eso. Pero por dentro la cosa está ya podrida...\nCuando salgo a la calle, cuesta hasta oír risas. Parece que todos me insultan a mí, a nosotros.\nYa no puedo aguantarlo..."
+    },
+    "sUASDQ": {
+        "en-US": "Since we have already started this...",
+        "pt-BR": "Já que começou...",
+        "es-ES": "Ya que has empezado..."
+    },
+    "skASDQ": {
+        "en-US": "[{0}]\nSince we have already started this, whether it is twice or three times is all the same.",
+        "pt-BR": "[{0}]\nJá que começou, duas ou três vezes dá na mesma.",
+        "es-ES": "[{0}]\nYa que has empezado, dos o tres veces más da igual."
+    },
+    "s0ASDQ": {
+        "en-US": "!!",
+        "pt-BR": "!!",
+        "es-ES": "!!"
+    },
+    "tEASDQ": {
+        "en-US": "[Horim]\n...Thank you. Thank you so much...",
+        "pt-BR": "[Horim]\n...obrigado. Muito obrigado...",
+        "es-ES": "[Horim]\n...Gracias. Muchísimas gracias..."
+    },
+    "tUASDQ": {
+        "en-US": "Horim barely managed to force out his thanks and let out a sigh of relief.",
+        "pt-BR": "Horim mal conseguiu espremer as palavras de agradecimento e soltou um suspiro de alívio.",
+        "es-ES": "Horim apenas logró sacar unas palabras de agradecimiento y suspiró aliviado."
+    },
+    "tkASDQ": {
+        "en-US": "Manager: You there, the ones with empty hands, come over here.",
+        "pt-BR": "Administrador: Ei, vocês aí de mãos vazias, venham para cá.",
+        "es-ES": "Mayordomo: Ustedes, los que tengáis las manos libres, venid un momento."
+    },
+    "t0ASDQ": {
+        "en-US": "Employee: Yess~",
+        "pt-BR": "Funcionário: Siiim...",
+        "es-ES": "Empleado: Síí..."
+    },
+    "uEASDQ": {
+        "en-US": "Employee: Yep~",
+        "pt-BR": "Funcionário: Certo.",
+        "es-ES": "Empleado: ¡Sí!"
+    },
+    "uUASDQ": {
+        "en-US": "Employee: Right~",
+        "pt-BR": "Funcionário: Sim!",
+        "es-ES": "Empleado: ¡Voy!"
+    },
+    "ukASDQ": {
+        "en-US": "Employee: Y-yes!",
+        "pt-BR": "Funcionário: S-sim!",
+        "es-ES": "Empleado: ¡Síí...!"
+    },
+    "u0ASDQ": {
+        "en-US": "[Horim]\n...I am sorry. Something urgent has come up, so I think I need to go.",
+        "pt-BR": "[Horim]\n...desculpe. Acho que surgiu algo urgente e eu preciso ir.",
+        "es-ES": "[Horim]\n...Lo siento. Me ha salido ahora algo urgente y creo que tendré que irme."
+    },
+    "vEASDQ": {
+        "en-US": "[Horim]\nLater, let us meet outside the west gate of Rachel.",
+        "pt-BR": "[Horim]\nMais tarde, nos vemos do lado de fora do portão oeste de Rachel.",
+        "es-ES": "[Horim]\nLuego nos vemos fuera de la puerta oeste de Rachel."
+    },
+    "vUASDQ": {
+        "en-US": "[Employee]\nWelcome.",
+        "pt-BR": "[Funcionário]\nSeja bem-vindo.",
+        "es-ES": "[Empleado]\nBienvenido."
+    },
+    "vkASDQ": {
+        "en-US": "[Employee]\nHa~ Working people this hard, and what good could come of it.",
+        "pt-BR": "[Funcionário]\nHa~ desse jeito, usando as pessoas tão pesadamente, será que alguma coisa vai dar certo?",
+        "es-ES": "[Empleado]\nAaah~ tratando así de duro a la gente, a ver si van a sacar algo adelante."
+    },
+    "v0ASDQ": {
+        "en-US": "[Employee]\nOh dear! Welcooome! May Freya's blessing be with you!",
+        "pt-BR": "[Funcionário]\nOhoho! Seja beeem-vindo! Que a bênção de Freya esteja com você!",
+        "es-ES": "[Empleado]\n¡Ay, ay! ¡Bienvenido! ¡Que la bendición de Freya le acompañe!"
+    },
+    "wEASDQ": {
+        "en-US": "[Employee]\nYou are from outside, I see. Welcome. May Freya's blessing be with you.",
+        "pt-BR": "[Funcionário]\nVocê é de fora. Seja bem-vindo. Que a bênção de Freya esteja com você.",
+        "es-ES": "[Empleado]\nEs usted forastero. Bienvenido. Que la bendición de Freya le acompañe."
+    },
+    "wUASDQ": {
+        "en-US": "[Employee]\nWelcome. The desk is over there.",
+        "pt-BR": "[Funcionário]\nSeja bem-vindo. O balcão fica para aquele lado.",
+        "es-ES": "[Empleado]\nBienvenido. La recepción está por allí."
+    },
+    "wkASDQ": {
+        "en-US": "[Employee]\nWelcome! We hope you have a pleasant journey and a comfortable rest!",
+        "pt-BR": "[Funcionário]\nSeja bem-vindo! Desejamos uma viagem agradável e um descanso confortável!",
+        "es-ES": "[Empleado]\n¡Bienvenido! ¡Le deseamos un viaje agradable y un descanso placentero!"
+    },
+    "w0ASDQ": {
+        "en-US": "Manager",
+        "pt-BR": "Administrador",
+        "es-ES": "Mayordomo"
+    },
+    "xEASDQ": {
+        "en-US": "[Manager]\nWelcome. If you are seeking a hotel in Rachel, you will find no better place than ours.",
+        "pt-BR": "[Administrador]\nSeja bem-vindo. Se procura um hotel em Rachel, não encontrará lugar melhor que o nosso.",
+        "es-ES": "[Mayordomo]\nBienvenido. Si busca un hotel en Rachel, no encontrará ninguno mejor que el nuestro."
+    },
+    "xUASDQ": {
+        "en-US": "Horim",
+        "pt-BR": "Horim",
+        "es-ES": "Horim"
+    },
+    "xkASDQ": {
+        "en-US": "[Horim]\n...Ah, Adventurer.\nTo tell the truth, I have never been farther from the city than this place.",
+        "pt-BR": "[Horim]\n...ah, aventureiro.\nNa verdade, eu nunca fui para um lugar na cidade mais distante do que este.",
+        "es-ES": "[Horim]\n...Ah, trotamundos.\nLa verdad es que yo nunca me he alejado de la ciudad más que hasta aquí."
+    },
+    "x0ASDQ": {
+        "en-US": "[Horim]\nThen where is my home?\nCould it really be Rachel?",
+        "pt-BR": "[Horim]\nEntão... onde fica minha terra natal?\nÉ Rachel mesmo?",
+        "es-ES": "[Horim]\nEntonces, ¿dónde está mi hogar?\n¿Es realmente Rachel?"
+    },
+    "yEASDQ": {
+        "en-US": "[Horim]\nIf I have never felt at ease no matter where I was until now...\nThen perhaps leaving Rachel truly is the right thing to do...?",
+        "pt-BR": "[Horim]\nSe até agora eu nunca me senti em paz onde quer que estivesse...\nentão será mesmo certo deixar Rachel...?",
+        "es-ES": "[Horim]\nSi hasta ahora nunca me he sentido a gusto estuviera donde estuviera...\nentonces, ¿de verdad lo correcto es dejar Rachel atrás...?"
+    },
+    "yUASDQ": {
+        "en-US": "[Horim]\n...I have spoken too long.\nWhich direction is it from here?\nI will follow wherever you go.",
+        "pt-BR": "[Horim]\n...falei demais.\nPara que lado é daqui?\nVou seguir o caminho por onde você for.",
+        "es-ES": "[Horim]\n...Me he extendido demasiado.\n¿En qué dirección es desde aquí?\nLe seguiré por donde vaya."
+    },
+    "ykASDQ": {
+        "en-US": "Let us head to Gray Wolf Forest again.",
+        "pt-BR": "Vamos seguir novamente para a Floresta do Lobo Cinzento.",
+        "es-ES": "Volvamos a dirigirnos a Bosque del Lobo Gris (1)."
+    },
+    "y0ASDQ": {
+        "en-US": "[Horim]\nAdventurer, wait a moment.\nAbout where are we now?",
+        "pt-BR": "[Horim]\nAventureiro, um momento.\nOnde estamos agora?",
+        "es-ES": "[Horim]\nTrotamundos, espere un momento.\n¿Más o menos dónde estamos?"
+    },
+    "zEASDQ": {
+        "en-US": "[Horim]\nWhen I turned around, Rachel... the city wall looked terribly far away.\nHow much farther do we have to go?",
+        "pt-BR": "[Horim]\nOlhei para trás e Rachel... as muralhas pareciam tão distantes.\nQuanto ainda falta?",
+        "es-ES": "[Horim]\nMe he girado y Rachel... las murallas se veían lejísimos.\n¿Cuánto nos queda todavía?"
+    },
+    "zUASDQ": {
+        "en-US": "[Horim]\n...\nYou are saying this is not even halfway yet?",
+        "pt-BR": "[Horim]\n...\nVocê quer dizer que ainda não chegamos nem à metade?",
+        "es-ES": "[Horim]\n...\n¿Me dice que ni siquiera hemos llegado a la mitad?"
+    },
+    "zkASDQ": {
+        "en-US": "[Horim]\nIs the road ahead harsh?\nWill my family be doing well?",
+        "pt-BR": "[Horim]\nO caminho que resta é difícil?\nMinha família estará bem?",
+        "es-ES": "[Horim]\n¿El camino que queda es duro?\n¿Mi familia estará bien?"
+    },
+    "z0ASDQ": {
+        "en-US": "[Horim]\nWill my friends be doing well?\nWill it be all right for me to go too?",
+        "pt-BR": "[Horim]\nMeus amigos estarão bem?\nSerá que posso ir até eles?",
+        "es-ES": "[Horim]\n¿Mis amigos estarán bien?\n¿De verdad estará bien que vaya?"
+    },
+    "0EASDQ": {
+        "en-US": "[Horim]\nI have never seen scenery like this before.",
+        "pt-BR": "[Horim]\nÉ a primeira vez que vejo uma paisagem assim.",
+        "es-ES": "[Horim]\nEs la primera vez que veo un paisaje así."
+    },
+    "0UASDQ": {
+        "en-US": "[Horim]\nYou must always have been seeing things like this, Adventurer.",
+        "pt-BR": "[Horim]\nVocê sempre viu coisas assim por onde andou, aventureiro.",
+        "es-ES": "[Horim]\nUsted siempre habrá ido viendo cosas así en sus viajes."
+    },
+    "0kASDQ": {
+        "en-US": "[Horim]\nWhat is that place like?\nFrom what I have heard in rumors, it is not such an easy place to live.",
+        "pt-BR": "[Horim]\nComo é a paisagem daquele lugar?\nPelo que ouvi dizer, não parece ser um lugar tão fácil de viver.",
+        "es-ES": "[Horim]\n¿Cómo es el paisaje de allí?\nPor los rumores que he oído, parece que no es precisamente un lugar cómodo para vivir."
+    },
+    "00ASDQ": {
+        "en-US": "[Horim]\nEven so...",
+        "pt-BR": "[Horim]\nMesmo assim...",
+        "es-ES": "[Horim]\nPero aun así..."
+    },
+    "1EASDQ": {
+        "en-US": "[Horim]\nI like this road.",
+        "pt-BR": "[Horim]\nEste caminho é bom.",
+        "es-ES": "[Horim]\nEste camino me gusta."
+    },
+    "1UASDQ": {
+        "en-US": "[{0}]\nThis road?",
+        "pt-BR": "[{0}]\nEste caminho?",
+        "es-ES": "[{0}]\n¿Este camino?"
+    },
+    "1kASDQ": {
+        "en-US": "[Horim]\nI could never come alone with so many monsters around...\nBut for you, Adventurer, you travel so much that it is no longer anything unusual, is it?",
+        "pt-BR": "[Horim]\nHá muitos monstros, então eu não conseguiria vir sozinho...\nMas você já não acha isso mais incrível, aventureiro, de tanto andar por aí?",
+        "es-ES": "[Horim]\nEstá lleno de monstruos, así que solo no podría venir...\npero usted habrá recorrido tanto estos lugares que ya ni le parecerán algo curioso, ¿verdad?"
+    },
+    "10ASDQ": {
+        "en-US": "[Horim]\nIt is all right. I am confident with odd jobs.\nFor all appearances, hard labor was my line of work.",
+        "pt-BR": "[Horim]\nEstá tudo bem, eu me viro bem com trabalhos pesados.\nAfinal, por mais que eu pareça assim, meu trabalho era justamente usar a força.",
+        "es-ES": "[Horim]\nNo pasa nada, se me dan bien los trabajos pesados.\nAunque no lo parezca, mi oficio era precisamente hacer trabajos de fuerza."
+    },
+    "2EASDQ": {
+        "en-US": "[Horim]\nLet us go.",
+        "pt-BR": "[Horim]\nVamos.",
+        "es-ES": "[Horim]\nVamos."
+    },
+    "2UASDQ": {
+        "en-US": "[Horim]\nThe smell of volcanic ash has changed.",
+        "pt-BR": "[Horim]\nO cheiro das cinzas vulcânicas mudou.",
+        "es-ES": "[Horim]\nEl olor de la ceniza volcánica ha cambiado."
+    },
+    "2kASDQ": {
+        "en-US": "[Horim]\nDo you remember what I said when we first met, Adventurer?\nThat Thor Volcano and volcanic ash smell different.",
+        "pt-BR": "[Horim]\nVocê se lembra do que eu disse quando nos encontramos pela primeira vez, aventureiro?\nQue o cheiro das cinzas vulcânicas era diferente do Vulcão Thor.",
+        "es-ES": "[Horim]\n¿Recuerda lo que le dije cuando nos conocimos por primera vez, trotamundos?\nQue el olor de la ceniza volcánica era distinto del del Volcán Thor."
+    },
+    "20ASDQ": {
+        "en-US": "[Horim]\nThat was... I have never gone outside myself, but sometimes the guests who came to my workplace smelled like that.\nThose who were surely hiding some sort of weapon... they came from Thor Volcano.",
+        "pt-BR": "[Horim]\nÉ que... embora eu nunca tenha saído para fora, às vezes os hóspedes que iam ao meu local de trabalho vinham com esse cheiro.\nCom certeza eram pessoas que... escondiam algum tipo de arma e vinham do Vulcão Thor.",
+        "es-ES": "[Horim]\nEs que... yo nunca había salido al exterior, pero a veces los clientes que iban a mi lugar de trabajo olían así.\nSin duda, la gente que escondía algún tipo de arma... venía del Volcán Thor."
+    },
+    "3EASDQ": {
+        "en-US": "[Horim]\nYou ask how I knew they were hiding weapons?\nBecause in their eyes, we Employee are invisible anyway.",
+        "pt-BR": "[Horim]\nEstá perguntando como eu sabia que escondiam armas?\nDe qualquer forma, aos olhos deles, nós, os Funcionários, somos invisíveis.",
+        "es-ES": "[Horim]\n¿Que cómo sabía que escondían armas?\nTotal, a ojos de esa gente, nosotros, los Empleados, ni existimos."
+    },
+    "3UASDQ": {
+        "en-US": "[Horim]\nSometimes, while dining, they talk about what sounds like secrets as though we truly are not there at all.\nEven if you do not wish to listen, you still catch a word or two.",
+        "pt-BR": "[Horim]\nÀs vezes, durante as refeições, eles até falam de coisas parecidas com segredos como se nós realmente não existíssemos.\nMesmo que a gente não queira ouvir, acaba pegando uma ou outra palavra.",
+        "es-ES": "[Horim]\nA veces, durante las comidas, hablan de secretos como si de verdad no pudiéramos verlos.\nAunque uno no quiera escuchar, siempre se le acaba pegando alguna que otra frase."
+    },
+    "3kASDQ": {
+        "en-US": "[Horim]\nOf course, they would not say anything truly important in a place like that.",
+        "pt-BR": "[Horim]\nClaro, assuntos realmente importantes eles não falariam numa hora dessas.",
+        "es-ES": "[Horim]\nClaro que las cosas realmente importantes no las dirán en una mesa así."
+    },
+    "30ASDQ": {
+        "en-US": "[Horim]\nBut there are those whose volcanic ash smell is subtly different.\nPeople like... me.",
+        "pt-BR": "[Horim]\nMas existem pessoas cujo cheiro de cinzas vulcânicas é sutilmente diferente.\nPessoas... como eu.",
+        "es-ES": "[Horim]\nPero hay gente cuyo olor a ceniza volcánica es sutilmente distinto.\nGente como... yo."
+    },
+    "4EASDQ": {
+        "en-US": "[Horim]\nWill I come to smell like that too?\n...",
+        "pt-BR": "[Horim]\nSerá que eu também vou ficar com esse cheiro?\n...",
+        "es-ES": "[Horim]\n¿Yo también acabaré oliendo así?\n..."
+    },
+    "4UASDQ": {
+        "en-US": "[Horim]\n...Let us go.",
+        "pt-BR": "[Horim]\n...vamos.",
+        "es-ES": "[Horim]\n...Sigamos."
+    },
+    "4kASDQ": {
+        "en-US": "Let us head to Gray Wolf Village again.",
+        "pt-BR": "Vamos seguir novamente para Aldeia do Lobo Cinzento.",
+        "es-ES": "Volvamos a dirigirnos a Pueblo del Lobo Gris."
+    },
+    "40ASDQ": {
+        "en-US": "[Horim]\nLet us rest here for a bit...",
+        "pt-BR": "[Horim]\nVamos descansar um pouco aqui...",
+        "es-ES": "[Horim]\nDescansemos aquí un poco..."
+    },
+    "5EASDQ": {
+        "en-US": "[{0}]\nHere?",
+        "pt-BR": "[{0}]\nAqui?",
+        "es-ES": "[{0}]\n¿Aquí?"
+    },
+    "5UASDQ": {
+        "en-US": "[Horim]\nThere is even a log here, conveniently enough...",
+        "pt-BR": "[Horim]\nJustamente tem um tronco aqui...",
+        "es-ES": "[Horim]\nJusto hay un tronco y todo..."
+    },
+    "5kASDQ": {
+        "en-US": "[Gatekeeper]\nHello?",
+        "pt-BR": "[Porteiro]\nOlá?",
+        "es-ES": "[Guardia]\n¿Hola?"
+    },
+    "50ASDQ": {
+        "en-US": "[Horim]\nHello...",
+        "pt-BR": "[Horim]\nOlá...",
+        "es-ES": "[Horim]\nHola..."
+    },
+    "6EASDQ": {
+        "en-US": "[Horim]\nDid it look difficult to live there?",
+        "pt-BR": "[Horim]\nParecia difícil viver lá?",
+        "es-ES": "[Horim]\n¿Parecía muy duro vivir allí?"
+    },
+    "6UASDQ": {
+        "en-US": "You do not need to worry so much about it.",
+        "pt-BR": "Você não precisa se preocupar tanto assim",
+        "es-ES": "No hace falta que te preocupes tanto"
+    },
+    "6kASDQ": {
+        "en-US": "[{0}]\nYou do not need to worry so much about it.",
+        "pt-BR": "[{0}]\nAcho que você não precisa se preocupar tanto assim.",
+        "es-ES": "[{0}]\nNo creo que haga falta que te preocupes tanto por eso."
+    },
+    "60ASDQ": {
+        "en-US": "[Horim]\nI suppose so.\nI have already...\nleft Rachel.",
+        "pt-BR": "[Horim]\nPois é.\nEu já...\ndeixei Rachel para trás.",
+        "es-ES": "[Horim]\nSupongo que sí.\nDespués de todo, yo ya...\nhe dejado atrás Rachel."
+    },
+    "7EASDQ": {
+        "en-US": "[Horim]\n...",
+        "pt-BR": "[Horim]\n...",
+        "es-ES": "[Horim]\n..."
+    },
+    "7UASDQ": {
+        "en-US": "The reason for leaving",
+        "pt-BR": "O motivo de partir",
+        "es-ES": "La razón para marcharte"
+    },
+    "7kASDQ": {
+        "en-US": "[{0}]\nYou said your friends and family all left, so you were following them, right?",
+        "pt-BR": "[{0}]\nVocê disse que estava indo atrás deles porque seus amigos e sua família já tinham ido todos embora, não foi?",
+        "es-ES": "[{0}]\nDijiste que ibas detrás de ellos porque tus amigos y tu familia se habían marchado todos, ¿no?"
+    },
+    "70ASDQ": {
+        "en-US": "[{0}]\nThen why is there any need to worry about it now?",
+        "pt-BR": "[{0}]\nEntão por que ainda precisa ficar se preocupando?",
+        "es-ES": "[{0}]\nEntonces, ¿por qué necesitas seguir dándole vueltas?"
+    },
+    "8EASDQ": {
+        "en-US": "[Horim]\nAdventurer...\nI see. Then, Adventurer, is there a place you absolutely must return to?\nMany of the Adventurers who came to the place where I worked did not seem to have one.",
+        "pt-BR": "[Horim]\nAventureiro...\nentendo. Aventureiro, existe algum lugar ao qual você precise voltar custe o que custar?\nPelo menos muitos dos aventureiros que iam ao lugar onde eu trabalhava não tinham isso.",
+        "es-ES": "[Horim]\nTrotamundos...\nYa veo. Trotamundos, ¿usted tiene un lugar al que deba volver sin falta?\nMuchos de los aventureros que iban a donde yo trabajaba no lo tenían."
+    },
+    "8UASDQ": {
+        "en-US": "[Horim]\nBut I need a place to return to.\nA place where I can say good night to everyone and turn out the light before going to sleep.",
+        "pt-BR": "[Horim]\nMas eu preciso de um lugar para voltar.\nUm lugar onde eu possa desejar boa noite a todos e apagar as luzes antes de ir dormir.",
+        "es-ES": "[Horim]\nPero yo necesito un lugar al que volver.\nUn sitio donde desearles buenas noches a todos, apagar la luz y entrar a dormir."
+    },
+    "8kASDQ": {
+        "en-US": "[Horim]\nNot because I am lonely...\n...",
+        "pt-BR": "[Horim]\nNão é por solidão...\n...",
+        "es-ES": "[Horim]\nNo es por soledad...\n..."
+    },
+    "80ASDQ": {
+        "en-US": "Horim started to say something, then swallowed it.",
+        "pt-BR": "Horim pareceu prestes a dizer algo, mas engoliu as palavras.",
+        "es-ES": "Horim estuvo a punto de decir algo, pero se lo tragó."
+    },
+    "9EASDQ": {
+        "en-US": "[Horim]\nThere are people of that kind too.",
+        "pt-BR": "[Horim]\nExistem pessoas desse tipo também.",
+        "es-ES": "[Horim]\nTambién existe esa clase de personas."
+    },
+    "9UASDQ": {
+        "en-US": "[Gatekeeper]\nIs this someone coming to the village?",
+        "pt-BR": "[Porteiro]\nÉ alguém vindo para a vila?",
+        "es-ES": "[Guardia]\n¿Viene al pueblo?"
+    },
+    "9kASDQ": {
+        "en-US": "[Horim]\n?",
+        "pt-BR": "[Horim]\n?",
+        "es-ES": "[Horim]\n?"
+    },
+    "90ASDQ": {
+        "en-US": "[Gatekeeper]\nI heard the circumstances. If this is someone brought here by this person, then they must be trustworthy. Go on in.",
+        "pt-BR": "[Porteiro]\nOuvi o que aconteceu. Se foi esta pessoa quem o trouxe, então deve ser confiável. Entre.",
+        "es-ES": "[Guardia]\nYa me han contado la situación. Si es alguien que esta persona ha traído, entonces será de fiar. Entra."
+    },
+    "+EASDQ": {
+        "en-US": "[Horim]\nWhat?",
+        "pt-BR": "[Horim]\nO quê?",
+        "es-ES": "[Horim]\n¿Eh?"
+    },
+    "+UASDQ": {
+        "en-US": "[{0}]\nThis is the entrance.\nLet us go in.",
+        "pt-BR": "[{0}]\nAqui é a entrada.\nVamos entrar.",
+        "es-ES": "[{0}]\nEsta es la entrada.\nEntremos."
+    },
+    "+kASDQ": {
+        "en-US": "You cannot proceed with the quest because you are carrying too many items.\nPlease organize your items and try again.",
+        "pt-BR": "Você não pode prosseguir com a missão porque está carregando itens demais.\nPor favor, organize seus itens e tente novamente.",
+        "es-ES": "No puedes continuar la misión porque llevas demasiados objetos.\nOrdena tus objetos y vuelve a intentarlo."
+    },
+    "+0ASDQ": {
+        "en-US": "[{0}]\nHere we are.",
+        "pt-BR": "[{0}]\nÉ aqui.",
+        "es-ES": "[{0}]\nEs aquí."
+    },
+    "/EASDQ": {
+        "en-US": "[{0}]\nAre you disappointed?",
+        "pt-BR": "[{0}]\nFicou decepcionado?",
+        "es-ES": "[{0}]\n¿Te ha decepcionado?"
+    },
+    "/UASDQ": {
+        "en-US": "[Horim]\nNo.",
+        "pt-BR": "[Horim]\nNão.",
+        "es-ES": "[Horim]\nNo."
+    },
+    "/kASDQ": {
+        "en-US": "[Horim]\n...I will look for my family.\nThey must be somewhere here, right?",
+        "pt-BR": "[Horim]\n...vou procurar minha família.\nEles devem estar em algum lugar por aqui, não é?",
+        "es-ES": "[Horim]\n...Voy a buscar a mi familia.\nEstarán por algún sitio de aquí, ¿no?"
+    },
+    "/0ASDQ": {
+        "en-US": "[{0}]\nYou were not abandoned, so they will be glad to see you.\nAnd as you said, you are good at hard work, so they will welcome you.",
+        "pt-BR": "[{0}]\nEles não te abandonaram, então vão ficar felizes em te ver.\nComo você mesmo disse, também sabe fazer trabalho pesado, então vão te receber bem.",
+        "es-ES": "[{0}]\nNo te abandonaron, así que se alegrarán de verte.\nY como tú mismo dijiste, se te dan bien los trabajos de fuerza, así que te recibirán encantados."
+    },
+    "AEESDQ": {
+        "en-US": "[Horim]\nHehe...",
+        "pt-BR": "[Horim]\nHehe...",
+        "es-ES": "[Horim]\nJe, je..."
+    },
+    "AUESDQ": {
+        "en-US": "[Horim]\nThank you.",
+        "pt-BR": "[Horim]\nObrigado.",
+        "es-ES": "[Horim]\nGracias."
+    },
+    "AkESDQ": {
+        "en-US": "[Horim]\nThank you, truly!",
+        "pt-BR": "[Horim]\nMuito obrigado mesmo!",
+        "es-ES": "[Horim]\n¡De verdad, muchas gracias!"
+    },
+    "A0ESDQ": {
+        "en-US": "[{0}]\nThen can I go now?",
+        "pt-BR": "[{0}]\nEntão agora eu posso ir?",
+        "es-ES": "[{0}]\nEntonces, ¿ya puedo irme?"
+    },
+    "BEESDQ": {
+        "en-US": "[Horim]\nYes.\nTonight... it seems I will be able to say good night to everyone again, for the first time in a while.",
+        "pt-BR": "[Horim]\nSim.\nEsta noite... faz tempo que não vou poder desejar boa noite a todos de novo.",
+        "es-ES": "[Horim]\nSí.\nEsta noche... por fin podré volver a desearles buenas noches a todos."
+    },
+    "BUESDQ": {
+        "en-US": "[Horim]\nMay blessings be upon the rest of your journey, Adventurer...",
+        "pt-BR": "[Horim]\nQue haja bênçãos na jornada que o aventureiro ainda seguirá...",
+        "es-ES": "[Horim]\nQue su viaje futuro esté colmado de bendiciones, trotamundos..."
+    },
+    "BkESDQ": {
+        "en-US": "^4D4DFFThe people of Gray Wolf Village have accepted you as a member of the village.^000000\n^4D4DFFYou are now qualified to attend the Grand Council.^000000",
+        "pt-BR": "^4D4DFFAs pessoas de Aldeia do Lobo Cinzento aceitaram você como um membro da vila.^000000\n^4D4DFFVocê agora está qualificado para participar do Grande Conselho.^000000",
+        "es-ES": "^4D4DFFLa gente de Pueblo del Lobo Gris te ha aceptado como uno más del pueblo.^000000\n^4D4DFFHas obtenido el derecho a asistir al Gran Consejo.^000000"
+    },
+    "B0ESDQ": {
+        "en-US": "^4D4DFFA favorable opinion of you has been formed.^000000",
+        "pt-BR": "^4D4DFFUma avaliação favorável sobre você foi gerada.^000000",
+        "es-ES": "^4D4DFFSe ha generado una valoración favorable hacia ti.^000000"
+    },
+    "CEESDQ": {
+        "en-US": "Alber",
+        "pt-BR": "Alber",
+        "es-ES": "Alber"
+    },
+    "CUESDQ": {
+        "en-US": "[Alber]\n...",
+        "pt-BR": "[Alber]\n...",
+        "es-ES": "[Alber]\n..."
+    },
+    "CkESDQ": {
+        "en-US": "[Alber]\nThere is no need to report to me.\nJust make sure that Horim is doing well.",
+        "pt-BR": "[Alber]\nNão precisa me dar um relatório.\nBasta confirmar que Horim está vivendo bem.",
+        "es-ES": "[Alber]\nNo hace falta que me informes.\nBasta con que compruebes que Horim está bien."
+    },
+    "C0ESDQ": {
+        "en-US": "[Alber]\nIf you are thinking of returning to Rachel again, would you grant me just one request?",
+        "pt-BR": "[Alber]\nSe por acaso estiver pensando em voltar para Rachel, não aceitaria um pedido meu?",
+        "es-ES": "[Alber]\nSi piensas volver otra vez a Rachel, ¿podrías hacerme un favor?"
+    },
+    "DEESDQ": {
+        "en-US": "[Alber]\nTo be blunt... I have a friend who worked as a Employee at a hotel in Rachel.\nIf he still has not come here, then he is probably still working there.",
+        "pt-BR": "[Alber]\nIndo direto ao ponto... eu tinha um amigo que trabalhava como Funcionário num hotel de Rachel.\nSe ele ainda não veio para cá, então provavelmente ainda está trabalhando lá.",
+        "es-ES": "[Alber]\nYendo al grano... Tengo un amigo que trabajaba como Empleado en un hotel de Rachel.\nSi aún no ha venido aquí, seguramente seguirá trabajando allí."
+    },
+    "DUESDQ": {
+        "en-US": "[Alber]\nThat friend and I... Horim and I lived next door to each other since childhood.\nWe used to live in Rachel. But, in the end, it simply became too much to bear...",
+        "pt-BR": "[Alber]\nEu e esse amigo... Horim vivíamos em casas vizinhas desde pequenos.\nNós morávamos em Rachel. Mas chegou um ponto em que simplesmente não dava mais para aguentar...",
+        "es-ES": "[Alber]\nEse amigo y yo... Horim, vivíamos puerta con puerta desde pequeños.\nVivíamos en Rachel. Pero al final ya no pudimos aguantar más..."
+    },
+    "DkESDQ": {
+        "en-US": "[Alber]\nHis family and mine decided to leave Rachel.\nBut Horim alone said he would remain in Rachel.\nWe could not delay any longer, so we left him behind and moved here.",
+        "pt-BR": "[Alber]\nA família dele e a minha decidiram sair de Rachel.\nMas só Horim disse que ficaria em Rachel.\nComo não podíamos mais adiar, viemos para cá deixando ele para trás.",
+        "es-ES": "[Alber]\nSu familia y la mía decidieron dejar Rachel.\nPero solo Horim dijo que se quedaría en Rachel.\nComo ya no podíamos demorarnos más, nos mudamos aquí dejándolo atrás."
+    },
+    "D0ESDQ": {
+        "en-US": "[Alber]\nRachel is a large city, but that child is all alone there now.\n...\nIf it is all right with you, could you stop by and see how he is living?",
+        "pt-BR": "[Alber]\nRachel é uma cidade grande, mas agora ele está sozinho.\n...\nSe não for incômodo, você poderia passar lá uma vez e ver como ele está vivendo?",
+        "es-ES": "[Alber]\nRachel es una ciudad grande, pero ahora mismo él está solo.\n...\nSi no le importa, ¿podría pasar a ver cómo está viviendo?"
+    },
+    "EEESDQ": {
+        "en-US": "I will.",
+        "pt-BR": "Tudo bem.",
+        "es-ES": "Lo haré"
+    },
+    "EUESDQ": {
+        "en-US": "I have no business going there for the time being.",
+        "pt-BR": "Por um tempo, não vou passar por lá.",
+        "es-ES": "Por un tiempo no tengo pensado ir"
+    },
+    "EkESDQ": {
+        "en-US": "[Alber]\nThank you.\nJust... stop by and see him. There is no need to report back to me.",
+        "pt-BR": "[Alber]\nObrigado.\nSó... vá dar uma olhada. Não precisa me dar um relatório.",
+        "es-ES": "[Alber]\nGracias.\nSolo... pásate a verlo. No hace falta que me informes de nada."
+    },
+    "E0ESDQ": {
+        "en-US": "[Alber]\nThen it cannot be helped.",
+        "pt-BR": "[Alber]\nNesse caso, não há o que fazer.",
+        "es-ES": "[Alber]\nEntonces no se puede evitar."
+    },
+    "FEESDQ": {
+        "en-US": "[Alber]\n...\nWhat? Have you never seen someone grinning to themselves before?\n...Then again, perhaps not. Adventurers do love to meddle.\nSomething good just happened.\nThat is all.",
+        "pt-BR": "[Alber]\n...\nO quê? Nunca viu alguém sorrir sozinho?\n...bem, pode ser. De qualquer forma, os aventureiros gostam mesmo de se meter.\nÉ só que aconteceu uma coisa boa.\nSó isso.",
+        "es-ES": "[Alber]\n...\n¿Qué pasa? ¿Nunca has visto a alguien sonreír para sus adentros?\n...Bueno, podría ser. En fin, a los aventureros os encanta meteros donde no os llaman.\nSolo ha pasado algo bueno.\nNada más."
+    },
+    "FUESDQ": {
+        "en-US": "[Alber]\nYou are asking whether I met him?\nYes.\n...Yes.\nI said all the things I could not say when I left.\nNow I have no lingering regrets.",
+        "pt-BR": "[Alber]\nVocê encontrou aquele garoto?\nSim.\n...sim.\nDisse tudo o que não consegui dizer quando fui embora.\nAgora não me resta mais arrependimento.",
+        "es-ES": "[Alber]\n¿Que si me encontré con él?\nSí.\n...Sí.\nTambién le dije todo lo que no pude decirle cuando se fue.\nAhora ya no me queda ningún pesar."
+    },
+    "FkESDQ": {
+        "en-US": "[Alber]\nIt feels as though the gray forest is shining.\nIt should not be possible.\nIt is all thanks to you, Adventurer.\nThank you.",
+        "pt-BR": "[Alber]\nTenho a sensação de que a floresta cinzenta está brilhando.\nO que não faz sentido.\nTudo isso é graças a você, aventureiro.\nObrigado.",
+        "es-ES": "[Alber]\nSiento como si el bosque gris estuviera brillando.\nAunque eso no puede ser.\nTodo ha sido gracias a ti, trotamundos.\nGracias."
+    },
+    "F0ESDQ": {
+        "en-US": "[Alber]\nHorim said he would come here?\n...That is good.\nThat is very good.",
+        "pt-BR": "[Alber]\nHorim disse que virá para cá?\n...ainda bem.\nQue bom.",
+        "es-ES": "[Alber]\n¿Que Horim ha dicho que vendrá aquí?\n...Menos mal.\nMenos mal."
+    }
+}

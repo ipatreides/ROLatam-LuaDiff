@@ -1,0 +1,332 @@
+{
+    "4E0VDQ": {
+        "en-US": "Relic Vendor",
+        "pt-BR": "Vendedor de Relíquias Sagradas",
+        "es-ES": "Vendedor de reliquias sagradas"
+    },
+    "4U0VDQ": {
+        "en-US": "- You cannot proceed with the quest because you are carrying too many items. -",
+        "pt-BR": "- Você não pode prosseguir com a missão porque está carregando itens demais. -",
+        "es-ES": "- No puedes continuar la misión porque llevas demasiados objetos. -"
+    },
+    "4k0VDQ": {
+        "en-US": "[Relic Vendor]\nToday’s Relic for Essence has just arrived~\nOne per person, one each, come quickly~",
+        "pt-BR": "[Vendedor de Relíquias Sagradas]\nAs Relíquia de Purificação de hoje acabaram de chegar.\nUma por pessoa, vamos, venham rápido!",
+        "es-ES": "[Vendedor de reliquias sagradas]\n¡Acaban de salir las Reliquia de Purificación de hoy\nUna por persona, una por persona, ¡venga, deprisa!"
+    },
+    "400VDQ": {
+        "en-US": "[Relic Vendor]\nToday’s relic for essence is available~\nCome quickly before they are all sold out~",
+        "pt-BR": "[Vendedor de Relíquias Sagradas]\nRelíquias sagradas para purificação de hoje.\nVenham rápido antes que acabem!",
+        "es-ES": "[Vendedor de reliquias sagradas]\n¡Las reliquias de purificación de hoy ya están disponibles\n¡Vengan antes de que se agoten!"
+    },
+    "5E0VDQ": {
+        "en-US": "[Relic Vendor]\nHmm?\nWhat is it? An outsider?",
+        "pt-BR": "[Vendedor de Relíquias Sagradas]\nHmm?\nO que deseja? Forasteiro?",
+        "es-ES": "[Vendedor de reliquias sagradas]\n¿Eh?\n¿Qué se le ofrece? ¿Forastero?"
+    },
+    "5U0VDQ": {
+        "en-US": "I need it for traveling with a caravan",
+        "pt-BR": "É para viajar com a caravana",
+        "es-ES": "Es para mover mercancías"
+    },
+    "5k0VDQ": {
+        "en-US": "[Relic Vendor]\nAh You heard the rumors and came\nI will explain simply\nIt is a consecrated purification relic that purifies a large amount of contaminated water at once\nYou see",
+        "pt-BR": "[Vendedor de Relíquias Sagradas]\nAhh veio por causa dos rumores.\nVou explicar de forma simples.\nÉ uma relíquia consagrada que purifica uma grande quantidade de água contaminada de uma só vez\nE veja só...",
+        "es-ES": "[Vendedor de reliquias sagradas]\nAaah así que ha venido por los rumores.\nSe lo explico brevemente.\nEs una reliquia consagrada para la purificación que limpia grandes cantidades de agua contaminada de una sola vez\nVerá, es que..."
+    },
+    "500VDQ": {
+        "en-US": "[Relic Vendor]\nIt is made at the temple\nNowadays the waterways are well maintained, so demand is not that high\nBut they still make small quantities\nThe materials are difficult to obtain as well",
+        "pt-BR": "[Vendedor de Relíquias Sagradas]\nÉ feita no templo.\nAgora que os sistemas de água estão bem mantidos, a demanda não é tão grande.\nMas ainda produzimos pequenas quantidades\nOs materiais também são exigentes.",
+        "es-ES": "[Vendedor de reliquias sagradas]\nSe fabrica en el templo.\nAhora que los canales están bien mantenidos ya no hay tanta demanda\npero seguimos produciendo pequeñas cantidades\nTambién por los materiales, que son complicados."
+    },
+    "6E0VDQ": {
+        "en-US": "[Relic Vendor]\nYou have to use it within a few days, so bulk purchases are not allowed\nBut the amount of water it can purify at once is quite a lot",
+        "pt-BR": "[Vendedor de Relíquias Sagradas]\nDeve ser usada em poucos dias, então não é possível comprar em grande quantidade...\nMas a quantidade de água que pode purificar de uma vez é bem grande.",
+        "es-ES": "[Vendedor de reliquias sagradas]\nHay que usarla en pocos días, así que no se puede comprar en grandes cantidades...\nPero la cantidad de agua que puede purificar de una vez es bastante considerable."
+    },
+    "6U0VDQ": {
+        "en-US": "[Relic Vendor]\nIf you run out of water on the way to your destination\nAnd there is a suitable place to replenish water\nIt might be better than carrying water with you",
+        "pt-BR": "[Vendedor de Relíquias Sagradas]\nSe houver um ponto de abastecimento de água no caminho até o destino\nPode ser melhor do que carregar água com você.",
+        "es-ES": "[Vendedor de reliquias sagradas]\nSi durante el trayecto hacia su destino se queda sin agua, pero hay algún lugar donde reponer líquidos\npuede que sea mejor que cargar con agua desde el principio."
+    },
+    "6k0VDQ": {
+        "en-US": "[Relic Vendor]\nHowever, you must boil it once before drinking\nSome say it has a smell",
+        "pt-BR": "[Vendedor de Relíquias Sagradas]\nMas é preciso ferver antes de beber.\nAlguns dizem que tem cheiro.",
+        "es-ES": "[Vendedor de reliquias sagradas]\nEso sí hay que hervir el agua después\ndicen que tiene algo de olor."
+    },
+    "600VDQ": {
+        "en-US": "[Relic Vendor]\n550 Zeny",
+        "pt-BR": "[Vendedor de Relíquias Sagradas]\nCusta 550 zeny",
+        "es-ES": "[Vendedor de reliquias sagradas]\nSon 550 zeny"
+    },
+    "7E0VDQ": {
+        "en-US": "Purchase",
+        "pt-BR": "Comprar",
+        "es-ES": "Comprar"
+    },
+    "7U0VDQ": {
+        "en-US": "Do not purchase",
+        "pt-BR": "Não comprar",
+        "es-ES": "No comprar"
+    },
+    "7k0VDQ": {
+        "en-US": "[Relic Vendor]\nHere is the item.\nMay the blessing of Goddess Freya be with you.",
+        "pt-BR": "[Vendedor de Relíquias Sagradas]\nAqui está o item.\nQue a bênção da deusa Freya esteja com você.",
+        "es-ES": "[Vendedor de reliquias sagradas]\nAquí tiene el producto.\nQue la bendición de la diosa Freya le acompañe."
+    },
+    "700VDQ": {
+        "en-US": "[Relic Vendor]\nIt seems you do not have enough money.",
+        "pt-BR": "[Vendedor de Relíquias Sagradas]\nParece que você não tem dinheiro suficiente.",
+        "es-ES": "[Vendedor de reliquias sagradas]\nParece que no le alcanza el dinero."
+    },
+    "8E0VDQ": {
+        "en-US": "[Relic Vendor]\nOnly those who need it should buy it.\nMay the blessing of Goddess Freya be with you.",
+        "pt-BR": "[Vendedor de Relíquias Sagradas]\nÉ melhor comprar só se realmente precisar.\nQue a bênção da deusa Freya esteja com você.",
+        "es-ES": "[Vendedor de reliquias sagradas]\nLo mejor es que lo compren quienes lo necesiten.\nQue la bendición de la diosa Freya le acompañe."
+    },
+    "8U0VDQ": {
+        "en-US": "[Relic Vendor]\nStay safe.",
+        "pt-BR": "[Vendedor de Relíquias Sagradas]\nQue tudo corra bem.",
+        "es-ES": "[Vendedor de reliquias sagradas]\nQue le vaya bien."
+    },
+    "8k0VDQ": {
+        "en-US": "[Relic Vendor]\nWeren’t you the one who bought a relic earlier?\nWhat happened, did you lose it?\nDo you need another one?\nI cannot give it for free, it is 550 Zeny.",
+        "pt-BR": "[Vendedor de Relíquias Sagradas]\nVocê não foi quem comprou a relíquia antes?\nO que aconteceu, perdeu?\nPrecisa de outra?\nNão posso dar de graça, custa 550 zeny.",
+        "es-ES": "[Vendedor de reliquias sagradas]\n¿No es usted quien compró una reliquia antes?\n¿Qué ha pasado, la perdió?\n¿Necesita otra?\nNo puedo dársela gratis, son 550 zeny."
+    },
+    "800VDQ": {
+        "en-US": "[Relic Vendor]\nHere is the item.\nMay the blessing of Goddess Freya be with you.",
+        "pt-BR": "[Vendedor de Relíquias Sagradas]\nAqui está o item.\nQue a bênção da deusa Freya esteja com você.",
+        "es-ES": "[Vendedor de reliquias sagradas]\nAquí tiene el producto.\nQue la bendición de la diosa Freya le acompañe."
+    },
+    "9E0VDQ": {
+        "en-US": "[Relic Vendor]\nToday’s stock is sold out.",
+        "pt-BR": "[Vendedor de Relíquias Sagradas]\nO estoque de hoje acabou.",
+        "es-ES": "[Vendedor de reliquias sagradas]\nYa se han agotado las existencias de hoy."
+    },
+    "9U0VDQ": {
+        "en-US": "[Relic Vendor]\nAh, you are the one who came by earlier because of the caravan, right?\nYou came back sooner than expected. Business must be good.",
+        "pt-BR": "[Vendedor de Relíquias Sagradas]\nAh, você é quem veio por causa da caravana da última vez, certo?\nVoltou mais rápido do que eu esperava. Os negócios vão bem, hein.",
+        "es-ES": "[Vendedor de reliquias sagradas]\nAh, ¿no es usted quien vino la otra vez por lo del gremio mercante?\nHa vuelto antes de lo que pensaba. Debe de irle bien el negocio."
+    },
+    "9k0VDQ": {
+        "en-US": "Buy relic",
+        "pt-BR": "Comprar relíquia",
+        "es-ES": "Comprar reliquia"
+    },
+    "900VDQ": {
+        "en-US": "Hear explanation",
+        "pt-BR": "Ouvir explicação",
+        "es-ES": "Escuchar explicación"
+    },
+    "+E0VDQ": {
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
+    },
+    "+U0VDQ": {
+        "en-US": "[Relic Vendor]\nYou heard this before.\nI will explain simply.\nIt is a consecrated purification relic that purifies a large amount of contaminated water at once.\nYou see.",
+        "pt-BR": "[Vendedor de Relíquias Sagradas]\nComo você já ouviu antes.\nVou explicar de forma simples.\nÉ uma relíquia sagrada consagrada que purifica uma grande quantidade de água contaminada de uma só vez.\nE veja só.",
+        "es-ES": "[Vendedor de reliquias sagradas]\nYa se lo expliqué la otra vez.\npero se lo resumo.\nEs una reliquia consagrada para purificar grandes cantidades de agua contaminada de una sola vez.\nverá, es que."
+    },
+    "+k0VDQ": {
+        "en-US": "[Relic Vendor]\nIf you need it, buy it again and use it.\nIt is a good item.",
+        "pt-BR": "[Vendedor de Relíquias Sagradas]\nSe precisar, pode comprar novamente e usar.\nÉ um bom item.",
+        "es-ES": "[Vendedor de reliquias sagradas]\nSi la necesita, cómprela otra vez.\nes un buen producto."
+    },
+    "+00VDQ": {
+        "en-US": "[Relic Vendor]\nTake a look around.",
+        "pt-BR": "[Vendedor de Relíquias Sagradas]\nDê uma olhada.",
+        "es-ES": "[Vendedor de reliquias sagradas]\nÉchele un vistazo."
+    },
+    "/E0VDQ": {
+        "en-US": "Budan",
+        "pt-BR": "Budan",
+        "es-ES": "Budan"
+    },
+    "/U0VDQ": {
+        "en-US": "You cannot proceed with the quest because you are carrying too many items.\nPlease organize your items and try again.",
+        "pt-BR": "Você não pode prosseguir com a missão porque está carregando itens demais.\nPor favor, organize seus itens e tente novamente.",
+        "es-ES": "No puedes continuar la misión porque llevas demasiados objetos.\nOrdena tus objetos y vuelve a intentarlo."
+    },
+    "/k0VDQ": {
+        "en-US": "^4D4DFFThe people of Gray Wolf Village have accepted you as a member of the village.^000000\n^4D4DFFYou are now qualified to attend the Grand Council.^000000",
+        "pt-BR": "^4D4DFFAs pessoas da Aldeia do Lobo Cinzento aceitaram você como um membro da vila.^000000\n^4D4DFFVocê agora pode para participar do Grande Conselho.^000000",
+        "es-ES": "^4D4DFFLa gente de Pueblo del Lobo Gris te ha aceptado como uno más del pueblo.^000000\n^4D4DFFHas obtenido el derecho a asistir al Gran Consejo.^000000"
+    },
+    "/00VDQ": {
+        "en-US": "[Budan]\nAn outsider coming and going here.\nIf you are snooping around out of curiosity, I will decline.",
+        "pt-BR": "[Budan]\nUm forasteiro entrando e saindo daqui...\nSe está rondando por curiosidade, prefiro que não.",
+        "es-ES": "[Budan]\nQue un forastero entre y salga por aquí...\nSi es por simple curiosidad, prefiero que te abstengas."
+    },
+    "AE4VDQ": {
+        "en-US": "[Budan]\nI hear you have been meddling in our affairs here and there...\nTeaching easier ways to do things.\nCould you help me as well?",
+        "pt-BR": "[Budan]\nOuvi dizer que você anda se metendo nos nossos assuntos...\ne ensinando maneiras mais fáceis de fazer as coisas.\nPode me ajudar também?",
+        "es-ES": "[Budan]\nHe oído que te entrometes en nuestro trabajo y...\nenseñas formas de hacerlo más fácilmente.\n¿Podrías ayudarme a mí también?"
+    },
+    "AU4VDQ": {
+        "en-US": "[Budan]\nAs you know, we cannot easily enter Rachel.\nSo this is something I truly want your help with, Adventurer.",
+        "pt-BR": "[Budan]\nComo você sabe, não podemos entrar facilmente em Rachel.\nEntão isso é algo que realmente gostaria que um aventureiro como você fizesse.",
+        "es-ES": "[Budan]\nComo sabrás, no podemos entrar fácilmente en Rachel.\nPor eso, esto es algo en lo que realmente me gustaría que tú, aventurero, nos ayudaras."
+    },
+    "Ak4VDQ": {
+        "en-US": "[Budan]\nI would like you to buy something that is only made at the Sessrumnir Temple in Rachel.\nAs you can see, this area is covered in volcanic ash, and near Rachel it is sand, so clean water is not easy to obtain.",
+        "pt-BR": "[Budan]\nQueria que comprasse algo que só é feito no templo Sessrumnir em Rachel.\nComo pode ver, aqui há cinzas vulcânicas e, perto de Rachel, há areia, então não é fácil obter água limpa.",
+        "es-ES": "[Budan]\nQuiero que compres un objeto que solo fabrican en el templo Sessrumnir de Rachel.\nComo ves, en esta zona hay ceniza volcánica, y cerca de Rachel hay arena, así que no es fácil conseguir agua limpia."
+    },
+    "A04VDQ": {
+        "en-US": "[Budan]\nSo what was developed is the purification relic...\nThis thing absorbs impurities in water through some kind of unknown magical process.\nEven all kinds of miscellaneous magical energy.",
+        "pt-BR": "[Budan]\nPor isso foi desenvolvida a relíquia de purificação...\nEla, de alguma forma mágica, absorve as impurezas da água.\nAté mesmo vários tipos de energia mágica.",
+        "es-ES": "[Budan]\nPor eso se desarrolló la reliquia de purificación...\ny resulta que, mediante algún tipo de tratamiento mágico desconocido, absorbe las impurezas del agua.\nIncluso toda clase de energías mágicas residuales."
+    },
+    "BE4VDQ": {
+        "en-US": "[Budan]\nIt can even turn sulfur hot spring water infused with the strange magic of this forest into drinking water.\nBut the magic does not last long... so we must buy it when needed.",
+        "pt-BR": "[Budan]\nEla consegue transformar até a água de fontes termais sulfurosas, impregnadas com magia suspeita desta floresta, em água potável.\nMas a magia não dura muito... então precisamos comprar quando necessário.",
+        "es-ES": "[Budan]\nPuede convertir en agua potable incluso el agua de las fuentes termales sulfurosas impregnadas de la extraña magia de este bosque.\nPero la magia no dura mucho... así que hay que comprarla cuando se necesita."
+    },
+    "BU4VDQ": {
+        "en-US": "[Budan]\nYou understand what I mean.\nMay I ask for your help?\nEven if we go... they would not sell it to us.",
+        "pt-BR": "[Budan]\nEntende o que quero dizer.\nPode nos ajudar?\nMesmo que fôssemos... nem venderiam para nós.",
+        "es-ES": "[Budan]\nYa entiendes a lo que me refiero.\n¿Podrías ayudarnos?\nAunque fuéramos nosotros... ni siquiera nos la venderían."
+    },
+    "Bk4VDQ": {
+        "en-US": "[Budan]\nPretend to be a caravan merchant stopping by Rachel and buy just one, then put it into the water container over there.\nThen you will obtain completely purified clean water.\nJust bring that to me.",
+        "pt-BR": "[Budan]\nFinja ser um comerciante de passagem por Rachel, compre discretamente 1 unidade e coloque naquele recipiente de água ali.\nAssim, você obterá água completamente purificada.\nDepois, traga-a para mim.",
+        "es-ES": "[Budan]\nFinge ser un comerciante que ha pasado por Rachel, compra discretamente una unidad,\ny colócala en ese depósito de agua.\nEntonces obtendrás agua completamente purificada.\nSolo tienes que traérmela."
+    },
+    "B04VDQ": {
+        "en-US": "That will not be difficult",
+        "pt-BR": "Não parece difícil",
+        "es-ES": "No será difícil"
+    },
+    "CE4VDQ": {
+        "en-US": "That sounds difficult",
+        "pt-BR": "Parece difícil",
+        "es-ES": "Eso será complicado"
+    },
+    "CU4VDQ": {
+        "en-US": "[Budan]\nIf you are busy, it cannot be helped.",
+        "pt-BR": "[Budan]\nSe estiver ocupado, não tem jeito.",
+        "es-ES": "[Budan]\nSi estás ocupado, no se puede hacer nada."
+    },
+    "Ck4VDQ": {
+        "en-US": "[Budan]\nI spoke at length, so thank you for the short answer.",
+        "pt-BR": "[Budan]\nFalei bastante, mas obrigado pela resposta curta.",
+        "es-ES": "[Budan]\nMe extendí mucho para que respondieras tan corto, pero gracias."
+    },
+    "C04VDQ": {
+        "en-US": "[Budan]\nIf you go in front of the temple, there will probably be a believer there for that day’s good deed.\nJust say a few words and buy it.\nI am counting on you.",
+        "pt-BR": "[Budan]\nSe for ao templo, provavelmente haverá um devoto lá fazendo boas ações naquele dia.\nDiga algumas palavras e compre.\nConto com você.",
+        "es-ES": "[Budan]\nSi vas al frente del templo, probablemente habrá un devoto haciendo su labor del día.\nHabla un poco y cómprala.\nTe lo encargo."
+    },
+    "DE4VDQ": {
+        "en-US": "[Budan]\nAh, it seems you have been to Rachel. Good work.\nThe water container is over there. Just put the purification relic into it.",
+        "pt-BR": "[Budan]\nAh, então você voltou de Rachel. Bom trabalho.\nO recipiente está ali. Basta colocar a relíquia de purificação nele.",
+        "es-ES": "[Budan]\nAh, parece que ya has ido a Rachel. Buen trabajo.\nEl depósito está por allí. Solo tienes que poner ahí la reliquia de purificación."
+    },
+    "DU4VDQ": {
+        "en-US": "[Budan]\n...? You say you have been to Rachel?\nIt seems you bought the relic but lost it.\nSince you succeeded in buying it once, they will not be suspicious even if you go again.",
+        "pt-BR": "[Budan]\n...? Voltou de Rachel?\nParece que perdeu a relíquia.\nSe já conseguiu comprar uma vez, não vão desconfiar se tentar novamente.",
+        "es-ES": "[Budan]\n¿...? ¿Has ido a Rachel?\nSupongo que compraste la reliquia pero la perdiste.\nSi ya lograste comprarla una vez, no sospecharán si vuelves."
+    },
+    "Dk4VDQ": {
+        "en-US": "^4D4DFFA favorable opinion of you has been formed.^000000",
+        "pt-BR": "^4D4DFFUma avaliação favorável sobre você foi gerada.^000000",
+        "es-ES": "^4D4DFFSe ha generado una valoración favorable hacia ti.^000000"
+    },
+    "D04VDQ": {
+        "en-US": "[Budan]\nThank you for helping secure drinking water. Now I should boil this and prepare the meal.\nIf you are staying here tomorrow and have time, could I ask you to go to Rachel again?",
+        "pt-BR": "[Budan]\nObrigado por ajudar a garantir água potável. Agora vou ferver isso e preparar a refeição.\nSe amanhã ainda estiver por aqui e tiver tempo, pode fazer essa viagem até Rachel de novo?",
+        "es-ES": "[Budan]\nGracias por ayudarnos a conseguir agua potable. Ahora la herviré para preparar la comida.\nSi mañana sigues por aquí y tienes tiempo, ¿podrías volver a hacer el viaje a Rachel?"
+    },
+    "EE4VDQ": {
+        "en-US": "Sure",
+        "pt-BR": "Claro",
+        "es-ES": "Claro"
+    },
+    "EU4VDQ": {
+        "en-US": "I think I will be busy tomorrow",
+        "pt-BR": "Acho que amanhã estarei ocupado",
+        "es-ES": "Mañana estaré ocupado"
+    },
+    "Ek4VDQ": {
+        "en-US": "[Budan]\nThat was quick.\nI am sorry to send you on a long journey. But I want to give the children something safe to eat. Thank you.",
+        "pt-BR": "[Budan]\nResposta rápida, hein?\nDesculpe por te mandar tão longe. Mas quero dar comida segura para as crianças. Obrigado.",
+        "es-ES": "[Budan]\n¿Respuesta rápida?\nPerdón por mandarte tan lejos. Pero quiero darles algo seguro a los niños. Gracias."
+    },
+    "E04VDQ": {
+        "en-US": "[Budan]\nYes. We are currently living communally in many ways, so each person has their own responsibilities.\nI handle various things, but mainly I am in charge of meals.",
+        "pt-BR": "[Budan]\nSim. Estamos vivendo de forma bastante comunitária agora, então há responsáveis por diferentes tarefas.\nEu faço de tudo, mas principalmente cuido das refeições.",
+        "es-ES": "[Budan]\nSí. Ahora mismo organizamos la vida de forma bastante comunitaria, así que cada uno tiene sus tareas.\nYo hago de todo, pero principalmente me encargo de la comida."
+    },
+    "FE4VDQ": {
+        "en-US": "[Budan]\nIf we have reserves, it makes all aspects of life easier...\nI hope you can help again sometime.",
+        "pt-BR": "[Budan]\nSe tivermos reservas, tudo na vida fica mais tranquilo...\nEspero poder contar com sua ajuda novamente.",
+        "es-ES": "[Budan]\nSi tenemos reservas, todo se vuelve más llevadero...\nAsí que me gustaría que nos ayudaras de nuevo cuando puedas."
+    },
+    "FU4VDQ": {
+        "en-US": "[Budan]\nAh, oh dear... did you spill the bucket?\nAre you hurt? ...You are fine? That is a relief.\nI cannot leave here right now, so could you fetch some water again from the container?",
+        "pt-BR": "[Budan]\nAh, poxa... derrubou o balde?\nNão se machucou? ...Está bem? Que bom.\nNão posso sair daqui agora, então pode buscar mais água no recipiente?",
+        "es-ES": "[Budan]\nAh, vaya... ¿has volcado el cubo?\n¿Te has hecho daño? ...¿No? Menos mal.\nAhora no puedo dejar esto, ¿podrías ir a sacar más agua del depósito?"
+    },
+    "Fk4VDQ": {
+        "en-US": "[Budan]\nAdventurer, you are here again.\nDo you have time to go to Rachel?",
+        "pt-BR": "[Budan]\nAventureiro, voltou novamente.\nTem tempo para ir até Rachel?",
+        "es-ES": "[Budan]\nAventurero, has vuelto.\n¿Tienes tiempo para ir otra vez hasta Rachel?"
+    },
+    "F04VDQ": {
+        "en-US": "[Budan]\nIt has been a while since we had an abundance of drinking water.",
+        "pt-BR": "[Budan]\nUltimamente temos bastante água potável.",
+        "es-ES": "[Budan]\nHacía tiempo que no teníamos tanta agua potable."
+    },
+    "GE4VDQ": {
+        "en-US": "Water Jug",
+        "pt-BR": "Barril de Água Potável",
+        "es-ES": "Cantimplora de agua potable"
+    },
+    "GU4VDQ": {
+        "en-US": "This is a water container with relatively clean water.\nIt cannot be drunk as is, so Budan said to buy a fresh purification relic from the Sessrumnir Temple in Rachel.",
+        "pt-BR": "É um recipiente com água relativamente limpa.\nMas não pode ser bebida assim, então Budan disse que é preciso comprar uma relíquia de purificação fresca no templo Sessrumnir em Rachel.",
+        "es-ES": "Es un depósito con agua relativamente limpia.\nTal como está no se puede beber, así que Budan te indicó que debes comprar una reliquia de purificación fresca en el templo Sessrumnir de Rachel."
+    },
+    "Gk4VDQ": {
+        "en-US": "It seemed like relatively clean water, but when the relic was added, it emitted a bright light and somehow gave off a sacred feeling.\nOnce the light subsided, the water clearly looks clean.",
+        "pt-BR": "Parecia água relativamente limpa, mas ao colocar a relíquia, ela emitiu uma luz brilhante e passou a ter uma aura sagrada.\nQuando a luz se dissipou, a água parecia claramente limpa.",
+        "es-ES": "Pensabas que era agua relativamente limpia, pero al añadir la reliquia emite una luz brillante y desprende una sensación sagrada.\nCuando la luz se desvanece, el agua se ve claramente limpia."
+    },
+    "G04VDQ": {
+        "en-US": "I should scoop it into a bucket and take it to Budan.",
+        "pt-BR": "Vou colocar no balde e levar para Budan.",
+        "es-ES": "Debería verterla en un cubo y llevársela a Budan."
+    },
+    "HE4VDQ": {
+        "en-US": "It seems the purification relic was lost.\nTo purify this water, you must buy another purification relic from Rachel.",
+        "pt-BR": "Parece que você perdeu a relíquia de purificação.\nPara purificar esta água, será necessário comprar outra em Rachel.",
+        "es-ES": "Parece que has perdido la reliquia de purificación.\nPara purificar esta agua, tendrás que comprar otra en Rachel."
+    },
+    "HU4VDQ": {
+        "en-US": "It seems the bucket was lost.\nI need to fetch water again...",
+        "pt-BR": "Parece que você perdeu o balde.\nVocê terá que pegar água novamente...",
+        "es-ES": "Parece que has perdido el cubo.\nTendrás que volver a sacar agua..."
+    },
+    "Hk4VDQ": {
+        "en-US": "Fetch water now",
+        "pt-BR": "Pegar água agora",
+        "es-ES": "Sacar agua ahora"
+    },
+    "H04VDQ": {
+        "en-US": "I should not make this kind of mistake.",
+        "pt-BR": "Não devo cometer esse erro.",
+        "es-ES": "No debería cometer estos errores"
+    },
+    "IE4VDQ": {
+        "en-US": "I will do it next time.",
+        "pt-BR": "Deixar para depois",
+        "es-ES": "Lo haré más tarde"
+    },
+    "IU4VDQ": {
+        "en-US": "This is the Water Jug used by the entire village.\nOne side contains clean water, and the other contains relatively clean water.",
+        "pt-BR": "Este é o Barril de Água Potável usado por toda a vila.\nDe um lado há água limpa, e do outro há água relativamente limpa.",
+        "es-ES": "Es el depósito de Cantimplora de agua potable que utiliza todo el pueblo.\nEn un lado hay agua limpia, y en el otro agua relativamente limpia."
+    }
+}

@@ -1,912 +1,760 @@
 {
     "gFiEDA": {
-        "ko-KR": "전단지 아르바이트",
         "en-US": "Flyer Part-timer",
         "pt-BR": "Trabalho temporário de distribuição de panfletos",
         "es-ES": "Reparto de Folletos"
     },
     "gViEDA": {
-        "ko-KR": "급구!!! 능력 출중하고 신체 건강한 민스트럴님! 거기 저랑 눈 마주치신 분!",
         "en-US": "Urgent!!! Seeking highly skilled and physically fit minstrels! You there who caught my eye!",
         "pt-BR": "Urgente!!! Menestréis com talento e boa saúde! Você aí que cruzou o olhar comigo!",
         "es-ES": "¡¡¡Se busca urgentemente!!! ¡Ministriles con gran talento y buena salud! ¡Tú, el que me ha mirado a los ojos!"
     },
     "gliEDA": {
-        "ko-KR": "[이모트]\n어, 너는... 소문은 들었어. 그런데 여기엔 왜 온 거야? 우리와 공연을 하려고? 그건 좀 참아 줘라... 네가 우리와 공연을 하면 유치원 학예회를 하는 선생님 같을 거 아냐? 그나저나...",
         "en-US": "[Emo-ji]\nEr, you're... I've heard the news. By the way, what are you doing here? You want to perform with us? No. Next to you, we'll just look like a bunch of kindergarten teachers putting on a recital. Anyway...",
         "pt-BR": "[Emo-ji]\nAh, você... Já ouvi falar de você. Mas por que veio aqui? Para se apresentar com a gente? Dá um tempo com isso... Se você se apresentar com a gente, vai parecer aqueles professores numa apresentação de fim de ano do jardim de infância, sabe? Falando nisso...",
         "es-ES": "[Emo-ji]\nEh, tú... He oído rumores. \nPero, ¿por qué has venido aquí? \n¿Para actuar con nosotros? \nEso no, por favor... \nSi actúas con nosotros, vas a parecer un maestro en una fiesta de fin de curso de preescolar, ¿no? \nPor cierto..."
     },
     "g1iEDA": {
-        "ko-KR": "[이모트]\n이야 정말 멋지다. 탐이 난다 탐이 나. 나도 분발해야지.",
         "en-US": "[Emo-ji]\nWow, you look awesome! Man, I'm so envious of you. I'd better practice harder.",
         "pt-BR": "[Emo-ji]\nNossa, isso é realmente incrível. Estou com inveja, com muita inveja. Eu também preciso me esforçar.",
         "es-ES": "[Emo-ji]\nVaya, qué genial. \nMe da envidia, me da envidia. \nYo también tengo que esforzarme."
     },
     "hFiEDA": {
-        "ko-KR": "[이모트]\n흐음... 정말 멋진 민스트럴인걸? 그런데 발할라의 기운이 느껴지지 않는 것이... 아쉽다, 아쉬워. 만약 발할라에 한 번 다녀왔다면 바로 캐스팅 했을 텐데. 아쉽지만 어쩔 수 없지. 좋은 하루!",
         "en-US": "[Emo-ji]\nHm... You look like a great Minstrel. It's a shame that you've never been to Valhalla. Because if you did, I would have picked you right this minute. Oh, well. Have a good day!",
         "pt-BR": "[Emo-ji]\nHum... você é realmente incrível, né? Mas não sinto a energia de Valhalla... É uma pena, uma pena mesmo. Se você tivesse visitado Valhalla pelo menos uma vez, eu teria te escolhido na hora. É uma pena, mas não tem jeito. Tenha um ótimo dia!",
         "es-ES": "[Emo-ji]\nMmm... \n¿Eres un ministril realmente genial? \nPero no siento la energía de Valhalla... \nQué pena, qué pena. \nSi hubieras estado en Valhalla al menos una vez, te hubiéramos contratado de inmediato. \nEs una lástima, pero no hay nada que hacer. \n¡Que tengas un buen día!"
     },
     "hViEDA": {
-        "ko-KR": "[이모트]\n정말 아쉽...",
         "en-US": "[Emo-ji]\nWhat a sha--",
         "pt-BR": "[Emo-ji]\nÉ realmente uma pena...",
         "es-ES": "[Emo-ji]\nEs una verdadera lástima..."
     },
     "hliEDA": {
-        "ko-KR": "[?????]\n......",
         "en-US": "[?????]\n......",
         "pt-BR": "[?????]\n......",
         "es-ES": "[?????]\n......"
     },
     "h1iEDA": {
-        "ko-KR": "[이모트]\n정말 아쉽지만...",
         "en-US": "[Emo-ji]\nWhat a shame, but...",
         "pt-BR": "[Emo-ji]\nÉ realmente uma pena, mas...",
         "es-ES": "[Emo-ji]\nEs una pena, pero..."
     },
     "iFiEDA": {
-        "ko-KR": "[?????]\n......\n............",
         "en-US": "[?????]\n......\n............",
         "pt-BR": "[?????]\n......\n............",
         "es-ES": "[?????]\n......\n............"
     },
     "iViEDA": {
-        "ko-KR": "[이모트]\n저... 누구...?",
         "en-US": "[Emo-ji]\nUm... who...?",
         "pt-BR": "[Emo-ji]\nOi... quem é...?",
         "es-ES": "[Emo-ji]\nOye... ¿quién...?"
     },
     "iliEDA": {
-        "ko-KR": "[?????]\n얘. 너는 거기서 비비지 말고 나 좀 보자.",
         "en-US": "[?????]\nHey. Stop messing around over there and look at me.",
         "pt-BR": "[?????]\nEi! Não fique aí perdendo tempo, olhe para mim.",
         "es-ES": "[?????]\nOye. \nNo te quedes ahí frotándote, ven a verme."
     },
     "i1iEDA": {
-        "ko-KR": "[이모트]\n여러분의 눈과 귀를 사로 잡을 환상의 쑈! 드넓은 미드가르드 그 어디서도 볼 수 없는 어메이징 쑈! 전에도 없없고 후에도 없을 판타스틱 쑈!",
         "en-US": "[Emo-ji]\nA fantastic show that'll immediately captivate your eyes and ears! There's nothing like this anywhere else in Midgard! It is and will be a one-of-a-kind show!",
         "pt-BR": "[Emo-ji]\nUm show fantástico que vai cativar os olhos e ouvidos de todos! Um show incrível que você não vê em nenhum outro lugar da imensa Midgard! Um show fantástico que nunca existiu antes e nunca mais existirá!",
         "es-ES": "[Emo-ji]\n¡Un espectáculo fantástico que cautivará tus ojos y oídos! \n¡Un espectáculo increíble que no se puede ver en ningún otro lugar del vasto Midgard! \n¡Un espectáculo fantástico que no ha habido antes ni habrá después!"
     },
     "jFiEDA": {
-        "ko-KR": "[이모트]\n안녕? 나중에 시간 되면 한 번 구경하러 와~",
         "en-US": "[Emo-ji]\nHey. Come watch our show later, will you?",
         "pt-BR": "[Emo-ji]\nE aí? Se tiver tempo mais tarde, venha dar uma olhada!",
         "es-ES": "[Emo-ji]\n¿Hola? \n¡Si tienes tiempo más tarde, ven a echar un vistazo!"
     },
     "jViEDA": {
-        "ko-KR": "[이모트]\n전단지 받아가... 어, 민스트럴?",
         "en-US": "[Emo-ji]\nTake a flyer... Oh, Minstrel?",
         "pt-BR": "[Emo-ji]\nPegue um panfleto... Ah, você é musicista?",
         "es-ES": "[Emo-ji]\nToma un folleto... \nEh, ¿ministril?"
     },
     "jliEDA": {
-        "ko-KR": "[이모트]\n흐음... 너, 가능성이 보이는 새싹이구나? 나중에 경험을 좀 더 쌓으면 우리랑 같이 공연하자.",
         "en-US": "[Emo-ji]\nHm... You've got potential, don't you? Once you gain more experience, maybe you can join us for a performance.",
         "pt-BR": "[Emo-ji]\nHum... Você parece ter potencial, novato? Quando tiver mais experiência, venha se apresentar com a gente.",
         "es-ES": "[Emo-ji]\nMmm...\n¿Tú eres un brote con potencial? \nCuando hayas acumulado un poco más de experiencia, ven a actuar con nosotros."
     },
     "j1iEDA": {
-        "ko-KR": "^0000CD전직 시험은 베이스 레벨 200 이상부터 진행할 수 있습니다.^000000",
         "en-US": "^0000CDYou can accept this Job Change test at Base Level 200 or above.^000000",
         "pt-BR": "^0000CDO teste de mudança de classe pode ser feito a partir do nível base 200.^000000",
         "es-ES": "^0000CDLa prueba de cambio de profesión se puede realizar a partir del nivel base 200.^000000"
     },
     "kFiEDA": {
-        "ko-KR": "^0000CD전직 시험은 직업 레벨 70 이상부터 진행할 수 있습니다.^000000",
         "en-US": "^0000CDYou can accept this Job Change test at Job Level 70 or above.^000000",
         "pt-BR": "^0000CDO teste de mudança de classe pode ser feito a partir do nível de classe 70.^000000",
         "es-ES": "^0000CDLa prueba de cambio de profesión se puede realizar a partir del nivel de profesión 70.^000000"
     },
     "kViEDA": {
-        "ko-KR": "[이모트]\n안녕? 날씨 참 좋지? 나는 이런 날엔 고향에 있는 우리 엄마가 생각나더라구.",
         "en-US": "[Emo-ji]\nHi. It's a wonderful day, isn't it? On a day like this, I can't help but miss Mom back at home.",
         "pt-BR": "[Emo-ji]\nE aí? O tempo tá ótimo, né? Nesses dias, eu sempre penso na minha mãe, lá na minha terra.",
         "es-ES": "[Emo-ji]\n¿Qué tal?\n¿No hace un día estupendo? \nA mí, en días como este, me acuerdo de mi mamá, que está en mi pueblo."
     },
     "kliEDA": {
-        "ko-KR": "[이모트]\n엄마가 예술 하는 사람 만나지 말랬는데.",
         "en-US": "[Emo-ji]\nMom told me not to get involved with artists.",
         "pt-BR": "[Emo-ji]\nMinha mãe sempre disse pra eu não me envolver com gente do mundo das artes.",
         "es-ES": "[Emo-ji]\nMi mamá me dijo que no saliera con gente del mundo del arte."
     },
     "k1iEDA": {
-        "ko-KR": "[이모트]\n예술을 하는 사람을 의식적으로 피하다 보니 어느새 내가 예술 하는 사람이 되어 버렸더라구.",
         "en-US": "[Emo-ji]\nI tried to consciously avoid people involved in the arts, but before I knew it, I'd become one myself.",
         "pt-BR": "[Emo-ji]\nPor ter evitado conscientemente pessoas que trabalham com arte, sem perceber, acabei me tornando uma delas.",
         "es-ES": "[Emo-ji]\nAl evitar conscientemente a las personas que se dedican al arte, sin darme cuenta me convertí en una de ellas."
     },
     "lFiEDA": {
-        "ko-KR": "[이모트]\n그래서일까? 나는 친구가 없어.",
         "en-US": "[Emo-ji]\nMaybe that's why I have no friends.",
         "pt-BR": "[Emo-ji]\nSerá que é por isso que eu não tenho amigos?",
         "es-ES": "[Emo-ji]\n¿Será por eso? \nNo tengo amigos."
     },
     "lViEDA": {
-        "ko-KR": "[이모트]\n그런 눈으로 보지 마. 동료는 많다구.",
         "en-US": "[Emo-ji]\nDon't look at me like that. I've got lots of acquaintances.",
         "pt-BR": "[Emo-ji]\nNão me olhe assim. Tenho muitos colegas, sabe.",
         "es-ES": "[Emo-ji]\nNo me mires así. \nTengo muchos compañeros."
     },
     "lliEDA": {
-        "ko-KR": "[이모트]\n외롭고 절박한 영혼들끼리 만나 예술혼을 불태우는 일, 상당히 재미 있더라구. 쿡.",
         "en-US": "[Emo-ji]\nIt's been quite entertaining, meeting souls just as lonely and desperate as I and sharing artistic passion with them. Heh heh.",
         "pt-BR": "[Emo-ji]\nEncontrar outras almas solitárias e desesperadas para queimar nossa paixão pela arte... é bem divertido, sabe? Hehe.",
         "es-ES": "[Emo-ji]\nReunirnos entre almas solitarias y desesperadas para encender nuestra llama artística... la verdad es que es bastante divertido. Jeje."
     },
     "l1iEDA": {
-        "ko-KR": "[이모트]\n너도 알고 있을 텐데? 오래도록 연주를 하다 보면 반짝임을 잃고 닳고 닳은 내면 속에 갇힌 채 기계적으로 연주를 하게 된다는 걸. 그런 사람들이 모인 거야.",
         "en-US": "[Emo-ji]\nYou know how it is, right? When you've been playing for so long, you lose your sparkle and get stuck inside a worn-out shell, just playing mechanically. We're a bunch of people like that.",
         "pt-BR": "[Emo-ji]\nVocê também deve saber disso, né? Que, depois de tocar por muito tempo, a gente perde o brilho e fica preso num vazio, tocando mecanicamente. É isso que acontece com essas pessoas.",
         "es-ES": "[Emo-ji]\n¿Tú también lo sabes, no? \nQue cuando tocas durante mucho tiempo, pierdes el brillo y terminas atrapado en un interior desgastado, tocando mecánicamente. \nEsos son los que se juntan."
     },
     "mFiEDA": {
-        "ko-KR": "[이모트]\n그런데, 네 죽어있는 눈빛도 같은 이야기를 하고 있어. 너도 그렇다고.",
         "en-US": "[Emo-ji]\nBut your dead eyes tell the same story. You're one of us.",
         "pt-BR": "[Emo-ji]\nMas, o seu olhar sem vida está me dizendo a mesma coisa. Você também é assim.",
         "es-ES": "[Emo-ji]\nPero tu mirada apagada cuenta la misma historia. \nTú también eres así."
     },
     "mViEDA": {
-        "ko-KR": "[이모트]\n너의 반짝이가 꺼내달라고 하는 소리, 들리지 않아?",
         "en-US": "[Emo-ji]\nCan't you hear your luster begging you to let it out?",
         "pt-BR": "[Emo-ji]\nNão está ouvindo o seu brilho pedindo para ser libertado?",
         "es-ES": "[Emo-ji]\n¿No oyes cómo tu brillo te pide que lo saques?"
     },
     "mliEDA": {
-        "ko-KR": "[이모트]\n어때? 같이 무대 해보지 않을래? 같이 최고의 공연을 하며 다시 너의 반짝이를 찾아 죽어 있는 심장을 살려 보라구.",
         "en-US": "[Emo-ji]\nHow about it? Want to join my band? Let's put on the best show together, revive your dead heart, and find your luster again.",
         "pt-BR": "[Emot]\nE aí? Quer subir no palco comigo? Vamos fazer a melhor apresentação juntos, recuperar o seu brilho e dar vida ao seu coração apático.",
         "es-ES": "[Emot]\n¿Qué te parece? ¿Te animas a subir al escenario conmigo? \nHagamos juntos el mejor espectáculo, recuperemos tu brillo y revivamos ese corazón muerto."
     },
     "m1iEDA": {
-        "ko-KR": "[이모트]\n뭘 망설이는 거야? 내가 사기꾼 같아? 흠, 어쩐다...? 아! 그렇지!",
         "en-US": "[Emo-ji]\nWhat are you waiting for? Can't you trust me? Hm, how can I prove it to you...? Oh, right!",
         "pt-BR": "[Emot]\nPor que você tá hesitando? Acha que pareço um vigarista? Hmm, o que será...? Ah! Já sei!",
         "es-ES": "[Emot]\n¿A qué esperas? \n¿Te parezco un estafador? \nMmm, ¿qué pasa...? \n¡Ah! ¡Ya sé!"
     },
     "nFiEDA": {
-        "ko-KR": "[이모트]\n우리의 무대를 위해 지금 오딘 신전이 있는 곳에 최대 규모의 공연장을 짓고 있는데 그걸 보면 마음이 달라질 걸?",
         "en-US": "[Emo-ji]\nRight now, we're building a massive performance venue where Odin's Temple stands. Seeing it might change your mind.",
         "pt-BR": "[Emo-ji]\nNeste momento, estamos construindo um grande palco no local onde fica o Templo de Odin. Se você vir isso, vai mudar de ideia, não é?",
         "es-ES": "[Emo-ji]\nPara nuestro escenario, estamos construyendo el auditorio más grande del mundo justo donde está el templo de Odín. \nSeguro que si lo ves, cambiarás de opinión."
     },
     "nViEDA": {
-        "ko-KR": "[이모트]\n자신의 한계를 극복한 최고의 예술가들만이 그 무대에 설 수 있다고. 다 지어지면 본격적으로 단원을 모집할 거야. 그 전에 구경해 보는 것이 어때?",
         "en-US": "[Emo-ji]\nOnly the greatest artists who have transcended their limits will get to perform on that stage. When we finish building it, we're going to recruit new band members. Why don't you go take a look at it?",
         "pt-BR": "[Emo-ji]\nSó os melhores artistas, que superaram seus limites, poderão subir nesse palco. Quando estiver tudo pronto, vamos começar a recrutar membros de verdade. Que tal dar uma olhada antes disso?",
         "es-ES": "[Emo-ji]\nSolo los mejores artistas, los que han superado sus límites, podrán subirse a ese escenario. \nCuando esté todo listo, empezaremos a reclutar miembros de verdad. ¿Qué tal si antes vas a echar un vistazo?"
     },
     "nliEDA": {
-        "ko-KR": "구, 구경이나 해볼까?",
         "en-US": "Should I go take a look?",
         "pt-BR": "Tá, vou dar uma olhada.",
         "es-ES": "¿Quizás le eche un vistazo?"
     },
     "n1iEDA": {
-        "ko-KR": "아직 마음의 준비가 필요해.",
         "en-US": "I still need to prepare myself mentally.",
         "pt-BR": "Ainda preciso me preparar mentalmente.",
         "es-ES": "Todavía necesito prepararme mentalmente."
     },
     "oFiEDA": {
-        "ko-KR": "[이모트]\n그래? 잘 생각했어. 너도 그 공연장을 보면 내 말이 거짓이 아니라는 것을 알게 될 거야. 하나의 계기가 될 수도 있겠지!",
         "en-US": "[Emo-ji]\nReally? Good thinking. If you see that venue, you'll know I wasn't lying. It could be a turning point!",
         "pt-BR": "[Emo-ji]\nÉ mesmo? Boa ideia. Quando você vir aquele palco, vai perceber que o que eu disse não é mentira. Pode até fazer você mudar de ideia!",
         "es-ES": "[Emo-ji]\n¿Ah, sí? \nBuena idea. \nCuando veas ese teatro, te darás cuenta de que no miento. \n¡Quizá sea un punto de inflexión!"
     },
     "oViEDA": {
-        "ko-KR": "[이모트]\n공연장은 <NAVI>[오딘 신전 북쪽]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>지역에 있어. 안내 해줄게. 찾기 쉬울 거야. 꼭 우리 동료가 되면 좋겠네.",
         "en-US": "[Emo-ji]\nThe performance venue is in the <NAVI>[north of Odin's Temple]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI> area. I'll guide you there. It should be easy to find. I really hope you'll join us.",
         "pt-BR": "[Emo-ji]\nO palco fica na região <NAVI>[ao norte do Templo de Odin]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>. Vou te guiar até lá. Vai ser fácil encontrar. Adoraria que você se tornasse nosso companheiro.",
         "es-ES": "[Emo-ji]\nEl teatro está en la zona <NAVI>[al norte del Templo de Odín]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>. \nTe lo voy a mostrar. Será fácil de encontrar. \nOjalá te conviertas en nuestro compañero."
     },
     "oliEDA": {
-        "ko-KR": "[이모트]\n망설이기는. 그래, 뭐. 각자의 사정이 있으니까. 하지만 너는 반드시 나를 다시 찾아오게 될 거야. 기다릴게.",
         "en-US": "[Emo-ji]\nYou're so reluctant. Well, it's up to you. But I know you'll come back. Just know that I'm waiting for you here.",
         "pt-BR": "[Emo-ji]\nTá hesitando, né? Tudo bem. Todo mundo tem suas razões. Mas você com certeza vai voltar pra me procurar. Vou esperar por você.",
         "es-ES": "[Emo-ji]\nVaya, estás dudando. \nBueno, cada uno tiene sus razones. \nPero seguro que volverás a buscarme. \nTe esperaré."
     },
     "o1iEDA": {
-        "ko-KR": "[이모트]\n야 너 어색해...",
         "en-US": "[Emo-ji]\nHey, you look awkward...",
         "pt-BR": "[Emo-ji]\nEi, você tá meio sem jeito...",
         "es-ES": "[Emo-ji]\nOye, qué incómodo..."
     },
     "pFiEDA": {
-        "ko-KR": "[이모트]\n뭐? 공연장은 아예 짓질 못하고 있다고? 저런... 큰일이네. 사람들을 잔뜩 모았는데!",
         "en-US": "[Emo-ji]\nWhat? They haven't even built the stage yet? Oh no... That's bad. They've gathered a ton of people!",
         "pt-BR": "[Emo-ji]\nO quê? Ainda nem começaram a construir o palco? Nossa... Que problema. Já reuniram um monte de gente!",
         "es-ES": "[Emo-ji]\n¿Qué? \n¿Ni siquiera han podido construir el teatro? \nVaya... qué lío. \n¡Y con tanta gente reunida!"
     },
     "pViEDA": {
-        "ko-KR": "신자",
         "en-US": "Follower",
         "pt-BR": "Fiel",
         "es-ES": "Fiel"
     },
     "pliEDA": {
-        "ko-KR": "저 사람에게서 감동의 조각의 기운이 느껴져!",
         "en-US": "I can feel an Emotion Piece from that person!",
         "pt-BR": "Sinto a energia de um fragmento de emoção vindo dessa pessoa!",
         "es-ES": "¡Siento la energía de los fragmentos de emoción en esa persona!"
     },
     "p1iEDA": {
-        "ko-KR": "소지하고 계신 아이템의 수량이 많아 대화를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
         "en-US": "You have too many items equipped to continue the conversation.\nPlease organize your items and try again.",
         "pt-BR": "Não é possível prosseguir com a conversa devido ao grande número de itens que você possui.\nPor favor, organize seus itens e tente novamente.",
         "es-ES": "No puedes continuar la conversación porque tienes demasiados objetos en tu inventario.\nPor favor, ordena tus objetos y vuelve a intentarlo."
     },
     "qFiEDA": {
-        "ko-KR": "[신자]\n찬미합니다! 프론테라 대성당에 오신 것을 환영합니다!",
         "en-US": "[Follower]\nPraise Odin! Welcome to the Prontera Sanctuary!",
         "pt-BR": "[Fiel]\nLouvado seja! Seja bem-vindo à Catedral de Prontera!",
         "es-ES": "[Fiel]\n¡Alabado sea! \n¡Bienvenido a la Catedral de Prontera!"
     },
     "qViEDA": {
-        "ko-KR": "감동의 조각을 가지고 계신데...",
         "en-US": "You have an Emotion Piece...",
         "pt-BR": "Você está com uma Peça de Emoção...",
         "es-ES": "Tienes un fragmento de emoción..."
     },
     "qliEDA": {
-        "ko-KR": "[신자]\n제가요? 모험가님의 것을요? 저는 아무 것도 가지지 않았는데요, 아무 것도 훔치지 않았습니다!",
         "en-US": "[Follower]\nMe? The adventurer's? I haven't taken anything, I didn't steal anything!",
         "pt-BR": "[Fiel]\nEu? Ou o do viajante? Eu não tenho nada, não roubei nada!",
         "es-ES": "[Fiel]\n¿Mío? \n¿El tuyo, trotamundos? \nYo no tengo nada, ¡no he robado nada!"
     },
     "q1iEDA": {
-        "ko-KR": "그게 아니라...",
         "en-US": "No, I mean...",
         "pt-BR": "Não é isso...",
         "es-ES": "No es eso..."
     },
     "rFiEDA": {
-        "ko-KR": "- 이곳까지 오게 된 이유를 간략히 설명했다.",
         "en-US": "- I briefly explained why I came here.",
         "pt-BR": "- Expliquei brevemente o motivo pelo qual vim até aqui.",
         "es-ES": "- Le explicaste brevemente por qué habías venido hasta aquí."
     },
     "rViEDA": {
-        "ko-KR": "[신자]\n아! 그러니까 오딘께서 모험가님을 이곳으로 이끄신 거군요! 이 또한 모두 그 분의 뜻!",
         "en-US": "[Follower]\nAh! So Odin has led you here! This too is His will!",
         "pt-BR": "[Fiel]\nAh! Então foi Odin quem trouxe você até aqui, viajante! Isso também é tudo vontade Dele!",
         "es-ES": "[Fiel]\n¡Ah! \n¡Entonces fue Odín quien te trajo hasta aquí, trotamundos!\n¡Todo esto también es voluntad suya!"
     },
     "rliEDA": {
-        "ko-KR": "[신자]\n그럼 제가 뭘 하면 될까요? 어떻게 드리죠? 저에겐 보이지도 않는데요.",
         "en-US": "[Follower]\nThen what should I do? How can I help? I can't even see it.",
         "pt-BR": "[Fiel]\nEntão, o que eu devo fazer? Como posso te ajudar? Eu nem consigo ver.",
         "es-ES": "[Fiel]\nEntonces, ¿qué debo hacer? \n¿Cómo te lo entrego? \nA mí ni siquiera se me ve."
     },
     "r1iEDA": {
-        "ko-KR": "감동을 느끼시면 될 것 같습니다.",
         "en-US": "I think you should just feel some emotions.",
         "pt-BR": "Acho que basta você se emocionar.",
         "es-ES": "Creo que solo tienes que conmoverte."
     },
     "sFiEDA": {
-        "ko-KR": "[신자]\n감동을요...? 아! 그거라면 알겠어요!",
         "en-US": "[Follower]\nFeel moved...? Ah! I know what you mean!",
         "pt-BR": "[Fiel]\nMe emocionar...? Ah! Se é isso, eu entendo!",
         "es-ES": "[Fiel]\n¿Conmoverme...? \n¡Ah! \n¡Eso sí lo entiendo!"
     },
     "sViEDA": {
-        "ko-KR": "[신자]\n인간은 이해할 수 없는 것을 접했을 때, 어려움과 고난을 느낄 때 절대자를 통해 답을 얻으려고 하죠.",
         "en-US": "[Follower]\nWhen people encounter something incomprehensible or challenging, they turn to an absolute being for an answer.",
         "pt-BR": "[Fiel]\nQuando os humanos se deparam com algo que não conseguem entender, ou quando enfrentam dificuldades e provações, eles procuram respostas através de um ser superior.",
         "es-ES": "[Fiel]\nCuando los humanos se enfrentan a algo que no pueden entender, o cuando sienten dificultades y sufrimientos, buscan respuestas a través del Ser Supremo."
     },
     "sliEDA": {
-        "ko-KR": "[신자]\n답을 얻으면, 적어도 마음의 평안과 평화를 얻게 되면 감사의 마음과 사랑의 마음을 담아 찬미하게 돼요.",
         "en-US": "[Follower]\nWhen they find an answer, or at least find peace and tranquility in their hearts, they praise with gratitude and love.",
         "pt-BR": "[Fiel]\nQuando obtêm a resposta, ou pelo menos quando alcançam paz e tranquilidade no coração, acabam louvando com gratidão e amor.",
         "es-ES": "[Fiel]\nCuando obtienes la respuesta, o al menos cuando consigues paz y tranquilidad en tu corazón, terminas alabando con un corazón lleno de gratitud y amor."
     },
     "s1iEDA": {
-        "ko-KR": "[신자]\n그걸 노래로 표현한 것이 성가죠. 어찌할 수 없는 마음을, 노래하거나 들을 때의 감동은 이루 말할 수가 없어요. 확신해요!",
         "en-US": "[Follower]\nHymns are how we express that in song. The emotion that overwhelms us when we sing or hear them is beyond words. I know that better than anyone else.",
         "pt-BR": "[Fiel]\nO que expressa isso em música é o hino. A emoção que sentimos ao cantar ou ouvir, quando não temos como lidar com nossos sentimentos, é indescritível. Tenho certeza disso!",
         "es-ES": "[Fiel]\nEso es lo que expresan los himnos. \nEsas emociones que no puedes controlar, lo que sientes al cantar o escuchar, es indescriptible. \n¡Estoy seguro!"
     },
     "tFiEDA": {
-        "ko-KR": "[신자]\n감동의 조각이 왜 여기로 찾아왔는지 알 것 같아요!\n그 노래를 찾아 온 것이겠죠. 기쁠때는 기쁨을 노래하고 슬프고 힘들 때는 이겨낼 수 있는 힘을 달라 노래하고.",
         "en-US": "[Follower]\nI think I know why an Emotion Piece came to me.\nTo listen to my singing. I sing to God when I'm happy or even when I'm sad and tired.",
         "pt-BR": "[Fiel]\nAcho que sei por que essa Peça de Emoção veio até aqui!\nDeve ter vindo em busca dessa música. Quando estamos felizes, cantamos com alegria; quando estamos tristes e em dificuldades, cantamos buscando forças para superar.",
         "es-ES": "[Fiel]\n¡Creo que sé por qué ese pedacito de emoción vino aquí!\nSeguramente vino en busca de esa canción. \nCuando estás contento, cantas de alegría; cuando estás triste o pasas por un momento difícil, cantas pidiendo la fuerza para superarlo."
     },
     "tViEDA": {
-        "ko-KR": "[신자]\n햐- 그분을 향한 끓어 오르는 마음을 떨쳤더니 후련하네요. 사실 최근에 고민이 좀 있었거든요.",
         "en-US": "[Follower]\nWhew! That was cathartic, expressing my burning love for the Lord. It also helped me with something I've been thinking about.",
         "pt-BR": "[Fiel]\nUau... Depois de desabafar esse sentimento fervilhante por Ele, me tranquilizei. Na verdade, eu estava com algumas preocupações recentemente.",
         "es-ES": "[Fiel]\n¡Uf! \nMe siento mejor después de haber liberado este sentimiento que me embargaba hacia Él. \nLa verdad es que últimamente tenía algunas preocupaciones."
     },
     "tliEDA": {
-        "ko-KR": "[신자]\n성가대에 가입하고 싶었는데, 과연 내가 들어가도 될까... 하는 거요. 하지만 이제 알았어요. 그분을 향한 마음이 있으면 된다는 것을요!",
         "en-US": "[Follower]\nI wanted to join the choir, but I wasn't sure if I was good enough. But now, I know it doesn't matter if I'm good or not, so long as I love Him!",
         "pt-BR": "[Fiel]\nEu queria entrar no coro, mas ficava pensando: “Será que eu consigo mesmo...?” Mas agora eu sei. Basta ter um coração voltado para Ele!",
         "es-ES": "[Fiel]\nQuería unirme al coro, pero me preguntaba si realmente podría entrar... Pero ahora lo sé. \n¡Lo único que importa es tener ese sentimiento hacia Él!"
     },
     "t1iEDA": {
-        "ko-KR": "[신자]\n이런 시기에 모험가님이 찾아 오신 것이 우연이 아닌 것 같아요. 정말로 그 분께서 이끄신 것이 분명해요! 정말 감사해요.",
         "en-US": "[Follower]\nIt can't be a coincidence that you came to me today. Odin has to have sent you to me. Thank you so much.",
         "pt-BR": "[Fiel]\nParece que não foi por acaso que você veio aqui neste momento, viajante. É claro que foi Ele quem te guiou! Agradeço muito por isso.",
         "es-ES": "[Fiel]\nNo me parece una coincidencia que hayas venido en un momento como este, trotamundos. \n¡Está claro que fue Él quien te trajo! \nTe lo agradezco de verdad."
     },
     "uFiEDA": {
-        "ko-KR": "[신자]\n어...? 이것이 감동의 조각인가요? 정말.. 아름다워요. 아, 이럴 때가 아니죠! 서둘러야 한다고 했죠? 다음 목적지는 어디예요?",
         "en-US": "[Follower]\nHuh...? Is this the Emotion Piece? Wow! It looks so beautiful! Oh, there's no time for this. You're in a hurry, aren't you? Where's your next destination?",
         "pt-BR": "[Fiel]\nHã...? Essa é a Peça de Emoção? É realmente... linda. Ah, não é hora para isso! Você disse que precisamos nos apressar, não foi? Qual é o próximo destino?",
         "es-ES": "[Fiel]\n¿Eh...? \n¿Esto es un fragmento de emoción? \nEs realmente... hermoso. \n¡Ah, no es momento para esto! \nDijiste que teníamos que darnos prisa, ¿no? \n¿Cuál es el próximo destino?"
     },
     "uViEDA": {
-        "ko-KR": "저도 잘... 파랑 소리라고만...",
         "en-US": "I don't know either... I was just told it's a blue sound...",
         "pt-BR": "Eu também não sei bem... Só sei que é um som azul...",
         "es-ES": "Yo tampoco sé muy bien... Solo sé que se llama «sonido azul»..."
     },
     "uliEDA": {
-        "ko-KR": "[신자]\n파랑 소리? 그거 파도가 칠 때 나는 소리 아니에요? 바다로 가셔야 할 것 같은데요. 파도 소리가 나는 바다라면...",
         "en-US": "[Follower]\nA blue sound? Like the sound of sea waves? You'd better check the sea. Let me think where you can hear the sound of sea waves...",
         "pt-BR": "[Fiel]\nSom azul? Como das ondas? Não é o som que as ondas fazem quando quebram? Acho que você precisa ir para o mar. Se for um mar onde se ouve o som das ondas...",
         "es-ES": "[Fiel]\n¿El sonido del azul? \n¿No es el sonido que hacen las olas cuando rompen? \nCreo que deberías ir al mar. \nSi es un mar donde se oye el sonido de las olas..."
     },
     "u1iEDA": {
-        "ko-KR": "[신자]\n감동의 조각... 파도 소리... 문득 떠오르네요. <NAVI>[코코모 해변]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI>으로 가보세요. 잘은 모르겠지만 그곳이 모험가님을 이끄는 것 같아요.",
         "en-US": "[Follower]\nEmotion Pieces... The sound of sea waves... I think I know. You should go to <NAVI>[Kokomo Beach]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI>. I'm not sure, but it seems like that place is calling you.",
         "pt-BR": "[Fiel]\nPeça de emoção... Som das ondas... De repente me lembrei. Vá até a <NAVI>[Praia Kokomo]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI>. Não sei ao certo, mas parece que é para lá que o destino te aguarda.",
         "es-ES": "[Fiel]\nEl fragmento de emoción... el sonido de las olas... De repente se me ocurre algo. \nVe a <NAVI>[Playa de Cocomo]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI>. \nNo estoy muy seguro, pero parece que ese lugar te está guiando, trotamundos."
     },
     "vFiEDA": {
-        "ko-KR": "[신자]\n이것도 아마 모험가님을 이곳으로 이끈 그 분의 뜻이겠지요. 그럼, 모험가님의 길에 행운이 깃들길 빌게요!",
         "en-US": "[Follower]\nThis too must be His will. Now, may God bless you on your journey.",
         "pt-BR": "[Fiel]\nIsso também deve ser a vontade daquele que trouxe você até aqui, viajante. Então, desejo boa sorte na sua jornada!",
         "es-ES": "[Fiel]\nSeguramente esto también sea la voluntad de quien te trajo hasta aquí, trotamundos. \n¡Pues eso, te deseo mucha suerte en tu camino!"
     },
     "vViEDA": {
-        "ko-KR": "- 결정을 손에 쥐자 어딘가로 이끄는 힘이 느껴진다.",
         "en-US": "- As I hold the crystal in my hand, I can feel the energy that pulls me toward somewhere.",
         "pt-BR": "- Ao segurar o fragmento em minhas mãos, sinto uma força que me leva para algum lugar.",
         "es-ES": "- Al tomar la decisión, siento una fuerza que me lleva a algún lugar."
     },
     "vliEDA": {
-        "ko-KR": "힘을 따라 간다.",
         "en-US": "Follow the energy.",
         "pt-BR": "Sigo a força.",
         "es-ES": "Sigo esa fuerza."
     },
     "v1iEDA": {
-        "ko-KR": "이곳에 남는다.",
         "en-US": "Stay here.",
         "pt-BR": "Fico por aqui.",
         "es-ES": "Me quedo aquí."
     },
     "wFiEDA": {
-        "ko-KR": "[신자]\n<NAVI>[코코모 해변]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI>으로 가보세요. 잘은 모르겠지만 그곳이 모험가님을 이끄는 것 같아요.",
         "en-US": "[Follower]\n<NAVI>[Kokomo Beach]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI> Try going there. I'm not sure, but it seems to be leading you, Adventurer.",
         "pt-BR": "[Fiel]\n<NAVI>[Praia Kokomo]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI>. Não sei bem por quê, mas parece que esse lugar está te guiando, viajante.",
         "es-ES": "[Fiel]\nVe a <NAVI>[Playa de Cocomo]<INFO>cmd_fild02,47,85,0,101,0</INFO></NAVI>. \nNo estoy muy seguro, pero parece que ese lugar te está guiando."
     },
     "wViEDA": {
-        "ko-KR": "[신자]\n아~♪ 아아~♬",
         "en-US": "[Follower]\nAh~ Ahh~",
         "pt-BR": "[Fiel]\nAh, ah.",
         "es-ES": "[Fiel]\nAh, ah."
     },
     "wliEDA": {
-        "ko-KR": "망부석",
         "en-US": "Waiting Statue",
         "pt-BR": "Pedra da Esposa",
         "es-ES": "La Roca de la Esposa"
     },
     "w1iEDA": {
-        "ko-KR": "[망부석]\n처얼썩- 철썩- 야속하게도 파도 소리는 멈추지 않고- 처얼썩- 철썩-",
         "en-US": "[Waiting Statue]\nSplash, splash. The sound of sea waves continues, ignoring my sorrow. Splash, splash.",
         "pt-BR": "[Pedra da Esposa]\nSplash, splash. O som das ondas não para, quanta crueldade. Splash, splash.",
         "es-ES": "[La roca de la esposa]\n¡Chas, plas!—cruelmente, el sonido de las olas no se detiene—¡chas, plas!—"
     },
     "xFiEDA": {
-        "ko-KR": "감동의 조각이 여기에...",
         "en-US": "A piece of emotion is here...",
         "pt-BR": "Uma Peça de Emoção está aqui...",
         "es-ES": "Aquí hay un pedazo de emoción..."
     },
     "xViEDA": {
-        "ko-KR": "[망부석]\n......",
         "en-US": "[Waiting Statue]\n......",
         "pt-BR": "[Pedra da Esposa]\n......",
         "es-ES": "[La Piedra de la Esposa]\n......"
     },
     "xliEDA": {
-        "ko-KR": "[망부석]\n......\n.........",
         "en-US": "[Waiting Statue]\n......\n.........",
         "pt-BR": "[Pedra da Esposa]\n......\n.........",
         "es-ES": "[La roca de la esposa]\n......\n........."
     },
     "x1iEDA": {
-        "ko-KR": "[망부석]\n......\n.........\n............",
         "en-US": "[Waiting Statue]\n......\n.........\n............",
         "pt-BR": "[Pedra da Esposa]\n......\n.........\n............",
         "es-ES": "[La roca de la esposa]\n......\n.........\n............"
     },
     "yFiEDA": {
-        "ko-KR": "[망부석]\n철썩- 처얼썩- 오늘도 길고 긴 파도 소리... 야속한 그대는 어찌하여 오늘도 소식이 없나요. 철썩-",
         "en-US": "[Waiting Statue]\nSplash, splash. The sound of sea waves continues as usual. My darling, why aren't you coming home? Splash.",
         "pt-BR": "[Pedra da Esposa]\nSplash, splash.\nHoje também o som das ondas é longo e interminável...\nPor que você, tão cruel, não dá notícias?\nSplash.",
         "es-ES": "[La Roca de la Esposa]\n¡Zas! \n¡Zas! \nHoy también el sonido de las olas es largo, largo... \n¿Por qué, cruel, hoy tampoco hay noticias tuyas? \n¡Zas!"
     },
     "yViEDA": {
-        "ko-KR": "저기...",
         "en-US": "Excuse me...",
         "pt-BR": "Olha lá...",
         "es-ES": "Mira..."
     },
     "yliEDA": {
-        "ko-KR": "[망부석]\n힐끔- 하....",
         "en-US": "[Waiting Statue]\nGlance- Hah...",
         "pt-BR": "[Pedra da Esposa]\nOlhando de soslaio...",
         "es-ES": "[La roca de la esposa]\nEcha un vistazo..."
     },
     "y1iEDA": {
-        "ko-KR": "저기요...?",
         "en-US": "Excuse me...?",
         "pt-BR": "Olá...?",
         "es-ES": "¿Oye...?"
     },
     "zFiEDA": {
-        "ko-KR": "[망부석]\n멀리 떠난 사람을 기다리다 돌이 된 사람 처음 보시나요? 아니라면 절 내버려 두시고, 처음이라도 저를 내버려두세요.",
         "en-US": "[Waiting Statue]\nHaven't you seen someone before who's turned into a stone while waiting for the person they love? Even if you haven't, please leave me alone.",
         "pt-BR": "[Pedra da Esposa]\nÉ a primeira vez que vê alguém que se transformou em pedra à espera de açguém que partiu para longe? Se não for, deixe-me em paz. E, mesmo que seja a primeira vez, deixe-me em paz.",
         "es-ES": "[La Roca de la Esposa]\n¿Es la primera vez que ves a alguien que se ha convertido en piedra esperando a quien se fue lejos? \nSi no es así, déjame en paz; y si es la primera vez, déjame en paz."
     },
     "zViEDA": {
-        "ko-KR": "[망부석]\n파도소리가 들리지 않으니까요. 단 하나라도 놓칠 수 없어요.",
         "en-US": "[Waiting Statue]\nBecause I can't hear the waves. I can't miss even one.",
         "pt-BR": "[Pedra da Esposa]\nPorque não consigo ouvir o som das ondas. Não posso perder um sequer.",
         "es-ES": "[La Roca de la Esposa]\nPorque no oigo el sonido de las olas. \nNo puedo perderme ni una sola."
     },
     "zliEDA": {
-        "ko-KR": "파도 소리요?",
         "en-US": "The sound of the waves?",
         "pt-BR": "O som das ondas?",
         "es-ES": "¿El sonido de las olas?"
     },
     "z1iEDA": {
-        "ko-KR": "[망부석]\n네, 파도 소리요. 구슬픈 노래 소리. 단 한 순간도 같은 소리가 나지 않기 때문에 주의 깊게 들어야 해요.",
         "en-US": "[Waiting Statue]\nYes, the sea waves. They sound like a sad song. I must pay attention to them.",
         "pt-BR": "[Pedra da Esposa]\nSim, o som das ondas. Um canto melancólico. Como nenhum som é igual a outro, nem por um único instante, preciso ouvir com atenção.",
         "es-ES": "[La Roca de la Esposa]\nSí, el sonido de las olas. \nUna melodía triste. Como nunca suena igual ni por un solo instante, hay que escucharlo con mucha atención."
     },
     "0FiEDA": {
-        "ko-KR": "[망부석]\n풍랑일지, 너울일지, 태풍일지. 바다로 떠난 사람이 무사히 돌아 오길 기다리면서 듣는 건 먼 파도 소리 밖에 없거든요.",
         "en-US": "[Waiting Statue]\nWhether it's a storm, a swell, or a typhoon. All I can hear while waiting for the person who left for the sea to return safely is the distant sound of the waves.",
         "pt-BR": "[Pedra da Esposa]\nSeja uma tempestade, ondas fortes ou um furacão. Enquanto espero que a pessoa que partiu para o mar volte em segurança, o único som que ouço é o de ondas distantes.",
         "es-ES": "[La roca de la esposa]\nYa sea una tormenta, un oleaje o un tifón. \nMientras espero que la persona que se fue al mar regrese sana y salva, lo único que escucho es el sonido de las olas lejanas."
     },
     "0ViEDA": {
-        "ko-KR": "[망부석]\n인력으로는 어떻게 할 수 없는 거대한 물... 무사히 돌아오길 빌면서 기다리는 것 밖에는 할 수 없어요.",
         "en-US": "[Waiting Statue]\nThe sea isn't something we can control. Just praying and waiting. That's all we can do.",
         "pt-BR": "[Pedra da Esposa]\nÁguas imponentes que a força humana não consegue controlar... Não há nada a fazer além de esperar, rezando pra que ele volte são e salvo.",
         "es-ES": "[La roca de la esposa]\nEsas aguas gigantescas contra las que no podemos hacer nada... \nLo único que podemos hacer es esperar y rezar para que regresen sanos y salvos."
     },
     "0liEDA": {
-        "ko-KR": "[망부석]\n떠나간 사람이 등대도 없는 이곳을 찾으려면 저는 계속 노래를 불러야 해요. 파도에도 지지 않는 노래를요.",
         "en-US": "[Waiting Statue]\nFor the person I love to find his way back home without help from a lighthouse, I must keep singing. More loudly than the sea waves.",
         "pt-BR": "[Pedra da Esposa]\nPara que essa pessoa encontre este lugar sem a ajuda de um farol, eu preciso continuar cantando. Uma canção ainda mais forte que as ondas.",
         "es-ES": "[La roca de la esposa]\nPara que la persona que se fue pueda encontrar este lugar sin faro, tengo que seguir cantando. \nUna canción que no se acalle ni siquiera con las olas."
     },
     "01iEDA": {
-        "ko-KR": "[망부석]\n이건, 파도의 노래고 제게는 기다림의 노래죠. 기약 없는 사람을 하염없이 기다리며 느낄 수 있는 것은 체념, 불안, 미련...",
         "en-US": "[Waiting Statue]\nThis is the song of waves, and to me, it is the song of waiting. While waiting endlessly for someone who may or may not return, I've been having all kinds of emotions. Resignation, anxiety, regret...",
         "pt-BR": "[Pedra da Esposa]\nEssa é a canção das ondas e, para mim, a canção da espera. Ao esperar sem fim por alguém que não se sabe quando e se irá retornar, o que se sente é resignação, ansiedade, saudade...",
         "es-ES": "[La Roca de la Esposa]\nEsta es la canción de las olas, y para mí es la canción de la espera. \nLo único que se siente al esperar sin fin a alguien sin fecha de regreso es resignación, ansiedad, nostalgia..."
     },
     "1FiEDA": {
-        "ko-KR": "그래도 희망이 있죠.",
         "en-US": "But you still have hope.",
         "pt-BR": "Mas você ainda possui esperanças.",
         "es-ES": "Pero aún hay esperanza."
     },
     "1ViEDA": {
-        "ko-KR": "[망부석]\n희망... 희망...? 맞아요! 그런게 있었어요! 오늘도 돌아오지 않는 사람에게 실망하면서도 매일매일 이곳에 나와서 기다리는 건, 희망이 있기 때문이에요!",
         "en-US": "[Waiting Statue]\nHope... Hope...? Yes! That's right! That's what it was! Even though I'm disappointed every day that the person doesn't come back, I still come here to wait day after day because I still have hope!",
         "pt-BR": "[Pedra da Esposa]\nEsperança... esperança...? É isso mesmo! Eu tenho isso! Mesmo ficando desapontada com a pessoa que não volta até hoje, eu venho aqui todos os dias para esperar porque tenho esperança!",
         "es-ES": "[La Roca de la Esposa]\n¿Esperanza...? \n¿Esperanza...? \n¡Sí! \n¡Eso es! \nAunque me decepcione que esa persona no regrese hoy, salgo a este lugar todos los días a esperar porque tengo esperanza."
     },
     "1liEDA": {
-        "ko-KR": "[망부석]\n오늘은 올 거야, 내일에라도 올 거야! 맞아요. 나는 이미 그 사람이 길을 잃고 파도에 삼켜졌을 거라고 생각하고 체념했지만 그랬다면 나는 이곳에 오지 않았겠죠!",
         "en-US": "[Waiting Statue]\nHe'll come today, or tomorrow at the latest! That's right. I thought he might have lost his way and been swallowed by the waves, and I resigned myself to it. But if that were true, I wouldn't have come here!",
         "pt-BR": "[Pedra da Esposa]\nHoje ele vai chegar, amanhã ele vai chegar! É isso mesmo. Eu já tinha desistido, achando que ele tinha se perdido e sido engolido pelas ondas, mas se fosse assim, eu não teria vindo aqui!",
         "es-ES": "[La Roca de la Esposa]\n¡Hoy vendrá, o tal vez mañana! \nSí. \nYa me había resignado pensando que esa persona se había perdido y que las olas se la habían tragado, pero si fuera así, ¡no habría venido aquí!"
     },
     "11iEDA": {
-        "ko-KR": "[망부석]\n맞아요. 나는 기다리고 있었어요!!!",
         "en-US": "[Waiting Statue]\nYes, that's why I'm still waiting!",
         "pt-BR": "[Pedra da Esposa]\nÉ isso mesmo. Eu estava esperando!!!",
         "es-ES": "[La Roca de la Esposa]\n¡Así es! \n¡Estaba esperando!!!"
     },
     "2FiEDA": {
-        "ko-KR": "[망부석]\n이곳이에요♬ 이쪽이에요♩ 잃지 말고 찾아 와요♪ 철썩- 잊지 말고 찾아 와요♬ 처얼썩- 철썩-",
         "en-US": "[Waiting Statue]\nThis way! This way!♩ Don't get lost, come to me Splash! Don't forget, come to me Splash, splash!",
         "pt-BR": "[Pedra da Esposa]\nÉ aqui! É por aqui!♩ Não se perca e venha me encontrar! Splash! Não se esqueça de mim e venha me encontrar! Splash, splash!",
         "es-ES": "[La Roca de la Esposa]\n¡Es aquí Por aquí♩\nNo te pierdas y ven a buscarme Chap- \nNo te olvides y ven a buscarme Chap- Chap-"
     },
     "2ViEDA": {
-        "ko-KR": "[망부석]\n나는 내일 또 이곳에 나와서 돌아오길 기다리며 노래를 부르겠죠. 내 노래 소리를 듣고 길을 잃지 않고 찾아 오길...!",
         "en-US": "[Waiting Statue]\nTomorrow, I'll come back here to sing, so he'll hear me and come home!",
         "pt-BR": "[Pedra da Esposa]\nAmanhã vou voltar aqui e cantar, esperando ele retornar. Espero que ele ouça minha música, não se perca e venha me encontrar!",
         "es-ES": "[La Piedra de la Esposa]\nMañana volveré a salir aquí y cantaré mientras espero que regreses. ¡Ojalá escuches mi canto y vengas a buscarme sin perderte...!"
     },
     "2liEDA": {
-        "ko-KR": "[기다리는 사람]\n그런데 당신은 누구시죠? 방랑하는 민스트럴 같아 보이는데. 당신도 누군가를 기다리고 있나요?",
         "en-US": "[Waiting Person]\nBy the way, who are you? You look like a wandering minstrel. Are you also waiting for someone?",
         "pt-BR": "[Pedra da Esposa]\nMas quem é você? Você parece um menestrel errante. Você também está esperando por alguém?",
         "es-ES": "[La persona que espera]\nPero, ¿quién eres? \nPareces un trovador errante. \n¿Tú también estás esperando a alguien?"
     },
     "21iEDA": {
-        "ko-KR": "- 감동의 조각과 고대 신전의 이야기를 간략하게 해주었다. -",
         "en-US": "- I briefly told her about the Emotion Pieces and the ancient temple. -",
         "pt-BR": "- Contei brevemente sobre as Peças de Emoção e do antigo templo. -",
         "es-ES": "- Conté brevemente la historia de la escultura conmovedora y del antiguo templo. -"
     },
     "3FiEDA": {
-        "ko-KR": "[기다리는 사람]\n무거운 짐을 짊어지셨군요. 제가 도움이 될 수 있을까요? 저도 보답을 하고 싶어요.",
         "en-US": "[Waiting Person]\nYou're burdened with such an important task. Is there anything I can do to help? I'd love to repay you.",
         "pt-BR": "[Pedra da Esposa]\nVocê carrega um fardo pesado. Posso ajudar? Também quero retribuir.",
         "es-ES": "[La persona que espera]\nLlevas una carga pesada. \n¿Puedo ayudarte? \nYo también quiero devolver el favor."
     },
     "3ViEDA": {
-        "ko-KR": "태초의 소리에 대해 아시나요?",
         "en-US": "Have you heard of the sound of the beginning?",
         "pt-BR": "Você conhece o Som do Início?",
         "es-ES": "¿Sabes algo sobre el sonido del principio?"
     },
     "3liEDA": {
-        "ko-KR": "[기다리는 사람]\n태초의 소리...? 음... 세상이 시작했을 때의 소리를 말하는 건 아니겠죠. 그건 너무 오래 전이니까. 소리가 태어나는 순간...",
         "en-US": "[Waiting Person]\nThe sound of the beginning...? Hmm... You don't mean the sound when the world began, do you? That would be far too long ago. The moment sound is born...",
         "pt-BR": "[Pedra da Esposa]\nO som do início dos tempos...? Hum... Não tá falando do som de quando o mundo começou, né? Isso foi há muito tempo. O momento em que o som nasceu...",
         "es-ES": "[La persona que espera]\n¿El sonido del principio...? \nMmm... \nNo te refieres al sonido de cuando empezó el mundo, ¿verdad? \nEso fue hace demasiado tiempo. \nEl momento en que nace el sonido..."
     },
     "31iEDA": {
-        "ko-KR": "[기다리는 사람]\n당신, 어디서 직업을 처음 얻었죠?",
         "en-US": "[Waiting Person]\nWhere did you begin your career?",
         "pt-BR": "[Pedra da Esposa]\nOnde você iniciou sua jornada?",
         "es-ES": "[La persona que espera]\n¿Dónde conseguiste tu primer trabajo?"
     },
     "4FiEDA": {
-        "ko-KR": "페이욘이요.",
         "en-US": "Payon.",
         "pt-BR": "Em Payon.",
         "es-ES": "En Payon."
     },
     "4ViEDA": {
-        "ko-KR": "[기다리는 사람]\n그럼 <NAVI>[그곳]<INFO>payon,62,157,0,101,0</INFO></NAVI>에서 답을 얻을 수 있을 것 같아요. 당신을 기다리고 있는 소리가 들리는 것 같아요.",
         "en-US": "[Waiting Person]\nThen, you should go <NAVI>[there]<INFO>payon,62,157,0,101,0</INFO></NAVI>. I think that's where you'll find the answer. I can hear a voice waiting for you.",
         "pt-BR": "[Pedra da Esposa]\nEntão, acho que você vai conseguir a resposta <NAVI>[naquele local]<INFO>payon,62,157,0,101,0</INFO></NAVI>. Eu ouço o som de alguém que está esperando por você.",
         "es-ES": "[La persona que espera]\nEntonces, creo que podrás encontrar la respuesta en <NAVI>[ese lugar]<INFO>payon,62,157,0,101,0</INFO></NAVI>. \nMe parece que oigo un sonido que te está esperando."
     },
     "4liEDA": {
-        "ko-KR": "[망부석]\n<NAVI>[페이욘]<INFO>payon,62,157,0,101,0</INFO></NAVI>으로 가보세요. 그곳에서 답을 얻을 수 있을 것 같아요.",
         "en-US": "[Waiting Statue]\nGo to <NAVI>[Payon]<INFO>payon,62,157,0,101,0</INFO></NAVI>. You'll find the answer there.",
         "pt-BR": "[Pedra da Esposa]\nVá até <NAVI>[Payon]<INFO>payon,62,157,0,101,0</INFO></NAVI>. Acho que lá você vai encontrar a resposta.",
         "es-ES": "[La Roca de la Esposa]\nVe a <NAVI>[Payon]<INFO>payon,62,157,0,101,0</INFO></NAVI>. \nCreo que ahí encontrarás la respuesta."
     },
     "41iEDA": {
-        "ko-KR": "[망부석]\n이곳이에요. 이쪽이에요. 잃지 말고 찾아 와요. 철썩- 잊지 말고 찾아 와요. 처얼썩- 철썩-",
         "en-US": "[Waiting Statue]\nThis way, this way. Come to me, don't get lost. Splash! Come to me, never forget. Splash, splash!",
         "pt-BR": "[Pedra da Esposa]\nÉ aqui! É por aqui!♩ Não se perca e venha me encontrar! Splash! Não se esqueça de mim e venha me encontrar! Splash, splash!",
         "es-ES": "[Mangbuseok]\nEs aquí. \nPor aquí. \nNo te pierdas y ven a buscarme. \n¡Chas! \nNo te olvides y ven a buscarme. \n¡Chas! ¡Chas!"
     },
     "5FiEDA": {
-        "ko-KR": "소리꾼",
         "en-US": "Singer",
         "pt-BR": "Cantora",
         "es-ES": "Cantante"
     },
     "5ViEDA": {
-        "ko-KR": "[소리꾼]\n아! 아아아아아~~~ 아악!!!! 켁켁!",
         "en-US": "[Singer]\nAh! Aaaaaah~~~ Aaargh!!!! Cough, cough!",
         "pt-BR": "[Cantora]\nAh! Aaaaaaa~~~ Aaaargh!!!! Hah!",
         "es-ES": "[Cantante]\n¡Ah! \n¡Aaaaaaa~~~ \n¡Aaaarg!!!! \n¡Jajaja!"
     },
     "5liEDA": {
-        "ko-KR": "[소리꾼]\n왜 또! 잘 되다가 왜 또 안돼! 나는 연습해도 되지 않으려나 봐. 이제 이 무덤엔 내가 들어 갈 차례야.",
         "en-US": "[Singer]\nWhy again! It was going well, why isn't it working again! I guess no matter how much I practice, it just won't work. Now it's my turn to enter this grave.",
         "pt-BR": "[Cantora]\nPor que de novo! Tava indo tão bem, por que de novo não deu certo! Parece que, por mais que eu pratique, não consigo. Agora é a minha vez de entrar nesse túmulo.",
         "es-ES": "[Cantante]\n¡¿Por qué otra vez?! \n¡Iba bien y ahora no sale! \nParece que por más que practique, no me sale. \nAhora me toca a mí entrar en esta tumba."
     },
     "51iEDA": {
-        "ko-KR": "소리를 만들고 계세요?",
         "en-US": "Are you making sounds?",
         "pt-BR": "Você está tentando fazer sons?",
         "es-ES": "¿Estás creando un sonido?"
     },
     "6FiEDA": {
-        "ko-KR": "[소리꾼]\n아, 딱 봐도 내공이 보통 이상이 될 것 같은 초고수! 민스트럴이시니 연주 좀 해주시지 않으시겠어요?",
         "en-US": "[Singer]\nAh, just by looking at you, I can tell you're a master with extraordinary skill! Since you're a minstrel, would you mind playing something for me?",
         "pt-BR": "[Cantora]\nAh, dá pra ver logo que você é um artista com habilidades extraordinárias! Já que você é um menestrel, não tocaria um pouco pra mim?",
         "es-ES": "[Cantante]\n¡Ah, se nota a simple vista que eres un maestro con un nivel más que normal! \nComo eres un trovador, ¿no te gustaría tocar algo?"
     },
     "6ViEDA": {
-        "ko-KR": "[소리꾼]\n소리를 얻고 싶은데 잘 안되네요.",
         "en-US": "[Singer]\nI want to master my voice, but I can't.",
         "pt-BR": "[Cantora]\nQuero dominar a minha voz, mas não estou conseguindo.",
         "es-ES": "[Cantante]\nQuiero conseguir un sonido, pero no me sale bien."
     },
     "6liEDA": {
-        "ko-KR": "소리를 얻어요?",
         "en-US": "Master your voice?",
         "pt-BR": "Dominar a voz?",
         "es-ES": "¿Estás buscando el sonido?"
     },
     "61iEDA": {
-        "ko-KR": "[소리꾼]\n네. 목소리를 자유자재로 구사할 수 있는 능력이요. 경지에 오르는 것 말예요. 제 스승님께서는 득음의 경지에 오른 분이셨죠.",
         "en-US": "[Singer]\nYes. The ability to wield one's voice freely. Reaching that level of mastery. My master had attained that level of mastery.",
         "pt-BR": "[Cantora]\nSim. A habilidade de controlar a voz com total liberdade. É chegar a um nível superior. Meu mestre era alguém que havia alcançado esse nível de domínio da voz.",
         "es-ES": "[Cantante]\nSí. \nMe refiero a la habilidad de manejar la voz con total libertad. \nEs decir, alcanzar ese nivel de maestría. \nMi maestro había alcanzado el nivel de la voz perfecta."
     },
     "7FiEDA": {
-        "ko-KR": "[소리꾼]\n그분이 노래를 부르면 모두의 마음을 촉촉히 적실 정도로 감동의 폭포를 보여 주셨는데... 저는 안되네요.",
         "en-US": "[Singer]\nWhen he sang, he showed a waterfall of emotion that would soak everyone's hearts... I can't do that.",
         "pt-BR": "[Cantora]\nQuando ele cantava, mostrava uma torrente de emoção capaz de inundar o coração de todos... Mas eu não consigo.",
         "es-ES": "[Cantante]\nCuando él cantaba, nos mostraba una cascada de emoción capaz de inundar los corazones de todos... pero a mí no me sale."
     },
     "7ViEDA": {
-        "ko-KR": "방법이 있을 텐데요.",
         "en-US": "There has to be a way.",
         "pt-BR": "Deve haver um jeito.",
         "es-ES": "Debe haber alguna forma."
     },
     "7liEDA": {
-        "ko-KR": "[소리꾼]\n내 몸은 소리가 지나가는 통로일 뿐이라고 하셨어요. 그런데 그것이 무슨 뜻일까요?",
         "en-US": "[Singer]\nThey said my body was just a pipe for my voice to go through. What does that mean?",
         "pt-BR": "[Cantora]\nEle disse que meu corpo é apenas um canal por onde o som passa. Mas o que isso significa?",
         "es-ES": "[Cantante]\nMe dijo que mi cuerpo es solo un conducto por el que pasa el sonido.\nPero, ¿qué significa eso?"
     },
     "71iEDA": {
-        "ko-KR": "[소리꾼]\n들숨으로 모든 것을 받아 들이고 날숨으로 모든 것을 뱉어 내라. 흐음... 알 것도 같고, 모를 것도 같고.",
         "en-US": "[Singer]\nInhale to accept everything and exhale to release everything. Hm... I think I know what that means... or not.",
         "pt-BR": "[Cantora]\nInspirar para tudo aceitar e expirar para tudo liberar. Hmm... Parece que entendo, mas também parece que não.",
         "es-ES": "[Cantante]\nInhala para recibirlo todo y exhala para expulsarlo todo. \nMmm... \nParece que lo entiendo, pero también parece que no."
     },
     "8FiEDA": {
-        "ko-KR": "연주를 해드릴게요.",
         "en-US": "Let me play some music for you.",
         "pt-BR": "Vou tocar para você.",
         "es-ES": "Te voy a tocar algo."
     },
     "8ViEDA": {
-        "ko-KR": "♬ 마음의 소리에 귀를 기울이는 것 ♪",
         "en-US": "Listen to what your heart tells you",
         "pt-BR": "Preste atenção ao som do coração",
         "es-ES": "Escuchar la voz del corazón"
     },
     "8liEDA": {
-        "ko-KR": "[소리꾼]\n소리는 소리로 덮는 것. 하지만 때로는 비어 있는 것이 모든 소리를 덮을 수 있다...\n맞아요. 스승님도 그 비슷한 말씀을 하셨어요.",
         "en-US": "[Singer]\nSound can only be erased by another sound. But sometimes silence overwhelms even the loudest noise.\nYes, my master also said something similar.",
         "pt-BR": "[Cantora]\nO som pode ser sobreposto por outro som. Mas, às vezes, o silêncio pode sobrepor até o mais alto dos sons...\nÉ isso mesmo. O mestre também disse algo parecido.",
         "es-ES": "[Cantante]\nEl sonido se cubre con sonido. \nPero a veces, el vacío puede cubrir todos los sonidos...\nSí. \nMi maestro también dijo algo parecido."
     },
     "81iEDA": {
-        "ko-KR": "[소리꾼]\n네 마음의 소리에 귀를 기울여라. 그것을 숨과 함께 내보내라.",
         "en-US": "[Singer]\nListen to what your heart tells you and release it as you breathe.",
         "pt-BR": "[Cantora]\nPreste atenção ao som do teu coração. Libere-o com sua respiração.",
         "es-ES": "[Cantante]\nEscucha el sonido de tu corazón. \nExpúlsalo junto con la respiración."
     },
     "9FiEDA": {
-        "ko-KR": "[소리꾼]\n아~ 아아아아아~~~",
         "en-US": "[Singer]\nAh~ Aaaaaah~~~",
         "pt-BR": "[Cantora]\nAh~ Aaaaaaa~~~",
         "es-ES": "[Cantante]\nAh~ Aaaaaaa~~~"
     },
     "9ViEDA": {
-        "ko-KR": "[소리꾼]\n아-- - - 아아 ---- -- - - 아아아 - -- -",
         "en-US": "[Singer]\nAh-- - - Aaah ---- -- - - Aaaah - -- -",
         "pt-BR": "[Cantora]\nAh-- - - Ah ---- -- - - Aaaaa - -- -",
         "es-ES": "[Cantante]\nAh-- - - \nAh ---- -- - - \nAaaaa - -- -"
     },
     "9liEDA": {
-        "ko-KR": "[소리꾼]\n이거, 이거예요! 모두의 마음을 촉촉하게 적실 감동의 폭포! 드디어! 드디어 저도 소리를 얻었습니다!!",
         "en-US": "[Singer]\nThis is it! This is it! A waterfall of emotion that will soak everyone's hearts! Finally! Finally, I've mastered my voice!!",
         "pt-BR": "[Cantora]\nÉ isso, é isso mesmo! Uma torrente de emoções que atinge o coração de todos! Finalmente! Finalmente eu também dominei a minha voz!!",
         "es-ES": "[Cantante]\n¡Esto, esto es! \n¡Una cascada de emoción que empapa los corazones de todos! \n¡Por fin! \n¡Por fin yo también he encontrado mi voz!!"
     },
     "91iEDA": {
-        "ko-KR": "[소리꾼]\n스승님! 저도 이제 부끄럽지 않은 소리꾼이 되었습니다. 스승님, 이제 제가 스승님 곁으로 갑니다.",
         "en-US": "[Singer]\nMaster! I've become a singer I'm no longer ashamed of. Master, I'm coming to be by your side now.",
         "pt-BR": "[Cantora]\nMestre! Agora me tornei uma cantora da qual não sinto mais vergonha. Mestre, estou indo para ficar ao seu lado.",
         "es-ES": "[Cantante]\n¡Maestro! \nAhora también me he convertido en un cantante del que no me avergüenzo. \nMaestro, ahora voy a ir a tu lado."
     },
     "+FiEDA": {
-        "ko-KR": "네? 죽, 죽으려...?",
         "en-US": "Huh? Die, die...?",
         "pt-BR": "O quê? Morrer, você vai morrer...?",
         "es-ES": "¿Eh? ¿Te vas a... a morir...?"
     },
     "+ViEDA": {
-        "ko-KR": "[소리꾼]\n죽긴 왜 죽는담? 득음을 했으니 소리꾼으로서 남부끄럽지 않게 스승님과 소리판을 벌여야죠. 아, 혹시 무덤 때문에...?",
         "en-US": "[Singer]\nWhy would I die? Now that I've mastered my voice, I want to perform with my master without shame. Ah, are you talking about this grave?",
         "pt-BR": "[Cantora]\nPor que morrer? Já que dominei a minha voz, tenho que me apresentar com o mestre sem me envergonhar. Ah, será que é por causa do túmulo...?",
         "es-ES": "[Cantante]\n¿Por qué te vas a morir? \nYa que he encontrado mi voz, tengo que actuar contigo como cantante sin avergonzarme ante nadie. \nAh, ¿acaso es por la tumba...?"
     },
     "+liEDA": {
-        "ko-KR": "[소리꾼]\n그건 그냥 제가 죽을 각오로... 소리를 얻지 못하면 이 무덤에 들어가겠다는 마음 가짐으로 여기 선 거죠. 나 참, 낭만을 몰라.",
         "en-US": "[Singer]\nI just dug it as a way of reminding myself I should do it or die. As a symbolic gesture, you know.",
         "pt-BR": "[Cantora]\nIsso é só porque eu vim aqui com a determinação de que eu deveria conseguir ou morrer tentando... Nossa, você não entende nada de romantismo.",
         "es-ES": "[Cantante]\nEso es solo que yo estaba aquí con la determinación de morir... con la idea de que si no conseguía el sonido, me metería en esta tumba. \nVaya, no entiendes nada de romanticismo."
     },
     "+1iEDA": {
-        "ko-KR": "[소리꾼]\n그나저나... 이제야 물어 보는게 이상한데... 누구...?",
         "en-US": "[Singer]\nBy the way... I'm sorry I forgot to ask you earlier, but... who are you?",
         "pt-BR": "[Cantora]\nFalando nisso... é estranho perguntar isso só agora... mas quem é você?",
         "es-ES": "[Cantante]\nPor cierto... es raro que te lo pregunte ahora...\n¿Quién...?"
     },
     "/FiEDA": {
-        "ko-KR": "- 감동의 조각과 고대 신전에 관한 이야기를 간략하게 해주었다. -",
         "en-US": "- I briefly recounted the story of the Piece of Emotion and the ancient temple. -",
         "pt-BR": "- Contei brevemente a história sobre a Peça de Emoção e o antigo templo. -",
         "es-ES": "- Me contó brevemente la historia de la escultura conmovedora y el antiguo templo. -"
     },
     "/ViEDA": {
-        "ko-KR": "[소리꾼]\n아! 그럼 이럴 때가 아니잖아요. 혹시 도움이 필요하면 말씀하세요. 제 첫 소리를 얻도록 도와주신 분께 뭐든 할 수 있어요.",
         "en-US": "[Singer]\nOh! Then this isn't the time for that. If you ever need help, just say the word. I'd do anything for the one who helped me find my voice.",
         "pt-BR": "[Cantora]\nAh! Então não é hora para isso. Se precisar de ajuda, é só dizer. Faço qualquer coisa por quem me ajudou a encontrar a minha voz.",
         "es-ES": "[Cantante]\n¡Ah! \nEntonces no es momento para esto. \nSi necesitas ayuda, dímelo. \nHaré lo que sea por la persona que me ayudó a conseguir mi primer canto."
     },
     "/liEDA": {
-        "ko-KR": "마음만 받겠습니다.",
         "en-US": "I'll just take your kindness.",
         "pt-BR": "Agradeço a intenção.",
         "es-ES": "Solo aceptaré tu buena voluntad."
     },
     "/1iEDA": {
-        "ko-KR": "[소리꾼]\n그럼, 안녀어어어어어엉!!!!!",
         "en-US": "[Singer]\nWell then, bye-bye-bye-bye-bye-bye!!!!!",
         "pt-BR": "[Cantora]\nEntão, adeus!!!!!",
         "es-ES": "[Cantante]\n¡Entonces, adiós!!!!!"
     },
     "AFmEDA": {
-        "ko-KR": "감동의 조각을 모두 얻었다.",
         "en-US": "I've obtained all the Emotion Pieces I need.",
         "pt-BR": "Consegui todas as Peças de Emoção.",
         "es-ES": "Ya conseguí todos los fragmentos de emoción."
     },
     "AVmEDA": {
-        "ko-KR": "이제 <NAVI>[역사학자]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>에게 되돌아가야겠다.",
         "en-US": "I should go back to the <NAVI>[Historian]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI> now.",
         "pt-BR": "Agora preciso voltar para o <NAVI>[Historiador]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>.",
         "es-ES": "Ahora tengo que volver con <NAVI>[historiador]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>."
     },
     "AlmEDA": {
-        "ko-KR": "이제 영감의 조각을 마저 얻으러 가야겠다.",
         "en-US": "Now, I should go get the rest of Inspiration Pieces.",
         "pt-BR": "Agora preciso ir buscar o resto das Peças de Inspiração.",
         "es-ES": "Ahora tengo que ir a conseguir el resto de los fragmentos de inspiración."
     },
     "A1mEDA": {
-        "ko-KR": "[소리꾼]\n<NAVI>[오딘신전]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>으로 가 봐야 한다고 그러지 않았어요? 급하다고 했잖아요. 그럼, 안녀어어어어어엉!!!!!",
         "en-US": "[Singer]\nDidn't you say you have to go to <NAVI>[Odin's Temple]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>? You said it was urgent. Well then, goodbye!!!",
         "pt-BR": "[Cantora]\nVocê não disse que tinha que ir para o <NAVI>[Templo de Odin]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>? Você disse que era urgente, né? Então, adeus!!!!!",
         "es-ES": "[Cantante]\n¿No dijiste que tenía que ir a <NAVI>[Templo de Odín]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>? \nDijiste que era urgente. \n¡Entonces, adiós!"
     },
     "BFmEDA": {
-        "ko-KR": "[소리꾼]\n아아아~~ 이젠 어떤 소리라도 자유자재로 낼 수 있어요! 나는 그 무엇이라도 될 수 있다는 소리지요!",
         "en-US": "[Singer]\nAah, aaaah! Now, I can manipulate my voice to sound like anything I want! I'm the master of my own voice!",
         "pt-BR": "[Cantora]\nAaaah...! Agora posso emitir qualquer som que quiser! Isso significa que posso ser o que eu quiser!",
         "es-ES": "[Cantante]\n¡Aaaah~~ \n¡Ahora puedo hacer cualquier sonido que quiera! \n¡Es el sonido de que puedo ser lo que sea!"
     },
     "BVmEDA": {
-        "ko-KR": "작은 조각",
         "en-US": "Small Piece",
         "pt-BR": "Pequeno fragmento",
         "es-ES": "Pequeño Fragmento"
     },
     "BlmEDA": {
-        "ko-KR": "아직 결정화 되지 못한 조각이다.",
         "en-US": "This piece is not crystallized yet.",
         "pt-BR": "É um fragmento que ainda não se cristalizou.",
         "es-ES": "Es un fragmento que aún no se ha cristalizado."
     },
     "B1mEDA": {
-        "ko-KR": "^0000CD105레벨 이상의 어둠의 몬스터^000000를 잡아 암의 기운을 채워 넣어야겠다.",
         "en-US": "^0000CDI should hunt ^000000Shadow monsters at Level 105 or above^000000 to fill it with dark energy.",
         "pt-BR": "^0000CDPreciso derrotar monstros sombrios de nível 105 ou mais^000000 para encher de energia sombria.",
         "es-ES": "^0000CDTengo que cazar un monstruo de la oscuridad de nivel 105 o más^000000 para llenarme de energía oscura."
     },
     "CFmEDA": {
-        "ko-KR": "아직 결정화 되지 못한 조각이다.",
         "en-US": "This piece is not crystallized yet.",
         "pt-BR": "É um fragmento que ainda não se cristalizou.",
         "es-ES": "Es un fragmento que aún no se ha cristalizado."
     },
     "CVmEDA": {
-        "ko-KR": "105레벨 이상의 어둠의 몬스터를 잡아 암의 기운을 채워 넣어야겠다.",
         "en-US": "I should hunt Shadow monsters at Level 105 or above to fill it with dark energy.",
         "pt-BR": "Preciso derrotar monstros sombrios de nível 105 ou mais para encher de energia sombria.",
         "es-ES": "Tengo que cazar un monstruo de la oscuridad de nivel 105 o más para llenarlo de energía oscura."
     },
     "ClmEDA": {
-        "ko-KR": "암의 기운을 채우자 조각은 결정화 되었다. 결정을 손에 쥐자 무언가 맹렬하게 <NAVI>[불타는]<INFO>thor_v01,281,233,0,101,0</INFO></NAVI> 소리가 몸을 감싸는 느낌이 든다.",
         "en-US": "As I fill the piece with dark energy and turn it into a crystal, I hold it in my hand and feel something <NAVI>[burning]<INFO>thor_v01,281,233,0,101,0</INFO></NAVI> fiercely envelop my body.",
         "pt-BR": "Assim que enchi de energia sombria, o fragmento se cristalizou. Ao segurar o cristal na mão, senti como se um som <NAVI>[ardente]<INFO>thor_v01,281,233,0,101,0</INFO></NAVI> envolvesse todo o meu corpo.",
         "es-ES": "Al llenarlo de energía oscura, el fragmento se cristalizó. Al tomar el cristal en mis manos, siento que algo <NAVI>[ardiente]<INFO>thor_v01,281,233,0,101,0</INFO></NAVI> me envuelve el cuerpo con un sonido feroz."
     },
     "C1mEDA": {
-        "ko-KR": "소리를 따라 간다.",
         "en-US": "Follow the sound.",
         "pt-BR": "Vou seguir o som.",
         "es-ES": "Voy siguiendo el sonido."
     },
     "DFmEDA": {
-        "ko-KR": "이곳에선 더 이상 볼 일은 없다. 조각의 기운이 이끄는대로 토르 화산으로 이동하자.",
         "en-US": "I have no more business here. I should follow the piece's energy to the Thor Volcano.",
         "pt-BR": "Não há mais nada para ver aqui. Vamos seguir a energia do fragmento e nos dirigir ao Vulcão de Thor.",
         "es-ES": "Aquí ya no hay nada más que ver. Vamos al volcán Thor, guiados por la energía del fragmento."
     },
     "DVmEDA": {
-        "ko-KR": "^0000CD130레벨 이상의 불의 몬스터^000000를 잡아 불의 기운을 채워 넣어야겠다.",
         "en-US": "^0000CDI should hunt ^000000Fire monsters at Level 130 or above^0000CD to fill it with fiery energy.",
         "pt-BR": "^0000CDPreciso derrotar monstros de fogo de nível 130 ou mais^000000 para encher de energia de fogo.",
         "es-ES": "^0000CDTengo que derrotar a un monstruo de fuego de nivel 130 o más^000000 para llenarme de energía de fuego."
     },
     "DlmEDA": {
-        "ko-KR": "130레벨 이상의 불의 몬스터를 잡아 불의 기운을 채워 넣어야겠다.",
         "en-US": "I should hunt Fire monsters at Level 130 or above to fill it with fiery energy.",
         "pt-BR": "Preciso derrotar monstros de fogo de nível 130 ou mais para encher de energia de fogo.",
         "es-ES": "Tengo que cazar monstruos de fuego de nivel 130 o más para llenar la energía de fuego."
     },
     "D1mEDA": {
-        "ko-KR": "불의 기운을 채우자 조각은 결정화 되었다. 결정을 손에 쥐자 <NAVI>[신비한]<INFO>abyss_03,107,114,0,101,0</INFO></NAVI> 소리가 몸을 감싸는 느낌이 든다.",
         "en-US": "As I fill the piece with fiery energy and turn it into a crystal, a <NAVI>[mysterious]<INFO>abyss_03,107,114,0,101,0</INFO></NAVI> sound envelops my body.",
         "pt-BR": "Ao encher com a energia do fogo, o fragmento se cristalizou. Ao segurar o cristal em minha mão, um som <NAVI>[misterioso]<INFO>abyss_03,107,114,0,101,0</INFO></NAVI> envolveu todo o meu corpo.",
         "es-ES": "Al llenar la energía de fuego, el fragmento se cristalizó. Al tomar el cristal en la mano, <NAVI>[Místico]<INFO>abyss_03,107,114,0,101,0</INFO></NAVI> siento como si un sonido me envolviera."
     },
     "EFmEDA": {
-        "ko-KR": "이곳에선 더 이상 볼 일은 없다. 조각의 기운이 이끄는대로 어비스 호수로 이동하자.",
         "en-US": "There's nothing more for me to see here. I should follow the piece's energy to Abyss Lake.",
         "pt-BR": "Não há mais nada para ver aqui. Vamos seguir a energia do fragmento até o Lago do Abismo.",
         "es-ES": "Ya no hay nada más que ver aquí. Sigamos la energía del fragmento y dirijámonos al lago Abyss."
     },
     "EVmEDA": {
-        "ko-KR": "^0000CD180레벨 이상의 용족 몬스터^000000를 잡아 용의 기운을 채워 넣어야겠다.",
         "en-US": "^0000CDI should hunt ^000000Dragon monsters at Level 180 or above^0000CD to fill it with draconic energy.",
         "pt-BR": "^0000CDPreciso derrotar monstros da raça dragão de nível 180 ou mais^000000 para encher de energia dracônica.",
         "es-ES": "^0000CDDebes derrotar a un monstruo de la raza de los dragones de nivel 180 o más^000000 para llenarte de energía de dragón."
     },
     "ElmEDA": {
-        "ko-KR": "180레벨 이상의 용족 몬스터를 잡아 용의 기운을 채워 넣어야겠다.",
         "en-US": "I should hunt Dragon monsters at Level 180 or above to fill it with draconic energy.",
         "pt-BR": "Preciso derrotar monstros da raça dragão de nível 180 ou mais para encher de energia dracônica.",
         "es-ES": "Tengo que cazar monstruos de la raza de los dragones de nivel 180 o más para llenar la energía del dragón."
     },
     "E1mEDA": {
-        "ko-KR": "용의 기운을 채우자 조각은 결정화 되었다.",
         "en-US": "Fill it with draconic energy and turn it into a crystal.",
         "pt-BR": "Ao encher de energia dracônica, o fragmento se cristalizou.",
         "es-ES": "Al recargar la energía del dragón, la escultura se cristalizó."
     },
     "FFmEDA": {
-        "ko-KR": "<NAVI>[역사학자]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>에게 서둘러 돌아가자.",
         "en-US": "<NAVI>[Historian]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>",
         "pt-BR": "<NAVI>[Historiador]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>. Vamos voltar logo para lá.",
         "es-ES": "<NAVI>[Historiador]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>."
     },
     "FVmEDA": {
-        "ko-KR": "감동의 조각을 마저 얻으러 가야겠다.",
         "en-US": "I should go get the rest of the Emotion Pieces.",
         "pt-BR": "Preciso ir buscar as demais Peças de Emoção.",
         "es-ES": "Tengo que ir a conseguir el resto de los fragmentos de emoción."
     },
     "FlmEDA": {
-        "ko-KR": "이곳에선 더 이상 볼 일은 없다. <NAVI>[역사학자]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>에게 서둘러 돌아가자.",
         "en-US": "I have no more business here. I should hurry back to the <NAVI>[Historian]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>.",
         "pt-BR": "Não há mais nada para ver aqui. Vamos voltar logo para o <NAVI>[Historiador]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>.",
         "es-ES": "Ya no hay nada más que ver aquí. Regresemos rápido con <NAVI>[Historiador]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>."
     },
     "F1mEDA": {
-        "ko-KR": "이곳에선 더 이상 볼 일은 없다. 감동의 조각을 마저 얻으러 가야겠다.",
         "en-US": "There's nothing more for me to see here. I should go get the rest of the Emotion Pieces.",
         "pt-BR": "Não há mais nada para ver aqui. Preciso ir buscar as demais Peças de Emoção.",
         "es-ES": "Ya no hay nada más que ver aquí. Tengo que ir a conseguir el resto de los fragmentos de emoción."

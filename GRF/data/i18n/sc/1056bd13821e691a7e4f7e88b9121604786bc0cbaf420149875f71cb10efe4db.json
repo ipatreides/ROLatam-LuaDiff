@@ -1,2088 +1,1740 @@
 {
     "gNnLBw": {
-        "ko-KR": "스피에라",
         "en-US": "Spiera",
         "pt-BR": "Spiera",
         "es-ES": "Spiera"
     },
     "gdnLBw": {
-        "ko-KR": "라이자",
         "en-US": "Liza",
         "pt-BR": "Liza",
         "es-ES": "Liza"
     },
     "gtnLBw": {
-        "ko-KR": "^FF0000보유한 물건의 종류나 무게가 너무 많은 것 같습니다. 인벤토리를 정리해주세요.^000000",
         "en-US": "^FF0000Please organize your inventory and try again.^000000",
         "pt-BR": "^FF0000Por favor, reorganize seu inventário e volte novamente.^000000",
         "es-ES": "^FF0000Parece que lleva demasiados objetos o que superan el peso permitido. Por favor, organice su inventario.^000000"
     },
     "g9nLBw": {
-        "ko-KR": "[라이자]\n어서오십시오 환영합니다~",
         "en-US": "[Liza]\nWelcome. Greetings~",
         "pt-BR": "[Liza]\nBoas-vindas, viajante! É um prazer receber você~",
         "es-ES": "[Liza]\nBienvenido, ¡sea usted bienvenido~!"
     },
     "hNnLBw": {
-        "ko-KR": "기기 살펴보기",
         "en-US": "What do you do?",
         "pt-BR": "O que você faz?",
         "es-ES": "Examinar equipo"
     },
     "hdnLBw": {
-        "ko-KR": "오토매틱 엔진 윙 강화",
         "en-US": "Enchant Automatron Engine",
         "pt-BR": "Encantar Motor Automatron",
         "es-ES": "Encantar Motor Automatron"
     },
     "htnLBw": {
-        "ko-KR": "오토매틱 아머 강화",
         "en-US": "Enchant Automatron Vest",
         "pt-BR": "Encantar Colete Automatron",
         "es-ES": "Encantar Armadura Automatron"
     },
     "h9nLBw": {
-        "ko-KR": "오토매틱 레그 강화",
         "en-US": "Enchant Automatron Leg",
         "pt-BR": "Encantar Perna Automatron",
         "es-ES": "Encantar Pierna Automatron"
     },
     "iNnLBw": {
-        "ko-KR": "오토매틱 액세서리(R) 강화",
         "en-US": "Enchant Automatron Accessory (R)",
         "pt-BR": "Encantar Acessório Direito",
         "es-ES": "Encantar Accesorio Derecho"
     },
     "idnLBw": {
-        "ko-KR": "오토매틱 액세서리(L) 강화",
         "en-US": "Enchant Automatron Accessory (L)",
         "pt-BR": "Encantar Acessório Esquerdo",
         "es-ES": "Mejorar Accesorio Izquierdo"
     },
     "itnLBw": {
-        "ko-KR": "[라이자]\n오토매틱 장비와 강화용 모듈을 가지고 오시면 모듈에 맞는 효능을 장비에 부여해 드리고 있습니다.",
         "en-US": "[Liza]\nIf you bring Automatron equipment and enchantment modules, I can grant effects to your equipment according to the module.",
         "pt-BR": "[Liza]\nMinha função é encantar Equipamentos Automatron a partir de Automódulos que você tem no inventário.",
         "es-ES": "[Liza]\nSi trae equipo automático y módulos de mejora, puedo otorgar al equipo los efectos correspondientes según el módulo."
     },
     "i9nLBw": {
-        "ko-KR": "[라이자]\n규격 모듈에 따라 작업하는 것이므로 장비가 파괴되는 일은 없습니다. 다만 모듈에 따라 업그레이드 횟수등은 다를 수 있습니다.",
         "en-US": "[Liza]\nThis process is 100% safe and does not incur in any losses. Refinements and cards are also unaffected.",
         "pt-BR": "[Liza]\nEsse processo é 100% seguro, sem risco de perdas. Refinos e cartas também serão mantidos.",
         "es-ES": "[Liza]\nEl trabajo se realiza según las especificaciones del módulo, por lo que el equipo no será destruido. No obstante, el número de mejoras puede variar según el módulo."
     },
     "jNnLBw": {
-        "ko-KR": "[라이자]\n그럼 도움이 필요하실때 다시 방문하십시오~",
         "en-US": "[Liza]\nThen please visit again whenever you require assistance~",
         "pt-BR": "[Liza]\nE é isso. Volte quando precisar de ajuda~",
         "es-ES": "[Liza]\nEntonces, si necesita ayuda, vuelva a visitarme~"
     },
     "jdnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule B-DEF (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo B-DEF (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de B-DEF (vacío)^000000"
     },
     "jtnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(방어)",
         "en-US": "Automodule B-DEF",
         "pt-BR": "Automódulo B-DEF",
         "es-ES": "Automódulo de B-DEF"
     },
     "j9nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule B-MDEF (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo B-DEFM (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de B-DEFM (vacío)^000000"
     },
     "kNnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(마법방어)",
         "en-US": "Automodule B-MDEF",
         "pt-BR": "Automódulo B-DEFM",
         "es-ES": "Automódulo de B-DEFM"
     },
     "kdnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule B-VIT (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo B-VIT (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de B-VIT (vacío)^000000"
     },
     "ktnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(VIT)",
         "en-US": "Automodule B-VIT",
         "pt-BR": "Automódulo B-VIT",
         "es-ES": "Automódulo de B-VIT"
     },
     "k9nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule B-LUK (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo B-SOR (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de B-SUE (vacío)^000000"
     },
     "lNnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(LUK)",
         "en-US": "Automodule B-LUK",
         "pt-BR": "Automódulo B-SOR",
         "es-ES": "Automódulo de B-SUE"
     },
     "ldnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule B-STR (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo B-FOR (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo B-SUE (vacío)^000000"
     },
     "ltnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(STR)",
         "en-US": "Automodule B-STR",
         "pt-BR": "Automódulo B-FOR",
         "es-ES": "Automódulo de B-FUE"
     },
     "l9nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule B-AGI (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo B-AGI (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de B-AGI (vacío)^000000"
     },
     "mNnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(AGI)",
         "en-US": "Automodule B-AGI",
         "pt-BR": "Automódulo B-AGI",
         "es-ES": "Automódulo de B-AGI"
     },
     "mdnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule B-INT (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo B-INT (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de B-INT (vacío)^000000"
     },
     "mtnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(INT)",
         "en-US": "Automodule B-INT",
         "pt-BR": "Automódulo B-INT",
         "es-ES": "Automódulo de B-INT"
     },
     "m9nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule B-DEX (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo B-DES (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de B-DES (vacío)^000000"
     },
     "nNnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(DEX)",
         "en-US": "Automodule B-DEX",
         "pt-BR": "Automódulo B-DES",
         "es-ES": "Automódulo de B-DES"
     },
     "ndnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule M-HPR (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo M-HPR (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de M-HPR (vacío)^000000"
     },
     "ntnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(HP회복량)",
         "en-US": "Automodule M-HPR",
         "pt-BR": "Automódulo M-HPR",
         "es-ES": "Automódulo de M-HPR"
     },
     "n9nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule M-SPR (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo M-SPR (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de M-SPR (vacío)^000000"
     },
     "oNnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(SP회복량)",
         "en-US": "Automodule M-SPR",
         "pt-BR": "Automódulo M-SPR",
         "es-ES": "Automódulo de M-SPR"
     },
     "odnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule M-Charm (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo M-Encanto (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de M-Encanto (vacío)^000000"
     },
     "otnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(마력)",
         "en-US": "Automodule M-Charm",
         "pt-BR": "Automódulo M-Encanto",
         "es-ES": "Automódulo de M-Encanto"
     },
     "o9nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule M-Delay (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo M-Atraso (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de M-Retraso (vacío)^000000"
     },
     "pNnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(공격속도)",
         "en-US": "Automodule M-Delay",
         "pt-BR": "Automódulo M-Atraso",
         "es-ES": "Automódulo de M-Retraso"
     },
     "pdnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule M-Fatal (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo M-Fatal (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de M-Fatal (vacío)^000000"
     },
     "ptnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(치명)",
         "en-US": "Automodule M-Fatal",
         "pt-BR": "Automódulo M-Fatal",
         "es-ES": "Automódulo de M-Fatal"
     },
     "p9nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule M-Sight (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo M-Mira (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de M-Puntería (vacío)^000000"
     },
     "qNnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(명궁)",
         "en-US": "Automodule M-Sight",
         "pt-BR": "Automódulo M-Mira",
         "es-ES": "Automódulo de M-Puntería"
     },
     "qdnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule M-MaxHP (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo M-HPMax (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de M-HPMax (vacío)^000000"
     },
     "qtnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(체력)",
         "en-US": "Automodule M-MaxHP",
         "pt-BR": "Automódulo M-HPMax",
         "es-ES": "Automódulo de M-HPMax"
     },
     "q9nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule M-MaxSP (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo M-SPMax (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de M-SPMax (vacío)^000000"
     },
     "rNnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(정신력)",
         "en-US": "Automodule M-MaxSP",
         "pt-BR": "Automódulo M-SPMax",
         "es-ES": "Automódulo de M-SPMax"
     },
     "rdnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule M-Heal (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo M-Cura (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de M-Cura (vacío)^000000"
     },
     "rtnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(힐)",
         "en-US": "Automodule M-Heal",
         "pt-BR": "Automódulo M-Cura",
         "es-ES": "Automódulo de M-Cura"
     },
     "r9nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule M-ATK (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo M-ATQ (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de M-ATQ (vacío)^000000"
     },
     "sNnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(공격력)",
         "en-US": "Automodule M-ATK",
         "pt-BR": "Automódulo M-ATQ",
         "es-ES": "Automódulo de M-ATQ"
     },
     "sdnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule M-MATK (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo M-ATQM (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de M-ATQM (vacío)^000000"
     },
     "stnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(마법력)",
         "en-US": "Automodule M-MATK",
         "pt-BR": "Automódulo M-ATQM",
         "es-ES": "Automódulo de M-ATQM"
     },
     "s9nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule M-Shoot (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo M-Tiro (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de M-Tiro (vacío)^000000"
     },
     "tNnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(명사수)",
         "en-US": "Automodule M-Shoot",
         "pt-BR": "Automódulo M-Tiro",
         "es-ES": "Automódulo de M-Tiro"
     },
     "tdnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule M-ASPD (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo M-Rapidez (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de M-Rapidez (vacío)^000000"
     },
     "ttnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(신속)",
         "en-US": "Automodule M-ASPD",
         "pt-BR": "Automódulo M-Rapidez",
         "es-ES": "Automódulo de M-Rapidez"
     },
     "t9nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule M-Magic (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo M-Magia (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de M-Magia (vacío)^000000"
     },
     "uNnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(캐스터)",
         "en-US": "Automodule M-Magic",
         "pt-BR": "Automódulo M-Magia",
         "es-ES": "Automódulo de M-Magia"
     },
     "udnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule M-CRIT (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo M-CRIT (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de M-CRÍT (vacío)^000000"
     },
     "utnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(크리티컬)",
         "en-US": "Automodule M-CRIT",
         "pt-BR": "Automódulo M-CRIT",
         "es-ES": "Automódulo de M-CRÍT"
     },
     "u9nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule P-Magic (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo P-Mágico (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de P-Mágico (vacío)^000000"
     },
     "vNnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(매지컬 포스)",
         "en-US": "Automodule P-Magic",
         "pt-BR": "Automódulo P-Mágico",
         "es-ES": "Automódulo de P-Mágico"
     },
     "vdnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule P-Barbarian (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo P-Bárbaro (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de P-Bárbaro (vacío)^000000"
     },
     "vtnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(어태커 포스)",
         "en-US": "Automodule P-Barbarian",
         "pt-BR": "Automódulo P-Bárbaro",
         "es-ES": "Automódulo de P-Bárbaro"
     },
     "v9nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule P-Gunner (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo P-Artilheiro (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de P-Artillero (vacío)^000000"
     },
     "wNnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(레인지 포스)",
         "en-US": "Automodule P-Gunner",
         "pt-BR": "Automódulo P-Artilheiro",
         "es-ES": "Automódulo de P-Artillero"
     },
     "wdnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule P-Critical (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo P-Crítico (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de P-Crítico (vacío)^000000"
     },
     "wtnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(크리티컬 포스)",
         "en-US": "Automodule P-Critical",
         "pt-BR": "Automódulo P-Crítico",
         "es-ES": "Automódulo de P-Crítico"
     },
     "w9nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule P-Healer (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo P-Curandeiro (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de P-Curandero (vacío)^000000"
     },
     "xNnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(리커버리 포스)",
         "en-US": "Automodule P-Healer",
         "pt-BR": "Automódulo P-Curandeiro",
         "es-ES": "Automódulo de P-Curandero"
     },
     "xdnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule P-Mirror (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo P-Espelho (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de P-Espejo (vacío)^000000"
     },
     "xtnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(미러 카운터)",
         "en-US": "Automodule P-Mirror",
         "pt-BR": "Automódulo P-Espelho",
         "es-ES": "Automódulo de P-Espejo"
     },
     "x9nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule P-Cast (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo P-Pós (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de P-Post (vacío)^000000"
     },
     "yNnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(스킬 후 딜레이)",
         "en-US": "Automodule P-Cast",
         "pt-BR": "Automódulo P-Pós",
         "es-ES": "Automódulo de P-Post"
     },
     "ydnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule P-Fixed (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo P-Fixa (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de P-Conjuración (vacío)^000000"
     },
     "ytnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(고정 캐스팅)",
         "en-US": "Automodule P-Fixed",
         "pt-BR": "Automódulo P-Fixa",
         "es-ES": "Automódulo de P-Conjuración"
     },
     "y9nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule P-Total (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo P-Total (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de P-Total (vacío)^000000"
     },
     "zNnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(어보브 올)",
         "en-US": "Automodule P-Total",
         "pt-BR": "Automódulo P-Total",
         "es-ES": "Automódulo de P-Total"
     },
     "zdnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule P-Life (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo P-Vida (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de P-Vida (vacío)^000000"
     },
     "ztnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(드레인 라이프)",
         "en-US": "Automodule P-Life",
         "pt-BR": "Automódulo P-Vida",
         "es-ES": "Automódulo de P-Vida"
     },
     "z9nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule P-Soul (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo P-Alma (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de P-Alma (vacío)^000000"
     },
     "0NnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(드레인 소울)",
         "en-US": "Automodule P-Soul",
         "pt-BR": "Automódulo P-Alma",
         "es-ES": "Automódulo de P-Alma"
     },
     "0dnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule P-Mental (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo P-Mental (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de P-Mental (vacío)^000000"
     },
     "0tnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(매직 힐링)",
         "en-US": "Automodule P-Mental",
         "pt-BR": "Automódulo P-Mental",
         "es-ES": "Automódulo de P-Mental"
     },
     "09nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule P-Mana (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo P-Mana (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de P-Maná (vacío)^000000"
     },
     "1NnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(매직 소울)",
         "en-US": "Automodule P-Mana",
         "pt-BR": "Automódulo P-Mana",
         "es-ES": "Automódulo de P-Maná"
     },
     "1dnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule P-Hybrid (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo P-Híbrido (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de P-Híbrido (vacío)^000000"
     },
     "1tnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(파워 포스)",
         "en-US": "Automodule P-Hybrid",
         "pt-BR": "Automódulo P-Híbrido",
         "es-ES": "Automódulo de P-Híbrido"
     },
     "19nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule P-Robust (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo P-Robusto (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de P-Robusto (vacío)^000000"
     },
     "2NnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(로버스트)",
         "en-US": "Automodule P-Robust",
         "pt-BR": "Automódulo P-Robusto",
         "es-ES": "Automódulo de P-Robusto"
     },
     "2dnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule P-Damage (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo P-Dano (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de P-Daño (vacío)^000000"
     },
     "2tnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(파워풀)",
         "en-US": "Automodule P-Damage",
         "pt-BR": "Automódulo P-Dano",
         "es-ES": "Automódulo de P-Daño"
     },
     "29nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule P-General (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo P-Geral (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de P-General (vacío)^000000"
     },
     "3NnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(올 포스)",
         "en-US": "Automodule P-General",
         "pt-BR": "Automódulo P-Geral",
         "es-ES": "Automódulo de P-General"
     },
     "3dnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule P-Reflector (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo P-Refletor (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de P-Reflector (vacío)^000000"
     },
     "3tnLBw": {
-        "ko-KR": "오토매틱 개조 모듈(리플렉션 리젝트)",
         "en-US": "Automodule P-Reflector",
         "pt-BR": "Automódulo P-Refletor",
         "es-ES": "Automódulo de P-Reflector"
     },
     "39nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule F-Eternity (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo F-Eternidade (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de F-Eternidad (vacío)^000000"
     },
     "4NnLBw": {
-        "ko-KR": "오토매틱 모듈(언리밋 바이탈)",
         "en-US": "Automodule F-Eternity",
         "pt-BR": "Automódulo F-Eternidade",
         "es-ES": "Automódulo de F-Eternidad"
     },
     "4dnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule F-Sorcery (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo F-Sortilégio (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de F-Hechicería (vacío)^000000"
     },
     "4tnLBw": {
-        "ko-KR": "오토매틱 모듈(스펠 버스터)",
         "en-US": "Automodule F-Sorcery",
         "pt-BR": "Automódulo F-Sortilégio",
         "es-ES": "Automódulo de F-Hechicería"
     },
     "49nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule F-Cunning (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo F-Astúcia (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de F-Astucia (vacío)^000000"
     },
     "5NnLBw": {
-        "ko-KR": "오토매틱 모듈(파이어링 샷)",
         "en-US": "Automodule F-Cunning",
         "pt-BR": "Automódulo F-Astúcia",
         "es-ES": "Automódulo de F-Astucia"
     },
     "5dnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule F-Superpower (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo F-Superpoder (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de F-Superpoder (vacío)^000000"
     },
     "5tnLBw": {
-        "ko-KR": "오토매틱 모듈(오버 파워)",
         "en-US": "Automodule F-Superpower",
         "pt-BR": "Automódulo F-Superpoder",
         "es-ES": "Automódulo de F-Superpoder"
     },
     "59nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule F-Flash (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo F-Lampejo (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de F-Destello (vacío)^000000"
     },
     "6NnLBw": {
-        "ko-KR": "오토매틱 모듈(페이탈 플래쉬)",
         "en-US": "Automodule F-Flash",
         "pt-BR": "Automódulo F-Lampejo",
         "es-ES": "Automódulo de F-Destello"
     },
     "6dnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule F-Fortune (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo F-Fortuna (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de F-Fortuna (vacío)^000000"
     },
     "6tnLBw": {
-        "ko-KR": "오토매틱 모듈(럭키 스트라이크)",
         "en-US": "Automodule F-Fortune",
         "pt-BR": "Automódulo F-Fortuna",
         "es-ES": "Automódulo de F-Fortuna"
     },
     "69nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Dragon (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Dragão (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Dragón (vacío)^000000"
     },
     "7NnLBw": {
-        "ko-KR": "오토매틱 모듈(드래고닉 브래스)",
         "en-US": "Automodule H-Dragon",
         "pt-BR": "Automódulo H-Dragão",
         "es-ES": "Automódulo de H-Dragón"
     },
     "7dnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Runic (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Rúnico (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Rúnico (vacío)^000000"
     },
     "7tnLBw": {
-        "ko-KR": "오토매틱 모듈(웨이브 브레이크)",
         "en-US": "Automodule H-Runic",
         "pt-BR": "Automódulo H-Rúnico",
         "es-ES": "Automódulo de H-Rúnico"
     },
     "79nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Spear (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Lança (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Lanza (vacío)^000000"
     },
     "8NnLBw": {
-        "ko-KR": "오토매틱 모듈(헌드레드 스파이럴)",
         "en-US": "Automodule H-Spear",
         "pt-BR": "Automódulo H-Lança",
         "es-ES": "Automódulo de H-Lanza"
     },
     "8dnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Shield (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Escudo (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Escudo (vacío)^000000"
     },
     "8tnLBw": {
-        "ko-KR": "오토매틱 모듈(드라이브 프레스)",
         "en-US": "Automodule H-Shield",
         "pt-BR": "Automódulo H-Escudo",
         "es-ES": "Automódulo de H-Escudo"
     },
     "89nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Hoplite (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Hoplita (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Hoplita (vacío)^000000"
     },
     "9NnLBw": {
-        "ko-KR": "오토매틱 모듈(배니싱 캐논)",
         "en-US": "Automodule H-Hoplite",
         "pt-BR": "Automódulo H-Hoplita",
         "es-ES": "Automódulo de H-Hoplita"
     },
     "9dnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Domini (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Domini (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Domini (vacío)^000000"
     },
     "9tnLBw": {
-        "ko-KR": "오토매틱 모듈(제네시스 프레셔)",
         "en-US": "Automodule H-Domini",
         "pt-BR": "Automódulo H-Domini",
         "es-ES": "Automódulo de H-Domini"
     },
     "99nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Cannon (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Canhão (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Cañón (vacío)^000000"
     },
     "+NnLBw": {
-        "ko-KR": "오토매틱 모듈(부스트 캐논)",
         "en-US": "Automodule H-Cannon",
         "pt-BR": "Automódulo H-Canhão",
         "es-ES": "Automódulo de H-Cañón"
     },
     "+dnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Robot (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Robô (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Robot (vacío)^000000"
     },
     "+tnLBw": {
-        "ko-KR": "오토매틱 모듈(콜드 플레어)",
         "en-US": "Automodule H-Robot",
         "pt-BR": "Automódulo H-Robô",
         "es-ES": "Automódulo de H-Robot"
     },
     "+9nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Axe (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Machado (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Hacha (vacío)^000000"
     },
     "/NnLBw": {
-        "ko-KR": "오토매틱 모듈(토네이도 스윙)",
         "en-US": "Automodule H-Axe",
         "pt-BR": "Automódulo H-Machado",
         "es-ES": "Automódulo de H-Hacha"
     },
     "/dnLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Cart (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Carrinho (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Carreta (vacío)^000000"
     },
     "/tnLBw": {
-        "ko-KR": "오토매틱 모듈(캐논 토네이도)",
         "en-US": "Automodule H-Cart",
         "pt-BR": "Automódulo H-Carrinho",
         "es-ES": "Automódulo de H-Carreta"
     },
     "/9nLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Plant (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Planta (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Planta (vacío)^000000"
     },
     "ANrLBw": {
-        "ko-KR": "오토매틱 모듈(크레이지 만드라고라)",
         "en-US": "Automodule H-Plant",
         "pt-BR": "Automódulo H-Planta",
         "es-ES": "Automódulo de H-Planta"
     },
     "AdrLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Chemistry (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Química (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Química (vacío)^000000"
     },
     "AtrLBw": {
-        "ko-KR": "오토매틱 모듈(애시드 익스플로젼)",
         "en-US": "Automodule H-Chemistry",
         "pt-BR": "Automódulo H-Química",
         "es-ES": "Automódulo de H-Química"
     },
     "A9rLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Blades (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Lâminas (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Hojas (vacío)^000000"
     },
     "BNrLBw": {
-        "ko-KR": "오토매틱 모듈(소닉 임팩트)",
         "en-US": "Automodule H-Blades",
         "pt-BR": "Automódulo H-Lâminas",
         "es-ES": "Automódulo de H-Hojas"
     },
     "BdrLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Cutter (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Loki (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Espiral (vacío)^000000"
     },
     "BtrLBw": {
-        "ko-KR": "오토매틱 모듈(커터 슬래셔)",
         "en-US": "Automodule H-Cutter",
         "pt-BR": "Automódulo H-Loki",
         "es-ES": "Automódulo de H-Espiral"
     },
     "B9rLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Duelist (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Duelista (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Duelista (vacío)^000000"
     },
     "CNrLBw": {
-        "ko-KR": "오토매틱 모듈(버서크 슬래쉬)",
         "en-US": "Automodule H-Duelist",
         "pt-BR": "Automódulo H-Duelista",
         "es-ES": "Automódulo de H-Duelista"
     },
     "CdrLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Menace (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Ofensiva (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Ofensiva (vacío)^000000"
     },
     "CtrLBw": {
-        "ko-KR": "오토매틱 모듈(페이탈 레이드)",
         "en-US": "Automodule H-Menace",
         "pt-BR": "Automódulo H-Ofensiva",
         "es-ES": "Automódulo de H-Ofensiva"
     },
     "C9rLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Desire (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Desejo (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Deseo (vacío)^000000"
     },
     "DNrLBw": {
-        "ko-KR": "오토매틱 모듈(섀도우 스펠)",
         "en-US": "Automodule H-Desire",
         "pt-BR": "Automódulo H-Desejo",
         "es-ES": "Automódulo de H-Deseo"
     },
     "DdrLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Triple (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Triplo (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Triple (vacío)^000000"
     },
     "DtrLBw": {
-        "ko-KR": "오토매틱 모듈(앵글 샷)",
         "en-US": "Automodule H-Triple",
         "pt-BR": "Automódulo H-Triplo",
         "es-ES": "Automódulo de H-Triple"
     },
     "D9rLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Mystic (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Místico (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Místico (vacío)^000000"
     },
     "ENrLBw": {
-        "ko-KR": "오토매틱 모듈(크림즌 스트레인)",
         "en-US": "Automodule H-Mystic",
         "pt-BR": "Automódulo H-Místico",
         "es-ES": "Automódulo de H-Místico"
     },
     "EdrLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Arcanist (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Arcanista (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Arcanista (vacío)^000000"
     },
     "EtrLBw": {
-        "ko-KR": "오토매틱 모듈(잭 라이트닝)",
         "en-US": "Automodule H-Arcanist",
         "pt-BR": "Automódulo H-Arcanista",
         "es-ES": "Automódulo de H-Arcanista"
     },
     "E9rLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Neutral (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Neutral (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Neutral (vacío)^000000"
     },
     "FNrLBw": {
-        "ko-KR": "오토매틱 모듈(커미트 볼텍스)",
         "en-US": "Automodule H-Neutral",
         "pt-BR": "Automódulo H-Neutral",
         "es-ES": "Automódulo de H-Neutral"
     },
     "FdrLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Elemental (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Elemental (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Elemental (vacío)^000000"
     },
     "FtrLBw": {
-        "ko-KR": "오토매틱 모듈(더블 볼트)",
         "en-US": "Automodule H-Elemental",
         "pt-BR": "Automódulo H-Elemental",
         "es-ES": "Automódulo de H-Elemental"
     },
     "F9rLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Psychic (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Psíquico (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Psíquico (vacío)^000000"
     },
     "GNrLBw": {
-        "ko-KR": "오토매틱 모듈(워머 웨이브)",
         "en-US": "Automodule H-Psychic",
         "pt-BR": "Automódulo H-Psíquico",
         "es-ES": "Automódulo de H-Psíquico"
     },
     "GdrLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Spell (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Feitiço (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Hechizo (vacío)^000000"
     },
     "GtrLBw": {
-        "ko-KR": "오토매틱 모듈(다이아몬드 그레이브)",
         "en-US": "Automodule H-Spell",
         "pt-BR": "Automódulo H-Feitiço",
         "es-ES": "Automódulo de H-Hechizo"
     },
     "G9rLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Exorcism (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Exorcismo (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Exorcismo (vacío)^000000"
     },
     "HNrLBw": {
-        "ko-KR": "오토매틱 모듈(마그누스무스)",
         "en-US": "Automodule H-Exorcism",
         "pt-BR": "Automódulo H-Exorcismo",
         "es-ES": "Automódulo de H-Exorcismo"
     },
     "HdrLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Sacred (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Sagrado (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Sagrado (vacío)^000000"
     },
     "HtrLBw": {
-        "ko-KR": "오토매틱 모듈(홀리쥬덱스)",
         "en-US": "Automodule H-Sacred",
         "pt-BR": "Automódulo H-Sagrado",
         "es-ES": "Automódulo de H-Sagrado"
     },
     "H9rLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Saint (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Santo (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Santo (vacío)^000000"
     },
     "INrLBw": {
-        "ko-KR": "오토매틱 모듈(듀플레리카)",
         "en-US": "Automodule H-Saint",
         "pt-BR": "Automódulo H-Santo",
         "es-ES": "Automódulo de H-Santo"
     },
     "IdrLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Fighter (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Lutador (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Luchador (vacío)^000000"
     },
     "ItrLBw": {
-        "ko-KR": "오토매틱 모듈(호포붕추)",
         "en-US": "Automodule H-Fighter",
         "pt-BR": "Automódulo H-Lutador",
         "es-ES": "Automódulo de H-Luchador"
     },
     "I9rLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Corpeoral (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Corporal (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Corporal (vacío)^000000"
     },
     "JNrLBw": {
-        "ko-KR": "오토매틱 모듈(폭기신탄)",
         "en-US": "Automodule H-Corporeal",
         "pt-BR": "Automódulo H-Corporal",
         "es-ES": "Automódulo de H-Corporal"
     },
     "JdrLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Combo (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Combo (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Combo (vacío)^000000"
     },
     "JtrLBw": {
-        "ko-KR": "오토매틱 모듈(맹룡붕격)",
         "en-US": "Automodule H-Combo",
         "pt-BR": "Automódulo H-Combo",
         "es-ES": "Automódulo de H-Combo"
     },
     "J9rLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Bomb (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Bomba (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Bomba (vacío)^000000"
     },
     "KNrLBw": {
-        "ko-KR": "오토매틱 모듈(클러스터)",
         "en-US": "Automodule H-Bomb",
         "pt-BR": "Automódulo H-Bomba",
         "es-ES": "Automódulo de H-Bomba"
     },
     "KdrLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Sniper (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Atirador (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Tirador (vacío)^000000"
     },
     "KtrLBw": {
-        "ko-KR": "오토매틱 모듈(브리즈 슈팅)",
         "en-US": "Automodule H-Sniper",
         "pt-BR": "Automódulo H-Atirador",
         "es-ES": "Automódulo de H-Tirador"
     },
     "K9rLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Arrow (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Flecha (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Flecha (vacío)^000000"
     },
     "LNrLBw": {
-        "ko-KR": "오토매틱 모듈(에임드 스톰)",
         "en-US": "Automodule H-Arrow",
         "pt-BR": "Automódulo H-Flecha",
         "es-ES": "Automódulo de H-Flecha"
     },
     "LdrLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Song (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Canção (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Canción (vacío)^000000"
     },
     "LtrLBw": {
-        "ko-KR": "오토매틱 모듈(메탈릭에코)",
         "en-US": "Automodule H-Song",
         "pt-BR": "Automódulo H-Canção",
         "es-ES": "Automódulo de H-Canción"
     },
     "L9rLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Musical (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Musical (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Musical (vacío)^000000"
     },
     "MNrLBw": {
-        "ko-KR": "오토매틱 모듈(잔향)",
         "en-US": "Automodule H-Musical",
         "pt-BR": "Automódulo H-Musical",
         "es-ES": "Automódulo de H-Musical"
     },
     "MdrLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Rainstorm (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Temporal (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Tormenta (vacío)^000000"
     },
     "MtrLBw": {
-        "ko-KR": "오토매틱 모듈(발칸서비어)",
         "en-US": "Automodule H-Rainstorm",
         "pt-BR": "Automódulo H-Temporal",
         "es-ES": "Automódulo de H-Tormenta"
     },
     "M9rLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Solar (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Solar (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Solar (vacío)^000000"
     },
     "NNrLBw": {
-        "ko-KR": "오토매틱 모듈(홍염폭발)",
         "en-US": "Automodule H-Solar",
         "pt-BR": "Automódulo H-Solar",
         "es-ES": "Automódulo de H-Solar"
     },
     "NdrLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Lunar (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Lunar (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Lunar (vacío)^000000"
     },
     "NtrLBw": {
-        "ko-KR": "오토매틱 모듈(월각)",
         "en-US": "Automodule H-Lunar",
         "pt-BR": "Automódulo H-Lunar",
         "es-ES": "Automódulo de H-Lunar"
     },
     "N9rLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Stellar (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Estelar (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Estelar (vacío)^000000"
     },
     "ONrLBw": {
-        "ko-KR": "오토매틱 모듈(섬광낙하)",
         "en-US": "Automodule H-Stellar",
         "pt-BR": "Automódulo H-Estelar",
         "es-ES": "Automódulo de H-Estelar"
     },
     "OdrLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Souls (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Almas (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Almas (vacío)^000000"
     },
     "OtrLBw": {
-        "ko-KR": "오토매틱 모듈(에스후)",
         "en-US": "Automodule H-Souls",
         "pt-BR": "Automódulo H-Almas",
         "es-ES": "Automódulo de H-Almas"
     },
     "O9rLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Spirit (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Espírito (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Espíritu (vacío)^000000"
     },
     "PNrLBw": {
-        "ko-KR": "오토매틱 모듈(에스파)",
         "en-US": "Automodule H-Spirit",
         "pt-BR": "Automódulo H-Espírito",
         "es-ES": "Automódulo de H-Espíritu"
     },
     "PdrLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Necro (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Necro (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Maldición (vacío)^000000"
     },
     "PtrLBw": {
-        "ko-KR": "오토매틱 모듈(저주폭발)",
         "en-US": "Automodule H-Necro",
         "pt-BR": "Automódulo H-Necro",
         "es-ES": "Automódulo de H-Maldición"
     },
     "P9rLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Revolver (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Revólver (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Revólver (vacío)^000000"
     },
     "QNrLBw": {
-        "ko-KR": "오토매틱 모듈(데스 해머 댄스)",
         "en-US": "Automodule H-Revolver",
         "pt-BR": "Automódulo H-Revólver",
         "es-ES": "Automódulo de H-Revólver"
     },
     "QdrLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Grenade (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Granada (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Granada (vacío)^000000"
     },
     "QtrLBw": {
-        "ko-KR": "오토매틱 모듈(파이어 하울링 테일)",
         "en-US": "Automodule H-Grenade",
         "pt-BR": "Automódulo H-Granada",
         "es-ES": "Automódulo de H-Granada"
     },
     "Q9rLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Shotgun (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Espingarda (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Escopeta (vacío)^000000"
     },
     "RNrLBw": {
-        "ko-KR": "오토매틱 모듈(스톰 버스터 트립)",
         "en-US": "Automodule H-Shotgun",
         "pt-BR": "Automódulo H-Espingarda",
         "es-ES": "Automódulo de H-Escopeta"
     },
     "RdrLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Ninpou (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Ninpou (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Ninpou (vacío)^000000"
     },
     "RtrLBw": {
-        "ko-KR": "오토매틱 모듈(화섬풍)",
         "en-US": "Automodule H-Ninpou",
         "pt-BR": "Automódulo H-Ninpou",
         "es-ES": "Automódulo de H-Ninpou"
     },
     "R9rLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Taijutsu (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Taijutsu (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Taijutsu (vacío)^000000"
     },
     "SNrLBw": {
-        "ko-KR": "오토매틱 모듈(십자베기)",
         "en-US": "Automodule H-Taijutsu",
         "pt-BR": "Automódulo H-Taijutsu",
         "es-ES": "Automódulo de H-Taijutsu"
     },
     "SdrLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Mahou (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Mahou (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Mahou (vacío)^000000"
     },
     "StrLBw": {
-        "ko-KR": "오토매틱 모듈(염락풍)",
         "en-US": "Automodule H-Mahou",
         "pt-BR": "Automódulo H-Mahou",
         "es-ES": "Automódulo de H-Mahou"
     },
     "S9rLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Tide (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Maré (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Marea (vacío)^000000"
     },
     "TNrLBw": {
-        "ko-KR": "오토매틱 모듈(바다의 힘)",
         "en-US": "Automodule H-Tide",
         "pt-BR": "Automódulo H-Maré",
         "es-ES": "Automódulo de H-Marea"
     },
     "TdrLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Jungle (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Selva (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Selva (vacío)^000000"
     },
     "TtrLBw": {
-        "ko-KR": "오토매틱 모듈(대지의 힘)",
         "en-US": "Automodule H-Jungle",
         "pt-BR": "Automódulo H-Selva",
         "es-ES": "Automódulo de H-Selva"
     },
     "T9rLBw": {
-        "ko-KR": "^AAAAAA(관련모듈 소지량 0)^000000",
         "en-US": "^AAAAAAAutomodule H-Fauna (empty)^000000",
         "pt-BR": "^AAAAAAAutomódulo H-Fauna (vazio)^000000",
         "es-ES": "^AAAAAAAutomódulo de H-Fauna (vacío)^000000"
     },
     "UNrLBw": {
-        "ko-KR": "오토매틱 모듈(생명의 힘)",
         "en-US": "Automodule H-Fauna",
         "pt-BR": "Automódulo H-Fauna",
         "es-ES": "Automódulo de H-Fauna"
     },
     "UdrLBw": {
-        "ko-KR": "[라이자]\n{0} 님\n업그레이드하실 효능이 있는지 확인해 주십시오.",
         "en-US": "[Liza]\n{0},\nplease check whether there is an effect you wish to upgrade.",
         "pt-BR": "[Liza]\n{0}.\nVerifique se possui algum Automódulo para encantar.",
         "es-ES": "[Liza]\nSeñor {0},\nPor favor, compruebe si tiene algún efecto que desee mejorar."
     },
     "UtrLBw": {
-        "ko-KR": "취소",
         "en-US": "Cancel",
         "pt-BR": "Cancelar",
         "es-ES": "Cancelar"
     },
     "U9rLBw": {
-        "ko-KR": "노멀등급",
         "en-US": "B- (Basic)",
         "pt-BR": "Categoria B- (Básico)",
         "es-ES": "Categoría B- (Básico)"
     },
     "VNrLBw": {
-        "ko-KR": "레어등급",
         "en-US": "M- (Medium)",
         "pt-BR": "Categoria M- (Médio)",
         "es-ES": "Categoría M- (Mediano)"
     },
     "VdrLBw": {
-        "ko-KR": "유니크등급",
         "en-US": "P- (Perfect)",
         "pt-BR": "Categoria P- (Perfeito)",
         "es-ES": "Categoría P- (Perfecto)"
     },
     "VtrLBw": {
-        "ko-KR": "레전드등급",
         "en-US": "F- (Fantastic)",
         "pt-BR": "Categoria F- (Fantástico)",
         "es-ES": "Categoría F- (Fantástico)"
     },
     "V9rLBw": {
-        "ko-KR": "에픽 1",
         "en-US": "H- (Ability 1)",
         "pt-BR": "Categoria H- (Habilidade 1)",
         "es-ES": "Categoría H- (Habilidad 1)"
     },
     "WNrLBw": {
-        "ko-KR": "에픽 2",
         "en-US": "H- (Ability 2)",
         "pt-BR": "Categoria H- (Habilidade 2)",
         "es-ES": "Categoría H- (Habilidad 2)"
     },
     "WdrLBw": {
-        "ko-KR": "에픽 3",
         "en-US": "H- (Ability 3)",
         "pt-BR": "Categoria H- (Habilidade 3)",
         "es-ES": "Categoría H- (Habilidad 3)"
     },
     "WtrLBw": {
-        "ko-KR": "[라이자]\n여기까지 하기로 하겠습니다.",
         "en-US": "[Liza]\nWe will conclude here.",
         "pt-BR": "[Liza]\nVamos encerrar por aqui.",
         "es-ES": "[Liza]\nLo dejaremos aquí."
     },
     "W9rLBw": {
-        "ko-KR": "오토매틱 개조 모듈(방어)",
         "en-US": "Automodule B-DEF",
         "pt-BR": "Automódulo B-DEF",
         "es-ES": "Automódulo de B-DEF"
     },
     "XNrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(마법방어)",
         "en-US": "Automodule B-MDEF",
         "pt-BR": "Automódulo B-DEFM",
         "es-ES": "Automódulo de B-DEFM"
     },
     "XdrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(VIT)",
         "en-US": "Automodule B-VIT",
         "pt-BR": "Automódulo B-VIT",
         "es-ES": "Automódulo de B-VIT"
     },
     "XtrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(LUK)",
         "en-US": "Automodule B-LUK",
         "pt-BR": "Automódulo B-SOR",
         "es-ES": "Automódulo de B-SUE"
     },
     "X9rLBw": {
-        "ko-KR": "오토매틱 개조 모듈(STR)",
         "en-US": "Automodule B-STR",
         "pt-BR": "Automódulo B-FOR",
         "es-ES": "Automódulo de B-FUE"
     },
     "YNrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(AGI)",
         "en-US": "Automodule B-AGI",
         "pt-BR": "Automódulo B-AGI",
         "es-ES": "Automódulo de B-AGI"
     },
     "YdrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(INT)",
         "en-US": "Automodule B-INT",
         "pt-BR": "Automódulo B-INT",
         "es-ES": "Automódulo de B-INT"
     },
     "YtrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(DEX)",
         "en-US": "Automodule B-DEX",
         "pt-BR": "Automódulo B-DES",
         "es-ES": "Automódulo de B-DES"
     },
     "Y9rLBw": {
-        "ko-KR": "오토매틱 개조 모듈(HP회복량)",
         "en-US": "Automodule M-HPR",
         "pt-BR": "Automódulo M-HPR",
         "es-ES": "Automódulo de M-HPR"
     },
     "ZNrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(SP회복량)",
         "en-US": "Automodule M-SPR",
         "pt-BR": "Automódulo M-SPR",
         "es-ES": "Automódulo de M-SPR"
     },
     "ZdrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(마력)",
         "en-US": "Automodule M-Charm",
         "pt-BR": "Automódulo M-Encanto",
         "es-ES": "Automódulo de M-Encanto"
     },
     "ZtrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(공격속도)",
         "en-US": "Automodule M-Delay",
         "pt-BR": "Automódulo M-Atraso",
         "es-ES": "Automódulo de M-Retraso"
     },
     "Z9rLBw": {
-        "ko-KR": "오토매틱 개조 모듈(치명)",
         "en-US": "Automodule M-Fatal",
         "pt-BR": "Automódulo M-Fatal",
         "es-ES": "Automódulo de M-Fatal"
     },
     "aNrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(명궁)",
         "en-US": "Automodule M-Sight",
         "pt-BR": "Automódulo M-Mira",
         "es-ES": "Automódulo de M-Puntería"
     },
     "adrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(체력)",
         "en-US": "Automodule M-MaxHP",
         "pt-BR": "Automódulo M-HPMax",
         "es-ES": "Automódulo de M-HPMax"
     },
     "atrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(정신력)",
         "en-US": "Automodule M-MaxSP",
         "pt-BR": "Automódulo M-SPMax",
         "es-ES": "Automódulo de M-SPMax"
     },
     "a9rLBw": {
-        "ko-KR": "오토매틱 개조 모듈(힐)",
         "en-US": "Automodule M-Heal",
         "pt-BR": "Automódulo M-Cura",
         "es-ES": "Automódulo de M-Cura"
     },
     "bNrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(공격력)",
         "en-US": "Automodule M-ATK",
         "pt-BR": "Automódulo M-ATQ",
         "es-ES": "Automódulo de M-ATQ"
     },
     "bdrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(마법력)",
         "en-US": "Automodule M-MATK",
         "pt-BR": "Automódulo M-ATQM",
         "es-ES": "Automódulo de M-ATQM"
     },
     "btrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(명사수)",
         "en-US": "Automodule M-Shoot",
         "pt-BR": "Automódulo M-Tiro",
         "es-ES": "Automódulo de M-Tiro"
     },
     "b9rLBw": {
-        "ko-KR": "오토매틱 개조 모듈(신속)",
         "en-US": "Automodule M-ASPD",
         "pt-BR": "Automódulo M-Rapidez",
         "es-ES": "Automódulo de M-Rapidez"
     },
     "cNrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(캐스터)",
         "en-US": "Automodule M-Magic",
         "pt-BR": "Automódulo M-Magia",
         "es-ES": "Automódulo de M-Magia"
     },
     "cdrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(크리티컬)",
         "en-US": "Automodule M-CRIT",
         "pt-BR": "Automódulo M-CRIT",
         "es-ES": "Automódulo de M-CRÍT"
     },
     "ctrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(매지컬 포스)",
         "en-US": "Automodule P-Magic",
         "pt-BR": "Automódulo P-Mágico",
         "es-ES": "Automódulo de P-Mágico"
     },
     "c9rLBw": {
-        "ko-KR": "오토매틱 개조 모듈(어태커 포스)",
         "en-US": "Automodule P-Barbarian",
         "pt-BR": "Automódulo P-Bárbaro",
         "es-ES": "Automódulo de P-Bárbaro"
     },
     "dNrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(레인지 포스)",
         "en-US": "Automodule P-Shooter",
         "pt-BR": "Automódulo P-Artilheiro",
         "es-ES": "Automódulo de P-Artillero"
     },
     "ddrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(크리티컬 포스)",
         "en-US": "Automodule P-Critical",
         "pt-BR": "Automódulo P-Crítico",
         "es-ES": "Automódulo de P-Crítico"
     },
     "dtrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(리커버리 포스)",
         "en-US": "Automodule P-Healer",
         "pt-BR": "Automódulo P-Curandeiro",
         "es-ES": "Automódulo de P-Curandero"
     },
     "d9rLBw": {
-        "ko-KR": "오토매틱 개조 모듈(미러 카운터)",
         "en-US": "Automodule P-Mirror",
         "pt-BR": "Automódulo P-Espelho",
         "es-ES": "Automódulo de P-Espejo"
     },
     "eNrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(스킬 후 딜레이)",
         "en-US": "Automodule P-Cast",
         "pt-BR": "Automódulo P-Pós",
         "es-ES": "Automódulo de P-Post"
     },
     "edrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(고정 캐스팅)",
         "en-US": "Automodule P-Fixed",
         "pt-BR": "Automódulo P-Fixa",
         "es-ES": "Automódulo de P-Conjuración"
     },
     "etrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(어보브 올)",
         "en-US": "Automodule P-Total",
         "pt-BR": "Automódulo P-Total",
         "es-ES": "Automódulo de P-Total"
     },
     "e9rLBw": {
-        "ko-KR": "오토매틱 개조 모듈(드레인 라이프)",
         "en-US": "Automodule P-Life",
         "pt-BR": "Automódulo P-Vida",
         "es-ES": "Automódulo de P-Vida"
     },
     "fNrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(드레인 소울)",
         "en-US": "Automodule P-Soul",
         "pt-BR": "Automódulo P-Alma",
         "es-ES": "Automódulo de P-Alma"
     },
     "fdrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(매직 힐링)",
         "en-US": "Automodule P-Mental",
         "pt-BR": "Automódulo P-Mental",
         "es-ES": "Automódulo de P-Mental"
     },
     "ftrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(매직 소울)",
         "en-US": "Automodule P-Mana",
         "pt-BR": "Automódulo P-Mana",
         "es-ES": "Automódulo de P-Maná"
     },
     "f9rLBw": {
-        "ko-KR": "오토매틱 개조 모듈(파워 포스)",
         "en-US": "Automodule P-Hybrid",
         "pt-BR": "Automódulo P-Híbrido",
         "es-ES": "Automódulo de P-Híbrido"
     },
     "gNrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(로버스트)",
         "en-US": "Automodule P-Robust",
         "pt-BR": "Automódulo P-Robusto",
         "es-ES": "Automódulo de P-Robusto"
     },
     "gdrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(파워풀)",
         "en-US": "Automodule P-Damage",
         "pt-BR": "Automódulo P-Dano",
         "es-ES": "Automódulo de P-Daño"
     },
     "gtrLBw": {
-        "ko-KR": "오토매틱 개조 모듈(올 포스)",
         "en-US": "Automodule P-General",
         "pt-BR": "Automódulo P-Geral",
         "es-ES": "Automódulo de P-General"
     },
     "g9rLBw": {
-        "ko-KR": "오토매틱 개조 모듈(리플렉션 리젝트)",
         "en-US": "Automodule P-Reflector",
         "pt-BR": "Automódulo P-Refletor",
         "es-ES": "Automódulo de P-Reflector"
     },
     "hNrLBw": {
-        "ko-KR": "오토매틱 모듈(언리밋 바이탈)",
         "en-US": "Automodule F-Eternity",
         "pt-BR": "Automódulo F-Eternidade",
         "es-ES": "Automódulo de F-Eternidad"
     },
     "hdrLBw": {
-        "ko-KR": "오토매틱 모듈(스펠 버스터)",
         "en-US": "Automodule F-Sorcery",
         "pt-BR": "Automódulo F-Sortilégio",
         "es-ES": "Automódulo de F-Hechicería"
     },
     "htrLBw": {
-        "ko-KR": "오토매틱 모듈(파이어링 샷)",
         "en-US": "Automodule F-Cunning",
         "pt-BR": "Automódulo F-Astúcia",
         "es-ES": "Automódulo de F-Astucia"
     },
     "h9rLBw": {
-        "ko-KR": "오토매틱 모듈(오버 파워)",
         "en-US": "Automodule F-Superpower",
         "pt-BR": "Automódulo F-Superpoder",
         "es-ES": "Automódulo de F-Superpoder"
     },
     "iNrLBw": {
-        "ko-KR": "오토매틱 모듈(페이탈 플래쉬)",
         "en-US": "Automodule F-Flash",
         "pt-BR": "Automódulo F-Lampejo",
         "es-ES": "Automódulo de F-Destello"
     },
     "idrLBw": {
-        "ko-KR": "오토매틱 모듈(럭키 스트라이크)",
         "en-US": "Automodule F-Fortune",
         "pt-BR": "Automódulo F-Fortuna",
         "es-ES": "Automódulo de F-Fortuna"
     },
     "itrLBw": {
-        "ko-KR": "오토매틱 모듈(드래고닉 브래스)",
         "en-US": "Automodule H-Dragon",
         "pt-BR": "Automódulo H-Dragão",
         "es-ES": "Automódulo de H-Dragón"
     },
     "i9rLBw": {
-        "ko-KR": "오토매틱 모듈(웨이브 브레이크)",
         "en-US": "Automodule H-Runic",
         "pt-BR": "Automódulo H-Rúnico",
         "es-ES": "Automódulo de H-Rúnico"
     },
     "jNrLBw": {
-        "ko-KR": "오토매틱 모듈(헌드레드 스파이럴)",
         "en-US": "Automodule H-Spear",
         "pt-BR": "Automódulo H-Lança",
         "es-ES": "Automódulo de H-Lanza"
     },
     "jdrLBw": {
-        "ko-KR": "오토매틱 모듈(드라이브 프레스)",
         "en-US": "Automodule H-Shield",
         "pt-BR": "Automódulo H-Escudo",
         "es-ES": "Automódulo de H-Escudo"
     },
     "jtrLBw": {
-        "ko-KR": "오토매틱 모듈(배니싱 캐논)",
         "en-US": "Automodule H-Hoplite",
         "pt-BR": "Automódulo H-Hoplita",
         "es-ES": "Automódulo de H-Hoplita"
     },
     "j9rLBw": {
-        "ko-KR": "오토매틱 모듈(제네시스 프레셔)",
         "en-US": "Automodule H-Domini",
         "pt-BR": "Automódulo H-Domini",
         "es-ES": "Automódulo de H-Domini"
     },
     "kNrLBw": {
-        "ko-KR": "오토매틱 모듈(부스트 캐논)",
         "en-US": "Automodule H-Cannon",
         "pt-BR": "Automódulo H-Canhão",
         "es-ES": "Automódulo de H-Cañón"
     },
     "kdrLBw": {
-        "ko-KR": "오토매틱 모듈(콜드 플레어)",
         "en-US": "Automodule H-Robot",
         "pt-BR": "Automódulo H-Robô",
         "es-ES": "Automódulo de H-Robot"
     },
     "ktrLBw": {
-        "ko-KR": "오토매틱 모듈(토네이도 스윙)",
         "en-US": "Automodule H-Axe",
         "pt-BR": "Automódulo H-Machado",
         "es-ES": "Automódulo de H-Hacha"
     },
     "k9rLBw": {
-        "ko-KR": "오토매틱 모듈(캐논 토네이도)",
         "en-US": "Automodule H-Cart",
         "pt-BR": "Automódulo H-Carrinho",
         "es-ES": "Automódulo de H-Carreta"
     },
     "lNrLBw": {
-        "ko-KR": "오토매틱 모듈(크레이지 만드라고라)",
         "en-US": "Automodule H-Plant",
         "pt-BR": "Automódulo H-Planta",
         "es-ES": "Automódulo de H-Planta"
     },
     "ldrLBw": {
-        "ko-KR": "오토매틱 모듈(애시드 익스플로젼)",
         "en-US": "Automodule H-Chemistry",
         "pt-BR": "Automódulo H-Química",
         "es-ES": "Automódulo de H-Química"
     },
     "ltrLBw": {
-        "ko-KR": "오토매틱 모듈(소닉 임팩트)",
         "en-US": "Automodule H-Blades",
         "pt-BR": "Automódulo H-Lâminas",
         "es-ES": "Automódulo de H-Hojas"
     },
     "l9rLBw": {
-        "ko-KR": "오토매틱 모듈(커터 슬래셔)",
         "en-US": "Automodule H-Cutter",
         "pt-BR": "Automódulo H-Loki",
         "es-ES": "Automódulo de H-Espiral"
     },
     "mNrLBw": {
-        "ko-KR": "오토매틱 모듈(버서크 슬래쉬)",
         "en-US": "Automodule H-Duelist",
         "pt-BR": "Automódulo H-Duelista",
         "es-ES": "Automódulo de H-Duelista"
     },
     "mdrLBw": {
-        "ko-KR": "오토매틱 모듈(페이탈 레이드)",
         "en-US": "Automodule H-Menace",
         "pt-BR": "Automódulo H-Ofensiva",
         "es-ES": "Automódulo de H-Ofensiva"
     },
     "mtrLBw": {
-        "ko-KR": "오토매틱 모듈(섀도우 스펠)",
         "en-US": "Automodule H-Desire",
         "pt-BR": "Automódulo H-Desejo",
         "es-ES": "Automódulo de H-Deseo"
     },
     "m9rLBw": {
-        "ko-KR": "오토매틱 모듈(앵글 샷)",
         "en-US": "Automodule H-Triple",
         "pt-BR": "Automódulo H-Triplo",
         "es-ES": "Automódulo de H-Triple"
     },
     "nNrLBw": {
-        "ko-KR": "오토매틱 모듈(크림즌 스트레인)",
         "en-US": "Automodule H-Mystic",
         "pt-BR": "Automódulo H-Místico",
         "es-ES": "Automódulo de H-Místico"
     },
     "ndrLBw": {
-        "ko-KR": "오토매틱 모듈(잭 라이트닝)",
         "en-US": "Automodule H-Arcanist",
         "pt-BR": "Automódulo H-Arcanista",
         "es-ES": "Automódulo de H-Arcanista"
     },
     "ntrLBw": {
-        "ko-KR": "오토매틱 모듈(커미트 볼텍스)",
         "en-US": "Automodule H-Neutral",
         "pt-BR": "Automódulo H-Neutral",
         "es-ES": "Automódulo de H-Neutral"
     },
     "n9rLBw": {
-        "ko-KR": "오토매틱 모듈(더블 볼트)",
         "en-US": "Automodule H-Elemental",
         "pt-BR": "Automódulo H-Elemental",
         "es-ES": "Automódulo de H-Elemental"
     },
     "oNrLBw": {
-        "ko-KR": "오토매틱 모듈(워머 웨이브)",
         "en-US": "Automodule H-Psychic",
         "pt-BR": "Automódulo H-Psíquico",
         "es-ES": "Automódulo de H-Psíquico"
     },
     "odrLBw": {
-        "ko-KR": "오토매틱 모듈(다이아몬드 그레이브)",
         "en-US": "Automodule H-Spell",
         "pt-BR": "Automódulo H-Feitiço",
         "es-ES": "Automódulo de H-Hechizo"
     },
     "otrLBw": {
-        "ko-KR": "오토매틱 모듈(마그누스무스)",
         "en-US": "Automodule H-Exorcism",
         "pt-BR": "Automódulo H-Exorcismo",
         "es-ES": "Automódulo de H-Exorcismo"
     },
     "o9rLBw": {
-        "ko-KR": "오토매틱 모듈(홀리쥬덱스)",
         "en-US": "Automodule H-Sacred",
         "pt-BR": "Automódulo H-Sagrado",
         "es-ES": "Automódulo de H-Sagrado"
     },
     "pNrLBw": {
-        "ko-KR": "오토매틱 모듈(듀플레리카)",
         "en-US": "Automodule H-Saint",
         "pt-BR": "Automódulo H-Santo",
         "es-ES": "Automódulo de H-Santo"
     },
     "pdrLBw": {
-        "ko-KR": "오토매틱 모듈(호포붕추)",
         "en-US": "Automodule H-Fighter",
         "pt-BR": "Automódulo H-Lutador",
         "es-ES": "Automódulo de H-Luchador"
     },
     "ptrLBw": {
-        "ko-KR": "오토매틱 모듈(폭기신탄)",
         "en-US": "Automodule H-Corporeal",
         "pt-BR": "Automódulo H-Corporal",
         "es-ES": "Automódulo de H-Corporal"
     },
     "p9rLBw": {
-        "ko-KR": "오토매틱 모듈(맹룡붕격)",
         "en-US": "Automodule H-Combo",
         "pt-BR": "Automódulo H-Combo",
         "es-ES": "Automódulo de H-Combo"
     },
     "qNrLBw": {
-        "ko-KR": "오토매틱 모듈(클러스터)",
         "en-US": "Automodule H-Bomb",
         "pt-BR": "Automódulo H-Bomba",
         "es-ES": "Automódulo de H-Bomba"
     },
     "qdrLBw": {
-        "ko-KR": "오토매틱 모듈(브리즈 슈팅)",
         "en-US": "Automodule H-Sniper",
         "pt-BR": "Automódulo H-Atirador",
         "es-ES": "Automódulo de H-Tirador"
     },
     "qtrLBw": {
-        "ko-KR": "오토매틱 모듈(에임드 스톰)",
         "en-US": "Automodule H-Arrow",
         "pt-BR": "Automódulo H-Flecha",
         "es-ES": "Automódulo de H-Flecha"
     },
     "q9rLBw": {
-        "ko-KR": "오토매틱 모듈(메탈릭에코)",
         "en-US": "Automodule H-Song",
         "pt-BR": "Automódulo H-Canção",
         "es-ES": "Automódulo de H-Canción"
     },
     "rNrLBw": {
-        "ko-KR": "오토매틱 모듈(잔향)",
         "en-US": "Automodule H-Musical",
         "pt-BR": "Automódulo H-Musical",
         "es-ES": "Automódulo de H-Musical"
     },
     "rdrLBw": {
-        "ko-KR": "오토매틱 모듈(발칸서비어)",
         "en-US": "Automodule H-Rainstorm",
         "pt-BR": "Automódulo H-Temporal",
         "es-ES": "Automódulo de H-Tormenta"
     },
     "rtrLBw": {
-        "ko-KR": "오토매틱 모듈(홍염폭발)",
         "en-US": "Automodule H-Solar",
         "pt-BR": "Automódulo H-Solar",
         "es-ES": "Automódulo de H-Solar"
     },
     "r9rLBw": {
-        "ko-KR": "오토매틱 모듈(월각)",
         "en-US": "Automodule H-Lunar",
         "pt-BR": "Automódulo H-Lunar",
         "es-ES": "Automódulo de H-Lunar"
     },
     "sNrLBw": {
-        "ko-KR": "오토매틱 모듈(섬광낙하)",
         "en-US": "Automodule H-Stellar",
         "pt-BR": "Automódulo H-Estelar",
         "es-ES": "Automódulo de H-Estelar"
     },
     "sdrLBw": {
-        "ko-KR": "오토매틱 모듈(에스후)",
         "en-US": "Automodule H-Souls",
         "pt-BR": "Automódulo H-Almas",
         "es-ES": "Automódulo de H-Almas"
     },
     "strLBw": {
-        "ko-KR": "오토매틱 모듈(에스파)",
         "en-US": "Automodule H-Spirit",
         "pt-BR": "Automódulo H-Espírito",
         "es-ES": "Automódulo de H-Espíritu"
     },
     "s9rLBw": {
-        "ko-KR": "오토매틱 모듈(저주폭발)",
         "en-US": "Automodule H-Necro",
         "pt-BR": "Automódulo H-Necro",
         "es-ES": "Automódulo de H-Maldición"
     },
     "tNrLBw": {
-        "ko-KR": "오토매틱 모듈(데스 해머 댄스)",
         "en-US": "Automodule H-Revolver",
         "pt-BR": "Automódulo H-Revólver",
         "es-ES": "Automódulo de H-Revólver"
     },
     "tdrLBw": {
-        "ko-KR": "오토매틱 모듈(파이어 하울링 테일)",
         "en-US": "Automodule H-Grenade",
         "pt-BR": "Automódulo H-Granada",
         "es-ES": "Automódulo de H-Granada"
     },
     "ttrLBw": {
-        "ko-KR": "오토매틱 모듈(스톰 버스터 트립)",
         "en-US": "Automodule H-Shotgun",
         "pt-BR": "Automódulo H-Espingarda",
         "es-ES": "Automódulo de H-Escopeta"
     },
     "t9rLBw": {
-        "ko-KR": "오토매틱 모듈(화섬풍)",
         "en-US": "Automodule H-Ninpou",
         "pt-BR": "Automódulo H-Ninpou",
         "es-ES": "Automódulo de H-Ninpou"
     },
     "uNrLBw": {
-        "ko-KR": "오토매틱 모듈(십자베기)",
         "en-US": "Automodule H-Taijutsu",
         "pt-BR": "Automódulo H-Taijutsu",
         "es-ES": "Automódulo de H-Taijutsu"
     },
     "udrLBw": {
-        "ko-KR": "오토매틱 모듈(염락풍)",
         "en-US": "Automodule H-Mahou",
         "pt-BR": "Automódulo H-Mahou",
         "es-ES": "Automódulo de H-Mahou"
     },
     "utrLBw": {
-        "ko-KR": "오토매틱 모듈(바다의 힘)",
         "en-US": "Automodule H-Tide",
         "pt-BR": "Automódulo H-Maré",
         "es-ES": "Automódulo de H-Marea"
     },
     "u9rLBw": {
-        "ko-KR": "오토매틱 모듈(대지의 힘)",
         "en-US": "Automodule H-Jungle",
         "pt-BR": "Automódulo H-Selva",
         "es-ES": "Automódulo de H-Selva"
     },
     "vNrLBw": {
-        "ko-KR": "오토매틱 모듈(생명의 힘)",
         "en-US": "Automodule H-Fauna",
         "pt-BR": "Automódulo H-Fauna",
         "es-ES": "Automódulo de H-Fauna"
     },
     "vdrLBw": {
-        "ko-KR": "[라이자]\n효능과 일치하는 모듈을 소지하셔야 강화를 진행 할 수 있습니다.",
         "en-US": "[Liza]\nYou must possess a module that matches the effect in order to proceed with the enchantment.",
         "pt-BR": "[Liza]\nVocê deve ter um Automódulo que corresponda ao encanto para prosseguir com o encantamento.",
         "es-ES": "[Liza]\nPara poder mejorar, debe tener un módulo que coincida con el efecto."
     },
     "vtrLBw": {
-        "ko-KR": "[라이자]\n정상적인 진행이 불가능한 상황입니다. 관리자를 찾으셔야 할 것 같군요.",
         "en-US": "[Liza]\nNormal progression is not possible. It seems you must contact an administrator.",
         "pt-BR": "[Liza]\nErro. Envie um ticket para a Central de Suporte.",
         "es-ES": "[Liza]\nNo es posible continuar con normalidad. Parece que debe buscar a un administrador."
     },
     "v9rLBw": {
-        "ko-KR": "[라이자]\n장비를 벗고 계신건 아닌가요?",
         "en-US": "[Liza]\nAre you not currently unequipped?",
         "pt-BR": "[Liza]\nVocê retirou o equipamento enquanto conversamos?",
         "es-ES": "[Liza]\n¿No se habrá quitado el equipo?"
     },
     "wNrLBw": {
-        "ko-KR": "^FF0000랜덤옵션이 확인됩니다. 해당 장비는 작업 하실 수 없습니다.^000000",
         "en-US": "^FF0000Random options detected. This equipment cannot be modified.^000000",
         "pt-BR": "^FF0000Encontrei Bônus Aleatórios neste item. Processo de encanto cancelado.^000000",
         "es-ES": "^FF0000Se ha detectado una opción aleatoria. No se puede trabajar con este equipo.^000000"
     },
     "wdrLBw": {
-        "ko-KR": "[라이자]\n이미 레전드급 모듈을 장착 하셨었군요. 더 이상의 레전드급 모듈 장착은 불가능합니다",
         "en-US": "[Liza]\nYou have already equipped an F-grade module. Additional F-grade modules cannot be installed.",
         "pt-BR": "[Liza]\nEste item já tem um Automódulo de categoria F-. Não posso adicionar mais de um.",
         "es-ES": "[Liza]\nYa ha equipado un módulo de grado Leyenda. No es posible equipar más módulos de grado Leyenda."
     },
     "wtrLBw": {
-        "ko-KR": "[라이자]\n선택하신 장비와 모듈이 서로 호환되지 않는 상태입니다. 장비와 모듈을 다시 확인해주십시오.",
         "en-US": "[Liza]\nThe selected equipment and module are not compatible. Please verify the equipment and module again.",
         "pt-BR": "[Liza]\nEsse Automódulo não é compatível com o equipamento selecionado. Reveja as opções.",
         "es-ES": "[Liza]\nEl equipo seleccionado y el módulo no son compatibles. Compruebe de nuevo el equipo y el módulo."
     },
     "w9rLBw": {
-        "ko-KR": "[라이자]\n이 모듈은 첫 강화 시에만 사용 가능합니다. 유감스럽게도 해당장비는 이미 다른 효능을 부여받으셨군요. 다른 모듈을 이용하여 강화해 주십시오.",
         "en-US": "[Liza]\nThis module can only be used for the first enchantment. Unfortunately, this equipment has already been granted a different effect. Please use another module to enhance it.",
         "pt-BR": "[Liza]\nEsse Automódulo só pode ser encantado em um equipamento sem encantamentos. Infelizmente, seu equipamento já está encantado. Traga outro equipamento.",
         "es-ES": "[Liza]\nEste módulo solo se puede usar en la primera mejora. Por desgracia, este equipo ya ha recibido otro efecto. Mejore usando otro módulo."
     },
     "xNrLBw": {
-        "ko-KR": "[라이자]\n이 모듈의 능력치는 {0}번 까지 확장 가능합니다. 이미 확장 한계치까지 작업이 된 것 같군요",
         "en-US": "[Liza]\nThe attributes of this module can be expanded up to {0} times. It appears the enchantment limit has already been reached.",
         "pt-BR": "[Liza]\nEsse Automódulo permite encantar até {0}x. Parece que já está encantado ao máximo.",
         "es-ES": "[Liza]\nLos atributos de este módulo pueden ampliarse hasta {0}. Parece que ya se ha alcanzado el límite de ampliación."
     },
     "xdrLBw": {
-        "ko-KR": "[라이자]\n강화하시려는 장비가 이미 확장 한계치까지 작업이 된 것 같군요",
         "en-US": "[Liza]\nThe equipment you are attempting to enchant appears to have already reached its expansion limit.",
         "pt-BR": "[Liza]\nEsse equipamento já está encantado ao máximo.",
         "es-ES": "[Liza]\nParece que el equipo que desea mejorar ya se ha trabajado hasta el límite de ampliación."
     },
     "xtrLBw": {
-        "ko-KR": "[라이자]\n작업중에 장비를 장착해제 하시면 오류가 발생할 수 있습니다. 주의하십시오.",
         "en-US": "[Liza]\nIf you unequip the equipment during the process, an error may occur. Please exercise caution.",
         "pt-BR": "[Liza]\nSe você desequipar o item durante o processo, pode ocorrer um erro. Tenha cuidado.",
         "es-ES": "[Liza]\nSi se desequipa el equipo durante el proceso, puede producirse un error. Tenga cuidado."
     },
     "x9rLBw": {
-        "ko-KR": "오토매틱 아머 A타입",
         "en-US": "Automatron Vest A",
         "pt-BR": "Colete Automatron A",
         "es-ES": "Armadura Autormatron A"
     },
     "yNrLBw": {
-        "ko-KR": "오토매틱 아머 B타입",
         "en-US": "Automatron Vest B",
         "pt-BR": "Colete Automatron B",
         "es-ES": "Armadura Autormatron B"
     },
     "ydrLBw": {
-        "ko-KR": "오토매틱 엔진윙 A타입",
         "en-US": "Automatron Engine A",
         "pt-BR": "Motor Automatron A",
         "es-ES": "Motor Autormatron A"
     },
     "ytrLBw": {
-        "ko-KR": "오토매틱 엔진윙 B타입",
         "en-US": "Automatron Engine B",
         "pt-BR": "Motor Automatron B",
         "es-ES": "Motor Autormatron B"
     },
     "y9rLBw": {
-        "ko-KR": "오토매틱 레그 A타입",
         "en-US": "Automatron Leg A",
         "pt-BR": "Perna Automatron A",
         "es-ES": "Pierna Autormatron A"
     },
     "zNrLBw": {
-        "ko-KR": "오토매틱 레그 B타입",
         "en-US": "Automatron Leg B",
         "pt-BR": "Perna Automatron B",
         "es-ES": "Pierna Autormatron B"
     },
     "zdrLBw": {
-        "ko-KR": "오토매틱 부스터R",
         "en-US": "Automatron Booster R",
         "pt-BR": "Turbina Automatron A",
         "es-ES": "Impulsor Autormatron A"
     },
     "ztrLBw": {
-        "ko-KR": "오토매틱 부스터L",
         "en-US": "Automatron Booster L",
         "pt-BR": "Turbina Automatron B",
         "es-ES": "Impulsor Autormatron B"
     },
     "z9rLBw": {
-        "ko-KR": "오토매틱 배틀칩R",
         "en-US": "Automatron Battle Chip R",
         "pt-BR": "Soquete Automatron A",
         "es-ES": "Chip Autormatron A"
     },
     "0NrLBw": {
-        "ko-KR": "오토매틱 배틀칩L",
         "en-US": "Automatron Battle Chip L",
         "pt-BR": "Soquete Automatron B",
         "es-ES": "Chip Autormatron B"
     },
     "0drLBw": {
-        "ko-KR": "[라이자]\n강화하시려는 장착한 제품에 시리얼넘버가 없습니다. 규격 외 상품이므로 강화를 해 드릴 수 없습니다.",
         "en-US": "[Liza]\nThe equipped item you are attempting to enchant does not have a serial number. As it is a non-standard product, enchant cannot be performed.",
         "pt-BR": "[Liza]\nO item equipado não faz parte dos Automatron. Por ser um produto fora do padrão, não posso encantá-lo.",
         "es-ES": "[Liza]\nEl equipo que lleva puesto no tiene número de serie. Al ser un producto fuera de especificación, no puedo mejorarlo."
     },
     "0trLBw": {
-        "ko-KR": "[라이자]^0000FF\n{0} + {1} 선택\n^000000------------------\n선택하신 도면은 해당 장비에 최대 ^0000FF{2} 회 까지 동일한 도면으로 업그레이드 가능^000000하며 현재 ^0000FF{3} 회^000000 강화되어 있습니다. 계속 진행 하시겠습니까?",
         "en-US": "[Liza]^0000FF\n{0} + {1} \n^000000------------------\nThe selected item  can be enchanted with the same module up to ^0000FF{2} times^000000 for this equipment, and it has currently been enchanted ^0000FF{3} times^000000. Would you like to continue?",
         "pt-BR": "[Liza]^0000FF\n{0} + {1}\n^000000------------------\nVocê pode encantar até ^0000FF{2}x^000000 com o mesmo Automódulo. Atualmente está encantado ^0000FF{3}x^000000. Deseja prosseguir?",
         "es-ES": "[Liza]^0000FF\nSelección de {0} + {1}\n^000000------------------\nEl plano seleccionado puede mejorarse con el mismo plano hasta un máximo de ^0000FF{2} veces^000000 para este equipo, y actualmente se ha mejorado ^0000FF{3} veces^000000. ¿Desea continuar?"
     },
     "09rLBw": {
-        "ko-KR": "생각 좀 더 해보고...",
         "en-US": "I need more time to think...",
         "pt-BR": "Espere...",
         "es-ES": "Lo pensaré un poco más..."
     },
     "1NrLBw": {
-        "ko-KR": "진행한다",
         "en-US": "Proceed",
         "pt-BR": "Prosseguir",
         "es-ES": "Continuar"
     },
     "1drLBw": {
-        "ko-KR": "[라이자]\n선택하신 장비는 이미 확장 한계치까지 작업이 된 것 같군요",
         "en-US": "[Liza]\nThe selected equipment appears to have already reached its enchantment limit.",
         "pt-BR": "[Liza]\nParece que o equipamento já foi encantado até seu limite.",
         "es-ES": "[Liza]\nParece que el equipo seleccionado ya se ha trabajado hasta el límite de ampliación."
     },
     "1trLBw": {
-        "ko-KR": "[라이자]\n장비의 ^990000{0}번째 ^000000업그레이드를 시도합니다.",
         "en-US": "[Liza]\nAttempt no.^990000{0}^000000 of enchanting the equipment.",
         "pt-BR": "[Liza]\nEncantando seu equipamento pela ^990000{0}^000000ª vez.",
         "es-ES": "[Liza]\nIntentando la ^990000{0}.ª ^000000mejora del equipo."
     },
     "19rLBw": {
-        "ko-KR": "[라이자]\n장비의 ^990000 보너스 효능 ^000000업그레이드를 시도합니다.",
         "en-US": "[Liza]\nAttempting the ^990000 bonus effect ^000000enchantment of the equipment.",
         "pt-BR": "[Liza]\nTentando melhorar o ^990000efeito^000000 do equipamento.",
         "es-ES": "[Liza]\nIntentando la mejora de ^990000 efecto adicional ^000000del equipo."
     },
     "2NrLBw": {
-        "ko-KR": "오토매틱 쉴드",
         "en-US": "Automatron Shield",
         "pt-BR": "Escudo Automatron",
         "es-ES": "Escudo Automatron"
     },
     "2drLBw": {
-        "ko-KR": "오토매틱 쉴드A",
         "en-US": "Automatron Shield A",
         "pt-BR": "Escudo Automatron A",
         "es-ES": "Escudo Automatron A"
     },
     "2trLBw": {
-        "ko-KR": "오토매틱 쉴드B",
         "en-US": "Automatron Shield B",
         "pt-BR": "Escudo Automatron B",
         "es-ES": "Escudo Automatron B"
     },
     "29rLBw": {
-        "ko-KR": "오토매틱 쉴드 강화",
         "en-US": "Enchant Automatron Shield",
         "pt-BR": "Encantar Escudo Automatron",
         "es-ES": "Encantar Escudo Automatron"

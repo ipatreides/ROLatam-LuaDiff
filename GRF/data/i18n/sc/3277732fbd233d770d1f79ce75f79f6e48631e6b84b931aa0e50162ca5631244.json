@@ -1,128 +1,107 @@
 {
     "oFpnDA": {
-        "ko-KR": "[시간의 관리자]",
         "en-US": "[Time Controller]",
         "pt-BR": "[Administrador do Tempo]",
         "es-ES": "[Administrador del Tiempo]"
     },
     "oVpnDA": {
-        "ko-KR": "1 스테이지",
         "en-US": "Stage 1",
         "pt-BR": "Fase 1",
         "es-ES": "Fase 1"
     },
     "olpnDA": {
-        "ko-KR": "2 스테이지",
         "en-US": "Stage 2",
         "pt-BR": "Fase 2",
         "es-ES": "Fase 2"
     },
     "o1pnDA": {
-        "ko-KR": "3 스테이지",
         "en-US": "Stage 3",
         "pt-BR": "Fase 3",
         "es-ES": "Fase 3"
     },
     "pFpnDA": {
-        "ko-KR": "보스전",
         "en-US": "Boss Battle",
         "pt-BR": "Batalha contra o chefe",
         "es-ES": "Combate contra el jefe"
     },
     "pVpnDA": {
-        "ko-KR": "오스카",
         "en-US": "Oscar",
         "pt-BR": "Oscar",
         "es-ES": "Oscar"
     },
     "plpnDA": {
-        "ko-KR": "[오스카]\n첫번째와 두번째 시험은 제가 감독하게 될거예요. 모쪼록 {0}씨가 무사히 시험을 통과하길 기원합니다.",
         "en-US": "[Oscar]\nI will be supervising your first and second tests. I sincerely hope {0} passes the exams safely.",
-        "pt-BR": "[Oscar]\nVou supervisionar a primeira e a segunda provas. Espero sinceramente que o {0} passe nas provas sem problemas.",
+        "pt-BR": "[Oscar]\nVou supervisionar a primeira e a segunda provas. Espero sinceramente que {0} passe nas provas sem problemas.",
         "es-ES": "[Oscar]\nYo supervisaré la primera y la segunda prueba. Espero de todo corazón que {0} las supere sin problemas."
     },
     "p1pnDA": {
-        "ko-KR": "[오스카]\n이 앞으로 걸어가다보면 부화되기 직전의 알들이 나타날거예요 드래곤의 알은 부화직전 교감한 자의 마력을 부모나 친구처럼 느낀다고 하죠",
         "en-US": "[Oscar]\nIf you go forward from here, you'll see eggs that are about to hatch. Dragon hatchlings feel kinship with the person that they've communed with just before they hatch.",
         "pt-BR": "[Oscar]\nSe você seguir em frente, vai encontrar ovos prestes a chocar. Dizem que, pouco antes de chocar, os ovos de dragão sentem a magia de quem se conecta com eles como se fossem pais ou amigos.",
         "es-ES": "[Oscar]\nSi sigues caminando hacia adelante, verás unos huevos a punto de eclosionar. Dicen que, justo antes de nacer, los huevos de dragón perciben la magia de quien se comunica con ellos como si fuera un padre o un amigo."
     },
     "qFpnDA": {
-        "ko-KR": "[오스카]\n이건 {0}씨를 위한 시험이나 마찬가지예요 미래의 드래곤들과 미리 인사를 해두는것에 가까우니까요.",
         "en-US": "[Oscar]\nThis is essentially a test for {0}. It's like getting to meet the future dragons beforehand.",
         "pt-BR": "[Oscar]\nIsso é praticamente um teste para o {0}, já que é como se fosse um cumprimento antecipado aos futuros dragões.",
         "es-ES": "[Oscar]\nEsto es prácticamente una prueba para ti, {0}, ya que es como saludar de antemano a los futuros dragones."
     },
     "qVpnDA": {
-        "ko-KR": "[오스카]\n다만, 드래곤과의 낯선 교감에 알이 거부반응을 보일수도 있어요.",
         "en-US": "[Oscar]\nHowever, the eggs may react negatively to this unfamiliar interaction with dragons.",
         "pt-BR": "[Oscar]\nNo entanto, devido à estranheza da conexão com um dragão, o ovo pode apresentar uma reação de rejeição.",
         "es-ES": "[Oscar]\nSin embargo, es posible que el huevo tenga una reacción de rechazo ante esa conexión desconocida con un dragón."
     },
     "qlpnDA": {
-        "ko-KR": "거부반응이 일어나면 어떻게 되죠?",
         "en-US": "What happens if they reject you?",
         "pt-BR": "O que acontece se isso ocorrer?",
         "es-ES": "¿Qué pasa si se produce una reacción de rechazo?"
     },
     "q1pnDA": {
-        "ko-KR": "[오스카]\n{0} 씨의 생기를 흡수하려 할거예요. ^0000FF생명력과 마력^000000을 빼앗긴다는 이야기죠. 처음부터 알이 교감해주려하진 않을테니 관리를 잘 해주셔야해요",
-        "en-US": "[Oscar]\nThey'll try to absorb {0}'s vitality. That means draining both ^0000FFlife force and mana^000000. The egg won't connect with you right away, so you'll need to manage it carefully.",
-        "pt-BR": "[Oscar]\nEle vai tentar absorver a vitalidade do {0}. Isso significa que você perderá ^0000FF pontos de vida e ^000000 pontos de magia. Como o ovo não vai se comunicar com você logo de cara, você precisa cuidar bem disso.",
-        "es-ES": "[Oscar]\nIntentará absorber tu vitalidad, {0}. Es decir, te quitará ^0000FFpuntos de vida y ^000000puntos de magia. Como el huevo no va a querer conectar contigo desde el principio, tienes que cuidarlo bien."
+        "en-US": "[Oscar]\nThey'll try to absorb {0}'s vitality. That means draining both ^0000FFlife force and spirit^000000. The egg won't connect with you right away, so you'll need to manage it carefully.",
+        "pt-BR": "[Oscar]\nEle vai tentar absorver a sua vitalidade, {0}. Isso significa que você perderá ^0000FFpontos de vida e espírito (HP e SP)^000000. Como o ovo não vai se comunicar com você logo de cara, você precisa cuidar bem disso.",
+        "es-ES": "[Oscar]\nIntentará absorber tu vitalidad, {0}. Es decir, te quitará ^0000FFpuntos de vida y puntos de espíritu (HP y SP)^000000. Como el huevo no va a querer conectar contigo desde el principio, tienes que cuidarlo bien."
     },
     "rFpnDA": {
-        "ko-KR": "[오스카]\n그럼 시작해볼까요. 최소 7개 이상의 알과 교감에 성공해주세요.",
         "en-US": "[Oscar]\nShall we begin? Please succeed in communing with at least 7 eggs.",
-        "pt-BR": "[Oscar]\nEntão, vamos começar? Tenta estabelecer uma conexão com pelo menos 7 ovos.",
+        "pt-BR": "[Oscar]\nEntão, vamos começar? Tente estabelecer uma conexão com pelo menos 7 ovos.",
         "es-ES": "[Oscar]\nBueno, ¿empezamos? Intenta conectar con al menos 7 huevos."
     },
     "rVpnDA": {
-        "ko-KR": "오스카: 교감이 다 끝나신 것 같군요. 잠시 기다리세요 제가 다음 장소로 이동시켜드릴게요",
         "en-US": "Oscar: It seems you're done communing with them. Please wait. I'll send you to the next place.",
-        "pt-BR": "Oscar: Parece que a sintonia terminou. Espera um pouco, vou te levar para o próximo local",
+        "pt-BR": "Oscar: Parece que a sintonia terminou. Espera um pouco, vou te levar para o próximo local.",
         "es-ES": "Oscar: Parece que ya terminaste de establecer la conexión. Espera un momento, te llevaré al siguiente lugar."
     },
     "rlpnDA": {
-        "ko-KR": "^0000FF당신의 손길에 부드럽게 마력을 휘감아옵니다. 이 알은 당신과의 교감에 성공했습니다^000000",
-        "en-US": "^0000FFIt gently wraps your hand with its mana. You've successfully communed with this egg.^000000",
-        "pt-BR": "^0000FFA magia envolve suavemente o teu toque. Este ovo conseguiu se conectar contigo^000000",
+        "en-US": "^0000FFIt gently wraps your hand with its magic. You've successfully communed with this egg.^000000",
+        "pt-BR": "^0000FFA magia envolve suavemente o teu toque. Este ovo conseguiu se conectar com você^000000",
         "es-ES": "^0000FFLa magia se envuelve suavemente en tus manos. Este huevo ha logrado conectar contigo^000000"
     },
     "r1pnDA": {
-        "ko-KR": "알에 손을 대고 교감을 시작합니다. ^E25A68교감하는 동안 당신의 생명력과 마력이 교감에 성공할때까지 깎여나갑니다.^000000",
         "en-US": "Touch the egg and start communing. ^E25A68Your HP and SP will continuously decrease until you succeed.^000000",
-        "pt-BR": "Coloca a mão no ovo e começa a comunhão. ^E25A68Enquanto comunicas, tua vida e tua magia vão diminuindo até que a comunhão seja bem-sucedida.^000000",
-        "es-ES": "Toca el huevo y comienza la conexión. ^E25A68Mientras te conectas, tu vida y tu magia se van reduciendo hasta que la conexión sea exitosa.^000000"
+        "pt-BR": "Coloque a mão no ovo e comece a comunhão. ^E25A68Enquanto se comunica, sua vida e seu espírito vão diminuindo até que a comunhão seja bem-sucedida.^000000",
+        "es-ES": "Toca el huevo y comienza la conexión. ^E25A68Mientras te conectas, tu vida y tu espíritu se van reduciendo hasta que la conexión sea exitosa.^000000"
     },
     "sFpnDA": {
-        "ko-KR": "그만둔다",
         "en-US": "I'm quitting",
         "pt-BR": "Vou parar",
         "es-ES": "Me rindo"
     },
     "sVpnDA": {
-        "ko-KR": "시작한다",
         "en-US": "Start",
         "pt-BR": "Começar",
         "es-ES": "Comienza"
     },
     "slpnDA": {
-        "ko-KR": "교감을 그만두었습니다.",
         "en-US": "Communication has ended.",
         "pt-BR": "A sintonia foi interrompida.",
         "es-ES": "Se ha interrumpido la sincronización."
     },
     "s1pnDA": {
-        "ko-KR": "^FF0000당신이 빈사상태가 되기 직전까지도 교감이 이루어지지 않았습니다. 체력과 SP를 회복하고 다시 시도해주십시오.^000000",
         "en-US": "^FF0000Communion didn't occur until you were near death. Please recover HP and SP, and then try again.^000000",
-        "pt-BR": "^FF0000A sintonia não foi estabelecida até você ficar à beira da morte. Recupere sua saúde e SP e tente novamente.^000000",
-        "es-ES": "^FF0000La conexión no se logró hasta justo antes de que quedaras moribundo. Recupera tu salud y tu SP y vuelve a intentarlo.^000000"
+        "pt-BR": "^FF0000A sintonia não foi estabelecida até você ficar à beira da morte. Recupere HP e SP e tente novamente.^000000",
+        "es-ES": "^FF0000La conexión no se logró hasta justo antes de que quedaras moribundo. Recupera HP y SP y vuelve a intentarlo.^000000"
     },
     "tFpnDA": {
-        "ko-KR": "알에 손을 대고 교감을 시작합니다. ^0055FF교감하는 동안 당신의 생명력과 마력이 교감에 성공할때까지 깎여나갑니다.^000000",
         "en-US": "Touch the egg and start communing. ^0055FFYour HP and SP will continuously decrease until you succeed.^000000",
-        "pt-BR": "Coloca a mão no ovo e começa a comunhão. ^0055FFEnquanto comunicas, tua vida e tua magia vão diminuindo até que a comunhão seja bem-sucedida.^000000",
-        "es-ES": "Toca el huevo y comienza la conexión. ^0055FFMientras te conectas, tu vida y tu magia se van reduciendo hasta que la conexión sea exitosa.^000000"
+        "pt-BR": "Coloque a mão no ovo e comece a comunhão. ^0055FFEnquanto se comunica, sua vida e seu espírito vão diminuindo até que a comunhão seja bem-sucedida.^000000",
+        "es-ES": "Toca el huevo y comienza la conexión. ^0055FFMientras te conectas, tu vida y tu espíritu se van reduciendo hasta que la conexión sea exitosa.^000000"
     }
 }

@@ -1,1305 +1,1090 @@
 {
     "gD4vDQ": {
-        "ko-KR": "구마몬",
         "en-US": "Kumamon",
         "pt-BR": "Kumamon",
         "es-ES": "Kumamon"
     },
     "gT4vDQ": {
-        "ko-KR": "==100레벨 이상만 진행 가능한 이벤트입니다.==",
         "en-US": "==Exclusive event for adventurers above Lvl 100.==",
         "pt-BR": "==Evento exclusivo para aventureiros acima do Nv. 100.==",
-        "es-ES": "==Evento exclusivo para aventureros de Lv. 100 o más.=="
+        "es-ES": "==Evento exclusivo para trotamundos de Lv. 100 o más.=="
     },
     "gj4vDQ": {
-        "ko-KR": "조금 떨어진 곳에 커다란 검은 그림자가 서 있는 게 보인다.",
         "en-US": "Suddenly, a large dark silhouette appears standing in the distance...",
         "pt-BR": "De repente, uma silhueta escura desponta no horizonte...",
         "es-ES": "De repente, una silueta oscura aparece en el horizonte..."
     },
     "gz4vDQ": {
-        "ko-KR": "곰처럼 보이지만, 유머러스하고 친근해 보이는 얼굴이다.",
         "en-US": "It looks like a bear, but his expression is funny and friendly.",
         "pt-BR": "Parece um urso, mas a sua expressão é bem humorada e amigável.",
         "es-ES": "Parece un oso, pero su expresión es muy alegre y amigable."
     },
     "hD4vDQ": {
-        "ko-KR": "가까이 다가가자, 상대도 이쪽을 알아챈 듯 크게 손을 흔들며 반겨주었다.",
         "en-US": "Approaching you, he shakes your hand enthusiastically as if you knew each other.",
         "pt-BR": "Ao se aproximar, ele aperta a sua mão com animação, como se vocês já se conhecessem.",
         "es-ES": "Al acercarse, te da la mano con emoción, ¡como si ya se conocieran!"
     },
     "hT4vDQ": {
-        "ko-KR": "[구마몬]\n안녕구마~!\n나는 '구마몬'이다몬\n미드가르드 대륙의 친구에게 구마모토현을 소개하러 왔다몬!",
         "en-US": "[Kumamon]\nHi!\nI'm Kumamon!\nI came here to introduce Kumamoto Prefecture to my friends in Midgard!",
         "pt-BR": "[Kumamon]\nOi!\nSou o Kumamon!\nVim aqui apresentar a Província de Kumamoto aos meus amigos de Midgard!",
         "es-ES": "[Kumamon]\n¡Hola!\n¡Soy Kumamon!\n¡Vine a presentarles la Prefectura de Kumamoto a mis amigos de Midgard!"
     },
     "hj4vDQ": {
-        "ko-KR": "구마모토현?",
         "en-US": "Kumamoto Prefecture?",
         "pt-BR": "Província de Kumamoto?",
         "es-ES": "¿Prefectura de Kumamoto?"
     },
     "hz4vDQ": {
-        "ko-KR": "[구마몬]\n맞아구마!\n맛있는 게 잔뜩 있고 관광 명소도 가득한 구마모토현을 꼭 체험해 봐줬으면 좋겠다몬",
         "en-US": "[Kumamon]\nThat's right!\nIt would be great if you could try all the delicious food and visit the tourist attractions there!",
         "pt-BR": "[Kumamon]\nIsso mesmo!\nSeria ótimo se você pudessem provar a culinária deliciosa de lá e ainda visitar as atrações turísticas!",
         "es-ES": "[Kumamon]\n¡Exacto!\n¡Sería genial que pudieran probar nuestra deliciosa comida y visitar los lugares turísticos!"
     },
     "iD4vDQ": {
-        "ko-KR": "구마모토현을 체험...? 어떻게?",
         "en-US": "Visit Kumamoto? But how?",
         "pt-BR": "Visitar Kumamoto? Mas como?",
         "es-ES": "¿Visitar Kumamoto? ¿Pero cómo?"
     },
     "iT4vDQ": {
-        "ko-KR": "[????]\n그건 나에게 맡겨주게.",
         "en-US": "[????]\nJust leave it to me!",
         "pt-BR": "[????]\nDeixa comigo!",
         "es-ES": "[????]\n¡Déjamelo a mí!"
     },
     "ij4vDQ": {
-        "ko-KR": "바르문트?",
         "en-US": "Varmunt?",
         "pt-BR": "Varmunt?",
         "es-ES": "Varmunt?"
     },
     "iz4vDQ": {
-        "ko-KR": "[바르문트]\n음. 먼저 경위를 설명하겠네.\n맛있는 것을 찾아 여행하다가 우연히 일본의 구마모토현에 도착했지.",
         "en-US": "[Varmunt]\nHm... First, I have to give you the details.\nIf you travel in search of delicious food, you may get to Kumamoto Prefecture, in Japan.",
         "pt-BR": "[Varmunt]\nHum...Primeiro, preciso te informar alguns detalhes.\nSe você viajar em busca de comida boa, talvez você chegue até a Província de Kumamoto, no Japão.",
         "es-ES": "[Varmunt]\nHum... Primero, tengo que darte algunos detalles.\nSi viajas buscando buena comida, tal vez llegues hasta la Prefectura de Kumamoto, en Japón."
     },
     "jD4vDQ": {
-        "ko-KR": "[바르문트]\n거기서 맛본 수박과 토마토가 너무 맛있어서, 가져가도 되는지 구마몬과 상의했네.\n물론 흔쾌히 허락해줬지…….",
         "en-US": "[Varmunt]\nWatermelon and tomatoes there are so delicious, I should ask Kumamon if I can bring some back.\nI'm sure he will gladly allow it, right?",
         "pt-BR": "[Varmunt]\nAs melancias e os tomates de lá são tão deliciosos! Preciso perguntar pro Kumamon se posso trazer alguns.\nEle deve permitir, não é?",
         "es-ES": "[Varmunt]\n¡Las sandías y los tomates de allá son riquísimos! Tengo que preguntarle a Kumamon si puedo traer algunos.\nMe dejará, ¿verdad?"
     },
     "jT4vDQ": {
-        "ko-KR": "[구마몬]\n채소와 과일은 갓 수확한 게 최고다구마",
         "en-US": "[Kumamon]\nFreshly harvested fruits and vegetables are the best!",
         "pt-BR": "[Kumamon]\nFrutas e vegetais recém-colhidos são a melhor coisa!",
         "es-ES": "[Kumamon]\n¡Las frutas y verduras recién cosechadas son lo mejor de la vida!"
     },
     "jj4vDQ": {
-        "ko-KR": "[바르문트]\n..라고 하더군. 확실히 갓 수확한 건 별미지.",
         "en-US": "[Varmunt]\nWhat he said. Freshly harvested food are delicacies!",
         "pt-BR": "[Varmunt]\nConcordo com ele. Alimentos recém-colhidos são iguarias!",
         "es-ES": "[Varmunt]\nEstoy de acuerdo con él. ¡Los alimentos frescos son un manjar!"
     },
     "jz4vDQ": {
-        "ko-KR": "[바르문트]\n그럼 수박과 토마토를 신선하게 맛보려면 어떻게 해야 할까…… 농장째로 이쪽으로 옮기면 되지 않겠는가, 하고 생각했네.",
         "en-US": "[Varmunt]\nSo, how can you try fresh watermelon and tomatoes?\nMaybe you should follow this way to the farm...",
         "pt-BR": "[Varmunt]\nEntão, como você colhe melancia e tomate fresco?\nAcho que seguindo por esse caminho até a fazenda...",
         "es-ES": "[Varmunt]\nEntonces, ¿cómo cosechas sandías y tomates frescos?\nCreo que siguiendo este camino hacia la granja..."
     },
     "kD4vDQ": {
-        "ko-KR": "설마... 해낸 건가요?",
         "en-US": "Did it really work...?",
         "pt-BR": "Será que... funcionou mesmo?",
         "es-ES": "¿De verdad... funcionó?"
     },
     "kT4vDQ": {
-        "ko-KR": "[바르문트]\n음. 일시적이긴 하지만, 특별한 장소에 농장을 통째로 옮기는 데 성공했네.\n이름하여……",
         "en-US": "[Varmunt]\nHm...  It's temporary, but I suceeded in moving the whole farm to a special place.\nKnown as...",
         "pt-BR": "[Varmunt]\nHmm... É temporário, mas eu consegui mover toda a fazenda para um lugar especial.\nChamado de...",
         "es-ES": "[Varmunt]\nHm... Es temporal, pero logré mover toda la granja a un lugar especial.\nSe llama..."
     },
     "kj4vDQ": {
-        "ko-KR": "[구마몬]\n구마모토 체험 농장이다몬!\n구마모토현의 매력이 가득 담긴 최고의 농장이다몬",
-        "en-US": "[Kumamon]\n『Kumamoto Farm Experience』!\nThe best and most charming farm in the Prefecture!",
-        "pt-BR": "[Kumamon]\n『Um Dia na Fazenda em Kumamoto』!\nA melhor e mais charmosa fazenda da província!",
-        "es-ES": "[Kumamon]\n¡『Un Día en la Granja de Kumamoto』!\n¡La mejor y más encantadora granja de la prefectura!"
+        "en-US": "[Kumamon]\nKumamoto Farm Experience!\nThe best and most charming farm in the Prefecture!",
+        "pt-BR": "[Kumamon]\nUm Dia na Fazenda em Kumamoto!\nA melhor e mais charmosa fazenda da província!",
+        "es-ES": "[Kumamon]\n¡Un Día en la Granja de Kumamoto!\n¡La mejor y más encantadora granja de la prefectura!"
     },
     "kz4vDQ": {
-        "ko-KR": "[바르문트]\n'구마모토 체험 농장'에서는 수박과 토마토 수확뿐만 아니라, 내가 보고 온 구마모토현의 관광 명소도 몇 군데 재현해 두었지. 구마몬은 그 기획 담당으로 힘을 보태줬다네.",
         "en-US": "[Varmunt]\nAt \"Kumamoto Farm Experience\",  besides the watermelon and tomato crops, I've recreated some of the tourist attractions from the prefecture. Kumamon will assist you on this journey.",
         "pt-BR": "[Varmunt]\nNo evento \"Um Dia na Fazenda em Kumamoto\", além das plantações de melancia e tomate, recriei algumas das atrações turísticas da província.\nKumamon vai te auxiliar nessa jornada.",
         "es-ES": "[Varmunt]\nEn el evento \"Un Día en la Granja de Kumamoto\", además de los cultivos de sandía y tomate, he recreado algunas atracciones turísticas de la prefectura.\nKumamon te ayudará en este viaje."
     },
     "lD4vDQ": {
-        "ko-KR": "[구마몬]\n'구마모토 농업부장 겸 행복부장'으로서, 모두에게 구마모토현의 매력을 확실하게 전해주겠다몬",
         "en-US": "[Kumamon]\nAs the \"Head of Kumamoto Agriculture and Happiness Department\", it's my pleasure to introduce the charms of the region to everyone!",
         "pt-BR": "[Kumamon]\nEnquanto \"Presidente do Departamento de Agricultura e Felicidade de Kumamoto\", será um prazer apresentar os charmes da região para todo mundo!",
         "es-ES": "[Kumamon]\nComo \"Presidente del Departamento de Agricultura y Felicidad de Kumamoto\", ¡será un placer mostrarles a todos los encantos de la región!"
     },
     "lT4vDQ": {
-        "ko-KR": "[바르문트]\n그런 이유로, 자네도 구마모토현을 맛보지 않겠나?",
         "en-US": "[Varmunt]\nThat being said, aren't you going to visit Kumamoto?",
         "pt-BR": "[Varmunt]\nEntão, que tal visitar Kumamoto?",
         "es-ES": "[Varmunt]\nEntonces, ¿te animas a visitar Kumamoto?"
     },
     "lj4vDQ": {
-        "ko-KR": "좋아요! 맛보고 싶어요!",
         "en-US": "I'd love to! I want to go there!",
         "pt-BR": "Adoraria! Quero ir lá!",
         "es-ES": "¡Me encantaría! ¡Quiero ir!"
     },
     "lz4vDQ": {
-        "ko-KR": "생각 좀 해볼게요.",
         "en-US": "I will think about it.",
         "pt-BR": "Vou pensar.",
         "es-ES": "Lo voy a pensar."
     },
     "mD4vDQ": {
-        "ko-KR": "[바르문트]\n그래야지! 그럼 '구마모토 체험 농장'으로 안내하지.",
         "en-US": "[Varmunt]\nGreat! So let's guide you through Kumamoto Farm Experience!",
         "pt-BR": "[Varmunt]\nÓtimo! Agora vamos te guiar pelo evento \"Um Dia na Fazenda\"!",
         "es-ES": "[Varmunt]\n¡Genial! ¡Ahora vamos a guiarte por el evento \"Un Día en la Granja\"!"
     },
     "mT4vDQ": {
-        "ko-KR": "[바르문트]\n그렇군…….\n구마모토현을 맛보고 싶어지면 언제든 찾아오게.",
         "en-US": "[Varmunt]\nOkay, then...\nWhen you are ready to visit Kumamoto, come and find me.",
         "pt-BR": "[Varmunt]\nAh, então tá...\nQuando quiser visitar Kumamoto, só me procurar.",
         "es-ES": "[Varmunt]\nAh, bueno...\nCuando quieras visitar Kumamoto, llámame."
     },
     "mj4vDQ": {
-        "ko-KR": "[구마몬]\n기다리고 있겠다몬~",
         "en-US": "[Kumamon]\nI'll be waiting for you!",
         "pt-BR": "[Kumamon]\nEstarei te esperando!",
         "es-ES": "[Kumamon]\n¡Te estaré esperando!"
     },
     "mz4vDQ": {
-        "ko-KR": "[구마몬]\n{0} 님, 환영한다구마!\n오늘도 '구마모토 체험 농장'에 갈 거냐몬?",
         "en-US": "[Kumamon]\nWelcome, {0}!\nAre you going to Kumamoto Farm Experience?",
         "pt-BR": "[Kumamon]\nBoas-vindas, {0}!\nVocê veio para o evento \"Um Dia na Fazenda\"?",
         "es-ES": "[Kumamon]\n¡Bienvenido, {0}!\n¿Viniste para el evento \"Un Día en la Granja\"?"
     },
     "nD4vDQ": {
-        "ko-KR": "농장에 간다",
         "en-US": "Go to the farm",
         "pt-BR": "Ir pra fazenda",
         "es-ES": "Ir a la granja"
     },
     "nT4vDQ": {
-        "ko-KR": "잠깐 기다려!",
         "en-US": "Another time",
         "pt-BR": "Fica pra próxima",
         "es-ES": "En otro momento"
     },
     "nj4vDQ": {
-        "ko-KR": "[구마몬]\n일행 한 명, 안내한다몬~",
         "en-US": "[Kumamon]\nI'll guide you, my dear friend!",
         "pt-BR": "[Kumamon]\nEu vou te guiar, colega!",
         "es-ES": "[Kumamon]\n¡Yo te guío, colega!"
     },
     "nz4vDQ": {
-        "ko-KR": "[구마몬]\n준비가 되면 다시 말 걸어달라몬!\n기다리고 있다몬~",
         "en-US": "[Kumamon]\nYou can talk to me whenever you're ready.\nI'll be waiting for you!",
         "pt-BR": "[Kumamon]\nPode vir falar comigo quando quiser.\nEstarei te esperando!",
         "es-ES": "[Kumamon]\nVen a hablar conmigo cuando quieras.\n¡Te estaré esperando!"
     },
     "oD4vDQ": {
-        "ko-KR": "[구마몬]\n'구마모토 체험 농장'에 어서 오라몬♪",
         "en-US": "[Kumamon]\nWelcome to \"Kumamoto Farm Experience\"!",
         "pt-BR": "[Kumamon]\nBoas-vindas ao evento \"Um Dia na Fazenda\"!",
         "es-ES": "[Kumamon]\n¡Bienvenido al evento \"Un Día en la Granja\"!"
     },
     "oT4vDQ": {
-        "ko-KR": "그 봉제인형, 무지 멋지다몬",
         "en-US": "This plush toy is so lovely!",
         "pt-BR": "Essa pelúcia é muito fofa!",
         "es-ES": "¡Este peluche es demasiado tierno!"
     },
     "oj4vDQ": {
-        "ko-KR": "오늘도 정말 끝내준다몬",
         "en-US": "Today was an amazing day!",
         "pt-BR": "O dia hoje foi maravilhoso!",
         "es-ES": "¡Hoy fue un día maravilloso!"
     },
     "oz4vDQ": {
-        "ko-KR": "[구마몬]\n오늘은 하고 싶은 게 뭐냐구마?",
         "en-US": "[Kumamon]\nWhat do you want to do today?",
         "pt-BR": "[Kumamon]\nO que você quer fazer hoje?",
         "es-ES": "[Kumamon]\n¿Qué quieres hacer hoy?"
     },
     "pD4vDQ": {
-        "ko-KR": "구마모토에 대해 알고 싶어",
         "en-US": "I want to know more about Kumamoto",
         "pt-BR": "Quero saber mais sobre Kumamoto",
         "es-ES": "Quiero saber más sobre Kumamoto"
     },
     "pT4vDQ": {
-        "ko-KR": "특산물 수확 체험을 하고 싶어",
         "en-US": "I want to harvest regional products",
         "pt-BR": "Quero colher produtos regionais",
         "es-ES": "Quiero cosechar productos regionales"
     },
     "pj4vDQ": {
-        "ko-KR": "관광을 하고 싶어",
         "en-US": "I want to visit the touristic spots",
         "pt-BR": "Quero visitar pontos turísticos",
         "es-ES": "Quiero visitar lugares turísticos"
     },
     "pz4vDQ": {
-        "ko-KR": "[구마몬]",
         "en-US": "[Kumamon]",
         "pt-BR": "[Kumamon]",
         "es-ES": "[Kumamon]"
     },
     "qD4vDQ": {
-        "ko-KR": "특산물 수확을 도와주면 가르쳐 준다몬~",
         "en-US": "If you help me, I'll teach you how to harvest.",
         "pt-BR": "Se você me ajudar, te ensino a colher frutas.",
         "es-ES": "Si me ayudas, te enseño a cosechar frutas."
     },
     "qT4vDQ": {
-        "ko-KR": "[바르문트]\n구마모토를 알기 위해선 농사 체험이 최고다! 먼저 특산물을 수확해 보게.\n수확 방법은 내가 가르쳐주지.",
         "en-US": "[Varmunt]\nThe best way to learn more about Kumamoto is through the farm experience! Try harvesting first.\nI'm going to teach you how to harvest.",
         "pt-BR": "[Varmunt]\nO melhor jeito de conhecer mais de Kumamoto é passando o dia na fazenda! Comece por lá.\nVou ensinar você a colher frutas.",
         "es-ES": "[Varmunt]\n¡La mejor forma de conocer Kumamoto es pasando el día en la granja! Empieza por ahí.\nYo te enseñaré a cosechar frutas."
     },
     "qj4vDQ": {
-        "ko-KR": "[구마몬]\n수확 체험은 바르문트 씨 담당이다몬\n구마모토의 수박과 토마토를 잔뜩 맛봐 줬으면 한다몬~",
         "en-US": "[Kumamon]\nVarmunt is in charge of the harvest experience.\nI hope you enjoy the watermelon and the tomatoes from Kumamoto!",
         "pt-BR": "[Kumamon]\nVarmunt é o responsável pelo evento na fazenda.\nEspero que você goste das melancias e dos tomates de Kumamoto!",
         "es-ES": "[Kumamon]\nVarmunt es el encargado del evento en la granja.\n¡Espero que te gusten las sandías y los tomates de Kumamoto!"
     },
     "qz4vDQ": {
-        "ko-KR": "구마모토의 수박은 일본 1위~",
         "en-US": "Kumamoto's watermelon is the #1 in Japan!",
         "pt-BR": "A melancia de Kumamoto é a nº 1 do Japão!",
         "es-ES": "¡La sandía de Kumamoto es la n.º 1 de Japón!"
     },
     "rD4vDQ": {
-        "ko-KR": "구마모토의 토마토도 일본 1위~",
         "en-US": "Kumamoto's tomato is the #1 in Japan!",
         "pt-BR": "O tomate de Kumamoto é o nº 1 do Japão!",
         "es-ES": "¡El tomate de Kumamoto es el n.º 1 de Japón!"
     },
     "rT4vDQ": {
-        "ko-KR": "구마모토의 특산물 '데코폰'",
         "en-US": "Kumamoto's specialty: \"dekopon\"",
         "pt-BR": "Especialidade de Kumamoto:  \"dekopon\"",
         "es-ES": "Especialidad de Kumamoto: \"dekopon\""
     },
     "rj4vDQ": {
-        "ko-KR": "구마모토의 향토 요리 '겨자 연근'",
         "en-US": "Kumamoto's local dish: lotus root with mustard",
         "pt-BR": "Prato típico de Kumamoto: raiz de lótus com mostarda",
         "es-ES": "Plato típico de Kumamoto: raíz de loto con mostaza"
     },
     "rz4vDQ": {
-        "ko-KR": "구마모토의 과자 '이키나리 당고'",
         "en-US": "Kumamoto's sweet snack: \"ikinari dango\"",
         "pt-BR": "Doce de Kumamoto: 'ikinari dango\"",
         "es-ES": "Dulce de Kumamoto: \"ikinari dango\""
     },
     "sD4vDQ": {
-        "ko-KR": "구마모토성에 대해",
         "en-US": "About Kumamoto Castle",
         "pt-BR": "Castelo de Kumamoto",
         "es-ES": "Castillo de Kumamoto"
     },
     "sT4vDQ": {
-        "ko-KR": "아소산에 대해",
         "en-US": "Mount Aso",
         "pt-BR": "Monte Aso",
         "es-ES": "Monte Aso"
     },
     "sj4vDQ": {
-        "ko-KR": "구마몬 스퀘어",
         "en-US": "Kumamon Square",
         "pt-BR": "Praça Kumamon",
         "es-ES": "Plaza Kumamon"
     },
     "sz4vDQ": {
-        "ko-KR": "[구마몬]\n구마모토는 수박 생산량이 무려 일본 1위다몬!\n봄, 여름, 가을~계절마다 다양한 수박을 맛볼 수 있다몬♪",
         "en-US": "[Kumamon]\nKumamoto's watermelon production is the number 1 in Japan!\nSpring, summer, autumn — you can try a different type of watermelon every season!",
         "pt-BR": "[Kumamon]\nA produção de melancia de Kumamoto é a nº 1 do Japão! \nÉ possível provar um tipo diferente de melancia a cada estação: primavera, verão e outono.",
         "es-ES": "[Kumamon]\n¡La producción de sandía de Kumamoto es la n.º 1 en todo Japón!\nPuedes probar un tipo diferente de sandía en cada estación: primavera, verano y otoño."
     },
     "tD4vDQ": {
-        "ko-KR": "[구마몬]\n구마모토는 토마토 생산량도 일본 1위다몬!\n일본 토마토 5개 중 1개는 구마모토산이라고 해도 될 정도로 엄청 많이 재배되고 있다몬",
         "en-US": "[Kumamon]\nKumamoto's tomato production is the number 1 in Japan!\nEvery 5 Japanese tomatoes, 1 is from Kumamoto! That means they really cultivate it a lot!",
         "pt-BR": "[Kumamon]\nA produção de tomate de Kumamoto é a nº 1 do Japão! \nA cada 5 tomates japoneses, 1 vem de Kumamoto!  Isso quer dizer que eles produzem muito mesmo!",
         "es-ES": "[Kumamon]\n¡La producción de tomate de Kumamoto es la n.º 1 de Japón!\n¡De cada 5 tomates japoneses, 1 viene de Kumamoto! ¡Eso significa que producen muchísimo!"
     },
     "tT4vDQ": {
-        "ko-KR": "[구마몬]\n달콤하고 즙이 풍부한 과일, '데코폰'이라는 거 들어봤냐몬?\n감귤류 '시라누이' 중에서도 특정 기준을 만족시킨 것만이 '데코폰'이라는 이름을 받을 수 있다몬♪\n생김새도 독특해서 정말 귀엽다몬! 가게에서 보이면 꼭 확인하라구! 체크구마~",
         "en-US": "[Kumamon]\nHave you heard about the sweet juicy fruit called \"dekopon\"?\nAmong the Shiranui citrus fruits, only the ones that meet a special criteria can be called \"dekopon\".\nIts unique appearance is very cute! If you find it at the grocery store, check it out! Really!",
         "pt-BR": "[Kumamon]\nJá ouviu falar de uma fruta bem doce e suculenta chamada \"dekopon\"? \nNo grupo das frutas cítricas de tipo Shiranui, somente aquelas que atendem critérios específicos podem ser classificadas como \"dekopon\".\nSua aparência única é muito fofa! Se você encontrá-la no mercado, dê uma olhada. Sério!",
         "es-ES": "[Kumamon]\n¿Has oído hablar de una fruta súper dulce y jugosa llamada \"dekopon\"?\nEn el grupo de los cítricos tipo Shiranui, solo los que cumplen criterios específicos pueden llamarse \"dekopon\".\n¡Su apariencia es única y muy tierna! Si la ves en el mercado, échale un vistazo. ¡En serio!"
     },
     "tj4vDQ": {
-        "ko-KR": "[구마몬]\n연근 구멍 속에 겨자 양념을 가득 채워서 정성껏 튀긴 음식이다몬♪\n영양도 좋고, 먹으면 힘이 불끈불끈 솟는다몬!",
         "en-US": "[Kumamon]\nIt is a carefully fried dish of lotus root filled with mustard sauce.\nThe sauce is so tasty, you will feel your energy levels going up!",
         "pt-BR": "[Kumamon]\nÉ um prato de raiz de lótus frita com cuidado e preenchida com mostarda.\nO molho é delicioso, você vai sentir a energia voltando pro corpo!",
         "es-ES": "[Kumamon]\nEs un plato de raíz de loto frita con cuidado y rellena de mostaza.\n¡La salsa es deliciosa, sentirás cómo te vuelve la energía al cuerpo!"
     },
     "tz4vDQ": {
-        "ko-KR": "[구마몬]\n'이키나리 당고'의 '이키나리'는 '간단한, 손쉬운'이란 뜻이다몬♪\n떡 안에 둥글게 썬 고구마가 들어 있어서 포슬포슬하고 달콤한 간식이다몬",
         "en-US": "[Kumamon]\nThe word \"ikinari\" means \"simple\" or \"easy\".\n\"Ikinari dango\" is a snack with a soft circle shaped sweet potato inside.",
         "pt-BR": "[Kumamon]\nA palavra \"ikinari\" significa \"simples\" ou \"fácil\".\n'Ikinari dango\" é um bolinho recheado com batata doce em formato circular.",
         "es-ES": "[Kumamon]\nLa palabra \"ikinari\" significa \"simple\" o \"fácil\".\nEl \"ikinari dango\" es un bocadito relleno de camote con forma circular."
     },
     "uD4vDQ": {
-        "ko-KR": "[구마몬]\n구마모토성을 지은 사람은 성을 잘 짓기로 유명한 '가토 기요마사'다몬♪\n난공불락의 견고한 성으로 불리며, 특히 휘어진 돌담은 무사나 닌자도 오를 수 없어서 '무샤가에시'(무사 되돌리기)라고 불린다몬! 구마모토에 오면 꼭 봐야 한다구마",
         "en-US": "[Kumamon]\nAmong the famous people that lived in Kumamoto Castle is Kato Kiyomasa.\nThe castle is fortified and sturdy, and as its stone walls are particularlly curvy, they call it \"Mushagaeshi\" (Returning Warrior), because no warriors or ninjas could climb it.\nYou have to check it out if you visit Kumamoto!",
         "pt-BR": "[Kumamon]\nUma das personalidades famosas que viveram no Castelo de Kumamoto foi Kato Kiyomasa.\nO castelo é bem fortificado, robusto e, como suas paredes de pedra são bastante curvas, ele era chamado de \"Mushagaeshi\" (Expulsor Guerreiro), porque nem guerreiros nem nnjas conseguiam escalar.\nVocê precisa visitar quando for em Kumamoto!",
         "es-ES": "[Kumamon]\nUna de las figuras famosas que vivió en el Castillo de Kumamoto fue Kato Kiyomasa.\nEl castillo es súper fuerte y robusto; como sus muros de piedra son muy curvos, lo llamaban \"Mushagaeshi\" (Repulsor de Guerreros), porque ni guerreros ni ninjas podían escalarlo.\n¡Tienes que visitarlo cuando vayas a Kumamoto!"
     },
     "uT4vDQ": {
-        "ko-KR": "[구마몬]\n구마모토의 아소산은 지금도 활발하게 활동 중인 화산이다몬!\n아소산의 나카다케에서는 분화구 내부를 볼 수 있다몬!\n자연의 위대함을 직접 체험할 수 있는 정말 소중한 장소다몬",
         "en-US": "[Kumamon]\nThe Mount Aso in Kumamoto is a still active volcano!\nIf you hike it, you can even take a look inside of Nakadake crater!\nIt is a very special place to admire the majesty of nature.",
         "pt-BR": "[Kumamon]\nO Monte Aso em Kumamoto é um vulcão ainda ativo!\nE ao escalá-lo, é possível ver a Cratera Nakadake também!\nÉ um local muito especial para admirar a grandiosidade da natureza.",
         "es-ES": "[Kumamon]\n¡El Monte Aso en Kumamoto es un volcán que sigue activo!\n¡Y al escalarlo, también puedes ver el Cráter Nakadake!\nEs un lugar muy especial para admirar la grandeza de la naturaleza."
     },
     "uj4vDQ": {
-        "ko-KR": "[구마몬]\n구마모토 농장 체험 어땠나몬?\n구마모토와 나의 매력을 더 알고 싶다면 꼭 '구마몬 스퀘어'에 놀러 와줬으면 좋겠다몬!\n내 정기 무대 공연이나 맛있고 즐거운 구마모토 특산품도 가득 있다몬!\n분명 마음에 드는 게 있을 거다몬♪",
         "en-US": "[Kumamon]\nHow was the farm experience in Kumamoto?\nIf you want to know more about the prefecture's charms and my own, come meet me at \"Kumamon Square\"!\nMy regular stage performance is full of delicious regional delicacies. \nI'm sure you'll find something you like!",
         "pt-BR": "[Kumamon]\nComo foi o dia na fazenda em Kumamoto?\nSe quiser conhecer mais os charmes da província e os meus, é só me encontrar na \"Praça Kumamon\"!\nMinha apresentação no palco conta com várias iguarias locais. Tenho certeza que você vai encontrar algo que gosta!",
         "es-ES": "[Kumamon]\n¿Qué tal estuvo el día en la granja de Kumamoto?\n¡Si quieres conocer más sobre mis encantos y los de la prefectura, búscame en la \"Plaza Kumamon\"!\nMi show en el escenario tiene muchas delicias locales. ¡Seguro encuentras algo que te encante!"
     },
     "uz4vDQ": {
-        "ko-KR": "[구마몬]\n수확 체험은 바르문트 씨가 알려줄 거다몬\n구마모토의 수박과 토마토를 왕창 맛 봐주면 좋겠다몬~",
         "en-US": "[Kumamon]\nVarmunt will explain it to you at the Farm Experience.\nI hope you'll taste watermelon and tomato from Kumamoto.",
         "pt-BR": "[Kumamon]\nVarmunt vai te explicar no evento \"Um Dia na Fazenda\".\nEspero que você prove a melancia e o tomate de Kumamoto.",
         "es-ES": "[Kumamon]\nVarmunt te explicará todo en el evento.\nEspero que pruebes la sandía y el tomate de Kumamoto."
     },
     "vD4vDQ": {
-        "ko-KR": "[구마몬]\n농장 안에서 이동이나 촬영은 자유다몬! 추억이 될 사진을 많이 찍어가라몬",
         "en-US": "[Kumamon]\nYou can walk around, record or photograph freely at the farm. Go out there and make lots of memories!",
         "pt-BR": "[Kumamon]\nVocê pode dar uma volta, gravar e fotografar à vontade na fazenda. Vá explorar e criar memórias inesquecíveis!",
         "es-ES": "[Kumamon]\nPuedes pasear, grabar y sacar fotos todo lo que quieras en la granja. ¡Ve a explorar y crear recuerdos inolvidables!"
     },
     "vT4vDQ": {
-        "ko-KR": "바르문트",
         "en-US": "Varmunt",
         "pt-BR": "Varmunt",
         "es-ES": "Varmunt"
     },
     "vj4vDQ": {
-        "ko-KR": "- 소지하고 계신 아이템이 많아 퀘스트를 진행할 수 없습니다. -",
         "en-US": "- You can't continue the quest with too many items on your inventory. -",
         "pt-BR": "- Você não pode continuar a missão com muitos itens no inventário. -",
         "es-ES": "- No puedes continuar la misión con demasiados ítems en el inventario. -"
     },
     "vz4vDQ": {
-        "ko-KR": "- 소지하고 계신 ^i[106885]구마모토산 수박^i[106885]이 많아 퀘스트를 진행할 수 없습니다. -",
         "en-US": "- You have too many ^i[106885]Kumamoto Watermelon^i[106885] to continue the quest. -",
         "pt-BR": "- Você tem ^i[106885]Melancia de Kumamoto^i[106885] demais para continuar a missão. -",
         "es-ES": "- Tienes demasiadas ^i[106885]Sandías de Kumamoto^i[106885] para continuar. -"
     },
     "wD4vDQ": {
-        "ko-KR": "- 소지하고 계신 ^i[106886]구마모토산 토마토^i[106886]가 많아 퀘스트를 진행할 수 없습니다. -",
         "en-US": "- You have too many ^i[106886]Kumamoto Tomato^i[106886] to continue the quest. -",
         "pt-BR": "- Você tem ^i[106886]Tomate de Kumamoto^i[106886] demais para continuar a missão. -",
         "es-ES": "- Tienes demasiados ^i[106886]Tomates de Kumamoto^i[106886] para continuar. -"
     },
     "wT4vDQ": {
-        "ko-KR": "[바르문트]\n구마모토 농장 체험은 재미있었는가? 체험은 1일 1회만 가능하니 내일을 기약하세.",
         "en-US": "[Varmunt]\nAre you having fun at Kumamoto Farm Experience? You can participate only once a day, but promise you'll be back tomorrow.",
         "pt-BR": "[Varmunt]\nO evento \"Um Dia na Fazenda\" está sendo divertido? Você pode participar só uma vez por dia, mas me prometa que voltará amanhã.",
         "es-ES": "[Varmunt]\n¿Te divierte el evento \"Un Día en la Granja\"? Solo puedes participar una vez al día, pero prométeme que volverás mañana."
     },
     "wj4vDQ": {
-        "ko-KR": "[바르문트]\n'구마모토 체험 농장'에 온 걸 환영한다! 이 농장을 둘러보기만 해도 구마모토의 훌륭함을 충분히 알 수 있을 것이다.",
         "en-US": "[Varmunt]\nWelcome to \"Kumamoto Farm Experience\"! Just by looking at it, you'll be able to feel the splendor of the prefecture.",
         "pt-BR": "[Varmunt]\nBoas-vindas ao evento \"Um Dia na Fazenda em Kumamoto\"! Você vai sentir o esplendor da província só de olhar pra ela!",
         "es-ES": "[Varmunt]\n¡Bienvenido a \"Un Día en la Granja de Kumamoto\"! ¡Sentirás todo el esplendor de la prefectura solo con mirarla!"
     },
     "wz4vDQ": {
-        "ko-KR": "[바르문트]\n하지만! 더더욱 알아줬으면 한다! 구마모토의 멋짐을!! 더더욱 맛봐줬으면 한다! 구마모토산 수박과 토마토의 맛을!!\n……그래서 준비했다. '구마모토 농장 체험'이다.",
         "en-US": "[Varmunt]\nBut I hope you'll explore more cool things around the area! Way more! Like tasting watermelon and tomato! That's why I organized this farm experience.",
         "pt-BR": "[Varmunt]\nEspero que você explore mais coisas legais na área! Muito mais! Como colher melancia e tomate, por exemplo! Foi por isso que organizei esse evento.",
         "es-ES": "[Varmunt]\n¡Espero que explores más cosas geniales por aquí! ¡Mucho más! ¡Como cosechar sandías y tomates! Para eso organicé este evento."
     },
     "xD4vDQ": {
-        "ko-KR": "[바르문트]\n'구마모토 농장 체험'이니 당연히 구마모토의 훌륭한 농산물을 수확해 봐야겠지. 농장에는 '구마모토 수박'과 '구마모토 토마토'가 자라고 있는 밭이 있다. 각각 밭에서 하나씩 수확하면 된다.",
         "en-US": "[Varmunt]\nAs this is a farm experience, you have to try harvesting high-quality regional products. Here we grow watermelon and tomato. There is a different field for each product.",
         "pt-BR": "[Varmunt]\nJá que veio passar um dia na fazenda, você precisa tentar colher produtos regionais de qualidade. Aqui plantamos melancia e tomate. Há uma plantação específica para cada um.",
         "es-ES": "[Varmunt]\nYa que viniste a pasar el día, tienes que intentar cosechar productos regionales de calidad. Aquí plantamos sandía y tomate. Hay un campo específico para cada uno."
     },
     "xT4vDQ": {
-        "ko-KR": "[바르문트]\n수확하는 방법은 전적으로 맡기겠다. 다만 상하지 않도록 정성스럽게 따야 한다. 왜냐면, 나중에 여기서 맛있게 먹을 것이기 때문이다!",
         "en-US": "[Varmunt]\nAbout the harveting method, I'll leave it up to you. But you have to pick them carefully not to spoil them, so you can enjoy eating them later!",
         "pt-BR": "[Varmunt]\nQuanto ao método de colheita, deixo com você. Mas você tem que ter cuidado para não esmagar as frutas e poder comê-las depois!",
         "es-ES": "[Varmunt]\nEl método de cosecha te lo dejo a ti. ¡Pero ten cuidado de no aplastar las frutas para que puedas comerlas después!"
     },
     "xj4vDQ": {
-        "ko-KR": "수확 체험을 하겠어요!",
         "en-US": "I want to try harvesting!",
         "pt-BR": "Quero participar da colheita!",
         "es-ES": "¡Quiero participar en la cosecha!"
     },
     "xz4vDQ": {
-        "ko-KR": "[바르문트]\n밭 근처에 가면 농장을 관리하는 어르신이 계시니 궁금한 것이 있다면 물어봐도 좋네. '구마모토산 수박'과 '구마모토산 토마토'를 수확하는 체험은 하루에 한 번만 가능하니 마음껏 즐기고 오게나!",
         "en-US": "[Varmunt]\nIf you have any doubts, near the field lives an elder that you can ask for help. As you are able to participate in Kumamoto's watermelon and tomato Farm Experience only once a day, have all the fun you can!",
         "pt-BR": "[Varmunt]\nSe tiver dúvidas, tem uma idosa morando perto da plantação que pode te ajudar. Como você só pode participar da colheita no evento \"Um Dia na Fazenda\" uma vez por dia, divirta-se o máximo que puder!",
         "es-ES": "[Varmunt]\nSi tienes dudas, hay una anciana cerca del campo que puede ayudarte. Como solo puedes participar en la cosecha del evento una vez al día, ¡diviértete al máximo!"
     },
     "yD4vDQ": {
-        "ko-KR": "[바르문트]\n'구마모토 체험 농장'에 온 걸 환영한다! 구마모토의 훌륭한 농산물을 수확하는 데 관심이 있는가?",
         "en-US": "[Varmunt]\nWelcome to \"Kumamoto Farm Experience\"! Are you interested in harvesting high-quaity regional products?",
         "pt-BR": "[Varmunt]\nBoas-vindas ao evento \"Um Dia na Fazenda em Kumamoto\"! Você tem interesse em colher produtos regionais de qualidade?",
         "es-ES": "[Varmunt]\n¡Bienvenido al evento \"Un Día en la Granja de Kumamoto\"! ¿Te interesa cosechar productos regionales de calidad?"
     },
     "yT4vDQ": {
-        "ko-KR": "수확 체험을 하겠어요!",
         "en-US": "I want to try harvesting!",
         "pt-BR": "Quero participar da colheita!",
         "es-ES": "¡Quiero participar en la cosecha!"
     },
     "yj4vDQ": {
-        "ko-KR": "[바르문트]\n좋아! 다 같이 먹어보자고!",
         "en-US": "[Varmunt]\nNice! Let's eat it all!",
         "pt-BR": "[Varmunt]\nMaravilha! Vamos provar de tudo!",
         "es-ES": "[Varmunt]\nMuy bien! ¡Vamos a probar de todo!"
     },
     "yz4vDQ": {
-        "ko-KR": "냠냠......",
         "en-US": "Yum-yum...",
         "pt-BR": "Nhac, nhac...",
         "es-ES": "Ñam, ñam..."
     },
     "zD4vDQ": {
-        "ko-KR": "바르문트: 냠냠......",
         "en-US": "Varmunt: Yum-yum...",
         "pt-BR": "Varmunt: Nhac, nhac...",
         "es-ES": "Varmunt: Ñam, ñam..."
     },
     "zT4vDQ": {
-        "ko-KR": "[바르문트]",
         "en-US": "[Varmunt]",
         "pt-BR": "[Varmunt]",
         "es-ES": "[Varmunt]"
     },
     "zj4vDQ": {
-        "ko-KR": "<FONT SIZE=18>정말 끝내주게 맛있다몬！</FONT>\n이걸 먹지 않으면 하루가 시작되지 않는군!",
         "en-US": "<FONT SIZE=18>This is so delicious!</FONT>\nYou need one of those to start the day!",
         "pt-BR": "<FONT SIZE=18>Que delícia!</FONT>\nPreciso de uma dessa pra começar o dia!",
         "es-ES": "<FONT SIZE=18>¡Qué delicia!</FONT>\n¡Necesito una de estas para empezar el día!"
     },
     "zz4vDQ": {
-        "ko-KR": "<FONT SIZE=17>정말 끝내주게 맛있다！</FONT>\n몇 번을 먹어도 질리지 않는 맛이군.",
         "en-US": "<FONT SIZE=17>This is exquisite!</FONT>\nNo matter how many I eat, I can't get tired of it!",
         "pt-BR": "<FONT SIZE=17>Quanto sabor!</FONT>\nNão importa quantas eu coma, não me canso!",
         "es-ES": "<FONT SIZE=17>¡Cuánto sabor!</FONT>\n¡No importa cuántas coma, no me canso!"
     },
     "0D4vDQ": {
-        "ko-KR": "<FONT SIZE=16>맛있다몬！</FONT>\n정말 훌륭해.",
         "en-US": "<FONT SIZE=16>Tasty!</FONT>\nThis is really good!",
         "pt-BR": "<FONT SIZE=16>Gostoso!</FONT>\nIsso é bom demais!",
         "es-ES": "<FONT SIZE=16>¡Riquísimo!</FONT>\n¡Esto está demasiado bueno!"
     },
     "0T4vDQ": {
-        "ko-KR": "<FONT SIZE=15>맛있다！</FONT>",
         "en-US": "<FONT SIZE=15>Delicious!</FONT>",
         "pt-BR": "<FONT SIZE=15>Delícia!</FONT>",
         "es-ES": "<FONT SIZE=15>¡Delicioso!</FONT>"
     },
     "0j4vDQ": {
-        "ko-KR": "<FONT SIZE=14>맛있군！</FONT>",
         "en-US": "<FONT SIZE=14>Yummy!</FONT>",
         "pt-BR": "<FONT SIZE=14>Nham!</FONT>",
         "es-ES": "<FONT SIZE=14>¡Ñam!</FONT>"
     },
     "0z4vDQ": {
-        "ko-KR": "[바르문트]\n역시 갓 수확한 신선한 채소를 이길 건 없군!\n구마모토의 자연의 은혜에 감사!!\n이건 사례다. 받아주게.",
         "en-US": "[Varmunt]\nAs expected, nothing beats fresh vegetables!\nI'm thankful for the kindness of Kumamoto's nature!\nThis is one good example that I'll gladly accept it!",
         "pt-BR": "[Varmunt]\nZero surpresa, nada melhor do que vegetais frescos!\nAgradeço à generosidade da natureza de Kumamoto!\nEsse é um bom exemplo e aceito feliz!",
         "es-ES": "[Varmunt]\n¡Cero sorpresas, no hay nada mejor que los vegetales frescos!\n¡Agradezco la generosidad de la naturaleza de Kumamoto!\n¡Este es un buen ejemplo y lo acepto con gusto!"
     },
     "1D4vDQ": {
-        "ko-KR": "수박 포링",
         "en-US": "Watermelon Poring",
         "pt-BR": "Poring Melancia",
         "es-ES": "Poring Sandía"
     },
     "1T4vDQ": {
-        "ko-KR": "평범한 포링이다. 수박 냄새가 솔솔 나지만 신경쓸 필요는 없어 보인다.",
         "en-US": "An ordinary poring. It smells slightly like watermelon, but it doesn't seem to care.",
         "pt-BR": "[Poring Melancia]\nUm poring comum. Ele tem um cheiro leve de melancia, mas não parece se importar.",
         "es-ES": "[Poring Sandía]\nUn poring común. Huele un poco a sandía, pero no parece importarle."
     },
     "1j4vDQ": {
-        "ko-KR": "[수박 포링]\n모험가님! ^i[400799]구마몬 탈모자를 쓰고 말을 걸어주십시오. 그렇지 않으면 의심받을지도 모릅니다...!",
         "en-US": "[Watermelon Poring]\nAdventurer! ^i[400799]Wear Kumamon Hat and try talking to him. If you don't wear it, he may get suspicious of you...",
         "pt-BR": "[Poring Melancia]\nAventureiro! ^i[400799]Use o Chapéu do Kumamon e tente conversar com ele. Se você não usar, ele pode desconfiar de você...",
-        "es-ES": "[Poring Sandía]\n¡Aventurero! ^i[400799]Ponte el Sombrero de Kumamon y trata de hablar con él. Si no lo usas, podría desconfiar de ti..."
+        "es-ES": "[Poring Sandía]\n¡Trotamundos! ^i[400799]Ponte el Sombrero de Kumamon y trata de hablar con él. Si no lo usas, podría desconfiar de ti..."
     },
     "1z4vDQ": {
-        "ko-KR": "[수박 포링]\n음냐... 더는 못 먹어...",
         "en-US": "[Watermelon Poring]\nOh my... I can't eat anymore...",
         "pt-BR": "[Poring Melancia]\nNossa... Não aguento mais comer...",
         "es-ES": "[Poring Sandía]\nCielos... No puedo comer ni un bocado más..."
     },
     "2D4vDQ": {
-        "ko-KR": "[수박 포링]\n구마모토 수박과 토마토를 이렇게 많이...? 내일 먹을래...",
         "en-US": "[Watermelon Poring]\nWho knew there would be this many watermelons and tomatoes! I'll eat the rest tomorrow...",
         "pt-BR": "[Poring Melancia]\nQuem diria que teria tanta melancia e tanto tomate! Vou comer o resto amanhã...",
         "es-ES": "[Poring Sandía]\n¡Quién pensaría que habría tanta sandía y tanto tomate! Me comeré el resto mañana..."
     },
     "2T4vDQ": {
-        "ko-KR": "수박 포링은 배불리 먹은 후 단잠에 빠진 것 같다. 수박 포링을 돕고 싶다면 내일 다시 와 보자.",
         "en-US": "It seems that Watermelon Poring fell asleep after eating a lot. If you want to help, try again tomorrow.",
         "pt-BR": "Pelo visto, Poring Melancia caiu no sono depois de comer um monte. Se você quiser ajudar, melhor voltar amanhã.",
         "es-ES": "Parece que el Poring Sandía se quedó dormido después de comer tanto. Si quieres ayudarlo, mejor que vuelvas mañana."
     },
     "2j4vDQ": {
-        "ko-KR": "[수박 포링]\n거기 구마몬 탈을 쓰신 모험가님! 혹시 수박과 토마토를 사랑한 한 포링의 이야기가 궁금하지 않으신가요?",
         "en-US": "[Watermelon Poring]\nThere you are, adventurer wearing Kumamon Hat! Aren't you curious about the story of the Poring that loves watermelon and tomato?",
         "pt-BR": "[Poring Melancia]\nAí está você, aventureiro de Chapéu do Kumamon! Não quer saber da história de Poring amante de melancia e tomate?",
-        "es-ES": "[Poring Sandía]\n¡Ahí estás, aventurero con el Sombrero de Kumamon! ¿No quieres saber la historia del Poring amante de las sandías y los tomates?"
+        "es-ES": "[Poring Sandía]\n¡Ahí estás, trotamundos con el Sombrero de Kumamon! ¿No quieres saber la historia del Poring amante de las sandías y los tomates?"
     },
     "2z4vDQ": {
-        "ko-KR": "포링이 말을 하네?",
         "en-US": "Poring talks too much, right?",
         "pt-BR": "Poring fala demais, não é?",
         "es-ES": "Los Porings hablan demasiado, ¿no crees?"
     },
     "3D4vDQ": {
-        "ko-KR": "[수박 포링]\n여기엔 아름답고도 감동적인 사연이 있습니다... 말하자면 운명적인 만남을 통해 발생한 기적이죠.",
         "en-US": "[Watermelon Poring]\nI have a beautiful, touching story to tell. It sounds like a miracle came true through a fateful encounter.",
         "pt-BR": "[Poring Melancia]\nTenho uma história linda e emocionante pra contar. Um milagre que se tornou realidade depois de um encontro pré-destinado!",
         "es-ES": "[Poring Sandía]\nTengo una historia linda y emocionante que contarte. ¡Un milagro que se hizo realidad tras un encuentro predestinado!"
     },
     "3T4vDQ": {
-        "ko-KR": "[수박 포링]\n무엇이든 먹어치우는 평범한 포링이던 전, 달콤한 향기를 쫓아 구마모토 체험 농장에 당도하게 되었습니다.",
         "en-US": "[Watermelon Poring]\nBefore I arrived at Kumamoto Farm Experience chasing a sweet scent, I used to be an ordinary Poring that eats everything.",
         "pt-BR": "[Poring Melancia]\nAntes de chegar no evento em Kumamoto seguindo um aroma adocicado, eu era só mais um Poring comilão e comum.",
         "es-ES": "[Poring Sandía]\nAntes de llegar al evento en Kumamoto siguiendo un aroma dulce, yo era solo otro Poring glotón y común."
     },
     "3j4vDQ": {
-        "ko-KR": "[수박 포링]\n그리고 맛보게 된 것이죠. 구마모토의 수박과 토마토를!",
         "en-US": "[Watermelon Poring]\nThen I got to taste Kumamoto's watermelon and tomato!",
         "pt-BR": "[Poring Melancia]\nAté que eu provei as melancias e os tomates da região!",
         "es-ES": "[Poring Sandía]\n¡Hasta que probé las sandías y los tomates de la región!"
     },
     "3z4vDQ": {
-        "ko-KR": "[수박 포링]\n아름답게 부서지는 과육과 풍부한 과즙에서 용솟음치는 에너지를 느낀 저는 이전의 무지한 삶으로 돌아갈 수 없다는 벼락같은 깨달음을 얻었습니다.",
         "en-US": "[Watermelon Poring]\nI realized I can't go back to my poor life before knowing the taste of the beautifully crushed flesh and rich nectar of these fruits.",
         "pt-BR": "[Poring Melancia]\nNesse momento, percebi que não ia conseguir levar a mesma vida de antes de provar a polpa e o nectar saborosos dessas frutas.",
         "es-ES": "[Poring Sandía]\nEn ese momento, me di cuenta de que no podría volver a mi vida de antes sin el sabor de la pulpa y el néctar de estas frutas."
     },
     "4D4vDQ": {
-        "ko-KR": "[수박 포링]\n그리고 겸사겸사 말문도 트인 거죠.",
         "en-US": "[Watermelon Poring]\nAnd that's how the story started.",
         "pt-BR": "[Poring Melancia]\nE foi assim que tudo começou.",
         "es-ES": "[Poring Sandía]\nY así fue como empezó todo."
     },
     "4T4vDQ": {
-        "ko-KR": "이게 중요한 거 아닌가?",
         "en-US": "Isn't this important?",
         "pt-BR": "Isso é importante?",
         "es-ES": "¿Esto es importante?"
     },
     "4j4vDQ": {
-        "ko-KR": "[수박 포링]\n구마몬 탈을 쓰고 계시다는 건, 모험가님은 이미 토마토와 수박을 수확해보셨다는 의미겠죠? 다 알고 있습니다.",
         "en-US": "[Watermelon Poring]\nI see you are wearing Kumamon Hat! That means you already harvested watermelon and tomato, right? I knew it.",
         "pt-BR": "[Poring Melancia]\nVi que você está usando o Chapéu do Kumamon! Isso quer dizer que você já colheu melancia e tomate, né? Sabia.",
         "es-ES": "[Poring Sandía]\n¡Veo que traes puesto el Sombrero de Kumamon! Eso significa que ya cosechaste sandías y tomates, ¿verdad? Lo sabía."
     },
     "4z4vDQ": {
-        "ko-KR": "[수박 포링]\n구마모토의 수박과 토마토의 진가를 아는 동지로써 간곡히 부탁드리고 싶은 것이 있습니다!",
         "en-US": "[Watermelon Poring]\nAs someone who knows the true value of Kumamoto's watermelon and tomato, I'd like to honestly ask you something.",
         "pt-BR": "[Poring Melancia]\nComo alguém que entende o valor das melancias e dos tomates de Kumamoto, queria te perguntar uma coisa com sinceridade.",
         "es-ES": "[Poring Sandía]\nComo alguien que entiende el valor de los productos de Kumamoto, quería preguntarte algo con total sinceridad."
     },
     "5D4vDQ": {
-        "ko-KR": "[수박 포링]\n포링을 뛰어넘는 지능을 가지게 되었지만 몸은 여전히 포링... 욕심껏 수박과 토마토를 옮기다 구마모토 곳곳에 떨어뜨린 것 같습니다.",
         "en-US": "[Watermelon Poring]\nI carry the great intelligence of the Porings, but my body is still of a Poring's... I was greedly moving watermelons and tomatoes around and ended up dropping them all over Kumamoto.",
         "pt-BR": "[Poring Melancia]\nEu tenho a inteligência dos Porings, mas meu corpo ainda é de Poring... Por pura gulodice, estava transportando melancia e tomate, mas acabei derrubando muita coisa por Kumamoto.",
         "es-ES": "[Poring Sandía]\nTengo la inteligencia de un Poring, pero mi cuerpo sigue siendo de Poring... Por pura gula, estaba cargando sandías y tomates, pero se me cayeron muchísimos por todo Kumamoto."
     },
     "5T4vDQ": {
-        "ko-KR": "[수박 포링]\n그것들을 모아서 제게 가져다주실 수 있으십니까? 구마몬 탈을 쓴 모험가님이라면 길에 떨어진 농산물을 주워도 의심받지 않을 겁니다.",
         "en-US": "[Watermelon Poring]\nCould you please gather them and bring back to me? If you are an Adventurer wearing Kumamon's bald hat, he won't be suspicious of you, even if you collect the dropped fruits.",
         "pt-BR": "[Poring Melancia]\nSerá que você pode catar tudo e trazer de volta pra mim? Se você for um Aventureiro usando Chapéu do Kumamon, ele não vai desconfiar de você, mesmo quando você for coletar as frutas caídas.",
-        "es-ES": "[Poring Sandía]\n¿Podrías recogerlos y traérmelos? Si eres un aventurero con el Sombrero de Kumamon puesto, él no sospechará de ti mientras recolectas las frutas caídas al suelo."
+        "es-ES": "[Poring Sandía]\n¿Podrías recogerlos y traérmelos? Si eres un trotamundos con el Sombrero de Kumamon puesto, él no sospechará de ti mientras recolectas las frutas caídas al suelo."
     },
     "5j4vDQ": {
-        "ko-KR": "[수박 포링]\n구마모토 수박과 구마모토 토마토를 5개씩 모아 주십시오. 조금 크지만 모험가님이라면 가능하실 겁니다!",
         "en-US": "[Watermelon Poring]\nPlease collect 5 Kumamoto Watermelon and 5 Kumamoto Tomato each. They're quite big, but I'm sure you can do it, Adventurer!",
         "pt-BR": "[Poring Melancia]\nColete 5 Melancia de Kumamoto e 5 Tomate de Kumamoto cada. Eles são meio grandes, mas tenho certeza que você consegue, Aventureiro!",
-        "es-ES": "[Poring Sandía]\nRecoge 5 Sandía de Kumamoto y 5 Tomate de Kumamoto. Son algo grandes, ¡pero estoy seguro de que consigues, aventurero!"
+        "es-ES": "[Poring Sandía]\nRecoge 5 Sandía de Kumamoto y 5 Tomate de Kumamoto. Son algo grandes, ¡pero estoy seguro de que consigues, trotamundos!"
     },
     "5z4vDQ": {
-        "ko-KR": "[수박 포링]\n모험가님, 안녕하십니까? 염치 불고하고, 오늘도 부탁드리고 싶은 것이 있습니다.",
         "en-US": "[Watermelon Poring]\nHello there, Adventurer! Please forgive my boldness, but there is something I want to ask of you today as well.",
         "pt-BR": "[Poring Melancia]\nOlá, Aventureiro! Perdoe a minha cara de pau, mas tem uma coisa que eu queria te perguntar  hoje.",
-        "es-ES": "[Poring Sandía]\n¡Hola, aventurero! Perdona mi descaro, pero hay algo que quería pedirte hoy."
+        "es-ES": "[Poring Sandía]\n¡Hola, trotamundos! Perdona mi descaro, pero hay algo que quería pedirte hoy."
     },
     "6D4vDQ": {
-        "ko-KR": "[수박 포링]\n구마모토의 수박과 토마토에 깃든 신묘한 힘 덕에 지성이 생겼지만, 몸은 정신만큼 빠르게 성장하지 않는군요...",
         "en-US": "[Watermelon Poring]\nI got an intelligence boost thanks to the mysterious power of Kumamoto's watermelon and tomato, but my body doesn't grow as fast as the mind...",
         "pt-BR": "[Poring Melancia]\nMinha inteligência aumentou graças ao misterioso poder da melancia e tomate de Kumamoto, mas meu corpo não cresce tão rápido quanto a minha mente...",
         "es-ES": "[Poring Sandía]\nMi inteligencia aumentó gracias al misterioso poder de la sandía y del tomate de Kumamoto, pero mi cuerpo no crece tan rápido como mi mente..."
     },
     "6T4vDQ": {
-        "ko-KR": "[수박 포링]\n하지만 구마모토의 수박과 토마토를 먹고 매일매일 성장하고 있으니 모험가님의 힘을 빌리지 않아도 될 때가 분명히 올 것입니다!",
         "en-US": "[Watermelon Poring]\nThe time when you won't need to borrow strenght anymore will definitely come, as the production of watermelon and tomato is always increasing!",
         "pt-BR": "[Poring Melancia]\nVai chegar a hora que você não vai precisar mais pegar energia emprestada, já que a produção de melancia e tomate segue aumentando!",
         "es-ES": "[Poring Sandía]\n¡Llegará el momento en que no necesites más tomar energía prestada, ya que la producción de sandía y tomate sigue aumentando!"
     },
     "6j4vDQ": {
-        "ko-KR": "[수박 포링]\n오늘도 구마모토 수박과 구마모토 토마토를 5개씩 모아 주십시오. 오늘이야말로 다 먹고 말 겁니다!",
         "en-US": "[Watermelon Poring]\nPlease collect  5 Kumamoto Watermelon and 5 Kumamoto Tomato each. I'm going to eat them all again today!",
         "pt-BR": "[Poring Melancia]\nColete 5 Melancia de Kumamoto e 5 Tomate de Kumamoto cada. Vou comer tudo hoje de novo!",
         "es-ES": "[Poring Sandía]\nTrae 5 Sandía de Kumamoto y 5 Tomate de Kumamoto. ¡Hoy me lo voy a comer todo otra vez!"
     },
     "6z4vDQ": {
-        "ko-KR": "[수박 포링]\n구마모토 수박과 구마모토 토마토를 5개씩 가져오셨습니까?",
         "en-US": "[Watermelon Poring]\nDid you bring 5 watermelons and 5 tomatoes?",
         "pt-BR": "[Poring Melancia]\nVocê pode me trazer 5 Melancia de Kumamoto e 5 Tomate de Kumamoto?",
         "es-ES": "[Poring Sandía]\n¿Me puedes traer 5 Sandía de Kumamoto y 5 Tomate de Kumamoto?"
     },
     "7D4vDQ": {
-        "ko-KR": "[수박 포링]\n흐음, 제가 엄선한 커다란 열매들이 보이지 않는 걸 보니 아직인 것 같군요. 잘 부탁드리겠습니다.",
         "en-US": "[Watermelon Poring]\nHm, I see you haven't collected the big fruits carefully selected by me yet. I'm counting on you.",
         "pt-BR": "[Poring Melancia]\nHmm, percebi que você ainda não coletou as frutas grandes que selecionei a dedo.\nConto com você.",
         "es-ES": "[Poring Sandía]\nHmm, veo que aún no has recogido las frutas grandes que he seleccionado un a una.\nCuento contigo."
     },
     "7T4vDQ": {
-        "ko-KR": "[수박 포링]\n이 신선하고 산뜻한 향기... 틀림없는 구마모토 수박과 구마모토 토마토군요. 주저하지 않고 단번에 먹어 보이겠습니다!",
         "en-US": "[Watermelon Poring]\nWhat a fresh scent! No doubt that those are watermelons and tomatoes from Kumamoto! I'm not going to hold myself and eat them at once!",
         "pt-BR": "[Poring Melancia]\nQue aroma agradável! Sem dúvida é melancia e tomate de Kumamoto! Não vou conseguir me controlar e acabar comendo tudo de uma vez!",
-        "es-ES": "[Poring Sandía]\n¡Qué aroma tan agradable! ¡Sin duda son la melancia y el tomate de Kumamoto! ¡No voy a poder controlarme y me lo voy a comer todo de la vez!"
+        "es-ES": "[Poring Sandía]\n¡Qué aroma tan agradable! ¡Sin duda son la sandía y el tomate de Kumamoto! ¡No voy a poder controlarme y me lo voy a comer todo de la vez!"
     },
     "7j4vDQ": {
-        "ko-KR": "[수박 포링]\n냠냠냠.....,",
         "en-US": "[Watermelon Poring]\nYum-yum-yum...",
         "pt-BR": "[Poring Melancia]\nNhac, nhac, nhac...",
         "es-ES": "[Poring Sandía]\nÑam, ñam, ñam..."
     },
     "7z4vDQ": {
-        "ko-KR": "[수박 포링]\n역시 수박 5통과 토마토 5개를 한번에 다 먹는 것은 무리군요. 분명히 될 것 같았는데...",
         "en-US": "[Watermelon Poring]\nI guess it's impossible to eat 5 watermelons and 5 tomatoes at once... I really thought I could.",
         "pt-BR": "[Poring Melancia]\nÉ impossível comer 5 melancias e 5 tomates de uma vez... Eu achei que conseguiria.",
         "es-ES": "[Poring Sandía]\nEs imposible comerse 5 sandías y 5 tomates de un golpe... Pensé que lo conseguiría."
     },
     "8D4vDQ": {
-        "ko-KR": "[수박 포링]\n고생하신 모험가님께도 구마모토 수박과 구마모토 토마토를 나눠드리겠습니다. 사양하지 마십시오. 내일은 내일 수확한 신선한 농산물을 먹으면 되니까요!",
         "en-US": "[Watermelon Poring]\nSince you worked very hard, I'll be sharing some of my watermelon and tomatoes with you. Please accept it. Tomorrow we can eat freshly harvested fruits again!",
         "pt-BR": "[Poring Melancia]\nJá que você ralou bastante, vou dividir minhas melancias e meus tomates com você. Aceite-os, por favor. Amanhã podemos comer frutas frescas e recém-colhidas de novo!",
         "es-ES": "[Poring Sandía]\nComo te esforzaste mucho, compartiré mis sandías y tomates contigo. Acéptalos, por favor. ¡Mañana podremos volver a comer frutas frescas y recién cosechas!"
     },
     "8T4vDQ": {
-        "ko-KR": "[수박 포링]\n흠... 뭘까요?\n무언가 잊은 것이 있는 듯한 기분도 드는군요...",
         "en-US": "[Watermelon Poring]\nHm... What is it?\nI feel like I forgot something somewhere...",
         "pt-BR": "[Poring Melancia]\nHmm... O que foi?\nSinto que esqueci alguma coisa em algum lugar...",
         "es-ES": "[Poring Sandía]\nHmm... ¿Qué pasa?\nTengo la sensación de que me he olvidado algo en alguna parte..."
     },
     "8j4vDQ": {
-        "ko-KR": "[수박 포링]\n저는 아직 포링이라는 한계를 깨지 못한 것 같습니다. 무언가 저와 약속한 것이 있다면 없던 일로 하시죠...",
         "en-US": "[Watermelon Poring]\nI still haven't broken the Poring limit. If I promised you anything, let's pretend it didn't happen.",
         "pt-BR": "[Poring Melancia]\nAinda não ultrapassei o limite Poring. Se eu te prometi alguma coisa, vamos fingir que nunca aconteceu.",
         "es-ES": "[Poring Sandía]\nTodavía no he superado el límite Poring. Si te prometí algo, hagamos como si nunca hubiera pasado."
     },
     "8z4vDQ": {
-        "ko-KR": "촬영 스팟",
         "en-US": "Shooting Spot",
         "pt-BR": "Local de Gravação",
         "es-ES": "Lugar de Grabación"
     },
     "9D4vDQ": {
-        "ko-KR": "K_collabo_JP_01.png"
+        "en-US": "K_collabo_JP_01.png",
+        "pt-BR": "K_collabo_JP_01.png",
+        "es-ES": "K_collabo_JP_01.png"
     },
     "9T4vDQ": {
-        "ko-KR": "구마몬#촬영용1",
         "en-US": "Kumamon#Shooting1",
         "pt-BR": "Kumamon#Gravação1",
         "es-ES": "Kumamon#Grabación1"
     },
     "9j4vDQ": {
-        "ko-KR": "[촬영 스팟]\n촬영용 구마몬이나 큰 구마몬 간판 보기를 설정할 수 있습니다.",
         "en-US": "[Shooting Spot]\nYou can set the shooting background with Kumamon or the Giant Kumamon.",
         "pt-BR": "Você pode escolher o Kumamon ou o Kumamon Gigante como fundo da gravação.",
         "es-ES": "Puedes elegir a Kumamon o al Kumamon Gigante como fondo de la grabación."
     },
     "9z4vDQ": {
-        "ko-KR": "촬영용 구마몬 ON",
         "en-US": "Shooting-exclusive Kumamon ON",
         "pt-BR": "Kumamon exclusivo para gravação ON",
         "es-ES": "Kumamon exclusivo para grabación ON"
     },
     "+D4vDQ": {
-        "ko-KR": "촬영용 구마몬 OFF",
         "en-US": "Shooting-exclusive Kumamon OFF",
         "pt-BR": "Kumamon exclusivo para gravação OFF",
         "es-ES": "Kumamon exclusivo para grabación OFF"
     },
     "+T4vDQ": {
-        "ko-KR": "거대한 구마몬 간판 ON",
         "en-US": "Huge Kumamon sign ON",
         "pt-BR": "Placa grande do Kumamon ON",
         "es-ES": "Placa grande de Kumamon ON"
     },
     "+j4vDQ": {
-        "ko-KR": "거대한 구마몬 간판 OFF",
         "en-US": "Huge Kumamon sign OFF",
         "pt-BR": "Placa grande do Kumamon OFF",
         "es-ES": "Placa grande de Kumamon OFF"
     },
     "+z4vDQ": {
-        "ko-KR": "[촬영 스팟]\n설정된 거대 구마몬 간판은 드래그하여 위치를 조정할 수 있습니다.",
         "en-US": "[Shooting Spot]\nThe Giant Kumamon you selected can be dragged to the desired position in the background.",
         "pt-BR": "O Kumamon Gigante pode ser arrastado para a posição desejada na imagem de fundo.",
         "es-ES": "El Kumamon Gigante se puede arrastrar a la posición deseada en la imagen de fondo."
     },
     "/D4vDQ": {
-        "ko-KR": "구마몬#촬영용2",
         "en-US": "Kumamon#Shooting2",
         "pt-BR": "Kumamon#Gravação2",
         "es-ES": "Kumamon#Grabación2"
     },
     "/T4vDQ": {
-        "ko-KR": "구마몬#촬영용3",
         "en-US": "Kumamon#Shooting3",
         "pt-BR": "Kumamon#Gravação3",
         "es-ES": "Kumamon#Grabación3"
     },
     "/j4vDQ": {
-        "ko-KR": "구마몬#촬영용4",
         "en-US": "Kumamon#Shooting4",
         "pt-BR": "Kumamon#Gravação4",
         "es-ES": "Kumamon#Grabación4"
     },
     "/z4vDQ": {
-        "ko-KR": "구마몬#촬영용5",
         "en-US": "Kumamon#Shooting5",
         "pt-BR": "Kumamon#Gravação5",
         "es-ES": "Kumamon#Grabación5"
     },
     "AD8vDQ": {
-        "ko-KR": "구마몬#촬영용6",
         "en-US": "Kumamon#Shooting6",
         "pt-BR": "Kumamon#Gravação6",
         "es-ES": "Kumamon#Grabación6"
     },
     "AT8vDQ": {
-        "ko-KR": "구마몬 애호가",
         "en-US": "Kumamon Fan",
         "pt-BR": "Fã do Kumamon",
         "es-ES": "Fan de Kumamon"
     },
     "Aj8vDQ": {
-        "ko-KR": "메모 메모... 다음에 데이트할 때 구마모토로 여행 가야지...",
         "en-US": "Note: Let's travel to Kumamoto on the next date!",
         "pt-BR": "Nota: vamos viajar pra Kumamoto da próxima vez!",
         "es-ES": "Nota: ¡la próxima vez viajemos a Kumamoto!"
     },
     "Az8vDQ": {
-        "ko-KR": "관광객",
         "en-US": "Tourist",
         "pt-BR": "Turista",
         "es-ES": "Turista"
     },
     "BD8vDQ": {
-        "ko-KR": "와, 정말 훌륭한 성이구먼! 나도 이런 성에서 살아보고 싶어.",
         "en-US": "Wow, it's an amazing castle! I want to live in a place like this too.",
         "pt-BR": "Nossa, que castelo maravilhoso! Quero morar num lugar assim também.",
         "es-ES": "¡Vaya, qué castillo maravilloso! Yo también quiero vivir en un lugar así."
     },
     "BT8vDQ": {
-        "ko-KR": "여길 올라가면 아소산의 아름다운 칼데라 호수를 볼 수 있어!",
         "en-US": "If you hike Mount Aso, you'll see the beautiful Lake Kussharo!",
         "pt-BR": "Se você escalar o Monte Aso, verá o belíssimo Lago Kussharo!",
         "es-ES": "¡Si escalas el Monte Aso, verás el hermosísimo Lago Kussharo!"
     },
     "Bj8vDQ": {
-        "ko-KR": "와~ 대단한데! 이게 바로 자연의 힘이란 느낌이야!!",
         "en-US": "Wow, that's incredible! I can feel the force of nature just by looking at it!",
         "pt-BR": "Uau, que incrível! Só de olhar dá pra sentir a força da natureza!",
         "es-ES": "¡Guau, increíble! ¡Solo de verlo se siente la fuerza de la naturaleza!"
     },
     "Bz8vDQ": {
-        "ko-KR": "수박도 토마토도 너무 맛있어서, 나도 모르게 너무 많이 먹게 된다냥~",
         "en-US": "The watermelons and tomatoes are so delicious, I ended up eating a lot without realizing!",
         "pt-BR": "As melancias e os tomates são tão deliciosos que acabei comendo demais!",
         "es-ES": "¡Las sandías y los tomates están tan ricos que al final he comido de más!"
     },
     "CD8vDQ": {
-        "ko-KR": "찰칵! 오, 이건 제대로 찍었어!!",
         "en-US": "Click! Wow, that was a good shot!",
         "pt-BR": "Tic! Mandou bem na foto!",
         "es-ES": "¡Click! ¡Te salió genial la foto!"
     },
     "CT8vDQ": {
-        "ko-KR": "이 아이는 메로링이야. 수박 포링이 아니니까 괴롭히면 안 돼!",
         "en-US": "This is Meloring. It's not a Watermelon Poring, you can't bully it!",
         "pt-BR": "Esse é o Meloring. Não é um Poring Melancia, então não perturbe!",
         "es-ES": "Este es Meloring. No es un Poring Sandía, ¡no le molestes!"
     },
     "Cj8vDQ": {
-        "ko-KR": "메로링",
         "en-US": "Meloring",
         "pt-BR": "Meloring",
         "es-ES": "Meloring"
     },
     "Cz8vDQ": {
-        "ko-KR": "메~로메로♪",
         "en-US": "Melo-melo ♪",
         "pt-BR": "Melo-melo ♪",
         "es-ES": "Melo-melo ♪"
     },
     "DD8vDQ": {
-        "ko-KR": "수박밭이다아! 텐션 오르는데~!!",
         "en-US": "A watermelon field! I'm excited!",
         "pt-BR": "É uma plantação de melancia! Que empolgação!",
         "es-ES": "¡Es un campo de sandías! ¡Qué emoción!"
     },
     "DT8vDQ": {
-        "ko-KR": "엄청 큰 토마토네! 힘내서 잔뜩 수확해 버릴 거야~!!",
         "en-US": "What a huge tomato! I'll do my best to harvest a lot!",
         "pt-BR": "Que tomate enorme! Darei o meu melhor para colher bastante!",
         "es-ES": "¡Qué tomate tan enorme! ¡Haré todo lo posible por cosechar muchísimos!"
     },
     "Dj8vDQ": {
-        "ko-KR": "오리인형",
         "en-US": "Duck Doll",
         "pt-BR": "Boneco de Pato",
         "es-ES": "Muñeco de Pato"
     },
     "Dz8vDQ": {
-        "ko-KR": "할머니",
         "en-US": "Grandma",
         "pt-BR": "Vovó",
         "es-ES": "Abuela"
     },
     "ED8vDQ": {
-        "ko-KR": "[할머니]\n토마토는 잘 수확했니? 맛있는 토마토를 따고 싶다면 살살, 조심해서 따야 한단다.",
         "en-US": "[Grandma]\nDid the tomato harvest go well? You have to be very careful when picking them.",
         "pt-BR": "[Vovó]\nA colheita de tomate foi boa? Você precisa ter bastante cuidado ao colhê-los.",
         "es-ES": "[Abuela]\n¿Qué tal la cosecha de tomates? Tienes que ser muy cuidadoso al recogerlos."
     },
     "ET8vDQ": {
-        "ko-KR": "[할머니]\n아, 맞다. 농장 체험 퀘스트는 받고 왔니? 농장 체험 퀘스트는 바르문트 님에게서 받을 수 있어.\n짐을 너무 많이 들고 있어도 안 되니까 조심하렴.",
         "en-US": "[Grandma]\nOh! You are here for the Farm Experience, right? You can receive the quest from Varmunt.\nBut be careful, you can't join if you have too many items on your inventory.",
         "pt-BR": "[Vovó]\nAh, é! Você veio passar o dia na fazenda, não é? Você pode receber a missão do Varmunt.\nMas cuidado, você não pode participar se tiver muitos itens no inventário.",
         "es-ES": "[Abuela]\n¡Ah, sí! Viniste por lo del Día en la Granja, ¿no? Puedes recibir la misión de Varmunt.\nPero cuidado, no puedes participar si tienes el inventario muy lleno."
     },
     "Ej8vDQ": {
-        "ko-KR": "수박농가",
         "en-US": "Watermelon Farmer",
         "pt-BR": "Produtor de Melancia",
         "es-ES": "Productor de Sandías"
     },
     "Ez8vDQ": {
-        "ko-KR": "[수박농가]\n안녕! 수박을 수확하러 온 거냐?\n잘 익은 수박을 빵― 하고 치면 휙 하고 수확할 수 있어!\n어서 도전해 보라고.",
         "en-US": "[Watermelon Farmer]\nHi! Did you come for harvesting?\nIf you hit the ripe watermelon, you can pick it!\nGo ahead and try!",
         "pt-BR": "[Produtor de Melancia]\nVocê veio para a colheita?\nSe você acertar a melancia madura, pode colhê-la!\nTenta lá!",
         "es-ES": "[Productor de Sandías]\n¿Viniste a cosechar?\n¡Si le atinas a la sandía madura, puedes llevártela!\n¡Inténtalo!"
     },
     "FD8vDQ": {
-        "ko-KR": "[수박농가]\n그리고 아무나 수박을 딸 수는 없지. 그 뭐야 농장 체험? 중인 사람만 수박을 딸 수 있어.\n잘 알았냐? 그리고 짐을 너무 많이 들고 있으면 안 되니까 제때 정리하고 말이야.",
         "en-US": "[Watermelon Farmer]\nNot everyone can pick watermelons. Farm Experience? What is that? Only those on the run can harvest them.\nDid you know you can't carry too many items on your inventory? Prepare yourself by then.",
         "pt-BR": "[Produtor de Melancia]\nNem todo mundo consegue colher melancia. Um Dia na Fazenda? O que é isso? Só quem entra em ação pode colhê-las.\nSabia que você não pode carregar muitos itens no inventário? Prepare-se antes de vir.",
         "es-ES": "[Productor de Sandías]\nNo toda la gente puede cosechar sandías. ¿Un Día en la Granja? ¿Qué es eso? Solo los que entran en acción pueden cosechar.\n¿Sabías que no puedes llevar muchos objetos en el inventario? Prepárate antes de venir."
     },
     "FT8vDQ": {
-        "ko-KR": "안내판",
         "en-US": "Notice Board",
         "pt-BR": "Quadro de Avisos",
         "es-ES": "Tablón de Anuncios"
     },
     "Fj8vDQ": {
-        "ko-KR": "【←】아소산   구마모토 성【↑】",
-        "en-US": "【←】Mount Aso   Kumamoto Castle【↑】",
-        "pt-BR": "【←】Monte Aso   Castelo de Kumamoto【↑】",
-        "es-ES": "【←】Monte Aso   Castillo de Kumamoto【↑】"
+        "en-US": "<- Mount Aso   Kumamoto Castle /\\",
+        "pt-BR": "<- Monte Aso   Castelo de Kumamoto /\\",
+        "es-ES": "<- Monte Aso   Castillo de Kumamoto /\\"
     },
     "Fz8vDQ": {
-        "ko-KR": "【↑】구마모토 성   칼데라 호수【→】",
-        "en-US": "【↑】Kumamoto Castle   Lake Kussharo【→】",
-        "pt-BR": "【↑】Castelo de Kumamoto   Lago Kussharo【→】",
-        "es-ES": "【↑】Castillo de Kumamoto   Lago Kussharo【→】"
+        "en-US": "/\\ Kumamoto Castle   Lake Kussharo  :>",
+        "pt-BR": "/\\ Castelo de Kumamoto   Lago Kussharo  ->",
+        "es-ES": "/\\ Castillo de Kumamoto   Lago Kussharo  ->"
     },
     "GD8vDQ": {
-        "ko-KR": "【↓】토마토밭    수박밭【↓】",
-        "en-US": "【↓】Tomato Field   Watermelon Field【↓】",
-        "pt-BR": "【↓】Plantação de Tomate   Plantação de Melancia【↓】",
-        "es-ES": "【↓】Campo de Tomates   Campo de Sandías【↓】"
+        "en-US": "\\/ Tomato Field   Watermelon Field \\/",
+        "pt-BR": "\\/ Plantação de Tomate   Plantação de Melancia \\/",
+        "es-ES": "\\/ Campo de Tomates   Campo de Sandías \\/"
     },
     "GT8vDQ": {
-        "ko-KR": "【↑】아소산",
-        "en-US": "【↑】Mount Aso",
-        "pt-BR": "【↑】Monte Aso",
-        "es-ES": "【↑】Monte Aso"
+        "en-US": "/\\ Mount Aso",
+        "pt-BR": "/\\ Monte Aso",
+        "es-ES": "/\\ Monte Aso"
     },
     "Gj8vDQ": {
-        "ko-KR": "수박밭【→】",
-        "en-US": "Watermelon Field【→】",
-        "pt-BR": "Plantação de Melancia【→】",
-        "es-ES": "Campo de Sandías【→】"
+        "en-US": "Watermelon Field  ->",
+        "pt-BR": "Plantação de Melancia  ->",
+        "es-ES": "Campo de Sandías  ->"
     },
     "Gz8vDQ": {
-        "ko-KR": "【←】토마토밭",
-        "en-US": "【←】Tomato Field",
-        "pt-BR": "【←】Plantação de Tomate",
-        "es-ES": "【←】Campo de Tomates"
+        "en-US": "<- Tomato Field",
+        "pt-BR": "<- Plantação de Tomate",
+        "es-ES": "<- Campo de Tomates"
     },
     "HD8vDQ": {
-        "ko-KR": "토마토밭【↓】",
-        "en-US": "Tomato Field【↓】",
-        "pt-BR": "Plantação de Tomate【↓】",
-        "es-ES": "Campo de Tomates【↓】"
+        "en-US": "Tomato Field \\/",
+        "pt-BR": "Plantação de Tomate \\/",
+        "es-ES": "Campo de Tomates \\/"
     },
     "HT8vDQ": {
-        "ko-KR": "【↓】수박밭",
-        "en-US": "【↓】Watermelon Field",
-        "pt-BR": "【↓】Plantação de Melancia",
-        "es-ES": "【↓】Campo de Sandías"
+        "en-US": "\\/ Watermelon Field",
+        "pt-BR": "\\/ Plantação de Melancia",
+        "es-ES": "\\/ Campo de Sandías"
     },
     "Hj8vDQ": {
-        "ko-KR": "【←】남     여【→】",
-        "en-US": "【←】Man     Woman【→】",
-        "pt-BR": "【←】Homem     Mulher【→】",
-        "es-ES": "【←】Hombre     Mujer【→】"
+        "en-US": "<- Man     Woman  ->",
+        "pt-BR": "<- Homem     Mulher  ->",
+        "es-ES": "<- Hombre     Mujer  ->"
     },
     "Hz8vDQ": {
-        "ko-KR": "수박",
         "en-US": "Watermelon",
         "pt-BR": "Melancia",
         "es-ES": "Sandía"
     },
     "ID8vDQ": {
-        "ko-KR": "탐스럽게 자란 구마모토의 수박. 수확하기 좋게 익어 있다. 어떤 수박을 수확할까?",
         "en-US": "The tasty-looking Kumamoto watermelons are ripe for picking.\nWhich one should I harvest?",
         "pt-BR": "As deliciosas melancias de Kumamoto estão maduras e prontas para a colheita. Qual delas devo colher?",
         "es-ES": "Las deliciosas sandías de Kumamoto están maduras y listas para cosechar. ¿Cuál debería coger?"
     },
     "IT8vDQ": {
-        "ko-KR": "작은 수박",
         "en-US": "Small Watermelon",
         "pt-BR": "Melancia Pequena",
         "es-ES": "Sandía Pequeña"
     },
     "Ij8vDQ": {
-        "ko-KR": "큰 수박",
         "en-US": "Big Watermelon",
         "pt-BR": "Melancia Grande",
         "es-ES": "Sandía Grande"
     },
     "Iz8vDQ": {
-        "ko-KR": "덩굴이 싱싱한 수박",
         "en-US": "Fresh Watermelon with Vines",
         "pt-BR": "Melancia Fresca com Videiras",
         "es-ES": "Sandía Fresca con Rama"
     },
     "JD8vDQ": {
-        "ko-KR": "한 손으로 잡기 좋은 아담한 크기의 수박을 골랐다.",
         "en-US": "I chose a watermelon with a size that fits perfectly in my hands.",
         "pt-BR": "Escolhi uma melancia que cabe bem na palma da mão.",
         "es-ES": "Elegí una sandía que cabe bien en la palma de la mano."
     },
     "JT8vDQ": {
-        "ko-KR": "속이 꽉 차서 묵직하다! 작다고 얕봤는데 제법인걸?",
         "en-US": "I'm so full! I thought it was small, but it was better than expected!",
         "pt-BR": "Estou satisfeito! Essa era pequena, mas melhor do que esperava!",
         "es-ES": "¡Estoy satisfecho! Era pequeña, ¡pero mejor de lo que esperaba!"
     },
     "Jj8vDQ": {
-        "ko-KR": "앗, 들어 보니 너무 가벼운 것 같다... 다른 수박을 골라 볼까?",
         "en-US": "Oh, it looks too light... Shall I choose another watermelon?",
         "pt-BR": "Ah, essa melancia parece leve demais... Escolho outra?",
         "es-ES": "Ay, esta sandía se siente muy ligera... ¿Elijo otra?"
     },
     "Jz8vDQ": {
-        "ko-KR": "보기만 해도 마음이 흐뭇해지는 커다란 수박을 골랐다.\n상쾌한 향기와 함께 신선한 껍질이 느껴진다.",
         "en-US": "The watermelon I chose really pleased me.\nYou can smell the fresh scent from its peel!",
         "pt-BR": "A melancia que escolhi me agradou muito.\nDá pra sentir o aroma suave de sua casca!",
         "es-ES": "La sandía que elegí me gustó mucho.\n¡Se siente el aroma suave de su cáscara!"
     },
     "KD8vDQ": {
-        "ko-KR": "덩굴이 싱싱한 수박을 골랐다.",
         "en-US": "I chose a fresh watermelon with vines.",
         "pt-BR": "Escolhi uma melancia fresca com videiras.",
         "es-ES": "Elegí una sandía fresca con ramas."
     },
     "KT8vDQ": {
-        "ko-KR": "덩굴은 파릇파릇, 수박도 신선해 보이는 게 느낌이 좋다!",
         "en-US": "The vines are of such a vibrant green and the fruit looks so fresh! I like it!",
         "pt-BR": "As videiras são de um verde tão vivo e a melancia parece bem fresca! Gostei!",
         "es-ES": "¡Las ramas están de un verde tan vivo y la sandía se ve súper fresca! ¡Me gusta!"
     },
     "Kj8vDQ": {
-        "ko-KR": "이봐! 줄기가 마른 수박이 맛있는 거라고.",
         "en-US": "Hey! The dried watermelon is delicious.",
         "pt-BR": "Ei! A melancia seca é uma delícia.",
         "es-ES": "¡Oye! La sandía seca está riquísima."
     },
     "Kz8vDQ": {
-        "ko-KR": "전문가의 의견을 따라 다른 수박을 골라 볼까?",
         "en-US": "Shoud I follow the farmer's advice and choose another watermelon?",
         "pt-BR": "Sigo a opinião do fazendeiro e escolho outra melancia?",
         "es-ES": "¿Hago caso al granjero y elijo otra sandía?"
     },
     "LD8vDQ": {
-        "ko-KR": "통통 두드려 본다",
         "en-US": "Tap the fruit",
         "pt-BR": "Apalpar a fruta",
         "es-ES": "Tocar la fruta"
     },
     "LT8vDQ": {
-        "ko-KR": "덩굴을 가위로 자른다",
         "en-US": "Cut the vine with scissors",
         "pt-BR": "Cortar a videira com tesoura",
         "es-ES": "Cortar la rama con tijeras"
     },
     "Lj8vDQ": {
-        "ko-KR": "빵― 하고 친다",
         "en-US": "Just hit it",
         "pt-BR": "Dar um tapa forte",
         "es-ES": "Darle un golpe fuerte"
     },
     "Lz8vDQ": {
-        "ko-KR": "수박도 수확 전에 두드려 봐야지!",
         "en-US": "I should tap the watermelon before picking it!",
         "pt-BR": "Preciso apalpar a melancia antes de colher!",
         "es-ES": "¡Tengo que palpar la sandía antes de cosecharla!"
     },
     "MD8vDQ": {
-        "ko-KR": "통통! 경쾌한 소리가 나는 수박을 수확했다.",
         "en-US": "Bubble! The watermelon made a funny sound when harvested.",
         "pt-BR": "Glub! A melancia fez um som engraçado quando a colhi.",
         "es-ES": "¡Glub! La sandía hizo un sonido gracioso cuando la cogi."
     },
     "MT8vDQ": {
-        "ko-KR": "어허, 따지도 않을 수박을 막 두드리면 안 돼!",
         "en-US": "Uh-oh, you shouldn't tap a watermelon if you're not going to pick it!",
         "pt-BR": "Opa, você não devia apalpar a melancia se não for colhê-la!",
         "es-ES": "¡Ups! ¡No deberías manosear la sandía si no la vas a cosechar!"
     },
     "Mj8vDQ": {
-        "ko-KR": "꾸중을 들었다... 처음부터 다시 하자.",
         "en-US": "I got scolded... Let's try again.",
         "pt-BR": "Levei bronca... Vamos tentar de novo.",
         "es-ES": "Me regañaron... Vamos a intentarlo otra vez."
     },
     "Mz8vDQ": {
-        "ko-KR": "가위로 덩굴을 잘랐다.\n수박 수확, 별 거 아닌데?",
         "en-US": "I cut the vine with scissors.\nPicking watermelon isn't that difficult!",
         "pt-BR": "Cortei a videira com tesoura.\nColher melancia não é tão difícil assim!",
         "es-ES": "Corté la rama con las tijeras.\n¡Cosechar sandías no es tan difícil!"
     },
     "ND8vDQ": {
-        "ko-KR": "이런! 힘 조절을 잘못해서 수박이 깨져버렸다. 처음부터 다시 하자.",
         "en-US": "Oh no! I couldn't control my strenght and crushed the watermelon. Let's try again.",
         "pt-BR": "Ah, não! Não consegui controlar a minha força e a melancia se partiu. Vamos tentar de novo.",
         "es-ES": "¡Nooo! No conseguí medir mi fuerza y la sandía se partió. Intentémoslo otra vez."
     },
     "NT8vDQ": {
-        "ko-KR": "전문가의 조언을 받들어 수박을 빵― 하고 쳤다.\n정말로 휙 하고 수확할 수 있었다!",
         "en-US": "I hit the watermelon following the farmer's advice. \nI picked it in one shot!",
         "pt-BR": "Acertei a melancia seguindo o conselho do fazendeiro.\nEla caiu de primeira!",
         "es-ES": "Le atiné a la sandía siguiendo el consejo del granjero.\n¡Cayó a la primera!"
     },
     "Nj8vDQ": {
-        "ko-KR": "수박을 수확했다! 휴~ 수확의 뿌듯함이란!",
         "en-US": "Watermelon harvesting done! Phew! I'm so proud of myself!",
         "pt-BR": "Colheita de melancia concluída! Ufa! Que orgulho de mim!",
         "es-ES": "¡Cosecha de sandías terminada! ¡Uff! ¡Qué orgullo!"
     },
     "Nz8vDQ": {
-        "ko-KR": "이만하면 충분히 수확한 것 같다. 농장 체험을 마무리하기 위해 바르문트에게 돌아가자.",
         "en-US": "I think I've harvested enough. Let's find Varmunt to resume the Farm Experience.",
         "pt-BR": "Acho que  já colhi o suficiente. Vamos encontrar Varmunt e concluir o dia na Fazenda.",
         "es-ES": "Creo que ya coseché suficiente. Busquemos a Varmunt para terminar el día en la granja."
     },
     "OD8vDQ": {
-        "ko-KR": "토마토",
         "en-US": "Tomato",
         "pt-BR": "Tomate",
         "es-ES": "Tomate"
     },
     "OT8vDQ": {
-        "ko-KR": "탐스럽게 자란 구마모토의 토마토. 수확하기 좋게 익어 있다. 어떤 토마토를 수확할까?",
         "en-US": "The tasty-looking Kumamoto tomatoes are ripe for picking.\nWhich one should I harvest?",
         "pt-BR": "Os deliciosos tomates de Kumamoto estão maduros e prontos para a colheita. Qual deles devo colher?",
         "es-ES": "Los deliciosos tomates de Kumamoto están maduros y listos para cosechar. ¿Cuál debería coger?"
     },
     "Oj8vDQ": {
-        "ko-KR": "무른 토마토",
         "en-US": "Soft Tomato",
         "pt-BR": "Tomate Macio",
         "es-ES": "Tomate Suave"
     },
     "Oz8vDQ": {
-        "ko-KR": "빨간 토마토",
         "en-US": "Red Tomato",
         "pt-BR": "Tomate Vermelho",
         "es-ES": "Tomate Rojo"
     },
     "PD8vDQ": {
-        "ko-KR": "초록 토마토",
         "en-US": "Green Tomato",
         "pt-BR": "Tomate Verde",
         "es-ES": "Tomate Verde"
     },
     "PT8vDQ": {
-        "ko-KR": "수확 시기를 지나 너무 많이 익어버린 토마토를 골랐다.",
         "en-US": "I chose a very ripe tomato that is way past the harvest time.",
         "pt-BR": "Escolhi um tomate bem maduro que já passou da época de ser colhido.",
         "es-ES": "Elegí un tomate muy maduro que ya pasó la época de la cosecha."
     },
     "Pj8vDQ": {
-        "ko-KR": "섬세한 손놀림이 필요했지만, 무사히 토마토를 잡았다!",
         "en-US": "It's some delicate handwork, but I was able to pick a tomato successfully!",
         "pt-BR": "É um trabalho manual delicado, mas consegui colher o tomate!",
         "es-ES": "Es un trabajo manual delicado, ¡pero logré cosechar el tomate!"
     },
     "Pz8vDQ": {
-        "ko-KR": "앗, 손을 대자마자 터져 버렸다... 다른 토마토를 골라 볼까?",
         "en-US": "Ah, I smashed it as soon as I touched it... Shall I choose another tomato?",
         "pt-BR": "Ah, o tomate amassou assim que enconstei nele... Escolho outro?",
         "es-ES": "Ay, el tomate se aplastó en cuanto lo toqué... ¿Elijo otro?"
     },
     "QD8vDQ": {
-        "ko-KR": "알맞게 익어 선명한 빨간색인 토마토를 골랐다.\n향긋한 향기와 함께 적당한 단단함이 느껴진다.",
         "en-US": "I chose a ripe, vivid red tomato.\nYou can feel its fragant scent and firmness!",
         "pt-BR": "Escolhi um tomate maduro, de vermelho bem vivo.\nDá pra sentir seu aroma suave e a firmeza da polpa!",
         "es-ES": "Elegí un tomate maduro, de un rojo bien intenso.\n¡Se siente su aroma suave y la firmeza de la pulpa!"
     },
     "QT8vDQ": {
-        "ko-KR": "아직은 초록색을 띠는 토마토를 골랐다.",
         "en-US": "I chose a tomato that is still green.",
         "pt-BR": "Escolhi um tomate que ainda está verde.",
         "es-ES": "Elegí un tomate que todavía está verde."
     },
     "Qj8vDQ": {
-        "ko-KR": "조금 덜 익기는 했지만, 조금만 후숙하면 맛있게 먹을 수 있을 것 같다!",
         "en-US": "It's a little raw, but if I wait some time, I'll be able to eat it!",
         "pt-BR": "Não está maduro ainda, mas se esperar mais um tempo, vai dar pra comer!",
         "es-ES": "¡Aún no está maduro, pero si espero un poco, se podrá comer!"
     },
     "Qz8vDQ": {
-        "ko-KR": "이 토마토는 맛이 없을 것 같다. 다른 토마토를 골라 볼까?",
         "en-US": "This tomato looks tasteless. Shall I choose another one?",
         "pt-BR": "Esse tomate não tem cara de ser saboroso. Escolho outro?",
         "es-ES": "Este tomate no se ve muy apetitoso. ¿Elijo otro?"
     },
     "RD8vDQ": {
-        "ko-KR": "힘으로 잡아챈다",
         "en-US": "Grab by force",
         "pt-BR": "Arrancar na força",
         "es-ES": "Arrancar con fuerza"
     },
     "RT8vDQ": {
-        "ko-KR": "가위를 사용한다",
         "en-US": "Use the scissors",
         "pt-BR": "Usar a tesoura",
         "es-ES": "Usar las tijeras"
     },
     "Rj8vDQ": {
-        "ko-KR": "가볍게 꺾는다",
         "en-US": "Bend the stem carefully",
         "pt-BR": "Torcer o cabo com cuidado",
         "es-ES": "Girar el tallo con cuidado"
     },
     "Rz8vDQ": {
-        "ko-KR": "호쾌하게 토마토를 잡아당겼다!",
         "en-US": "I harvested a tasteful tomato!",
         "pt-BR": "Eu colhi um tomate delicioso!",
         "es-ES": "¡Coseché un tomate delicioso!"
     },
     "SD8vDQ": {
-        "ko-KR": "톡! 경쾌한 소리와 함께 토마토가 깔끔하게 분리되었다.",
         "en-US": "Pop! The tomato made a funny sound when harvested neatly.",
         "pt-BR": "Plop! O tomate fez um som engraçado ao ser colhido.",
         "es-ES": "¡Plop! El tomate hizo un sonido gracioso al ser cogido."
     },
     "ST8vDQ": {
-        "ko-KR": "이런! 힘을 너무 줘서 토마토가 터져 버렸다... 처음부터 다시 하자.",
         "en-US": "Oh no! I smashed the tomato, because I couldn't control my strenght. Let's try again.",
         "pt-BR": "Ah, não! Amassei o tomate, porque não consegui controlar a minha força. Vamos tentar de novo.",
         "es-ES": "¡Rayos! No conseguí medir mi fuerza y aplasté el tomate. Intentémoslo otra vez."
     },
     "Sj8vDQ": {
-        "ko-KR": "깔끔한 게 제일이지! 가위로 토마토 줄기를 잘랐다.",
         "en-US": "Being efficient is the best! I cut the tomato stem with scissors.",
         "pt-BR": "Precisão é a melhor coisa! Cortei o cabo do tomate com tesoura.",
         "es-ES": "¡La precisión lo es todo! Corté el tallo del tomate con las tijeras."
     },
     "Sz8vDQ": {
-        "ko-KR": "이크! 헛손질을 해서 토마토에 상처가 났다... 처음부터 다시 하자.",
         "en-US": "Eek! I made a wrong hand move and damaged the tomato... Let's try again.",
         "pt-BR": "Ai! Fiz um movimento errado e amassei o tomate... Vamos tentar de novo.",
         "es-ES": "¡Ay! Hice un mal movimiento y aplasté el tomate... Vamos a intentarlo otra vez."
     },
     "TD8vDQ": {
-        "ko-KR": "안전하게 토마토를 수확했다!\n가위를 사용할 때는 손 조심!",
         "en-US": "I harvested the tomato safely!\nGotta be careful when using scissors!",
         "pt-BR": "Colhi o tomate sem problemas!\nÉ preciso ter cuidado com a testoura!",
         "es-ES": "¡Coseché el tomate sin problemas!\n¡Hay que tener cuidado con las tijeras!"
     },
     "TT8vDQ": {
-        "ko-KR": "토마토 위의 줄기를 가볍게 꺾었다.\n딱 좋게 분리되었다.",
         "en-US": "I gently plucked the tomato stem.\nIt came apart perfectly.",
         "pt-BR": "Arranquei o cabo do tomate devagar.\nEle se soltou com perfeição.",
         "es-ES": "Arranqué el tallo del tomate despacio.\nSe soltó a la perfección."
     },
     "Tj8vDQ": {
-        "ko-KR": "토마토를 수확했다! 휴~ 수확의 뿌듯함이란!",
         "en-US": "Tomato harvesting done! Phew! I'm so proud of myself!",
         "pt-BR": "Colheita de tomate concluída! Ufa! Que orgulho de mim!",
         "es-ES": "¡Cosecha de tomates terminada! ¡Uff! ¡Qué orgullo!"
     },
     "Tz8vDQ": {
-        "ko-KR": "콜라보OFF",
         "en-US": "Collab Off",
         "pt-BR": "Collab Off",
         "es-ES": "Collab Off"
     },
     "UD8vDQ": {
-        "ko-KR": "프론테라의 콜라보 입장 NPC 관리",
         "en-US": "NPC Setting in Prontera",
         "pt-BR": "NPC Setting in Prontera",
         "es-ES": "NPC Setting in Prontera"
     },
     "UT8vDQ": {
-        "ko-KR": "끄기",
         "en-US": "Off",
         "pt-BR": "Off",
         "es-ES": "Off"
     },
     "Uj8vDQ": {
-        "ko-KR": "켜기",
         "en-US": "On",
         "pt-BR": "On",
         "es-ES": "On"
     },
     "Uz8vDQ": {
-        "ko-KR": "실행 완료. 종료합니다.",
         "en-US": "Done. Dialog will be closed.",
         "pt-BR": "Done. Dialog will be closed.",
         "es-ES": "Done. Dialog will be closed."
     },
     "VD8vDQ": {
-        "ko-KR": "권한없음",
         "en-US": "No Authorization",
         "pt-BR": "No Authorization",
         "es-ES": "No Authorization"
     },
     "VT8vDQ": {
-        "ko-KR": "라자냐의 콜라보 입장 NPC 관리",
         "en-US": "NPC Setting in Lasanya",
         "pt-BR": "NPC Setting in Lasanya",
         "es-ES": "NPC Setting in Lasanya"
     },
     "Vj8vDQ": {
-        "ko-KR": "콜라보 맵 내부의 모든 유저 내보내기",
         "en-US": "Expel all users from the Collab map",
         "pt-BR": "Expel all users from the Collab map",
         "es-ES": "Expel all users from the Collab map"
     },
     "Vz8vDQ": {
-        "ko-KR": "취소",
         "en-US": "Cancel",
-        "pt-BR": "Cancel",
-        "es-ES": "Cancel"
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
     },
     "WD8vDQ": {
-        "ko-KR": "실행",
         "en-US": "Do it",
-        "pt-BR": "Do it",
-        "es-ES": "Do it"
+        "pt-BR": "Faça isso",
+        "es-ES": "Hazlo"
     },
     "WT8vDQ": {
-        "ko-KR": "종료합니다.",
         "en-US": "Canceled",
         "pt-BR": "Canceled",
         "es-ES": "Canceled"

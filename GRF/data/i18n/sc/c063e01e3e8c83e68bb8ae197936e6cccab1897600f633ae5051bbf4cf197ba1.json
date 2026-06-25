@@ -1,78 +1,65 @@
 {
     "wHafCw": {
-        "ko-KR": "마켓 상인",
         "en-US": "Market Merchant",
         "pt-BR": "Comerciante do Bazar",
         "es-ES": "Comerciante del Bazar"
     },
     "wXafCw": {
-        "ko-KR": "[마켓 상인]\n마켓으로 가시겠어요?",
         "en-US": "[Market Merchant]\nWould you like to go to Bazaar?",
         "pt-BR": "[Comerciante do Bazar]\nVocê gostaria de ir ao Bazar?",
         "es-ES": "[Comerciante del Bazar]\n¿Te gustaría ir al Bazar?"
     },
     "wnafCw": {
-        "ko-KR": "프론테라 마켓으로 이동",
         "en-US": "Go to Prontera Market",
         "pt-BR": "Ir ao Bazar de Prontera",
         "es-ES": "Ir al Bazar de Prontera"
     },
     "w3afCw": {
-        "ko-KR": "페이욘 마켓으로 이동",
         "en-US": "Go to Payon Market",
         "pt-BR": "Ir ao Bazar de Payon",
         "es-ES": "Ir al Bazar de Payon"
     },
     "xHafCw": {
-        "ko-KR": "[프론테라 마켓 상인]\n절 따라오세요!",
         "en-US": "[Market Merchant]\nFollow me!",
         "pt-BR": "[Comerciante do Bazar]\nMe siga!",
         "es-ES": "[Comerciante del Bazar de Prontera]\n¡Sígueme!"
     },
     "xXafCw": {
-        "ko-KR": "Eden Teleport Officer",
         "en-US": "Eden Teleport Officer",
         "pt-BR": "Oficial do Éden",
         "es-ES": "Oficial del Edén"
     },
     "xnafCw": {
-        "ko-KR": "[Eden Group Teleport Service]\nDo you want us to give you some quests that'll be helpful for your adventure?",
         "en-US": "[Eden Teleport Officer]\nDo you want to return to Eden Group?",
         "pt-BR": "[Oficial do Éden]\nQuer voltar ao Grupo Éden?",
         "es-ES": "[Oficial de Teletransporte del Edén]\n¿Quieres volver al Grupo del Edén?"
     },
     "x3afCw": {
-        "ko-KR": "Go to Eden Group.",
         "en-US": "Go to Eden Group.",
         "pt-BR": "Ir para o Grupo do Éden.",
         "es-ES": "Ir al Grupo del Edén."
     },
     "yHafCw": {
-        "ko-KR": "End conversation.",
         "en-US": "End conversation.",
         "pt-BR": "Encerrar conversa.",
         "es-ES": "Fin de la conversación."
     },
     "yXafCw": {
-        "ko-KR": "[Eden Group Teleport Service]\nHere, let's go to our base!",
         "en-US": "[Eden Teleport Officer]\nHere, let's go to our base!",
         "pt-BR": "[Oficial do Éden]\nAqui, vamos para nossa base!",
         "es-ES": "[Oficial de Teletransporte del Edén]\n¡Aquí, vamos a nuestra base!"
     },
     "ynafCw": {
-        "ko-KR": "[Eden Group Teleport Service]\nPlease visit the Eden Group any time you're in need!",
         "en-US": "[Eden Teleport Officer]\nPlease visit the Eden Group any time you're in need!",
         "pt-BR": "[Oficial do Éden]\nVisite o Grupo do Éden sempre que precisar!",
         "es-ES": "[Oficial de Teletransporte del Edén]\nVisita el Grupo del Edén cuando lo necesites."
     },
     "y3afCw": {
-        "ko-KR": "[마켓 상인]\n절 따라오세요!",
         "en-US": "[Market Merchant]\nFollow me!",
         "pt-BR": "[Comerciante do Bazar]\nMe siga!",
         "es-ES": "[Comerciante del Bazar de Prontera]\n¡Sígueme!"
     },
     "zHafCw": {
-        "ko-KR": "취소",
         "en-US": "Cancel",
         "pt-BR": "Cancelar",
         "es-ES": "Cancelar"

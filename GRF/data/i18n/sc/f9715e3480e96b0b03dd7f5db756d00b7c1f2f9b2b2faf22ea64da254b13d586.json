@@ -1,992 +1,827 @@
 {
     "YIJwDA": {
-        "ko-KR": "[?????]\n얘 넌 거기서 비비지 말고 나 좀 보자",
         "en-US": "[?????]\nHey, stop messing around over there and come talk to me.",
-        "pt-BR": "[?????]\nEi, não fique aí parado, olha só pra mim",
+        "pt-BR": "[?????]\nEi, não fique aí zanzando e olhe pra cá.",
         "es-ES": "[?????]\nOye, no te quedes ahí parado, ven a verme"
     },
     "YYJwDA": {
-        "ko-KR": "루민",
         "en-US": "Rumin",
-        "pt-BR": "Lumin",
+        "pt-BR": "Rumin",
         "es-ES": "Lumin"
     },
     "YoJwDA": {
-        "ko-KR": "[루민]\n어둠의 힘을 손에 넣은 기분은 어떻지?\n신체 어딘가에 암흑룡이라도 봉인된 기분인가?",
         "en-US": "[Rumin]\nWhat does it feel like having the power of darkness at your command?\nCan you feel it pulsating inside your body?",
-        "pt-BR": "[Lumin]\nComo é a sensação de ter o poder das trevas nas mãos?\nÉ como se um dragão das trevas estivesse selado em algum lugar do teu corpo?",
-        "es-ES": "[Lumin]\n¿Qué se siente al tener el poder de la oscuridad en tus manos?\n¿Te sientes como si tuvieras un dragón de las tinieblas sellado en alguna parte de tu cuerpo?"
+        "pt-BR": "[Rumin]\nComo é a sensação de ter o poder das trevas nas mãos?\nÉ como se um dragão das trevas estivesse selado em algum lugar do teu corpo?",
+        "es-ES": "[Rumin]\n¿Qué se siente al tener el poder de la oscuridad en tus manos?\n¿Te sientes como si tuvieras un dragón de las tinieblas sellado en alguna parte de tu cuerpo?"
     },
     "Y4JwDA": {
-        "ko-KR": "[루민]\n음 …. 사람을 찾는 중이었는데, 미안. 너는 내가 기대하는 인재가 못되네.\n그렇다고 실망하진 말고.\n넌 너만의 매력이 있잖아.",
-        "en-US": "[Lumin]\nHmm... I was looking for someone, and... Sorry, you're not it.\nDon't be disappointed.\nYou're talented in your own way.",
-        "pt-BR": "[Lumin]\nHum... Eu estava procurando alguém, desculpa. Tu não és o talento que eu esperava.\nMas não ficas desapontado por causa disso.\nTu tens o teu próprio charme, não é?",
-        "es-ES": "[Lumin]\nMmm... Estaba buscando a alguien, lo siento. No eres el talento que esperaba.\nPero no te desanimes.\nTienes tu propio encanto, ¿no?"
+        "en-US": "[Rumin]\nHmm... I was looking for someone, and... Sorry, you're not it.\nDon't be disappointed.\nYou're talented in your own way.",
+        "pt-BR": "[Rumin]\nHum... Eu estava procurando por alguém, desculpa. Você não é o talento que eu esperava.\nMas não fique desapontado por causa disso.\nVocê tem o seu próprio charme, não é?",
+        "es-ES": "[Rumin]\nMmm... Estaba buscando a alguien, lo siento. No eres el talento que esperaba.\nPero no te desanimes.\nTienes tu propio encanto, ¿no?"
     },
     "ZIJwDA": {
-        "ko-KR": "[루민]\n사람을 찾고 있어.\n너처럼 멋진 길로틴크로스이면서, 레벨의 한계까지 다다른 친구를 말이야.\n너, 조금만 힘내면 내가 찾던 인재가 되겠다?",
-        "en-US": "[Lumin]\nI'm looking for someone.\nSomeone like you, an awesome Guillotine Cross who's reached the Maximum Level.\nYou, if you just push a little harder, you could be the talent I'm looking for?",
-        "pt-BR": "[Lumin]\nEstou procurando alguém.\nUm amigo que seja um Guillotine Cross tão incrível quanto você e que tenha atingido o limite de nível.\nSe você se esforçar um pouquinho mais, vai se tornar o talento que eu estava procurando, não é?",
-        "es-ES": "[Lumin]\nEstoy buscando a alguien.\nMe refiero a un amigo que sea un Guillotine Cross tan genial como tú y que haya llegado al límite de nivel.\nSi te esfuerzas un poco más, ¿te convertirás en el talento que estaba buscando?"
+        "en-US": "[Rumin]\nI'm looking for someone.\nSomeone like you, an awesome Guillotine Cross who's reached the Maximum Level.\nYou, if you just push a little harder, you could be the talent I'm looking for?",
+        "pt-BR": "[Rumin]\nEstou procurando por alguém.\nUm amigo Sicário tão incrível como você e que tenha atingido o nível máximo.\nSe você se esforçar um pouquinho mais, poderá se tornar o talento que eu estava procurando, não é?",
+        "es-ES": "[Rumin]\nEstoy buscando a alguien.\nMe refiero a un amigo que sea un Guillotine Cross tan genial como tú y que haya llegado al límite de nivel.\nSi te esfuerzas un poco más, ¿te convertirás en el talento que estaba buscando?"
     },
     "ZYJwDA": {
-        "ko-KR": "^4D4DFF 4차직업 쉐도우 크로스를 위한 시험 이벤트가 있습니다.\n베이스 레벨 200 이상, 전승 길로틴크로스로 진행할 수 있습니다.^000000",
         "en-US": "^4D4DFF There is a trial event for the 4th job, Shadow Cross.\nBase Level 200 or higher, can be advanced with a Guillotine Cross.^000000",
-        "pt-BR": "^4D4DFF Há um evento de teste para a 4ª classe, Shadow Cross.\nPodes participar com um nível base de 200 ou mais, como um Guillotine Cross de herança.^000000",
-        "es-ES": "^4D4DFF Hay un evento de prueba para la cuarta clase, Shadow Cross.\nPuedes participar si tienes un nivel base de 200 o más y eres un Guillotine Cross heredado.^000000"
+        "pt-BR": "^4D4DFF Há um teste para a 4ª classe, Executor.\nÉ possível participar se você for um Sicário de nível de base 200 ou mais.^000000",
+        "es-ES": "^4D4DFF Hay un evento de prueba para la cuarta clase, Ejecutor.\nPuedes participar si tienes un nivel base de 200 o más y eres un Guillotine Cross heredado.^000000"
     },
     "ZoJwDA": {
-        "ko-KR": "[루민]\n{0}!\n마침 잘 만났다.\n안그래도 널 기다리고 있었어.",
         "en-US": "[Rumin]\n{0}!\nWell-met!\nI've been waiting for you.",
-        "pt-BR": "[Lumin]\n{0}!\nQue bom que te encontrei.\nEstava mesmo esperando por você.",
-        "es-ES": "[Lumin]\n¡{0}!\nQué bien que te encuentro.\nJusto te estaba esperando."
+        "pt-BR": "[Rumin]\n{0}!\nQue bom que te encontrei.\nEstava mesmo esperando por você.",
+        "es-ES": "[Rumin]\n¡{0}!\nQué bien que te encuentro.\nJusto te estaba esperando."
     },
     "Z4JwDA": {
-        "ko-KR": "무슨 일이야?",
         "en-US": "What's up?",
         "pt-BR": "O que foi?",
         "es-ES": "¿Qué pasa?"
     },
     "aIJwDA": {
-        "ko-KR": "[루민]\n최근 메이셀과 베르카셀의 주도로 길드 차원에서 수집하던 정보가 있었는데\n얼마전에 결정적인 실마리를 잡았다는 것 같다.",
-        "en-US": "[Lumin]\nRecently, the Guild has been collecting information with Mayssel and Verkhasel in the lead,\nand they've just discovered some decisive clue.",
-        "pt-BR": "[Lumin]\nRecentemente, sob a liderança de Meisel e Vercasel, a guilda vinha coletando algumas informações,\ne parece que, há pouco tempo, eles conseguiram uma pista decisiva.",
-        "es-ES": "[Lumin]\nHace poco, bajo la dirección de Meisel y Verkasel, el gremio estaba recopilando información,\ny parece que hace unos días dieron con una pista decisiva."
+        "en-US": "[Rumin]\nRecently, the Guild has been collecting information with Mayssel and Verkhasel in the lead,\nand they've just discovered some decisive clue.",
+        "pt-BR": "[Rumin]\nRecentemente, sob a liderança de Mayssel e Verkhasel, a guilda vem coletando algumas informações,\ne parece que eles acabaram de conseguir uma pista importante.",
+        "es-ES": "[Rumin]\nHace poco, bajo la dirección de Meisel y Verkasel, el gremio estaba recopilando información,\ny parece que hace unos días dieron con una pista decisiva."
     },
     "aYJwDA": {
-        "ko-KR": "[루민]\n해서, 본격적으로 투입할 인원을 선별하던 중이야.\n너에게 딱 어울리는 일이라 생각해서 널 추천했어. 잘했지?",
-        "en-US": "[Lumin]\nSo, they're selecting personnel to deploy in earnest.\nI thought this job would suit you perfectly, so I recommended you. Good choice, right?",
-        "pt-BR": "[Lumin]\nPor isso, estamos selecionando o pessoal que vai ser enviado para a missão.\nAchei que essa tarefa combinava perfeitamente com você, então te indiquei. Fiz bem, né?",
-        "es-ES": "[Lumin]\nPor eso, estamos seleccionando al personal que se incorporará de lleno.\nPensé que era el trabajo perfecto para ti, así que te recomendé. ¿Hice bien?"
+        "en-US": "[Rumin]\nSo, they're selecting personnel to deploy in earnest.\nI thought this job would suit you perfectly, so I recommended you. Good choice, right?",
+        "pt-BR": "[Rumin]\nPor isso, estamos selecionando pessoas para serem enviadas em missão.\nAchei que essa tarefa combinava perfeitamente com você, então te indiquei. Fiz bem, né?",
+        "es-ES": "[Rumin]\nPor eso, estamos seleccionando al personal que se incorporará de lleno.\nPensé que era el trabajo perfecto para ti, así que te recomendé. ¿Hice bien?"
     },
     "aoJwDA": {
-        "ko-KR": "[루민]\n베인스 동쪽 지구의 안가에서 다른 동료들이 기다리고 있으니 지금 바로 가보도록 해.\n자세한 내용은 베르카셀이 알려줄 거다.",
-        "en-US": "[Lumin]\nVerkhasel is waiting for you at the safehouse in the eastern Veins district. You should go there now.\nVerkhasel will tell you more about the operation.",
-        "pt-BR": "[Lumin]\nOs outros colegas estão te esperando no esconderijo no distrito leste de Bains, então vai lá agora mesmo.\nO Vercasel vai te dar mais detalhes.",
-        "es-ES": "[Lumin]\nTus compañeros te están esperando en un refugio del distrito este de Bains, así que ve ahí ahora mismo.\nVercasel te dará todos los detalles."
+        "en-US": "[Rumin]\nVerkhasel is waiting for you at the safehouse in the eastern Veins district. You should go there now.\nVerkhasel will tell you more about the operation.",
+        "pt-BR": "[Rumin]\nOs outros colegas estão te esperando no esconderijo no distrito leste de Veins, então vá lá agora mesmo.\nVerkhasel vai te dar mais detalhes.",
+        "es-ES": "[Rumin]\nTus compañeros te están esperando en un refugio del distrito este de Bains, así que ve ahí ahora mismo.\nVerkhasel te dará todos los detalles."
     },
     "a4JwDA": {
-        "ko-KR": "정확한 위치가 어디지?",
         "en-US": "Where exactly is it?",
         "pt-BR": "Qual é a localização exata?",
         "es-ES": "¿Dónde queda exactamente?"
     },
     "bIJwDA": {
-        "ko-KR": "[루민]\n^4D4DFF베인스 동쪽 지구의 안가^000000라고만 들었는데, 하나 하나 문이라도 두들겨보면 알 수 있지 않겠어?",
         "en-US": "[Rumin]\nI only heard it's in the eastern Veins district, but wouldn't knocking on every door one by one tell us?",
-        "pt-BR": "[Lumin]\nSó ouvi dizer que é ^4D4DFFno interior do distrito leste de Bains^000000, mas se você bater em cada porta, uma por uma, vai descobrir, não é?",
-        "es-ES": "[Lumin]\nSolo me dijeron que es ^4D4DFFen un lugar recóndito del distrito este de Bains^000000, pero ¿no crees que lo descubrirás si vas tocando puerta por puerta?"
+        "pt-BR": "[Rumin]\nSó ouvi dizer que é ^4D4DFFno interior do distrito leste de Veins^000000, mas se você bater em cada porta, uma por uma, vai descobrir, não é?",
+        "es-ES": "[Rumin]\nSolo me dijeron que es ^4D4DFFen un lugar recóndito del distrito este de Bains^000000, pero ¿no crees que lo descubrirás si vas tocando puerta por puerta?"
     },
     "bYJwDA": {
-        "ko-KR": "[루민]\n잘 살펴보면 길이 보일지도 몰라.\n넌 어떤 어려움도 잘 이겨내면서 여기까지 왔으니까 이번에도 잘 할 거다.",
-        "en-US": "[Lumin]\nLook carefully and you might find the way.\nYou've made it this far without anyone's help. Buck up.",
-        "pt-BR": "[Lumin]\nSe você olhar com atenção, talvez consiga ver o caminho.\nVocê superou todas as dificuldades até chegar aqui, então vai se sair bem dessa vez também.",
-        "es-ES": "[Lumin]\nSi miras bien, tal vez veas el camino.\nHas llegado hasta aquí superando cualquier dificultad, así que esta vez también lo harás bien."
+        "en-US": "[Rumin]\nLook carefully and you might find the way.\nYou've made it this far without anyone's help. Buck up.",
+        "pt-BR": "[Rumin]\nSe você procurar com atenção, poderá encontrar o caminho.\nVocê chegou até aqui sem a ajuda de ninguém, então vai se sair bem dessa vez também.",
+        "es-ES": "[Rumin]\nSi miras bien, tal vez veas el camino.\nHas llegado hasta aquí superando cualquier dificultad, así que esta vez también lo harás bien."
     },
     "boJwDA": {
-        "ko-KR": "[루민]\n베인스 동쪽 지구에 있는 안가를 찾아 가.\n잘 모르겠다고…?\n어쩔 수 없네. 내가 근처에 풀을 심어두겠다. 그럼 찾을 수 있겠지?",
-        "en-US": "[Lumin]\nGo to the safehouse in the eastern Veins district.\nYou don't think you can find it?\nAlright, then I'll plant some plants nearby. Would that help?",
-        "pt-BR": "[Lumin]\nVai até a casa escondida no distrito leste de Bains.\nNão sabes onde fica...?\nNão tem jeito. Vou plantar umas ervas por perto. Assim vais conseguir encontrar, certo?",
-        "es-ES": "[Lumin]\nVe a buscar la casa escondida en el distrito este de Bains.\n¿Que no sabes dónde está?\nNo hay más remedio. Voy a plantar unas plantas cerca. Así podrás encontrarla, ¿no?"
+        "en-US": "[Rumin]\nGo to the safehouse in the eastern Veins district.\nYou don't think you can find it?\nAlright, then I'll plant some plants nearby. Would that help?",
+        "pt-BR": "[Rumin]\nVá até o esconderijo no distrito leste de Veins.\nNão sabe onde fica...?\nNão tem jeito. Vou plantar umas ervas por perto. Isso vai te ajudar, certo?",
+        "es-ES": "[Rumin]\nVe a buscar la casa escondida en el distrito este de Bains.\n¿Que no sabes dónde está?\nNo hay más remedio. Voy a plantar unas plantas cerca. Así podrás encontrarla, ¿no?"
     },
     "b4JwDA": {
-        "ko-KR": "[루민]\n내가 그렇게까지 했는데도 찾지 못하면 엄청 실망하게 될 거다.\n인재를 선별해서 보내라고 했는데 그러지 못했다고 혼도 나겠지 ….",
-        "en-US": "[Lumin]\nI'll be really disappointed in you if you can't find it even after this.\nThey'll be disappointed in me, too, for sending someone so incompetent their way.",
-        "pt-BR": "[Lumin]\nSe você não conseguir encontrar mesmo depois de tudo isso, vou ficar muito decepcionado.\nPediram pra eu selecionar e enviar talentos, e se eu não conseguir, vou levar uma bronca também...",
-        "es-ES": "[Lumin]\nSi no la encuentras después de todo lo que hice, me voy a decepcionar muchísimo.\nMe pidieron que seleccionara y enviara a gente con talento, y si no lo hago, me van a regañar..."
+        "en-US": "[Rumin]\nI'll be really disappointed in you if you can't find it even after this.\nThey'll be disappointed in me, too, for sending someone so incompetent their way.",
+        "pt-BR": "[Rumin]\nSe você não conseguir encontrar mesmo depois de tudo isso, vou ficar muito decepcionado.\nPediram pra eu selecionar e enviar talentos, e se eu não conseguir, vou levar uma bronca também...",
+        "es-ES": "[Rumin]\nSi no la encuentras después de todo lo que hice, me voy a decepcionar muchísimo.\nMe pidieron que seleccionara y enviara a gente con talento, y si no lo hago, me van a regañar..."
     },
     "cIJwDA": {
-        "ko-KR": "[루민]\n나한테 무슨 용무가 더 있어?\n지금의 나는 병아리 감별사같은 거란다.\n전도유망한 병아리를 찾아서 어둠에 던지는 일을 하고 있지.",
-        "en-US": "[Lumin]\nDo you have any more business with me?\nRight now, I'm like a chicken sexer.\nI find promising chicks and throw them into the darkness.",
-        "pt-BR": "[Lumin]\nTem mais alguma coisa pra falar comigo?\nNo momento, sou tipo um selecionador de pintinhos.\nEstou procurando pintinhos promissores pra jogar na escuridão.",
-        "es-ES": "[Lumin]\n¿Qué más necesitas de mí?\nAhora soy como un seleccionador de pollitos.\nMe dedico a buscar pollitos prometedores y lanzarlos a la oscuridad."
+        "en-US": "[Rumin]\nDo you have any more business with me?\nRight now, I'm like a talent scout.\nI find promising adventurers and throw them into the darkness.",
+        "pt-BR": "[Rumin]\nTem mais alguma coisa pra falar comigo?\nNo momento, sou tipo um caçador de talentos.\nEstou procurando talentos promissores pra jogar na escuridão.",
+        "es-ES": "[Rumin]\n¿Qué más necesitas de mí?\nAhora soy como un seleccionador de pollitos.\nMe dedico a buscar pollitos prometedores y lanzarlos a la oscuridad."
     },
     "cYJwDA": {
-        "ko-KR": "풀",
-        "en-US": "풀",
-        "pt-BR": "Pul",
+        "en-US": "Pull",
+        "pt-BR": "Puxar",
         "es-ES": "Pull"
     },
     "coJwDA": {
-        "ko-KR": "베르카셀",
         "en-US": "Verkhasel",
-        "pt-BR": "Berksel",
-        "es-ES": "Vercasel"
+        "pt-BR": "Verkhasel",
+        "es-ES": "Verkhasel"
     },
     "c4JwDA": {
-        "ko-KR": "[베르카셀]\n …? 초대받지 않은 손님이군.\n조용히 나가주겠나?",
-        "en-US": "[Bercassell]...?\n An uninvited guest, I see.\nWould you kindly leave?",
-        "pt-BR": "[Vercasel]\n …? Um convidado indesejado.\nPodes sair em silêncio?",
-        "es-ES": "[Vercasel]\n …? Un invitado no deseado.\n¿Te irías en silencio?"
+        "en-US": "[Verkhasel]\n...?\nAn uninvited guest, I see.\nWould you kindly leave?",
+        "pt-BR": "[Verkhasel]\n …?\nUm convidado indesejado.\nPoderia se retirar?",
+        "es-ES": "[Verkhasel]\n …? Un invitado no deseado.\n¿Te irías en silencio?"
     },
     "dIJwDA": {
-        "ko-KR": "[베르카셀]\n{0}?\n쓸만한 인재를 보내겠다더니, 그게 너인가?\n루민이 호언장담한 이유가 있군.",
         "en-US": "[Verkhasel]\n{0}?\nDid Rumin send you?\nThis explains why he told us not to worry.",
-        "pt-BR": "[Vercasel]\n{0}?\nDisseram que mandariam um talento que valesse a pena, e esse talento és tu?\nJá percebo por que o Lumin estava tão confiante.",
-        "es-ES": "[Vercasel]\n{0}?\nDijiste que enviarías a alguien útil, ¿y ese eres tú?\nYa veo por qué Lumin estaba tan seguro."
+        "pt-BR": "[Verkhasel]\n{0}?\nDisseram que mandariam um talento que valesse a pena. Esse talento seria você?\nJá percebo por que o Rumin estava tão confiante.",
+        "es-ES": "[Verkhasel]\n{0}?\nDijiste que enviarías a alguien útil, ¿y ese eres tú?\nYa veo por qué Lumin estaba tan seguro."
     },
     "dYJwDA": {
-        "ko-KR": "[베르카셀]\n마침 조건도 적당하고 좋군.\n거두절미하고 묻지.\n^4D4DFF그림자 현상^000000이라는 말 들어본 적 있나?",
         "en-US": "[Verkhasel]\nWell, the conditions are just right.\nWithout further ado, let me ask you something.\nHave you heard of the ^4D4DFFShadow Phenomenon^000000?",
-        "pt-BR": "[Vercasel]\nPor acaso, as condições também são adequadas e boas.\nVou direto ao ponto.\n^4D4DFFJá ouviste falar do Fenômeno das Sombras^000000?",
-        "es-ES": "[Vercasel]\nAdemás, tus condiciones son adecuadas, lo cual es bueno.\nSin más preámbulos, te pregunto:\n¿Has oído hablar alguna vez del ^4D4DFFfenómeno de las sombras^000000?"
+        "pt-BR": "[Verkhasel]\nBem, parece q está tudo certo.\nVou direto ao ponto.\nJá ouviu falar sobre o ^4D4DFFFenômeno Sombrio^000000?",
+        "es-ES": "[Verkhasel]\nAdemás, tus condiciones son adecuadas, lo cual es bueno.\nSin más preámbulos, te pregunto:\n¿Has oído hablar alguna vez del ^4D4DFFfenómeno de las sombras^000000?"
     },
     "doJwDA": {
-        "ko-KR": "금시초문이다.",
         "en-US": "Never heard of it.",
         "pt-BR": "Nunca ouvi falar.",
         "es-ES": "Nunca había oído hablar de eso."
     },
     "d4JwDA": {
-        "ko-KR": "[베르카셀]\n흐음 …. 이쪽에선 전설처럼 내려오는 이야기 중 하나인데, 아직까지 모르고 있었다니 ….\n솔직히 말해봐.\n너, 길드의 일에 관심 없지?",
-        "en-US": "[Bercassell]\nHm... Actually, it's a famous story told in this line of business. I'm surprised you haven't heard of it.\nBe honest with me.\nYou're not interested in the guild's affairs, are you?",
-        "pt-BR": "[Vercasel]\nHum... É uma das histórias que circulam por aqui como lenda, e tu ainda não sabias disso...\nSê sincero.\nTu não tens interesse nos assuntos da guilda, não é?",
-        "es-ES": "[Vercasel]\nHmm... Es una de esas historias que se cuentan como leyendas por aquí, y tú aún no la conocías...\nSé sincero.\nTú no te interesa lo del gremio, ¿verdad?"
+        "en-US": "[Verkhasel]\nHm... Actually, it's a famous story told in this line of business. I'm surprised you haven't heard of it.\nBe honest with me.\nYou're not interested in the guild's affairs, are you?",
+        "pt-BR": "[Verkhasel]\nHum... É uma das histórias que circulam por aqui como lenda. Estou surpreso que não conheça.\nSeja sincero.\nVocê não tem interesse nos assuntos da guilda, não é?",
+        "es-ES": "[Verkhasel]\nHmm... Es una de esas historias que se cuentan como leyendas por aquí, y tú aún no la conocías...\nSé sincero.\nTú no te interesa lo del gremio, ¿verdad?"
     },
     "eIJwDA": {
-        "ko-KR": "내 관심이 받고 싶었어…?",
         "en-US": "Did you want my attention...?",
-        "pt-BR": "Querias que eu me interessasse por ti…?",
+        "pt-BR": "Você queria que eu me interessasse…?",
         "es-ES": "¿Querías que te prestara atención…?"
     },
     "eYJwDA": {
-        "ko-KR": "[베르카셀]\n본론으로 들어가지.\n^4D4DFF그림자 현상^000000이란 어떤 존재가 그 장소에 머물렀다 갔을 경우 남는 흔적과 같은 거다.\n그리고 그 어떤 존재는….\n우리는 일단 ^4D4DFF어둠의 정령^000000이라 부르고 있다만 정확한 정체는 모른다.",
-        "en-US": "[Verkhasel]\nLet's cut to the chase.\nThe ^4D4DFFShadow Phenomenon^000000 is traces left behind when a specific being stays in a place and then leaves.\nAnd that specific being...\nWe're calling it the ^4D4DFFDark Spirit^000000 for now, but its true identity is unknown.",
-        "pt-BR": "[Vercasel]\nVamos direto ao ponto.\nO ^4D4DFFFenômeno das Sombras^000000 é como um vestígio que fica para trás quando alguma entidade passa por aquele local.\nE essa entidade...\nPor enquanto, a gente chama de ^4D4DFFEspírito das Trevas^000000, mas não sabemos sua verdadeira identidade.",
-        "es-ES": "[Vercasel]\nVamos al grano.\nEl ^4D4DFFFenómeno de la Sombra^000000 es como el rastro que queda cuando un ser se queda en un lugar y luego se va.\nY ese ser es…\nPor ahora lo llamamos ^4D4DFFEspíritu de la Oscuridad^000000, pero no sabemos su verdadera identidad."
+        "en-US": "[Verkhasel]\nLet's cut to the chase.\nThe ^4D4DFFShadow Phenomenon^000000 is traces left behind when a specific being stays in a place and then leaves.\nAnd that specific being...\nWe're calling it the ^4D4DFFDark Elemental^000000 for now, but its true identity is unknown.",
+        "pt-BR": "[Verkhasel]\nVamos direto ao ponto.\nO ^4D4DFFFenômeno Sombrio0} é um vestígio deixado quando uma entidade passa por um local.\nE essa entidade...\nPor enquanto, a chamamos de ^4D4DFFElemental Sombrio^000000, mas não sabemos sua verdadeira identidade.",
+        "es-ES": "[Verkhasel]\nVamos al grano.\nEl ^4D4DFFFenómeno de la Sombra^000000 es como el rastro que queda cuando un ser se queda en un lugar y luego se va.\nY ese ser es…\nPor ahora lo llamamos ^4D4DFFEspíritu de la Oscuridad^000000, pero no sabemos su verdadera identidad."
     },
     "eoJwDA": {
-        "ko-KR": "메이셀: 그건 제가 설명드리지요.",
         "en-US": "Mayssel: I can tell you more about that.",
-        "pt-BR": "Meisel: Deixa que eu explico isso.",
+        "pt-BR": "Mayssel: Deixa que eu explico isso.",
         "es-ES": "Meisel: Eso te lo explico yo."
     },
     "e4JwDA": {
-        "ko-KR": "[메이셀]\n그간 격조하였습니다.\n이전 임무 이후 처음 뵙는 것 같군요.\n사실 그정도의 관계가 딱 좋긴하답니다.",
-        "en-US": "[Mayssel]\nLong time, no see.\nI haven't seen you since the last time we operated together.\nWhich is fine by me. I don't like mixing business with pleasure.",
-        "pt-BR": "[Meisel]\nFoi um prazer.\nParece que é a primeira vez que nos vemos desde a missão anterior.\nNa verdade, esse tipo de relação é perfeita.",
+        "en-US": "[Mayssel]\nLong time, no see.\nI haven't seen you since the last time we operated together.\nWhich is fine by me. I don't like mixing business with personal matters.",
+        "pt-BR": "[Mayssel]\nHá quanto tempo.\nParece que é a primeira vez que nos vemos desde a última missão.\nPrefiro assim, não gosto de misturar negócios com assuntos pessoais.",
         "es-ES": "[Meisel]\nHa sido un placer.\nCreo que es la primera vez que nos vemos desde la última misión.\nLa verdad es que esa distancia entre nosotros es perfecta."
     },
     "fIJwDA": {
-        "ko-KR": "[메이셀]\n^4D4DFF어둠의 정령^000000, 그냥 편히 ^4D4DFF그림자^000000라고 부르겠어요.\n그림자에 관해선 아무래도 제가 가장 잘 알테니까.",
         "en-US": "[Mayssel]\n^4D4DFFDark Elemental^000000, I'll just call it ^4D4DFFShadow^000000 for now.\nAfter all, I know this Shadow better than anyone else.",
-        "pt-BR": "[Meisel]\n^4D4DFFEspírito das Trevas^000000, vou chamá-lo simplesmente de ^4D4DFFSombra^000000.\nAfinal, sou eu quem melhor conhece as sombras.",
+        "pt-BR": "[Mayssel]\n^4D4DFFElemental Sombrio^000000, vou chamá-lo simplesmente de ^4D4DFFSombra^000000.\nAfinal, ninguém entende melhor da Sombra do que eu.",
         "es-ES": "[Meisel]\n^4D4DFFEspíritu de la Oscuridad^000000, lo llamaré simplemente ^4D4DFFsombra^000000.\nDespués de todo, soy quien mejor conoce las sombras."
     },
     "fYJwDA": {
-        "ko-KR": "[베르카셀]\n그래. 메이셀은 과거 특이한 인연으로 그림자의 힘을 얻을 수 있었지.\n그리고 어둠을 활용할 수 있게 되었다.",
         "en-US": "[Verkhasel]\nYes. She was fortunate enough to encounter the Shadow and gain its power.\nShe's even capable of commanding darkness.",
-        "pt-BR": "[Verkaxel]\nÉ isso mesmo. Meisel conseguiu o poder das Sombras graças a uma conexão especial no passado.\nE passou a ser capaz de usar a escuridão.",
-        "es-ES": "[Vercasel]\nSí. Meisel pudo obtener el poder de las sombras gracias a un vínculo especial en el pasado.\nY así pudo aprender a usar la oscuridad."
+        "pt-BR": "[Verkhasel]\nÉ isso mesmo. Mayssel conseguiu o poder das Sombras graças a uma conexão especial no passado.\nE passou a ser capaz de comandar a escuridão.",
+        "es-ES": "[Verkhasel]\nSí. Meisel pudo obtener el poder de las sombras gracias a un vínculo especial en el pasado.\nY así pudo aprender a usar la oscuridad."
     },
     "foJwDA": {
-        "ko-KR": "[메이셀]\n우연이었지만, 그림자는 {0}, 당신에게 큰 도움이 될 거에요.\n물론 길드 차원에서도 그 힘을 얻는게 좋을테니까.",
         "en-US": "[Mayssel]\nIt was by accident, but the Shadow can be really helpful to you, {0}.\nTo the Guild as well.",
-        "pt-BR": "[Meisel]\nFoi por acaso, mas a Sombra vai ser uma grande ajuda para você, {0}.\nClaro que, do ponto de vista da guilda, também seria bom conseguir esse poder.",
+        "pt-BR": "[Mayssel]\nFoi por acaso, mas a Sombra pode ser um grande aliado para você, {0}.\nÉ claro que também seria benéfico para a Guilda obter esse poder.",
         "es-ES": "[Meisel]\nAunque fue una casualidad, las sombras te serán de gran ayuda, {0}.\nPor supuesto, también sería bueno que el gremio obtuviera ese poder."
     },
     "f4JwDA": {
-        "ko-KR": "[메이셀]\n언제든 그림자의 흔적이 발견되면 정보를 수집할 수 있도록 그동안 별도의 정보원을 꾸려왔었답니다.\n그리고 이제야 그 결실을 맺은 것 같네요.",
         "en-US": "[Mayssel]\nWe've been running a special group of informants and collecting information about the Shadow.\nAnd finally, our efforts have come to fruition.",
-        "pt-BR": "[Meisel]\nSempre que um vestígio da Sombra fosse encontrado, eu pudesse coletar informações, por isso, durante todo esse tempo, montei uma rede de informantes separada.\nE parece que só agora isso deu frutos.",
+        "pt-BR": "[Mayssel]\nCriei uma rede de inteligência especial para coletar informações sobre vestígios da Sombra e venho investigando há algum tempo.\nE parece que finalmente o esforço valeu a pena.",
         "es-ES": "[Meisel]\nHe estado organizando una red de informantes por separado para poder recopilar información cada vez que se encontrara un rastro de la Sombra.\nY parece que por fin ha dado sus frutos."
     },
     "gIJwDA": {
-        "ko-KR": "[비센테]\n아, 그 정보 모은다고 고생했죠.\n다들 뜬소문이라느니 뭐니 했는데, 사실 산 증인이 여기 계시니까.",
         "en-US": "[Vicente]\nOh, it really was difficult to get that information.\nNo one believed in it, but then the living witness here showed up.",
-        "pt-BR": "[Vicente]\nAh, você se esforçou bastante para reunir essas informações.\nTodo mundo dizia que eram só boatos, mas, na verdade, a testemunha viva está bem aqui.",
+        "pt-BR": "[Vicente]\nAh, foi bem difícil conseguir essas informações.\nTodos diziam que eram só boatos, até que a testemunha viva apareceu.",
         "es-ES": "[Vicente]\nAh, te costó mucho trabajo reunir esa información.\nTodos decían que eran solo rumores, pero de hecho aquí tenemos a un testigo de primera mano."
     },
     "gYJwDA": {
-        "ko-KR": "[비센테]\n둠크 님이 수완이 좋은 거라고요.\n사실 둠크 님 지원이 없었으면 정보원들 쓰지도 못했을 거 아닙니까.",
         "en-US": "[Vicente]\nYou should know this wouldn't have been possible if it weren't for Doomk.\nWithout his support, you couldn't have run your informant team so efficiently.",
-        "pt-BR": "[Vicente]\nO senhor Doomk é muito habilidoso.\nNa verdade, sem o apoio do senhor Doomk, não teríamos conseguido usar essas fontes de informação, não é mesmo?",
-        "es-ES": "[Vicente]\nEs que el señor Doomk tiene mucho tacto.\nDe hecho, si no fuera por el apoyo del señor Doomk, no habríamos podido usar a los informantes, ¿no?"
+        "pt-BR": "[Vicente]\nO Dumk é muito habilidoso.\nNa verdade, sem o apoio do Dumk, você não teria conseguido tanto progresso com a sua rede de inteligência, não é mesmo?",
+        "es-ES": "[Vicente]\nEs que el señor Dumk tiene mucho tacto.\nDe hecho, si no fuera por el apoyo del señor Dumk, no habríamos podido usar a los informantes, ¿no?"
     },
     "goJwDA": {
-        "ko-KR": "[메이셀]\n그 부분은 저도 감사하고 있답니다. 그래서 이리 초청한 것 아닌가요?\n이번엔 아주 확실한 정보가 들어왔기에 공유하고자 불렀건만, 어째서 비센테 당신만 왔죠?",
         "en-US": "[Mayssel]\nI'm grateful for that too. That's why we invited you here today.\nWe called you to share some very solid intelligence we received, but why did only you, Vicente, show up?",
-        "pt-BR": "[Meisel]\nEu também estou muito grata por isso. Não foi por isso que te convidei?\nChamei-te porque recebi informações muito concretas desta vez e queria compartilhá-las, mas por que só o Vicente veio?",
+        "pt-BR": "[Mayssel]\nEu também sou muito grata por isso. Não foi por isso que te convidei?\nChamei-te porque recebi informações muito concretas desta vez e queria compartilhá-las, mas por que só o Vicente veio?",
         "es-ES": "[Meisel]\nYo también te estoy muy agradecido por eso. ¿No es por eso que te invité?\nTe llamé para compartir información muy confiable que recibí esta vez, pero ¿por qué solo viniste tú, Vicente?"
     },
     "g4JwDA": {
-        "ko-KR": "[비센테]\n아 …. 로그 길드 내부적으로 뭔가 새로운 체계를 만들어야 하지 않겠냐며 준비 중이십니다.\n아무래도 그림자의 힘을 얻은 다음을 생각하는거죠.",
         "en-US": "[Vicente]\nAh... My superiors are in the process of developing a new internal system.\nTo utilize the power of the Shadow when we acquire it.",
-        "pt-BR": "[Vicente]\nAh... A Guilda Log está se preparando, achando que precisamos criar algum tipo de estrutura nova internamente.\nAcho que estão pensando no que fazer depois de obter o poder das sombras.",
+        "pt-BR": "[Vicente]\nAh... A Guilda está ocupada reestruturando uma nova organização interna.\nAcho que já estão pensando no que fazer depois de obter o poder das sombras.",
         "es-ES": "[Vicente]\nAh… En el Gremio de Logos están preparando algo, dicen que hay que crear una nueva estructura interna.\nSupongo que están pensando en lo que vendrá después de obtener el poder de las sombras."
     },
     "hIJwDA": {
-        "ko-KR": "[메이셀]\n걱정하지 않으셔도 된답니다.\n이미 조직도는 새로 구성해 두었어요.\n이름도 정해두었는걸요?\n둠크와 함께 상의해서 정한 이름이랍니다.",
         "en-US": "[Mayssel]\nYou don't have to worry about that.\nWe've already updated our organization chart.\nWe've even decided on the names.\nWith Doomk, of course.",
-        "pt-BR": "[Meisel]\nNão precisa se preocupar.\nJá reorganizei a estrutura da organização.\nAté o nome já está definido, sabia?\nÉ um nome que decidi em conjunto com o Doomk.",
-        "es-ES": "[Meisel]\nNo tienes por qué preocuparte.\nYa hemos reorganizado el organigrama.\n¿Incluso hemos elegido el nombre?\nEs un nombre que decidimos junto con Doomk."
+        "pt-BR": "[Mayssel]\nNão precisam se preocupar com isso.\nJá reorganizei a estrutura da organização.\nAté o nome já está definido, sabia?\nÉ um nome que decidi em conjunto com o Dumk.",
+        "es-ES": "[Meisel]\nNo tienes por qué preocuparte.\nYa hemos reorganizado el organigrama.\n¿Incluso hemos elegido el nombre?\nEs un nombre que decidimos junto con Dumk."
     },
     "hYJwDA": {
-        "ko-KR": "비센테: 과연…. 그럼 둠크 님은 제복을 준비중이겠군요. 어쩐지 공방으로 간다더니.",
         "en-US": "Vicente: I knew it! That's why Doomk hurried off to the Workshop. To design a new uniform.",
-        "pt-BR": "Vicente: Ora... Então o senhor Doomk deve estar preparando o uniforme. Não me admira que tenha dito que ia para a oficina.",
-        "es-ES": "Vicente: Vaya... Entonces, el señor Doomk debe estar preparando los uniformes. Por eso decía que se iba al taller."
+        "pt-BR": "Vicente: Ora... Então Dumk já deve estar preparando o uniforme. Não me admira que tenha dito que iria para o Ateliê.",
+        "es-ES": "Vicente: Vaya... Entonces, el señor Dumk debe estar preparando los uniformes. Por eso decía que se iba al taller."
     },
     "hoJwDA": {
-        "ko-KR": "베르카셀: 여전하군.",
         "en-US": "Verkhasel: He never changes, does he?",
-        "pt-BR": "Vercasel: Como sempre.",
-        "es-ES": "Vercasel: Sigues igual."
+        "pt-BR": "Verkhasel: Ele nunca muda.",
+        "es-ES": "Verkhasel: Sigues igual."
     },
     "h4JwDA": {
-        "ko-KR": "그게 뭐죠!?",
         "en-US": "What names?",
-        "pt-BR": "O que é isso!?",
+        "pt-BR": "Que nome é esse!?",
         "es-ES": "¿Qué es eso!?"
     },
     "iIJwDA": {
-        "ko-KR": "[메이셀]\n^4D4DFF쉐도우 크로스^000000라는 이름으로 조직을 추가개편했어요.\n만약 당신이 성공적으로 어둠의 힘을 손에 넣는다면 쉐도우 크로스가 되겠지요?",
         "en-US": "[Mayssel]\nWe've reorganized the group under the name ^4D4DFFShadow Cross^000000.\nIf you successfully acquire the power of the Shadow, you'll become a Shadow Cross, right?",
-        "pt-BR": "[Meisel]\nReestruturei a organização com o nome ^4D4DFFShadow Cross^000000.\nSe você conseguir obter o poder das trevas, vai se tornar o Shadow Cross, certo?",
-        "es-ES": "[Meisel]\nHemos reorganizado la organización con el nombre de ^4D4DFFShadow Cross^000000.\nSi logras hacerte con el poder de la oscuridad, te convertirás en Shadow Cross, ¿no?"
+        "pt-BR": "[Mayssel]\nReestruturei a organização com o nome ^4D4DFFExecutor^000000.\nSe você conseguir dominar e exercer o poder sobre as sombras, vai se tornar um Executor, certo?",
+        "es-ES": "[Meisel]\nHemos reorganizado la organización con el nombre de ^4D4DFFEjecutor^000000.\nSi logras hacerte con el poder de la oscuridad, te convertirás en Ejecutor, ¿no?"
     },
     "iYJwDA": {
-        "ko-KR": "내가 할 일이 뭐지?!",
         "en-US": "What am I supposed to do?!",
         "pt-BR": "O que eu tenho que fazer?!",
         "es-ES": "¿Qué tengo que hacer yo?!"
     },
     "ioJwDA": {
-        "ko-KR": "[비센테]\n분석한 정보는 공유하기로 했었죠. 메이셀.",
         "en-US": "[Vicente]\nWe agreed to share all the information we have, Mayssel.",
-        "pt-BR": "[Vicente]\nCombinamos compartilhar as informações analisadas, Meisel.",
+        "pt-BR": "[Vicente]\nCombinamos que iríamos compartilhar as informações, não é, Mayssel?",
         "es-ES": "[Vicente]\nAcordamos compartir la información analizada, Meisel."
     },
     "i4JwDA": {
-        "ko-KR": "[베르카셀]\n정보는 공유한다.\n하지만 거기까지다.\n누가 먼저 손에 넣을지는 아무도 모르지.\n하지만 나는 {0}, 이 녀석을 믿는다.",
         "en-US": "[Verkhasel]\nWe share the information.\nBut that's all.\nNo one knows who will get their hands on it first.\nBut I believe in {0}, this guy.",
-        "pt-BR": "[Vercasel]\nA gente compartilha as informações.\nMas só até aí.\nNinguém sabe quem vai conseguir primeiro.\nMas eu, {0}, confio nesse cara.",
-        "es-ES": "[Verkaxel]\nCompartimos la información.\nPero eso es todo.\nNadie sabe quién lo conseguirá primero.\nPero yo, {0}, confío en este chico."
+        "pt-BR": "[Verkhasel]\nNós compartilhamos as informações.\nMas só até aí.\nNinguém sabe quem vai conseguir primeiro.\nMas eu, acredito nesse cara, {0}.",
+        "es-ES": "[Verkhasel]\nCompartimos la información.\nPero eso es todo.\nNadie sabe quién lo conseguirá primero.\nPero yo, {0}, confío en este chico."
     },
     "jIJwDA": {
-        "ko-KR": "[베르카셀]\n너희보다 빠르게 어둠의 정령을 조우한다는데 메이셀이 숨겨둔 수제쿠키 세트를 걸지.",
-        "en-US": "[Bercassell]\nI bet Mayssel's secret handmade cookie set on {name} finding the Shadow more quickly than your candidate.",
-        "pt-BR": "[Vercasel]\nAposto o conjunto de biscoitos caseiros que a Meisel escondeu que ela vai encontrar o espírito das trevas antes de vocês.",
-        "es-ES": "[Bercasel]\nApostaré el juego de galletas caseras que Maycel tiene guardado a que te encontrarás con el espíritu de la oscuridad antes que ustedes."
+        "en-US": "[Verkhasel]\nI bet Mayssel's secret handmade cookie set on {name} finding the Shadow more quickly than your candidate.",
+        "pt-BR": "[Verkhasel]\nAposto um pote de biscoitos caseiros da Mayssel que {name} vai encontrar o espírito das trevas antes de vocês.",
+        "es-ES": "[Verkhasel]\nApostaré el juego de galletas caseras que Maycel tiene guardado a que te encontrarás con el espíritu de la oscuridad antes que ustedes."
     },
     "jYJwDA": {
-        "ko-KR": "메이셀: 내 쿠키가 거기서 왜 나와요?",
         "en-US": "Mayssel: What do my cookies have anything to do with it?",
-        "pt-BR": "Meisel: Por que meus biscoitos estão aparecendo aí?",
+        "pt-BR": "Mayssel: O que os meus biscoitos tem a ver com isso?",
         "es-ES": "Meisel: ¿Por qué sale ahí mi galleta?"
     },
     "joJwDA": {
-        "ko-KR": "[메이셀]\n그럼 전 베르카셀의 세번째 단도를 부러트리겠어요.",
         "en-US": "[Mayssel]\nThen I'll break Verkhasel's third dagger.",
-        "pt-BR": "[Meisel]\nEntão vou quebrar a terceira adaga do Vercasel.",
-        "es-ES": "[Meisel]\nEntonces romperé la tercera daga de Vercasel."
+        "pt-BR": "[Mayssel]\nEntão vou quebrar a terceira adaga do Verkhasel.",
+        "es-ES": "[Meisel]\nEntonces romperé la tercera daga de Verkhasel."
     },
     "j4JwDA": {
-        "ko-KR": "베르카셀: 내 단도는 무슨 죄야?",
         "en-US": "Verkhasel: What does my dagger have to do with it?",
-        "pt-BR": "Vercasel: O que minha adaga fez de errado?",
-        "es-ES": "Vercasel: ¿Qué culpa tiene mi daga?"
+        "pt-BR": "Verkhasel: O que minha adaga fez de errado?",
+        "es-ES": "Verkhasel: ¿Qué culpa tiene mi daga?"
     },
     "kIJwDA": {
-        "ko-KR": "[비센테]\n다들 너무 장담하시네? 아니 뭐 이쪽은 인재가 없는 줄 알아요?\n쿠키든 단도든 아무래도 좋으니까요.",
         "en-US": "[Vicente]\nYou guys are so confident, aren't you? Well, we too have an ace up our sleeve.\nBet whatever you want--cookies or daggers.",
-        "pt-BR": "[Vicente]\nVocês estão todos muito confiantes, não é? Quer dizer, acham que por aqui não temos talentos?\nSeja biscoito ou punhal, tanto faz.",
+        "pt-BR": "[Vicente]\nVocês estão muito confiantes, não é? Acham que do nosso lado não temos talentos também?\nSeja biscoito ou adaga, tanto faz.",
         "es-ES": "[Vicente]\n¿Todos están tan seguros? ¿Acaso creen que por aquí no hay talento?\nYa que me da igual si son galletas o dagas."
     },
     "kYJwDA": {
-        "ko-KR": "[비센테]\n그래서 말인데, 정보를 분석한 결과는 어땠습니까?\n이번에야말로 그림자 현상이 맞는거겠지요?",
         "en-US": "[Vicente]\nSo, how trustworthy is this new information of yours?\nIs it really the Shadow Phenomenon this time?",
-        "pt-BR": "[Vicente]\nFalando nisso, qual foi o resultado da análise das informações?\nDesta vez, com certeza é o Fenômeno das Sombras, né?",
+        "pt-BR": "[Vicente]\nFalando nisso, o que conseguimos com suas novas informações?\nDesta vez, temos certeza de que é o Fenômeno Sombrio, né?",
         "es-ES": "[Vicente]\nHablando de eso, ¿qué tal los resultados del análisis de la información?\nEsta vez sí que se trata del fenómeno de las sombras, ¿no?"
     },
     "koJwDA": {
-        "ko-KR": "[메이셀]\n그래요. 이번에 입수하신 정보는 제가 기억하는 것과 동일해요.\n그림자 현상이 가장 최근에 목격된 곳은 베인스와 라헬 인근의 필드입니다.\n목격자는 마을의 아이들이고요.",
         "en-US": "[Mayssel]\nYes. The information we've obtained this time matches what I recall.\nThe Shadow Phenomenon has most recently been sighted in the fields near Veins and Rachel.\nThe witnesses are village children.",
-        "pt-BR": "[Meisel]\nSim. As informações que obtiveste desta vez são idênticas às que eu me lembro.\nO local onde o Fenômeno das Sombras foi avistado mais recentemente é nos campos próximos a Bains e Rahel.\nAs testemunhas são crianças da vila.",
+        "pt-BR": "[Mayssel]\nSim. As informações que conseguimos desta vez correspondem com o que já temos.\nO local onde o Fenômeno Sombrio foi avistado mais recentemente é nos campos próximos a Veins e Rachel.\nAs testemunhas são as crianças da vila.",
         "es-ES": "[Meisel]\nSí. La información que has conseguido esta vez coincide con lo que yo recuerdo.\nEl lugar donde se ha visto el fenómeno de las sombras más recientemente es en los campos cercanos a Bains y Rahel.\nLos que lo vieron fueron unos niños del pueblo."
     },
     "k4JwDA": {
-        "ko-KR": "[메이셀]\n가장 마지막에 확인된 지역은 ^4D4DFF베인스 남부 해안가^000000와 ^4D4DFF라헬 남쪽 필드^000000 근방입니다.\n공명정대함을 증명하기 위해 지역 선택은 그쪽으로 넘기겠어요.",
         "en-US": "[Mayssel]\nThe most recently confirmed locations are ^4D4DFFthe southern coast of Veins^000000 and ^4D4DFFnear Rachel South Field^000000.\nTo prove fairness, I'll let you choose which area to go to first.",
-        "pt-BR": "[Meisel]\nAs últimas áreas confirmadas são ^4D4DFFa costa sul de Bains^000000 e ^4D4DFFos campos ao sul de Rahel^000000.\nPara provar nossa imparcialidade, vou deixar a escolha da região por sua conta.",
+        "pt-BR": "[Mayssel]\nAs últimas áreas confirmadas são ^4D4DFFa costa sul de Veins^000000 e ^4D4DFFos campos ao sul de Rachel^000000.\nPara provar nossa imparcialidade, vou deixá-lo escolher a região primeiro.",
         "es-ES": "[Meisel]\nLas últimas zonas confirmadas son ^4D4DFFla costa sur de Bains^000000 y ^4D4DFFlos campos al sur de Rahel^000000.\nPara demostrar nuestra imparcialidad, te dejaré a ti elegir la zona."
     },
     "lIJwDA": {
-        "ko-KR": "[메이셀]\n우리가 제공하는 정보에는 한치의 거짓도 없으니까요.\n자, 비센테. 어느지역으로 하시겠어요?",
         "en-US": "[Mayssel]\nAnd that we're confident in the validity of our information.\nAlright, Vicente, which place would you like?",
-        "pt-BR": "[Meisel]\nAfinal, não há nem um pingo de mentira nas informações que fornecemos.\nEntão, Vicente. Para qual região você prefere ir?",
+        "pt-BR": "[Mayssel]\nAfinal, não há nem um pingo de mentira nas informações que fornecemos.\nEntão, Vicente. Para qual região você prefere ir?",
         "es-ES": "[Meisel]\nPorque la información que te damos no tiene ni una pizca de mentira.\nBueno, Vicente. ¿A qué zona te vas?"
     },
     "lYJwDA": {
-        "ko-KR": "[비센테]\n흐음…. 이렇게까지 나온다면야. 우리가 라헬지역을 가죠.\n공방도 그쪽에 있으니까요.",
         "en-US": "[Vicente]\nHm... Well, if you insist. We'll go to the Rachel area.\nWe've got a Workshop branch there, too.",
-        "pt-BR": "[Vicente]\nHum... Já que chegou a esse ponto... Vamos para a região de Rahel.\nA oficina também fica por lá.",
+        "pt-BR": "[Vicente]\nHum... Já que você insiste... Vamos para a região de Rachel.\nÉ onde fica nosso Ateliê também.",
         "es-ES": "[Vicente]\nMmm... Si la cosa llega a esto... Vamos a la zona de Rahel.\nEl taller también está por ahí."
     },
     "loJwDA": {
-        "ko-KR": "[베르카셀]\n그럼 할일은 정해졌군.\n난 정보를 제공했다는 이들을 만나서 다른 위치들을 확인해보겠다.",
         "en-US": "[Verkhasel]\nThen it's settled.\nI'll go meet our informants and check other unverified locations.",
-        "pt-BR": "[Bercasel]\nEntão, já sabemos o que fazer.\nVou encontrar essas pessoas que forneceram as informações para verificar outros locais.",
-        "es-ES": "[Bercasel]\nEntonces ya sabemos qué hay que hacer.\nYo me reuniré con los que nos dieron la información para verificar otras ubicaciones."
+        "pt-BR": "[Verkhasel]\nEntão, já sabemos o que fazer.\nVou me encontrar com nossos informantes para verificar outros locais não explorados.",
+        "es-ES": "[Verkhasel]\nEntonces ya sabemos qué hay que hacer.\nYo me reuniré con los que nos dieron la información para verificar otras ubicaciones."
     },
     "l4JwDA": {
-        "ko-KR": "[베르카셀]\n너는 …. 후보 장소 중 하나인 ^4D4DFF남쪽 해안가의 나루터^000000를 조사해라.\n그럼 나중에 보도록 하지.",
-        "en-US": "[Verkhasel]\nYou... go investigate ^4D4DFFthe dock on the southern coast^000000, one of the candidate locations.\nSee you later.",
-        "pt-BR": "[Bercasel]\nVocê... investigue o ^4D4DFFcais na costa sul de ^000000, que é um dos locais candidatos.\nEntão, nos vemos mais tarde.",
-        "es-ES": "[Bercasel]\nTú... investiga el ^4D4DFFembarcadero de la costa sur de ^000000, que es uno de los lugares candidatos.\nNos vemos más tarde."
+        "en-US": "[Verkhasel]\nYou... go investigate ^4D4DFFthe dock on the southern coast of Veins^000000, one of the candidate locations.\nSee you later.",
+        "pt-BR": "[Verkhasel]\nVocê... investigue o ^4D4DFFcais na costa sul de Veins^000000, que é um dos locais prováveis.\nNos vemos mais tarde.",
+        "es-ES": "[Verkhasel]\nTú... investiga el ^4D4DFFembarcadero de la costa sur de ^000000, que es uno de los lugares candidatos.\nNos vemos más tarde."
     },
     "mIJwDA": {
-        "ko-KR": "[비센테]\n그럼 저는 라헬쪽 정보를 확인하러 가보겠습니다.\n부디 좋은 결과 있기를.",
         "en-US": "[Vicente]\nThen, I'm going to go check the place near Rachel.\nGood luck.",
-        "pt-BR": "[Vicente]\nEntão vou verificar as informações sobre a região de Rahel.\nEspero que dê tudo certo.",
+        "pt-BR": "[Vicente]\nEntão, eu vou verificar o local na região de Rachel.\nEspero que dê tudo certo.",
         "es-ES": "[Vicente]\nEntonces yo me voy a verificar la información de la zona de Rahel.\nEspero que haya buenos resultados."
     },
     "mYJwDA": {
-        "ko-KR": "[메이셀]\n자리를 오래 비웠군요.\n저는 지부로 돌아가겠어요.\n필요한 일이 있다면 여기로 다시 오겠습니다.",
         "en-US": "[Mayssel]\nI've been away from my office way too long.\nI'd better go back to my branch.\nI'll come back if I have to.",
-        "pt-BR": "[Meisel]\nFicou muito tempo ausente.\nVou voltar para a filial.\nSe precisar de alguma coisa, volto aqui.",
+        "pt-BR": "[Mayssel]\nFiquei muito tempo ausente.\nVou voltar para a filial.\nSe precisar de alguma coisa, voltarei aqui.",
         "es-ES": "[Meisel]\nTe has ausentado por un buen rato.\nYo voy a regresar a la sucursal.\nSi necesitas algo, volveré aquí."
     },
     "moJwDA": {
-        "ko-KR": "메이셀: 그럼 이만.",
         "en-US": "Mayssel: Now, excuse me.",
-        "pt-BR": "Meisel: Então, até mais.",
+        "pt-BR": "Mayssel: Então, até mais.",
         "es-ES": "Meisel: Bueno, me voy."
     },
     "m4JwDA": {
-        "ko-KR": "[베르카셀]\n^4D4DFF베인스 남부 해안가의 나루터^000000다.\n근처에서 짙은 그림자 흔적을 찾아 봐.",
         "en-US": "[Verkhasel]\nThe ^4D4DFFdock on the southern coast of Veins^000000.\nLook for traces of dark shadows around it.",
-        "pt-BR": "[Berksel]\nÉ o ^4D4DFFcais na costa sul de Bains^000000.\nProcura por vestígios de sombras densas nas proximidades.",
-        "es-ES": "[Bercasel]\nEs el ^4D4DFFembarcadero de la costa sur de ^000000Bains.\nBusca rastros de sombras densas por ahí."
+        "pt-BR": "[Verkhasel]\nÉ o ^4D4DFFcais na costa sul de Veins^000000.\nProcure por vestígios de sombras nas proximidades.",
+        "es-ES": "[Verkhasel]\nEs el ^4D4DFFembarcadero de la costa sur de ^000000Bains.\nBusca rastros de sombras densas por ahí."
     },
     "nIJwDA": {
-        "ko-KR": "[베르카셀]\n마침 잘 왔군. 내가 확인하러 간 곳은 흔적이 아주 약하게 남아있을 뿐, 그 외 현상은 발견할 수 없었다.\n거긴 어땠지?",
-        "en-US": "[Bercassell]\nWell-met. The places I checked barely had any traces left.\nWhat about you?",
-        "pt-BR": "[Berkaxel]\nChegaste na hora certa. No lugar que fui verificar, só havia um vestígio muito fraco, não encontrei nenhum outro sinal.\nComo foi por lá?",
-        "es-ES": "[Berkaxel]\nLlegaste justo a tiempo. En el lugar al que fui a revisar solo quedaban rastros muy débiles, no encontré ningún otro fenómeno.\n¿Cómo estuvo por allá?"
+        "en-US": "[Verkhasel]\nWell-met. The places I checked barely had any traces left.\nWhat about you?",
+        "pt-BR": "[Verkhasel]\nChegou na hora certa. No lugar em que verifiquei, só havia um vestígio muito fraco, não encontrei mais nada por lá.\nComo foi do seu lado?",
+        "es-ES": "[Verkhasel]\nLlegaste justo a tiempo. En el lugar al que fui a revisar solo quedaban rastros muy débiles, no encontré ningún otro fenómeno.\n¿Cómo estuvo por allá?"
     },
     "nYJwDA": {
-        "ko-KR": "어두운 곳이 필요해.",
         "en-US": "I need a dark place.",
         "pt-BR": "Preciso de um lugar escuro.",
         "es-ES": "Necesito un lugar oscuro."
     },
     "noJwDA": {
-        "ko-KR": "[베르카셀]\n뭔가 수확이 있었군.\n어두운 곳에서 다시 불러달라 했다고 ….\n적당한 장소만 물색하면 되겠군.",
         "en-US": "[Verkhasel]\nYou've found something, haven't you?\nIt asked you to call it back in a dark place, huh.\nThen, we'd better find one quickly.",
-        "pt-BR": "[Vercasel]\nParece que você conseguiu alguma coisa.\nDisse para chamá-lo novamente em um lugar escuro...\nSó precisamos encontrar um local adequado.",
-        "es-ES": "[Vercasel]\nParece que has tenido suerte.\nDijo que lo volvieras a llamar en un lugar oscuro...\nSolo hay que buscar un lugar adecuado."
+        "pt-BR": "[Verkhasel]\nParece que você encontrou alguma coisa.\nEle disse para chamá-lo novamente em um lugar escuro...\nEntão, precisamos encontrar um local adequado.",
+        "es-ES": "[Verkhasel]\nParece que has tenido suerte.\nDijo que lo volvieras a llamar en un lugar oscuro...\nSolo hay que buscar un lugar adecuado."
     },
     "n4JwDA": {
-        "ko-KR": "[베르카셀]\n아! 적당한 장소가 있다.\n혹시 지난번 임무로 들렀던 저택 기억하나?\n거기가 협곡 사이라 항상 그림자에 가려있지.",
-        "en-US": "[Bercassell]\nAh! I know a suitable place.\nRemember the mansion we visited for our last mission?\nIt's always shady, built in a valley.",
-        "pt-BR": "[Vercasel]\nAh! Tenho um lugar adequado.\nPor acaso te lembras daquela mansão onde passamos na missão passada?\nFica entre dois desfiladeiros, então está sempre coberta por sombras.",
-        "es-ES": "[Vercasel]\n¡Ah! Hay un lugar adecuado.\n¿Te acuerdas de esa mansión donde estuvimos en la misión anterior?\nEstá entre dos barrancos, así que siempre está a la sombra."
+        "en-US": "[Verkhasel]\nAh! I know a suitable place.\nRemember the mansion we visited for our last mission?\nIt's always shady, built in a valley.",
+        "pt-BR": "[Verkhasel]\nAh! Conheço um bom lugar para isso.\nPor acaso você se lembra daquela mansão que visitamos na última missão?\nFica entre dois desfiladeiros, então está sempre coberta por sombras.",
+        "es-ES": "[Verkhasel]\n¡Ah! Hay un lugar adecuado.\n¿Te acuerdas de esa mansión donde estuvimos en la misión anterior?\nEstá entre dos barrancos, así que siempre está a la sombra."
     },
     "oIJwDA": {
-        "ko-KR": "[베르카셀]\n길드에서 위임받아 통제 중인 곳이니 적당한 것 같군.",
-        "en-US": "[Bercassell]\nIt's ours to use, too, since we've been entrusted with it by the Guild.",
-        "pt-BR": "[Vercasel]\nComo é um local sob controle da guilda, parece adequado.",
-        "es-ES": "[Vercasel]\nComo es un lugar que el gremio tiene bajo su control, parece adecuado."
+        "en-US": "[Verkhasel]\nIt's ours to use, too, since we've been entrusted with it by the Guild.",
+        "pt-BR": "[Verkhasel]\nComo é um local sob controle da guilda, podemos usá-lo.",
+        "es-ES": "[Verkhasel]\nComo es un lugar que el gremio tiene bajo su control, parece adecuado."
     },
     "oYJwDA": {
-        "ko-KR": "[비센테]\n음? 그런 장소가 있었습니까?\n이쪽 편의도 봐주시죠.\n뭐 이번에야 그쪽에서 어둠의 정령을 빨리 찾아낸 것 같지만 다음에도 그러리란 보장은 없으니까요.",
-        "en-US": "[Vicente]\nHm? Was there such a place?\nConsider us too.\nSure, you found the dark elemental faster than us this time, but there's no guarantee it'll be the same next time.",
-        "pt-BR": "[Vicente]\nHã? Tinha um lugar assim?\nLeva a nossa conveniência em conta também.\nBem, dessa vez parece que vocês encontraram o espírito das trevas rapidamente, mas não há garantia de que será assim da próxima vez.",
+        "en-US": "[Vicente]\nHm? Was there such a place?\nSure, you found the dark elemental faster than us this time, but there's no guarantee it'll be the same next time.",
+        "pt-BR": "[Vicente]\nHã? Tinha um lugar assim?\nBem, dessa vez parece que vocês encontraram o Elemental Sombrio primeiro, mas não pense que será assim da próxima vez.",
         "es-ES": "[Vicente]\n¿Eh? ¿Había un lugar así?\nTen en cuenta también nuestra parte.\nBueno, esta vez parece que ustedes encontraron rápido al espíritu de la oscuridad, pero no hay garantía de que vuelva a ser así la próxima vez."
     },
     "ooJwDA": {
-        "ko-KR": "[베르카셀]\n그 부분은 따로 메이셀과 이야기를 진행하도록 하지.\n{0}.\n우선 '어둠의 결정체'와 '어둠의 조각'을 찾아라.",
         "en-US": "[Verkhasel]\nI'll discuss that part separately with Mayssel.\n{0}.\nFirst, find Crystals of Darkness and Dark Pieces.",
-        "pt-BR": "[Vercasel]\nVamos deixar essa parte para eu discutir separadamente com Meisel.\n{0}.\nPrimeiro, encontra o “Cristal das Trevas” e o “Fragmento das Trevas”.",
-        "es-ES": "[Vercasel]\nDe ese tema hablaré por separado con Meisel.\n{0}.\nPrimero, busca el «Cristal de la Oscuridad» y el «Fragmento de la Oscuridad»."
+        "pt-BR": "[Verkhasel]\nVamos deixar essa parte para eu discutir depois com a Mayssel.\n{0}.\nPrimeiro, encontre o “Cristal da Escuridão” e o “Fragmento Sombrio”.",
+        "es-ES": "[Verkhasel]\nDe ese tema hablaré por separado con Meisel.\n{0}.\nPrimero, busca el «Cristal de la Oscuridad» y el «Fragmento de la Oscuridad»."
     },
     "o4JwDA": {
-        "ko-KR": "[베르카셀]\n지도에 위치를 표기해줄테니 물건을 다 모으면 거기로 와라.\n저택을 바로 사용할 수 있도록 처리해두겠다.",
-        "en-US": "[Bercassell]\nI'll mark the mansion's location on your map. Come there once you have all the items.\nI'll make sure the mansion is ready for immediate use.",
-        "pt-BR": "[Vercasel]\nVou marcar a localização no mapa; quando reunires todos os itens, vem até lá.\nVou providenciar para que a mansão esteja pronta para uso.",
-        "es-ES": "[Vercasel]\nTe marcaré la ubicación en el mapa, así que cuando hayas reunido todo, ven ahí.\nMe encargaré de que puedas usar la mansión de inmediato."
+        "en-US": "[Verkhasel]\nI'll mark the mansion's location on your map. Come there once you have all the items.\nI'll make sure the mansion is ready for immediate use.",
+        "pt-BR": "[Verkhasel]\nVou marcar a localização da mansão no mapa. Quando reunir todos os itens, vá até lá.\nVou providenciar para que a mansão esteja pronta para uso.",
+        "es-ES": "[Verkhasel]\nTe marcaré la ubicación en el mapa, así que cuando hayas reunido todo, ven ahí.\nMe encargaré de que puedas usar la mansión de inmediato."
     },
     "pIJwDA": {
-        "ko-KR": "[베르카셀]\n어둠의 결정체와 어둠의 조각 정도면 정령을 불러내는데 충분하겠지.\n다 모으면, 따로 전달한 위치로 오면 된다.\n즉시 진입할 수 있도록 준비할테니까.",
-        "en-US": "[Bercassell]\nCrystals of Darkness and Dark Pieces should be dark enough to summon the elemental.\nWhen you gather them all, come to the location I told you.\nI'll have the place ready for you.",
-        "pt-BR": "[Vercasel]\nO Cristal das Trevas e o Fragmento das Trevas devem ser suficientes para invocar um espírito.\nQuando reunires tudo, basta vires ao local que te indiquei.\nVou preparar tudo para que possas entrar imediatamente.",
-        "es-ES": "[Vercasel]\nCon el Cristal de la Oscuridad y el Fragmento de la Oscuridad debería bastar para invocar a un espíritu.\nCuando los tengas todos, ven al lugar que te indiqué.\nLo prepararé para que puedas entrar de inmediato."
+        "en-US": "[Verkhasel]\nCrystals of Darkness and Dark Pieces should be dark enough to summon the elemental.\nWhen you gather them all, come to the location I told you.\nI'll have the place ready for you.",
+        "pt-BR": "[Verkhasel]\nO Cristal da Escuridão e o Fragmento Sombrio devem ser suficientes para invocar um espírito.\nQuando reunir tudo, basta ir ao local que indiquei.\nVou preparar tudo para que você possa entrar imediatamente.",
+        "es-ES": "[Verkhasel]\nCon el Cristal de la Oscuridad y el Fragmento de la Oscuridad debería bastar para invocar a un espíritu.\nCuando los tengas todos, ven al lugar que te indiqué.\nLo prepararé para que puedas entrar de inmediato."
     },
     "pYJwDA": {
-        "ko-KR": "[베르카셀]\n가끔 쉬고 싶으면 이 곳에 들러도 좋다.\n우리라고 매번 컴컴한 지하에 틀어박히진 않으니까.",
         "en-US": "[Verkhasel]\nYou may come here and rest if you'd like.\nNow, you know not all our buildings are underground.",
-        "pt-BR": "[Vercasel]\nSe quiseres descansar de vez em quando, podes passar por aqui.\nNós também não ficamos trancados num porão escuro o tempo todo.",
-        "es-ES": "[Vercasel]\nSi alguna vez quieres descansar, puedes pasar por aquí.\nNosotros tampoco nos encerramos siempre en un sótano oscuro."
+        "pt-BR": "[Verkhasel]\nSe quiser descansar de vez em quando, pode vir aqui.\nNós não ficamos trancados num porão escuro o tempo todo, afinal.",
+        "es-ES": "[Verkhasel]\nSi alguna vez quieres descansar, puedes pasar por aquí.\nNosotros tampoco nos encerramos siempre en un sótano oscuro."
     },
     "poJwDA": {
-        "ko-KR": "[베르카셀]\n흐음 ….",
         "en-US": "[Verkhasel]\nHm...",
-        "pt-BR": "[Vercasel]\nHum...",
-        "es-ES": "[Vercasel]\nMmm..."
+        "pt-BR": "[Verkhasel]\nHum...",
+        "es-ES": "[Verkhasel]\nMmm..."
     },
     "p4JwDA": {
-        "ko-KR": "메이셀",
         "en-US": "Mayssel",
-        "pt-BR": "Meisel",
+        "pt-BR": "Mayssel",
         "es-ES": "Meisel"
     },
     "qIJwDA": {
-        "ko-KR": "비센테",
         "en-US": "Vicente",
         "pt-BR": "Vicente",
         "es-ES": "Vicente"
     },
     "qYJwDA": {
-        "ko-KR": "[비센테]\n이런? 초대받지 못한 손님이시군요?\n죄송하지만 이 집은 이미 주인이 있답니다.\n다른 집을 골라주시겠어요?",
         "en-US": "[Vicente]\nOh? An uninvited guest, are we?\nI'm sorry, but this house already has an owner.\nCould you go pick a different house?",
-        "pt-BR": "[Vicente]\nO quê? Você é um convidado indesejado?\nDesculpa, mas esta casa já tem dono.\nVocê poderia escolher outra casa?",
+        "pt-BR": "[Vicente]\nO quê? Você não foi convidado, não é mesmo?\nDesculpe, mas esta casa já tem dono.\nVocê poderia escolher outra casa?",
         "es-ES": "[Vicente]\n¿Qué? ¿Eres un invitado no deseado?\nLo siento, pero esta casa ya tiene dueño.\n¿Podrías elegir otra casa?"
     },
     "qoJwDA": {
-        "ko-KR": "[비센테]\n어쌔신 길드에서 선택한 자가 당신입니까?\n아, 저는 그림자 공방의 리히타르젠 지부 점장입니다.",
         "en-US": "[Vicente]\nAre you the Assassin Guild's candidate?\nAh, I'm the manager of the Shadow Workshop's Lighthalzen branch.",
-        "pt-BR": "[Vicente]\nVocê é o escolhido pela Guilda dos Assassinos?\nAh, eu sou o gerente da filial de Lichartzen da Oficina das Sombras.",
+        "pt-BR": "[Vicente]\nVocê é o candidato da Guilda dos Mercenários?\nAh, eu sou o gerente do Ateliê das Sombras em Lighthalzen.",
         "es-ES": "[Vicente]\n¿Eres tú el elegido por el Gremio de Asesinos?\nAh, soy el gerente de la sucursal de Lichtharzen del Taller de las Sombras."
     },
     "q4JwDA": {
-        "ko-KR": "[비센테]\n로그 길드 산하지만 대체로 쉐도우 체이서 분들의 소모품을 제공하고 있죠.\n뭐 한 식구나 다름없는 사이 아닙니까?\n이번엔 정보 교류차 와있습니다.",
         "en-US": "[Vicente]\nThe Workshop is under the Rogue Guild, and mainly specializes in providing Shadow Chasers with supplies that they need.\nBut when you get down to it, we're just one big family, right?\nThis time I'm here to exchange information.",
-        "pt-BR": "[Vicente]\nApesar de pertencer à Guilda dos Logos, geralmente fornecemos suprimentos para os Caçadores de Sombras.\nAfinal, não somos praticamente da mesma família?\nDesta vez, vim para trocar informações.",
+        "pt-BR": "[Vicente]\nO Ateliê pertence à Guilda dos Arruaceiros e geralmente fornecemos suprimentos para os Renegados.\nMas, no fim das contas, somos todos da mesma família, não é mesmo?\nDesta vez, vim aqui para trocar informações.",
         "es-ES": "[Vicente]\nAunque pertenecemos al Gremio de Logos, por lo general les proporcionamos suministros a los Cazadores de Sombras.\n¿Acaso no somos como una misma familia?\nEsta vez he venido para intercambiar información."
     },
     "rIJwDA": {
-        "ko-KR": "[비센테]\n베르카셀이 기다리는군요.\n하하 …. 앞으로도 협력할 것 같은데 잘 부탁드립니다.",
         "en-US": "[Vicente]\nVerkhasel is waiting for you.\nHah hah. I have a feeling we'll be working together a lot. Then, until next time.",
-        "pt-BR": "[Vicente]\nVercasel está esperando.\nHaha... Parece que vamos continuar colaborando, então conta comigo.",
-        "es-ES": "[Vicente]\nVerkaxel te está esperando.\nJaja… Parece que vamos a seguir colaborando, así que cuente conmigo."
+        "pt-BR": "[Vicente]\nVerkhasel está esperando por você.\nHaha... Parece que vamos trabalhar juntos por um tempo, então pode contar comigo.",
+        "es-ES": "[Vicente]\nVerkhasel te está esperando.\nJaja… Parece que vamos a seguir colaborando, así que cuente conmigo."
     },
     "rYJwDA": {
-        "ko-KR": "[비센테]\n저도 빠르게 움직여야겠군요?\n하하, 양쪽 다 제대로 된 정보라면 좋을텐데 말이죠.",
         "en-US": "[Vicente]\nI guess I need to move quickly too?\nHaha, I hope both sides have accurate information.",
-        "pt-BR": "[Vicente]\nAcho que também preciso me apressar, não é?\nHaha, seria ótimo se as informações de ambos os lados fossem confiáveis.",
+        "pt-BR": "[Vicente]\nAcho que também preciso me apressar, não é?\nHaha, espero que as informações de ambos os lados sejam confiáveis.",
         "es-ES": "[Vicente]\n¿Entonces yo también tengo que moverme rápido?\nJaja, ojalá la información de ambos lados sea buena."
     },
     "roJwDA": {
-        "ko-KR": "[비센테]\n서로에게 유용한 정보교환의 시간이 되겠죠?\n그러리라 믿습니다.",
         "en-US": "[Vicente]\nThis should be a time for us to exchange useful information, right?\nI believe so.",
-        "pt-BR": "[Vicente]\nVai ser um momento de troca de informações úteis para ambos, não é?\nAcredito que sim.",
+        "pt-BR": "[Vicente]\nVai ser um momento para trocarmos informações úteis, não é?\nAcredito que sim.",
         "es-ES": "[Vicente]\nSerá un momento para intercambiar información útil entre nosotros, ¿no?\nEso espero."
     },
     "r4JwDA": {
-        "ko-KR": "옅은 그림자",
         "en-US": "Pale Shadow",
-        "pt-BR": "Sombra Faint",
+        "pt-BR": "Vestígio de Sombra",
         "es-ES": "Sombra tenue"
     },
     "sIJwDA": {
-        "ko-KR": "쌓여있는 상자 사이로 옅은 그림자가 보인다.\n자연적인 그림자인지 인위적인 어둠의 흔적인이 판별히 힘들다.",
         "en-US": "A faint shadow is visible between the stacked boxes.\nIt's hard to tell if it's a natural shadow or a trace of the Shadow.",
-        "pt-BR": "Entre as caixas empilhadas, vê-se uma sombra esmaecida.\nÉ difícil distinguir se é uma sombra natural ou um vestígio de escuridão artificial.",
+        "pt-BR": "Entre as caixas empilhadas, você vê uma sombra enfraquecida.\nÉ difícil distinguir se é uma sombra natural ou um vestígio da Sombra.",
         "es-ES": "Se ve una sombra tenue entre las cajas apiladas.\nEs difícil distinguir si es una sombra natural o un rastro de oscuridad artificial."
     },
     "sYJwDA": {
-        "ko-KR": "마을 사람: 거기 무슨 볼 일 있소?",
         "en-US": "Villager: Hey, what are you doing over there?",
         "pt-BR": "Morador: Tem algo pra ver aí?",
         "es-ES": "Pueblo: ¿Qué haces ahí?"
     },
     "soJwDA": {
-        "ko-KR": "[마을 사람]\n모험가 아니시오?\n거긴 통발이나 그물밖에 없을텐데 무슨 볼 일이오?\n안그래도 아들놈이 여기를 오가서 그물로 장난이라도 쳤나 보러 온 참인데 ….",
         "en-US": "[Villager]\nAre you an adventurer?\nThere's nothing but fish traps and fishing nets over there. What are you looking for?\nI came here to see if my son was playing with the fishing nets.",
-        "pt-BR": "[Morador]\nVocê é um aventureiro, não é?\nLá só deve ter armadilhas ou redes, o que você está fazendo aí?\nAliás, meu filho anda por aqui e eu vim ver se ele não andou brincando com as redes...",
+        "pt-BR": "[Morador da vila]\nVocê é um aventureiro?\nAí só deve ter armadilhas para peixes ou redes de pesca, o que você está procurando?\nAliás, meu filho tem zanzado por aqui e eu vim ver se ele não estava brincando com as redes...",
         "es-ES": "[Pueblo]\n¿No eres un aventurero?\nAhí solo hay nasas y redes, ¿qué haces ahí?\nJusto venía a ver si mi hijo había estado haciendo travesuras con las redes por aquí..."
     },
     "s4JwDA": {
-        "ko-KR": "아들이 장난이요?",
         "en-US": "Your son?",
-        "pt-BR": "Brincadeira do filho?",
+        "pt-BR": "Seu filho?",
         "es-ES": "¿Tu hijo está jugando?"
     },
     "tIJwDA": {
-        "ko-KR": "[마을 사람]\n최근 아들놈이랑 마을 꼬마 몇이 어울려서 여기서 자주 놀았거든.\n그런데 여기가 썩 안전한 곳은 아니지 않소.",
         "en-US": "[Villager]\nRecently, my son and some other village kids have been hanging out here often to play.\nBut as you know, this isn't exactly a safe place for them to be.",
-        "pt-BR": "[Morador]\nUltimamente, meu filho e algumas crianças da vila têm se juntado e brincado aqui com frequência.\nMas este lugar não é exatamente seguro, não é mesmo?",
+        "pt-BR": "[Morador da vila]\nUltimamente, meu filho e algumas crianças da vila têm se reunido pra brincar aqui com frequência.\nMas este lugar não é exatamente seguro, não é mesmo?",
         "es-ES": "[Vecino]\nÚltimamente, mi hijo y unos cuantos niños del pueblo se juntan y juegan aquí a menudo.\nPero este no es un lugar muy seguro, ¿no?"
     },
     "tYJwDA": {
-        "ko-KR": "[마을 사람]\n그래서 오늘은 얌전히 마을에서 놀라고 했더니, 아 여기를 꼭 가야 한다고.\n누구를 보기로 했다느니, 그물에 꽁꽁 숨겨 놨다느니 그런 이야기를 하더라고.",
         "en-US": "[Villager]\nSo today, I told him to stay in the village and play quietly, but he insisted he had to come here.\nHe said he promised to see someone here, hidden away in those nets.",
-        "pt-BR": "[Morador]\nPor isso, hoje eu disse pra ele ficar quietinho brincando na vila, mas ele disse que tinha que vir aqui mesmo.\nFalou que ia encontrar alguém, ou que tinha escondido algo bem no fundo da rede, coisas assim.",
+        "pt-BR": "[Morador da vila]\nPor isso, hoje eu disse pra ele ficar quietinho brincando na vila, mas ele disse que tinha que vir aqui.\nFalou que tinha que encontrar alguém, alguém escondido no meio das redes, algo assim.",
         "es-ES": "[Vecino]\nPor eso le dije que hoy se quedara en el pueblo y se portara bien, pero me dijo que tenía que venir aquí sí o sí.\nMe dijo que iba a ver a alguien, que lo tenía bien escondido en la red y cosas así."
     },
     "toJwDA": {
-        "ko-KR": "[마을 사람]\n혹시라도 그물로 물질이라도 했나, 뭐라도 잡아놓고 이러나 싶어 확인하러 왔는데,\n그래. 모험가는 무슨 일이오?",
         "en-US": "[Villager]\nI came to see if he caught something with a net.\nWhat about you, adventurer?",
-        "pt-BR": "[Morador]\nFiquei pensando se ele teria mergulhado com a rede ou se teria pegado alguma coisa, então vim dar uma olhada,\né isso. O que você está fazendo por aqui, aventureiro?",
+        "pt-BR": "[Morador da vila]\nFiquei pensando se ele teria pescado alguma coisa com a rede, então vim dar uma olhada.\nE você? O que está fazendo por aqui, aventureiro?",
         "es-ES": "[Vecino]\nPensé que tal vez habían pescado algo con la red o que tenían algo atrapado ahí, así que vine a ver,\ny sí. ¿Qué pasa, aventurero?"
     },
     "t4JwDA": {
-        "ko-KR": "조사를 위해 목격자를 찾고 있습니다.",
         "en-US": "I'm looking for witnesses for an investigation.",
-        "pt-BR": "Estou procurando testemunhas para a investigação.",
+        "pt-BR": "Estou procurando testemunhas para uma investigação.",
         "es-ES": "Estoy buscando testigos para la investigación."
     },
     "uIJwDA": {
-        "ko-KR": "[마을 사람]\n으음. 그렇구려.\n나는 딱히 모르겠고, 최근 이 근방을 뻔질나게 드나들던 건 아들놈이니 그 놈에게라도 물어보시오.",
         "en-US": "[Villager]\nHmm. I see.\nI don't know much myself, but my son has been hanging around here a lot lately. You should ask him.",
-        "pt-BR": "[Morador]\nHum. É mesmo.\nEu não sei de nada, mas quem andava por aqui o tempo todo ultimamente era o meu filho, então pergunta pra ele.",
+        "pt-BR": "[Morador da vila]\nHum. É mesmo?\nEu não sei de nada, mas quem anda por aqui o tempo todo é o meu filho, você deveria perguntar a ele.",
         "es-ES": "[Pueblo]\nMmm. Ya veo.\nYo no sé nada en particular, pero mi hijo ha estado yendo y viniendo por aquí sin parar últimamente, así que pregúntale a él."
     },
     "uYJwDA": {
-        "ko-KR": "[마을 사람]\n지금쯤 마을 어귀에서 놀고 있을게요.\n음? 아들놈 이름 말이오? 아아.. 그걸 잊었구먼.\n토리라고 하네.",
         "en-US": "[Villager]\nBy now, he must be playing by the entrance to the village.\nHuh? His name? Oh, I forgot to tell you, didn't I?\nIt's Tori.",
-        "pt-BR": "[Morador]\nEle deve estar brincando na entrada da vila agora.\nHã? O nome do meu filho? Ah... esqueci mesmo.\nChama-se Tori.",
+        "pt-BR": "[Morador da vila]\nEle deve estar brincando na entrada da vila agora.\nHã? O nome do meu filho? Ah... eu não te disse, né?\nChama-se Tori.",
         "es-ES": "[Pueblo]\nA estas horas estará jugando en la entrada del pueblo.\n¿Eh? ¿El nombre de mi hijo? Ah... se me había olvidado.\nSe llama Tori."
     },
     "uoJwDA": {
-        "ko-KR": "[마을 사람]\n뭐, 근처에서 안 보이거든 크게 '토리야'하고 불러보시우. 하하핫.\n그럼 난 이만 가겠소. 그물이 멀쩡하다는 걸 확인했으니.",
         "en-US": "[Villager]\nWell, if you don't see him nearby, just shout out \"Tori!\" Hah hah hah.\nNow, if you'll excuse me, I'd better go back. I've confirmed the net is in good shape.",
-        "pt-BR": "[Morador]\nBem, se não o vires por perto, grita bem alto “Tori!”. Hahaha.\nEntão, vou indo. Já verifiquei que a rede está intacta.",
+        "pt-BR": "[Morador da vila]\nBem, se não conseguir encontrá-lo, é só gritar bem alto “Tori!”. Hahaha.\nEntão, eu vou indo. Já verifiquei que a rede está intacta.",
         "es-ES": "[Vecino]\nBueno, si no lo ves por ahí, grita fuerte «¡Tori!». Jajaja.\nBueno, yo me voy. Ya confirmé que la red está intacta."
     },
     "u4JwDA": {
-        "ko-KR": "특별한 것은 보이지 않는다.\n베인스로 돌아가 '토리'를 찾아보자.",
         "en-US": "Nothing looks out of the ordinary.\nI should go back to Veins and look for Tori.",
-        "pt-BR": "Não vejo nada de especial.\nVamos voltar para Bains e procurar o “Tori”.",
+        "pt-BR": "Não vejo nada de especial por aqui.\nVou voltar para Veins e procurar pelo tal de “Tori”.",
         "es-ES": "No veo nada especial.\nVolvamos a Beins y busquemos a «Tori»."
     },
     "vIJwDA": {
-        "ko-KR": "여전히 특별한 것은 보이지 않는다.\n이름을 불러볼까?",
         "en-US": "Nothing looks out of the ordinary.\nShould I call its name?",
         "pt-BR": "Ainda não vejo nada de especial.\nSerá que chamo pelo nome?",
         "es-ES": "Sigo sin ver nada especial.\n¿Le llamo por su nombre?"
     },
     "vYJwDA": {
-        "ko-KR": "어이, 까망아~",
-        "en-US": "Hey, Noir.",
-        "pt-BR": "Ei, Preto~",
+        "en-US": "Hey! Blacky!",
+        "pt-BR": "Ei! Blacky!",
         "es-ES": "¡Oye, Negrito!"
     },
     "voJwDA": {
-        "ko-KR": "억! 눈부셔!",
         "en-US": "Ack! It's so bright!",
-        "pt-BR": "Ai! Está ofuscante!",
+        "pt-BR": "Ai! Que luz ofuscante!",
         "es-ES": "¡Ay! ¡Me deslumbra!"
     },
     "v4JwDA": {
-        "ko-KR": "[까망이]\n무슨 일이냐? 인간.\n뭐야, 작은 인간들이 아니잖아.\n이 몸에게 무슨 용건이지?",
-        "en-US": "[Blackie]\nWhat is it, human?\nErr? You're not one of those tiny ones.\nWhat did you call me?",
-        "pt-BR": "[Kkaman-i]\nO que está acontecendo? Humano.\nO que é isso? Não são humanos pequenos.\nO que você quer de mim?",
+        "en-US": "[Blacky]\nWhat is it, human?\nErr? You're not one of those tiny ones.\nWhat did you call me?",
+        "pt-BR": "[Blacky]\nO que é isso, humano?\nÃh? Você não é como os humanos pequenos.\nO que você quer de mim?",
         "es-ES": "[Negrito]\n¿Qué pasa? Humano.\n¿Qué es esto? No son los humanos pequeños.\n¿Qué quieres de mí?"
     },
     "wIJwDA": {
-        "ko-KR": "[까망이]\n으으 …. 여긴 너무 볕이 잘 들어.\n이 몸이 약해진다아아 ….\n어둠, 어둠이 필요해. 아아아 ….",
-        "en-US": "[Blackie]\nUgh... This place is way too bright for my liking.\nI'm losing my bodyyyy...\nDarkness... I need darkness... Aaahh...",
-        "pt-BR": "[Kkaman-i]\nUgh... A luz do sol está muito forte aqui.\nEu estou ficando fraco...\nPreciso de escuridão, preciso de escuridão. Aaaah...",
+        "en-US": "[Blacky]\nUgh... This place is way too bright for my liking.\nI'm losing my bodyyyy...\nDarkness... I need darkness... Aaahh...",
+        "pt-BR": "[Blacky]\nUgh... A luz do sol está muito forte aqui.\nEu estou ficando fraco...\nPreciso de escuridão, preciso de escuridão. Aaaah...",
         "es-ES": "[Negrito]\nUgh... Aquí entra demasiado sol.\nMe estoy debilitandooo...\nNecesito oscuridad, oscuridad. Aaaah..."
     },
     "wYJwDA": {
-        "ko-KR": "[까망이]\n그래, 그 꼬마들은 한계가 있었어. 너 너는 다 큰 사람이지?\n볕이 들지 않는 어둠으로 가득한 곳으로 이 몸을 데려다 다오!",
-        "en-US": "[Blackie]\nYeah, those kids had their limits. You're an adult, aren't you?\nTake this body to a place filled with darkness and no light!",
-        "pt-BR": "[Kkaman-i]\nÉ, aqueles pequenos tinham limites. Você, você é uma pessoa crescida, não é?\nLeve-me para um lugar cheio de escuridão, onde não entre luz!",
+        "en-US": "[Blacky]\nYeah, those kids had their limits. You're an adult, aren't you?\nTake this body to a place filled with darkness and no light!",
+        "pt-BR": "[Blacky]\nÉ, aqueles pequenos tinham seus limites. Você, você é um adulto, não é?\nLeve-me para um lugar cheio de escuridão, onde não entre luz!",
         "es-ES": "[Negrito]\nSí, esos chiquillos tenían sus límites. Tú, tú ya eres un adulto, ¿no?\n¡Llévame a un lugar lleno de oscuridad donde no entre la luz!"
     },
     "woJwDA": {
-        "ko-KR": "[까망이]\n이대로 황무지에서 소멸할 수 없어! 어떻게 나온 인세인데.\n이 몸을 빛이 들지 않는 곳에서 불러준다면 뭐든 한가지 들어주마!",
-        "en-US": "[Blackie]\nI refuse to perish in this wilderness! It took me so long to reach this human realm.\nCall me again somewhere dark, and I'll grant you one wish.",
-        "pt-BR": "[Kkaman-i]\nNão posso simplesmente desaparecer assim no deserto! Como é que eu vim parar aqui?\nSe me levares para um lugar onde não entra luz, eu concedo qualquer um dos teus pedidos!",
+        "en-US": "[Blacky]\nI refuse to perish in this wilderness! It took me so long to reach this human realm.\nCall me again somewhere dark, and I'll grant you one wish.",
+        "pt-BR": "[Blacky]\nNão posso simplesmente desaparecer assim no deserto! Depois de tanto esforço para chegar aqui.\nSe me levar para um lugar onde não haja luz, eu concederei qualquer desejo!",
         "es-ES": "[Negrito]\n¡No puedo desaparecer así en este páramo! ¿Cómo voy a salir de aquí?\n¡Si me llevas a un lugar donde no entre la luz, te concederé cualquier deseo!"
     },
     "w4JwDA": {
-        "ko-KR": "[까망이]\n은혜는 확실히 갚겐단 게야.\n이 몸이 너에게 꼬리 그림자를 달아 둘테니 적당한 장소가 마련되면 불러다오.",
-        "en-US": "[Blackie]\nI don't forget any favors done for me.\nI'll put a shadowy tail on you. Call me when you find a suitable place for me.",
-        "pt-BR": "[Kkaman-i]\nVou retribuir essa graça com certeza.\nVou deixar minha cauda como marca para você, então me chame quando tiver um lugar adequado.",
+        "en-US": "[Blacky]\nI don't forget any favors done for me.\nI'll put a shadowy tail on you. Call me when you find a suitable place for me.",
+        "pt-BR": "[Blacky]\nVou retribuir esse favor com certeza.\nDeixarei com você uma sombra da minha cauda. Assim, poderá me chamar quando estiver em um lugar adequado.",
         "es-ES": "[Kkaman-i]\nTe devolveré el favor sin falta.\nTe pondré una sombra de cola, así que avísame cuando tengas un lugar adecuado."
     },
     "xIJwDA": {
-        "ko-KR": "어떻게 부르지?",
         "en-US": "How can I call you?",
-        "pt-BR": "Como me chamas?",
+        "pt-BR": "Como posso te chamar?",
         "es-ES": "¿Cómo me llamas?"
     },
     "xYJwDA": {
-        "ko-KR": "[까망이]\n그건 간단하다. 어둠이 응축된 물건을 가지고 이 몸을 불러.\n어둠의 룬이나 어둠의 조각 같은 것들이 세상엔 존재해.",
-        "en-US": "[Blackie]\nIt's simple. Find objects filled with darkness and use them to call me.\nIn this world, there are many dark objects. Runes of Darkness and Dark Pieces, for instance.",
-        "pt-BR": "[Kkaman-i]\nIsso é simples. Usa um objeto onde a escuridão esteja condensada para me chamar.\nExistem coisas como runas das trevas ou fragmentos das trevas no mundo.",
+        "en-US": "[Blacky]\nIt's simple. Find objects filled with darkness and use them to call me.\nIn this world, there are many dark objects. Crystals of Darkness and Dark Pieces, for instance.",
+        "pt-BR": "[Blacky]\nIsso é simples. Use um objeto repleto de escuridão para me chamar.\nExistem muitas coisas envoltas em escuridão neste mundo, como Cristais da Escuridão e Fragmentos Sombrios.",
         "es-ES": "[Negrito]\nEso es fácil. Llama a este cuerpo con un objeto en el que se haya condensado la oscuridad.\nEn el mundo existen cosas como runas de la oscuridad o fragmentos de oscuridad."
     },
     "xoJwDA": {
-        "ko-KR": "[까망이]\n꼬마들이 가진 어둠의 룬을 이용해 이 인세에 들긴 했으나 . .. 아아.. 여긴 빛이...",
-        "en-US": "[Blackie]\nI used those kids' Rune of Darkness to cross over to this realm, but... Ugh, I didn't know it was so bright...",
-        "pt-BR": "[Kkaman-i]\nEu usei a runa das trevas que os pequenos tinham para entrar neste mundo, mas... ah... aqui tem luz...",
+        "en-US": "[Blacky]\nI used those kids' Crystals of Darkness to cross over to this realm, but... Ugh, I didn't know it was so bright...",
+        "pt-BR": "[Blacky]\nEu usei o Cristal da Escuridão que os pequenos tinham para entrar neste mundo, mas... ah... aqui tem muita luz...",
         "es-ES": "[Negrito]\nAunque logré entrar en este mundo usando el runa de la oscuridad que tenían los chiquillos... Ay... Aquí hay luz..."
     },
     "x4JwDA": {
-        "ko-KR": "일방적으로 떠들던 것이 스르륵 사라졌다.\n아무래도 힘이 다 한 모양이다.\n일단 안가로 돌아가 보고하자.",
         "en-US": "The one-sided chatter faded away.\nLooks like it's run out of energy.\nI should head back to the safehouse for now.",
-        "pt-BR": "O que estava falando sem parar desapareceu de repente.\nParece que a energia acabou mesmo.\nVamos voltar para dentro primeiro.",
+        "pt-BR": "O ser que falava sem parar desapareceu.\nParece que ele ficou sem energia.\nVamos voltar para o esconderijo por enquanto.",
         "es-ES": "Lo que estaba diciendo sin parar se desvaneció de repente.\nParece que se le acabó la energía.\nMejor volvamos al interior por ahora."
     },
     "yIJwDA": {
-        "ko-KR": "볕이 들지 않는 곳에서 다시 불러내야 할 것 같다.",
         "en-US": "I should summon it again in a place where no sunlight reaches.",
-        "pt-BR": "Parece que vou ter que invocá-lo de novo num lugar onde não entre luz.",
+        "pt-BR": "Parece que vou ter que invocá-lo num lugar onde não entre luz.",
         "es-ES": "Parece que tendré que volver a invocarlo en un lugar donde no entre la luz."
     },
     "yYJwDA": {
-        "ko-KR": "마을 사람",
         "en-US": "Villager",
         "pt-BR": "Morador da vila",
         "es-ES": "Gente del pueblo"
     },
     "yoJwDA": {
-        "ko-KR": "까망이",
-        "en-US": "Blackie",
-        "pt-BR": "Kkaman",
+        "en-US": "Blacky",
+        "pt-BR": "Blacky",
         "es-ES": "Kkaman"
     },
     "y4JwDA": {
-        "ko-KR": "노아",
         "en-US": "Noah",
         "pt-BR": "Noah",
         "es-ES": "Noah"
     },
     "zIJwDA": {
-        "ko-KR": "안녕? 네가 토리니?",
         "en-US": "Hi? Are you Tori?",
         "pt-BR": "Oi? Você é o Tori?",
         "es-ES": "¿Hola? ¿Eres Torri?"
     },
     "zYJwDA": {
-        "ko-KR": "노아: 어 …. 노아는 노아에요. 토리 …. 토리랑 놀려고 왔어요.",
         "en-US": "Noah: Err... I'm Noah. Tori... I came to play with Tori.",
-        "pt-BR": "Noah: Hum... Sim, sou o Noah. Vim... vim brincar com a Tori.",
+        "pt-BR": "Noah: Ahn... Eu sou a Noah. O Tori? Eu vim brincar com o Tori.",
         "es-ES": "Noa: Eh... Noa soy yo. Torri... Vine a jugar con Torri."
     },
     "zoJwDA": {
-        "ko-KR": "토리는 어디있니?",
         "en-US": "Where's Tori?",
-        "pt-BR": "Onde está a Tori?",
+        "pt-BR": "Onde está o Tori?",
         "es-ES": "¿Dónde está Tori?"
     },
     "z4JwDA": {
-        "ko-KR": "[노아]\n여기쯤 있을 것 같은데요?\n크게 부르면 나올거에요.\n모험가님 목소리 커요? 크게 불러줘요. 노아는 목 아파.",
         "en-US": "[Noah]\nHe should be around here somewhere.\nHe'll come out if you call him.\nAdventurer, can you shout loudly? Because you have to shout for him. Noah can't do it.",
-        "pt-BR": "[Noah]\nAcho que ela deve estar por aqui.\nSe você chamar bem alto, ela vai aparecer.\nVocê tem uma voz forte, aventureiro? Chama bem alto. A garganta do Noah tá doendo.",
+        "pt-BR": "[Noah]\nAcho que ele deve estar por aqui.\nSe você chamar bem alto, ele vai aparecer.\nVocê tem uma voz forte, aventureiro? Chama bem alto. A garganta da Noah tá doendo.",
         "es-ES": "[Noah]\n¿No estará por aquí?\nSi la llamas fuerte, seguro que sale.\n¿Tienes buena voz, aventurero? Llámala fuerte. A Noah le duele la garganta."
     },
     "0IJwDA": {
-        "ko-KR": "토리를 불러 보자.\n뭐가 됐든, 토리를 부르면 알아서 나올 것이다.",
         "en-US": "Let's call out to Tori.\nWhatever it takes, if you call Tori, he'll come out on his own.",
-        "pt-BR": "Vamos chamar a Tori.\nSeja como for, se chamarmos a Tori, ela vai aparecer por conta própria.",
+        "pt-BR": "Vamos chamar o Tori.\nSeja como for, se chamarmos pelo Tori, ele deve aparecer.",
         "es-ES": "Vamos a llamar a Tori.\nPase lo que pase, si llamas a Tori, ella saldrá por sí sola."
     },
     "0YJwDA": {
-        "ko-KR": "토리야~",
         "en-US": "Tori~",
         "pt-BR": "Tori~",
         "es-ES": "¡Tori!"
     },
     "0oJwDA": {
-        "ko-KR": "토리야!!!!",
         "en-US": "Tori!!!!",
         "pt-BR": "Tori!!!!",
         "es-ES": "¡Tori!"
     },
     "04JwDA": {
-        "ko-KR": "도토리야아~~!!",
         "en-US": "Toriyaaa~~!!",
         "pt-BR": "Toriiii~~!!",
         "es-ES": "¡Tori!~~!!"
     },
     "1IJwDA": {
-        "ko-KR": "토리야~",
         "en-US": "Tori~",
         "pt-BR": "Tori~",
         "es-ES": "¡Tori!"
     },
     "1YJwDA": {
-        "ko-KR": "토리야!!!!",
         "en-US": "Tori!!!!",
         "pt-BR": "Tori!!!!",
         "es-ES": "¡Tori!"
     },
     "1oJwDA": {
-        "ko-KR": "도토리야아~!!",
         "en-US": "Tori~!!",
         "pt-BR": "Tori~!!",
         "es-ES": "¡Tori!"
     },
     "14JwDA": {
-        "ko-KR": "토리: 누구야?",
         "en-US": "Tori: Who is it?",
         "pt-BR": "Tori: Quem é?",
         "es-ES": "Tori: ¿Quién es?"
     },
     "2IJwDA": {
-        "ko-KR": "[토리]\n누구야? 엄청 시끄럽네.\n뭐야, 노아였잖아. 오늘은 거기 못 가.\n아빠가 오늘은 마을에서만 놀래.",
         "en-US": "[Tori]\nWho is it? It's so noisy.\nWhat? It's Noah. I can't go there today.\nDad said I have to stay in town today.",
-        "pt-BR": "[Tori]\nQuem é? Está fazendo um barulho danado.\nO que é isso, era o Noah. Hoje não posso ir lá.\nMeu pai disse que hoje vou brincar só na vila.",
+        "pt-BR": "[Tori]\nQuem é? Mas que barulho.\nO que é isso? Ah, é a Noah. Hoje não posso ir lá.\nMeu pai disse que hoje tenho que brincar só na vila.",
         "es-ES": "[Tori]\n¿Quién es? Qué ruido.\n¿Qué pasa? Era Noa. Hoy no puedo ir ahí.\nPapá dijo que hoy solo jugáramos en el pueblo."
     },
     "2YJwDA": {
-        "ko-KR": "노아: 모험가님이 찾아오셨는데?",
-        "en-US": "Noah: An adventurer came looking for you?",
-        "pt-BR": "Noah: Mas o aventureiro veio me visitar?",
+        "en-US": "Noah: An adventurer came looking for you.",
+        "pt-BR": "Noah: Um aventureiro veio te ver.",
         "es-ES": "Noah: ¿Pero si ha venido a visitarte el aventurero?"
     },
     "2oJwDA": {
-        "ko-KR": "토리: 어엉? 나한테?",
         "en-US": "Tori: Huh? Me?",
-        "pt-BR": "Tori: Hã? Comigo?",
+        "pt-BR": "Tori: Hã? Eu?",
         "es-ES": "Tori: ¿Eh? ¿A mí?"
     },
     "24JwDA": {
-        "ko-KR": "[토리]\n저 도둑질 안 했는데요!",
         "en-US": "[Tori]\nI didn't steal it!",
         "pt-BR": "[Tori]\nEu não roubei nada!",
         "es-ES": "[Tori]\n¡Yo no he robado nada!"
     },
     "3IJwDA": {
-        "ko-KR": "도둑질이라니?",
         "en-US": "Stealing?",
         "pt-BR": "Roubar?",
         "es-ES": "¿Robar?"
     },
     "3YJwDA": {
-        "ko-KR": "[토리]\n어라? 그때 그 모험가님이 아니네.\n에이 뭐야 놀랐잖아요.\n얼마전에 어떤 모험가가 떨어트린 물건을 주운 적 있어요.",
         "en-US": "[Tori]\nHuh? That's not the adventurer from back then.\nUgh, what was that? You scared me.\nNot long ago, I picked up something an adventurer dropped.",
-        "pt-BR": "[Tori]\nHã? Não é aquele aventureiro de antes.\nAh, qual é, você me assustou.\nHá pouco tempo, eu encontrei um objeto que um aventureiro deixou cair.",
+        "pt-BR": "[Tori]\nHã? Não é o aventureiro de antes.\nAh, qual é! Você me assustou.\nHá um tempo atrás, eu encontrei um objeto que um aventureiro deixou cair.",
         "es-ES": "[Tori]\n¿Eh? No eres ese aventurero de antes.\nAy, qué, me has dado un susto.\nHace poco recogí algo que se le había caído a un aventurero."
     },
     "3oJwDA": {
-        "ko-KR": "[토리]\n저 절대 훔친 거 아니에요!\n지금 가지고 있지도 않고요!",
         "en-US": "[Tori]\nI absolutely didn't steal it!\nI don't even have it now!",
-        "pt-BR": "[Tori]\nEu não roubei, de jeito nenhum!\nE nem estou com isso agora!",
+        "pt-BR": "[Tori]\nEu não roubei, de jeito nenhum!\nE nem estou com aquilo agora!",
         "es-ES": "[Tori]\n¡No lo robé, en absoluto!\n¡Y tampoco lo tengo ahora!"
     },
     "34JwDA": {
-        "ko-KR": "[노아]\n까망이가 먹었지. 그거.",
-        "en-US": "[Noah]\nBlackie ate it. That thing.",
-        "pt-BR": "[Noah]\nFoi o Kkaman que comeu. Aquilo.",
+        "en-US": "[Noah]\nBlacky ate it. That thing.",
+        "pt-BR": "[Noah]\nFoi o Blacky que comeu... aquilo.",
         "es-ES": "[Noah]\nKkaman se lo comió. Eso."
     },
     "4IJwDA": {
-        "ko-KR": "까망이도 친구니?",
-        "en-US": "Is Noir a friend too?",
-        "pt-BR": "O Kkaman-i também é seu amigo?",
+        "en-US": "Is Blacky a friend too?",
+        "pt-BR": "O Blacky é seu amigo também?",
         "es-ES": "¿Kkaman-i también es tu amigo?"
     },
     "4YJwDA": {
-        "ko-KR": "[토리]\n아니야. 아니에요. 그러보니까 까망이가요. 점점 연해져서 …. 어?\n모험가님! 의뢰 받는 사람이죠?\n까망이 살려주세요!",
-        "en-US": "[Tori]\nNo. No, wait. Now that I think about it, it's Kkaman-i. It's getting lighter and lighter... Huh?\nAdventurer! You're the one taking requests, right?\nSave Kkaman-i!",
-        "pt-BR": "[Tori]\nNão. Não é. Agora que penso nisso, é o Kkaman-i. Está ficando cada vez mais claro... Hã?\nAventureiro! Você é quem recebe os pedidos, certo?\nSalve o Kkaman-i!",
+        "en-US": "[Tori]\nNo. No, wait. Now that I think about it, it's Blacky. It's getting lighter and lighter... Huh?\nAdventurer! You're the one taking requests, right?\nSave Blacky!",
+        "pt-BR": "[Tori]\nNão. Espera aí. Pensando melhor, é o Blacky. Ele está ficando cada vez mais claro... Hã?\nAventureiro! Você aceita missões, não é?\nSalve o Blacky!",
         "es-ES": "[Tori]\nNo. No lo es. Ahora que lo pienso, sí es Kkaman-i. Se está volviendo cada vez más pálido... ¿Eh?\n¡Aventurero! ¿Eres el que recibe encargos, verdad?\n¡Salva a Kkaman-i!"
     },
     "4oJwDA": {
-        "ko-KR": "[토리]\n제가 반짝 반짝 까만 구슬을 주웠는데요! 너무 예뻐서 자랑을 하다가 뺏길 것 같아서 숨겼어요.",
         "en-US": "[Tori]\nI found a shiny, shiny black bead! It was so pretty I hid it because I was afraid someone would take it if I showed it off.",
-        "pt-BR": "[Tori]\nEu encontrei uma bolinha preta brilhante! Era tão bonita que, com medo de que roubassem de mim enquanto eu me gabava, eu a escondi.",
+        "pt-BR": "[Tori]\nEu encontrei uma bolinha preta brilhante! Era tão bonita que, com medo de que roubassem de mim, eu a escondi.",
         "es-ES": "[Tori]\n¡Encontré una bolita negra que brilla! Era tan bonita que, mientras la presumía, me dio miedo que me la quitaran, así que la escondí."
     },
     "44JwDA": {
-        "ko-KR": "[노아]\n해변에요, 작은 선착장에요. 그물 상자 안에 꼭꼭 숨겼어요!\n그랬더니 까만 요정이 튀어나왔어. 까망이에요!",
-        "en-US": "[Noah]\nIt's at the beach, at a small dock. I hid it deep inside a net container!\nThen a black fairy popped out. It's black!",
-        "pt-BR": "[Noah]\nÉ na praia, num pequeno cais. Escondi bem escondido dentro de uma caixa de rede!\nEntão, uma fada preta apareceu de repente. É o Kkaman!",
+        "en-US": "[Noah]\nIt's at the beach, at a small dock. I hid it deep inside a net container!\nThen a black fairy popped out. It's Blacky!",
+        "pt-BR": "[Noah]\nÉ na praia, num pequeno cais. Escondi bem escondido dentro de uma caixa de rede de pesca!\nEntão, uma fada preta apareceu de repente. É o Blacky!",
         "es-ES": "[Noah]\nEstá en la playa, en un pequeño muelle. ¡La escondí bien escondida dentro de una caja de redes!\nY entonces salió un duendecito negro. ¡Es Kkaman!"
     },
     "5IJwDA": {
-        "ko-KR": "[토리]\n까망이는 요정님이죠? 기운이 없대요. 까만게 더 많아야 한대.\n모험가님이 까망이 봐주세요.",
-        "en-US": "[Tori]\nNoir is a fairy, right? It says it's feeling weak. It says there should be more black ones.\nAdventurer, please look after Noir.",
-        "pt-BR": "[Tori]\nO Kkaman é uma fada, né? Ele tá sem energia. Diz que precisa de mais coisas pretas.\nAventureiro, dá uma olhada no Kkaman.",
+        "en-US": "[Tori]\nBlacky is a fairy, right? It says it's feeling weak. It says there should be more black ones.\nAdventurer, please look after Blacky.",
+        "pt-BR": "[Tori]\nO Blacky é uma fada, né? Ele diz q está ficando fraco. Diz que precisa de mais coisas pretas.\nAventureiro, cuide do Blacky.",
         "es-ES": "[Tori]\n¿Kkaman es un hada, verdad? Dice que no tiene energía. Dice que necesita más cosas negras.\nAventurero, por favor, échale un vistazo a Kkaman."
     },
     "5YJwDA": {
-        "ko-KR": "토리: 뭘 좋아하는지는 까망이에게 물어보세요!",
-        "en-US": "Tori: Ask Noir what it likes!",
-        "pt-BR": "Tori: Pergunta ao Kkaman do que ele gosta!",
+        "en-US": "Tori: Ask Blacky what it likes!",
+        "pt-BR": "Tori: Pergunte ao Blacky do que ele gosta!",
         "es-ES": "Tori: ¡Pregúntale a Kkaman qué le gusta!"
     },
     "5oJwDA": {
-        "ko-KR": "노아: 물어보세요!",
         "en-US": "Noah: Ask him!",
         "pt-BR": "Noah: Pergunta!",
         "es-ES": "Noah: ¡Pregúntale!"
     },
     "54JwDA": {
-        "ko-KR": "[노아]\n까망이는 …. 해안가 나루터에 보면요?\n거기 그물 넣어두는 상자가 있어요. 거기에 숨어있어요!",
-        "en-US": "[Noah]\nBlackie is... If you look at the coastal landing?\nThere's a box where they store nets. He's hiding in there!",
-        "pt-BR": "[Noah]\nA Kkaman... se você for até o cais à beira-mar?\nLá tem uma caixa onde guardam as redes. Ela está escondida lá!",
+        "en-US": "[Noah]\nBlacky... what If you look at the coastal landing?\nThere's a box where they store nets. He's hiding in there!",
+        "pt-BR": "[Noah]\nBlacky... e se você for até o cais à beira-mar?\nLá tem uma caixa onde guardam as redes. Ele está escondido lá!",
         "es-ES": "[Noah]\nA Kkaman... ¿la ves en el embarcadero de la costa?\nAhí hay una caja donde guardan las redes. ¡Está escondida ahí!"
     },
     "6IJwDA": {
-        "ko-KR": "[노아]\n노아랑 토리는 오늘 못가니까요, 모험가님이 가서 보고 까망이 밥 주고 오세요. 네?",
-        "en-US": "[Noah]\nNoah and Tori can't go today, so Adventurer, please go check on him and feed Blackie. Okay?",
-        "pt-BR": "[Noah]\nComo o Noah e o Tori não podem ir hoje, o aventureiro vai dar uma olhada e dar comida para o Kkaman-i, tá?",
+        "en-US": "[Noah]\nNoah and Tori can't go today, so Adventurer, please go check on him and feed Blacky. Okay?",
+        "pt-BR": "[Noah]\nComo a Noah e o Tori não podem ir lá hoje, o aventureiro vai ter que dar uma olhada e dar comida para o Blacky, tá?",
         "es-ES": "[Noah]\nComo Noah y Tori no podemos ir hoy, ve tú, aventurero, a ver a Kkaman-i y dale de comer. ¿Sí?"
     },
     "6YJwDA": {
-        "ko-KR": "[노아]\n노아는 항상 토리랑 놀아요.",
         "en-US": "[Noah]\nNoah always plays with Tori.",
-        "pt-BR": "[Noah]\nO Noah brinca sempre com a Tori.",
+        "pt-BR": "[Noah]\nNoah sempre brinca com o Tori.",
         "es-ES": "[Noah]\nNoah siempre juega con Tori."
     },
     "6oJwDA": {
-        "ko-KR": "토리",
         "en-US": "Tori",
         "pt-BR": "Tori",
         "es-ES": "Tori"
     },
     "64JwDA": {
-        "ko-KR": "[토리]\n까망이 배고플거에요. 그치만 오늘은 마을밖으로 못 나가니까요.\n모험가님이 까망이 좀 보고오세요.",
-        "en-US": "[Tori]\nKkaman must be hungry. But we can't leave the village today.\nAdventurer, please go see Kkaman for me.",
-        "pt-BR": "[Tori]\nO Kkaman deve estar com fome. Mas hoje não podemos sair da vila.\nAventureiro, vai dar uma olhada no Kkaman e volta.",
+        "en-US": "[Tori]\nBlacky must be hungry. But we can't leave the village today.\nAdventurer, please go see Blacky for me.",
+        "pt-BR": "[Tori]\nO Blacky deve estar com fome. Mas hoje não podemos sair da vila.\nAventureiro, vai dar uma olhada no Blacky pra mim.",
         "es-ES": "[Tori]\nKkaman-i debe tener hambre. Pero hoy no podemos salir del pueblo.\nVe a ver a Kkaman-i, aventurero."
     },
     "7IJwDA": {
-        "ko-KR": "- 소지하고 계신 아이템이 많아 퀘스트를 진행할 수 없습니다. -",
         "en-US": "- You're carrying too many items to proceed with this quest. -",
-        "pt-BR": "- Não dá pra continuar a missão porque você tá com muitos itens. -",
+        "pt-BR": "- Não é possível prosseguir com a missão porque você está carregando muitos itens. -",
         "es-ES": "- Tienes demasiados objetos y no puedes continuar con la misión. -"
     },
     "7YJwDA": {
-        "ko-KR": "[베르카셀]\n여기다. 소환준비는 잘 해왔군.\n이거면 충분하겠지.\n메이셀도 합류하기로 했는데, 일단 우리끼리 먼저 갈까?",
-        "en-US": "[Verkhasel]\nHere we are. You've prepared well for the summoning.\nThis should be enough.\nMeisel agreed to join us too, but shall we go ahead without him for now?",
-        "pt-BR": "[Berksel]\nAqui está. Preparaste bem a invocação.\nIsso deve ser suficiente.\nO Meisel também vai se juntar a nós, mas vamos nós dois primeiro?",
-        "es-ES": "[Bercasel]\nAquí está. Has hecho bien los preparativos para la invocación.\nCon esto debería bastar.\nMeisel también se unirá, pero ¿vamos primero nosotros solos?"
+        "en-US": "[Verkhasel]\nHere we are. You've prepared well for the summoning.\nThis should be enough.\nMayssel agreed to join us too, but shall we go ahead without him for now?",
+        "pt-BR": "[Verkhasel]\nAqui estamos. Você fez um bom trabalho com os preparativos.\nIsso deve ser o suficiente.\nA Mayssel também vai se juntar a nós, mas será que devemos ir primeiro?",
+        "es-ES": "[Verkhasel]\nAquí está. Has hecho bien los preparativos para la invocación.\nCon esto debería bastar.\nMeisel también se unirá, pero ¿vamos primero nosotros solos?"
     },
     "7oJwDA": {
-        "ko-KR": "[베르카셀]\n어둠의 정령을 불러냈을 때, 순순히 우리 요구를 들어준다는 보장이 없다.\n그러니 충분한 준비를 하고 가도록 하지.",
-        "en-US": "[Bercassell]\nWhen we summon the Spirit of Darkness, there's no guarantee it will simply comply with our demands.\nSo let's make sure we're fully prepared before we go.",
-        "pt-BR": "[Bercasel]\nQuando invocarmos o espírito das trevas, não há garantia de que ele atenda às nossas exigências sem resistência.\nPor isso, vamos nos preparar bem antes de ir.",
-        "es-ES": "[Bercasel]\nCuando invoquemos al espíritu de la oscuridad, no hay garantía de que vaya a cumplir nuestras órdenes sin más.\nAsí que mejor vamos bien preparados."
+        "en-US": "[Verkhasel]\nWhen we summon the Dark Elemental, there's no guarantee it will simply comply with our demands.\nSo let's make sure we're fully prepared before we go.",
+        "pt-BR": "[Verkhasel]\nQuando invocarmos o Elemental Sombrio, não há garantia de que ele atenderá às nossas exigências.\nPor isso, vamos nos preparar bem antes de ir.",
+        "es-ES": "[Verkhasel]\nCuando invoquemos al espíritu de la oscuridad, no hay garantía de que vaya a cumplir nuestras órdenes sin más.\nAsí que mejor vamos bien preparados."
     },
     "74JwDA": {
-        "ko-KR": "[베르카셀]\n진입 준비가 되면 말을 걸어라.",
-        "en-US": "[Vercasel]\nWhen you're ready to enter, speak to me.",
-        "pt-BR": "[Vercasel]\nQuando estiver pronto para entrar, fala comigo.",
-        "es-ES": "[Vercasel]\nCuando estés listo para entrar, háblame."
+        "en-US": "[Verkhasel]\nWhen you're ready to enter, speak to me.",
+        "pt-BR": "[Verkhasel]\nQuando estiver pronto para entrar, fale comigo.",
+        "es-ES": "[Verkhasel]\nCuando estés listo para entrar, háblame."
     },
     "8IJwDA": {
-        "ko-KR": "^4D4DFF메모리얼 던전으로 진행되는 이벤트입니다. 파티를 생성한 후, 파티리더 상태로 베르카셀에게 말을 걸어주세요.^000000",
         "en-US": "^4D4DFFThis is an event leading to the Memorial Dungeon. After forming a party, speak to Verkhasel while in party leader status.^000000",
-        "pt-BR": "^4D4DFFEste é um evento que ocorre na Masmorra Memorial. Crie um grupo e, como líder, fale com Vercasel.^000000",
-        "es-ES": "^4D4DFFEste es un evento que se desarrolla en la Mazmorra Memorial. Crea un grupo y, como líder del grupo, habla con Vercasel.^000000"
+        "pt-BR": "^4D4DFFEste é um evento que ocorre na Masmorra Memorial. Crie um grupo e, como líder, fale com Verkhasel.^000000",
+        "es-ES": "^4D4DFFEste es un evento que se desarrolla en la Mazmorra Memorial. Crea un grupo y, como líder del grupo, habla con Verkhasel.^000000"
     },
     "8YJwDA": {
-        "ko-KR": "[베르카셀]\n으음, 어둠의 결정체와 어둠의 조각 수량이 부족해 보이는군.\n결정체는 최소 5개 이상, 어둠의 조각은 넉넉하게 20개 이상 가져가도록 하지.",
-        "en-US": "[Verkhasel]\nHmm, it seems we're short on Dark Crystals and Dark Fragments.\nMake sure to bring at least 5 Crystals and a generous supply of 20 or more Fragments.",
-        "pt-BR": "[Vercasel]\nHum, parece que a quantidade de Cristais das Trevas e Fragmentos das Trevas está um pouco baixa.\nLeva pelo menos 5 Cristais das Trevas e, de preferência, mais de 20 Fragmentos das Trevas.",
-        "es-ES": "[Vercasel]\nMmm, parece que te faltan Cristales de la Oscuridad y Fragmentos de la Oscuridad.\nLleva al menos 5 Cristales y unos 20 Fragmentos de la Oscuridad, por si acaso."
+        "en-US": "[Verkhasel]\nHmm, it seems we're short on Crystals of Darkness and Dark Pieces.\nMake sure to bring at least 5 Crystals and a generous supply of 20 or more Dark Pieces.",
+        "pt-BR": "[Verkhasel]\nHum, parece que a quantidade de Cristais da Escuridão e Fragmentos Sombrios está um pouco baixa.\nTraga pelo menos 5 Cristais da Escuridão e, de preferência, mais de 20 Fragmentos Sombrios.",
+        "es-ES": "[Verkhasel]\nMmm, parece que te faltan Cristales de la Oscuridad y Fragmentos de la Oscuridad.\nLleva al menos 5 Cristales y unos 20 Fragmentos de la Oscuridad, por si acaso."
     },
     "8oJwDA": {
-        "ko-KR": "그림자에 잠긴 저택",
-        "en-US": "The Shadowy Mansion",
-        "pt-BR": "A Mansão Envolvida em Sombras",
+        "en-US": "The Shadowed Manor",
+        "pt-BR": "A Mansão Sombria",
         "es-ES": "La mansión atrapada en un cuadro"
     },
     "84JwDA": {
-        "ko-KR": "^4D4DFF메모리얼로 진행되는 이벤트 입니다.^000000\n^4D4DFF전직 시험은 1인 파티로만 진행할 수 있습니다.^000000",
         "en-US": "^4D4DFFThis is a Memorial event.^000000\n^4D4DFFThe Job Change test can only be taken in a party of 1.^000000",
         "pt-BR": "^4D4DFFEste é um evento que ocorre no Memorial.^000000\n^4D4DFFO teste de mudança de classe só pode ser feito em grupo de 1 pessoa.^000000",
         "es-ES": "^4D4DFFEste es un evento que se lleva a cabo en Memorial.^000000\n^4D4DFFLa prueba de cambio de clase solo se puede realizar en un grupo de 1 persona.^000000"
     },
     "9IJwDA": {
-        "ko-KR": "[베르카셀]\n슬슬 가볼까?",
-        "en-US": "[Bercassell]\nShall we head in?",
-        "pt-BR": "[Verkasel]\nVamos lá?",
+        "en-US": "[Verkhasel]\nShall we head in?",
+        "pt-BR": "[Verkhasel]\nVamos lá?",
         "es-ES": "[Verkasel]\n¿Nos vamos ya?"
     },
     "9YJwDA": {
-        "ko-KR": "'그림자에 잠긴 저택'을 신청한다.",
-        "en-US": "Applying for 'The Mansion Shrouded in Shadow'.",
-        "pt-BR": "Inscreve-te na missão “Mansão Envolvida em Sombras”.",
+        "en-US": "Applying for 'Shadowed Manor'.",
+        "pt-BR": "Inscrever na missão “Mansão Sombria”.",
         "es-ES": "Solicita «La mansión sumida en las sombras»."
     },
     "9oJwDA": {
-        "ko-KR": "'그림자에 잠긴 저택'에 입장한다.",
-        "en-US": "Entering 'Shadow-Shrouded Mansion'.",
-        "pt-BR": "Entrando na “Mansão Envolvida pelas Sombras”.",
+        "en-US": "Entering 'Shadowed Manor'.",
+        "pt-BR": "Entrando na “Mansão Sombria”.",
         "es-ES": "Entras en «La mansión sumida en las sombras»."
     },
     "94JwDA": {
-        "ko-KR": "[베르카셀]\n메이셀과 둠크가 합류할 예정에 있다.\n아직 여유시간이 있군.\n잠시만 더 기다려보자고.",
-        "en-US": "[Verkhasel]\nMeisel and Doomk are scheduled to join us.\nWe still have some time.\nLet's wait a little longer.",
-        "pt-BR": "[Vercasel]\nMeisel e Doomk devem se juntar a nós.\nAinda temos um tempinho.\nVamos esperar mais um pouquinho.",
-        "es-ES": "[Vercasel]\nSe espera que se unan Meisel y Doomk.\nTodavía tenemos tiempo.\nEsperemos un rato más."
+        "en-US": "[Verkhasel]\nMayssel and Doomk are scheduled to join us.\nWe still have some time.\nLet's wait a little longer.",
+        "pt-BR": "[Verkhasel]\nMayssel e Dumk devem se juntar a nós.\nAinda temos um tempinho.\nVamos esperar mais um pouco.",
+        "es-ES": "[Verkhasel]\nSe espera que se unan Meisel y Dumk.\nTodavía tenemos tiempo.\nEsperemos un rato más."
     },
     "+IJwDA": {
-        "ko-KR": "[베르카셀]\n그럼 소리 안나게 조용히 들어가자고.",
-        "en-US": "[Bercassell]\nThen let's go in quietly without making a sound.",
-        "pt-BR": "[Vercasel]\nEntão vamos entrar bem devagar, sem fazer barulho.",
-        "es-ES": "[Vercasel]\nEntonces, entremos en silencio, sin hacer ruido."
+        "en-US": "[Verkhasel]\nThen let's go in quietly without making a sound.",
+        "pt-BR": "[Verkhasel]\nEntão vamos entrar bem devagar, sem fazer barulho.",
+        "es-ES": "[Verkhasel]\nEntonces, entremos en silencio, sin hacer ruido."
     },
     "+YJwDA": {
-        "ko-KR": "^4D4DFF메모리얼로 진행되는 이벤트입니다.\n메모리얼 던전 신청은 파티리더로 해야합니다.^000000",
         "en-US": "^4D4DFFThis is a Memorial event.\nOnly party leaders can request to enter the Memorial dungeon.^000000",
         "pt-BR": "^4D4DFFEste é um evento que ocorre no Memorial.\nA inscrição na masmorra do Memorial deve ser feita pelo líder do grupo.^000000",
         "es-ES": "^4D4DFFEste es un evento que se lleva a cabo en Memorial.\nLa solicitud para la mazmorra de Memorial debe hacerla el líder del grupo.^000000"
     },
     "+oJwDA": {
-        "ko-KR": "[베르카셀]\n미안하지만 잠깐 기다려주겠나?\n아무래도 특별히 관리하는 장소다보니 내 집 드나들듯 편하게 들어갈 수 있는 구조는 아니라서.",
         "en-US": "[Verkhasel]\nSorry, but could you wait a moment?\nSince it's a specially managed location, it's not structured for easy entry like walking into my own home.",
-        "pt-BR": "[Verkaxel]\nDesculpa, mas você pode esperar um pouquinho?\nComo é um local com segurança especial, não dá pra entrar tão à vontade como se fosse na minha própria casa.",
-        "es-ES": "[Vercasel]\nLo siento, ¿podrías esperar un momento?\nComo se trata de un lugar con seguridad especial, no es un lugar al que puedas entrar tan fácilmente como a tu propia casa."
+        "pt-BR": "[Verkhasel]\nDesculpe, mas você pode esperar mais um pouco?\nComo é um local com segurança especial, não dá pra entrar tão à vontade como se fosse na minha própria casa.",
+        "es-ES": "[Verkhasel]\nLo siento, ¿podrías esperar un momento?\nComo se trata de un lugar con seguridad especial, no es un lugar al que puedas entrar tan fácilmente como a tu propia casa."
     },
     "+4JwDA": {
-        "ko-KR": "[베르카셀]\n조금만 더 기다리면 어둠의 정령이 좋아할 만한 환경이 만들어질 거다.",
-        "en-US": "[Bercassell]\nIf you wait just a little longer, an environment the dark elemental will like will be created.",
-        "pt-BR": "[Vercasel]\nSe esperares só mais um pouco, vai se criar um ambiente que o espírito das trevas vai adorar.",
-        "es-ES": "[Verkaxel]\nSi esperas un poco más, se creará un ambiente que le gustará al espíritu de la oscuridad."
+        "en-US": "[Verkhasel]\nIf you wait just a little longer, an environment the dark elemental will like will be created.",
+        "pt-BR": "[Verkhasel]\nSe vocÊ esperar só mais um pouco, o ambiente ficará do jeito que o Elemental Sombrio gosta.",
+        "es-ES": "[Verkhasel]\nSi esperas un poco más, se creará un ambiente que le gustará al espíritu de la oscuridad."
     },
     "/IJwDA": {
-        "ko-KR": "^4D4DFF메모리얼을 통해 진행되는 이벤트입니다.\n파티를 결성 한 뒤 다시 시도해 주십시오.^000000",
         "en-US": "^4D4DFFThis is a Memorial event.\nPlease form a party first.^000000",
         "pt-BR": "^4D4DFFEste é um evento realizado no Memorial.\nForme um grupo e tente novamente.^000000",
         "es-ES": "^4D4DFFEste es un evento que se lleva a cabo a través de Memorial.\nForma un grupo y vuelve a intentarlo.^000000"
     },
     "/YJwDA": {
-        "ko-KR": "^4D4DFF메모리얼로 진행되는 이벤트입니다.\n파티를 결성 한 뒤 다시 시도해 주십시오.^000000\n^4D4DFF파티는 /결성 파티명 ^000000 으로 만들 수 있습니다.",
-        "en-US": "^4D4DFFThis is a Memorial event.\nPlease form a party first.^000000\n^4D4DFFYou can form a party by typing /organize [party name]^000000.",
-        "pt-BR": "^4D4DFFEste é um evento que ocorre no Memorial.\nForme um grupo e tente novamente.^000000\n^4D4DFFVocê pode formar um grupo com o comando /formar nome do grupo ^000000.",
+        "en-US": "^4D4DFFThis is a Memorial event.\nPlease form a party first.^000000",
+        "pt-BR": "^4D4DFFEste é um evento que ocorre no Memorial.\nForme um grupo e tente novamente.^000000",
         "es-ES": "^4D4DFFEste es un evento que se lleva a cabo a través del Memorial.\nForma un grupo y vuelve a intentarlo.^000000\n^4D4DFFPuedes formar un grupo con el comando /formar nombre_del_grupo ^000000."
     },
     "/oJwDA": {
-        "ko-KR": "[베르카셀]\n쉐도우 크로스가 되기 위한 준비를 하던 중에 사라져서 깜짝 놀랐다.\n힘은 이미 깃든 것 같군.",
-        "en-US": "[베르카셀]\nI was startled when you vanished while preparing to become a Shadow Cross.\nIt seems the power has already taken root.",
-        "pt-BR": "[Vercasel]\nFiquei surpreso quando você desapareceu enquanto se preparava para se tornar um Shadow Cross.\nParece que o poder já se instalou.",
-        "es-ES": "[Vercasel]\nMe di un susto cuando desapareciste mientras te preparabas para convertirte en Shadow Cross.\nParece que el poder ya se ha imbuido en ti."
+        "en-US": "[Verkhasel]\nI was startled when you vanished while preparing to become a Shadow Cross.\nIt seems the power has already taken root.",
+        "pt-BR": "[Verkhasel]\nFiquei surpreso quando você desapareceu enquanto se preparava para se tornar um Executor.\nParece que o poder já se estabeleceu.",
+        "es-ES": "[Verkhasel]\nMe di un susto cuando desapareciste mientras te preparabas para convertirte en Ejecutor.\nParece que el poder ya se ha imbuido en ti."
     },
     "/4JwDA": {
-        "ko-KR": "[베르카셀]\n괜찮다면 탈 것에서 내려주지 않겠나.\n쉐도우크로스가 되기 위한 마지막 절차가 남았으니까.",
         "en-US": "[Verkhasel]\nIf you don't mind, would you mind dismounting?\nThere's one last step left to become a Shadowcross.",
-        "pt-BR": "[Vercasel]\nSe não te importares, desce da montaria, por favor.\nAinda falta o último procedimento para te tornares um Shadow Cross.",
-        "es-ES": "[Vercasel]\nSi te parece bien, ¿te bajarías de la montura?\nPorque queda el último paso para convertirte en Shadow Cross."
+        "pt-BR": "[Verkhasel]\nSe não se importa, poderia descer da montaria?\nAinda falta um último passo para se tornar um Executor.",
+        "es-ES": "[Verkhasel]\nSi te parece bien, ¿te bajarías de la montura?\nPorque queda el último paso para convertirte en Ejecutor."
     },
     "AINwDA": {
-        "ko-KR": "[베르카셀]\n지금부터 넌 쉐도우 크로스다.\n앞으로도 신념을 지키며 나아가길 바란다.",
         "en-US": "[Verkhasel]\nFrom this moment on, you are a Shadow Cross.\nI hope you continue to move forward while holding onto your convictions.",
-        "pt-BR": "[Vercasel]\nA partir de agora, você é um Shadow Cross.\nEspero que continue seguindo em frente, mantendo suas convicções.",
-        "es-ES": "[Vercasel]\nA partir de ahora, eres un Shadow Cross.\nEspero que sigas adelante manteniendo tus convicciones."
+        "pt-BR": "[Verkhasel]\nA partir de agora, você é um Executor.\nEspero que continue seguindo em frente, mantendo suas convicções.",
+        "es-ES": "[Verkhasel]\nA partir de ahora, eres un Ejecutor.\nEspero que sigas adelante manteniendo tus convicciones."
     },
     "AYNwDA": {
-        "ko-KR": "[베르카셀]\n쉐도우 크로스가 된 걸 축하한다.",
-        "en-US": "[Bercassell]\nCongratulations on becoming Shadow Cross.",
-        "pt-BR": "[Vercasel]\nParabéns por te tornares um Shadow Cross.",
-        "es-ES": "[Vercasel]\nFelicidades por convertirte en Shadow Cross."
+        "en-US": "[Verkhasel]\nCongratulations on becoming Shadow Cross.",
+        "pt-BR": "[Verkhasel]\nParabéns por se tornar um Executor.",
+        "es-ES": "[Verkhasel]\nFelicidades por convertirte en Ejecutor."
     },
     "AoNwDA": {
-        "ko-KR": "[베르카셀]\n잠깐, 아직 스킬포인트가 남아있군.\n새로운 힘을 받아들이기 전에 소모하는 게 좋을 거다.\n스킬포인트를 모두 사용한 다음에 다시 말을 걸어라.",
-        "en-US": "[Vercasel]\nHold on, you still have skill points left.\nYou should use them up before accepting new power.\nUse all your skill points, then talk to me again.",
-        "pt-BR": "[Vercasel]\nEspere um pouco, ainda tem pontos de habilidade sobrando.\nÉ melhor gastá-los antes de receber o novo poder.\nUse todos os pontos de habilidade e depois fale comigo novamente.",
-        "es-ES": "[Vercasel]\nUn momento, aún te quedan puntos de habilidad.\nSerá mejor que los gastes antes de aceptar el nuevo poder.\nUsa todos los puntos de habilidad y luego vuelve a hablarme."
+        "en-US": "[Verkhasel]\nHold on, you still have skill points left.\nYou should use them up before accepting new power.\nUse all your skill points, then talk to me again.",
+        "pt-BR": "[Verkhasel]\nEspere um pouco, ainda há pontos de habilidade sobrando.\nÉ melhor gastá-los antes de receber o novo poder.\nUse todos os pontos de habilidade e depois fale comigo novamente.",
+        "es-ES": "[Verkhasel]\nUn momento, aún te quedan puntos de habilidad.\nSerá mejor que los gastes antes de aceptar el nuevo poder.\nUsa todos los puntos de habilidad y luego vuelve a hablarme."
     },
     "A4NwDA": {
-        "ko-KR": "[베르카셀]\n앞으로도 네 활약을 지켜보지.",
         "en-US": "[Verkhasel]\nI'll be watching your progress from now on.",
-        "pt-BR": "[Vercasel]\nVou acompanhar suas façanhas daqui pra frente.",
-        "es-ES": "[Vercasel]\nSeguiré de cerca tus hazañas en el futuro."
+        "pt-BR": "[Verkhasel]\nEstarei de olho no seu progresso daqui para frente.",
+        "es-ES": "[Verkhasel]\nSeguiré de cerca tus hazañas en el futuro."
     },
     "BINwDA": {
-        "ko-KR": "[베르카셀]\n이 앞은 출입을 제한하고 있다.",
         "en-US": "[Verkhasel]\nAccess is restricted beyond this point.",
-        "pt-BR": "[Vercasel]\nO acesso a esta área está restrito.",
-        "es-ES": "[Vercasel]\nEl acceso a esta zona está restringido."
+        "pt-BR": "[Verkhasel]\nO acesso a esta área é restrito.",
+        "es-ES": "[Verkhasel]\nEl acceso a esta zona está restringido."
     }
 }

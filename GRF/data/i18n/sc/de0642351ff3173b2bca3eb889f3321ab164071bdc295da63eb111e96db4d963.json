@@ -1,414 +1,345 @@
 {
     "4A/MDA": {
-        "ko-KR": "S",
         "en-US": "S",
         "pt-BR": "S",
         "es-ES": "S"
     },
     "4Q/MDA": {
-        "ko-KR": "히멜메즈의 환영",
         "en-US": "Illusion of Himmelmez",
         "pt-BR": "Miragem de Himmelmez",
         "es-ES": "Ilusión de Himmelmez"
     },
     "4g/MDA": {
-        "ko-KR": "암다라이스의 환영",
         "en-US": "Phantom of Amdarais",
         "pt-BR": "Miragem de Amdarais",
         "es-ES": "Fantasma de Amdarais"
     },
     "4w/MDA": {
-        "ko-KR": "[시간의 관리자]\n240321-관리자권한 재추가\n파티원 - {0}\n현재인원 - {1}\n현재 보스 - {2}",
         "en-US": "[Time Administrator]\n240321-Administrator Permission Re-added\nParty Members - {0}\nCurrent Players - {1}\nCurrent Boss - {2}",
         "pt-BR": "[Administrador do Tempo]\n240321-Reconceder autoridade de administrador\nMembros do grupo - {0}\nJogadores atuais - {1}\nChefe atual - {2}",
         "es-ES": "[Administrador del Tiempo]\n240321 - Reagregar permisos de administrador\nMiembros del grupo - {0}\nMiembros actuales - {1}\nJefe actual - {2}"
     },
     "5A/MDA": {
-        "ko-KR": "보스룸이동",
         "en-US": "Move to Boss Room",
         "pt-BR": "Mover para Sala do Chefe",
         "es-ES": "Mover a la sala del jefe"
     },
     "5Q/MDA": {
-        "ko-KR": "보스선택",
         "en-US": "Select Boss",
         "pt-BR": "Selecionar Chefe",
         "es-ES": "Seleccionar jefe"
     },
     "5g/MDA": {
-        "ko-KR": "난이도",
         "en-US": "Difficulty",
         "pt-BR": "Dificuldade",
         "es-ES": "Dificultad"
     },
     "5w/MDA": {
-        "ko-KR": "보스초기화",
         "en-US": "Reset Boss",
         "pt-BR": "Resetar Chefe",
         "es-ES": "Reiniciar jefe"
     },
     "6A/MDA": {
-        "ko-KR": "도전횟수 변경",
         "en-US": "Change Attempt Count",
         "pt-BR": "Alterar Tentativas",
         "es-ES": "Cambiar número de desafíos"
     },
     "6Q/MDA": {
-        "ko-KR": "회복/하급광폭화 설정",
         "en-US": "Recovery/Minor Berserk Settings",
         "pt-BR": "Configurar Recuperação/Fúria Menor",
         "es-ES": "Configurar curación / Enfurecimiento menor"
     },
     "6g/MDA": {
-        "ko-KR": "미터기ON/OFF",
         "en-US": "Meter ON/OFF",
         "pt-BR": "Medidor ON/OFF",
         "es-ES": "Medidor ON/OFF"
     },
     "6w/MDA": {
-        "ko-KR": "미션 다시받기",
         "en-US": "Receive Mission Again",
         "pt-BR": "Receber Missão Novamente",
         "es-ES": "Aceptar misión nuevamente"
     },
     "7A/MDA": {
-        "ko-KR": "보물상자 켜기",
         "en-US": "Enable Treasure Chest",
         "pt-BR": "Ativar Baú do Tesouro",
         "es-ES": "Activar cofre del tesoro"
     },
     "7Q/MDA": {
-        "ko-KR": "오스카보상 ON",
         "en-US": "Oscar Reward ON",
         "pt-BR": "Recompensa de Oscar ON",
         "es-ES": "Recompensa de Oscar ON"
     },
     "7g/MDA": {
-        "ko-KR": "보스체력1",
         "en-US": "Boss HP 1",
         "pt-BR": "HP do Chefe 1",
         "es-ES": "Vida del jefe 1"
     },
     "7w/MDA": {
-        "ko-KR": "[시간의 관리자]\n히멜메즈 - 2\n암다 - 1",
         "en-US": "[Time Administrator]\nHimmelmez - 2\nAmda - 1",
         "pt-BR": "[Administrador do Tempo]\nHimmelmez - 2\nAmdarais - 1",
         "es-ES": "[Administrador del Tiempo]\nHimmelmez - 2\nAmda - 1"
     },
     "8A/MDA": {
-        "ko-KR": "[시간의 관리자]\n0~10 난이도\n0 일경우 보스 로직 OFF",
         "en-US": "[Time Administrator]\nDifficulty 0~10\nIf 0, Boss Logic OFF",
         "pt-BR": "[Administrador do Tempo]\nDificuldade 0~10\nSe for 0, lógica do chefe OFF",
         "es-ES": "[Administrador del Tiempo]\nDificultad 0~10\nSi es 0, la lógica del jefe OFF"
     },
     "8Q/MDA": {
-        "ko-KR": "[도전관리자]\n현재 이 던전의 완료횟수는 {0}입니다. 변경할 완료횟수를 입력해주세요",
         "en-US": "[Challenge Administrator]\nThe current completion count of this dungeon is {0}. Please enter the completion count to change to.",
         "pt-BR": "[Administrador de Desafios]\nO número atual de conclusões desta instância é {0}. Por favor, insira o novo número de conclusões.",
         "es-ES": "[Administrador de desafíos]\nEl número actual de finalizaciones de esta mazmorra es {0}. Introduce el nuevo número de finalizaciones."
     },
     "8g/MDA": {
-        "ko-KR": "[시간의 관리자]\n0 회복/하급 광폭화 ON\n1 하급 광폭화 OFF\n2 회복/하급 광폭화 OFF\n현재상태 - {0}",
         "en-US": "[Time Administrator]\n0 Recovery/Minor Berserk ON\n1 Minor Berserk OFF\n2 Recovery/Minor Berserk OFF\nCurrent Status - {0}",
         "pt-BR": "[Administrador do Tempo]\n0 Recuperação/Fúria Menor ON\n1 Fúria Menor OFF\n2 Recuperação/Fúria Menor OFF\nEstado atual - {0}",
         "es-ES": "[Administrador del Tiempo]\n0 Curación / Enfurecimiento menor ON\n1 Enfurecimiento menor OFF\n2 Curación / Enfurecimiento menor OFF\nEstado actual - {0}"
     },
     "8w/MDA": {
-        "ko-KR": "[시간의 관리자]\n0 미터기 OFF(기본)\n1 미터기 ON(타 방송 불가)",
         "en-US": "[Time Administrator]\n0 Meter OFF (Default)\n1 Meter ON (No Other Broadcasts)",
         "pt-BR": "[Administrador do Tempo]\n0 Medidor OFF(Padrão)\n1 Medidor ON(Não permitido em outras transmissões)",
         "es-ES": "[Administrador del Tiempo]\n0 Medidor OFF (predeterminado)\n1 Medidor ON (no permitido para otras retransmisiones)"
     },
     "9A/MDA": {
-        "ko-KR": "오스카",
         "en-US": "Oscar",
         "pt-BR": "Oscar",
         "es-ES": "Oscar"
     },
     "9Q/MDA": {
-        "ko-KR": "오염도 2 레벨 부터는 단계마다 환영의 회복력이 급격히 높아져요",
         "en-US": "From Contamination Level 2 onward, the illusion's recovery will increase drastically with each stage.",
         "pt-BR": "A partir do nível de contaminação 2, a regeneração dos monstros aumenta drasticamente a cada etapa.",
         "es-ES": "A partir del nivel 2 de contaminación, la recuperación de la ilusión aumenta drásticamente en cada etapa."
     },
     "9g/MDA": {
-        "ko-KR": "또 오염도 2 레벨 부터 환영의 손길로 당신들을 끌어당길테니 조심하세요.",
         "en-US": "Also from Contamination Level 2, the illusion will pull you in with the Illusion's Grasp, so be careful.",
         "pt-BR": "Também a partir do nível 2, a miragem tem poder de usar 'Puxão'.",
         "es-ES": "Además, desde el nivel 2 de contaminación, la ilusión intentará atraerlos con el Toque de la ilusión, así que tengan cuidado."
     },
     "9w/MDA": {
-        "ko-KR": "오염도 3 레벨부터는 환영에게 다가서는 사신을 조심해요. 환영과 사신이 만나면 정말 위험해지니까...",
         "en-US": "From Contamination Level 3, beware of the Reaper approaching the illusion. If the illusion and the Reaper meet, it will become truly dangerous...",
         "pt-BR": "A partir do nível de contaminação 3, se o Ceifeiro se aproximar da Miragem, seu ataque aumentará muito...",
         "es-ES": "Desde el nivel 3 de contaminación, tengan cuidado con la Parca que se acerca a la ilusión. Si la ilusión y la Parca se encuentran, será realmente peligroso..."
     },
     "+A/MDA": {
-        "ko-KR": "오염도 5 레벨 부턴 차원 유지시간의 제한이 있어요. 5분이 넘으면 환영의 공격력이 극대화 될거예요 조심하세요",
         "en-US": "From Contamination Level 5, the dimensional maintenance time will be limited. If it exceeds 5 minutes, the illusion's attack power will be maximized, so be careful.",
         "pt-BR": "A partir do nível de contaminação 5, se seu grupo passar de 5 minutos na batalha, o ataque da Miragem será maior.",
         "es-ES": "A partir del nivel 5 de contaminación, habrá un límite de tiempo para mantener la dimensión. Si pasan más de 5 minutos, el poder de ataque de la ilusión se maximizará. Tengan cuidado."
     },
     "+Q/MDA": {
-        "ko-KR": "오염도 9레벨의 차원 유지시간은 2분이예요. 그 이후로는 살아남는것이 거의 불가능할거예요. 조심하세요.",
         "en-US": "The dimensional maintenance time at Contamination Level 9 is 2 minutes. After that, survival will be nearly impossible. Be careful.",
         "pt-BR": "No nível de contaminação 9, se seu grupo passar de 2 minutos na batalha, sobreviver será quase impossível. Cuidado.",
         "es-ES": "El tiempo de mantenimiento de la dimensión en el nivel 9 de contaminación es de 2 minutos. Después de eso, sobrevivir será casi imposible. Tengan cuidado."
     },
     "+g/MDA": {
-        "ko-KR": "오염도 10레벨의 차원 유지시간은 1분이예요. 그 이후로는 살아남는것이 거의 불가능할거예요. 조심하세요.",
         "en-US": "The dimensional maintenance time at Contamination Level 10 is 1 minute. After that, survival will be nearly impossible. Be careful.",
         "pt-BR": "No nível de contaminação 10, se seu grupo passar de 1 minuto na batalha, sobreviver será quase impossível. Cuidado.",
         "es-ES": "El tiempo de mantenimiento de la dimensión en el nivel 10 de contaminación es de 1 minuto. Después de eso, sobrevivir será casi imposible. Tengan cuidado."
     },
     "+w/MDA": {
-        "ko-KR": "오염도 {0} 레벨이군요. 이전단계보다 환영의 모든 것이 더 강력하고 회복력도 좋으니 조심하세요.",
         "en-US": "This is Contamination Level {0}. Everything about the illusion is stronger than the previous stage, and its recovery is greater, so be careful.",
         "pt-BR": "Nível de contaminação {0}. Tudo nesse nível é mais forte do que o anterior, então tenham cuidado.",
         "es-ES": "Nivel de contaminación {0}. Todo en la ilusión es más fuerte que en la etapa anterior y su recuperación también es mayor, así que tengan cuidado."
     },
     "/A/MDA": {
-        "ko-KR": "파티장의 준비가 끝나는대로 전투가 시작될거예요. 조심하세요.",
         "en-US": "The battle will begin as soon as the party leader finishes preparing. Be careful.",
         "pt-BR": "A batalha começará à pedido do líder do grupo. Tenham cuidado.",
         "es-ES": "La batalla comenzará tan pronto como el líder del grupo esté listo. Prepárense."
     },
     "/Q/MDA": {
-        "ko-KR": "[오스카]\n이 앞에 흐릿하게 남아있는것이 이 차원에 남아있는 오염의 근원입니다.",
         "en-US": "[Oscar]\nWhat remains faintly ahead is the source of the contamination that still lingers in this dimension.",
         "pt-BR": "[Oscar]\nO que está à frente é a origem da contaminação que permanece nesta dimensão.",
         "es-ES": "[Oscar]\nLo que se ve tenuemente más adelante es la fuente de la contaminación que queda en esta dimensión."
     },
     "/g/MDA": {
-        "ko-KR": "[오스카]\n지금은 환영의 형태지만 제가 이 근원의 좌표를 정확히 재정의 한다면 당신의 눈앞에 나타날거예요.",
         "en-US": "[Oscar]\nIt is currently in the form of an illusion, but if I precisely redefine the coordinates of this source, it will appear before your eyes.",
         "pt-BR": "[Oscar]\nPor enquanto está na forma de uma miragem, mas se eu redefinir com precisão as coordenadas dessa origem, ela aparecerá diante dos seus olhos.",
         "es-ES": "[Oscar]\nAhora tiene la forma de una ilusión, pero si redefino con precisión las coordenadas de esta fuente, aparecerá ante tus ojos."
     },
     "/w/MDA": {
-        "ko-KR": "[오스카]\n부디 방심하지 않는게 좋을거예요. 차원 오염체의 힘은 상상을 초월하니까요.",
         "en-US": "[Oscar]\nPlease do not let your guard down. The power of the dimensional contaminant far exceeds imagination.",
         "pt-BR": "[Oscar]\nÉ melhor não baixar a guarda. O poder da entidade de contaminação dimensional está além da imaginação.",
         "es-ES": "[Oscar]\nSerá mejor que no bajen la guardia. El poder de la entidad contaminante dimensional supera cualquier imaginación."
     },
     "ABDMDA": {
-        "ko-KR": "[오스카]\n준비가 되셨다면 말해주세요.",
         "en-US": "[Oscar]\nIf you are ready, please tell me.",
         "pt-BR": "[Oscar]\nSe seu grupo estiver pronto, por favor me avise.",
         "es-ES": "[Oscar]\nCuando estén listos, háganmelo saber."
     },
     "ARDMDA": {
-        "ko-KR": "아직이다!",
         "en-US": "Not yet!",
         "pt-BR": "Ainda não!",
         "es-ES": "¡Aún no!"
     },
     "AhDMDA": {
-        "ko-KR": "시작합시다!",
         "en-US": "Let's begin!",
         "pt-BR": "Vamos começar!",
         "es-ES": "¡Comencemos!"
     },
     "AxDMDA": {
-        "ko-KR": "[오스카]\n시간이 그리 많지는 않아요. 빨리 준비를 마쳐주세요",
         "en-US": "[Oscar]\nThere is not much time. Please finish your preparations quickly.",
         "pt-BR": "[Oscar]\nNão temos muito tempo. Por favor terminem os preparativos rapidamente.",
         "es-ES": "[Oscar]\nNo tenemos mucho tiempo. Por favor, terminen de prepararse rápidamente."
     },
     "BBDMDA": {
-        "ko-KR": "사신과 접촉한 {0}의 파괴력이 상승하고 회복력이 하락하였습니다",
         "en-US": "The destructive power of {0}, which has made contact with the Reaper, has increased, and its recovery has decreased.",
         "pt-BR": "O Ceifeiro sorriu para a {0}, aumentando o ataque e reduzindo a regeneração.",
         "es-ES": "El poder destructivo de {0} ha aumentado y su recuperación ha disminuido tras entrar en contacto con la Parca."
     },
     "BRDMDA": {
-        "ko-KR": "오스카: 시간이 지났군요... {0}이 가진 공격력을 더 이상 저도 억제 할 수가 없어요. 미안해요",
         "en-US": "Oscar: Time has passed... I can no longer suppress the attack power possessed by {0}. I'm sorry.",
         "pt-BR": "Oscar: O tempo passou... a {0} está mais forte. Sinto muito.",
         "es-ES": "Oscar: El tiempo se ha agotado... Ya no puedo contener el poder de ataque que posee {0}. Lo siento."
     },
     "BhDMDA": {
-        "ko-KR": "(모두 내 앞으로 오라!)",
         "en-US": "(Come before me, all of you!)",
         "pt-BR": "Venham até mim!",
         "es-ES": "(¡Todos, vengan ante mí!)"
     },
     "BxDMDA": {
-        "ko-KR": "(내 앞에 와서 무릎 꿇어라.)",
         "en-US": "(Kneel before me.)",
         "pt-BR": "Ajoelhem-se diante de mim!",
         "es-ES": "(Arrodíllense ante mí.)"
     },
     "CBDMDA": {
-        "ko-KR": "(도망치려 하지 마라.)",
         "en-US": "(Do not try to run.)",
         "pt-BR": "Não tentem fugir.",
         "es-ES": "(No intenten escapar.)"
     },
     "CRDMDA": {
-        "ko-KR": "(어디에 숨더라도 내 손길을 피할 순 없다.)",
         "en-US": "(No matter where you hide, you cannot escape my grasp.)",
         "pt-BR": "Não importa onde estejam, não escaparão!",
         "es-ES": "(No importa dónde se escondan, no podrán evitar mi toque.)"
     },
     "ChDMDA": {
-        "ko-KR": "{0} : {1}",
         "en-US": "{0} : {1}",
         "pt-BR": "{0} : {1}",
         "es-ES": "{0} : {1}"
     },
     "CxDMDA": {
-        "ko-KR": "체력 {0} 사신중첩 {1} ATK - {2} ATK2 - {3}  유효 DPS {4}  회복 {5}",
         "en-US": "HP {0} Reaper Stacks {1} ATK - {2} ATK2 - {3}  Effective DPS {4}  Recovery {5}",
         "pt-BR": "HP {0} / Ceifeiro {1} / ATQ {2} ~ ATQ2 - {3} / DPS {4} / Regeneração {5}",
         "es-ES": "HP {0} Acumulación de Parca {1} ATK - {2} ATK2 - {3}  DPS efectivo {4}  Recuperación {5}"
     },
     "DBDMDA": {
-        "ko-KR": "오스카: 순간적으로 너무 강한 데미지를 받으면 차원경계가 불안정해져요. 이건 환영의 폭주를 유발하죠.",
         "en-US": "Oscar: If you take excessively strong damage at once, the dimensional boundary will become unstable. This will cause the illusion to rampage.",
         "pt-BR": "Oscar: Se a Miragem receber muito dano de uma só vez, ela enlouquecerá.",
         "es-ES": "Oscar: Si reciben un daño demasiado fuerte de forma repentina, la frontera dimensional se volverá inestable. Esto provocará el descontrol de la ilusión."
     },
     "DRDMDA": {
-        "ko-KR": "오스카: 차원좌표도 불안정해져서 여기저기로 흩어질 수도 있어요. 제가 어떻게든 해보죠.",
         "en-US": "Oscar: The dimensional coordinates may also become unstable and scatter you around. I will try to handle it somehow.",
         "pt-BR": "Oscar: Pode haver uma distorção e espalhar vocês por aí. Vou tentar evitar isso.",
         "es-ES": "Oscar: Las coordenadas dimensionales también se volverán inestables y podrían dispersarse por todas partes. Intentaré solucionarlo."
     },
     "DhDMDA": {
-        "ko-KR": "오스카: 불안정해진 환영을 안정화시킬 마법 성역을 만들었어요. 그곳으로 환영을 유인해요!",
         "en-US": "Oscar: I have created a magical sanctuary that will stabilize the unstable illusion. Lure the illusion there!",
         "pt-BR": "Oscar: Criei um círculo mágico para enfraquecer a miragem. Atraiam ela até lá!",
         "es-ES": "Oscar: He creado un santuario mágico que estabilizará la ilusión inestable. ¡Atraigan la ilusión hacia allí!"
     },
     "DxDMDA": {
-        "ko-KR": "차원의 경계를 이탈하여 환영이 불안정하게 폭주합니다.",
         "en-US": "The illusion becomes unstable and rampages after leaving the dimensional boundary.",
         "pt-BR": "A miragem sai do círculo e enlouquece.",
         "es-ES": "La ilusión se vuelve inestable y entra en un estado de descontrol al abandonar la frontera dimensional."
     },
     "EBDMDA": {
-        "ko-KR": "30초가 모두 끝난 이후에도 원래의 자리를 찾아가지 않을경우 차원이 닫히고 모든 전투가 초기화됩니다.",
         "en-US": "If it does not return to its original position after the full 30 seconds, the dimension will close and all combat will be reset.",
         "pt-BR": "Se a miragem não voltar para o centro em 30 segundos, a batalha será reiniciada.",
         "es-ES": "Si no regresa a su posición original después de 30 segundos, la dimensión se cerrará y todo el combate se reiniciará."
     },
     "ERDMDA": {
-        "ko-KR": "전투 초기화까지 얼마 남지않았습니다. 최초 전투지점으로 돌아가십시오.",
         "en-US": "Not much time remains until the combat reset. Return to the initial battle location.",
         "pt-BR": "Falta pouco para resetar da batalha. Retornem ao centro!!",
         "es-ES": "Queda poco tiempo antes del reinicio del combate. Regresen al punto inicial de la batalla."
     },
     "EhDMDA": {
-        "ko-KR": "전투가 모두 초기화 되며 처음부터 시작하게됩니다.",
         "en-US": "All combat will be reset and the battle will start from the beginning.",
         "pt-BR": "A batalha recomeçará. Todo o HP reduzido será restaurado.",
         "es-ES": "El combate se reiniciará completamente y comenzará desde el principio."
     },
     "ExDMDA": {
-        "ko-KR": "보스와의 전투가 초기화됩니다.",
         "en-US": "The battle with the boss will be reset.",
         "pt-BR": "A batalha contra a miragem será reiniciada.",
         "es-ES": "El combate contra el jefe se reiniciará."
     },
     "FBDMDA": {
-        "ko-KR": "오스카: 등록된 {0} 명의 여행자 중 {1} 명은 어디로 사라진거죠? 환영이 폭주중이예요!",
         "en-US": "Oscar: Of the {0} registered travelers, where have {1} gone? The illusion is rampaging!",
         "pt-BR": "Oscar: Eu registrei um grupo de {0}! Tá faltando {1}! A miragem enlouqueceu!",
         "es-ES": "Oscar: De los {0} viajeros registrados, ¿dónde han desaparecido {1}? ¡La ilusión está fuera de control!"
     },
     "FRDMDA": {
-        "ko-KR": "오스카: 등록된 {0} 명의 여행자에 불청객 {1} 명이 끼어들었군요. 환영이 불안정해졌어요!",
         "en-US": "Oscar: Among the {0} registered travelers, {1} uninvited guests have interfered. The illusion has become unstable!",
         "pt-BR": "Oscar: Eu registrei um grupo de {0}! Tem {1} a mais! A miragem ficou invencível!",
         "es-ES": "Oscar: Entre los {0} viajeros registrados, se han infiltrado {1} intrusos. ¡La ilusión se ha vuelto inestable!"
     },
     "FhDMDA": {
-        "ko-KR": "오스카: 죽음의 그림자가 놈을 광폭하게 만들거예요. 어서 쓰러진 동료를 일으켜 세우세요.",
         "en-US": "Oscar: The shadow of death will drive it into a frenzy. Quickly revive your fallen companions.",
         "pt-BR": "Oscar: Ressuscitem seus companheiros! Quanta incompetência! Tô ficando bravo!",
         "es-ES": "Oscar: La sombra de la muerte lo hará entrar en frenesí. ¡Levanten rápidamente a sus compañeros caídos!"
     },
     "FxDMDA": {
-        "ko-KR": "#death{0}",
         "en-US": "#death{0}",
         "pt-BR": "#death{0}",
         "es-ES": "#death{0}"
     },
     "GBDMDA": {
-        "ko-KR": "#sanc",
         "en-US": "#sanc",
         "pt-BR": "#sanc",
         "es-ES": "#sanc"
     },
     "GRDMDA": {
-        "ko-KR": "오스카: 짜증나게 만드는군요, 대체 왜 이걸 못하죠??",
         "en-US": "Oscar: This is getting irritating, why can't you do this??",
         "pt-BR": "Oscar: Que ódio, por que vocês não conseguem fazer isso??",
         "es-ES": "Oscar: Esto es realmente irritante. ¿Por qué no pueden hacerlo?"
     },
     "GhDMDA": {
-        "ko-KR": "오스카: 환영을 안정시킬 생각이 없는건가요,성역은 장식이 아니예요.",
         "en-US": "Oscar: Do you have no intention of stabilizing the illusion? The sanctuary is not decoration.",
         "pt-BR": "Oscar: Vocês não querem derrotar a miragem? O círculo mágico não é decoração.",
         "es-ES": "Oscar: ¿No tienen intención de estabilizar la ilusión? El santuario no es un adorno."
     },
     "GxDMDA": {
-        "ko-KR": "오스카: 당신은 정말 둔하군요.",
         "en-US": "Oscar: You are truly slow.",
         "pt-BR": "Oscar: Vocês são muito lerdos.",
         "es-ES": "Oscar: Realmente eres lento."
     },
     "HBDMDA": {
-        "ko-KR": "오스카: 성역이 당신한테서 그렇게 멀리 있나요?",
         "en-US": "Oscar: Is the sanctuary really that far away from you?",
         "pt-BR": "Oscar: O círculo está tão difícil de enxergar?",
         "es-ES": "Oscar: ¿Está el santuario tan lejos de ti?"
     },
     "HRDMDA": {
-        "ko-KR": "오스카: 레티시아가 이곳을 감독하지 않는걸 감사하세요.",
-        "en-US": "Oscar: Be grateful that Leticia is not supervising this place.",
+        "en-US": "Oscar: Be grateful that Letizia is not supervising this place.",
         "pt-BR": "Oscar: Ainda bem que a Letícia não está vendo essa palhaçada.",
         "es-ES": "Oscar: Agradece que Leticia no esté supervisando este lugar."
     },
     "HhDMDA": {
-        "ko-KR": "오스카: 왜 움직이지 않지? 살고싶지 않은건가?",
         "en-US": "Oscar: Why aren't you moving? Do you not wish to live?",
         "pt-BR": "Oscar: Por que não se movem? Não quer viver?",
         "es-ES": "Oscar: ¿Por qué no te mueves? ¿No quieres vivir?"
     },
     "HxDMDA": {
-        "ko-KR": "오스카: 아직 성공하지 못한건가요? 마법 성역을 다시 그릴테니 시도해봐요!",
         "en-US": "Oscar: Have you still not succeeded? I will redraw the magical sanctuary, so try again!",
         "pt-BR": "Oscar: Ainda não conseguiram? Vou desenhar o círculo mágico novamente, tentem de novo!",
         "es-ES": "Oscar: ¿Aún no lo han logrado? Dibujaré de nuevo el santuario mágico, inténtenlo otra vez."
     },
     "IBDMDA": {
-        "ko-KR": "오스카: 성역으로 환영을 유인하세요.",
         "en-US": "Oscar: Lure the illusion into the sanctuary.",
         "pt-BR": "Oscar: Atraiam a miragem para o círculo.",
         "es-ES": "Oscar: Atraigan la ilusión hacia el santuario."
     },
     "IRDMDA": {
-        "ko-KR": "성스러운 수호물",
         "en-US": "Holy Relic",
         "pt-BR": "Círculo Mágico",
         "es-ES": "Reliquia sagrada protectora"
     },
     "IhDMDA": {
-        "ko-KR": "환영의 저주",
         "en-US": "Curse of the Illusion",
         "pt-BR": "Maldição",
         "es-ES": "Maldición de la ilusión"
     },
     "IxDMDA": {
-        "ko-KR": "환영의 저주",
         "en-US": "Curse of the Illusion",
         "pt-BR": "Maldição",
         "es-ES": "Maldición de la ilusión"
     },
     "JBDMDA": {
-        "ko-KR": "오스카: 저주를 피해서 성스러운 수호물 근처로 환영을 유인하세요.",
         "en-US": "Oscar: Avoid the curse and lure the illusion near the Holy Relic.",
         "pt-BR": "Oscar: Evitem a maldição e atraiam a miragem para perto do Círculo Mágico.",
         "es-ES": "Oscar: Evita la maldición y atrae a la ilusión cerca del resguardo sagrado."

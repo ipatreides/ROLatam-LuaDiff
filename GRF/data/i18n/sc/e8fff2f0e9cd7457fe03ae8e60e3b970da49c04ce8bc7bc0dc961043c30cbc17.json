@@ -1,0 +1,372 @@
+{
+    "YDMPDQ": {
+        "en-US": "Asad",
+        "pt-BR": "Asad",
+        "es-ES": "Asad"
+    },
+    "YTMPDQ": {
+        "en-US": "[Asad]\nOh? Adventurer.\nIs Gray Wolf Forest a bit too much for you?\nI cannot help but think it might be too reckless a challenge. Well, just be careful.",
+        "pt-BR": "[Asad]\nOra? Aventureiro.\nA Floresta do Lobo Cinzento não é um pouco arriscada?\nAcho que isso não é desafio imprudente demais? Bem, tome cuidado.",
+        "es-ES": "[Asad]\n¿Eh? Trotamundos.\n¿No le resultará un poco duro el Bosque del Lobo Gris?\nMe parece un desafío demasiado temerario. Bueno, tenga cuidado."
+    },
+    "YjMPDQ": {
+        "en-US": "[Asad]\nYou are a face I have not seen around lately.\nOnce you get somewhat used to the village, come find me.\nI will offer you a few conveniences here and there.",
+        "pt-BR": "[Asad]\nFaz tempo que não vejo um rosto novo por aqui.\nQuando se acostumar um pouco com a vila, venha me procurar.\nPosso te dar uma ajudinha com várias coisas.",
+        "es-ES": "[Asad]\nSu cara no me suena de estos días.\nCuando ya se haya acostumbrado un poco al pueblo, venga a verme.\nLe echaré una mano con algunas cosillas."
+    },
+    "YzMPDQ": {
+        "en-US": "[Asad]\nBut even that requires being ^4D4DFFat least fit to attend the Grand Council^000000.\nIt is not a kindness I extend to just anyone.",
+        "pt-BR": "[Asad]\nMas isso também só vale quando já estiver ^4D4DFFem nível para participar do Grande Conselho^000000.\nNão é uma gentileza oferecida a qualquer um.",
+        "es-ES": "[Asad]\nPero para eso, al menos tiene que ^4D4DFFhaber llegado al punto de asistir al Gran Consejo^000000.\nNo es una amabilidad que tenga con cualquiera."
+    },
+    "ZDMPDQ": {
+        "en-US": "[Asad]\nIf you look around carefully, you will find places here and there that need an extra hand.\nIf you help out with some work, I suppose bonds will naturally form between people, right?\nDo your best.",
+        "pt-BR": "[Asad]\nSe observar bem, deve haver lugares precisando de ajuda aqui e ali.\nSe ajudar um pouco com o trabalho, vai acabar criando laços com as pessoas, não acha?\nEsforce-se.",
+        "es-ES": "[Asad]\nSi mira bien, verá que por aquí y por allá hay sitios donde hace falta ayuda.\nSi va echando una mano en los trabajos, supongo que irá estrechando lazos con la gente, ¿no?\nEsfuércese."
+    },
+    "ZTMPDQ": {
+        "en-US": "[Asad]\nWelcome.\nWould you like to sort out your belongings?\nOr I also run a shop, if you would like to take a look at some goods?",
+        "pt-BR": "[Asad]\nBoas-vindas.\nQuer organizar sua bagagem?\nOu quer dar uma olhada nos produtos? Também estou negociando algumas coisas.",
+        "es-ES": "[Asad]\n¿Quiere ordenar su equipaje?\nO, ya que también vendo cosas, ¿quiere echar un vistazo a la mercancía?"
+    },
+    "ZjMPDQ": {
+        "en-US": "Use the storage.",
+        "pt-BR": "Usar o armazém.",
+        "es-ES": "Usar el almacén."
+    },
+    "ZzMPDQ": {
+        "en-US": "Use the shop.",
+        "pt-BR": "Usar a loja.",
+        "es-ES": "Usar la tienda."
+    },
+    "aDMPDQ": {
+        "en-US": "[Asad]\nThe storage fee is 200z.\nWhich storage would you like me to open?",
+        "pt-BR": "[Asad]\nA taxa de uso do armazém é de 200z.\nQual armazém devo abrir para você?",
+        "es-ES": "[Asad]\nLa tarifa del almacén es de 200z.\n¿Qué almacén quiere que le abra?"
+    },
+    "aTMPDQ": {
+        "en-US": "Storage 1",
+        "pt-BR": "Armazém 1",
+        "es-ES": "Almacén 1"
+    },
+    "ajMPDQ": {
+        "en-US": "Storage 2",
+        "pt-BR": "Armazém 2",
+        "es-ES": "Almacén 2"
+    },
+    "azMPDQ": {
+        "en-US": "Storage 3",
+        "pt-BR": "Armazém 3",
+        "es-ES": "Almacén 3"
+    },
+    "bDMPDQ": {
+        "en-US": "[Asad]\nHere, I will open the storage for you.\nMake good use of it.",
+        "pt-BR": "[Asad]\nPronto, vou abrir o armazém.\nUse-o bem.",
+        "es-ES": "[Asad]\nBien, le abriré el almacén.\nÚselo bien."
+    },
+    "bTMPDQ": {
+        "en-US": "Storage 1",
+        "pt-BR": "Armazém 1",
+        "es-ES": "Almacén 1"
+    },
+    "bjMPDQ": {
+        "en-US": "[Asad]\nSir, it seems you do not have 200z.\nIf you have a storage pass, I will accept that instead.\nBut you do not have that either?\nSorry, but it is not free.",
+        "pt-BR": "[Asad]\nSenhor, parece que você não tem 200z.\nSe tiver um cupom de uso do armazém, eu aceito também.\nMas parece que isso você também não tem.\nDesculpe, mas não é de graça.",
+        "es-ES": "[Asad]\nSeñor, parece que no tiene 200z.\nSi al menos tuviera un cupón de uso del almacén, le aceptaría eso.\nPero tampoco tiene uno.\nPerdone, pero no es gratis."
+    },
+    "bzMPDQ": {
+        "en-US": "Storage 2",
+        "pt-BR": "Armazém 2",
+        "es-ES": "Almacén 2"
+    },
+    "cDMPDQ": {
+        "en-US": "Storage 3",
+        "pt-BR": "Armazém 3",
+        "es-ES": "Almacén 3"
+    },
+    "cTMPDQ": {
+        "en-US": "[Asad]\nAre you going to sell your belongings?\nOr are you going to buy what you need?",
+        "pt-BR": "[Asad]\nVai vender seus pertences?\nOu vai comprar o que precisa?",
+        "es-ES": "[Asad]\n¿Va a vender sus pertenencias?\n¿O va a comprar algo que necesite?"
+    },
+    "cjMPDQ": {
+        "en-US": "Buy goods.",
+        "pt-BR": "Comprar itens.",
+        "es-ES": "Comprar objetos."
+    },
+    "czMPDQ": {
+        "en-US": "Sell belongings.",
+        "pt-BR": "Vender pertences.",
+        "es-ES": "Vender pertenencias."
+    },
+    "dDMPDQ": {
+        "en-US": "[Asad]\nI do not know if I have everything you need.\nStill, I would be grateful either way.",
+        "pt-BR": "[Asad]\nNão sei se tenho tudo o que precisa.\nMas, seja o que for, eu agradeço.",
+        "es-ES": "[Asad]\nNo sé si tendré todo lo que necesita.\nPero, sea lo que sea, yo se lo agradezco."
+    },
+    "dTMPDQ": {
+        "en-US": "[Asad]\nGood. I will buy anything from you at a fair price.",
+        "pt-BR": "[Asad]\nCerto. Compro qualquer coisa por um preço razoável.",
+        "es-ES": "[Asad]\nBien. Le compraré lo que sea a un precio razonable."
+    },
+    "djMPDQ": {
+        "en-US": "[Asad]\nWelcome.\nWould you like to sort out your belongings?\nOr I also run a shop, if you would like to take a look at some goods?\nOr how about teleportation?",
+        "pt-BR": "[Asad]\nBoas-vindas.\nQuer organizar sua bagagem?\nOu quer dar uma olhada nos produtos? Também estou negociando algumas coisas.\nOu quem sabe um teleporte?",
+        "es-ES": "[Asad]\n¿Quiere ordenar su equipaje?\nO, ya que también vendo cosas, ¿quiere echar un vistazo a la mercancía?\n¿O prefiere una teletransportación?"
+    },
+    "dzMPDQ": {
+        "en-US": "Request teleportation.",
+        "pt-BR": "Solicitar teleporte.",
+        "es-ES": "Solicitar teletransportación."
+    },
+    "eDMPDQ": {
+        "en-US": "[Asad]\nIf it is somewhere nearby, I can teleport you.\nAs far as Rachel, perhaps?\nIn exchange, I will use 1 <ITEM>[Amethyst Fragment]<INFO>1000405</INFO></ITEM>.",
+        "pt-BR": "[Asad]\nSe for um lugar próximo, posso teleportar você.\nAté Rachel, por exemplo.\nMas vou usar 1 <ITEM>[Fragmento de Ametista]<INFO>1000405</INFO></ITEM>.",
+        "es-ES": "[Asad]\nSi es un lugar cercano, puedo teletransportarle.\n¿Hasta Rachel, quizá?\nPero usaré 1 <ITEM>[Fragmento de amatista]<INFO>1000405</INFO></ITEM>."
+    },
+    "eTMPDQ": {
+        "en-US": "Move to Rachel.",
+        "pt-BR": "Ir para Rachel.",
+        "es-ES": "Ir a Rachel."
+    },
+    "ejMPDQ": {
+        "en-US": "Cancel.",
+        "pt-BR": "Desistir.",
+        "es-ES": "Cancelar."
+    },
+    "ezMPDQ": {
+        "en-US": "[Asad]\nWhen you return, you can come back through ^4D4DFFDastan^000000.",
+        "pt-BR": "[Asad]\nPara voltar, basta vir através de ^4D4DFFDastan^000000.",
+        "es-ES": "[Asad]\nCuando quiera volver, puede hacerlo a través de ^4D4DFFDastan^000000."
+    },
+    "fDMPDQ": {
+        "en-US": "[Asad]\nI need 1 <ITEM>[Amethyst Fragment]<INFO>1000405</INFO></ITEM>.",
+        "pt-BR": "[Asad]\nÉ necessário ter 1 <ITEM>[Fragmento de Ametista]<INFO>1000405</INFO></ITEM>.",
+        "es-ES": "[Asad]\nNecesito 1 <ITEM>[Fragmento de Amatista]<INFO>1000405</INFO></ITEM>."
+    },
+    "fTMPDQ": {
+        "en-US": "[Asad]\nCome by when you need it.",
+        "pt-BR": "[Asad]\nVenha quando precisar.",
+        "es-ES": "[Asad]\nVenga cuando lo necesite."
+    },
+    "fjMPDQ": {
+        "en-US": "[Asad]\nYou trust me, right? I trust you too.\nWhat do you need?\nI brought in some refining boxes this time, are you interested?",
+        "pt-BR": "[Asad]\nVocê confia em mim, não é? Eu também confio em você.\nDo que precisa?\nEu trouxe caixas de refino desta vez, tem interesse?",
+        "es-ES": "[Asad]\nUsted confía en mí, ¿verdad? Yo también confío en usted.\n¿Qué necesita?\nHe traído cajas de refinamiento esta vez, ¿le interesan?"
+    },
+    "fzMPDQ": {
+        "en-US": "Exchange refining boxes with Amethyst Fragment",
+        "pt-BR": "Trocar caixa de refino por Fragmento de Ametista",
+        "es-ES": "Cambiar cajas de refinamiento por Fragmento de amatista"
+    },
+    "gDMPDQ": {
+        "en-US": "[Asad]\nYou mean the Amethyst Shop?\nYou can exchange them for refining boxes that can refine Gray Wolf equipment.",
+        "pt-BR": "[Asad]\nEstá falando da loja de ametista?\nÉ possível trocar por caixas de refino que podem refinar equipamentos do Lobo Cinzento.",
+        "es-ES": "[Asad]\n¿La tienda de amatistas?\nPuede cambiarlas por cajas de refinamiento con las que se puede refinar equipo de Lobo Gris."
+    },
+    "gTMPDQ": {
+        "en-US": "[Asad]\nWelcome, our wolf-like adventurer.\nWhat do you need?\nOh, right, I brought in some higher-performance refining boxes.\nWould you like to exchange them for amethysts?",
+        "pt-BR": "[Asad]\nBoas-vindas, lobo honorário.\nDo que precisa?\nAh, eu consegui caixas de refino com desempenho ainda melhor.\nQuer trocar por ametistas?",
+        "es-ES": "[Asad]\nBienvenido, lobo honorario.\n¿Qué necesita?\nAh, cierto, he traído unas cajas de refinamiento algo mejores.\n¿Quiere cambiarlas por amatistas?"
+    },
+    "gjMPDQ": {
+        "en-US": "Asad: Hello, outsider.",
+        "pt-BR": "Asad: Olá, visitante de outras terras.",
+        "es-ES": "Asad: Hola, trotamundos de otras tierras."
+    },
+    "gzMPDQ": {
+        "en-US": "Dastan",
+        "pt-BR": "Dastan",
+        "es-ES": "Dastan"
+    },
+    "hDMPDQ": {
+        "en-US": "[Dastan]\nShall I escort you to Gray Wolf Village?\nI need 1 <ITEM>[Amethyst Fragment]<INFO>1000405</INFO></ITEM>.",
+        "pt-BR": "[Dastan]\nDevo levar você até a Aldeia do Lobo Cinzento?\nÉ necessário 1 <ITEM>[Fragmento de Ametista]<INFO>1000405</INFO></ITEM>.",
+        "es-ES": "[Dastan]\n¿Quiere que le lleve a Pueblo del Lobo Gris?\nSe necesita 1 <ITEM>[Fragmento de Amatista]<INFO>1000405</INFO></ITEM>."
+    },
+    "hTMPDQ": {
+        "en-US": "Move to Gray Wolf Village.",
+        "pt-BR": "Ir para Aldeia do Lobo Cinzento.",
+        "es-ES": "Ir a Pueblo del Lobo Gris."
+    },
+    "hjMPDQ": {
+        "en-US": "[Dastan]\nAllow me to escort you.",
+        "pt-BR": "[Dastan]\nVou levá-lo.",
+        "es-ES": "[Dastan]\nPermítame llevarle."
+    },
+    "hzMPDQ": {
+        "en-US": "[Dastan]\nIf you do not have <ITEM>[Amethyst Fragment]<INFO>1000405</INFO></ITEM>, I cannot teleport you.",
+        "pt-BR": "[Dastan]\nSem 1 <ITEM>[Fragmento de Ametista]<INFO>1000405</INFO></ITEM>, não posso teleportá-lo.",
+        "es-ES": "[Dastan]\nSi no tiene <ITEM>[Fragmento de Amatista]<INFO>1000405</INFO></ITEM>, no puedo teletransportarle."
+    },
+    "iDMPDQ": {
+        "en-US": "[Dastan]\nVery well.\nIt is a secret from others that I am escorting you to Gray Wolf Village from here.\nIf it becomes known, it will only be troublesome for both sides.",
+        "pt-BR": "[Dastan]\nComo quiser.\nO fato de eu estar levando você até Aldeia do Lobo Cinzento daqui é segredo para os outros.\nMesmo que saibam, isso só traria problemas para ambos.",
+        "es-ES": "[Dastan]\nComo quiera.\nQue yo esté aquí llevando usted a Pueblo del Lobo Gris es un secreto para los demás.\nAunque se supiera, solo nos traería problemas a ambas partes."
+    },
+    "iTMPDQ": {
+        "en-US": "How do you do?",
+        "pt-BR": "Como vai você?",
+        "es-ES": "¿Cómo está?"
+    },
+    "ijMPDQ": {
+        "en-US": "Emet",
+        "pt-BR": "Emet",
+        "es-ES": "Emet"
+    },
+    "izMPDQ": {
+        "en-US": "[Emet]\nHello.\nDo you perhaps have any <ITEM>[Amethyst Fragment]<INFO>1000405</INFO></ITEM>?\nWe are collecting amethysts.",
+        "pt-BR": "[Emet]\nOlá.\nPor acaso você tem <ITEM>[Fragmento de Ametista]<INFO>1000405</INFO></ITEM>?\nNós estamos reunindo ametistas.",
+        "es-ES": "[Emet]\nHola.\n¿Tiene por casualidad <ITEM>[Fragmento de Amatista]<INFO>1000405</INFO></ITEM>?\nEs que nosotros estamos reuniendo amatistas."
+    },
+    "jDMPDQ": {
+        "en-US": "[Emet]\nI would like to offer ^4D4DFFcarefully crafted armor and enchants^000000 in exchange for Amethyst Fragment.\nWhat would you like to do?",
+        "pt-BR": "[Emet]\nQuero receber Fragmento de Ametista oferecendo ^4D4DFFarmaduras e encantamentos^000000 feitos com muito cuidado.\nO que deseja fazer?",
+        "es-ES": "[Emet]\nQueremos ofrecer ^4D4DFFarmaduras y encantamientos^000000 cuidadosamente elaborados a cambio de Fragmento de amatista.\n¿Qué desea hacer?"
+    },
+    "jTMPDQ": {
+        "en-US": "Exchange armor",
+        "pt-BR": "Troca de armadura",
+        "es-ES": "Intercambiar armadura"
+    },
+    "jjMPDQ": {
+        "en-US": "Gray Wolf Enchant",
+        "pt-BR": "Encantamento Lobo Cinzento",
+        "es-ES": "Encantamiento Lobo Gris"
+    },
+    "jzMPDQ": {
+        "en-US": "[Emet]\nAs promised, you have brought quite a lot of Amethyst Fragment, have you not?\nTake your time and have a look.",
+        "pt-BR": "[Emet]\nEntão você trouxe bastante Fragmento de Ametista, como prometido?\nFique à vontade para olhar com calma.",
+        "es-ES": "[Emet]\nAsí que ha traído muchas Fragmento de amatista, tal como prometió.\nMire con calma."
+    },
+    "kDMPDQ": {
+        "en-US": "[Emet]\nIt seems you do not have enough free space in your inventory.\nYou will need to organize your belongings first before proceeding.",
+        "pt-BR": "[Emet]\nNão parece haver espaço suficiente nos seus pertences.\nAntes de prosseguir, será necessário organizar primeiro seus itens.",
+        "es-ES": "[Emet]\nNo parece tener suficiente espacio libre en su inventario.\nPara trabajar, antes tendrá que ordenarlo."
+    },
+    "kTMPDQ": {
+        "en-US": "[Emet]\nYou have enough equipment and materials for the enchant, do you not?\nI mean the Amethyst Fragment.\nPlease choose the part you wish to enchant.",
+        "pt-BR": "[Emet]\nVocê tem equipamento para encantar e materiais suficientes, certo?\nQuero dizer, Fragmento de Ametista.\nEscolha a parte que deseja encantar.",
+        "es-ES": "[Emet]\nSupongo que tiene suficiente equipo y materiales para encantar, ¿verdad?\nMe refiero a Fragmento de amatista.\nSeleccione la parte que desea encantar."
+    },
+    "kjMPDQ": {
+        "en-US": "Armor",
+        "pt-BR": "Armadura",
+        "es-ES": "Armadura"
+    },
+    "kzMPDQ": {
+        "en-US": "Garment",
+        "pt-BR": "Capa",
+        "es-ES": "Capa"
+    },
+    "lDMPDQ": {
+        "en-US": "Shoes",
+        "pt-BR": "Sapatos",
+        "es-ES": "Zapatos"
+    },
+    "lTMPDQ": {
+        "en-US": "Right (R) Accessory",
+        "pt-BR": "Acessório direito",
+        "es-ES": "Accesorio derecho"
+    },
+    "ljMPDQ": {
+        "en-US": "Left (L) Accessory",
+        "pt-BR": "Acessório esquerdo",
+        "es-ES": "Accesorio izquierdo"
+    },
+    "lzMPDQ": {
+        "en-US": "[Emet]\nSo, you wish to enchant armor.",
+        "pt-BR": "[Emet]\nEntão você vai aplicar encantamento na armadura.",
+        "es-ES": "[Emet]\nAsí que va a encantar una armadura."
+    },
+    "mDMPDQ": {
+        "en-US": "[Emet]\nSo, you wish to enchant a garment.",
+        "pt-BR": "[Emet]\nEntão você vai aplicar encantamento na capa.",
+        "es-ES": "[Emet]\nAsí que va a encantar una capa."
+    },
+    "mTMPDQ": {
+        "en-US": "[Emet]\nSo, you wish to enchant shoes.",
+        "pt-BR": "[Emet]\nEntão você vai aplicar encantamento nos sapatos.",
+        "es-ES": "[Emet]\nAsí que va a encantar unos zapatos."
+    },
+    "mjMPDQ": {
+        "en-US": "[Emet]\nSo, you wish to enchant the right accessory.",
+        "pt-BR": "[Emet]\nEntão você vai aplicar encantamento no acessório direito.",
+        "es-ES": "[Emet]\nAsí que va a encantar el accesorio derecho."
+    },
+    "mzMPDQ": {
+        "en-US": "[Emet]\nSo, you wish to enchant the left accessory.",
+        "pt-BR": "[Emet]\nEntão você vai aplicar encantamento no acessório esquerdo.",
+        "es-ES": "[Emet]\nAsí que va a encantar el accesorio izquierdo."
+    },
+    "nDMPDQ": {
+        "en-US": "[Emet]\nHello.\nYou have been receiving <ITEM>[Amethyst Fragment]<INFO>1000405</INFO></ITEM> in the village lately, have you not?\nI have seen people exchanging them often, saying they are a symbol of good luck.",
+        "pt-BR": "[Emet]\nOlá.\nVi que recentemente na vila estão recebendo <ITEM>[Fragmento de Ametista]<INFO>1000405</INFO></ITEM>, não é?\nOuvi dizer que é símbolo de sorte, então vejo as pessoas trocando isso com frequência.",
+        "es-ES": "[Emet]\n¿Hola?\nÚltimamente en el pueblo están aceptando <ITEM>[Fragmento de Amatista]<INFO>1000405</INFO></ITEM>, ¿verdad?\nHe visto que la intercambian mucho, porque dicen que es un símbolo de buena suerte."
+    },
+    "nTMPDQ": {
+        "en-US": "[Emet]\nWe are collecting amethysts.\nIf you gather a large amount later, would you not bring them to me?",
+        "pt-BR": "[Emet]\nNós estamos reunindo ametistas.\nSe algum dia você juntar uma grande quantidade, não gostaria de me entregar?",
+        "es-ES": "[Emet]\nNosotros estamos reuniendo amatistas.\nSi más adelante reúne una gran cantidad, ¿no me las daría a mí?"
+    },
+    "njMPDQ": {
+        "en-US": "[Emet]\nOf course, I do not intend to simply take your Amethyst Fragment.\nI will exchange them for equipment and things that you need right now, Adventurer.",
+        "pt-BR": "[Emet]\nClaro, não estou pensando em receber Fragmento de Ametista de graça.\nEm troca, vou oferecer equipamentos ou coisas de que precise agora.",
+        "es-ES": "[Emet]\nPor supuesto, no pienso recibir Fragmento de Amatista sin dar nada a cambio.\nSe las cambiaré por equipo o cosas así que le hagan falta ahora mismo, trotamundos."
+    },
+    "nzMPDQ": {
+        "en-US": "[Emet]\nCome find me once you have gathered a large amount.\nYou understand, do you not?",
+        "pt-BR": "[Emet]\nQuando juntar bastante, venha me procurar.\nEntendeu?",
+        "es-ES": "[Emet]\nCuando reúna una buena cantidad, venga a verme.\n¿Entendido?"
+    },
+    "oDMPDQ": {
+        "en-US": "Bamdatt",
+        "pt-BR": "Bamdatt",
+        "es-ES": "Bamdatt"
+    },
+    "oTMPDQ": {
+        "en-US": "[Bamdatt]\nI hear Priest's villa changed in a very strange way?\nA place where an impure god has passed through....\nThe spoils obtained there must also be steeped in false faith.",
+        "pt-BR": "[Bamdatt]\nDisseram que a mansão sacerdotal ficou muito estranha, não é?\nUm lugar por onde passou um deus profano....\nOs despojos obtidos lá também devem estar impregnados de fé falsa.",
+        "es-ES": "[Bamdatt]\nDicen que la mansión sacerdotal cambió de una forma muy extraña, ¿no?\nUn lugar por el que pasó un dios impío....\nEl botín obtenido allí también debe de estar impregnado de una fe falsa."
+    },
+    "ojMPDQ": {
+        "en-US": "[Bamdatt]\nIf you wish, I can perform a purification ritual and turn them into weapons filled with true faith.\nI will even pour all the skill of my younger days into it.",
+        "pt-BR": "[Bamdatt]\nSe quiser, posso realizar um ritual de purificação e transformá-los em armas cheias de fé verdadeira.\nTambém colocarei em prática toda a minha técnica de outrora.",
+        "es-ES": "[Bamdatt]\nSi así lo desea, realizaré un rito de purificación y lo convertiré en un arma colmada de fe verdadera.\nY pondré en ello toda la técnica que atesoré en mis buenos tiempos."
+    },
+    "ozMPDQ": {
+        "en-US": "[Bamdatt]\nChoose between the ^4D4DFFnormal purification ritual, which lowers the refine level quite a lot,^000000 and the ^4D4DFFadvanced purification ritual, which does not lower the refine level nearly as much.^000000",
+        "pt-BR": "[Bamdatt]\nEscolha entre o ^4D4DFFritual de purificação comum, em que o nível de refino cai bastante,^000000 e o ^4D4DFFritual de purificação avançado, em que o nível de refino não cai tanto^000000.",
+        "es-ES": "[Bamdatt]\nElija entre ^4D4DFFun rito de purificación normal, que reduce bastante el refinamiento^000000, y ^4D4DFFun rito de purificación superior, que apenas reduce el refinamiento^000000."
+    },
+    "pDMPDQ": {
+        "en-US": "^4D4DFF +9 refined Adulter Fides weapon series can be reformed into the Vivatus Fides series.^000000\n^4D4DFFThe refine level lost differs depending on the purification ritual selected.^000000",
+        "pt-BR": "^4D4DFFÉ possível reformar a série de armas Adulter Fides refinadas em +9 para a série Vivatus Fides.^000000\n^4D4DFFO nível de refino que cairá varia conforme o ritual de purificação escolhido.^000000",
+        "es-ES": "^4D4DFFEs posible reformar las armas de la serie Adulter Fides refinadas a +9 en la serie Fides Vivatus.^000000\n^4D4DFFEl refinamiento que se pierde varía según el rito de purificación elegido.^000000"
+    },
+    "pTMPDQ": {
+        "en-US": "Normal purification ritual",
+        "pt-BR": "Ritual de purificação comum",
+        "es-ES": "Rito de purificación normal"
+    },
+    "pjMPDQ": {
+        "en-US": "Advanced purification ritual",
+        "pt-BR": "Ritual de purificação avançado",
+        "es-ES": "Rito de purificación superior"
+    },
+    "pzMPDQ": {
+        "en-US": "[Bamdatt]\nMay the gods' blessing be with you.",
+        "pt-BR": "[Bamdatt]\nQue a bênção divina esteja com você.",
+        "es-ES": "[Bamdatt]\nQue la bendición de los dioses le acompañe."
+    },
+    "qDMPDQ": {
+        "en-US": "[Bamdatt]\nHmm? For all appearances, I have skills no less than those researchers from foreign lands.",
+        "pt-BR": "[Bamdatt]\nHum? A despeito das aparências, eu tenho habilidades comparáveis àquele pesquisador estrangeiro.",
+        "es-ES": "[Bamdatt]\n¿Mmm? Aunque no lo parezca, tengo una habilidad que no tiene nada que envidiar a la de esos investigadores extranjeros."
+    },
+    "qTMPDQ": {
+        "en-US": "[Bamdatt]\nI was once a well-known technician.\nNow, it is hard even to find small work to pass the time, but....\nIf the day ever comes when you need my skills again, I will help you anytime.",
+        "pt-BR": "[Bamdatt]\nAntigamente eu era um técnico bastante reconhecido.\nAgora está difícil até encontrar um trabalhinho....\nMas, se algum dia precisar da minha técnica, eu ajudarei sempre que quiser.",
+        "es-ES": "[Bamdatt]\nAntaño fui un artesano muy reconocido.\nAhora me cuesta hasta encontrar algún trabajillo....\nPero si alguna vez vuelve a necesitar mi técnica, le ayudaré cuando quiera."
+    }
+}

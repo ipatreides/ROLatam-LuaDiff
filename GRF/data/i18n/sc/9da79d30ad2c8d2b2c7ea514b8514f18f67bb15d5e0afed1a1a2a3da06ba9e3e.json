@@ -1,960 +1,800 @@
 {
     "wKiFBw": {
-        "ko-KR": "어디선가 이야기 소리가 들린다.",
         "en-US": "I hear voices from somewhere.",
         "pt-BR": "Ouço vozes...",
         "es-ES": "Escucho voces de alguna parte."
     },
     "waiFBw": {
-        "ko-KR": "방금 한 이야기 확실한거겠지?",
         "en-US": "The story you just have told must be true, right?",
         "pt-BR": "A história que você me contou é verdade, né?",
         "es-ES": "Lo que acabas de contarme debe ser cierto, ¿no?"
     },
     "wqiFBw": {
-        "ko-KR": "물론입니다. 찾으시는 조건에 딱 맞을겁니다.",
         "en-US": "Sure. It will meet the condition you are looking for just right.",
         "pt-BR": "Claro que é.",
         "es-ES": "Por supuesto. Cumplirá con creces las condiciones que buscas."
     },
     "w6iFBw": {
-        "ko-KR": "흠...",
         "en-US": "Hum...",
         "pt-BR": "Hum...",
         "es-ES": "Mmm…"
     },
     "xKiFBw": {
-        "ko-KR": "그 또한 왕위 계승권을 가진 귀공자. 원하시는 정보는 충분히 얻어내실테지요.",
         "en-US": "He also is heir to the throne. You will get the information you want.",
         "pt-BR": "'Ele' também será escolhido como o herdeiro do trono. E você terá a resposta pela qual busca.",
         "es-ES": "Además, es un heredero al trono. Tendrás la información que deseas."
     },
     "xaiFBw": {
-        "ko-KR": "준비는 착실히 되어있나? 그를 의심없이 이 곳으로 불러내야해.",
         "en-US": "There must be no mistake in the arrangement. He must be called here without doubt.",
         "pt-BR": "Esse plano não pode ter erro nenhum. Sem dúvida alguma, mais cedo ou mais tarde ele estará aqui.",
         "es-ES": "El acuerdo debe estar exento de errores. Sin duda deben haberlo convocado aquí."
     },
     "xqiFBw": {
-        "ko-KR": "물론 되어있습니다만... 자세한 이야기는 따로 해드리겠습니다.",
         "en-US": "It has all been prepared... However, let me tell you the details later.",
         "pt-BR": "Está tudo nos conformes... No entanto, eu o darei os detalhes mais tarde.",
         "es-ES": "Todo está preparado… No obstante, te diré los detalles luego."
     },
     "x6iFBw": {
-        "ko-KR": "슬슬 연회에 참석하셔야지요.",
         "en-US": "It is the time for you to join the banquet.",
         "pt-BR": "Por ora, você deve se dirigir ao banquete.",
         "es-ES": "Llegó el momento de unirte al banquete."
     },
     "yKiFBw": {
-        "ko-KR": "그렇군. 그럼 나중에 보지. 날 실망시키지 말아야 할 것이야.",
         "en-US": "Right. I'll see you later. Don't you dare disappoint me.",
         "pt-BR": "Certo. Nos vemos mais tarde... e não me decepcione.",
         "es-ES": "Bien. Te veré más tarde. No te atrevas a decepcionarme."
     },
     "yaiFBw": {
-        "ko-KR": "까다롭기는.",
         "en-US": "What a bossy pants...",
         "pt-BR": "Mas que mandão...",
         "es-ES": "Qué tipo mandón…"
     },
     "yqiFBw": {
-        "ko-KR": "본의 아니게 이상한 이야기를 듣고 말았다.",
         "en-US": "I happen to eavesdrop on a fishy conversation.",
         "pt-BR": "Essa conversa foi bem suspeita...",
         "es-ES": "Resulta que escuché una conversación sospechosa."
     },
     "y6iFBw": {
-        "ko-KR": "의문의 손님",
         "en-US": "Mysterious Guest",
         "pt-BR": "Convidado Misterioso",
         "es-ES": "Invitado misterioso"
     },
     "zKiFBw": {
-        "ko-KR": "시종",
         "en-US": "Chamberlain",
         "pt-BR": "Camareira",
         "es-ES": "Chambelán"
     },
     "zaiFBw": {
-        "ko-KR": "스피카 네리우스",
         "en-US": "Spica Nerius",
         "pt-BR": "Spica Nerius",
         "es-ES": "Spica Nerius"
     },
     "zqiFBw": {
-        "ko-KR": ".. 실례.",
         "en-US": "...Pardon me.",
         "pt-BR": "...Perdão.",
         "es-ES": "…Disculpa."
     },
     "z6iFBw": {
-        "ko-KR": "[스피카]\n연회를 즐기러 오셨군요?\n그보다, 다른 가문은 모두 방문해 보셨는지요?",
         "en-US": "[Spica]\nYou are here to enjoy the banquet, right?\nHave you visit all other families?",
         "pt-BR": "[Spica]\nVocê veio aqui pelo banquete, certo?\nSuponho que já tenha visitado as demais famílias.",
         "es-ES": "[Spica]\nEstás aquí para disfrutar del banquete, ¿verdad?\n¿Has visitado a todas las demás familias?"
     },
     "0KiFBw": {
-        "ko-KR": "[스피카]\n평소에 만나기 힘든 분들인데, 공식적으로 방문 할 수 있는 기회에\n모두 기다리고 있기까지 하니....",
         "en-US": "[Spica]\nIt is almost impossible to meet them usually. What a great chance you have to be able to visit them officially.\nThey are even waiting for you...",
         "pt-BR": "[Spica]\nEm condições normais, é bem difícil vê-las.",
         "es-ES": "[Spica]\nEn general, es casi imposible reunirse con ellos. Pero tú tienes la gran oportunidad de visitarlos de manera oficial.\nIncluso te están esperando…"
     },
     "0aiFBw": {
-        "ko-KR": "[스피카]\n사교계 첫 데뷔로는 상당한 성공아닌가요?\n기회가 왔을때 잘 잡아보시길.",
         "en-US": "[Spica]\nWhat a successful debut to the society!\nDo not miss the chance when you have it.",
         "pt-BR": "[Spica]\nEsta é a ocasião perfeita para conhecer cada uma delas!\nAproveite a oportunidade.",
         "es-ES": "[Spica]\n¡Qué exitoso debut para nuestra sociedad!\nNo te pierdas la oportunidad ahora que la tienes."
     },
     "0qiFBw": {
-        "ko-KR": "[스피카]\n혹시 알까? 상상도 못한 일이 일어날지?",
         "en-US": "[Spica]\nYou never know what would happen!",
         "pt-BR": "[Spica]\nVocê nunca sabe o que pode acontecer!",
         "es-ES": "[Spica]\n¡Nunca se sabe lo que puede ocurrir!"
     },
     "06iFBw": {
-        "ko-KR": "[스피카]\n또 뵙는군요. {0}님.\n시종이 전갈을 잘 전했나보군요.\n곧장 이리로 오시는걸 봤습니다.",
         "en-US": "[Spica]\nI get to see you again, {0}.\nChamberlain must have been a great messenger.\nI saw you coming this way right away.",
         "pt-BR": "[Spica]\nNos encontramos de novo, {0}.",
         "es-ES": "[Spica]\nNos volvemos a ver, {0}.\nEl mayordomo ha de ser un gran mensajero.\nTe vi venir hacía aquí enseguida."
     },
     "1KiFBw": {
-        "ko-KR": "[스피카]\n그나저나 귀빈으로 소개될 때도 놀랐지만 생각보다 더 굉장한 분이셨군요.\n입장하실때 소개가..",
         "en-US": "[Spica]\nI was surprised when you were introduced as a special guest. You seem to be more extraordinary than I have thought.\nYou were introduced as...",
         "pt-BR": "[Spica]\nEu me espantei quando me apresentaram a você como um convidado especial... Você é muito mais incrível do que eu pensava.\nMe apresentaram a você como a pessoa que...",
         "es-ES": "[Spica]\nMe sorprendió que te presentaran como a un huésped especial. Parece que eres más formidable de lo que pensaba.\nTe presentaron como…"
     },
     "1aiFBw": {
-        "ko-KR": "그건 나도 당황스러우니 그 이야기는 좀..",
         "en-US": "Let's not mention that since I am embarrassed by it so much...",
         "pt-BR": "Err... Tenho vergonha de falar...",
         "es-ES": "Por favor, no lo digas. Me da mucha vergüenza…"
     },
     "1qiFBw": {
-        "ko-KR": "[스피카]\n하지만 사실이지 않습니까?\n지금 이 자리는 당신과 같은 영웅을 위한 연회인걸요.\n자부심을 가져도 좋습니다.",
         "en-US": "[Spica]\nBut it is true.\nThis banquet is for the heroes like you.\nYou should be proud.",
         "pt-BR": "[Spica]\nMas enfim...\nEste é um banquete em nome de pessoas como você.\nVocê deve estar sentindo muito orgulho.",
         "es-ES": "[Spica]\nPero es verdad.\nEste banquete es para los héroes como tú.\nDeberías aceptarlo con orgullo."
     },
     "16iFBw": {
-        "ko-KR": "[스키아]\n맞아요!\n그리고 우리랑 어울린다고 해서 누가 뭐라고 못할테니 자주 방문 해 주세요.",
         "en-US": "[Skia]\nThat's right!\nNo one will stop you from hanging out with us. Please visit us often.",
         "pt-BR": "[Skia]\nÉ isso mesmo! Visite-nos mais vezes.",
         "es-ES": "[Skia]\n¡Así es!\nNadie impedirá que vengas a vernos. Ven a visitarnos siempre que lo desees."
     },
     "2KiFBw": {
-        "ko-KR": "[스키아]\n모처럼 우리들만 있는데 좀 더 편하게 지내도 괜찮을테고...",
         "en-US": "[Skia]\nSince there are only us around here, we can loosen up a little...",
         "pt-BR": "[Skia]\nComo estamos só nós aqui, acho que não precisamos ser tão formais...",
         "es-ES": "[Skia]\nComo no hay nadie más, podemos relajarnos un poco…"
     },
     "2aiFBw": {
-        "ko-KR": "[스피카]\n훗훗훗.....입단속은 내가 시키지.\n잘 들었느냐? 크룩스.\n내 반쪽이 조용히 놀다 가자신다.",
         "en-US": "[Spica]\nHahaha.... I'll make sure the words don't get out.\nDid you hear, Crux?\nMy sister wants to hang out quietly.",
         "pt-BR": "[Spica]\nEi, Crux...\n...Você sabia que a minha irmã tá a fim de alguém?",
         "es-ES": "[Spica]\nJa, ja, ja… Nada de lo que digamos saldrá de aquí. Lo prometo.\n¿Escuchaste, Crux?\nMi hermana quiere pasar un rato tranquilo."
     },
     "2qiFBw": {
-        "ko-KR": "예...예?",
         "en-US": "What... Yes...?",
         "pt-BR": "Err...?",
         "es-ES": "¿Qué…? ¿Sí…?"
     },
     "26iFBw": {
-        "ko-KR": "[크룩스]\n아니, 저기 아가씨들?\n제가 뭘 어쩐다고?",
         "en-US": "[Crux]\nI mean, my ladies?\nWhat do you mean by...?",
         "pt-BR": "[Crux]\nComo assim...?",
         "es-ES": "[Crux]\nQuiero decir, mis señoras,\n¿qué quieren decir con…?"
     },
     "3KiFBw": {
-        "ko-KR": "어머님한테 이를거잖아!",
         "en-US": "You better not tell my mother!",
         "pt-BR": "Não conte pra minha mãe!",
         "es-ES": "¡Más te vale no decirle nada a mi madre!"
     },
     "3aiFBw": {
-        "ko-KR": "그래. 그렇지.",
         "en-US": "You shouldn't.",
         "pt-BR": "Você não deveria.",
         "es-ES": "No deberías."
     },
     "3qiFBw": {
-        "ko-KR": "[크룩스]\n전 어디까지나 아가씨 편이라는 거 알고 계시지 않습니까?",
         "en-US": "[Crux]\nYou know that I am on your side, my lady, right?",
         "pt-BR": "[Crux]\nVocês sabem que estamos do mesmo lado, né?",
         "es-ES": "[Crux]\nMi señora, usted sabe que estoy de su lado, ¿verdad?"
     },
     "36iFBw": {
-        "ko-KR": "[스피카]\n어머, 농담도.\n네가 이번에 우리 감시역으로 온 것 다 알거든?",
         "en-US": "[Spica]\nOh, don't make me laugh.\nI know you have come here to spy on us this time.",
         "pt-BR": "[Spica]\nOh, não me faça rir.\nEu sei que você veio até aqui só pra nos espionar.",
         "es-ES": "[Spica]\nBah, no me hagas reír.\nSé que esta vez viniste a espiarnos."
     },
     "4KiFBw": {
-        "ko-KR": "세상에-! 크룩스 고자질하는거야?",
         "en-US": "Oh, my! Crux, are you going to tell on us?",
         "pt-BR": "Crux, você vai nos entregar???",
         "es-ES": "¡Ay, no! ¿Vas a delatarnos, Crux?"
     },
     "4aiFBw": {
-        "ko-KR": "[크룩스]\n아니에요! 아니라고요!\n..어라? 저거 하이네 공자님 아니십니까?",
         "en-US": "[Crux]\nNo! No, please!\n...Oh? Isn't that Lord Heine?",
         "pt-BR": "[Crux]\nNão! Claro que não!\n...Oh? Aquele não é o Lorde Heine?",
         "es-ES": "[Crux]\n¡No! ¡No, por favor!\n…¿Eh? ¿Ese no es el señor Heine?"
     },
     "4qiFBw": {
-        "ko-KR": "[스키아]\n엇, 정말이네. 니힐! 이쪽이에요!",
         "en-US": "[Skia]\nOh, you are right? Nyhill! This way!",
         "pt-BR": "[Skia]\nOh, tudo bem? Nihil! Por aqui!",
         "es-ES": "[Skia]\nOh, ¡creo que sí! ¡Nyhill! ¡Por aquí!"
     },
     "46iFBw": {
-        "ko-KR": "니힐?",
         "en-US": "Nyhill?",
         "pt-BR": "Nihil?",
         "es-ES": "¿Nyhill?"
     },
     "5KiFBw": {
-        "ko-KR": "[니힐]\n그렇게 크게 부르지 않아도 돼. 스키아.\n{0}님도 함께였군.\n확실히 네리우스 가문이라면 같이 있어도 이상한 오해는 받지 않지.\n현명한 판단이다.",
         "en-US": "[Nihil]\nYou don't have to scream like that, Skia.\n{0} is here too.\nIndeed, you won't be mistaken when you hang out with the people of the Nerius family.\nGood decision.",
         "pt-BR": "[Nihil]\nCalma, Skia. Você não precisa gritar assim.\n{0} está aqui também.",
         "es-ES": "[Nihil]\nNo es necesario que grites, Skia.\n{0} está aquí también.\nCiertamente. No te irá mal si te asocias con la familia Nerius.\nBuena decisión."
     },
     "5aiFBw": {
-        "ko-KR": "스키아?",
         "en-US": "Skia?",
         "pt-BR": "Skia?",
         "es-ES": "¿Skia?"
     },
     "5qiFBw": {
-        "ko-KR": "[스피카]\n스키아, 그리고 하이네가의 공자님.\n언제부터 서로 이름을 부르는 사이가 되었습니까?",
         "en-US": "[Spica]\nSkia and Lord of the Heine family.\nSince when did you call each other by the first name?",
         "pt-BR": "[Spica]\nDesde quando vocês chamam um ao outro pelo primeiro nome?",
         "es-ES": "[Spica]\nSkia y el señor de la familia Heine.\n¿Desde cuándo se llaman por el nombre?"
     },
     "56iFBw": {
-        "ko-KR": "넌 알고 있었어?",
         "en-US": "Did you know?",
         "pt-BR": "Crux, você sabia disso?",
         "es-ES": "¿No te enteraste?"
     },
     "6KiFBw": {
-        "ko-KR": "...아.. 아뇨. 몰랐는데요.",
         "en-US": "...No, no. I didn't.",
         "pt-BR": "...Não, não sabia.",
         "es-ES": "…No, no. No lo sabía."
     },
     "6aiFBw": {
-        "ko-KR": "[스키아]\n음~ 아까 아까 복도에서 통성명을 했지요.\n하이네가는 별궁에서 네리우스가와 나란히 있으니까요.",
         "en-US": "[Skia]\nHum, we exchanged greetings earlier in the corridor.\nThe Heine residence is next to that of the Nerius family.",
         "pt-BR": "[Skia]\nHã? A gente se cumprimentou no corredor mais cedo.\nO quarto dos Heine é do lado do nosso.",
         "es-ES": "[Skia]\nEh, intercambiamos saludos en el pasillo.\nLa residencia Heine está junto a la de la familia Nerius."
     },
     "6qiFBw": {
-        "ko-KR": "[니힐]\n덕분에 기분전환도 됐고, 그대에겐 감사하고 있어.\n그리고....",
         "en-US": "[Nihil]\nIt was refreshing, and I am grateful to you.\nAnd...",
         "pt-BR": "[Nihil]\nFoi revigorante, e sou grato a você.\nE...",
         "es-ES": "[Nihil]\nHa sido estimulante y te lo agradezco.\nY…"
     },
     "66iFBw": {
-        "ko-KR": "[니힐]\n{0}님께는 사죄를 드려야겠다는 생각에 방으로 찾아갔는데 이미 연회장으로 향했다고.",
         "en-US": "[Nihil]\n{0}, I visited your room to give you my apology, but you had already left for the Banquet Hall.",
         "pt-BR": "[Nihil]\n{0}, eu visitei seu quarto para pedir desculpas, mas você já havia saído para o banquete.",
         "es-ES": "[Nihil]\n{0}, me acerqué a tu habitación para ofrecerte una disculpa, pero ya te habías retirado al Salón de banquetes."
     },
     "7KiFBw": {
-        "ko-KR": "사죄?",
         "en-US": "Apology?",
         "pt-BR": "Pedir desculpas?",
         "es-ES": "¿Disculpa?"
     },
     "7aiFBw": {
-        "ko-KR": "[니힐]\n아까는..\n순간적인 감정을 다스리지 못해 무례를 저지르고 말았습니다.\n부디 용서를.",
         "en-US": "[Nihil]\nEarlier...\nI was rude to you out of impulse.\nPlease forgive me.",
         "pt-BR": "[Nihil]\nErr, mais cedo...\nEu faltei com educação com você.\nMe perdoe.",
         "es-ES": "[Nihil]\nAntes…\nFui grosero contigo sin pensarlo.\nPor favor, perdóname."
     },
     "7qiFBw": {
-        "ko-KR": "무슨 큰 사고를 친 모양이지?",
         "en-US": "You must have done something wrong, right?",
         "pt-BR": "Você fez algo de errado, né?",
         "es-ES": "Debes haber hecho algo malo, ¿no?"
     },
     "76iFBw": {
-        "ko-KR": "아~무것도 없는 미제리아라면 그럴만 하지~!",
         "en-US": "I am not surprised since it was Mijeria who had nothing!",
         "pt-BR": "Bom... Eu não estaria surpresa se esse fosse o caso!",
         "es-ES": "No me sorprende, ¡si ese Mijeria es un miserable que no tiene nada!"
     },
     "8KiFBw": {
-        "ko-KR": "[술 취한 여자]\n아하..하하하.. 니힐 대공자님, 아아 불쌍하여라.\n어쩜 계승권에서도 밀리더니...",
         "en-US": "[Drunk Woman]\nHaha... Hahaha... Poor Lord Nyhill, what a pity.\nHe has not been selected as the heir to the throne...",
         "pt-BR": "[Mulher Alterada]\nHaha... Hahaha... Pobre Lorde Nihil, que pena.\nEle não foi escolhido como herdeiro do trono...",
         "es-ES": "[Mujer borracha]\nJa, ja… Ja, ja, ja… Pobre señor Nyhill, qué pena.\nNo lo eligieron sucesor del trono…"
     },
     "8aiFBw": {
-        "ko-KR": "[술 취한 여자]\n이게 이게 누구야.\n저명한 여자가주 가문의 네리우스 영애들 아니야?\n대공자, 이제 가문도 저버리고 네리우스가로 가버릴 요량이십니까?",
         "en-US": "[Drunk Woman]\nOh, well! Who are these?\nAren't they the Nerius sisters who are from that famous family led by a woman?\nLord, are you even going to ditch your own household for the Nerius family?",
         "pt-BR": "[Mulher Alterada]\nAhhh... Essas aqui não são as irmãs Nerius?\nO que essa família mixuruca tá fazendo aqui?",
         "es-ES": "[Mujer borracha]\n¡Vaya! ¿Quiénes son estas?\n¿No son las hermanas Nerius de esa famosa familia que dirige una mujer?\nSeñor, ¿piensas abandonar tu propia casa por la familia Nerius?"
     },
     "8qiFBw": {
-        "ko-KR": "비올레타. 이 무슨 무례냐!",
         "en-US": "Violeta, watch your manners!",
         "pt-BR": "Violeta, mais educação!",
         "es-ES": "¡Violeta, cuida tus modales!"
     },
     "86iFBw": {
-        "ko-KR": "[비올레타]\n말이야 바른말이지요. 안그래요?\n가문내에서도 천덕꾸러기 취급 받는데, 여기서 영애 하나 잘 잡으면 제 2의 인생 도래! 아닌가요?\n꺄하하하하-!",
         "en-US": "[Violeta]\nI am not telling a lie. Am I?\nYou are not welcome in your own family anyway. Why don't you flirt with a lady here to change your life?\nHahahahaha!",
         "pt-BR": "[Violeta]\nNão tô mentindo, tô? Bando de...",
         "es-ES": "[Violeta]\nPero digo la verdad. ¿Cierto?\nEn cualquier caso, no eres bienvenido en tu propia familia. ¿Por qué no conquistas a alguna dama aquí y cambias de vida?\n¡Ja, ja, ja, ja, ja!"
     },
     "9KiFBw": {
-        "ko-KR": "말이 심하군.",
         "en-US": "It was harsh.",
         "pt-BR": "Pare de ser cruel.",
         "es-ES": "Eso fue un golpe bajo."
     },
     "9aiFBw": {
-        "ko-KR": "비올레타!! 그만 두라 명하였다!",
         "en-US": "Violeta! I told you to stop.",
         "pt-BR": "Violeta! Já falei pra parar.",
         "es-ES": "¡Violeta! Te dije que te comportaras."
     },
     "9qiFBw": {
-        "ko-KR": "[비올레타]\n어머 어머~ 우리 대공자님 역정도 낼 줄 아시네.\n그래요. 그렇게 화도 팍팍 내시고, 감정도 좀 드러내시고...",
         "en-US": "[Violeta]\nOh, my! My lord, I didn't know you could get angry.\nThat's right. You better get angry and show your emotions...",
         "pt-BR": "[Violeta]\nIiiiiih eu não sabia que você podia ficar brabinho!\nÉ... bota pra fora essa raiva...",
         "es-ES": "[Violeta]\n¡Ay, no! Mi señor, no sabía que te podías enfadar.\nAsí es. Será mejor que te enojes y demuestres tus emociones…"
     },
     "96iFBw": {
-        "ko-KR": "[크룩스]\n...어느댁의 영애신지 모르겠으나 그만하십시오.\n아가씨께 이 이상 모욕된 발언을 하신다면 더 이상 참지 않겠습니다.",
         "en-US": "[Crux]\n...I don't know which family you are from, but you need to strop.\nIf you keep insulting my lady, I won't let it pass.",
         "pt-BR": "[Crux]\n...Eu não sei de qual família você é, mas você precisa parar.",
         "es-ES": "[Crux]\n…no sé de qué familia serás, pero te pido que te detengas.\nSi sigues insultando a mi señora, no lo dejaré pasar."
     },
     "+KiFBw": {
-        "ko-KR": "[스피카]\n나서지마라, 크룩스.\n자신이 무슨 말을 지껄이는지도 모르는 천박한 것과 나를 동급으로 둘 셈이냐?\n이 일로 하이네가와 척을 질 생각은 없으니.",
         "en-US": "[Spica]\nHold it, Crux.\nYou shouldn't regard me on the same level as the coarse thing who doesn't even know what she is talking about.\nI don't tend to bear a grudge against the Heine family for this.",
         "pt-BR": "[Spica]\nSegura a onda, Crux.",
         "es-ES": "[Spica]\nEspera, Crux.\nNo me rebajes al mismo nivel que esa tosca que no sabe de lo que habla.\nNo le guardaré rencor a la familia Heine por esto."
     },
     "+aiFBw": {
-        "ko-KR": "[스피카]\n안 그렇소? 비올레타 콜라트 하이네양?\n자네의 공자를 향한 마음은 익히 이해하네만 여기서 이래봤자 욕 먹는 것은 하이네가요.",
         "en-US": "[Spica]\nIsn't it right? Violeta Collette Heine?\nI understand your feelings for the lord, but your behavior will just bring disgrace to your family.",
         "pt-BR": "[Spica]\nEntão, senhorita... Violeta Collette Heine?\nCompreendo os sentimentos que tem pelo lorde, mas seu comportamento não está nada adequado.",
         "es-ES": "[Spica]\n¿No es así, Violeta Collette Heine?\nEntiendo lo que sientes por el señor, pero tu comportamiento solo traerá desgracia a la familia."
     },
     "+qiFBw": {
-        "ko-KR": "하이네..???",
         "en-US": "Heine...?",
         "pt-BR": "Heine...?",
         "es-ES": "¿Heine…?"
     },
     "+6iFBw": {
-        "ko-KR": "..후.. 방계혈족 중 하나인데.....",
         "en-US": "...Phew... She is a collateral relative of mine...",
         "pt-BR": "...Bem... Ela é uma parente distante...",
         "es-ES": "…Uf… Ella es mi pariente colateral…"
     },
     "/KiFBw": {
-        "ko-KR": "[스피카]\n그가 추문에 시달리기 바란다면 어디 마음껏 날뛰어 보시던가.\n다만 거기에서 우리 네리우스 가문은 빼주어야 할 것이오.",
         "en-US": "[Spica]\nYou do what you please if you want to damage his reputation.\nHowever, you should keep us, the Nerius family, out of the mess.",
         "pt-BR": "[Spica]\nFaça o que quiser para manchar a reputação dos Heine.\nPeço para que mantenha a família Nerius longe disso, no entanto.",
         "es-ES": "[Spica]\nSi lo que quieres es dañar su reputación, haz lo que te plazca.\nPero mantén a la familia Nerius fuera de tus asuntos."
     },
     "/aiFBw": {
-        "ko-KR": "[니힐]\n그 말 그대로다.\n비올레타. 지금 것은 넘어가줄테니 속히 돌아가도록 해.\n그렇지 않으면 가문의 이름으로 널 벌할 수 밖에 없어.",
         "en-US": "[Nihil]\nThat is true.\nVioleta. I will let it slide this time. You should get back now.\nOr, I'll have to punish you in the name of the family.",
         "pt-BR": "[Nihil]\nDesta vez eu vou deixar passar... DESTA vez.",
         "es-ES": "[Nihil]\nEso es cierto.\nVioleta. Esta vez lo dejaré pasar. Ya deberías volver.\nO tendré que castigarte en nombre de la familia."
     },
     "/qiFBw": {
-        "ko-KR": "[비올레타]\n좋아요. 돌아갈게요.\n기왕 이렇게 된 거, 네리우스 가문으로 가 버려요! 흥!",
         "en-US": "[Violeta]\nWell, I'll get back.\nSince things have turned out this way, you better go to join the Nerius family, then! He!",
         "pt-BR": "[Violeta]\nTá.\nJá que as coisas chegaram a esse ponto, é melhor você ir se juntar à família Nerius!",
         "es-ES": "[Violeta]\nEstá bien, me iré.\nYa que así son las cosas, ¡mejor quédate con la familia Nerius! ¡Je!"
     },
     "/6iFBw": {
-        "ko-KR": "[스키아]\n아니.. 어째서 이야기가 그렇게..?",
         "en-US": "[Skia]\nHow does the story go that way?",
         "pt-BR": "[Skia]\nComo que isso foi acontecer?",
         "es-ES": "[Skia]\n¿Cómo terminó ahí la historia?"
     },
     "AKmFBw": {
-        "ko-KR": "[니힐]\n면목이 없군. 저 아이의 무례에 대해선 내가 대신 사과하지.\n.....",
         "en-US": "[Nihil]\nI am sorry, I apologize for her bad manners.\n.....",
         "pt-BR": "[Nihil]\nPeço perdão pelos seus modos.",
         "es-ES": "[Nihil]\nTe pido disculpas por sus malos modales.\n....."
     },
     "AamFBw": {
-        "ko-KR": "[스키아]\n아까부터 사과만 하시네요.\n그런데 정작 니힐이 잘못 한 건 없잖아요?",
         "en-US": "[Skia]\nYou keep saying sorry.\nBut you didn't do anything wrong, Nyhill.",
         "pt-BR": "[Skia]\nPare de pedir desculpas.\nVocê não fez nada de errado, Nihil.",
         "es-ES": "[Skia]\nSigues pidiendo disculpas,\npero no hiciste nada malo, Nyhill."
     },
     "AqmFBw": {
-        "ko-KR": "[스피카]\n아니, 그건 아니다. 스키아.\n원하든 원치않든 가문의 이름을 짊어지고 가야 한다면 그 모든 것이 수장의 잘못이 된다.",
         "en-US": "[Spica]\nWell, Skia. You don't understand.\nWhether willing or not, as the head of the family, every fault of the family becomes his burden.",
         "pt-BR": "[Spica]\nQuerendo ou não, como o líder, todo erro que a família cometer é da responsabilidade dele.",
         "es-ES": "[Spica]\nBueno, Skia. Es que tú no entiendes.\nLo quiera o no, como cabeza de familia, cada error de la familia se convierte en su responsabilidad."
     },
     "A6mFBw": {
-        "ko-KR": "[니힐]\n맞는 말이다. 어쨌든 나는 하이네의 이름으로 살고 있고 하이네의 모든 것을 책임져야 하는 위치지.\n그것이 원하든 원하지 않든 말이야.",
         "en-US": "[Nihil]\nShe is right. I bear the name of Heine, and I am in the position to take care of every matter which comes with the family.\nWhether willing or not...",
         "pt-BR": "[Nihil]\nSim. Eu carrego o nome da família Heine, e cabe a mim zelar por todos.\nQuerendo ou não...",
         "es-ES": "[Nihil]\nElla tiene razón. Llevo el apellido Heine y eso conlleva ocuparme de todos los asuntos que atañen a la familia.\nY quieras o no…"
     },
     "BKmFBw": {
-        "ko-KR": "[니힐]\n스키아 그대가 간혹 그림자가 되어야 하는 것과 같은 이야기지.",
         "en-US": "[Nihil]\nSkia, it is the same for you. You sometimes have to become a shadow yourself.",
         "pt-BR": "[Nihil]\nSkia, o mesmo se aplica a você. Você precisa ser um exemplo para a família toda.",
         "es-ES": "[Nihil]\nes igual para ti, Skia. A veces tú también tienes que convertirte en una sombra."
     },
     "BamFBw": {
-        "ko-KR": "가벼운 샴페인입니다. 드시겠습니까?",
         "en-US": "Light champagne. Would you like some?",
         "pt-BR": "Gostaria de uma bebida?",
         "es-ES": "Champán suave. ¿Quiere un poco?"
     },
     "BqmFBw": {
-        "ko-KR": "고맙군.",
         "en-US": "Thanks.",
         "pt-BR": "Obrigado.",
         "es-ES": "Gracias."
     },
     "B6mFBw": {
-        "ko-KR": "나도 한 잔 주세요.",
         "en-US": "May I have a glass too?",
         "pt-BR": "Eu também quero uma, por favor.",
         "es-ES": "¿Puedo tomar una copa también?"
     },
     "CKmFBw": {
-        "ko-KR": "[스피카]\n사건이야 어찌되었든 가문의 일원에게도 저런 취급을 받고 있는줄은 몰랐는데...",
         "en-US": "[Spica]\nHowever, I didn't know you have been treated like that by the members of your own family.",
         "pt-BR": "[Spica]\nCaramba, eu não sabia que você era tratado assim pelos membros de sua família.",
         "es-ES": "[Spica]\nSin embargo, no sabía que los miembros de tu propia familia te habían tratado así."
     },
     "CamFBw": {
-        "ko-KR": ".....",
         "en-US": ".....",
         "pt-BR": ".....",
         "es-ES": "....."
     },
     "CqmFBw": {
-        "ko-KR": "[니힐]\n연회의 흥을 내가 깨버린 모양이군. 이만 돌아가겠네.\n언젠가 기회가 된다면 더 이야기를 나눌 수 있기를 바라지.",
         "en-US": "[Nihil]\nI must have interrupted the joy of the banquet. I should get going.\nI hope we get to share more stories sometime.",
         "pt-BR": "[Nihil]\nMe desculpem por tudo, vou deixar o local antes que eu estrague o clima.\nEspero que nos encontremos novamente.",
         "es-ES": "[Nihil]\nDebo haber arruinado el buen ánimo del banquete. Debería irme.\nEspero poder compartir más historias en otra ocasión."
     },
     "C6mFBw": {
-        "ko-KR": "[스피카]\n아니요. 이쪽이야 말로, 다음번에 정식으로 초청을 드리겠습니다.\n그때 거절하지 말아주세요.",
         "en-US": "[Spica]\nNot at all. Let us give you the official invitation next time.\nPlease don't turn down then.",
         "pt-BR": "[Spica]\nClaro, nós o convidaremos com certeza.\nEsperamos que você aceite.",
         "es-ES": "[Spica]\nNi lo menciones. Déjanos hacerte una invitación oficial la próxima vez.\nPor favor, no la rechaces."
     },
     "DKmFBw": {
-        "ko-KR": "[니힐]\n어찌 거절하겠는가, 네리우스가 차기 가주의 초청을.\n그럼 다음에.",
         "en-US": "[Nihil]\nHow can I turn down the invitation from the next head of the Nerius family?\nNow... then.",
         "pt-BR": "[Nihil]\nComo eu recusaria um convite da futura sucessora da família Nerius?\nAgora... então.",
         "es-ES": "[Nihil]\n¿Cómo podría rechazar la invitación de la próxima cabeza de la familia Nerius?\nBien… entonces."
     },
     "DamFBw": {
-        "ko-KR": "즐거웠어요!",
         "en-US": "It was fun!",
         "pt-BR": "Bem, foi divertido! Obrigada!",
         "es-ES": "¡Estuvo divertido!"
     },
     "DqmFBw": {
-        "ko-KR": ".. 어디가..즐거웠..?",
         "en-US": "...Which part of it was fun...?",
         "pt-BR": "...",
         "es-ES": "…¿Cuál fue la parte divertida…?"
     },
     "D6mFBw": {
-        "ko-KR": "[스피카]\n..흐음....\n음...\n스키아, 네가 받은 그 음료수 좀 줘보겠니?",
         "en-US": "[Spica]\n...Hum...\nUmm...\nSkia, can I take a look at the drink you got?",
         "pt-BR": "[Spica]\n...Hum...\nSkia, posso dar uma olhada na sua bebida?",
         "es-ES": "[Spica]\n…Eh…\nMmm…\nSkia, ¿me permites ver tu trago?"
     },
     "EKmFBw": {
-        "ko-KR": "이건 왜?",
         "en-US": "Why?",
         "pt-BR": "Por quê?",
         "es-ES": "¿Por qué?"
     },
     "EamFBw": {
-        "ko-KR": "[스피카]\n그리고 크룩스.\n음료를 건네준 시종에 대해 은밀히 알아보아라.",
         "en-US": "[Spica]\nAnd, Crux.\nGo dig out the Chamberlain who has given us the drink.",
         "pt-BR": "[Spica]\nE Crux,\npode ir atrás da camareira que nos ofereceu a bebida?",
         "es-ES": "[Spica]\nY tú, Crux.\nVe a averiguar qué mayordomo nos dio estos tragos."
     },
     "EqmFBw": {
-        "ko-KR": "예, 아가씨.",
         "en-US": "Yes, my lady.",
         "pt-BR": "Claro.",
         "es-ES": "Sí, señora."
     },
     "E6mFBw": {
-        "ko-KR": "[스피카]\n다른 이 눈은 속여도 날 속일 순 없지.\n{0}님도 잘 보시오.\n뭔가 이상하지 않소?",
         "en-US": "[Spica]\nNo one can fool my eyes like this.\n{0}, you take a look too.\nDoesn't something seem strange to you?",
         "pt-BR": "[Spica]\nNinguém pode me enganar desse jeito.\n{0}, você não tá suspeitando de algo também?",
         "es-ES": "[Spica]\nMi vista no falla para estas cosas.\nÉchale un vistazo, {0}.\n¿No te parece un poco raro?"
     },
     "FKmFBw": {
-        "ko-KR": "말이 좀 짧아진 느낌이..?",
         "en-US": "Well, you do seem to talk a little casually now...",
         "pt-BR": "Bem, talvez...",
         "es-ES": "Bueno, se ve que se te dio por hablar de forma casual…"
     },
     "FamFBw": {
-        "ko-KR": "[스피카]\n나는 본디 하대에 익숙한 몸.\n귀빈이시라 존대를 썼지만 역시 안하던 존대를 쓰려니 혀가 깨물릴 지경이라.",
         "en-US": "[Spica]\nI am not used to talk in the formal form.\nI tried to be courteous to you since you are a special guest. But I'd rather bite my own tongue than keep talking that way.",
         "pt-BR": "[Spica]\nNão costumo falar de forma formal.\nTentei ser cortês com você, já que és especial. Mas prefiro morder a língua do que continuar falando desse jeito.",
         "es-ES": "[Spica]\nNo acostumbro hablar formal.\nTraté de ser cortés contigo ya que te invitaron de manera especial. Pero prefiero morderme la lengua que seguir hablando así."
     },
     "FqmFBw": {
-        "ko-KR": "크룩스 보라는 것은?",
         "en-US": "Crux, did you see that?",
         "pt-BR": "Crux, você viu aquilo?",
         "es-ES": "Crux, ¿ves eso?"
     },
     "F6mFBw": {
-        "ko-KR": "[스키아]\n흔들리네. 흔들리네요!\n크룩스 봤니? 니힐의 걸음걸이가 흔들렸어.",
         "en-US": "[Skia]\nOh, shaking. He is shaking!\nCrux, did you see? Nyhill's steps shook.",
         "pt-BR": "[Skia]\nNihil está meio cambaleante...",
         "es-ES": "[Skia]\nAh, tiembla. ¡Está temblando!\n¿Lo notaste, Crux? Nyhill se tambalea al caminar."
     },
     "GKmFBw": {
-        "ko-KR": "아가씨께서 왜 그런 지시를 내렸는지 알 것 같습니다.",
         "en-US": "I see why you have given me such an order.",
         "pt-BR": "Muito estranho mesmo...",
         "es-ES": "Ya veo por qué me diste esa orden."
     },
     "GamFBw": {
-        "ko-KR": "[스피카]\n네가 마셨던 샴페인, 과일주스에 가까울 정도로 도수가 낮은 것인데\n그것만으로 취했을리가 없지.\n분명 뭔가 있을것 같은데...",
         "en-US": "[Spica]\nThe champagne is supposed to be as light as fruit juice.\nHe must have not been drunk on that.\nI think there must be something wrong.",
         "pt-BR": "[Spica]\nE essa bebida não tem álcool...\nPortanto, não tem como ele estar bêbado.\nHá algo de errado aqui.",
         "es-ES": "[Spica]\nSe supone que el champán es tan suave como un jugo de frutas.\nNo tendría que estar así de borracho.\nCreo que algo anda mal."
     },
     "GqmFBw": {
-        "ko-KR": "[스피카]\n{0}.\n뭔가 재밌는 일이 벌어질 것 같지 않나?\n아아.. 수상하다. 수상해.\n수상하니 우리는 이만 돌아가자꾸나.",
         "en-US": "[Spica]\n{0}.\nDon't you think something funny is about to happen now?\nOh, how suspicious.\nSince it seems suspicious, let's get back now.",
         "pt-BR": "[Spica]\n{0}.\nIsso está MUITO esquisito, não?",
         "es-ES": "[Spica]\n{0}.\n¿No te parece que está por ocurrir algo interesante?\nAh, qué intriga.\nSe ve sospechoso, mejor vámonos."
     },
     "G6mFBw": {
-        "ko-KR": "[스키아]\n에엥? 그냥 가는게 어딨어?\n어디 아픈게 아닐까? 가다가 쓰러지기라도 하면 어떡해?",
         "en-US": "[Skia]\nEh? Are you going off like that?\nWhat if he is sick? What if he passes out on the way?",
         "pt-BR": "[Skia]\nE se ele estiver doente? E se ele desmaiar no caminho de volta?",
         "es-ES": "[Skia]\n¿Eh? ¿Te vas a ir así?\n¿Y qué pasa si está enfermo? ¿Y si se desmaya por el camino?"
     },
     "HKmFBw": {
-        "ko-KR": "[스피카]\n그렇게 궁금하면 따라가보려무나.\n크룩스가 있어 난 괜찮으니.",
         "en-US": "[Spica]\nIf you are curious, you may follow him.\nI am well taken care of by Crux.",
         "pt-BR": "[Spica]\nBem, se está tão preocupada, pode segui-lo. Por ora, eu vou voltar pro quarto",
         "es-ES": "[Spica]\nSi te da curiosidad, puedes seguirlo.\nCrux me cuidará muy bien."
     },
     "HamFBw": {
-        "ko-KR": "크룩스, 방으로 돌아가자.",
         "en-US": "Crux, let's get back to the room.",
         "pt-BR": "Crux, vamos voltar ao quarto.",
         "es-ES": "Volvamos a la habitación, Crux."
     },
     "HqmFBw": {
-        "ko-KR": "예. 아가씨.",
         "en-US": "Yes, ma'am.",
         "pt-BR": "Sim, senhora.",
         "es-ES": "Sí, señora."
     },
     "H6mFBw": {
-        "ko-KR": "너무하네..",
         "en-US": "How cold-hearted...",
         "pt-BR": "Que insensível...",
         "es-ES": "Qué frialdad…"
     },
     "IKmFBw": {
-        "ko-KR": "[스키아]\n저기.. 용사님?\n용사님께서 먼저 따라가주시면 안돼요?\n제가 여기에서 쫄랑거리고 따라갔다간 모두 이상하게 쳐다볼거에요.",
         "en-US": "[Skia]\nWell, hero?\nWould you follow him first?\nIf I follow him like this, everyone will find me strange.",
         "pt-BR": "[Skia]\nBem, e aí?\nPoderia segui-lo, por favor?\nVão achar estranho se eu começar a segui-lo sozinha...",
         "es-ES": "[Skia]\n¿Y bien, valiente?\n¿Quieres seguirlo y yo voy detrás?\nSi me pongo a seguirlo así, levantaré sospechas."
     },
     "IamFBw": {
-        "ko-KR": "[스키아]\n제가 몰래 뒤따라 갈게요.\n스피카는 빈말로 저런 말을 하지 않아요.\n분명 무언가가 있을거에요.",
         "en-US": "[Skia]\nI'll be after you quietly.\nSpica never jokes about something like that.\nThere must be something.",
         "pt-BR": "[Skia]\nEu estarei logo atrás de você.\nA Spica nunca desdenha desse jeito...\nNesse mato tem coelho.",
         "es-ES": "[Skia]\nPrometo no hacer ruido.\nSpica nunca bromea sobre estas cosas.\nSeguro hay algo."
     },
     "IqmFBw": {
-        "ko-KR": "어쩔 수 없네...",
         "en-US": "I guess I have no choice.",
         "pt-BR": "Bom, acho que não tenho escolha.",
         "es-ES": "Supongo que no tengo elección."
     },
     "I6mFBw": {
-        "ko-KR": "[스키아]\n니힐은 연회장 밖으로 나갔을거에요.\n분명 별궁으로 향했을테니 그 쪽으로 가봐요!",
         "en-US": "[Skia]\nNyhill must have left the Banquet Hall.\nHe must have headed to the Royal Villa. Let's go that way.",
         "pt-BR": "[Skia]\nNihil deve ter deixado o Salão do Banquete...\nEle deve ter ido pro quarto dele. Vamos lá.",
         "es-ES": "[Skia]\nNyhill debe haberse ido del Salón de banquetes.\nSeguro se dirige a la villa real. Vayamos ahí."
     },
     "JKmFBw": {
-        "ko-KR": "[스피카]\n음? 하이네가의 공자를 따라 간 줄 알았는데, 여직 여기 있었군?",
         "en-US": "[Spica]\nHum? You are still here. I thought you went after the lord from the Heine family.",
         "pt-BR": "[Spica]\nHum? Você ainda está aqui?",
         "es-ES": "[Spica]\n¿Mmm? Sigues aquí. Pensé que ibas a perseguir al señor de la familia Heine."
     },
     "JamFBw": {
-        "ko-KR": "방으로 돌아가지 않았나?",
         "en-US": "Didn't you go back to your room?",
         "pt-BR": "Você não ia voltar pro seu quarto?",
         "es-ES": "¿No volviste a tu habitación?"
     },
     "JqmFBw": {
-        "ko-KR": "[스피카]\n그건 그냥 떠밀어본거지.\n스키아가 어떻게 나올지 궁금해서 말이야.\n.. 그런데 안따라가?",
         "en-US": "[Spica]\nI was just giving my sister a push in the back.\nI was curious how Skia would react.\n...Aren't you following him?",
         "pt-BR": "[Spica]\nAh, eu queria ver como a Skia ia reagir.\nEla precisa agir por conta própria às vezes.\n...Você não vai seguir o Nihil?",
         "es-ES": "[Spica]\nSolo estaba dándole un pequeño empujón a mi hermana.\nMe daba curiosidad saber cómo reaccionaría Skia.\n…¿No lo estás siguiendo?"
     },
     "J6mFBw": {
-        "ko-KR": "[스피카]\n내 예감이 그러는데, 무언가 큰 일이 일어날 것 같거든?\n따라가서 공자의 상태를 살펴보는게 좋을거야.\n난 분명히 충고했어.",
         "en-US": "[Spica]\nI have a hunch that something big is about to happen.\nYou better go after the lord to make sure he is OK.\nI have advised you as so, remember.",
         "pt-BR": "[Spica]\nEu acho que alguém está tramando algo...\nMelhor ir checar como o Nihil está.",
         "es-ES": "[Spica]\nTengo el presentimiento de que va a ocurrir algo importante.\nSerá mejor que busques al señor y te asegures de que esté bien.\nEso fue lo que te aconsejé, si no lo recuerdas."
     },
     "KKmFBw": {
-        "ko-KR": "[스피카]\n최근의 동향은 썩 마음에 들지 않지만\n... 내색하지 않고 버티는게 한계인가.",
         "en-US": "[Spica]\nI don't like how things have been going these days.\n...I guess I am about to stop holding it down.",
         "pt-BR": "[Spica]\nNão gosto do rumo que as coisas têm tomado ultimamente...",
         "es-ES": "[Spica]\nNo me gusta cómo se dieron las cosas estos días.\n…Supongo que estoy a punto de dejar de guardármelo."
     },
     "KamFBw": {
-        "ko-KR": "스키아 네리우스",
         "en-US": "Skia Nerius",
         "pt-BR": "Skia Nerius",
         "es-ES": "Skia Nerius"
     },
     "KqmFBw": {
-        "ko-KR": "......",
         "en-US": "......",
         "pt-BR": "......",
         "es-ES": "......"
     },
     "K6mFBw": {
-        "ko-KR": "[스키아]\n{0}님이셨군요.\n연회는 어떠신가요?\n저는 이런 연회는 처음 참석하는 거라 좀 떨리고...",
         "en-US": "[Skia]\n{0}.\nHow are you enjoying the banquet?\nI am a little nervous since it's my first time to attend a banquet like this...",
         "pt-BR": "[Skia]\nOlá, {0}.\nVocê está gostando do banquete?\nEu estou um pouco nervosa, pra ser honesta...",
         "es-ES": "[Skia]\n{0}.\n¿Estás disfrutando del banquete?\nMe da algo de nervios, ya que es la primera vez que asisto a un banquete así…"
     },
     "LKmFBw": {
-        "ko-KR": "[스키아]\n아, 그러니까 연회가 처음이라는게 아니라...\n뭐라고 설명해야 하지?",
         "en-US": "[Skia]\nNot that I have never been to a banquet...\nHow can I explain?",
         "pt-BR": "[Skia]\nNão que eu nunca tenha ido a um banquete...\nMas... como posso explicar?",
         "es-ES": "[Skia]\nNo es que nunca haya estado en un banquete…\n¿Cómo te explico?"
     },
     "LamFBw": {
-        "ko-KR": "[스피카]\n일일이 설명 할 필요 없단다.\n우리 가문 내의 일이잖니?",
         "en-US": "[Spica]\nYou don't have to explain.\nIt is just a family matter.",
         "pt-BR": "[Spica]\nNão se preocupe.\nÉ apenas uma cerimônia.",
         "es-ES": "[Spica]\nNo tienes que dar explicaciones.\nEs solo un asunto familiar."
     },
     "LqmFBw": {
-        "ko-KR": "[스키아]\n그렇지.\n본의 아니게 떠들어댔네요.\n실례가 많았습니다.",
         "en-US": "[Skia]\nRight.\nPlease excuse my babbling.\nI am sorry.",
         "pt-BR": "[Skia]\nRealmente...\nDesculpe por ficar choramingando.",
         "es-ES": "[Skia]\nBien.\nDiscúlpame por parlotear.\nLo siento."
     },
     "L6mFBw": {
-        "ko-KR": "[스키아]\n안좋은 일이 겹쳐서 일어나고 있는것 같아요.",
         "en-US": "[Skia]\nBad things seem to keep happening.",
         "pt-BR": "[Skia]\nÉ uma coisa ruim atrás de outra...",
         "es-ES": "[Skia]\nParece que siguen ocurriendo desgracias."
     },
     "MKmFBw": {
-        "ko-KR": "크룩스 파인델",
         "en-US": "Crux Findel",
         "pt-BR": "Crux Findel",
         "es-ES": "Crux Findel"
     },
     "MamFBw": {
-        "ko-KR": "[크룩스]\n저는 신경쓰지 마십시오.\n일개 호위일 뿐이니까요.",
         "en-US": "[Crux]\nDon't mind me.\nI am just a bodyguard.",
         "pt-BR": "[Crux]\nSou apenas um guarda-costas.",
         "es-ES": "[Crux]\nNo me hagas caso.\nSolo soy un guardaespaldas."
     },
     "MqmFBw": {
-        "ko-KR": "[크룩스]\n또 뵙는군요.\n아가씨께서 많이 기다리셨습니다.",
         "en-US": "[Crux]\nI get to see you again.\nThe lady has been waiting for you.",
         "pt-BR": "[Crux]\nNos encontramos de novo.\nA senhorita está esperando por você.",
         "es-ES": "[Crux]\nNos volvemos a encontrar.\nLa señora te ha estado esperando."
     },
     "M6mFBw": {
-        "ko-KR": "[크룩스]\n아가씨께서 지시하신 일을 생각하고 있습니다.\n따로 알아보려면 곁에서 떨어져야 하는데...",
         "en-US": "[Crux]\nI am thinking about the order given by the lady.\nI need to be apart from her to look into it...",
         "pt-BR": "[Crux]\nEstou pensando na ordem que ela me deu...\nPrecisaremos nos separar...",
         "es-ES": "[Crux]\nEstoy pensando en la orden que me dio.\nTengo que apartarme de ella para investigar…"
     },
     "NKmFBw": {
-        "ko-KR": "[크룩스]\n솔직히 내키지 않는군요.",
         "en-US": "[Crux]\nFrankly, it makes me feel uneasy leaving her alone.",
         "pt-BR": "[Crux]\nHonestamente, não gosto de deixá-la sozinha.",
         "es-ES": "[Crux]\nFrancamente, no me gusta dejarla sola."
     },
     "NamFBw": {
-        "ko-KR": "[스피카]\n내가 어린아이더냐?\n아니면 물가에 내놓은 자식이라도 생각 나더냐?",
         "en-US": "[Spica]\nI am not a child, you know.\nOr do I remind you of your daughter running along the river bank?",
         "pt-BR": "[Spica]\nEi, eu não sou uma criança.",
         "es-ES": "[Spica]\nNo soy una niña, ¿sabes?\n¿O te recuerdo a tu hija corriendo por la orilla del río?"
     },
     "NqmFBw": {
-        "ko-KR": "[크룩스]\n자식이라니요.\n하하하. 농담도.\n그런데 솔직히 제 나이대로 보이진 않으시잖습니까?",
         "en-US": "[Crux]\nDaughter?\nHahaha. That is funny.\nBut you don't look your age to be honest.",
         "pt-BR": "[Crux]\nCriança?\nHahaha. Que engraçado.\nMas você não aparenta a sua idade, para ser sincero.",
         "es-ES": "[Crux]\n¿Hija?\nJa, ja, ja. Qué gracioso.\nPero, sinceramente, te ves joven para tu edad."
     },
     "N6mFBw": {
-        "ko-KR": "[크룩스]\n또 꼬맹이들에게 당하는 수가 있어요.",
         "en-US": "[Crux]\nYou can be attacked by the kids again.",
         "pt-BR": "[Crux]\nVocê pode ser atacada de novo.",
         "es-ES": "[Crux]\nLos niños podrían atacarte otra vez."
     },
     "OKmFBw": {
-        "ko-KR": "[스피카]\n흥. 아무렴 너만하겠느냐.\n내 걱정은 접어 두거라.",
         "en-US": "[Spica]\nHe! Who can top you?\nYou shouldn't worry about me.",
         "pt-BR": "[Spica]\nVocê não precisa se preocupar comigo.",
         "es-ES": "[Spica]\n¡Je! No tienes remedio.\nDeja de preocuparte por mí."
     },
     "OamFBw": {
-        "ko-KR": "[크룩스]\n당분간 본가로 돌아가긴 글렀군요.\n아니, 이건 이것대로 좋은 건가?",
         "en-US": "[Crux]\nI guess we won't be able to return to the head house anytime soon.\nWell, this actually could be a good thing.",
         "pt-BR": "[Crux]\nAcho que não vamos voltar pra casa tão cedo...",
         "es-ES": "[Crux]\nSupongo que no podremos volver a la casa principal por un tiempo.\nBueno, eso no tiene por qué ser malo."
     },
     "OqmFBw": {
-        "ko-KR": "....아...좋네....좋은 일이야.",
         "en-US": "...Oh, good. It is a good thing.",
         "pt-BR": "...E talvez isso seja bom.",
         "es-ES": "…Ah, bien. Es algo bueno."
     },
     "O6mFBw": {
-        "ko-KR": "니힐 M. 하이네",
         "en-US": "Nyhill M. Heine",
         "pt-BR": "Nihil M. Heine",
         "es-ES": "Nyhill M. Heine"
     },
     "PKmFBw": {
-        "ko-KR": "비올레타",
         "en-US": "Violeta",
         "pt-BR": "Violeta",
         "es-ES": "Violeta"
     },
     "PamFBw": {
-        "ko-KR": "왕궁 시종",
         "en-US": "Royal Chamberlain",
         "pt-BR": "Servente",
         "es-ES": "Chambelán Real"
     },
     "PqmFBw": {
-        "ko-KR": "....음? 누가 오는데..?",
         "en-US": "...Hum? Who's coming?",
         "pt-BR": "...Hum? Quem está aí?",
         "es-ES": "…¿Mmm? ¿Quién viene?"
     },
     "P6mFBw": {
-        "ko-KR": "어떻게 됐습니까?",
         "en-US": "How did it go?",
         "pt-BR": "E aí, como foi?",
         "es-ES": "¿Cómo te fue?"
     },
     "QKmFBw": {
-        "ko-KR": "흐음....원하던 만큼은 아니지만 실마리는 잡은 것 같군.",
         "en-US": "Hum... Not as much as I have wanted, but I seem to have a clue now.",
         "pt-BR": "Hum... Não tão bem quanto eu esperava, mas acho que tenho uma pista.",
         "es-ES": "Mmm… No es tanto como hubiera querido, pero creo que conseguí una pista."
     },
     "QamFBw": {
-        "ko-KR": "나쁘지 않은 결과야.",
         "en-US": "Not bad.",
         "pt-BR": "Nada mal.",
         "es-ES": "Nada mal."
     },
     "QqmFBw": {
-        "ko-KR": "짧은 시간이었는데...",
         "en-US": "It has been only a while...",
         "pt-BR": "Passou tão pouco tempo...",
         "es-ES": "Pasó muy poco tiempo…"
     },
     "Q6mFBw": {
-        "ko-KR": "워낙 약이 좋았어야지. 하하하.... 그 공자님은 소문대로 내성도 형편없더군.",
         "en-US": "The drug worked wonders. Hahah... That lord had no tolerance to it as I was told.",
         "pt-BR": "O veneno funcionou que foi uma maravilha. Aquele Lorde era bem frágil mesmo.",
         "es-ES": "Esa droga hizo maravillas. Ja, ja… El señor no fue capaz de tolerarla, según me dijeron."
     },
     "RKmFBw": {
-        "ko-KR": "(공자님?)",
         "en-US": "(Lord?)",
         "pt-BR": "(Lorde?)",
         "es-ES": "(¿Señor?)"
     },
     "RamFBw": {
-        "ko-KR": "그럼 이제 어쩝니까?",
         "en-US": "What should we do now?",
         "pt-BR": "O que faremos agora?",
         "es-ES": "¿Qué hacemos ahora?"
     },
     "RqmFBw": {
-        "ko-KR": "뭐 그냥 둬도 괜찮아. 그저 좀 취한 것으로 알테니까...",
         "en-US": "Just leave him there. They will think that he is just drunk a little.",
         "pt-BR": "Deixe-o ali. Eles vão achar que ele só ficou um pouco bêbado.",
         "es-ES": "Déjalo ahí. Pensarán que solo está un poco borracho."
     },
     "R6mFBw": {
-        "ko-KR": "그럼 거사를 준비 해 볼까.",
         "en-US": "Then, let's get prepared for the big event.",
         "pt-BR": "Bom, então vamos para o próximo passo do plano.",
         "es-ES": "Entonces, preparémonos para el gran evento."
     },
     "SKmFBw": {
-        "ko-KR": "니힐은 찾았어요?",
         "en-US": "Did you find Nyhill?",
         "pt-BR": "Você encontrou Nihil?",
         "es-ES": "¿Encontraste a Nyhill?"
     },
     "SamFBw": {
-        "ko-KR": "깜짝이야!",
         "en-US": "What the!",
         "pt-BR": "Mas o que...",
         "es-ES": "¡¿Pero qué…?!"
     },
     "SqmFBw": {
-        "ko-KR": "뭘 보고 계셨길래 그렇게 놀라요?",
         "en-US": "Why are you so surprised? What are you looking at?",
         "pt-BR": "Por que você está tão agitado?",
         "es-ES": "¿Qué te sorprende tanto? ¿Qué estás mirando?"
     },
     "S6mFBw": {
-        "ko-KR": "그나저나 곧 시작할텐데 니힐은 어디로 갔을까요?",
         "en-US": "By the way, it is about to start. Where has Nyhill gone?",
         "pt-BR": "Ah, aliás, a cerimônia vai começar. Onde está Nihil?",
         "es-ES": "Por cierto, está a punto de empezar. ¿Dónde se metió Nyhill?"
     },
     "TKmFBw": {
-        "ko-KR": "니힐은 저 방에 있을까요? 별궁은 대공 할아버지가 계셔서 있기 싫다고 하셨는데.",
         "en-US": "Would Nyhill be in that room? He told me that he didn't like to stay in the Royal Villa because of grandpa archduke.",
         "pt-BR": "Será que Nihil está naquela sala?",
         "es-ES": "¿Estará en esa habitación? Me dijo que prefiere no estar en la villa real porque no le cae bien el abuelo archiduque."
     },
     "TamFBw": {
-        "ko-KR": "우리 저 방에 들어가봐요!",
         "en-US": "Let's get into that room!",
         "pt-BR": "Vamos lá!",
         "es-ES": "¡Vayamos a la habitación!"
     },
     "TqmFBw": {
-        "ko-KR": "괜찮아요?",
         "en-US": "Are you OK?",
         "pt-BR": "Você está bem?",
         "es-ES": "¿Te encuentras bien?"
     },
     "T6mFBw": {
-        "ko-KR": "불안정한 니힐",
         "en-US": "Unstable Nyhill",
         "pt-BR": "Nihil Inconsciente",
         "es-ES": "Nyhill Inestable"
     },
     "UKmFBw": {
-        "ko-KR": "[니힐]\n... 누구지?\n{0} ...?\n여긴 어쩐 일인가?",
         "en-US": "[Nihil]\n...Who's there?\n{0}...?\nWhat are you doing here?",
         "pt-BR": "[Nihil]\n...Quem está aí?\n{0}...?\nO que está fazendo aqui?",
         "es-ES": "[Nihil]\n…¿Quién está ahí?\n¿{0}…?\n¿Qué haces aquí?"
     },
     "UamFBw": {
-        "ko-KR": "..큭..",
         "en-US": "...Ha...",
         "pt-BR": "...Ha...",
         "es-ES": "…Ja…"
     },
     "UqmFBw": {
-        "ko-KR": "[니힐]\n..내가 취했나?\n심하게 머리가 아프군.\n..어지러워.....",
         "en-US": "[Nihil]\n...Am I drunk?\nMy head hurts.\n...I feel dizzy...",
         "pt-BR": "[Nihil]\n...Eu tô bêbado?\nMinha cabeça dói.\n...Tô muito tonto...",
         "es-ES": "[Nihil]\n…¿Estoy borracho?\nMe duele la cabeza.\n…Me siento mareado…"
     },
     "U6mFBw": {
-        "ko-KR": "[스키아]\n왜 여기 계세요?",
         "en-US": "[Skia]\nWhy are you here?",
         "pt-BR": "[Skia]\nO que você tá fazendo aqui?",
         "es-ES": "[Skia]\n¿Por qué estás aquí?"
     },
     "VKmFBw": {
-        "ko-KR": "[니힐]\n..아.. 취기가 도는 것 같아 지나가던 시종에게 쉴만한 곳으로 안내 해달라고 했는데.\n........음.......",
         "en-US": "[Nihil]\n...Oh... I felt tipsy and asked a chamberlain to guide me to somewhere I can take a rest.\n......Umm...",
         "pt-BR": "[Nihil]\n...Oh... eu me senti muito mal e pedi para a camareira me levar a algum lugar no qual eu pudesse descansar.\n......Umm...",
         "es-ES": "[Nihil]\n…Uf… Me sentía un poco entonado y le pedí a un mayordomo que me llevara a un lugar donde pudiera descansar.\n…Mmm…"
     },
     "VamFBw": {
-        "ko-KR": "[니힐]\n가벼운 샴페인이라더니....\n.....",
         "en-US": "[Nihil]\nHe told me it was light champagne...\n.....",
         "pt-BR": "[Nihil]\nEle me disse que era uma bebida leve...\n.....",
         "es-ES": "[Nihil]\nMe dijo que era un champán suave…\n....."
     },
     "VqmFBw": {
-        "ko-KR": "별일은 없었나?",
         "en-US": "Has anything happened to you?",
         "pt-BR": "O que houve?",
         "es-ES": "¿Te pasó algo?"
     },
     "V6mFBw": {
-        "ko-KR": "[니힐]\n딱히 모르겠군.\n그러고보니 선객이 있었던것 같은데 언제 나갔지?\n그런데 그대들은 어째서..?",
         "en-US": "[Nihil]\nI don't remember.\nI believe there was a guest here...\nBy the way, what brought you here?",
         "pt-BR": "[Nihil]\nEu não me lembro.\nAcho que havia um convidado aqui...\nAliás, o que te trouxe aqui?",
         "es-ES": "[Nihil]\nNo me acuerdo.\nCreo que había un huésped…\nPor cierto, ¿qué te trae por aquí?"
     },
     "WKmFBw": {
-        "ko-KR": "[스키아]\n아, 그냥 시간도 됐고 해서....",
         "en-US": "[Skia]\nWell, it is almost the time, so...",
         "pt-BR": "[Skia]\nEstá chegando a hora...",
         "es-ES": "[Skia]\nBueno, ya casi es hora, así que…"
     },
     "WamFBw": {
-        "ko-KR": "시간?",
         "en-US": "Time?",
         "pt-BR": "Hora do quê?",
         "es-ES": "¿Ya casi es hora?"
     },
     "WqmFBw": {
-        "ko-KR": "[니힐]\n그런가? 지금쯤 준비가 끝났을테지.\n여기서 시간을 허비하다간 또 안좋은 소리를 듣겠지.",
         "en-US": "[Nihil]\nI see. I guess all the preparation must have been made by now.\nI will be damned if I waste more time here.",
         "pt-BR": "[Nihil]\nTodas as preparações já devem ter sido feitas.",
         "es-ES": "[Nihil]\nYa veo. Supongo que ya se habrán hecho todos los preparativos.\nMe matarán si pierdo más tiempo aquí."
     },
     "W6mFBw": {
-        "ko-KR": "[니힐]\n얌전히 돌아가는게 좋겠군.\n후.. 다행히 서서히 정신이 맑아지는 기분이야.",
         "en-US": "[Nihil]\nI should get back now.\nPhew... Fortunately, my head is clearing up.",
         "pt-BR": "[Nihil]\nEu vou voltar agora.\nEstou começando a melhorar...",
         "es-ES": "[Nihil]\nDebería volver.\nFiu… Por suerte, se me está despejando la cabeza."
     },
     "XKmFBw": {
-        "ko-KR": "[니힐]\n그럼 이만 실례하지.",
         "en-US": "[Nihil]\nWell, then. Please excuse me.",
         "pt-BR": "[Nihil]\nBem... Com licença.",
         "es-ES": "[Nihil]\nPues bien. Si me disculpas…"
     },
     "XamFBw": {
-        "ko-KR": "[스키아]\n와-! 빠르셔라.\n그럼, 용사님 우리도 이만 갈까요?\n조만간 다시 뵙겠지만요.",
         "en-US": "[Skia]\nWhoa! He is fast.\nWell, hero. Shall we get back too?\nI'll see you again soon though.",
         "pt-BR": "[Skia]\nWhoa! Ele é rápido.\nBem... Vamos voltar, também?\nTe vejo em breve.",
         "es-ES": "[Skia]\n¡Vaya! Es rápido.\nBueno, valiente. ¿Nos vamos también?\nPero seguro te veré pronto."
     },
     "XqmFBw": {
-        "ko-KR": "[스키아]\n지금쯤 궁정마법사가 도착했을거에요.\n어서 방으로 돌아가요.",
         "en-US": "[Skia]\nThe Court Mage must have arrived by now.\nYou should go back to your room.",
         "pt-BR": "[Skia]\nO Mago da Corte deve ter chegado.\nVocê precisa voltar ao seu quarto.",
         "es-ES": "[Skia]\nEl mago de la corte ya debe haber llegado.\nMejor vuelve a tu habitación."
     },
     "X6mFBw": {
-        "ko-KR": "우리도 이만 돌아가도록 해요.",
         "en-US": "We should go back too.",
         "pt-BR": "Devemos voltar também.",
         "es-ES": "Deberíamos hacer lo mismo."

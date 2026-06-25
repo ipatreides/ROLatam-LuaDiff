@@ -1,72 +1,60 @@
 {
     "QLwSCg": {
-        "ko-KR": "신비한 과자집",
         "en-US": "Mysterious Candy Shop",
         "pt-BR": "Casinha de Bonecas",
         "es-ES": "Casa de Muñecas"
     },
     "QbwSCg": {
-        "ko-KR": "- You have too many items, -\nPlease organize your items and try again.",
         "en-US": "You have too many items, \nPlease organize your items and try again.",
         "pt-BR": "Você tem muitos itens.\nPor favor, reorganize seu inventário e tente novamente.",
         "es-ES": "Tienes muchos artículos.\nPor favor reorganice su inventario y vuelva a intentarlo."
     },
     "QrwSCg": {
-        "ko-KR": "[신비한 과자집]\n<ITEM>[냥다래 마일리지 쿠폰]<INFO>7000</INFO></ITEM>으로 다음의 교환이 가능합니다.",
         "en-US": "[Mysterious Candy Shop] \n<ITEM>[Costume Mileage Coin]<INFO>7000</INFO></ITEM> can be exchanged for the following.",
         "pt-BR": "[Casinha de Bonecas] \nEscolha uma das opções abaixo para usar seu <ITEM>[Moeda de Visual]<INFO>7000</INFO></ITEM>.",
         "es-ES": "[Casa de Muñecas]\nElija una de las opciones a continuación para utilizar su <ITEM>[Moneda de progreso decorativo]<INFO>7000</INFO></ITEM>."
     },
     "Q7wSCg": {
-        "ko-KR": "한정 의상",
         "en-US": "Limited Costume",
         "pt-BR": "Visual Exclusivo",
         "es-ES": "Visual exclusivo"
     },
     "RLwSCg": {
-        "ko-KR": "취소",
         "en-US": "Cancel",
         "pt-BR": "Cancelar",
         "es-ES": "Cancelar"
     },
     "RbwSCg": {
-        "ko-KR": "일반 의상",
         "en-US": "Normal Costume",
         "pt-BR": "Visual Comum",
         "es-ES": "Visual común"
     },
     "RrwSCg": {
-        "ko-KR": "상단 스톤",
         "en-US": "Top Stone",
         "pt-BR": "Pedra de Visual (Topo)",
         "es-ES": "Piedra visual (Superior)"
     },
     "R7wSCg": {
-        "ko-KR": "중단 스톤",
         "en-US": "Middle Stone",
         "pt-BR": "Pedra de Visual (Meio)",
         "es-ES": "Piedra visual (Centro)"
     },
     "SLwSCg": {
-        "ko-KR": "하단 스톤",
         "en-US": "Bottom Stone",
         "pt-BR": "Pedra de Visual (Baixo)",
         "es-ES": "Piedra visual (Inferior)"
     },
     "SbwSCg": {
-        "ko-KR": "걸칠것 일반 스톤",
         "en-US": "Wear Normal Stone",
         "pt-BR": "Pedra de Visual (Capa)",
         "es-ES": "Piedra visual (Manto)"
     },
     "SrwSCg": {
-        "ko-KR": "걸칠것 듀얼스톤 & 이펙트 스톤",
         "en-US": "Wear Dual Stone & Effect Stone",
         "pt-BR": "Pedra de Efeito & Pedra Dual",
         "es-ES": "Piedra de Efecto y Piedra Dual"
     },
     "S7wSCg": {
-        "ko-KR": "[신비한 과자집]\n당신이 가진 마일리지를 어떻게 교환할 수 있는지 보여드리겠습니다.",
         "en-US": "[Mysterious Candy Shop]\nI'll show you how to exchange the mileage you have.",
         "pt-BR": "[Casinha de Bonecas] \nDeixe-me mostrar como usar seus Cupons.",
         "es-ES": "[Casa de Muñecas]\nDéjame mostrarte cómo usar tus cupones."

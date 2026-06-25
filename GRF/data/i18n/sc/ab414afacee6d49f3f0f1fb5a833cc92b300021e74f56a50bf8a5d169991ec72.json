@@ -1,1821 +1,1821 @@
 {
     "AFD4DA": {
-        "en-US": "ÃàÁ¦À§¿øÀå ¼îÄÝ¶ó",
+        "en-US": "Sweets Festival Organizer",
         "pt-BR": "Organizadora do Festival Chocomania",
         "es-ES": "Organizadora del Festival de los Dulces"
     },
     "AVD4DA": {
-        "en-US": "<½ºÀ­Ã÷ ÃàÁ¦>",
+        "en-US": "<Sweets Festival>",
         "pt-BR": "<Chocomania>",
         "es-ES": "<Festival de los Dulces>"
     },
     "AlD4DA": {
-        "en-US": "- ¼ÒÁöÇÏ°í °è½Å ¾ÆÀÌÅÛÀÌ ¸¹¾Æ Äù½ºÆ®¸¦ ÁøÇàÇÒ ¼ö ¾ø½À´Ï´Ù. -",
+        "en-US": "- You cannot proceed with the quest because you have too many items in your inventory. -",
         "pt-BR": "- Você não pode continuar a missão, porque tem muitos itens no seu inventário. -",
         "es-ES": "- No puedes continuar la misión porque tienes demasiados objetos en tu inventario. -"
     },
     "A1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾È³çÇÏ¼¼¿ä~~~ ¸ðÇè°¡´Ô!!!\n¸¶Ä§ ÃàÁ¦ ±â°£¿¡ ¸ÂÃç¼­ ÀÌ °÷À» Ã£¾Æ¿À¼Ì±º¿ä~\nÁö±Ý ´çÀå ¸ðÇè°¡´Ô²² ºÎÅ¹ÇÒ °ÍÀÌ ÀÖÁö¸¸~!!",
+        "en-US": "[Chocola]\nHello, Adventurer!!!\nYou came just in time for the festival.\nI have a favor to ask you right now, but...",
         "pt-BR": "[Chocolai]\nOlá, Viajante!!!\nVocê chegou bem na época do festival.\nTenho um favor pra te pedir agora mesmo, mas...",
         "es-ES": "[Chocolai]\n¡¡¡Holaaa, Trotamundos!!!\nJusto llegaste a tiempo para el festival.\nTengo un favor que pedirte ahora mismo, pero..."
     },
     "BFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÀ½... À½... ¹º°¡ »ìÂ¦ ¾Æ½¬¿ö º¸ÀÌ´Â±º¿ä.\nÁ» ´õ ¼ºÀåÇÏ¼Å¼­ ½ºÀ­Ã÷ ÃàÁ¦ À§¿øÈ¸·Î È°µ¿ÇÏÁö ¾ÊÀ¸½Ã°Ú¾î¿ä~~?",
+        "en-US": "[Chocola]\nHm... Hm... You look slightly disappointed.\nHow about you grow a bit more and join the Sweets Festival Committee?",
         "pt-BR": "[Chocolai]\nHmm... É... Sua expressão parece decepcionada.\nQue tal você crescer um pouco mais e se juntar ao Comitê do Chocomania?",
         "es-ES": "[Chocolai]\nMmm... mmm... Tu cara parece decepcionada.\n¿Qué tal si creces un poco más y te unes al Comité del Festival de los Dulces?"
     },
     "BVD4DA": {
-        "en-US": "^4D4DFF·¹º§ 30 ÀÌ»ó ¼öÇà °¡´ÉÇÑ ÀÌº¥Æ® Äù½ºÆ®°¡ ÀÖ½À´Ï´Ù.^000000",
+        "en-US": "^4D4DFFThere is an event quest available from Level 30.^000000",
         "pt-BR": "^4D4DFFHá uma missão de evento disponível a partir do Nível 30.^000000",
         "es-ES": "^4D4DFFHay una misión de evento disponible a partir del Nivel 30.^000000"
     },
     "BlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¸ðÇè°¡´Ô~!!!\n¸ðÇè°¡´Ô, ¸ðÇè°¡´Ô, ¸ðÇè°¡´Ô~~!!\n¾Æ¾Æ.. ¹ÏÀ½Á÷ÇØ º¸ÀÌ´Â ¸ðÇè°¡´Ô!!",
+        "en-US": "[Chocola]\nAdventurer!!!\nAdventurer, Adventurer, Adventurer!\nOh... What a reliable-looking Adventurer!",
         "pt-BR": "[Chocolai]\nViajante!!!\nViajante, viajante, viajante!\nAh... Que viajante de aparência confiável",
         "es-ES": "[Chocolai]\n¡¡¡Trotamundos!!!\n¡¡Trotamundos, trotamundos, trotamundos!\n¡¡Ah... Qué trotamundos con pinta de buena gente!"
     },
     "B1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¸ðÇè°¡´ÔÀÇ µµ¿òÀÌ Àý½ÇÇÏ°Ô ÇÊ¿äÇÏ´ä´Ï´Ù...\nÀá±ñ ½Ã°£ÀÌ µÇ½Å´Ù¸é ÀúÀÇ ÀÌ¾ß±â¸¦ Á» µé¾îÁÖ½Ã°Ú¾î¿ä??",
+        "en-US": "[Chocola]\nI desperately need your help...\nIf you have a moment, would you listen to me?",
         "pt-BR": "[Chocolai]\nPreciso desesperadamente da sua ajuda...\nSe você tiver tempo, poderia me ouvir?",
         "es-ES": "[Chocolai]\nNecesito tu ayuda desesperadamente...\nSi tienes tiempo, ¿podrías escucharme??"
     },
     "CFD4DA": {
-        "en-US": "¹«½¼ ÀÏÀÌÁö?",
+        "en-US": "What's the matter?",
         "pt-BR": "O que foi?",
         "es-ES": "¿Qué pasa?"
     },
     "CVD4DA": {
-        "en-US": "°ü½É ¾ø¾î",
+        "en-US": "Not interested.",
         "pt-BR": "Não tenho interesse.",
         "es-ES": "No me interesa."
     },
     "ClD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾Æ.. ´ÙÇàÀÌ´Ù!\n¸ðÇè°¡´ÔÀÌ¶ó¸é ¸Å³â ÀÌ¸¾ ¶§ ¿­¸®´Â ½ºÀ­Ã÷ ÃàÁ¦¸¦ ¾Æ½Ç °Å¿¡¿ä.\n»ç¶ûÇÏ´Â »ç¶÷µéÀ» À§ÇØ ´ÞÄÞÇÑ ½ºÀ­Ã÷¸¦ ÁÖ°í ¹Þ´Â ÃàÁ¦ ¸»ÀÌ¿¡¿ä!",
+        "en-US": "[Chocola]\nOh, what a relief!\nAs you're an Adventurer, you must know about the Sweets Festival held around this time every year.\nIt's a festival for us to exchange sweet treats with our loved ones!",
         "pt-BR": "[Chocolai]\nAh, que alívio!\nJá que você é viajante, deve conhecer o Festival Chocomania que acontece por essa época todos os anos.\nÉ um festival para trocarmos doces com os nossos entes queridos!",
         "es-ES": "[Chocolai]\n¡Ah, qué alivio!\nCómo eres trotamundos, seguro que conoces el Festival de los Dulces que se celebra cada año por esas fechas.\n¡És un festival para intercambiarmos dulces con nuestros queridos amigos!"
     },
     "C1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n±× ÃàÁ¦ÀÇ À§¿øÀåÀ» ¸Ã°í ÀÖ´Â ^4D4DFF¼îÄÝ¶ó^000000¶ó°í ÇÕ´Ï´Ù!",
+        "en-US": "[Chocola]\nI'm ^4D4DFFChocola^000000, the President of this festival!",
         "pt-BR": "[Chocolai]\nSou ^4D4DFFChocolai^000000, a Presidente desse festival!",
         "es-ES": "[Chocolai]\n¡Soy ^4D4DFFChocolai^000000, la Presidente de ese festival!"
     },
     "DFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n½ºÀ­Ã÷ ¸Þ´º¸¦ ¸¸µé±â À§ÇØ ÇÊ¼öÀûÀ¸·Î »ç¿ëµÇ´Â ±ÍÇÑ Àç·á°¡ ÀÖ´Âµ¥¿ä.\n¹Ù·Î¹Ù·Î ±×°ÍÀº~~ ^4D4DFFÄ«Ä«¿ÀÄá^000000ÀÔ´Ï´Ù.\nÁ¤¸» °ñÄ¡ ¾ÆÇÁ°Ôµµ ±× ±íÀº ¸ÀÀ» ³ë¸®°í ´Þ·Áµå´Â ¹«¸®µéÀÌ ÀÛ³â¿¡µµ ÀÖ¾ú¾î¿ä.",
+        "en-US": "[Chocola]\nThere's a precious ingredient essential for creating sweet menu items, and it's called ^4D4DFFCacao Bean^000000.\nAnnoyingly, there were groups last year too that came after us to take advantage of that deep flavor.",
         "pt-BR": "[Chocolai]\nHá um ingrediente precioso e essencial para criar os itens do menu de doces e ele se chama ^4D4DFFGrão de Cacau^000000.\nO chato foi que alguns grupos no ano passado também vieram atrás de nós para se aproveitarem desse sabor intenso.",
         "es-ES": "[Chocolai]\nHay un ingrediente precioso y esencial para crear los ítens del menú de dulces y se llama ^4D4DFFGrano de Cacao^000000.\nLo malo es que el año pasado algunos grupos vinieron tras de nosotros para aprovecharse de ese sabor intenso."
     },
     "DVD4DA": {
-        "en-US": "±× ¹«¸®µéÀÇ Á¤Ã¼°¡ ¹¹¾ß?",
+        "en-US": "What groups are those?",
         "pt-BR": "Que grupos são esses?",
         "es-ES": "¿Qué grupos son?"
     },
     "DlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n^4D4DFF½ºÀ­Ã÷ µå·ÓÇÁ½º^000000¶ó´Â ¾ÆÁÖ °ñÄ©µ¢¾î¸®µéÀÌ¿¡¿ä!!\n½ºÀ­Ã÷ ÃàÁ¦ ¶§¸¶´Ù ³ªÅ¸³ª¼­ Ä«Ä«¿ÀÄáÀ» µµµÏÁúÇÏ±â ¶§¹®¿¡ ±×·¸°Ô ÀÌ¸§ÀÌ ºÙ¿©Áö°Ô µÇ¾ú´ä´Ï´Ù...",
+        "en-US": "[Chocola]\nThey're a real nuisance called ^4D4DFFSweet Drops^000000!!\nThey appear every Sweets Festival and steal Cacao Beans, hence the name...",
         "pt-BR": "[Chocolai]\nEles são um grande estorvo chamado ^4D4DFFQuindings^000000!\nEles aparecem em todos os Festivais Chocomania e roubam grãos de cacau, daí o nome adocicado...",
         "es-ES": "[Chocolai]\n¡¡Son una verdadera plaga llamada ^4D4DFFPoriflanes^000000!\nAparecen cada Festival de los Dulces y roban Granos de Cacao, por eso el nombre..."
     },
     "D1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¸Å¹ø ´ëºñ¸¦ Àß ÇØ¿Ô´Ù°í »ý°¢Çß´Âµ¥ ´Ã ¿©Áö¾øÀÌ ´çÇÏ°í ÀÖ´ä´Ï´Ù.\n±×·¡¼­ ÀÌ¹ø¿£ ±×³É °î¹° Ã¢°í¸¦ È°Â¦ ¿­¾î³õ¾Ò¾î¿ä!!",
+        "en-US": "[Chocola]\nI thought I prepared well each time, but I always end up losing to them.\nSo this time, I've left the grain warehouse wide open!",
         "pt-BR": "[Chocolai]\nToda vez pensei que tinha me preparado bem, mas sempre acabo perdendo pra eles.\nEntão dessa vez, deixei o armazém de grãos escancarado!",
         "es-ES": "[Chocolai]\nPensaba que me preparaba bien cada vez, pero siempre termino perdiendo contra ellos.\n¡¡Así que esta vez, he dejado el almacén de granos bien abierto!!"
     },
     "EFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾ó¸¶µçÁö °¡Á®°¡¶óÁö¿ä!! ´Ù½Ã µÇÃ£À¸¸é µÇ´Ï±î!\n±×·±µ¥ ´©°¡ µÇÃ£¾ÆÁÖÁö¿ä?",
+        "en-US": "[Chocola]\nTake as much as you want!! We'll just take it back!\nBut who will take it back?",
         "pt-BR": "[Chocolai]\nLevem o quanto quiserem!! Depois nós o recuperamos!\nMas quem o recuperará?",
         "es-ES": "[Chocolai]\n¡¡Llevaos todo lo que queráis!! ¡Ya lo recuperaremos!\n¿Pero quién lo recuperará?"
     },
     "EVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾Æ¾Æ... ¹Ù·Î ÀÌ ¾Õ¿¡ °è½Ã´Â±º¿ä!! ¹Ù»Ú½Ã°ÚÁö¸¸ Á¦ ºÎÅ¹À» µé¾îÁÖ¼¼¿ä.\nµµ¿ÍÁÖ¼¼¿ä, ¸ðÇè°¡´Ô!!!\nÀÌ´ë·Î¶ó¸é ÃàÁ¦¸¦ Á¤»óÀûÀ¸·Î ÁøÇàÇÒ ¼ö°¡ ¾ø¾î¿ä.",
+        "en-US": "[Chocola]\nAh... Here they are right in front of me!! I know you're busy, but please hear my request.\nHelp me, Adventurer!!!\nAt this rate, the festival can't proceed normally.",
         "pt-BR": "[Chocolai]\nAh... eles estão bem aqui na minha frente!! Sei que está ocupado(a), mas por favor atenda ao meu pedido.\nAjude-me, Viajante!!!\nA este passo, o festival não pode prosseguir normalmente.",
         "es-ES": "[Chocolai]\nAh... ¡¡Están justo delante de mí!! Sé que estás ocupado(a), pero por favor atiende mi petición.\n¡¡Ayúdame, Trotamundos!!!\nA este paso, el festival no puede continuar con normalidad."
     },
     "ElD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n±×·¯´Ï ±× ¸øµÈ ³à¼®µéÀ» È¥³»ÁÖ½Ç ¼ö ÀÖ³ª¿ä?\nÀú´Â ³Ê¹« ¿¬¾àÇÑ ¼Ò³à¶ó¼­ ±× ³à¼®µéÀ» ÀÀÂ¡ÇÒ ÈûÀÌ ¾ø´ä´Ï´Ù...",
+        "en-US": "[Chocola]\nSo, can you punish those naughty fellows?\nI'm just a fragile girl, I don't have the strength to discipline them...",
         "pt-BR": "[Chocolai]\nEntão, você pode punir esses sujeitos safados?\nSou apenas uma garota frágil, não tenho forças para os disciplinar...",
         "es-ES": "[Chocolai]\nEntonces, ¿puedes castigar a esos tipos traviesos?\nSolo soy una chica frágil, no tengo fuerzas para disciplinarlos..."
     },
     "E1D4DA": {
-        "en-US": "±×·¡, ¾Ë¾Ò¾î! ³»°¡ ¹» ÇÏ¸é µÇ´Â°ÅÁö?",
+        "en-US": "Alright, I got it! What do I need to do?",
         "pt-BR": "Certo, entendi! O que eu preciso fazer?",
         "es-ES": "¡Está bien, lo tengo! ¿Qué necesito hacer?"
     },
     "FFD4DA": {
-        "en-US": "°ÅÀýÇÑ´Ù.",
+        "en-US": "I refuse.",
         "pt-BR": "Eu recuso.",
         "es-ES": "Me niego."
     },
     "FVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾Æ~~ ¿ª½Ã!!\n¸ðÇè°¡´ÔÀÌ¶ó¸é Á¦ ºÎÅ¹À» µé¾îÁÖ½Ç °Í °°¾Ò¾î¿ä.\n±× ¾â¹Ó°í ¸øµÈ ^4D4DFF½ºÀ­Ã÷ µå·ÓÇÁ½º^000000µéÀ» Ã£¾Æ¼­ 10¸¶¸® Á¤µµ¸¸ È¥ÂáÀ» ³»ÁÖ½Ã°Ú¾î¿ä?",
+        "en-US": "[Chocola]\nAh~~ I knew it!!\nI had a feeling you, Adventurer, would accept my request.\nCould you find those annoying and wicked ^4D4DFFSweet Drops^000000 and teach about 10 of them a lesson?",
         "pt-BR": "[Chocolai]\nAh,  Sabia!\nEu tinha a sensação de que você, Viajante, aceitaria o meu pedido.\nVocê poderia encontrar esses ^4D4DFFQuindings^000000 irritantes e perversos e ensinar uma lição em pelo menos 10 deles?",
         "es-ES": "[Chocolai]\n¡¡Ah~~ Lo sabía!!\nTenía la corazonada de que tú, Trotamundos, aceptarías mi petición.\n¿Podrías encontrar a esos molestos y malvados ^4D4DFFPoriflanes^000000 y darles una lección a unos 10 de ellos?"
     },
     "FlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÃàÁ¦ À§¿øµéÀÇ Á¦º¸¿¡ µû¸£¸é ±×°ÍµéÀº »ç¹æÀ¸·Î »Ô»ÔÀÌ Èð¾îÁ®¼­ °¢ Áö¿ª¸¶´Ù ¹ß°ßµÇ°í ÀÖ´Ù°í ÇØ¿ä!\n°¨»çÇØ¿ä~~ ±â´Ù¸®°í ÀÖ°Ú½À´Ï´Ù¾Ñ!!",
+        "en-US": "[Chocola]\nAccording to reports from festival staff, they are scattered in all directions and can be found in every region!\nThank you~~ I'll be waiting!!",
         "pt-BR": "[Chocolai]\nDe acordo com relatos da equipe do festival, eles estão espalhados em todas as direções e podem ser encontrados em todas as regiões!\nMuito obrigada~~ Estarei esperando!!",
         "es-ES": "[Chocolai]\n¡Según informes del personal del festival, están esparcidos por todas partes y se les puede encontrar en cada región!\n¡¡Muchas gracias~~ Estaré esperando!!"
     },
     "F1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾Æ´Ï... ÁøÂ¥¿ä?\nÁ¦°¡ ÀÌ·¸°Ô ºÎÅ¹ÇÏ´Âµ¥, À¸...",
+        "en-US": "[Chocola]\nNo... really?\nI'm asking you this nicely, ugh...",
         "pt-BR": "[Chocolai]\nNão... a sério?\nEstou a pedir-lhe tão educadamente, ugh...",
         "es-ES": "[Chocolai]\n¿No... en serio?\nTe lo estoy pidiendo amablemente, ugh..."
     },
     "GFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾Æ...! ¾ÆÁ÷ ¸¶À½ÀÇ ÁØºñ°¡ µÇÁö ¾ÊÀ¸¼Ì³ªº¸´Ù!\nÁØºñ°¡ µÇ¸é ´Ù½Ã ¸»¾¸ ÁÖ¼¼¿ä!",
+        "en-US": "[Chocola]\nAh...! You must not be ready yet!\nPlease talk to me again when you are ready!",
         "pt-BR": "[Chocolai]\nAh...! Você não deve estar preparado(a) ainda!\nPor favor, fale comigo novamente quando estiver preparado(a)!",
         "es-ES": "[Chocolai]\n¡Ah...! ¡Seguro que aún no estás listo(a)!\n¡Por favor, vuelve a hablarme cuando estés preparado(a)!"
     },
     "GVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n³×....?\nÁ¦°¡ ÀÌ·¸°Ô Àý½ÇÇÑµ¥¿ä..?",
+        "en-US": "[Chocola]\nYes....?\nI'm in such desperate need..?",
         "pt-BR": "[Chocolai]\nSim....?\nÉ que preciso tanto disso..?",
         "es-ES": "[Chocolai]\n¿¿Sí....?\nEs que lo necesito tantísimo..?"
     },
     "GlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n^4D4DFF½ºÀ­Ã÷ µå·ÓÇÁ½º^000000µéÀº ¾ÆÁ÷ ¸Ö¸® µµ¸Á°¡Áö ¸øÇß¾î¿ä!\nÁÖº¯¿¡¼­ ½±°Ô ¹ß°ßÇÒ ¼ö ÀÖÀ» °ÍÀÌ´Ï ¾î¼­ ±× ³à¼®µé¿¡°Ô ¸ÅÄÞÇÑ ¸ÀÀ» º¸¿©ÁÖ¼¼¿ä!!",
+        "en-US": "[Chocola]\nThe ^4D4DFFSweet Drops^000000 haven't escaped far yet!\nYou can find them easily nearby, so go show them some spicy punishment!!",
         "pt-BR": "[Chocolai]\nOs ^4D4DFFQuindings^000000 ainda não fugiram para longe!\nPode encontrá-los facilmente nas proximidades, então vá mostrar-lhes um castigo bem apimentado!!",
         "es-ES": "[Chocolai]\n¡¡Los ^4D4DFFPoriflanes^000000 no han huido lejos todavía!\nPuedes encontrarlos fácilmente cerca, así que ¡¡ve y dales un buen castigo picante!!"
     },
     "G1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾î... ¸ðÇè°¡´ÔÀÇ ÀÇ±â¾ç¾çÇÑ Ç¥Á¤À» º¸¾ÆÇÏ´Ï..\n±× ³à¼®µéÀ» È¥Âá³»°í ¿À½Å ¸ð¾çÀÌ·Î±º¿ä!",
+        "en-US": "[Chocola]\nUh... Judging by your triumphant expression, Adventurer..\nIt seems you've taught those fellows a lesson!",
         "pt-BR": "[Chocolai]\nHum... A julgar pela sua expressão triunfante, Viajante..\nParece que você já deu uma lição naqueles sujeitos!",
         "es-ES": "[Chocolai]\nEh... Por tu expresión triunfante, Trotamundos..\n¡Parece que ya les diste una lección a esos tipos!"
     },
     "HFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÅ¯Å¯... ¸Â¾Æ¿ä. ÀÌ°Ç ±× ³à¼®µéÀÇ ³¿»õ¾ß.\nÀú´Â ³¿»õ·Î ¾Ë ¼ö ÀÖ´ä´Ï´Ù.",
+        "en-US": "[Chocola]\n*Sniff sniff*... That's right. That's their scent.\nI can tell by the smell.",
         "pt-BR": "[Chocolai]\n*Sniff sniff*... É isso mesmo. Esse é o cheiro deles.\nConsigo reconhecer pelo cheiro.",
         "es-ES": "[Chocolai]\n*Sniff sniff*... Así es. Ese es su olor.\nPuedo reconocerlo por el olfato."
     },
     "HVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¸ðÇè°¡´Ô¿¡°Ô ^4D4DFF½ºÀ­Ã÷ µå·ÓÇÁ½º^000000 10¸¶¸®ÀÇ ÀÜÇØ°¡ ´À²¸Á®¿ä.\nÁ¤¸» °¨»çÇÕ´Ï´Ù. ¼ÓÀÌ ³Ê¹« ½Ã¿øÇÏ³×¿ä~~",
+        "en-US": "[Chocola]\nI can sense the remains of 10 ^4D4DFFSweet Drops^000000 on you, Adventurer.\nThank you so much. This is so satisfying~~",
         "pt-BR": "[Chocolai]\nConsigo sentir os restos de 10 ^4D4DFFQuindings^000000 em você, Viajante.\nMuito obrigada. É muito satisfatório~~",
         "es-ES": "[Chocolai]\nPuedo sentir los restos de 10 ^4D4DFFPoriflanes^000000 en ti, Trotamundos.\nMuchísimas gracias. ¡¡Es muy satisfactorio~~"
     },
     "HlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÀÌ°Ç ½ºÀ­Ã÷ ÃàÁ¦ »óÇ°ÀÌ¿¡¿ä!\nÀúÀÇ ÀÛÀº ¼ºÀÇ´Ï±î ¹Þ¾ÆÁÖ¼¼¿ä.\n^4D4DFF½ºÀ­Ã÷ ÄÚÀÎ^000000µµ °°ÀÌ µå·È´Âµ¥¿ä~\nÃßÈÄ¿¡ ½ºÀ­Ã÷ »óÇ°À¸·Î ±³È¯ÇÏ´Â µ¥¿¡ »ç¿ëµÇ´Ï ¿ì¼± º¸°üÇÏ°í °è¼¼¿ä!",
+        "en-US": "[Chocola]\nThis is a Sweets Festival product!\nPlease accept it as a small token of my appreciation.\nI've also given you some ^4D4DFFSweet Coin^000000~\nThey'll be used later to exchange for Sweets merchandise, so keep them safe for now!",
         "pt-BR": "[Chocolai]\nIsto é um produto do Chocomania!\nPor favor, aceite-o como um pequeno gesto de minha gratidão.\nTambém lhe dei algumas ^4D4DFFChocoedas^000000~\nElas serão usadas mais tarde para trocar por mercadorias dos Doces, por isso guarde-as por enquanto!",
         "es-ES": "[Chocolai]\n¡Esto es un producto del Festival de los Dulces!\nAcepta esto como un pequeño detalle de mi agradecimiento.\n¡También te he dado unas ^4D4DFFChocomoneda^000000~\nMás tarde se usarán para intercambiar por ítens de dulces, así que ¡guárdalas por ahora!"
     },
     "H1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾Æ! ^4D4DFF½ºÀ­Ã÷ ÄÚÀÎ^000000Àº ^4D4DFF30000°³^000000 ÀÌ»ó º¸°üÀÌ ºÒ°¡´ÉÇÏ´Ï ÁÖÀÇ ºÎÅ¹µå¸³´Ï´Ù!",
+        "en-US": "[Chocola]\nAh! Please note that you cannot hold more than ^4D4DFF30,000^000000 ^4D4DFFSweet Coin^000000!",
         "pt-BR": "[Chocolai]\nAh! Note que você não pode carregar mais de ^4D4DFF30000^000000 ^4D4DFFChocoedas^000000!",
         "es-ES": "[Chocolai]\n¡Ah! ¡Ten en cuenta que no puedes tener más de ^4D4DFF30,000^000000 ^4D4DFFChocomoneda^000000!"
     },
     "IFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾Æ, ±×·±µ¥ ¸ðÇè°¡´Ô!\n^4D4DFF½ºÀ­Ã÷ µå·ÓÇÁ½º^000000µé·ÎºÎÅÍ Àü¸®Ç° °°Àº °Å ¾ø¾ú³ª¿ä?\n^4D4DFFµµµÏ¸ÂÀº Ä«Ä«¿ÀÄá^000000 ¸»ÀÌ¿¡¿ä!!",
+        "en-US": "[Chocola]\nAh, by the way, Adventurer!\nDid you happen to get any loot from the ^4D4DFFSweet Drops^000000?\nI mean ^4D4DFFStolen Cacao Beans^000000!!",
         "pt-BR": "[Chocolai]\nAh, já agora, Viajante!\nVocê por acaso conseguiu algum saque dos ^4D4DFFQuindings^000000?\nQuero dizer, ^4D4DFFGrãos de Cacau Roubados^000000!!",
         "es-ES": "[Chocolai]\n¡Ah, por cierto, Trotamundos!\n¿Conseguiste algún botín de los ^4D4DFFPoriflanes^000000?\n¡¡Me refiero a ^4D4DFFGranos de Cacao Robados^000000!!"
     },
     "IVD4DA": {
-        "en-US": "ÀÀ? ±×·¨´ø °Í °°±âµµ ÇÏ°í..",
+        "en-US": "Hmm? I think I might have...",
         "pt-BR": "Hum? Acho que sim...",
         "es-ES": "¿Hmm? Creo que tal vez..."
     },
     "IlD4DA": {
-        "en-US": "¾ø¾ú¾î.",
+        "en-US": "No, I didn't.",
         "pt-BR": "Não, não consegui.",
         "es-ES": "No, no conseguí."
     },
     "I1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾Æ ¸Â¾Æ¿ä...\nÁ¦°¡ ³Ê¹« ÈïºÐÇÑ ³ª¸ÓÁö °¡Àå Áß¿äÇÑ °ÍÀ» ÀØ°í ÀÖ¾ú³×¿ä.\n^4D4DFFµµµÏ¸ÂÀº Ä«Ä«¿ÀÄá^000000À» µÇÃ£¾Æ ¿Í¾ß ÇØ¿ä.",
+        "en-US": "[Chocola]\nAh, that's right...\nI got so excited that I forgot the most important thing.\nI need you to retrieve the ^4D4DFFStolen Cacao Beans^000000.",
         "pt-BR": "[Chocolai]\nAh, é verdade...\nFiquei tão animada que me esqueci da parte mais importante.\nPreciso que recupere os ^4D4DFFGrãos de Cacau Roubados^000000.",
         "es-ES": "[Chocolai]\nAh, eso es...\nMe emocioné tanto que olvidé lo más importante.\nNecesito que recuperes los ^4D4DFFGranos de Cacao Robados^000000."
     },
     "JFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n^4D4DFF½ºÀ­Ã÷ µå·ÓÇÁ½º^000000µéÀÌ ÈÉÃÄ°£ °ÍµéÀÌ¿ä!!\n±× ³à¼®µé·ÎºÎÅÍ ^4D4DFFµµµÏ¸ÂÀº Ä«Ä«¿ÀÄá^000000À» µÇÃ£¾Æ ÁÖ¼¼¿ä.\n^4D4DFF20^000000°³¸¸ ºÎÅ¹ÇØ¿ä!!",
+        "en-US": "[Chocola]\nThe things the ^4D4DFFSweet Drops^000000 stole!!\nPlease retrieve the ^4D4DFFStolen Cacao Beans^000000 from those fellows.\nJust ^4D4DFF20^000000 of them, please!!",
         "pt-BR": "[Chocolai]\nAs coisas que os ^4D4DFFQuindings^000000 roubaram!!\nPor favor, recupere os ^4D4DFFGrãos de Cacau Roubados^000000 desses indivíduos.\nApenas ^4D4DFF20^000000 deles, por favor!!",
         "es-ES": "[Chocolai]\n¡¡Las cosas que robaron los ^4D4DFFPoriflanes^000000!!\nPor favor, recupera los ^4D4DFFGranos de Cacao Robados^000000 de esos tipos.\n¡¡Solo ^4D4DFF20^000000, por favor!!"
     },
     "JVD4DA": {
-        "en-US": "ÀÀ, ¸Ã°ÜÁà!",
+        "en-US": "Sure, leave it to me!",
         "pt-BR": "Claro, deixa comigo!",
         "es-ES": "¡Claro, déjamelo a mí!"
     },
     "JlD4DA": {
-        "en-US": "¹Ì¾È, ³»°¡ ¹Ùºü¼­.",
+        "en-US": "Sorry, I'm busy.",
         "pt-BR": "Desculpa, estou ocupado(a).",
         "es-ES": "Lo siento, estoy ocupado(a)."
     },
     "J1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¿ª½Ã~~ ¹ÏÀ½Á÷ÇÑ ¸ðÇè°¡´ÔÀÌ½Ã³×¿ä~\n¸ðÇè°¡´Ô ´öºÐ¿¡ ÀÌ¹ø ÃàÁ¦µµ ¹«»çÈ÷ Ä¡¸¦ ¼ö ÀÖÀ» °Í °°³×¿ä.\nÁ¶½ÉÈ÷ ´Ù³à¿À¼¼¿ä!",
+        "en-US": "[Chocola]\nAs expected! You're such a reliable Adventurer!\nThanks to you, I think this year's festival will go smoothly.\nBe careful and come back!",
         "pt-BR": "[Chocolai]\nComo esperado! Você é um(a) Viajante tão confiável\nGraças a você, acho que o festival deste ano correrá bem.\nTome cuidado e volte logo!",
         "es-ES": "[Chocolai]\n¡Como esperaba! ¡Eres un(a) Trotamundos de lo más fiable!\nGracias a ti, creo que el festival de este año irá sobre ruedas.\n¡Ten cuidado y vuelve!"
     },
     "KFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÀ¸... ÀÌÁ¦ºÎÅÍ°¡ Áß¿äÇÑµ¥...\n»óÈ² µÇ½Ç ¶§ ´Ù½Ã Àú¸¦ Ã£¾Æ¿ÍÁÖ¼¼¿ä.\n°¨»çÇÕ´Ï´Ù!!",
+        "en-US": "[Chocola]\nUgh... Now comes the important part...\nPlease come back to me when you have the chance.\nThank you!!",
         "pt-BR": "[Chocolai]\nUgh... Agora vem a parte importante...\nPor favor, volte a falar comigo quando tiver oportunidade.\nObrigada!!",
         "es-ES": "[Chocolai]\nUgh... Ahora viene la parte importante...\nPor favor, vuelve a mí cuando tengas oportunidad.\n¡¡Gracias!!"
     },
     "KVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾Æ, ¸ðÇè°¡´Ô!\n´Ù½Ã Ã£¾Æ¿ÍÁÖ½Ç °Å¶ó°í ¹Ï°í ÀÖ¾ú´ä´Ï´Ù.",
+        "en-US": "[Chocola]\nAh, Adventurer!\nI believed you would come back.",
         "pt-BR": "[Chocolai]\nAh, Viajante!\nAcreditei que você voltaria.",
         "es-ES": "[Chocolai]\n¡Ah, Trotamundos!\nCreía que volverías."
     },
     "KlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n^4D4DFFµµµÏ¸ÂÀº Ä«Ä«¿ÀÄá^000000 20°³¸¸ ±× ³à¼®µé·ÎºÎÅÍ µÇÃ£¾ÆÁÖ¼¼¿ä.\n±× ³à¼®µéÀÌ ´©±¸³Ä°í¿ä?\n^4D4DFF½ºÀ­Ã÷ µå·ÓÇÁ½º^000000 ÀÔ´Ï´Ù. ¾îµô °¡µç ½±°Ô Ã£À¸½Ç ¼ö ÀÖÀ»°Å¿¡¿ä.\nÁ¦ ºÎÅ¹, µé¾îÁÖ½Ç°ÅÁÒ??",
+        "en-US": "[Chocola]\nPlease retrieve 20 ^4D4DFFStolen Cacao Beans^000000 from those fellows.\nWho are those fellows, you ask?\nThey're ^4D4DFFSweet Drops^000000. You can find them easily anywhere you go.\nYou will accept my request, right??",
         "pt-BR": "[Chocolai]\nPor favor, recupere 20 ^4D4DFFGrãos de Cacau Roubados^000000 desses indivíduos.\nQuem são esses indivíduos, pergunta?\nEles são os ^4D4DFFQuindings^000000. Pode encontrá-los facilmente onde quer que vá.\nVocê aceitará o meu pedido, certo??",
         "es-ES": "[Chocolai]\nPor favor, recupera 20 ^4D4DFFGranos de Cacao Robados^000000 de esos tipos.\n¿Que quiénes son esos tipos?\nSon ^4D4DFFPoriflanes^000000. Puedes encontrarlos fácilmente dondequiera que vayas.\nAceptarás mi petición, ¿¿verdad??"
     },
     "K1D4DA": {
-        "en-US": "ÀÀ, ¸Ã°ÜÁà.",
+        "en-US": "Sure, leave it to me.",
         "pt-BR": "Claro, deixa comigo.",
         "es-ES": "Claro, déjamelo a mí."
     },
     "LFD4DA": {
-        "en-US": "´ÙÀ½¿¡ ÇÒ°Ô.",
+        "en-US": "I'll do it later.",
         "pt-BR": "Farei isso mais tarde.",
         "es-ES": "Lo haré más tarde."
     },
     "LVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾Æ...\n³×, ´Ù½Ã ¿À½Ç°ÅÁÒ...?\n±â´Ù¸®°í ÀÖ°Ú½À´Ï´Ù!!",
+        "en-US": "[Chocola]\nAh...\nYes, you will come back, right...?\nI'll be waiting!!",
         "pt-BR": "[Chocolai]\nAh...\nSim, você voltará, certo...?\nEstarei esperando!!",
         "es-ES": "[Chocolai]\nAh...\nSí, volverás, ¿verdad...?\n¡¡Estaré esperando!!"
     },
     "LlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n^4D4DFF½ºÀ­Ã÷ µå·ÓÇÁ½º^000000´Â ÇöÀç ¾îµô °¡¼Åµµ ½±°Ô Ã£À» ¼ö ÀÖÀ» °Å¿¡¿ä.\n±× ³à¼®µé·ÎºÎÅÍ ^4D4DFFµµµÏ¸ÂÀº Ä«Ä«¿ÀÄá 20°³^000000¸¦ µÇÃ£¾Æ ÁÖ¼¼¿ä!\n°¨»çÇÕ´Ï´Ù, ¸ðÇè°¡´Ô. ±â´Ù¸®°í ÀÖÀ»°Ô¿ä!!",
+        "en-US": "[Chocola]\nYou can easily find ^4D4DFFSweet Drops^000000 anywhere you go right now.\nPlease retrieve ^4D4DFF20 Stolen Cacao Beans^000000 from them!\nThank you, Adventurer. I'll be waiting!!",
         "pt-BR": "[Chocolai]\nVocê pode encontrar facilmente ^4D4DFFQuindings^000000 agora em qualquer lugar onde vá.\nPor favor, recupere ^4D4DFF20 Grãos de Cacau Roubados^000000 deles!\nObrigada, Viajante. Estarei esperando!!",
         "es-ES": "[Chocolai]\nAhora mismo puedes encontrar fácilmente ^4D4DFFPoriflanes^000000 dondequiera que vayas.\n¡¡Por favor, recupera ^4D4DFF20 Granos de Cacao Robados^000000 de ellos!\nGracias, Trotamundos. ¡¡Estaré esperando!!"
     },
     "L1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¿Í, ¿ª½Ã!!!\n¹ÏÀ½Á÷ÇÑ ¸ðÇè°¡´ÔÀÌ½Ã±º¿ä.\nÀç·á¸¦ µÇÃ£¾ÒÀ¸´Ï ÀÌÁ¦ ^4D4DFF³³Ç°¿ë ÃÊÄÝ·¿^000000À» ¸¸µé ¼ö ÀÖ°Ô µÇ¾ú¾î¿ä.",
+        "en-US": "[Chocola]\nWow, as expected!!!\nYou're such a reliable Adventurer.\nNow that we've retrieved the ingredients, I can make ^4D4DFFConsignment Chocolates^000000.",
         "pt-BR": "[Chocolai]\nUau, como esperado!!!\nVocê é um(a) Viajante muito confiável.\nAgora que recuperamos os ingredientes, posso fazer ^4D4DFFChocolaites em Barra^000000.",
         "es-ES": "[Chocolai]\n¡¡Guau, como esperaba!!!\nEres un(a) Trotamundos de lo más fiable.\nAhora que recuperamos los ingredientes, puedo hacer ^4D4DFFChocolaites de Consignación^000000."
     },
     "MFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÃàÁ¦ À§¿øÀåÀÎ ¼îÄÝ¶ó°¡ °ü°èÀÚµé Àü¿øÀ» ´ëÇ¥ÇÏ¿© Áø½ÉÀ¸·Î °¨»çÀÇ ÀÎ»ç¸¦ µå·Á¿ä!!\nÀÚ, °¨»çÀÇ ÀÇ¹Ì·Î ÀÛÀº ¼±¹°À» ÁØºñÇßÀ¸´Ï ¹Þ¾ÆÁÖ¼¼¿ä.",
+        "en-US": "[Chocola]\nAs the festival organizer Chocola, speaking on behalf of all staff, I offer you my sincere gratitude!!\nHere, please accept this small gift as a token of my appreciation.",
         "pt-BR": "[Chocolai]\nComo organizadora do festival Chocolai, em nome de toda a equipa, ofereço a minha sincera gratidão!!\nAqui, por favor, aceite este pequeno presente como prova do meu apreço.",
         "es-ES": "[Chocolai]\n¡¡Como organizadora del festival Chocolai, en nombre de todo el personal, te ofrezco mi más sincero agradecimiento!!\nToma, por favor acepta este pequeño regalo como muestra de mi aprecio."
     },
     "MVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾Æ, ±×·¯°íº¸´Ï...\nÄ«Ä«¿ÀÄá È¸¼ö °ÇÀ¸·Î ´Ùµé ÀÚ¸®¸¦ ºñ¿ì¼Å¼­ ¹è´ÞÀ» ÇØ ÁÖ½Ç ºÐÀÌ Áö±Ý ¾È°è½Ã´Â±¸³ª...",
+        "en-US": "[Chocola]\nAh, come to think of it...\nEveryone is away recovering the Cacao Beans, so there's no one to do the deliveries right now...",
         "pt-BR": "[Chocolai]\nAh, já agora...\nTodos estão ausentes a recuperar os Grãos de Cacau, por isso não há ninguém para fazer as entregas agora...",
         "es-ES": "[Chocolai]\nAh, ahora que lo pienso...\nTodo el mundo está fuera recuperando los Granos de Cacao, así que no hay nadie para hacer las entregas ahora mismo..."
     },
     "MlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾Æ¾Ñ! ¸ðÇè°¡´Ô Àá±ñ¸¸...\nÀÌ¿Õ ÀÌ·¸°Ô µÈ °Å, ºÎÅ¹ÀÌ ¶Ç ÀÖ¾î¿ä!!!",
+        "en-US": "[Chocola]\nAah! Adventurer, wait a moment...\nSince we've come this far, I have another favor to ask!!!",
         "pt-BR": "[Chocolai]\nAah! Viajante, espere um momento...\nJá que chegámos até aqui, tenho mais um pedido para fazer!!!",
         "es-ES": "[Chocolai]\n¡¡Aah! Trotamundos, espera un momento...\nYa que hemos llegado hasta aquí, ¡¡¡tengo otro favor que pedirte!!!"
     },
     "M1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n^4D4DFF³³Ç°¿ë ÃÊÄÝ·¿^000000Àº Á¦°¡ ±Ý¹æ ¸¸µé ¼ö ÀÖ´Âµ¥¿ä~\n±Ý¹æ ¸¸µå´Ï±î Àá½Ã µÚ¿¡ Àú¿¡°Ô ´Ù½Ã ¸»À» °É¾îÁÖ½Ã°Ú¾î¿ä?",
+        "en-US": "[Chocola]\nI can make the ^4D4DFFConsignment Chocolates^000000 in no time~\nSince it'll be quick, could you talk to me again in a little while?",
         "pt-BR": "[Chocolai]\nPosso fazer os ^4D4DFFChocolaites em Barra^000000 num instante~\nComo será rápido, importa-se de falar comigo novamente daqui a pouco?",
         "es-ES": "[Chocolai]\nPuedo hacer los ^4D4DFFChocolaites de Consignación^000000 en un santiamén~\nComo será rápido, ¿podrías volver a hablarme dentro de un rato?"
     },
     "NFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÈÄÈÄ, Àü ¸ðÇè°¡´ÔÀÌ ´Ù½Ã Ã£¾Æ¿À½Ç ÁÙ ¾Ë¾Ò¾î¿ä.\n³³Ç°ÇÒ ÃÊÄÝ·¿À» ¹è´ÞÇÒ ÀÎ·ÂÀÌ ¾ø´ä´Ï´Ù.\n´Ùµé µµµÏ¸ÂÀº Ä«Ä«¿ÀÄáÀ» È¸¼öÇÏ´À¶ó Á¤½ÅÀÌ ¾ø¾î¼­¿ä...",
+        "en-US": "[Chocola]\nHehe, I knew you'd come back, Adventurer.\nThere's no one to deliver the chocolates for consignment.\nEveryone is busy retrieving the stolen cacao beans...",
         "pt-BR": "[Chocolai]\nHehe, sabia que você voltaria, Viajante.\nNão há ninguém para entregar os Chocolaites para consignação.\nTodos estão ocupados a recuperar os Grãos de Cacau Roubados...",
         "es-ES": "[Chocolai]\nJeje, sabía que volverías, Trotamundos.\nNo hay nadie para entregar los Chocolaites de consignación.\nTodo el mundo está ocupado recuperando los Granos de Cacao Robados..."
     },
     "NVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n±×·¯´Ï ÀÌ¹ø¿¡µµ Àú¸¦ µµ¿ÍÁÖ¼ÌÀ¸¸é ÁÁ°Ú½À´Ï´Ù.\nºû³ª´Â ¹è´ÞÀÇ Á¤½ÅÀ» º¸¿©ÁÖ½Ç°ÅÁÒ?!",
+        "en-US": "[Chocola]\nSo I'd like you to help me again this time.\nYou'll show that shining spirit of delivery, right?!",
         "pt-BR": "[Chocolai]\nEntão, gostaria que você me ajudasse novamente desta vez.\nVocê mostrará esse espírito de entrega brilhante, certo?!\"",
         "es-ES": "[Chocolai]\nAsí que me gustaría que me ayudaras de nuevo esta vez.\n¡Mostrarás ese brillante espíritu de entrega, ¿no?!\""
     },
     "NlD4DA": {
-        "en-US": "±×·¡, ¸Â´Ù.",
+        "en-US": "Yeah, that's right.",
         "pt-BR": "Sim, é verdade.",
         "es-ES": "Sí, así es."
     },
     "N1D4DA": {
-        "en-US": "¾Æ´Ñµ¥?",
+        "en-US": "No, not really.",
         "pt-BR": "Não, na verdade não.",
         "es-ES": "No, la verdad que no."
     },
     "OFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¿À! ±×·³ ÀÌ ^4D4DFF³³Ç°¿ë ÃÊÄÝ·¿^000000À» ½ºÀ­Ã÷ »óÁ¡¿¡ ¹è´Þ ÇØ ÁÖ¼¼¿ä.\n°¢ »óÁ¡º° À§Ä¡¸¦ Àû¾îµå¸±°Ô¿ä.",
+        "en-US": "[Chocola]\nOh! Then please deliver these ^4D4DFFConsignment Chocolates^000000 to the Sweets Shops.\nI'll write down the location of each shop.",
         "pt-BR": "[Chocolai]\nAh! Então, por favor, entregue estes ^4D4DFFChocolaites em Barra^000000 nas Lojas de Doces.\nVou anotar a localização de cada loja.\"",
         "es-ES": "[Chocolai]\n¡Oh! Entonces, por favor, entrega estos ^4D4DFFChocolaites de Consignación^000000 en las Tiendas de Dulces.\nTe anotaré la ubicación de cada tienda.\""
     },
     "OVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¹è´ÞÀ» ÇÏ½Ã°Ô µÇ¸é °¢ »óÁ¡º°·Î ÁØºñµÈ Æ¯º° »óÇ°À» ¹ÞÀ¸½Ç ¼ö ÀÖÀ»°Å¿¡¿ä.\n±×°ÍÀ» ²À ¹Þ¾Æ¿Í ÁÖ¼¼¿ä!\n±×·³ ºÎÅ¹µå¸³´Ï´Ù~!",
+        "en-US": "[Chocola]\nWhen you make the deliveries, you'll receive special products prepared by each shop.\nPlease be sure to bring them back!\nThen, I leave it to you~!",
         "pt-BR": "[Chocolai]\nQuando fizer as entregas, receberá produtos especiais preparados por cada loja.\nPor favor, não se esqueça de os trazer!\nEntão, eu deixo isso consigo~!",
         "es-ES": "[Chocolai]\nCuando hagas las entregas, recibirás productos especiales preparados por cada tienda.\n¡Por favor, asegúrate de traerlos!\n¡Entonces, te lo dejo a ti~!"
     },
     "OlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÇá.. ÀÌ·²¼ö°¡. ¾Æ´Ï¶ó´Ï, ±×·²¸®°¡ ¾ø´Âµ¥...?\n¸ðÇè°¡¶ó¸é ±â°£ ÇÑÁ¤ ÀÌº¥Æ® Äù½ºÆ®¸¦ ³õÄ¥¸®°¡ ¾ø´Âµ¥...?\n...´Ù½Ã ÇÑ ¹ø »ý°¢ÇØ º¸¼¼¿ä.",
+        "en-US": "[Chocola]\n*Sigh*... No way. That can't be right...?\nAn Adventurer wouldn't miss a limited-time event quest, would they...?\n...Please think again.",
         "pt-BR": "[Chocolai]\n*Suspiro*... De jeito nenhum. Isso não pode estar certo...?\nUm(a) Viajante não perderia uma missão de evento por tempo limitado, pois não...?\n...Por favor, pense novamente.",
         "es-ES": "[Chocolai]\n*Suspiro*... No puede ser. Eso no puede estar bien...?\nUn@ Trotamundos no se perdería una misión de evento por tiempo limitado, ¿no...?\n...Por favor, piénsalo de nuevo."
     },
     "O1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n°¢ µµ½Ã¿¡ ÀÖ´Â ½ºÀ­Ã÷ »óÁ¡¿¡ ^4D4DFF³³Ç°¿ë ÃÊÄÝ·¿^000000À» ¹è´ÞÇØ ÁÖ¼¼¿ä.\n±×·¡¾ß º»°ÝÀûÀÎ ½ºÀ­Ã÷ ÃàÁ¦°¡ ½ÃÀÛµÇ°Åµç¿ä!",
+        "en-US": "[Chocola]\nPlease deliver the ^4D4DFFConsignment Chocolates^000000 to the Sweets Shops in each city.\nThen the real Sweets Festival can begin!",
         "pt-BR": "[Chocolai]\nPor favor, entregue os ^4D4DFFChocolaites em Barra^000000 nas Lojas de Doces de cada cidade.\nAssim, o verdadeiro Chocomania pode começar!",
         "es-ES": "[Chocolai]\nPor favor, entrega los ^4D4DFFChocolaites de Consignación^000000 en las Tiendas de Dulces de cada ciudad.\n¡Entonces el verdadero Festival de los Dulces puede comenzar!"
     },
     "PFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾îµðº¸ÀÚ¾Æ~ ¹è´ÞÀº Àß ´Ù³à¿À¼Ì°í~\nÀÌ¹ø ÃàÁ¦ ½ÃÁð »óÇ°Àº ¹¹¿´³ª¿ä?\nÁ¦´ë·Î °¡Á®¿À¼ÌÁÒ?",
+        "en-US": "[Chocola]\nLet's see~ You've made the deliveries well~\nWhat were this season's products?\nYou brought them properly, right?",
         "pt-BR": "[Chocolai]\nDeixe-me ver~ Você fez as entregas bem~\nQuais foram os produtos desta época?\nVocê os trouxe corretamente, não trouxe?",
         "es-ES": "[Chocolai]\nA ver~ Has hecho las entregas bien~\n¿Cuáles eran los productos de esta temporada?\nLos trajiste correctamente, ¿verdad?"
     },
     "PVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÈ£¿À.. °¢ »óÁ¡ÀÇ ½ÃÁð »óÇ°µéÀÌ±º¿ä.\n¸Â¾Æ¿ä. ±â¾È¿¡ ¿Ã¶ó¿Â ±×´ë·Î ¸¸µé¾îÁÖ¼Ì³×¿ä.",
+        "en-US": "[Chocola]\nOh ho... These are the seasonal products from each shop.\nThat's right. You've made them exactly as stated in the proposal.",
         "pt-BR": "[Chocolai]\nOh ho... Estes são os produtos sazonais de cada loja.\nIsso mesmo. Você os fez exatamente como estava na proposta.",
         "es-ES": "[Chocolai]\nOh ho... Estos son los productos de temporada de cada tienda.\nAsí es. Los has hecho exactamente como estaba en la propuesta."
     },
     "PlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¿ÃÇØµµ ÀÌ ¾ÆÀÌÅÛÀ» ÁÖ·ÂÀ¸·Î ÇÑ´Ù¸é ÃàÁ¦´Â ¹®Á¦ ¾ø°Ú¾î¿ä.\n¸ðÇè°¡´Ô! µµ¿òÀÌ ÇÏ³ª ´õ ÇÊ¿äÇÑµ¥¿ä~",
+        "en-US": "[Chocola]\nIf we focus on these items this year too, the festival will have no problems.\nAdventurer! I need one more favor~",
         "pt-BR": "[Chocolai]\nSe nos concentrarmos nestes itens este ano também, o festival não terá problemas.\nViajante! Preciso de mais um favor~",
         "es-ES": "[Chocolai]\nSi nos centramos en estos objetos este año también, el festival no tendrá problemas.\n¡Trotamundos! Necesito un favor más~"
     },
     "P1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¿ì¸®´Â ½ºÀ­Ã÷ ÃàÁ¦ÀÇ Ã¹ ¹øÂ° ½ÃÁð »óÇ°À» Ç×»ó ¼±¹°ÇÏ´Â °ÍÀ¸·Î ½ÃÀÛÇØ¿ä.",
+        "en-US": "[Chocola]\nWe always start the Sweets Festival by giving away the first seasonal product as a gift.",
         "pt-BR": "[Chocolai]\nNós começamos sempre o Chocomania a oferecer o primeiro produto sazonal como presente.",
         "es-ES": "[Chocolai]\nSiempre comenzamos el Festival de los Dulces regalando el primer producto de temporada."
     },
     "QFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¸ðÇè°¡´Ô²²¼­ ÀÌ ½ºÀ­Ã÷¿¡ ´ã±ä »ç¶ûÀÇ Àü·ÉÀÌ µÇ¾î ¿©·¯ »ç¶÷µéÀÌ°Ô Çàº¹À» ÀüÇØÁÖ¼ÌÀ¸¸é ÁÁ°Ú¾î¿ä.",
+        "en-US": "[Chocola]\nI hope you can become a herald of love contained in these sweets and deliver happiness to many people.",
         "pt-BR": "[Chocolai]\nEspero que você possa tornar-se um arauto do amor contido nestes doces e levar felicidade a muitas pessoas.",
         "es-ES": "[Chocolai]\nEspero que puedas convertirte en un heraldo del amor contenido en estos dulces y llevar felicidad a mucha gente."
     },
     "QVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÀü ¸ðÇè°¡´ÔÀÌ¾ß¸»·Î ÁøÁ¤ÇÑ ½ºÀ­Ã÷ ÃàÁ¦ÀÇ Àü·ÉÀÌ¶ó°í »ý°¢ÇØ¿ä!",
+        "en-US": "[Chocola]\nI think you, Adventurer, are the true herald of the Sweets Festival!",
         "pt-BR": "[Chocolai]\nEu acho que você, Viajante, é o verdadeiro arauto do Chocomania!",
         "es-ES": "[Chocolai]\n¡Creo que tú, Trotamundos, eres el verdadero heraldo del Festival de los Dulces!"
     },
     "QlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÀÚÀÚ, ÀÌ°ÍÀÌ¾ß¸»·Î Çàº¹ÇÑ ¿©Á¤ÀÌ¶ø´Ï´Ù.\n½ºÀ­Ã÷ ÃàÁ¦´Â »ç¶ûÀ» Àü´ÞÇÏ´Â ÃàÁ¦¶ó´Â °ÍÀº ¾Ë°í °è½ÃÁÒ?\n°¢ »óÁ¡¿¡¼­ ¹Þ¾Æ¿Â ½ºÀ­Ã÷µéÀ» »ç¶÷µé¿¡°Ô ³ª´²ÁÖ´Â °Ì´Ï´Ù!",
+        "en-US": "[Chocola]\nCome on, this is a happy journey.\nYou know that the Sweets Festival is about delivering love, right?\nYou'll distribute the sweets you got from each shop to the people!",
         "pt-BR": "[Chocolai]\nVamos, esta é uma jornada feliz.\nVocê sabe que o Chocomania é sobre entregar amor, certo?\nVocê distribuirá os doces que obteve de cada loja às pessoas!",
         "es-ES": "[Chocolai]\nVamos, este es un viaje feliz.\nSabes que el Festival de los Dulces trata de entregar amor, ¿verdad?\n¡Repartirás los dulces que conseguiste de cada tienda a la gente!"
     },
     "Q1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÃàÁ¦ À§¿øµé·ÎºÎÅÍ Àü´Þ ¹ÞÀº ³»¿ëÀ» º¸¾ÆÇÏ´Ï...\nÀÌ¹ø ÇØ¿¡´Â ´Ù¼Ò »ç¿¬ÀÌ ÀÖ´Â ºÐµéÀÌ °è½Ã³×¿ä.",
+        "en-US": "[Chocola]\nAccording to what I've heard from the festival staff...\nThere are some people with particular stories this year.",
         "pt-BR": "[Chocolai]\nDe acordo com o que ouvi da equipa do festival...\nHá algumas pessoas com histórias particulares este ano.",
         "es-ES": "[Chocolai]\nSegún lo que he oído al personal del festival...\nHay algunas personas con historias particulares este año."
     },
     "RFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÀÚ, ±×ºÐµéÀÇ ¸í´ÜÀ» Àû¾î ³õ¾ÒÀ¸´Ï ÀÌ°ÍÀ» Âü°í ºÎÅ¹µå¸³´Ï´Ù.\n±×ºÐµé¿¡°Ô ¾î¿ï¸±¸¸ÇÑ ¸Þ´ºµµ °¢°¢ Àû¾î³õ¾ÒÀ¸´Ï ²À ÀüÇØ ÁÖ¼¼¿ä.",
+        "en-US": "[Chocola]\nHere, I've written down their names, so please refer to this.\nI've also written down menu items suitable for each of them, so please be sure to deliver them.",
         "pt-BR": "[Chocolai]\nAqui, anotei os nomes deles, por favor, consulte isto.\nTambém anotei itens de menu adequados para cada um deles, por isso, por favor, não se esqueça de os entregar.",
         "es-ES": "[Chocolai]\nAquí, he anotado sus nombres, así que consúltalo.\nTambién he anotado los platos adecuados para cada uno de ellos, así que asegúrate de entregarlos."
     },
     "RVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¸¸¾à ^4D4DFF½ºÀ­Ã÷¸¦ ¸ðÇè°¡´Ô²²¼­ µå¼Ì´Ù!^000000 ±×·³ ^4D4DFF»çºñ·Î Ãæ´çÇÏ¼Å¾ß ÇÕ´Ï´Ù.^000000\n¾Æ½Ã°ÚÁö¿ä?",
+        "en-US": "[Chocola]\nIf ^4D4DFFyou ate the sweets yourself^000000, then ^4D4DFFyou must cover the cost^000000.\nYou understand, right?",
         "pt-BR": "[Chocolai]\nSe ^4D4DFFvocê mesmo comeu os doces^000000, então ^4D4DFFvocê deve cobrir o custo^000000.\nVocê entende, certo?",
         "es-ES": "[Chocolai]\nSi ^4D4DFFte comiste los dulces tú mismo^000000, entonces ^4D4DFFdebes cubrir el costo^000000.\n¿Lo entiendes, verdad?"
     },
     "RlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÀÚ, ±×·³ Çàº¹ÇÑ ¿©Á¤À» ÇâÇØ Ãâ¹ß!",
+        "en-US": "[Chocola]\nNow, off you go on your happy journey!",
         "pt-BR": "[Chocolai]\nAgora, vá na sua jornada feliz!",
         "es-ES": "[Chocolai]\n¡Ahora, vete en tu viaje feliz!"
     },
     "R1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÀ¸À½? »óÇ°À» Á¦´ë·Î °¡Á®¿Â °Í ¸Â³ª¿ä?\n³³Ç°¿ë ÃÊÄÝ·¿ ¹è´ÞÀº Á¦´ë·Î ÇÏ½Å °Å °°Àºµ¥, ¼³¸¶ ÀÌ°Å ¸Ô¾ú¾î¿ä???",
+        "en-US": "[Chocola]\nErm? Are you sure you brought the products properly?\nIt seems you delivered the Consignment Chocolates correctly, but you didn't eat these, did you???",
         "pt-BR": "[Chocolai]\nHein? Tem certeza de que trouxe os produtos corretamente?\nParece que você entregou os Chocolates em Barra corretamente, mas não comeu estes, comeu???",
         "es-ES": "[Chocolai]\n¿Ejem? ¿Seguro que trajiste los productos correctamente?\nParece que entregaste los Chocolates de Consignación correctamente, pero no te comiste estos, ¿¿verdad???"
     },
     "SFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾Æ¾Æ, Á¤¸» °ï¶õÇÏ³×¿ä.\n½ÃÁð »óÇ°ÀÌ ÀÖ¾î¾ß ÃàÁ¦¸¦ Á¦´ë·Î ÁøÇàÇÏÁÒ.",
+        "en-US": "[Chocola]\nAh, this is really troublesome.\nWe need the seasonal products to run the festival properly.",
         "pt-BR": "[Chocolai]\nAh, isso é realmente problemático.\nPrecisamos dos produtos sazonais para realizar o festival corretamente.",
         "es-ES": "[Chocolai]\nAh, esto es realmente problemático.\nNecesitamos los productos de temporada para realizar el festival correctamente."
     },
     "SVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]",
+        "en-US": "[Chocola]",
         "pt-BR": "[Chocolai]",
         "es-ES": "[Chocolai]"
     },
     "SlD4DA": {
-        "en-US": "´ÞÄÞÇÑ Å©·¹ÀÌÇÁ ÀÖ°í,",
+        "en-US": "There's a Sweet Crepe.",
         "pt-BR": "Há um Crepe Doce,",
         "es-ES": "Hay un Crepe Dulce,"
     },
     "S1D4DA": {
-        "en-US": "´ÞÄÞÇÑ Å©·¹ÀÌÇÁ ^4D4DFF¾ø³×¿ä^000000.",
+        "en-US": "There's no ^4D4DFFSweet Crepe^000000.",
         "pt-BR": "Não há ^4D4DFFCrepe Doce^000000.",
         "es-ES": "No hay ^4D4DFFCrepe Dulce^000000."
     },
     "TFD4DA": {
-        "en-US": "µþ±â »ýÅ©¸² ÄÅÄÉÀÌÅ© ÀÖ°í,",
+        "en-US": "There's a Strawberry Cream Cupcake.",
         "pt-BR": "Há um Cupcake de Morango.",
         "es-ES": "Hay un Cupcake de Fresa y Crema."
     },
     "TVD4DA": {
-        "en-US": "µþ±â »ýÅ©¸² ÄÅÄÉÀÌÅ© ^4D4DFF¾ø³×¿ä^000000.",
+        "en-US": "There's no ^4D4DFFStrawberry Cream Cupcake^000000.",
         "pt-BR": "Não há ^4D4DFFCupcake de Morango^000000.",
         "es-ES": "No hay ^4D4DFFCupcake de Fresa y Crema^000000."
     },
     "TlD4DA": {
-        "en-US": "°úÀÏ ÆÄ¸£Æä ÀÖ°í,",
+        "en-US": "There's a Fruit Parfait.",
         "pt-BR": "Há um Parfait de Frutas.",
         "es-ES": "Hay una Parfait de Frutas."
     },
     "T1D4DA": {
-        "en-US": "°úÀÏ ÆÄ¸£Æä ^4D4DFF¾ø³×¿ä^000000.",
+        "en-US": "There's no ^4D4DFFFruit Parfait^000000.",
         "pt-BR": "Não há ^4D4DFFParfait de Frutas^000000.",
         "es-ES": "No hay ^4D4DFFParfait de Frutas^000000."
     },
     "UFD4DA": {
-        "en-US": "ÃËÃËÇÑ ¸¶Ä«·Õ ÀÖ°í,",
+        "en-US": "There's a Chewy Macaron.",
         "pt-BR": "Há um Macarons.",
         "es-ES": "Hay un Macarons."
     },
     "UVD4DA": {
-        "en-US": "ÃËÃËÇÑ ¸¶Ä«·Õ ^4D4DFF¾ø³×¿ä^000000.",
+        "en-US": "There's no ^4D4DFFChewy Macaron^000000.",
         "pt-BR": "Não há ^4D4DFFMacarons^000000.",
         "es-ES": "No hay ^4D4DFFMacarons^000000."
     },
     "UlD4DA": {
-        "en-US": "¸ùºí¶û ÄÉÀÌÅ© ÀÖ°í,",
+        "en-US": "There's a Mont Blanc Cake.",
         "pt-BR": "Há um Bolo Mont Blanc.",
         "es-ES": "Hay un Pastel Mont Blanc."
     },
     "U1D4DA": {
-        "en-US": "¸ùºí¶û ÄÉÀÌÅ© ^4D4DFF¾ø³×¿ä^000000.",
+        "en-US": "There's no ^4D4DFFMont Blanc Cake^000000.",
         "pt-BR": "Não há ^4D4DFFBolo Mont Blanc^000000.",
         "es-ES": "No hay ^4D4DFFPastel Mont Blanc^000000."
     },
     "VFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾ø´Â »óÇ°Àº »óÁ¡¿¡¼­ ¾Ë¾Æ¼­ ±¸ÇØ¿À´øÁö ÇÏ¼¼¿ä.\n¹Ýµå½Ã ±¸ÇØ¿À¼Å¾ß ÇÕ´Ï´Ù.\n¿ì¸® ½Å¿ë Àå»çÀÝ¾Æ¿ä. ¾Æ½Ã°Ú¾î¿ä?",
+        "en-US": "[Chocola]\nIf you're missing a product, go get it from the shop yourself.\nYou absolutely must bring it.\nWe run on trust, you know. Understand?",
         "pt-BR": "[Chocolai]\nSe estiver faltando um produto, vá buscá-lo na loja você mesmo(a).\nVocê absolutamente deve trazê-lo.\nNós funcionamos com base na confiança, sabe. Entendeu?",
         "es-ES": "[Chocolai]\nSi te falta un producto, ve a buscarlo a la tienda tú mism@.\nDebes traerlo sí o sí.\nAquí confiamos en la gente, ¿sabes? ¿Entiendes?"
     },
     "VVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÀÚ, ¾î¼­ ¾î¼­ ¸í´Ü¿¡ ÀûÈù´ë·Î »ç¶÷µé¿¡°Ô ½ºÀ­Ã÷¸¦ ÀüÇØÁÖ¼¼¿ä!\n¹è´ÞÀÇ Àü·ÉÀÌ¿©!",
+        "en-US": "[Chocola]\nNow, go on, deliver the sweets to the people as written on the list!\nOh herald of delivery!",
         "pt-BR": "[Chocolai]\nAgora, vá, entregue os doces às pessoas como está escrito na lista!\nOh arauto da entrega!",
         "es-ES": "[Chocolai]\n¡Ahora, ve, entrega los dulces a la gente como está escrito en la lista!\n¡Oh heraldo de la entrega!"
     },
     "VlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾î¼­¿À¼¼¿ä!\n±×ºÐµé²² ½ºÀ­Ã÷ÀÇ »ç¶ûÀÌ Àü´ÞµÇ¾ú³ª¿ä?\n´ç¿¬È÷ ÁÁ¾ÆÇß°ÚÁÒ?\nÇÔ²² »ç¶û°ú Çàº¹ÀÇ ¿©Á¤À» ÇØÁÖ¾î¼­ °í¸¶¿ö¿ä, ¸ðÇè°¡´Ô!",
+        "en-US": "[Chocola]\nWelcome back!\nWas the love of sweets delivered to those people?\nSurely they were happy, right?\nThank you for joining me on this journey of love and happiness, Adventurer!",
         "pt-BR": "[Chocolai]\nBoas-vindas(a) de volta!\nO amor dos doces foi entregue àquelas pessoas?\nCertamente eles ficaram felizes, certo?\nObrigada por se juntar a mim nesta jornada de amor e felicidade, Viajante!",
         "es-ES": "[Chocolai]\n¡Bienvenid@ de vuelta!\n¿Se entregó el amor de los dulces a esa gente?\nSeguro que estaban felices, ¿verdad?\nGracias por acompañarme en este viaje de amor y felicidad, Trotamundos."
     },
     "V1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n½ºÀ­Ã÷ Àü·É¿¡°Õ »ç¶û½º·¯¿î ½ºÀ­Ã÷·Î º¸´äÇÏ´Â°ÅÁÒ!\nÀÚ, ÀÌ°É µå¸±°Ô¿ä.\nÁ¦ ¼ºÀÇ¸¦ ¹Þ¾ÆÁÖ¼¼¿ä~!",
+        "en-US": "[Chocola]\nA sweet herald deserves to be rewarded with lovely sweets!\nHere, take this.\nPlease accept my small token~!",
         "pt-BR": "[Chocolai]\nUm arauto doce merece ser recompensado com doces adoráveis!\nAqui, pegue isto.\nPor favor, aceite meu pequeno gesto~!",
         "es-ES": "[Chocolai]\n¡Un heraldo dulce merece ser recompensado con dulces adorables!\nToma, coge esto.\n¡Acepta mi pequeño detalle~!"
     },
     "WFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾Ñ ±×¸®°í ¸ðÇè°¡´Ô! ¸¶Áö¸·À¸·Î ºÎÅ¹ÀÌ ÇÏ³ª ´õ ÀÖ½À´Ï´Ù!!",
+        "en-US": "[Chocola]\nAh, and Adventurer! I have one last favor!!",
         "pt-BR": "[Chocolai]\nAh, e Viajante! Tenho um último favor!!",
         "es-ES": "[Chocolai]\n¡Ah, y Trotamundos! ¡¡Tengo un último favor!!"
     },
     "WVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÁö±Ý ´çÀå ºÎÅ¹µå¸®±â¿¡´Â Á¶±Ý ÁË¼ÛÇØ¼­ ±×·±µ¥ ½Ã°£ÀÌ µÇ½Ç ¶§, Àú¿¡°Ô ¸»À» ´Ù½Ã °É¾îÁÖ¼¼¿ä!!",
+        "en-US": "[Chocola]\nI feel a bit bad asking you right now, so when you have time, please talk to me again!!",
         "pt-BR": "[Chocolai]\nSinto-me um pouco mal por pedir agora, então quando tiver tempo, por favor, fale comigo novamente!!",
         "es-ES": "[Chocolai]\nMe siento un poco mal pidiéndotelo ahora, así que cuando tengas tiempo, ¡¡vuelve a hablarme!!"
     },
     "WlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾Ñ~! ¹Ù·Î ¿À¼Ì±º¿ä, ±×°Ô ¾î¶² ºÎÅ¹ÀÌ³Ä¸é¿ä~~",
+        "en-US": "[Chocola]\nAh~! You came right away, so here's the favor~~",
         "pt-BR": "[Chocolai]\nAh~! Você veio imediatamente, então aqui está o favor~~",
         "es-ES": "[Chocolai]\n¡Ah~! Viniste de inmediato, así que aquí está el favor~~"
     },
     "W1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¸ðÇè°¡´ÔÀÌ ½ºÀ­Ã÷ µå·ÓÇÁ½ºµéÀ» »ç³ÉÇÏ´Â µ¿¾È ±× Áß¿¡¼­ À¯³­È÷ µ¢Ä¡°¡ Å« ³à¼®ÀÌ ÀÖÁö ¾Ê¾Ò´ø°¡¿ä?",
+        "en-US": "[Chocola]\nWhile you were hunting Sweet Drops, wasn't there one that was particularly large?",
         "pt-BR": "[Chocolai]\nEnquanto você caçava Quindings, não havia um que era particularmente grande?",
         "es-ES": "[Chocolai]\nMientras cazabas Poriflanes, ¿no había uno que era particularmente grande?"
     },
     "XFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÄ«Ä«¿ÀÄáÀ» ¸ö¿¡ ¿À·¡ Áö´Ï°í ÀÖÀ¸¸é ¼÷¼ºÀÌ µÇ´Âµ¥ ±×·Î ÀÎÇØ ¸öÀÌ ´õºÎ·èÇØÁø °ÍÀÌ¶ó°í ÃßÃøÇÏ°í ÀÖ¾î¿ä.",
+        "en-US": "[Chocola]\nI suspect that carrying Cacao Beans for a long time causes them to age, which makes the body bloated.",
         "pt-BR": "[Chocolai]\nDesconfio que carregar Grãos de Cacau por muito tempo faz com que eles envelheçam, o que faz o corpo ficar inchado.",
         "es-ES": "[Chocolai]\nSospecho que llevar Granos de Cacao durante mucho tiempo hace que envejezcan, lo que hace que el cuerpo se hinche."
     },
     "XVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n±âÈ¸°¡ µÇ¾î ´õºÎ·èÇÑ ½ºÀ­Ã÷¸µÀ¸·ÎºÎÅÍ »¯¾î¿Â ¼÷¼ºµÈ Ä«Ä«¿ÀÄá ¸ÀÀ» º» ÀûÀÌ ÀÖ´Âµ¥¿ä.",
+        "en-US": "[Chocola]\nI once had the chance to taste Ripe Cacao Beans taken from a Bloated Sweets Ring.",
         "pt-BR": "[Chocolai]\nUma vez tive a oportunidade de provar grãos de cacau maduros retirados de um Anel de Doce Inchado.",
         "es-ES": "[Chocolai]\nUna vez tuve la oportunidad de probar Granos de Cacao Maduros tomados de un Anillo Dulce Hinchado."
     },
     "XlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÁ¤¸»ÀÌÁö ³Ê¹« ³¡³»ÁÖ´õ¶ó°í¿ä!! ÇÑÃþ ´õ ¸ÀÀÖ´Â ½ºÀ­Ã÷ ¿ä¸®µéÀ» Á¦ÀÛÇÒ ¼ö ÀÖÀ» °Í °°¾Æ¿ä!",
+        "en-US": "[Chocola]\nThey were absolutely amazing!! I think I can make even more delicious sweets dishes!",
         "pt-BR": "[Chocolai]\nEles eram absolutamente incríveis!! Acho que posso fazer pratos de doces ainda mais deliciosos!",
         "es-ES": "[Chocolai]\n¡¡Eran absolutamente increíbles!! ¡Creo que puedo hacer platos de dulces aún más deliciosos!"
     },
     "X1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n±×·¡¼­ ¸»ÀÎµ¥ ÇÊµå °÷°÷¿¡ ³ªÅ¸³ª°í ÀÖ´Â ^4D4DFF´õºÎ·èÇÑ ½ºÀ­Ã÷¸µ^000000À» Àâ¾Æ¼­ ^4D4DFF¼÷¼ºµÈ Ä«Ä«¿ÀÄá^000000À» 1°³¸¸ ±¸ÇØ´ÙÁÖ½Ç ¼ö ÀÖÀ»±î¿ä?",
+        "en-US": "[Chocola]\nSo, could you hunt the ^4D4DFFBloated Sweets Rings^000000 appearing throughout the fields and bring me just ^4D4DFF1 Aged Cacao Bean^000000?",
         "pt-BR": "[Chocolai]\nEntão, você poderia caçar os ^4D4DFFAnéis de Doce Inchados^000000 que aparecem por todos os campos e trazer-me apenas ^4D4DFF1 Grão de Cacau Maduro^000000?",
         "es-ES": "[Chocolai]\nEntonces, ¿podrías cazar a los ^4D4DFFAnillos Dulces Hinchados^000000 que aparecen por todos los campos y traerme solo 1 ^4D4DFFGrano de Cacao Maduro^000000?"
     },
     "YFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n±¸ÇØ´Ù ÁÖ½Å´Ù¸é Á¦°¡ ¸¶·ÃÇÑ Æ¯º°ÇÑ »óÇ°À» µå¸®µµ·Ï ÇÒ°Ô¿ä~",
+        "en-US": "[Chocola]\nIf you bring me one, I'll give you a special product I've prepared~",
         "pt-BR": "[Chocolai]\nSe me trouxer um, dar-lhe-ei um produto especial que preparei~",
         "es-ES": "[Chocolai]\nSi me traes uno, te daré un producto especial que he preparado~"
     },
     "YVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÁ¦ ¸¶Áö¸· ºÎÅ¹À» µé¾îÁÖ½Ç°ÅÁÒ~??",
+        "en-US": "[Chocola]\nYou'll accept my final favor, right~??",
         "pt-BR": "[Chocolai]\nVocê aceitará meu último favor, certo~??",
         "es-ES": "[Chocolai]\nAceptarás mi último favor, ¿¿verdad~??"
     },
     "YlD4DA": {
-        "en-US": "±×·¡, ¸Ã°ÜÁà.",
+        "en-US": "Sure, leave it to me.",
         "pt-BR": "Claro, deixa comigo.",
         "es-ES": "Claro, déjamelo a mí."
     },
     "Y1D4DA": {
-        "en-US": "¾Æ´Ï.",
+        "en-US": "No.",
         "pt-BR": "Não.",
         "es-ES": "No."
     },
     "ZFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n°¨»çÇØ¿ä! ºü¸£°Ô ´Ù½Ã Ã£¾Æ¿Í ÁÖ½Ã±â¸¦ ±â´Ù¸®°í ÀÖ°Ú½À´Ï´Ù!!",
+        "en-US": "[Chocola]\nThank you! I'll be waiting for your quick return!!",
         "pt-BR": "[Chocolai]\nObrigada! Estarei esperando o seu rápido retorno!!",
         "es-ES": "[Chocolai]\n¡Gracias! ¡¡Estaré esperando tu rápido regreso!!"
     },
     "ZVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾Æ´Ï, ¼¼»ó¿¡, ¸¿¼Ò»ç!! Áø½ÉÀÌ½Å°¡¿ä~~???",
+        "en-US": "[Chocola]\nNo, my goodness, oh my!! Are you serious~~???",
         "pt-BR": "[Chocolai]\nNão, meu Deus, oh meu!! Você está falando sério~~???",
         "es-ES": "[Chocolai]\n¡¡No, por Dios, oh cielos!! ¿¿Hablas en serio~~???"
     },
     "ZlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n^4D4DFF´õºÎ·èÇÑ ½ºÀ­Ã÷¸µ^000000À» Àâ¾Æ¼­ ^4D4DFF¼÷¼ºµÈ Ä«Ä«¿ÀÄá^000000À» 1°³¸¦ ±¸ÇØ¿À½Ã¸é µË´Ï´Ù!!",
+        "en-US": "[Chocola]\nJust hunt ^4D4DFFBloated Sweets Rings^000000 and bring me ^4D4DFF1 Aged Cacao Bean^000000!!",
         "pt-BR": "[Chocolai]\nBasta caçar ^4D4DFFAnéis de Doce Inchados^000000 e trazer-me ^4D4DFF1 Grão de Cacau Maduro^000000!!",
         "es-ES": "[Chocolai]\n¡¡Solo caza ^4D4DFFAnillos Dulces Hinchados^000000 y tráeme 1 ^4D4DFFGrano de Cacao Maduro^000000!!"
     },
     "Z1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n±â´Ù¸®°í ÀÖÀ»°Ô¿ä~!!",
+        "en-US": "[Chocola]\nI'll be waiting~!!",
         "pt-BR": "[Chocolai]\nEstarei esperando~!!",
         "es-ES": "[Chocolai]\n¡¡Estaré esperando~!!"
     },
     "aFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¿À¿À~ ÀÌ ±ÍÇÑ ³¿»õ´Â...!!!",
+        "en-US": "[Chocola]\nOoh~ This precious scent...!!!",
         "pt-BR": "[Chocolai]\nOoh~ Este cheiro precioso...!!!",
         "es-ES": "[Chocolai]\n¡¡Ooh~ Este olor tan precioso...!!!"
     },
     "aVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n^4D4DFF¼÷¼ºµÈ Ä«Ä«¿ÀÄá^000000À» ±¸ÇØ¿À½Å ¸ð¾çÀÌ½Ã·Î±º¿ä!!",
+        "en-US": "[Chocola]\nYou must have brought the ^4D4DFFRipe Cacao Bean^000000!!",
         "pt-BR": "[Chocolai]\nVocê deve ter trazido o ^4D4DFFGrão de Cacau Maduro^000000!!",
         "es-ES": "[Chocolai]\n¡¡Debes haber traído el ^4D4DFFGrano de Cacao Maduro^000000!!"
     },
     "alD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÁ¤¸»·Î °¨»çµå¸³´Ï´Ù, ÀÌ¹ø ½ºÀ­Ã÷ ÃàÁ¦´Â ´õ¿í ´ÞÄÞÇÑ ±â°£ÀÌ µÉ ¼ö ÀÖÀ» °Í °°³×¿ä.",
+        "en-US": "[Chocola]\nThank you so much. This Sweets Festival is going to be an even sweeter period.",
         "pt-BR": "[Chocolai]\nMuito obrigada. Este Chocomania será um período ainda mais doce.",
         "es-ES": "[Chocolai]\nMuchísimas gracias. Este Festival de los Dulces va a ser un período aún más dulce."
     },
     "a1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÀÌ°ÍÀº Á¦ ¼ºÀÇÀÌ´Ï ºÎ´ã°®Áö ¸¶½Ã°í ¹Þ¾ÆÁÖ¼¼¿ä.",
+        "en-US": "[Chocola]\nPlease accept this as a token of my appreciation, don't feel burdened.",
         "pt-BR": "[Chocolai]\nPor favor, aceite isto como prova do meu apreço, não se sinta sobrecarregado(a).",
         "es-ES": "[Chocolai]\nPor favor, acepta esto como muestra de mi agradecimiento, no te sientas presionad@."
     },
     "bFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¸ðÇè°¡´ÔÀÇ µµ¿òÀÌ Áö¼ÓÀûÀ¸·Î ÇÊ¿äÇÒ °Í °°À¸´Ï ½Ã°£ÀÌ µÇ½Ç ¶§¸¶´Ù Àú¿¡°Ô ¿Í ÁÖ½Ã¸é °¨»çÇÏ°Ú½À´Ï´Ù.",
+        "en-US": "[Chocola]\nI think I'll need your help continuously, so please come to me whenever you have time.",
         "pt-BR": "[Chocolai]\nAcho que precisarei da sua ajuda continuamente, então, por favor, venha falar comigo sempre que tiver tempo.",
         "es-ES": "[Chocolai]\nCreo que necesitaré tu ayuda continuamente, así que por favor, ven a verme siempre que tengas tiempo."
     },
     "bVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n±×·³ Çàº¹ÇÑ ÃàÁ¦ º¸³»½Ã±æ!!",
+        "en-US": "[Chocola]\nNow, have a happy festival!!",
         "pt-BR": "[Chocolai]\nAgora, tenha um festival feliz!!",
         "es-ES": "[Chocolai]\n¡¡Ahora, ten un festival feliz!!"
     },
     "blD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÇã¾î... ºÐ¸í ^4D4DFF´õºÎ·èÇÑ ½ºÀ­Ã÷¸µ^000000À» »ç³ÉÇÏ°í ¿À½Å °Í °°Àºµ¥...",
+        "en-US": "[Chocola]\nHuh... You certainly seem to have hunted ^4D4DFFBloated Sweets Rings^000000 but...",
         "pt-BR": "[Chocolai]\nHã... Você certamente parece ter caçado ^4D4DFFAnéis de Doce Inchados^000000 mas...",
         "es-ES": "[Chocolai]\nEh... Ciertamente pareces haber cazado ^4D4DFFAnillos Dulces Hinchados^000000 pero..."
     },
     "b1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n^4D4DFF¼÷¼ºµÈ Ä«Ä«¿ÀÄá^000000Àº °¡Áö°í ¿ÀÁö ¾ÊÀ¸¼Ì³×¿ä... È¤½Ã Àâ¼ö¼Ì³ª¿ä??",
+        "en-US": "[Chocola]\nYou didn't bring the ^4D4DFFRipe Cacao Bean^000000... Did you perhaps eat it??",
         "pt-BR": "[Chocolai]\nNão trouxe o ^4D4DFFGrão de Cacau Maduro^000000... Você por acaso o comeu??",
         "es-ES": "[Chocolai]\nNo trajiste el ^4D4DFFGrano de Cacao Maduro^000000... ¿¿Acaso te lo comiste??"
     },
     "cFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÀú´Â ÀÌ ÀÚ¸®¿¡¼­ °è¼Ó ±â´Ù¸®°í ÀÖÀ»Å×´Ï ½ÀµæÇÏ°Ô µÇ½Ã¸é Àú¸¦ ´Ù½Ã Ã£¾Æ¿ÍÁÖ½Ã±æ ¹Ù¶ø´Ï´Ù!",
+        "en-US": "[Chocola]\nI'll be waiting here, so please come back to me once you acquire it!",
         "pt-BR": "[Chocolai]\nEstarei esperando aqui, então, por favor, volte a falar comigo quando o adquirir!",
         "es-ES": "[Chocolai]\nEstaré esperando aquí, así que ¡por favor, vuelve a mí una vez que lo consigas!"
     },
     "cVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾î¼­¿Í¿ä~ Ã¹¹øÂ° »ç¶ûÀÇ Àü·É´Ô!\nÃàÁ¦¸¦ µµ¿ÍÁÖ±â À§ÇØ ¿À¼Ì³ª¿ä?",
+        "en-US": "[Chocola]\nWelcome~ First love herald!\nHave you come to help with the festival?",
         "pt-BR": "[Chocolai]\nBoas-vindas(a)~ Primeiro arauto do amor!\nVocê veio ajudar com o festival?",
         "es-ES": "[Chocolai]\n¡Bienvenid@~ Primer heraldo del amor!\n¿Has venido a ayudar con el festival?"
     },
     "clD4DA": {
-        "en-US": "µµµÏ¸ÂÀº Ä«Ä«¿ÀÄá ±³È¯",
+        "en-US": "Exchange Stolen Cacao Beans",
         "pt-BR": "Trocar Grãos de Cacau Roubados",
         "es-ES": "Intercambiar Granos de Cacao Robados"
     },
     "c1D4DA": {
-        "en-US": "¿À´Ãµµ Çàº¹ÇÑ ÃàÁ¦ ³ª´®!",
+        "en-US": "Share the happy festival today!",
         "pt-BR": "Compartilhe o festival feliz hoje!",
         "es-ES": "¡Comparte el festival feliz hoy!"
     },
     "dFD4DA": {
-        "en-US": "½ºÀ­Ã÷ µå·ÓÇÁ½º ÀÀÂ¡!",
+        "en-US": "Punish Sweet Drops!",
         "pt-BR": "Punir Quindings!",
         "es-ES": "¡Castigar a los Poriflanes!"
     },
     "dVD4DA": {
-        "en-US": "¼÷¼ºµÈ Ä«Ä«¿ÀÄá ±³È¯",
+        "en-US": "Exchange Ripe Cacao Beans",
         "pt-BR": "Trocar Grão de Cacau Maduro",
         "es-ES": "Intercambiar Grano de Cacao Maduro"
     },
     "dlD4DA": {
-        "en-US": "±×³É ¿Ô¾î.",
+        "en-US": "Just came by.",
         "pt-BR": "Só passei.",
         "es-ES": "Solo pasaba por aquí."
     },
     "d1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾î¶ó, Ä«Ä«¿ÀÄáÀ» Ã£¾Æ¿À¼Ì¾î¿ä?\nÁÁ¾Æ¿ä. °¡Áö°í °è½Å ^4D4DFFµµµÏ¸ÂÀº Ä«Ä«¿ÀÄá 1°³´ç ½ºÀ­Ã÷ ÃàÁ¦ ÄÚÀÎ 1°³^000000·Î ±³È¯ ÇØ µå¸±°Ô¿ä.",
+        "en-US": "[Chocola]\nOh, you've brought Cacao Beans?\nGreat. I'll exchange ^4D4DFF1 Sweets Festival Coin for every 1 Stolen Cacao Bean^000000 you have.",
         "pt-BR": "[Chocolai]\nAh, você trouxe Grãos de Cacau?\nÓtimo. Trocarei ^4D4DFF1 Chocoeda por cada 1 Grão de Cacau Roubado^000000 que você tiver.",
         "es-ES": "[Chocolai]\nOh, ¿trajiste Granos de Cacao?\nGenial. Intercambiaré ^4D4DFF1 Moneda del Festival de los Dulces por cada 1 Grano de Cacao Robado^000000 que tengas."
     },
     "eFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÁö±Ý ¹Ù·Î ±³È¯ÇØµå¸±±î¿ä?",
+        "en-US": "[Chocola]\nShall I exchange them right now?",
         "pt-BR": "[Chocolai]\nDevo trocá-los agora?",
         "es-ES": "[Chocolai]\n¿Los intercambio ahora mismo?"
     },
     "eVD4DA": {
-        "en-US": "±³È¯ÇÏÁö ¾Ê´Â´Ù",
+        "en-US": "Don't exchange.",
         "pt-BR": "Não trocar.",
         "es-ES": "No intercambiar."
     },
     "elD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n³×~ ¾Ë°Ú½À´Ï´Ù!!",
+        "en-US": "[Chocola]\nYes~ Understood!!",
         "pt-BR": "[Chocolai]\nSim~ Entendido!!",
         "es-ES": "[Chocolai]\n¡Sí~ Entendido!!"
     },
     "e1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÇÊ¿äÇÏ½Å¸¸Å­ ±³È¯ÇØ °¡½Ã±æ ¹Ù¶ø´Ï´Ù.",
+        "en-US": "[Chocola]\nPlease exchange as many as you need.",
         "pt-BR": "[Chocolai]\nPor favor, troque quantos precisar.",
         "es-ES": "[Chocolai]\nPor favor, intercambia los que necesites."
     },
     "fFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÀú·±... Àú ±â´ëÇß´Ü ¸»ÀÌ¿¡¿ä.\nÄ«Ä«¿ÀÄáÀº Ç×»ó ÇÊ¿äÇÑ Àç·á´Ï±î, ±¸ÇÏ´Â ´ë·Î °¡Á®´Ù ÁÖ½Ã¸é Á¤¸» ÁÁÀ»ÅÙµ¥~",
+        "en-US": "[Chocola]\nOh dear... I was hoping you would.\nCacao Beans are always needed, so it would be great if you brought them whenever you got them~",
         "pt-BR": "[Chocolai]\nOh céus... Eu esperava que sim.\nGrãos de Cacau são sempre necessários, por isso seria ótimo se você os trouxesse sempre que os obtivesse~",
         "es-ES": "[Chocolai]\nOh cielos... Esperaba que lo hicieras.\nSiempre se necesitan Granos de Cacao, así que sería genial si los trajeras siempre que los consiguieras~"
     },
     "fVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¿À´ÃÀÇ ½ºÀ­Ã÷ ¸Þ´º´Â ÃæºÐÈ÷ Àü´ÞµÇ¾ú¾î¿ä.\nÀÌ°Ô ´Ù ¸ðÇè°¡´Ô ´öºÐÀÌ¿¡¿ä.",
+        "en-US": "[Chocola]\nToday's sweets menu has been sufficiently delivered.\nIt's all thanks to you, Adventurer.",
         "pt-BR": "[Chocolai]\nO menu de doces de hoje foi suficientemente entregue.\nTudo graças a você, Viajante.",
         "es-ES": "[Chocolai]\nEl menú de dulces de hoy se ha entregado suficientemente.\nTodo es gracias a ti, Trotamundos."
     },
     "flD4DA": {
-        "en-US": "^4D4DFF³É´Ù·¡ ¿­¸Å¸¦ 5°³ ¼Ò¸ðÇÏ¿© Äù½ºÆ®¸¦ Áï½Ã ÀçµµÀü ÇÒ ¼ö ÀÖ½À´Ï´Ù.\n³É´Ù·¡ ¿­¸Å¸¦ »ç¿ëÇÏ½Ã°Ú½À´Ï±î?",
+        "en-US": "^4D4DFFYou can use 5 Catfruit to immediately retry the quest.\nWould you like to use Catfruit?",
         "pt-BR": "^4D4DFFPode usar 5 Miaumiau para tentar a missão novamente imediatamente.\nGostaria de usar Miaumiau?",
         "es-ES": "^4D4DFFPuedes usar 5 Miaufrutos para reintentar la misión inmediatamente.\n¿Quieres usar Miaufruto?"
     },
     "f1D4DA": {
-        "en-US": "»ç¿ëÇÏÁö ¾Ê´Â´Ù.",
+        "en-US": "Don't use.",
         "pt-BR": "Não usar.",
         "es-ES": "No usar."
     },
     "gFD4DA": {
-        "en-US": "Äù½ºÆ®¸¦ Áï½Ã ÀçµµÀü ÇÑ´Ù.",
+        "en-US": "Immediately retry the quest.",
         "pt-BR": "Tentar a missão novamente imediatamente.",
         "es-ES": "Reintentar la misión inmediatamente."
     },
     "gVD4DA": {
-        "en-US": "^4D4DFFÃë¼ÒÇÏ¿´½À´Ï´Ù.^000000",
+        "en-US": "^4D4DFFCancelled.^000000",
         "pt-BR": "^4D4DFFCancelado.^000000",
         "es-ES": "^4D4DFFCancelado.^000000"
     },
     "glD4DA": {
-        "en-US": "^4D4DFFÀÏÀÏ Äù½ºÆ®°¡ ÃÊ±âÈ­ µÇ¾ú½À´Ï´Ù.^000000",
+        "en-US": "^4D4DFFDaily quest has been reset.^000000",
         "pt-BR": "^4D4DFFA missão diária foi reiniciada.^000000",
         "es-ES": "^4D4DFFLa misión diaria se ha reiniciado.^000000"
     },
     "g1D4DA": {
-        "en-US": "^4D4DFF³É´Ù·¡ ¿­¸Å°¡ ºÎÁ·ÇÕ´Ï´Ù.^000000",
+        "en-US": "^4D4DFFNot enough Catfruit.^000000",
         "pt-BR": "^4D4DFFMiaumiau insuficiente.^000000",
         "es-ES": "^4D4DFFNo tienes suficiente Miaufrutos.^000000"
     },
     "hFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾Æ! ¸¶Ä§ ¸ðÇè°¡´Ô²²¼­ ÇØÁÖ½Ç ÀÏÀÌ ÀÖ¾ú¾î¿ä.\nÀá±ñ, ÁØºñ°¡ ÇÊ¿äÇØ¿ä.\nÁ¤¸»·Î ¿À´Ã ÃàÁ¦ ÁØºñ¸¦ µµ¿ÍÁÖ½Ç°Å¶ó¸é\n´Ù½Ã ¸»À» °É¾îÁÖ½Ã°Ú¾î¿ä?",
+        "en-US": "[Chocola]\nAh! Just in time, Adventurer. There's something I need you to do.\nWait a moment, I need to prepare.\nIf you really want to help prepare for today's festival,\nplease talk to me again.",
         "pt-BR": "[Chocolai]\nAh! Bem a tempo, Viajante. Há algo que preciso que você faça.\nEspere um momento, preciso de me preparar.\nSe você realmente quer ajudar a preparar o festival de hoje,\npor favor, fale comigo novamente.",
         "es-ES": "[Chocolai]\n¡Ah! Justo a tiempo, Trotamundos. Hay algo que necesito que hagas.\nEspera un momento, necesito prepararme.\nSi realmente quieres ayudar a preparar el festival de hoy,\npor favor, vuelve a hablarme."
     },
     "hVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÀÏÀü¿¡ ½ºÀ­Ã÷ ¸Þ´ºµéÀ» Àü´ÞÇß´ø »ç¶÷µéÀ» ±â¾ïÇÏ³ª¿ä?\n±×µé¿¡°Ô ÇÑ¹ø ´õ ½ºÀ­Ã÷¸¦ ¼±¹°ÇÏ·Á°í ÇØ¿ä.",
+        "en-US": "[Chocola]\nDo you remember the people you delivered sweets menus to before?\nI want to give them sweets once more.",
         "pt-BR": "[Chocolai]\nLembra-se das pessoas a quem você entregou menus de doces antes?\nQuero dar-lhes doces mais uma vez.",
         "es-ES": "[Chocolai]\n¿Recuerdas a las personas a las que les entregaste menús de dulces antes?\nQuiero darles dulces una vez más."
     },
     "hlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n½ºÀ­Ã÷ ¸Þ´º¸¦ Àü´ÞÇßÀ» ¶§, »ç¶÷µéÀÌ ±â»µÇÏ´Â ¸ð½ÀÀ» º¸¼ÌÁÒ?\n±×µé¿¡°Ô »ç¶ûÀ» ÀüÇÏ´Â °Í, ¹Ýº¹ÇÏ¸é ´õ Å« ±â»ÝÀÌ µÇ´Â °Å´Ï±î¿ä!\n¼±¹°À» Àü´ÞÇÏ´Â Çà»ç¿¡ µ¿ÂüÇÏ½Ã°Ú¾î¿ä?",
+        "en-US": "[Chocola]\nWhen you delivered the sweets menus, you saw how happy people were, right?\nDelivering love to them brings even greater joy when repeated!\nWill you join this gift-giving event?",
         "pt-BR": "[Chocolai]\nQuando você entregou os menus de doces, viu como as pessoas estavam felizes, certo?\nEntregar amor a elas traz ainda mais alegria quando é repetido!\nVocê vai participar deste evento de oferta de presentes?",
         "es-ES": "[Chocolai]\nCuando entregaste los menús de dulces, viste lo feliz que estaba la gente, ¿verdad?\n¡Entregarles amor trae aún más alegría cuando se repite!\n¿Te unirás a este evento de regalar regalos?"
     },
     "h1D4DA": {
-        "en-US": "ÀÀ ¹°·ÐÀÌÁö.",
+        "en-US": "Yes, of course.",
         "pt-BR": "Sim, claro.",
         "es-ES": "Sí, claro."
     },
     "iFD4DA": {
-        "en-US": "¾Æ´Ï, ´ÙÀ½¿¡ ÇÒ°Ô.",
+        "en-US": "No, I'll do it later.",
         "pt-BR": "Não, farei mais tarde.",
         "es-ES": "No, lo haré más tarde."
     },
     "iVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÁÁ¾Æ¿ê!\nµ¿ÂüÇÏ½Ç °ÍÀÌ¶ó ¹Ï°í ÀÖ¾úÁö¿ä!!",
+        "en-US": "[Chocola]\nGreat!\nI believed you would join!!",
         "pt-BR": "[Chocolai]\nÓtimo!\nAcreditei que você participaria!!",
         "es-ES": "[Chocolai]\n¡Genial!\n¡¡Creía que te unirías!!"
     },
     "ilD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÀÏÀü¿¡ Àü´ÞÇß´ø 5¸íÀÇ »ç¶÷µéÀ» ±â¾ïÇÏ½ÃÁÒ?\n½ºÀ­Ã÷ »óÁ¡µé·ÎºÎÅÍ ¸Þ´º¸¦ ¹Þ¾Æ µÎ¾ú¾î¿ä.\n±×µé¿¡°Ô ½ºÀ­Ã÷ ¸Þ´º¸¦ ÇÑ¹ø ´õ Àü´ÞÇØÁÖ½Ã¸é µË´Ï´Ù!",
+        "en-US": "[Chocola]\nYou remember the 5 people you delivered to before, right?\nI've received the menus from the Sweets Shops.\nJust deliver the sweets menus to them once more!",
         "pt-BR": "[Chocolai]\nVocê se lembra das 5 pessoas a quem entregou antes, certo?\nRecebi os menus das Lojas de Doces.\nBasta entregar os menus de doces a elas mais uma vez!",
         "es-ES": "[Chocolai]\n¿Recuerdas a las 5 personas a las que entregaste antes, verdad?\nHe recibido los menús de las Tiendas de Dulces.\n¡Solo tienes que entregarles los menús de dulces una vez más!"
     },
     "i1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n±×·³, ¿ì¸® »ç¶ûÀÇ Àü·É´Ô! ºÎÅ¹µå·Á¿ä!",
+        "en-US": "[Chocola]\nThen, our love herald! I leave it to you!",
         "pt-BR": "[Chocolai]\nEntão, nosso arauto do amor! Eu deixo isso consigo!",
         "es-ES": "[Chocolai]\n¡Entonces, nuestro heraldo del amor! ¡Te lo dejo a ti!"
     },
     "jFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾Ñ..¾Æ¾Ñ.. ¾Æ¾Æ¾Ñ...\n¾Æ...¾Æ½¬¿ö¶ó.",
+        "en-US": "[Chocola]\nAh.. aah.. aaaah...\nAh... such a shame.",
         "pt-BR": "[Chocolai]\nAh.. aah.. aaaah...\nAh... que pena.",
         "es-ES": "[Chocolai]\nAh.. aah.. aaaah...\nAh... qué pena."
     },
     "jVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾î¼­¿Í¿ä~ Ã¹¹øÂ° Àü·É´Ô!\n¾îµðº¸ÀÚ.. ¸ðµÎ¿¡°Ô Àü´ÞÇÏ¼Ì±º¿ä!\nÁ¤¸» ¼ö°íÇÏ¼Ì¾î¿ä!",
+        "en-US": "[Chocola]\nWelcome, First herald!\nLet's see... You've delivered to everyone!\nYou've worked hard!",
         "pt-BR": "[Chocolai]\nBoas-vindas, Primeiro Arauto!\nDeixe-me ver... Você entregou a todos!\nVocê trabalhou muito!",
         "es-ES": "[Chocolai]\n¡Bienvenido, Primer Heraldo!\nA ver... ¡Has entregado a todo el mundo!\n¡Has trabajado duro!"
     },
     "jlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÀÚ, ¿À´ÃÀÇ ÀÏ´çÀÌ¶ø´Ï´Ù~\nÀÌÁ¦ºÎÅÏ ½ºÀ­Ã÷ ÃàÁ¦¸¦ Áñ°ÜÁÖ¼¼¿ä!",
+        "en-US": "[Chocola]\nHere's your daily wages.\nNow go enjoy the Sweets Festival!",
         "pt-BR": "[Chocolai]\nAqui está o seu salário diário.\nAgora vá aproveitar o Chocomania!",
         "es-ES": "[Chocolai]\nAquí está tu paga diari.\n¡Ahora ve a disfrutar del Festival de los Dulces!"
     },
     "j1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÀÏÀü¿¡ ¸¸³µ´ø 5¸íÀÇ »ç¶÷µé¿¡°Ô ½ºÀ­Ã÷ ¸Þ´º¸¦ ÀüÇØÁÖ¼¼¿ä.",
+        "en-US": "[Chocola]\nPlease deliver the sweets menus to the 5 people you met before.",
         "pt-BR": "[Chocolai]\nPor favor, entregue os menus de doces às 5 pessoas que conheceu antes.",
         "es-ES": "[Chocolai]\nPor favor, entrega los menús de dulces a las 5 personas que conociste antes."
     },
     "kFD4DA": {
-        "en-US": "^4D4DFFÅ©¸®¿£^000000´Ô¿¡°Ô Àü´Þ ¿Ï·á.",
+        "en-US": "Delivered to ^4D4DFFCherry^000000.",
         "pt-BR": "Entregue a ^4D4DFFRadigunda^000000.",
         "es-ES": "Entregado a ^4D4DFFCereza^000000."
     },
     "kVD4DA": {
-        "en-US": "^4D4DFFÅ©¸®¿£^000000´Ô¿¡°Ô Àü´Þ ¹Ì¿Ï·á.",
+        "en-US": "Not delivered to ^4D4DFFCherry^000000.",
         "pt-BR": "Não entregue a ^4D4DFFRadigunda^000000.",
         "es-ES": "No entregado a ^4D4DFFCereza^000000."
     },
     "klD4DA": {
-        "en-US": "^4D4DFF¶ó½Ã½º^000000´Ô¿¡°Ô Àü´Þ ¿Ï·á.",
+        "en-US": "Delivered to ^4D4DFFBlossom^000000.",
         "pt-BR": "Entregue a ^4D4DFFAcheropita^000000.",
         "es-ES": "Entregado a ^4D4DFFFlorinda^000000."
     },
     "k1D4DA": {
-        "en-US": "^4D4DFF¶ó½Ã½º^000000´Ô¿¡°Ô Àü´Þ ¹Ì¿Ï·á.",
+        "en-US": "Not delivered to ^4D4DFFBlossom^000000.",
         "pt-BR": "Não entregue a ^4D4DFFAcheropita^000000.",
         "es-ES": "No entregado a ^4D4DFFFlorinda^000000."
     },
     "lFD4DA": {
-        "en-US": "^4D4DFF¿¤Æ®»ê^000000´Ô¿¡°Ô Àü´Þ ¿Ï·á.",
+        "en-US": "Delivered to ^4D4DFFWalnuts^000000.",
         "pt-BR": "Entregue a ^4D4DFFClarisbadeu^000000.",
         "es-ES": "Entregado a ^4D4DFFNuex^000000."
     },
     "lVD4DA": {
-        "en-US": "^4D4DFF¿¤Æ®»ê^000000´Ô¿¡°Ô Àü´Þ ¹Ì¿Ï·á.",
+        "en-US": "Not delivered to ^4D4DFFWalnuts^000000.",
         "pt-BR": "Não entregue a ^4D4DFFClarisbadeu^000000.",
         "es-ES": "No entregado a ^4D4DFFNuex^000000."
     },
     "llD4DA": {
-        "en-US": "^4D4DFF¾ÈÆ®^000000´Ô¿¡°Ô Àü´Þ ¿Ï·á.",
+        "en-US": "Delivered to ^4D4DFFCinnamon^000000.",
         "pt-BR": "Entregue a ^4D4DFFHolofontinhol^000000.",
         "es-ES": "Entregado a ^4D4DFFCanel^000000."
     },
     "l1D4DA": {
-        "en-US": "^4D4DFF¾ÈÆ®^000000´Ô¿¡°Ô Àü´Þ ¹Ì¿Ï·á.",
+        "en-US": "Not delivered to ^4D4DFFCinnamon^000000.",
         "pt-BR": "Não entregue a ^4D4DFFHolofontinhol^000000.",
         "es-ES": "No entregado a ^4D4DFFCanel^000000."
     },
     "mFD4DA": {
-        "en-US": "^4D4DFFÃ¤ÀÌ^000000´Ô¿¡°Ô Àü´Þ ¿Ï·á.",
+        "en-US": "Delivered to ^4D4DFFHazel^000000.",
         "pt-BR": "Entregue a ^4D4DFFChai^000000.",
         "es-ES": "Entregado a ^4D4DFFAvellana^000000."
     },
     "mVD4DA": {
-        "en-US": "^4D4DFFÃ¤ÀÌ^000000´Ô¿¡°Ô Àü´Þ ¹Ì¿Ï·á.",
+        "en-US": "Not delivered to ^4D4DFFHazel^000000.",
         "pt-BR": "Não entregue a ^4D4DFFChai^000000.",
         "es-ES": "No entregado a ^4D4DFFAvellana^000000."
     },
     "mlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¸ðµç »ç¶÷¿¡°Ô Àü´ÞÀÌ µÇ¾î¾ß ÀÌ¹ø ÀÓ¹«°¡ ¿Ï·á¶ø´Ï´Ù!",
+        "en-US": "[Chocola]\nThe mission is only complete when delivered to everyone!",
         "pt-BR": "[Chocolai]\nA missão só está completa quando entregue a todos!",
         "es-ES": "[Chocolai]\n¡La misión solo se completa cuando se entrega a todo el mundo!"
     },
     "m1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n½ºÀ­Ã÷ µå·ÓÇÁ½º ³à¼®µéµµ Áö±ÝÂë °æ°è¸¦ ÇÏ´À¶ó Ã¢°í ÅÐ »ý°¢Àº ¸øÇÒ°Å¿¡¿ä.\n´çºÐ°£Àº ±¦Âú°ÚÁÒ.\n¸ðÇè°¡´ÔÀº ÃàÁ¦¸¦ Áñ°ÜÁÖ¼¼¿ä!",
+        "en-US": "[Chocola]\nThe Sweet Drops should be on guard right now and won't think of raiding the warehouse.\nThey should be fine for a while.\nYou go enjoy the festival, Adventurer!",
         "pt-BR": "[Chocolai]\nOs Quindings devem estar agora de guarda e não pensarão em invadir o armazém.\nEles devem ficar bem por um tempo.\nVá aproveitar o festival, Viajante!",
         "es-ES": "[Chocolai]\nLos Poriflanes deberían estar alerta ahora mismo y no pensarán en asaltar el almacén.\nDeberían estar bien por un tiempo.\nVe y disfruta del festival, Trotamundos."
     },
     "nFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¿À, ±×·¯º¸°í´Ï ½ºÀ­Ã÷ µå·ÓÇÁ½º°¡ ÀÖ¾úÁÒ.\nÀÌ ³à¼®µé, ¶Ç Ã¢°í¸¦ ÅÐ·¯ ¿Ã°Å¿¡¿ä.\nÀÀÂ¡ÀÇ ÁØºñ°¡ µÇ¼Ì´Ù¸é Àú¿¡°Ô ´Ù½Ã ¸»À» °É¾î ÁÖ¼¼¿ä!",
+        "en-US": "[Chocola]\nOh, speaking of which, there are the Sweet Drops.\nThose fellows will come to raid the warehouse again.\nIf you're ready to punish them, please talk to me again!",
         "pt-BR": "[Chocolai]\nAh, por falar nisso, aí estão os Quindings.\nEsses indivíduos virão invadir o armazém novamente.\nSe você estiver pronto para os punir, por favor, fale comigo novamente!",
         "es-ES": "[Chocolai]\nAh, hablando de eso, ahí están los Poriflanes.\nEsos tipos vendrán a asaltar el almacén de nuevo.\nSi estás list@ para castigarlos, ¡por favor, vuelve a hablarme!"
     },
     "nVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n±×·¸Áö, ^4D4DFF½ºÀ­Ã÷ µå·ÓÇÁ½º^000000¸¦ ²ÙÁØÈ÷ ÅðÄ¡ÇØ¾ß ÇÏÁÒ!\n½ºÀ­Ã÷ ÃàÁ¦°¡ ÁøÇàµÇ´Â µ¿¾ÈÀº ¾Æ¸¶ ¸ÅÀÏ ÇØ¾ß ÇÒ °Å¿¡¿ä.",
+        "en-US": "[Chocola]\nThat's right, we need to consistently defeat the ^4D4DFFSweet Drops^000000!\nWe'll probably need to do it every day during the Sweets Festival.",
         "pt-BR": "[Chocolai]\nÉ mesmo, precisamos de derrotar consistentemente os ^4D4DFFQuindings^000000!\nProvavelmente precisaremos fazê-lo todos os dias durante o Chocomania.",
         "es-ES": "[Chocolai]\n¡Así es, necesitamos derrotar constantemente a los ^4D4DFFPoriflanes^000000!\nProbablemente tendremos que hacerlo cada día durante el Festival de los Dulces."
     },
     "nlD4DA": {
-        "en-US": "ÅðÄ¡ ÇÏ°Ú´Ù.",
+        "en-US": "I will defeat them.",
         "pt-BR": "Eu os derrotarei.",
         "es-ES": "Los derrotaré."
     },
     "n1D4DA": {
-        "en-US": "°ÅÀý ÇÑ´Ù.",
+        "en-US": "I refuse.",
         "pt-BR": "Eu recuso.",
         "es-ES": "Me niego."
     },
     "oFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÁÁ¾Æ¿ä!\n±×·³, ½ºÀ­Ã÷ µå·ÓÇÁ½ºÀÇ ÀÀÂ¡Àº ¸ðÇè°¡´Ô²² ¸Ã±â°Ú¾î¿ä!\nÀÚ, ¾ðÁ¦³ªÃ³·³ ^4D4DFF½ºÀ­Ã÷ µå·ÓÇÁ½º 10¸¶¸®^000000¸¦ Ã³Ä¡ÇÏ½ÃÁÒ!",
+        "en-US": "[Chocola]\nGreat!\nThen, I'll leave the punishment of the Sweet Drops to you, Adventurer!\nNow, as always, defeat 10 ^4D4DFFSweet Drops^000000!",
         "pt-BR": "[Chocolai]\nÓtimo!\nEntão, eu deixo o castigo dos Quindings consigo, Viajante!\nAgora, como sempre, derrote 10 ^4D4DFFQuindings^000000!",
         "es-ES": "[Chocolai]\n¡Genial!\n¡Entonces, te dejo el castigo de los Poriflanes a ti, Trotamundos!\n¡Ahora, como siempre, derrota 10 ^4D4DFFPoriflanes^000000!"
     },
     "oVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¾Ñ.. ¾Æ¾Æ.. °â»ç °â»ç ¹Þ¾Æ µÎ¼Åµµ µÉÅÙµ¥...",
+        "en-US": "[Chocola]\nAh.. aah... You could have taken it while you were at it...",
         "pt-BR": "[Chocolai]\nAh.. aah... Você podia tê-lo aceitado enquanto cá estava...",
         "es-ES": "[Chocolai]\nAh.. aah... Podrías habérnoslo quedado mientras estabas..."
     },
     "olD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n±×·³, ½ºÀ­Ã÷ µå·ÓÇÁ½ºÀÇ ÀÀÂ¡Àº ¸ðÇè°¡´Ô²² ¸Ã±â°Ú¾î¿ä!\nÀÚ, ¾ðÁ¦³ªÃ³·³ ½ºÀ­Ã÷ µå·ÓÇÁ½º 10¸¶¸®¸¦ Ã³Ä¡ÇÏ½ÃÁÒ!",
+        "en-US": "[Chocola]\nThen, I'll leave the punishment of the Sweet Drops to you, Adventurer!\nNow, as always, defeat 10 Sweet Drops!",
         "pt-BR": "[Chocolai]\nEntão, eu deixo o castigo dos Quindings consigo, Viajante!\nAgora, como sempre, derrote 10 Quindings!",
         "es-ES": "[Chocolai]\n¡Entonces, te dejo el castigo de los Poriflanes a ti, Trotamundos!\n¡Ahora, como siempre, derrota 10 Poriflanes!"
     },
     "o1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n½ºÀ­Ã÷ µå·ÓÇÁ½º¸¦ ÀÀÂ¡ÇÏ°í ¿À¼Ì±º¿ä!\n¿À´Ãµµ Ã¢°í¸¦ »ç¼öÇß³×¿ä!",
+        "en-US": "[Chocola]\nYou've come back from punishing the Sweet Drops!\nWe've defended the warehouse again today!",
         "pt-BR": "[Chocolai]\nVocê voltou de punir os Quindings!\nNós defendemos o armazém novamente hoje!",
         "es-ES": "[Chocolai]\n¡Has vuelto de castigar a los Poriflanes!\n¡Hemos defendido el almacén otra vez hoy!"
     },
     "pFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÁ¤¸» ¼ö°íÇÏ¼Ì½À´Ï´Ù.\n¾Æ¾Æ, Á¤¸»·Î ¸ðÇè°¡´Ô ¾È°è¼ÌÀ¸¸é ¾îÂ¿»·Çß´ÂÁö..\nÀÌ°Ç °¨»çÀÇ ¶æÀ¸·Î µå¸®´Â º¸´äÀÌ¿¡¿ä.",
+        "en-US": "[Chocola]\nYou've worked really hard.\nAh, what would I have done without you, Adventurer..\nThis is a reward as a token of my gratitude.",
         "pt-BR": "[Chocolai]\nVocê trabalhou muito.\nAh, o que teria feito sem você, Viajante..\nIsto é uma recompensa como prova da minha gratidão.",
         "es-ES": "[Chocolai]\nHas trabajado muy duro.\nAh, qué habría hecho sin ti, Trotamundos..\nEsto es una recompensa como muestra de mi gratitud."
     },
     "pVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n±×·³ ½ºÀ­Ã÷ ÃàÁ¦ Áñ°Ü ÁÖ¼¼¿ä!",
+        "en-US": "[Chocola]\nNow, enjoy the Sweets Festival!",
         "pt-BR": "[Chocolai]\nAgora, aproveite o Chocomania!",
         "es-ES": "[Chocolai]\n¡Ahora, disfruta del Festival de los Dulces!"
     },
     "plD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¸ðÇè°¡´Ô, ^4D4DFF¼÷¼ºµÈ Ä«Ä«¿ÀÄá^000000 1°³¸¦ °¡Á®¿À½Ã¸é ^4D4DFF½ºÀ­Ã÷ ÄÚÀÎ^000000 30°³¸¦ µå¸®°í ÀÖ½À´Ï´Ù.",
+        "en-US": "[Chocola]\nAdventurer, I'm giving 30 ^4D4DFFSweet Coin^000000 for every 1 ^4D4DFFRipe Cacao Bean^000000 you bring me.",
         "pt-BR": "[Chocolai]\nViajante, estou dando ^4D4DFF30 Chocoedas^000000 por cada ^4D4DFF1 Grão de Cacau Maduro^000000 que me trouxer.",
         "es-ES": "[Chocolai]\nTrotamundos, te voy a dar 30 ^4D4DFFChocomoneda^000000 por cada 1 ^4D4DFFGrano de Cacao Maduro^000000 que me traigas."
     },
     "p1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n°¡Áö°í °è½Å ¼÷¼ºµÈ Ä«Ä«¿ÀÄáÀ» ÄÚÀÎÀ¸·Î ±³È¯ÇÏ½Ã°Ú¾î¿ä?",
+        "en-US": "[Chocola]\nWould you like to exchange your Ripe Cacao Beans for Coins?",
         "pt-BR": "[Chocolai]\nGostaria de trocar os seus grãos de cacau maduros por Chocoedas?",
         "es-ES": "[Chocolai]\n¿Quieres intercambiar tus Granos de Cacao Maduros por Chocomonedas?"
     },
     "qFD4DA": {
-        "en-US": "±³È¯ÇÑ´Ù.",
+        "en-US": "Exchange.",
         "pt-BR": "Trocar.",
         "es-ES": "Intercambiar."
     },
     "qVD4DA": {
-        "en-US": "±³È¯ÇÏÁö ¾Ê´Â´Ù.",
+        "en-US": "Don't exchange.",
         "pt-BR": "Não trocar.",
         "es-ES": "No intercambiar."
     },
     "qlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n°¡Áö°í °è½Å ¼÷¼ºµÈ Ä«Ä«¿ÀÄáÀ» ¸ðµÎ ÄÚÀÎÀ¸·Î ¹Ù²ãµå·È½À´Ï´Ù!!",
+        "en-US": "[Chocola]\nI've exchanged all your Ripe Cacao Beans for Coins!!",
         "pt-BR": "[Chocolai]\nTroquei todos os seus grãos de cacau maduros por Chocoedas!!",
         "es-ES": "[Chocolai]\n¡¡He intercambiado todos tus Granos de Cacao Maduros por Chocomonedas!!"
     },
     "q1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n^4D4DFF¼÷¼ºµÈ Ä«Ä«¿ÀÄá^000000À» °¡Áö°í ÀÖÁö ¾ÊÀ¸¼¼¿ä~",
+        "en-US": "[Chocola]\nYou don't have any ^4D4DFFRipe Cacao Bean^000000~",
         "pt-BR": "[Chocolai]\nVocê não tem nenhum ^4D4DFFGrão de Cacau Maduro^000000~",
         "es-ES": "[Chocolai]\nNo tienes ningún ^4D4DFFGrano de Cacao Maduro^000000~"
     },
     "rFD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n^4D4DFF´õºÎ·èÇÑ ½ºÀ­Ã÷¸µ^000000À» Ã³Ä¡ÇÏ¸é ¾òÀ¸½Ç ¼ö ÀÖ½À´Ï´Ù.",
+        "en-US": "[Chocola]\nYou can get them by defeating ^4D4DFFBloated Sweets Rings^000000.",
         "pt-BR": "[Chocolai]\nPode obtê-los derrotando ^4D4DFFAnéis de Doce Inchados^000000.",
         "es-ES": "[Chocolai]\nPuedes obtenerlos derrotando a ^4D4DFFAnillos Dulces Hinchados^000000."
     },
     "rVD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n±×·¯½Ã±º¿ä~",
+        "en-US": "[Chocola]\nI see~",
         "pt-BR": "[Chocolai]\nEntendo~",
         "es-ES": "[Chocolai]\nYa veo~"
     },
     "rlD4DA": {
-        "en-US": "[¼îÄÝ¶ó]\n¼ÒÀåÇÏ°í °è½Å °Í º¸´Ù´Â Àú¿¡°Ô Àü´ÞÇØ ÁÖ½Ã´Â ÂÊÀÌ ¿©·¯¸ð·Î ÁÁ´Ù°í »ý°¢ÇÕ´Ï´Ù¸¸...",
+        "en-US": "[Chocola]\nI think it's better for you to hand them over to me rather than keep them...",
         "pt-BR": "[Chocolai]\nAcho melhor entregá-los a mim do que guardá-los...",
         "es-ES": "[Chocolai]\nCreo que es mejor que me los entregues a mí en lugar de guardarlos..."
     },
     "r1D4DA": {
-        "en-US": "[¼îÄÝ¶ó]\nÈ£Èª...\n¾ÆÁ÷ ¿©À¯°¡ ³ÑÄ¡½Ã´Â±¸³ª?\n½ºÀ­Ã÷ ÄÚÀÎ °¡Áö°í ÀúÈñ ½ºÀ­Ã÷ »óÁ¡ ¸Å»ó Á» ¿Ã·ÁÁÖ¼¼¿ä. È£È£Èª",
+        "en-US": "[Chocola]\nHo hot...\nStill feeling generous?\nUse your Sweet Coins to boost our Sweets Shop sales. Ho ho hot.",
         "pt-BR": "[Chocolai]\nHo hot...\nAinda se sentindo generoso(a)?\nUse as suas Chocoedas para aumentar as vendas da nossa Loja de Doces. Ho ho hot.",
         "es-ES": "[Chocolai]\nJo jo...\n¿Todavía te sientes generos@?\nUsa tus Chocomonedas para aumentar las ventas de nuestra Tienda de Dulces. Jo jo jo."
     },
     "sFD4DA": {
-        "en-US": "Å©¸®¿£",
+        "en-US": "Cherry",
         "pt-BR": "Radigunda",
         "es-ES": "Cereza"
     },
     "sVD4DA": {
-        "en-US": "Å©·¹ÀÌÇÁ °í¸¶¿ö¿ä! Àß ¸ÔÀ»°Ô¿ä!",
+        "en-US": "Thank you for the crepe! I'll enjoy it!",
         "pt-BR": "Obrigado pelo crepe! Vou apreciá-lo!",
         "es-ES": "¡Gracias por el crepe! ¡Lo disfrutaré!"
     },
     "slD4DA": {
-        "en-US": "...¼Õ´Ôµé¿¡°Ô ½ºÀ­Ã÷¸¦ ¸ðµÎ ¼±¹°Çß´Ù. ¼îÄÝ¶ó¿¡°Ô µ¹¾Æ°¡ º¸°íÇÏÀÚ....",
+        "en-US": "...I have given all the sweets to the guests. I should return to Chocola and report...",
         "pt-BR": "...Eu dei todos os doces aos convidados. Devo voltar para a Chocolai e reportar...",
         "es-ES": "...He repartido todos los dulces a los invitados. Debería volver donde Chocolai y reportar..."
     },
     "s1D4DA": {
-        "en-US": "[Å©¸®¿£]\n¾î... ¾È³çÇÏ¼¼¿ä.\n´ÞÄÞÇÑ ±â¿îÀÌ »ç¹æ¿¡¼­ ´À²¸Áö³×¿ä...\nÇÏÁö¸¸ Àú´Â ´ÞÄÞÇÏÁö ¾Ê´ä´Ï´Ù.",
+        "en-US": "[Cherry]\nUh... Hello.\nI can feel a sweet vibe coming from all around...\nBut I'm not sweet.",
         "pt-BR": "[Radigunda]\nHum... Olá.\nConsigo sentir uma vibração doce vindo de todos os lados...\nMas eu não sou doce.",
         "es-ES": "[Cereza]\nEh... Hola.\nPuedo sentir una vibra dulce viniendo de todos lados...\nPero yo no soy dulce."
     },
     "tFD4DA": {
-        "en-US": "[Å©¸®¿£]\n»ç¶ûÇÏ´Â »ç¶÷¿¡°Ô ½ºÀ­Ã÷¸¦ ¼±¹°ÇÏ´Â ÃàÁ¦.\nÀú¿Í´Â º°·Î °ü·ÃÀÌ ¾ø´Â °Í °°¾Æ¿ä...",
+        "en-US": "[Cherry]\nA festival where you give sweets to your loved ones.\nIt doesn't seem very relevant to me...",
         "pt-BR": "[Radigunda]\nUm festival onde se dão doces aos seus entes queridos.\nNão me parece muito relevante...",
         "es-ES": "[Cereza]\nUn festival donde das dulces a tus seres queridos.\nNo me parece muy relevante..."
     },
     "tVD4DA": {
-        "en-US": "[Å©¸®¿£]\n¿Ö Àú´Â ¾Æ¹«°Íµµ ¹ÞÁö ¸øÇÏ´Â °É±î¿ä?\n³»°¡ ¸Å·ÂÀÌ ¾ø´Â°Ç°¡?\n¾Æ´Ï¾ß.. ±×·²¸®°¡ ¾ø´Âµ¥...?",
+        "en-US": "[Cherry]\nWhy don't I ever receive anything?\nAm I unattractive?\nNo.. that can't be right...?",
         "pt-BR": "[Radigunda]\nPorque é que nunca recebo nada?\nSou pouco atraente?\nNão.. isso não pode estar certo...?",
         "es-ES": "[Cereza]\n¿Por qué nunca recibo nada?\n¿Es que no soy atractiv@?\nNo.. eso no puede estar bien...?"
     },
     "tlD4DA": {
-        "en-US": "ÀÚ, ¿©±â ÀÌ°Å ¹Þ¾Æ.",
+        "en-US": "Here, take this.",
         "pt-BR": "Aqui, pega isto.",
         "es-ES": "Toma, coge esto."
     },
     "t1D4DA": {
-        "en-US": "[Å©¸®¿£]\n¾Æ... ÀÌ°ÍÀº Å©·¹ÀÌÇÁ³×¿ä...!\n´ÞÄÞÇÑ ³¿»õ°¡....\nÁ¦°¡ °¡Àå ÁÁ¾ÆÇÏ´Â ½ºÀ­Ã÷ ¸Þ´ºÀÎ °ÍÀº ¾î¶»°Ô ¾Æ¼ÌÀ»±î...",
+        "en-US": "[Cherry]\nAh... This is a crepe...!\nA sweet smell....\nHow did you know this is my favorite sweets menu...",
         "pt-BR": "[Radigunda]\nAh... Isto é um crepe...!\nUm cheiro doce....\nComo é que soube que este é o meu menu de doces favorito...",
         "es-ES": "[Cereza]\nAh... ¡Esto es un crepe...!\nUn olor dulce....\n¿Cómo supiste que este es mi menú de dulces favorito..."
     },
     "uFD4DA": {
-        "en-US": "[Å©¸®¿£]\nÈ¤½Ã... Àú¸¦ »ç¶ûÇÏ½Ã³ª¿ä??\n¾Æ... ÀÌ¿ôÀ» »ç¶ûÇÏ´Â ¸¶À½..!\n±×·¡¿ä. ¸Â¾Æ...",
+        "en-US": "[Cherry]\nDo you... perhaps love me??\nAh... love for your neighbor..!\nThat's right. Exactly...",
         "pt-BR": "[Radigunda]\nVocê... por acaso ama-me??\nAh... amor ao próximo..!\nÉ isso mesmo. Exatamente...",
         "es-ES": "[Cereza]\n¿Acaso... me amas??\nAh... amor al prójimo..!\nAsí es. Exactamente..."
     },
     "uVD4DA": {
-        "en-US": "[Å©¸®¿£]\n»ç¶û ¹Þ±â À§ÇØ¼­´Â ³²À» »ç¶ûÇÒ ÁÙµµ ¾Ë¾Æ¾ß ÇÏ´Â°Çµ¥,\nÁ¦°¡ Å¸ÀÎ¿¡°Ô ±×·± ¸¶À½À» º£Ç¬ ÀûÀÌ ¾ø¾ú´ø °Í °°¾Æ¿ä.",
+        "en-US": "[Cherry]\nTo be loved, you need to know how to love others,\nbut I realize I've never given that kind of feeling to anyone else.",
         "pt-BR": "[Radigunda]\nPara ser amado, precisamos saber amar os outros,\nmas apercebo-me de que nunca dei esse tipo de sentimento a ninguém.",
         "es-ES": "[Cereza]\nPara ser amado, necesitas saber amar a los demás,\npero me doy cuenta de que nunca he dado ese tipo de sentimiento a nadie más."
     },
     "ulD4DA": {
-        "en-US": "[Å©¸®¿£]\n°¨»çÇÕ´Ï´Ù. ´ÞÄÞÇÑ Å©·¹ÀÌÇÁ´Â Á¤¸» °¨»çÈ÷ Àß ¸ÔÀ»°Ô¿ä.\n±× ¼ÒÁßÇÑ ¸¶À½, Àß Àü´Þ¹Þ¾Ò½À´Ï´Ù.\nÀúµµ ÀÌ ÃàÁ¦¿¡ µ¿ÂüÇØ¾ß°Ú¾î¿ä.",
+        "en-US": "[Cherry]\nThank you. I'll gladly enjoy this sweet crepe.\nI've received that precious feeling well.\nI should join this festival too.",
         "pt-BR": "[Radigunda]\nObrigada. Vou apreciar este crepe doce com prazer.\nRecebi bem esse sentimento precioso.\nEu deveria participar neste festival também.",
         "es-ES": "[Cereza]\nGracias. Disfrutaré mucho este dulce crepe.\nHe recibido bien ese sentimiento tan valioso.\nDebería unirme a este festival también."
     },
     "u1D4DA": {
-        "en-US": "¸ðµç ½ºÀ­Ã÷¸¦ ¼Õ´Ôµé¿¡°Ô ¼±¹°Çß´Ù.\n¼îÄÝ¶ó¿¡°Ô µ¹¾Æ°¡ º¸°íÇÏÀÚ.",
+        "en-US": "I have given all the sweets to the guests. I should return to Chocola and report.",
         "pt-BR": "Eu dei todos os doces aos convidados. Devo voltar para a Chocolai e reportar.",
         "es-ES": "He repartido todos los dulces a los invitados. Debería volver donde Chocolai y reportar."
     },
     "vFD4DA": {
-        "en-US": "¾ÆÁ÷ ½ºÀ­Ã÷¸¦ Àü´ÞÇÏÁö ¾ÊÀº ¼Õ´ÔÀÌ ÀÖ´Ù.",
+        "en-US": "There are still guests I haven't given sweets to.",
         "pt-BR": "Ainda há convidados a quem não dei doces.",
         "es-ES": "Todavía hay invitados a los que no les he dado dulces."
     },
     "vVD4DA": {
-        "en-US": "¼îÄÝ¶ó°¡ ºÎÅ¹Çß´ø ´ÞÄÞÇÑ Å©·¹ÀÌÇÁ°¡ ¾ø´Ù...!\n½ºÀ­Ã÷ »óÁ¡¿¡¼­ »ç¿Í¾ß ÇÒ±î?",
+        "en-US": "I don't have the sweet crepe that Chocola asked for!\nShould I buy one from the Sweets Shop?",
         "pt-BR": "Eu não tenho o crepe doce que a Chocolai pediu!\nDevo comprar um na Loja de Doces?",
         "es-ES": "¡No tengo el crepe dulce que me pidió Chocolai!\n¿Debería comprar uno en la Tienda de Dulces?"
     },
     "vlD4DA": {
-        "en-US": "[Å©¸®¿£]\n¾î... ¾È³çÇÏ¼¼¿ä.\n¶Ç ºË³×¿ä. ¸ðÇè°¡´Ô.\nÀú¿¡°Ô ¹«½¼ º¼ÀÏÀÌ½Å°¡¿ä?",
+        "en-US": "[Cherry]\nUh... Hello.\nWe meet again, Adventurer.\nWhat business do you have with me?",
         "pt-BR": "[Radigunda]\nHum... Olá.\nEncontramo-nos novamente, Viajante.\nQue assunto tem comigo?",
         "es-ES": "[Cereza]\nEh... Hola.\nNos encontramos de nuevo, Trotamundos.\n¿Qué asunto tienes conmigo?"
     },
     "v1D4DA": {
-        "en-US": "[Å©¸®¿£]\n¾Æ... ÀÌ ´ÞÄÞÇÑ Å©·¹ÀÌÇÁ..!\nÀú¿¡°Ô ¶Ç ÁÖ½Ã´Â°Ç°¡¿ä?\n°¨»çÇØ¿ä... °¨µ¿ÀûÀÌ³×¿ä.",
+        "en-US": "[Cherry]\nAh... this sweet crepe..!\nAre you giving it to me again?\nThank you... I'm touched.",
         "pt-BR": "[Radigunda]\nAh... este crepe doce..!\nVais dar-mo outra vez?\nObrigado... Estou comovido.",
         "es-ES": "[Cereza]\nAh... ¡este crepe dulce..!\n¿Me lo vas a dar otra vez?\nGracias... Estoy conmovida."
     },
     "wFD4DA": {
-        "en-US": "[Å©¸®¿£]\nÀÌ¿ô¿¡°Ô ³ª´©´Â »ç¶û.\n±×°ÍÀÌ ¹Ýº¹µÇ¸é ´õ¿í ±â»ÝÀÌ Ãæ¸¸ÇØÁø´Ù´Â °Í.\n´öºÐ¿¡ Àß ¾Ë¾Ò½À´Ï´Ù.\n°¨»çÇØ¿ä. ¸ðÇè°¡´Ôµµ ±â»ÝÀ¸·Î Ãæ¸¸ÇØÁö½Ã±â¸¦.",
+        "en-US": "[Cherry]\nThe love shared with neighbors.\nWhen repeated, it fills you with even more joy.\nThanks to you, I've learned that well.\nThank you. I hope you too are filled with joy, Adventurer.",
         "pt-BR": "[Radigunda]\nO amor partilhado com os vizinhos.\nQuando repetido, enche-nos com ainda mais alegria.\nGraças a ti, aprendi isso bem.\nObrigado. Espero que tu também estejas cheio de alegria, Viajante.",
         "es-ES": "[Cereza]\nEl amor compartido con los vecinos.\nCuando se repite, te llena de aún más alegría.\nGracias a ti, lo he aprendido bien.\nGracias. Espero que tú también estés llen@ de alegría, Trotamundos."
     },
     "wVD4DA": {
-        "en-US": "[Å©¸®¿£]\n°í¸¶¿ö¿ä, ¸ðÇè°¡´Ô.\nÁñ°Å¿î ÃàÁ¦ µÇ½Ã±æ.",
+        "en-US": "[Cherry]\nThank you, Adventurer.\nHave a joyful festival.",
         "pt-BR": "[Radigunda]\nObrigado, Viajante.\nTenha um festival alegre.",
         "es-ES": "[Cereza]\nGracias, Trotamundos.\nTen un festival alegre."
     },
     "wlD4DA": {
-        "en-US": "[Å©¸®¿£]\n¿Ã ÇØ¿¡µµ... ³­...\nÀÌ·¸°Ô... ¾µ¾µÇÏ°Ô...?\n...Á¤¸»·Î?",
+        "en-US": "[Cherry]\nAgain this year... I'm...\nSo... lonely...?\n...Really?",
         "pt-BR": "[Radigunda]\nMais um ano... eu estou...\nTão... sozinho...?\n...A sério?",
         "es-ES": "[Cereza]\nOtro año más... yo estoy...\nTan... sola...?\n...¿En serio?"
     },
     "w1D4DA": {
-        "en-US": "¶ó½Ã½º",
+        "en-US": "Blossom",
         "pt-BR": "Acheropita",
         "es-ES": "Florinda"
     },
     "xFD4DA": {
-        "en-US": "µþ±â »ýÅ©¸² ÄÅÄÉŸ?°í¸¶¿ö¿ä! Àß ¸ÔÀ»°Ô¿ä!",
+        "en-US": "Thank you for the strawberry cream cupcake! I'll enjoy it!",
         "pt-BR": "Obrigado pelo cupcake de morango! Vou apreciá-lo!",
         "es-ES": "¡Gracias por el Cupcake de Fresa y Crema! ¡Lo disfrutaré!"
     },
     "xVD4DA": {
-        "en-US": "[¶ó½Ã½º]\n¾È³çÇÏ¼¼¿ä.\n¿äÁò ½ºÀ­Ã÷ ÃàÁ¦·Î ÀÎÇØ ÇÁ·ÐÅ×¶ó¿¡ ´ÞÄÞÇÑ ±â¿îÀ¸·Î °¡µæ Â÷ ÀÖ±º¿ä!\nÀÌ¸¾ ¶§°¡ µÇ¸é ¾Æ·ÃÇÑ Ãß¾ïÀÌ ÀÚ²Ù ¶°¿À¸£´Â°Å ÀÖÁÒ.",
+        "en-US": "[Blossom]\nHello.\nThe Sweets Festival has filled Prontera with a sweet vibe!\nAt this time of year, I keep remembering a bittersweet memory.",
         "pt-BR": "[Acheropita]\nOlá.\nO Chocomania encheu Prontera de uma vibe doce!\nNesta altura do ano, não paro de me lembrar de uma memória agridoce.",
         "es-ES": "[Florinda]\nHola.\n¡El Festival de los Dulces ha llenado Prontera de una vibra dulce!\nEn esta época del año, no dejo de recordar un recuerdo agridulce."
     },
     "xlD4DA": {
-        "en-US": "[¶ó½Ã½º]\n±× ³²ÀÚµµ.. µþ±â »ýÅ©¸² ÄÅÄÉŸåÀ?Á¤¸» ÁÁ¾ÆÇß¾ú´Âµ¥...\nÀß Áö³»°í ÀÖÀ¸·Á³ª ¸ð¸£°Ú³×¿ä.",
+        "en-US": "[Blossom]\nThat man... loved strawberry cream cupcakes too...\nI wonder how he's doing.",
         "pt-BR": "[Acheropita]\nAquele homem... também adorava cupcakes de morango...\nGostava de saber como ele está.",
         "es-ES": "[Florinda]\nEse hombre... también amaba los pastelitos de fresa...\nMe pregunto cómo estará."
     },
     "x1D4DA": {
-        "en-US": "[¶ó½Ã½º]\n¾Æ, ±× »ç¶÷Àº Áö±Ý ¾îµð ÀÖ³Ä°í¿ä?\n¸ðÇèÀ» ¶°³µ´ä´Ï´Ù. Áö±ÝÀÇ ¸ðÇè°¡´ÔÃ³·³¿ä.\n¿©±â¼­... °°ÀÌ Áö³»µµ ÃæºÐÈ÷ ¼­·Î°¡ Çàº¹ÇÒ ¼ö ÀÖ´Âµ¥...",
+        "en-US": "[Blossom]\nAh, you ask where he is now?\nHe left on an adventure. Just like you, Adventurer.\nWe could be perfectly happy together... here...",
         "pt-BR": "[Acheropita]\nAh, perguntas onde ele está agora?\nEle partiu numa aventura. Tal como tu, Viajante.\nNós podíamos ser perfeitamente felizes juntos... aqui...",
         "es-ES": "[Florinda]\nAh, ¿preguntas dónde está ahora?\nSe fue de aventura. Igual que tú, Trotamundos.\nPodríamos ser perfectamente felices juntos... aquí..."
     },
     "yFD4DA": {
-        "en-US": "[¶ó½Ã½º]\n±×°¡ Áö±Ý ¿©±â ÀÖ¾ú´Ù¸é, °°ÀÌ ¿Àº×ÇÏ°Ô µþ±â »ýÅ©¸² ÄÅÄÉŸåÀ?¸Ô¾úÀ»ÅÙµ¥...",
+        "en-US": "[Blossom]\nIf he were here right now, we'd be enjoying strawberry cream cupcakes together...",
         "pt-BR": "[Acheropita]\nSe ele estivesse aqui agora, estaríamos a saborear cupcakes de morango juntos...",
         "es-ES": "[Florinda]\nSi él estuviera aquí ahora, estaríamos disfrutando de pastelitos de fresa juntos..."
     },
     "yVD4DA": {
-        "en-US": "[¶ó½Ã½º]\n¾Æ... ÀÌ°ÍÀº µþ±â »ýÅ©¸² ÄÅÄÉŸ?.!\n¿Í~ ±¸¿ö³½Áö ¾ó¸¶ µÇÁö ¾ÊÀº °ÍÀÌ³×¿ä...!\nÀú È¥ÀÚ ¸Ô±â¿¡´Â ³Ê¹« ¾Æ½±³×¿ä.",
+        "en-US": "[Blossom]\nAh... This is a strawberry cream cupcake..!\nWow~ It looks freshly baked...!\nIt's a shame to eat it alone.",
         "pt-BR": "[Acheropita]\nAh... Isto é um cupcake de morango..!\nUau~ Parece acabado de sair do forno...!\nÉ uma pena comê-lo sozinha.",
         "es-ES": "[Florinda]\nAh... ¡Esto es un Cupcake de Fresa y Crema..!\n¡Guau~ Parece recién horneado...!\nEs una pena comérselo sola."
     },
     "ylD4DA": {
-        "en-US": "[¶ó½Ã½º]\n±×´Â Áö±Ý ¾îµð ÀÖÀ»±î¿ä?\nÁ¤¸» ¿øÇÏ´Â °ÍÀÌ ÀÖ´Ù¸é¼­ ¹«ÀÛÁ¤ ¶°³ª¹ö·È´Âµ¥...\n±×°ÍÀÌ Àúº¸´Ù Áß¿äÇÑ °ÍÀÏ±î¿ä?\n¸ðÇè°¡´Ô²²¼­µµ ºñ½ÁÇÑ °á½ÉÀ» ÇÑ °ÍÀÌ°ÚÁÒ?",
+        "en-US": "[Blossom]\nWhere could he be now?\nHe left recklessly, saying he wanted something...\nIs that more important than me?\nI suppose you've made a similar decision, Adventurer.",
         "pt-BR": "[Acheropita]\nOnde estará ele agora?\nPartiu de forma imprudente, dizendo que queria algo...\nIsso é mais importante do que eu?\nSuponho que você tenha tomado uma decisão semelhante, Viajante.",
         "es-ES": "[Florinda]\n¿Dónde estará ahora?\nSe fue imprudentemente, diciendo que quería algo...\n¿Eso es más importante que yo?\nSupongo que tú has tomado una decisión similar, Trotamundos."
     },
     "y1D4DA": {
-        "en-US": "[¶ó½Ã½º]\n°¨»çÇÕ´Ï´Ù. ÀÌ ÄÅÄÉŸåÀ?Á¤¸» °¨»çÈ÷ Àß ¸ÔÀ»°Ô¿ä.\n±×¿ÍÀÇ Çàº¹Çß´ø ±â¾ïÀÌ ´Ù½Ã »ý»ýÇØÁö´Â °Í °°¾Æ Á¤¸» ±â»µ¿ä.\nÀú´Â °è¼Ó ¹Ï°í ±â´Ù¸®·Á°í¿ä.",
+        "en-US": "[Blossom]\nThank you. I'll gladly enjoy this cupcake.\nI'm really happy because it makes the happy memories with him vivid again.\nI'll continue to believe and wait.",
         "pt-BR": "[Acheropita]\nObrigada. Vou apreciar este cupcake com prazer.\nEstou muito feliz porque torna as memórias felizes com ele vívidas novamente.\nContinuarei a acreditar e esperar.",
         "es-ES": "[Florinda]\nGracias. Disfrutaré mucho este pastelito.\nEstoy muy feliz porque hace que los recuerdos felices con él vuelvan a ser vívidos.\nSeguiré creyendo y esperando."
     },
     "zFD4DA": {
-        "en-US": "[¶ó½Ã½º]\n³»³â ÀÌ¸¾ ¶§¿¡´Â °°ÀÌ ÀÌ ´ÞÄÞÇÑ ÄÉŸåÀ?¸ÔÀ» ¼ö ÀÖ°ÚÁö...",
+        "en-US": "[Blossom]\nI hope we can eat this sweet cake together around this time next year...",
         "pt-BR": "[Acheropita]\nEspero que possamos comer este bolo doce juntos por esta altura no próximo ano...",
         "es-ES": "[Florinda]\nEspero que podamos comer este dulce pastel juntos por estas fechas el año que viene..."
     },
     "zVD4DA": {
-        "en-US": "¼îÄÝ¶ó°¡ ºÎÅ¹Çß´ø µþ±â »ýÅ©¸² ÄÅÄÉŸåÀ?¾ø´Ù...!\n½ºÀ­Ã÷ »óÁ¡¿¡¼­ »ç¿Í¾ß ÇÒ±î?",
+        "en-US": "I don't have the strawberry cream cupcake that Chocola asked for...!\nShould I buy one from the Sweets Shop?",
         "pt-BR": "Eu não tenho o cupcake de morango que a Chocolai pediu...!\nDevo comprar um na Loja de Doces?",
         "es-ES": "¡No tengo el Cupcake de Fresa y Crema que me pidió Chocolai...!\n¿Debería comprar uno en la Tienda de Dulces?"
     },
     "zlD4DA": {
-        "en-US": "[¶ó½Ã½º]\n¾È³çÇÏ¼¼¿ä.\n½ºÀ­Ã÷ ÃàÁ¦´Â Àß Áñ±â°í °è½Å°¡¿ä?\n±×·±µ¥ ¹«½¼ ÀÏÀÌ½ÃÁÒ?",
+        "en-US": "[Blossom]\nHello.\nAre you enjoying the Sweets Festival?\nBut what brings you here?",
         "pt-BR": "[Acheropita]\nOlá.\nEstá gostando do Chocomania?\nMas o que a traz aqui?",
         "es-ES": "[Florinda]\nHola.\n¿Estás disfrutando del Festival de los Dulces?\n¿Pero qué te trae por aquí?"
     },
     "z1D4DA": {
-        "en-US": "[¶ó½Ã½º]\n¾Æ... ÀÌ°ÍÀ» Àú¿¡°Ô ¶Ç ÁÖ½Ã´Â °Ç°¡¿ä?\nÂøÇÏ±âµµ ÇÏ¼Å¶ó...\n°í¸¶¿ö¿ä. Àß ¸ÔÀ»°Ô¿ä.",
+        "en-US": "[Blossom]\nAh... Are you giving this to me again?\nHow kind of you...\nThank you. I'll enjoy it.",
         "pt-BR": "[Acheropita]\nAh... Vai dar-me isto outra vez?\nTão gentil da sua parte...\nObrigada. Vou apreciá-lo.",
         "es-ES": "[Florinda]\nAh... ¿Me vas a dar esto otra vez?\nQué amable por tu parte...\nGracias. Lo disfrutaré."
     },
     "0FD4DA": {
-        "en-US": "[¶ó½Ã½º]\nÀú´Â Àß °ßµ®³»°í ÀÖ´ä´Ï´Ù.\nÀúÀÇ ±í¾ú´ø ½½ÇÄÀÌ ÀÌ ´ÞÄÞÇÑ ÄÉŸåÀ¸·?Á¶±ÝÀÌ³ª¸¶ ÇØ¼ÒµÇ´Â ´À³¦ÀÌ¿¡¿ä.",
+        "en-US": "[Blossom]\nI'm enduring well.\nI feel like my deep sadness is being alleviated a little by this sweet cake.",
         "pt-BR": "[Acheropita]\nEstou a aguentar bem.\nSinto que a minha profunda tristeza está a ser aliviada um pouco por este bolo doce.",
         "es-ES": "[Florinda]\nEstoy aguantando bien.\nSiento que mi profunda tristeza se está aliviando un poco con este dulce pastel."
     },
     "0VD4DA": {
-        "en-US": "[¶ó½Ã½º]\n¸ðÇè°¡´ÔÀÇ ¾Õ±æ¿¡´Â ±â»ÝÀ¸·Î °¡µæ Â÷±â¸¦ ±â¿øÇÒ°Ô¿ä.\n°¨»çÇÕ´Ï´Ù.",
+        "en-US": "[Blossom]\nI wish for your path ahead to be filled with joy.\nThank you.",
         "pt-BR": "[Acheropita]\nDesejo que o seu caminho à frente seja cheio de alegria.\nObrigada.",
         "es-ES": "[Florinda]\nDeseo que tu camino por delante esté lleno de alegría.\nGracias."
     },
     "0lD4DA": {
-        "en-US": "[¶ó½Ã½º]\n°í¸¶¿ö¿ä, ¸ðÇè°¡´Ô.\nÀú, Àß °ßµ®º¼°Ô¿ä!",
+        "en-US": "[Blossom]\nThank you, Adventurer.\nI'll endure well!",
         "pt-BR": "[Acheropita]\nObrigada, Viajante.\nEu vou aguentar bem!",
         "es-ES": "[Florinda]\nGracias, Trotamundos.\n¡Aguantaré bien!"
     },
     "01D4DA": {
-        "en-US": "[¶ó½Ã½º]\n´ÞÄÞÇÑ ³¿»õ°¡ °¡µæÇÏ³×¿ä.\n½ºÀ­Ã÷ ÃàÁ¦ ½ÃÁðÀÌ ¹ú½á µ¹¾Æ¿À´Ù´Ï...\n¾Æ... µþ±â¸À °°¾Ò´ø ³» »ç¶û...",
+        "en-US": "[Blossom]\nThe air is full of sweet scents.\nThe Sweets Festival season is already back...\nAh... my love that tasted like strawberries...",
         "pt-BR": "[Acheropita]\nO ar está cheio de cheiros doces.\nA época do Chocomania já voltou...\nAh... o meu amor que sabia a morangos...",
         "es-ES": "[Florinda]\nEl aire está lleno de olores dulces.\nLa temporada del Festival de los Dulces ya ha vuelto...\nAh... mi amor que sabía a fresas..."
     },
     "1FD4DA": {
-        "en-US": "¿¤Æ®»ê",
+        "en-US": "Walnuts",
         "pt-BR": "Clarisbadeu",
         "es-ES": "Nuex"
     },
     "1VD4DA": {
-        "en-US": "°úÀÏ ÆÄ¸£Æä °í¸¶¿ö¿ä! Àß ¸ÔÀ»°Ô¿ä!",
+        "en-US": "Thank you for the fruit parfait! I'll enjoy it!",
         "pt-BR": "Obrigado pela parfait de frutas! Vou apreciá-la!",
         "es-ES": "¡Gracias por la parfait de frutas! ¡La disfrutaré!"
     },
     "1lD4DA": {
-        "en-US": "[¿¤Æ®»ê]\n¾È³çÇÏ¼¼¿ä.\n½ºÀ­Ã÷ ÃàÁ¦°¡ ¿­·È³×¿ä. ´Ùµé Çàº¹ÇÑ ½Ã°£À» º¸³»°í ÀÖ´Â °Í °°¾Æ¿ä.\n¾Æ... Àúµµ Çàº¹ÇÒ ¿¹Á¤ÀÌ¾ú´Âµ¥...\nÀúÀÇ ¸ðµç °èÈ¹ÀÌ ´Ù ¹«³ÊÁö°í ¸»¾Ò¾î¿ä.",
+        "en-US": "[Walnuts]\nHello.\nThe Sweets Festival is being held. Everyone seems to be having a happy time.\nAh... I was supposed to be happy too...\nBut all my plans have fallen apart.",
         "pt-BR": "[Clarisbadeu]\nOlá.\nO Chocomania está a ser realizado. Toda a gente parece estar a divertir-se.\nAh... Eu também devia estar feliz...\nMas todos os meus planos foram por água abaixo.",
         "es-ES": "[Nuex]\nHola.\nEl Festival de los Dulces se está celebrando. Todo el mundo parece estar pasándolo bien.\nAh... Se suponía que yo también iba a ser feliz...\nPero todos mis planes se han venido abajo."
     },
     "11D4DA": {
-        "en-US": "[¿¤Æ®»ê]\nÀúÀÇ °èÈ¹ÀÌ ¹¹¿´³Ä¸é¿ä...\n±×³à¿¡°Ô °í¹éÀ» ÇÏ°í ¿¬ÀÎÀÌ µÇ¾î¼­...\nÁö±Ý µü ÀÌ ¼ø°£¿¡ »ç¶û¸¸Å­ ´ÞÄÞÇÑ ½ºÀ­Ã÷ ¸Þ´º¸¦ ÇÔ²² Áñ±æ »ý°¢ÀÌ¾úÁÒ.",
+        "en-US": "[Walnuts]\nWhat were my plans, you ask...\nI was going to confess to her, become lovers...\nand right now, at this very moment, enjoy a sweets menu as sweet as love together.",
         "pt-BR": "[Clarisbadeu]\nQuais eram os meus planos, perguntas...\nEu ia confessar-me a ela, tornar-nos namorados...\ne agora, neste exato momento, saborear um menu de doces tão doce como o amor juntos.",
         "es-ES": "[Nuex]\n¿Cuáles eran mis planes, preguntas?\nIba a confesarme a ella, convertirnos en amantes...\ny ahora, en este mismo momento, disfrutar de un menú de dulces tan dulce como el amor juntos."
     },
     "2FD4DA": {
-        "en-US": "[¿¤Æ®»ê]\nÇÏÁö¸¸... ¸»µµ Ã¤ ²¨³»±â Àü¿¡...\n°í¹éÀ» ¹Þ±âµµ Àü¿¡ °ÅÀýÀ» ÇÏ´Ù´Ï¿ä...",
+        "en-US": "[Walnuts]\nBut... before I could even get the words out...\nBefore I could even receive an answer, I was rejected...",
         "pt-BR": "[Clarisbadeu]\nMas... antes mesmo de conseguir pronunciar as palavras...\nAntes de conseguir sequer receber uma resposta, fui rejeitado...",
         "es-ES": "[Nuex]\nPero... antes siquiera de poder pronunciar palabra...\nAntes de poder recibir una respuesta, ¡fui rechazado..."
     },
     "2VD4DA": {
-        "en-US": "[¿¤Æ®»ê]\n¾Æ, ¸Â¾Æ¿ä.\n±×³à¿Í ÇÔ²² ¸ÔÀ¸·Á´ø ¸Þ´º°¡ ¹Ù·Î ÀÌ ÆÄ¸£Æä¿¡¿ä.\n¿©±â¿¡ ¾ñ¾îÁø ÀÌ »ý»ýÇÑ °úÀÏµé...!\n±×³à´Â °úÀÏÀ» Âü ÁÁ¾ÆÇß¾ú´Âµ¥...!",
+        "en-US": "[Walnuts]\nAh, that's right.\nThis parfait is exactly the menu I was going to eat with her.\nThese vibrant fruits on top...!\nShe really loved fruit...!",
         "pt-BR": "[Clarisbadeu]\nAh, é verdade.\nEsta parfait é exatamente o menu que eu ia comer com ela.\nEstas frutas vibrantes no topo...!\nEla realmente adorava fruta...!",
         "es-ES": "[Nuex]\nAh, así es.\nEsta parfait es exactamente el menú que iba a comer con ella.\n¡Estas frutas tan vibrantes encima...!\n¡A ella le encantaba la fruta...!"
     },
     "2lD4DA": {
-        "en-US": "[¿¤Æ®»ê]\n³×...? º°°Å ¾Æ´Ï¶ó±¸¿ä?\n½Ã°£ÀÌ Áö³ª¸é ±¦Âú¾ÆÁø´Ù´Â ¸»¾¸ÀÌ½Å°ÅÁÒ...\n¸Â¾Æ¿ä, ¾Ë°í´Â ÀÖÁö¸¸...\n¸¶À½ Á¤¸®ÇÏ´Â °ÍÀÌ ½±Áö°¡ ¾Ê³×¿ä.",
+        "en-US": "[Walnuts]\nYes...? You say it's no big deal?\nYou mean it'll be fine with time, right...\nYou're right, I know, but...\nIt's not easy to sort out my feelings.",
         "pt-BR": "[Clarisbadeu]\nSim...? Diz que não é nada de especial?\nQuer dizer que ficará tudo bem com o tempo, certo...\nVocê tem razão, eu sei, mas...\nNão é fácil organizar os meus sentimentos.",
         "es-ES": "[Nuex]\n¿Sí...? ¿Me dices que no es para tanto?\nQuieres decir que todo irá bien con el tiempo, ¿verdad...\nTienes razón, lo sé, pero...\nNo es fácil ordenar mis sentimientos."
     },
     "21D4DA": {
-        "en-US": "[¿¤Æ®»ê]\n°¨»çÇÕ´Ï´Ù. ÀÌ ÆÄ¸£Æä´Â Á¤¸» °¨»çÈ÷ Àß ¸ÔÀ»°Ô¿ä.\n¿ì¿ïÇÒ ¶§¿¡´Â ´ÞÄÞÇÑ °ÍÀÌ ÃÖ°íÁÒ.\nÁøÁ¤ÇÑ ÀúÀÇ ÀÎ¿¬À» ¸¸³ª°Ô µÉ °ÍÀÌ¶ó ¹Ï°í ÀÖ¾î¿ä.\n³»³âÀÇ ÃàÁ¦´Â ²À....!",
+        "en-US": "[Walnuts]\nThank you. I'll gladly enjoy this parfait.\nSweets are the best when you're feeling down.\nI believe I'll meet my true soulmate.\nNext year's festival, for sure...!",
         "pt-BR": "[Clarisbadeu]\nObrigado. Vou apreciar esta parfait com prazer.\nOs doces são os melhores quando estamos em baixo.\nAcredito que encontrarei a minha verdadeira alma gémea.\nO festival do próximo ano, de certeza...!",
         "es-ES": "[Nuex]\nGracias. Disfrutaré mucho esta parfait.\nLos dulces son lo mejor cuando estás desanimado.\nCreo que encontraré a mi verdadera alma gemela.\nEl festival del año que viene, ¡seguro...!"
     },
     "3FD4DA": {
-        "en-US": "¼îÄÝ¶ó°¡ ºÎÅ¹Çß´ø µþ±â °úÀÏ ÆÄ¸£Æä°¡ ¾ø´Ù...!\n½ºÀ­Ã÷ »óÁ¡¿¡¼­ »ç¿Í¾ß ÇÒ±î?",
+        "en-US": "I don't have the strawberry parfait that Chocola asked for!\nShould I buy one from the Sweets Shop?",
         "pt-BR": "Eu não tenho o parfait de morango que a Chocolai pediu!\nDevo comprar uma na Loja de Doces?",
         "es-ES": "¡No tengo la parfait de fresas que me pidió Chocolai!\n¿Debería comprar una en la Tienda de Dulces?"
     },
     "3VD4DA": {
-        "en-US": "[¿¤Æ®»ê]\n¾È³çÇÏ¼¼¿ä, Àß Áö³»¼Ì¾î¿ä?\nÀú¹ø¿¡ ÁÖ½Å °úÀÏ ÆÄ¸£Æä´Â Á¤¸» Àß ¸Ô¾ú¾î¿ä\nÀú¿¡°Ô ¶Ç º¼ÀÏÀÌ ÀÖÀ¸½Å°¡¿ä?",
+        "en-US": "[Walnuts]\nHello, how have you been?\nI really enjoyed the fruit parfait you gave me last time.\nDo you have business with me again?",
         "pt-BR": "[Clarisbadeu]\nOlá, como tem passado?\nGostei muito da parfait de frutas que me deu da última vez.\nTem algum assunto comigo outra vez?",
         "es-ES": "[Nuex]\nHola, ¿cómo has estado?\nDisfruté mucho la parfait de frutas que me diste la última vez.\n¿Tienes algún asunto conmigo otra vez?"
     },
     "3lD4DA": {
-        "en-US": "[¿¤Æ®»ê]\n¿À, ¸¶Ä§ ±×°Ô ¶Ç ¸Ô°í ½Í¾ú´ø ÂüÀÌ¾ú¾î¿ä.\nÀú¸¦ ÀØÁö ¾Ê°í ÀÌ·¸°Ô ±ÍÇÑ ¼±¹°À» ¶Ç ÁÖ¼Å¼­ Á¤¸» °¨»çÇØ¿ä.",
+        "en-US": "[Walnuts]\nOh, I was just craving one of those again.\nThank you so much for not forgetting me and giving me such a precious gift again.",
         "pt-BR": "[Clarisbadeu]\nAh, eu estava mesmo com vontade de comer uma dessas outra vez.\nMuito obrigado por não se esquecer de mim e por me dar um presente tão precioso novamente.",
         "es-ES": "[Nuex]\nOh, justo me apetecía una de esas otra vez.\nMuchas gracias por no olvidarte de mí y por darme un regalo tan valioso otra vez."
     },
     "31D4DA": {
-        "en-US": "[¿¤Æ®»ê]\n¾Æ, ¸ðÇè°¡´Ô...!\nÀú... ¶Ç ¸¶À½¿¡ µå´Â ¿©ÀÎÀÌ »ý°å¾î¿ä!\n¾ó¸¶ÀüÀÇ ±× ºÐÀº ¹ú½á ÀØÀº°Å³Ä°í¿ä?",
+        "en-US": "[Walnuts]\nAh, Adventurer...!\nI've... fallen for someone new!\nYou ask if I've already forgotten the previous one?",
         "pt-BR": "[Clarisbadeu]\nAh, Viajante...!\nEu... apaixonei-me por alguém novo!\nPergunta se já me esqueci da anterior?",
         "es-ES": "[Nuex]\n¡Ah, Trotamundos...!\nMe... he enamorado de alguien nuevo!\n¿Me preguntas si ya me olvidé de la anterior?"
     },
     "4FD4DA": {
-        "en-US": "[¿¤Æ®»ê]\n½Ã°£ÀÌ Áö³ª¸é ±¦Âú¾ÆÁø´Ù°í ¸»¾¸ÇÏ¼ÌÀÝ½À´Ï±î.\nÀÌÁ¨ ±¦Âú½À´Ï´Ù. ÇÏÇÏ.",
+        "en-US": "[Walnuts]\nYou said it would be fine with time.\nI'm fine now. Haha.",
         "pt-BR": "[Clarisbadeu]\nVocê disse que ficaria tudo bem com o tempo.\nEu estou bem agora. Haha.",
         "es-ES": "[Nuex]\nDijiste que todo iría bien con el tiempo.\nYa estoy bien ahora. Jaja."
     },
     "4VD4DA": {
-        "en-US": "[¿¤Æ®»ê]\n±×·¡, ÀÌ °úÀÏ Æä¸£Æä¸¦ ±×³à¿¡°Ô °¡Á®´ÙÁÖ´Â°Å¾ß.\nÀÌ ´ÞÄÞÇÑ ¸ÀÀ» º¸¸é ³ª¸¦ ´Ù½Ãº¸°Ô µÇ°ÚÁö.\nÀÌ¹ø¿¡¾ß¸»·Î...!!!",
+        "en-US": "[Walnuts]\nRight, I'll give this fruit parfait to her.\nIf she tastes this sweetness, she'll see me in a new light.\nThis time, for sure...!!!",
         "pt-BR": "[Clarisbadeu]\nCerto, vou dar esta parfait de frutas a ela.\nSe ela provar esta doçura, ver-me-á sob uma nova luz.\nDesta vez, de certeza...!!!",
         "es-ES": "[Nuex]\nBien, le daré esta parfait de frutas a ella.\nSi prueba esta dulzura, me verá con otros ojos.\n¡¡Esta vez, seguro...!!!"
     },
     "4lD4DA": {
-        "en-US": "¼îÄÝ¶ó°¡ ºÎÅ¹Çß´ø °úÀÏ ÆÄ¸£Æä°¡ ¾ø´Ù...!\n½ºÀ­Ã÷ »óÁ¡¿¡¼­ »ç¿Í¾ß ÇÒ±î?",
+        "en-US": "I don't have the fruit parfait that Chocola asked for...!\nShould I buy one from the Sweets Shop?",
         "pt-BR": "Eu não tenho a parfait de frutas que a Chocolai pediu...!\nDevo comprar uma na Loja de Doces?",
         "es-ES": "¡No tengo la parfait de frutas que me pidió Chocolai...!\n¿Debería comprar una en la Tienda de Dulces?"
     },
     "41D4DA": {
-        "en-US": "[¿¤Æ®»ê]\n°í¸¶¿ö¿ä, ¸ðÇè°¡´Ô.\n»óÃ³°¡ Ä¡À¯µÇ´Â °Í °°¾Æ¿ä.",
+        "en-US": "[Walnuts]\nThank you, Adventurer.\nI feel like my wounds are healing.",
         "pt-BR": "[Clarisbadeu]\nObrigado, Viajante.\nSinto que as minhas feridas estão a sarar.",
         "es-ES": "[Nuex]\nGracias, Trotamundos.\nSiento que mis heridas están sanando."
     },
     "5FD4DA": {
-        "en-US": "[¿¤Æ®»ê]\n¾È³çÇÏ¼¼¿ä, ¸ðÇè°¡´Ô.\n´ç½ÅÀº ºûÀÇ ¼Óµµ·Î Â÷¿©º» ÀûÀÌ ÀÖ³ª¿ä?\n»óÃ³°¡... ¾Æ¹°Áö¸¦ ¾Ê³×¿ä.",
+        "en-US": "[Walnuts]\nHello, Adventurer.\nHave you ever been dumped at the speed of light?\nMy... wounds won't heal.",
         "pt-BR": "[Clarisbadeu]\nOlá, Viajante.\nJá alguma vez foi rejeitado à velocidade da luz?\nAs minhas... feridas não saram.",
         "es-ES": "[Nuex]\nHola, Trotamundos.\n¿Alguna vez te han rechazado a la velocidad de la luz?\nMis... heridas no sanan."
     },
     "5VD4DA": {
-        "en-US": "¾ÈÆ®",
+        "en-US": "Cinnamon",
         "pt-BR": "Holofontinho",
         "es-ES": "Canel"
     },
     "5lD4DA": {
-        "en-US": "ÃËÃËÇÑ ¸¶Ä«·Õ °í¸¶¿ö¿ä! Àß ¸ÔÀ»°Ô¿ä!",
+        "en-US": "Thank you for the chewy macaron! I'll enjoy it!",
         "pt-BR": "Obrigado pelo macaron! Adorei!",
         "es-ES": "¡Gracias por el macaron! ¡Lo disfrutaré!"
     },
     "51D4DA": {
-        "en-US": "[¾ÈÆ®]\n¾È³çÇÏ¼¼¿ä.\n¿À´ÃÀÌ Á¦ ¾î¸Ó´ÏÀÇ ±âÀÏÀÌ¿¡¿ä.\nÀú´Â ±âÀÏ ¶§¸¶´Ù Ç×»ó ÀÌ ¸¶Ä«·ÕÀ» °¡Á®¿Â´ä´Ï´Ù.\n¾î¸Ó´Ï°¡ Á¤¸»·Î ÁÁ¾ÆÇÏ´Â À½½ÄÀÌ¾ú°Åµç¿ä.",
+        "en-US": "[Cinnamon]\nHello.\nToday is my mother's death anniversary.\nI always bring these macarons on anniversaries.\nIt was her absolute favorite food.",
         "pt-BR": "[Holofontinho]\nOlá.\nHoje é o aniversário de morte da minha mãe.\nCostumo sempre trazer estes macarons nos aniversários.\nEra a comida favorita dela.",
         "es-ES": "[Canel]\nHola.\nHoy es el aniversario de la muerte de mi madre.\nSiempre traigo estos macarons en los aniversarios.\nEra su comida favorita, sin duda."
     },
     "6FD4DA": {
-        "en-US": "[¾ÈÆ®]\n±× ¸¶Ä«·ÕÀ» ¾î¸Ó´Ï¿Í °°ÀÌ ¸Ô¾ú´ø ÀûÀÌ ÀÖ¾î¿ä.\n¹¹¶ö±î.. ±²ÀåÈ÷ ´ÞÄÞÇÏ°í ÃËÃËÇÑ ¸¶Ä«·ÕÀÌ¾ú¾î¿ä.\nÁ¦°¡ °¡Á®¿Â ¸¶Ä«·Õµµ ´ÞÄÞÇÏÁö¸¸... ÃËÃËÇÏÁö´Â ¾Ê¾Æ¼­ ¾Æ½¬¿ö¿ä.",
+        "en-US": "[Cinnamon]\nI once ate those macarons with my mother.\nThey were, how should I put it, very sweet and chewy macarons.\nThe macarons I brought are sweet too... but it's a shame they're not moist.",
         "pt-BR": "[Holofontinho]\nUma vez comi aqueles macarons com a minha mãe.\nEram, como hei de dizer, macarons muito doces e húmidos.\nOs macarons que trouxe também são doces... mas é uma pena não serem húmidos.",
         "es-ES": "[Canel]\nUna vez comí esos macarons con mi madre.\nEran, cómo decirlo, macarons muy dulces y húmedos.\nLos macarons que traje también son dulces... pero es una pena que no sean húmedos."
     },
     "6VD4DA": {
-        "en-US": "[¾ÈÆ®]\nÀÌ¿ÕÀÌ¸é ÃËÃËÇÑ ¸¶Ä«·ÕÀ¸·Î °¡Á®¿À°í ½Í¾ú´Âµ¥...\n¾îµð¼­ ±¸ÇØ¾ßÇÒÁö ¾Ë ¼ö°¡ ¾ø³×¿ä.",
+        "en-US": "[Cinnamon]\nIf possible, I wanted to bring chewy macarons, but...\nI don't know where to get them.",
         "pt-BR": "[Holofontinho]\nSe possível, queria trazer macarons húmidos, mas...\nNão sei onde os encontrar.",
         "es-ES": "[Canel]\nSi fuera posible, quería traer macarons húmedos, pero...\nNo sé dónde conseguirlos."
     },
     "6lD4DA": {
-        "en-US": "[¾ÈÆ®]\n¾Ñ, ÀÌ°ÍÀº ¸¶Ä«·ÕÀÌ³×¿ä!\n¾Æ¾Æ... ÀÌ °¨ÃËÀº.. ÃËÃËÇÏ´Ù.\n±â¾ï³ª¿ä, ¸ð¾ç»õ ¶ÇÇÑ ±× ¶§ÀÇ ±× ¸¶Ä«·ÕÀÌ ¸Â¾Æ¿ä!\nÀÌ°ÍÀ» ¾îµð¼­ ±¸ÇÏ½Å°ÅÁÒ??",
+        "en-US": "[Cinnamon]\nAh, these are macarons!\nAh... this texture... it's moist.\nI remember, the shape is exactly like those macarons from back then!\nWhere did you get these??",
         "pt-BR": "[Holofontinho]\nAh, estes são macarons!\nAh... esta textura... é húmida.\nLembro-me, a forma é exatamente como aqueles macarons de antigamente!\nOnde arranjou estes??",
         "es-ES": "[Canel]\n¡Ah, estos son macarons!\nAh... esta textura... es húmeda.\nLo recuerdo, ¡la forma es exactamente como aquellos macarons de entonces!\n¿Dónde conseguiste estos??"
     },
     "61D4DA": {
-        "en-US": "[¾ÈÆ®]\n¾Æ... ½ºÀ­Ã÷ ÃàÁ¦.\n½ºÀ­Ã÷ ÃàÁ¦ÀÇ ¸Þ´º·Î ¾²ÀÌ´Â ¸¶Ä«·ÕÀÏÁÙÀÌ¾ß...\nÁøÀÛ ¾Ë¾Ò´Ù¸é ´õ ÁÁ¾Ò°ÚÁö¸¸...\nÁö±Ý¿¡¶óµµ ¾Ë°Ô µÇ¾î Á¤¸» ´ÙÇàÀÌ¿¡¿ä~!",
+        "en-US": "[Cinnamon]\nAh... the Sweets Festival.\nTo think they're macarons used in the Sweets Festival menu...\nIt would have been better if I knew sooner, but...\nI'm really glad to have found out now~!",
         "pt-BR": "[Holofontinho]\nAh... o Chocomania.\nQuem diria que são macarons usados no menu do Chocomania...\nTer sido melhor se soubesse mais cedo, mas...\nEstou muito feliz por ter descoberto agora~!",
         "es-ES": "[Canel]\nAh... el Festival de los Dulces.\n¡Quién iba a decir que son macarons usados en el menú del Festival de los Dulces...\nHubiera sido mejor saberlo antes, pero...\n¡Estoy muy contento de haberlo descubierto ahora~!"
     },
     "7FD4DA": {
-        "en-US": "[¾ÈÆ®]\n°¨»çÇÕ´Ï´Ù. ¾î¸Ó´Ï¸¦ ´õ¿í ±â»Ú°Ô ÇØ µå¸± ¼ö ÀÖ°Ô µÇ¾ú¾î¿ä.\nÀÌ ¸ÚÁø ¸¶Ä«·ÕÀº ¾î¸Ó´Ï¿Í ÇÔ²² °¨»çÈ÷ ³ª´­°Ô¿ä.\n´ÞÄÞÇÑ ¸ðÇè µÇ½Ã±æ ¹Ù¶ø´Ï´Ù!",
+        "en-US": "[Cinnamon]\nThank you. Now I can make my mother even happier.\nI'll gladly share these wonderful macarons with my mother.\nI wish you a sweet adventure!",
         "pt-BR": "[Holofontinho]\nObrigado. Agora posso deixar a minha mãe ainda mais feliz.\nVou partilhar estes maravilhosos macarons com a minha mãe com prazer.\nDesejo-lhe uma aventura doce!",
         "es-ES": "[Canel]\nGracias. Ahora puedo hacer a mi madre aún más feliz.\nCompartiré estos maravillosos macarons con mi madre con mucho gusto.\n¡Te deseo una dulce aventura!"
     },
     "7VD4DA": {
-        "en-US": "¼îÄÝ¶ó°¡ ºÎÅ¹Çß´ø ÃËÃËÇÑ ¸¶Ä«·ÕÀÌ ¾ø´Ù...!\n½ºÀ­Ã÷ »óÁ¡¿¡¼­ »ç¿Í¾ß ÇÒ±î?",
+        "en-US": "I don't have the chewy macaron that Chocola asked for!\nShould I buy one from the Sweets Shop?",
         "pt-BR": "Eu não tenho o macaron que a Chocolai pediu...!\nDevo comprar um na Loja de Doces?",
         "es-ES": "¡No tengo el macaron que me pidió Chocolai...!\n¿Debería comprar uno en la Tienda de Dulces?"
     },
     "7lD4DA": {
-        "en-US": "[¾ÈÆ®]\n¾È³çÇÏ¼¼¿ä, ¶Ç ¿À¼Ì±º¿ä.\nÀú´Â ¿À´Ãµµ ¾î¸Ó´Ï¸¦ ¸¸³ª·¯ ¿Ô¾î¿ä.\nÀÌ¹ø¿£ ¹«½¼ ÀÏÀÌ½ÃÁÒ?",
+        "en-US": "[Cinnamon]\nHello, you're here again.\nI've come to see my mother again today.\nWhat brings you here this time?",
         "pt-BR": "[Holofontinho]\nOlá, você está aqui outra vez.\nVim ver a minha mãe novamente hoje.\nO que o traz cá desta vez?",
         "es-ES": "[Canel]\nHola, estás aquí otra vez.\nHe venido a ver a mi madre de nuevo hoy.\n¿Qué te trae por aquí esta vez?"
     },
     "71D4DA": {
-        "en-US": "[¾ÈÆ®]\n¾Æ, Á¤¸» °¨»çÇÕ´Ï´Ù.\nÀÌ·¸°Ô ¸ÀÀÖ´Â ¸¶Ä«·ÕÀÌ¶ó¸é ¸ÅÀÏ ¹Þ¾Æµµ ÁÁÁö¿ä.",
+        "en-US": "[Cinnamon]\nAh, thank you so much.\nI'd be happy to receive such delicious macarons every day.",
         "pt-BR": "[Holofontinho]\nAh, muito obrigado.\nFicaria feliz em receber macarons tão deliciosos todos os dias.",
         "es-ES": "[Canel]\nAh, muchísimas gracias.\nSería feliz recibiendo macarons tan deliciosos todos los días."
     },
     "8FD4DA": {
-        "en-US": "[¾ÈÆ®]\n¿À´Ãµµ ÀÌ·¸°Ô ¾î¸Ó´Ï¿Í ¸¶Ä«·ÕÀ» ³ª´­ ¼ö ÀÖ°Ô µÇ¾ú³×¿ä.\n¾Æ~ ÀÌ ÃËÃËÇÑ ´À³¦.\n¾î¸Ó´Ïµµ ºÐ¸í ±â»µÇÏ½Ç°Å¿¡¿ä.\n°¨»çÇÕ´Ï´Ù.\nÆò¾ÈÇÑ ¸ðÇè µÇ½Ã±æ...",
+        "en-US": "[Cinnamon]\nI'm able to share macarons with my mother again today.\nAh~ this moist feeling.\nI'm sure Mother will be pleased too.\nThank you.\nI wish you a peaceful adventure...",
         "pt-BR": "[Holofontinho]\nConsigo partilhar macarons com a minha mãe novamente hoje.\nAh~ esta sensação húmida.\nTenho a certeza de que a Mãe também ficará contente.\nObrigado.\nDesejo-lhe uma aventura pacífica...",
         "es-ES": "[Canel]\nPuedo compartir macarons con mi madre otra vez hoy.\nAh~ esta sensación húmeda.\nEstoy seguro de que Mamá también estará contenta.\nGracias.\nTe deseo una aventura pacífica..."
     },
     "8VD4DA": {
-        "en-US": "[¾ÈÆ®]\n°í¸¶¿ö¿ä, ¸ðÇè°¡´Ô.\nÆò¾ÈÇÑ ÇÏ·ç º¸³»¼¼¿ä.",
+        "en-US": "[Cinnamon]\nThank you, Adventurer.\nHave a peaceful day.",
         "pt-BR": "[Holofontinho]\nObrigado, Viajante.\nTenha um dia pacífico.",
         "es-ES": "[Canel]\nGracias, Trotamundos.\nTen un día pacífico."
     },
     "8lD4DA": {
-        "en-US": "[¾ÈÆ®]\n¾È³çÇÏ¼¼¿ä, ¸ðÇè°¡´Ô.\nÀÌ¹ø ÇØ¿¡µµ ¸¶Ä«·ÕÀ» Ã¬°Ü ¿Ô¾î¿ä.\n¾î¸Ó´Ï°¡ ±â»µÇÏ½Ã°ÚÁÒ?",
+        "en-US": "[Cinnamon]\nHello, Adventurer.\nI've brought macarons again this year.\nI hope Mother will be pleased, right?",
         "pt-BR": "[Holofontinho]\nOlá, Viajante.\nTrouxe macarons outra vez este ano.\nEspero que a Mãe fique contente, certo?",
         "es-ES": "[Canel]\nHola, Trotamundos.\nHe traído macarons otra vez este año.\nMamá estará contenta, ¿verdad?"
     },
     "81D4DA": {
-        "en-US": "Ã¤ÀÌ",
+        "en-US": "Hazel",
         "pt-BR": "Chai",
         "es-ES": "Avellana"
     },
     "9FD4DA": {
-        "en-US": "¸ùºí¶û ÄÉÀÌÅ© °í¸¶¿ö¿ä! Àß ¸ÔÀ»°Ô¿ä!",
+        "en-US": "Thank you for the Mont Blanc cake! I'll enjoy it!",
         "pt-BR": "Obrigado pelo bolo Mont Blanc! Vou apreciá-lo!",
         "es-ES": "¡Gracias por el pastel Mont Blanc! ¡Lo disfrutaré!"
     },
     "9VD4DA": {
-        "en-US": "[Ã¤ÀÌ]\nÇÏÀÌÇÏÀÌ~~\n¿À´ÃÀº ¾Æºü »ý½ÅÀÌ°Åµç¿ä!\n¼±¹°À» »ç·¯ ³ª¿Ô´Âµ¥~~\nÀ¸... ¹¹¸¦ »ç¾ßÇÏÁö...",
+        "en-US": "[Hazel]\nHi hi~~\nToday is Dad's birthday!\nI came out to buy a present~~\nUgh... what should I buy...",
         "pt-BR": "[Chai]\nOi oi~~\nHoje é aniversário do Papá!\nSaí para comprar um presente~~\nUgh... o que devo comprar...",
         "es-ES": "[Avellana]\n¡Hola hola~~\n¡Hoy es el cumpleaños de papá!\nSalí a comprar un regalo~~\nUgh... ¿qué debería comprar..."
     },
     "9lD4DA": {
-        "en-US": "[Ã¤ÀÌ]\n¾Æºü´Â ¹ãÀ» ±²ÀåÈ÷ ÁÁ¾ÆÇÏ¼¼¿ä.\nÀÛ³â¿¡´Â ÇÞ¹ãÀ» µû µå¸®·Á°í ÆäÀÌ¿æ±îÁö ´Ù³à¿Ô¾úÁÒ!\n¾Æ, ±×·±µ¥.. ÀÌ¹ø¿¡´Â ¸ø°¡¿ä.",
+        "en-US": "[Hazel]\nDad really loves chestnuts.\nLast year, I even went to Payon to pick fresh chestnuts for him!\nAh, but... I can't go this time.",
         "pt-BR": "[Chai]\nO Papá adora castanhas.\nNo ano passado, fui mesmo a Payon para colher castanhas frescas para ele!\nAh, mas... não posso ir desta vez.",
         "es-ES": "[Avellana]\nPapá adora las castañas.\n¡El año pasado, hasta fui a Payon a recoger castañas frescas para él!\nAh, pero... este año no puedo ir."
     },
     "91D4DA": {
-        "en-US": "[Ã¤ÀÌ]\nÈ¥ÀÚ °Å±â±îÁö ´Ù³à¿Ô´Ù°í ¾ö¸¶ÇÑÅ× ¾öÃ» È¥³µ°Åµç¿ä...\nÀÌ¹ø¿£ ¾îÂîÇØ¾ßÇÏ³ª~",
+        "en-US": "[Hazel]\nMom got really mad at me for going all the way there alone...\nWhat should I do this time~",
         "pt-BR": "[Chai]\nA Mamã ficou muito zangada comigo por ir até lá sozinha...\nO que devo fazer desta vez~",
         "es-ES": "[Avellana]\nMamá se enfadó muchísimo conmigo por ir sola hasta allí...\n¿Qué voy a hacer este año~"
     },
     "+FD4DA": {
-        "en-US": "[Ã¤ÀÌ]\n¾î? ÀÌ°É Àú¿¡°Ô ÁÖ½Ã´Â°Å¿¡¿ä??\n¿À¿Í~ ¸ÀÀÖ¾î º¸ÀÌ´Â ÄÉÀÌÅ©´Ù!\n¾Ñ ÀÌ ³¿»õ´Â... ¹ã ³¿»õÀÎµ¥??\n¾Æ¾Æ~ ¹ãÀÌ µé¾î°£ ÄÉÀÌÅ©¸¦ ¸ùºí¶û ÄÉÀÌÅ©¶ó ÇÏ´Â°Å±º¿ä!",
+        "en-US": "[Hazel]\nHuh? Are you giving this to me??\nOh wow~ It's a cake that looks delicious!\nAh, this smell... is it chestnuts??\nAhh~ So a cake with chestnuts is called a Mont Blanc cake!",
         "pt-BR": "[Chai]\nHã? Está a dar-me isto??\nOh uau~ É um bolo com um aspeto delicioso!\nAh, este cheiro... são castanhas??\nAhh~ Então um bolo com castanhas chama-se bolo Mont Blanc!",
         "es-ES": "[Avellana]\n¿Eh? ¿¡Me das esto a mí!?\n¡Oh guau~ Es un pastel que se ve delicioso!\nAh, este olor... ¿son castañas??\n¡Ahh~ Así que un pastel con castañas se llama pastel Mont Blanc!"
     },
     "+VD4DA": {
-        "en-US": "[Ã¤ÀÌ]\nÈ÷È÷.. °í¸¶¿ö¿ä.\n¾Æºü°¡ ¾öÃ» ÁÁ¾ÆÇÒ°Å¿¡¿ä.\n½Å³­´Ù~~ ÇìÇò.",
+        "en-US": "[Hazel]\nHehe.. thank you.\nDad will be really happy.\nI'm excited~~ Heheh.",
         "pt-BR": "[Chai]\nHehe.. obrigada.\nO Papá vai ficar muito feliz.\nEstou animada~~ Heheh.",
         "es-ES": "[Avellana]\nJeje.. gracias.\nPapá estará muy feliz.\n¡Qué ilusión~~ Jeje."
     },
     "+lD4DA": {
-        "en-US": "¼îÄÝ¶ó°¡ ºÎÅ¹Çß´ø ¸ùºí¶û ÄÉÀÌÅ©°¡ ¾ø´Ù...!\n½ºÀ­Ã÷ »óÁ¡¿¡¼­ »ç¿Í¾ß ÇÒ±î?",
+        "en-US": "I don't have the Mont Blanc cake that Chocola asked for...!\nShould I buy one from the Sweets Shop?",
         "pt-BR": "Eu não tenho o bolo Mont Blanc que a Chocolai pediu...!\nDevo comprar um na Loja de Doces?",
         "es-ES": "¡No tengo el pastel Mont Blanc que me pidió Chocolai...!\n¿Debería comprar uno en la Tienda de Dulces?"
     },
     "+1D4DA": {
-        "en-US": "[Ã¤ÀÌ]\n¾î¾ù, ¸ðÇè°¡´Ô!\n¶Ç ¸¸³µ³×¿ä~~\n¿À´ÃÀº ÃàÁ¦ ±¸°æÇÏ·¯ ³ª¿Ô¾î¿ä!\nÀú¿¡°Ô ÇÒ ¸»ÀÌ ÀÖ³ª¿ä??",
+        "en-US": "[Hazel]\nOh, Adventurer!\nWe meet again~~\nI came out to see the festival today!\nDo you have something to tell me??",
         "pt-BR": "[Chai]\nOh, Viajante!\nEncontrámo-nos outra vez~~\nSaí para ver o festival hoje!\nTem algo para me dizer??",
         "es-ES": "[Avellana]\n¡Oh, Trotamundos!\n¡¡Nos encontramos otra vez~~\n¡Salí a ver el festival hoy!\n¿¿Tienes algo que decirme??"
     },
     "/FD4DA": {
-        "en-US": "[Ã¤ÀÌ]\nÇæ...\nÀú¿¡°Ô ¶Ç ÁÖ½Ã´Â°Å¿¡¿ä?\n¾Æ~ Á¤¸» ¸Ô°í ½Í¾ú´Âµ¥ ¸»ÀÌ¿¡¿ä~",
+        "en-US": "[Hazel]\nWow...\nAre you giving me another one?\nAh~ I really wanted to eat one, you know~",
         "pt-BR": "[Chai]\nUau...\nVais dar-me outro?\nAh~ Eu queria mesmo comer um, sabes~",
         "es-ES": "[Avellana]\nGuau...\n¿Me vas a dar otro?\n¡Ah~ Tenía muchas ganas de comer uno, ¿sabes?~"
     },
     "/VD4DA": {
-        "en-US": "[Ã¤ÀÌ]\n»ç½Ç ¾Æºü¿¡°Ô ¼±¹°·Î µå·È´Âµ¥...\n³Ê¹«³Ê¹« ¸ÀÀÖ´Ù¸é¼­ ´Ü¼û¿¡ ÇØÄ¡¿ì½Å°Å ÀÖÁÒ.\nÀú´Â ¸Àµµ ¸øºÃ´Ù´Â°ÅÁÒ~\n¾Æ¾Æ~! ÀÌÁ¦ ÀÌ ÄÉÀÌÅ©°¡ ¾ó¸¶³ª ¸ÀÀÖ´ÂÁö °æÇèÇØºÁ¾ß °Ú¾î¿ä.",
+        "en-US": "[Hazel]\nActually, I gave one to Dad as a present...\nHe said it was so, so delicious and devoured it in no time.\nI didn't even get to taste it.\nAhh~! Now I have to experience how delicious this cake is.",
         "pt-BR": "[Chai]\nNa verdade, dei um ao Papá como presente...\nEle disse que estava tão, tão delicioso e devorou-o num instante.\nEu nem pude prová-lo.\nAhh~! Agora tenho de experimentar o quão delicioso é este bolo.",
         "es-ES": "[Avellana]\nEn realidad, le di uno a papá como regalo...\nDijo que estaba tan, tan delicioso que lo devoró en un instante.\nEs que ni siquiera pude probarlo.\n¡Ahh~! Ahora tengo que experimentar lo delicioso que es este pastel."
     },
     "/lD4DA": {
-        "en-US": "[Ã¤ÀÌ]\n°í¸¶¿ö¿ä, ¸ðÇè°¡´Ô.\n¸ðÇè°¡´Ôµµ Ç×»ó Çàº¹ÇÏ¼¼¿ä!!!!",
+        "en-US": "[Hazel]\nThank you, Adventurer.\nI hope you're always happy too!!!!",
         "pt-BR": "[Chai]\nObrigado, Viajante.\nEspero que também seja sempre feliz!!!!",
         "es-ES": "[Avellana]\nGracias, Trotamundos.\n¡¡¡Que tú también seas siempre feliz!!!!"
     },
     "/1D4DA": {
-        "en-US": "[Ã¤ÀÌ]\n°í¸¶¿ö¿ä, ¸ðÇè°¡´Ô.\n¸ùºí¶û ³Ê¹« ÁÁ¾Æ¿ä~",
+        "en-US": "[Hazel]\nThank you, Adventurer.\nI love Mont Blanc so much~",
         "pt-BR": "[Chai]\nObrigado, Viajante.\nAdoro tanto o Mont Blanc~",
         "es-ES": "[Avellana]\nGracias, Trotamundos.\n¡Me encanta el Mont Blanc~"
     },
     "AFH4DA": {
-        "en-US": "[Ã¤ÀÌ]\n¾È³çÇÏ¼¼¿ä~~\nºÎ¸ð´Ô¿¡°Ô µå¸± ¼±¹°À» Ã£°í ÀÖ¾î¿ä.\n¾î¶² °ÍÀ» ¼±¹°ÇØ¾ß ±â»µÇÏ½Ç±î¿ä??",
+        "en-US": "[Hazel]\nHello!\nI'm looking for a present to give my parents.\nWhat kind of gift would make them happy??",
         "pt-BR": "[Chai]\nOlá!\nEstou à procura de um presente para dar aos meus pais.\nQue tipo de presente os deixaria felizes??",
         "es-ES": "[Avellana]\n¡Hola!\nEstoy buscando un regalo para dar a mis padres.\n¿Qué tipo de regalo los haría felices??"
     },
     "AVH4DA": {
-        "en-US": "Á¡¿ø ¹Ì¹Ì",
+        "en-US": "Clerk Mimi",
         "pt-BR": "Dona Mimi",
         "es-ES": "Mimi"
     },
     "AlH4DA": {
-        "en-US": "<½ºÀ­Ã÷ Å©·¹ÀÌÇÁ>",
+        "en-US": "<Sweets Crepe>",
         "pt-BR": "<Doce Crepe>",
         "es-ES": "<Dulce Crepe>"
     },
     "A1H4DA": {
-        "en-US": "[¹Ì¹Ì]\nµåµð¾î Àç·á°¡ ¿Ô³×¿ä!!!!\nÀÌÁ¦ º»°ÝÀûÀ¸·Î ÆÇ¸Å¸¦ ÇÒ ¼ö ÀÖ°Ú¾î¿ä!\n±×¸®°í ÀÌ°Ç ÀÌ¹ø ½ÃÁð¿¡ ÀúÈñ »óÁ¡¿¡¼­ ÆÇ¸ÅÇÒ »óÇ°ÀÌ¿¡¿ä.",
+        "en-US": "[Mimi]\nThe ingredients are finally here!!!!\nNow we can start selling in earnest!\nAnd this is the product our shop will be selling this season.",
         "pt-BR": "[Mimi]\nOs ingredientes finalmente chegaram!!!!\nAgora podemos começar a vender a sério!\nE este é o produto que a nossa loja vai vender esta época.",
         "es-ES": "[Mimi]\n¡¡¡Los ingredientes por fin están aquí!!!!\n¡Ahora podemos empezar a vender en serio!\nY este es el producto que nuestra tienda venderá esta temporada."
     },
     "BFH4DA": {
-        "en-US": "[¹Ì¹Ì]\nÆ¯º°ÇÑ ¼Õ´Ô¿¡°Ô ¼±¹°ÇÒ ¿¹Á¤ÀÌ¶ó°í µé¾ú¾î¿ä.\n¼îÄÝ¶ó¿¡°Ô ÀüÇØÁÖ¼¼¿ä.",
+        "en-US": "[Mimi]\nI heard it's to be gifted to a special guest.\nPlease deliver it to Chocola.",
         "pt-BR": "[Mimi]\nOuvi dizer que é para ser oferecido a um convidado especial.\nPor favor, entregue-o à Chocolai.",
         "es-ES": "[Mimi]\nOí que es para regalárselo a un invitado especial.\nPor favor, entrégaselo a Chocolai."
     },
     "BVH4DA": {
-        "en-US": "¸ðµç »óÁ¡¿¡ ¹è´ÞÀ» ¿Ï·áÇß´Ù... ¼îÄÝ¶ó¿¡°Ô µ¹¾Æ°¡¼­ º¸°íÇÏÀÚ.",
+        "en-US": "I have delivered to all shops... I should return to Chocola and report.",
         "pt-BR": "Entreguei a todas as lojas... Devo voltar para a Chocolai e reportar.",
         "es-ES": "He entregado a todas las tiendas... Debería volver donde Chocolai y reportar."
     },
     "BlH4DA": {
-        "en-US": "[¹Ì¹Ì]\n¸¶Ä§ ±â´Ù¸®°í ÀÖ¾ú¾î¿ä.\n±×·±µ¥ ³³Ç°¿ë ÃÊÄÝ·¿Àº ¾îµð ÀÖÁÒ?\n¹°°ÇÀ» Á¦´ë·Î °¡Á®¿À¼Å¾ßÁÒ.",
+        "en-US": "[Mimi]\nI've been waiting for you.\nBut where are the consignment chocolates?\nYou need to bring the goods properly.",
         "pt-BR": "[Mimi]\nEstive à sua espera.\nMas onde estão os Chocolaites em barra?\nPrecisa de trazer a mercadoria corretamente.",
         "es-ES": "[Mimi]\nTe he estado esperando.\nPero ¿dónde están los Chocolaites de consignación?\nTienes que traer la mercancía correctamente."
     },
     "B1H4DA": {
-        "en-US": "[¹Ì¹Ì]\n¾È³çÇÏ¼¼¿ä~ ÇÁ·ÐÅ×¶ó ½ºÀ­Ã÷ »óÁ¡¿¡ ¿À½Å °ÍÀ» È¯¿µÇÕ´Ï´Ù~\nÇÁ·ÐÅ×¶ó »óÁ¡ Æ¯Á¦ <ITEM>[´ÞÄÞÇÑ Å©·¹ÀÌÇÁ]<INFO>11607</INFO></ITEM>¸¦ ÆÈ°í ÀÖ¾î¿ä!",
+        "en-US": "[Mimi]\nHello~ Welcome to the Prontera Sweets Shop~\nWe're selling the Prontera shop special <ITEM>[Sweet Crepe]<INFO>11607</INFO></ITEM>!",
         "pt-BR": "[Mimi]\nOlá~ Boas-vindas(a) à Loja de Doces de Prontera~\nEstamos a vender o item especial da loja de Prontera <ITEM>[Crepe Doce]<INFO>11607</INFO></ITEM>!",
         "es-ES": "[Mimi]\n¡Hola~ Bienvenid@ a la Tienda de Dulces de Prontera~\n¡Vendemos el producto especial de la tienda de Prontera <ITEM>[Crepe Dulce]<INFO>11607</INFO></ITEM>!"
     },
     "CFH4DA": {
-        "en-US": "½ºÀ­Ã÷ ¸Þ´º ±¸¸Å",
+        "en-US": "Buy sweets menu.",
         "pt-BR": "Comprar menu de doces.",
         "es-ES": "Comprar menú de dulces."
     },
     "CVH4DA": {
-        "en-US": "½ºÀ­Ã÷ °£½Ä ²Ù·¯¹Ì ±³È¯",
+        "en-US": "Exchange Sweets Package.",
         "pt-BR": "Trocar Pacote de Doces.",
         "es-ES": "Intercambiar Paquete de Dulces."
     },
     "ClH4DA": {
-        "en-US": "´ÙÀ½¿¡ ¿Â´Ù",
+        "en-US": "Come back later.",
         "pt-BR": "Voltar depois.",
         "es-ES": "Volver después."
     },
     "C1H4DA": {
-        "en-US": "[¹Ì¹Ì]\nÇÑÁ¤¼ö·® ÆÇ¸Å Ç°¸ñÀÌ¶ó ¾ó¸¶³ª ³²¾ÒÀ¸·Á³ª¿ä.\nÀÖ´Â¸¸Å­ ±¸¸Å ÇØ ÁÖ¼¼¿ä!",
+        "en-US": "[Mimi]\nThis is a limited quantity item, so I wonder how many are left.\nPlease buy as many as are available!",
         "pt-BR": "[Mimi]\nEste é um item de quantidade limitada, por isso pergunto-me quantos restam.\nPor favor, compre quantos estiverem disponíveis!",
         "es-ES": "[Mimi]\nEste es un objeto de cantidad limitada, así que me pregunto cuántos quedarán.\n¡Compra tantos como haya disponibles!"
     },
     "DFH4DA": {
-        "en-US": "[¹Ì¹Ì]\n^4D4DFF½ºÀ­Ã÷ °£½Ä ²Ù·¯¹Ì^000000 ÇÏ³ª¿¡ ^4D4DFF½ºÀ­Ã÷ ÃàÁ¦ ÄÚÀÎ^000000 2°³°¡ ÇÊ¿äÇÕ´Ï´Ù.",
+        "en-US": "[Mimi]\nEach ^4D4DFFSweets Package^000000 costs 2 ^4D4DFFSweet Coin^000000.",
         "pt-BR": "[Mimi]\nCada ^4D4DFFPacote de Doces^000000 custa ^4D4DFF2 Chocoedas^000000.",
         "es-ES": "[Mimi]\nCada ^4D4DFFPaquete de Dulces^000000 cuesta 2 ^4D4DFFChocomoneda^000000."
     },
     "DVH4DA": {
-        "en-US": "[¹Ì¹Ì]\n±³È¯ÇØµå¸±±î¿ä?",
+        "en-US": "[Mimi]\nShall I exchange it?",
         "pt-BR": "[Mimi]\nDevo trocá-lo?",
         "es-ES": "[Mimi]\n¿Te lo cambio?"
     },
     "DlH4DA": {
-        "en-US": "±×¸¸µÐ´Ù.",
+        "en-US": "Stop.",
         "pt-BR": "Parar.",
         "es-ES": "Parar."
     },
     "D1H4DA": {
-        "en-US": "[¹Ì¹Ì]\n³×~ ¾Ë°Ú½À´Ï´Ù. ¸ðÇè°¡´Ô¿¡°Ô Çà¿îÀÌ µû¸£±â¸¦...",
+        "en-US": "[Mimi]\nYes~ Understood. May luck be with you, Adventurer...",
         "pt-BR": "[Mimi]\nSim~ Entendido. Que a sorte esteja consigo, Viajante...",
         "es-ES": "[Mimi]\nSí~ Entendido. Que la suerte te acompañe, Trotamundos..."
     },
     "EFH4DA": {
-        "en-US": "[¹Ì¹Ì]\n±×·³ ´ÙÀ½¿¡ µµÀüÇØ ÁÖ¼¼¿ä.",
+        "en-US": "[Mimi]\nPlease try again next time.",
         "pt-BR": "[Mimi]\nPor favor, tente novamente da próxima vez.",
         "es-ES": "[Mimi]\nPor favor, inténtalo de nuevo la próxima vez."
     },
     "EVH4DA": {
-        "en-US": "[¹Ì¹Ì]\n±×·³ ´ÙÀ½¿¡ ¹æ¹®ÇØÁÖ¼¼¿ä, ±â´Ù¸®°í ÀÖ°Ú½À´Ï´Ù!",
+        "en-US": "[Mimi]\nPlease visit again next time. I'll be waiting!",
         "pt-BR": "[Mimi]\nPor favor, visite-nos novamente da próxima vez. Estarei à espera!",
         "es-ES": "[Mimi]\nPor favor, visítanos de nuevo la próxima vez. ¡Estaré esperando!"
     },
     "ElH4DA": {
-        "en-US": "¿¡µå",
+        "en-US": "Ed",
         "pt-BR": "Tio Ed",
         "es-ES": "Ed"
     },
     "E1H4DA": {
-        "en-US": "<½ºÀ­Ã÷ ÄÅÄÉÀÌÅ©>",
+        "en-US": "<Sweets Cupcake>",
         "pt-BR": "<Doce Cupcake>",
         "es-ES": "<Dulce Cupcake>"
     },
     "FFH4DA": {
-        "en-US": "[¿¡µå]\nµåµð¾î Àç·á°¡ ¿Ô³×¿ä!!!!\nÀÌÁ¦ º»°ÝÀûÀ¸·Î ÆÇ¸Å¸¦ ÇÒ ¼ö ÀÖ°Ú¾î¿ä!\n±×¸®°í ÀÌ°Ç ÀÌ¹ø ½ÃÁð¿¡ ÀúÈñ »óÁ¡¿¡¼­ ÆÇ¸ÅÇÒ »óÇ°ÀÌ¿¡¿ä.",
+        "en-US": "[Ed]\nThe ingredients are finally here!!!!\nNow we can start selling in earnest!\nAnd this is the product our shop will be selling this season.",
         "pt-BR": "[Ed]\nOs ingredientes finalmente chegaram!!!!\nAgora podemos começar a vender a sério!\nE este é o produto que a nossa loja vai vender esta época.",
         "es-ES": "[Ed]\n¡¡¡Los ingredientes por fin están aquí!!!!\n¡Ahora podemos empezar a vender en serio!\nY este es el producto que nuestra tienda venderá esta temporada."
     },
     "FVH4DA": {
-        "en-US": "[¿¡µå]\nÆ¯º°ÇÑ ¼Õ´Ô¿¡°Ô ¼±¹°ÇÒ ¿¹Á¤ÀÌ¶ó°í µé¾ú¾î¿ä.\n¼îÄÝ¶ó¿¡°Ô ÀüÇØÁÖ¼¼¿ä.",
+        "en-US": "[Ed]\nI heard it's to be gifted to a special guest.\nPlease deliver it to Chocola.",
         "pt-BR": "[Ed]\nOuvi dizer que é para ser oferecido a um convidado especial.\nPor favor, entregue-o à Chocolai.",
         "es-ES": "[Ed]\nOí que es para regalárselo a un invitado especial.\nPor favor, entrégaselo a Chocolai."
     },
     "FlH4DA": {
-        "en-US": "[¿¡µå]\n¸¶Ä§ ±â´Ù¸®°í ÀÖ¾ú¾î¿ä.\n±×·±µ¥ ³³Ç°¿ë ÃÊÄÝ·¿Àº ¾îµð ÀÖÁÒ?\n¹°°ÇÀ» Á¦´ë·Î °¡Á®¿À¼Å¾ßÁÒ.",
+        "en-US": "[Ed]\nI've been waiting for you.\nBut where are the consignment chocolates?\nYou need to bring the goods properly.",
         "pt-BR": "[Ed]\nEstive à sua espera.\nMas onde estão os Chocolaites em barra?\nPrecisa de trazer a mercadoria corretamente.",
         "es-ES": "[Ed]\nTe he estado esperando.\nPero ¿dónde están los Chocolaites de consignación?\nTienes que traer la mercancía correctamente."
     },
     "F1H4DA": {
-        "en-US": "[¿¡µå]\n¾È³çÇÏ¼¼¿ä~ °ÔÆæ ½ºÀ­Ã÷ »óÁ¡¿¡ ¿À½Å °ÍÀ» È¯¿µÇÕ´Ï´Ù~\n°ÔÆæ »óÁ¡ Æ¯Á¦ <ITEM>[µþ±â »ýÅ©¸² ÄÅÄÉÀÌÅ©]<INFO>23259</INFO></ITEM>¸¦ ÆÈ°í ÀÖ¾î¿ä!",
+        "en-US": "[Ed]\nHello~ Welcome to the Geffen Sweets Shop~\nWe're selling the Geffen shop special <ITEM>[Strawberry Cream Cupcake]<INFO>23259</INFO></ITEM>!",
         "pt-BR": "[Ed]\nOlá~ Boas-vindas(a) à Loja de Doces de Geffen~\nEstamos a vender o item especial da loja de Geffen <ITEM>[Cupcake de Morango]<INFO>23259</INFO></ITEM>!",
         "es-ES": "[Ed]\n¡Hola~ Bienvenid@ a la Tienda de Dulces de Geffen~\n¡Vendemos el producto especial de la tienda de Geffen <ITEM>[Cupcake de Fresa y Crema]<INFO>23259</INFO></ITEM>!"
     },
     "GFH4DA": {
-        "en-US": "[¿¡µå]\nÇÑÁ¤¼ö·® ÆÇ¸Å Ç°¸ñÀÌ¶ó ¾ó¸¶³ª ³²¾ÒÀ¸·Á³ª¿ä.\nÀÖ´Â¸¸Å­ ±¸¸Å ÇØ ÁÖ¼¼¿ä!",
+        "en-US": "[Ed]\nThis is a limited quantity item, so I wonder how many are left.\nPlease buy as many as are available!",
         "pt-BR": "[Ed]\nEste é um item de quantidade limitada, por isso pergunto-me quantos restam.\nPor favor, compre quantos estiverem disponíveis!",
         "es-ES": "[Ed]\nEste es un objeto de cantidad limitada, así que me pregunto cuántos quedarán.\n¡Compra tantos como haya disponibles!"
     },
     "GVH4DA": {
-        "en-US": "[¿¡µå]\n^4D4DFF½ºÀ­Ã÷ °£½Ä ²Ù·¯¹Ì^000000 ÇÏ³ª¿¡ ^4D4DFF½ºÀ­Ã÷ ÃàÁ¦ ÄÚÀÎ^000000 2°³°¡ ÇÊ¿äÇÕ´Ï´Ù.",
+        "en-US": "[Ed]\nEach ^4D4DFFSweets Package^000000 costs 2 ^4D4DFFSweet Coin^000000.",
         "pt-BR": "[Ed]\nCada ^4D4DFFPacote de Doces^000000 custa 2 ^4D4DFFChocoedas^000000.",
         "es-ES": "[Ed]\nCada ^4D4DFFPaquete de Dulces^000000 cuesta 2 ^4D4DFFChocomoneda^000000."
     },
     "GlH4DA": {
-        "en-US": "[¿¡µå]\n±³È¯ÇØµå¸±±î¿ä?",
+        "en-US": "[Ed]\nShall I exchange it?",
         "pt-BR": "[Ed]\nDevo trocá-lo?",
         "es-ES": "[Ed]\n¿Te lo cambio?"
     },
     "G1H4DA": {
-        "en-US": "[¿¡µå]\n³×~ ¾Ë°Ú½À´Ï´Ù. ¸ðÇè°¡´Ô¿¡°Ô Çà¿îÀÌ µû¸£±â¸¦...",
+        "en-US": "[Ed]\nYes~ Understood. May luck be with you, Adventurer...",
         "pt-BR": "[Ed]\nSim~ Entendido. Que a sorte esteja consigo, Viajante...",
         "es-ES": "[Ed]\nSí~ Entendido. Que la suerte te acompañe, Trotamundos..."
     },
     "HFH4DA": {
-        "en-US": "[¿¡µå]\n±×·³ ´ÙÀ½¿¡ µµÀüÇØ ÁÖ¼¼¿ä.",
+        "en-US": "[Ed]\nPlease try again next time.",
         "pt-BR": "[Ed]\nPor favor, tente novamente da próxima vez.",
         "es-ES": "[Ed]\nPor favor, inténtalo de nuevo la próxima vez."
     },
     "HVH4DA": {
-        "en-US": "[¿¡µå]\n±×·³ ´ÙÀ½¿¡ ¹æ¹®ÇØÁÖ¼¼¿ä, ±â´Ù¸®°í ÀÖ°Ú½À´Ï´Ù!",
+        "en-US": "[Ed]\nPlease visit again next time. I'll be waiting!",
         "pt-BR": "[Ed]\nPor favor, visite-nos novamente da próxima vez. Estarei à espera!",
         "es-ES": "[Ed]\nPor favor, visítanos de nuevo la próxima vez. ¡Estaré esperando!"
     },
     "HlH4DA": {
-        "en-US": "¾Ë·»",
+        "en-US": "Allen",
         "pt-BR": "Allen",
         "es-ES": "Allen"
     },
     "H1H4DA": {
-        "en-US": "<½ºÀ­Ã÷ ¸ùºí¶û>",
+        "en-US": "<Sweets Mont Blanc>",
         "pt-BR": "<Mont Blanc de Doce>",
         "es-ES": "<Mont Blanc de Dulce>"
     },
     "IFH4DA": {
-        "en-US": "[¾Ë·»]\nµåµð¾î Àç·á°¡ ¿Ô³×¿ä!!!!\nÀÌÁ¦ º»°ÝÀûÀ¸·Î ÆÇ¸Å¸¦ ÇÒ ¼ö ÀÖ°Ú¾î¿ä!\n±×¸®°í ÀÌ°Ç ÀÌ¹ø ½ÃÁð¿¡ ÀúÈñ »óÁ¡¿¡¼­ ÆÇ¸ÅÇÒ »óÇ°ÀÌ¿¡¿ä.",
+        "en-US": "[Allen]\nThe ingredients are finally here!!!!\nNow we can start selling in earnest!\nAnd this is the product our shop will be selling this season.",
         "pt-BR": "[Allen]\nOs ingredientes finalmente chegaram!!!!\nAgora podemos começar a vender a sério!\nE este é o produto que a nossa loja vai vender esta época.",
         "es-ES": "[Allen]\n¡¡¡Los ingredientes por fin están aquí!!!!\n¡Ahora podemos empezar a vender en serio!\nY este es el producto que nuestra tienda venderá esta temporada."
     },
     "IVH4DA": {
-        "en-US": "[¾Ë·»]\nÆ¯º°ÇÑ ¼Õ´Ô¿¡°Ô ¼±¹°ÇÒ ¿¹Á¤ÀÌ¶ó°í µé¾ú¾î¿ä.\n¼îÄÝ¶ó¿¡°Ô ÀüÇØÁÖ¼¼¿ä.",
+        "en-US": "[Allen]\nI heard it's to be gifted to a special guest.\nPlease deliver it to Chocola.",
         "pt-BR": "[Allen]\nOuvi dizer que é para ser oferecido a um convidado especial.\nPor favor, entregue-o à Chocolai.",
         "es-ES": "[Allen]\nOí que es para regalárselo a un invitado especial.\nPor favor, entrégaselo a Chocolai."
     },
     "IlH4DA": {
-        "en-US": "[¾Ë·»]\n¸¶Ä§ ±â´Ù¸®°í ÀÖ¾ú¾î¿ä.\n±×·±µ¥ ³³Ç°¿ë ÃÊÄÝ·¿Àº ¾îµð ÀÖÁÒ?\n¹°°ÇÀ» Á¦´ë·Î °¡Á®¿À¼Å¾ßÁÒ.",
+        "en-US": "[Allen]\nI've been waiting for you.\nBut where are the consignment chocolates?\nYou need to bring the goods properly.",
         "pt-BR": "[Allen]\nEstive à sua espera.\nMas onde estão os Chocolaites em barra?\nPrecisa de trazer a mercadoria corretamente.",
         "es-ES": "[Allen]\nTe he estado esperando.\nPero ¿dónde están los Chocolaites de consignación?\nTienes que traer la mercancía correctamente."
     },
     "I1H4DA": {
-        "en-US": "[¾Ë·»]\n¾È³çÇÏ¼¼¿ä~ ÆäÀÌ¿æ ½ºÀ­Ã÷ »óÁ¡¿¡ ¿À½Å °ÍÀ» È¯¿µÇÕ´Ï´Ù~\nÆäÀÌ¿æ »óÁ¡ Æ¯Á¦ <ITEM>[¸ùºí¶û ÄÉÀÌÅ©]<INFO>23045</INFO></ITEM>¸¦ ÆÈ°í ÀÖ¾î¿ä!",
+        "en-US": "[Allen]\nHello~ Welcome to the Payon Sweets Shop~\nWe're selling the Payon shop special <ITEM>[Mont Blanc Cake]<INFO>23045</INFO></ITEM>!",
         "pt-BR": "[Allen]\nOlá~ Boas-vindas(a) à Loja de Doces de Payon~\nEstamos a vender o item especial da loja de Payon <ITEM>[Bolo Mont Blanc]<INFO>23045</INFO></ITEM>!",
         "es-ES": "[Allen]\n¡Hola~ Bienvenid@ a la Tienda de Dulces de Payon~\n¡Vendemos el producto especial de la tienda de Payon <ITEM>[Pastel Mont Blanc]<INFO>23045</INFO></ITEM>!"
     },
     "JFH4DA": {
-        "en-US": "[¾Ë·»]\nÇÑÁ¤¼ö·® ÆÇ¸Å Ç°¸ñÀÌ¶ó ¾ó¸¶³ª ³²¾ÒÀ¸·Á³ª¿ä.\nÀÖ´Â¸¸Å­ ±¸¸Å ÇØ ÁÖ¼¼¿ä!",
+        "en-US": "[Allen]\nThis is a limited quantity item, so I wonder how many are left.\nPlease buy as many as are available!",
         "pt-BR": "[Allen]\nEste é um item de quantidade limitada, por isso pergunto-me quantos restam.\nPor favor, compre quantos estiverem disponíveis!",
         "es-ES": "[Allen]\nEste es un objeto de cantidad limitada, así que me pregunto cuántos quedarán.\n¡Compra tantos como haya disponibles!"
     },
     "JVH4DA": {
-        "en-US": "[¾Ë·»]\n^4D4DFF½ºÀ­Ã÷ °£½Ä ²Ù·¯¹Ì^000000 ÇÏ³ª¿¡ ^4D4DFF½ºÀ­Ã÷ ÃàÁ¦ ÄÚÀÎ^000000 2°³°¡ ÇÊ¿äÇÕ´Ï´Ù.",
+        "en-US": "[Allen]\nEach ^4D4DFFSweets Package^000000 costs 2 ^4D4DFFSweet Coin^000000.",
         "pt-BR": "[Allen]\nCada ^4D4DFFPacote de Doces^000000 custa 2 ^4D4DFFChocoedas^000000.",
         "es-ES": "[Allen]\nCada ^4D4DFFPaquete de Dulces^000000 cuesta 2 ^4D4DFFChocomoneda^000000."
     },
     "JlH4DA": {
-        "en-US": "[¾Ë·»]\n±³È¯ÇØµå¸±±î¿ä?",
+        "en-US": "[Allen]\nShall I exchange it?",
         "pt-BR": "[Allen]\nDevo trocá-lo?",
         "es-ES": "[Allen]\n¿Te lo cambio?"
     },
     "J1H4DA": {
-        "en-US": "[¾Ë·»]\n³×~ ¾Ë°Ú½À´Ï´Ù. ¸ðÇè°¡´Ô¿¡°Ô Çà¿îÀÌ µû¸£±â¸¦...",
+        "en-US": "[Allen]\nYes~ Understood. May luck be with you, Adventurer...",
         "pt-BR": "[Allen]\nSim~ Entendido. Que a sorte esteja consigo, Viajante...",
         "es-ES": "[Allen]\nSí~ Entendido. Que la suerte te acompañe, Trotamundos..."
     },
     "KFH4DA": {
-        "en-US": "[¾Ë·»]\n±×·³ ´ÙÀ½¿¡ µµÀüÇØ ÁÖ¼¼¿ä.",
+        "en-US": "[Allen]\nPlease try again next time.",
         "pt-BR": "[Allen]\nPor favor, tente novamente da próxima vez.",
         "es-ES": "[Allen]\nPor favor, inténtalo de nuevo la próxima vez."
     },
     "KVH4DA": {
-        "en-US": "[¾Ë·»]\n±×·³ ´ÙÀ½¿¡ ¹æ¹®ÇØÁÖ¼¼¿ä, ±â´Ù¸®°í ÀÖ°Ú½À´Ï´Ù!",
+        "en-US": "[Allen]\nPlease visit again next time. I'll be waiting!",
         "pt-BR": "[Allen]\nPor favor, visite-nos novamente da próxima vez. Estarei à espera!",
         "es-ES": "[Allen]\nPor favor, visítanos de nuevo la próxima vez. ¡Estaré esperando!"
     },
     "KlH4DA": {
-        "en-US": "ÇÑ½º",
+        "en-US": "Hans",
         "pt-BR": "Seu Hans",
         "es-ES": "Hans"
     },
     "K1H4DA": {
-        "en-US": "<½ºÀ­Ã÷ ÆÄ¸£Æä>",
+        "en-US": "<Sweets Parfait>",
         "pt-BR": "<Doce Parfait>",
         "es-ES": "<Dulce Parfait>"
     },
     "LFH4DA": {
-        "en-US": "[ÇÑ½º]\nµåµð¾î Àç·á°¡ ¿Ô³×¿ä!!!!\nÀÌÁ¦ º»°ÝÀûÀ¸·Î ÆÇ¸Å¸¦ ÇÒ ¼ö ÀÖ°Ú¾î¿ä!\n±×¸®°í ÀÌ°Ç ÀÌ¹ø ½ÃÁð¿¡ ÀúÈñ »óÁ¡¿¡¼­ ÆÇ¸ÅÇÒ »óÇ°ÀÌ¿¡¿ä.",
+        "en-US": "[Hans]\nThe ingredients are finally here!!!!\nNow we can start selling in earnest!\nAnd this is the product our shop will be selling this season.",
         "pt-BR": "[Hans]\nOs ingredientes finalmente chegaram!!!!\nAgora podemos começar a vender a sério!\nE este é o produto que a nossa loja vai vender esta época.",
         "es-ES": "[Hans]\n¡¡¡Los ingredientes por fin están aquí!!!!\n¡Ahora podemos empezar a vender en serio!\nY este es el producto que nuestra tienda venderá esta temporada."
     },
     "LVH4DA": {
-        "en-US": "[ÇÑ½º]\nÆ¯º°ÇÑ ¼Õ´Ô¿¡°Ô ¼±¹°ÇÒ ¿¹Á¤ÀÌ¶ó°í µé¾ú¾î¿ä.\n¼îÄÝ¶ó¿¡°Ô ÀüÇØÁÖ¼¼¿ä.",
+        "en-US": "[Hans]\nI heard it's to be gifted to a special guest.\nPlease deliver it to Chocola.",
         "pt-BR": "[Hans]\nOuvi dizer que é para ser oferecido a um convidado especial.\nPor favor, entregue-o à Chocolai.",
         "es-ES": "[Hans]\nOí que es para regalárselo a un invitado especial.\nPor favor, entrégaselo a Chocolai."
     },
     "LlH4DA": {
-        "en-US": "[ÇÑ½º]\n¸¶Ä§ ±â´Ù¸®°í ÀÖ¾ú¾î¿ä.\n±×·±µ¥ ³³Ç°¿ë ÃÊÄÝ·¿Àº ¾îµð ÀÖÁÒ?\n¹°°ÇÀ» Á¦´ë·Î °¡Á®¿À¼Å¾ßÁÒ.",
+        "en-US": "[Hans]\nI've been waiting for you.\nBut where are the consignment chocolates?\nYou need to bring the goods properly.",
         "pt-BR": "[Hans]\nEstive à sua espera.\nMas onde estão os Chocolaites em barra?\nPrecisa de trazer a mercadoria corretamente.",
         "es-ES": "[Hans]\nTe he estado esperando.\nPero ¿dónde están los Chocolaites de consignación?\nTienes que traer la mercancía correctamente."
     },
     "L1H4DA": {
-        "en-US": "[ÇÑ½º]\n¾È³çÇÏ¼¼¿ä~ ¾Ëµ¥¹Ù¶õ ½ºÀ­Ã÷ »óÁ¡¿¡ ¿À½Å °ÍÀ» È¯¿µÇÕ´Ï´Ù~\n¾Ëµ¥¹Ù¶õ »óÁ¡ Æ¯Á¦ <ITEM>[°úÀÏ ÆÄ¸£Æä]<INFO>23260</INFO></ITEM>¸¦ ÆÈ°í ÀÖ¾î¿ä!",
+        "en-US": "[Hans]\nHello! Welcome to the Aldebaran Sweets Shop!\nWe're selling the Aldebaran shop special <ITEM>[Fruit Parfait]<INFO>23260</INFO></ITEM>!",
         "pt-BR": "[Hans]\nOlá! Boas-vindas(a) à Loja de Doces de Aldebaran!\nEstamos a vender o item especial da loja de Aldebaran <ITEM>[Parfait de Frutas]<INFO>23260</INFO></ITEM>!",
         "es-ES": "[Hans]\n¡Hola! ¡Bienvenid@ a la Tienda de Dulces de Aldebaran!\n¡Vendemos el producto especial de la tienda de Aldebaran <ITEM>[Parfait de Frutas]<INFO>23260</INFO></ITEM>!"
     },
     "MFH4DA": {
-        "en-US": "[ÇÑ½º]\nÇÑÁ¤¼ö·® ÆÇ¸Å Ç°¸ñÀÌ¶ó ¾ó¸¶³ª ³²¾ÒÀ¸·Á³ª¿ä.\nÀÖ´Â¸¸Å­ ±¸¸Å ÇØ ÁÖ¼¼¿ä!",
+        "en-US": "[Hans]\nThis is a limited quantity item, so I wonder how many are left.\nPlease buy as many as are available!",
         "pt-BR": "[Hans]\nEste é um item de quantidade limitada, por isso pergunto-me quantos restam.\nPor favor, compre quantos estiverem disponíveis!",
         "es-ES": "[Hans]\nEste es un objeto de cantidad limitada, así que me pregunto cuántos quedarán.\n¡Compra tantos como haya disponibles!"
     },
     "MVH4DA": {
-        "en-US": "[ÇÑ½º]\n^4D4DFF½ºÀ­Ã÷ °£½Ä ²Ù·¯¹Ì^000000 ÇÏ³ª¿¡ ^4D4DFF½ºÀ­Ã÷ ÃàÁ¦ ÄÚÀÎ^000000 2°³°¡ ÇÊ¿äÇÕ´Ï´Ù.",
+        "en-US": "[Hans]\nEach ^4D4DFFSweets Package^000000 costs 2 ^4D4DFFSweet Coin^000000.",
         "pt-BR": "[Hans]\nCada ^4D4DFFPacote de Doces^000000 custa 2 ^4D4DFFChocoedas^000000.",
         "es-ES": "[Hans]\nCada ^4D4DFFPaquete de Dulces^000000 cuesta 2 ^4D4DFFChocomoneda^000000."
     },
     "MlH4DA": {
-        "en-US": "[ÇÑ½º]\n±³È¯ÇØµå¸±±î¿ä?",
+        "en-US": "[Hans]\nShall I exchange it?",
         "pt-BR": "[Hans]\nDevo trocá-lo?",
         "es-ES": "[Hans]\n¿Te lo cambio?"
     },
     "M1H4DA": {
-        "en-US": "[ÇÑ½º]\n³×~ ¾Ë°Ú½À´Ï´Ù. ¸ðÇè°¡´Ô¿¡°Ô Çà¿îÀÌ µû¸£±â¸¦...",
+        "en-US": "[Hans]\nYes, understood. May luck be with you, Adventurer...",
         "pt-BR": "[Hans]\nSim, entendido. Que a sorte esteja com você, Viajante...",
         "es-ES": "[Hans]\nSí, de acuerdo. Que la suerte te acompañe, Trotamundos..."
     },
     "NFH4DA": {
-        "en-US": "[ÇÑ½º]\n±×·³ ´ÙÀ½¿¡ µµÀüÇØ ÁÖ¼¼¿ä.",
+        "en-US": "[Hans]\nPlease try again next time.",
         "pt-BR": "[Hans]\nPor favor, tente novamente da próxima vez.",
         "es-ES": "[Hans]\nPor favor, inténtalo de nuevo la próxima vez."
     },
     "NVH4DA": {
-        "en-US": "[ÇÑ½º]\n±×·³ ´ÙÀ½¿¡ ¹æ¹®ÇØÁÖ¼¼¿ä, ±â´Ù¸®°í ÀÖ°Ú½À´Ï´Ù!",
+        "en-US": "[Hans]\nPlease visit again next time. I'll be waiting!",
         "pt-BR": "[Hans]\nPor favor, visite-nos novamente da próxima vez. Estarei à espera!",
         "es-ES": "[Hans]\nPor favor, visítanos de nuevo la próxima vez. ¡Estaré esperando!"
     },
     "NlH4DA": {
-        "en-US": "¾Æ¸Áµð¿À",
+        "en-US": "Amandio",
         "pt-BR": "Amanda",
         "es-ES": "Amanda"
     },
     "N1H4DA": {
-        "en-US": "<½ºÀ­Ã÷ ¸¶Ä«·Õ>",
+        "en-US": "<Sweets Macaron>",
         "pt-BR": "<Doce Macaron>",
         "es-ES": "<Dulce Macaron>"
     },
     "OFH4DA": {
-        "en-US": "[¾Æ¸Áµð¿À]\nµåµð¾î Àç·á°¡ ¿Ô³×¿ä!!!!\nÀÌÁ¦ º»°ÝÀûÀ¸·Î ÆÇ¸Å¸¦ ÇÒ ¼ö ÀÖ°Ú¾î¿ä!\n±×¸®°í ÀÌ°Ç ÀÌ¹ø ½ÃÁð¿¡ ÀúÈñ »óÁ¡¿¡¼­ ÆÇ¸ÅÇÒ »óÇ°ÀÌ¿¡¿ä.",
+        "en-US": "[Amandio]\nThe ingredients are finally here!!!!\nNow we can start selling in earnest!\nAnd this is the product our shop will be selling this season.",
         "pt-BR": "[Amanda]\nOs ingredientes finalmente chegaram!!!!\nAgora podemos começar a vender a sério!\nE este é o produto que a nossa loja vai vender esta época.",
         "es-ES": "[Amanda]\n¡¡¡Los ingredientes por fin están aquí!!!!\n¡Ahora podemos empezar a vender en serio!\nY este es el producto que nuestra tienda venderá esta temporada."
     },
     "OVH4DA": {
-        "en-US": "[¾Æ¸Áµð¿À]\nÆ¯º°ÇÑ ¼Õ´Ô¿¡°Ô ¼±¹°ÇÒ ¿¹Á¤ÀÌ¶ó°í µé¾ú¾î¿ä.\n¼îÄÝ¶ó¿¡°Ô ÀüÇØÁÖ¼¼¿ä.",
+        "en-US": "[Amandio]\nI heard it's to be gifted to a special guest.\nPlease deliver it to Chocola.",
         "pt-BR": "[Amanda]\nOuvi dizer que é para ser oferecido a um convidado especial.\nPor favor, entregue-o à Chocolai.",
         "es-ES": "[Amanda]\nOí que es para regalárselo a un invitado especial.\nPor favor, entrégaselo a Chocolai."
     },
     "OlH4DA": {
-        "en-US": "[¾Æ¸Áµð¿À]\n¸¶Ä§ ±â´Ù¸®°í ÀÖ¾ú¾î¿ä.\n±×·±µ¥ ³³Ç°¿ë ÃÊÄÝ·¿Àº ¾îµð ÀÖÁÒ?\n¹°°ÇÀ» Á¦´ë·Î °¡Á®¿À¼Å¾ßÁÒ.",
+        "en-US": "[Amandio]\nI've been waiting for you.\nBut where are the consignment chocolates?\nYou need to bring the goods properly.",
         "pt-BR": "[Amanda]\nEstive à sua espera.\nMas onde estão os Chocolaites em barra?\nPrecisa de trazer a mercadoria corretamente.",
         "es-ES": "[Amanda]\nTe he estado esperando.\nPero ¿dónde están los Chocolaites de consignación?\nTienes que traer la mercancía correctamente."
     },
     "O1H4DA": {
-        "en-US": "[¾Æ¸Áµð¿À]\n¾È³çÇÏ¼¼¿ä~ ¸ð·ÎÅ© ½ºÀ­Ã÷ »óÁ¡¿¡ ¿À½Å °ÍÀ» È¯¿µÇÕ´Ï´Ù~\n¸ð·ÎÅ© »óÁ¡ Æ¯Á¦ <ITEM>[ÃËÃËÇÑ ¸¶Ä«·Õ]<INFO>23261</INFO></ITEM>¸¦ ÆÈ°í ÀÖ¾î¿ä!",
+        "en-US": "[Amandio]\nHello~ Welcome to the Morroc Sweets Shop~\nWe're selling the Morroc shop special <ITEM>[Chewy Macaron]<INFO>23261</INFO></ITEM>!",
         "pt-BR": "[Amanda]\nOlá~ Boas-vindas(a) à Loja de Doces de Morroc~\nEstamos a vender o item especial da loja de Morroc <ITEM>[Macarons]<INFO>23261</INFO></ITEM>!",
         "es-ES": "[Amanda]\n¡Hola~ Bienvenid@ a la Tienda de Dulces de Morroc~\n¡Vendemos el producto especial de la tienda de Morroc <ITEM>[Macarons]<INFO>23261</INFO></ITEM>!"
     },
     "PFH4DA": {
-        "en-US": "[¾Æ¸Áµð¿À]\nÇÑÁ¤¼ö·® ÆÇ¸Å Ç°¸ñÀÌ¶ó ¾ó¸¶³ª ³²¾ÒÀ¸·Á³ª¿ä.\nÀÖ´Â¸¸Å­ ±¸¸Å ÇØ ÁÖ¼¼¿ä!",
+        "en-US": "[Amandio]\nThis is a limited quantity item, so I wonder how many are left.\nPlease buy as many as are available!",
         "pt-BR": "[Amanda]\nEste é um item de quantidade limitada, por isso pergunto-me quantos restam.\nPor favor, compre quantos estiverem disponíveis!",
         "es-ES": "[Amanda]\nEste es un objeto de cantidad limitada, así que me pregunto cuántos quedarán.\n¡Compra tantos como haya disponibles!"
     },
     "PVH4DA": {
-        "en-US": "[¾Æ¸Áµð¿À]\n^4D4DFF½ºÀ­Ã÷ °£½Ä ²Ù·¯¹Ì^000000 ÇÏ³ª¿¡ ^4D4DFF½ºÀ­Ã÷ ÃàÁ¦ ÄÚÀÎ^000000 2°³°¡ ÇÊ¿äÇÕ´Ï´Ù.",
+        "en-US": "[Amandio]\nEach ^4D4DFFSweets Package^000000 costs 2 ^4D4DFFSweet Coin^000000.",
         "pt-BR": "[Amanda]\nCada ^4D4DFFPacote de Doces^000000 custa 2 ^4D4DFFChocoedas^000000.",
         "es-ES": "[Amanda]\nCada ^4D4DFFPaquete de Dulces^000000 cuesta 2 ^4D4DFFChocomoneda^000000."
     },
     "PlH4DA": {
-        "en-US": "[¾Æ¸Áµð¿À]\n±³È¯ÇØµå¸±±î¿ä?",
+        "en-US": "[Amandio]\nShall I exchange it?",
         "pt-BR": "[Amanda]\nDevo trocá-lo?",
         "es-ES": "[Amanda]\n¿Te lo cambio?"
     },
     "P1H4DA": {
-        "en-US": "[¾Æ¸Áµð¿À]\n³×~ ¾Ë°Ú½À´Ï´Ù. ¸ðÇè°¡´Ô¿¡°Ô Çà¿îÀÌ µû¸£±â¸¦...",
+        "en-US": "[Amandio]\nYes~ Understood. May luck be with you, Adventurer...",
         "pt-BR": "[Amanda]\nSim~ Entendido. Que a sorte esteja consigo, Viajante...",
         "es-ES": "[Amanda]\nSí~ Entendido. Que la suerte te acompañe, Trotamundos..."
     },
     "QFH4DA": {
-        "en-US": "[¾Æ¸Áµð¿À]\n±×·³ ´ÙÀ½¿¡ µµÀüÇØ ÁÖ¼¼¿ä.",
+        "en-US": "[Amandio]\nPlease try again next time.",
         "pt-BR": "[Amanda]\nPor favor, tente novamente da próxima vez.",
         "es-ES": "[Amanda]\nPor favor, inténtalo de nuevo la próxima vez."
     },
     "QVH4DA": {
-        "en-US": "[¾Æ¸Áµð¿À]\n±×·³ ´ÙÀ½¿¡ ¹æ¹®ÇØÁÖ¼¼¿ä, ±â´Ù¸®°í ÀÖ°Ú½À´Ï´Ù!",
+        "en-US": "[Amandio]\nPlease visit again next time. I'll be waiting!",
         "pt-BR": "[Amanda]\nPor favor, visite-nos novamente da próxima vez. Estarei à espera!",
         "es-ES": "[Amanda]\nPor favor, visítanos de nuevo la próxima vez. ¡Estaré esperando!"
     },
     "QlH4DA": {
-        "en-US": "¾Æ¸¦¸£",
+        "en-US": "Arles",
         "pt-BR": "Arles",
         "es-ES": "Arles"
     },
     "Q1H4DA": {
-        "en-US": "<½ºÀ­Ã÷ ÃàÁ¦À§¿ø>",
+        "en-US": "<Sweets Festival Staff>",
         "pt-BR": "<Equipa do Chocomania>",
         "es-ES": "<Personal del Festival de los Dulces>"
     },
     "RFH4DA": {
-        "en-US": "[¾Æ¸¦¸£]\n»ç¶ûÇÏ´Â ¿¬ÀÎ°ú Ä£±¸¸¦ À§ÇØ ´ç½ÅÀÇ ÀÌ¸§À» »õ±ä ½ºÀ­Ã÷¸¦ ¼±¹° ÇØ º¸¼¼¿ä.\n½ºÀ­Ã÷ ÄÚÀÎ 30°³¸é µÈ´ä´Ï´Ù.",
+        "en-US": "[Arles]\nGive a sweet engraved with your name for your beloved partner or friend.\nIt only costs 30 Sweet Coins.",
         "pt-BR": "[Arles]\nOfereça um doce gravado com o seu nome para o seu amado parceiro ou amigo.\nCusta apenas 30 Chocoedas.",
         "es-ES": "[Arles]\nRegala un dulce grabado con tu nombre para tu amado compañero o amigo.\nSolo cuesta 30 Chocomonedas."
     },
     "RVH4DA": {
-        "en-US": "ÀÌ¸§ÀÌ »õ°ÜÁø ½ºÀ­Ã÷¸¦ »ê´Ù.",
+        "en-US": "Buy a name-engraved sweet.",
         "pt-BR": "Comprar um doce gravado.",
         "es-ES": "Comprar un dulce grabado."
     },
     "RlH4DA": {
-        "en-US": "±×¸¸ µÐ´Ù.",
+        "en-US": "Stop.",
         "pt-BR": "Parar.",
         "es-ES": "Parar."
     },
     "R1H4DA": {
-        "en-US": "[¾Æ¸¦¸£]\nÀÌ¸§ÀÌ »õ°ÜÁø ½ºÀ­Ã÷ Á¦ÀÛ¿¡´Â ½ºÀ­Ã÷ ÃàÁ¦ ÄÚÀÎ 30°³°¡ ÇÊ¿äÇÏ´ä´Ï´Ù.",
+        "en-US": "[Arles]\nCreating a name-engraved sweet requires 30 Sweet Coins.",
         "pt-BR": "[Arles]\nCriar um doce gravado requer 30 Chocoedas.",
         "es-ES": "[Arles]\nCrear un dulce grabado requiere 30 Chocomonedas."
     },
     "SFH4DA": {
-        "en-US": "[¾Æ¸¦¸£]\nÀÌ¸§ÀÌ »õ°ÜÁø ½ºÀ­Ã÷~\n¿©±â ÀÖ½À´Ï´Ù.\n»ç¶ûÇÏ´Â ¿¬ÀÎ°ú ±³È¯ÇÏ¼¼¿ä!",
+        "en-US": "[Arles]\nA name-engraved sweet~\nHere it is.\nExchange it with your beloved partner!",
         "pt-BR": "[Arles]\nUm doce gravado~\nAqui está.\nTroque-o com o seu amado parceiro!",
         "es-ES": "[Arles]\nUn dulce grabado~\nAquí está.\n¡Cambia con tu amada pareja!"
     },
     "SVH4DA": {
-        "en-US": "[¾Æ¸¦¸£]\n¾ðÁ¦µç ÀÌ¸§ »õ±ä ½ºÀ­Ã÷°¡ ÇÊ¿äÇÏ´Ù¸é Àý Ã£¾Æ ÁÖ¼¼¿ä.",
+        "en-US": "[Arles]\nIf you ever need a name-engraved sweet, please find me.",
         "pt-BR": "[Arles]\nSe alguma vez precisar de um doce gravado, por favor, encontre-me.",
         "es-ES": "[Arles]\nSi alguna vez necesitas un dulce grabado, por favor, búscame."
     },
     "SlH4DA": {
-        "en-US": "½ºÀ­Äî",
+        "en-US": "Pâtissier",
         "pt-BR": "Pâtissier",
         "es-ES": "Pâtissier"
     },
     "S1H4DA": {
-        "en-US": "<¿ä¸®»ç ½ºÀ­Äî>",
+        "en-US": "<Pâtissier>",
         "pt-BR": "<Pâtissier>",
         "es-ES": "<Pâtissier>"
     },
     "TFH4DA": {
-        "en-US": "¾È³çÇÏ¼¼¿ä!! Á¶±Ý ´õ È¯»óÀûÀÎ ¿ä¸®¸¦ ¸Àº¸Áö ¾ÊÀ¸½Ã°Ú¾î¿ä??",
+        "en-US": "Hello!! Would you like to taste some even more fantastic dishes??",
         "pt-BR": "Olá!! Gostaria de provar alguns pratos ainda mais fantásticos??",
         "es-ES": "¡¡Hola!! ¿Te gustaría probar unos platos aún más fantásticos??"
     },
     "TVH4DA": {
-        "en-US": "[½ºÀ­Äî]\n¾î¸Ó, ¸ðÇè°¡´Ô ¾È³çÇÏ¼¼¿ä~!\n½ºÀ­Ã÷ ÃàÁ¦´Â Áñ°Å¿ì½Å°¡¿ä?",
+        "en-US": "[Pâtissier]\nOh my, hello Adventurer~!\nAre you enjoying the Sweets Festival?",
         "pt-BR": "[Pâtissier]\nOh meu, olá Viajante~!\nEstá a gostar do Chocomania?",
         "es-ES": "[Pâtissier]\n¡Oh cielos, hola Trotamundos~!\n¿Estás disfrutando del Festival de los Dulces?"
     },
     "TlH4DA": {
-        "en-US": "[½ºÀ­Äî]\nÀú´Â ½ºÀ§Æ® ¿ä¸® Àü¹®°¡ ^4D4DFF½ºÀ­Äî^000000ÀÌ¶ó°í ÇÕ´Ï´Ù.\nÀÌ ¼¼»ó ¸ðµç ´ÞÄÞÇÑ ¿ä¸®µéÀº Á¦ Àü¹®ÀÌÁÒ!",
+        "en-US": "[Pâtissier]\nI'm a sweet dish specialist named ^4D4DFFPâtissier^000000.\nAll the sweet dishes in the world are my specialty!",
         "pt-BR": "[Pâtissier]\nSou um especialista em pratos doces chamado ^4D4DFFPâtissier^000000.\nTodos os pratos doces do mundo são a minha especialidade!",
         "es-ES": "[Pâtissier]\nSoy un especialista en platos dulces llamado ^4D4DFFPâtissier^000000.\n¡Todos los platos dulces del mundo son mi especialidad!"
     },
     "T1H4DA": {
-        "en-US": "[½ºÀ­Äî]\nÀÌ¹ø ÃàÁ¦µµ ¸»½é²Ù·¯±âµé ¶§¹®¿¡ ¼îÄÝ¶ó°¡ ¾ÆÁÖ °í»ýÀÌ ¸¹¾Ò´Ù°í µé¾ú¾î¿ä.",
+        "en-US": "[Pâtissier]\nI heard Chocola had a really hard time this festival because of the troublemakers.",
         "pt-BR": "[Pâtissier]\nOuvi dizer que a Chocolai se divertiu muito este festival por causa dos encrenqueiros.",
         "es-ES": "[Pâtissier]\nOí que Chocolai la pasó muy mal este festival por culpa de los alborotadores."
     },
     "UFH4DA": {
-        "en-US": "[½ºÀ­Äî]\n±×·± ¿ÍÁß¿¡ ¼îÄÝ¶ó°¡ Àú¿¡°Ô ºÎÅ¹À» ÇØ ¿À´Ï Â÷¸¶ °ÅÀýÇÒ ¼ö°¡ ¾ø¾ú´ä´Ï´Ù.",
+        "en-US": "[Pâtissier]\nDespite that, Chocola came to me with a request, and I just couldn't refuse.",
         "pt-BR": "[Pâtissier]\nApesar disso, a Chocolai veio ter comigo com um pedido e eu simplesmente não pude recusar.",
         "es-ES": "[Pâtissier]\nA pesar de eso, Chocolai vino a mí con una petición, y simplemente no pude negarme."
     },
     "UVH4DA": {
-        "en-US": "[½ºÀ­Äî]\n±×¸®ÇÏ¿© ÀÌ¹ø¿¡´Â Æ¯º°È÷ ÇöÀå¿¡¼­ Áï¼® ¿ä¸®¸¦ ¼±»çÇØµå¸®±â·Î Çß¾î¿ä~",
+        "en-US": "[Pâtissier]\nSo, this time, I've decided to offer impromptu cooking on site~",
         "pt-BR": "[Pâtissier]\nEntão, desta vez, decidi oferecer confeção improvisada no local~",
         "es-ES": "[Pâtissier]\nAsí que, esta vez, he decidido ofrecer cocina improvisada en el lugar~"
     },
     "UlH4DA": {
-        "en-US": "¾î¶² ¿ä¸®¸¦ ÇÏ´Âµ¥?",
+        "en-US": "What kind of dishes?",
         "pt-BR": "Que tipo de pratos?",
         "es-ES": "¿Qué tipo de platos?"
     },
     "U1H4DA": {
-        "en-US": "±×·¸±¸³ª, ¼ö°íÇØ.",
+        "en-US": "I see, keep up the good work.",
         "pt-BR": "Entendo, continue com o bom trabalho.",
         "es-ES": "Ya veo, sigue con el buen trabajo."
     },
     "VFH4DA": {
-        "en-US": "[½ºÀ­Äî]\n¾Æ~! ÀÌ¹ø ÇöÀå¿¡¼­ Á¦°¡ ¼±»çÇÒ ¿ä¸®´Â ¸»ÀÌÁÒ~!!\nÇöÀç Á¦°øµÇ°í ÀÖ´Â ½ºÀ­Ã÷ ¸Þ´º¸¦ ¾Ë°í °è½Å°¡¿ä?",
+        "en-US": "[Pâtissier]\nAh~! The dish I'll be presenting on site this time is~~\nDo you know the current sweets menu being offered?",
         "pt-BR": "[Pâtissier]\nAh~! O prato que apresentarei no local desta vez é~~\nVocê conhece o menu de doces atual que está a ser oferecido?",
         "es-ES": "[Pâtissier]\n¡Ah~! El plato que presentaré en el lugar esta vez es~~\n¿Conoces el menú de dulces actual que se ofrece?"
     },
     "VVH4DA": {
-        "en-US": "[½ºÀ­Äî]\n^4D4DFF´ÞÄÞÇÑ Å©·¹ÀÌÇÁ^000000, ^4D4DFFÃËÃËÇÑ ¸¶Ä«·Õ^000000, ^4D4DFF¸ùºí¶û ÄÉÀÌÅ©^000000, ^4D4DFF°úÀÏ ÆÄ¸£Æä^000000, ^4D4DFFµþ±â »ýÅ©¸² ÄÅÄÉŸ?000000\nÀÌ ´Ù¼¸°¡Áö ¸Þ´º¿ä!!",
+        "en-US": "[Pâtissier]\nThe five menus are:\n^4D4DFFSweet Crepe^000000, ^4D4DFFChewy Macaron^000000, ^4D4DFFMont Blanc Cake^000000, ^4D4DFFFruit Parfait^000000, ^4D4DFFStrawberry Cream Cupcake^000000!!",
         "pt-BR": "[Pâtissier]\nOs cinco menus são:\n^4D4DFFCrepe Doce^000000, ^4D4DFFMacarons^000000, ^4D4DFFBolo Mont Blanc^000000, ^4D4DFFParfait de Frutas^000000, ^4D4DFFCupcake de Morango^000000!!",
         "es-ES": "[Pâtissier]\nLos cinco menús son:\n¡¡^4D4DFFCrepe Dulce^000000, ^4D4DFFMacarons^000000, ^4D4DFFPastel Mont Blanc^000000, ^4D4DFFParfait de Frutas^000000, ^4D4DFFCupcake de Fresa y Crema^000000!!"
     },
     "VlH4DA": {
-        "en-US": "[½ºÀ­Äî]\nÀÌ ¸Þ´ºµéÀ» Á¶ÇÕÇØ¼­ »õ·Ó°í Æ¯º°ÇÑ ¿ä¸®¸¦ Áï¼®¿¡¼­ ½Ã½ÄÇÒ ¼ö ÀÖµµ·Ï ÇÒ °Å¿¡¿ä!\n¼¼ °¡Áö ¿ä¸®¸¦ Á¦°øÇÒ ¿¹Á¤ÀÎµ¥¿ä~",
+        "en-US": "[Pâtissier]\nI'll combine these menus to create new and special dishes that you can sample on the spot!\nI plan to offer three dishes~",
         "pt-BR": "[Pâtissier]\nVou combinar estes menus para criar pratos novos e especiais que você pode provar no local!\nPlaneio oferecer três pratos~",
         "es-ES": "[Pâtissier]\n¡Combinaré estos menús para crear platos nuevos y especiales que podrás probar en el momento!\nPlaneo ofrecer tres platos~"
     },
     "V1H4DA": {
-        "en-US": "[½ºÀ­Äî]\nÃ¹ ¹øÂ° ¿ä¸®´Â ^4D4DFF½ºÀ§Æ® ¸¶Ä«·Õ ÄÉÀÌÅ©^000000ÀÔ´Ï´Ù~\n´ÞÄÞÇÑ ÄÉÀÌÅ©¿¡ ÃËÃËÇÑ ¸¶Ä«·ÕÀÌ ¼Û¼Û ¹ÚÇôÀÖ´Â~!! ¾ÆÁÖ ³¡³»ÁÖ°ÚÁÒ?",
+        "en-US": "[Pâtissier]\nThe first dish is the ^4D4DFFSweet Macaron Cake^000000~\nA sweet cake studded with Chewy Macarons~!! It's going to be amazing, right?",
         "pt-BR": "[Pâtissier]\nO primeiro prato é o ^4D4DFFBolo de Macaron Doce^000000~\nUm bolo doce cravejado de macarons húmidos~!! Vai ser incrível, certo?",
         "es-ES": "[Pâtissier]\n¡El primer plato es el ^4D4DFFPastel de Macaron Dulce^000000~\nUn pastel dulce tachonado de macarons húmedos~!! Va a ser increíble, ¿verdad?"
     },
     "WFH4DA": {
-        "en-US": "[½ºÀ­Äî]\n^4D4DFF´ÞÄÞÇÑ Å©·¹ÀÌÇÁ^000000, ^4D4DFFÃËÃËÇÑ ¸¶Ä«·Õ^000000, ^4D4DFF¸ùºí¶û ÄÉÀÌÅ©^000000¸¦ °¢°¢ 1°³¾¿ °¡Á®¿À½Ã¸é ¸¸µé¾îµå¸±°Ô¿ä.",
+        "en-US": "[Pâtissier]\nBring me one each of ^4D4DFFSweet Crepe^000000, ^4D4DFFChewy Macaron^000000, and ^4D4DFFMont Blanc Cake^000000, and I'll make it for you.",
         "pt-BR": "[Pâtissier]\nTraga-me um de cada de ^4D4DFFCrepe Doce^000000, ^4D4DFFMacarons^000000 e ^4D4DFFBolo Mont Blanc^000000, e eu faço-lho.",
         "es-ES": "[Pâtissier]\nTráeme uno de cada: ^4D4DFFCrepe Dulce^000000, ^4D4DFFMacarons^000000 y ^4D4DFFPastel Mont Blanc^000000, y te lo prepararé."
     },
     "WVH4DA": {
-        "en-US": "[½ºÀ­Äî]\nÀÌ ¿ä¸®¸¦ ¸ÔÀ¸¸é È¯»óÀûÀÎ ´ÞÄÞÇÔÀÌ ³ÑÃÄÈå¸£´Â ¹Ù¶÷¿¡ ^4D4DFF¹°¸® °ø°Ý·Â^000000ÀÌ °­ÇØÁö´Â È¿°ú°¡ ÀÖ¾î¿ä.",
+        "en-US": "[Pâtissier]\nEating this dish fills you with fantastic sweetness, giving an effect that ^4D4DFFincreases Physical Attack^000000.",
         "pt-BR": "[Pâtissier]\nComer este prato enche-o de uma doçura fantástica, dando um efeito que ^4D4DFFaumenta o Ataque Físico^000000.",
         "es-ES": "[Pâtissier]\nComer este plato te llena de una dulzura fantástica, dando un efecto que ^4D4DFFaumenta el Ataque Físico^000000."
     },
     "WlH4DA": {
-        "en-US": "[½ºÀ­Äî]\nµÎ ¹øÂ° ¿ä¸®´Â ^4D4DFF½ºÀ§Æ® µþ±â ÆÄ¸£Æä^000000ÀÔ´Ï´Ù~\n½Å¼±ÇÑ µþ±â¿Í ´ÞÄÞÇÑ »ýÅ©¸²ÀÌ °çµé¾îÁø È¯»óÀûÀÎ ÆÄ¸£Æä ¸»ÀÌ¿¡¿ä~!!",
+        "en-US": "[Pâtissier]\nThe second dish is the ^4D4DFFStrawberry Parfait^000000.\nA fantastic parfait accompanied by fresh strawberries and sweet fresh cream!",
         "pt-BR": "[Pâtissier]\nO segundo prato é o ^4D4DFFParfait de Morango^000000.\nUma parfait fantástica acompanhada de morangos frescos e creme fresco doce!",
         "es-ES": "[Pâtissier]\n¡El segundo plato es el ^4D4DFFParfait de Fresa^000000.\nUna fantástica parfait acompañada de fresas frescas y dulce crema fresca!"
     },
     "W1H4DA": {
-        "en-US": "[½ºÀ­Äî]\n^4D4DFF´ÞÄÞÇÑ Å©·¹ÀÌÇÁ^000000, ^4D4DFFµþ±â »ýÅ©¸² ÄÅÄÉŸ?000000, ^4D4DFF°úÀÏ ÆÄ¸£Æä^000000¸¦ °¢°¢ 1°³¾¿ °¡Á®¿À½Ã¸é ¸¸µé¾îµå¸±°Ô¿ä.",
+        "en-US": "[Pâtissier]\nBring me one each of ^4D4DFFSweet Crepe^000000, ^4D4DFFStrawberry Cream Cupcake^000000, and ^4D4DFFFruit Parfait^000000, and I'll make it for you.",
         "pt-BR": "[Pâtissier]\nTraga-me um de cada de ^4D4DFFCrepe Doce^000000, ^4D4DFFCupcake de Morango^000000 e ^4D4DFFParfait de Frutas^000000, e eu faço-lha.",
         "es-ES": "[Pâtissier]\nTráeme uno de cada: ^4D4DFFCrepe Dulce^000000, ^4D4DFFCupcake de Fresa y Crema^000000 y ^4D4DFFParfait de Frutas^000000, y te la prepararé."
     },
     "XFH4DA": {
-        "en-US": "[½ºÀ­Äî]\nÀÌ ¿ä¸®¸¦ ¸ÔÀ¸¸é »ý±â ³ÑÄ¡´Â °¨Ä¥¸ÀÀ» ´À³¢°Ô µÇ¸é¼­ ^4D4DFF¸¶¹ý °ø°Ý·Â^000000ÀÌ °­ÇØÁö´Â È¿°ú°¡ ÀÖ¾î¿ä.",
+        "en-US": "[Pâtissier]\nEating this dish makes you feel a lively savory flavor, giving an effect that ^4D4DFFincreases Magical Attack^000000.",
         "pt-BR": "[Pâtissier]\nComer este prato faz-lhe sentir um sabor vivo e saboroso, dando um efeito que ^4D4DFFaumenta o Ataque Mágico^000000.",
         "es-ES": "[Pâtissier]\nComer este plato te hace sentir un sabor vivo y sabroso, dando un efecto que ^4D4DFFaumenta el Ataque Mágico^000000."
     },
     "XVH4DA": {
-        "en-US": "[½ºÀ­Äî]\n¼¼ ¹øÂ° ¿ä¸®´Â ^4D4DFF½ºÀ§Æ® »ýÅ©¸² Å©·¹ÀÌÇÁ^000000ÀÔ´Ï´Ù~\n´ÞÄÞÇÑ »ýÅ©¸²ÀÌ µë»Ò ¹ß¶óÁ® ÀÖ´Â Å©·¹ÀÌÇÁ¿¡¿ä~!!",
+        "en-US": "[Pâtissier]\nThe third dish is the ^4D4DFFSweet Cream Crepe^000000.\nA crepe generously spread with sweet fresh cream!",
         "pt-BR": "[Pâtissier]\nO terceiro prato é o ^4D4DFFCrepe com Creme^000000.\nUm crepe generosamente espalhado com creme fresco doce!",
         "es-ES": "[Pâtissier]\n¡El tercer plato es el ^4D4DFFCrepe con Crema^000000.\nUn crepe generosamente untado con dulce crema fresca!"
     },
     "XlH4DA": {
-        "en-US": "[½ºÀ­Äî]\n^4D4DFF´ÞÄÞÇÑ Å©·¹ÀÌÇÁ^000000, ^4D4DFFµþ±â »ýÅ©¸² ÄÅÄÉŸ?000000, ^4D4DFF¸ùºí¶û ÄÉÀÌÅ©^000000¸¦ °¢°¢ 1°³¾¿ °¡Á®¿À½Ã¸é ¸¸µé¾îµå¸±°Ô¿ä.",
+        "en-US": "[Pâtissier]\nBring me one each of ^4D4DFFSweet Crepe^000000, ^4D4DFFStrawberry Cream Cupcake^000000, and ^4D4DFFMont Blanc Cake^000000, and I'll make it for you.",
         "pt-BR": "[Pâtissier]\nTraga-me um de cada de ^4D4DFFCrepe Doce^000000, ^4D4DFFCupcake de Morango^000000 e ^4D4DFFBolo Mont Blanc^000000, e eu faço-lho.",
         "es-ES": "[Pâtissier]\nTráeme uno de cada: ^4D4DFFCrepe Dulce^000000, ^4D4DFFCupcake de Fresa y Crema^000000 y ^4D4DFFPastel Mont Blanc^000000, y te lo prepararé."
     },
     "X1H4DA": {
-        "en-US": "[½ºÀ­Äî]\nÀÌ ¿ä¸®¸¦ ¸ÔÀ¸¸é Æø¹ßÇÏ´Â ´ÞÄÞÇÔ¿¡ ÃëÇØ ^4D4DFF¹ÎÃ¸ÇØÁö´Â^000000 È¿°ú°¡ ÀÖ¾î¿ä.",
+        "en-US": "[Pâtissier]\nEating this dish intoxicates you with explosive sweetness, giving an effect that ^4D4DFFmakes you agile^000000.",
         "pt-BR": "[Pâtissier]\nComer este prato intoxica-o com doçura explosiva, dando um efeito que ^4D4DFFo torna ágil^000000.",
         "es-ES": "[Pâtissier]\nComer este plato te intoxica con una dulzura explosiva, dando un efecto que ^4D4DFFte vuelve ágil^000000."
     },
     "YFH4DA": {
-        "en-US": "[½ºÀ­Äî]\nÀÚ, ¾î¶² Áï¼® ¿ä¸®¸¦ ¸¸µé¾î µå¸±±î¿ä?",
+        "en-US": "[Pâtissier]\nNow, which impromptu dish shall I make for you?",
         "pt-BR": "[Pâtissier]\nAgora, qual prato improvisado devo fazer para si?",
         "es-ES": "[Pâtissier]\nAhora, ¿qué plato improvisado te preparo?"
     },
     "YVH4DA": {
-        "en-US": "^4D4DFF½ºÀ§Æ® ¸¶Ä«·Õ ÄÉÀÌÅ©^000000¸¦ ÁÖ¹®ÇÑ´Ù.(¹°¸® ¹öÇÁ)",
+        "en-US": "Order ^4D4DFFSweet Macaron Cake^000000. (Physical Buff)",
         "pt-BR": "Encomendar ^4D4DFFBolo de Macarons^000000. (Buff Físico)",
         "es-ES": "Pedir ^4D4DFFPastel de Macarons^000000. (Buff Físico)"
     },
     "YlH4DA": {
-        "en-US": "^4D4DFF½ºÀ§Æ® µþ±â ÆÄ¸£Æä^000000¸¦ ÁÖ¹®ÇÑ´Ù.(¸¶¹ý ¹öÇÁ)",
+        "en-US": "Order ^4D4DFFSweet Strawberry Parfait^000000. (Magic Buff)",
         "pt-BR": "Encomendar ^4D4DFFParfait de Morango^000000. (Buff Mágico)",
         "es-ES": "Pedir ^4D4DFFParfait de Fresa^000000. (Buff Mágico)"
     },
     "Y1H4DA": {
-        "en-US": "^4D4DFF½ºÀ§Æ® »ýÅ©¸² Å©·¹ÀÌÇÁ^000000¸¦ ÁÖ¹®ÇÑ´Ù.(¼Óµµ ¹öÇÁ)",
+        "en-US": "Order ^4D4DFFSweet Cream Crepe^000000. (Speed Buff)",
         "pt-BR": "Encomendar ^4D4DFFCrepe com Creme^000000. (Buff de Velocidade)",
         "es-ES": "Pedir ^4D4DFFCrepe con Crema^000000. (Buff de Velocidad)"
     },
     "ZFH4DA": {
-        "en-US": "´ÙÀ½¿¡ ¿Â´Ù.",
+        "en-US": "Come back later.",
         "pt-BR": "Voltar depois.",
         "es-ES": "Volver después."
     },
     "ZVH4DA": {
-        "en-US": "[½ºÀ­Äî]\nÁÁ¾Æ¿ä, Àç·á°¡ ÁØºñµÇ¾úÀ¸´Ï ¹Ù·Î ÈÄ´Ù´Ú ¸¸µé¾îµå¸®°Ú½À´Ï´Ù!!\n¾ÆÀÚ¾ÆÀÚ, ÀÌ¾æÀÌ¾æ, ÀÌ¶ùÃÝ¿À¿À¿À¿Ê~~~~!!!!!!!!",
+        "en-US": "[Pâtissier]\nGreat, the ingredients are ready, so I'll whip it up for you right away!!\nAja aja, yiat yiat, iratchoooooot!!!!!!!!",
         "pt-BR": "[Pâtissier]\nÓtimo, os ingredientes estão prontos, então vou prepará-lo para si imediatamente!!\nA-a-a-a-atchiiiiiiimm!!!!!!!!",
         "es-ES": "[Pâtissier]\nGenial, los ingredientes están listos, así que ¡¡te lo prepararé ahora mismo!!\n¡Aja aja, yiat yiat, iratchoooooot!!!!!!!!"
     },
     "ZlH4DA": {
-        "en-US": "[½ºÀ­Äî]\nÈÄ¾Æ... ¾î¶§¿ä?\n¸ÀÀÌ ³¡³»ÁÖÁÒ?\n³ªÁß¿¡ ¶Ç ÇÊ¿äÇÏ¸é ´Ù½Ã Ã£¾Æ¿ÍÁÖ¼¼¿ä.\n±×·³ Áñ°Å¿î ÃàÁ¦ µÇ½Ã±æ!",
+        "en-US": "[Pâtissier]\nPhew... How is it?\nIt tastes amazing, right?\nCome back again if you need more later.\nNow, have a joyful festival!",
         "pt-BR": "[Pâtissier]\nUfa... Que tal?\nTem um sabor incrível, não tem?\nVolte outra vez se precisar de mais mais tarde.\nAgora, tenha um festival alegre!",
         "es-ES": "[Pâtissier]\nUf... ¿Qué tal?\nTiene un sabor increíble, ¿verdad?\nVuelve otra vez si necesitas más más tarde.\n¡Ahora, ten un festival alegre!"
     },
     "Z1H4DA": {
-        "en-US": "[½ºÀ­Äî]\nÀÌ·±, Àç·á°¡ ºÎÁ·ÇØ¿ä~\n¿Ïº®ÇÑ ¿ä¸®¸¦ ¸¸µé±â À§ÇØ¼­´Â Àç·áµµ ¿Ïº®ÇÏ°Ô °®ÃçÁ®¾ß ÇÑ´ä´Ï´Ù.\n^4D4DFF´ÞÄÞÇÑ Å©·¹ÀÌÇÁ^000000, ^4D4DFFÃËÃËÇÑ ¸¶Ä«·Õ^000000, ^4D4DFF¸ùºí¶û ÄÉÀÌÅ©^000000¸¦ °¢°¢ 1°³¾¿ °¡Á®¿Í ÁÖ¼¼¿ä!",
+        "en-US": "[Pâtissier]\nOh dear, you're missing ingredients!\nTo make a perfect dish, the ingredients must be perfectly prepared too.\nPlease bring me one each of ^4D4DFFSweet Crepe^000000, ^4D4DFFChewy Macaron^000000, and ^4D4DFFMont Blanc Cake^000000!",
         "pt-BR": "[Pâtissier]\nOh céus, faltam ingredientes!\nPara fazer um prato perfeito, os ingredientes também devem ser perfeitamente preparados.\nPor favor, traga-me um de cada de ^4D4DFFCrepe Doce^000000, ^4D4DFFMacarons^000000 e ^4D4DFFBolo Mont Blanc^000000!",
         "es-ES": "[Pâtissier]\n¡Oh cielos, te faltan ingredientes!\nPara hacer un plato perfecto, los ingredientes también deben estar perfectamente preparados.\n¡Tráeme uno de cada: ^4D4DFFCrepe Dulce^000000, ^4D4DFFMacarons^000000 y ^4D4DFFPastel Mont Blanc^000000!"
     },
     "aFH4DA": {
-        "en-US": "[½ºÀ­Äî]\nÀÌ·±, Àç·á°¡ ºÎÁ·ÇØ¿ä~\n¿Ïº®ÇÑ ¿ä¸®¸¦ ¸¸µé±â À§ÇØ¼­´Â Àç·áµµ ¿Ïº®ÇÏ°Ô °®ÃçÁ®¾ß ÇÑ´ä´Ï´Ù.\n^4D4DFF´ÞÄÞÇÑ Å©·¹ÀÌÇÁ^000000, ^4D4DFFµþ±â »ýÅ©¸² ÄÅÄÉŸ?000000, ^4D4DFF°úÀÏ Æä¸£Æä^000000¸¦ °¢°¢ 1°³¾¿ °¡Á®¿Í ÁÖ¼¼¿ä!",
+        "en-US": "[Pâtissier]\nOh dear, you're missing ingredients!\nTo make a perfect dish, the ingredients must be perfectly prepared too.\nPlease bring me one each of ^4D4DFFSweet Crepe^000000, ^4D4DFFStrawberry Cream Cupcake^000000, and ^4D4DFFFruit Parfait^000000!",
         "pt-BR": "[Pâtissier]\nOh céus, faltam-lhe ingredientes!\nPara fazer um prato perfeito, os ingredientes também devem ser perfeitamente preparados.\nPor favor, traga-me um de cada de ^4D4DFFCrepe Doce^000000, ^4D4DFFCupcake de Morango^000000 e ^4D4DFFParfait de Frutas^000000!",
         "es-ES": "[Pâtissier]\n¡Oh cielos, te faltan ingredientes!\nPara hacer un plato perfecto, los ingredientes también deben estar perfectamente preparados.\n¡Tráeme uno de cada: ^4D4DFFCrepe Dulce^000000, ^4D4DFFCupcake de Fresa y Crema^000000 y ^4D4DFFParfait de Frutas^000000!"
     },
     "aVH4DA": {
-        "en-US": "[½ºÀ­Äî]\nÀÌ·±, Àç·á°¡ ºÎÁ·ÇØ¿ä~\n¿Ïº®ÇÑ ¿ä¸®¸¦ ¸¸µé±â À§ÇØ¼­´Â Àç·áµµ ¿Ïº®ÇÏ°Ô °®ÃçÁ®¾ß ÇÑ´ä´Ï´Ù.\n^4D4DFF´ÞÄÞÇÑ Å©·¹ÀÌÇÁ^000000, ^4D4DFFµþ±â »ýÅ©¸² ÄÅÄÉŸ?000000, ^4D4DFF¸ùºí¶û ÄÉÀÌÅ©^000000¸¦ °¢°¢ 1°³¾¿ °¡Á®¿Í ÁÖ¼¼¿ä!",
+        "en-US": "[Pâtissier]\nOh dear, you're missing ingredients!\nTo make a perfect dish, the ingredients must be perfectly prepared too.\nPlease bring me one each of ^4D4DFFSweet Crepe^000000, ^4D4DFFStrawberry Cream Cupcake^000000, and ^4D4DFFMont Blanc Cake^000000!",
         "pt-BR": "[Pâtissier]\nOh céus, faltam ingredientes!\nPara fazer um prato perfeito, os ingredientes também devem ser perfeitamente preparados.\nPor favor, traga-me um de cada de ^4D4DFFCrepe Doce^000000, ^4D4DFFCupcake de Morango^000000 e ^4D4DFFBolo Mont Blanc^000000!",
         "es-ES": "[Pâtissier]\n¡Oh cielos, te faltan ingredientes!\nPara hacer un plato perfecto, los ingredientes también deben estar perfectamente preparados.\n¡Tráeme uno de cada: ^4D4DFFCrepe Dulce^000000, ^4D4DFFCupcake de Fresa y Crema^000000 y ^4D4DFFPastel Mont Blanc^000000!"
     },
     "alH4DA": {
-        "en-US": "[½ºÀ­Äî]\n½ºÀ­Ã÷ ÃàÁ¦ ±â°£¿¡¸¸ ¸Àº¼ ¼ö ÀÖ´Â ÀÌ ¾î¸¶¾î¸¶ÇÑ ±âÈ¸¸¦ ³õÄ¡Áö ¸¶¼¼¿ä!!\n´Ù½Ã Ã£¾Æ¿Í ÁÖ½Ç °ÍÀ» ¹Ï°í ±â´Ù¸®°Ú½À´Ï´Ù~~",
+        "en-US": "[Pâtissier]\nDon't miss this incredible opportunity to taste these dishes only available during the Sweets Festival!!\nI'll be waiting, believing you'll come back~~",
         "pt-BR": "[Pâtissier]\nNão perca esta oportunidade incrível de provar estes pratos disponíveis apenas durante o Chocomania!!\nEstarei à espera, acreditando que voltará~~",
         "es-ES": "[Pâtissier]\n¡¡No te pierdas esta increíble oportunidad de probar estos platos disponibles solo durante el Festival de los Dulces!!\nEstaré esperando, creyendo que volverás~~"
     },
     "a1H4DA": {
-        "en-US": "[½ºÀ­Äî]\n¿¨....?\n¹¹Áö, ÀÌ ¹ÝÀÀÀº...\nÁ¦°¡ ¸¸µé¾îµå¸± ÀÌ ¾î¸¶¾î¸¶ÇÑ ¿ä¸®¸¦ Æ÷±âÇÏ½Ç »ý°¢ÀÌ½Å°¡¿ä?\n¿¡ÀÌ, ¼³¸¶~",
+        "en-US": "[Pâtissier]\nHuh....?\nWhat's with this reaction...\nAre you thinking of giving up on this incredible dish I'm offering?\nAh, no way~",
         "pt-BR": "[Pâtissier]\nHã....?\nO que é esta reação...\nEstá a pensar em desistir deste prato incrível que estou a oferecer?\nAh, não pode~",
         "es-ES": "[Pâtissier]\n¿¿Eh....?\n¿Qué es esta reacción...\nEstás pensando en renunciar a este increíble plato que te ofrezco?\nAh, no puede ser~"
     }

@@ -10593,3 +10593,20 @@ StateIconList[EFST_IDs.EFST_C_BUFF_17] = {
 		}
 	}
 }
+StateIconList[EFST_IDs.EFST_BLOCK] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"블럭 상태",
+			COLOR_TITLE_DEBUFF
+		},
+		{"%s", COLOR_TIME},
+		{
+			"몬스터로부터 획득하는 경험치 0"
+		},
+		{
+			"몬스터로부터 획득하는 아이템 드랍률 0"
+		}
+	}
+}

@@ -417,7 +417,7 @@
     "E6Sb": {
         "en-US": "[Gotanblue]\nAlright then...\nWell, if the spirit of adventure should happen to grab you, I will be here waiting.",
         "pt-BR": "[Gotanblue]\nTá certo...\nBem, se algum dia você acordar afim da aventura, estarei por aqui.",
-        "es-ES": "[Gotanblue]\nMuy bien, entonces…\nBueno, si te vuelve al cuerpo el espíritu aventurero, sabes dónde encontrarme."
+        "es-ES": "[Gotanblue]\nMuy bien, entonces…\nBueno, si te vuelve al cuerpo el espíritu aventura, sabes dónde encontrarme."
     },
     "FKSb": {
         "en-US": "[Gotanblue]\nHeh...",
@@ -1765,6 +1765,8 @@
         "es-ES": "[Nyusurea]\nDe todos modos, ten cuidado en este tercer nivel de la Isla Tortuga. Muchos de nuestros hombres fueron aniquilados al explorar los extremos este y norte, ¡así que ten cuidado!"
     },
     "IaWb": {
-        "en-US": "[Voyage Log]\n04:10\n5 minutes ago, our comrade, Cooker, was killed when the mast suddenly cracked and fell on his head."
+        "en-US": "[Voyage Log]\n04:10\n5 minutes ago, our comrade, Cooker, was killed when the mast suddenly cracked and fell on his head.",
+        "pt-BR": "[Registro de Viagem]\n04:10\nHá 5 minutos, nosso colega Cooker morreu esmagado pelo mastro que quebrou e caiu na cabeça dele.",
+        "es-ES": "[Registro de Viaje]\n04:10\nHace 5 minutos, nuestro colega Cooker murió aplastado por el mástil que se rompió y cayó sobre su cabeza."
     }
 }

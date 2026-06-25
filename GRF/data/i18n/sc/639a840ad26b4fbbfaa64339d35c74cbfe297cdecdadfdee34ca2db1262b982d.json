@@ -1,30 +1,25 @@
 {
     "QCDfAQ": {
-        "ko-KR": "은행 직원",
         "en-US": "Treasurer",
         "pt-BR": "Tesoureiro",
         "es-ES": "Tesorero"
     },
     "QSDfAQ": {
-        "ko-KR": "[은행 직원]\n현금을 현물 자산으로 보관하시는 것 어떠십니까?\n언젠가 어린 시절 부자가 된다면 황금으로 가득 찬 금고에서 수영을 해보고 싶다는 생각은 안 하셨는지요?",
         "en-US": "[Treasurer]\nHow about keeping your wealth in tangible assets?\nHaven’t you ever dreamed, as a child, of swimming in a vault filled with gold bars?",
         "pt-BR": "[Tesoureiro]\nBem-vindo ao Banco de Lighthalzen.\nDeseja comprar nosso Ouro?",
         "es-ES": "[Tesorero]\nTe doy la bienvenida al Banco de Lighthalzen.\n¿Quieres comprar oro?"
     },
     "QiDfAQ": {
-        "ko-KR": "골드바 주세요.",
         "en-US": "I'd like to buy some gold bars.",
         "pt-BR": "Comprar ouro.",
         "es-ES": "Comprar oro."
     },
     "QyDfAQ": {
-        "ko-KR": "주민",
         "en-US": "Resident",
         "pt-BR": "Cliente",
         "es-ES": "Cliente"
     },
     "RCDfAQ": {
-        "ko-KR": "[주민]\n아니, 골드바 살 때랑 팔 때 시세 차이가 왜 이렇게 나는 거야?\n실 거래가는 어떻게 형성되는건지 도통 모르겠네. 시장에서 눈을 뗄 수가 없잖아…?",
         "en-US": "[Resident]\nWhy is there such a big price gap between buying and selling gold bars?\nI have no idea how real prices are determined.\nI just can’t take my eyes off the market...",
         "pt-BR": "[Cliente]\nPoxa, não consegui Desconto na compra do Ouro.\nNão adiantou nada eu ter investido nessa habilidade.",
         "es-ES": "[Cliente]\nVaya, no pude conseguir un Descuento para comprar oro.\nNo valía la pena invertir en esta habilidad."

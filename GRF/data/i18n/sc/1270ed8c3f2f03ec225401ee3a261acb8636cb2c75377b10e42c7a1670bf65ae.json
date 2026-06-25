@@ -26,13 +26,13 @@
     "hE9HDA": {
         "ko-KR": "[예언자 K]\n흠! 차..찾은거 같군!!\n사막 속에 오아시스와 같은..\n그곳...",
         "en-US": "[Prophet K]\nHmm! I...I think I've found it!!\nLike an oasis in the desert..\nThat place...",
-        "pt-BR": "[Profeta K]\nHmm! En..contrei, parece!!\nComo um oásis no deserto..\nAquele lugar...",
+        "pt-BR": "[Profeta K]\nHmm! En...contrei, parece!!\nComo um oásis no deserto...\nAquele lugar...",
         "es-ES": "[Profeta K]\n¡Mm! ¡Parece que lo... lo he encontrado!\nComo un oasis en el desierto...\nEse lugar..."
     },
     "hU9HDA": {
         "ko-KR": "[예언자 K]\n사막 한 가운데 있는 도시..\n그 도시 한 가운데..\n찰랑거리는 물 옆에\n말끔히 정장을 입은\n한 사내가 보이는군!",
         "en-US": "[Prophet K]\nIn the city located in the middle of the desert..\nIn the center of that city..\nNext to shimmering water,\nI see a man dressed in a neat suit!",
-        "pt-BR": "[Profeta K]\nUma cidade no meio do deserto..\nNo centro daquela cidade..\nAo lado de águas cristalinas,\nvejo um homem vestido com um\nterno impecável!",
+        "pt-BR": "[Profeta K]\nUma cidade no meio do deserto...\nNo centro daquela cidade...\nAo lado de águas cristalinas,\nvejo um homem vestido com um\nterno impecável!",
         "es-ES": "[Profeta K]\nLa ciudad en medio del desierto...\nEn el centro de esa ciudad...\nJunto al agua ondulante,\n¡puedo ver a un hombre\nvestido con un traje impecable!"
     },
     "hk9HDA": {
@@ -50,7 +50,7 @@
     "iE9HDA": {
         "ko-KR": "[예언자 K]\n그를 찾아서 내가 준\n밀서를 건네주도록 하게.\n그 이후에 판단은\n그가 스스로 하겠지..\n모든 것 은 하늘의 뜻 대로..\n후후..",
         "en-US": "[Prophet K]\nFind him and deliver\nthe secret letter I gave you.\nHe will judge for himself\nafter that...\nEverything is according to heaven's will...\nHoo hoo..",
-        "pt-BR": "[Profeta K]\nEncontre-o e entregue\na carta secreta que eu lhe dei.\nA partir daí, a decisão\nserá dele...\nTudo segue a vontade do céu..\nHuhu..",
+        "pt-BR": "[Profeta K]\nEncontre-o e entregue\na carta secreta que eu lhe dei.\nA partir daí, a decisão\nserá dele...\nTudo segue a vontade do céu...\nHuhu...",
         "es-ES": "[Profeta K]\nBúscalo y entrégale\nla carta secreta que te di.\nDespués de eso, él\ntomará su propia decisión...\nTodo sigue la voluntad del cielo...\nJuju..."
     },
     "iU9HDA": {
@@ -81,13 +81,13 @@
         "ko-KR": "[예언자 K]\n묘르닐 산맥 북쪽 지역으로\n가면 사이드 와인더가\n서식하고 있을 것 이네.",
         "en-US": "[Prophet K]\nIf you go to the area north of\nthe Mjolnir Mountains,\nthere should be Side Winders\ninhabiting the area.",
         "pt-BR": "[Profeta K]\nSe você for para a região norte\nda Cordilheira Mjolnir,\nencontrará Sorrateiros\nhabitando por lá.",
-        "es-ES": "[Profeta K]\nSi vas al área norte\nde la Cordillera Mjolnir,\nencontrarás Side Winders\nhabitando allí."
+        "es-ES": "[Profeta K]\nSi vas al área norte\nde la Cordillera Mjolnir,\nencontrarás Crótalos\nhabitando allí."
     },
     "jk9HDA": {
         "ko-KR": "[예언자 K]\n그 사이드 와인더를\n잡아서 뱀의 영혼 조각\n150개를 구해와 주게.",
         "en-US": "[Prophet K]\nHunt those Side Winders\nand gather 150\nSnake Soul Fragments for me.",
         "pt-BR": "[Profeta K]\nDerrote aqueles Sorrateiros\ne traga para mim\n150 Fragmentos de Alma de Serpente.",
-        "es-ES": "[Profeta K]\nPor favor, derrota a esos\nSide Winders\ny consigue 150 Fragmentos de Alma de Serpiente."
+        "es-ES": "[Profeta K]\nPor favor, derrota a esos\nCrótalos\ny consigue 150 Fragmentos de Alma de Serpiente."
     },
     "j09HDA": {
         "ko-KR": "[예언자 K]\n영혼 조각을 전부 모으고\n나를 다시 찾아와주길 바라네.",
@@ -122,13 +122,13 @@
     "lE9HDA": {
         "ko-KR": "[예언자 K]\n그래 그 꿈 속은..\n아무것도 보이지 않는\n칠흙과 같은 밤 이었어..",
         "en-US": "[Prophet K]\nYes, in that dream...\nIt was a night as dark as pitch,\nwhere nothing could be seen..",
-        "pt-BR": "[Profeta K]\nCerto, naquele sonho..\nEra uma noite escura como carvão,\nonde nada era visível..",
+        "pt-BR": "[Profeta K]\nCerto, naquele sonho...\nEra uma noite escura como carvão,\nonde nada era visível...",
         "es-ES": "[Profeta K]\nBien, en ese sueño...\nEra una noche oscura como el carbón,\ndonde no se podía ver nada..."
     },
     "lU9HDA": {
         "ko-KR": "[예언자 K]\n하지만 곧 주변이\n밝아졌고.. 나는 몸에\n소름이 돋을 수 밖에 없었어.\n주변 바닥이 전부\n독사 수천마리로 가득했지.\n그 때 거대한 뭔가 나타났어!",
         "en-US": "[Prophet K]\nBut soon the surroundings\nbrightened up.. and I couldn't help\nbut get goosebumps on my skin.\nThe entire ground around me\nwas filled with thousands of venomous snakes.\nThat's when something gigantic appeared!",
-        "pt-BR": "[Profeta K]\nMas logo o ambiente\nclareou.. e não pude evitar\nter arrepios no corpo.\nO chão ao redor estava completamente\ncheio de milhares de cobras venenosas.\nFoi quando algo enorme apareceu!",
+        "pt-BR": "[Profeta K]\nMas logo o ambiente\nclareou... e não pude evitar\nter arrepios no corpo.\nO chão ao redor estava completamente\ncheio de milhares de cobras venenosas.\nFoi quando algo enorme apareceu!",
         "es-ES": "[Profeta K]\nPero pronto los alrededores\nse iluminaron... y no pude evitar\nque se me erizara la piel.\nEl suelo alrededor estaba completamente\nlleno de miles de víboras venenosas.\n¡Entonces apareció algo gigantesco!"
     },
     "lk9HDA": {
@@ -146,7 +146,7 @@
     "mE9HDA": {
         "ko-KR": "[예언자 K]\n그리고는 뱀의 신 께서\n내게 말했어!\n12지신의 기운을 받은\n사람을 찾아야 한다고..\n그래야 이 환란을\n막을 수 있다고..",
         "en-US": "[Prophet K]\nAnd then the Snake Deity\nspoke to me!\nWe must find the people\nblessed by the energy of the 12 Zodiac Deities..\nOnly then can we stop\nthis calamity..",
-        "pt-BR": "[Profeta K]\nE então o Deus Serpente\nme disse!\nQue eu preciso encontrar\na pessoa que possui a energia dos 12 Signos Divinos..\nSó assim poderemos\nimpedir esta calamidade..",
+        "pt-BR": "[Profeta K]\nE então o Deus Serpente\nme disse!\nQue eu preciso encontrar\na pessoa que possui a energia dos 12 Signos Divinos...\nSó assim poderemos\nimpedir esta calamidade...",
         "es-ES": "[Profeta K]\n¡Y entonces el Dios Serpiente\nme habló!\nDijo que debíamos encontrar\na las personas bendecidas\npor la energía de los 12 Dioses Zodiacales...\nSolo así podremos\ndetener esta calamidad..."
     },
     "mU9HDA": {
@@ -248,13 +248,13 @@
     "qU9HDA": {
         "ko-KR": "[예언자 K]\n흠.. 하지만 이걸 어쩐다..\n아무래도 보아가 가지고 있는\n뱀의 기운으로는..\n12지신 중 뱀의 기운을 받은\n영웅의 위치를 찾는 의식을\n하기 부족한 것 같아..",
         "en-US": "[Prophet K]\nHmm.. But what to do about this..\nIt seems the Snake energy from the Boas\nis insufficient..\nfor the ritual to locate the hero\nblessed by the Snake,\none of the 12 Zodiac Deities..",
-        "pt-BR": "[Profeta K]\nHmm.. Mas o que fazer com isso..\nParece que a energia da Serpente\nque as Jiboias possuem..\né insuficiente para o ritual\npara encontrar a localização do herói\nque possui a energia da Serpente entre os 12 Signos Divinos..",
+        "pt-BR": "[Profeta K]\nHmm... Mas o que fazer com isso...\nParece que a energia da Serpente\nque as Jiboias possuem...\né insuficiente para o ritual\npara encontrar a localização do herói\nque possui a energia da Serpente entre os 12 Signos Divinos...",
         "es-ES": "[Profeta K]\nMmm... Pero, ¿qué hago con esto?\nParece que la energía de la serpiente\nque poseen las Boas...\nes insuficiente para el ritual\npara encontrar la ubicación del héroe\nbendecido por la energía de la Serpiente\nentre los 12 Signos Zodiacales..."
     },
     "qk9HDA": {
         "ko-KR": "[예언자 K]\n아무래도 말이야..\n뱀의 영혼조각이\n더 필요할 것 같은데 말이야..",
         "en-US": "[Prophet K]\nIt seems, you see..\nthat we need more\nSnake Soul Fragments..",
-        "pt-BR": "[Profeta K]\nParece que..\nprecisamos de mais\nFragmentos de Alma de Serpente..",
+        "pt-BR": "[Profeta K]\nParece que...\nprecisamos de mais\nFragmentos de Alma de Serpente...",
         "es-ES": "[Profeta K]\nParece que...\nnecesitamos más Fragmentos de Alma de Serpiente..."
     },
     "q09HDA": {
@@ -266,49 +266,49 @@
     "rE9HDA": {
         "ko-KR": "사..사이드 와인더요?",
         "en-US": "S..Side Winders?",
-        "pt-BR": "So.. Sorrateiros?",
-        "es-ES": "¿S-side winders?"
+        "pt-BR": "So... Sorrateiros?",
+        "es-ES": "¿C... Crótalos?"
     },
     "rU9HDA": {
         "ko-KR": "[{0}]\n사이드 와인더는 보아랑은\n비교 할 수 없을 정도로\n난폭하고 사나운 뱀으로\n유명 하잖아요!!!",
         "en-US": "[{0}]\nSide Winders are famous for being\nincomparably more violent and fierce\nthan Boas!!!",
         "pt-BR": "[{0}]\nSorrateiros são famosos por serem\nserpentes muito ferozes e selvagens,\nnão podem ser comparadas\ncom Jiboias!!!",
-        "es-ES": "[{0}]\n¡Se sabe que los Side Winders son\nmucho más feroces y salvajes\nen comparación con las Boas!!!"
+        "es-ES": "[{0}]\n¡Se sabe que los Crótalos son\nmucho más feroces y salvajes\nen comparación con las Boas!!!"
     },
     "rk9HDA": {
         "ko-KR": "[{0}]\n뱀이 얼마나 무서운 줄 알아요?\n프론테라 지하수로에\n도둑벌레만 봐도\n얼마나 징그러운데..",
         "en-US": "[{0}]\nDo you know how scary snakes are?\nJust seeing a Thief Bug\nin the Prontera Sewers\nis so creepy..",
-        "pt-BR": "[{0}]\nSabe o quanto cobras são assustadoras?\nSó de ver uma Barata de Esgoto\nno Esgoto de Prontera\njá é nojento o suficiente..",
+        "pt-BR": "[{0}]\nSabe o quanto cobras são assustadoras?\nSó de ver uma Barata de Esgoto\nno Esgoto de Prontera\njá é nojento o suficiente...",
         "es-ES": "[{0}]\n¿Sabe lo aterradoras que son las serpientes?\nCon solo ver una Cucaracha\nen las alcantarillas de Prontiera\nya es repugnante..."
     },
     "r09HDA": {
         "ko-KR": "[예언자 K]\n겁 많은 인간아..\n왜 이리도 무서워 하느뇨.\n12지신께서 네 곁에 항상\n함께 하신다는 것을 모르느냐..\n특별히 900만 제니짜리\n모자를 선물로 주려 했거늘..",
         "en-US": "[Prophet K]\nTimid human..\nWhy are you so afraid?\nDo you not know that the 12 Zodiac Deities\nare always by your side..\nI was even going to give you a special\n9 million Zeny hat as a gift..",
-        "pt-BR": "[Profeta K]\nHumano medroso..\nPor que está tão assustado?\nNão sabe que os 12 Signos Divinos\nestão sempre ao seu lado?\nEu até ia te dar um chapéu especial\nno valor de 9 milhões de Zenny como presente..",
+        "pt-BR": "[Profeta K]\nHumano medroso...\nPor que está tão assustado?\nNão sabe que os 12 Signos Divinos\nestão sempre ao seu lado?\nEu até ia te dar um chapéu especial\nno valor de 9 milhões de zeny como presente...",
         "es-ES": "[Profeta K]\nHumano miedoso...\n¿Por qué tanto temor?\n¿No sabes que los 12 Dioses Zodiacales\nsiempre están a tu lado...?\nIncluso tenía pensado regalarte\nun gorro valorado en 9,000,000 de zeny..."
     },
     "sE9HDA": {
         "ko-KR": "[{0}]\n하..  말은 아주....",
         "en-US": "[{0}]\nSigh.. Your words are something else....",
-        "pt-BR": "[{0}]\nAh.. Suas palavras são um absurdo....",
+        "pt-BR": "[{0}]\nAh... Suas palavras são um absurdo...",
         "es-ES": "[{0}]\nJa... Vaya palabrería..."
     },
     "sU9HDA": {
         "ko-KR": "[예언자 K]\n이번에는 특별히\n뱀의 기운이 가득한\n착용자를 보호\n해 줄 것만 같은\n그런 모자라네..\n기대하고 있게!",
         "en-US": "[Prophet K]\nThis time, very specially,\nit's a hat filled with the Snake's energy\nthat seems like it will\nprotect the wearer..\nLook forward to it!",
-        "pt-BR": "[Profeta K]\nDesta vez é muito especial,\né um chapéu que parece\nproteger o usuário,\ncheio da energia da serpente..\nEspere por ele!",
+        "pt-BR": "[Profeta K]\nDesta vez é muito especial,\né um chapéu que parece\nproteger o usuário,\ncheio da energia da serpente...\nEspere por ele!",
         "es-ES": "[Profeta K]\nEsta vez es especial,\nes un gorro que parece\nque protegerá\nal que lo use,\nlleno de la energía de la serpiente...\n¡Espéralo con ansias!"
     },
     "sk9HDA": {
         "ko-KR": "[{0}]\n흐..흠.! 그..그렇다면..\n꼭.. 구해오곘습니다!",
         "en-US": "[{0}]\nH..Hmm.! Th..Then..\nI..I will definitely go get them!",
-        "pt-BR": "[{0}]\nHm..Hmm.! En..tão..\nCo.. com certeza vou trazê-los!",
+        "pt-BR": "[{0}]\nHm...Hmm.! En...tão...\nCo... com certeza vou trazê-los!",
         "es-ES": "[{0}]\n¡Mm...! En-ton-ces...\n¡Def-init-iva-mente lo traeré!"
     },
     "s09HDA": {
         "ko-KR": "[예언자 K]\n오해가 풀려서 다행이야\n후후훗.....\n어서 구해와주길 부탁하네.\n흠흠..",
         "en-US": "[Prophet K]\nI'm glad the misunderstanding is cleared up.\nHoo hoo hoot.....\nI ask that you please go get them quickly.\nAhem, ahem..",
-        "pt-BR": "[Profeta K]\nQue bom que o mal-entendido foi resolvido\nHuhuhu.....\nPor favor, traga-os para mim.\nHum hum..",
+        "pt-BR": "[Profeta K]\nQue bom que o mal-entendido foi resolvido\nHuhuhu....\nPor favor, traga-os para mim.\nHum hum...",
         "es-ES": "[Profeta K]\nMe alegra que hayas entendido.\nJujuju.....\nTe ruego que lo consigas pronto.\nEjém, ejém.."
     },
     "tE9HDA": {
@@ -320,7 +320,7 @@
     "tU9HDA": {
         "ko-KR": "[예언자 K]\n이런... 정말 포기하려 하는가?\n이런... 큰일났군..\n나의 예지몽은 분명히 그들을\n찾아야 하는데...\n정말 포기할텐가?",
         "en-US": "[Prophet K]\nOh my... Are you really giving up?\nOh my... This is a big problem..\nMy prophetic dream clearly said we must\nfind them...\nAre you really going to give up?",
-        "pt-BR": "[Profeta K]\nOh... Você realmente vai desistir?\nOh não.. que problema..\nMeu sonho premonitório claramente diz\nque preciso encontrá-los...\nVocê realmente vai desistir?",
+        "pt-BR": "[Profeta K]\nOh... Você realmente vai desistir?\nOh não... que problema...\nMeu sonho premonitório claramente diz\nque preciso encontrá-los...\nVocê realmente vai desistir?",
         "es-ES": "[Profeta K]\nVaya... ¿De verdad piensas rendirte?\nEsto es malo...\nMi sueño profético claramente indica\nque debo encontrarlos...\n¿De verdad te rendirás?"
     },
     "tk9HDA": {
@@ -356,7 +356,7 @@
     "u09HDA": {
         "ko-KR": "[예언자 K]\n사막 속에 오아시스와 같은..\n그곳...",
         "en-US": "[Prophet K]\nLike an oasis in the desert..\nThat place...",
-        "pt-BR": "[Profeta K]\nComo um oásis no deserto..\nAquele lugar...",
+        "pt-BR": "[Profeta K]\nComo um oásis no deserto...\nAquele lugar...",
         "es-ES": "[Profeta K]\nComo un oasis en el desierto...\nEse lugar..."
     },
     "vE9HDA": {
@@ -398,19 +398,19 @@
     "wk9HDA": {
         "ko-KR": "[예언자 K]\n특별한 12지신의 기운이\n담긴 모자라서 900만 제니의\n가치가 있지만 자네는 나를\n도와줬으니 특별히 20만제니에\n주도록 하지. 어떤가?",
         "en-US": "[Prophet K]\nIt's a special hat imbued with the energy\nof the 12 Zodiac Deities, worth 9 million Zeny,\nbut since you helped me,\nI'll specially give it to you for 200,000 Zeny.\nWhat do you say?",
-        "pt-BR": "[Profeta K]\nÉ um chapéu especial imbuiído com\na energia dos 12 Signos Divinos, vale 9 milhões de Zenny,\nmas como você me ajudou,\nvou te dar por um preço especial de 200k Zenny.\nO que acha?",
+        "pt-BR": "[Profeta K]\nÉ um chapéu especial imbuiído com\na energia dos 12 Signos Divinos, vale 9 milhões de zeny,\nmas como você me ajudou,\nvou te dar por um preço especial de 200k zeny.\nO que acha?",
         "es-ES": "[Profeta K]\nEs un gorro imbuido con la energía especial\nde los 12 Signos Zodiacales, con un valor de 9,000,000 de zeny,\npero como me ayudaste,\nte lo dejaré especial por 200,000 zeny.\n¿Qué te parece?"
     },
     "w09HDA": {
         "ko-KR": "[{0}]\n너무 비싼거 아니에요?..",
         "en-US": "[{0}]\nIsn't it too expensive?..",
-        "pt-BR": "[{0}]\nNão é muito caro?..",
+        "pt-BR": "[{0}]\nNão é muito caro?",
         "es-ES": "[{0}]\n¿No es demasiado caro?.."
     },
     "xE9HDA": {
         "ko-KR": "[예언자 K]\n잘 생각 해봐...\n무려 900만 제니야!",
         "en-US": "[Prophet K]\nThink about it carefully...\nIt's a whopping 9 million Zeny!",
-        "pt-BR": "[Profeta K]\nPense bem...\nSão incríveis 9 milhões de Zenny!",
+        "pt-BR": "[Profeta K]\nPense bem...\nSão incríveis 9 milhões de zeny!",
         "es-ES": "[Profeta K]\nPiénsalo bien...\n¡Son 9,000,000 de zeny!"
     },
     "xU9HDA": {
@@ -422,25 +422,25 @@
     "xk9HDA": {
         "ko-KR": "제니가 부족..",
         "en-US": "Not enough Zeny...",
-        "pt-BR": "Estou sem Zenny..",
+        "pt-BR": "Estou sem zeny...",
         "es-ES": "No tengo suficiente zeny..."
     },
     "x09HDA": {
         "ko-KR": "알겠어요, 20만제니에 주세요.",
         "en-US": "Okay, I'll take it for 200,000 Zeny.",
-        "pt-BR": "Tudo bem, me dê por 200k Zenny.",
+        "pt-BR": "Tudo bem, me dê por 200k zeny.",
         "es-ES": "Está bien, démelos por 200,000 zeny."
     },
     "yE9HDA": {
         "ko-KR": "[예언자 K]\n흐흠....\n12지신의 기운이 담긴!\n900만 제니의 가치를 지닌\n신의 영물인데...\n그럴 수는 없네!\n빌려서 라도 오게나~!",
         "en-US": "[Prophet K]\nAhem....\nImbued with the energy of the 12 Zodiac Deities!\nA divine artifact worth 9 million Zeny...\nIt can't be like that!\nCome back even if you have to borrow the money~!",
-        "pt-BR": "[Profeta K]\nAhem....\nImbuído com a energia dos 12 Signos Divinos!\nTem o valor de 9 milhões de Zenny,\né uma relíquia divina...\nNão pode ser assim!\nVenha mesmo que tenha que pedir emprestado~!",
+        "pt-BR": "[Profeta K]\nAhem...\nImbuído com a energia dos 12 Signos Divinos!\nTem o valor de 9 milhões de zeny,\né uma relíquia divina...\nNão pode ser assim!\nVenha mesmo que tenha que pedir emprestado~!",
         "es-ES": "[Profeta K]\nEjem....\n¡Está imbuido con la energía de los 12 Signos Zodiacales!\n¡Tiene un valor de 9,000,000 de zeny,\nes una reliquia divina...!\n¡Eso no puede ser!\n¡Consigue el dinero, pidiéndolo prestado si es necesario~!"
     },
     "yU9HDA": {
         "ko-KR": "[예언자 K]\n특별히 아주 좋은 옵션을\n넣을 수 있도록 노력했지만..\n아쉽게도 그렇게\n만들지는 못했어.\n어쨋든 마음에 들었으면\n좋겠군.",
         "en-US": "[Prophet K]\nI tried specially to add\nvery good options..\nBut unfortunately,\nI couldn't make it that way.\nAnyway, I hope you like it.",
-        "pt-BR": "[Profeta K]\nTentei especialmente colocar\nopções muito Jiboias nele..\nInfelizmente, não consegui\nfazê-lo daquela forma.\nDe qualquer modo, espero\nque goste.",
+        "pt-BR": "[Profeta K]\nTentei especialmente colocar\nopções muito Jiboias nele...\nInfelizmente, não consegui\nfazê-lo daquela forma.\nDe qualquer modo, espero\nque goste.",
         "es-ES": "[Profeta K]\nIntenté especialmente esforzarme\npara incluir opciones muy buenas...\nPero lamentablemente,\nno logré hacerlo tan bien.\nEspero que te guste, de todas formas."
     },
     "yk9HDA": {
@@ -458,7 +458,7 @@
     "zE9HDA": {
         "ko-KR": "[예언자 K]\n제니가 부족하군!\n12지신의 기운이 담긴!\n900만 제니의 가치를 지닌\n신의 영물인데...\n그럴 수는 없네!\n빌려서 라도 오게나~!",
         "en-US": "[Prophet K]\nYou don't have enough Zeny!\nIt's a divine artifact imbued with the energy\nof the 12 Zodiac Deities, worth 9 million Zeny...\nIt can't be like that!\nCome back even if you have to borrow the money~!",
-        "pt-BR": "[Profeta K]\nEstá sem Zenny!\nImbuído com a energia dos 12 Signos Divinos!\nTem o valor de 9 milhões de Zenny,\né uma relíquia divina...\nNão pode ser assim!\nVenha mesmo que tenha que pedir emprestado~!",
+        "pt-BR": "[Profeta K]\nEstá sem zeny!\nImbuído com a energia dos 12 Signos Divinos!\nTem o valor de 9 milhões de zeny,\né uma relíquia divina...\nNão pode ser assim!\nVenha mesmo que tenha que pedir emprestado~!",
         "es-ES": "[Profeta K]\n¡Te falta zeny!\n¡Está imbuido con la energía de los 12 Signos Zodiacales!\n¡Tiene un valor de 9,000,000 de zeny,\nes una reliquia divina...!\n¡Eso no puede ser!\n¡Consigue el dinero, pidiéndolo prestado si es necesario~!"
     },
     "zU9HDA": {
@@ -482,7 +482,7 @@
     "0E9HDA": {
         "ko-KR": "[파비우스]\n음....\n내가 왜 이걸..\n하고 있는거지..",
         "en-US": "[Fabius]\nHmm....\nWhy am I..\ndoing this..",
-        "pt-BR": "[Fábius]\nHmm....\nPor que estou fazendo..\nisso..",
+        "pt-BR": "[Fábius]\nHmm...\nPor que estou fazendo...\nisso...",
         "es-ES": "[Fabius]\nMm....\n¿Por qué estoy haciendo\nesto..?"
     },
     "0U9HDA": {
@@ -494,7 +494,7 @@
     "0k9HDA": {
         "ko-KR": "[파비우스]\n모로크는 오늘도\n뜨거워....",
         "en-US": "[Fabius]\nMorroc is hot\ntoday as well....",
-        "pt-BR": "[Fábius]\nMorroc também está\nquente hoje....",
+        "pt-BR": "[Fábius]\nMorroc também está\nquente hoje...",
         "es-ES": "[Fabius]\nMorroc también hoy\nestá caliente...."
     },
     "009HDA": {
@@ -530,7 +530,7 @@
     "2E9HDA": {
         "ko-KR": "[파비우스]\n모로크 사막 땡볕에서\n고생하는데 인상은 무슨..",
         "en-US": "[Fabius]\nWhat kind of impression are you talking about..\nwhen I'm suffering under the scorching Morroc desert sun..",
-        "pt-BR": "[Fábius]\nAparência é o quê...\nEstou sofrendo sob o sol escaldante do deserto de Morroc..",
+        "pt-BR": "[Fábius]\nAparência é o quê...\nEstou sofrendo sob o sol escaldante do deserto de Morroc...",
         "es-ES": "[Fabius]\n¿Impresión? Con lo que sufro\nbajo el sol abrasador del desierto de Morroc..."
     },
     "2U9HDA": {
@@ -566,7 +566,7 @@
     "3k9HDA": {
         "ko-KR": "제가 어떻게 하면..될까요?",
         "en-US": "What should I do..?",
-        "pt-BR": "O que devo fazer..?",
+        "pt-BR": "O que devo fazer...?",
         "es-ES": "¿Qué debo hacer...?"
     },
     "309HDA": {
@@ -585,7 +585,7 @@
         "ko-KR": "[파비우스]\n소그라트 사막에 있는\n콘도르나 울프에게서\n구할 수 있을 거에요.",
         "en-US": "[Fabius]\nYou can get them from\nCondors or Wolves\nin the Sograt Desert.",
         "pt-BR": "[Fábius]\nVocê pode consegui-los\ndos Condors ou dos Lobos\nno Deserto Sograt.",
-        "es-ES": "[Fabius]\nPuedes conseguirlos\nde Condors o de Wolfs\nen el Desierto de Sograt."
+        "es-ES": "[Fabius]\nPuedes conseguirlos\nde Cóndors o de Lobos\nen el Desierto de Sograt."
     },
     "4k9HDA": {
         "ko-KR": "[파비우스]\n그 정도 성의를 보여주시면\n충분히 당신의 이야기와\n이 밀서에 관한 내용에\n신뢰가 갈 것 같아요.\n그래 주실거죠?\n기다리고 있을게요~!",
@@ -596,31 +596,31 @@
     "409HDA": {
         "ko-KR": "[파비우스]\n음..? 나한테\n할 말이 있지 않았나?..",
         "en-US": "[Fabius]\nHmm..? Didn't you have\nsomething to say to me?..",
-        "pt-BR": "[Fábius]\nHmm..? Você não tinha\nalgo para me dizer?..",
+        "pt-BR": "[Fábius]\nHmm...? Você não tinha\nalgo para me dizer?...",
         "es-ES": "[Fabius]\n¿Mm...? ¿No tenías\nalgo que decirme...?"
     },
     "5E9HDA": {
         "ko-KR": "[파비우스]\n기운은 무슨....\n피곤해 죽겠는데...",
         "en-US": "[Fabius]\nWhat energy are you talking about....\nI'm so tired I could die...",
-        "pt-BR": "[Fábius]\nEnergia é o quê....\nEstou morto de cansaço...",
+        "pt-BR": "[Fábius]\nEnergia é o quê...\nEstou morto de cansaço...",
         "es-ES": "[Fabius]\n¿Buena energía?...\nEstoy muriendo de cansancio..."
     },
     "5U9HDA": {
         "ko-KR": "[파비우스]\n얼굴에서 빛은 무슨..\n3일간 세수 안했는데..",
         "en-US": "[Fabius]\nWhat glow from my face..\nI haven't washed my face for 3 days..",
-        "pt-BR": "[Fábius]\nRosto brilhando é o quê..\nNão lavei meu rosto há 3 dias..",
+        "pt-BR": "[Fábius]\nRosto brilhando é o quê...\nNão lavei meu rosto há 3 dias...",
         "es-ES": "[Fabius]\n¿Luz en el rostro?..\nHace 3 días que no me lavo la cara.."
     },
     "5k9HDA": {
         "ko-KR": "[파비우스]\n조상님의 공덕은 무슨..\n독립한지 몇년째인데..",
         "en-US": "[Fabius]\nWhat ancestor's merit..\nIt's been years since I became independent..",
-        "pt-BR": "[Fábius]\nMéritos dos ancestrais é o quê..\nFaz anos que me tornei independente..",
+        "pt-BR": "[Fábius]\nMéritos dos ancestrais é o quê...\nFaz anos que me tornei independente...",
         "es-ES": "[Fabius]\n¿Buenas acciones de mis ancestros?..\nHace años que me independicé.."
     },
     "509HDA": {
         "ko-KR": "[파비우스]\n왠지 나한테 할 이야기가..\n있어 보이는데..",
         "en-US": "[Fabius]\nFor some reason, it seems like\nyou have something to tell me..",
-        "pt-BR": "[Fábius]\nParece que você tem\nalgo para me dizer..",
+        "pt-BR": "[Fábius]\nParece que você tem\nalgo para me dizer...",
         "es-ES": "[Fabius]\nParece que tienes algo\nque contarme..."
     },
     "6E9HDA": {
@@ -638,7 +638,7 @@
     "6k9HDA": {
         "ko-KR": "[파비우스]\n음? 구해오시다니..\n신뢰를 드릴 수 밖에 없군요.\n이 정도 노력이라면\n12지신님도 감동하실거에요.\n물론 제 신뢰도\n무한히 쌓였습니다~!",
         "en-US": "[Fabius]\nHmm? You brought them..\nI have no choice but to trust you.\nWith this level of effort,\neven the 12 Zodiac Deities would be moved.\nOf course, my trust in you\nhas built up infinitely~!",
-        "pt-BR": "[Fábius]\nOh? Você realmente trouxe..\nNão tenho escolha senão confiar em você.\nCom esse esforço,\naté os 12 Signos Divinos ficariam comovidos.\nClaro, minha confiança em você\ncresceu infinitamente~!",
+        "pt-BR": "[Fábius]\nOh? Você realmente trouxe...\nNão tenho escolha senão confiar em você.\nCom esse esforço,\naté os 12 Signos Divinos ficariam comovidos.\nClaro, minha confiança em você\ncresceu infinitamente~!",
         "es-ES": "[Fabius]\n¿Mm? ¿Los conseguiste...?\nNo me queda más que confiar en usted.\nCon ese nivel de esfuerzo,\nhasta los 12 Dioses Zodiacales se conmoverían.\n¡Por supuesto, mi confianza en usted\ntambién ha crecido infinitamente~!"
     },
     "609HDA": {
@@ -662,7 +662,7 @@
     "7k9HDA": {
         "ko-KR": "[파비우스]\n밤바다가 참 보기\n좋은데....",
         "en-US": "[Fabius]\nThe night sea is so beautiful\nto look at....",
-        "pt-BR": "[Fábius]\nO mar à noite é tão\nbonito de se ver....",
+        "pt-BR": "[Fábius]\nO mar à noite é tão\nbonito de se ver...",
         "es-ES": "[Fabius]\nEl mar de noche se ve\ntan bien...."
     }
 }

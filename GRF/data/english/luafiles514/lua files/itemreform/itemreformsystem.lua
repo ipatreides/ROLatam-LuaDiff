@@ -1215,6 +1215,1956 @@ ReformInfo = {
 			"3) Card and enchant : Maintained"
 		}
 	},
+	[51] = {
+		BaseItem = "Adulter_F_T_Sword",
+		Material = {
+			Conse_F_T_Sword = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_T_Sword",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[52] = {
+		BaseItem = "Adulter_F_Lance",
+		Material = {
+			Conse_F_Lance = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[53] = {
+		BaseItem = "Adulter_F_G_Sword",
+		Material = {
+			Conse_F_G_Sword = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_G_Sword",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[54] = {
+		BaseItem = "Adulter_F_G_Spear",
+		Material = {
+			Conse_F_G_Spear = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_G_Spear",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[55] = {
+		BaseItem = "Adulter_F_Axe",
+		Material = {
+			Conse_F_Axe = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Axe",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[56] = {
+		BaseItem = "Adulter_F_Mace",
+		Material = {
+			Conse_F_Mace = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Mace",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[57] = {
+		BaseItem = "Adulter_F_Lapier",
+		Material = {
+			Conse_F_Lapier = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Lapier",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[58] = {
+		BaseItem = "Adulter_F_Hall",
+		Material = {
+			Conse_F_Hall = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Hall",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[59] = {
+		BaseItem = "Adulter_F_Cakram",
+		Material = {
+			Conse_F_Cakram = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Cakram",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[60] = {
+		BaseItem = "Adulter_F_Katar",
+		Material = {
+			Conse_F_Katar = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Katar",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[61] = {
+		BaseItem = "Adulter_F_Dagger",
+		Material = {
+			Conse_F_Dagger = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Dagger",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[62] = {
+		BaseItem = "Adulter_F_C_Bow",
+		Material = {
+			Conse_F_C_Bow = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_C_Bow",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[63] = {
+		BaseItem = "Adulter_F_T_Staff",
+		Material = {
+			Conse_F_T_Staff = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_T_Staff",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[64] = {
+		BaseItem = "Adulter_F_Rod",
+		Material = {
+			Conse_F_Rod = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Rod",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[65] = {
+		BaseItem = "Adulter_F_M_Book",
+		Material = {
+			Conse_F_M_Book = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_M_Book",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[66] = {
+		BaseItem = "Adulter_F_P_Book",
+		Material = {
+			Conse_F_P_Book = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_P_Book",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[67] = {
+		BaseItem = "Adulter_F_Bible",
+		Material = {
+			Conse_F_Bible = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Bible",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[68] = {
+		BaseItem = "Adulter_F_Wand",
+		Material = {
+			Conse_F_Wand = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Wand",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[69] = {
+		BaseItem = "Adulter_F_Knuckle",
+		Material = {
+			Conse_F_Knuckle = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Knuckle",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[70] = {
+		BaseItem = "Adulter_F_Claw",
+		Material = {
+			Conse_F_Claw = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Claw",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[71] = {
+		BaseItem = "Adulter_F_Ballista",
+		Material = {
+			Conse_F_Ballista = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Ballista",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[72] = {
+		BaseItem = "Adulter_F_A_Bow",
+		Material = {
+			Conse_F_A_Bow = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_A_Bow",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[73] = {
+		BaseItem = "Adulter_F_Violin",
+		Material = {
+			Conse_F_Violin = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Violin",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[74] = {
+		BaseItem = "Adulter_F_C_Rope",
+		Material = {
+			Conse_F_C_Rope = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_C_Rope",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[75] = {
+		BaseItem = "Adulter_F_Harp",
+		Material = {
+			Conse_F_Harp = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Harp",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[76] = {
+		BaseItem = "Adulter_F_Ribbon",
+		Material = {
+			Conse_F_Ribbon = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Ribbon",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[77] = {
+		BaseItem = "Adulter_F_T_Sword",
+		Material = {
+			Conse_F_T_Sword = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_T_Sword",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[78] = {
+		BaseItem = "Adulter_F_Lance",
+		Material = {
+			Conse_F_Lance = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[79] = {
+		BaseItem = "Adulter_F_G_Sword",
+		Material = {
+			Conse_F_G_Sword = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_G_Sword",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[80] = {
+		BaseItem = "Adulter_F_G_Spear",
+		Material = {
+			Conse_F_G_Spear = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_G_Spear",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[81] = {
+		BaseItem = "Adulter_F_Axe",
+		Material = {
+			Conse_F_Axe = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Axe",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[82] = {
+		BaseItem = "Adulter_F_Mace",
+		Material = {
+			Conse_F_Mace = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Mace",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[83] = {
+		BaseItem = "Adulter_F_Lapier",
+		Material = {
+			Conse_F_Lapier = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lapier",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[84] = {
+		BaseItem = "Adulter_F_Hall",
+		Material = {
+			Conse_F_Hall = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Hall",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[85] = {
+		BaseItem = "Adulter_F_Cakram",
+		Material = {
+			Conse_F_Cakram = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Cakram",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[86] = {
+		BaseItem = "Adulter_F_Katar",
+		Material = {
+			Conse_F_Katar = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Katar",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[87] = {
+		BaseItem = "Adulter_F_Dagger",
+		Material = {
+			Conse_F_Dagger = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Dagger",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[88] = {
+		BaseItem = "Adulter_F_C_Bow",
+		Material = {
+			Conse_F_C_Bow = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_C_Bow",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[89] = {
+		BaseItem = "Adulter_F_T_Staff",
+		Material = {
+			Conse_F_T_Staff = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_T_Staff",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[90] = {
+		BaseItem = "Adulter_F_Rod",
+		Material = {
+			Conse_F_Rod = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Rod",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[91] = {
+		BaseItem = "Adulter_F_M_Book",
+		Material = {
+			Conse_F_M_Book = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_M_Book",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[92] = {
+		BaseItem = "Adulter_F_P_Book",
+		Material = {
+			Conse_F_P_Book = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_P_Book",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[93] = {
+		BaseItem = "Adulter_F_Bible",
+		Material = {
+			Conse_F_Bible = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Bible",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[94] = {
+		BaseItem = "Adulter_F_Wand",
+		Material = {
+			Conse_F_Wand = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Wand",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[95] = {
+		BaseItem = "Adulter_F_Knuckle",
+		Material = {
+			Conse_F_Knuckle = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Knuckle",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[96] = {
+		BaseItem = "Adulter_F_Claw",
+		Material = {
+			Conse_F_Claw = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Claw",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[97] = {
+		BaseItem = "Adulter_F_Ballista",
+		Material = {
+			Conse_F_Ballista = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Ballista",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[98] = {
+		BaseItem = "Adulter_F_A_Bow",
+		Material = {
+			Conse_F_A_Bow = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_A_Bow",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[99] = {
+		BaseItem = "Adulter_F_Violin",
+		Material = {
+			Conse_F_Violin = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Violin",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[100] = {
+		BaseItem = "Adulter_F_C_Rope",
+		Material = {
+			Conse_F_C_Rope = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_C_Rope",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[101] = {
+		BaseItem = "Adulter_F_Harp",
+		Material = {
+			Conse_F_Harp = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Harp",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[102] = {
+		BaseItem = "Adulter_F_Ribbon",
+		Material = {
+			Conse_F_Ribbon = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Ribbon",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[370] = {
+		BaseItem = "Adulter_F_Humma",
+		Material = {
+			Conse_F_Humma = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Humma",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[371] = {
+		BaseItem = "Adulter_F_C_Humma",
+		Material = {
+			Conse_F_C_Humma = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_C_Humma",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[372] = {
+		BaseItem = "Adulter_F_Revolver",
+		Material = {
+			Conse_F_Revolver = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Revolver",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[373] = {
+		BaseItem = "Adulter_F_Rifle",
+		Material = {
+			Conse_F_Rifle = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Rifle",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[374] = {
+		BaseItem = "Adulter_F_Gatling",
+		Material = {
+			Conse_F_Gatling = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Gatling",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[375] = {
+		BaseItem = "Adulter_F_Launcher",
+		Material = {
+			Conse_F_Launcher = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Launcher",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[376] = {
+		BaseItem = "Adulter_F_Moon_B",
+		Material = {
+			Conse_F_Moon_B = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Moon_B",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[377] = {
+		BaseItem = "Adulter_F_Star_B",
+		Material = {
+			Conse_F_Star_B = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Star_B",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[378] = {
+		BaseItem = "Adulter_F_S_Stick",
+		Material = {
+			Conse_F_S_Stick = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_S_Stick",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[379] = {
+		BaseItem = "Adulter_F_D_Wand",
+		Material = {
+			Conse_F_D_Wand = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_D_Wand",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[380] = {
+		BaseItem = "Adulter_F_F_Wand",
+		Material = {
+			Conse_F_F_Wand = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_F_Wand",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[381] = {
+		BaseItem = "Adulter_F_F_model",
+		Material = {
+			Conse_F_F_model = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_F_model",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[394] = {
+		BaseItem = "Adulter_F_Humma",
+		Material = {
+			Conse_F_Humma = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[395] = {
+		BaseItem = "Adulter_F_C_Humma",
+		Material = {
+			Conse_F_C_Humma = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[396] = {
+		BaseItem = "Adulter_F_Revolver",
+		Material = {
+			Conse_F_Revolver = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[397] = {
+		BaseItem = "Adulter_F_Rifle",
+		Material = {
+			Conse_F_Rifle = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[398] = {
+		BaseItem = "Adulter_F_Gatling",
+		Material = {
+			Conse_F_Gatling = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[399] = {
+		BaseItem = "Adulter_F_Launcher",
+		Material = {
+			Conse_F_Launcher = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[400] = {
+		BaseItem = "Adulter_F_Moon_B",
+		Material = {
+			Conse_F_Moon_B = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[401] = {
+		BaseItem = "Adulter_F_Star_B",
+		Material = {
+			Conse_F_Star_B = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[402] = {
+		BaseItem = "Adulter_F_S_Stick",
+		Material = {
+			Conse_F_S_Stick = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[403] = {
+		BaseItem = "Adulter_F_D_Wand",
+		Material = {
+			Conse_F_D_Wand = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[404] = {
+		BaseItem = "Adulter_F_F_Wand",
+		Material = {
+			Conse_F_F_Wand = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[405] = {
+		BaseItem = "Adulter_F_F_model",
+		Material = {
+			Conse_F_F_model = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[430] = {
+		BaseItem = "Adulter_F_Shotgun",
+		Material = {
+			Conse_F_Shotgun = 10,
+			Purificatory_Holy_O = 50,
+			Purificatory_Holy_W = 50,
+			Sanctuary_Sudarium = 50,
+			Ep18_Amethyst_Fragment = 200
+		},
+		ResultItem = "Vivatus_F_Shotgun",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -5,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
+	[431] = {
+		BaseItem = "Adulter_F_Shotgun",
+		Material = {
+			Conse_F_Shotgun = 30,
+			Purificatory_Holy_O = 200,
+			Purificatory_Holy_W = 200,
+			Sanctuary_Sudarium = 200,
+			Ep18_Amethyst_Fragment = 400
+		},
+		ResultItem = "Vivatus_F_Shotgun",
+		NeedRefineMin = 9,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = -1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
+		}
+	},
 	[223] = {
 		BaseItem = "Up_Saint_Hall",
 		Material = {},
@@ -2762,6 +4712,1506 @@ ReformInfo = {
 			"2) Random Option : Eliminated",
 			"3) Card and enchant : Maintained"
 		}
+	},
+	[318] = {
+		BaseItem = "Vivatus_F_M_Book",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_M_Book",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[319] = {
+		BaseItem = "Vivatus_F_P_Book",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_P_Book",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[320] = {
+		BaseItem = "Vivatus_F_Bible",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Bible",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[321] = {
+		BaseItem = "Vivatus_F_Ribbon",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Ribbon",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[322] = {
+		BaseItem = "Vivatus_F_Harp",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Harp",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[323] = {
+		BaseItem = "Vivatus_F_Claw",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Claw",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[324] = {
+		BaseItem = "Vivatus_F_C_Rope",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_C_Rope",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[325] = {
+		BaseItem = "Vivatus_F_Violin",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Violin",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[326] = {
+		BaseItem = "Vivatus_F_A_Bow",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_A_Bow",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[327] = {
+		BaseItem = "Vivatus_F_Ballista",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Ballista",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[328] = {
+		BaseItem = "Vivatus_F_Knuckle",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Knuckle",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[329] = {
+		BaseItem = "Vivatus_F_Wand",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Wand",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[330] = {
+		BaseItem = "Vivatus_F_Rod",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Rod",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[331] = {
+		BaseItem = "Vivatus_F_T_Staff",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_T_Staff",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[332] = {
+		BaseItem = "Vivatus_F_C_Bow",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_C_Bow",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[333] = {
+		BaseItem = "Vivatus_F_Cakram",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Cakram",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[334] = {
+		BaseItem = "Vivatus_F_Hall",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Hall",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[335] = {
+		BaseItem = "Vivatus_F_Dagger",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Dagger",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[336] = {
+		BaseItem = "Vivatus_F_Katar",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Katar",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[337] = {
+		BaseItem = "Vivatus_F_Lapier",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Lapier",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[338] = {
+		BaseItem = "Vivatus_F_Mace",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Mace",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[339] = {
+		BaseItem = "Vivatus_F_G_Sword",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_G_Sword",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[340] = {
+		BaseItem = "Vivatus_F_Axe",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Axe",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[341] = {
+		BaseItem = "Vivatus_F_G_Spear",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_G_Spear",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[342] = {
+		BaseItem = "Vivatus_F_Lance",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Lance",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[343] = {
+		BaseItem = "Vivatus_F_T_Sword",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_T_Sword",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[406] = {
+		BaseItem = "Vivatus_F_Humma",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Humma",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[407] = {
+		BaseItem = "Vivatus_F_C_Humma",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_C_Humma",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[408] = {
+		BaseItem = "Vivatus_F_Revolver",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Revolver",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[409] = {
+		BaseItem = "Vivatus_F_Rifle",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Rifle",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[410] = {
+		BaseItem = "Vivatus_F_Gatling",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Gatling",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[411] = {
+		BaseItem = "Vivatus_F_Launcher",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Launcher",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[412] = {
+		BaseItem = "Vivatus_F_Moon_B",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Moon_B",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[413] = {
+		BaseItem = "Vivatus_F_Star_B",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Star_B",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[414] = {
+		BaseItem = "Vivatus_F_S_Stick",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_S_Stick",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[415] = {
+		BaseItem = "Vivatus_F_D_Wand",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_D_Wand",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[416] = {
+		BaseItem = "Vivatus_F_F_Wand",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_F_Wand",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[417] = {
+		BaseItem = "Vivatus_F_Shotgun",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_Shotgun",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[432] = {
+		BaseItem = "Vivatus_F_F_model",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_F_model",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[1874] = {
+		BaseItem = "Vivatus_F_N_Hall",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_N_Hall",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[1875] = {
+		BaseItem = "Vivatus_F_N_Axe",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Vivatus_F_N_Axe",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[644] = {
+		BaseItem = "Viva_Adul_Hat_WL1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_WL1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[645] = {
+		BaseItem = "Viva_Adul_Hat_WL2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_WL2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[646] = {
+		BaseItem = "Viva_Adul_Hat_SR1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SR1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[647] = {
+		BaseItem = "Viva_Adul_Hat_SR2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SR2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[648] = {
+		BaseItem = "Viva_Adul_Hat_AB1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_AB1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[649] = {
+		BaseItem = "Viva_Adul_Hat_AB2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_AB2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[650] = {
+		BaseItem = "Viva_Adul_Hat_SC1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SC1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[651] = {
+		BaseItem = "Viva_Adul_Hat_SC2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SC2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[652] = {
+		BaseItem = "Viva_Adul_Hat_RA1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_RA1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[653] = {
+		BaseItem = "Viva_Adul_Hat_RA2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_RA2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[654] = {
+		BaseItem = "Viva_Adul_Hat_LG1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_LG1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[655] = {
+		BaseItem = "Viva_Adul_Hat_LG2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_LG2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[656] = {
+		BaseItem = "Viva_Adul_Hat_GC1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_GC1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[657] = {
+		BaseItem = "Viva_Adul_Hat_GC2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_GC2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[658] = {
+		BaseItem = "Viva_Adul_Hat_SO1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SO1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[659] = {
+		BaseItem = "Viva_Adul_Hat_SO2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SO2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[660] = {
+		BaseItem = "Viva_Adul_Hat_RK1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_RK1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[661] = {
+		BaseItem = "Viva_Adul_Hat_RK2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_RK2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[662] = {
+		BaseItem = "Viva_Adul_Hat_WM1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_WM1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[663] = {
+		BaseItem = "Viva_Adul_Hat_WM2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_WM2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[664] = {
+		BaseItem = "Viva_Adul_Hat_NC1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_NC1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[665] = {
+		BaseItem = "Viva_Adul_Hat_NC2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_NC2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[666] = {
+		BaseItem = "Viva_Adul_Hat_GN1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_GN1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[667] = {
+		BaseItem = "Viva_Adul_Hat_GN2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_GN2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[668] = {
+		BaseItem = "Viva_Adul_Hat_KO1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_KO1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[669] = {
+		BaseItem = "Viva_Adul_Hat_KO2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_KO2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[670] = {
+		BaseItem = "Viva_Adul_Hat_RL1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_RL1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[671] = {
+		BaseItem = "Viva_Adul_Hat_RL2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_RL2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[672] = {
+		BaseItem = "Viva_Adul_Hat_SP1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SP1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[673] = {
+		BaseItem = "Viva_Adul_Hat_SP2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SP2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[674] = {
+		BaseItem = "Viva_Adul_Hat_SJ1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SJ1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[675] = {
+		BaseItem = "Viva_Adul_Hat_SJ2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SJ2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[676] = {
+		BaseItem = "Viva_Adul_Hat_SU1",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SU1",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
+	},
+	[677] = {
+		BaseItem = "Viva_Adul_Hat_SU2",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Viva_Adul_Hat_SU2",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^4D4DFF+1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained",
+			"4) Grade : Maintained"
+		}
 	}
 }
 ReformItemList = {
@@ -2834,6 +6284,62 @@ ReformItemList = {
 		164,
 		714,
 		715
+	},
+	Consecrate_Weapon_1 = {
+		51,
+		52,
+		53,
+		54,
+		55,
+		56,
+		57,
+		58,
+		59,
+		60,
+		61,
+		62,
+		63,
+		64,
+		65,
+		66,
+		67,
+		68,
+		69,
+		70,
+		71,
+		72,
+		73,
+		74,
+		75,
+		76
+	},
+	Consecrate_Weapon_2 = {
+		77,
+		78,
+		79,
+		80,
+		81,
+		82,
+		83,
+		84,
+		85,
+		86,
+		87,
+		88,
+		89,
+		90,
+		91,
+		92,
+		93,
+		94,
+		95,
+		96,
+		97,
+		98,
+		99,
+		100,
+		101,
+		102
 	},
 	Hero_Weapon_Up_Box_1 = {
 		223,
@@ -2933,5 +6439,84 @@ ReformItemList = {
 		604,
 		605,
 		606
+	},
+	Vivatus_Weapon_Hammer = {
+		318,
+		319,
+		320,
+		321,
+		322,
+		323,
+		324,
+		325,
+		326,
+		327,
+		328,
+		329,
+		330,
+		331,
+		332,
+		333,
+		334,
+		335,
+		336,
+		337,
+		338,
+		339,
+		340,
+		341,
+		342,
+		343,
+		406,
+		407,
+		408,
+		409,
+		410,
+		411,
+		412,
+		413,
+		414,
+		415,
+		416,
+		417,
+		432,
+		1874,
+		1875
+	},
+	Helm_Of_Faith_Hammer = {
+		644,
+		645,
+		646,
+		647,
+		648,
+		649,
+		650,
+		651,
+		652,
+		653,
+		654,
+		655,
+		656,
+		657,
+		658,
+		659,
+		660,
+		661,
+		662,
+		663,
+		664,
+		665,
+		666,
+		667,
+		668,
+		669,
+		670,
+		671,
+		672,
+		673,
+		674,
+		675,
+		676,
+		677
 	}
 }

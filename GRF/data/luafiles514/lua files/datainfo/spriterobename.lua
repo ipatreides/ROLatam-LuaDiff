@@ -313,7 +313,13 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Stylish_Arch_Quiver] = "C_Stylish_Arch_Quiver",
 	[SPRITE_ROBE_IDs.ROBE_C_Adventures_Backpack] = "C_Adventures_Backpack",
 	[SPRITE_ROBE_IDs.ROBE_C_Mushroom_Umbrella_RD] = "C_Mushroom_Umbrella_RD",
-	[SPRITE_ROBE_IDs.ROBE_C_Eddga_Rest] = "C_Eddga_Rest"
+	[SPRITE_ROBE_IDs.ROBE_C_Eddga_Rest] = "C_Eddga_Rest",
+	[SPRITE_ROBE_IDs.ROBE_C_Accordion_Bag] = "C_Accordion_Bag",
+	[SPRITE_ROBE_IDs.ROBE_C_Panda_Bamboo] = "C_Panda_Bamboo",
+	[SPRITE_ROBE_IDs.ROBE_C_Star_Glasspen] = "C_Star_Glasspen",
+	[SPRITE_ROBE_IDs.ROBE_C_Thoughts_Window] = "C_Thoughts_Window ",
+	[SPRITE_ROBE_IDs.ROBE_C_Tassie_Anchor] = "C_Tassie_Anchor",
+	[SPRITE_ROBE_IDs.ROBE_C_Gerero_Spear] = "C_Gerero_Spear"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -630,7 +636,13 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Stylish_Arch_Quiver] = "C_Stylish_Arch_Quiver",
 	[SPRITE_ROBE_IDs.ROBE_C_Adventures_Backpack] = "C_Adventures_Backpack",
 	[SPRITE_ROBE_IDs.ROBE_C_Mushroom_Umbrella_RD] = "C_Mushroom_Umbrella_RD",
-	[SPRITE_ROBE_IDs.ROBE_C_Eddga_Rest] = "C_Eddga_Rest"
+	[SPRITE_ROBE_IDs.ROBE_C_Eddga_Rest] = "C_Eddga_Rest",
+	[SPRITE_ROBE_IDs.ROBE_C_Accordion_Bag] = "C_Accordion_Bag",
+	[SPRITE_ROBE_IDs.ROBE_C_Panda_Bamboo] = "C_Panda_Bamboo",
+	[SPRITE_ROBE_IDs.ROBE_C_Star_Glasspen] = "C_Star_Glasspen",
+	[SPRITE_ROBE_IDs.ROBE_C_Thoughts_Window] = "C_Thoughts_Window ",
+	[SPRITE_ROBE_IDs.ROBE_C_Tassie_Anchor] = "C_Tassie_Anchor",
+	[SPRITE_ROBE_IDs.ROBE_C_Gerero_Spear] = "C_Gerero_Spear"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
@@ -842,5 +854,11 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_Stylish_Arch_Quiver,
 	SPRITE_ROBE_IDs.ROBE_C_Adventures_Backpack,
 	SPRITE_ROBE_IDs.ROBE_C_Mushroom_Umbrella_RD,
-	SPRITE_ROBE_IDs.ROBE_C_Eddga_Rest
+	SPRITE_ROBE_IDs.ROBE_C_Eddga_Rest,
+	SPRITE_ROBE_IDs.ROBE_C_Accordion_Bag,
+	SPRITE_ROBE_IDs.ROBE_C_Panda_Bamboo,
+	SPRITE_ROBE_IDs.ROBE_C_Star_Glasspen,
+	SPRITE_ROBE_IDs.ROBE_C_Thoughts_Window,
+	SPRITE_ROBE_IDs.ROBE_C_Tassie_Anchor,
+	SPRITE_ROBE_IDs.ROBE_C_Gerero_Spear
 }

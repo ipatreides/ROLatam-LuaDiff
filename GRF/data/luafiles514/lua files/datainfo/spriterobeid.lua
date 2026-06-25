@@ -313,5 +313,11 @@ SPRITE_ROBE_IDs = {
 	ROBE_C_Stylish_Arch_Quiver = 313,
 	ROBE_C_Adventures_Backpack = 314,
 	ROBE_C_Mushroom_Umbrella_RD = 315,
-	ROBE_C_Eddga_Rest = 316
+	ROBE_C_Eddga_Rest = 316,
+	ROBE_C_Accordion_Bag = 317,
+	ROBE_C_Panda_Bamboo = 318,
+	ROBE_C_Star_Glasspen = 319,
+	ROBE_C_Thoughts_Window = 320,
+	ROBE_C_Tassie_Anchor = 321,
+	ROBE_C_Gerero_Spear = 322
 }

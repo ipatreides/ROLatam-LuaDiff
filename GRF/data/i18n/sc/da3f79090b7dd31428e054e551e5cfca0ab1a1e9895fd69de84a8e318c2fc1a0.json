@@ -1,726 +1,605 @@
 {
     "4NxOAw": {
-        "ko-KR": "레아블렘",
         "en-US": "Leablem",
         "pt-BR": "Leablem",
         "es-ES": "Leablem"
     },
     "4dxOAw": {
-        "ko-KR": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
         "en-US": "- You are carrying too many items and cannot continue. -",
         "pt-BR": "- Você está carregando muitos itens e não pode continuar. -",
         "es-ES": "- Llevas demasiados objetos y no puedes continuar. -"
     },
     "4txOAw": {
-        "ko-KR": "머리-[장착안됨]",
         "en-US": "Upper (empty)",
         "pt-BR": "Topo (vazio)",
         "es-ES": "Superior (vacío)"
     },
     "49xOAw": {
-        "ko-KR": "몸통-[장착안됨]",
         "en-US": "Armor (empty)",
         "pt-BR": "Armadura (vazio)",
         "es-ES": "Armadura (vacía)"
     },
     "5NxOAw": {
-        "ko-KR": "왼손-[장착안됨]",
         "en-US": "Left hand (empty)",
         "pt-BR": "Mão esquerda (vazio)",
         "es-ES": "Mano izquierda (vacía)"
     },
     "5dxOAw": {
-        "ko-KR": "오른손-[장착안됨]",
         "en-US": "Right hand (empty)",
         "pt-BR": "Mão direita (vazio)",
         "es-ES": "Mano derecha (vacía)"
     },
     "5txOAw": {
-        "ko-KR": "로브-[장착안됨]",
         "en-US": "Garment (empty)",
         "pt-BR": "Capa (vazio)",
         "es-ES": "Manto (vacía)"
     },
     "59xOAw": {
-        "ko-KR": "신발-[장착안됨]",
         "en-US": "Shoes (empty)",
         "pt-BR": "Calçado (vazio)",
         "es-ES": "Calzado (vacío)"
     },
     "6NxOAw": {
-        "ko-KR": "악세사리1-[장착안됨]",
         "en-US": "Right accessory (empty)",
         "pt-BR": "Acessório direito (vazio)",
         "es-ES": "Accesorio derecho (vacío)"
     },
     "6dxOAw": {
-        "ko-KR": "악세사리2-[장착안됨]",
         "en-US": "Left accessory (empty)",
         "pt-BR": "Acessório esquerdo (vazio)",
         "es-ES": "Accesorio izquierdo (vacío)"
     },
     "6txOAw": {
-        "ko-KR": "머리2-[장착안됨]",
         "en-US": "Middle (empty)",
         "pt-BR": "Meio (vazio)",
         "es-ES": "Centro (vacío)"
     },
     "69xOAw": {
-        "ko-KR": "머리3-[장착안됨]",
         "en-US": "Lower (empty)",
         "pt-BR": "Baixo (vazio)",
         "es-ES": "Inferior (vacío)"
     },
     "7NxOAw": {
-        "ko-KR": "[레아블렘]\n안녕하세요. 저는 방어구에 소켓을 뚫어주는 기술자 레아블렘입니다. 상당히 힘든 일이지만... 나름대로 자부심을 가지고 일을 하고 있지요.",
         "en-US": "[Leablem] \nI am an expert in opening slots in weapons. Slots are spaces to add cards.",
         "pt-BR": "[Leablem]\nSou Especialista em abrir slots em equipamentos. Slots são espaços para adicionar cartas.",
         "es-ES": "[Leablem] \nSoy experto en abrir Slot en armas. Slots son espacios para añadir cartas."
     },
     "7dxOAw": {
-        "ko-KR": "[레아블렘]\n소켓을 뚫어줬으면 하는 장비가 있으신가요? 장비에 따라서 수수료나 필요재료, 성공확률등이 다르니까... 뭐 일단 골라보시면 제가 말씀해 드릴께요.",
         "en-US": "[Leablem] \nHowever, not all weapons is capable of receiving a Card Slot. I'd need to take a look first. Anyway, how can I help?",
         "pt-BR": "[Leablem]\nEntretanto, nem todo equipamento está apto a receber um Slot de carta. Eu precisaria dar uma olhada primeiro. Enfim, em que posso ajudar?",
         "es-ES": "[Leablem] \nSin embargo, no todo el arma admite un Slot para carta. Necesito echarle un vistazo primero. En fin, ¿cómo puedo ayudar?"
     },
     "7txOAw": {
-        "ko-KR": "소켓뚫기 작업",
         "en-US": "Open a Slot",
         "pt-BR": "Abrir um Slot",
         "es-ES": "Abrir un Slot"
     },
     "79xOAw": {
-        "ko-KR": "설명을 더 듣는다.",
         "en-US": "Explain more to me",
         "pt-BR": "Me explique mais",
         "es-ES": "Explícame más"
     },
     "8NxOAw": {
-        "ko-KR": "작업방식이 바뀌었네?",
         "en-US": "Have you improved your services?",
         "pt-BR": "Você melhorou seus serviços?",
         "es-ES": "¿Has mejorado tus servicios?"
     },
     "8dxOAw": {
-        "ko-KR": "관둔다.",
         "en-US": "Ignore",
         "pt-BR": "Ignorar",
         "es-ES": "Ignorar"
     },
     "8txOAw": {
-        "ko-KR": "[레아블렘]\n그럼 다음 기회에 또.",
         "en-US": "[Leablem] \nOh...",
         "pt-BR": "[Leablem]\nOh...",
         "es-ES": "[Leablem] \nOh..."
     },
     "89xOAw": {
-        "ko-KR": "[레아블렘]\n소켓뚫기는 작업난이도에 따라 4가지로 분류돼요. 예외적으로 희귀한 SSS급의 장비가 있긴 하지만 흔하게 하는 작업은 아니니 어떤 장비에 소켓뚫기를 하실 건가요? 골라보세요.",
         "en-US": "[Leablem] \nThe Slot adding procedure is classified into 4 difficulty levels: C, B, A and S. Level C is the easiest and S is the hardest. Do you have any equipment you want to add a slot to?",
         "pt-BR": "[Leablem]\nO procedimento de adição de Slot é classificado em 4 níveis de dificuldade: C, B, A e S. O nível C é o mais fácil e o S, mais difícil. Você tem algum equipamento no qual queira colocar um slot?",
         "es-ES": "[Leablem] \nEl proceso para añadir un Slot se clasifica en 4 niveles de dificultad: C, B, A y S. El nivel C es el más fácil y el S el más difícil. ¿Tienes algún equipo al que quieras añadir un Slot?"
     },
     "9NxOAw": {
-        "ko-KR": "[레아블렘]\n미안한데, 머리 위에 아무것도 없지 않아?",
         "en-US": "[Leablem] \nSorry, but there's nothing in your head.",
         "pt-BR": "[Leablem]\nDesculpe, mas não tem nada na sua cabeça.",
         "es-ES": "[Leablem] \nLo siento, pero no hay nada en tu cabeza."
     },
     "9dxOAw": {
-        "ko-KR": "[레아블렘]\n뭘 어쩌라는 건지...",
         "en-US": "[Leablem] \nWhat do you want me to do?",
         "pt-BR": "[Leablem]\nO que você quer que eu faça?",
         "es-ES": "[Leablem] \n¿Qué quieres que haga?"
     },
     "9txOAw": {
-        "ko-KR": "[레아블렘]\n미안한데, 그 팔엔 아무것도 없는 것 같아.",
         "en-US": "[Leablem] \nSorry, but there's nothing in your hand.",
         "pt-BR": "[Leablem]\nDesculpe, mas não tem nada na sua mão.",
         "es-ES": "[Leablem] \nLo siento, pero no tienes nada en la mano."
     },
     "99xOAw": {
-        "ko-KR": "[레아블렘]\n세상에.. 벗고 다니는 거야? 용감한데?",
         "en-US": "[Leablem] \nSorry, but there's nothing in your body.",
         "pt-BR": "[Leablem]\nDesculpe, mas não tem nada no seu corpo.",
         "es-ES": "[Leablem] \nLo siento, pero no hay nada en tu cuerpo."
     },
     "+NxOAw": {
-        "ko-KR": "[레아블렘]\n냄새나 저리 치워.",
         "en-US": "[Leablem] \nSorry, but there's nothing on your foot.",
         "pt-BR": "[Leablem]\nDesculpe, mas não tem nada no seu pé.",
         "es-ES": "[Leablem] \nLo siento, pero no tienes nada en el pie."
     },
     "+dxOAw": {
-        "ko-KR": "[레아블렘]\n액세서리는 무슨 아무것도 없네.",
         "en-US": "[Leablem] \nSorry, but I don't see any accessories with you.",
         "pt-BR": "[Leablem]\nDesculpe, mas não vejo nenhum acessório com você.",
         "es-ES": "[Leablem] \nLo siento, pero no veo ningún accesorio contigo."
     },
     "+txOAw": {
-        "ko-KR": "[레아블렘]\n소켓뚫기는 무슨 장비가 없는데? 뭘 뚫겠다는 거야?",
         "en-US": "[Leablem] \nYou don't have any equipment to add a slot?",
         "pt-BR": "[Leablem]\nVocê não tem nenhum equipamento para adicionar um slot?",
         "es-ES": "[Leablem] \n¿No tienes ningún equipo para agregar un Slot?"
     },
     "+9xOAw": {
-        "ko-KR": "[레아블렘]\n설명을 더 듣고 싶으신거군요. 음... 뭐 딱히 추가로 설명할 것은 없지만, 한가지 참고할 점이라면 알려드릴 수 있어요.",
         "en-US": "[Leablem] \nWhat else can I explain... Well, adding a slot to a device is a process that has chances of success and failure.",
         "pt-BR": "[Leablem]\nO que mais posso explicar... Bem, adição de slot em um equipamento é um processo que possui chances de sucesso e de falha.",
         "es-ES": "[Leablem] \n¿Qué más puedo explicar? Bueno, agregar un Slot a un dispositivo es un proceso que tiene posibilidades de éxito y fracaso."
     },
     "/NxOAw": {
-        "ko-KR": "[레아블렘]\n그것은 장비의 제련도에 따라 동네마다 소켓 뚫을 확률이 다르다는 점이랄까요. 근거가 있는 이야기는 아닙니다만... 확실히 동네마다 달라요.",
         "en-US": "[Leablem] \nIn cases of failure, you will lose the necessary equipment and materials that I requested.",
         "pt-BR": "[Leablem]\nNos casos de falha, você perderá o equipamento e os materiais necessários que eu solicitei.",
         "es-ES": "[Leablem] \nEn caso de falla, perderá el equipo y los materiales necesarios que solicité."
     },
     "/dxOAw": {
-        "ko-KR": "[레아블렘]\n예를 들어서 어떤 마을은 제련도가 높은 장비가 더 소켓이 잘 뚫리구요, 어떤 마을은 제련도가 낮은 장비가 더 잘 뚫리고... 그래요.",
         "en-US": "[Leablem] \nYes, the procedure is not just to give me equipment. I need materials according to the difficulty of your equipment.",
         "pt-BR": "[Leablem]\nSim, o procedimento não é apenas me dar um equipamento. Eu preciso de materiais de acordo com a dificuldade do seu equipamento.",
         "es-ES": "[Leablem] \nSí, el procedimiento no es solo darme equipo. Necesito materiales según la dificultad de tu equipo."
     },
     "/txOAw": {
-        "ko-KR": "[레아블렘]\n소켓을 뚫는데 실패하면 장비가 산산조각이 나서 어찌 할 수가 없어요. 최대한 성공시키려고 노력은 합니다만... 워낙에 섬세한 작업인지라.",
         "en-US": "[Leablem] \nBut the important thing is that you are aware that, even in case of success, I will deliver completely new equipment.",
         "pt-BR": "[Leablem]\nMas o importante é que você tenha consciência de que, mesmo em caso de sucesso, eu entregarei um equipamento totalmente novo.",
         "es-ES": "[Leablem] \nPero lo importante es que sepáis que, incluso en caso de éxito, os entregaré un equipo completamente nuevo."
     },
     "/9xOAw": {
-        "ko-KR": "[레아블렘]\n그리고 주의하실 점이 하나 더 있는데.. +7 망토를 제게 소켓 뚫는 의뢰를 하시면, 장비는 어떻게 될 거 같으세요?",
         "en-US": "[Leablem] \nThis means that if you hand me a +7 Armor [0], I will return a +0 Armor [1] to you. That is, without the refinement.",
         "pt-BR": "[Leablem]\nIsso significa que se você me entregar uma +7 Armadura [0], eu irei lhe devolver uma +0 Armadura [1]. Ou seja, sem o refinamento.",
         "es-ES": "[Leablem] \nEsto significa que si me entregas un +7 Armadura [0], te devolveré un +0 Armadura [1]. Eso sí, sin el refinamiento."
     },
     "AN1OAw": {
-        "ko-KR": "[레아블렘]\n정답은 소켓뚫기에 성공하던 실패하던 부탁한 장비의 제련수치는 모두 사라지게 돼요. 괜히 잘못 작업을 시도했다가 실패하면 날리기만 할 뿐이니까요.",
         "en-US": "[Leablem]\nSo remember: check the chances of failure and the enchantments that will be lost in case of success.",
         "pt-BR": "[Leablem]\nEntão lembre-se: confira as chances de falha e os encantos que serão perdidos em caso de sucesso.",
         "es-ES": "[Leablem]\nAsí que recuerda: considera las posibilidades de fracaso y los encantamientos que se perderán en caso de éxito."
     },
     "Ad1OAw": {
-        "ko-KR": "[레아블렘]\n아무튼 확실히 체크해주시고, 소켓 뚫기 작업을 의뢰해주시기 바래요. 부탁 드리겠습니다.",
         "en-US": "[Leablem] \nDid you understand? I hope so, because talking tires me and I want to work!",
         "pt-BR": "[Leablem]\nVocê entendeu? Espero que sim, pois falar me cansa e eu quero trabalhar!",
         "es-ES": "[Leablem] \n¿Entendiste? Espero que sí, porque hablar me cansa y quiero trabajar."
     },
     "At1OAw": {
-        "ko-KR": "[레아블렘]\n예전부터 손님들이 불편하다고 요청하던 것들이 있어서요. 이번에 형과 작업할 것을 분리하면서 작업방식도 변경하게 되었어요.",
         "en-US": "[Leablem] \nYes, my service was updated due to constant complaints from users.",
         "pt-BR": "[Leablem]\nSim, meu serviço foi atualizado devido à constantes reclamações dos usuários.",
         "es-ES": "[Leablem] \nSí, mi servicio se actualizó debido a las constantes quejas de los usuarios."
     },
     "A91OAw": {
-        "ko-KR": "[레아블렘]\n형은 무기를 전담하게 되었구요. 전 형이 하던 방어구까지 받아서 전담하게 되었어요.",
         "en-US": "[Leablem] \nBoth my brother and I managed to improve our services. It's a family business, so we needed to stay in the market.",
         "pt-BR": "[Leablem]\nTanto eu quanto meu irmão conseguimos melhorar nossos serviços. É um negócio de família, então precisávamos nos manter no mercado.",
         "es-ES": "[Leablem] \nMi hermano y yo logramos mejorar nuestros servicios. Es un negocio familiar, así que necesitábamos mantenernos en el mercado."
     },
     "BN1OAw": {
-        "ko-KR": "[레아블렘]\n헤헤 형이 이제 제가 방어구는 더 잘하는 것 같다나 뭐라나. 이 정도면 형에게 인정받았다고 봐도 되겠죠?",
         "en-US": "[Leablem] \nIf I don't know how to add a slot to your equipment, look for my brother. Maybe he knows how to do the procedure.",
         "pt-BR": "[Leablem]\nSe eu não souber adicionar um slot no seu equipamento, procure meu irmão. Talvez ele saiba fazer o procedimento.",
         "es-ES": "[Leablem] \nSi no sé cómo añadir un Slot a tu equipo, busca a mi hermano. Quizás sepa cómo hacerlo."
     },
     "Bd1OAw": {
-        "ko-KR": "[레아블렘]\n오류!!",
         "en-US": "[Leablem] \nError!",
         "pt-BR": "[Leablem]\nErro!",
         "es-ES": "[Leablem] \n¡Error!"
     },
     "Bt1OAw": {
-        "ko-KR": "[운영자]",
         "en-US": "[Administration]",
         "pt-BR": "[Administração]",
         "es-ES": "[Administración]"
     },
     "B91OAw": {
-        "ko-KR": "아후라마즈다",
         "en-US": "Ahura Mazda",
         "pt-BR": "Ahura Mazda",
         "es-ES": "Ahura Mazda"
     },
     "CN1OAw": {
-        "ko-KR": "[C]",
         "en-US": "[C]",
         "pt-BR": "[C]",
         "es-ES": "[C]"
     },
     "Cd1OAw": {
-        "ko-KR": "맨틀",
         "en-US": "Mantle",
         "pt-BR": "Capote",
         "es-ES": "Sobretodo"
     },
     "Ct1OAw": {
-        "ko-KR": "강철",
         "en-US": "Steel",
         "pt-BR": "Aço",
         "es-ES": "Acero"
     },
     "C91OAw": {
-        "ko-KR": "롱코트",
         "en-US": "Coat",
         "pt-BR": "Casaco",
         "es-ES": "Abrigo"
     },
     "DN1OAw": {
-        "ko-KR": "서클릿",
         "en-US": "Circlet",
         "pt-BR": "Tiara",
         "es-ES": "Diadema"
     },
     "Dd1OAw": {
-        "ko-KR": "비레타",
         "en-US": "Biretta",
         "pt-BR": "Solidéu",
         "es-ES": "Birreta"
     },
     "Dt1OAw": {
-        "ko-KR": "장식용 해바라기",
         "en-US": "Sunflower",
         "pt-BR": "Girassol",
         "es-ES": "Girasol"
     },
     "D91OAw": {
-        "ko-KR": "학사모",
         "en-US": "Ph.D Hat",
         "pt-BR": "Capelo",
         "es-ES": "Birrete"
     },
     "EN1OAw": {
-        "ko-KR": "왕리본",
         "en-US": "Big Ribbon",
         "pt-BR": "Laço Grande",
         "es-ES": "Gran lazo"
     },
     "Ed1OAw": {
-        "ko-KR": "학생모",
         "en-US": "Boy's Cap",
         "pt-BR": "Quepe",
         "es-ES": "Gorra de chico"
     },
     "Et1OAw": {
-        "ko-KR": "[B]",
         "en-US": "[B]",
         "pt-BR": "[B]",
         "es-ES": "[B]"
     },
     "E91OAw": {
-        "ko-KR": "미러쉴드",
         "en-US": "Mirror Shield",
         "pt-BR": "Escudo Espelhado",
         "es-ES": "Escudo espejado"
     },
     "FN1OAw": {
-        "ko-KR": "메일",
         "en-US": "Chain Mail",
         "pt-BR": "Cota de Malha",
         "es-ES": "Cota de malla"
     },
     "Fd1OAw": {
-        "ko-KR": "세인트로브",
         "en-US": "Saint's Robe",
         "pt-BR": "Manto Sagrado",
         "es-ES": "Toga del santo"
     },
     "Ft1OAw": {
-        "ko-KR": "실크로브",
         "en-US": "Silk Robe",
         "pt-BR": "Manto de Seda",
         "es-ES": "Túnica de seda"
     },
     "F91OAw": {
-        "ko-KR": "부츠",
         "en-US": "Boots",
         "pt-BR": "Botas",
         "es-ES": "Botas"
     },
     "GN1OAw": {
-        "ko-KR": "슈즈",
         "en-US": "Shoes",
         "pt-BR": "Sapatos",
         "es-ES": "Calzado"
     },
     "Gd1OAw": {
-        "ko-KR": "머플러",
         "en-US": "Muffler",
         "pt-BR": "Sobrepeliz",
         "es-ES": "Bufanda"
     },
     "Gt1OAw": {
-        "ko-KR": "가드",
         "en-US": "Guard",
         "pt-BR": "Vembrassa",
         "es-ES": "Escudo cuadrado"
     },
     "G91OAw": {
-        "ko-KR": "버클러",
         "en-US": "Buckler",
         "pt-BR": "Broquel",
         "es-ES": "Broquel"
     },
     "HN1OAw": {
-        "ko-KR": "쉴드",
         "en-US": "Shield",
         "pt-BR": "Escudo",
         "es-ES": "Escudo"
     },
     "Hd1OAw": {
-        "ko-KR": "본건모",
         "en-US": "Bongun Hat",
         "pt-BR": "Chapéu de Bongun",
         "es-ES": "Sombrero de Bongun"
     },
     "Ht1OAw": {
-        "ko-KR": "해골반지",
         "en-US": "Skull Ring",
         "pt-BR": "Anel de Caveira",
         "es-ES": "Anillo de calavera"
     },
     "H91OAw": {
-        "ko-KR": "뾰족구두",
         "en-US": "High Heels",
         "pt-BR": "Salto Alto",
         "es-ES": "Tacones altos"
     },
     "IN1OAw": {
-        "ko-KR": "[A]",
         "en-US": "[A]",
         "pt-BR": "[A]",
         "es-ES": "[A]"
     },
     "Id1OAw": {
-        "ko-KR": "쥬얼헬름",
         "en-US": "Gemmed Sallet",
         "pt-BR": "Capacete de Schallern",
         "es-ES": "Celada con gemas"
     },
     "It1OAw": {
-        "ko-KR": "에르늄",
         "en-US": "Elunium",
         "pt-BR": "Elunium",
         "es-ES": "Elunium"
     },
     "I91OAw": {
-        "ko-KR": "벙거지모자",
         "en-US": "Bucket Hat",
         "pt-BR": "Chapéu de Balde",
         "es-ES": "Sombrero de pescador"
     },
     "JN1OAw": {
-        "ko-KR": "메모라이즈북",
         "en-US": "Memory Book",
         "pt-BR": "Grimório",
         "es-ES": "Libro de recuerdos"
     },
     "Jd1OAw": {
-        "ko-KR": "타이즈",
         "en-US": "Tights",
         "pt-BR": "Malha",
         "es-ES": "Mallas"
     },
     "Jt1OAw": {
-        "ko-KR": "풀플레이트",
         "en-US": "Legion Plate Armor",
         "pt-BR": "Armadura Legionária",
         "es-ES": "Armadura de placas de la Legión"
     },
     "J91OAw": {
-        "ko-KR": "플레이트",
         "en-US": "Full Plate",
         "pt-BR": "Armadura Metálica",
         "es-ES": "Armadura de placas"
     },
     "KN1OAw": {
-        "ko-KR": "씨프클로스",
         "en-US": "Thief Clothes",
         "pt-BR": "Traje de Gatuno",
         "es-ES": "Ropa de Ladrón"
     },
     "Kd1OAw": {
-        "ko-KR": "그리브",
         "en-US": "Greaves",
         "pt-BR": "Grevas",
         "es-ES": "Grebas"
     },
     "Kt1OAw": {
-        "ko-KR": "코이프",
         "en-US": "Coif",
         "pt-BR": "Chapéu de Freira",
         "es-ES": "Coif"
     },
     "K91OAw": {
-        "ko-KR": "망토",
         "en-US": "Manteau",
         "pt-BR": "Manteau",
         "es-ES": "Manto"
     },
     "LN1OAw": {
-        "ko-KR": "헬름",
         "en-US": "Helm",
         "pt-BR": "Elmo",
         "es-ES": "Yelmo"
     },
     "Ld1OAw": {
-        "ko-KR": "닌자 슈츠",
         "en-US": "Ninja Suit",
         "pt-BR": "Indumentária Ninja",
         "es-ES": "Traje de Ninja"
     },
     "Lt1OAw": {
-        "ko-KR": "오크족 헬름",
         "en-US": "Orc Helm",
         "pt-BR": "Capacete de Orc",
         "es-ES": "Yelmo de orco"
     },
     "L91OAw": {
-        "ko-KR": "옛 영주의 망토",
         "en-US": "Ancient Cape",
         "pt-BR": "Capa do Marquês",
         "es-ES": "Capa antigua"
     },
     "MN1OAw": {
-        "ko-KR": "성직자의 모자",
         "en-US": "Monk Hat",
         "pt-BR": "Chapéu de Monge",
         "es-ES": "Sombrero de Monje"
     },
     "Md1OAw": {
-        "ko-KR": "골든 헤드기어",
         "en-US": "Golden Gear",
         "pt-BR": "Peça Dourada",
         "es-ES": "Yelmo dorado"
     },
     "Mt1OAw": {
-        "ko-KR": "브로치",
         "en-US": "Brooch",
         "pt-BR": "Broche",
         "es-ES": "Broche"
     },
     "M91OAw": {
-        "ko-KR": "무낙모",
         "en-US": "Munak Hat",
         "pt-BR": "Chapéu de Munak",
         "es-ES": "Sombrero de Munak"
     },
     "NN1OAw": {
-        "ko-KR": "해적두건",
         "en-US": "Pirate Bandana",
         "pt-BR": "Bandana Pirata",
         "es-ES": "Bandana de Pirata"
     },
     "Nd1OAw": {
-        "ko-KR": "검은 가죽 부츠",
         "en-US": "Black Leather Boots",
         "pt-BR": "Botas Pretas de Couro",
         "es-ES": "Botas de cuero negro"
     },
     "Nt1OAw": {
-        "ko-KR": "특수 닌자 슈츠",
         "en-US": "Special Ninja Suit",
         "pt-BR": "Indumentária Ninja Especial",
         "es-ES": "Traje de ninja especial"
     },
     "N91OAw": {
-        "ko-KR": "[S]",
         "en-US": "[S]",
         "pt-BR": "[S]",
         "es-ES": "[S]"
     },
     "ON1OAw": {
-        "ko-KR": "마제스틱 고우트",
         "en-US": "Magestic Goat",
         "pt-BR": "Chifres Majestosos",
         "es-ES": "Cabra majestuosa"
     },
     "Od1OAw": {
-        "ko-KR": "샤프 헤드기어",
         "en-US": "Spiky Band",
         "pt-BR": "Chifres Pontudos",
         "es-ES": "Banda con púas"
     },
     "Ot1OAw": {
-        "ko-KR": "본헬름",
         "en-US": "Bone Helm",
         "pt-BR": "Elmo de Osso",
         "es-ES": "Yelmo de hueso"
     },
     "O91OAw": {
-        "ko-KR": "커세어",
         "en-US": "Corsair",
         "pt-BR": "Chapéu de Corsário",
         "es-ES": "Sombrero de corsario"
     },
     "PN1OAw": {
-        "ko-KR": "크라운",
         "en-US": "Crown",
         "pt-BR": "Coroa",
         "es-ES": "Corona"
     },
     "Pd1OAw": {
-        "ko-KR": "티아라",
         "en-US": "Tiara",
         "pt-BR": "Diadema",
         "es-ES": "Tiara"
     },
     "Pt1OAw": {
-        "ko-KR": "스핑크스 모자",
         "en-US": "Sphinx Hat",
         "pt-BR": "Coroa de Faraó",
         "es-ES": "Sombrero de esfinge"
     },
     "P91OAw": {
-        "ko-KR": "캐스팅의 로브",
         "en-US": "Robe of Cast",
         "pt-BR": "Manto da Conjuração",
         "es-ES": "Túnica de lanzamiento"
     },
     "QN1OAw": {
-        "ko-KR": "이어링",
         "en-US": "Earring",
         "pt-BR": "Brinco",
         "es-ES": "Pendiente"
     },
     "Qd1OAw": {
-        "ko-KR": "링",
         "en-US": "Ring",
         "pt-BR": "Anel",
         "es-ES": "Anillo"
     },
     "Qt1OAw": {
-        "ko-KR": "활골무",
         "en-US": "Bow Thimble",
         "pt-BR": "Luva de Puxada",
         "es-ES": "Dactilera"
     },
     "Q91OAw": {
-        "ko-KR": "매직 코트",
         "en-US": "Mage Coat",
         "pt-BR": "Vestimenta Arcana",
         "es-ES": "Túnica de Mago"
     },
     "RN1OAw": {
-        "ko-KR": "홀리 로브",
         "en-US": "Holy Robe",
         "pt-BR": "Batina",
         "es-ES": "Túnica sagrada"
     },
     "Rd1OAw": {
-        "ko-KR": "신의 사자",
         "en-US": "Sacred Mission",
         "pt-BR": "Spiritus Sancti",
         "es-ES": "Misión sagrada"
     },
     "Rt1OAw": {
-        "ko-KR": "런닝 셔츠",
         "en-US": "Undershirt",
         "pt-BR": "Camiseta",
         "es-ES": "Camiseta interior"
     },
     "R91OAw": {
-        "ko-KR": "삼각 팬티",
         "en-US": "Pantie",
         "pt-BR": "Roupa de Baixo",
         "es-ES": "Ropa interior"
     },
     "SN1OAw": {
-        "ko-KR": "[SSS]",
         "en-US": "[SSS]",
         "pt-BR": "[SSS]",
         "es-ES": "[SSS]"
     },
     "Sd1OAw": {
-        "ko-KR": "태양신의 모자",
         "en-US": "Hat of the Sun God",
         "pt-BR": "Coroa do Deus-Sol",
         "es-ES": "Sombrero del dios Sol"
     },
     "St1OAw": {
-        "ko-KR": "황금",
         "en-US": "Gold",
         "pt-BR": "Ouro",
         "es-ES": "Oro"
     },
     "S91OAw": {
-        "ko-KR": "[레아블렘]\n형과 업무협의에 의해 저는 방어구에만 소켓뚫기 작업을 하고 있어요. 무기에 소켓뚫기를 하시려면 세야블렘 형에게 가져가 주세요.",
         "en-US": "[Leablem] \nI only work with armors. If you want to add a slot to any weapons, look for my older brother.",
         "pt-BR": "[Leablem]\nEu trabalho apenas com armaduras. Se deseja adicionar Slot em alguma arma, procure meu irmão mais velho.",
         "es-ES": "[Leablem] \nSolo trabajo con armaduras. Si quieres añadir un Slot a cualquier armadura, busca a mi hermano."
     },
     "TN1OAw": {
-        "ko-KR": "[레아블렘]\n죄송한데요. 이 장비에는 소켓뚫기가 힘들 것 같아요. 형이라면 이 장비에 소켓뚫기가 가능할까요? 잘 모르겠네요?",
         "en-US": "[Leablem] \nSorry, but this armor cannot be slotted.",
         "pt-BR": "[Leablem]\nDesculpe, mas essa armadura não pode receber um slot.",
         "es-ES": "[Leablem] \nLo siento, pero esta arma no se puede colocar en ningun Slot."
     },
     "Td1OAw": {
-        "ko-KR": "[레아블렘]\n이건 {0}등급의 {1} 네요?",
         "en-US": "[Leablem] \n{1} is {0} class.",
         "pt-BR": "[Leablem]\n{1} é de classe {0}.",
         "es-ES": "[Leablem] \n{1} es de la clase {0}."
     },
     "Tt1OAw": {
-        "ko-KR": "{0}에는 ^FF0000{1}^000000제니의 요금이 필요해요.",
         "en-US": "In this case I need ^FF0000{1}^000000 zeny and 1x {0}.",
         "pt-BR": "Nesse caso, eu preciso de ^FF0000{1}^000000 zeny e 1x {0}.",
         "es-ES": "En este caso necesito ^FF0000{1}^000000 zeny y 1x {0}."
     },
     "T91OAw": {
-        "ko-KR": "{0}에는 ^FF0000{1} {2}개, {3}^000000제니의 요금이 필요해요.",
         "en-US": "In this case, I need ^FF0000{3}^000000 zeny, ^FF0000{1} {2}^000000 and 1x {0}.",
         "pt-BR": "Nesse caso, eu preciso de ^FF0000{3}^000000 zeny, ^FF0000{1} {2}^000000 e 1x {0}.",
         "es-ES": "En este caso, necesito ^FF0000{3}^000000 zeny, ^FF0000{1} {2}^000000 y 1x {0}."
     },
     "UN1OAw": {
-        "ko-KR": "{0}에는 ^FF0000{1} {2}개, {3} {4}개, {5}^000000제니의 요금이 필요해요.",
         "en-US": "In this case, I need ^FF0000{5}^000000 zeny, ^FF0000{1}{2}, {3}{4}^000000 and 1x {0}.",
         "pt-BR": "Nesse caso, eu preciso de ^FF0000{5}^000000 zeny, ^FF0000{1} {2}, {3} {4} ^000000 e 1x {0}.",
         "es-ES": "En este caso, necesito ^FF0000{5}^000000 zeny, ^FF0000{1}{2}, {3}{4}^000000 y 1x {0}."
     },
     "Ud1OAw": {
-        "ko-KR": "[레아블렘]\n재료나 요금은 다 챙겨오셨나요? 소켓뚫기에 실패할 경우 장비자체가 사라져버리고 성공해도 장비의 제련치 등은 전부 사라진다 것도 유념해주세요.",
         "en-US": "[Leablem] \nREMINDER: You will lose the materials and equipment in case of failure. If it is a success, you will lose the refinement, random bonuses and other cards that are on the weapon.",
         "pt-BR": "[Leablem]\nLEMBRANDO: Você perderá os materiais e o equipamento em caso de falha. Se for um sucesso, você perderá o refinamento, bônus aleatórios e outras cartas que estiverem na arma.",
         "es-ES": "[Leablem] \nRECUERDA: Perderás los materiales y el equipo si fallas. Si tienes éxito, perderás el refinamiento, las bonificaciones aleatorias y otras cartas del arma."
     },
     "Ut1OAw": {
-        "ko-KR": "소켓뚫기 작업을 맡긴다.",
         "en-US": "Add a Slot",
         "pt-BR": "Adicione um Slot",
         "es-ES": "Agregar un Slot"
     },
     "U91OAw": {
-        "ko-KR": "다음 기회에 도전한다.",
         "en-US": "Ok, bye...",
         "pt-BR": "Deixa pra lá...",
         "es-ES": "Déjalo ahí..."
     },
     "VN1OAw": {
-        "ko-KR": "[레아블렘]\n저기... 재료가 부족한걸요. 다시 한 번 확인해보세요.",
         "en-US": "[Leablem] \nI'm sorry, but you don't have the necessary materials.",
         "pt-BR": "[Leablem]\nSinto muito, mas você não está com os materiais necessários.",
         "es-ES": "[Leablem] \nLo siento, pero no tienes los materiales necesarios."
     },
     "Vd1OAw": {
-        "ko-KR": "[레아블렘]\n그럼, 시작해볼까요? 잘 되길 기도하세요. 후후.",
         "en-US": "[Leablem] \nGood luck!",
         "pt-BR": "[Leablem]\nBoa sorte!",
         "es-ES": "[Leablem] \n¡Buena suerte!"
     },
     "Vt1OAw": {
-        "ko-KR": "[레아블렘]\n오케이... 제대로 되었네요. 성공! 예쁘게 잘 뚫렸는걸요? 축하합니다.",
         "en-US": "[Leablem] \nThe procedure was successful! You received your weapon with a slot, but without refinement, random bonuses and cards.",
         "pt-BR": "[Leablem]\nO procedimento foi um sucesso! Você recebeu sua arma com slot, mas sem refino, bônus aleatórios e cartas.",
         "es-ES": "[Leablem] \n¡El procedimiento fue exitoso! Recibiste tu arma con un Slot, pero sin refinamiento, bonificaciones aleatorias ni cartas."
     },
     "V91OAw": {
-        "ko-KR": "[레아블렘]\n헉...죄송해요. 실패했네요... 운이 없었어요..소켓을 뚫는 데 있어서 실패는 항상 있구..에.. 이번엔 날렸지만, 다음 번엔 꼭 성공할 거에요!",
         "en-US": "[Leablem] \nThe procedure was a failure... But don't be sad. You were aware that this would happen.",
         "pt-BR": "[Leablem]\nO procedimento foi um fracaso... Mas não fique triste. Você estava ciente que isso aconteceria.",
         "es-ES": "[Leablem] \nEl procedimiento fue un fracaso... Pero no estés triste. Sabías que esto pasaría."
     },
     "WN1OAw": {
-        "ko-KR": "[레아블렘]\n그럼 다음에 또 이용해주세요.",
         "en-US": "[Leablem]\nBye!",
         "pt-BR": "[Leablem]\nVolte sempre.",
         "es-ES": "[Leablem]\nAdiós."

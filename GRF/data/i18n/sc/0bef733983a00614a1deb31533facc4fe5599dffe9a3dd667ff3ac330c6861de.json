@@ -1,96 +1,80 @@
 {
     "AObfDA": {
-        "ko-KR": "에휴",
         "en-US": "Ehyu",
         "pt-BR": "Ehyu",
         "es-ES": "Ehyu"
     },
     "AebfDA": {
-        "ko-KR": "그 날도 대지가 흔들렸다.",
         "en-US": "The earth trembled that day as well.",
         "pt-BR": "Naquele dia, a terra tremeu.",
         "es-ES": "Aquel día, la tierra tembló."
     },
     "AubfDA": {
-        "ko-KR": "속절없는 흔들림 속에서 자신이 버티고 설 자리가 사라진다는 감각은",
         "en-US": "Within the relentless shaking, the feeling that there was no longer any ground left to stand upon",
         "pt-BR": "Em meio ao terremoto, a sensação de que não havia lugar para ficar de pé.",
         "es-ES": "En medio del terremoto, la sensación de que no había lugar donde mantenerse en pie."
     },
     "A+bfDA": {
-        "ko-KR": "아주 끔찍했을 것이다.",
         "en-US": "must have been truly dreadful.",
         "pt-BR": "Deve ter sido terrível.",
         "es-ES": "Debió ser terrible."
     },
     "BObfDA": {
-        "ko-KR": "절망은 그렇게 예고없이 다가온다.",
         "en-US": "Despair arrives like that without warning.",
         "pt-BR": "O desespero chega assim, sem aviso.",
         "es-ES": "La desesperación llega así, sin aviso."
     },
     "BebfDA": {
-        "ko-KR": "일어설 자리조차 주지않고.",
         "en-US": "Without even granting a place to stand again.",
         "pt-BR": "Sem sequer seder um lugar para se levantar.",
         "es-ES": "Sin siquiera dar un lugar donde levantarse."
     },
     "BubfDA": {
-        "ko-KR": "지상을 걷는 모든 존재에게서 희망을 앗는다.",
         "en-US": "It steals hope from every being that walks the earth.",
         "pt-BR": "Ele rouba a esperança de todos.",
         "es-ES": "Roba la esperanza de todos."
     },
     "B+bfDA": {
-        "ko-KR": "검게 물드는 하늘을 보라. 절망을 목도하지만",
         "en-US": "Look at the sky turning black. Even as despair is witnessed,",
         "pt-BR": "Olhe para o céu escuro. Mesmo testemunhando o desespero,",
         "es-ES": "Mira al cielo oscuro. Aunque presencies la desesperación,"
     },
     "CObfDA": {
-        "ko-KR": "그럼에도 대지는 굳건히 두 발을 받치고 있어 희망을 숨쉰다.",
         "en-US": "the earth still supports both feet firmly and breathes hope.",
         "pt-BR": "ainda assim a terra sustenta firmemente os dois pés e respira esperança.",
         "es-ES": "aun así la tierra sostiene firmemente ambos pies y respira esperanza."
     },
     "CebfDA": {
-        "ko-KR": "허나 희망이 없다.",
         "en-US": "Yet there is no hope.",
         "pt-BR": "No entanto, não há esperança.",
         "es-ES": "Sin embargo, no hay esperanza."
     },
     "CubfDA": {
-        "ko-KR": "신벌의 대행자",
         "en-US": "Baroness of Retribution",
         "pt-BR": "Anjo da Retribuição",
         "es-ES": "Ángel de la Retribución"
     },
     "C+bfDA": {
-        "ko-KR": "절망의 기억",
         "en-US": "Memory of Despair",
         "pt-BR": "Desespero de Thanatos",
         "es-ES": "Desesperación de Thanatos"
     },
     "DObfDA": {
-        "ko-KR": "타나토스의 절망",
         "en-US": "Despair of Memory of Thanatos",
         "pt-BR": "Energia do Desespero",
         "es-ES": "Energía de la Desesperación"
     },
     "DebfDA": {
-        "ko-KR": "타나토스의 기억 파편, 절망이 등장했습니다.",
         "en-US": "Memory of Thanatos Fragment, Despair has appeared.",
         "pt-BR": "Um fragmento de Thanatos, o Desespero, apareceu.",
         "es-ES": "Un fragmento de Thanatos, la Desesperación, apareció."
     },
     "DubfDA": {
-        "ko-KR": "소지하고 계시는 아이템의 갯수가 많아 퀘스트를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
         "en-US": "You cannot proceed with the quest because you are carrying too many items. Please organize your inventory and try again.",
         "pt-BR": "Você possui itens demais para prosseguir com a missão. Organize seus itens e tente novamente.",
         "es-ES": "Tienes demasiados objetos para continuar con la misión. Organiza tu inventario e inténtalo de nuevo."
     },
     "D+bfDA": {
-        "ko-KR": "절망의 기억이 파편으로 형상화합니다. 게이트의 봉인이 해제되었습니다.",
         "en-US": "Memory of Despair manifests as fragments. The seal of the gate has been released.",
         "pt-BR": "O desespero acumulou em um fragmento. O selo foi removido e um portal se abriu.",
         "es-ES": "La desesperación se acumuló en un fragmento. El sello fue removido y un portal se abrió."

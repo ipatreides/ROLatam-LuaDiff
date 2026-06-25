@@ -1077,61 +1077,51 @@
     "5yc": {
         "en-US": "[OBT]",
         "pt-BR": "[OBT]",
-        "unknown_8": "[OBT]",
         "es-ES": "[OBT]"
     },
     "6Cc": {
         "en-US": "[71-99]",
         "pt-BR": "[71-99]",
-        "unknown_8": "[71-99]",
         "es-ES": "[71-99]"
     },
     "6Sc": {
         "en-US": "[100-110]",
         "pt-BR": "[100-110]",
-        "unknown_8": "[100-110]",
         "es-ES": "[100-110]"
     },
     "6ic": {
         "en-US": "[111-120]",
         "pt-BR": "[111-120]",
-        "unknown_8": "[111-120]",
         "es-ES": "[111-120]"
     },
     "6yc": {
         "en-US": "[121+]",
         "pt-BR": "[121+]",
-        "unknown_8": "[121+]",
         "es-ES": "[121+]"
     },
     "7Cc": {
         "en-US": "[1~70]",
         "pt-BR": "[1~70]",
-        "unknown_8": "[1~70]",
         "es-ES": "[1~70]"
     },
     "7Sc": {
         "en-US": "[71~99]",
         "pt-BR": "[71~99]",
-        "unknown_8": "[71~99]",
         "es-ES": "[71~99]"
     },
     "7ic": {
         "en-US": "[100~110]",
         "pt-BR": "[100~110]",
-        "unknown_8": "[100~110]",
         "es-ES": "[100~110]"
     },
     "7yc": {
         "en-US": "[111~120]",
         "pt-BR": "[111~120]",
-        "unknown_8": "[111~120]",
         "es-ES": "[111~120]"
     },
     "8Cc": {
         "en-US": "[121+]",
         "pt-BR": "[121+]",
-        "unknown_8": "[121+]",
         "es-ES": "[121+]"
     },
     "8Sc": {
@@ -2478,5 +2468,15 @@
         "en-US": "[Thank you for participating in our interactive experience celebrating the launch of the 4th Classes and the first anniversary of Ragnarok Online LATAM.]",
         "pt-BR": "[Obrigado por participar da nossa experiência interativa para celebrar o lançamento das Classes 4 e o primeiro aniversário do Ragnarök Online LATAM.]",
         "es-ES": "[Gracias por participar en nuestra experiencia interactiva para celebrar el lanzamiento de las Clases 4 y el primer aniversario de Ragnarök Online LATAM.]"
+    },
+    "/ig": {
+        "en-US": "[Veteran Event]",
+        "pt-BR": "[Evento Veterano]",
+        "es-ES": "[Evento de Veteranos]"
+    },
+    "/yg": {
+        "en-US": "[Here is the reward for participating in the Veteran Event.]",
+        "pt-BR": "[Segue item para participação no Evento Veterano.]",
+        "es-ES": "[Aquí tienes el artículo para participar en el Evento de Veteranos.]"
     }
 }

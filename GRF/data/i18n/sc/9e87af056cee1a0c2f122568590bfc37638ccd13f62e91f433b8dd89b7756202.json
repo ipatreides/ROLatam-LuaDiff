@@ -1,228 +1,190 @@
 {
     "oAjgCA": {
-        "ko-KR": "요일던전 포탈",
         "en-US": "Daily Dungeon Portal",
         "pt-BR": "Túmulo do Monarca",
         "es-ES": "Portal de Mazmorras Diarias"
     },
     "oQjgCA": {
-        "ko-KR": "[마리아쥬!]\n작업선택",
         "en-US": "[Mariage!]\nSelect Task",
         "pt-BR": "[Mariaju]\nSelecionar Tarefa",
         "es-ES": "[Mariage!]\nSeleccionar Tarea"
     },
     "ogjgCA": {
-        "ko-KR": "취소",
         "en-US": "Cancel",
         "pt-BR": "Cancelar",
         "es-ES": "Cancelar"
     },
     "owjgCA": {
-        "ko-KR": "퀘번호초기화",
         "en-US": "Reset Quest Number",
         "pt-BR": "Resetar Cooldown",
         "es-ES": "Restablecer Número de Misión"
     },
     "pAjgCA": {
-        "ko-KR": "생성",
         "en-US": "Create",
         "pt-BR": "Gerar instância",
         "es-ES": "Crear"
     },
     "pQjgCA": {
-        "ko-KR": "입장",
         "en-US": "Enter",
         "pt-BR": "Entrar na instância",
         "es-ES": "Entrar"
     },
     "pgjgCA": {
-        "ko-KR": "[마리아쥬!]\n취소",
         "en-US": "[Mariage!]\nCancel",
         "pt-BR": "[Mariaju!]\nCancelar",
         "es-ES": "[Mariage!]\nCancelar"
     },
     "pwjgCA": {
-        "ko-KR": "금요일 메모리얼",
         "en-US": "Friday Memorial Dungeon",
         "pt-BR": "Friday",
         "es-ES": "Mazmorra del Viernes"
     },
     "qAjgCA": {
-        "ko-KR": "금요일 메모리얼 입장 준비",
         "en-US": "Create Friday Dungeon",
         "pt-BR": "Gerar instância",
         "es-ES": "Crear la Mazmorra del Viernes"
     },
     "qQjgCA": {
-        "ko-KR": "금요일 메모리얼 입장",
         "en-US": "Enter Friday Dungeon",
         "pt-BR": "Entrar na instância",
         "es-ES": "Entrar la Mazmorra del Viernes"
     },
     "qgjgCA": {
-        "ko-KR": "파티명:{0}\n파티장:{1}\n^0000FF{2} ^000000- 예약실패",
         "en-US": "Party Name: {0}\nParty Leader: {1}\n^0000FF{2} ^000000 - Reservation Failed",
         "pt-BR": "Grupo: {0}\nLíder: {1}\nA reserva para a ^0000FF{2}^000000 falhou",
         "es-ES": "Nombre del Grupo: {0}\nLíder del Grupo: {1}\n^0000FF{2} ^000000 - Error en la Reserva"
     },
     "qwjgCA": {
-        "ko-KR": "[마리아쥬]\n입장용 통로를 마련해둘게요. 준비가 완료되면 제게 다시 말을 걸어 입장 하시면 되요.",
         "en-US": "[Mariage]\nI will prepare an entrance passage. \nOnce preparations are complete, speak to me again to enter.",
         "pt-BR": "[Mariaju]\nVou te colocar na fila. Quando a entrada liberar, fale comigo novamente para entrar.",
         "es-ES": "[Mariage]\nPrepararé un pasaje de entrada. \nUna vez que terminen los preparativos, háblame de nuevo para entrar."
     },
     "rAjgCA": {
-        "ko-KR": "[마리아쥬]\n파티의 리더가 아니라면 입장 준비를 도울 수 없어요.",
         "en-US": "[Mariage]\nIf you are not the party leader, I cannot help you prepare for the entrance.",
         "pt-BR": "[Mariaju]\nSe você não é o líder do Grupo, não posso te ajudar.",
         "es-ES": "[Mariage]\nSi no eres el líder del grupo, no puedo ayudarte a preparar la entrada."
     },
     "rQjgCA": {
-        "ko-KR": "[마리아쥬]\n아직 준비가 안되셨다구요? 그럼 어쩔 수 없죠.",
         "en-US": "[Mariage]\nYou are not ready yet? \nThen there is nothing we can do.",
         "pt-BR": "[Mariaju]\nBom, volte quando estiver com tudo pronto.",
         "es-ES": "[Mariage]\n¿Aún no estás listo? \nEntonces no hay nada que podamos hacer."
     },
     "rgjgCA": {
-        "ko-KR": "[마리아쥬]\n알 수 없는 오류가 발생했습니다.",
         "en-US": "[Mariage]\nAn unknown error has occurred.",
         "pt-BR": "[Mariaju]\nUm erro desconhecido ocorreu.",
         "es-ES": "[Mariage]\nSe ha producido un error desconocido."
     },
     "rwjgCA": {
-        "ko-KR": "[마리아쥬]\n이동을 위한 통로가 활성화되지 않았습니다.",
         "en-US": "[Mariage]\nThe passage for movement is not activated.",
         "pt-BR": "[Mariaju]\nA entrada não está aberta.",
         "es-ES": "[Mariage]\nEl pasaje para el movimiento no está activado."
     },
     "sAjgCA": {
-        "ko-KR": "[마리아쥬]\n이곳에 출입할 자격을 갖지 못했습니다.",
         "en-US": "[Mariage]\nYou are not authorized to enter this place.",
         "pt-BR": "[Mariaju]\nVocê não tem os requisitos para entrar.",
         "es-ES": "[Mariage]\nNo tienes autorización para entrar en este lugar."
     },
     "sQjgCA": {
-        "ko-KR": "{0} 파티의 {1} 파티원이 {2} 에 입장합니다",
         "en-US": "{0}'s party member {1} is entering {2}.",
         "pt-BR": "{1}, do grupo {0}, entrou no Túmulo do Monarca.",
         "es-ES": "El miembro del grupo de {0}, {1}, está entrando en Mazmorra del Viernes."
     },
     "sgjgCA": {
-        "ko-KR": "마리아쥬",
         "en-US": "Mariage",
         "pt-BR": "Mariaju",
         "es-ES": "Mariage"
     },
     "swjgCA": {
-        "ko-KR": "[마리아쥬]\n아 여긴 별로 쾌적하지 않은 것 같은데...",
         "en-US": "[Mariage]\nAh, this place doesn't seem very pleasant...",
         "pt-BR": "[Mariaju]\nO clima está perfeito para um piquenique no Mirante ao lado de Geffen...",
         "es-ES": "[Mariage]\nAh, este lugar no parece muy agradable..."
     },
     "tAjgCA": {
-        "ko-KR": "^FF0000던전 안에서 몬스터 테이밍 등의 임의의 몬스터 처리를 하실 경우 정상적인 진행으로 간주하지 않습니다. 이 점 유의하시기 바랍니다.^000000",
         "en-US": "^FF0000 Taming or otherwise dealing with monsters within the dungeon will not be considered normal progress. Please be aware of this.^000000",
         "pt-BR": "^FF0000ATENÇÃO: Não domestique monstros em Instâncias. O avanço poderá ficar comprometido.^000000",
         "es-ES": "^FF0000ADVERTENCIA: No domestiques monstruos en las Instancias. Tu progreso podría verse comprometido.^000000"
     },
     "tQjgCA": {
-        "ko-KR": "[마리아쥬]\n입장 후유증이 아직 풀리지 않았습니다.",
         "en-US": "[Mariage]\nThe aftereffects of entering the dungeon have not yet subsided.",
         "pt-BR": "[Mariaju]\nO tempo de espera ainda não passou.",
         "es-ES": "[Mariage]\nEl tiempo de reutilización aún no ha transcurrido."
     },
     "tgjgCA": {
-        "ko-KR": "^0000FF금요일 메모리얼 던전을 출입했던 후유증이 사라졌습니다. ^000000",
         "en-US": "^0000FF The aftereffects of entering the Friday Memorial Dungeon have disappeared. ^000000",
         "pt-BR": "^0000FFO tempo de espera para visitar o Túmulo do Monarca sumiu^000000",
         "es-ES": "^0000FFEl tiempo de reutilización para visitar la Mazmorra del Viernes ha desaparecido.^000000"
     },
     "twjgCA": {
-        "ko-KR": "[마리아쥬]\n요일 던전을 담당하고 있는 마리아쥬라고 해요. 우리 구면이죠?",
         "en-US": "[Mariage]\nI'm Mariage, in charge of the daily dungeons. \nWe're old friends, right?",
         "pt-BR": "[Mariaju]\nMeu nome é Mariaju, a exploradora de instâncias. Quer ouvir minha história?",
         "es-ES": "[Mariage]\nMe llamo Mariage, la exploradora de instancias. \n¿Quieres escuchar mi historia?"
     },
     "uAjgCA": {
-        "ko-KR": "[마리아쥬]\n이곳은 금요일 던전의 입구가 있는 게펜 타워예요. 말 그대로 금요일에만 열리는 공간이죠.",
         "en-US": "[Mariage]\nThis is Geffen Tower, the entrance to the Friday dungeon. \nAs the name suggests, it's only open on Fridays.",
         "pt-BR": "[Mariaju]\nA partir da Torre de Geffen, posso abrir uma passagem secreta para o Túmulo do Monarca.",
         "es-ES": "[Mariage]\nEsta es la Torre Geffen, la entrada a la Mazmorra del Viernes. \nComo su nombre indica, solo abre los viernes."
     },
     "uQjgCA": {
-        "ko-KR": "[마리아쥬]\n이곳에선 거의 대부분의 액세서리에 인챈트를 부여할 수 있는 세공용 원석이 나온다고 해요.",
         "en-US": "[Mariage]\nThey say you can find Rough Stones here, which can be used to enchant almost any accessory.",
         "pt-BR": "[Mariaju]\nNesse lugar, você encontrará Pedras Brutas, que são necessárias para encantar quase todos os acessórios conhecidos.",
         "es-ES": "[Mariage]\nEn este lugar encontrarás Piedras Brutas, necesarias para encantar casi todos los accesorios conocidos."
     },
     "ugjgCA": {
-        "ko-KR": "[마리아쥬]\n대부분... 이라곤 했지만 그 인챈트 작업을 하는 분이 제 옆의 초보 수집가 분이라. 사실상 일정수준 이상의 액세서리는 논외라고 보셔야 할 것 같아요.",
         "en-US": "[Mariage]\nI said most of them... but the person doing the enchanting is a beginner collector next to me. \nAccessories above a certain level are out of the question.",
         "pt-BR": "[Mariaju]\nQuando eu digo quase... é porque nem sempre o acessório que você quer encantar vai estar disponível.",
         "es-ES": "[Mariage]\nHe dicho la casi... pero la persona que hace el encantamiento es un Coleccionista Novato a mi lado. \nAccesorios por encima de un cierto nivel están fuera de la cuestión."
     },
     "uwjgCA": {
-        "ko-KR": "개장 시간을 정확하게 알려주세요.",
         "en-US": "Can you tell me the exact opening hours?",
         "pt-BR": "Que dia a instância abre?",
         "es-ES": "¿Puede decirme el horario exacto de apertura?"
     },
     "vAjgCA": {
-        "ko-KR": "저기 저 수상한 남자는 누굽니까?",
         "en-US": "Who's that suspicious man over there?",
         "pt-BR": "E aquele homem suspeito ali?",
         "es-ES": "¿Y ese hombre sospechoso de ahí?"
     },
     "vQjgCA": {
-        "ko-KR": "[마리아쥬]\n에 누구요? 우리 일행은 아닌데요? 개장 시간 안내나 마저 들으시죠.",
         "en-US": "[Mariage]\nYou know what I don't know? \nHe's not part of our group. \nPlease listen to the opening hours.",
         "pt-BR": "[Mariaju]\nSabe que eu não sei? Podemos continuar com a explicação? Preste atenção ao horário de funcionamento.",
         "es-ES": "[Mariage]\n¿Sabes que no lo sé? \n¿Podemos seguir con la explicación? \nPresta atención al horario."
     },
     "vgjgCA": {
-        "ko-KR": "[마리아쥬]\n목요일 23:59 ~ 금요일 23:59 까지만 제한적으로 개방하고 있답니다. 지금은 금요일이 아니라서 입장객을 받고 있진 않아요.",
         "en-US": "[Mariage]\nWe're only open from 11:59 PM on Thursday to 11:59 PM on Friday. \nIt's not Friday, so we're not accepting visitors.",
         "pt-BR": "[Mariaju]\nAbre apenas das 23h59 de quinta-feira às 23h59 de sexta-feira. Como não é sexta-feira, você não pode entrar.",
         "es-ES": "[Mariage]\nSolo abre de las 23:59 del jueves a las 23:59 del viernes. \nComo no es viernes, no puedes entrar."
     },
     "vwjgCA": {
-        "ko-KR": "[마리아쥬]\n금요일이 되면 보자구요~",
         "en-US": "[Mariage]\nSee you on Friday~",
         "pt-BR": "[Mariaju]\nVejo você na sexta-feira.",
         "es-ES": "[Mariage]\nNos vemos el Viernes~"
     },
     "wAjgCA": {
-        "ko-KR": "[마리아쥬]\n마침 잘 오셨네요, 이제 막 개장 준비가 끝난 참이거든요. 지금 입장 하시겠어요?",
         "en-US": "[Mariage]\nYou're welcome. \nWe've just finished preparing for the opening. \nWould you like to enter now?",
         "pt-BR": "[Mariaju]\nGostaria de entrar no Túmulo do Monarca?",
         "es-ES": "[Mariage]\nDe nada. \nAcabamos de terminar los preparativos para la inauguración.\n¿Le gustaría entrar ahora?"
     },
     "wQjgCA": {
-        "ko-KR": "^0000FF레벨 99 미만의 모험가는 입장할 수 없습니다.^000000",
         "en-US": "^0000FFAdventurers under level 99 cannot enter.^000000",
         "pt-BR": "^0000FFViajantes abaixo do nível 99 de não podem entrar.^000000",
         "es-ES": "^0000FFTrotamundos menos del nivel 99 no pueden entrar.^000000"
     },
     "wgjgCA": {
-        "ko-KR": "^0000FF입장 가능한 요일이 아닙니다.^000000",
         "en-US": "^0000FFThis is not a valid day of the week.^000000",
         "pt-BR": "^0000FFHoje não é sexta-feira.^000000",
         "es-ES": "^0000FFHoy no es viernes.^000000"
     },
     "wwjgCA": {
-        "ko-KR": "^0000FF요일던전을 출입한 모든 피로도가 없어졌습니다. 마리아쥬와 대화가 가능해 질 것 같습니다.^000000",
         "en-US": "^0000FFAll fatigue gained from entering the dungeon on a weekday has been removed. It seems like you'll be able to talk to Mariage.^000000",
         "pt-BR": "^0000FFO cansaço desapareceu. Acho que posso pedir para Mariaju abrir a instância para mim novamente.^000000",
         "es-ES": "^0000FFEl cansancio ha desaparecido. Creo que puedo pedirle a Mariage que vuelva a abrir la instancia por mí.^000000"
     },
     "xAjgCA": {
-        "ko-KR": "^0000FF파티를 결성하지 않은 모험가는 입장이 불가능해보입니다.^000000",
         "en-US": "^0000FFAdventurers who aren't in a party appear to be unable to enter.^000000",
         "pt-BR": "^0000FFVocê precisa de um Grupo.^000000",
         "es-ES": "^0000FFNecesitas un grupo.^000000"
     },
     "xQjgCA": {
-        "ko-KR": "[마리아쥬]\n음? 무슨 말인지 잘 모르겠어요. 다시 이야기해줄래요?",
         "en-US": "[Mariage]\nHmm? \nI don't quite understand what you're saying. \nCould you explain it again?",
         "pt-BR": "[Mariaju]\nHmm? Não tenho certeza do que você quer dizer. Você pode dizer de novo?",
         "es-ES": "[Mariage]\n¿Mmm? \nNo estoy segura de a qué te refieres. \n¿Puedes repetirlo?"

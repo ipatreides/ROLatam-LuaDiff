@@ -1,474 +1,395 @@
 {
     "wPtuDA": {
-        "ko-KR": "진리의 문",
         "en-US": "Gate of Truth",
-        "pt-BR": "Porta da Verdade",
+        "pt-BR": "Portão da Verdade",
         "es-ES": "La Puerta de la Verdad"
     },
     "wftuDA": {
-        "ko-KR": "패치 제거를 시작합니다.",
         "en-US": "Removing patches...",
-        "pt-BR": "Iniciando a remoção do patch.",
+        "pt-BR": "Iniciando a remoção de patch.",
         "es-ES": "Se inicia la eliminación del parche."
     },
     "wvtuDA": {
-        "ko-KR": "패치 제거가 완료되었습니다.",
         "en-US": "Patch removal completed.",
         "pt-BR": "A remoção do patch foi concluída.",
         "es-ES": "La eliminación del parche ha finalizado."
     },
     "w/tuDA": {
-        "ko-KR": "...",
         "en-US": "...",
         "pt-BR": "...",
         "es-ES": "..."
     },
     "xPtuDA": {
-        "ko-KR": "- 지난번과 마찬가지로 진리의 문에서는 더이상 얻을 것이 없다. -",
         "en-US": "- As before, there is nothing more to gain at the Gate of Truth. -",
-        "pt-BR": "- Assim como da última vez, não há mais nada a ganhar na Porta da Verdade. -",
+        "pt-BR": "- Assim como da última vez, não há mais nada a ganhar no Portão da Verdade. -",
         "es-ES": "- Al igual que la última vez, ya no hay nada más que conseguir en la Puerta de la Verdad. -"
     },
     "xftuDA": {
-        "ko-KR": "- 하지만 이번에는 다른 것을 이미 얻었다. -",
         "en-US": "- But this time, I already acquired something different. -",
         "pt-BR": "- Mas desta vez já ganhei outra coisa. -",
         "es-ES": "- Pero esta vez ya he conseguido otra cosa. -"
     },
     "xvtuDA": {
-        "ko-KR": "유령불의 흔적",
         "en-US": "Ghost Fire's Traces",
         "pt-BR": "Vestígios da Chama Fantasma",
         "es-ES": "Rastro de fuego fantasma"
     },
     "x/tuDA": {
-        "ko-KR": "[?]\n더욱 더 진리를 얻고 싶다...\n인간의 상...과 인간의 상...\n먼저 할 것과 나중에 할 것...\n진리의 문은 나중...",
         "en-US": "[?]\nI still want to get closer to the truth...\nThe human statue... and the other human statue...\nFirst things first... Later things later...\nThe Gate of Truth is for later...",
         "pt-BR": "[?]\nQuero obter ainda mais a verdade...\nA imagem do ser humano... e a imagem do ser humano...\nO que fazer primeiro e o que deixar para depois...\nA Porta da Verdade fica para depois...",
         "es-ES": "[?]\nQuiero obtener aún más verdad...\nLa imagen del ser humano... y la imagen del ser humano...\nLo que hay que hacer primero y lo que hay que hacer después...\nLa Puerta de la Verdad queda para después..."
     },
     "yPtuDA": {
-        "ko-KR": "[유령불의 흔적]\n...",
         "en-US": "[Ghost Fire's Traces]\n...",
         "pt-BR": "[Vestígios da Chama Fantasma]\n...",
         "es-ES": "[Rastro de la llama fantasma]\n..."
     },
     "yftuDA": {
-        "ko-KR": "억세스 코드",
         "en-US": "Access Code",
         "pt-BR": "Código de acesso",
         "es-ES": "Código de acceso"
     },
     "yvtuDA": {
-        "ko-KR": "atm0",
         "en-US": "atm0",
         "pt-BR": "atm0",
         "es-ES": "atm0"
     },
     "y/tuDA": {
-        "ko-KR": "[{0}]\n...어?",
         "en-US": "[{0}]\n...Huh?",
         "pt-BR": "[{0}]\n...Hã?",
         "es-ES": "[{0}]\n...¿Eh?"
     },
     "zPtuDA": {
-        "ko-KR": "해킹 완료. 흡수당한 만큼의 진리를 보수합니다.",
         "en-US": "Hacking completed. Repairing truth as much as the absorbed amount...",
-        "pt-BR": "Hackeado. Recuperando a verdade absorvida.",
+        "pt-BR": "Hack concluído. Recuperando a verdade absorvida.",
         "es-ES": "Hackeo completado. Te devuelvo la verdad que te fue absorbida."
     },
     "zftuDA": {
-        "ko-KR": "마우라 대쉬의 외침: 수고했어! 다음 흔적을 찾아봐.",
         "en-US": "Maura Dash's shout: Good job! Look for more traces.",
         "pt-BR": "Grito de Maura Dash: Bom trabalho! Procura o próximo vestígio.",
         "es-ES": "Grito de Maura Dash: ¡Buen trabajo! Busca el siguiente rastro."
     },
     "zvtuDA": {
-        "ko-KR": "[{0}]\n직접 보낸 게 아니라더니...",
         "en-US": "[{0}]\nYou said you didn't send it yourself...",
         "pt-BR": "[{0}]\nDisse que não tinha enviado pessoalmente...",
         "es-ES": "[{0}]\n¿Y decías que no lo habías enviado tú directamente...?"
     },
     "z/tuDA": {
-        "ko-KR": "[{0}]\n...",
         "en-US": "[{0}]\n...",
         "pt-BR": "[{0}]\n...",
         "es-ES": "[{0}]\n..."
     },
     "0PtuDA": {
-        "ko-KR": "마우라 대쉬의 외침: 이제 하나 남았네! 이쪽은 잘 굴러가고 있어. 마저 처리하고 진리의 문 앞에서 보자구!",
         "en-US": "Maura Dash's Shout: Now, there's only one left! Things are going well on our end. We'll see you by the Gate of Truth after this!",
         "pt-BR": "Grito de Maura Dash: Agora só falta um! Por aqui tá tudo indo bem. Dá um jeito no resto e nos vemos na porta da Verdade!",
         "es-ES": "Grito de Maura Dash: ¡Ya solo queda uno! Por aquí todo va bien. ¡Termina lo que te queda y nos vemos frente a la Puerta de la Verdad!"
     },
     "0ftuDA": {
-        "ko-KR": "[{0}]\n움직이는 감각은 진짜같은데...",
         "en-US": "[{0}]\nThe sensation of movement feels real...",
         "pt-BR": "[{0}]\nA sensação de movimento parece real...",
         "es-ES": "[{0}]\nLa sensación de movimiento parece real..."
     },
     "0vtuDA": {
-        "ko-KR": "마우라 대쉬의 외침: 진리의 문까지 와, 조심해!",
         "en-US": "Maura Dash's Cry: Come to the Gate of Truth. Be careful!",
-        "pt-BR": "Grito de Maura Dash: Chega até o Portão da Verdade, toma cuidado!",
+        "pt-BR": "Grito de Maura Dash: Venha até o Portão da Verdade, tenha cuidado!",
         "es-ES": "Grito de Maura Dash: ¡Ven hasta la Puerta de la Verdad, ten cuidado!"
     },
     "0/tuDA": {
-        "ko-KR": "[{0}]\n...문으로 가자.",
         "en-US": "[{0}]\n...Let's go to the gate.",
         "pt-BR": "[{0}]\n...Vamos para o portão.",
         "es-ES": "[{0}]\n...Vamos hacia la puerta."
     },
     "1PtuDA": {
-        "ko-KR": "[?]\n유페로스는... 나. 나는...\n유페로스... 내가 원하는것은\n이 곳에 다 존재하고 있다...\n과학의 힘...기계의 천국...",
         "en-US": "[?]\nJuperos... I... I'm...\nJuperos... itself... Everything I've wanted...\nis here... The power of science...\nThe paradise of machines...",
-        "pt-BR": "[?]\nEupheros é... eu. Eu sou...\nEupheros... tudo o que eu desejo\nestá aqui...\nO poder da ciência... o paraíso das máquinas...",
-        "es-ES": "[?]\nEupheros es... yo. Yo soy...\nEupheros... todo lo que deseo\nexiste aquí...\nEl poder de la ciencia... el paraíso de las máquinas..."
+        "pt-BR": "[?]\nJuperos é... eu. Eu sou...\nJuperos... tudo o que eu desejo\nestá aqui...\nO poder da ciência... o paraíso das máquinas...",
+        "es-ES": "[?]\nJuperos es... yo. Yo soy...\nJuperos... todo lo que deseo\nexiste aquí...\nEl poder de la ciencia... el paraíso de las máquinas..."
     },
     "1ftuDA": {
-        "ko-KR": "[?]\n..나는 육체를 잃고 정신이\n분열되어 이 곳 유페로스에\n속박되어진 자... 나는 이 곳\n유페로스와 같이 살고 같이\n죽을 것이다... 영원히...",
         "en-US": "[?]\n..I lost my body, and my mind\nshattered and scattered\nthroughout this Juperos. I'm bound to\nlive and die with Juperos...\nforever...",
-        "pt-BR": "[?]\n...Eu perdi meu corpo e minha mente\nse fragmentou, e agora estou\npreso aqui em Eupheros... Eu vou viver\ne morrer junto com este lugar,\nEupheros... Para sempre...",
+        "pt-BR": "[?]\n...Eu perdi meu corpo e minha mente\nse fragmentou, e agora estou\npreso aqui em Juperos... Eu vou viver\ne morrer junto com este lugar,\nJuperos... Para sempre...",
         "es-ES": "[?]\n...Soy alguien que perdió su cuerpo y cuya mente\nse fragmentó, quedando\natrapado aquí, en Euporos... Viviré aquí\nen Euporos y moriré aquí\njunto a este lugar... Para siempre..."
     },
     "1vtuDA": {
-        "ko-KR": "피드백 기능이 없는 자동전투로봇 따위가 날 상대하겠다고?",
         "en-US": "An ABR without feedback functions dares fight me?",
-        "pt-BR": "Um robô de combate automático sem função de feedback vai se meter comigo?",
+        "pt-BR": "Um robô ABR sem função de retorno quer me enfrentar?",
         "es-ES": "¿Un robot de combate automático sin función de retroalimentación se atreve a enfrentarse a mí?"
     },
     "1/tuDA": {
-        "ko-KR": "마우라 대쉬: 이런, 들켰나? 해킹 아직 안 끝났는데? 아, 확성기 어디 갔지...",
         "en-US": "Maura Dash: Uh-oh, we've been made. We're not done hacking. Err, where's my megaphone?",
         "pt-BR": "Maura Dash: Nossa, fui descoberta? O hack ainda não acabou... Ah, cadê o megafone...",
         "es-ES": "Maura Dash: ¡Ay, nos descubrieron! ¿Aún no terminé de hackear? Ah, ¿dónde se fue el megáfono...?"
     },
     "2PtuDA": {
-        "ko-KR": "마우라 대쉬의 외침: 나 혼자 아니야. 미케닉도 하나 데리고 왔다구.",
         "en-US": "Maura Dash's Shout: I'm not alone. I came with a Mechanic.",
         "pt-BR": "Grito de Maura Dash: Não estou sozinha. Trouxe um Mecânico comigo.",
         "es-ES": "Grito de Maura Dash: No estoy sola. Traje a un mecánico conmigo."
     },
     "2ftuDA": {
-        "ko-KR": "라그랑주, 이미 늦었으니 포기해라. 이제 이 유적과 진리의 문은 내 것이다.",
         "en-US": "Lagrange, it's too late. Give up. Juperos and the Gate of Truth are mine now.",
-        "pt-BR": "Lagrange, já é tarde demais, desiste. Agora, estas ruínas e a Porta da Verdade são minhas.",
+        "pt-BR": "Lagrange, já é tarde demais, desiste. Agora, estas ruínas e o Portão da Verdade são meus.",
         "es-ES": "Lagrange, ya es demasiado tarde, así que ríndete. Ahora estas ruinas y la Puerta de la Verdad son mías."
     },
     "2vtuDA": {
-        "ko-KR": "마우라 대쉬: 일단 저쪽으로 가면서 덤비는 것들을 해치워. 어렵지 않을 거야.",
         "en-US": "Maura Dash: For now, head that way and cut a path through whatever comes at you. It shouldn't be too difficult.",
         "pt-BR": "Maura Dash: Por enquanto, vai pra lá e acaba com os que vierem te atacar. Não vai ser difícil.",
         "es-ES": "Maura Dash: Por ahora, ve por allá y acaba con los que se te echen encima. No te va a costar nada."
     },
     "2/tuDA": {
-        "ko-KR": "마우라 대쉬의 외침: 난 자동전투로봇 마우라 대쉬다. 마우라는 보고 있겠지만 여기에 없어.",
         "en-US": "Maura Dash's Shout: I'm Maura Dash, the ABR. Maura's watching us, but not here.",
         "pt-BR": "Grito de Maura Dash: Eu sou o robô de combate automático Maura Dash. A Maura deve estar vendo, mas não está aqui.",
         "es-ES": "Grito de Maura Dash: Soy Maura Dash, el robot de combate automático. Maura estará mirando, pero no está aquí."
     },
     "3PtuDA": {
-        "ko-KR": "라그랑주는 겁쟁이라서 말이지. 그까짓 육체를 잃는 것이 두려울 일인가?",
         "en-US": "Lagrange is such a coward. Is she so afraid of losing her body?",
         "pt-BR": "Lagrange é um covarde, sabe. Perder um mero corpo é motivo para ter medo?",
         "es-ES": "Es que Lagrange es un cobarde. ¿Acaso perder un simple cuerpo es algo que deba temer?"
     },
     "3ftuDA": {
-        "ko-KR": "마우라 대쉬의 외침: 시끄러워, 공짜만 좋아하다 찌꺼기만 남은 주제에.",
         "en-US": "Maura Dash's outburst: Shut it. Look what happened to you for being so brave.",
-        "pt-BR": "Grito de Maura Dash: Cala a boca, seu pedaço de lixo que só gosta de coisas de graça.",
+        "pt-BR": "Maura Dash com raiva: Cala a boca! Veja só o que sobrou dem você.",
         "es-ES": "Grito de Maura Dash: ¡Cállate, escoria que solo te gusta lo gratis y de ahí te queda solo basura!"
     },
     "3vtuDA": {
-        "ko-KR": "찌꺼기라니, 문과 하나가 되고도 움직일 수 있는 육체라고 하거라.",
         "en-US": "Scum? Call it a body that can move even after becoming one with the Gate.",
-        "pt-BR": "Restos? Chama de corpo que consegue se mover mesmo depois de se fundir com a porta.",
+        "pt-BR": "O que sobrou? Este é o corpo que consegue se mover mesmo depois de se fundir com o Portão.",
         "es-ES": "¿Restos? Llamémoslo un cuerpo capaz de moverse incluso después de fusionarse con una puerta."
     },
     "3/tuDA": {
-        "ko-KR": "마우라 대쉬의 외침: 나는 인간이 아니니 상관없지. 그리고 데려온 미케닉도 두려워하지 않을 걸.",
         "en-US": "Maura Dash's Cry: I'm not human, so it doesn't matter. And the Mechanic I brought along won't be afraid either.",
         "pt-BR": "Grito de Maura Dash: Eu não sou humana, então não importa. E acho que o mecânico que trouxe também não vai ter medo.",
         "es-ES": "Grito de Maura Dash: No me importa, porque no soy humana. Y seguro que tampoco le da miedo al mecánico que trajiste."
     },
     "4PtuDA": {
-        "ko-KR": "어떻게...! 이런 일이 가능할 리가...!",
         "en-US": "How...? Nooohh... This can't beeeee!",
         "pt-BR": "Como...! Isso não pode ser possível...!",
         "es-ES": "¡¿Cómo...?! ¡No puede ser que esto sea posible...!"
     },
     "4ftuDA": {
-        "ko-KR": "마우라 대쉬의 외침: 어리석구나, 인간의 탈을 벗는 순간 남는 건 해킹 뿐이야.",
         "en-US": "Maura Dash's cry: How foolish. The moment you shed your human form, all that remains is hacking.",
-        "pt-BR": "Grito de Maura Dash: Que tolice, no momento em que tiras a máscara de humano, o que resta é apenas hacking.",
+        "pt-BR": "Grito de Maura Dash: Que tolice, no momento em que abandona sua forma humana tudo o que resta é apenas hackear.",
         "es-ES": "Grito de Maura Dash: Qué tonto, en el momento en que te quitas la máscara de humano, lo único que queda es el hackeo."
     },
     "4vtuDA": {
-        "ko-KR": "라그랑주!! 비겁하다!",
         "en-US": "Lagrange!! Coward!",
         "pt-BR": "Lagrange!! Você é covarde!",
         "es-ES": "¡Lagrange!! ¡Eres un cobarde!"
     },
     "4/tuDA": {
-        "ko-KR": "마우라 대쉬의 외침: 마우라는 여기에 없어.",
         "en-US": "Maura Dash's cry: Maura isn't here.",
         "pt-BR": "Grito de Maura Dash: Maura não está aqui.",
         "es-ES": "Grito de Maura Dash: Maura no está aquí."
     },
     "5PtuDA": {
-        "ko-KR": "대체 어떻게... 진리의 문을 해킹한다고?! 라그랑주, 어떻게...",
         "en-US": "How the hell... hack into the Gate of Truth?! Lagrange, how...?",
-        "pt-BR": "Como é que... hackeias a Porta da Verdade?! Lagrange, como é que...",
+        "pt-BR": "Como é que... hackear a Porta da Verdade?! Lagrange, como é que...",
         "es-ES": "¿Cómo es posible... que hackees la Puerta de la Verdad?! Lagrange, ¿cómo..."
     },
     "5ftuDA": {
-        "ko-KR": "마우라 대쉬의 외침: 나는 자동전투로봇인데, 너라고 사람일까?",
         "en-US": "Maura Dash's cry: I'm an auto-battle robot, but are you even human?",
         "pt-BR": "Grito de Maura Dash: Eu sou um robô de combate automático, e você acha que é humano?",
         "es-ES": "Grito de Maura Dash: Yo soy un robot de combate automático, ¿acaso tú eres humano?"
     },
     "5vtuDA": {
-        "ko-KR": "마우라 대쉬의 외침: 진리의 문과 동화하기 위해서든 뭐든 모든 걸 데이터화하면 남는 건 해킹 뿐이지.",
         "en-US": "Maura Dash's Cry: Whether it's to merge with the Gate of Truth or whatever, once everything is digitized, all that's left is hacking.",
-        "pt-BR": "Grito de Maura Dash: Seja para se fundir com a Porta da Verdade ou qualquer outra coisa, se você transformar tudo em dados, o que resta é só hacking.",
+        "pt-BR": "Grito de Maura Dash: Seja para se fundir com a Portão da Verdade ou qualquer outra coisa, se você transformar tudo em dados, só o que resta é hackear.",
         "es-ES": "Grito de Maura Dash: Ya sea para fusionarte con la Puerta de la Verdad o lo que sea, si lo conviertes todo en datos, lo único que queda es hackear."
     },
     "5/tuDA": {
-        "ko-KR": "...마우라 라그랑주!",
         "en-US": "...Maura Lagrange!",
         "pt-BR": "...Maura Lagrange!",
         "es-ES": "... ¡Maura Lagrange!"
     },
     "6PtuDA": {
-        "ko-KR": "마우라 대쉬의 외침: 마우라는 여기에 없다니까.",
         "en-US": "Maura Dash's cry: I said, Maura isn't here.",
         "pt-BR": "Grito de Maura Dash: Eu já disse que a Maura não está aqui.",
         "es-ES": "Grito de Maura Dash: ¡Te digo que Maura no está aquí!"
     },
     "6ftuDA": {
-        "ko-KR": "마우라 대쉬: 처음부터 네가 문에 엉겨붙으면 문 자체가 해킹이 가능해진다는 생각은 안 했어?",
         "en-US": "Maura Dash: Didn't you think about the possibility of opening the Gate to hacking attempts by attaching yourself to it?",
         "pt-BR": "Maura Dash: Você nunca pensou, desde o início, que se você se grudasse na porta, a própria porta se tornaria hackeável?",
         "es-ES": "Maura Dash: ¿Nunca se te ocurrió desde el principio que si te pegabas a la puerta, la puerta misma se volvería hackeable?"
     },
     "6vtuDA": {
-        "ko-KR": "마우라 대쉬: 너는 실질 현실에서 사라져버렸어. 데이터만 남았지. 지금 거기서 생각하는 너는 인공지능일까, 아닐까?",
         "en-US": "Maura Dash: You don't really exist in reality anymore. You're just virtual data now. Artificial intelligence.",
         "pt-BR": "Maura Dash: Você desapareceu da realidade concreta. Só restaram os dados. Aquele que está pensando ali agora é uma inteligência artificial, ou não?",
         "es-ES": "Maura Dash: Te has desvanecido de la realidad tangible. Solo quedan datos. ¿El que está pensando ahí ahora es inteligencia artificial o no?"
     },
     "6/tuDA": {
-        "ko-KR": "나는... 노이슈 리앙이다!",
-        "en-US": "I-I'm... Naoise Lian!",
-        "pt-BR": "Eu sou... Noishu Liang!",
-        "es-ES": "¡Yo soy... Noishu Liang!"
+        "en-US": "I-I'm... Neusch Lian!",
+        "pt-BR": "Eu sou... Neusch Lian!",
+        "es-ES": "¡Yo soy... Neusch Lian!"
     },
     "7PtuDA": {
-        "ko-KR": "마우라 대쉬: 나는 마우라가 아니라니까. 잘 봐, 저러니 데이터화한답시고 육체를 버리는 거야.",
         "en-US": "Maura Dash: I said I'm not Maura. Look. That's what happens when you throw away your body and go digital.",
         "pt-BR": "Maura Dash: Eu disse que não sou a Maura. Olha bem, é por isso que as pessoas abandonam o corpo, achando que estão se transformando em dados.",
         "es-ES": "Maura Dash: Te digo que no soy Maura. Fíjate bien, así es como se abandona el cuerpo con la excusa de digitalizarse."
     },
     "7ftuDA": {
-        "ko-KR": "!!",
         "en-US": "!!",
         "pt-BR": "!!",
         "es-ES": "!!"
     },
     "7vtuDA": {
-        "ko-KR": "마우라 대쉬: 우리가 하고 있는 건 대화가 아니야. 서로 의미없는 자동응답이지. 난 마우라의 의지대로 움직일 뿐.",
         "en-US": "Maura Dash: What we're doing right now isn't even a conversation. It's just an exchange of meaningless automated responses. I'm just following Maura's will.",
         "pt-BR": "Maura Dash: O que estamos fazendo não é uma conversa. São apenas respostas automáticas sem sentido. Eu só estou agindo de acordo com a vontade da Maura.",
         "es-ES": "Maura Dash: Lo que estamos haciendo no es una conversación. Son respuestas automáticas sin sentido entre nosotros. Yo solo actúo según la voluntad de Maura."
     },
     "7/tuDA": {
-        "ko-KR": "마우라 대쉬: 모든 것은 설계대로.",
         "en-US": "Maura Dash: Everything is as she's programmed.",
-        "pt-BR": "Maura Dash: Tudo está ocorrendo conforme o projeto.",
+        "pt-BR": "Maura Dash: Tudo está ocorrendo conforme ela planejou.",
         "es-ES": "Maura Dash: Todo va según lo previsto."
     },
     "8PtuDA": {
-        "ko-KR": "마우라 대쉬",
         "en-US": "Maura Dash",
         "pt-BR": "Maura Dash",
         "es-ES": "Maura Dash"
     },
     "8ftuDA": {
-        "ko-KR": "<ABR>",
         "en-US": "<ABR>",
         "pt-BR": "<ABR>",
         "es-ES": "<ABR>"
     },
     "8vtuDA": {
-        "ko-KR": "[마우라 대쉬]\n정신이 들어? {0}.\n난 마우라 대쉬야. 마우라가 만든 간략판 인공지능이 탑재된 특수 자동전투로봇이고 네 길 안내를 할 거야.",
         "en-US": "[Maura Dash]\nAre you awake? {0}.\nI'm Maura Dash. I'm a special automated combat robot equipped with Maura's simplified version of AI, and I'm here to guide you through this space.",
-        "pt-BR": "[Maura Dash]\nAcordaste? {0}.\nSou a Maura Dash. Sou um robô de combate automático especial equipado com uma versão simplificada da IA criada pela Maura e vou guiar-te pelo caminho.",
+        "pt-BR": "[Maura Dash]\nAcordou? {0}.\nSou a Maura Dash. Sou um robô de combate automático especial equipado com uma versão simplificada da IA criada pela Maura e vou guiar o seu caminho.",
         "es-ES": "[Maura Dash]\n¿Ya te despertaste? {0}.\nSoy Maura Dash. Soy un robot de combate automático especial equipado con una versión simplificada de la IA creada por Maura, y te guiaré en tu camino."
     },
     "8/tuDA": {
-        "ko-KR": "[마우라 대쉬]\n인공지능이래도 나는 마우라가 아는 것 이외에는 별로 아는 게 없고 따라서 우리는 별 대화를 하지는 않을 거야. 난 대답할 능력이 없어.\n모르는 말은 관심없는 척 넘어갈 거야. 이해해.",
         "en-US": "[Maura Dash]\nEven though I'm equipped with AI, I don't know anything that Maura doesn't know. So, I don't think we should talk. I can't answer you much.\nI'll pretend not to care about things I don't know. Understand.",
         "pt-BR": "[Maura Dash]\nMesmo sendo uma IA, eu não sei quase nada além do que a Maura sabe e, por isso, a gente não vai ter muita conversa. Eu não tenho capacidade de responder.\nSe eu não souber, vou fingir que não me interessa. Entende?",
         "es-ES": "[Maura Dash]\nAunque sea una IA, no sé mucho más allá de lo que sabe Maura, así que no vamos a tener mucha conversación. No tengo la capacidad de responder.\nSi no sé algo, haré como que no me interesa. Entiéndelo."
     },
     "9PtuDA": {
-        "ko-KR": "[마우라 대쉬]\n들었겠지만 여긴 네 기억이라든가, 마우라의 기억 같은 걸 재구성한 곳이 아니야.\n터미널로 연결한 실제 유페로스 중심부긴 한데...",
         "en-US": "[Maura Dash]\nAs you may have heard, this is not a reconstruction of your memories or Maura's.\nIt really is the Juperos Core, though connected through a terminal.",
         "pt-BR": "[Maura Dash]\nComo já deves ter percebido, este lugar não é uma reconstrução das tuas memórias ou das memórias da Maura.\nÉ o centro real de Euporos, conectado por um terminal...",
         "es-ES": "[Maura Dash]\nComo ya habrás oído, este no es un lugar donde se hayan reconstruido tus recuerdos o los de Maura.\nAunque sí que estamos en el centro real de Euporos, conectado a través de un terminal..."
     },
     "9ftuDA": {
-        "ko-KR": "[마우라 대쉬]\n지금 여기 있는 너는 마우라가 보낸 자동전투로봇이야. 마우라가 혹시 뇌파 잭이 어쩌구 하는 이야기는 했어?\n간단히 이야기하면 너는 지금 마우라의 가상 단말 자동전투로봇을 네 몸처럼 조종하게 된 거야.",
         "en-US": "[Maura Dash]\nYou're here as Maura's ABR. Did Maura mention anything about a brainwave jack?\nSimply put, you'll be controlling Maura's virtual terminal ABR as if it were your own body.",
-        "pt-BR": "[Maura Dash]\nTu que estás aqui agora és um robô de combate automático enviado pela Maura. A Maura falou alguma coisa sobre um conector de ondas cerebrais ou algo assim?\nResumindo, tu estás agora controlando o robô de combate automático do terminal virtual da Maura como se fosse o teu próprio corpo.",
+        "pt-BR": "[Maura Dash]\nVocê está aqui como um robô ABR enviado pela Maura. A Maura falou alguma coisa sobre um conector de ondas cerebrais ou algo assim?\nResumindo, você está controlando agora o robô ABR do terminal virtual da Maura como se fosse o teu próprio corpo.",
         "es-ES": "[Maura Dash]\nEl que estás aquí ahora es un robot de combate automático enviado por Maura. ¿Te dijo Maura algo sobre un «conector de ondas cerebrales» o algo así?\nEn pocas palabras, ahora estás controlando el robot de combate automático del terminal virtual de Maura como si fuera tu propio cuerpo."
     },
     "9vtuDA": {
-        "ko-KR": "[마우라 대쉬]\n시각 정보에 딜레이가 생기지 않게 하기 위해 로봇 소체에 네 모습이 덧입혀져 보일 거야. 위화감 없지?\n아, 대미지는 그대로 들어가니까 조심해. 뭐 크게 다칠 일은 없겠지만.",
         "en-US": "[Maura Dash]\nTo prevent visual delays, the robot's body will be overlaid with your appearance. Doesn't feel strange, does it?\nOh, mind that you'll also feel its damage. I doubt you'll be seriously injured, though.",
         "pt-BR": "[Maura Dash]\nPara evitar atrasos nas informações visuais, a tua imagem vai ser sobreposta ao corpo do robô. Não parece estranho, né?\nAh, e os danos vão ser causados normalmente, então toma cuidado. Mas não deve acontecer nada grave.",
         "es-ES": "[Maura Dash]\nPara que no haya retrasos en la información visual, tu imagen se superpondrá sobre el cuerpo del robot. ¿No te parece raro?\nAh, y ten cuidado, porque el daño te llega tal cual. Aunque no creo que te hagas mucho daño."
     },
     "9/tuDA": {
-        "ko-KR": "[마우라 대쉬]\n왜 이런 걸 보여 주냐고?\n자신의 상상을 넘는 것은 만들 수 없지만 지평을 넓히려면 보고 배우는 게 제일 빠르니까지.",
         "en-US": "[Maura Dash]\nWhy are we showing you this?\nSince you can't create something beyond your imagination, you have to expand the scope of your imagination by seeing others' creations.",
         "pt-BR": "[Maura Dash]\nPor que estou te mostrando isso?\nNão dá pra criar algo que ultrapasse a própria imaginação, mas pra ampliar os horizontes, ver e aprender é o caminho mais rápido.",
         "es-ES": "[Maura Dash]\n¿Por qué te muestro esto?\nNo se puede crear algo que supere la propia imaginación, pero para ampliar horizontes, lo más rápido es ver y aprender."
     },
     "+PtuDA": {
-        "ko-KR": "[마우라 대쉬]\n처분 대상은 자신의 소화 한계를 넘는 것을 손쉽게 얻으려다 인간을 저버리고 만 자의 잔해야.\n모든 것에는 노력이 필요하지. 공짜가 어디 있어?\n넌 그러면 안 돼. 알았지?",
         "en-US": "[Maura Dash]\nThis target in question is the remains of a man who bit more than he could chew.\nYou have to know your limits. Don't you agree?\nI hope you do.",
         "pt-BR": "[Maura Dash]\nO alvo a ser eliminado é o resquício daquele que, ao tentar obter facilmente algo além de suas capacidades, acabou traindo a humanidade.\nTudo exige esforço. O que é de graça?\nVocê não pode fazer isso. Entendeu?",
         "es-ES": "[Maura Dash]\nEl objetivo a eliminar es el resto de alguien que, al intentar obtener fácilmente algo que superaba sus límites, acabó traicionando a los humanos.\nTodo requiere esfuerzo. ¿Acaso hay algo gratis?\nTú no debes hacer eso. ¿Entendido?"
     },
     "+ftuDA": {
-        "ko-KR": "[마우라 대쉬]\n여기 예전에 왔던 기억 있지? 그 때 봤던 프랭클슨의 잔류사념을, 노이슈 리앙이 건드려서 껍데기만 남았을 거야. 일단 그걸 복구하고 문과 융합된 마도기관을 분리하기로 하자.",
         "en-US": "[Maura Dash]\nRemember being here before? I bet Frankelson's lingering thoughts here have been drained dry by Naoise. Let's restore them first, then separate the mana engine fused with the door.",
-        "pt-BR": "[Maura Dash]\nLembras-te de ter vindo aqui antes? Os resquícios mentais de Frankelson que vimos naquela vez... Noishu Liang deve ter mexido neles, deixando só a casca. Vamos primeiro restaurá-los e separar o mecanismo mágico que se fundiu com a porta.",
-        "es-ES": "[Maura Dash]\n¿Te acuerdas de cuando viniste aquí antes? Los restos de los pensamientos de Frankelson que viste en ese entonces... Noishu Liang los habrá alterado hasta dejar solo el caparazón. Primero vamos a restaurar eso y a separar el mecanismo mágico fusionado con la puerta."
+        "pt-BR": "[Maura Dash]\nLembras-te de ter vindo aqui antes? Os resquícios mentais de Frankelson que vimos naquela vez... Neusch Lian deve ter mexido neles, deixando só a casca. Vamos primeiro restaurá-los e separar o mecanismo mágico que se fundiu com a porta.",
+        "es-ES": "[Maura Dash]\n¿Te acuerdas de cuando viniste aquí antes? Los restos de los pensamientos de Frankelson que viste en ese entonces... Neusch Lian los habrá alterado hasta dejar solo el caparazón. Primero vamos a restaurar eso y a separar el mecanismo mágico fusionado con la puerta."
     },
     "+vtuDA": {
-        "ko-KR": "[마우라 대쉬]\n왜 복구해야 하냐고? 그것들은 본인의 의지와 다르게 오히려 저 문 너머로 후배들이 가지 못하게 저지하고 있는 거나 마찬가지거든.\n어지간히 어리석지 않다면 지금의 너나 마우라처럼 문과 적당히 타협하고 돌아오게끔.",
         "en-US": "[Maura Dash]\nWhy should we restore it? Contrary to Frankelson's expectation, his spiritual residue is actually keeping his successors from going beyond the Gate of Truth.\nIt's necessary to help your people safely return from beyond the Gate, just like you and Maura did by making a compromise with it.",
         "pt-BR": "[Maura Dash]\nPor que precisamos restaurá-los? Porque, contra a própria vontade deles, eles estão impedindo que os novatos passem por aquela porta.\nA menos que sejam extremamente tolos, eles vão acabar fazendo um acordo com a porta, como você e eu, e voltando.",
         "es-ES": "[Maura Dash]\n¿Por qué hay que restaurarlos? Es que, en contra de su voluntad, están impidiendo que los que vienen detrás no puedan cruzar esa puerta.\nA menos que sean muy tontos, para que, como tú o Maura ahora, lleguen a un acuerdo con la puerta y regresen."
     },
     "+/tuDA": {
-        "ko-KR": "[마우라 대쉬]\n이대로 저 문과 융합된 마도기관을 분리하고 끝내도 되지만, 그러면 이제 여기에 누가 왔을 때 발목을 잡을 사람이 없어.\n그렇다고 누굴 다시 희생해서 불명확하고 애매한 것을 만들어 세울 수도 없으니 복구하는 거야.",
         "en-US": "[Maura Dash]\nWe could just get rid of that mana engine and get it over with, but that would leave no safety device for anyone else who comes in here.\nAnd we can't create another Frankelson for that purpose, so we're restoring it.",
         "pt-BR": "[Maura Dash]\nDá pra separar o mecanismo mágico fundido com o portal e encerrar tudo assim, mas aí não vai ter ninguém pra segurar quem vier pra cá.\nMas também não dá pra sacrificar mais ninguém pra criar algo impreciso e ambíguo, então é por isso que vamos restaurar.",
         "es-ES": "[Maura Dash]\nPodríamos separar el mecanismo mágico fusionado con esa puerta y dar por terminado el asunto, pero entonces ya no habría nadie aquí para frenar a quien venga.\nTampoco podemos sacrificar a alguien más para crear algo impreciso y ambiguo, así que lo vamos a restaurar."
     },
     "/PtuDA": {
-        "ko-KR": "[마우라 대쉬]\n그래, 맞아. 이미 그는 이 유적의 일부분으로서, 마도기관을 사용하는 기술자들에겐 없어선 안 될 존재.",
         "en-US": "[Maura Dash]\nYes, that's right. Now, he's part of this site and an indispensable existence to the engineers like you who use the mana engine.",
         "pt-BR": "[Maura Dash]\nÉ, tá certo. Ele já é parte integrante dessas ruínas, uma presença indispensável pros técnicos que usam o mecanismo mágico.",
         "es-ES": "[Maura Dash]\nSí, es cierto. Él ya es parte de estas ruinas, una presencia indispensable para los técnicos que usan el mecanismo mágico."
     },
     "/ftuDA": {
-        "ko-KR": "[마우라 대쉬]\n{0},",
         "en-US": "[Maura Dash]\n{0},",
         "pt-BR": "[Maura Dash]\n{0},",
         "es-ES": "[Maura Dash]\n{0},"
     },
     "/vtuDA": {
-        "ko-KR": "넌 프랭클슨의 잔류사념들부터 복원해.\n지도에 녹색으로 칠해진 곳 세 군데를 돌면서 코드를 입력하고, 노란색으로 칠해진 곳에서 만나자.",
         "en-US": "Restore Frankelson's residual thoughts first.\nGo to the three green spots on your map and enter the access code to each. I'll see you again at the yellow spot.",
         "pt-BR": "Começa restaurando os resquícios de pensamento do Frankelson.\nVisita os três locais marcados em verde no mapa, insere o código e nos encontramos no local marcado em amarelo.",
         "es-ES": "tú empieza por restaurar los pensamientos residuales de Frankelson.\nVe a los tres lugares marcados en verde en el mapa, ingresa el código y nos vemos en el lugar marcado en amarillo."
     },
     "//tuDA": {
-        "ko-KR": "[마우라 대쉬]",
         "en-US": "[Maura Dash]",
         "pt-BR": "[Maura Dash]",
         "es-ES": "[Maura Dash]"
     },
     "APxuDA": {
-        "ko-KR": "{0},\n넌 프랭클슨의 잔류사념들부터 복원해.\n지도에 녹색으로 칠해진 곳 세 군데를 돌면서 코드를 입력하고, 노란색으로 칠해진 곳에서 만나자.",
         "en-US": "{0},\nRestore Frankelson's residual thoughts first.\nGo to the three green spots on your map and enter the access code to each. I'll see you again at the yellow spot.",
         "pt-BR": "{0},\nComeça restaurando os pensamentos remanescentes de Frankelson.\nVisita os três locais marcados em verde no mapa, insere os códigos e nos encontramos no local marcado em amarelo.",
         "es-ES": "{0},\ntú empieza por restaurar los pensamientos residuales de Frankelson.\nVe a los tres lugares marcados en verde en el mapa, ingresa los códigos y nos vemos en el lugar marcado en amarillo."
     },
     "AfxuDA": {
-        "ko-KR": "[마우라 대쉬]\n잠깐만 기다려...",
         "en-US": "[Maura Dash]\nWait a moment...",
         "pt-BR": "[Maura Dash]\nEspera um pouquinho...",
         "es-ES": "[Maura Dash]\nEspera un momento..."
     },
     "AvxuDA": {
-        "ko-KR": "[마우라 대쉬]\n수고했어, {0}.\n이제 저것만 해체하고 접속 해제해 줄게.",
         "en-US": "[Maura Dash]\nGood job, {0}.\nI'll let you disconnect when I'm done dismantling that thing.",
         "pt-BR": "[Maura Dash]\nBom trabalho, {0}.\nAgora é só desmontar aquilo e eu vou te desconectar.",
         "es-ES": "[Maura Dash]\nBuen trabajo, {0}.\nAhora solo desmantela eso y te desconectaré."
     },
     "A/xuDA": {
-        "ko-KR": "난 그렇다치고 넌 안 돌아가?",
         "en-US": "Okay, but aren't you coming with me?",
         "pt-BR": "E quanto a você, não vai voltar?",
         "es-ES": "¿Y tú no vas a volver?"
     },
     "BPxuDA": {
-        "ko-KR": "[마우라 대쉬]\n너랑 마찬가지로 나도 처음부터 마우라 옆에 있는데?",
         "en-US": "[Maura Dash]\nI've been next to Maura, just like you have.",
         "pt-BR": "[Maura Dash]\nAssim como você, eu também estou ao lado da Maura desde o início, não é?",
         "es-ES": "[Maura Dash]\n¿Acaso no estoy junto a Maura desde el principio, igual que tú?"
     },
     "BfxuDA": {
-        "ko-KR": "[마우라 대쉬]\n난 이형 기어 안의 데이터야. 지금 유페로스 밑에 있는 건 임무를 거의 완수해서 즐거운 자동전투로봇 둘이지.\n아까도 이야기해 줬지만 지금 네 눈에 보이는 건 진짜가 아니야.",
         "en-US": "[Maura Dash]\nI'm just the data inside the E.T. Gear. What's under Juperos now is a pair of ABRs who can't wait to get over with their mission.\nAs I told you earlier, what you see now isn't real.",
         "pt-BR": "[Maura Dash]\nEu sou os dados dentro dessa engrenagem. O que está embaixo do Juperos agora são dois robôs de combate automático felizes por terem quase concluído a missão.\nComo já te disse antes, o que você está vendo agora não é real.",
         "es-ES": "[Maura Dash]\nYo soy los datos dentro de este engranaje. Los que están ahora debajo de Uperos son dos robots de combate automático que están felices porque casi han completado su misión.\nComo te dije antes, lo que ves ahora no es real."
     },
     "BvxuDA": {
-        "ko-KR": "- 마우라 대쉬는 자기 다리를 가리켰다. 양쪽 다리 모두가 사람의 다리다. 아니, 그렇게 보인다. -",
         "en-US": "- Maura Dash points at her legs. Both of them are human legs. At least they look like they're real. -",
         "pt-BR": "- Maura Dash apontou para as próprias pernas. Ambas as pernas são de humano. Ou melhor, parecem ser. -",
         "es-ES": "- Maura Dash señaló sus piernas. Ambas son piernas humanas. O, al menos, eso parece. -"
     },
     "B/xuDA": {
-        "ko-KR": "[마우라 대쉬]\n난 마우라의 모습을 뒤집어쓰고 있고 이렇게 너와 대화하고 있지만 자율적인 생각은 하고 있지 않아. 마우라의 상상 범위 밖의 일은 할 수 없어.",
         "en-US": "[Maura Dash]\nI may look and sound like Maura, but I'm incapable of free thinking. Or doing anything outside her imagination for that matter.",
         "pt-BR": "[Maura Dash]\nEstou usando a aparência da Maura e conversando assim contigo, mas não tenho pensamentos autônomos. Não posso fazer nada que esteja fora do alcance da imaginação da Maura.",
         "es-ES": "[Maura Dash]\nEstoy usando la apariencia de Maura y hablando contigo así, pero no tengo pensamientos autónomos. No puedo hacer nada que esté fuera del alcance de la imaginación de Maura."
     },
     "CPxuDA": {
-        "ko-KR": "[마우라 대쉬]\n네가 마이스터가 되면 만들게 될 자동전투로봇은 나하고는 완전히 다른 타입일 것처럼.",
         "en-US": "[Maura Dash]\nThe auto-battle robots you'll create as a Meister will be a completely different type from me.",
-        "pt-BR": "[Maura Dash]\nO robô de combate automático que você vai criar quando se tornar um Meister deve ser de um tipo completamente diferente de mim.",
-        "es-ES": "[Maura Dash]\nComo si el robot de combate automático que crearás cuando te conviertas en Meister fuera un tipo completamente diferente a mí."
+        "pt-BR": "[Maura Dash]\nOs robôs autômatos que você vai criar quando se tornar um Engenheiro serão de um tipo completamente diferente de mim.",
+        "es-ES": "[Maura Dash]\nComo si el robot de combate automático que crearás cuando te conviertas en Artífice fuera un tipo completamente diferente a mí."
     },
     "CfxuDA": {
-        "ko-KR": "[마우라 대쉬]\n바깥으로 나오는 데이터는 전부 통제했으니 이제 진리의 문에 엉겨붙은 버그 소스를 뜯어버리는 일만 남았네.",
         "en-US": "[Maura Dash]\nNow that I've stopped the Gate's data from leaking outside, it's time to get rid of those buggy sources stuck to the Gate.",
-        "pt-BR": "[Maura Dash]\nJá controlei todos os dados que saem, então agora só falta arrancar o código de bug grudado na Porta da Verdade.",
+        "pt-BR": "[Maura Dash]\nJá controlei todos os dados que saem, então agora só falta arrancar o código de bug grudado na Portão da Verdade.",
         "es-ES": "[Maura Dash]\nYa que he controlado todos los datos que salen, ahora solo queda arrancar el código de error que se ha pegado a la Puerta de la Verdad."
     },
     "CvxuDA": {
-        "ko-KR": "[마우라 대쉬]\n...\n변경된 유저 데이터를 전송중입니다. 전송을 마치면 자동으로 셧다운합니다.\n출동한 모든 기체에 대해 셧다운을 적용합니다...",
         "en-US": "[Maura Dash]...\n\nTransferring updated user data. The system will shut down automatically afterward.\nShutting down all dispatched systems...",
         "pt-BR": "[Maura Dash]\n...\nTransmitindo os dados de usuário alterados. Ao concluir a transmissão, desligarei automaticamente.\nAplicando o desligamento a todas as unidades mobilizadas...",
         "es-ES": "[Maura Dash]\n...\nTransmitiendo los datos de usuario modificados. Una vez finalizada la transmisión, se apagará automáticamente.\nSe aplicará el apagado a todas las unidades desplegadas..."
     },
     "C/xuDA": {
-        "ko-KR": "[마우라 대쉬 2]\n일단 종료하고 돌아가실까요?",
         "en-US": "[Maura Dash 2]\nWould you like to finish and go back?",
         "pt-BR": "[Maura Dash 2]\nVamos encerrar e voltar, então?",
         "es-ES": "[Maura Dash 2]\n¿Terminamos y nos vamos?"
     },
     "DPxuDA": {
-        "ko-KR": "ㅇㅇ",
         "en-US": "Okay",
         "pt-BR": "Sim",
         "es-ES": "Sí"
     },
     "DfxuDA": {
-        "ko-KR": "ㄴㄴ",
         "en-US": "N/A",
         "pt-BR": "Não",
         "es-ES": "No"
     },
     "DvxuDA": {
-        "ko-KR": "- 지금은 여기를 통과할 수 없다!",
         "en-US": "- For now, I can't get past this point.",
         "pt-BR": "- Não dá pra passar por aqui agora!",
         "es-ES": "- ¡Ahora no se puede pasar por aquí!"

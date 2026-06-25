@@ -1,0 +1,182 @@
+{
+    "AO8cDQ": {
+        "en-US": "Adventurer, welcome. Thank you for joining this subjugation operation.",
+        "pt-BR": "Aventureiro, seja bem-vindo. Obrigado por participar desta operação de extermínio.",
+        "es-ES": "Aventurero, bienvenido. Gracias por unirse a esta operación de exterminio."
+    },
+    "Ae8cDQ": {
+        "en-US": "Is everyone assembled?",
+        "pt-BR": "Todos reunidos?",
+        "es-ES": "¿Todos reunidos?"
+    },
+    "Au8cDQ": {
+        "en-US": "Four!!",
+        "pt-BR": "Quatro!!",
+        "es-ES": "¡¡Cuatro!!"
+    },
+    "A+8cDQ": {
+        "en-US": "The traitors who abandoned a life of serving the Goddess and broke their oath are disturbing this place!",
+        "pt-BR": "Traidores que abandonaram a vida de servir à deusa e quebraram seus juramentos estão causando caos aqui!",
+        "es-ES": "¡Los traidores que abandonaron la vida de servicio a la Diosa y rompieron su juramento están causando estragos aquí!"
+    },
+    "BO8cDQ": {
+        "en-US": "It is also our duty to carry out the will of the Goddess upon them!!",
+        "pt-BR": "Também é nosso dever executar a vontade da deusa sobre eles!!",
+        "es-ES": "¡También es nuestra misión hacer cumplir la voluntad de la Diosa sobre ellos!!"
+    },
+    "Be8cDQ": {
+        "en-US": "From here, three garden sectors and one temple entrance sector, a total of four sectors, have been secured. We will purify them sequentially.",
+        "pt-BR": "A partir daqui, bloqueamos três áreas do jardim e uma área na entrada do santuário, totalizando quatro áreas. Vamos purificá-las em ordem.",
+        "es-ES": "Desde aquí, hemos bloqueado tres zonas del jardín y una zona en la entrada del templo, un total de cuatro zonas. Las purificaremos en orden."
+    },
+    "Bu8cDQ": {
+        "en-US": "In the darkness, it is difficult to distinguish friend from foe, so be careful not to attack allies!",
+        "pt-BR": "Na escuridão não é possível distinguir aliados de inimigos, então tomem cuidado para não atacar seus companheiros!",
+        "es-ES": "Como en la oscuridad no se distingue entre aliados y enemigos, ¡tengan cuidado de no atacar a sus compañeros!"
+    },
+    "B+8cDQ": {
+        "en-US": "To your positions!!",
+        "pt-BR": "Cada um para sua posição!!",
+        "es-ES": "¡Cada uno a su posición!!"
+    },
+    "CO8cDQ": {
+        "en-US": "Adventurer, I heard you will be participating in the subjugation operation at the temple! I will send you directly to the temple entrance!",
+        "pt-BR": "Aventureiro, soube que participará da operação de extermínio no templo! Vou enviá-lo diretamente para a entrada do templo!",
+        "es-ES": "¡Aventurero, he oído que participará en la operación de exterminio en el templo! ¡Le enviaré directamente a la entrada del templo!"
+    },
+    "Ce8cDQ": {
+        "en-US": "Temple Guard",
+        "pt-BR": "Guarda do Templo",
+        "es-ES": "Guardia del templo"
+    },
+    "Cu8cDQ": {
+        "en-US": "Temple Guard",
+        "pt-BR": "Guarda do Templo",
+        "es-ES": "Guardia del templo"
+    },
+    "C+8cDQ": {
+        "en-US": "No one can stop us!",
+        "pt-BR": "Ninguém pode nos deter!",
+        "es-ES": "¡Nadie puede detenernos!"
+    },
+    "DO8cDQ": {
+        "en-US": "Traitorous Temple Guard",
+        "pt-BR": "Guarda do Templo traidor",
+        "es-ES": "Guardia del templo traidor"
+    },
+    "De8cDQ": {
+        "en-US": "Sector 1 still has enemies remaining! Search!",
+        "pt-BR": "Área 1 ainda tem inimigos! Procurem!",
+        "es-ES": "¡Aún quedan enemigos en la Zona 1! ¡Registren el área!"
+    },
+    "Du8cDQ": {
+        "en-US": "We are stronger now!",
+        "pt-BR": "Agora estamos mais fortes!",
+        "es-ES": "¡Ahora somos más fuertes!"
+    },
+    "D+8cDQ": {
+        "en-US": "They are driving us like prey!! I will not tolerate this!",
+        "pt-BR": "Estão nos caçando como presas!! Não vou tolerar isso!",
+        "es-ES": "¡¡Nos están acorralando como presas!! ¡No lo toleraré!"
+    },
+    "EO8cDQ": {
+        "en-US": "Sector 1 clear! All units move to Sector 2!",
+        "pt-BR": "Área 1 limpa! Todos para a Área 2!",
+        "es-ES": "¡Zona 1 despejada! ¡Todos a la Zona 2!"
+    },
+    "Ee8cDQ": {
+        "en-US": "Do you understand how I feel?",
+        "pt-BR": "Vocês sabem como me sinto?",
+        "es-ES": "¿Sabes lo que siento?"
+    },
+    "Eu8cDQ": {
+        "en-US": "Sector 2 still has enemies remaining! Search!",
+        "pt-BR": "Área 2 ainda tem inimigos! Procurem!",
+        "es-ES": "¡Aún quedan enemigos en la Zona 2! ¡Registren el área!"
+    },
+    "E+8cDQ": {
+        "en-US": "We must get away quickly!",
+        "pt-BR": "Precisamos recuar rápido!",
+        "es-ES": "¡Debemos evitarlo!"
+    },
+    "FO8cDQ": {
+        "en-US": "Did you think I would just go down easily?",
+        "pt-BR": "Acha que vou simplesmente aceitar isso?",
+        "es-ES": "¿Crees que me rendiré sin más?"
+    },
+    "Fe8cDQ": {
+        "en-US": "Sector 2 clear! All units move to Sector 3!",
+        "pt-BR": "Área 2 limpa! Todos para a Área 3!",
+        "es-ES": "¡Zona 2 despejada! ¡Todos a la Zona 3!"
+    },
+    "Fu8cDQ": {
+        "en-US": "What did we do wrong??",
+        "pt-BR": "O que foi que fizemos de errado??",
+        "es-ES": "¿¡Qué hemos hecho mal!?"
+    },
+    "F+8cDQ": {
+        "en-US": "Sector 3 still has enemies remaining! Search!",
+        "pt-BR": "Área 3 ainda tem inimigos! Procurem!",
+        "es-ES": "¡Aún quedan enemigos en la Zona 3! ¡Registren el área!"
+    },
+    "GO8cDQ": {
+        "en-US": "Eek!!!",
+        "pt-BR": "Argh!!!",
+        "es-ES": "¡¡Argh!!"
+    },
+    "Ge8cDQ": {
+        "en-US": "Sector 3 clear! All units move to Sector 4!",
+        "pt-BR": "Área 3 limpa! Todos para a Área 4!",
+        "es-ES": "¡Zona 3 despejada! ¡Todos a la Zona 4!"
+    },
+    "Gu8cDQ": {
+        "en-US": "You are really persistent.",
+        "pt-BR": "Vocês são realmente persistentes.",
+        "es-ES": "De verdad que sois persistentes."
+    },
+    "G+8cDQ": {
+        "en-US": "Sector 4 still has enemies remaining! Search!",
+        "pt-BR": "Área 4 ainda tem inimigos! Procurem!",
+        "es-ES": "¡Aún quedan enemigos en la Zona 4! ¡Registren el área!"
+    },
+    "HO8cDQ": {
+        "en-US": "All sectors clear! Assemble at the temple entrance!",
+        "pt-BR": "Todas as áreas limpas! Reúnam-se na entrada do templo!",
+        "es-ES": "¡Todas las zonas despejadas! ¡Reúnanse en la entrada del templo!"
+    },
+    "He8cDQ": {
+        "en-US": "All units assemble!!",
+        "pt-BR": "Todos reunidos!!",
+        "es-ES": "¡¡Todos reunidos!!"
+    },
+    "Hu8cDQ": {
+        "en-US": "All units assemble!",
+        "pt-BR": "Todos reunidos!",
+        "es-ES": "¡Todos reunidos!"
+    },
+    "H+8cDQ": {
+        "en-US": "Has the party leader not arrived yet?",
+        "pt-BR": "O líder do grupo ainda não chegou?",
+        "es-ES": "¿El líder del grupo aún no ha llegado?"
+    },
+    "IO8cDQ": {
+        "en-US": "[Temple Guard Captain] Well done, everyone! The subjugation will continue daily! For today, dismiss and rest!",
+        "pt-BR": "[Capitão da Guarda do Templo] Bom trabalho a todos! A operação de extermínio continuará diariamente! Por hoje, dispersem e descansem!",
+        "es-ES": "[Capitán de la Guardia del Templo] ¡Buen trabajo a todos! ¡La operación de exterminio continuará cada día! ¡Por hoy, dispérsense y descansen!"
+    },
+    "Ie8cDQ": {
+        "en-US": "[Temple Guard Captain] Adventurer, thank you for your assistance.",
+        "pt-BR": "[Capitão da Guarda do Templo] Aventureiro, obrigado pela ajuda.",
+        "es-ES": "[Capitán de la Guardia del Templo] Aventurero, gracias por su ayuda."
+    },
+    "Iu8cDQ": {
+        "en-US": "[Temple Guard Captain] I heard you will also join the separate subjugation operation inside the temple. I look forward to working with you!",
+        "pt-BR": "[Capitão da Guarda do Templo] Ouvi dizer que também participará da operação dentro do santuário. Conto com você!",
+        "es-ES": "[Capitán de la Guardia del Templo] He oído que también participará en la operación dentro del santuario. ¡Contamos con usted!"
+    },
+    "I+8cDQ": {
+        "en-US": "[Temple Guard Captain] Please rest for now, and I ask for your help again tomorrow!",
+        "pt-BR": "[Capitão da Guarda do Templo] Descanse agora e conto com você novamente amanhã!",
+        "es-ES": "[Capitán de la Guardia del Templo] Descanse por ahora y mañana le esperamos de nuevo."
+    }
+}

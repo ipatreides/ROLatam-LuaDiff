@@ -1,372 +1,310 @@
 {
     "QKxcDA": {
-        "ko-KR": "밝히리",
         "en-US": "Valkyrie",
         "pt-BR": "Valquíria",
         "es-ES": "Valquiria"
     },
     "QaxcDA": {
-        "ko-KR": "- 소지하고 계신 아이템이 많아 퀘스트를 진행할 수 없습니다. -",
         "en-US": "- You're carrying too many items to proceed with this quest. -",
         "pt-BR": "- Não é possível prosseguir com a missão pois você está carregando muitos itens. -",
         "es-ES": "- Tienes demasiados objetos y no puedes continuar con la misión. -"
     },
     "QqxcDA": {
-        "ko-KR": "[밝히리]\n후후.. 그대의 염원을 이 몸이 이루어주었다!\n어서 감사해! 감사하라고!\n날 찬양해!",
         "en-US": "[Valkyrie]\nHehe... I've granted your wish!\nNow, show your gratitude! Say thank you!\nPraise me!",
         "pt-BR": "[Valquíria]\nHuhuhu... Eu realizei o teu desejo!\nAgora agradeça-me! Diga obrigado!\nLouva-me!",
         "es-ES": "[Valquiria]\nJejeje... ¡He hecho realidad tu deseo!\n¡Ahora, demuestra tu gratitud! ¡Dí gracias!\n¡Alábame!"
     },
     "Q6xcDA": {
-        "ko-KR": "[밝히리]\n조건도 안되는 자가 어떻게 날 불렀지?\n그대는 아직 수련이 필요해.\n오늘은 날이 아냐. 다음에 그대의 성장이 벽을 만났을 때 보자고.",
         "en-US": "[Valkyrie]\nWhat? You have no business calling me like this.\nYou still need to train.\nToday is not the day. I'll see you again when you hit your limit on growth.",
         "pt-BR": "[Valquíria]\nComo alguém que nem sequer cumpre os requisitos ousa me chamar?\nVocê ainda precisa de mais treino.\nVenha me procurar novamente quando você atingir o seu limite de crescimento.",
         "es-ES": "[Valquiria]\n¿Cómo es que alguien que ni siquiera cumple con los requisitos me ha llamado?\nAún necesitas más entrenamiento.\nHoy no es el día. Volveremos a vernos cuando alcances tu límite de crecimiento."
     },
     "RKxcDA": {
-        "ko-KR": "[밝히리]\n어머, 얘.\n미안하지만 ^4D4DFF전승^000000한 직업군의 상담만 해주고 있단다.\n^4D4DFF전승^000000을 하고 만나는 게 좋겠어.",
         "en-US": "[Valkyrie]\nOh dear, sweetheart.\nI'm sorry, but I only counsel ^4D4DFFTranscended^000000 classes.\nIt'd be best to ^4D4DFFTranscend^000000 before meeting me.",
         "pt-BR": "[Valquíria]\nNossa, viajante.\nSinto muito, mas só estou atendendo pessoas que já fizeram a ^4D4DFFmudança de classe^000000.\nÉ melhor você fazer a ^4D4DFFmudança^000000 antes de me procurar.",
         "es-ES": "[Valquiria]\nAy, chico.\nLo siento, pero solo atiendo a personas que hayan ^4D4DFFtranscendido^000000.\nLo mejor sería que ^4D4DFFtranscendieras^000000 antes de venir a verme."
     },
     "RaxcDA": {
-        "ko-KR": "[밝히리]\n잠깐 여기 말고, 따라와.\n네 상태는 따로 상담해야겠어.",
         "en-US": "[Valkyrie]\nWait, not here. Follow me.\nYou need a special consultation.",
         "pt-BR": "[Valquíria]\nEspera um pouco, não fique ai, venha comigo.\nPreciso conversar com você sobre o seu caso à parte.",
         "es-ES": "[Valquiria]\nUn momento, no te quedes ahí, sígueme.\nTendremos que hablar de tu situación en privado."
     },
     "RqxcDA": {
-        "ko-KR": "[밝히리]\n누구야? 날 호출한게 그대야?\n내 비록 이런 모양새지만, 그대가 원하는 것 한가지는 들어줄 수 있는 몸이란다.",
         "en-US": "[Valkyrie]\nWho's this? Is it you who called me?\nI may not look it, but I can grant you at least one wish.",
         "pt-BR": "[Valquíria]\nQuem está aí? Você é a pessoa que me chama?\nApesar desta aparência, eu sou capaz de te conceder um desejo.",
         "es-ES": "[Valquiria]\n¿Quién es? ¿Fuiste tú quien me ha llamado?\nAunque tenga este aspecto, soy capaz de concederte lo único que deseas."
     },
     "R6xcDA": {
-        "ko-KR": "[밝히리]\n그대, 직업 승급을 원하지 않아?\n나와 약간의 거래를 하면 그 소원 이루어 줄 수 있다만.",
         "en-US": "[Valkyrie]\nYou want to advance in your career, don't you?\nTell you what. I can help you... for a price, that is.",
         "pt-BR": "[Valquíria]\nVocê não quer avançar de classe?\nSe fizer um pequeno acordo comigo, posso realizar este desejo.",
         "es-ES": "[Valquiria]\n¿Acaso no deseas un ascenso?\nSi haces un pequeño trato conmigo, puedo concederte ese deseo."
     },
     "SKxcDA": {
-        "ko-KR": "꼴이 그게 뭔가?",
         "en-US": "What the hell is that supposed to be?",
         "pt-BR": "Que aparência é essa?",
         "es-ES": "¿Qué aspecto es ese?"
     },
     "SaxcDA": {
-        "ko-KR": "[밝히리]\n그대! 지금 내 꼴이 어떻다고 그러지?\n하하, 주신께서는 이런 자들도 전사라고 발할라로 부르심이야?",
         "en-US": "[Valkyrie]\nYou! What do you think of my state right now?\nHaha, does the Lord really call such clueless warriors like you to Valhalla?",
         "pt-BR": "[Valquíria]\nVocê! O que você está dizendo sobre a minha aparência?\nHaha, será que o Senhor chama até mesmo pessoas assim de guerreiros e as leva para Valhalla?",
         "es-ES": "[Valquiria]\n¡Tú! ¿A qué te refieres con mi estado actual?\nJaja, ¿acaso el Señor llama incluso a guerreros como este al Valhalla?"
     },
     "SqxcDA": {
-        "ko-KR": "[밝히리]\n이런, 하필이면 이런 꼴이었나.\n흠흠.\n이.. 이 모습은 그대의 염원이 온전치 못했기 때문이다!",
         "en-US": "[Valkyrie]\nOh dear, why did it have to be this appearance?\nAhem, ahem!\nThis... this appearance is because your wish was not fully realized!",
         "pt-BR": "[Valquíria]\nNossa, tinha que ser justamente essa aparência?\nHum, hum.\nEssa... essa aparência é porque o teu desejo não estava completo!",
         "es-ES": "[Valquiria]\nVaya, ¿justo tenía que ser esta apariencia?\nEjem, ejem.\n¡Esta... esta apariencia se debe a que tu deseo no estaba completo!"
     },
     "S6xcDA": {
-        "ko-KR": "[밝히리]\n나는 그대의 욕망에 응해 나타난 자!\n날 제대로 보고 싶다면, 그대가 좀 더 성의를 보여 봐라.",
         "en-US": "[Valkyrie]\nI am the one who appeared in response to your desire!\nIf you want to see me properly, then you'd better show some faith.",
         "pt-BR": "[Valquíria]\nEu sou aquela que apareceu para atender ao teu desejo!\nSe queres me ver direito, mostra um pouco mais de sinceridade.",
         "es-ES": "[Valquiria]\n¡Soy quien se ha manifestado para responder a tu deseo!\nSi quieres verme como es debido, demuestra un poco más de sinceridad."
     },
     "TKxcDA": {
-        "ko-KR": "[밝히리]\n어.. 그러니까\n그래! <ITEM>[냥다래 열매]<INFO>6909</INFO></ITEM>, 단 ^4D4DFF100개^000000만 바쳐라.",
         "en-US": "[Valkyrie]\nThat is... erm...\nOh, yes! By paying <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM>, just ^4D4DFF100^000000 pieces.",
         "pt-BR": "[Valquíria]\nÉ... quero dizer...\nIsso mesmo! <ITEM>[MiauMiau]<INFO>6909</INFO></ITEM>, basta oferecer ^4D4DFF100 unidades^000000.",
         "es-ES": "[Valquiria]\nEh... es decir...\n¡Sí! <ITEM>[Miaufruto]<INFO>6909</INFO></ITEM>, solo tienes que ofrecerme ^4D4DFF100 unidades^000000."
     },
     "TaxcDA": {
-        "ko-KR": "[밝히리]\n그것만 내준다면, 내 그대를 이 자리에서 그대가 바라는 직업으로 단숨에 전직 시켜 주겠다.",
         "en-US": "[Valkyrie]\nIf you get it for me, I'll instantly transform you into the job you want.",
         "pt-BR": "[Valquíria]\nSe você conseguir isso para mim, eu vou te transformar na hora, aqui mesmo, na classe que você deseja.",
         "es-ES": "[Valquiria]\nSi me das solo eso, te transformaré inmediatamente a la profesión que deseas aquí mismo."
     },
     "TqxcDA": {
-        "ko-KR": "[밝히리]\n내 모종의 연유로 냥다래 열매라는 것을 모으고 있으니\n그대, 내게 냥다래 열매를 건네고 보다 상위 직업으로 전직을 해라!",
         "en-US": "[Valkyrie]\nI'm collecting Nyangvine for a reason of my own.\nSo, give me some Nyangvine if you want to advance to a higher class!",
         "pt-BR": "[Valquíria]\nPor motivos que não preciso dizer, estou coletando esses MiauMiau.\nEntão, entregue-os para mim e avance para uma classe superior!",
         "es-ES": "[Valquiria]\nEstoy recolectando Maiufrutos por motivos personales.\n¡Así que dame un poco de Miaufruto si quieres ascender a una clase superior!"
     },
     "T6xcDA": {
-        "ko-KR": "[밝히리]\n눈 앞의 벽을 깨고 좀 더 강해지고 싶지?\n어때? 냥다래 내게 주지 않을래?\n그리고 그대는 염원하던 ^4D4DFF4차 전직^000000을 하는거야.",
         "en-US": "[Valkyrie]\nYou want to break through the wall in front of you, don't you?\nThen, why don't you bring me some Nyangvine? Mm?\nYou can advance to the ^4D4DFF4th job^000000 you've been longing for.",
         "pt-BR": "[Valquíria]\nDeseja quebrar a barreira à tua frente e ficar mais forte?\nE aí? Não vai trazer os MiauMiau?\nFaça isso e poderá alcançar a ^4D4DFF4ª classe^000000 que tanto deseja.",
         "es-ES": "[Valquiria]\n¿Quieres romper la barrera que tienes delante y volverte más fuerte?\n¿Qué me dices? ¿Me vas a dar los Miaufrutos?\nY así podrás hacer el ^4D4DFFcambio de 4.º clase^000000 que tanto deseabas."
     },
     "UKxcDA": {
-        "ko-KR": "[밝히리]\n참고로 내가 전직 시켜주면, 직업 길드에서 ^4D4DFF시험을 끝내고 받는 물품은 못받아.^000000\n그건 알고 있겠지?",
         "en-US": "[Valkyrie]\nJust so you know, ^4D4DFFyou won't get a reward, which you can get if you change through the job guild.^000000\nYou know that, don't you?",
         "pt-BR": "[Valquíria]\nSó pra constar, se eu te ajudar na mudança de classe, você não poderá receber os itens que se ganha depois de passar no teste através ^4D4DFFda guilda de classe.^000000\nVocê sabe disso, não é mesmo?",
         "es-ES": "[Valquiria]\nPor cierto, si te ayudo a cambiar de clase, no podrás recibir el objeto que se obtiene al completar la prueba ^4D4DFFen el gremio de clase.^000000\n¿Lo sabes, verdad?"
     },
     "UaxcDA": {
-        "ko-KR": "잠깐 생각 좀 해보고.",
         "en-US": "Let me think for a moment.",
         "pt-BR": "Pensar um pouquinho.",
         "es-ES": "Déjame pensar un momento."
     },
     "UqxcDA": {
-        "ko-KR": "전직, 하자! 벽을 깨자!",
         "en-US": "Let's do it! Let's break the wall!",
         "pt-BR": "Vamos fazer a mudança de classe! Hora de quebrar essa barreira!",
         "es-ES": "¡Vamos! ¡Rompamos esa barrera!"
     },
     "U6xcDA": {
-        "ko-KR": "[밝히리]\n난 곧 사라질텐데...\n그래. 내가 전직 시켜주면, 직업 길드에서 ^4D4DFF시험을 끝내고 받는 물품은 못받아.^000000",
         "en-US": "[Valkyrie]\nI won't be here for long...\nYeah. If I help you change jobs, you won't get the items you receive after finishing the ^4D4DFFexam at the job guild.^000000",
         "pt-BR": "[Valquíria]\nEu vou desaparecer em breve...\nÉ isso mesmo. Se eu fizer a sua mudança de classe, você não receberá os itens que se ganharia ao passar no teste através ^4D4DFFda guilda de classe.^000000",
         "es-ES": "[Valquiria]\nPronto desapareceré...\nBien. Si te ayudo a cambiar de clase, no podrás recibir los objetos que se obtienen al terminar la prueba ^4D4DFFen el gremio de tu clase.^000000"
     },
     "VKxcDA": {
-        "ko-KR": "[밝히리]\n왜냐면, 나는 그대의 벽만 허물어 줄 뿐이니까!\n그럼 좋은 선택 하라고......",
         "en-US": "[Valkyrie]\nBecause I can only tear down the wall in front of you!\nSo choose wisely...",
         "pt-BR": "[Valquíria]\nIsso porque eu posso apenas derrubar a barreira que te limita!\nEntão, pense bem antes de fazer a sua escolha...",
         "es-ES": "[Valquiria]\n¡Porque solo puedo derribar el muro que tienes delante!\nAsí que elige sabiamente..."
     },
     "VaxcDA": {
-        "ko-KR": "[밝히리]\n그럼 일단 ^4D4DFF탈 것에서 내리고^000000 와!\n전직을 대하는 자세가 부족하네, 그대.",
         "en-US": "[Valkyrie]\nThen first ^4D4DFFget off your mount^000000!\nYour attitude towards the Job Change is lacking, you.",
         "pt-BR": "[Valquíria]\nEntão, primeiro ^4D4DFFdesça da tua montaria^000000 e venha aqui!\nTua atitude em relação à mudança de classe deixa a desejar.",
         "es-ES": "[Valquiria]\n¡Entonces, primero ^4D4DFFbájate de tu montura^000000!\nTu actitud hacia el cambio de clase deja mucho que desear."
     },
     "VqxcDA": {
-        "ko-KR": "[밝히리]\n전직하려면 ^4D4DFF사용중인 팔콘이나 카트를 해제^000000 하고 와.\n새 직업으로 바뀌는데, 너무 준비성이 없네.",
         "en-US": "[Valkyrie]\nIf you want to change your job, ^4D4DFFremove your falcon or cart^000000 first.\nYou should know this already.",
         "pt-BR": "[Valquíria]\nPara mudar de classe, primeiro você precisa remover o ^4D4DFFfalcão ou o carrinho que está usando^000000.\nIsso é algo que você já deveria saber.",
         "es-ES": "[Valquiria]\nPara cambiar de clase, ^4D4DFFdesactiva el halcón o la carreta que estés usando^000000 y vuelve.\nVas a cambiar de clase, pero no estás nada preparado."
     },
     "V6xcDA": {
-        "ko-KR": "[밝히리]\n그럼 일단 ^4D4DFF남아있는 스킬 포인트^000000부터 사용하고 와!\n그대, 아직 기본이 안되어 있네.",
         "en-US": "[Valkyrie]\nThen, spend ^4D4DFFall your remaining Skill Points^000000 first.\nDo I really have to tell you everything?",
         "pt-BR": "[Valquíria]\nEntão, primeiro gaste ^4D4DFFos Pontos de Habilidade disponíveis^000000!\nAinda não sabe o básico?",
         "es-ES": "[Valquiria]\n¡Entonces, primero usa ^4D4DFFlos puntos de habilidad^000000 que te quedan y vuelve.!\nAún no dominas lo básico."
     },
     "WKxcDA": {
-        "ko-KR": "[밝히리]\n좋아, 좋아.\n그런데 우리 거래에 뭐가 부족한 게 있네.\n그게 뭘까?",
         "en-US": "[Valkyrie]\nAlright, alright.\nBut something's missing from our deal.\nWhat could it be?",
         "pt-BR": "[Valquíria]\nTudo bem, tudo bem.\nMas estás faltando algo do nosso acordo.\nO que será?",
         "es-ES": "[Valquiria]\nDe acuerdo, de acuerdo.\nPero hay algo que falta en nuestro trato.\n¿Qué será?"
     },
     "WaxcDA": {
-        "ko-KR": "[밝히리]\n후.. 나도 이런짓까지 하면서 먹고 살려고 발버둥 치는데\n그대, 냥다래 열매 갯수는 지켜줘야 하지 않을까.",
         "en-US": "[Valkyrie]\nSigh... I'm doing this to make a living.\nI told you what my price is. You should respect that.",
         "pt-BR": "[Valquíria]\nUfa... Eu também estou me esforçando diariamente, fazendo até esses trabalhos.\nEspero que você cumpra com o nosso acordo e traga a quantidade correta de MiauMiau.",
         "es-ES": "[Valquiria]\nUf... Me cuesta mucho ganarme la vida, incluso recurriendo a cosas como esta.\nAsí que, dime... ¿no crees que deberías respetar el número de Miaufrutos?"
     },
     "WqxcDA": {
-        "ko-KR": "[밝히리]\n우리 둘 다 쉽게 쉽게 가고 싶은거잖아.\n그럼 냥다래 열매 100개를 꼭 가지고 오도록.",
         "en-US": "[Valkyrie]\nWe both want to get this done easily, right?\nThen, please bring me exactly 100 Nyangvine.",
         "pt-BR": "[Valquíria]\nAmbos queremos que seja fácil, né?\nEntão, não esqueça de trazer 100 MiauMiau.",
         "es-ES": "[Valquiria]\nLos dos queremos que esto sea fácil, ¿no?\nEntonces, asegúrate de traer 100 Miaufrutos."
     },
     "W6xcDA": {
-        "ko-KR": "[밝히리]\n좋아, 준비는 완벽하네!!\n내가 사람 보는 눈이 좀 있지.",
         "en-US": "[Valkyrie]\nAlright, everything's ready!\nI knew you were reliable.",
         "pt-BR": "[Valquíria]\nTudo bem, está tudo pronto!!\nSabia que podia contar com você.",
         "es-ES": "[Valquiria]\n¡Bien, los preparativos son perfectos!\nTengo buen ojo para juzgar a la gente."
     },
     "XKxcDA": {
-        "ko-KR": "[밝히리]\n후, 냥다래 열매 몇개를 모아야 집을 사려나.\n요즘 사무실 임대료 너무 비싼거 아니니?",
         "en-US": "[Valkyrie]\nUgh, how many Nyangvine do I need to buy my own place?\nSeriously, places are way too expensive to rent nowadays, don't you think?",
         "pt-BR": "[Valquíria]\nUfa, quantos MiauMiau vou precisar juntar pra comprar uma casa?\nO aluguel está muito caro hoje em dia, não acha?",
         "es-ES": "[Valquiria]\nUf, me pregunto cuántos Miaufrutos tendré que recolectar para comprar una casa?\n¿No te parece que el alquiler de las oficinas está muy caro últimamente?"
     },
     "XaxcDA": {
-        "ko-KR": "[밝히리]\n자 눈 크게 뜨고 잘 봐.\n내가 뾰로롱 하고 그대가 원하는 직업으로 변신시켜 줄테니.",
         "en-US": "[Valkyrie]\nAlright then, keep your eyes wide open and watch.\nI'll transform you into the job you want in a puff of smoke!",
         "pt-BR": "[Valquíria]\nPronto, abra bem os olhos e olhe com atenção.\nEm um passe de mágica te transformarei na classe que tanto deseja.",
         "es-ES": "[Valquiria]\nAhora, abre bien los ojos y observa con atención.\nTe transformaré mágicamente en la clase que deseas."
     },
     "XqxcDA": {
-        "ko-KR": "[밝히리]\n그대가 염원하던 드래곤나이트가 되었어!\n전직 축하해!",
         "en-US": "[Valkyrie]\nYou've become the Dragon Knight you've always wanted!\nCongrats on your job change!",
         "pt-BR": "[Valquíria]\nTu te tornastes o Cavaleiro Draconiano que tanto desejava!\nParabéns pela mudança de classe!",
         "es-ES": "[Valquiria]\n¡Te has convertido en el Caballero Dragón que tanto deseabas!\n¡Felicidades por el cambio de clase!"
     },
     "X6xcDA": {
-        "ko-KR": "[밝히리]\n그리고 이 몸을 찬양하라!",
         "en-US": "[Valkyrie]\nAnd now, praise this body!",
         "pt-BR": "[Valquíria]\nPor isso, agradeça-me!",
         "es-ES": "[Valquiria]\n¡Alaba a este gran ser!"
     },
     "YKxcDA": {
-        "ko-KR": "[밝히리]\n그대가 염원하던 쉐도우크로스가 되었어!\n전직 축하해!",
         "en-US": "[Valkyrie]\nYou've become the Shadow Cross you longed for!\nCongratulations on your class change!",
         "pt-BR": "[Valquíria]\nTu te tornastes o Executor que tanto desejava!\nParabéns pela mudança de classe!",
         "es-ES": "[Valquiria]\n¡Te has convertido en el Ejecutor que tanto deseabas!\n¡Felicidades por el cambio de clase!"
     },
     "YaxcDA": {
-        "ko-KR": "[밝히리]\n그대가 염원하던 카디날이 되었어!\n전직 축하해!",
         "en-US": "[Valkyrie]\nYou've become the Cardinal you've longed for!\nCongratulations on your class change!",
         "pt-BR": "[Valquíria]\nTu te tornastes o Cardeal que tanto desejava!\nParabéns pela mudança de classe!",
         "es-ES": "[Valquiria]\n¡Te has convertido en el Cardenal que tanto deseabas!\n¡Felicidades por el cambio de clase!"
     },
     "YqxcDA": {
-        "ko-KR": "[밝히리]\n그대가 염원하던 윈드호크가 되었어!\n전직 축하해!",
         "en-US": "[Valkyrie]\nYou've become the Wind Hawk you've always wanted!\nCongrats on your job change!",
         "pt-BR": "[Valquíria]\nTu te tornastes o Falcão do Vento que tanto desejava!\nParabéns pela mudança de classe!",
         "es-ES": "[Valquiria]\n¡Te has convertido en el Cazavientos que tanto deseabas!\n¡Felicidades por el cambio de clase!"
     },
     "Y6xcDA": {
-        "ko-KR": "[밝히리]\n그대가 염원하던 아크메이지가 되었어!\n전직 축하해!",
         "en-US": "[Valkyrie]\nYou've become the Arch Mage you've always desired!\nCongratulations on your class change!",
         "pt-BR": "[Valquíria]\nTu te tornastes o Magus que tanto desejava!\nParabéns pela mudança de classe!",
         "es-ES": "[Valquiria]\n¡Te has convertido en el Archimago que tanto deseabas!\n¡Felicidades por el cambio de clase!"
     },
     "ZKxcDA": {
-        "ko-KR": "[밝히리]\n그대가 염원하던 마이스터가 되었어!\n전직 축하해!",
         "en-US": "[Valkyrie]\nYou've become the Meister you've always longed to be!\nCongratulations on your promotion!",
         "pt-BR": "[Valquíria]\nTu te tornastes o Engenheiro que tanto desejava!\nParabéns pela mudança de classe!",
         "es-ES": "[Valquiria]\n¡Te has convertido en el Artífice que tanto deseabas!\n¡Felicidades por el cambio de clase!"
     },
     "ZaxcDA": {
-        "ko-KR": "[밝히리]\n그대가 염원하던 임페리얼가드가 되었어!\n전직 축하해!",
         "en-US": "[Valkyrie]\nYou've become the Imperial Guard you've always wanted to be!\nCongrats on your job change!",
         "pt-BR": "[Valquíria]\nTu te tornastes o Guardião Imperial que tanto desejava!\nParabéns pela mudança de classe!",
         "es-ES": "[Valquiria]\n¡Te has convertido en el Guardia Imperial que tanto deseabas!\n¡Felicidades por el cambio de clase!"
     },
     "ZqxcDA": {
-        "ko-KR": "[밝히리]\n그대가 염원하던 어비스체이서가 되었어!\n전직 축하해!",
         "en-US": "[Valkyrie]\nYou've become the Abyss Chaser you've always wanted!\nCongrats on your job change!",
         "pt-BR": "[Valquíria]\nTu te tornastes o Mandraque que tanto desejava!\nParabéns pela mudança de classe!",
         "es-ES": "[Valquiria]\n¡Te has convertido en el Perseguidor Abisal que tanto deseabas!\n¡Felicidades por el cambio de clase!"
     },
     "Z6xcDA": {
-        "ko-KR": "[밝히리]\n그대가 염원하던 인퀴지터가 되었어!\n전직 축하해!",
         "en-US": "[Valkyrie]\nYou've become the Inquisitor you've always desired!\nCongratulations on your class change!",
         "pt-BR": "[Valquíria]\nTu te tornastes o Inquisidor que tanto desejava!\nParabéns pela mudança de classe!",
         "es-ES": "[Valquiria]\n¡Te has convertido en el Inquisidor que tanto deseabas!\n¡Felicidades por el cambio de clase!"
     },
     "aKxcDA": {
-        "ko-KR": "[밝히리]\n그대가 염원하던 엘레멘탈 마스터가 되었어!\n전직 축하해!",
         "en-US": "[Valkyrie]\nYou've become the Elemental Master you've always wanted to be!\nCongrats on your class change!",
         "pt-BR": "[Valquíria]\nTu te tornastes o Elementalista que tanto desejava!\nParabéns pela mudança de classe!",
         "es-ES": "[Valquiria]\n¡Te has convertido en el Elementalista que tanto deseabas!\n¡Felicidades por el cambio de clase!"
     },
     "aaxcDA": {
-        "ko-KR": "[밝히리]\n그대가 염원하던 트루바두르가 되었어!\n전직 축하해!",
         "en-US": "[Valkyrie]\nYou've become the Troubadour you've always wanted to be!\nCongratulations on your class change!",
         "pt-BR": "[Valquíria]\nTu te tornastes o Maestro que tanto desejava!\nParabéns pela mudança de classe!",
         "es-ES": "[Valquiria]\n¡Te has convertido en el Maestro que tanto deseabas!\n¡Felicidades por el cambio de clase!"
     },
     "aqxcDA": {
-        "ko-KR": "[밝히리]\n그대가 염원하던 트루베르가 되었어!\n전직 축하해!",
         "en-US": "[Valkyrie]\nYou've become the Troubadour you've always wanted to be!\nCongrats on your job change!",
         "pt-BR": "[Valquíria]\nTu te tornastes a Diva que tanto desejava!\nParabéns pela mudança de classe!",
         "es-ES": "[Valquiria]\n¡Te has convertido en la Diva que tanto deseabas!\n¡Felicidades por el cambio de clase!"
     },
     "a6xcDA": {
-        "ko-KR": "[밝히리]\n그대가 염원하던 바이올로가 되었어!\n전직 축하해!",
         "en-US": "[Valkyrie]\nYou've become the Biolo you've always wanted to be!\nCongratulations on your class change!",
         "pt-BR": "[Valquíria]\nTu te tornastes o Cientista que tanto desejava!\nParabéns pela mudança de classe!",
         "es-ES": "[Valquiria]\n¡Te has convertido en el Biólogo que tanto deseabas!\n¡Felicidades por el cambio de clase!"
     },
     "bKxcDA": {
-        "ko-KR": "밝히리의 속삭임",
         "en-US": "Valkyrie's Whisper",
         "pt-BR": "Sussurro de Valquíria",
         "es-ES": "Susurro de la Valquiria"
     },
     "baxcDA": {
-        "ko-KR": "[밝히리의 속삭임]\n보다 높은 성장으로의 갈망이 느껴진다아...\n그대의 소원을 들어주겠노니...\n나, 밝히리를 믿는가아...",
         "en-US": "[Valkyrie's Whisper]\nI can feel your desire to reach greater heights...\nI can grant you your wish...\nDo you believe in me, Valkyrie...?",
         "pt-BR": "[Sussurro de Valquíria]\nSinto o teu desejo por um crescimento ainda maior...\nVou realizar o teu desejo...\nTu acreditas nesta Valquíria?",
         "es-ES": "[Susurro de la Valquiria]\nSiento tu anhelo por un crecimiento aún mayor...\nConcederé tu deseo...\n¿Confías en mí, Valquiria?..."
     },
     "bqxcDA": {
-        "ko-KR": "믿습니다!",
         "en-US": "I believe!",
         "pt-BR": "Acredito!",
         "es-ES": "¡Sí, confío en ti!"
     },
     "b6xcDA": {
-        "ko-KR": "무슨 소리지?",
         "en-US": "What are you talking about?",
         "pt-BR": "Do que está falando?",
         "es-ES": "¿Qué es ese ruido?"
     },
     "cKxcDA": {
-        "ko-KR": "[밝히리의 속삭임]\n네게는 통하지 않는 것인가아....",
         "en-US": "[Valkyrie's Whisper]\nDoesn't my enchanting voice work on you...?",
         "pt-BR": "[Sussurro de Valquíria]\nSerá que isto não funciona com você?",
         "es-ES": "[Susurro de la Valquiria]\n¿Acaso esto no funciona contigo?"
     },
     "caxcDA": {
-        "ko-KR": "[밝히리의 속삭임]\n네게는 ^4D4DFF드래곤나이트^000000의 미래가 보인다아...\n만약 성장의 한계를 느낀다면\n이 곳을 다시 찾아와 나 밝히리를 불러내리라아....",
         "en-US": "[Valkyrie's Whisper]\nI can see your future as a ^4D4DFFDragon Knight^000000...\nIf you have a hard time breaking your limit,\ncome here and call me, Valkyrie, again....",
         "pt-BR": "[Sussurro de Valquíria]\nPosso ver seu futuro como ^4D4DFFCavaleiro Draconiano^000000\nSe sentires que atingiste o limite do teu crescimento,\nvolta a este lugar e invoca-me...",
         "es-ES": "[Susurro de la Valquiria]\nVeo en ti el futuro de ^4D4DFFCaballero Dragón^000000...\nSi sientes que has llegado al límite de tu crecimiento,\nregresa a este lugar y llámame, Valquiria..."
     },
     "cqxcDA": {
-        "ko-KR": "[밝히리의 속삭임]\n네게는 ^4D4DFF쉐도우크로스^000000의 미래가 보인다아...\n만약 성장의 한계를 느낀다면\n이 곳을 다시 찾아와 나 밝히리를 불러내리라아....",
         "en-US": "[Valkyrie's Whisper]\nI see your future as a ^4D4DFFShadow Cross^000000...\nIf you feel you've hit a wall in your growth,\ncome back here and call me, Valkyrie....",
         "pt-BR": "[Sussurro de Valquíria]\nPosso ver seu futuro como ^4D4DFFExecutor^000000...\nSe sentires que atingiste o limite do teu crescimento,\nvolta a este lugar e invoca-me...",
         "es-ES": "[Susurro de la Valquiria]\nVeo en ti el futuro de ^4D4DFFEjecutor^000000...\nSi sientes que has llegado al límite de tu crecimiento,\nregresa a este lugar y llámame, Valquiria..."
     },
     "c6xcDA": {
-        "ko-KR": "[밝히리의 속삭임]\n네게는 ^4D4DFF아크메이지^000000의 미래가 보인다아...\n만약 성장의 한계를 느낀다면\n이 곳을 다시 찾아와 나 밝히리를 불러내리라아....",
         "en-US": "[Valkyrie's Whisper]\nI see your future as an ^4D4DFFArch Mage^000000...\nIf you feel you've hit a wall in your growth,\ncome back here and call upon me, Valkyrie....",
         "pt-BR": "[Sussurro de Valquíria]\nPosso ver seu futuro como ^4D4DFFMagus^000000...\nSe sentires que atingiste o limite do teu crescimento,\nvolta a este lugar e invoca-me...",
         "es-ES": "[Susurro de la Valquiria]\nVeo en ti el futuro de ^4D4DFFArchimago^000000...\nSi sientes que has llegado al límite de tu crecimiento,\nregresa a este lugar y llámame, Valquiria..."
     },
     "dKxcDA": {
-        "ko-KR": "[밝히리의 속삭임]\n네게는 ^4D4DFF마이스터^000000의 미래가 보인다아...\n만약 성장의 한계를 느낀다면\n이 곳을 다시 찾아와 나 밝히리를 불러내리라아....",
         "en-US": "[Valkyrie's Whisper]\nI can see your future as a ^4D4DFFMeister^000000...\nIf you feel you've hit a growth limit,\ncome back here and call me, Valkyrie....",
         "pt-BR": "[Sussurro de Valquíria]\nPosso ver seu futuro como ^4D4DFFEngenheiro^000000...\nSe sentires que atingiste o limite do teu crescimento,\nvolta a este lugar e invoca-me...",
         "es-ES": "[Susurro de la Valquiria]\nVeo en ti el futuro de ^4D4DFFArtífice^000000...\nSi sientes que has llegado al límite de tu crecimiento,\nregresa a este lugar y llámame, Valquiria..."
     },
     "daxcDA": {
-        "ko-KR": "[밝히리의 속삭임]\n네게는 ^4D4DFF윈드호크^000000의 미래가 보인다아...\n만약 성장의 한계를 느낀다면\n이 곳을 다시 찾아와 나 밝히리를 불러내리라아....",
         "en-US": "[Valkyrie's Whisper]\nI can see your future as a ^4D4DFFWind Hawk^000000...\nIf you feel you've hit a growth limit,\ncome back here and call me, Valkyrie....",
         "pt-BR": "[Sussurro de Valquíria]\nPosso ver seu futuro como ^4D4DFFFalcão dos Ventos^000000...\nSe sentires que atingiste o limite do teu crescimento,\nvolta a este lugar e invoca-me...",
         "es-ES": "[Susurro de la Valquiria]\nVeo en ti el futuro de ^4D4DFFCazavientos^000000...\nSi sientes que has llegado al límite de tu crecimiento,\nregresa a este lugar y llámame, Valquiria..."
     },
     "dqxcDA": {
-        "ko-KR": "[밝히리의 속삭임]\n네게는 ^4D4DFF임페리얼가드^000000의 미래가 보인다아...\n만약 성장의 한계를 느낀다면\n이 곳을 다시 찾아와 나 밝히리를 불러내리라아....",
         "en-US": "[Valkyrie's Whisper]\nI see your future as an ^4D4DFFImperial Guard^000000...\nIf you feel you've hit a wall in your growth,\ncome back here and call upon me, Valkyrie....",
         "pt-BR": "[Sussurro de Valquíria]\nPosso ver seu futuro como ^4D4DFFGuardião Imperial^000000...\nSe sentires que atingiste o teu limite de crescimento,\nvolta a este lugar e invoca-me...",
         "es-ES": "[Susurro de la Valquiria]\nVeo en ti el futuro de ^4D4DFFGuardia Imperial^000000...\nSi sientes que has llegado al límite de tu crecimiento,\nregresa a este lugar y llámame, Valquiria..."
     },
     "d6xcDA": {
-        "ko-KR": "[밝히리의 속삭임]\n네게는 ^4D4DFF어비스체이서^000000의 미래가 보인다아...\n만약 성장의 한계를 느낀다면\n이 곳을 다시 찾아와 나 밝히리를 불러내리라아....",
         "en-US": "[Valkyrie's Whisper]\nI see your future as an ^4D4DFFAbyss Chaser^000000...\nIf you feel you've hit a wall in your growth,\ncome back here and call me, Valkyrie....",
         "pt-BR": "[Sussurro de Valquíria]\nPosso ver seu futuro como ^4D4DFFMandraque^000000...\nSe sentires que atingiste o teu limite de crescimento,\nvolta a este lugar e invoca-me...",
         "es-ES": "[Susurro de la Valquiria]\nVeo en ti el futuro de ^4D4DFFPerseguidor Abisal^000000...\nSi sientes que has llegado al límite de tu crecimiento,\nregresa a este lugar y llámame, Valquiria..."
     },
     "eKxcDA": {
-        "ko-KR": "[밝히리의 속삭임]\n네게는 ^4D4DFF인퀴지터^000000의 미래가 보인다아...\n만약 성장의 한계를 느낀다면\n이 곳을 다시 찾아와 나 밝히리를 불러내리라아....",
         "en-US": "[Valkyrie's Whisper]\nI see your future as an ^4D4DFFInquisitor^000000...\nIf you feel you've hit a wall in your growth,\ncome back here and call me, Valkyrie....",
         "pt-BR": "[Sussurro de Valquíria]\nPosso ver seu futuro como ^4D4DFFInquisidor^000000...\nSe sentires que atingiste o limite do teu crescimento,\nvolta a este lugar e invoca-me...",
         "es-ES": "[Susurro de la Valquiria]\nVeo en ti el futuro de ^4D4DFFInquisidor^000000...\nSi sientes que has llegado al límite de tu crecimiento,\nregresa a este lugar y llámame, Valquiria..."
     },
     "eaxcDA": {
-        "ko-KR": "[밝히리의 속삭임]\n네게는 ^4D4DFF엘레멘탈 마스터^000000의 미래가 보인다아...\n만약 성장의 한계를 느낀다면\n이 곳을 다시 찾아와 나 밝히리를 불러내리라아....",
         "en-US": "[Valkyrie's Whisper]\nI see your future as an ^4D4DFFElemental Master^000000...\nIf you feel you've hit a growth limit,\ncome back here and call me, Valkyrie....",
         "pt-BR": "[Sussurro de Valquíria]\nPosso ver seu futuro como ^4D4DFFElementalista^000000...\nSe sentires que atingiste o limite do teu crescimento,\nvolta a este lugar e invoca-me...",
         "es-ES": "[Susurro de la Valquiria]\nVeo en ti el futuro de ^4D4DFFElementalista^000000...\nSi sientes que has llegado al límite de tu crecimiento,\nregresa a este lugar y llámame, Valquiria..."
     },
     "eqxcDA": {
-        "ko-KR": "[밝히리의 속삭임]\n네게는 ^4D4DFF바이올로^000000의 미래가 보인다아...\n만약 성장의 한계를 느낀다면\n이 곳을 다시 찾아와 나 밝히리를 불러내리라아....",
         "en-US": "[Valkyrie's Whisper]\nI see your future as a ^4D4DFFBiolo^000000...\nIf you feel you've hit a growth limit,\ncome back here and call me, Valkyrie....",
         "pt-BR": "[Sussurro de Valquíria]\nPosso ver seu futuro como ^4D4DFFCientista^000000...\nSe sentires que atingiste o limite do teu crescimento,\nvolta a este lugar e invoca-me...",
         "es-ES": "[Susurro de la Valquiria]\nVeo en ti el futuro de ^4D4DFFBiólogo^000000...\nSi sientes que has llegado al límite de tu crecimiento,\nregresa a este lugar y llámame, Valquiria..."
     },
     "e6xcDA": {
-        "ko-KR": "[밝히리의 속삭임]\n네게는 ^4D4DFF트루베르^000000의 미래가 보인다아...\n만약 성장의 한계를 느낀다면\n이 곳을 다시 찾아와 나 밝히리를 불러내리라아....",
         "en-US": "[Valkyrie's Whisper]\nI see your future as a ^4D4DFFTrouvere^000000...\nIf you feel you've hit a wall in your growth,\ncome back here and call me, Valkyrie....",
         "pt-BR": "[Sussurro de Valquíria]\nPosso ver seu futuro como ^4D4DFFDiva^000000...\nSe sentires que atingiste o limite do teu crescimento,\nvolta a este lugar e invoca-me...",
         "es-ES": "[Susurro de la Valquiria]\nVeo en ti el futuro de ^4D4DFFDiva^000000...\nSi sientes que has llegado al límite de tu crecimiento,\nregresa a este lugar y llámame, Valquiria..."
     },
     "fKxcDA": {
-        "ko-KR": "[밝히리의 속삭임]\n네게는 ^4D4DFF트루바두르^000000의 미래가 보인다아...\n만약 성장의 한계를 느낀다면\n이 곳을 다시 찾아와 나 밝히리를 불러내리라아....",
         "en-US": "[Valkyrie's Whisper]\nI can see your future as a ^4D4DFFTroubadour^000000...\nIf you feel you've hit a wall in your growth,\ncome back here and call me, Valkyrie....",
         "pt-BR": "[Sussurro de Valquíria]\nPosso ver seu futuro como ^4D4DFFMaestro^000000...\nSe sentires que atingiste o limite do teu crescimento,\nvolta a este lugar e invoca-me...",
         "es-ES": "[Susurro de la Valquiria]\nVeo en ti el futuro de ^4D4DFFMaestro^000000...\nSi sientes que has llegado al límite de tu crecimiento,\nregresa a este lugar y llámame, Valquiria..."
     },
     "faxcDA": {
-        "ko-KR": "[밝히리의 속삭임]\n네게는 ^4D4DFF카디날^000000의 미래가 보인다아...\n만약 성장의 한계를 느낀다면\n이 곳을 다시 찾아와 나 밝히리를 불러내리라아....",
         "en-US": "[Valkyrie's Whisper]\nI can see your future as a ^4D4DFFCardinal^000000...\nIf you feel you've hit a wall in your growth,\ncome back here and call me, Valkyrie....",
         "pt-BR": "[Sussurro de Valquíria]\nPosso ver seu futuro como ^4D4DFFCardeal^000000...\nSe sentires que atingiste o limite do teu crescimento,\nvolta a este lugar e invoca-me...",
         "es-ES": "[Susurro de la Valquiria]\nVeo en ti el futuro de ^4D4DFFCardenal^000000...\nSi sientes que has llegado al límite de tu crecimiento,\nregresa a este lugar y llámame, Valquiria..."

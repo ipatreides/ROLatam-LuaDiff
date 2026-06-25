@@ -3725,13 +3725,13 @@ tbl = {
 		{
 			id = 25302,
 			prob = 2,
-			name = "Pedra de Ataque Duplo",
+			name = "Pedra de Ataque Duplo (Capa)",
 			group = 1
 		},
 		{
 			id = 25303,
 			prob = 2,
-			name = "Pedra de Mortal 4",
+			name = "Pedra de Mortal 4 (Capa)",
 			group = 1
 		},
 		{
@@ -3953,13 +3953,13 @@ tbl = {
 		{
 			id = 25304,
 			prob = 37,
-			name = "Pedra de Mortal 2",
+			name = "Pedra de Mortal 2 (Topo)",
 			group = 1
 		},
 		{
 			id = 25305,
 			prob = 37,
-			name = "Pedra de Mortal 3",
+			name = "Pedra de Mortal 3 (Baixo)",
 			group = 1
 		}
 	},
@@ -4323,7 +4323,7 @@ tbl = {
 		{
 			id = 300130,
 			prob = 130,
-			name = "Carta Po",
+			name = "Carta Poe",
 			group = 6
 		},
 		{
@@ -32079,13 +32079,13 @@ tbl = {
 		{
 			id = 25302,
 			prob = 2,
-			name = "Pedra de Ataque Duplo",
+			name = "Pedra de Ataque Duplo (Capa)",
 			group = 1
 		},
 		{
 			id = 25303,
 			prob = 2,
-			name = "Pedra de Mortal 4",
+			name = "Pedra de Mortal 4 (Capa)",
 			group = 1
 		},
 		{
@@ -32307,13 +32307,13 @@ tbl = {
 		{
 			id = 25304,
 			prob = 38,
-			name = "Pedra de Mortal 2",
+			name = "Pedra de Mortal 2 (Topo)",
 			group = 1
 		},
 		{
 			id = 25305,
 			prob = 38,
-			name = "Pedra de Mortal 3",
+			name = "Pedra de Mortal 3 (Baixo)",
 			group = 1
 		}
 	},
@@ -33285,13 +33285,13 @@ tbl = {
 		{
 			id = 25302,
 			prob = 2,
-			name = "Pedra de Ataque Duplo",
+			name = "Pedra de Ataque Duplo (Capa)",
 			group = 1
 		},
 		{
 			id = 25303,
 			prob = 2,
-			name = "Pedra de Mortal 4",
+			name = "Pedra de Mortal 4 (Capa)",
 			group = 1
 		},
 		{
@@ -33513,13 +33513,13 @@ tbl = {
 		{
 			id = 25304,
 			prob = 37,
-			name = "Pedra de Mortal 2",
+			name = "Pedra de Mortal 2 (Topo)",
 			group = 1
 		},
 		{
 			id = 25305,
 			prob = 37,
-			name = "Pedra de Mortal 3",
+			name = "Pedra de Mortal 3 (Baixo)",
 			group = 1
 		}
 	},
@@ -33815,13 +33815,13 @@ tbl = {
 		{
 			id = 25302,
 			prob = 2,
-			name = "Pedra de Ataque Duplo",
+			name = "Pedra de Ataque Duplo (Capa)",
 			group = 6
 		},
 		{
 			id = 25303,
 			prob = 2,
-			name = "Pedra de Mortal 4",
+			name = "Pedra de Mortal 4 (Capa)",
 			group = 6
 		},
 		{
@@ -34043,13 +34043,13 @@ tbl = {
 		{
 			id = 25304,
 			prob = 37,
-			name = "Pedra de Mortal 2",
+			name = "Pedra de Mortal 2 (Topo)",
 			group = 6
 		},
 		{
 			id = 25305,
 			prob = 37,
-			name = "Pedra de Mortal 3",
+			name = "Pedra de Mortal 3 (Baixo)",
 			group = 6
 		}
 	},
@@ -34899,13 +34899,13 @@ tbl = {
 		{
 			id = 25302,
 			prob = 2,
-			name = "Pedra de Ataque Duplo",
+			name = "Pedra de Ataque Duplo (Capa)",
 			group = 6
 		},
 		{
 			id = 25303,
 			prob = 2,
-			name = "Pedra de Mortal 4",
+			name = "Pedra de Mortal 4 (Capa)",
 			group = 6
 		},
 		{
@@ -35127,13 +35127,13 @@ tbl = {
 		{
 			id = 25304,
 			prob = 37,
-			name = "Pedra de Mortal 2",
+			name = "Pedra de Mortal 2 (Topo)",
 			group = 6
 		},
 		{
 			id = 25305,
 			prob = 37,
-			name = "Pedra de Mortal 3",
+			name = "Pedra de Mortal 3 (Baixo)",
 			group = 6
 		}
 	},
@@ -36299,13 +36299,13 @@ tbl = {
 		{
 			id = 25302,
 			prob = 2,
-			name = "Pedra de Ataque Duplo",
+			name = "Pedra de Ataque Duplo (Capa)",
 			group = 6
 		},
 		{
 			id = 25303,
 			prob = 2,
-			name = "Pedra de Mortal 4",
+			name = "Pedra de Mortal 4 (Capa)",
 			group = 6
 		},
 		{
@@ -36527,13 +36527,13 @@ tbl = {
 		{
 			id = 25304,
 			prob = 37,
-			name = "Pedra de Mortal 2",
+			name = "Pedra de Mortal 2 (Topo)",
 			group = 6
 		},
 		{
 			id = 25305,
 			prob = 37,
-			name = "Pedra de Mortal 3",
+			name = "Pedra de Mortal 3 (Baixo)",
 			group = 6
 		}
 	},
@@ -38753,13 +38753,13 @@ tbl = {
 		{
 			id = 25302,
 			prob = 2,
-			name = "Pedra de Ataque Duplo",
+			name = "Pedra de Ataque Duplo (Capa)",
 			group = 1
 		},
 		{
 			id = 25303,
 			prob = 2,
-			name = "Pedra de Mortal 4",
+			name = "Pedra de Mortal 4 (Capa)",
 			group = 1
 		},
 		{
@@ -39507,7 +39507,7 @@ tbl = {
 		{
 			id = 1000283,
 			prob = 1,
-			name = "[Evento] Passe do Episódio 16",
+			name = "(Evento)Bilhete de Conclusão do Ep.16",
 			group = 0
 		},
 		{
@@ -40029,13 +40029,13 @@ tbl = {
 		{
 			id = 25302,
 			prob = 2,
-			name = "Pedra de Ataque Duplo",
+			name = "Pedra de Ataque Duplo (Capa)",
 			group = 1
 		},
 		{
 			id = 25303,
 			prob = 2,
-			name = "Pedra de Mortal 4",
+			name = "Pedra de Mortal 4 (Capa)",
 			group = 1
 		},
 		{
@@ -40257,13 +40257,13 @@ tbl = {
 		{
 			id = 25304,
 			prob = 37,
-			name = "Pedra de Mortal 2",
+			name = "Pedra de Mortal 2 (Topo)",
 			group = 1
 		},
 		{
 			id = 25305,
 			prob = 37,
-			name = "Pedra de Mortal 3",
+			name = "Pedra de Mortal 3 (Baixo)",
 			group = 1
 		}
 	},
@@ -43237,13 +43237,13 @@ tbl = {
 		{
 			id = 25302,
 			prob = 2,
-			name = "Pedra de Ataque Duplo",
+			name = "Pedra de Ataque Duplo (Capa)",
 			group = 6
 		},
 		{
 			id = 25303,
 			prob = 2,
-			name = "Pedra de Mortal 4",
+			name = "Pedra de Mortal 4 (Capa)",
 			group = 6
 		},
 		{
@@ -43465,13 +43465,13 @@ tbl = {
 		{
 			id = 25304,
 			prob = 37,
-			name = "Pedra de Mortal 2",
+			name = "Pedra de Mortal 2 (Topo)",
 			group = 6
 		},
 		{
 			id = 25305,
 			prob = 37,
-			name = "Pedra de Mortal 3",
+			name = "Pedra de Mortal 3 (Baixo)",
 			group = 6
 		}
 	},
@@ -43479,13 +43479,13 @@ tbl = {
 		{
 			id = 25302,
 			prob = 2,
-			name = "Pedra de Ataque Duplo",
+			name = "Pedra de Ataque Duplo (Capa)",
 			group = 6
 		},
 		{
 			id = 25303,
 			prob = 2,
-			name = "Pedra de Mortal 4",
+			name = "Pedra de Mortal 4 (Capa)",
 			group = 6
 		},
 		{
@@ -43707,13 +43707,13 @@ tbl = {
 		{
 			id = 25304,
 			prob = 37,
-			name = "Pedra de Mortal 2",
+			name = "Pedra de Mortal 2 (Topo)",
 			group = 6
 		},
 		{
 			id = 25305,
 			prob = 37,
-			name = "Pedra de Mortal 3",
+			name = "Pedra de Mortal 3 (Baixo)",
 			group = 6
 		}
 	},
@@ -44969,13 +44969,13 @@ tbl = {
 		{
 			id = 25302,
 			prob = 2,
-			name = "Pedra de Ataque Duplo",
+			name = "Pedra de Ataque Duplo (Capa)",
 			group = 6
 		},
 		{
 			id = 25303,
 			prob = 2,
-			name = "Pedra de Mortal 4",
+			name = "Pedra de Mortal 4 (Capa)",
 			group = 6
 		},
 		{
@@ -45173,13 +45173,13 @@ tbl = {
 		{
 			id = 25304,
 			prob = 38,
-			name = "Pedra de Mortal 2",
+			name = "Pedra de Mortal 2 (Topo)",
 			group = 6
 		},
 		{
 			id = 25305,
 			prob = 38,
-			name = "Pedra de Mortal 3",
+			name = "Pedra de Mortal 3 (Baixo)",
 			group = 6
 		}
 	},
@@ -45875,6 +45875,476 @@ tbl = {
 			prob = 1,
 			name = "Colar Sombrio Mágico",
 			group = 0
+		}
+	},
+	[100655] = {
+		{
+			id = 1000475,
+			prob = 10,
+			name = "Esboço de Bastarda",
+			group = 1
+		},
+		{
+			id = 1000476,
+			prob = 10,
+			name = "Esboço de Arpão",
+			group = 1
+		},
+		{
+			id = 1000477,
+			prob = 10,
+			name = "Esboço de Espada",
+			group = 1
+		},
+		{
+			id = 1000478,
+			prob = 10,
+			name = "Esboço de Lança",
+			group = 1
+		},
+		{
+			id = 1000479,
+			prob = 10,
+			name = "Esboço de Lábris",
+			group = 1
+		},
+		{
+			id = 1000480,
+			prob = 10,
+			name = "Esboço de Clava",
+			group = 1
+		},
+		{
+			id = 1000481,
+			prob = 10,
+			name = "Esboço de Rapieira",
+			group = 1
+		},
+		{
+			id = 1000482,
+			prob = 10,
+			name = "Esboço de Maça",
+			group = 1
+		},
+		{
+			id = 1000483,
+			prob = 10,
+			name = "Esboço de Chakram",
+			group = 1
+		},
+		{
+			id = 1000484,
+			prob = 10,
+			name = "Esboço de Katar",
+			group = 1
+		},
+		{
+			id = 1000485,
+			prob = 10,
+			name = "Esboço de Adaga",
+			group = 1
+		},
+		{
+			id = 1000486,
+			prob = 10,
+			name = "Esboço de Besta",
+			group = 1
+		},
+		{
+			id = 1000487,
+			prob = 10,
+			name = "Esboço de Bastão",
+			group = 1
+		},
+		{
+			id = 1000488,
+			prob = 10,
+			name = "Esboço de Báculo",
+			group = 1
+		},
+		{
+			id = 1000489,
+			prob = 10,
+			name = "Esboço de Grimório",
+			group = 1
+		},
+		{
+			id = 1000490,
+			prob = 10,
+			name = "Esboço de Livro",
+			group = 1
+		},
+		{
+			id = 1000491,
+			prob = 10,
+			name = "Esboço de Bíblia",
+			group = 1
+		},
+		{
+			id = 1000492,
+			prob = 10,
+			name = "Esboço de Varinha",
+			group = 1
+		},
+		{
+			id = 1000493,
+			prob = 10,
+			name = "Esboço de Manopla",
+			group = 1
+		},
+		{
+			id = 1000494,
+			prob = 10,
+			name = "Esboço de Garra",
+			group = 1
+		},
+		{
+			id = 1000495,
+			prob = 10,
+			name = "Esboço de Balista",
+			group = 1
+		},
+		{
+			id = 1000496,
+			prob = 10,
+			name = "Esboço de Arco",
+			group = 1
+		},
+		{
+			id = 1000497,
+			prob = 10,
+			name = "Esboço de Violino",
+			group = 1
+		},
+		{
+			id = 1000498,
+			prob = 10,
+			name = "Esboço de Açoite",
+			group = 1
+		},
+		{
+			id = 1000499,
+			prob = 10,
+			name = "Esboço de Harpa",
+			group = 1
+		},
+		{
+			id = 1000500,
+			prob = 10,
+			name = "Esboço de Chicote",
+			group = 1
+		},
+		{
+			id = 1000475,
+			prob = 10,
+			name = "Esboço de Bastarda",
+			group = 2
+		},
+		{
+			id = 1000476,
+			prob = 10,
+			name = "Esboço de Arpão",
+			group = 2
+		},
+		{
+			id = 1000477,
+			prob = 10,
+			name = "Esboço de Espada",
+			group = 2
+		},
+		{
+			id = 1000478,
+			prob = 10,
+			name = "Esboço de Lança",
+			group = 2
+		},
+		{
+			id = 1000479,
+			prob = 10,
+			name = "Esboço de Lábris",
+			group = 2
+		},
+		{
+			id = 1000480,
+			prob = 10,
+			name = "Esboço de Clava",
+			group = 2
+		},
+		{
+			id = 1000481,
+			prob = 10,
+			name = "Esboço de Rapieira",
+			group = 2
+		},
+		{
+			id = 1000482,
+			prob = 10,
+			name = "Esboço de Maça",
+			group = 2
+		},
+		{
+			id = 1000483,
+			prob = 10,
+			name = "Esboço de Chakram",
+			group = 2
+		},
+		{
+			id = 1000484,
+			prob = 10,
+			name = "Esboço de Katar",
+			group = 2
+		},
+		{
+			id = 1000485,
+			prob = 10,
+			name = "Esboço de Adaga",
+			group = 2
+		},
+		{
+			id = 1000486,
+			prob = 10,
+			name = "Esboço de Besta",
+			group = 2
+		},
+		{
+			id = 1000487,
+			prob = 10,
+			name = "Esboço de Bastão",
+			group = 2
+		},
+		{
+			id = 1000488,
+			prob = 10,
+			name = "Esboço de Báculo",
+			group = 2
+		},
+		{
+			id = 1000489,
+			prob = 10,
+			name = "Esboço de Grimório",
+			group = 2
+		},
+		{
+			id = 1000490,
+			prob = 10,
+			name = "Esboço de Livro",
+			group = 2
+		},
+		{
+			id = 1000491,
+			prob = 10,
+			name = "Esboço de Bíblia",
+			group = 2
+		},
+		{
+			id = 1000492,
+			prob = 10,
+			name = "Esboço de Varinha",
+			group = 2
+		},
+		{
+			id = 1000493,
+			prob = 10,
+			name = "Esboço de Manopla",
+			group = 2
+		},
+		{
+			id = 1000494,
+			prob = 10,
+			name = "Esboço de Garra",
+			group = 2
+		},
+		{
+			id = 1000495,
+			prob = 10,
+			name = "Esboço de Balista",
+			group = 2
+		},
+		{
+			id = 1000496,
+			prob = 10,
+			name = "Esboço de Arco",
+			group = 2
+		},
+		{
+			id = 1000497,
+			prob = 10,
+			name = "Esboço de Violino",
+			group = 2
+		},
+		{
+			id = 1000498,
+			prob = 10,
+			name = "Esboço de Açoite",
+			group = 2
+		},
+		{
+			id = 1000499,
+			prob = 10,
+			name = "Esboço de Harpa",
+			group = 2
+		},
+		{
+			id = 1000500,
+			prob = 10,
+			name = "Esboço de Chicote",
+			group = 2
+		},
+		{
+			id = 1000475,
+			prob = 10,
+			name = "Esboço de Bastarda",
+			group = 3
+		},
+		{
+			id = 1000476,
+			prob = 10,
+			name = "Esboço de Arpão",
+			group = 3
+		},
+		{
+			id = 1000477,
+			prob = 10,
+			name = "Esboço de Espada",
+			group = 3
+		},
+		{
+			id = 1000478,
+			prob = 10,
+			name = "Esboço de Lança",
+			group = 3
+		},
+		{
+			id = 1000479,
+			prob = 10,
+			name = "Esboço de Lábris",
+			group = 3
+		},
+		{
+			id = 1000480,
+			prob = 10,
+			name = "Esboço de Clava",
+			group = 3
+		},
+		{
+			id = 1000481,
+			prob = 10,
+			name = "Esboço de Rapieira",
+			group = 3
+		},
+		{
+			id = 1000482,
+			prob = 10,
+			name = "Esboço de Maça",
+			group = 3
+		},
+		{
+			id = 1000483,
+			prob = 10,
+			name = "Esboço de Chakram",
+			group = 3
+		},
+		{
+			id = 1000484,
+			prob = 10,
+			name = "Esboço de Katar",
+			group = 3
+		},
+		{
+			id = 1000485,
+			prob = 10,
+			name = "Esboço de Adaga",
+			group = 3
+		},
+		{
+			id = 1000486,
+			prob = 10,
+			name = "Esboço de Besta",
+			group = 3
+		},
+		{
+			id = 1000487,
+			prob = 10,
+			name = "Esboço de Bastão",
+			group = 3
+		},
+		{
+			id = 1000488,
+			prob = 10,
+			name = "Esboço de Báculo",
+			group = 3
+		},
+		{
+			id = 1000489,
+			prob = 10,
+			name = "Esboço de Grimório",
+			group = 3
+		},
+		{
+			id = 1000490,
+			prob = 10,
+			name = "Esboço de Livro",
+			group = 3
+		},
+		{
+			id = 1000491,
+			prob = 10,
+			name = "Esboço de Bíblia",
+			group = 3
+		},
+		{
+			id = 1000492,
+			prob = 10,
+			name = "Esboço de Varinha",
+			group = 3
+		},
+		{
+			id = 1000493,
+			prob = 10,
+			name = "Esboço de Manopla",
+			group = 3
+		},
+		{
+			id = 1000494,
+			prob = 10,
+			name = "Esboço de Garra",
+			group = 3
+		},
+		{
+			id = 1000495,
+			prob = 10,
+			name = "Esboço de Balista",
+			group = 3
+		},
+		{
+			id = 1000496,
+			prob = 10,
+			name = "Esboço de Arco",
+			group = 3
+		},
+		{
+			id = 1000497,
+			prob = 10,
+			name = "Esboço de Violino",
+			group = 3
+		},
+		{
+			id = 1000498,
+			prob = 10,
+			name = "Esboço de Açoite",
+			group = 3
+		},
+		{
+			id = 1000499,
+			prob = 10,
+			name = "Esboço de Harpa",
+			group = 3
+		},
+		{
+			id = 1000500,
+			prob = 10,
+			name = "Esboço de Chicote",
+			group = 3
 		}
 	},
 	[100690] = {
@@ -47071,7 +47541,7 @@ tbl = {
 		{
 			id = 1001175,
 			prob = 700,
-			name = "Pedra Gráfica: Rosas Românticas (Topo)",
+			name = "Pedra Gráfica: Rosas Românticas (Meio)",
 			group = 6
 		},
 		{
@@ -47307,7 +47777,7 @@ tbl = {
 		{
 			id = 590012,
 			prob = 1,
-			name = "Clava Primordial [2]",
+			name = " [2]",
 			group = 6
 		},
 		{
@@ -47541,6 +48011,62 @@ tbl = {
 			group = 6
 		}
 	},
+	[100790] = {
+		{
+			id = 11611,
+			prob = 5795,
+			name = "Pipoca 5",
+			group = 6
+		},
+		{
+			id = 11625,
+			prob = 1500,
+			name = "Pipoca Gourmet 3",
+			group = 6
+		},
+		{
+			id = 547,
+			prob = 1000,
+			name = "Poção Branca Compacta 2",
+			group = 6
+		},
+		{
+			id = 25342,
+			prob = 1000,
+			name = "Erva de Incenso 5",
+			group = 6
+		},
+		{
+			id = 603,
+			prob = 300,
+			name = "Velha Caixa Azul",
+			group = 6
+		},
+		{
+			id = 617,
+			prob = 200,
+			name = "Velha Caixa Roxa",
+			group = 6
+		},
+		{
+			id = 616,
+			prob = 100,
+			name = "Velho Álbum de Cartas",
+			group = 6
+		},
+		{
+			id = 31518,
+			prob = 50,
+			name = "[Visual] Pipocas Saltitantes",
+			group = 6
+		},
+		{
+			id = 31736,
+			prob = 50,
+			name = "[Visual] Peruca de Pipoca",
+			group = 6
+		}
+	},
 	[100818] = {
 		{
 			id = 6230,
@@ -47563,7 +48089,7 @@ tbl = {
 		{
 			id = 100680,
 			prob = 0,
-			name = "[Evento]Grimório de Combate 5",
+			name = "[Evento] Grimório de Combate 5",
 			group = 0
 		},
 		{
@@ -50115,7 +50641,7 @@ tbl = {
 		{
 			id = 104681,
 			prob = 1,
-			name = "Baú de Seleção dos Veteranos",
+			name = "Caixa de Seleção dos Veteranos",
 			group = 0
 		}
 	},
@@ -51748,6 +52274,164 @@ tbl = {
 			id = 1000257,
 			prob = 80,
 			name = "Cristal do Pecado 5",
+			group = 6
+		}
+	},
+	[102547] = {
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 5",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 6",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 7",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 8",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 9",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 10",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 11",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 12",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 13",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 14",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 15",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 16",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 17",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 18",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 19",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 20",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 21",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 22",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 23",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 24",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 25",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 26",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 27",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 28",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 29",
+			group = 6
+		},
+		{
+			id = 1000405,
+			prob = 10,
+			name = "Fragmento de Ametista 30",
 			group = 6
 		}
 	},
@@ -54605,93 +55289,93 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 480167,
+			id = 480419,
 			prob = 150,
-			name = "[Visual] Pirulito de Chocolate",
+			name = "[Visual] Espada Cibernética",
 			group = 6
 		},
 		{
-			id = 20570,
+			id = 31572,
 			prob = 300,
-			name = "[Visual] Mochila de Chocolate",
+			name = "[Visual] Auréolas Digitais",
 			group = 6
 		},
 		{
-			id = 420088,
+			id = 410144,
 			prob = 500,
-			name = "[Visual] Anjinha do Amor",
+			name = "[Visual] Carrinho Ômega",
 			group = 6
 		},
 		{
-			id = 31538,
+			id = 420140,
 			prob = 500,
-			name = "[Visual] Aura do Amor",
+			name = "[Visual] Peruca de Alpha",
 			group = 6
 		},
 		{
-			id = 420207,
+			id = 420224,
 			prob = 650,
-			name = "[Visual] Peruca de Rosa Eterna",
+			name = "[Visual] Cabelos Oceânicos",
 			group = 6
 		},
 		{
-			id = 31624,
+			id = 400278,
 			prob = 650,
-			name = "[Visual] Coração Felino",
+			name = "[Visual] Ômega Faxineira",
 			group = 6
 		},
 		{
-			id = 20255,
+			id = 480422,
 			prob = 650,
-			name = "[Visual] Pureza do Amor",
+			name = "[Visual] Rabicho",
 			group = 6
 		},
 		{
-			id = 31535,
+			id = 31928,
 			prob = 800,
-			name = "[Visual] Chapéu Cheiroso",
+			name = "[Visual] Tiara Futurista",
 			group = 6
 		},
 		{
-			id = 19762,
+			id = 20315,
 			prob = 800,
-			name = "[Visual] Pombinhos Apaixonados",
+			name = "[Visual] Visor Holográfico",
 			group = 6
 		},
 		{
-			id = 31483,
+			id = 19293,
 			prob = 800,
-			name = "[Visual] Orelhas de Gato Apaixonado",
+			name = "[Visual] Óculos Invertidos",
 			group = 6
 		},
 		{
-			id = 400730,
+			id = 19294,
 			prob = 800,
-			name = "[Visual] Tiara dos Angeling",
+			name = "[Visual] Fones de Ouvido Nekobits",
 			group = 6
 		},
 		{
-			id = 19512,
+			id = 31574,
 			prob = 800,
-			name = "[Visual] Tapa-Olho Estiloso",
+			name = "[Visual] Comunicador Cibernético",
 			group = 6
 		},
 		{
-			id = 31424,
+			id = 20313,
 			prob = 800,
-			name = "[Visual] Balões do Amor",
+			name = "[Visual] Máquina Técnica",
 			group = 6
 		},
 		{
-			id = 31439,
+			id = 20311,
 			prob = 900,
-			name = "[Visual] Protetor de Orelhas de Coração",
+			name = "[Visual] Fone da Ratishune Meeku",
 			group = 6
 		},
 		{
-			id = 20022,
+			id = 31953,
 			prob = 900,
-			name = "[Visual] Doce do Amor de Morango",
+			name = "[Visual] Fone de Ouvido Brilhante",
 			group = 6
 		}
 	},
@@ -59109,7 +59793,7 @@ tbl = {
 		{
 			id = 100913,
 			prob = 10,
-			name = "Manual Kafra (7 dias) 2",
+			name = "Manual Kafra (7 Dias) 2",
 			group = 0
 		},
 		{
@@ -65139,7 +65823,7 @@ tbl = {
 		{
 			id = 100913,
 			prob = 0,
-			name = "Manual Kafra (7 dias)",
+			name = "Manual Kafra (7 Dias)",
 			group = 0
 		},
 		{
@@ -68785,7 +69469,7 @@ tbl = {
 		{
 			id = 100913,
 			prob = 0,
-			name = "Manual Kafra (7 dias)",
+			name = "Manual Kafra (7 Dias)",
 			group = 0
 		}
 	},
@@ -68897,7 +69581,7 @@ tbl = {
 		{
 			id = 100913,
 			prob = 0,
-			name = "Manual Kafra (7 dias)",
+			name = "Manual Kafra (7 Dias)",
 			group = 0
 		}
 	},
@@ -70397,7 +71081,7 @@ tbl = {
 		{
 			id = 31737,
 			prob = 25,
-			name = "Unknown Item",
+			name = "[Visual] Asas de Lúcifer",
 			group = 6
 		},
 		{
@@ -71319,7 +72003,7 @@ tbl = {
 		{
 			id = 100680,
 			prob = 0,
-			name = "[Evento]Grimório de Combate 2",
+			name = "[Evento] Grimório de Combate 2",
 			group = 0
 		}
 	},
@@ -71399,7 +72083,7 @@ tbl = {
 		{
 			id = 100680,
 			prob = 0,
-			name = "[Evento]Grimório de Combate 2",
+			name = "[Evento] Grimório de Combate 2",
 			group = 0
 		}
 	},
@@ -71485,7 +72169,7 @@ tbl = {
 		{
 			id = 100913,
 			prob = 0,
-			name = "Manual Kafra (7 dias)",
+			name = "Manual Kafra (7 Dias)",
 			group = 0
 		}
 	},
@@ -71589,7 +72273,7 @@ tbl = {
 		{
 			id = 100913,
 			prob = 0,
-			name = "Manual Kafra (7 dias)",
+			name = "Manual Kafra (7 Dias)",
 			group = 0
 		}
 	},
@@ -71645,7 +72329,7 @@ tbl = {
 		{
 			id = 100680,
 			prob = 0,
-			name = "[Evento]Grimório de Combate 2",
+			name = "[Evento] Grimório de Combate 2",
 			group = 0
 		}
 	},
@@ -72413,7 +73097,7 @@ tbl = {
 		{
 			id = 100680,
 			prob = 0,
-			name = "[Evento]Grimório de Combate 2",
+			name = "[Evento] Grimório de Combate 2",
 			group = 0
 		}
 	},
@@ -74911,7 +75595,7 @@ tbl = {
 		{
 			id = 100680,
 			prob = 10,
-			name = "[Evento]Grimório de Combate 10",
+			name = "[Evento] Grimório de Combate 10",
 			group = 0
 		},
 		{
@@ -75825,7 +76509,7 @@ tbl = {
 		{
 			id = 100913,
 			prob = 10,
-			name = "Manual Kafra (7 dias)",
+			name = "Manual Kafra (7 Dias)",
 			group = 0
 		},
 		{
@@ -75902,6 +76586,754 @@ tbl = {
 			id = 107518,
 			prob = 0,
 			name = "[Evento] Artefato Oval Amoroso 12",
+			group = 0
+		}
+	},
+	[107570] = {
+		{
+			id = 400178,
+			prob = 834,
+			name = "Elmo da Fé Arcana [1]",
+			group = 6
+		},
+		{
+			id = 400180,
+			prob = 834,
+			name = "Elmo da Fé Guerreira [1]",
+			group = 6
+		},
+		{
+			id = 400189,
+			prob = 834,
+			name = "Elmo da Fé Clerical [1]",
+			group = 6
+		},
+		{
+			id = 400191,
+			prob = 834,
+			name = "Elmo da Fé Renegada [1]",
+			group = 6
+		},
+		{
+			id = 400198,
+			prob = 833,
+			name = "Elmo da Fé Sentinela [1]",
+			group = 6
+		},
+		{
+			id = 400200,
+			prob = 833,
+			name = "Elmo da Fé Guardiã [1]",
+			group = 6
+		},
+		{
+			id = 400216,
+			prob = 833,
+			name = "Elmo da Fé Mortal [1]",
+			group = 6
+		},
+		{
+			id = 400218,
+			prob = 833,
+			name = "Elmo da Fé Elemental [1]",
+			group = 6
+		},
+		{
+			id = 400226,
+			prob = 833,
+			name = "Elmo da Fé Valente [1]",
+			group = 6
+		},
+		{
+			id = 400228,
+			prob = 833,
+			name = "Elmo da Fé Harmoniosa [1]",
+			group = 6
+		},
+		{
+			id = 400230,
+			prob = 833,
+			name = "Elmo da Fé Mecânica [1]",
+			group = 6
+		},
+		{
+			id = 400233,
+			prob = 833,
+			name = "Elmo da Fé Científica [1]",
+			group = 6
+		}
+	},
+	[107572] = {
+		{
+			id = 400179,
+			prob = 834,
+			name = "Elmo da Fé Arcana II [1]",
+			group = 6
+		},
+		{
+			id = 400181,
+			prob = 834,
+			name = "Elmo da Fé Guerreira II [1]",
+			group = 6
+		},
+		{
+			id = 400190,
+			prob = 834,
+			name = "Elmo da Fé Clerical II [1]",
+			group = 6
+		},
+		{
+			id = 400192,
+			prob = 834,
+			name = "Elmo da Fé Renegada II [1]",
+			group = 6
+		},
+		{
+			id = 400199,
+			prob = 833,
+			name = "Elmo da Fé Sentinela II [1]",
+			group = 6
+		},
+		{
+			id = 400201,
+			prob = 833,
+			name = "Elmo da Fé Guardiã II [1]",
+			group = 6
+		},
+		{
+			id = 400217,
+			prob = 833,
+			name = "Elmo da Fé Mortal II [1]",
+			group = 6
+		},
+		{
+			id = 400219,
+			prob = 833,
+			name = "Elmo da Fé Elemental II [1]",
+			group = 6
+		},
+		{
+			id = 400227,
+			prob = 833,
+			name = "Elmo da Fé Valente II [1]",
+			group = 6
+		},
+		{
+			id = 400229,
+			prob = 833,
+			name = "Elmo da Fé Harmoniosa II [1]",
+			group = 6
+		},
+		{
+			id = 400231,
+			prob = 833,
+			name = "Elmo da Fé Mecânica II [1]",
+			group = 6
+		},
+		{
+			id = 400234,
+			prob = 833,
+			name = "Elmo da Fé Científica II [1]",
+			group = 6
+		}
+	},
+	[107573] = {
+		{
+			id = 1000274,
+			prob = 10,
+			name = "Cupom da Kachua",
+			group = 0
+		},
+		{
+			id = 23136,
+			prob = 1409,
+			name = "Cx. De Asas Coloridas",
+			group = 6
+		},
+		{
+			id = 101471,
+			prob = 1408,
+			name = "Caixa de Seleção de Alquimista 2",
+			group = 6
+		},
+		{
+			id = 107334,
+			prob = 1408,
+			name = "Porta Moedas 2",
+			group = 6
+		},
+		{
+			id = 102547,
+			prob = 1408,
+			name = "Embalagem de Fragmentos 2",
+			group = 6
+		},
+		{
+			id = 107375,
+			prob = 1408,
+			name = "Caixa de Poção Talentosa",
+			group = 6
+		},
+		{
+			id = 22979,
+			prob = 950,
+			name = "[Evento] Manual & Chiclete",
+			group = 6
+		},
+		{
+			id = 23012,
+			prob = 950,
+			name = "[Evento] Poção Menor de Mana 2",
+			group = 6
+		},
+		{
+			id = 12515,
+			prob = 950,
+			name = "[Evento] Poção Média de Vida 2",
+			group = 6
+		},
+		{
+			id = 102803,
+			prob = 950,
+			name = "Estimulante 2",
+			group = 6
+		},
+		{
+			id = 6833,
+			prob = 950,
+			name = "[Limitado] Amuleto de Siegfried 3",
+			group = 6
+		},
+		{
+			id = 6635,
+			prob = 600,
+			name = "Bênção do Ferreiro",
+			group = 6
+		},
+		{
+			id = 23720,
+			prob = 600,
+			name = "Encantador Sombrio 3",
+			group = 6
+		},
+		{
+			id = 1000874,
+			prob = 600,
+			name = "Vale-Encanto",
+			group = 6
+		},
+		{
+			id = 107335,
+			prob = 600,
+			name = "Caixa de Combinadores Sombrios 2",
+			group = 6
+		},
+		{
+			id = 101048,
+			prob = 600,
+			name = "Caixa de Martelos Sombrios",
+			group = 6
+		},
+		{
+			id = 24883,
+			prob = 550,
+			name = "Malha Sombria FEI",
+			group = 6
+		},
+		{
+			id = 24884,
+			prob = 400,
+			name = "Greva Sombria FEI",
+			group = 6
+		},
+		{
+			id = 24885,
+			prob = 400,
+			name = "Colar Sombrio CON",
+			group = 6
+		},
+		{
+			id = 24886,
+			prob = 400,
+			name = "Brinco Sombrio CON",
+			group = 6
+		},
+		{
+			id = 24887,
+			prob = 400,
+			name = "Colar Sombrio SAB",
+			group = 6
+		},
+		{
+			id = 24888,
+			prob = 400,
+			name = "Brinco Sombrio SAB",
+			group = 6
+		},
+		{
+			id = 24793,
+			prob = 300,
+			name = "Escudo Sombrio Magistral",
+			group = 6
+		},
+		{
+			id = 24792,
+			prob = 300,
+			name = "Manopla Sombria Magistral",
+			group = 6
+		},
+		{
+			id = 1001253,
+			prob = 300,
+			name = "Âmago Sombrio",
+			group = 6
+		},
+		{
+			id = 490163,
+			prob = 200,
+			name = "Broche Primordial [1]",
+			group = 6
+		},
+		{
+			id = 107487,
+			prob = 200,
+			name = "Caixa de Itens Reformáveis",
+			group = 6
+		},
+		{
+			id = 23135,
+			prob = 200,
+			name = "Caixa de Balões Poring",
+			group = 6
+		},
+		{
+			id = 100553,
+			prob = 200,
+			name = "Caixa de Brotos Temporais",
+			group = 6
+		},
+		{
+			id = 28902,
+			prob = 200,
+			name = "Coelho Macabro [1]",
+			group = 6
+		},
+		{
+			id = 101565,
+			prob = 200,
+			name = "Caixa de Fascículos Selecionáveis",
+			group = 6
+		},
+		{
+			id = 107570,
+			prob = 80,
+			name = "Caixa de Elmos da Fé",
+			group = 6
+		},
+		{
+			id = 107572,
+			prob = 80,
+			name = "Caixa de Elmos da Fé II",
+			group = 6
+		},
+		{
+			id = 107488,
+			prob = 70,
+			name = "Caixa de Reformadores Primordiais",
+			group = 6
+		},
+		{
+			id = 107516,
+			prob = 70,
+			name = "Gerador de Cordões",
+			group = 6
+		},
+		{
+			id = 107515,
+			prob = 70,
+			name = "Caixa de Martelos Primordiais",
+			group = 6
+		},
+		{
+			id = 101259,
+			prob = 70,
+			name = "Martelo de Refino dos Elmos",
+			group = 6
+		},
+		{
+			id = 101077,
+			prob = 70,
+			name = "Martelo de Refino Vivatus",
+			group = 6
+		},
+		{
+			id = 101389,
+			prob = 20,
+			name = "Martelo de Refino da Fé",
+			group = 6
+		},
+		{
+			id = 100750,
+			prob = 10,
+			name = "Envelope de Alto Refino",
+			group = 6
+		},
+		{
+			id = 7925,
+			prob = 9,
+			name = "Âmago Dimensional",
+			group = 6
+		},
+		{
+			id = 400111,
+			prob = 5,
+			name = "Elmo de Vesper [1]",
+			group = 6
+		},
+		{
+			id = 480174,
+			prob = 5,
+			name = "Casaco Pirata [1]",
+			group = 6
+		}
+	},
+	[107575] = {
+		{
+			id = 1000274,
+			prob = 10,
+			name = "Cupom da Kachua",
+			group = 0
+		},
+		{
+			id = 23136,
+			prob = 1409,
+			name = "Cx. De Asas Coloridas",
+			group = 6
+		},
+		{
+			id = 101471,
+			prob = 1408,
+			name = "Caixa de Seleção de Alquimista 2",
+			group = 6
+		},
+		{
+			id = 107334,
+			prob = 1408,
+			name = "Porta Moedas 2",
+			group = 6
+		},
+		{
+			id = 102547,
+			prob = 1408,
+			name = "Embalagem de Fragmentos 2",
+			group = 6
+		},
+		{
+			id = 107375,
+			prob = 1408,
+			name = "Caixa de Poção Talentosa",
+			group = 6
+		},
+		{
+			id = 22979,
+			prob = 950,
+			name = "[Evento] Manual & Chiclete",
+			group = 6
+		},
+		{
+			id = 23012,
+			prob = 950,
+			name = "[Evento] Poção Menor de Mana 2",
+			group = 6
+		},
+		{
+			id = 12515,
+			prob = 950,
+			name = "[Evento] Poção Média de Vida 2",
+			group = 6
+		},
+		{
+			id = 102803,
+			prob = 950,
+			name = "Estimulante 2",
+			group = 6
+		},
+		{
+			id = 6833,
+			prob = 950,
+			name = "[Limitado] Amuleto de Siegfried 3",
+			group = 6
+		},
+		{
+			id = 6635,
+			prob = 600,
+			name = "Bênção do Ferreiro",
+			group = 6
+		},
+		{
+			id = 23720,
+			prob = 600,
+			name = "Encantador Sombrio 3",
+			group = 6
+		},
+		{
+			id = 1000874,
+			prob = 600,
+			name = "Vale-Encanto",
+			group = 6
+		},
+		{
+			id = 107335,
+			prob = 600,
+			name = "Caixa de Combinadores Sombrios 2",
+			group = 6
+		},
+		{
+			id = 101048,
+			prob = 600,
+			name = "Caixa de Martelos Sombrios",
+			group = 6
+		},
+		{
+			id = 24883,
+			prob = 550,
+			name = "Malha Sombria FEI",
+			group = 6
+		},
+		{
+			id = 24884,
+			prob = 400,
+			name = "Greva Sombria FEI",
+			group = 6
+		},
+		{
+			id = 24885,
+			prob = 400,
+			name = "Colar Sombrio CON",
+			group = 6
+		},
+		{
+			id = 24886,
+			prob = 400,
+			name = "Brinco Sombrio CON",
+			group = 6
+		},
+		{
+			id = 24887,
+			prob = 400,
+			name = "Colar Sombrio SAB",
+			group = 6
+		},
+		{
+			id = 24888,
+			prob = 400,
+			name = "Brinco Sombrio SAB",
+			group = 6
+		},
+		{
+			id = 24793,
+			prob = 300,
+			name = "Escudo Sombrio Magistral",
+			group = 6
+		},
+		{
+			id = 24792,
+			prob = 300,
+			name = "Manopla Sombria Magistral",
+			group = 6
+		},
+		{
+			id = 1001253,
+			prob = 300,
+			name = "Âmago Sombrio",
+			group = 6
+		},
+		{
+			id = 490163,
+			prob = 200,
+			name = "Broche Primordial [1]",
+			group = 6
+		},
+		{
+			id = 107487,
+			prob = 200,
+			name = "Caixa de Itens Reformáveis",
+			group = 6
+		},
+		{
+			id = 23135,
+			prob = 200,
+			name = "Caixa de Balões Poring",
+			group = 6
+		},
+		{
+			id = 100553,
+			prob = 200,
+			name = "Caixa de Brotos Temporais",
+			group = 6
+		},
+		{
+			id = 28902,
+			prob = 200,
+			name = "Coelho Macabro [1]",
+			group = 6
+		},
+		{
+			id = 101565,
+			prob = 200,
+			name = "Caixa de Fascículos Selecionáveis",
+			group = 6
+		},
+		{
+			id = 107570,
+			prob = 80,
+			name = "Caixa de Elmos da Fé",
+			group = 6
+		},
+		{
+			id = 107572,
+			prob = 80,
+			name = "Caixa de Elmos da Fé II",
+			group = 6
+		},
+		{
+			id = 107488,
+			prob = 70,
+			name = "Caixa de Reformadores Primordiais",
+			group = 6
+		},
+		{
+			id = 107516,
+			prob = 70,
+			name = "Gerador de Cordões",
+			group = 6
+		},
+		{
+			id = 107515,
+			prob = 70,
+			name = "Caixa de Martelos Primordiais",
+			group = 6
+		},
+		{
+			id = 101259,
+			prob = 70,
+			name = "Martelo de Refino dos Elmos",
+			group = 6
+		},
+		{
+			id = 101077,
+			prob = 70,
+			name = "Martelo de Refino Vivatus",
+			group = 6
+		},
+		{
+			id = 101389,
+			prob = 20,
+			name = "Martelo de Refino da Fé",
+			group = 6
+		},
+		{
+			id = 100750,
+			prob = 10,
+			name = "Envelope de Alto Refino",
+			group = 6
+		},
+		{
+			id = 7925,
+			prob = 9,
+			name = "Âmago Dimensional",
+			group = 6
+		},
+		{
+			id = 400111,
+			prob = 5,
+			name = "Elmo de Vesper [1]",
+			group = 6
+		},
+		{
+			id = 480174,
+			prob = 5,
+			name = "Casaco Pirata [1]",
+			group = 6
+		}
+	},
+	[107596] = {
+		{
+			id = 1003095,
+			prob = 10,
+			name = "Ticket de Mascote Eddga",
+			group = 0
+		}
+	},
+	[107597] = {
+		{
+			id = 1001783,
+			prob = 10,
+			name = "Ticket de Mascote Gerente",
+			group = 0
+		}
+	},
+	[107598] = {
+		{
+			id = 1001778,
+			prob = 10,
+			name = "Ticket de Mascote Skeggiold",
+			group = 0
+		}
+	},
+	[107599] = {
+		{
+			id = 19605,
+			prob = 10,
+			name = "[Visual] Lenço de Rosto (Vermelho)",
+			group = 0
+		}
+	},
+	[107600] = {
+		{
+			id = 6635,
+			prob = 0,
+			name = "Bênção do Ferreiro 5",
+			group = 0
+		}
+	},
+	[107601] = {
+		{
+			id = 14590,
+			prob = 10,
+			name = "Pergaminho Assumptio em Grupo 5",
+			group = 0
+		}
+	},
+	[107602] = {
+		{
+			id = 103272,
+			prob = 10,
+			name = "[Evento] Elixir Celestial 3",
+			group = 0
+		}
+	},
+	[107603] = {
+		{
+			id = 12515,
+			prob = 10,
+			name = "[Evento] Poção Média de Vida 5",
+			group = 0
+		}
+	},
+	[107604] = {
+		{
+			id = 12928,
+			prob = 10,
+			name = "Pergaminho de Aspersio 5",
+			group = 0
+		}
+	},
+	[107605] = {
+		{
+			id = 25464,
+			prob = 10,
+			name = "Passaporte 10",
 			group = 0
 		}
 	},
@@ -76003,7 +77435,7 @@ tbl = {
 		{
 			id = 100913,
 			prob = 1,
-			name = "Manual Kafra (7 dias)",
+			name = "Manual Kafra (7 Dias)",
 			group = 0
 		}
 	},
@@ -76727,7 +78159,7 @@ tbl = {
 		{
 			id = 100913,
 			prob = 0,
-			name = "Manual Kafra (7 dias) 4",
+			name = "Manual Kafra (7 Dias) 4",
 			group = 0
 		}
 	},
@@ -76979,7 +78411,7 @@ tbl = {
 		{
 			id = 100913,
 			prob = 10,
-			name = "Manual Kafra (7 dias)",
+			name = "Manual Kafra (7 Dias)",
 			group = 0
 		},
 		{
@@ -77005,7 +78437,7 @@ tbl = {
 		{
 			id = 100913,
 			prob = 10,
-			name = "Manual Kafra (7 dias) 2",
+			name = "Manual Kafra (7 Dias) 2",
 			group = 0
 		},
 		{
@@ -77573,7 +79005,7 @@ tbl = {
 		{
 			id = 100913,
 			prob = 0,
-			name = "Manual Kafra (7 dias)",
+			name = "Manual Kafra (7 Dias)",
 			group = 0
 		},
 		{
@@ -77669,7 +79101,7 @@ tbl = {
 		{
 			id = 100913,
 			prob = 0,
-			name = "Manual Kafra (7 dias)",
+			name = "Manual Kafra (7 Dias)",
 			group = 0
 		},
 		{
@@ -77887,7 +79319,7 @@ tbl = {
 		{
 			id = 100913,
 			prob = 0,
-			name = "Manual Kafra (7 dias)",
+			name = "Manual Kafra (7 Dias)",
 			group = 0
 		},
 		{
@@ -77986,6 +79418,276 @@ tbl = {
 			id = 107371,
 			prob = 0,
 			name = "[Evento] Artefato Oval de Aniversário 12",
+			group = 0
+		}
+	},
+	[200962] = {
+		{
+			id = 12496,
+			prob = 0,
+			name = "[Evento] Seguro de Vida 50",
+			group = 0
+		},
+		{
+			id = 6316,
+			prob = 0,
+			name = "[Especial] Amuleto de Siegfried 35",
+			group = 0
+		},
+		{
+			id = 107575,
+			prob = 0,
+			name = "[Evento] Artefato Oval da Oração 6",
+			group = 0
+		}
+	},
+	[200963] = {
+		{
+			id = 12496,
+			prob = 0,
+			name = "[Evento] Seguro de Vida 100",
+			group = 0
+		},
+		{
+			id = 6316,
+			prob = 0,
+			name = "[Especial] Amuleto de Siegfried 80",
+			group = 0
+		},
+		{
+			id = 107575,
+			prob = 0,
+			name = "[Evento] Artefato Oval da Oração 11",
+			group = 0
+		}
+	},
+	[200964] = {
+		{
+			id = 7619,
+			prob = 10,
+			name = "Elunium Enriquecido (35)",
+			group = 0
+		},
+		{
+			id = 7620,
+			prob = 10,
+			name = "Oridecon Enriquecido (35)",
+			group = 0
+		},
+		{
+			id = 6240,
+			prob = 10,
+			name = "Oridecon Perfeito (10)",
+			group = 0
+		},
+		{
+			id = 6241,
+			prob = 10,
+			name = "Elunium Perfeito (10)",
+			group = 0
+		},
+		{
+			id = 480559,
+			prob = 10,
+			name = "[Visual] Mochila de Kumamon (1)",
+			group = 0
+		},
+		{
+			id = 107575,
+			prob = 10,
+			name = "[Evento] Artefato Oval da Oração (6)",
+			group = 0
+		}
+	},
+	[200965] = {
+		{
+			id = 6635,
+			prob = 10,
+			name = "Bênção do Ferreiro 10",
+			group = 0
+		},
+		{
+			id = 6226,
+			prob = 10,
+			name = "Bradium Perfeito 30",
+			group = 0
+		},
+		{
+			id = 14600,
+			prob = 10,
+			name = "Poção Mental 12",
+			group = 0
+		},
+		{
+			id = 480559,
+			prob = 10,
+			name = "[Visual] Mochila de Kumamon",
+			group = 0
+		},
+		{
+			id = 107575,
+			prob = 10,
+			name = "[Evento] Artefato Oval da Oração 11",
+			group = 0
+		}
+	},
+	[200966] = {
+		{
+			id = 6635,
+			prob = 10,
+			name = "Bênção do Ferreiro 10",
+			group = 0
+		},
+		{
+			id = 6225,
+			prob = 10,
+			name = "Carnium Perfeito 30",
+			group = 0
+		},
+		{
+			id = 14600,
+			prob = 10,
+			name = "Poção Mental 12",
+			group = 0
+		},
+		{
+			id = 480559,
+			prob = 10,
+			name = "[Visual] Mochila de Kumamon",
+			group = 0
+		},
+		{
+			id = 107575,
+			prob = 10,
+			name = "[Evento] Artefato Oval da Oração 11",
+			group = 0
+		}
+	},
+	[200967] = {
+		{
+			id = 6909,
+			prob = 10,
+			name = "MiauMiau 50",
+			group = 0
+		},
+		{
+			id = 100913,
+			prob = 10,
+			name = "Manual Kafra (7 Dias)",
+			group = 0
+		},
+		{
+			id = 14533,
+			prob = 10,
+			name = "Grimório de Combate 5",
+			group = 0
+		},
+		{
+			id = 16863,
+			prob = 10,
+			name = "Manual de Classe (10) 2",
+			group = 0
+		},
+		{
+			id = 480559,
+			prob = 10,
+			name = "[Visual] Mochila de Kumamon",
+			group = 0
+		},
+		{
+			id = 107575,
+			prob = 10,
+			name = "[Evento] Artefato Oval da Oração 11",
+			group = 0
+		}
+	},
+	[200972] = {
+		{
+			id = 107575,
+			prob = 0,
+			name = "[Evento] Artefato Oval da Oração 11",
+			group = 0
+		}
+	},
+	[200973] = {
+		{
+			id = 107575,
+			prob = 0,
+			name = "[Evento] Artefato Oval da Oração 40",
+			group = 0
+		}
+	},
+	[200974] = {
+		{
+			id = 107575,
+			prob = 0,
+			name = "[Evento] Artefato Oval da Oração 85",
+			group = 0
+		}
+	},
+	[200975] = {
+		{
+			id = 12208,
+			prob = 0,
+			name = "Manual de Combate 20",
+			group = 0
+		},
+		{
+			id = 14533,
+			prob = 0,
+			name = "Grimório de Combate 10",
+			group = 0
+		},
+		{
+			id = 12497,
+			prob = 0,
+			name = "[Limitado] Goma de Mascar 5",
+			group = 0
+		},
+		{
+			id = 107575,
+			prob = 0,
+			name = "[Evento] Artefato Oval da Oração 11",
+			group = 0
+		}
+	},
+	[200976] = {
+		{
+			id = 6909,
+			prob = 0,
+			name = "MiauMiau 100",
+			group = 0
+		},
+		{
+			id = 100721,
+			prob = 0,
+			name = "Baú de Pedras Visuais 23 2",
+			group = 0
+		},
+		{
+			id = 107575,
+			prob = 0,
+			name = "[Evento] Artefato Oval da Oração 6",
+			group = 0
+		}
+	},
+	[200977] = {
+		{
+			id = 6909,
+			prob = 0,
+			name = "MiauMiau 200",
+			group = 0
+		},
+		{
+			id = 100721,
+			prob = 0,
+			name = "Baú de Pedras Visuais 23 2",
+			group = 0
+		},
+		{
+			id = 107575,
+			prob = 0,
+			name = "[Evento] Artefato Oval da Oração 12",
 			group = 0
 		}
 	}

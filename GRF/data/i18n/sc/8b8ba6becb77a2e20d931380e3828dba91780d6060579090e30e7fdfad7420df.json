@@ -1,0 +1,57 @@
+{
+    "ACQpDQ": {
+        "en-US": "Set Location",
+        "pt-BR": "Definir posição",
+        "es-ES": "Asignar ubicación"
+    },
+    "ASQpDQ": {
+        "en-US": "Disable Boss Healing",
+        "pt-BR": "Proibir recuperação do chefe",
+        "es-ES": "Prohibir curación del jefe"
+    },
+    "AiQpDQ": {
+        "en-US": "Broadcast Boss Status",
+        "pt-BR": "Transmitir estado do chefe",
+        "es-ES": "Anuncio de estado del jefe"
+    },
+    "AyQpDQ": {
+        "en-US": "Boss HP 1,000,000",
+        "pt-BR": "HP do chefe 1.000.000",
+        "es-ES": "Salud del jefe 1 millón"
+    },
+    "BCQpDQ": {
+        "en-US": "Restart Boss",
+        "pt-BR": "Reiniciar chefe",
+        "es-ES": "Reiniciar jefe"
+    },
+    "BSQpDQ": {
+        "en-US": "Play... with... me...",
+        "pt-BR": "Ve...nh...a... brin...car... comi...go...",
+        "es-ES": "Ven... a... jugar... conmigo..."
+    },
+    "BiQpDQ": {
+        "en-US": "Twisted God",
+        "pt-BR": "Deus Retorcido",
+        "es-ES": "Dios Retorcido"
+    },
+    "ByQpDQ": {
+        "en-US": "(Normal)",
+        "pt-BR": "(Normal)",
+        "es-ES": "(Normal)"
+    },
+    "CCQpDQ": {
+        "en-US": "(Advanced)",
+        "pt-BR": "(Avançado)",
+        "es-ES": "(Avanzado)"
+    },
+    "CSQpDQ": {
+        "en-US": "tip: Twisted God becomes weaker as it gets closer to the chandelier's shadow.",
+        "pt-BR": "tip: Deus Retorcido enfraquece quanto mais se aproxima da sombra do candelabro.",
+        "es-ES": "Consejo: Dios Retorcido se debilita cuanto más se acerca a la sombra del candelabro."
+    },
+    "CiQpDQ": {
+        "en-US": "hp-{0}Ten thousand /{1}Ten thousand, heal amount-{2}Ten thousand {3}%, attack-{4} magic-{5} defense-{6}",
+        "pt-BR": "hp-{0}Dez mil /{1}Dez mil, cura-{2}Dez mil {3}%, ataque-{4} magia-{5} defesa-{6}",
+        "es-ES": "hp-{0}Diez mil /{1}Diez mil, curación-{2}Diez mil {3}%, ataque-{4} magia-{5} defensa-{6}"
+    }
+}

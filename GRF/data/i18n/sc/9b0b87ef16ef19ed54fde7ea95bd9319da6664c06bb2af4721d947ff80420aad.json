@@ -1,456 +1,380 @@
 {
     "4HCnDA": {
-        "ko-KR": "OSC1198",
         "en-US": "OSC1198",
         "pt-BR": "OSC1198",
         "es-ES": "OSC1198"
     },
     "4XCnDA": {
-        "ko-KR": "보유한 물건의 종류나 무게가 너무 많은 것 같습니다. 인벤토리를 정리해주세요.",
         "en-US": "It looks like you’re carrying too many kinds of items, or too much weight. Please organize your inventory.",
         "pt-BR": "Esvazie seu inventário e tente novamente.",
         "es-ES": "Vacía tu inventario e inténtalo de nuevo."
     },
     "4nCnDA": {
-        "ko-KR": "^0000FF[관리자모드]^000000\n오스카-슈미츠 확률 조정",
         "en-US": "^0000FF[Administrator Mode]^000000\nAdjust Oscar-Schmidt probability",
         "pt-BR": "^0000FF[Modo Administrador]^000000\nAjuste de probabilidade",
         "es-ES": "^0000FF[Modo Administrador]^000000\nAjuste de probabilidad"
     },
     "43CnDA": {
-        "ko-KR": "[OSC1198]\n장착하신 슈미츠의 유물을 분해하여 글래스트헤임의 자원으로 변환 해 드립니다.",
         "en-US": "[OSC1198]\nI can dismantle the Schmidt relic you have equipped and convert it into Glastheim resources for you.",
         "pt-BR": "[OSC1198]\nMinha função é coletar os espólios do Rei Schmidt e convertê-los em fragmentos.",
         "es-ES": "[OSC1198]\nMi función es recolectar los botines del Rey Schmidt y convertirlos en fragmentos."
     },
     "5HCnDA": {
-        "ko-KR": "[OSC1198]\n^FF0000장착된 카드나 제련도가 모두 소멸^000000되어버리니 분해전 심사숙고 하시기 바랍니다.",
         "en-US": "[OSC1198]\n^FF0000All equipped card and refinement levels will be ^000000lost, so please think carefully before dismantling.",
         "pt-BR": "[OSC1198]\nNessa troca, ^FF0000os equipamentos, cartas, encantos e refinos serão deletados^000000. Então pense bem antes de prosseguir.",
         "es-ES": "[OSC1198]\nEn este intercambio, ^FF0000los equipos, cartas, encantos y refinamientos serán borrados^000000. Así que piénsalo bien antes de proceder."
     },
     "5XCnDA": {
-        "ko-KR": "취소",
         "en-US": "Cancel",
         "pt-BR": "Cancelar",
         "es-ES": "Cancelar"
     },
     "5nCnDA": {
-        "ko-KR": "갑옷",
         "en-US": "ArmorCloth",
         "pt-BR": "Armadura",
         "es-ES": "Armadura"
     },
     "53CnDA": {
-        "ko-KR": "걸칠것",
         "en-US": "Garment",
         "pt-BR": "Capa",
         "es-ES": "Capa"
     },
     "6HCnDA": {
-        "ko-KR": "왼쪽 액세서리",
         "en-US": "Left Accessory",
         "pt-BR": "Acessório Esquerdo",
         "es-ES": "Accesorio Izquierdo"
     },
     "6XCnDA": {
-        "ko-KR": "[OSC1198]\n잘 생각하시고 이용해주시기 바랍니다.",
         "en-US": "[OSC1198]\nPlease think it over carefully before using it.",
         "pt-BR": "[OSC1198]\nVolte quando mudar de ideia.",
         "es-ES": "[OSC1198]\nVuelve cuando cambies de idea."
     },
     "6nCnDA": {
-        "ko-KR": "[OSC1198]\n장비를 벗고 계신건 아닌가요?",
         "en-US": "[OSC1198]\nAren't you unequipped?",
         "pt-BR": "[OSC1198]\nVocê não está sem equipamento, está?",
         "es-ES": "[OSC1198]\nNo estarás sin equipo, ¿verdad?"
     },
     "63CnDA": {
-        "ko-KR": "^FF0000랜덤옵션이 확인됩니다. 해당 장비는 작업 하실 수 없습니다.^000000",
         "en-US": "^FF0000Random options have been detected. You cannot work on this equipment.^000000",
         "pt-BR": "^FF0000Não é possível prosseguir. O item contém Bônus Aleatórios.^000000\"",
         "es-ES": "^FF0000No es posible continuar. El objeto contiene Bonos Aleatorios.^000000"
     },
     "7HCnDA": {
-        "ko-KR": "국왕 슈미츠의 제복",
         "en-US": "King Schmidt's Uniform",
         "pt-BR": "Vestes de Schmidt",
         "es-ES": "Traje de Schmidt"
     },
     "7XCnDA": {
-        "ko-KR": "저주에 잠식되는 결정",
         "en-US": "Crystal Corrupted by Curse",
         "pt-BR": "Gema Corrompida",
         "es-ES": "Mineral Corrompido"
     },
     "7nCnDA": {
-        "ko-KR": "국왕 슈미츠의 망토",
         "en-US": "King Schmidt's Manteau",
         "pt-BR": "Manto de Schmidt",
         "es-ES": "Capa de Schmidt"
     },
     "73CnDA": {
-        "ko-KR": "국왕 슈미츠의 강인휘장",
         "en-US": "King Schmidt's Badge of Fortitude",
         "pt-BR": "Brasão de Schmidt FOR",
         "es-ES": "Blasón de Schmidt FUE"
     },
     "8HCnDA": {
-        "ko-KR": "저주에 침식된 원석",
         "en-US": "Ore Eroded by Curse",
         "pt-BR": "Cristal Corrompido",
         "es-ES": "Cristal Corrupto"
     },
     "8XCnDA": {
-        "ko-KR": "국왕 슈미츠의 신력휘장",
         "en-US": "King Schmidt's Badge of Divine Power",
         "pt-BR": "Brasão de Schmidt INT",
         "es-ES": "Blasón de Schmidt INT"
     },
     "8nCnDA": {
-        "ko-KR": "국왕 슈미츠의 백운휘장",
         "en-US": "King Schmidt's Badge of White Cloud",
         "pt-BR": "Brasão de Schmidt SOR",
         "es-ES": "Blasón de Schmidt SUE"
     },
     "83CnDA": {
-        "ko-KR": "국왕 슈미츠의 강체휘장",
         "en-US": "King Schmidt's Badge of Strong Body",
         "pt-BR": "Brasão de Schmidt VIT",
         "es-ES": "Blasón de Schmidt VIT"
     },
     "9HCnDA": {
-        "ko-KR": "국왕 슈미츠의 섬광휘장",
         "en-US": "King Schmidt's Badge of Flash",
         "pt-BR": "Brasão de Schmidt AGI",
         "es-ES": "Blasón de Schmidt AGI"
     },
     "9XCnDA": {
-        "ko-KR": "국왕 슈미츠의 천궁휘장",
         "en-US": "King Schmidt's Badge of Sky Palace",
         "pt-BR": "Brasão de Schmidt DES",
         "es-ES": "Blasón de Schmidt DES"
     },
     "9nCnDA": {
-        "ko-KR": "[OSC1198]\n이 장비는 슈미츠왕의 유물이 아닙니다. 분해할 수 없습니다.",
         "en-US": "[OSC1198]\nThis equipment is not a relic of King Schmidt. It cannot be dismantled.",
         "pt-BR": "[OSC1198]\nNão posso prosseguir. O item equipado não é um espólio do Rei Schmidt.",
         "es-ES": "[OSC1198]\nNo puedo continuar. El objeto equipado no es un botín del Rey Schmidt."
     },
     "93CnDA": {
-        "ko-KR": "[OSC1198]\n최소한 1회 이상의 강화를 시도했던 장비만 분해해 드리고 있습니다.",
         "en-US": "[OSC1198]\nI can only dismantle equipment that has been enhanced at least once.",
         "pt-BR": "[OSC1198]\nApenas equipamentos que foram encantados pelo menos 1 vez podem ser trocados.",
         "es-ES": "[OSC1198]\nSolo los equipos que han sido encantados al menos 1 vez pueden ser intercambiados."
     },
     "+HCnDA": {
-        "ko-KR": "{0}개 ~ {1}개",
         "en-US": "{0} to {1} items",
         "pt-BR": "{0} un. ~ {1} un.",
         "es-ES": "{0} un. ~ {1} un."
     },
     "+XCnDA": {
-        "ko-KR": "[OSC1198]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>] 유물\n강화된 횟수 - ^FF0000{2}회^000000\n===============\n[분해 예상 결과]\n[<ITEM>{3}<INFO>{4}</INFO></ITEM>] {5}",
         "en-US": "[OSC1198]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>] Relic\nNumber of upgrades - ^FF0000{2} time(s)^000000\n===============\n[Expected Dismantling Results]\n[<ITEM>{3}<INFO>{4}</INFO></ITEM>] {5}",
         "pt-BR": "[OSC1198]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nEncantos - ^FF0000{2}x^000000\n===============\n[Resultado Previsto]\n{5}x [<ITEM>{3}<INFO>{4}</INFO></ITEM>]",
         "es-ES": "[OSC1198]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nEncantos - ^FF0000{2}x^000000\n===============\n[Resultado Previsto]\n{5}x [<ITEM>{3}<INFO>{4}</INFO></ITEM>]"
     },
     "+nCnDA": {
-        "ko-KR": "취소한다",
         "en-US": "Cancel.",
         "pt-BR": "Cancelar.",
         "es-ES": "Cancelar."
     },
     "+3CnDA": {
-        "ko-KR": "분해를 진행한다",
         "en-US": "Proceed with dismantling.",
         "pt-BR": "Continuar.",
         "es-ES": "Continuar."
     },
     "/HCnDA": {
-        "ko-KR": "[OSC1052]\n분해를 원하실때 다시 찾아주세요.",
         "en-US": "[OSC1052]\nPlease come back when you want to dismantle something.",
         "pt-BR": "[OSC1052]\nVolte quando quiser.",
         "es-ES": "[OSC1052]\nVuelve cuando quieras."
     },
     "/XCnDA": {
-        "ko-KR": "[OSC1198]\n입고있던 장비를 중간에 벗으면 굉장히 위험합니다.",
         "en-US": "[OSC1198]\nIt's very dangerous to take off equipment you're wearing in the middle of it.",
         "pt-BR": "[OSC1198]\nÉ perigoso retirar o equipamento durante o processo.",
         "es-ES": "[OSC1198]\nEs peligroso retirar el equipo durante el proceso."
     },
     "/nCnDA": {
-        "ko-KR": "[OSC1198]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2} 개를 입수했습니다",
         "en-US": "[OSC1198]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>] You have obtained {2} of them.",
         "pt-BR": "[OSC1198]\nVocê obteve {2}x [<ITEM>{0}<INFO>{1}</INFO></ITEM].",
         "es-ES": "[OSC1198]\nObtuviste {2}x [<ITEM>{0}<INFO>{1}</INFO></ITEM]."
     },
     "/3CnDA": {
-        "ko-KR": "그리고 그동안의 거래에 감사하는 의미로 소정의 의상 사은품을 함께 지급해드렸습니다.",
         "en-US": "And as a token of our gratitude for your business, we have also provided a small [Costume] gift.",
         "pt-BR": "E como agradecimento pela troca, também lhe demos um pequeno presente.",
         "es-ES": "Y como agradecimiento por el intercambio, también te damos un pequeño regalo."
     },
     "AHGnDA": {
-        "ko-KR": "OSC1052",
         "en-US": "OSC1052",
         "pt-BR": "OSC1052",
         "es-ES": "OSC1052"
     },
     "AXGnDA": {
-        "ko-KR": "국왕 슈미츠의 제복",
         "en-US": "King Schmidt's Uniform",
         "pt-BR": "Vestes de Schmidt",
         "es-ES": "Traje de Schmidt"
     },
     "AnGnDA": {
-        "ko-KR": "국왕 슈미츠의 망토",
         "en-US": "King Schmidt's Manteau",
         "pt-BR": "Manto de Schmidt",
         "es-ES": "Capa de Schmidt"
     },
     "A3GnDA": {
-        "ko-KR": "국왕 슈미츠의 강인휘장",
         "en-US": "King Schmidt's Badge of Fortitude",
         "pt-BR": "Brasão de Schmidt FOR",
         "es-ES": "Blasón de Schmidt FUE"
     },
     "BHGnDA": {
-        "ko-KR": "국왕 슈미츠의 신력휘장",
         "en-US": "King Schmidt's Badge of Divine Power",
         "pt-BR": "Brasão de Schmidt INT",
         "es-ES": "Blasón de Schmidt INT"
     },
     "BXGnDA": {
-        "ko-KR": "국왕 슈미츠의 백운휘장",
         "en-US": "King Schmidt's Badge of White Cloud",
         "pt-BR": "Brasão de Schmidt SOR",
         "es-ES": "Blasón de Schmidt SUE"
     },
     "BnGnDA": {
-        "ko-KR": "국왕 슈미츠의 강체휘장",
         "en-US": "King Schmidt's Badge of Strong Body",
         "pt-BR": "Brasão de Schmidt VIT",
         "es-ES": "Blasón de Schmidt VIT"
     },
     "B3GnDA": {
-        "ko-KR": "국왕 슈미츠의 섬광휘장",
         "en-US": "King Schmidt's Badge of Flash",
         "pt-BR": "Brasão de Schmidt AGI",
         "es-ES": "Blasón de Schmidt AGI"
     },
     "CHGnDA": {
-        "ko-KR": "국왕 슈미츠의 천궁휘장",
         "en-US": "King Schmidt's Badge of Sky Palace",
         "pt-BR": "Brasão de Schmidt DES",
         "es-ES": "Blasón de Schmidt DES"
     },
     "CXGnDA": {
-        "ko-KR": "[OSC1052]\n몰락한 글래스트헤임의 유물을 보관하고 있습니다. 원하는 물건의 정보를 입력해 주십시오.",
         "en-US": "[OSC1052]\nI am keeping the relics of Fallen Glastheim. Please enter the information for the item you want.",
         "pt-BR": "[OSC1052]\nMinha função é trocar os minérios Corrompidos por espólios do Rei Schmidt.",
         "es-ES": "[OSC1052]\nMi función es intercambiar las reliquias Corrompidas por bienes del Rey Schmidt."
     },
     "CnGnDA": {
-        "ko-KR": "[OSC1052]\n또 들러주십시오. 차원의 가호를 받으신 분들은 언제나 환영합니다.",
         "en-US": "[OSC1052]\nPlease visit again. Those who have received the blessing of the dimension are always welcome.",
         "pt-BR": "[OSC1052]\nVenha nos visitar novamente. Aqueles que receberam a bênção dimensional são sempre bem-vindos.",
         "es-ES": "[OSC1052]\nVen a visitarnos nuevamente. Aquellos que han recibido la bendición dimensional siempre son bienvenidos."
     },
     "C3GnDA": {
-        "ko-KR": "국왕 슈미츠의 제복",
         "en-US": "King Schmidt's Uniform",
         "pt-BR": "Vestes de Schmidt",
         "es-ES": "Traje de Schmidt"
     },
     "DHGnDA": {
-        "ko-KR": "시간의 결정",
         "en-US": "Temporal Crystal",
         "pt-BR": "Cristal do Tempo",
         "es-ES": "Cristal Temporal"
     },
     "DXGnDA": {
-        "ko-KR": "국왕 슈미츠의 망토",
         "en-US": "King Schmidt's Manteau",
         "pt-BR": "Manto de Schmidt",
         "es-ES": "Capa de Schmidt"
     },
     "DnGnDA": {
-        "ko-KR": "국왕 슈미츠의 강인휘장",
         "en-US": "King Schmidt's Badge of Fortitude",
         "pt-BR": "Brasão de Schmidt FOR",
         "es-ES": "Blasón de Schmidt FUE"
     },
     "D3GnDA": {
-        "ko-KR": "오염된 마력",
         "en-US": "Contaminated Magic",
         "pt-BR": "Mana Sombria",
         "es-ES": "Magia Contaminada"
     },
     "EHGnDA": {
-        "ko-KR": "국왕 슈미츠의 신력휘장",
         "en-US": "King Schmidt's Badge of Divine Power",
         "pt-BR": "Brasão de Schmidt INT",
         "es-ES": "Blasón de Schmidt INT"
     },
     "EXGnDA": {
-        "ko-KR": "국왕 슈미츠의 백운휘장",
         "en-US": "King Schmidt's Badge of White Cloud",
         "pt-BR": "Brasão de Schmidt SOR",
         "es-ES": "Blasón de Schmidt SUE"
     },
     "EnGnDA": {
-        "ko-KR": "국왕 슈미츠의 강체휘장",
         "en-US": "King Schmidt's Badge of Strong Body",
         "pt-BR": "Brasão de Schmidt VIT",
         "es-ES": "Blasón de Schmidt VIT"
     },
     "E3GnDA": {
-        "ko-KR": "국왕 슈미츠의 섬광휘장",
         "en-US": "King Schmidt's Badge of Flash",
         "pt-BR": "Brasão de Schmidt AGI",
         "es-ES": "Blasón de Schmidt AGI"
     },
     "FHGnDA": {
-        "ko-KR": "국왕 슈미츠의 천궁휘장",
         "en-US": "King Schmidt's Badge of Sky Palace",
         "pt-BR": "Brasão de Schmidt DES",
         "es-ES": "Blasón de Schmidt DES"
     },
     "FXGnDA": {
-        "ko-KR": "[OSC1052]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[필요재료]\n[<ITEM>{2}<INFO>{3}</INFO></ITEM>] {4}개\n[<ITEM>{5}<INFO>{6}</INFO></ITEM>] {7}개",
         "en-US": "[OSC1052]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[Required Materials]\n[<ITEM>{2}<INFO>{3}</INFO></ITEM>] {4} pcs\n[<ITEM>{5}<INFO>{6}</INFO></ITEM>] {7} pcs",
         "pt-BR": "[OSC1052]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[Materiais]\n{4}x [<ITEM>{2}<INFO>{3}</INFO></ITEM>]\n{7}x [<ITEM>{5}<INFO>{6}</INFO></ITEM>]",
         "es-ES": "[OSC1052]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[Materiales]\n{4}x [<ITEM>{2}<INFO>{3}</INFO></ITEM>]\n{7}x [<ITEM>{5}<INFO>{6}</INFO></ITEM>]"
     },
     "FnGnDA": {
-        "ko-KR": "구매한다",
         "en-US": "Buy",
         "pt-BR": "Trocar",
         "es-ES": "Intercambiar"
     },
     "F3GnDA": {
-        "ko-KR": "[OSC1052]\n거래를 위한 재료가 부족합니다. 한번 더 확인해 주십시오.",
         "en-US": "[OSC1052]\nYou don't have enough materials to trade. Please check again.",
         "pt-BR": "[OSC1052]\nNão há materiais necessários para a troca.",
         "es-ES": "[OSC1052]\nNo tienes los materiales necesarios para el intercambio."
     },
     "GHGnDA": {
-        "ko-KR": "[OSC1052]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>] 유물\n===============\n[필요재료]\n[<ITEM>{2}<INFO>{3}</INFO></ITEM>] {4}개\n[<ITEM>{5}<INFO>{6}</INFO></ITEM>] {7}개",
         "en-US": "[OSC1052]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>] Relic\n===============\n[Required Materials]\n[<ITEM>{2}<INFO>{3}</INFO></ITEM>] {4}\n[<ITEM>{5}<INFO>{6}</INFO></ITEM>] {7}",
         "pt-BR": "\"[OSC1052]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[Materiais]\n{4}x [<ITEM>{2}<INFO>{3}</INFO></ITEM>]\n{7}x [<ITEM>{5}<INFO>{6}</INFO></ITEM>]\"",
         "es-ES": "[OSC1052]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[Materiales]\n{4}x [<ITEM>{2}<INFO>{3}</INFO></ITEM>]\n{7}x [<ITEM>{5}<INFO>{6}</INFO></ITEM>]"
     },
     "GXGnDA": {
-        "ko-KR": "[OSC1052]\n선택하신 [<ITEM>{0}<INFO>{1}</INFO></ITEM>] 유물의 지급이 완료되었습니다.",
         "en-US": "[OSC1052]\nDistribution of the selected [<ITEM>{0}<INFO>{1}</INFO></ITEM>] relic has been completed.",
         "pt-BR": "[OSC1052]\nVocê recebeu [<ITEM>{0}<INFO>{1}</INFO></ITEM>].",
         "es-ES": "[OSC1052]\nRecibiste [<ITEM>{0}<INFO>{1}</INFO></ITEM>]."
     },
     "GnGnDA": {
-        "ko-KR": "OSC1127",
         "en-US": "OSC1127",
         "pt-BR": "OSC1127",
         "es-ES": "OSC1127"
     },
     "G3GnDA": {
-        "ko-KR": "[OSC1127]\n국왕 슈미츠의 유물을 강화하고 싶다면 언제든 이용해 주십시오. 강화하실 부위를 선택하시겠습니까?",
         "en-US": "[OSC1127]\nIf you wish to enhance the relic of King Schmidt, please feel free to use this anytime. Would you like to choose which part to enhance?",
         "pt-BR": "[OSC1127]\nMinha função é encantar os espólios do Rei Schmidt. Que equipamento deseja encantar?",
         "es-ES": "[OSC1127]\nMi función es encantar los botines del Rey Schmidt. ¿Qué equipo deseas encantar?"
     },
     "HHGnDA": {
-        "ko-KR": "[OSC1127]\n원하실 때 다시 이용해 주십시오.",
         "en-US": "[OSC1127]\nPlease use it again whenever you wish.",
         "pt-BR": "[OSC1127]\nVolte quando quiser.",
         "es-ES": "[OSC1127]\nVuelve cuando quieras."
     },
     "HXGnDA": {
-        "ko-KR": "[OSC1127]\n장비를 벗고 계신건 아닌가요?",
         "en-US": "[OSC1127]\nAren't you unequipped?",
         "pt-BR": "[OSC1127]\nVocê não está sem equipamento, está?",
         "es-ES": "[OSC1127]\n¿No estarás sin equipo, verdad?"
     },
     "HnGnDA": {
-        "ko-KR": "[OSC1127]\n입고있던 장비를 중간에 벗으면 굉장히 위험합니다.",
         "en-US": "[OSC1127]\nIt's very dangerous to take off equipment you're wearing in the middle of it.",
         "pt-BR": "[OSC1127]\nÉ perigoso retirar o equipamento durante o processo.",
         "es-ES": "[OSC1127]\nEs peligroso retirar el equipo durante el proceso."
     },
     "H3GnDA": {
-        "ko-KR": "응고된 마력",
         "en-US": "Congealed Magic Power",
         "pt-BR": "Mana Coagulada",
         "es-ES": "Hechizo Coagulado"
     },
     "IHGnDA": {
-        "ko-KR": "[OSC1127]\n이 장비는 슈미츠왕의 유물이 아닙니다. 강화할 수 없습니다.",
         "en-US": "[OSC1127]\nThis equipment is not a relic of King Schmidt. It cannot be refined.",
         "pt-BR": "[OSC1127]\nEsse item não é um espólio do Rei Schmidt e não pode ser encantado.",
         "es-ES": "[OSC1127]\nEste ítem no es un botín del Rey Schmidt y no puede ser encantado."
     },
     "IXGnDA": {
-        "ko-KR": "[OSC1127]\n이 장비는 이미 한계치까지 강화되어 있습니다.",
         "en-US": "[OSC1127]\nThis equipment has already been refined to its limit.",
         "pt-BR": "[OSC1127]\nEsse item já foi encantado ao máximo.",
         "es-ES": "[OSC1127]\nEste ítem ya está encantado al máximo."
     },
     "InGnDA": {
-        "ko-KR": "[OSC1127]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>] 유물\n===============\n[강화재료]\n[<ITEM>{2}<INFO>{3}</INFO></ITEM>] {4}개\n[<ITEM>{5}<INFO>{6}</INFO></ITEM>] {7}개",
         "en-US": "[OSC1127]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>] Relic\n===============\n[Enhancement Materials]\n[<ITEM>{2}<INFO>{3}</INFO></ITEM>] {4}\n[<ITEM>{5}<INFO>{6}</INFO></ITEM>] {7}",
         "pt-BR": "\"[OSC1127]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[Materiais]\n{4}x [<ITEM>{2}<INFO>{3}</INFO></ITEM>]\n{7}x [<ITEM>{5}<INFO>{6}</INFO></ITEM>]\"",
         "es-ES": "[OSC1127]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[Materiales]\n{4}x [<ITEM>{2}<INFO>{3}</INFO></ITEM>]\n{7}x [<ITEM>{5}<INFO>{6}</INFO></ITEM>]"
     },
     "I3GnDA": {
-        "ko-KR": "강화를 진행한다",
         "en-US": "Proceed with refinement.",
         "pt-BR": "Iniciar o encantamento",
         "es-ES": "Iniciar el encantamiento"
     },
     "JHGnDA": {
-        "ko-KR": "[OSC1127]\n강화를 원하실때 다시 찾아주세요.",
         "en-US": "[OSC1127]\nPlease come back when you want to upgrade your equipment.",
         "pt-BR": "[OSC1127]\nVolte quando quiser.",
         "es-ES": "[OSC1127]\nVuelve cuando quieras."
     },
     "JXGnDA": {
-        "ko-KR": "[OSC1127]\n이 장비는 매우 불안정한 상태입니다. 약 30% 의 파괴확률이 예상됩니다 그래도 진행하시겠습니까?",
         "en-US": "[OSC1127]\nThis equipment is in a very unstable state. A destruction chance of about 30% is expected. Do you still want to proceed?",
         "pt-BR": "[OSC1127]\nHá 30% de chance de falha e perda total. Deseja continuar?",
         "es-ES": "[OSC1127]\nHay un 30% de probabilidad de falla y pérdida total. ¿Deseas continuar?"
     },
     "JnGnDA": {
-        "ko-KR": "[OSC1127]\n오류가 발생했군요. 이대론 진행이 불가능합니다.",
         "en-US": "[OSC1127]\nAn error has occurred. We can't proceed like this.",
         "pt-BR": "[OSC1127]\nOcorreu um erro.",
         "es-ES": "[OSC1127]\nOcurrió un error."
     },
     "J3GnDA": {
-        "ko-KR": "[OSC1127]\n이미 한계치 까지 강화된 유물입니다.",
         "en-US": "[OSC1127]\nThis relic has already been refined to its limit.",
         "pt-BR": "[OSC1127]\nEsse item já está encantado ao máximo.",
         "es-ES": "[OSC1127]\nEste ítem ya está encantado al máximo."
     },
     "KHGnDA": {
-        "ko-KR": "[OSC1127]\n거래를 위한 재료가 부족합니다. 한번 더 확인해 주십시오.",
         "en-US": "[OSC1127]\nYou don't have enough materials to trade. Please check again.",
         "pt-BR": "[OSC1127]\nNão há materiais necessários para a troca.",
         "es-ES": "[OSC1127]\nNo tienes los materiales necesarios para el intercambio."
     },
     "KXGnDA": {
-        "ko-KR": "[OSC1127]",
         "en-US": "[OSC1127]",
         "pt-BR": "[OSC1127]",
         "es-ES": "[OSC1127]"
     },
     "KnGnDA": {
-        "ko-KR": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>] 유물의 강화가 실패했습니다.^000000",
         "en-US": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>] Artifact enhancement has failed.^000000",
         "pt-BR": "^FF0000Falha ao encantar [<ITEM>{0}<INFO>{1}</INFO></ITEM>].^000000",
         "es-ES": "^FF0000Falló al encantar [<ITEM>{0}<INFO>{1}</INFO></ITEM>].^000000"
     },
     "K3GnDA": {
-        "ko-KR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] 유물의 강화가 완료되었습니다.",
         "en-US": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] Artifact enhancement is complete.",
         "pt-BR": "Encantei o item [<ITEM>{0}<INFO>{1}</INFO></ITEM>].",
         "es-ES": "Encanté el ítem [<ITEM>{0}<INFO>{1}</INFO></ITEM>]."

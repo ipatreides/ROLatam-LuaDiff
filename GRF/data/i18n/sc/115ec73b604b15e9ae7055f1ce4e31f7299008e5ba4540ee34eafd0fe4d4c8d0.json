@@ -1,0 +1,27 @@
+{
+    "IMUwDQ": {
+        "en-US": "BotReport",
+        "pt-BR": "Relatório de Bot",
+        "es-ES": "Reporte de Bot"
+    },
+    "IcUwDQ": {
+        "en-US": "^0000FFOther adventurers have reported you. Please check the questionnaire below to determine if you are human or not.^000000",
+        "pt-BR": "^0000FFOutros aventureiros relataram você. Por favor, verifique o questionário abaixo para determinar se você é humano ou não.^000000",
+        "es-ES": "^0000FFOtros aventureros han informado sobre usted. Por favor, revise el cuestionario a continuación para determinar si es humano o no.^000000"
+    },
+    "IsUwDQ": {
+        "en-US": "Refuse.",
+        "pt-BR": "Recusar.",
+        "es-ES": "Rechazar."
+    },
+    "I8UwDQ": {
+        "en-US": "I'm human.",
+        "pt-BR": "Sou humano.",
+        "es-ES": "Soy humano."
+    },
+    "JMUwDQ": {
+        "en-US": "You refused to answer. We will move you to a safe village.",
+        "pt-BR": "Você se recusou a responder. Vamos levar você para uma vila segura.",
+        "es-ES": "Usted se negó a responder. Le llevaremos a un pueblo seguro."
+    }
+}

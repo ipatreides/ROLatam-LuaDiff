@@ -1,21 +1,21 @@
 {
     "4DJeDA": {
         "ko-KR": "밝히리",
-        "en-US": "Reveal",
-        "pt-BR": "Vou revelar",
-        "es-ES": "Revelaré"
+        "en-US": "Valkyrie",
+        "pt-BR": "Valquíria",
+        "es-ES": "Valquiria"
     },
     "4TJeDA": {
         "ko-KR": "잠깐, 이리 와 볼래?",
         "en-US": "Hey, why don't you come over here?",
         "pt-BR": "Espera aí, vem aqui um pouco?",
-        "es-ES": "Un momento, ¿quieres venir aquí?"
+        "es-ES": "Un momento, ¿por qué no vienes aquí?"
     },
     "4jJeDA": {
         "ko-KR": "[밝히리]\n그대, 여기엔 어떻게 온 건가?",
-        "en-US": "[Reveal]\nSo, what brings thee here?",
-        "pt-BR": "[Bakhiri]\nComo você chegou aqui?",
-        "es-ES": "[Balkiri]\n¿Cómo has llegado hasta aquí?"
+        "en-US": "[Valkyrie]\nSo, what brings thee here?",
+        "pt-BR": "[Valquíria]\nComo você chegou aqui?",
+        "es-ES": "[Valquiria]\n¿Cómo has llegado hasta aquí?"
     },
     "4zJeDA": {
         "ko-KR": "동사무소 볼일 보러 왔는데?",
@@ -27,19 +27,19 @@
         "ko-KR": "당신이 불렀잖아?",
         "en-US": "Didn't you call me?",
         "pt-BR": "Foste tu que me chamaste, não foste?",
-        "es-ES": "¿No me llamaste tú?"
+        "es-ES": "Tú fuiste quien me llamó, ¿verdad?"
     },
     "5TJeDA": {
         "ko-KR": "[밝히리]\n동사무소 볼일...? 사회적 용무보다 자기 자신에 대한 볼일이 급해보이는데? 괜찮아? 그 상태로?",
-        "en-US": "[Reveal]\nNeighborhood office business...? Looks more like personal business than social business. Are you okay? In that state?",
-        "pt-BR": "[Bakhiri]\nAssuntos na prefeitura...? Parece que você tem assuntos mais urgentes com você mesmo do que com a sociedade. Você tá bem? Nesse estado?",
-        "es-ES": "[Bakhiri]\n¿Asuntos en la oficina municipal...? Parece que tienes asuntos más urgentes que atender contigo mismo que con la sociedad. ¿Estás bien? ¿En ese estado?"
+        "en-US": "[Valkyrie]\nNeighborhood office business...? Looks more like personal business than social business. Are you okay? In that state?",
+        "pt-BR": "[Valquíria]\nAssuntos na prefeitura...? Parece que você tem assuntos mais urgentes com você mesmo do que com a sociedade. Você tá bem? Nesse estado?",
+        "es-ES": "[Valquiria]\n¿Asuntos en la oficina municipal...? Parece que tienes asuntos más urgentes que atender contigo mismo que con la sociedad. ¿Estás bien? ¿En ese estado?"
     },
     "5jJeDA": {
         "ko-KR": "[밝히리]\n내가? ...그랬군.",
-        "en-US": "[Valkyrja]\nDid I? ...I did, didn't I?",
-        "pt-BR": "[Bakkiri]\nEu? ...É verdade.",
-        "es-ES": "[Bakkiri]\n¿Yo? ...Ah, ya."
+        "en-US": "[Valkyrie]\nDid I? ...I did, didn't I?",
+        "pt-BR": "[Valquíria]\nEu? ...É verdade.",
+        "es-ES": "[Valquiria]\n¿Yo? ...Ah, ya."
     },
     "5zJeDA": {
         "ko-KR": "그새 잊었나?",
@@ -49,33 +49,33 @@
     },
     "6DJeDA": {
         "ko-KR": "[밝히리]\n아니, 불렀다면... 부른 거겠지.\n자격도 안되는 이가 높은 곳에 올라가려고 애 쓰고 있는게 안쓰러워서 불렀겠지.",
-        "en-US": "[Valkyrja]\nNo, if I called you... then I must have called you.\nI probably called you because I felt sorry for you struggling so hard to reach the next level when it's not allowed to you.",
-        "pt-BR": "[Balkiri]\nNão, se me chamaste... foi porque me chamaste.\nDeves ter-me chamado porque te deu pena ver alguém sem qualificações a esforçar-se tanto para chegar a um lugar alto.",
-        "es-ES": "[Bakhri]\nNo, si me llamaste... es que me llamaste.\nSeguramente me llamaste porque te daba pena ver a alguien que ni siquiera tiene las calidades necesarias esforzándose por llegar a lo alto."
+        "en-US": "[Valkyrie]\nNo, if I called you... then I must have called you.\nI probably called you because I felt sorry for you struggling so hard to reach the next level when it's not allowed to you.",
+        "pt-BR": "[Valquíria]\nNão, se me chamaste... foi porque me chamaste.\nDeves ter-me chamado porque te deu pena ver alguém sem qualificações a esforçar-se tanto para chegar a um lugar alto.",
+        "es-ES": "[Valquiria]\nNo, si me llamaste... es que me llamaste.\nSeguramente me llamaste porque te daba pena ver a alguien que ni siquiera tiene las calidades necesarias esforzándose por llegar a lo alto."
     },
     "6TJeDA": {
         "ko-KR": "[밝히리]\n나에게 감사 인사를 해. 그곳에서 평생을 비비적거리고 있어 봤자 그대는 벽을 부술 수가 없었을 테니.",
-        "en-US": "[Valkyrja]\nYou should thank me. You wouldn't have been able to break through that wall no matter how long you spent struggling there.",
-        "pt-BR": "[Bakkiri]\nAgradece a mim. Por mais que você passasse a vida inteira se debatendo lá, não teria conseguido derrubar a parede.",
-        "es-ES": "[Bakhri]\nDale las gracias a mí. Porque por mucho que te hubieras esforzado toda la vida desde ahí, no habrías podido derribar ese muro."
+        "en-US": "[Valkyrie]\nYou should thank me. You wouldn't have been able to break through that wall no matter how long you spent struggling there.",
+        "pt-BR": "[Valquíria]\nAgradece a mim. Por mais que você passasse a vida inteira se debatendo lá, não teria conseguido derrubar a parede.",
+        "es-ES": "[Valquiria]\nDale las gracias a mí. Porque por mucho que te hubieras esforzado toda la vida desde ahí, no habrías podido derribar ese muro."
     },
     "6jJeDA": {
         "ko-KR": "[밝히리]\n남들처럼 벽을 부수어야 할 텐데. 그렇지? 아냐? 그럴 텐데?",
-        "en-US": "[Valkyrja]\nYou want to break through that wall, like everyone else, don't you?",
-        "pt-BR": "[Bakhiri]\nVocê deveria derrubar a parede como todo mundo. Não é? Não? Deveria, né?",
-        "es-ES": "[Bakhiri]\nDeberías romper el muro como los demás. ¿No? ¿No? ¿Seguro que sí?"
+        "en-US": "[Valkyrie]\nYou want to break through that wall, like everyone else, don't you?",
+        "pt-BR": "[Valquíria]\nVocê deveria derrubar a parede como todo mundo. Não é? Não? Deveria, né?",
+        "es-ES": "[Valquiria]\nDeberías romper el muro como los demás. ¿No? ¿No? ¿Seguro que sí?"
     },
     "6zJeDA": {
         "ko-KR": "[밝히리]\n그런데 한계가 있네. 태생적인 한계가. 벽을 부수려면 발할라의 기운이 깃들어야 하는데 그대, 다녀온 적 없잖아? 지금 그 상태로는 받아주지도 않고. 맞지?",
-        "en-US": "[Valkyrja]\nBut there's a limit. An inherent limit. To break through that wall, you need the power of Valhalla, but you've never been there, have you? In your current state, they won't even accept you. Right?",
-        "pt-BR": "[Balkhiri]\nMas há um limite. Um limite inato. Para derrubar a parede, é preciso que a energia de Valhalla esteja presente, mas você nunca esteve lá, não é? E, no seu estado atual, eles nem te aceitariam. Certo?",
-        "es-ES": "[Balkhiri]\nPero hay un límite. Un límite innato. Para romper el muro, necesitas que te invada el poder de Valhalla, pero tú nunca has estado allí, ¿verdad? Y en tu estado actual, ni siquiera te aceptarían. ¿No es así?"
+        "en-US": "[Valkyrie]\nBut there's a limit. An inherent limit. To break through that wall, you need the power of Valhalla, but you've never been there, have you? In your current state, they won't even accept you. Right?",
+        "pt-BR": "[Valquíria]\nMas há um limite. Um limite inato. Para derrubar a parede, é preciso que a energia de Valhalla esteja presente, mas você nunca esteve lá, não é? E, no seu estado atual, eles nem te aceitariam. Certo?",
+        "es-ES": "[Valquiria]\nPero hay un límite. Un límite innato. Para romper el muro, necesitas que te invada el poder de Valhalla, pero tú nunca has estado allí, ¿verdad? Y en tu estado actual, ni siquiera te aceptarían. ¿No es así?"
     },
     "7DJeDA": {
         "ko-KR": "[밝히리]\n내가 도와줄 수 있는데. 물론 대가 없이.",
-        "en-US": "[Valkyrja]\nI can help you. For free, of course.",
-        "pt-BR": "[Balkhiri]\nEu posso te ajudar. Claro, sem pedir nada em troca.",
-        "es-ES": "[Balkiri]\nYo te puedo ayudar. Claro, sin pedir nada a cambio."
+        "en-US": "[Valkyrie]\nI can help you. For free, of course.",
+        "pt-BR": "[Valquíria]\nEu posso te ajudar. Claro, sem pedir nada em troca.",
+        "es-ES": "[Valquiria]\nYo te puedo ayudar. Claro, sin pedir nada a cambio."
     },
     "7TJeDA": {
         "ko-KR": "대가 없는 호의는 주의하랬는데.",
@@ -91,15 +91,15 @@
     },
     "7zJeDA": {
         "ko-KR": "[밝히리]\n나 못믿어? 내가 이 바닥에서 무료 및 저가 봉사를 한지가 몇 년인데. 이렇게 신용이 없어?",
-        "en-US": "[Valkyrja]\nDon't you trust me? I've been working for you guys for free or dirt cheap for years. I thought you were better than that.",
-        "pt-BR": "[Bakhiri]\nNão confias em mim? Há quantos anos eu venho prestando serviços gratuitos e a preços baixos por aí? Tão pouca confiança assim?",
-        "es-ES": "[Bakhiri]\n¿No confías en mí? ¿Cuántos años llevo haciendo servicios gratuitos y a bajo costo en este mundillo? ¿Tan poca confianza tienes en mí?"
+        "en-US": "[Valkyrie]\nDon't you trust me? I've been working for you guys for free or dirt cheap for years. I thought you were better than that.",
+        "pt-BR": "[Valquíria]\nNão confias em mim? Há quantos anos eu venho prestando serviços gratuitos e a preços baixos por aí? Tão pouca confiança assim?",
+        "es-ES": "[Valquiria]\n¿No confías en mí? ¿Cuántos años llevo haciendo servicios gratuitos y a bajo costo en este mundillo? ¿Tan poca confianza tienes en mí?"
     },
     "8DJeDA": {
         "ko-KR": "[밝히리]\n         <FONT SIZE = 16><B><I>특별 대상 한정!</I></B></FONT>\n    <FONT SIZE = 10>(200레벨의 비전승 3차 직업만이야!)</FONT>",
-        "en-US": "[Valkyrja]\n         <FONT SIZE = 16><B><I>For Special Targets Only!</I></B></FONT>\n    <FONT SIZE = 10>(Specifically, non-legendary third jobs at level 200!)</FONT>",
-        "pt-BR": "[Balkhiri]\n         <FONT SIZE = 16><B><I>Limitado a destinatários especiais!</I></B></FONT>\n    <FONT SIZE = 10>(Só para classes de 3ª geração de 200 de nível!)</FONT>",
-        "es-ES": "[Balkiri]\n         <FONT SIZE = 16><B><I>¡Solo para un público especial!</I></B></FONT>\n    <FONT SIZE = 10>(¡Solo para profesiones de tercer nivel de 200 de Visionary!)</FONT>"
+        "en-US": "[Valkyrie]\n         <FONT SIZE = 16><B><I>For Special Targets Only!</I></B></FONT>\n    <FONT SIZE = 10>(Specifically, non-legendary third jobs at level 200!)</FONT>",
+        "pt-BR": "[Valquíria]\n         <FONT SIZE = 16><B><I>Limitado a destinatários especiais!</I></B></FONT>\n    <FONT SIZE = 10>(Só para classes de 3ª geração de 200 de nível!)</FONT>",
+        "es-ES": "[Valquiria]\n         <FONT SIZE = 16><B><I>¡Solo para un público especial!</I></B></FONT>\n    <FONT SIZE = 10>(¡Solo para profesiones de tercer nivel de 200 de Visionary!)</FONT>"
     },
     "8TJeDA": {
         "ko-KR": "<FONT SIZE = 14><FONT COLOR = CC0000><B>무료</B></FONT></FONT>로 <FONT SIZE = 14><FONT COLOR = 0000CD><B>전승</B></FONT></FONT>부터 <FONT SIZE = 14><FONT COLOR = 009900><B>전직</B></FONT></FONT>까지!",
@@ -121,9 +121,9 @@
     },
     "9DJeDA": {
         "ko-KR": "[밝히리]\n왜냐니? 빚은 많이 지워둘수록 좋지 않겠어? 영웅의 빚이라니, 연금만큼 든든한데? 나중에 냥다래 열매라도 하나 생기면 날 제일 먼저 생각하겠지. 아니야?",
-        "en-US": "[Valkyrja]\nWhy? Isn't it better to have as many debts as possible? A hero's debt? It's as reliable as a pension. If you ever get a Nyan Darae fruit later, you'll think of me first, right? No?",
-        "pt-BR": "[Vou revelar]\nPor quê? Quanto mais dívidas eu tiver, melhor, né? Dívida de herói, né? É tão seguro quanto uma aposentadoria, né? Se mais tarde aparecer um fruto de nyangdarae, você vai pensar em mim primeiro, né? Não é?",
-        "es-ES": "[Balkiri]\n¿Por qué? Cuanta más deuda tengas, mejor, ¿no? Una deuda de héroe, ¿no es tan segura como una pensión? Si más adelante te sale una fruta de Nyangdarae, pensarás en mí primero. ¿No?"
+        "en-US": "[Valkyrie]\nWhy? Isn't it better to have as many debts as possible? A hero's debt? It's as reliable as a pension. If you ever get a Nyan Darae fruit later, you'll think of me first, right? No?",
+        "pt-BR": "[Valquíria]\nPor quê? Quanto mais dívidas eu tiver, melhor, né? Dívida de herói, né? É tão seguro quanto uma aposentadoria, né? Se mais tarde aparecer um fruto de nyangdarae, você vai pensar em mim primeiro, né? Não é?",
+        "es-ES": "[Valquiria]\n¿Por qué? Cuanta más deuda tengas, mejor, ¿no? Una deuda de héroe, ¿no es tan segura como una pensión? Si más adelante te sale una fruta de Nyangdarae, pensarás en mí primero. ¿No?"
     },
     "9TJeDA": {
         "ko-KR": "......",
@@ -133,15 +133,15 @@
     },
     "9jJeDA": {
         "ko-KR": "[밝히리]\n고민이 왜 이리 길까? 혹시 사기 잘 당하는 애니? 지금 이순간 무료라니까?\n나 못 믿어? 나도 발키리란다?",
-        "en-US": "[Valkyrja]\nWhy are you taking so long to decide? Are you easily fooled? I'm free right now, you know?\nDon't you trust me? I'm a Valkyrie, you know?",
-        "pt-BR": "[Balkiri]\nPor que você tá demorando tanto pra decidir? Você é do tipo que cai em golpes, Ani? Tô falando que é de graça agora mesmo!\nNão confia em mim? Eu também sou uma valquíria, sabia?",
-        "es-ES": "[Balkiri]\n¿Por qué te lo piensas tanto? ¿Acaso eres de los que se dejan engañar fácilmente? Te digo que ahora mismo es gratis.\n¿No confías en mí? ¿Acaso no soy una valquiria?"
+        "en-US": "[Valkyrie]\nWhy are you taking so long to decide? Are you easily fooled? I'm free right now, you know?\nDon't you trust me? I'm a Valkyrie, you know?",
+        "pt-BR": "[Valquíria]\nPor que você tá demorando tanto pra decidir? Você é do tipo que cai em golpes, Ani? Tô falando que é de graça agora mesmo!\nNão confia em mim? Eu também sou uma valquíria, sabia?",
+        "es-ES": "[Valquiria]\n¿Por qué te lo piensas tanto? ¿Acaso eres de los que se dejan engañar fácilmente? Te digo que ahora mismo es gratis.\n¿No confías en mí? ¿Acaso no soy una valquiria?"
     },
     "9zJeDA": {
         "ko-KR": "[밝히리]\n그래서, 전승을 할 텐가? 아님 그냥 돌아갈 거야? ^0000CD전승 후에 1차 전직을 바로 할 수 있도록 레벨업 지원^000000도 해주지.",
-        "en-US": "[Valquíria]\nSo, do you want to Transcend? Or do you want to leave? ^0000CDAfter you Transcend, I can also help you level up and change to a 1st job right away.",
-        "pt-BR": "[Balkiri]\nEntão, você vai fazer a sucessão? Ou vai simplesmente voltar? ^0000CDDepois da sucessão, a gente te dá um apoio de nivelamento^000000 pra você poder fazer a primeira especialização direto.",
-        "es-ES": "[Balkiri]\nEntonces, ¿vas a transferir tu personaje? ¿O simplemente te vas a ir? ^0000CDTe daremos apoyo para subir de nivel^000000 para que puedas hacer tu primera especialización justo después de la transferencia."
+        "en-US": "[Valkyrie]\nSo, do you want to Transcend? Or do you want to leave? ^0000CDAfter you Transcend, I can also help you level up and change to a 1st job right away.",
+        "pt-BR": "[Valquíria]\nEntão, você vai fazer a sucessão? Ou vai simplesmente voltar? ^0000CDDepois da sucessão, a gente te dá um apoio de nivelamento^000000 pra você poder fazer a primeira especialização direto.",
+        "es-ES": "[Valquiria]\nEntonces, ¿vas a transferir tu personaje? ¿O simplemente te vas a ir? ^0000CDTe daremos apoyo para subir de nivel^000000 para que puedas hacer tu primera especialización justo después de la transferencia."
     },
     "+DJeDA": {
         "ko-KR": "이런 기회를 놓칠 수야 없지!",
@@ -157,27 +157,27 @@
     },
     "+jJeDA": {
         "ko-KR": "[밝히리]\n좀 더 적극적으로 외칠 수 없나?!!",
-        "en-US": "[Reveal]\nCan't you shout more actively?!!",
-        "pt-BR": "[Balkiri]\nNão dá pra gritar com mais entusiasmo?!!",
-        "es-ES": "[Balkiri]\n¿No puedes gritarlo con más ganas?!!"
+        "en-US": "[Valkyrie]\nCan't you shout more actively?!!",
+        "pt-BR": "[Valquíria]\nNão dá pra gritar com mais entusiasmo?!!",
+        "es-ES": "[Valquiria]\n¿No puedes gritarlo con más ganas?!!"
     },
     "+zJeDA": {
         "ko-KR": "[밝히리]\n아직도 날 의심하는 중이야? 됐어. 없던 일로 해.\n자, 이제 들어왔던 문으로 다시 나가지 그래?",
-        "en-US": "[Valkyrja]\nAre you still doubting me? Fine. Let's forget it.\nNow, why don't you just leave through the door you came in?",
-        "pt-BR": "[Balkiri]\nAinda tá duvidando de mim? Tá bom. Esqueça.\nPronto, que tal sair pela porta por onde você entrou?",
-        "es-ES": "[Bakiri]\n¿Todavía dudas de mí? Ya está. Olvídalo.\nBueno, ¿por qué no sales por la puerta por la que entraste?"
+        "en-US": "[Valkyrie]\nAre you still doubting me? Fine. Let's forget it.\nNow, why don't you just leave through the door you came in?",
+        "pt-BR": "[Valquíria]\nAinda tá duvidando de mim? Tá bom. Esqueça.\nPronto, que tal sair pela porta por onde você entrou?",
+        "es-ES": "[Valquiria]\n¿Todavía dudas de mí? Ya está. Olvídalo.\nBueno, ¿por qué no sales por la puerta por la que entraste?"
     },
     "/DJeDA": {
         "ko-KR": "[밝히리]\n그대, 내게 볼 일이 있어? 나는 없는데.",
-        "en-US": "[Valkyrja]\nDo you have any business with me? I don't.",
-        "pt-BR": "[Balkiri]\nVocê tem algum assunto comigo? Eu não tenho nada.",
-        "es-ES": "[Balkiri]\n¿Tienes algo que hacer conmigo? Yo no tengo nada."
+        "en-US": "[Valkyrie]\nDo you have any business with me? I don't.",
+        "pt-BR": "[Valquíria]\nVocê tem algum assunto comigo? Eu não tenho nada.",
+        "es-ES": "[Valquiria]\n¿Tienes algo que hacer conmigo? Yo no tengo nada."
     },
     "/TJeDA": {
         "ko-KR": "[밝히리]\n그대, 내 도움을 받으러 왔는가?",
-        "en-US": "[Valkyrja]\nThee, did thee come for my help?",
-        "pt-BR": "[Balkiri]\nVocê veio pedir minha ajuda?",
-        "es-ES": "[Balkiri]\n¿Has venido a pedirme ayuda?"
+        "en-US": "[Valkyrie]\nThee, did thee come for my help?",
+        "pt-BR": "[Valquíria]\nVocê veio pedir minha ajuda?",
+        "es-ES": "[Valquiria]\n¿Has venido a pedirme ayuda?"
     },
     "/jJeDA": {
         "ko-KR": "전직을 도와주세요!",
@@ -193,243 +193,243 @@
     },
     "ADNeDA": {
         "ko-KR": "[밝히리]\n도움은 받을 수 있을 때 받는 것이 좋을 텐데. 복을 차버리는구나.",
-        "en-US": "[Reveal]\nIt's best to accept help when it's offered. You're turning down a blessing.",
-        "pt-BR": "[Balkiri]\nÉ melhor aceitar ajuda quando ela está disponível. Você está jogando fora a sorte.",
-        "es-ES": "[Balkiri]\nSería mejor aceptar la ayuda cuando se puede. Estás rechazando una bendición."
+        "en-US": "[Valkyrie]\nIt's best to accept help when it's offered. You're turning down a blessing.",
+        "pt-BR": "[Valquíria]\nÉ melhor aceitar ajuda quando ela está disponível. Você está jogando fora a sorte.",
+        "es-ES": "[Valquiria]\nSería mejor aceptar la ayuda cuando se puede. Estás rechazando una bendición."
     },
     "ATNeDA": {
         "ko-KR": "[밝히리]\n그런데 아가야... 아가는 전승을 못 하는 걸 알지 않니?",
-        "en-US": "[Valkyrja]\nBut hon... you know Babies can't Transcend, right?",
-        "pt-BR": "[Balkhiri]\nMas, garotinho... você não sabe que não dá pra fazer a transferência de herança?",
-        "es-ES": "[Bakkiri]\nPero, pequeña... ¿No sabes que los niños no pueden hacer la sucesión?"
+        "en-US": "[Valkyrie]\nBut hon... you know Babies can't Transcend, right?",
+        "pt-BR": "[Valquíria]\nMas, garotinho... você não sabe que não dá pra fazer a transferência de herança?",
+        "es-ES": "[Valquiria]\nPero, pequeña... ¿No sabes que los niños no pueden hacer la sucesión?"
     },
     "AjNeDA": {
         "ko-KR": "[밝히리]\n전승을 하고 싶으면 독립을 먼저 하고 오렴. 마침 이곳이 동사무소이니 ^0000CD가족 관계 안내^000000를 해주는 분께 안내를 받아 ^0000CD독립^000000을 하고 오면 된단다.\n멀리 안 가도 돼.",
-        "en-US": "[Valkyrja]\nIf you want to Transcend, you have to be independent first. And this is great because you can do it right here at the town office.\nPlease talk to the ^0000CDFamily Relations Officer^000000 and get guidance on ^0000CDIndependence^000000.\nYou don't have to go far.",
-        "pt-BR": "[Balkiri]\nSe quiseres fazer a sucessão, primeiro tem que te tornar independente. Como estamos na prefeitura, basta pedir orientação à pessoa que atende o ^0000CDGuia de Relações Familiares^000000 e fazer o ^0000CDIndependência^000000 antes de voltar.\nNão precisa ir longe.",
-        "es-ES": "[Balkiri]\nSi quieres hacer la sucesión, primero tienes que independizarte. Como estamos en la oficina municipal, solo tienes que pedirle a la persona que te atiende en ^0000CDInformación sobre relaciones familiares^000000 que te guíe para hacer ^0000CDIndependencia^000000 y ya está.\nNo tienes que ir muy lejos."
+        "en-US": "[Valkyrie]\nIf you want to Transcend, you have to be independent first. And this is great because you can do it right here at the town office.\nPlease talk to the ^0000CDFamily Relations Officer^000000 and get guidance on ^0000CDIndependence^000000.\nYou don't have to go far.",
+        "pt-BR": "[Valquíria]\nSe quiseres fazer a sucessão, primeiro tem que te tornar independente. Como estamos na prefeitura, basta pedir orientação à pessoa que atende o ^0000CDGuia de Relações Familiares^000000 e fazer o ^0000CDIndependência^000000 antes de voltar.\nNão precisa ir longe.",
+        "es-ES": "[Valquiria]\nSi quieres hacer la sucesión, primero tienes que independizarte. Como estamos en la oficina municipal, solo tienes que pedirle a la persona que te atiende en ^0000CDInformación sobre relaciones familiares^000000 que te guíe para hacer ^0000CDIndependencia^000000 y ya está.\nNo tienes que ir muy lejos."
     },
     "AzNeDA": {
         "ko-KR": "[밝히리]\n그런데 언제까지 탈 것에서 내려오지 않을 생각이지? 내가 올려다봐야 하겠니?",
-        "en-US": "[Valkyrja]\nBy the way, are you really going to stay mounted like that? Are you really going to make me look up at you?",
-        "pt-BR": "[Balkiri]\nMas até quando você pretende ficar aí em cima? Vou ter que olhar pra cima pra te ver?",
-        "es-ES": "[Balkiri]\n¿Hasta cuándo piensas quedarte ahí arriba? ¿Tengo que subir a buscarte?"
+        "en-US": "[Valkyrie]\nBy the way, are you really going to stay mounted like that? Are you really going to make me look up at you?",
+        "pt-BR": "[Valquíria]\nMas até quando você pretende ficar aí em cima? Vou ter que olhar pra cima pra te ver?",
+        "es-ES": "[Valquiria]\n¿Hasta cuándo piensas quedarte ahí arriba? ¿Tengo que subir a buscarte?"
     },
     "BDNeDA": {
         "ko-KR": "[밝히리]\n전직을 하려면 우선 탈 것에서 내려와. 기본 자세가 되어 있지 않구나.",
-        "en-US": "[Valkyrja]\nIf you want my help, dismount and pay me the respect I deserve. You're not in the proper posture.",
-        "pt-BR": "[Bakhiri]\nSe quiser mudar de profissão, primeiro desça do veículo. Você não está com a postura básica, não é?",
-        "es-ES": "[Bakhiri]\nSi quieres cambiar de profesión, primero baja del vehículo. No tienes la postura básica."
+        "en-US": "[Valkyrie]\nIf you want my help, dismount and pay me the respect I deserve. You're not in the proper posture.",
+        "pt-BR": "[Valquíria]\nSe quiser mudar de profissão, primeiro desça do veículo. Você não está com a postura básica, não é?",
+        "es-ES": "[Valquiria]\nSi quieres cambiar de profesión, primero baja del vehículo. No tienes la postura básica."
     },
     "BTNeDA": {
         "ko-KR": "[밝히리]\n그 카트는, 대대로 물려 받은 가보인가? 그런게 아니라면 해제하고 오도록 해. 무소유 모르나?",
-        "en-US": "[Valkyrja]\nUnless that cart is your family heirloom, you'd better remove it first. Don't you know the meaning of ''non-possession?''",
-        "pt-BR": "[Bakiri]\nEsse carrinho é uma relíquia de família passada de geração em geração? Se não for isso, desativa-o e volta. Não sabes o que é a ausência de posses?",
-        "es-ES": "[Bakiri]\n¿Ese carrito es un tesoro familiar que te han pasado de generación en generación? Si no es así, deshazte de él y vuelve. ¿No sabes lo que es la no posesión?"
+        "en-US": "[Valkyrie]\nUnless that cart is your family heirloom, you'd better remove it first. Don't you know the meaning of ''non-possession?''",
+        "pt-BR": "[Valquíria]\nEsse carrinho é uma relíquia de família passada de geração em geração? Se não for isso, desativa-o e volta. Não sabes o que é a ausência de posses?",
+        "es-ES": "[Valquiria]\n¿Ese carrito es un tesoro familiar que te han pasado de generación en generación? Si no es así, deshazte de él y vuelve. ¿No sabes lo que es la no posesión?"
     },
     "BjNeDA": {
         "ko-KR": "[밝히리]\n아니... 그대, 직업 레벨이 그 지경이 되도록 뭐 했어? 대체 무슨 일이 일어난 거야? 어서 가서 직업 레벨을 마저 올리고 오도록 해.",
-        "en-US": "[Valquíria]\nWha...? Hey, what's wrong with your Job Level? What happened? You'd better go increase it first.",
-        "pt-BR": "[Bakkiri]\nNão... você, o que fez para deixar o nível de profissão chegar a esse ponto? O que diabos aconteceu? Vai logo terminar de subir o nível de profissão e volta.",
-        "es-ES": "[Bakhiri]\nNo... tú, ¿qué has estado haciendo para que tu nivel de profesión llegara a ese punto? ¿Qué diablos pasó? Ve rápido a subir el resto de tu nivel de profesión y vuelve."
+        "en-US": "[Valkyrie]\nWha...? Hey, what's wrong with your Job Level? What happened? You'd better go increase it first.",
+        "pt-BR": "[Valquíria]\nNão... você, o que fez para deixar o nível de profissão chegar a esse ponto? O que diabos aconteceu? Vai logo terminar de subir o nível de profissão e volta.",
+        "es-ES": "[Valquiria]\nNo... tú, ¿qué has estado haciendo para que tu nivel de profesión llegara a ese punto? ¿Qué diablos pasó? Ve rápido a subir el resto de tu nivel de profesión y vuelve."
     },
     "BzNeDA": {
         "ko-KR": "[밝히리]\n^0000CD직업 레벨이 최고치인 70^000000에 달해야 전승을 할 수 있단다. 내가 아무리 조건 없이 전직을 시켜준다고는 해도 모든 조건을 초월할 수는 없어.",
-        "en-US": "[Valkyrja]\nYou can't Transcend unless you reach the ^0000CDMaximum Job Level, which is 70^000000. I can change your job, but even I can't ignore certain conditions.",
-        "pt-BR": "[Bakiri]\n^0000CDSó dá pra fazer a sucessão quando o nível de profissão chegar ao máximo, que é 70^000000. Por mais que eu diga que vou te deixar mudar de profissão sem condições, não dá pra ignorar todas as regras.",
-        "es-ES": "[Bakhri]\n^0000CDTu nivel de profesión debe alcanzar el máximo de 70^000000 para poder hacer la sucesión. Por mucho que te diga que te dejaré cambiar de profesión sin condiciones, no puedo saltarme todas las reglas."
+        "en-US": "[Valkyrie]\nYou can't Transcend unless you reach the ^0000CDMaximum Job Level, which is 70^000000. I can change your job, but even I can't ignore certain conditions.",
+        "pt-BR": "[Valquíria]\n^0000CDSó dá pra fazer a sucessão quando o nível de profissão chegar ao máximo, que é 70^000000. Por mais que eu diga que vou te deixar mudar de profissão sem condições, não dá pra ignorar todas as regras.",
+        "es-ES": "[Valquiria]\n^0000CDTu nivel de profesión debe alcanzar el máximo de 70^000000 para poder hacer la sucesión. Por mucho que te diga que te dejaré cambiar de profesión sin condiciones, no puedo saltarme todas las reglas."
     },
     "CDNeDA": {
         "ko-KR": "[밝히리]\n지금 레벨이 이렇게까지 되도록 ^0000CD스킬 포인트^000000도 다 안 쓰고 뭘 했어? 미련이 남았어? 아껴뒀다가 뭐 하게?",
-        "en-US": "[Valkyrja]\nHow did you level without using all your ^0000CDSkill Points^000000? Are you still not sure what you want to learn? You'd better make up your mind quickly.",
-        "pt-BR": "[Bakkiri]\nO que você fez para chegar a esse nível sem usar nem todos os ^0000CDpontos de habilidade^000000? Ficou com algum remorso? Para que você os guardou?",
-        "es-ES": "[Bakhiri]\n¿Qué has estado haciendo para llegar a este nivel sin usar ni siquiera ^0000CDpuntos de habilidad^000000? ¿Te quedaste con ganas de más? ¿Para qué los guardaste?"
+        "en-US": "[Valkyrie]\nHow did you level without using all your ^0000CDSkill Points^000000? Are you still not sure what you want to learn? You'd better make up your mind quickly.",
+        "pt-BR": "[Valquíria]\nO que você fez para chegar a esse nível sem usar nem todos os ^0000CDpontos de habilidade^000000? Ficou com algum remorso? Para que você os guardou?",
+        "es-ES": "[Valquiria]\n¿Qué has estado haciendo para llegar a este nivel sin usar ni siquiera ^0000CDpuntos de habilidad^000000? ¿Te quedaste con ganas de más? ¿Para qué los guardaste?"
     },
     "CTNeDA": {
         "ko-KR": "[밝히리]\n스킬 포인트가 남아 있으면 전승을 하지 못하니까 다 쓰고 오렴.",
-        "en-US": "[Valkyrja]\nBecause I can't help you Transcend until you use them all. So, do it.",
-        "pt-BR": "[Balkiri]\nSe sobrar pontos de habilidade, não dá pra fazer a herança, então usa tudo e volta.",
-        "es-ES": "[Bakhiri]\nSi te quedan puntos de habilidad, no podrás hacer la sucesión, así que gástalos todos antes de venir."
+        "en-US": "[Valkyrie]\nBecause I can't help you Transcend until you use them all. So, do it.",
+        "pt-BR": "[Valquíria]\nSe sobrar pontos de habilidade, não dá pra fazer a herança, então usa tudo e volta.",
+        "es-ES": "[Valquiria]\nSi te quedan puntos de habilidad, no podrás hacer la sucesión, así que gástalos todos antes de venir."
     },
     "CjNeDA": {
         "ko-KR": "[밝히리]\n가방에 뭐가 많이 들어 있는 것 같은데? 전승을 하게 되면 그거 반의 반의 반도 못 들 텐데 괜찮아?",
-        "en-US": "[Valkyrja]\nYour bag seems pretty full. If you Transcend, you won't be able to carry even half of what you have now. Is that okay?",
-        "pt-BR": "[Balkiri]\nParece que tem muita coisa na tua mochila, né? Se fizeres a transferência, não vais conseguir carregar nem um terço do que tens lá, tá tudo bem?",
-        "es-ES": "[Bakhiri]\nParece que tienes muchas cosas en la mochila, ¿no? Si haces la sucesión, no podrás llevar ni la mitad de la mitad de eso, ¿estás seguro?"
+        "en-US": "[Valkyrie]\nYour bag seems pretty full. If you Transcend, you won't be able to carry even half of what you have now. Is that okay?",
+        "pt-BR": "[Valquíria]\nParece que tem muita coisa na tua mochila, né? Se fizeres a transferência, não vais conseguir carregar nem um terço do que tens lá, tá tudo bem?",
+        "es-ES": "[Valquiria]\nParece que tienes muchas cosas en la mochila, ¿no? Si haces la sucesión, no podrás llevar ni la mitad de la mitad de eso, ¿estás seguro?"
     },
     "CzNeDA": {
         "ko-KR": "[밝히리]\n그대가 괜찮다고 생각해도 전혀 안 괜찮으니까 어서 가서 가방의 ^0000CD무게를 500 이하^000000로 줄이고 와.\n마침 저기에 상인도 있네. 보이지?",
-        "en-US": "[Valkyrja]\nEven if you think it's fine, it absolutely isn't fine. So hurry up and go reduce your bag's ^0000CDweight to 500 or below^000000.\nThere are merchants here with whom you can trade. See them?",
-        "pt-BR": "[Bakhiri]\nMesmo que você ache que está tudo bem, não está nada bem, então vai logo reduzir o ^0000CDpeso da mochila para 500 ou menos^000000 e volta.\nPor acaso tem um comerciante ali. Está vendo?",
-        "es-ES": "[Bakhiri]\nAunque tú creas que está bien, no lo está para nada, así que ve rápido a reducir el ^0000CDpeso de tu mochila a menos de 500^000000 y vuelve.\nPor suerte, hay un comerciante justo ahí. ¿Lo ves?"
+        "en-US": "[Valkyrie]\nEven if you think it's fine, it absolutely isn't fine. So hurry up and go reduce your bag's ^0000CDweight to 500 or below^000000.\nThere are merchants here with whom you can trade. See them?",
+        "pt-BR": "[Valquíria]\nMesmo que você ache que está tudo bem, não está nada bem, então vai logo reduzir o ^0000CDpeso da mochila para 500 ou menos^000000 e volta.\nPor acaso tem um comerciante ali. Está vendo?",
+        "es-ES": "[Valquiria]\nAunque tú creas que está bien, no lo está para nada, así que ve rápido a reducir el ^0000CDpeso de tu mochila a menos de 500^000000 y vuelve.\nPor suerte, hay un comerciante justo ahí. ¿Lo ves?"
     },
     "DDNeDA": {
         "ko-KR": "[밝히리]\n좋아. 모든 조건이 완벽하네. 이제 전승만 하면 되겠지?",
-        "en-US": "[Valkyrja]\nAlright. All conditions are perfect. Now all that's left is to Transcend, right?",
-        "pt-BR": "[Balkiri]\nÓtimo. Todas as condições estão perfeitas. Agora só falta fazer a transmissão, certo?",
-        "es-ES": "[Balkiri]\nBien. Todas las condiciones son perfectas. Ahora solo queda hacer la sucesión, ¿no?"
+        "en-US": "[Valkyrie]\nAlright. All conditions are perfect. Now all that's left is to Transcend, right?",
+        "pt-BR": "[Valquíria]\nÓtimo. Todas as condições estão perfeitas. Agora só falta fazer a transmissão, certo?",
+        "es-ES": "[Valquiria]\nBien. Todas las condiciones son perfectas. Ahora solo queda hacer la sucesión, ¿no?"
     },
     "DTNeDA": {
         "ko-KR": "[밝히리]\n그 전에, 잔뜩 멋부린 것이 있으면 원래의 모습으로 돌려 놓을게. 아깝지만 어쩌겠어. 방침이 그런걸.",
-        "en-US": "[Valkyrja]\nBefore that, if you've gone all out dressing up, I'll have to revert you to your original appearance. It's a shame, but what can I say? That's the policy.",
-        "pt-BR": "[Balkiri]\nAntes disso, se você tiver se enfeitado demais, vou te deixar na sua forma original. É uma pena, mas não tem jeito. São as regras.",
-        "es-ES": "[Bakhiri]\nAntes de eso, si te has arreglado mucho, te voy a devolver a tu aspecto original. Es una pena, pero qué le vamos a hacer. Son las reglas."
+        "en-US": "[Valkyrie]\nBefore that, if you've gone all out dressing up, I'll have to revert you to your original appearance. It's a shame, but what can I say? That's the policy.",
+        "pt-BR": "[Valquíria]\nAntes disso, se você tiver se enfeitado demais, vou te deixar na sua forma original. É uma pena, mas não tem jeito. São as regras.",
+        "es-ES": "[Valquiria]\nAntes de eso, si te has arreglado mucho, te voy a devolver a tu aspecto original. Es una pena, pero qué le vamos a hacer. Son las reglas."
     },
     "DjNeDA": {
         "ko-KR": "[밝히리]\n이제 순식간에 전직할 거니까, 눈 크게 뜨고 내가 일으키는 기적을 확인하도록 해. 전승과 동시에 레벨업이 이뤄질 거야.",
-        "en-US": "[Valkyrja]\nNow, you'll Transcend in a blink of an eye. Keep your eyes open and witness the miracle. You'll Transcend and level up at the same time.",
-        "pt-BR": "[Balkiri]\nAgora vou mudar de classe num piscar de olhos, então abre bem os olhos e vê o milagre que vou fazer. Ao mesmo tempo que a transferência, você vai subir de nível.",
-        "es-ES": "[Balkiri]\nAhora voy a cambiar de clase en un santiamén, así que abre bien los ojos y observa el milagro que voy a hacer. Subirás de nivel al mismo tiempo que cambias de clase."
+        "en-US": "[Valkyrie]\nNow, you'll Transcend in a blink of an eye. Keep your eyes open and witness the miracle. You'll Transcend and level up at the same time.",
+        "pt-BR": "[Valquíria]\nAgora vou mudar de classe num piscar de olhos, então abre bem os olhos e vê o milagre que vou fazer. Ao mesmo tempo que a transferência, você vai subir de nível.",
+        "es-ES": "[Valquiria]\nAhora voy a cambiar de clase en un santiamén, así que abre bien los ojos y observa el milagro que voy a hacer. Subirás de nivel al mismo tiempo que cambias de clase."
     },
     "DzNeDA": {
         "ko-KR": "[밝히리]\n자, 전승을 했어. 레벨업도 됐지? 어때? 어서 나에게 감사 인사를 해.",
-        "en-US": "[Valkyrja]\nThere you go! You've Transcended and leveled up at the same time. Now, say thank you.",
-        "pt-BR": "[Bakhiri]\nPronto, a transferência de herança está feita. Subiste de nível também, não é? E aí? Vai logo me agradecer.",
-        "es-ES": "[Bakhiri]\nBueno, ya hice la sucesión. ¿Subiste de nivel? ¿Qué tal? Vamos, agradécemelo."
+        "en-US": "[Valkyrie]\nThere you go! You've Transcended and leveled up at the same time. Now, say thank you.",
+        "pt-BR": "[Valquíria]\nPronto, a transferência de herança está feita. Subiste de nível também, não é? E aí? Vai logo me agradecer.",
+        "es-ES": "[Valquiria]\nBueno, ya hice la sucesión. ¿Subiste de nivel? ¿Qué tal? Vamos, agradécemelo."
     },
     "EDNeDA": {
         "ko-KR": "[밝히리]\n그리고 곧바로 1차 직업으로 전직을 해야 할텐데. 그 전에 ^0000CD스킬 포인트를 모두 다 소모^000000하고 오도록 해.",
-        "en-US": "[Valkyrja]\nAnd you'll need to change to a 1st job right away. Before that, ^0000CDuse all your Skill Points^000000 and come back here.",
-        "pt-BR": "[Bakkiri]\nE logo depois você vai ter que mudar para a primeira classe. Antes disso, vai lá e ^0000CDgasta todos os pontos de habilidade^000000.",
-        "es-ES": "[Bakhiri]\nY ahora mismo tendrás que cambiar a tu primera clase. Antes de eso, ^0000CDgasta todos los puntos de habilidad^000000 y vuelve."
+        "en-US": "[Valkyrie]\nAnd you'll need to change to a 1st job right away. Before that, ^0000CDuse all your Skill Points^000000 and come back here.",
+        "pt-BR": "[Valquíria]\nE logo depois você vai ter que mudar para a primeira classe. Antes disso, vai lá e ^0000CDgasta todos os pontos de habilidade^000000.",
+        "es-ES": "[Valquiria]\nY ahora mismo tendrás que cambiar a tu primera clase. Antes de eso, ^0000CDgasta todos los puntos de habilidad^000000 y vuelve."
     },
     "ETNeDA": {
         "ko-KR": "[밝히리]\n다른 길로 새면 안된다?",
-        "en-US": "[Valkyrja]\nYou can't go down another path?",
-        "pt-BR": "[Balkiri]\nNão pode se desviar do caminho, certo?",
-        "es-ES": "[Balkiri]\n¿No te puedes desviar por otros caminos?"
+        "en-US": "[Valkyrie]\nYou can't go down another path?",
+        "pt-BR": "[Valquíria]\nNão pode se desviar do caminho, certo?",
+        "es-ES": "[Valquiria]\n¿No te puedes desviar por otros caminos?"
     },
     "EjNeDA": {
         "ko-KR": "[밝히리]\n아니... 그대, 내가 직업 레벨을 모두 올려주지 않았어? 그런데 왜 직업 레벨이 그 모양이야?",
-        "en-US": "[Valkyrja]\nNo... I raised all your Job Levels for you, didn't I? Then why are your Job Levels like that?",
-        "pt-BR": "[Balkiri]\nNão... você, eu não subi todos os seus níveis de profissão? Então por que o nível da profissão está assim?",
-        "es-ES": "[Balkiri]\nNo... Oye, ¿no te subí todos los niveles de clase? Entonces, ¿por qué tu nivel de clase está así?"
+        "en-US": "[Valkyrie]\nNo... I raised all your Job Levels for you, didn't I? Then why are your Job Levels like that?",
+        "pt-BR": "[Valquíria]\nNão... você, eu não subi todos os seus níveis de profissão? Então por que o nível da profissão está assim?",
+        "es-ES": "[Valquiria]\nNo... Oye, ¿no te subí todos los niveles de clase? Entonces, ¿por qué tu nivel de clase está así?"
     },
     "EzNeDA": {
         "ko-KR": "[밝히리]\n나 진짜 이해가 안되네? 직업 레벨을 10까지 올려줄 테니까 스킬이나 찍고 와.",
-        "en-US": "[Valkyrja]\nI really don't get it. I'll raise your Job Level to 10 again. Go allocate your Skill Points, and then come back here.",
-        "pt-BR": "[Bakhiri]\nEu realmente não entendo. Vou aumentar o nível da tua profissão até 10, então vai lá e escolhe as habilidades.",
-        "es-ES": "[Bakhiri]\nDe verdad que no lo entiendo. Te subiré el nivel de profesión hasta 10, así que ve a asignar tus habilidades y vuelve."
+        "en-US": "[Valkyrie]\nI really don't get it. I'll raise your Job Level to 10 again. Go allocate your Skill Points, and then come back here.",
+        "pt-BR": "[Valquíria]\nEu realmente não entendo. Vou aumentar o nível da tua profissão até 10, então vai lá e escolhe as habilidades.",
+        "es-ES": "[Valquiria]\nDe verdad que no lo entiendo. Te subiré el nivel de profesión hasta 10, así que ve a asignar tus habilidades y vuelve."
     },
     "FDNeDA": {
         "ko-KR": "[밝히리]\n내가 그 얘기 안했던가? ^0000CD스킬 포인트를 모두 소모^000000 해야 전직을 할 수 있다는 것을?",
-        "en-US": "[Valkyrja]\nDidn't I tell you? You can't change your job without spending all your Skill Points.",
-        "pt-BR": "[Balkiri]\nEu não falei isso? Que você precisa ^000000gastar todos os ^0000CDpontos de habilidade^000000 para poder mudar de classe?",
-        "es-ES": "[Balkiri]\n¿No te lo había dicho? ¿Que tienes que gastar todos los ^0000CDpuntos de habilidad^000000 para poder cambiar de clase?"
+        "en-US": "[Valkyrie]\nDidn't I tell you? You can't change your job without spending all your Skill Points.",
+        "pt-BR": "[Valquíria]\nEu não falei isso? Que você precisa ^000000gastar todos os ^0000CDpontos de habilidade^000000 para poder mudar de classe?",
+        "es-ES": "[Valquiria]\n¿No te lo había dicho? ¿Que tienes que gastar todos los ^0000CDpuntos de habilidad^000000 para poder cambiar de clase?"
     },
     "FTNeDA": {
         "ko-KR": "[밝히리]\n마침 초보자이니까 스킬을 뭘 찍을까 고민 없이 소모할 수 있겠네. 10초 줄게.",
-        "en-US": "[Valkyrja]\nSince you're a Novice, the choice is pretty simple. I'll give you 10 seconds to finish.",
-        "pt-BR": "[Balkiri]\nComo você é novato, vai poder gastar os pontos sem se preocupar em escolher quais habilidades usar. Vou te dar 10 segundos.",
-        "es-ES": "[Balkiri]\nComo eres principiante, podrás gastarlos sin tener que pensar mucho en qué habilidades elegir. Te doy 10 segundos."
+        "en-US": "[Valkyrie]\nSince you're a Novice, the choice is pretty simple. I'll give you 10 seconds to finish.",
+        "pt-BR": "[Valquíria]\nComo você é novato, vai poder gastar os pontos sem se preocupar em escolher quais habilidades usar. Vou te dar 10 segundos.",
+        "es-ES": "[Valquiria]\nComo eres principiante, podrás gastarlos sin tener que pensar mucho en qué habilidades elegir. Te doy 10 segundos."
     },
     "FjNeDA": {
         "ko-KR": "[밝히리]\n네가 전승 전에 어떤 길을 걸어왔는지 알지? 그 직업으로 다시 전직시켜 줄 거야.",
-        "en-US": "[Valkyrja]\nYou remember the path you walked before Transcendence, right? I'll change you back to that class.",
-        "pt-BR": "[Bakhiri]\nVocê sabe qual caminho percorreu antes da herança, né? Vou te fazer mudar de classe de volta para essa profissão.",
-        "es-ES": "[Bakhiri]\n¿Sabes qué camino has recorrido antes de la sucesión? Te volveré a cambiar a esa profesión."
+        "en-US": "[Valkyrie]\nYou remember the path you walked before Transcendence, right? I'll change you back to that class.",
+        "pt-BR": "[Valquíria]\nVocê sabe qual caminho percorreu antes da herança, né? Vou te fazer mudar de classe de volta para essa profissão.",
+        "es-ES": "[Valquiria]\n¿Sabes qué camino has recorrido antes de la sucesión? Te volveré a cambiar a esa profesión."
     },
     "FzNeDA": {
         "ko-KR": "[밝히리]\n자, 이번에도 내 기적을 눈 크게 뜨고 지켜 봐.",
-        "en-US": "[Valkyrja]\nNow, keep your eyes wide open and watch as I work the miracle.",
-        "pt-BR": "[Bakhri]\nPronto, desta vez também abre bem os olhos e observa meu milagre.",
-        "es-ES": "[Balkiri]\nBueno, esta vez también abre bien los ojos y observa mi milagro."
+        "en-US": "[Valkyrie]\nNow, keep your eyes wide open and watch as I work the miracle.",
+        "pt-BR": "[Valquíria]\nPronto, desta vez também abre bem os olhos e observa meu milagre.",
+        "es-ES": "[Valquiria]\nBueno, esta vez también abre bien los ojos y observa mi milagro."
     },
     "GDNeDA": {
         "ko-KR": "[밝히리]\n어때? 익숙한 그 느낌이지?",
-        "en-US": "[Valkyrja]\nHow about it? That familiar feeling, right?",
-        "pt-BR": "[Bakhiri]\nE aí? É aquela sensação familiar, né?",
-        "es-ES": "[Bakhiri]\n¿Qué tal? ¿Te resulta familiar esa sensación?"
+        "en-US": "[Valkyrie]\nHow about it? That familiar feeling, right?",
+        "pt-BR": "[Valquíria]\nE aí? É aquela sensação familiar, né?",
+        "es-ES": "[Valquiria]\n¿Qué tal? ¿Te resulta familiar esa sensación?"
     },
     "GTNeDA": {
         "ko-KR": "[밝히리]\n바로 2차 전직을 할 거니까 스킬을 찍어서 ^0000CD스킬 포인트를 모두 소모^000000하고 와.",
-        "en-US": "[Valkyrja]\nI can also help you change to a 2nd job right away. Go ^0000CDspend all your Skill Points first^000000, and then come back here.",
-        "pt-BR": "[Balkiri]\nComo você vai fazer a segunda mudança de classe agora, vai escolher suas habilidades e gastar todos os ^0000CD pontos de habilidade^000000 antes de voltar.",
-        "es-ES": "[Balkiri]\nComo vas a hacer la segunda especialización ahora mismo, asigna tus habilidades y ^0000CDgasta todos los puntos de habilidad^000000 antes de volver."
+        "en-US": "[Valkyrie]\nI can also help you change to a 2nd job right away. Go ^0000CDspend all your Skill Points first^000000, and then come back here.",
+        "pt-BR": "[Valquíria]\nComo você vai fazer a segunda mudança de classe agora, vai escolher suas habilidades e gastar todos os ^0000CD pontos de habilidade^000000 antes de voltar.",
+        "es-ES": "[Valquiria]\nComo vas a hacer la segunda especialización ahora mismo, asigna tus habilidades y ^0000CDgasta todos los puntos de habilidad^000000 antes de volver."
     },
     "GjNeDA": {
         "ko-KR": "[밝히리]\n어디 가서 맞고 왔어? 왜 직업 레벨이 도로 내려 갔지?",
-        "en-US": "[Valkyrja]\nDid you get knocked down somewhere? How come your Job Level has dropped?",
-        "pt-BR": "[Balkiri]\nOnde você foi levar uma surra? Por que o nível da classe caiu de novo?",
-        "es-ES": "[Bakhiri]\n¿Te fuiste a recibir golpes por ahí? ¿Por qué bajó tu nivel de clase?"
+        "en-US": "[Valkyrie]\nDid you get knocked down somewhere? How come your Job Level has dropped?",
+        "pt-BR": "[Valquíria]\nOnde você foi levar uma surra? Por que o nível da classe caiu de novo?",
+        "es-ES": "[Valquiria]\n¿Te fuiste a recibir golpes por ahí? ¿Por qué bajó tu nivel de clase?"
     },
     "GzNeDA": {
         "ko-KR": "[밝히리]\n하는 수 없지. 직업 레벨을 50까지 만들어 줄테니까 어서 스킬 포인트나 소모하고 오렴.",
-        "en-US": "[Valkyrja]\nOh, well. I'll set it to 50 again. Now, go use all your Skill Points, and then come back here.",
-        "pt-BR": "[Bakhiri]\nNão tem jeito. Vou te deixar no nível 50 de profissão, então vai lá gastar os pontos de habilidade e volta logo.",
-        "es-ES": "[Bakhiri]\nNo hay más remedio. Te voy a subir el nivel de clase hasta 50, así que date prisa y gasta los puntos de habilidad antes de volver."
+        "en-US": "[Valkyrie]\nOh, well. I'll set it to 50 again. Now, go use all your Skill Points, and then come back here.",
+        "pt-BR": "[Valquíria]\nNão tem jeito. Vou te deixar no nível 50 de profissão, então vai lá gastar os pontos de habilidade e volta logo.",
+        "es-ES": "[Valquiria]\nNo hay más remedio. Te voy a subir el nivel de clase hasta 50, así que date prisa y gasta los puntos de habilidad antes de volver."
     },
     "HDNeDA": {
         "ko-KR": "[밝히리]\n전직을 할 때 스킬 포인트는 남아 있으면 안된다는 거, 이젠 상식 아니야?",
-        "en-US": "[Valkyrja]\nShouldn't you know by now that you can't change your job without spending all your Skill Points?",
-        "pt-BR": "[Bakhiri]\nNão é senso comum que não pode sobrar pontos de habilidade na hora da mudança de classe?",
-        "es-ES": "[Bakhiri]\n¿No es ya de sentido común que no te pueden quedar puntos de habilidad cuando cambias de clase?"
+        "en-US": "[Valkyrie]\nShouldn't you know by now that you can't change your job without spending all your Skill Points?",
+        "pt-BR": "[Valquíria]\nNão é senso comum que não pode sobrar pontos de habilidade na hora da mudança de classe?",
+        "es-ES": "[Valquiria]\n¿No es ya de sentido común que no te pueden quedar puntos de habilidad cuando cambias de clase?"
     },
     "HTNeDA": {
         "ko-KR": "[밝히리]\n어서 ^0000CD스킬 포인트를 남김없이^000000 쓰고 오렴. 기다리고 있을 테니까.",
-        "en-US": "[Valkyrja]\nHurry up and go spend ^0000CDall your Skill Points^000000 without leaving any behind. I'll be waiting.",
-        "pt-BR": "[Bakhiri]\nVai lá e usa ^0000CDpontos de habilidade sem deixar nenhum sobrando^000000. Vou estar esperando por você.",
-        "es-ES": "[Bakhiri]\nDate prisa y gasta los ^0000CDpuntos de habilidad sin dejar ni uno^000000. Te estaré esperando."
+        "en-US": "[Valkyrie]\nHurry up and go spend ^0000CDall your Skill Points^000000 without leaving any behind. I'll be waiting.",
+        "pt-BR": "[Valquíria]\nVai lá e usa ^0000CDpontos de habilidade sem deixar nenhum sobrando^000000. Vou estar esperando por você.",
+        "es-ES": "[Valquiria]\nDate prisa y gasta los ^0000CDpuntos de habilidad sin dejar ni uno^000000. Te estaré esperando."
     },
     "HjNeDA": {
         "ko-KR": "[밝히리]\n이쯤 됐으면 이제 눈을 감고도 전직해야지? 오늘 저녁 메뉴나 생각해 봐.",
-        "en-US": "[Valkyrja]\nYou should be able to change jobs with your eyes closed by now, right? Think about what's for dinner tonight.",
-        "pt-BR": "[Bakhiri]\nA essa altura, você já deve conseguir mudar de classe de olhos fechados, né? Pense no que vai comer hoje à noite.",
-        "es-ES": "[Bakhiri]\nA estas alturas ya deberías poder cambiar de clase con los ojos cerrados, ¿no? Piensa en qué vas a cenar esta noche."
+        "en-US": "[Valkyrie]\nYou should be able to change jobs with your eyes closed by now, right? Think about what's for dinner tonight.",
+        "pt-BR": "[Valquíria]\nA essa altura, você já deve conseguir mudar de classe de olhos fechados, né? Pense no que vai comer hoje à noite.",
+        "es-ES": "[Valquiria]\nA estas alturas ya deberías poder cambiar de clase con los ojos cerrados, ¿no? Piensa en qué vas a cenar esta noche."
     },
     "HzNeDA": {
         "ko-KR": "[밝히리]\n자, 새로운 너의 모습을 받아들이라구.",
-        "en-US": "[Valkyrja]\nNow, accept the new you.",
-        "pt-BR": "[Balkiri]\nPronto, aceita a tua nova aparência.",
-        "es-ES": "[Bakhiri]\nBueno, acepta tu nueva apariencia."
+        "en-US": "[Valkyrie]\nNow, accept the new you.",
+        "pt-BR": "[Valquíria]\nPronto, aceita a tua nova aparência.",
+        "es-ES": "[Valquiria]\nBueno, acepta tu nueva apariencia."
     },
     "IDNeDA": {
         "ko-KR": "[밝히리]\n이제 마지막 3차 전직만 남았어. 바로 스킬을 찍어서 ^0000CD스킬 포인트를 모두 소모^000000하고 와. 빨리 하고 집에 가자.",
-        "en-US": "[Valkyrja]\nNow, only the final 3rd job advancement remains. Go spend all ^0000CDSkill Points^000000 on skills right away. Hurry up and let's go home.",
-        "pt-BR": "[Bakiri]\nAgora só falta a terceira mudança de classe. Vai lá, escolhe as habilidades e ^0000CDgasta todos os pontos de habilidade^000000. Faz logo isso e vamos pra casa.",
-        "es-ES": "[Bakhri]\nYa solo te queda el tercer cambio de clase. Ve a asignar habilidades y gasta todos los ^0000CDpuntos de habilidad^000000 de una vez. Hazlo rápido y vámonos a casa."
+        "en-US": "[Valkyrie]\nNow, only the final 3rd job advancement remains. Go spend all ^0000CDSkill Points^000000 on skills right away. Hurry up and let's go home.",
+        "pt-BR": "[Valquíria]\nAgora só falta a terceira mudança de classe. Vai lá, escolhe as habilidades e ^0000CDgasta todos os pontos de habilidade^000000. Faz logo isso e vamos pra casa.",
+        "es-ES": "[Valquiria]\nYa solo te queda el tercer cambio de clase. Ve a asignar habilidades y gasta todos los ^0000CDpuntos de habilidad^000000 de una vez. Hazlo rápido y vámonos a casa."
     },
     "ITNeDA": {
         "ko-KR": "[밝히리]\n...? 그대? 어디서 기운 빠지는 약이라도 먹는 거야? 내가 애써 베이스 레벨을 올려줬더니 왜 도로 낮아졌어?",
-        "en-US": "[Valkyrja]...?\n Hey, did you drink a potion that drained your energy or what? I've increased your Base Level. How come it's lower now?",
-        "pt-BR": "[Bakhiri]\n...? Você? Está tomando alguma poção que tira a energia? Eu me esforcei pra aumentar seu nível base e por que ele baixou de novo?",
-        "es-ES": "[Bakhiri]\n... ¿Tú? ¿Estás tomando alguna droga que te quite las ganas? Me esforcé por subirte el nivel base y ¿por qué volvió a bajar?"
+        "en-US": "[Valkyrie]...?\n Hey, did you drink a potion that drained your energy or what? I've increased your Base Level. How come it's lower now?",
+        "pt-BR": "[Valquíria]\n...? Você? Está tomando alguma poção que tira a energia? Eu me esforcei pra aumentar seu nível base e por que ele baixou de novo?",
+        "es-ES": "[Valquiria]\n... ¿Tú? ¿Estás tomando alguna droga que te quite las ganas? Me esforcé por subirte el nivel base y ¿por qué volvió a bajar?"
     },
     "IjNeDA": {
         "ko-KR": "[밝히리]\n포링을 3만마리를 잡은 것 같은 99레벨로 다시 만들어 줄게. 두 번은 없어. 알지?",
-        "en-US": "[Valkyrja]\nI'll reset it to Level 99, which requires hunting 30,000 Porings if you do it alone. But not twice. Got it?",
-        "pt-BR": "[Balkiri]\nVou te deixar de novo no nível 99, como se tivesses matado 30 mil Porings. Não vai rolar de novo. Entendeu?",
-        "es-ES": "[Bakhiri]\nTe volveré a poner en nivel 99, como si hubieras matado 30 000 Porings. No habrá una segunda oportunidad. ¿Entiendes?"
+        "en-US": "[Valkyrie]\nI'll reset it to Level 99, which requires hunting 30,000 Porings if you do it alone. But not twice. Got it?",
+        "pt-BR": "[Valquíria]\nVou te deixar de novo no nível 99, como se tivesses matado 30 mil Porings. Não vai rolar de novo. Entendeu?",
+        "es-ES": "[Valquiria]\nTe volveré a poner en nivel 99, como si hubieras matado 30 000 Porings. No habrá una segunda oportunidad. ¿Entiendes?"
     },
     "IzNeDA": {
         "ko-KR": "[밝히리]\n나, 정말 이해가 안되네. 직업 레벨이 왜 그 모양인가!! 내가 애써 올려줬던 것을, 헛고생으로 만들었지 않아?",
-        "en-US": "[Valkyrja]\nSeriously, I don't get it. What did you do to your Job Level? I didn't work so hard to increase it, just so you could ruin it like that.",
-        "pt-BR": "[Balkiri]\nEu, realmente não entendo. Por que o nível de profissão está nessa situação!! Você transformou o que eu me esforcei para aumentar em trabalho à toa, não foi?",
-        "es-ES": "[Bakhiri]\nOye, de verdad que no lo entiendo. ¡¿Por qué está así tu nivel de clase?! ¿No has echado a perder todo el esfuerzo que me costó subirlo?"
+        "en-US": "[Valkyrie]\nSeriously, I don't get it. What did you do to your Job Level? I didn't work so hard to increase it, just so you could ruin it like that.",
+        "pt-BR": "[Valquíria]\nEu, realmente não entendo. Por que o nível de profissão está nessa situação!! Você transformou o que eu me esforcei para aumentar em trabalho à toa, não foi?",
+        "es-ES": "[Valquiria]\nOye, de verdad que no lo entiendo. ¡¿Por qué está así tu nivel de clase?! ¿No has echado a perder todo el esfuerzo que me costó subirlo?"
     },
     "JDNeDA": {
         "ko-KR": "[밝히리]\n빨리 하고 집에 가고 싶거든? 직업 레벨을 70까지 올려 줄테니까 스킬 포인트나 빨리 소모하고 와.",
-        "en-US": "[Valkyrja]\nCome on, I want to go home. I'll set your Job Level back to 70. Spend all your Skill Points, and then come back here.",
-        "pt-BR": "[Bakhiri]\nQuer terminar logo e ir pra casa? Vou aumentar o nível da profissão até 70, então vai lá gastar os pontos de habilidade rapidinho e volta.",
-        "es-ES": "[Bakhiri]\n¿Quieres terminar rápido e irte a casa? Te subiré el nivel de profesión hasta 70, así que gasta rápido los puntos de habilidad y vuelve."
+        "en-US": "[Valkyrie]\nCome on, I want to go home. I'll set your Job Level back to 70. Spend all your Skill Points, and then come back here.",
+        "pt-BR": "[Valquíria]\nQuer terminar logo e ir pra casa? Vou aumentar o nível da profissão até 70, então vai lá gastar os pontos de habilidade rapidinho e volta.",
+        "es-ES": "[Valquiria]\n¿Quieres terminar rápido e irte a casa? Te subiré el nivel de profesión hasta 70, así que gasta rápido los puntos de habilidad y vuelve."
     },
     "JTNeDA": {
         "ko-KR": "[밝히리]\n내가.\n부탁을.\n하나만.\n하지.\n않았어?\n^0000CD스킬 포인트를 남김없이^000000 모두 소모하고 오라고? 그거 하날 못 들어 줘?",
-        "en-US": "[Valkyrja]\nDidn't I.\nAsk you.\nJust one.\nThing?\n^0000CDTo spend all your Skill Points^000000 without leaving any behind? Can't you do that one thing?",
-        "pt-BR": "[Balkiri]\nEu...\nnão...\nte...\npedi...\nsó...\numa...\ncoisa...\nfoi?\n^0000CDGasta todos os pontos de habilidade sem deixar nenhum de sobra^000000 e volta, certo? Não dá pra atender a esse único pedido?",
-        "es-ES": "[Balkiri]\nYo...\nte pedí...\nsolo una cosa...\n¿no?\n¿Que gastaras ^0000CDtodos los puntos de habilidad^000000 sin dejar ninguno? ¿No puedes hacerme ese único favor?"
+        "en-US": "[Valkyrie]\nDidn't I.\nAsk you.\nJust one.\nThing?\n^0000CDTo spend all your Skill Points^000000 without leaving any behind? Can't you do that one thing?",
+        "pt-BR": "[Valquíria]\nEu...\nnão...\nte...\npedi...\nsó...\numa...\ncoisa...\nfoi?\n^0000CDGasta todos os pontos de habilidade sem deixar nenhum de sobra^000000 e volta, certo? Não dá pra atender a esse único pedido?",
+        "es-ES": "[Valquiria]\nYo...\nte pedí...\nsolo una cosa...\n¿no?\n¿Que gastaras ^0000CDtodos los puntos de habilidad^000000 sin dejar ninguno? ¿No puedes hacerme ese único favor?"
     },
     "JjNeDA": {
         "ko-KR": "[밝히리]\n드디어 마지막이다!",
-        "en-US": "[Valkyrja]\nFinally, this is it!",
-        "pt-BR": "[Balkiri]\nFinalmente, é a última!",
-        "es-ES": "[Balkiri]\n¡Por fin es el final!"
+        "en-US": "[Valkyrie]\nFinally, this is it!",
+        "pt-BR": "[Valquíria]\nFinalmente, é a última!",
+        "es-ES": "[Valquiria]\n¡Por fin es el final!"
     },
     "JzNeDA": {
         "ko-KR": "[밝히리]\n자, 이제 발할라의 기운도 깃들었으니 어디를 가도 네가 못하는 일은 없을 거야. 이제 벽을 부수러 가렴.",
-        "en-US": "[Valkyrja]\nAlright, now that you have Valhalla's energy in you, you can do anything you want, wherever you go. So, off you go to break through that wall!",
-        "pt-BR": "[Balkiri]\nPronto, agora que a energia de Valhalla está contigo, não vai ter nada que tu não consigas fazer, não importa aonde vás. Agora vai lá derrubar aquela parede.",
-        "es-ES": "[Bakhiri]\nBueno, ahora que ya tienes el poder de Valhalla, no habrá nada que no puedas hacer, vayas donde vayas. Ahora ve a derribar ese muro."
+        "en-US": "[Valkyrie]\nAlright, now that you have Valhalla's energy in you, you can do anything you want, wherever you go. So, off you go to break through that wall!",
+        "pt-BR": "[Valquíria]\nPronto, agora que a energia de Valhalla está contigo, não vai ter nada que tu não consigas fazer, não importa aonde vás. Agora vai lá derrubar aquela parede.",
+        "es-ES": "[Valquiria]\nBueno, ahora que ya tienes el poder de Valhalla, no habrá nada que no puedas hacer, vayas donde vayas. Ahora ve a derribar ese muro."
     },
     "KDNeDA": {
         "ko-KR": "어디로 가야하는지 알아? <NAVI>[운명이 부르는 곳]<INFO>gef_fild08,54,101,0,101,0</INFO></NAVI>으로 가.",
@@ -511,8 +511,8 @@
     },
     "NTNeDA": {
         "ko-KR": "[밝히리]\n왜? 뭐? 왜? 내가 해줄 수 있는 건 다 해줬는데?",
-        "en-US": "[Valkyrja]\nWhat? What is it? I did everything I could for you.",
-        "pt-BR": "[Revelação]\nPor quê? O quê? Por quê? Eu já fiz tudo o que podia, né?",
-        "es-ES": "[Revelaré]\n¿Por qué? ¿Qué? ¿Por qué? ¿Acaso no hice todo lo que pude?"
+        "en-US": "[Valkyrie]\nWhat? What is it? I did everything I could for you.",
+        "pt-BR": "[Valquíria]\nPor quê? O quê? Por quê? Eu já fiz tudo o que podia, né?",
+        "es-ES": "[Valquiria]\n¿Por qué? ¿Qué? ¿Por qué? ¿Acaso no hice todo lo que pude?"
     }
 }

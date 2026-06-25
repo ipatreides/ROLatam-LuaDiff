@@ -5295,6 +5295,8 @@
         "es-ES": "[Recuento global actual]\nTu recuento actual de invocaciones de Drácula es ^EE0000{0}^000000."
     },
     "Y2VOBg": {
-        "en-US": "[Bomi]\nBut maybe that only happens to me.\nI'm a new vampire, and I'm weak.\nDracula has lived for a long time, and he's anything but weak."
+        "en-US": "[Bomi]\nBut maybe that only happens to me.\nI'm a new vampire, and I'm weak.\nDracula has lived for a long time, and he's anything but weak.",
+        "pt-BR": "[Bomi]\nAcho que esqueci de algum item...",
+        "es-ES": "[Bomi]\nPero a lo mejor eso solo me pasa a mí. \nSoy una vampira nueva, y soy débil. \nDrácula ha vivido mucho tiempo, y es cualquier cosa menos débil."
     }
 }

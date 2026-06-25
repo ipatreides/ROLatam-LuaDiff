@@ -6920,5 +6920,333 @@ SignBoardList = {
 		FILEPATH = "information\\ebl_manus.bmp",
 		CONTENTS = "  Jumpstart Event",
 		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[931] = {
+		MAPNAME = "glast_01",
+		CELLX = 210,
+		CELLY = 270,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "information\\over_mkwp.bmp"
+	},
+	[932] = {
+		MAPNAME = "glast_01",
+		CELLX = 210,
+		CELLY = 273,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "information\\over_mkhat.bmp"
+	},
+	[933] = {
+		MAPNAME = "glast_01",
+		CELLX = 212,
+		CELLY = 273,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "information\\over_mkect.bmp"
+	},
+	[934] = {
+		MAPNAME = "glast_01",
+		CELLX = 184,
+		CELLY = 283,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\ws_createcoin.bmp",
+		CONTENTS = "  Enchant",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[935] = {
+		MAPNAME = "prontera",
+		CELLX = 137,
+		CELLY = 125,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "information\\over_nmtrade.bmp",
+		CONTENTS = "  Shopping",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[936] = {
+		MAPNAME = "itemmall",
+		CELLX = 40,
+		CELLY = 85,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "achievement\\colletion.bmp"
+	},
+	[937] = {
+		MAPNAME = "prontera",
+		CELLX = 221,
+		CELLY = 209,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\mistress_egg.bmp"
+	},
+	[938] = {
+		MAPNAME = "moc_para01",
+		CELLX = 44,
+		CELLY = 22,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\°í¾çÀÌ¼ÕÆ¼ÄÏ.bmp"
+	},
+	[939] = {
+		MAPNAME = "moc_para01",
+		CELLX = 44,
+		CELLY = 19,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "information\\over_warp3.bmp"
+	},
+	[940] = {
+		MAPNAME = "moc_para01",
+		CELLX = 44,
+		CELLY = 17,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\c_tent.bmp"
+	},
+	[941] = {
+		MAPNAME = "rgsr_in",
+		CELLX = 115,
+		CELLY = 169,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\cr_alchemy.bmp"
+	},
+	[942] = {
+		MAPNAME = "rgsr_in",
+		CELLX = 131,
+		CELLY = 187,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\bs_findingore.bmp"
+	},
+	[943] = {
+		MAPNAME = "prontera",
+		CELLX = 184,
+		CELLY = 210,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\°ËÀº¼öÁ¤Á¶°¢.bmp"
+	},
+	[944] = {
+		MAPNAME = "prt_cas",
+		CELLX = 373,
+		CELLY = 77,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\episodclear16.bmp",
+		CONTENTS = "  Epi Pass",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[945] = {
+		MAPNAME = "prontera",
+		CELLX = 99,
+		CELLY = 64,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\¸¸´ÉÄ«Å»·Î±×½Ç¹ö.bmp"
+	},
+	[946] = {
+		MAPNAME = "alberta",
+		CELLX = 116,
+		CELLY = 71,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\gd_chargeshout_flag.bmp",
+		CONTENTS = "  Explorer",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[947] = {
+		MAPNAME = "c_tower1",
+		CELLX = 232,
+		CELLY = 222,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\as_poisonreact.bmp",
+		CONTENTS = "  Nightmare Mode",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[948] = {
+		MAPNAME = "dic_dun01",
+		CELLX = 266,
+		CELLY = 113,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\as_poisonreact.bmp",
+		CONTENTS = "  Nightmare Mode",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[949] = {
+		MAPNAME = "moc_prydb1",
+		CELLX = 103,
+		CELLY = 54,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\as_poisonreact.bmp",
+		CONTENTS = "  Nightmare Mode",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[950] = {
+		MAPNAME = "glast_01",
+		CELLX = 195,
+		CELLY = 273,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\as_poisonreact.bmp",
+		CONTENTS = "  Nightmare Mode",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[951] = {
+		MAPNAME = "lighthalzen",
+		CELLX = 321,
+		CELLY = 218,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\as_poisonreact.bmp",
+		CONTENTS = "  Nightmare Mode",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[952] = {
+		MAPNAME = "prontera",
+		CELLX = 90,
+		CELLY = 115,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\ill_piece_a.bmp"
+	},
+	[953] = {
+		MAPNAME = "prontera",
+		CELLX = 88,
+		CELLY = 113,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\ill_piece_b.bmp"
+	},
+	[954] = {
+		MAPNAME = "prt_cas",
+		CELLX = 165,
+		CELLY = 260,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\¸í¿¹ÀÇÁõÇ¥.bmp",
+		CONTENTS = "  Noblesse Equip",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[955] = {
+		MAPNAME = "rebel_in",
+		CELLX = 99,
+		CELLY = 51,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\½´¹ßÃ÷¸í¿¹ÀÇÁõÇ¥.bmp",
+		CONTENTS = "  Imperial Equip",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[956] = {
+		MAPNAME = "sp_cor",
+		CELLX = 136,
+		CELLY = 156,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\unknown_parts.bmp",
+		CONTENTS = "  Grace Equip",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[957] = {
+		MAPNAME = "itemmall",
+		CELLX = 41,
+		CELLY = 53,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\cachua_coupon.bmp"
+	},
+	[958] = {
+		MAPNAME = "itemmall",
+		CELLX = 41,
+		CELLY = 51,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\³É´Ù·¡¿­¸Å.bmp"
+	},
+	[959] = {
+		MAPNAME = "itemmall",
+		CELLX = 41,
+		CELLY = 46,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\ws_weaponrefine.bmp"
+	},
+	[960] = {
+		MAPNAME = "ba_in01",
+		CELLX = 87,
+		CELLY = 386,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\ep_17_2_c_admin1_egg.bmp"
+	},
+	[961] = {
+		MAPNAME = "ba_in01",
+		CELLX = 87,
+		CELLY = 383,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\barmealticket.bmp"
+	},
+	[963] = {
+		MAPNAME = "ba_in01",
+		CELLX = 87,
+		CELLY = 380,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\auto_imp_magic.bmp"
+	},
+	[964] = {
+		MAPNAME = "ba_in01",
+		CELLX = 87,
+		CELLY = 376,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\auto_m_i_box_a.bmp"
+	},
+	[965] = {
+		MAPNAME = "ba_in01",
+		CELLX = 87,
+		CELLY = 373,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\auto_module_e.bmp"
+	},
+	[966] = {
+		MAPNAME = "ba_in01",
+		CELLX = 87,
+		CELLY = 370,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\ws_createcoin.bmp"
+	},
+	[967] = {
+		MAPNAME = "itemmall",
+		CELLX = 18,
+		CELLY = 66,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\¿µÈ¥ÀÇ¶Õ¾î»½.bmp"
+	},
+	[968] = {
+		MAPNAME = "ba_in01",
+		CELLX = 16,
+		CELLY = 66,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "information\\ebl_manus.bmp"
+	},
+	[969] = {
+		MAPNAME = "ba_in01",
+		CELLX = 14,
+		CELLY = 66,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\¼Û°÷.bmp"
 	}
 }

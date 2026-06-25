@@ -8106,6 +8106,18 @@ StateIconList_data = {
 				[2] = COLOR_TIME
 			}
 		}
+	},
+	[EFST_IDs.EFST_BLOCK] = {
+		haveTimeLimit = 1,
+		posTimeLimitStr = 2,
+		descript = {
+			[1] = {
+				[2] = COLOR_TITLE_DEBUFF
+			},
+			[2] = {
+				[2] = COLOR_TIME
+			}
+		}
 	}
 }
 local function MergeTables(dest, src)

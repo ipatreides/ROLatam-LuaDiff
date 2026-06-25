@@ -62,5 +62,28 @@ RecommendedQuestInfoList = {
 		QuestInfo3 = {
 			"^ff0000× Esta página es una introducción de actualización, no una misión. No se eliminará tras completarla.^000000"
 		}
+	},
+	[80] = {
+		Title = "Episodio 18: La dirección de la oración",
+		IconName = "ico_ep.bmp",
+		Summary = "¿Qué ocurre en Rachel?",
+		NpcSpr = "4_EP17_TABLET",
+		NpcNavi = "ba_in01",
+		NpcPosX = 26,
+		NpcPosY = 266,
+		BgName = "reco_80.bmp",
+		QuestInfo1 = {
+			"¡Por fin ha terminado el análisis de la señal del dirigible, que no avanzaba!",
+			"Parece que los restos de Illusion están tramando algo en Rachel, la capital del Estado Sagrado Arunafeltz.",
+			"Eli decide ir directamente a Rachel junto con el aventurero."
+		},
+		QuestInfo2 = {
+			"Condiciones previas",
+			"Completar el episodio ^99000017.2^000000",
+			"Aventureros de ^990000nivel 170 o superior^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000Esta página es una presentación de la actualización, no una misión. Ten en cuenta que no se eliminará aunque completes la misión.^000000"
+		}
 	}
 }

@@ -387,7 +387,7 @@ EquipmentPropertiesOrder_string = {
 				name = "{sym}{val}%#Resist. a prop. Maldito"
 			},
 			[46] = {
-				name = "{sym}{val}%#Resits. física a oponentes de todas as prop."
+				name = "{sym}{val}%#Resist. física a oponentes de todas as prop."
 			},
 			[47] = {
 				name = "{sym}{val}%#Resist. física a oponentes de Fogo"
@@ -915,10 +915,10 @@ EquipmentPropertiesOrder_string = {
 				name = "Conjuração initerrupta {sym}"
 			},
 			[4] = {
-				name = "{sym}{val}%#Converte {sep}% do dano físico causado em HP"
+				name = "{sym}{val}%#de chance de converter {sep}% do dano físico causado em HP"
 			},
 			[5] = {
-				name = "{sym}{val}%#Converte {sep}% do dano físico causado em SP"
+				name = "{sym}{val}%#de chance de converter {sep}% do dano físico causado em SP"
 			},
 			[6] = {
 				name = "Imunidade Mágica {sym}"
@@ -954,13 +954,13 @@ EquipmentPropertiesOrder_string = {
 				name = "Vigor Permanente {sym}"
 			},
 			[17] = {
-				name = "Movimento {sym}"
+				name = "Movimento acelerado {sym}"
 			},
 			[18] = {
 				name = "Clarividência {sym}"
 			},
 			[19] = {
-				name = "{sym}{val}%#Chance de refletir magias recebidas"
+				name = "{sym}{val}%#de chance de refletir magias recebidas"
 			},
 			[20] = {
 				name = "{val}%#Regen. natural de HP {sym}"

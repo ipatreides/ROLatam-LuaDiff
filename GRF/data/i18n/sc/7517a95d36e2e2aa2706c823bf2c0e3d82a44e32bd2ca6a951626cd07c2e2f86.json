@@ -1,948 +1,790 @@
 {
     "QJe8Bw": {
-        "ko-KR": "RS26",
         "en-US": "RS26",
         "pt-BR": "RS26",
         "es-ES": "RS26"
     },
     "QZe8Bw": {
-        "ko-KR": "보유한 물건의 종류가 너무 많은것 같다. 물건의 종류를 줄인뒤에 다시 진행해보자.",
         "en-US": "It seems you have too many different types of items. Try reducing the number of item types you have, then proceed again.",
         "pt-BR": "Você tem muitos itens. Reduza o número de itens do seu inventário e volte novamente.",
         "es-ES": "Tienes demasiados objetos. Reduce la cantidad de objetos en tu inventario y vuelve a intentarlo."
     },
     "Qpe8Bw": {
-        "ko-KR": "가진 물건이 너무 무거워 더이상의 진행이 힘들 것 같다. 무게를 줄인 후 다시 도전해보자.",
         "en-US": "It seems that your inventory is too heavy to continue. Try reducing your weight and then attempt again.",
         "pt-BR": "Você está acima do limite de carga. Alivie a carga do seu inventário e volte novamente.",
         "es-ES": "Has superado el límite de carga. Reduce la carga de tu inventario y vuelve a intentarlo."
     },
     "Q5e8Bw": {
-        "ko-KR": "[RS26]\n{0} 님\n어서오십시오 환영합니다!",
         "en-US": "[RS26]\nWelcome, {0}! We're glad to have you here!",
         "pt-BR": "[RS26]\nSaudações, {0}.\nQual o comando?",
         "es-ES": "[RS26]\nSaludos, {0}.\n¿Cuál es la orden?"
     },
     "RJe8Bw": {
-        "ko-KR": "기기 살펴보기",
         "en-US": "Inspect the device",
         "pt-BR": "Introdução",
         "es-ES": "Introducción"
     },
     "RZe8Bw": {
-        "ko-KR": "일루시온 윙 강화",
         "en-US": "Illusion Wing Enhancement",
         "pt-BR": "Encantar Motor Ilusión",
         "es-ES": "Encantar Motor Ilusión"
     },
     "Rpe8Bw": {
-        "ko-KR": "일루시온 아머 강화",
         "en-US": "Illusion Armor Enhancement",
         "pt-BR": "Encantar Colete Ilusión",
         "es-ES": "Encantar Chaleco Ilusión"
     },
     "R5e8Bw": {
-        "ko-KR": "일루시온 레그 강화",
         "en-US": "Illusion Leg Enhancement",
         "pt-BR": "Encantar Perna Ilusión",
         "es-ES": "Encantar Piernas Ilusión"
     },
     "SJe8Bw": {
-        "ko-KR": "일루시온 액세서리(R) 강화",
         "en-US": "Illusion Accessory (R) Enhancement",
         "pt-BR": "Encantar Acessório Direito",
         "es-ES": "Encantar Accesorio Derecho"
     },
     "SZe8Bw": {
-        "ko-KR": "일루시온 액세서리(L) 강화",
         "en-US": "Illusion Accessory (L) Enhancement",
         "pt-BR": "Encantar Acessório Esquerdo",
         "es-ES": "Encantar Accesorio Izquierdo"
     },
     "Spe8Bw": {
-        "ko-KR": "^0000FF#최신 홀로그램으로 표현된 안드로이드가 자연스런 동작으로 인사를 건네온다#^000000",
         "en-US": "^0000FF#An android, projected with the latest hologram technology, greets you with a natural gesture#^000000",
         "pt-BR": "^0000FF#O holograma cumprimenta você com gestos naturais#^000000",
         "es-ES": "^0000FF#El holograma te saluda con gestos naturales#^000000"
     },
     "S5e8Bw": {
-        "ko-KR": "리벨리온 : 아, 거기 그 기계는 개조 모듈이 없으면 아무 쓸모가 없어요.",
         "en-US": "Rebellion: Ah, that machine over there is completely useless without a modification module.",
         "pt-BR": "Insurgente: Essa máquina só encanta usando os Módulos.",
         "es-ES": "Insurgente: Esta máquina solo encanta usando Módulos."
     },
     "TJe8Bw": {
-        "ko-KR": "[RS26]\n미래도시에서 발견된 기술이 이제 여러분의 생활속으로 파고듭니다. 레겐쉬름 로보틱스의 최신 테크놀러지 RS26 과 함께 하세요.",
         "en-US": "[RS26]\nTechnology discovered in the city of the future is now becoming a part of your everyday life. Experience the latest innovation from Regenschirm Robotics with RS26.",
         "pt-BR": "[RS26]\nA tecnologia descoberta na cidade do futuro agora penetra em sua vida diária. Experimente a mais recente criação da Regenschirm: o modelo RS26.",
         "es-ES": "[RS26]\nLa tecnología descubierta en la ciudad del futuro ahora forma parte de tu vida diaria. Prueba la creación más reciente de Regenschirm: el modelo RS26."
     },
     "TZe8Bw": {
-        "ko-KR": "[RS26]\n일루시온 장비와 강화용 모듈을 가지고 오시면 모듈에 따라 장비를 강화해 드리고 있습니다.",
         "en-US": "[RS26]\nIf you bring Illusion equipment and enhancement modules, I can upgrade your equipment according to the module you provide.",
         "pt-BR": "[RS26]\nMe traga Módulos para encantar seus equipamentos Ilusión.",
         "es-ES": "[RS26]\nTráeme Módulos para encantar tu equipo Ilusión."
     },
     "Tpe8Bw": {
-        "ko-KR": "[RS26]\n규격 모듈에 따라 작업하는 것이므로 장비가 파괴되는 일은 없습니다. 다만 모듈에 따라 업그레이드 횟수등은 다를 수 있습니다.",
         "en-US": "[RS26]\nSince the work is done according to standard modules, your equipment will not be destroyed. However, the number of upgrades and other details may vary depending on the module.",
         "pt-BR": "[RS26]\nNão há casos de falha ao encantar, mas o número de encantamentos varia de acordo com o Módulo e com o equipamento.",
         "es-ES": "[RS26]\nNo existe posibilidad de fallo al encantar, pero la cantidad de encantamientos varía según el Módulo y el equipo."
     },
     "T5e8Bw": {
-        "ko-KR": "[RS26]\n그럼 도움이 필요하실때 다시 방문하십시오~",
         "en-US": "[RS26]\nThen please come back if you need any help~",
         "pt-BR": "[RS26]\nRetorne quando precisar de ajuda~",
         "es-ES": "[RS26]\nVuelve cuando necesites ayuda~"
     },
     "UJe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(방어)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Defense) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de N-DEF (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de DEF (vacío)^000000"
     },
     "UZe8Bw": {
-        "ko-KR": "개조 오브(방어)",
         "en-US": "Modified Orb (Defense)",
         "pt-BR": "Módulo de N-DEF",
         "es-ES": "Módulo de DEF"
     },
     "Upe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(마법방어)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Magic Defense) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de N-DEFM (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de DEFM (vacío)^000000"
     },
     "U5e8Bw": {
-        "ko-KR": "개조 오브(마법방어)",
         "en-US": "Modified Orb (Magic Defense)",
         "pt-BR": "Módulo de N-DEFM",
         "es-ES": "Módulo de DEFM"
     },
     "VJe8Bw": {
-        "ko-KR": "^AAAAAAVIT+3(도면없음)^000000",
         "en-US": "^AAAAAAVIT+3 (No blueprint) ^000000",
         "pt-BR": "^AAAAAAMódulo de N-VIT (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de VIT (vacío)^000000"
     },
     "VZe8Bw": {
-        "ko-KR": "VIT+3",
         "en-US": "VIT+3",
         "pt-BR": "Módulo de N-VIT",
         "es-ES": "Módulo de VIT"
     },
     "Vpe8Bw": {
-        "ko-KR": "^AAAAAALUK+3(도면없음)^000000",
         "en-US": "^AAAAAALUK+3 (No blueprint) ^000000",
         "pt-BR": "^AAAAAAMódulo de N-SOR (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de SUE (vacío)^000000"
     },
     "V5e8Bw": {
-        "ko-KR": "LUK+3",
         "en-US": "LUK+3",
         "pt-BR": "Módulo de N-SOR",
         "es-ES": "Módulo de SUE"
     },
     "WJe8Bw": {
-        "ko-KR": "^AAAAAASTR+3(도면없음)^000000",
         "en-US": "^AAAAAASTR+3 (No blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de N-FOR (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de FUE (vacío)^000000"
     },
     "WZe8Bw": {
-        "ko-KR": "STR+3",
         "en-US": "STR+3",
         "pt-BR": "Módulo de N-FOR",
         "es-ES": "Módulo de FUE"
     },
     "Wpe8Bw": {
-        "ko-KR": "^AAAAAAAGI+3(도면없음)^000000",
         "en-US": "^AAAAAAAGI+3 (no blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de N-AGI (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de AGI (vacío)^000000"
     },
     "W5e8Bw": {
-        "ko-KR": "AGI+3",
         "en-US": "AGI+3",
         "pt-BR": "Módulo de N-AGI",
         "es-ES": "Módulo de AGI"
     },
     "XJe8Bw": {
-        "ko-KR": "^AAAAAAINT+3(도면없음)^000000",
         "en-US": "^AAAAAAINT+3 (No blueprint) ^000000",
         "pt-BR": "^AAAAAAMódulo de N-INT (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de INT (vacío)^000000"
     },
     "XZe8Bw": {
-        "ko-KR": "INT+3",
         "en-US": "INT+3",
         "pt-BR": "Módulo de N-INT",
         "es-ES": "Módulo de INT"
     },
     "Xpe8Bw": {
-        "ko-KR": "^AAAAAADEX+3(도면없음)^000000",
         "en-US": "^AAAAAADEX+3 (no blueprint) ^000000",
         "pt-BR": "^AAAAAAMódulo de N-DES (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de DES (vacío)^000000"
     },
     "X5e8Bw": {
-        "ko-KR": "DEX+3",
         "en-US": "DEX+3",
         "pt-BR": "Módulo de N-DES",
         "es-ES": "Módulo de DES"
     },
     "YJe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(HP회복량)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (HP Recovery Amount) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de HPR (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de HPR (vacío)^000000"
     },
     "YZe8Bw": {
-        "ko-KR": "개조 오브(HP회복량)",
         "en-US": "Modified Orb (HP Recovery Amount)",
         "pt-BR": "Módulo de HPR",
         "es-ES": "Módulo de HPR"
     },
     "Ype8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(SP회복량)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (SP Recovery Amount) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de S-SPR (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de SPR (vacío)^000000"
     },
     "Y5e8Bw": {
-        "ko-KR": "개조 오브(SP회복량)",
         "en-US": "Modified Orb (SP Recovery Amount)",
         "pt-BR": "Módulo de S-SPR",
         "es-ES": "Módulo de SPR"
     },
     "ZJe8Bw": {
-        "ko-KR": "^AAAAAA마력5Lv(도면없음)^000000",
         "en-US": "^AAAAAASpell 5 (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de PE5 (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de PE5 (vacío)^000000"
     },
     "ZZe8Bw": {
-        "ko-KR": "마력5Lv",
         "en-US": "Spell 5",
         "pt-BR": "Módulo de PE5",
         "es-ES": "Módulo de PE5"
     },
     "Zpe8Bw": {
-        "ko-KR": "^AAAAAA공격후딜레이4Lv(도면없음)^000000",
         "en-US": "^AAAAAAASPD 4(No blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de AA4 (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de AA4 (vacío)^000000"
     },
     "Z5e8Bw": {
-        "ko-KR": "공격후딜레이4Lv",
         "en-US": "ASPD 4",
         "pt-BR": "Módulo de AA4",
         "es-ES": "Módulo de AA4"
     },
     "aJe8Bw": {
-        "ko-KR": "^AAAAAA치명4Lv(도면없음)^000000",
         "en-US": "^AAAAAAFatal lv4 (No blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de F4 (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de F4 (vacío)^000000"
     },
     "aZe8Bw": {
-        "ko-KR": "치명4Lv",
         "en-US": "Fatal lv4",
         "pt-BR": "Módulo de F4",
         "es-ES": "Módulo de F4"
     },
     "ape8Bw": {
-        "ko-KR": "^AAAAAA명궁5Lv(도면없음)^000000",
         "en-US": "^AAAAAAExpert Archer 5 (No blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de MA5 (vazio) ^000000",
         "es-ES": "^AAAAAAMódulo de MA5 (vacío)^000000"
     },
     "a5e8Bw": {
-        "ko-KR": "명궁5Lv",
         "en-US": "Expert Archer 5",
         "pt-BR": "Módulo de MA5",
         "es-ES": "Módulo de MA5"
     },
     "bJe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(체력)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Vitality) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de S-HPMax (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de HPMax (vacío)^000000"
     },
     "bZe8Bw": {
-        "ko-KR": "개조 오브(체력)",
         "en-US": "Modified Orb (Vitality)",
         "pt-BR": "Módulo de S-HPMax",
         "es-ES": "Módulo de HPMax"
     },
     "bpe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(정신력)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Mental Power) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de S-SPMax (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de SPMax (vacío)^000000"
     },
     "b5e8Bw": {
-        "ko-KR": "개조 오브(정신력)",
         "en-US": "Modified Orb (Mental Power)",
         "pt-BR": "Módulo de S-SPMax",
         "es-ES": "Módulo de SPMax"
     },
     "cJe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(힐)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Heal) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de S-Cura (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de Cura (vacío)^000000"
     },
     "cZe8Bw": {
-        "ko-KR": "개조 오브(힐)",
         "en-US": "Modified Orb (Heal)",
         "pt-BR": "Módulo de S-Cura",
         "es-ES": "Módulo de Cura"
     },
     "cpe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(공격력)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Attack Power) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de S-ATQ (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de ATQ (vacío)^000000"
     },
     "c5e8Bw": {
-        "ko-KR": "개조 오브(공격력)",
         "en-US": "Modified Orb (Attack Power)",
         "pt-BR": "Módulo de S-ATQ",
         "es-ES": "Módulo de ATQ"
     },
     "dJe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(마법력)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Magic Power) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de S-ATQM (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de ATQM (vacío)^000000"
     },
     "dZe8Bw": {
-        "ko-KR": "개조 오브(마법력)",
         "en-US": "Modified Orb (Magic Power)",
         "pt-BR": "Módulo de S-ATQM",
         "es-ES": "Módulo de ATQM"
     },
     "dpe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(명사수)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Shooter) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de S-Tiro (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de Tiro (vacío)^000000"
     },
     "d5e8Bw": {
-        "ko-KR": "개조 오브(명사수)",
         "en-US": "Modified Orb (Shooter)",
         "pt-BR": "Módulo de S-Tiro",
         "es-ES": "Módulo de Tiro"
     },
     "eJe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(신속)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Swift) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de S-Rapidez (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de Rapidez (vacío)^000000"
     },
     "eZe8Bw": {
-        "ko-KR": "개조 오브(신속)",
         "en-US": "Modified Orb (Swift)",
         "pt-BR": "Módulo de S-Rapidez",
         "es-ES": "Módulo de Rapidez"
     },
     "epe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(캐스터)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Caster) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de S-Magia (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de Magia (vacío)^000000"
     },
     "e5e8Bw": {
-        "ko-KR": "개조 오브(캐스터)",
         "en-US": "Modified Orb (Caster)",
         "pt-BR": "Módulo de S-Magia",
         "es-ES": "Módulo de Magia"
     },
     "fJe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(크리티컬)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Critical) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de S-CRIT (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de CRIT (vacío)^000000"
     },
     "fZe8Bw": {
-        "ko-KR": "개조 오브(크리티컬)",
         "en-US": "Modified Orb (Critical)",
         "pt-BR": "Módulo de S-CRIT",
         "es-ES": "Módulo de CRIT"
     },
     "fpe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(스킬 후  딜레이)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (After skill delay) (No blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de U-Pós (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de Post (vacío)^000000"
     },
     "f5e8Bw": {
-        "ko-KR": "개조 오브(스킬 후  딜레이)",
         "en-US": "Modified Orb (After skill delay)",
         "pt-BR": "Módulo de U-Pós",
         "es-ES": "Módulo de Post"
     },
     "gJe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(고정 캐스팅)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Fixed Casting) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de U-Fixa (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de Fija (vacío)^000000"
     },
     "gZe8Bw": {
-        "ko-KR": "개조 오브(고정 캐스팅)",
         "en-US": "Modified Orb (Fixed Casting)",
         "pt-BR": "Módulo de U-Fixa",
         "es-ES": "Módulo de Fija"
     },
     "gpe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(어보브 올)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Above All) (No blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de U-Total (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de Total (vacío)^000000"
     },
     "g5e8Bw": {
-        "ko-KR": "개조 오브(어보브 올)",
         "en-US": "Modified Orb (Above All)",
         "pt-BR": "Módulo de U-Total",
         "es-ES": "Módulo de Total"
     },
     "hJe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(드레인 라이프)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Drain Life) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de U-Vida (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de Vida (vacío)^000000"
     },
     "hZe8Bw": {
-        "ko-KR": "개조 오브(드레인 라이프)",
         "en-US": "Modified Orb (Drain Life)",
         "pt-BR": "Módulo de U-Vida",
         "es-ES": "Módulo de Vida"
     },
     "hpe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(드레인 소울)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Drain Soul) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de U-Alma (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de Alma (vacío)^000000"
     },
     "h5e8Bw": {
-        "ko-KR": "개조 오브(드레인 소울)",
         "en-US": "Modified Orb (Drain Soul)",
         "pt-BR": "Módulo de U-Alma",
         "es-ES": "Módulo de Alma"
     },
     "iJe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(매직 힐링)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Magic Healing) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de U-Mental (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de Mental (vacío)^000000"
     },
     "iZe8Bw": {
-        "ko-KR": "개조 오브(매직 힐링)",
         "en-US": "Modified Orb (Magic Healing)",
         "pt-BR": "Módulo de U-Mental",
         "es-ES": "Módulo de Mental"
     },
     "ipe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(매직 소울)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Magic Soul) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de U-Mana (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de Maná (vacío)^000000"
     },
     "i5e8Bw": {
-        "ko-KR": "개조 오브(매직 소울)",
         "en-US": "Modified Orb (Magic Soul)",
         "pt-BR": "Módulo de U-Mana",
         "es-ES": "Módulo de Maná"
     },
     "jJe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(언리밋바이탈)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Unlimited Vital) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de L-Eternidade (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de Eternidad (vacío)^000000"
     },
     "jZe8Bw": {
-        "ko-KR": "개조 오브(언리밋바이탈)",
         "en-US": "Modified Orb (Unlimited Vital)",
         "pt-BR": "Módulo de L-Eternidade",
         "es-ES": "Módulo de Eternidad"
     },
     "jpe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(스펠버스터)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Spell Buster) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de L-Sortilégio (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de Sortilegio (vacío)^000000"
     },
     "j5e8Bw": {
-        "ko-KR": "개조 오브(스펠버스터)",
         "en-US": "Modified Orb (Spell Buster)",
         "pt-BR": "Módulo de L-Sortilégio",
         "es-ES": "Módulo de Sortilegio"
     },
     "kJe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(파이어링샷)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Firing Shot) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de L-Astúcia (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de Astucia (vacío)^000000"
     },
     "kZe8Bw": {
-        "ko-KR": "개조 오브(파이어링샷)",
         "en-US": "Modified Orb (Firing Shot)",
         "pt-BR": "Módulo de L-Astúcia",
         "es-ES": "Módulo de Astucia"
     },
     "kpe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(오버파워)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Overpower) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de L-Superpoder (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de Superpoder (vacío)^000000"
     },
     "k5e8Bw": {
-        "ko-KR": "개조 오브(오버파워)",
         "en-US": "Modified Orb (Overpower)",
         "pt-BR": "Módulo de L-Superpoder",
         "es-ES": "Módulo de Superpoder"
     },
     "lJe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(페이탈 플래쉬)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Fatal Flash) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de L-Lampejo (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de Destello (vacío)^000000"
     },
     "lZe8Bw": {
-        "ko-KR": "개조 오브(페이탈 플래쉬)",
         "en-US": "Modified Orb (Fatal Flash)",
         "pt-BR": "Módulo de L-Lampejo",
         "es-ES": "Módulo de Destello"
     },
     "lpe8Bw": {
-        "ko-KR": "^AAAAAA개조 오브(럭키스트라이크)(도면없음)^000000",
         "en-US": "^AAAAAAModified Orb (Lucky Strike) (No Blueprint)^000000",
         "pt-BR": "^AAAAAAMódulo de L-Fortuna (vazio)^000000",
         "es-ES": "^AAAAAAMódulo de Fortuna (vacío)^000000"
     },
     "l5e8Bw": {
-        "ko-KR": "개조 오브(럭키스트라이크)",
         "en-US": "Modified Orb (Lucky Strike)",
         "pt-BR": "Módulo de L-Fortuna",
         "es-ES": "Módulo de Fortuna"
     },
     "mJe8Bw": {
-        "ko-KR": "[RS26]\n{0} 님\n업그레이드하실 효능을 선택해주십시오.",
         "en-US": "[RS26]\n{0},\nPlease select the effect you wish to upgrade.",
         "pt-BR": "[RS26]\nPor favor, {0}.\nSelecione o nível de raridade do seu Módulo.",
         "es-ES": "[RS26]\nPor favor, {0}.\nSelecciona el nivel de rareza de tu Módulo."
     },
     "mZe8Bw": {
-        "ko-KR": "취소",
         "en-US": "Cancel",
         "pt-BR": "Cancelar",
         "es-ES": "Cancelar"
     },
     "mpe8Bw": {
-        "ko-KR": "노멀등급",
         "en-US": "Normal grade",
         "pt-BR": "N - Normal",
         "es-ES": "N - Normal"
     },
     "m5e8Bw": {
-        "ko-KR": "레어등급",
         "en-US": "Rare grade",
         "pt-BR": "S - Singular",
         "es-ES": "S - Singular"
     },
     "nJe8Bw": {
-        "ko-KR": "유니크등급",
         "en-US": "Unique grade",
         "pt-BR": "U - Único",
         "es-ES": "U - Único"
     },
     "nZe8Bw": {
-        "ko-KR": "레전드등급",
         "en-US": "Legend grade",
         "pt-BR": "L - Lendário",
         "es-ES": "L - Legendario"
     },
     "npe8Bw": {
-        "ko-KR": "[RS26]\n여기까지 하기로 하겠습니다.",
         "en-US": "[RS26]\nLet's stop here for now.",
         "pt-BR": "[RS26]\nEncerrando operação.",
         "es-ES": "[RS26]\nCerrando operación."
     },
     "n5e8Bw": {
-        "ko-KR": "개조 오브(방어)",
         "en-US": "Modified Orb (Defense)",
         "pt-BR": "Módulo de N-DEF",
         "es-ES": "Módulo de DEF"
     },
     "oJe8Bw": {
-        "ko-KR": "개조 오브(마법방어)",
         "en-US": "Modified Orb (Magic Defense)",
         "pt-BR": "Módulo de N-DEFM",
         "es-ES": "Módulo de DEFM"
     },
     "oZe8Bw": {
-        "ko-KR": "VIT+3",
         "en-US": "VIT+3",
         "pt-BR": "Módulo de N-VIT",
         "es-ES": "Módulo de VIT"
     },
     "ope8Bw": {
-        "ko-KR": "LUK+3",
         "en-US": "LUK+3",
         "pt-BR": "Módulo de N-SOR",
         "es-ES": "Módulo de SUE"
     },
     "o5e8Bw": {
-        "ko-KR": "STR+3",
         "en-US": "STR+3",
         "pt-BR": "Módulo de N-FOR",
         "es-ES": "Módulo de FUE"
     },
     "pJe8Bw": {
-        "ko-KR": "AGI+3",
         "en-US": "AGI+3",
         "pt-BR": "Módulo de N-AGI",
         "es-ES": "Módulo de AGI"
     },
     "pZe8Bw": {
-        "ko-KR": "INT+3",
         "en-US": "INT+3",
         "pt-BR": "Módulo de N-INT",
         "es-ES": "Módulo de INT"
     },
     "ppe8Bw": {
-        "ko-KR": "DEX+3",
         "en-US": "DEX+3",
         "pt-BR": "Módulo de N-DES",
         "es-ES": "Módulo de DES"
     },
     "p5e8Bw": {
-        "ko-KR": "개조 오브(HP회복량)",
         "en-US": "Modified Orb (HP Recovery Amount)",
         "pt-BR": "Módulo de HPR",
         "es-ES": "Módulo de HPR"
     },
     "qJe8Bw": {
-        "ko-KR": "개조 오브(SP회복량)",
         "en-US": "Modified Orb (SP Recovery Amount)",
         "pt-BR": "Módulo de S-SPR",
         "es-ES": "Módulo de SPR"
     },
     "qZe8Bw": {
-        "ko-KR": "마력5Lv",
         "en-US": "Spell 5",
         "pt-BR": "Módulo de PE5",
         "es-ES": "Módulo de PE5"
     },
     "qpe8Bw": {
-        "ko-KR": "공격후딜레이4Lv",
         "en-US": "ASPD 4Lv",
         "pt-BR": "Módulo de AA4",
         "es-ES": "Módulo de AA4"
     },
     "q5e8Bw": {
-        "ko-KR": "치명4Lv",
         "en-US": "Critical Lv 4",
         "pt-BR": "Módulo de F4",
         "es-ES": "Módulo de F4"
     },
     "rJe8Bw": {
-        "ko-KR": "명궁5Lv",
         "en-US": "Expert Archer 5",
         "pt-BR": "Módulo de MA5",
         "es-ES": "Módulo de MA5"
     },
     "rZe8Bw": {
-        "ko-KR": "개조 오브(체력)",
         "en-US": "Modified Orb (Vitality)",
         "pt-BR": "Módulo de S-HPMax",
         "es-ES": "Módulo de HPMax"
     },
     "rpe8Bw": {
-        "ko-KR": "개조 오브(정신력)",
         "en-US": "Modified Orb (Mental Power)",
         "pt-BR": "Módulo de S-SPMax",
         "es-ES": "Módulo de SPMax"
     },
     "r5e8Bw": {
-        "ko-KR": "개조 오브(힐)",
         "en-US": "Modified Orb (Heal)",
         "pt-BR": "Módulo de S-Cura",
         "es-ES": "Módulo de Cura"
     },
     "sJe8Bw": {
-        "ko-KR": "개조 오브(공격력)",
         "en-US": "Modified Orb (Attack Power)",
         "pt-BR": "Módulo de S-ATQ",
         "es-ES": "Módulo de ATQ"
     },
     "sZe8Bw": {
-        "ko-KR": "개조 오브(마법력)",
         "en-US": "Modified Orb (Magic Power)",
         "pt-BR": "Módulo de S-ATQM",
         "es-ES": "Módulo de ATQM"
     },
     "spe8Bw": {
-        "ko-KR": "개조 오브(명사수)",
         "en-US": "Modified Orb (Shooter)",
         "pt-BR": "Módulo de S-Tiro",
         "es-ES": "Módulo de Tiro"
     },
     "s5e8Bw": {
-        "ko-KR": "개조 오브(신속)",
         "en-US": "Modified Orb (Agility)",
         "pt-BR": "Módulo de S-Rapidez",
         "es-ES": "Módulo de Rapidez"
     },
     "tJe8Bw": {
-        "ko-KR": "개조 오브(캐스터)",
         "en-US": "Modified Orb (Caster)",
         "pt-BR": "Módulo de S-Magia",
         "es-ES": "Módulo de Magia"
     },
     "tZe8Bw": {
-        "ko-KR": "개조 오브(크리티컬)",
         "en-US": "Modified Orb (Critical)",
         "pt-BR": "Módulo de S-CRIT",
         "es-ES": "Módulo de CRIT"
     },
     "tpe8Bw": {
-        "ko-KR": "개조 오브(스킬_후 _딜레이)",
         "en-US": "Modified Orb (Skill After-cast Delay)",
         "pt-BR": "Módulo de U-Pós",
         "es-ES": "Módulo de Post"
     },
     "t5e8Bw": {
-        "ko-KR": "개조 오브(고정_캐스팅)",
         "en-US": "Modified Orb (Fixed Casting)",
         "pt-BR": "Módulo de U-Fixa",
         "es-ES": "Módulo de Fija"
     },
     "uJe8Bw": {
-        "ko-KR": "개조 오브(어보브_올)",
         "en-US": "Modified Orb (Above_All)",
         "pt-BR": "Módulo de U-Total",
         "es-ES": "Módulo de Total"
     },
     "uZe8Bw": {
-        "ko-KR": "개조 오브(드레인_라이프)",
         "en-US": "Modified Orb (Drain Life)",
         "pt-BR": "Módulo de U-Vida",
         "es-ES": "Módulo de Vida"
     },
     "upe8Bw": {
-        "ko-KR": "개조 오브(드레인_소울)",
         "en-US": "Modified Orb (Drain_Soul)",
         "pt-BR": "Módulo de U-Alma",
         "es-ES": "Módulo de Alma"
     },
     "u5e8Bw": {
-        "ko-KR": "개조 오브(매직_힐링)",
         "en-US": "Modified Orb (Magic_Healing)",
         "pt-BR": "Módulo de U-Mental",
         "es-ES": "Módulo de Mental"
     },
     "vJe8Bw": {
-        "ko-KR": "개조 오브(매직_소울)",
         "en-US": "Modified Orb (Magic_Soul)",
         "pt-BR": "Módulo de U-Mana",
         "es-ES": "Módulo de Maná"
     },
     "vZe8Bw": {
-        "ko-KR": "개조 오브(언리밋바이탈)",
         "en-US": "Modified Orb (Unlimited Vital)",
         "pt-BR": "Módulo de L-Eternidade",
         "es-ES": "Módulo de Eternidad"
     },
     "vpe8Bw": {
-        "ko-KR": "개조 오브(스펠버스터)",
         "en-US": "Modified Orb (Spell Buster)",
         "pt-BR": "Módulo de L-Sortilégio",
         "es-ES": "Módulo de Sortilegio"
     },
     "v5e8Bw": {
-        "ko-KR": "개조 오브(파이어링샷)",
         "en-US": "Modified Orb (Firing Shot)",
         "pt-BR": "Módulo de L-Astúcia",
         "es-ES": "Módulo de Astucia"
     },
     "wJe8Bw": {
-        "ko-KR": "개조 오브(오버파워)",
         "en-US": "Modified Orb (Overpower)",
         "pt-BR": "Módulo de L-Superpoder",
         "es-ES": "Módulo de Superpoder"
     },
     "wZe8Bw": {
-        "ko-KR": "개조 오브(페이탈 플래쉬)",
         "en-US": "Modified Orb (Fatal Flash)",
         "pt-BR": "Módulo de L-Lampejo",
         "es-ES": "Módulo de Destello"
     },
     "wpe8Bw": {
-        "ko-KR": "개조 오브(럭키스트라이크)",
         "en-US": "Modified Orb (Lucky Strike)",
         "pt-BR": "Módulo de L-Fortuna",
         "es-ES": "Módulo de Fortuna"
     },
     "w5e8Bw": {
-        "ko-KR": "[RS26]\n효능과 일치하는 모듈을 소지하셔야 강화를 진행 할 수 있습니다.",
         "en-US": "[RS26]\nYou must possess a module that matches the effect in order to proceed with the enhancement.",
         "pt-BR": "[RS26]\nVocê não tem o Módulo selecionado.",
         "es-ES": "[RS26]\nNo tienes el Módulo seleccionado."
     },
     "xJe8Bw": {
-        "ko-KR": "[RS26]\n정상적인 진행이 불가능한 상황입니다. 관리자를 찾으셔야 할 것 같군요.",
         "en-US": "[RS26]\nIt seems that normal progression is not possible. You may need to contact an administrator.",
         "pt-BR": "[RS26]\nÉ impossível prosseguir normalmente. Acho que você precisa encontrar um administrador.",
         "es-ES": "[RS26]\nNo es posible continuar con normalidad. Creo que necesitas encontrar a un administrador."
     },
     "xZe8Bw": {
-        "ko-KR": "[RS26]\n장비를 벗고 계신건 아닌가요?",
         "en-US": "[RS26]\nAre you sure you're not unequipped?",
         "pt-BR": "[RS26]\nVocê não está usando o equipamento?",
         "es-ES": "[RS26]\n¿No tienes el equipo equipado?"
     },
     "xpe8Bw": {
-        "ko-KR": "^FF0000랜덤옵션이 확인됩니다. 해당 장비는 작업 하실 수 없습니다.^000000",
         "en-US": "^FF0000Random options have been detected. This equipment cannot be processed.^000000",
         "pt-BR": "^FF0000Este item possui um bônus aleatório. Não é possível continuar.^000000",
         "es-ES": "^FF0000Este objeto tiene un bono aleatorio. No es posible continuar.^000000"
     },
     "x5e8Bw": {
-        "ko-KR": "[RS26]\n이미 레전드급 모듈을 장착 하셨었군요. 더 이상의 레전드급 모듈 장착은 불가능합니다",
         "en-US": "[RS26]\nYou have already equipped a Legend-grade module. It is not possible to equip another Legend-grade module.",
         "pt-BR": "[RS26]\nEste item já possui um Módulo Lendário. É impossível instalar mais de um.",
         "es-ES": "[RS26]\nEste objeto ya tiene un Módulo Legendario. Es imposible instalar más de uno."
     },
     "yJe8Bw": {
-        "ko-KR": "[RS26]\n선택하신 모듈과 선택하신 장비는 호환되지 않습니다.",
         "en-US": "[RS26]\nThe selected module is not compatible with the selected equipment.",
         "pt-BR": "[RS26]\nO módulo selecionado e o equipamento escolhido não são compatíveis de encantamento.",
         "es-ES": "[RS26]\nEl módulo seleccionado y el equipo elegido no son compatibles para el encantamiento."
     },
     "yZe8Bw": {
-        "ko-KR": "[RS26]\n이 모듈은 첫 강화 시에만 사용 가능합니다. 유감스럽게도 해당장비는 이미 다른 효능을 부여받으셨군요. 다른 모듈을 이용하여 강화해 주십시오.",
         "en-US": "[RS26]\nThis module can only be used during the first enhancement. Unfortunately, this equipment has already been granted a different effect. Please use another module to enhance it.",
         "pt-BR": "[RS26]\nEste módulo só pode ser usado no primeiro encanto. Infelizmente, o equipamento já foi encantado. Por favor, use outro módulo.",
         "es-ES": "[RS26]\nEste módulo solo puede usarse en el primer encantamiento. Lamentablemente, el equipo ya fue encantado. Usa otro módulo."
     },
     "ype8Bw": {
-        "ko-KR": "[RS26]\n이 모듈의 능력치는 {0}번 까지 확장 가능합니다. 이미 확장 한계치까지 작업이 된 것 같군요",
         "en-US": "[RS26]\nThe stats of this module can be expanded up to {0} times. It seems that it has already been upgraded to its maximum limit.",
         "pt-BR": "[RS26]\nEsse módulo pode ser encantado até {0} vezes. O limite foi atingido.",
         "es-ES": "[RS26]\nEste módulo puede encantarse hasta {0} veces. Se alcanzó el límite."
     },
     "y5e8Bw": {
-        "ko-KR": "[RS26]\n강화하시려는 장비가 이미 확장 한계치까지 작업이 된 것 같군요",
         "en-US": "[RS26]\nIt seems that the equipment you want to upgrade has already reached its maximum enhancement limit.",
         "pt-BR": "[RS26]\nParece que o equipamento selecionado já foi encantado ao máximo.",
         "es-ES": "[RS26]\nParece que el equipo seleccionado ya fue encantado al máximo."
     },
     "zJe8Bw": {
-        "ko-KR": "[RS26]\n작업중에 장비를 장착해제 하시면 오류가 발생할 수 있습니다. 주의하십시오.",
         "en-US": "[RS26]\nIf you unequip your equipment while the process is in progress, an error may occur. Please be careful.",
         "pt-BR": "[RS26]\nSe você desequipar o equipamento durante a operação, pode ocorrer um erro. Tenha cuidado.",
         "es-ES": "[RS26]\nSi te sacas el equipo durante la operación, puede producirse un error. Ten cuidado."
     },
     "zZe8Bw": {
-        "ko-KR": "일루시온 아머 A타입",
         "en-US": "Illusion Armor A-Type",
         "pt-BR": "Colete Ilusión A",
         "es-ES": "Chaleco Ilusión A"
     },
     "zpe8Bw": {
-        "ko-KR": "일루시온 아머 B타입",
         "en-US": "Illusion Armor B-type",
         "pt-BR": "Colete Ilusión B",
         "es-ES": "Chaleco Ilusión B"
     },
     "z5e8Bw": {
-        "ko-KR": "일루시온 엔진윙 A타입",
         "en-US": "Illusion Engine Wing A-Type",
         "pt-BR": "Motor Ilusión A",
         "es-ES": "Motor Ilusión A"
     },
     "0Je8Bw": {
-        "ko-KR": "일루시온 엔진윙 B타입",
         "en-US": "Illusion Engine Wing B-type",
         "pt-BR": "Motor Ilusión B",
         "es-ES": "Motor Ilusión B"
     },
     "0Ze8Bw": {
-        "ko-KR": "일루시온 레그 A타입",
         "en-US": "Illusion Leg Type A",
         "pt-BR": "Perna Ilusión A",
         "es-ES": "Piernas Ilusión A"
     },
     "0pe8Bw": {
-        "ko-KR": "일루시온 레그 B타입",
         "en-US": "Illusion Leg Type B",
         "pt-BR": "Perna Ilusión B",
         "es-ES": "Piernas Ilusión B"
     },
     "05e8Bw": {
-        "ko-KR": "일루시온 부스터R",
         "en-US": "Illusion BoosterR",
         "pt-BR": "Turbina Ilusión A",
         "es-ES": "Turbina Ilusión A-D"
     },
     "1Je8Bw": {
-        "ko-KR": "일루시온 부스터L",
         "en-US": "Illusion Booster L",
         "pt-BR": "Turbina Ilusión B",
         "es-ES": "Turbina Ilusión B-E"
     },
     "1Ze8Bw": {
-        "ko-KR": "일루시온 배틀칩R",
         "en-US": "Illusion Battle Chip R",
         "pt-BR": "Soquete Ilusión A",
         "es-ES": "Zócalo Ilusión A-D"
     },
     "1pe8Bw": {
-        "ko-KR": "일루시온 배틀칩L",
         "en-US": "Illusion Battle Chip L",
         "pt-BR": "Soquete Ilusión B",
         "es-ES": "Zócalo Ilusión B-E"
     },
     "15e8Bw": {
-        "ko-KR": "[RS26]\n강화하시려는 장착한 제품에 시리얼넘버가 없습니다. 규격 외 상품이므로 강화를 해 드릴 수 없습니다.",
         "en-US": "[RS26]\nThe equipped item you wish to upgrade does not have a serial number. As it is a non-standard product, I cannot perform the upgrade.",
         "pt-BR": "[RS26]\nO produto que você deseja encantar não tem número de série. Não pode ser encantado porque é um produto fora do padrão.",
         "es-ES": "[RS26]\nEl producto que deseas encantar no tiene número de serie. No puede encantarse porque es un producto fuera de estándar."
     },
     "2Je8Bw": {
-        "ko-KR": "[RS26]^0000FF\n{0} + {1} 선택\n^000000------------------\n선택하신 도면은 해당 장비에 최대 ^0000FF{2} 회 까지 동일한 도면으로 업그레이드 가능^000000하며 현재 ^0000FF{3} 회^000000 강화되어 있습니다. 계속 진행 하시겠습니까?",
         "en-US": "[RS26]^0000FF\n{0} + {1} Selection\n^000000------------------\nThe blueprint you have selected can be used to upgrade this equipment up to ^0000FF{2} times with the same blueprint^000000. It is currently enhanced ^0000FF{3} times^000000. Would you like to continue?",
         "pt-BR": "[RS26]^0000FF\n{0} receberá o {1}.\n^000000------------------\nO limite desse Módulo é de ^0000FF{2}^000000. Seu equipamento já foi encantado ^0000FF{3} vezes^000000. Deseja continuar?",
         "es-ES": "[RS26]^0000FF\n{0} recibirá {1}.\n^000000------------------\nEl límite de este Módulo es ^0000FF{2}^000000. Tu equipo ya fue encantado ^0000FF{3} veces^000000. ¿Deseas continuar?"
     },
     "2Ze8Bw": {
-        "ko-KR": "생각 좀 더 해보고...",
         "en-US": "Let me think about it a bit more...",
         "pt-BR": "Espere...",
         "es-ES": "Espera..."
     },
     "2pe8Bw": {
-        "ko-KR": "진행한다",
         "en-US": "Proceed.",
         "pt-BR": "Continuar",
         "es-ES": "Continuar"
     },
     "25e8Bw": {
-        "ko-KR": "[RS26]\n선택하신 장비는 이미 확장 한계치까지 작업이 된 것 같군요",
         "en-US": "[RS26]\nIt seems that the equipment you selected has already been upgraded to its maximum limit.",
         "pt-BR": "[RS26]\nO módulo selecionado já atingiu o limite de encantamento.",
         "es-ES": "[RS26]\nEl módulo seleccionado ya alcanzó el límite de encantamiento."
     },
     "3Je8Bw": {
-        "ko-KR": "[RS26]\n장비의 ^990000{0}번째 ^000000업그레이드를 시도합니다.",
         "en-US": "[RS26]\nAttempting the ^990000{0}th ^000000 upgrade of the equipment.",
         "pt-BR": "[RS26]\nTentando encantar o módulo pela ^990000{0}ª^000000 vez.",
         "es-ES": "[RS26]\nIntentando encantar el módulo por ^990000{0}ª vez^000000."
     },
     "3Ze8Bw": {
-        "ko-KR": "[RS26]\n장비의 ^990000 보너스 효능 ^000000업그레이드를 시도합니다.",
         "en-US": "[RS26]\nAttempting to upgrade the ^990000 of the equipment's ^000000 bonus effect.",
         "pt-BR": "[RS26]\nTentando encantar os efeitos bônus ^990000do módulo^000000.",
         "es-ES": "[RS26]\nIntentando encantar los efectos de bonificación ^990000 del módulo^000000."

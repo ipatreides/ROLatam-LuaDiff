@@ -1935,7 +1935,7 @@ SkillInfoList_string = {
 		SkillName = "Roca Carmesí "
 	},
 	[SKID.WL_HELLINFERNO] = {
-		SkillName = "Infierno Abismal"
+		SkillName = "Llamas de Hela"
 	},
 	[SKID.WL_COMET] = {SkillName = "Cometa"},
 	[SKID.WL_CHAINLIGHTNING] = {
@@ -2969,30 +2969,32 @@ SkillInfoList_string = {
 		SkillName = "Espada Alada"
 	},
 	[SKID.DK_SERVANT_W_SIGN] = {
-		SkillName = "Arma de Servidor: Cartel"
+		SkillName = "Marca Alada"
 	},
 	[SKID.DK_SERVANT_W_PHANTOM] = {
-		SkillName = "Arma de Servidor: Espectro"
+		SkillName = "Impulso Alado"
 	},
 	[SKID.DK_SERVANT_W_DEMOL] = {
-		SkillName = "Arma de Servidor: Demolición"
+		SkillName = "Demolición Alada"
 	},
 	[SKID.DK_CHARGINGPIERCE] = {
-		SkillName = "Carga de Perforación"
+		SkillName = "Acumular Poder"
 	},
 	[SKID.DK_TWOHANDDEF] = {
-		SkillName = "Defensa a Dos Manos"
+		SkillName = "Defensa de Dos Manos"
 	},
 	[SKID.DK_HACKANDSLASHER] = {
 		SkillName = "Corte y Tajo"
 	},
 	[SKID.DK_DRAGONIC_AURA] = {
-		SkillName = "Aura Dragónica"
+		SkillName = "Aura de Dragón"
 	},
 	[SKID.DK_MADNESS_CRUSHER] = {
-		SkillName = "Aplastador de la Locura"
+		SkillName = "Cólera Aplastante"
 	},
-	[SKID.DK_VIGOR] = {SkillName = "Vigor"},
+	[SKID.DK_VIGOR] = {
+		SkillName = "Determinación"
+	},
 	[SKID.DK_STORMSLASH] = {
 		SkillName = "Tajo de Tormenta"
 	},
@@ -3003,7 +3005,7 @@ SkillInfoList_string = {
 		SkillName = "Huracán Destructor"
 	},
 	[SKID.AG_RAIN_OF_CRYSTAL] = {
-		SkillName = "Lluvia de Cristales"
+		SkillName = "Lluvia de Cristal"
 	},
 	[SKID.AG_MYSTERY_ILLUSION] = {
 		SkillName = "Ilusión Misteriosa"
@@ -3012,7 +3014,7 @@ SkillInfoList_string = {
 		SkillName = "Terremoto Violento"
 	},
 	[SKID.AG_SOUL_VC_STRIKE] = {
-		SkillName = "Vulcano de Golpe de Alma"
+		SkillName = "Espíritus Ancestrales"
 	},
 	[SKID.AG_STRANTUM_TREMOR] = {
 		SkillName = "Temblor Geológico"
@@ -3023,11 +3025,9 @@ SkillInfoList_string = {
 	[SKID.AG_CRYSTAL_IMPACT] = {
 		SkillName = "Impacto de Cristal"
 	},
-	[SKID.AG_TORNADO_STORM] = {
-		SkillName = "Tormenta de Tornados"
-	},
+	[SKID.AG_TORNADO_STORM] = {SkillName = "Ciclón"},
 	[SKID.AG_TWOHANDSTAFF] = {
-		SkillName = "Maestría de Cetro de Dos Manos"
+		SkillName = "Maestría de Báculo de Dos Manos"
 	},
 	[SKID.AG_FLORAL_FLARE_ROAD] = {
 		SkillName = "Camino Floral Abrasador"
@@ -3035,8 +3035,12 @@ SkillInfoList_string = {
 	[SKID.AG_ASTRAL_STRIKE] = {
 		SkillName = "Golpe Astral"
 	},
-	[SKID.AG_CLIMAX] = {SkillName = "Clímax"},
-	[SKID.AG_ROCK_DOWN] = {SkillName = "Roca Abajo"},
+	[SKID.AG_CLIMAX] = {
+		SkillName = "Potenciación"
+	},
+	[SKID.AG_ROCK_DOWN] = {
+		SkillName = "Desprendimiento de Rocas"
+	},
 	[SKID.AG_STORM_CANNON] = {
 		SkillName = "Cañón de Tormenta"
 	},
@@ -3047,53 +3051,57 @@ SkillInfoList_string = {
 		SkillName = "Tajo Helado"
 	},
 	[SKID.IQ_POWERFUL_FAITH] = {
-		SkillName = "Fe Poderosa"
+		SkillName = "Mantra de Fuerza"
 	},
-	[SKID.IQ_FIRM_FAITH] = {SkillName = "Fe Firme"},
+	[SKID.IQ_FIRM_FAITH] = {
+		SkillName = "Mantra de Salud"
+	},
 	[SKID.IQ_WILL_OF_FAITH] = {
 		SkillName = "Voluntad de Fe"
 	},
 	[SKID.IQ_OLEUM_SANCTUM] = {
 		SkillName = "Oleum Sanctum"
 	},
-	[SKID.IQ_SINCERE_FAITH] = {SkillName = "Fe Sincera"},
+	[SKID.IQ_SINCERE_FAITH] = {
+		SkillName = "Mantra de Energía"
+	},
 	[SKID.IQ_MASSIVE_F_BLASTER] = {
 		SkillName = "Lanzallamas Masivo"
 	},
 	[SKID.IQ_EXPOSION_BLASTER] = {
 		SkillName = "Destello Explosivo"
 	},
-	[SKID.IQ_FIRST_BRAND] = {
-		SkillName = "Primera Marca"
-	},
+	[SKID.IQ_FIRST_BRAND] = {SkillName = "Estigma"},
 	[SKID.IQ_FIRST_FAITH_POWER] = {
-		SkillName = "Poder de la Primera Fe"
+		SkillName = "Aureola del Poder"
 	},
-	[SKID.IQ_JUDGE] = {SkillName = "Juicio"},
+	[SKID.IQ_JUDGE] = {
+		SkillName = "Aureola del Juez"
+	},
 	[SKID.IQ_SECOND_FLAME] = {
-		SkillName = "Segunda Llama"
+		SkillName = "Palma Ardiente"
 	},
-	[SKID.IQ_SECOND_FAITH] = {SkillName = "Segunda Fe"},
+	[SKID.IQ_SECOND_FAITH] = {
+		SkillName = "Golpe Pantocrátor"
+	},
 	[SKID.IQ_SECOND_JUDGEMENT] = {
-		SkillName = "Segundo Juicio"
+		SkillName = "Toque Intercesor"
 	},
 	[SKID.IQ_THIRD_PUNISH] = {
-		SkillName = "Tercer Castigo"
+		SkillName = "Puño Guillotina"
 	},
 	[SKID.IQ_THIRD_FLAME_BOMB] = {
-		SkillName = "Tercera Bomba de Fuego"
+		SkillName = "Llama Espiritual"
 	},
-	[SKID.IQ_THIRD_CONSECRATION] = {
-		SkillName = "Tercera Consagración"
-	},
+	[SKID.IQ_THIRD_CONSECRATION] = {SkillName = "Veredicto"},
 	[SKID.IQ_THIRD_EXOR_FLAME] = {
-		SkillName = "Tercera Llama del Exorcismo"
+		SkillName = "Aureola de Llamas"
 	},
 	[SKID.IG_GUARD_STANCE] = {
-		SkillName = "Postura de Guardia"
+		SkillName = "Postura de Defensa"
 	},
 	[SKID.IG_GUARDIAN_SHIELD] = {
-		SkillName = "Escudo de Guardián"
+		SkillName = "Escudo Guardián"
 	},
 	[SKID.IG_REBOUND_SHIELD] = {
 		SkillName = "Escudo de Rebote"
@@ -3102,14 +3110,12 @@ SkillInfoList_string = {
 		SkillName = "Maestría de Escudo"
 	},
 	[SKID.IG_SPEAR_SWORD_M] = {
-		SkillName = "Maestría de Espada y de Lanza"
+		SkillName = "Maestría de Guardia"
 	},
 	[SKID.IG_ATTACK_STANCE] = {
 		SkillName = "Posición de Ataque"
 	},
-	[SKID.IG_ULTIMATE_SACRIFICE] = {
-		SkillName = "Sacrificio Definitivo"
-	},
+	[SKID.IG_ULTIMATE_SACRIFICE] = {SkillName = "Ultimátum"},
 	[SKID.IG_HOLY_SHIELD] = {
 		SkillName = "Escudo Sagrado"
 	},
@@ -3117,21 +3123,23 @@ SkillInfoList_string = {
 		SkillName = "Gran Juicio"
 	},
 	[SKID.IG_JUDGEMENT_CROSS] = {
-		SkillName = "Cruz del Juicio"
+		SkillName = "Crux Judicium"
 	},
 	[SKID.IG_SHIELD_SHOOTING] = {
-		SkillName = "Tiro de Escudo"
+		SkillName = "Lanzamiento de Escudo"
 	},
-	[SKID.IG_OVERSLASH] = {SkillName = "Sablazo"},
+	[SKID.IG_OVERSLASH] = {
+		SkillName = "Golpe del Destino"
+	},
 	[SKID.IG_CROSS_RAIN] = {
-		SkillName = "Lluvia Cruzada"
+		SkillName = "Crux Tempestas"
 	},
 	[SKID.CD_REPARATIO] = {SkillName = "Reparatio"},
 	[SKID.CD_MEDIALE_VOTUM] = {
 		SkillName = "Mediale Votum"
 	},
 	[SKID.CD_MACE_BOOK_M] = {
-		SkillName = "Maestría de Libro y Maza"
+		SkillName = "Maestría Litúrgica"
 	},
 	[SKID.CD_ARGUTUS_VITA] = {
 		SkillName = "Argutus Vita"
@@ -3161,7 +3169,7 @@ SkillInfoList_string = {
 	[SKID.CD_PETITIO] = {SkillName = "Petitio"},
 	[SKID.CD_FRAMEN] = {SkillName = "Flamen"},
 	[SKID.SHC_SHADOW_EXCEED] = {
-		SkillName = "Superación Sombría"
+		SkillName = "Verdugo Sombrío"
 	},
 	[SKID.SHC_DANCING_KNIFE] = {
 		SkillName = "Cuchillo Danzante"
@@ -3182,29 +3190,31 @@ SkillInfoList_string = {
 		SkillName = "Puñalada Sombría"
 	},
 	[SKID.SHC_IMPACT_CRATER] = {
-		SkillName = "Cráter de Impacto"
+		SkillName = "Impacto Cráter"
 	},
 	[SKID.SHC_ENCHANTING_SHADOW] = {
-		SkillName = "Sombra Encantadora"
+		SkillName = "Profanar Arma"
 	},
 	[SKID.SHC_FATAL_SHADOW_CROW] = {
 		SkillName = "Garra Sombría Fatal"
 	},
-	[SKID.MT_AXE_STOMP] = {SkillName = "Hachazo"},
+	[SKID.MT_AXE_STOMP] = {
+		SkillName = "Hachazo Aplastante"
+	},
 	[SKID.MT_RUSH_QUAKE] = {
-		SkillName = "Ráfaga de Terremoto"
+		SkillName = "Avance Sísmico"
 	},
 	[SKID.MT_M_MACHINE] = {
-		SkillName = "Máquina de Fabricación"
+		SkillName = "Crear Máquina"
 	},
 	[SKID.MT_A_MACHINE] = {
-		SkillName = "Activar Dispositivo de Ataque"
+		SkillName = "Activar Máquina de Ataque"
 	},
 	[SKID.MT_D_MACHINE] = {
-		SkillName = "Activar Dispositivo de Defensa"
+		SkillName = "Activar Máquina de Defensa"
 	},
 	[SKID.MT_TWOAXEDEF] = {
-		SkillName = "Defensa con Hacha de dos Manos"
+		SkillName = "Defensa con Hacha"
 	},
 	[SKID.MT_ABR_M] = {
 		SkillName = "Maestría de ABR"
@@ -3222,37 +3232,37 @@ SkillInfoList_string = {
 		SkillName = "ABR: Infinito"
 	},
 	[SKID.ABC_DAGGER_AND_BOW_M] = {
-		SkillName = "Maestría de Arco y de Daga"
+		SkillName = "Versatilidad"
 	},
 	[SKID.ABC_MAGIC_SWORD_M] = {
 		SkillName = "Maestría de Espada Mágica"
 	},
 	[SKID.ABC_STRIP_SHADOW] = {
-		SkillName = "Descartar Sombra"
+		SkillName = "Descarte Sombrío"
 	},
 	[SKID.ABC_ABYSS_DAGGER] = {
-		SkillName = "Daga del Abismo"
+		SkillName = "Ofensiva Abisal"
 	},
 	[SKID.ABC_UNLUCKY_RUSH] = {
-		SkillName = "Fiebre del Infortunio"
+		SkillName = "Salto del Infortunio"
 	},
 	[SKID.ABC_CHAIN_REACTION_SHOT] = {
 		SkillName = "Disparo en Cadena"
 	},
 	[SKID.ABC_FROM_THE_ABYSS] = {
-		SkillName = "Desde el Abismo"
+		SkillName = "Llamado del Abismo"
 	},
 	[SKID.ABC_ABYSS_SLAYER] = {
 		SkillName = "Exterminador del Abismo"
 	},
 	[SKID.ABC_ABYSS_STRIKE] = {
-		SkillName = "Impacto Omega del Abismo"
+		SkillName = "Meteoro Omega"
 	},
 	[SKID.ABC_DEFT_STAB] = {
 		SkillName = "Puñalada Hábil"
 	},
 	[SKID.ABC_ABYSS_SQUARE] = {
-		SkillName = "Abismo Cuadrático"
+		SkillName = "Grieta del Abismo"
 	},
 	[SKID.ABC_FRENZY_SHOT] = {
 		SkillName = "Tiro Frenético"
@@ -3267,22 +3277,20 @@ SkillInfoList_string = {
 		SkillName = "Amigo de la Naturaleza"
 	},
 	[SKID.WH_HAWKRUSH] = {
-		SkillName = "Fiebre del Halcón"
+		SkillName = "Ofensiva Aérea"
 	},
 	[SKID.WH_HAWK_M] = {
-		SkillName = "Maestría de Halcón"
+		SkillName = "Invocar Ave"
 	},
 	[SKID.WH_CALAMITYGALE] = {
 		SkillName = "Vendaval Catastrófico"
 	},
-	[SKID.WH_HAWKBOOMERANG] = {
-		SkillName = "Bumerán de Halcón"
-	},
+	[SKID.WH_HAWKBOOMERANG] = {SkillName = "Aterrizaje"},
 	[SKID.WH_GALESTORM] = {
-		SkillName = "Tormenta Huracanada"
+		SkillName = "Vendaval de Flechas"
 	},
 	[SKID.WH_DEEPBLINDTRAP] = {
-		SkillName = "Trampa de Ceguera Profunda"
+		SkillName = "Trampa Sombría"
 	},
 	[SKID.WH_SOLIDTRAP] = {
 		SkillName = "Trampa Sólida"
@@ -3297,16 +3305,14 @@ SkillInfoList_string = {
 		SkillName = "Trampa de Llamas"
 	},
 	[SKID.BO_BIONIC_PHARMACY] = {
-		SkillName = "Farmacia Biónica"
+		SkillName = "Manipular Poción"
 	},
-	[SKID.BO_BIONICS_M] = {
-		SkillName = "Maestría Biónica"
-	},
+	[SKID.BO_BIONICS_M] = {SkillName = "Botánica"},
 	[SKID.BO_THE_WHOLE_PROTECTION] = {
-		SkillName = "Protección Grupal"
+		SkillName = "Protección Química Colectiva"
 	},
 	[SKID.BO_ADVANCE_PROTECTION] = {
-		SkillName = "Protección Total en la Sombra"
+		SkillName = "Protección Sombría Total"
 	},
 	[SKID.BO_ACIDIFIED_ZONE_WATER] = {
 		SkillName = "Zona Acidificada (Agua)"
@@ -3329,14 +3335,12 @@ SkillInfoList_string = {
 	[SKID.BO_CREEPER] = {
 		SkillName = "Crear Enredadera"
 	},
-	[SKID.BO_RESEARCHREPORT] = {
-		SkillName = "Informe de Investigación"
-	},
+	[SKID.BO_RESEARCHREPORT] = {SkillName = "Eureka"},
 	[SKID.BO_HELLTREE] = {
 		SkillName = "Crear Árbol del Infierno"
 	},
 	[SKID.TR_STAGE_MANNER] = {
-		SkillName = "Etiqueta de Etapa"
+		SkillName = "Presencia Escénica"
 	},
 	[SKID.TR_RETROSPECTION] = {
 		SkillName = "Retrospectiva"
@@ -3348,13 +3352,13 @@ SkillInfoList_string = {
 		SkillName = "Sonata de Kvasir"
 	},
 	[SKID.TR_ROSEBLOSSOM] = {
-		SkillName = "Flor de Rosa"
+		SkillName = "Lluvia de Rosas"
 	},
 	[SKID.TR_ROSEBLOSSOM_ATK] = {
 		SkillName = "Flor de Rosa"
 	},
 	[SKID.TR_RHYTHMSHOOTING] = {
-		SkillName = "Tiro Rítmico"
+		SkillName = "Disparo Rítmico"
 	},
 	[SKID.TR_METALIC_FURY] = {
 		SkillName = "Furia Metálica"
@@ -3363,7 +3367,7 @@ SkillInfoList_string = {
 		SkillName = "Mezcla de Sonidos"
 	},
 	[SKID.TR_GEF_NOCTURN] = {
-		SkillName = "Anochecer en Geffenia"
+		SkillName = "Recital de Geffenia"
 	},
 	[SKID.TR_ROKI_CAPRICCIO] = {
 		SkillName = "Capricho de Loki"
@@ -3378,22 +3382,22 @@ SkillInfoList_string = {
 		SkillName = "Serenata de Jawaii"
 	},
 	[SKID.TR_NIPELHEIM_REQUIEM] = {
-		SkillName = "Réquiem de Niflheim"
+		SkillName = "Réquiem de Nifflheim"
 	},
 	[SKID.TR_PRON_MARCH] = {
 		SkillName = "Marcha de Prontera"
 	},
 	[SKID.EM_MAGIC_BOOK_M] = {
-		SkillName = "Maestría del Libro de Magia"
+		SkillName = "Maestría del Libro Mágico"
 	},
 	[SKID.EM_SPELL_ENCHANTING] = {
 		SkillName = "Encantamiento de Hechizos"
 	},
 	[SKID.EM_ACTIVITY_BURN] = {
-		SkillName = "Quemadura de PA"
+		SkillName = "Quema de AP"
 	},
 	[SKID.EM_INCREASING_ACTIVITY] = {
-		SkillName = "Aumentar PA"
+		SkillName = "Canalizar EnergÍa"
 	},
 	[SKID.EM_DIAMOND_STORM] = {
 		SkillName = "Tormenta de Diamantes"
@@ -3411,7 +3415,7 @@ SkillInfoList_string = {
 		SkillName = "Impulso de Tierra"
 	},
 	[SKID.EM_ELEMENTAL_SPIRIT_M] = {
-		SkillName = "Maestría de Espíritus Elementales"
+		SkillName = "Maestría Elemental"
 	},
 	[SKID.EM_SUMMON_ELEMENTAL_ARDOR] = {
 		SkillName = "Invocar Elemental: Ardor"
@@ -3429,7 +3433,7 @@ SkillInfoList_string = {
 		SkillName = "Invocar Elemental: Serpens"
 	},
 	[SKID.EM_ELEMENTAL_BUSTER] = {
-		SkillName = "Buster Elemental"
+		SkillName = "Círculo Elemental"
 	},
 	[SKID.EM_ELEMENTAL_VEIL] = {
 		SkillName = "Velo Elemental"

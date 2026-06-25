@@ -2025,6 +2025,8 @@
         "es-ES": "Megalith Ancestral"
     },
     "9c5JBg": {
-        "en-US": "- You are carrying too many items to proceed with this quest. -"
+        "en-US": "- You are carrying too many items to proceed with this quest. -",
+        "pt-BR": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es-ES": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

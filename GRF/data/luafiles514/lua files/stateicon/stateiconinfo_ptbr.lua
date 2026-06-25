@@ -9002,5 +9002,17 @@ StateIconList_string = {
 				"Efetividade de cura +30%."
 			}
 		}
+	},
+	[EFST_IDs.EFST_BLOCK] = {
+		descript = {
+			{"Blocked"},
+			{"%s"},
+			{
+				"Sem EXP de monstros"
+			},
+			{
+				"Nenhum item é obtido de monstros"
+			}
+		}
 	}
 }

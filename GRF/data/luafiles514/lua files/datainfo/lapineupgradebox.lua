@@ -32,7 +32,7 @@ tblLapineUpgradeBox = {
 					15346
 				}
 			},
-			NeedSource_String = "Armadura do Her�i"
+			NeedSource_String = "Armadura do Herói"
 		},
 		Teddy_Bear_Box_IL = {
 			ItemID = 100419,
@@ -59,7 +59,7 @@ tblLapineUpgradeBox = {
 				},
 				{"Boots_IL", 22190}
 			},
-			NeedSource_String = "Ilus�o do Ursinho"
+			NeedSource_String = "Ilusão do Ursinho"
 		},
 		S_Teddy_Bear_Box_IL = {
 			ItemID = 100420,
@@ -86,7 +86,7 @@ tblLapineUpgradeBox = {
 				},
 				{"Boots_IL", 22190}
 			},
-			NeedSource_String = "Ilus�o do Ursinho"
+			NeedSource_String = "Ilusão do Ursinho"
 		},
 		Frozen_Box_IL = {
 			ItemID = 9785,
@@ -113,7 +113,7 @@ tblLapineUpgradeBox = {
 					28922
 				}
 			},
-			NeedSource_String = "Ilus�o do Gelo"
+			NeedSource_String = "Ilusão do Gelo"
 		},
 		S_Frozen_Box_IL = {
 			ItemID = 100416,
@@ -140,7 +140,7 @@ tblLapineUpgradeBox = {
 					28922
 				}
 			},
-			NeedSource_String = "Ilus�o do Gelo"
+			NeedSource_String = "Ilusão do Gelo"
 		},
 		Moonlight_Box_IL = {
 			ItemID = 100391,
@@ -180,7 +180,7 @@ tblLapineUpgradeBox = {
 					19210
 				}
 			},
-			NeedSource_String = "Ilus�o da Lua"
+			NeedSource_String = "Ilusão da Lua"
 		},
 		S_Moonlight_Box_IL = {
 			ItemID = 100392,
@@ -220,7 +220,7 @@ tblLapineUpgradeBox = {
 					19210
 				}
 			},
-			NeedSource_String = "Ilus�o da Lua"
+			NeedSource_String = "Ilusão da Lua"
 		},
 		Vampire_Box_IL = {
 			ItemID = 100414,
@@ -254,7 +254,7 @@ tblLapineUpgradeBox = {
 					20840
 				}
 			},
-			NeedSource_String = "Ilus�o do Vampiro"
+			NeedSource_String = "Ilusão do Vampiro"
 		},
 		S_Vampire_Box_IL = {
 			ItemID = 100415,
@@ -288,7 +288,7 @@ tblLapineUpgradeBox = {
 					20840
 				}
 			},
-			NeedSource_String = "Ilus�o do Vampiro"
+			NeedSource_String = "Ilusão do Vampiro"
 		},
 		Time_Unseal_Key = {
 			ItemID = 9551,
@@ -336,7 +336,7 @@ tblLapineUpgradeBox = {
 					28945
 				}
 			},
-			NeedSource_String = "Sanguin�rio Maldito"
+			NeedSource_String = "Sanguinário Maldito"
 		},
 		Gold_Statue = {
 			ItemID = 23547,
@@ -350,7 +350,7 @@ tblLapineUpgradeBox = {
 					28946
 				}
 			},
-			NeedSource_String = "Sanguin�rio Purificado"
+			NeedSource_String = "Sanguinário Purificado"
 		},
 		Ancient_Hero_Bravery = {
 			ItemID = 100023,
@@ -802,7 +802,7 @@ tblLapineUpgradeBox = {
 					2964
 				}
 			},
-			NeedSource_String = "An�is de Geffen"
+			NeedSource_String = "Anéis de Geffen"
 		},
 		Geffen_Magic_Scroll = {
 			ItemID = 23675,
@@ -920,7 +920,7 @@ tblLapineUpgradeBox = {
 					490101
 				}
 			},
-			NeedSource_String = "Pingente da For�a"
+			NeedSource_String = "Pingente da Força"
 		},
 		EXP_Overclocker = {
 			ItemID = 100710,
@@ -934,7 +934,7 @@ tblLapineUpgradeBox = {
 					410013
 				}
 			},
-			NeedSource_String = "Comunicador Avan�ado"
+			NeedSource_String = "Comunicador Avançado"
 		},
 		Overclocker = {
 			ItemID = 100481,
@@ -976,7 +976,7 @@ tblLapineUpgradeBox = {
 					410080
 				}
 			},
-			NeedSource_String = "�culos Neon"
+			NeedSource_String = "Óculos Neon"
 		},
 		Great_Hero_Bravery = {
 			ItemID = 100412,
@@ -1467,6 +1467,150 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "Itens do Torneio"
+		},
+		Refine_Hero_Weapon = {
+			ItemID = 100271,
+			NeedRefineMin = 0,
+			NeedRefineMax = 8,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Royal_Bow_K",
+					18164
+				},
+				{"Narcis_Bow", 18170},
+				{
+					"Shadow_Staff_K",
+					26118
+				},
+				{
+					"Iron_Nail_K",
+					1847
+				},
+				{
+					"Magic_Sword",
+					28744
+				},
+				{
+					"Sword_Of_Bluefire",
+					13485
+				},
+				{"Avenger", 28130},
+				{"Iron_Staff", 2048},
+				{
+					"Oriental_Sword",
+					21038
+				},
+				{
+					"Undine_Spear_K",
+					32018
+				},
+				{
+					"Demon_Hunting_Bible_K",
+					28630
+				},
+				{
+					"Shiver_Katar_K",
+					28039
+				},
+				{
+					"OneSkyOneSun",
+					28631
+				},
+				{"SoulWeight", 26154},
+				{
+					"MeawFoxtail",
+					26155
+				},
+				{
+					"Crimson_Rose",
+					32302
+				},
+				{
+					"Master_Soul_Rifle",
+					28255
+				},
+				{
+					"Demon_S_Shot",
+					28256
+				},
+				{
+					"Golden_L_Launcher",
+					28257
+				},
+				{
+					"The_Black_Gatling",
+					28258
+				},
+				{
+					"Sharp_Wind_Sword",
+					28763
+				},
+				{
+					"Fog_Dew_Sword",
+					28764
+				},
+				{
+					"Humma_Clear",
+					13345
+				},
+				{
+					"Dragonic_Slayer",
+					600004
+				},
+				{
+					"Light_Blade",
+					500003
+				},
+				{
+					"Slate_Sword",
+					500004
+				},
+				{
+					"Trumpet_Shell_K",
+					570002
+				},
+				{
+					"Barb_Wire_K",
+					580002
+				},
+				{
+					"Meteor_Striker",
+					590002
+				},
+				{
+					"Blade_Katar",
+					610003
+				},
+				{
+					"Scalet_Dragon_L_Bow",
+					700003
+				},
+				{"Fatalist", 510006},
+				{
+					"Ray_Knuckle",
+					560002
+				},
+				{"Saint_Hall", 590003},
+				{
+					"Blue_Crystal_Staff",
+					640004
+				},
+				{
+					"Freezing_Rod",
+					550007
+				},
+				{
+					"Freedom_Stick",
+					550080
+				},
+				{
+					"Blessed_Knife",
+					510070
+				}
+			},
+			NeedSource_String = "Arma Ancestral"
 		},
 		Refine_Hero_Boots = {
 			ItemID = 100272,
@@ -11470,7 +11614,7 @@ tblLapineUpgradeBox = {
 					480019
 				}
 			},
-			NeedSource_String = "Equipamento Gr�cil"
+			NeedSource_String = "Equipamento Grácil"
 		},
 		Imperial_Convert1 = {
 			ItemID = 100131,
@@ -11487,7 +11631,7 @@ tblLapineUpgradeBox = {
 					480017
 				}
 			},
-			NeedSource_String = "Ilustre Capa e Bota F�sica"
+			NeedSource_String = "Ilustre Capa e Bota Física"
 		},
 		Imperial_Convert2 = {
 			ItemID = 100132,
@@ -11504,7 +11648,7 @@ tblLapineUpgradeBox = {
 					480017
 				}
 			},
-			NeedSource_String = "Ilustre Capa e Bota M�gica"
+			NeedSource_String = "Ilustre Capa e Bota Mágica"
 		},
 		Imperial_Convert3 = {
 			ItemID = 100135,
@@ -11827,7 +11971,7 @@ tblLapineUpgradeBox = {
 					480019
 				}
 			},
-			NeedSource_String = "Gr�cil Capa F�sica e M�gica"
+			NeedSource_String = "Grácil Capa Física e Mágica"
 		},
 		Grace_Convert2 = {
 			ItemID = 100134,
@@ -11844,7 +11988,7 @@ tblLapineUpgradeBox = {
 					480019
 				}
 			},
-			NeedSource_String = "Gr�cil Capa M�gica e F�sica"
+			NeedSource_String = "Grácil Capa Mágica e Física"
 		},
 		Grace_Convert3 = {
 			ItemID = 100137,
@@ -12150,7 +12294,7 @@ tblLapineUpgradeBox = {
 					450126
 				}
 			},
-			NeedSource_String = "Gr�cil Capa F�sica e M�gica"
+			NeedSource_String = "Grácil Capa Física e Mágica"
 		},
 		Class_Sha_R_M_Melee = {
 			ItemID = 100205,
@@ -12931,7 +13075,7 @@ tblLapineUpgradeBox = {
 					470070
 				}
 			},
-			NeedSource_String = "Festival do Macarr�o"
+			NeedSource_String = "Festival do Macarrão"
 		},
 		Egir_Magic_Box = {
 			ItemID = 100467,
@@ -12972,7 +13116,7 @@ tblLapineUpgradeBox = {
 					470070
 				}
 			},
-			NeedSource_String = "Festival do Macarr�o"
+			NeedSource_String = "Festival do Macarrão"
 		},
 		UPG_TH_7_Ticket = {
 			ItemID = 104133,
@@ -14118,7 +14262,7 @@ tblLapineUpgradeBox = {
 					21011
 				}
 			},
-			NeedSource_String = "F�sico"
+			NeedSource_String = "Físico"
 		},
 		Charleston_Parts_R = {
 			ItemID = 23707,
@@ -14187,7 +14331,7 @@ tblLapineUpgradeBox = {
 					22192
 				}
 			},
-			NeedSource_String = "Equipamento da Ilus�o de Luanda"
+			NeedSource_String = "Equipamento da Ilusão de Luanda"
 		},
 		S_Luanda_Box_IL = {
 			ItemID = 100422,
@@ -14218,7 +14362,7 @@ tblLapineUpgradeBox = {
 					22192
 				}
 			},
-			NeedSource_String = "Equipamento da Ilus�o de Luanda"
+			NeedSource_String = "Equipamento da Ilusão de Luanda"
 		},
 		Old_9Refine_Cube = {
 			ItemID = 105926,
@@ -14312,7 +14456,7 @@ tblLapineUpgradeBox = {
 					20948
 				}
 			},
-			NeedSource_String = "Equipamento da Ilus�o do Labirinto"
+			NeedSource_String = "Equipamento da Ilusão do Labirinto"
 		},
 		S_Teddy_Labyrinth_IL = {
 			ItemID = 100424,
@@ -14343,7 +14487,7 @@ tblLapineUpgradeBox = {
 					20948
 				}
 			},
-			NeedSource_String = "Equipamento da Ilus�o do Labirinto"
+			NeedSource_String = "Equipamento da Ilusão do Labirinto"
 		},
 		Twins_Box_IL = {
 			ItemID = 100699,
@@ -14394,7 +14538,7 @@ tblLapineUpgradeBox = {
 					450182
 				}
 			},
-			NeedSource_String = "Equipamento da Ilus�o dos G�meos"
+			NeedSource_String = "Equipamento da Ilusão dos Gêmeos"
 		},
 		S_Twins_Box_IL = {
 			ItemID = 100700,
@@ -14441,7 +14585,7 @@ tblLapineUpgradeBox = {
 					450182
 				}
 			},
-			NeedSource_String = "Equipamento da Ilus�o dos G�meos"
+			NeedSource_String = "Equipamento da Ilusão dos Gêmeos"
 		},
 		EP17_1_SPC05 = {
 			ItemID = 23776,
@@ -14824,7 +14968,7 @@ tblLapineUpgradeBox = {
 		God_Favor_TW = {
 			ItemID = 101484,
 			NeedRefineMin = 0,
-			NeedRefineMax = 20,
+			NeedRefineMax = 0,
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = true,
 			TargetItems = {
@@ -14906,7 +15050,7 @@ tblLapineUpgradeBox = {
 					480054
 				}
 			},
-			NeedSource_String = "Ilus�o do Equipamento Subaqu�tico"
+			NeedSource_String = "Ilusão do Equipamento Subaquático"
 		},
 		S_Underwater_Box_IL = {
 			ItemID = 100426,
@@ -14957,7 +15101,7 @@ tblLapineUpgradeBox = {
 					480054
 				}
 			},
-			NeedSource_String = "Ilus�o do Equipamento Subaqu�tico"
+			NeedSource_String = "Ilusão do Equipamento Subaquático"
 		},
 		Dead_Soul_Record_TW = {
 			ItemID = 101304,
@@ -14979,7 +15123,7 @@ tblLapineUpgradeBox = {
 					480024
 				}
 			},
-			NeedSource_String = "Fallen Warrior�s Cloak, Tormented Soul�s Cloak"
+			NeedSource_String = "Fallen Warrior’s Cloak, Tormented Soul’s Cloak"
 		},
 		P_Sungl_Dduck_Box = {
 			ItemID = 101670,
@@ -15722,7 +15866,7 @@ tblLapineUpgradeBox = {
 					470055
 				}
 			},
-			NeedSource_String = "Armadura Ilusi�n (Vinculada)"
+			NeedSource_String = "Armadura Ilusión (Vinculada)"
 		},
 		Boost_Up_1 = {
 			ItemID = 100043,
@@ -15822,7 +15966,7 @@ tblLapineUpgradeBox = {
 					550006
 				}
 			},
-			NeedSource_String = "Sistema de Modifica��o F�sica"
+			NeedSource_String = "Sistema de Modificação Física"
 		},
 		Ein_Ddbox2 = {
 			ItemID = 9529,
@@ -15882,7 +16026,7 @@ tblLapineUpgradeBox = {
 					550006
 				}
 			},
-			NeedSource_String = "Sistema de Modifica��o M�gica"
+			NeedSource_String = "Sistema de Modificação Mágica"
 		},
 		Abyss_Ddbox = {
 			ItemID = 23981,
@@ -15915,7 +16059,7 @@ tblLapineUpgradeBox = {
 					15396
 				}
 			},
-			NeedSource_String = "Energia Drac�nica Turbulenta"
+			NeedSource_String = "Energia Dracônica Turbulenta"
 		},
 		Abyss_Ddbox2 = {
 			ItemID = 100142,
@@ -15948,7 +16092,7 @@ tblLapineUpgradeBox = {
 					15396
 				}
 			},
-			NeedSource_String = "Energia Drac�nica Poderosa"
+			NeedSource_String = "Energia Dracônica Poderosa"
 		},
 		Abyss_Ddbox3 = {
 			ItemID = 100144,
@@ -15961,7 +16105,7 @@ tblLapineUpgradeBox = {
 					20946
 				}
 			},
-			NeedSource_String = "Energia Drac�nica Flamejante"
+			NeedSource_String = "Energia Dracônica Flamejante"
 		},
 		Abyss_Ddbox4 = {
 			ItemID = 100145,
@@ -15974,7 +16118,7 @@ tblLapineUpgradeBox = {
 					22208
 				}
 			},
-			NeedSource_String = "Energia Drac�nica Ardente"
+			NeedSource_String = "Energia Dracônica Ardente"
 		},
 		Auto_Imp_Melee_1 = {
 			ItemID = 100164,
@@ -16088,7 +16232,7 @@ tblLapineUpgradeBox = {
 					840000
 				}
 			},
-			NeedSource_String = "Arma para Aprimoramento Intermedi�rio (F�sico)"
+			NeedSource_String = "Arma para Aprimoramento Intermediário (Físico)"
 		},
 		Auto_Imp_Melee_2 = {
 			ItemID = 100165,
@@ -16202,7 +16346,7 @@ tblLapineUpgradeBox = {
 					840000
 				}
 			},
-			NeedSource_String = "Arma para Aprimoramento Avan�ado (F�sico)"
+			NeedSource_String = "Arma para Aprimoramento Avançado (Físico)"
 		},
 		Auto_Imp_Melee_3 = {
 			ItemID = 100166,
@@ -16316,7 +16460,7 @@ tblLapineUpgradeBox = {
 					840000
 				}
 			},
-			NeedSource_String = "Arma para Aprimoramento M�ximo (F�sico)"
+			NeedSource_String = "Arma para Aprimoramento Máximo (Físico)"
 		},
 		Auto_Imp_Magic_1 = {
 			ItemID = 100167,
@@ -16430,7 +16574,7 @@ tblLapineUpgradeBox = {
 					840000
 				}
 			},
-			NeedSource_String = "Arma para Aprimoramento Intermedi�rio (M�gico)"
+			NeedSource_String = "Arma para Aprimoramento Intermediário (Mágico)"
 		},
 		Auto_Imp_Magic_2 = {
 			ItemID = 100168,
@@ -16544,7 +16688,7 @@ tblLapineUpgradeBox = {
 					840000
 				}
 			},
-			NeedSource_String = "Arma para Aprimoramento Avan�ado (M�gico)"
+			NeedSource_String = "Arma para Aprimoramento Avançado (Mágico)"
 		},
 		Auto_Imp_Magic_3 = {
 			ItemID = 100169,
@@ -16658,7 +16802,7 @@ tblLapineUpgradeBox = {
 					840000
 				}
 			},
-			NeedSource_String = "Arma para Aprimoramento M�ximo (M�gico)"
+			NeedSource_String = "Arma para Aprimoramento Máximo (Mágico)"
 		},
 		Illu_Enhance_Cube = {
 			ItemID = 100251,
@@ -16692,7 +16836,7 @@ tblLapineUpgradeBox = {
 					22197
 				}
 			},
-			NeedSource_String = "Armadura Ilusi�n (Refino +4 ou superior)"
+			NeedSource_String = "Armadura Ilusión (Refino +4 ou superior)"
 		},
 		Auto_Enhance_Cube = {
 			ItemID = 100252,
@@ -16720,7 +16864,7 @@ tblLapineUpgradeBox = {
 				{"Auto_Leg_A", 470022},
 				{"Auto_Leg_B", 470023}
 			},
-			NeedSource_String = "Armadura Autom�tico (Refino +4 ou superior)"
+			NeedSource_String = "Armadura Automático (Refino +4 ou superior)"
 		},
 		OS_Weapon_Refine_Cube = {
 			ItemID = 100321,
@@ -16779,7 +16923,7 @@ tblLapineUpgradeBox = {
 					32019
 				}
 			},
-			NeedSource_String = "Armas da S�rie OS"
+			NeedSource_String = "Armas da Série OS"
 		},
 		Racecap_Refine_Cube = {
 			ItemID = 100322,
@@ -19146,6 +19290,770 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "Selo de Paus"
+		},
+		GrayWolf_7_Ticket = {
+			ItemID = 100626,
+			NeedRefineMin = 0,
+			NeedRefineMax = 6,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Gray_W_Suits",
+					450177
+				},
+				{
+					"Gray_W_Robe",
+					450178
+				},
+				{
+					"Gray_W_Manteau",
+					480091
+				},
+				{
+					"Gray_W_Muffler",
+					480090
+				},
+				{
+					"Gray_W_Boots",
+					470087
+				},
+				{
+					"Gray_W_Shoes",
+					470088
+				}
+			},
+			NeedSource_String = "Armadura Graywolf"
+		},
+		GrayWolf_9_Ticket = {
+			ItemID = 100627,
+			NeedRefineMin = 0,
+			NeedRefineMax = 8,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Gray_W_Suits",
+					450177
+				},
+				{
+					"Gray_W_Robe",
+					450178
+				},
+				{
+					"Gray_W_Manteau",
+					480091
+				},
+				{
+					"Gray_W_Muffler",
+					480090
+				},
+				{
+					"Gray_W_Boots",
+					470087
+				},
+				{
+					"Gray_W_Shoes",
+					470088
+				}
+			},
+			NeedSource_String = "Armadura Graywolf"
+		},
+		Pontifex_Courage = {
+			ItemID = 100650,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Adulter_F_T_Sword",
+					600017
+				},
+				{
+					"Adulter_F_Cakram",
+					610020
+				},
+				{
+					"Adulter_F_Katar",
+					610021
+				},
+				{
+					"Adulter_F_Lance",
+					630012
+				},
+				{
+					"Adulter_F_T_Staff",
+					640019
+				},
+				{
+					"Adulter_F_Rod",
+					640020
+				},
+				{
+					"Adulter_F_Humma",
+					650008
+				},
+				{
+					"Adulter_F_C_Humma",
+					650009
+				},
+				{
+					"Adulter_F_C_Bow",
+					700030
+				},
+				{
+					"Adulter_F_Ballista",
+					700031
+				},
+				{
+					"Adulter_F_A_Bow",
+					700032
+				},
+				{
+					"Adulter_F_Revolver",
+					800003
+				},
+				{
+					"Adulter_F_Rifle",
+					810002
+				},
+				{
+					"Adulter_F_Shotgun",
+					820002
+				},
+				{
+					"Adulter_F_Gatling",
+					830003
+				},
+				{
+					"Adulter_F_Launcher",
+					840002
+				},
+				{
+					"Adulter_F_G_Sword",
+					500025
+				},
+				{
+					"Adulter_F_Lapier",
+					500026
+				},
+				{
+					"Adulter_F_Dagger",
+					510032
+				},
+				{
+					"Adulter_F_Axe",
+					520008
+				},
+				{
+					"Adulter_F_G_Spear",
+					530013
+				},
+				{
+					"Adulter_F_M_Book",
+					540019
+				},
+				{
+					"Adulter_F_P_Book",
+					540020
+				},
+				{
+					"Adulter_F_Bible",
+					540021
+				},
+				{
+					"Adulter_F_Moon_B",
+					540022
+				},
+				{
+					"Adulter_F_Star_B",
+					540023
+				},
+				{
+					"Adulter_F_Wand",
+					550024
+				},
+				{
+					"Adulter_F_S_Stick",
+					550025
+				},
+				{
+					"Adulter_F_D_Wand",
+					550026
+				},
+				{
+					"Adulter_F_F_Wand",
+					550027
+				},
+				{
+					"Adulter_F_F_model",
+					550028
+				},
+				{
+					"Adulter_F_Knuckle",
+					560018
+				},
+				{
+					"Adulter_F_Claw",
+					560019
+				},
+				{
+					"Adulter_F_Violin",
+					570017
+				},
+				{
+					"Adulter_F_Harp",
+					570018
+				},
+				{
+					"Adulter_F_C_Rope",
+					580017
+				},
+				{
+					"Adulter_F_Ribbon",
+					580018
+				},
+				{
+					"Adulter_F_Mace",
+					590021
+				},
+				{
+					"Adulter_F_Hall",
+					590022
+				},
+				{
+					"Adulter_F_N_Hall",
+					590105
+				},
+				{
+					"Adulter_F_N_Axe",
+					520049
+				}
+			},
+			NeedSource_String = "Arma da Crença Falsa"
+		},
+		Pontifex_Wisdom = {
+			ItemID = 100651,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Adulter_F_T_Sword",
+					600017
+				},
+				{
+					"Adulter_F_Cakram",
+					610020
+				},
+				{
+					"Adulter_F_Katar",
+					610021
+				},
+				{
+					"Adulter_F_Lance",
+					630012
+				},
+				{
+					"Adulter_F_T_Staff",
+					640019
+				},
+				{
+					"Adulter_F_Rod",
+					640020
+				},
+				{
+					"Adulter_F_Humma",
+					650008
+				},
+				{
+					"Adulter_F_C_Humma",
+					650009
+				},
+				{
+					"Adulter_F_C_Bow",
+					700030
+				},
+				{
+					"Adulter_F_Ballista",
+					700031
+				},
+				{
+					"Adulter_F_A_Bow",
+					700032
+				},
+				{
+					"Adulter_F_Revolver",
+					800003
+				},
+				{
+					"Adulter_F_Rifle",
+					810002
+				},
+				{
+					"Adulter_F_Shotgun",
+					820002
+				},
+				{
+					"Adulter_F_Gatling",
+					830003
+				},
+				{
+					"Adulter_F_Launcher",
+					840002
+				},
+				{
+					"Adulter_F_G_Sword",
+					500025
+				},
+				{
+					"Adulter_F_Lapier",
+					500026
+				},
+				{
+					"Adulter_F_Dagger",
+					510032
+				},
+				{
+					"Adulter_F_Axe",
+					520008
+				},
+				{
+					"Adulter_F_G_Spear",
+					530013
+				},
+				{
+					"Adulter_F_M_Book",
+					540019
+				},
+				{
+					"Adulter_F_P_Book",
+					540020
+				},
+				{
+					"Adulter_F_Bible",
+					540021
+				},
+				{
+					"Adulter_F_Moon_B",
+					540022
+				},
+				{
+					"Adulter_F_Star_B",
+					540023
+				},
+				{
+					"Adulter_F_Wand",
+					550024
+				},
+				{
+					"Adulter_F_S_Stick",
+					550025
+				},
+				{
+					"Adulter_F_D_Wand",
+					550026
+				},
+				{
+					"Adulter_F_F_Wand",
+					550027
+				},
+				{
+					"Adulter_F_F_model",
+					550028
+				},
+				{
+					"Adulter_F_Knuckle",
+					560018
+				},
+				{
+					"Adulter_F_Claw",
+					560019
+				},
+				{
+					"Adulter_F_Violin",
+					570017
+				},
+				{
+					"Adulter_F_Harp",
+					570018
+				},
+				{
+					"Adulter_F_C_Rope",
+					580017
+				},
+				{
+					"Adulter_F_Ribbon",
+					580018
+				},
+				{
+					"Adulter_F_Mace",
+					590021
+				},
+				{
+					"Adulter_F_Hall",
+					590022
+				},
+				{
+					"Adulter_F_N_Hall",
+					590105
+				},
+				{
+					"Adulter_F_N_Axe",
+					520049
+				}
+			},
+			NeedSource_String = "Arma da Crença Falsa"
+		},
+		Pontifex_Tenacity = {
+			ItemID = 100652,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Vivatus_F_T_Sword",
+					600018
+				},
+				{
+					"Vivatus_F_Cakram",
+					610022
+				},
+				{
+					"Vivatus_F_Katar",
+					610023
+				},
+				{
+					"Vivatus_F_Lance",
+					630013
+				},
+				{
+					"Vivatus_F_T_Staff",
+					640021
+				},
+				{
+					"Vivatus_F_Rod",
+					640022
+				},
+				{
+					"Vivatus_F_C_Bow",
+					700033
+				},
+				{
+					"Vivatus_F_Ballista",
+					700034
+				},
+				{
+					"Vivatus_F_A_Bow",
+					700035
+				},
+				{
+					"Vivatus_F_G_Sword",
+					500027
+				},
+				{
+					"Vivatus_F_Lapier",
+					500028
+				},
+				{
+					"Vivatus_F_Dagger",
+					510033
+				},
+				{
+					"Vivatus_F_Axe",
+					520009
+				},
+				{
+					"Vivatus_F_G_Spear",
+					530014
+				},
+				{
+					"Vivatus_F_M_Book",
+					540024
+				},
+				{
+					"Vivatus_F_P_Book",
+					540025
+				},
+				{
+					"Vivatus_F_Bible",
+					540026
+				},
+				{
+					"Vivatus_F_Wand",
+					550029
+				},
+				{
+					"Vivatus_F_Knuckle",
+					560020
+				},
+				{
+					"Vivatus_F_Claw",
+					560021
+				},
+				{
+					"Vivatus_F_Violin",
+					570019
+				},
+				{
+					"Vivatus_F_Harp",
+					570020
+				},
+				{
+					"Vivatus_F_C_Rope",
+					580019
+				},
+				{
+					"Vivatus_F_Ribbon",
+					580020
+				},
+				{
+					"Vivatus_F_Mace",
+					590023
+				},
+				{
+					"Vivatus_F_Hall",
+					590024
+				},
+				{
+					"Vivatus_F_D_Wand",
+					550063
+				},
+				{
+					"Vivatus_F_S_Stick",
+					550064
+				},
+				{
+					"Vivatus_F_F_Wand",
+					550065
+				},
+				{
+					"Vivatus_F_F_model",
+					550066
+				},
+				{
+					"Vivatus_F_Star_B",
+					540045
+				},
+				{
+					"Vivatus_F_Moon_B",
+					540046
+				},
+				{
+					"Vivatus_F_Gatling",
+					830011
+				},
+				{
+					"Vivatus_F_Launcher",
+					840007
+				},
+				{
+					"Vivatus_F_Rifle",
+					810008
+				},
+				{
+					"Vivatus_F_Shotgun",
+					820006
+				},
+				{
+					"Vivatus_F_Revolver",
+					800012
+				},
+				{
+					"Vivatus_F_C_Humma",
+					650021
+				},
+				{
+					"Vivatus_F_Humma",
+					650022
+				},
+				{
+					"Vivatus_F_N_Axe",
+					520050
+				},
+				{
+					"Vivatus_F_N_Hall",
+					590106
+				}
+			},
+			NeedSource_String = "Arma da Crença Purificada"
+		},
+		Pontifex_Belief = {
+			ItemID = 100653,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Vivatus_F_T_Sword",
+					600018
+				},
+				{
+					"Vivatus_F_Cakram",
+					610022
+				},
+				{
+					"Vivatus_F_Katar",
+					610023
+				},
+				{
+					"Vivatus_F_Lance",
+					630013
+				},
+				{
+					"Vivatus_F_T_Staff",
+					640021
+				},
+				{
+					"Vivatus_F_Rod",
+					640022
+				},
+				{
+					"Vivatus_F_C_Bow",
+					700033
+				},
+				{
+					"Vivatus_F_Ballista",
+					700034
+				},
+				{
+					"Vivatus_F_A_Bow",
+					700035
+				},
+				{
+					"Vivatus_F_G_Sword",
+					500027
+				},
+				{
+					"Vivatus_F_Lapier",
+					500028
+				},
+				{
+					"Vivatus_F_Dagger",
+					510033
+				},
+				{
+					"Vivatus_F_Axe",
+					520009
+				},
+				{
+					"Vivatus_F_G_Spear",
+					530014
+				},
+				{
+					"Vivatus_F_M_Book",
+					540024
+				},
+				{
+					"Vivatus_F_P_Book",
+					540025
+				},
+				{
+					"Vivatus_F_Bible",
+					540026
+				},
+				{
+					"Vivatus_F_Wand",
+					550029
+				},
+				{
+					"Vivatus_F_Knuckle",
+					560020
+				},
+				{
+					"Vivatus_F_Claw",
+					560021
+				},
+				{
+					"Vivatus_F_Violin",
+					570019
+				},
+				{
+					"Vivatus_F_Harp",
+					570020
+				},
+				{
+					"Vivatus_F_C_Rope",
+					580019
+				},
+				{
+					"Vivatus_F_Ribbon",
+					580020
+				},
+				{
+					"Vivatus_F_Mace",
+					590023
+				},
+				{
+					"Vivatus_F_Hall",
+					590024
+				},
+				{
+					"Vivatus_F_D_Wand",
+					550063
+				},
+				{
+					"Vivatus_F_S_Stick",
+					550064
+				},
+				{
+					"Vivatus_F_F_Wand",
+					550065
+				},
+				{
+					"Vivatus_F_F_model",
+					550066
+				},
+				{
+					"Vivatus_F_Star_B",
+					540045
+				},
+				{
+					"Vivatus_F_Moon_B",
+					540046
+				},
+				{
+					"Vivatus_F_Gatling",
+					830011
+				},
+				{
+					"Vivatus_F_Launcher",
+					840007
+				},
+				{
+					"Vivatus_F_Rifle",
+					810008
+				},
+				{
+					"Vivatus_F_Shotgun",
+					820006
+				},
+				{
+					"Vivatus_F_Revolver",
+					800012
+				},
+				{
+					"Vivatus_F_C_Humma",
+					650021
+				},
+				{
+					"Vivatus_F_Humma",
+					650022
+				},
+				{
+					"Vivatus_F_N_Axe",
+					520050
+				},
+				{
+					"Vivatus_F_N_Hall",
+					590106
+				}
+			},
+			NeedSource_String = "Arma da Crença Purificada"
 		}
 	},
 	get_lapine_box = function(in_box_id)

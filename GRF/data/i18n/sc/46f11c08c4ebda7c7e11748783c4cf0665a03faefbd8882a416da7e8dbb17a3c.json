@@ -1,0 +1,52 @@
+{
+    "IJAkDQ": {
+        "en-US": "^FF0000It seems you are carrying too many types of items or exceeding the weight limit. Please organize your inventory.^000000",
+        "pt-BR": "^FF0000Parece que há tipos ou peso demais entre os itens que você possui. Organize seu inventário.^000000",
+        "es-ES": "^FF0000Parece que tienes demasiados tipos de objetos o demasiado peso. Por favor, ordena el inventario.^000000"
+    },
+    "IZAkDQ": {
+        "en-US": "^FF0000It seems you are carrying too many types of items or exceeding the weight limit. Please organize your inventory.^000000",
+        "pt-BR": "^FF0000Parece que há tipos ou peso demais entre os itens que você possui. Organize o seu inventário.^000000",
+        "es-ES": "^FF0000Parece que tienes demasiados tipos de objetos o demasiado peso. Por favor, ordena el inventario.^000000"
+    },
+    "IpAkDQ": {
+        "en-US": "^FF0000You are already carrying too many reward items. Please clear your reward items and proceed again.^000000",
+        "pt-BR": "^FF0000Você já possui itens de recompensa demais. Esvazie os itens de recompensa e tente novamente.^000000",
+        "es-ES": "^FF0000Ya tienes demasiados objetos de recompensa. Vacía los objetos de recompensa y vuelve a intentarlo.^000000"
+    },
+    "I5AkDQ": {
+        "en-US": "^0000FFIt seems you can go outside.^000000",
+        "pt-BR": "^0000FFParece que é possível sair.^000000",
+        "es-ES": "^0000FFParece que podrás salir al exterior.^000000"
+    },
+    "JJAkDQ": {
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
+    },
+    "JZAkDQ": {
+        "en-US": "Leave",
+        "pt-BR": "Sair",
+        "es-ES": "Salir"
+    },
+    "JpAkDQ": {
+        "en-US": "^0000FFYou participated in the battle but did not contribute to defeating the boss. Try again next time.^000000",
+        "pt-BR": "^0000FFVocê participou da batalha, mas não contribuiu para derrotar o chefe. Vamos tentar na próxima oportunidade.^000000",
+        "es-ES": "^0000FFHas participado en la batalla, pero no has contribuido a derrotar al jefe. Intentémoslo de nuevo la próxima vez.^000000"
+    },
+    "J5AkDQ": {
+        "en-US": "^0000FFYou discovered something within the brightly shining cluster of light.^000000",
+        "pt-BR": "^0000FFVocê encontrou algo em meio a um feixe de luz brilhante.^000000",
+        "es-ES": "^0000FFHas descubierto algo entre un resplandor de luz brillante.^000000"
+    },
+    "KJAkDQ": {
+        "en-US": "^0000FFYour reputation with Gray Wolf Village has been applied, increasing the amount of rewards granted.^000000",
+        "pt-BR": "^0000FFA reputação do Vilarejo do Lobo Cinzento foi aplicada, aumentando a quantidade de recompensas concedidas.^000000",
+        "es-ES": "^0000FFSe ha aplicado la reputación de Aldea Lobo Gris y ha aumentado la cantidad de recompensas otorgadas.^000000"
+    },
+    "KZAkDQ": {
+        "en-US": "You discovered <ITEM>Additional Reward<INFO>1000471</INFO></ITEM>.",
+        "pt-BR": "Você encontrou <ITEM>Recompensa Adicional<INFO>1000471</INFO></ITEM>.",
+        "es-ES": "Has encontrado <ITEM>recompensa adicional<INFO>1000471</INFO></ITEM>."
+    }
+}

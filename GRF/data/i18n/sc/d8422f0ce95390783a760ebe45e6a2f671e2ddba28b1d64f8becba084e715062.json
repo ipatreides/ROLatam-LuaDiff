@@ -1,1154 +1,962 @@
 {
     "YCMkAw": {
-        "ko-KR": "켈라서스",
-        "en-US": "Kellasus",
-        "pt-BR": "Kellasus",
-        "es-ES": "Kellasus"
+        "en-US": "Kelasus",
+        "pt-BR": "Kelasus",
+        "es-ES": "Kelasus"
     },
     "YSMkAw": {
-        "ko-KR": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
-        "en-US": "- You are carrying too many items to proceed. -",
-        "pt-BR": "- Você possui muitos itens e não pode prosseguir. -",
-        "es-ES": "- No puedes continuar porque llevas demasiados objetos. -"
+        "en-US": "- You have too many items in your possession. Cannot proceed. -",
+        "pt-BR": "- Você está com muitos itens. Não pode prosseguir. -",
+        "es-ES": "- Tienes demasiados objetos. No puedes continuar. -"
     },
     "YiMkAw": {
-        "ko-KR": "[켈라서스]\n흠... 애송이 연금술사인가. 자네\n처럼 무능해보이는 연금술사도\n오래간만에 보는 것 같군. 직업이\n연금술사라고 모두가 다 똑같이\n연금술 실력이 좋은건 아닐세.\n정진하게나.",
-        "en-US": "[Kellasus]\nHmm... a fledgling Alchemist, are you?\nIt has been some time since I have seen\nan Alchemist who looks as incompetent\nas you. Not all who call themselves\nAlchemists are equally skilled\nin alchemy. Devote yourself to training.",
-        "pt-BR": "[Kellasus]\nHmm... Um alquimista novato, é? Faz tempo\nque não vejo um alquimista que parece\ntão incompetente quanto você. Só porque\na profissão é alquimista, isso não quer dizer\nque todos tenham igualmente\nboa habilidade em alquimia.\nDedique-se.",
-        "es-ES": "[Kellasus]\nMmm... ¿Un alquimista novato? Hace\ntiempo que no veía a un alquimista\ncon aspecto tan incompetente como tú.\nQue alguien tenga la profesión\nde alquimista no significa que todos\nsean igual de buenos en alquimia.\nEsfuérzate."
+        "en-US": "[Kelasus]\nHmm... A rookie alchemist, are you? It's been a while\nsince I've seen an alchemist as incompetent-looking as you.\nJust because your job is alchemist doesn't mean everyone\nhas the same skill in alchemy.\nKeep at it.",
+        "pt-BR": "[Kelasus]\nHmm... Um alquimista novato, não é? Faz tempo\nque não vejo um alquimista com aparência tão incompetente quanto você.\nSó porque sua profissão é alquimista, não significa que todos\ntenham a mesma habilidade em alquimia.\nContinue se esforçando.",
+        "es-ES": "[Kelasus]\nHmm... Un alquimista novato, ¿no es así? Hace tiempo\nque no veo un alquimista con una apariencia tan incompetente como la tuya.\nSolo porque tu trabajo es ser alquimista no significa que todos\ntengan la misma habilidad en alquimia.\nSigue esforzándote."
     },
     "YyMkAw": {
-        "ko-KR": "[켈라서스]\n미지에 대한 탐구와 끊임없는\n자기수양이 어우러질 때 비로서\n그대의 연금술 앞에 빛이 비춰질\n것이 틀림없네.",
-        "en-US": "[Kellasus]\nOnly when the pursuit of the unknown\nand constant self-discipline come together\nwill light surely shine\nupon your alchemy.",
-        "pt-BR": "[Kellasus]\nQuando a exploração do desconhecido\ne o constante aprimoramento pessoal\nse unirem, sem dúvida uma luz\nbrilhará diante da sua alquimia.",
-        "es-ES": "[Kellasus]\nCuando la exploración de lo desconocido\ny el constante perfeccionamiento personal\nse unan, no me cabe duda de que\nla luz iluminará tu alquimia."
+        "en-US": "[Kelasus]\nOnly when the exploration of the unknown and constant\nself-discipline come together will the light shine upon\nyour alchemy, without a doubt.",
+        "pt-BR": "[Kelasus]\nSomente quando a exploração do desconhecido e a constante\nautodisciplina se unirem é que a luz brilhará sobre\nsua alquimia, sem dúvida.",
+        "es-ES": "[Kelasus]\nSolo cuando la exploración de lo desconocido y la constante\nautodisciplina se unan, la luz brillará sobre\ntu alquimia, sin duda."
     },
     "ZCMkAw": {
-        "ko-KR": "[켈라서스]\n물론... 그 끝에는 손을 대서는\n안될 영역이 기다리고 있겠지만..\n그때까지는 끊임없이 탐구하고,\n연구해보게.",
-        "en-US": "[Kellasus]\nOf course... at the end of it,\nthere will await a realm\nthat must not be touched..\nUntil then, continue to explore\nand research without ceasing.",
-        "pt-BR": "[Kellasus]\nClaro... no fim dela, haverá uma área\nna qual você não deve tocar...\nMas até lá, continue explorando\ne pesquisando sem parar.",
-        "es-ES": "[Kellasus]\nPor supuesto... al final te aguardará\nun territorio que no debe tocarse...\nPero hasta entonces, explora\ne investiga sin descanso."
+        "en-US": "[Kelasus]\nOf course... at the end of that road lies a domain that must not be touched...\nBut until then, continue to explore and research without end.",
+        "pt-BR": "[Kelasus]\nClaro... no fim desse caminho reside um domínio que não deve ser tocado...\nMas até lá, continue a explorar e pesquisar sem fim.",
+        "es-ES": "[Kelasus]\nClaro... al final de ese camino yace un dominio que no debe ser tocado...\nPero hasta entonces, continúa explorando e investigando sin fin."
     },
     "ZSMkAw": {
-        "ko-KR": "[켈라서스]\n그리고... 진정으로 이 길이\n옳은 길인지 아닌지 자기수양과\n함께 곰곰히 생각해보는 것이\n좋을 것이야.",
-        "en-US": "[Kellasus]\nAnd... it would be wise\nto reflect carefully, along with\nyour self-discipline, on whether\nthis path is truly the right one.",
-        "pt-BR": "[Kellasus]\nE... seria bom refletir profundamente,\njunto com seu aprimoramento pessoal,\nse este caminho é verdadeiramente\no caminho correto ou não.",
-        "es-ES": "[Kellasus]\nY... convendría que reflexionaras\ndetenidamente, junto con tu disciplina\npersonal, sobre si este camino\nes realmente correcto o no."
+        "en-US": "[Kelasus]\nAnd... take the time to deeply consider, along with self-discipline,\nwhether this path is truly the right one or not.",
+        "pt-BR": "[Kelasus]\nE... reserve um tempo para considerar profundamente, juntamente com a autodisciplina,\nse este caminho é realmente o correto ou não.",
+        "es-ES": "[Kelasus]\nY... tómate el tiempo para considerar profundamente, junto con la autodisciplina,\nsi este camino es realmente el correcto o no."
     },
     "ZiMkAw": {
-        "ko-KR": "[켈라서스]\n아무튼 열심히 해보게.",
-        "en-US": "[Kellasus]\nIn any case, do your best.",
-        "pt-BR": "[Kellasus]\nDe todo modo, esforce-se.",
-        "es-ES": "[Kellasus]\nEn cualquier caso, esfuérzate."
+        "en-US": "[Kelasus]\nAnyway, do your best.",
+        "pt-BR": "[Kelasus]\nDe qualquer forma, faça o seu melhor.",
+        "es-ES": "[Kelasus]\nDe todas formas, hazlo lo mejor que puedas."
     },
     "ZyMkAw": {
-        "ko-KR": "[켈라서스]\n또 왔군... 그래, 온 김에 자네\n에게 연금술사에 대한 이야기나\n좀 해주도록 하지.\n연금술을 뭐라고 생각하나?",
-        "en-US": "[Kellasus]\nYou have come again... Well, since\nyou are here, I shall tell you\na bit about Alchemists.\nWhat do you think alchemy is?",
-        "pt-BR": "[Kellasus]\nVeio de novo... Então, já que veio,\nvou lhe contar um pouco\nsobre alquimistas.\nO que você acha que é alquimia?",
-        "es-ES": "[Kellasus]\nHas vuelto... Bien, ya que estás aquí,\nte contaré un poco sobre los alquimistas.\n¿Qué crees que es la alquimia?"
+        "en-US": "[Kelasus]\nYou're back... Alright, since you're here, let me tell you a bit\nabout alchemists.\nWhat do you think alchemy is?",
+        "pt-BR": "[Kelasus]\nVocê voltou... Muito bem, já que está aqui, deixe-me contar um pouco\nsobre os alquimistas.\nO que você acha que é alquimia?",
+        "es-ES": "[Kelasus]\nHas vuelto... Muy bien, ya que estás aquí, déjame contarte un poco\nsobre los alquimistas.\n¿Qué crees que es la alquimia?"
     },
     "aCMkAw": {
-        "ko-KR": "[켈라서스]\n아... 미안하네. 너무 방대한\n스케일의 질문이었군. 그냥\n내가 그 질문의 답을 이야기해\n주도록 하겠네.",
-        "en-US": "[Kellasus]\nAh... forgive me. That was a question\non far too vast a scale. I shall simply\ntell you the answer myself.",
-        "pt-BR": "[Kellasus]\nAh... desculpe. Foi uma pergunta\nde escala ampla demais. Vou apenas\nlhe contar a resposta\na essa pergunta.",
-        "es-ES": "[Kellasus]\nAh... perdona. Era una pregunta\nde una escala demasiado enorme.\nDejaré que sea yo quien responda\na esa pregunta."
+        "en-US": "[Kelasus]\nAh... Sorry. That was a question of far too grand a scale.\nI'll just go ahead and tell you the answer.",
+        "pt-BR": "[Kelasus]\nAh... Desculpe. Essa foi uma pergunta de escala muito grandiosa.\nVou logo lhe dar a resposta.",
+        "es-ES": "[Kelasus]\nAh... Lo siento. Esa fue una pregunta de una escala demasiado grandiosa.\nTe daré la respuesta directamente."
     },
     "aSMkAw": {
-        "ko-KR": "[켈라서스]\n그저 연금술은 무에서 금을\n만들어내는 욕심 많은 사기꾼기질\n농후한 학문이라고 알려져\n있지만, 그 본질은 그런 것이\n아닐세. 물론, 무에서 금을\n만들어내는 일도 하지만...",
-        "en-US": "[Kellasus]\nAlchemy is merely known as a greedy,\nfraudulent field that creates gold\nfrom nothing, but that is not\nits true essence. Of course,\nit does create gold from nothing...",
-        "pt-BR": "[Kellasus]\nA alquimia é conhecida apenas\ncomo uma disciplina gananciosa,\ncom forte tendência de charlatanismo,\nque cria ouro a partir do nada,\nmas sua essência não é isso.\nClaro, ela também faz ouro\na partir do nada...",
-        "es-ES": "[Kellasus]\nLa alquimia suele conocerse\ncomo una disciplina propia de estafadores\ncodiciosos que crean oro de la nada,\npero su esencia no es esa.\nClaro que también se ocupa de crear\noro de la nada..."
+        "en-US": "[Kelasus]\nAlchemy is commonly known as a greed-ridden, scammer-like\ndiscipline that tries to make gold from nothing,\nbut its essence is not that. Of course, it does try to make gold from nothing...",
+        "pt-BR": "[Kelasus]\nA alquimia é comumente conhecida como uma disciplina gananciosa, trapaceira,\nque tenta fazer ouro do nada,\nmas sua essência não é essa. Claro, ela tenta fazer ouro do nada...",
+        "es-ES": "[Kelasus]\nLa alquimia es comúnmente conocida como una disciplina codiciosa y tramposa\nque intenta crear oro de la nada,\npero su esencia no es esa. Claro, intenta hacer oro de la nada..."
     },
     "aiMkAw": {
-        "ko-KR": "[켈라서스]\n근본적으로 그럼 무에서 금을\n만들어내는 일은 왜 하는가?\n그 이유는 간단하다. 그 무에서\n금을 만들어내는 일을 하며,\n인간은 자신이 계속 단련된다고\n믿었기 때문이지.",
-        "en-US": "[Kellasus]\nBut fundamentally, why create gold\nfrom nothing at all?\nThe reason is simple. It is because\nhumans believed that by doing so,\nthey continued to refine themselves.",
-        "pt-BR": "[Kellasus]\nFundamentalmente, então, por que\nse cria ouro a partir do nada?\nA razão é simples. Porque,\nao realizar o trabalho de criar\nouro a partir do nada,\nos humanos acreditavam que continuavam\na se aprimorar.",
-        "es-ES": "[Kellasus]\nPero, en esencia, ¿por qué se crea\noro de la nada?\nLa razón es sencilla. Porque los humanos\ncreían que, al hacerlo,\nseguían forjándose a sí mismos."
+        "en-US": "[Kelasus]\nBut fundamentally, why try to make gold from nothing?\nThe reason is simple. Because through the act of making gold from nothing,\nhumans believe they continuously train themselves.",
+        "pt-BR": "[Kelasus]\nMas fundamentalmente, por que tentar fazer ouro do nada?\nA razão é simples. Porque através do ato de fazer ouro do nada,\nos humanos acreditam que treinam a si mesmos continuamente.",
+        "es-ES": "[Kelasus]\nPero, fundamentalmente, ¿por qué intentar hacer oro de la nada?\nLa razón es simple. Porque mediante el acto de hacer oro de la nada,\nlos humanos creen que se entrenan a sí mismos continuamente."
     },
     "ayMkAw": {
-        "ko-KR": "[켈라서스]\n의학, 화학, 생물학, 지질학,\n천문학, 점성학, 풍수학, 철학,\n물리학, 수학.. 세상에 존재하는\n모든 학문의 집대성, 그것이\n바로 연금술이다.",
-        "en-US": "[Kellasus]\nMedicine, chemistry, biology, geology,\nastronomy, astrology, geomancy,\nphilosophy, physics, mathematics..\nThe culmination of every field of study\nthat exists in this world.\nThat is alchemy.",
-        "pt-BR": "[Kellasus]\nMedicina, química, biologia, geologia,\nastronomia, astrologia, feng shui, filosofia,\nfísica, matemática... A compilação\nde todos os estudos existentes no mundo,\nisso é a alquimia.",
-        "es-ES": "[Kellasus]\nMedicina, química, biología, geología,\nastronomía, astrología, geomancia,\nfilosofía, física, matemáticas...\nLa culminación de todas las disciplinas\nexistentes en el mundo:\neso es la alquimia."
+        "en-US": "[Kelasus]\nMedicine, chemistry, biology, geology, astronomy, astrology,\nfeng shui, philosophy, physics, mathematics... the synthesis of every\nexisting discipline in the world, that is alchemy.",
+        "pt-BR": "[Kelasus]\nMedicina, química, biologia, geologia, astronomia, astrologia,\nfeng shui, filosofia, física, matemática... a síntese de todas\nas disciplinas existentes no mundo, isso é alquimia.",
+        "es-ES": "[Kelasus]\nMedicina, química, biología, geología, astronomía, astrología,\nfeng shui, filosofía, física, matemáticas... la síntesis de todas\nlas disciplinas existentes en el mundo, eso es la alquimia."
     },
     "bCMkAw": {
-        "ko-KR": "[켈라서스]\n그런 복잡하고 어려우면서도\n방대한 학문을 탐구하는데, 자기\n자신 단련이 안되는 게 더 신기한\n일이 아닐까 싶네만. 금을 만드는\n것 자체는 어찌보면 단순한\n과정에 지나지 않아.",
-        "en-US": "[Kellasus]\nWhen one studies such a complex,\ndifficult, and vast discipline,\nit would be stranger if one did not\ndiscipline oneself. Creating gold itself\nis, in a sense, merely\na simple process.",
-        "pt-BR": "[Kellasus]\nAo explorar uma disciplina tão complexa,\ndifícil e vasta,\nseria mais estranho se o próprio\nindivíduo não se aprimorasse.\nCriar ouro em si, de certo modo,\nnão passa de um processo simples.",
-        "es-ES": "[Kellasus]\nAl explorar una disciplina tan compleja,\ndifícil y vasta, lo extraño sería\nque uno no se forjara a sí mismo.\nCrear oro en sí, visto de cierto modo,\nno es más que un proceso simple."
+        "en-US": "[Kelasus]\nExploring such a complex, difficult, and vast discipline,\nit's almost stranger that it wouldn't train oneself.\nThe act of making gold itself is, in a way, merely a simple process.",
+        "pt-BR": "[Kelasus]\nExplorar uma disciplina tão complexa, difícil e vasta,\né quase estranho que isso não treine a si mesmo.\nO ato de fazer ouro em si é, de certa forma, meramente um processo simples.",
+        "es-ES": "[Kelasus]\nExplorar una disciplina tan compleja, difícil y vasta,\nes casi extraño que no entrene a uno mismo.\nEl acto de hacer oro en sí mismo es, en cierto modo, meramente un proceso simple."
     },
     "bSMkAw": {
-        "ko-KR": "[켈라서스]\n자네는 그러한 연금술의 세계에\n발을 들여놓게 된 것일세.\n가슴 두근두근하지 않나?\n열심히 하게.",
-        "en-US": "[Kellasus]\nYou have stepped into\nthat world of alchemy.\nDoes it not make your heart race?\nWork hard.",
-        "pt-BR": "[Kellasus]\nVocê entrou nesse mundo\nda alquimia.\nSeu coração não pulsa de emoção?\nEsforce-se.",
-        "es-ES": "[Kellasus]\nHas puesto un pie\nen ese mundo de la alquimia.\n¿No te late el corazón con emoción?\nEsfuérzate."
+        "en-US": "[Kelasus]\nYou have set foot into this world of alchemy.\nDoesn't your heart race? Do your best.",
+        "pt-BR": "[Kelasus]\nVocê colocou os pés neste mundo da alquimia.\nSeu coração não acelera? Faça o seu melhor.",
+        "es-ES": "[Kelasus]\nHas puesto un pie en este mundo de la alquimia.\n¿No se te acelera el corazón? Hazlo lo mejor que puedas."
     },
     "biMkAw": {
-        "ko-KR": "[켈라서스]\n비록, 나중에 후회하거나 좌절하는\n일이 있다 한들, 지금 자네는 이미\n연금술의 길에 들어섰단 말일세.\n시작을 한 이상 끝까지는 못 가도\n할 수 있는 만큼은 해야겠지?",
-        "en-US": "[Kellasus]\nEven if someday you come to regret\nor despair, right now you have already\nset foot upon the path of alchemy.\nNow that you have begun,\neven if you cannot reach the end,\nyou must do all that you can, must you not?",
-        "pt-BR": "[Kellasus]\nMesmo que no futuro você venha\na se arrepender ou se frustrar,\nagora você já entrou\nno caminho da alquimia.\nUma vez que começou, mesmo que não chegue\nao fim, deve fazer o máximo que puder, certo?",
-        "es-ES": "[Kellasus]\nAunque más adelante puedas arrepentirte\no caer en la desesperación,\nahora ya has entrado\nen el camino de la alquimia.\nUna vez que has empezado,\naunque no llegues hasta el final,\ndeberías hacer todo lo que puedas, ¿no?"
+        "en-US": "[Kelasus]\nEven if you later regret or become frustrated, you have already\nentered the path of alchemy. Since you've started, even if you can't go all the way,\nyou should at least do as much as you can, right?",
+        "pt-BR": "[Kelasus]\nMesmo que mais tarde você se arrependa ou fique frustrado, você já\nentrou no caminho da alquimia. Já que começou, mesmo que não possa ir até o fim,\ndeveria pelo menos fazer o máximo que puder, certo?",
+        "es-ES": "[Kelasus]\nIncluso si luego te arrepientes o te frustras, ya has\nentrado en el camino de la alquimia. Ya que empezaste, incluso si no puedes llegar hasta el final,\nal menos deberías hacer todo lo que puedas, ¿verdad?"
     },
     "byMkAw": {
-        "ko-KR": "[켈라서스]\n또 왔나? 뭐 어리석은 인간들이\n날 귀찮게 하는 것보다 자네같은\n열의 가득한 초보 연금술사가\n훨씬 편하긴 하다만... 뭐 좋네.\n이번엔 무슨 이야기를 해줄까?",
-        "en-US": "[Kellasus]\nYou have come again? Well, I suppose\na passionate novice Alchemist like you\nis far easier to deal with than\nthe foolish humans who bother me...\nVery well. What shall I speak of this time?",
-        "pt-BR": "[Kellasus]\nVeio de novo? Bem, comparado a humanos\ntolos me incomodando,\num alquimista iniciante cheio de entusiasmo\ncomo você é muito mais agradável...\nMuito bem.\nSobre o que devo falar desta vez?",
-        "es-ES": "[Kellasus]\n¿Has vuelto otra vez? Bueno, es más cómodo\ntratar con un alquimista principiante\nlleno de entusiasmo como tú\nque con necios humanos\nque vienen a molestarme... Está bien.\n¿Qué historia debería contarte esta vez?"
+        "en-US": "[Kelasus]\nBack again? Well, dealing with a passionate rookie alchemist like you\nis far more comfortable than being bothered by foolish humans...\nFine. What story should I tell you this time?",
+        "pt-BR": "[Kelasus]\nDe volta outra vez? Bem, lidar com um alquimista novato e apaixonado como você\né muito mais confortável do que ser incomodado por humanos tolos...\nMuito bem. Que história devo contar desta vez?",
+        "es-ES": "[Kelasus]\n¿Has vuelto otra vez? Bien, tratar con un alquimista novato y apasionado como tú\nes mucho más cómodo que ser molestado por humanos tontos...\nMuy bien. ¿Qué historia debería contarte esta vez?"
     },
     "cCMkAw": {
-        "ko-KR": "[켈라서스]\n흠. 금을 만들어내니 무엇인들\n만들어내지 못하겠냐만은...\n가급적 생명을 가지고 노는\n행위만은 하지 말게나.",
-        "en-US": "[Kellasus]\nHmm. Since one can create gold,\none might think nothing is beyond creation...\nbut as much as possible, avoid\nacts that toy with life.",
-        "pt-BR": "[Kellasus]\nHmm. Como se cria ouro, talvez não haja\nnada que não se possa criar...\nMas, na medida do possível, não brinque\ncom a vida.",
-        "es-ES": "[Kellasus]\nMmm. Si se puede crear oro,\nquizá parezca que no hay nada\nque no pueda crearse...\npero, en la medida de lo posible,\nno juegues con la vida."
+        "en-US": "[Kelasus]\nHmm. If you can make gold, you can make anything else, but...\nplease refrain from playing with life as much as possible.",
+        "pt-BR": "[Kelasus]\nHmm. Se você pode fazer ouro, pode fazer qualquer outra coisa, mas...\npor favor, evite brincar com a vida o máximo possível.",
+        "es-ES": "[Kelasus]\nHmm. Si puedes hacer oro, puedes hacer cualquier otra cosa, pero...\npor favor, evita jugar con la vida lo más posible."
     },
     "cSMkAw": {
-        "ko-KR": "[켈라서스]\n연금술 중에는 무에서 생명을\n만들어 낼 수 있는 기술이 있는데,\n이 기술은 정말로 해서는 안되는,\n배워서도 안되는 기술일세.",
-        "en-US": "[Kellasus]\nWithin alchemy, there exists a technique\nthat can create life from nothing,\nbut it is a technique that truly must not\nbe used, and must not be learned.",
-        "pt-BR": "[Kellasus]\nDentro da alquimia, há uma técnica\ncapaz de criar vida a partir do nada.\nEssa técnica é algo que realmente\nnão deve ser feito,\nnem sequer aprendido.",
-        "es-ES": "[Kellasus]\nDentro de la alquimia existe una técnica\ncapaz de crear vida a partir de la nada.\nEsa técnica es algo que de verdad\nno debe hacerse,\nni siquiera aprenderse."
+        "en-US": "[Kelasus]\nAmong alchemy, there is a technique to create life from nothing,\na technique that truly must not be done, nor even learned.",
+        "pt-BR": "[Kelasus]\nDentro da alquimia, há uma técnica para criar vida do nada,\numa técnica que verdadeiramente não deve ser feita, nem mesmo aprendida.",
+        "es-ES": "[Kelasus]\nDentro de la alquimia, hay una técnica para crear vida de la nada,\nuna técnica que verdaderamente no debe hacerse, ni siquiera aprenderse."
     },
     "ciMkAw": {
-        "ko-KR": "[켈라서스]\n생각해보게. 우리의 이 생명은\n우리에게 내려진 고결한 신의\n의지인 것이야. 그리고 그 의지는\n부모에 의하여 구체적으로\n이 세상에 존재하게 된 것이지.",
-        "en-US": "[Kellasus]\nThink on it. This life of ours\nis the noble will of God\nbestowed upon us. And that will\nis brought into concrete existence\nin this world by one's parents.",
-        "pt-BR": "[Kellasus]\nPense nisso. Esta nossa vida\né a nobre vontade divina\nque nos foi concedida.\nE essa vontade passou a existir\nconcretamente neste mundo\npor meio de nossos pais.",
-        "es-ES": "[Kellasus]\nPiénsalo. Esta vida nuestra\nes la noble voluntad divina\nque nos ha sido concedida.\nY esa voluntad ha tomado forma\nen este mundo a través de nuestros padres."
+        "en-US": "[Kelasus]\nThink about it. This life of ours is a noble will of the gods bestowed upon us.\nAnd that will is given concrete existence in this world through our parents.",
+        "pt-BR": "[Kelasus]\nPense nisso. Esta nossa vida é uma nobre vontade dos deuses concedida a nós.\nE essa vontade recebe existência concreta neste mundo através de nossos pais.",
+        "es-ES": "[Kelasus]\nPiénsalo. Esta vida nuestra es una noble voluntad de los dioses otorgada a nosotros.\nY esa voluntad recibe existencia concreta en este mundo a través de nuestros padres."
     },
     "cyMkAw": {
-        "ko-KR": "[켈라서스]\n그만큼 생명은 위대하면서도\n아름다운 존재일세. 그런 생명을\n한낱 인간주제에 만들어낸다고?\n어림도 없는 인간의 오만일세.\n신의 권위에 도전하는 차원의\n문제가 아니란 말일세.",
-        "en-US": "[Kellasus]\nLife is that great\nand beautiful a thing.\nAnd mere humans would create\nsuch life? That is an impossible\narrogance of mankind.\nThis is not merely a matter\nof challenging divine authority.",
-        "pt-BR": "[Kellasus]\nA vida é uma existência tão grande\nquanto bela. Criar uma vida assim\npor um mero humano?\nIsso é uma arrogância humana absurda.\nNão se trata de uma questão\nde desafiar a autoridade divina.",
-        "es-ES": "[Kellasus]\nLa vida es tan grandiosa\ncomo hermosa.\n¿Y un simple humano pretende crear\nalgo así?\nEs una arrogancia humana inconcebible.\nNo es cuestión de desafiar\nla autoridad divina."
+        "en-US": "[Kelasus]\nLife is that great and beautiful. To think a mere human could create such life?\nThat is the height of human arrogance. It's not even a matter of challenging divine authority.",
+        "pt-BR": "[Kelasus]\nA vida é assim grande e bela. Pensar que um mero humano poderia criar tal vida?\nIsso é o auge da arrogância humana. Não é nem mesmo uma questão de desafiar a autoridade divina.",
+        "es-ES": "[Kelasus]\nLa vida es así de grande y hermosa. ¿Pensar que un mero humano podría crear tal vida?\nEso es el colmo de la arrogancia humana. Ni siquiera es una cuestión de desafiar la autoridad divina."
     },
     "dCMkAw": {
-        "ko-KR": "[켈라서스]\n나는 그 생명을 만들어내는\n기술, 그래... ^FF0000호문클루스^000000라고\n불리우는 생명을 만들어 내는\n기술의 일인자일세. 하지만...\n지금은 후회하고 있다네.",
-        "en-US": "[Kellasus]\nI am the foremost authority\non the technique that creates life,\nyes... the technique that creates\nthe life known as ^FF0000Homunculus^000000.\nBut... I regret it now.",
-        "pt-BR": "[Kellasus]\nEu sou o maior especialista\nna técnica de criar essa vida,\nsim... a técnica de criar uma vida\nchamada ^FF0000Homúnculo^000000.\nMas... agora me arrependo.",
-        "es-ES": "[Kellasus]\nYo soy el mayor experto en esa técnica\npara crear vida, sí...\nla técnica que crea una vida llamada\n^FF0000homúnculo^000000. Pero...\nahora me arrepiento."
+        "en-US": "[Kelasus]\nI am the foremost expert in that life-creating technique, yes... the one called ^FF0000Homunculus^000000.\nBut... now I regret it.",
+        "pt-BR": "[Kelasus]\nEu sou o maior especialista nessa técnica de criar vida, sim... aquele chamado ^FF0000Homúnculo^000000.\nMas... agora me arrependo.",
+        "es-ES": "[Kelasus]\nSoy el mayor experto en esa técnica de crear vida, sí... la llamada ^FF0000Homúnculo^000000.\nPero... ahora me arrepiento."
     },
     "dSMkAw": {
-        "ko-KR": "[켈라서스]\n뭐가 연금술이고, 뭐가 모든\n학문을 집대성한 초학문인가.\n난 인간의 오만을 더 이상\n용서할 수가 없네.",
-        "en-US": "[Kellasus]\nWhat is alchemy, and what is\nthis super-discipline said to be\nthe culmination of all knowledge?\nI can no longer forgive\nhuman arrogance.",
-        "pt-BR": "[Kellasus]\nO que é alquimia, e o que é\numa superdisciplina que compila\ntodos os estudos?\nNão consigo mais perdoar\na arrogância humana.",
-        "es-ES": "[Kellasus]\n¿Qué es la alquimia?\n¿Qué es una superdisciplina que reúne\ntodos los conocimientos?\nYa no puedo perdonar\nla arrogancia humana."
+        "en-US": "[Kelasus]\nWhat is alchemy? What is a meta-discipline that synthesizes all knowledge?\nI can no longer forgive human arrogance.",
+        "pt-BR": "[Kelasus]\nO que é alquimia? O que é uma metadisciplina que sintetiza todo o conhecimento?\nNão posso mais perdoar a arrogância humana.",
+        "es-ES": "[Kelasus]\n¿Qué es la alquimia? ¿Qué es una metadisciplina que sintetiza todo el conocimiento?\nYa no puedo perdonar la arrogancia humana."
     },
     "diMkAw": {
-        "ko-KR": "[켈라서스]\n연금술을 하다보면, 후회하고,\n좌절하는 때가 온다고 했지?\n자네는 비록 그 때를 직접\n경험해보지는 않았겠지만, 계속\n이 길을 가다보면 언젠가는..",
-        "en-US": "[Kellasus]\nI told you that if you practice alchemy,\na time will come when you regret\nand despair, did I not?\nThough you may not have experienced\nthat time yourself, if you continue\ndown this path, someday...",
-        "pt-BR": "[Kellasus]\nEu disse que, ao seguir a alquimia,\nchega um momento de arrependimento\ne frustração, não disse?\nEmbora você ainda não tenha\npassado por esse momento,\nse continuar seguindo este caminho, um dia...",
-        "es-ES": "[Kellasus]\nDije que, al practicar alquimia,\nllega un momento de arrepentimiento\ny desesperación, ¿verdad?\nAunque tú aún no lo hayas experimentado,\nsi sigues por este camino, algún día..."
+        "en-US": "[Kelasus]\nDid I not tell you? There comes a time of regret and frustration in alchemy.\nYou may not have experienced it yet, but as you continue down this path, someday...",
+        "pt-BR": "[Kelasus]\nEu não lhe disse? Chega um momento de arrependimento e frustração na alquimia.\nVocê pode ainda não ter experimentado, mas conforme continua por este caminho, um dia...",
+        "es-ES": "[Kelasus]\n¿No te lo dije? Llega un momento de arrepentimiento y frustración en la alquimia.\nPuede que aún no lo hayas experimentado, pero conforme continúes por este camino, algún día..."
     },
     "dyMkAw": {
-        "ko-KR": "[켈라서스]\n..................\n그 저주받은 호문클루스 기술에도\n손을 댈 수밖에 없을 것이고,\n생명의 존귀함을 모르는 어리석은\n무리들 사이에 껴서 괴로워 할\n것일세...",
-        "en-US": "[Kellasus]\n..................\nYou will have no choice but to touch\nthat cursed Homunculus technique,\nand you will suffer among foolish people\nwho do not understand\nthe sanctity of life...",
-        "pt-BR": "[Kellasus]\n..................\nVocê inevitavelmente acabará tocando\nnessa maldita técnica de Homúnculo,\ne sofrerá no meio de tolos\nque não conhecem a dignidade\nda vida...",
-        "es-ES": "[Kellasus]\n..................\nTendrás que tocar también\nesa maldita técnica de los homúnculos,\ny sufrirás entre necios\nque no comprenden la dignidad de la vida..."
+        "en-US": "[Kelasus]\n..................\nYou will inevitably touch that cursed homunculus technique,\nand suffer among foolish crowds who do not know the preciousness of life...",
+        "pt-BR": "[Kelasus]\n..................\nVocê inevitavelmente tocará nessa técnica amaldiçoada do homúnculo,\ne sofrerá entre multidões tolas que não conhecem a preciosidade da vida...",
+        "es-ES": "[Kelasus]\n..................\nInevitablemente tocarás esa maldita técnica del homúnculo,\ny sufrirás entre multitudes tontas que no conocen el valor de la vida..."
     },
     "eCMkAw": {
-        "ko-KR": "[켈라서스]\n좌우지간, 연금술은 이렇게\n사용돼서는 안 돼! 연금술을 굳이\n존속시켜야 한다면, 호문클루스\n기술은 영원히 봉인되어야 해.",
-        "en-US": "[Kellasus]\nAt any rate, alchemy must not\nbe used this way! If alchemy\nmust persist, then the Homunculus\ntechnique must be sealed away forever.",
-        "pt-BR": "[Kellasus]\nDe qualquer forma, a alquimia não deve\nser usada assim! Se a alquimia tiver\nque continuar existindo,\na técnica de Homúnculo deve ser\nselada para sempre.",
-        "es-ES": "[Kellasus]\nEn cualquier caso, ¡la alquimia\nno debe usarse de este modo!\nSi la alquimia debe seguir existiendo,\nla técnica de los homúnculos\ndebe quedar sellada para siempre."
+        "en-US": "[Kelasus]\nRegardless, alchemy must not be used this way! If alchemy must persist,\nthe homunculus technique must be sealed forever.",
+        "pt-BR": "[Kelasus]\nIndependentemente disso, a alquimia não deve ser usada desta forma! Se a alquimia deve persistir,\na técnica do homúnculo deve ser selada para sempre.",
+        "es-ES": "[Kelasus]\n¡De todas formas, la alquimia no debe usarse de esta manera! Si la alquimia ha de persistir,\nla técnica del homúnculo debe ser sellada para siempre."
     },
     "eSMkAw": {
-        "ko-KR": "[켈라서스]\n나는, 확실히 호문클루스를 만들어\n낼 수 있네. 하지만 더 이상 만들어\n내지도 않을 테고, 그 기법을 전수할\n생각도 없네.",
-        "en-US": "[Kellasus]\nI can certainly create Homunculi.\nBut I will create no more,\nnor do I have any intention\nof passing down that method.",
-        "pt-BR": "[Kellasus]\nEu certamente consigo criar Homúnculos.\nMas não criarei mais nenhum,\nnem tenho intenção de transmitir\nesse método.",
-        "es-ES": "[Kellasus]\nCiertamente, puedo crear homúnculos.\nPero no volveré a crearlos,\nni pienso transmitir\nese método a nadie."
+        "en-US": "[Kelasus]\nI can certainly create homunculi. But I will create no more,\nnor do I intend to pass on the technique.",
+        "pt-BR": "[Kelasus]\nEu certamente posso criar homúnculos. Mas não criarei mais,\nnem pretendo passar a técnica adiante.",
+        "es-ES": "[Kelasus]\nCiertamente puedo crear homúnculos. Pero no crearé más,\nni pretendo transmitir la técnica."
     },
     "eiMkAw": {
-        "ko-KR": "[켈라서스]\n................................\n후우... 이야기를 하다보니 잠시\n내가 흥분을 했군. 실례했네.\n아무튼, 내가 할 이야기는 이 정도\n뿐일세.",
-        "en-US": "[Kellasus]\n................................\nWhew... It seems I became\na bit agitated while speaking.\nForgive me. In any case,\nthat is all I have to say.",
-        "pt-BR": "[Kellasus]\n................................\nUfa... Enquanto falava, acabei\nme exaltando por um instante.\nPerdoe-me.\nDe todo modo, isso é tudo\no que tenho a dizer.",
-        "es-ES": "[Kellasus]\n................................\nUf... al hablar de esto me he exaltado\nun momento. Perdona.\nEn cualquier caso,\neso es todo lo que tengo que decir."
+        "en-US": "[Kelasus]\n................................\nPhew... I got a bit excited while talking. Forgive me.\nAnyway, that's all I have to say.",
+        "pt-BR": "[Kelasus]\n................................\nUfa... Fiquei um pouco exaltado enquanto falava. Perdoe-me.\nDe qualquer forma, isso é tudo que tenho a dizer.",
+        "es-ES": "[Kelasus]\n................................\nUf... Me exalté un poco mientras hablaba. Perdóname.\nDe todas formas, eso es todo lo que tengo que decir."
     },
     "eyMkAw": {
-        "ko-KR": "[켈라서스]\n지금부터는 스스로 해보게나.\n반드시 후회하게 될 호문클루스에\n대해서는 관여하지 말고... 다른\n길을 찾아서 정점에 다다를 수\n있도록 하게.",
-        "en-US": "[Kellasus]\nFrom now on, try things for yourself.\nDo not involve yourself with Homunculi,\nwhich you will surely come to regret...\nFind another path, and reach\nthe pinnacle through it.",
-        "pt-BR": "[Kellasus]\nA partir de agora, tente por si mesmo.\nNão se envolva com Homúnculos,\ndos quais certamente se arrependerá...\nEncontre outro caminho\npara alcançar o ápice.",
-        "es-ES": "[Kellasus]\nA partir de ahora, inténtalo por ti mismo.\nNo te involucres con los homúnculos,\nde los que sin duda acabarías arrepintiéndote...\nBusca otro camino\npara alcanzar la cima."
+        "en-US": "[Kelasus]\nFrom now on, you must figure things out on your own.\nDo not involve yourself with homunculi, which you will surely regret...\nSeek another path and strive to reach the pinnacle.",
+        "pt-BR": "[Kelasus]\nDe agora em diante, você deve descobrir as coisas por conta própria.\nNão se envolva com homúnculos, algo de que certamente se arrependerá...\nBusque outro caminho e se esforce para alcançar o ápice.",
+        "es-ES": "[Kelasus]\nDe ahora en adelante, debes descubrir las cosas por tu cuenta.\nNo te involucres con los homúnculos, algo de lo que seguramente te arrepentirás...\nBusca otro camino y esfuérzate por alcanzar la cima."
     },
     "fCMkAw": {
-        "ko-KR": "[켈라서스]\n또 왔군. 이번엔 무슨\n일인가? 전에도 말했듯, 난\n더 이상 자네에게 해줄 말이\n없는데... 특별한 용건이라도?",
-        "en-US": "[Kellasus]\nYou have come again. What is it\nthis time? As I said before,\nI have nothing more to tell you...\nIs there some special business?",
-        "pt-BR": "[Kellasus]\nVeio de novo. O que foi desta vez?\nComo eu disse antes, não tenho\nmais nada a dizer a você...\nHá algum assunto especial?",
-        "es-ES": "[Kellasus]\nHas vuelto. ¿Qué ocurre esta vez?\nComo ya te dije antes,\nno tengo nada más que decirte...\n¿Tienes algún asunto especial?"
+        "en-US": "[Kelasus]\nYou're back. What is it this time? As I said before,\nI have nothing more to say to you... Do you have a specific errand?",
+        "pt-BR": "[Kelasus]\nVocê voltou. O que é desta vez? Como eu disse antes,\nnão tenho mais nada a lhe dizer... Você tem algum assunto específico?",
+        "es-ES": "[Kelasus]\nHas vuelto. ¿Qué pasa esta vez? Como dije antes,\nno tengo nada más que decirte... ¿Tienes algún asunto específico?"
     },
     "fSMkAw": {
-        "ko-KR": "호문클루스 기술을 배우고 싶습니다.",
-        "en-US": "I wish to learn the Homunculus technique.",
-        "pt-BR": "Quero aprender a técnica de Homúnculo.",
-        "es-ES": "Quiero aprender la técnica de los homúnculos."
+        "en-US": "I want to learn the Homunculus technique.",
+        "pt-BR": "Quero aprender a técnica do Homúnculo.",
+        "es-ES": "Quiero aprender la técnica del Homúnculo."
     },
     "fiMkAw": {
-        "ko-KR": "아무 것도 아닙니다.",
-        "en-US": "It is nothing.",
+        "en-US": "It's nothing.",
         "pt-BR": "Não é nada.",
         "es-ES": "No es nada."
     },
     "fyMkAw": {
-        "ko-KR": "[{0}]\n저에게 호문클루스 기술을\n가르쳐 주세요.",
-        "en-US": "[{0}]\nPlease teach me\nthe Homunculus technique.",
-        "pt-BR": "[{0}]\nEnsine-me a técnica de Homúnculo.",
-        "es-ES": "[{0}]\nEnséñeme la técnica\nde los homúnculos."
+        "en-US": "[{0}]\nPlease teach me the homunculus technique.",
+        "pt-BR": "[{0}]\nPor favor, ensine-me a técnica do homúnculo.",
+        "es-ES": "[{0}]\nPor favor, enséñame la técnica del homúnculo."
     },
     "gCMkAw": {
-        "ko-KR": "[켈라서스]\n..........?\n잘 못들었는데... 호문어쩌구\n뭐라고 한듯 했다만... 내가\n잘못 들은건가? 다시 한 번\n말해보게.",
-        "en-US": "[Kellasus]\n..........?\nI did not hear you well... It sounded\nas though you said something about\nHomuncu-something... Did I hear wrong?\nSay it once more.",
-        "pt-BR": "[Kellasus]\n..........?\nNão ouvi direito... Parece que você disse\nalgo como Homún... alguma coisa...\nSerá que ouvi errado?\nDiga novamente.",
-        "es-ES": "[Kellasus]\n..........?\nNo te he oído bien... Creo que has dicho\nalgo de homún... ¿qué?\n¿Lo he oído mal?\nRepítelo una vez más."
+        "en-US": "[Kelasus]\n..........?\nI must have misheard... You said something like homu-something\"\"...\"\nDid I hear wrong? Say it again.",
+        "pt-BR": "[Kelasus]\n..........?\nDevo ter ouvido mal... Você disse algo como \"homu-alguma coisa\"...\nEu ouvi errado? Diga novamente.",
+        "es-ES": "\"[Kelasus]\n..........?\nDebo haber oído mal... Dijiste algo como \"homu-algo\"...\n¿Escuché mal? Dilo de nuevo.\""
     },
     "gSMkAw": {
-        "ko-KR": "[켈라서스]\n.........................",
-        "en-US": "[Kellasus]\n.........................",
-        "pt-BR": "[Kellasus]\n.........................",
-        "es-ES": "[Kellasus]\n........................."
+        "en-US": "[Kelasus]\n.........................",
+        "pt-BR": "[Kelasus]\n.........................",
+        "es-ES": "[Kelasus]\n........................."
     },
     "giMkAw": {
-        "ko-KR": "[켈라서스]\n자네, 전에 내가 강조하면서까지\n말했던 걸로 기억하고 있네만?\n호문클루스 관련으로는 절대\n손을 대지 말라고 했던 것\n같은데, 제정신인가?",
-        "en-US": "[Kellasus]\nI seem to recall emphasizing this\nto you before, did I not?\nI believe I told you never to touch\nanything related to Homunculi.\nAre you in your right mind?",
-        "pt-BR": "[Kellasus]\nEu me lembro de ter dito isso\ncom bastante ênfase antes.\nAcho que falei para jamais tocar\nem assuntos relacionados a Homúnculos.\nVocê está em seu juízo perfeito?",
-        "es-ES": "[Kellasus]\nRecuerdo haberte dicho antes\ncon mucho énfasis\nque no tocaras nada relacionado\ncon los homúnculos.\n¿Estás en tu sano juicio?"
+        "en-US": "[Kelasus]\nI remember emphasizing this to you before, didn't I?\nI believe I told you never to touch anything related to homunculi.\nAre you in your right mind?",
+        "pt-BR": "[Kelasus]\nLembro-me de ter enfatizado isso a você antes, não foi?\nAcredito ter lhe dito para nunca tocar em nada relacionado a homúnculos.\nVocê está no seu juízo perfeito?",
+        "es-ES": "[Kelasus]\nRecuerdo haberte enfatizado esto antes, ¿no es así?\nCreo haberte dicho que nunca tocaras nada relacionado con los homúnculos.\n¿Estás en tu sano juicio?"
     },
     "gyMkAw": {
-        "ko-KR": "[켈라서스]\n나는 자네가 아니라 그 어떠한\n인물이 온다 한들, 호문클루스\n기술을 전수해줄 생각은 추호도\n없네! 게다가 자네는 호문클루스에\n관한 지식도 없으면서 갑자기\n무슨 말을 하는건가!",
-        "en-US": "[Kellasus]\nWhether it is you or any other person\nwho comes to me, I have not the slightest\nintention of passing down\nthe Homunculus technique! Moreover,\nyou know nothing of Homunculi,\nso what are you suddenly saying!",
-        "pt-BR": "[Kellasus]\nNem a você, nem a qualquer outra pessoa\nque viesse até mim, eu teria a menor intenção\nde transmitir a técnica de Homúnculo!\nAlém disso, você nem tem conhecimento\nsobre Homúnculos, então o que está\ndizendo de repente?",
-        "es-ES": "[Kellasus]\n¡No tengo la menor intención\nde transmitir la técnica de los homúnculos\nni a ti ni a ninguna otra persona\nque pudiera venir!\nAdemás, ni siquiera tienes conocimientos\nsobre homúnculos,\n¿a qué viene esto de repente?"
+        "en-US": "[Kelasus]\nI have not the slightest intention of teaching the homunculus technique\nto anyone, not just you! Besides, you have no knowledge about homunculi,\nso what are you suddenly talking about!",
+        "pt-BR": "[Kelasus]\nNão tenho a menor intenção de ensinar a técnica do homúnculo\na ninguém, não apenas a você! Além disso, você não tem conhecimento sobre homúnculos,\nentão do que está falando de repente!",
+        "es-ES": "[Kelasus]\nNo tengo la menor intención de enseñar la técnica del homúnculo\na nadie, ¡no solo a ti! Además, no tienes conocimiento sobre homúnculos,\n¡así que de qué estás hablando de repente!"
     },
     "hCMkAw": {
-        "ko-KR": "[켈라서스]\n불쾌하군... 잘 알지도 못하면서\n그렇게 쉽게 그런 신의 영역을\n침범한다는 생각따윈 하지도\n말아! 절대 가르쳐 줄 수 없어!",
-        "en-US": "[Kellasus]\nHow unpleasant... Do not even think\nso lightly of trespassing into\nsuch a divine realm when you know\nnothing of it! I absolutely cannot\nteach you!",
-        "pt-BR": "[Kellasus]\nIsso é desagradável... Sem sequer saber bem,\nnão pense de forma tão leviana\nem invadir esse domínio divino!\nJamais posso ensinar!",
-        "es-ES": "[Kellasus]\nMe resulta desagradable... ¡Ni se te ocurra\npensar con tanta ligereza\nen invadir un dominio divino\nque ni siquiera comprendes!\n¡No puedo enseñártelo, jamás!"
+        "en-US": "[Kelasus]\nHow unpleasant... Don't even think of intruding upon God's domain so easily\nwithout knowing anything about it! I absolutely cannot teach you!",
+        "pt-BR": "[Kelasus]\nQue desagradável... Nem pense em invadir o domínio de Deus tão facilmente\nsem saber nada sobre isso! Eu absolutamente não posso ensiná-lo!",
+        "es-ES": "[Kelasus]\nQué desagradable... ¡Ni siquiera pienses en invadir el dominio de Dios tan fácilmente\nsin saber nada al respecto! ¡Absolutamente no puedo enseñarte!"
     },
     "hSMkAw": {
-        "ko-KR": "[켈라서스]\n기분 나쁘네. 말 걸지 말고\n내 눈 앞에서 사라지게!",
-        "en-US": "[Kellasus]\nYou displease me. Do not speak to me,\nand disappear from my sight!",
-        "pt-BR": "[Kellasus]\nEstou irritado. Não fale comigo\ne desapareça da minha frente!",
-        "es-ES": "[Kellasus]\nMe has puesto de mal humor.\nNo me hables y desaparece de mi vista."
+        "en-US": "[Kelasus]\nThis is disgusting. Don't talk to me, just disappear from my sight!",
+        "pt-BR": "[Kelasus]\nIsso é repugnante. Não fale comigo, apenas desapareça da minha vista!",
+        "es-ES": "[Kelasus]\nEsto es repugnante. ¡No me hables, solo desaparece de mi vista!"
     },
     "hiMkAw": {
-        "ko-KR": "[켈라서스]\n별 싱겁기는. 쓸데 없는 곳에\n투자할 시간이 있으면\n자기단련이나 더 하게나.",
-        "en-US": "[Kellasus]\nHow pointless. If you have time\nto waste on such useless matters,\ndevote it to further self-discipline.",
-        "pt-BR": "[Kellasus]\nQue coisa sem graça. Se tem tempo\npara investir em coisas inúteis,\ndedique-se mais ao seu aprimoramento pessoal.",
-        "es-ES": "[Kellasus]\nQué insustancial. Si tienes tiempo\npara invertirlo en cosas inútiles,\ndedícalo a disciplinarte más."
+        "en-US": "[Kelasus]\nHow boring. If you have time to invest in useless things,\nspend it on self-discipline instead.",
+        "pt-BR": "[Kelasus]\nQue entediante. Se você tem tempo para investir em coisas inúteis,\ngaste-o em autodisciplina.",
+        "es-ES": "[Kelasus]\nQué aburrido. Si tienes tiempo para invertir en cosas inútiles,\ngástalo en autodisciplina."
     },
     "hyMkAw": {
-        "ko-KR": "[켈라서스]\n말 걸지 말랬지?! 불쾌하니까\n썩 물러나게. 아무리 그래도\n난 호문클루스 기술을 전수해줄\n생각은 전혀 없네.",
-        "en-US": "[Kellasus]\nI told you not to speak to me?!\nYou displease me, so leave at once.\nNo matter what, I have absolutely\nno intention of passing down\nthe Homunculus technique.",
-        "pt-BR": "[Kellasus]\nEu disse para não falar comigo, não disse?!\nÉ desagradável, então retire-se.\nPor mais que insista, não tenho\na menor intenção de transmitir\na técnica de Homúnculo.",
-        "es-ES": "[Kellasus]\n¡¿No te dije que no me hablaras?!\nMe resulta desagradable, así que lárgate.\nHagas lo que hagas, no tengo\nninguna intención de transmitirte\nla técnica de los homúnculos."
+        "en-US": "[Kelasus]\nDid I not tell you not to talk to me?! It's unpleasant, so begone.\nNo matter what, I have no intention of teaching the homunculus technique.",
+        "pt-BR": "[Kelasus]\nEu não lhe disse para não falar comigo?! É desagradável, então vá embora.\nNão importa o que aconteça, não tenho intenção de ensinar a técnica do homúnculo.",
+        "es-ES": "[Kelasus]\n¡¿No te dije que no me hablaras?! Es desagradable, así que lárgate.\nPase lo que pase, no tengo intención de enseñar la técnica del homúnculo."
     },
     "iCMkAw": {
-        "ko-KR": "[켈라서스]\n...끈질기군 자네. 아무리 그래도\n난 자네에게 호문클루스 기술을\n전수해줄 생각은 추호도 없어.\n뭣보다도 자네는 호문클루스에\n대한 지식도 없단 말이야!",
-        "en-US": "[Kellasus]\n...You are persistent. No matter what,\nI have not the slightest intention\nof passing down the Homunculus technique\nto you. Above all, you do not even\npossess knowledge of Homunculi!",
-        "pt-BR": "[Kellasus]\n...Você é insistente. Por mais que insista,\nnão tenho a menor intenção\nde transmitir a técnica de Homúnculo\na você.\nAcima de tudo, você nem possui\nconhecimento sobre Homúnculos!",
-        "es-ES": "[Kellasus]\n...Eres persistente. Hagas lo que hagas,\nno tengo la menor intención\nde transmitirte la técnica de los homúnculos.\nPor encima de todo,\n¡ni siquiera tienes conocimientos\nsobre ellos!"
+        "en-US": "[Kelasus]\n...You're persistent. Still, I have not the slightest intention\nof teaching you the homunculus technique.\nMore than anything, you lack knowledge about homunculi!",
+        "pt-BR": "[Kelasus]\n...Você é persistente. Ainda assim, não tenho a menor intenção\nde lhe ensinar a técnica do homúnculo.\nMais do que tudo, você não tem conhecimento sobre homúnculos!",
+        "es-ES": "[Kelasus]\n...Eres persistente. Aun así, no tengo la menor intención\nde enseñarte la técnica del homúnculo.\n¡Más que nada, no tienes conocimiento sobre los homúnculos!"
     },
     "iSMkAw": {
-        "ko-KR": "배워왔습니다.",
-        "en-US": "I have learned.",
-        "pt-BR": "Eu aprendi.",
-        "es-ES": "La he aprendido."
+        "en-US": "I have studied up.",
+        "pt-BR": "Eu estudei.",
+        "es-ES": "He estudiado."
     },
     "iiMkAw": {
-        "ko-KR": "[{0}]\n호문클루스에 대해서 많이\n배워왔습니다. 스크라자드씨,\n케시비언씨, 브런쳐씨에게\n호문클루스에 대해서 배우고\n왔기 때문에 지식은 확실히\n입력되어 있습니다.",
-        "en-US": "[{0}]\nI have learned a great deal\nabout Homunculi. I learned\nabout Homunculi from Mr. Skrajjad,\nMr. Keshibien, and Mr. Broncher,\nso the knowledge has been\nproperly entered.",
-        "pt-BR": "[{0}]\nAprendi muito sobre Homúnculos.\nAprendi sobre Homúnculos\ncom o Sr. Skrajjad,\no Sr. Keshibien e o Sr. Broncher,\nentão certamente tenho\no conhecimento registrado.",
-        "es-ES": "[{0}]\nHe aprendido mucho\nsobre los homúnculos.\nHe aprendido sobre ellos\ndel señor Skrajjad,\nel señor Keshibien\ny el señor Broncher,\nasí que mis conocimientos\nestán bien asentados."
+        "en-US": "[{0}]\nI have learned a great deal about homunculi. I've studied homunculi\nfrom Mr. Scrazard, Mr. Keshibian, and Mr. Brunscher,\nso I have the knowledge properly input.",
+        "pt-BR": "[{0}]\nAprendi muito sobre homúnculos. Estudei homúnculos\ncom o Sr. Scrazard, Sr. Keshibian e Sr. Brunscher,\nentão tenho o conhecimento devidamente assimilado.",
+        "es-ES": "[{0}]\nHe aprendido mucho sobre los homúnculos. Estudié homúnculos\ncon el Sr. Scrazard, el Sr. Keshibian y el Sr. Brunscher,\nasí que tengo el conocimiento debidamente asimilado."
     },
     "iyMkAw": {
-        "ko-KR": "[켈라서스]\n흠.. 그렇단 말인가. 그렇다면\n지식에 대해서 테스트를 해\n보도록 하겠네. 진짜로 잘\n배워왔다면 이 테스트도 잘\n넘어갈 수 있겠지!",
-        "en-US": "[Kellasus]\nHmm.. Is that so? Then I shall\ntest your knowledge. If you truly\nlearned well, you should be able\nto pass this test as well!",
-        "pt-BR": "[Kellasus]\nHmm... É mesmo?\nEntão vou testar\nseu conhecimento.\nSe você realmente aprendeu bem,\ntambém conseguirá passar\npor este teste!",
-        "es-ES": "[Kellasus]\nMmm... ¿Así que eso dices?\nEntonces pondré a prueba\ntus conocimientos.\nSi de verdad has aprendido bien,\ntambién podrás superar esta prueba."
+        "en-US": "[Kelasus]\nHmm... Is that so. Then I shall test your knowledge.\nIf you truly studied well, you should be able to pass this test!",
+        "pt-BR": "[Kelasus]\nHmm... É mesmo? Então testarei seu conhecimento.\nSe você realmente estudou bem, deverá ser capaz de passar neste teste!",
+        "es-ES": "[Kelasus]\nHmm... ¿Es así? Entonces pondré a prueba tu conocimiento.\n¡Si realmente estudiaste bien, deberías poder pasar esta prueba!"
     },
     "jCMkAw": {
-        "ko-KR": "[켈라서스]\n몇가지 문제를 내겠네. 정확히\n답을 써주게.",
-        "en-US": "[Kellasus]\nI shall ask several questions.\nWrite the answers accurately.",
-        "pt-BR": "[Kellasus]\nFarei algumas perguntas.\nEscreva as respostas corretamente.",
-        "es-ES": "[Kellasus]\nTe haré varias preguntas.\nResponde con precisión."
+        "en-US": "[Kelasus]\nI will ask you a few questions. Write down the correct answers.",
+        "pt-BR": "[Kelasus]\nFarei algumas perguntas. Escreva as respostas corretas.",
+        "es-ES": "[Kelasus]\nTe haré algunas preguntas. Escribe las respuestas correctas."
     },
     "jSMkAw": {
-        "ko-KR": "[켈라서스]\n첫번째 문제. 호문클루스를\n영원히 평온하게 해주는 1레벨\n마스터 스킬의 이름은 무엇인가?",
-        "en-US": "[Kellasus]\nFirst question. What is the name\nof the Level 1 master skill\nthat lets a Homunculus rest\nin eternal peace?",
-        "pt-BR": "[Kellasus]\nPrimeira pergunta. Qual é o nome\nda habilidade mestre de nível 1\nque concede repouso eterno\nao Homúnculo?",
-        "es-ES": "[Kellasus]\nPrimera pregunta. ¿Cuál es el nombre\nde la habilidad maestra de nivel 1\nque permite al homúnculo\nreposar eternamente en paz?"
+        "en-US": "[Kelasus]\nFirst question. What is the name of the level 1 master skill\nthat grants eternal peace to a homunculus?",
+        "pt-BR": "[Kelasus]\nPrimeira pergunta. Qual é o nome da habilidade mestre de nível 1\nque concede paz eterna a um homúnculo?",
+        "es-ES": "[Kelasus]\nPrimera pregunta. ¿Cuál es el nombre de la habilidad maestra de nivel 1\nque otorga paz eterna a un homúnculo?"
     },
     "jiMkAw": {
-        "ko-KR": "안심",
-        "en-US": "Peace of Mind",
-        "pt-BR": "Tranquilidade",
-        "es-ES": "Descanso"
+        "en-US": "Rest",
+        "pt-BR": "Descansar",
+        "es-ES": "Descansar"
     },
     "jyMkAw": {
-        "ko-KR": "음식",
         "en-US": "Food",
         "pt-BR": "Comida",
         "es-ES": "Comida"
     },
     "kCMkAw": {
-        "ko-KR": "안식",
         "en-US": "Vaporize",
         "pt-BR": "Vaporizar",
         "es-ES": "Evaporización"
     },
     "kSMkAw": {
-        "ko-KR": "인식",
         "en-US": "Recognition",
         "pt-BR": "Reconhecimento",
         "es-ES": "Reconocimiento"
     },
     "kiMkAw": {
-        "ko-KR": "[켈라서스]\n흠. 정답이군. 그렇다면 두번째\n문제. 콜 호문클루스 스킬을\n쓸 때 필요한 재료로서, 호문\n클루스의 배아상태인 아이템\n이름은 무엇인가?",
-        "en-US": "[Kellasus]\nHmm. Correct. Then the second\nquestion. As the material required\nwhen using the Call Homunculus skill,\nwhat is the name of the item\nthat is the embryonic state\nof a Homunculus?",
-        "pt-BR": "[Kellasus]\nHmm. Correto. Então, segunda\npergunta. Como se chama o item\nnecessário para usar a habilidade\nDespertar Homunculus,\no estado embrionário do Homúnculo?",
-        "es-ES": "[Kellasus]\nMmm. Es correcto. Entonces,\nsegunda pregunta. Como material necesario\npara usar la habilidad Invocar Homúnculo,\n¿cuál es el nombre del objeto\nque representa el estado embrionario\ndel homúnculo?"
+        "en-US": "[Kelasus]\nHmm. Correct. Then the second question.\nWhat is the name of the item, the embryonic state of a homunculus,\nrequired as a material when using the Call Homunculus skill?",
+        "pt-BR": "[Kelasus]\nHmm. Correto. Então a segunda pergunta.\nQual é o nome do item, o estado embrionário de um homúnculo,\nnecessário como material ao usar a habilidade Chamar Homúnculo?",
+        "es-ES": "[Kelasus]\nHmm. Correcto. Entonces la segunda pregunta.\n¿Cuál es el nombre del objeto, el estado embrionario de un homúnculo,\nnecesario como material al usar la habilidad Llamar Homúnculo?"
     },
     "kyMkAw": {
-        "ko-KR": "엠브리오",
         "en-US": "Embryo",
         "pt-BR": "Embrião",
         "es-ES": "Embrión"
     },
     "lCMkAw": {
-        "ko-KR": "플라스크",
         "en-US": "Flask",
         "pt-BR": "Frasco",
         "es-ES": "Frasco"
     },
     "lSMkAw": {
-        "ko-KR": "현자의 돌",
-        "en-US": "Red Stone",
+        "en-US": "Philosopher's Stone",
         "pt-BR": "Pedra Filosofal",
-        "es-ES": "Piedra roja"
+        "es-ES": "Piedra Filosofal"
     },
     "liMkAw": {
-        "ko-KR": "모룰라",
         "en-US": "Morula",
         "pt-BR": "Mórula",
         "es-ES": "Mórula"
     },
     "lyMkAw": {
-        "ko-KR": "[켈라서스]\n잘했군. 하지만 아직이야.\n세번째 문제. 5레벨 마스터\n스킬로서, 죽은 호문클루스를\n살려낼 수 있는 스킬의\n이름은 무엇인가?",
-        "en-US": "[Kellasus]\nWell done. But not yet.\nThird question. As a Level 5 master\nskill, what is the name of the skill\nthat can revive a dead Homunculus?",
-        "pt-BR": "[Kellasus]\nMuito bem. Mas ainda não acabou.\nTerceira pergunta. Como se chama\na habilidade mestre de nível 5\ncapaz de reviver\num Homúnculo morto?",
-        "es-ES": "[Kellasus]\nBien hecho. Pero aún no hemos terminado.\nTercera pregunta. Como habilidad maestra\nde nivel 5, ¿cuál es el nombre\nde la habilidad capaz de resucitar\na un homúnculo muerto?"
+        "en-US": "[Kelasus]\nWell done. But it's not over yet.\nThird question. What is the name of the level 5 master skill\nthat can revive a dead homunculus?",
+        "pt-BR": "[Kelasus]\nMuito bem. Mas ainda não acabou.\nTerceira pergunta. Qual é o nome da habilidade mestre de nível 5\nque pode reviver um homúnculo morto?",
+        "es-ES": "[Kelasus]\nBien hecho. Pero aún no ha terminado.\nTercera pregunta. ¿Cuál es el nombre de la habilidad maestra de nivel 5\nque puede revivir a un homúnculo muerto?"
     },
     "mCMkAw": {
-        "ko-KR": "우로보로스",
         "en-US": "Ouroboros",
         "pt-BR": "Ouroboros",
-        "es-ES": "Uroboros"
+        "es-ES": "Ouroboros"
     },
     "mSMkAw": {
-        "ko-KR": "리사이클 호문클루스",
         "en-US": "Recycle Homunculus",
         "pt-BR": "Reciclar Homúnculo",
-        "es-ES": "Reciclar homúnculo"
+        "es-ES": "Reciclar Homúnculo"
     },
     "miMkAw": {
-        "ko-KR": "리턴 엠브리오",
         "en-US": "Return Embryo",
         "pt-BR": "Retornar Embrião",
-        "es-ES": "Retorno Embrión"
+        "es-ES": "Retornar Embrión"
     },
     "myMkAw": {
-        "ko-KR": "리저렉션 호문클루스",
-        "en-US": "Homunculus Resurrection",
-        "pt-BR": "Ressuscitar Homunculus",
+        "en-US": "Resurrect Homunculus",
+        "pt-BR": "Ressurreição de Homúnculo",
         "es-ES": "Resurrección de Homúnculo"
     },
     "nCMkAw": {
-        "ko-KR": "[켈라서스]\n호오... 정말로 공부를 많이\n해온 듯하군. 생각보다 더 훌륭한\n애송이 연금술사일세, 자네는.\n아니, 앞 날이 기대되는 한 명의\n당당한 연금술사라고 하는 것이\n더 옳을까?",
-        "en-US": "[Kellasus]\nHooh... It seems you truly\nstudied a great deal. You are\na finer fledgling Alchemist\nthan I expected. Or perhaps\nit would be more proper to call you\na proud Alchemist with a promising future?",
-        "pt-BR": "[Kellasus]\nOh... Parece que você realmente\nestudou bastante.\nVocê é um alquimista novato\nmais excelente do que eu imaginava.\nNão, talvez seja mais correto dizer\num alquimista respeitável\ncom futuro promissor.",
-        "es-ES": "[Kellasus]\nOh... parece que de verdad has estudiado\nmucho. Eres un alquimista novato\nmás excelente de lo que esperaba.\nNo, quizá sería más correcto llamarte\nun alquimista digno\ncon un futuro prometedor."
+        "en-US": "[Kelasus]\nHo ho... You really have studied a lot. You are a more excellent rookie alchemist than I thought.\nOr would it be more correct to call you a proud alchemist with a promising future?",
+        "pt-BR": "[Kelasus]\nHo ho... Você realmente estudou muito. Você é um alquimista novato mais excelente do que eu pensava.\nOu seria mais correto chamá-lo de um alquimista orgulhoso com um futuro promissor?",
+        "es-ES": "[Kelasus]\nHo ho... Realmente has estudiado mucho. Eres un alquimista novato más excelente de lo que pensaba.\n¿O sería más correcto llamarte un alquimista orgulloso con un futuro prometedor?"
     },
     "nSMkAw": {
-        "ko-KR": "[켈라서스]\n하지만, 그렇다 한들 호문클루스\n기술은 전수해 줄 수 없어. 아무리\n자네가 나에게 인정받을 정도로\n이렇게 성장했다 한들, 안 되는 건\n안 되는 거야.",
-        "en-US": "[Kellasus]\nHowever, even so, I cannot pass down\nthe Homunculus technique. No matter\nhow much you have grown enough\nto earn my recognition, what cannot\nbe done cannot be done.",
-        "pt-BR": "[Kellasus]\nMas, mesmo assim, não posso transmitir\na técnica de Homúnculo.\nPor mais que você tenha crescido\na ponto de obter meu reconhecimento,\no que não pode ser feito,\nnão pode ser feito.",
-        "es-ES": "[Kellasus]\nSin embargo, aun así,\nno puedo transmitirte la técnica\nde los homúnculos.\nPor mucho que hayas crecido\nhasta merecer mi reconocimiento,\nlo que no puede ser, no puede ser."
+        "en-US": "[Kelasus]\nNevertheless, I cannot teach you the homunculus technique.\nNo matter how much you have grown to earn my recognition,\nwhat cannot be done cannot be done.",
+        "pt-BR": "[Kelasus]\nNo entanto, não posso lhe ensinar a técnica do homúnculo.\nNão importa o quanto você tenha crescido para ganhar meu reconhecimento,\no que não pode ser feito, não pode ser feito.",
+        "es-ES": "[Kelasus]\nNo obstante, no puedo enseñarte la técnica del homúnculo.\nNo importa cuánto hayas crecido para ganar mi reconocimiento,\nlo que no se puede hacer, no se puede hacer."
     },
     "niMkAw": {
-        "ko-KR": "[켈라서스]\n자네는 확실히 호문클루스 기술을\n전수받으면 확실히 잘 해낼 수\n있을 거라고 생각해. 자네만큼의\n지식을 가지고 있는 연금술사도\n흔하지는 않거든.",
-        "en-US": "[Kellasus]\nI do believe that if you received\nthe Homunculus technique,\nyou would certainly handle it well.\nAlchemists with as much knowledge\nas you are not common.",
-        "pt-BR": "[Kellasus]\nAcredito que, se você recebesse\na técnica de Homúnculo,\ncertamente se sairia bem.\nNão são muitos os alquimistas\nque possuem tanto conhecimento\nquanto você.",
-        "es-ES": "[Kellasus]\nCreo que, si recibieras la técnica\nde los homúnculos,\nsin duda podrías hacerlo bien.\nNo abundan los alquimistas\ncon tantos conocimientos como tú."
+        "en-US": "[Kelasus]\nI believe that if you were taught the homunculus technique, you would surely do well.\nAlchemists with as much knowledge as you are not common.",
+        "pt-BR": "[Kelasus]\nAcredito que se lhe ensinassem a técnica do homúnculo, você certamente se sairia bem.\nAlquimistas com tanto conhecimento quanto você não são comuns.",
+        "es-ES": "[Kelasus]\nCreo que si te enseñaran la técnica del homúnculo, ciertamente lo harías bien.\nLos alquimistas con tanto conocimiento como tú no son comunes."
     },
     "nyMkAw": {
-        "ko-KR": "[켈라서스]\n하지만, 내가 전수해주지 않는\n이유는 결코 자네가 소질이 없어\n그런 게 아니라네. 전에도 말했지만\n호문클루스는 하나의 생명이고,\n그러한 생명을 인간 주제에\n왈가왈부해서는 안 되는 것일세.",
-        "en-US": "[Kellasus]\nHowever, the reason I will not\npass it down is certainly not because\nyou lack talent. As I said before,\na Homunculus is a form of life,\nand mere humans must not speak lightly\nof such life.",
-        "pt-BR": "[Kellasus]\nMas o motivo pelo qual não a transmito\nnão é, de forma alguma, porque você\nnão tem talento.\nComo eu disse antes, o Homúnculo\né uma forma de vida,\ne humanos não devem discutir\nsobre essa vida como bem entendem.",
-        "es-ES": "[Kellasus]\nPero la razón por la que no te la transmito\nno es, en absoluto, que carezcas de talento.\nComo ya dije antes,\nun homúnculo es una vida,\ny los humanos no deben decidir\narbitrariamente sobre esa vida."
+        "en-US": "[Kelasus]\nBut the reason I won't teach you is not because you lack talent.\nAs I said before, a homunculus is a life,\nand a mere human should not pass judgment on such a life.",
+        "pt-BR": "[Kelasus]\nMas a razão pela qual não vou ensiná-lo não é porque lhe falta talento.\nComo eu disse antes, um homúnculo é uma vida,\ne um mero humano não deveria julgar tal vida.",
+        "es-ES": "[Kelasus]\nPero la razón por la que no voy a enseñarte no es porque te falte talento.\nComo dije antes, un homúnculo es una vida,\ny un mero humano no debería juzgar tal vida."
     },
     "oCMkAw": {
-        "ko-KR": "[켈라서스]\n그것이 내가 호문클루스 기술을\n봉인한 이유라네. 연금술사들은\n진리만을 추구한 나머지, 생명의\n존귀함을 기억하지 못하고 있어.",
-        "en-US": "[Kellasus]\nThat is the reason I sealed away\nthe Homunculus technique. Alchemists,\nin their pursuit of truth alone,\nhave forgotten the sanctity of life.",
-        "pt-BR": "[Kellasus]\nEsse é o motivo pelo qual selei\na técnica de Homúnculo.\nOs alquimistas, por buscarem apenas\na verdade, acabaram se esquecendo\nda dignidade da vida.",
-        "es-ES": "[Kellasus]\nEsa es la razón por la que sellé\nla técnica de los homúnculos.\nLos alquimistas, al perseguir solo la verdad,\nhan olvidado la dignidad de la vida."
+        "en-US": "[Kelasus]\nThat is why I sealed the homunculus technique.\nAlchemists pursue only the truth and forget the preciousness of life.",
+        "pt-BR": "[Kelasus]\nÉ por isso que selei a técnica do homúnculo.\nOs alquimistas buscam apenas a verdade e esquecem a preciosidade da vida.",
+        "es-ES": "[Kelasus]\nEs por eso que sellé la técnica del homúnculo.\nLos alquimistas buscan solo la verdad y olvidan el valor de la vida."
     },
     "oSMkAw": {
-        "ko-KR": "[켈라서스]\n바보같으니... 뭘 위한 연금술이란\n말인가? 자신만을 위한 길 앞에\n대체 뭐가 있단 말인가. 아니,\n생명의 존귀함을 무시하고서는\n자신만의 길이라고도 할 수가\n없어!",
-        "en-US": "[Kellasus]\nHow foolish... What is alchemy for?\nWhat could possibly lie ahead\non a path meant only for oneself?\nNo, if one ignores the sanctity of life,\nit cannot even be called one's own path!",
-        "pt-BR": "[Kellasus]\nQue tolice... Para que serve a alquimia?\nO que existe diante de um caminho\nvoltado apenas para si mesmo?\nNão, se a dignidade da vida é ignorada,\nnem se pode chamar isso\nde um caminho próprio!",
-        "es-ES": "[Kellasus]\nQué necedad... ¿Para qué sirve\nla alquimia, entonces?\n¿Qué puede haber al final de un camino\nque solo existe para uno mismo?\nNo, si se ignora la dignidad de la vida,\nni siquiera puede llamarse\nun camino propio."
+        "en-US": "[Kelasus]\nHow foolish... What is the point of alchemy?\nWhat is there on a path meant only for oneself?\nNo, you cannot even call it your own path while ignoring the preciousness of life!",
+        "pt-BR": "[Kelasus]\nQue tolice... Qual é o objetivo da alquimia?\nO que há em um caminho destinado apenas a si mesmo?\nNão, você não pode nem mesmo chamá-lo de seu próprio caminho enquanto ignora a preciosidade da vida!",
+        "es-ES": "[Kelasus]\nQué tontería... ¿Cuál es el objetivo de la alquimia?\n¿Qué hay en un camino destinado solo a uno mismo?\n¡No, ni siquiera puedes llamarlo tu propio camino mientras ignoras el valor de la vida!"
     },
     "oiMkAw": {
-        "ko-KR": "[켈라서스]\n아무튼 그런 관계로, 자네가\n아니라 다른 누구라도 호문클루스\n기술은 전수해줄 수 없어.\n이 것만은 나도 양보할 수 없는\n문제일세.",
-        "en-US": "[Kellasus]\nIn any case, for that reason,\nwhether it is you or anyone else,\nI cannot pass down the Homunculus\ntechnique. This is the one matter\non which I cannot yield.",
-        "pt-BR": "[Kellasus]\nDe todo modo, por esse motivo,\nnão posso transmitir a técnica\nde Homúnculo a você\nnem a qualquer outra pessoa.\nEste é um assunto no qual\neu também não posso ceder.",
-        "es-ES": "[Kellasus]\nEn cualquier caso, por esa razón,\nno puedo transmitir la técnica\nde los homúnculos,\nni a ti ni a nadie.\nEn esto no puedo ceder."
+        "en-US": "[Kelasus]\nAnyway, for that reason, I cannot teach the homunculus technique\nto you or anyone else. This is the one thing I cannot compromise on.",
+        "pt-BR": "[Kelasus]\nDe qualquer forma, por essa razão, não posso ensinar a técnica do homúnculo\na você ou a qualquer outra pessoa. Esta é a única coisa em que não posso ceder.",
+        "es-ES": "[Kelasus]\nDe todas formas, por esa razón, no puedo enseñar la técnica del homúnculo\na ti ni a ninguna otra persona. Esta es la única cosa en la que no puedo ceder."
     },
     "oyMkAw": {
-        "ko-KR": "[켈라서스]\n이 정도 문제도 맞추지 못하고\n뭐 공부를 해왔다고? 웃기지\n말게나. 썩 사라져! 거짓말까지\n하다니, 정말 최악일세.",
-        "en-US": "[Kellasus]\nYou cannot even answer a question\nof this level, and you claim to have\nstudied? Do not make me laugh.\nDisappear at once! To even lie about it,\nyou truly are the worst.",
-        "pt-BR": "[Kellasus]\nVocê não consegue acertar nem uma questão\ndesse nível e diz que estudou?\nNão me faça rir.\nDesapareça! Chegar ao ponto de mentir,\nisso é realmente o pior.",
-        "es-ES": "[Kellasus]\n¿Dices que has estudiado y ni siquiera\npuedes responder una pregunta\nde este nivel? No me hagas reír.\n¡Desaparece de aquí!\nIncluso has mentido, eres lo peor."
+        "en-US": "[Kelasus]\nYou couldn't even answer these questions and you claim to have studied?\nDon't be ridiculous. Get lost! Lying like that is the worst.",
+        "pt-BR": "[Kelasus]\nVocê não conseguiu nem responder a essas perguntas e afirma ter estudado?\nNão seja ridículo. Suma daqui! Mentir assim é o pior.",
+        "es-ES": "[Kelasus]\n¿Ni siquiera pudiste responder a estas preguntas y afirmas haber estudiado?\nNo seas ridículo. ¡Lárgate! Mentir así es lo peor."
     },
     "pCMkAw": {
-        "ko-KR": "[켈라서스]\n자네를 인정하기는 하지만,\n그것과 호문클루스 기술 전수는\n별개의 문제일세. 포기하게나.",
-        "en-US": "[Kellasus]\nI acknowledge you,\nbut that and passing down\nthe Homunculus technique\nare separate matters. Give up.",
-        "pt-BR": "[Kellasus]\nEu reconheço você,\nmas isso e transmitir a técnica\nde Homúnculo são assuntos separados.\nDesista.",
-        "es-ES": "[Kellasus]\nReconozco tu valía,\npero eso y transmitirte la técnica\nde los homúnculos\nson asuntos distintos. Desiste."
+        "en-US": "[Kelasus]\nAlthough I acknowledge you, that is a separate issue from teaching the homunculus technique.\nGive it up.",
+        "pt-BR": "[Kelasus]\nEmbora eu o reconheça, isso é uma questão separada de ensinar a técnica do homúnculo.\nDesista.",
+        "es-ES": "[Kelasus]\nAunque te reconozco, eso es un asunto separado de enseñar la técnica del homúnculo.\nRíndete."
     },
     "pSMkAw": {
-        "ko-KR": "[켈라서스]\n또 왔나? 끈질긴 연금술사로군.\n하긴, 연금술사들은 대부분\n끈기있고 포기라는 것을 모르는\n인간들이긴 하지...",
-        "en-US": "[Kellasus]\nYou have come again? What a persistent\nAlchemist you are. Then again,\nmost Alchemists are persistent humans\nwho do not know how to give up...",
-        "pt-BR": "[Kellasus]\nVeio de novo? Você é um alquimista insistente.\nBem, a maioria dos alquimistas\né mesmo persistente\ne não conhece a palavra desistir...",
-        "es-ES": "[Kellasus]\n¿Has vuelto otra vez? Qué alquimista\ntan obstinado.\nAunque, en efecto, la mayoría de alquimistas\nson personas tenaces\nque no conocen la palabra rendición..."
+        "en-US": "[Kelasus]\nBack again? You're a persistent alchemist.\nWell, most alchemists are persistent people who don't know how to give up...",
+        "pt-BR": "[Kelasus]\nDe volta outra vez? Você é um alquimista persistente.\nBem, a maioria dos alquimistas são pessoas persistentes que não sabem desistir...",
+        "es-ES": "[Kelasus]\n¿Has vuelto otra vez? Eres un alquimista persistente.\nBueno, la mayoría de los alquimistas son personas persistentes que no saben rendirse..."
     },
     "piMkAw": {
-        "ko-KR": "조금 다른 이야기를 하려고 왔습니다.",
-        "en-US": "I came to speak of something different.",
+        "en-US": "I came to talk about something a little different.",
         "pt-BR": "Vim falar sobre algo um pouco diferente.",
-        "es-ES": "He venido a hablar de otra cosa."
+        "es-ES": "Vine a hablar de algo un poco diferente."
     },
     "pyMkAw": {
-        "ko-KR": "[{0}]\n이번에는 조금 다른 이야기를\n하려고 왔습니다. 제 이야기를\n듣고 나서 말씀해주세요.",
-        "en-US": "[{0}]\nThis time, I came to speak\nof something different.\nPlease listen to what I have to say\nbefore you answer.",
-        "pt-BR": "[{0}]\nDesta vez, vim falar sobre\nalgo um pouco diferente.\nOuça minha história\ne depois me responda.",
-        "es-ES": "[{0}]\nEsta vez he venido a hablar\nde algo distinto.\nEscuche mi historia\ny luego respóndame."
+        "en-US": "[{0}]\nI came to talk about something a little different this time.\nPlease hear me out before you say anything.",
+        "pt-BR": "[{0}]\nVim falar sobre algo um pouco diferente desta vez.\nPor favor, ouça-me antes de dizer qualquer coisa.",
+        "es-ES": "[{0}]\nVine a hablar de algo un poco diferente esta vez.\nPor favor, escúchame antes de que digas algo."
     },
     "qCMkAw": {
-        "ko-KR": "[켈라서스]\n다른 이야기? 의외로군. 뭐 가끔은\n정도에서 벗어난 이야기도 진리로\n가는 길이 될 수 있는 것이긴\n하지. 그래, 뭐든 말해 보게나.",
-        "en-US": "[Kellasus]\nSomething different? Unexpected.\nWell, sometimes a story that strays\nfrom the proper path can also become\na road toward truth.\nVery well, say whatever you wish.",
-        "pt-BR": "[Kellasus]\nOutra história? Inesperado.\nBem, às vezes uma conversa fora do caminho\ntambém pode se tornar um caminho\npara a verdade.\nSim, diga o que quiser.",
-        "es-ES": "[Kellasus]\n¿Otra cosa? Qué inesperado.\nBueno, a veces una conversación\napartada del camino también puede\nser una vía hacia la verdad.\nBien, habla de lo que quieras."
+        "en-US": "[Kelasus]\nSomething different? How unexpected. Well, occasionally stepping outside the lines\ncan also be a path to the truth. Alright, say whatever you want.",
+        "pt-BR": "[Kelasus]\nAlgo diferente? Que inesperado. Bem, ocasionalmente sair dos trilhos\ntambém pode ser um caminho para a verdade. Muito bem, diga o que quiser.",
+        "es-ES": "[Kelasus]\n¿Algo diferente? Qué inesperado. Bueno, ocasionalmente salirse de los rieles\ntambién puede ser un camino hacia la verdad. Muy bien, di lo que quieras."
     },
     "qSMkAw": {
-        "ko-KR": "[{0}]\n켈라서스씨는 가족이 있고,\n아들이 한 명 있다고 알고\n있습니다.",
-        "en-US": "[{0}]\nI understand that you have a family,\nMr. Kellasus,\nand that you have one son.",
-        "pt-BR": "[{0}]\nEu sei que o Sr. Kellasus tem família\ne um filho.",
-        "es-ES": "[{0}]\nTengo entendido que usted,\nseñor Kellasus, tiene familia\ny un hijo."
+        "en-US": "[{0}]\nI know that Mr. Kelasus has a family and one son.",
+        "pt-BR": "[{0}]\nSei que o Sr. Kelasus tem uma família e um filho.",
+        "es-ES": "[{0}]\nSé que el Sr. Kelasus tiene una familia y un hijo."
     },
     "qiMkAw": {
-        "ko-KR": "[켈라서스]\n음? 아아. 그래. 가족이 있고\n귀여운 자식놈이 하나 있지. 정말\n내 아들이지만 눈에 넣어도 아프지\n않을 정도로 귀여운 자식이라네.\n정말...내가 살아가는데 있어서\n최고의 원동력이지.",
-        "en-US": "[Kellasus]\nHm? Ahh. Yes. I have a family,\nand one dear child. Though he is\nmy own son, he is so precious\nthat I would not mind putting him\nin my eye. Truly... he is\nthe greatest driving force in my life.",
-        "pt-BR": "[Kellasus]\nHmm? Ah, sim. Tenho família\ne um filho adorável.\nEmbora seja meu filho,\nele é tão querido que nem doeria\ncolocá-lo nos olhos.\nRealmente... ele é a maior força motriz\nda minha vida.",
-        "es-ES": "[Kellasus]\n¿Mmm? Ah, sí.\nTengo familia y un hijo adorable.\nAunque sea mi hijo,\nes tan querido que no me dolería\nmeterlo en mis propios ojos.\nEn verdad... es mi mayor fuerza\npara seguir viviendo."
+        "en-US": "[Kelasus]\nHm? Ah, yes. I have a family and one adorable child.\nHe's my son, so adorable it wouldn't hurt to put him in my eyes.\nTruly... he's my greatest motivation in life.",
+        "pt-BR": "[Kelasus]\nHm? Ah, sim. Tenho uma família e um filho adorável.\nEle é meu filho, tão adorável que não doeria colocá-lo nos meus olhos.\nVerdadeiramente... ele é minha maior motivação na vida.",
+        "es-ES": "[Kelasus]\n¿Hm? Ah, sí. Tengo una familia y un hijo adorable.\nEs mi hijo, tan adorable que no me dolería ponerlo en mis ojos.\nVerdaderamente... es mi mayor motivación en la vida."
     },
     "qyMkAw": {
-        "ko-KR": "[켈라서스]\n이런 말 하기는 굉장히 미안하지만,\n아내보다도 아들이 더 힘이 되는 것\n같네. 허허... 이크, 내가 이런 말\n했다는 것은 비밀일세. 어디까지나\n아들보다 덜할지도 모른다는거지,\n중요하지 않다는 말이 아니거든...",
-        "en-US": "[Kellasus]\nI feel quite sorry to say this,\nbut I think my son gives me\neven more strength than my wife.\nHoho... Oh dear, keep it secret\nthat I said such a thing. I only mean\nshe may be slightly less than my son,\nnot that she is unimportant...",
-        "pt-BR": "[Kellasus]\nSinto muito por dizer isto,\nmas acho que meu filho me dá\nainda mais força que minha esposa.\nHaha... Opa, isso que eu disse\né segredo. Quero dizer apenas\nque talvez seja menos que meu filho,\nnão que ela não seja importante...",
-        "es-ES": "[Kellasus]\nMe sabe muy mal decir esto,\npero creo que mi hijo me da\nmás fuerzas incluso que mi esposa.\nJa, ja... Uy, que esto quede en secreto.\nSolo digo que quizá sea menos que mi hijo,\nno que ella no sea importante..."
+        "en-US": "[Kelasus]\nI'm very sorry to say this, but my son gives me more strength than my wife.\nHehe... Eek, this must be our secret. I don't mean he's less important,\njust that my wife might be slightly less... anyway, it's not that she's unimportant...",
+        "pt-BR": "[Kelasus]\nSinto muito dizer isso, mas meu filho me dá mais força do que minha esposa.\nHehe... Eek, isso deve ser nosso segredo. Não quero dizer que ele é menos importante,\napenas que minha esposa pode ser um pouco menos... de qualquer forma, não é que ela não seja importante...",
+        "es-ES": "[Kelasus]\nLamento mucho decir esto, pero mi hijo me da más fuerza que mi esposa.\nJeje... Eek, esto debe ser nuestro secreto. No quiero decir que él sea menos importante,\nsolo que mi esposa puede ser un poco menos... de todas formas, no es que ella no sea importante..."
     },
     "rCMkAw": {
-        "ko-KR": "[{0}]\n그 아들이 매우 아팠던 적이 있다고\n들었는데요, 그 때의 기분은\n어떠하셨나요?",
-        "en-US": "[{0}]\nI heard that your son\nwas once gravely ill.\nHow did you feel then?",
-        "pt-BR": "[{0}]\nOuvi dizer que esse filho esteve\nmuito doente.\nComo o senhor se sentiu naquela época?",
-        "es-ES": "[{0}]\nHe oído que ese hijo estuvo\nmuy enfermo una vez.\n¿Cómo se sintió entonces?"
+        "en-US": "[{0}]\nI heard that son was once very ill. How did you feel back then?",
+        "pt-BR": "[{0}]\nOuvi dizer que esse filho esteve muito doente uma vez. Como você se sentiu naquela época?",
+        "es-ES": "[{0}]\nEscuché que ese hijo estuvo muy enfermo una vez. ¿Cómo te sentiste en ese entonces?"
     },
     "rSMkAw": {
-        "ko-KR": "[켈라서스]\n..................\n생각하고 싶지도 않군. 정말 그\n녀석을 살리기 위해서는 어떠한\n일이라도 할 수 있을 것만 같았네.\n아니, 그 어떠한 일이라도 했었을\n걸세.",
-        "en-US": "[Kellasus]\n..................\nI do not even wish to think of it.\nI truly felt that I could do anything\nto save that boy.\nNo, I would have done anything.",
-        "pt-BR": "[Kellasus]\n..................\nNem quero pensar nisso.\nEu sentia que poderia fazer\nqualquer coisa para salvá-lo.\nNão, eu teria feito\nqualquer coisa.",
-        "es-ES": "[Kellasus]\n..................\nNi siquiera quiero pensarlo.\nDe verdad sentí que podría hacer\ncualquier cosa para salvarlo.\nNo, habría hecho cualquier cosa."
+        "en-US": "[Kelasus]\n..................\nI don't even want to think about it. I felt like I could do anything to save that kid.\nNo, I would have done anything.",
+        "pt-BR": "[Kelasus]\n..................\nNão quero nem pensar nisso. Senti que poderia fazer qualquer coisa para salvar aquele garoto.\nNão, eu teria feito qualquer coisa.",
+        "es-ES": "[Kelasus]\n..................\nNi siquiera quiero pensarlo. Sentí que podía hacer cualquier cosa para salvar a ese niño.\nNo, habría hecho cualquier cosa."
     },
     "riMkAw": {
-        "ko-KR": "[켈라서스]\n결국 별거 아닌 병이었고, 금방 다\n나아서 건강을 되찾았지만...만약\n죽는 병이었다 한들 나는 무슨\n짓을 해서라도 살렸을걸세.",
-        "en-US": "[Kellasus]\nIn the end, it was no serious illness,\nand he recovered quickly and regained\nhis health... but even if it had been\na fatal illness, I would have saved him\nno matter what I had to do.",
-        "pt-BR": "[Kellasus]\nNo fim, não era uma doença grave,\ne ele logo se curou e recuperou a saúde...\nMas, mesmo que fosse uma doença fatal,\neu o teria salvado\nfazendo o que fosse necessário.",
-        "es-ES": "[Kellasus]\nAl final no fue una enfermedad grave\ny se recuperó pronto,\npero si hubiera sido una enfermedad mortal,\nlo habría salvado a cualquier precio."
+        "en-US": "[Kelasus]\nIn the end, it was a minor illness, and he quickly recovered his health...\nbut if it had been a fatal disease, I would have saved him by any means necessary.",
+        "pt-BR": "[Kelasus]\nNo final, foi uma doença leve, e ele rapidamente recuperou a saúde...\nmas se tivesse sido uma doença fatal, eu o teria salvado por qualquer meio necessário.",
+        "es-ES": "[Kelasus]\nAl final, fue una enfermedad leve, y rápidamente recuperó la salud...\npero si hubiera sido una enfermedad fatal, lo habría salvado por cualquier medio necesario."
     },
     "ryMkAw": {
-        "ko-KR": "[{0}]\n그렇기 때문에, 호문클루스 기술이\n필요한 것이라 생각합니다만.\n죽어가는 소중한 이를 살려야 하지\n않겠습니까?",
-        "en-US": "[{0}]\nThat is why I believe\nthe Homunculus technique is necessary.\nShould one not save\na precious person who is dying?",
-        "pt-BR": "[{0}]\nJustamente por isso, acredito\nque a técnica de Homúnculo\nseja necessária.\nNão devemos salvar uma pessoa querida\nque está morrendo?",
-        "es-ES": "[{0}]\nPrecisamente por eso creo\nque la técnica de los homúnculos\nes necesaria.\n¿Acaso no hay que salvar\na quienes son preciosos para nosotros\ncuando están muriendo?"
+        "en-US": "[{0}]\nThat is why I think the homunculus technique is necessary.\nShouldn't we save a dying loved one?",
+        "pt-BR": "[{0}]\nÉ por isso que acho que a técnica do homúnculo é necessária.\nNão deveríamos salvar um ente querido à beira da morte?",
+        "es-ES": "[{0}]\nEs por eso que creo que la técnica del homúnculo es necesaria.\n¿No deberíamos salvar a un ser querido al borde de la muerte?"
     },
     "sCMkAw": {
-        "ko-KR": "[켈라서스]\n그게 무슨 말인가. 호문클루스가\n어찌 죽어가는 자를 살릴 수 있단\n말인가.",
-        "en-US": "[Kellasus]\nWhat do you mean by that?\nHow could a Homunculus\nsave one who is dying?",
-        "pt-BR": "[Kellasus]\nO que quer dizer com isso?\nComo um Homúnculo poderia salvar\nalguém que está morrendo?",
-        "es-ES": "[Kellasus]\n¿Qué quieres decir?\n¿Cómo podría un homúnculo\nsalvar a alguien que se está muriendo?"
+        "en-US": "[Kelasus]\nWhat do you mean? How can homunculi save the dying?",
+        "pt-BR": "[Kelasus]\nO que você quer dizer? Como os homúnculos podem salvar os moribundos?",
+        "es-ES": "[Kelasus]\n¿Qué quieres decir? ¿Cómo pueden los homúnculos salvar a los moribundos?"
     },
     "sSMkAw": {
-        "ko-KR": "[{0}]\n전에 연금술은 모든 학문이 모여진\n초학문이라 하셨죠. 그리고 그\n궁극은 진리에 다다르는 것이라고\n하셨고요. 그 중간단계 중 하나가\n생명을 창조하는... 호문클루스를\n창조하는 것이라고.",
-        "en-US": "[{0}]\nYou said before that alchemy is\na super-discipline formed by gathering\nall fields of study. And you said\nits ultimate goal is to reach truth.\nOne of the intermediate stages\nis creating life... creating Homunculi.",
-        "pt-BR": "[{0}]\nO senhor disse antes que a alquimia\né uma superdisciplina que reúne\ntodos os estudos.\nE disse que o objetivo final\né alcançar a verdade.\nUma das etapas intermediárias\né criar vida... criar Homúnculos.",
-        "es-ES": "[{0}]\nAntes dijo que la alquimia\nes una superdisciplina que reúne\ntodos los saberes.\nY también dijo que su objetivo último\nes alcanzar la verdad.\nUno de los pasos intermedios\nes crear vida...\ncrear homúnculos."
+        "en-US": "[{0}]\nYou said before that alchemy is a meta-discipline combining all fields of study.\nAnd that its ultimate goal is to reach the truth.\nOne of the intermediate steps is creating life... creating homunculi.",
+        "pt-BR": "[{0}]\nVocê disse antes que a alquimia é uma metadisciplina que combina todos os campos de estudo.\nE que seu objetivo final é alcançar a verdade.\nUm dos passos intermediários é criar vida... criar homúnculos.",
+        "es-ES": "[{0}]\nDijiste antes que la alquimia es una metadisciplina que combina todos los campos de estudio.\nY que su objetivo final es alcanzar la verdad.\nUno de los pasos intermedios es crear vida... crear homúnculos."
     },
     "siMkAw": {
-        "ko-KR": "[켈라서스]\n그렇네. 인간은 진리를 손에 넣고\n싶어하는 욕심때문에 결코 범해서는\n안 되는 영역까지 가버렸고, 생명을\n가지고 놀기까지 이르렀네.",
-        "en-US": "[Kellasus]\nIndeed. Because humans desired\nto obtain truth, they reached\na realm they must never violate,\nand even came to toy with life.",
-        "pt-BR": "[Kellasus]\nSim. Humanos, por sua ganância\nde querer obter a verdade,\nacabaram chegando a um domínio\nque jamais deveriam violar\ne até passaram a brincar com a vida.",
-        "es-ES": "[Kellasus]\nAsí es. Por el deseo de poseer la verdad,\nel ser humano ha llegado hasta un territorio\nque jamás debía violar,\ne incluso ha acabado jugando con la vida."
+        "en-US": "[Kelasus]\nThat is correct. Humans, due to their greed to obtain the truth,\nhave gone into domains that must never be trespassed, even leading to playing with life.",
+        "pt-BR": "[Kelasus]\nIsso está correto. Os humanos, devido à sua ganância de obter a verdade,\nentraram em domínios que nunca deveriam ser transgredidos, chegando até a brincar com a vida.",
+        "es-ES": "[Kelasus]\nEso es correcto. Los humanos, debido a su codicia por obtener la verdad,\nhan entrado en dominios que nunca debieron ser transgredidos, llegando incluso a jugar con la vida."
     },
     "syMkAw": {
-        "ko-KR": "[{0}]\n호문클루스 기술을 생명창조라고만\n생각하면 안됩니다. 그 생명을\n만들어내고, 계속 연구하는 과정에서\n발견되는 인간의 생명의 헛점을\n보완할 수도 있는 것 아닌가요?",
-        "en-US": "[{0}]\nYou must not think of the Homunculus\ntechnique only as the creation of life.\nIn the process of creating that life\nand continuing to study it,\ncould it not also make up for flaws\nin human life that are discovered?",
-        "pt-BR": "[{0}]\nNão se deve pensar na técnica\nde Homúnculo apenas como criação de vida.\nNo processo de criar essa vida\ne continuar pesquisando,\nnão seria possível complementar\nas falhas da vida humana\nque fossem descobertas?",
-        "es-ES": "[{0}]\nNo debemos considerar la técnica\nde los homúnculos solo como creación de vida.\nEn el proceso de crear esa vida\ny seguir investigándola,\n¿no podríamos descubrir defectos\nen la vida humana\ny complementarlos?"
+        "en-US": "[{0}]\nThe homunculus technique shouldn't be thought of merely as life creation.\nBy creating that life and continuing to research it,\nmight we not also be able to supplement the flaws in human life?",
+        "pt-BR": "[{0}]\nA técnica do homúnculo não deveria ser pensada meramente como criação de vida.\nAo criar essa vida e continuar a pesquisá-la,\nnão poderíamos também ser capazes de suplementar as falhas na vida humana?",
+        "es-ES": "[{0}]\nLa técnica del homúnculo no debería ser pensada meramente como creación de vida.\nAl crear esa vida y continuar investigándola,\n¿no podríamos también ser capaces de suplir las fallas en la vida humana?"
     },
     "tCMkAw": {
-        "ko-KR": "[{0}]\n그런 연구를 계속하다 보면 지금은\n당연히 죽을 사람을 살릴 수 있는\n방법이 발견되지 않겠습니까?",
-        "en-US": "[{0}]\nIf such research continues, might we not\ndiscover a way to save people\nwho today would naturally die?",
-        "pt-BR": "[{0}]\nSe essa pesquisa continuar,\nnão seria possível descobrir um método\npara salvar pessoas que hoje\ninevitavelmente morreriam?",
-        "es-ES": "[{0}]\nSi esa investigación continúa,\n¿no podría descubrirse algún día\nun modo de salvar a quienes ahora\ninevitablemente morirían?"
+        "en-US": "[{0}]\nIf we continue such research, wouldn't we discover ways to save people\nwho would otherwise die, even if currently impossible?",
+        "pt-BR": "[{0}]\nSe continuarmos tal pesquisa, não descobriríamos maneiras de salvar pessoas\nque de outra forma morreriam, mesmo que atualmente impossível?",
+        "es-ES": "[{0}]\nSi continuamos tal investigación, ¿no descubriríamos maneras de salvar a personas\nque de otra forma morirían, aunque actualmente sea imposible?"
     },
     "tSMkAw": {
-        "ko-KR": "[켈라서스]\n그것은 인간의 오만일세. 인간의\n잣대로 모든 것을 판단해서, 다른\n생명의 소중함을 짓밟다니! 결코\n용서할 수 없는 일이야.",
-        "en-US": "[Kellasus]\nThat is human arrogance.\nTo judge everything by human standards\nand trample upon the value\nof other life! That is something\nI can never forgive.",
-        "pt-BR": "[Kellasus]\nIsso é arrogância humana.\nJulgar tudo pelos padrões humanos\ne pisotear o valor de outras vidas!\nIsso é algo que jamais posso perdoar.",
-        "es-ES": "[Kellasus]\nEso es arrogancia humana.\n¡Juzgarlo todo con la vara humana\ny pisotear la importancia de otras vidas!\nEso jamás puede perdonarse."
+        "en-US": "[Kelasus]\nThat is human arrogance. Judging everything by human standards\nand trampling on the preciousness of other lives! That is unforgivable.",
+        "pt-BR": "[Kelasus]\nIsso é arrogância humana. Julgar tudo pelos padrões humanos\ne pisotear a preciosidade de outras vidas! Isso é imperdoável.",
+        "es-ES": "[Kelasus]\nEso es arrogancia humana. ¡Juzgar todo según los estándares humanos\ny pisotear el valor de otras vidas! Eso es imperdonable."
     },
     "tiMkAw": {
-        "ko-KR": "[{0}]\n우리는 인간입니다. 인간이 인간을\n먼저 생각하는 것도 어쩔 수 없는\n일입니다. 비록 연구단계에서 생명의\n희생이 있더라도, 앞으로는 그런\n생명의 희생이 없게 하기 위한\n디딤돌로 생각해야 한다고 생각해요.",
-        "en-US": "[{0}]\nWe are human. It is inevitable\nthat humans think first of humans.\nEven if life is sacrificed\nduring the research stage,\nI believe we must see it as\na stepping stone toward preventing\nsuch sacrifices of life in the future.",
-        "pt-BR": "[{0}]\nNós somos humanos.\nÉ inevitável que humanos pensem\nprimeiro em humanos.\nMesmo que haja sacrifício de vidas\nna etapa de pesquisa,\nacredito que devemos considerá-lo\num alicerce para que, no futuro,\nnão haja mais tais sacrifícios.",
-        "es-ES": "[{0}]\nSomos humanos.\nQue los humanos piensen primero\nen los humanos es algo inevitable.\nAunque haya sacrificios de vidas\ndurante la investigación,\ncreo que deben considerarse\nun peldaño para que en el futuro\nno haya más sacrificios de esas vidas."
+        "en-US": "[{0}]\nWe are humans. It's inevitable that humans prioritize humans.\nEven if there is sacrifice of life in the research stage,\nI think we should consider it a stepping stone to prevent such sacrifice in the future.",
+        "pt-BR": "[{0}]\nSomos humanos. É inevitável que humanos priorizem humanos.\nMesmo que haja sacrifício de vida no estágio de pesquisa,\nacho que deveríamos considerá-lo um trampolim para evitar tal sacrifício no futuro.",
+        "es-ES": "[{0}]\nSomos humanos. Es inevitable que los humanos prioricen a los humanos.\nIncluso si hay sacrificio de vida en la etapa de investigación,\ncreo que deberíamos considerarlo un trampolín para evitar tal sacrificio en el futuro."
     },
     "tyMkAw": {
-        "ko-KR": "[{0}]\n원래 있는 생명을 쓸 수 없으니\n어쩔수 없이 창조하는 겁니다.\n비록 죄스러운 일이긴 하지만\n계속 발전시키고 나아가는 것이\n지금까지 희생된 호문클루스와\n연금술사에 대한 예의가 아닐까요.",
-        "en-US": "[{0}]\nSince we cannot use existing life,\nwe create it because there is no choice.\nThough it may be sinful,\nwould continuing to develop and advance\nnot be the proper respect\ntoward the Homunculi and Alchemists\nwho have been sacrificed until now?",
-        "pt-BR": "[{0}]\nComo não podemos usar vidas já existentes,\nsomos forçados a criá-las.\nEmbora seja uma ação pecaminosa,\ncontinuar desenvolvendo e avançando\nnão seria uma forma de respeito\npelos Homúnculos e alquimistas\nque foram sacrificados até agora?",
-        "es-ES": "[{0}]\nComo no podemos usar vidas existentes,\nno queda más remedio que crearlas.\nAunque sea algo pecaminoso,\nseguir desarrollándolo y avanzar\n¿no sería una forma de mostrar respeto\na los homúnculos y alquimistas\nque han sido sacrificados hasta ahora?"
+        "en-US": "[{0}]\nSince we cannot use existing lives, we have no choice but to create them.\nAlthough it may be sinful, continuing to develop and advance\nis perhaps the proper courtesy to the homunculi and alchemists who have been sacrificed so far.",
+        "pt-BR": "[{0}]\nJá que não podemos usar vidas existentes, não temos escolha a não ser criá-las.\nEmbora possa ser pecaminoso, continuar a desenvolver e avançar\ntalvez seja a cortesia adequada aos homúnculos e alquimistas que foram sacrificados até agora.",
+        "es-ES": "[{0}]\nYa que no podemos usar vidas existentes, no tenemos más remedio que crearlas.\nAunque pueda ser pecaminoso, continuar desarrollándonos y avanzando\ntal vez sea la cortesía adecuada para los homúnculos y alquimistas que se han sacrificado hasta ahora."
     },
     "uCMkAw": {
-        "ko-KR": "[켈라서스]\n설령 그 논리가 맞다 한들, 생명은\n결코 손대서는 안 되는 것일세!\n논리만으로 해결되는 세상이\n아니지 않은가!",
-        "en-US": "[Kellasus]\nEven if that logic were correct,\nlife is never something to be touched!\nThe world cannot be resolved\nby logic alone, can it!",
-        "pt-BR": "[Kellasus]\nMesmo que essa lógica esteja correta,\na vida jamais deve ser tocada!\nO mundo não é algo que se resolva\napenas com lógica!",
-        "es-ES": "[Kellasus]\nAunque esa lógica fuera correcta,\n¡la vida es algo que jamás debe tocarse!\n¡El mundo no se resuelve solo con lógica!"
+        "en-US": "[Kelasus]\nEven if that logic is correct, life is something that must never be touched!\nIsn't this a world that cannot be solved by logic alone!",
+        "pt-BR": "[Kelasus]\nMesmo que essa lógica esteja correta, a vida é algo que nunca deve ser tocada!\nEste não é um mundo que pode ser resolvido apenas pela lógica!",
+        "es-ES": "[Kelasus]\nIncluso si esa lógica es correcta, ¡la vida es algo que nunca debe ser tocado!\n¡Este no es un mundo que pueda resolverse solo con lógica!"
     },
     "uSMkAw": {
-        "ko-KR": "[{0}]\n아드님이 아픈 적이 있다고\n하셨죠. 죽는다 한들 어떤 짓을\n하더라도 반드시 살려낸다고 하지\n않으셨나요? 그 말은 거짓입니까?",
-        "en-US": "[{0}]\nYou said your son\nwas once ill. Did you not say\nthat even if he were dying,\nyou would save him no matter what?\nWas that a lie?",
-        "pt-BR": "[{0}]\nO senhor disse que seu filho\njá esteve doente.\nNão disse que, mesmo que ele estivesse\nmorrendo, faria qualquer coisa\npara salvá-lo?\nEssa afirmação era mentira?",
-        "es-ES": "[{0}]\nDijo que su hijo estuvo enfermo, ¿verdad?\n¿No dijo que, aunque estuviera muriendo,\nharía cualquier cosa para salvarlo?\n¿Eso era mentira?"
+        "en-US": "[{0}]\nYou said your son was once ill. Didn't you say you would do anything,\neven if it meant his death, to save him? Was that a lie?",
+        "pt-BR": "[{0}]\nVocê disse que seu filho esteve doente uma vez. Não disse que faria qualquer coisa,\nmesmo que significasse a morte dele, para salvá-lo? Isso foi mentira?",
+        "es-ES": "[{0}]\nDijiste que tu hijo estuvo enfermo una vez. ¿No dijiste que harías cualquier cosa,\nincluso si eso significara su muerte, para salvarlo? ¿Era mentira?"
     },
     "uiMkAw": {
-        "ko-KR": "[켈라서스]\n웃...! 그, 그건...",
-        "en-US": "[Kellasus]\nUgh...! Th-That is...",
-        "pt-BR": "[Kellasus]\nUgh...! I-isso...",
-        "es-ES": "[Kellasus]\n¡Ugh...! E... eso..."
+        "en-US": "[Kelasus]\nWha...! Th-that is...",
+        "pt-BR": "[Kelasus]\nO quê...! I-isso é...",
+        "es-ES": "[Kelasus]\n¡Qué...! E-eso es..."
     },
     "uyMkAw": {
-        "ko-KR": "[{0}]\n아들, 아니, 자신의 소중한 인물이\n죽어갈 때 아무것도 할 수 없는\n그 때의 기분을 다른 사람에게도\n느끼게 하고 싶어요? 그리고,\n켈라서스씨는 그런 기분을 또\n느끼고 싶으신건가요?",
-        "en-US": "[{0}]\nWhen your son, no, when someone\nprecious to you is dying,\nand you can do nothing,\ndo you want others to feel\nthat same helplessness? And,\nMr. Kellasus, do you want\nto feel that way again?",
-        "pt-BR": "[{0}]\nQuando seu filho, não, quando uma pessoa\nimportante para alguém está morrendo\ne essa pessoa não pode fazer nada,\no senhor quer que outros também\nsintam esse mesmo desespero?\nE o senhor, Kellasus,\nquer sentir isso novamente?",
-        "es-ES": "[{0}]\nCuando su hijo, no,\ncuando alguien valioso para uno\nestá muriendo y no puede hacer nada,\n¿quiere que otras personas también\nsientan eso?\nY usted, señor Kellasus,\n¿quiere volver a sentirlo?"
+        "en-US": "[{0}]\nDo you want others to feel the same helplessness you felt\nwhen your son, or your loved one, was dying, unable to do anything?\nAnd do you want to feel that feeling again, Mr. Kelasus?",
+        "pt-BR": "[{0}]\nVocê quer que outros sintam o mesmo desamparo que você sentiu\nquando seu filho, ou seu ente querido, estava morrendo, incapaz de fazer qualquer coisa?\nE você quer sentir esse sentimento novamente, Sr. Kelasus?",
+        "es-ES": "[{0}]\n¿Quieres que otros sientan la misma impotencia que sentiste\ncuando tu hijo, o tu ser querido, estaba muriendo, incapaz de hacer algo?\n¿Y quieres volver a sentir ese sentimiento, Sr. Kelasus?"
     },
     "vCMkAw": {
-        "ko-KR": "[켈라서스]\n..........",
-        "en-US": "[Kellasus]\n..........",
-        "pt-BR": "[Kellasus]\n..........",
-        "es-ES": "[Kellasus]\n.........."
+        "en-US": "[Kelasus]\n..........",
+        "pt-BR": "[Kelasus]\n..........",
+        "es-ES": "[Kelasus]\n.........."
     },
     "vSMkAw": {
-        "ko-KR": "[{0}]\n그런 비참한 기분을 느끼게 하면\n안됩니다. 켈라서스씨 이외에,\n다른 인간들에게도요.",
-        "en-US": "[{0}]\nYou must not let people feel\nsuch misery. Not only you,\nMr. Kellasus,\nbut other humans as well.",
-        "pt-BR": "[{0}]\nNão se deve fazer ninguém sentir\nesse desespero.\nNem o Sr. Kellasus,\nnem outros humanos.",
-        "es-ES": "[{0}]\nNo debemos permitir que otros sientan\nuna desesperación tan miserable.\nNi usted, señor Kellasus,\nni otros seres humanos."
+        "en-US": "[{0}]\nYou must not let others feel such miserable feelings.\nNot just you, Mr. Kelasus, but other humans as well.",
+        "pt-BR": "[{0}]\nVocê não deve deixar que outros sintam sentimentos tão miseráveis.\nNão apenas você, Sr. Kelasus, mas outros humanos também.",
+        "es-ES": "[{0}]\nNo debes permitir que otros sientan esos sentimientos tan miserables.\nNo solo tú, Sr. Kelasus, sino también otros humanos."
     },
     "viMkAw": {
-        "ko-KR": "[{0}]\n신의 영역에 침범하여 생명을\n인간의 의지대로 만들었다\n죽였다 하는 것은 확실히\n해서는 안될 짓이며 엄청난\n죄일지도 모릅니다.",
-        "en-US": "[{0}]\nTrespassing into the divine realm\nto create and kill life\naccording to human will\nis certainly something that must\nnot be done, and may be\nan immense sin.",
-        "pt-BR": "[{0}]\nInvadir o domínio divino\ne criar e matar vidas\npela vontade humana\ncertamente é algo que não deveria\nser feito e talvez seja\num pecado enorme.",
-        "es-ES": "[{0}]\nInvadir el dominio divino\npara crear y destruir vida\nsegún la voluntad humana\nes, sin duda, algo que no debería hacerse\ny quizá sea un pecado terrible."
+        "en-US": "[{0}]\nTrespassing on God's domain, creating and killing life at human will...\nthat is certainly something that shouldn't be done, and may be a great sin.",
+        "pt-BR": "[{0}]\nTransgredir o domínio de Deus, criar e matar vidas à vontade humana...\nisso certamente é algo que não deveria ser feito, e pode ser um grande pecado.",
+        "es-ES": "[{0}]\nTransgredir el dominio de Dios, crear y matar vidas a voluntad humana...\neso ciertamente es algo que no debería hacerse, y puede ser un gran pecado."
     },
     "vyMkAw": {
-        "ko-KR": "[{0}]\n하지만 그것으로 인하여 구원\n받을 사람이 많이 생긴다고\n생각하면 그냥 단순한 죄로만\n치부할 수도 없는 노릇이\n아닐까요.",
-        "en-US": "[{0}]\nBut if it means that many people\nmay be saved by it,\ncan it truly be dismissed\nas nothing more than a simple sin?",
-        "pt-BR": "[{0}]\nMas se, por meio disso,\nmuitas pessoas puderem ser salvas,\nnão seria algo que não pode ser tratado\nsimplesmente como pecado?",
-        "es-ES": "[{0}]\nPero si pensamos que gracias a ello\nhabrá muchas personas salvadas,\n¿podemos realmente descartarlo\ncomo un simple pecado?"
+        "en-US": "[{0}]\nBut if it leads to saving many people,\ncan we simply dismiss it as a mere sin?",
+        "pt-BR": "[{0}]\nMas se isso levar a salvar muitas pessoas,\npodemos simplesmente descartá-lo como um mero pecado?",
+        "es-ES": "[{0}]\nPero si eso lleva a salvar a muchas personas,\n¿podemos simplemente descartarlo como un mero pecado?"
     },
     "wCMkAw": {
-        "ko-KR": "[{0}]\n인간은 살아있는 한, 다른\n생명을 죽이고, 다른 생명을\n먹고 살 수 밖에 없는 원죄를\n가지고 태어나는 존재라고\n합니다.",
-        "en-US": "[{0}]\nIt is said that as long as humans live,\nthey are born with the original sin\nof having no choice but to kill\nother lives and live\nby consuming other lives.",
-        "pt-BR": "[{0}]\nDizem que humanos nascem\ncom o pecado original de que,\nenquanto vivem, não têm escolha\na não ser matar outras vidas\ne se alimentar de outras vidas.",
-        "es-ES": "[{0}]\nSe dice que los humanos nacen\ncon el pecado original\nde no poder vivir sin matar\notras vidas\ny alimentarse de ellas."
+        "en-US": "[{0}]\nIt is said that humans are born with original sin,\nforced to kill other lives and consume other lives to survive as long as they live.",
+        "pt-BR": "[{0}]\nDiz-se que os humanos nascem com o pecado original,\nforçados a matar outras vidas e consumir outras vidas para sobreviver enquanto viverem.",
+        "es-ES": "[{0}]\nSe dice que los humanos nacen con el pecado original,\nobligados a matar otras vidas y consumir otras vidas para sobrevivir mientras vivan."
     },
     "wSMkAw": {
-        "ko-KR": "[{0}]\n그 사실은 받아들이되, 앞으로\n죄를 짓지 않겠다는 생각으로\n진지한 자세와 미안한 마음을\n가지고 꾸준히 앞으로 나아가는\n것이 진정으로 죄를 짓지 않는\n길이 아닐까요.",
-        "en-US": "[{0}]\nAccepting that fact, yet moving forward\nsteadily with a serious attitude\nand a remorseful heart,\ndetermined not to sin again\nin the future,\nmay that not be the true path\nto avoid committing sin?",
-        "pt-BR": "[{0}]\nAceitando esse fato,\nmas seguindo adiante com uma postura séria\ne um coração arrependido,\ncom a intenção de não cometer pecados\ndaqui em diante,\nnão seria esse o verdadeiro caminho\npara não pecar?",
-        "es-ES": "[{0}]\nAceptando ese hecho,\npero avanzando sin descanso\ncon una actitud seria y un corazón\narrepentido, pensando en no volver\na cometer pecados en el futuro...\n¿no sería ese el verdadero camino\npara no pecar?"
+        "en-US": "[{0}]\nAccept that fact, but with the resolve not to sin in the future,\nwith a sincere attitude and a sorry heart, steadily moving forward...\nisn't that the true path to not sinning?",
+        "pt-BR": "[{0}]\nAceite esse fato, mas com a determinação de não pecar no futuro,\ncom uma atitude sincera e um coração arrependido, avançando constantemente...\nnão é esse o verdadeiro caminho para não pecar?",
+        "es-ES": "[{0}]\nAcepta ese hecho, pero con la determinación de no pecar en el futuro,\ncon una actitud sincera y un corazón arrepentido, avanzando constantemente...\n¿no es ese el verdadero camino para no pecar?"
     },
     "wiMkAw": {
-        "ko-KR": "[{0}]\n켈라서스씨?",
-        "en-US": "[{0}]\nMr. Kellasus?",
-        "pt-BR": "[{0}]\nSr. Kellasus?",
-        "es-ES": "[{0}]\n¿Señor Kellasus?"
+        "en-US": "[{0}]\nMr. Kelasus?",
+        "pt-BR": "[{0}]\nSr. Kelasus?",
+        "es-ES": "[{0}]\n¿Sr. Kelasus?"
     },
     "wyMkAw": {
-        "ko-KR": "[켈라서스]\n..........\n조금... 생각할 시간을 주게.\n잠시... 혼자 있게 해 주게.",
-        "en-US": "[Kellasus]\n..........\nGive me... a little time to think.\nFor a while... leave me alone.",
-        "pt-BR": "[Kellasus]\n..........\nDê-me um pouco...\nde tempo para pensar.\nDeixe-me... sozinho por um momento.",
-        "es-ES": "[Kellasus]\n..........\nDame... un poco de tiempo para pensar.\nDéjame... estar solo un momento."
+        "en-US": "[Kelasus]\n..........\nGive me some... time to think.\nLet me be... alone for a while.",
+        "pt-BR": "[Kelasus]\n..........\nDê-me um... tempo para pensar.\nDeixe-me... sozinho por um tempo.",
+        "es-ES": "[Kelasus]\n..........\nDame... tiempo para pensar.\nDéjame... solo por un rato."
     },
     "xCMkAw": {
-        "ko-KR": "[{0}]\n...알겠습니다.",
-        "en-US": "[{0}]\n...Understood.",
-        "pt-BR": "[{0}]\n...Entendido.",
+        "en-US": "[{0}]\n...I understand.",
+        "pt-BR": "[{0}]\n...Eu entendo.",
         "es-ES": "[{0}]\n...Entiendo."
     },
     "xSMkAw": {
-        "ko-KR": "[켈라서스]\n휴우... 심란하군.\n뭔가 뒤통수를 크게 한 방 맞은\n듯한 충격일세.",
-        "en-US": "[Kellasus]\nWhew... I am troubled.\nIt feels as though I have been struck\nheavily on the back of the head.",
-        "pt-BR": "[Kellasus]\nUfa... Estou confuso.\nÉ como se tivesse recebido\num grande golpe na nuca.",
-        "es-ES": "[Kellasus]\nUf... estoy turbado.\nSiento como si hubiera recibido\nun fuerte golpe en la nuca."
+        "en-US": "[Kelasus]\nPhew... I'm troubled.\nIt's a shock, like being hit hard on the back of the head.",
+        "pt-BR": "[Kelasus]\nUfa... Estou perturbado.\nÉ um choque, como ser atingido com força na nuca.",
+        "es-ES": "[Kelasus]\nUf... Estoy turbado.\nEs un shock, como si me hubieran golpeado fuerte en la nuca."
     },
     "xiMkAw": {
-        "ko-KR": "[켈라서스]\n대충... 답이 나왔네.\n휴우...",
-        "en-US": "[Kellasus]\nMore or less... I have found\nan answer.\nWhew...",
-        "pt-BR": "[Kellasus]\nMais ou menos... cheguei a uma resposta.\nUfa...",
-        "es-ES": "[Kellasus]\nMás o menos... he llegado a una respuesta.\nUf..."
+        "en-US": "[Kelasus]\nI've... come to a rough conclusion.\nPhew...",
+        "pt-BR": "[Kelasus]\nEu... cheguei a uma conclusão aproximada.\nUfa...",
+        "es-ES": "[Kelasus]\nYo... he llegado a una conclusión aproximada.\nUf..."
     },
     "xyMkAw": {
-        "ko-KR": "[켈라서스]\n지금까지 내가 생각해온 것이\n옳을 수도 있고, 자네가 생각하는\n것이 옳을 수도 있네.",
-        "en-US": "[Kellasus]\nWhat I have believed until now\nmay be right, or what you believe\nmay be right.",
-        "pt-BR": "[Kellasus]\nO que pensei até agora\npode estar correto,\ne o que você pensa\ntambém pode estar correto.",
-        "es-ES": "[Kellasus]\nPuede que lo que he pensado hasta ahora\nsea correcto,\no puede que lo que tú piensas\nsea lo correcto."
+        "en-US": "[Kelasus]\nWhat I've thought all along may be right, and what you think may be right.",
+        "pt-BR": "[Kelasus]\nO que eu pensei até agora pode estar certo, e o que você pensa pode estar certo.",
+        "es-ES": "[Kelasus]\nLo que he pensado hasta ahora puede estar bien, y lo que piensas tú puede estar bien."
     },
     "yCMkAw": {
-        "ko-KR": "[켈라서스]\n하지만 역시 모르겠어... 어떤 게\n정말 옳은 것인가, 어떻게 하는\n것이 진정으로 죄를 짓지 않고\n진리를 추구할 수 있는 길인가...",
-        "en-US": "[Kellasus]\nBut I still do not know...\nWhich is truly right, and what path\nallows one to pursue truth\nwithout truly committing sin...",
-        "pt-BR": "[Kellasus]\nMas ainda não sei...\nO que é realmente correto?\nComo é possível buscar a verdade\nsem cometer pecado de verdade?",
-        "es-ES": "[Kellasus]\nPero sigo sin saberlo...\nQué es lo verdaderamente correcto,\nqué forma permite perseguir la verdad\nsin cometer pecado de verdad..."
+        "en-US": "[Kelasus]\nBut I still don't know... what is truly right,\nwhat is the path to pursue truth without committing sin...",
+        "pt-BR": "[Kelasus]\nMas ainda não sei... o que é verdadeiramente certo,\nqual é o caminho para buscar a verdade sem cometer pecado...",
+        "es-ES": "[Kelasus]\nPero aún no sé... qué es verdaderamente correcto,\ncuál es el camino para buscar la verdad sin cometer pecado..."
     },
     "ySMkAw": {
-        "ko-KR": "[켈라서스]\n하지만, 조금은 생각을 바꿔보기로\n했다네. 호문클루스 기술이 진정으로\n대중을 위해서 쓰일 가능성이\n있다면, 나는 그 가능성을\n믿어보겠노라고.",
-        "en-US": "[Kellasus]\nHowever, I have decided\nto change my thinking a little.\nIf there is a possibility\nthat the Homunculus technique\ncan truly be used for the public good,\nthen I shall believe in that possibility.",
-        "pt-BR": "[Kellasus]\nAinda assim, decidi mudar\num pouco meu pensamento.\nSe houver possibilidade de que\na técnica de Homúnculo seja usada\nverdadeiramente em benefício do público,\nacreditarei nessa possibilidade.",
-        "es-ES": "[Kellasus]\nPero he decidido cambiar un poco\nmi manera de pensar.\nSi existe la posibilidad de que\nla técnica de los homúnculos\npueda usarse verdaderamente\nen beneficio de la gente,\ncreeré en esa posibilidad."
+        "en-US": "[Kelasus]\nHowever, I've decided to change my thinking a little.\nIf there is a possibility that the homunculus technique could truly be used for the public good,\nI will believe in that possibility.",
+        "pt-BR": "[Kelasus]\nNo entanto, decidi mudar um pouco meu pensamento.\nSe há uma possibilidade de que a técnica do homúnculo possa realmente ser usada para o bem público,\nacreditarei nessa possibilidade.",
+        "es-ES": "[Kelasus]\nSin embargo, he decidido cambiar un poco mi forma de pensar.\nSi existe la posibilidad de que la técnica del homúnculo realmente pueda usarse para el bien público,\ncreeré en esa posibilidad."
     },
     "yiMkAw": {
-        "ko-KR": "[{0}]\n그... 그렇다면?...",
-        "en-US": "[{0}]\nTh-Then?...",
+        "en-US": "[{0}]\nTh-then?...",
         "pt-BR": "[{0}]\nE-então?...",
-        "es-ES": "[{0}]\nEn... entonces..."
+        "es-ES": "[{0}]\n¡¿E-Entonces?!..."
     },
     "yyMkAw": {
-        "ko-KR": "[켈라서스]\n너무 좋아하지 말게. 지금 이렇게\n생각하는 것 자체가  옳은 것인지,\n아니면 그른 것인지는...나도\n모르겠다네. 휴우...",
-        "en-US": "[Kellasus]\nDo not be too pleased. Whether\nthinking this way right now\nis itself right or wrong...\nI do not know.\nWhew...",
-        "pt-BR": "[Kellasus]\nNão fique tão feliz.\nSe pensar assim agora é correto\nou errado... eu também\nnão sei. Ufa...",
-        "es-ES": "[Kellasus]\nNo te alegres demasiado.\nYo tampoco sé si pensar así ahora\nes correcto\no equivocado... Uf..."
+        "en-US": "[Kelasus]\nDon't get too excited. I don't know whether even thinking this now is right or wrong...\nPhew...",
+        "pt-BR": "[Kelasus]\nNão fique muito animado. Não sei se mesmo pensar isso agora é certo ou errado...\nUfa...",
+        "es-ES": "[Kelasus]\nNo te emociones demasiado. No sé si incluso pensar esto ahora está bien o mal...\nUf..."
     },
     "zCMkAw": {
-        "ko-KR": "[켈라서스]\n일단은 자네를 믿어보겠네.\n호문클루스 기술을 전수해 주도록\n하지.",
-        "en-US": "[Kellasus]\nFor now, I will trust you.\nI shall pass down\nthe Homunculus technique.",
-        "pt-BR": "[Kellasus]\nPor enquanto, acreditarei em você.\nTransmitirei a técnica de Homúnculo.",
-        "es-ES": "[Kellasus]\nPor ahora confiaré en ti.\nTe transmitiré la técnica\nde los homúnculos."
+        "en-US": "[Kelasus]\nFor now, I'll trust you.\nI will teach you the homunculus technique.",
+        "pt-BR": "[Kelasus]\nPor enquanto, confiarei em você.\nVou lhe ensinar a técnica do homúnculo.",
+        "es-ES": "[Kelasus]\nPor ahora, confiaré en ti.\nTe enseñaré la técnica del homúnculo."
     },
     "zSMkAw": {
-        "ko-KR": "[켈라서스]\n이 호문클루스 기술로, 나를 충분히\n납득시켜주게. 내가 옳은 일을\n했다는 것을 확실히 인식할 수 있게\n해달란 말일세. 알겠는가?",
-        "en-US": "[Kellasus]\nWith this Homunculus technique,\nconvince me fully. Make me certain\nthat I have done the right thing.\nDo you understand?",
-        "pt-BR": "[Kellasus]\nCom esta técnica de Homúnculo,\nconvença-me plenamente.\nFaça-me reconhecer com certeza\nque fiz a coisa certa.\nEntendeu?",
-        "es-ES": "[Kellasus]\nCon esta técnica de los homúnculos,\nconvénceme por completo.\nHaz que pueda reconocer con certeza\nque hice lo correcto.\n¿Entendido?"
+        "en-US": "[Kelasus]\nWith this homunculus technique, convince me fully.\nMake me clearly recognize that I have done the right thing. Do you understand?",
+        "pt-BR": "[Kelasus]\nCom esta técnica do homúnculo, convença-me plenamente.\nFaça-me reconhecer claramente que fiz a coisa certa. Você entende?",
+        "es-ES": "[Kelasus]\nCon esta técnica del homúnculo, convénceme plenamente.\nHazme reconocer claramente que hice lo correcto. ¿Entiendes?"
     },
     "ziMkAw": {
-        "ko-KR": "[켈라서스]\n전수해 준 지식을 다시 빼앗을 수는\n없겠지만, 나를 실망시킨다면 난\n자네와 이 연금술의 세계를\n평생 원망하며 살아갈 것이야.",
-        "en-US": "[Kellasus]\nI cannot take back knowledge\nonce it has been passed down,\nbut if you disappoint me,\nI will live my life resenting you\nand this world of alchemy.",
-        "pt-BR": "[Kellasus]\nNão posso tomar de volta\no conhecimento transmitido,\nmas se você me decepcionar,\nviverei o resto da vida ressentido\ncom você e com este mundo da alquimia.",
-        "es-ES": "[Kellasus]\nNo podré arrebatarte el conocimiento\nuna vez transmitido,\npero si me decepcionas,\nviviré toda mi vida resentido\ncontigo y con este mundo de la alquimia."
+        "en-US": "[Kelasus]\nI cannot take back the knowledge I teach you, but if you disappoint me,\nI will live the rest of my life resenting you and the world of alchemy.",
+        "pt-BR": "[Kelasus]\nNão posso retirar o conhecimento que lhe ensino, mas se você me decepcionar,\nviverei o resto da minha vida ressentindo-me de você e do mundo da alquimia.",
+        "es-ES": "[Kelasus]\nNo puedo retirar el conocimiento que te enseño, pero si me decepcionas,\nviviré el resto de mi vida resentido contigo y con el mundo de la alquimia."
     },
     "zyMkAw": {
-        "ko-KR": "[켈라서스]\n자아... 지식의 정리를 위해서\n잠시 생각할 시간을 주게. 잠시\n후에 다시 말 걸도록 하게.",
-        "en-US": "[Kellasus]\nNow... Give me a little time\nto organize my knowledge.\nSpeak to me again shortly.",
-        "pt-BR": "[Kellasus]\nAgora... Dê-me um momento para organizar\nmeu conhecimento.\nFale comigo novamente\ndaqui a pouco.",
-        "es-ES": "[Kellasus]\nBien... Dame un momento para ordenar\nmis conocimientos.\nHáblame de nuevo dentro de un momento."
+        "en-US": "[Kelasus]\nNow... give me some time to organize the knowledge.\nSpeak to me again after a short while.",
+        "pt-BR": "[Kelasus]\nAgora... dê-me algum tempo para organizar o conhecimento.\nFale comigo novamente depois de um breve momento.",
+        "es-ES": "[Kelasus]\nAhora... dame algo de tiempo para organizar el conocimiento.\nHáblame de nuevo después de un breve momento."
     },
     "0CMkAw": {
-        "ko-KR": "[켈라서스]\n왔는가? 그럼 전수해주도록 하지.\n일단 호문클루스를 다루기 위한\n기본 중의 기본, ^FF0000생명윤리^000000에 대하여\n설명해주도록 하겠네.",
-        "en-US": "[Kellasus]\nYou have come? Then I shall pass it down.\nFirst, I shall explain the most basic\nof basics for handling Homunculi,\n^FF0000Bioethics^000000.",
-        "pt-BR": "[Kellasus]\nVocê veio? Então transmitirei.\nPrimeiro, explicarei\no básico do básico para lidar\ncom Homúnculos: ^FF0000Bioética^000000.",
-        "es-ES": "[Kellasus]\n¿Has venido? Entonces te la transmitiré.\nPrimero te explicaré lo más básico\nentre lo básico para manejar homúnculos:\n^FF0000Bioética^000000."
+        "en-US": "[Kelasus]\nYou're back? Then I will teach you.\nFirst, I will explain the most basic of basics for handling homunculi, ^FF0000Bioethics^000000.",
+        "pt-BR": "[Kelasus]\nVocê voltou? Então eu lhe ensinarei.\nPrimeiro, explicarei o mais básico dos básicos para lidar com homúnculos, a ^FF0000Bioética^000000.",
+        "es-ES": "[Kelasus]\n¿Has vuelto? Entonces te enseñaré.\nPrimero, explicaré lo más básico de lo básico para manejar homúnculos, la ^FF0000Bioética^000000."
     },
     "0SMkAw": {
-        "ko-KR": "[켈라서스]\n생명윤리... 그것은 생명에 대한\n사랑이라고 할 수 있지. 사랑이\n있다면 쉽게 죽이거나 험하게\n대하지는 못할 것이 아닌가?\n근본은 ^FF0000생명의 사랑스러움^000000을 알아야\n하는 것일세.",
-        "en-US": "[Kellasus]\nBioethics... It could be called\nlove for life. If there is love,\none cannot easily kill or treat\nlife roughly, can one?\nAt its root, one must know\nthe ^FF0000loveliness of life^000000.",
-        "pt-BR": "[Kellasus]\nBioética... pode ser chamada\nde amor pela vida.\nSe há amor, não se mata com facilidade\nnem se trata com dureza, não é?\nA base é conhecer ^FF0000a amabilidade da vida^000000.",
-        "es-ES": "[Kellasus]\nBioética... puede decirse que es\namor por la vida.\nSi existe amor, uno no podría matar\ncon ligereza ni tratar con crueldad.\nLa base está en conocer\n^FF0000lo adorable que es la vida^000000."
+        "en-US": "[Kelasus]\nBioethics... it can be called love for life.\nIf there is love, you cannot easily kill or mistreat it, right?\nThe foundation is knowing the ^FF0000preciousness of life^000000.",
+        "pt-BR": "[Kelasus]\nBioética... pode ser chamada de amor pela vida.\nSe há amor, você não pode facilmente matar ou maltratar, certo?\nA base é conhecer a ^FF0000preciosidade da vida^000000.",
+        "es-ES": "[Kelasus]\nBioética... se puede llamar amor por la vida.\nSi hay amor, no puedes matar o maltratar fácilmente, ¿verdad?\nLa base es conocer el ^FF0000valor de la vida^000000."
     },
     "0iMkAw": {
-        "ko-KR": "[켈라서스]\n호문클루스만 봐도 그래. 밥은\n굶고 있지 않은가, 나를 대하기가\n어색해서 불편해하지는 않는가,\n누군가에게 맞아서 다치지는\n않았나, 힘들어하지 않는가..등등.",
-        "en-US": "[Kellasus]\nJust look at Homunculi. Are they\ngoing hungry, are they uncomfortable\nbecause they feel awkward with me,\nhave they been hurt by someone,\nare they struggling.. and so on.",
-        "pt-BR": "[Kellasus]\nBasta olhar para um Homúnculo.\nEle está passando fome?\nEstá desconfortável porque se sente\nestranho ao lidar comigo?\nFoi ferido por alguém?\nEstá sofrendo? ...e assim por diante.",
-        "es-ES": "[Kellasus]\nLo mismo ocurre con los homúnculos.\n¿No están hambrientos?\n¿Se sienten incómodos porque les cuesta tratar conmigo?\n¿Los ha golpeado alguien y están heridos?\n¿Sufren...? Y tantas cosas más."
+        "en-US": "[Kelasus]\nTake homunculi for example. Is it hungry, is it uncomfortable around me,\nhas it been hurt by someone, is it struggling... and so on.",
+        "pt-BR": "[Kelasus]\nTome os homúnculos como exemplo. Está com fome, está desconfortável perto de mim,\nfoi ferido por alguém, está com dificuldades... e assim por diante.",
+        "es-ES": "[Kelasus]\nToma a los homúnculos como ejemplo. Tiene hambre, está incómodo cerca de mí,\nfue herido por alguien, está luchando... y así sucesivamente."
     },
     "0yMkAw": {
-        "ko-KR": "[켈라서스]\n그 모든 것을 항시 신경써 주며,\n사랑스럽다는 것을 느낀다면 어렵게\n생각할 것 없이 바로 그것이\n생명윤리라고 부르는 그 것일세.",
-        "en-US": "[Kellasus]\nIf you always concern yourself\nwith all of that, and feel\nthat they are lovable,\nthen without thinking too difficultly,\nthat is precisely what is called\nbioethics.",
-        "pt-BR": "[Kellasus]\nSe você se preocupa constantemente\ncom tudo isso\ne sente que ele é querido,\nnão há necessidade de pensar difícil:\nisso é exatamente o que chamamos\nde bioética.",
-        "es-ES": "[Kellasus]\nSi prestas atención constante\na todo eso\ny sientes que son seres adorables,\nsin pensarlo de forma complicada,\neso es justamente lo que se llama\nbioética."
+        "en-US": "[Kelasus]\nIf you constantly pay attention to all of that and feel its preciousness,\nthen that, without difficulty, is what we call bioethics.",
+        "pt-BR": "[Kelasus]\nSe você prestar atenção constante a tudo isso e sentir sua preciosidade,\nentão isso, sem dificuldade, é o que chamamos de bioética.",
+        "es-ES": "[Kelasus]\nSi prestas atención constante a todo eso y sientes su valor,\nentonces eso, sin dificultad, es lo que llamamos bioética."
     },
     "1CMkAw": {
-        "ko-KR": "[켈라서스]\n이름을 지어주고, 좋아하는 음식을\n알아내서 배고프지 않게 꾸준히\n먹여주고, 많은 위험에서 구해주고\n.. 그런 것들도 전부 호문클루스의\n사랑스러움을 더 알 수 있게 해주는\n것들이겠지.",
-        "en-US": "[Kellasus]\nGiving them a name, learning\ntheir favorite foods and feeding them\nsteadily so they do not go hungry,\nsaving them from many dangers\n.. all of these are things that help you\nunderstand the loveliness\nof a Homunculus even more.",
-        "pt-BR": "[Kellasus]\nDar um nome, descobrir a comida\nde que gosta e alimentá-lo constantemente\npara que não passe fome,\nsalvá-lo de muitos perigos...\nTudo isso também ajuda a conhecer melhor\na amabilidade do Homúnculo.",
-        "es-ES": "[Kellasus]\nPonerles nombre, descubrir\nsu comida favorita para alimentarlos\nconstantemente y que no pasen hambre,\nsalvarlos de muchos peligros...\nTodo eso también ayuda a comprender mejor\nlo adorables que son los homúnculos."
+        "en-US": "[Kelasus]\nGiving it a name, finding out its favorite food and feeding it regularly so it doesn't go hungry,\nsaving it from many dangers... all of these further let you know the preciousness of the homunculus.",
+        "pt-BR": "[Kelasus]\nDar-lhe um nome, descobrir sua comida favorita e alimentá-lo regularmente para que não passe fome,\nsalvá-lo de muitos perigos... tudo isso permite que você conheça ainda mais a preciosidade do homúnculo.",
+        "es-ES": "[Kelasus]\nDarle un nombre, descubrir su comida favorita y alimentarlo regularmente para que no pase hambre,\nsalvarlo de muchos peligros... todo esto te permite conocer aún más el valor del homúnculo."
     },
     "1SMkAw": {
-        "ko-KR": "[켈라서스]\n간단하지? 이론은 이렇게 간단하지만\n알고보면 상상을 초월할 정도로\n깊은 속뜻을 가지고 있네. 그것은\n자네가 앞으로 호문클루스를\n창조하고, 키워가며 스스로 깨닫도록\n하게나.",
-        "en-US": "[Kellasus]\nSimple, is it not? The theory is\nthis simple, but once you understand it,\nit contains meaning deeper\nthan imagination. You must realize\nthat yourself as you create\nand raise Homunculi from now on.",
-        "pt-BR": "[Kellasus]\nÉ simples, não é? A teoria é simples assim,\nmas, ao entendê-la, verá que possui\num significado profundo\nalém da imaginação.\nVocê deve perceber isso por si mesmo\ndaqui em diante,\ncriando e criando seu Homúnculo.",
-        "es-ES": "[Kellasus]\n¿Sencillo, verdad?\nLa teoría es así de sencilla,\npero si la comprendes, contiene\nun significado profundo\nmás allá de la imaginación.\nEso deberás descubrirlo por ti mismo\na medida que crees y críes\na tu homúnculo."
+        "en-US": "[Kelasus]\nSimple, isn't it? The theory is this simple, but upon closer inspection,\nit has a depth beyond imagination. You will realize that yourself\nas you create and raise homunculi going forward.",
+        "pt-BR": "[Kelasus]\nSimples, não é? A teoria é simples, mas examinando mais de perto,\ntem uma profundidade além da imaginação. Você perceberá isso por si mesmo\nconforme cria e cria homúnculos daqui para frente.",
+        "es-ES": "[Kelasus]\nSimple, ¿no es así? La teoría es simple, pero examinándola más de cerca,\ntiene una profundidad más allá de la imaginación. Te darás cuenta por ti mismo\nconforme crees y críes homúnculos en el futuro."
     },
     "1iMkAw": {
-        "ko-KR": "[켈라서스]\n호문클루스를 키우기 위해서는...\n이크, 이 것은 이미 케시비언씨가\n가르쳐 준 것이겠지? 여기에\n대해서는 이미 알고 있는 것일테니\n언급하지 않기로 하겠네.",
-        "en-US": "[Kellasus]\nIn order to raise Homunculi...\nOh, this is something Mr. Keshibien\nhas already taught you, is it not?\nSince you already know this,\nI shall not mention it.",
-        "pt-BR": "[Kellasus]\nPara criar um Homúnculo...\nOpa, isso o Sr. Keshibien\njá deve ter ensinado, não é?\nComo você já deve saber sobre isso,\nnão vou mencionar.",
-        "es-ES": "[Kellasus]\nPara criar un homúnculo...\nUy, esto ya te lo habrá enseñado\nel señor Keshibien, ¿verdad?\nComo seguramente ya lo sabes,\nno lo mencionaré."
+        "en-US": "[Kelasus]\nTo raise a homunculus... Eek, Mr. Keshibian has already taught you this, right?\nYou probably already know about this, so I'll refrain from mentioning it.",
+        "pt-BR": "[Kelasus]\nPara criar um homúnculo... Eek, o Sr. Keshibian já lhe ensinou isso, certo?\nVocê provavelmente já sabe sobre isso, então vou me abster de mencionar.",
+        "es-ES": "[Kelasus]\nPara crear un homúnculo... Eek, el Sr. Keshibian ya te enseñó esto, ¿verdad?\nProbablemente ya sepas sobre esto, así que me abstendré de mencionarlo."
     },
     "1yMkAw": {
-        "ko-KR": "[켈라서스]\n이론은 이 정도로 마치도록 하겠네.\n호문클루스를 창조하여, 잘 키우며\n그대의 눈으로 진실을 바라보고,\n진리에 도달할 수 있을 때까지\n힘내게나.",
-        "en-US": "[Kellasus]\nThat will conclude the theory.\nCreate Homunculi, raise them well,\nlook upon the truth with your own eyes,\nand strive until you can\nreach the truth.",
-        "pt-BR": "[Kellasus]\nA teoria termina aqui.\nCrie um Homúnculo, cuide bem dele,\nveja a verdade com seus próprios olhos\ne esforce-se até poder\nalcançar a verdade.",
-        "es-ES": "[Kellasus]\nCon esto termino la teoría.\nCrea un homúnculo, críalo bien,\ncontempla la verdad con tus propios ojos\ny esfuérzate hasta que puedas\nalcanzarla."
+        "en-US": "[Kelasus]\nI'll end the theory here. Create a homunculus, raise it well,\ngaze at the truth with your own eyes, and do your best until you can reach the truth.",
+        "pt-BR": "[Kelasus]\nTerminarei a teoria aqui. Crie um homúnculo, crie-o bem,\ncontemple a verdade com seus próprios olhos e faça o seu melhor até que possa alcançar a verdade.",
+        "es-ES": "[Kelasus]\nTerminaré la teoría aquí. Crea un homúnculo, críalo bien,\ncontempla la verdad con tus propios ojos y hazlo lo mejor que puedas hasta que puedas alcanzar la verdad."
     },
     "2CMkAw": {
-        "ko-KR": "[켈라서스]\n그럼... 잘 가게. 기왕 믿기로\n한 거, 끝까지 믿어 보겠네.\n아차, 아직 나는 자네의 이름도\n모르네. 자네의 이름은 무엇인가?",
-        "en-US": "[Kellasus]\nThen... farewell. Since I have chosen\nto believe in you, I will believe\nuntil the end. Ah, I still do not\nknow your name. What is your name?",
-        "pt-BR": "[Kellasus]\nEntão... vá bem.\nJá que decidi acreditar,\nacreditarei até o fim.\nAh, ainda nem sei seu nome.\nQual é o seu nome?",
-        "es-ES": "[Kellasus]\nEntonces... cuídate.\nYa que he decidido confiar en ti,\nlo haré hasta el final.\nAh, todavía no conozco tu nombre.\n¿Cómo te llamas?"
+        "en-US": "[Kelasus]\nThen... farewell. Since I've decided to trust you, I'll trust you to the end.\nOh, I don't even know your name yet. What is your name?",
+        "pt-BR": "[Kelasus]\nEntão... adeus. Já que decidi confiar em você, confiarei em você até o fim.\nOh, nem sei seu nome ainda. Qual é o seu nome?",
+        "es-ES": "[Kelasus]\nEntonces... adiós. Ya que decidí confiar en ti, confiaré en ti hasta el final.\nOh, ni siquiera sé tu nombre aún. ¿Cuál es tu nombre?"
     },
     "2SMkAw": {
-        "ko-KR": "[{0}]\n제 이름은...\n {0}\n입니다.",
         "en-US": "[{0}]\nMy name is...\n {0}\n.",
         "pt-BR": "[{0}]\nMeu nome é...\n {0}\n.",
         "es-ES": "[{0}]\nMi nombre es...\n {0}\n."
     },
     "2iMkAw": {
-        "ko-KR": "[켈라서스]\n그래...{0}인가...\n좋은 이름이군. 그 이름, 확실히\n기억해두었네.\n잘 가게나. 미래의 위대한\n연금술사 {0}!!",
-        "en-US": "[Kellasus]\nI see... {0}, is it...\nA fine name. I will be sure\nto remember it.\nFarewell. Future great\nAlchemist {0}!!",
-        "pt-BR": "[Kellasus]\nEntendo... {0}, então...\nÉ um bom nome. Guardarei esse nome\ncom certeza.\nVá bem. Futuro grande\nalquimista {0}!!",
-        "es-ES": "[Kellasus]\nYa veo... {0}...\nEs un buen nombre.\nLo recordaré bien.\nCuídate, futuro gran alquimista\n{0}!!"
+        "en-US": "[Kelasus]\nI see... {0}...\nThat's a good name. I've memorized it well.\nFarewell. Future great alchemist {0}!!",
+        "pt-BR": "[Kelasus]\nEntendo... {0}...\nÉ um bom nome. Memorizei-o bem.\nAdeus. Futuro grande alquimista {0}!!",
+        "es-ES": "[Kelasus]\nYa veo... {0}...\nEs un buen nombre. Lo he memorizado bien.\nAdiós. ¡¡Futuro gran alquimista {0}!!"
     },
     "2yMkAw": {
-        "ko-KR": "[켈라서스]\n자네? 오랜만이군. 모습을 보니 연금술 적으로도 진일보를 이룬 모양이야? 그래 그동안 어떤 연구를 하며 지낸 건가?",
-        "en-US": "[Kellasus]\nYou? It has been a long time. Judging by your appearance, it seems you have made further progress in alchemy as well. So, what sort of research have you been doing all this time?",
-        "pt-BR": "[Kellasus]\nVocê? Há quanto tempo. Pelo seu aspecto, parece que também avançou na alquimia. Então, que pesquisas fez nesse tempo?",
-        "es-ES": "[Kellasus]\n¿Tú? Ha pasado tiempo. Por tu aspecto, parece que también has dado un paso adelante en la alquimia. Entonces, ¿qué investigaciones has llevado a cabo todo este tiempo?"
+        "en-US": "[Kelasus]\nYou? Long time no see. Judging by your appearance, you seem to have advanced in alchemy.\nSo, what kind of research have you been doing all this time?",
+        "pt-BR": "[Kelasus]\nVocê? Há quanto tempo. A julgar pela sua aparência, você parece ter avançado na alquimia.\nEntão, que tipo de pesquisa você tem feito todo esse tempo?",
+        "es-ES": "[Kelasus]\n¿Tú? Cuánto tiempo sin verte. A juzgar por tu apariencia, parece que has avanzado en la alquimia.\nEntonces, ¿qué tipo de investigación has estado haciendo todo este tiempo?"
     },
     "3CMkAw": {
-        "ko-KR": "[{0}]\n.......",
         "en-US": "[{0}]\n.......",
         "pt-BR": "[{0}]\n.......",
         "es-ES": "[{0}]\n......."
     },
     "3SMkAw": {
-        "ko-KR": "[켈라서스]\n그렇게 노력한 자네에게 생명윤리를 다시 알려주는 게 뭐 어려운 일이겠나?\n잘 가게나. 미래의 위대한 연금술사 {0}!!",
-        "en-US": "[Kellasus]\nWhat difficulty could there be in teaching Bioethics once again to one who has worked so hard?\nFarewell. Future great Alchemist {0}!!",
-        "pt-BR": "[Kellasus]\nPara alguém que se esforçou tanto, o que há de difícil em ensinar Bioética novamente?\nVá bem. Futuro grande alquimista {0}!!",
-        "es-ES": "[Kellasus]\n¿Qué dificultad habría en volver a enseñarle Bioética a alguien que se ha esforzado tanto?\nCuídate, futuro gran alquimista {0}!!"
+        "en-US": "[Kelasus]\nHow could it be difficult for me to remind someone as hardworking as you about bioethics?\nFarewell. Future great alchemist {0}!!",
+        "pt-BR": "[Kelasus]\nComo poderia ser difícil para mim lembrar alguém tão trabalhador quanto você sobre bioética?\nAdeus. Futuro grande alquimista {0}!!",
+        "es-ES": "[Kelasus]\n¿Cómo podría ser difícil para mí recordarle a alguien tan trabajador como tú sobre bioética?\nAdiós. ¡¡Futuro gran alquimista {0}!!"
     },
     "3iMkAw": {
-        "ko-KR": "[켈라서스]\n힘내게. 어쩌면 자네에게 우리\n연금술사들의 미래가 걸려있는\n것일지도 모르겠군...",
-        "en-US": "[Kellasus]\nDo your best. Perhaps the future\nof us Alchemists rests\nupon you...",
-        "pt-BR": "[Kellasus]\nForça. Talvez o futuro de nós,\nalquimistas, esteja nas suas mãos...",
-        "es-ES": "[Kellasus]\nEsfuérzate. Quizá el futuro\nde nosotros los alquimistas\ndependa de ti..."
+        "en-US": "[Kelasus]\nDo your best. Perhaps the future of us alchemists depends on you...",
+        "pt-BR": "[Kelasus]\nFaça o seu melhor. Talvez o futuro de nós, alquimistas, dependa de você...",
+        "es-ES": "[Kelasus]\nHazlo lo mejor que puedas. Quizás el futuro de nosotros, los alquimistas, dependa de ti..."
     },
     "3yMkAw": {
-        "ko-KR": "[켈라서스]\n..........\n신의 권위에 도전하는 자, 그것이\n과연 옳은 일인지... 옳지 않은\n일인지는...",
-        "en-US": "[Kellasus]\n..........\nOne who challenges divine authority,\nwhether that is truly right...\nor whether it is wrong...",
-        "pt-BR": "[Kellasus]\n..........\nAquele que desafia a autoridade divina...\nSe isso é correto ou não...",
-        "es-ES": "[Kellasus]\n..........\nQuien desafía la autoridad divina...\nsi eso es correcto o no..."
+        "en-US": "[Kelasus]\n..........\nWhether challenging divine authority is truly right... or wrong...",
+        "pt-BR": "[Kelasus]\n..........\nSe desafiar a autoridade divina é verdadeiramente certo... ou errado...",
+        "es-ES": "[Kelasus]\n..........\nSi desafiar la autoridad divina es verdaderamente correcto... o incorrecto..."
     },
     "4CMkAw": {
-        "ko-KR": "[켈라서스]\n옳고 그름을 떠나, 세상은 그 신의\n권위에 도전하는 자들을 ^FF0000연금술사^000000\n라고 부른다. 알겠나, 젊은이?",
-        "en-US": "[Kellasus]\nRight or wrong aside, the world calls\nthose who challenge that divine authority\n^FF0000Alchemists^000000.\nDo you understand, young one?",
-        "pt-BR": "[Kellasus]\nIndo além do certo e do errado,\no mundo chama aqueles que desafiam\nessa autoridade divina de ^FF0000alquimistas^000000.\nEntendeu, jovem?",
-        "es-ES": "[Kellasus]\nMás allá del bien y del mal,\nel mundo llama ^FF0000alquimistas^000000\na quienes desafían esa autoridad divina.\n¿Lo entiendes, joven?"
+        "en-US": "[Kelasus]\nRight or wrong aside, the world calls those who challenge divine authority ^FF0000alchemists^000000.\nDo you understand, young one?",
+        "pt-BR": "[Kelasus]\nCerto ou errado à parte, o mundo chama aqueles que desafiam a autoridade divina de ^FF0000alquimistas^000000.\nVocê entende, jovem?",
+        "es-ES": "[Kelasus]\nCorrecto o incorrecto aparte, el mundo llama a aquellos que desafían la autoridad divina ^FF0000alquimistas^000000.\n¿Lo entiendes, jovencito?"
     },
     "4SMkAw": {
-        "ko-KR": "스크라자드",
-        "en-US": "Skrajjad",
-        "pt-BR": "Skrajjad",
-        "es-ES": "Skrajjad"
+        "en-US": "Scrazard",
+        "pt-BR": "Scrazard",
+        "es-ES": "Scrazard"
     },
     "4iMkAw": {
-        "ko-KR": "[스크라자드]\n그래요... 켈라서스씨에게 그런\n소리를 들었단 말이죠. 대충 어떤\n상황인지 알겠습니다. 열정이\n가득한 새내기 연금술사의 의욕을\n뽑을 생각은 없으니 최대한\n성의껏 가르쳐 드리겠습니다.",
-        "en-US": "[Skrajjad]\nI see... So Mr. Kellasus said\nsuch things to you. I roughly\nunderstand the situation. I have\nno intention of dampening the enthusiasm\nof a passionate new Alchemist,\nso I will teach you as sincerely\nas I can.",
-        "pt-BR": "[Skrajjad]\nEntendo... Então ouviu isso\ndo Sr. Kellasus.\nCompreendo mais ou menos a situação.\nNão pretendo arrancar a motivação\nde um alquimista novato cheio de paixão,\nentão ensinarei com o máximo\nde dedicação possível.",
-        "es-ES": "[Skrajjad]\nYa veo... El señor Kellasus\nle dijo algo así.\nMás o menos entiendo la situación.\nNo pretendo apagar el entusiasmo\nde un alquimista novato lleno de pasión,\nasí que le enseñaré\ncon toda la dedicación posible."
+        "en-US": "[Scrazard]\nI see... so you heard that from Mr. Kelasus.\nI roughly understand the situation. I have no intention of dampening the enthusiasm\nof a passionate rookie alchemist, so I will teach you as sincerely as possible.",
+        "pt-BR": "[Scrazard]\nEntendo... então você ouviu isso do Sr. Kelasus.\nEntendo aproximadamente a situação. Não tenho intenção de diminuir o entusiasmo\nde um alquimista novato apaixonado, então vou ensiná-lo da forma mais sincera possível.",
+        "es-ES": "[Scrazard]\nYa veo... así que escuchaste eso del Sr. Kelasus.\nEntiendo más o menos la situación. No tengo intención de apagar el entusiasmo\nde un alquimista novato y apasionado, así que te enseñaré de la manera más sincera posible."
     },
     "4yMkAw": {
-        "ko-KR": "[스크라자드]\n물론... 제가 가르쳐드릴 것도\n켈라서스씨에게 원초적인 호문\n클루스 기술을 배워야만 써먹을\n수 있는 것이지만... 그래도\n일단은 잘 들어 두세요.",
-        "en-US": "[Skrajjad]\nOf course... what I teach you\ncan only be put to use\nafter learning the fundamental\nHomunculus technique from Mr. Kellasus...\nStill, please listen carefully for now.",
-        "pt-BR": "[Skrajjad]\nClaro... o que eu vou ensinar\ntambém só poderá ser usado\nse você aprender a técnica primordial\nde Homúnculo com o Sr. Kellasus...\nAinda assim, por ora,\nescute bem.",
-        "es-ES": "[Skrajjad]\nPor supuesto... lo que yo puedo enseñarle\ntambién solo podrá usarse\nsi aprende del señor Kellasus\nla técnica primordial\nde los homúnculos...\nAun así, escuche bien."
+        "en-US": "[Scrazard]\nOf course... what I teach you can only be used after learning the fundamental\nhomunculus technique from Mr. Kelasus... but still, listen carefully.",
+        "pt-BR": "[Scrazard]\nClaro... o que eu lhe ensino só pode ser usado depois de aprender a técnica\nfundamental do homúnculo com o Sr. Kelasus... mas ainda assim, ouça com atenção.",
+        "es-ES": "[Scrazard]\nClaro... lo que te enseñe solo se puede usar después de aprender la técnica\nfundamental del homúnculo del Sr. Kelasus... pero aún así, escucha con atención."
     },
     "5CMkAw": {
-        "ko-KR": "[스크라자드]\n^FF0000안식^000000이라는 스킬이 있습니다.\n이 스킬은 켈라서스씨의 가르침을\n받은 후, 켈라서스씨에게 전수받을\n스킬을 제외하고서는 최초로 배우게\n되는 스킬입니다.",
-        "en-US": "[Skrajjad]\nThere is a skill called ^FF0000Vaporize^000000.\nThis skill is the first skill\nyou learn after receiving\nMr. Kellasus's teachings,\nexcluding the skill he will pass down\nto you himself.",
-        "pt-BR": "[Skrajjad]\nExiste uma habilidade chamada ^FF0000Vaporizar^000000.\nDepois de receber os ensinamentos\ndo Sr. Kellasus, excluindo as habilidades\nque ele transmitirá,\nesta é a primeira habilidade\nque você aprenderá.",
-        "es-ES": "[Skrajjad]\nExiste una habilidad llamada\n^FF0000Evaporización^000000.\nEsta habilidad, después de recibir\nlas enseñanzas del señor Kellasus,\nserá la primera que aprenda\nexceptuando las habilidades\nque él mismo le transmitirá."
+        "en-US": "[Scrazard]\nThere is a skill called ^FF0000Rest^000000.\nThis skill is the first one you learn after receiving Mr. Kelasus's teachings,\nexcluding the skills you directly inherit from him.",
+        "pt-BR": "[Scrazard]\nExiste uma habilidade chamada ^FF0000Vaporizar^000000.\nEsta habilidade é a primeira que você aprende após receber os ensinamentos do Sr. Kelasus,\nexcluindo as habilidades que você herda diretamente dele.",
+        "es-ES": "[Scrazard]\nExiste una habilidad llamada ^FF0000Descansar^000000.\nEsta habilidad es la primera que aprendes tras recibir las enseñanzas del Sr. Kelasus,\nexcluyendo las habilidades que heredas directamente de él."
     },
     "5SMkAw": {
-        "ko-KR": "[스크라자드]\n자신이 창조한 호문클루스를 편히\n쉬게 만들어주는 스킬이죠. 이\n스킬을 쓰면 같이 다니던\n호문클루스는 영원한 안식에\n빠져버립니다.",
-        "en-US": "[Skrajjad]\nIt is a skill that lets the Homunculus\nyou created rest peacefully.\nWhen you use this skill,\nthe Homunculus traveling with you\nfalls into eternal Vaporize.",
-        "pt-BR": "[Skrajjad]\nÉ uma habilidade que permite\nque o Homúnculo que você criou\ndescanse tranquilamente.\nAo usar esta habilidade,\no Homúnculo que o acompanhava\nentra em Vaporizar eterno.",
-        "es-ES": "[Skrajjad]\nEs una habilidad que permite descansar\nen paz al homúnculo que uno ha creado.\nAl usar esta habilidad,\nel homúnculo que lo acompañaba\ncae en una Evaporización eterna."
+        "en-US": "[Scrazard]\nIt is a skill that lets your created homunculus rest in peace.\nWhen you use this skill, the homunculus you were traveling with falls into eternal rest.",
+        "pt-BR": "[Scrazard]\nÉ uma habilidade que permite que seu homúnculo criado descanse em paz.\nQuando você usa esta habilidade, o homúnculo que estava viajando com você cai em descanso eterno.",
+        "es-ES": "[Scrazard]\nEs una habilidad que permite que tu homúnculo creado descanse en paz.\nCuando usas esta habilidad, el homúnculo que estaba viajando contigo cae en un descanso eterno."
     },
     "5iMkAw": {
-        "ko-KR": "[스크라자드]\n물론, ^FF0000콜 호문클루스^000000라는 스킬에\n의해 안식에 빠진 호문클루스를 다시\n불러올 수는 있습니다만... 안식을\n시키고 다시 불러오는걸 반복하는 건\n바람직하지 않다고 생각합니다.",
-        "en-US": "[Skrajjad]\nOf course, with the skill\ncalled ^FF0000Call Homunculus^000000,\nyou can call back a Homunculus\nthat has fallen into Vaporize...\nbut I do not think repeatedly using\nVaporize and calling it back\nis desirable.",
-        "pt-BR": "[Skrajjad]\nClaro, pela habilidade\n^FF0000Despertar Homunculus^000000,\né possível chamar novamente\no Homúnculo que entrou em Vaporizar...\nMas não acho desejável repetir\ncolocá-lo em Vaporizar\ne chamá-lo de volta.",
-        "es-ES": "[Skrajjad]\nPor supuesto, mediante la habilidad\n^FF0000Invocar Homúnculo^000000\nes posible volver a llamar\na un homúnculo que ha entrado\nen Evaporización...\npero no considero deseable\nrepetir el proceso de vaporizarlo\ny volver a invocarlo."
+        "en-US": "[Scrazard]\nOf course, you can call back a homunculus that has fallen into rest using the ^FF0000Call Homunculus^000000 skill...\nbut I don't think it's good to repeatedly rest and recall them.",
+        "pt-BR": "[Scrazard]\nClaro, você pode chamar de volta um homúnculo que caiu em descanso usando a habilidade ^FF0000Chamar Homúnculo^000000...\nmas não acho bom ficar colocando-os para descansar e chamando de volta repetidamente.",
+        "es-ES": "[Scrazard]\nClaro, puedes llamar de vuelta a un homúnculo que ha caído en descanso usando la habilidad ^FF0000Llamar Homúnculo^000000...\npero no creo que sea bueno ponerlos a descansar y llamarlos repetidamente."
     },
     "5yMkAw": {
-        "ko-KR": "[스크라자드]\n생각해보세요. 인간이 만들었다고는\n하지만 호문클루스도 엄연한 생명체\n입니다. 그러한 생명을 멋대로 안식\n시켰다가 다시 불러낸다니..가능한\n일이긴 해도 그다지 좋아보이지는\n않는군요.",
-        "en-US": "[Skrajjad]\nThink about it. Although humans\ncreated them, Homunculi are undeniably\nliving beings. To arbitrarily place\nsuch a life into Vaporize\nand then call it back again...\nIt may be possible, but it does not\nseem very good.",
-        "pt-BR": "[Skrajjad]\nPense nisso. Mesmo criado por humanos,\no Homúnculo é, sem dúvida,\num ser vivo.\nColocar uma vida dessas em Vaporizar\nà vontade e depois chamá-la de volta...\nMesmo sendo possível,\nnão parece algo muito bom.",
-        "es-ES": "[Skrajjad]\nPiénselo. Aunque haya sido creado\npor humanos, un homúnculo sigue siendo\nun ser vivo auténtico.\nHacer que una vida así entre en Evaporización\na voluntad y luego llamarla de nuevo...\nAunque sea posible,\nno me parece algo correcto."
+        "en-US": "[Scrazard]\nThink about it. Although created by humans, homunculi are still living beings.\nTo rest them at will and then call them back... even if possible, it doesn't look good.",
+        "pt-BR": "[Scrazard]\nPense nisso. Embora criados por humanos, os homúnculos ainda são seres vivos.\nColocá-los para descansar à vontade e depois chamá-los de volta... mesmo que possível, não parece certo.",
+        "es-ES": "[Scrazard]\nPiénsalo. Aunque son creados por humanos, los homúnculos son seres vivos.\nPonerlos a descansar a voluntad y luego llamarlos de vuelta... aunque sea posible, no parece correcto."
     },
     "6CMkAw": {
-        "ko-KR": "[스크라자드]\n아무튼 호문클루스도 하나의 생명\n이라는 것을 잘 인식하셔야합니다.\n그 것은 기술 이전의 마음가짐이자\n아주 기본적인 문제입니다.",
-        "en-US": "[Skrajjad]\nIn any case, you must clearly recognize\nthat a Homunculus is also a life.\nThat is a mindset before technique,\nand a very fundamental matter.",
-        "pt-BR": "[Skrajjad]\nDe todo modo, você deve reconhecer bem\nque o Homúnculo também é uma vida.\nIsso é uma postura mental\nantes da técnica\ne uma questão bastante fundamental.",
-        "es-ES": "[Skrajjad]\nEn cualquier caso, debe reconocer bien\nque un homúnculo también es una vida.\nEso es una actitud previa a la técnica\ny una cuestión fundamental."
+        "en-US": "[Scrazard]\nAnyway, you must clearly recognize that a homunculus is also a life.\nThat is a mindset before technique, a very basic issue.",
+        "pt-BR": "[Scrazard]\nDe qualquer forma, você deve reconhecer claramente que um homúnculo também é uma vida.\nEssa é uma mentalidade antes da técnica, uma questão muito básica.",
+        "es-ES": "[Scrazard]\nDe todas formas, debes reconocer claramente que un homúnculo también es una vida.\nEso es una mentalidad antes que la técnica, una cuestión muy básica."
     },
     "6SMkAw": {
-        "ko-KR": "[스크라자드]\n아, 그리고 이 안식이라는 스킬은\n1레벨로 마스터할 수 있습니다.\n배우는데 부담은 없는 편이지요.",
-        "en-US": "[Skrajjad]\nAh, and this skill called Vaporize\ncan be mastered at Level 1.\nIt is not much of a burden to learn.",
-        "pt-BR": "[Skrajjad]\nAh, e esta habilidade chamada\nVaporizar pode ser dominada\nno nível 1.\nNão é muito pesada para aprender.",
-        "es-ES": "[Skrajjad]\nAh, y esta habilidad llamada Evaporización\nse domina con nivel 1.\nNo supone una gran carga aprenderla."
+        "en-US": "[Scrazard]\nAh, and this skill 'Rest' can be mastered at level 1.\nIt's not burdensome to learn.",
+        "pt-BR": "[Scrazard]\nAh, e esta habilidade 'Descansar' pode ser dominada no nível 1.\nNão é pesado aprendê-la.",
+        "es-ES": "[Scrazard]\nAh, y esta habilidad 'Descansar' se puede dominar en el nivel 1.\nNo es pesado aprenderla."
     },
     "6iMkAw": {
-        "ko-KR": "[스크라자드]\n뭐, 제가 가르쳐드릴 수 있는 것은\n이 정도입니다. 그 다음은 역시...\n^FF0000콜 호문클루스^000000 스킬에 대해 상세히\n알고 있는 ^FF0000케시비언^000000씨를\n찾아가보세요.",
-        "en-US": "[Skrajjad]\nWell, that is about all\nI can teach you. Next, you should\nvisit Mr. ^FF0000Keshibien^000000,\nwho knows the ^FF0000Call Homunculus^000000 skill\nin detail.",
-        "pt-BR": "[Skrajjad]\nBem, isso é tudo\no que posso ensinar.\nDepois disso, procure o Sr. ^FF0000Keshibien^000000,\nque conhece detalhadamente\na habilidade ^FF0000Despertar Homunculus^000000.",
-        "es-ES": "[Skrajjad]\nBueno, esto es todo\nlo que puedo enseñarle.\nLo siguiente será...\nvisitar al señor ^FF0000Keshibien^000000,\nquien conoce en detalle\nla habilidad ^FF0000Invocar Homúnculo^000000."
+        "en-US": "[Scrazard]\nWell, that's about all I can teach you.\nNext, you should find ^FF0000Keshibian^000000, who knows the ^FF0000Call Homunculus^000000 skill in detail.",
+        "pt-BR": "[Scrazard]\nBem, isso é tudo que posso lhe ensinar.\nEm seguida, você deve encontrar ^FF0000Keshibian^000000, que conhece a habilidade ^FF0000Chamar Homúnculo^000000 em detalhes.",
+        "es-ES": "[Scrazard]\nBueno, eso es todo lo que puedo enseñarte.\nA continuación, debes buscar a ^FF0000Keshibian^000000, quien conoce la habilidad ^FF0000Llamar Homúnculo^000000 en detalle."
     },
     "6yMkAw": {
-        "ko-KR": "[스크라자드]\n제 소개로 왔다고 하면 친절하게\n가르쳐 줄 것입니다. 부디 잘\n배우시고 꾸준히 노력하셔서\n그대의 연금술의 길에 빛이\n보이게 되길 빕니다.",
-        "en-US": "[Skrajjad]\nIf you say you came through\nmy introduction, he will teach you kindly.\nPlease learn well and continue\nyour efforts, so that light may shine\nupon your path of alchemy.",
-        "pt-BR": "[Skrajjad]\nSe disser que veio por minha indicação,\nele ensinará gentilmente.\nEspero que aprenda bem,\nse esforce continuamente\ne veja a luz em seu caminho\nda alquimia.",
-        "es-ES": "[Skrajjad]\nSi dice que viene de mi parte,\nle enseñará amablemente.\nLe deseo que aprenda bien,\nse esfuerce constantemente\ny que la luz aparezca\nen su camino de alquimia."
+        "en-US": "[Scrazard]\nIf you say I sent you, he will teach you kindly.\nI hope you learn well and strive steadily so that light shines upon your path of alchemy.",
+        "pt-BR": "[Scrazard]\nSe disser que eu o enviei, ele o ensinará gentilmente.\nEspero que aprenda bem e se esforce constantemente para que a luz brilhe em seu caminho de alquimia.",
+        "es-ES": "[Scrazard]\nSi dices que yo te envié, él te enseñará amablemente.\nEspero que aprendas bien y te esfuerces constantemente para que la luz brille en tu camino de alquimia."
     },
     "7CMkAw": {
-        "ko-KR": "[스크라자드]\n당신이 찾아가야할 사람은\n콜 호문클루스 스킬의 권위자인\n케시비언씨입니다. 친절한 분이니\n잘 가르쳐 주실 겁니다.",
-        "en-US": "[Skrajjad]\nThe person you should seek out\nis Mr. Keshibien, the authority\non the Call Homunculus skill.\nHe is a kind person, so he will\nteach you well.",
-        "pt-BR": "[Skrajjad]\nA pessoa que você deve procurar\né o Sr. Keshibien,\nautoridade na habilidade\nDespertar Homunculus.\nEle é gentil, então\ndeve ensiná-lo bem.",
-        "es-ES": "[Skrajjad]\nLa persona a la que debe visitar\nes el señor Keshibien,\nautoridad en la habilidad\nInvocar Homúnculo.\nEs una persona amable,\nasí que le enseñará bien."
+        "en-US": "[Scrazard]\nThe person you need to find is Mr. Keshibian, an authority on the Call Homunculus skill.\nHe's a kind person, so he will teach you well.",
+        "pt-BR": "[Scrazard]\nA pessoa que você precisa encontrar é o Sr. Keshibian, uma autoridade na habilidade Chamar Homúnculo.\nEle é uma pessoa gentil, então vai ensiná-lo bem.",
+        "es-ES": "[Scrazard]\nLa persona que necesitas encontrar es el Sr. Keshibian, una autoridad en la habilidad Llamar Homúnculo.\nEs una persona amable, así que te enseñará bien."
     },
     "7SMkAw": {
-        "ko-KR": "[스크라자드]\n연금술사는 멋진 직업입니다. 진리에\n대한 끝없는 탐구를 할 수 있다니,\n생각만해도 짜릿하지 않습니까?",
-        "en-US": "[Skrajjad]\nAlchemist is a wonderful profession.\nThe thought of pursuing truth endlessly\nis thrilling, is it not?",
-        "pt-BR": "[Skrajjad]\nAlquimista é uma profissão maravilhosa.\nPoder buscar a verdade sem fim...\nSó de pensar nisso, não é emocionante?",
-        "es-ES": "[Skrajjad]\nLa alquimia es una profesión maravillosa.\nPoder explorar sin fin la verdad...\n¿No resulta emocionante\nsolo pensarlo?"
+        "en-US": "[Scrazard]\nAlchemy is a wonderful profession. To be able to endlessly pursue the truth,\njust thinking about it is thrilling, isn't it?",
+        "pt-BR": "[Scrazard]\nA alquimia é uma profissão maravilhosa. Poder buscar a verdade infinitamente,\nsó de pensar nisso já é emocionante, não é?",
+        "es-ES": "[Scrazard]\nLa alquimia es una profesión maravillosa. Poder buscar la verdad infinitamente,\nsolo de pensarlo ya es emocionante, ¿no es así?"
     },
     "7iMkAw": {
-        "ko-KR": "케시비언",
-        "en-US": "Keshibien",
-        "pt-BR": "Keshibien",
-        "es-ES": "Keshibien"
+        "en-US": "Keshibian",
+        "pt-BR": "Keshibian",
+        "es-ES": "Keshibian"
     },
     "7yMkAw": {
-        "ko-KR": "[케시비언]\n아, 스크라자드씨의 소개로 오신\n분이신가요? 반갑습니다. 전 이미\n아시다시피 케시비언이라고 하는\n어디에나 널려있는 연금술사 중\n한명입니다. 실력도 고만고만하죠.",
-        "en-US": "[Keshibien]\nAh, are you the one introduced\nby Mr. Skrajjad? It is a pleasure.\nAs you already know, I am Keshibien,\none of those ordinary Alchemists\nyou can find anywhere.\nMy skills are merely average.",
-        "pt-BR": "[Keshibien]\nAh, você veio por indicação\ndo Sr. Skrajjad?\nPrazer em conhecê-lo.\nComo já deve saber, sou Keshibien,\napenas um dos alquimistas comuns\nque existem por toda parte.\nMinha habilidade também é mediana.",
-        "es-ES": "[Keshibien]\nAh, ¿viene usted presentado\npor el señor Skrajjad?\nEncantado. Como ya sabrá,\nme llamo Keshibien,\nuno de tantos alquimistas\nque puede encontrarse en cualquier parte.\nMis habilidades tampoco son gran cosa."
+        "en-US": "[Keshibian]\nAh, you were sent by Mr. Scrazard? Nice to meet you.\nAs you already know, I'm Keshibian, one of the many alchemists scattered everywhere.\nMy skills are only mediocre.",
+        "pt-BR": "[Keshibian]\nAh, você foi enviado pelo Sr. Scrazard? Prazer em conhecê-lo.\nComo você já sabe, sou Keshibian, um dos muitos alquimistas espalhados por aí.\nMinhas habilidades são apenas medíocres.",
+        "es-ES": "[Keshibian]\nAh, ¿fuiste enviado por el Sr. Scrazard? Un placer conocerte.\nComo ya sabes, soy Keshibian, uno de los muchos alquimistas esparcidos por ahí.\nMis habilidades son solo mediocres."
     },
     "8CMkAw": {
-        "ko-KR": "[케시비언]\n딱히 제 이야기를 할 필요도 없고\n자랑할 것도 없고 하니 잽싸게\n본론만 말하고 끝내도록 하죠.",
-        "en-US": "[Keshibien]\nThere is no particular need\nto talk about myself,\nnor anything to boast of,\nso I will quickly get to the main point\nand finish.",
-        "pt-BR": "[Keshibien]\nNão há necessidade de falar sobre mim,\nnem tenho nada de que me gabar,\nentão vamos direto ao ponto\ne encerrar rapidamente.",
-        "es-ES": "[Keshibien]\nNo hace falta hablar de mí,\ny tampoco tengo nada de lo que presumir,\nasí que iré rápidamente\nal asunto principal y terminaré."
+        "en-US": "[Keshibian]\nThere's no need to talk about myself or boast, so let's get straight to the point and finish.",
+        "pt-BR": "[Keshibian]\nNão há necessidade de falar sobre mim ou me gabar, então vamos direto ao ponto e terminar.",
+        "es-ES": "[Keshibian]\nNo hay necesidad de hablar de mí o presumir, así que vayamos directo al grano y terminemos."
     },
     "8SMkAw": {
-        "ko-KR": "[케시비언]\n^FF0000콜 호문클루스^000000... 이 스킬은 안식\n스킬을 배운 자만 배울 수 있는\n1레벨 마스터 스킬로서, 스킬명\n으로도 알 수 있다시피\n호문클루스를 부르는 스킬입니다.",
-        "en-US": "[Keshibien]\n^FF0000Call Homunculus^000000... This skill is\na Level 1 master skill that can only\nbe learned by those who have learned\nthe Vaporize skill. As the skill name\nsuggests, it is a skill\nfor calling a Homunculus.",
-        "pt-BR": "[Keshibien]\n^FF0000Despertar Homunculus^000000...\nEsta habilidade só pode ser aprendida\npor quem aprendeu Vaporizar.\nÉ uma habilidade mestre de nível 1\ne, como o nome indica,\né uma habilidade para chamar\num Homúnculo.",
-        "es-ES": "[Keshibien]\n^FF0000Invocar Homúnculo^000000...\nEsta habilidad es una habilidad maestra\nde nivel 1 que solo puede aprender\nquien haya aprendido Evaporización.\nComo indica su nombre,\nes una habilidad para invocar\nun homúnculo."
+        "en-US": "[Keshibian]\n^FF0000Call Homunculus^000000... This skill is a level 1 master skill\nthat can only be learned by those who have learned Rest.\nAs the skill name suggests, it is a skill to call a homunculus.",
+        "pt-BR": "[Keshibian]\n^FF0000Chamar Homúnculo^000000... Esta habilidade é uma habilidade mestre de nível 1\nque só pode ser aprendida por aqueles que aprenderam Descansar.\nComo o nome da habilidade sugere, é uma habilidade para chamar um homúnculo.",
+        "es-ES": "[Keshibian]\n^FF0000Llamar Homúnculo^000000... Esta habilidad es una habilidad maestra de nivel 1\nque solo puede ser aprendida por aquellos que han aprendido Descansar.\nComo el nombre de la habilidad sugiere, es una habilidad para llamar a un homúnculo."
     },
     "8iMkAw": {
-        "ko-KR": "[케시비언]\n이 스킬을 수행할 때, 전에 만들어\n놓은 호문클루스가 안식상태에\n있다면 안식상태에서 다시 현실로\n불러낼 수 있습니다. 평온한\n시간을 깨는 행위이니 그다지\n추천하고 싶지는 않습니다만...",
-        "en-US": "[Keshibien]\nWhen using this skill, if a Homunculus\nyou previously created is in a state\nof rest, you can call it back\nfrom that state into reality.\nSince it breaks a peaceful time,\nI do not particularly recommend it...",
-        "pt-BR": "[Keshibien]\nAo executar esta habilidade,\nse o Homúnculo criado anteriormente\nestiver em estado de repouso,\nvocê pode chamá-lo de volta\ndo repouso à realidade.\nComo é um ato de quebrar\num tempo tranquilo,\nnão é algo que eu recomende muito...",
-        "es-ES": "[Keshibien]\nAl usar esta habilidad, si un homúnculo\ncreado con anterioridad se encuentra\nen estado de reposo,\npuede llamarse de nuevo\ndesde ese estado al mundo real.\nNo me gusta recomendarlo,\npues rompe su tiempo de paz..."
+        "en-US": "[Keshibian]\nWhen performing this skill, if a previously created homunculus is in rest state,\nyou can call it back from rest to reality. It is an act of disturbing its peaceful time,\nso I don't particularly recommend it...",
+        "pt-BR": "[Keshibian]\nAo executar esta habilidade, se um homúnculo criado anteriormente estiver em estado de descanso,\nvocê pode chamá-lo de volta do descanso para a realidade. É um ato de perturbar seu tempo de paz,\nentão não recomendo particularmente...",
+        "es-ES": "[Keshibian]\nAl ejecutar esta habilidad, si un homúnculo creado previamente está en estado de descanso,\npuedes llamarlo de vuelta del descanso a la realidad. Es un acto de perturbar su tiempo de paz,\nasí que no lo recomiendo particularmente..."
     },
     "8yMkAw": {
-        "ko-KR": "[케시비언]\n만약 호문클루스를 창조한 적이\n없다면, 이 스킬로 이용하여\n생명, 호문클루스를 만들어 낼\n수 있습니다.",
-        "en-US": "[Keshibien]\nIf you have never created\na Homunculus before, you can use\nthis skill to create life,\na Homunculus.",
-        "pt-BR": "[Keshibien]\nSe você nunca criou um Homúnculo,\npode usar esta habilidade\npara criar uma vida,\num Homúnculo.",
-        "es-ES": "[Keshibien]\nSi nunca ha creado un homúnculo,\nesta habilidad puede utilizarse\npara crear una vida,\nun homúnculo."
+        "en-US": "[Keshibian]\nIf you have never created a homunculus,\nyou can use this skill to create a life, a homunculus.",
+        "pt-BR": "[Keshibian]\nSe você nunca criou um homúnculo,\npode usar esta habilidade para criar uma vida, um homúnculo.",
+        "es-ES": "[Keshibian]\nSi nunca has creado un homúnculo,\npuedes usar esta habilidad para crear una vida, un homúnculo."
     },
     "9CMkAw": {
-        "ko-KR": "[케시비언]\n그 때엔 ^FF0000유리관^000000, ^FF0000이그드라실의 이슬^000000,\n^FF0000생명의 씨앗^000000이 하나씩 필요하며,\n가장 중요한 ^FF0000엠브리오^000000도 하나\n필요합니다.",
-        "en-US": "[Keshibien]\nAt that time, you need one each\nof ^FF0000Glass Tube^000000, ^FF0000Morning Dew of Yggdrasil^000000,\nand ^FF0000Seed of Life^000000,\nas well as the most important item,\none ^FF0000Embryo^000000.",
-        "pt-BR": "[Keshibien]\nNesse momento, são necessários\num ^FF0000Cápsula da Criação^000000,\num ^FF0000Orvalho da Yggdrasil^000000,\numa ^FF0000Semente da Vida^000000,\ne também o mais importante,\num ^FF0000Embrião^000000.",
-        "es-ES": "[Keshibien]\nEn ese momento se necesita\n1 ^FF0000Tubo de vidrio^000000,\n1 ^FF0000Rocío matutino de Yggdrasil^000000,\n1 ^FF0000Semilla de vida^000000,\ny también 1 ^FF0000Embrión^000000,\nque es lo más importante."
+        "en-US": "[Keshibian]\nAt that time, you will need one ^FF0000Glass Tube^000000, one ^FF0000Yggdrasil's Dew^000000,\none ^FF0000Seed of Life^000000, and most importantly, one ^FF0000Embryo^000000.",
+        "pt-BR": "[Keshibian]\nNesse momento, você precisará de um ^FF0000Tubo de Vidro^000000, um ^FF0000Orvalho de Yggdrasil^000000,\numa ^FF0000Semente da Vida^000000 e, o mais importante, um ^FF0000Embrião^000000.",
+        "es-ES": "[Keshibian]\nEn ese momento, necesitarás un ^FF0000Tubo de Ensayo^000000, un ^FF0000Rocío de Yggdrasil^000000,\nuna ^FF0000Semilla de la Vida^000000 y, lo más importante, un ^FF0000Embrión^000000."
     },
     "9SMkAw": {
-        "ko-KR": "[케시비언]\n이 엠브리오는 말하자면 호문\n클루스의 배아상태라고 할 수\n있습니다. 앞서 말한 세 도구를\n이용해서 엠브리오를 하나의\n호문클루스로 재창조할 수\n있지요.",
-        "en-US": "[Keshibien]\nThis Embryo is, so to speak,\nthe embryonic state of a Homunculus.\nUsing the three tools mentioned earlier,\nyou can recreate the Embryo\nas a single Homunculus.",
-        "pt-BR": "[Keshibien]\nEste Embrião pode ser considerado,\npor assim dizer, o estado embrionário\ndo Homúnculo.\nUsando as três ferramentas mencionadas,\né possível recriar o Embrião\ncomo um Homúnculo.",
-        "es-ES": "[Keshibien]\nEste Embrión podría decirse\nque es el estado embrionario\ndel homúnculo.\nMediante las tres herramientas\nmencionadas antes,\nes posible recrear ese Embrión\ncomo un homúnculo."
+        "en-US": "[Keshibian]\nThis Embryo can be thought of as the embryonic state of a homunculus.\nUsing the three tools mentioned earlier, you can recreate the Embryo into a homunculus.",
+        "pt-BR": "[Keshibian]\nEste Embrião pode ser pensado como o estado embrionário de um homúnculo.\nUsando as três ferramentas mencionadas anteriormente, você pode recriar o Embrião em um homúnculo.",
+        "es-ES": "[Keshibian]\nEste Embrión puede ser pensado como el estado embrionario de un homúnculo.\nUsando las tres herramientas mencionadas anteriormente, puedes recrear el Embrión en un homúnculo."
     },
     "9iMkAw": {
-        "ko-KR": "[케시비언]\n기술적인 면은 이게 답니다만..\n호문클루스가 하나의 생명이라는\n것을 결코 잊어서는 안됩니다.\n하나의 생명이니 그만큼 소중히\n하라는 뜻입니다. 제 말 알아\n들으시겠지요?",
-        "en-US": "[Keshibien]\nThat is all from the technical side..\nBut you must never forget\nthat a Homunculus is a life.\nSince it is a life, it must be\ncherished accordingly. You understand\nwhat I mean, yes?",
-        "pt-BR": "[Keshibien]\nDo ponto de vista técnico, isso é tudo...\nMas jamais se esqueça\nde que o Homúnculo é uma vida.\nSignifica que, por ser uma vida,\ndeve ser valorizado na mesma medida.\nEntende o que quero dizer, certo?",
-        "es-ES": "[Keshibien]\nEso es todo en el aspecto técnico...\nPero jamás debe olvidar\nque un homúnculo es una vida.\nAl ser una vida,\ndebe valorarlo como tal.\n¿Entiende lo que quiero decir?"
+        "en-US": "[Keshibian]\nThat's the technical aspect... but never forget that a homunculus is a living being.\nBecause it's a living being, it should be treasured that much. You understand what I mean, right?",
+        "pt-BR": "[Keshibian]\nEsse é o aspecto técnico... mas nunca esqueça que um homúnculo é um ser vivo.\nPor ser um ser vivo, deve ser valorizado na mesma medida. Você entende o que quero dizer, certo?",
+        "es-ES": "[Keshibian]\nEse es el aspecto técnico... pero nunca olvides que un homúnculo es un ser vivo.\nPorque es un ser vivo, debe ser valorado en la misma medida. Entiendes lo que quiero decir, ¿verdad?"
     },
     "9yMkAw": {
-        "ko-KR": "[케시비언]\n뭐... 아무리 이렇게 이론적으로\n배우셔도 결국 켈라서스씨에게\n기초부터 배우지 않고서는 쓸 수\n없는 헛학문입니다만... 일단\n배워두시면 언젠가 쓸 날이\n올 겁니다.",
-        "en-US": "[Keshibien]\nWell... no matter how much\nyou learn theoretically like this,\nwithout learning the basics\nfrom Mr. Kellasus, it is useless knowledge\nthat cannot be used... Still,\nif you learn it now,\nthe day will come when you can use it.",
-        "pt-BR": "[Keshibien]\nBem... por mais que aprenda\nteoricamente assim,\nsem aprender o básico\ncom o Sr. Kellasus,\nisso será um estudo inútil\nque não pode ser usado...\nAinda assim, se aprender agora,\num dia chegará o momento\nde usar.",
-        "es-ES": "[Keshibien]\nBueno... por mucho que aprenda\nla teoría de esta forma,\nsi no aprende las bases\ndel señor Kellasus,\nserá un conocimiento inútil\nque no podrá usar...\nPero si lo aprende ahora,\nalgún día le servirá."
+        "en-US": "[Keshibian]\nWell... no matter how much you learn this theoretically,\nit's useless knowledge without learning the basics from Mr. Kelasus first...\nbut once you learn it, the day will come when you can use it.",
+        "pt-BR": "[Keshibian]\nBem... não importa o quanto você aprenda isso teoricamente,\né conhecimento inútil sem aprender o básico com o Sr. Kelasus primeiro...\nmas uma vez que aprenda, chegará o dia em que poderá usá-lo.",
+        "es-ES": "[Keshibian]\nBueno... no importa cuánto aprendas esto teóricamente,\nes conocimiento inútil sin aprender lo básico del Sr. Kelasus primero...\npero una vez que lo aprendas, llegará el día en que puedas usarlo."
     },
     "+CMkAw": {
-        "ko-KR": "[케시비언]\n아무튼 제가 가르쳐드릴 것은\n이정도가 다군요. 마지막으로\n^FF0000리저렉션 호문클루스^000000에 대해서\n해박한 ^FF0000브런쳐^000000씨를 찾아가세요.",
-        "en-US": "[Keshibien]\nIn any case, that is all\nI can teach you. Finally,\nseek out Mr. ^FF0000Broncher^000000,\nwho is deeply knowledgeable\nabout ^FF0000Homunculus Resurrection^000000.",
-        "pt-BR": "[Keshibien]\nDe todo modo, isso é tudo\no que tenho a ensinar.\nPor fim, procure o Sr. ^FF0000Broncher^000000,\nque entende muito de\n^FF0000Ressuscitar Homunculus^000000.",
-        "es-ES": "[Keshibien]\nEn cualquier caso, esto es todo\nlo que puedo enseñarle.\nPor último, busque al señor\n^FF0000Broncher^000000, quien sabe mucho\nsobre ^FF0000Resurrección de Homúnculo^000000."
+        "en-US": "[Keshibian]\nAnyway, that's about all I can teach you.\nFinally, go find ^FF0000Brunscher^000000, who is well-versed in ^FF0000Resurrection Homunculus^000000.",
+        "pt-BR": "[Keshibian]\nDe qualquer forma, isso é tudo que posso lhe ensinar.\nFinalmente, vá encontrar ^FF0000Brunscher^000000, que é bem versado em ^FF0000Ressurreição de Homúnculo^000000.",
+        "es-ES": "[Keshibian]\nDe todas formas, eso es todo lo que puedo enseñarte.\nFinalmente, ve a buscar a ^FF0000Brunscher^000000, quien es versado en ^FF0000Resurrección de Homúnculo^000000."
     },
     "+SMkAw": {
-        "ko-KR": "[케시비언]\n워낙에 괴짜라 아마 이 곳에는\n없을지도 모르겠는데... 어디\n이상한 곳에 가서 놀고 있지\n않을까 싶네요.",
-        "en-US": "[Keshibien]\nHe is quite the eccentric,\nso he may not be here...\nI suspect he may be off playing around\nsomewhere strange.",
-        "pt-BR": "[Keshibien]\nComo ele é bastante excêntrico,\ntalvez não esteja aqui...\nImagino que esteja brincando\nem algum lugar estranho.",
-        "es-ES": "[Keshibien]\nEs bastante excéntrico,\nasí que quizá no esté aquí...\nSupongo que andará en algún lugar extraño\npasando el rato."
+        "en-US": "[Keshibian]\nHe's such an eccentric that he might not be here... I think he's probably off playing somewhere strange.",
+        "pt-BR": "[Keshibian]\nEle é tão excêntrico que pode não estar aqui... Acho que ele provavelmente está por aí, brincando em algum lugar estranho.",
+        "es-ES": "[Keshibian]\nEs tan excéntrico que puede que no esté aquí... Creo que probablemente esté por ahí, divirtiéndose en algún lugar extraño."
     },
     "+iMkAw": {
-        "ko-KR": "[케시비언]\n멀리는 가지 않았을테고...이\n마을, 그러니까 리히타르젠의\n어딘가에 있기는 할 겁니다.\n어디에 있을라나?",
-        "en-US": "[Keshibien]\nHe likely has not gone far...\nHe should be somewhere in this town,\nthat is, somewhere in Lighthalzen.\nWhere could he be?",
-        "pt-BR": "[Keshibien]\nEle não deve ter ido longe...\nDeve estar em algum lugar\ndesta cidade, isto é, Lighthalzen.\nOnde será que está?",
-        "es-ES": "[Keshibien]\nNo habrá ido muy lejos...\nDebería estar en alguna parte\nde esta ciudad, es decir,\nLighthalzen.\n¿Dónde estará?"
+        "en-US": "[Keshibian]\nHe wouldn't have gone far... he's probably somewhere in this town, Lighthalzen.\nWhere could he be?",
+        "pt-BR": "[Keshibian]\nEle não teria ido longe... provavelmente está em algum lugar desta cidade, Lighthalzen.\nOnde ele poderia estar?",
+        "es-ES": "[Keshibian]\nNo habrá ido lejos... probablemente está en algún lugar de esta ciudad, Lighthalzen.\n¿Dónde podría estar?"
     },
     "+yMkAw": {
-        "ko-KR": "[케시비언]\n아무튼 그럼 행운을 빕니다.\n강의하며 저도 즐거웠습니다.",
-        "en-US": "[Keshibien]\nIn any case, I wish you luck.\nI enjoyed giving this lecture as well.",
-        "pt-BR": "[Keshibien]\nDe todo modo, desejo boa sorte.\nEu também me diverti dando a aula.",
-        "es-ES": "[Keshibien]\nEn fin, le deseo buena suerte.\nYo también he disfrutado\ndando la lección."
+        "en-US": "[Keshibian]\nAnyway, good luck. I enjoyed teaching you.",
+        "pt-BR": "[Keshibian]\nDe qualquer forma, boa sorte. Gostei de ensiná-lo.",
+        "es-ES": "[Keshibian]\nDe todas formas, buena suerte. Disfruté enseñarte."
     },
     "/CMkAw": {
-        "ko-KR": "[케시비언]\n당신이 찾아가야할 사람은\n리저렉션 호문클루스 스킬의\n권위자인 브런쳐씨입니다.\n상당히 괴짜... 입니다만\n이야기하면 잘 가르쳐줄거라고\n생각합니다. 아하하.. 힘내요.",
-        "en-US": "[Keshibien]\nThe person you should seek out\nis Mr. Broncher, the authority\non the Homunculus Resurrection skill.\nHe is quite eccentric...\nbut I think he will teach you well\nif you talk to him. Ahaha.. Good luck.",
-        "pt-BR": "[Keshibien]\nA pessoa que você deve procurar\né o Sr. Broncher,\nautoridade na habilidade\nRessuscitar Homunculus.\nEle é bastante excêntrico...\nmas acho que, se conversar com ele,\nensinará bem.\nAhaha... Força.",
-        "es-ES": "[Keshibien]\nLa persona a la que debe visitar\nes el señor Broncher,\nautoridad en la habilidad\nResurrección de Homúnculo.\nEs bastante excéntrico...\npero creo que, si habla con él,\nle enseñará bien.\nAjaja... ánimo."
+        "en-US": "[Keshibian]\nThe person you need to find is Mr. Brunscher, an authority on the Resurrection Homunculus skill.\nHe's quite an eccentric... but I think he'll teach you well if you talk to him.\nAhaha... do your best.",
+        "pt-BR": "[Keshibian]\nA pessoa que você precisa encontrar é o Sr. Brunscher, uma autoridade na habilidade Ressurreição de Homúnculo.\nEle é bastante excêntrico... mas acho que ele vai ensiná-lo bem se você falar com ele.\nAhaha... faça o seu melhor.",
+        "es-ES": "[Keshibian]\nLa persona que necesitas encontrar es el Sr. Brunscher, una autoridad en la habilidad Resurrección de Homúnculo.\nEs bastante excéntrico... pero creo que te enseñará bien si hablas con él.\nAhaha... hazlo lo mejor que puedas."
     },
     "/SMkAw": {
-        "ko-KR": "[케시비언]\n진리를 탐구하는데 있어서 굳이\n연금술사라는 직업을 택할\n필요는 없습니다. 진리란\n하나만 있는 것이 아니거든요.\n당신도 알고 있지요?",
-        "en-US": "[Keshibien]\nWhen it comes to pursuing truth,\nthere is no need to choose\nthe profession of Alchemist.\nTruth is not just one thing.\nYou know that as well, do you not?",
-        "pt-BR": "[Keshibien]\nPara buscar a verdade, não é necessário\nescolher especificamente\na profissão de alquimista.\nAfinal, a verdade não é apenas uma.\nVocê também sabe disso, não é?",
-        "es-ES": "[Keshibien]\nPara explorar la verdad,\nno es necesario elegir\nla profesión de alquimista.\nLa verdad no es una sola.\nUsted también lo sabe, ¿verdad?"
+        "en-US": "[Keshibian]\nIn pursuing the truth, you don't necessarily have to choose the alchemist profession.\nTruth is not singular. You know that too, right?",
+        "pt-BR": "[Keshibian]\nAo buscar a verdade, você não precisa necessariamente escolher a profissão de alquimista.\nA verdade não é singular. Você também sabe disso, certo?",
+        "es-ES": "[Keshibian]\nAl buscar la verdad, no necesariamente tienes que elegir la profesión de alquimista.\nLa verdad no es singular. Tú también lo sabes, ¿verdad?"
     },
     "/iMkAw": {
-        "ko-KR": "브런쳐",
-        "en-US": "Broncher",
-        "pt-BR": "Broncher",
-        "es-ES": "Broncher"
+        "en-US": "Brunscher",
+        "pt-BR": "Brunscher",
+        "es-ES": "Brunscher"
     },
     "/yMkAw": {
-        "ko-KR": "[브런쳐]\n어~ 취한다~ 좋다~! 시시하게\n쓰지도 못하는 지식가지고\n끙끙대느니 그냥 노는게\n현명하지! 아암. 그렇고말고.",
-        "en-US": "[Broncher]\nAh~ I'm drunk~ This is nice~!\nRather than groaning over knowledge\nyou can't even use properly,\nit's wiser to just play! Indeed.\nThat's right.",
-        "pt-BR": "[Broncher]\nAh~ estou bêbado~ que bom~!\nEm vez de ficar sofrendo\ncom conhecimentos inúteis\nque nem dá para usar,\né mais sábio simplesmente se divertir!\nSim. Exatamente.",
-        "es-ES": "[Broncher]\nAh~ qué borrachera~ qué bien~!\nAntes que sufrir con conocimientos\naburridos que ni siquiera pueden usarse,\n¡lo sensato es divertirse!\nSí, sí. Así es."
+        "en-US": "[Brunscher]\nOoh~ I'm drunk~ Good~! Rather than struggling with useless knowledge you can't even use,\nit's wiser to just play! Yep, that's right.",
+        "pt-BR": "[Brunscher]\nOoh~ Estou bêbado~ Bom~! Em vez de lutar com conhecimento inútil que você nem pode usar,\né mais sábio apenas se divertir! Sim, isso mesmo.",
+        "es-ES": "[Brunscher]\nOoh~ Estoy borracho~ ¡Bien~! En lugar de luchar con conocimiento inútil que ni siquiera puedes usar,\n¡es más sabio simplemente divertirse! Sí, eso es."
     },
     "ACQkAw": {
-        "ko-KR": "[브런쳐]\n앙? 케시비언 녀석이 보내서\n왔다구? 거 참 그녀석도 말귀를\n못알아 듣는 녀석일세. 그렇게\n헛지식을 쌓는게 좋나? 뭐,\n나로서는 상관없지만 말이야.",
-        "en-US": "[Broncher]\nHuh? You came because that\nKeshibien fellow sent you?\nThat guy really doesn't understand\nwhat people say. Does he like piling up\nuseless knowledge that much?\nWell, it doesn't matter to me.",
-        "pt-BR": "[Broncher]\nHã? Veio porque aquele Keshibien\nmandou?\nOra, aquele sujeito também\nnão entende o que as pessoas dizem.\nEle gosta tanto assim de acumular\nconhecimento inútil?\nBem, para mim tanto faz.",
-        "es-ES": "[Broncher]\n¿Eh? ¿Dices que vienes enviado\npor Keshibien?\nVaya, ese tipo tampoco entiende razones.\n¿Tanto le gusta acumular\nconocimientos inútiles?\nBueno, a mí me da igual."
+        "en-US": "[Brunscher]\nHuh? You were sent by that Keshibian fellow? That guy really doesn't understand a word.\nIs he that fond of accumulating useless knowledge? Well, not that I care.",
+        "pt-BR": "[Brunscher]\nHã? Você foi enviado por aquele sujeito Keshibian? Aquele cara realmente não entende uma palavra.\nEle gosta tanto de acumular conhecimento inútil? Bem, não que eu me importe.",
+        "es-ES": "[Brunscher]\n¿Eh? ¿Fuiste enviado por ese tipo, Keshibian? Ese tipo realmente no entiende una palabra.\n¿Le gusta tanto acumular conocimiento inútil? Bueno, no es que me importe."
     },
     "ASQkAw": {
-        "ko-KR": "[브런쳐]\n일단 아주 간단하게 가르쳐 주기로\n하지. 그래, 요점만 간단히 말야.\n^FF0000리저렉션 호문클루스^000000에 대해 배우고\n싶은 것 맞지?",
-        "en-US": "[Broncher]\nI'll teach you very simply for now.\nYes, just the main point.\nYou want to learn about\n^FF0000Homunculus Resurrection^000000, right?",
-        "pt-BR": "[Broncher]\nPor enquanto, vou ensinar\nde forma bem simples.\nSim, só o essencial.\nVocê quer aprender sobre\n^FF0000Ressuscitar Homunculus^000000, certo?",
-        "es-ES": "[Broncher]\nTe lo enseñaré de forma muy simple.\nSí, solo lo esencial.\nQuieres aprender sobre\n^FF0000Resurrección de Homúnculo^000000, ¿verdad?"
+        "en-US": "[Brunscher]\nI'll teach you very simply. Yeah, just the main points briefly.\nYou want to learn about ^FF0000Resurrection Homunculus^000000, right?",
+        "pt-BR": "[Brunscher]\nVou ensinar-lhe de forma bem simples. Sim, apenas os pontos principais brevemente.\nVocê quer aprender sobre ^FF0000Ressurreição de Homúnculo^000000, certo?",
+        "es-ES": "[Brunscher]\nTe enseñaré de forma muy sencilla. Sí, solo los puntos principales brevemente.\nQuieres aprender sobre ^FF0000Resurrección de Homúnculo^000000, ¿verdad?"
     },
     "AiQkAw": {
-        "ko-KR": "[브런쳐]\n리저렉션 호문클루스, 빈사상태에\n빠진 호문클루스를 살려낸다, 즉,\nhp가 0까지 내려간 호문클루스를\n다시 움직일 수 있게 해주는\n스킬이지!",
-        "en-US": "[Broncher]\nHomunculus Resurrection revives\na Homunculus that has fallen\ninto a near-death state. In other words,\nit is a skill that allows a Homunculus\nwhose HP has fallen to 0\nto move again!",
-        "pt-BR": "[Broncher]\nRessuscitar Homunculus revive\num Homúnculo em estado crítico,\nou seja, é uma habilidade\nque permite que um Homúnculo\ncujo HP caiu até 0\nvolte a se mover!",
-        "es-ES": "[Broncher]\nResurrección de Homúnculo resucita\na un homúnculo en estado crítico,\nes decir, permite que un homúnculo\ncuyo HP ha bajado a 0\npueda moverse de nuevo."
+        "en-US": "[Brunscher]\nResurrection Homunculus, it revives a homunculus that has fallen into a dying state,\nmeaning it's a skill that lets you get a homunculus whose HP has dropped to 0 moving again!",
+        "pt-BR": "[Brunscher]\nRessurreição de Homúnculo, revive um homúnculo que caiu em estado moribundo,\nou seja, é uma habilidade que permite que você faça um homúnculo cujo HP chegou a 0 se mover novamente!",
+        "es-ES": "[Brunscher]\nResurrección de Homúnculo, revive a un homúnculo que ha caído en estado moribundo,\nes decir, ¡es una habilidad que te permite hacer que un homúnculo cuyo HP ha llegado a 0 se mueva nuevamente!"
     },
     "AyQkAw": {
-        "ko-KR": "[브런쳐]\n5레벨 마스터 스킬이고, 호문클루스\n관련 스킬 중에 가장 마지막으로\n배울 수 있지. 잘 알겠나?",
-        "en-US": "[Broncher]\nIt is a Level 5 master skill,\nand among Homunculus-related skills,\nit is the last one you can learn.\nDo you understand?",
-        "pt-BR": "[Broncher]\nÉ uma habilidade mestre de nível 5\ne a última que pode ser aprendida\nentre as habilidades relacionadas\na Homúnculos. Entendeu bem?",
-        "es-ES": "[Broncher]\nEs una habilidad maestra de nivel 5,\ny la última que puede aprenderse\nentre las habilidades relacionadas\ncon homúnculos.\n¿Lo has entendido bien?"
+        "en-US": "[Brunscher]\nIt's a level 5 master skill, and it's the last homunculus-related skill you can learn.\nGot that?",
+        "pt-BR": "[Brunscher]\nÉ uma habilidade mestre de nível 5, e é a última habilidade relacionada a homúnculos que você pode aprender.\nEntendeu?",
+        "es-ES": "[Brunscher]\nEs una habilidad maestra de nivel 5, y es la última habilidad relacionada con homúnculos que puedes aprender.\n¿Entendido?"
     },
     "BCQkAw": {
-        "ko-KR": "[브런쳐]\n자아, 이걸로 끝이다. 어차피\n켈라서스 그 사람에게 호문클루스의\n기초를 배우기 전엔 죽은\n호문클루스를 살리는 것은 고사하고\n호문클루스조차 창조해낼 수 없어!",
-        "en-US": "[Broncher]\nNow, that's the end of it.\nIn any case, before you learn\nthe basics of Homunculi\nfrom that Kellasus person,\nyou cannot even create a Homunculus,\nlet alone revive a dead one!",
-        "pt-BR": "[Broncher]\nPronto, acabou.\nDe qualquer forma,\nantes de aprender o básico\nde Homúnculo com aquele Kellasus,\nvocê não só não poderá reviver\num Homúnculo morto,\ncomo nem sequer poderá criar um Homúnculo!",
-        "es-ES": "[Broncher]\nBien, con esto terminamos.\nDe todos modos, antes de aprender\nlas bases de los homúnculos\ncon ese Kellasus,\nni siquiera podrás crear un homúnculo,\nmucho menos resucitar\nuno muerto."
+        "en-US": "[Brunscher]\nThere, that's it. Anyway, before you learn the basics of homunculi from that Kelasus fellow,\nforget reviving a dead homunculus, you can't even create one!",
+        "pt-BR": "[Brunscher]\nPronto, é isso. De qualquer forma, antes de aprender o básico sobre homúnculos com aquele sujeito Kelasus,\nesqueça reviver um homúnculo morto, você não pode nem criar um!",
+        "es-ES": "[Brunscher]\nAhí está, eso es todo. De todas formas, antes de aprender lo básico sobre homúnculos de ese tipo Kelasus,\n¡olvídate de revivir a un homúnculo muerto, ni siquiera puedes crear uno!"
     },
     "BSQkAw": {
-        "ko-KR": "[브런쳐]\n하지만 그 켈라서스씨는 그\n기초를 사람들에게 전수해 줄\n생각은 전혀 없어! 그러니까 곧,\n내가 가지고 있는 이 지식도 죽은\n지식이다~ 이 말씀.",
-        "en-US": "[Broncher]\nBut that Mr. Kellasus has absolutely\nno intention of passing those basics\ndown to anyone! So, in short,\nthis knowledge I possess\nis dead knowledge~ That's what I mean.",
-        "pt-BR": "[Broncher]\nMas esse Sr. Kellasus não tem\na menor intenção de transmitir\nesse básico às pessoas!\nOu seja, o conhecimento que eu tenho\ntambém é conhecimento morto~\nÉ isso que quero dizer.",
-        "es-ES": "[Broncher]\nPero ese señor Kellasus\nno tiene ninguna intención\nde transmitir esas bases a nadie.\nAsí que, en otras palabras,\neste conocimiento que tengo\ntambién es conocimiento muerto~."
+        "en-US": "[Brunscher]\nBut that Mr. Kelasus has absolutely no intention of teaching people those basics!\nSo soon, this knowledge I have will also be dead knowledge~ That's what I'm saying.",
+        "pt-BR": "[Brunscher]\nMas aquele Sr. Kelasus não tem absolutamente nenhuma intenção de ensinar esses fundamentos às pessoas!\nEntão logo, esse conhecimento que tenho também será conhecimento morto~ É o que estou dizendo.",
+        "es-ES": "[Brunscher]\n¡Pero ese Sr. Kelasus no tiene absolutamente ninguna intención de enseñarle esos fundamentos a la gente!\nAsí que pronto, este conocimiento que tengo también será conocimiento muerto~ Es lo que estoy diciendo."
     },
     "BiQkAw": {
-        "ko-KR": "[브런쳐]\n쳇. 쓸데 없는 말이 길어졌군.\n아무튼 내가 해줄 수 있는 건\n여기까지다. 어차피 써먹지도 못할\n지식, 배웠다고 좋아할 것 없어.",
-        "en-US": "[Broncher]\nTch. I spoke too much uselessly.\nAnyway, that is as far as I can go.\nThere is no need to be happy\nabout learning knowledge\nyou cannot use anyway.",
-        "pt-BR": "[Broncher]\nTch. Falei demais à toa.\nDe todo modo, isso é tudo\no que posso fazer.\nNão precisa ficar feliz\npor aprender um conhecimento\nque, de qualquer forma,\nnem poderá usar.",
-        "es-ES": "[Broncher]\nTch. He hablado demasiado\nde cosas inútiles.\nEn cualquier caso, esto es todo\nlo que puedo hacer por ti.\nNo te alegres de haber aprendido\nun conocimiento que de todos modos\nno podrás usar."
+        "en-US": "[Brunscher]\nTch. I've rambled on about useless things.\nAnyway, that's all I can do for you. It's knowledge you can't even use anyway,\nso don't be happy you learned it.",
+        "pt-BR": "[Brunscher]\nTsc. Divaguei sobre coisas inúteis.\nDe qualquer forma, isso é tudo que posso fazer por você. É conhecimento que você nem pode usar de qualquer maneira,\nentão não fique feliz por ter aprendido.",
+        "es-ES": "[Brunscher]\nTch. He divagado sobre cosas inútiles.\nDe todas formas, eso es todo lo que puedo hacer por ti. Es conocimiento que ni siquiera puedes usar de todas maneras,\nasí que no estés feliz de haberlo aprendido."
     },
     "ByQkAw": {
-        "ko-KR": "[브런쳐]\n그만 가봐. 난 계속 술을 마셔야\n하겠어. 정말 술을 마시지 않고선\n버틸 수가 없다니깐... 쳇.",
-        "en-US": "[Broncher]\nGo on now. I must keep drinking.\nI really cannot endure this\nwithout drinking... Tch.",
-        "pt-BR": "[Broncher]\nVá embora.\nEu preciso continuar bebendo.\nSério, não consigo aguentar\nsem beber... Tch.",
-        "es-ES": "[Broncher]\nVete ya. Yo debo seguir bebiendo.\nDe verdad, no puedo soportarlo\nsin beber... Tch."
+        "en-US": "[Brunscher]\nNow go away. I have to keep drinking. I really can't stand it without drinking... tch.",
+        "pt-BR": "[Brunscher]\nAgora vá embora. Preciso continuar bebendo. Realmente não suporto ficar sem beber... tsc.",
+        "es-ES": "[Brunscher]\nAhora vete. Tengo que seguir bebiendo. Realmente no soporto estar sin beber... tch."
     },
     "CCQkAw": {
-        "ko-KR": "[브런쳐]\n흥. 이런 배워도 써먹지도\n못할 지식은 배울 필요없어.\n쓰라고 있는 지식을 못 쓰는\n고통이 얼마나 심한지 아나?\n자네도 무리하지말고 포기해.",
-        "en-US": "[Broncher]\nHmph. There is no need to learn\nknowledge that cannot be used\neven if learned. Do you know\nhow painful it is to be unable\nto use knowledge that exists\nto be used? Do not overdo it.\nJust give up.",
-        "pt-BR": "[Broncher]\nHmph. Não há necessidade de aprender\num conhecimento que nem poderá usar.\nSabe como é doloroso\nnão poder usar um conhecimento\nfeito para ser usado?\nNão force demais e desista.",
-        "es-ES": "[Broncher]\nHmph. No necesitas aprender\nconocimientos que no podrás usar\naunque los aprendas.\n¿Sabes lo doloroso que es\nno poder usar un conocimiento\nque existe para ser usado?\nNo te esfuerces demasiado y ríndete."
+        "en-US": "[Brunscher]\nHmph. There's no need to learn such useless knowledge you can't even use.\nDo you know how painful it is to not be able to use knowledge that's meant to be used?\nDon't overdo it, give up.",
+        "pt-BR": "[Brunscher]\nHmph. Não há necessidade de aprender tal conhecimento inútil que você nem pode usar.\nVocê sabe como é doloroso não poder usar o conhecimento que deveria ser usado?\nNão exagere, desista.",
+        "es-ES": "[Brunscher]\nHmph. No hay necesidad de aprender tal conocimiento inútil que ni siquiera puedes usar.\n¿Sabes lo doloroso que es no poder usar el conocimiento que debería ser usado?\nNo te excedas, ríndete."
     },
     "CSQkAw": {
-        "ko-KR": "[브런쳐]\n노~세 노세. 젊어서 노세.\n늙어지면 못노나니... 딸꾹.\n술 맛 좋아!",
-        "en-US": "[Broncher]\nPlay~ while you can. Play while young.\nWhen you grow old, you cannot play... Hic.\nThe liquor tastes good!",
-        "pt-BR": "[Broncher]\nVamos brincar, brincar. Brincar enquanto jovens.\nQuando envelhecer, não poderá brincar... hic.\nQue bebida boa!",
-        "es-ES": "[Broncher]\nA ju~gar, a jugar mientras se es joven.\nCuando envejezca no podré jugar... hic.\n¡Qué rico está el alcohol!"
+        "en-US": "[Brunscher]\nLet's party~ party~ While we're young~ Can't party when we're old~... hic.\nTasty drink!",
+        "pt-BR": "[Brunscher]\nVamos festejar~ festejar~ Enquanto somos jovens~ Não podemos festejar quando formos velhos~... hic.\nBebida saborosa!",
+        "es-ES": "[Brunscher]\n¡Vamos de fiesta~ fiesta~ Mientras somos jóvenes~ No se puede ir de fiesta cuando seamos viejos~... hip.\n¡Bebida sabrosa!"
     },
     "CiQkAw": {
-        "ko-KR": "코링",
         "en-US": "Koring",
         "pt-BR": "Koring",
         "es-ES": "Koring"
     },
     "CyQkAw": {
-        "ko-KR": "[코링]\n우리 아버지는 위대한 연금술사\n라구요. 그 누구보다도 훨씬\n유식하고 누구보다도 옳아요!",
-        "en-US": "[Koring]\nMy father is a great Alchemist.\nHe is far more knowledgeable\nthan anyone else and more right\nthan anyone!",
-        "pt-BR": "[Koring]\nMeu pai é um grande alquimista.\nEle é muito mais instruído\ndo que qualquer um\ne está mais certo do que todos!",
-        "es-ES": "[Koring]\nMi padre es un gran alquimista.\n¡Es mucho más sabio que nadie\ny siempre tiene más razón que nadie!"
+        "en-US": "[Koring]\nMy father is a great alchemist. He's much more knowledgeable than anyone and more right than anyone!",
+        "pt-BR": "[Koring]\nMeu pai é um grande alquimista. Ele é muito mais conhecedor do que qualquer um e mais certo do que qualquer um!",
+        "es-ES": "[Koring]\nMi padre es un gran alquimista. ¡Es mucho más conocedor que cualquiera y más correcto que cualquiera!"
     },
     "DCQkAw": {
-        "ko-KR": "[코링]\n하지만, 요즘 우리 아버지는\n상당히 풀이 죽어 있으세요.\n대체 무슨 일인지... 제가\n아플 때도 그렇게까지 힘없는\n표정은 아니었는데.",
-        "en-US": "[Koring]\nBut these days, my father\nhas been very downhearted.\nI wonder what happened...\nEven when I was sick,\nhe did not look that powerless.",
-        "pt-BR": "[Koring]\nMas, ultimamente, meu pai\nestá bastante abatido.\nO que será que aconteceu...\nNem quando eu estava doente\nele parecia tão sem forças.",
-        "es-ES": "[Koring]\nPero últimamente mi padre\nestá bastante decaído.\nNo sé qué habrá pasado...\nNi siquiera cuando yo estuve enfermo\ntenía una expresión tan apagada."
+        "en-US": "[Koring]\nBut these days, my father is quite down. What on earth happened...\nHe didn't look that helpless even when I was sick.",
+        "pt-BR": "[Koring]\nMas ultimamente, meu pai está bastante desanimado. O que terá acontecido...\nEle não parecia tão desamparado assim nem quando eu estava doente.",
+        "es-ES": "[Koring]\nPero últimamente, mi padre está bastante desanimado. ¿Qué habrá pasado...\nNo se veía tan impotente ni siquiera cuando yo estaba enfermo."
     },
     "DSQkAw": {
-        "ko-KR": "[코링]\n제가 아플 땐 아주 대단했어요.\n눈물만 안 흘렸지 진짜 우는\n것 같더라구요. 제 손을 꼭\n꼭 잡으시며 절대 죽게 할 수\n없다면서 이리저리 치료받으러\n다니게 했던 아버지...",
-        "en-US": "[Koring]\nWhen I was sick, he was amazing.\nHe did not shed tears, but he really\nlooked like he was crying.\nHe held my hands tightly\nand said he could never let me die,\ntaking me all over for treatment...",
-        "pt-BR": "[Koring]\nQuando eu estava doente,\nele foi incrível.\nSó não derramou lágrimas,\nmas parecia que estava chorando de verdade.\nMeu pai segurava minha mão com força\ne dizia que jamais podia me deixar morrer,\nlevando-me para vários tratamentos...",
-        "es-ES": "[Koring]\nCuando yo estuve enfermo,\nfue impresionante.\nNo lloró, pero parecía\nque de verdad estuviera llorando.\nMe sujetaba la mano con fuerza\ny decía que no permitiría\nque muriera, llevándome\nde un lado a otro para curarme..."
+        "en-US": "[Koring]\nHe was amazing when I was sick. He didn't cry, but he looked like he really would.\nHe held my hand tightly, saying he couldn't let me die, and took me here and there for treatment...",
+        "pt-BR": "[Koring]\nEle foi incrível quando eu estava doente. Ele não chorou, mas parecia que realmente iria.\nEle segurou minha mão com força, dizendo que não podia me deixar morrer, e me levou aqui e ali para tratamento...",
+        "es-ES": "[Koring]\nFue increíble cuando estuve enfermo. No lloró, pero parecía que realmente lo haría.\nMe tomó la mano con fuerza, diciendo que no podía dejarme morir, y me llevó de aquí para allá para recibir tratamiento..."
     },
     "DiQkAw": {
-        "ko-KR": "[코링]\n저도 아버지같은 훌륭한 어른이\n될 거에요! 밖에서는 훌륭한\n연금술사, 안에는 정이 넘치는\n멋진 가장... 진짜 우리 아빠가\n최고죠? 응? 그렇죠?",
-        "en-US": "[Koring]\nI will become a fine adult\nlike my father too!\nA great Alchemist outside,\nand a wonderful head of household\nfull of affection at home...\nMy dad really is the best, right?\nHm? Isn't he?",
-        "pt-BR": "[Koring]\nEu também vou me tornar\num adulto incrível como meu pai!\nUm grande alquimista fora de casa\ne um chefe de família maravilhoso\ncheio de afeto dentro dela...\nMeu pai é mesmo o melhor, não é?\nHã? Não é?",
-        "es-ES": "[Koring]\n¡Yo también seré un adulto magnífico\ncomo mi padre!\nUn gran alquimista fuera de casa\ny, dentro, un maravilloso cabeza de familia\nlleno de cariño...\nDe verdad, mi papá es el mejor, ¿verdad?\n¿Eh? ¿A que sí?"
+        "en-US": "[Koring]\nI'm going to become a wonderful adult like my father! A great alchemist outside,\nand a loving, wonderful head of the household inside... My dad really is the best, right? Huh? Right?",
+        "pt-BR": "[Koring]\nEu vou me tornar um adulto maravilhoso como meu pai! Um grande alquimista lá fora,\ne um chefe de família amoroso e maravilhoso em casa... Meu pai é realmente o melhor, certo? Hein? Certo?",
+        "es-ES": "[Koring]\n¡Voy a convertirme en un adulto maravilloso como mi padre! Un gran alquimista fuera de casa,\ny un jefe de familia amoroso y maravilloso en casa... Mi papá es realmente el mejor, ¿verdad? ¿Eh? ¿Verdad?"
     },
     "DyQkAw": {
-        "ko-KR": "[코링]\n에헤... 아무튼 지금 아버지가\n힘이 없지만, 곧 다시 예전의\n활기찬 모습으로 돌아올거라고\n생각해요.",
-        "en-US": "[Koring]\nEhe... In any case, Father\nhas no energy right now,\nbut I think he will soon return\nto his old lively self.",
-        "pt-BR": "[Koring]\nEhe... De todo modo,\nmeu pai está sem energia agora,\nmas acho que logo voltará\nà sua aparência animada de antes.",
-        "es-ES": "[Koring]\nJe, je... En cualquier caso,\naunque ahora mi padre está sin fuerzas,\ncreo que pronto volverá\na ser tan enérgico como antes."
+        "en-US": "[Koring]\nEhe... Anyway, even though my father is down now,\nI think he'll soon return to his former energetic self.",
+        "pt-BR": "[Koring]\nEhe... De qualquer forma, mesmo que meu pai esteja desanimado agora,\nacho que ele logo retornará ao seu antigo eu enérgico.",
+        "es-ES": "[Koring]\nEhe... De todas formas, aunque mi padre está desanimado ahora,\ncreo que pronto volverá a ser el de antes, lleno de energía."
     },
     "ECQkAw": {
-        "ko-KR": "[코링]\n하지만, 요즘 우리 아버지는\n상당히 풀이 죽어 계세요.\n대체 무슨 일인지... 제가\n아플 때도 그렇게까지 힘없는\n표정은 아니셨는데.",
-        "en-US": "[Koring]\nBut these days, my father\nhas been very downhearted.\nI wonder what happened...\nEven when I was sick,\nhe did not look that powerless.",
-        "pt-BR": "[Koring]\nMas, ultimamente, meu pai\nestá bastante abatido.\nO que será que aconteceu...\nNem quando eu estava doente\nele parecia tão sem forças.",
-        "es-ES": "[Koring]\nPero últimamente mi padre\nestá bastante decaído.\nNo sé qué habrá pasado...\nNi siquiera cuando yo estuve enfermo\ntenía una expresión tan apagada."
+        "en-US": "[Koring]\nBut these days, my father is quite down. What on earth happened...\nHe didn't look that helpless even when I was sick.",
+        "pt-BR": "[Koring]\nMas ultimamente, meu pai está bastante desanimado. O que terá acontecido...\nEle não parecia tão desamparado assim nem quando eu estava doente.",
+        "es-ES": "[Koring]\nPero últimamente, mi padre está bastante desanimado. ¿Qué habrá pasado...\nNo se veía tan impotente ni siquiera cuando yo estaba enfermo."
     },
     "ESQkAw": {
-        "ko-KR": "[코링]\n제가 아플 땐 아주 대단했어요.\n눈물만 안 흘리셨지 진짜로\n우시는 것 같더라구요. 제 손을\n꼭 잡으시며 절대 죽게 할 수\n없다면서 이리저리 치료받으러\n다니게 했던 아버지...",
-        "en-US": "[Koring]\nWhen I was sick, he was amazing.\nHe did not shed tears, but he really\nlooked like he was crying.\nHe held my hands tightly\nand said he could never let me die,\ntaking me all over for treatment...",
-        "pt-BR": "[Koring]\nQuando eu estava doente,\nele foi incrível.\nSó não derramou lágrimas,\nmas parecia que estava chorando de verdade.\nMeu pai segurava minha mão com força\ne dizia que jamais podia me deixar morrer,\nlevando-me para vários tratamentos...",
-        "es-ES": "[Koring]\nCuando yo estuve enfermo,\nfue impresionante.\nNo lloró, pero parecía\nque de verdad estuviera llorando.\nMe sujetaba la mano con fuerza\ny decía que no permitiría\nque muriera, llevándome\nde un lado a otro para curarme..."
+        "en-US": "[Koring]\nHe was amazing when I was sick. He didn't cry, but he looked like he really would.\nHe held my hand tightly, saying he couldn't let me die, and took me here and there for treatment...",
+        "pt-BR": "[Koring]\nEle foi incrível quando eu estava doente. Ele não chorou, mas parecia que realmente iria.\nEle segurou minha mão com força, dizendo que não podia me deixar morrer, e me levou aqui e ali para tratamento...",
+        "es-ES": "[Koring]\nFue increíble cuando estuve enfermo. No lloró, pero parecía que realmente lo haría.\nMe tomó la mano con fuerza, diciendo que no podía dejarme morir, y me llevó de aquí para allá para recibir tratamiento..."
     },
     "EiQkAw": {
-        "ko-KR": "[코링]\n우리 아버지 최고! 나도 자라면\n아버지같이 훌륭한 연금술사가\n꼭 될거야!",
-        "en-US": "[Koring]\nMy father is the best! When I grow up,\nI will definitely become\na great Alchemist like Father!",
-        "pt-BR": "[Koring]\nMeu pai é o melhor!\nQuando eu crescer,\ncom certeza também serei\num grande alquimista como ele!",
-        "es-ES": "[Koring]\n¡Mi padre es el mejor!\n¡Cuando crezca, también me convertiré\nsin falta en un alquimista magnífico\ncomo él!"
+        "en-US": "[Koring]\nMy dad is the best! When I grow up, I'm definitely going to be a great alchemist like him!",
+        "pt-BR": "[Koring]\nMeu pai é o melhor! Quando eu crescer, com certeza serei um grande alquimista como ele!",
+        "es-ES": "[Koring]\n¡Mi papá es el mejor! ¡Cuando crezca, definitivamente seré un gran alquimista como él!"
     },
     "EyQkAw": {
-        "ko-KR": "베니네",
         "en-US": "Benine",
-        "pt-BR": "Beninne",
+        "pt-BR": "Benine",
         "es-ES": "Benine"
     },
     "FCQkAw": {
-        "ko-KR": "[베니네]\n우리 바깥사람을 만나고 오셨나요?\n완고하고, 자신의 주장을 굽히지\n않는 고집쟁이이지만 원래\n솔직하고 잘못을 깨닫는다면\n바로 고칠 줄 아는 용기를 가진\n사람이랍니다.",
-        "en-US": "[Benine]\nHave you met my husband?\nHe is stubborn and obstinate,\nrefusing to bend his own views,\nbut he is originally honest,\nand if he realizes he is wrong,\nhe has the courage to correct it\nright away.",
-        "pt-BR": "[Beninne]\nVocê encontrou meu marido?\nEle é obstinado e teimoso,\nnão cede em suas opiniões,\nmas, originalmente, é uma pessoa honesta\ne tem a coragem de corrigir imediatamente\nse perceber que está errado.",
-        "es-ES": "[Benine]\n¿Ha venido de ver a mi marido?\nEs terco, obstinado\ny no cede en sus opiniones,\npero en el fondo es una persona sincera\ny, si comprende que se ha equivocado,\ntiene el valor de corregirse enseguida."
+        "en-US": "[Benine]\nHave you been outside to meet people? He's stubborn, an obstinate person who doesn't yield his claims,\nbut originally he's honest and has the courage to correct his mistakes immediately once he realizes them.",
+        "pt-BR": "[Benine]\nVocê já saiu para encontrar pessoas? Ele é teimoso, uma pessoa obstinada que não cede em suas reivindicações,\nmas originalmente ele é honesto e tem a coragem de corrigir seus erros imediatamente assim que os percebe.",
+        "es-ES": "[Benine]\n¿Has salido a conocer gente? Él es terco, una persona obstinada que no cede en sus afirmaciones,\npero originalmente es honesto y tiene el coraje de corregir sus errores inmediatamente una vez que los reconoce."
     },
     "FSQkAw": {
-        "ko-KR": "[베니네]\n그런 사람도 집에만 들어오면\n어찌나 팔불출이 되는지...정말\n대단한 사람이에요.",
-        "en-US": "[Benine]\nEven a man like that becomes\nsuch a doting fool once he comes home...\nHe really is an incredible person.",
-        "pt-BR": "[Beninne]\nMesmo alguém assim, quando chega em casa,\nvira um pai tão coruja...\nEle é realmente uma pessoa incrível.",
-        "es-ES": "[Benine]\nAun alguien así, cuando entra en casa,\nse vuelve un padre tan sobreprotector...\nDe verdad, es una persona increíble."
+        "en-US": "[Benine]\nBut when such a person comes home, he's so childishly proud of his family... he's really amazing.",
+        "pt-BR": "[Benine]\nMas quando essa pessoa chega em casa, fica tão infantilmente orgulhoso de sua família... ele é realmente incrível.",
+        "es-ES": "[Benine]\nPero cuando esa persona llega a casa, se pone tan infantilmente orgulloso de su familia... es realmente increíble."
     },
     "FiQkAw": {
-        "ko-KR": "[베니네]\n일도 중요하지만 가족은 더욱\n중요하다나요? 정말... 못말릴\n사람이에요. 하지만... 저희\n가족은 그런 켈라서스를 언제나\n사랑하고 있답니다.",
-        "en-US": "[Benine]\nHe says work is important,\nbut family is even more important.\nTruly... he is hopeless.\nBut... our family always loves\nthat Kellasus.",
-        "pt-BR": "[Beninne]\nEle diz que o trabalho é importante,\nmas que a família é ainda mais importante.\nSério... não tem jeito.\nMas... nossa família sempre ama\nesse Kellasus.",
-        "es-ES": "[Benine]\nDice que el trabajo es importante,\npero que la familia lo es aún más.\nDe verdad... es incorregible.\nPero... nuestra familia\nsiempre ama a ese Kellasus."
+        "en-US": "[Benine]\nWork is important, but family is even more important, they say? He's truly... unstoppable.\nBut... our family always loves that Kelasus.",
+        "pt-BR": "[Benine]\nO trabalho é importante, mas a família é ainda mais importante, dizem? Ele é verdadeiramente... imparável.\nMas... nossa família sempre ama esse Kelasus.",
+        "es-ES": "[Benine]\nEl trabajo es importante, pero la familia es aún más importante, ¿dicen? Él es verdaderamente... imparable.\nPero... nuestra familia siempre ama a ese Kelasus."
     },
     "FyQkAw": {
-        "ko-KR": "[베니네]\n연금술사의 아내로서 다른\n사람들은 힘들거라고 하지만\n실상은 정 반대랍니다.\n그렇게 집안일을 잘 도와줄\n수가 없어요.",
-        "en-US": "[Benine]\nPeople say being the wife\nof an Alchemist must be difficult,\nbut in reality it is the exact opposite.\nHe helps with the housework\nso very well.",
-        "pt-BR": "[Beninne]\nDizem que ser esposa de alquimista\ndeve ser difícil,\nmas a realidade é exatamente o oposto.\nEle ajuda tanto nas tarefas de casa\nque nem dá para acreditar.",
-        "es-ES": "[Benine]\nComo esposa de un alquimista,\notros dicen que debe de ser difícil,\npero en realidad es justo lo contrario.\nNo podría ayudar mejor\ncon las tareas de la casa."
+        "en-US": "[Benine]\nOthers say it's hard being an alchemist's wife, but the truth is the opposite.\nHe can't help that much with housework.",
+        "pt-BR": "[Benine]\nOutros dizem que é difícil ser esposa de um alquimista, mas a verdade é o oposto.\nEle não pode ajudar muito com as tarefas domésticas.",
+        "es-ES": "[Benine]\nOtros dicen que es difícil ser la esposa de un alquimista, pero la verdad es lo contrario.\nÉl no puede ayudar mucho con las tareas domésticas."
     },
     "GCQkAw": {
-        "ko-KR": "마을사람",
         "en-US": "Villager",
-        "pt-BR": "Morador",
+        "pt-BR": "Aldeão",
         "es-ES": "Aldeano"
     },
     "GSQkAw": {
-        "ko-KR": "[마을사람]\n연금술사들은 다 부지런하고\n공부만 하는 줄 알았는데, 꼭\n그런 것만도 아닌가봐요.",
-        "en-US": "[Villager]\nI thought all Alchemists were diligent\nand only studied,\nbut I suppose that is not always\nthe case.",
-        "pt-BR": "[Morador]\nEu achava que alquimistas\neram todos diligentes\ne só estudavam,\nmas parece que não é bem assim.",
-        "es-ES": "[Aldeano]\nCreía que todos los alquimistas\neran trabajadores\ny solo estudiaban,\npero parece que no siempre es así."
+        "en-US": "[Villager]\nI thought all alchemists were diligent and only studied, but it seems that's not necessarily the case.",
+        "pt-BR": "[Aldeão]\nEu pensava que todos os alquimistas eram diligentes e só estudavam, mas parece que não é necessariamente o caso.",
+        "es-ES": "[Aldeano]\nPensaba que todos los alquimistas eran diligentes y solo estudiaban, pero parece que no es necesariamente el caso."
     },
     "GiQkAw": {
-        "ko-KR": "[마을사람]\n허구헌날 공부는 안하고 술이나\n마시면서 시간보내는 이상한\n연금술사도 있더군요. 아마\n이름이... 브런쳐였던가?",
-        "en-US": "[Villager]\nThere is also a strange Alchemist\nwho spends his days drinking\ninstead of studying.\nI think his name was...\nBroncher, perhaps?",
-        "pt-BR": "[Morador]\nHá também um alquimista estranho\nque passa o tempo todo bebendo,\nsem estudar nunca.\nAcho que o nome dele era...\nBroncher?",
-        "es-ES": "[Aldeano]\nTambién hay alquimistas extraños\nque pasan el tiempo bebiendo\nsin estudiar jamás.\nCreo que se llamaba...\n¿Broncher?"
+        "en-US": "[Villager]\nThere's a strange alchemist who doesn't study all the time but spends his time drinking.\nI think his name was... Brunscher?",
+        "pt-BR": "[Aldeão]\nHá um alquimista estranho que não estuda o tempo todo, mas passa o tempo bebendo.\nAcho que o nome dele era... Brunscher?",
+        "es-ES": "[Aldeano]\nHay un alquimista extraño que no estudia todo el tiempo, sino que pasa el tiempo bebiendo.\nCreo que su nombre era... ¿Brunscher?"
     },
     "GyQkAw": {
-        "ko-KR": "[마을사람]\n연금술사들은 다 부지런하고\n자기단련에 힘을 쏟고 있다는\n저의 생각을 완전히 바꾸어\n놓더군요. 어휴...",
-        "en-US": "[Villager]\nHe completely changed my belief\nthat all Alchemists are diligent\nand devote themselves to self-discipline.\nGoodness...",
-        "pt-BR": "[Morador]\nEle mudou completamente minha ideia\nde que alquimistas são todos diligentes\ne se dedicam ao aprimoramento pessoal.\nUfa...",
-        "es-ES": "[Aldeano]\nCambió por completo la idea\nque tenía de que todos los alquimistas\nson diligentes\ny se esfuerzan por disciplinarse.\nUf..."
+        "en-US": "[Villager]\nHe completely changed my idea that all alchemists are diligent and focus on self-discipline. Oh dear...",
+        "pt-BR": "[Aldeão]\nEle mudou completamente minha ideia de que todos os alquimistas são diligentes e focam na autodisciplina. Oh, céus...",
+        "es-ES": "[Aldeano]\nCambió por completo mi idea de que todos los alquimistas son diligentes y se enfocan en la autodisciplina. Oh, cielos..."
     },
     "HCQkAw": {
-        "ko-KR": "연금술사",
         "en-US": "Alchemist",
         "pt-BR": "Alquimista",
         "es-ES": "Alquimista"
     },
     "HSQkAw": {
-        "ko-KR": "[연금술사]\n연금술사 켈라서스씨는 현존하는\n인물 중에서 가장 진리에 가까이\n간 인물이 아닐까 싶습니다.\n그의 경험이나 지식정도를 들으면\n들을 때마다 정말 놀라워요.",
-        "en-US": "[Alchemist]\nI think Alchemist Kellasus\nmay be the living person\nclosest to the truth.\nThe more I hear of his experience\nand knowledge, the more truly\nastonished I become.",
-        "pt-BR": "[Alquimista]\nAcho que o alquimista Kellasus\ntalvez seja, entre as pessoas vivas,\nquem mais se aproximou da verdade.\nQuanto mais ouço sobre sua experiência\ne seu grau de conhecimento,\nmais fico realmente impressionado.",
-        "es-ES": "[Alquimista]\nCreo que el alquimista Kellasus\npodría ser la persona viva\nque más se ha acercado a la verdad.\nCada vez que escucho sobre su experiencia\ny nivel de conocimiento,\nme asombro de verdad."
+        "en-US": "[Alchemist]\nI think Alchemist Kelasus is the person closest to the truth among the living.\nEvery time I hear about his experience or level of knowledge, I'm truly amazed.",
+        "pt-BR": "[Alquimista]\nAcho que o Alquimista Kelasus é a pessoa mais próxima da verdade entre os vivos.\nToda vez que ouço sobre sua experiência ou nível de conhecimento, fico realmente impressionado.",
+        "es-ES": "[Alquimista]\nCreo que el Alquimista Kelasus es la persona más cercana a la verdad entre los vivos.\nCada vez que escucho sobre su experiencia o nivel de conocimiento, quedo realmente impresionado."
     },
     "HiQkAw": {
-        "ko-KR": "[연금술사]\n그런 켈라서스씨도 가족 앞에서는\n단순한 아버지이자 남편이라니,\n이것도 상당히 신기하죠? 위대한\n연금술사도 가정에서는 단순한\n어디에나 있는 평범한 가장이라니!",
-        "en-US": "[Alchemist]\nAnd yet even that Mr. Kellasus\nis merely a father and husband\nbefore his family.\nIs that not quite fascinating?\nEven a great Alchemist is simply\nan ordinary head of household at home!",
-        "pt-BR": "[Alquimista]\nMesmo esse Sr. Kellasus,\ndiante da família,\né apenas um pai e marido comum.\nIsso também é bastante curioso, não é?\nUm grande alquimista,\nem casa, é apenas um chefe de família\ncomum como qualquer outro!",
-        "es-ES": "[Alquimista]\nY aun así, ese señor Kellasus,\nante su familia,\nno es más que un simple padre y esposo.\n¿No resulta bastante curioso?\n¡Incluso un gran alquimista\nes en casa un cabeza de familia normal\ncomo cualquier otro!"
+        "en-US": "[Alchemist]\nThat even such a Kelasus is just a simple father and husband in front of his family,\nisn't that also quite amazing? A great alchemist, but at home, just an ordinary, common head of the household!",
+        "pt-BR": "[Alquimista]\nQue mesmo um tal Kelasus seja apenas um simples pai e marido na frente de sua família,\nisso não também é bastante incrível? Um grande alquimista, mas em casa, apenas um chefe de família comum e ordinário!",
+        "es-ES": "[Alquimista]\nQue incluso un tal Kelasus sea solo un simple padre y esposo frente a su familia,\n¿no es también bastante increíble? ¡Un gran alquimista, pero en casa, solo un jefe de familia común y corriente!"
     },
     "HyQkAw": {
-        "ko-KR": "[연금술사]\n이 것 또한 연금술에 준하는\n신비가 아닐까 싶네요.",
-        "en-US": "[Alchemist]\nI think this too may be\na mystery comparable to alchemy.",
-        "pt-BR": "[Alquimista]\nAcho que isso também\né um mistério comparável à alquimia.",
-        "es-ES": "[Alquimista]\nQuizá eso también sea\nun misterio comparable\na la alquimia."
+        "en-US": "[Alchemist]\nI think this too might be a mystery comparable to alchemy.",
+        "pt-BR": "[Alquimista]\nAcho que isso também pode ser um mistério comparável à alquimia.",
+        "es-ES": "[Alquimista]\nCreo que esto también puede ser un misterio comparable a la alquimia."
     }
 }

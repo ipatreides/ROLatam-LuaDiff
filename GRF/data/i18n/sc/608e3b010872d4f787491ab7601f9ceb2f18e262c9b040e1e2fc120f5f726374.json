@@ -1,0 +1,1492 @@
+{
+    "ICYMDQ": {
+        "en-US": "Smart Elly",
+        "pt-BR": "Autômata Elly",
+        "es-ES": "Astuta Elly"
+    },
+    "ISYMDQ": {
+        "en-US": "You cannot proceed with the quest because you are carrying too many items.\nPlease organize your items and try again.",
+        "pt-BR": "Você não pode prosseguir com a missão porque está carregando itens demais.\nPor favor, organize seus itens e tente novamente.",
+        "es-ES": "No puedes continuar la misión porque llevas demasiados objetos.\nOrdena tus objetos y vuelve a intentarlo."
+    },
+    "IiYMDQ": {
+        "en-US": "[Elly]\nHello, guest.\nI am Eli, in charge of airship route information.\nPlease feel free to call me Eli.",
+        "pt-BR": "[Elly]\nOlá, visitante.\nSou Elly, responsável pelas informações de rota do Porto do Aeroplano.\nPode me chamar apenas de Elly.",
+        "es-ES": "[Elly]\nHola, visitante.\nSoy Elly, encargada de la información de rutas del dirigible.\nPuedes llamarme Elly, sin problema."
+    },
+    "IyYMDQ": {
+        "en-US": "[Elly]\nAfter Master closed this place down, there was no need to use the airship, so I worked on other tasks for a while as well...",
+        "pt-BR": "[Elly]\nDepois que o mestre fechou este local, não houve mais uso do Porto do Aeroplano, então trabalhei em outras funções por um tempo...",
+        "es-ES": "[Elly]\nDespués de que mi amo cerrara este lugar, no hubo necesidad de usar el dirigible, así que yo también me dediqué a otras tareas durante un tiempo..."
+    },
+    "JCYMDQ": {
+        "en-US": "[Elly]\nNow I have returned at Alpha's request.\nPlease leave all matters related to the airship to me, Eli.",
+        "pt-BR": "[Elly]\nAgora retornei a pedido de Alpha.\nAssuntos relacionados a este local podem ser resolvidos comigo, Elly.",
+        "es-ES": "[Elly]\nAhora he regresado por petición de Alpha.\nDéjame a mí, Elly, todo lo relacionado con el dirigible."
+    },
+    "JSYMDQ": {
+        "en-US": "[Elly]\nTo think I would return because of the unprecedented incident of an airship theft... It feels as though my core is spinning 720 degrees.",
+        "pt-BR": "[Elly]\nJamais imaginei retornar por conta do roubo do aeroplano. Sinto como se meu núcleo tivesse girado 720 graus.",
+        "es-ES": "[Elly]\nJamás habría imaginado que volvería al servicio por un caso sin precedentes como el robo de un dirigible. Siento como si mi núcleo girara 720 grados."
+    },
+    "JiYMDQ": {
+        "en-US": "That is a figurative expression.",
+        "pt-BR": "Isso foi uma 'gíria'.",
+        "es-ES": "Es una expresión figurada."
+    },
+    "JyYMDQ": {
+        "en-US": "[Elly]\nIn any case, those who serve as the heads of the mansion's 'intruders' arbitrarily moved our Master's Collection No. 3 ....\nAnd I was called back to this position where rest time is not guaranteed.",
+        "pt-BR": "[Elly]\nDe qualquer forma, aqueles que lideram os 'invasores' moveram arbitrariamente a Coleção nº 3 do nosso mestre...\nE eu fui chamada de volta a este posto sem garantia de descanso.",
+        "es-ES": "[Elly]\nEn cualquier caso, los cabecillas de los 'intrusos' de la mansión pusieron en marcha por su cuenta la colección número 3 de mi amo....\nY a mí me llamaron otra vez a este puesto, donde no se garantiza tiempo de descanso."
+    },
+    "KCYMDQ": {
+        "en-US": "[Elly]\nAfter receiving the report on the incident, I have been tracing the projected route up to now.\nHowever, tracking is not easy because No. 3's main system is operating in a completely separated state.",
+        "pt-BR": "[Elly]\nApós receber o relatório do incidente, estou rastreando as rotas previstas até agora.\nContudo, como o sistema principal da nº 3 está operando completamente separado, o rastreamento não é fácil.",
+        "es-ES": "[Elly]\nTras recibir el informe del incidente, he estado rastreando la ruta estimada hasta ahora.\nSin embargo, no es fácil seguirle la pista, ya que el sistema principal de la unidad 3 está funcionando completamente separado."
+    },
+    "KSYMDQ": {
+        "en-US": "[Elly]\nIt is highly likely, with a probability close to 99.9%, that the leaders of the 'intruders' whom the 'guest' calls 'Illusion' remodeled it as they pleased.",
+        "pt-BR": "[Elly]\nHá 99,9% de probabilidade de que o líder da Ilusión, tenha modificado arbitrariamente o sistema.",
+        "es-ES": "[Elly]\nParece que existe una probabilidad cercana al 99,9 % de que los cabecillas de los 'intrusos', a quienes usted llama 'Illusion', la hayan modificado a su antojo."
+    },
+    "KiYMDQ": {
+        "en-US": "[Elly]\nHave you arrived, 'guest'?",
+        "pt-BR": "[Elly]\nA comandante chegou?",
+        "es-ES": "[Elly]\n¿Ha venido, 'visitante'?"
+    },
+    "KyYMDQ": {
+        "en-US": "[Est]\nOh, right. Have you found anything?\nYou have been working hard since last night.",
+        "pt-BR": "[Est]\nOh, sim. Algum progresso?\nVocê trabalhou muito desde a noite passada.",
+        "es-ES": "[Est]\nEh, sí. Entonces, ¿has sacado algo en claro?\nLlevas trabajando desde anoche."
+    },
+    "LCYMDQ": {
+        "en-US": "[Rookie]\nI heard from Alpha that all the data that could be analyzed in the current state has been reviewed.",
+        "pt-BR": "[Lukie]\nOuvi da Gerente Alpha que a consulta dos dados analisáveis no estado atual já foi concluída.",
+        "es-ES": "[Rookie]\nMe dijeron que, en el estado actual, ya ha terminado la consulta de los datos que podían analizarse."
+    },
+    "LSYMDQ": {
+        "en-US": "[Elly]\nYes. I just transmitted the data.\nThere has been no reception at all from Master's Collection No. 3, but I picked up several unusual signals.",
+        "pt-BR": "[Elly]\nSim. Acabei de transmitir os dados.\nNão há recepção alguma da Coleção nº 3 do mestre, mas captei alguns sinais incomuns.",
+        "es-ES": "[Elly]\nSí. Acabo de transmitir los datos.\nNo recibimos absolutamente nada de la colección número 3 de mi amo, pero he detectado varias señales extrañas."
+    },
+    "LiYMDQ": {
+        "en-US": "Unusual signals?",
+        "pt-BR": "Sinais incomuns?",
+        "es-ES": "¿Señales extrañas?"
+    },
+    "LyYMDQ": {
+        "en-US": "[Elly]\nTraces that the 'intruders' secretly used this facility while it remained unused for a long time and ....",
+        "pt-BR": "[Elly]\nVestígios de que os 'Invasores' usaram esta instalação secretamente enquanto esteve inativa...",
+        "es-ES": "[Elly]\nRastros de que los 'intrusos' usaron este lugar a escondidas mientras permaneció sin utilizar durante tanto tiempo y...."
+    },
+    "MCYMDQ": {
+        "en-US": "[Elly]\nTraces of periodic magical communication with a specific region.\nIntermittent reception signals.",
+        "pt-BR": "[Elly]\nE vestígios de comunicação mágica periódica com uma região específica.\nSinais intermitentes.",
+        "es-ES": "[Elly]\nRastros de comunicación mágica periódica con una región concreta.\nSeñales intermitentes."
+    },
+    "MSYMDQ": {
+        "en-US": "[Est]\nWhat, are you saying those bastards were in regular contact with the outside?\nWhere? A corporation?",
+        "pt-BR": "[Est]\nO quê, quer dizer que eles mantinham contato regular com o exterior?\nOnde? Com a corporação?",
+        "es-ES": "[Est]\n¿Qué demonios? ¿Esos tipos estaban en contacto regular con el exterior?\n¿Dónde? ¿Con la corporación?"
+    },
+    "MiYMDQ": {
+        "en-US": "[Elly]\nAccording to the analysis, there are only traces of one-way reception,\nand it appears to have been used to collect reports from outside, but....",
+        "pt-BR": "[Elly]\nPela análise, há apenas vestígios de recepção unilateral.\nParece que coletavam relatórios do exterior...",
+        "es-ES": "[Elly]\nSegún el análisis, solo hay rastros de recepción unilateral,\ny parece que se usaba para recopilar informes del exterior..."
+    },
+    "MyYMDQ": {
+        "en-US": "[Elly]\nIt seems it will take time to analyze, since the one-way signal uses the cipher employed by the 'intruders'.",
+        "pt-BR": "[Elly]\nComo o sinal unilateral usa o código empregado pelos 'Invasores', levará tempo para decifrar.",
+        "es-ES": "[Elly]\nParece que esas señales unilaterales usan el código que empleaban los 'intrusos', así que el análisis llevará tiempo."
+    },
+    "NCYMDQ": {
+        "en-US": "[Rookie]\nThen, Eli. I have one favor to ask.\nPlease continue receiving the signal as though the leaders of the 'intruders,' that is, Illusion, are still here.",
+        "pt-BR": "[Lukie]\nEntão, Elly. Tenho um pedido.\nContinue recebendo o sinal como se a liderança dos 'Invasores', ou seja, a Ilusión, ainda estivesse aqui.",
+        "es-ES": "[Rookie]\nEntonces, Elly. Solo voy a pedirte una cosa.\nSigue recibiendo la señal como si los 'intrusos', es decir, la cúpula de Illusion, siguieran aquí."
+    },
+    "NSYMDQ": {
+        "en-US": "[Est]\nOh, Rookie, this little one. Using your head well, huh?\nThen we might be able to trace the other collaborators out in other lands in reverse.",
+        "pt-BR": "[Est]\nAh, Lukie, agora você usou a cabeça.\nAssim poderemos rastrear os outros cúmplices que estão em terras distantes.",
+        "es-ES": "[Est]\nOh, mira tú a Rookie, qué bien le funciona la cabeza.\nEntonces podremos rastrear a la inversa a los otros cómplices que estén fuera."
+    },
+    "NiYMDQ": {
+        "en-US": "[Elly]\nExactly as you say.\nFrom now on, I will maintain the information pattern of the 'intruders' and collect information on accomplices received from outside.",
+        "pt-BR": "[Elly]\nEntendido.\nManterei o padrão de informação dos 'Invasores' e coletarei dados dos cúmplices recebidos externamente.",
+        "es-ES": "[Elly]\nExactamente.\nA partir de ahora mantendré el patrón informativo de los 'intrusos' y recopilaré la información de los cómplices recibida desde el exterior."
+    },
+    "NyYMDQ": {
+        "en-US": "[Rookie]\nIf we are lucky, we may even be able to find the route of the airship Illusion escaped in, or the locations of their accomplices.",
+        "pt-BR": "[Lukie]\nCom sorte, poderemos descobrir a rota do Aeroplano para onde a Ilusión fugiu, ou até a localização dos cúmplices.",
+        "es-ES": "[Rookie]\nCon un poco de suerte, podremos averiguar incluso la ruta del dirigible en el que huyó Illusion o la ubicación de sus cómplices."
+    },
+    "OCYMDQ": {
+        "en-US": "[Est]\nSo in the end, you could not catch those things called 'Illusion' here.\nOther than that strange little brat.",
+        "pt-BR": "[Est]\nEntão, no fim das contas, não conseguimos capturar a Ilusión aqui.\nExceto aquela estranha criança autômata.",
+        "es-ES": "[Est]\nEntonces al final no pudimos atrapar aquí a esos de 'Illusion'.\nA excepción de ese crío tan extraño."
+    },
+    "OSYMDQ": {
+        "en-US": "[Rookie]\nShould we not at least be satisfied that we managed to protect the mansion intact...?\nIt seems Mr. Est is working hard on the adjustments with the corporation, so this is where our work ends.",
+        "pt-BR": "[Lukie]\nNão deveríamos nos contentar com o fato de termos protegido a mansão?\nOs negócios com a corporação parecem estar sendo tratados pelo Sr. Est, então nosso trabalho termina aqui.",
+        "es-ES": "[Rookie]\n¿No deberíamos conformarnos al menos con haber protegido intacta la mansión...?\nParece que usted, señor Est, está gestionando el asunto con la corporación, así que nuestro trabajo termina aquí."
+    },
+    "OiYMDQ": {
+        "en-US": "[Rookie]\nYou worked hard again this time.\nIt is unfortunate, but next time let us definitely catch the rest of those bastards and see their faces.\nThese are things I have gathered in the meantime, so I will give them to you, Adventurer.",
+        "pt-BR": "[Lukie]\nBom trabalho mais uma vez.\nNa próxima vez vamos capturar o restante e ver quem são.\nIsto é algo que reuni até agora, viajante, fique com você.",
+        "es-ES": "[Rookie]\nEsta vez también ha trabajado mucho.\nEs una pena, pero la próxima vez atraparemos sin falta al resto de esos tipos y les veremos la cara de cerca.\nEsto es algo que he ido reuniendo todo este tiempo, se lo doy, trotamundos."
+    },
+    "OyYMDQ": {
+        "en-US": "[Est]\nI will keep staying in the caretaker break room, so if you need anything, come over there.",
+        "pt-BR": "[Est]\nFicarei na sala de descanso das Autômatas, então se precisar de algo, venha até lá.",
+        "es-ES": "[Est]\nYo seguiré en la sala de descanso de los administradores, así que, si necesitas algo, ven por allí."
+    },
+    "PCYMDQ": {
+        "en-US": "[Rookie]\nThen I should go spread this news and help Alpha.\nPlease take care of things, Mr. Eli!",
+        "pt-BR": "[Lukie]\nEntão vou informar essa notícia e ajudar a Gerente Alpha.\nConto com você, Srta. Elly!",
+        "es-ES": "[Rookie]\nEntonces yo tendré que ir a dar la noticia y ayudar al señor Alpha.\n¡Señora Elly, se lo encargo!"
+    },
+    "PSYMDQ": {
+        "en-US": "[Elly]\nDo not worry.\nI and Almond will take care of this place, so you may rest easy.",
+        "pt-BR": "[Elly]\nNão se preocupe.\nEu e Amêndoa cuidaremos deste lugar.",
+        "es-ES": "[Elly]\nNo se preocupe.\nAlmond y yo nos encargaremos de este lugar, así que puede estar tranquilo."
+    },
+    "PiYMDQ": {
+        "en-US": "[Elly]\nThe regular signal has not yet been received.\nWe are simultaneously tracking the whereabouts of Master's Collection No. 3 as well.",
+        "pt-BR": "[Elly]\nO sinal periódico ainda não foi recebido.\nTambém estou rastreando simultaneamente o paradeiro da Coleção nº 3 do mestre.",
+        "es-ES": "[Elly]\nTodavía no se ha recibido la señal periódica.\nTambién sigo rastreando al mismo tiempo el paradero de la colección número 3 de mi amo."
+    },
+    "PyYMDQ": {
+        "en-US": "[Elly]\nDo not worry.\nTime is on our side.",
+        "pt-BR": "[Elly]\nNão se preocupe.\nO tempo está do nosso lado.",
+        "es-ES": "[Elly]\nNo se preocupe.\nEl tiempo juega a nuestro favor."
+    },
+    "QCYMDQ": {
+        "en-US": "[Elly]\nAlpha and I will properly analyze the information, so it would be best if the guest cleaned up the abandoned remnants.",
+        "pt-BR": "[Elly]\nEu e Alpha analisaremos devidamente as informações, então você poderia eliminar os restantes abandonados.",
+        "es-ES": "[Elly]\nAlpha y yo analizaremos la información como es debido, así que me gustaría que usted se encargara de limpiar a los restos abandonados."
+    },
+    "QSYMDQ": {
+        "en-US": "[Elly]\nAlpha and I will properly analyze the information, so it would be best if the guest cleaned up the abandoned remnants... Ah!",
+        "pt-BR": "[Elly]\nEu e Alpha analisaremos devidamente as informações, então você poderia eliminar os restantes abandonados... Ah!",
+        "es-ES": "[Elly]\nAlpha y yo analizaremos la información como es debido, así que me gustaría que usted se encargara de limpiar a los restos abandonados... ¡Ah!"
+    },
+    "QiYMDQ": {
+        "en-US": "[Elly]\nPlease do not go anywhere for a moment.\nIt will be over soon.\nI told you time is on our side, did I not?",
+        "pt-BR": "[Elly]\nSó um momento, por favor, não vá embora.\nVou terminar logo logo.\nEu disse que o tempo está do nosso lado, não disse?",
+        "es-ES": "[Elly]\nEspere un momento y no se vaya a ninguna parte.\nYa casi termino.\n¿No le dije que el tiempo juega a nuestro favor?"
+    },
+    "QyYMDQ": {
+        "en-US": "[Elly]\nJust a moment...\n...\n...",
+        "pt-BR": "[Elly]\nSó um instante...\n...\n...",
+        "es-ES": "[Elly]\nUn momento...\n...\n..."
+    },
+    "RCYMDQ": {
+        "en-US": "[Elly]\nOnce the decryption is done, it is quick.\nNow that the part that took the longest is over, it is all in an instant.",
+        "pt-BR": "[Elly]\nAssim que decifrar o código, vai ser rápido.\nA parte que mais demorava acabou, então, vai ser num instante.",
+        "es-ES": "[Elly]\nEn cuanto se descifre el código, todo irá rápido.\nLo que más tiempo llevaba ya ha terminado, así que ahora será cuestión de un instante."
+    },
+    "RSYMDQ": {
+        "en-US": "[Elly]\nThere is something in ^0000FFRachel^000000.\nOf course, I have only heard of a place called Rachel and have never been there myself.\nIt seems the 'collaborator' there still does not know that their leadership has moved.",
+        "pt-BR": "[Elly]\nHá algo em ^0000FFRachel^000000.\nEu só ouvi falar de um lugar assim, mas nunca estive lá.\nParece que o 'invasor' daquele lugar ainda não sabe que a liderança da Ilusión se moveu.",
+        "es-ES": "[Elly]\nHay algo en ^0000FFRachel^000000.\nClaro que solo he oído hablar de ese lugar llamado Rachel, nunca he estado allí.\nParece que el 'colaborador' de ese sitio aún no sabe que sus cabecillas se han trasladado."
+    },
+    "RiYMDQ": {
+        "en-US": "[Elly]\nAlthough we still do not know where Master's Collection No. 3 is, so we must continue watching the information coming in here...\nWhat should we do?",
+        "pt-BR": "[Elly]\nEmbora ainda não seja possível saber onde está a Coleção nº 3 do Mestre, preciso continuar observando as informações que chegam aqui...\nO que faremos?",
+        "es-ES": "[Elly]\nAunque todavía no podemos saber dónde está la colección número 3 de mi amo y debo seguir observando la información que entra aquí...\n¿Qué hacemos?"
+    },
+    "RyYMDQ": {
+        "en-US": "What do you mean?",
+        "pt-BR": "Oi?",
+        "es-ES": "¿Con qué?"
+    },
+    "SCYMDQ": {
+        "en-US": "[{0}]\nWhat do you mean, what should we do?",
+        "pt-BR": "[{0}]\nO que quer dizer com o que faremos?",
+        "es-ES": "[{0}]\n¿Qué quieres decir con qué hacemos?"
+    },
+    "SSYMDQ": {
+        "en-US": "[Elly]\nWe have roughly secured the collaborator's location. According to the report, they are 'waiting for the next instructions,'\nso in that case, before the next instructions are given, we should swiftly wipe them out over there...",
+        "pt-BR": "[Elly]\nJá localizamos aproximadamente a posição do cúmplice da Ilusión. Segundo o relatório, ele está 'aguardando as próximas instruções',\nentão, nesse caso, antes que as próximas instruções sejam dadas, devemos chegar rapidamente ao lado de lá...",
+        "es-ES": "[Elly]\nYa hemos localizado más o menos la posición del colaborador. Según el informe, está 'esperando la siguiente orden',\nasí que, si es así, deberíamos barrer toda esa zona lo antes posible antes de que llegue la siguiente orden..."
+    },
+    "SiYMDQ": {
+        "en-US": "Rookie: Did you call?",
+        "pt-BR": "Lukie: Você me chamou?",
+        "es-ES": "Rookie: ¿Me habéis llamado?"
+    },
+    "SyYMDQ": {
+        "en-US": "Est: That was quicker than I expected.",
+        "pt-BR": "Est: Terminou mais rápido do que eu esperava.",
+        "es-ES": "Est: Ha terminado antes de lo que pensaba."
+    },
+    "TCYMDQ": {
+        "en-US": "[Est]\nGood, then to Rachel...",
+        "pt-BR": "[Est]\nCerto, então vamos para Rachel...",
+        "es-ES": "[Est]\nBien, entonces a Rachel..."
+    },
+    "TSYMDQ": {
+        "en-US": "[Rookie]\nRachel... who will go?",
+        "pt-BR": "[Lukie]\nRachel... mas quem vai?",
+        "es-ES": "[Rookie]\nRachel... ¿quién irá?"
+    },
+    "TiYMDQ": {
+        "en-US": "[Elly]\nIs there a conflict of opinions?",
+        "pt-BR": "[Elly]\nHá um conflito de opiniões?",
+        "es-ES": "[Elly]\n¿Hay un conflicto de opiniones?"
+    },
+    "TyYMDQ": {
+        "en-US": "[Rookie]\nIt is not that...\nIt would be a bit troublesome if all of us went.",
+        "pt-BR": "[Lukie]\nNão é isso...\nAcho que seria um pouco problemático se todos nós fôssemos.",
+        "es-ES": "[Rookie]\nNo es eso...\nCreo que sería un poco problemático que fuéramos todos."
+    },
+    "UCYMDQ": {
+        "en-US": "[Est]\nAh... I see.\nYes. If 'Rebellion' moves, it could become a diplomatic issue.",
+        "pt-BR": "[Est]\nAh... faz sentido.\nSe a 'Rebelião' entrar em Arunafeltz, pode virar um problema diplomático.",
+        "es-ES": "[Est]\nAh... ya veo.\nSí. Si se mueve 'Rebellion', podría convertirse en un problema diplomático."
+    },
+    "USYMDQ": {
+        "en-US": "[Rookie]\nThat is right. Even more so if it is Rachel.\nThe issues between the mansion and the corporation are still not all resolved either...",
+        "pt-BR": "[Lukie]\nIsso mesmo. Ainda mais se for em Rachel.\nO problema entre a Mansão e a Corporação também ainda não foi totalmente resolvido...",
+        "es-ES": "[Rookie]\nEso es. Y más aún si se trata de Rachel.\nEl problema entre la mansión y la corporación tampoco está resuelto del todo..."
+    },
+    "UiYMDQ": {
+        "en-US": "[Elly]\nI see.",
+        "pt-BR": "[Elly]\nEntendo.",
+        "es-ES": "[Elly]\nYa veo."
+    },
+    "UyYMDQ": {
+        "en-US": "[Elly]\nThen...",
+        "pt-BR": "[Elly]\nEntão... só sobrou....",
+        "es-ES": "[Elly]\nEntonces..."
+    },
+    "VCYMDQ": {
+        "en-US": "Why are you all looking at me?",
+        "pt-BR": "...Pra mim?",
+        "es-ES": "¿Por qué me miráis todos a mí?"
+    },
+    "VSYMDQ": {
+        "en-US": "[{0}]\nWhat do you mean, what should we do??",
+        "pt-BR": "[{0}]\nSobrou pra mim, não foi?",
+        "es-ES": "[{0}]\n¿Y qué se supone que debo hacer??"
+    },
+    "ViYMDQ": {
+        "en-US": "[Elly]\nLet us go. To Rachel.",
+        "pt-BR": "[Elly]\nSim. Nós vamos para Rachel.",
+        "es-ES": "[Elly]\nVamos. A Rachel."
+    },
+    "VyYMDQ": {
+        "en-US": "Rookie: So it is a place name.",
+        "pt-BR": "Lukie: Nós?",
+        "es-ES": "Rookie: Entonces es un topónimo."
+    },
+    "WCYMDQ": {
+        "en-US": "Est: So it is a place name.",
+        "pt-BR": "Est: Nós?",
+        "es-ES": "Est: Un topónimo, ya veo."
+    },
+    "WSYMDQ": {
+        "en-US": "[Elly]\nThe other guests all have affiliations, do they not?\nIt would be troublesome if a dispute arose because of jurisdiction.\nSince we do not know how long it will take, they are not suited to accompany us.",
+        "pt-BR": "[Elly]\nOs membros da Rebelião não podem, certo?\nSeria um grande problema agentes relacionados à República espiando o Império.\nComo não sabemos quanto tempo vai levar, não seria adequado acompanharem.",
+        "es-ES": "[Elly]\nLos demás visitantes tienen afiliación, ¿no?\nSería un problema que surgiera una disputa por cuestiones de jurisdicción.\nComo no sabemos cuánto puede tardar, no sería apropiado que nos acompañaran."
+    },
+    "WiYMDQ": {
+        "en-US": "[Est]\nThat sounded exactly like you are saying you intend to go yourself.",
+        "pt-BR": "[Est]\nIsso está soando como se você estivesse dizendo que vai pessoalmente.",
+        "es-ES": "[Est]\nEso ha sonado como si dijeras que vas a ir tú misma."
+    },
+    "WyYMDQ": {
+        "en-US": "[Elly]\nThat is correct.\nPlease wait a moment.",
+        "pt-BR": "[Elly]\nExatamente.\nPor favor, aguarde só um instante.",
+        "es-ES": "[Elly]\nAsí es.\nEspere un momento, por favor."
+    },
+    "XCYMDQ": {
+        "en-US": "[Elly]\n...",
+        "pt-BR": "[Elly]\n...",
+        "es-ES": "[Elly]\n..."
+    },
+    "XSYMDQ": {
+        "en-US": "[Elly]\nPermission has been granted.",
+        "pt-BR": "[Elly]\nA autorização foi concedida.",
+        "es-ES": "[Elly]\nHan dado permiso."
+    },
+    "XiYMDQ": {
+        "en-US": "The meeting has ended.",
+        "pt-BR": "Conversei com outras Autômatas.",
+        "es-ES": "La reunión ha terminado."
+    },
+    "XyYMDQ": {
+        "en-US": "[Elly]\nThe purpose is not interference, but support.\nI will follow along without becoming a burden.\nPlease take this.",
+        "pt-BR": "[Elly]\nO objetivo não é interferir, mas dar apoio.\nVou acompanhar o viajante sem incomodar.\nLeve isto.",
+        "es-ES": "[Elly]\nEl objetivo no es interferir, sino apoyar.\nLe acompañaré sin causarle molestias.\nTome esto."
+    },
+    "YCYMDQ": {
+        "en-US": "What Elly handed over is a somewhat droopy doll that looks exactly like Elly.\nThough it may not necessarily be Elly.",
+        "pt-BR": "Elly entrega uma boneca com a aparência muito parecida com ela, mas em miniatura.\nParece ser uma versão equipável.",
+        "es-ES": "Lo que Elly le entrega es una muñeca con una expresión decaída que se parece muchísimo a Elly.\nAunque quizá no sea necesariamente Elly."
+    },
+    "YSYMDQ": {
+        "en-US": "[Elly]\nWe also possess equipment capable of long-distance data transmission and reception.\nBecause that is what we ourselves are.",
+        "pt-BR": "[Elly]\nNós também possuímos equipamentos capazes de transmitir e receber dados à distância.\nAfinal, nossa existência serve para isso.",
+        "es-ES": "[Elly]\nNosotros también disponemos de equipo capaz de transmitir y recibir datos a larga distancia.\nPorque nosotros mismos somos seres de esa clase."
+    },
+    "YiYMDQ": {
+        "en-US": "[Elly]\nHowever, the circumstances are a little different right now, so I will give you a simple beta.",
+        "pt-BR": "[Elly]\nMas agora a situação é um pouco diferente, então vou lhe dar uma Autômata simplificada.",
+        "es-ES": "[Elly]\nPero como ahora la situación es un poco distinta, le daré una beta simplificada."
+    },
+    "YyYMDQ": {
+        "en-US": "Please keep it with you at all times.",
+        "pt-BR": "Certifique-se de carregá-la com você.",
+        "es-ES": "Llévela siempre con usted."
+    },
+    "ZCYMDQ": {
+        "en-US": "[Rookie]\nUh... Mini Elly?",
+        "pt-BR": "[Lukie]\nOwn... uma Mini Elly?",
+        "es-ES": "[Rookie]\nEh... ¿Mini Elly?"
+    },
+    "ZSYMDQ": {
+        "en-US": "[Elly]\nGood. I will adopt that name.\nUsing the resources of me, the main body, it can collect visual and auditory information like an alter ego and communication is possible as well.",
+        "pt-BR": "[Elly]\nÓtimo. Vou adotar esse nome.\nUsando os recursos de mim mesma, a unidade principal, ela pode coletar informações pela visão e audição, como se fosse uma duplicata, e também permite comunicação.",
+        "es-ES": "[Elly]\nBien. Adoptaré ese nombre.\nUsando los recursos de mi cuerpo principal, puede recopilar información visual, auditiva y demás, como si fuera una copia, y también comunicarse."
+    },
+    "ZiYMDQ": {
+        "en-US": "[Elly]\nSince it does not have an individual core, the information it obtains is not shared among betas unless I update it,\nand if communication is cut off, it is just a doll.",
+        "pt-BR": "[Elly]\nComo não possui um núcleo individual, as informações obtidas não são compartilhadas entre as Autômatas a menos que eu as atualize,\ne, se a comunicação for interrompida, ela vira apenas uma boneca.",
+        "es-ES": "[Elly]\nComo no tiene un núcleo individual, la información obtenida no se comparte entre betas a menos que yo la actualice,\ny si se corta la comunicación, no será más que una muñeca."
+    },
+    "ZyYMDQ": {
+        "en-US": "[Rookie]\nThen call us if you need our support.\nJust like Eli, aside from manpower, we will support you without reservation.",
+        "pt-BR": "[Lukie]\nEntão, se precisar do nosso apoio, chame.\nAssim como a Elly, vamos apoiar sem poupar nada, exceto mão de obra.",
+        "es-ES": "[Rookie]\nEntonces, si necesita nuestro apoyo, llámenos.\nIgual que Elly, le apoyaremos sin reservas en todo salvo en personal."
+    },
+    "aCYMDQ": {
+        "en-US": "[Elly]\nThen so it shall be.\nPlease do take care of yourselves on the way.",
+        "pt-BR": "[Elly]\nAssim será.\nPor favor, cuide-se e vá com segurança.",
+        "es-ES": "[Elly]\nAsí será.\nPor favor, tenga mucho cuidado ahí fuera."
+    },
+    "aSYMDQ": {
+        "en-US": "We are going together, but it feels strange to say goodbye like this.",
+        "pt-BR": "Vamos embora, mas ouvir isso como despedida deixa a sensação estranha.",
+        "es-ES": "Vamos juntos, pero que se despida así resulta extraño."
+    },
+    "aiYMDQ": {
+        "en-US": "[Elly]\nThe almost exact coordinates where the signal was transmitted are...\naround <NAVI>[here]<INFO>rachel,182,176,0,101,0</INFO></NAVI>.",
+        "pt-BR": "[Elly]\nAs coordenadas quase exatas de onde o sinal foi emitido são...\nmais ou menos <NAVI>[aqui]<INFO>rachel,182,176,0,101,0</INFO></NAVI>.",
+        "es-ES": "[Elly]\nLas coordenadas casi exactas desde donde se emitió la señal son...\npor <NAVI>[aquí]<INFO>rachel,182,176,0,101,0</INFO></NAVI>."
+    },
+    "ayYMDQ": {
+        "en-US": "[Elly]\nPlease stay safe all the way to Rachel.",
+        "pt-BR": "[Elly]\nPor favor, chegue em segurança até Rachel.",
+        "es-ES": "[Elly]\nQue llegue sano y salvo hasta Rachel."
+    },
+    "bCYMDQ": {
+        "en-US": "[Elly]\nDid you come all the way here just to tell me something?",
+        "pt-BR": "[Elly]\nVocê veio até aqui só para me dizer isso?",
+        "es-ES": "[Elly]\n¿Ha venido hasta aquí expresamente para decirme algo?"
+    },
+    "bSYMDQ": {
+        "en-US": "[Elly]\nYou wanted to see Eli?\nBut Eli has been with you the whole time, has she not?",
+        "pt-BR": "[Elly]\nQueria ver Elly?\nMas Elly sempre esteve o tempo todo com você, viajante.",
+        "es-ES": "[Elly]\n¿Dice que quería ver a Elly?\nPero si Elly ha estado todo el tiempo con usted, visitante."
+    },
+    "biYMDQ": {
+        "en-US": "[Elly]\nHow strange.\nWhy are you speaking as though we parted a month ago?",
+        "pt-BR": "[Elly]\nQue estranho.\nPor que está falando como se estivéssemos separados há um mês?",
+        "es-ES": "[Elly]\nQué raro.\n¿Por qué habla como si nos hubiéramos separado hace un mes?"
+    },
+    "byYMDQ": {
+        "en-US": "[Elly]\nIt seems we have returned to a situation where we are waiting for signals like this again.\nNo, that is not right. This time, we must analyze the barrier too, must we not?",
+        "pt-BR": "[Elly]\nAcabamos voltando à situação de ficar esperando sinais assim novamente.\nNão, desta vez também temos que analisar a barreira, não é?",
+        "es-ES": "[Elly]\nHemos vuelto a esta situación de esperar otra vez la señal.\nNo, claro. Esta vez también tenemos que analizar la barrera, ¿verdad?"
+    },
+    "cCYMDQ": {
+        "en-US": "[Elly]\nThere is more to do, but it is much better than back when there was nothing at all to do like before.\nThe mansion had been far too quiet all this time.\nIt is nice to see the mansion lively again, like when Master was here.",
+        "pt-BR": "[Elly]\nTenho mais tarefas, mas ainda assim isso é muito melhor do que antes, quando eu não tinha absolutamente nada para fazer.\nA mansão esteve silenciosa demais durante esse tempo.\nÉ bom ver a mansão cheia de vida, como na época em que o Mestre estava aqui.",
+        "es-ES": "[Elly]\nTengo más trabajo, pero aun así es mucho mejor que aquellos tiempos en los que no tenía absolutamente nada que hacer.\nDurante todo ese tiempo, la mansión estuvo demasiado silenciosa.\nMe gusta que la mansión vuelva a tener vida, como en los tiempos en que estaba aquí mi amo."
+    },
+    "cSYMDQ": {
+        "en-US": "[Elly]\nHow much do you know, guest, about the land where Jormungand was sealed?\nAs a result of returning and investigating Master's books, it appears that there, ice takes the place of soil and rock as the ground.",
+        "pt-BR": "[Elly]\nO quanto você sabe sobre a terra onde se diz que Jormungand foi selado?\nDepois de voltar e pesquisar os livros do Mestre, descobri que naquele lugar o gelo substitui a terra e as pedras.",
+        "es-ES": "[Elly]\n¿Cuánto sabe usted, visitante, de esa tierra en la que se dice que Jormungand fue sellado?\nDespués de volver e investigar los libros de mi amo, parece que allí el hielo sustituye a la tierra y a la roca."
+    },
+    "ciYMDQ": {
+        "en-US": "[Elly]\nI can picture it.\nThe sight of the guest stamping your cold feet on the ice and running around here and there.\nVery well. For that day, let us analyze the barrier diligently.",
+        "pt-BR": "[Elly]\nConsigo imaginar.\nA sua imagem correndo de um lado para o outro sobre o gelo, batendo os pés gelados.\nÓtimo. Até esse dia, vamos analisar a barreira com afinco.",
+        "es-ES": "[Elly]\nPuedo imaginármelo.\nA usted, visitante, correteando de un lado a otro sobre el hielo, dando golpecitos con los pies helados.\nMuy bien. Analizaré la barrera con empeño para ese día."
+    },
+    "cyYMDQ": {
+        "en-US": "[Elly]\nOf course, Alpha and I, Eli, will handle the analysis.\nIt seems Master simply crossed such sealing barriers with ease,\nso there must be a way somewhere.",
+        "pt-BR": "[Elly]\nClaro, a análise será feita pela Gerente Alpha e por mim, Elly.\nParece que o Mestre simplesmente atravessava esse tipo de barreira de selamento com facilidade,\nentão deve haver algum método em algum lugar.",
+        "es-ES": "[Elly]\nPor supuesto, el análisis lo haremos Alpha y yo, Elly.\nParece que mi amo cruzaba sin más esas barreras de sellado,\nasí que en alguna parte debe de haber un método."
+    },
+    "dCYMDQ": {
+        "en-US": "[Elly]\nAlthough the airship Master used at the time was taken away, the records should remain.\nUntil the barrier analysis is complete, guest, attend to your own affairs.",
+        "pt-BR": "[Elly]\nO aeroplano que o Mestre usou naquela época foi roubado, mas os registros devem ter ficado.\nAté que a análise da barreira termine, o visitante deve cuidar dos seus próprios assuntos.",
+        "es-ES": "[Elly]\nNos robaron el dirigible que utilizó mi amo en aquel entonces, pero los datos deben seguir aquí.\nHasta que termine el análisis de la barrera, ocúpese usted de sus propios asuntos."
+    },
+    "dSYMDQ": {
+        "en-US": "[Elly]\nFrom accompanying you briefly last time, I saw that there are many people who want you.\nGo out and handle outside matters.\nWe will do our work.",
+        "pt-BR": "[Elly]\nDa última vez que acompanhei você por um instante, vi que muitos procuram por você.\nSaia e cuide dos assuntos lá fora.\nNós cuidaremos do nosso trabalho.",
+        "es-ES": "[Elly]\nLa última vez que le acompañé brevemente vi que mucha gente le quería, visitante.\nSalga y ocúpese de los asuntos de fuera.\nNosotros haremos lo nuestro."
+    },
+    "diYMDQ": {
+        "en-US": "[Elly]\nI called you all here to share good news.\nFirst, shall we move to a good place, suitable for delivering good news?",
+        "pt-BR": "[Elly]\nChamei todos vocês para lhes dar uma boa notícia.\nPrimeiro, que tal irmos para um lugar adequado?",
+        "es-ES": "[Elly]\nLes he llamado para comunicarles una buena noticia.\nPrimero, ¿vamos a movernos a un buen lugar, apropiado para dar una buena noticia?"
+    },
+    "dyYMDQ": {
+        "en-US": "[Elly]\nThe other guests are waiting as well, so let us move at once.\nCome with me to the mansion's drawing room.",
+        "pt-BR": "[Elly]\nOs outros visitantes também estão esperando, então vamos nos mexer logo.\nVamos juntos para a sala de recepção da mansão.",
+        "es-ES": "[Elly]\nLos demás visitantes también están esperando, así que vámonos enseguida.\nVamos juntos al salón de recepción de la mansión."
+    },
+    "eCYMDQ": {
+        "en-US": "[Elly]\nFrom now on, Ginger will be with all of you.\nI have neglected Master's airship management too much all this time.",
+        "pt-BR": "[Elly]\nDe agora em diante, Gengibre estará com todos vocês.\nParece que fui negligente demais na administração do aeroplano do Mestre durante esse tempo.",
+        "es-ES": "[Elly]\nA partir de ahora, Ginger irá con ustedes.\nHe descuidado demasiado tiempo la gestión del dirigible de mi amo."
+    },
+    "eSYMDQ": {
+        "en-US": "[Elly]\nGinger is an excellent navigator, so she will surely be a great help to all of you, guests.",
+        "pt-BR": "[Elly]\nGengibre é uma excelente navegadora, então será de grande ajuda para todos os visitantes, não acha?",
+        "es-ES": "[Elly]\nGinger es una navegante excelente, así que será de gran ayuda para todos ustedes, visitantes, ¿no cree?"
+    },
+    "eiYMDQ": {
+        "en-US": "Est",
+        "pt-BR": "Est",
+        "es-ES": "Est"
+    },
+    "eyYMDQ": {
+        "en-US": "[Est]\nIt did not take as long as I expected.",
+        "pt-BR": "[Est]\nNão levou tanto tempo quanto eu esperava.",
+        "es-ES": "[Est]\nNo ha tardado tanto como pensaba."
+    },
+    "fCYMDQ": {
+        "en-US": "[Est]\nTake care of yourself.",
+        "pt-BR": "[Est]\nTome cuidado.",
+        "es-ES": "[Est]\nTen cuidado ahí fuera."
+    },
+    "fSYMDQ": {
+        "en-US": "Rookie",
+        "pt-BR": "Lukie",
+        "es-ES": "Rookie"
+    },
+    "fiYMDQ": {
+        "en-US": "[Rookie]\nYou found a lead?",
+        "pt-BR": "[Lukie]\nVocê disse que encontrou uma pista?",
+        "es-ES": "[Rookie]\n¿Ha encontrado una pista?"
+    },
+    "fyYMDQ": {
+        "en-US": "[Rookie]\nIt is unfortunate, but it cannot be helped.\nWe also have to clean up matters on the corporation side, so we cannot just sit around.\nLet us meet again after everything has been resolved.",
+        "pt-BR": "[Lukie]\nÉ uma pena, mas não há o que fazer.\nNós também precisamos resolver os assuntos do lado da Corporação, então não podemos ficar parados.\nVamos nos encontrar de novo depois que tudo estiver resolvido.",
+        "es-ES": "[Rookie]\nEs una pena, pero no se puede hacer nada.\nNosotros también tenemos que arreglar los asuntos con la corporación, así que no podemos quedarnos de brazos cruzados.\nNos volveremos a ver cuando todo esté resuelto."
+    },
+    "gCYMDQ": {
+        "en-US": "The Masked Person",
+        "pt-BR": "Pessoa Mascarada",
+        "es-ES": "Persona enmascarada"
+    },
+    "gSYMDQ": {
+        "en-US": "[Mini Elly]\nPlease take me out of the bag. Please place me on top of your head.",
+        "pt-BR": "[Mini Elly]\nTire-me da bolsa. Coloque-me sobre a sua cabeça.",
+        "es-ES": "[Mini Elly]\nSácame de la bolsa. Ponme sobre tu cabeza."
+    },
+    "giYMDQ": {
+        "en-US": "Mini Elly: Please take me out of the bag. Please place me on top of your head.",
+        "pt-BR": "Mini Elly: Tire-me da bolsa. Coloque-me sobre a sua cabeça.",
+        "es-ES": "Mini Elly: Sácame de la bolsa. Ponme sobre tu cabeza."
+    },
+    "gyYMDQ": {
+        "en-US": "Where did Drooping Elli go?",
+        "pt-BR": "Para onde foi a Mini Elly?",
+        "es-ES": "¿Dónde ha ido Elly decaído?"
+    },
+    "hCYMDQ": {
+        "en-US": "[Mini Elly]\nI have received the signal that you have arrived at the local coordinates.\nIs this the place I called you to?",
+        "pt-BR": "[Mini Elly]\nRecebi o sinal de que você chegou às coordenadas locais.\nEsta posição é mesmo o lugar que lhe indiquei?",
+        "es-ES": "[Mini Elly]\nHe recibido la señal de que hemos llegado a las coordenadas locales.\n¿Es esta la ubicación a la que le pedí que viniera?"
+    },
+    "hSYMDQ": {
+        "en-US": "That is right.",
+        "pt-BR": "Está certo.",
+        "es-ES": "Sí"
+    },
+    "hiYMDQ": {
+        "en-US": "No.",
+        "pt-BR": "Não.",
+        "es-ES": "No"
+    },
+    "hyYMDQ": {
+        "en-US": "[{0}]\nThat is right. This is around the place.",
+        "pt-BR": "[{0}]\nEstá certo. É por aqui.",
+        "es-ES": "[{0}]\nSí. Será por esta zona."
+    },
+    "iCYMDQ": {
+        "en-US": "[{0}]\nI do not think this is the place.",
+        "pt-BR": "[{0}]\nAcho que não é aqui.",
+        "es-ES": "[{0}]\nCreo que no es aquí."
+    },
+    "iSYMDQ": {
+        "en-US": "[Mini Elly]\nHow strange. According to the information being transmitted from Mini Elly right now, it seems correct, so let us check the surroundings first.",
+        "pt-BR": "[Mini Elly]\nQue estranho. Pelas informações transmitidas agora por Mini Elly, parece ser mesmo, então vamos verificar os arredores por enquanto.",
+        "es-ES": "[Mini Elly]\nQué extraño. Según la información emitida ahora mismo por Mini Elly, parece correcto, así que revisemos primero los alrededores."
+    },
+    "iiYMDQ": {
+        "en-US": "[Mini Elly]\nDo you see anything suspicious, guest?\nThis is my first time seeing people who are neither intruders nor guests, but even among them, I can tell those masked people are suspicious.",
+        "pt-BR": "[Mini Elly]\nHá algo suspeito aos seus olhos, viajante?\nÉ a primeira vez que vejo pessoas que não são invasores nem visitantes, mas mesmo assim, até eu consigo perceber que aquelas pessoas de máscara são suspeitas.",
+        "es-ES": "[Mini Elly]\n¿Hay algo sospechoso a ojos del visitante?\nEs la primera vez que veo a personas que no sean ni intrusos ni visitantes, pero incluso entre ellos, yo también puedo notar que esas personas con máscara son sospechosas."
+    },
+    "iyYMDQ": {
+        "en-US": "[{0}]\nThose people are the residents here...",
+        "pt-BR": "[{0}]\nAquelas pessoas são moradores daqui...",
+        "es-ES": "[{0}]\nEsa gente es de aquí..."
+    },
+    "jCYMDQ": {
+        "en-US": "[Mini Elly]\nIs that so? Their attire is fascinating.\nI will remember it.",
+        "pt-BR": "[Mini Elly]\nÉ mesmo? Que roupa curiosa.\nVou me lembrar disso.",
+        "es-ES": "[Mini Elly]\n¿Sí? Tienen una vestimenta curiosa.\nLo recordaré."
+    },
+    "jSYMDQ": {
+        "en-US": "[Orator]\n...No.\nThis is not a mild story about getting along peacefully with one's neighbors.\nWhat we need is a slightly better future.",
+        "pt-BR": "[Orador]\n...Não!\nNão estou falando de coisas simples, como conviver em paz com os vizinhos.\nO que precisamos é de um futuro um pouco melhor.",
+        "es-ES": "[Orador]\n...No.\nNo hablo de cosas apacibles, como llevarse en paz con los vecinos.\nLo que nosotros necesitamos es un futuro un poco mejor."
+    },
+    "jiYMDQ": {
+        "en-US": "Orator: If we do not step forward and resolve this now, the future of our Arunafeltz will fall into disarray!",
+        "pt-BR": "Orador: Se não nos ajudarmos agora, o futuro de Arunafeltz estará abalado!",
+        "es-ES": "Orador: ¡Si no damos un paso al frente y lo resolvemos ahora, el futuro de nuestra Arunafeltz se desmoronará!"
+    },
+    "jyYMDQ": {
+        "en-US": "What is this?",
+        "pt-BR": "O quê?",
+        "es-ES": "¿Qué pasa?"
+    },
+    "kCYMDQ": {
+        "en-US": "[Orator]\nIf this is not antagonism, then what else can it be called?\nAnyone can see it is a sign that the nation is about to split apart, so can we simply ignore it and move on?",
+        "pt-BR": "[Orador]\nSe isso não é antagonismo, então como podemos chamar?\nÉ claramente um sinal de que o país está se dividindo, então podemos mesmo simplesmente ignorar e seguir em frente?",
+        "es-ES": "[Orador]\nSi esto no es antagonismo, ¿cómo podríamos llamarlo?\nA ojos de cualquiera son señales de que el país se está dividiendo, ¿y vamos a ignorarlo y pasar de largo?"
+    },
+    "kSYMDQ": {
+        "en-US": "[Orator]\nWhy in the world has this happened?\nWhy can we not respect one another?\nI understand that each person may have their own thoughts, but I wish to say this.",
+        "pt-BR": "[Orador]\nAfinal, como isso aconteceu?\nPor que não conseguem respeitar o outro?\nEntendo que cada um possa ter suas próprias ideias, mas eu quero dizer isto.",
+        "es-ES": "[Orador]\n¿Por qué demonios ha ocurrido esto?\n¿Por qué no se puede respetar al otro?\nEntiendo que cada cual pueda tener sus ideas, pero yo quiero decir esto."
+    },
+    "kiYMDQ": {
+        "en-US": "Who is that?",
+        "pt-BR": "Quem é?",
+        "es-ES": "¿Quién es?"
+    },
+    "kyYMDQ": {
+        "en-US": "[Orator]\nWhat meaning is there, as one of this nation's citizens, in entrusting all of your worth to the bloodline you were born into and then resorting to violence?\nWhat meaning does it have for yourself?",
+        "pt-BR": "[Orador]\nComo cidadã deste país, qual é o significado de confiar todo o seu valor ao nascimento e recorrer à violência?\nQue significado isso tem para você mesmo?",
+        "es-ES": "[Orador]\n¿Qué sentido tiene, como ciudadano de este país, delegar todo el valor de uno mismo en la sangre con la que se ha nacido y ejercer la violencia?\n¿Qué sentido tiene para uno mismo?"
+    },
+    "lCYMDQ": {
+        "en-US": "Who is that?",
+        "pt-BR": "Quem é essa pessoa?",
+        "es-ES": "¿Quién es?"
+    },
+    "lSYMDQ": {
+        "en-US": "Drag him out!",
+        "pt-BR": "Tirem-na daí!",
+        "es-ES": "¡Sacadlo de ahí!"
+    },
+    "liYMDQ": {
+        "en-US": "I have never seen him before, so who in the world is he?",
+        "pt-BR": "Nunca vi essa pessoa na vida, quem é afinal?",
+        "es-ES": "No lo he visto en mi vida, ¿quién demonios es?"
+    },
+    "lyYMDQ": {
+        "en-US": "[Orator]\nDoes it not strike you as strange that you are getting angry over such a statement?",
+        "pt-BR": "[Orador]\nVocês não acham estranho ficar com raiva de um discurso desses?",
+        "es-ES": "[Orador]\n¿No les parece extraño enfadarse por algo así?"
+    },
+    "mCYMDQ": {
+        "en-US": "Hear, hear!",
+        "pt-BR": "Muito bem!",
+        "es-ES": "¡Tiene razón!"
+    },
+    "mSYMDQ": {
+        "en-US": "Hey, you, you are a native, are you not!",
+        "pt-BR": "Ei! É uma nativa!",
+        "es-ES": "¡Eh, tú qué eres, un indígena!"
+    },
+    "miYMDQ": {
+        "en-US": "Is it not strange that there is even a need to distinguish that?",
+        "pt-BR": "Não é estranho precisar fazer essa distinção?",
+        "es-ES": "¿No te parece raro que haya que distinguir eso?"
+    },
+    "myYMDQ": {
+        "en-US": "[Orator]\nI do not wish to see you all fight.\nUnless everyone stands together, there is no future for us.",
+        "pt-BR": "[Orador]\nEu não quero ver vocês brigando.\nSe não estivermos todos juntos, não teremos futuro.",
+        "es-ES": "[Orador]\nYo no quiero verles pelear.\nSi no estamos todos juntos, no tenemos futuro."
+    },
+    "nCYMDQ": {
+        "en-US": "And who are you supposed to be!",
+        "pt-BR": "E você, quem é?!",
+        "es-ES": "¡Y tú qué eres!"
+    },
+    "nSYMDQ": {
+        "en-US": "This person is hopeless.",
+        "pt-BR": "Essa pessoa não tem jeito mesmo.",
+        "es-ES": "Este tipo no tiene remedio."
+    },
+    "niYMDQ": {
+        "en-US": "Orator continued speaking without paying any attention to the murmuring of the audience.",
+        "pt-BR": "A militante continuou falando sem se importar com a plateia.",
+        "es-ES": "Orador siguió hablando sin prestar atención a los murmullos del público."
+    },
+    "nyYMDQ": {
+        "en-US": "[Mini Elly]\nHow fascinating. There are quite a lot of masked people. It seems that, unlike us, even if they all have the same face, they can still distinguish one another.",
+        "pt-BR": "[Mini Elly]\nCurioso. Tem muita gente usando máscara. Parece que mesmo com o rosto coberto, eles conseguem distinguir uns aos outros.",
+        "es-ES": "[Mini Elly]\nQué curioso. Hay bastantes personas con máscara. Parece que, aunque tengan todas la misma cara como nosotros, son capaces de distinguirse entre sí."
+    },
+    "oCYMDQ": {
+        "en-US": "Hey, words are all well and good, but people keep getting hurt and carried off to the hospital. Do you think just talking will solve that?",
+        "pt-BR": "Ei, falar é fácil, mas as pessoas continuam se machucando. Só palavras não adiantam!",
+        "es-ES": "Oye, hablar está muy bien, pero la gente sigue saliendo herida y la están llevando al hospital. ¿De verdad crees que solo hablando se arreglará?"
+    },
+    "oSYMDQ": {
+        "en-US": "And whose fault is that?",
+        "pt-BR": "E a culpa é de quem?",
+        "es-ES": "¿Y de quién es la culpa?"
+    },
+    "oiYMDQ": {
+        "en-US": "[Mini Elly]\nWhy is that person interrupting someone who is saying the right things?",
+        "pt-BR": "[Mini Elly]\nPor que aquela pessoa está atrapalhando a militante que está dizendo coisas corretas?",
+        "es-ES": "[Mini Elly]\n¿Por qué esa persona interrumpe a alguien que está diciendo cosas correctas?"
+    },
+    "oyYMDQ": {
+        "en-US": "[{0}]\nBecause they believe it is not right.",
+        "pt-BR": "[{0}]\nPorque acredita que aquilo não está certo.",
+        "es-ES": "[{0}]\nPorque cree que eso no es correcto."
+    },
+    "pCYMDQ": {
+        "en-US": "Look at the other day too, I thought that brawl was just a fight, but the migrants were the only ones being targeted, were they not?",
+        "pt-BR": "Outro dia aconteceu uma briga, mas eram imigrantes, não eram?",
+        "es-ES": "Mira lo del otro día, esa pelea que hubo parecía una simple reyerta, pero al final solo estaban atacando a los inmigrantes, ¿no?"
+    },
+    "pSYMDQ": {
+        "en-US": "I heard that happened because native kids came back after getting beaten up before that.",
+        "pt-BR": "Mas disseram que as crianças indígenas tinham voltado espancadas, não foi?",
+        "es-ES": "Pero dijeron que fue porque antes habían vuelto golpeados unos chicos indígenas."
+    },
+    "piYMDQ": {
+        "en-US": "[Mini Elly]\nThe commotion is growing.\nIt seems they all insist that only they are right and have no intention of listening to what others have to say.",
+        "pt-BR": "[Mini Elly]\nA confusão está aumentando.\nParece que todos insistem que só eles estão certos e nem pensam em ouvir o que os outros têm a dizer.",
+        "es-ES": "[Mini Elly]\nEl alboroto va en aumento.\nParece que todos insisten en que solo ellos tienen razón y ni siquiera piensan escuchar lo que dicen los demás."
+    },
+    "pyYMDQ": {
+        "en-US": "It was wrong from the start to use violence against people!",
+        "pt-BR": "É errado usar violência contra as pessoas!",
+        "es-ES": "¡Lo que está mal es usar la violencia contra la gente desde el principio!"
+    },
+    "qCYMDQ": {
+        "en-US": "They must have done something to deserve it.",
+        "pt-BR": "Deve ter merecido aquilo.",
+        "es-ES": "Habrá hecho algo para merecerlo."
+    },
+    "qSYMDQ": {
+        "en-US": "I really hate hearing the phrase 'deserved to be beaten.' What in the world does that even mean?",
+        "pt-BR": "Eu odeio quem diz que mereceu. Afinal, o que significa merecer apanhar?",
+        "es-ES": "Qué poco me gusta escuchar eso de que se lo merecía. ¿Qué se supone que significa merecerlo?"
+    },
+    "qiYMDQ": {
+        "en-US": "[Mini Elly]\nThe voices are getting louder and louder than before.",
+        "pt-BR": "[Mini Elly]\nO barulho está ficando cada vez mais alto do que antes.",
+        "es-ES": "[Mini Elly]\nHay cada vez más ruido que antes."
+    },
+    "qyYMDQ": {
+        "en-US": "It is wrong from the moment you say the victim had a reason to be harmed!",
+        "pt-BR": "É errado culpar a vítima! Não há motivos para sofrer agressão!",
+        "es-ES": "¡Ya está mal desde el momento en que se dice que la víctima tenía motivos para ser agredida!"
+    },
+    "rCYMDQ": {
+        "en-US": "[Anxious Priest]\nWhat should I do... should I stop them?",
+        "pt-BR": "[Sacerdote Nervoso]\nO que eu faço... devo apartar a briga?",
+        "es-ES": "[Sacerdote Nervioso]\n¿Qué hago...? ¿Debería intervenir?"
+    },
+    "rSYMDQ": {
+        "en-US": "This is bad...",
+        "pt-BR": "Isso é sério...",
+        "es-ES": "Esto es grave..."
+    },
+    "riYMDQ": {
+        "en-US": "[Mini Elly]\nThere is someone over there who seems out of place in this gathering.",
+        "pt-BR": "[Mini Elly]\nHá alguém ali que não combina com este lugar.",
+        "es-ES": "[Mini Elly]\nHay alguien allí que no encaja con este lugar."
+    },
+    "ryYMDQ": {
+        "en-US": "[Masked Person]\nFreya is love.",
+        "pt-BR": "[Pessoa Mascarada]\nFreya é amor.",
+        "es-ES": "[Persona enmascarada]\nFreya es amor."
+    },
+    "sCYMDQ": {
+        "en-US": "Someone is giving a speech in a loud voice.",
+        "pt-BR": "Alguém está fazendo um discurso em voz alta.",
+        "es-ES": "Alguien está pronunciando un discurso a voz en grito."
+    },
+    "sSYMDQ": {
+        "en-US": "[Mini Elly]\nI have received the signal that you have, more or less, arrived at the local coordinates.\nIs this the place I called you to?",
+        "pt-BR": "[Mini Elly]\nRecebi aproximadamente o sinal de que você chegou às coordenadas locais.\nEsta posição é mesmo o lugar que lhe indiquei?",
+        "es-ES": "[Mini Elly]\nHe recibido la señal de que, más o menos, hemos llegado a las coordenadas locales.\n¿Es esta la ubicación a la que le pedí que viniera?"
+    },
+    "siYMDQ": {
+        "en-US": "The speech shows no sign of stopping.\nThe atmosphere around it is grim.",
+        "pt-BR": "O discurso não parece parar.\nO clima ao redor é hostil.",
+        "es-ES": "El discurso no da señales de detenerse.\nEl ambiente alrededor es hostil."
+    },
+    "syYMDQ": {
+        "en-US": "Mini Elly: There is someone over there who seems out of place in this gathering.",
+        "pt-BR": "Mini Elly: Há alguém ali que não combina com este lugar.",
+        "es-ES": "Mini Elly: Hay alguien allí que no encaja con este lugar."
+    },
+    "tCYMDQ": {
+        "en-US": "The speech shows no sign of stopping.\nThe unfortunate Priest is watching this side nervously.",
+        "pt-BR": "O discurso não parece parar.\nO Sacerdote Nervoso está observando a reação.",
+        "es-ES": "El discurso no da señales de detenerse.\nEl desdichado Sacerdote está pendiente de la reacción de este lado."
+    },
+    "tSYMDQ": {
+        "en-US": "[Masked Person]\nYou are saying there was someone giving a speech here while wearing a mask?\nHmm...",
+        "pt-BR": "[Pessoa Mascarada]\nVocê disse que havia alguém discursando aqui usando máscara?\nHmm...",
+        "es-ES": "[Persona Enmascarada]\n¿Dice que aquí hubo alguien dando un discurso con una máscara puesta?\nMmm..."
+    },
+    "tiYMDQ": {
+        "en-US": "[Masked Person]\nDo not misunderstand. You, as an outsider, may not know this well, but with a mask that only covers half the face like this, we can still recognize each other.",
+        "pt-BR": "[Pessoa Mascarada]\nNão entenda mal. Você, que é de fora, talvez não saiba, mas nós conseguimos reconhecer quem é quem mesmo usando apenas essas máscaras que cobrem só metade do rosto.",
+        "es-ES": "[Persona Enmascarada]\nNo lo malinterprete. Puede que usted, como forastero, no lo sepa bien, pero con una máscara que solo cubre la mitad del rostro como esta, nosotros sí sabemos quién es quién."
+    },
+    "tyYMDQ": {
+        "en-US": "[Masked Person]\nHe is a brave one. Without even a disguise.\nPerhaps you are the only one who cannot tell him and me apart.",
+        "pt-BR": "[Pessoa Mascarada]\nÉ uma pessoa corajosa. Sem nem mesmo disfarce.\nProvavelmente a única pessoa que não consegue distinguir entre ele e eu é você.",
+        "es-ES": "[Persona Enmascarada]\nEs una persona valiente. Y sin disfraz alguno.\nProbablemente usted sea el único que no puede distinguirnos a él y a mí."
+    },
+    "uCYMDQ": {
+        "en-US": "Audience",
+        "pt-BR": "Plateia",
+        "es-ES": "Público"
+    },
+    "uSYMDQ": {
+        "en-US": "Anxious Priest",
+        "pt-BR": "Sacerdote Nervoso",
+        "es-ES": "Sacerdote Nervioso"
+    },
+    "uiYMDQ": {
+        "en-US": "The somewhat anxious-looking Priest is listening intently to Orator.",
+        "pt-BR": "O Sacerdote inquieto está ouvindo atentamente o que o Orador está dizendo.",
+        "es-ES": "El Sacerdote, que parece algo nervioso, escucha atentamente las palabras de Orador."
+    },
+    "uyYMDQ": {
+        "en-US": "Mini Elly: There is someone over there who does not seem to fit this place?",
+        "pt-BR": "Mini Elly: Tem algo ali que não combina com este lugar, não é?",
+        "es-ES": "Mini Elly: ¿Hay allí alguien que no encaja con este lugar?"
+    },
+    "vCYMDQ": {
+        "en-US": "Where did Drooping Elli go?\nWithout Drooping Elli, the exact location cannot be determined.",
+        "pt-BR": "Para onde foi a Mini Elly?\nSem a Mini Elly, não dá para encontrar a localização exata.",
+        "es-ES": "¿Dónde ha ido Mini Elly?\nSin Mimi Elly no se puede encontrar la ubicación exacta."
+    },
+    "vSYMDQ": {
+        "en-US": "[Anxious Priest]\n...?\nAh, could you hear me? I am sorry.",
+        "pt-BR": "[Sacerdote Nervoso]\n...?\nAh, você ouviu o que eu disse? Desculpe.",
+        "es-ES": "[Sacerdote Nervioso]\n...?\nAh, ¿me estaba hablando? Lo siento."
+    },
+    "viYMDQ": {
+        "en-US": "[Anxious Priest]\nUm... well. There have been many disturbances like this lately.",
+        "pt-BR": "[Sacerdote Nervoso]\nÉ... bem. Ultimamente têm acontecido muitos distúrbios assim.",
+        "es-ES": "[Sacerdote Nervioso]\nEs que... verá. Últimamente ha habido muchos disturbios de este tipo."
+    },
+    "vyYMDQ": {
+        "en-US": "[Anxious Priest]\nSo... Adventurer, is this your first time in Rachel?",
+        "pt-BR": "[Sacerdote Nervoso]\nEntão... viajante, é a sua primeira vez em Rachel?",
+        "es-ES": "[Sacerdote Nervioso]\nEntonces... trotamundos, ¿es su primera vez en Rachel?"
+    },
+    "wCYMDQ": {
+        "en-US": "How would I know that? What a ridiculous question.",
+        "pt-BR": "Como eu vou saber? Cada figura que aparece...",
+        "es-ES": "¿Cómo voy a saberlo yo? Menudo tipo más ridículo."
+    },
+    "wSYMDQ": {
+        "en-US": "What? The more I hear, the more you say whatever you please?",
+        "pt-BR": "O quê? Seu desgraçado, você fala pelos cotovelos, hein?",
+        "es-ES": "¿Qué? Este tipo ya está diciendo lo que le da la gana."
+    },
+    "wiYMDQ": {
+        "en-US": "[Anxious Priest]\nHmm...\nI am not sure how much you know about Arunafeltz...\nbut have you perhaps heard about the... disputes of origin among the residents...",
+        "pt-BR": "[Sacerdote Nervoso]\nHum...\nNão sei o quanto você sabe sobre Arunafeltz, mas...\npor acaso conhece o... conflito dos moradores...?",
+        "es-ES": "[Sacerdote Nervioso]\nMmm...\nNo sé hasta qué punto conoce usted Arunafeltz, pero...\n¿sabe algo sobre los... conflictos de origen entre los habitantes...?"
+    },
+    "wyYMDQ": {
+        "en-US": "I have heard of it.",
+        "pt-BR": "Já ouvi falar.",
+        "es-ES": "He oído hablar de ello"
+    },
+    "xCYMDQ": {
+        "en-US": "[Anxious Priest]\nI see. Shamefully... this kind of situation has been continuing as a chronic issue.\nRecently, it seems there are even people giving street speeches like this...",
+        "pt-BR": "[Sacerdote Nervoso]\nEntendo. É vergonhoso dizer, mas... esse tipo de situação vem se repetindo cronicamente.\nUltimamente, parece que até existem pessoas fazendo discursos na rua assim...",
+        "es-ES": "[Sacerdote Nervioso]\nYa veo. Me avergüenza decirlo, pero... esta situación lleva repitiéndose de forma crónica.\nÚltimamente parece que incluso hay gente que da discursos callejeros de esta manera..."
+    },
+    "xSYMDQ": {
+        "en-US": "[Anxious Priest]\nPeople who interfere like that appear from time to time.\nHowever, even if I wish to stop them, as you can see, it is difficult for me to step in directly...",
+        "pt-BR": "[Sacerdote Nervoso]\nEssas pessoas que atrapalham assim aparecem com frequência.\nMas, mesmo querendo intervir, como pode ver, eu mesmo não posso me meter diretamente...",
+        "es-ES": "[Sacerdote Nervioso]\nA menudo aparece gente así para interrumpir.\nPero aunque quisiera detenerlos, como ve, me cuesta intervenir personalmente..."
+    },
+    "xiYMDQ": {
+        "en-US": "Why are they fighting like that?",
+        "pt-BR": "Por que estão brigando desse jeito, afinal?",
+        "es-ES": "¿Por qué demonios están peleándose así?"
+    },
+    "xyYMDQ": {
+        "en-US": "They say only fools fight.",
+        "pt-BR": "Dizem que só os ignorantes brigam.",
+        "es-ES": "Dicen que solo los ignorantes se pelean."
+    },
+    "yCYMDQ": {
+        "en-US": "[Anxious Priest]\n...I cannot easily step in because it might look like I am taking the side of the ruling migrants.\nBut at the same time, I cannot just ignore it either...",
+        "pt-BR": "[Sacerdote Nervoso]\n...Tenho receio de parecer que estou tomando o lado dos imigrantes, que fazem parte da classe dominante.\nMas também não posso fingir que não vi...",
+        "es-ES": "[Sacerdote Nervioso]\n...Me preocupa que parezca que estoy tomando partido por los inmigrantes, que son la clase dirigente.\nPero tampoco puedo ver algo así y fingir que no pasa nada..."
+    },
+    "ySYMDQ": {
+        "en-US": "[Anxious Priest]\nThis time as well, I became concerned about the speech of someone I have never seen before, and as I watched...",
+        "pt-BR": "[Sacerdote Nervoso]\nDesta vez também apareceu alguém que eu nunca tinha visto e comecei a observar por causa desse discurso, e sem perceber...",
+        "es-ES": "[Sacerdote Nervioso]\nEsta vez también apareció alguien a quien nunca había visto, dando un discurso, y me quedé mirando preocupado, hasta que sin darme cuenta..."
+    },
+    "yiYMDQ": {
+        "en-US": "What do you mean?",
+        "pt-BR": "O que foi agora?",
+        "es-ES": "¿Qué pasa con qué?"
+    },
+    "yyYMDQ": {
+        "en-US": "Seems like it fits perfectly, huh?",
+        "pt-BR": "Então parece que serviu direitinho, né?",
+        "es-ES": "¿Entonces te viene que ni pintado?"
+    },
+    "zCYMDQ": {
+        "en-US": "[Anxious Priest]\n...",
+        "pt-BR": "[Sacerdote Nervoso]\n...",
+        "es-ES": "[Sacerdote Nervioso]\n..."
+    },
+    "zSYMDQ": {
+        "en-US": "You little...",
+        "pt-BR": "Seu maldito...",
+        "es-ES": "¿Este desgraciado?"
+    },
+    "ziYMDQ": {
+        "en-US": "Hey now, my fist is coming out. Try hitting me.",
+        "pt-BR": "Tenta me bater que eu quebro sua cara!",
+        "es-ES": "Eh, eh, que ya sale el puño, ya sale el puño. Atrévete a pegarme."
+    },
+    "zyYMDQ": {
+        "en-US": "[Anxious Priest]\nThis is bad...\nAdventurer, could you perhaps...",
+        "pt-BR": "[Sacerdote Nervoso]\nIsso é sério...\nViajante, será que...",
+        "es-ES": "[Sacerdote nervioso]\nEsto es grave...\nTrotamundos, quizá..."
+    },
+    "0CYMDQ": {
+        "en-US": "You want me to stop them?",
+        "pt-BR": "Está pedindo para eu apartar a briga?",
+        "es-ES": "¿Que quieres que los detenga?"
+    },
+    "0SYMDQ": {
+        "en-US": "[Anxious Priest]\n...May Freya's blessing be with you.",
+        "pt-BR": "[Sacerdote Nervoso]\n...Que a bênção de Freya esteja com você.",
+        "es-ES": "[Sacerdote Nervioso]\n...Que la bendición de Freya le acompañe."
+    },
+    "0iYMDQ": {
+        "en-US": "- You cannot proceed with the quest because you are carrying too many items. -",
+        "pt-BR": "' Você não pode prosseguir com a missão porque está carregando itens demais. -",
+        "es-ES": "- No puede continuar la misión porque lleva demasiados objetos. -"
+    },
+    "0yYMDQ": {
+        "en-US": "What should I do?",
+        "pt-BR": "O que vamos fazer?",
+        "es-ES": "¿Qué hacemos?"
+    },
+    "1CYMDQ": {
+        "en-US": "Hey, you there, please quiet down a bit.",
+        "pt-BR": "Pessoal, fiquem quietos!",
+        "es-ES": "Oiga, señor, cálmese un poco"
+    },
+    "1SYMDQ": {
+        "en-US": "Hey, you there, who do you think you are telling others what to do?",
+        "pt-BR": "Quem você pensa que é?",
+        "es-ES": "Oiga, señor, ¿quién se cree para ir dando órdenes?"
+    },
+    "1iYMDQ": {
+        "en-US": "Hey, you with the belly!",
+        "pt-BR": "Ei, barrigudo!",
+        "es-ES": "¡Eh, usted, el barrigón!"
+    },
+    "1yYMDQ": {
+        "en-US": "[Pot-bellied Audience Member]\nWho are you calling 'mister'?",
+        "pt-BR": "[Espectador Barrigudo]\nBarrigudo quem, hein?",
+        "es-ES": "[Espectador Barrigón]\n¿A quién llamas señor?"
+    },
+    "2CYMDQ": {
+        "en-US": "What is this now?",
+        "pt-BR": "Mas o que é isso agora?",
+        "es-ES": "¿Y esto ahora qué?"
+    },
+    "2SYMDQ": {
+        "en-US": "Oh dear...",
+        "pt-BR": "Ai, ai...",
+        "es-ES": "Ay..."
+    },
+    "2iYMDQ": {
+        "en-US": "What do you mean, I am an Adventurer.",
+        "pt-BR": "O que mais seria? Um viajante.",
+        "es-ES": "¿Qué va a ser? Un trotamundos."
+    },
+    "2yYMDQ": {
+        "en-US": "[Pot-bellied Audience Member]\nHuh? Is there anyone who has not been an adventurer at least once in their youth?\nHow far have you gone? I am someone who has climbed all the way to the top of Thor Volcano.\nI am different from those weak natives.",
+        "pt-BR": "[Espectador Barrigudo]\nHã? Tem alguém que nunca tenha sido aventureiro ao menos uma vez na juventude?\nAté onde você já foi? Eu sou alguém que já subiu até o topo do Vulcão Thor.\nSou diferente desses indígenas frágeis.",
+        "es-ES": "[Espectador Barrigón]\n¿Eh? ¿Quién no ha sido aventurero alguna vez en su juventud?\n¿Hasta dónde has llegado tú? Yo soy de los que subieron hasta la cima del volcán Thor y volvieron.\nNo como esos débiles indígenas."
+    },
+    "3CYMDQ": {
+        "en-US": "Unbelievable, that must have been a tourist attraction.",
+        "pt-BR": "Que absurdo. Isso deve ser atração turística.",
+        "es-ES": "Qué cara tienes, eso seguro que era una excursión turística."
+    },
+    "3SYMDQ": {
+        "en-US": "There are always people who brag about things like that.",
+        "pt-BR": "Sempre tem uns que se gabam dessas coisas.",
+        "es-ES": "Siempre hay tipos que presumen de cosas así."
+    },
+    "3iYMDQ": {
+        "en-US": "I, at the Sessrumnir Temple,",
+        "pt-BR": "Eu, no Santuário de Sessrumnir,",
+        "es-ES": "Yo, en el santuario de Sessrumnir"
+    },
+    "3yYMDQ": {
+        "en-US": "[{0}]\nAt the Sessrumnir Temple, I...",
+        "pt-BR": "[{0}]\nEu, no Santuário de Sessrumnir, eu...",
+        "es-ES": "[{0}]\nYooo, en el santuario de Sessrumnir..."
+    },
+    "4CYMDQ": {
+        "en-US": "[Girl]\nSir of the guards! Over there!",
+        "pt-BR": "[Garota]\nSenhores da guarda! É ali!",
+        "es-ES": "[Niña]\n¡Señor agente del orden! ¡Es allí!"
+    },
+    "4SYMDQ": {
+        "en-US": "[Pot-bellied Audience Member]\nWell now, who called them this time?",
+        "pt-BR": "[Espectador Barrigudo]\nOra, ora, e quem foi que chamou aquilo agora?",
+        "es-ES": "[Espectador Barrigón]\n¡Manda narices! ¿Y ahora quién ha llamado a esos?"
+    },
+    "4iYMDQ": {
+        "en-US": "Ugh, let us get out before this becomes troublesome.",
+        "pt-BR": "Aff, antes que isso vire um incômodo, melhor fugir.",
+        "es-ES": "Ay, mejor largo antes de que esto se vuelva molesto."
+    },
+    "4yYMDQ": {
+        "en-US": "I hope I never see your face again.",
+        "pt-BR": "Espero nunca mais ver sua cara.",
+        "es-ES": "Espero no volver a verte la cara."
+    },
+    "5CYMDQ": {
+        "en-US": "I should just go home...",
+        "pt-BR": "É melhor eu ir para casa...",
+        "es-ES": "Será mejor que me vaya a casa..."
+    },
+    "5SYMDQ": {
+        "en-US": "Mini Elly: Is this what you call being swept away like the ebbing tide?",
+        "pt-BR": "Mini Elly: É a isso que chamam de se dispersar?",
+        "es-ES": "Mini Elly: ¿A esto se refieren con retirarse como la marea?"
+    },
+    "5iYMDQ": {
+        "en-US": "[Security Guard Gala]\nI came because I heard there was a fight...\nAn Adventurer?",
+        "pt-BR": "[Guarda Gala]\nOuvi dizer que houve uma briga, então vim ver...\nUm viajante?",
+        "es-ES": "[Agente de seguridad Gala]\nMe dijeron que había una pelea, así que vine a ver...\n¿Trotamundos?"
+    },
+    "5yYMDQ": {
+        "en-US": "[Anxious Priest]\nN-no! This Adventurer here was trying to help me...\nAh, I am Priest Junok. I have recently returned to Sessrumnir.",
+        "pt-BR": "[Sacerdote Nervoso]\nN-Não! O viajante que está aqui estava tentando me ajudar...\nAh, eu sou Sacerdote Junok. Desta vez, retornei para Sessrumnir.",
+        "es-ES": "[Sacerdote nervioso]\n¡N-no! Este señor aventurero que está aquí venía a ayudarme...\nAh, yo soy Sacerdote Junok. He regresado hace poco a Sessrumnir."
+    },
+    "6CYMDQ": {
+        "en-US": "[{0}]\n{0}.\nAn Adventurer.",
+        "pt-BR": "[{0}]\n{0}.\nSou viajante.",
+        "es-ES": "[{0}]\n{0}.\nSoy un Trotamundos."
+    },
+    "6SYMDQ": {
+        "en-US": "[Security Guard Gala]\nThank you for your efforts.\nThe atmosphere has been quite unsettling lately...",
+        "pt-BR": "[Guarda Gala]\nObrigado pelo esforço.\nUltimamente o clima anda tão tenso que...",
+        "es-ES": "[Agente de Seguridad Gala]\nGracias por su esfuerzo.\nÚltimamente el ambiente está muy tenso..."
+    },
+    "6iYMDQ": {
+        "en-US": "What exactly is going on?",
+        "pt-BR": "O que está acontecendo, afinal?",
+        "es-ES": "¿Qué demonios está pasando?"
+    },
+    "6yYMDQ": {
+        "en-US": "[{0}]\nWhat in the world is happening?\nTo think such a disturbance is occurring...",
+        "pt-BR": "[{0}]\nO que está acontecendo, afinal?\nA ponto de um tumulto desses estar acontecendo...",
+        "es-ES": "[{0}]\n¿Qué es lo que está pasando exactamente?\nQue estén ocurriendo disturbios así..."
+    },
+    "7CYMDQ": {
+        "en-US": "The guard and Priest thought for a moment, then looked around, exchanged glances, and nodded.",
+        "pt-BR": "O guarda e o sacerdote pensaram por um momento, depois olharam ao redor, trocaram olhares e assentiram com a cabeça.",
+        "es-ES": "El agente del orden y Sacerdote se quedaron pensativos un momento, miraron alrededor, intercambiaron una mirada y asintieron."
+    },
+    "7SYMDQ": {
+        "en-US": "[Junok]\nAdventurer, what was it you said earlier at the Sessrumnir Temple?\nI also have business at the temple, so perhaps we can talk over there for a moment.\nLet us continue this discussion in front of the temple.",
+        "pt-BR": "[Junok]\nViajante, o que foi mesmo que você disse há pouco, no Santuário de Sessrumnir?\nPor acaso, eu também tenho algo para resolver no santuário, então talvez possamos conversar lá por um instante.\nVamos continuar falando em frente ao santuário.",
+        "es-ES": "[Junok]\nTrotamunds, antes, en el santuario de Sessrumnir, ¿qué fue lo que dijo?\nDa la casualidad de que yo también tengo algo que hacer en el santuario, así que quizá podamos hablar un momento allí.\nSigamos hablando delante del santuario."
+    },
+    "7iYMDQ": {
+        "en-US": "[Junok]\nI will follow shortly.\nLet us meet at <NAVI>[in front of the temple]<INFO>ra_temple,72,54,0,101,0</INFO></NAVI>.",
+        "pt-BR": "[Junok]\nEu vou logo atrás.\nVejo você <NAVI>[em frente ao santuário]<INFO>ra_temple,72,54,0,101,0</INFO></NAVI>.",
+        "es-ES": "[Junok]\nVoy enseguida.\nNos vemos <NAVI>[delante del santuario]<INFO>ra_temple,72,54,0,101,0</INFO></NAVI>."
+    },
+    "7yYMDQ": {
+        "en-US": "Girl",
+        "pt-BR": "Garota",
+        "es-ES": "Niña"
+    },
+    "8CYMDQ": {
+        "en-US": "[Girl]\nOh, come on! Everyone is running away!",
+        "pt-BR": "[Garota]\nPuxa! Todo mundo fugiu!",
+        "es-ES": "[Niña]\n¡Ay, de verdad! ¡Todos salen huyendo!"
+    },
+    "8SYMDQ": {
+        "en-US": "Security Guard Gala",
+        "pt-BR": "Guarda Gala",
+        "es-ES": "Agente de Seguridad Gala"
+    },
+    "8iYMDQ": {
+        "en-US": "[Security Guard Gala]\nLet us talk shortly.",
+        "pt-BR": "[Guarda Gala]\nVamos conversar daqui a pouco.",
+        "es-ES": "[Agente de Seguridad Gala]\nHablemos dentro de un momento."
+    },
+    "8yYMDQ": {
+        "en-US": "Security Guard Iz",
+        "pt-BR": "Guarda Iz",
+        "es-ES": "Agente de Seguridad Iz"
+    },
+    "9CYMDQ": {
+        "en-US": "[Security Guard Iz]\nHaa...",
+        "pt-BR": "[Guarda Iz]\nHaa...",
+        "es-ES": "[Agente de Seguridad Iz]\nAaah..."
+    },
+    "9SYMDQ": {
+        "en-US": "Junok: Adventurer!",
+        "pt-BR": "Junok: Viajante!",
+        "es-ES": "Junok: ¡Trotamundos!"
+    },
+    "9iYMDQ": {
+        "en-US": "[Mini Elly]\nGuest, just a moment.",
+        "pt-BR": "[Mini Elly]\nViajante, só um momento.",
+        "es-ES": "[Mini Elly]\nVisitante, un momento."
+    },
+    "9yYMDQ": {
+        "en-US": "Mini Elly: I have a question.",
+        "pt-BR": "Mini Elly: Há algo que quero saber.",
+        "es-ES": "Mini Elly: Hay algo que me intriga."
+    },
+    "+CYMDQ": {
+        "en-US": "Eli, what is it?",
+        "pt-BR": "Elly, o que foi?",
+        "es-ES": "Elly, ¿qué pasa?"
+    },
+    "+SYMDQ": {
+        "en-US": "Because of the clue?",
+        "pt-BR": "É por causa da pista?",
+        "es-ES": "¿Por la pista?"
+    },
+    "+iYMDQ": {
+        "en-US": "[Mini Elly]\nThat is part of it, but...",
+        "pt-BR": "[Mini Elly]\nIsso também, mas não é só isso.",
+        "es-ES": "[Mini Elly]\nTambién por eso, pero además..."
+    },
+    "+yYMDQ": {
+        "en-US": "[Mini Elly]\nYou have been here before, have you not, guest?",
+        "pt-BR": "[Mini Elly]\nVocê já esteve aqui antes, não é?",
+        "es-ES": "[Mini Elly]\nUsted ya había venido aquí antes, ¿verdad, visitante?"
+    },
+    "/CYMDQ": {
+        "en-US": "Junok: Adventurer?",
+        "pt-BR": "Junok: Viajante?",
+        "es-ES": "Junok: ¿Trotamundos?"
+    },
+    "/SYMDQ": {
+        "en-US": "Yes.",
+        "pt-BR": "Sim.",
+        "es-ES": "Sí"
+    },
+    "/iYMDQ": {
+        "en-US": "[Mini Elly]\nOn the way here, I felt strange gazes. You must have felt them as well...\nIs this a place where many people normally look at others that way?",
+        "pt-BR": "[Mini Elly]\nDurante o caminho até aqui, senti olhares estranhos. Você também deve ter sentido...\nEste é originalmente um lugar onde vivem muitas pessoas com esse tipo de olhar?",
+        "es-ES": "[Mini Elly]\nMientras veníamos hasta aquí, he sentido miradas extrañas. Usted también las habrá sentido...\n¿Es este un barrio donde vive mucha gente con ese tipo de miradas?"
+    },
+    "/yYMDQ": {
+        "en-US": "It was not like that before.",
+        "pt-BR": "Não era assim.",
+        "es-ES": "No era así"
+    },
+    "ACcMDQ": {
+        "en-US": "[Mini Elly]\nCould they be related to the 'intruders'?",
+        "pt-BR": "[Mini Elly]\nSerá que eles têm relação com os 'invasores'?",
+        "es-ES": "[Mini Elly]\n¿Cree que podrían estar relacionados con los 'intrusos'?"
+    },
+    "AScMDQ": {
+        "en-US": "Perhaps.",
+        "pt-BR": "Talvez tenham.",
+        "es-ES": "Podría ser"
+    },
+    "AicMDQ": {
+        "en-US": "[Mini Elly]\nDo you think they recognized you?",
+        "pt-BR": "[Mini Elly]\nParece que reconheceram você?",
+        "es-ES": "[Mini Elly]\n¿Le ha parecido que le reconocían, visitante?"
+    },
+    "AycMDQ": {
+        "en-US": "Junok: ?",
+        "pt-BR": "Junok: ?",
+        "es-ES": "Junok: ?"
+    },
+    "BCcMDQ": {
+        "en-US": "[{0}]\nI do not think so.",
+        "pt-BR": "[{0}]\nNão parece.",
+        "es-ES": "[{0}]\nNo, no lo creo."
+    },
+    "BScMDQ": {
+        "en-US": "[Junok]\nAdventurer, what are you thinking about so deeply?",
+        "pt-BR": "[Junok]\nViajante, com quem está conversando?",
+        "es-ES": "[Junok]\nTrotamundos, ¿en qué está pensando tan profundamente?"
+    },
+    "BicMDQ": {
+        "en-US": "It is nothing.",
+        "pt-BR": "Não é nada.",
+        "es-ES": "No es nada"
+    },
+    "BycMDQ": {
+        "en-US": "[Junok]\nIn any case... we can talk a bit more quietly here.",
+        "pt-BR": "[Junok]\nEnfim... aqui acho que podemos conversar com um pouco mais de tranquilidade.",
+        "es-ES": "[Junok]\nEn cualquier caso... aquí podremos hablar con un poco más de tranquilidad."
+    },
+    "CCcMDQ": {
+        "en-US": "[Junok]\nI have not been back in Rachel for long either, so I do not know everything, but...\nthe atmosphere has become quite ominous compared to before.",
+        "pt-BR": "[Junok]\nEu também não faz muito tempo que voltei para Rachel, então não sei de tudo, mas...\ncomparado a antes, o clima ficou bem mais pesado.",
+        "es-ES": "[Junok]\nYo tampoco hace mucho que he vuelto a Rachel, así que no lo sé todo...\npero el ambiente se ha vuelto bastante más turbio que antes."
+    },
+    "CScMDQ": {
+        "en-US": "[Junok]\nThe conflict between natives and migrants has grown.\nMore than usual... there are people openly encouraging it outside.",
+        "pt-BR": "[Junok]\nO conflito entre indígenas e imigrantes está aumentando.\nMais do que o normal... há pessoas falando abertamente do lado de fora como se estivessem incitando isso.",
+        "es-ES": "[Junok]\nEl conflicto entre indígenas e inmigrantes está creciendo.\nY hay gente que, más que de costumbre... parece hablar en público fomentándolo abiertamente."
+    },
+    "CicMDQ": {
+        "en-US": "[Junok]\nEven matters that could have led to fights for other reasons, when caught by the guards, people excuse it by saying you are a native or a migrant...",
+        "pt-BR": "[Junok]\nTambém há aqueles que, mesmo quando brigaram por outro motivo, ao serem pegos pela guarda, usam como desculpa esse negócio de você ser nativo ou imigrante...",
+        "es-ES": "[Junok]\nIncluso cuando se trata de peleas que podrían haberse producido por otros motivos, si los atrapa el cuerpo de seguridad, hay quienes salen con la excusa de que si uno era indígena, que si el otro inmigrante..."
+    },
+    "CycMDQ": {
+        "en-US": "[Junok]\nWe are trying to resolve this, but...",
+        "pt-BR": "[Junok]\nEstamos tentando resolver isso, mas...",
+        "es-ES": "[Junok]\nEstamos intentando resolver esto, pero..."
+    },
+    "DCcMDQ": {
+        "en-US": "[Security Guard Gala]\nRecently, unidentified individuals have been attempting to infiltrate the Sessrumnir Temple.",
+        "pt-BR": "[Guarda Gala]\nRecentemente, indivíduos de identidade desconhecida vêm tentando invadir o Santuário de Sessrumnir.",
+        "es-ES": "[Agente de Seguridad Gala]\nÚltimamente hay desconocidos que están intentando irrumpir en el santuario de Sessrumnir."
+    },
+    "DScMDQ": {
+        "en-US": "Guard: For something meant to be infiltration, they are weak yet highly organized.",
+        "pt-BR": "Guarda: Para algo cujo objetivo parece ser a invasão em si, eles são fracos e muito disciplinados.",
+        "es-ES": "Agente del Orden: Para que su objetivo sea simplemente irrumpir, son débiles y actúan con demasiada disciplina."
+    },
+    "DicMDQ": {
+        "en-US": "Mini Elly: Infiltration?",
+        "pt-BR": "Mini Elly: Invasão?",
+        "es-ES": "Mini Elly: ¿Irrumpir?"
+    },
+    "DycMDQ": {
+        "en-US": "[Security Guard Gala]\nIt is already very strange that they keep attempting to infiltrate the safest temple in the capital Rachel, but...",
+        "pt-BR": "[Guarda Gala]\nO próprio fato de continuarem tentando invadir o santuário mais seguro da capital Rachel já é algo muito estranho, mas...",
+        "es-ES": "[Agente de Seguridad Gala]\nYa es muy extraño de por sí que intenten irrumpir una y otra vez en el santuario más seguro de la capital, Rachel, pero..."
+    },
+    "ECcMDQ": {
+        "en-US": "Mini Elly: Does it not sound suspicious to you as well, guest?",
+        "pt-BR": "Mini Elly: Mesmo para você, isso não soa suspeito?",
+        "es-ES": "Mini Elly: ¿No le parece sospechoso incluso a usted, visitante?"
+    },
+    "EScMDQ": {
+        "en-US": "[Security Guard Gala]\nBecause we are dealing with them, the temple is currently under heightened alert.\nThat is why we have not been able to respond to civilian disputes in a timely manner lately.",
+        "pt-BR": "[Guarda Gala]\nPor lidar com esses sujeitos, o santuário está agora em estado de vigilância reforçada. Por isso, ultimamente também há momentos em que não conseguimos responder a tempo aos conflitos entre os cidadãos.",
+        "es-ES": "[Agente de Seguridad Gala]\nAhora mismo el santuario está en estado de máxima alerta por culpa de esa gente. Por eso hay momentos en que últimamente no podemos responder a tiempo a los conflictos entre ciudadanos."
+    },
+    "EicMDQ": {
+        "en-US": "[Security Guard Gala]\nWe do not know how long this will continue, nor where they keep appearing from, so we cannot recklessly respond with full force...\nand it is also difficult to simply increase the number of guards severalfold.",
+        "pt-BR": "[Guarda Gala]\nNão sabemos até quando isso vai continuar, nem de onde eles surgem tão de repente, então também não podemos lançar uma resposta frontal precipitada...\ne também é complicado simplesmente aumentar a guarda várias vezes.",
+        "es-ES": "[Agente de Seguridad Gala]\nNo sabemos hasta cuándo seguirá esto, ni de dónde salen tan de repente, así que tampoco podemos lanzarnos a una respuesta total a la ligera...\ny tampoco es fácil multiplicar por dos el cuerpo de seguridad."
+    },
+    "EycMDQ": {
+        "en-US": "[Security Guard Gala]\nIt is truly troublesome... hmm?",
+        "pt-BR": "[Guarda Gala]\nÉ realmente uma situação difícil... hum?",
+        "es-ES": "[Agente de Seguridad Gala]\nEs realmente problemático... ¿eh?"
+    },
+    "FCcMDQ": {
+        "en-US": "Rookie Guard: Intruders to the west of the temple!",
+        "pt-BR": "Guarda Novato: Invasores no lado oeste do santuário!",
+        "es-ES": "Agente de Seguridad Novato: ¡Intrusos al oeste del santuario!"
+    },
+    "FScMDQ": {
+        "en-US": "[Security Guard Gala]\nThey are attacking again in broad daylight! Let us go!\nAdventurer, please come with us!",
+        "pt-BR": "[Guarda Gala]\nEles vieram atacar de novo em plena luz do dia! Vamos!\nViajante, venha também!",
+        "es-ES": "[Agente de Seguridad Gala]\n¡¿Otra vez atacando a plena luz del día?! ¡Vamos!\n¡Aventurero, venga con nosotros!"
+    },
+    "FicMDQ": {
+        "en-US": "Why trust me?",
+        "pt-BR": "E você está confiando em quê?",
+        "es-ES": "¿Y qué confianza tienes en mí?"
+    },
+    "FycMDQ": {
+        "en-US": "[{0}]\nDo you even know who I am?\nWhat if I am one of the intruders?",
+        "pt-BR": "[{0}]\nVocê sabe quem eu sou?\nE se eu for parte do grupo dos invasores?",
+        "es-ES": "[{0}]\n¿Sabe siquiera quién soy?\n¿Y si formo parte del grupo de intrusos?"
+    },
+    "GCcMDQ": {
+        "en-US": "[Security Guard Gala]\nI have guarded this temple for quite a long time.\nWould I have told all this to someone whose identity I do not even know?",
+        "pt-BR": "[Guarda Gala]\nEu protejo o santuário há bastante tempo.\nAcha que eu sairia contando tudo isso para alguém que eu não soubesse quem é?",
+        "es-ES": "[Agente de Seguridad Gala]\nLlevo bastante tiempo protegiendo el santuario.\n¿Cree que le contaría todo esto a alguien de quien no sé nada?"
+    },
+    "GScMDQ": {
+        "en-US": "Junok: You knew each other?",
+        "pt-BR": "Junok: Vocês se conheciam?",
+        "es-ES": "Junok: ¿Ya se conocían?"
+    },
+    "GicMDQ": {
+        "en-US": "Security Guard Gala: Only one-sidedly.",
+        "pt-BR": "Guarda Gala: Só eu conhecia.",
+        "es-ES": "Agente de Seguridad Gala: Solo por mi parte."
+    },
+    "GycMDQ": {
+        "en-US": "[Security Guard Gala]\nHurry!",
+        "pt-BR": "[Guarda Gala]\nVamos logo!",
+        "es-ES": "[Agente de Seguridad Gala]\n¡Rápido, vamos!"
+    },
+    "HCcMDQ": {
+        "en-US": "[Junok]\nTo the west of the temple, Adventurer!",
+        "pt-BR": "[Junok]\nÉ no lado oeste do santuário, viajante!",
+        "es-ES": "[Junok]\n¡Es al oeste del santuario, trotamundos!"
+    },
+    "HScMDQ": {
+        "en-US": "...",
+        "pt-BR": "...",
+        "es-ES": "..."
+    },
+    "HicMDQ": {
+        "en-US": "Rookie Guard",
+        "pt-BR": "Guarda Novato",
+        "es-ES": "Agente de Seguridad Novato"
+    },
+    "HycMDQ": {
+        "en-US": "Rookie Guard: Intruders have appeared!",
+        "pt-BR": "Guarda Novato: Surgiram invasores!",
+        "es-ES": "Agente de Seguridad Novato: ¡Han aparecido intrusos!"
+    },
+    "ICcMDQ": {
+        "en-US": "Junok: Who goes there!",
+        "pt-BR": "Junok: Quem é você?!",
+        "es-ES": "Junok: ¡¿Quién va ahí?!"
+    },
+    "IScMDQ": {
+        "en-US": "Guard: Do not provoke the suspects!",
+        "pt-BR": "Guarda: Não provoque os suspeitos!",
+        "es-ES": "Agente del Orden: ¡No provoque a los sospechosos!"
+    },
+    "IicMDQ": {
+        "en-US": "[Mini Elly]\nThey look familiar?",
+        "pt-BR": "[Mini Elly]\nEssa aparência me é familiar, não?",
+        "es-ES": "[Mini Elly]\n¿No le resulta familiar ese aspecto?"
+    },
+    "IycMDQ": {
+        "en-US": "[Mini Elly]\nWe found them sooner than expected.",
+        "pt-BR": "[Mini Elly]\nEncontramos mais rápido do que eu esperava.",
+        "es-ES": "[Mini Elly]\nLos hemos encontrado antes de lo que esperaba."
+    },
+    "JCcMDQ": {
+        "en-US": "Seems they do not yet know about the mansion situation.",
+        "pt-BR": "Parece que ainda não sabem da situação da mansão.",
+        "es-ES": "Parece que aún no saben lo que ha pasado en la mansión"
+    },
+    "JScMDQ": {
+        "en-US": "[{0}]\nThey might be a different group from the ones dispatched to the mansion...",
+        "pt-BR": "[{0}]\nTalvez seja outro grupo diferente dos que foram enviados para a mansão...",
+        "es-ES": "[{0}]\nPuede que sean un equipo distinto del que enviaron a la mansión..."
+    },
+    "JicMDQ": {
+        "en-US": "[Security Guard Iz]\nYou are surrounded! Surrender peacefully!",
+        "pt-BR": "[Guarda Iz]\nVocês estão cercados! Rendam-se sem resistir!",
+        "es-ES": "[Agente de Seguridad Iz]\n¡Estáis rodeados! ¡Rendíos pacíficamente!"
+    },
+    "JycMDQ": {
+        "en-US": "[Heart Hunter]\nHmph, calling this being surrounded? Just as rumored.",
+        "pt-BR": "[Caça-Coração]\nHmph, chamar isso de cerco? É realmente como dizem os boatos.",
+        "es-ES": "[Heart Hunter]\nJa, ¿a esto lo llamáis estar rodeados? Tal como decían los rumores."
+    },
+    "KCcMDQ": {
+        "en-US": "[Security Guard Iz]\nWhat? You lot have already failed and fled a total of 14 times!",
+        "pt-BR": "[Guarda Iz]\nO quê? Mas vocês falharam e fugiram nada menos que 14 vezes até agora!",
+        "es-ES": "[Agente de Seguridad Iz]\n¿Qué? ¡Pero si vosotros habéis fracasado y huido un total de 14 veces hasta ahora!"
+    },
+    "KScMDQ": {
+        "en-US": "[Security Guard Kalshot]\n15 times.",
+        "pt-BR": "[Guarda Civil Kalshot]\n15 vezes.",
+        "es-ES": "[Agente de Seguridad Calsot]\n15 veces."
+    },
+    "KicMDQ": {
+        "en-US": "Ghk.",
+        "pt-BR": "Argh.",
+        "es-ES": "Uf."
+    },
+    "KycMDQ": {
+        "en-US": "[Heart Hunter]\nThose were just our rookies we sent for reconnaissance!\nNow we have grasped all your patrol routes. Prepare yourselves.",
+        "pt-BR": "[Caça-Coração]\nAqueles eram os nossos novatos enviados para reconhecimento!\nAgora já mapeamos todas as suas rotas de patrulha. Preparem-se.",
+        "es-ES": "[Cazacorazones]\n¡Esos eran nuestros novatos enviados a reconocer la zona!\n¡Ahora ya tenemos todas vuestras rutas de patrulla. Preparaos!"
+    },
+    "LCcMDQ": {
+        "en-US": "[Security Guard Gala]\nWe will have to change them.",
+        "pt-BR": "[Guarda Gala]\nEntão temos que mudá-las.",
+        "es-ES": "[Agente de Seguridad Gala]\nEntonces habrá que cambiarlas."
+    },
+    "LScMDQ": {
+        "en-US": "[Heart Hunter]\n...",
+        "pt-BR": "[Caça-Coração]\n...",
+        "es-ES": "[Cazacorazones]\n..."
+    },
+    "LicMDQ": {
+        "en-US": "[Guards]\n...",
+        "pt-BR": "[Guardas]\n...",
+        "es-ES": "[Agentes del Orden]\n..."
+    },
+    "LycMDQ": {
+        "en-US": "[Heart Hunter]\nThis is the end! Our detachment is already at the temple...",
+        "pt-BR": "[Caça-Coração]\nEstou dizendo que desta vez acabou! A unidade separada já está no santuário...",
+        "es-ES": "[Cazacorazones]\n¡De verdad que esta vez será la definitiva! La unidad separada ya está en el santuario..."
+    },
+    "MCcMDQ": {
+        "en-US": "[Security Guard Chive]\nBy detachment, do you mean these ones?",
+        "pt-BR": "[Guarda Chive]\nVocê quer dizer estes daqui?",
+        "es-ES": "[Agente de Seguridad Chaive]\n¿La unidad separada? ¿Te refieres a estos?"
+    },
+    "MScMDQ": {
+        "en-US": "Ugh...",
+        "pt-BR": "Urgh...",
+        "es-ES": "Uugh..."
+    },
+    "MicMDQ": {
+        "en-US": "Damn...",
+        "pt-BR": "Droga...",
+        "es-ES": "Maldita sea..."
+    },
+    "MycMDQ": {
+        "en-US": "[Security Guard Gala]\nIt seems to be over.",
+        "pt-BR": "[Guarda Gala]\nParece que acabou.",
+        "es-ES": "[Agente de Seguridad Gala]\nParece que ya ha terminado."
+    },
+    "NCcMDQ": {
+        "en-US": "[Heart Hunter]\n...Next time, we will surely succeed!",
+        "pt-BR": "[Caça-Coração]\n...Na próxima vez, com certeza teremos sucesso!",
+        "es-ES": "[Cazacorazones]\n...¡La próxima vez sí que lo lograremos!"
+    },
+    "NScMDQ": {
+        "en-US": "[Security Guard Gala]\n...\nIt is strange. They have been attacking repeatedly in a sloppy and obvious manner, and now they are even putting on such an obvious lie as a play.\nEven setting bait has become suspicious.",
+        "pt-BR": "[Guarda Gala]\n...\nÉ estranho, não é? De um jeito estranhamente descuidado, chamativo, eles invadem repetidas vezes, e agora até fazem uma peça dessas com uma mentira tão óbvia.\nAté o fato de deixarem uma isca já chega a ser suspeito.",
+        "es-ES": "[Agente de Seguridad Gala]\n...\nEs extraño. Atacan una y otra vez de una forma sospechosamente chapucera y llamativa, y ahora hasta montan una función tan obvia con mentiras como esa.\nHasta poner un cebo resulta sospechoso a estas alturas."
+    },
+    "NicMDQ": {
+        "en-US": "[Security Guard Gala]\nWhere in the world were they dispatched from...",
+        "pt-BR": "[Guarda Gala]\nAfinal, de onde foram enviados esses sujeitos...?",
+        "es-ES": "[Agente de Seguridad Gala]\n¿Quién demonios los estará enviando...?"
+    },
+    "NycMDQ": {
+        "en-US": "Actually, the reason I came to Rachel is",
+        "pt-BR": "Na verdade, o motivo de eu ter vindo a Rachel agora é...",
+        "es-ES": "La verdad es que he venido a Rachel porque..."
+    },
+    "OCcMDQ": {
+        "en-US": "[{0}]\nI came to find those related to them...",
+        "pt-BR": "[{0}]\nVim procurar pessoas relacionadas a eles...",
+        "es-ES": "[{0}]\nHe venido a buscar a quienes están relacionados con ellos..."
+    },
+    "OScMDQ": {
+        "en-US": "[Junok]\nOh my. Do you have a connection with them?",
+        "pt-BR": "[Junok]\nNossa. Então vocês têm alguma ligação?",
+        "es-ES": "[Junok]\nVaya. ¿Tenía alguna conexión con ellos?"
+    },
+    "OicMDQ": {
+        "en-US": "[{0}]\nRather than that...",
+        "pt-BR": "[{0}]\nNão exatamente...",
+        "es-ES": "[{0}]\nNo exactamente..."
+    },
+    "OycMDQ": {
+        "en-US": "Since I could not explain everything, I explained that their objective was indeed infiltration.",
+        "pt-BR": "Como não era possível explicar todas as circunstâncias, expliquei que o objetivo deles realmente era a invasão.",
+        "es-ES": "Como no podía explicar todas las circunstancias, expliqué que su objetivo sí era la infiltración."
+    },
+    "PCcMDQ": {
+        "en-US": "[Security Guard Gala]\nHmm...\nHave you met Sir Niren?\nSince you have visited after a long time, you have not greeted him yet, have you?",
+        "pt-BR": "[Guarda Gala]\nHumm...\nJá encontrou a Senhorita Niren?\nComo faz tempo que você não aparecia, imagino que ainda não a tenha cumprimentado.",
+        "es-ES": "[Agente de sSeguridad Gala]\nMmm...\n¿Ha ido ya a ver a Niren?\nComo hacía tiempo que no venía, supongo que todavía no le ha saludado."
+    },
+    "PScMDQ": {
+        "en-US": "[Security Guard Gala]\nThis is not... a demand.\nIn any case, a report must be made. How about visiting him once?",
+        "pt-BR": "[Guarda Gala]\nNão é... uma imposição.\nMas, de qualquer forma, isso terá de ser reportado. Que tal ir vê-la uma vez?",
+        "es-ES": "[Agente de Seguridad Gala]\nNo es... una imposición, por supuesto.\nPero de todos modos hay que presentar un informe. ¿Qué le parecería ir a verle una vez?"
+    },
+    "PicMDQ": {
+        "en-US": "Security Guard Gala: For now, detain them. They are probably truly rookies.",
+        "pt-BR": "Guarda Gala: Primeiro, levem esses sujeitos para a detenção.",
+        "es-ES": "Agente de Seguridad Gala: Por ahora, encerrad a esos tipos. De verdad deben de ser novatos."
+    },
+    "PycMDQ": {
+        "en-US": "Security Guard Chive: Understood.",
+        "pt-BR": "Guarda Chive: Entendido.",
+        "es-ES": "Agente de Seguridad Chaive: Entendido."
+    },
+    "QCcMDQ": {
+        "en-US": "[Security Guard Gala]\nThe details... can be discussed there.",
+        "pt-BR": "[Guarda Gala]\nOs detalhes... vamos falar lá.",
+        "es-ES": "[Agente de Seguridad Gala]\nLos detalles... se los explicaré allí."
+    },
+    "QScMDQ": {
+        "en-US": "[{0}]\nActually, I came here looking for them...",
+        "pt-BR": "[{0}]\nNa verdade, eu vim até aqui procurando por eles...",
+        "es-ES": "[{0}]\nEn realidad he venido aquí buscando a esos tipos..."
+    },
+    "QicMDQ": {
+        "en-US": "[Junok]\nLet us go meet Priest Niren.",
+        "pt-BR": "[Junok]\nVamos encontrar a Suma Sacerdotisa Niren.",
+        "es-ES": "[Junok]\nVamos a ver al sacerdote Niren."
+    },
+    "QycMDQ": {
+        "en-US": "Security Guard Gala: Surrender peacefully!",
+        "pt-BR": "Guarda Gala: Rendam-se sem resistir!",
+        "es-ES": "Agente de Seguridad Gala: ¡Rendíos pacíficamente!"
+    },
+    "RCcMDQ": {
+        "en-US": "Security Guard Iz: Priest, please do not step forward!",
+        "pt-BR": "Guarda Iz: Sacerdote, não avance!",
+        "es-ES": "Agente de Seguridad Iz: ¡Sacerdote, no dé un paso al frente!"
+    },
+    "RScMDQ": {
+        "en-US": "Security Guard Kalshot",
+        "pt-BR": "Guarda Kalshot",
+        "es-ES": "Agente de Seguridad Calsot"
+    },
+    "RicMDQ": {
+        "en-US": "Security Guard Kalshot: Drop your weapon!",
+        "pt-BR": "Guarda Kalshot: Larguem as armas!",
+        "es-ES": "Agente de Seguridad Calsot: ¡Bajad las armas!"
+    },
+    "RycMDQ": {
+        "en-US": "Heart Hunter",
+        "pt-BR": "Caça-Coração",
+        "es-ES": "Cazacorazones"
+    },
+    "SCcMDQ": {
+        "en-US": "Security Guard Chive",
+        "pt-BR": "Guarda Chive",
+        "es-ES": "Agente de Seguridad Chaive"
+    },
+    "SScMDQ": {
+        "en-US": "Security Guard Chive: Do not approach, it is dangerous!",
+        "pt-BR": "Guarda Chive: Não se aproximem, é perigoso!",
+        "es-ES": "Agente de Seguridad Chaive: ¡No se acerquen, es peligroso!"
+    }
+}

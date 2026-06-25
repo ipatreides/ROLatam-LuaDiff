@@ -1,534 +1,445 @@
 {
     "QByMCA": {
-        "ko-KR": "[도전모드 인챈트 관리자]\n190513 PPL\n200629 불굴 효능 추가패치\n210119 불굴 안내문구수정\n인챈트 재료소모율을 선택할 수 있습니다.",
         "en-US": "[Challenge Mode Enchant Administrator]\n190513 PPL\n200629 Indomitable Effect Additional Patch\n210119 Indomitable Notice Text Revision\nYou may select the enchant material consumption rate.",
         "pt-BR": "[Administrador de Encantamento do Modo Desafio]\n190513 PPL\n200629 Patch adicional do efeito Tenacidade\n210119 Ajuste do texto informativo de Tenacidade\nVocê pode selecionar a taxa de consumo dos materiais de encantamento.",
         "es-ES": "[Administrador de Encantamientos del Modo Desafío]\n190513 PPL\n200629 Parche adicional de efecto de Tenacidad\n210119 Corrección del texto informativo de Tenacidad\nPuede seleccionar la tasa de consumo de materiales de encantamiento."
     },
     "QRyMCA": {
-        "ko-KR": "취소",
         "en-US": "Cancel",
         "pt-BR": "Cancelar",
         "es-ES": "Cancelar"
     },
     "QhyMCA": {
-        "ko-KR": "기본 배율(평소)",
         "en-US": "Base Rate (Normal)",
         "pt-BR": "Taxa padrão (normal)",
         "es-ES": "Multiplicador básico (normal)"
     },
     "QxyMCA": {
-        "ko-KR": "1/2 배율(이벤트용)",
         "en-US": "1/2 Rate (Event)",
         "pt-BR": "Taxa 1/2 (evento)",
         "es-ES": "Multiplicador 1/2 (evento)"
     },
     "RByMCA": {
-        "ko-KR": "[도전모드 인챈트 관리자]\n원하실 때 다시 이용해 주십시오.",
         "en-US": "[Challenge Mode Enchant Administrator]\nPlease use this service again whenever you wish.",
         "pt-BR": "[Administrador de Encantamento do Modo Desafio]\nPor favor, utilize novamente quando desejar.",
         "es-ES": "[Administrador de Encantamientos del Modo Desafío]\nPor favor, vuelva a utilizarlo cuando lo desee."
     },
     "RRyMCA": {
-        "ko-KR": "[도전모드 인챈트 관리자]\n기본 상태로 설정합니다.",
         "en-US": "[Challenge Mode Enchant Administrator]\nSetting to the default state.",
         "pt-BR": "[Administrador de Encantamento do Modo Desafio]\nConfigurando para o estado padrão.",
         "es-ES": "[Administrador de Encantamientos del Modo Desafío]\nConfigurando al estado predeterminado."
     },
     "RhyMCA": {
-        "ko-KR": "[도전모드 인챈트 관리자]\n이벤트용 1/2 모드 적용중입니다.",
         "en-US": "[Challenge Mode Enchant Administrator]\nEvent 1/2 mode is currently applied.",
         "pt-BR": "[Administrador de Encantamento do Modo Desafio]\nModo de evento 1/2 aplicado.",
         "es-ES": "[Administrador de Encantamientos del Modo Desafío]\nModo 1/2 para evento aplicado."
     },
     "RxyMCA": {
-        "ko-KR": "OSC0006",
         "en-US": "OSC0006",
         "pt-BR": "OSC0006",
         "es-ES": "OSC0006"
     },
     "SByMCA": {
-        "ko-KR": "삑삑거리는 신호음과 낮게 우웅거리는 소리가 들린다. 한쪽에 귀여운 필체로 [^DD00DD수리중!!^000000] 이라고 적어둔 메모가 붙어있다.",
         "en-US": "A beeping signal and a low humming sound can be heard. A note written in cute handwriting is attached on one side saying [^DD00DDUnder Repair!!^000000].",
         "pt-BR": "Você ouve um sinal sonoro de bip e um zumbido baixo. Há um bilhete preso em um lado com uma escrita fofa dizendo [^DD00DDEm reparo!!^000000].",
         "es-ES": "Se escucha un pitido y un zumbido bajo. En un lado hay una nota escrita con letra adorable que dice [^DD00DD¡¡En reparación!!^000000]."
     },
     "SRyMCA": {
-        "ko-KR": "OSC0005",
         "en-US": "OSC0005",
         "pt-BR": "OSC0005",
         "es-ES": "OSC0005"
     },
     "ShyMCA": {
-        "ko-KR": "보유한 물건의 종류나 무게가 너무 많은 것 같습니다. 인벤토리를 정리해주세요.",
         "en-US": "You seem to be carrying too many types of items or exceeding the weight limit. Please organize your inventory.",
         "pt-BR": "Parece que você possui muitos tipos de itens ou o peso total está muito alto. Por favor, organize seu inventário.",
         "es-ES": "Parece que el número de tipos de objetos o el peso que llevas es demasiado alto. Por favor, ordena tu inventario."
     },
     "SxyMCA": {
-        "ko-KR": "^0000FF-관리자모드-^000000\n2슬롯 업그레이드 성공률 100%",
         "en-US": "^0000FF-Administrator Mode-^000000\n2-Slot Upgrade Success Rate 100%",
         "pt-BR": "^0000FF-Modo Administrador-^000000\nTaxa de sucesso de upgrade de 2 slots 100%",
         "es-ES": "^0000FF-Modo Administrador-^000000\nProbabilidad de éxito de mejora a 2 ranuras 100%"
     },
     "TByMCA": {
-        "ko-KR": "[OSC0005]\n오스카님의 휴먼테크로 탄생한 인공지능형 머신 OSC0005 입니다.",
         "en-US": "[OSC0005]\nThis is the AI machine OSC0005, created through Sir Oscar's human technology.",
         "pt-BR": "[OSC0005]\nSou a máquina de inteligência artificial OSC0005, criada pela tecnologia humana do Sr. Oscar.",
         "es-ES": "[OSC0005]\nSoy la máquina de inteligencia artificial OSC0005 creada con la tecnología humana del señor Oscar."
     },
     "TRyMCA": {
-        "ko-KR": "^0000FF지금 이벤트를 맞아 재료 반값 행사중입니다~^000000",
         "en-US": "^0000FFAs part of the current event, materials are half price~^000000",
         "pt-BR": "^0000FFNo momento estamos com evento de materiais pela metade do preço~^000000",
         "es-ES": "^0000FF¡Actualmente hay un evento de materiales a mitad de precio!^000000"
     },
     "ThyMCA": {
-        "ko-KR": "장착하고계신 시간의 서클릿 시리즈에 인챈트 효과를 부여하거나 초기화 해드립니다. 무엇을 도와드릴까요?",
         "en-US": "I can grant enchant effects to your equipped Circlet of Time series or reset them. How may I assist you?",
         "pt-BR": "Posso aplicar efeitos de encantamento ou redefinir os efeitos na série Diadema do Tempo que você está usando. Em que posso ajudar?",
         "es-ES": "Puedo otorgar efectos de encantamiento o reiniciarlos en la serie de Circlet del Tiempo que llevas equipado. ¿En qué puedo ayudarte?"
     },
     "TxyMCA": {
-        "ko-KR": "인챈트",
         "en-US": "Enchant",
         "pt-BR": "Encantar",
         "es-ES": "Encantar"
     },
     "UByMCA": {
-        "ko-KR": "인챈트 초기화",
         "en-US": "Reset Enchant",
         "pt-BR": "Redefinir Encantamento",
         "es-ES": "Reiniciar encantamiento"
     },
     "URyMCA": {
-        "ko-KR": "[OSC0005]\n원하실 때 다시 이용해 주십시오.",
         "en-US": "[OSC0005]\nPlease use this service again whenever you wish.",
         "pt-BR": "[OSC0005]\nPor favor, utilize novamente quando desejar.",
         "es-ES": "[OSC0005]\nPor favor, vuelve a utilizarlo cuando lo desees."
     },
     "UhyMCA": {
-        "ko-KR": "[OSC0005]\n장비를 벗고 계신건 아닌가요?",
         "en-US": "[OSC0005]\nAre you not wearing your equipment?",
         "pt-BR": "[OSC0005]\nVocê não está sem o equipamento equipado, está?",
         "es-ES": "[OSC0005]\n¿No te habrás quitado el equipo?"
     },
     "UxyMCA": {
-        "ko-KR": "^FF0000랜덤옵션이 확인됩니다. 해당 장비는 작업 하실 수 없습니다.^000000",
         "en-US": "^FF0000Random options detected. This equipment cannot be processed.^000000",
         "pt-BR": "^FF0000Uma opção aleatória foi detectada. Este equipamento não pode ser processado.^000000",
         "es-ES": "^FF0000Se detectó una opción aleatoria. No se puede trabajar con ese equipo.^000000"
     },
     "VByMCA": {
-        "ko-KR": "[OSC0005]\n입고있던 장비를 중간에 벗으면 굉장히 위험합니다.",
         "en-US": "[OSC0005]\nIt is extremely dangerous to remove equipment in the middle of the process.",
         "pt-BR": "[OSC0005]\nÉ extremamente perigoso remover o equipamento durante o processo.",
         "es-ES": "[OSC0005]\nQuitarse el equipo a mitad del proceso puede ser extremadamente peligroso."
     },
     "VRyMCA": {
-        "ko-KR": "시간의 서클릿(룬나이트)",
         "en-US": "Circlet of Time (Rune Knight)",
         "pt-BR": "Diadema do Tempo (Cavaleiro Rúnico)",
         "es-ES": "Circlet del Tiempo (Caballero Rúnico)"
     },
     "VhyMCA": {
-        "ko-KR": "시간의 서클릿(로얄가드)",
         "en-US": "Circlet of Time (Royal Guard)",
         "pt-BR": "Diadema do Tempo (Guardião Real)",
         "es-ES": "Circlet del Tiempo (Guardia Real)"
     },
     "VxyMCA": {
-        "ko-KR": "시간의 서클릿(미케닉)",
         "en-US": "Circlet of Time (Mechanic)",
         "pt-BR": "Diadema do Tempo (Mecânico)",
         "es-ES": "Circlet del Tiempo (mecánico)"
     },
     "WByMCA": {
-        "ko-KR": "시간의 서클릿(제네릭)",
         "en-US": "Circlet of Time (Genetic)",
         "pt-BR": "Diadema do Tempo (Bioquímico)",
         "es-ES": "Circlet del Tiempo (Genetista)"
     },
     "WRyMCA": {
-        "ko-KR": "시간의 서클릿(길로틴크로스)",
         "en-US": "Circlet of Time (Guillotine Cross)",
         "pt-BR": "Diadema do Tempo (Sicário)",
         "es-ES": "Circlet del Tiempo (Cruzado de la Guillotina)"
     },
     "WhyMCA": {
-        "ko-KR": "시간의 서클릿(쉐도우체이서)",
         "en-US": "Circlet of Time (Shadow Chaser)",
         "pt-BR": "Diadema do Tempo (Renegado)",
         "es-ES": "Circlet del Tiempo (Perseguidor de sombras)"
     },
     "WxyMCA": {
-        "ko-KR": "시간의 서클릿(아크비숍)",
         "en-US": "Circlet of Time (Archbishop)",
         "pt-BR": "Diadema do Tempo (Arcebispo)",
         "es-ES": "Circlet del Tiempo (Arzobispo)"
     },
     "XByMCA": {
-        "ko-KR": "시간의 서클릿(수라)",
         "en-US": "Circlet of Time (Sura)",
         "pt-BR": "Diadema do Tempo (Shura)",
         "es-ES": "Circlet del Tiempo (Shura)"
     },
     "XRyMCA": {
-        "ko-KR": "시간의 서클릿(워록)",
         "en-US": "Circlet of Time (Warlock)",
         "pt-BR": "Diadema do Tempo (Arcano)",
         "es-ES": "Circlet del Tiempo (Brujo)"
     },
     "XhyMCA": {
-        "ko-KR": "시간의 서클릿(소서러)",
         "en-US": "Circlet of Time (Sorcerer)",
         "pt-BR": "Diadema do Tempo (Feiticeiro)",
         "es-ES": "Circlet del Tiempo (Conjurador)"
     },
     "XxyMCA": {
-        "ko-KR": "시간의 서클릿(레인저)",
         "en-US": "Circlet of Time (Ranger)",
         "pt-BR": "Diadema do Tempo (Sentinela)",
         "es-ES": "Circlet del Tiempo (Errante)"
     },
     "YByMCA": {
-        "ko-KR": "시간의 서클릿(원더러&민스트럴)",
         "en-US": "Circlet of Time (Wanderer & Minstrel)",
         "pt-BR": "Diadema do Tempo (Trovador & Musa)",
         "es-ES": "Circlet del Tiempo (Nómad&Trovador)"
     },
     "YRyMCA": {
-        "ko-KR": "시간의 서클릿(성제)",
         "en-US": "Circlet of Time (Star Emperor)",
         "pt-BR": "Diadema do Tempo (Mestre Estelar)",
         "es-ES": "Circlet del Tiempo (Emperador Estelar)"
     },
     "YhyMCA": {
-        "ko-KR": "시간의 서클릿(소울리퍼)",
         "en-US": "Circlet of Time (Soul Reaper)",
         "pt-BR": "Diadema do Tempo (Ceifador de Almas)",
         "es-ES": "Circlet del Tiempo (Cosechador de Almas)"
     },
     "YxyMCA": {
-        "ko-KR": "시간의 서클릿(건슬링거)",
         "en-US": "Circlet of Time (Gunslinger)",
         "pt-BR": "Circlet do Tempo (Gunslinger)",
         "es-ES": "Circlet del Tiempo (Pistolero)"
     },
     "ZByMCA": {
-        "ko-KR": "시간의 서클릿(오보로)",
         "en-US": "Circlet of Time (Oboro)",
         "pt-BR": "Diadema do Tempo (Oboro)",
         "es-ES": "Circlet del Tiempo (Oboro)"
     },
     "ZRyMCA": {
-        "ko-KR": "시간의 서클릿(카게로우)",
         "en-US": "Circlet of Time (Kagerou)",
         "pt-BR": "Diadema do Tempo (Kagerou)",
         "es-ES": "Circlet del Tiempo (Kagerou)"
     },
     "ZhyMCA": {
-        "ko-KR": "시간의 서클릿(슈퍼노비스)",
         "en-US": "Circlet of Time (Super Novice)",
         "pt-BR": "Diadema do Tempo (Superaprendiz)",
         "es-ES": "Circlet del Tiempo (Superprincipiante)"
     },
     "ZxyMCA": {
-        "ko-KR": "시간의 서클릿(소환사)",
         "en-US": "Circlet of Time (Summoner)",
         "pt-BR": "Diadema do Tempo (Invocador)",
         "es-ES": "Circlet del Tiempo (Invocador)"
     },
     "aByMCA": {
-        "ko-KR": "클릭하여 확인하세요",
         "en-US": "Click to check",
         "pt-BR": "Clique para verificar",
         "es-ES": "Haz clic para comprobar"
     },
     "aRyMCA": {
-        "ko-KR": "[OSC0005]\n이 장비는 시간의 서클릿이 아닙니다. 강화 또는 초기화 할 수 없습니다.",
         "en-US": "[OSC0005]\nThis equipment is not a Circlet of Time. It cannot be upgraded or reset.",
         "pt-BR": "[OSC0005]\nEste equipamento não é um Circlet do Tempo. Não pode ser aprimorado ou redefinido.",
         "es-ES": "[OSC0005]\nEste equipo no es un Circlet del Tiempo. No puede mejorarse ni reiniciarse."
     },
     "ahyMCA": {
-        "ko-KR": "[OSC0005]\n최소 1개 이상의 효능이 인챈트된 장비를 들고오셔야 초기화 가능합니다.",
         "en-US": "[OSC0005]\nYou must bring equipment that has at least one enchanted effect to perform a reset.",
         "pt-BR": "[OSC0005]\nVocê deve trazer um equipamento com pelo menos um efeito encantado para poder redefinir.",
         "es-ES": "[OSC0005]\nDebes traer equipo con al menos 1 efecto encantado para poder reiniciarlo."
     },
     "axyMCA": {
-        "ko-KR": "[OSC0005]\n두 가지의 방법으로 초기화 가능합니다. 원하시는 내용을 선택해주십시오.",
         "en-US": "[OSC0005]\nYou can reset it using two methods. Please select the option you want.",
         "pt-BR": "[OSC0005]\nÉ possível redefinir de duas maneiras. Selecione a opção desejada.",
         "es-ES": "[OSC0005]\nExisten dos métodos para reiniciar. Selecciona el que prefieras."
     },
     "bByMCA": {
-        "ko-KR": "50만 제니로 초기화",
         "en-US": "Reset with 500,000 Zeny",
         "pt-BR": "Redefinir por 500.000 Zeny",
         "es-ES": "Reiniciar con 500 000 Zeny"
     },
     "bRyMCA": {
-        "ko-KR": "냥다래 2개로 초기화",
         "en-US": "Reset with 2 Nyangvine",
         "pt-BR": "Redefinir com 2 MiauMiau",
         "es-ES": "Reiniciar con 2 Miaufruto"
     },
     "bhyMCA": {
-        "ko-KR": "준비가 되시면 다시 찾아주십시오.",
         "en-US": "Please return when you are ready.",
         "pt-BR": "Por favor, retorne quando estiver pronto.",
         "es-ES": "Vuelve cuando estés preparado."
     },
     "bxyMCA": {
-        "ko-KR": "[OSC0005]\n제니를 이용한 초기화를 선택하셨군요. 초기화에 실패할 경우 장비가 파괴되니 주의해서 결정하시기 바랍니다.",
         "en-US": "[OSC0005]\nYou have selected reset using Zeny. If the reset fails, the equipment will be destroyed, so please decide carefully.",
         "pt-BR": "[OSC0005]\nVocê escolheu redefinir usando Zeny. Caso falhe, o equipamento será destruído, então decida com cuidado.",
         "es-ES": "[OSC0005]\nHas elegido reiniciar usando Zeny. Ten cuidado, si falla el reinicio el equipo será destruido."
     },
     "cByMCA": {
-        "ko-KR": "[OSC0005]\n<ITEM>[냥다래 열매]<INFO>6909</INFO></ITEM> 를 이용한 초기화를 선택하셨군요.",
         "en-US": "[OSC0005]\nYou have selected reset using <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM>.",
         "pt-BR": "[OSC0005]\nVocê escolheu redefinir usando <ITEM>[MiauMiau]<INFO>6909</INFO></ITEM>.",
         "es-ES": "[OSC0005]\nHas elegido reiniciar usando <ITEM>[Miaufruto]<INFO>6909</INFO></ITEM>."
     },
     "cRyMCA": {
-        "ko-KR": "초기화 성공확률은 ^0000FF{0}%^000000 입니다",
         "en-US": "Reset success rate is ^0000FF{0}%^000000",
         "pt-BR": "A chance de sucesso da redefinição é ^0000FF{0}%^000000",
         "es-ES": "La probabilidad de éxito del reinicio es ^0000FF{0}%^000000"
     },
     "chyMCA": {
-        "ko-KR": "초기화한다",
         "en-US": "Reset",
         "pt-BR": "Redefinir",
         "es-ES": "Reiniciar"
     },
     "cxyMCA": {
-        "ko-KR": "[OSC0005]\n준비가 되시면 다시 찾아주십시오.",
         "en-US": "[OSC0005]\nPlease return when you are ready.",
         "pt-BR": "[OSC0005]\nPor favor, retorne quando estiver pronto.",
         "es-ES": "[OSC0005]\nVuelve cuando estés preparado."
     },
     "dByMCA": {
-        "ko-KR": "[OSC0005]\n50만 제니가 필요한 작업입니다.",
         "en-US": "[OSC0005]\nThis process requires 500,000 Zeny.",
         "pt-BR": "[OSC0005]\nEsta operação requer 500.000 Zeny.",
         "es-ES": "[OSC0005]\nEste proceso requiere 500 000 Zeny."
     },
     "dRyMCA": {
-        "ko-KR": "^FF0000[경고]^000000\n^FF0000냥다래 열매 {0}개로 초기화를 진행합니다.^000000\n^FF0000위의 교환된 아이템은 청약철회대상에 포함되지 않으며, 냥다래 열매로의 재교환 역시 불가능합니다.^000000",
         "en-US": "^FF0000[Warning]^000000\n^FF0000Reset will be performed using {0} Nyangvine.^000000\n^FF0000The exchanged item above is not eligible for withdrawal and cannot be exchanged back into Nyangvine.^000000",
         "pt-BR": "^FF0000[Aviso]^000000\n^FF0000A redefinição será realizada usando {0} MiauMiau.^000000\n^FF0000Os itens obtidos na troca acima não estão sujeitos a cancelamento e também não podem ser trocados novamente por MiauMiau.^000000",
         "es-ES": "^FF0000[Advertencia]^000000\n^FF0000El reinicio se realizará usando {0} Miaufruto.^000000\n^FF0000Los objetos intercambiados arriba no están sujetos a cancelación de compra y tampoco pueden volver a cambiarse por Miaufruto.^000000"
     },
     "dhyMCA": {
-        "ko-KR": "계속한다.",
         "en-US": "Continue.",
         "pt-BR": "Continuar.",
         "es-ES": "Continuar."
     },
     "dxyMCA": {
-        "ko-KR": "그만둔다.",
         "en-US": "Cancel.",
         "pt-BR": "Cancelar.",
         "es-ES": "Cancelar."
     },
     "eByMCA": {
-        "ko-KR": "[OSC0005]\n<ITEM>[냥다래 열매]<INFO>6909</INFO></ITEM> 2개가 필요합니다.",
         "en-US": "[OSC0005]\n2 <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM> are required.",
         "pt-BR": "[OSC0005]\nSão necessários 2 <ITEM>[MiauMiau]<INFO>6909</INFO></ITEM>.",
         "es-ES": "[OSC0005]\nSe requieren 2 <ITEM>[Miaufruto]<INFO>6909</INFO></ITEM>."
     },
     "eRyMCA": {
-        "ko-KR": "[OSC0005]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]",
         "en-US": "[OSC0005]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]",
         "pt-BR": "[OSC0005]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]",
         "es-ES": "[OSC0005]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]"
     },
     "ehyMCA": {
-        "ko-KR": "초기화에 성공하였습니다.",
         "en-US": "Reset succeeded.",
         "pt-BR": "Redefinição realizada com sucesso.",
         "es-ES": "Reinicio completado con éxito."
     },
     "exyMCA": {
-        "ko-KR": "초기화에 실패하였습니다.",
         "en-US": "Reset failed.",
         "pt-BR": "Falha na redefinição.",
         "es-ES": "El reinicio ha fallado."
     },
     "fByMCA": {
-        "ko-KR": "시간의 파편",
         "en-US": "Fragment of Time",
         "pt-BR": "Fragmento do Tempo",
         "es-ES": "Fragmento del tiempo"
     },
     "fRyMCA": {
-        "ko-KR": "[OSC0005]\n2차 인챈트에는 일반, 상급 두가지의 형태중 하나를 선택할 수 있습니다. 상급 인챈트를 선택할 경우 시간의 세공 보석류만 인챈트 되니 참고하세요.",
         "en-US": "[OSC0005]\nFor the second enchant, you may choose between Normal and Advanced types. If you select Advanced Enchant, only Time Engraved Gemstones will be enchanted.",
         "pt-BR": "[OSC0005]\nNo segundo encantamento, você pode escolher entre duas formas: normal ou avançada. Se selecionar encantamento avançado, apenas joias de lapidação temporal poderão ser encantadas.",
         "es-ES": "[OSC0005]\nPara el segundo encantamiento puedes elegir entre dos tipos: normal o avanzado. Si eliges el encantamiento avanzado, solo se aplicará a gemas de tallado del tiempo."
     },
     "fhyMCA": {
-        "ko-KR": "취소한다",
         "en-US": "Cancel",
         "pt-BR": "Cancelar",
         "es-ES": "Cancelar"
     },
     "fxyMCA": {
-        "ko-KR": "일반 인챈트",
         "en-US": "Normal Enchant",
         "pt-BR": "Encantamento normal",
         "es-ES": "Encantamiento normal"
     },
     "gByMCA": {
-        "ko-KR": "상급인챈트",
         "en-US": "Advanced Enchant",
         "pt-BR": "Encantamento avançado",
         "es-ES": "Encantamiento avanzado"
     },
     "gRyMCA": {
-        "ko-KR": "[OSC0005]\n강화를 원하실때 다시 찾아주세요.",
         "en-US": "[OSC0005]\nPlease return when you wish to enhance.",
         "pt-BR": "[OSC0005]\nVolte quando desejar aprimorar.",
         "es-ES": "[OSC0005]\nVuelve cuando desees realizar una mejora."
     },
     "ghyMCA": {
-        "ko-KR": "시간의 보석 원석",
         "en-US": "Raw Gemstone of Time",
         "pt-BR": "Minério da Jóia Temporal",
         "es-ES": "Gema en bruto del Tiempo"
     },
     "gxyMCA": {
-        "ko-KR": "시간의 마력",
         "en-US": "Power of Time",
         "pt-BR": "Poder Temporal",
         "es-ES": "Poder mágico del tiempo"
     },
     "hByMCA": {
-        "ko-KR": "[OSC0005]\n음? 뭔가 오류가 생긴것 같군요. 잠시 후에 다시 오십시오.",
         "en-US": "[OSC0005]\nHmm? It seems an error has occurred. Please return later.",
         "pt-BR": "[OSC0005]\nHum? Parece que ocorreu algum erro. Por favor, volte mais tarde.",
         "es-ES": "[OSC0005]\nHmm... parece que ocurrió un error. Por favor vuelve más tarde."
     },
     "hRyMCA": {
-        "ko-KR": "클릭하여 확인하세요",
         "en-US": "Click to check",
         "pt-BR": "Clique para verificar",
         "es-ES": "Haz clic para comprobar"
     },
     "hhyMCA": {
-        "ko-KR": "[OSC0005]\n이 장비는 이미 한계치까지 업그레이드 되었군요. 더이상은 제가 해 드릴것이 없습니다.",
         "en-US": "[OSC0005]\nThis equipment has already been upgraded to its limit. There is nothing more I can do.",
         "pt-BR": "[OSC0005]\nEste equipamento já foi aprimorado até o limite. Não há mais nada que eu possa fazer.",
         "es-ES": "[OSC0005]\nEste equipo ya ha sido mejorado hasta su límite. No hay nada más que pueda hacer."
     },
     "hxyMCA": {
-        "ko-KR": "[OSC0005]\n이 장비는 한계까지 강화된 것 같군요. 업그레이드가 가능한 특수효능은 ^0000FF마정 패기 예기 선궁 금강 자애 불굴^000000 7 종류입니다.",
         "en-US": "[OSC0005]\nThis equipment appears to have been enhanced to its limit. The special effects that can be upgraded are ^0000FFMajung Paegi Yegi Seongung Geumgang Jaae Bulgul^000000, 7 types.",
         "pt-BR": "[OSC0005]\nEste equipamento parece ter sido aprimorado até o limite. Os efeitos especiais que podem ser aprimorados são ^0000FFMagia, Espírito, Precisão, Arco Celestial, Diamante, Benevolência, Tenacidade^000000 — 7 tipos.",
         "es-ES": "[OSC0005]\nEste equipo parece haber alcanzado su límite. Los efectos especiales que pueden mejorarse son ^0000FFMagia, Ímpetu, Filo, Arco divino, Vajra, Compasión, Tenacidad^000000 (7 tipos)."
     },
     "iByMCA": {
-        "ko-KR": "[OSC0005]\n오류가 발생했군요. 이대론 진행이 불가능합니다.",
         "en-US": "[OSC0005]\nAn error has occurred. It cannot proceed in this state.",
         "pt-BR": "[OSC0005]\nOcorreu um erro. Não é possível continuar desta forma.",
         "es-ES": "[OSC0005]\nHa ocurrido un error. No es posible continuar en este estado."
     },
     "iRyMCA": {
-        "ko-KR": "[OSC0005]\n[강화대상]",
         "en-US": "[OSC0005]\n[Enhancement Target]",
         "pt-BR": "[OSC0005]\n[Alvo de Aprimoramento]",
         "es-ES": "[OSC0005]\n[Objetivo de mejora]"
     },
     "ihyMCA": {
-        "ko-KR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FF{2}레벨^000000로 업그레이드",
         "en-US": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nUpgrade to ^0000FFLevel {2}^000000",
         "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nAtualizar para nível ^0000FF{2}^000000",
         "es-ES": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nMejorar a nivel ^0000FF{2}^000000"
     },
     "ixyMCA": {
-        "ko-KR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]",
         "en-US": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]",
         "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]",
         "es-ES": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]"
     },
     "jByMCA": {
-        "ko-KR": "===============\n[강화재료]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2}개",
         "en-US": "===============\n[Enhancement Materials]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2}",
         "pt-BR": "===============\n[Materiais de Aprimoramento]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2}",
         "es-ES": "===============\n[Materiales de mejora]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2}"
     },
     "jRyMCA": {
-        "ko-KR": "강화를 진행한다",
         "en-US": "Proceed with Enhancement",
         "pt-BR": "Realizar aprimoramento",
         "es-ES": "Realizar mejora"
     },
     "jhyMCA": {
-        "ko-KR": "[OSC0005]\n이미 한계치 까지 강화된 유물입니다.",
         "en-US": "[OSC0005]\nThis relic has already been enhanced to its limit.",
         "pt-BR": "[OSC0005]\nEste é um artefato já aprimorado até o limite.",
         "es-ES": "[OSC0005]\nEste artefacto ya ha sido mejorado hasta su límite."
     },
     "jxyMCA": {
-        "ko-KR": "[OSC0005]\n거래를 위한 재료가 부족합니다. 한번 더 확인해 주십시오.",
         "en-US": "[OSC0005]\nInsufficient materials for the transaction. Please check again.",
         "pt-BR": "[OSC0005]\nFaltam materiais para a transação. Por favor, verifique novamente.",
         "es-ES": "[OSC0005]\nNo hay suficientes materiales para el intercambio. Por favor verifícalo de nuevo."
     },
     "kByMCA": {
-        "ko-KR": "[OSC0005]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[강화재료]\n[<ITEM>{2}<INFO>{3}</INFO></ITEM>] {4}개",
         "en-US": "[OSC0005]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[Enhancement Materials]\n[<ITEM>{2}<INFO>{3}</INFO></ITEM>] {4}",
         "pt-BR": "[OSC0005]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[Materiais de Aprimoramento]\n[<ITEM>{2}<INFO>{3}</INFO></ITEM>] {4}",
         "es-ES": "[OSC0005]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[Materiales de mejora]\n[<ITEM>{2}<INFO>{3}</INFO></ITEM>] {4}"
     },
     "kRyMCA": {
-        "ko-KR": "[OSC0005]",
         "en-US": "[OSC0005]",
         "pt-BR": "[OSC0005]",
         "es-ES": "[OSC0005]"
     },
     "khyMCA": {
-        "ko-KR": "[cardname_1]{0}\n[cardname_2]{1}\n[cardname_3]{2}\n[cardname_4]{3}",
         "en-US": "[cardname_1]{0}\n[cardname_2]{1}\n[cardname_3]{2}\n[cardname_4]{3}",
         "pt-BR": "[cardname_1]{0}\n[cardname_2]{1}\n[cardname_3]{2}\n[cardname_4]{3}",
         "es-ES": "[cardname_1]{0}\n[cardname_2]{1}\n[cardname_3]{2}\n[cardname_4]{3}"
     },
     "kxyMCA": {
-        "ko-KR": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n강화 실패했습니다.^000000",
         "en-US": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nEnhancement failed.^000000",
         "pt-BR": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nAprimoramento falhou.^000000",
         "es-ES": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nLa mejora ha fallado.^000000"
     },
     "lByMCA": {
-        "ko-KR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n최종 인챈트 효능 업그레이드에 실패하였으나 최저 등급인 관계로 재료만 소멸되며 ^0000FF1레벨 효능을 유지합니다.^000000",
         "en-US": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nFinal enchant effect upgrade failed, but since it is the lowest grade, only the materials are consumed and the ^0000FFLevel 1 effect is maintained.^000000",
         "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nA melhoria do efeito final de encantamento falhou, mas como está no nível mínimo, apenas os materiais serão consumidos e o efeito de ^0000FFnível 1 será mantido.^000000",
         "es-ES": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nLa mejora final del efecto de encantamiento falló, pero al ser el rango mínimo solo se consumieron los materiales y ^0000FFse mantiene el efecto de nivel 1.^000000"
     },
     "lRyMCA": {
-        "ko-KR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n최종 인챈트 효능 업그레이드에 실패하여 효능이 ^FF0000{2} 레벨^000000로 1단계 하락합니다.",
         "en-US": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nFinal enchant effect upgrade failed, and the effect decreases by 1 level to ^FF0000Level {2}^000000.",
         "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nA melhoria do efeito final de encantamento falhou e o efeito diminui um nível para ^FF0000{2}^000000.",
         "es-ES": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nLa mejora final del efecto de encantamiento falló y el efecto baja un nivel a ^FF0000{2}^000000."
     },
     "lhyMCA": {
-        "ko-KR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n업그레이드에 성공하였습니다. 효능이 업그레이드 됩니다.",
         "en-US": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nUpgrade succeeded. The effect is upgraded.",
         "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nO upgrade foi bem-sucedido. O efeito será aprimorado.",
         "es-ES": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nLa mejora ha tenido éxito. El efecto se ha mejorado."
     },
     "lxyMCA": {
-        "ko-KR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n강화 완료되었습니다.",
         "en-US": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nEnhancement completed.",
         "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nAprimoramento concluído.",
         "es-ES": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nMejora completada."
     },
     "mByMCA": {
-        "ko-KR": "인챈트 PPL - {0}단계 성공",
         "en-US": "Enchant PPL - Stage {0} Success",
         "pt-BR": "Encantamento PPL - sucesso no estágio {0}",
         "es-ES": "Encantamiento PPL - éxito en etapa {0}"

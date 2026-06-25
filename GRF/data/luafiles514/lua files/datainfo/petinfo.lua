@@ -134,7 +134,10 @@ PetNameTable = {
 	[jobtbl.JT_EP17_2_CHILD_ADMIN2] = "child_admin_a",
 	[jobtbl.JT_BLUEMOON_LOLI_RURI2] = "BLUEMOON_LOLI_RURI2",
 	[jobtbl.JT_CWHITEKNIGHT] = "CWHITEKNIGHT",
-	[jobtbl.JT_KNIGHT_OF_ABYSS2] = "KNIGHT_OF_ABYSS2"
+	[jobtbl.JT_KNIGHT_OF_ABYSS2] = "KNIGHT_OF_ABYSS2",
+	[jobtbl.JT_EDDGA3] = "EDDGA3",
+	[jobtbl.JT_C_TOWER_MANAGER2] = "C_Tower_Manager",
+	[jobtbl.JT_SKEGGIOLD] = "SKEGGIOLD"
 }
 PetIllustNameTable = {
 	[jobtbl.JT_BAPHOMET_] = "펫_바포메트.bmp",
@@ -276,7 +279,10 @@ PetIllustNameTable = {
 	[jobtbl.JT_EP17_2_CHILD_ADMIN2] = "child_admin_a.bmp",
 	[jobtbl.JT_BLUEMOON_LOLI_RURI2] = "pet_blue_moon_loli_ruri.bmp",
 	[jobtbl.JT_CWHITEKNIGHT] = "pet_c_white_knight.bmp",
-	[jobtbl.JT_KNIGHT_OF_ABYSS2] = "KNIGHT_OF_ABYSS2"
+	[jobtbl.JT_KNIGHT_OF_ABYSS2] = "KNIGHT_OF_ABYSS2",
+	[jobtbl.JT_EDDGA3] = "pet_eddga.bmp",
+	[jobtbl.JT_C_TOWER_MANAGER2] = "Pet_C_Tower_Manager.bmp",
+	[jobtbl.JT_SKEGGIOLD] = "Pet_SKEGGIOLD.bmp"
 }
 PetIllustNameTable_Eng = {
 	[jobtbl.JT_BAPHOMET_] = "PET_BAPHOMET.bmp",
@@ -417,7 +423,10 @@ PetIllustNameTable_Eng = {
 	[jobtbl.JT_EP17_2_CHILD_ADMIN2] = "child_admin_a.bmp",
 	[jobtbl.JT_BLUEMOON_LOLI_RURI2] = "pet_blue_moon_loli_ruri.bmp",
 	[jobtbl.JT_CWHITEKNIGHT] = "pet_c_white_knight.bmp",
-	[jobtbl.JT_KNIGHT_OF_ABYSS2] = "pet_knight_of_abyss.bmp"
+	[jobtbl.JT_KNIGHT_OF_ABYSS2] = "pet_knight_of_abyss.bmp",
+	[jobtbl.JT_EDDGA3] = "pet_eddga.bmp",
+	[jobtbl.JT_C_TOWER_MANAGER2] = "Pet_C_Tower_Manager.bmp",
+	[jobtbl.JT_SKEGGIOLD] = "Pet_SKEGGIOLD.bmp"
 }
 PetAccIDs = {
 	ACC_FIRST = 10000,
@@ -466,6 +475,7 @@ PetAccIDs = {
 	ACC_EP17_2_CHILD_ADMIN1 = 10043,
 	ACC_EP17_2_CHILD_ADMIN2 = 10044,
 	ACC_WANDERING_DUCK = 10045,
+	ACC_EDDGA2 = 10047,
 	ACC_LAST = 10046
 }
 PetAccActNameTable = {
@@ -513,7 +523,8 @@ PetAccActNameTable = {
 	[PetAccIDs.ACC_SKELION] = "ACC_SKELION.act",
 	[PetAccIDs.ACC_WANDERING_DUCK] = "ACC_DUCKLING.act",
 	[PetAccIDs.ACC_EP17_2_CHILD_ADMIN1] = "acc_child_admin1.act",
-	[PetAccIDs.ACC_EP17_2_CHILD_ADMIN2] = "acc_child_admin2.act"
+	[PetAccIDs.ACC_EP17_2_CHILD_ADMIN2] = "acc_child_admin2.act",
+	[PetAccIDs.ACC_EDDGA2] = "EDDGA2_BowTie.act"
 }
 PetAccActNameTable_Eng = {
 	[PetAccIDs.ACC_BAPHOMET] = "ACC_BAPHOMET.act",
@@ -559,7 +570,8 @@ PetAccActNameTable_Eng = {
 	[PetAccIDs.ACC_SKELION] = "ACC_SKELION.act",
 	[PetAccIDs.ACC_WANDERING_DUCK] = "ACC_DUCKLING.act",
 	[PetAccIDs.ACC_EP17_2_CHILD_ADMIN1] = "acc_child_admin1.act",
-	[PetAccIDs.ACC_EP17_2_CHILD_ADMIN2] = "acc_child_admin2.act"
+	[PetAccIDs.ACC_EP17_2_CHILD_ADMIN2] = "acc_child_admin2.act",
+	[PetAccIDs.ACC_EDDGA2] = "EDDGA2_BowTie.act"
 }
 PetStringTable = {
 	[jobtbl.JT_PORING] = "포링",
@@ -700,7 +712,10 @@ PetStringTable = {
 	[jobtbl.JT_EP17_2_CHILD_ADMIN2] = "꼬마 관리자α",
 	[jobtbl.JT_BLUEMOON_LOLI_RURI2] = "블루 문 로리루리",
 	[jobtbl.JT_CWHITEKNIGHT] = "변이하는 백색의 기사",
-	[jobtbl.JT_KNIGHT_OF_ABYSS2] = "심연의 기사"
+	[jobtbl.JT_KNIGHT_OF_ABYSS2] = "심연의 기사",
+	[jobtbl.JT_EDDGA3] = "에드가",
+	[jobtbl.JT_C_TOWER_MANAGER2] = "시계탑 관리자",
+	[jobtbl.JT_SKEGGIOLD] = "스케골트"
 }
 PetEggItemID_PetJobID = {
 	[9001] = jobtbl.JT_PORING,
@@ -840,7 +855,10 @@ PetEggItemID_PetJobID = {
 	[9171] = jobtbl.JT_TIMEHOLDER3,
 	[9123] = jobtbl.JT_EP17_2_CHILD_ADMIN1,
 	[9124] = jobtbl.JT_EP17_2_CHILD_ADMIN2,
-	[9132] = jobtbl.JT_KNIGHT_OF_ABYSS2
+	[9132] = jobtbl.JT_KNIGHT_OF_ABYSS2,
+	[9142] = jobtbl.JT_EDDGA3,
+	[9169] = jobtbl.JT_C_TOWER_MANAGER2,
+	[9187] = jobtbl.JT_SKEGGIOLD
 }
 PetFoodTable = {
 	[jobtbl.JT_PORING] = 531,
@@ -982,5 +1000,8 @@ PetFoodTable = {
 	[jobtbl.JT_EP17_2_CHILD_ADMIN2] = 537,
 	[jobtbl.JT_BLUEMOON_LOLI_RURI2] = 537,
 	[jobtbl.JT_CWHITEKNIGHT] = 537,
-	[jobtbl.JT_KNIGHT_OF_ABYSS2] = 537
+	[jobtbl.JT_KNIGHT_OF_ABYSS2] = 537,
+	[jobtbl.JT_EDDGA3] = 25377,
+	[jobtbl.JT_SKEGGIOLD] = 6105,
+	[jobtbl.JT_C_TOWER_MANAGER2] = 537
 }

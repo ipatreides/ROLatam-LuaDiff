@@ -1,0 +1,92 @@
+{
+    "4IIhDQ": {
+        "en-US": "230614. Admin Menu Version Display",
+        "pt-BR": "230614. Exibição da versão no menu do administrador",
+        "es-ES": "230614. Indicación de versión en el menú de administrador"
+    },
+    "4YIhDQ": {
+        "en-US": "Enter Mukbang Value",
+        "pt-BR": "Inserir valor de mukbang",
+        "es-ES": "Introducir valor de mukbang"
+    },
+    "4oIhDQ": {
+        "en-US": "Normal",
+        "pt-BR": "Normal",
+        "es-ES": "Normal"
+    },
+    "44IhDQ": {
+        "en-US": "Advanced",
+        "pt-BR": "Avançado",
+        "es-ES": "Avanzado"
+    },
+    "5IIhDQ": {
+        "en-US": "Start Mukbang",
+        "pt-BR": "Iniciar mukbang",
+        "es-ES": "Inicio de mukbang"
+    },
+    "5YIhDQ": {
+        "en-US": "Contaminated Zone",
+        "pt-BR": "Zona contaminada",
+        "es-ES": "Zona contaminada"
+    },
+    "5oIhDQ": {
+        "en-US": "Mid-Boss Room",
+        "pt-BR": "Sala do miniboss",
+        "es-ES": "Sala de miniboss"
+    },
+    "54IhDQ": {
+        "en-US": "Boss Room",
+        "pt-BR": "Sala do chefe",
+        "es-ES": "Sala de jefe"
+    },
+    "6IIhDQ": {
+        "en-US": "Goddess's Guardian#{0}",
+        "pt-BR": "Guardião da Deusa #{0}",
+        "es-ES": "Guardiana de la Diosa#{0}"
+    },
+    "6YIhDQ": {
+        "en-US": "Villa Keeper#{0}",
+        "pt-BR": "Zelador da Mansão #{0}",
+        "es-ES": "Cuidador de la Mansión#{0}"
+    },
+    "6oIhDQ": {
+        "en-US": "Remaining Monster Count {0}",
+        "pt-BR": "Número de monstros restantes {0}",
+        "es-ES": "Número de monstruos restantes {0}"
+    },
+    "64IhDQ": {
+        "en-US": "When the two souls are released simultaneously, the door leading to the center opens.",
+        "pt-BR": "Duas almas são libertadas ao mesmo tempo, e a porta que leva ao centro se abre.",
+        "es-ES": "Dos almas se liberan simultáneamente y se abre la puerta hacia el centro."
+    },
+    "7IIhDQ": {
+        "en-US": "Ah... my other half of the soul remains beyond this corridor and cannot pass on...",
+        "pt-BR": "Ahh... minha outra metade da alma permaneceu além deste corredor e não conseguiu descansar em paz...",
+        "es-ES": "Ah... mi otra mitad de alma permanece más allá de este pasillo y no puede descansar en paz..."
+    },
+    "7YIhDQ": {
+        "en-US": "You must release the two souls on both sides of the corridor at the same time.",
+        "pt-BR": "É preciso libertar ao mesmo tempo as duas almas que estão à esquerda e à direita do corredor.",
+        "es-ES": "Debes liberar simultáneamente las dos almas situadas a ambos lados del pasillo."
+    },
+    "7oIhDQ": {
+        "en-US": "[Unknown Grudge]\nHave you come to set me free?",
+        "pt-BR": "[Ressentimento de origem desconhecida]\nVocê veio para me libertar?",
+        "es-ES": "[Rencor de origen desconocido]\n¿Has venido para liberarme?"
+    },
+    "74IhDQ": {
+        "en-US": "Cancel",
+        "pt-BR": "Desistir",
+        "es-ES": "Cancelar"
+    },
+    "8IIhDQ": {
+        "en-US": "Release Soul",
+        "pt-BR": "Fazer descansar em paz",
+        "es-ES": "Liberar el alma"
+    },
+    "8YIhDQ": {
+        "en-US": "^0000FFIt does not seem necessary to be involved with something suspicious^000000",
+        "pt-BR": "^0000FFParece desnecessário se envolver com algo suspeito^000000",
+        "es-ES": "^0000FFNo parece necesario involucrarse con algo sospechoso^000000"
+    }
+}

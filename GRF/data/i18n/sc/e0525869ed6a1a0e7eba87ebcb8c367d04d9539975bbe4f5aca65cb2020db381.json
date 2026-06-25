@@ -109,9 +109,9 @@
     },
     "MvH/DA": {
         "ko-KR": "^FF4D4D오크들의 경계심이 올라갔습니다.^000000",
-        "en-US": "^9B0000The Orcs' wariness has increased.^000000",
-        "pt-BR": "^9B0000A vigilância dos Orcs aumentou.^000000",
-        "es-ES": "^9B0000La cautela de los orcos ha aumentado.^000000"
+        "en-US": "^FF4D4DThe Orcs' wariness has increased.^000000",
+        "pt-BR": "^FF4D4DA vigilância dos Orcs aumentou.^000000",
+        "es-ES": "^FF4D4DLa cautela de los orcos ha aumentado.^000000"
     },
     "M/H/DA": {
         "ko-KR": "<사나운 고블린 정리> 완료하였습니다.",
