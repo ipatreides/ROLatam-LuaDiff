@@ -2845,5 +2845,11 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Blink_Eyes_Hanom] = "_C_Blink_Eyes_Hanom",
 	[ACCESSORY_IDs.ACCESSORY_C_Diosa_Rod] = "_C_Diosa_Rod",
 	[ACCESSORY_IDs.ACCESSORY_C_Bluehole_Bubble] = "_C_Bluehole_Bubble",
-	[ACCESSORY_IDs.ACCESSORY_C_Tassie_Helm] = "_C_Tassie_Helm"
+	[ACCESSORY_IDs.ACCESSORY_C_Tassie_Helm] = "_C_Tassie_Helm",
+	[ACCESSORY_IDs.ACCESSORY_C_Aqua_Marin] = "_C_Aqua_Marin",
+	[ACCESSORY_IDs.ACCESSORY_C_Aqua_Marin_N] = "_C_Aqua_Marin_N",
+	[ACCESSORY_IDs.ACCESSORY_C_Angler_Dream] = "_C_Angler_Dream",
+	[ACCESSORY_IDs.ACCESSORY_C_Deepsea_Pearls_Hat] = "_C_Deepsea_Pearls_Hat",
+	[ACCESSORY_IDs.ACCESSORY_Magical_Cape] = "_Magical_Cape",
+	[ACCESSORY_IDs.ACCESSORY_Fan_In_Mouth_PP] = "_Fan_In_Mouth_PP"
 }

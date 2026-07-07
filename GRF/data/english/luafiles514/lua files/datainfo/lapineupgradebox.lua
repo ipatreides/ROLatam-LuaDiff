@@ -19509,6 +19509,24 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "Gray Wolf Armors"
+		},
+		PerfectSize_Up = {
+			ItemID = 101362,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_PerfectSize_Armor",
+					24426
+				},
+				{
+					"S_PerfectSize_Weapon",
+					24425
+				}
+			},
+			NeedSource_String = "Perfect Size Shadows"
 		}
 	},
 	get_lapine_box = function(in_box_id)

@@ -1,0 +1,3912 @@
+{
+    "wB9jDQ": {
+        "en-US": "Ding Ding Daily",
+        "pt-BR": "Ding Ding Daily",
+        "es-ES": "Ding Ding Daily"
+    },
+    "wR9jDQ": {
+        "en-US": "- You have too many items and cannot proceed. -",
+        "pt-BR": "- Você possui muitos itens, não é possível prosseguir. -",
+        "es-ES": "- Tienes demasiados objetos. No puedes continuar. -"
+    },
+    "wh9jDQ": {
+        "en-US": "[Ding Ding Daily]\nHello!\nI'm the slot machine Ding Ding Daily.\nHow may I help you?",
+        "pt-BR": "[Ding Ding Daily]\nOlá!\nEu sou a máquina automática Ding Ding Daily.\nEm que posso ajudar?",
+        "es-ES": "[Ding Ding Daily]\n¡Hola!\nSoy la máquina tragamonedas Ding Ding Daily.\n¿En qué puedo ayudarte?"
+    },
+    "wx9jDQ": {
+        "en-US": "Daily Shop",
+        "pt-BR": "Loja Diária",
+        "es-ES": "Tienda Diaria"
+    },
+    "xB9jDQ": {
+        "en-US": "Reset Shop List",
+        "pt-BR": "Resetar lista da loja",
+        "es-ES": "Reiniciar lista de la tienda"
+    },
+    "xR9jDQ": {
+        "en-US": "Exit",
+        "pt-BR": "Sair",
+        "es-ES": "Salir"
+    },
+    "xh9jDQ": {
+        "en-US": "[Ding Ding Daily]\nIf you do not possess <ITEM>[Passe de Batalha Premium]<INFO>802</INFO></ITEM>,\nyou cannot use the Daily Shop.",
+        "pt-BR": "[Ding Ding Daily]\nSe você não tiver o <ITEM>[Passe de Batalha Premium]<INFO>802</INFO></ITEM>, não pode usar a Loja Diária.",
+        "es-ES": "[Ding Ding Daily]\nSi no posees <ITEM>[Pase de Batalla Premium]<INFO>802</INFO></ITEM>,\nno puedes usar la Tienda Diaria."
+    },
+    "xx9jDQ": {
+        "en-US": "[Ding Ding Daily]\nYou can use the Daily Shop if you have ^FF0000Battle Pass 2000 points^000000 or higher.",
+        "pt-BR": "[Ding Ding Daily]\nVocê pode usar a Loja Diária a partir de ^FF00002000 pontos do Passe de Batalha^000000.",
+        "es-ES": "[Ding Ding Daily]\nNecesitas ^FF00002000 puntos del Pase de Batalla^000000 o más para usar la Tienda Diaria."
+    },
+    "yB9jDQ": {
+        "en-US": "[Ding Ding Daily]\nSo you want to use the Daily Shop.\nWell, let me show you today's sales list.",
+        "pt-BR": "[Ding Ding Daily]\nVocê deseja usar a Loja Diária.\nBem, vou mostrar a lista de vendas de hoje.",
+        "es-ES": "[Ding Ding Daily]\nVeo que deseas usar la Tienda Diaria.\nBien, aquí tienes la lista de ventas de hoy."
+    },
+    "yR9jDQ": {
+        "en-US": "Automatic Modification Module (Defense)",
+        "pt-BR": "Módulo de Modificação Automática (Defesa)",
+        "es-ES": "Módulo de Modificación Automática (Defensa)"
+    },
+    "yh9jDQ": {
+        "en-US": "Varmeal Ticket",
+        "pt-BR": "Vale Varmida",
+        "es-ES": "Vale Varmida"
+    },
+    "yx9jDQ": {
+        "en-US": "Automatic Modification Module (Magic Defense)",
+        "pt-BR": "Módulo de Modificação Automática (Defesa Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Defensa Mágica)"
+    },
+    "zB9jDQ": {
+        "en-US": "Automatic Modification Module (Vit)",
+        "pt-BR": "Módulo de Modificação Automática (Vit)",
+        "es-ES": "Módulo de Modificación Automática (Vit)"
+    },
+    "zR9jDQ": {
+        "en-US": "Automatic Modification Module (Luk)",
+        "pt-BR": "Módulo de Modificação Automática (Sorte)",
+        "es-ES": "Módulo de Modificación Automática (Sue)"
+    },
+    "zh9jDQ": {
+        "en-US": "Automatic Modification Module (Str)",
+        "pt-BR": "Módulo de Modificação Automática (Força)",
+        "es-ES": "Módulo de Modificación Automática (Fue)"
+    },
+    "zx9jDQ": {
+        "en-US": "Automatic Modification Module (Agi)",
+        "pt-BR": "Módulo de Modificação Automática (Agilidade)",
+        "es-ES": "Módulo de Modificación Automática (Agi)"
+    },
+    "0B9jDQ": {
+        "en-US": "Automatic Modification Module (Int)",
+        "pt-BR": "Módulo de Modificação Automática (Inteligência)",
+        "es-ES": "Módulo de Modificación Automática (Int)"
+    },
+    "0R9jDQ": {
+        "en-US": "Automatic Modification Module (Dex)",
+        "pt-BR": "Módulo de Modificação Automática (Destreza)",
+        "es-ES": "Módulo de Modificación Automática (Des)"
+    },
+    "0h9jDQ": {
+        "en-US": "Automatic Modification Module (HP Recovery)",
+        "pt-BR": "Módulo de Modificação Automática (Recuperação de HP)",
+        "es-ES": "Módulo de Modificación Automática (Recuperación de HP)"
+    },
+    "0x9jDQ": {
+        "en-US": "Automatic Modification Module (SP Recovery)",
+        "pt-BR": "Módulo de Modificação Automática (Recuperação de SP)",
+        "es-ES": "Módulo de Modificación Automática (Recuperación de SP)"
+    },
+    "1B9jDQ": {
+        "en-US": "Automatic Modification Module (Spell)",
+        "pt-BR": "Módulo de Modificação Automática (Magia)",
+        "es-ES": "Módulo de Modificación Automática (Hechizo)"
+    },
+    "1R9jDQ": {
+        "en-US": "Automatic Modification Module (Attack Speed)",
+        "pt-BR": "Módulo de Modificação Automática (Velocidade de Ataque)",
+        "es-ES": "Módulo de Modificación Automática (Velocidad de Ataque)"
+    },
+    "1h9jDQ": {
+        "en-US": "Automatic Modification Module (Fatal)",
+        "pt-BR": "Módulo de Modificação Automática (Fatal)",
+        "es-ES": "Módulo de Modificación Automática (Fatal)"
+    },
+    "1x9jDQ": {
+        "en-US": "Automatic Modification Module (Expert Archer)",
+        "pt-BR": "Módulo de Modificação Automática (Arqueiro Perito)",
+        "es-ES": "Módulo de Modificación Automática (Arquero Experto)"
+    },
+    "2B9jDQ": {
+        "en-US": "Automatic Modification Module (Health)",
+        "pt-BR": "Módulo de Modificação Automática (Vitalidade)",
+        "es-ES": "Módulo de Modificación Automática (Salud)"
+    },
+    "2R9jDQ": {
+        "en-US": "Automatic Modification Module (SPR)",
+        "pt-BR": "Módulo de Modificação Automática (SPR)",
+        "es-ES": "Módulo de Modificación Automática (SPR)"
+    },
+    "2h9jDQ": {
+        "en-US": "Automatic Modification Module (Heal)",
+        "pt-BR": "Módulo de Modificação Automática (Cura)",
+        "es-ES": "Módulo de Modificación Automática (Cura)"
+    },
+    "2x9jDQ": {
+        "en-US": "Automatic Modification Module (ATK)",
+        "pt-BR": "Módulo de Modificação Automática (ATK)",
+        "es-ES": "Módulo de Modificación Automática (ATK)"
+    },
+    "3B9jDQ": {
+        "en-US": "Automatic Modification Module (MATK)",
+        "pt-BR": "Módulo de Modificação Automática (MATK)",
+        "es-ES": "Módulo de Modificación Automática (MATK)"
+    },
+    "3R9jDQ": {
+        "en-US": "Automatic Modification Module (Sharpshooter)",
+        "pt-BR": "Módulo de Modificação Automática (Atirador de Elite)",
+        "es-ES": "Módulo de Modificación Automática (Tirador Certero)"
+    },
+    "3h9jDQ": {
+        "en-US": "Automatic Modification Module (Fast)",
+        "pt-BR": "Módulo de Modificação Automática (Rápido)",
+        "es-ES": "Módulo de Modificación Automática (Rápido)"
+    },
+    "3x9jDQ": {
+        "en-US": "Automatic Modification Module (Caster)",
+        "pt-BR": "Módulo de Modificação Automática (Conjurador)",
+        "es-ES": "Módulo de Modificación Automática (Lanzador)"
+    },
+    "4B9jDQ": {
+        "en-US": "Automatic Modification Module (Critical)",
+        "pt-BR": "Módulo de Modificação Automática (Crítico)",
+        "es-ES": "Módulo de Modificación Automática (Crítico)"
+    },
+    "4R9jDQ": {
+        "en-US": "Automatic Modification Module (Magical Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza Mágica)"
+    },
+    "4h9jDQ": {
+        "en-US": "Automatic Modification Module (Attacker Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força do Atacante)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza del Atacante)"
+    },
+    "4x9jDQ": {
+        "en-US": "Automatic Modification Module (Range Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força de Longo Alcance)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Rango)"
+    },
+    "5B9jDQ": {
+        "en-US": "Automatic Modification Module (Critical Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Crítica)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza Crítica)"
+    },
+    "5R9jDQ": {
+        "en-US": "Automatic Modification Module (Recovery Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força de Recuperação)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Recuperación)"
+    },
+    "5h9jDQ": {
+        "en-US": "Automatic Modification Module (Mirror Counter)",
+        "pt-BR": "Módulo de Modificação Automática (Contra-Espelho)",
+        "es-ES": "Módulo de Modificación Automática (Contraataque Espejo)"
+    },
+    "5x9jDQ": {
+        "en-US": "Automatic Modification Module (Global Cooldown)",
+        "pt-BR": "Módulo de Modificação Automática (Tempo de Recarga Global)",
+        "es-ES": "Módulo de Modificación Automática (Enfriamiento Global)"
+    },
+    "6B9jDQ": {
+        "en-US": "Automatic Modification Module (Fixed Casting)",
+        "pt-BR": "Módulo de Modificação Automática (Conjuração Fixa)",
+        "es-ES": "Módulo de Modificación Automática (Conjuración Fija)"
+    },
+    "6R9jDQ": {
+        "en-US": "Automatic Modification Module (Above All)",
+        "pt-BR": "Módulo de Modificação Automática (Acima de Tudo)",
+        "es-ES": "Módulo de Modificación Automática (Por Encima de Todo)"
+    },
+    "6h9jDQ": {
+        "en-US": "Automatic Modification Module (Drain Life)",
+        "pt-BR": "Módulo de Modificação Automática (Drenar Vida)",
+        "es-ES": "Módulo de Modificación Automática (Drenar Vida)"
+    },
+    "6x9jDQ": {
+        "en-US": "Automatic Modification Module (Drain Soul)",
+        "pt-BR": "Módulo de Modificação Automática (Drenar Alma)",
+        "es-ES": "Módulo de Modificación Automática (Drenar Alma)"
+    },
+    "7B9jDQ": {
+        "en-US": "Automatic Modification Module (Magic Healing)",
+        "pt-BR": "Módulo de Modificação Automática (Cura Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Curación Mágica)"
+    },
+    "7R9jDQ": {
+        "en-US": "Automatic Modification Module (Magic Soul)",
+        "pt-BR": "Módulo de Modificação Automática (Alma Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Alma Mágica)"
+    },
+    "7h9jDQ": {
+        "en-US": "Automatic Modification Module (Power Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força do Poder)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Poder)"
+    },
+    "7x9jDQ": {
+        "en-US": "Automatic Modification Module (Robust)",
+        "pt-BR": "Módulo de Modificação Automática (Robusto)",
+        "es-ES": "Módulo de Modificación Automática (Robusto)"
+    },
+    "8B9jDQ": {
+        "en-US": "Automatic Modification Module (Powerful)",
+        "pt-BR": "Módulo de Modificação Automática (Poderoso)",
+        "es-ES": "Módulo de Modificación Automática (Poderoso)"
+    },
+    "8R9jDQ": {
+        "en-US": "Automatic Modification Module (All Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Total)",
+        "es-ES": "Módulo de Modificación Automática (Toda la Fuerza)"
+    },
+    "8h9jDQ": {
+        "en-US": "Automatic Modification Module (Reflection Reject)",
+        "pt-BR": "Módulo de Modificação Automática (Rejeição de Reflexo)",
+        "es-ES": "Módulo de Modificación Automática (Rechazo de Reflejo)"
+    },
+    "8x9jDQ": {
+        "en-US": "Automatic Module (Dragonic Breath)",
+        "pt-BR": "Módulo Automático (Sopro Dragônico)",
+        "es-ES": "Módulo Automático (Aliento Dragónico)"
+    },
+    "9B9jDQ": {
+        "en-US": "Magical Soapstone",
+        "pt-BR": "Pedra de Sabão Mágica",
+        "es-ES": "Piedra de Jabón Mágica"
+    },
+    "9R9jDQ": {
+        "en-US": "Automatic Module (Wave Break)",
+        "pt-BR": "Módulo Automático (Quebra de Ondas)",
+        "es-ES": "Módulo Automático (Rompeolas)"
+    },
+    "9h9jDQ": {
+        "en-US": "Automatic Module (Hundred Spiral)",
+        "pt-BR": "Módulo Automático (Espiral Centena)",
+        "es-ES": "Módulo Automático (Cien Espirales)"
+    },
+    "9x9jDQ": {
+        "en-US": "Automatic Module (Drive Press)",
+        "pt-BR": "Módulo Automático (Pressão de Investida)",
+        "es-ES": "Módulo Automático (Presión de Impulso)"
+    },
+    "+B9jDQ": {
+        "en-US": "Automatic Module (Banishing Cannon)",
+        "pt-BR": "Módulo Automático (Canhão do Banimento)",
+        "es-ES": "Módulo Automático (Cañón de Destierro)"
+    },
+    "+R9jDQ": {
+        "en-US": "Automatic Module (Genesis Pressure)",
+        "pt-BR": "Módulo Automático (Pressão da Gênese)",
+        "es-ES": "Módulo Automático (Presión Génesis)"
+    },
+    "+h9jDQ": {
+        "en-US": "Automatic Module (Boost Cannon)",
+        "pt-BR": "Módulo Automático (Canhão de Impulso)",
+        "es-ES": "Módulo Automático (Cañón de Impulso)"
+    },
+    "+x9jDQ": {
+        "en-US": "Automatic Module (Cold Flare)",
+        "pt-BR": "Módulo Automático (Labareda Fria)",
+        "es-ES": "Módulo Automático (Llamarada Fría)"
+    },
+    "/B9jDQ": {
+        "en-US": "Automatic Module (Tornado Swing)",
+        "pt-BR": "Módulo Automático (Balanço do Tornado)",
+        "es-ES": "Módulo Automático (Tornado Swing)"
+    },
+    "/R9jDQ": {
+        "en-US": "Automatic Module (Cannon Tornado)",
+        "pt-BR": "Módulo Automático (Tornado de Canhão)",
+        "es-ES": "Módulo Automático (Tornado de Cañón)"
+    },
+    "/h9jDQ": {
+        "en-US": "Automatic Module (Crazy Mandragora)",
+        "pt-BR": "Módulo Automático (Mandrágora Louca)",
+        "es-ES": "Módulo Automático (Mandrágora Loca)"
+    },
+    "/x9jDQ": {
+        "en-US": "Automatic Module (Acid Explosion)",
+        "pt-BR": "Módulo Automático (Explosão Ácida)",
+        "es-ES": "Módulo Automático (Explosión Ácida)"
+    },
+    "ACBjDQ": {
+        "en-US": "Automatic Module (Sonic Impact)",
+        "pt-BR": "Módulo Automático (Impacto Sônico)",
+        "es-ES": "Módulo Automático (Impacto Sónico)"
+    },
+    "ASBjDQ": {
+        "en-US": "Automatic Module (Cutter Slasher)",
+        "pt-BR": "Módulo Automático (Cortador)",
+        "es-ES": "Módulo Automático (Cuchillada Cortante)"
+    },
+    "AiBjDQ": {
+        "en-US": "Automatic Module (Berserk Slash)",
+        "pt-BR": "Módulo Automático (Corte Furioso)",
+        "es-ES": "Módulo Automático (Corte Berserker)"
+    },
+    "AyBjDQ": {
+        "en-US": "Automatic Module (Fatal Raid)",
+        "pt-BR": "Módulo Automático (Incursão Fatal)",
+        "es-ES": "Módulo Automático (Incursión Fatal)"
+    },
+    "BCBjDQ": {
+        "en-US": "Automatic Module (Shadow Spell)",
+        "pt-BR": "Módulo Automático (Feitiço das Sombras)",
+        "es-ES": "Módulo Automático (Hechizo Sombrío)"
+    },
+    "BSBjDQ": {
+        "en-US": "Automatic Module (Angle Shot)",
+        "pt-BR": "Módulo Automático (Tiro Angular)",
+        "es-ES": "Módulo Automático (Disparo Angular)"
+    },
+    "BiBjDQ": {
+        "en-US": "Automatic Module (Crimson Strain)",
+        "pt-BR": "Módulo Automático (Tensão Carmesim)",
+        "es-ES": "Módulo Automático (Tensión Carmesí)"
+    },
+    "ByBjDQ": {
+        "en-US": "Automatic Module (Jack Lightning)",
+        "pt-BR": "Módulo Automático (Relâmpago do Jack)",
+        "es-ES": "Módulo Automático (Jack Lightning)"
+    },
+    "CCBjDQ": {
+        "en-US": "Automatic Module (Comet Vortex)",
+        "pt-BR": "Módulo Automático (Vórtice do Cometa)",
+        "es-ES": "Módulo Automático (Vórtice Cometa)"
+    },
+    "CSBjDQ": {
+        "en-US": "Automatic Module (Double Bolt)",
+        "pt-BR": "Módulo Automático (Raio Duplo)",
+        "es-ES": "Módulo Automático (Doble Rayo)"
+    },
+    "CiBjDQ": {
+        "en-US": "Automatic Module (Warm Wave)",
+        "pt-BR": "Módulo Automático (Onda Cálida)",
+        "es-ES": "Módulo Automático (Ola Cálida)"
+    },
+    "CyBjDQ": {
+        "en-US": "Automatic Module (Diamond Grave)",
+        "pt-BR": "Módulo Automático (Tumba de Diamante)",
+        "es-ES": "Módulo Automático (Tumba de Diamante)"
+    },
+    "DCBjDQ": {
+        "en-US": "Automatic Module (Magnusmus)",
+        "pt-BR": "Módulo Automático (Magnusmus)",
+        "es-ES": "Módulo Automático (Magnusmus)"
+    },
+    "DSBjDQ": {
+        "en-US": "Automatic Module (Holy Judex)",
+        "pt-BR": "Módulo Automático (Julgamento Sagrado)",
+        "es-ES": "Módulo Automático (Judex Sagrado)"
+    },
+    "DiBjDQ": {
+        "en-US": "Automatic Module (Duple Lica)",
+        "pt-BR": "Módulo Automático (Dúplice Lica)",
+        "es-ES": "Módulo Automático (Duple Lica)"
+    },
+    "DyBjDQ": {
+        "en-US": "Automatic Module (Tiger Empire)",
+        "pt-BR": "Módulo Automático (Império do Tigre)",
+        "es-ES": "Módulo Automático (Imperio del Tigre)"
+    },
+    "ECBjDQ": {
+        "en-US": "Automatic Module (Rampage Arrow)",
+        "pt-BR": "Módulo Automático (Flecha da Destruição)",
+        "es-ES": "Módulo Automático (Flecha Alborotada)"
+    },
+    "ESBjDQ": {
+        "en-US": "Automatic Module (Raging Combo)",
+        "pt-BR": "Módulo Automático (Combo Furioso)",
+        "es-ES": "Módulo Automático (Combo Furioso)"
+    },
+    "EiBjDQ": {
+        "en-US": "Automatic Module (Cluster)",
+        "pt-BR": "Módulo Automático (Agrupamento)",
+        "es-ES": "Módulo Automático (Racimo)"
+    },
+    "EyBjDQ": {
+        "en-US": "Automatic Module (Breeze Shooting)",
+        "pt-BR": "Módulo Automático (Tiro com Brisa)",
+        "es-ES": "Módulo Automático (Disparo de Brisa)"
+    },
+    "FCBjDQ": {
+        "en-US": "Automatic Module (Aimed Storm)",
+        "pt-BR": "Módulo Automático (Tempestade Mira)",
+        "es-ES": "Módulo Automático (Tormenta Apuntada)"
+    },
+    "FSBjDQ": {
+        "en-US": "Automatic Module (Metal Echo)",
+        "pt-BR": "Módulo Automático (Eco Metálico)",
+        "es-ES": "Módulo Automático (Eco Metálico)"
+    },
+    "FiBjDQ": {
+        "en-US": "Automatic Module (Reverberation)",
+        "pt-BR": "Módulo Automático (Reverberação)",
+        "es-ES": "Módulo Automático (Reverberación)"
+    },
+    "FyBjDQ": {
+        "en-US": "Automatic Module (Vulcan Severe)",
+        "pt-BR": "Módulo Automático (Vulcão Severo)",
+        "es-ES": "Módulo Automático (Vulcano Severo)"
+    },
+    "GCBjDQ": {
+        "en-US": "Automatic Module (Prominence Burst)",
+        "pt-BR": "Módulo Automático (Explosão de Proeminência)",
+        "es-ES": "Módulo Automático (Estallido de Prominencia)"
+    },
+    "GSBjDQ": {
+        "en-US": "Automatic Module (Moon Kick)",
+        "pt-BR": "Módulo Automático (Chute Lunar)",
+        "es-ES": "Módulo Automático (Patada Lunar)"
+    },
+    "GiBjDQ": {
+        "en-US": "Automatic Module (Flash Falling)",
+        "pt-BR": "Módulo Automático (Queda Relâmpago)",
+        "es-ES": "Módulo Automático (Caída Relámpago)"
+    },
+    "GyBjDQ": {
+        "en-US": "Automatic Module (Eswhoo)",
+        "pt-BR": "Módulo Automático (Eswhoo)",
+        "es-ES": "Módulo Automático (Eswhoo)"
+    },
+    "HCBjDQ": {
+        "en-US": "Automatic Module (Espa)",
+        "pt-BR": "Módulo Automático (Espa)",
+        "es-ES": "Módulo Automático (Espa)"
+    },
+    "HSBjDQ": {
+        "en-US": "Automatic Module (Curse Explosion)",
+        "pt-BR": "Módulo Automático (Explosão Amaldiçoada)",
+        "es-ES": "Módulo Automático (Explosión de Maldición)"
+    },
+    "HiBjDQ": {
+        "en-US": "Automatic Module (Des Hammer Dance)",
+        "pt-BR": "Módulo Automático (Dança do Martelo Des)",
+        "es-ES": "Módulo Automático (Danza del Martillo Des)"
+    },
+    "HyBjDQ": {
+        "en-US": "Automatic Module (Fire Howling Tail)",
+        "pt-BR": "Módulo Automático (Cauda Uivante de Fogo)",
+        "es-ES": "Módulo Automático (Cola Aullante de Fuego)"
+    },
+    "ICBjDQ": {
+        "en-US": "Automatic Module (Storm Buster Trip)",
+        "pt-BR": "Módulo Automático (Viagem do Destruidor de Tempestades)",
+        "es-ES": "Módulo Automático (Viaje Rompetormentas)"
+    },
+    "ISBjDQ": {
+        "en-US": "Automatic Module (Flame Ice Wind)",
+        "pt-BR": "Módulo Automático (Vento de Gelo em Chamas)",
+        "es-ES": "Módulo Automático (Viento de Hielo Llameante)"
+    },
+    "IiBjDQ": {
+        "en-US": "Automatic Module (Cross Slash)",
+        "pt-BR": "Módulo Automático (Corte Cruzado)",
+        "es-ES": "Módulo Automático (Corte Cruzado)"
+    },
+    "IyBjDQ": {
+        "en-US": "Automatic Module (Exploding Flake Wind)",
+        "pt-BR": "Módulo Automático (Vento de Flocos Explosivos)",
+        "es-ES": "Módulo Automático (Viento Explosivo de Copos)"
+    },
+    "JCBjDQ": {
+        "en-US": "Automatic Module (Power of Sea)",
+        "pt-BR": "Módulo Automático (Poder do Mar)",
+        "es-ES": "Módulo Automático (Poder del Mar)"
+    },
+    "JSBjDQ": {
+        "en-US": "Automatic Module (Power of Land)",
+        "pt-BR": "Módulo Automático (Poder da Terra)",
+        "es-ES": "Módulo Automático (Poder de la Tierra)"
+    },
+    "JiBjDQ": {
+        "en-US": "Automatic Module (Power of Life)",
+        "pt-BR": "Módulo Automático (Poder da Vida)",
+        "es-ES": "Módulo Automático (Poder de la Vida)"
+    },
+    "JyBjDQ": {
+        "en-US": "Varmeal Ticket",
+        "pt-BR": "Vale Varmida",
+        "es-ES": "Vale Varmida"
+    },
+    "KCBjDQ": {
+        "en-US": "Fragment of Sin",
+        "pt-BR": "Fragmento do Pecado",
+        "es-ES": "Fragmento de Pecado"
+    },
+    "KSBjDQ": {
+        "en-US": "Fragment of Fate",
+        "pt-BR": "Fragmento do Destino",
+        "es-ES": "Fragmento del Destino"
+    },
+    "KiBjDQ": {
+        "en-US": "Green Radiation (Battle Pass)",
+        "pt-BR": "Radiação Verde (Passe de Batalha)",
+        "es-ES": "Radiación Verde (Pase de Batalla)"
+    },
+    "KyBjDQ": {
+        "en-US": "Red Radiation (Battle Pass)",
+        "pt-BR": "Radiação Vermelha (Passe de Batalha)",
+        "es-ES": "Radiación Roja (Pase de Batalla)"
+    },
+    "LCBjDQ": {
+        "en-US": "Blue Radiation (Battle Pass)",
+        "pt-BR": "Radiação Azul (Passe de Batalha)",
+        "es-ES": "Radiación Azul (Pase de Batalla)"
+    },
+    "LSBjDQ": {
+        "en-US": "GC Wig Box",
+        "pt-BR": "Caixa de Peruca GC",
+        "es-ES": "Caja de Peluca GC"
+    },
+    "LiBjDQ": {
+        "en-US": "Mask of sin fate",
+        "pt-BR": "Máscara do Destino do Pecado",
+        "es-ES": "Máscara del Destino del Pecado"
+    },
+    "LyBjDQ": {
+        "en-US": "Automatic Modification Module (Defense)",
+        "pt-BR": "Módulo de Modificação Automática (Defesa)",
+        "es-ES": "Módulo de Modificación Automática (Defensa)"
+    },
+    "MCBjDQ": {
+        "en-US": "Varmeal Ticket",
+        "pt-BR": "Vale Varmida",
+        "es-ES": "Vale Varmida"
+    },
+    "MSBjDQ": {
+        "en-US": "Automatic Modification Module (Magic Defense)",
+        "pt-BR": "Módulo de Modificação Automática (Defesa Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Defensa Mágica)"
+    },
+    "MiBjDQ": {
+        "en-US": "Automatic Modification Module (Vit)",
+        "pt-BR": "Módulo de Modificação Automática (Vit)",
+        "es-ES": "Módulo de Modificación Automática (Vit)"
+    },
+    "MyBjDQ": {
+        "en-US": "Automatic Modification Module (Luk)",
+        "pt-BR": "Módulo de Modificação Automática (Sorte)",
+        "es-ES": "Módulo de Modificación Automática (Sue)"
+    },
+    "NCBjDQ": {
+        "en-US": "Automatic Modification Module (Str)",
+        "pt-BR": "Módulo de Modificação Automática (Força)",
+        "es-ES": "Módulo de Modificación Automática (Fue)"
+    },
+    "NSBjDQ": {
+        "en-US": "Automatic Modification Module (Agi)",
+        "pt-BR": "Módulo de Modificação Automática (Agilidade)",
+        "es-ES": "Módulo de Modificación Automática (Agi)"
+    },
+    "NiBjDQ": {
+        "en-US": "Automatic Modification Module (Int)",
+        "pt-BR": "Módulo de Modificação Automática (Inteligência)",
+        "es-ES": "Módulo de Modificación Automática (Int)"
+    },
+    "NyBjDQ": {
+        "en-US": "Automatic Modification Module (Dex)",
+        "pt-BR": "Módulo de Modificação Automática (Destreza)",
+        "es-ES": "Módulo de Modificación Automática (Des)"
+    },
+    "OCBjDQ": {
+        "en-US": "Automatic Modification Module (HP Recovery)",
+        "pt-BR": "Módulo de Modificação Automática (Recuperação de HP)",
+        "es-ES": "Módulo de Modificación Automática (Recuperación de HP)"
+    },
+    "OSBjDQ": {
+        "en-US": "Automatic Modification Module (SP Recovery)",
+        "pt-BR": "Módulo de Modificação Automática (Recuperação de SP)",
+        "es-ES": "Módulo de Modificación Automática (Recuperación de SP)"
+    },
+    "OiBjDQ": {
+        "en-US": "Automatic Modification Module (Spell)",
+        "pt-BR": "Módulo de Modificação Automática (Magia)",
+        "es-ES": "Módulo de Modificación Automática (Hechizo)"
+    },
+    "OyBjDQ": {
+        "en-US": "Automatic Modification Module (Attack Speed)",
+        "pt-BR": "Módulo de Modificação Automática (Velocidade de Ataque)",
+        "es-ES": "Módulo de Modificación Automática (Velocidad de Ataque)"
+    },
+    "PCBjDQ": {
+        "en-US": "Automatic Modification Module (Fatal)",
+        "pt-BR": "Módulo de Modificação Automática (Fatal)",
+        "es-ES": "Módulo de Modificación Automática (Fatal)"
+    },
+    "PSBjDQ": {
+        "en-US": "Automatic Modification Module (Expert Archer)",
+        "pt-BR": "Módulo de Modificação Automática (Arqueiro Perito)",
+        "es-ES": "Módulo de Modificación Automática (Arquero Experto)"
+    },
+    "PiBjDQ": {
+        "en-US": "Automatic Modification Module (Health)",
+        "pt-BR": "Módulo de Modificação Automática (Vitalidade)",
+        "es-ES": "Módulo de Modificación Automática (Salud)"
+    },
+    "PyBjDQ": {
+        "en-US": "Automatic Modification Module (SPR)",
+        "pt-BR": "Módulo de Modificação Automática (SPR)",
+        "es-ES": "Módulo de Modificación Automática (SPR)"
+    },
+    "QCBjDQ": {
+        "en-US": "Automatic Modification Module (Heal)",
+        "pt-BR": "Módulo de Modificação Automática (Cura)",
+        "es-ES": "Módulo de Modificación Automática (Cura)"
+    },
+    "QSBjDQ": {
+        "en-US": "Automatic Modification Module (ATK)",
+        "pt-BR": "Módulo de Modificação Automática (ATK)",
+        "es-ES": "Módulo de Modificación Automática (ATK)"
+    },
+    "QiBjDQ": {
+        "en-US": "Automatic Modification Module (MATK)",
+        "pt-BR": "Módulo de Modificação Automática (MATK)",
+        "es-ES": "Módulo de Modificación Automática (MATK)"
+    },
+    "QyBjDQ": {
+        "en-US": "Automatic Modification Module (Sharpshooter)",
+        "pt-BR": "Módulo de Modificação Automática (Atirador de Elite)",
+        "es-ES": "Módulo de Modificación Automática (Tirador Certero)"
+    },
+    "RCBjDQ": {
+        "en-US": "Automatic Modification Module (Fast)",
+        "pt-BR": "Módulo de Modificação Automática (Rápido)",
+        "es-ES": "Módulo de Modificación Automática (Rápido)"
+    },
+    "RSBjDQ": {
+        "en-US": "Automatic Modification Module (Caster)",
+        "pt-BR": "Módulo de Modificação Automática (Conjurador)",
+        "es-ES": "Módulo de Modificación Automática (Lanzador)"
+    },
+    "RiBjDQ": {
+        "en-US": "Automatic Modification Module (Critical)",
+        "pt-BR": "Módulo de Modificação Automática (Crítico)",
+        "es-ES": "Módulo de Modificación Automática (Crítico)"
+    },
+    "RyBjDQ": {
+        "en-US": "Automatic Modification Module (Magical Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza Mágica)"
+    },
+    "SCBjDQ": {
+        "en-US": "Automatic Modification Module (Attacker Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força do Atacante)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza del Atacante)"
+    },
+    "SSBjDQ": {
+        "en-US": "Automatic Modification Module (Range Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força de Longo Alcance)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Rango)"
+    },
+    "SiBjDQ": {
+        "en-US": "Automatic Modification Module (Critical Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Crítica)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza Crítica)"
+    },
+    "SyBjDQ": {
+        "en-US": "Automatic Modification Module (Recovery Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força de Recuperação)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Recuperación)"
+    },
+    "TCBjDQ": {
+        "en-US": "Automatic Modification Module (Mirror Counter)",
+        "pt-BR": "Módulo de Modificação Automática (Contra-Espelho)",
+        "es-ES": "Módulo de Modificación Automática (Contraataque Espejo)"
+    },
+    "TSBjDQ": {
+        "en-US": "Automatic Modification Module (Global Cooldown)",
+        "pt-BR": "Módulo de Modificação Automática (Tempo de Recarga Global)",
+        "es-ES": "Módulo de Modificación Automática (Enfriamiento Global)"
+    },
+    "TiBjDQ": {
+        "en-US": "Automatic Modification Module (Fixed Casting)",
+        "pt-BR": "Módulo de Modificação Automática (Conjuração Fixa)",
+        "es-ES": "Módulo de Modificación Automática (Conjuración Fija)"
+    },
+    "TyBjDQ": {
+        "en-US": "Automatic Modification Module (Above All)",
+        "pt-BR": "Módulo de Modificação Automática (Acima de Tudo)",
+        "es-ES": "Módulo de Modificación Automática (Por Encima de Todo)"
+    },
+    "UCBjDQ": {
+        "en-US": "Automatic Modification Module (Drain Life)",
+        "pt-BR": "Módulo de Modificação Automática (Drenar Vida)",
+        "es-ES": "Módulo de Modificación Automática (Drenar Vida)"
+    },
+    "USBjDQ": {
+        "en-US": "Automatic Modification Module (Drain Soul)",
+        "pt-BR": "Módulo de Modificação Automática (Drenar Alma)",
+        "es-ES": "Módulo de Modificación Automática (Drenar Alma)"
+    },
+    "UiBjDQ": {
+        "en-US": "Automatic Modification Module (Magic Healing)",
+        "pt-BR": "Módulo de Modificação Automática (Cura Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Curación Mágica)"
+    },
+    "UyBjDQ": {
+        "en-US": "Automatic Modification Module (Magic Soul)",
+        "pt-BR": "Módulo de Modificação Automática (Alma Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Alma Mágica)"
+    },
+    "VCBjDQ": {
+        "en-US": "Automatic Modification Module (Power Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força do Poder)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Poder)"
+    },
+    "VSBjDQ": {
+        "en-US": "Automatic Modification Module (Robust)",
+        "pt-BR": "Módulo de Modificação Automática (Robusto)",
+        "es-ES": "Módulo de Modificación Automática (Robusto)"
+    },
+    "ViBjDQ": {
+        "en-US": "Automatic Modification Module (Powerful)",
+        "pt-BR": "Módulo de Modificação Automática (Poderoso)",
+        "es-ES": "Módulo de Modificación Automática (Poderoso)"
+    },
+    "VyBjDQ": {
+        "en-US": "Automatic Modification Module (All Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Total)",
+        "es-ES": "Módulo de Modificación Automática (Toda la Fuerza)"
+    },
+    "WCBjDQ": {
+        "en-US": "Automatic Modification Module (Reflection Reject)",
+        "pt-BR": "Módulo de Modificação Automática (Rejeição de Reflexo)",
+        "es-ES": "Módulo de Modificación Automática (Rechazo de Reflejo)"
+    },
+    "WSBjDQ": {
+        "en-US": "Automatic Module (Dragonic Breath)",
+        "pt-BR": "Módulo Automático (Sopro Dragônico)",
+        "es-ES": "Módulo Automático (Aliento Dragónico)"
+    },
+    "WiBjDQ": {
+        "en-US": "Magical Soapstone",
+        "pt-BR": "Pedra-Sabão Mágica",
+        "es-ES": "Piedra Jabón Mágica"
+    },
+    "WyBjDQ": {
+        "en-US": "Automatic Module (Wave Break)",
+        "pt-BR": "Módulo Automático (Quebra de Ondas)",
+        "es-ES": "Módulo Automático (Rompeolas)"
+    },
+    "XCBjDQ": {
+        "en-US": "Automatic Module (Hundred Spiral)",
+        "pt-BR": "Módulo Automático (Espiral Centena)",
+        "es-ES": "Módulo Automático (Cien Espirales)"
+    },
+    "XSBjDQ": {
+        "en-US": "Automatic Module (Drive Press)",
+        "pt-BR": "Módulo Automático (Pressão de Investida)",
+        "es-ES": "Módulo Automático (Presión de Impulso)"
+    },
+    "XiBjDQ": {
+        "en-US": "Automatic Module (Banishing Cannon)",
+        "pt-BR": "Módulo Automático (Canhão do Banimento)",
+        "es-ES": "Módulo Automático (Cañón de Destierro)"
+    },
+    "XyBjDQ": {
+        "en-US": "Automatic Module (Genesis Pressure)",
+        "pt-BR": "Módulo Automático (Pressão da Gênese)",
+        "es-ES": "Módulo Automático (Presión Génesis)"
+    },
+    "YCBjDQ": {
+        "en-US": "Automatic Module (Boost Cannon)",
+        "pt-BR": "Módulo Automático (Canhão de Impulso)",
+        "es-ES": "Módulo Automático (Cañón de Impulso)"
+    },
+    "YSBjDQ": {
+        "en-US": "Automatic Module (Cold Flare)",
+        "pt-BR": "Módulo Automático (Labareda Fria)",
+        "es-ES": "Módulo Automático (Llamarada Fría)"
+    },
+    "YiBjDQ": {
+        "en-US": "Automatic Module (Tornado Swing)",
+        "pt-BR": "Módulo Automático (Balanço do Tornado)",
+        "es-ES": "Módulo Automático (Tornado Swing)"
+    },
+    "YyBjDQ": {
+        "en-US": "Automatic Module (Cannon Tornado)",
+        "pt-BR": "Módulo Automático (Tornado de Canhão)",
+        "es-ES": "Módulo Automático (Tornado de Cañón)"
+    },
+    "ZCBjDQ": {
+        "en-US": "Automatic Module (Crazy Mandragora)",
+        "pt-BR": "Módulo Automático (Mandrágora Louca)",
+        "es-ES": "Módulo Automático (Mandrágora Loca)"
+    },
+    "ZSBjDQ": {
+        "en-US": "Automatic Module (Acid Explosion)",
+        "pt-BR": "Módulo Automático (Explosão Ácida)",
+        "es-ES": "Módulo Automático (Explosión Ácida)"
+    },
+    "ZiBjDQ": {
+        "en-US": "Automatic Module (Sonic Impact)",
+        "pt-BR": "Módulo Automático (Impacto Sônico)",
+        "es-ES": "Módulo Automático (Impacto Sónico)"
+    },
+    "ZyBjDQ": {
+        "en-US": "Automatic Module (Cutter Slasher)",
+        "pt-BR": "Módulo Automático (Cortador)",
+        "es-ES": "Módulo Automático (Cuchillada Cortante)"
+    },
+    "aCBjDQ": {
+        "en-US": "Automatic Module (Berserk Slash)",
+        "pt-BR": "Módulo Automático (Corte Furioso)",
+        "es-ES": "Módulo Automático (Corte Berserker)"
+    },
+    "aSBjDQ": {
+        "en-US": "Automatic Module (Fatal Raid)",
+        "pt-BR": "Módulo Automático (Incursão Fatal)",
+        "es-ES": "Módulo Automático (Incursión Fatal)"
+    },
+    "aiBjDQ": {
+        "en-US": "Automatic Module (Shadow Spell)",
+        "pt-BR": "Módulo Automático (Feitiço das Sombras)",
+        "es-ES": "Módulo Automático (Hechizo Sombrío)"
+    },
+    "ayBjDQ": {
+        "en-US": "Automatic Module (Angle Shot)",
+        "pt-BR": "Módulo Automático (Tiro Angular)",
+        "es-ES": "Módulo Automático (Disparo Angular)"
+    },
+    "bCBjDQ": {
+        "en-US": "Automatic Module (Crimson Strain)",
+        "pt-BR": "Módulo Automático (Tensão Carmesim)",
+        "es-ES": "Módulo Automático (Tensión Carmesí)"
+    },
+    "bSBjDQ": {
+        "en-US": "Automatic Module (Jack Lightning)",
+        "pt-BR": "Módulo Automático (Relâmpago do Jack)",
+        "es-ES": "Módulo Automático (Jack Lightning)"
+    },
+    "biBjDQ": {
+        "en-US": "Automatic Module (Comet Vortex)",
+        "pt-BR": "Módulo Automático (Vórtice do Cometa)",
+        "es-ES": "Módulo Automático (Vórtice Cometa)"
+    },
+    "byBjDQ": {
+        "en-US": "Automatic Module (Double Bolt)",
+        "pt-BR": "Módulo Automático (Raio Duplo)",
+        "es-ES": "Módulo Automático (Doble Rayo)"
+    },
+    "cCBjDQ": {
+        "en-US": "Automatic Module (Warm Wave)",
+        "pt-BR": "Módulo Automático (Onda Cálida)",
+        "es-ES": "Módulo Automático (Ola Cálida)"
+    },
+    "cSBjDQ": {
+        "en-US": "Automatic Module (Diamond Grave)",
+        "pt-BR": "Módulo Automático (Tumba de Diamante)",
+        "es-ES": "Módulo Automático (Tumba de Diamante)"
+    },
+    "ciBjDQ": {
+        "en-US": "Automatic Module (Magnusmus)",
+        "pt-BR": "Módulo Automático (Magnusmus)",
+        "es-ES": "Módulo Automático (Magnusmus)"
+    },
+    "cyBjDQ": {
+        "en-US": "Automatic Module (Holy Judex)",
+        "pt-BR": "Módulo Automático (Julgamento Sagrado)",
+        "es-ES": "Módulo Automático (Judex Sagrado)"
+    },
+    "dCBjDQ": {
+        "en-US": "Automatic Module (Duple Lica)",
+        "pt-BR": "Módulo Automático (Dúplice Lica)",
+        "es-ES": "Módulo Automático (Duple Lica)"
+    },
+    "dSBjDQ": {
+        "en-US": "Automatic Module (Tiger Empire)",
+        "pt-BR": "Módulo Automático (Império do Tigre)",
+        "es-ES": "Módulo Automático (Imperio del Tigre)"
+    },
+    "diBjDQ": {
+        "en-US": "Automatic Module (Rampage Arrow)",
+        "pt-BR": "Módulo Automático (Flecha da Destruição)",
+        "es-ES": "Módulo Automático (Flecha Alborotada)"
+    },
+    "dyBjDQ": {
+        "en-US": "Automatic Module (Raging Combo)",
+        "pt-BR": "Módulo Automático (Combo Furioso)",
+        "es-ES": "Módulo Automático (Combo Furioso)"
+    },
+    "eCBjDQ": {
+        "en-US": "Automatic Module (Cluster)",
+        "pt-BR": "Módulo Automático (Agrupamento)",
+        "es-ES": "Módulo Automático (Racimo)"
+    },
+    "eSBjDQ": {
+        "en-US": "Automatic Module (Breeze Shooting)",
+        "pt-BR": "Módulo Automático (Tiro com Brisa)",
+        "es-ES": "Módulo Automático (Disparo de Brisa)"
+    },
+    "eiBjDQ": {
+        "en-US": "Automatic Module (Aimed Storm)",
+        "pt-BR": "Módulo Automático (Tempestade Mira)",
+        "es-ES": "Módulo Automático (Tormenta Apuntada)"
+    },
+    "eyBjDQ": {
+        "en-US": "Automatic Module (Metal Echo)",
+        "pt-BR": "Módulo Automático (Eco Metálico)",
+        "es-ES": "Módulo Automático (Eco Metálico)"
+    },
+    "fCBjDQ": {
+        "en-US": "Automatic Module (Reverberation)",
+        "pt-BR": "Módulo Automático (Reverberação)",
+        "es-ES": "Módulo Automático (Reverberación)"
+    },
+    "fSBjDQ": {
+        "en-US": "Automatic Module (Vulcan Severe)",
+        "pt-BR": "Módulo Automático (Vulcão Severo)",
+        "es-ES": "Módulo Automático (Vulcano Severo)"
+    },
+    "fiBjDQ": {
+        "en-US": "Automatic Module (Prominence Burst)",
+        "pt-BR": "Módulo Automático (Explosão de Proeminência)",
+        "es-ES": "Módulo Automático (Estallido de Prominencia)"
+    },
+    "fyBjDQ": {
+        "en-US": "Automatic Module (Moon Kick)",
+        "pt-BR": "Módulo Automático (Chute Lunar)",
+        "es-ES": "Módulo Automático (Patada Lunar)"
+    },
+    "gCBjDQ": {
+        "en-US": "Automatic Module (Flash Falling)",
+        "pt-BR": "Módulo Automático (Queda Relâmpago)",
+        "es-ES": "Módulo Automático (Caída Relámpago)"
+    },
+    "gSBjDQ": {
+        "en-US": "Automatic Module (Eswhoo)",
+        "pt-BR": "Módulo Automático (Eswhoo)",
+        "es-ES": "Módulo Automático (Eswhoo)"
+    },
+    "giBjDQ": {
+        "en-US": "Automatic Module (Espa)",
+        "pt-BR": "Módulo Automático (Espa)",
+        "es-ES": "Módulo Automático (Espa)"
+    },
+    "gyBjDQ": {
+        "en-US": "Automatic Module (Curse Explosion)",
+        "pt-BR": "Módulo Automático (Explosão Amaldiçoada)",
+        "es-ES": "Módulo Automático (Explosión de Maldición)"
+    },
+    "hCBjDQ": {
+        "en-US": "Automatic Module (Des Hammer Dance)",
+        "pt-BR": "Módulo Automático (Dança do Martelo Des)",
+        "es-ES": "Módulo Automático (Danza del Martillo Des)"
+    },
+    "hSBjDQ": {
+        "en-US": "Automatic Module (Fire Howling Tail)",
+        "pt-BR": "Módulo Automático (Cauda Uivante de Fogo)",
+        "es-ES": "Módulo Automático (Cola Aullante de Fuego)"
+    },
+    "hiBjDQ": {
+        "en-US": "Automatic Module (Storm Buster Trip)",
+        "pt-BR": "Módulo Automático (Viagem do Destruidor de Tempestades)",
+        "es-ES": "Módulo Automático (Viaje Rompetormentas)"
+    },
+    "hyBjDQ": {
+        "en-US": "Automatic Module (Flame Ice Wind)",
+        "pt-BR": "Módulo Automático (Vento de Gelo em Chamas)",
+        "es-ES": "Módulo Automático (Viento de Hielo Llameante)"
+    },
+    "iCBjDQ": {
+        "en-US": "Automatic Module (Cross Slash)",
+        "pt-BR": "Módulo Automático (Corte Cruzado)",
+        "es-ES": "Módulo Automático (Corte Cruzado)"
+    },
+    "iSBjDQ": {
+        "en-US": "Automatic Module (Exploding Flake Wind)",
+        "pt-BR": "Módulo Automático (Vento de Flocos Explosivos)",
+        "es-ES": "Módulo Automático (Viento Explosivo de Copos)"
+    },
+    "iiBjDQ": {
+        "en-US": "Automatic Module (Power of Sea)",
+        "pt-BR": "Módulo Automático (Poder do Mar)",
+        "es-ES": "Módulo Automático (Poder del Mar)"
+    },
+    "iyBjDQ": {
+        "en-US": "Automatic Module (Power of Land)",
+        "pt-BR": "Módulo Automático (Poder da Terra)",
+        "es-ES": "Módulo Automático (Poder de la Tierra)"
+    },
+    "jCBjDQ": {
+        "en-US": "Automatic Module (Power of Life)",
+        "pt-BR": "Módulo Automático (Poder da Vida)",
+        "es-ES": "Módulo Automático (Poder de la Vida)"
+    },
+    "jSBjDQ": {
+        "en-US": "Varmeal Ticket",
+        "pt-BR": "Vale Varmida",
+        "es-ES": "Vale Varmida"
+    },
+    "jiBjDQ": {
+        "en-US": "Fragment of Sin",
+        "pt-BR": "Cristal do Pecado",
+        "es-ES": "Cristal del Pecado"
+    },
+    "jyBjDQ": {
+        "en-US": "Fragment of Fate",
+        "pt-BR": "Cristal da Virtude",
+        "es-ES": "Cristal de la Virtud"
+    },
+    "kCBjDQ": {
+        "en-US": "Green Radiation (Battle Pass)",
+        "pt-BR": "Radiação Verde (Passe de Batalha)",
+        "es-ES": "Radiación Verde (Pase de Batalla)"
+    },
+    "kSBjDQ": {
+        "en-US": "Red Radiation (Battle Pass)",
+        "pt-BR": "Radiação Vermelha (Passe de Batalha)",
+        "es-ES": "Radiación Roja (Pase de Batalla)"
+    },
+    "kiBjDQ": {
+        "en-US": "Blue Radiation (Battle Pass)",
+        "pt-BR": "Radiação Azul (Passe de Batalha)",
+        "es-ES": "Radiación Azul (Pase de Batalla)"
+    },
+    "kyBjDQ": {
+        "en-US": "GC Wig Box",
+        "pt-BR": "Caixa de Peruca GC",
+        "es-ES": "Caja de Peluca GC"
+    },
+    "lCBjDQ": {
+        "en-US": "Mask of sin fate",
+        "pt-BR": "Máscara do Destino do Pecado",
+        "es-ES": "Máscara del Destino del Pecado"
+    },
+    "lSBjDQ": {
+        "en-US": "Automatic Modification Module (Defense)",
+        "pt-BR": "Módulo de Modificação Automática (Defesa)",
+        "es-ES": "Módulo de Modificación Automática (Defensa)"
+    },
+    "liBjDQ": {
+        "en-US": "Varmeal Ticket",
+        "pt-BR": "Vale Varmida",
+        "es-ES": "Vale Varmida"
+    },
+    "lyBjDQ": {
+        "en-US": "Automatic Modification Module (Magic Defense)",
+        "pt-BR": "Módulo de Modificação Automática (Defesa Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Defensa Mágica)"
+    },
+    "mCBjDQ": {
+        "en-US": "Automatic Modification Module (Vit)",
+        "pt-BR": "Módulo de Modificação Automática (Vit)",
+        "es-ES": "Módulo de Modificación Automática (Vit)"
+    },
+    "mSBjDQ": {
+        "en-US": "Automatic Modification Module (Luk)",
+        "pt-BR": "Módulo de Modificação Automática (Sorte)",
+        "es-ES": "Módulo de Modificación Automática (Sue)"
+    },
+    "miBjDQ": {
+        "en-US": "Automatic Modification Module (Str)",
+        "pt-BR": "Módulo de Modificação Automática (Força)",
+        "es-ES": "Módulo de Modificación Automática (Fue)"
+    },
+    "myBjDQ": {
+        "en-US": "Automatic Modification Module (Agi)",
+        "pt-BR": "Módulo de Modificação Automática (Agilidade)",
+        "es-ES": "Módulo de Modificación Automática (Agi)"
+    },
+    "nCBjDQ": {
+        "en-US": "Automatic Modification Module (Int)",
+        "pt-BR": "Módulo de Modificação Automática (Inteligência)",
+        "es-ES": "Módulo de Modificación Automática (Int)"
+    },
+    "nSBjDQ": {
+        "en-US": "Automatic Modification Module (Dex)",
+        "pt-BR": "Módulo de Modificação Automática (Destreza)",
+        "es-ES": "Módulo de Modificación Automática (Des)"
+    },
+    "niBjDQ": {
+        "en-US": "Automatic Modification Module (HP Recovery)",
+        "pt-BR": "Módulo de Modificação Automática (Recuperação de HP)",
+        "es-ES": "Módulo de Modificación Automática (Recuperación de HP)"
+    },
+    "nyBjDQ": {
+        "en-US": "Automatic Modification Module (SP Recovery)",
+        "pt-BR": "Módulo de Modificação Automática (Recuperação de SP)",
+        "es-ES": "Módulo de Modificación Automática (Recuperación de SP)"
+    },
+    "oCBjDQ": {
+        "en-US": "Automatic Modification Module (Spell)",
+        "pt-BR": "Módulo de Modificação Automática (Magia)",
+        "es-ES": "Módulo de Modificación Automática (Hechizo)"
+    },
+    "oSBjDQ": {
+        "en-US": "Automatic Modification Module (Attack Speed)",
+        "pt-BR": "Módulo de Modificação Automática (Velocidade de Ataque)",
+        "es-ES": "Módulo de Modificación Automática (Velocidad de Ataque)"
+    },
+    "oiBjDQ": {
+        "en-US": "Automatic Modification Module (Fatal)",
+        "pt-BR": "Módulo de Modificação Automática (Fatal)",
+        "es-ES": "Módulo de Modificación Automática (Fatal)"
+    },
+    "oyBjDQ": {
+        "en-US": "Automatic Modification Module (Expert Archer)",
+        "pt-BR": "Módulo de Modificação Automática (Arqueiro Perito)",
+        "es-ES": "Módulo de Modificación Automática (Arquero Experto)"
+    },
+    "pCBjDQ": {
+        "en-US": "Automatic Modification Module (Health)",
+        "pt-BR": "Módulo de Modificação Automática (Vitalidade)",
+        "es-ES": "Módulo de Modificación Automática (Salud)"
+    },
+    "pSBjDQ": {
+        "en-US": "Automatic Modification Module (SPR)",
+        "pt-BR": "Módulo de Modificação Automática (SPR)",
+        "es-ES": "Módulo de Modificación Automática (SPR)"
+    },
+    "piBjDQ": {
+        "en-US": "Automatic Modification Module (Heal)",
+        "pt-BR": "Módulo de Modificação Automática (Cura)",
+        "es-ES": "Módulo de Modificación Automática (Cura)"
+    },
+    "pyBjDQ": {
+        "en-US": "Automatic Modification Module (ATK)",
+        "pt-BR": "Módulo de Modificação Automática (ATK)",
+        "es-ES": "Módulo de Modificación Automática (ATK)"
+    },
+    "qCBjDQ": {
+        "en-US": "Automatic Modification Module (MATK)",
+        "pt-BR": "Módulo de Modificação Automática (MATK)",
+        "es-ES": "Módulo de Modificación Automática (MATK)"
+    },
+    "qSBjDQ": {
+        "en-US": "Automatic Modification Module (Sharpshooter)",
+        "pt-BR": "Módulo de Modificação Automática (Atirador de Elite)",
+        "es-ES": "Módulo de Modificación Automática (Tirador Certero)"
+    },
+    "qiBjDQ": {
+        "en-US": "Automatic Modification Module (Fast)",
+        "pt-BR": "Módulo de Modificação Automática (Rápido)",
+        "es-ES": "Módulo de Modificación Automática (Rápido)"
+    },
+    "qyBjDQ": {
+        "en-US": "Automatic Modification Module (Caster)",
+        "pt-BR": "Módulo de Modificação Automática (Conjurador)",
+        "es-ES": "Módulo de Modificación Automática (Lanzador)"
+    },
+    "rCBjDQ": {
+        "en-US": "Automatic Modification Module (Critical)",
+        "pt-BR": "Módulo de Modificação Automática (Crítico)",
+        "es-ES": "Módulo de Modificación Automática (Crítico)"
+    },
+    "rSBjDQ": {
+        "en-US": "Automatic Modification Module (Magical Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza Mágica)"
+    },
+    "riBjDQ": {
+        "en-US": "Automatic Modification Module (Attacker Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força do Atacante)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza del Atacante)"
+    },
+    "ryBjDQ": {
+        "en-US": "Automatic Modification Module (Range Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força de Longo Alcance)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Rango)"
+    },
+    "sCBjDQ": {
+        "en-US": "Automatic Modification Module (Critical Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Crítica)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza Crítica)"
+    },
+    "sSBjDQ": {
+        "en-US": "Automatic Modification Module (Recovery Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força de Recuperação)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Recuperación)"
+    },
+    "siBjDQ": {
+        "en-US": "Automatic Modification Module (Mirror Counter)",
+        "pt-BR": "Módulo de Modificação Automática (Contra-Espelho)",
+        "es-ES": "Módulo de Modificación Automática (Contraataque Espejo)"
+    },
+    "syBjDQ": {
+        "en-US": "Automatic Modification Module (Global Cooldown)",
+        "pt-BR": "Módulo de Modificação Automática (Tempo de Recarga Global)",
+        "es-ES": "Módulo de Modificación Automática (Enfriamiento Global)"
+    },
+    "tCBjDQ": {
+        "en-US": "Automatic Modification Module (Fixed Casting)",
+        "pt-BR": "Módulo de Modificação Automática (Conjuração Fixa)",
+        "es-ES": "Módulo de Modificación Automática (Conjuración Fija)"
+    },
+    "tSBjDQ": {
+        "en-US": "Automatic Modification Module (Above All)",
+        "pt-BR": "Módulo de Modificação Automática (Acima de Tudo)",
+        "es-ES": "Módulo de Modificación Automática (Por Encima de Todo)"
+    },
+    "tiBjDQ": {
+        "en-US": "Automatic Modification Module (Drain Life)",
+        "pt-BR": "Módulo de Modificação Automática (Drenar Vida)",
+        "es-ES": "Módulo de Modificación Automática (Drenar Vida)"
+    },
+    "tyBjDQ": {
+        "en-US": "Automatic Modification Module (Drain Soul)",
+        "pt-BR": "Módulo de Modificação Automática (Drenar Alma)",
+        "es-ES": "Módulo de Modificación Automática (Drenar Alma)"
+    },
+    "uCBjDQ": {
+        "en-US": "Automatic Modification Module (Magic Healing)",
+        "pt-BR": "Módulo de Modificação Automática (Cura Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Curación Mágica)"
+    },
+    "uSBjDQ": {
+        "en-US": "Automatic Modification Module (Magic Soul)",
+        "pt-BR": "Módulo de Modificação Automática (Alma Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Alma Mágica)"
+    },
+    "uiBjDQ": {
+        "en-US": "Automatic Modification Module (Power Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força do Poder)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Poder)"
+    },
+    "uyBjDQ": {
+        "en-US": "Automatic Modification Module (Robust)",
+        "pt-BR": "Módulo de Modificação Automática (Robusto)",
+        "es-ES": "Módulo de Modificación Automática (Robusto)"
+    },
+    "vCBjDQ": {
+        "en-US": "Automatic Modification Module (Powerful)",
+        "pt-BR": "Módulo de Modificação Automática (Poderoso)",
+        "es-ES": "Módulo de Modificación Automática (Poderoso)"
+    },
+    "vSBjDQ": {
+        "en-US": "Automatic Modification Module (All Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Total)",
+        "es-ES": "Módulo de Modificación Automática (Toda la Fuerza)"
+    },
+    "viBjDQ": {
+        "en-US": "Automatic Modification Module (Reflection Reject)",
+        "pt-BR": "Módulo de Modificação Automática (Rejeição de Reflexo)",
+        "es-ES": "Módulo de Modificación Automática (Rechazo de Reflejo)"
+    },
+    "vyBjDQ": {
+        "en-US": "Automatic Module (Dragonic Breath)",
+        "pt-BR": "Módulo Automático (Sopro Dragônico)",
+        "es-ES": "Módulo Automático (Aliento Dragónico)"
+    },
+    "wCBjDQ": {
+        "en-US": "Magical Soapstone",
+        "pt-BR": "Pedra-Sabão Mágica",
+        "es-ES": "Piedra de Jabón Mágica"
+    },
+    "wSBjDQ": {
+        "en-US": "Automatic Module (Wave Break)",
+        "pt-BR": "Módulo Automático (Quebra de Ondas)",
+        "es-ES": "Módulo Automático (Rompeolas)"
+    },
+    "wiBjDQ": {
+        "en-US": "Automatic Module (Hundred Spiral)",
+        "pt-BR": "Módulo Automático (Espiral Centena)",
+        "es-ES": "Módulo Automático (Cien Espirales)"
+    },
+    "wyBjDQ": {
+        "en-US": "Automatic Module (Drive Press)",
+        "pt-BR": "Módulo Automático (Pressão de Investida)",
+        "es-ES": "Módulo Automático (Presión de Impulso)"
+    },
+    "xCBjDQ": {
+        "en-US": "Automatic Module (Banishing Cannon)",
+        "pt-BR": "Módulo Automático (Canhão do Banimento)",
+        "es-ES": "Módulo Automático (Cañón de Destierro)"
+    },
+    "xSBjDQ": {
+        "en-US": "Automatic Module (Genesis Pressure)",
+        "pt-BR": "Módulo Automático (Pressão da Gênese)",
+        "es-ES": "Módulo Automático (Presión Génesis)"
+    },
+    "xiBjDQ": {
+        "en-US": "Automatic Module (Boost Cannon)",
+        "pt-BR": "Módulo Automático (Canhão de Impulso)",
+        "es-ES": "Módulo Automático (Cañón de Impulso)"
+    },
+    "xyBjDQ": {
+        "en-US": "Automatic Module (Cold Flare)",
+        "pt-BR": "Módulo Automático (Labareda Fria)",
+        "es-ES": "Módulo Automático (Llamarada Fría)"
+    },
+    "yCBjDQ": {
+        "en-US": "Automatic Module (Tornado Swing)",
+        "pt-BR": "Módulo Automático (Balanço do Tornado)",
+        "es-ES": "Módulo Automático (Tornado Swing)"
+    },
+    "ySBjDQ": {
+        "en-US": "Automatic Module (Cannon Tornado)",
+        "pt-BR": "Módulo Automático (Tornado de Canhão)",
+        "es-ES": "Módulo Automático (Tornado de Cañón)"
+    },
+    "yiBjDQ": {
+        "en-US": "Automatic Module (Crazy Mandragora)",
+        "pt-BR": "Módulo Automático (Mandrágora Louca)",
+        "es-ES": "Módulo Automático (Mandrágora Loca)"
+    },
+    "yyBjDQ": {
+        "en-US": "Automatic Module (Acid Explosion)",
+        "pt-BR": "Módulo Automático (Explosão Ácida)",
+        "es-ES": "Módulo Automático (Explosión Ácida)"
+    },
+    "zCBjDQ": {
+        "en-US": "Automatic Module (Sonic Impact)",
+        "pt-BR": "Módulo Automático (Impacto Sônico)",
+        "es-ES": "Módulo Automático (Impacto Sónico)"
+    },
+    "zSBjDQ": {
+        "en-US": "Automatic Module (Cutter Slasher)",
+        "pt-BR": "Módulo Automático (Cortador)",
+        "es-ES": "Módulo Automático (Cuchillada Cortante)"
+    },
+    "ziBjDQ": {
+        "en-US": "Automatic Module (Berserk Slash)",
+        "pt-BR": "Módulo Automático (Corte Furioso)",
+        "es-ES": "Módulo Automático (Corte Berserker)"
+    },
+    "zyBjDQ": {
+        "en-US": "Automatic Module (Fatal Raid)",
+        "pt-BR": "Módulo Automático (Incursão Fatal)",
+        "es-ES": "Módulo Automático (Incursión Fatal)"
+    },
+    "0CBjDQ": {
+        "en-US": "Automatic Module (Shadow Spell)",
+        "pt-BR": "Módulo Automático (Feitiço das Sombras)",
+        "es-ES": "Módulo Automático (Hechizo Sombrío)"
+    },
+    "0SBjDQ": {
+        "en-US": "Automatic Module (Angle Shot)",
+        "pt-BR": "Módulo Automático (Tiro Angular)",
+        "es-ES": "Módulo Automático (Disparo Angular)"
+    },
+    "0iBjDQ": {
+        "en-US": "Automatic Module (Crimson Strain)",
+        "pt-BR": "Módulo Automático (Tensão Carmesim)",
+        "es-ES": "Módulo Automático (Tensión Carmesí)"
+    },
+    "0yBjDQ": {
+        "en-US": "Automatic Module (Jack Lightning)",
+        "pt-BR": "Módulo Automático (Relâmpago do Jack)",
+        "es-ES": "Módulo Automático (Jack Lightning)"
+    },
+    "1CBjDQ": {
+        "en-US": "Automatic Module (Comet Vortex)",
+        "pt-BR": "Módulo Automático (Vórtice do Cometa)",
+        "es-ES": "Módulo Automático (Vórtice Cometa)"
+    },
+    "1SBjDQ": {
+        "en-US": "Automatic Module (Double Bolt)",
+        "pt-BR": "Módulo Automático (Raio Duplo)",
+        "es-ES": "Módulo Automático (Doble Rayo)"
+    },
+    "1iBjDQ": {
+        "en-US": "Automatic Module (Warm Wave)",
+        "pt-BR": "Módulo Automático (Onda Cálida)",
+        "es-ES": "Módulo Automático (Ola Cálida)"
+    },
+    "1yBjDQ": {
+        "en-US": "Automatic Module (Diamond Grave)",
+        "pt-BR": "Módulo Automático (Tumba de Diamante)",
+        "es-ES": "Módulo Automático (Tumba de Diamante)"
+    },
+    "2CBjDQ": {
+        "en-US": "Automatic Module (Magnusmus)",
+        "pt-BR": "Módulo Automático (Magnusmus)",
+        "es-ES": "Módulo Automático (Magnusmus)"
+    },
+    "2SBjDQ": {
+        "en-US": "Automatic Module (Holy Judex)",
+        "pt-BR": "Módulo Automático (Julgamento Sagrado)",
+        "es-ES": "Módulo Automático (Judex Sagrado)"
+    },
+    "2iBjDQ": {
+        "en-US": "Automatic Module (Duple Lica)",
+        "pt-BR": "Módulo Automático (Dúplice Lica)",
+        "es-ES": "Módulo Automático (Duple Lica)"
+    },
+    "2yBjDQ": {
+        "en-US": "Automatic Module (Tiger Empire)",
+        "pt-BR": "Módulo Automático (Império do Tigre)",
+        "es-ES": "Módulo Automático (Imperio del Tigre)"
+    },
+    "3CBjDQ": {
+        "en-US": "Automatic Module (Rampage Arrow)",
+        "pt-BR": "Módulo Automático (Flecha da Destruição)",
+        "es-ES": "Módulo Automático (Flecha Alborotada)"
+    },
+    "3SBjDQ": {
+        "en-US": "Automatic Module (Raging Combo)",
+        "pt-BR": "Módulo Automático (Combo Furioso)",
+        "es-ES": "Módulo Automático (Combo Furioso)"
+    },
+    "3iBjDQ": {
+        "en-US": "Automatic Module (Cluster)",
+        "pt-BR": "Módulo Automático (Agrupamento)",
+        "es-ES": "Módulo Automático (Racimo)"
+    },
+    "3yBjDQ": {
+        "en-US": "Automatic Module (Breeze Shooting)",
+        "pt-BR": "Módulo Automático (Tiro com Brisa)",
+        "es-ES": "Módulo Automático (Disparo de Brisa)"
+    },
+    "4CBjDQ": {
+        "en-US": "Automatic Module (Aimed Storm)",
+        "pt-BR": "Módulo Automático (Tempestade Mira)",
+        "es-ES": "Módulo Automático (Tormenta Apuntada)"
+    },
+    "4SBjDQ": {
+        "en-US": "Automatic Module (Metal Echo)",
+        "pt-BR": "Módulo Automático (Eco Metálico)",
+        "es-ES": "Módulo Automático (Eco Metálico)"
+    },
+    "4iBjDQ": {
+        "en-US": "Automatic Module (Reverberation)",
+        "pt-BR": "Módulo Automático (Reverberação)",
+        "es-ES": "Módulo Automático (Reverberación)"
+    },
+    "4yBjDQ": {
+        "en-US": "Automatic Module (Vulcan Severe)",
+        "pt-BR": "Módulo Automático (Vulcão Severo)",
+        "es-ES": "Módulo Automático (Vulcano Severo)"
+    },
+    "5CBjDQ": {
+        "en-US": "Automatic Module (Prominence Burst)",
+        "pt-BR": "Módulo Automático (Explosão de Proeminência)",
+        "es-ES": "Módulo Automático (Estallido de Prominencia)"
+    },
+    "5SBjDQ": {
+        "en-US": "Automatic Module (Moon Kick)",
+        "pt-BR": "Módulo Automático (Chute Lunar)",
+        "es-ES": "Módulo Automático (Patada Lunar)"
+    },
+    "5iBjDQ": {
+        "en-US": "Automatic Module (Flash Falling)",
+        "pt-BR": "Módulo Automático (Queda Relâmpago)",
+        "es-ES": "Módulo Automático (Caída Relámpago)"
+    },
+    "5yBjDQ": {
+        "en-US": "Automatic Module (Eswhoo)",
+        "pt-BR": "Módulo Automático (Eswhoo)",
+        "es-ES": "Módulo Automático (Eswhoo)"
+    },
+    "6CBjDQ": {
+        "en-US": "Automatic Module (Espa)",
+        "pt-BR": "Módulo Automático (Espa)",
+        "es-ES": "Módulo Automático (Espa)"
+    },
+    "6SBjDQ": {
+        "en-US": "Automatic Module (Curse Explosion)",
+        "pt-BR": "Módulo Automático (Explosão Amaldiçoada)",
+        "es-ES": "Módulo Automático (Explosión de Maldición)"
+    },
+    "6iBjDQ": {
+        "en-US": "Automatic Module (Des Hammer Dance)",
+        "pt-BR": "Módulo Automático (Dança do Martelo Des)",
+        "es-ES": "Módulo Automático (Danza del Martillo Des)"
+    },
+    "6yBjDQ": {
+        "en-US": "Automatic Module (Fire Howling Tail)",
+        "pt-BR": "Módulo Automático (Cauda Uivante de Fogo)",
+        "es-ES": "Módulo Automático (Cola Aullante de Fuego)"
+    },
+    "7CBjDQ": {
+        "en-US": "Automatic Module (Storm Buster Trip)",
+        "pt-BR": "Módulo Automático (Viagem do Destruidor de Tempestades)",
+        "es-ES": "Módulo Automático (Viaje Rompetormentas)"
+    },
+    "7SBjDQ": {
+        "en-US": "Automatic Module (Flame Ice Wind)",
+        "pt-BR": "Módulo Automático (Vento de Gelo em Chamas)",
+        "es-ES": "Módulo Automático (Viento de Hielo Llameante)"
+    },
+    "7iBjDQ": {
+        "en-US": "Automatic Module (Cross Slash)",
+        "pt-BR": "Módulo Automático (Corte Cruzado)",
+        "es-ES": "Módulo Automático (Corte Cruzado)"
+    },
+    "7yBjDQ": {
+        "en-US": "Automatic Module (Exploding Flake Wind)",
+        "pt-BR": "Módulo Automático (Vento de Flocos Explosivos)",
+        "es-ES": "Módulo Automático (Viento Explosivo de Copos)"
+    },
+    "8CBjDQ": {
+        "en-US": "Automatic Module (Power of Sea)",
+        "pt-BR": "Módulo Automático (Poder do Mar)",
+        "es-ES": "Módulo Automático (Poder del Mar)"
+    },
+    "8SBjDQ": {
+        "en-US": "Automatic Module (Power of Land)",
+        "pt-BR": "Módulo Automático (Poder da Terra)",
+        "es-ES": "Módulo Automático (Poder de la Tierra)"
+    },
+    "8iBjDQ": {
+        "en-US": "Automatic Module (Power of Life)",
+        "pt-BR": "Módulo Automático (Poder da Vida)",
+        "es-ES": "Módulo Automático (Poder de la Vida)"
+    },
+    "8yBjDQ": {
+        "en-US": "Barmeal Ticket",
+        "pt-BR": "Vale Varmida",
+        "es-ES": "Vale Varmida"
+    },
+    "9CBjDQ": {
+        "en-US": "Fragment of Sin",
+        "pt-BR": "Fragmento do Pecado",
+        "es-ES": "Fragmento de Pecado"
+    },
+    "9SBjDQ": {
+        "en-US": "Fragment of Fate",
+        "pt-BR": "Fragmento do Destino",
+        "es-ES": "Fragmento del Destino"
+    },
+    "9iBjDQ": {
+        "en-US": "Green Radiation (Battle Pass)",
+        "pt-BR": "Radiação Verde (Passe de Batalha)",
+        "es-ES": "Radiación Verde (Pase de Batalla)"
+    },
+    "9yBjDQ": {
+        "en-US": "Red Radiation (Battle Pass)",
+        "pt-BR": "Radiação Vermelha (Passe de Batalha)",
+        "es-ES": "Radiación Roja (Pase de Batalla)"
+    },
+    "+CBjDQ": {
+        "en-US": "Blue Radiation (Battle Pass)",
+        "pt-BR": "Radiação Azul (Passe de Batalha)",
+        "es-ES": "Radiación Azul (Pase de Batalla)"
+    },
+    "+SBjDQ": {
+        "en-US": "GC Wig Box",
+        "pt-BR": "Caixa de Peruca GC",
+        "es-ES": "Caja de Peluca GC"
+    },
+    "+iBjDQ": {
+        "en-US": "Mask of sin fate",
+        "pt-BR": "Máscara do Destino do Pecado",
+        "es-ES": "Máscara del Destino del Pecado"
+    },
+    "+yBjDQ": {
+        "en-US": "Automatic Modification Module (Defense)",
+        "pt-BR": "Módulo de Modificação Automática (Defesa)",
+        "es-ES": "Módulo de Modificación Automática (Defensa)"
+    },
+    "/CBjDQ": {
+        "en-US": "Barmeal Ticket",
+        "pt-BR": "Vale Varmida",
+        "es-ES": "Vale Varmida"
+    },
+    "/SBjDQ": {
+        "en-US": "Automatic Modification Module (Magic Defense)",
+        "pt-BR": "Módulo de Modificação Automática (Defesa Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Defensa Mágica)"
+    },
+    "/iBjDQ": {
+        "en-US": "Automatic Modification Module (Vit)",
+        "pt-BR": "Módulo de Modificação Automática (Vit)",
+        "es-ES": "Módulo de Modificación Automática (Vit)"
+    },
+    "/yBjDQ": {
+        "en-US": "Automatic Modification Module (Luk)",
+        "pt-BR": "Módulo de Modificação Automática (Sorte)",
+        "es-ES": "Módulo de Modificación Automática (Sue)"
+    },
+    "ACFjDQ": {
+        "en-US": "Automatic Modification Module (Str)",
+        "pt-BR": "Módulo de Modificação Automática (Força)",
+        "es-ES": "Módulo de Modificación Automática (Fue)"
+    },
+    "ASFjDQ": {
+        "en-US": "Automatic Modification Module (Agi)",
+        "pt-BR": "Módulo de Modificação Automática (Agilidade)",
+        "es-ES": "Módulo de Modificación Automática (Agi)"
+    },
+    "AiFjDQ": {
+        "en-US": "Automatic Modification Module (Int)",
+        "pt-BR": "Módulo de Modificação Automática (Inteligência)",
+        "es-ES": "Módulo de Modificación Automática (Int)"
+    },
+    "AyFjDQ": {
+        "en-US": "Automatic Modification Module (Dex)",
+        "pt-BR": "Módulo de Modificação Automática (Destreza)",
+        "es-ES": "Módulo de Modificación Automática (Des)"
+    },
+    "BCFjDQ": {
+        "en-US": "Automatic Modification Module (HP Recovery)",
+        "pt-BR": "Módulo de Modificação Automática (Recuperação de HP)",
+        "es-ES": "Módulo de Modificación Automática (Recuperación de HP)"
+    },
+    "BSFjDQ": {
+        "en-US": "Automatic Modification Module (SP Recovery)",
+        "pt-BR": "Módulo de Modificação Automática (Recuperação de SP)",
+        "es-ES": "Módulo de Modificación Automática (Recuperación de SP)"
+    },
+    "BiFjDQ": {
+        "en-US": "Automatic Modification Module (Spell)",
+        "pt-BR": "Módulo de Modificação Automática (Magia)",
+        "es-ES": "Módulo de Modificación Automática (Hechizo)"
+    },
+    "ByFjDQ": {
+        "en-US": "Automatic Modification Module (Attack Speed)",
+        "pt-BR": "Módulo de Modificação Automática (Velocidade de Ataque)",
+        "es-ES": "Módulo de Modificación Automática (Velocidad de Ataque)"
+    },
+    "CCFjDQ": {
+        "en-US": "Automatic Modification Module (Fatal)",
+        "pt-BR": "Módulo de Modificação Automática (Fatal)",
+        "es-ES": "Módulo de Modificación Automática (Fatal)"
+    },
+    "CSFjDQ": {
+        "en-US": "Automatic Modification Module (Expert Archer)",
+        "pt-BR": "Módulo de Modificação Automática (Arqueiro Perito)",
+        "es-ES": "Módulo de Modificación Automática (Arquero Experto)"
+    },
+    "CiFjDQ": {
+        "en-US": "Automatic Modification Module (Health)",
+        "pt-BR": "Módulo de Modificação Automática (Vitalidade)",
+        "es-ES": "Módulo de Modificación Automática (Salud)"
+    },
+    "CyFjDQ": {
+        "en-US": "Automatic Modification Module (SPR)",
+        "pt-BR": "Módulo de Modificação Automática (SPR)",
+        "es-ES": "Módulo de Modificación Automática (SPR)"
+    },
+    "DCFjDQ": {
+        "en-US": "Automatic Modification Module (Heal)",
+        "pt-BR": "Módulo de Modificação Automática (Cura)",
+        "es-ES": "Módulo de Modificación Automática (Cura)"
+    },
+    "DSFjDQ": {
+        "en-US": "Automatic Modification Module (ATK)",
+        "pt-BR": "Módulo de Modificação Automática (ATK)",
+        "es-ES": "Módulo de Modificación Automática (ATK)"
+    },
+    "DiFjDQ": {
+        "en-US": "Automatic Modification Module (MATK)",
+        "pt-BR": "Módulo de Modificação Automática (MATK)",
+        "es-ES": "Módulo de Modificación Automática (MATK)"
+    },
+    "DyFjDQ": {
+        "en-US": "Automatic Modification Module (Sharpshooter)",
+        "pt-BR": "Módulo de Modificação Automática (Atirador de Elite)",
+        "es-ES": "Módulo de Modificación Automática (Tirador Certero)"
+    },
+    "ECFjDQ": {
+        "en-US": "Automatic Modification Module (Fast)",
+        "pt-BR": "Módulo de Modificação Automática (Rápido)",
+        "es-ES": "Módulo de Modificación Automática (Rápido)"
+    },
+    "ESFjDQ": {
+        "en-US": "Automatic Modification Module (Caster)",
+        "pt-BR": "Módulo de Modificação Automática (Conjurador)",
+        "es-ES": "Módulo de Modificación Automática (Lanzador)"
+    },
+    "EiFjDQ": {
+        "en-US": "Automatic Modification Module (Critical)",
+        "pt-BR": "Módulo de Modificação Automática (Crítico)",
+        "es-ES": "Módulo de Modificación Automática (Crítico)"
+    },
+    "EyFjDQ": {
+        "en-US": "Automatic Modification Module (Magical Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza Mágica)"
+    },
+    "FCFjDQ": {
+        "en-US": "Automatic Modification Module (Attacker Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força do Atacante)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza del Atacante)"
+    },
+    "FSFjDQ": {
+        "en-US": "Automatic Modification Module (Range Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força de Longo Alcance)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Rango)"
+    },
+    "FiFjDQ": {
+        "en-US": "Automatic Modification Module (Critical Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Crítica)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza Crítica)"
+    },
+    "FyFjDQ": {
+        "en-US": "Automatic Modification Module (Recovery Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força de Recuperação)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Recuperación)"
+    },
+    "GCFjDQ": {
+        "en-US": "Automatic Modification Module (Mirror Counter)",
+        "pt-BR": "Módulo de Modificação Automática (Contra-Espelho)",
+        "es-ES": "Módulo de Modificación Automática (Contraataque Espejo)"
+    },
+    "GSFjDQ": {
+        "en-US": "Automatic Modification Module (Global Cooldown)",
+        "pt-BR": "Módulo de Modificação Automática (Tempo de Recarga Global)",
+        "es-ES": "Módulo de Modificación Automática (Enfriamiento Global)"
+    },
+    "GiFjDQ": {
+        "en-US": "Automatic Modification Module (Fixed Casting)",
+        "pt-BR": "Módulo de Modificação Automática (Conjuração Fixa)",
+        "es-ES": "Módulo de Modificación Automática (Conjuración Fija)"
+    },
+    "GyFjDQ": {
+        "en-US": "Automatic Modification Module (Above All)",
+        "pt-BR": "Módulo de Modificação Automática (Acima de Tudo)",
+        "es-ES": "Módulo de Modificación Automática (Por Encima de Todo)"
+    },
+    "HCFjDQ": {
+        "en-US": "Automatic Modification Module (Drain Life)",
+        "pt-BR": "Módulo de Modificação Automática (Drenar Vida)",
+        "es-ES": "Módulo de Modificación Automática (Drenar Vida)"
+    },
+    "HSFjDQ": {
+        "en-US": "Automatic Modification Module (Drain Soul)",
+        "pt-BR": "Módulo de Modificação Automática (Drenar Alma)",
+        "es-ES": "Módulo de Modificación Automática (Drenar Alma)"
+    },
+    "HiFjDQ": {
+        "en-US": "Automatic Modification Module (Magic Healing)",
+        "pt-BR": "Módulo de Modificação Automática (Cura Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Curación Mágica)"
+    },
+    "HyFjDQ": {
+        "en-US": "Automatic Modification Module (Magic Soul)",
+        "pt-BR": "Módulo de Modificação Automática (Alma Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Alma Mágica)"
+    },
+    "ICFjDQ": {
+        "en-US": "Automatic Modification Module (Power Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força do Poder)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Poder)"
+    },
+    "ISFjDQ": {
+        "en-US": "Automatic Modification Module (Robust)",
+        "pt-BR": "Módulo de Modificação Automática (Robusto)",
+        "es-ES": "Módulo de Modificación Automática (Robusto)"
+    },
+    "IiFjDQ": {
+        "en-US": "Automatic Modification Module (Powerful)",
+        "pt-BR": "Módulo de Modificação Automática (Poderoso)",
+        "es-ES": "Módulo de Modificación Automática (Poderoso)"
+    },
+    "IyFjDQ": {
+        "en-US": "Automatic Modification Module (All Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Total)",
+        "es-ES": "Módulo de Modificación Automática (Toda la Fuerza)"
+    },
+    "JCFjDQ": {
+        "en-US": "Automatic Modification Module (Reflection Reject)",
+        "pt-BR": "Módulo de Modificação Automática (Rejeição de Reflexo)",
+        "es-ES": "Módulo de Modificación Automática (Rechazo de Reflejo)"
+    },
+    "JSFjDQ": {
+        "en-US": "Automatic Module (Dragonic Breath)",
+        "pt-BR": "Módulo Automático (Sopro Dragônico)",
+        "es-ES": "Módulo Automático (Aliento Dragónico)"
+    },
+    "JiFjDQ": {
+        "en-US": "Magical Soapstone",
+        "pt-BR": "Pedra-Sabão Mágica",
+        "es-ES": "Piedra de Jabón Mágica"
+    },
+    "JyFjDQ": {
+        "en-US": "Automatic Module (Wave Break)",
+        "pt-BR": "Módulo Automático (Quebra de Ondas)",
+        "es-ES": "Módulo Automático (Rompeolas)"
+    },
+    "KCFjDQ": {
+        "en-US": "Automatic Module (Hundred Spiral)",
+        "pt-BR": "Módulo Automático (Espiral Centena)",
+        "es-ES": "Módulo Automático (Cien Espirales)"
+    },
+    "KSFjDQ": {
+        "en-US": "Automatic Module (Drive Press)",
+        "pt-BR": "Módulo Automático (Pressão de Investida)",
+        "es-ES": "Módulo Automático (Presión de Impulso)"
+    },
+    "KiFjDQ": {
+        "en-US": "Automatic Module (Banishing Cannon)",
+        "pt-BR": "Módulo Automático (Canhão do Banimento)",
+        "es-ES": "Módulo Automático (Cañón de Destierro)"
+    },
+    "KyFjDQ": {
+        "en-US": "Automatic Module (Genesis Pressure)",
+        "pt-BR": "Módulo Automático (Pressão da Gênese)",
+        "es-ES": "Módulo Automático (Presión Génesis)"
+    },
+    "LCFjDQ": {
+        "en-US": "Automatic Module (Boost Cannon)",
+        "pt-BR": "Módulo Automático (Canhão de Impulso)",
+        "es-ES": "Módulo Automático (Cañón de Impulso)"
+    },
+    "LSFjDQ": {
+        "en-US": "Automatic Module (Cold Flare)",
+        "pt-BR": "Módulo Automático (Labareda Fria)",
+        "es-ES": "Módulo Automático (Llamarada Fría)"
+    },
+    "LiFjDQ": {
+        "en-US": "Automatic Module (Tornado Swing)",
+        "pt-BR": "Módulo Automático (Balanço do Tornado)",
+        "es-ES": "Módulo Automático (Tornado Swing)"
+    },
+    "LyFjDQ": {
+        "en-US": "Automatic Module (Cannon Tornado)",
+        "pt-BR": "Módulo Automático (Tornado de Canhão)",
+        "es-ES": "Módulo Automático (Tornado de Cañón)"
+    },
+    "MCFjDQ": {
+        "en-US": "Automatic Module (Crazy Mandragora)",
+        "pt-BR": "Módulo Automático (Mandrágora Louca)",
+        "es-ES": "Módulo Automático (Mandrágora Loca)"
+    },
+    "MSFjDQ": {
+        "en-US": "Automatic Module (Acid Explosion)",
+        "pt-BR": "Módulo Automático (Explosão Ácida)",
+        "es-ES": "Módulo Automático (Explosión Ácida)"
+    },
+    "MiFjDQ": {
+        "en-US": "Automatic Module (Sonic Impact)",
+        "pt-BR": "Módulo Automático (Impacto Sônico)",
+        "es-ES": "Módulo Automático (Impacto Sónico)"
+    },
+    "MyFjDQ": {
+        "en-US": "Automatic Module (Cutter Slasher)",
+        "pt-BR": "Módulo Automático (Cortador)",
+        "es-ES": "Módulo Automático (Cuchillada Cortante)"
+    },
+    "NCFjDQ": {
+        "en-US": "Automatic Module (Berserk Slash)",
+        "pt-BR": "Módulo Automático (Corte Furioso)",
+        "es-ES": "Módulo Automático (Corte Berserker)"
+    },
+    "NSFjDQ": {
+        "en-US": "Automatic Module (Fatal Raid)",
+        "pt-BR": "Módulo Automático (Incursão Fatal)",
+        "es-ES": "Módulo Automático (Incursión Fatal)"
+    },
+    "NiFjDQ": {
+        "en-US": "Automatic Module (Shadow Spell)",
+        "pt-BR": "Módulo Automático (Feitiço das Sombras)",
+        "es-ES": "Módulo Automático (Hechizo Sombrío)"
+    },
+    "NyFjDQ": {
+        "en-US": "Automatic Module (Angle Shot)",
+        "pt-BR": "Módulo Automático (Tiro Angular)",
+        "es-ES": "Módulo Automático (Disparo Angular)"
+    },
+    "OCFjDQ": {
+        "en-US": "Automatic Module (Crimson Strain)",
+        "pt-BR": "Módulo Automático (Tensão Carmesim)",
+        "es-ES": "Módulo Automático (Tensión Carmesí)"
+    },
+    "OSFjDQ": {
+        "en-US": "Automatic Module (Jack Lightning)",
+        "pt-BR": "Módulo Automático (Relâmpago do Jack)",
+        "es-ES": "Módulo Automático (Jack Lightning)"
+    },
+    "OiFjDQ": {
+        "en-US": "Automatic Module (Comet Vortex)",
+        "pt-BR": "Módulo Automático (Vórtice do Cometa)",
+        "es-ES": "Módulo Automático (Vórtice Cometa)"
+    },
+    "OyFjDQ": {
+        "en-US": "Automatic Module (Double Bolt)",
+        "pt-BR": "Módulo Automático (Raio Duplo)",
+        "es-ES": "Módulo Automático (Doble Rayo)"
+    },
+    "PCFjDQ": {
+        "en-US": "Automatic Module (Warm Wave)",
+        "pt-BR": "Módulo Automático (Onda Cálida)",
+        "es-ES": "Módulo Automático (Ola Cálida)"
+    },
+    "PSFjDQ": {
+        "en-US": "Automatic Module (Diamond Grave)",
+        "pt-BR": "Módulo Automático (Tumba de Diamante)",
+        "es-ES": "Módulo Automático (Tumba de Diamante)"
+    },
+    "PiFjDQ": {
+        "en-US": "Automatic Module (Magnusmus)",
+        "pt-BR": "Módulo Automático (Magnusmus)",
+        "es-ES": "Módulo Automático (Magnusmus)"
+    },
+    "PyFjDQ": {
+        "en-US": "Automatic Module (Holy Judex)",
+        "pt-BR": "Módulo Automático (Julgamento Sagrado)",
+        "es-ES": "Módulo Automático (Judex Sagrado)"
+    },
+    "QCFjDQ": {
+        "en-US": "Automatic Module (Duple Lica)",
+        "pt-BR": "Módulo Automático (Dúplice Lica)",
+        "es-ES": "Módulo Automático (Duple Lica)"
+    },
+    "QSFjDQ": {
+        "en-US": "Automatic Module (Tiger Empire)",
+        "pt-BR": "Módulo Automático (Império do Tigre)",
+        "es-ES": "Módulo Automático (Imperio del Tigre)"
+    },
+    "QiFjDQ": {
+        "en-US": "Automatic Module (Rampage Arrow)",
+        "pt-BR": "Módulo Automático (Flecha da Destruição)",
+        "es-ES": "Módulo Automático (Flecha Alborotada)"
+    },
+    "QyFjDQ": {
+        "en-US": "Automatic Module (Raging Combo)",
+        "pt-BR": "Módulo Automático (Combo Furioso)",
+        "es-ES": "Módulo Automático (Combo Furioso)"
+    },
+    "RCFjDQ": {
+        "en-US": "Automatic Module (Cluster)",
+        "pt-BR": "Módulo Automático (Agrupamento)",
+        "es-ES": "Módulo Automático (Racimo)"
+    },
+    "RSFjDQ": {
+        "en-US": "Automatic Module (Breeze Shooting)",
+        "pt-BR": "Módulo Automático (Tiro com Brisa)",
+        "es-ES": "Módulo Automático (Disparo de Brisa)"
+    },
+    "RiFjDQ": {
+        "en-US": "Automatic Module (Aimed Storm)",
+        "pt-BR": "Módulo Automático (Tempestade Mira)",
+        "es-ES": "Módulo Automático (Tormenta Apuntada)"
+    },
+    "RyFjDQ": {
+        "en-US": "Automatic Module (Metal Echo)",
+        "pt-BR": "Módulo Automático (Eco Metálico)",
+        "es-ES": "Módulo Automático (Eco Metálico)"
+    },
+    "SCFjDQ": {
+        "en-US": "Automatic Module (Reverberation)",
+        "pt-BR": "Módulo Automático (Reverberação)",
+        "es-ES": "Módulo Automático (Reverberación)"
+    },
+    "SSFjDQ": {
+        "en-US": "Automatic Module (Vulcan Severe)",
+        "pt-BR": "Módulo Automático (Vulcão Severo)",
+        "es-ES": "Módulo Automático (Vulcano Severo)"
+    },
+    "SiFjDQ": {
+        "en-US": "Automatic Module (Prominence Burst)",
+        "pt-BR": "Módulo Automático (Explosão de Proeminência)",
+        "es-ES": "Módulo Automático (Estallido de Prominencia)"
+    },
+    "SyFjDQ": {
+        "en-US": "Automatic Module (Moon Kick)",
+        "pt-BR": "Módulo Automático (Chute Lunar)",
+        "es-ES": "Módulo Automático (Patada Lunar)"
+    },
+    "TCFjDQ": {
+        "en-US": "Automatic Module (Flash Falling)",
+        "pt-BR": "Módulo Automático (Queda Relâmpago)",
+        "es-ES": "Módulo Automático (Caída Relámpago)"
+    },
+    "TSFjDQ": {
+        "en-US": "Automatic Module (Eswhoo)",
+        "pt-BR": "Módulo Automático (Eswhoo)",
+        "es-ES": "Módulo Automático (Eswhoo)"
+    },
+    "TiFjDQ": {
+        "en-US": "Automatic Module (Espa)",
+        "pt-BR": "Módulo Automático (Espa)",
+        "es-ES": "Módulo Automático (Espa)"
+    },
+    "TyFjDQ": {
+        "en-US": "Automatic Module (Curse Explosion)",
+        "pt-BR": "Módulo Automático (Explosão Amaldiçoada)",
+        "es-ES": "Módulo Automático (Explosión de Maldición)"
+    },
+    "UCFjDQ": {
+        "en-US": "Automatic Module (Des Hammer Dance)",
+        "pt-BR": "Módulo Automático (Dança do Martelo Des)",
+        "es-ES": "Módulo Automático (Danza del Martillo Des)"
+    },
+    "USFjDQ": {
+        "en-US": "Automatic Module (Fire Howling Tail)",
+        "pt-BR": "Módulo Automático (Cauda Uivante de Fogo)",
+        "es-ES": "Módulo Automático (Cola Aullante de Fuego)"
+    },
+    "UiFjDQ": {
+        "en-US": "Automatic Module (Storm Buster Trip)",
+        "pt-BR": "Módulo Automático (Viagem do Destruidor de Tempestades)",
+        "es-ES": "Módulo Automático (Viaje Rompetormentas)"
+    },
+    "UyFjDQ": {
+        "en-US": "Automatic Module (Flame Ice Wind)",
+        "pt-BR": "Módulo Automático (Vento de Gelo em Chamas)",
+        "es-ES": "Módulo Automático (Viento de Hielo Llameante)"
+    },
+    "VCFjDQ": {
+        "en-US": "Automatic Module (Cross Slash)",
+        "pt-BR": "Módulo Automático (Corte Cruzado)",
+        "es-ES": "Módulo Automático (Corte Cruzado)"
+    },
+    "VSFjDQ": {
+        "en-US": "Automatic Module (Exploding Flake Wind)",
+        "pt-BR": "Módulo Automático (Vento de Flocos Explosivos)",
+        "es-ES": "Módulo Automático (Viento Explosivo de Copos)"
+    },
+    "ViFjDQ": {
+        "en-US": "Automatic Module (Power of Sea)",
+        "pt-BR": "Módulo Automático (Poder do Mar)",
+        "es-ES": "Módulo Automático (Poder del Mar)"
+    },
+    "VyFjDQ": {
+        "en-US": "Automatic Module (Power of Land)",
+        "pt-BR": "Módulo Automático (Poder da Terra)",
+        "es-ES": "Módulo Automático (Poder de la Tierra)"
+    },
+    "WCFjDQ": {
+        "en-US": "Automatic Module (Power of Life)",
+        "pt-BR": "Módulo Automático (Poder da Vida)",
+        "es-ES": "Módulo Automático (Poder de la Vida)"
+    },
+    "WSFjDQ": {
+        "en-US": "Varmeal Ticket",
+        "pt-BR": "Vale Varmida",
+        "es-ES": "Vale Varmida"
+    },
+    "WiFjDQ": {
+        "en-US": "Fragment of Sin",
+        "pt-BR": "Cristal do Pecado",
+        "es-ES": "Cristal del Pecado"
+    },
+    "WyFjDQ": {
+        "en-US": "Fragment of Fate",
+        "pt-BR": "Cristal da Virtude",
+        "es-ES": "Cristal de la Virtud"
+    },
+    "XCFjDQ": {
+        "en-US": "Green Radiation (Battle Pass)",
+        "pt-BR": "Radiação Verde (Passe de Batalha)",
+        "es-ES": "Radiación Verde (Pase de Batalla)"
+    },
+    "XSFjDQ": {
+        "en-US": "Red Radiation (Battle Pass)",
+        "pt-BR": "Radiação Vermelha (Passe de Batalha)",
+        "es-ES": "Radiación Roja (Pase de Batalla)"
+    },
+    "XiFjDQ": {
+        "en-US": "Blue Radiation (Battle Pass)",
+        "pt-BR": "Radiação Azul (Passe de Batalha)",
+        "es-ES": "Radiación Azul (Pase de Batalla)"
+    },
+    "XyFjDQ": {
+        "en-US": "GC Wig Box",
+        "pt-BR": "Caixa de Peruca GC",
+        "es-ES": "Caja de Peluca GC"
+    },
+    "YCFjDQ": {
+        "en-US": "Mask of sin fate",
+        "pt-BR": "Máscara do Destino do Pecado",
+        "es-ES": "Máscara del Destino del Pecado"
+    },
+    "YSFjDQ": {
+        "en-US": "Automatic Modification Module (Defense)",
+        "pt-BR": "Módulo de Modificação Automática (Defesa)",
+        "es-ES": "Módulo de Modificación Automática (Defensa)"
+    },
+    "YiFjDQ": {
+        "en-US": "Varmeal Ticket",
+        "pt-BR": "Vale Varmida",
+        "es-ES": "Vale Varmida"
+    },
+    "YyFjDQ": {
+        "en-US": "Automatic Modification Module (Magic Defense)",
+        "pt-BR": "Módulo de Modificação Automática (Defesa Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Defensa Mágica)"
+    },
+    "ZCFjDQ": {
+        "en-US": "Automatic Modification Module (Vit)",
+        "pt-BR": "Módulo de Modificação Automática (Vit)",
+        "es-ES": "Módulo de Modificación Automática (Vit)"
+    },
+    "ZSFjDQ": {
+        "en-US": "Automatic Modification Module (Luk)",
+        "pt-BR": "Módulo de Modificação Automática (Sorte)",
+        "es-ES": "Módulo de Modificación Automática (Sue)"
+    },
+    "ZiFjDQ": {
+        "en-US": "Automatic Modification Module (Str)",
+        "pt-BR": "Módulo de Modificação Automática (Força)",
+        "es-ES": "Módulo de Modificación Automática (Fue)"
+    },
+    "ZyFjDQ": {
+        "en-US": "Automatic Modification Module (Agi)",
+        "pt-BR": "Módulo de Modificação Automática (Agilidade)",
+        "es-ES": "Módulo de Modificación Automática (Agi)"
+    },
+    "aCFjDQ": {
+        "en-US": "Automatic Modification Module (Int)",
+        "pt-BR": "Módulo de Modificação Automática (Inteligência)",
+        "es-ES": "Módulo de Modificación Automática (Int)"
+    },
+    "aSFjDQ": {
+        "en-US": "Automatic Modification Module (Dex)",
+        "pt-BR": "Módulo de Modificação Automática (Destreza)",
+        "es-ES": "Módulo de Modificación Automática (Des)"
+    },
+    "aiFjDQ": {
+        "en-US": "Automatic Modification Module (HP Recovery)",
+        "pt-BR": "Módulo de Modificação Automática (Recuperação de HP)",
+        "es-ES": "Módulo de Modificación Automática (Recuperación de HP)"
+    },
+    "ayFjDQ": {
+        "en-US": "Automatic Modification Module (SP Recovery)",
+        "pt-BR": "Módulo de Modificação Automática (Recuperação de SP)",
+        "es-ES": "Módulo de Modificación Automática (Recuperación de SP)"
+    },
+    "bCFjDQ": {
+        "en-US": "Automatic Modification Module (Spell)",
+        "pt-BR": "Módulo de Modificação Automática (Magia)",
+        "es-ES": "Módulo de Modificación Automática (Hechizo)"
+    },
+    "bSFjDQ": {
+        "en-US": "Automatic Modification Module (Attack Speed)",
+        "pt-BR": "Módulo de Modificação Automática (Velocidade de Ataque)",
+        "es-ES": "Módulo de Modificación Automática (Velocidad de Ataque)"
+    },
+    "biFjDQ": {
+        "en-US": "Automatic Modification Module (Fatal)",
+        "pt-BR": "Módulo de Modificação Automática (Fatal)",
+        "es-ES": "Módulo de Modificación Automática (Fatal)"
+    },
+    "byFjDQ": {
+        "en-US": "Automatic Modification Module (Expert Archer)",
+        "pt-BR": "Módulo de Modificação Automática (Arqueiro Perito)",
+        "es-ES": "Módulo de Modificación Automática (Arquero Experto)"
+    },
+    "cCFjDQ": {
+        "en-US": "Automatic Modification Module (Health)",
+        "pt-BR": "Módulo de Modificação Automática (Vitalidade)",
+        "es-ES": "Módulo de Modificación Automática (Salud)"
+    },
+    "cSFjDQ": {
+        "en-US": "Automatic Modification Module (SPR)",
+        "pt-BR": "Módulo de Modificação Automática (SPR)",
+        "es-ES": "Módulo de Modificación Automática (SPR)"
+    },
+    "ciFjDQ": {
+        "en-US": "Automatic Modification Module (Heal)",
+        "pt-BR": "Módulo de Modificação Automática (Cura)",
+        "es-ES": "Módulo de Modificación Automática (Cura)"
+    },
+    "cyFjDQ": {
+        "en-US": "Automatic Modification Module (ATK)",
+        "pt-BR": "Módulo de Modificação Automática (ATK)",
+        "es-ES": "Módulo de Modificación Automática (ATK)"
+    },
+    "dCFjDQ": {
+        "en-US": "Automatic Modification Module (MATK)",
+        "pt-BR": "Módulo de Modificação Automática (MATK)",
+        "es-ES": "Módulo de Modificación Automática (MATK)"
+    },
+    "dSFjDQ": {
+        "en-US": "Automatic Modification Module (Sharpshooter)",
+        "pt-BR": "Módulo de Modificação Automática (Atirador de Elite)",
+        "es-ES": "Módulo de Modificación Automática (Tirador Certero)"
+    },
+    "diFjDQ": {
+        "en-US": "Automatic Modification Module (Fast)",
+        "pt-BR": "Módulo de Modificação Automática (Rápido)",
+        "es-ES": "Módulo de Modificación Automática (Rápido)"
+    },
+    "dyFjDQ": {
+        "en-US": "Automatic Modification Module (Caster)",
+        "pt-BR": "Módulo de Modificação Automática (Conjurador)",
+        "es-ES": "Módulo de Modificación Automática (Lanzador)"
+    },
+    "eCFjDQ": {
+        "en-US": "Automatic Modification Module (Critical)",
+        "pt-BR": "Módulo de Modificação Automática (Crítico)",
+        "es-ES": "Módulo de Modificación Automática (Crítico)"
+    },
+    "eSFjDQ": {
+        "en-US": "Automatic Modification Module (Magical Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza Mágica)"
+    },
+    "eiFjDQ": {
+        "en-US": "Automatic Modification Module (Attacker Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força do Atacante)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza del Atacante)"
+    },
+    "eyFjDQ": {
+        "en-US": "Automatic Modification Module (Range Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força de Longo Alcance)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Rango)"
+    },
+    "fCFjDQ": {
+        "en-US": "Automatic Modification Module (Critical Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Crítica)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza Crítica)"
+    },
+    "fSFjDQ": {
+        "en-US": "Automatic Modification Module (Recovery Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força de Recuperação)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Recuperación)"
+    },
+    "fiFjDQ": {
+        "en-US": "Automatic Modification Module (Mirror Counter)",
+        "pt-BR": "Módulo de Modificação Automática (Contra-Espelho)",
+        "es-ES": "Módulo de Modificación Automática (Contraataque Espejo)"
+    },
+    "fyFjDQ": {
+        "en-US": "Automatic Modification Module (Global Cooldown)",
+        "pt-BR": "Módulo de Modificação Automática (Tempo de Recarga Global)",
+        "es-ES": "Módulo de Modificación Automática (Enfriamiento Global)"
+    },
+    "gCFjDQ": {
+        "en-US": "Automatic Modification Module (Fixed Casting)",
+        "pt-BR": "Módulo de Modificação Automática (Conjuração Fixa)",
+        "es-ES": "Módulo de Modificación Automática (Conjuración Fija)"
+    },
+    "gSFjDQ": {
+        "en-US": "Automatic Modification Module (Above All)",
+        "pt-BR": "Módulo de Modificação Automática (Acima de Tudo)",
+        "es-ES": "Módulo de Modificación Automática (Por Encima de Todo)"
+    },
+    "giFjDQ": {
+        "en-US": "Automatic Modification Module (Drain Life)",
+        "pt-BR": "Módulo de Modificação Automática (Drenar Vida)",
+        "es-ES": "Módulo de Modificación Automática (Drenar Vida)"
+    },
+    "gyFjDQ": {
+        "en-US": "Automatic Modification Module (Drain Soul)",
+        "pt-BR": "Módulo de Modificação Automática (Drenar Alma)",
+        "es-ES": "Módulo de Modificación Automática (Drenar Alma)"
+    },
+    "hCFjDQ": {
+        "en-US": "Automatic Modification Module (Magic Healing)",
+        "pt-BR": "Módulo de Modificação Automática (Cura Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Curación Mágica)"
+    },
+    "hSFjDQ": {
+        "en-US": "Automatic Modification Module (Magic Soul)",
+        "pt-BR": "Módulo de Modificação Automática (Alma Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Alma Mágica)"
+    },
+    "hiFjDQ": {
+        "en-US": "Automatic Modification Module (Power Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força do Poder)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Poder)"
+    },
+    "hyFjDQ": {
+        "en-US": "Automatic Modification Module (Robust)",
+        "pt-BR": "Módulo de Modificação Automática (Robusto)",
+        "es-ES": "Módulo de Modificación Automática (Robusto)"
+    },
+    "iCFjDQ": {
+        "en-US": "Automatic Modification Module (Powerful)",
+        "pt-BR": "Módulo de Modificação Automática (Poderoso)",
+        "es-ES": "Módulo de Modificación Automática (Poderoso)"
+    },
+    "iSFjDQ": {
+        "en-US": "Automatic Modification Module (All Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Total)",
+        "es-ES": "Módulo de Modificación Automática (Toda la Fuerza)"
+    },
+    "iiFjDQ": {
+        "en-US": "Automatic Modification Module (Reflection Reject)",
+        "pt-BR": "Módulo de Modificação Automática (Rejeição de Reflexo)",
+        "es-ES": "Módulo de Modificación Automática (Rechazo de Reflejo)"
+    },
+    "iyFjDQ": {
+        "en-US": "Automatic Module (Dragonic Breath)",
+        "pt-BR": "Módulo Automático (Sopro Dragônico)",
+        "es-ES": "Módulo Automático (Aliento Dragónico)"
+    },
+    "jCFjDQ": {
+        "en-US": "Magical Soapstone",
+        "pt-BR": "Pedra-Sabão Mágica",
+        "es-ES": "Piedra de Jabón Mágica"
+    },
+    "jSFjDQ": {
+        "en-US": "Automatic Module (Wave Break)",
+        "pt-BR": "Módulo Automático (Quebra de Ondas)",
+        "es-ES": "Módulo Automático (Rompeolas)"
+    },
+    "jiFjDQ": {
+        "en-US": "Automatic Module (Hundred Spiral)",
+        "pt-BR": "Módulo Automático (Espiral Centena)",
+        "es-ES": "Módulo Automático (Cien Espirales)"
+    },
+    "jyFjDQ": {
+        "en-US": "Automatic Module (Drive Press)",
+        "pt-BR": "Módulo Automático (Pressão de Investida)",
+        "es-ES": "Módulo Automático (Presión de Impulso)"
+    },
+    "kCFjDQ": {
+        "en-US": "Automatic Module (Banishing Cannon)",
+        "pt-BR": "Módulo Automático (Canhão do Banimento)",
+        "es-ES": "Módulo Automático (Cañón de Destierro)"
+    },
+    "kSFjDQ": {
+        "en-US": "Automatic Module (Genesis Pressure)",
+        "pt-BR": "Módulo Automático (Pressão da Gênese)",
+        "es-ES": "Módulo Automático (Presión Génesis)"
+    },
+    "kiFjDQ": {
+        "en-US": "Automatic Module (Boost Cannon)",
+        "pt-BR": "Módulo Automático (Canhão de Impulso)",
+        "es-ES": "Módulo Automático (Cañón de Impulso)"
+    },
+    "kyFjDQ": {
+        "en-US": "Automatic Module (Cold Flare)",
+        "pt-BR": "Módulo Automático (Labareda Fria)",
+        "es-ES": "Módulo Automático (Llamarada Fría)"
+    },
+    "lCFjDQ": {
+        "en-US": "Automatic Module (Tornado Swing)",
+        "pt-BR": "Módulo Automático (Balanço do Tornado)",
+        "es-ES": "Módulo Automático (Tornado Swing)"
+    },
+    "lSFjDQ": {
+        "en-US": "Automatic Module (Cannon Tornado)",
+        "pt-BR": "Módulo Automático (Tornado de Canhão)",
+        "es-ES": "Módulo Automático (Tornado de Cañón)"
+    },
+    "liFjDQ": {
+        "en-US": "Automatic Module (Crazy Mandragora)",
+        "pt-BR": "Módulo Automático (Mandrágora Louca)",
+        "es-ES": "Módulo Automático (Mandrágora Loca)"
+    },
+    "lyFjDQ": {
+        "en-US": "Automatic Module (Acid Explosion)",
+        "pt-BR": "Módulo Automático (Explosão Ácida)",
+        "es-ES": "Módulo Automático (Explosión Ácida)"
+    },
+    "mCFjDQ": {
+        "en-US": "Automatic Module (Sonic Impact)",
+        "pt-BR": "Módulo Automático (Impacto Sônico)",
+        "es-ES": "Módulo Automático (Impacto Sónico)"
+    },
+    "mSFjDQ": {
+        "en-US": "Automatic Module (Cutter Slasher)",
+        "pt-BR": "Módulo Automático (Cortador)",
+        "es-ES": "Módulo Automático (Cuchillada Cortante)"
+    },
+    "miFjDQ": {
+        "en-US": "Automatic Module (Berserk Slash)",
+        "pt-BR": "Módulo Automático (Corte Furioso)",
+        "es-ES": "Módulo Automático (Corte Berserker)"
+    },
+    "myFjDQ": {
+        "en-US": "Automatic Module (Fatal Raid)",
+        "pt-BR": "Módulo Automático (Incursão Fatal)",
+        "es-ES": "Módulo Automático (Incursión Fatal)"
+    },
+    "nCFjDQ": {
+        "en-US": "Automatic Module (Shadow Spell)",
+        "pt-BR": "Módulo Automático (Feitiço das Sombras)",
+        "es-ES": "Módulo Automático (Hechizo Sombrío)"
+    },
+    "nSFjDQ": {
+        "en-US": "Automatic Module (Angle Shot)",
+        "pt-BR": "Módulo Automático (Tiro Angular)",
+        "es-ES": "Módulo Automático (Disparo Angular)"
+    },
+    "niFjDQ": {
+        "en-US": "Automatic Module (Crimson Strain)",
+        "pt-BR": "Módulo Automático (Tensão Carmesim)",
+        "es-ES": "Módulo Automático (Tensión Carmesí)"
+    },
+    "nyFjDQ": {
+        "en-US": "Automatic Module (Jack Lightning)",
+        "pt-BR": "Módulo Automático (Relâmpago do Jack)",
+        "es-ES": "Módulo Automático (Jack Lightning)"
+    },
+    "oCFjDQ": {
+        "en-US": "Automatic Module (Comet Vortex)",
+        "pt-BR": "Módulo Automático (Vórtice do Cometa)",
+        "es-ES": "Módulo Automático (Vórtice Cometa)"
+    },
+    "oSFjDQ": {
+        "en-US": "Automatic Module (Double Bolt)",
+        "pt-BR": "Módulo Automático (Raio Duplo)",
+        "es-ES": "Módulo Automático (Doble Rayo)"
+    },
+    "oiFjDQ": {
+        "en-US": "Automatic Module (Warm Wave)",
+        "pt-BR": "Módulo Automático (Onda Cálida)",
+        "es-ES": "Módulo Automático (Ola Cálida)"
+    },
+    "oyFjDQ": {
+        "en-US": "Automatic Module (Diamond Grave)",
+        "pt-BR": "Módulo Automático (Tumba de Diamante)",
+        "es-ES": "Módulo Automático (Tumba de Diamante)"
+    },
+    "pCFjDQ": {
+        "en-US": "Automatic Module (Magnusmus)",
+        "pt-BR": "Módulo Automático (Magnusmus)",
+        "es-ES": "Módulo Automático (Magnusmus)"
+    },
+    "pSFjDQ": {
+        "en-US": "Automatic Module (Holy Judex)",
+        "pt-BR": "Módulo Automático (Julgamento Sagrado)",
+        "es-ES": "Módulo Automático (Judex Sagrado)"
+    },
+    "piFjDQ": {
+        "en-US": "Automatic Module (Duple Lica)",
+        "pt-BR": "Módulo Automático (Dúplice Lica)",
+        "es-ES": "Módulo Automático (Duple Lica)"
+    },
+    "pyFjDQ": {
+        "en-US": "Automatic Module (Tiger Empire)",
+        "pt-BR": "Módulo Automático (Império do Tigre)",
+        "es-ES": "Módulo Automático (Imperio del Tigre)"
+    },
+    "qCFjDQ": {
+        "en-US": "Automatic Module (Rampage Arrow)",
+        "pt-BR": "Módulo Automático (Flecha da Destruição)",
+        "es-ES": "Módulo Automático (Flecha Alborotada)"
+    },
+    "qSFjDQ": {
+        "en-US": "Automatic Module (Raging Combo)",
+        "pt-BR": "Módulo Automático (Combo Furioso)",
+        "es-ES": "Módulo Automático (Combo Furioso)"
+    },
+    "qiFjDQ": {
+        "en-US": "Automatic Module (Cluster)",
+        "pt-BR": "Módulo Automático (Agrupamento)",
+        "es-ES": "Módulo Automático (Racimo)"
+    },
+    "qyFjDQ": {
+        "en-US": "Automatic Module (Breeze Shooting)",
+        "pt-BR": "Módulo Automático (Tiro com Brisa)",
+        "es-ES": "Módulo Automático (Disparo de Brisa)"
+    },
+    "rCFjDQ": {
+        "en-US": "Automatic Module (Aimed Storm)",
+        "pt-BR": "Módulo Automático (Tempestade Mira)",
+        "es-ES": "Módulo Automático (Tormenta Apuntada)"
+    },
+    "rSFjDQ": {
+        "en-US": "Automatic Module (Metal Echo)",
+        "pt-BR": "Módulo Automático (Eco Metálico)",
+        "es-ES": "Módulo Automático (Eco Metálico)"
+    },
+    "riFjDQ": {
+        "en-US": "Automatic Module (Reverberation)",
+        "pt-BR": "Módulo Automático (Reverberação)",
+        "es-ES": "Módulo Automático (Reverberación)"
+    },
+    "ryFjDQ": {
+        "en-US": "Automatic Module (Vulcan Severe)",
+        "pt-BR": "Módulo Automático (Vulcão Severo)",
+        "es-ES": "Módulo Automático (Vulcano Severo)"
+    },
+    "sCFjDQ": {
+        "en-US": "Automatic Module (Prominence Burst)",
+        "pt-BR": "Módulo Automático (Explosão de Proeminência)",
+        "es-ES": "Módulo Automático (Estallido de Prominencia)"
+    },
+    "sSFjDQ": {
+        "en-US": "Automatic Module (Moon Kick)",
+        "pt-BR": "Módulo Automático (Chute Lunar)",
+        "es-ES": "Módulo Automático (Patada Lunar)"
+    },
+    "siFjDQ": {
+        "en-US": "Automatic Module (Flash Falling)",
+        "pt-BR": "Módulo Automático (Queda Relâmpago)",
+        "es-ES": "Módulo Automático (Caída Relámpago)"
+    },
+    "syFjDQ": {
+        "en-US": "Automatic Module (Eswhoo)",
+        "pt-BR": "Módulo Automático (Eswhoo)",
+        "es-ES": "Módulo Automático (Eswhoo)"
+    },
+    "tCFjDQ": {
+        "en-US": "Automatic Module (Espa)",
+        "pt-BR": "Módulo Automático (Espa)",
+        "es-ES": "Módulo Automático (Espa)"
+    },
+    "tSFjDQ": {
+        "en-US": "Automatic Module (Curse Explosion)",
+        "pt-BR": "Módulo Automático (Explosão Amaldiçoada)",
+        "es-ES": "Módulo Automático (Explosión de Maldición)"
+    },
+    "tiFjDQ": {
+        "en-US": "Automatic Module (Des Hammer Dance)",
+        "pt-BR": "Módulo Automático (Dança do Martelo Des)",
+        "es-ES": "Módulo Automático (Danza del Martillo Des)"
+    },
+    "tyFjDQ": {
+        "en-US": "Automatic Module (Fire Howling Tail)",
+        "pt-BR": "Módulo Automático (Cauda Uivante de Fogo)",
+        "es-ES": "Módulo Automático (Cola Aullante de Fuego)"
+    },
+    "uCFjDQ": {
+        "en-US": "Automatic Module (Storm Buster Trip)",
+        "pt-BR": "Módulo Automático (Viagem do Destruidor de Tempestades)",
+        "es-ES": "Módulo Automático (Viaje Rompetormentas)"
+    },
+    "uSFjDQ": {
+        "en-US": "Automatic Module (Flame Ice Wind)",
+        "pt-BR": "Módulo Automático (Vento de Gelo em Chamas)",
+        "es-ES": "Módulo Automático (Viento de Hielo Llameante)"
+    },
+    "uiFjDQ": {
+        "en-US": "Automatic Module (Cross Slash)",
+        "pt-BR": "Módulo Automático (Corte Cruzado)",
+        "es-ES": "Módulo Automático (Corte Cruzado)"
+    },
+    "uyFjDQ": {
+        "en-US": "Automatic Module (Exploding Flake Wind)",
+        "pt-BR": "Módulo Automático (Vento de Flocos Explosivos)",
+        "es-ES": "Módulo Automático (Viento Explosivo de Copos)"
+    },
+    "vCFjDQ": {
+        "en-US": "Automatic Module (Power of Sea)",
+        "pt-BR": "Módulo Automático (Poder do Mar)",
+        "es-ES": "Módulo Automático (Poder del Mar)"
+    },
+    "vSFjDQ": {
+        "en-US": "Automatic Module (Power of Land)",
+        "pt-BR": "Módulo Automático (Poder da Terra)",
+        "es-ES": "Módulo Automático (Poder de la Tierra)"
+    },
+    "viFjDQ": {
+        "en-US": "Automatic Module (Power of Life)",
+        "pt-BR": "Módulo Automático (Poder da Vida)",
+        "es-ES": "Módulo Automático (Poder de la Vida)"
+    },
+    "vyFjDQ": {
+        "en-US": "Varmeal Ticket",
+        "pt-BR": "Vale Varmida",
+        "es-ES": "Vale Varmida"
+    },
+    "wCFjDQ": {
+        "en-US": "Fragment of Sin",
+        "pt-BR": "Cristal do Pecado",
+        "es-ES": "Cristal del Pecado"
+    },
+    "wSFjDQ": {
+        "en-US": "Fragment of Fate",
+        "pt-BR": "Cristal da Virtude",
+        "es-ES": "Cristal de la Virtud"
+    },
+    "wiFjDQ": {
+        "en-US": "Green Radiation (Battle Pass)",
+        "pt-BR": "Radiação Verde (Passe de Batalha)",
+        "es-ES": "Radiación Verde (Pase de Batalla)"
+    },
+    "wyFjDQ": {
+        "en-US": "Red Radiation (Battle Pass)",
+        "pt-BR": "Radiação Vermelha (Passe de Batalha)",
+        "es-ES": "Radiación Roja (Pase de Batalla)"
+    },
+    "xCFjDQ": {
+        "en-US": "Blue Radiation (Battle Pass)",
+        "pt-BR": "Radiação Azul (Passe de Batalha)",
+        "es-ES": "Radiación Azul (Pase de Batalla)"
+    },
+    "xSFjDQ": {
+        "en-US": "GC Wig Box",
+        "pt-BR": "Caixa de Peruca GC",
+        "es-ES": "Caja de Peluca GC"
+    },
+    "xiFjDQ": {
+        "en-US": "Mask of sin fate",
+        "pt-BR": "Máscara do Destino do Pecado",
+        "es-ES": "Máscara del Destino del Pecado"
+    },
+    "xyFjDQ": {
+        "en-US": "Automatic Modification Module (Defense)",
+        "pt-BR": "Módulo de Modificação Automática (Defesa)",
+        "es-ES": "Módulo de Modificación Automática (Defensa)"
+    },
+    "yCFjDQ": {
+        "en-US": "Varmeal Ticket",
+        "pt-BR": "Vale Varmida",
+        "es-ES": "Vale Varmida"
+    },
+    "ySFjDQ": {
+        "en-US": "Automatic Modification Module (Magic Defense)",
+        "pt-BR": "Módulo de Modificação Automática (Defesa Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Defensa Mágica)"
+    },
+    "yiFjDQ": {
+        "en-US": "Automatic Modification Module (Vit)",
+        "pt-BR": "Módulo de Modificação Automática (Vit)",
+        "es-ES": "Módulo de Modificación Automática (Vit)"
+    },
+    "yyFjDQ": {
+        "en-US": "Automatic Modification Module (Luk)",
+        "pt-BR": "Módulo de Modificação Automática (Sorte)",
+        "es-ES": "Módulo de Modificación Automática (Sue)"
+    },
+    "zCFjDQ": {
+        "en-US": "Automatic Modification Module (Str)",
+        "pt-BR": "Módulo de Modificação Automática (Força)",
+        "es-ES": "Módulo de Modificación Automática (Fue)"
+    },
+    "zSFjDQ": {
+        "en-US": "Automatic Modification Module (Agi)",
+        "pt-BR": "Módulo de Modificação Automática (Agilidade)",
+        "es-ES": "Módulo de Modificación Automática (Agi)"
+    },
+    "ziFjDQ": {
+        "en-US": "Automatic Modification Module (Int)",
+        "pt-BR": "Módulo de Modificação Automática (Inteligência)",
+        "es-ES": "Módulo de Modificación Automática (Int)"
+    },
+    "zyFjDQ": {
+        "en-US": "Automatic Modification Module (Dex)",
+        "pt-BR": "Módulo de Modificação Automática (Destreza)",
+        "es-ES": "Módulo de Modificación Automática (Des)"
+    },
+    "0CFjDQ": {
+        "en-US": "Automatic Modification Module (HP Recovery)",
+        "pt-BR": "Módulo de Modificação Automática (Recuperação de HP)",
+        "es-ES": "Módulo de Modificación Automática (Recuperación de HP)"
+    },
+    "0SFjDQ": {
+        "en-US": "Automatic Modification Module (SP Recovery)",
+        "pt-BR": "Módulo de Modificação Automática (Recuperação de SP)",
+        "es-ES": "Módulo de Modificación Automática (Recuperación de SP)"
+    },
+    "0iFjDQ": {
+        "en-US": "Automatic Modification Module (Spell)",
+        "pt-BR": "Módulo de Modificação Automática (Magia)",
+        "es-ES": "Módulo de Modificación Automática (Hechizo)"
+    },
+    "0yFjDQ": {
+        "en-US": "Automatic Modification Module (Attack Speed)",
+        "pt-BR": "Módulo de Modificação Automática (Velocidade de Ataque)",
+        "es-ES": "Módulo de Modificación Automática (Velocidad de Ataque)"
+    },
+    "1CFjDQ": {
+        "en-US": "Automatic Modification Module (Fatal)",
+        "pt-BR": "Módulo de Modificação Automática (Fatal)",
+        "es-ES": "Módulo de Modificación Automática (Fatal)"
+    },
+    "1SFjDQ": {
+        "en-US": "Automatic Modification Module (Expert Archer)",
+        "pt-BR": "Módulo de Modificação Automática (Arqueiro Perito)",
+        "es-ES": "Módulo de Modificación Automática (Arquero Experto)"
+    },
+    "1iFjDQ": {
+        "en-US": "Automatic Modification Module (Health)",
+        "pt-BR": "Módulo de Modificação Automática (Vitalidade)",
+        "es-ES": "Módulo de Modificación Automática (Salud)"
+    },
+    "1yFjDQ": {
+        "en-US": "Automatic Modification Module (SPR)",
+        "pt-BR": "Módulo de Modificação Automática (SPR)",
+        "es-ES": "Módulo de Modificación Automática (SPR)"
+    },
+    "2CFjDQ": {
+        "en-US": "Automatic Modification Module (Heal)",
+        "pt-BR": "Módulo de Modificação Automática (Cura)",
+        "es-ES": "Módulo de Modificación Automática (Cura)"
+    },
+    "2SFjDQ": {
+        "en-US": "Automatic Modification Module (ATK)",
+        "pt-BR": "Módulo de Modificação Automática (ATK)",
+        "es-ES": "Módulo de Modificación Automática (ATK)"
+    },
+    "2iFjDQ": {
+        "en-US": "Automatic Modification Module (MATK)",
+        "pt-BR": "Módulo de Modificação Automática (MATK)",
+        "es-ES": "Módulo de Modificación Automática (MATK)"
+    },
+    "2yFjDQ": {
+        "en-US": "Automatic Modification Module (Sharpshooter)",
+        "pt-BR": "Módulo de Modificação Automática (Atirador de Elite)",
+        "es-ES": "Módulo de Modificación Automática (Tirador Certero)"
+    },
+    "3CFjDQ": {
+        "en-US": "Automatic Modification Module (Fast)",
+        "pt-BR": "Módulo de Modificação Automática (Rápido)",
+        "es-ES": "Módulo de Modificación Automática (Rápido)"
+    },
+    "3SFjDQ": {
+        "en-US": "Automatic Modification Module (Caster)",
+        "pt-BR": "Módulo de Modificação Automática (Conjurador)",
+        "es-ES": "Módulo de Modificación Automática (Lanzador)"
+    },
+    "3iFjDQ": {
+        "en-US": "Automatic Modification Module (Critical)",
+        "pt-BR": "Módulo de Modificação Automática (Crítico)",
+        "es-ES": "Módulo de Modificación Automática (Crítico)"
+    },
+    "3yFjDQ": {
+        "en-US": "Automatic Modification Module (Magical Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza Mágica)"
+    },
+    "4CFjDQ": {
+        "en-US": "Automatic Modification Module (Attacker Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força do Atacante)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza del Atacante)"
+    },
+    "4SFjDQ": {
+        "en-US": "Automatic Modification Module (Range Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força de Longo Alcance)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Rango)"
+    },
+    "4iFjDQ": {
+        "en-US": "Automatic Modification Module (Critical Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Crítica)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza Crítica)"
+    },
+    "4yFjDQ": {
+        "en-US": "Automatic Modification Module (Recovery Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força de Recuperação)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Recuperación)"
+    },
+    "5CFjDQ": {
+        "en-US": "Automatic Modification Module (Mirror Counter)",
+        "pt-BR": "Módulo de Modificação Automática (Contra-Espelho)",
+        "es-ES": "Módulo de Modificación Automática (Contraataque Espejo)"
+    },
+    "5SFjDQ": {
+        "en-US": "Automatic Modification Module (Global Cooldown)",
+        "pt-BR": "Módulo de Modificação Automática (Tempo de Recarga Global)",
+        "es-ES": "Módulo de Modificación Automática (Enfriamiento Global)"
+    },
+    "5iFjDQ": {
+        "en-US": "Automatic Modification Module (Fixed Casting)",
+        "pt-BR": "Módulo de Modificação Automática (Conjuração Fixa)",
+        "es-ES": "Módulo de Modificación Automática (Conjuración Fija)"
+    },
+    "5yFjDQ": {
+        "en-US": "Automatic Modification Module (Above All)",
+        "pt-BR": "Módulo de Modificação Automática (Acima de Tudo)",
+        "es-ES": "Módulo de Modificación Automática (Por Encima de Todo)"
+    },
+    "6CFjDQ": {
+        "en-US": "Automatic Modification Module (Drain Life)",
+        "pt-BR": "Módulo de Modificação Automática (Drenar Vida)",
+        "es-ES": "Módulo de Modificación Automática (Drenar Vida)"
+    },
+    "6SFjDQ": {
+        "en-US": "Automatic Modification Module (Drain Soul)",
+        "pt-BR": "Módulo de Modificação Automática (Drenar Alma)",
+        "es-ES": "Módulo de Modificación Automática (Drenar Alma)"
+    },
+    "6iFjDQ": {
+        "en-US": "Automatic Modification Module (Magic Healing)",
+        "pt-BR": "Módulo de Modificação Automática (Cura Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Curación Mágica)"
+    },
+    "6yFjDQ": {
+        "en-US": "Automatic Modification Module (Magic Soul)",
+        "pt-BR": "Módulo de Modificação Automática (Alma Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Alma Mágica)"
+    },
+    "7CFjDQ": {
+        "en-US": "Automatic Modification Module (Power Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força do Poder)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Poder)"
+    },
+    "7SFjDQ": {
+        "en-US": "Automatic Modification Module (Robust)",
+        "pt-BR": "Módulo de Modificação Automática (Robusto)",
+        "es-ES": "Módulo de Modificación Automática (Robusto)"
+    },
+    "7iFjDQ": {
+        "en-US": "Automatic Modification Module (Powerful)",
+        "pt-BR": "Módulo de Modificação Automática (Poderoso)",
+        "es-ES": "Módulo de Modificación Automática (Poderoso)"
+    },
+    "7yFjDQ": {
+        "en-US": "Automatic Modification Module (All Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Total)",
+        "es-ES": "Módulo de Modificación Automática (Toda la Fuerza)"
+    },
+    "8CFjDQ": {
+        "en-US": "Automatic Modification Module (Reflection Reject)",
+        "pt-BR": "Módulo de Modificação Automática (Rejeição de Reflexo)",
+        "es-ES": "Módulo de Modificación Automática (Rechazo de Reflejo)"
+    },
+    "8SFjDQ": {
+        "en-US": "Automatic Module (Dragonic Breath)",
+        "pt-BR": "Módulo Automático (Sopro Dragônico)",
+        "es-ES": "Módulo Automático (Aliento Dragónico)"
+    },
+    "8iFjDQ": {
+        "en-US": "Magical Soapstone",
+        "pt-BR": "Pedra-Sabão Mágica",
+        "es-ES": "Piedra de Jabón Mágica"
+    },
+    "8yFjDQ": {
+        "en-US": "Automatic Module (Wave Break)",
+        "pt-BR": "Módulo Automático (Quebra de Ondas)",
+        "es-ES": "Módulo Automático (Rompeolas)"
+    },
+    "9CFjDQ": {
+        "en-US": "Automatic Module (Hundred Spiral)",
+        "pt-BR": "Módulo Automático (Espiral Centena)",
+        "es-ES": "Módulo Automático (Cien Espirales)"
+    },
+    "9SFjDQ": {
+        "en-US": "Automatic Module (Drive Press)",
+        "pt-BR": "Módulo Automático (Pressão de Investida)",
+        "es-ES": "Módulo Automático (Presión de Impulso)"
+    },
+    "9iFjDQ": {
+        "en-US": "Automatic Module (Banishing Cannon)",
+        "pt-BR": "Módulo Automático (Canhão do Banimento)",
+        "es-ES": "Módulo Automático (Cañón de Destierro)"
+    },
+    "9yFjDQ": {
+        "en-US": "Automatic Module (Genesis Pressure)",
+        "pt-BR": "Módulo Automático (Pressão da Gênese)",
+        "es-ES": "Módulo Automático (Presión Génesis)"
+    },
+    "+CFjDQ": {
+        "en-US": "Automatic Module (Boost Cannon)",
+        "pt-BR": "Módulo Automático (Canhão de Impulso)",
+        "es-ES": "Módulo Automático (Cañón de Impulso)"
+    },
+    "+SFjDQ": {
+        "en-US": "Automatic Module (Cold Flare)",
+        "pt-BR": "Módulo Automático (Labareda Fria)",
+        "es-ES": "Módulo Automático (Llamarada Fría)"
+    },
+    "+iFjDQ": {
+        "en-US": "Automatic Module (Tornado Swing)",
+        "pt-BR": "Módulo Automático (Balanço do Tornado)",
+        "es-ES": "Módulo Automático (Tornado Swing)"
+    },
+    "+yFjDQ": {
+        "en-US": "Automatic Module (Cannon Tornado)",
+        "pt-BR": "Módulo Automático (Tornado de Canhão)",
+        "es-ES": "Módulo Automático (Tornado de Cañón)"
+    },
+    "/CFjDQ": {
+        "en-US": "Automatic Module (Crazy Mandragora)",
+        "pt-BR": "Módulo Automático (Mandrágora Louca)",
+        "es-ES": "Módulo Automático (Mandrágora Loca)"
+    },
+    "/SFjDQ": {
+        "en-US": "Automatic Module (Acid Explosion)",
+        "pt-BR": "Módulo Automático (Explosão Ácida)",
+        "es-ES": "Módulo Automático (Explosión Ácida)"
+    },
+    "/iFjDQ": {
+        "en-US": "Automatic Module (Sonic Impact)",
+        "pt-BR": "Módulo Automático (Impacto Sônico)",
+        "es-ES": "Módulo Automático (Impacto Sónico)"
+    },
+    "/yFjDQ": {
+        "en-US": "Automatic Module (Cutter Slasher)",
+        "pt-BR": "Módulo Automático (Cortador)",
+        "es-ES": "Módulo Automático (Cuchillada Cortante)"
+    },
+    "ACJjDQ": {
+        "en-US": "Automatic Module (Berserk Slash)",
+        "pt-BR": "Módulo Automático (Corte Furioso)",
+        "es-ES": "Módulo Automático (Corte Berserker)"
+    },
+    "ASJjDQ": {
+        "en-US": "Automatic Module (Fatal Raid)",
+        "pt-BR": "Módulo Automático (Incursão Fatal)",
+        "es-ES": "Módulo Automático (Incursión Fatal)"
+    },
+    "AiJjDQ": {
+        "en-US": "Automatic Module (Shadow Spell)",
+        "pt-BR": "Módulo Automático (Feitiço das Sombras)",
+        "es-ES": "Módulo Automático (Hechizo Sombrío)"
+    },
+    "AyJjDQ": {
+        "en-US": "Automatic Module (Angle Shot)",
+        "pt-BR": "Módulo Automático (Tiro Angular)",
+        "es-ES": "Módulo Automático (Disparo Angular)"
+    },
+    "BCJjDQ": {
+        "en-US": "Automatic Module (Crimson Strain)",
+        "pt-BR": "Módulo Automático (Tensão Carmesim)",
+        "es-ES": "Módulo Automático (Tensión Carmesí)"
+    },
+    "BSJjDQ": {
+        "en-US": "Automatic Module (Jack Lightning)",
+        "pt-BR": "Módulo Automático (Relâmpago do Jack)",
+        "es-ES": "Módulo Automático (Jack Lightning)"
+    },
+    "BiJjDQ": {
+        "en-US": "Automatic Module (Comet Vortex)",
+        "pt-BR": "Módulo Automático (Vórtice do Cometa)",
+        "es-ES": "Módulo Automático (Vórtice Cometa)"
+    },
+    "ByJjDQ": {
+        "en-US": "Automatic Module (Double Bolt)",
+        "pt-BR": "Módulo Automático (Raio Duplo)",
+        "es-ES": "Módulo Automático (Doble Rayo)"
+    },
+    "CCJjDQ": {
+        "en-US": "Automatic Module (Warm Wave)",
+        "pt-BR": "Módulo Automático (Onda Cálida)",
+        "es-ES": "Módulo Automático (Ola Cálida)"
+    },
+    "CSJjDQ": {
+        "en-US": "Automatic Module (Diamond Grave)",
+        "pt-BR": "Módulo Automático (Tumba de Diamante)",
+        "es-ES": "Módulo Automático (Tumba de Diamante)"
+    },
+    "CiJjDQ": {
+        "en-US": "Automatic Module (Magnusmus)",
+        "pt-BR": "Módulo Automático (Magnusmus)",
+        "es-ES": "Módulo Automático (Magnusmus)"
+    },
+    "CyJjDQ": {
+        "en-US": "Automatic Module (Holy Judex)",
+        "pt-BR": "Módulo Automático (Julgamento Sagrado)",
+        "es-ES": "Módulo Automático (Judex Sagrado)"
+    },
+    "DCJjDQ": {
+        "en-US": "Automatic Module (Duple Lica)",
+        "pt-BR": "Módulo Automático (Dúplice Lica)",
+        "es-ES": "Módulo Automático (Duple Lica)"
+    },
+    "DSJjDQ": {
+        "en-US": "Automatic Module (Tiger Empire)",
+        "pt-BR": "Módulo Automático (Império do Tigre)",
+        "es-ES": "Módulo Automático (Imperio del Tigre)"
+    },
+    "DiJjDQ": {
+        "en-US": "Automatic Module (Rampage Arrow)",
+        "pt-BR": "Módulo Automático (Flecha da Destruição)",
+        "es-ES": "Módulo Automático (Flecha Alborotada)"
+    },
+    "DyJjDQ": {
+        "en-US": "Automatic Module (Raging Combo)",
+        "pt-BR": "Módulo Automático (Combo Furioso)",
+        "es-ES": "Módulo Automático (Combo Furioso)"
+    },
+    "ECJjDQ": {
+        "en-US": "Automatic Module (Cluster)",
+        "pt-BR": "Módulo Automático (Agrupamento)",
+        "es-ES": "Módulo Automático (Racimo)"
+    },
+    "ESJjDQ": {
+        "en-US": "Automatic Module (Breeze Shooting)",
+        "pt-BR": "Módulo Automático (Tiro com Brisa)",
+        "es-ES": "Módulo Automático (Disparo de Brisa)"
+    },
+    "EiJjDQ": {
+        "en-US": "Automatic Module (Aimed Storm)",
+        "pt-BR": "Módulo Automático (Tempestade Mira)",
+        "es-ES": "Módulo Automático (Tormenta Apuntada)"
+    },
+    "EyJjDQ": {
+        "en-US": "Automatic Module (Metal Echo)",
+        "pt-BR": "Módulo Automático (Eco Metálico)",
+        "es-ES": "Módulo Automático (Eco Metálico)"
+    },
+    "FCJjDQ": {
+        "en-US": "Automatic Module (Reverberation)",
+        "pt-BR": "Módulo Automático (Reverberação)",
+        "es-ES": "Módulo Automático (Reverberación)"
+    },
+    "FSJjDQ": {
+        "en-US": "Automatic Module (Vulcan Severe)",
+        "pt-BR": "Módulo Automático (Vulcão Severo)",
+        "es-ES": "Módulo Automático (Vulcano Severo)"
+    },
+    "FiJjDQ": {
+        "en-US": "Automatic Module (Prominence Burst)",
+        "pt-BR": "Módulo Automático (Explosão de Proeminência)",
+        "es-ES": "Módulo Automático (Estallido de Prominencia)"
+    },
+    "FyJjDQ": {
+        "en-US": "Automatic Module (Moon Kick)",
+        "pt-BR": "Módulo Automático (Chute Lunar)",
+        "es-ES": "Módulo Automático (Patada Lunar)"
+    },
+    "GCJjDQ": {
+        "en-US": "Automatic Module (Flash Falling)",
+        "pt-BR": "Módulo Automático (Queda Relâmpago)",
+        "es-ES": "Módulo Automático (Caída Relámpago)"
+    },
+    "GSJjDQ": {
+        "en-US": "Automatic Module (Eswhoo)",
+        "pt-BR": "Módulo Automático (Eswhoo)",
+        "es-ES": "Módulo Automático (Eswhoo)"
+    },
+    "GiJjDQ": {
+        "en-US": "Automatic Module (Espa)",
+        "pt-BR": "Módulo Automático (Espa)",
+        "es-ES": "Módulo Automático (Espa)"
+    },
+    "GyJjDQ": {
+        "en-US": "Automatic Module (Curse Explosion)",
+        "pt-BR": "Módulo Automático (Explosão Amaldiçoada)",
+        "es-ES": "Módulo Automático (Explosión de Maldición)"
+    },
+    "HCJjDQ": {
+        "en-US": "Automatic Module (Des Hammer Dance)",
+        "pt-BR": "Módulo Automático (Dança do Martelo Des)",
+        "es-ES": "Módulo Automático (Danza del Martillo Des)"
+    },
+    "HSJjDQ": {
+        "en-US": "Automatic Module (Fire Howling Tail)",
+        "pt-BR": "Módulo Automático (Cauda Uivante de Fogo)",
+        "es-ES": "Módulo Automático (Cola Aullante de Fuego)"
+    },
+    "HiJjDQ": {
+        "en-US": "Automatic Module (Storm Buster Trip)",
+        "pt-BR": "Módulo Automático (Viagem do Destruidor de Tempestades)",
+        "es-ES": "Módulo Automático (Viaje Rompetormentas)"
+    },
+    "HyJjDQ": {
+        "en-US": "Automatic Module (Flame Ice Wind)",
+        "pt-BR": "Módulo Automático (Vento de Gelo em Chamas)",
+        "es-ES": "Módulo Automático (Viento de Hielo Llameante)"
+    },
+    "ICJjDQ": {
+        "en-US": "Automatic Module (Cross Slash)",
+        "pt-BR": "Módulo Automático (Corte Cruzado)",
+        "es-ES": "Módulo Automático (Corte Cruzado)"
+    },
+    "ISJjDQ": {
+        "en-US": "Automatic Module (Exploding Flake Wind)",
+        "pt-BR": "Módulo Automático (Vento de Flocos Explosivos)",
+        "es-ES": "Módulo Automático (Viento Explosivo de Copos)"
+    },
+    "IiJjDQ": {
+        "en-US": "Automatic Module (Power of Sea)",
+        "pt-BR": "Módulo Automático (Poder do Mar)",
+        "es-ES": "Módulo Automático (Poder del Mar)"
+    },
+    "IyJjDQ": {
+        "en-US": "Automatic Module (Power of Land)",
+        "pt-BR": "Módulo Automático (Poder da Terra)",
+        "es-ES": "Módulo Automático (Poder de la Tierra)"
+    },
+    "JCJjDQ": {
+        "en-US": "Automatic Module (Power of Life)",
+        "pt-BR": "Módulo Automático (Poder da Vida)",
+        "es-ES": "Módulo Automático (Poder de la Vida)"
+    },
+    "JSJjDQ": {
+        "en-US": "Varmeal Ticket",
+        "pt-BR": "Vale Varmida",
+        "es-ES": "Vale Varmida"
+    },
+    "JiJjDQ": {
+        "en-US": "Fragment of Sin",
+        "pt-BR": "Cristal do Pecado",
+        "es-ES": "Cristal del Pecado"
+    },
+    "JyJjDQ": {
+        "en-US": "Fragment of Fate",
+        "pt-BR": "Cristal da Virtude",
+        "es-ES": "Cristal de la Virtud"
+    },
+    "KCJjDQ": {
+        "en-US": "Green Radiation (Battle Pass)",
+        "pt-BR": "Radiação Verde (Passe de Batalha)",
+        "es-ES": "Radiación Verde (Pase de Batalla)"
+    },
+    "KSJjDQ": {
+        "en-US": "Red Radiation (Battle Pass)",
+        "pt-BR": "Radiação Vermelha (Passe de Batalha)",
+        "es-ES": "Radiación Roja (Pase de Batalla)"
+    },
+    "KiJjDQ": {
+        "en-US": "Blue Radiation (Battle Pass)",
+        "pt-BR": "Radiação Azul (Passe de Batalha)",
+        "es-ES": "Radiación Azul (Pase de Batalla)"
+    },
+    "KyJjDQ": {
+        "en-US": "GC Wig Box",
+        "pt-BR": "Caixa de Peruca GC",
+        "es-ES": "Caja de Peluca GC"
+    },
+    "LCJjDQ": {
+        "en-US": "Mask of sin fate",
+        "pt-BR": "Máscara do Destino do Pecado",
+        "es-ES": "Máscara del Destino del Pecado"
+    },
+    "LSJjDQ": {
+        "en-US": "Automatic Modification Module (Defense)",
+        "pt-BR": "Módulo de Modificação Automática (Defesa)",
+        "es-ES": "Módulo de Modificación Automática (Defensa)"
+    },
+    "LiJjDQ": {
+        "en-US": "Varmeal Ticket",
+        "pt-BR": "Vale Varmida",
+        "es-ES": "Vale Varmida"
+    },
+    "LyJjDQ": {
+        "en-US": "Automatic Modification Module (Magic Defense)",
+        "pt-BR": "Módulo de Modificação Automática (Defesa Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Defensa Mágica)"
+    },
+    "MCJjDQ": {
+        "en-US": "Automatic Modification Module (Vit)",
+        "pt-BR": "Módulo de Modificação Automática (Vit)",
+        "es-ES": "Módulo de Modificación Automática (Vit)"
+    },
+    "MSJjDQ": {
+        "en-US": "Automatic Modification Module (Luk)",
+        "pt-BR": "Módulo de Modificação Automática (Sorte)",
+        "es-ES": "Módulo de Modificación Automática (Sue)"
+    },
+    "MiJjDQ": {
+        "en-US": "Automatic Modification Module (Str)",
+        "pt-BR": "Módulo de Modificação Automática (Força)",
+        "es-ES": "Módulo de Modificación Automática (Fue)"
+    },
+    "MyJjDQ": {
+        "en-US": "Automatic Modification Module (Agi)",
+        "pt-BR": "Módulo de Modificação Automática (Agilidade)",
+        "es-ES": "Módulo de Modificación Automática (Agi)"
+    },
+    "NCJjDQ": {
+        "en-US": "Automatic Modification Module (Int)",
+        "pt-BR": "Módulo de Modificação Automática (Inteligência)",
+        "es-ES": "Módulo de Modificación Automática (Int)"
+    },
+    "NSJjDQ": {
+        "en-US": "Automatic Modification Module (Dex)",
+        "pt-BR": "Módulo de Modificação Automática (Destreza)",
+        "es-ES": "Módulo de Modificación Automática (Des)"
+    },
+    "NiJjDQ": {
+        "en-US": "Automatic Modification Module (HP Recovery)",
+        "pt-BR": "Módulo de Modificação Automática (Recuperação de HP)",
+        "es-ES": "Módulo de Modificación Automática (Recuperación de HP)"
+    },
+    "NyJjDQ": {
+        "en-US": "Automatic Modification Module (SP Recovery)",
+        "pt-BR": "Módulo de Modificação Automática (Recuperação de SP)",
+        "es-ES": "Módulo de Modificación Automática (Recuperación de SP)"
+    },
+    "OCJjDQ": {
+        "en-US": "Automatic Modification Module (Spell)",
+        "pt-BR": "Módulo de Modificação Automática (Magia)",
+        "es-ES": "Módulo de Modificación Automática (Hechizo)"
+    },
+    "OSJjDQ": {
+        "en-US": "Automatic Modification Module (Attack Speed)",
+        "pt-BR": "Módulo de Modificação Automática (Velocidade de Ataque)",
+        "es-ES": "Módulo de Modificación Automática (Velocidad de Ataque)"
+    },
+    "OiJjDQ": {
+        "en-US": "Automatic Modification Module (Fatal)",
+        "pt-BR": "Módulo de Modificação Automática (Fatal)",
+        "es-ES": "Módulo de Modificación Automática (Fatal)"
+    },
+    "OyJjDQ": {
+        "en-US": "Automatic Modification Module (Expert Archer)",
+        "pt-BR": "Módulo de Modificação Automática (Arqueiro Perito)",
+        "es-ES": "Módulo de Modificación Automática (Arquero Experto)"
+    },
+    "PCJjDQ": {
+        "en-US": "Automatic Modification Module (Health)",
+        "pt-BR": "Módulo de Modificação Automática (Vitalidade)",
+        "es-ES": "Módulo de Modificación Automática (Salud)"
+    },
+    "PSJjDQ": {
+        "en-US": "Automatic Modification Module (SPR)",
+        "pt-BR": "Módulo de Modificação Automática (SPR)",
+        "es-ES": "Módulo de Modificación Automática (SPR)"
+    },
+    "PiJjDQ": {
+        "en-US": "Automatic Modification Module (Heal)",
+        "pt-BR": "Módulo de Modificação Automática (Cura)",
+        "es-ES": "Módulo de Modificación Automática (Cura)"
+    },
+    "PyJjDQ": {
+        "en-US": "Automatic Modification Module (ATK)",
+        "pt-BR": "Módulo de Modificação Automática (ATK)",
+        "es-ES": "Módulo de Modificación Automática (ATK)"
+    },
+    "QCJjDQ": {
+        "en-US": "Automatic Modification Module (MATK)",
+        "pt-BR": "Módulo de Modificação Automática (MATK)",
+        "es-ES": "Módulo de Modificación Automática (MATK)"
+    },
+    "QSJjDQ": {
+        "en-US": "Automatic Modification Module (Sharpshooter)",
+        "pt-BR": "Módulo de Modificação Automática (Atirador de Elite)",
+        "es-ES": "Módulo de Modificación Automática (Tirador Certero)"
+    },
+    "QiJjDQ": {
+        "en-US": "Automatic Modification Module (Fast)",
+        "pt-BR": "Módulo de Modificação Automática (Rápido)",
+        "es-ES": "Módulo de Modificación Automática (Rápido)"
+    },
+    "QyJjDQ": {
+        "en-US": "Automatic Modification Module (Caster)",
+        "pt-BR": "Módulo de Modificação Automática (Conjurador)",
+        "es-ES": "Módulo de Modificación Automática (Lanzador)"
+    },
+    "RCJjDQ": {
+        "en-US": "Automatic Modification Module (Critical)",
+        "pt-BR": "Módulo de Modificação Automática (Crítico)",
+        "es-ES": "Módulo de Modificación Automática (Crítico)"
+    },
+    "RSJjDQ": {
+        "en-US": "Automatic Modification Module (Magical Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza Mágica)"
+    },
+    "RiJjDQ": {
+        "en-US": "Automatic Modification Module (Attacker Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força do Atacante)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza del Atacante)"
+    },
+    "RyJjDQ": {
+        "en-US": "Automatic Modification Module (Range Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força de Longo Alcance)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Rango)"
+    },
+    "SCJjDQ": {
+        "en-US": "Automatic Modification Module (Critical Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Crítica)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza Crítica)"
+    },
+    "SSJjDQ": {
+        "en-US": "Automatic Modification Module (Recovery Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força de Recuperação)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Recuperación)"
+    },
+    "SiJjDQ": {
+        "en-US": "Automatic Modification Module (Mirror Counter)",
+        "pt-BR": "Módulo de Modificação Automática (Contra-Espelho)",
+        "es-ES": "Módulo de Modificación Automática (Contraataque Espejo)"
+    },
+    "SyJjDQ": {
+        "en-US": "Automatic Modification Module (Global Cooldown)",
+        "pt-BR": "Módulo de Modificação Automática (Tempo de Recarga Global)",
+        "es-ES": "Módulo de Modificación Automática (Enfriamiento Global)"
+    },
+    "TCJjDQ": {
+        "en-US": "Automatic Modification Module (Fixed Casting)",
+        "pt-BR": "Módulo de Modificação Automática (Conjuração Fixa)",
+        "es-ES": "Módulo de Modificación Automática (Conjuración Fija)"
+    },
+    "TSJjDQ": {
+        "en-US": "Automatic Modification Module (Above All)",
+        "pt-BR": "Módulo de Modificação Automática (Acima de Tudo)",
+        "es-ES": "Módulo de Modificación Automática (Por Encima de Todo)"
+    },
+    "TiJjDQ": {
+        "en-US": "Automatic Modification Module (Drain Life)",
+        "pt-BR": "Módulo de Modificação Automática (Drenar Vida)",
+        "es-ES": "Módulo de Modificación Automática (Drenar Vida)"
+    },
+    "TyJjDQ": {
+        "en-US": "Automatic Modification Module (Drain Soul)",
+        "pt-BR": "Módulo de Modificação Automática (Drenar Alma)",
+        "es-ES": "Módulo de Modificación Automática (Drenar Alma)"
+    },
+    "UCJjDQ": {
+        "en-US": "Automatic Modification Module (Magic Healing)",
+        "pt-BR": "Módulo de Modificação Automática (Cura Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Curación Mágica)"
+    },
+    "USJjDQ": {
+        "en-US": "Automatic Modification Module (Magic Soul)",
+        "pt-BR": "Módulo de Modificação Automática (Alma Mágica)",
+        "es-ES": "Módulo de Modificación Automática (Alma Mágica)"
+    },
+    "UiJjDQ": {
+        "en-US": "Automatic Modification Module (Power Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força do Poder)",
+        "es-ES": "Módulo de Modificación Automática (Fuerza de Poder)"
+    },
+    "UyJjDQ": {
+        "en-US": "Automatic Modification Module (Robust)",
+        "pt-BR": "Módulo de Modificação Automática (Robusto)",
+        "es-ES": "Módulo de Modificación Automática (Robusto)"
+    },
+    "VCJjDQ": {
+        "en-US": "Automatic Modification Module (Powerful)",
+        "pt-BR": "Módulo de Modificação Automática (Poderoso)",
+        "es-ES": "Módulo de Modificación Automática (Poderoso)"
+    },
+    "VSJjDQ": {
+        "en-US": "Automatic Modification Module (All Force)",
+        "pt-BR": "Módulo de Modificação Automática (Força Total)",
+        "es-ES": "Módulo de Modificación Automática (Toda la Fuerza)"
+    },
+    "ViJjDQ": {
+        "en-US": "Automatic Modification Module (Reflection Reject)",
+        "pt-BR": "Módulo de Modificação Automática (Rejeição de Reflexo)",
+        "es-ES": "Módulo de Modificación Automática (Rechazo de Reflejo)"
+    },
+    "VyJjDQ": {
+        "en-US": "Automatic Module (Dragonic Breath)",
+        "pt-BR": "Módulo Automático (Sopro Dragônico)",
+        "es-ES": "Módulo Automático (Aliento Dragónico)"
+    },
+    "WCJjDQ": {
+        "en-US": "Magical Soapstone",
+        "pt-BR": "Pedra-Sabão Mágica",
+        "es-ES": "Piedra de Jabón Mágica"
+    },
+    "WSJjDQ": {
+        "en-US": "Automatic Module (Wave Break)",
+        "pt-BR": "Módulo Automático (Quebra de Ondas)",
+        "es-ES": "Módulo Automático (Rompeolas)"
+    },
+    "WiJjDQ": {
+        "en-US": "Automatic Module (Hundred Spiral)",
+        "pt-BR": "Módulo Automático (Espiral Centena)",
+        "es-ES": "Módulo Automático (Cien Espirales)"
+    },
+    "WyJjDQ": {
+        "en-US": "Automatic Module (Drive Press)",
+        "pt-BR": "Módulo Automático (Pressão de Investida)",
+        "es-ES": "Módulo Automático (Presión de Impulso)"
+    },
+    "XCJjDQ": {
+        "en-US": "Automatic Module (Banishing Cannon)",
+        "pt-BR": "Módulo Automático (Canhão do Banimento)",
+        "es-ES": "Módulo Automático (Cañón de Destierro)"
+    },
+    "XSJjDQ": {
+        "en-US": "Automatic Module (Genesis Pressure)",
+        "pt-BR": "Módulo Automático (Pressão da Gênese)",
+        "es-ES": "Módulo Automático (Presión Génesis)"
+    },
+    "XiJjDQ": {
+        "en-US": "Automatic Module (Boost Cannon)",
+        "pt-BR": "Módulo Automático (Canhão de Impulso)",
+        "es-ES": "Módulo Automático (Cañón de Impulso)"
+    },
+    "XyJjDQ": {
+        "en-US": "Automatic Module (Cold Flare)",
+        "pt-BR": "Módulo Automático (Labareda Fria)",
+        "es-ES": "Módulo Automático (Llamarada Fría)"
+    },
+    "YCJjDQ": {
+        "en-US": "Automatic Module (Tornado Swing)",
+        "pt-BR": "Módulo Automático (Balanço do Tornado)",
+        "es-ES": "Módulo Automático (Tornado Swing)"
+    },
+    "YSJjDQ": {
+        "en-US": "Automatic Module (Cannon Tornado)",
+        "pt-BR": "Módulo Automático (Tornado de Canhão)",
+        "es-ES": "Módulo Automático (Tornado de Cañón)"
+    },
+    "YiJjDQ": {
+        "en-US": "Automatic Module (Crazy Mandragora)",
+        "pt-BR": "Módulo Automático (Mandrágora Louca)",
+        "es-ES": "Módulo Automático (Mandrágora Loca)"
+    },
+    "YyJjDQ": {
+        "en-US": "Automatic Module (Acid Explosion)",
+        "pt-BR": "Módulo Automático (Explosão Ácida)",
+        "es-ES": "Módulo Automático (Explosión Ácida)"
+    },
+    "ZCJjDQ": {
+        "en-US": "Automatic Module (Sonic Impact)",
+        "pt-BR": "Módulo Automático (Impacto Sônico)",
+        "es-ES": "Módulo Automático (Impacto Sónico)"
+    },
+    "ZSJjDQ": {
+        "en-US": "Automatic Module (Cutter Slasher)",
+        "pt-BR": "Módulo Automático (Cortador)",
+        "es-ES": "Módulo Automático (Cuchillada Cortante)"
+    },
+    "ZiJjDQ": {
+        "en-US": "Automatic Module (Berserk Slash)",
+        "pt-BR": "Módulo Automático (Corte Furioso)",
+        "es-ES": "Módulo Automático (Corte Berserker)"
+    },
+    "ZyJjDQ": {
+        "en-US": "Automatic Module (Fatal Raid)",
+        "pt-BR": "Módulo Automático (Incursão Fatal)",
+        "es-ES": "Módulo Automático (Incursión Fatal)"
+    },
+    "aCJjDQ": {
+        "en-US": "Automatic Module (Shadow Spell)",
+        "pt-BR": "Módulo Automático (Feitiço das Sombras)",
+        "es-ES": "Módulo Automático (Hechizo Sombrío)"
+    },
+    "aSJjDQ": {
+        "en-US": "Automatic Module (Angle Shot)",
+        "pt-BR": "Módulo Automático (Tiro Angular)",
+        "es-ES": "Módulo Automático (Disparo Angular)"
+    },
+    "aiJjDQ": {
+        "en-US": "Automatic Module (Crimson Strain)",
+        "pt-BR": "Módulo Automático (Tensão Carmesim)",
+        "es-ES": "Módulo Automático (Tensión Carmesí)"
+    },
+    "ayJjDQ": {
+        "en-US": "Automatic Module (Jack Lightning)",
+        "pt-BR": "Módulo Automático (Relâmpago do Jack)",
+        "es-ES": "Módulo Automático (Jack Lightning)"
+    },
+    "bCJjDQ": {
+        "en-US": "Automatic Module (Comet Vortex)",
+        "pt-BR": "Módulo Automático (Vórtice do Cometa)",
+        "es-ES": "Módulo Automático (Vórtice Cometa)"
+    },
+    "bSJjDQ": {
+        "en-US": "Automatic Module (Double Bolt)",
+        "pt-BR": "Módulo Automático (Raio Duplo)",
+        "es-ES": "Módulo Automático (Doble Rayo)"
+    },
+    "biJjDQ": {
+        "en-US": "Automatic Module (Warm Wave)",
+        "pt-BR": "Módulo Automático (Onda Cálida)",
+        "es-ES": "Módulo Automático (Ola Cálida)"
+    },
+    "byJjDQ": {
+        "en-US": "Automatic Module (Diamond Grave)",
+        "pt-BR": "Módulo Automático (Tumba de Diamante)",
+        "es-ES": "Módulo Automático (Tumba de Diamante)"
+    },
+    "cCJjDQ": {
+        "en-US": "Automatic Module (Magnusmus)",
+        "pt-BR": "Módulo Automático (Magnusmus)",
+        "es-ES": "Módulo Automático (Magnusmus)"
+    },
+    "cSJjDQ": {
+        "en-US": "Automatic Module (Holy Judex)",
+        "pt-BR": "Módulo Automático (Julgamento Sagrado)",
+        "es-ES": "Módulo Automático (Judex Sagrado)"
+    },
+    "ciJjDQ": {
+        "en-US": "Automatic Module (Duple Lica)",
+        "pt-BR": "Módulo Automático (Dúplice Lica)",
+        "es-ES": "Módulo Automático (Duple Lica)"
+    },
+    "cyJjDQ": {
+        "en-US": "Automatic Module (Tiger Empire)",
+        "pt-BR": "Módulo Automático (Império do Tigre)",
+        "es-ES": "Módulo Automático (Imperio del Tigre)"
+    },
+    "dCJjDQ": {
+        "en-US": "Automatic Module (Rampage Arrow)",
+        "pt-BR": "Módulo Automático (Flecha da Destruição)",
+        "es-ES": "Módulo Automático (Flecha Alborotada)"
+    },
+    "dSJjDQ": {
+        "en-US": "Automatic Module (Raging Combo)",
+        "pt-BR": "Módulo Automático (Combo Furioso)",
+        "es-ES": "Módulo Automático (Combo Furioso)"
+    },
+    "diJjDQ": {
+        "en-US": "Automatic Module (Cluster)",
+        "pt-BR": "Módulo Automático (Agrupamento)",
+        "es-ES": "Módulo Automático (Racimo)"
+    },
+    "dyJjDQ": {
+        "en-US": "Automatic Module (Breeze Shooting)",
+        "pt-BR": "Módulo Automático (Tiro com Brisa)",
+        "es-ES": "Módulo Automático (Disparo de Brisa)"
+    },
+    "eCJjDQ": {
+        "en-US": "Automatic Module (Aimed Storm)",
+        "pt-BR": "Módulo Automático (Tempestade Mira)",
+        "es-ES": "Módulo Automático (Tormenta Apuntada)"
+    },
+    "eSJjDQ": {
+        "en-US": "Automatic Module (Metal Echo)",
+        "pt-BR": "Módulo Automático (Eco Metálico)",
+        "es-ES": "Módulo Automático (Eco Metálico)"
+    },
+    "eiJjDQ": {
+        "en-US": "Automatic Module (Reverberation)",
+        "pt-BR": "Módulo Automático (Reverberação)",
+        "es-ES": "Módulo Automático (Reverberación)"
+    },
+    "eyJjDQ": {
+        "en-US": "Automatic Module (Vulcan Severe)",
+        "pt-BR": "Módulo Automático (Vulcão Severo)",
+        "es-ES": "Módulo Automático (Vulcano Severo)"
+    },
+    "fCJjDQ": {
+        "en-US": "Automatic Module (Prominence Burst)",
+        "pt-BR": "Módulo Automático (Explosão de Proeminência)",
+        "es-ES": "Módulo Automático (Estallido de Prominencia)"
+    },
+    "fSJjDQ": {
+        "en-US": "Automatic Module (Moon Kick)",
+        "pt-BR": "Módulo Automático (Chute Lunar)",
+        "es-ES": "Módulo Automático (Patada Lunar)"
+    },
+    "fiJjDQ": {
+        "en-US": "Automatic Module (Flash Falling)",
+        "pt-BR": "Módulo Automático (Queda Relâmpago)",
+        "es-ES": "Módulo Automático (Caída Relámpago)"
+    },
+    "fyJjDQ": {
+        "en-US": "Automatic Module (Eswhoo)",
+        "pt-BR": "Módulo Automático (Eswhoo)",
+        "es-ES": "Módulo Automático (Eswhoo)"
+    },
+    "gCJjDQ": {
+        "en-US": "Automatic Module (Espa)",
+        "pt-BR": "Módulo Automático (Espa)",
+        "es-ES": "Módulo Automático (Espa)"
+    },
+    "gSJjDQ": {
+        "en-US": "Automatic Module (Curse Explosion)",
+        "pt-BR": "Módulo Automático (Explosão Amaldiçoada)",
+        "es-ES": "Módulo Automático (Explosión de Maldición)"
+    },
+    "giJjDQ": {
+        "en-US": "Automatic Module (Des Hammer Dance)",
+        "pt-BR": "Módulo Automático (Dança do Martelo Des)",
+        "es-ES": "Módulo Automático (Danza del Martillo Des)"
+    },
+    "gyJjDQ": {
+        "en-US": "Automatic Module (Fire Howling Tail)",
+        "pt-BR": "Módulo Automático (Cauda Uivante de Fogo)",
+        "es-ES": "Módulo Automático (Cola Aullante de Fuego)"
+    },
+    "hCJjDQ": {
+        "en-US": "Automatic Module (Storm Buster Trip)",
+        "pt-BR": "Módulo Automático (Viagem do Destruidor de Tempestades)",
+        "es-ES": "Módulo Automático (Viaje Rompetormentas)"
+    },
+    "hSJjDQ": {
+        "en-US": "Automatic Module (Flame Ice Wind)",
+        "pt-BR": "Módulo Automático (Vento de Gelo em Chamas)",
+        "es-ES": "Módulo Automático (Viento de Hielo Llameante)"
+    },
+    "hiJjDQ": {
+        "en-US": "Automatic Module (Cross Slash)",
+        "pt-BR": "Módulo Automático (Corte Cruzado)",
+        "es-ES": "Módulo Automático (Corte Cruzado)"
+    },
+    "hyJjDQ": {
+        "en-US": "Automatic Module (Exploding Flake Wind)",
+        "pt-BR": "Módulo Automático (Vento de Flocos Explosivos)",
+        "es-ES": "Módulo Automático (Viento Explosivo de Copos)"
+    },
+    "iCJjDQ": {
+        "en-US": "Automatic Module (Power of Sea)",
+        "pt-BR": "Módulo Automático (Poder do Mar)",
+        "es-ES": "Módulo Automático (Poder del Mar)"
+    },
+    "iSJjDQ": {
+        "en-US": "Automatic Module (Power of Land)",
+        "pt-BR": "Módulo Automático (Poder da Terra)",
+        "es-ES": "Módulo Automático (Poder de la Tierra)"
+    },
+    "iiJjDQ": {
+        "en-US": "Automatic Module (Power of Life)",
+        "pt-BR": "Módulo Automático (Poder da Vida)",
+        "es-ES": "Módulo Automático (Poder de la Vida)"
+    },
+    "iyJjDQ": {
+        "en-US": "Varmeal Ticket",
+        "pt-BR": "Vale Varmida",
+        "es-ES": "Vale Varmida"
+    },
+    "jCJjDQ": {
+        "en-US": "Fragment of Sin",
+        "pt-BR": "Fragmento do Pecado",
+        "es-ES": "Fragmento de Pecado"
+    },
+    "jSJjDQ": {
+        "en-US": "Fragment of Fate",
+        "pt-BR": "Fragmento do Destino",
+        "es-ES": "Fragmento del Destino"
+    },
+    "jiJjDQ": {
+        "en-US": "Green Radiation (Battle Pass)",
+        "pt-BR": "Radiação Verde (Passe de Batalha)",
+        "es-ES": "Radiación Verde (Pase de Batalla)"
+    },
+    "jyJjDQ": {
+        "en-US": "Red Radiation (Battle Pass)",
+        "pt-BR": "Radiação Vermelha (Passe de Batalha)",
+        "es-ES": "Radiación Roja (Pase de Batalla)"
+    },
+    "kCJjDQ": {
+        "en-US": "Blue Radiation (Battle Pass)",
+        "pt-BR": "Radiação Azul (Passe de Batalha)",
+        "es-ES": "Radiación Azul (Pase de Batalla)"
+    },
+    "kSJjDQ": {
+        "en-US": "GC Wig Box",
+        "pt-BR": "Caixa de Peruca GC",
+        "es-ES": "Caja de Peluca GC"
+    },
+    "kiJjDQ": {
+        "en-US": "Mask of sin fate",
+        "pt-BR": "Máscara do Destino do Pecado",
+        "es-ES": "Máscara del Destino del Pecado"
+    },
+    "kyJjDQ": {
+        "en-US": "[Event] Piece of Jigsaw",
+        "pt-BR": "Peça do Quebra-Cabeça [Evento]",
+        "es-ES": "[Evento] Pieza de Rompecabezas"
+    },
+    "lCJjDQ": {
+        "en-US": "Cancel",
+        "pt-BR": "Parar",
+        "es-ES": "Cancelar"
+    },
+    "lSJjDQ": {
+        "en-US": "[Ding Ding Daily]\nHave you already made a purchase?",
+        "pt-BR": "[Ding Ding Daily]\nVocê já concluiu a compra?",
+        "es-ES": "[Ding Ding Daily]\n¿Ya has realizado la compra?"
+    },
+    "liJjDQ": {
+        "en-US": "[Ding Ding Daily]\nIf you want to purchase more,\nbuy another item or reset the item list!",
+        "pt-BR": "[Ding Ding Daily]\nSe quiser uma compra adicional, compre outro item ou reinicie a lista!",
+        "es-ES": "[Ding Ding Daily]\nSi deseas comprar algo adicional,\n¡compra otro artículo o reinicia la lista!"
+    },
+    "lyJjDQ": {
+        "en-US": "[Ding Ding Daily]\nPurchase list: ^0100FF{0} {1} pcs^000000",
+        "pt-BR": "[Ding Ding Daily]\nLista de compra: ^0100FF{0} {1} unid.^000000",
+        "es-ES": "[Ding Ding Daily]\nLista de compras: ^0100FF{0} {1} unidad(es)^000000"
+    },
+    "mCJjDQ": {
+        "en-US": "Zeny required for purchase: ^FF0000{0} Zeny^000000",
+        "pt-BR": "Zeny necessário para compra: ^FF0000{0} Zeny^000000",
+        "es-ES": "Zeny necesario para la compra: ^FF0000{0} Zeny^000000"
+    },
+    "mSJjDQ": {
+        "en-US": "Unit required for purchase: ^FF0000{0} {1} pcs^000000",
+        "pt-BR": "Unidade necessária para compra: ^FF0000{0} x{1}^000000",
+        "es-ES": "Unidad necesaria para la compra: ^FF0000{0} {1} unidad(es)^000000"
+    },
+    "miJjDQ": {
+        "en-US": "Would you like to proceed with the purchase?",
+        "pt-BR": "Deseja prosseguir com a compra?",
+        "es-ES": "¿Deseas continuar con la compra?"
+    },
+    "myJjDQ": {
+        "en-US": "Yes",
+        "pt-BR": "Sim",
+        "es-ES": "Sí"
+    },
+    "nCJjDQ": {
+        "en-US": "No",
+        "pt-BR": "Não",
+        "es-ES": "No"
+    },
+    "nSJjDQ": {
+        "en-US": "[Ding Ding Daily]\nYou changed your mind at the last moment.\nLet me know if you change your mind again.",
+        "pt-BR": "[Ding Ding Daily]\nVocê mudou de ideia no final.\nSe mudar de ideia, por favor me avise.",
+        "es-ES": "[Ding Ding Daily]\nParece que cambiaste de opinión al final.\nAvísame si cambias de parecer."
+    },
+    "niJjDQ": {
+        "en-US": "[Ding Ding Daily]\nYou don't have enough Zeny.\nYou need ^FF0000{0} Zeny^000000 to proceed with the exchange.",
+        "pt-BR": "[Ding Ding Daily]\nVocê não tem Zeny suficiente.\nPara prosseguir com a troca, você precisa de ^FF0000{0} Zeny^000000.",
+        "es-ES": "[Ding Ding Daily]\nNo tienes suficientes Zeny.\nNecesitas ^FF0000{0} Zeny^000000 para realizar el intercambio."
+    },
+    "nyJjDQ": {
+        "en-US": "[Ding Ding Daily]\nExchange completed.\nHave a nice day!",
+        "pt-BR": "[Ding Ding Daily]\nTroca concluída.\nTenha um bom dia!",
+        "es-ES": "[Ding Ding Daily]\nIntercambio completado.\n¡Que tengas un buen día!"
+    },
+    "oCJjDQ": {
+        "en-US": "[Ding Ding Daily]\nYou don't have enough ^FF0000{0}^000000.\nYou need ^FF0000{0} {1} pcs^000000 to proceed with the exchange.",
+        "pt-BR": "[Ding Ding Daily]\nVocê não tem ^FF0000{0}^000000 suficiente.\nPara prosseguir com a troca, você precisa de ^FF0000{0} x{1}^000000.",
+        "es-ES": "[Ding Ding Daily]\nNo tienes suficientes ^FF0000{0}^000000.\nNecesitas ^FF0000{0} {1} unidad(es)^000000 para realizar el intercambio."
+    },
+    "oSJjDQ": {
+        "en-US": "[Ding Ding Daily]\nPurchase list: ^0100FF{0} {1} pcs^000000",
+        "pt-BR": "[Ding Ding Daily]\nLista de compra: ^0100FF{0} {1} unid.^000000",
+        "es-ES": "[Ding Ding Daily]\nLista de compras: ^0100FF{0} {1} unidad(es)^000000"
+    },
+    "oiJjDQ": {
+        "en-US": "Zeny required for purchase: ^FF0000{0} Zeny^000000",
+        "pt-BR": "Zeny necessário para compra: ^FF0000{0} Zeny^000000",
+        "es-ES": "Zeny necesario para la compra: ^FF0000{0} Zeny^000000"
+    },
+    "oyJjDQ": {
+        "en-US": "Unit required for purchase: ^FF0000{0} {1} pcs^000000",
+        "pt-BR": "Unidade necessária para compra: ^FF0000{0} x{1}^000000\"",
+        "es-ES": "Unidad necesaria para la compra: ^FF0000{0} {1} unidad(es)^000000"
+    },
+    "pCJjDQ": {
+        "en-US": "[Ding Ding Daily]\nYou don't have enough Zeny.\nYou need ^FF0000{0} Zeny^000000 to proceed with the exchange.",
+        "pt-BR": "[Ding Ding Daily]\nVocê não tem Zeny suficiente.\nPara prosseguir com a troca, você precisa de ^FF0000{0} Zeny^000000.",
+        "es-ES": "[Ding Ding Daily]\nNo tienes suficientes Zeny.\nNecesitas ^FF0000{0} Zeny^000000 para realizar el intercambio."
+    },
+    "pSJjDQ": {
+        "en-US": "[Ding Ding Daily]\nYou don't have enough ^FF0000{0}^000000.\nYou need ^FF0000{0} {1} pcs^000000 to proceed with the exchange.",
+        "pt-BR": "[Ding Ding Daily]\nVocê não tem ^FF0000{0}^000000 suficiente.\nPara prosseguir com a troca, você precisa de ^FF0000{0} x{1}^000000.",
+        "es-ES": "[Ding Ding Daily]\nNo tienes suficientes ^FF0000{0}^000000.\nNecesitas ^FF0000{0} {1} unidad(es)^000000 para realizar el intercambio."
+    },
+    "piJjDQ": {
+        "en-US": "[Ding Ding Daily]\nPurchase list: ^0100FF{0} {1} pcs^000000",
+        "pt-BR": "[Ding Ding Daily]\nLista de compra: ^0100FF{0} {1} unid.^000000",
+        "es-ES": "[Ding Ding Daily]\nLista de compras: ^0100FF{0} {1} unidad(es)^000000"
+    },
+    "pyJjDQ": {
+        "en-US": "Zeny required for purchase: ^FF0000{0} Zeny^000000",
+        "pt-BR": "Zeny necessário para compra: ^FF0000{0} Zeny^000000",
+        "es-ES": "Zeny necesario para la compra: ^FF0000{0} Zeny^000000"
+    },
+    "qCJjDQ": {
+        "en-US": "Unit required for purchase: ^FF0000{0} {1} pcs^000000",
+        "pt-BR": "Unidade necessária para compra: ^FF0000{0} x{1}^000000",
+        "es-ES": "Unidad necesaria para la compra: ^FF0000{0} {1} unidad(es)^000000"
+    },
+    "qSJjDQ": {
+        "en-US": "[Ding Ding Daily]\nYou don't have enough Zeny.\nYou need ^FF0000{0} Zeny^000000 to proceed with the exchange.",
+        "pt-BR": "[Ding Ding Daily]\nVocê não tem Zeny suficiente.\nPara prosseguir com a troca, você precisa de ^FF0000{0} Zeny^000000.",
+        "es-ES": "[Ding Ding Daily]\nNo tienes suficientes Zeny.\nNecesitas ^FF0000{0} Zeny^000000 para realizar el intercambio."
+    },
+    "qiJjDQ": {
+        "en-US": "[Ding Ding Daily]\nYou don't have enough ^FF0000{0}^000000.\nYou need ^FF0000{0} {1} pcs^000000 to proceed with the exchange.",
+        "pt-BR": "[Ding Ding Daily]\nVocê não tem ^FF0000{0}^000000 suficiente.\nPara prosseguir com a troca, você precisa de ^FF0000{0} x{1}^000000.",
+        "es-ES": "[Ding Ding Daily]\nNo tienes suficientes ^FF0000{0}^000000.\nNecesitas ^FF0000{0} {1} unidad(es)^000000 para realizar el intercambio."
+    },
+    "qyJjDQ": {
+        "en-US": "[Ding Ding Daily]\nPurchase list: ^0100FF{0} {1} pcs^000000",
+        "pt-BR": "[Ding Ding Daily]\nLista de compra: ^0100FF{0} {1} unid.^000000",
+        "es-ES": "[Ding Ding Daily]\nLista de compras: ^0100FF{0} {1} unidad(es)^000000"
+    },
+    "rCJjDQ": {
+        "en-US": "Zeny required for purchase: ^FF0000{0} Zeny^000000",
+        "pt-BR": "Zeny necessário para compra: ^FF0000{0} Zeny^000000",
+        "es-ES": "Zeny necesario para la compra: ^FF0000{0} Zeny^000000"
+    },
+    "rSJjDQ": {
+        "en-US": "Unit required for purchase: ^FF0000{0} {1} pcs^000000",
+        "pt-BR": "Unidade necessária para compra: ^FF0000{0} x{1}^000000",
+        "es-ES": "Unidad necesaria para la compra: ^FF0000{0} {1} unidad(es)^000000"
+    },
+    "riJjDQ": {
+        "en-US": "[Ding Ding Daily]\nYou don't have enough Zeny.\nYou need ^FF0000{0} Zeny^000000 to proceed with the exchange.",
+        "pt-BR": "[Ding Ding Daily]\nVocê não tem Zeny suficiente.\nPara prosseguir com a troca, você precisa de ^FF0000{0} Zeny^000000.",
+        "es-ES": "[Ding Ding Daily]\nNo tienes suficientes Zeny.\nNecesitas ^FF0000{0} Zeny^000000 para realizar el intercambio."
+    },
+    "ryJjDQ": {
+        "en-US": "[Ding Ding Daily]\nYou don't have enough ^FF0000{0}^000000.\nYou need ^FF0000{0} {1} pcs^000000 to proceed with the exchange.",
+        "pt-BR": "[Ding Ding Daily]\nVocê não tem ^FF0000{0}^000000 suficiente.\nPara prosseguir com a troca, você precisa de ^FF0000{0} x{1}^000000.",
+        "es-ES": "[Ding Ding Daily]\nNo tienes suficientes ^FF0000{0}^000000.\nNecesitas ^FF0000{0} {1} unidad(es)^000000 para realizar el intercambio."
+    },
+    "sCJjDQ": {
+        "en-US": "[Ding Ding Daily]\nPurchase list: ^0100FF{0} {1} pcs^000000",
+        "pt-BR": "[Ding Ding Daily]\nLista de compra: ^0100FF{0} {1} unid.^000000",
+        "es-ES": "[Ding Ding Daily]\nLista de compras: ^0100FF{0} {1} unidad(es)^000000"
+    },
+    "sSJjDQ": {
+        "en-US": "Zeny required for purchase: ^FF0000{0} Zeny^000000",
+        "pt-BR": "Zeny necessário para compra: ^FF0000{0} Zeny^000000",
+        "es-ES": "Zeny necesario para la compra: ^FF0000{0} Zeny^000000"
+    },
+    "siJjDQ": {
+        "en-US": "Unit required for purchase: ^FF0000{0} {1} pcs^000000",
+        "pt-BR": "Unidade necessária para compra: ^FF0000{0} x{1}^000000",
+        "es-ES": "Unidad necesaria para la compra: ^FF0000{0} {1} unidad(es)^000000"
+    },
+    "syJjDQ": {
+        "en-US": "[Ding Ding Daily]\nYou don't have enough Zeny.\nYou need ^FF0000{0} Zeny^000000 to proceed with the exchange.",
+        "pt-BR": "[Ding Ding Daily]\nVocê não tem Zeny suficiente.\nPara prosseguir com a troca, você precisa de ^FF0000{0} Zeny^000000.",
+        "es-ES": "[Ding Ding Daily]\nNo tienes suficientes Zeny.\nNecesitas ^FF0000{0} Zeny^000000 para realizar el intercambio."
+    },
+    "tCJjDQ": {
+        "en-US": "[Ding Ding Daily]\nYou don't have enough ^FF0000{0}^000000.\nYou need ^FF0000{0} {1} pcs^000000 to proceed with the exchange.",
+        "pt-BR": "[Ding Ding Daily]\nVocê não tem ^FF0000{0}^000000 suficiente.\nPara prosseguir com a troca, você precisa de ^FF0000{0} x{1}^000000.",
+        "es-ES": "[Ding Ding Daily]\nNo tienes suficientes ^FF0000{0}^000000.\nNecesitas ^FF0000{0} {1} unidad(es)^000000 para realizar el intercambio."
+    },
+    "tSJjDQ": {
+        "en-US": "[Ding Ding Daily]\nPurchase list: ^0100FF{0} {1} pcs^000000",
+        "pt-BR": "[Ding Ding Daily]\nLista de compra: ^0100FF{0} {1} unid.^000000",
+        "es-ES": "[Ding Ding Daily]\nLista de compras: ^0100FF{0} {1} unidad(es)^000000"
+    },
+    "tiJjDQ": {
+        "en-US": "Zeny required for purchase: ^FF0000{0} Zeny^000000",
+        "pt-BR": "Zeny necessário para compra: ^FF0000{0} Zeny^000000",
+        "es-ES": "Zeny necesario para la compra: ^FF0000{0} Zeny^000000"
+    },
+    "tyJjDQ": {
+        "en-US": "Unit required for purchase: ^FF0000{0} {1} pcs^000000",
+        "pt-BR": "Unidade necessária para compra: ^FF0000{0} x{1}^000000\"",
+        "es-ES": "Unidad necesaria para la compra: ^FF0000{0} {1} unidad(es)^000000"
+    },
+    "uCJjDQ": {
+        "en-US": "[Ding Ding Daily]\nYou don't have enough Zeny.\nYou need ^FF0000{0} Zeny^000000 to proceed with the exchange.",
+        "pt-BR": "[Ding Ding Daily]\nVocê não tem Zeny suficiente.\nPara prosseguir com a troca, você precisa de ^FF0000{0} Zeny^000000.",
+        "es-ES": "[Ding Ding Daily]\nNo tienes suficientes Zeny.\nNecesitas ^FF0000{0} Zeny^000000 para realizar el intercambio."
+    },
+    "uSJjDQ": {
+        "en-US": "[Ding Ding Daily]\nYou don't have enough ^FF0000{0}^000000.\nYou need ^FF0000{0} {1} pcs^000000 to proceed with the exchange.",
+        "pt-BR": "[Ding Ding Daily]\nVocê não tem ^FF0000{0}^000000 suficiente.\nPara prosseguir com a troca, você precisa de ^FF0000{0} x{1}^000000.",
+        "es-ES": "[Ding Ding Daily]\nNo tienes suficientes ^FF0000{0}^000000.\nNecesitas ^FF0000{0} {1} unidad(es)^000000 para realizar el intercambio."
+    },
+    "uiJjDQ": {
+        "en-US": "[Ding Ding Daily]\nPurchase list: ^0100FF{0} {1} pcs^000000",
+        "pt-BR": "[Ding Ding Daily]\nLista de compra: ^0100FF{0} {1} unid.^000000",
+        "es-ES": "[Ding Ding Daily]\nLista de compras: ^0100FF{0} {1} unidad(es)^000000"
+    },
+    "uyJjDQ": {
+        "en-US": "Zeny required for purchase: ^FF0000{0} Zeny^000000",
+        "pt-BR": "Zeny necessário para compra: ^FF0000{0} Zeny^000000",
+        "es-ES": "Zeny necesario para la compra: ^FF0000{0} Zeny^000000"
+    },
+    "vCJjDQ": {
+        "en-US": "Unit required for purchase: ^FF0000{0} {1} pcs^000000",
+        "pt-BR": "Unidade necessária para compra: ^FF0000{0} x{1}^000000",
+        "es-ES": "Unidad necesaria para la compra: ^FF0000{0} {1} unidad(es)^000000"
+    },
+    "vSJjDQ": {
+        "en-US": "[Ding Ding Daily]\nYou don't have enough Zeny.\nYou need ^FF0000{0} Zeny^000000 to proceed with the exchange.",
+        "pt-BR": "[Ding Ding Daily]\nVocê não tem Zeny suficiente.\nPara prosseguir com a troca, você precisa de ^FF0000{0} Zeny^000000.",
+        "es-ES": "[Ding Ding Daily]\nNo tienes suficientes Zeny.\nNecesitas ^FF0000{0} Zeny^000000 para realizar el intercambio."
+    },
+    "viJjDQ": {
+        "en-US": "[Ding Ding Daily]\nYou don't have enough ^FF0000{0}^000000.\nYou need ^FF0000{0} {1} pcs^000000 to proceed with the exchange.",
+        "pt-BR": "[Ding Ding Daily]\nVocê não tem ^FF0000{0}^000000 suficiente.\nPara prosseguir com a troca, você precisa de ^FF0000{0} x{1}^000000.",
+        "es-ES": "[Ding Ding Daily]\nNo tienes suficientes ^FF0000{0}^000000.\nNecesitas ^FF0000{0} {1} unidad(es)^000000 para realizar el intercambio."
+    },
+    "vyJjDQ": {
+        "en-US": "[Ding Ding Daily]\nPurchase list: [Event] Piece of Jigsaw 50 pcs\nZeny required for purchase: 2000000 Zeny\nWould you like to proceed with the purchase?",
+        "pt-BR": "[Ding Ding Daily]\nLista de compra: [Evento] 50 Peça do Quebra-Cabeça\nZeny necessário para compra: 2.000.000 Zeny\nDeseja prosseguir com a compra?",
+        "es-ES": "[Ding Ding Daily]\nLista de compras: [Evento] Pieza de Rompecabezas 50 unidades\nZeny necesario para la compra: 2000000 Zeny\n¿Deseas continuar con la compra?"
+    },
+    "wCJjDQ": {
+        "en-US": "[Ding Ding Daily]\nYou don't have enough Zeny.\nYou need ^FF00002,000,000 Zeny^000000 to proceed with the exchange.",
+        "pt-BR": "[Ding Ding Daily]\nVocê não tem Zeny suficiente.\nPara prosseguir com a troca, você precisa de ^FF00002.000.000 Zeny^000000.",
+        "es-ES": "[Ding Ding Daily]\nNo tienes suficientes Zeny.\nNecesitas ^FF00002,000,000 Zeny^000000 para realizar el intercambio."
+    },
+    "wSJjDQ": {
+        "en-US": "[Ding Ding Daily]\nPlease visit when you need an exchange.",
+        "pt-BR": "[Ding Ding Daily]\nVisite-nos quando precisar de trocas.",
+        "es-ES": "[Ding Ding Daily]\nPor favor, visítanos cuando necesites un intercambio."
+    },
+    "wiJjDQ": {
+        "en-US": "[Ding Ding Daily]\nWould you like to reset the shop list?",
+        "pt-BR": "[Ding Ding Daily]\nDeseja reiniciar a lista da loja?",
+        "es-ES": "[Ding Ding Daily]\n¿Te gustaría reiniciar la lista de la tienda?"
+    },
+    "wyJjDQ": {
+        "en-US": "[Ding Ding Daily]\nYou can reset up to ^FF000010 times^000000 per day.\nIt requires 20 <ITEM>[Mysterious Medal]<INFO>805</INFO></ITEM> and\n50,000 Zeny.",
+        "pt-BR": "[Ding Ding Daily]\nO reset pode ser feito até ^FF000010 vezes^000000 por dia e requer 20 <ITEM>[Medalha Misteriosa]<INFO>25273</INFO></ITEM> e 50.000 Zeny.",
+        "es-ES": "[Ding Ding Daily]\nEl reinicio se puede realizar hasta ^FF000010 veces^000000 al día\ny requiere 20 <ITEM>[Medalla Misteriosa]<INFO>25273</INFO></ITEM>\ny 50,000 Zeny."
+    },
+    "xCJjDQ": {
+        "en-US": "Proceed with reset",
+        "pt-BR": "Prosseguir com o reset",
+        "es-ES": "Reiniciar"
+    },
+    "xSJjDQ": {
+        "en-US": "Cancel",
+        "pt-BR": "Parar",
+        "es-ES": "Cancelar"
+    },
+    "xiJjDQ": {
+        "en-US": "[Ding Ding Daily]\nYou have already reset 10 times today!\nIf you want to reset the Daily Shop, please visit tomorrow.",
+        "pt-BR": "[Ding Ding Daily]\nVocê já usou todos os 10 resets de hoje!\nSe quiser resetar a Loja Diária, visite amanhã.",
+        "es-ES": "[Ding Ding Daily]\n¡Hoy ya has reiniciado las 10 veces!\nSi deseas reiniciar la Tienda Diaria, visítanos mañana."
+    },
+    "xyJjDQ": {
+        "en-US": "[Ding Ding Daily]\nOh, you don't have enough Zeny?\nYou need 50,000 Zeny to reset.",
+        "pt-BR": "[Ding Ding Daily]\nAh, você não tem Zeny suficiente?\nPara resetar, você precisa de 50.000 Zeny.",
+        "es-ES": "[Ding Ding Daily]\nVaya, ¿no tienes suficientes Zeny?\nSe necesitan 50,000 Zeny para reiniciar."
+    },
+    "yCJjDQ": {
+        "en-US": "[Ding Ding Daily]\nOh, you don't have enough <ITEM>[Mysterious Meda]<INFO>25273</INFO></ITEM>?",
+        "pt-BR": "[Ding Ding Daily]\nAh, você não tem <ITEM>[Medalha Misteriosa]<INFO>25273</INFO></ITEM> suficiente?",
+        "es-ES": "[Ding Ding Daily]\nVaya, ¿no tienes suficientes <ITEM>[Medalla Misteriosa]<INFO>25273</INFO></ITEM>?"
+    },
+    "ySJjDQ": {
+        "en-US": "[Ding Ding Daily]\nYou need 20 <ITEM>[Mysterious Medal]<INFO>805</INFO></ITEM> to reset.",
+        "pt-BR": "[Ding Ding Daily]\nPara resetar, você precisa de 20 <ITEM>[Medalha Misteriosa]<INFO>25273</INFO></ITEM>.",
+        "es-ES": "[Ding Ding Daily]\nSe necesitan 20 <ITEM>[Medalla Misteriosa]<INFO>25273</INFO></ITEM> para reiniciar."
+    },
+    "yiJjDQ": {
+        "en-US": "[Ding Ding Daily]\nYou've already performed all ^FF000010 resets^000000 for today.\nPlease note that you cannot reset any further.",
+        "pt-BR": "[Ding Ding Daily]\nVocê já usou todos os ^FF000010 resets^000000 de hoje.\nLembre-se de que não é mais possível fazer reset.",
+        "es-ES": "[Ding Ding Daily]\nHoy ya has realizado los ^FF000010^000000 reinicios del día.\nTen en cuenta que no puedes reiniciar más."
+    },
+    "yyJjDQ": {
+        "en-US": "[Ding Ding Daily]\nReset completed.\nYou can now find new items in the Daily Shop.",
+        "pt-BR": "[Ding Ding Daily]\nReset concluído.\nVocê pode encontrar novos produtos na Loja Diária.",
+        "es-ES": "[Ding Ding Daily]\nHe ayudado con el reinicio.\nPuedes encontrar nuevos productos en la Tienda Diaria."
+    },
+    "zCJjDQ": {
+        "en-US": "[Ding Ding Daily]\nIf you need a reset, I'll help anytime.",
+        "pt-BR": "[Ding Ding Daily]\nSe precisar de reset, estou sempre à disposição.",
+        "es-ES": "[Ding Ding Daily]\nSi necesitas reiniciar, estaré encantado de ayudarte cuando quieras."
+    },
+    "zSJjDQ": {
+        "en-US": "[Ding Ding Daily]\nIf you need the Daily Shop, I'll help anytime.",
+        "pt-BR": "[Ding Ding Daily]\nSe precisar usar a Loja Diária, estou sempre à disposição.",
+        "es-ES": "[Ding Ding Daily]\nSi necesitas usar la Tienda Diaria, estaré encantado de ayudarte cuando quieras."
+    }
+}

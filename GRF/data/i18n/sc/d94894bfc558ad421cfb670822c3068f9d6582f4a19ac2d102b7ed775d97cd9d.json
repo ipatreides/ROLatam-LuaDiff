@@ -5,7 +5,7 @@
         "es-ES": "Nemma"
     },
     "wbUVAQ": {
-        "en-US": "[High Priest Nemma]\nHello, traveler.\nWhat brings you to the temple?",
+        "en-US": "[Priestess Nemma]\nHello, traveler.\nWhat brings you to the temple?",
         "pt-BR": "[Noviça Nemma]\nOlá, viajante.\nO que o traz ao templo?",
         "es-ES": "[Sacerdote Nemma]\nHola, viajero.\n¿Qué le trae al templo?"
     },
@@ -15,42 +15,42 @@
         "es-ES": "He venido de visita."
     },
     "w7UVAQ": {
-        "en-US": "I wish to offer worship to the goddess...",
+        "en-US": "I want to offer worship to the deity...",
         "pt-BR": "Desejo prestar culto a Deus...",
         "es-ES": "Deseo elevar una oración al dios..."
     },
     "xLUVAQ": {
-        "en-US": "[High Priest Nemma]\nForeigners who are not accustomed to living with the goddess often come to the temple for sightseeing.",
+        "en-US": "[Priestess Nemma]\nForeign visitors who are not accustomed with Gods often come to temples for sightseeing.",
         "pt-BR": "[Noviça Nemma]\nAs pessoas estrangeiras, para quem uma vida com os deuses não é algo comum, costumam vir ao templo como passeio.",
         "es-ES": "[Sacerdote Nemma]\nLos extranjeros, para quienes una vida junto a los dioses no es algo habitual, suelen venir al templo por turismo."
     },
     "xbUVAQ": {
-        "en-US": "[High Priest Nemma]\nOh my, traveler, you are very polite.\nHow fortunate. It will not be long before the festival hosted by the temple begins. Here at Sessrumnir Temple, we are accepting donations for the festival.",
+        "en-US": "[Priestess Nemma]\nOh, it seems you have good manners, traveler.\nGood thing, too, because it's almost time for the festival presided over by the temple, and the temple here in Sessrumnir is accepting donations for the festival.",
         "pt-BR": "[Noviça Nemma]\nOra, viajante, você é muito educado.\nQue bom, faltam poucos dias para o festival organizado pelo templo. Aqui, no templo Sessrumnir, estamos recebendo doações para o festival.",
         "es-ES": "[Sacerdote Nemma]\nVaya, viajero, qué educado es usted.\nQué bien, porque dentro de poco se celebrará un festival organizado por el templo. Aquí, en el templo Sessrumnir, estamos aceptando donativos para el festival."
     },
     "xrUVAQ": {
-        "en-US": "[High Priest Nemma]\nSince it is a festival dedicated to the goddess, the more you can donate, the better... but it is not compulsory!\nIt is your sincerity that matters.",
+        "en-US": "[Priestess Nemma]\nSince it's a festival dedicated to the deity, the more you contribute, the better, but... it's not mandatory!\nIt's the thought that matters.",
         "pt-BR": "[Noviça Nemma]\nJá que é um festival oferecido a Deus, claro que quanto mais doarem, melhor... mas não é uma obrigação!\nO que importa é o coração.",
         "es-ES": "[Sacerdote Nemma]\nYa que es un festival ofrecido al dios, cuanto más donen, mejor, pero... ¡no es obligatorio!\nLo importante es la intención."
     },
     "x7UVAQ": {
-        "en-US": "[High Priest Nemma]\nThe donation itself is part of the festival, so, um... although there was a High Priest who opposed such things, we do hand out raffle tickets for each share!",
+        "en-US": "[Priestess Nemma]\nDonations are part of the festivities, so, um. I know the High Priest is usually against this kind of thing, but we're giving out raffle tickets per account!",
         "pt-BR": "[Noviça Nemma]\nA doação também faz parte do festival, então, hum.. embora haja um Arcebispo que originalmente fosse contra esse tipo de coisa, nós distribuímos bilhetes de sorteio por cota!",
         "es-ES": "[Sacerdote Nemma]\nComo el donativo también forma parte del festival, mm.. aunque había grandes sacerdotes que originalmente se oponían a esto, ¡entregamos un boleto de sorteo por cada participación!"
     },
     "yLUVAQ": {
-        "en-US": "[High Priest Nemma]\nWe have taken out ^0000FFsome good things^000000 from the temple warehouse and are giving them as gifts to those who donate. We do not really know what is good, so we simply hand out whatever we happen to pick.",
+        "en-US": "[Priestess Nemma]\nWe've taken out some ^0000FFgood items^000000 from the temple warehouse, and we're giving them as gifts to those who make donations. We're not sure exactly what's good, so we're just giving whatever comes to hand.",
         "pt-BR": "[Noviça Nemma]\nRetiramos da armazenagem do templo ^0000FFalgumas coisas boas^000000 e as damos de presente às pessoas que fazem doações. O que exatamente é bom, nós não sabemos muito bem, então só entregamos o que vier à mão.",
         "es-ES": "[Sacerdote Nemma]\nHemos sacado ^0000FFalgunas cosas buenas^000000 del almacén del templo y las regalamos a quienes hacen donativos. No sabemos exactamente qué tienen de bueno, así que solo damos lo que nos toca en mano."
     },
     "ybUVAQ": {
-        "en-US": "[High Priest Nemma]\nWould you like to donate?",
+        "en-US": "[Priestess Nemma]\nWill you make a donation?",
         "pt-BR": "[Noviça Nemma]\nGostaria de fazer uma doação?",
         "es-ES": "[Sacerdote Nemma]\n¿Desea hacer un donativo?"
     },
     "yrUVAQ": {
-        "en-US": "No.",
+        "en-US": "아뇨.",
         "pt-BR": "Não.",
         "es-ES": "No."
     },
@@ -60,137 +60,137 @@
         "es-ES": "Sí."
     },
     "zLUVAQ": {
-        "en-US": "[High Priest Nemma]\nYes, understood.\nGod's grace, God's blessing.\nWe shall be His staff.\nAt every step He takes, may it be beside your feet.",
+        "en-US": "[Priestess Nemma]\nYes, I understand.\nDivine grace, divine blessings.\nWe will be his staff.\nWith every step he takes, by your side.",
         "pt-BR": "[Noviça Nemma]\nSim, entendi.\nGraça divina, bênção divina.\nSeremos o seu cajado.\nA cada passo que der, ao lado de seus pés.",
         "es-ES": "[Sacerdote Nemma]\nSí, entendido.\nLa gracia divina, la bendición divina.\nSeremos su báculo.\nY en cada paso de su andar, junto a sus pies."
     },
     "zbUVAQ": {
-        "en-US": "[High Priest Nemma]\nHow much would you like to donate?\nBy regulation, one share is 50,000 Zeny,\nand you may donate up to three shares at a time. Please write the number of shares and your name on this paper.",
+        "en-US": "[Priestess Nemma]\nHow much would you like to donate?\nAs per the rules, one offering is 50,000 Zeny.\nDonations can be made for up to three offerings at once. Please write the number of offerings and your name on this paper.",
         "pt-BR": "[Noviça Nemma]\nQuanto gostaria de doar?\nPelas regras, cada cota custa 50000 zeny\ne é possível doar até três cotas por vez. Por favor, escreva nesta folha o número de cotas e o seu nome.",
         "es-ES": "[Sacerdote Nemma]\n¿Cuánto desea donar?\nPor norma, cada participación es de 50000 zeny,\ny se pueden donar hasta tres participaciones de una vez. Escriba aquí en este papel el número de participaciones y su nombre."
     },
     "zrUVAQ": {
-        "en-US": "1 share",
+        "en-US": "50.000 z – 1 Lottery Ticket",
         "pt-BR": "1 cota",
         "es-ES": "1 participación"
     },
     "z7UVAQ": {
-        "en-US": "2 shares",
+        "en-US": "100.000 z – 2 Lottery Tickets",
         "pt-BR": "2 cotas",
         "es-ES": "2 participaciones"
     },
     "0LUVAQ": {
-        "en-US": "3 shares",
+        "en-US": "150.000 z – 3  Lottery Tickets",
         "pt-BR": "3 cotas",
         "es-ES": "3 participaciones"
     },
     "0bUVAQ": {
-        "en-US": "Stop donating",
+        "en-US": "헌금을 그만둔다",
         "pt-BR": "Cancelar a doação",
         "es-ES": "Cancelar el donativo"
     },
     "0rUVAQ": {
-        "en-US": "[High Priest Nemma]\nLet me see... {0},\nyou said you would donate 50,000 Zeny for 1 share. Is that correct?",
+        "en-US": "[네마 신관]\n어디... {0} 님,\n1구좌 50000제니를 기부하겠다고 하셨습니다. 맞습니까?",
         "pt-BR": "[Noviça Nemma]\nVejamos... Sr. {0},\nvocê disse que deseja doar 1 cota, ou seja, 50000 zeny. Está correto?",
         "es-ES": "[Sacerdote Nemma]\nVeamos... {0},\nha dicho que desea donar 1 participación, es decir, 50000 zeny. ¿Es correcto?"
     },
     "07UVAQ": {
-        "en-US": "No",
+        "en-US": "아니오",
         "pt-BR": "Não",
         "es-ES": "No"
     },
     "1LUVAQ": {
-        "en-US": "Yes",
+        "en-US": "네",
         "pt-BR": "Sim",
         "es-ES": "Sí"
     },
     "1bUVAQ": {
-        "en-US": "[High Priest Nemma]\nIf you do not have any money with you right now,\nyou may come again another time.\nThe goddess will wait for you.\nThen, have a peaceful day...",
+        "en-US": "[네마 신관]\n지금 가진 돈이 없으시면\n다음에 오셔도 돼요,\n신께서는 기다려 주실 거예요.\n그럼, 편안한 하루 되시길...",
         "pt-BR": "[Noviça Nemma]\nSe não tiver dinheiro agora,\npode voltar outra hora,\nDeus esperará por você.\nEntão, tenha um dia tranquilo...",
         "es-ES": "[Sacerdote Nemma]\nSi ahora mismo no tiene dinero,\npuede volver otro día,\nel dios esperará por usted.\nEntonces, que tenga un día tranquilo..."
     },
     "1rUVAQ": {
-        "en-US": "[High Priest Nemma]\nYou have less than 50,000 Zeny on hand.\nIt is not that we mean to disregard a smaller amount, but this is the amount we designated for raffle ticket management...",
+        "en-US": "[Priestess Nemma]\nIt seems you have less than 50,000 Zeny with you.\nIt's not about disregarding the small amount; rather, we have set the amount for the raffle ticket for the sake of ticket management.",
         "pt-BR": "[Noviça Nemma]\nVocê tem menos de 50000 zeny.\nNão é que estejamos menosprezando quantias menores, mas é um valor definido por nós também por questão de controle dos bilhetes de sorteio...",
         "es-ES": "[Sacerdote Nemma]\nVeo que lleva menos de 50000 zeny.\nNo es que queramos despreciar una cantidad pequeña, pero también es una cifra fijada por nosotros para la gestión de los boletos del sorteo..."
     },
     "17UVAQ": {
-        "en-US": "[High Priest Nemma]\nI'll be waiting!",
+        "en-US": "[Priestess Nemma]\nWe'll be waiting for you!",
         "pt-BR": "[Noviça Nemma]\nVou esperar por você!",
         "es-ES": "[Sacerdote Nemma]\n¡Le estaré esperando!"
     },
     "2LUVAQ": {
-        "en-US": "[High Priest Nemma]\nOh, you do not even have room in your bag for a single raffle ticket? Shouldn't you tidy up your storage a bit?",
+        "en-US": "[네마 신관]\n어, 가방에 추첨권 하나 넣을 자리도 없으시다뇨. 창고 정리라도 좀 하시는 게 어떠세요?",
         "pt-BR": "[Noviça Nemma]\nOra, então você não tem nem espaço na bolsa para colocar um bilhete de sorteio. Que tal organizar um pouco o seu armazém?",
         "es-ES": "[Sacerdote Nemma]\nOh, ¿cómo que no tiene ni sitio para meter un solo boleto de sorteo en la bolsa? ¿Qué le parece si ordena un poco el almacén?"
     },
     "2bUVAQ": {
-        "en-US": "[High Priest Nemma]\nWe shall accept your donation later.\nI'll be waiting.",
+        "en-US": "[네마 신관]\n헌금은 나중에 받도록 하겠습니다.\n기다릴게요.",
         "pt-BR": "[Noviça Nemma]\nEntão receberemos a doação depois.\nVou esperar.",
         "es-ES": "[Sacerdote Nemma]\nRecibiremos su donativo más adelante.\n¡Le estaré esperando!"
     },
     "2rUVAQ": {
-        "en-US": "[High Priest Nemma]\nThank you for your donation!\nMay the goddess's protection be with you...",
+        "en-US": "[네마 신관]\n헌금 감사드립니다!\n신의 가호가 함께 하시길...",
         "pt-BR": "[Noviça Nemma]\nMuito obrigada pela doação!\nQue a bênção divina esteja com você...",
         "es-ES": "[Sacerdote Nemma]\n¡Muchas gracias por su donativo!\nQue la bendición del dios le acompañe..."
     },
     "27UVAQ": {
-        "en-US": "[High Priest Nemma]\nThank you for your donation!\nOnce you fill {0} more share(s), the donations will be complete.\nWe are to continue collecting here until we reach a certain amount, so if you feel inclined, please donate as much as you wish.\nMay the goddess's protection be with you...",
+        "en-US": "[네마 신관]\n헌금 감사드립니다!\n앞으로 {0}구좌 더 채우면 헌금은 끝날 예정입니다.\n일정 액수에 달할 때까지는 여기서 계속 모금을 하게 돼 있으니, 내키신다면 원하는 만큼 헌금해 주세요.\n신의 가호가 함께 하시길...",
         "pt-BR": "[Noviça Nemma]\nMuito obrigada pela doação!\nSe completar mais {0} cotas, a arrecadação estará encerrada.\nContinuaremos arrecadando aqui até atingir um certo valor, então, se quiser, doe quanto desejar.\nQue a bênção divina esteja com você...",
         "es-ES": "[Sacerdote Nemma]\n¡Muchas gracias por su donativo!\nA partir de ahora, el donativo terminará cuando se llenen {0} participaciones más.\nSeguiremos recaudando aquí hasta alcanzar cierta cantidad, así que, si le apetece, done cuanto desee.\nQue la bendición del dios le acompañe..."
     },
     "3LUVAQ": {
-        "en-US": "[High Priest Nemma]\nLet me see... {0},\nyou said you would donate 100,000 Zeny for 2 shares. Is that correct?",
+        "en-US": "[Priestess Nemma]\nWhere... {0} Sir/Madam,\nYou said that you will donate 100,000 Zeny for 2 offerings. Is that correct?",
         "pt-BR": "[Noviça Nemma]\nVejamos... Sr. {0},\nvocê disse que deseja doar 2 cotas, ou seja, 100000 zeny. Está correto?",
         "es-ES": "[Sacerdote Nemma]\nVeamos... {0},\nha dicho que desea donar 2 participaciones, es decir, 100000 zeny. ¿Es correcto?"
     },
     "3bUVAQ": {
-        "en-US": "[High Priest Nemma]\nYou have less than 100,000 Zeny on hand.\nIt is not that we mean to disregard a smaller amount, but this is the amount we designated for raffle ticket management...",
+        "en-US": "[Priestess Nemma]\nIt seems you have less than 100,000 Zeny with you.\nIt's not about disregarding the small amount; rather, we have set the amount for the raffle ticket for the sake of ticket management.",
         "pt-BR": "[Noviça Nemma]\nVocê tem menos de 100000 zeny.\nNão é que estejamos menosprezando quantias menores, mas é um valor definido por nós também por questão de controle dos bilhetes de sorteio...",
         "es-ES": "[Sacerdote Nemma]\nVeo que lleva menos de 100000 zeny.\nNo es que queramos despreciar una cantidad pequeña, pero también es una cifra fijada por nosotros para la gestión de los boletos del sorteo..."
     },
     "3rUVAQ": {
-        "en-US": "[High Priest Nemma]\nOh, you do not even have room in your bag for one or two raffle tickets? Shouldn't you tidy up your storage a bit?",
+        "en-US": "[네마 신관]\n어, 가방에 추첨권 한두장 넣을 자리도 없으시다뇨. 창고 정리라도 좀 하시는 게 어떠세요?",
         "pt-BR": "[Noviça Nemma]\nOra, então você não tem nem espaço na bolsa para guardar um ou dois bilhetes de sorteio. Que tal organizar um pouco o seu armazém?",
         "es-ES": "[Sacerdote Nemma]\nOh, ¿cómo que no tiene sitio para meter uno o dos boletos de sorteo en la bolsa? ¿Qué le parece si ordena un poco el almacén?"
     },
     "37UVAQ": {
-        "en-US": "[High Priest Nemma]\nLet me see... {0},\nyou said you would donate 150,000 Zeny for 3 shares. Is that correct?",
+        "en-US": "[Priestess Nemma]\nWhere... {0} Sir/Madam,\nYou said that you will donate 150,000 Zeny for 3 offerings. Is that correct?",
         "pt-BR": "[Noviça Nemma]\nVejamos... Sr. {0},\nvocê disse que deseja doar 3 cotas, ou seja, 150000 zeny. Está correto?",
         "es-ES": "[Sacerdote Nemma]\nVeamos... {0},\nha dicho que desea donar 3 participaciones, es decir, 150000 zeny. ¿Es correcto?"
     },
     "4LUVAQ": {
-        "en-US": "[High Priest Nemma]\nYou have less than 150,000 Zeny on hand.\nIt is not that we mean to disregard a smaller amount, but this is the amount we designated for raffle ticket management...",
+        "en-US": "[Priestess Nemma]\nIt seems you have less than 150,000 Zeny with you.\nIt's not about disregarding the small amount; rather, we have set the amount for the raffle ticket for the sake of ticket management.",
         "pt-BR": "[Noviça Nemma]\nVocê tem menos de 150000 zeny.\nNão é que estejamos menosprezando quantias menores, mas é um valor definido por nós também por questão de controle dos bilhetes de sorteio...",
         "es-ES": "[Sacerdote Nemma]\nVeo que lleva menos de 150000 zeny.\nNo es que queramos despreciar una cantidad pequeña, pero también es una cifra fijada por nosotros para la gestión de los boletos del sorteo..."
     },
     "4bUVAQ": {
-        "en-US": "[High Priest Nemma]\nOh, you do not even have room in your bag for raffle tickets? Shouldn't you tidy up your storage a bit?",
+        "en-US": "[네마 신관]\n어, 가방에 추첨권 넣을 자리도 없으시다뇨. 창고 정리라도 좀 하시는 게 어떠세요?",
         "pt-BR": "[Noviça Nemma]\nOra, então você não tem nem espaço na bolsa para guardar bilhetes de sorteio. Que tal organizar um pouco o seu armazém?",
         "es-ES": "[Sacerdote Nemma]\nOh, ¿cómo que no tiene sitio para meter boletos de sorteo en la bolsa? ¿Qué le parece si ordena un poco el almacén?"
     },
     "4rUVAQ": {
-        "en-US": "[High Priest Nemma]\nEven if you do not have any money right now, the goddess watches over you.\nThen, have a peaceful day...",
+        "en-US": "[Priestess Nemma]\nEven if you don't have money right now, the Gods always watch over you.\nWell then, may you have a peaceful day...",
         "pt-BR": "[Noviça Nemma]\nMesmo que você não tenha dinheiro agora, Deus está cuidando de você.\nEntão, tenha um dia tranquilo...",
         "es-ES": "[Sacerdote Nemma]\nAunque ahora mismo no tenga dinero, el dios vela por usted.\nEntonces, que tenga un día tranquilo..."
     },
     "47UVAQ": {
-        "en-US": "[High Priest Nemma]\nHello, traveler!\nCome to think of it, you donated last time. Um... your name was... {0}, was it?",
+        "en-US": "[Priestess Nemma]\nHello, traveler!\nCome to think of it, you made a donation last time, right? Um... your name was... {0}, wasn't it?",
         "pt-BR": "[Noviça Nemma]\nOlá, viajante!\nAgora que penso nisso, você fez uma doação da última vez, não foi? Ah... seu nome era.... {0}, certo?",
         "es-ES": "[Sacerdote Nemma]\n¡Hola, viajero!\nAhora que lo pienso, la vez pasada hizo un donativo. Eh... su nombre.... ¿era {0}?"
     },
     "5LUVAQ": {
-        "en-US": "[High Priest Nemma]\nHave you come to donate again this time?",
+        "en-US": "[Priestess Nemma]\nAre you here to make a donation again this time?",
         "pt-BR": "[Noviça Nemma]\nVeio doar de novo desta vez?",
         "es-ES": "[Sacerdote Nemma]\n¿Ha venido a donar otra vez?"
     },
     "5bUVAQ": {
-        "en-US": "I came to donate.",
+        "en-US": "I've come to make a donation.",
         "pt-BR": "Vim fazer uma doação.",
         "es-ES": "He venido a donar."
     },
     "5rUVAQ": {
-        "en-US": "I thought I would look around the temple.",
+        "en-US": "Thinking of exploring the temple.",
         "pt-BR": "Queria dar uma olhada no templo.",
         "es-ES": "Quería dar una vuelta por el templo."
     },
@@ -205,202 +205,202 @@
         "es-ES": "A verle a usted..."
     },
     "6bUVAQ": {
-        "en-US": "[High Priest Nemma]\nThank you for coming again.\nHow much will you be donating this time?\nBy regulation, one share is 50,000 Zeny,\nand you may donate up to three shares at a time. Please write the number of shares and your name on this paper.",
+        "en-US": "[Priestess Nemma]\nThank you for coming again.\nHow much would you like to donate this time?\nAs per the rules, one offering is 50,000 Zeny.\nYou can donate up to three offerings at once. Please write the number of offerings and your name on this paper.",
         "pt-BR": "[Noviça Nemma]\nMuito obrigada por voltar.\nQuanto vai doar desta vez?\nPelas regras, cada cota custa 50000 zeny\ne é possível doar até três cotas por vez. Por favor, escreva nesta folha o número de cotas e o seu nome.",
         "es-ES": "[Sacerdote Nemma]\nMuchas gracias por volver.\n¿Cuánto va a donar esta vez?\nPor norma, cada participación es de 50000 zeny,\ny se pueden donar hasta tres participaciones de una vez. Escriba aquí en este papel el número de participaciones y su nombre."
     },
     "6rUVAQ": {
-        "en-US": "[High Priest Nemma]\nThe guidance inside Priest is handled by Priest Pano at the information desk further inside. He takes raffle tickets and exchanges them for ^0000FFsomething we do not know what it is, but a good item anyway^000000 from the warehouse. He does complain about it, though...",
+        "en-US": "[Priestess Nemma]\nGuidance inside the temple is provided by Pano in the inner information desk. After receiving a raffle ticket, Fano in the warehouse exchanges it for ^0000FFitems,\nwhich are unknown but seem to be good^000000. Although he sometimes finds it bothersome...",
         "pt-BR": "[Noviça Nemma]\nQuem faz a orientação interna do Sacerdote é o Sacerdote Pano, na mesa de informações lá dentro. Ele recebe os bilhetes de sorteio e troca por ^0000FFalguma coisa que ninguém sabe o que é, mas que de todo modo é boa^000000, saída do armazém. Embora ele reclame do trabalho...",
         "es-ES": "[Sacerdote Nemma]\nQuien guía por el interior del Sacerdote es el Sacerdote Pano del mostrador interior de información. Él recibe los boletos del sorteo y los cambia por ^0000FFalgo que no sabemos qué es, pero que en cualquier caso es bueno^000000, salido del almacén. Aunque se le nota que le da pereza..."
     },
     "67UVAQ": {
-        "en-US": "[High Priest Nemma]\nIf you ask Priest Pano, he will explain it well.",
+        "en-US": "[Priestess Nemma]\nIf you ask Fano at the temple, he will teach you well.",
         "pt-BR": "[Noviça Nemma]\nSe perguntar ao Sacerdote Pano, ele vai explicar direitinho.",
         "es-ES": "[Sacerdote Nemma]\nSi le pregunta a Sacerdote Pano, se lo explicará bien."
     },
     "7LUVAQ": {
-        "en-US": "[High Priest Nemma]\nEven if your religion is different,\noffering greetings to the goddess\nis always permitted.",
+        "en-US": "[Priestess Nemma]\nEven if you have a different religion\nOffering greetings to the deity is\nAlways allowed.",
         "pt-BR": "[Noviça Nemma]\nMesmo que sua religião seja diferente,\ncumprimentar Deus\né sempre algo permitido.",
         "es-ES": "[Sacerdote Nemma]\nAunque su religión sea otra,\nsaludar al dios\nsiempre está permitido."
     },
     "7bUVAQ": {
-        "en-US": "[High Priest Nemma]\nSo you came to donate!\n...No, you say?",
+        "en-US": "[Priestess Nemma]\nYou've come to make a donation!\n...Or not?",
         "pt-BR": "[Noviça Nemma]\nEntão veio fazer uma doação!\n...Não veio?",
         "es-ES": "[Sacerdote Nemma]\n¡Así que ha venido a donar!\n...¿No?"
     },
     "7rUVAQ": {
-        "en-US": "[High Priest Nemma]\nWelcome to the temple!",
+        "en-US": "[Priestess Nemma]\nWelcome to the temple!",
         "pt-BR": "[Noviça Nemma]\nBem-vindo ao templo!",
         "es-ES": "[Sacerdote Nemma]\n¡Bienvenido al templo!"
     },
     "77UVAQ": {
-        "en-US": "[High Priest Nemma]\nHellooo...",
+        "en-US": "[Priestess Nemma]\nHello...",
         "pt-BR": "[Noviça Nemma]\nOláoo...",
         "es-ES": "[Sacerdote Nemma]\nHolaaa..."
     },
     "8LUVAQ": {
-        "en-US": "[High Priest Nemma]\n...\nThe temple door has not opened for a while now.\nI should be going in soon...",
+        "en-US": "[Priestess Nemma]\n...\nThe temple door hasn't been opening since earlier.\nI should slowly try to enter and see...",
         "pt-BR": "[Noviça Nemma]\n...\nA porta do templo não abre desde agora há pouco.\nJá está na hora de eu entrar...",
         "es-ES": "[Sacerdote Nemma]\n...\nLa puerta del templo no se abre desde hace rato.\nYa debería ir entrando, pero..."
     },
     "8bUVAQ": {
-        "en-US": "[High Priest Nemma]\nWhen I tried to go in,\nthe door would not open.\nEven before, every now and then,\nthe door would not open...",
+        "en-US": "[Priestess Nemma]\nWhen I tried to enter,\nThe door won't open.\nSometimes when I used to come before,\nthe door wouldn't open...",
         "pt-BR": "[Noviça Nemma]\nQuando tentei entrar,\na porta não abriu.\nÀs vezes isso já tinha acontecido antes,\nde a porta não abrir...",
         "es-ES": "[Sacerdote Nemma]\nIntenté entrar,\npero la puerta no se abría.\nYa otras veces, de vez en cuando,\nla puerta tampoco se abría..."
     },
     "8rUVAQ": {
-        "en-US": "[High Priest Nemma]\nWhen the temple was built,\nit was all well and good that the technicians\nmade and installed\nan automatic locking system,\nbut now it cannot be dismantled or repaired,\nso whenever it broke down,\nwe simply waited.",
+        "en-US": "[Priestess Nemma]\nIt seems that when the temple was built,\nThe technicians installed an automatic locking system\nIt was good that they created and installed the system, but...\nNow, it's not possible to dismantle and fix it,\nSometimes when it malfunctions,\nI just had to wait when it happened.",
         "pt-BR": "[Noviça Nemma]\nParece que, na época em que construíram o templo,\nos técnicos tiveram a boa ideia de instalar\num sistema de travamento automático,\nmas agora não dá para desmontar aquilo,\nentão, quando às vezes quebrava,\nnós apenas esperávamos.",
         "es-ES": "[Sacerdote Nemma]\nAl parecer, cuando construyeron el templo,\nlos técnicos hicieron e instalaron\nun sistema de cierre automático,\npero ahora no se puede desmontar ni arreglar,\ny cuando a veces fallaba,\nsimplemente esperábamos."
     },
     "87UVAQ": {
-        "en-US": "[High Priest Nemma]\nBut...\nThis time it is taking rather long.\nWhat should I do... I have to get inside...",
+        "en-US": "[Priestess Nemma]\nHowever...\nThis time, it's taking longer than usual.\nWhat should I do... I need to get inside...",
         "pt-BR": "[Noviça Nemma]\nMas...\ndesta vez está demorando mais.\nO que eu faço... eu preciso entrar...",
         "es-ES": "[Sacerdote Nemma]\nPero...\nesta vez está tardando bastante.\n¿Qué hago... tengo que entrar..."
     },
     "9LUVAQ": {
-        "en-US": "[High Priest Nemma]\nSniffle, sniffle",
+        "en-US": "[Priestess Nemma]\nSniffle, sniffle",
         "pt-BR": "[Noviça Nemma]\nSnif snif",
         "es-ES": "[Sacerdote Nemma]\nSnif, snif"
     },
     "9bUVAQ": {
-        "en-US": "[High Priest Nemma]\nWhat should I do...\nPanooo~",
+        "en-US": "[Priestess Nemma]\nWhat should I do...\nFano~",
         "pt-BR": "[Noviça Nemma]\nO que eu faço...\nPanoo~",
         "es-ES": "[Sacerdote Nemma]\n¿Qué hago...\nPanooo~"
     },
     "9rUVAQ": {
-        "en-US": "[High Priest Nemma]\n...Ah, traveler {0}.\nHellooo...",
+        "en-US": "[Priestess Nemma]\n...Oh, {0} traveler.\nHello...",
         "pt-BR": "[Noviça Nemma]\n...Ah, viajante {0}.\nOláoo...",
         "es-ES": "[Sacerdote Nemma]\n...Ah, viajero {0}.\nHolaaa..."
     },
     "97UVAQ": {
-        "en-US": "[High Priest Nemma]\nThe temple door has not opened for a while now.\nI should be going in soon\nto sort out today's donations...",
+        "en-US": "[Priestess Nemma]\nThe temple door hasn't been opening since earlier.\nI'm going to tidy up the donations we received today.\nI need to go in and check...",
         "pt-BR": "[Noviça Nemma]\nA porta do templo não abre desde agora há pouco.\nJá está na hora de eu entrar\npara organizar o que foi doado hoje...",
         "es-ES": "[Sacerdote Nemma]\nLa puerta del templo no se abre desde hace rato.\nYa debería ir entrando\na ordenar lo recaudado hoy..."
     },
     "+LUVAQ": {
-        "en-US": "[High Priest Nemma]\nWe have nearly reached the target amount now.\nSo I tried to go in,\nbut the door would not open.\nEven before, every now and then,\nthe door would not open...",
+        "en-US": "[Priestess Nemma]\nWe've almost reached the fundraising goal.\nSo, when I tried to enter,\nThe door won't open.\nSometimes when I used to come before,\nthe door wouldn't open...",
         "pt-BR": "[Noviça Nemma]\nAgora falta bem pouco para atingir a meta.\nEntão, quando tentei entrar,\na porta não abriu.\nÀs vezes isso já tinha acontecido antes,\nde a porta não abrir...",
         "es-ES": "[Sacerdote Nemma]\nYa casi hemos alcanzado la cantidad objetivo.\nPor eso intenté entrar,\npero la puerta no se abría.\nYa otras veces, de vez en cuando,\nla puerta tampoco se abría..."
     },
     "+bUVAQ": {
-        "en-US": "[High Priest Nemma]\nI have to get inside somehow...\nBefore, one of the priests said\nthere were children playing around\nby getting into the temple from somewhere other than the door,\nbut I have no idea what that means\nor where that place is...",
+        "en-US": "[Priestess Nemma]\nI need to find a way to get inside somehow...\nOnce, a priest mentioned\ncoming into the temple through a place other than the main door\nHe mentioned that there were mischievous kids who used to play around,\nI don't know what he was talking about.\nI don't even know where it is...",
         "pt-BR": "[Noviça Nemma]\nEu preciso entrar de algum jeito...\nAntes, um sacerdote disse\nque havia crianças entrando no templo\npor um lugar que não era a porta,\npara fazer travessuras,\nmas eu não entendi o que ele quis dizer\ne não faço ideia de onde seja...",
         "es-ES": "[Sacerdote Nemma]\nTengo que entrar de alguna manera...\nAntes un sacerdote dijo\nque había niños que entraban al templo\npor sitios que no eran la puerta para hacer travesuras,\npero no entendí de qué hablaba\nni tampoco sé dónde es..."
     },
     "+rUVAQ": {
-        "en-US": "[High Priest Nemma]\nWho was it again...\nFano, what should I do...",
+        "en-US": "[Priestess Nemma]\nWho was it...\nFano, what should I do...",
         "pt-BR": "[Noviça Nemma]\nQuem foi mesmo...\nFano, o que eu faço...",
         "es-ES": "[Sacerdote Nemma]\n¿Quién era...?\nFano, ¿qué hago...?"
     },
     "+7UVAQ": {
-        "en-US": "[High Priest Nemma]\nAh, traveler {0}!\nYou do not have to worry now,\nthe door opened a little while ago!\nI was so startled...",
+        "en-US": "[Priestess Nemma]\nOh, {0} traveler!\nNow, you don't need to worry,\nThe door opened earlier!\nI was so surprised...",
         "pt-BR": "[Noviça Nemma]\nAh, viajante {0}!\nAgora você não precisa mais se preocupar,\nporque a porta abriu há pouco!\nTomei um susto tão grande...",
         "es-ES": "[Sacerdote Nemma]\n¡Ah, viajero {0}!\nYa no tiene de qué preocuparse,\nantes la puerta se abrió.\nMenudo susto me llevé..."
     },
     "/LUVAQ": {
-        "en-US": "[High Priest Nemma]\nSince Fano took charge of this task,\nand it was the first time,\nI was worried about\nwhat might happen if anything went wrong,\nbut thankfully it is fine.",
+        "en-US": "[Priestess Nemma]\nFano took care of it,\nIt's the first time something like this has happened,\nSomething is happening\nI was worried, but fortunately, everything is okay.",
         "pt-BR": "[Noviça Nemma]\nComo foi a primeira vez\nque Fano ficou responsável pelo trabalho,\neu fiquei pensando\nno que faria se acontecesse alguma coisa,\nentão ainda bem que deu tudo certo.",
         "es-ES": "[Sacerdote Nemma]\nComo Fano se hizo cargo del trabajo\ny era la primera vez que pasaba algo así,\npensé que quién sabe qué podría ocurrir,\npero menos mal."
     },
     "/bUVAQ": {
-        "en-US": "[High Priest Nemma]\nStill, who knows when\nthe door may suddenly stop opening again...\nI am worried again...",
+        "en-US": "[네마 신관]\n그래도 또 언제 갑자기\n문이 안 열리게 될지...\n또 걱정이...",
         "pt-BR": "[Noviça Nemma]\nMesmo assim, e se de repente\na porta parar de abrir de novo...\nAgora estou preocupada outra vez...",
         "es-ES": "[Sacerdote Nemma]\nAun así, vete a saber cuándo\nde repente\nla puerta volverá a no abrirse...\nY otra vez me preocupo..."
     },
     "/rUVAQ": {
-        "en-US": "[High Priest Nemma]\nWahh~",
+        "en-US": "[Priestess Nemma]\nUh-oh~",
         "pt-BR": "[Noviça Nemma]\nUééém~",
         "es-ES": "[Sacerdote Nemma]\n¡Uaaa~"
     },
     "/7UVAQ": {
-        "en-US": "[High Priest Nemma]\nAh...\nWhat should I do...",
+        "en-US": "[Priestess Nemma]\nOh...\nWhat should I do...",
         "pt-BR": "[Noviça Nemma]\nAh...\no que eu faço...",
         "es-ES": "[Sacerdote Nemma]\nAh...\n¿Qué hago...?"
     },
     "ALYVAQ": {
-        "en-US": "[High Priest Nemma]\nNow that the fundraising is over,\nall that remains is for you\nto go inside and exchange your raffle ticket, right?",
+        "en-US": "[Priestess Nemma]\nNow that the fundraising is finished,\nNow, please go inside and\nNow, all that's left is exchanging the raffle tickets, right?",
         "pt-BR": "[Noviça Nemma]\nComo a arrecadação terminou,\nagora só falta você entrar\ne trocar os bilhetes de sorteio, não é?",
         "es-ES": "[Sacerdote Nemma]\nComo la recaudación ya ha terminado,\n¿ahora ya solo le queda entrar\ny cambiar los boletos del sorteo?"
     },
     "AbYVAQ": {
-        "en-US": "[High Priest Nemma]\nAh, traveler!\nYou do not have to worry now,\nthe door opened a little while ago!\nI was so startled...",
+        "en-US": "[Priestess Nemma]\nOh, traveler!\nNow, you don't need to worry,\nThe door opened earlier!\nI was so surprised...",
         "pt-BR": "[Noviça Nemma]\nAh, viajante!\nAgora você não precisa mais se preocupar,\nporque a porta abriu há pouco!\nTomei um susto tão grande...",
         "es-ES": "[Sacerdote Nemma]\n¡Ah, viajero!\nYa no tiene de qué preocuparse,\nantes la puerta se abrió.\nMenudo susto me llevé..."
     },
     "ArYVAQ": {
-        "en-US": "[High Priest Nemma]\nStill, who knows when\nsomething might suddenly happen again...\nI am worried again...",
+        "en-US": "[네마 신관]\n그래도 또 언제 갑자기\n무슨 일이 생길지...\n또 걱정이...",
         "pt-BR": "[Noviça Nemma]\nMesmo assim, e se de repente\nalguma coisa acontecer de novo...\nAgora estou preocupada outra vez...",
         "es-ES": "[Sacerdote Nemma]\nAun así, vete a saber cuándo\nde repente\npueda volver a ocurrir algo...\nY otra vez me preocupo..."
     },
     "A7YVAQ": {
-        "en-US": "[High Priest Nemma]\nNow that the fundraising is over,\nthe next thing to do is...\nwhat was it again...?\nHmm...",
+        "en-US": "[Priestess Nemma]\nNow that the fundraising is finished,\nNow, the next thing to do is...\nWhat was it again...\nHmm...",
         "pt-BR": "[Noviça Nemma]\nComo a arrecadação terminou,\nagora a próxima coisa a fazer é...\no que era mesmo....\nHmm...",
         "es-ES": "[Sacerdote Nemma]\nComo la recaudación ya ha terminado,\nahora lo siguiente que tengo que hacer es...\n¿qué era...?\nMmm..."
     },
     "BLYVAQ": {
-        "en-US": "[High Priest Nemma]\nShould I ask Fano?",
+        "en-US": "[Priestess Nemma]\nShould I ask Fano?",
         "pt-BR": "[Noviça Nemma]\nSerá que devo perguntar ao Fano?",
         "es-ES": "[Sacerdote Nemma]\n¿Debería preguntárselo a Fano?"
     },
     "BbYVAQ": {
-        "en-US": "[High Priest Nemma]\nI remembered!\nI remembered, I remembered,\nit would be nice to have some fireworks.",
+        "en-US": "[Priestess Nemma]\nI remembered!\nI remembered, I remembered,\nIt would be nice to have some fireworks.",
         "pt-BR": "[Noviça Nemma]\nLembrei!\nLembrei, lembrei,\nseria bom ter alguns fogos de artifício.",
         "es-ES": "[Sacerdote Nemma]\n¡Ya me acordé!\n¡Ya me acordé, ya me acordé,\nvendrían bien unos fuegos artificiales."
     },
     "BrYVAQ": {
-        "en-US": "[High Priest Nemma]\nYou would know where to buy them, right, traveler?\nIf you bring them to me... hmm...\nI shall give you the temple's blessing!",
+        "en-US": "[Priestess Nemma]\nAs a traveler, you probably know where they sell them, right?\nIf you could find some for me... um...\nI'll give you the temple's blessing!",
         "pt-BR": "[Noviça Nemma]\nSendo um viajante, você deve saber onde vendem isso, certo?\nSe trouxer para mim... hum...\neu lhe darei a bênção do templo!",
         "es-ES": "[Sacerdote Nemma]\nSi es usted, viajero, seguro que sabe dónde los venden, ¿verdad?\nSi me los consigue... mm...\n¡le daré la bendición del templo!"
     },
     "B7YVAQ": {
-        "en-US": "[High Priest Nemma]\nI think 20 <ITEM>[Firecracker]<INFO>12018</INFO></ITEM> should do.\nThen I leave it to you!",
+        "en-US": "[Priestess Nemma]\n<ITEM>[Fireworks]<INFO>12018</INFO></ITEM> I think having just 20 should be enough.\nThen, please take care of it!",
         "pt-BR": "[Noviça Nemma]\nAcho que só precisamos de 20 <ITEM>[Fogos de artifício]<INFO>12018</INFO></ITEM>.\nEntão conto com você!",
         "es-ES": "[Sacerdote Nemma]\nCreo que bastarán 20 <ITEM>[Fuegos artificiales]<INFO>12018</INFO></ITEM>.\nEntonces, se lo encargo mucho."
     },
     "CLYVAQ": {
-        "en-US": "[High Priest Nemma]\nHave you brought\nthe 20 <ITEM>[Firecracker]<INFO>12018</INFO></ITEM>\nI asked for?",
+        "en-US": "[Priestess Nemma]\nThe requested <ITEM>[Fireworks]<INFO>12018</INFO></ITEM>, 20 of them,\nHave you brought them?",
         "pt-BR": "[Noviça Nemma]\nVocê trouxe os 20 <ITEM>[Fogos de artifício]<INFO>12018</INFO></ITEM>\nque eu pedi?",
         "es-ES": "[Sacerdote Nemma]\n¿Ha traído\nlos 20 <ITEM>[Fuegos artificiales]<INFO>12018</INFO></ITEM>\nque le pedí?"
     },
     "CbYVAQ": {
-        "en-US": "No, not yet...",
+        "en-US": "No, that's a bit...",
         "pt-BR": "Não, é que ainda...",
         "es-ES": "No, eso todavía..."
     },
     "CrYVAQ": {
-        "en-US": "[High Priest Nemma]\nLet me see...",
+        "en-US": "[Priestess Nemma]\nLet's see...",
         "pt-BR": "[Noviça Nemma]\nDeixe-me ver...",
         "es-ES": "[Sacerdote Nemma]\nA ver..."
     },
     "C7YVAQ": {
-        "en-US": "[High Priest Nemma]\nThank you!\nMay the grace of the goddess Freyja\nbe with you...",
+        "en-US": "[Priestess Nemma]\nThank you!\nPray, may the goddess's blessings be with you.\nAlways be with you...",
         "pt-BR": "[Noviça Nemma]\nObrigada!\nQue a bênção da deusa Freya\nesteja com você...",
         "es-ES": "[Sacerdote Nemma]\n¡Muchas gracias!\nQue la bendición de la diosa Freya\nle acompañe..."
     },
     "DLYVAQ": {
-        "en-US": "== Upon hearing High Priest Nemma's prayer ==\n == your body seemed to feel a little lighter. ==",
+        "en-US": "== Let's listen to Priest Nemma's prayer. ==\n == My body feels lighter. ==\n == I felt it ==",
         "pt-BR": "== Ao ouvir a oração de Noviça Nemma ==\n == tive a sensação de que ==\n == meu corpo ficou um pouco mais leve ==",
         "es-ES": "== Al escuchar la plegaria de Sacerdote Nemma ==\n == sintió que el cuerpo se le volvía ==\n == un poco más ligero =="
     },
     "DbYVAQ": {
-        "en-US": "[High Priest Nemma]\nHis Holiness will be pleased as well!",
+        "en-US": "[Priestess Nemma]\nThe Pope will also be pleased!",
         "pt-BR": "[Noviça Nemma]\nAté a Papa ficará feliz!",
         "es-ES": "[Sacerdote Nemma]\n¡Seguro que Su Santidad la Papisa también se alegrará!"
     },
     "DrYVAQ": {
-        "en-US": "[High Priest Nemma]\nUm, I do not think there are 20 here... Even if this is a donation, you still need to bring the amount I asked for... um... well, the instructions from above are...",
+        "en-US": "[Priestess Nemma]\nUm, it doesn't seem like there are 20... No matter how much you donate, you should fill what was requested... um... So, the instructions from above...",
         "pt-BR": "[Noviça Nemma]\nVeja só, acho que não são 20... Por mais que seja uma doação, você ainda precisa trazer a quantidade que eu pedi para que... hum... bem, as instruções de cima...",
         "es-ES": "[Sacerdote Nemma]\nA ver, parece que no llegan a 20... Por mucho que esto sea una donación, tiene que traer al menos la cantidad que le pedí, porque si no... mm... en fin, las instrucciones que vienen de arriba..."
     },
     "D7YVAQ": {
-        "en-US": "[High Priest Nemma]\n...No, in any case, please prepare 20. Understood?",
+        "en-US": "[Priestess Nemma]\n...Anyway, please prepare with 20. Got it?",
         "pt-BR": "[Noviça Nemma]\n...Não, de qualquer forma, prepare 20. Entendeu?",
         "es-ES": "[Sacerdote Nemma]\n...No, en cualquier caso, tráigalos en grupos de 20. ¿Entendido?"
     },
     "ELYVAQ": {
-        "en-US": "[High Priest Nemma]\nThen it cannot be helped...\nThis is more or less a donation too,\nso I cannot force you.",
+        "en-US": "[Priestess Nemma]\nThen there's nothing else I can do...\nThis is also like a donation.\nBecause it's not forced.",
         "pt-BR": "[Noviça Nemma]\nEntão não há o que fazer...\nIsso também é praticamente uma doação,\nentão não é algo que eu possa exigir.",
         "es-ES": "[Sacerdote Nemma]\nEntonces no se puede hacer nada...\nesto también viene a ser como una donación,\nasí que no puedo obligarle."
     },
@@ -410,17 +410,17 @@
         "es-ES": "Fano"
     },
     "ErYVAQ": {
-        "en-US": "[Priest Pano]\nGreetings.",
+        "en-US": "[Priestess Fano]\nHello.",
         "pt-BR": "[Sacerdote Pano]\nOlá.",
         "es-ES": "[Sacerdote Pano]\nBuenos días."
     },
     "E7YVAQ": {
-        "en-US": "I would like to exchange a raffle ticket.",
+        "en-US": "추첨권 교환을 하려고요.",
         "pt-BR": "Quero trocar os bilhetes de sorteio.",
         "es-ES": "Quiero cambiar boletos del sorteo."
     },
     "FLYVAQ": {
-        "en-US": "I would like guidance inside the temple.",
+        "en-US": "신전 내부 안내를 받고 싶어요.",
         "pt-BR": "Quero receber orientação sobre o interior do templo.",
         "es-ES": "Quiero que me guíe por el interior del templo."
     },
@@ -430,62 +430,62 @@
         "es-ES": "Sí, hola."
     },
     "FrYVAQ": {
-        "en-US": "[Priest Pano]\nYou mean the festival donation raffle ticket?\nSo there are still people who have that.\nThose who keep their storage neat are more popular with the opposite sex.\n...Ahem. I have spoken pointlessly.",
+        "en-US": "[Priestess Fano]\nIs this for the festival donation raffle ticket?\nIt seems like some people still have them.\nThe one who organizes the warehouse neatly will be more popular.\n...Ahem. I spoke unnecessarily.",
         "pt-BR": "[Sacerdote Pano]\nEstá falando dos bilhetes de sorteio das doações do festival?\nAinda existem pessoas que estão com isso.\nQuem mantém o armazém bem arrumado costuma ser popular com o sexo oposto.\n...Cof. Falei uma coisa desnecessária.",
         "es-ES": "[Sacerdote Pano]\n¿Se refiere a los boletos del sorteo por donativos del festival?\nTodavía hay gente que los conserva.\nA la gente que mantiene el almacén ordenado se la ve más popular ante el sexo opuesto.\n...Ejem. He dicho algo innecesario."
     },
     "F7YVAQ": {
-        "en-US": "[Priest Pano]\nWould you like to exchange it for a prize?",
+        "en-US": "[Priestess Fano]\nWould you like to exchange your prize?",
         "pt-BR": "[Sacerdote Pano]\nDeseja trocar pelos prêmios?",
         "es-ES": "[Sacerdote Pano]\n¿Desea canjear su premio?"
     },
     "GLYVAQ": {
-        "en-US": "No.",
+        "en-US": "아니오.",
         "pt-BR": "Não.",
         "es-ES": "No."
     },
     "GbYVAQ": {
-        "en-US": "[Priest Pano]\nBefore exchanging prizes, do something about that baggage that looks as though it is making it hard for you even to breathe.\nWhat would you do if you drew a large item?",
+        "en-US": "[파노 신관]\n경품 교환에 앞서 그 숨쉬기도 힘들어보이는 짐부터 어떻게 하고 오십시오.\n큰 물건이라도 나오면 어쩌려 그러십니까.",
         "pt-BR": "[Sacerdote Pano]\nAntes de trocar pelos prêmios, vá dar um jeito nessa bagagem que parece até estar dificultando a sua respiração.\nE se sair algum item grande?",
         "es-ES": "[Sacerdote Pano]\nAntes de canjear el premio, vaya a hacer algo con ese equipaje que parece que ni le deja respirar.\n¿Qué piensa hacer si le toca algo grande?"
     },
     "GrYVAQ": {
-        "en-US": "[Priest Pano]\nPlease hand me one raffle ticket.",
+        "en-US": "[파노 신관]\n추첨권을 한 장 주시지요.",
         "pt-BR": "[Sacerdote Pano]\nPor favor, me entregue um bilhete de sorteio.",
         "es-ES": "[Sacerdote Pano]\nEntrégueme un boleto del sorteo."
     },
     "G7YVAQ": {
-        "en-US": "[Priest Pano]\nWhat I have just given you is an item\nthat had long lain dormant in our temple warehouse,\nso rather than seeing it as payment\nfor your donation, please regard it as\na token of our sincerity.\nNow then, have a pleasant time.",
+        "en-US": "[파노 신관]\n방금 드린 것은 저희 신전 창고에\n오랫동안 잠들어있던 물건으로,\n헌금의 댓가라기보다 저희의\n성의 표시로 봐주시길 바랍니다.\n그럼, 좋은 시간 되십시오.",
         "pt-BR": "[Sacerdote Pano]\nO que acabei de lhe entregar é um item que dormia há muito tempo no armazém do nosso templo.\nGostaria que o considerasse não como o preço da doação, mas como um gesto de boa vontade da nossa parte.\nEntão, tenha um bom momento.",
         "es-ES": "[Sacerdote Pano]\nLo que acabo de darle es un objeto\nque llevaba mucho tiempo dormido\nen el almacén de nuestro templo,\nasí que considérelo no tanto como\nla recompensa por el donativo,\nsino como una muestra de nuestra\ncortesía.\nEntonces, que disfrute de un buen rato."
     },
     "HLYVAQ": {
-        "en-US": "[Priest Pano]\nNo, wait.\nYou must give me the raffle ticket first.",
+        "en-US": "[Priestess Fano]\nNo, wait.\nYou need to give me the raffle ticket first.",
         "pt-BR": "[Sacerdote Pano]\nNão, espere um momento.\nVocê precisa me entregar primeiro o bilhete de sorteio.",
         "es-ES": "[Sacerdote Pano]\nNo, un momento.\nPrimero debe entregarme el boleto del sorteo."
     },
     "HbYVAQ": {
-        "en-US": "There is currently no way\nto receive a new raffle ticket,\nso if you do not have one,\ntry getting one from a friend or colleague.",
+        "en-US": "I need to receive a new raffle ticket now.\nIf you don't have it, then there's no way, so...\nTry getting it from a friend or colleague.",
         "pt-BR": "Agora não há mais forma de receber novos bilhetes de sorteio,\nentão, se não tiver nenhum,\ntente conseguir com um amigo ou companheiro.",
         "es-ES": "Ahora mismo no hay forma de recibir\nboletos nuevos, así que, si no tiene,\nconsiga alguno de un amigo o compañero."
     },
     "HrYVAQ": {
-        "en-US": "If you do not have one,\nplease first make a donation\nto High Priest Nemma\nin front of the temple.",
+        "en-US": "If you don't have it, first...\n Ask Priest Nemma in front of the temple\nPlease make an offering.",
         "pt-BR": "Se não estiver com um,\nfaça primeiro uma doação\nà Noviça Nemma em frente ao templo.",
         "es-ES": "Si no lo tiene consigo, primero\nhaga un donativo a\nSacerdote Nemma, frente al templo."
     },
     "H7YVAQ": {
-        "en-US": "[Priest Pano]\nThen if you need anything from me,\nplease come again.",
+        "en-US": "[파노 신관]\n그럼, 제가 필요한 일이 있으면\n다시 찾아오십시오.",
         "pt-BR": "[Sacerdote Pano]\nEntão, se precisar de algo mais de mim,\nvolte a me procurar.",
         "es-ES": "[Sacerdote Pano]\nEntonces, si vuelve a necesitarme\npara algo, venga a verme otra vez."
     },
     "ILYVAQ": {
-        "en-US": "[Priest Pano]\nI can exchange it at any time,\nso please visit again when you need to.",
+        "en-US": "[파노 신관]\n교환은 언제든지 해 드리니\n필요하실 때 다시 방문하십시오.",
         "pt-BR": "[Sacerdote Pano]\nFaço a troca a qualquer momento,\nentão volte quando precisar.",
         "es-ES": "[Sacerdote Pano]\nSe lo canjearé cuando quiera,\nasí que vuelva cuando lo necesite."
     },
     "IbYVAQ": {
-        "en-US": "[Priest Pano]\nThe sanctuary is behind the wall you see behind me.\nThere is also an audience chamber upstairs where you may have an audience with His Holiness, but ordinary people without permission may not enter.",
+        "en-US": "[파노 신관]\n제 뒤로 보이는 벽 안쪽이 예배당입니다.\n윗층에 교황님을 알현할 수 있는 알현실이 있습니다만, 허가받지 않은 일반인이 들어갈 수는 없습니다.",
         "pt-BR": "[Sacerdote Pano]\nDo outro lado da parede atrás de mim fica a capela.\nNo andar de cima há uma sala de audiência onde se pode ser recebido pela Papa, mas pessoas comuns sem autorização não podem entrar.",
         "es-ES": "[Sacerdote Pano]\nLa pared que ve a mi espalda da al interior de la capilla.\nEn el piso superior hay una sala de audiencia donde puede presentarse ante la Papisa, pero ningún ciudadano común sin autorización puede entrar."
     },
@@ -495,62 +495,62 @@
         "es-ES": "[{0}]\n..."
     },
     "I7YVAQ": {
-        "en-US": "[Priest Pano]\n...",
+        "en-US": "[Priestess Fano]\n...",
         "pt-BR": "[Sacerdote Pano]\n...",
         "es-ES": "[Sacerdote Pano]\n..."
     },
     "JLYVAQ": {
-        "en-US": "[Priest Pano]\nThe temple is also\na place where one prays\nto the goddess.\nI would ask that you remember\nit is not a tourist attraction.",
+        "en-US": "[Priestess Fano]\nThe temple also serves as a place for prayer to the gods.\nIt's a temple.\nIt's not a tourist attraction.\nI hope you remember that.",
         "pt-BR": "[Sacerdote Pano]\nO templo também é uma casa\nonde se reza a Deus.\nGostaria que se lembrasse\nde que isto não é um ponto turístico.",
         "es-ES": "[Sacerdote Pano]\nEl templo también es una casa\nde oración para el dios.\nMe gustaría que recordara\nque no es un lugar turístico."
     },
     "JbYVAQ": {
-        "en-US": "[Priest Pano]\nDown the corridors extending on both sides are six High Priest offices on each side.\nOutsiders without permission from a High Priest should refrain from entering.\nIf you have obtained permission, you may enter.",
+        "en-US": "[Priestess Fano]\nThere are six offices on each side of the corridor leading to the main building.\nUnauthorized visitors are not allowed access to the main building.\nIf you have obtained permission, you may enter.",
         "pt-BR": "[Sacerdote Pano]\nNos corredores que seguem para os dois lados há 6 escritórios de Arcebispos de cada lado.\nVisitantes de fora sem autorização dos Arcebispos devem se abster de entrar.\nSe tiver obtido permissão, pode entrar.",
         "es-ES": "[Sacerdote Pano]\nPor los pasillos que continúan a ambos lados hay seis despachos de grandes sacerdotes a cada lado.\nLos forasteros ajenos al templo deben abstenerse de entrar sin permiso del gran sacerdote.\nSi ha recibido autorización, puede pasar."
     },
     "JrYVAQ": {
-        "en-US": "[Priest Pano]\nPlease remain\nquiet inside the temple.",
+        "en-US": "[Priestess Fano]\nWithin the temple,\nPlease be quiet.",
         "pt-BR": "[Sacerdote Pano]\nPor favor,\nmantenha o silêncio\ndentro do templo.",
         "es-ES": "[Sacerdote Pano]\nDentro del templo,\nguarde silencio, por favor."
     },
     "J7YVAQ": {
-        "en-US": "[Priest Pano]\nI am busy right now, so come again later.",
+        "en-US": "[Priestess Fano]\nI'm busy now, please come back later.",
         "pt-BR": "[Sacerdote Pano]\nAgora estou ocupado, então volte mais tarde.",
         "es-ES": "[Sacerdote Pano]\nAhora estoy ocupado, vuelva más tarde."
     },
     "KLYVAQ": {
-        "en-US": "You opened the door, didn't you?",
+        "en-US": "Did you open the door?",
         "pt-BR": "Foi você quem abriu a porta, não foi?",
         "es-ES": "Usted fue quien abrió la puerta, ¿verdad?"
     },
     "KbYVAQ": {
-        "en-US": "[Priest Pano]\nYou mean the festival donation raffle ticket?\nSo there are still people who have that. The donations are complete. I can still exchange it, however.",
+        "en-US": "[Priestess Fano]\nAre you referring to the festival donation raffle ticket?\nAh, it seems you still have one of those festival donation raffle tickets. The donation has been completed, However, we are still offering exchanges.",
         "pt-BR": "[Sacerdote Pano]\nEstá falando dos bilhetes de sorteio das doações do festival?\nAinda existem pessoas que estão com isso. As doações já foram encerradas. Mas a troca ainda é possível.",
         "es-ES": "[Sacerdote Pano]\n¿Se refiere a los boletos del sorteo por donativos del festival?\nTodavía hay gente que los conserva. La recaudación ya ha terminado. Aun así, todavía sigo haciendo los canjes."
     },
     "KrYVAQ": {
-        "en-US": "[Priest Pano]\nThose who keep their storage neat are more popular with the opposite sex.\n...Ahem. I have spoken pointlessly.",
+        "en-US": "[Priestess Fano]\nThe one who organizes the warehouse neatly will be more popular.\n...Ahem. I spoke unnecessarily.",
         "pt-BR": "[Sacerdote Pano]\nQuem mantém o armazém bem arrumado costuma ser popular com o sexo oposto.\n...Cof. Falei uma coisa desnecessária.",
         "es-ES": "[Sacerdote Pano]\nA la gente que mantiene el almacén ordenado se la ve más popular ante el sexo opuesto.\n...Ejem. He dicho algo innecesario."
     },
     "K7YVAQ": {
-        "en-US": "[Priest Pano]\nNo, wait.\nYou must give me the raffle ticket first.\nYou do not have one?\nThat is unfortunate.",
+        "en-US": "[Priestess Fano]\nNo, wait a moment.\nYou need to give me the raffle ticket first.\nRight now, I need to receive a new raffle ticket.\nThere is no way, unless you have one.\nTry asking a friend or colleague to get one for you.",
         "pt-BR": "[Sacerdote Pano]\nNão, espere um momento.\nVocê precisa me entregar primeiro o bilhete de sorteio.\nNão tem nenhum?\nQue pena.",
         "es-ES": "[Sacerdote Pano]\nNo, un momento.\nPrimero debe entregarme el boleto del sorteo.\nAhora mismo no hay forma de recibir\nboletos nuevos, así que, si no tiene,\nconsiga alguno de un amigo o compañero."
     },
     "LLYVAQ": {
-        "en-US": "[Priest Pano]\nPardon?",
+        "en-US": "[Priestess Fano]\nYes?",
         "pt-BR": "[Sacerdote Pano]\nO quê?",
         "es-ES": "[Sacerdote Pano]\n¿Sí?"
     },
     "LbYVAQ": {
-        "en-US": "The one who opened the temple's locked door.",
+        "en-US": "The person who opened the locked door of the temple.",
         "pt-BR": "A pessoa que abriu a porta trancada do templo.",
         "es-ES": "La persona que abrió la puerta cerrada del templo."
     },
     "LrYVAQ": {
-        "en-US": "[Priest Pano]\nI do not know what you mean.",
+        "en-US": "[Priestess Fano]\nI don't know what you're talking about.",
         "pt-BR": "[Sacerdote Pano]\nNão sei do que está falando.",
         "es-ES": "[Sacerdote Pano]\nNo sé de qué me habla."
     },
@@ -560,192 +560,192 @@
         "es-ES": "La sacerdotisa Nemma..."
     },
     "MLYVAQ": {
-        "en-US": "[{0}]\nPriest Nemma\nwas terribly worried that this was the first malfunction\nsince Priest Pano took charge of this matter.",
+        "en-US": "[{0}]\nPriest Nemma first concern was\nWhen Priest Fano took charge of this matter and was deeply worried about the initial malfunction.",
         "pt-BR": "[{0}]\nA Sacerdotisa Nemma\nestava muito preocupada porque foi a primeira vez\nque o Sacerdote Pano ficou responsável\npor esse tipo de falha.",
         "es-ES": "[{0}]\nLa sacerdotisa Nemma\nestá muy preocupada porque,\ndesde que el sacerdote Pano se hizo cargo de esto,\nes la primera vez que ocurre una avería."
     },
     "MbYVAQ": {
-        "en-US": "[Priest Pano]\nAnd what of that?\nHigh Priest Nemma is my twin elder sister.",
+        "en-US": "[Priestess Fano]\nWhat's wrong with that?\nPriest Nemma is my twin sister.",
         "pt-BR": "[Sacerdote Pano]\nE daí?\nNoviça Nemma é minha irmã gêmea.",
         "es-ES": "[Sacerdote Pano]\n¿Y qué tiene eso de particular?\nSacerdote Nemma es mi hermana gemela."
     },
     "MrYVAQ": {
-        "en-US": "[{0}]\nShe said that when it malfunctioned before,\nit was fixed soon enough,\nso why did she speak even of\nwhen the temple was first built\nand grow so uneasy?",
+        "en-US": "[{0}]\nSometimes it would break down, but it would soon be fixed.\nDuring the time when the temple was first built\nWhile discussing the story...\nWhy Did they feel uneasy about it?",
         "pt-BR": "[{0}]\nDisseram que quando quebrava às vezes\nlogo era consertado,\nentão por que ela foi ficar ansiosa\naté contando a história\nda época em que o templo foi construído?",
         "es-ES": "[{0}]\nDecía que cuando se averiaba de vez en cuando,\npronto volvía a funcionar,\nentonces ¿por qué estaba tan intranquila\nhasta el punto de hablar de\nlo que ocurrió cuando el templo se creó?"
     },
     "M7YVAQ": {
-        "en-US": "[{0}]\nIn truth, what relation\ndoes Priest Pano have\nwith this temple?",
+        "en-US": "[{0}]\nActually, what's the connection between Priest Fano\nWhat does it have to do with anything?\nWith this temple.",
         "pt-BR": "[{0}]\nNa verdade, o Sacerdote Pano\ntem algum tipo de relação\ncom este templo.\nNão tem?",
         "es-ES": "[{0}]\nEn realidad, sacerdote Pano,\n¿qué relación tiene usted\ncon este templo?"
     },
     "NLYVAQ": {
-        "en-US": "[{0}]\nI actually heard it.\nA voice exactly\nlike Priest Nemma's.",
+        "en-US": "[{0}]\nI've actually heard about it.\nFrom Priest Nemma\nThe same voice.",
         "pt-BR": "[{0}]\nNa verdade, eu ouvi.\nUma voz exatamente igual\nà da Sacerdotisa Nemma.",
         "es-ES": "[{0}]\nEn realidad, lo oí.\nLa misma voz\nque la de la sacerdotisa Nemma."
     },
     "NbYVAQ": {
-        "en-US": "[{0}]\nI was in the temple too when the door was closed.\nWhen Priest Pano said something in front of the door,\nit opened, didn't it?",
+        "en-US": "[{0}]\nWhen the door closed, I was also in the temple.\nPriest Fano said something in front of the door.\nThe door was open, right?",
         "pt-BR": "[{0}]\nQuando a porta se fechou, eu também estava no templo.\nQuando o Sacerdote Pano disse alguma coisa diante da porta,\nela se abriu, não foi?",
         "es-ES": "[{0}]\nYo también estaba dentro del templo cuando la puerta se cerró.\nEl sacerdote Pano dijo algo delante de la puerta\ny entonces la puerta se abrió, ¿verdad?"
     },
     "NrYVAQ": {
-        "en-US": "[{0}]\nJust now Priest Pano said\nyou were Priest Nemma's twin,\nand Priest Nemma was outside\nworrying about Priest Pano...",
+        "en-US": "[{0}]\nPriest Fano just said\nYou mentioned that Priest Nemma is your twin, and...\nOutside, Priest Nemma was worried about Priest Fano...",
         "pt-BR": "[{0}]\nAgora mesmo o Sacerdote Pano\ndisse que era irmão gêmeo\nda Sacerdotisa Nemma,\ne a Sacerdotisa Nemma\nestava lá fora preocupada com o Sacerdote Pano...",
         "es-ES": "[{0}]\nY ahora mismo el sacerdote Pano\nha dicho que es gemelo de la sacerdotisa Nemma,\nNemma estaba fuera preocupándose por el sacerdote Pano..."
     },
     "N7YVAQ": {
-        "en-US": "[Priest Pano]\n....",
+        "en-US": "[Priestess Fano]\n....",
         "pt-BR": "[Sacerdote Pano]\n....",
         "es-ES": "[Sacerdote Pano]\n...."
     },
     "OLYVAQ": {
-        "en-US": "[Priest Pano]\n.......",
+        "en-US": "[Priestess Fano]\n.......",
         "pt-BR": "[Sacerdote Pano]\n.......",
         "es-ES": "[Sacerdote Pano]\n......."
     },
     "ObYVAQ": {
-        "en-US": "[Priest Pano]\n...My ancestor,\nthat is, an ancestor of High Priest Nemma as well,\nwas an alchemist.",
+        "en-US": "[Priestess Fano]\n...My ancestor,\nSo, there was a certain alchemist\nwho is also an ancestor of Priest Nemma.",
         "pt-BR": "[Sacerdote Pano]\n...Meu ancestral,\nou melhor, um ancestral\nque também é ancestral\nde Noviça Nemma,\nfoi um alquimista.",
         "es-ES": "[Sacerdote Pano]\n...Uno de mis antepasados,\nes decir, también antepasado de Sacerdote Nemma,\nfue cierto alquimista."
     },
     "OrYVAQ": {
-        "en-US": "[Priest Pano]\nAccording to the remaining records,\nafter completing training,\nthat person departed on a journey of discipline,\nand though no one knows\nwhere they went,\nafter returning,\nthey never made\na single mistake in their craft.",
+        "en-US": "[Priestess Fano]\nAccording to the remaining records,\nAfter completing the training process, and leaving for practice,\n it is unknown where they went\n but upon returning, in terms of skills...\nit is said that there were no mistakes in their skills.",
         "pt-BR": "[Sacerdote Pano]\nSegundo os registros que restam,\ndepois de concluir seu período de treinamento,\nele partiu em peregrinação\ne não se sabe para onde foi,\nmas, depois de voltar,\nnunca mais cometeu\nnenhum erro em sua técnica.",
         "es-ES": "[Sacerdote Pano]\nSegún los registros que han quedado,\ntras completar su formación\nse marchó a una peregrinación\ny no se sabe adónde fue,\npero cuando regresó\nya no cometió ni un solo error\nen su técnica."
     },
     "O7YVAQ": {
-        "en-US": "[Priest Pano]\nThis temple is,\nin a sense,\nno different from a tomb\nfor the ancestors who left\nRune-Midgarts a thousand years ago\nand came to this place.",
+        "en-US": "[Priestess Fano]\nThis temple,\nin a sense,\nA thousand years ago, our ancestors leaving Rune-Midgard\nThe ancestors who came here\nMade this as their tombs",
         "pt-BR": "[Sacerdote Pano]\nEste templo,\nem certo sentido,\né praticamente um túmulo\ndos ancestrais que deixaram Rune-Midgarts\nhá mil anos e vieram para cá.",
         "es-ES": "[Sacerdote Pano]\nEste templo,\nen cierto sentido,\nes poco menos que la tumba\nde nuestros antepasados,\nque abandonaron Rune-Midgarts\ny vinieron aquí\nhace mil años."
     },
     "PLYVAQ": {
-        "en-US": "[Priest Pano]\nThrough the efforts of many alchemists,\nover several decades of pioneering,\nthe desert was turned into pasture,\nand in the end, it was\nthose who planned the city\nand designed and built the temple",
+        "en-US": "[Priestess Fano]\nThrough the efforts of many alchemists\nThrough decades of pioneering,\ntransformed the desert into fertile land\neventually, cities were build, and\nthe temple was designed and built by the efforts of many alchemists,",
         "pt-BR": "[Sacerdote Pano]\nGraças ao esforço de muitos alquimistas,\napós décadas de colonização,\no deserto se transformou em pastagem,\ne, por fim, aqueles que planejaram a cidade,\ndesenharam e construíram o templo foram",
         "es-ES": "[Sacerdote Pano]\nGracias al esfuerzo de muchos alquimistas,\ny a una colonización que duró décadas,\nel desierto se transformó en pastizales,\ny quienes finalmente planificaron la ciudad,\ndiseñaron el templo\ny lo construyeron fueron"
     },
     "PbYVAQ": {
-        "en-US": "[Priest Pano]\nall those who came away to this place.\nBy the thoughts of the leaders\nwho sought to gather together\nthe wavering will of the people\nand their conflicting claims,\nthe temple came to be built.",
+        "en-US": "[Priestess Fano]\nAll those who came here.\nGathered by the wavering determination\nAnd conflicting assertions of people,\nThrough the thoughts of leaders\nTo build this temple.",
         "pt-BR": "[Sacerdote Pano]\ntodos os que partiram para este lugar.\nPelas ideias dos líderes\nque queriam reunir\na vontade dispersa das pessoas\ne as opiniões que se desencontravam,\nacabaram construindo o templo.",
         "es-ES": "[Sacerdote Pano]\ntodos los que partieron hacia este lugar.\nLa idea de los líderes, que querían reunir\nla voluntad vacilante de la gente\ny las opiniones enfrentadas entre sí,\nfue la que llevó a construir el templo."
     },
     "PrYVAQ": {
-        "en-US": "[Priest Pano]\nIn the midst of that, my ancestor\ncame to be responsible\nfor several additional functions\nof the temple...\nand by order,\ninstalled a device\nthat allowed entry to and from the temple\nonly with an access card,",
+        "en-US": "[Priestess Fano]\nDuring that process, our ancestors were tasked with...\noverseeing some additional features of the temple...\nand were responsible for...\ninstalling a device that required an access card...\nfor accessing the temple...\nas per the instructions.",
         "pt-BR": "[Sacerdote Pano]\nNesse processo, meu ancestral\nficou responsável\npor algumas funções adicionais do templo\ne...\npor ordem superior, instalou\num dispositivo que permitia entrar e sair do templo\napenas com um cartão de acesso,",
         "es-ES": "[Sacerdote Pano]\nEn medio de todo eso, mi antepasado\nse encargó de algunas funciones adicionales\ndel templo...\ny, por orden recibida, instaló\nun dispositivo que exigía una tarjeta de acceso\npara poder entrar y salir del templo,"
     },
     "P7YVAQ": {
-        "en-US": "[Priest Pano]\nBut in truth, Sessrumnir Temple,\nwhich almost came to serve\nas a shelter to protect people\nfrom those who should not have entered...\nintruders...",
+        "en-US": "[Priestess Fano]\nIn fact, it shouldn't be entered...\nIntruders...\n...to protect people from intruders...\nalmost became a shelter...\nthe Sessrumnir temple...",
         "pt-BR": "[Sacerdote Pano]\nmas o templo Sessrumnir,\nque estava prestes\na se tornar um refúgio\npara proteger as pessoas\nde... invasores...\nque não deveriam entrar,",
         "es-ES": "[Sacerdote Pano]\npero lo cierto es que...\nel templo Sessrumnir,\nque estuvo a punto de convertirse\nen refugio para proteger a la gente\nde los...\nintrusos...\n...que no debían entrar,"
     },
     "QLYVAQ": {
-        "en-US": "[Priest Pano]\nin truth had absolutely no need\nto serve as a shelter.\nThe intruders... that had been foreseen\nshowed not even\nthe slightest interest,\nlet alone any plan to invade.",
+        "en-US": "[Priestess Fano]\nIn fact, there was no need for it to serve as a shelter.\nThere was nothing at all.\nThe anticipated intruders... didn't even\nhave plans to intrude,\nlet alone show any interest.",
         "pt-BR": "[Sacerdote Pano]\nna verdade nunca precisou\nservir como refúgio.\nOs invasores... previstos\nnem sequer demonstraram interesse algum,\nmuito menos chegaram a planejar uma invasão.",
         "es-ES": "[Sacerdote Pano]\nen realidad no necesitó en absoluto\nhacer de refugio.\nAquellos intrusos previstos...\nni siquiera mostraron interés alguno,\npor no hablar ya de poner en marcha\nun plan de invasión."
     },
     "QbYVAQ": {
-        "en-US": "[Priest Pano]\nSo all of the cards were discarded,\nbut it would have taken too much effort\nto remove a device\nthat was already perfect even in appearance,\nand so, by the opinion that\nit was better left as it was,\nit still remains.",
+        "en-US": "[Priestess Fano]\nSo all the cards were discarded, but\nthe devices, already perfect aesthetically,\nrequired too much effort to remove,\nso it was better to just leave them, according to the opinion\nThey remain as they were.",
         "pt-BR": "[Sacerdote Pano]\nPor isso, todos os cartões foram descartados,\nmas, como remover um mecanismo\nque já era perfeito até esteticamente\ndaria trabalho demais,\nprevaleceu a opinião de que seria melhor\ndeixá-lo como estava,\ne por isso ele continua ali até hoje.",
         "es-ES": "[Sacerdote Pano]\nPor eso todas las tarjetas fueron desechadas,\npero se consideró que retirar aquel mecanismo,\nque además era perfecto también desde el punto de vista estético,\nrequeriría demasiado trabajo,\ny se decidió que era mejor dejarlo tal cual.\nPor eso sigue ahí."
     },
     "QrYVAQ": {
-        "en-US": "[Priest Pano]\nSome time ago I heard rumors\nthat the door locking system\nwas often malfunctioning,\nand I thought, surely not.\nThat locking system,\nwhich even present-day alchemists\npraise as perfect\naccording to its design.",
+        "en-US": "[Priestess Fano]\nRecently, there have been rumors of the door locking system\noccasionally malfunctioning.\nI doubted it could be true.\nEven the current alchemists, who praise it\non paper, have heard praises of its perfection.\nThat's what they're talking about, the locking system.",
         "pt-BR": "[Sacerdote Pano]\nHá algum tempo comecei a ouvir rumores\nde que o sistema de trancamento da porta\nàs vezes apresentava falhas,\ne pensei: não pode ser.\nAquele sistema de trancamento,\nque até mesmo alquimistas modernos\nelogiam como perfeito em seu projeto.",
         "es-ES": "[Sacerdote Pano]\nDesde hace algún tiempo corrían rumores\nde que el sistema de cierre de puertas\nfallaba de vez en cuando,\ny pensé que era imposible.\nPrecisamente ese sistema de cierre\nque incluso los alquimistas actuales\nelogian en los planos\npor su perfección."
     },
     "Q7YVAQ": {
-        "en-US": "[Priest Pano]\nWhen it malfunctions,\nit is supposed to cease operating,\nso if it keeps turning\noff and on repeatedly,\nI thought that clearly\nsomeone must still have an undiscarded card\nand be playing tricks.",
+        "en-US": "[Priestess Fano]\nWhen it malfunctions and stops working,\neven though it's stopped,\nrepeating turning on and off,\nclearly someone with a non-discarded card\nis playing a prank,\nI thought.",
         "pt-BR": "[Sacerdote Pano]\nQuando quebra, o funcionamento\ndeveria simplesmente parar,\nentão o fato de ficar desligando e ligando\nsó podia significar\nque alguém, com um cartão não descartado,\nestava fazendo alguma brincadeira.",
         "es-ES": "[Sacerdote Pano]\nSi llegaba a averiarse,\ndebía dejar de funcionar del todo,\ny el hecho de que se apagara y encendiera repetidamente\nme hizo pensar con claridad\nque alguien estaba jugando con una tarjeta\nque no había sido desechada."
     },
     "RLYVAQ": {
-        "en-US": "[Priest Pano]\n...Perhaps it was only\nthat my pride in my ancestors\nwas too strong...",
+        "en-US": "[Priestess Fano]\n...Perhaps it was pride in their ancestors,\nor maybe it was just pride,\nbut I'm not sure...",
         "pt-BR": "[Sacerdote Pano]\n...Talvez fosse apenas\nporque eu tinha muito orgulho\ndos meus ancestrais...",
         "es-ES": "[Sacerdote Pano]\n...Tal vez no fuera más que\nel fuerte orgullo que sentía\npor mis antepasados..."
     },
     "RbYVAQ": {
-        "en-US": "[Priest Pano]\nThe chance came\nto confirm whether it was\nreally a malfunction or not.\nAs I was finishing my duties and preparing to leave,\nwhile offering prayer in the sanctuary,\nI dropped some documents and,\nas I was picking them up,",
+        "en-US": "[Priestess Fano]\nWhether it's really broken or not,\nan opportunity to confirm has arrived.\nAs I was finishing my work and about to leave,\nwhile attending a service in the sanctuary,\nI dropped some documents and\nwhile picking them up...",
         "pt-BR": "[Sacerdote Pano]\nEntão surgiu a oportunidade\nde verificar se aquilo era mesmo\numa falha ou não.\nEu estava saindo depois de terminar meu trabalho,\nmas, durante a oração na capela,\ndeixei cair alguns documentos\ne, enquanto os recolhia,",
         "es-ES": "[Sacerdote Pano]\nPero entonces llegó\nla oportunidad de confirmar\nsi aquello era realmente una avería o no.\nCuando terminé mi trabajo y me disponía a salir,\nestaba en la capilla rezando,\ny justo en el momento en que\nse me cayó un documento\ny me agaché a recogerlo,"
     },
     "RrYVAQ": {
-        "en-US": "[Priest Pano]\nall the lights\ninside the temple\nwent out.\nIt was still light enough\nto make out the outlines of things,\nso I left the sanctuary\nand headed for the door,\nwhen I heard a sound from the stairs.\n...Someone,",
+        "en-US": "[Priestess Fano]\nAll the lights inside the temple\nhave gone out.\nIt was dim enough to make out shapes,\nso I left the sanctuary and headed towards the door,\nbut I heard a noise from the stairs.\n...someone was,",
         "pt-BR": "[Sacerdote Pano]\ntodas as luzes do templo\nse apagaram.\nAinda havia claridade suficiente\npara distinguir os contornos dos objetos,\nentão saí da capela\ne me dirigi à porta,\nmas ouvi um som vindo da escadaria.\n...Alguém,",
         "es-ES": "[Sacerdote Pano]\ntodas las luces del interior del templo\nse apagaron.\nTodavía se distinguía el contorno\nde las cosas,\nasí que salí de la capilla y me dirigí a la puerta,\ncuando oí un ruido en dirección a las escaleras.\n...Alguien"
     },
     "R7YVAQ": {
-        "en-US": "[Priest Pano]\nwas moving something.\nToward the holy ground.",
+        "en-US": "[Priestess Fano]\nSomeone was moving something.\nToward the sanctuary.",
         "pt-BR": "[Sacerdote Pano]\nestava carregando alguma coisa.\nNa direção do santuário.",
         "es-ES": "[Sacerdote Pano]\nestaba transportando algo.\nHacia el santuario."
     },
     "SLYVAQ": {
-        "en-US": "[Priest Pano]\nAs one who had only just become a Priest,\nI still do not know well\nwhat lies in the holy ground,",
+        "en-US": "[Priestess Fano]\nWhat is in the sanctuary,\nAs I've just become the priest,\nI still don't know well, but,",
         "pt-BR": "[Sacerdote Pano]\nO que há no santuário\nainda não é algo\nque eu, recém-tornado Sacerdote,\nsaiba muito bem,",
         "es-ES": "[Sacerdote Pano]\nQué hay en el santuario\nes algo que yo, recién hecho\nSacerdote, todavía no sé bien,"
     },
     "SbYVAQ": {
-        "en-US": "[Priest Pano]\nbut not long after\nit entered the holy ground,\nI heard the cry\nof a large animal,\nand there was a great commotion.\n...I was afraid.",
+        "en-US": "[Priestess Fano]\nAfter it entered the sanctuary,\nBefore long,\nthe loud cries of an animal were heard, and\nthere was a commotion.\n...I was scared.",
         "pt-BR": "[Sacerdote Pano]\nmas, pouco depois\nde aquilo entrar no santuário,\nouvi o rugido de um animal grande\ne houve uma grande confusão.\n...Fiquei com medo.",
         "es-ES": "[Sacerdote Pano]\npero no mucho después\nde que aquello entrara en el santuario,\nse oyó el rugido de un gran animal\ny se produjo una gran conmoción.\n...Tuve miedo."
     },
     "SrYVAQ": {
-        "en-US": "[Priest Pano]\nIn such haste that I could barely keep my senses,\nI returned to the door\nand recited\nthe words my ancestor left behind.",
+        "en-US": "[Priestess Fano]\nIn such a hurry that I couldn't even regain my composure,\nI hurried back to the door,\nThe words left by our ancestors\nI recited it.",
         "pt-BR": "[Sacerdote Pano\nVoltei correndo para a porta,\nsem nem conseguir pensar direito,\ne recitei as palavras\ndeixadas pelo meu ancestral.",
         "es-ES": "[Sacerdote Pano]\nFuera de mí por la prisa,\nregresé a toda velocidad\nhasta la puerta\ny recité las palabras\nque dejó mi antepasado."
     },
     "S7YVAQ": {
-        "en-US": "[Priest Pano]\n...It is said\nthat person was born\nand raised in a seaside city\ncalled Izlude.",
+        "en-US": "[Priestess Fano]\n...That person\nIn a city called Izlude by the sea\nit's said that they were born and raised.",
         "pt-BR": "[Sacerdote Pano]\n...Dizem\nque ele nasceu e cresceu\nnuma cidade costeira chamada Izlude.",
         "es-ES": "[Sacerdote Pano]\n...Al parecer,\nél había nacido y crecido\nen una ciudad costera llamada Izlude."
     },
     "TLYVAQ": {
-        "en-US": "[Priest Pano]\nFor anything unforeseen,\nthey secretly added\na voice-recognition door-opening device,\nusing words not commonly spoken aloud,\nand when the cards were discarded,\nthey passed it down\nto their descendants.",
+        "en-US": "[Priestess Fano]\nJust in case,\nwith words not commonly spoken,\na voice recognition door opening device\nwas secretly installed,\nand as the cards were discarded,\nthey taught it to their descendants.",
         "pt-BR": "[Sacerdote Pano]\nPara o caso de algo acontecer,\nele acrescentou secretamente\num dispositivo de abertura por reconhecimento de voz,\nusando palavras que normalmente\nnão se dizem em voz alta,\ne, quando os cartões foram descartados,\ntransmitiu isso aos seus descendentes.",
         "es-ES": "[Sacerdote Pano]\nPara cualquier imprevisto,\nañadió en secreto\nun dispositivo de apertura por reconocimiento de voz,\nusando palabras que normalmente\nno se pronuncian en voz alta,\ny, cuando se desecharon las tarjetas,\ntransmitió esas palabras\na sus descendientes."
     },
     "TbYVAQ": {
-        "en-US": "[Priest Pano]\nI prayed that it would not be a malfunction,\nand it was not.\nSomeone was doing\nsomething absurd\nin the temple's holy ground,\nand to conceal it,\nused one of the remaining cards\nto deceive people.",
+        "en-US": "[Priestess Fano]\nWe hoped it wasn't a malfunction,\nand it wasn't.\nSomeone in the temple sanctuary\nwas doing something unreasonable,\nand to conceal it, they used the remaining cards\nto deceive the people.",
         "pt-BR": "[Sacerdote Pano]\nEu rezei para que não fosse uma falha,\ne não era uma falha.\nAlguém estava fazendo algo absurdo\nno santuário do templo\ne, para esconder isso,\nusou um cartão que ainda restava\npara enganar as pessoas.",
         "es-ES": "[Sacerdote Pano]\nRecé para que no fuera una avería,\ny no lo era.\nAlguien estaba haciendo algo absurdo\nen el santuario del templo,\ny, para ocultarlo,\nestaba engañando a la gente\nusando una tarjeta que había quedado."
     },
     "TrYVAQ": {
-        "en-US": "[Priest Pano]\n...\nIs that sufficient?",
+        "en-US": "[Priestess Fano]\n...\nAre you done?",
         "pt-BR": "[Sacerdote Pano]\n...\nEstá satisfeito?",
         "es-ES": "[Sacerdote Pano]\n...\n¿Le basta con eso?"
     },
     "T7YVAQ": {
-        "en-US": "[Priest Pano]\nThat is everything I heard and saw.\nEven if you tell someone,\nyou will be the one quietly murdered\nwithout anyone knowing.\nThough I would die as well.",
+        "en-US": "[Priestess Fano]\nThat's all I've heard and seen.\nEven if you tell someone else,\nYou'll be the one getting killed without anyone knowing,\nIt's you who'll be murdered.\nI'll die too, but that's all.",
         "pt-BR": "[Sacerdote Pano]\nIsso é tudo o que ouvi e vi.\nMesmo que conte a outra pessoa,\nquem vai ser assassinado\nsem deixar rastro\nserá você.\nE eu provavelmente também.",
         "es-ES": "[Sacerdote Pano]\nEso es todo lo que oí y vi.\nAunque vaya a contárselo a alguien,\nserá usted quien acabe muerto\nsin que nadie se entere.\nYo también moriré, por supuesto."
     },
     "ULYVAQ": {
-        "en-US": "[Priest Pano]\nNow then, I shall return\nto my duties.",
+        "en-US": "[Priestess Fano]\nThen I will return to my duties.\nI will return.",
         "pt-BR": "[Sacerdote Pano]\nEntão eu vou voltar\nao trabalho que estava fazendo.",
         "es-ES": "[Sacerdote Pano]\nEntonces yo volveré\na las tareas que estaba realizando."
     },
     "UbYVAQ": {
-        "en-US": "[Priest Pano]\nAre you here to exchange a raffle ticket?",
+        "en-US": "[Priestess Fano]\nAre you here to exchange raffle tickets?",
         "pt-BR": "[Sacerdote Pano]\nÉ para trocar os bilhetes de sorteio?",
         "es-ES": "[Sacerdote Pano]\n¿Canje de boletos del sorteo?"
     },
     "UrYVAQ": {
-        "en-US": "[Priest Pano]\nNo, wait.\nYou must give me the raffle ticket first.\nYou do not have one?\nThat is regrettable.",
+        "en-US": "[Pano New Building]\nNo, wait.\nYou must give the raffle ticket first.\nYou don't have one?\nI'm sorry.",
         "pt-BR": "[Sacerdote Pano]\nNão, espere um momento.\nVocê precisa me entregar primeiro o bilhete de sorteio.\nNão tem nenhum?\nQue pena.",
         "es-ES": "[Sacerdote Pano]\nNo, un momento.\nPrimero debe entregarme el boleto del sorteo.\n¿Que no tiene?\nQué pena."
     },
     "U7YVAQ": {
-        "en-US": "[Priest Pano]\nEven if you try to pry more from me,\nI have told you everything I know.",
+        "en-US": "[Pano New Building]\nEven if you try to ask me more\nI told you everything I know.",
         "pt-BR": "[Sacerdote Pano]\nMesmo que tente arrancar mais algo de mim,\neu já contei tudo o que sei.",
         "es-ES": "[Sacerdote Pano]\nPor más que intente sonsacarme algo más,\nya le he contado todo lo que sé."
     },
     "VLYVAQ": {
-        "en-US": "[Priest Pano]\nThe temple is not a tourist attraction.",
+        "en-US": "[Pano New Building]\nThis means that the temple is not a tourist attraction.",
         "pt-BR": "[Sacerdote Pano]\nEstou dizendo que o templo não é um ponto turístico.",
         "es-ES": "[Sacerdote Pano]\nLe digo que el templo no es un lugar turístico."
     },
     "VbYVAQ": {
-        "en-US": "Window",
+        "en-US": "window",
         "pt-BR": "Janela",
         "es-ES": "Ventana"
     },
@@ -755,127 +755,127 @@
         "es-ES": "== La ventana está abierta. =="
     },
     "V7YVAQ": {
-        "en-US": "Go out.",
+        "en-US": "I'm going out.",
         "pt-BR": "Sair.",
         "es-ES": "Salir."
     },
     "WLYVAQ": {
-        "en-US": "Do not go out.",
+        "en-US": "I'm not going out.",
         "pt-BR": "Não sair.",
         "es-ES": "No salir."
     },
     "WbYVAQ": {
-        "en-US": "== It can be vaguely seen ==\n == that the window is open. ==",
+        "en-US": "== the window is open ==\n == It seems at first glance. ==",
         "pt-BR": "== Dá para ver de relance ==\n == que a janela está aberta. ==",
         "es-ES": "== Se ve a simple vista ==\n == que la ventana está abierta. =="
     },
     "WrYVAQ": {
-        "en-US": "Pass by.",
+        "en-US": "It's passing.",
         "pt-BR": "Passar direto.",
         "es-ES": "Seguir de largo."
     },
     "W7YVAQ": {
-        "en-US": "Go in.",
+        "en-US": "I'm going in.",
         "pt-BR": "Entrar.",
         "es-ES": "Entrar."
     },
     "XLYVAQ": {
-        "en-US": "== Sneaking in ==\n == is still a bad thing to do. ==",
+        "en-US": "== sneaking in ==\n == It's also a bad thing. ==",
         "pt-BR": "== Entrar escondido ==\n == ainda assim é algo errado. ==",
         "es-ES": "== Entrar a escondidas ==\n == sigue siendo una mala acción. =="
     },
     "XbYVAQ": {
-        "en-US": "== When you pulled on the slightly open window, ==\n == it opened without a sound ==\n == wide enough ==\n == for an adult to enter. ==\n == It seems the children who were fooling around ==\n == had oiled it. ==",
+        "en-US": "== Let's pull the slightly open window ==\n == Without any sound ==\n == Large enough for an adult ==\n == Opened. ==\n == Kids playing around ==\n == Looks like it was greased. ==",
         "pt-BR": "== Ao puxar a janela entreaberta, ==\n == ela se abriu sem fazer ruído algum, ==\n == o bastante para um adulto passar. ==\n == Pelo visto, as crianças que faziam travessuras ==\n == a haviam lubrificado. ==",
         "es-ES": "== Al tirar de la ventana entreabierta, ==\n == sin hacer ni un solo ruido, ==\n == se abrió lo bastante ==\n == para que entrara un adulto. ==\n == Parece que los niños traviesos ==\n == la habían aceitado. =="
     },
     "XrYVAQ": {
-        "en-US": "== Enter through the window? ==",
+        "en-US": "== Shall we go in through the window? ==",
         "pt-BR": "== Entrar pela janela? ==",
         "es-ES": "== ¿Entrar por la ventana? =="
     },
     "X7YVAQ": {
-        "en-US": "Do not enter.",
+        "en-US": "It won't go in.",
         "pt-BR": "Não entrar.",
         "es-ES": "No entrar."
     },
     "YLYVAQ": {
-        "en-US": "== For getting in from outside, ==\n == this window is the only way for now. ==",
+        "en-US": "== How to get in from outside ==\n == This window is all I have for now. ==",
         "pt-BR": "== No momento, o único jeito ==\n == de entrar por fora é esta janela. ==",
         "es-ES": "== Desde fuera, ahora mismo ==\n == esta ventana es la única forma de entrar. =="
     },
     "YbYVAQ": {
-        "en-US": "== It is dark. ==\n == Strangely dark and gloomy. ==",
+        "en-US": "== dark. ==\n == Strangely dark. ==",
         "pt-BR": "== Está escuro. ==\n == Estranhamente escuro. ==",
         "es-ES": "== Está oscuro. ==\n == Extrañamente sombrío. =="
     },
     "YrYVAQ": {
-        "en-US": "== You hear murmuring from somewhere... ==",
+        "en-US": "== A rumbling sound is heard from somewhere... ==",
         "pt-BR": "== Dá para ouvir um murmúrio vindo de algum lugar... ==",
         "es-ES": "== Se oye un murmullo procedente de algún lugar... =="
     },
     "Y7YVAQ": {
-        "en-US": "== Murmur, murmur... ==\n == You hear something ==\n == in the corridor leading to the sanctuary ==",
+        "en-US": "== 웅성웅성... ==\n == 예배당 쪽으로 가는 복도에서 ==\n == 무슨 소리가 들려온다 ==",
         "pt-BR": "== Murmúrios... ==\n == Dá para ouvir algo no corredor ==\n == que leva para o lado da capela ==",
         "es-ES": "== Murmullo, murmullo... ==\n == se oye algún sonido ==\n == en el pasillo que lleva hacia la capilla =="
     },
     "ZLYVAQ": {
-        "en-US": "== Murmur, murmur... ==\n == You hear something ==\n == from the stairway ==",
+        "en-US": "== 웅성웅성... ==\n == 계단 쪽에서 ==\n == 무슨 소리가 들려온다 ==",
         "pt-BR": "== Murmúrios... ==\n == Dá para ouvir algo ==\n == vindo da escadaria ==",
         "es-ES": "== Murmullo, murmullo... ==\n == se oye algún sonido ==\n == en dirección a las escaleras =="
     },
     "ZbYVAQ": {
-        "en-US": "== Let us go toward where the loud noise came from. ==",
+        "en-US": "== Let's go to the place where the loud noise came from. ==",
         "pt-BR": "== Vamos até o lugar de onde veio o barulho alto. ==",
         "es-ES": "== Vayamos al lugar del que vino el gran ruido. =="
     },
     "ZrYVAQ": {
-        "en-US": "Thud!",
+        "en-US": "Ouch!",
         "pt-BR": "TUM!",
         "es-ES": "¡BUM!"
     },
     "Z7YVAQ": {
-        "en-US": "== Together with the sound ==\n == of something falling ==\n == from above the stairs, ==\n == you hear fighting ==",
+        "en-US": "== something on the stairs ==\n == With a falling sound ==\n == I hear fighting sounds ==",
         "pt-BR": "== De cima da escadaria, algo ==\n == caiu, e junto com isso ==\n == dá para ouvir sons de luta ==",
         "es-ES": "== Se oye el ruido de algo ==\n == cayendo desde lo alto de las escaleras, ==\n == acompañado de sonidos de pelea =="
     },
     "aLYVAQ": {
-        "en-US": "== There is no path this way. ==",
+        "en-US": "== There is no road on this side. ==",
         "pt-BR": "== Não há caminho por aqui. ==",
         "es-ES": "== Por aquí no hay salida. =="
     },
     "abYVAQ": {
-        "en-US": "== You can still hear fighting and screams from the far end of the corridor. ==",
+        "en-US": "== The sounds of fighting and screaming can still be heard from the end of the hallway. ==",
         "pt-BR": "== Ainda dá para ouvir sons de luta e gritos vindos do fim do corredor. ==",
         "es-ES": "== Aún se oyen sonidos de pelea y gritos al final del pasillo. =="
     },
     "arYVAQ": {
-        "en-US": "== But the screams ==\n == are gradually growing quieter... ==",
+        "en-US": "== The screams are but ==\n == It's getting smaller... ==",
         "pt-BR": "== Mas os gritos ==\n == estão ficando cada vez mais baixos... ==",
         "es-ES": "== Sin embargo, los gritos ==\n == se van apagando poco a poco... =="
     },
     "a7YVAQ": {
-        "en-US": "== Let us head to where the screams were heard. ==",
+        "en-US": "== Let's head to where the scream came from. ==",
         "pt-BR": "== Vamos para o lugar de onde vieram os gritos. ==",
         "es-ES": "== Vayamos hacia el lugar de donde venían los gritos. =="
     },
     "bLYVAQ": {
-        "en-US": "== You can see that something ==\n == blotchy and stained ==\n == is smeared on the floor ==",
+        "en-US": "== something on the floor ==\n == Something spotty ==\n == I see something buried ==",
         "pt-BR": "== No chão, parece haver ==\n == algo manchado ==\n == grudado ali ==",
         "es-ES": "== Se ve que en el suelo ==\n == hay algo manchado ==\n == de forma irregular =="
     },
     "bbYVAQ": {
-        "en-US": "Examine it.",
+        "en-US": "Let's take a look.",
         "pt-BR": "Examinar.",
         "es-ES": "Examinar."
     },
     "brYVAQ": {
-        "en-US": "It catches your attention.",
+        "en-US": "It attracts attention.",
         "pt-BR": "Chamar a atenção.",
         "es-ES": "Llama la atención."
     },
     "b7YVAQ": {
-        "en-US": "== It is dark here, ==\n == so you cannot see it well. ==",
+        "en-US": "== Because it is a dark place ==\n == It doesn't look good. ==",
         "pt-BR": "== Como está escuro ==\n == não dá para ver direito. ==",
         "es-ES": "== Está demasiado oscuro ==\n == para distinguirlo bien. =="
     },
@@ -885,22 +885,22 @@
         "es-ES": "..."
     },
     "cbYVAQ": {
-        "en-US": "== A faint metallic smell. ==\n == No, the smell of blood? ==",
+        "en-US": "== A faint smell of iron. ==\n == No, the smell of blood? ==",
         "pt-BR": "== Um cheiro fraco de metal. ==\n == Não, cheiro de sangue? ==",
         "es-ES": "== Un tenue olor a hierro. ==\n == No, ¿olor a sangre? =="
     },
     "crYVAQ": {
-        "en-US": "== Decided to look for something else. ==",
+        "en-US": "== I decided to look for something else. ==",
         "pt-BR": "== Decidi procurar outra coisa. ==",
         "es-ES": "== Decidió buscar otra cosa. =="
     },
     "c7YVAQ": {
-        "en-US": "== The stain seen earlier ==\n == is chilling even at a second glance ==",
+        "en-US": "== The stain I saw earlier ==\n == It gives me goosebumps even when I look at it again ==",
         "pt-BR": "== A mancha que vi antes ==\n == continua horrível mesmo olhando de novo ==",
         "es-ES": "== La mancha que vio antes ==\n == sigue dando escalofríos al volver a verla =="
     },
     "dLYVAQ": {
-        "en-US": "Examine it again.",
+        "en-US": "Let's take another look.",
         "pt-BR": "Examinar de novo.",
         "es-ES": "Volver a examinar."
     },
@@ -910,32 +910,32 @@
         "es-ES": "Buscar otra cosa."
     },
     "drYVAQ": {
-        "en-US": "== The blood has not fully dried yet, ==\n == though it is no longer warm. ==",
+        "en-US": "== The blood hasn't completely hardened yet ==\n == It's not warm. ==",
         "pt-BR": "== O sangue ainda não secou completamente ==\n == e não está quente. ==",
         "es-ES": "== La sangre aún no se ha secado del todo, ==\n == pero tampoco está caliente. =="
     },
     "d7YVAQ": {
-        "en-US": "== It is far more blood than ==\n == a single human being ==\n == could have spilled. ==\n == Would it be better to run? ==",
+        "en-US": "== One human sheds ==\n == The amount is far beyond blood. ==\n == Should I run away? ==",
         "pt-BR": "== É uma quantidade muito maior ==\n == do que um ser humano sozinho ==\n == poderia perder. ==\n == Será melhor fugir? ==",
         "es-ES": "== Es una cantidad muy superior ==\n == a la sangre que podría derramar ==\n == una sola persona. ==\n == ¿Sería mejor huir? =="
     },
     "eLYVAQ": {
-        "en-US": "== If you stay here any longer, ==\n == it seems dangerous. ==",
+        "en-US": "== If you're here anymore ==\n == It seems dangerous. ==",
         "pt-BR": "== Se eu continuar aqui ==\n == parece que vai ser perigoso. ==",
         "es-ES": "== Si sigue aquí por más tiempo, ==\n == parece peligroso. =="
     },
     "ebYVAQ": {
-        "en-US": "[???]\nOnly\nthe goddess\nexists.",
+        "en-US": "[???]\n오직\n신만이\n있을\n뿐이라.",
         "pt-BR": "[???]\nSomente\nDeus\ndeve\nexistir.",
         "es-ES": "[???]\nSolo\nel dios\ndebe\nexistir."
     },
     "erYVAQ": {
-        "en-US": "[???]\nThere is\nsimply no one\nyet\nprepared.",
+        "en-US": "[???]\nyet\nready\nThere won't be\nIt's just.",
         "pt-BR": "[???]\nApenas\nainda não houve\nquem estivesse\npreparado.",
         "es-ES": "[???]\nSolo\nque aún\nno hay nadie\npreparado."
     },
     "e7YVAQ": {
-        "en-US": "[???]\nBeloved\nIzlude.",
+        "en-US": "[???]\nmiss\nIzlude.",
         "pt-BR": "[???]\nMinha saudosa\nIzlude.",
         "es-ES": "[???]\nMi querida\nIzlude."
     },
@@ -945,12 +945,12 @@
         "es-ES": "[{0}]\n!"
     },
     "fbYVAQ": {
-        "en-US": "[{0}]\nPriest Pano's voice?!\nNo, but that person\nis outside that door, isn't she?",
+        "en-US": "[{0}]\nPriest Pano's voice?!\nNo, but he\nIt's outside that door, right?",
         "pt-BR": "[{0}]\nA voz do Sacerdote Pano?!\nNão, mas ele\nestá do lado de fora\ndaquela porta, não está?",
         "es-ES": "[{0}]\n¡¿La voz del sacerdote Pano?!\nNo, pero ese hombre\nestá al otro lado de esa puerta, ¿no?"
     },
     "frYVAQ": {
-        "en-US": "[{0}]\nThen that voice is...",
+        "en-US": "[{0}]\nThen that voice...",
         "pt-BR": "[{0}]\nEntão essa voz é...",
         "es-ES": "[{0}]\nEntonces, esa voz..."
     },
@@ -960,7 +960,7 @@
         "es-ES": "== La puerta está cerrada. =="
     },
     "gLYVAQ": {
-        "en-US": "Try pushing the door.",
+        "en-US": "Push the door.",
         "pt-BR": "Empurrar a porta.",
         "es-ES": "Intentar empujarla."
     },
@@ -975,17 +975,17 @@
         "es-ES": "Darle una patada."
     },
     "g7YVAQ": {
-        "en-US": "Draw a weapon and break down the door.",
+        "en-US": "Bring out your weapon and break down the door.",
         "pt-BR": "Sacar a arma e quebrar a porta.",
         "es-ES": "Sacar el arma y romper la puerta."
     },
     "hLYVAQ": {
-        "en-US": "== The door, which you thought ==\n == would not budge at all, ==\n == the moment you gave it a shove... ==",
+        "en-US": "== It won't budge ==\n == The door is.. ==\n == As soon as I push it... ==",
         "pt-BR": "== A porta, que eu achei ==\n == que não se moveria nem um pouco, ==\n == assim que empurrei com força... ==",
         "es-ES": "== La puerta, que parecía ==\n == no querer moverse ni un ápice, ==\n == en cuanto la empujó con fuerza... =="
     },
     "hbYVAQ": {
-        "en-US": "== Strange machines ==\n == are attached all around the door. ==\n == There is a place to insert a card. ==",
+        "en-US": "== 문 주변에는 이상한 기계가 ==\n == 가득 붙어 있다. ==\n == 카드를 끼우는 곳이 있다. ==",
         "pt-BR": "== Em volta da porta há várias ==\n == máquinas estranhas acopladas. ==\n == Há um lugar para inserir um cartão. ==",
         "es-ES": "== Alrededor de la puerta ==\n == hay montones de máquinas extrañas. ==\n == Hay un lugar para insertar una tarjeta. =="
     },
@@ -1000,22 +1000,22 @@
         "es-ES": "== Pero no hay ninguna tarjeta. =="
     },
     "iLYVAQ": {
-        "en-US": "== The door, which seemed firmly shut, ==\n == the moment you stepped forward... ==",
+        "en-US": "== 굳게 닫힌 줄 알았던 문은 ==\n == 발을 내밈과 동시에... ==",
         "pt-BR": "== A porta, que parecia ==\n == estar firmemente fechada, ==\n == no momento em que dei um passo... ==",
         "es-ES": "== La puerta, que parecía ==\n == estar firmemente cerrada, ==\n == en el mismo instante en que extendió el pie... =="
     },
     "ibYVAQ": {
-        "en-US": "== Either your weapon breaks, ==\n == or even if you force your way in, ==\n == the worshippers beat you half to death ==\n == and drive you out. ==",
+        "en-US": "== 무기가 깨지거나, ==\n == 나가더라도 신도들에게 ==\n == 죽도록 맞고 쫓겨나거나. ==",
         "pt-BR": "== Sua arma pode quebrar, ou, ==\n == mesmo que saia, talvez seja espancado ==\n == pelos fiéis até quase morrer ==\n == e expulso. ==",
         "es-ES": "== El arma se rompería, o bien, ==\n == aunque saliera, los fieles ==\n == le darían una paliza y lo echarían. =="
     },
     "irYVAQ": {
-        "en-US": "== It seems better ==\n == to give up. ==",
+        "en-US": "== The one who quits ==\n == It seems better. ==",
         "pt-BR": "== Parece melhor ==\n == desistir. ==",
         "es-ES": "== Parece mejor ==\n == desistir. =="
     },
     "i7YVAQ": {
-        "en-US": "== The heavy door does not budge. ==",
+        "en-US": "== The heavy door doesn't budge. ==",
         "pt-BR": "== A pesada porta não se move nem um pouco. ==",
         "es-ES": "== La pesada puerta no se mueve en absoluto. =="
     },
@@ -1025,82 +1025,82 @@
         "es-ES": "== La lámpara está apagada. =="
     },
     "jbYVAQ": {
-        "en-US": "== Thud! ==\n == You kicked it with great force, ==\n == but the giant iron door ==\n == showed no sign of moving at all. ==",
+        "en-US": "== Coo! ==\n == I kicked it vigorously, but ==\n == The huge iron gate doesn't even seem to budge. ==\n == It wasn't visible. ==",
         "pt-BR": "== TUM! ==\n == Dei um chute com ímpeto, ==\n == mas a enorme porta de ferro ==\n == não demonstrou o menor sinal ==\n == de se mover. ==",
         "es-ES": "== ¡BUM! ==\n == Le dio una patada con brío, ==\n == pero la enorme puerta de hierro no mostró ==\n == ni el menor indicio de moverse. =="
     },
     "jrYVAQ": {
-        "en-US": "Kid",
+        "en-US": "kid",
         "pt-BR": "Garotinho",
         "es-ES": "Pequeñín"
     },
     "j7YVAQ": {
-        "en-US": "[Kid]\nWhy are you still here?\nDoes it look that fun\nwatching me practice rock-paper-scissors?",
+        "en-US": "[Little Kid]\nWhat are you doing if you're not going?\nI'm practicing rock, paper, scissors\nDoes it look like that much fun?",
         "pt-BR": "[Garotinho]\nPor que você não vai embora?\nParece tão interessante assim\nme ver praticando pedra, papel e tesoura?",
         "es-ES": "[Pequeñín]\n¿Y a qué esperas para irte?\n¿Tanto te parece divertido\nverme practicar piedra, papel o tijera?"
     },
     "kLYVAQ": {
-        "en-US": "[Kid]\nIt's embarrassing,\nso go over there.",
+        "en-US": "[Little Kid]\nBecause I'm embarrassed\nGo away.",
         "pt-BR": "[Garotinho]\nEu fico envergonhado,\nentão vai pra lá.",
         "es-ES": "[Pequeñín]\nMe da vergüenza,\nasí que vete por ahí."
     },
     "kbYVAQ": {
-        "en-US": "[Kid]\nGeez, I said go away!",
+        "en-US": "[Little Kid]\nOh my, go away!",
         "pt-BR": "[Garotinho]\nAi, eu disse pra ir pra lá!",
         "es-ES": "[Pequeñín]\nAy, de verdad, ¡que te vayas!"
     },
     "krYVAQ": {
-        "en-US": "[Kid]\nIf you're really that bored,\ngo peek through the temple window!\nSheesh, seriously...",
+        "en-US": "[Little Kid]\nIf you're that bored\nLook into the temple windows!\nOh wow, really...",
         "pt-BR": "[Garotinho]\nSe está tão entediado assim,\nvai espiar a janela do templo!\nAi, sinceramente...",
         "es-ES": "[Pequeñín]\nSi estás tan aburrido,\n¡ve a mirar por la ventana del templo!\nAy, de verdad..."
     },
     "k7YVAQ": {
-        "en-US": "[Kid]\nDon't pat my head whenever you want!\nI said don't pat it!",
+        "en-US": "[Little Kid]\nDon't stroke my hair arbitrarily!\nDon't pet me!",
         "pt-BR": "[Garotinho]\nNão passe a mão na minha cabeça sem pedir!\nEu disse pra não passar!",
         "es-ES": "[Pequeñín]\n¡No me acaricies la cabeza porque sí!\n¡He dicho que no me acaricies!"
     },
     "lLYVAQ": {
-        "en-US": "[Kid]\nI said don't pat me, didn't I?\nUgh~",
+        "en-US": "[Little Kid]\nI told you not to pet me?\nMr. Ui~",
         "pt-BR": "[Garotinho]\nEu disse pra não passar a mão, não disse?\nPff~",
         "es-ES": "[Pequeñín]\n¿Te dije que no me acariciaras?\n¡Jo, qué rabia~!"
     },
     "lbYVAQ": {
-        "en-US": "[Kid]\nWhere did you come from?",
+        "en-US": "[Little Kid]\nWhere are you from?",
         "pt-BR": "[Garotinho]\nDe onde você veio?",
         "es-ES": "[Pequeñín]\n¿De dónde vienes?"
     },
     "lrYVAQ": {
-        "en-US": "[Kid]\nForeign country?\nYou're from a foreign country?",
+        "en-US": "[Little Kid]\nforeign country?\nIt's a foreign country?",
         "pt-BR": "[Garotinho]\nEstrangeiro?\nÉ estrangeiro?",
         "es-ES": "[Pequeñín]\n¿De extranjero?\n¿Eres extranjero?"
     },
     "l7YVAQ": {
-        "en-US": "[Kid]\nWhat's a foreign country?",
+        "en-US": "[Little Kid]\nWhat is a foreign country?",
         "pt-BR": "[Garotinho]\nO que é estrangeiro?",
         "es-ES": "[Pequeñín]\n¿Qué es extranjero?"
     },
     "mLYVAQ": {
-        "en-US": "[Kid]\nAh, whatever.",
+        "en-US": "[Little Kid]\nOh, I don't know.",
         "pt-BR": "[Garotinho]\nAh, não sei, não sei.",
         "es-ES": "[Pequeñín]\nAh, no sé, no sé."
     },
     "mbYVAQ": {
-        "en-US": "[Kid]\nDo you like Candy?",
+        "en-US": "[Little Kid]\nDo you like candy?",
         "pt-BR": "[Garotinho]\nVocê gosta de Bala?",
         "es-ES": "[Pequeñín]\n¿Te gusta Dulce?"
     },
     "mrYVAQ": {
-        "en-US": "No",
+        "en-US": "아니",
         "pt-BR": "Não",
         "es-ES": "No"
     },
     "m7YVAQ": {
-        "en-US": "Yeah",
+        "en-US": "응",
         "pt-BR": "Sim",
         "es-ES": "Sí"
     },
     "nLYVAQ": {
-        "en-US": "Yeah, I really love it",
+        "en-US": "Yes, I really like it",
         "pt-BR": "Sim, gosto muito",
         "es-ES": "Sí, me encanta"
     },
@@ -1110,282 +1110,282 @@
         "es-ES": "No mucho"
     },
     "nrYVAQ": {
-        "en-US": "[Kid]\nHmph.\nAll right.",
+        "en-US": "[Little Kid]\nEnjoy.\nokay.",
         "pt-BR": "[Garotinho]\nHmph.\nEntendi.",
         "es-ES": "[Pequeñín]\nHum.\nVale."
     },
     "n7YVAQ": {
-        "en-US": "[Kid]\nWow!\nThen you must have some, right?",
+        "en-US": "[Little Kid]\nand!\nThen I guess you have it?",
         "pt-BR": "[Garotinho]\nUau!\nEntão você deve ter, né?",
         "es-ES": "[Pequeñín]\n¡Guau!\nEntonces tendrás, ¿no?"
     },
     "oLYVAQ": {
-        "en-US": "[Kid]\nGive me some.",
+        "en-US": "[Little Kid]\ngive it.",
         "pt-BR": "[Garotinho]\nMe dá.",
         "es-ES": "[Pequeñín]\nDámelo."
     },
     "obYVAQ": {
-        "en-US": "[Kid]\nI said give me some, hurry.\nHand it over~",
+        "en-US": "[Little Kid]\nI'm telling you, hurry.\nGive it to me~",
         "pt-BR": "[Garotinho]\nTô falando pra me dar, anda logo.\nMe dáaa~",
         "es-ES": "[Pequeñín]\nQue te digo que me lo des, rápido.\n¡Dámelooo~"
     },
     "orYVAQ": {
-        "en-US": "[Kid]\nGive it, give it, give it~\n.....\nIf you give me that Candy,\nI'll tell you something good.",
+        "en-US": "[Little Kid]\nGive it to me, give it to me~\n.....\nIf you give me that candy\nI'll teach you something good.",
         "pt-BR": "[Garotinho]\nMe dá, me dá, me dá~\n.....\nSe me der essa Bala,\neu te conto uma coisa boa.",
         "es-ES": "[Pequeñín]\nDámelo, dámelo, dámelo~\n.....\nSi me das ese Dulce,\nte enseñaré algo bueno."
     },
     "o7YVAQ": {
-        "en-US": "Yeah.",
+        "en-US": "huh.",
         "pt-BR": "Sim.",
         "es-ES": "Sí."
     },
     "pLYVAQ": {
-        "en-US": "No way.",
+        "en-US": "no.",
         "pt-BR": "Não quero.",
         "es-ES": "No quiero."
     },
     "pbYVAQ": {
-        "en-US": "[Kid]\nWaaah~",
+        "en-US": "[꼬마]\n와아~",
         "pt-BR": "[Garotinho]\nUaaau~",
         "es-ES": "[Pequeñín]\n¡Bieeen~"
     },
     "prYVAQ": {
-        "en-US": "[Kid]\nBut I'm not a little kid,\nso I wouldn't do something like taking your Candy by force!\nYou still have a long way to go,\ntrying to tempt me with mere Candy.",
+        "en-US": "[꼬마]\n하지만 난 어린애가 아니니까\n사탕을 뺏는 짓 따윈 하지 않아!\n아직 멀었구나,\n사탕 따위로 날 꼬시려 하다니.",
         "pt-BR": "[Garotinho]\nMas eu não sou mais uma criancinha,\nentão não faço coisas como roubar Bala!\nAinda está longe, hein,\nachar que pode me seduzir com uma Bala.",
         "es-ES": "[Pequeñín]\nPero yo no soy un crío,\n¡así que no le quito el Dulce a nadie!\nTodavía te falta mucho,\npretender seducirme con un simple Dulce."
     },
     "p7YVAQ": {
-        "en-US": "[Kid]\nGeez, how lame!\nGet lost!",
+        "en-US": "[꼬마]\n에이 찌질해!\n저리 꺼져!",
         "pt-BR": "[Garotinho]\nAh, que vergonha!\nSai daqui!",
         "es-ES": "[Pequeñín]\n¡Vaya cutre!\n¡Lárgate!"
     },
     "qLYVAQ": {
-        "en-US": "[Kid]\nAhem.\nYou know, if you go to the temple,\nthere's a window that isn't locked.\nSometimes if you peek in there,\nthe Priest men fight.",
+        "en-US": "[꼬마]\n엣헴.\n신전에 가보면 말야,\n창문이 잠겨 있지 않은 데가 있어.\n가끔 거기 들여다보면\n신관 아저씨들이 싸워.",
         "pt-BR": "[Garotinho]\nAhem.\nQuando você vai ao templo,\ntem uma janela que não fica trancada.\nÀs vezes, quando a gente olha por lá,\nos Sacerdote brigam.",
         "es-ES": "[Pequeñín]\nEjém.\nSi vas al templo,\nhay una ventana que no está cerrada.\nA veces miro por allí,\ny los señores Sacerdote\nse pelean."
     },
     "qbYVAQ": {
-        "en-US": "[Kid]\nWhy do grown-ups fight, I wonder?\nThey tell us not to fight.\nHeehee.",
+        "en-US": "[꼬마]\n다 큰 어른들이 왜 싸우나 몰라?\n우리보곤 싸우지 말라고 하면서.\n킥킥.",
         "pt-BR": "[Garotinho]\nVai ver por que adultos já crescidos brigam?\nSendo que dizem pra gente não brigar.\nHehehe.",
         "es-ES": "[Pequeñín]\n¿No sé por qué se pelean\nsi ya son todos adultos?\nLuego a nosotros nos dicen que no peleemos.\nJe, je."
     },
     "qrYVAQ": {
-        "en-US": "[Kid]\nHmm...\nI wonder if foreign Candy tastes good?\nMaybe I should've taken it.",
+        "en-US": "[Little Kid]\nhmm...\nDo foreign candies taste good?\nShould I have taken it?",
         "pt-BR": "[Garotinho]\nHmm...\nSerá que Bala estrangeira é gostosa?\nSerá que eu devia ter roubado?",
         "es-ES": "[Pequeñín]\nMmm...\n¿Estará rico el Dulce extranjero?\nIgual tenía que habértelo quitado."
     },
     "q7YVAQ": {
-        "en-US": "[Kid]\nI didn't say anything!\nAdults, go away! Go away!",
+        "en-US": "[Little Kid]\nI didn't do the mare!\nAdults go! Adults go!",
         "pt-BR": "[Garotinho]\nEu não falei nada!\nAdulto vai! Adulto vai!",
         "es-ES": "[Pequeñín]\n¡No dije nada!\n¡Los adultos fuera! ¡Los adultos fuera!"
     },
     "rLYVAQ": {
-        "en-US": "[Kid]\nYou're a grown-up, not a little kid,\nand you like Candy that much?\nBleeeh~",
+        "en-US": "[꼬마]\n어린애도 아니고 다 큰 어른이\n사탕이 그렇게 좋아?\n메롱이다~",
         "pt-BR": "[Garotinho]\nVocê já é um adulto, e mesmo assim\ngosta tanto assim de Bala?\nBleeeh~",
         "es-ES": "[Pequeñín]\n¿Y a un adulto ya hecho y derecho\nle gusta tanto Dulce?\n¡Toma ya~!"
     },
     "rbYVAQ": {
-        "en-US": "[Kid]\nYou don't have any, do you?\nAnd you still dare tell me\nthat you like Candy?\nLook at me, look at me,\nsee this, Candy in my pocket.",
+        "en-US": "[Little Kid]\nThere isn't any?\nBut he still likes candy\ncan you talk to me?\nLook at me, look at me,\nLook, candy in my pocket",
         "pt-BR": "[Garotinho]\nNão tem, né?\nE ainda assim consegue me dizer\nque gosta de Bala?\nOlha aqui, olha aqui,\nolha só, tenho Bala no bolso.",
         "es-ES": "[Pequeñín]\n¿No tienes, eh?\n¿Y aun así te atreves a decirme\nque te gusta Dulce?\nMira, mira,\nesto, Dulce en el bolsillo."
     },
     "rrYVAQ": {
-        "en-US": "[Kid]\nLook at this!\nI've got tons of it!",
+        "en-US": "[Little Kid]\nLook at this!\nThere's a lot!",
         "pt-BR": "[Garotinho]\nOlha isso!\nTem um monte!",
         "es-ES": "[Pequeñín]\n¡Mira esto!\n¡Lo tengo a montones!"
     },
     "r7YVAQ": {
-        "en-US": "[Kid]\nOnly this much counts\nas really liking Candy.\nHmph.",
+        "en-US": "[Little Kid]\nIt should be like this\nYou could say I like candy.\nHehehe.",
         "pt-BR": "[Garotinho]\nÉ preciso ter pelo menos isso\npra poder dizer\nque gosta de Bala.\nHmph.",
         "es-ES": "[Pequeñín]\nHay que llegar a este nivel\npara poder decir\nque te gusta Dulce.\nJe, je."
     },
     "sLYVAQ": {
-        "en-US": "[Kid]\nWant one?",
+        "en-US": "[Little Kid]\nWould you like one?",
         "pt-BR": "[Garotinho]\nQuer que eu te dê uma?",
         "es-ES": "[Pequeñín]\n¿Te doy uno?"
     },
     "sbYVAQ": {
-        "en-US": "[Kid]\nBleeeh~\nI'm not giving you one~",
+        "en-US": "[Little Kid]\nnyah~\nAnju long~",
         "pt-BR": "[Garotinho]\nBleeeh~\nNão vou te dar~",
         "es-ES": "[Pequeñín]\n¡Toma ya~\nNo te lo doy~!"
     },
     "srYVAQ": {
-        "en-US": "[Kid]\n...Are you sulking?",
+        "en-US": "[Little Kid]\n...upset?",
         "pt-BR": "[Garotinho]\n...Ficou emburrado?",
         "es-ES": "[Pequeñín]\n...¿Te has enfadado?"
     },
     "s7YVAQ": {
-        "en-US": "[Kid]\nYou are sulking!",
+        "en-US": "[Little Kid]\nYou're upset!",
         "pt-BR": "[Garotinho]\nFicou emburrado mesmo!",
         "es-ES": "[Pequeñín]\n¡Te has enfadado!"
     },
     "tLYVAQ": {
-        "en-US": "[Kid]\nAw, don't be like that~\nI'll tell you something good.\nSomething good.",
+        "en-US": "[Little Kid]\nHey, don't do that~\nI'll teach you something good.\nGood things.",
         "pt-BR": "[Garotinho]\nAh, não faz assim~\nEu vou te contar uma coisa boa.\nUma coisa boa.",
         "es-ES": "[Pequeñín]\nVenga, no te pongas así~\nTe enseñaré algo bueno.\nAlgo bueno."
     },
     "tbYVAQ": {
-        "en-US": "Forget it.",
+        "en-US": "it's okay.",
         "pt-BR": "Tudo bem.",
         "es-ES": "Da igual."
     },
     "trYVAQ": {
-        "en-US": "What is it?",
+        "en-US": "What?",
         "pt-BR": "O que é?",
         "es-ES": "¿Qué es?"
     },
     "t7YVAQ": {
-        "en-US": "[Kid]\nOoh wow~",
+        "en-US": "[꼬마]\n어우야~",
         "pt-BR": "[Garotinho]\nOpa~",
         "es-ES": "[Pequeñín]\nUy~"
     },
     "uLYVAQ": {
-        "en-US": "[Kid]\nYou're not mad anymore, right?\nThen I'm busy, so let's play later~",
+        "en-US": "[꼬마]\n이제 화 풀렸지?\n그럼 나 바쁘니까 나중에 놀아~",
         "pt-BR": "[Garotinho]\nAgora você já não está mais bravo, né?\nEntão eu estou ocupado, depois a gente brinca~",
         "es-ES": "[Pequeñín]\n¿Ya se te pasó el enfado?\nEntonces yo estoy ocupado, así que ya jugaremos otro día~"
     },
     "ubYVAQ": {
-        "en-US": "[Kid]\nI see.",
+        "en-US": "[Little Kid]\nI see.",
         "pt-BR": "[Garotinho]\nEntendi.",
         "es-ES": "[Pequeñín]\nYa veo."
     },
     "urYVAQ": {
-        "en-US": "[Kid]\nA grown-up, huh.",
+        "en-US": "[Little Kid]\nI mean adults.",
         "pt-BR": "[Garotinho]\nMas um adulto gostar disso.",
         "es-ES": "[Pequeñín]\nPues vaya un adulto."
     },
     "u7YVAQ": {
-        "en-US": "[Kid]\nA grown-up says they like Candy~",
+        "en-US": "[Little Kid]\nThey say adults like candy.~",
         "pt-BR": "[Garotinho]\nUm adulto que gosta de Bala~",
         "es-ES": "[Pequeñín]\n¡Un adulto al que le gusta Dulce~!"
     },
     "vLYVAQ": {
-        "en-US": "[Kid]\nBleeeh~",
+        "en-US": "[Little Kid]\nIt's melong~",
         "pt-BR": "[Garotinho]\nBleeeh~",
         "es-ES": "[Pequeñín]\n¡Toma ya~!"
     },
     "vbYVAQ": {
-        "en-US": "[Kid]\nSo you're a grown-up~\nHeeey~\nIn foreign countries, do only adults live there?\nYou don't like Candy?",
+        "en-US": "[Little Kid]\nYou're an adult.~\nHehe~\nAre only adults living in a foreign country?\nDon't you like candy?",
         "pt-BR": "[Garotinho]\nEntão você é adulto~\nHêê~\nNum lugar chamado estrangeiro só vivem adultos?\nNão gosta de Bala?",
         "es-ES": "[Pequeñín]\nAh, que eres un adulto~\nJe~\n¿En eso que llaman extranjero solo viven adultos?\n¿No te gusta Dulce?"
     },
     "vrYVAQ": {
-        "en-US": "[Kid]\nSo you don't like it~\nI see~",
+        "en-US": "[Little Kid]\nYou don't like it~\nI see~",
         "pt-BR": "[Garotinho]\nEntão não gosta~\nEntendi~",
         "es-ES": "[Pequeñín]\nAsí que no te gusta~\nYa veo~"
     },
     "v7YVAQ": {
-        "en-US": "Acolyte",
+        "en-US": "Apprentice priest",
         "pt-BR": "Clérigo aprendiz",
         "es-ES": "Sacerdote aprendiz"
     },
     "wLYVAQ": {
-        "en-US": "[Papay]\nWelcome to Arunafeltz!\nHave a pleasant journey~",
+        "en-US": "[Paphai]\nWelcome to Arunafeltz!\nHave a nice trip~",
         "pt-BR": "[Papai]\nBem-vindo a Arunafeltz!\nTenha uma boa viagem~",
         "es-ES": "[Papai]\n¡Bienvenido a Arunafeltz!\n¡Que tenga un gran viaje~"
     },
     "wbYVAQ": {
-        "en-US": "Aren't you a guide?",
+        "en-US": "안내원이 아니신가요?",
         "pt-BR": "Você não é um guia?",
         "es-ES": "¿No es usted guía?"
     },
     "wrYVAQ": {
-        "en-US": "Yes, have a good day.",
+        "en-US": "Yes, have a nice day.",
         "pt-BR": "Sim, tenha um bom dia.",
         "es-ES": "Sí, que tenga un buen día."
     },
     "w7YVAQ": {
-        "en-US": "[Papay]\nAh, I am Papay, out from the temple for public relations. You may already know from this name tag?\nThe guide is north of the plaza in the middle of the western city, Rachel.",
+        "en-US": "[Paphai]\nOh, my name is Popeye, and I'm from the temple doing public relations work. There's a name tag here, so you already know?\nThe guide is located on the north side of the square in the middle of Rachel, a city in the west.",
         "pt-BR": "[Papai]\nAh, eu sou Papai, saí do templo para fazer atividades de divulgação ao público. Há uma plaquinha aqui, então talvez você já soubesse?\nOs guias ficam ao norte da praça, no centro da cidade ocidental de Rachel.",
         "es-ES": "[Papai]\nAh, yo soy Papai, del templo, y estoy aquí haciendo labores de divulgación para la gente. Llevo mi placa, así que quizá ya lo sabía.\nLos guías están al norte de la plaza, en pleno centro de la ciudad occidental de Rachel."
     },
     "xLYVAQ": {
-        "en-US": "[Papay]\nBefore long, the temple will hold a festival for the goddess, and we are collecting donations for it.\nI am not the one collecting them directly, though...",
+        "en-US": "[Paphai]\nSoon there will be a festival for the goddess at the temple, and we are raising money for it.\nI'm not walking myself...",
         "pt-BR": "[Papai]\nDaqui a pouco vai haver um festival para a deusa, organizado pelo templo, e estamos fazendo arrecadações para isso.\nNão sou eu quem recolhe diretamente...",
         "es-ES": "[Papai]\nDentro de poco habrá un festival en el templo para la diosa, y estamos recaudando fondos para ello.\nAunque yo no los recojo personalmente..."
     },
     "xbYVAQ": {
-        "en-US": "[Papay]\nYou seem interested, don't you?\nIf you go in front of the temple, Priest Nemma, who is wearing a name tag like mine, is collecting donations right now.",
+        "en-US": "[Paphai]\nLooks like you're interested?\nIf you go to the front of the temple, Priest Nema, who is wearing a name tag like me, is currently collecting money.",
         "pt-BR": "[Papai]\nParece que você tem interesse, não é?\nSe for em frente ao templo, a Sacerdotisa Nemma, que também usa uma plaquinha como a minha, está arrecadando neste momento.",
         "es-ES": "[Papai]\n¿Veo que le interesa?\nSi va delante del templo, allí está ahora la sacerdotisa Nemma, que lleva una placa como la mía, haciendo la recaudación."
     },
     "xrYVAQ": {
-        "en-US": "[Papay]\nIf you make a donation,\nwe give out raffle tickets,\nbut as for what you will receive,\neven we do not really know.\nI heard that we give out\n^0000FFsome good things^000000\nfrom the warehouse.",
+        "en-US": "[Paphai]\nIf you make a donation\nWe are giving away lottery tickets.,\nWhat will you receive?\nWe don't know either..\nSomething good ^0000FF from the warehouse^000000\nI heard you would give it to me.",
         "pt-BR": "[Papai]\nSe fizer uma doação,\ndistribuímos bilhetes de sorteio,\nmas quanto ao que você vai receber,\nnem nós sabemos muito bem.\nOuvi dizer que estamos entregando\n^0000FFalgumas coisas boas^000000\nque saíram do armazém.",
         "es-ES": "[Papai]\nSi hace un donativo,\nle darán un boleto de sorteo,\npero ni nosotros sabemos bien\nqué le tocará.\nHe oído que regalan\n^0000FFalguna cosa buena^000000\nsacada del almacén."
     },
     "x7YVAQ": {
-        "en-US": "[Papay]\nPlease make time to donate,\nand then, God's grace, God's blessing!",
+        "en-US": "[Paphai]\nPlease take the time to make a donation.\nWell, God bless, God bless!",
         "pt-BR": "[Papai]\nPor favor, reserve um tempo e faça uma doação,\n então, graça divina, bênção divina!",
         "es-ES": "[Papai]\nSi tiene tiempo, no deje de hacer un donativo,\ny entonces, ¡la gracia divina, la bendición divina!"
     },
     "yLYVAQ": {
-        "en-US": "[Papay]\nGod's grace, God's blessing.\nIf you go to the temple, please make a donation.\nThey are collecting at the temple entrance.",
+        "en-US": "[Paphai]\nGod's grace, God's blessing.\nIf you go to the temple, please make an offering.\nWe are collecting money at the temple entrance.",
         "pt-BR": "[Papai]\nGraça divina, bênção divina.\nSe for ao templo, por favor, faça uma doação.\nEstão arrecadando bem na entrada do templo.",
         "es-ES": "[Papai]\nLa gracia divina, la bendición divina.\nSi va al templo, por favor, haga un donativo.\nEstán recaudando en la entrada del templo."
     },
     "ybYVAQ": {
-        "en-US": "[Papay]\nWelcome to Arunafeltz!\nThe city inside beyond those walls you are looking at right now is called 'Rachel,' and it is the capital of our Arunafeltz.\nYou must be weary from the long voyage, so why not go in and at least get something to drink first?",
+        "en-US": "[Paphai]\nWelcome to Arunafeltz!\nThe city inside the castle walls that you are looking at right now is called 'Rachel', and it is the capital of Arunafeltz.\nYou must be tired from the long voyage, so why not come in and quench your thirst?",
         "pt-BR": "[Papai]\nBem-vindo a Arunafeltz!\nA cidade que você vê além daquela muralha é chamada 'Rachel' e é a capital de Arunafeltz.\nVocê deve estar cansado da longa viagem, então que tal entrar e ao menos molhar a garganta?",
         "es-ES": "[Papai]\n¡Bienvenido a Arunafeltz!\nLa ciudad que ve tras esa muralla es 'Rachel', la capital de nuestro Arunafeltz.\nDebe de estar cansado por la larga travesía, así que ¿qué le parece si entra primero y al menos se refresca la garganta?"
     },
     "yrYVAQ": {
-        "en-US": "Please tell me more about the capital.",
+        "en-US": "Could you please provide more explanation about the capital?",
         "pt-BR": "Fale mais sobre a capital.",
         "es-ES": "Cuénteme un poco más sobre la capital."
     },
     "y7YVAQ": {
-        "en-US": "[Papay]\nI am Papay, out from the temple for public relations. In truth, we do believe in the goddess Freyja as our state religion, but it has not been promoted very much to foreigners.",
+        "en-US": "[Paphai]\nMy name is Popeye, and I work for public relations at the temple. Actually, we believe in Goddess Freya as our official religion, but it is not promoted much to foreigners.",
         "pt-BR": "[Papai]\nEu sou Papai, saí do templo para fazer atividades de divulgação ao público. Na verdade, nossa religião oficial é a fé na deusa Freya, mas isso não é muito divulgado para os estrangeiros.",
         "es-ES": "[Papai]\nYo soy Papai, del templo, y estoy aquí haciendo labores de divulgación para la gente. La verdad es que nuestra religión oficial venera a la diosa Freya, pero no se da mucha publicidad entre los extranjeros."
     },
     "zLYVAQ": {
-        "en-US": "[Papay]\nIf you are interested, please visit the temple~",
+        "en-US": "[Paphai]\nIf you are interested, please visit the temple~",
         "pt-BR": "[Papai]\nSe tiver interesse, faça uma visita ao templo~",
         "es-ES": "[Papai]\nSi le interesa, visite el templo~"
     },
     "zbYVAQ": {
-        "en-US": "[Papay]\nThen please have a look around~",
+        "en-US": "[Paphai]\nThen take a look~",
         "pt-BR": "[Papai]\nEntão, fique à vontade para olhar~",
         "es-ES": "[Papai]\nEntonces, eche un vistazo~"
     },
     "zrYVAQ": {
-        "en-US": "[Papay]\nOur ancestors cultivated this vast desert and made it a place where people could live. After coming to this land under the guidance of the goddess, they lived here for long, long years, following Her teachings.",
+        "en-US": "[Paphai]\nOur ancestors reclaimed this vast desert and made it a place where people could live. After coming to this land under God's guidance, I lived here for a long time, receiving the teachings.",
         "pt-BR": "[Papai]\nNossos ancestrais abriram este vasto deserto e o transformaram em um lugar onde as pessoas podiam viver. Depois de virem para esta terra guiados por Deus, passaram longos e longos anos vivendo aqui, seguindo Seus ensinamentos.",
         "es-ES": "[Papai]\nNuestros antepasados abrieron este vasto desierto y lo convirtieron en un lugar habitable. Después de llegar a esta tierra guiados por el dios, hemos vivido aquí durante larguísimos años siguiendo sus enseñanzas."
     },
     "z7YVAQ": {
-        "en-US": "[Papay]\nThe scenery you see now is in fact entirely made by human hands. Of course, it would have been impossible without Her help.",
+        "en-US": "[Paphai]\nIn fact, the scenery you see now was all created by humans. Of course, it would not have been possible without his help.",
         "pt-BR": "[Papai]\nNa verdade, toda essa paisagem que você vê agora foi criada pelos seres humanos. Claro, sem a ajuda Dele, isso teria sido impossível.",
         "es-ES": "[Papai]\nEn realidad, todo este paisaje que ve ahora lo ha creado el ser humano. Claro que, sin la ayuda de Él, habría sido imposible."
     },
     "0LYVAQ": {
-        "en-US": "[Papay]\nEven our ancestors probably did not know that trusting, following, and relying on one another could become such a great strength.\nThat is why I am prepared to devote both body and soul to the goddess Freyja, who led us.",
+        "en-US": "[Paphai]\nEven our ancestors probably didn't know that trusting, following, and relying on each other would be such a great strength.\nSo, I am ready to sacrifice my body and soul for Goddess Freya, who has guided us.",
         "pt-BR": "[Papai]\nNossos ancestrais provavelmente também não sabiam que acreditar, seguir e apoiar uns aos outros resultaria numa força tão grande.\nPor isso eu estou pronto para dedicar corpo e alma à deusa Freya, que nos guiou.",
         "es-ES": "[Papai]\nNi nuestros antepasados debieron de imaginar que creer, seguir y apoyarse unos en otros pudiera convertirse en una fuerza tan grande.\nPor eso yo estoy dispuesto a entregar cuerpo y alma por la diosa Freya, que nos ha guiado."
     },
     "0bYVAQ": {
-        "en-US": "[Papay]\nIf you enter the capital as well, traveler,\nyou will understand what I mean.",
+        "en-US": "[Paphai]\nIf you, a traveler, enter the capital city,\nYou'll see what I mean.",
         "pt-BR": "[Papai]\nSe entrar na capital,\nvocê vai entender\no que quero dizer.",
         "es-ES": "[Papai]\nSi entra en la capital,\nentenderá a qué me refiero,\nviajero."
     },
     "0rYVAQ": {
-        "en-US": "Kid Worshipper",
+        "en-US": "Little Kid",
         "pt-BR": "Garotinho fiel",
         "es-ES": "Fiel Pequeñín"
     },
     "07YVAQ": {
-        "en-US": "[Dino]\nIt is not enough merely to believe in the goddess.\nIt is not enough merely to wish for things.\nSimply believing in the goddess\ndoes not mean blessings\nwill come to you.",
+        "en-US": "[Dino]\nYou can't just believe in God.\nYou can't just hope for it.\nJust because you believe in God, you\nThere is no way for luck to come back.",
         "pt-BR": "[Dino]\nNão basta apenas acreditar em Deus.\nTambém não basta apenas esperar.\nSó por acreditar em Deus\nnão quer dizer que bênçãos\nvirão até você.",
         "es-ES": "[Dino]\nNo basta con creer en el dios.\nTampoco basta con desear.\nAunque uno crea en el dios,\neso no significa que la fortuna\nvaya a llegarle sola."
     },
     "1LYVAQ": {
-        "en-US": "[Dino]\nOne must do everything\nthat ought to be done,\nand then wait\nfor the goddess's will.\nThat is what people must do.",
+        "en-US": "[Dino]\nDo everything you need to do\nWaiting for God's will\nIt's a person's job.",
         "pt-BR": "[Dino]\nFazer tudo o que precisa ser feito\ne esperar pela vontade divina\né o dever de uma pessoa.",
         "es-ES": "[Dino]\nHay que hacer todo lo que toca hacer\ny esperar la voluntad del dios,\neso es lo que le corresponde\nal ser humano."
     },
     "1bYVAQ": {
-        "en-US": "[Dino]\nWhatever Sorin may be doing now,\nthe day will come\nwhen it all makes sense.",
+        "en-US": "[Dino]\nNo matter what you say now\nThere will come a day when you will understand.",
         "pt-BR": "[Dino]\nNão importa o que Sorin faça agora,\num dia isso fará sentido.",
         "es-ES": "[Dino]\nAunque ahora mismo Sorin haga\nlo que haga,\nalgún día llegará el momento\nen que se entienda."
     },
@@ -1400,7 +1400,7 @@
         "es-ES": "[Liwi]\n......"
     },
     "2LYVAQ": {
-        "en-US": "[Liwi]\nGo away!\nWe'll get caught!",
+        "en-US": "[Liwi]\nGo away!\nI'm going to get caught!",
         "pt-BR": "[Liwi]\nVai pra lá!\nVão nos descobrir!",
         "es-ES": "[Liwi]\n¡Váyase de aquí!\n¡Nos van a descubrir!"
     },
@@ -1410,17 +1410,17 @@
         "es-ES": "¿Qué estáis haciendo?"
     },
     "2rYVAQ": {
-        "en-US": "All right.",
+        "en-US": "Okay.",
         "pt-BR": "Tá bom.",
         "es-ES": "Vale."
     },
     "27YVAQ": {
-        "en-US": "[Liwi]\nWhy ask when you can see?\nHave you never done it before?\nWe're skipping out!\nCan't you tell by looking?",
+        "en-US": "[Liwi]\nDo you ask because you don't know?\nHave you never tried it before?\nIt's a ding ding!\nCan't you tell when you see it?",
         "pt-BR": "[Liwi]\nTá perguntando isso porque não sabe?\nNunca fez isso antes?\nÉ matar aula!\nNão dá pra ver?",
         "es-ES": "[Liwi]\n¿Lo pregunta porque no lo sabe?\n¿Nunca lo ha hecho?\n¡Estamos escaqueándonos!\n¿No lo ve?"
     },
     "3LYVAQ": {
-        "en-US": "[Liwi]\nI said go away!",
+        "en-US": "[Liwi]\nGo away!",
         "pt-BR": "[Liwi]\nEu disse pra ir pra lá!",
         "es-ES": "[Liwi]\n¡Le he dicho que se vaya!"
     },
@@ -1430,27 +1430,27 @@
         "es-ES": "[Liwi]\n¡Shh!"
     },
     "3rYVAQ": {
-        "en-US": "[Zika]\nShh.\nWe're playing\nhide-and-seek.",
+        "en-US": "[Zika]\nShh.\nhide and seek.\nI'm doing it.",
         "pt-BR": "[Zika]\nShh.\nEstamos\nbrincando de esconde-esconde.",
         "es-ES": "[Zika]\nShh.\nEstamos jugando\nal escondite."
     },
     "37YVAQ": {
-        "en-US": "[Zika]\nYou'll give me away.\nGo over there.\nMake some noise if you find the other kids.\nI've been it\" five times today.",
+        "en-US": "[Zika]\nYou get caught..\nGo over there.\nIf you find other kids, let me know.\nI played tag five times today.",
         "pt-BR": "[Zika]\nVão nos encontrar.\nVai pra lá.\nSe encontrar as outras crianças, faz barulho.\nHoje eu já fui o pegador cinco vezes.",
         "es-ES": "[Zika]\nNos van a pillar.\nVáyase por ahí.\nSi encuentra a los otros niños, haga ruido.\nHoy ya he sido quien la lleva cinco veces."
     },
     "4LYVAQ": {
-        "en-US": "[Emit]\nAaah, you startled me!\nI thought you were it!\nWhat if I got caught!\nGo away! Hurry!",
+        "en-US": "[Emmet]\nOh, what a surprise!\nI knew you were drunk!\nWhat will you do if you get caught?\ngo away! hurry!",
         "pt-BR": "[Emit]\nAaah, que susto!\nAchei que fosse o pegador!\nQuer que descubram a gente?\nVai pra lá! Rápido!",
         "es-ES": "[Emit]\n¡Aaah, qué susto!\n¡Creí que eras quien la lleva!\n¡¿Y si nos descubren?!\n¡Vete! ¡Rápido!"
     },
     "4bYVAQ": {
-        "en-US": "[Hass]\nWhere did everybody go~\nWhere did they go~ where did they go~",
+        "en-US": "[Hearth]\nWhere have they all gone?\nDid I go? Did I go?",
         "pt-BR": "[Has]\nPra onde foi todo mundo~\nPra onde foi~ pra onde foi~",
         "es-ES": "[Has]\n¿Dónde se habrán metido todos~\nse habrán metido~ se habrán metido~"
     },
     "4rYVAQ": {
-        "en-US": "[Hass]\nAdults don't get to join hide-and-seek,\nso go over there!",
+        "en-US": "[Hearth]\nBecause adults don't let you play hide and seek.\nGo away!",
         "pt-BR": "[Has]\nAdultos não podem participar do esconde-esconde,\nentão vai pra lá!",
         "es-ES": "[Has]\nA los adultos no se les deja jugar\nal escondite,\nasí que váyase por ahí."
     },
@@ -1460,47 +1460,47 @@
         "es-ES": "Viajero"
     },
     "5LYVAQ": {
-        "en-US": "[Traveler]\nMy friend and I traveled\nto a city called Rachel this time.\nThey said that if you donate at the temple,\nthey give you one random thing\nfrom the warehouse,\nso my friend made a donation.",
+        "en-US": "[Traveler]\nMy friend and I went to a city called Rachel this time.\nI mean, I went on a trip.\nWhat happens when you make an offering at a temple?\nAnything from the warehouse\nThey said they would give it to me, so I made an offering.",
         "pt-BR": "[Viajante]\nMeu amigo viajou desta vez para uma cidade chamada Rachel.\nDisseram que, se fizesse uma doação no templo,\ndariam qualquer coisa que tivesse saído do armazém.",
         "es-ES": "[Viajero]\nPues verá, un amigo mío fue a viajar esta vez\na una ciudad llamada Rachel.\nDicen que al donar en el templo\nte dan algo cualquiera\nsacado del almacén."
     },
     "5bYVAQ": {
-        "en-US": "[Traveler]\nThen they received something like a book,\nand I hear there was a pretty card\ntucked into the bookmark?\nAs a souvenir of going far away,\nthey brought it back.",
+        "en-US": "[Traveler]\nAnd then I got something like a book.\nI heard there was a pretty card in the bookmark?\nAs a souvenir from going somewhere far away\nThey said he came back with it.",
         "pt-BR": "[Viajante]\nE então parece que ele recebeu algo que parecia um livro,\nmas havia um cartão bonito dentro como marcador?\nComo lembrança de ter ido tão longe,\nele trouxe aquilo de volta.",
         "es-ES": "[Viajero]\nEntonces le dieron algo así como un libro,\ny decía que dentro, como marcapáginas,\nvenía una tarjeta preciosa.\nComo recuerdo de haber ido tan lejos,\nse la trajo de vuelta."
     },
     "5rYVAQ": {
-        "en-US": "[Traveler]\nI also received one thing\nfrom that warehouse...\na pretty fruit.\nEven the Priest said\nthey did not know what it was.\nSince I had never seen it before, I just tried eating it,\nand it filled my whole body with vigor.",
+        "en-US": "[Traveler]\nI also got something from that warehouse.\nI received it... and it was a pretty fruit.\nThey say they don't even know what a priest is..\nIt was my first time seeing it so I just tried it.,\nMy whole body was full of energy.",
         "pt-BR": "[Viajante]\nEu também recebi algo vindo daquele armazém...\nEra uma fruta bonita.\nDisseram que nem o Sacerdote sabia o que era.\nComo nunca tinha visto, simplesmente comi,\ne senti meu corpo inteiro cheio de energia.",
         "es-ES": "[Viajero]\nA mí también me dieron una cosa\nsacada del almacén... era un fruto precioso.\nNi el Sacerdote sabía qué era.\nComo nunca había visto uno, me lo comí sin más,\ny sentí todo el cuerpo lleno de energía."
     },
     "57YVAQ": {
-        "en-US": "[Traveler]\nThey said they were accepting donations for some festival,\nbut I do not know until when.\nStill, it seemed fun enough to try,\nso if they are still doing it\nthe next time I go,\nI think I might donate a little more.",
+        "en-US": "[Traveler]\nI heard they take donations for some kind of festival.\nI don't know how long I'm going to do this\nI thought it would be okay if I tried it for fun.\nUntil next time, if you do it\nI'm thinking about donating a little more..",
         "pt-BR": "[Viajante]\nDisseram que estavam arrecadando doações\npara algum tipo de festival.\nNão sei até quando vão continuar,\nmas parece divertido tentar,\nentão, se ainda estiverem fazendo isso\nda próxima vez que eu for,\ntalvez eu doe um pouco mais.",
         "es-ES": "[Viajero]\nDicen que están aceptando donativos para cierto festival,\npero no sé hasta cuándo van a seguir;\naun así, por probar un poco de diversión,\nsi cuando vuelva siguen haciéndolo,\nigual hago otro donativo."
     },
     "6LYVAQ": {
-        "en-US": "[Traveler]\nThe Priest accepting donations\nat the temple in Rachel\nseemed to be having some trouble...\nI wonder if it has been resolved by now?",
+        "en-US": "[Traveler]\nThe priest who received donations at Rachel's temple\nHe seemed to be having some trouble....\nI guess you've solved it by now?",
         "pt-BR": "[Viajante]\nParece que o Sacerdote que recebia doações\nno templo de Rachel\nestava com algum problema...\nSerá que a essa altura já se resolveu?",
         "es-ES": "[Viajero]\nEl Sacerdote que recogía donativos\nen el templo de Rachel\nparecía tener algún problema...\nMe pregunto si ya lo habrá resuelto."
     },
     "6bYVAQ": {
-        "en-US": "Additional Collection",
+        "en-US": "Add collection",
         "pt-BR": "Arrecadação adicional",
         "es-ES": "Añadido de recaudación"
     },
     "6rYVAQ": {
-        "en-US": "[Additional Collection]\nI am the donation manager for Rachel.",
+        "en-US": "[Add collection]\nI am Rachel's offering manager.",
         "pt-BR": "[Arrecadação adicional]\nSou o administrador de doações de Rachel.",
         "es-ES": "[Añadido de recaudación]\nAdministrador de donativos de Rachel."
     },
     "67YVAQ": {
-        "en-US": "[Collector]\nThe amount currently collected\nis a total of {0} Zeny.\nUntil the temple is closed,\na total of {1} Zeny remains.",
+        "en-US": "[Collector]\nThe amount currently collected is\nTotal {0} Zenny.\nUntil the temple closes\nTotal {1} Zenny left.",
         "pt-BR": "[Arrecadador]\nO total arrecadado até agora\né de {0} zeny.\nAté o fechamento do templo,\nainda faltam {1} zeny no total.",
         "es-ES": "[Recaudador]\nLa cantidad recaudada actualmente\nes un total de {0} zeny.\nHasta el cierre del templo faltan\ntodavía {1} zeny en total."
     },
     "7LYVAQ": {
-        "en-US": "[Additional Collector]\nCollection on this server\nhas been completed.",
+        "en-US": "[Additional collection agent]\non the current server\nCollection has been completed.",
         "pt-BR": "[Agente de arrecadação adicional]\nA arrecadação neste servidor\njá foi concluída.",
         "es-ES": "[Empleado de recaudación adicional]\nLa recaudación actual\ndel servidor\nha finalizado."
     },
@@ -1510,72 +1510,72 @@
         "es-ES": "Recaudador"
     },
     "7rYVAQ": {
-        "en-US": "[Collector]\nI am the donation manager for Rachel.",
+        "en-US": "[Collector]\nI am Rachel's offering manager.",
         "pt-BR": "[Arrecadador]\nSou o administrador de doações de Rachel.",
         "es-ES": "[Recaudador]\nAdministrador de donativos de Rachel."
     },
     "77YVAQ": {
-        "en-US": "[Collector]\nIf you wish to make adjustments,\nplease enter the password.",
+        "en-US": "[Collector]\nIf you want to adjust\nPlease enter your password",
         "pt-BR": "[Arrecadador]\nSe quiser fazer ajustes,\npor favor, insira a senha",
         "es-ES": "[Recaudador]\nSi desea ajustar algo,\nintroduzca la contraseña."
     },
     "8LYVAQ": {
-        "en-US": "[Collector]\nDonate or siphon off?",
+        "en-US": "[Collector]\nDonate or steal?",
         "pt-BR": "[Arrecadador]\nDoar ou desviar?",
         "es-ES": "[Recaudador]\n¿Donar o desviar fondos?"
     },
     "8bYVAQ": {
-        "en-US": "Donate",
+        "en-US": "donation",
         "pt-BR": "Doar",
         "es-ES": "Donar"
     },
     "8rYVAQ": {
-        "en-US": "Siphon off",
+        "en-US": "stealing",
         "pt-BR": "Desviar",
         "es-ES": "Desviar fondos"
     },
     "87YVAQ": {
-        "en-US": "[Collector]\nHow much would you like to donate?\nIt will not come out of your own pocket,\nso do not worry.\nNo, worry a little.\nUp to 100,000,000 Zeny at a time.",
+        "en-US": "[Collector]\nHow much would you like to donate?\nIt won't come out of your pocket\ndon't worry.\nNo, I'm a little worried.\nUp to 100 million Zeny at a time.",
         "pt-BR": "[Arrecadador]\nQuanto deseja doar?\nNão vai sair do seu bolso,\nentão não se preocupe.\nNão, quer dizer, preocupe-se um pouco.\nAté 100 milhões de zeny por vez.",
         "es-ES": "[Recaudador]\n¿Cuánto desea donar?\nNo saldrá de su bolsillo,\nasí que no se preocupe.\nNo, preocúpese un poco.\nHasta 100 millones de zeny cada vez."
     },
     "9LYVAQ": {
-        "en-US": "[Collector]\nEnough already.",
+        "en-US": "[Collector]\nDo your best.",
         "pt-BR": "[Arrecadador]\nJá chega, vai.",
         "es-ES": "[Recaudador]\nYa vale, no abuses."
     },
     "9bYVAQ": {
-        "en-US": "[Collector]\nUnderstood.",
+        "en-US": "[Collector]\nI knew.",
         "pt-BR": "[Arrecadador]\nEntendido.",
         "es-ES": "[Recaudador]\nEntendido."
     },
     "9rYVAQ": {
-        "en-US": "[Collector]\nWith that donation, switch on.\nThe temple door will be sealed.",
+        "en-US": "[Collector]\nSwitch on with the donation just now.\nThe temple gates are closed.",
         "pt-BR": "[Arrecadador]\nA doação de agora mesmo ligou o interruptor.\nA porta do templo será fechada.",
         "es-ES": "[Recaudador]\nCon el donativo de ahora, interruptor activado.\nLa puerta del templo se cerrará."
     },
     "97YVAQ": {
-        "en-US": "[Collector]\nThe current donation amount\nis a total of {0} Zeny.",
+        "en-US": "[Collector]\nThe current donation amount is\nTotal {0} Zenny.",
         "pt-BR": "[Arrecadador]\nO valor atual arrecadado\né de {0} zeny no total.",
         "es-ES": "[Recaudador]\nLa cantidad actual donada\nes un total de {0} zeny."
     },
     "+LYVAQ": {
-        "en-US": "[Collector]\nHow much would you like to siphon off?\nEven if you siphon it off,\nit will not go into your own pocket.\nUp to 100,000,000 Zeny at a time.",
+        "en-US": "[Collector]\nHow much are you willing to steal?\nEven if you steal it, it will be in your pocket.\nI won't go in, but.\nUp to 100 million won at a time.",
         "pt-BR": "[Arrecadador]\nQuanto deseja desviar?\nMesmo desviando, isso não vai\nparar no seu bolso.\nAté 100 milhões de zeny por vez.",
         "es-ES": "[Recaudador]\n¿Cuánto desea desviar?\nAunque lo desvíe, no irá\na parar a su bolsillo.\nHasta 100 millones de zeny cada vez."
     },
     "+bYVAQ": {
-        "en-US": "[Collector]\nAre you trying to eat a flea's liver?\nThe current donation amount is less than that.",
+        "en-US": "[Collector]\nAre you planning on eating a flea's liver?\nThe current donation amount is less than that.",
         "pt-BR": "[Arrecadador]\nQuer arrancar o fígado de uma pulga?\nO valor atual arrecadado é menor do que isso.",
         "es-ES": "[Recaudador]\n¿Piensa vaciarle el hígado a una pulga?\nLa recaudación actual es inferior a eso."
     },
     "+rYVAQ": {
-        "en-US": "[Collector]\nYou little brat, getting cheeky.",
+        "en-US": "[Collector]\nI'm just fussing.",
         "pt-BR": "[Arrecadador]\nSeu pirralho atrevido.",
         "es-ES": "[Recaudador]\nMira qué pequeño y qué atrevido."
     },
     "+7YVAQ": {
-        "en-US": "[Collector]\nRestore it to the way it was?",
+        "en-US": "[Collector]\nOriginally?",
         "pt-BR": "[Arrecadador]\nComo antes?",
         "es-ES": "[Recaudador]\n¿Volver al estado original?"
     },
@@ -1590,12 +1590,12 @@
         "es-ES": "set 0"
     },
     "/rYVAQ": {
-        "en-US": "[Collector]\nEnd",
+        "en-US": "[Collector]\nend",
         "pt-BR": "[Arrecadador]\nFim",
         "es-ES": "[Recaudador]\nFin"
     },
     "/7YVAQ": {
-        "en-US": "[Collector]\nYou little brat...",
+        "en-US": "[Collector]\nMake it small...",
         "pt-BR": "[Arrecadador]\nSeu pirralho...",
         "es-ES": "[Recaudador]\nMira qué pequeño..."
     },

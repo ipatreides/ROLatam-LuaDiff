@@ -319,7 +319,9 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Star_Glasspen] = "C_Star_Glasspen",
 	[SPRITE_ROBE_IDs.ROBE_C_Thoughts_Window] = "C_Thoughts_Window ",
 	[SPRITE_ROBE_IDs.ROBE_C_Tassie_Anchor] = "C_Tassie_Anchor",
-	[SPRITE_ROBE_IDs.ROBE_C_Gerero_Spear] = "C_Gerero_Spear"
+	[SPRITE_ROBE_IDs.ROBE_C_Gerero_Spear] = "C_Gerero_Spear",
+	[SPRITE_ROBE_IDs.ROBE_C_S_Thanatos_Wing] = "C_S_Thanatos_Wing",
+	[SPRITE_ROBE_IDs.ROBE_C_Tuna_Fishing] = "C_Tuna_Fishing"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -642,7 +644,9 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Star_Glasspen] = "C_Star_Glasspen",
 	[SPRITE_ROBE_IDs.ROBE_C_Thoughts_Window] = "C_Thoughts_Window ",
 	[SPRITE_ROBE_IDs.ROBE_C_Tassie_Anchor] = "C_Tassie_Anchor",
-	[SPRITE_ROBE_IDs.ROBE_C_Gerero_Spear] = "C_Gerero_Spear"
+	[SPRITE_ROBE_IDs.ROBE_C_Gerero_Spear] = "C_Gerero_Spear",
+	[SPRITE_ROBE_IDs.ROBE_C_S_Thanatos_Wing] = "C_S_Thanatos_Wing",
+	[SPRITE_ROBE_IDs.ROBE_C_Tuna_Fishing] = "C_Tuna_Fishing"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
@@ -849,6 +853,7 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_Magnus_Dominus,
 	SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_B,
 	SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_M,
+	SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_F,
 	SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_GM,
 	SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_GF,
 	SPRITE_ROBE_IDs.ROBE_C_Stylish_Arch_Quiver,
@@ -860,5 +865,7 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_Star_Glasspen,
 	SPRITE_ROBE_IDs.ROBE_C_Thoughts_Window,
 	SPRITE_ROBE_IDs.ROBE_C_Tassie_Anchor,
-	SPRITE_ROBE_IDs.ROBE_C_Gerero_Spear
+	SPRITE_ROBE_IDs.ROBE_C_Gerero_Spear,
+	SPRITE_ROBE_IDs.ROBE_C_S_Thanatos_Wing,
+	SPRITE_ROBE_IDs.ROBE_C_Tuna_Fishing
 }

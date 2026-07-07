@@ -2478,5 +2478,15 @@
         "en-US": "[Here is the reward for participating in the Veteran Event.]",
         "pt-BR": "[Segue item para participação no Evento Veterano.]",
         "es-ES": "[Aquí tienes el artículo para participar en el Evento de Veteranos.]"
+    },
+    "ACk": {
+        "en-US": "[Battle Pass Invitation]",
+        "pt-BR": "[Convite para o Passe de Batalha]",
+        "es-ES": "[Invitación al Pase de Batalla]"
+    },
+    "ASk": {
+        "en-US": "[Join the Second Season of the Battle Pass]",
+        "pt-BR": "[Participe da Segunda Temporada do Passe de Batalha]",
+        "es-ES": "[Únete a la Segunda Temporada del Pase de Batalla]"
     }
 }

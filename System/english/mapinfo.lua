@@ -6035,9 +6035,9 @@ mapTbl = {
 		backgroundBmp = "field2"
 	},
 	["ra_fild02.rsw"] = {
-		displayName = "Rachel Oz Gorge",
+		displayName = "Rachel Oz Canyon",
 		notifyEnter = true,
-		signName = {mainTitle = "Oz Gorge"},
+		signName = {mainTitle = "Oz Canyon"},
 		backgroundBmp = "field_s2"
 	},
 	["ra_fild03.rsw"] = {
@@ -6073,9 +6073,9 @@ mapTbl = {
 		backgroundBmp = "field2"
 	},
 	["ra_fild07.rsw"] = {
-		displayName = "Rachel Oz Gorge",
+		displayName = "Rachel Oz Canyon",
 		notifyEnter = true,
-		signName = {mainTitle = "Oz Gorge"},
+		signName = {mainTitle = "Oz Canyon"},
 		backgroundBmp = "field_s2"
 	},
 	["ra_fild08.rsw"] = {
@@ -6095,9 +6095,9 @@ mapTbl = {
 		backgroundBmp = "field_s2"
 	},
 	["ra_fild10.rsw"] = {
-		displayName = "Rachel Oz Gorge",
+		displayName = "Rachel Oz Canyon",
 		notifyEnter = true,
-		signName = {mainTitle = "Oz Gorge"},
+		signName = {mainTitle = "Oz Canyon"},
 		backgroundBmp = "field"
 	},
 	["ra_fild11.rsw"] = {
@@ -8159,6 +8159,23 @@ mapTbl = {
 			mainTitle = "Kumamoto Experience Farm"
 		},
 		backgroundBmp = "village"
+	},
+	["1@ch_u.rsw"] = {
+		displayName = "Sunken Tower",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Old Endless Tower Erosion Site",
+			mainTitle = "Sunken Tower"
+		},
+		backgroundBmp = "noname"
+	},
+	["1@spa2.rsw"] = {
+		displayName = "Tomb of Regret",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Tomb of Regret"
+		},
+		backgroundBmp = "dungeon_s2"
 	}
 }
 function main()

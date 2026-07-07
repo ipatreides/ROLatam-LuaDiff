@@ -9,7 +9,7 @@ SignBoardList_data = {
 		CELLY = 278,
 		HEIGHT = 0,
 		ICONID = 1,
-		FILEPATH = "collection\\²É°¡Áö.bmp",
+		FILEPATH = "collection\\꽃가지.bmp",
 		CHARCOLOR = "#0x009EBDFF"
 	},
 	[2] = {
@@ -6801,6 +6801,387 @@ SignBoardList_data = {
 		HEIGHT = 0,
 		ICONID = 1,
 		FILEPATH = "information\\over_guide.bmp"
+	},
+	[931] = {
+		MAPNAME = "glast_01",
+		CELLX = 210,
+		CELLY = 270,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "information\\over_mkwp.bmp"
+	},
+	[932] = {
+		MAPNAME = "glast_01",
+		CELLX = 210,
+		CELLY = 273,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "information\\over_mkhat.bmp"
+	},
+	[933] = {
+		MAPNAME = "glast_01",
+		CELLX = 212,
+		CELLY = 273,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "information\\over_mkect.bmp"
+	},
+	[934] = {
+		MAPNAME = "glast_01",
+		CELLX = 184,
+		CELLY = 283,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\ws_createcoin.bmp",
+		CONTENTS = "  Encanto",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[935] = {
+		MAPNAME = "prontera",
+		CELLX = 137,
+		CELLY = 125,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "information\\over_nmtrade.bmp",
+		CONTENTS = "  Shopping",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[936] = {
+		MAPNAME = "itemmall",
+		CELLX = 40,
+		CELLY = 85,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "achievement\\colletion.bmp"
+	},
+	[937] = {
+		MAPNAME = "prontera",
+		CELLX = 221,
+		CELLY = 209,
+		HEIGHT = 10,
+		ICONID = 1,
+		FILEPATH = "item\\mistress_egg.bmp"
+	},
+	[938] = {
+		MAPNAME = "moc_para01",
+		CELLX = 44,
+		CELLY = 22,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "item\\고양이손티켓.bmp"
+	},
+	[939] = {
+		MAPNAME = "moc_para01",
+		CELLX = 44,
+		CELLY = 19,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "information\\over_warp3.bmp"
+	},
+	[940] = {
+		MAPNAME = "moc_para01",
+		CELLX = 44,
+		CELLY = 17,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "item\\c_tent.bmp"
+	},
+	[941] = {
+		MAPNAME = "rgsr_in",
+		CELLX = 115,
+		CELLY = 169,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\cr_alchemy.bmp"
+	},
+	[942] = {
+		MAPNAME = "rgsr_in",
+		CELLX = 131,
+		CELLY = 187,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\bs_findingore.bmp"
+	},
+	[943] = {
+		MAPNAME = "prontera",
+		CELLX = 184,
+		CELLY = 210,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "item\\검은수정조각.bmp"
+	},
+	[944] = {
+		MAPNAME = "prt_cas",
+		CELLX = 373,
+		CELLY = 77,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\episodclear16.bmp",
+		CONTENTS = "  Passe de EP",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[945] = {
+		MAPNAME = "prontera",
+		CELLX = 99,
+		CELLY = 64,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\만능카탈로그실버.bmp"
+	},
+	[946] = {
+		MAPNAME = "alberta",
+		CELLX = 116,
+		CELLY = 71,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\gd_chargeshout_flag.bmp",
+		CONTENTS = "  Desbravadores",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[947] = {
+		MAPNAME = "c_tower1",
+		CELLX = 232,
+		CELLY = 222,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\as_poisonreact.bmp",
+		CONTENTS = "  Modo Pesadelo",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[948] = {
+		MAPNAME = "dic_dun01",
+		CELLX = 266,
+		CELLY = 113,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\as_poisonreact.bmp",
+		CONTENTS = "  Modo Pesadelo",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[949] = {
+		MAPNAME = "moc_prydb1",
+		CELLX = 103,
+		CELLY = 54,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\as_poisonreact.bmp",
+		CONTENTS = "  Modo Pesadelo",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[950] = {
+		MAPNAME = "glast_01",
+		CELLX = 195,
+		CELLY = 273,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\as_poisonreact.bmp",
+		CONTENTS = "  Modo Pesadelo",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[951] = {
+		MAPNAME = "lighthalzen",
+		CELLX = 321,
+		CELLY = 218,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\as_poisonreact.bmp",
+		CONTENTS = "  Modo Pesadelo",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[952] = {
+		MAPNAME = "prontera",
+		CELLX = 90,
+		CELLY = 115,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\ill_piece_a.bmp"
+	},
+	[953] = {
+		MAPNAME = "prontera",
+		CELLX = 88,
+		CELLY = 113,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\ill_piece_b.bmp"
+	},
+	[954] = {
+		MAPNAME = "prt_cas",
+		CELLX = 165,
+		CELLY = 260,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\명예의증표.bmp",
+		CONTENTS = "  Equip. Nobre",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[955] = {
+		MAPNAME = "rebel_in",
+		CELLX = 99,
+		CELLY = 51,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\슈발츠명예의증표.bmp",
+		CONTENTS = "  Equip. Ilustre",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[956] = {
+		MAPNAME = "sp_cor",
+		CELLX = 136,
+		CELLY = 156,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\unknown_parts.bmp",
+		CONTENTS = "  Equip. Gracil",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[957] = {
+		MAPNAME = "itemmall",
+		CELLX = 41,
+		CELLY = 53,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\cachua_coupon.bmp"
+	},
+	[958] = {
+		MAPNAME = "itemmall",
+		CELLX = 41,
+		CELLY = 50,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\냥다래열매.bmp"
+	},
+	[959] = {
+		MAPNAME = "itemmall",
+		CELLX = 41,
+		CELLY = 46,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\ws_weaponrefine.bmp"
+	},
+	[960] = {
+		MAPNAME = "ba_in01",
+		CELLX = 87,
+		CELLY = 386,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\ep_17_2_c_admin1_egg.bmp"
+	},
+	[961] = {
+		MAPNAME = "ba_in01",
+		CELLX = 87,
+		CELLY = 383,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\barmealticket.bmp"
+	},
+	[963] = {
+		MAPNAME = "ba_in01",
+		CELLX = 87,
+		CELLY = 380,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\auto_imp_magic.bmp"
+	},
+	[964] = {
+		MAPNAME = "ba_in01",
+		CELLX = 87,
+		CELLY = 376,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\auto_m_i_box_a.bmp"
+	},
+	[965] = {
+		MAPNAME = "ba_in01",
+		CELLX = 87,
+		CELLY = 373,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\auto_module_e.bmp"
+	},
+	[966] = {
+		MAPNAME = "ba_in01",
+		CELLX = 87,
+		CELLY = 370,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\ws_createcoin.bmp"
+	},
+	[967] = {
+		MAPNAME = "itemmall",
+		CELLX = 18,
+		CELLY = 66,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "item\\영혼의뚫어뻥.bmp"
+	},
+	[968] = {
+		MAPNAME = "itemmall",
+		CELLX = 16,
+		CELLY = 66,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "information\\ebl_manus.bmp"
+	},
+	[969] = {
+		MAPNAME = "itemmall",
+		CELLX = 14,
+		CELLY = 66,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "item\\송곳.bmp"
+	},
+	[970] = {
+		MAPNAME = "sec_in02",
+		CELLX = 129,
+		CELLY = 87,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "achievement\\title.bmp"
+	},
+	[971] = {
+		MAPNAME = "prontera",
+		CELLX = 152,
+		CELLY = 306,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\ship_ticket.bmp",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[972] = {
+		MAPNAME = "prontera",
+		CELLX = 144,
+		CELLY = 296,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\gd_hawkeyes.bmp",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[973] = {
+		MAPNAME = "prontera",
+		CELLX = 144,
+		CELLY = 290,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\gd_hawkeyes.bmp",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[974] = {
+		MAPNAME = "prontera",
+		CELLX = 144,
+		CELLY = 284,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\gd_hawkeyes.bmp",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[975] = {
+		MAPNAME = "prontera",
+		CELLX = 144,
+		CELLY = 277,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\gd_hawkeyes.bmp",
+		CHARCOLOR = "#0x00FFFFFF"
 	}
 }
 local function MergeTables(dest, src)

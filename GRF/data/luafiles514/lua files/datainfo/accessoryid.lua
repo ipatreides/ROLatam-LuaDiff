@@ -2845,5 +2845,11 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Blink_Eyes_Hanom = 2862,
 	ACCESSORY_C_Diosa_Rod = 2863,
 	ACCESSORY_C_Bluehole_Bubble = 2864,
-	ACCESSORY_C_Tassie_Helm = 2865
+	ACCESSORY_C_Tassie_Helm = 2865,
+	ACCESSORY_C_Aqua_Marin = 2866,
+	ACCESSORY_C_Aqua_Marin_N = 2867,
+	ACCESSORY_C_Angler_Dream = 2868,
+	ACCESSORY_C_Deepsea_Pearls_Hat = 2869,
+	ACCESSORY_Magical_Cape = 2870,
+	ACCESSORY_Fan_In_Mouth_PP = 2871
 }

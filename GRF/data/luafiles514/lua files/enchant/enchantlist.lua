@@ -8,7 +8,7 @@ Table[1]:SetReset(true, 100000, 100000, {
 	"Ep18_Amethyst_Fragment",
 	25
 })
-Table[1]:SetCaution("É possível aplicar encantamentos em Traje e Manto Lobo Cinzento com refino +7 ou superior(As opções adicionais de acordo com o nível de refino não são aplicadas)\nTaxa de sucesso de encantamento normal: 100%\nTaxa de redefiniç?o do encantamento: 100%")
+Table[1]:SetCaution("É possível aplicar encantamentos em Traje e Veste Lobo Cinzento com refino +7 ou superior(As opções adicionais de acordo com o nível de refino não são aplicadas)\nTaxa de sucesso de encantamento normal: 100%\nTaxa de redefinição do encantamento: 100%")
 Table[1].Slot[3]:SetRequire(100000, {
 	"Ep18_Amethyst_Fragment",
 	15
@@ -366,7 +366,7 @@ Table[2]:SetReset(true, 100000, 100000, {
 	"Ep18_Amethyst_Fragment",
 	25
 })
-Table[2]:SetCaution("É possível aplicar encantamentos em Capa e Cachecol Lobo Cinzento com refino +7 ou superior(As opções adicionais de acordo com o nível de refino não são aplicadas)\nTaxa de sucesso de encantamento normal: 100%\nTaxa de redefiniç?o do encantamento: 100%")
+Table[2]:SetCaution("É possível aplicar encantamentos em Manto e Sobrepeliz Lobo Cinzento com refino +7 ou superior(As opções adicionais de acordo com o nível de refino não são aplicadas)\nTaxa de sucesso de encantamento normal: 100%\nTaxa de redefinição do encantamento: 100%")
 Table[2].Slot[3]:SetRequire(100000, {
 	"Ep18_Amethyst_Fragment",
 	15
@@ -452,7 +452,7 @@ Table[3]:SetReset(true, 100000, 100000, {
 	"Ep18_Amethyst_Fragment",
 	25
 })
-Table[3]:SetCaution("É possível aplicar encantamentos em Botas e Sapatos Lobo Cinzento com refino +7 ou superior(As opções adicionais de acordo com o nível de refino não são aplicadas)\nTaxa de sucesso de encantamento normal: 100%\nTaxa de redefiniç?o do encantamento: 100%")
+Table[3]:SetCaution("É possível aplicar encantamentos em Botas e Sapatos Lobo Cinzento com refino +7 ou superior(As opções adicionais de acordo com o nível de refino não são aplicadas)\nTaxa de sucesso de encantamento normal: 100%\nTaxa de redefinição do encantamento: 100%")
 Table[3].Slot[3]:SetRequire(100000, {
 	"Ep18_Amethyst_Fragment",
 	15
@@ -538,7 +538,7 @@ Table[4]:SetReset(true, 100000, 100000, {
 	"Ep18_Amethyst_Fragment",
 	25
 })
-Table[4]:SetCaution("É possível aplicar encantamentos em Pingente e Brinco Lobo Cinzento.(As opções adicionais de acordo com o nível de refino não são aplicadas)\nTaxa de sucesso de encantamento normal: 100%\nTaxa de redefiniç?o do encantamento: 100%")
+Table[4]:SetCaution("É possível aplicar encantamentos em Pingente e Brincos Lobo Cinzento.(As opções adicionais de acordo com o nível de refino não são aplicadas)\nTaxa de sucesso de encantamento normal: 100%\nTaxa de redefinição do encantamento: 100%")
 Table[4].Slot[3]:SetRequire(100000, {
 	"Ep18_Amethyst_Fragment",
 	15
@@ -672,7 +672,7 @@ Table[5]:SetReset(true, 100000, 100000, {
 	"Ep18_Amethyst_Fragment",
 	25
 })
-Table[5]:SetCaution("É possível aplicar encantamentos em Anel e Colar Lobo Cinzento(As opções adicionais de acordo com o nível de refino não são aplicadas)\nTaxa de sucesso de encantamento normal: 100%\nTaxa de redefiniç?o do encantamento: 100%")
+Table[5]:SetCaution("É possível aplicar encantamentos em Anel e Colar Lobo Cinzento(As opções adicionais de acordo com o nível de refino não são aplicadas)\nTaxa de sucesso de encantamento normal: 100%\nTaxa de redefinição do encantamento: 100%")
 Table[5].Slot[3]:SetRequire(100000, {
 	"Ep18_Amethyst_Fragment",
 	15
@@ -802,7 +802,7 @@ Table[15]:AddTargetItem("Mad_Bunny_K_LT")
 Table[15]:SetCondition(0, 0)
 Table[15]:ApproveRandomOption(true)
 Table[15]:SetReset(true, 100000, 500000)
-Table[15]:SetCaution("Encantamento Mad Bunny-LT\nChance de sucesso 100%\nChance de reinicializaç?o 100% Se falhar, n?o será destruído")
+Table[15]:SetCaution("Encantamento Coelho Macabro-LT\nChance de sucesso 100%\nChance de reinicialização 100% Se falhar, não será destruído")
 Table[15].Slot[3]:SetRequire(0, {
 	"Enchant_Ticket",
 	1
@@ -1010,7 +1010,7 @@ Table[20]:SetReset(true, 100000, 0, {
 	"Enchant_Ticket",
 	1
 })
-Table[20]:SetCaution("Encantamento do Emblema do Herói\nChance de sucesso 100%\nChance de reinicializaç?o 100% Se falhar, n?o será destruído")
+Table[20]:SetCaution("Encantamento do Emblema do Herói\nChance de sucesso 100%\nChance de reinicialização 100% Se falhar, não será destruído")
 Table[20].Slot[3]:SetRequire(100000)
 Table[20].Slot[3]:SetSuccessRate(100000)
 Table[20].Slot[3]:SetGradeBonus(1, 0)
@@ -1084,7 +1084,7 @@ Table[21]:SetReset(true, 100000, 0, {
 	"Enchant_Ticket",
 	1
 })
-Table[21]:SetCaution("Encantamento das Botas do Herói-LT\nChance de sucesso 100%\nChance de reinicializaç?o 100% Se falhar, n?o será destruído")
+Table[21]:SetCaution("Encantamento das Botas do Herói-LT\nChance de sucesso 100%\nChance de reinicialização 100% Se falhar, não será destruído")
 Table[21].Slot[3]:SetRequire(100000)
 Table[21].Slot[3]:SetSuccessRate(100000)
 Table[21].Slot[3]:SetGradeBonus(1, 0)
@@ -1227,7 +1227,7 @@ Table[22]:AddTargetItem("Archangeling_Balloon")
 Table[22]:SetCondition(0, 0)
 Table[22]:ApproveRandomOption(true)
 Table[22]:SetReset(true, 100000, 500000)
-Table[22]:SetCaution("Encantamento do Bal?o Porings\nChance de sucesso 100%\nChance de reinicializaç?o 100% Se falhar, n?o será destruído")
+Table[22]:SetCaution("Encantamento do Balão de Poring\nChance de sucesso 100%\nChance de reinicialização 100% Se falhar, não será destruído")
 Table[22].Slot[3]:SetRequire(500000)
 Table[22].Slot[3]:SetSuccessRate(100000)
 Table[22].Slot[3]:SetGradeBonus(1, 0)
@@ -1301,7 +1301,7 @@ Table[23]:AddTargetItem("Tree_Of_Sprout_INT")
 Table[23]:SetCondition(0, 0)
 Table[23]:ApproveRandomOption(true)
 Table[23]:SetReset(true, 100000, 500000)
-Table[23]:SetCaution("Encantamento da Folha Jovem da Árvore do Mundo\nChance de sucesso 100%\nChance de reinicializaç?o 100% Se falhar, n?o será destruído")
+Table[23]:SetCaution("Encantamento da Folha Jovem da Árvore do Mundo\nChance de sucesso 100%\nChance de reinicialização 100% Se falhar, não será destruído")
 Table[23].Slot[3]:SetRequire(100000)
 Table[23].Slot[3]:SetSuccessRate(100000)
 Table[23].Slot[3]:SetGradeBonus(1, 0)
@@ -1479,7 +1479,7 @@ Table[25]:AddTargetItem("Viva_Adul_Hat_WL1")
 Table[25]:SetCondition(0, 0)
 Table[25]:ApproveRandomOption(true)
 Table[25]:SetReset(true, 100000, 500000)
-Table[25]:SetCaution("Encantamento do Helm of Faith\nChance de sucesso 100%\nChance de reinicializaç?o 100% Se falhar, n?o será destruído")
+Table[25]:SetCaution("Encantamento do Elmo da Fé\nChance de sucesso 100%\nChance de reinicialização 100% Se falhar, não será destruído")
 Table[25].Slot[3]:SetRequire(0, {
 	"Enchant_Ticket",
 	1
@@ -1716,7 +1716,7 @@ Table[70]:SetReset(false, 100000, 10000, {
 	"S_Enchant_Essence",
 	1
 })
-Table[70]:SetCaution("Conceder encantamento de Master Weapon, Shield Shadow\nN?o é possível reinicializar o encantamento")
+Table[70]:SetCaution("Conceder encantamento de Arma Sombria Magistral, Escudo Sombrio\nNão é possível reinicializar o encantamento")
 Table[70].Slot[3]:AddPerfectEnchant("Strength5", 0, {
 	"S_Enchant_Essence",
 	1
@@ -1771,7 +1771,7 @@ Table[103]:AddTargetItem("Officer_Cap_LT")
 Table[103]:SetCondition(0, 0)
 Table[103]:ApproveRandomOption(true)
 Table[103]:SetReset(true, 100000, 300000)
-Table[103]:SetCaution("Conceder encantamento do Chapéu do Oficial-LT\nChance de reinicializaç?o 100%")
+Table[103]:SetCaution("Conceder encantamento do Chapéu do Oficial-LT\nChance de reinicialização 100%")
 Table[103].Slot[3]:SetRequire(500000)
 Table[103].Slot[3]:SetSuccessRate(100000)
 Table[103].Slot[3]:SetGradeBonus(1, 0)
@@ -1881,7 +1881,7 @@ Table[104]:SetReset(true, 80000, 1000000, {
 	"Coagulated_Spell",
 	10
 })
-Table[104]:SetCaution("Conceder encantamento da Dor de Thanatos Caído-LT\nChance de sucesso do encantamento comum: 100%\nChance de reinicializaç?o 80%")
+Table[104]:SetCaution("Conceder encantamento da Dor de Thanatos Caído-LT\nChance de sucesso do encantamento comum: 100%\nChance de reinicialização 80%")
 Table[104].Slot[3]:SetRequire(500000, {
 	"Polluted_Spell",
 	5
@@ -2073,7 +2073,7 @@ Table[14]:SetReset(true, 100000, 10000, {
 	"Healthful_Herb",
 	5
 })
-Table[14]:SetCaution("Encantamento do item do evento Popcorn de Verão de 2021\nTaxa de sucesso base: 100%\nChance de reinicialização: 100% Em caso de falha, não ocorre destruição")
+Table[14]:SetCaution("Encantamento do item do evento Pipoca\nTaxa de sucesso base: 100%\nChance de reinicialização: 100% Em caso de falha, não ocorre destruição")
 Table[14].Slot[0]:SetRequire(10000, {
 	"Red_Hot_Marble",
 	1

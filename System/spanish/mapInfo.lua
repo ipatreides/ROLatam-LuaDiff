@@ -668,10 +668,10 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["1@tcamp.rsw"] = {
-		displayName = "Campamento Militar del Volcán",
+		displayName = "Base militar del Volcán Thor",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Campo militar"
+			mainTitle = "Base militar de Thor"
 		},
 		backgroundBmp = "noname_s2"
 	},
@@ -8261,6 +8261,23 @@ mapTbl = {
 			mainTitle = "Granja Temática de Kumamoto"
 		},
 		backgroundBmp = "village"
+	},
+	["1@ch_u.rsw"] = {
+		displayName = "Torre Hundida",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Zona erosionada de la antigua Torre Infinita",
+			mainTitle = "Torre Hundida"
+		},
+		backgroundBmp = "noname"
+	},
+	["1@spa2.rsw"] = {
+		displayName = "Tumba del Arrepentimiento",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Tumba del Arrepentimiento"
+		},
+		backgroundBmp = "dungeon_s2"
 	}
 }
 function main()

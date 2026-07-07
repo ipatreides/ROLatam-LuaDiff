@@ -561,7 +561,7 @@
     },
     "0NIzDQ": {
         "en-US": "My name is~ clap clap!",
-        "pt-BR": "Meu nome é~ palmas, palmas!",
+        "pt-BR": "Meu nome é... palmas, palmas!",
         "es-ES": "Mi nombre es~ ¡plas plas!"
     },
     "0dIzDQ": {
@@ -591,12 +591,12 @@
     },
     "1tIzDQ": {
         "en-US": "[Pakiha]\nAh~ Our brave warrior. Don't worry! I'll explain Korodo well~ for you!",
-        "pt-BR": "[Pakiha]\nAh~ Meu bravo guerreiro. Não se preocupe! Vou explicar Korodo bem~ para você!",
+        "pt-BR": "[Pakiha]\nAh, meu bravo guerreiro. Não se preocupe! Vou explicar melhor sobre Korodo para você!",
         "es-ES": "[Pakiha]\n¡Ah~, nuestro héroe, no te preocupes! ¡Yo te explico muy bien sobre Korodo!"
     },
     "19IzDQ": {
         "en-US": "[Pakiha]\nAh! Our brave warrior. You really know it well! Korodo is~ a volcanic island near Comodo, clap clap!",
-        "pt-BR": "[Pakiha]\nAh! Meu bravo guerreiro. Você realmente sabe bem! Korodo é~ uma ilha vulcânica perto de Comodo, palmas, palmas!",
+        "pt-BR": "[Pakiha]\nAh! Meu bravo guerreiro. Você realmente sabe bem! Korodo é uma ilha vulcânica perto de Comodo, palmas, palmas!",
         "es-ES": "[Pakiha]\n¡Ah! ¡Nuestro héroe lo sabe muy bien! Korodo es~ la isla volcánica cerca de Comodo, ¡plas plas!"
     },
     "2NIzDQ": {
@@ -806,7 +806,7 @@
     },
     "AdMzDQ": {
         "en-US": "[Yerva]\nHello, Adventurer. In June, have you seen the Magic Herbs that sprout all over the fields and dungeons outside town? By gathering Magic Herbs, you can obtain <ITEM>[Healthy Herb]<INFO>25342</INFO></ITEM>.",
-        "pt-BR": "[Yerva]\nOlá, Aventureiro. Em junho, você viu as Ervas Mágicas que brotam por todos os campos e masmorras fora da cidade? Coletando Ervas Mágicas, você pode obter <ITEM>[Erva de Incenso]<INFO>25342</INFO></ITEM>.",
+        "pt-BR": "[Yerva]\nOlá, Viajante. Em junho, você viu as Ervas Mágicas que brotam por todos os campos e masmorras fora da cidade? Coletando Ervas Mágicas, você pode obter <ITEM>[Erva de Incenso]<INFO>25342</INFO></ITEM>.",
         "es-ES": "[Yerba]\nHola, aventurero. En junio, ¿ha visto las Hierbas mágicas que brotan por todos los campos y mazmorras fuera del pueblo? Recolectando las hierbas mágicas se obtiene <ITEM>[Hierba Saludable]<INFO>25342</INFO></ITEM>."
     },
     "AtMzDQ": {

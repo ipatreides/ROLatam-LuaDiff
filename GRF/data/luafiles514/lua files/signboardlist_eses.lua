@@ -100,94 +100,50 @@ SignBoardList_string = {
 		CONTENTS = "  Pistoleros"
 	},
 	[355] = {
-		CONTENTS = "  Relquias de Mora"
+		CONTENTS = "  Reliquias de Mora"
 	},
-	[546] = {
-		CONTENTS = "  Embarque en el barco de pasajeros"
-	},
-	[547] = {
-		CONTENTS = "  Destino: Alberta"
-	},
+	[546] = {CONTENTS = "  Barco"},
+	[547] = {CONTENTS = "  Alberta"},
 	[548] = {
-		CONTENTS = "  Destino: Barco hundido"
+		CONTENTS = "  Barco Hundido"
 	},
-	[549] = {
-		CONTENTS = "  Embarque en el barco de pasajeros"
-	},
-	[550] = {
-		CONTENTS = "  Embarque en el barco de pasajeros"
-	},
-	[551] = {
-		CONTENTS = "  Embarque en el barco de pasajeros"
-	},
-	[552] = {
-		CONTENTS = "  Destino: Izlude"
-	},
-	[553] = {
-		CONTENTS = "  Destino: Isla Luna de Miel"
-	},
-	[554] = {
-		CONTENTS = "  Destino: Alberta"
-	},
-	[555] = {
-		CONTENTS = "  Destino: Izlude"
-	},
+	[549] = {CONTENTS = "  Barco"},
+	[550] = {CONTENTS = "  Barco"},
+	[551] = {CONTENTS = "  Barco"},
+	[552] = {CONTENTS = "  Izlude"},
+	[553] = {CONTENTS = "  Jawaii"},
+	[554] = {CONTENTS = "  Alberta"},
+	[555] = {CONTENTS = "  Izlude"},
 	[556] = {CONTENTS = "  Lutie"},
 	[557] = {
-		CONTENTS = "  Destino: Templo de Odn"
+		CONTENTS = "  Templo de Odin"
 	},
-	[558] = {
-		CONTENTS = "  Destino: Hugel"
-	},
+	[558] = {CONTENTS = "  Hugel"},
 	[559] = {CONTENTS = "  Louyang"},
-	[560] = {CONTENTS = " Alberta"},
+	[560] = {CONTENTS = "  Alberta"},
 	[561] = {CONTENTS = "  Amatsu"},
-	[562] = {
-		CONTENTS = "  Destino: Alberta"
-	},
-	[563] = {
-		CONTENTS = "  Destino: Ayothaya"
-	},
-	[564] = {
-		CONTENTS = "  Destino: Alberta"
-	},
+	[562] = {CONTENTS = "  Alberta"},
+	[563] = {CONTENTS = "  Alberta"},
+	[564] = {CONTENTS = "  Alberta"},
 	[565] = {CONTENTS = "  Brasilis"},
-	[566] = {
-		CONTENTS = "  Destino: Alberta"
-	},
+	[566] = {CONTENTS = "  Alberta"},
 	[567] = {CONTENTS = "  Kunlun"},
-	[568] = {
-		CONTENTS = "  Destino: Alberta"
-	},
+	[568] = {CONTENTS = "  Alberta"},
 	[569] = {
 		CONTENTS = "  Porto Malaya"
 	},
-	[570] = {
-		CONTENTS = "  Destino: Alberta"
-	},
+	[570] = {CONTENTS = "  Alberta"},
 	[571] = {CONTENTS = "  Dewata"},
-	[572] = {
-		CONTENTS = "  Destino: Alberta"
-	},
+	[572] = {CONTENTS = "  Alberta"},
 	[573] = {CONTENTS = "  Moscvia"},
-	[574] = {
-		CONTENTS = "  Destino: Alberta"
-	},
+	[574] = {CONTENTS = "  Alberta"},
 	[575] = {
-		CONTENTS = "  Destino: Isla tortuga"
+		CONTENTS = "  Isla tortuga"
 	},
-	[576] = {
-		CONTENTS = "  Destino: Alberta"
-	},
-	[577] = {
-		CONTENTS = "  Embarque en el barco de pasajeros"
-	},
-	[580] = {
-		CONTENTS = "  Destino: Malangdo"
-	},
-	[582] = {
-		CONTENTS = "  Embarque en el barco de pasajeros"
-	},
+	[576] = {CONTENTS = "  Alberta"},
+	[577] = {CONTENTS = "  Barco"},
+	[580] = {CONTENTS = "  Malangdo"},
+	[582] = {CONTENTS = "  Barco"},
 	[612] = {
 		CONTENTS = "  Clan de la Espada"
 	},
@@ -201,10 +157,10 @@ SignBoardList_string = {
 		CONTENTS = "  Clan de la Ballesta"
 	},
 	[616] = {
-		CONTENTS = "  Proponer matrimonio"
+		CONTENTS = "  Matrimonio"
 	},
 	[617] = {
-		CONTENTS = "  Proponer matrimonio"
+		CONTENTS = "  Matrimonio"
 	},
 	[618] = {
 		CONTENTS = "  Ayudante independiente"
@@ -219,7 +175,7 @@ SignBoardList_string = {
 		CONTENTS = "  Sala de Teste"
 	},
 	[755] = {
-		CONTENTS = "  Pea Intacta"
+		CONTENTS = "  Intercambio"
 	},
 	[756] = {
 		CONTENTS = "  Componentes"
@@ -349,5 +305,83 @@ SignBoardList_string = {
 	},
 	[930] = {
 		CONTENTS = "  Evento de Arranque"
+	},
+	[934] = {CONTENTS = "  Encantar"},
+	[935] = {CONTENTS = "  Compras"},
+	[936] = {CONTENTS = "  Fusión"},
+	[941] = {CONTENTS = "  Reforma"},
+	[942] = {
+		CONTENTS = "  Minerales"
+	},
+	[944] = {
+		CONTENTS = "  Pase de Epi"
+	},
+	[945] = {CONTENTS = "  Catálogo"},
+	[946] = {
+		CONTENTS = "  Exploradores"
+	},
+	[947] = {
+		CONTENTS = "  Modo Pesadilla"
+	},
+	[948] = {
+		CONTENTS = "  Modo Pesadilla"
+	},
+	[949] = {
+		CONTENTS = "  Modo Pesadilla"
+	},
+	[950] = {
+		CONTENTS = "  Modo Pesadilla"
+	},
+	[951] = {
+		CONTENTS = "  Modo Pesadilla"
+	},
+	[952] = {
+		CONTENTS = "  Encantamiento"
+	},
+	[953] = {CONTENTS = "  Comercio"},
+	[954] = {
+		CONTENTS = "  Equip. Noble"
+	},
+	[955] = {
+		CONTENTS = "  Equip. Ilustre"
+	},
+	[956] = {
+		CONTENTS = "  Equip. Grácil"
+	},
+	[957] = {
+		CONTENTS = "  Cupón Kachua"
+	},
+	[958] = {
+		CONTENTS = "  Bonos Aleatorios"
+	},
+	[959] = {
+		CONTENTS = "  Preg. de Refinamiento"
+	},
+	[960] = {CONTENTS = "  Mascota"},
+	[961] = {
+		CONTENTS = "  Equipamiento"
+	},
+	[963] = {
+		CONTENTS = "  Combinadores"
+	},
+	[964] = {
+		CONTENTS = "  Refinadores"
+	},
+	[965] = {
+		CONTENTS = "  Automódulos"
+	},
+	[966] = {
+		CONTENTS = "  Encantamiento"
+	},
+	[971] = {
+		CONTENTS = "  Pase de Batalla"
+	},
+	[972] = {CONTENTS = "  Misiones"},
+	[973] = {
+		CONTENTS = "  Materiales"
+	},
+	[974] = {CONTENTS = "  Comercio"},
+	[975] = {
+		CONTENTS = "  Encantador"
 	}
 }

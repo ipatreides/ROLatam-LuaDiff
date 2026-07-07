@@ -1750,7 +1750,7 @@ Table[70]:SetReset(false, 100000, 10000, {
 	1
 })
 Table[70]:SetCaution([[
-Grant Master Weapon, Shield Shadow Enchant
+Enchant Master Weapon, Master Shadow Shield
 Cannot reset the enchantment]])
 Table[70].Slot[3]:AddPerfectEnchant("Strength5", 0, {
 	"S_Enchant_Essence",
@@ -1807,7 +1807,7 @@ Table[103]:SetCondition(0, 0)
 Table[103]:ApproveRandomOption(true)
 Table[103]:SetReset(true, 100000, 300000)
 Table[103]:SetCaution([[
-Grant Officer's Hat-LT Enchant
+Enchant Officer's Hat-LT
 Reset chance 100%]])
 Table[103].Slot[3]:SetRequire(500000)
 Table[103].Slot[3]:SetSuccessRate(100000)
@@ -1919,7 +1919,7 @@ Table[104]:SetReset(true, 80000, 1000000, {
 	10
 })
 Table[104]:SetCaution([[
-Drooping Thanatos' Torment-LT Enchant
+Enchant Agony of Thanatos
 General enchant success chance: 100%
 Reset chance 80%]])
 Table[104].Slot[3]:SetRequire(500000, {

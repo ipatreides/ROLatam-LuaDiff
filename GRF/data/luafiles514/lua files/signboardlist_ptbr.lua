@@ -30,7 +30,7 @@ SignBoardList_string = {
 		CONTENTS = "  Grupo do Éden"
 	},
 	[12] = {
-		CONTENTS = "   Grupo do Éden"
+		CONTENTS = "  Grupo do Éden"
 	},
 	[13] = {
 		CONTENTS = "  Grupo do Éden"
@@ -102,22 +102,16 @@ SignBoardList_string = {
 		CONTENTS = "  Justiceiros"
 	},
 	[355] = {
-		CONTENTS = "  Relquias de Mora"
+		CONTENTS = "  Relíquias de Mora"
 	},
 	[546] = {CONTENTS = "  Porto"},
 	[547] = {CONTENTS = "  Alberta"},
 	[548] = {
 		CONTENTS = "  Navio Fantasma"
 	},
-	[549] = {
-		CONTENTS = "Embarque de passageiros"
-	},
-	[550] = {
-		CONTENTS = "Embarque de passageiros"
-	},
-	[551] = {
-		CONTENTS = "Embarque de passageiros"
-	},
+	[549] = {CONTENTS = "  Porto"},
+	[550] = {CONTENTS = "  Porto"},
+	[551] = {CONTENTS = "  Porto"},
 	[552] = {CONTENTS = "  Izlude"},
 	[553] = {CONTENTS = "  Jawaii"},
 	[554] = {CONTENTS = "  Alberta"},
@@ -128,34 +122,30 @@ SignBoardList_string = {
 	},
 	[558] = {CONTENTS = "  Hugel"},
 	[559] = {CONTENTS = "  Louyang"},
-	[560] = {CONTENTS = " Alberta"},
+	[560] = {CONTENTS = "  Alberta"},
 	[561] = {CONTENTS = "  Amatsu"},
-	[562] = {CONTENTS = " Alberta"},
+	[562] = {CONTENTS = "  Alberta"},
 	[563] = {CONTENTS = "  Ayothaya"},
-	[564] = {CONTENTS = " Alberta"},
+	[564] = {CONTENTS = "  Alberta"},
 	[565] = {CONTENTS = "  Brasilis"},
-	[566] = {CONTENTS = " Alberta"},
+	[566] = {CONTENTS = "  Alberta"},
 	[567] = {CONTENTS = "  Kunlun"},
-	[568] = {CONTENTS = " Alberta"},
+	[568] = {CONTENTS = "  Alberta"},
 	[569] = {
 		CONTENTS = "  Porto Malaya"
 	},
-	[570] = {CONTENTS = " Alberta"},
+	[570] = {CONTENTS = "  Alberta"},
 	[571] = {CONTENTS = "  Dewata"},
-	[572] = {CONTENTS = " Alberta"},
+	[572] = {CONTENTS = "  Alberta"},
 	[573] = {CONTENTS = "  Moscovia"},
-	[574] = {CONTENTS = " Alberta"},
+	[574] = {CONTENTS = "  Alberta"},
 	[575] = {
-		CONTENTS = "  Ilha da Tartaruga"
+		CONTENTS = "  Ilha Tartaruga"
 	},
-	[576] = {CONTENTS = " Alberta"},
-	[577] = {
-		CONTENTS = "Embarque de passageiros"
-	},
+	[576] = {CONTENTS = "  Alberta"},
+	[577] = {CONTENTS = "  Porto"},
 	[580] = {CONTENTS = "  Malangdo"},
-	[582] = {
-		CONTENTS = "Embarque de passageiros"
-	},
+	[582] = {CONTENTS = "  Porto"},
 	[612] = {
 		CONTENTS = "  Espada Escarlate"
 	},
@@ -175,7 +165,7 @@ SignBoardList_string = {
 		CONTENTS = "  Casamento"
 	},
 	[618] = {
-		CONTENTS = "  Emancipao"
+		CONTENTS = "  Emancipação"
 	},
 	[724] = {CONTENTS = "  Trocas"},
 	[726] = {
@@ -185,7 +175,7 @@ SignBoardList_string = {
 		CONTENTS = "  Sala de Teste"
 	},
 	[755] = {
-		CONTENTS = "  Pea Intacta"
+		CONTENTS = "  Peça Intacta"
 	},
 	[756] = {
 		CONTENTS = "  Componentes"
@@ -254,20 +244,16 @@ SignBoardList_string = {
 		CONTENTS = "  Para Lasagna"
 	},
 	[891] = {
-		CONTENTS = "  Proibido abaixo do Nv. 180"
+		CONTENTS = "  Nível 180 ou mais"
 	},
 	[892] = {
-		CONTENTS = "  Proibido abaixo do Nv. 180"
+		CONTENTS = "  Nível 180 ou mais"
 	},
 	[893] = {
-		CONTENTS = "  Proibido abaixo do Nv. 180"
+		CONTENTS = "  Nível 180 ou mais"
 	},
-	[894] = {
-		CONTENTS = "  Saída do Dirigível"
-	},
-	[895] = {
-		CONTENTS = "  Saída do Dirigível"
-	},
+	[894] = {CONTENTS = "  Saída"},
+	[895] = {CONTENTS = "  Saída"},
 	[896] = {
 		CONTENTS = "  Rota Juno-Rachel"
 	},
@@ -280,40 +266,104 @@ SignBoardList_string = {
 	[899] = {
 		CONTENTS = "  Rota Izlude-Rachel"
 	},
-	[900] = {
-		CONTENTS = "  Saída do Dirigível"
-	},
-	[901] = {
-		CONTENTS = "  Saída do Dirigível"
-	},
+	[900] = {CONTENTS = "  Saída"},
+	[901] = {CONTENTS = "  Saída"},
 	[903] = {
-		CONTENTS = "  Linha Doméstica de Schwarzwald"
+		CONTENTS = "  Voos Domésticos"
 	},
 	[904] = {
-		CONTENTS = "  Linha Doméstica de Schwarzwald"
+		CONTENTS = "  Voos Domésticos"
 	},
 	[905] = {
-		CONTENTS = "  Linha Doméstica de Schwarzwald"
+		CONTENTS = "  Voos Domésticos"
 	},
 	[906] = {
-		CONTENTS = "  Linha Doméstica de Schwarzwald"
+		CONTENTS = "  Voos Domésticos"
 	},
 	[907] = {
-		CONTENTS = "  Linha Doméstica de Schwarzwald"
+		CONTENTS = "  Voos Domésticos"
 	},
 	[908] = {
-		CONTENTS = "  Linha Doméstica de Schwarzwald"
+		CONTENTS = "  Voos Domésticos"
 	},
 	[909] = {
-		CONTENTS = "  Linha Doméstica de Schwarzwald"
+		CONTENTS = "  Voos Domésticos"
 	},
-	[928] = {
-		CONTENTS = "  Pedra de Subir Grau"
-	},
-	[929] = {
-		CONTENTS = "  Evento de Reset"
-	},
+	[928] = {CONTENTS = "  Butique"},
+	[929] = {CONTENTS = "  Reset"},
 	[930] = {
 		CONTENTS = "  Evento de Arrancada"
+	},
+	[934] = {CONTENTS = "  Encanto"},
+	[935] = {CONTENTS = "  Shopping"},
+	[936] = {CONTENTS = "  Fus?o"},
+	[941] = {CONTENTS = "  Reforma"},
+	[942] = {CONTENTS = "  Minérios"},
+	[944] = {
+		CONTENTS = "  Passe de EP"
+	},
+	[945] = {CONTENTS = "  Catálogo"},
+	[946] = {
+		CONTENTS = "  Desbravadores"
+	},
+	[947] = {
+		CONTENTS = "  Modo Pesadelo"
+	},
+	[948] = {
+		CONTENTS = "  Modo Pesadelo"
+	},
+	[949] = {
+		CONTENTS = "  Modo Pesadelo"
+	},
+	[950] = {
+		CONTENTS = "  Modo Pesadelo"
+	},
+	[951] = {
+		CONTENTS = "  Modo Pesadelo"
+	},
+	[952] = {CONTENTS = "  Encanto"},
+	[953] = {CONTENTS = "  Comércio"},
+	[954] = {
+		CONTENTS = "  Equip. Nobre"
+	},
+	[955] = {
+		CONTENTS = "  Equip. Ilustre"
+	},
+	[956] = {
+		CONTENTS = "  Equip. Grácil"
+	},
+	[957] = {
+		CONTENTS = "  Cupom Kachua"
+	},
+	[958] = {
+		CONTENTS = "  Bônus Aleatórios"
+	},
+	[959] = {
+		CONTENTS = "  Perg. de Refino"
+	},
+	[960] = {CONTENTS = "  Mascote"},
+	[961] = {
+		CONTENTS = "  Equipamentos"
+	},
+	[963] = {
+		CONTENTS = "  Combinadores"
+	},
+	[964] = {
+		CONTENTS = "  Refinadores"
+	},
+	[965] = {
+		CONTENTS = "  Automódulos"
+	},
+	[966] = {CONTENTS = "  Encanto"},
+	[971] = {
+		CONTENTS = "  Passe de Batalha"
+	},
+	[972] = {CONTENTS = "  Miss?es"},
+	[973] = {
+		CONTENTS = "  Materiais"
+	},
+	[974] = {CONTENTS = "  Comércio"},
+	[975] = {
+		CONTENTS = "  Encantador"
 	}
 }

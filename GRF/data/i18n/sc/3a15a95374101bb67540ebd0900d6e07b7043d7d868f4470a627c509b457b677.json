@@ -1,73 +1,73 @@
 {
     "YLipAQ": {
-        "en-US": "Captain Janssen",
+        "en-US": "거대한소용돌이",
         "pt-BR": "Capitão Janssen",
         "es-ES": "Capitán Janssen"
     },
     "YbipAQ": {
-        "en-US": "^008800Wait here!!\nYou're carrying too much stuff. Why don't you put some of it away, and then come back.^000000",
+        "en-US": "[ {0} ] 모험가가 거대한 소용돌이에 휘말린 듯 합니다",
         "pt-BR": "^008800Espere aqui!!!\nVocê está carregando coisas demais. Por que não guarda algumas delas e depois volta?^000000",
         "es-ES": "^008800¡Espera aquí!\nLlevas demasiados objetos. ¿Por qué no guardas algunos y vuelves?^000000"
     },
     "YripAQ": {
-        "en-US": "[Captain Janssen]\nSigh... I don't know if I can ever go back to sailing the sea...",
+        "en-US": "함장 얀센",
         "pt-BR": "[Capitão Janssen]\nSuspiro... Não sei se algum dia poderei voltar a navegar no mar...",
         "es-ES": "[Capitán Janssen]\n*Suspira* No sé si alguna vez podré volver a navegar por los mares…"
     },
     "Y7ipAQ": {
-        "en-US": "^0000FFLooking incredibly excited, the old man ran into the marine shop hurriedly ordering goods. You don't have anything better to do, so you decide to ask him why he is in such a rush.^000000",
+        "en-US": "[얀센]\n저 미스티 아일랜드로 가는 뱃길은 당분간 휴업이야.",
         "pt-BR": "^0000FFParecendo incrivelmente empolgado, o idoso entrou correndo na loja de artigos marítimos, pedindo mercadorias às pressas. Você não tem nada melhor para fazer, então decide perguntar a ele por que está com tanta pressa.^000000",
         "es-ES": "^0000FFEl anciano entró corriendo con mucho entusiasmo en la tienda de artículos de mar e hizo un pedido con prisa. No tienes nada mejor que hacer, así que le preguntas a qué se debe su apuro.^000000"
     },
     "ZLipAQ": {
-        "en-US": "^0000FFThe old man, after finishing his orders, walks towards you.^000000",
+        "en-US": "왜죠?",
         "pt-BR": "^0000FFO velho, depois de terminar suas ordens, caminha em sua direção.^000000",
         "es-ES": "^0000FFEl anciano, tras terminar de pedir lo que quiere, camina en tu dirección.^000000"
     },
     "ZbipAQ": {
-        "en-US": "[Captain Janssen]\nI was touched when you accepted a request from me, a stranger, so easily. You must truly be one of those good, heroic adventurers. Are you interested in setting out on an ocean voyage?",
+        "en-US": "아 모르겠고 빨리 보내줘요",
         "pt-BR": "[Capitão Janssen]\nFiquei emocionado quando você aceitou um pedido meu, um estranho, com tanta facilidade. Você deve ser realmente um desses bons e heroicos aventureiros. Está interessado em embarcar em uma viagem oceânica?",
         "es-ES": "[Capitán Janssen]\nMe conmovió que aceptaras mi solicitud así sin más, siendo yo un extraño. Debes de ser verdaderamente uno de esos trotamundos llenos de bondad y heroísmo. ¿Te interesa zarpar en un viaje por el océano?"
     },
     "ZripAQ": {
-        "en-US": "[{0}]\nI've sailed a few times... But now that I think about it, I've never gone across the continent.",
-        "pt-BR": "[{0}]\nJá naveguei algumas vezes... Mas agora que estou pensando nisso, nunca atravessei o continente.",
-        "es-ES": "[{0}]\nNavegué unas pocas veces… Pero, ahora que lo pienso, nunca crucé todo el continente."
+        "en-US": "[얀센]\n아니 이 친구 정말 아무 소식도 못들은겐가? 얼마전에 저곳에 엄청난 유성이 떨어져서 섬 전체가 난리도 아니었네. 탑안에 드글거리던 몬스터놈들도 다 전멸 해 버렸다는 소문도 있고 말이지.",
+        "pt-BR": "[{name_102}]\nJá naveguei algumas vezes... Mas agora que estou pensando nisso, nunca atravessei o continente.",
+        "es-ES": "[{name_102}]\nNavegué unas pocas veces… Pero, ahora que lo pienso, nunca crucé todo el continente."
     },
     "Z7ipAQ": {
-        "en-US": "[Captain Janssen]\nNo, that's good enough. I may just have one small fishing vessel, but I used to be a captain that commanded a fleet.",
+        "en-US": "[얀센]\n지금 어지간한 뱃사람들은 저 섬으로 가려고 들지 않아, 가끔 섬 주변에서 소름끼치는 웃음소리도 들리거든.",
         "pt-BR": "[Não é suficiente.]\nNão, isso é suficiente. Posso ter apenas um pequeno barco de pesca, mas já fui um capitão que comandava uma frota.",
         "es-ES": "[Capitán Janssen]\nNo, así está muy bien. Quizá solo tenga un barquito pesquero, pero solía ser el capitán a cargo de una flota entera."
     },
     "aLipAQ": {
-        "en-US": "[Captain Janssen]\nAs you may know after a few sea voyages, not many people have gone across the ocean beyond the continent. I too have failed to conquer the ocean.",
+        "en-US": "직접 들으셨어요?",
         "pt-BR": "[Capitão Janssen]\nComo você deve saber, depois de algumas viagens marítimas, poucas pessoas atravessaram o oceano além do continente. Eu também não consegui conquistar o oceano.",
         "es-ES": "[Capitán Janssen]\nComo sabrás después de algunos viajes en el mar, no muchos cruzaron el océano más allá del continente. Yo tampoco conquisté el océano."
     },
     "abipAQ": {
-        "en-US": "^0000FFMr. Janssen talked about his perilous ocean journeys for quite a while. You had enough time on your hands, so you sat down, quietly listening to his story.^000000",
+        "en-US": "[얀센]\n똑똑히 들었지. 나만 들은게 아니라 이 근방에서 배를 모는 놈들이라면 다들 한번쯤은 들어봤을거야.",
         "pt-BR": "^0000FFO Sr. Janssen falou sobre suas perigosas viagens oceânicas por um bom tempo. Você tinha bastante tempo livre, então se sentou e ficou ouvindo a história dele em silêncio.^000000",
         "es-ES": "^0000FFEl señor Janssen habló un buen rato de sus viajes peligrosos por el océano. Como tenías bastante tiempo, te sentaste a escuchar su historia en silencio.^000000"
     },
     "aripAQ": {
-        "en-US": "^0000FFAt least half of his story sounded grossly exaggerated, but something caught your ear: he insists that a humongous tower exists on the ocean, and that it's so tall, it scrapes across the sky.^000000",
+        "en-US": "[얀센]\n나도 당분간은 몸을 사려야하니 저곳에 가고싶다면 다른 뱃사람을 찾아보도록 해.",
         "pt-BR": "^0000FFPelo menos metade da história dele parecia muito exagerada, mas algo chamou sua atenção: ele insiste que existe uma torre enorme no oceano e que ela é tão alta que passa raspando pelo céu.^000000",
         "es-ES": "^0000FFLa mitad de su historia sonaba tremendamente exagerada, pero algo te llamó la atención: insistía en que existe una torre gigantesca en el océano, tan alta que roza el mismo cielo.^000000"
     },
     "a7ipAQ": {
-        "en-US": "[Captain Janssen]\nSo all I could do was cast anchor at that humongous tower after my fleet was wrecked. At first, we were only going to stay there until the rainstorm was over, but it didn't end as soon as we had hoped.",
+        "en-US": "오스카",
         "pt-BR": "[Capitão Janssen]\nEntão, tudo o que pude fazer foi lançar âncora naquela enorme torre depois que minha frota foi destruída. No início, só íamos ficar lá até que a tempestade acabasse, mas ela não terminou tão cedo quanto esperávamos.",
         "es-ES": "[Capitán Janssen]\nEntonces, después del naufragio de mi flota, no tuve otra opción que anclar mi barco en esa torre gigantesca. Al principio, la idea era quedarnos allí hasta que terminara la tormenta, pero duró más de lo que esperábamos."
     },
     "bLipAQ": {
-        "en-US": "[Captain Janssen]\nMy crew was starving, and a few of them walked into the tower of the unknown in order to find food... They never came back.",
+        "en-US": "[오스카]\n아 {0}씨? 결계를 쳐뒀는데 여긴 어떻게 온거죠?",
         "pt-BR": "[Capitão Janssen]\nMinha tripulação estava morrendo de fome, e alguns deles entraram na torre do desconhecido para encontrar comida... Eles nunca mais voltaram.",
         "es-ES": "[Capitán Janssen]\nMi tripulación tenía hambre, y algunos entraron en la torre de lo desconocido en busca de comida… Nunca regresaron."
     },
     "bbipAQ": {
-        "en-US": "[{0}]\nWhy didn't you go in there with them?",
-        "pt-BR": "[{0}]\nPor que você não foi até lá com eles?",
-        "es-ES": "[{0}]\n¿Por qué no entraste con ellos?"
+        "en-US": "[오스카]\n지금 미스티 아일랜드 구역의 이상현상을 파악중이예요. 인간의 몸으로는 좀 위험할 수 있으니 여기선 잠깐 나가계세요.",
+        "pt-BR": "[{name_102}]\nPor que você não foi até lá com eles?",
+        "es-ES": "[{name_102}]\n¿Por qué no entraste con ellos?"
     },
     "bripAQ": {
         "en-US": "[Captain Janssen]\nMy instincts told me that tower was dangerous. I was curious, but I wasn't going to risk my life. We waited for them to come back for 7 days until the rainstorm was finally over, but no one returned.",
@@ -278,5 +278,75 @@
         "en-US": "Enter the password correctly.",
         "pt-BR": "Digite a senha corretamente.",
         "es-ES": "Introduce la contraseña correctamente."
+    },
+    "mLipAQ": {
+        "en-US": "Captain Janssen",
+        "pt-BR": "Capitão Janssen",
+        "es-ES": "Capitán Janssen"
+    },
+    "mbipAQ": {
+        "en-US": "^008800Wait here!!\nYou're carrying too much stuff. Why don't you put some of it away, and then come back.^000000",
+        "pt-BR": "^008800Espere aqui!!!\nVocê está carregando coisas demais. Por que não guarda algumas delas e depois volta?^000000",
+        "es-ES": "^008800¡Espera aquí!\nLlevas demasiados objetos. ¿Por qué no guardas algunos y vuelves?^000000"
+    },
+    "mripAQ": {
+        "en-US": "[Captain Janssen]\nSigh... I don't know if I can ever go back to sailing the sea...",
+        "pt-BR": "[Capitão Janssen]\nSuspiro... Não sei se algum dia poderei voltar a navegar no mar...",
+        "es-ES": "[Capitán Janssen]\n*Suspira* No sé si alguna vez podré volver a navegar por los mares…"
+    },
+    "m7ipAQ": {
+        "en-US": "^0000FFLooking incredibly excited, the old man ran into the marine shop hurriedly ordering goods. You don't have anything better to do, so you decide to ask him why he is in such a rush.^000000",
+        "pt-BR": "^0000FFParecendo incrivelmente empolgado, o idoso entrou correndo na loja de artigos marítimos, pedindo mercadorias às pressas. Você não tem nada melhor para fazer, então decide perguntar a ele por que está com tanta pressa.^000000",
+        "es-ES": "^0000FFEl anciano entró corriendo con mucho entusiasmo en la tienda de artículos de mar e hizo un pedido con prisa. No tienes nada mejor que hacer, así que le preguntas a qué se debe su apuro.^000000"
+    },
+    "nLipAQ": {
+        "en-US": "^0000FFThe old man, after finishing his orders, walks towards you.^000000",
+        "pt-BR": "^0000FFO velho, depois de terminar suas ordens, caminha em sua direção.^000000",
+        "es-ES": "^0000FFEl anciano, tras terminar de pedir lo que quiere, camina en tu dirección.^000000"
+    },
+    "nbipAQ": {
+        "en-US": "[Captain Janssen]\nI was touched when you accepted a request from me, a stranger, so easily. You must truly be one of those good, heroic adventurers. Are you interested in setting out on an ocean voyage?",
+        "pt-BR": "[Capitão Janssen]\nFiquei emocionado quando você aceitou um pedido meu, um estranho, com tanta facilidade. Você deve ser realmente um desses bons e heroicos aventureiros. Está interessado em embarcar em uma viagem oceânica?",
+        "es-ES": "[Capitán Janssen]\nMe conmovió que aceptaras mi solicitud así sin más, siendo yo un extraño. Debes de ser verdaderamente uno de esos trotamundos llenos de bondad y heroísmo. ¿Te interesa zarpar en un viaje por el océano?"
+    },
+    "nripAQ": {
+        "en-US": "[{0}]\nI've sailed a few times... But now that I think about it, I've never gone across the continent.",
+        "pt-BR": "[{0}]\nJá naveguei algumas vezes... Mas agora que estou pensando nisso, nunca atravessei o continente.",
+        "es-ES": "[{0}]\nNavegué unas pocas veces… Pero, ahora que lo pienso, nunca crucé todo el continente."
+    },
+    "n7ipAQ": {
+        "en-US": "[Captain Janssen]\nNo, that's good enough. I may just have one small fishing vessel, but I used to be a captain that commanded a fleet.",
+        "pt-BR": "[Não é suficiente.]\nNão, isso é suficiente. Posso ter apenas um pequeno barco de pesca, mas já fui um capitão que comandava uma frota.",
+        "es-ES": "[Capitán Janssen]\nNo, así está muy bien. Quizá solo tenga un barquito pesquero, pero solía ser el capitán a cargo de una flota entera."
+    },
+    "oLipAQ": {
+        "en-US": "[Captain Janssen]\nAs you may know after a few sea voyages, not many people have gone across the ocean beyond the continent. I too have failed to conquer the ocean.",
+        "pt-BR": "[Capitão Janssen]\nComo você deve saber, depois de algumas viagens marítimas, poucas pessoas atravessaram o oceano além do continente. Eu também não consegui conquistar o oceano.",
+        "es-ES": "[Capitán Janssen]\nComo sabrás después de algunos viajes en el mar, no muchos cruzaron el océano más allá del continente. Yo tampoco conquisté el océano."
+    },
+    "obipAQ": {
+        "en-US": "^0000FFMr. Janssen talked about his perilous ocean journeys for quite a while. You had enough time on your hands, so you sat down, quietly listening to his story.^000000",
+        "pt-BR": "^0000FFO Sr. Janssen falou sobre suas perigosas viagens oceânicas por um bom tempo. Você tinha bastante tempo livre, então se sentou e ficou ouvindo a história dele em silêncio.^000000",
+        "es-ES": "^0000FFEl señor Janssen habló un buen rato de sus viajes peligrosos por el océano. Como tenías bastante tiempo, te sentaste a escuchar su historia en silencio.^000000"
+    },
+    "oripAQ": {
+        "en-US": "^0000FFAt least half of his story sounded grossly exaggerated, but something caught your ear: he insists that a humongous tower exists on the ocean, and that it's so tall, it scrapes across the sky.^000000",
+        "pt-BR": "^0000FFPelo menos metade da história dele parecia muito exagerada, mas algo chamou sua atenção: ele insiste que existe uma torre enorme no oceano e que ela é tão alta que passa raspando pelo céu.^000000",
+        "es-ES": "^0000FFLa mitad de su historia sonaba tremendamente exagerada, pero algo te llamó la atención: insistía en que existe una torre gigantesca en el océano, tan alta que roza el mismo cielo.^000000"
+    },
+    "o7ipAQ": {
+        "en-US": "[Captain Janssen]\nSo all I could do was cast anchor at that humongous tower after my fleet was wrecked. At first, we were only going to stay there until the rainstorm was over, but it didn't end as soon as we had hoped.",
+        "pt-BR": "[Capitão Janssen]\nEntão, tudo o que pude fazer foi lançar âncora naquela enorme torre depois que minha frota foi destruída. No início, só íamos ficar lá até que a tempestade acabasse, mas ela não terminou tão cedo quanto esperávamos.",
+        "es-ES": "[Capitán Janssen]\nEntonces, después del naufragio de mi flota, no tuve otra opción que anclar mi barco en esa torre gigantesca. Al principio, la idea era quedarnos allí hasta que terminara la tormenta, pero duró más de lo que esperábamos."
+    },
+    "pLipAQ": {
+        "en-US": "[Captain Janssen]\nMy crew was starving, and a few of them walked into the tower of the unknown in order to find food... They never came back.",
+        "pt-BR": "[Capitão Janssen]\nMinha tripulação estava morrendo de fome, e alguns deles entraram na torre do desconhecido para encontrar comida... Eles nunca mais voltaram.",
+        "es-ES": "[Capitán Janssen]\nMi tripulación tenía hambre, y algunos entraron en la torre de lo desconocido en busca de comida… Nunca regresaron."
+    },
+    "pbipAQ": {
+        "en-US": "[{0}]\nWhy didn't you go in there with them?",
+        "pt-BR": "[{0}]\nPor que você não foi até lá com eles?",
+        "es-ES": "[{0}]\n¿Por qué no entraste con ellos?"
     }
 }

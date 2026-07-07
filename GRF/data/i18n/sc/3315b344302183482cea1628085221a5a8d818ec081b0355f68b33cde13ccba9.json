@@ -742,7 +742,7 @@
     "lJirAg": {
         "en-US": "[Krugg]\nErr...\nYou don't have\nenough Zeny to buy\n{0} of them.",
         "pt-BR": "[Krugg]\nErr...\nVocê não tem\nZeny suficiente\npara comprar {0}.",
-        "es-ES": "[Krugg]\nEh….\nNo tienes\nsuficientes zeny para comprar\n{0}."
+        "es-ES": "[Krugg]\nEh…\nNo tienes\nsuficientes zeny para comprar\n{0}."
     },
     "lZirAg": {
         "en-US": "[Krugg]\nHmm...\nI can't give you anything if you don't have enough room in your inventory. Why don't you put your extra things in Kafra Storage and try again?",

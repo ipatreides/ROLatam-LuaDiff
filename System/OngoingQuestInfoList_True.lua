@@ -6704,9 +6704,9 @@ QuestInfoList = {
 		Title = "[Espera] Milho Dourado",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"N?o esque?a de repetir a miss?o com a <NAVI>[Dra. Korn]<INFO>comodo,159,196,0,101,0</INFO></NAVI>."
+			"Não esqueça de repetir a missão com a <NAVI>[Dra. Korn]<INFO>comodo,159,196,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Volte amanh?."
+		Summary = "Volte amanhã."
 	},
 	[3339] = {
 		Title = "Festa da Pipoca",
@@ -6717,52 +6717,52 @@ QuestInfoList = {
 		Summary = "30 Piroclastos"
 	},
 	[3340] = {
-		Title = "Vulc?o Korodo",
+		Title = "Vulcão Korodo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Entre na inst?ncia falando com <NAVI>[Palquia]<INFO>comodo,264,123,0,101,0</INFO></NAVI>."
+			"Entre na instância falando com <NAVI>[Palquia]<INFO>comodo,264,123,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Explore o Vulc?o"
+		Summary = "Explore o Vulcão"
 	},
 	[3341] = {
-		Title = "Vulc?o Korodo",
+		Title = "Vulcão Korodo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Entre na inst?ncia falando com <NAVI>[Palquia]<INFO>comodo,264,123,0,101,0</INFO></NAVI>."
+			"Entre na instância falando com <NAVI>[Palquia]<INFO>comodo,264,123,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Explore o Vulc?o"
+		Summary = "Explore o Vulcão"
 	},
 	[3342] = {
-		Title = "[Espera] Vulc?o Korodo",
+		Title = "[Espera] Vulcão Korodo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"N?o esque?a de repetir a miss?o com <NAVI>[Palquia]<INFO>comodo,264,123,0,101,0</INFO></NAVI>."
+			"Não esqueça de repetir a missão com <NAVI>[Palquia]<INFO>comodo,264,123,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Volte amanh?."
+		Summary = "Volte amanhã."
 	},
 	[3343] = {
-		Title = "Ervas Saud?veis",
+		Title = "Ervas Saudáveis",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Elimine 3 Ervas M?gicas para <NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI."
+			"Elimine 3 Ervas Mágicas para <NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI."
 		},
 		Summary = "Festa da Pipoca"
 	},
 	[3344] = {
-		Title = "Ervas Saud?veis",
+		Title = "Ervas Saudáveis",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Elimine 3 Ervas M?gicas para <NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI."
+			"Elimine 3 Ervas Mágicas para <NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI."
 		},
 		Summary = "Festa da Pipoca"
 	},
 	[3345] = {
-		Title = "[Espera] Ervas Saud?veis",
+		Title = "[Espera] Ervas Saudáveis",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"N?o esque?a de repetir a miss?o com a <NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI>."
+			"Não esqueça de repetir a missão com a <NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Volte amanh?."
+		Summary = "Volte amanhã."
 	},
 	[3346] = {
 		Title = "Festa da Pipoca",
@@ -11813,11 +11813,11 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[5471] = {
-		Title = "[Procura-se]",
+		Title = "(Procurado)",
 		Description = {
-			"Elimine Entweihen Crothen na Torre sem Fim."
+			"A família real de Prontera oferece uma recompensa a quem derrotar Entweihen Crothen, chefe da Torre das Constelações."
 		},
-		Summary = "Moeda Sindical: 300"
+		Summary = "300 Emblemas da União de Recompensas"
 	},
 	[5472] = {
 		Title = "[Procura-se]",
@@ -36885,6 +36885,56 @@ QuestInfoList = {
 		},
 		Summary = "Ainda não morreu."
 	},
+	[12513] = {
+		Title = "Causa da destruição da torre",
+		Description = {
+			"Parece que o responsável por toda essa confusão se instalou dentro da torre parcialmente destruída. Vamos verificar que tipo de ser ele é."
+		},
+		Summary = "Novo dono da torre"
+	},
+	[12514] = {
+		Title = "Sequelas de entrar na torre",
+		Description = {
+			"Entrar e sair deste lugar consome muita energia mental. Mesmo que ainda haja assuntos pendentes, é melhor voltar depois de 3 dias."
+		},
+		Summary = "Reentrada às 4h da manhã após 3 dias",
+		CoolTimeQuest = 1
+	},
+	[12515] = {
+		Title = "Encontro com o novo dono da torre",
+		Description = {
+			"O novo dono da torre não matou todos os habitantes dela. É realmente generoso, mas, ao ver os monstros sendo expulsos, fica impossível imaginar o quanto ele é forte."
+		},
+		Summary = "Vamos nos preservar."
+	},
+	[12516] = {
+		Title = "Segredo da fonte 1",
+		Description = {
+			"Vença após amplificar o poder de Betelgeuse em 300% ou mais. Será adicionada uma função que usa <ITEM>Pó de Meteorito<INFO>1000372</INFO></ITEM> para elevar uma dificuldade específica até o limite."
+		},
+		Summary = "Fortalecer atributo designado"
+	},
+	[12517] = {
+		Title = "Segredo da fonte 1",
+		Description = {
+			"Vença após amplificar o poder de Betelgeuse em 600% ou mais. Será adicionada uma função que usa <ITEM>Pó de Meteorito<INFO>1000372</INFO></ITEM> para selar uma dificuldade específica em 0."
+		},
+		Summary = "Selar atributo designado"
+	},
+	[12518] = {
+		Title = "Ser expulso",
+		Description = {
+			"Certamente houve uma grande mudança no ecossistema da torre. Antes de confirmar quem é o dono do trono alterado, será necessário fazer uma boa limpeza."
+		},
+		Summary = "Está na hora de sair."
+	},
+	[12519] = {
+		Title = "Paradeiro do dono original",
+		Description = {
+			"Se a torre ficou assim, é provável que o ser que originalmente dominava este lugar também não esteja ileso."
+		},
+		Summary = "Talvez não haja mais nada de especial."
+	},
 	[12520] = {
 		Title = "Mansão da Desilusão",
 		Description = {
@@ -36986,6 +37036,28 @@ QuestInfoList = {
 			"<NAVI>[Local estimado]<INFO>gw_fild01,228,59,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Recolha mercadorias"
+	},
+	[12540] = {
+		Title = "Torre Afundada",
+		Description = {
+			"Há uma necessidade urgente de alguém para eliminar as criaturas distorcidas que infestaram o subsolo da torre destruída por Betelgeuse."
+		},
+		Summary = "Purificação Subterrânea"
+	},
+	[12541] = {
+		Title = "Horário da Maré Alta",
+		Description = {
+			"Durante o período em que a maré está subindo, não é possível entrar pela entrada da Torre Afundada."
+		},
+		Summary = "Reentrada às 4h da manhã após 3 dias",
+		CoolTimeQuest = 1
+	},
+	[12542] = {
+		Title = "Bênção da Deusa",
+		Description = {
+			"A bênção da deusa está com você. Se chegar a determinado ponto portando essa bênção, isso ajudará no seu crescimento."
+		},
+		Summary = "Vamos descer logo."
 	},
 	[12543] = {
 		Title = "",
@@ -44717,114 +44789,165 @@ QuestInfoList = {
 		Summary = "Mudança para Inquisidor"
 	},
 	[16461] = {
-		Title = "Túmulo do Remorso",
+		Title = "Túmulo do Arrependimento",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"A <NAVI>[Princesa]<INFO>dali,124,88,0,101,0</INFO></NAVI> de um reino estranho parece ter um favor a pedir ao aventureiro."
+			"A <NAVI>[princesa]<INFO>dali,124,88,0,101,0</INFO></NAVI> de um reino desconhecido parece querer pedir algo ao aventureiro."
 		},
-		Summary = "Fale com a Princesa"
+		Summary = "Fale com Princesa do Arrependimento"
 	},
 	[16462] = {
-		Title = "Túmulo do Remorso",
+		Title = "Túmulo do Arrependimento",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Para ouvir mais sobre a história da princesa, vamos seguir <NAVI>[her]<INFO>dali,79,112,0,101,0</INFO></NAVI>."
+			"Para ouvir mais da história da princesa, vamos segui-la <NAVI>[por trás]<INFO>dali,79,112,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Fale com a Princesa"
+		Summary = "Fale com Princesa do Arrependimento"
 	},
 	[16463] = {
-		Title = "Túmulo do Remorso",
+		Title = "Túmulo do Arrependimento",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Depois de ouvir a história de <NAVI>[Princess]<INFO>dali02,78,116,0,101,0</INFO></NAVI>, vamos para a Tumba do Remorso."
+			"Depois de ouvir a história da <NAVI>[princesa]<INFO>dali02,78,116,0,101,0</INFO></NAVI>, siga para Túmulo do Arrependimento."
 		},
-		Summary = "Fale com a Princesa"
+		Summary = "Fale com Princesa do Arrependimento"
 	},
 	[16464] = {
-		Title = "[Espera] Túmulo do Remorso",
+		Title = "Túmulo do Arrependimento",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Essa missão pode ser aceita novamente quando o tempo de espera expirar. A missão pode ser aceita por meio de <NAVI>[Princess of Sorrow]<INFO>dali02,78,116,0,101,0</INFO></NAVI>."
+			"Esta missão é diária e pode ser aceita e realizada novamente quando o tempo de espera terminar. A missão pode ser aceita por meio de <NAVI>[Princesa do Arrependimento]<INFO>dali02,78,116,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reseta 4 da manhã"
+		Summary = "Reinicia às 04h",
+		CoolTimeQuest = 1
 	},
 	[16465] = {
-		Title = "O fio condutor de um relacionamento quebrado",
+		Title = "Fio de Laço Rompido",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Marquês]<INFO>dali02,78,112,0,101,0</INFO></NAVI> espera enviar o Espadachim Mágico Sakray, que não tem nenhum relacionamento com a princesa, para fora do palácio."
-		}
+			"<NAVI>[Marquês do Arrependimento]<INFO>dali02,78,112,0,101,0</INFO></NAVI> deseja expulsar do palácio Espadachim Mágico Sakray, que já não possui nenhum laço restante com a princesa."
+		},
+		Summary = ""
 	},
 	[16466] = {
-		Title = "[Espera] O fio de um relacionamento quebrado",
+		Title = "Fio de Laço Rompido-Aguardando",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Essa missão pode ser aceita novamente quando o tempo de espera expirar. A missão pode ser aceita por meio de <NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
+			"Esta missão é diária e pode ser aceita e realizada novamente quando o tempo de espera terminar. A missão pode ser aceita por meio de <NAVI>[Marquês do Arrependimento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reseta 4 da manhã"
+		Summary = "Reinicia às 04h",
+		CoolTimeQuest = 1
 	},
 	[16467] = {
-		Title = "Lament of the Princess (Lamento da Princesa)",
+		Title = "Corte em Lágrimas",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Marquês]<INFO>dali02,78,112,0,101,0</INFO></NAVI> quer que você dê um descanso à princesa que já perdeu a cabeça."
-		}
+			"<NAVI>[Marquês do Arrependimento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>, seguindo a ordem da princesa, deseja que você acalme a princesa que perdeu a razão e está atacando."
+		},
+		Summary = ""
 	},
 	[16468] = {
-		Title = "[Espera] Lament of the Princess",
+		Title = "Corte em Lágrimas-Aguardando",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Essa missão pode ser aceita novamente quando o tempo de espera expirar. A missão pode ser aceita por meio de <NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
+			"Esta missão é diária e pode ser aceita e realizada novamente quando o tempo de espera terminar. A missão pode ser aceita por meio de <NAVI>[Marquês do Arrependimento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reseta 4 da manhã"
+		Summary = "Reinicia às 04h",
+		CoolTimeQuest = 1
 	},
 	[16469] = {
-		Title = "Memórias Fragmentadas",
+		Title = "Memória Estilhaçada",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI> quer que você colete 3 Memórias para descobrir a história completa do incidente."
-		}
+			"<NAVI>[Marquês do Arrependimento]<INFO>dali02,78,112,0,101,0</INFO></NAVI> deseja que você reúna 3 fragmentos de memória para descobrir toda a verdade sobre o incidente."
+		},
+		Summary = ""
 	},
 	[16470] = {
-		Title = "[Espera] Memórias Fragmentadas",
+		Title = "Memória Estilhaçada-Aguardando",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Essa missão pode ser aceita novamente quando o tempo de espera expirar. A missão pode ser aceita por meio de <NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
+			"Esta missão é diária e pode ser aceita e realizada novamente quando o tempo de espera terminar. A missão pode ser aceita por meio de <NAVI>[Marquês do Arrependimento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reseta às 04:00 manhã"
+		Summary = "Reinicia às 04h",
+		CoolTimeQuest = 1
 	},
 	[16471] = {
-		Title = "Passado fragmentado",
+		Title = "Passado em Fragmentos",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Marquês]<INFO>dali02,78,112,0,101,0</INFO></NAVI> quer que você colete 10 Fragmentos do Passado para que a presença deles não seja esquecida."
-		}
+			"<NAVI>[Marquês do Arrependimento]<INFO>dali02,78,112,0,101,0</INFO></NAVI> deseja que você reúna 10 fragmentos do passado para que o fato de que eles existiram não seja esquecido."
+		},
+		Summary = ""
 	},
 	[16472] = {
-		Title = "[Espera] Passado Fragmentado",
+		Title = "Passado em Fragmentos-Aguardando",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Essa missão pode ser aceita novamente quando o tempo de espera expirar. A missão pode ser aceita por meio de <NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
+			"Esta missão é diária e pode ser aceita e realizada novamente quando o tempo de espera terminar. A missão pode ser aceita por meio de <NAVI>[Marquês do Arrependimento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reseta às 04:00 manhã"
+		Summary = "Reinicia às 04h",
+		CoolTimeQuest = 1
 	},
 	[16473] = {
-		Title = "Fragmento de Memória"
+		Title = "Fragmento de Memória",
+		IconName = "ico_dq.bmp",
+		Description = {""},
+		Summary = ""
 	},
 	[16474] = {
-		Title = "Fragmento de Memória"
+		Title = "Fragmento de Memória",
+		IconName = "ico_dq.bmp",
+		Description = {""},
+		Summary = ""
 	},
 	[16475] = {
-		Title = "Fragmento de Memória"
+		Title = "Fragmento de Memória",
+		IconName = "ico_dq.bmp",
+		Description = {""},
+		Summary = ""
 	},
 	[16476] = {
-		Title = "Fragmento de Memória"
+		Title = "Fragmento de Memória",
+		IconName = "ico_dq.bmp",
+		Description = {""},
+		Summary = ""
 	},
 	[16477] = {
-		Title = "Fragmento de Memória"
+		Title = "Fragmento de Memória",
+		IconName = "ico_dq.bmp",
+		Description = {""},
+		Summary = ""
 	},
 	[16478] = {
-		Title = "Fragmento de Memória"
+		Title = "Fragmento de Memória",
+		IconName = "ico_dq.bmp",
+		Description = {""},
+		Summary = ""
 	},
 	[16479] = {
-		Title = "Fragmento de Memória"
+		Title = "Fragmento de Memória",
+		IconName = "ico_dq.bmp",
+		Description = {""},
+		Summary = ""
 	},
 	[16480] = {
-		Title = "Fragmento de Memória"
+		Title = "Fragmento de Memória",
+		IconName = "ico_dq.bmp",
+		Description = {""},
+		Summary = ""
 	},
 	[16481] = {
-		Title = "Fragmento de Memória"
+		Title = "Fragmento de Memória",
+		IconName = "ico_dq.bmp",
+		Description = {""},
+		Summary = ""
 	},
 	[16482] = {
-		Title = "Fragmento de Memória"
+		Title = "Fragmento de Memória",
+		IconName = "ico_dq.bmp",
+		Description = {""},
+		Summary = ""
 	},
 	[16521] = {
 		Title = "Planta de descarte de resíduos de laboratório Rudus Piso 4",

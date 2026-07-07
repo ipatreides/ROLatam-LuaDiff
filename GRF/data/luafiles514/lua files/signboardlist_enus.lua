@@ -102,92 +102,50 @@ SignBoardList_string = {
 		CONTENTS = "  Gunslingers"
 	},
 	[355] = {
-		CONTENTS = "  Relquias de Mora"
+		CONTENTS = "  Mora Relics"
 	},
-	[546] = {
-		CONTENTS = "  Boarding the passenger ship"
-	},
-	[547] = {
-		CONTENTS = "  Destination: Alberta"
-	},
+	[546] = {CONTENTS = "  Ship"},
+	[547] = {CONTENTS = "  Alberta"},
 	[548] = {
-		CONTENTS = "  Destination: Shipwreck"
+		CONTENTS = "  Shipwreck"
 	},
-	[549] = {
-		CONTENTS = "  Boarding the passenger ship"
-	},
-	[550] = {
-		CONTENTS = "  Boarding the passenger ship"
-	},
-	[551] = {
-		CONTENTS = "  Boarding the passenger ship"
-	},
-	[552] = {
-		CONTENTS = "  Destination: Izlude"
-	},
-	[553] = {
-		CONTENTS = "  Destination: Jawaii"
-	},
-	[554] = {
-		CONTENTS = "  Destination: Alberta"
-	},
-	[555] = {
-		CONTENTS = "  Destination: Izlude"
-	},
+	[549] = {CONTENTS = "  Ship"},
+	[550] = {CONTENTS = "  Ship"},
+	[551] = {CONTENTS = "  Ship"},
+	[552] = {CONTENTS = "  Izlude"},
+	[553] = {CONTENTS = "  Jawaii"},
+	[554] = {CONTENTS = "  Alberta"},
+	[555] = {CONTENTS = "  Izlude"},
 	[556] = {CONTENTS = "  Lutie"},
 	[557] = {
-		CONTENTS = "  Destination: Odin Temple"
+		CONTENTS = "  Odin Temple"
 	},
-	[558] = {
-		CONTENTS = "  Destination: Hugel"
-	},
+	[558] = {CONTENTS = "  Hugel"},
 	[559] = {CONTENTS = "  Louyang"},
-	[560] = {CONTENTS = " Alberta"},
+	[560] = {CONTENTS = "  Alberta"},
 	[561] = {CONTENTS = "  Amatsu"},
-	[562] = {
-		CONTENTS = "  Destination: Alberta"
-	},
+	[562] = {CONTENTS = "  Alberta"},
 	[563] = {CONTENTS = "  Ayothaya"},
-	[564] = {
-		CONTENTS = "  Destination: Alberta"
-	},
+	[564] = {CONTENTS = "  Alberta"},
 	[565] = {CONTENTS = "  Brasilis"},
-	[566] = {
-		CONTENTS = "  Destination: Alberta"
-	},
+	[566] = {CONTENTS = "  Alberta"},
 	[567] = {CONTENTS = "  Kunlun"},
-	[568] = {
-		CONTENTS = "  Destination: Alberta"
-	},
+	[568] = {CONTENTS = "  Alberta"},
 	[569] = {
 		CONTENTS = "  Porto Malaya"
 	},
-	[570] = {
-		CONTENTS = "  Destination: Alberta"
-	},
+	[570] = {CONTENTS = "  Alberta"},
 	[571] = {CONTENTS = "  Dewata"},
-	[572] = {
-		CONTENTS = "  Destination: Alberta"
-	},
+	[572] = {CONTENTS = "  Alberta"},
 	[573] = {CONTENTS = "  Moscovia"},
-	[574] = {
-		CONTENTS = "  Destination: Alberta"
-	},
+	[574] = {CONTENTS = "  Alberta"},
 	[575] = {
-		CONTENTS = "  Destination: Turtle Island"
+		CONTENTS = "  Turtle Island"
 	},
-	[576] = {
-		CONTENTS = "  Destination: Alberta"
-	},
-	[577] = {
-		CONTENTS = "  Boarding the passenger ship"
-	},
-	[580] = {
-		CONTENTS = "  Destination: Malangdo"
-	},
-	[582] = {
-		CONTENTS = "  Boarding the passenger ship"
-	},
+	[576] = {CONTENTS = "  Alberta"},
+	[577] = {CONTENTS = "  Ship"},
+	[580] = {CONTENTS = "  Malangdo"},
+	[582] = {CONTENTS = "  Ship"},
 	[612] = {
 		CONTENTS = "  Sword Clan"
 	},
@@ -200,12 +158,8 @@ SignBoardList_string = {
 	[615] = {
 		CONTENTS = "  Crossbow Clan"
 	},
-	[616] = {
-		CONTENTS = "  Proposing marriage"
-	},
-	[617] = {
-		CONTENTS = "  Proposing marriage"
-	},
+	[616] = {CONTENTS = "  Marriage"},
+	[617] = {CONTENTS = "  Marriage"},
 	[618] = {
 		CONTENTS = "  Independent helper"
 	},
@@ -214,9 +168,7 @@ SignBoardList_string = {
 	[728] = {
 		CONTENTS = "  Sala de Teste"
 	},
-	[755] = {
-		CONTENTS = "  Pea Intacta"
-	},
+	[755] = {CONTENTS = "  Exchange"},
 	[756] = {
 		CONTENTS = "  Components"
 	},
@@ -345,5 +297,75 @@ SignBoardList_string = {
 	},
 	[930] = {
 		CONTENTS = "  Jumpstart Event"
+	},
+	[934] = {CONTENTS = "  Enchant"},
+	[935] = {CONTENTS = "  Shopping"},
+	[936] = {CONTENTS = "  Merge"},
+	[941] = {CONTENTS = "  Reform"},
+	[942] = {CONTENTS = "  Ores"},
+	[944] = {CONTENTS = "  Epi Pass"},
+	[945] = {CONTENTS = "  Catalog"},
+	[946] = {CONTENTS = "  Explorer"},
+	[947] = {
+		CONTENTS = "  Nightmare Mode"
+	},
+	[948] = {
+		CONTENTS = "  Nightmare Mode"
+	},
+	[949] = {
+		CONTENTS = "  Nightmare Mode"
+	},
+	[950] = {
+		CONTENTS = "  Nightmare Mode"
+	},
+	[951] = {
+		CONTENTS = "  Nightmare Mode"
+	},
+	[952] = {
+		CONTENTS = "  Enchantment"
+	},
+	[953] = {CONTENTS = "  Trade"},
+	[954] = {
+		CONTENTS = "  Noblesse Equip"
+	},
+	[955] = {
+		CONTENTS = "  Imperial Equip"
+	},
+	[956] = {
+		CONTENTS = "  Grace EquipEquip. Gr??cil"
+	},
+	[957] = {
+		CONTENTS = "  Kachua Coupon"
+	},
+	[958] = {
+		CONTENTS = "  Random Bonuses"
+	},
+	[959] = {
+		CONTENTS = "  Refining Scrolls"
+	},
+	[960] = {CONTENTS = "  Pet"},
+	[961] = {
+		CONTENTS = "  Equipment"
+	},
+	[963] = {
+		CONTENTS = "  Combiners"
+	},
+	[964] = {CONTENTS = "  Refiners"},
+	[965] = {
+		CONTENTS = "  Automodules"
+	},
+	[966] = {
+		CONTENTS = "  Enchantment"
+	},
+	[971] = {
+		CONTENTS = "  Battle Pass"
+	},
+	[972] = {CONTENTS = "  Missions"},
+	[973] = {
+		CONTENTS = "  Materials"
+	},
+	[974] = {CONTENTS = "  Market"},
+	[975] = {
+		CONTENTS = "  Enchanter"
 	}
 }

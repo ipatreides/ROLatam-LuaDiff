@@ -554,10 +554,6 @@ TB_Layer_Priority = {
 			Default = 143,
 			Direction = {}
 		},
-		[ACCESSORY_IDs.ACCESSORY_C_Demi_Freyja_Hair] = {
-			Default = 143,
-			Direction = {}
-		},
 		[ACCESSORY_IDs.ACCESSORY_C_Twinkle_Wave] = {
 			Default = 143,
 			Direction = {}
@@ -1690,10 +1686,6 @@ TB_Layer_Priority = {
 			Default = 301,
 			Direction = {}
 		},
-		[ACCESSORY_IDs.ACCESSORY_Blinking_Eyes] = {
-			Default = 301,
-			Direction = {}
-		},
 		[ACCESSORY_IDs.ACCESSORY_Love_Cheek] = {
 			Default = 301,
 			Direction = {}
@@ -1894,7 +1886,55 @@ TB_Layer_Priority = {
 			Direction = {}
 		},
 		[ACCESSORY_IDs.ACCESSORY_C_Omega_Golf_Bag] = {Default = 404, isIgnoreRiding = true},
-		[ACCESSORY_IDs.ACCESSORY_C_Pet_Popcorn_Box] = {Default = 304, isIgnoreRiding = true}
+		[ACCESSORY_IDs.ACCESSORY_C_Pet_Popcorn_Box] = {Default = 304, isIgnoreRiding = true},
+		[ACCESSORY_IDs.ACCESSORY_Blinking_Eyes] = {
+			Default = 301,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_Blinking_Eyes_RD] = {
+			Default = 301,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_Blinking_Eyes_Cocktai_BU] = {
+			Default = 301,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_Blink_Eyes_Sakura_Princess] = {
+			Default = 301,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_Blink_Eyes_Golden] = {
+			Default = 301,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_Blink_Eyes_Frozen] = {
+			Default = 301,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_Blink_Eyes_Bloody] = {
+			Default = 301,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_Blink_Eyes_Forest] = {
+			Default = 301,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_Blink_Eyes_Cosmic] = {
+			Default = 301,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_Blink_Eyes_Chocolate] = {
+			Default = 301,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_Demi_Freyja_Hair] = {
+			Default = 143,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_Miriam_Hair] = {
+			Default = 143,
+			Direction = {}
+		}
 	},
 	IsIgnoredRidingState = function(acc_id)
 		local Items_List = TB_Layer_Priority.Items_List

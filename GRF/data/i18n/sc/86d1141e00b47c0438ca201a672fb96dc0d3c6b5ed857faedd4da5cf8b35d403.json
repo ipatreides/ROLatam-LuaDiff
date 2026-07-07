@@ -1222,7 +1222,7 @@
     "VP8CDQ": {
         "en-US": "[Maram]\nThis is Pam{0}sam, who runs ^E5555Ea small trading group in Maroll^000000.\nSince they travel for trade, they pass through dangerous areas and must be armed~",
         "pt-BR": "[Maram]\nSe chama ^FF00FFZé {0}nildo da Silva^000000, que administra ^B3DFFBuma pequena companhia mercantil em Maroll^000000.\nComo vive viajando de um lado para outro fazendo comércio, passa com frequência por áreas perigosas, então anda com escolta armada~",
-        "es-ES": "[Maram]\nEsta persona es el señor Pam{0}sam, ^E5555Eque dirige una pequeña compañía mercante en Maroll^000000.\nComo se dedica a comerciar viajando de un lado a otro y a menudo tiene que pasar por zonas peligrosas, va armado~"
+        "es-ES": "[Maram]\nEsta persona es el señor Fulano de {0}, ^E5555Eque dirige una pequeña compañía mercante en Maroll^000000.\nComo se dedica a comerciar viajando de un lado a otro y a menudo tiene que pasar por zonas peligrosas, va armado~"
     },
     "Vf8CDQ": {
         "en-US": "[Merchant Rensia]\nMaroll… sounds familiar…",
@@ -1317,7 +1317,7 @@
     "Z/8CDQ": {
         "en-US": "[Merchant Rensia]\nThank you for your purchase.\nPam{0}sam.",
         "pt-BR": "[Comerciante Rensia]\nObrigado pela compra.\nZé {0}nildo da Silva.",
-        "es-ES": "[Comerciante Rensia]\nGracias por su compra.\nSeñor Pam{0}sam."
+        "es-ES": "[Comerciante Rensia]\nGracias por su compra.\nSeñor Fulano de {0}."
     },
     "aP8CDQ": {
         "en-US": "[Miriam]\nLet’s ^E5555Etalk over here for a moment^000000.",
@@ -1577,7 +1577,7 @@
     "m/8CDQ": {
         "en-US": "[Maram]\nBefore Pam{0}sam departs, let’s ^E5555Echeck the road outside the door once^000000.",
         "pt-BR": "[Maram]\nZé {0}nildo da Silva, antes de partirmos, vamos ^E5555Edar uma olhada do lado de fora da cidade^000000.",
-        "es-ES": "[Maram]\nSeñor Pam{0}sam, antes de partir, ^E5555Eechemos un vistazo al camino fuera de la puerta^000000."
+        "es-ES": "[Maram]\nSeñor Fulano de {0}, antes de partir, ^E5555Eechemos un vistazo al camino fuera de la puerta^000000."
     },
     "nP8CDQ": {
         "en-US": "[Disguised Maram]\n{0}, from here please head to ^E5555Ethe western Oz Canyon^000000 together with Miriam and Tamarin’s party.",

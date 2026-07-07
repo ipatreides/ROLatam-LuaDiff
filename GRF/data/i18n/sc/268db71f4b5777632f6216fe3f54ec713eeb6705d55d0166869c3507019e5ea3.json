@@ -3482,7 +3482,7 @@
     "WIkB": {
         "en-US": "Grove",
         "pt-BR": "Grove",
-        "es-ES": "Grove"
+        "es-ES": "Arboleda"
     },
     "WYkB": {
         "en-US": "Lady Tanee",
@@ -10752,17 +10752,17 @@
     "Bo8B": {
         "en-US": "Angry Gazeti",
         "pt-BR": "Gazeti de Cristal",
-        "es-ES": "Gazeti enfadado"
+        "es-ES": "Gazeti Furioso"
     },
     "B48B": {
         "en-US": "Angry Snowier",
         "pt-BR": "Yeti de Cristal",
-        "es-ES": "Nevadísimo enfadado"
+        "es-ES": "Nevadísimo Furioso"
     },
     "CI8B": {
         "en-US": "Angry Ice Titan",
         "pt-BR": "Titã de Cristal",
-        "es-ES": "Titán de hielo enfadado"
+        "es-ES": "Titán de Hielo Furioso"
     },
     "CY8B": {
         "en-US": "Solid Icicle",
@@ -12327,12 +12327,12 @@
     "QZAB": {
         "en-US": "Black Acidus",
         "pt-BR": "Acidus Negro",
-        "es-ES": "Ácido negro"
+        "es-ES": "Acidus Negro"
     },
     "QpAB": {
         "en-US": "Silver Acidus",
         "pt-BR": "Acidus Prateado",
-        "es-ES": "Ácido de plata"
+        "es-ES": "Acidus Plateado"
     },
     "Q5AB": {
         "en-US": "Angelgolt",
@@ -12362,17 +12362,17 @@
     "SJAB": {
         "en-US": "Purple Ferus",
         "pt-BR": "Ferus Roxo",
-        "es-ES": "Ferus morado"
+        "es-ES": "Ferus Morado"
     },
     "SZAB": {
         "en-US": "Bone Acidus",
         "pt-BR": "Acidus Esqueleto",
-        "es-ES": "Ácido óseo"
+        "es-ES": "Acidus Esqueleto"
     },
     "SpAB": {
         "en-US": "Bone Ferus",
         "pt-BR": "Ferus Esqueleto",
-        "es-ES": "Ferus óseo"
+        "es-ES": "Ferus Esqueleto"
     },
     "S5AB": {
         "en-US": "Valkyrie",
@@ -12547,12 +12547,12 @@
     "bZAB": {
         "en-US": "Broken Beta Guard",
         "pt-BR": "Guarda Quebrada",
-        "es-ES": "Guardia beta roto"
+        "es-ES": "Guardia Beta Rota"
     },
     "bpAB": {
         "en-US": "Beta Itemkeeper",
         "pt-BR": "Almoxarife",
-        "es-ES": "Guardián de objetos beta"
+        "es-ES": "Almacenista"
     },
     "b5AB": {
         "en-US": "Bookworm",
@@ -12610,34 +12610,34 @@
         "es-ES": "Piraña de agua caliente"
     },
     "epAB": {
-        "en-US": "Pitaya",
+        "en-US": "Blue Pitaya",
         "pt-BR": "Pitaya Azul",
-        "es-ES": "Pitaya"
+        "es-ES": "Pitaya Azul"
     },
     "e5AB": {
-        "en-US": "Pitaya Cat",
-        "pt-BR": "Árvore de Pitaya",
-        "es-ES": "Jefe Meow"
+        "en-US": "Pitaya Boss",
+        "pt-BR": "Chefe Pitaya",
+        "es-ES": "Jefe Pitaya"
     },
     "fJAB": {
-        "en-US": "Pitaya",
+        "en-US": "Green Pitaya",
         "pt-BR": "Pitaya Verde",
-        "es-ES": "Pitaya"
+        "es-ES": "Pitaya Verde"
     },
     "fZAB": {
-        "en-US": "Pitaya",
+        "en-US": "Red Pitaya",
         "pt-BR": "Pitaya Vermelha",
-        "es-ES": "Pitaya"
+        "es-ES": "Pitaya Roja"
     },
     "fpAB": {
-        "en-US": "Pitaya",
-        "pt-BR": "Pitaya Roxa",
-        "es-ES": "Pitaya"
+        "en-US": "Purple Pitaya",
+        "pt-BR": "Pitaya Violeta",
+        "es-ES": "Pitaya Violeta"
     },
     "f5AB": {
-        "en-US": "Pitaya",
+        "en-US": "Yellow Pitaya",
         "pt-BR": "Pitaya Amarela",
-        "es-ES": "Pitaya"
+        "es-ES": "Pitaya Amarilla"
     },
     "gJAB": {
         "en-US": "Mana Addicted Plaga",
@@ -12706,7 +12706,7 @@
     },
     "jZAB": {
         "en-US": "Pitaya",
-        "pt-BR": "Pitaya Roxa",
+        "pt-BR": "Pitaya Violeta",
         "es-ES": "Pitaya"
     },
     "jpAB": {
@@ -12815,8 +12815,8 @@
         "es-ES": "Pitaya"
     },
     "o5AB": {
-        "en-US": "Pitaya Cat",
-        "pt-BR": "Árvore de Pitaya",
+        "en-US": "Pitaya Boss",
+        "pt-BR": "Chefe Pitaya",
         "es-ES": "Jefe Pitaya"
     },
     "pJAB": {
@@ -12831,7 +12831,7 @@
     },
     "ppAB": {
         "en-US": "Pitaya",
-        "pt-BR": "Pitaya Roxa",
+        "pt-BR": "Pitaya Violeta",
         "es-ES": "Pitaya"
     },
     "p5AB": {
@@ -13393,7 +13393,7 @@
     },
     "F5EB": {
         "en-US": "Book of Death",
-        "pt-BR": "Livro Morto",
+        "pt-BR": "Livro da Morte",
         "es-ES": "Libro Muerto"
     },
     "GJEB": {
@@ -13817,7 +13817,7 @@
         "es-ES": "R001-Bestia"
     },
     "bJEB": {
-        "en-US": "Ganceann",
+        "en-US": "Gan Ceann",
         "pt-BR": "Gan Ceann",
         "es-ES": "Gan Ceann"
     },
@@ -13973,8 +13973,8 @@
     },
     "i5EB": {
         "en-US": "Ashhopper",
-        "pt-BR": "Cinzanhoto",
-        "es-ES": "Saltador de Ceniza"
+        "pt-BR": "Cinzer",
+        "es-ES": "Cenícer"
     },
     "jJEB": {
         "en-US": "Ashring",
@@ -14165,5 +14165,518 @@
         "en-US": "Time Keeper",
         "pt-BR": "Gerente",
         "es-ES": "Guardián de la Torre"
-    }
+    },
+    "spEB": {
+        "en-US": "Betelgeuse",
+        "pt-BR": "Betelgeuse",
+        "es-ES": "Betelgeuse"
+    },
+    "s5EB": {
+        "en-US": "Dead Soul",
+        "pt-BR": "Alma Morta",
+        "es-ES": "Alma Muerta"
+    },
+    "tJEB": {
+        "en-US": "Mutated Naght Sieger",
+        "pt-BR": "Naght Sieger Mutante",
+        "es-ES": "Naght Sieger Mutante"
+    },
+    "tZEB": {
+        "en-US": "Mutated Mana Thorn",
+        "pt-BR": "Espinho de Mana Mutante",
+        "es-ES": "Espina de Maná Mutante"
+    },
+    "tpEB": {
+        "en-US": "Jakk",
+        "pt-BR": "Jakk",
+        "es-ES": "Jakk"
+    },
+    "t5EB": {
+        "en-US": "Stone Shooter",
+        "pt-BR": "Atirador de Pedras",
+        "es-ES": "Tirador Pétreo"
+    },
+    "uJEB": {
+        "en-US": "Grizzly",
+        "pt-BR": "Grizzly",
+        "es-ES": "Grizzly"
+    },
+    "uZEB": {
+        "en-US": "Stractic Golem",
+        "pt-BR": "Golém Stractic",
+        "es-ES": "Gólem Stractic"
+    },
+    "upEB": {
+        "en-US": "Chimera",
+        "pt-BR": "Quimera",
+        "es-ES": "Quimera"
+    },
+    "u5EB": {
+        "en-US": "Karakasa",
+        "pt-BR": "Karakasa",
+        "es-ES": "Karakasa"
+    },
+    "vJEB": {
+        "en-US": "Rideword",
+        "pt-BR": "Rideword",
+        "es-ES": "Rideword"
+    },
+    "vZEB": {
+        "en-US": "Parasite",
+        "pt-BR": "Parasita",
+        "es-ES": "Parásito"
+    },
+    "vpEB": {
+        "en-US": "Wraith",
+        "pt-BR": "Alma Penada",
+        "es-ES": "Espectro"
+    },
+    "v5EB": {
+        "en-US": "Aerial Petit",
+        "pt-BR": "Petit Aéreo",
+        "es-ES": "Petit Aéreo"
+    },
+    "wJEB": {
+        "en-US": "Wind Ghost",
+        "pt-BR": "Xamã do Vento",
+        "es-ES": "Fantasma de Viento"
+    },
+    "wZEB": {
+        "en-US": "Clock",
+        "pt-BR": "Relógio",
+        "es-ES": "Reloj"
+    },
+    "wpEB": {
+        "en-US": "Raydric Archer",
+        "pt-BR": "Raydric Arqueiro",
+        "es-ES": "Arquero Raydric"
+    },
+    "w5EB": {
+        "en-US": "Mi Gao",
+        "pt-BR": "Mi Gao",
+        "es-ES": "Mi Gao"
+    },
+    "xJEB": {
+        "en-US": "Penomena",
+        "pt-BR": "Penomena",
+        "es-ES": "Fenómena"
+    },
+    "xZEB": {
+        "en-US": "Ground Petit",
+        "pt-BR": "Petit Terrestre",
+        "es-ES": "Petit Terrestre"
+    },
+    "xpEB": {
+        "en-US": "Alarm",
+        "pt-BR": "Alarme",
+        "es-ES": "Alarma"
+    },
+    "x5EB": {
+        "en-US": "Zombie Prisoner",
+        "pt-BR": "Zumbi Prisioneiro",
+        "es-ES": "Prisionero Zombi"
+    },
+    "yJEB": {
+        "en-US": "Marionette",
+        "pt-BR": "Marionete",
+        "es-ES": "Marioneta"
+    },
+    "yZEB": {
+        "en-US": "Permeter",
+        "pt-BR": "Batedor",
+        "es-ES": "Permeter"
+    },
+    "ypEB": {
+        "en-US": "Skel Prisoner",
+        "pt-BR": "Esqueleto Prisioneiro",
+        "es-ES": "Prisionero Esqueleto"
+    },
+    "y5EB": {
+        "en-US": "Owl Duke",
+        "pt-BR": "Duque Coruja",
+        "es-ES": "Duque Búho"
+    },
+    "zJEB": {
+        "en-US": "Deviruchi",
+        "pt-BR": "Deviruchi",
+        "es-ES": "Deviruchi"
+    },
+    "zZEB": {
+        "en-US": "Bloody Butterfly",
+        "pt-BR": "Borboleta Sanguinária",
+        "es-ES": "Mariposa Sangrienta"
+    },
+    "zpEB": {
+        "en-US": "Stapo",
+        "pt-BR": "Stapo",
+        "es-ES": "Stapo"
+    },
+    "z5EB": {
+        "en-US": "Taoist Hermit",
+        "pt-BR": "Ermitão Maligno",
+        "es-ES": "Ermitaño Taoísta"
+    },
+    "0JEB": {
+        "en-US": "The Paper",
+        "pt-BR": "Papel",
+        "es-ES": "Papel"
+    },
+    "0ZEB": {
+        "en-US": "Tengu",
+        "pt-BR": "Tengu",
+        "es-ES": "Tengu"
+    },
+    "0pEB": {
+        "en-US": "Alice",
+        "pt-BR": "Alice",
+        "es-ES": "Alice"
+    },
+    "05EB": {
+        "en-US": "Anacondaq",
+        "pt-BR": "Anaconda",
+        "es-ES": "Serpiente Venenosa"
+    },
+    "1JEB": {
+        "en-US": "Gargoyle",
+        "pt-BR": "Gárgula",
+        "es-ES": "Gárgola"
+    },
+    "1ZEB": {
+        "en-US": "Carat",
+        "pt-BR": "Carat",
+        "es-ES": "Carat"
+    },
+    "1pEB": {
+        "en-US": "Sting",
+        "pt-BR": "Sting",
+        "es-ES": "Sting"
+    },
+    "15EB": {
+        "en-US": "Gryphon",
+        "pt-BR": "Grifo",
+        "es-ES": "Grifo"
+    },
+    "2JEB": {
+        "en-US": "Gibbet",
+        "pt-BR": "Árvore Maldita",
+        "es-ES": "Horca"
+    },
+    "2ZEB": {
+        "en-US": "Nightmare Terror",
+        "pt-BR": "Pesadelo Sombrio",
+        "es-ES": "Terror Nocturno"
+    },
+    "2pEB": {
+        "en-US": "Anolian",
+        "pt-BR": "Anolian",
+        "es-ES": "Anolian"
+    },
+    "25EB": {
+        "en-US": "Bloody Murderer",
+        "pt-BR": "Serial Killer",
+        "es-ES": "Asesino Sangriento"
+    },
+    "3JEB": {
+        "en-US": "Aliot",
+        "pt-BR": "Aliot",
+        "es-ES": "Aliot"
+    },
+    "3ZEB": {
+        "en-US": "Red Venatu",
+        "pt-BR": "Venatu Vermelho",
+        "es-ES": "Venatu Rojo"
+    },
+    "3pEB": {
+        "en-US": "Death Word",
+        "pt-BR": "Palavra Morta",
+        "es-ES": "Palabra de Muerte"
+    },
+    "35EB": {
+        "en-US": "Plasma B",
+        "pt-BR": "Plasma B",
+        "es-ES": "Plasma B"
+    },
+    "4JEB": {
+        "en-US": "Purple Dimik",
+        "pt-BR": "Dimik Roxo",
+        "es-ES": "Dimik Morado"
+    },
+    "4ZEB": {
+        "en-US": "Mini Demon",
+        "pt-BR": "Diabinho",
+        "es-ES": "Minidemonio"
+    },
+    "4pEB": {
+        "en-US": "Leib Olmai",
+        "pt-BR": "Leib Olmai",
+        "es-ES": "Leib Olmai"
+    },
+    "45EB": {
+        "en-US": "Wanderer",
+        "pt-BR": "Andarilho",
+        "es-ES": "Vagabundo"
+    },
+    "5JEB": {
+        "en-US": "Agent of Divine Punishment",
+        "pt-BR": "Agente do Castigo Divino",
+        "es-ES": "Agente del Castigo Divino"
+    },
+    "5ZEB": {
+        "en-US": "Flame Skull",
+        "pt-BR": "Caveira de Chama",
+        "es-ES": "Calavera Flameante"
+    },
+    "5pEB": {
+        "en-US": "Knight of the Abyss",
+        "pt-BR": "Cavaleiro do Abismo",
+        "es-ES": "Caballero del Abismo"
+    },
+    "55EB": {
+        "en-US": "Banshee",
+        "pt-BR": "Banshee",
+        "es-ES": "Banshee"
+    },
+    "6JEB": {
+        "en-US": "Vagabond Wolf",
+        "pt-BR": "Lobo Errante",
+        "es-ES": "Lobo Vagabundo"
+    },
+    "6ZEB": {
+        "en-US": "Vocal",
+        "pt-BR": "Vocal",
+        "es-ES": "Vocal"
+    },
+    "6pEB": {
+        "en-US": "Golden Thief Bug",
+        "pt-BR": "Besouro-Ladrão Dourado",
+        "es-ES": "Bicho Ladrón Dorado"
+    },
+    "65EB": {
+        "en-US": "Mistress",
+        "pt-BR": "Abelha-Rainha",
+        "es-ES": "Abeja Reina"
+    },
+    "7JEB": {
+        "en-US": "Maya",
+        "pt-BR": "Maya",
+        "es-ES": "Maya"
+    },
+    "7ZEB": {
+        "en-US": "Phreeoni",
+        "pt-BR": "Freeoni",
+        "es-ES": "Phreeoni"
+    },
+    "7pEB": {
+        "en-US": "Drake",
+        "pt-BR": "Drake",
+        "es-ES": "Drake"
+    },
+    "75EB": {
+        "en-US": "Moonlight Flower",
+        "pt-BR": "Flor do Luar",
+        "es-ES": "Flor Lunar"
+    },
+    "8JEB": {
+        "en-US": "White Lady",
+        "pt-BR": "Lady Branca",
+        "es-ES": "Dama Blanca"
+    },
+    "8ZEB": {
+        "en-US": "Goblin Leader",
+        "pt-BR": "Líder Goblin",
+        "es-ES": "Jefe Duende"
+    },
+    "8pEB": {
+        "en-US": "Kobold Leader",
+        "pt-BR": "Líder Kobold",
+        "es-ES": "Líder Kobold"
+    },
+    "85EB": {
+        "en-US": "Turtle General",
+        "pt-BR": "General Tartaruga",
+        "es-ES": "General Tortuga"
+    },
+    "9JEB": {
+        "en-US": "Samurai Specter",
+        "pt-BR": "Samurai Encarnado",
+        "es-ES": "Aparición Samurái"
+    },
+    "9ZEB": {
+        "en-US": "Toad",
+        "pt-BR": "Sapo-Cururu",
+        "es-ES": "Sapo"
+    },
+    "9pEB": {
+        "en-US": "Osiris",
+        "pt-BR": "Osíris",
+        "es-ES": "Osiris"
+    },
+    "95EB": {
+        "en-US": "Pharaoh",
+        "pt-BR": "Faraó",
+        "es-ES": "Faraón"
+    },
+    "+JEB": {
+        "en-US": "Amon Ra",
+        "pt-BR": "Amon Ra",
+        "es-ES": "Amon Ra"
+    },
+    "+ZEB": {
+        "en-US": "Evil Snake Lord",
+        "pt-BR": "Serpente Suprema",
+        "es-ES": "Señor de las Serpientes Maligno"
+    },
+    "+pEB": {
+        "en-US": "Arc Angeling",
+        "pt-BR": "ArchAngeling",
+        "es-ES": "Archangeling"
+    },
+    "+5EB": {
+        "en-US": "Deviling",
+        "pt-BR": "Deviling",
+        "es-ES": "Deviling"
+    },
+    "/JEB": {
+        "en-US": "Angeling",
+        "pt-BR": "Angeling",
+        "es-ES": "Angeling"
+    },
+    "/ZEB": {
+        "en-US": "Ghostring",
+        "pt-BR": "Ghostring",
+        "es-ES": "Ghostring"
+    },
+    "/pEB": {
+        "en-US": "Mastering",
+        "pt-BR": "Mastering",
+        "es-ES": "Mastering"
+    },
+    "/5EB": {
+        "en-US": "Egnigem Cenia",
+        "pt-BR": "Egnigem Cenia",
+        "es-ES": "Egnigem Cenia"
+    },
+    "AJIB": {
+        "en-US": "Doppelganger",
+        "pt-BR": "Doppelganger",
+        "es-ES": "Doppelganger"
+    },
+    "AZIB": {
+        "en-US": "Atroce",
+        "pt-BR": "Atroce",
+        "es-ES": "Atroce"
+    },
+    "ApIB": {
+        "en-US": "Orc Hero",
+        "pt-BR": "Orc Herói",
+        "es-ES": "Héroe Orco"
+    },
+    "A5IB": {
+        "en-US": "Orc Lord",
+        "pt-BR": "Senhor dos Orcs",
+        "es-ES": "Lord Orco"
+    },
+    "BJIB": {
+        "en-US": "Baphomet",
+        "pt-BR": "Bafomé",
+        "es-ES": "Baphomet"
+    },
+    "BZIB": {
+        "en-US": "Dark Lord",
+        "pt-BR": "Senhor das Trevas",
+        "es-ES": "Señor Oscuro"
+    },
+    "BpIB": {
+        "en-US": "Fallen Bishop",
+        "pt-BR": "Bispo Decadente",
+        "es-ES": "Obispo Caído"
+    },
+    "B5IB": {
+        "en-US": "Ifrit",
+        "pt-BR": "Ifrit",
+        "es-ES": "Ifrit"
+    },
+    "CJIB": {
+        "en-US": "Valkyrie Randgris",
+        "pt-BR": "Valquíria Randgris",
+        "es-ES": "Valkiria Randgris"
+    },
+    "CZIB": {
+        "en-US": "Beelzebub",
+        "pt-BR": "Mosca Belzebu",
+        "es-ES": "Belcebú"
+    },
+    "CpIB": {
+        "en-US": "Beelzebub",
+        "pt-BR": "Mosca Belzebu",
+        "es-ES": "Belcebú"
+    },
+    "C5IB": {
+        "en-US": "Unknown Entity",
+        "pt-BR": "Entidade Desconhecida",
+        "es-ES": "Entidad Desconocida"
+    },
+    "DJIB": {
+        "en-US": "Dark Blade Sakray",
+        "pt-BR": "Lâmina Negra Sakray",
+        "es-ES": "Cuchilla Negra Sakray"
+    },
+    "DZIB": {
+        "en-US": "Princess Tiara",
+        "pt-BR": "Princesa Tiara",
+        "es-ES": "Princesa Tiarra"
+    },
+    "DpIB": {
+        "en-US": "Undead Knight",
+        "pt-BR": "Cavaleiro Morto-vivo",
+        "es-ES": "Caballero No-muerto"
+    },
+    "D5IB": {
+        "en-US": "Undead Soldier",
+        "pt-BR": "Soldado Morto-vivo",
+        "es-ES": "Soldado No-muerto"
+    },
+    "EJIB": {
+        "en-US": "Undead Archer",
+        "pt-BR": "Arqueiro Morto-vivo",
+        "es-ES": "Arquero No-muerto"
+    },
+    "EZIB": {
+        "en-US": "Undead Wizard",
+        "pt-BR": "Mago Morto-vivo",
+        "es-ES": "Mago No-muerto"
+    },
+    "EpIB": {
+        "en-US": "Undead Sorcerer",
+        "pt-BR": "Feiticeiro Morto-vivo",
+        "es-ES": "Hechicero No-muerto"
+    },
+    "E5IB": {
+        "en-US": "Undead Noble",
+        "pt-BR": "Nobre Morto-vivo",
+        "es-ES": "Noble No-muerto"
+    },
+    "FJIB": {
+        "en-US": "Undead Servant",
+        "pt-BR": "Servo Morto-vivo",
+        "es-ES": "Sirviente No-muerto"
+    },
+    "FZIB": {},
+    "FpIB": {},
+    "F5IB": {},
+    "GJIB": {},
+    "GZIB": {},
+    "GpIB": {},
+    "G5IB": {},
+    "HJIB": {},
+    "HZIB": {},
+    "HpIB": {},
+    "H5IB": {},
+    "IJIB": {},
+    "IZIB": {},
+    "IpIB": {},
+    "I5IB": {},
+    "JJIB": {},
+    "JZIB": {},
+    "JpIB": {}
 }

@@ -452,7 +452,7 @@ Table[3]:SetReset(true, 100000, 100000, {
 	"Ep18_Amethyst_Fragment",
 	25
 })
-Table[3]:SetCaution("Encantamiento disponible para Botas y zapatos del Lobo Gris con refinamiento de +7 o superior(Las opciones adicionales según el nivel de refinado no se aplican)\nProbabilidad de éxito del encantamiento normal: 100%\nProbabilidad de reinicio del encantamiento: 100%")
+Table[3]:SetCaution("Encantamiento disponible para Botas y Zapatos del Lobo Gris con refinamiento de +7 o superior(Las opciones adicionales según el nivel de refinado no se aplican)\nProbabilidad de éxito del encantamiento normal: 100%\nProbabilidad de reinicio del encantamiento: 100%")
 Table[3].Slot[3]:SetRequire(100000, {
 	"Ep18_Amethyst_Fragment",
 	15
@@ -538,7 +538,7 @@ Table[4]:SetReset(true, 100000, 100000, {
 	"Ep18_Amethyst_Fragment",
 	25
 })
-Table[4]:SetCaution("Encantamiento disponible para Colgante y pendientes del Lobo Gris.(Las opciones adicionales según el nivel de refinado no se aplican)\nProbabilidad de éxito del encantamiento normal: 100%\nProbabilidad de reinicio del encantamiento: 100%")
+Table[4]:SetCaution("Encantamiento disponible para Colgante y Aretes del Lobo Gris.(Las opciones adicionales según el nivel de refinado no se aplican)\nProbabilidad de éxito del encantamiento normal: 100%\nProbabilidad de reinicio del encantamiento: 100%")
 Table[4].Slot[3]:SetRequire(100000, {
 	"Ep18_Amethyst_Fragment",
 	15
@@ -672,7 +672,7 @@ Table[5]:SetReset(true, 100000, 100000, {
 	"Ep18_Amethyst_Fragment",
 	25
 })
-Table[5]:SetCaution("Se puede aplicar el encantamiento al Anillo de Greya Wolf y al Collar(Las opciones adicionales según el nivel de refinado no se aplican)\nProbabilidad de éxito del encantamiento común: 100%\nProbabilidad de reinicialización del encantamiento: 100%")
+Table[5]:SetCaution("Encantamiento disponible para Anillo y Collar del Lobo Gris(Las opciones adicionales según el nivel de refinado no se aplican)\nProbabilidad de éxito del encantamiento común: 100%\nProbabilidad de reinicialización del encantamiento: 100%")
 Table[5].Slot[3]:SetRequire(100000, {
 	"Ep18_Amethyst_Fragment",
 	15
@@ -802,7 +802,7 @@ Table[15]:AddTargetItem("Mad_Bunny_K_LT")
 Table[15]:SetCondition(0, 0)
 Table[15]:ApproveRandomOption(true)
 Table[15]:SetReset(true, 100000, 500000)
-Table[15]:SetCaution("Encantamiento Mad Bunny-LT\nProbabilidad de éxito 100%\nProbabilidad de reinicialización 100% Si falla, no se destruirá")
+Table[15]:SetCaution("Encantamiento Conejo Macabro-LT\nProbabilidad de éxito 100%\nProbabilidad de reinicialización 100% Si falla, no se destruirá")
 Table[15].Slot[3]:SetRequire(0, {
 	"Enchant_Ticket",
 	1
@@ -1479,7 +1479,7 @@ Table[25]:AddTargetItem("Viva_Adul_Hat_WL1")
 Table[25]:SetCondition(0, 0)
 Table[25]:ApproveRandomOption(true)
 Table[25]:SetReset(true, 100000, 500000)
-Table[25]:SetCaution("Encantamiento del Helm of Faith\nProbabilidad de éxito 100%\nProbabilidad de reinicialización 100% Si falla, no se destruirá")
+Table[25]:SetCaution("Encantamiento del Yelmo de la Fe\nProbabilidad de éxito 100%\nProbabilidad de reinicialización 100% Si falla, no se destruirá")
 Table[25].Slot[3]:SetRequire(0, {
 	"Enchant_Ticket",
 	1
@@ -1716,9 +1716,7 @@ Table[70]:SetReset(false, 100000, 10000, {
 	"S_Enchant_Essence",
 	1
 })
-Table[70]:SetCaution([[
-Conceder el encantamiento de Master Weapon y Shield Shadow
-No se puede reinicializar el encantamiento]])
+Table[70]:SetCaution("Conceder el encantamiento de Escudo y Manopla Sombría Magistral\nNo se puede reinicializar el encantamiento")
 Table[70].Slot[3]:AddPerfectEnchant("Strength5", 0, {
 	"S_Enchant_Essence",
 	1
@@ -2075,7 +2073,7 @@ Table[14]:SetReset(true, 100000, 10000, {
 	"Healthful_Herb",
 	5
 })
-Table[14]:SetCaution("Encantamiento del ítem del evento Popcorn de Verano de 2021\nProbabilidad base de éxito: 100%\nProbabilidad de reinicio: 100% En caso de fallo, no se destruye")
+Table[14]:SetCaution("Encantamiento del ítem del evento Festival de Palomitas\nProbabilidad base de éxito: 100%\nProbabilidad de reinicio: 100% En caso de fallo, no se destruye")
 Table[14].Slot[0]:SetRequire(10000, {
 	"Red_Hot_Marble",
 	1

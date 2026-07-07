@@ -319,5 +319,7 @@ SPRITE_ROBE_IDs = {
 	ROBE_C_Star_Glasspen = 319,
 	ROBE_C_Thoughts_Window = 320,
 	ROBE_C_Tassie_Anchor = 321,
-	ROBE_C_Gerero_Spear = 322
+	ROBE_C_Gerero_Spear = 322,
+	ROBE_C_S_Thanatos_Wing = 323,
+	ROBE_C_Tuna_Fishing = 324
 }

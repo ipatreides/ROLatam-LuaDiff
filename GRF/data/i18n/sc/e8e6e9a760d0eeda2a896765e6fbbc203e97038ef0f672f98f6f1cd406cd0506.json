@@ -41,7 +41,7 @@
     },
     "CNKhCQ": {
         "en-US": "[Hot Air Machine]\nNice to meet you. I'm G-3380, Hot Air Machine. We provide enchantment support for the equipment listed below.",
-        "pt-BR": "[Hot Machine]\nPrazer em conhecer você. Sou G-3380, Máquina de Ar Quente. Fornecemos suporte de encantamento para os equipamentos listados abaixo.",
+        "pt-BR": "[Máquina de Ar Quente]\nPrazer em conhecer você. Sou G-3380, Máquina de Ar Quente. Fornecemos suporte de encantamento para os equipamentos listados abaixo.",
         "es-ES": "[Máquina de Aire Caliente]\nUn placer conocerte. Soy la Máquina de Aire Caliente G-3380. Nos encargamos de ofrecer soporte de encantamiento para el equipamiento que se enumera a continuación."
     },
     "CdKhCQ": {
@@ -61,27 +61,27 @@
     },
     "DNKhCQ": {
         "en-US": "[Hot Air Machine]\n2nd slot option may be selected when 3,4 slots are already enchanted.",
-        "pt-BR": "[Hot Machine]\nA opção do 2º espaço pode ser selecionada quando 3 ou 4 espaços já estiverem encantados.",
+        "pt-BR": "[Máquina de Ar Quente]\nA opção do 2º espaço pode ser selecionada quando 3 ou 4 espaços já estiverem encantados.",
         "es-ES": "[Máquina de Aire Caliente]\nSe puede seleccionar la opción de ranura2 cuando las ranuras3 y4 ya están encantadas."
     },
     "DdKhCQ": {
         "en-US": "[Hot Air Machine]\nIf special option is applied on 2nd slot, 1 level can be upgraded.",
-        "pt-BR": "[Hot Machine]\nSe a opção especial for aplicada no 2º espaço, 1 nível poderá ser melhorado.",
+        "pt-BR": "[Máquina de Ar Quente]\nSe a opção especial for aplicada no 2º espaço, 1 nível poderá ser melhorado.",
         "es-ES": "[Máquina de Aire Caliente]\nSi se aplica la opción especial en la ranura2, se puede subir 1nivel."
     },
     "DtKhCQ": {
         "en-US": "[Hot Air Machine]\nUnfortunately, if you already have a normal option in the second slot, you can't do a guarenteed upgrade, so it's a good idea to reset it.",
-        "pt-BR": "[Hot Machine]\nInfelizmente, se você já tiver uma opção normal no segundo espaço, não será possível fazer uma melhoria garantida, portanto, é uma boa ideia redefini-la.",
+        "pt-BR": "[Máquina de Ar Quente]\nInfelizmente, se você já tiver uma opção normal no segundo espaço, não será possível fazer uma melhoria garantida, portanto, é uma boa ideia redefini-la.",
         "es-ES": "[Máquina de Aire Caliente]\nPor desgracia, si ya tienes una opción normal en la segunda ranura, no puedes hacer una mejora garantizada, por lo que es buena idea restablecerla."
     },
     "D9KhCQ": {
         "en-US": "[Hot Air Machine]\nWe will inform you of the service fee through this device during the enchant. Good luck.",
-        "pt-BR": "[Hot Machine]\nNós te informaremos sobre a taxa de serviço por meio desse dispositivo durante o encantamento. Boa sorte.",
+        "pt-BR": "[Máquina de Ar Quente]\nNós te informaremos sobre a taxa de serviço por meio desse dispositivo durante o encantamento. Boa sorte.",
         "es-ES": "[Máquina de Aire Caliente]\nTe informaremos la tarifa de servicio en este dispositivo durante el encantamiento. Buena suerte."
     },
     "ENKhCQ": {
         "en-US": "[Hot Air Machine]\nYou are unequipped",
-        "pt-BR": "[Hot Machine]\nVocê não tem nada equipado",
+        "pt-BR": "[Máquina de Ar Quente]\nVocê não tem nada equipado",
         "es-ES": "[Máquina de Aire Caliente]\nNo tienes equipado ningún objeto."
     },
     "EdKhCQ": {
@@ -91,7 +91,7 @@
     },
     "EtKhCQ": {
         "en-US": "[Hot Air Machine]\nIt's very dangerous to take off the equipment right now.",
-        "pt-BR": "[Hot Machine]\nÉ muito perigoso retirar o equipamento neste momento.",
+        "pt-BR": "[Máquina de Ar Quente]\nÉ muito perigoso retirar o equipamento neste momento.",
         "es-ES": "[Máquina de Aire Caliente]\nEs muy peligroso quitarse el equipamiento ahora mismo."
     },
     "E9KhCQ": {
@@ -166,7 +166,7 @@
     },
     "IdKhCQ": {
         "en-US": "[Hot Air Machine]\nThe equipment you showed me is not guarenteed upgradable item.",
-        "pt-BR": "[Hot Machine]\nO equipamento que você me mostrou não é um item de melhoria garantida.",
+        "pt-BR": "[Máquina de Ar Quente]\nO equipamento que você me mostrou não é um item de melhoria garantida.",
         "es-ES": "[Máquina de Aire Caliente]\nEl equipamiento que me mostraste no es un objeto apto para un encantamiento garantizado."
     },
     "ItKhCQ": {
@@ -176,7 +176,7 @@
     },
     "I9KhCQ": {
         "en-US": "[Hot Air Machine]\nThis {0} item's 3rd and 4th are already upgraded. You can select 1 special option. It's guarenteed 100%.",
-        "pt-BR": "[Hot Machine]\nO 3º e 4º espaço do item {0} já foram melhorados. Você pode selecionar 1 opção especial. Garantido 100%.",
+        "pt-BR": "[Máquina de Ar Quente]\nO 3º e 4º espaço do item {0} já foram melhorados. Você pode selecionar 1 opção especial. Garantido 100%.",
         "es-ES": "[Máquina de Aire Caliente]\nLas ranuras3 y4 del objeto {0} ya están mejoradas. Puedes seleccionar 1opción especial. Está garantizado al 100%."
     },
     "JNKhCQ": {
@@ -221,17 +221,17 @@
     },
     "LNKhCQ": {
         "en-US": "[Hot Air Machine]\n[<ITEM>Mettle1Lv<INFO>29061</INFO></ITEM>]\n[<ITEM>MagicEssence1Lv<INFO>29071</INFO></ITEM>]\n[<ITEM>Acute1Lv<INFO>29081</INFO></ITEM>]\n[<ITEM>MasterArcher1Lv<INFO>29091</INFO></ITEM>]\n[<ITEM>Adamantine1Lv<INFO>29101</INFO></ITEM>]\n[<ITEM>Affection1Lv<INFO>29111</INFO></ITEM>]\n[<ITEM>Tenacity1Lv<INFO>29706</INFO></ITEM>]\ncan be selected.",
-        "pt-BR": "[Hot Machine]\n[<ITEM>Mettle1Lv<INFO>29061</INFO></ITEM>]\n[<ITEM>MagicEssence1Lv<INFO>29071</INFO></ITEM>]\n[<ITEM>Acute1Lv<INFO>29081</INFO></ITEM>]\n[<ITEM>MasterArcher1Lv<INFO>29091</INFO></ITEM>]\n[<ITEM>Adamantine1Lv<INFO>29101</INFO></ITEM>]\n[<ITEM>Affection1Lv<INFO>29111</INFO></ITEM>]\n[<ITEM>Tenacity1Lv<INFO>29706</INFO></ITEM>]\npode ser selecionado.",
+        "pt-BR": "[Máquina de Ar Quente]\n[<ITEM>Mettle1Lv<INFO>29061</INFO></ITEM>]\n[<ITEM>MagicEssence1Lv<INFO>29071</INFO></ITEM>]\n[<ITEM>Acute1Lv<INFO>29081</INFO></ITEM>]\n[<ITEM>MasterArcher1Lv<INFO>29091</INFO></ITEM>]\n[<ITEM>Adamantine1Lv<INFO>29101</INFO></ITEM>]\n[<ITEM>Affection1Lv<INFO>29111</INFO></ITEM>]\n[<ITEM>Tenacity1Lv<INFO>29706</INFO></ITEM>]\npode ser selecionado.",
         "es-ES": "[Máquina de Aire Caliente]\n[<ITEM>Fortaleza de nivel1<INFO>29061</INFO></ITEM>]\n[<ITEM>Esencia mágica de nivel1<INFO>29071</INFO></ITEM>]\n[<ITEM>Perspicacia de nivel1<INFO>29081</INFO></ITEM>]\n[<ITEM>Maestro Arquero de nivel1<INFO>29091</INFO></ITEM>]\n[<ITEM>Adamantino de nivel1<INFO>29101</INFO></ITEM>]\n[<ITEM>Afecto de nivel1<INFO>29111</INFO></ITEM>]\n[<ITEM>Tenacidad de nivel1<INFO>29706</INFO></ITEM>]\nson las opciones seleccionables."
     },
     "LdKhCQ": {
         "en-US": "[Hot Air Machine]\nThe equipment has been reinforced to the limits supported by Hot Air Machine. No further reinforcement is possible here.",
-        "pt-BR": "[Hot Machine]\nO equipamento foi reforçado até os limites suportados pela Máquina de Ar Quente. Nenhum reforço adicional é possível aqui.",
+        "pt-BR": "[Máquina de Ar Quente]\nO equipamento foi reforçado até os limites suportados pela Máquina de Ar Quente. Nenhum reforço adicional é possível aqui.",
         "es-ES": "[Máquina de Aire Caliente]\nEl equipamiento se reforzó hasta los límites que admite la Máquina de Aire Caliente. Ya no es posible ningún refuerzo más."
     },
     "LtKhCQ": {
         "en-US": "[Hot Air Machine]\nI don't think the equipment has been strengthened enough to get a guarenteed upgrade.",
-        "pt-BR": "[Hot Machine]\nNão acho que o equipamento tenha sido reforçado o suficiente para receber uma melhoria garantida.",
+        "pt-BR": "[Máquina de Ar Quente]\nNão acho que o equipamento tenha sido reforçado o suficiente para receber uma melhoria garantida.",
         "es-ES": "[Máquina de Aire Caliente]\nNo creo que el equipamiento se haya reforzado lo suficiente como para obtener una mejora garantizada."
     },
     "L9KhCQ": {
@@ -261,7 +261,7 @@
     },
     "NNKhCQ": {
         "en-US": "[Hot Air Machine]\nCome back when you want to upgrade.",
-        "pt-BR": "[Hot Machine]\nVolte quando quiser melhorar.",
+        "pt-BR": "[Máquina de Ar Quente]\nVolte quando quiser melhorar.",
         "es-ES": "[Máquina de Aire Caliente]\nVuelve cuando quieras realizar la mejora."
     },
     "NdKhCQ": {
@@ -271,7 +271,7 @@
     },
     "NtKhCQ": {
         "en-US": "[Hot Air Machine]",
-        "pt-BR": "[Hot Machine]",
+        "pt-BR": "[Máquina de Ar Quente]",
         "es-ES": "[Máquina de Aire Caliente]"
     },
     "N9KhCQ": {
@@ -291,13 +291,13 @@
     },
     "OtKhCQ": {
         "en-US": "<Glastheim Boots>",
-        "pt-BR": "<Glastheim Boots>",
-        "es-ES": "<Glastheim Boots>"
+        "pt-BR": "<Botas de Glastheim>",
+        "es-ES": "<Botas de Glastheim>"
     },
     "O9KhCQ": {
         "en-US": "Glastheim Boots",
-        "pt-BR": "Botas Glastheim",
-        "es-ES": "Botas de Glast Heim"
+        "pt-BR": "Botas de Glastheim",
+        "es-ES": "Botas de Glastheim"
     },
     "PNKhCQ": {
         "en-US": "I think there are too many kinds of things or weights. Please organize your inventory.",
@@ -310,13 +310,13 @@
         "es-ES": "^003366Una máquina expendedora de aspecto sospechoso, que no sabe quién la ha instalado, espera un toque con la pantalla encendida. La marca del fabricante es antigua, por lo que es difícil de distinguir.^000000"
     },
     "PtKhCQ": {
-        "en-US": "{0}'s",
-        "pt-BR": "De {0}",
-        "es-ES": "Encantamiento de {0}"
+        "en-US": "About enchantment of {0}'s",
+        "pt-BR": "Sobre encantamento de {0}",
+        "es-ES": "Sobre encantamiento de {0}"
     },
     "P9KhCQ": {
         "en-US": "[Hot Air Machine]\nNice to meet you. I'm G-3425, the hot air machine for you. We provide reinforcement support for the equipment listed below.",
-        "pt-BR": "[Hot Machine]\nPrazer em conhecer você. Sou G-3425, a máquina de ar quente para você. Fornecemos suporte de reforço para os equipamentos listados abaixo.",
+        "pt-BR": "[Máquina de Ar Quente]\nPrazer em conhecer você. Sou G-3425, a máquina de ar quente para você. Fornecemos suporte de reforço para os equipamentos listados abaixo.",
         "es-ES": "[Máquina de Aire Caliente]\nUn placer conocerte. Soy G-3425, la máquina de aire caliente, a tu servicio. Nos encargamos de ofrecer soporte de refuerzo para el equipamiento que se enumera a continuación."
     },
     "QNKhCQ": {
@@ -341,12 +341,12 @@
     },
     "RNKhCQ": {
         "en-US": "[Hot Air Machine]\nIf any of the options listed below is enchanted on 4th slot, you can select 3rd slot option.\n[<ITEM>Fighting Spirit 7<INFO>4822</INFO></ITEM>]\n[<ITEM>Expert Archer 4<INFO>4835</INFO></ITEM>]\n[<ITEM>Enchant 5<INFO>4826</INFO></ITEM>]\n[<ITEM>Max HP + 2%<INFO>4862</INFO></ITEM>]\n[<ITEM>ASPD 4<INFO>4881</INFO></ITEM>]\n[<ITEM>LUK + 6<INFO>4755</INFO></ITEM>]",
-        "pt-BR": "[Hot Machine]\nSe alguma das opções listadas abaixo estiver encantada no 4º espaço, você poderá selecionar a opção do 3º espaço.\n[<ITEM>Espírito do Lutador 7<INFO>4822</INFO></ITEM>]\n[<ITEM>Mira Apurada 4<INFO>4835</INFO></ITEM>]\n[<ITEM>Pedra de Encantamento 5<INFO>4826</INFO></ITEM>]\n[<ITEM>HP +2%<INFO>4862</INFO></ITEM>]\n[<ITEM>Anti-Atraso 4<INFO>4881</INFO></ITEM>]\n[<ITEM>SOR+6<INFO>4755</INFO></ITEM>]",
+        "pt-BR": "[Máquina de Ar Quente]\nSe alguma das opções listadas abaixo estiver encantada no 4º espaço, você poderá selecionar a opção do 3º espaço.\n[<ITEM>Espírito do Lutador 7<INFO>4822</INFO></ITEM>]\n[<ITEM>Mira Apurada 4<INFO>4835</INFO></ITEM>]\n[<ITEM>Pedra de Encantamento 5<INFO>4826</INFO></ITEM>]\n[<ITEM>HP +2%<INFO>4862</INFO></ITEM>]\n[<ITEM>Anti-Atraso 4<INFO>4881</INFO></ITEM>]\n[<ITEM>SOR+6<INFO>4755</INFO></ITEM>]",
         "es-ES": "[Máquina de Aire Caliente]\nSi alguna de las opciones enumeradas a continuación está encantada en la ranura4, puedes seleccionar la opción de la ranura3.\n[<ITEM>Espíritu de Lucha 7<INFO>4822</INFO></ITEM>]\n[<ITEM>Arquero Experto 4<INFO>4835</INFO></ITEM>]\n[<ITEM>Piedra de Encantamiento 5<INFO>4826</INFO></ITEM>]\n[<ITEM>HP máx. +2 %<INFO>4862</INFO></ITEM>]\n[<ITEM>VelAtq 4<INFO>4881</INFO></ITEM>]\n[<ITEM>SUE+6<INFO>4755</INFO></ITEM>]"
     },
     "RdKhCQ": {
         "en-US": "[Hot Air Machine]\nService fee will be guided when you enchant. Good luck.",
-        "pt-BR": "[Hot Machine]\nA taxa de serviço será orientada quando você se encantar. Boa sorte.",
+        "pt-BR": "[Máquina de Ar Quente]\nA taxa de serviço será orientada quando você se encantar. Boa sorte.",
         "es-ES": "[Máquina de Aire Caliente]\nLa tarifa de servicio se indicará cuando inicies el encantamiento. Buena suerte."
     },
     "RtKhCQ": {
@@ -356,7 +356,7 @@
     },
     "R9KhCQ": {
         "en-US": "[Hot Air Machine]\nIt's dangerous to unequip right now.",
-        "pt-BR": "[Hot Machine]\nÉ perigoso desequipar agora.",
+        "pt-BR": "[Máquina de Ar Quente]\nÉ perigoso desequipar agora.",
         "es-ES": "[Máquina de Aire Caliente]\nEs peligroso desequiparse en este momento."
     },
     "SNKhCQ": {
@@ -481,7 +481,7 @@
     },
     "YNKhCQ": {
         "en-US": "[Hot Air Machine]\nItem you showed me is not guarenteed upgradable item.",
-        "pt-BR": "[Hot Machine]\nO item que você me mostrou não é um item de melhoria garantida.",
+        "pt-BR": "[Máquina de Ar Quente]\nO item que você me mostrou não é um item de melhoria garantida.",
         "es-ES": "[Máquina de Aire Caliente]\nEl objeto que me mostraste no es apto para una mejora garantizada."
     },
     "YdKhCQ": {
@@ -506,7 +506,7 @@
     },
     "ZdKhCQ": {
         "en-US": "[Hot Air Machine]\nThis {0} 4th slot is upgraded to limit. You can select one special option for 100%.",
-        "pt-BR": "[Hot Machine]\nO 4º espaço deste item {0} foi melhorado até o limite. Você pode selecionar um encantamento com 100% de chance de sucesso.",
+        "pt-BR": "[Máquina de Ar Quente]\nO 4º espaço deste item {0} foi melhorado até o limite. Você pode selecionar um encantamento com 100% de chance de sucesso.",
         "es-ES": "[Máquina de Aire Caliente]\nLa ranura4 del objeto {0} está actualizada al límite. Puedes seleccionar una opción especial para el 100%."
     },
     "ZtKhCQ": {
@@ -546,7 +546,7 @@
     },
     "bdKhCQ": {
         "en-US": "[Hot Air Machine]\n[<ITEM>Bear's Power<INFO>4875</INFO></ITEM>]\n[<ITEM>Hawkeye<INFO>4879</INFO></ITEM>]\n[<ITEM>Runaway Magic<INFO>4876</INFO></ITEM>]\n[<ITEM>Speed of Light<INFO>4877</INFO></ITEM>]\n[<ITEM>Muscle Fool<INFO>4878</INFO></ITEM>]\n[<ITEM>Lucky Day<INFO>4880</INFO></ITEM>]\nThe list of choices is as above.",
-        "pt-BR": "[Hot Machine]\n[<ITEM>Poder do Urso<INFO>4875</INFO></ITEM>]\n[<ITEM>Olhos de Águia<INFO>4879</INFO></ITEM>]\n[<ITEM>Mágica de Fuga<INFO>4876</INFO></ITEM>]\n[<ITEM>Velocidade da Luz<INFO>4877</INFO></ITEM>]\n[<ITEM>Musculoso<INFO>4878</INFO></ITEM>]\n[<ITEM>Euforia<INFO>4880</INFO></ITEM>]\nA lista de opções é a mesma acima.",
+        "pt-BR": "[Máquina de Ar Quente]\n[<ITEM>Poder do Urso<INFO>4875</INFO></ITEM>]\n[<ITEM>Olhos de Águia<INFO>4879</INFO></ITEM>]\n[<ITEM>Mágica de Fuga<INFO>4876</INFO></ITEM>]\n[<ITEM>Velocidade da Luz<INFO>4877</INFO></ITEM>]\n[<ITEM>Musculoso<INFO>4878</INFO></ITEM>]\n[<ITEM>Euforia<INFO>4880</INFO></ITEM>]\nA lista de opções é a mesma acima.",
         "es-ES": "[Máquina de Aire Caliente]\n[<ITEM>Delirio<INFO>4875</INFO></ITEM>]\n[<ITEM>Instinto<INFO>4879</INFO></ITEM>]\n[<ITEM>Epifanía<INFO>4876</INFO></ITEM>]\n[<ITEM>Animación<INFO>4877</INFO></ITEM>]\n[<ITEM>Histeria<INFO>4878</INFO></ITEM>]\n[<ITEM>Euforia<INFO>4880</INFO></ITEM>]\nLa lista de opciones es la que ves arriba."
     },
     "btKhCQ": {
@@ -566,7 +566,7 @@
     },
     "cdKhCQ": {
         "en-US": "[Hot Air Machine]\nPlease come back when you want to upgrade.",
-        "pt-BR": "[Hot Machine]\nPor favor, volte quando quiser fazer um upgrade.",
+        "pt-BR": "[Máquina de Ar Quente]\nPor favor, volte quando quiser fazer um upgrade.",
         "es-ES": "[Máquina de Aire Caliente]\nVuelve cuando quieras realizar la mejora."
     },
     "ctKhCQ": {
@@ -1171,7 +1171,7 @@
     },
     "6tKhCQ": {
         "en-US": "[Hot Air Machine]\nSpecial option can be enchanted to 2nd slot when 3rd and 4th slot are already enchanted.",
-        "pt-BR": "[Hot Machine]\nA opção especial pode ser encantada no 2º slot quando o 3º e 4º slots já estiverem encantados.",
+        "pt-BR": "[Máquina de Ar Quente]\nA opção especial pode ser encantada no 2º slot quando o 3º e 4º slots já estiverem encantados.",
         "es-ES": "[Máquina de Aire Caliente]\nLa opción especial se puede encantar en la 2.ª ranura cuando la 3.ª y 4.ª ranura ya estén encantadas."
     },
     "69KhCQ": {

@@ -100,7 +100,7 @@
         "es-ES": "[Karkatan]\nMuy bien. Estoy seguro de que tienes\nlo necesario para aprender nuestro\nidioma. Te enseñaré \na hablar y leer en utan\na partir de ahora."
     },
     "VL6h": {
-        "en-US": "[Karkatan]\nHowever, I need you to get some\nitems ready so that we may proceed\nwith the lessons. First, we need\ntwo different kinds of paper.\n^3377FF10 Oil Paper^000000 and \n^3377FF5 Slick Paper^000000.",
+        "en-US": "[Karkatan]\nHowever, I need you to get some\nitems ready so that we may proceed\nwith the lessons. First, we need\ntwo different kinds of paper.\n^3377FF10 Oil Paper^000000 and\n^3377FF5 Slick Paper^000000.",
         "pt-BR": "[Karkatan]\nNo entanto, preciso que você prepare alguns\nitens prontos para que possamos prosseguir\ncom as lições. Primeiro, precisamos de\ndois tipos diferentes de papel.\n^3377FF10 Oil Paper^000000 e \n^3377FF5 Slick Paper^000000.",
         "es-ES": "[Karkatan]\nPero necesito que tengas\nlistos algunos objetos para que podamos comenzar\ncon las lecciones. Primero, necesitamos\ndos tipos diferentes de papel.\n^3377FF10 Papeles de aceite^000000 y \n^3377FF5 Papeles encerados^000000."
     },
@@ -260,7 +260,7 @@
         "es-ES": "[Puchuchartan]\nMe preocupa cómo\nafectará nuestro futuro\ncontinuar con el contacto con el mundo exterior…"
     },
     "dL6h": {
-        "en-US": "[Puchuchartan]\nNo one from Rune-Midgard has \nvisited me without some purpose\nand I do not think that you\nare an exception.",
+        "en-US": "[Puchuchartan]\nNo one from Rune-Midgard has\nvisited me without some purpose\nand I do not think that you\nare an exception.",
         "pt-BR": "[Puchuchartan]\nNinguém de Rune-Midgard me visitou \nsem algum propósito\ne não acho que você\nseja uma exceção.",
         "es-ES": "[Puchuchartan]\nNadie de Rune-Midgard \nme visitó sin tener intenciones ocultas\ny no creo que tú \nseas la excepción."
     },
@@ -465,7 +465,7 @@
         "es-ES": "[Puchuchartan]\nEl Stainer… el escarabajo\nque vuela por el cielo\ntiene el espíritu del viento.\nNecesito ^3377FF25 Caparazones arcoíris^000000."
     },
     "nb6h": {
-        "en-US": "[Puchuchartan]\nDo you wish to divide a pure\nenchanted stone into rough ones?\nWhich property do you want to\ndivide? Earth, Water, Fire, Wind... \nChoose one.",
+        "en-US": "[Puchuchartan]\nDo you wish to divide a pure\nenchanted stone into rough ones?\nWhich property do you want to\ndivide? Earth, Water, Fire, Wind...\nChoose one.",
         "pt-BR": "[Puchuchartan]\nVocê deseja dividir uma pedra pura\ne encantada em pedras brutas?\nQual propriedade você deseja\ndividir? Terra, Água, Fogo, Vento... \nEscolha uma.",
         "es-ES": "[Puchuchartan]\n¿Quieres dividir una piedra encantada\npura en piedras en bruto?\n¿Qué propiedad deseas\ndividir? Tierra, agua, fuego, viento… \nElige una."
     },

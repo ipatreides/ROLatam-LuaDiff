@@ -19563,6 +19563,24 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "Arma de la Creencia Purificada"
+		},
+		PerfectSize_Up = {
+			ItemID = 101362,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_PerfectSize_Armor",
+					24426
+				},
+				{
+					"S_PerfectSize_Weapon",
+					24425
+				}
+			},
+			NeedSource_String = "Sombria Perfeita"
 		}
 	},
 	get_lapine_box = function(in_box_id)

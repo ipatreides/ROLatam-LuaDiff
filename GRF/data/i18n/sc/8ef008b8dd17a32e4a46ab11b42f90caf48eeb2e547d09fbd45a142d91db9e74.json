@@ -1041,17 +1041,17 @@
     },
     "8NjXAg": {
         "en-US": "Shouting Valkyrie: Someone must have fallen inside the Temple. I can hear the demons in there laughing.",
-        "pt-BR": "- Você não pode prosseguir sem deixar seu inventário mais leve. -",
+        "pt-BR": "Valquíria, gritando: Alguém deve ter caído no Templo. Consigo ouvir os demônios gargalhando daqui.",
         "es-ES": "Valkiria gritando: Alguien se debe haber caído dentro del templo. Puedo oír a los demonios ahí dentro riendo."
     },
     "8djXAg": {
         "en-US": "- Please empty your inventory to proceed with this quest. -",
-        "pt-BR": "[Valquíria]\nSe quiser falar comigo, terá de ^006400cancelar todos os contratos^000000 que tiver com os mercenários.",
+        "pt-BR": "- Você não pode prosseguir sem deixar seu inventário mais leve. -",
         "es-ES": "-Vacía tu inventario para proceder con esta misión.-"
     },
     "8tjXAg": {
         "en-US": "[Valkyrie]\nIf you want to talk to me, you must ^3131FFcancel all the contracts^000000 you're on.",
-        "pt-BR": "Você não pode progredir sem usar todos os seus pontos de habilidade. Por favor, use todos os seus pontos de habilidade antes de avançar.",
+        "pt-BR": "[Valquíria]\nSe quiser falar comigo, terá de ^3131FFcancelar todos os contratos^000000 que tiver com os mercenários.",
         "es-ES": "[Valkiria]\nSi quieres hablar conmigo, debes ^3131FFcancelar todos los contratos^000000 que tienes."
     },
     "89jXAg": {

@@ -11838,11 +11838,12 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[5471] = {
-		Title = "[Wanted]",
+		Title = "(Wanted)",
 		Description = {
-			"Defeat Entweihen Crothen in the Endless Tower."
+			"The Prontera Royal Family is offering a reward to anyone who defeats Entweihen Crothen, the boss of Constellation Tower.",
+			"Bounty Union Token 300."
 		},
-		Summary = "Union Coin: 300"
+		Summary = "Bounty Union Token 300"
 	},
 	[5472] = {
 		Title = "[Wanted]",
@@ -37053,6 +37054,56 @@ QuestInfoList = {
 		},
 		Summary = "Not yet dead."
 	},
+	[12513] = {
+		Title = "Cause of the Tower's Destruction",
+		Description = {
+			"It seems the one behind this commotion has taken residence inside the half-destroyed tower. Let us find out just what kind of being it is."
+		},
+		Summary = "The New Master of the Tower"
+	},
+	[12514] = {
+		Title = "Aftereffects of Entering the Tower",
+		Description = {
+			"Entering and leaving this place consumes a great deal of mental strength. Even if you still have business here, it would be best to return after 3 days have passed."
+		},
+		Summary = "Reentry after 3 days at 4:00 AM",
+		CoolTimeQuest = 1
+	},
+	[12515] = {
+		Title = "Facing the New Master of the Tower",
+		Description = {
+			"The new master of the tower did not kill all of its residents. That is truly merciful, but seeing the monsters driven down from above makes it impossible to imagine just how powerful he is."
+		},
+		Summary = "Let us be cautious."
+	},
+	[12516] = {
+		Title = "The Fountain's Secret 1",
+		Description = {
+			"Win after amplifying Betelgeuse's strength by 300% or more. A function will be added that uses <ITEM>Meteor Dust<INFO>1000372</INFO></ITEM> to raise a specific difficulty to its limit."
+		},
+		Summary = "Enhance Specific Stat"
+	},
+	[12517] = {
+		Title = "The Fountain's Secret 1",
+		Description = {
+			"Win after amplifying Betelgeuse's strength by 600% or more. A function will be added that uses <ITEM>Meteor Dust<INFO>1000372</INFO></ITEM> to seal a specific difficulty at 0."
+		},
+		Summary = "Seal Specific Stat"
+	},
+	[12518] = {
+		Title = "The Expelled Being",
+		Description = {
+			"A tectonic shift has clearly occurred in the tower's ecosystem. Before confirming who now sits on the changed throne, a clean sweep will be necessary."
+		},
+		Summary = "It is about time you left."
+	},
+	[12519] = {
+		Title = "Whereabouts of the Original Master",
+		Description = {
+			"If the tower has ended up like this, the being that originally ruled this place cannot have escaped unharmed either."
+		},
+		Summary = "There may be nothing much to see anymore."
+	},
 	[12520] = {
 		Title = "Villa of Deception",
 		Description = {
@@ -37154,6 +37205,28 @@ QuestInfoList = {
 			"<NAVI>[Estimated Location]<INFO>gw_fild01,228,59,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Recover the goods."
+	},
+	[12540] = {
+		Title = "Sunken Tower",
+		Description = {
+			"Someone is urgently needed to clear out the twisted beings running rampant beneath the tower destroyed by Betelgeuse."
+		},
+		Summary = "Underground Purification"
+	},
+	[12541] = {
+		Title = "High Tide Time",
+		Description = {
+			"You cannot enter Sunken Tower while the tide is coming in."
+		},
+		Summary = "Re-enter at 4:00 AM after 3 days",
+		CoolTimeQuest = 1
+	},
+	[12542] = {
+		Title = "Goddess's Blessing",
+		Description = {
+			"The goddess's blessing is with you. If you reach a certain point while carrying this blessing, it will aid your growth."
+		},
+		Summary = "Let us descend at once."
 	},
 	[12543] = {
 		Title = "",
@@ -44978,162 +45051,162 @@ QuestInfoList = {
 		Summary = "Change to Inquisitor"
 	},
 	[16461] = {
-		Title = "Tomb of Remorse",
+		Title = "Tomb of Regret",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"The <NAVI>[Princess]<INFO>dali,124,88,0,101,0</INFO></NAVI> of a strange kingdom seems to have a favor to ask the adventurer."
+			"The <NAVI>[princess]<INFO>dali,124,88,0,101,0</INFO></NAVI> of an unfamiliar kingdom seems to have a favor to ask the adventurer."
 		},
-		Summary = "Talk to the Princess"
+		Summary = "Talk to Princess of Regret"
 	},
 	[16462] = {
-		Title = "Tomb of Remorse",
+		Title = "Tomb of Regret",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"To hear more of the princess's story, let's follow <NAVI>[her]<INFO>dali,79,112,0,101,0</INFO></NAVI>."
+			"To hear more of the princess's story, follow <NAVI>[after]<INFO>dali,79,112,0,101,0</INFO></NAVI> her."
 		},
-		Summary = "Talk to the Princess"
+		Summary = "Talk to Princess of Regret"
 	},
 	[16463] = {
-		Title = "Tomb of Remorse",
+		Title = "Tomb of Regret",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"After listening to <NAVI>[Princess]<INFO>dali02,78,116,0,101,0</INFO></NAVI>'s story, let's head to the Tomb of Remorse."
+			"After hearing the <NAVI>[princess]<INFO>dali02,78,116,0,101,0</INFO></NAVI>'s story, head to Tomb of Regret."
 		},
-		Summary = "Talk to the Princess"
+		Summary = "Talk to Princess of Regret"
 	},
 	[16464] = {
-		Title = "[Cooldown] Tomb of Remorse",
+		Title = "Tomb of Regret",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"This quest can be accepted again once the cooldown expires. Quest can be accepted through <NAVI>[Princess of Sorrow]<INFO>dali02,78,116,0,101,0</INFO></NAVI>."
+			"This is a daily quest. Once the cooldown expires, it can be accepted and completed again. The quest can be accepted through <NAVI>[Princess of Regret]<INFO>dali02,78,116,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reset at 04.00",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
 	[16465] = {
-		Title = "The Thread of a Broken Relationship",
+		Title = "Thread of a Severed Bond",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI> hopes to send the Magic Swordman Sakray, who has no relationship with the princess, out of the palace. "
+			"<NAVI>[Marquis of Regret]<INFO>dali02,78,112,0,101,0</INFO></NAVI> wants Magic Swordsman Sakray, who no longer has even a single thread of connection to the princess, to be driven out of the palace."
 		},
 		Summary = ""
 	},
 	[16466] = {
-		Title = "[Cooldown] The Thread of a Broken Relationship",
+		Title = "Thread of a Severed Bond-Cooldown",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"This quest can be accepted again once the cooldown expires. Quest can be accepted through <NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
+			"This is a daily quest. Once the cooldown expires, it can be accepted and completed again. The quest can be accepted through <NAVI>[Marquis of Regret]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reset at 04.00",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
 	[16467] = {
-		Title = "Lament of the Princess",
+		Title = "Cutting Through Tears",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI> wants you to put rest to the Princess who already lost her mind."
+			"By the princess's command, <NAVI>[Marquis of Regret]<INFO>dali02,78,112,0,101,0</INFO></NAVI> wants you to subdue the princess, who has lost her reason and is attacking."
 		},
 		Summary = ""
 	},
 	[16468] = {
-		Title = "[Cooldown] Lament of the Princess",
+		Title = "Cutting Through Tears-Cooldown",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"This quest can be accepted again once the cooldown expires. Quest can be accepted through <NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
+			"This is a daily quest. Once the cooldown expires, it can be accepted and completed again. The quest can be accepted through <NAVI>[Marquis of Regret]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reset at 04.00",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
 	[16469] = {
 		Title = "Fragmented Memories",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI> wants you to collect 3 Memories to find out the full story of the incident."
+			"To learn the full story of the incident, <NAVI>[Marquis of Regret]<INFO>dali02,78,112,0,101,0</INFO></NAVI> wants you to collect 3 fragments of memory."
 		},
 		Summary = ""
 	},
 	[16470] = {
-		Title = "[Cooldown] Fragmented Memories",
+		Title = "Fragmented Memories-Cooldown",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"This quest can be accepted again once the cooldown expires. Quest can be accepted through <NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
+			"This is a daily quest. Once the cooldown expires, it can be accepted and completed again. The quest can be accepted through <NAVI>[Marquis of Regret]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reset at 04.00",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
 	[16471] = {
-		Title = "Fragmented Past",
+		Title = "Shattered Past",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI> wants you to collect 10 Fragment of the Past so that their presence will not be forgotten."
+			"To ensure that the fact they existed is not forgotten, <NAVI>[Marquis of Regret]<INFO>dali02,78,112,0,101,0</INFO></NAVI> wants you to collect 10 fragments of the past."
 		},
 		Summary = ""
 	},
 	[16472] = {
-		Title = "[Cooldown] Fragmented Past",
+		Title = "Shattered Past-Cooldown",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"This quest can be accepted again once the cooldown expires. Quest can be accepted through <NAVI>[Marquis]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
+			"This is a daily quest. Once the cooldown expires, it can be accepted and completed again. The quest can be accepted through <NAVI>[Marquis of Regret]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reset at 04.00",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
 	[16473] = {
-		Title = "Memory Fragment",
+		Title = "Fragment of Memory",
 		IconName = "ico_dq.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[16474] = {
-		Title = "Memory Fragment",
+		Title = "Fragment of Memory",
 		IconName = "ico_dq.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[16475] = {
-		Title = "Memory Fragment",
+		Title = "Fragment of Memory",
 		IconName = "ico_dq.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[16476] = {
-		Title = "Memory Fragment",
+		Title = "Fragment of Memory",
 		IconName = "ico_dq.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[16477] = {
-		Title = "Memory Fragment",
+		Title = "Fragment of Memory",
 		IconName = "ico_dq.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[16478] = {
-		Title = "Memory Fragment",
+		Title = "Fragment of Memory",
 		IconName = "ico_dq.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[16479] = {
-		Title = "Memory Fragment",
+		Title = "Fragment of Memory",
 		IconName = "ico_dq.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[16480] = {
-		Title = "Memory Fragment",
+		Title = "Fragment of Memory",
 		IconName = "ico_dq.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[16481] = {
-		Title = "Memory Fragment",
+		Title = "Fragment of Memory",
 		IconName = "ico_dq.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[16482] = {
-		Title = "Memory Fragment",
+		Title = "Fragment of Memory",
 		IconName = "ico_dq.bmp",
 		Description = {""},
 		Summary = ""
@@ -73276,459 +73349,172 @@ QuestInfoList = {
 		},
 		Summary = "Battle Pass Season 1 Mission Complete"
 	},
-	[297001] = {
-		Title = "Talk to Pvt Woods Goofus",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Speak with <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI>  in Hugel Field 5."
-		},
-		Summary = "Talk to Pvt Woods"
-	},
-	[297002] = {
-		Title = "Collect 30 Little Evil Horns",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Speak with <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI>  in Hugel Field 5 after collecting 30 <ITEM>Little Evil Horn<INFO>1038</INFO></ITEM>."
-		},
-		Summary = "Talk to Pvt Woods"
-	},
-	[297003] = {
-		Title = "Bring Horns to Maria in Hugel",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Bring the 30 <ITEM>Little Evil Horn<INFO>1038</INFO></ITEM> to <NAVI>[Maria]<INFO>hu_in01,245,31,0,101,0</INFO></NAVI> in Hugel. Maria is inside this <NAVI>[House]<INFO>hugel,104,79,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Talk to Maria"
-	},
-	[297004] = {
-		Title = "Talk to Lt. Don Tyler in Hugel",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Speak with <NAVI>[Lt. Don Tyler]<INFO>hugel,78,90,0,101,0</INFO></NAVI> in Hugel."
-		},
-		Summary = "Talk to Lt. Don"
-	},
-	[297005] = {
-		Title = "Go back to Pvt. Woods Goofus",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Speak with <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> in Hugel Field 5."
-		},
-		Summary = "Talk to Pvt. Woods"
-	},
-	[297006] = {
-		Title = "Search the Northside for Buddy",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Search for Pvt. Buddy in Hugel field 5 <NAVI>[Pvt. Buddy Indiho]<INFO>hu_fild05,243,304,0,101,0</INFO></NAVI> in Hugel Field 5."
-		},
-		Summary = "Search Pvt. Buddy"
-	},
-	[297007] = {
-		Title = "Tell Woods about Buddy",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Tell Woods about Buddy condition <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> in Hugel Field 5."
-		},
-		Summary = "Talk to Pvt. Woods"
-	},
-	[297008] = {
-		Title = "Tell Lt. Don about Buddy",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Tell Lt. Don about Buddy condition <NAVI>[Lt. Don Tyler]<INFO>hugel,78,90,0,101,0</INFO></NAVI> in Hugel."
-		},
-		Summary = "Talk to Lt. Don"
-	},
-	[297009] = {
-		Title = "Buddy's Alive, go see him",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"The corpse you are seing in Hugel field 5 is not Buddy. Go to <NAVI>[Pvt. Buddy Indigo]<INFO>hu_in01,361,112,0,101,0</INFO></NAVI>. Pvt. Buddy is inside this <NAVI>[House]<INFO>hugel,128,66,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Talk to Pvt. Buddy"
-	},
-	[297010] = {
-		Title = "Talk to Chefcular Meow",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Pvt. Buddy ask you to go to <NAVI>[Chefcular Meow]<INFO>hu_in01,377,108,0,101,0</INFO></NAVI>. Chefcular Meow is inside this <NAVI>[House]<INFO>hugel,128,66,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Talk to Chefcular Meow"
-	},
-	[297011] = {
-		Title = "Chefcular needs Ingredients",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"<NAVI>[Chefcular Meow]<INFO>hu_in01,377,108,0,101,0</INFO></NAVI> ask you to bring him 30 of each : <ITEM>Cyfar<INFO>7053</INFO></ITEM>, <ITEM>Brigan<INFO>7054</INFO></ITEM>, <ITEM>Tongue<INFO>1015</INFO></ITEM>, <ITEM>Little Evil Horn<INFO>1038</INFO></ITEM>, <ITEM>Rusty Kitchen Knife<INFO>7208</INFO></ITEM>. Chefcular Meow is inside this <NAVI>[House]<INFO>hugel,128,66,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Bring Items to Chefcular Meow"
-	},
-	[297012] = {
-		Title = "Go back to Maria in Hugel",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Go back to <NAVI>[Maria]<INFO>hu_in01,245,31,0,101,0</INFO></NAVI> in hugel. Maria is inside this <NAVI>[House]<INFO>hugel,104,79,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Talk to Maria"
-	},
-	[297013] = {
-		Title = "Go see Derpy Cupid in Malangdo",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Go to Malangdo and talk to <NAVI>[Derpy Cupid]<INFO>malangdo,187,226,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Talk to Derpy"
-	},
-	[297014] = {
-		Title = "Bring Derpy's Confession to Lt. Don in Hugel",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Talk to <NAVI>[Lt. Don Tyler]<INFO>hugel,78,90,0,101,0</INFO></NAVI> in Hugel."
-		},
-		Summary = "Talk Lt. Don"
-	},
-	[297015] = {
-		Title = "Phendark Hunting",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Lt. Don Tyler ask to Defeat 100 Phendark. There is a rumor said that this monster also spawn in hu_fild05, abyss_01, and abyss_02"
-		},
-		Summary = "Talk Pvt. Woods after finish"
-	},
-	[297016] = {
-		Title = "Bloody Murderer Hunting",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Lt. Don Tyler ask to Defeat 100 Bloody Murderer. There is a rumor said that this monster also spawn in hu_fild05, abyss_01, and abyss_02."
-		},
-		Summary = "Talk Pvt. Woods after finish"
-	},
-	[297017] = {
-		Title = "Injustice Hunting",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Lt. Don Tyler ask to Defeat 100 Injustice. There is a rumor said that this monster also spawn in hu_fild05, abyss_01, and abyss_02."
-		},
-		Summary = "Talk Pvt. Woods after finish"
-	},
-	[297018] = {
-		Title = "Deviruchi Hunting",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Lt. Don Tyler ask to Defeat 100 Deviruchi. There is a rumor said that this monster also spawn in hu_fild05, abyss_01, and abyss_02."
-		},
-		Summary = "Talk Pvt. Woods after finish"
-	},
-	[297019] = {
-		Title = "Rybio Hunting",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Lt. Don Tyler ask to Defeat 100 Rybio. There is a rumor said that this monster also spawn in hu_fild05, abyss_01, and abyss_02."
-		},
-		Summary = "Talk Pvt. Woods after finish"
-	},
-	[297020] = {
-		Title = "Finish All Hunting",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"After finishing all hunting quest, report to <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Talk Pvt. Woods after finish"
-	},
-	[297021] = {
-		Title = "Phendark Hunting - Finished",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Phendark Hunting quest is Finished, talk to <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> after you finishing all hunting quest."
-		},
-		Summary = "Hunt Phendark done"
-	},
-	[297022] = {
-		Title = "Bloody Murderer Hunting - Finished",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Bloody Murderer Hunting quest is Finished, talk to <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> after you finishing all hunting quest."
-		},
-		Summary = "Hunt Bloody Murderer done"
-	},
-	[297023] = {
-		Title = "Injustice Hunting - Finished",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Injustice Hunting quest is Finished, talk to <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> after you finishing all hunting quest."
-		},
-		Summary = "Hunt Injustice done"
-	},
-	[297024] = {
-		Title = "Deviruchi Hunting - Finished",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Deviruchi Hunting quest is Finished, talk to <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> after you finishing all hunting quest."
-		},
-		Summary = "Hunt Deviruchi done"
-	},
-	[297025] = {
-		Title = "Rybio Hunting - Finished",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Rybio Hunting quest is Finished, talk to <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> after you finishing all hunting quest."
-		},
-		Summary = "Hunt Rybio done"
-	},
-	[297026] = {
-		Title = "Go see Lt. Don Tyler in Hugel",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Speak with <NAVI>[Lt. Don Tyler]<INFO>hugel,78,90,0,101,0</INFO></NAVI> in Hugel."
-		},
-		Summary = "Talk to Lt. Do"
-	},
-	[297027] = {
-		Title = "Go speak with Maria in Hugel",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Talk to <NAVI>[Maria]<INFO>hu_in01,245,31,0,101,0</INFO></NAVI> in hugel. Maria is inside this <NAVI>[House]<INFO>hugel,104,79,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Talk to Maria"
-	},
-	[297028] = {
-		Title = "Give Derpy Cupid his Pardon in Malangdo",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Go to Malangdo and talk to <NAVI>[Derpy Cupid]<INFO>malangdo,187,226,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Talk to Derpy"
-	},
-	[297029] = {
-		Title = "Easter Egg Hunt",
-		Description = {
-			"Let's find 5 easter eggs. It is probably somewhere in lasagna field."
-		},
-		Summary = "Talk to Eggministrator"
-	},
-	[297030] = {
-		Title = "Easter Egg Hunt Complete",
-		Description = {
-			"Found all easter eggs. Talk to <NAVI>Eggministrator<INFO>lasagna.gat,204,194,0,101,0</INFO></NAVI> in Lasagna."
-		},
-		Summary = "Talk to Eggministrator"
-	},
-	[297031] = {
-		Title = "[Cooldown] Easter Egg Hunt",
-		Description = {
-			"Talk to <NAVI>Eggministrator<INFO>lasagna.gat,204,194,0,101,0</INFO></NAVI> in Lasagna.",
-			"Joined Easter Egg Hunt already. Try again after ^ff000020 hours^000000 to join the Egg Hunt."
-		},
-		Summary = "Reset every 20 hours",
-		CoolTimeQuest = 1
-	},
-	[297032] = {
-		Title = "[Event] Lullaby for the Lily (1)",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Maya, a spiritualist from a certain organization, has been dispatched to Geffen to calm the ^4D4DFFspirit disturbance^000000 occurring during the ^4D4DFFFestival of the Dead^000000.",
-			"It seems there is a huge spirit disturbance found ^4D4DFFnear the Orc Village^000000 and it's somehow related to a ^4D4DFFfamous urban legend^000000 in Rune Midgard.",
-			"So, she is looking for an experienced adventurer to investigate the location and perform a spirit cleansing there.",
-			"",
-			"Well, you seem interested in this so-called spirit cleansing and decided to take up the request.",
-			"Let's visit the <NAVI>[Entrance to Orc Dungeon]<INFO>in_orcs01,43,167,0,101,0</INFO></NAVI> and see whether the legend is true.",
-			"",
-			"^FF0000Client Info^000000",
-			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
-			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
-			""
-		},
-		Summary = "Investigate the location",
-		NpcSpr = "4_F_MALAYA",
-		NpcNavi = "geffen",
-		NpcPosX = 40,
-		NpcPosY = 141
-	},
-	[297033] = {
-		Title = "[Event] Lullaby for the Lily (2)",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"You found the mysterious novice inside the entrance to the Orc Dungeon. Maya is also following you in her 'spirit form'.",
-			"But as soon as you approached the novice, she suddenly screamed, and everything went crazy.",
-			"",
-			"When you realized, you had been teleported to another place, and it's not looking good.",
-			"Yes. There's an <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI> waiting in front of you.",
-			"Why don't you gather up courage and try talking to it?",
-			"",
-			"^FF0000Client Info^000000",
-			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
-			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
-			""
-		},
-		Summary = "Talk to Ominous Spirit",
-		NpcSpr = "4_F_MALAYA",
-		NpcNavi = "geffen",
-		NpcPosX = 40,
-		NpcPosY = 141
-	},
-	[297034] = {
-		Title = "[Event] Spirit Cleansing",
+	[295490] = {
+		Title = "Battle Pass Daily 1-1",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You have been tasked with purifying 5 spirit fragments that are scattered within this building complex to weaken that <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>.",
-			"Let's show them that you are a talented adventurer, and maybe the organization will offer you a new job.",
-			"",
-			"Just walk around this area, and you might bump into one of the spirits.",
-			"",
-			"^FF0000Client Info^000000",
-			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
-			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
-			""
+			"Defeat 40 Pitaya (Red) and 40 Pitaya (Yellow) at [Palm Lost Valley]ba_lost,160,60,0,101,0"
 		},
-		Summary = "Purify 5 Spirits",
-		NpcSpr = "4_F_MALAYA",
-		NpcNavi = "geffen",
-		NpcPosX = 40,
-		NpcPosY = 141
+		Summary = "Defeat 40 Pitaya (Red) and 40 Pitaya (Yellow)"
 	},
-	[297035] = {
-		Title = "[Event] Lullaby for the Lily (3)",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"It seems you have purified enough spirits to weaken the <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>.",
-			"Who would have thought that this spirit is the one who torments Tiger Lily's soul?",
-			"",
-			"Let's go back and confront the spirit once and for all.",
-			"",
-			"Of course, Maya will do the job.",
-			"",
-			"^FF0000Client Info^000000",
-			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
-			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
-			""
-		},
-		Summary = "Confront Ominous Spirit",
-		NpcSpr = "4_F_MALAYA",
-		NpcNavi = "geffen",
-		NpcPosX = 40,
-		NpcPosY = 141
-	},
-	[297036] = {
-		Title = "[Event] Lullaby for the Lily (4)",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"The ominous spirit has been purified. Tiger Lily's soul is no longer imprisoned by these malicious entities.",
-			"",
-			"Now, we might be able to purify <NAVI>[Tiger Lily]<INFO>in_orcs01,43,167,0,101,0</INFO></NAVI> and let her rest in peace once and for all.",
-			"",
-			"It's time to say goodbye for the last time to her.",
-			"",
-			"^FF0000Client Info^000000",
-			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
-			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
-			""
-		},
-		Summary = "Purify Tiger Lily",
-		NpcSpr = "4_F_MALAYA",
-		NpcNavi = "geffen",
-		NpcPosX = 40,
-		NpcPosY = 141
-	},
-	[297037] = {
-		Title = "[Event] Lullaby for the Lily (5)",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"The tormented soul of a novice has been released, and she already left this world in peace.",
-			"",
-			"But I think I heard some weird things that come from that novice.",
-			"",
-			"Well, let's just talk to <NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> and end this bizzare adventure.",
-			"",
-			"^FF0000Client Info^000000",
-			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
-			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
-			""
-		},
-		Summary = "Talk to Maya",
-		NpcSpr = "4_F_MALAYA",
-		NpcNavi = "geffen",
-		NpcPosX = 40,
-		NpcPosY = 141
-	},
-	[297038] = {
-		Title = "[Daily] Spirit Cleansing",
+	[295491] = {
+		Title = "Battle Pass: Defeat Pitaya - Standby",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You have accepted Maya's request to do a spirit cleansing today.",
-			"Let's dive into the spirit realm and finish it early before dinner.",
-			"",
-			"If I recall correctly, first, you need to talk to the <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>, right?",
-			"",
-			"^FF0000Client Info^000000",
-			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
-			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
-			""
+			"This quest is a daily quest. Once the standby time ends, you can receive it again. You can also accept the quest from the [Mission Board]prontera,194,297,0,101,0 of the Battle Pass 5 activity."
 		},
-		Summary = "Talk to Ominous Spirit",
-		NpcSpr = "4_F_MALAYA",
-		NpcNavi = "geffen",
-		NpcPosX = 40,
-		NpcPosY = 141
+		Summary = "Resets at 04:00"
 	},
-	[297039] = {
-		Title = "[Daily] Spirit Cleansing",
+	[295492] = {
+		Title = "Battle Pass Daily 1-2",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"It seems you have purified enough spirits to weaken the <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>.",
-			"",
-			"Let's confront the spirit and finish the job quickly.",
-			"Well, Maya will be the one who does the job, though.",
-			"",
-			"^FF0000Client Info^000000",
-			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
-			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
-			""
+			"Defeat 40 Pitaya (Blue) and 40 Pitaya (Violet) at [Palm Lost Valley]ba_lost,160,60,0,101,0"
 		},
-		Summary = "Confront Ominous Spirit",
-		NpcSpr = "4_F_MALAYA",
-		NpcNavi = "geffen",
-		NpcPosX = 40,
-		NpcPosY = 141
+		Summary = "Defeat 40 Pitaya (Blue) and 40 Pitaya (Violet)"
 	},
-	[297040] = {
-		Title = "[Daily] Spirit Cleansing",
+	[295493] = {
+		Title = "Battle Pass: Collect Piece of Memory - Standby",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You have completed today's Spirit Cleansing session.",
-			"",
-			"Let's report to 'real' Maya and claim your rewards.",
-			"",
-			"^FF0000Client Info^000000",
-			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
-			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
-			""
+			"This quest is a daily quest. Once the standby time ends, you can receive it again. You can also accept the quest from the [Mission Board]prontera,194,297,0,101,0 of the Battle Pass 5 activity."
 		},
-		Summary = "Talk to Maya",
-		NpcSpr = "4_F_MALAYA",
-		NpcNavi = "geffen",
-		NpcPosX = 40,
-		NpcPosY = 141
+		Summary = "Resets at 04:00"
 	},
-	[297041] = {
-		Title = "[Cooldown] Spirit Cleansing",
+	[295494] = {
+		Title = "Battle Pass Daily 1-3",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You have done enough today.",
-			"^FF0000Too many spirit cleansings will take a toll on your body.^000000",
-			"",
-			"Let's return to Maya after 20 hours if you want to do another spirit cleansing.",
-			"",
-			"^FF0000Client Info^000000",
-			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
-			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
-			""
+			"Defeat 40 Pitaya (Green) and 10 of each other color at [Palm Lost Valley]ba_lost,160,60,0,101,0"
 		},
-		Summary = "Reset after 20 hours",
-		CoolTimeQuest = 1,
-		NpcSpr = "4_F_MALAYA",
-		NpcNavi = "geffen",
-		NpcPosX = 40,
-		NpcPosY = 141
+		Summary = "Defeat 40 Pitaya (Green) and 10 of each other color"
+	},
+	[295495] = {
+		Title = "Battle Pass: Memorial Dungeon 17.2 Exploration - Standby",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest. Once the standby time ends, you can receive it again. You can also accept the quest from the [Mission Board]prontera,194,297,0,101,0 of the Battle Pass 5 activity."
+		},
+		Summary = "Resets at 04:00"
+	},
+	[295496] = {
+		Title = "Battle Pass Daily 3-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 1 Sweety at [Sweety]ba_in01,32,250,0,101,0"
+		},
+		Summary = "Defeat 1 Sweety"
+	},
+	[295497] = {
+		Title = "Battle Pass: Defeat Monsters in Thanatos Tower - Standby",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest. Once the standby time ends, you can receive it again. You can also accept the quest from the [Mission Board]prontera,194,297,0,101,0 of the Battle Pass 5 activity."
+		},
+		Summary = "Resets at 04:00"
+	},
+	[295498] = {
+		Title = "Battle Pass Daily 3-2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 1 Silva Papilla at [Harad]ba_maison,238,44,0,101,0"
+		},
+		Summary = "Defeat 1 Silva Papilla"
+	},
+	[295499] = {
+		Title = "Battle Pass: Defeat Senior Red Pepper - Standby",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest. Once the standby time ends, you can receive it again. You can also accept the quest from the [Mission Board]prontera,194,297,0,101,0 of the Battle Pass 5 activity."
+		},
+		Summary = "Resets at 04:00"
+	},
+	[295500] = {
+		Title = "Battle Pass Daily 3-3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 1 boss Meow at [Sweety]ba_maison,311,206,0,101,0"
+		},
+		Summary = "Defeat 1 boss Meow"
+	},
+	[295501] = {
+		Title = "Battle Pass: Defeat Thanatos Phantom or Broken Thanatos - Standby",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest. Once the standby time ends, you can receive it again. You can also accept the quest from the [Mission Board]prontera,194,297,0,101,0 of the Battle Pass 5 activity."
+		},
+		Summary = "Resets at 04:00"
+	},
+	[295502] = {
+		Title = "Battle Pass Daily 4-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 5 Void Mimic and 5 Book of Death each at [Room of Pain]tha_t09,20,99,0,101,0"
+		},
+		Summary = "Defeat 5 Void Mimic and 5 Book of Death each"
+	},
+	[295503] = {
+		Title = "Battle Pass Season Quest 5 - Completed",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have completed a total of 444 daily quests."
+		},
+		Summary = "Congratulations. You are a very dedicated player."
+	},
+	[295504] = {
+		Title = "Battle Pass Daily 4-2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 5 Eldest and 10 Crow Duke at [Room of Pain]tha_t09,20,99,0,101,0"
+		},
+		Summary = "Defeat 5 Eldest and 10 Crow Duke"
+	},
+	[295506] = {
+		Title = "Battle Pass Daily 4-3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 15 Crow Baron at [Room of Pain]tha_t09,20,99,0,101,0"
+		},
+		Summary = "Defeat 15 Crow Baron"
+	},
+	[295508] = {
+		Title = "Battle Pass Daily 5",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 1 Senior Red Pepper at [Lamda (Hard)]ba_maison,120,321,0,101,0"
+		},
+		Summary = "Defeat 1 Senior Red Pepper"
+	},
+	[295510] = {
+		Title = "Battle Pass Daily 6-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 1 Thanatos Phantom at [Memories of Thanatos]thana_step,154,367,0,101,0"
+		},
+		Summary = "Defeat 1 Thanatos Phantom"
+	},
+	[295511] = {
+		Title = "Battle Pass Daily 6-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Defeat 1 Broken Thanatos at [Memories of Thanatos]thana_step,154,367,0,101,0"
+		},
+		Summary = "Defeat 1 Broken Thanatos"
+	},
+	[295512] = {
+		Title = "Battle Pass Daily 2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Collect 3 Piece of Memory of each color at [Room of Hatred]tha_t12,129,51,0,101,0"
+		},
+		Summary = "Collect 3 Piece of Memory of each color"
+	},
+	[295513] = {
+		Title = "Battle Pass Season Quest 5",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"After completing a total of 444 daily quests, you can check your progress at the [Mission Board]prontera,194,297,0,101,0 of the Battle Pass 5 activity."
+		},
+		Summary = "Complete a total of 444 daily quests"
 	}
 }

@@ -657,10 +657,10 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["1@tcamp.rsw"] = {
-		displayName = "Campo Militar do Vulcão",
+		displayName = "Base Militar do Vulcão Thor",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Campo Militar"
+			mainTitle = "Base Militar de Thor"
 		},
 		backgroundBmp = "noname_s2"
 	},
@@ -2688,18 +2688,18 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["gw_fild01.rsw"] = {
-		displayName = "Bosque do Lobo Cinzento (1)",
+		displayName = "Floresta do Lobo Cinzento (1)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Bosque Cinzento"
+			mainTitle = "Floresta Cinzenta"
 		},
 		backgroundBmp = "field_s2"
 	},
 	["gw_fild02.rsw"] = {
-		displayName = "Bosque do Lobo Cinzento (2)",
+		displayName = "Floresta do Lobo Cinzento (2)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Bosque Cinzento"
+			mainTitle = "Floresta Cinzenta"
 		},
 		backgroundBmp = "field_s2"
 	},
@@ -4628,18 +4628,18 @@ mapTbl = {
 		displayName = "Batalha de Provação"
 	},
 	["oz_dun01.rsw"] = {
-		displayName = "Labirinto Oz (1)",
+		displayName = "Labirinto de Oz (1)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Labirinto Oz (1)"
+			mainTitle = "Labirinto de Oz (1)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["oz_dun02.rsw"] = {
-		displayName = "Labirinto Oz (2)",
+		displayName = "Labirinto de Oz (2)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Labirinto Oz (2)"
+			mainTitle = "Labirinto de Oz (2)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -6088,10 +6088,10 @@ mapTbl = {
 		backgroundBmp = "field2"
 	},
 	["ra_fild02.rsw"] = {
-		displayName = "Cânion de Oz",
+		displayName = "Desfiladeiro de Oz",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Cânion de Oz"
+			mainTitle = "Desfiladeiro de Oz"
 		},
 		backgroundBmp = "field_s2"
 	},
@@ -6132,10 +6132,10 @@ mapTbl = {
 		backgroundBmp = "field2"
 	},
 	["ra_fild07.rsw"] = {
-		displayName = "Cânion de Oz",
+		displayName = "Desfiladeiro de Oz",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Cânion de Oz"
+			mainTitle = "Desfiladeiro de Oz"
 		},
 		backgroundBmp = "field_s2"
 	},
@@ -6157,11 +6157,11 @@ mapTbl = {
 		backgroundBmp = "field_s2"
 	},
 	["ra_fild10.rsw"] = {
-		displayName = "Cânion de Oz",
+		displayName = "Desfiladeiro de Oz",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Arredores de Rachel (10)",
-			mainTitle = "Cânion de Oz"
+			mainTitle = "Desfiladeiro de Oz"
 		},
 		backgroundBmp = "field"
 	},
@@ -8275,6 +8275,23 @@ mapTbl = {
 			mainTitle = "Fazenda Temática do Kumamoto"
 		},
 		backgroundBmp = "village"
+	},
+	["1@ch_u.rsw"] = {
+		displayName = "Torre Afundada",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Área Corrompida da Antiga Torre Sem Fim",
+			mainTitle = "Torre Afundada"
+		},
+		backgroundBmp = "noname"
+	},
+	["1@spa2.rsw"] = {
+		displayName = "Túmulo do Arrependimento",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Túmulo do Arrependimento"
+		},
+		backgroundBmp = "dungeon_s2"
 	}
 }
 function main()

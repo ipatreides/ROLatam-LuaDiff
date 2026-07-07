@@ -6212,6 +6212,310 @@ ReformInfo = {
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
 		}
+	},
+	[614] = {
+		BaseItem = "Beam_Claymore_AD",
+		Material = {Zelunium = 30, EP17_1_EVT39 = 30},
+		ResultItem = "Beam_Claymore_AD",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[615] = {
+		BaseItem = "Meuchler_AD",
+		Material = {Zelunium = 30, EP17_1_EVT39 = 30},
+		ResultItem = "Meuchler_AD",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[616] = {
+		BaseItem = "Blasti_AD",
+		Material = {Zelunium = 30, EP17_1_EVT39 = 30},
+		ResultItem = "Blasti_AD",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[617] = {
+		BaseItem = "Virtual_Bow_AD",
+		Material = {Zelunium = 30, EP17_1_EVT39 = 30},
+		ResultItem = "Virtual_Bow_AD",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[618] = {
+		BaseItem = "MH_P89_AD",
+		Material = {Zelunium = 30, EP17_1_EVT39 = 30},
+		ResultItem = "MH_P89_AD",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[619] = {
+		BaseItem = "AC_B44_AD",
+		Material = {Zelunium = 30, EP17_1_EVT39 = 30},
+		ResultItem = "AC_B44_AD",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[620] = {
+		BaseItem = "HR_S55_AD",
+		Material = {Zelunium = 30, EP17_1_EVT39 = 30},
+		ResultItem = "HR_S55_AD",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[621] = {
+		BaseItem = "Burning_Knuckle_AD",
+		Material = {Zelunium = 30, EP17_1_EVT39 = 30},
+		ResultItem = "Burning_Knuckle_AD",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[622] = {
+		BaseItem = "Cannon_Rapier_AD",
+		Material = {Zelunium = 30, EP17_1_EVT39 = 30},
+		ResultItem = "Cannon_Rapier_AD",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[623] = {
+		BaseItem = "Saphir_Hall_AD",
+		Material = {Zelunium = 30, EP17_1_EVT39 = 30},
+		ResultItem = "Saphir_Hall_AD",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[624] = {
+		BaseItem = "Ultio_Spes_AD",
+		Material = {Zelunium = 30, EP17_1_EVT39 = 30},
+		ResultItem = "Ultio_Spes_AD",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[625] = {
+		BaseItem = "Rutilus_Stick_AD",
+		Material = {Zelunium = 30, EP17_1_EVT39 = 30},
+		ResultItem = "Rutilus_Stick_AD",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[626] = {
+		BaseItem = "ElectricFox_AD",
+		Material = {Zelunium = 30, EP17_1_EVT39 = 30},
+		ResultItem = "ElectricFox_AD",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[627] = {
+		BaseItem = "Circuit_Board_AD",
+		Material = {Zelunium = 30, EP17_1_EVT39 = 30},
+		ResultItem = "Circuit_Board_AD",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[628] = {
+		BaseItem = "Kuroiro_AD",
+		Material = {Zelunium = 30, EP17_1_EVT39 = 30},
+		ResultItem = "Kuroiro_AD",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
+	},
+	[629] = {
+		BaseItem = "Boost_Lance_AD",
+		Material = {Zelunium = 30, EP17_1_EVT39 = 30},
+		ResultItem = "Boost_Lance_AD",
+		NeedRefineMin = 0,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas"
+		}
 	}
 }
 ReformItemList = {
@@ -6518,5 +6822,23 @@ ReformItemList = {
 		675,
 		676,
 		677
+	},
+	OS_Weapon_Hammer = {
+		614,
+		615,
+		616,
+		617,
+		618,
+		619,
+		620,
+		621,
+		622,
+		623,
+		624,
+		625,
+		626,
+		627,
+		628,
+		629
 	}
 }

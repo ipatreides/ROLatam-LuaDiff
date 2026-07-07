@@ -5,7 +5,7 @@
         "es-ES": "Instructor de entrenamiento"
     },
     "IVlUCg": {
-        "en-US": "[Tutorial Instructor]\nLately, it has been said that\nthey are developing ways to add options \nto put in sockets or add statuses\non equipment that normally don't have it.",
+        "en-US": "[Tutorial Instructor]\nLately, it has been said that\nthey are developing ways to add options\nto put in sockets or add statuses\non equipment that normally don't have it.",
         "pt-BR": "[Instrutor de Tutoriais]\nRecentemente tem se falado\nsobre possibilidade de adicionar\nespaços e atributos a equipamentos\nque normalmente não têm esses recursos.",
         "es-ES": "[Instructor de entrenamiento]\nÚltimamente se dice que\nestán desarrollando formas de añadir opciones \npara poner ranuras o añadir estados\na piezas de equipamiento que normalmente no los tienen."
     },
@@ -140,7 +140,7 @@
         "es-ES": "[Instructor de entrenamiento]\nAdemás, hay una cosa\nque creo que tienes que probar.\nY eso es…\nel ^006400Catálogo de escaparate de tienda^000000."
     },
     "PFlUCg": {
-        "en-US": "[Tutorial Instructor]\nThe ^006400Window Shopper Catalogue^000000\ncan be obtained from \nthe ^0000FFCatalogue Wizard^000000\nthat is located in South Prontera",
+        "en-US": "[Tutorial Instructor]\nThe ^006400Window Shopper Catalogue^000000\ncan be obtained from\nthe ^0000FFCatalogue Wizard^000000\nthat is located in South Prontera",
         "pt-BR": "[Instrutor de Tutoriais]\nO ^006400Catálogo de Vendas Prata^000000\npode ser obtido com\no ^0000FFBruxo do Catálogo^000000\nque está localizado ao Sul de Prontera.",
         "es-ES": "[Instructor de entrenamiento]\nEl ^006400Catálogo de escaparate de tienda^000000\npuede obtenerse de \ndel ^0000FFHechicero del catálogo^000000,\nque se encuentra en el sur de Prontera"
     },
@@ -190,7 +190,7 @@
         "es-ES": "[Instructor de entrenamiento]\nPor lo tanto, ve a la zona que quieras\ny prueba el ^006400Catálogo de escaparate de tienda^000000,\nluego ven a buscarme\ndespués de haberlo hecho."
     },
     "RllUCg": {
-        "en-US": "[Tutorial Instructor]\nHmm? So I noticed that \nyou haven't gone and picked up a\n^006400Window Shopper Catalogue^000000 yet!",
+        "en-US": "[Tutorial Instructor]\nHmm? So I noticed that\nyou haven't gone and picked up a\n^006400Window Shopper Catalogue^000000 yet!",
         "pt-BR": "[Instrutor de Tutoriais]\nHã? Percebi que você \nainda não pegou o\n^006400Catálogo de Vendas Prata^000000.",
         "es-ES": "[Instructor de entrenamiento]\n¿Mmm? Me di cuenta de que \nno has ido a buscar un\n^006400Catálogo de escaparate de tienda^000000 todavía."
     },
@@ -240,7 +240,7 @@
         "es-ES": "¡No!"
     },
     "UFlUCg": {
-        "en-US": "[Tutorial Instructor]\nI've been told that if you click the\nthing on the top left that says \n^006400QUEST^000000, it'll show you all \nthe information that you need\nthat pertains to your requests.",
+        "en-US": "[Tutorial Instructor]\nI've been told that if you click the\nthing on the top left that says\n^006400QUEST^000000, it'll show you all\nthe information that you need\nthat pertains to your requests.",
         "pt-BR": "[Instrutor de Tutoriais]\nOuvi dizer que se você clicar\nno botão do canto superior direito \nonde há a opção ^006400MISSÃO^000000,\nvocê verá todas as informações\nrelacionadas às suas solicitações.",
         "es-ES": "[Instructor de entrenamiento]\nMe dijeron que si pulsas lo que está\nen la parte superior izquierda que dice \n^006400MISIÓN^000000, te mostrará toda \nla información que necesitas\nque corresponda a tus solicitudes."
     },
@@ -255,7 +255,7 @@
         "es-ES": "[Instructor de entrenamiento]\nCuando juntes los objetos,\nven a mí y te enseñaré ^006400ENCANTAMIENTO^000000\nun impresionante ^006400ENCANTAMIENTO^000000.\n¡Estaré esperando!"
     },
     "U1lUCg": {
-        "en-US": "[Tutorial Instructor]\nYou got everything I asked for!\nSo~ Shall we start on the awesome \nEnchant that I found and developed?",
+        "en-US": "[Tutorial Instructor]\nYou got everything I asked for!\nSo~ Shall we start on the awesome\nEnchant that I found and developed?",
         "pt-BR": "[Instrutor de Tutoriais]\nVocê tem tudo o que eu pedi!\nEntão vamos começar o incrível\nEncantamento, de minha autoria?",
         "es-ES": "[Instructor de entrenamiento]\n¡Tienes todo lo que te pedí!\nAsí que… ¿Empezamos con el impresionante \nencantamiento que descubrí y desarrollé?"
     },
@@ -285,7 +285,7 @@
         "es-ES": "[Instructor de entrenamiento]\nParece que tienes demasiadas cosas\nen tu inventario… Despeja\ntu inventario y luego vuelve a mí\ncuando tengas menos objetos encima."
     },
     "WVlUCg": {
-        "en-US": "[Tutorial Instructor]\nWhat did you do with the Enchanted \nitems I lent to you to look at?\nUntil you don't bring back the fruits of\nmy labor, I don't want to talk to you,\nlet alone see your face",
+        "en-US": "[Tutorial Instructor]\nWhat did you do with the Enchanted\nitems I lent to you to look at?\nUntil you don't bring back the fruits of\nmy labor, I don't want to talk to you,\nlet alone see your face",
         "pt-BR": "[Instrutor de Tutoriais]\nO que você fez com os itens encantados\nque lhe emprestei para dar uma olhada?\nTraga os frutos do meu trabalho,\nou não vou querer falar com você,\nmuito menos ver seu rosto.",
         "es-ES": "[Instructor de entrenamiento]\n¿Qué hiciste con los objetos \nencantados que te presté para que mires?\nHasta que no traigas los frutos de\nmi trabajo, no quiero hablar contigo,\ny mucho menos ver tu cara."
     },
@@ -1010,7 +1010,7 @@
         "es-ES": "[Experto en reclutamiento para grupos]\nUna vez que registres tu aviso de reclutamiento para grupos en la ventana de ^006400reclutamiento para grupos^000000, los usuarios podrán buscar tu ^006400lista de reclutamiento para grupos^000000."
     },
     "6llUCg": {
-        "en-US": "[Party Recruiting Expert]\nIn the ^006400Party Recruiting List^000000 and \n^006400Party Recruiting^000000 you can put in basic information of what you're going to be doing, or what you're looking for like \n^006400LEVEL^000000, ^006400MAP^000000, ^006400JOB^000000.\nThen the users can search using those parameters and utilizing the ^006400Party Recruitment^000000 system.",
+        "en-US": "[Party Recruiting Expert]\nIn the ^006400Party Recruiting List^000000 and\n^006400Party Recruiting^000000 you can put in basic information of what you're going to be doing, or what you're looking for like\n^006400LEVEL^000000, ^006400MAP^000000, ^006400JOB^000000.\nThen the users can search using those parameters and utilizing the ^006400Party Recruitment^000000 system.",
         "pt-BR": "[Especialista em Recrutamento de Equipes]\nEm ^006400Lista de Recrutamento de Equipes^000000 e \n^006400Recrutamento de Equipes^000000, você pode colocar informações básicas sobre o que vai fazer ou o que está procurando, como:\n^006400NÍVEL^000000, ^006400MAPA^000000 e ^006400CLASSE^000000.\nEm seguida, os usuários podem realizar pesquisas com esses parâmetros no sistema ^006400Recrutamento de Equipes^000000.",
         "es-ES": "[Experto en reclutamiento para grupos]\nEn la ^006400lista de reclutamiento para grupos^000000 y \nel ^006400reclutamiento para grupos^000000 puedes poner información básica de lo que vas a hacer, o lo que estás buscando, como: \n^006400nivel^000000, ^006400mapa^000000, ^006400clase^000000.\nA continuación, los usuarios pueden buscar utilizando esos parámetros y utilizando el sistema ^006400reclutamiento para grupos^000000."
     },
@@ -1065,7 +1065,7 @@
         "es-ES": "Rendirse."
     },
     "9VlUCg": {
-        "en-US": "[Party Recruiting Expert]\nParty Recruiting is used to help \nUsers that are looking for []\nAnd those looking for a []\nWhat words go in the empty spaces of []?",
+        "en-US": "[Party Recruiting Expert]\nParty Recruiting is used to help\nUsers that are looking for []\nAnd those looking for a []\nWhat words go in the empty spaces of []?",
         "pt-BR": "[Especialista em Recrutamento de Equipes]\nO Recrutamento de Equipes é usado\npara ajudar usuários que estão\nprocurando por [] ou []\nSelecione a opção que substitui corretamente os espaços vazios: []",
         "es-ES": "[Experto en reclutamiento para grupos]\nEl reclutamiento para grupos se usa para ayudar \na los usuarios que buscan []\ny a los que buscan []\n¿Qué palabras van en los espacios vacíos de []?"
     },
